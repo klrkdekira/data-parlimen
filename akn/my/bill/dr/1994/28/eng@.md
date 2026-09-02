@@ -24,7 +24,29 @@ III
 
 ## REGULATION OF EXPLORATION AND MINING
 
-9. Holder of mineral tenement to submit copy of mineral tenement and change of address to Director, etc. 10. Submission of operational mining scheme. 11. Notices of intent to explore or carry out development work. 12. Compliance with operational mining scheme. 13. Good and safe practices and environmental standards. 14. Manager of mine. 15. Directions by manager of mine. 16. Plans to be furnished. 17. Record books on operations. 18. Effluent water. 19. Erosion. 20. Mine abandonment.
+9. Holder of mineral tenement to submit copy of mineral tenement and change of address to Director, etc.
+
+10. Submission of operational mining scheme.
+
+11. Notices of intent to explore or carry out development work.
+
+12. Compliance with operational mining scheme.
+
+13. Good and safe practices and environmental standards.
+
+14. Manager of mine.
+
+15. Directions by manager of mine.
+
+16. Plans to be furnished.
+
+17. Record books on operations.
+
+18. Effluent water.
+
+19. Erosion.
+
+20. Mine abandonment.
 
 <!-- page 2 -->
 
@@ -32,7 +54,9 @@ III
 
 ## ACCIDENT AND INQUIRY
 
-21. Proceedings upon accident and dangerous occurrence. 22. Procedure for inquiry.
+21. Proceedings upon accident and dangerous occurrence.
+
+22. Procedure for inquiry.
 
 ## PART V
 
@@ -42,19 +66,77 @@ III
 
 ## Chapter 1—Enforcement and Investigation
 
-23. Enforcement by mines officer. 24. Power of investigation. 25. Power to require attendance of person acquainted with case. 26. Power to examine person acquainted with case. 27. Power of arrest, seizure and investigation. 28. Search with warrant. 29. Search without warrant. 30. Temporary return of seized thing. 31. Forfeiture of things seized, 32. Cost of holding seized thing. 33. No costs or damages arising from seizure to be recoverable. 34. Power to stop and search conveyance.
+23. Enforcement by mines officer.
+
+24. Power of investigation.
+
+25. Power to require attendance of person acquainted with case.
+
+26. Power to examine person acquainted with case.
+
+27. Power of arrest, seizure and investigation.
+
+28. Search with warrant.
+
+29. Search without warrant.
+
+30. Temporary return of seized thing.
+
+31. Forfeiture of things seized,
+
+32. Cost of holding seized thing.
+
+33. No costs or damages arising from seizure to be recoverable.
+
+34. Power to stop and search conveyance.
 
 ## Chapter 2—Evidence
 
-35. Certificate as to the value of mineral or mineral product, etc. 36. Sample. 37. Certificate of analysis. 38. Protection of informers.
+35. Certificate as to the value of mineral or mineral product, etc.
+
+36. Sample.
+
+37. Certificate of analysis.
+
+38. Protection of informers.
 
 ## Chapter 3—-Offences and Penalties
 
-39. Various offences. 40. Penalty for failure to submit or comply with operational mining scheme. 41. Offences in relation to protection of abandoned shafts, etc. 42. Tampering with, removing, damaging or destroying any thing seized. 43. Penalty for failure to comply with lawful order.
+39. Various offences.
+
+40. Penalty for failure to submit or comply with operational mining scheme.
+
+41. Offences in relation to protection of abandoned shafts, etc.
+
+42. Tampering with, removing, damaging or destroying any thing seized.
+
+43. Penalty for failure to comply with lawful order.
 
 <!-- page 3 -->
 
-44. Offences with respect to information. 45. Disappearance or destruction of any thing seized. 46. Negligent conduct. 47. Obstruction of mines officer. 48. Use of confidential information. 49. Abuse of power. 50. Attempt and abetment. 51. Offences committed by body corporate. 52. Offences committed by partner, agent or servant. 53. Penalty for continuing offences. 54. General penalty. 55. Compounding of offences.
+44. Offences with respect to information.
+
+45. Disappearance or destruction of any thing seized.
+
+46. Negligent conduct.
+
+47. Obstruction of mines officer.
+
+48. Use of confidential information.
+
+49. Abuse of power.
+
+50. Attempt and abetment.
+
+51. Offences committed by body corporate.
+
+52. Offences committed by partner, agent or servant.
+
+53. Penalty for continuing offences.
+
+54. General penalty.
+
+55. Compounding of offences.
 
 ## Chapter 4—General
 
@@ -64,7 +146,11 @@ III
 
 ## MISCELLANEOUS
 
-58. Prohibition against disclosure of information. 59. Prohibition on abuse of information obtained in official capacity. 60. Authority card. 61. Protection of officers. 62. Service of notice.
+58. Prohibition against disclosure of information.
+
+59. Prohibition on abuse of information obtained in official capacity.
+
+60. Authority card. 61. Protection of officers. 62. Service of notice.
 
 ## PART VII
 
@@ -94,9 +180,7 @@ BE IT ENACTED by the Seri Paduka Baginda Yang di-Pertuan Agong with the advice a
 
 <!-- marginal: Short title, -->
 
-1. (1) This Act may be cited as
-
-<!-- marginal: the Mineral -->
+1. (1) This Act may be cited as the Mineral
 
 <!-- marginal: commence- -->
 
@@ -144,7 +228,11 @@ composition of a specimen or sample by physical or chemical method or by a combi
 
 "Director General" means the Director General of Mines appointed under section 4 and includes any Deputy Director General of Mines;
 
-"Director General of Geological Survey" means the Director General of Geological Survey appointed under Act 129. the Geological Survey Act 1974;
+"Director General of Geological Survey" means the Director General of Geological Survey appointed under
+
+<!-- marginal: Act 129. -->
+
+the Geological Survey Act 1974;
 
 "dulang licence" means a dulang licence for the time being in force issued under any written law relating to panning;
 
@@ -202,7 +290,11 @@ Petroleum Mining Act 1966;
 
 "operational mining scheme" means an operational mining scheme approved under section 10;
 
-"police officer" has the meaning assigned to it in the Act 344. Police Act 1967;
+"police officer" has the meaning assigned to it in the
+
+<!-- marginal: Act 344. -->
+
+Police Act 1967;
 
 "prescribed" means prescribed by regulations;
 
@@ -218,21 +310,33 @@ Petroleum Mining Act 1966;
 
 (3) All officers appointed under subsection (2) shall be subject to the control, direction and supervision of the Director General.
 
-(4) All officers appointed under this Act shall be deemed to be public servants within the meaning of the F.M.S Penal Code. Cap 45. Functions 5. The Director General shall— and duties of Director
+(4) All officers appointed under this Act shall be deemed to be public servants within the meaning of the
 
-(a) be responsible for the administration and General. enforcement of this Act;
+<!-- marginal: F.M.S -->
+
+Penal Code.
+
+<!-- marginal: Cap 45. -->
+
+<!-- marginal: Functions -->
+
+5. The Director General shall—
+
+<!-- marginal: and duties of -->
+
+<!-- marginal: Director -->
+
+(a) be responsible for the administration and
+
+<!-- marginal: General. -->
+
+enforcement of this Act;
 
 (b) exercise supervision and control on the safety aspects relating to mines and to the fossicking, panning, exploration, mining, possession, movement, storage and processing of minerals and mineral ores in accordance with this Act;
 
-(c) obtain information on and keep records of operations pertaining to
+(c) obtain information on and keep records of operations pertaining to the fossicking, panning, exploration, mining, possession, movement, storage, processing, purchase and sale of minerals and mineral ores;
 
-<!-- marginal: the fossicking, -->
-
-panning, exploration, mining, possession, movement, storage, processing, purchase and sale of minerals and mineral ores;
-
-(d) perform such functions in relation to this Act as the Minister may from
-
-<!-- marginal: time -->
+(d) perform such functions in relation to this Act as the Minister may from time
 
 <!-- marginal: to -->
 
@@ -242,7 +346,23 @@ determine; and
 
 (e) carry on such other activities as may appear to the Director General requisite, advantageous or convenient for the purpose of carrying out the provisions of this Act.
 
-Delegation 6. The Director General may, in writing, delegate to of functions, any officer under his control, direction and supervision or duties by Director the exercise or performance, subject to such conditions, General. limitations or restrictions as may be provided in the instrument of delegation, of any of his functions or duties assigned to him under this Act:
+<!-- marginal: Delegation -->
+
+6. The Director General may, in writing, delegate to
+
+<!-- marginal: of functions, -->
+
+any officer under his control, direction and supervision
+
+<!-- marginal: or duties by -->
+
+<!-- marginal: Director -->
+
+the exercise or performance, subject to such conditions,
+
+<!-- marginal: General. -->
+
+limitations or restrictions as may be provided in the instrument of delegation, of any of his functions or duties assigned to him under this Act:
 
 Provided that any delegation under this section with respect to any function or duty shall not prevent the Director General from himself exercising or performing such delegated function or duty in any case where it appears to him expedient to do SO.
 
@@ -300,11 +420,51 @@ Provided that such information shall be deemed, if requested in writing by such 
 
 ## REGULATION OF EXPLORATION AND MINING
 
-Holder of 9. (1) Any holder of a prospecting licence, exploration mineral licence, proprietary mining licence or mining lease tenement to submit copy shall, within thirty days after the registration of such of mineral mineral tenement under any written law, send a copy of tenement and his mineral tenement to the Director and the Director change of address to General of Geological Survey. Director, etc. (2) Any holder of mineral tenement mentioned in subsection (1) who has changed his address shall, within fourteen days from the date of change of such address, notify the Director and the Director General of Geological Survey in writing of his new address.
+<!-- marginal: Holder of -->
 
-Submission
+9. (1) Any holder of a prospecting licence, exploration
 
-10. (1) The holder of a proprietary mining licence or of operational mining lease shall be required to submit for approval by mining scheme. the Director an operational mining scheme for development work and mining on the land which is the subject of such mineral tenement before
+<!-- marginal: mineral -->
+
+licence, proprietary mining licence or mining lease
+
+<!-- marginal: tenement to -->
+
+<!-- marginal: submit copy -->
+
+shall, within thirty days after the registration of such
+
+<!-- marginal: of mineral -->
+
+mineral tenement under any written law, send a copy of
+
+<!-- marginal: tenement and -->
+
+his mineral tenement to the Director and the Director
+
+<!-- marginal: change of -->
+
+<!-- marginal: address to -->
+
+General of Geological Survey.
+
+<!-- marginal: Director, etc. -->
+
+(2) Any holder of mineral tenement mentioned in subsection (1) who has changed his address shall, within fourteen days from the date of change of such address, notify the Director and the Director General of Geological Survey in writing of his new address.
+
+<!-- marginal: Submission -->
+
+10. (1) The holder of a proprietary mining licence or
+
+<!-- marginal: of operational -->
+
+mining lease shall be required to submit for approval by
+
+<!-- marginal: mining -->
+
+<!-- marginal: scheme. -->
+
+the Director an operational mining scheme for development work and mining on the land which is the subject of such mineral tenement before
 
 <!-- marginal: the -->
 
@@ -338,15 +498,47 @@ commencement of any development work or mining within the mineral tenement area.
 
 <!-- page 13 -->
 
-Notices of 11. ( 1) The holder of a prospecting
+<!-- marginal: Notices of -->
 
-<!-- marginal: licence or -->
+11. ( 1) The holder of a prospecting licence or
 
-intent to exploration licence shall send a written notice at least explore or carry out seven days before commencing exploration to the development Director and the Director General of Geological Survey work. informing them of such intent.
+<!-- marginal: intent to -->
+
+exploration licence shall send a written notice at least
+
+<!-- marginal: explore or -->
+
+<!-- marginal: carry out -->
+
+seven days before commencing exploration to the
+
+<!-- marginal: development -->
+
+Director and the Director General of Geological Survey
+
+<!-- marginal: work. -->
+
+informing them of such intent.
 
 (2) The holder of a proprietary mining licence or mining lease shall send to the Director and the Director General of Geological Survey a similar notice before commencing any development work.
 
-Compliance 12. (1) The holder of a proprietary mining licence or with mining lease shall comply with the approved operational operational mining mining scheme under section 10 and carry out scheme. development work and mining in accordance with such approved operational mining scheme.
+<!-- marginal: Compliance -->
+
+12. (1) The holder of a proprietary mining licence or
+
+<!-- marginal: with -->
+
+mining lease shall comply with the approved operational
+
+<!-- marginal: operational -->
+
+<!-- marginal: mining -->
+
+mining scheme under section 10 and carry out
+
+<!-- marginal: scheme. -->
+
+development work and mining in accordance with such approved operational mining scheme.
 
 (2) Upon failure by the holder of a proprietary mining licence or mining lease to comply with the approved operational mining scheme, the Director shall inquire into the matter and may order the holder of such licence or lease to—
 
@@ -356,7 +548,23 @@ Compliance 12. (1) The holder of a proprietary mining licence or with mining lea
 
 (3) Any measures taken to comply with an order issued under subsection (2) shall not operate to relieve any holder of such licence or lease from any liability arising under subsection (1).
 
-Good and 13. Fossicking, panning, exploration, mining and safe practices mineral processing shall be carried out in accordance and environ- mental with good and safe practices and such environmental standards. standards as may be prescribed under this Act and any written law relating to environment.
+<!-- marginal: Good and -->
+
+13. Fossicking, panning, exploration, mining and
+
+<!-- marginal: safe practices -->
+
+mineral processing shall be carried out in accordance
+
+<!-- marginal: and environ- -->
+
+<!-- marginal: mental -->
+
+with good and safe practices and such environmental
+
+<!-- marginal: standards. -->
+
+standards as may be prescribed under this Act and any written law relating to environment.
 
 <!-- page 14 -->
 
@@ -374,7 +582,9 @@ mining lease shall, where—
 
 appoint a manager of the mine.
 
-(2) The appointment of a manager under subsection (1) shall be with the approval of the Assistant Director.
+(2) The appointment of a manager under subsection
+
+(1) shall be with the approval of the Assistant Director.
 
 (3) If the manager appointed under subsection (1) ceases to be the manager of the mine, the holder of a proprietary mining licence or mining lease shall within three days from the date of cessation appoint another manager with the approval of the Assistant Director.
 
@@ -404,9 +614,17 @@ appoint a manager of the mine.
 
 (11) The holder of a proprietary mining licence or mining lease and every manager, assistant manager and person appointed under subsection (10) shall ensure the safety of all operations at the mine and the observance of the provisions of this Act.
 
-Directions
+<!-- marginal: Directions -->
 
-15. (1) The manager of any mine may, and if so by manager required by the Assistant Director shall, issue written of mine. directions to be observed by any person employed in or about such mine as are necessary under the particular circumstances to ensure their occupational safety and health.
+15. (1) The manager of any mine may, and if so
+
+<!-- marginal: by manager -->
+
+required by the Assistant Director shall, issue written
+
+<!-- marginal: of mine. -->
+
+directions to be observed by any person employed in or about such mine as are necessary under the particular circumstances to ensure their occupational safety and health.
 
 (2) A copy of the written directions shall be sent to the Assistant Director and if the Assistant Director has not within thirty days from the receipt thereof objected to them in writing to the manager the written directions shall, subject to subsection (8), come into force.
 
@@ -444,9 +662,17 @@ thereto given, nor shall such plans be open to inspection unless the permission 
 
 (5) The manager shall make available such plans at the mine whenever requested by any mines officer and the manager shall, if so requested, mark on such plans the progress of the workings of the mine at the time of production, and shall allow the mines officer to examine and take a copy thereof.
 
-Record
+<!-- marginal: Record -->
 
-17. (1) The manager of a mine shall keep record books, books on in such form and containing such information as may operations. be prescribed, concerning the operation of the mine.
+17. (1) The manager of a mine shall keep record books,
+
+<!-- marginal: books on -->
+
+in such form and containing such information as may
+
+<!-- marginal: operations. -->
+
+be prescribed, concerning the operation of the mine.
 
 (2) The record books shall be—
 
@@ -490,9 +716,13 @@ mining lease or manager who uses water in connection with mining shall take such
 
 (2) Whenever directed by the Assistant Director, every holder of a mineral tenement and his manager shall provide and maintain such retention works or other place as are necessary and adequate to prevent the products of erosion from being discharged into any river or drainage system.
 
-Mine
+<!-- marginal: Mine -->
 
-20. (1) Before any mining operations is abandoned or abandonment. discontinued, a written notice shall be given three months before such intended abandonment or discontinuance by the holder of a proprietary mining licence or mining lease or manager to the Assistant Director and to the Director General of Geological Survey.
+20. (1) Before any mining operations is abandoned or
+
+<!-- marginal: abandonment. -->
+
+discontinued, a written notice shall be given three months before such intended abandonment or discontinuance by the holder of a proprietary mining licence or mining lease or manager to the Assistant Director and to the Director General of Geological Survey.
 
 (2) Where any mine is to be abandoned, the holder of the proprietary mining licence or mining lease or manager shall cause to be made an accurate plan, to the satisfaction of the Director, showing the workings of such mine up to the time of abandonment and copies of such plan shall be submitted to the Director and the Director General of Geological Survey within one month after the abandonment.
 
@@ -506,11 +736,21 @@ IV
 
 ## ACCIDENT AND INQUIRY
 
-Proceedings
+<!-- marginal: Proceedings -->
 
-21. (1) Where— upon accident and
+21. (1) Where—
 
-(a) any accident resulting in loss of life or serious dangerous bodily injury to any person; or occurrence.
+<!-- marginal: upon accident -->
+
+<!-- marginal: and -->
+
+(a) any accident resulting in loss of life or serious
+
+<!-- marginal: dangerous -->
+
+bodily injury to any person; or
+
+<!-- marginal: occurrence. -->
 
 <!-- page 20 -->
 
@@ -544,7 +784,13 @@ Provided that rescue work or any work necessary for the general safety of the pe
 
 (6) The Director General shall consider the report submitted under subsection (5) and decide whether or not to hold an inquiry.
 
-Procedure 22. (1) Where the Director General decides to hold an for inquiry. inquiry, he shall appoint a mines officer and if necessary any person possessing legal or special knowledge to assist him in such inquiry.
+<!-- marginal: Procedure -->
+
+22. (1) Where the Director General decides to hold an
+
+<!-- marginal: for inquiry. -->
+
+inquiry, he shall appoint a mines officer and if necessary any person possessing legal or special knowledge to assist him in such inquiry.
 
 (2) The mines officer may open the inquiry or any part of the inquiry to the public and shall conduct it in such manner as he considers most effective for ascertaining the cause of the accident and he shall subsequently submit a report of the inquiry through the Director General to the Minister.
 
@@ -614,9 +860,15 @@ this Act—
 
 (f) take samples of any material whether solid, liquid or gas in or being discharged in or from any fossicking, panning, exploration or storage facility area or mine or mineral processing plant.
 
-Power of
+<!-- marginal: Power of -->
 
-24. (1) Any mines officer shall have the power to investigation. investigate the commission of any offence under this Act.
+24. (1) Any mines officer shall have the power to
+
+<!-- marginal: investigation. -->
+
+investigate the commission of any offence under this
+
+<!-- marginal: Act. -->
 
 <!-- page 24 -->
 
@@ -646,7 +898,9 @@ circumstances of the case, and such person shall attend as so required.
 
 (2) If any such person fails to attend as so required, the mines officer may report such failure to a Magistrate who may thereupon in his discretion issue a warrant to secure the attendance of such person.
 
-(3) A person attending as required under subsection (1) shall be entitled to be paid the reasonable travelling and subsistence expenses incurred by him and it shall be lawful for the Director General to pay such expenses.
+(3) A person attending as required under subsection
+
+(1) shall be entitled to be paid the reasonable travelling and subsistence expenses incurred by him and it shall be lawful for the Director General to pay such expenses.
 
 <!-- marginal: Power to -->
 
@@ -678,11 +932,23 @@ Provided that such person may refuse to answer any question the answer to which 
 
 (5) A statement made by any person under this section shall, whenever possible, be reduced into writing and signed by the person making it or affixed with his thumb-print, as the case may be, after it has been read to him in the language in which he made it and after he has been given an opportunity to make any corrections he may wish, and where the person examined refuses to sign or affix his thumb-print on the statement, the mines officer shall endorse thereon under his hand the fact of such refusal and the reason therefor, if any, stated by the person examined.
 
-Power of
+<!-- marginal: Power of -->
 
-27. (1) A mines officer may without warrant— arrest. seizure and
+27. (1) A mines officer may without warrant—
 
-(a) arrest any person found committing or investigation. attempting to commit or abetting the commission of an offence under this Act; and
+<!-- marginal: arrest. -->
+
+<!-- marginal: seizure and -->
+
+(a) arrest any person found committing or
+
+<!-- marginal: investigation. -->
+
+attempting to commit or abetting
+
+<!-- marginal: the -->
+
+commission of an offence under this Act; and
 
 (b) seize any thing which he considers necessary to seize in relation to the evidence necessary to establish the commission of any such offence.
 
@@ -690,9 +956,13 @@ Power of
 
 (1)(a) shall without unnecessary delay make over the person so arrested to the nearest police officer or, in the absence of a police officer, take such person to the nearest police station, and thereafter the person arrested as aforesaid shall be dealt with as provided by the law relating to criminal procedure for the time being in force as if he had been arrested by a police officer.
 
-Search with
+<!-- marginal: Search with -->
 
-28. (1) If it appears to a Magistrate, upon information warrant. on oath and after such inquiry as he considers necessary, that there is reasonable cause to suspect that in any building or place or on any land there is concealed or deposited any mineral, box, trunk, receptacle, package, conveyance or thing in respect of which an offence under this Act is being or has been committed, the
+28. (1) If it appears to a Magistrate, upon information
+
+<!-- marginal: warrant. -->
+
+on oath and after such inquiry as he considers necessary, that there is reasonable cause to suspect that in any building or place or on any land there is concealed or deposited any mineral, box, trunk, receptacle, package, conveyance or thing in respect of which an offence under this Act is being or has been committed, the
 
 <!-- page 26 -->
 
@@ -724,17 +994,37 @@ empowered to effect under subsection (1); and
 
 <!-- page 27 -->
 
-Search
+<!-- marginal: Search -->
 
-29. If it appears to a mines officer that there is without reasonable cause to suspect that in any building or place warrant. or on any land there is concealed or deposited any mineral, box, trunk, receptacle, package, conveyance or thing in respect of which an offence under this Act is being or has been committed, and if he has reasonable grounds for believing that by reason of delay in obtaining a search warrant under section 28 such mineral, box, trunk, receptacle, package, conveyance or thing is likely to be removed or destroyed, he may exercise in, upon, and in respect of the building, place or land all the powers mentioned in section 28 in as full and ample a manner as if he was authorised to do so by warrant under that section.
+29. If it appears to a mines officer that there is
 
-Temporary
+<!-- marginal: without -->
 
-30. Where any thing has been seized under this Act, return of the Director may, at his discretion, temporarily return seized thing. such thing to the owner or the person from whom such thing was seized subject to such terms and conditions as the Director may impose, and subject in any case to sufficient security being furnished to his satisfaction that such thing shall be surrendered to him on demand or be produced before a court of competent jurisdiction.
+reasonable cause to suspect that in any building or place
 
-Forfeiture of
+<!-- marginal: warrant. -->
 
-31. (1) Any thing seized in exercise of any power things seized. conferred under this Act shall be liable to forfeiture.
+or on any land there is concealed or deposited any mineral, box, trunk, receptacle, package, conveyance or thing in respect of which an offence under this Act is being or has been committed, and if he has reasonable grounds for believing that by reason of delay in obtaining a search warrant under section 28 such mineral, box, trunk, receptacle, package, conveyance or thing is likely to be removed or destroyed, he may exercise in, upon, and in respect of the building, place or land all the powers mentioned in section 28 in as full and ample a manner as if he was authorised to do so by warrant under that section.
+
+<!-- marginal: Temporary -->
+
+30. Where any thing has been seized under this Act,
+
+<!-- marginal: return of -->
+
+the Director may, at his discretion, temporarily return
+
+<!-- marginal: seized thing. -->
+
+such thing to the owner or the person from whom such thing was seized subject to such terms and conditions as the Director may impose, and subject in any case to sufficient security being furnished to his satisfaction that such thing shall be surrendered to him on demand or be produced before a court of competent jurisdiction.
+
+<!-- marginal: Forfeiture of -->
+
+31. (1) Any thing seized in exercise of any power
+
+<!-- marginal: things seized. -->
+
+conferred under this Act shall be liable to forfeiture.
 
 (2) An order for the forfeiture or for the release of any thing seized in exercise of any power conferred under this Act shall be made by the court before which the prosecution with regard thereto has been held and an order for the forfeiture of the thing shall be made if it is proved to the satisfaction of the court that an offence under this Act has been committed and that the thing was the subject matter of or was used in the commission of the offence, notwithstanding that no person may have been convicted of such offence.
 
@@ -770,15 +1060,51 @@ was seized indicating that there is no prosecution in respect of such thing, unl
 
 of such thing involves unreasonable expense and inconvenience, or is believed to cause obstruction or hazard to the public, the Director may direct that such thing be sold at any time and the proceeds of the sale be held to abide by the result of any prosecution or claim under this section.
 
-Cost of
+<!-- marginal: Cost of -->
 
-32. Where any thing seized under this Act is held in holding the custody of the Government pending completion of seized thing. any proceedings in respect of an offence under this Act, the cost of holding such thing in custody shall, in the event of any person being found guilty of an offence, be a debt due to the Government by such person and shall be recoverable accordingly.
+32. Where any thing seized under this Act is held in
 
-No costs or
+<!-- marginal: holding -->
 
-33. No person shall, in any proceedings before any damages court in respect of the seizure of any thing seized in the arising from seizure to be exercise or the purported exercise of any power recoverable. conferred under this Act, be entitled to the costs of such proceedings or to any damages or other relief unless such seizure was made without reasonable cause.
+the custody of the Government pending completion of
 
-34. (1) If any mines officer has reasonable suspicion Power to stop and that any conveyance is carrying any thing in respect of search which an offence under this Act is being or has been conveyance. committed, he may stop and examine the conveyance.
+<!-- marginal: seized thing. -->
+
+any proceedings in respect of an offence under this Act, the cost of holding such thing in custody shall, in the event of any person being found guilty of an offence, be a debt due to the Government by such person and shall be recoverable accordingly.
+
+<!-- marginal: No costs or -->
+
+33. No person shall, in any proceedings before any
+
+<!-- marginal: damages -->
+
+court in respect of the seizure of any thing seized in the
+
+<!-- marginal: arising from -->
+
+<!-- marginal: seizure to be -->
+
+exercise or the purported exercise of any power
+
+<!-- marginal: recoverable. -->
+
+conferred under this Act, be entitled to the costs of such proceedings or to any damages or other relief unless such seizure was made without reasonable cause.
+
+34. (1) If any mines officer has reasonable suspicion
+
+<!-- marginal: Power to -->
+
+<!-- marginal: stop and -->
+
+that any conveyance is carrying any thing in respect of
+
+<!-- marginal: search -->
+
+which an offence under this Act is being or has been
+
+<!-- marginal: conveyance. -->
+
+committed, he may stop and examine the conveyance.
 
 (2) The person in control or in charge of the conveyance shall, if required to do so by the mines officer—
 
@@ -842,7 +1168,13 @@ Provided always that in any case in which the prosecuting officer intends to giv
 
 (3) If any analyst is called by the accused as provided for in subsection (1), he shall be called at the expense of the accused unless the court otherwise directs.
 
-Protection of 38. (1) Except as hereinafter provided, no witness in informers any civil or criminal proceedings shall be obliged or permitted to disclose the name or address of any informer or the substance and nature of the information received from him or to state any matter which may lead to his discovery.
+<!-- marginal: Protection of -->
+
+38. (1) Except as hereinafter provided, no witness in
+
+<!-- marginal: informers -->
+
+any civil or criminal proceedings shall be obliged or permitted to disclose the name or address of any informer or the substance and nature of the information received from him or to state any matter which may lead to his discovery.
 
 (2) If any books, documents or papers which are in evidence or are liable to inspection in any civil or criminal proceedings contain any entry in which any informer is named or described or which might lead to his discovery, the court shall cause all such passages to be concealed from view or to be obliterated so far only as may be necessary to protect the informer from discovery.
 
@@ -940,7 +1272,13 @@ offence and shall, on conviction, be liable to a fine not exceeding forty thousa
 
 <!-- page 33 -->
 
-Offences with 44. (1) Any person who— respect to information
+<!-- marginal: Offences with -->
+
+44. (1) Any person who—
+
+<!-- marginal: respect to -->
+
+<!-- marginal: information -->
 
 (a) submits false information in any application, report or other document under this Act;
 
@@ -990,11 +1328,7 @@ the intent to prevent the seizure thereof shall be guilty of an offence and shal
 
 <!-- marginal: conduct -->
 
-(a) when employed in or about a mine or exploration site does any act in such manner as to be likely to cause danger or damage to any person in or about such mine or exploration site or fails to
-
-<!-- marginal: take such -->
-
-precautions as may be necessary to ensure the safety of any person in or about such place; or
+(a) when employed in or about a mine or exploration site does any act in such manner as to be likely to cause danger or damage to any person in or about such mine or exploration site or fails to take such precautions as may be necessary to ensure the safety of any person in or about such place; or
 
 <!-- page 35 -->
 
@@ -1002,15 +1336,59 @@ precautions as may be necessary to ensure the safety of any person in or about s
 
 shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both.
 
-Obstruction 47. Any person who obstructs, impedes, assaults or of mines interferes with any mines officer in the execution of his officer. functions under this Act shall be guilty of an offence.
+<!-- marginal: Obstruction -->
 
-Use of 48. Any person who makes use of any confidential confidential information in contravention of section 58 or 59 shall information. be guilty of an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both.
+47. Any person who obstructs, impedes, assaults or
 
-Abuse of 49. Any person who, in purported exercise of the power. powers under this Act, vexatiously and unnecessarily seizes or detains any mineral, mineral product, conveyance, equipment, book, document or other thing shall be guilty of an offence.
+<!-- marginal: of mines -->
 
-Attempt and 50. Any person who attempts to commit any offence abetment. under this Act or abets the commission of any offence under this Act shall be guilty of such offence and shall be liable to the penalty provided for the offence.
+interferes with any mines officer in the execution of his
 
-Offences 51. Where a person charged with an offence under this committed Act is a body corporate, every person who, at the time by body corporate. of the commission of such offence, is a managing director, manager or other similar officer of such body
+<!-- marginal: officer. -->
+
+functions under this Act shall be guilty of an offence.
+
+<!-- marginal: Use of -->
+
+48. Any person who makes use of any confidential
+
+<!-- marginal: confidential -->
+
+information in contravention of section 58 or 59 shall
+
+<!-- marginal: information. -->
+
+be guilty of an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both.
+
+<!-- marginal: Abuse of -->
+
+49. Any person who, in purported exercise of the
+
+<!-- marginal: power. -->
+
+powers under this Act, vexatiously and unnecessarily seizes or detains any mineral, mineral product, conveyance, equipment, book, document or other thing shall be guilty of an offence.
+
+<!-- marginal: Attempt and -->
+
+50. Any person who attempts to commit any offence
+
+<!-- marginal: abetment. -->
+
+under this Act or abets the commission of any offence under this Act shall be guilty of such offence and shall be liable to the penalty provided for the offence.
+
+<!-- marginal: Offences -->
+
+51. Where a person charged with an offence under this
+
+<!-- marginal: committed -->
+
+Act is a body corporate, every person who, at the time
+
+<!-- marginal: by body -->
+
+<!-- marginal: corporate. -->
+
+of the commission of such offence, is a managing director, manager or other similar officer of such body
 
 corporate, may be charged jointly in the same proceedings with the body corporate, and where the body corporate is convicted of the offence charged, every such managing director, manager or officer shall be deemed to be guilty of the offence unless he proves that the offence was committed without his knowledge
 
@@ -1078,15 +1456,53 @@ General may compound any offence committed by any person under this Act, which i
 
 ## Chapter 4—General
 
-Institution of 56. (1) No proceedings for, or in relation to, any proceedings offence under this Act shall be instituted without the and conduct of written consent of the Public Prosecutor. prosecution. (2) Any mines officer authorised in writing by the Public Prosecutor may conduct the prosecution for any offence under this Act.
+<!-- marginal: Institution of -->
 
-Recovery of 57. Any money payable to the Government under this money due to Act may be recovered by the Government by civil Government. proceedings as a debt due to the Government.
+56. (1) No proceedings for, or in relation to, any
+
+<!-- marginal: proceedings -->
+
+offence under this Act shall be instituted without the
+
+<!-- marginal: and conduct -->
+
+<!-- marginal: of -->
+
+written consent of the Public Prosecutor.
+
+<!-- marginal: prosecution. -->
+
+(2) Any mines officer authorised in writing by the Public Prosecutor may conduct the prosecution for any offence under this Act.
+
+<!-- marginal: Recovery of -->
+
+57. Any money payable to the Government under this
+
+<!-- marginal: money due to -->
+
+Act may be recovered by the Government by civil
+
+<!-- marginal: Government. -->
+
+proceedings as a debt due to the Government.
 
 ## PART VI
 
 ## MISCELLANEOUS
 
-Prohibition 58. (1) Subject to subsection (4), no information against contained in any report submitted as required by any disclosure of information. office or officer of the Government regarding any prospecting licence or exploration licence shall be disclosed by such office or officer—
+<!-- marginal: Prohibition -->
+
+58. (1) Subject to subsection (4), no information
+
+<!-- marginal: against -->
+
+contained in any report submitted as required by any
+
+<!-- marginal: disclosure of -->
+
+<!-- marginal: information. -->
+
+office or officer of the Government regarding any prospecting licence or exploration licence shall be disclosed by such office or officer—
 
 (a) for a period of three years from the date of submission of the report; or
 
@@ -1096,11 +1512,7 @@ whichever period shall so first expire, except with the written consent of the h
 
 <!-- page 38 -->
 
-(2) Subject to subsection (4), no
-
-<!-- marginal: information -->
-
-contained in any report submitted as required by any office or officer of the Government regarding any proprietary mining licence or mining lease shall be disclosed by such office or officer for a period of one year from the date of expiry of the licence or lease except with the written consent of the holder of such proprietary mining licence or mining lease.
+(2) Subject to subsection (4), no information contained in any report submitted as required by any office or officer of the Government regarding any proprietary mining licence or mining lease shall be disclosed by such office or officer for a period of one year from the date of expiry of the licence or lease except with the written consent of the holder of such proprietary mining licence or mining lease.
 
 (3) All information submitted in support of an application for a mineral tenement or for the renewal thereof and supplied to any office or officer of the Government shall be kept confidential by such office or officer—
 
@@ -1128,7 +1540,7 @@ administration of this Act;
 
 <!-- page 39 -->
 
-Prohibition
+<!-- marginal: Prohibition -->
 
 59. (1) Any mines officer responsible
 
@@ -1136,7 +1548,23 @@ Prohibition
 
 <!-- marginal: the -->
 
-on abuse of administration of this Act who has any information information obtained in which if generally known might reasonably be expected official to affect materially an exploration or mining activity capacity. which—
+<!-- marginal: on abuse of -->
+
+administration of this Act who has any information
+
+<!-- marginal: information -->
+
+<!-- marginal: obtained in -->
+
+which if generally known might reasonably be expected
+
+<!-- marginal: official -->
+
+to affect materially an exploration or mining activity
+
+<!-- marginal: capacity. -->
+
+which—
 
 (a) he holds by virtue of his official capacity or former official capacity; and
 
@@ -1144,19 +1572,31 @@ on abuse of administration of this Act who has any information information obtai
 
 shall not make improper use of such information to gain, directly or indirectly, an advantage for himself or for any other person.
 
-Authority
+<!-- marginal: Authority -->
 
-60. (1) Every mines officer empowered to act under card. this Act shall, on request, declare his office and produce to the person against whom the mines officer is acting or from whom the mines officer seeks any information his authority card as is officially issued to him by the Director General.
+60. (1) Every mines officer empowered to act under
+
+<!-- marginal: card. -->
+
+this Act shall, on request, declare his office and produce to the person against whom the mines officer is acting or from whom the mines officer seeks any information his authority card as is officially issued to him by the Director General.
 
 (2) Any person may refuse to comply with any request, demand or order by any mines officer acting under this Act if the mines officer refuses to declare his office and produce his authority card on demand being made by such person.
 
-Protection of
+<!-- marginal: Protection of -->
 
-61. No mines officer responsible for the administration officers. of this Act shall incur any personal liability for any loss or damage caused by any act or omission by him in carrying out the duties under this Act or any regulations made thereunder unless the loss or damage was occasioned intentionally or through recklessness or gross negligence.
+61. No mines officer responsible for the administration
 
-Service of
+<!-- marginal: officers. -->
 
-62. (1) Any notice required to be given or served notice. under this Act may, unless some other form of service is prescribed, be sent by registered post to the person affected thereby.
+of this Act shall incur any personal liability for any loss or damage caused by any act or omission by him in carrying out the duties under this Act or any regulations made thereunder unless the loss or damage was occasioned intentionally or through recklessness or gross negligence.
+
+<!-- marginal: Service of -->
+
+62. (1) Any notice required to be given or served
+
+<!-- marginal: notice. -->
+
+under this Act may, unless some other form of service is prescribed, be sent by registered post to the person affected thereby.
 
 <!-- page 40 -->
 
@@ -1194,15 +1634,15 @@ Registrar of Companies or to the registered office of the company, wherever it m
 
 requirements for possession, purchase, sale, movement, transport, storage and mineral processing;
 
-(b) control and regulate the
-
-<!-- marginal: production, -->
-
-possession, purchase, sale, delivery and export of minerals and mineral ores in order to meet the obligations imposed by international organizations of which Malaysia is a member, without prejudice however to the provisions of any other written law on the matter;
+(b) control and regulate the production, possession, purchase, sale, delivery and export of minerals and mineral ores in order to meet the obligations imposed by international organizations of which Malaysia is a member, without prejudice however to the provisions of any other written law on the matter;
 
 (c) prescribe environmental protection measures, effluent standards, noise standards, vibration standards and other standards and means to protect the environment:
 
-Provided t h at such prescribed measures, standards or means shall not conflict with any provision of the Environmental Quality Act Act 127 1974;
+Provided t h at such prescribed measures, standards or means shall not conflict with any provision of the Environmental Quality Act
+
+<!-- marginal: Act 127 -->
+
+1974;
 
 (d) prescribe requirements and standards for the use of explosives and blasting agents, dangerous and toxic materials, ventilation, sanitary conditions and hygiene in exploration and mining areas;
 

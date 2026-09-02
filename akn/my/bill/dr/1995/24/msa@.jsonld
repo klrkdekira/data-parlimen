@@ -1,0 +1,614 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-24-1995",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_18"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Perancangan Bandar dan Desa (Pindaan) 1995"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_1__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 26(1) Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan perkataan \"lima puluh\" dan \"lima ratus\" masing-masing dengan perkataan \"satu ratus\" dan \"satu"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_11__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 27 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"dua\" dan \"lima ratus\" di dalam subseksyen (6) masing-masing dengan perkataan \"lima\" dan \"satu ribu\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"sepuluh\" dan \"lima ratus\" di dalam subseksyen (9) masing- masing dengan perkataan \"lima puluh\" dan \"satu ribu\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_12__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 28 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"dua\" dan \"lima ratus\" di dalam subseksyen (6) masing-masing dengan perkataan \"lima\" dan \"satu ribu\" masing- masing; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"sepuluh\" dan \"lima ratus\" di dalam subseksyen (9) masing- masing dengan perkataan \"lima puluh\" dan \"satu ribu\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 29 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan perkataan \"dua\" dan \"lima ratus\" di dalam subseksyen (4) dan (6) masing-masing dengan perkataan \"lima\" dan \"satu ribu\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 30(8) Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan perkataan \"sepuluh\" dan \"lima ratus\" masing-masing dengan perkataan \"lima puluh\" dan \"satu ribu\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "BAHAGIAN V, Bahagian yang berikut: BAHAGIAN VA PERINTAH PEMELIHARAAN POKOK Perintah 35A. (1) Jika pihakberkuasa perancang pemeliharaan tempatan berpendapat bahawa adalah suai- pokok. manfaat bagi kepentingan keselesaan untuk memelihara mana-mana pokok, pokok-pokok atau kelompok pokok dalam kawasannya, ia boleh membuat suatu perintah pemeliharaan pokok mengenai pokok, pokok-pokok atau kelompok pokok itu. (2) Suatu perintah pemeliharaan pokok boleh, secara khusus mengadakan peruntukan— (a) bagi melarang penebangan pokok-pokok kecuali dengan kebenaran bertulis pihakberkuasa perancang tempatan dan tertakluk kepada syarat-syarat, jika ada, yang dikenakan olehnya; dan (b) bagi memastikan yang pokok-pokok ditanam atau diganti melalui penanaman semula mengikut cara yang ditentukan oleh pihakberkuasa perancang tempatan. (3) Seksyen-kecil (2)(a) tidaklah terpakai bagi penebangan sesuatu pokok— (a) yang hampir mati atau telah mati; (b) bagi mencegah bahaya yang hampir benar berlaku; atau (c) melainkan jika ia dilakukan sebagai mematuhi mana-mana undang-undang bertulis. (4) Mana-mana orang yang melanggar mana- mana peruntukan dalam perintah pemeliharaan pokok adalah melakukan suatu kesalahan dan boleh dikenakan, apabila disabitkan, denda tidak lebih daripada lima puluh ribu ringgit. (5) Jika di dalam mana-mana prosiding bagi suatu kesalahan di bawah seksyen ini, telah dibuktikan bahawa sesuatu pokok telah ditebang, maka hendaklah dianggapkan, sehingga dibuktikan sebaliknya, bahawa pokok itu telah ditebang oleh penduduk tanah yang di atasnya pokok itu tumbuh. 35B. Walau apa pun seksyen 35A, suatu perintah pemeliharaan pokok tidak boleh dibuat berkenaan dengan pokok, pokok-pokok atau kelompok pokok yang tertakluk kepada syarat-syarat yang dikenakan di bawah perenggan (f) dan (g) seksyen 22(5). 35c. Mana-mana orang yang terkilan dengan— (a) suatu perintah pemeliharaan pokok; (b) mana-mana peruntukan dalam suatu perintah pemeliharaan pokok; (c) (i) penolakan pemberian kebenaran bertulis; atau (ii) mana-mana syarat yang dikenakan ke atas pemberian suatu kebenaran bertulis, di bawah perenggan (a) seksyen 35A(2); atau (d) suatu perintah untuk menanam atau menggantikan pokok di bawah perenggan (b) seksyen 35A(2), boleh merayu kepada Lembaga Rayuan, dalam masa satu bulan dari tarikh dia diberitahu tentang perintah, penolakan atau pengenaan syarat-syarat itu. 35D. (1) Jika pemunya tanah yang tanahnya dimaksudkan oleh suatu perintah pemeliharaan pokok membuktikan bahawa dia mengalami kerugian berupa kesusutan dalam nilai tanahnya, kerana mematuhi perenggan (a) hingga (d) seksyen 35c(l), dia boleh menuntut pampasan daripada pihak berkuasa perancang tempatan. RANG UNDANG-UNDANG (2) Suatu tuntutan pampasan di bawah seksyen-kecil (1) hendaklah disampaikan kepada pihakberkuasa perancang tempatan— (a) dalam masa enam bulan dari tarikh— (i) perintah pemeliharaan pokok; (ii) penolakan pemberian kebenaran bertulis atau pengenaan syarat- syarat di bawah perenggan (a) seksyen 35A(2); atau (iii) perintah untuk menggantikan po- kok di bawah perenggan (b) seksyen 35A(2), itu diberitahu kepada pemunya tanah itu; atau (b) jika rayuan dibuat di bawah seksyen 35c(l), dalam masa enam bulan dari tarikh keputusan Lembaga Rayuan mengesahkan perintah, penolakan atau pengenaan syarat-syarat yang dirayui itu. (3) Jika pemunya tanah itu tidak berpuas hati dengan amaun pampasan yang diawardkan, dia boleh dalam masa satu bulan dari tarikh award itu merayu kepada Lembaga Rayuan yang mempunyai kuasa untuk mengesahkan atau mengubah amaun pampasan yang diawardkan itu. 35E. (1) Maka orang yang didapati bersalah di bawah seksyen 35A(4) kerana menebang mana- mana pokok yang berkenaan dengannya suatu perintah pemeliharaan pokok berkuatkuasa pada masa ini, secara yang bersalahan dengan perintah pemeliharaan pokok itu, adalah berkewajipan untuk menggantikan pokok itu dengan menanam suatu pokok yang lain— (a) daripada saiz dan spesis yang sesuai; PERANCANGAN BANDAR DAN DESA (PINDAAN) (b) di tempat yang sama atau berdekatan dengan tempat yang sama atau tempat lain; (c) dalam masa; dan (d) tertakluk kepada apa-apa terma dan syarat, yang ditentukan oleh pihakberkuasa perancang tempatan melainkan jika pihakberkuasa perancang tempatan mengetepikan keperluan ini atas permohonan orang itu atau atas permohonan mana-mana orang lain atau mengikut budi bicara pihakberkuasa perancang tempatan itu sendiri. (2) Masa yang ditentukan oleh pihakberkuasa perancang tempatan di bawah seksyen-kecil 1( c) bagi menggantikan pokok boleh dilanjutkan sekali atas permohonan orang yang berkewajipan menggantikan pokok itu. (3) Mana-mana orang yang terkilan dengan— (a) penolakan permohonan untuk mengetepi- kan keperluan menggantikan pokok- pokok di bawah seksyen-kecil (1); (b) mana-mana perintah yang diberikan di bawah seksyen-kecil (1)(a) atau (b); (c) mana-mana terma atau syarat yang dikenakan di bawah seksyen-kecil (1)(d); atau (d) penolakan lanjutan masa di bawah seksyen-kecil (2), boleh merayu kepada Lembaga Rayuan, dalam masa satu bulan dari tarikh diberitahu tentang perintah, penolakan atau pengenaan terma dan syarat itu. (4) Berhubungan dengan mana-mana pokok yang ditanam semula di bawah seksyen-kecil (1), perintah pemeliharaan pokok yang relevan hendaklah terpakai baginya sebagaimana ia terpakai bagi pokok asal. (5) Jika orang yang berkewajipan untuk menggantikan pokok di bawah seksyen-kecil (1) tidak berbuat sedemikian, dia adalah melakukan suatu kesalahan dan boleh dikenakan, apabila disabitkan, denda tidak lebih daripada lima puluh ribu ringgit. 35F. Dalam hal suatu kegagalan untuk menggantikan pokok di bawah seksyen 35E(1), pihakberkuasa perancang tempatan boleh meneruskan untuk menggantikan pokok itu dan, walaupun denda di bawah seksyen 35E(5) telah dijelaskan, kesemua kos dan perbelanjaan yang semunasabahnya dilakukan oleh pihakberkuasa perancang tempatan untuk menggantikan pokok itu hendaklah dibayar ganti oleh orang yang berkewajipan untuk menggantikannya. 35G. Pihakberkuasa perancang tempatan boleh meminda atau membatalkan suatu perintah pemeliharaan pokok termasuklah bagi maksud memberikan kebenaran merancang di bawah seksyen 22(3) berkenaan dengan suatu kawasan yang mengenainya suatu perintah pemeliharaan pokok berkuatkuasa pada masa ini. 35H. (1) Tiada seorangpun boleh menebang suatu pokok yang lilitannya melebihi 0.8 meter yang tidak tertakluk kepada suatu perintah pemeliharaan pokok, tanpa kebenaran bertulis pihakberkuasa perancang tempatan, melainkan jika penebangan itu— (a) adalah berkenaan dengan pokok sedemikian yang hampir mati atau telah mati; (b) adalah bagi mencegah bahaya yang hampir benar berlaku; atau (c) adalah sebagai mematuhi mana-mana undang-undang bertulis lain. (2) Bagi maksud seksyen-kecil (1), lilitan suatu pokok hendaklah diukur setengah meter dari bumi dengan syarat bahawa lilitan pokok yang berbanir hendaklah diukur ke atas dari banir itu. (3) Mana-mana orang yang melanggar seksyen-kecil (1) adalah melakukan suatu kesalahan dan boleh dikenakan, apabila disabitkan, denda tidak lebih daripada lima ribu ringgit.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 36 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan subseksyen (10) dengan subseksyen yang \" (10) Berkenaan dengan suatu rayuan di hadapannya, Lembaga Rayuan— (a) hendaklah mendengar perayu dan pihakberkuasa perancang tempatan; (b) boleh memanggil dan memeriksa saksi- saksi; (c) boleh menghendaki mana-mana orang mengikat dirinya atas sumpah untuk menyatakan yang benar; (d) boleh memaksa dikemukakan dan diserahkan apa-apa dokumen yang difikirkan relevan atau material olehnya bagi rayuan itu; (e) boleh mengesahkan, mengubah atau mengakas perintah atau keputusan yang dirayui; (f) boleh mengawardkan kos; dan (g) boleh membuat apa-apa perintah sama ada yang diperuntukkan atau tidak oleh, dan yang tidak tak konsisten dengan, Akta ini.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seksyen 52, seksyen yang berikut: 52A. Jika sesuatu kesalahan di bawah Akta ini telah dilakukan oleh sesuatu pertubuhan perbadanan, maka seseorang yang pada masa kesalahan itu dilakukan ialah seorang pengarah, pengurus, setiausaha atau pegawai serupa itu bagi pertubuhan perbadanan itu atau seseorang yang berupa sebagai bertindak atas sifat itu hendaklah, di samping pertubuhan perbadanan itu, disifatkan telah melakukan kesalahan itu, melainkan jika dia membuktikan bahawa kesalahan itu telah dilakukan tanpa pengetahuannya atau bahawa dia telah mengambil langkah yang munasabah untuk mencegahnya daripada berlaku.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_18__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 58 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_18__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_18__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "di dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_18__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_18__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "di dalam perenggan (h), dengan memasukkan selepas perkataan \"rancangan-rancangan\" perkataan \", dokumen-dokumen, butir-butir dan pelan-pelan susunatur\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_18__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_18__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "di dalam perenggan ( i ), dengan menggantikan perkataan \"dokumen- dokumen dan rancangan-rancangan yang hendak disampaikan dengan permohonan itu\" dengan perkataan \"rancangan- rancangan, dokumen-dokumen, butir-butir dan pelan-pelan susunatur yang hendaklah disampaikan dengan permohonan itu dan bentuk serta skalanya\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2), subseksyen yang berikut: \"(3) Jika apa-apa kaedah yang dibuat di bawah seksyen-kecil (2) (h) tidak meliputi seseorang yang berhak di bawah mana-mana undang-undang bertulis lain untuk menyediakan dan menyampaikan rancangan-rancangan, dokumen-dokumen, butir-butir dan pelan-pelan susunatur berhubungan dengan perancangan bandar dan desa kepada mana-mana orang atau pihak berkuasa, hak orang itu tidaklah terjejas.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Perancangan Bandar dan Desa (Pindaan) 1995."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_1__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_1__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_1__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini hendaklah mula berkuatkuasa di dalam sesuatu Negeri pada tarikh yang ditetapkan oleh Pihakberkuasa Negeri, dengan persetujuan Menteri, melalui pemberitahuan di dalam Warta Negeri dan Pihakberkuasa Negeri boleh menetapkan tarikh-tarikh yang berlainan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_1__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_1__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bagi mula berkuatkuasanya Akta ini di kawasan- kawasan pihakberkuasa tempatan yang berlainan atau di bahagian-bahagiannya yang berlainan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_1__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_1__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bagi mula berkuatkuasanya peruntukan- peruntukan yang berlainan Akta ini; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_1__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_1__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bagi mula berkuatkuasanya peruntukan- peruntukan yang berlainan Akta ini di kawasan- kawasan pihakberkuasa tempatan yang berlainan atau di bahagian-bahagiannya yang berlainan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun subseksyen (2), Pihakberkuasa Negeri boleh, melalui pemberitahuan di dalam Warta Negeri, mengecualikan mana-mana bahagian mana-mana kawasan pihakberkuasa tempatan daripada mana-mana atau kesemua peruntukan di dalam Akta ini atau apa-apa kaedah yang dibuat di bawahnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_2__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Perancangan Bandar dan Desa 1976, yang disebut"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "\"Akta ibu\" dalam Akta ini, adalah dipinda di dalam subseksyen 2(1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif \"kerja kejuruteraan\", takrif yang berikut: ' \"kerja tanah\" termasuklah apa-apa perbuatan mengorek, merata, menimbus dengan apa-apa bahan, atau menebang pokok atas mana-mana tanah, atau apa-apa perbuatan lain yang menyentuh atau mengganggu mana-mana tanah;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif \"ketumpatan\", takrif yang berikut: ' \"laporan cadangan pemajuan\" ertinya laporan yang dikehendaki supaya disampaikan oleh seseorang pemohon kebenaran merancang di bawah seksyen 2lA(l);';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif \"luas lantai\", takrif yang berikut: ' \"menebang pokok\" termasuklah memotong, memangkas, mencantas, mencabut, merosakkan atau memusnahkan pokok;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif \"orang berkuasa\", takrif yang berikut: ' \"pelan\" termasuklah laporan, lakaran, peta dan model;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif \"peng- gunaan\", takrif yang berikut: ' \"perintah pemeliharaan pokok\" ertinya perintah pemeliharaan pokok yang dibuat di bawah seksyen 35A;'; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif \"tanah\", takrif yang berikut: ' \"tanah lapang\" ertinya mana-mana tanah sama ada dikepung atau tidak yang dikhaskan atau direzabkan untuk dikhaskan keseluruhannya atau sebahagiannya sebagai suatu taman bunga awam, taman awam, padang sukan dan rekreasi awam, tempat makan angin awam, tempat jalan kaki awam atau sebagai suatu tempat awam;\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 4(1) Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (f) dengan perenggan yang berikut: \"(f) Pengarah Unit Perancang Ekonomi Negeri atau pegawai yang bertanggungjawab bagi hal-ehwal sedemikian di Negeri itu;\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan \"dan\" di hujung perenggan (h) dan memasukkan selepasnya, perenggan yang berikut: \"(ha) Pegawai Kewangan Negeri; RANG UNDANG-UNDANG (hb) Pegawai Kemajuan Negeri atau pegawai yang bertanggungjawab bagi hal-ehwal sedemikian di Negeri itu; (hc) Pengarah Jabatan Alam Sekitar Negeri atau pegawai yang bertanggungjawab bagi hal-ehwal sedemikian di Negeri itu; dan\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 10(5) Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan perkataan \"tiga\" dengan perkataan \"enam\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 12(3) Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan perenggan (a) dengan perenggan yang \"(a) membuat rumusan, yang mengandungi apa-apa perincian yang difikirkan sesuai oleh pihakberkuasa perancang tempatan mengenai cadangannya bagi— (i) memajukan; (ii) menggunakan tanah dalam; (iii) melindungi dan memperelok alam sekitar dari segi fizikal bagi; (iv) memelihara topografi semulajadi; (v) memperelok lanskap; (vi) memelihara dan menanam pokok dalam; (vii) mengadakan tanah lapang dalam; (viii) memelihara dan mengindahkan ciri dan rupa bangunan dalam; (ix) memperbaiki sistem komunikasi dalam; dan (x) mengendalikan lalulintas dalam, kawasan rancangan tempatan; dan\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 13 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memasukkan selepas subseksyen (2), subseksyen yang berikut: \"(3) Masa yang dinyatakan dalam notis di bawah seksyen-kecil (2) bagi membuat bantahan terhadap atau rayuan berkenaan dengan draf rancangan tempatan boleh dilanjutkan sekali oleh pihakberkuasa perancang tempatan selama tidak lebih daripada empat minggu atas permohonan mana-mana orang.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 21 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "di dalam teks bahasa kebangsaan, dengan menggantikan perkataan \"plan-plan\" di dalam subseksyen (1) dengan perkataan \"pelan-pelan\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"pemajuan\" yang terdapat selepas perkataan \"rancangan\" di dalam subseksyen (6) dengan perkataan \"tempatan\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seksyen 21, seksyen yang berikut: \"Laporan 21A. (1) Sebagai tambahan kepada dokumen- cadangan dokumen dan pelan-pelan yang dikehendaki pemajuan. supaya disampaikan di bawah seksyen 21(1) untuk kebenaran merancang, pemohon hendaklah menyampaikan suatu cadangan pemajuan yang hendaklah mengandungi yang berikut: (a) konsep dan justifikasi pemajuan; (b) peta lokasi dan pelan tapak; (c) butir-butir hakmilik tanah dan sekatan ke atas tanah, jika ada; RANG UNDANG-UNDANG (d) (i) perihal tanah, termasuklah alam sekitarnya dari segi fizikal topografinya, lanskapnya, geologinya, konturnya, salirannya, air dan tadahan air dan bentuk-bentuk semulajadi di atasnya; (ii) hasil tinjauan pokok-pokok dan semua jenis tumbuh-tumbuhan; dan (iii) butir-butir bangunan, yang berkemungkinan disentuh oleh pemajuan itu; (e) analisis guna tanah dan kesannya terhadap tanah yang berdampingan; (f) pelan-pelan susunatur yang mengandungi butir-butir yang ditentukan dalam seksyen 21(B); dan (g) apa-apa perkara lain yang ditetapkan oleh pihakberkuasa perancang tempatan. (2) Pihakberkuasa Negeri boleh, melalui kaedah-kaedah, mengecualikan apa-apa pemajuan atau kelas, jenis atau kategori pemajuan daripada menyampaikan— (a) suatu laporan cadangan pemajuan di bawah seksyen-kecil (1); atau (b) suatu laporan cadangan pemajuan yang mengandungi mana-mana perkara yang dinyatakan dalam perenggan (a) hingga (g) seksyen-kecil (1). 21B. (1) Pelan-pelan susunatur di bawah perenggan (f) seksyen 2 lA( l) hendaklah menunjukkan pemajuan yang dicadangkan dan khususnya— (a) jika pemajuan itu berkenaan dengan mana- mana tanah— (i) langkah-langkah bagi melindungi dan memperelok alam sekitarnya dari segi fizikal; (ii) langkah-langkah bagi melindungi topografi semulajadinya; (iii) langkah-langkah bagi memperelok lanskapnya; (iv) langkah-langkah bagi memelihara dan menanam pokok-pokok di atasnya; (v) lokasi dan jenis pokok yang lilitannya melebihi 0.8 meter dan tumbuh-tumbuhan lain di atasnya; (vi) pengadaan tanah lapang; (vii) cadangan kerja tanah, jika ada; dan (viii) perihal kerja-kerja yang hendak dijalankan; dan (b) jika pemajuan itu berkenaan dengan bangunan-bangunan yang mempunyai senibina tersendiri atau kepentingan sejarah— (i) butir-butir untuk mengenalpasti bangunan-bangunan itu termasuklah kegunaannya dan keadaannya, ciri- cirinya, rupanya, binaannya dan bentuknya yang tersendiri; dan (ii) langkah-langkah bagi melindungi, memelihara dan mengindahkan ciri dan rupa bangunan-bangunan di kawasan sekeliling. (2) Pihak berkuasa perancang tempatan boleh memberikan arahan-arahan kepada seorang pemohon untuk kebenaran merancang berkenaan dengan perkara-perkara berkaitan pelan-pelan susunaturnya sebagaimana yang difikirkan perlu oleh pihakberkuasa perancang tempatan itu. (3) Pemohon yang telah diberikan arahan- arahan di bawah seksyen-kecil (2) hendaklah meminda pelan-pelan susunaturnya dengan sewajarnya, dan menyampaikan semula pelan- pelan susunatur itu dalam masa apa-apa tempoh atau tempoh lanjutan yang ditentukan oleh pihakberkuasa perancang tempatan. (4) Jika pelan-pelan susunatur itu tidak di- sampaikan semula dalam masa tempoh atau tempoh lanjutan yang ditentukan, permohonan untuk kebenaran merancang itu hendaklah disifatkan telah ditarikbalik tetapi pemohon boleh menyampaikan permohonan yang baru. 21c. Semua pelan, butir-butir, pelan susunatur dan dokumen lain yang dikehendaki supaya disampaikan di bawah Akta ini hendaklah disediakan oleh— (a) seseorang yang kelayakannya ditetapkan di bawah perenggan (h) seksyen 58(2); atau (b) seseorang yang berhak berbuat sedemikian di bawah mana-mana undang-undang bertulis lain.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_9__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_9__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 22 Akta ibu adajah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan \"dan\" di hujung perenggan (2)(ba) dan memasukkan selepasnya, perenggan yang berikut: \"(bb) laporan cadangan pemajuan; dan\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_9__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_9__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "di dalam subseksyen (5)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_9__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_9__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan \"dan\" di hujung perenggan (a); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_9__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_9__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah di hujung perenggan (b) dengan koma bernoktah dan memasukkan selepasnya, perenggan yang berikut: \"(c) bagi memastikan yang pemajuan tanah dibuat mengikut pelan-pelan susunatur yang diluluskan; (d) yang melarang perbuatan merosakkan tanah, alam sekitarnya dari segi fizikal, topografi semulajadinya dan lanskapnya; (e) yang melarang pemusnahan atau pengubahan apa-apa bentuk semulajadi tanah; (f) yang melarang penebangan pokok- pokok daripada saiz, umur, jenis atau spesis tertentu yang tumbuh di mana-mana lokasi yang tertentu, melainkan jika ia dilakukan sebagai mematuhi mana-mana undang- undang bertulis; dan (g) bagi memastikan penanaman atau penanaman semula pokok-pokok daripada saiz, umur, jenis atau spesis tertentu di mana-mana lokasi yang tertentu mengikut apa-apa cara yang ditentukan oleh pihak berkuasa perancang tempatan; (h) bagi memastikan yang tanah lapang diadakan mengikut pelan-pelan susunatur yang diluluskan; (i) jika pemajuan melibatkan pendirian suatu bangunan baru, syarat-syarat untuk memastikan yang bangunan baru itu bersepadu dengan senibina, ciri atau rupa yang tergambar pada bangunan-bangunan yang terletak di kawasan sekelilingnya, yang pihakberkuasa perancang tempatan berhasrat untuk melindungi, memelihara atau mengindahkan; (j) jika pemajuan melibatkan apa-apa tambahan kepada atau pengubahan suatu bangunan yang sedia ada yang mempunyai senibina tersendiri atau kepentingan sejarah, syarat- syarat untuk memastikan yang muka bangunan dan ciri luaran lain bangunan itu dikekalkan; (k) jika pemajuan melibatkan perobohan suatu bangunan yang mempunyai senibina tersendiri atau kepentingan sejarah dan pendirian suatu bangunan baru di tempatnya, syarat-syarat untuk memastikan yang muka bangunan dan ciri luaran lain bangunan yang dirobohkan itu dikekalkan.\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_9__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/24/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (5), subseksyen yang berikut: \"(5A) Maka hendaklah menjadi kewajipan pihakberkuasa perancang tempatan untuk memastikan yang perintah pemeliharaan pokok, jika ada, dipatuhi, jika kebenaran merancang diberikan.\"."
+      }
+    }
+  ]
+}

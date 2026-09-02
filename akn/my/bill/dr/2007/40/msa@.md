@@ -14,7 +14,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 1. ( 1 ) Akta ini bolehlah dinamakan Akta Ahli Parlimen (Saraan) (Pindaan) 2007.
 
-(2) Akta ini disifatkan telah mula berkuat kuasa pada 1 Januari 2007.
+(2) Akta ini disifatkan telah mula berkuat kuasa pada 1 Januari
+
+2007.
 
 ### Pindaan seksyen 4
 

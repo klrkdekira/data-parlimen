@@ -8,9 +8,7 @@
 
 bernama
 
-Suatu Akta untuk meminda Akta Pengangkutan Jalan
-
-1987. [ ]
+Suatu Akta untuk meminda Akta Pengangkutan Jalan 1987. [ ]
 
 ## MAKA INILAH DIPERBUAT UNDANG-UNDANG
 
@@ -56,15 +54,23 @@ ibu" dalam Akta ini, adalah dipinda dalam seksyen 2—
 
 ' "pendaftar berlesen" ertinya seseorang yang dilesenkan di bawah seksyen 126 untuk menjalankan pendaftaran dan pelesenan kenderaan motor di bawah Akta ini;'.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Akta ibu adalah dipinda dengan menggantikan seksyen seksyen 8. 8 dengan seksyen yang berikut: " Penyim- 8. (1) Seseorang pendaftar berlesen yang panan dipertugaskan kepada sesuatu kawasan rekod. pendaftaran hendaklah menyimpan dan menyenggara suatu daftar bagi segala kenderaan motor yang didaftarkan di bawah Akta ini dalam kawasan pendaftaran yang dipertugaskan kepadanya.
+3. Akta ibu adalah dipinda dengan menggantikan seksyen
+
+<!-- marginal: seksyen 8. -->
+
+8 dengan seksyen yang berikut: " Penyim- 8. (1) Seseorang pendaftar berlesen yang panan dipertugaskan kepada sesuatu kawasan rekod. pendaftaran hendaklah menyimpan dan menyenggara suatu daftar bagi segala kenderaan motor yang didaftarkan di bawah Akta ini dalam kawasan pendaftaran yang dipertugaskan kepadanya.
 
 (2) Daftar itu hendaklah dalam apa-apa bentuk dan mengandungi apa-apa maklumat, perincian dan butir-butir sebagaimana yang diarahkan dari semasa ke semasa oleh Ketua Pengarah.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-4. Akta ibu adalah dipinda dalam seksyen 9 dengan seksyen 9. menggantikan perkataan "Tiap-tiap Pengarah" dengan perkataan "Seseorang pendaftar berlesen".
+4. Akta ibu adalah dipinda dalam seksyen 9 dengan
+
+<!-- marginal: seksyen 9. -->
+
+menggantikan perkataan "Tiap-tiap Pengarah" dengan perkataan "Seseorang pendaftar berlesen".
 
 <!-- page 3 -->
 
@@ -84,7 +90,11 @@ menggantikan perkataan "Pengarah sesuatu kawasan pendaftaran" dengan perkataan "
 
 (a) dalam subseksyen (1)—
 
-(i) dengan menggantikan perkataan "Pengarah" dengan perkataan "seseorang pendaftar berlesen";
+(i) dengan menggantikan
+
+<!-- marginal: perkataan -->
+
+"Pengarah" dengan perkataan "seseorang pendaftar berlesen";
 
 (ii) dengan menggantikan noktah bertindih di hujung perenggan (a) dengan koma bernoktah; dan
 
@@ -106,9 +116,37 @@ menggantikan perkataan "Pengarah sesuatu kawasan pendaftaran" dengan perkataan "
 
 (c) dalam subseksyen (3), (4) dan (5) dengan menggantikan perkataan "Pengarah" di mana- mana jua terdapat dengan perkataan "pendaftar berlesen".
 
-7. Akta ibu adalah dipinda dengan memasukkan selepas baru 11A. seksyen 11 seksyen yang berikut:
+<!-- marginal: Seksyen -->
 
-"Seseorang 11A. (1) Seseorang boleh mencadangkan boleh nombor pendaftarannya sendiri tetapi nombor menca- dangkan pendaftaran yang dicadangkan itu hendaklah nombor tertakluk kepada subseksyen (2) dan apa-apa pendaftaran sendiri. terma dan syarat yang ditetapkan oleh Ketua Pengarah.
+7. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru 11A. -->
+
+seksyen 11 seksyen yang berikut:
+
+<!-- marginal: "Seseorang -->
+
+11A. (1) Seseorang boleh mencadangkan
+
+<!-- marginal: boleh -->
+
+nombor pendaftarannya sendiri tetapi nombor
+
+<!-- marginal: menca- -->
+
+<!-- marginal: dangkan -->
+
+pendaftaran yang dicadangkan itu hendaklah
+
+<!-- marginal: nombor -->
+
+tertakluk kepada subseksyen (2) dan apa-apa
+
+<!-- marginal: pendaftaran -->
+
+<!-- marginal: sendiri. -->
+
+terma dan syarat yang ditetapkan oleh Ketua Pengarah.
 
 (2) Bagi maksud-maksud seksyen ini, perkataan "nombor pendaftaran" ertinya—
 
@@ -166,29 +204,51 @@ menggantikan perkataan "Pengarah mana-mana kawasan pendaftaran" dan perkataan "P
 
 <!-- page 6 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-13. Subseksyen 19(1) Akta ibu adalah dipinda dengan seksyen 19. menggantikan perkataan "Pengarah sesuatu kawasan pendaftaran" dan perkataan "Pengarah" yang mula-mula terdapat dengan perkataan "pendaftar berlesen".
+13. Subseksyen 19(1) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 19. -->
 
-14. Seksyen 21 Akta ibu adalah dipinda dengan seksyen 21. menggantikan perkataan "Pengarah" di mana-mana jua terdapat dengan perkataan "pendaftar berlesen".
+menggantikan perkataan "Pengarah sesuatu kawasan pendaftaran" dan perkataan "Pengarah" yang mula-mula terdapat dengan perkataan "pendaftar berlesen".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-15. Seksyen 22 Akta ibu adalah dipinda dengan seksyen 22. menggantikan perkataan "Pengarah bagi kawasan pendaftaran" , "Pengarah sesuatu kawasan pendaftaran" dan "Pengarah" di mana-mana jua terdapat dengan perkataan "pendaftar berlesen".
+14. Seksyen 21 Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 21. -->
 
-16. Seksyen 23 Akta ibu adalah dipinda dengan seksyen 23. menggantikan perkataan "Pengarah" di mana-mana jua terdapat dengan perkataan "pendaftar berlesen".
+menggantikan perkataan "Pengarah" di mana-mana jua terdapat dengan perkataan "pendaftar berlesen".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-17. Seksyen 24 Akta ibu adalah dipinda dengan seksyen 24. menggantikan perkataan "Pengarah" di mana-mana jua terdapat dengan perkataan "pendaftar berlesen".
+15. Seksyen 22 Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 22. -->
 
-18. Subseksyen 27(6) Akta ibu adalah dipinda— seksyen 27.
+menggantikan perkataan "Pengarah bagi kawasan pendaftaran" , "Pengarah sesuatu kawasan pendaftaran" dan "Pengarah" di mana-mana jua terdapat dengan perkataan "pendaftar berlesen".
+
+<!-- marginal: Pindaan -->
+
+16. Seksyen 23 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 23. -->
+
+menggantikan perkataan "Pengarah" di mana-mana jua terdapat dengan perkataan "pendaftar berlesen".
+
+<!-- marginal: Pindaan -->
+
+17. Seksyen 24 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 24. -->
+
+menggantikan perkataan "Pengarah" di mana-mana jua terdapat dengan perkataan "pendaftar berlesen".
+
+<!-- marginal: Pindaan -->
+
+18. Subseksyen 27(6) Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 27. -->
 
 (a) dengan menggantikan noktah di hujung perenggan (b) dengan koma bernoktah; dan
 
@@ -196,9 +256,11 @@ Pindaan
 
 "(c) selama tempoh dua belas bulan dari tarikh pembatalan lesen memandu di bawah seksyen 35, 35A, 41, 42, 43, 44, 45, 45A, 45B atau 45c.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-19. Seksyen 29 Akta ibu adalah dipinda— seksyen 29.
+19. Seksyen 29 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 29. -->
 
 (a) dalam subseksyen (1)—
 
@@ -228,9 +290,11 @@ Lembaga Pelesenan Kenderaan Perdagangan 1987."; dan
 
 (4c) Jika mana-mana orang yang kepadanya lesen memandu percubaan diberikan gagal mematuhi mana-mana syarat yang tertakluk kepadanya lesen itu diberikan, maka dia adalah melakukan suatu kesalahan.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-20. Seksyen 35 Akta ibu adalah dipinda— seksyen 35.
+20. Seksyen 35 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 35. -->
 
 (a) dalam nota birai dengan memasukkan selepas perkataan "menggantung" perkataan "atau membatalkan";
 
@@ -258,7 +322,33 @@ Pindaan
 
 seksyen 35 seksyen yang berikut:
 
-35A. (1) Walau apa pun yang terkandung di "Kuasa Ketua dalam Akta ini, Ketua Pengarah hendaklah Pengarah membatalkan lesen memandu percubaan untuk membatal- seseorang jika dalam tempoh dua puluh empat kan lesen bulan dari tarikh pemberian lesen memandu memandu percubaan. percubaan rekod orang itu, yang disimpan oleh Ketua Pengarah, sebagai pemandu sesuatu kenderaan motor, atau kelakuan atau kebiasaannya sebagai pemandu, membuktikan bahawa adalah tidak menjadi kepentingan untuk keselamatan awam bagi orang itu memegang suatu lesen memandu yang sah atau bahawa orang itu tidak kompeten untuk memandu sesuatu kenderaan motor.
+35A. (1) Walau apa pun yang terkandung di
+
+<!-- marginal: "Kuasa -->
+
+<!-- marginal: Ketua -->
+
+dalam Akta ini, Ketua Pengarah hendaklah
+
+<!-- marginal: Pengarah -->
+
+membatalkan lesen memandu percubaan
+
+<!-- marginal: untuk -->
+
+<!-- marginal: membatal- -->
+
+seseorang jika dalam tempoh dua puluh empat
+
+<!-- marginal: kan lesen -->
+
+bulan dari tarikh pemberian lesen memandu
+
+<!-- marginal: memandu -->
+
+<!-- marginal: percubaan. -->
+
+percubaan rekod orang itu, yang disimpan oleh Ketua Pengarah, sebagai pemandu sesuatu kenderaan motor, atau kelakuan atau kebiasaannya sebagai pemandu, membuktikan bahawa adalah tidak menjadi kepentingan untuk keselamatan awam bagi orang itu memegang suatu lesen memandu yang sah atau bahawa orang itu tidak kompeten untuk memandu sesuatu kenderaan motor.
 
 (2) Bagi maksud membuktikan bahawa adalah tidak menjadi kepentingan untuk keselamatan awam bagi seseorang itu memegang suatu lesen memandu atau bahawa orang itu tidak kompeten untuk memandu sesuatu kenderaan motor, Menteri boleh membuat kaedah-kaedah menetapkan suatu sistem pemberian mata terhadap seseorang kerana melakukan suatu kesalahan di bawah Akta ini atau apa-apa kaedah yang dibuat di bawahnya:
 
@@ -268,33 +358,29 @@ Dengan syarat bahawa kaedah-kaedah sedemikian boleh membuat peruntukan bagi meng
 
 <!-- page 10 -->
 
-(4) Kuasa yang diberikan kepada Ketua Pengarah oleh seksyen ini untuk membatalkan lesen memandu percubaan seseorang hendaklah dijalankan pada masa selepas jumlah mata maksimum yang disebut dalam subseksyen (3) diberikan terhadap orang itu sebagaimana yang difikirkan patut oleh Ketua Pengarah.
+(4) Kuasa yang diberikan kepada Ketua Pengarah oleh seksyen ini untuk membatalkan lesen memandu percubaan seseorang hendaklah dijalankan pada masa selepas jumlah mata maksimum yang disebut dalam subseksyen
+
+(3) diberikan terhadap orang itu sebagaimana yang difikirkan patut oleh Ketua Pengarah.
 
 (5) Jika seseorang itu yang lesen memandu percubaannya dibatalkan dan dihilangkan kelayakan melalui suatu perintah mahkamah daripada memegang atau mendapatkan lesen memandu bagi apa-apa tempoh masa sebagaimana yang dinyatakan dalam perintah itu, tiap-tiap mata yang diberikan terhadapnya di bawah kaedah-kaedah yang dibuat di bawah subseksyen (2) hendaklah kemudiannya dibatalkan.
 
 (6) Bagi maksud-maksud seksyen ini, seseorang hendaklah disifatkan telah melakukan suatu kesalahan di bawah Akta ini jika dia membayar penalti yang ditetapkan bagi kesalahan itu di bawah seksyen 119.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-22. Seksyen 37 Akta ibu adalah dipinda— seksyen 37.
+22. Seksyen 37 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 37. -->
 
 (a) dalam nota birai dengan memasukkan selepas perkataan "digantung" perkataan "atau dibatalkan";
 
 (b) dalam subseksyen (1)—
 
-(i) dengan memasukkan selepas perkataan "menggantung" perkataan
-
-<!-- marginal: "atau -->
-
-membatalkan";
+(i) dengan memasukkan selepas perkataan "menggantung" perkataan "atau membatalkan";
 
 (ii) dengan memasukkan selepas perkataan "seksyen 35" perkataan "atau 35A";
 
-(iii) dengan memasukkan selepas perkataan "penggantungan" perkataan
-
-<!-- marginal: "atau -->
-
-pembatalan"; dan
+(iii) dengan memasukkan selepas perkataan "penggantungan" perkataan "atau pembatalan"; dan
 
 <!-- page 11 -->
 
@@ -304,29 +390,17 @@ pembatalan"; dan
 
 (c) dalam subseksyen (2)—
 
-(i) dengan memasukkan selepas perkataan "menggantung" perkataan
-
-<!-- marginal: "atau -->
-
-membatalkan";
+(i) dengan memasukkan selepas perkataan "menggantung" perkataan "atau membatalkan";
 
 (ii) dengan memasukkan selepas perkataan "seksyen 35" perkataan "atau 35A"; dan
 
-(iii) dengan memasukkan selepas perkataan "penggantungan" perkataan
-
-<!-- marginal: "atau -->
-
-pembatalan";
+(iii) dengan memasukkan selepas perkataan "penggantungan" perkataan "atau pembatalan";
 
 (d) dalam subseksyen (3) dengan memasukkan selepas perkataan "penggantungan" perkataan "atau pembatalan"; dan
 
 (e) dalam subseksyen (4)—
 
-(i) dengan memasukkan selepas perkataan "penggantungan" perkataan
-
-<!-- marginal: "atau -->
-
-pembatalan"; dan
+(i) dengan memasukkan selepas perkataan "penggantungan" perkataan "atau pembatalan"; dan
 
 (ii) dengan memasukkan selepas perkataan "seksyen 35" perkataan "atau 35A".
 
@@ -338,11 +412,7 @@ pembatalan"; dan
 
 (a) dalam subseksyen (1)—
 
-(i) dengan memasukkan selepas perkataan "menggantung" perkataan
-
-<!-- marginal: "atau -->
-
-membatalkan"; dan
+(i) dengan memasukkan selepas perkataan "menggantung" perkataan "atau membatalkan"; dan
 
 (ii) dengan memasukkan selepas perkataan "seksyen 35" perkataan "atau 35A";
 
@@ -368,13 +438,23 @@ membatalkan"; dan
 
 (ii) dengan memasukkan selepas perkataan "seksyen 35" perkataan "atau 35A".
 
-24. Seksyen 41 Akta ibu adalah dipinda dengan Pindaan seksyen 41. memasukkan selepas subseksyen (3) subseksyen yang berikut:
+24. Seksyen 41 Akta ibu adalah dipinda dengan
+
+<!-- marginal: Pindaan -->
+
+<!-- marginal: seksyen 41. -->
+
+memasukkan selepas subseksyen (3) subseksyen yang berikut:
 
 "(3A) Walau apa pun subseksyen (1), jika seseorang yang memegang lesen memandu percubaan disabitkan di bawah seksyen ini, mahkamah hendaklah sesudah itu membatalkan lesen memandunya itu.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-25. Seksyen 42 Akta ibu adalah dipinda dengan seksyen 42. memasukkan selepas subseksyen (3) subseksyen yang berikut:
+25. Seksyen 42 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 42. -->
+
+memasukkan selepas subseksyen (3) subseksyen yang berikut:
 
 "(4) Walau apa pun subseksyen (1), jika seseorang yang memegang lesen memandu percubaan disabitkan di bawah seksyen ini, mahkamah hendaklah sesudah itu membatalkan lesen memandunya itu.".
 
@@ -436,9 +516,11 @@ memasukkan selepas subseksyen (3) subseksyen yang berikut:
 
 (4B) Walau apa pun subseksyen (4) dan (4A), jika seseorang yang memegang lesen memandu percubaan disabitkan di bawah seksyen ini, mahkamah hendaklah sesudah itu membatalkan lesen memandunya itu.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-31. Seksyen 45c Akta ibu adalah dipinda— seksyen 45c.
+31. Seksyen 45c Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 45c. -->
 
 (a) dalam subseksyen (6) dengan memasukkan selepas perkataan "atau kedua-duanya" perkataan "dan, dalam hal sabitan kali kedua atau kali kemudian, didenda tidak melebihi empat ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya"; dan
 
@@ -450,7 +532,9 @@ Pindaan
 
 bagi tempoh yang tidak kurang daripada dua belas bulan dari tarikh sabitan itu daripada memegang atau mendapatkan lesen memandu.
 
-(6B) Walau apa pun subseksyen (6) dan (6A), jika seseorang yang memegang lesen memandu percubaan disabitkan di bawah seksyen ini, mahkamah hendaklah sesudah itu membatalkan lesen memandunya itu.".
+(6B) Walau apa pun subseksyen (6) dan
+
+(6A), jika seseorang yang memegang lesen memandu percubaan disabitkan di bawah seksyen ini, mahkamah hendaklah sesudah itu membatalkan lesen memandunya itu.".
 
 <!-- marginal: Pindaan -->
 
@@ -496,25 +580,39 @@ takrif "ujian nafas"—
 
 (ii) dengan memasukkan selepas perkataan "44" perkataan "atau 45A".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-34. Subseksyen 59(3) dan (6) Akta ibu adalah dipinda seksyen 59. dengan menggantikan perkataan "Pengarah bagi" di mana- mana jua terdapat dengan perkataan "pendaftar berlesen yang dipertugaskan kepada".
+34. Subseksyen 59(3) dan (6) Akta ibu adalah dipinda
 
-Pindaan
+<!-- marginal: seksyen 59. -->
 
-35. Subseksyen 66(1) Akta ibu adalah dipinda— seksyen 66.
+dengan menggantikan perkataan "Pengarah bagi" di mana- mana jua terdapat dengan perkataan "pendaftar berlesen yang dipertugaskan kepada".
+
+<!-- marginal: Pindaan -->
+
+35. Subseksyen 66(1) Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 66. -->
 
 (a) dalam perenggan (w) dengan menggantikan perkataan "Pengarah-Pengarah" dengan perkataan "pendaftar berlesen"; dan
 
 (b) dalam perenggan (y) dengan memotong perkataan "dan lesen-lesen belajar memandu".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-36. Subseksyen 102(2) Akta ibu adalah dipinda dengan seksyen 102. menggantikan perkataan "Pengarah" dengan perkataan "pendaftar berlesen".
+36. Subseksyen 102(2) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 102. -->
 
-37. Subseksyen 117(3) Akta ibu adalah dipinda dengan seksyen 117. menggantikan perkataan "atau seorang Timbalan Pengarah" dan "atau Timbalan Pengarah" dengan perkataan ", Timbalan Pengarah atau pendaftar berlesen".
+menggantikan perkataan "Pengarah" dengan perkataan "pendaftar berlesen".
+
+<!-- marginal: Pindaan -->
+
+37. Subseksyen 117(3) Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 117. -->
+
+menggantikan perkataan "atau seorang Timbalan Pengarah" dan "atau Timbalan Pengarah" dengan perkataan ", Timbalan Pengarah atau pendaftar berlesen".
 
 <!-- page 17 -->
 
@@ -546,9 +644,13 @@ menggantikan perkataan "atau Pengarah" di mana-mana jua terdapat dengan perkataa
 
 <!-- page 18 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-40. Seksyen 126 Akta ibu adalah dipinda dengan seksyen 126 memasukkan selepas subseksyen (7) subseksyen yang berikut:
+40. Seksyen 126 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 126 -->
+
+memasukkan selepas subseksyen (7) subseksyen yang berikut:
 
 "(8) Walaupun mana-mana orang telah diberikuasa atau diberi lesen di bawah seksyen ini untuk menjalankan mana-mana fungsi seorang pegawai pengangkutan jalan, Menteri boleh memberikan arahan kepada Ketua Pengarah atau Pengarah supaya menjalankan mana-mana fungsi itu.".
 

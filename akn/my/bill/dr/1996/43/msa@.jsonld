@@ -1,0 +1,398 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-43-1996",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Pergigian (Pindaan) 1996"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Pergigian (Pindaan)"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "1996."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Pergigian 1971, yang disebut \"Akta ibu\" dalam"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini, adalah dipinda dalam teks bahasa kebangsaan, dengan menggantikan perkataan \"doktor gigi\" di mana- mana jua terdapat dalamnya dengan perkataan \"doktor pergigian\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 3 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3__para_a__subpara_iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)— (i) dengan memotong perenggan (c) dan (d); (ii) dengan menggantikan perenggan (e) dengan perenggan yang berikut: \"(e) enam orang doktor pergigian dari kalangan kakitangan fakulti pergigian institusi pendidikan tinggi di Malaysia yang akan dilantik oleh Merited;\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (e) perenggan yang berikut: \"(ea) enam orang doktor pergigian yang akan dilantik oleh Menteri;\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), (5) dan (6) dengan memasukkan selepas perkataan \"subseksyen (1)(e)\" perkataan \"atau (ea)\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (7)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah bertindih dengan noktah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong proviso;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (12);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3__para_e__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3__para_e__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3__para_e__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (13)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3__para_e__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3__para_e",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan \"atau\" di hujung perenggan (a);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3__para_e__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3__para_e",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b) dengan menggantikan noktah dengan perkataan \"; atau\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3__para_e__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3__para_e",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (b) perenggan yang berikut: \"(c) jika pada bila-bila masa namanya telah dipotong dari Daftar.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (13) subseksyen yang berikut: \"(13A) Seseorang pengamal yang namanya telah digantung dari Daftar atau yang telah dicela di bawah seksyen 33 tidak layak untuk dinamakan dan dilantik atau dipilih atau dilantik, mengikut mana-mana yang berkenaan, di bawah subseksyen (1)(e) hingga (j)- (a) dalam hal sesuatu penggantungan, bagi tempoh selama enam tahun selepas tamatnya penggantungan itu; atau (b) dalam hal sesuatu celaan, bagi tempoh selama enam tahun dari tarikh celaan itu.\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (14) subseksyen yang berikut: \"(15) Jika pada menjalankan bidang kuasa tatatertibnya di bawah Akta, Majlis— (a) melantik suatu jawatankuasa untuk menjalankan penyiasatan permulaan; atau (b) mengadakan siasatan tatatertib, berkenaan dengan mana-mana pengamal yang adalah seorang ahli Majlis, pengamal itu hendaklah digantung, (16) Penggantungan seseorang ahli Majlis di bawah subseksyen (15) hendaklah, jika penyiasatan permulaan dijalankan, berkuatkuasa dari tarikh bermulanya penyiasatan itu atau, jika siasatan tatatertib diadakan, berkuatkuasa dari tarikh bermulanya siasatan itu. (17) Jika penyiasatan permulaan dijalankan dan apabila tamatnya penyiasatan permulaan itu Majlis memutuskan bahawa suatu siasatan tatatertib hendaklah diadakan, tempoh penggantungan seseorang ahli hendaklah diteruskan sehingga tamatnya siasatan tatatertib itu. (18) Mana-mana ahli Majlis yang telah digantung di bawah subseksyen (15) atau (16) hendaklah dengan serta-merta dihidupkan semula sebagai ahli Majlis jika apabila tamatnya penyiasatan permulaan atau siasatan tatatertib itu, mengikut mana-mana yang berkenaan, Majlis mendapati bahawa tiada apa-apa kesalahan telah dibuktikan berkenaan dengan ahli itu. (19) Mana-mana ahli Majlis yang hendak dihidupkan semula menurut subseksyen (18) hendaklah, jika penghidupan semula itu akan berkuatkuasa sebelum tamatnya tempoh jawatannya, dihidupkan semula untuk memegang jawatan bagi bahagian tempoh jawatannya yang belum tamat.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 17(1) Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan koma di hujung perenggan (b) dengan perkataan \"; atau\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (b) perenggan yang berikut: \"(c) didapati oleh panel kajian semula perubatan, yang hendaklah terdiri daripada dua orang pengamal perubatan dan seorang doktor pergigian yang dilantik oleh Majlis, selepas menjalankan penyiasatan yang sepatutnya sebagai tak layak untuk melaksanakan kewajipan- kewajipan profesionalnya oleh sebab keadaan mental atau fizikalnya,\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_5__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 23 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota birai, dengan memotong perkataan \"orang yang menjadi pesakit otak\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: \"(1) Jika— (a) Pendaftar berpuas hati bahawa mana- mana orang yang didaftarkan di bawah Akta ini dimasukkan ke atau ditahan di hospital sakit otak di bawah peruntukan mana-mana undang- undang; atau (b) mana-mana orang yang didaftarkan di bawah Akta ini telah diperakui oleh panel kajian semula perubatan, yang hendaklah terdiri daripada dua orang pengamal perubatan dan seorang doktor pergigian yang dilantik oleh Majlis, sebagai tak layak untuk melaksanakan kewajipan-kewajipan profesionalnya oleh sebab keadaan mental atau fizikalnya, orang itu hendaklah dengan itu terhenti daripada didaftarkan sedemikian, dan suatu catatan hendaklah dibuat dengan sewajarnya bersetentangan dengan namanya dalam Daftar.\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2) dengan menggantikan perkataan \"keadaan otaknya\" dengan perkataan \"keadaan mental atau fizikalnya, mengikut mana- mana yang berkenaan,\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 36(2) Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa kebangsaan dengan memotong perkataan \"dan\" yang terdapat di hujung perenggan (b); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa Inggeris dengan memotong perkataan \"and\" yang masing-masingnya terdapat di hujung perenggan (a) dan (b)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 42(1) Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a) dengan menggantikan perkataan \"satu\" dengan perkataan \"sepuluh\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b) dengan menggantikan perkataan \"dua\" dan \"enam bulan\" masing- masingnya dengan perkataan \"dua puluh\" dan \"tiga tahun\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subperenggan 2(3) Jadual Pertama kepada Akta ibu"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/43/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "adalah dipinda dengan menggantikan perkataan \"tujuh\" dengan perkataan \"sepuluh\"."
+      }
+    }
+  ]
+}

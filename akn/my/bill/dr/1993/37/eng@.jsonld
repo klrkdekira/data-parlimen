@@ -79,7 +79,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/37/eng@/~cl_2",
       "schema:text": {
         "@language": "en",
-        "@value": "General\" the following definitions: ' \"document\" has the meaning assigned Act 56. thereto in section 3 of the Evidence Act 1950; \"electronic data interchange\" means the transfer, from computer to computer, of commercial and administrative transactions using an agreed message standard to structure the data pertaining to transaction;'. Amendment"
+        "@value": "General\" the following definitions: ' \"document\" has the meaning assigned Act 56. thereto in section 3 of the Evidence Act 1950; \"electronic data interchange\" means the transfer, from computer to computer, of commercial and administrative transactions using an agreed message standard to structure the data pertaining transaction;'."
       }
     },
     {
@@ -87,9 +87,13 @@
       "@type": "akn:clause",
       "eli:number": "3",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/37/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The proviso to section 49 of the principal Act is"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "The proviso to section 49 of the principal Act is of section 49. amended by inserting after the words \"which are not so printed or issued\" the words \"as aforesaid, or permit the use of any form submitted through an electronic data interchange\"."
+        "@value": "amended by inserting after the words \"which are not so printed or issued\" the words \"as aforesaid, or permit the use of any form submitted through an electronic data interchange\"."
       }
     }
   ]

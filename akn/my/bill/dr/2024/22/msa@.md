@@ -8,7 +8,7 @@
 
 ## SUSUNAN FASAL
 
-## BAhAgiAN I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -16,7 +16,7 @@
 
 2. Tafsiran
 
-## BAhAgiAN II
+## BAHAGIAN II
 
 ## PENUBUHAN AGENSI KAWALAN DAN PERLINDUNGAN SEMPADAN
 
@@ -28,7 +28,7 @@
 
 5. Pelantikan pegawai Agensi yang lain
 
-## BAhAgiAN III
+## BAHAGIAN III
 
 ## FUNGSI DAN KUASA AGENSI
 
@@ -48,7 +48,7 @@
 
 <!-- page 2 -->
 
-## BAhAgiAN IV
+## BAHAGIAN IV
 
 AM
 
@@ -76,15 +76,15 @@ AM
 
 24. Kuasa untuk meminda Jadual
 
-## BAhAgiAN V
+## BAHAGIAN V
 
 ## KECUALIAN
 
 25. Peruntukan kecualian
 
-## JAdUAL PertAmA
+## JADUAL PERTAMA
 
-## JAdUAL KedUA
+## JADUAL KEDUA
 
 <!-- page 3 -->
 
@@ -94,7 +94,7 @@ Suatu Akta untuk mengadakan peruntukan bagi penubuhan Agensi Kawalan dan Perlind
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## BAhAgiAN I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -144,7 +144,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 “undang-undang bertulis yang berkaitan” ertinya undang-undang bertulis persekutuan yang dinyatakan dalam Jadual Kedua dan termasuklah mana-mana perundangan subsidiari yang dibuat di bawah undang-undang bertulis itu.
 
-## BAhAgiAN II
+## BAHAGIAN II
 
 ## PENUBUHAN AGENSI KAWALAN DAN PERLINDUNGAN
 
@@ -178,7 +178,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (2) Pegawai yang dilantik di bawah subseksyen (1) hendaklah mempunyai kuasa yang diperuntukkan baginya di bawah Akta ini dan hendaklah tertakluk pada arahan, perintah, kawalan dan pengawasan Ketua Pengarah.
 
-## BAhAgiAN III
+## BAHAGIAN III
 
 ## FUNGSI DAN KUASA AGENSI
 
@@ -262,7 +262,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (2) Agensi dan pihak berkuasa berwibawa hendaklah membuat penyelarasan, berunding dan berhubung secara rapat antara satu sama lain dan memberikan bantuan kepada satu sama lain bagi maksud melaksanakan peruntukan Akta ini.
 
-## BAhAgiAN IV
+## BAHAGIAN IV
 
 AM
 
@@ -366,7 +366,7 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan kali pertama, dipenjarak
 
 <!-- page 16 -->
 
-## BAhAgiAN V
+## BAHAGIAN V
 
 ## KECUALIAN
 
@@ -376,7 +376,7 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan kali pertama, dipenjarak
 
 (2) Apa-apa permohonan bagi apa-apa pas, permit atau dokumen lain yang belum selesai yang dibuat di bawah undang-undang bertulis yang berkaitan sebelum Akta ini mula berkuat kuasa hendaklah tidak terkesan oleh Akta ini dan hendaklah diuruskan seolah-olah Akta ini tidak dibuat.
 
-## JAdUAL PertAmA
+## JADUAL PERTAMA
 
 [Seksyen 2]
 
@@ -482,7 +482,9 @@ No. Lapangan terbang yang dibenarkan
 
 <!-- page 19 -->
 
-No. Lapangan terbang yang dibenarkan
+<!-- marginal: No. -->
+
+Lapangan terbang yang dibenarkan
 
 5. U30 Lapangan Terbang Sandakan, Sabah
 
@@ -496,11 +498,25 @@ No. Lapangan terbang yang dibenarkan
 
 ## DI SISI UNDANG-UNDANG
 
-No. Pelabuhan Tempat mendarat yang sah di sisi Kastam undang-undang
+<!-- marginal: No. -->
 
-1. Pelabuhan
+<!-- marginal: Pelabuhan -->
 
-(a) Dermaga-dermaga dan jeti-jeti Lembaga Pelabuhan Klang Klang tebing timur Selat Kelang antara Sungai Tiga dengan Sungai Puloh;
+Tempat mendarat yang sah di sisi
+
+<!-- marginal: Kastam -->
+
+undang-undang
+
+1.
+
+<!-- marginal: Pelabuhan -->
+
+(a) Dermaga-dermaga dan jeti-jeti Lembaga Pelabuhan
+
+<!-- marginal: Klang -->
+
+Klang tebing timur Selat Kelang antara Sungai Tiga dengan Sungai Puloh;
 
 (b) Bahagian pantai pasang surut mulai dari satu tempat 93.41 meter ke sebelah utara jeti penumpang Jalan Foreshore hingga ke Kuala Sungai Aur dan dari situ sepanjang tebing Sungai Aur hingga dan termasuk jeti konkrit di stesen kuarantin lembu dan termasuk jeti-jeti, dermaga-dermaga dan pontun-pontun mulai dari pantai pasang surut dan tebing sungai tersebut;
 
@@ -512,47 +528,71 @@ No. Pelabuhan Tempat mendarat yang sah di sisi Kastam undang-undang
 
 (f) Jeti milik Star Cruise Sdn. Bhd. yang menganjur 247.31 meter ke laut di tebing barat Pulau Indah di utara Sungai Chondong Besar yang terletak di—
 
-Garis lintang
+Garis lintang Garis bujur
 
-<!-- marginal: Garis bujur -->
+02° 59’ 05.415”U 101° 20’ 15.723”T
 
-02° 59’ 05.415”U
-
-<!-- marginal: 101° 20’ 15.723”T -->
-
-02° 59’ 06.003”U
-
-<!-- marginal: 101° 20’ 16.921”T; -->
+02° 59’ 06.003”U 101° 20’ 16.921”T;
 
 <!-- page 20 -->
 
-No. Pelabuhan Tempat mendarat yang sah di sisi Kastam undang-undang
+<!-- marginal: No. -->
+
+<!-- marginal: Pelabuhan -->
+
+Tempat mendarat yang sah di sisi
+
+<!-- marginal: Kastam -->
+
+undang-undang
 
 (g) Jeti-jeti ASA Niaga Sdn. Bhd. di Pelabuhan Klang yang terletak di tebing kiri Sungai Klang di antara—
 
-Garis lintang
-
-<!-- marginal: Garis bujur -->
-
-03°00’31.9294”U 101°23’28.4299”T hingga
-
-<!-- marginal: hingga -->
-
-03° 00’ 26.1835”U 101° 23’ 26.4980”T;
+Garis lintang Garis bujur 03°00’31.9294”U 101°23’28.4299”T hingga hingga 03° 00’ 26.1835”U 101° 23’ 26.4980”T;
 
 (h) Jeti ASA Niaga Harbour City Sdn. Bhd., Jalan Foreshore, Pelabuhan Klang, Selangor yang terletak di—
 
 Garis lintang Garis bujur 101° 23’ 22.1”U 2° 59’ 58.8”T 101° 23’ 22.8”U 2° 59’ 56.3”T 101° 23’ 22.3”U 2° 59’ 56.2”T 101° 23’ 22.1”U 2° 59’ 56.9”T 101° 23’ 21.6”U 2° 59’ 56.7”T 101° 23’ 21.5”U 2° 59’ 56.9”T 101° 23’ 22.0”U 2° 59’ 55.8”T 101° 23’ 21.8”U 2° 59’ 57.7”T 101° 23’ 21.3”U 2° 59’ 57.6”T 101° 23’ 21.2”U 2° 59’ 57.7”T 101° 23’ 21.8”U 2° 59’ 57.9”T 101° 23’ 21.5”U 2° 59’ 58.6”T 101° 23’ 31.8”U 2° 00’ 10.3”T 101° 23’ 35.4”U 2° 59’ 55.4”T 101° 23’ 31.8”U 2° 59’ 53.3”T 101° 23’ 21.6”U 2° 59’ 56.1”T 101° 23’ 20.9”U 2° 59’ 58.3”T.
 
-2. Pelabuhan Bahagian kiri tebing sepanjang Sungai Pulai— Tanjung Garis lintang: 01° 22’ 27.885” U, Pelepas, Johor Garis bujur: 103° 32’ 37. 0024” T; Bahru hingga Garis lintang: 01° 21’ 20.4208” U, Garis bujur: 103° 32’ 56.7317” T
+2.
 
-3. Pasir Gudang,
+<!-- marginal: Pelabuhan -->
 
-(a) Bahagian persisiran pantai yang berpagar termasuk Johor Bahru muara Sungai Buluh, semua jeti dan semua dermaga Lembaga Pelabuhan Johor, terletak antara tebing barat Sungai Perembi yang terletak di garis lintang 01˚26’28’ U, garis bujur 103˚53’16’T, seterusnya kepada satu garisan yang bercantum kepada dolphin yang terletak di DCJ 4 di garis bujur 01˚26’27’U, garis bujur 103˚ 53’06’ T, dan bercantum dengan garisan Perairan Pelabuhan Johor di garis bujur 01˚ 26’14’ U, garis bujur 103˚ 53’ 06’ T;
+Bahagian kiri tebing sepanjang Sungai Pulai—
+
+<!-- marginal: Tanjung -->
+
+Garis lintang: 01° 22’ 27.885” U,
+
+<!-- marginal: Pelepas, Johor -->
+
+Garis bujur: 103° 32’ 37. 0024” T;
+
+<!-- marginal: Bahru -->
+
+hingga Garis lintang: 01° 21’ 20.4208” U, Garis bujur: 103° 32’ 56.7317” T
+
+3.
+
+<!-- marginal: Pasir Gudang, -->
+
+(a) Bahagian persisiran pantai yang berpagar termasuk
+
+<!-- marginal: Johor Bahru -->
+
+muara Sungai Buluh, semua jeti dan semua dermaga Lembaga Pelabuhan Johor, terletak antara tebing barat Sungai Perembi yang terletak di garis lintang 01˚26’28’ U, garis bujur 103˚53’16’T, seterusnya kepada satu garisan yang bercantum kepada dolphin yang terletak di DCJ 4 di garis bujur 01˚26’27’U, garis bujur 103˚ 53’06’ T, dan bercantum dengan garisan Perairan Pelabuhan Johor di garis bujur 01˚ 26’14’ U, garis bujur 103˚ 53’ 06’ T;
 
 <!-- page 21 -->
 
-No. Pelabuhan Tempat mendarat yang sah di sisi Kastam undang-undang
+<!-- marginal: No. -->
+
+<!-- marginal: Pelabuhan -->
+
+Tempat mendarat yang sah di sisi
+
+<!-- marginal: Kastam -->
+
+undang-undang
 
 (b) Pada sebelah timur, kawasan di sepanjang dermaga No. 11 terletak di garis lintang 01˚26’03.5” U, garis bujur 103˚ 55 ‘23’’T di bahagian utara, dan di selatan sebahagian daripada dermaga No. 11 yang terletak di garis lintang 01˚25 ‘52” U, garis bujur 103˚ 55’ 20’ T, bersebelahan dengan tebing barat Sungai Latoh yang terletak di garis lintang 01˚ 26 ‘12’ U, garis lintang 103 ˚ 55 ‘29” T
 
@@ -566,7 +606,13 @@ No. Pelabuhan Tempat mendarat yang sah di sisi Kastam undang-undang
 
 5. Kuantan,
 
-(a) Dermaga-dermaga Lembaga Pelabuhan Kuantan Tanjung di dalam Basin Pertama (Basin A); Gelang
+(a) Dermaga-dermaga Lembaga Pelabuhan Kuantan
+
+<!-- marginal: Tanjung -->
+
+di dalam Basin Pertama (Basin A);
+
+<!-- marginal: Gelang -->
 
 (b) Keseluruhan jeti dolphin yang terletak di bahagian selatan Basin Pertama (Basin A);
 
@@ -588,15 +634,21 @@ No. Pelabuhan Tempat mendarat yang sah di sisi Kastam undang-undang
 
 <!-- page 22 -->
 
-No. Pelabuhan Tempat mendarat yang sah di sisi Kastam undang-undang
+<!-- marginal: No. -->
+
+<!-- marginal: Pelabuhan -->
+
+Tempat mendarat yang sah di sisi
+
+<!-- marginal: Kastam -->
+
+undang-undang
 
 7. Bintulu
 
 (a) Dermaga Pihak Berkuasa Pelabuhan Bintulu di Tanjung Kedurong yang terletak di—
 
-Dermaga Garis lintang
-
-<!-- marginal: Garis bujur -->
+Dermaga Garis lintang Garis bujur
 
 1 3°15’53.3785” U 113°3’57.5312” T 3°15’53.3855” U 113 ° 3’ 52. 0233” T
 
@@ -616,9 +668,7 @@ Bulk 3°15’52.7354” U 113°3’51.1963” T Cargo 3°15’43.9436” U 113°
 
 ## MD/BD
 
-Garis lintang
-
-<!-- marginal: Garis bujur -->
+Garis lintang Garis bujur
 
 M.D. 1 3° 15’ 49.689” U 113° 3’ 14.095” T
 
@@ -630,31 +680,69 @@ M.D. 7 3° 15’ 56.256” U 113° 3’ 22.560” T;
 
 (c) LPG jeti yang terletak di garis lintang 3 ° 15 ‘57.5 ” U dan garis bujur 113 ° 2’57.4” T.
 
-8. Pelabuhan
+8.
 
-(a) Dermaga Lembaga Pelabuhan Kemaman terletak Kemaman di atas tanah tebus guna di Lot PT 3180;
+<!-- marginal: Pelabuhan -->
+
+(a) Dermaga Lembaga Pelabuhan Kemaman terletak
+
+<!-- marginal: Kemaman -->
+
+di atas tanah tebus guna di Lot PT 3180;
 
 (b) Kawasan yang dikenali sebagai Dermaga West yang terletak di Lot PT 3410, Mukim Teluk Kalong di Daerah Kemaman dikendalikan oleh Sukma Samudra Sdn. Bhd.
 
 <!-- page 23 -->
 
-No. Pelabuhan Tempat mendarat yang sah di sisi Kastam undang-undang
+<!-- marginal: No. -->
 
-9. Jeti Dermaga Jeti Dermaga Kimia Cecair (LCB) Pelabuhan Kemaman Kimia Cecair yang terletak di— (LCB) Pelabuhan Garis lintang
+<!-- marginal: Pelabuhan -->
 
-<!-- marginal: Garis Bujur -->
+Tempat mendarat yang sah di sisi
 
-Kemaman 4° 14’ 44.183652” U
+<!-- marginal: Kastam -->
 
-<!-- marginal: 103° 27’ 38.66652” T -->
+undang-undang
 
-10. Tanjung Jeti Pengurusan Pangkalan Bekalan Petroleum Tanjung Berhala Berhala Sdn. Bhd. Kemaman
+9.
 
-11. Tanjung Memuatkan Jeti Terminal Eksport Gas dikendalikan oleh Sulong Petroliam Nasional Sdn. Bhd. (PETRONAS) melanjutkan Kemaman untuk jarak 300 meter ke laut di koordinat—
+<!-- marginal: Jeti Dermaga -->
 
-Garis Lintang
+Jeti Dermaga Kimia Cecair (LCB) Pelabuhan Kemaman
 
-<!-- marginal: Garis Bujur -->
+<!-- marginal: Kimia Cecair -->
+
+yang terletak di—
+
+(LCB)
+
+<!-- marginal: Pelabuhan -->
+
+Garis lintang Garis Bujur
+
+<!-- marginal: Kemaman -->
+
+4° 14’ 44.183652” U 103° 27’ 38.66652” T
+
+10. Tanjung Jeti Pengurusan Pangkalan Bekalan Petroleum Tanjung
+
+<!-- marginal: Berhala -->
+
+Berhala Sdn. Bhd.
+
+<!-- marginal: Kemaman -->
+
+11. Tanjung Memuatkan Jeti Terminal Eksport Gas dikendalikan oleh
+
+<!-- marginal: Sulong -->
+
+Petroliam Nasional Sdn. Bhd. (PETRONAS) melanjutkan
+
+<!-- marginal: Kemaman -->
+
+untuk jarak 300 meter ke laut di koordinat—
+
+Garis Lintang Garis Bujur
 
 4° 14’ 24” U 103° 27’ 48” T
 
@@ -662,21 +750,25 @@ Garis Lintang
 
 (b) Jeti luar pesisir Single Buoy Mooring milik Exxon Production Malaysia Incorporation.
 
-13. Teluk Dermaga dan Jeti Lembaga Pelabuhan Sabah yang Sapangar terletak di—
+13. Teluk Dermaga dan Jeti Lembaga Pelabuhan Sabah yang
 
-Garis lintang
+<!-- marginal: Sapangar -->
 
-<!-- marginal: Garis bujur -->
+terletak di—
+
+Garis lintang Garis bujur
 
 06 ° 05 ‘06 U 116 ° 07 ‘23 T
 
 14. Tawau Dermaga di Lembaga Pelabuhan Sabah
 
-15. Senari Port, Dermaga Lembaga Pelabuhan Kuching di Kampung Kuching Senari dengan panjang 635 meter dan lebar 45 meter yang terletak di—
+15. Senari Port, Dermaga Lembaga Pelabuhan Kuching di Kampung
 
-Garis Lintang
+<!-- marginal: Kuching -->
 
-<!-- marginal: Garis Bujur -->
+Senari dengan panjang 635 meter dan lebar 45 meter yang terletak di—
+
+Garis Lintang Garis Bujur
 
 01° 37.01’ 0” U 110° 26.89’ 0” T
 
@@ -710,7 +802,9 @@ No. Lokasi
 
 ## ATAU KERETA API
 
-No. Lokasi Tempat import dan eksport
+<!-- marginal: No. -->
+
+Lokasi Tempat import dan eksport
 
 1. Bukit Kayu
 
@@ -720,9 +814,15 @@ No. Lokasi Tempat import dan eksport
 
 <!-- page 25 -->
 
-No. Lokasi Tempat import dan eksport
+<!-- marginal: No. -->
 
-2. Johor Bahru
+<!-- marginal: Lokasi -->
+
+Tempat import dan eksport
+
+2.
+
+<!-- marginal: Johor Bahru -->
 
 (a) Pintu Pemeriksaan Penumpang, iaitu kawasan yang diperuntukkan untuk Imigresen dan Kastam bagi pemeriksaan;
 
@@ -734,21 +834,41 @@ No. Lokasi Tempat import dan eksport
 
 (e) Pejabat Kastam dan semua bangunan dan binaan tambahan yang terletak di Bangunan Sultan Iskandar (BSI), Bukit Chagar, Mukim Johor Bahru, Daerah Johor Bahru, Johor disertakan dalam pagar perimeter yang akan bermula dari selatan di pintu masuk/ keluar bersama-sama pagar perimeter yang paling hampir dengan Bangunan Sultan Iskandar (BSI) dari arah Singapura dan berakhir di pintu keluar/ masuk menghadap Lingkaran Dalam Road.
 
-3. Tanjung Kompleks Sultan Abu Bakar, Mukim Tanjung Kupang, Kupang Daerah Johor Bahru, disertakan dalam pagar perimeter Johor Bahru yang akan bermula dari selatan oleh pintu masuk/keluar di sepanjang pagar perimeter yang terdekat dengan Kawasan Import dari arah Singapura dan berakhir di pintu keluar/masuk di sepanjang pagar perimeter hampir dengan Kawasan Holding Eksport
+3. Tanjung Kompleks Sultan Abu Bakar, Mukim Tanjung Kupang,
 
-4. Pasir Gudang
+<!-- marginal: Kupang -->
 
-(a) Bagi import ke dalam zon Bebas — Kompleks - Zon Bebas Kastam di Pasir Gudang iaitu kawasan yang diperuntukkan bagi pemeriksaan Pihak Berkuasa Zon Bebas dan Kastam yang merangkumi kawasan kereta api dan jalan masuk ke zon bebas itu;
+Daerah Johor Bahru, disertakan dalam pagar perimeter
+
+<!-- marginal: Johor Bahru -->
+
+yang akan bermula dari selatan oleh pintu masuk/keluar di sepanjang pagar perimeter yang terdekat dengan Kawasan Import dari arah Singapura dan berakhir di pintu keluar/masuk di sepanjang pagar perimeter hampir dengan Kawasan Holding Eksport
+
+4.
+
+<!-- marginal: Pasir Gudang -->
+
+(a) Bagi import ke dalam zon Bebas — Kompleks
+
+<!-- marginal: - Zon Bebas -->
+
+Kastam di Pasir Gudang iaitu kawasan yang diperuntukkan bagi pemeriksaan Pihak Berkuasa Zon Bebas dan Kastam yang merangkumi kawasan kereta api dan jalan masuk ke zon bebas itu;
 
 (b) Bagi eksport dari zon bebas — Kompleks Kastam di Pasir Gudang iaitu kawasan yang diperuntukkan bagi pemeriksaan Pihak Berkuasa Zon Bebas dan Kastam yang merangkumi kawasan kereta api dan jalan masuk ke zon bebas itu.
 
 <!-- page 26 -->
 
-No. Lokasi Tempat import dan eksport
+<!-- marginal: No. -->
+
+<!-- marginal: Lokasi -->
+
+Tempat import dan eksport
 
 (a) Pintu Pemeriksaan Imigresen di Jambatan Kereta
 
-5. Rantau Api merentangi Sungai Golok; Panjang
+5. Rantau Api merentangi Sungai Golok;
+
+<!-- marginal: Panjang -->
 
 (b) Landasan kereta api di Rantau Panjang bermula dari hujung Malaysia pada jambatan kereta api di tebing kanan Sungai Golok dan hingga ke selatan kira-kira 155.4 meter ke lintasan rata jalan raya termasuk platform stesen kereta api yang selari dengan landasan;
 
@@ -762,17 +882,33 @@ No. Lokasi Tempat import dan eksport
 
 ## KUARANTIN DAN PEMERIKSAAN MALAYSIA 2011
 
-No. Lokasi Pintu masuk
+<!-- marginal: No. -->
+
+<!-- marginal: Lokasi -->
+
+Pintu masuk
 
 (a) Dermaga dan Jeti Lembaga Pelabuhan Klang
 
-1. Pelabuhan di tebing timur Selat Klang di antara Sungai Tiga Klang dan Sungai Puloh;
+1.
+
+<!-- marginal: Pelabuhan -->
+
+di tebing timur Selat Klang di antara Sungai Tiga
+
+<!-- marginal: Klang -->
+
+dan Sungai Puloh;
 
 (b) Bahagian pantai pasang surut yang menganjur dari satu tempat 93.41 meter ke sebelah utara jeti penumpang Jalan Foreshore hingga ke kuala Sungai Aur dan dari situ sepanjang tebing Sungai Aur hingga dan termasuk jeti konkrit di stesen kuarantin lembu-kerbau dan termasuk jeti, dermaga dan ponton mulai dari pantai pasang surut dan tebing sungai dan dermaga tersebut;
 
 <!-- page 27 -->
 
-No. Lokasi Pintu masuk
+<!-- marginal: No. -->
+
+<!-- marginal: Lokasi -->
+
+Pintu masuk
 
 (c) Dermaga dan Jeti Lembaga Pelabuhan Klang di tebing barat Pulau Indah di antara Sungai Chandong Besar di utara sebelah barat sempadan pelabuhan di Garisan lintang 02˚ 55’ 48” Utara Garisan bujur 101˚ 20’ 24.5” Timur dan Sungai Lurus di selatan sebelah barat sempadan di Garisan lintang 02˚ 54’ 05” Utara Garisan bujur 101˚ 17’ 10” Timur;
 
@@ -780,7 +916,19 @@ No. Lokasi Pintu masuk
 
 (e) Jeti Asa Niaga Sdn. Bhd. di Pelabuhan Klang yang terletak di tebing kiri Sungai Klang di antara Garisan lintang 03˚ 00’ 31.9294” Utara hingga 03˚ 00’ 26.1835” Utara Garisan bujur 101˚ 23’ 28.4299” Timur hingga 101˚ 23’ 26.4980” Timur.
 
-2. Mukim Kapar, Semua tanah yang terletak dalam Mukim Kapar, dalam Daerah Klang, Daerah Klang, Selangor yang dilingkungi dengan garisan Selangor kelabu yang ditunjukkan dalam Pelan Warta 882 yang (Zon Bebas) disimpan di Pejabat Pengarah Ukur, Selangor tidak termasuk kawasan yang dinyatakan seperti yang berikut:
+2. Mukim Kapar, Semua tanah yang terletak dalam Mukim Kapar, dalam
+
+<!-- marginal: Daerah Klang, -->
+
+Daerah Klang, Selangor yang dilingkungi dengan garisan
+
+<!-- marginal: Selangor -->
+
+kelabu yang ditunjukkan dalam Pelan Warta 882 yang
+
+<!-- marginal: (Zon Bebas) -->
+
+disimpan di Pejabat Pengarah Ukur, Selangor tidak termasuk kawasan yang dinyatakan seperti yang berikut:
 
 (a) tanah yang diduduki oleh Klang Port Management Sdn. Bhd., terdiri daripada Export Stacking Bay (6 blok: TA-TG), Refers Stack (2 blok: RA-RB), Customs Examination Bay (3 blok: 1-3), Godown Q (kawasan seluas 220’ X 150’), Godown P (kawasan seluas 600’ x 150’), Open Yard P (kawasan seluas 660’ x 217’), Transit Shed No. 13 (kawasan seluas 100’ x 101’), Transit Shed No. 16 (kawasan seluas 177’ x 105’), Transit Shed No. 18 (kawasan seluas 177’ X 105’) dan Dock Area (kawasan seluas 700’ x 105’);
 
@@ -802,27 +950,85 @@ No. Lokasi Pintu masuk
 
 <!-- page 29 -->
 
-No. Lokasi Pintu masuk
+<!-- marginal: No. -->
 
-7. Pasir Gudang,
+<!-- marginal: Lokasi -->
 
-(a) bahagian kawasan berpagar pantai pasang surut, Johor Bahru termasuk muara Sungai Buluh, semua jeti dan dermaga Lembaga Pelabuhan Johor, yang terletak di antara tebing barat Sungai Perembi bertempat di Garisan lintang 01˚ 26’ 28” Utara Garisan bujur 103˚ 53’ 16” Timur, seterusnya kepada satu garisan yang bercantum kepada dolphin yang terbarat dari DCJ 4 bertempat di Garisan lintang 01˚ 26’ 27” Utara Garisan bujur 103˚ 53’ 06” Timur dan akhirnya bercantum dengan garisan kawasan Had Perairan Pelabuhan Johor di Garisan lintang 01˚ 26’ 14” Utara Garisan bujur 103˚ 53’ 06” Timur;
+Pintu masuk
+
+7.
+
+<!-- marginal: Pasir Gudang, -->
+
+(a) bahagian kawasan berpagar pantai pasang surut,
+
+<!-- marginal: Johor Bahru -->
+
+termasuk muara Sungai Buluh, semua jeti dan dermaga Lembaga Pelabuhan Johor, yang terletak di antara tebing barat Sungai Perembi bertempat di Garisan lintang 01˚ 26’ 28” Utara Garisan bujur 103˚ 53’ 16” Timur, seterusnya kepada satu garisan yang bercantum kepada dolphin yang terbarat dari DCJ 4 bertempat di Garisan lintang 01˚ 26’ 27” Utara Garisan bujur 103˚ 53’ 06” Timur dan akhirnya bercantum dengan garisan kawasan Had Perairan Pelabuhan Johor di Garisan lintang 01˚ 26’ 14” Utara Garisan bujur 103˚ 53’ 06” Timur;
 
 (b) di sebelah timur, kawasan sepanjang Dermaga No. 11 yang terletak di Garisan lintang 01˚ 26’ 0.35” Utara Garisan bujur 103˚ 55’ 23” Timur di sebelah bahagian utara, dan di sebelah bahagian selatan Dermaga No. 11 yang terletak di Garisan lintang 01˚ 25’ 52” Utara Garisan bujur 103˚ 55’ 20” Timur, bersebelahan dengan tebing barat Sungai Latoh yang terletak di Garisan lintang 01˚ 26’ 12” Utara Garisan bujur 103˚ 55’ 29” Timur.
 
-8. Pasir Gudang
+8.
 
-(a) bagi import ke dalam Zon-Kompleks Kastam (Zon Bebas) di Pasir Gudang yang diperuntukkan bagi Pemeriksaan Import Pihak Berkuasa Zon dan Kastam termasuk laman kereta api dan jalan menghala ke dalam Zon;
+<!-- marginal: Pasir Gudang -->
+
+(a) bagi import ke dalam Zon-Kompleks Kastam
+
+<!-- marginal: (Zon Bebas) -->
+
+di Pasir Gudang yang diperuntukkan bagi Pemeriksaan Import Pihak Berkuasa Zon dan Kastam termasuk laman kereta api dan jalan menghala ke dalam Zon;
 
 (b) bagi eksport ke dalam Zon-Kompleks Kastam di Pasir Gudang yang diperuntukkan bagi Pemeriksaan Eksport Pihak Berkuasa Zon dan Kastam termasuk laman kereta api dan jalan menghala keluar dari Zon.
 
-9. Pelabuhan Tebing kiri Sungai Pulai bermula dari Garisan lintang Tanjung 01˚ 22’ 27.885” Utara Garisan bujur 103˚ 32’ 37” Pelepas, Johor Timur hingga Garisan lintang 01˚ 21’ 20.4208” Utara Bahru Garisan bujur 103˚ 32’ 56.7317” Timur
+9.
 
-10. Tanjung Lot PTD 2423 Mukim Tanjung Kupang, Daerah Johor Pelepas, Bahru, Johor, sebagaimana yang ditunjukkan dengan Mukim garisan kelabu dalam Pelan Warta 2749 yang disimpan Tanjung di Pejabat Pengarah Ukur, Johor Kupang, Daerah Johor Bahru, Johor (Fasa 1) (Zon Bebas)
+<!-- marginal: Pelabuhan -->
+
+Tebing kiri Sungai Pulai bermula dari Garisan lintang
+
+<!-- marginal: Tanjung -->
+
+01˚ 22’ 27.885” Utara Garisan bujur 103˚ 32’ 37”
+
+<!-- marginal: Pelepas, Johor -->
+
+Timur hingga Garisan lintang 01˚ 21’ 20.4208” Utara
+
+<!-- marginal: Bahru -->
+
+Garisan bujur 103˚ 32’ 56.7317” Timur
+
+10. Tanjung Lot PTD 2423 Mukim Tanjung Kupang, Daerah Johor
+
+<!-- marginal: Pelepas, -->
+
+Bahru, Johor, sebagaimana yang ditunjukkan dengan
+
+<!-- marginal: Mukim -->
+
+garisan kelabu dalam Pelan Warta 2749 yang disimpan
+
+<!-- marginal: Tanjung -->
+
+di Pejabat Pengarah Ukur, Johor
+
+<!-- marginal: Kupang, -->
+
+<!-- marginal: Daerah Johor -->
+
+<!-- marginal: Bahru, Johor -->
+
+<!-- marginal: (Fasa 1) -->
+
+<!-- marginal: (Zon Bebas) -->
 
 <!-- page 30 -->
 
-No. Lokasi Pintu masuk
+<!-- marginal: No. -->
+
+<!-- marginal: Lokasi -->
+
+Pintu masuk
 
 11. Kuantan
 
@@ -830,13 +1036,25 @@ No. Lokasi Pintu masuk
 
 (b) Dermaga Pahang Consolidated Co. Ltd.
 
-12. Tanjung Dermaga Lembaga Pelabuhan Kuantan di dalam Basin Gelang, Pertama (Basin A) Kuantan
+12. Tanjung Dermaga Lembaga Pelabuhan Kuantan di dalam Basin
 
-13. Chukai, Jeti Kerajaan Kemaman
+<!-- marginal: Gelang, -->
+
+Pertama (Basin A)
+
+<!-- marginal: Kuantan -->
+
+13. Chukai, Jeti Kerajaan
+
+<!-- marginal: Kemaman -->
 
 14. Pelabuhan
 
-(a) Dermaga Lembaga Pelabuhan Kemaman yang Kemaman terletak di atas tanah tebus guna di Lot PT 3180;
+(a) Dermaga Lembaga Pelabuhan Kemaman yang
+
+<!-- marginal: Kemaman -->
+
+terletak di atas tanah tebus guna di Lot PT 3180;
 
 (b) kawasan yang dikenali sebagai Dermaga Barat yang terletak di Lot PT 3410, Mukim Teluk Kalong di dalam Daerah Kemaman yang dikendalikan oleh PTB West Wharf Sdn. Bhd.
 
@@ -850,7 +1068,37 @@ No. Lokasi Pintu masuk
 
 16. Butterworth Terminal feri yang dikendalikan oleh Suruhanjaya Pelabuhan Pulau Pinang
 
-17. Dermaga Semua tanah yang terletak di seksyen 4, Bandar Ayer Dalam, Butterworth, Daerah Utara, Seberang Perai yang Seksyen 4, dilingkungi dengan garisan kelabu yang ditunjukkan Bandar dalam Pelan Warta 573 yang disimpan di Pejabat Butterworth, Pengarah Ukur, Pulau Pinang, tidak termasuk kawasan Daerah Utara, tanah yang diduduki oleh Penang Port Sdn. Bhd. yang Seberang terdiri daripada— Perai (Zon Bebas) (i) Gudang W2;
+17. Dermaga Semua tanah yang terletak di seksyen 4, Bandar
+
+<!-- marginal: Ayer Dalam, -->
+
+Butterworth, Daerah Utara, Seberang Perai yang
+
+<!-- marginal: Seksyen 4, -->
+
+dilingkungi dengan garisan kelabu yang ditunjukkan
+
+<!-- marginal: Bandar -->
+
+dalam Pelan Warta 573 yang disimpan di Pejabat
+
+<!-- marginal: Butterworth, -->
+
+Pengarah Ukur, Pulau Pinang, tidak termasuk kawasan
+
+<!-- marginal: Daerah Utara, -->
+
+tanah yang diduduki oleh Penang Port Sdn. Bhd. yang
+
+<!-- marginal: Seberang -->
+
+terdiri daripada—
+
+<!-- marginal: Perai -->
+
+<!-- marginal: (Zon Bebas) -->
+
+(i) Gudang W2;
 
 (ii) Blok Eksport (Blok A-D: Slot No. 1-45) (Blok E-H: Slot No. 1-23);
 
@@ -858,7 +1106,11 @@ No. Lokasi Pintu masuk
 
 <!-- page 31 -->
 
-No. Lokasi Pintu masuk
+<!-- marginal: No. -->
+
+<!-- marginal: Lokasi -->
+
+Pintu masuk
 
 18. Prai
 
@@ -868,31 +1120,75 @@ No. Lokasi Pintu masuk
 
 19. Prai (Depot
 
-(a) Depo Pelepasan Pendalaman Kontena Nasional Pelepasan No. 2443, Lorong Perusahaan Satu, Kawasan Pendalaman) Perusahaan Prai;
+(a) Depo Pelepasan Pendalaman Kontena Nasional
+
+<!-- marginal: Pelepasan -->
+
+No. 2443, Lorong Perusahaan Satu, Kawasan
+
+<!-- marginal: Pendalaman) -->
+
+Perusahaan Prai;
 
 (b) North Terminal Sdn. Bhd. 4935, Dermaga Prai.
 
 20. Bukit Kayu
 
-(a) Pejabat Kastam dan semua bangunan dan binaan Hitam tambahan yang terletak di dalam Kompleks Imigresen Bukit Kayu Hitam yang terletak di sepanjang jalan raya utama Sadao/Changlun di antara 8.9 kilometer ke utara Changlun dan 0.69 kilometer ke selatan Danork (Thailand) Tempat Pemeriksaan Imigresen atau Kastam di dalam Mukim Laka Temin, Kubang Pasu, Kedah;
+(a) Pejabat Kastam dan semua bangunan dan binaan
+
+<!-- marginal: Hitam -->
+
+tambahan yang terletak di dalam Kompleks Imigresen Bukit Kayu Hitam yang terletak di sepanjang jalan raya utama Sadao/Changlun di antara 8.9 kilometer ke utara Changlun dan 0.69 kilometer ke selatan Danork (Thailand) Tempat Pemeriksaan Imigresen atau Kastam di dalam Mukim Laka Temin, Kubang Pasu, Kedah;
 
 (b) Pejabat Kastam dan semua bangunan dan binaan tambahan yang terletak di dalam Kompleks Pemeriksaan Lembaga Kemajuan Ikan Malaysia yang terletak di sepanjang jalan raya utama Sadao/Changlun di antara 9.1 kilometer ke utara Changlun dan 0.67 kilometer ke selatan Danork (Thailand) Tempat Pemeriksaan Imigresen atau Kastam sebagaimana yang ditetapkan dalam pelan No. PT 890 dan PT 2180 di dalam Mukim Laka Temin, Kubang Pasu, Kedah.
 
-21. Pekan Bukit Semua tanah yang terletak dalam pekan Bukit Kayu Kayu Hitam Hitam Dan Mukim Sungai Laka, Daerah Kubang Pasu dan Mukim yang dilingkungi dengan garisan kelabu sebagaimana Sungai Laka, yang ditunjukkan dalam Pelan Warta 1385 yang disimpan Daerah di Pejabat Pengarah Ukur, Kedah Kubang Pasu, Kedah (Zon Bebas)
+21. Pekan Bukit Semua tanah yang terletak dalam pekan Bukit Kayu
+
+<!-- marginal: Kayu Hitam -->
+
+Hitam Dan Mukim Sungai Laka, Daerah Kubang Pasu
+
+<!-- marginal: dan Mukim -->
+
+yang dilingkungi dengan garisan kelabu sebagaimana
+
+<!-- marginal: Sungai Laka, -->
+
+yang ditunjukkan dalam Pelan Warta 1385 yang disimpan
+
+<!-- marginal: Daerah -->
+
+di Pejabat Pengarah Ukur, Kedah
+
+<!-- marginal: Kubang Pasu, -->
+
+<!-- marginal: Kedah -->
+
+<!-- marginal: (Zon Bebas) -->
 
 <!-- page 32 -->
 
-No. Lokasi Pintu masuk
+<!-- marginal: No. -->
+
+<!-- marginal: Lokasi -->
+
+Pintu masuk
 
 22. Rantau
 
-(a) di Pusat Pemeriksaan Imigresen di Jambatan Panjang Keretapi yang merentangi Sungai Golok;
+(a) di Pusat Pemeriksaan Imigresen di Jambatan
+
+<!-- marginal: Panjang -->
+
+Keretapi yang merentangi Sungai Golok;
 
 (b) jalan kereta api di Rantau Panjang bermula dari hujung jambatan keretapi di sebelah Malaysia di tebing kanan Sungai Golok dan menganjur ke selatan lebih kurang 155.4 meter ke get lintasan rata termasuk platform stesen kereta api yang memanjang selari dengan jalan kereta api itu;
 
 (c) kawasan dalam Lot 251 di Pekan Rantau Panjang, Daerah Pasir Mas, Kelantan yang mengandungi pondok dan Kompleks Tempat Pemeriksaan Imigresen yang terkepung di sebelah utara dengan get dan pagar di hujung jambatan jalan di sebelah Malaysia yang menyambung kedua-dua get itu dan ke timur, kompleks bangunan dan garisan rekaan lurus bermula dari hujung bangunan kompleks itu di sebelah utara hingga ia bertemu dengan get utara termasuk jalan yang menyambungkan kawasan tempat pemeriksaan ke platform stesen kereta api bersebelahan dengan Pejabat Kastam.
 
-23. Johor Bahru
+23.
+
+<!-- marginal: Johor Bahru -->
 
 (a) bagi import dengan motokar, bas, motosikal, skuter, basikal dan penumpang berjalan kaki, Get Pemeriksaan penumpang iaitu kawasan yang diuntukkan bagi Pemeriksaan Imigresen dan Kastam;
 
@@ -902,21 +1198,71 @@ No. Lokasi Pintu masuk
 
 <!-- page 33 -->
 
-No. Lokasi Pintu masuk
+<!-- marginal: No. -->
+
+<!-- marginal: Lokasi -->
+
+Pintu masuk
 
 (d) bagi eksport mengikut jalan di luar waktu kerja biasa, Ruang Eksport Kastam di Kompleks Kastam di Tanjung Putri sebagaimana yang dinyatakan dalam perenggan (c), atau atas arahan Pegawai Kastam Yang Hak;
 
 (e) Pejabat Kastam dan semua bangunan dan binaan tambahan yang terletak di dalam Kompleks Kastam, Imigresen dan Kuarantin Bukit Chagar, Mukim Johor Bahru, Daerah Johor Bahru, Johor yang dilingkungi pagar sekelilingnya, bermula dari selatan di pintu masuk/keluar get berhadapan dengan Jalan Lingkaran Dalam.
 
-24. Mukim Semua tanah yang terletak dalam Mukim Plentong, Plentong, dalam Daerah Johor Bharu, yang dilingkungi dengan Daerah Johor garisan tersebut yang ditunjukkan dalam Pelan Warta Bahru 2233 dan 2234 yang disimpan di Pejabat Pengarah Ukur (Zon Bebas) Johor, tidak termasuk Kawasan Pemeriksaan Kastam, seluas 0.459 hektar di Terminal Kontena di Lot 66208
+24. Mukim Semua tanah yang terletak dalam Mukim Plentong,
 
-25. Tanjung Kompleks Sultan Abu Bakar, Mukim Tanjung Kupang, Kupang, Johor Daerah Johor Bahru yang dilingkungi oleh pagar kawasan, Bahru bermula dari selatan dengan pintu masuk/keluar yang terletak seiring dengan pagar kawasan yang paling hampir dengan Kawasan Menunggu Import dari arah Singapura dan berakhir di pintu keluar/masuk yang terletak seiring dengan pagar kawasan yang paling hampir dengan Kawasan Menunggu Eksport
+<!-- marginal: Plentong, -->
 
-26. Lapangan Terbang Antarabangsa Pulau Pinang, Bayan Lepas (Pulau Pinang)
+dalam Daerah Johor Bharu, yang dilingkungi dengan
+
+<!-- marginal: Daerah Johor -->
+
+garisan tersebut yang ditunjukkan dalam Pelan Warta
+
+<!-- marginal: Bahru -->
+
+2233 dan 2234 yang disimpan di Pejabat Pengarah Ukur
+
+<!-- marginal: (Zon Bebas) -->
+
+Johor, tidak termasuk Kawasan Pemeriksaan Kastam, seluas 0.459 hektar di Terminal Kontena di Lot 66208
+
+25. Tanjung Kompleks Sultan Abu Bakar, Mukim Tanjung Kupang,
+
+<!-- marginal: Kupang, Johor -->
+
+Daerah Johor Bahru yang dilingkungi oleh pagar kawasan,
+
+<!-- marginal: Bahru -->
+
+bermula dari selatan dengan pintu masuk/keluar yang terletak seiring dengan pagar kawasan yang paling hampir dengan Kawasan Menunggu Import dari arah Singapura dan berakhir di pintu keluar/masuk yang terletak seiring dengan pagar kawasan yang paling hampir dengan Kawasan Menunggu Eksport
+
+26. Lapangan Terbang Antarabangsa Pulau Pinang, Bayan Lepas
+
+<!-- marginal: (Pulau Pinang) -->
 
 27. Lapangan Terbang Antarabangsa Kuala Lumpur, Sepang (Selangor)
 
-28. Lapangan Semua tanah yang terletak dalam Kawasan Bandar Terbang Lapangan Terbang Antarabangsa Sepang, Daerah Sepang Antarabangsa yang dilingkungi dengan garisan kelabu seperti yang Kuala Lumpur, ditunjukkan dalam Pelan Warta 1207 yang disimpan Sepang, di Pejabat Pengarah Ukur, Selangor Selangor (Zon Bebas)
+28. Lapangan Semua tanah yang terletak dalam Kawasan Bandar
+
+<!-- marginal: Terbang -->
+
+Lapangan Terbang Antarabangsa Sepang, Daerah Sepang
+
+<!-- marginal: Antarabangsa -->
+
+yang dilingkungi dengan garisan kelabu seperti yang
+
+<!-- marginal: Kuala Lumpur, -->
+
+ditunjukkan dalam Pelan Warta 1207 yang disimpan
+
+<!-- marginal: Sepang, -->
+
+di Pejabat Pengarah Ukur, Selangor
+
+<!-- marginal: Selangor -->
+
+<!-- marginal: (Zon Bebas) -->
 
 <!-- page 34 -->
 
@@ -938,7 +1284,7 @@ Pusat Kuarantin Kesihatan, Pintu Masuk Antarabangsa, Lapangan Terbang Antarabang
 
 4. Sabah Pejabat Kesihatan Lapangan Terbang Antarabangsa Kota Kinabalu, Kota Kinabalu, Sabah
 
-## JAdUAL KedUA
+## JADUAL KEDUA
 
 [Seksyen 2]
 
@@ -1006,13 +1352,11 @@ No. Undang-Undang bertulis
 
 <!-- page 36 -->
 
-No. Undang-Undang bertulis Perihal
+No. Undang-Undang bertulis
 
-21. Akta Perdagangan Antarabangsa Seksyen 10, 11, 12, 13 dan 15, dan Mengenai Spesies Terancam
+<!-- marginal: Perihal -->
 
-## Bahagian V dan VI
-
-2008 [Akta 686]
+21. Akta Perdagangan Antarabangsa Seksyen 10, 11, 12, 13 dan 15, dan Mengenai Spesies Terancam Bahagian V dan VI 2008 [Akta 686]
 
 22. Akta Antipemerdagangan Keseluruhan Akta Orang dan Antipenyeludupan Migran 2007 [Akta 670]
 
@@ -1062,7 +1406,7 @@ No. Undang-Undang bertulis Perihal
 
 Rang Undang-Undang Agensi Kawalan dan Perlindungan Sempadan Malaysia (“Akta yang dicadangkan”) bertujuan untuk mengadakan peruntukan bagi penubuhan Agensi Kawalan dan Perlindungan Sempadan Malaysia, fungsi dan kuasanya yang berhubungan dengan kawalan dan perlindungan sempadan, dan mengadakan peruntukan bagi perkara yang berkaitan.
 
-## BAhAgiAN I
+## BAHAGIAN I
 
 2. Bahagian I Akta yang dicadangkan memperkatakan perkara permulaan.
 
@@ -1070,7 +1414,7 @@ Rang Undang-Undang Agensi Kawalan dan Perlindungan Sempadan Malaysia (“Akta ya
 
 4. Fasal 2 mengandungi takrif bagi perkataan dan ungkapan tertentu yang digunakan dalam Akta yang dicadangkan.
 
-## BAhAgiAN II
+## BAHAGIAN II
 
 5. Bahagian II Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan penubuhan Agensi Kawalan dan Perlindungan Sempadan Malaysia dan pelantikan Ketua Pengarah, Timbalan Ketua Pengarah dan pegawai Agensi.
 
@@ -1080,7 +1424,7 @@ Rang Undang-Undang Agensi Kawalan dan Perlindungan Sempadan Malaysia (“Akta ya
 
 8. Fasal 5 bertujuan untuk mengadakan peruntukan bagi pelantikan pegawai Agensi oleh Menteri.
 
-## BAhAgiAN III
+## BAHAGIAN III
 
 9. Bahagian III Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan fungsi dan kuasa Agensi.
 
@@ -1104,7 +1448,7 @@ kawalan dan kuarantin mana-mana tumbuh-tumbuhan, binatang, karkas, ikan, keluara
 
 <!-- page 39 -->
 
-## BAhAgiAN IV
+## BAHAGIAN IV
 
 17. Bahagian IV Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan perkara am.
 

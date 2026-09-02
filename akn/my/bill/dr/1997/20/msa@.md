@@ -40,7 +40,9 @@ seksyen 134—
 
 <!-- page 2 -->
 
-2 Rang Undang-Undang
+<!-- marginal: 2 -->
+
+Rang Undang-Undang
 
 (c) dengan menggantikan subseksyen (2) dengan subseksyen yang berikut:
 

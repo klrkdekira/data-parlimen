@@ -12,9 +12,7 @@ D.R. 33/2006
 
 ## PERMULAAN
 
-1. Tajuk ringkas, pemakaian dan permulaan kuat kuasa
-
-2. Tafsiran
+1. Tajuk ringkas, pemakaian dan permulaan kuat kuasa 2. Tafsiran
 
 ## BAHAGIAN II
 
@@ -22,17 +20,7 @@ D.R. 33/2006
 
 ## ANAK NEGERI
 
-3. Anak negeri disifatkan sebagai pegangan anak negeri
-
-4. Daftar Hakmilik Anak Negeri
-
-5. Peruntukan tentang memorial pada dokumen hakmilik
-
-6. Pemberian hakmilik tanah sebagai pegangan anak negeri
-
-7. Permohonan bagi pendaftaran tanah sebagai pegangan anak negeri
-
-8. Permohonan bagi pembatalan pegangan anak negeri
+3. Anak negeri disifatkan sebagai pegangan anak negeri 4. Daftar Hakmilik Anak Negeri 5. Peruntukan tentang memorial pada dokumen hakmilik 6. Pemberian hakmilik tanah sebagai pegangan anak negeri 7. Permohonan bagi pendaftaran tanah sebagai pegangan anak negeri 8. Permohonan bagi pembatalan pegangan anak negeri
 
 ## BAHAGIAN HI
 
@@ -616,4 +604,4 @@ Fasal 27 memperkatakan pengecualian fi dalam hal tertentu.
 
 Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
 
-[PN(U2)2417]
+<!-- marginal: [PN(U2)2417] -->

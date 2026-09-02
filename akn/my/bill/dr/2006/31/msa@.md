@@ -38,4 +38,4 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Ahli Parlimen (Saraan) 1980 
 
 Rang Undang-Undang ini akan inelibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya belum dapat ditentukan sekarang ini.
 
-[PN(U2)2471j
+<!-- marginal: [PN(U2)2471j -->

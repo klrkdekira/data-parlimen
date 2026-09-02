@@ -96,11 +96,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 “(1) Tatacara yang berikut hendaklah diterima pakai bagi mengisi kekosongan dalam Lembaga yang timbul daripada apa-apa sebab yang disenaraikan dalam perenggan 3:
 
-(a) dalam hal anggota yang mewakili organisasi media, pelantikan bagi maksud mengisi apa-apa kekosongan hendaklah dibuat atas syor organisasi media yang wakilnya
-
-<!-- marginal: telah -->
-
-mengosongkan jawatannya; dan
+(a) dalam hal anggota yang mewakili organisasi media, pelantikan bagi maksud mengisi apa-apa kekosongan hendaklah dibuat atas syor organisasi media yang wakilnya telah mengosongkan jawatannya; dan
 
 <!-- page 5 -->
 

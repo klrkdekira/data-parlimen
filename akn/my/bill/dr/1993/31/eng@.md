@@ -10,27 +10,13 @@
 
 ## PRELIMINARY
 
-1. Short title and commencement.
-
-2. Interpretation.
+1. Short title and commencement. 2. Interpretation.
 
 ## PART II
 
 ## CIVIL UABILITY FOR OIL POLLUTION
 
-3. Liability for oil pollution.
-
-4. Exceptions from liability under section 3.
-
-5. Restriction of liability for oil pollution.
-
-6. Limitation of liability under section 3.
-
-7. Limitation actions.
-
-8. Restriction on enforcement of claims after establishment of limitation fund.
-
-9. Limitation fund outside Malaysia.
+3. Liability for oil pollution. 4. Exceptions from liability under section 3. 5. Restriction of liability for oil pollution. 6. Limitation of liability under section 3. 7. Limitation actions. 8. Restriction on enforcement of claims after establishment of limitation fund. 9. Limitation fund outside Malaysia.
 
 10. Extinguishment of claims.
 
@@ -58,9 +44,7 @@ III
 
 <!-- page 2 -->
 
-18. Power to obtain information.
-
-19. Liability of the Fund.
+18. Power to obtain information. 19. Liability of the Fund.
 
 20. Indemnification where damage is caused by ship registered in Fund Convention country.
 
@@ -80,19 +64,13 @@ III
 
 ## ENFORCEMENT
 
-25. Director of Marine to carry out powers and duties under this Act or regulations made thereunder.
-
-26. Power of arrest, detention and prosecution.
-
-27. Power to board and search ships.
+25. Director of Marine to carry out powers and duties under this Act or regulations made thereunder. 26. Power of arrest, detention and prosecution. 27. Power to board and search ships.
 
 ## PART VI
 
 ## MISCELLANEOUS
 
-28. Offences by body corporate.
-
-29. Power to make regulations.
+28. Offences by body corporate. 29. Power to make regulations.
 
 ## SCHEDULES.
 
@@ -202,17 +180,27 @@ Sarawak and regulations made thereunder;
 
 ## CIVIL LIABILITY FOR OIL POLLUTION
 
-Liability for
+<!-- marginal: Liability for -->
 
-3. (1) Where, as a result of an incident taking place, oil pollution. any oil is discharged or escapes from a ship, the owner of the ship shall, except as otherwise provided by this Act, be liable for any pollution damage caused by such discharge or escape in any area of Malaysia.
+3. (1) Where, as a result of an incident taking place,
+
+<!-- marginal: oil pollution. -->
+
+any oil is discharged or escapes from a ship, the owner of the ship shall, except as otherwise provided by this Act, be liable for any pollution damage caused by such discharge or escape in any area of Malaysia.
 
 (2) Further, the owner of the ship shall be liable for any pollution damage caused to any area of any other Liability Convention country as a result of any incident specified in subsection (1).
 
 (3) Where oil has been discharged or has escaped from two or more ships, and pollution damage results therefrom, the owners of all the ships, unless exonerated under section 4, shall be jointly and severally liable for all such pollution damage which is not reasonably separable.
 
-Exceptions
+<!-- marginal: Exceptions -->
 
-4. (1) The owner of a ship from which oil has been from liability discharged or has escaped shall not incur any liability under section
+4. (1) The owner of a ship from which oil has been
+
+<!-- marginal: from liability -->
+
+discharged or has escaped shall not incur any liability
+
+<!-- marginal: under section -->
 
 3. for pollution damage under section 3 if he proves that the discharge or escape—
 
@@ -262,9 +250,7 @@ under section 3 in respect of any one incident—
 
 (b) he may limit that liability in accordance with this Act, and if he does so his liability (that is to say, the aggregate of his liabilities under section 3 in respect of any one incident) shall not exceed one hundred and thirty-three special drawing rights for each ton of the ship's tonnage, provided that this aggregate amount shall not in any event exceed fourteen million special drawing rights.
 
-(2) If the incident occurred as a result of the actual fault or privity of the owner of the ship, he shall not be entitled to avail himself of the limitation in paragraph
-
-(1)(b)
+(2) If the incident occurred as a result of the actual fault or privity of the owner of the ship, he shall not be entitled to avail himself of the limitation in paragraph (1)(b)
 
 <!-- page 8 -->
 
@@ -288,9 +274,13 @@ preceding paragraphs, the Surveyor of Ships shall, if so directed by the Court, 
 
 accordance with those paragraphs, and the net registered tonnage stated in his certificate shall be taken to be the net registered tonnage of the ship.
 
-Limitation
+<!-- marginal: Limitation -->
 
-7. (1) Where the owner of a ship has or is alleged to actions. have incurred a liability under section 3 he may apply to the Court for the limitation of that liability to an amount determined in accordance with section 6.
+7. (1) Where the owner of a ship has or is alleged to
+
+<!-- marginal: actions. -->
+
+have incurred a liability under section 3 he may apply to the Court for the limitation of that liability to an amount determined in accordance with section 6.
 
 (2) If on such an application the Court finds that the applicant has incurred such a liability and is entitled to limit it, the Court shall, after determining the limit of that liability and directing payment, or deposit of a bank guarantee or security into Court of the amount of that limit—
 
@@ -320,9 +310,29 @@ the person who paid the sum shall, to the extent of that sum, be in the same pos
 
 <!-- page 10 -->
 
-Restriction
+<!-- marginal: Restriction -->
 
-8. Where the Court has found that a person who has on enfor- incurred a liability under section 3 is entitled to limit cement of claims after that liability under section 6 and he has paid a sum or establishment deposited a bank guarantee or security into the Court for of limitation fund. a sum not less than that amount—
+8. Where the Court has found that a person who has
+
+<!-- marginal: on enfor- -->
+
+incurred a liability under section 3 is entitled to limit
+
+<!-- marginal: cement of -->
+
+<!-- marginal: claims after -->
+
+that liability under section 6 and he has paid a sum or
+
+<!-- marginal: establishment -->
+
+deposited a bank guarantee or security into the Court for
+
+<!-- marginal: of limitation -->
+
+<!-- marginal: fund. -->
+
+a sum not less than that amount—
 
 (a) the Court shall order the release of any ship or other property arrested in connection with the claim in respect of that liability or any bail or other security given to avoid such arrest; and
 
@@ -330,17 +340,43 @@ Restriction
 
 if the claimant has access to the Court and if the payment or the bank guarantee or security or such part thereof as corresponds to the claim will be actually available to the claimant.
 
-Limitation
+<!-- marginal: Limitation -->
 
-9. Where the event resulting in the liability of any fund outside person under section 3 has also resulted in a Malaysia. corresponding liability under the law of another Liability Convention country, section 8 shall apply as if the references to sections 3 and 7 include references to the corresponding provisions of that law and the references to sums paid into the Court include references to any sums secured under those provisions in respect of the liability.
+9. Where the event resulting in the liability of any
 
-Extinguishment
+<!-- marginal: fund outside -->
 
-10. No action to enforce a claim in respect of a liability of claims. incurred under section 3 shall be considered by any Court in Malaysia unless the action is commenced within three years from the date the pollution damage occurred or within six years from the date of the incident which caused the pollution damage, and where the incident consists of a series of occurrences, the six years' period shall run from the date of the first such occurrence.
+person under section 3 has also resulted in a
 
-Compulsory
+<!-- marginal: Malaysia. -->
 
-11. (1) Subject to the provisions of this Act relating insurance to Government ships, this section shall apply to any ship against liability for carrying in bulk a cargo of more than two thousand tons pollution. of oil.
+corresponding liability under the law of another Liability Convention country, section 8 shall apply as if the references to sections 3 and 7 include references to the corresponding provisions of that law and the references to sums paid into the Court include references to any sums secured under those provisions in respect of the liability.
+
+<!-- marginal: Extinguishment -->
+
+10. No action to enforce a claim in respect of a liability
+
+<!-- marginal: of claims. -->
+
+incurred under section 3 shall be considered by any Court in Malaysia unless the action is commenced within three years from the date the pollution damage occurred or within six years from the date of the incident which caused the pollution damage, and where the incident consists of a series of occurrences, the six years' period shall run from the date of the first such occurrence.
+
+<!-- marginal: Compulsory -->
+
+11. (1) Subject to the provisions of this Act relating
+
+<!-- marginal: insurance -->
+
+to Government ships, this section shall apply to any ship
+
+<!-- marginal: against -->
+
+<!-- marginal: liability for -->
+
+carrying in bulk a cargo of more than two thousand tons
+
+<!-- marginal: pollution. -->
+
+of oil.
 
 <!-- page 11 -->
 
@@ -374,17 +410,37 @@ to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not
 
 (8) If a ship attempts to leave a port or a terminal installation in Malaysia in contravention of this section, the ship may be detained.
 
-Issue of
+<!-- marginal: Issue of -->
 
-12. (1) Subject to subsection (2), if the Director of certificate Marine is satisfied, on an application for such a by Director of Marine. certificate as is mentioned in section 11 in respect of a ship registered in Malaysia or any country which is not a Liability Convention country, that there will be in force in respect of the ship, throughout the period for which the certificate is to be issued, a valid contract of insurance or other financial security satisfying the requirements of Article 7 of the Liability Convention, the Director of Marine shall issue such a certificate to the owner.
+12. (1) Subject to subsection (2), if the Director of
+
+<!-- marginal: certificate -->
+
+Marine is satisfied, on an application for such a
+
+<!-- marginal: by Director -->
+
+<!-- marginal: of Marine. -->
+
+certificate as is mentioned in section 11 in respect of a ship registered in Malaysia or any country which is not a Liability Convention country, that there will be in force in respect of the ship, throughout the period for which the certificate is to be issued, a valid contract of insurance or other financial security satisfying the requirements of Article 7 of the Liability Convention, the Director of Marine shall issue such a certificate to the owner.
 
 (2) If the Director of Marine is of the opinion that there i s -a doubt whether the person providing the insurance or other financial security will be able to meet his obligations, or whether the insurance or other financial security will cover the owner's liability under section 3 in all circumstances, he may refuse to issue the certificate.
 
 (3) The Director of Marine shall maintain a record of any certificate issued by him in respect of a ship registered in Malaysia and this shall be available for public inspection.
 
-Rights of
+<!-- marginal: Rights of -->
 
-13. (1) Where it is alleged that the owner of a ship has third parties incurred a liability under section 3 while there was in against insurers. force a contract of insurance or other financial security
+13. (1) Where it is alleged that the owner of a ship has
+
+<!-- marginal: third parties -->
+
+incurred a liability under section 3 while there was in
+
+<!-- marginal: against -->
+
+<!-- marginal: insurers. -->
+
+force a contract of insurance or other financial security
 
 <!-- page 13 -->
 
@@ -418,7 +474,7 @@ III
 
 ## COMPENSATION FUND
 
-Interpretation.
+<!-- marginal: Interpretation. -->
 
 15. In this Part, unless the context otherwise requires—
 
@@ -434,9 +490,17 @@ Interpretation.
 
 "the Fund Convention" means the International Convention on the Establishment of an International Fund for Compensation for Oil Pollution Damage signed in Brussels on the 18th December 1971 as amended by the Protocol of 1976.
 
-Legal
+<!-- marginal: Legal -->
 
-16. (1) The Fund shall be recognized as a legal person personality capable of assuming rights and obligations and of of the Fund. being a party in legal proceedings before a Court in Malaysia.
+16. (1) The Fund shall be recognized as a legal person
+
+<!-- marginal: personality -->
+
+capable of assuming rights and obligations and of
+
+<!-- marginal: of the Fund. -->
+
+being a party in legal proceedings before a Court in Malaysia.
 
 <!-- page 15 -->
 
@@ -494,9 +558,17 @@ payment to the Director of Marine or to the Fund, and regulations under this sub
 
 (b) "fuel oil" means heavy distillates or residues from crude oil or blends of such materials intended for use as a fuel for the production of heat or power of a quality equivalent to the "American Society for Testing and Materials' Specification for Number Four Fuel Oil (Designation D 396-69)", or heavier.
 
-Power to
+<!-- marginal: Power to -->
 
-18. (1) For the purpose of transmitting to the Fund the obtain names and addresses of the persons who under section information. 17 are liable to make contributions to the Fund for any year, and the quantity of oil in respect of which they are so liable, the Director of Marine may by notice require any person engaged in producing, treating, distributing or transporting oil to furnish such information as may be specified in the notice.
+18. (1) For the purpose of transmitting to the Fund the
+
+<!-- marginal: obtain -->
+
+names and addresses of the persons who under section
+
+<!-- marginal: information. -->
+
+17 are liable to make contributions to the Fund for any year, and the quantity of oil in respect of which they are so liable, the Director of Marine may by notice require any person engaged in producing, treating, distributing or transporting oil to furnish such information as may be specified in the notice.
 
 (2) A notice under this section may specify the way in which, and the time within which, it is to be complied with.
 
@@ -524,9 +596,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 <!-- page 18 -->
 
-Liability of
+<!-- marginal: Liability of -->
 
-19. (1) Save as provided under subsection (4), the the Fund. Fund shall be liable for pollution damage in any area of Malaysia if the person suffering the damage has been unable to obtain full compensation under section 3—
+19. (1) Save as provided under subsection (4), the
+
+<!-- marginal: the Fund. -->
+
+Fund shall be liable for pollution damage in any area of Malaysia if the person suffering the damage has been unable to obtain full compensation under section 3—
 
 (a) because liability under that section is wholly exonerated by section 4;
 
@@ -586,9 +662,33 @@ judgement unless and until the Court gives leave to enforce it;
 
 (c) in the latter case the judgement shall be enforceable only for the reduced amount.
 
-Indemnifica-
+<!-- marginal: Indemnifica- -->
 
-20. (1) Where a liability is incurred under section 3 in tion where respect of a ship registered in or flying the flag of a damage is caused by Fund Convention country the Fund shall indemnify the ship owner of a ship and his guarantor for that portion of the registered in Fund aggregate amount of the liability which— Convention country.
+20. (1) Where a liability is incurred under section 3 in
+
+<!-- marginal: tion where -->
+
+respect of a ship registered in or flying the flag of a
+
+<!-- marginal: damage is -->
+
+<!-- marginal: caused by -->
+
+Fund Convention country the Fund shall indemnify the
+
+<!-- marginal: ship -->
+
+owner of a ship and his guarantor for that portion of the
+
+<!-- marginal: registered -->
+
+<!-- marginal: in Fund -->
+
+aggregate amount of the liability which—
+
+<!-- marginal: Convention -->
+
+<!-- marginal: country. -->
 
 (a) is in excess of an amount equivalent to one hundred special drawing rights for each ton of the ship's tonnage or of an amount of eight million three hundred and thirty-three thousand special drawing rights, whichever is the less; and
 
@@ -610,7 +710,11 @@ Indemnifica-
 
 wholly or partly if it is proved that, as a result of the actual fault or privity of the owner of a ship—
 
-(a) the ship did not comply with such requirements as the Minister may by order prescribe for the purposes of this section; and
+(a) the ship did not comply with
+
+<!-- marginal: such -->
+
+requirements as the Minister may by order prescribe for the purposes of this section; and
 
 (b) the incident or damage was caused wholly or partly by that non-compliance.
 
@@ -648,7 +752,17 @@ within three years from the date the pollution damage occurred and in this subse
 
 (3) Notwithstanding the preceding provisions of this section, the right of the owner of a ship or his guarantor to bring an action under section 20 shall not be extinguished before six months from the date when the owner or his guarantor first acquired knowledge of the bringing of an action against him under Part II or under the corresponding provisions of the law of any country outside Malaysia giving effect to the Liability Convention.
 
-Subrogation 22. (1) In respect of any sum paid under paragraph and rights of 19(l)(b) the Fund shall acquire by subrogation the rights recourse. of the recipient against the owner of a ship or his guarantor.
+<!-- marginal: Subrogation -->
+
+22. (1) In respect of any sum paid under paragraph
+
+<!-- marginal: and rights of -->
+
+19(l)(b) the Fund shall acquire by subrogation the rights
+
+<!-- marginal: recourse. -->
+
+of the recipient against the owner of a ship or his guarantor.
 
 (2) The right of the Fund under subsection (1) is subject to any obligation of the Fund under section 20 to indemnify the owner or his guarantor for any part of the liability on which he has defaulted.
 
@@ -700,9 +814,19 @@ Courts of Judicature Act 1964 shall extend to any claim in respect of a liabilit
 
 <!-- page 24 -->
 
-Enforcement
+<!-- marginal: Enforcement -->
 
-24. (1) Subject to subsection (3), Part II of the of jud- Reciprocal Enforcement of Judgements Act 1958 shall gements. Act 99. apply to any judgement given by a Court in—
+24. (1) Subject to subsection (3), Part II of the
+
+<!-- marginal: of jud- -->
+
+Reciprocal Enforcement of Judgements Act 1958 shall
+
+<!-- marginal: gements. -->
+
+<!-- marginal: Act 99. -->
+
+apply to any judgement given by a Court in—
 
 (a) a Liability Convention country to enforce a claim in respect of a liability incurred under any provision corresponding to section 3; or
 
@@ -800,17 +924,23 @@ by the Criminal Procedure Code.
 
 <!-- marginal: Cap. 6. -->
 
-(2) Where a ship has been detained under subsection
-
-(1) the Director of Marine or any authorised officer may release such ship to the owner, master or agent thereof subject to sufficient security being furnished to the satisfaction of the Director of Marine or any authorised officer that the ship shall be surrendered to him on demand.
+(2) Where a ship has been detained under subsection (1) the Director of Marine or any authorised officer may release such ship to the owner, master or agent thereof subject to sufficient security being furnished to the satisfaction of the Director of Marine or any authorised officer that the ship shall be surrendered to him on demand.
 
 <!-- page 26 -->
 
 (3) The Director of Marine or any authorised officer shall have the authority to appear in court and conduct any prosecution in respect of any offence under this Act or any regulations made thereunder.
 
-Power to
+<!-- marginal: Power to -->
 
-27. (1) The Director of Marine or any authorised board and officer may, where he has reason to believe that an search ships. offence has been committed under this Act or any regulations made thereunder, without a warrant—
+27. (1) The Director of Marine or any authorised
+
+<!-- marginal: board and -->
+
+officer may, where he has reason to believe that an
+
+<!-- marginal: search ships. -->
+
+offence has been committed under this Act or any regulations made thereunder, without a warrant—
 
 (a) board and search any ship; or
 
@@ -824,19 +954,23 @@ and may carry out such inspection and examination as he may consider necessary a
 
 ## MISCELLANEOUS
 
-Offences by
+<!-- marginal: Offences by -->
 
 28. Where an offence under this Act or any regulations
 
-### body
+<!-- marginal: body -->
 
-made thereunder has been committed by a body corporate. corporate, any person who at the time of the commission of the offence was a director, manager, secretary or other similar officer of the body corporate or any person who was purporting to act in such capacity shall, as well as such body corporate, be deemed to be guilty of that offence unless he proves that the offence was committed without his consent or connivance and that he exercised
+made thereunder has been committed by a body
+
+<!-- marginal: corporate. -->
+
+corporate, any person who at the time of the commission of the offence was a director, manager, secretary or other similar officer of the body corporate or any person who was purporting to act in such capacity shall, as well as such body corporate, be deemed to be guilty of that offence unless he proves that the offence was committed without his consent or connivance and that he exercised
 
 <!-- page 27 -->
 
 ## MERCHANT SHIPPING (OIL POLLUTION)
 
-<!-- marginal: 27 -->
+27
 
 all due diligence to prevent the commission of the offence as he ought to have exercised, having regard to the nature of his functions in that capacity and to all the circumstances.
 

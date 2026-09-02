@@ -170,7 +170,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 7 -->
 
-Part IIIb
+## PART IIIB
 
 ## ISSUANCE OF GUIDELINES, PRACTICE NOTES, ETC.
 
@@ -254,7 +254,7 @@ Part IIIb
 
 ## Schedule.
 
-## Part IIIc
+## PART IIIC
 
 ## LICENSING
 
@@ -340,7 +340,7 @@ Part IIIb
 
 11. The principal Act is amended by inserting after Part IV the following Part:
 
-“Part IVa
+## “PART IVA
 
 ## INVESTIGATION AND ENFORCEMENT PROVISIONS
 
@@ -646,7 +646,7 @@ may appeal to the Minister in writing within thirty days after being notified of
 
 17. The principal Act is amended by substituting for the First Schedule and Second Schedule the following Schedules:
 
-“first s chedule
+## “FIRST S CHEDULE
 
 [Sections 11, 14, 17, 18, 20a, 20b, 20c, 20d, 20e, 20f, 20g, 20h, 20i, 22, 25, 27, 27b, 27c, 27d, 27h, 27j, 36, 37, 37a, 37b, 38b, 38c, 38e and 40]
 
@@ -662,7 +662,7 @@ may appeal to the Minister in writing within thirty days after being notified of
 
 5. Limited Liability Partnerships Act 2012 [Act 743]
 
-second s chedule
+## SECOND S CHEDULE
 
 [Section 37]
 
@@ -744,4 +744,4 @@ document, etc., with intent to defraud the Commission or the Registrar. The new 
 
 This Bill will not involve the Government in any extra financial expenditure.
 
-[PN(U2)2916]
+<!-- marginal: [PN(U2)2916] -->

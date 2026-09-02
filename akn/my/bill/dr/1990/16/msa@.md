@@ -62,7 +62,11 @@ Dengan syarat bahawa seksyen ini tidaklah boleh ditafsirkan sebagai menghidupkan
 
 (3) Bagi maksud-maksud seksyen ini, sesuatu karya yang pembuatannya berlanjutan hingga suatu tempoh masa tidaklah boleh disifatkan sebagai telah dibuat sebelum mula berkuatkuasa- nya Akta ini melainkan jika pembuatan karya itu disempurnakan sebelum mula berkuatkuasanya Akta ini.".
 
-Pindaan 3. Seksyen 3 Akta ibu adalah dipinda— seksyen 3
+<!-- marginal: Pindaan -->
+
+3. Seksyen 3 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 3 -->
 
 (a) dengan memasukkan, selepas sahaja perkataan- perkataan "atau model" yang terdapat dalam perenggan (d) takrif "karya seni", perkataan "bangunan";
 
@@ -112,15 +116,15 @@ itu dan penciptaannya, kecuali jika karya itu dimasukkan secara sampingan dalam 
 
 (5) Kerajaan, Arkib Negara, atau mana-mana Arkib Negeri, Perpustakaan Negara, atau mana- mana perpustakaan Negeri, atau mana-mana perpustakaan awam dan institusi-institusi pelajaran, sains atau profesional sebagaimana ditetapkan oleh Menteri melalui perintah, boleh mengeluarkan semula susunan tipografi suatu edisi yang diterbitkan tanpa melanggar hakcipta yang wujud menurut kuasa seksyen ini jika pengeluaran semula itu adalah demi kepentingan awam dan bersesuaian dengan urusan yang wajar dan peruntukan-peruntukan mana-mana peraturan.".
 
-Pindaan 6. (1) Subseksyen (1) seksyen 13 Akta
+<!-- marginal: Pindaan -->
 
-<!-- marginal: ibu adalah -->
+6. (1) Subseksyen (1) seksyen 13 Akta ibu adalah
 
-seksyen 13. dipinda— (a) dengan menggantikan perenggan (b) dengan yang berikut: "(b) pertunjukan, tayangan
+<!-- marginal: seksyen 13. -->
 
-<!-- marginal: atau permainan -->
+dipinda—
 
-kepada awam;";
+(a) dengan menggantikan perenggan (b) dengan yang berikut: "(b) pertunjukan, tayangan atau permainan kepada awam;";
 
 (b) dengan menggantikan perenggan (e) dengan yang berikut: "(e) pengedaran salinan-salinan karya kepada orang awam melalui penjualan, sewaan, pajakan atau pinjaman,";
 
@@ -128,11 +132,7 @@ kepada awam;";
 
 (d) dengan memotong proviso.
 
-(2) Subseksyen (2) seksyen 13 Akta
-
-<!-- marginal: ibu adalah -->
-
-dipinda—
+(2) Subseksyen (2) seksyen 13 Akta ibu adalah dipinda—
 
 (a) dengan memasukkan, selepas sahaja perkataan "kritikan" yang terdapat dalam perenggan (a), perkataan ", ulasan";
 
@@ -152,19 +152,21 @@ siaran" yang terdapat dalam perenggan (a) dengan perkataan-perkataan "yang berka
 
 <!-- page 6 -->
 
-(ggg) pembuatan sesuatu filem bagi sesuatu siaran, atau sesuatu karya sastera, seni, drama atau muzik atau sesuatu filem yang termasuk dalam siaran setakat mana ia mengandungi gambaran pandangan jika pembuatan sesuatu filem bagi siaran itu adalah bagi kegunaan persendirian dan domestik oleh orang yang membuat filem itu;"; (g) dengan menggantikan perkataan "penyampaian" yang terdapat dalam subperenggan (ii) perenggan (i) dengan perkataan-perkataan "pertunjukan, tayangan atau permainan"; (h) dengan menggantikan perenggan (k) dengan yang berikut: "(k) pertunjukan, tayangan atau permainan se- suatu karya oleh sesuatu kelab atau institusi yang bukan mencari keuntungan jika pertunjukan, tayangan atau permainan itu adalah bagi maksud khairat atau pendidikan dan diadakan di sesuatu tempat di mana tiada fee kemasukan dikenakan berkenaan dengan pertunjukan,
+(ggg) pembuatan sesuatu filem bagi sesuatu siaran, atau sesuatu karya sastera, seni, drama atau muzik atau sesuatu filem yang termasuk dalam siaran setakat mana ia mengandungi gambaran pandangan jika pembuatan sesuatu filem bagi siaran itu adalah bagi kegunaan persendirian dan domestik oleh orang yang membuat filem itu;";
 
-<!-- marginal: tayangan -->
+(g) dengan menggantikan perkataan "penyampaian" yang terdapat dalam subperenggan (ii) perenggan
 
-<!-- marginal: atau -->
+(i) dengan perkataan-perkataan "pertunjukan, tayangan atau permainan";
 
-permainan itu;"; (i) dengan menggantikan perenggan (l) dengan yang berikut: "(l) apa-apa penggunaan sesuatu karya bagi maksud-maksud apa-apa presiding keha- kiman, prosiding suatu suruhanjaya di raja, suatu badan perundangan, siasatan statutori atau Kerajaan, atau apa-apa laporan mana- mana prosiding sedemikian, atau bagi maksud memberi nasihat profesional oleh seorang pengamal undang-undang;"; (j) dengan menggantikan perkataan "penyampaian" di mana-mana jua terdapat dalam perenggan (n) dengan perkataan "penayangan"; dan
+(h) dengan menggantikan perenggan (k) dengan yang berikut: "(k) pertunjukan, tayangan atau permainan se- suatu karya oleh sesuatu kelab atau institusi yang bukan mencari keuntungan jika pertunjukan, tayangan atau permainan itu adalah bagi maksud khairat atau pendidikan dan diadakan di sesuatu tempat di mana tiada fee kemasukan dikenakan berkenaan dengan pertunjukan, tayangan atau permainan itu;";
+
+(i) dengan menggantikan perenggan (l) dengan yang berikut: "(l) apa-apa penggunaan sesuatu karya bagi maksud-maksud apa-apa presiding keha- kiman, prosiding suatu suruhanjaya di raja, suatu badan perundangan, siasatan statutori atau Kerajaan, atau apa-apa laporan mana- mana prosiding sedemikian, atau bagi maksud memberi nasihat profesional oleh seorang pengamal undang-undang;";
+
+(j) dengan menggantikan perkataan "penyampaian" di mana-mana jua terdapat dalam perenggan (n) dengan perkataan "penayangan"; dan
 
 (k) dengan menggantikan perkataan "penyampaian" yang terdapat dalam perenggan
 
-<!-- marginal: (o) dengan -->
-
-perkataan-perkataan "pertunjukan, tayangan atau permainan".
+(o) dengan perkataan-perkataan "pertunjukan, tayangan atau permainan".
 
 <!-- page 7 -->
 
@@ -198,9 +200,7 @@ kan subseksyen (2) dengan yang berikut: "(2) Pelanggaran terhadap hakcipta berla
 
 (a) menjual, menyewakan, atau dengan cara dagangan, menawarkan atau mendedahkan untuk jualan atau sewaan, artikel itu;
 
-(b) mengedarkan artikel itu— (i) bagi maksud dagangan; atau (ii) bagi apa-apa maksud lain ke takat yang akan memudaratkan tuan punya hakcipta itu; atau (c) dengan cara dagangan, mempamerkan artikel itu kepada awam, jika dia mengetahui atau semunasabahnya patut mengetahui bahawa pembuatan artikel
-
-<!-- marginal: itu -->
+(b) mengedarkan artikel itu— (i) bagi maksud dagangan; atau (ii) bagi apa-apa maksud lain ke takat yang akan memudaratkan tuan punya hakcipta itu; atau (c) dengan cara dagangan, mempamerkan artikel itu kepada awam, jika dia mengetahui atau semunasabahnya patut mengetahui bahawa pembuatan artikel itu
 
 <!-- marginal: telah -->
 
@@ -208,41 +208,49 @@ dijalankan tanpa persetujuan atau lesen tuan punya hakcipta itu.".
 
 <!-- page 8 -->
 
-Pindaan 10. Seksyen 39 Akta ibu adalah dipinda— seksyen 39.
+<!-- marginal: Pindaan -->
+
+10. Seksyen 39 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 39. -->
 
 (a) dengan memasukkan, dalam teks Bahasa Inggeris Akta ibu, selepas sahaja perkataan-perkataan "under subsection (4) and shall" yang terdapat dalam proviso kepada subseksyen (1), perkataan "not";
 
 (b) dengan menggantikan subseksyen (2) dengan yang berikut: "(2) Seksyen ini hendaklah terpakai kepada mana-mana salinan sesuatu karya yang dibuat di luar Malaysia yang pembuatannya dijalan- kan tanpa persetujuan atau lesen tuan punya hakcipta dalam karya itu.";
 
-(c) dengan menggantikan subseksyen (3) dengan yang berikut: "(3) Jika suatu notis telah diberi di bawah seksyen ini berkenaan dengan sesuatu karya dan notis itu tidak ditarik balik, pengimportan mana-mana salinan
-
-<!-- marginal: langgaran ke -->
-
-<!-- marginal: .dalam -->
-
-Malaysia bagi tempoh yang dinyatakan dalam notis itu adalah dilarang: Dengan syarat bahawa subseksyen ini tidak- lah terpakai bagi pengimportan apa-apa salinan oleh seseorang bagi kegunaan persendirian dan domestiknya."; dan
+(c) dengan menggantikan subseksyen (3) dengan yang berikut: "(3) Jika suatu notis telah diberi di bawah seksyen ini berkenaan dengan sesuatu karya dan notis itu tidak ditarik balik, pengimportan mana-mana salinan langgaran ke .dalam Malaysia bagi tempoh yang dinyatakan dalam notis itu adalah dilarang: Dengan syarat bahawa subseksyen ini tidak- lah terpakai bagi pengimportan apa-apa salinan oleh seseorang bagi kegunaan persendirian dan domestiknya."; dan
 
 (d) dengan memasukkan, selepas sahaja perkataan "dilarang" yang terdapat dalam subseksyen (6), perkataan-perkataan "daripada diimport ke dalam Malaysia".
 
-Pindaan 11. Seksyen 41 Akta ibu adalah dipinda dengan mengganti- seksyen 41. kan perenggan (f) subseksyen (1) dengan yang berikut: "(f) mengimport ke dalam Malaysia, selain daripada bagi kegunaan persendirian dan domestiknya, sesuatu salinan langgaran; atau".
+<!-- marginal: Pindaan -->
 
-Pindaan 12. Seksyen 44 Akta ibu adalah dipinda— seksyen 44.
+11. Seksyen 41 Akta ibu adalah dipinda dengan mengganti-
+
+<!-- marginal: seksyen 41. -->
+
+kan perenggan (f) subseksyen (1) dengan yang berikut: "(f) mengimport ke dalam Malaysia, selain daripada bagi kegunaan persendirian dan domestiknya, sesuatu salinan langgaran; atau".
+
+<!-- marginal: Pindaan -->
+
+12. Seksyen 44 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 44. -->
 
 (a) dengan memasukkan, selepas sahaja perkataan "artikel," di mana-mana jua terdapat dalam sub- seksyen (1) dan (2), perkataan "kenderaan,";
 
 <!-- page 9 -->
 
-(b) dengan memasukkan, selepas sahaja subseksyen (1), subseksyen bam (1A) yang berikut;
+(b) dengan memasukkan, selepas sahaja subseksyen
 
-"(1A) Seorang Penolong Pengawal atau pegawai polis yang berpangkat tidak rendah daripada Inspektor yang memasuki mana-mana rumah atau premis menurut kuasa subseksyen (1) boleh membawa dengannya orang-orang lain dan kelengkapan sebagaimana yang didapatinya perlu; dan apabila meninggalkan mana-mana rumah atau premis yang dia telah masuki dia hendaklah, jika rumah atau premis tidak diduduki atau penghuni tiada buat semen- tara, meninggalkan rumah atau premis itu dengan berkesannya terselamat daripada penceroboh- penceroboh sebagaimana keadaan rumah atau premis itu semasa dia menjumpainya.";
+(1), subseksyen bam (1A) yang berikut;
+
+"(1A) Seorang Penolong Pengawal atau pegawai polis yang berpangkat tidak rendah daripada Inspektor yang memasuki mana-mana rumah atau premis menurut kuasa subseksyen
+
+(1) boleh membawa dengannya orang-orang lain dan kelengkapan sebagaimana yang didapatinya perlu; dan apabila meninggalkan mana-mana rumah atau premis yang dia telah masuki dia hendaklah, jika rumah atau premis tidak diduduki atau penghuni tiada buat semen- tara, meninggalkan rumah atau premis itu dengan berkesannya terselamat daripada penceroboh- penceroboh sebagaimana keadaan rumah atau premis itu semasa dia menjumpainya.";
 
 (c) dengan menggantikan subseksyen (2) dengan yang berikut:
 
-"(2) Seorang Penolong Pengawal atau pegawai polis yang berpangkat tidak rendah daripada Inspektor yang membuat carian
-
-<!-- marginal: itu boleh -->
-
-menyita apa-apa salinan langgaran, salinan yang disyaki adalah salinan langgaran, perekaan yang digunakan atau dicadang untuk digunakan bagi membuat salinan-salinan langgaran atau boleh digunakan bagi maksud membuat salinan- salinan langgaran, atau apa-apa artikel, kenderaan, buku atau dokumen lain dan jika mana-mana salinan, perekaan, artikel, kenderaan, buku atau dokumen itu disita, dia hendaklah menge- mukakannya di hadapan majistret, dan apabila dikemukakan majistret hendaklah mengarahkan supaya ia disimpan dalam jagaan Pengawal atau Penolong Pengawal atau polis bagi maksud apa- 'apa penyiasatan atau pendakwaan di bawah Akta ini:
+"(2) Seorang Penolong Pengawal atau pegawai polis yang berpangkat tidak rendah daripada Inspektor yang membuat carian itu boleh menyita apa-apa salinan langgaran, salinan yang disyaki adalah salinan langgaran, perekaan yang digunakan atau dicadang untuk digunakan bagi membuat salinan-salinan langgaran atau boleh digunakan bagi maksud membuat salinan- salinan langgaran, atau apa-apa artikel, kenderaan, buku atau dokumen lain dan jika mana-mana salinan, perekaan, artikel, kenderaan, buku atau dokumen itu disita, dia hendaklah menge- mukakannya di hadapan majistret, dan apabila dikemukakan majistret hendaklah mengarahkan supaya ia disimpan dalam jagaan Pengawal atau Penolong Pengawal atau polis bagi maksud apa- 'apa penyiasatan atau pendakwaan di bawah Akta ini:
 
 Dengan syarat bahawa jika, atas apa-apa penyitaan sedemikian, apa-apa salinan, perekaan, artikel, Kenderaan, buku atau dokumen tersebut adalah disimpan dalam jagaan Pengawal atau
 
@@ -250,21 +258,27 @@ Dengan syarat bahawa jika, atas apa-apa penyitaan sedemikian, apa-apa salinan, p
 
 Penolong Pengawal atau polls dan jika ia di- dapati, oleh sebab jenis, saiz atau amaunnya, bahawa adalah tidak praktik untuk menge- mukakannya di hadapan majistret, maka adalah mencukupi bagi maksud-maksud subseksyen ini bagi penyitaan itu dilaporkan kepada majistret."; dan
 
-(d) dengan memasukkan, selepas sahaja subseksyen (2), subseksyen baru (3) yang berikut:
+(d) dengan memasukkan, selepas sahaja subseksyen
 
-"(3) Jika ia didapati, oleh sebab jenis, saiz atau amaunnya, bahawa adalah tidak praktik untuk memindahkan dari tempat ia telah dijumpai benda-benda atau dokumen-dokumen itu yang disita oleh seorang Penolong Pengawal atau pegawai polis yang berpangkat tidak rendah daripada Inspektor dan Penolong Pengawal atau pegawai polis itu telah melakkan benda-benda atau dokumen-dokumen itu dalam premis atau bekas yang di dalamnya ia dijumpai menurut peruntukan-peruntukan seksyen 47, maka adalah mencukupi bagi maksud mengemukakan benda- benda atau dokumen-dokumen
+(2), subseksyen baru (3) yang berikut:
 
-<!-- marginal: tersebut di -->
+"(3) Jika ia didapati, oleh sebab jenis, saiz atau amaunnya, bahawa adalah tidak praktik untuk memindahkan dari tempat ia telah dijumpai benda-benda atau dokumen-dokumen itu yang disita oleh seorang Penolong Pengawal atau pegawai polis yang berpangkat tidak rendah daripada Inspektor dan Penolong Pengawal atau pegawai polis itu telah melakkan benda-benda atau dokumen-dokumen itu dalam premis atau bekas yang di dalamnya ia dijumpai menurut peruntukan-peruntukan seksyen 47, maka adalah mencukupi bagi maksud mengemukakan benda- benda atau dokumen-dokumen tersebut di hadapan majistret di bawah subseksyen (2) bagi penyitaan itu dilaporkan kepada majistret atau bagi majistret melihat benda-benda atau dokumen-dokumen tersebut di dalam premis atau bekas itu.".
 
-hadapan majistret di bawah subseksyen (2) bagi penyitaan itu dilaporkan kepada majistret atau bagi majistret melihat benda-benda atau dokumen-dokumen tersebut di dalam premis atau bekas itu.".
+<!-- marginal: Pindaan -->
 
-Pindaan 13. Subseksyen (1) seksyen 46 Akta ibu adalah dipinda— seksyen 46.
+13. Subseksyen (1) seksyen 46 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 46. -->
 
 (a) dengan memasukkan, selepas sahaja perkataan- perkataan "salinan langgaran,", perkataan-perkataan "apa-apa salinan yang disyaki adalah suatu salinan langgaran,"; dan
 
 (b) dengan memasukkan, selepas sahaja perkataan "artikel,", perkataan "kenderaan,".
 
-Pindaan 14. Seksyen 48 Akta ibu adalah dipinda— seksyen 48.
+<!-- marginal: Pindaan -->
+
+14. Seksyen 48 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 48. -->
 
 (a) dengan memasukkan, selepas sahaja perkataan "carian" yang terdapat dalam nota birai, perkataan ", dsb.";
 
@@ -272,13 +286,7 @@ Pindaan 14. Seksyen 48 Akta ibu adalah dipinda— seksyen 48.
 
 (b) dengan memotong perkataan "atau" yang terdapat „ selepas sahaja perkataan-perkataan "kuasa untuk memberi;" dalam perenggan (c);
 
-(c) dengan menggantikan perenggan (d) dengan yang berikut: "(d) dengan tujuan untuk memperdaya mana- mana pegawai awam dalam melaksanakan peruntukan-peruntukan Akta
-
-<!-- marginal: ini, -->
-
-<!-- marginal: atau -->
-
-dengan tujuan untuk mendapatkan atau mempengaruhi perlakuan atau ketinggalan apa-apa jua yang berhubungan dengan Akta ini, dengan sengaja memberi apa-apa maklumat palsu atau membuat apa-apa pernyataan yang palsu dan yang dia sama ada mengetahui atau mempercayai sebagai palsu atau tidak mempercayai sebagai benar; atau"; dan
+(c) dengan menggantikan perenggan (d) dengan yang berikut: "(d) dengan tujuan untuk memperdaya mana- mana pegawai awam dalam melaksanakan peruntukan-peruntukan Akta ini, atau dengan tujuan untuk mendapatkan atau mempengaruhi perlakuan atau ketinggalan apa-apa jua yang berhubungan dengan Akta ini, dengan sengaja memberi apa-apa maklumat palsu atau membuat apa-apa pernyataan yang palsu dan yang dia sama ada mengetahui atau mempercayai sebagai palsu atau tidak mempercayai sebagai benar; atau"; dan
 
 (d) dengan memasukkan, selepas sahaja perenggan
 
@@ -290,37 +298,79 @@ dengan tujuan untuk mendapatkan atau mempengaruhi perlakuan atau ketinggalan apa
 
 <!-- marginal: seksyen 49. -->
 
-49 dengan vane berikut: "Waran 49. Suatu waran yang dikeluarkan di bawah Akta boleh ini adalah sah dan boleh dikuatkuasakan walau diterima walaupun apa pun apa-apa kecacatan, kesilapan atau cacat, dsb. ketinggalan dalam waran
+49 dengan vane berikut:
 
-<!-- marginal: itu -->
+<!-- marginal: "Waran -->
 
-<!-- marginal: atau dalam -->
+49. Suatu waran yang dikeluarkan di bawah Akta
 
-permohonan bagi waran itu dan apa-apa salinan, perekaan, artikel, kenderaan, buku atau dokumen yang disita di bawah waran itu bolehlah diterima sebagai keterangan dalam apa-apa prosiding di bawah Akta ini".
+<!-- marginal: boleh -->
+
+ini adalah sah dan boleh dikuatkuasakan walau
+
+<!-- marginal: diterima -->
+
+<!-- marginal: walaupun -->
+
+apa pun apa-apa kecacatan, kesilapan atau
+
+<!-- marginal: cacat, dsb. -->
+
+ketinggalan dalam waran itu atau dalam permohonan bagi waran itu dan apa-apa salinan, perekaan, artikel, kenderaan, buku atau dokumen yang disita di bawah waran itu bolehlah diterima sebagai keterangan dalam apa-apa prosiding di bawah Akta ini".
 
 <!-- page 12 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-16. Seksyen 54 Akta ibu adalah dipinda dengan memasuk- seksyen 54. kan, selepas sahaja perkataan "artikel," di mana-mana jua terdapat dalam seksyen itu, perkataan "kenderaan,".
+16. Seksyen 54 Akta ibu adalah dipinda dengan memasuk-
 
-Pindaan 17. Subseksyen (1) seksyen 55 Akta ibu adalah dipinda seksyen 55. dengan menggantikan perkataan-perkataan "melanggar apa-apa hakcipta" dengan perkataan-perkataan "adalah salinan-salinan langgaran".
+<!-- marginal: seksyen 54. -->
 
-Pindaan
+kan, selepas sahaja perkataan "artikel," di mana-mana jua terdapat dalam seksyen itu, perkataan "kenderaan,".
 
-18. Seksyen 56 Akta ibu adalah dipinda dengan mengganti- seksyen 56. kan perkataan "praktik" yang terdapat dalam subseksyen (3) dengan perkataan "material".
+<!-- marginal: Pindaan -->
 
-Pindaan
+17. Subseksyen (1) seksyen 55 Akta ibu adalah dipinda
 
-19. Subseksyen (2) seksyen 58 Akta ibu adalah dipinda seksyen 58. dengan menggantikan perkataan-perkataan "menyampaikan di tempat awam" yang terdapat dalam perenggan (a) dan
+<!-- marginal: seksyen 55. -->
+
+dengan menggantikan perkataan-perkataan "melanggar apa-apa hakcipta" dengan perkataan-perkataan "adalah salinan-salinan langgaran".
+
+<!-- marginal: Pindaan -->
+
+18. Seksyen 56 Akta ibu adalah dipinda dengan mengganti-
+
+<!-- marginal: seksyen 56. -->
+
+kan perkataan "praktik" yang terdapat dalam subseksyen
+
+(3) dengan perkataan "material".
+
+<!-- marginal: Pindaan -->
+
+19. Subseksyen (2) seksyen 58 Akta ibu adalah dipinda
+
+<!-- marginal: seksyen 58. -->
+
+dengan menggantikan perkataan-perkataan "menyampaikan di tempat awam" yang terdapat dalam perenggan (a) dan
 
 (b) dengan perkataan-perkataan "mempertunjukkan, menayangkan atau mempermainkan di tempat awam'.'.
 
-Penggantian
+<!-- marginal: Penggantian -->
 
-20. Akta ibu adalah dipinda dengan menggantikan seksyen seksyen 59. 59 dengan yang berikut: "Peraturan- 59. Menteri boleh membuat peraturan-peraturan peraturan. bagi melaksanakan peruntukan-peruntukan Akta ini.".
+20. Akta ibu adalah dipinda dengan menggantikan seksyen
 
-21. Akta ibu adalah dipinda dengan memasukkan, selepas baru 59A. sahaja seksyen 59, seksyen baru 59A yang berikut:
+<!-- marginal: seksyen 59. -->
+
+59 dengan yang berikut: "Peraturan- 59. Menteri boleh membuat peraturan-peraturan peraturan. bagi melaksanakan peruntukan-peruntukan Akta ini.".
+
+<!-- marginal: Seksyen -->
+
+21. Akta ibu adalah dipinda dengan memasukkan, selepas
+
+<!-- marginal: baru 59A. -->
+
+sahaja seksyen 59, seksyen baru 59A yang berikut:
 
 59A. (1) Menteri boleh membuat peraturan- "Perluasan pemakaian peraturan memakai mana-mana peruntukan Akta Akta. ini yang dinyatakan dalam peraturan-peraturan itu, berhubungan dengan sesuatu negara yang dinyatakan dalam peraturan-peraturan itu (yang dalam seksyen ini disebut sebagai "negara yang dinyatakan"), yang mungkin menjadi
 
@@ -344,7 +394,7 @@ rakaman bunyi, atau edisi yang diterbitkan bagi karya sastera, muzik atau seni y
 
 <!-- page 14 -->
 
-14
+<!-- marginal: 14 -->
 
 ## RANG UNDANG-UNDANG
 
@@ -352,11 +402,7 @@ dinyatakan itu sebagaimana ia terpakai berhubungan dengan karya senibina yang di
 
 (f) terpakai berhubungan dengan tiap-tiap karya yang layak bagi hakcipta jika karya itu dibuat dalam negara yang dinyatakan itu sebagaimana ia terpakai berhubungan dengan tiap-tiap karya yang layak bagi hakcipta jika karya itu dibuat dalam Malaysia; dan
 
-(g) terpakai berhubungan dengan karya-karya terbitan dalam negara yang dinyatakan itu sebagaimana ia terpakai berhubungan dengan karya-karya
-
-<!-- marginal: terbitan dalam -->
-
-Malaysia.
+(g) terpakai berhubungan dengan karya-karya terbitan dalam negara yang dinyatakan itu sebagaimana ia terpakai berhubungan dengan karya-karya terbitan dalam Malaysia.
 
 (2) Sebutan dalam subseksyen (1) (a) mengenai karya yang mula-mula diterbitkan dalam sesuatu negara yang dinyatakan hendaklah meliputi karya yang mula-mula diterbitkan di tempat lain tetapi diterbitkan dalam negara yang dinyatakan itu dalam masa tiga puluh hari dari penerbitan. sedemikian di tempat lain.
 
@@ -372,23 +418,21 @@ Malaysia.
 
 pemakaian peraturan-peraturan itu berhubungan dengan karya-karya yang dibuat sebelum tarikh Malaysia menjadi pihak kepada sesuatu triti atau ahli sesuatu Konvensyen atau Kesatuan berhubung dengan hakcipta sebagaimana ia terpakai berhubungan dengan karya-karya yang dibuat selepas tarikh itu.
 
-(5) Peraturan-peraturan yang dibuat di bawah subseksyen (1) tidaklah boleh ditafsirkan sebagai menghidupkan semula mana-mana hakcipta yang telah tamat tempohnya di bawah undang-undang negara yang dinyatakan itu sebelum
+(5) Peraturan-peraturan yang dibuat di bawah subseksyen (1) tidaklah boleh ditafsirkan sebagai menghidupkan semula mana-mana hakcipta yang telah tamat tempohnya di bawah undang-undang negara yang dinyatakan itu sebelum tarikh Malaysia menjadi pihak kepada sesuatu triti atau ahli sesuatu Konvensyen atau Kesatuan berhubung dengan hakcipta.
 
-<!-- marginal: tarikh -->
-
-Malaysia menjadi pihak kepada sesuatu triti atau ahli sesuatu Konvensyen atau Kesatuan berhubung dengan hakcipta.
-
-(6) Menteri tidaklah boleh membuat peraturan- peraturan di bawah seksyen ini yang memakai mana-mana peruntukan Akta
-
-<!-- marginal: ini berkenaan -->
-
-dengan sesuatu negara yang dinyatakan, selain daripada sesuatu negara yang dinyatakan yang menjadi pihak kepada sesuatu triti atau ahli mana- mana Konvensyen atau Kesatuan berhubung dengan hakcipta yang kepadanya Malaysia juga menjadi pihak atau ahli, melainkan jika Menteri berpuas hati bahawa, berkenaan dengan kelaskarya atau hal-perkara lain yang dimaksudkan oleh peruntukan-peruntukan itu, peruntukan telah atau akan dibuat di bawah undang-undang negara yang dinyatakan itu yang menurutnya perlindungan yang mencukupi akan diberikan kepada tuan punya hakcipta di bawah Akta ini.
+(6) Menteri tidaklah boleh membuat peraturan- peraturan di bawah seksyen ini yang memakai mana-mana peruntukan Akta ini berkenaan dengan sesuatu negara yang dinyatakan, selain daripada sesuatu negara yang dinyatakan yang menjadi pihak kepada sesuatu triti atau ahli mana- mana Konvensyen atau Kesatuan berhubung dengan hakcipta yang kepadanya Malaysia juga menjadi pihak atau ahli, melainkan jika Menteri berpuas hati bahawa, berkenaan dengan kelaskarya atau hal-perkara lain yang dimaksudkan oleh peruntukan-peruntukan itu, peruntukan telah atau akan dibuat di bawah undang-undang negara yang dinyatakan itu yang menurutnya perlindungan yang mencukupi akan diberikan kepada tuan punya hakcipta di bawah Akta ini.
 
 (7) Jika hanya disebabkan oleh peraturan- peraturan yang dibuat di bawah subseksyen (1), hakcipta-hakcipta wujud dalam karya-karya yang telah dibuat sebelum mula berkuatkuasanya peraturan-peraturan itu, tiada apa-apa jua yang dilakukan sebelum mula berkuatkuasanya peraturan-peraturan tersebut .boleh dikira sebagai telah melanggar hakcipta-hakcipta itu.".
 
 <!-- page 16 -->
 
-22. Seksyen 61 Akta ibu adalah dipinda dengan meng- Pindaan seksyen 61. gantikan perenggan (c) proviso dengan yang berikut:
+22. Seksyen 61 Akta ibu adalah dipinda dengan meng-
+
+<!-- marginal: Pindaan -->
+
+<!-- marginal: seksyen 61. -->
+
+gantikan perenggan (c) proviso dengan yang berikut:
 
 "(c) apa-apa hak, keistimewaan, obligasi atau liabiliti yang diperolehi, terakru atau dilakukan di bawah Akta yang dimansuhkan dan apa-apa presiding undang-undang (sivil atau jenayah) atau remedi berkenaan dengan hak, keistimewaan, obligasi atau liabiliti itu tidaklah terjejas dan mana-mana prosi- ding undang-undang atau remedi
 
@@ -426,6 +470,4 @@ diberi kepada pengenalan perenggan baru (ff), (gg) dan (ggg) di mana apa- apa pe
 
 kuasa penguatkuasaan di bawah Akta.
 
-Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
-
-<!-- marginal: [PN. (U2)1095.] -->
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN. (U2)1095.]

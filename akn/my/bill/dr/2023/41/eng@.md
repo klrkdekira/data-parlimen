@@ -6,13 +6,19 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
-1. Short title and commencement 2. Non-application of the Act 3. Prevailing law 4. Interpretation
+1. Short title and commencement
 
-## Part II
+2. Non-application of the Act
+
+3. Prevailing law
+
+4. Interpretation
+
+## PART II
 
 ## JURISDICTIONAL IMMUNITIES OF FOREIGN STATES
 
@@ -20,7 +26,9 @@
 
 General immunity from jurisdiction
 
-5. Foreign State immunity 6. Proceedings against foreign State, head of State and head of Government
+5. Foreign State immunity
+
+6. Proceedings against foreign State, head of State and head of Government
 
 ## Chapter II
 
@@ -52,7 +60,7 @@ Restriction of immunity from jurisdiction
 
 16. Restriction of immunity if there is an agreement on arbitration
 
-## Part III
+## PART III
 
 ## IMMUNITY FROM ACTION OR JUDGMENT AGAINST PROPERTY
 
@@ -64,7 +72,7 @@ Restriction of immunity from jurisdiction
 
 19. Effect of consent to jurisdiction for pre-trial action or enforcement of judgment and order against property of foreign State
 
-## Part IV
+## PART IV
 
 ## FOREIGN STATE IMMUNITY COUNCIL
 
@@ -90,13 +98,13 @@ Restriction of immunity from jurisdiction
 
 <!-- page 3 -->
 
-## Part V
+## PART V
 
 ## RECIPROCAL TREATMENT
 
 30. Withdrawal of immunities of foreign State where there is no reciprocal treatment
 
-## Part VI
+## PART VI
 
 ## GENERAL
 
@@ -112,7 +120,7 @@ An Act to provide for the immunity of a foreign State and its property, the head
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -166,7 +174,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (c) any other contract or transaction of a commercial, industrial, trading or professional nature, but not including a contract of employment.
 
-## Part II
+## PART II
 
 ## JURISDICTIONAL IMMUNITIES OF FOREIGN STATES
 
@@ -384,7 +392,7 @@ if at the time the cause of action arose, the ship was used other than for gover
 
 (c) the confirmation or the setting aside of the award.
 
-## Part III
+## PART III
 
 ## IMMUNITY FROM ACTION OR JUDGMENT AGAINST
 
@@ -444,7 +452,7 @@ if at the time the cause of action arose, the ship was used other than for gover
 
 19. A consent on the exercise of jurisdiction under paragraph 7(1)(a) shall not be deemed as a consent to the taking of action or the enforcement of judgment and order under sections 17 and 18 respectively.
 
-## Part IV
+## PART IV
 
 ## FOREIGN STATE IMMUNITY COUNCIL
 
@@ -564,7 +572,7 @@ if at the time the cause of action arose, the ship was used other than for gover
 
 (3) The Secretary shall, in carrying out his responsibilities, act under the direction of the Council.
 
-## Part V
+## PART V
 
 ## RECIPROCAL TREATMENT
 
@@ -574,7 +582,7 @@ if at the time the cause of action arose, the ship was used other than for gover
 
 30. Where the Prime Minister is satisfied that Malaysia would not receive, in any foreign State, any immunity corresponding to those conferred by Malaysia under this Act, the Prime Minister may, by order published in the Gazette, withdraw all or any of immunity under this Act against that foreign State.
 
-## Part VI
+## PART VI
 
 ## GENERAL
 
@@ -602,7 +610,7 @@ if at the time the cause of action arose, the ship was used other than for gover
 
 This Bill (“the proposed Act”) seeks to regulate the immunity conferred upon a foreign State and its property, the head of State and the head of Government of a foreign State from the jurisdiction of the court of Malaysia. The immunity granted is subject to certain restrictions as provided in the proposed Act. The proposed Act also provides that the immunity of a foreign Sate will be withdrawn when there is no reciprocal treatment received by Malaysia.
 
-## Part I
+## PART I
 
 2. Part I of the proposed Act deals with the preliminary matters.
 
@@ -616,7 +624,7 @@ This Bill (“the proposed Act”) seeks to regulate the immunity conferred upon
 
 6. Clause 4 contains the definitions of certain words and expressions used in the proposed Act.
 
-## Part II
+## PART II
 
 7. Part II of the proposed Act deals with the provision relating to jurisdictional immunities of a foreign State and its property, the head of State and the head of Government, waiver of the immunity and restriction to immunity.
 
@@ -654,7 +662,7 @@ Subclause 7(3) seeks to provide that any provision of the agreement entered by a
 
 <!-- page 25 -->
 
-## Part III
+## PART III
 
 20. Part III of the proposed Act deals with the provision relating to immunity from action or judgment against property of a foreign State.
 
@@ -664,7 +672,7 @@ Subclause 7(3) seeks to provide that any provision of the agreement entered by a
 
 23. Clause 19 seeks to provide that a consent to the exercise of jurisdiction under paragraph 7(1)(a) shall not be deemed as consent to the taking of action or enforcement of judgment and order under sections 17 and 18 respectively.
 
-## Part IV
+## PART IV
 
 24. Part IV of the proposed Act deals with the establishment of the Foreign State Immunity Council and its functions and powers.
 
@@ -686,13 +694,13 @@ Subclause 7(3) seeks to provide that any provision of the agreement entered by a
 
 32. Clause 29 seeks to provide that the Director General of the Legal Affairs Division of the Prime Minister Department shall be the Secretary to the Council and shall be responsible for the overall administration and management of the functions of the Council.
 
-## Part V
+## PART V
 
 33. Part V of the proposed Act deals with the provision relating to reciprocal treatment.
 
 34. Clause 30 seeks to provide that the Prime Minister may withdraw all or any of immunity under this proposed Act against any foreign State if the Prime Minister satisfied that Malaysia did not receive any immunity corresponding to those conferred by Malaysia under this proposed Act.
 
-## Part VI
+## PART VI
 
 35. Part V of the proposed Act contains general provisions.
 

@@ -1,0 +1,396 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-4-1994",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_III"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Lembaga Padi dan Beras Negara (Syarikat Pengganti) 1994"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERMULAAN"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PELETAKHAKAN HARTA, DSB., PADA SYARIKAT PENGGANTI"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_III__cl_5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERUNTUKAN-PERUNTUKAN YANG BERHUBUNGAN DENGAN KAKITANGAN"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_III__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_III__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_III__cl_5__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_III__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_III__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Syarikat pengganti hendaklah menyetujuterima untuk mengambil kerja, pada suatu tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta, tiap-tiap orang yang sebelum sahaja tarikh itu adalah anggota kakitangan Lembaga dan yang telah diberi suatu pilihan oleh Lembaga dan telah memilih untuk berkhidmat sebagai pekerja syarikat itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_III__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_III__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiap-tiap orang sedemikian yang memilih di bawah subseksyen (1) untuk berkhidmat sebagai pekerja syarikat pengganti hendaklah diambil kerja oleh syarikat itu atas terma dan syarat perkhidmatan yang tidak kurang baiknya daripada terma dan syarat perkhidmatan yang dia berhak kepadanya sebelum sahaja tarikh ditetapkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_3__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_3__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_3__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_3__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_3__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_3__subsec_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh, melalui perintah yang disiarkan dalam Warta, menetapkan suatu tarikh peletakhakan dan pada tarikh itu, segala harta, hak atau liabiliti Lembaga hendaklah menurut Akta ini dipindahkan kepada dan terletakhak pada syarikat pengganti tanpa apa-apa pemindahakan, penyerahhakan atau pemindah milikan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiap-tiap harta yang terletakhak menurut kuasa subseksyen (1) pada syarikat pengganti hendaklah terletakhak sedemikian pada syarikat dengan hakmilik atau kepentingan yang serupa sebagaimana terletakhak atau dipegang sebelum sahaja tarikh peletakhakan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiap-tiap hak dalam tindakan yang terletakhak menurut kuasa subseksyen (1) pada syarikat pengganti boleh, selepas tarikh peletakhakan itu, dituntut melalui guaman, didapatkan atau dikuatkuasakan oleh syarikat itu atas namanya sendiri dan tidaklah perlu bagi syarikat itu atau Lembaga memberikan notis kepada orang yang terikat hak dalam tindakan itu tentang peletakhakan yang dilaksanakan melalui subseksyen (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_3__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiap-tiap hak dan liabiliti yang terletakhak melalui subseksyen (1) pada syarikat pengganti boleh, pada dan selepas tarikh peletakhakan, dituntut melalui guaman, didapatkan atau dikuatkuasakan oleh atau terhadap syarikat itu atas namanya sendiri dan tidaklah perlu bagi syarikat itu atau Lembaga memberikan notis kepada orang yang hak atau liabilitinya tersentuh oleh peletakhakan di bawah subseksyen (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_3__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa prosiding undang-undang yang belum selesai oleh atau terhadap Lembaga yang berhubungan dengan apa-apa harta, hak atau liabiliti yang berpindah kepada dan terletakhak pada syarikat pengganti menurut kuasa subseksyen (1) boleh, pada atau selepas tarikh peletakhakan itu, diteruskan oleh atau terhadap syarikat pengganti itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_3__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam hal hak dan liabiliti yang berbangkit di bawah apa-apa pinjaman yang terletakhak pada syarikat pengganti pada tarikh peletakhakan, syarikat itu boleh membuat apa-apa perkiraan atau perjanjian mengenai hak dan liabiliti sedemikian dengan Kerajaan Malaysia atau mana-mana pihak ketiga."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_3__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pada dan selepas tarikh peletakhakan, apa-apa perjanjian yang berhubungan dengan apa-apa harta, hak dan liabiliti yang berpindah kepada dan terletakhak pada syarikat pengganti di bawah subseksyen (1) yang Lembaga adalah pihak kepadanya sebelum sahaja tarikh peletakhakan itu, sama ada secara bertulis atau tidak, dan sama ada atau tidak daripada sesuatu jenis yang hak dan liabiliti di bawahnya boleh diserahhakkan oleh Lembaga, hendaklah berkuatkuasa seolah-olah syarikat itu telah menjadi suatu pihak kepada perjanjian itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_3__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi mengelakkan keraguan, pemindahan atau peletakhakan hak-hak pada syarikat pengganti di bawah subseksyen 3(1) hendaklah tidak termasuk pemindahan dan peletakhakan hak Kerajaan untuk mengawalselia perkara-perkara yang berhubungan dengan padi dan beras, dan hendaklah tidak memberi apa-apa hak LEMBAGA PADI DAN BERAS NEGARA (SYARIKAT PENGGANTI) eksklusif dan berkekalan pada syarikat pengganti untuk mengimport dan mengeksport beras, dan ia tidak memberi apa-apa hak eksklusif dan berkekalan yang lain berkenaan dengan perkara-perkara yang berhubungan dengan padi dan beras."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_4__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_4__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_4__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Berbangkit daripada peletakhakan pada syarikat pengganti akan harta, hak dan liabiliti di bawah seksyen 3, syarikat pengganti itu hendaklah menerbitkan apa- apa sekuriti syarikat sebagaimana Menteri Kewangan boleh arahkan, selepas berunding dengan Menteri, dari semasa ke semasa, kepada Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sekuriti-sekuriti yang dikehendaki diterbitkan menurut seksyen ini hendaklah diterbitkan atau diumpukkan pada bila-bila masa dan atas apa-apa terma, tentang pengumpukan, sebagaimana Menteri Kewangan boleh arahkan selepas berunding dengan Menteri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_4__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_4__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sekuriti-sekuriti yang dikehendaki diterbitkan menurut seksyen ini—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_4__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_4__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "hendaklah daripada apa-apa nilai nominal sebagaimana Menteri Kewangan arahkan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_4__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_4__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "hendaklah diterbitkan sebagai berbayar penuh dan dikira bagi maksud-maksud Akta Syarikat 1965 seolah-olah ia telah dibayarkan melalui pembayaran nilai nominal kepada syarikat pengganti."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_4__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri Kewangan boleh, selepas berunding dengan Menteri, melupuskan apa-apa sekuriti yang diterbitkan atau apa-apa hak pada sekuriti yang diumpukkan pada mulanya kepada Perbadanan menurut seksyen ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_4__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa dividen atau jumlah wang lain yang diterima oleh Perbadanan sebagai hak pada, atas pelupusan atau selainnya berkaitan dengan, apa-apa sekuriti atau hak yang diperolehi menurut kuasa seksyen ini hendaklah dibayar ke dalam Kumpulan Wang Disatukan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_I__cl_1__subsec_1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Lembaga Padi dan Beras Negara (Syarikat Pengganti) 1994 dan hendaklah mula berkuatkuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_I__cl_2__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_I__cl_2__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "\"hak\" ertinya segala hak, kuasa, keistimewaan dan kekebalan, sama ada sebenar, kontingen atau prospektif, kecuali—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_I__cl_2__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_I__cl_2__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_I__cl_2__list_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_I__cl_2__list_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_I__cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_I__cl_2__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_I__cl_2__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "hak Kerajaan untuk mengawalselia berkenaan dengan perkara-perkara yang berhubungan dengan padi dan beras;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_I__cl_2__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_I__cl_2__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "hak eksklusif dan berkekalan mengimport dan mengeksport beras atau apa- apa hak eksklusif dan berkekalan lain yang berkaitan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_I__cl_2__list_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_I__cl_2__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "hak-hak yang berhubungan dengan tanah; \"harta\" ertinya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_I__cl_2__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_I__cl_2__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_I__cl_2__list_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_I__cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_I__cl_2__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_I__cl_2__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "segala harta alih dan segala kepentingan, hak dan liabiliti, sama ada di sisi ekuiti atau undang-undang dalam, pada atau daripada apa- apa harta, hak dalam tindakan, wang dan nama baik; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_I__cl_2__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/4/msa@/~part_I__cl_2__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "segala hak dan liabiliti berkenaan kontrak- kontrak berhubungan dengan pembinaan bangunan-bangunan, dan \"terletakhak\", berhubungan dengan harta, termasuk hak pada harta pada masa depan atau kontingen; \"liabiliti\" ertinya tiap-tiap perihalan liabiliti, hutang, tanggungan, kewajipan dan obligasi (sama ada pada masa sekarang atau pada masa depan, sebenar atau kontingen, dan sama ada kena dibayar atau yang kena dipatuhi atau dilaksanakan di Malaysia atau di tempat lain); \"Lembaga\" ertinya Lembaga Padi dan Beras Negara di bawah Akta Padi dan Beras Negara 1971; \"Menteri\" ertinya Menteri yang pada masa ini dipertanggungkan dengan tanggungjawab bagi padi dan beras; \"Perbadanan\" ertinya Menteri Kewangan yang diperbadankan melalui Akta Menteri Kewangan (Pemerbadanan) 1957; \"syarikat pengganti\" ertinya syarikat berhad menurut syer yang diperbadankan di bawah Akta Syarikat 1965, dan dinamakan oleh Menteri dalam perintah di bawah LEMBAGA PADI DAN BERAS NEGARA (SYARIKAT PENGGANTI) subseksyen 3(1), yang harta, hak dan liabiliti Lembaga Padi dan Beras Negara dipindahkan dan diletakhakkan padanya di bawah seksyen 3; \"tanah\" ertinya tanah sebagaimana ditakrifkan dalam seksyen 5 Kanun Tanah Negara 1965; \"tarikh ditetapkan\" ertinya tarikh Akta ini hendaklah mula berkuatkuasa; \"tarikh peletakhakan\" ertinya tarikh bila segala harta, hak dan liabiliti Lembaga dipindahkan atau diletakhakkan pada syarikat pengganti sebagaimana yang dinyatakan oleh Menteri dalam perintah di bawah subseksyen 3(1)."
+      }
+    }
+  ]
+}

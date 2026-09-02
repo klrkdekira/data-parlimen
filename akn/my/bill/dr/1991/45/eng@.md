@@ -8,21 +8,13 @@
 
 ## PRELIMINARY
 
-1. Short title and commencement. 2. Interpretation. 3. Power of Minister to designate tourist accommodation premises, tourism training institutions and tourist restaurants.
-
-4. The Commissioner of Tourism.
+1. Short title and commencement. 2. Interpretation. 3. Power of Minister to designate tourist accommodation premises, tourism training institutions and tourist restaurants. 4. The Commissioner of Tourism.
 
 ## PART II
 
 ## LICENSING OF TOURISM ENTERPRISES
 
-5. Tourism enterprises to be licensed.
-
-6. Submission of application for licence to the Commissioner.
-
-7. Grant of or refusal to grant licence. 8. Revocation of licence.
-
-9. Appeal.
+5. Tourism enterprises to be licensed. 6. Submission of application for licence to the Commissioner. 7. Grant of or refusal to grant licence. 8. Revocation of licence. 9. Appeal.
 
 10. Surrender of licence.
 
@@ -58,13 +50,63 @@
 
 ## LICENSING OF TOURIST GUIDES
 
-21. Persons providing services as tourist guides to be licensed 22. Register. 23. Application for licence and qualification of applicants. 24. Grant of licence. 25. Validity of licence. 26. Authorisation card. 27. Duties imposed upon licensed tourist guides. 28. Suspension or revocation of licence. 29. Effect of suspension or revocation of licence. 30. Right to appeal. 31. Surrender of licence and authorisation card.
+21. Persons providing services as tourist guides to be licensed
+
+22. Register.
+
+23. Application for licence and qualification of applicants. 24. Grant of licence. 25. Validity of licence.
+
+26. Authorisation card.
+
+27. Duties imposed upon licensed tourist guides.
+
+28. Suspension or revocation of licence.
+
+29. Effect of suspension or revocation of licence.
+
+30. Right to appeal.
+
+31. Surrender of licence and authorisation card.
 
 ## PART V
 
 ## GENERAL
 
-32. Renewal of licence. 33. Lost licences. 34. Power of Minister to make regulations. 35. Obligation of secrecy. 36. Inaccurate declaration, etc. 37. General penalty. 38. Liability of directors, etc. 39. Power to compound offences. 40. Authorised officer. 41. Power to investigate. 42. Power to examine witnesses. 43. Admissibility of statement. 44. Search with warrant. 45. Search without warrant. 46. List of things seized. 47. Additional powers. 48. Obstruction of search, etc. 49. Conduct of prosecution.
+32. Renewal of licence.
+
+33. Lost licences.
+
+34. Power of Minister to make regulations.
+
+35. Obligation of secrecy.
+
+36. Inaccurate declaration, etc.
+
+37. General penalty.
+
+38. Liability of directors, etc.
+
+39. Power to compound offences.
+
+40. Authorised officer.
+
+41. Power to investigate.
+
+42. Power to examine witnesses.
+
+43. Admissibility of statement.
+
+44. Search with warrant.
+
+45. Search without warrant.
+
+46. List of things seized.
+
+47. Additional powers.
+
+48. Obstruction of search, etc.
+
+49. Conduct of prosecution.
 
 <!-- page 3 -->
 
@@ -128,7 +170,11 @@ Companies Act 1965;
 
 "licensed travel agent" means a person licensed under subsection 7(1) to carry on or operate a travel agency business;
 
-"Malaysia Tourism Promotion Board" means the Malaysia Tourism Promotion Board established under Act section 3 of the Malaysia Tourism Promotion Board Act 1991;
+"Malaysia Tourism Promotion Board" means the Malaysia Tourism Promotion Board established under
+
+<!-- marginal: Act -->
+
+section 3 of the Malaysia Tourism Promotion Board Act 1991;
 
 "Minister" means the Minister charged with the responsibility for tourism;
 
@@ -174,7 +220,9 @@ Companies Act 1965;
 
 (a) pleasure, recreation or holiday;
 
-(b) culture; (c) religion;
+(b) culture;
+
+(c) religion;
 
 (d) visiting friends or relatives;
 
@@ -184,7 +232,9 @@ Companies Act 1965;
 
 (g) meetings, conferences, seminars or con- ventions;
 
-(h) studies or research; (i) shopping; or
+(h) studies or research;
+
+(i) shopping; or
 
 (j) any other purpose which is not related to an occupation that is remunerated from the place visited;
 
@@ -302,11 +352,35 @@ unless it is a company and holds a valid licence granted under this Part.
 
 <!-- page 8 -->
 
-(3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding five years or to both, and in the case of a continuing offence, shall in addition, be liable to a daily fine not exceeding five thousand ringgit for each day the offence continues to be committed.
+(3) Any person who contravenes subsection (1) or
 
-(4) For the avoidance of doubt, the provisions of the Act 4311961 Education Act 1961 shall not apply in relation to a person carrying on or operating a tourism training institution.
+(2) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding five years or to both, and in the case of a continuing offence, shall in addition, be liable to a daily fine not exceeding five thousand ringgit for each day the offence continues to be committed.
 
-Submission 6. (1) An application for the grant of a licence under of this Part shall be made in writing to the Commissioner application for licence in such form as may be determined. to the Commissioner. (2) Every application under subsection (1) shall be accompanied by such documents or information as may be prescribed and the Commissioner may, at any time after receiving the application and before
+(4) For the avoidance of doubt, the provisions of the
+
+<!-- marginal: Act 4311961 -->
+
+Education Act 1961 shall not apply in relation to a person carrying on or operating a tourism training institution.
+
+<!-- marginal: Submission -->
+
+6. (1) An application for the grant of a licence under
+
+<!-- marginal: of -->
+
+this Part shall be made in writing to the Commissioner
+
+<!-- marginal: application -->
+
+<!-- marginal: for licence -->
+
+in such form as may be determined.
+
+<!-- marginal: to the -->
+
+<!-- marginal: Commissioner. -->
+
+(2) Every application under subsection (1) shall be accompanied by such documents or information as may be prescribed and the Commissioner may, at any time after receiving the application and before
 
 <!-- marginal: it is -->
 
@@ -412,17 +486,35 @@ may appeal in writing to the Minister within fourteen days from the date on whic
 
 (2) The decision of the Minister under this section shall be final and conclusive.
 
-Surrender
+<!-- marginal: Surrender -->
 
-10. (1) A licensed tourism enterprise may surrender of licence. its licence by forwarding it, and any supplementary licence, to the Commissioner with a written notice of its surrender.
+10. (1) A licensed tourism enterprise may surrender
+
+<!-- marginal: of licence. -->
+
+its licence by forwarding it, and any supplementary licence, to the Commissioner with a written notice of its surrender.
 
 (2) The surrender shall take effect on the date the Commissioner receives the licences and the notice under subsection (1), or where a later date is specified in the notice, on that date.
 
 (3) The licensed tourism enterprise shall, not later than fourteen days after the date referred to in subsection (2), cause such surrender to be advertised in at least one national daily Bahasa Malaysia and English newspaper for at least three consecutive days.
 
-Effect of
+<!-- marginal: Effect of -->
 
-11. (1) Where the revocation of a licence under revocation, section 8 or its surrender under section 10 has taken surrender or expiry of effect, or where the licence has expired, the licensed licence. tourism enterprise shall immediately cease to carry on or operate any business in respect of which the licence was granted:
+11. (1) Where the revocation of a licence under
+
+<!-- marginal: revocation, -->
+
+section 8 or its surrender under section 10 has taken
+
+<!-- marginal: surrender or -->
+
+<!-- marginal: expiry of -->
+
+effect, or where the licence has expired, the licensed
+
+<!-- marginal: licence. -->
+
+tourism enterprise shall immediately cease to carry on or operate any business in respect of which the licence was granted:
 
 Provided that the Minister may,
 
@@ -438,7 +530,9 @@ recommendation of the Commissioner, authorise the licensed tourism enterprise in
 
 (3) Where a licence has been revoked under section 8, any supplementary licence thereto shall be deemed to be revoked.
 
-(4) Notwithstanding subsection (1), a licensed tourism enterprise whose licence has expired shall be entitled to carry on its business as if its licence had not expired upon proof being submitted to
+(4) Notwithstanding subsection (1), a licensed tourism enterprise whose licence has expired shall be entitled to carry on its business as if its licence had not expired upon proof being submitted
+
+<!-- marginal: to -->
 
 <!-- marginal: the -->
 
@@ -480,13 +574,45 @@ III
 
 ## TOURISM ENTERPRISES
 
-Requirement
+<!-- marginal: Requirement -->
 
-14. A licensed tourism enterprise shall at all times to display display its licence in a conspicuous place at its principal licence. place of business and at every branch where the licensed tourism enterprise carries on or operates its business.
+14. A licensed tourism enterprise shall at all times
 
-Duty to
+<!-- marginal: to display -->
 
-15. (1) Without prejudice to subsection (2), a licensed submit tourism enterprise shall submit to the Commissioner information such information and particulars including financial and particulars statements, audited balance sheets and profit and loss relating to account relating to its entire business operations as may business operations. from time to time be required by the Commissioner within such time as he may determine.
+display its licence in a conspicuous place at its principal
+
+<!-- marginal: licence. -->
+
+place of business and at every branch where the licensed tourism enterprise carries on or operates its business.
+
+<!-- marginal: Duty to -->
+
+15. (1) Without prejudice to subsection (2), a licensed
+
+<!-- marginal: submit -->
+
+tourism enterprise shall submit to the Commissioner
+
+<!-- marginal: information -->
+
+such information and particulars including financial
+
+<!-- marginal: and -->
+
+<!-- marginal: particulars -->
+
+statements, audited balance sheets and profit and loss
+
+<!-- marginal: relating to -->
+
+account relating to its entire business operations as may
+
+<!-- marginal: business -->
+
+<!-- marginal: operations. -->
+
+from time to time be required by the Commissioner within such time as he may determine.
 
 (2) Upon request by the Commissioner, a licensed tour operator or travel agent shall submit the following to the Commissioner:
 
@@ -576,11 +702,35 @@ advertisement or information relating to or in connection with the business of a
 
 <!-- page 16 -->
 
-Employment 19. (1) No licensed tourism enterprise shall employ, of licensed or obtain for a tourist or any other person the tourist services of, a tourist guide who is not licensed under guides. this Act or whose licence has been suspended or revoked.
+<!-- marginal: Employment -->
+
+19. (1) No licensed tourism enterprise shall employ,
+
+<!-- marginal: of licensed -->
+
+or obtain for a tourist or any other person the
+
+<!-- marginal: tourist -->
+
+services of, a tourist guide who is not licensed under
+
+<!-- marginal: guides. -->
+
+this Act or whose licence has been suspended or revoked.
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall, on corwiction, be liable to a fine not exceeding twenty thousand ringgit or to imprisonment for a term not exceeding two years or to both.
 
-Use of 20. (1) No licensed tourism enterprise shall use or excursion allow to be used any vehicle for the transportation of vehicles. tourists on tours except excursion vehicles which has been duly licensed by the appropriate authorities for such purposes.
+<!-- marginal: Use of -->
+
+20. (1) No licensed tourism enterprise shall use or
+
+<!-- marginal: excursion -->
+
+allow to be used any vehicle for the transportation of
+
+<!-- marginal: vehicles. -->
+
+tourists on tours except excursion vehicles which has been duly licensed by the appropriate authorities for such purposes.
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding twenty thousand ringgit or to imprisonment for a term not exceeding two years or to both.
 
@@ -590,13 +740,29 @@ IV
 
 ## LICENSING OF TOURIST GUIDES
 
-Persons 21. (1) No person shall act, or hold himself out, as a providing tourist guide unless he is licensed under this Part. services as tourist guides to (2) Any person who contravenes subsection (1) shall be licensed. be guilty of an offence and shall, on conviction, be liable to a fine not exceeding seven thousand
+<!-- marginal: Persons -->
 
-<!-- marginal: ringgit or to -->
+21. (1) No person shall act, or hold himself out, as a
 
-imprisonment for a term not exceeding two years or to both, and in the case of a continuing offence, shall, in addition, be liable to a daily fine not exceeding five hundred ringgit for each day the offence continues to be committed.
+<!-- marginal: providing -->
 
-Register. 22. The Commissioner shall cause to be kept and maintained a register of licensed tourist guides.
+tourist guide unless he is licensed under this Part.
+
+<!-- marginal: services -->
+
+<!-- marginal: as tourist -->
+
+<!-- marginal: guides to -->
+
+(2) Any person who contravenes subsection (1) shall
+
+<!-- marginal: be licensed. -->
+
+be guilty of an offence and shall, on conviction, be liable to a fine not exceeding seven thousand ringgit or to imprisonment for a term not exceeding two years or to both, and in the case of a continuing offence, shall, in addition, be liable to a daily fine not exceeding five hundred ringgit for each day the offence continues to be committed.
+
+<!-- marginal: Register. -->
+
+22. The Commissioner shall cause to be kept and maintained a register of licensed tourist guides.
 
 <!-- page 17 -->
 
@@ -634,7 +800,9 @@ accompanied by, such information and documents as may be prescribed.
 
 subsection 23(1), the Commissioner shall consider the application and may, where he is satisfied of the suitability of the applicant and upon payment of the prescribed fee, grant a licence with or without conditions.
 
-(2) The Commissioner shall enter the name of every person who has been granted a licence under subsection (1) in the register and issue to that person an authorisation card in such form as may be prescribed.
+(2) The Commissioner shall enter the name of every person who has been granted a licence under subsection
+
+(1) in the register and issue to that person an authorisation card in such form as may be prescribed.
 
 (3) The Commissioner may refuse to grant a licence to any person without assigning any reason thereof.
 
@@ -642,13 +810,21 @@ subsection 23(1), the Commissioner shall consider the application and may, where
 
 <!-- page 18 -->
 
-Validity of
+<!-- marginal: Validity of -->
 
-25. A licence granted by the Commissioner under this licence. Part shall, unless sooner revoked, be valid for a period of twelve months from the date the licence was granted.
+25. A licence granted by the Commissioner under this
 
-Authorisation
+<!-- marginal: licence. -->
 
-26. (1) An authorisation card issued to a licensed card. tourist guide under subsection 24 (2)—
+Part shall, unless sooner revoked, be valid for a period of twelve months from the date the licence was granted.
+
+<!-- marginal: Authorisation -->
+
+26. (1) An authorisation card issued to a licensed
+
+<!-- marginal: card. -->
+
+tourist guide under subsection 24 (2)—
 
 (a) shall be worn conspicuously whenever the licensed tourist guide is on duty, conducting any tour or when he is attending any course as required under section 27;
 
@@ -656,15 +832,37 @@ Authorisation
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding one year or to both.
 
-Duties
+<!-- marginal: Duties -->
 
-27. (1) A licensed tourist guide shall attend further imposed sourses of training and pass further tests of proficiency upon licenSed for tourist guides as may be required by the tourist Commissioner. guides. (2) A standard form of dress as may be prescribed shall be worn by every licensed tourist guide while on duty or conducting tours.
+27. (1) A licensed tourist guide shall attend further
+
+<!-- marginal: imposed -->
+
+sourses of training and pass further tests of proficiency
+
+<!-- marginal: upon -->
+
+<!-- marginal: licenSed -->
+
+for tourist guides as may be required by the
+
+<!-- marginal: tourist -->
+
+Commissioner.
+
+<!-- marginal: guides. -->
+
+(2) A standard form of dress as may be prescribed shall be worn by every licensed tourist guide while on duty or conducting tours.
 
 (3) A licensed tourist guide shall comply with a standard code of ethics as may be prescribed.
 
-Suspension
+<!-- marginal: Suspension -->
 
-28. (1) If any licensed tourist guide— or revocation of licence.
+28. (1) If any licensed tourist guide—
+
+<!-- marginal: or revocation -->
+
+<!-- marginal: of licence. -->
 
 (a) has made any misrepresentation or has failed to disclose any fact at the time of applying for a licence, arid such misrepresentation or non- disclosure would have influenced
 
@@ -718,9 +916,11 @@ the period of suspension act as a tourist guide.
 
 (4) Any person who contravenes this section shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding seven thousand ringgit or to imprisonment for a term not exceeding two years or to both, and in the case of a continuing offence, shall, in addition, be liable to a daily fine not exceeding five hundred ringgit for each day the offence continues to be committed.
 
-Right to
+<!-- marginal: Right to -->
 
-30. (1) Any licensed tourist guide who is aggrieved— appeal.
+30. (1) Any licensed tourist guide who is aggrieved—
+
+<!-- marginal: appeal. -->
 
 (a) by the refusal of the Commissioner to renew his licence; or
 
@@ -788,9 +988,17 @@ its licence, it shall immediately notify the Commissioner in writing of the loss
 
 (3) Such licensed tourism enterprise or licensed tourist guide shall submit an application for a replacement licence or authorisation card, as the case may be, accompanied by all such information and documents as may be required by the Commissioner together with the prescribed fees that may be imposed.
 
-Power of
+<!-- marginal: Power of -->
 
-34. (1) The Minister may make such regulations as Minister to he may consider expedient for the purposes of this Act. make regulations.
+34. (1) The Minister may make such regulations as
+
+<!-- marginal: Minister to -->
+
+he may consider expedient for the purposes of this Act.
+
+<!-- marginal: make -->
+
+<!-- marginal: regulations. -->
 
 (2) Without prejudice to the generality of subsection
 
@@ -848,17 +1056,33 @@ contravenes any provision of this Act for which no specific penalty is expressly
 
 <!-- page 24 -->
 
-Liability of
+<!-- marginal: Liability of -->
 
-38. (1) Where an offence under this Act has been directors, committed by a company, any person who at the time etc. of the commission of the offence was a director, secretary, manager or other officer of the company or who was purporting to act in any such capacity, shall be deemed to be guilty of that offence and shall be punished accordingly unless he proves that the offence was committed without his consent or connivance and that he exercised such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his function in that capacity and to all the circumstances.
+38. (1) Where an offence under this Act has been
+
+<!-- marginal: directors, -->
+
+committed by a company, any person who at the time
+
+<!-- marginal: etc. -->
+
+of the commission of the offence was a director, secretary, manager or other officer of the company or who was purporting to act in any such capacity, shall be deemed to be guilty of that offence and shall be punished accordingly unless he proves that the offence was committed without his consent or connivance and that he exercised such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his function in that capacity and to all the circumstances.
 
 (2) Any person who would have been guilty of an offence if anything had been done or omitted to be done by him personally shall be guilty of the offence and shall be liable to the same penalty if such thing had been done or omitted to be done by his officer, agent or servant in the course of his business unless he proves that the offence was committed without his knowledge or consent and that he took all reasonable precautions to preyent the doing or omission to do such thing.
 
 (3) Nothing in subsection (2) shall relieve any such officer, agent or servant from any liability for an offence.
 
-Power to
+<!-- marginal: Power to -->
 
-39. ( I) The Commissioner may compound any offence compound under this Act which is prescribed to be a compoundable offences. offence by requiring a person reasonably suspected of committing the offence to pay a sum of money not exceeding fifty per cent of the amount of the maximum fine to which that person should have been liable if he had been corwicted of the offence.
+39. ( I) The Commissioner may compound any offence
+
+<!-- marginal: compound -->
+
+under this Act which is prescribed to be a compoundable
+
+<!-- marginal: offences. -->
+
+offence by requiring a person reasonably suspected of committing the offence to pay a sum of money not exceeding fifty per cent of the amount of the maximum fine to which that person should have been liable if he had been corwicted of the offence.
 
 (2) An offer under subsection (1) may be made at any time after the offence has been committed but before any prosecution for it has been instituted, and where the amount specified in the offer is not paid within the time specified, or during such extended period as may be granted by the Commissioner, prosecution for the offence may be instituted at any time thereafter against the person to whom the offer was made.
 
@@ -922,15 +1146,27 @@ Provided that such person may refuse to answer any question the answer to which 
 
 (5) A statement made by any person under this shall, whenever possible, be reduced into writing and signed by the person making it or affixed with his thumb print, as the case may be, after it has been read to him in the language in which he made it and after he has been given an opportunity to make any correction he may wish.
 
-Admissi-
+<!-- marginal: Admissi- -->
 
-43. Notwithstanding the provisions of any written law biltty of to the contrary, where a person is charged with an statement. offence under this Act, any statement, whether the statement amounts to a confession or not or whether it is oral or in writing, made at any time, whether before or after the person is charged and whether in the course of investigation under this Act or not and whether or not wholly or partly in answer to questions, by the person to, or in the hearing of, the authorised officer and whether or not interpreted to him by an authorised officer or any other person concerned or not in the case, shall be admissible at his trial in evidence and, if the person tenders himself as a witness, any such statement may be used in cross-examination and for the purpose of impeaching his credit:
+43. Notwithstanding the provisions of any written law
+
+<!-- marginal: biltty of -->
+
+to the contrary, where a person is charged with an
+
+<!-- marginal: statement. -->
+
+offence under this Act, any statement, whether the statement amounts to a confession or not or whether it is oral or in writing, made at any time, whether before or after the person is charged and whether in the course of investigation under this Act or not and whether or not wholly or partly in answer to questions, by the person to, or in the hearing of, the authorised officer and whether or not interpreted to him by an authorised officer or any other person concerned or not in the case, shall be admissible at his trial in evidence and, if the person tenders himself as a witness, any such statement may be used in cross-examination and for the purpose of impeaching his credit:
 
 Provided that—
 
 (a) no such statement shall be admissible or used as aforesaid—
 
-(i) if the making of the statement appears to the court to have been caused by any inducement, threat or promise having reference to the charge against such person proceeding from a person in authority and sufficient in the opinion of the court to give the person charged grounds which would appear to him reasonable for supposing that by making it he would gain any advantage
+(i) if the making of the statement appears to the court to have been caused by any inducement, threat or promise having reference to the charge against such person proceeding from a person in authority and sufficient in the opinion of the court to give the person charged grounds which would appear to him reasonable for supposing
+
+<!-- marginal: that by -->
+
+making it he would gain any advantage
 
 <!-- page 27 -->
 
@@ -970,19 +1206,39 @@ empowered to effect;
 
 (e) where the premises or place is used for carrying on or operating a tourism enterprise without a licence, seal the premises or place.
 
-Search
+<!-- marginal: Search -->
 
-45. Whenever it appears to any authorised officer that without there is reasonable cause to believe that in any premises warrant. or place there is concealed or deposited any books, accounts or other documents which are suspected to contain information as to the commission of an offence under this Act or any other thing relating to the offence and if he has reasonable grounds for believing that by reason of the delay in obtaining a search warrant the books, accounts, other documents or things are likely to be removed, the officer may exercise in, upon and in respect of the premises or place all the powers mentioned in section 44 in as full and ample a manner as if he were authorised so to do by a warrant issued under that section.
+45. Whenever it appears to any authorised officer that
 
-List of
+<!-- marginal: without -->
 
-46. (1) The authorised officer seizing any books, things accounts, documents or other things under this Act shall seized. prepare a list of the books, accounts, documents or other things seized and forthwith deliver a copy signed by him to the occupier or his agents or servants present in the premises or place of seizure.
+there is reasonable cause to believe that in any premises
+
+<!-- marginal: warrant. -->
+
+or place there is concealed or deposited any books, accounts or other documents which are suspected to contain information as to the commission of an offence under this Act or any other thing relating to the offence and if he has reasonable grounds for believing that by reason of the delay in obtaining a search warrant the books, accounts, other documents or things are likely to be removed, the officer may exercise in, upon and in respect of the premises or place all the powers mentioned in section 44 in as full and ample a manner as if he were authorised so to do by a warrant issued under that section.
+
+<!-- marginal: List of -->
+
+46. (1) The authorised officer seizing any books,
+
+<!-- marginal: things -->
+
+accounts, documents or other things under this Act shall
+
+<!-- marginal: seized. -->
+
+prepare a list of the books, accounts, documents or other things seized and forthwith deliver a copy signed by him to the occupier or his agents or servants present in the premises or place of seizure.
 
 (2) The list referred to in subsection (1) shall not be treated as a statement, admission or confession made by the occupier or his agents or servants in the course of the investigation and shall be admissible in evidence.
 
-Additional
+<!-- marginal: Additional -->
 
-47. Any authorised officer shall, for purposes of the powers. execution of this Act, have power to do all or any of the following:
+47. Any authorised officer shall, for purposes of the
+
+<!-- marginal: powers. -->
+
+execution of this Act, have power to do all or any of the following:
 
 (a) to require the production of records, accounts and documents kept by a licensed tourism enterprise or licensed tourist guide and to inspect, examine and copy any of them;
 
@@ -1068,11 +1324,13 @@ This Bill will not involve the Government in any extra financial expenditure. [P
 
 ## PUBLISHED BY AUTHORITY
 
-Jil. 35
+<!-- marginal: Jil. 35 -->
 
-## TAMBAHAN
+<!-- marginal: TAMBAHAN -->
 
-No. 26 19hb Disember 1991
+<!-- marginal: No. 26 -->
+
+19hb Disember 1991
 
 <!-- marginal: No J3 -->
 

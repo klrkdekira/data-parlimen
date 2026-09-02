@@ -36,7 +36,9 @@ the "principal Act", is amended by substituting for subsection (1) the following
 
 <!-- marginal: of -->
 
-"Administration Enactment" the following: "Administration Enactment" means the Sel En. Administration of Muslim Law Enactment 1952 3152. of the State of Selangor—
+"Administration Enactment" the following: "Administration Enactment" means the Sel En. Administration of Muslim Law Enactment 1952
+
+3152. of the State of Selangor—
 
 (a) in relation to the Federal Territory of Kuala Lumpur, as modified by the
 
@@ -50,9 +52,21 @@ P.U. (A) 44174. Federal Territory (Modification of P U. (A) 390/81. Administrati
 
 (c) by substituting for the word "Territory" appearing in the definition of "wait Raja" the word "Territories".
 
-4. Section 3 of the principal Act is amended by Amendment of section 3. substituting for the word "Territory" the word "Territories".
+4. Section 3 of the principal Act is amended by
 
-Amendment 5. Section 52 of the principal Act is amended by of section 52. inserting, immediately after the words "Mental Disorders Ordinance 1952" in paragraph (k) of subsection (1), the words "in the case of the Federal Territory of Kuala Lumpur, or the Lunatics Ordinance in the case of the Federal Territory of Labuan,", and by inserting the marginal note "Sabah Cap. 74." in reference to the Lunatics Ordinance.
+<!-- marginal: Amendment -->
+
+<!-- marginal: of section 3. -->
+
+substituting for the word "Territory" the word "Territories".
+
+<!-- marginal: Amendment -->
+
+5. Section 52 of the principal Act is amended by
+
+<!-- marginal: of section 52. -->
+
+inserting, immediately after the words "Mental Disorders Ordinance 1952" in paragraph (k) of subsection (1), the words "in the case of the Federal Territory of Kuala Lumpur, or the Lunatics Ordinance in the case of the Federal Territory of Labuan,", and by inserting the marginal note "Sabah Cap. 74." in reference to the Lunatics Ordinance.
 
 <!-- page 3 -->
 

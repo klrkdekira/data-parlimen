@@ -72,7 +72,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/7/msa@/~cl_10",
       "schema:text": {
         "@language": "ms",
-        "@value": "Jika apa-apa kesukaran atau anomali timbul kesukaran berkaitan dengan pelaksanaan Akta ini, Menteri boleh atau anomali. melalui perintah membuat apa-apa ubahsuaian kepada mana-mana peruntukan Akta ini sebagaimana yang didapatinya perlu bagi menghapuskan atau menghalang kesukaran atau anomali itu: Dengan syarat bahawa Menteri tidaklah boleh menjalankan kuasa yang diberikan oleh seksyen ini selepas habis tempoh tiga tahun dari tarikh ditetapkan."
+        "@value": "Jika apa-apa kesukaran atau anomali timbul berkaitan dengan pelaksanaan Akta ini, Menteri boleh melalui perintah membuat apa-apa ubahsuaian kepada mana-mana peruntukan Akta ini sebagaimana yang didapatinya perlu bagi menghapuskan atau menghalang kesukaran atau anomali itu: Dengan syarat bahawa Menteri tidaklah boleh menjalankan kuasa yang diberikan oleh seksyen ini selepas habis tempoh tiga tahun dari tarikh ditetapkan."
       }
     },
     {
@@ -96,7 +96,7 @@
       },
       "schema:text": {
         "@language": "ms",
-        "@value": "\"Lembaga\" ertinya Lembaga Kemajuan Johor Tenggara yang ditubuhkan di bawah Akta Lembaga Kemajuan Johor Tenggara 1972; \"Menteri\" ertinya Menteri yang dipertanggungkan dengan tanggungjawab bagi pembangunan luar bandar; \"Pesuruhjaya Tanah Persekutuan\" ertinya Pesuruhjaya Akta 349, Tanah Persekutuan yang dilantik di bawah Akta Pesuruhjaya Tanah Persekutuan 1957; \"tarikh ditetapkan\" ertinya tarikh yang ditetapkan oleh Menteri di bawah seksyen 1. Pemansuhan"
+        "@value": "\"Lembaga\" ertinya Lembaga Kemajuan Johor Tenggara yang ditubuhkan di bawah Akta Lembaga Kemajuan Johor Tenggara 1972; \"Menteri\" ertinya Menteri yang dipertanggungkan dengan tanggungjawab bagi pembangunan luar bandar; \"Pesuruhjaya Tanah Persekutuan\" ertinya Pesuruhjaya Tanah Persekutuan yang dilantik di bawah Akta Pesuruhjaya Tanah Persekutuan 1957; \"tarikh ditetapkan\" ertinya tarikh yang ditetapkan oleh Menteri di bawah seksyen 1."
       }
     },
     {
@@ -104,9 +104,13 @@
       "@type": "akn:clause",
       "eli:number": "3",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Lembaga Kemajuan Johor Tenggara 1972"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta Lembaga Kemajuan Johor Tenggara 1972 dan dimansuhkan dan Lembaga yang ditubuhkan di bawahnya pembubaran. dibubarkan. Perpindahan"
+        "@value": "dimansuhkan dan Lembaga yang ditubuhkan di bawahnya dibubarkan."
       }
     },
     {
@@ -114,9 +118,13 @@
       "@type": "akn:clause",
       "eli:number": "4",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Segala kuasa, hak, keistimewaan, kewajipan, liabiliti"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Segala kuasa, hak, keistimewaan, kewajipan, liabiliti kuasa, hak, dan obligasi yang sebelum sahaja tarikh ditetapkan adalah dsb. kuasa, hak, keistimewaan, kewajipan, liabiliti dan obligasi Lembaga hendaklah, dari tarikh itu, turun kepada Kerajaan. Perpindahan"
+        "@value": "dan obligasi yang sebelum sahaja tarikh ditetapkan adalah kuasa, hak, keistimewaan, kewajipan, liabiliti dan obligasi Lembaga hendaklah, dari tarikh itu, turun kepada Kerajaan."
       }
     },
     {
@@ -136,7 +144,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/7/msa@/~cl_5",
       "schema:text": {
         "@language": "ms",
-        "@value": "Semua tanah yang sebelum sahaja tarikh ditetapkan harta. adalah terletakhak pada Lembaga hendaklah, pada tarikh ditetapkan, terletakhak pada Pesuruhjaya Tanah Persekutuan bagi maksud-maksud Kerajaan."
+        "@value": "Semua tanah yang sebelum sahaja tarikh ditetapkan adalah terletakhak pada Lembaga hendaklah, pada tarikh ditetapkan, terletakhak pada Pesuruhjaya Tanah Persekutuan bagi maksud-maksud Kerajaan."
       }
     },
     {
@@ -146,7 +154,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/7/msa@/~cl_5",
       "schema:text": {
         "@language": "ms",
-        "@value": "Semua harta dan aset selain daripada tanah yang sebelum sahaja tarikh ditetapkan adalah terletakhak pada Lembaga atau pada mana-mana orang bagi pihaknya hendaklah, pada tarikh itu, terletakhak pada Kerajaan. Perpindahan"
+        "@value": "Semua harta dan aset selain daripada tanah yang sebelum sahaja tarikh ditetapkan adalah terletakhak pada Lembaga atau pada mana-mana orang bagi pihaknya hendaklah, pada tarikh itu, terletakhak pada Kerajaan."
       }
     },
     {
@@ -154,9 +162,13 @@
       "@type": "akn:clause",
       "eli:number": "6",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Semua wang yang ada pada, atau kena dibayar kepada,"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Semua wang yang ada pada, atau kena dibayar kepada, wang. Lembaga hendaklah, pada tarikh ditetapkan, berpindah kepada, dan terletakhak pada Kerajaan. Kontrak yang"
+        "@value": "Lembaga hendaklah, pada tarikh ditetapkan, berpindah kepada, dan terletakhak pada Kerajaan."
       }
     },
     {
@@ -164,9 +176,13 @@
       "@type": "akn:clause",
       "eli:number": "7",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Segala suratikatan, bon, perjanjian, suratcara dan"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Segala suratikatan, bon, perjanjian, suratcara dan sedia ada, perkiraan kerja yang wujud sebelum sahaja tarikh ditetapkan dsb. dan menyentuh mana-mana harta yang berpindah di bawah seksyen 5 hendaklah mempunyai kuatkuasa dan kesan yang penuh terhadap atau mernihak kepada Kerajaan dan boleh dikuatkuasakan sepenuhnya dan dengan berkesan seolah-olah Kerajaan, bukan Lembaga atau mana-mana orang yang bertindak bagi pihaknya, telah dinamakan dalamnya atau telah menjadi suatu pihak kepadanya. Tenggara (Pembubaran)"
+        "@value": "perkiraan kerja yang wujud sebelum sahaja tarikh ditetapkan dan menyentuh mana-mana harta yang berpindah di bawah seksyen 5 hendaklah mempunyai kuatkuasa dan kesan yang penuh terhadap atau mernihak kepada Kerajaan dan boleh dikuatkuasakan sepenuhnya dan dengan berkesan seolah-olah Kerajaan, bukan Lembaga atau mana-mana orang yang bertindak bagi pihaknya, telah dinamakan dalamnya atau telah menjadi suatu pihak kepadanya. Tenggara (Pembubaran)"
       }
     },
     {
@@ -221,7 +237,7 @@
       },
       "schema:text": {
         "@language": "ms",
-        "@value": "bertulis, termasuk perundangan subsidiari, yang menyentuh atau bagi pelindungan Lembaga dan berkuatkuasa sebelum sahaja tarikh ditetapkan hendaklah, sehingga dipinda atau dibatalkan oleh pihak berkuasa berkenaan yang mempunyai kuasa untuk berbuat demikian, terus berkuatkuasa dan ditafsirkan seolah-olah Akta ini tidak pernah diluluskan: Dengan syarat bahawa apa-apa sebutan dalam undang- undang bertulis itu mengenai Lembaga, melainkan jika konteksnya menghendaki makna yang lain, hendaklah ditafsirkan sebagai sebutan mengenai Kerajaan dan ungkapan-ungkapan yang memaksudkan sebutan sedemikian hendaklah ditafsirkan sewajarnya. Menghalang"
+        "@value": "bertulis, termasuk perundangan subsidiari, yang menyentuh atau bagi pelindungan Lembaga dan berkuatkuasa sebelum sahaja tarikh ditetapkan hendaklah, sehingga dipinda atau dibatalkan oleh pihak berkuasa berkenaan yang mempunyai kuasa untuk berbuat demikian, terus berkuatkuasa dan ditafsirkan seolah-olah Akta ini tidak pernah diluluskan: Dengan syarat bahawa apa-apa sebutan dalam undang- undang bertulis itu mengenai Lembaga, melainkan jika konteksnya menghendaki makna yang lain, hendaklah ditafsirkan sebagai sebutan mengenai Kerajaan dan ungkapan-ungkapan yang memaksudkan sebutan sedemikian hendaklah ditafsirkan sewajarnya."
       }
     }
   ]

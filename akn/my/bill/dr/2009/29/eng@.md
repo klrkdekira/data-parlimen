@@ -924,7 +924,9 @@ and for the purpose of this subsection, “business judgment” means any decisi
 
 (8) Where the directors have delegated any power as referred to in subsection (7), the directors are responsible for the exercise of such power by the delegatee as if such power had been exercised by the directors themselves.
 
-(9) The directors are not responsible under subsection (8) if—
+(9) The directors are not responsible under subsection
+
+(8) if—
 
 (a) the directors believed on reasonable grounds at all times that the delegatee would exercise the power in conformity with the duties imposed on the directors under this Act and the memorandum and articles of association of the company (if any); and
 
@@ -1048,7 +1050,9 @@ available for the appointment and the Labuan company concerned and such Labuan c
 
 (b) by substituting for subsection (4) the following subsection:
 
-“(4) A Labuan company not having a share capital shall lodge with the Authority a return in the prescribed form containing the particulars referred to in subsection (5) and made up in accordance with subsection (3).”;
+“(4) A Labuan company not having a share capital shall lodge with the Authority a return in the prescribed form containing the particulars referred to in subsection
+
+(5) and made up in accordance with subsection (3).”;
 
 (c) by substituting for subsection (5) the following subsection:
 
@@ -1860,7 +1864,7 @@ Provided that the liability, if any, of every officer and member of the Labuan c
 
 82. The principal Act is amended by inserting after section 131a of Part IX the following Part and heading:
 
-“Part X
+## “PART X
 
 ## MISCELLANEOUS”.
 

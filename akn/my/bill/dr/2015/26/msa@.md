@@ -112,7 +112,7 @@ terbang kecil (termasuklah lapangan terbang kecil air), lapangan helikopter, ban
 
 9. Akta ibu dipinda dengan memasukkan selepas Bahagian VIIIa bahagian yang berikut:
 
-“BahagIan VIIIB
+## “BAHAGIAN VIIIB
 
 ## PENGUATKUASAAN DAN PENYIASATAN
 

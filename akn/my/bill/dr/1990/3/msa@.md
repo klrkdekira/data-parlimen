@@ -10,7 +10,25 @@ Naskhah Sahih—Bahasa Malaysia
 
 ## SUSUNAN FASAL
 
-Tajuk 1. Tajuk ringkas. 2. Tafsiran. 3. Pemberian elaun kenangan. 4. Pemberhentian pemberian elaun kenangan. 5. Pemberian kepada wans kadim penerima jika Darjah Kebesaran dianugerahkan selepas kematian. 6. Pemberian kepada waris kadim penerima yang telah mati sebelum Akta mula berkuatkuasa. 7. Menteri mengagihkan amaun yang akan dibayar. 8. Elaun kenangan dan jumlah wang hendaklah di- pertanggungkan kepada Kumpulan Wang Disatukan Persekutuan. 9. Elaun kenangan dan jumlah wang tidak boleh diserahhak, dsb.
+Tajuk
+
+1. Tajuk ringkas.
+
+2. Tafsiran.
+
+3. Pemberian elaun kenangan.
+
+4. Pemberhentian pemberian elaun kenangan.
+
+5. Pemberian kepada wans kadim penerima jika Darjah Kebesaran dianugerahkan selepas kematian.
+
+6. Pemberian kepada waris kadim penerima yang telah mati sebelum Akta mula berkuatkuasa.
+
+7. Menteri mengagihkan amaun yang akan dibayar.
+
+8. Elaun kenangan dan jumlah wang hendaklah di- pertanggungkan kepada Kumpulan Wang Disatukan Persekutuan.
+
+9. Elaun kenangan dan jumlah wang tidak boleh diserahhak, dsb.
 
 <!-- page 3 -->
 
@@ -54,9 +72,7 @@ bawah Statut Seri Pahlawan Gagah Perkasa (S.P.);
 
 "Menteri" ertinya Perdana Menteri;
 
-'penerima" ertinya seseorang
-
-<!-- marginal: yang -->
+'penerima" ertinya seseorang yang
 
 <!-- marginal: telah -->
 
@@ -64,23 +80,37 @@ dianugerahkan Darjah Kebesaran;
 
 "suami" atau "isteri" ertinya balu atau duda penerima yang mati yang perkahwinannya diiktirafkan di Malaysia sebagai suatu perkahwinan yang sah di bawah mana-mana undang-undang bertulis, agama, adat atau kelaziman.
 
-Pemberian 3. (1) Maka bolehlah diberi kepada seorang penerima elaun suatu elaun kenangan sebanyak dua ratus ringgit kenangan. sebulan, dan jika Darjah Kebesaran dianugerahkan kepada penerima itu lebih daripada sekali, maka bolehlah diberi kepadanya suatu elaun kenangan berasingan sebanyak dua ratus
+<!-- marginal: Pemberian -->
 
-<!-- marginal: ringgit sebulan -->
+3. (1) Maka bolehlah diberi kepada seorang penerima
 
-berkenaan dengan setiap Darjah Kebesaran yang dianugerahkan kepadanya, dan elaun itu hendaklah dibayar secara tunggakan tidak awal dari penghujung setiap bulan.
+<!-- marginal: elaun -->
+
+suatu elaun kenangan sebanyak dua ratus ringgit
+
+<!-- marginal: kenangan. -->
+
+sebulan, dan jika Darjah Kebesaran dianugerahkan kepada penerima itu lebih daripada sekali, maka bolehlah diberi kepadanya suatu elaun kenangan berasingan sebanyak dua ratus ringgit sebulan berkenaan dengan setiap Darjah Kebesaran yang dianugerahkan kepadanya, dan elaun itu hendaklah dibayar secara tunggakan tidak awal dari penghujung setiap bulan.
 
 (2) Jika Darjah Kebesaran dianugerahkan sebelum mula berkuatkuasanya Akta ini dan penerima masih hidup pada tarikh kuatkuasa itu elaun kenangan hendaklah dibayar secara kebelakangan kepada penerima, mulai dari bulan Darjah Kebesaran itu dianugerahkan kepadanya, tetapi tidak boleh lebih awal, dalam apa-apa keadaan, dari bulan Jun 1983.
 
 (3) Jika Darjah Kebesaran dianugerahkan selepas mula berkuatkuasanya Akta ini, elaun kenangan hendaklah dibayar kepada penerima secara bulanan dengan tunggakan, mulai dari bulan bila Darjah Kebesaran itu dianugerahkan kepadanya.
 
-Peraberhen- 4. (1) Pemberian elaun kenangan
+<!-- marginal: Peraberhen- -->
 
-<!-- marginal: hendaklah -->
+4. (1) Pemberian elaun kenangan hendaklah
 
-tian pem- terhenti— berian elaun
+<!-- marginal: tian pem- -->
 
-(a) apabila penerima itu mati; kenangan.
+terhenti—
+
+<!-- marginal: berian -->
+
+<!-- marginal: elaun -->
+
+(a) apabila penerima itu mati;
+
+<!-- marginal: kenangan. -->
 
 (b) apabila penerima itu disabitkan bagi suatu kesalahan oleh mahkamah undang-undang di dalam Persekutuan dan dikenakan hukuman
 
@@ -148,9 +178,43 @@ anak-anak kepada penerima yang mati yang masih hidup pada tarikh mula berkuat- k
 
 (c) jika pada tarikh demikian tiada ibu atau bapa yang masih hidup, kepada datuk neneknya atau datuknya atau neneknya yang masih hidup pada tarikh demikian.
 
-Pemberian 6. Jika Darjah Kebesaran telah dianugerahkan kepada sebelum mula berkuatkuasanya Akta ini dan penerima waris telah mati sebelum tarikh kuatkuasa itu, maka bolehlah kadim penerima diberi suatu jumlah wang sebanyak dua puluh ribu yang telah ringgit hanya sekali— mati sebelum Akta mula
+<!-- marginal: Pemberian -->
 
-(a) kepada suami atau isteri atau isteri-isteri dan berkuat- anak-anak penerima yang mati yang masih kuasa. hidup pada tarikh mula berkuatkuasanya Akta ini;
+6. Jika Darjah Kebesaran telah dianugerahkan
+
+<!-- marginal: kepada -->
+
+sebelum mula berkuatkuasanya Akta ini dan penerima
+
+<!-- marginal: waris -->
+
+telah mati sebelum tarikh kuatkuasa itu, maka bolehlah
+
+<!-- marginal: kadim -->
+
+<!-- marginal: penerima -->
+
+diberi suatu jumlah wang sebanyak dua puluh ribu
+
+<!-- marginal: yang telah -->
+
+ringgit hanya sekali—
+
+<!-- marginal: mati -->
+
+<!-- marginal: sebelum -->
+
+<!-- marginal: Akta mula -->
+
+(a) kepada suami atau isteri atau isteri-isteri dan
+
+<!-- marginal: berkuat- -->
+
+anak-anak penerima yang mati yang masih
+
+<!-- marginal: kuasa. -->
+
+hidup pada tarikh mula berkuatkuasanya Akta ini;
 
 (b) jika pada tarikh demikian tiada suami atau isteri atau anak yang masih hidup, kepada ibu bapanya atau ibunya atau bapanya yang masih hidup pada tarikh demikian; atau
 

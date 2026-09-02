@@ -14,13 +14,33 @@ Suatu Akta untuk meminda Akta Paten 1983. [ ]
 
 oleh Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan Dewan Negara dan Dewan Rakyat yang bersidang dalam Parlimen, dan dengan kuasa daripadanya, seperti berikut:
 
-Tajuk
+<!-- marginal: Tajuk -->
 
-1. Akta ini bolehlah dinamakan Akta Paten (Pindaan) ringkas 1993 dan, tertakluk kepada subseksyen 45(2), hendaklah dan mula berkuat- mula berkuatkuasa pada tarikh yang ditetapkan oleh kuasa. Menteri melalui pemberitahuan dalam Warta, dan Menteri boleh menetapkan tarikh yang berlainan bagi mula berkuatkuasanya peruntukan-peruntukan yang berlainan dalam Akta ini.
+1. Akta ini bolehlah dinamakan Akta Paten (Pindaan)
 
-Pindaan
+<!-- marginal: ringkas -->
 
-2. Seksyen 3 Akta Paten 1983, yang disebut "Akta ibu" seksyen 3. dalam Akta ini, adalah dipinda— Akta 291.
+1993 dan, tertakluk kepada subseksyen 45(2), hendaklah
+
+<!-- marginal: dan mula -->
+
+<!-- marginal: berkuat- -->
+
+mula berkuatkuasa pada tarikh yang ditetapkan oleh
+
+<!-- marginal: kuasa. -->
+
+Menteri melalui pemberitahuan dalam Warta, dan Menteri boleh menetapkan tarikh yang berlainan bagi mula berkuatkuasanya peruntukan-peruntukan yang berlainan dalam Akta ini.
+
+<!-- marginal: Pindaan -->
+
+2. Seksyen 3 Akta Paten 1983, yang disebut "Akta ibu"
+
+<!-- marginal: seksyen 3. -->
+
+dalam Akta ini, adalah dipinda—
+
+<!-- marginal: Akta 291. -->
 
 (a) dengan memasukkan, selepas takrif "Daftar" takrif yang berikut:
 
@@ -30,19 +50,11 @@ Pindaan
 
 (b) dengan memasukkan, selepas takrif "hak", takrif yang berikut:
 
-"keluaran" ertinya apa-apabenda yang terdapat dalam bentukketara,
-
-<!-- marginal: dan -->
-
-termasuklah apa-apa radas, artikel, peranti, kelengkapan, kraftangan, alat, mesin, bahan dan komposisi;';
+"keluaran" ertinya apa-apabenda yang terdapat dalam bentukketara, dan termasuklah apa-apa radas, artikel, peranti, kelengkapan, kraftangan, alat, mesin, bahan dan komposisi;';
 
 (c) dengan memotong takrif "Menteri";
 
-(d) dengan memasukkan, selepas
-
-<!-- marginal: takrif -->
-
-"Pemeriksa", takrif yang berikut:
+(d) dengan memasukkan, selepas takrif "Pemeriksa", takrif yang berikut:
 
 ' "pemunya paten" atau "pemunya sesuatu paten" atau "pemunya suatu paten" ertinya orang yang pada masa ini direkodkan dalam Daftar sebagai penerima pemberian sesuatu paten;
 
@@ -60,11 +72,9 @@ termasuklah apa-apa radas, artikel, peranti, kelengkapan, kraftangan, alat, mesi
 
 <!-- page 3 -->
 
-<!-- marginal: Pindaan -->
+Pindaan
 
-3. Seksyen 4 Akta ibu adalah dipinda—
-
-<!-- marginal: seksyen 4. -->
+3. Seksyen 4 Akta ibu adalah dipinda— seksyen 4.
 
 (a) dengan menggantikan subseksyen (2) dengan subseksyen yang berikut:
 
@@ -92,15 +102,15 @@ termasuklah apa-apa radas, artikel, peranti, kelengkapan, kraftangan, alat, mesi
 
 (b) dalam subseksyen (3), dengan menggantikan perkataan ", selain dari anggota yang dilantik di bawah perenggan (b) atau (c)" dengan perkataan "yang dilantik di bawah perenggan (b), (g), (h) atau (i)".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-4. Seksyen 5 Akta ibu adalah dipinda— seksyen 5.
+4. Seksyen 5 Akta ibu adalah dipinda—
 
-(a) dalam subseksyen (1), dengan menggantikan perkataan ", selain dari anggota yang dilantik di bawah perenggan (a) subseksyen
+<!-- marginal: seksyen 5. -->
 
-<!-- marginal: (2) -->
+(a) dalam subseksyen (1), dengan menggantikan perkataan ", selain dari anggota yang dilantik di bawah perenggan (a) subseksyen (2) seksyen 4, Menteri boleh melantik seorang lain daripada kumpulan yang sama atau seorang lain yang mewakili kepentingan yang sama sebagai" dengan perkataan "yang dilantik di bawah perenggan (g), (h) atau (i) subseksyen
 
-seksyen 4, Menteri boleh melantik seorang lain daripada kumpulan yang sama atau seorang lain yang mewakili kepentingan yang sama sebagai" dengan perkataan "yang dilantik di bawah perenggan (g), (h) atau (i) subseksyen (2) seksyen 4, Menteri boleh melantik seorang lain yang mewakili kepentingan yang sama seperti";
+(2) seksyen 4, Menteri boleh melantik seorang lain yang mewakili kepentingan yang sama seperti";
 
 (b) dengan memasukkan, selepas subseksyen (1), subseksyen yang berikut: "(1A) Seorang lain daripada Kementerian atau badan yang sama seperti anggota yang dilantik di bawah perenggan (c), (d), (e), atau
 
@@ -118,7 +128,21 @@ seksyen 4, Menteri boleh melantik seorang lain daripada kumpulan yang sama atau 
 
 seksyen 10 dengan seksyen yang berikut:
 
-"Perkhid- 10. Maka hendaklah ada suatu perkhidmatan matan maklumat paten yang memberikan maklumat maklumat kepada orang ramai apabila fee yang paten. ditetapkan dibayar.".
+<!-- marginal: "Perkhid- -->
+
+10. Maka hendaklah ada suatu perkhidmatan
+
+<!-- marginal: matan -->
+
+maklumat paten yang memberikan maklumat
+
+<!-- marginal: maklumat -->
+
+kepada orang ramai apabila fee yang
+
+<!-- marginal: paten. -->
+
+ditetapkan dibayar.".
 
 <!-- marginal: Pindaan -->
 
@@ -128,15 +152,7 @@ seksyen 10 dengan seksyen yang berikut:
 
 (a) dalam subseksyen (2)—
 
-(i) dalam perenggan ( a ),
-
-<!-- marginal: dengan -->
-
-menggantikan perkataan
-
-<!-- marginal: "secara -->
-
-penyiaran bertulis atau, di Malaysia," dengan perkataan "secara penyiaran bertulis,";
+(i) dalam perenggan ( a ), dengan menggantikan perkataan "secara penyiaran bertulis atau, di Malaysia," dengan perkataan "secara penyiaran bertulis,";
 
 (ii) dengan memotong perkataan "tarikh pemfailan atau, di mana berkenaan," dalam perenggan
 
@@ -144,13 +160,11 @@ penyiaran bertulis atau, di Malaysia," dengan perkataan "secara penyiaran bertul
 
 (b) dengan memasukkan, selepas subseksyen (3), subseksyen yang berikut:
 
-"(4) Peruntukan-peruntukan subseksyen (2) tidak menyingkirkan kebolehpatenan apa- apa bahan atau komposisi, yang terkandung dalam ciptaan seni terdahulu, bagi kegunaan dalam kaedah yang disebut dalam perenggan
+"(4) Peruntukan-peruntukan subseksyen
 
-(d) subseksyen (1) seksyen 13,
+(2) tidak menyingkirkan kebolehpatenan apa- apa bahan atau komposisi, yang terkandung dalam ciptaan seni terdahulu, bagi kegunaan dalam kaedah yang disebut dalam perenggan
 
-<!-- marginal: jika -->
-
-kegunaannya dalam mana-mana kaedah sedemikian tidak terkandung dalam ciptaan seni terdahulu itu.".
+(d) subseksyen (1) seksyen 13, jika kegunaannya dalam mana-mana kaedah sedemikian tidak terkandung dalam ciptaan seni terdahulu itu.".
 
 <!-- marginal: Pindaan -->
 
@@ -160,21 +174,81 @@ kegunaannya dalam mana-mana kaedah sedemikian tidak terkandung dalam ciptaan sen
 
 seksyen 17 dengan seksyen yang berikut:
 
-"Takrif. 17. Bagi maksud-maksud Bahagian ini dan mana-mana peraturan yang dibuat di bawah Akta ini berhubungan dengan Bahagian ini, "perbaharuan utiliti" ertinya
+<!-- marginal: "Takrif. -->
 
-<!-- marginal: apa-apa -->
+17. Bagi maksud-maksud Bahagian ini dan mana-mana peraturan yang dibuat di bawah Akta ini berhubungan dengan Bahagian ini, "perbaharuan utiliti" ertinya apa-apa
 
 <!-- page 6 -->
 
 perbaharuan yang mewujudkan suatu keluaran atau proses baru, atau apa-apa perbaikan baru sesuatu keluaran atau proses yang sedia diketahui, yang boleh dibuat atau digunakan dalam apa-apa jenis industri, dan termasuklah sesuatu rekacipta.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-8. Subseksyen 17A(2) Akta ibu adalah dipinda dengan seksyen 17A. • memotong angka dan tanda baca "12,".
+8. Subseksyen 17A(2) Akta ibu adalah dipinda dengan
 
-9. Akta ibu adalah dipinda, dalam Bahagian IVA. baru 17B dengan memasukkan, selepas seksyen 1 7 A, seksyen dan 17c. yang berikut:
+<!-- marginal: seksyen 17A. -->
 
-Penukaran 17b. (1) Sesuatu permohonan bagi men- daripada dapatkan paten boleh ditukarkan menjadi suatu permo- honan bagi permohonan bagi mendapatkan perakuan bagi mendapat kan paten perbaharuan utiliti. menjadi permo honan bagi (2) Sesuatu permohonan bagi mendapatkan mendapat- perakuan bagi perbaharuan utiliti boleh kan perakuan ditukarkan menjadi suatu permohonan bagi bagi per- baharuan mendapatkan paten. utiliti, dan sebaliknya. (3) Sesuatu permintaan untuk menukarkan suatu permohonan bagi mendapatkan paten menjadi suatu permohonan bagi mendapatkan perakuan bagi perbaharuan utiliti atau untuk menukarkan suatu permohonan bagi mendapatkan perakuan bagi perbaharuan utiliti menjadi suatu permohonan bagi mendapatkan paten hendaklah difailkan oleh pemohon dan hendaklah mematuhi peraturan-peraturan yang dibuat di bawah Akta ini.
+• memotong angka dan tanda baca "12,".
+
+<!-- marginal: Seksyen -->
+
+9. Akta ibu adalah dipinda, dalam Bahagian IVA.
+
+<!-- marginal: baru 17B -->
+
+dengan memasukkan, selepas seksyen 1 7 A, seksyen
+
+<!-- marginal: dan 17c. -->
+
+yang berikut:
+
+<!-- marginal: Penukaran -->
+
+17b. (1) Sesuatu permohonan bagi men-
+
+<!-- marginal: daripada -->
+
+dapatkan paten boleh ditukarkan menjadi suatu
+
+<!-- marginal: permo- -->
+
+<!-- marginal: honan bagi -->
+
+permohonan bagi mendapatkan perakuan bagi
+
+<!-- marginal: mendapat -->
+
+<!-- marginal: kan paten -->
+
+perbaharuan utiliti.
+
+<!-- marginal: menjadi -->
+
+<!-- marginal: permo -->
+
+<!-- marginal: honan bagi -->
+
+(2) Sesuatu permohonan bagi mendapatkan
+
+<!-- marginal: mendapat- -->
+
+perakuan bagi perbaharuan utiliti boleh
+
+<!-- marginal: kan -->
+
+<!-- marginal: perakuan -->
+
+ditukarkan menjadi suatu permohonan bagi
+
+<!-- marginal: bagi per- -->
+
+<!-- marginal: baharuan -->
+
+mendapatkan paten.
+
+<!-- marginal: utiliti, dan -->
+
+sebaliknya. (3) Sesuatu permintaan untuk menukarkan suatu permohonan bagi mendapatkan paten menjadi suatu permohonan bagi mendapatkan perakuan bagi perbaharuan utiliti atau untuk menukarkan suatu permohonan bagi mendapatkan perakuan bagi perbaharuan utiliti menjadi suatu permohonan bagi mendapatkan paten hendaklah difailkan oleh pemohon dan hendaklah mematuhi peraturan-peraturan yang dibuat di bawah Akta ini.
 
 (4) Sesuatu permintaan bagi penukaran di bawah seksyen ini hendaklah difailkan tidak lewat daripada enam bulan dari tarikh Pendaftar memberitahu pemohon tentang laporan yang dibuat oleh Pemeriksa mengikut subseksyen (1) atau (2) seksyen 30.
 
@@ -182,37 +256,55 @@ Penukaran 17b. (1) Sesuatu permohonan bagi men- daripada dapatkan paten boleh di
 
 (5) Sesuatu permintaan bagi penukaran di bawah seksyen ini tidak boleh dilayani melainkan jika fee yang ditetapkan dibayar kepada Pendaftar.
 
-(6) Sesuatu permohonan yang
+(6) Sesuatu permohonan yang sudah ditukarkan hendaklah disifatkan telah difailkan pada masa permohonan asal difailkan.
 
-<!-- marginal: sudah -->
+<!-- marginal: Paten dan -->
 
-ditukarkan hendaklah disifatkan telah difailkan pada masa permohonan asal difailkan.
+17C (1) Jika seseorang pemohon bagi
 
-Paten dan 17C (1) Jika seseorang pemohon bagi perakuan mendapatkan paten telah juga— bagi per- baharuan utiliti
+<!-- marginal: perakuan -->
 
-(a) membuat permohonan bagi men- tidak boleh dapatkan perakuan bagi perbaharuan diberikan kedua- utiliti; atau duanya sekali
+mendapatkan paten telah juga—
 
-(b) diberi suatu perakuan
+<!-- marginal: bagi per- -->
 
-<!-- marginal: bagi -->
+<!-- marginal: baharuan -->
 
-bagi reka- cipta yang perbaharuan utiliti, sama.
+<!-- marginal: utiliti -->
+
+(a) membuat permohonan bagi men-
+
+<!-- marginal: tidak boleh -->
+
+dapatkan perakuan bagi perbaharuan
+
+<!-- marginal: diberikan -->
+
+<!-- marginal: kedua- -->
+
+utiliti; atau
+
+<!-- marginal: duanya -->
+
+<!-- marginal: sekali -->
+
+(b) diberi suatu perakuan bagi
+
+<!-- marginal: bagi reka- -->
+
+<!-- marginal: cipta yang -->
+
+perbaharuan utiliti,
+
+<!-- marginal: sama. -->
 
 dan hal perkara permohonan bagi mendapatkan paten itu adalah sama dengan hal perkara permohonan yang tersebut dalam perenggan
 
 (a) atau hal perkara perakuan yang tersebut dalam perenggan ( b ), paten tidak boleh diberikan sehinggalah permohonan yang tersebut dalam perenggan (a) ditarik balik atau perakuan yang tersebut dalam perenggan (b) diserahkan.
 
-(2) Jika seseorang pemohon
+(2) Jika seseorang pemohon bagi mendapatkan perakuan bagi perbaharuan utiliti telah juga—
 
-<!-- marginal: bagi -->
-
-mendapatkan perakuan bagi perbaharuan utiliti telah juga—
-
-(a) membuat permohonan
-
-<!-- marginal: bagi -->
-
-mendapatkan paten; atau
+(a) membuat permohonan bagi mendapatkan paten; atau
 
 (b) diberi suatu paten,
 
@@ -224,27 +316,39 @@ dan hal perkara permohonan bagi mendapatkan perakuan bagi perbaharuan utiliti it
 
 perakuan bagi perbaharuan utiliti tidak boleh diberikan sehinggalah permohonan yang tersebut dalam perenggan (a) ditarik balik atau paten yang tersebut dalam perenggan (b) diserahkan.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-10. Seksyen 18 Akta ibu adalah dipinda dengan seksyen 18. memasukkan, selepas subseksyen (3), subseksyen yang berikut:
+10. Seksyen 18 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 18. -->
+
+memasukkan, selepas subseksyen (3), subseksyen yang berikut:
 
 "(4) Jika dua orang atau lebih telah membuat rekacipta yang sama secara berasingan dan bebas, dan setiap seorang daripada mereka telah membuat permohonan bagi mendapatkan paten, hak mendapatkan paten bagi rekacipta itu hendaklah dipunyai oleh orang yang permohonannya mempunyai tarikh prioriti yang paling awal sekali.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-11. Teks bahasa Inggeris bagi seksyen 19 Akta ibu seksyen 19. adalah dipinda, dalam proviso kepada seksyen itu, dengan memotong perkataan "also".
+11. Teks bahasa Inggeris bagi seksyen 19 Akta ibu
 
-Pindaan
+<!-- marginal: seksyen 19. -->
 
-12. Akta ibu adalah dipinda dengan menggantikan seksyen 25 seksyen 25 dengan seksyen yang berikut:
+adalah dipinda, dalam proviso kepada seksyen itu, dengan memotong perkataan "also".
 
-Penarikan
+<!-- marginal: Pindaan -->
 
-25. Seseorang pemohon boleh menarik balik balik permohonannya pada bila-bila masa sementara permo- honan. menanti keputusan permohonan itu dengan mengemukakan suatu akuan dalam borang yang ditetapkan kepada Pendaftar, dan penarikan balik itu tidak boleh dibatalkan.".
+12. Akta ibu adalah dipinda dengan menggantikan
 
-Pindaan
+<!-- marginal: seksyen 25 -->
 
-13. Seksyen 26B Akta ibu adalah dipinda— seksyen 26B.
+seksyen 25 dengan seksyen yang berikut:
+
+Penarikan 25. Seseorang pemohon boleh menarik balik balik permohonannya pada bila-bila masa sementara permo- honan. menanti keputusan permohonan itu dengan mengemukakan suatu akuan dalam borang yang ditetapkan kepada Pendaftar, dan penarikan balik itu tidak boleh dibatalkan.".
+
+<!-- marginal: Pindaan -->
+
+13. Seksyen 26B Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 26B. -->
 
 (a) dalam subseksyen (1), dengan memasukkan, selepas perkataan "boleh", perkataan "dalam masa yang ditetapkan";
 
@@ -252,9 +356,11 @@ Pindaan
 
 <!-- page 9 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-14.Seksyen 27 Akta ibu adalah di pinda seksyen 27.
+14.Seksyen 27 Akta ibu adalah di pinda
+
+<!-- marginal: seksyen 27. -->
 
 (a) dalam subseksyen (1)—
 
@@ -272,39 +378,95 @@ Pindaan
 
 (d) dalam teks bahasa kebangsaan, dengan menggantikan perkataan "penetapan" di mana- mana juga terdapat dengan perkataan "akuan".
 
-15. Akta ibu adalah dipinda dengan memasukkan, baru 27A. selepas seksyen 27, seksyen yang berikut:
+<!-- marginal: Seksyen -->
 
-"Tarikh
+15. Akta ibu adalah dipinda dengan memasukkan,
 
-27A. (1) Tertakluk kepada subseksyen (2), prioriti tarikh prioriti sesuatu permohonan bagi mendapatkan paten ialah tarikh pemfailan permohonan itu.
+<!-- marginal: baru 27A. -->
+
+selepas seksyen 27, seksyen yang berikut:
+
+<!-- marginal: "Tarikh -->
+
+27A. (1) Tertakluk kepada subseksyen (2),
+
+<!-- marginal: prioriti -->
+
+tarikh prioriti sesuatu permohonan bagi mendapatkan paten ialah tarikh pemfailan permohonan itu.
 
 <!-- page 10 -->
 
 (2) Jika sesuatu permohonan mengandungi akuan yang tersebut dalam seksyen 27, maka tarikh prioriti permohonan itu hendaklah tarikh pemfailan permohonan yang paling awal sekali vane prioritinya dituntut dalam akuan itu.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-16. Akta ibu adalah dipinda dengan menggantikan seksyen 29. seksyen 29 dengan seksyen yang berikut; Pemerik- 29. (1) Jika sesuatu permohonan bagi saan mendapatkan paten mempunyai
+16. Akta ibu adalah dipinda dengan menggantikan
 
-<!-- marginal: tarikh -->
+<!-- marginal: seksyen 29. -->
 
-permulaan. pemfailan dan tidak ditarik balik, Pendaftar hendaklah memeriksa permohonan itu dan memutuskan sama ada ia mematuhi kehendak- kehendak Akta ini dan peraturan-peraturan yang dibuat di bawah Akta ini yang telah ditentukan oleh peraturan-peraturan itu sebagai kehendak-kehendak formal bagi maksud- maksud Akta ini.
+seksyen 29 dengan seksyen yang berikut;
 
-(2) Jika Pendaftar, hasil daripada pemeriksaan di bawah subseksyen
+<!-- marginal: Pemerik- -->
 
-<!-- marginal: (1), -->
+29. (1) Jika sesuatu permohonan bagi
 
-mendapati bahawa tidak semua kehendak formal telah dipatuhi, dia hendaklah memberikan peluang kepada pemohon untuk memberikan apa-apa pandangan
+<!-- marginal: saan -->
 
-<!-- marginal: tentang -->
+mendapatkan paten mempunyai tarikh
 
-dapatan itu dan untuk meminda permohonan itu dalam tempoh yang ditetapkan supaya kehendak-kehendak itu dipatuhi, dan jika pemohon tidak berbuat demikian, Pendaftar boleh menolak permohonan itu.".
+<!-- marginal: permulaan. -->
 
-17. Akta ibu adalah dipinda dengan memasukkan, baru 29A. selepas seksyen 29, seksyen yang berikut:
+pemfailan dan tidak ditarik balik, Pendaftar hendaklah memeriksa permohonan itu dan memutuskan sama ada ia mematuhi kehendak- kehendak Akta ini dan peraturan-peraturan yang dibuat di bawah Akta ini yang telah ditentukan oleh peraturan-peraturan itu sebagai kehendak-kehendak formal bagi maksud- maksud Akta ini.
 
-"nPermin- 29A. (1) Jika sesuatu permohonan bagi taan bagi mendapatkan paten sudah diperiksa di bawah pemerik- saan seksyen 29 dan tidak ditarik balik atau ditolak, substantif pemohon hendaklah memfailkan, dalam atau pemerik- tempoh yang ditetapkan, suatu permintaan bagi saan pemeriksaan substantif permohonan itu. substantif yang diubah- (2) Jika suatu paten atau hakmilik lain bagi suaikan. perlindungan harta perindustrian
+(2) Jika Pendaftar, hasil daripada pemeriksaan di bawah subseksyen (1), mendapati bahawa tidak semua kehendak formal telah dipatuhi, dia hendaklah memberikan peluang kepada pemohon untuk memberikan apa-apa pandangan tentang dapatan itu dan untuk meminda permohonan itu dalam tempoh yang ditetapkan supaya kehendak-kehendak itu dipatuhi, dan jika pemohon tidak berbuat demikian, Pendaftar boleh menolak permohonan itu.".
 
-<!-- marginal: telah -->
+<!-- marginal: Seksyen -->
+
+17. Akta ibu adalah dipinda dengan memasukkan,
+
+<!-- marginal: baru 29A. -->
+
+selepas seksyen 29, seksyen yang berikut:
+
+<!-- marginal: "nPermin- -->
+
+29A. (1) Jika sesuatu permohonan bagi
+
+<!-- marginal: taan bagi -->
+
+mendapatkan paten sudah diperiksa di bawah
+
+<!-- marginal: pemerik- -->
+
+<!-- marginal: saan -->
+
+seksyen 29 dan tidak ditarik balik atau ditolak,
+
+<!-- marginal: substantif -->
+
+pemohon hendaklah memfailkan, dalam
+
+<!-- marginal: atau -->
+
+<!-- marginal: pemerik- -->
+
+tempoh yang ditetapkan, suatu permintaan bagi
+
+<!-- marginal: saan -->
+
+pemeriksaan substantif permohonan itu.
+
+<!-- marginal: substantif -->
+
+<!-- marginal: yang -->
+
+<!-- marginal: diubah- -->
+
+(2) Jika suatu paten atau hakmilik lain bagi
+
+<!-- marginal: suaikan. -->
+
+perlindungan harta perindustrian telah
 
 <!-- page 11 -->
 
@@ -352,9 +514,37 @@ pada masa tempoh yang ditetapkan bagi pemfailan permintaan di bawah subseksyen (
 
 seksyen 30 dengan seksyen yang berikut:
 
-Pemerik-
+<!-- marginal: Pemerik- -->
 
-30. (1) Jika suatu permintaan bagi saan pemeriksaan substantif telah difailkan substantif dan di bawah subseksyen (1) seksyen 29A, pemerik- Pendaftar hendaklah merujukkan permohonan saan substantif itu kepada seorang Pemeriksa yang yang diubah- hendaklah— suaikan.
+30. (1) Jika suatu permintaan bagi
+
+<!-- marginal: saan -->
+
+pemeriksaan substantif telah difailkan
+
+<!-- marginal: substantif -->
+
+<!-- marginal: dan -->
+
+di bawah subseksyen (1) seksyen 29A,
+
+<!-- marginal: pemerik- -->
+
+Pendaftar hendaklah merujukkan permohonan
+
+<!-- marginal: saan -->
+
+<!-- marginal: substantif -->
+
+itu kepada seorang Pemeriksa yang
+
+<!-- marginal: yang -->
+
+<!-- marginal: diubah- -->
+
+hendaklah—
+
+<!-- marginal: suaikan. -->
 
 (a) memutuskan sama ada permohonan itu mematuhi kehendak-kehendak Akta ini dan peraturan-peraturan yang dibuat di bawah Akta ini yang ditentukan oleh peraturan-peraturan itu sebagai kehendak-kehendak substantif bagi maksud-maksud Akta ini; dan
 
@@ -362,7 +552,9 @@ Pemerik-
 
 <!-- page 14 -->
 
-(3) Jika Pemeriksa, mengikut subseksyen (1) atau (2), melaporkan bahawa mana-mana kehendak yang disebut dalam subseksyen (1) atau (2), mengikut mana-mana yang berkenaan, tidak dipatuhi, Pendaftar hendaklah memberi pemohon suatu peluang untuk memberikan pandangan tentang laporan itu dan untuk meminda permohonan itu supaya kehendak-kehendak itu dipatuhi dalam tempoh yang ditetapkan, dan jika pemohon tidak memuaskan hati Pendaftar bahawa kehendak- kehendak itu dipatuhi, atau tidak meminda permohonan itu supaya kehendak-kehendak itu dipatuhi, Pendaftar boleh menolak per- mohonan itu.
+(3) Jika Pemeriksa, mengikut subseksyen
+
+(1) atau (2), melaporkan bahawa mana-mana kehendak yang disebut dalam subseksyen (1) atau (2), mengikut mana-mana yang berkenaan, tidak dipatuhi, Pendaftar hendaklah memberi pemohon suatu peluang untuk memberikan pandangan tentang laporan itu dan untuk meminda permohonan itu supaya kehendak-kehendak itu dipatuhi dalam tempoh yang ditetapkan, dan jika pemohon tidak memuaskan hati Pendaftar bahawa kehendak- kehendak itu dipatuhi, atau tidak meminda permohonan itu supaya kehendak-kehendak itu dipatuhi, Pendaftar boleh menolak per- mohonan itu.
 
 (4) Pendaftar boleh membenarkan perlanjutan tempoh yang ditetapkan yang disebut dalam subseksyen (3) tetapi perlanjutan itu boleh dibenarkan hanya sekali sahaja dan tiada perlanjutan boleh dibenarkan selepas itu di bawah peruntukan-peruntukan seksyen 82.
 
@@ -398,35 +590,59 @@ permohonan bagi mendapatkan paten dan permohonan-permohonan itu mempunyai tarikh
 
 (c) dalam perenggan (3)(b), dengan memotong perkataan "bersama-sama dengan salinan- salinan laporan carian".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-20. Akta ibu adalah dipinda dengan menggantikan seksyen 32. seksyen 32 dengan seksyen yang berikut:
+20. Akta ibu adalah dipinda dengan menggantikan
 
-"Daftar
+<!-- marginal: seksyen 32. -->
 
-32. (1) Pendaftar hendaklah menyimpan dan Paten. menyenggara suatu daftar yang dinamakan Daftar Paten.
+seksyen 32 dengan seksyen yang berikut:
+
+"Daftar 32. (1) Pendaftar hendaklah menyimpan dan Paten. menyenggara suatu daftar yang dinamakan Daftar Paten.
 
 (2) Daftar Paten hendaklah mengandungi segala perkara dan butir yang ditetapkan berhubungan dengan paten.
 
 (3) Daftar Paten hendaklah disimpan dalam bentuk dan atas bahantara yang ditetapkan.".
 
-21. Akta ibu adalah dipinda dengan memasukkan, baru 32A. selepas seksyen 32, seksyen yang berikut:
+<!-- marginal: Seksyen -->
 
-Notis
+21. Akta ibu adalah dipinda dengan memasukkan,
 
-32A. Notis mengenai sesuatu amanah, yang mengenai nyata, tersirat atau konstruktif, tidak boleh amanah tidak boleh dimasukkan ke dalam Daftar atau disetuju- didaftarkan. 'terima oleh Pendaftar.".
+<!-- marginal: baru 32A. -->
 
-22. Akta ibu adalah dipinda dengan memasukkan, baru 3 3A, selepas seksyen 33, seksyen yang berikut: 33B dan 33c.
+selepas seksyen 32, seksyen yang berikut:
 
-Salinan
+Notis 32A. Notis mengenai sesuatu amanah, yang mengenai nyata, tersirat atau konstruktif, tidak boleh amanah tidak boleh dimasukkan ke dalam Daftar atau disetuju- didaftarkan. 'terima oleh Pendaftar.".
 
-33A. (1) Daftar hendaklah menjadi kete- diperakui rangan prima facie tentang segala perkara yang atau cabutan dikehendaki atau yang dibenarkan dicatatkan diperakui daripada dalamnya oleh Akta ini. Daftar, dsb. boleh diterima (2) Salinan-salinan atau cabutan-cabutan sebagai keterangan daripada Daftar, atau salinan-salinan atau dalam mahkamah. cabutan-cabutan daripada apa-apa dokumen
+<!-- marginal: Seksyen -->
+
+22. Akta ibu adalah dipinda dengan memasukkan,
+
+<!-- marginal: baru 3 3A, -->
+
+selepas seksyen 33, seksyen yang berikut:
+
+<!-- marginal: 33B dan 33c. -->
+
+Salinan 33A. (1) Daftar hendaklah menjadi kete- diperakui rangan prima facie tentang segala perkara yang atau cabutan dikehendaki atau yang dibenarkan dicatatkan diperakui daripada dalamnya oleh Akta ini. Daftar, dsb. boleh diterima (2) Salinan-salinan atau cabutan-cabutan sebagai keterangan daripada Daftar, atau salinan-salinan atau dalam mahkamah. cabutan-cabutan daripada apa-apa dokumen
 
 <!-- page 17 -->
 
 atau penerbitan di Pejabat Pendaftaran Paten, boleh diterima sebagai keterangan dalam semua mahkamah tanpa bukti selanjutnya atau tanpa pengemukaan Daftar, dokumen atau penerbitan yang asal jika salinan atau cabutan itu diperakui oleh Pendaftar secara bertulis di bawah tandatangannya.
 
-Pindaan- 33s. (1) Pendaftar boleh, atas permintaan pindaan yang dibuat oleh pemunya paten mengikut cara kepada Daftar. yang ditetapkan, meminda Daftar—
+<!-- marginal: Pindaan- -->
+
+33s. (1) Pendaftar boleh, atas permintaan
+
+<!-- marginal: pindaan -->
+
+yang dibuat oleh pemunya paten mengikut cara
+
+<!-- marginal: kepada -->
+
+<!-- marginal: Daftar. -->
+
+yang ditetapkan, meminda Daftar—
 
 (a) dengan membetulkan apa-apa kesilapan nama atau alamat pemunya paten itu; atau
 
@@ -444,7 +660,27 @@ Pindaan- 33s. (1) Pendaftar boleh, atas permintaan pindaan yang dibuat oleh pemu
 
 ## RANG UNDANG-UNDANG
 
-Mahkamah 33c. (1) Mahkamah boleh, atas permohonan boleh mana-mana orang yang terkilan, memerintah- meme- rintahkan kan supaya Daftar dibetulkan dengan supaya mengarahkan— Daftar dibetulkan.
+<!-- marginal: Mahkamah -->
+
+33c. (1) Mahkamah boleh, atas permohonan
+
+<!-- marginal: boleh -->
+
+mana-mana orang yang terkilan, memerintah-
+
+<!-- marginal: meme- -->
+
+<!-- marginal: rintahkan -->
+
+kan supaya Daftar dibetulkan dengan
+
+<!-- marginal: supaya -->
+
+mengarahkan—
+
+<!-- marginal: Daftar -->
+
+<!-- marginal: dibetulkan. -->
 
 (a) pembuatan apa-apa catatan yang ditinggalkan dengan salah daripada Daftar;
 
@@ -454,11 +690,7 @@ Mahkamah 33c. (1) Mahkamah boleh, atas permohonan boleh mana-mana orang yang ter
 
 (2) Notis tentang tiap-tiap permohonan di bawah seksyen ini hendaklah disampaikan kepada Pendaftar yang hendaklah mempunyai hak untuk nadir dan didengar, dan yang hendaklah nadir jika diarahkan sedemikian oleh Mahkamah.
 
-(3) Melainkan jika diarahkan selainnya oleh Mahkamah, Pendaftar, sebagai ganti hadir dan didengar, boleh mengemukakan
-
-<!-- marginal: suatu -->
-
-pernyataan bertulis yang ditandatanganinya kepada Mahkamah—
+(3) Melainkan jika diarahkan selainnya oleh Mahkamah, Pendaftar, sebagai ganti hadir dan didengar, boleh mengemukakan suatu pernyataan bertulis yang ditandatanganinya kepada Mahkamah—
 
 (a) yang memberikan butir-butir berhubungan dengan perkara yang menjadi isu;
 
@@ -466,11 +698,7 @@ pernyataan bertulis yang ditandatanganinya kepada Mahkamah—
 
 (c) tentang amalan Pejabat Pendaftaran Paten dalam kes-kes yang serupa; atau
 
-(d) tentang perkara-perkara lain yang relevan dengan isu-isu itu dan yang dalam pengetahuannya
-
-<!-- marginal: sebagai -->
-
-Pendaftar, sebagaimana yang difikir- kannya patut,
+(d) tentang perkara-perkara lain yang relevan dengan isu-isu itu dan yang dalam pengetahuannya sebagai Pendaftar, sebagaimana yang difikir- kannya patut,
 
 <!-- page 19 -->
 
@@ -498,9 +726,23 @@ dan pernyataan itu hendaklah disifatkan menjadi sebahagian daripada keterangan d
 
 memasukkan, selepas seksyen 35, seksyen yang berikut:
 
-Penghi-
+<!-- marginal: Penghi- -->
 
-35A. (1) Dalam masa dua tahun dari tarikh dupan sesuatu notis tentang luputnya sesuatu paten semula paten disiarkan dalam Warta— yang luput.
+35A. (1) Dalam masa dua tahun dari tarikh
+
+<!-- marginal: dupan -->
+
+sesuatu notis tentang luputnya sesuatu paten
+
+<!-- marginal: semula -->
+
+<!-- marginal: paten -->
+
+disiarkan dalam Warta—
+
+<!-- marginal: yang -->
+
+<!-- marginal: luput. -->
 
 (a) pemunya paten itu atau penggantinya dalam hakmilik; atau
 
@@ -514,25 +756,13 @@ boleh memohon kepada Pendaftar dalam borang yang ditetapkan supaya paten itu dih
 
 (a) apabila dibayar semua fee tahunan yang terhutang dan surcaj yang ditetapkan bagi penghidupan semula; dan
 
-(b) apabila dia berpuas hati bahawa fee tahunan itu tidak dibayar dengan tak sengaja, kerana silap atau kerana apa- apa sebab lain yang
-
-<!-- marginal: tak dapat -->
-
-diramalkan.
+(b) apabila dia berpuas hati bahawa fee tahunan itu tidak dibayar dengan tak sengaja, kerana silap atau kerana apa- apa sebab lain yang tak dapat diramalkan.
 
 (3) Jika Pendaftar menghidupkan semula sesuatu paten yang luput, dia hendaklah menyebabkan notis mengenai penghidupan semula itu disiarkan dalam Warta.
 
 (4) Penghidupan semula sesuatu paten yang luput tidaklah menjejaskan hak-hak yang diperolehi oleh pihak-pihak ketiga selepas diberitahu dalam Warta bahawa paten itu telah luput dan sebelum diberitahu dalam Warta bahawa paten itu telah dihidupkan semula.
 
-(5) Menteri boleh membuat peraturan- peraturan untuk mengadakan peruntukan bagi perlindungan atau pampasan orang-orang yang telah mengeksploit atau yang telah mengambil langkah-langkah pasti, melalui kontrak atau selainnya, untuk mengeksploit sesuatu paten selepas diberitahu dalam Warta bahawa paten itu telah luput dan sebelum diberitahu dalam Warta bahawa paten itu telah dihidupkan semula, tetapi apa-apa
-
-<!-- marginal: perlindungan -->
-
-sedemikian tidak boleh meliputi lebih daripada apa-apa eksploitasi paten yang luput itu yang telah digunakan oleh orang-orang itu atau yang, untuk menggunakannya,
-
-<!-- marginal: langkah- -->
-
-langkah yang pasti telah diambil oleh orang- orang itu.
+(5) Menteri boleh membuat peraturan- peraturan untuk mengadakan peruntukan bagi perlindungan atau pampasan orang-orang yang telah mengeksploit atau yang telah mengambil langkah-langkah pasti, melalui kontrak atau selainnya, untuk mengeksploit sesuatu paten selepas diberitahu dalam Warta bahawa paten itu telah luput dan sebelum diberitahu dalam Warta bahawa paten itu telah dihidupkan semula, tetapi apa-apa perlindungan sedemikian tidak boleh meliputi lebih daripada apa-apa eksploitasi paten yang luput itu yang telah digunakan oleh orang-orang itu atau yang, untuk menggunakannya, langkah- langkah yang pasti telah diambil oleh orang- orang itu.
 
 <!-- page 21 -->
 
@@ -598,11 +828,15 @@ adalah dipinda—
 
 (b) dalam perenggan (b), dengan menggantikan perkataan "dikemukakan" dengan perkataan "dikeluarkan".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-30. Subseksyen 49A(1) Akta ibu adalah dipinda dengan seksyen 49A. memotong perkataan "tarikh pemfailan yang lebih awal atau, di mana berkenaan,".
+30. Subseksyen 49A(1) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 49A. -->
+
+memotong perkataan "tarikh pemfailan yang lebih awal atau, di mana berkenaan,".
+
+<!-- marginal: Pindaan -->
 
 31. Teks bahasa kebangsaan Bahagian XI Akta ibu
 
@@ -610,19 +844,27 @@ Pindaan
 
 adalah dipinda dengan menggantikan perkataan "PEMBATALAN", "Pembatalan", "pembatalan", "membatalkan", "dibatalkan" dan "terbatal" masing- masingnya dengan perkataan "PENTAKSAHAN", "Pentaksahan", "pentaksahan", "mentaksahkan", "ditaksahkan" dan "tak sah".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-32. Seksyen 56 Akta ibu adalah dipinda— seksyen 56.
+32. Seksyen 56 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 56. -->
 
 (a) dalam subseksyen (2)—
 
-(i) dengan memotong perkataan "atau" di akhir perenggan (c); (ii) dengan menggantikan noktah bertindih di akhir perenggan (d) dengan perkataan "; atau";
-
-(iii) dengan memasukkan, selepas perenggan
+(i) dengan memotong perkataan "atau" di akhir perenggan (c); (ii) dengan menggantikan noktah bertindih di akhir perenggan (d) dengan perkataan "; atau"; (iii) dengan memasukkan, selepas perenggan
 
 (d), perenggan yang berikut:
 
-"(e) bahawa maklumat yang tak lengkap atau tak betul telah sengaja diberikan atau disebabkan supaya diberikan kepada Pendaftar di bawah subseksyen (4) seksyen 29A oleh orang yang kepadanya paten telah diberikan atau oleh ejennya,"; dan
+"(e) bahawa maklumat yang
+
+<!-- marginal: tak -->
+
+lengkap atau tak betul telah sengaja diberikan
+
+<!-- marginal: atau -->
+
+disebabkan supaya diberikan kepada Pendaftar di bawah subseksyen (4) seksyen 29A oleh orang yang kepadanya paten telah diberikan atau oleh ejennya,"; dan
 
 (iv) dengan memotong proviso; dan
 
@@ -634,7 +876,11 @@ Pindaan
 
 (b) dengan memasukkan, selepas subseksyen (2), subseksyen yang berikut:
 
-"(2A) Walau apa pun subseksyen (2), Mahkamah tidak boleh mentaksahkan paten atas alasan yang tersebut dalam perenggan (d) subseksyen (2) jika paten itu telah diserahhakkan kepada orang yang mempunyai hak untuk mendapat paten itu.".
+"(2A) Walau apa pun subseksyen (2), Mahkamah tidak boleh mentaksahkan paten atas alasan yang tersebut dalam perenggan (d) subseksyen (2) jika paten itu
+
+<!-- marginal: telah -->
+
+diserahhakkan kepada orang yang mempunyai hak untuk mendapat paten itu.".
 
 <!-- marginal: Pindaan -->
 
@@ -652,7 +898,11 @@ menggantikan perkataan "dibatalkan" dengan perkataan "ditaksahkan".
 
 dipinda—
 
-(a) dalam nota birai, dengan menggantikan perkataan "di mana paten telah digunakan" dengan perkataan "bahawa paten telah dipohon";
+(a) dalam nota birai, dengan menggantikan perkataan "di mana paten telah digunakan" dengan perkataan "bahawa paten
+
+<!-- marginal: telah -->
+
+dipohon";
 
 (b) dalam subseksyen (1), dengan menggantikan perkataan "digunakan" dengan perkataan "dipohon"; dan
 
@@ -680,17 +930,65 @@ adalah dipinda dengan menggantikan perkataan "dalam pembicaraan" dengan perkataa
 
 <!-- page 24 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-37. Akta ibu adalah dipinda dengan menggantikan seksyen 79. seksyen 79 dengan seksyen yang berikut:
+37. Akta ibu adalah dipinda dengan menggantikan
 
-Kuasa 79. (1) Pendaftar boleh, atas permintaan Pendaftar seseorang pemohon bagi mendapatkan paten untuk meminda yang dibuat mengikut peraturan-peraturan permo- yang dibuat di bawah Akta ini, meminda honan paten permohonan paten pemohon itu atau apa-apa dokumen yang dikemukakan di Pejabat Pendaftaran Paten berkaitan dengan permohonan itu, bagi maksud membetulkan salah tulis atau kesalahan ketara.
+<!-- marginal: seksyen 79. -->
+
+seksyen 79 dengan seksyen yang berikut:
+
+<!-- marginal: Kuasa -->
+
+79. (1) Pendaftar boleh, atas permintaan
+
+<!-- marginal: Pendaftar -->
+
+seseorang pemohon bagi mendapatkan paten
+
+<!-- marginal: untuk -->
+
+<!-- marginal: meminda -->
+
+yang dibuat mengikut peraturan-peraturan
+
+<!-- marginal: permo- -->
+
+yang dibuat di bawah Akta ini, meminda
+
+<!-- marginal: honan -->
+
+<!-- marginal: paten -->
+
+permohonan paten pemohon itu atau apa-apa dokumen yang dikemukakan di Pejabat Pendaftaran Paten berkaitan dengan permohonan itu, bagi maksud membetulkan salah tulis atau kesalahan ketara.
 
 (2) Tiap-tiap permintaan di bawah subseksyen (1) hendaklah disertakan dengan fee yang ditetapkan.".
 
-38. Akta ibu adalah dipinda dengan memasukkan, baru 79A. selepas seksyen 79, seksyen yang berikut:
+<!-- marginal: Seksyen -->
 
-Kuasa 79A. (1) Pendaftar boleh, atas permintaan Pendaftar pemunya sesuatu paten yang dibuat mengikut untuk meminda peraturan-peraturan yang dibuat di bawah Akta paten. ini, meminda perihalan, tuntutan atau tuntutan- tuntutan, atau lukisan-lukisan, paten itu, atau meminda apa-apa dokumen lain yang berkaitan dengan paten itu, bagi maksud membetulkan salah tulis atau kesalahan ketara atau atas apa- apa sebab lain yang dapat diterima oleh Pendaftar.
+38. Akta ibu adalah dipinda dengan memasukkan,
+
+<!-- marginal: baru 79A. -->
+
+selepas seksyen 79, seksyen yang berikut:
+
+<!-- marginal: Kuasa -->
+
+79A. (1) Pendaftar boleh, atas permintaan
+
+<!-- marginal: Pendaftar -->
+
+pemunya sesuatu paten yang dibuat mengikut
+
+<!-- marginal: untuk -->
+
+<!-- marginal: meminda -->
+
+peraturan-peraturan yang dibuat di bawah Akta
+
+<!-- marginal: paten. -->
+
+ini, meminda perihalan, tuntutan atau tuntutan- tuntutan, atau lukisan-lukisan, paten itu, atau meminda apa-apa dokumen lain yang berkaitan dengan paten itu, bagi maksud membetulkan salah tulis atau kesalahan ketara atau atas apa- apa sebab lain yang dapat diterima oleh Pendaftar.
 
 (2) Pendaftar tidak boleh membuat pindaan di bawah seksyen ini jika pindaan itu akan mengakibatkan terzahirnya sesuatu perkara yang melebihi apa yang telah dizahirkan sebelum pindaan itu atau jika pindaan itu akan mengakibatkan perluasan perlindungan yang diberikan pada masa paten itu diberikan.
 
@@ -700,7 +998,11 @@ Kuasa 79A. (1) Pendaftar boleh, atas permintaan Pendaftar pemunya sesuatu paten 
 
 (4) Tiap-tiap permintaan di bawah sub- seksyen (1) hendaklah disertakan dengan fee yang ditetapkan.
 
-(5) Walau apa pun subseksyen (4), tiada fee kena dibayar oleh pemunya paten berkenaan dengan sesuatu permintaan untuk membetulkan apa-apa kesalahan atau kesiiapan dalam apa-apa dokumen yang dikeluarkan oleh Pejabat Pendaftaran Paten melainkan jika kesalahan atau kesiiapan itu disebabkan atau turut disebabkan oleh pemunya itu.".
+(5) Walau apa pun subseksyen (4), tiada fee kena dibayar oleh pemunya paten berkenaan dengan sesuatu permintaan
+
+<!-- marginal: untuk -->
+
+membetulkan apa-apa kesalahan atau kesiiapan dalam apa-apa dokumen yang dikeluarkan oleh Pejabat Pendaftaran Paten melainkan jika kesalahan atau kesiiapan itu disebabkan atau turut disebabkan oleh pemunya itu.".
 
 <!-- marginal: Pindaan -->
 
@@ -744,19 +1046,35 @@ adalah dipinda dengan memotong perkataan "yang sebaliknya".
 
 <!-- page 26 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-43. Subseksyen 86(5) Akta ibu adalah dipinda dengan seksyen 86. memotong perkataan "atau memulakan atau hadir dalam sesuatu guaman".
+43. Subseksyen 86(5) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 86. -->
 
-44. Perenggan 8 7( 2 ) ( e) Akta ibu adalah dipinda dengan seksyen 87 menggantikan perkataan "pendaftaran" dengan perkataan "bagi mendapatkan".
+memotong perkataan "atau memulakan atau hadir dalam sesuatu guaman".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-45. (1) Seksyen 89 Akta ibu adalah dipinda dengan seksyen 89. menggantikan perenggan (c) dengan perenggan yang berikut:
+44. Perenggan 8 7( 2 ) ( e) Akta ibu adalah dipinda dengan
 
-"(c) apa-apa perakuan atau pemberian yang dikeluarkan atau dibuat, berkenaan dengan sesuatu paten, di bawah undang-undang yang dimansuhkan dan yang berkuatkuasa sebelum sahaja mula berkuatkuasanya Akta ini hendaklah terus berkuatkuasa—
+<!-- marginal: seksyen 87 -->
+
+menggantikan perkataan "pendaftaran" dengan perkataan "bagi mendapatkan".
+
+<!-- marginal: Pindaan -->
+
+45. (1) Seksyen 89 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 89. -->
+
+menggantikan perenggan (c) dengan perenggan yang berikut:
+
+"(c) apa-apa perakuan atau pemberian yang dikeluarkan atau dibuat, berkenaan dengan sesuatu paten, di bawah undang-undang yang dimansuhkan dan yang berkuatkuasa sebelum sahaja mula berkuatkuasanya Akta
+
+<!-- marginal: ini -->
+
+hendaklah terus berkuatkuasa—
 
 (i) selania paten yang asal berkuatkuasa di United Kingdom; atau (ii) sehingga habis tempoh dua puluh tahun dari tarikh permohonan,
 
@@ -764,15 +1082,21 @@ mengikut mana-mana yang lebih awal.".
 
 (2) Perenggan 89(V) Akta ibu sebagaimana yang dipinda dalam subseksyen (1) hendaklah disifatkan menjadi dan telah sentiasa menjadi suatu bahagian integral 89 dari tarikh mula berkuatkuasanya Akta ibu.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-46. (1) Seksyen 90 Akta ibu adalah dipinda— seksyen 90.
+46. (1) Seksyen 90 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 90. -->
 
 (a) dalam subseksyen (1) dan (2), dengan memasukkan, selepas perkataan "mengeluarkan suatu perakuan", perkataan "atau membuat suatu pemberian";
 
 (b) dalam subseksyen (1) dan (2), dengan memasukkan, selepas perkataan "perakuan" perkataan "atau pemberian";
 
-(c) dalam subseksyen (2), dengan memasukkan, selepas perkataan "mendapatkan suatu perakuan", perkataan "atau pemberian";
+(c) dalam subseksyen (2), dengan memasukkan, selepas perkataan "mendapatkan
+
+<!-- marginal: suatu -->
+
+perakuan", perkataan "atau pemberian";
 
 <!-- page 27 -->
 
@@ -790,7 +1114,11 @@ Pindaan
 
 (a) dalam ubahsuaian dalam ruang (2) berkenaan dengan seksyen 14—
 
-(i) dengan memotong perkataan "di Malaysia" dalam perenggan (2)(a); dan
+(i) dengan memotong perkataan
+
+<!-- marginal: "di -->
+
+Malaysia" dalam perenggan (2)(a); dan
 
 (ii) dengan memotong perkataan "tarikh pemfailan atau, di mana berkenaan," dalam perenggan (2)(a) dan perkataan "tarikh pemfailan yang lebih awal atau, di mana berkenaan," dalam perenggan (2)(b);
 
@@ -808,11 +1136,7 @@ Pindaan
 
 (e) dalam ubahsuaian dalam ruang (2) berkenaan dengan seksyen 35—
 
-( i) dengan memotong tanda baca '
-
-<!-- marginal: ''' di -->
-
-akhir proviso kepada subseksyen (4); dan
+( i) dengan memotong tanda baca ' ''' di akhir proviso kepada subseksyen (4); dan
 
 (ii) dengan memasukkan, selepas subseksyen (4), subseksyen yang berikut:
 
@@ -822,9 +1146,15 @@ akhir proviso kepada subseksyen (4); dan
 
 '2. Potong ", oleh peruntukan-peruntukan ke atas lesen wajib sebagaimana diperuntukkan dalam seksyen 51 dan 52" dalam subseksyen (5).'.
 
-Peralihan
+<!-- marginal: Peralihan -->
 
-48. Tiada apa-apa jua dalam Akta ini boleh dan menyentuh— kecualian.
+48. Tiada apa-apa jua dalam Akta ini boleh
+
+<!-- marginal: dan -->
+
+menyentuh—
+
+<!-- marginal: kecualian. -->
 
 (a) permintaan-permintaan yang dibuat sebelum tarikh mula berkuatkuasanya Akta ini bagi pemeriksaan-pemeriksaan awal atau substantif dan yang masih belum diputuskan sebelum sahaja tarikh mula berkuatkuasanya Akta ini; dan
 

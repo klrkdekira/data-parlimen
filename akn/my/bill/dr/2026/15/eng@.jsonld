@@ -146,7 +146,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/eng@/~cl_5",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (1)— “(ca) the participant deliberately breaches any terms or conditions of the agreement; or”;"
+        "@value": "in subsection (1)—"
       }
     },
     {
@@ -166,7 +166,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/eng@/~cl_5__para_a",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after paragraph (c) the following paragraph:"
+        "@value": "by inserting after paragraph (c) the following paragraph: “(ca) the participant deliberately breaches any terms or conditions of the agreement; or”;"
       }
     },
     {

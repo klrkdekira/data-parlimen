@@ -346,7 +346,7 @@ pengambilan, atau pemajakan atau penyewaan yang disebut dalam perenggan (a), (b)
 
 23. Akta ibu dipinda dengan memasukkan selepas Bahagian Va Bahagian yang berikut:
 
-“bahagian Vb
+## “BAHAGIAN VB
 
 ## PENGURUS HARTA
 
@@ -356,9 +356,7 @@ pengambilan, atau pemajakan atau penyewaan yang disebut dalam perenggan (a), (b)
 
 <!-- page 14 -->
 
-## Bahagian IV Daftar setelah membuat permohonan kepada
-
-Lembaga dan membuktikan sehingga Lembaga berpuas hati bahawa—
+Bahagian IV Daftar setelah membuat permohonan kepada Lembaga dan membuktikan sehingga Lembaga berpuas hati bahawa—
 
 (a) dia telah mencapai umur 21 tahun dan sempurna akal, berkelakuan baik dan tidak pernah disabitkan atas apa-apa kesalahan yang melibatkan fraud, kecurangan atau keburukan akhlak dalam tempoh lima tahun sebaik sebelum tarikh permohonannya;
 
@@ -380,9 +378,7 @@ Lembaga dan membuktikan sehingga Lembaga berpuas hati bahawa—
 
 (2) Walau apa pun perenggan (1)(i), seseorang yang hilang kelayakan untuk menjalankan amalan penilaian atau perejenan harta tanah boleh, jika Lembaga berpendapat dia sesuai menjalankan amalan pengurusan harta, mendapatkan namanya dimasukkan di bawah Bahagian IV Daftar sebagai pengurus harta.
 
-(3) Mana-mana penilai berdaftar atau pentaksir berdaftar yang, sebaik sebelum mula berkuat kuasanya Bahagian ini, namanya telah dimasukkan di bawah Bahagian I atau II Daftar hendaklah, apabila mula berkuat kuasanya Bahagian ini, berhak mendapatkan namanya dimasukkan di bawah
-
-## Bahagian IV Daftar tanpa bayaran apa-apa fi.
+(3) Mana-mana penilai berdaftar atau pentaksir berdaftar yang, sebaik sebelum mula berkuat kuasanya Bahagian ini, namanya telah dimasukkan di bawah Bahagian I atau II Daftar hendaklah, apabila mula berkuat kuasanya Bahagian ini, berhak mendapatkan namanya dimasukkan di bawah Bahagian IV Daftar tanpa bayaran apa-apa fi.
 
 <!-- page 15 -->
 
@@ -436,11 +432,7 @@ bawah Bahagian IV Daftar sebagaimana yang diperuntukkan di bawah subseksyen (3) 
 
 ### harta percubaan
 
-22h. (1) Tertakluk kepada peruntukan Akta ini, tiada seorang pun berhak mendapatkan namanya dimasukkan di bawah
-
-## Bahagian IV Daftar melainkan jika dia telah didaftarkan
-
-sebagai pengurus harta percubaan di bawah Akta ini.
+22h. (1) Tertakluk kepada peruntukan Akta ini, tiada seorang pun berhak mendapatkan namanya dimasukkan di bawah Bahagian IV Daftar melainkan jika dia telah didaftarkan sebagai pengurus harta percubaan di bawah Akta ini.
 
 (2) Mana-mana orang yang telah lulus peperiksaan yang ditetapkan oleh Lembaga atau yang telah memperoleh kelayakan yang diiktiraf oleh Lembaga sebagai setara dengan peperiksaan itu boleh memohon kepada Lembaga untuk didaftarkan sebagai pengurus harta percubaan.
 
@@ -550,7 +542,9 @@ bentuk iklan, yang membayangkan sama ada secara langsung atau tidak langsung bah
 
 (bb) dalam subsubperenggan (C), dengan memasukkan selepas koma bernoktah di hujung subsubperenggan itu perkataan “dan”; dan
 
-(D) dengan memasukkan selepas subperenggan (iii) subperenggan yang berikut:
+(D) dengan memasukkan selepas subperenggan
+
+(iii) subperenggan yang berikut:
 
 “(iv) dalam hal suatu amalan pengurusan harta—
 
@@ -566,7 +560,9 @@ bentuk iklan, yang membayangkan sama ada secara langsung atau tidak langsung bah
 
 (A) dalam subperenggan (iii), dengan memotong perkataan “dan” di hujung subperenggan itu;
 
-(B) dengan menomborkan semula subperenggan (iv) yang sedia ada sebagai subperenggan (v); dan
+(B) dengan menomborkan semula subperenggan (iv) yang sedia ada sebagai subperenggan (v);
+
+<!-- marginal: dan -->
 
 (C) dalam subperenggan (v) yang dinomborkan semula—
 

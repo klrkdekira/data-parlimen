@@ -10,13 +10,49 @@
 
 ## PERMULAAN
 
-1. Tajuk ringkas 2. Pindaan Akta
+<!-- marginal: Fasal -->
+
+1. Tajuk ringkas
+
+2. Pindaan Akta
 
 ## Bab II
 
 ## PINDAAN KEPADA AKTA CUKAI PENDAPATAN 1967
 
-3. Permulaan kuat kuasa pindaan kepada Akta Cukai Pendapatan 1967 4. Pindaan seksyen 2 5. Pindaan seksyen 13 6. Pindaan seksyen 15a 7. Pindaan seksyen 34 8. Pindaan seksyen 44 9. Pindaan seksyen 45a 10. Pindaan seksyen 46 11. Pindaan seksyen 47 12. Pindaan seksyen 60 13. Pindaan seksyen 60aa 14. Pindaan seksyen 61a 15. Pindaan seksyen 63a 16. Pindaan seksyen 63b 17. Pindaan seksyen 63c 18. Pindaan seksyen 97a 19. Pindaan seksyen 107c
+3. Permulaan kuat kuasa pindaan kepada Akta Cukai Pendapatan 1967
+
+4. Pindaan seksyen 2
+
+5. Pindaan seksyen 13
+
+6. Pindaan seksyen 15a
+
+7. Pindaan seksyen 34
+
+8. Pindaan seksyen 44
+
+9. Pindaan seksyen 45a
+
+10. Pindaan seksyen 46
+
+11. Pindaan seksyen 47
+
+12. Pindaan seksyen 60
+
+13. Pindaan seksyen 60aa
+
+14. Pindaan seksyen 61a
+
+15. Pindaan seksyen 63a
+
+16. Pindaan seksyen 63b
+
+17. Pindaan seksyen 63c
+
+18. Pindaan seksyen 97a
+
+19. Pindaan seksyen 107c
 
 <!-- page 9 -->
 
@@ -146,7 +182,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 13 -->
 
-## bab II
+## BAB II
 
 ## PINDAAN KEPADA AKTA CUKAI PENDAPATAN 1967
 
@@ -326,11 +362,15 @@ carrying out any activity in connection with any purpose through live, print, el
 
 (vi) dalam perenggan (n), dengan memotong perkataan “and” di hujung perenggan itu;
 
-(vii) dalam perenggan (o), dengan menggantikan noktah di hujung perenggan itu dengan koma bernoktah; dan
+(vii) dalam perenggan (o), dengan menggantikan noktah di hujung perenggan itu dengan koma bernoktah;
+
+<!-- marginal: dan -->
 
 (viii) dengan memasukkan selepas perenggan (o) perenggan yang berikut:
 
-“(p) an amount expended or deemed expended under subsection (3) in that basis year by that individual— (i) for the purchase of books, journals, magazines, printed newspaper and other similar publications for the purpose of enhancing knowledge for his own use or for the use of his wife or child, or in the case of a wife, for her own use or for the use of her husband or child;
+“(p) an amount expended or deemed expended under subsection (3) in that basis year by that individual—
+
+(i) for the purchase of books, journals, magazines, printed newspaper and other similar publications for the purpose of enhancing knowledge for his own use or for the use of his wife or child, or in the case of a wife, for her own use or for the use of her husband or child;
 
 (ii) for the purchase of a personal computer, smartphone or tablet (not being used for the purpose of his own business) for his own use or for the use of his wife or child, or in the case of a wife, for her own use or for the use of her husband or child;
 
@@ -690,7 +730,11 @@ the person may make an application in writing to the Director General for relief
 
 (iii) dengan memasukkan selepas subperenggan 16b(1) dengan subperenggan yang berikut:
 
-“(2) Where part of the building used by that person referred to in paragraphs 37a, 37b, 37c, 37e, 37f, 37g, 37h, 42a, 42b and 42c for the purpose of letting of property is not more than one-tenth of the floor area of the whole building, the whole building qualifies as industrial building under those paragraphs.
+“(2) Where part of the building used by that person
+
+## REFERRED TO IN PARAGRAPHS 37A, 37B, 37C, 37E, 37F, 37G,
+
+37h, 42a, 42b and 42c for the purpose of letting of property is not more than one-tenth of the floor area of the whole building, the whole building qualifies as industrial building under those paragraphs.
 
 <!-- page 35 -->
 
@@ -760,7 +804,7 @@ is established in Malaysia exclusively for the purpose of religious worship or t
 
 (h) dengan menggantikan perenggan 35a dengan perenggan yang berikut:
 
-### “35a.
+### “35A.
 
 Income of a unit trust in respect of interest derived from Malaysia and paid or credited by—
 
@@ -774,7 +818,7 @@ Provided that in the case of a unit trust which is a money market fund, the exem
 
 <!-- page 38 -->
 
-## bab III
+## BAB III
 
 ## PINDAAN KEPADA AKTA PETROLEUM (CUKAI PENDAPATAN) 1967
 
@@ -920,7 +964,7 @@ the chargeable person may make an application in writing to the Director General
 
 (c) the application shall thereupon be deemed to be an appeal and shall be disposed of accordingly.”.
 
-## bab IV
+## BAB IV
 
 ## PINDAAN KEPADA AKTA CUKAI KEUNTUNGAN HARTA
 
@@ -994,7 +1038,7 @@ seseorang pelupus melakukan perbelanjaan bagi maksud pemerolehan atau pelupusan 
 
 (iii) dalam subsubperenggan (c), dengan menggantikan perkataan “dalam hal pemberi yang merupakan seorang warganegara atau pemastautin tetap dan;” dengan perkataan “jika”.
 
-## BaB V
+## BAB V
 
 ## PINDAAN KEPADA AKTA CUKAI AKTIVITI PERNIAGAAN
 
@@ -1030,7 +1074,7 @@ seseorang pelupus melakukan perbelanjaan bagi maksud pemerolehan atau pelupusan 
 
 (b) bagi maksud melaksanakan atau memudahkan penjalanan perkiraan yang dikuatkuasakan di bawah seksyen 132B Akta Cukai Pendapatan 1967 dan menetapkan penalti bagi apa-apa pelanggaran atau kegagalan untuk mematuhi mana-mana peruntukan dalam mana-mana peraturan-peraturan yang dibuat di bawah perenggan ini.”.
 
-## BaB VI
+## BAB VI
 
 ## PINDAAN KEPADA AKTA CUKAI BARANG DAN PERKHIDMATAN
 

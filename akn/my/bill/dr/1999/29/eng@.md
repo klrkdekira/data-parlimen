@@ -60,7 +60,15 @@ B. 20 Ministry of International Trade
 
 <!-- marginal: 11,000,000 -->
 
-and Industry B. 22 Ministry of Culture, Arts and Tourism 150,000,000 B. 29 Treasury General Services 151,000,000 B. 31 Royal Customs and Excise Department
+and Industry B. 22 Ministry of Culture, Arts and Tourism
+
+<!-- marginal: 150,000,000 -->
+
+B. 29 Treasury General Services
+
+<!-- marginal: 151,000,000 -->
+
+B. 31 Royal Customs and Excise Department
 
 <!-- marginal: 8,485,000 -->
 
@@ -74,8 +82,10 @@ B. 52 Ministry of Works
 
 ## TOTAL
 
-600,812,500
+<!-- marginal: 600,812,500 -->
 
 ## EXPLANATORY STATEMENT
 
-The Bill seeks to provide for the issue from the Consolidated Fund of a sum of six hundred million eight hundred and twelve thousand and five hundred nnggit (RM600,812,500) for the services and purposes as specified in the Schedule for the year 1999. [PN(U2)2162]
+The Bill seeks to provide for the issue from the Consolidated Fund of a sum of six hundred million eight hundred and twelve thousand and five hundred nnggit (RM600,812,500) for the services and purposes as specified in the Schedule for the year 1999.
+
+<!-- marginal: [PN(U2)2162] -->

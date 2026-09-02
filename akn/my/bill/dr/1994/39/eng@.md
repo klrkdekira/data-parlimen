@@ -8,27 +8,13 @@ FINANCE (No. 2) BILL 1994
 
 ## PRELIMINARY
 
-1. Short title.
-
-2. Amendments of Acts.
+1. Short title. 2. Amendments of Acts.
 
 ## CHAPTER II
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
-3. Commencement of amendments to the Income Tax Act 1967.
-
-4. Amendment of section 3.
-
-5. Amendment of section 6A.
-
-6. Amendment of section 34A
-
-7. Amendment of section 39.
-
-8. Amendment oF section 44.
-
-9. Amendment of section 46.
+3. Commencement of amendments to the Income Tax Act 1967. 4. Amendment of section 3. 5. Amendment of section 6A. 6. Amendment of section 34A 7. Amendment of section 39. 8. Amendment oF section 44. 9. Amendment of section 46.
 
 10. Amendment of section 47.
 
@@ -180,17 +166,35 @@ subsequent years of assessment.
 
 (4) Paragraphs 19(c) and 19(e) shall come into force on the 28th October 1994.
 
-Amendment 4. The Income Tax Act 1967, which is referred to as of section 3 the "principal Act" in this Chapter, is amended by Act53 inserting after section 3s the following section:
+<!-- marginal: Amendment -->
+
+4. The Income Tax Act 1967, which is referred to as
+
+<!-- marginal: of section 3 -->
+
+the "principal Act" in this Chapter, is amended by
+
+<!-- marginal: Act53 -->
+
+inserting after section 3s the following section:
 
 Non- 3c. Notwithstanding section 3, tax shall not be charge- charged under this Act on income arising from ability to tax in sources outside Malaysia and received in respect of mcome Malaysia by a resident company (other than a received in company carrying on the.business of banking, Malaysia from insurance, shipping and air transport).". outside Malaysia.
 
-Amendment 5. Subsection 6A(2) of the principal Act is amended— of section 6A.
+<!-- marginal: Amendment -->
+
+5. Subsection 6A(2) of the principal Act is amended—
+
+<!-- marginal: of section 6A. -->
 
 (a) in paragraph (a) by substituting for the word "ninety" the words "one hundred and ten"; and
 
 (b) in paragraph (b) by substituting for the word "fifty" the word "sixty".
 
-Amendment 6. Section 34e of the principal Act is amended— of section 34B.
+<!-- marginal: Amendment -->
+
+6. Section 34e of the principal Act is amended—
+
+<!-- marginal: of section 34B. -->
 
 (a) in subsection (1)—
 
@@ -214,29 +218,15 @@ Amendment 6. Section 34e of the principal Act is amended— of section 34B.
 
 "(c) a "contract research and development company", a "related company" and a "research and development company" have the meaning assigned thereto in section 2 of the Promotion of Investments Act 1986.".
 
-7. Theproviso to paragraph 39(1)(l) of the principal Act ,
+7. Theproviso to paragraph 39(1)(l) of the principal Act , Amendment { of section 39.
 
-<!-- marginal: Amendment -->
-
-{
-
-<!-- marginal: of section 39. -->
-
-is amended—
+<!-- marginal: is amended— -->
 
 (a) by deleting the word "or" at the end of subparagraph (iv); and
 
-(b) by inserting after subparagraph (v)
+(b) by inserting after subparagraph (v) the following subparagraph: "(vi) the provision of promotional gifts with- in Malaysia consisting of articles incorporating a conspicuous advertise- ment or logo of the business; or".
 
-<!-- marginal: the -->
-
-following subparagraph: "(vi) the provision of promotional gifts with- in Malaysia consisting of articles incorporating a conspicuous advertise- ment or logo of the business; or".
-
-8. Section 44 of the principal Act is amended—
-
-<!-- marginal: Amendment -->
-
-<!-- marginal: of section 44. -->
+8. Section 44 of the principal Act is amended— Amendment of section 44.
 
 (a) in subsection (1)—
 
@@ -260,15 +250,13 @@ l*(d) thereafter, in respect of an indiyidual, by any deduction falling to be so
 
 (iii) by inserting after paragraph (e) the following paragraph:
 
-"(f) a technical or vocational training institute established
-
-<!-- marginal: and -->
-
-maintained by a statutory body;"; and
+"(f) a technical or vocational training institute established and maintained by a statutory body;"; and
 
 (d) by inserting after subsection (7) the following subsection:
 
-"(8) There shall be deducted pursuant to this subsection from the aggregate income of a person to whom section 34(6)(g) does not apply, for the relevant year reduced by any deduction for that year pursuant to subsection (2) or Schedule 4, 4A or 4B, an amount equal to any gift of money made by him in the basis year for that year, for the provision of
+"(8) There shall be deducted pursuant to this subsection from the aggregate income of a person to whom section 34(6)(g) does not apply, for the relevant year reduced by any deduction for that year pursuant to subsection
+
+(2) or Schedule 4, 4A or 4B, an amount equal to any gift of money made by him in the basis year for that year, for the provision of
 
 <!-- page 7 -->
 
@@ -296,11 +284,7 @@ library facilities which are accessible to the public and in respect of contribu
 
 (a) by substituting for subsection (1) the following subsection:
 
-"(1) In the case of an individual resident for the basis year for a year of assessment who in that basis year had a wife
-
-<!-- marginal: living -->
-
-together with him, there shall, subject to subsections (3) and (4), be allowed for that year of assessment a deduction of—
+"(1) In the case of an individual resident for the basis year for a year of assessment who in that basis year had a wife living together with him, there shall, subject to subsections (3) and (4), be allowed for that year of assessment a deduction of—
 
 (a) three thousand ringgit for the wife; and
 
@@ -310,13 +294,21 @@ together with him, there shall, subject to subsections (3) and (4), be allowed f
 
 (b) in subsection (3) by substituting for the words "subsections (1) and (2)" the words "sub- sections (l)(a) and (2)".
 
-Amendment 11. Section 48 of the principal Act is amended— of section 48.
+<!-- marginal: Amendment -->
+
+11. Section 48 of the principal Act is amended—
+
+<!-- marginal: of section 48. -->
 
 (a) in paragraph (2)(a) by deleting the words "for the first five children in order of age,"; and
 
 (b) by deleting subsection (7).
 
-Amendment 12. Section 60 of the principal Act is amended— of section 60.
+<!-- marginal: Amendment -->
+
+12. Section 60 of the principal Act is amended—
+
+<!-- marginal: of section 60. -->
 
 (a) by substituting for the full stop at the end of subparagraph (2)(b)(ii} a semicolon and inserting thereafter the following paragraph:
 
@@ -336,9 +328,7 @@ shareholders' fund in respect of the life business.";
 
 (a) taking the aggregate of—
 
-(i) the amount of gross income for that period from the invest- ments made out of any of the insurer's life funds; and (ii) the amount of any gross proceeds (whether or not of an income nature) which are not gross income to which sub- paragraph (i) applies and which are first receivable
-
-<!-- marginal: in -->
+(i) the amount of gross income for that period from the invest- ments made out of any of the insurer's life funds; and (ii) the amount of any gross proceeds (whether or not of an income nature) which are not gross income to which sub- paragraph (i) applies and which are first receivable in
 
 <!-- marginal: that -->
 
@@ -356,11 +346,7 @@ period in connection with the realisation of those investments or any rights ari
 
 (ii) the amount of any gross proceeds (whether or not of an income nature) which are not gross income to which sub- paragraph (i) applies and which are first receivable in that period in connection with the realisation of those investments or any rights arising from them; and
 
-(iii) the amount of the actuarial surplus (subject to any adjust- ment as the Director General may think fit to make
-
-<!-- marginal: in -->
-
-accordance with the provisions of this Act) for that period arising from the life fund as is apportioned to the shareholders' fund; and
+(iii) the amount of the actuarial surplus (subject to any adjust- ment as the Director General may think fit to make in accordance with the provisions of this Act) for that period arising from the life fund as is apportioned to the shareholders' fund; and
 
 <!-- page 10 -->
 
@@ -376,13 +362,7 @@ accordance with the provisions of this Act) for that period arising from the lif
 
 (i) the amount of gross income for that period from investments made (in Malaysia or else- where) out of the insurer's Malaysian life fund; and
 
-(ii) the amount of any gross proceeds (whether or not of an income nature) which are not gross income to which sub- paragraph (i) applies and which are first receivable
-
-<!-- marginal: in -->
-
-<!-- marginal: that -->
-
-period in connection with the realisation of those investments or any rights arising from them; and
+(ii) the amount of any gross proceeds (whether or not of an income nature) which are not gross income to which sub- paragraph (i) applies and which are first receivable in that period in connection with the realisation of those investments or any rights arising from them; and
 
 (b) deducting from that aggregate where paragraph (a)(ii) is applicable for that period to gross proceeds receiyable in connection with any irwestments or rights, the cost of acquiring and realising those investments or rights.
 
@@ -396,17 +376,9 @@ of assessment of an insurer not resident for the basis year for that year of ass
 
 (i) the amount of gross income for that period from the investments made out of any of the share- holders' funds; and
 
-(ii) the amount of any gross proceeds (whether or not of an income nature) which are not gross income to which sub- paragraph (i) applies and which are first receivable
+(ii) the amount of any gross proceeds (whether or not of an income nature) which are not gross income to which sub- paragraph (i) applies and which are first receivable in that period in connection with the realisation of those investments or any rights arising from them; and
 
-<!-- marginal: in that -->
-
-period in connection with the realisation of those investments or any rights arising from them; and
-
-(iii) the amount of the actuarial surplus (subject to any adjust- ment as the Director General may think f it to make
-
-<!-- marginal: in -->
-
-accordance with the provisions of this Act) for that period arising from the life fund as is apportioned to the shareholders' fund; and
+(iii) the amount of the actuarial surplus (subject to any adjust- ment as the Director General may think f it to make in accordance with the provisions of this Act) for that period arising from the life fund as is apportioned to the shareholders' fund; and
 
 (b) deducting from that aggregate where paragraph (a)(ii) is applicable for that period to gross proceeds receivable in connection with any investments or rights, the cost of acquiring and realising those investments or rights.
 
@@ -424,7 +396,9 @@ accordance with the provisions of this Act) for that period arising from the lif
 
 (e) in subsection (6)—
 
-(i) in subparagraph (a)(iv) by inserting after the word "recovered" the words "or recoverable"; and (ii) in paragraph (b) by substituting for sub- paragraph (i) the following subparagraph: "(i) claims incurred in that period in connection with his Malaysian general policies;"; and
+(i) in subparagraph (a)(iv) by inserting after the word "recovered" the words "or recoverable"; and
+
+(ii) in paragraph (b) by substituting for sub- paragraph (i) the following subparagraph: "(i) claims incurred in that period in connection with his Malaysian general policies;"; and
 
 (f) by inserting after subsection (10) the following subsections:
 
@@ -446,9 +420,23 @@ balance of such allowances shall not be available as a deduction against the adj
 
 section 60AA the following section:
 
-Chargeable 60AB. The chargeable income in respect of the income of life fund as determined under sections 60(3) life fund subject to and 60(4) is subject to tax as specified under tax.
+<!-- marginal: Chargeable -->
 
-## Part VIII of Schedule 1.".
+60AB. The chargeable income in respect of the
+
+<!-- marginal: income of -->
+
+life fund as determined under sections 60(3)
+
+<!-- marginal: life fund -->
+
+<!-- marginal: subject to -->
+
+and 60(4) is subject to tax as specified under
+
+<!-- marginal: tax. -->
+
+Part VIII of Schedule 1.".
 
 14. Section 60E of the principal Act is amended—
 
@@ -456,7 +444,9 @@ Chargeable 60AB. The chargeable income in respect of the income of life fund as 
 
 <!-- marginal: of section -->
 
-(b) in subsection (6) by deleting the words "or (a)
+(b) in subsection (6) by deleting the words "or
+
+(a)
 
 <!-- marginal: 60E. -->
 
@@ -464,19 +454,9 @@ by deleting subsection (5); income exempt under subsection (5)"; and
 
 (c) in subsection (7)— (i) by substituting for the definition of "approved operational headquarters company" the following definition: "approved operational headquarters company" means a company—
 
-(a) which carries on a business in Malaysia of providing qualifying services to its offices outside Malaysia or
+(a) which carries on a business in Malaysia of providing qualifying services to its offices outside Malaysia or to its related companies outside Malaysia; and
 
-<!-- marginal: to -->
-
-<!-- marginal: its -->
-
-related companies outside Malaysia; and
-
-(b) which is approved by
-
-<!-- marginal: the -->
-
-Minister for the purposes of this section;";
+(b) which is approved by the Minister for the purposes of this section;";
 
 (ii) by deleting the definition of "foreign company"; and
 
@@ -484,9 +464,21 @@ Minister for the purposes of this section;";
 
 <!-- page 14 -->
 
-Amendment 15. Paragraph 65A(b) of the principal Act is amended of section by substituting for the word "six" the word "eight". 654
+<!-- marginal: Amendment -->
 
-Amendment 16. Section 108 of the principal Act is amended— of section
+15. Paragraph 65A(b) of the principal Act is amended
+
+<!-- marginal: of section -->
+
+by substituting for the word "six" the word "eight".
+
+<!-- marginal: 654 -->
+
+<!-- marginal: Amendment -->
+
+16. Section 108 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 (a) by inserting after subsection (2c) the following
 
@@ -496,21 +488,13 @@ Amendment 16. Section 108 of the principal Act is amended— of section
 
 (a) the amount in fact paid or credited; or
 
-(b) where the dividend consists of property other than money,
-
-<!-- marginal: the -->
-
-amount of the market value of that property at the time of the dividend's distribution,
+(b) where the dividend consists of property other than money, the amount of the market value of that property at the time of the dividend's distribution,
 
 and a sum equal to the difference between that gross amount and the amount mentioned in paragraph (a) or (b), as the case may be, shall be deemed to have been deducted from the dividend as tax.";
 
 (b) by inserting after subsection (4c) the following subsection:
 
-"(4D) In any case where tax has been deducted or deemed to have been deducted at the rate of thirty-two per cent on any dividend paid, credited or distributed during the basis year for the year of assessment 1995 to which subsection (2D) applies,
-
-<!-- marginal: the -->
-
-compared total shall be determined at the rate of thirty per cent."; and
+"(4D) In any case where tax has been deducted or deemed to have been deducted at the rate of thirty-two per cent on any dividend paid, credited or distributed during the basis year for the year of assessment 1995 to which subsection (2D) applies, the compared total shall be determined at the rate of thirty per cent."; and
 
 <!-- page 15 -->
 
@@ -560,81 +544,33 @@ Provided that no such penalty shall exceed the penalty prescribed under section 
 
 ## Schedule 1.
 
-(a) in paragraph 1 of Part I by substituting for the : rates the following rates: Chargeable Income RM Rate of Income Tax For every ringgit of the first 2,500 0 per cent For every ringgit of the next 2,500 3 per cent For every ringgit of the next 5,000 6 per cent
-
-<!-- page 16 -->
-
-Chargeable Income RM
+(a) in paragraph 1 of Part I by substituting for the : rates the following rates: Chargeable Income RM
 
 <!-- marginal: Rate of -->
 
 <!-- marginal: Income Tax -->
 
-For every ringgit of the next 10,000
+For every ringgit of the first 2,500
 
-<!-- marginal: 7 per cent -->
+<!-- marginal: 0 per cent -->
 
-For every ringgit of the next 15,000
+For every ringgit of the next 2,500
 
-<!-- marginal: 12 per cent -->
+<!-- marginal: 3 per cent -->
 
-For every ringgit of the next 15,000
+For every ringgit of the next 5,000
 
-<!-- marginal: 18 per cent -->
+<!-- marginal: 6 per cent -->
 
-For every ringgit of the next 20,000
+<!-- page 16 -->
 
-<!-- marginal: 23 per cent -->
-
-For every ringgit of the next 30,000
-
-<!-- marginal: 28 per cent -->
-
-For every ringgit of the next 50,000
-
-<!-- marginal: 31 per cent -->
-
-For every ringgit exceeding 150,000
-
-<!-- marginal: 32 per cent"; -->
+Chargeable Income RM Rate of Income Tax For every ringgit of the next 10,000 7 per cent For every ringgit of the next 15,000 12 per cent For every ringgit of the next 15,000 18 per cent For every ringgit of the next 20,000 23 per cent For every ringgit of the next 30,000 28 per cent For every ringgit of the next 50,000 31 per cent For every ringgit exceeding 150,000 32 per cent";
 
 (b) in paragraph 2 of Part I by substituting for the words "32 per cent" the words "30 per cent";
 
 (c) in paragraphs 1 and 2 of Part II by substituting for the words "20% of gross "and" 15% of gross" appearing under the column "Rate of income tax" the words "15% of gross" and "10% of gross" respectively;
 
-(d) in Part IV by substituting for the rates the following rates: Chargeable Income RM
-
-<!-- marginal: Rate of -->
-
-<!-- marginal: Income Tax -->
-
-For every ringgit of the first 10,000
-
-<!-- marginal: 1 per cent -->
-
-For every ringgit ofthenext 10,000
-
-<!-- marginal: 3 per cent -->
-
-For every ringgit of the next 10.000
-
-<!-- marginal: 6 per cent -->
-
-For every ringgit of the next 10,000
-
-<!-- marginal: 9 per cent -->
-
-For every ringgit of the next 10,000
-
-<!-- marginal: 12 per cent -->
-
-For every ringgit of the next 25,000
-
-<!-- marginal: 16 per cent -->
-
-For every ringgit of the next 25,000
-
-<!-- marginal: 20 per cent -->
+(d) in Part IV by substituting for the rates the following rates: Chargeable Income RM Rate of Income Tax For every ringgit of the first 10,000 1 per cent For every ringgit ofthenext 10,000 3 per cent For every ringgit of the next 10.000 6 per cent For every ringgit of the next 10,000 9 per cent For every ringgit of the next 10,000 12 per cent For every ringgit of the next 25,000 16 per cent For every ringgit of the next 25,000 20 per cent
 
 <!-- page 17 -->
 
@@ -660,11 +596,7 @@ Notwithstanding Part I and Part II, income tax shall be charged on the chargeabl
 
 (i) by substituting for subparagrah (c) the following subparagraph:
 
-"(c) industrial, technical or vocational training approved by
-
-<!-- marginal: the -->
-
-Minister;";
+"(c) industrial, technical or vocational training approved by the Minister;";
 
 (ii) by substituting for the comma at the end of subparagraph (d) the punctuation mark and word "; or"; and
 
@@ -684,7 +616,13 @@ Minister;";
 
 (c) an approved research institute as defined in section 34B.".
 
-21. Schedule 6 to the principal Act is amended by Amendment of inserting after paragraph 35 the following paragraph:
+21. Schedule 6 to the principal Act is amended by
+
+<!-- marginal: Amendment -->
+
+<!-- marginal: of -->
+
+inserting after paragraph 35 the following paragraph:
 
 ## Schedule 6.
 
@@ -698,13 +636,45 @@ III
 
 ACT 1967
 
-22. (1) Except for section 23, this Chapter shall have Commen- cement of effect for the year of assessment 1994 and subsequent amendments years of assessment. to the Petroleum (Income Tax)
+22. (1) Except for section 23, this Chapter shall have
 
-(2) Section 23 shall be deemed to have come into force Act 1967. on the Ist June 1991.
+<!-- marginal: Commen- -->
 
-Amendment
+<!-- marginal: cement of -->
 
-23. The Petroleum (Income Tax) Act 1967, which is of referred to as the "principal Act" in this Chapter, is section 2. amended in section 2 in the definition of "approved 45/67. scheme" by inserting after the word "means" the words "the Employees Provident Fund or".
+effect for the year of assessment 1994 and subsequent
+
+<!-- marginal: amendments -->
+
+years of assessment.
+
+<!-- marginal: to the -->
+
+<!-- marginal: Petroleum -->
+
+<!-- marginal: (Income Tax) -->
+
+(2) Section 23 shall be deemed to have come into force
+
+<!-- marginal: Act 1967. -->
+
+on the Ist June 1991.
+
+<!-- marginal: Amendment -->
+
+23. The Petroleum (Income Tax) Act 1967, which is
+
+<!-- marginal: of -->
+
+referred to as the "principal Act" in this Chapter, is
+
+<!-- marginal: section 2. -->
+
+amended in section 2 in the definition of "approved
+
+<!-- marginal: 45/67. -->
+
+scheme" by inserting after the word "means" the words "the Employees Provident Fund or".
 
 <!-- page 19 -->
 
@@ -786,9 +756,39 @@ of transactions, ad valorem duty upon that instrument and upon every other instr
 
 ACT 1986
 
-Commence- 28. This Chapter shall come into force on the 28th ment of October 1994 and shall have effect for the year of amendments to the assessment 1995 and subsequent years of assessment. Promotion of Investments Act 1986.
+<!-- marginal: Commence- -->
 
-Amendment 29. The Promotion of Investments Act 1986, which is of referred to as the "principal Act" in this Chapter, is section 2. Act327. amended in subsection 2(1)—
+28. This Chapter shall come into force on the 28th
+
+<!-- marginal: ment of -->
+
+October 1994 and shall have effect for the year of
+
+<!-- marginal: amendments -->
+
+<!-- marginal: to the -->
+
+assessment 1995 and subsequent years of assessment.
+
+<!-- marginal: Promotion of -->
+
+<!-- marginal: Investments -->
+
+<!-- marginal: Act 1986. -->
+
+<!-- marginal: Amendment -->
+
+29. The Promotion of Investments Act 1986, which is
+
+<!-- marginal: of -->
+
+referred to as the "principal Act" in this Chapter, is
+
+<!-- marginal: section 2. -->
+
+<!-- marginal: Act327. -->
+
+amended in subsection 2(1)—
 
 (a) by substituting for the words "Tourist Development Corporation of Malaysia" appearing in the definitions of "hotel" and "tourist project" the words "Ministry of Culture, Arts and Tourism"; and
 
@@ -796,7 +796,17 @@ Amendment 29. The Promotion of Investments Act 1986, which is of referred to as 
 
 ' "technical or vocational training company" means a company which provides technical or vocational training in Malaysia;'.
 
-Amendment 30. Section 4B of the principal Act is amended by of substituting for the words "and 26E" the words ", 26E and -section 4B. 26G".
+<!-- marginal: Amendment -->
+
+30. Section 4B of the principal Act is amended by
+
+<!-- marginal: of -->
+
+substituting for the words "and 26E" the words ", 26E and
+
+<!-- marginal: -section 4B. -->
+
+26G".
 
 <!-- page 21 -->
 
@@ -806,11 +816,47 @@ Amendment 30. Section 4B of the principal Act is amended by of substituting for 
 
 <!-- marginal: 26G. -->
 
-section 26F the following section: Application 26G. (1) Any technical or vocational training for company participating or intending
+section 26F the following section:
 
-<!-- marginal: to -->
+<!-- marginal: Application -->
 
-approval for participate in Malaysia may make an application investment in writing to the Minister for approval for tax allowance purposes of an irwestment tax allowance. to a technical or (2) An application made under subsection (1) Vocational shall be in accordance with such regulations as training company. may be made under this Act.".
+26G. (1) Any technical or vocational training
+
+<!-- marginal: for -->
+
+company participating or intending to
+
+<!-- marginal: approval -->
+
+<!-- marginal: for -->
+
+participate in Malaysia may make an application
+
+<!-- marginal: investment -->
+
+in writing to the Minister for approval for
+
+<!-- marginal: tax -->
+
+<!-- marginal: allowance -->
+
+purposes of an irwestment tax allowance.
+
+<!-- marginal: to a -->
+
+<!-- marginal: technical or -->
+
+(2) An application made under subsection (1)
+
+<!-- marginal: Vocational -->
+
+shall be in accordance with such regulations as
+
+<!-- marginal: training -->
+
+<!-- marginal: company. -->
+
+may be made under this Act.".
 
 <!-- marginal: New section -->
 
@@ -820,9 +866,43 @@ principal Act is amended by inserting after
 
 <!-- marginal: 27G. -->
 
-section 2 27F the following section:
+<!-- marginal: section 2 -->
 
-Grant of 27G. (1) The Minister may grant approval in approval of respect of an application for an investment tax application allowance made under section 26G(l) subject to for investment such terms and conditions as he deems fit: tax allowance Provided that where the Minister is satisfied made under that the company was engaged in an activity or 26G(l). had otherwise incurred capital expenditure in relation thereto, from a date prior to the date from which the activity was deemed as a promoted activity under section 4B, the approval may be granted retrospectively from a date not earlier than the 28th October 1994.
+27F the following section:
+
+<!-- marginal: Grant of -->
+
+27G. (1) The Minister may grant approval in
+
+<!-- marginal: approval of -->
+
+respect of an application for an investment tax
+
+<!-- marginal: application -->
+
+allowance made under section 26G(l) subject to
+
+<!-- marginal: for -->
+
+<!-- marginal: investment -->
+
+such terms and conditions as he deems fit:
+
+<!-- marginal: tax -->
+
+<!-- marginal: allowance -->
+
+Provided that where the Minister is satisfied
+
+<!-- marginal: made under -->
+
+that the company was engaged in an activity or
+
+<!-- marginal: section -->
+
+<!-- marginal: 26G(l). -->
+
+had otherwise incurred capital expenditure in relation thereto, from a date prior to the date from which the activity was deemed as a promoted activity under section 4B, the approval may be granted retrospectively from a date not earlier than the 28th October 1994.
 
 (2) The Minister may vary the terms and conditions imposed under subsection (1).
 
@@ -844,13 +924,55 @@ Grant of 27G. (1) The Minister may grant approval in approval of respect of an a
 
 (ii) in paragraph (b) by inserting after the words "27F(2)" the words ", 27o(l), 2Gc(2)".
 
-New section
+<!-- marginal: New section -->
 
 34. The principal Act is amended by inserting after
 
 29H. section 29G the following section:
 
-"Investment 29H. (1) Where a technical or vocational tax training company which has been granted allowance approval under section 27G has incurred in the for application basis period for a year of assessment in respect of under an activity relating to technical or vocational 26o training capital expenditure for the purposes of which has that activity, there shall be given to the company been approved for that year of assessment an investment tax under allowance of one hundred per cent of that
+<!-- marginal: "Investment -->
+
+29H. (1) Where a technical or vocational
+
+<!-- marginal: tax -->
+
+training company which has been granted
+
+<!-- marginal: allowance -->
+
+approval under section 27G has incurred in the
+
+<!-- marginal: for -->
+
+<!-- marginal: application -->
+
+basis period for a year of assessment in respect of
+
+<!-- marginal: under -->
+
+an activity relating to technical or vocational
+
+<!-- marginal: section -->
+
+<!-- marginal: 26o -->
+
+training capital expenditure for the purposes of
+
+<!-- marginal: which has -->
+
+that activity, there shall be given to the company
+
+<!-- marginal: been -->
+
+<!-- marginal: approved -->
+
+for that year of assessment an investment tax
+
+<!-- marginal: under -->
+
+allowance of one hundred per cent of that
+
+<!-- marginal: section -->
 
 27G. expenditure.
 
@@ -888,7 +1010,13 @@ or on any plant and machinery used in Malaysia in connection with and for the pu
 
 (7) Notwithstanding subsection (6), "capital expenditure" shall not include capital expenditure incurred on buildings (which are used as living accommodation for persons), plant and machinery where such buildings, plant or machinery are provided wholly or partly for the use of a director or an individual who is a member of the management, administrative or clerical staff.".
 
-Amendmen 35. Subsection 37(2) of the principal Act is amended by of section 37 substituting for the word "adjusted" the word "statutory".
+<!-- marginal: Amendmen -->
+
+35. Subsection 37(2) of the principal Act is amended by
+
+<!-- marginal: of section 37 -->
+
+substituting for the word "adjusted" the word "statutory".
 
 ## EXPLANATORY STATEMENT
 
@@ -954,7 +1082,9 @@ Clause 12 also seeks to amend subsections (5) and (6) in relation to a resident 
 
 <!-- page 28 -->
 
-by way of gift to a technical or vocational training institute established and maintained by the government or a statutory body, or to a technical or vocational training institute approved by the Minister, or to an approved research institute, the disposal value shall be taken to be zero. This amendment will be effective from the year of assessment 1995.
+by way of gift to a technical or vocational training institute established and maintained by the government or a statutory body, or to a technical or vocational training institute approved by the Minister, or to an approved research institute, the disposal value shall be taken to be zero. This amendment will be effective from the year of assessment
+
+1995.
 
 19. Clause 21 seeks to introduce a new paragraph 36 into Schedule 6 to provide that sums received by way of annuities granted under annuity contracts issued by Malaysian life insurers are to be exempt from tax. This amendment will be effective from the year of assessment 1995.
 

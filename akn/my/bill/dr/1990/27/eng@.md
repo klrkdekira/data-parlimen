@@ -116,7 +116,11 @@ subsection (2).
 
 after section 5, the following new section 5A:
 
-"Tenure of 5A. Each member of the Board shall, unless he office. sooner resigns his membership or his membership or his appointment is sooner revoked, hold office for a period not exceeding two years, but shall be eligible for reappointment.".
+"Tenure of 5A. Each member of the Board shall, unless he office. sooner resigns his membership or his membership or his appointment is sooner revoked, hold office for a period not exceeding two years, but shall be eligible
+
+<!-- marginal: for -->
+
+reappointment.".
 
 <!-- marginal: Amendment -->
 
@@ -136,9 +140,11 @@ paragraphs (b) to (g) of subsection (1) of section 4, appoint two persons to be 
 
 (c) by substituting for subsection (4) the following: "(4) An alternate member shall, unless he sooner resigns his membership or his appointment is sooner revoked, cease to be an alternate member when the member whom he is alternate to ceases to be a member of the Board.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-7. Section 8 of the principal Act is amended— of section 8.
+7. Section 8 of the principal Act is amended—
+
+<!-- marginal: of section 8. -->
 
 (a) in subsection (2)— (i) by deleting the comma after the word "appointment"; and (ii) by substituting for the words "the Secretary General of the Ministry for the time being responsible for the timber industry" the words "or in the absence of the Chairman from any meeting of the Board, the representative appointed under section 4 (1) (b)"\ and
 
@@ -150,25 +156,89 @@ Amendment
 
 ## (INCORPORATION) (AMENDMENT)
 
-Amendment
+<!-- marginal: Amendment -->
 
-8. The principal Act is amended by substituting for of section 9. section 9 the following:
+8. The principal Act is amended by substituting for
 
-"Appoint- "9. (1) The Minister shall appoint a Director- ment of General of the Board on such terms and officers and conditions and for such specified period as he servants. may determine.
+<!-- marginal: of section 9. -->
+
+section 9 the following:
+
+<!-- marginal: "Appoint- -->
+
+"9. (1) The Minister shall appoint a Director-
+
+<!-- marginal: ment of -->
+
+General of the Board on such terms and
+
+<!-- marginal: officers -->
+
+<!-- marginal: and -->
+
+conditions and for such specified period as he
+
+<!-- marginal: servants. -->
+
+may determine.
 
 (2) The Board may, on such terms and conditions, appoint a Deputy Director-General of the Board and such number of other officers and servants of the Board, including Quality Control Inspectors, as it considers necessary and expedient for the exercise of its functions.
 
 (3) The appointment of the Director-General, the Deputy Director-General and the Quality Control Inspectors shall be published in the Gazette".
 
-New
+<!-- marginal: New -->
 
-9. The principal Act is amended by inserting, immediately sections after section 9, the following new sections 9A and 9B: 9A and 9B. "Board
+9. The principal Act is amended by inserting, immediately
 
-9A. The Board may from time to time with the may approval of the Minister and the concurrence of provide for the Minister of Finance, after consultation with schemes the Director-General of Public Services, make of service. regulations to provide for any scheme of service for its officers and servants, including the terms and conditions of service and the salaries, any pension scheme, and any scheme relating to allowances and other remunerations payable to its officers and servants.
+<!-- marginal: sections -->
 
-Powers
+after section 9, the following new sections 9A and 9B:
 
-9B. (1) The Director-General shall be the chief and executive officer of the Board and shall have all duties of the the powers and duties necessary for carrying out Director- the administration and technical functions of the General. Board.
+<!-- marginal: 9A and 9B. -->
+
+<!-- marginal: "Board -->
+
+9A. The Board may from time to time with the
+
+<!-- marginal: may -->
+
+approval of the Minister and the concurrence of
+
+<!-- marginal: provide -->
+
+<!-- marginal: for -->
+
+the Minister of Finance, after consultation with
+
+<!-- marginal: schemes -->
+
+the Director-General of Public Services, make
+
+<!-- marginal: of service. -->
+
+regulations to provide for any scheme of service for its officers and servants, including the terms and conditions of service and the salaries, any pension scheme, and any scheme relating to allowances and other remunerations payable to its officers and servants.
+
+<!-- marginal: Powers -->
+
+9B. (1) The Director-General shall be the chief
+
+<!-- marginal: and -->
+
+executive officer of the Board and shall have all
+
+<!-- marginal: duties -->
+
+<!-- marginal: of the -->
+
+the powers and duties necessary for carrying out
+
+<!-- marginal: Director- -->
+
+the administration and technical functions of the
+
+<!-- marginal: General. -->
+
+Board.
 
 (2) The powers and duties referred to in subsection (1) shall be in addition to any power or duty conferred or imposed on the Director-
 
@@ -196,31 +266,25 @@ General by the Board or by this Act and any regulation made thereunder.
 
 ## (INCORPORATION) (AMENDMENT)
 
-Amendment
+<!-- marginal: Amendment -->
 
-10. Section 12 of the principal Act is amended— of section 12.
+10. Section 12 of the principal Act is amended—
 
-(a) in subsection (1)—
+<!-- marginal: of section 12. -->
 
-(i) by inserting, immediately after para- graph (b), the following new paragraph (bb): "(bb) to co-ordinate activities for effective marketing and shipping of timber;";
+(a) in subsection (1)— (i) by inserting, immediately after para- graph (b), the following new paragraph (bb): "(bb) to co-ordinate activities for effective marketing and shipping of timber;"; (ii) by deleting the words "exploiting and" in paragraph (c);
 
-(ii) by deleting the words "exploiting and" in paragraph (c);
-
-(ni) by inserting, after the word "services" in paragraph (d), the words "and training";
-
-(iv) by deleting the word "and" at the end of paragraph (e)
-
-(v) by substituting for the full stop at the end of paragraph (f), a semicolon; and
-
-(vi) by inserting, immediately after para- graph (f), the following new paragraphs (g) and (h): "(g) to gather information on and maintain records of all relevant matters relating to the timber industry; and
+(ni) by inserting, after the word "services" in paragraph (d), the words "and training"; (iv) by deleting the word "and" at the end of paragraph (e) (v) by substituting for the full stop at the end of paragraph (f), a semicolon; and (vi) by inserting, immediately after para- graph (f), the following new paragraphs (g) and (h): "(g) to gather information on and maintain records of all relevant matters relating to the timber industry; and
 
 (h) generally to do everything within the scope of the objectives of this Act for the betterment and proper conduct of the timber industry."; and
 
 (b) by inserting, in paragraph (a) of subsection (2) immediately after the word "negotiations", the words "and agreements or arrangements" and, immediately after the word "necessary", the words "for carrying out its functions and".
 
-Amendment
+<!-- marginal: Amendment -->
 
-11. Section 13 of the principal Act is amended— of section 13.
+11. Section 13 of the principal Act is amended—
+
+<!-- marginal: of section 13. -->
 
 (a) by substituting for subsection (4) the following: "(4) No person shall carry on business as a supplier or timber processor, for the purpose
 
@@ -230,13 +294,29 @@ of export trade, unless he is registered under this Act.";
 
 (b) by deleting subsections (5) and (6); and
 
-(c) by substituting for the word "dollars" in subsection (7) the word "ringgit". New
+(c) by substituting for the word "dollars" in subsection (7) the word "ringgit".
 
-12. The principal Act is amended by inserting, section 13A. immediately after section 13, the following new section 13 "Exemp-
+<!-- marginal: New -->
 
-13A. The Minister may, in the interest of the tion. timber industry and by order published in the Gazette, exempt any person from the requirement of registration under section 13.". Amendment
+12. The principal Act is amended by inserting,
 
-13. Section 14 of the principal Act in amended— of section 14.
+<!-- marginal: section 13A. -->
+
+immediately after section 13, the following new section 13
+
+<!-- marginal: "Exemp- -->
+
+13A. The Minister may, in the interest of the
+
+<!-- marginal: tion. -->
+
+timber industry and by order published in the Gazette, exempt any person from the requirement of registration under section 13.".
+
+<!-- marginal: Amendment -->
+
+13. Section 14 of the principal Act in amended—
+
+<!-- marginal: of section 14. -->
 
 (a) by substituting for subsection (1) the following: "(1) Any person who desires to export timber or carry on business as an exporter or a jetty operator, any grader who desires to carry on the business of grading timber or any person who desires to carry on business as a supplier or timber processor may, in such manner as may be prescribed, apply to the Board for registration.";
 
@@ -256,7 +336,33 @@ of export trade, unless he is registered under this Act.";
 
 <!-- marginal: section 14A. -->
 
-immediately after section 14, the following new section MA: "Power 14A. The Board shall have the power to vary to vary any condition or restriction imposed on any conditions or restric- registration under subsection (2) of section 14: tions of registra- Provided that the Board shall not vary any ion. condition or restriction of the registration unless a reasonable notice and an opportunity of being heard on any objection as to the intended variation has been given to a registered person likely to be affected by such variation.
+immediately after section 14, the following new section
+
+<!-- marginal: MA: -->
+
+<!-- marginal: "Power -->
+
+14A. The Board shall have the power to vary
+
+<!-- marginal: to vary -->
+
+any condition or restriction imposed on any
+
+<!-- marginal: conditions -->
+
+<!-- marginal: or restric- -->
+
+registration under subsection (2) of section 14:
+
+<!-- marginal: tions of -->
+
+<!-- marginal: registra- -->
+
+Provided that the Board shall not vary any
+
+<!-- marginal: ion. -->
+
+condition or restriction of the registration unless a reasonable notice and an opportunity of being heard on any objection as to the intended variation has been given to a registered person likely to be affected by such variation.
 
 (2) The Board may, upon hearing any objection under subsection (1), dismiss the objection if it considers it of no merit and shall proceed to vary the condition or restriction of registration as intended.
 
@@ -274,7 +380,9 @@ section 15, the following:
 
 <!-- marginal: 15. -->
 
-"Register. 15. The Board shall keep or cause to be kept a register of exporters, jetty operators, registered graders, suppliers and timber processors in such manner as it may determine.".
+<!-- marginal: "Register. -->
+
+15. The Board shall keep or cause to be kept a register of exporters, jetty operators, registered graders, suppliers and timber processors in such manner as it may determine.".
 
 <!-- marginal: Amendment -->
 
@@ -304,9 +412,13 @@ section 15, the following:
 
 (b) Where the Board refuses to renew the registration of a registered person under subsection (1) it shall notify such person in writing to that effect stating the reasons for the refusal.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-17. Section 18 of the principal Act is amended by of section 18. substituting for subsection (1), the following:
+17. Section 18 of the principal Act is amended by
+
+<!-- marginal: of section 18. -->
+
+substituting for subsection (1), the following:
 
 "(1) Any person who is aggrieved by the decision of the Board, to refuse to effect registration under section 14 or to suspend, cancel or to refuse to renew registra- tion under section 17, may, within thirty days of the date the decision was communicated to him, appeal to the Minister.".
 
@@ -314,15 +426,25 @@ Amendment
 
 ## (INCORPORATION) (AMENDMENT)
 
-<!-- marginal: Amendment -->
+Amendment
 
-18. Section 19 of the principal Act is amended—
+18. Section 19 of the principal Act is amended— of section 19.
 
-<!-- marginal: of section 19. -->
+(a) in subsection (2)—
 
-(a) in subsection (2)— (i) by substituting for paragraph (d) the following: "(d) all monies received by the Board by way of grants from the Federal Government or any State Government;"; (ii) by inserting, immediately after paragraph (d), the following new paragraph (dd): "(dd) all monies received by the Board by way of grants, donations or contributions from recognized institutions or international agencies;"; (iii) by deleting the word "and" at the end of paragraph (e)\ and (iv) by inserting, immediately after paragraph ( e ), the following new paragraph (ee): "(ee) all monies received as fees and charges for advice or services rendered pursuant to section 20A; and";
+(i) by substituting for paragraph (d) the following: "(d) all monies received by the Board by way of grants from the Federal Government or any State Government;";
 
-(b) in subsection (3)— (i) by substituting for the full stop at the end of paragraph (c) a semicolon; (ii) by inserting, immediately after paragraph (c), the following new paragraphs (d) and (e): "(d) repaying monies borrowed by the Board under section 22; and
+(ii) by inserting, immediately after paragraph (d), the following new paragraph (dd): "(dd) all monies received by the Board by way of grants, donations or contributions from recognized institutions or international agencies;";
+
+(iii) by deleting the word "and" at the end of paragraph (e)\ and
+
+(iv) by inserting, immediately after paragraph ( e ), the following new paragraph (ee): "(ee) all monies received as fees and charges for advice or services rendered pursuant to section 20A; and";
+
+(b) in subsection (3)—
+
+(i) by substituting for the full stop at the end of paragraph (c) a semicolon;
+
+(ii) by inserting, immediately after paragraph (c), the following new paragraphs (d) and (e): "(d) repaying monies borrowed by the Board under section 22; and
 
 (e) subject to the approval of the Minister given after consultation with the Minister of Finance, making contributions to any local
 
@@ -330,21 +452,59 @@ Amendment
 
 or international organization, for the purpose of promoting the trade, utilisation and processing, and ensuring adequate supply, of timber to the industry."; and
 
-(c) by substituting for the words "provided by Parliament" in subsection (4) the words "received by way of grants from the Federal Government or any State Government". New
+(c) by substituting for the words "provided by Parliament" in subsection (4) the words "received by way of grants from the Federal Government or any State Government".
 
-19. The principal Act is amended by inserting, section 20A. immediately after section 20, the following new section 20A: "Power to 20A. The Board may, from time to time, fix and impose collect fees and charges in respect of any and collect fees and technical advisory services or other services other provided by the Board pursuant to this Act.". forms of payments. Amendment
+<!-- marginal: New -->
 
-20. Section 22 of the principal Act is amended by of section 22. inserting, immediately after the word "by", the words "the Minister, with the concurrence of. Amendment
+19. The principal Act is amended by inserting,
 
-21. Section 23 of the principal Act is amended by of section 23. substituting for the words "who shall act after consulting" the words "given with the concurrence of. Amendment
+<!-- marginal: section 20A. -->
 
-22. Section 24 of the principal Act is amended by of section 24. substituting for the word "Chairman" wherever it appears, the word "Director-General". Amendment
+immediately after section 20, the following new section 20A: "Power to 20A. The Board may, from time to time, fix and impose collect fees and charges in respect of any and collect fees and technical advisory services or other services other provided by the Board pursuant to this Act.". forms of payments.
 
-23. The principal Act is amended by substituting for of section 25. section 25, the following: "Audit and 25. The Statutory Bodies (Accounts and Annual annual Reports) Act 1980 shall apply in respect of the report. Act 240 accounts, audit and annual reports of the Board.". Amendment
+<!-- marginal: Amendment -->
 
-24. The principal Act is amended by deleting section 26. of section 26. Amendment
+20. Section 22 of the principal Act is amended by
 
-25. Section 27 of the principal Act is amended— of section 27.
+<!-- marginal: of section 22. -->
+
+inserting, immediately after the word "by", the words "the Minister, with the concurrence of.
+
+<!-- marginal: Amendment -->
+
+21. Section 23 of the principal Act is amended by
+
+<!-- marginal: of section 23. -->
+
+substituting for the words "who shall act after consulting" the words "given with the concurrence of.
+
+<!-- marginal: Amendment -->
+
+22. Section 24 of the principal Act is amended by
+
+<!-- marginal: of section 24. -->
+
+substituting for the word "Chairman" wherever it appears, the word "Director-General".
+
+<!-- marginal: Amendment -->
+
+23. The principal Act is amended by substituting for
+
+<!-- marginal: of section 25. -->
+
+section 25, the following: "Audit and 25. The Statutory Bodies (Accounts and Annual annual Reports) Act 1980 shall apply in respect of the report. Act 240 accounts, audit and annual reports of the Board.".
+
+<!-- marginal: Amendment -->
+
+24. The principal Act is amended by deleting section 26.
+
+<!-- marginal: of section 26. -->
+
+<!-- marginal: Amendment -->
+
+25. Section 27 of the principal Act is amended—
+
+<!-- marginal: of section 27. -->
 
 (a) by substituting for subsection (1), the following:
 
@@ -370,11 +530,67 @@ or regulations thereunder has been committed in respect of any timber found in t
 
 (7) Where the Director-General has obtained the consent of the Chairman for the purposes of subsection (1) he may authorize any officer of the Board to exercise the powers conferred under subsection (1), (4) or (6).".
 
-New sections
+<!-- marginal: New sections -->
 
-26. The principal Act is amended by inserting, 27A, 27B, 27c, immediately after section 27, the following new sections 27D, 27E, 27F, 27G, 27H, 27I, 27A, 27B, 27c, 27D, 27E, 27F, 27G, 27H, 27I, 27J and 27K: 27J and 27K. "Director- 27A. The Director-General or any officer of the General to Board so authorized in writing by the Director- carry out inspection General may, if he has reason to believe that an at legal offence under this Act or the rules or regulations landing made thereunder has been committed, carry out place. inspection and examination at any legal landing place as he considers necessary and may seize and detain any timber, book, document or other thing found thereat. List of 27B. Where any timber, book, document or seizures. other thing is seized under section 27 or 27A, the officer effecting the seizure shall prepare a list of the things seized and forthwith deliver a copy signed by him to the owner or the person' from whom the things were seized.
+26. The principal Act is amended by inserting,
 
-Return of 27c. (1) Where timber is seized under this Act, timber the Director-General or any officer of the Board seized. so authorized in writing by him, may in his discretion—
+<!-- marginal: 27A, 27B, 27c, -->
+
+immediately after section 27, the following new sections
+
+<!-- marginal: 27D, 27E, 27F, -->
+
+<!-- marginal: 27G, 27H, 27I, -->
+
+27A, 27B, 27c, 27D, 27E, 27F, 27G, 27H, 27I, 27J and 27K:
+
+<!-- marginal: 27J and 27K. -->
+
+<!-- marginal: "Director- -->
+
+27A. The Director-General or any officer of the
+
+<!-- marginal: General to -->
+
+Board so authorized in writing by the Director-
+
+<!-- marginal: carry out -->
+
+<!-- marginal: inspection -->
+
+General may, if he has reason to believe that an
+
+<!-- marginal: at legal -->
+
+offence under this Act or the rules or regulations
+
+<!-- marginal: landing -->
+
+made thereunder has been committed, carry out
+
+<!-- marginal: place. -->
+
+inspection and examination at any legal landing place as he considers necessary and may seize and detain any timber, book, document or other thing found thereat.
+
+<!-- marginal: List of -->
+
+27B. Where any timber, book, document or
+
+<!-- marginal: seizures. -->
+
+other thing is seized under section 27 or 27A, the officer effecting the seizure shall prepare a list of the things seized and forthwith deliver a copy signed by him to the owner or the person' from whom the things were seized.
+
+<!-- marginal: Return of -->
+
+27c. (1) Where timber is seized under this Act,
+
+<!-- marginal: timber -->
+
+the Director-General or any officer of the Board
+
+<!-- marginal: seized. -->
+
+so authorized in writing by him, may in his discretion—
 
 (a) temporarily return the timber to the owner or to the person from whose possession, custody or control it was seized, subject to such terms and conditions as may be imposed by the Director-General and in any case, subject to sufficient security being furnished to
 
@@ -386,7 +602,29 @@ the satisfaction of the Director-General that the timber shall be surrendered to
 
 (b) return the timber to the owner or to the person from whose possession, custody or control it was seized with liberty for the person to whom the timber is so returned to dispose of the same, such return being subject to security being furnished to the satisfaction of the Director-General in an amount not less than an amount which, in the opinion of the Director-General represents the open market value of such timber on the date on which it is so returned for the payment of the amount so secured to the Director- General in the event of the court making an order for forfeiture of such amount under section 27E; or (c) to sell the timber if in the opinion of the Director-General that it is likely to deteriorate in quality or value and in such case the Director-General shall hold the proceeds of sale pending the result of any prosecution or claim and in relation to such proceeds of sale to abide by the outcome of such prosecution or claim.
 
-(2) No person shall be entitled to maintain any action on account of any act done or any decision taken by or on behalf of the Board under this section, and no court shall have any jurisdiction to entertain any such action. Things 27o. All things liable to seizure under this Act, liable to shall be liable to forfeiture. forfeiture. Court to 2?E. (1) If there is no prosecution with regard order to any timber seized under this Act, such timber forfeiture. shall be taken and deemed to be forfeited at the
+(2) No person shall be entitled to maintain any action on account of any act done or any decision taken by or on behalf of the Board under this section, and no court shall have any jurisdiction to entertain any such action.
+
+<!-- marginal: Things -->
+
+27o. All things liable to seizure under this Act,
+
+<!-- marginal: liable to -->
+
+shall be liable to forfeiture.
+
+<!-- marginal: forfeiture. -->
+
+<!-- marginal: Court to -->
+
+2?E. (1) If there is no prosecution with regard
+
+<!-- marginal: order -->
+
+to any timber seized under this Act, such timber
+
+<!-- marginal: forfeiture. -->
+
+shall be taken and deemed to be forfeited at the
 
 <!-- page 16 -->
 
@@ -400,19 +638,99 @@ expiration of one calendar month from the date of seizure unless a claim thereto
 
 (4) The Magistrate shall issue a summons requiring the Board and the person asserting that he is the owner of the timber seized or the proceeds of sale thereof and the person from whom the timber was seized to appear before him, and upon their appearance or default to appear, due service of the summons being proved, the Magistrate shall proceed to the examination of the matter and on proof that an offence has been committed under this Act and that the timber seized was the subject matter of the offence shall order the timber seized or the proceeds of sale thereof to be forfeited or, in the absence of such proof, shall order its release.
 
-(5) In any proceedings under this Act the Board may be represented by the Director- General or an officer or servant of the Board authorized in writing in that behalf by the Director-General. Things
+(5) In any proceedings under this Act the Board may be represented by the Director- General or an officer or servant of the Board authorized in writing in that behalf by the Director-General.
 
-27F. Any thing or proceeds of sale thereof forfeited forfeited or taken and deemed to be forfeited to be the property under this Act shall be the property of the of the Federation or paid to the Federal Consolidated Federation. Fund, less any sum that may be certified by the Director-General as having been incurred by the
+<!-- marginal: Things -->
+
+27F. Any thing or proceeds of sale thereof
+
+<!-- marginal: forfeited -->
+
+forfeited or taken and deemed to be forfeited
+
+<!-- marginal: to be the -->
+
+<!-- marginal: property -->
+
+under this Act shall be the property of the
+
+<!-- marginal: of the -->
+
+Federation or paid to the Federal Consolidated
+
+<!-- marginal: Federation. -->
+
+Fund, less any sum that may be certified by the Director-General as having been incurred by the
 
 <!-- page 17 -->
 
 ## (INCORPORATION) (AMENDMENT)
 
-Board in effecting the provisions of section 27 or 27A and in carrying out the sale under this Act. No costs of 27G. No person shall, in any proceedings before proceedings any court in respect of the seizure of any timber shall be allowed or any other thing seized in exercise of any power conferred under this Act, be entitled to the cost of such proceedings or to any damages or other relief other than an order for the return of the timber or any other thing seized or the payment of its value unless such seizure was made without reasonable or probable cause. False or 27H. Where any person who is required to give misleading any information under this Act gives information. information which he has reason to believe is false or misleading or which he believes is not true in relation to any matter under this Act or the rules or regulations made thereunder, he shall be guilty of an offence. Authority 27I. An officer exercising his powers under card to be section 27 shall, if so required by a person in produced. charge or control of any business place or premises, mill or yard into which entry is to be made or inspection or tests are to be conducted, produce proof of his identity and authorization in writing to such person. Obstruction 27J. Any person who in any way obstructs, of hinders, prevents or interferes with
+Board in effecting the provisions of section 27 or 27A and in carrying out the sale under this Act.
 
-<!-- marginal: the -->
+<!-- marginal: No costs of -->
 
-authorized officers. Director-General or any officer of the Board, in the exercise of his powers or carrying out his duties under this Act or who fails to afford such assistance as is reasonably required by the Director-General or any officer of the Board, commits an offence and shall be liable on conviction to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding one year or to both. Examina- 27K. (1) The Director-General or any officer of tion of the Board may, in carrying out inspection and witnesses. examination pursuant to the provisions of this Act, examine orally any person whom he
+27G. No person shall, in any proceedings before
+
+<!-- marginal: proceedings -->
+
+any court in respect of the seizure of any timber
+
+<!-- marginal: shall be -->
+
+<!-- marginal: allowed -->
+
+or any other thing seized in exercise of any power conferred under this Act, be entitled to the cost of such proceedings or to any damages or other relief other than an order for the return of the timber or any other thing seized or the payment of its value unless such seizure was made without reasonable or probable cause.
+
+<!-- marginal: False or -->
+
+27H. Where any person who is required to give
+
+<!-- marginal: misleading -->
+
+any information under this Act gives
+
+<!-- marginal: information. -->
+
+information which he has reason to believe is false or misleading or which he believes is not true in relation to any matter under this Act or the rules or regulations made thereunder, he shall be guilty of an offence.
+
+<!-- marginal: Authority -->
+
+27I. An officer exercising his powers under
+
+<!-- marginal: card to be -->
+
+section 27 shall, if so required by a person in
+
+<!-- marginal: produced. -->
+
+charge or control of any business place or premises, mill or yard into which entry is to be made or inspection or tests are to be conducted, produce proof of his identity and authorization in writing to such person.
+
+<!-- marginal: Obstruction -->
+
+27J. Any person who in any way obstructs,
+
+<!-- marginal: of -->
+
+hinders, prevents or interferes with the
+
+<!-- marginal: authorized -->
+
+<!-- marginal: officers. -->
+
+Director-General or any officer of the Board, in the exercise of his powers or carrying out his duties under this Act or who fails to afford such assistance as is reasonably required by the Director-General or any officer of the Board, commits an offence and shall be liable on conviction to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding one year or to both.
+
+<!-- marginal: Examina- -->
+
+27K. (1) The Director-General or any officer of
+
+<!-- marginal: tion of -->
+
+the Board may, in carrying out inspection and
+
+<!-- marginal: witnesses. -->
+
+examination pursuant to the provisions of this Act, examine orally any person whom he
 
 <!-- page 18 -->
 
@@ -422,35 +740,63 @@ Provided that such person may refuse to answer any question the answer to which 
 
 (2) A person making a statement under this section shall be legally bound to state the truth, whether or not such statement is made wholly or partly in answer to any question.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-27. Section 28 of the principal Act is amended by of section 28. substituting for the word "Chairman" in subsection (2) the word "Director-General".
+27. Section 28 of the principal Act is amended by
 
-Amendment
+<!-- marginal: of section 28. -->
 
-28. Sections 29, 30 and 33 of the principal Act are of sections 29, amended by substituting for the word "dollars" wherever 30 and 33. appearing therein the word "ringgit".
+substituting for the word "Chairman" in subsection (2) the word "Director-General".
 
-New
+<!-- marginal: Amendment -->
 
-29. The principal Act is amended by inserting, section 29A. immediately after section 29, the following new section 29A:
+28. Sections 29, 30 and 33 of the principal Act are
 
-"Protection
+<!-- marginal: of sections 29, -->
 
-29A. The Board or any of its members, officers against or servants shall not be liable for any loss or legal pro- damage caused to any person by reason of any ceedings. act or omission or statement made in pursuance of the execution or intended execution of their functions under this Act, unless the act or omission or statement was done or made mala fide or through recklessness or negligence of such members, officers or servants.".
+amended by substituting for the word "dollars" wherever
 
-New
+<!-- marginal: 30 and 33. -->
 
-30. The principal Act is amended by inserting, sections 30A immediately after section 30, the following new sections and 30B. 30A and 30B:
+appearing therein the word "ringgit".
 
-"Prosecu-
+<!-- marginal: New -->
 
-30A. Prosecution in respect of offences under tion of this Act or any regulation made thereunder may offences.
+29. The principal Act is amended by inserting,
+
+<!-- marginal: section 29A. -->
+
+immediately after section 29, the following new section 29A:
+
+"Protection 29A. The Board or any of its members, officers against or servants shall not be liable for any loss or legal pro- damage caused to any person by reason of any ceedings. act or omission or statement made in pursuance of the execution or intended execution of their functions under this Act, unless the act or omission or statement was done or made mala fide or through recklessness or negligence of such members, officers or servants.".
+
+<!-- marginal: New -->
+
+30. The principal Act is amended by inserting,
+
+<!-- marginal: sections 30A -->
+
+immediately after section 30, the following new sections
+
+<!-- marginal: and 30B. -->
+
+30A and 30B:
+
+"Prosecu- 30A. Prosecution in respect of offences under tion of this Act or any regulation made thereunder may offences.
 
 <!-- page 19 -->
 
 ## (INCORPORATION) (AMENDMENT)
 
-be conducted by the Director-General or any officer of the Board so authorized in writing in that behalf by the Director-General. Power to 30e. (1) Any offence against this Act or against compound. any regulation made thereunder which is prescribed to be a compoundable offence may be compounded by the Director-General or by any officer of the Board specially authorized in writing in that behalf by accepting from the person reasonably suspected of having committed the offence a sum of money not exceeding two thousand ringgit.
+be conducted by the Director-General or any officer of the Board so authorized in writing in that behalf by the Director-General.
+
+<!-- marginal: Power to -->
+
+30e. (1) Any offence against this Act or against
+
+<!-- marginal: compound. -->
+
+any regulation made thereunder which is prescribed to be a compoundable offence may be compounded by the Director-General or by any officer of the Board specially authorized in writing in that behalf by accepting from the person reasonably suspected of having committed the offence a sum of money not exceeding two thousand ringgit.
 
 (2) Upon receipt of the payment under subsection (1) no further proceedings shall be taken against such person and any timber which is subject to a prohibitory notice under section 27 shall be released subject to any term and condition as to the proper rectification of the contravention, unless the timber consists of products the export of which is prohibited by any written law, in which case such timber shall be forfeited.".
 
@@ -464,19 +810,49 @@ immediately after section 33, the following new sections
 
 <!-- marginal: and 33B. -->
 
-33A and 33e: "Offence
+33A and 33e:
 
-33A. Where any offence against any provision committed of this Act or any regulation made thereunder by corpora- has been committed by a body of persons, tion. incorporated or otherwise, any person who at the time of the commission of the offence was a director, secretary, controller or any other similar officer having charge of such body of persons or was purporting to act in such capacity shall be guilty of that offence unless he proves that the offence was committed without his consent or connivance and that he has exercised all such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances.
+<!-- marginal: "Offence -->
+
+33A. Where any offence against any provision
+
+<!-- marginal: committed -->
+
+of this Act or any regulation made thereunder
+
+<!-- marginal: by -->
+
+<!-- marginal: corpora- -->
+
+has been committed by a body of persons,
+
+<!-- marginal: tion. -->
+
+incorporated or otherwise, any person who at the time of the commission of the offence was a director, secretary, controller or any other similar officer having charge of such body of persons or was purporting to act in such capacity shall be guilty of that offence unless he proves that the offence was committed without his consent or connivance and that he has exercised all such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances.
 
 <!-- page 20 -->
 
-Offences 33B. Where any person (who in this section is committed referred to as the "principal") would be liable by servant, agent, etc. under this Act to any punishment or penalty for any offence, act, omission, neglect or default, he shall be liable to the same punishment or penalty for every such offence, act, omission, neglect or default of any of his clerk, servant or agent or of the clerk or servant of such agent:
+<!-- marginal: Offences -->
+
+33B. Where any person (who in this section is
+
+<!-- marginal: committed -->
+
+referred to as the "principal") would be liable
+
+<!-- marginal: by servant, -->
+
+<!-- marginal: agent, etc. -->
+
+under this Act to any punishment or penalty for any offence, act, omission, neglect or default, he shall be liable to the same punishment or penalty for every such offence, act, omission, neglect or default of any of his clerk, servant or agent or of the clerk or servant of such agent:
 
 Provided that such offence, act, omission, neglect or default was committed by the principal's clerk or servant in the course of the employment, or by the agent when acting on behalf of the principal, or by the clerk or servant of such agent in the course of his employment by such agent or otherwise on behalf of the agent.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-32. Section 34 of the principal Act is amended— of section 34.
+32. Section 34 of the principal Act is amended—
+
+<!-- marginal: of section 34. -->
 
 (a) in subsection (1)— (i) by deleting the word "and" at the end of paragraph (b) (ii) by substituting for the full stop at the end of paragraph (c) a semicolon and inserting thereafter the word "and"; and (iii) by inserting after paragraph (c) the following new paragraph (d): "(d) specify the offences that are compoundable and prescribe the compounding and the methods thereof.";
 
@@ -486,25 +862,35 @@ Amendment
 
 ## (INCORPORATION) (AMENDMENT)
 
-(iii) by deleting paragraph (h);
+(iii) by deleting paragraph (h); (iv) by substituting for the full stop at the end of paragraph (i) a semicolon and inserting thereafter the word "and"; and (v) by inserting, immediately after para- graph (i), the following new paragraph (j): "(j) provide for all procedural and other matters, in so far as they do not fall within any of the preceding para- graphs, which by this Act are required or permitted to be prescribed or which are necessary to be prescribed for the carrying out of or giving effect to the provisions of this Act.".
 
-(iv) by substituting for the full stop at the end of paragraph (i) a semicolon and inserting thereafter the word "and"; and
+<!-- marginal: New -->
 
-(v) by inserting, immediately after para- graph (i), the following new paragraph
+33. The principal Act is amended by inserting,
 
-(j): "(j) provide for all procedural and other matters, in so far as they do not fall within any of the preceding para- graphs, which by this Act are required or permitted to be prescribed or which are necessary to be prescribed for the carrying out of or giving effect to the provisions of this Act.".
+<!-- marginal: sections 34A, -->
 
-New
+immediately after section 34, the following new sections
 
-33. The principal Act is amended by inserting, sections 34A, immediately after section 34, the following new sections 34s and 34c. 34A, 34B and 34c. "Discipline
+<!-- marginal: 34s and 34c. -->
 
-34A. (1) There shall be a Disciplinary of officers Committee of the Board which shall consist of and servants. two members to be elected by and from the members of the Board, one of whom shall be elected chairman, and the Director-General appointed under subsection (1) of section 9.
+34A, 34B and 34c.
 
-(2) The disciplinary authority in respect of every officer and servant of the Board other than the Director-General shall be the Disciplinary Committee of the Board established under subsection (1).
+<!-- marginal: "Discipline -->
 
-(3) The Disciplinary Committee in respect of the Director-General shall consist of the Secretary-General of the Ministry responsible for the timber industry as chairman and two members to be elected by and from the members of the Board.
+34A. (1) There shall be a Disciplinary
 
-(4) The Director-General shall not be a member of the Disciplinary Committee in any proceedings before it in which he is the
+<!-- marginal: of officers -->
+
+Committee of the Board which shall consist of
+
+<!-- marginal: and -->
+
+<!-- marginal: servants. -->
+
+two members to be elected by and from the members of the Board, one of whom shall be elected chairman, and the Director-General appointed under subsection (1) of section 9. (2) The disciplinary authority in respect of every officer and servant of the Board other than the Director-General shall be the Disciplinary Committee of the Board established under subsection (1).
+
+(3) The Disciplinary Committee in respect of the Director-General shall consist of the Secretary-General of the Ministry responsible for the timber industry as chairman and two members to be elected by and from the members of the Board. (4) The Director-General shall not be a member of the Disciplinary Committee in any proceedings before it in which he is the
 
 <!-- page 22 -->
 
@@ -522,7 +908,9 @@ complainant; his place shall be taken by a member to be elected by and from memb
 
 ## (INCORPORATION) (AMENDMENT)
 
-(9) The decision of the Board upon such appeal shall be final. Surcharge.
+(9) The decision of the Board upon such appeal shall be final.
+
+<!-- marginal: Surcharge. -->
 
 34B. (1) If it appears to the Board that any person who is or was in the employment of the Board—
 
@@ -552,7 +940,19 @@ amount of any such amount not collected, such payment, deficiency, or loss or th
 
 by equal monthly instalments not exceeding one fourth of the total monthly salary or pension, as the case may be, of the person.
 
-Power to 34c. (1) The Board may, with the approval of make the Minister, make such disciplinary regulations disciplinary regulations. as it deems necessary or expedient to provide for the discipline of the officers and servants of the Board.
+<!-- marginal: Power to -->
+
+34c. (1) The Board may, with the approval of
+
+<!-- marginal: make -->
+
+the Minister, make such disciplinary regulations
+
+<!-- marginal: disciplinary -->
+
+<!-- marginal: regulations. -->
+
+as it deems necessary or expedient to provide for the discipline of the officers and servants of the Board.
 
 <!-- page 25 -->
 
@@ -564,9 +964,13 @@ Power to 34c. (1) The Board may, with the approval of make the Minister, make su
 
 (4) The disciplinary regulations made under this section shall, in prescribing the procedure for disciplinary proceedings, provide for an opportunity for representation to be made by the person against whom disciplinary proceedings are taken before a decision is arrived at by the disciplinary authority on the disciplinary charge laid against such person.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-34. The principal Act is amended by substituting for the of First First Schedule, the following:
+34. The principal Act is amended by substituting for the
+
+<!-- marginal: of First -->
+
+First Schedule, the following:
 
 ## Schedule.
 
@@ -582,9 +986,13 @@ Products Harmonised Commodity Description and Coding System Wood waste, includin
 
 Products Harmonised Commodity Description and Coding System Woodchip 44.01 Fibreboard 44.11 Ground wood 44.05 Dressed timber 44.09 Mouldings, including headings 44.09 Veneer 44.08 Plywood 44.12 Blockboard/Laminboard 44.12 Battenboard Reconstituted wood product 44.10 (e.g. Chipboard Woodwool, Cementboard, Waferboards, Flakeboards) Wooden picture frames 44.14 Complete wooden cases/boxes, 44.15 crates (assembled) Wooden pallets (assembled) 44.15 Joinnery 44.18 Prefabricated buildings, 94.06 including houses Parquet flooring panels 44.18 (assembled) Wooden doors (unassembled/ 44.18 assembled) Articles of furniture of wood, 44.20 rattan and bamboo Rattan and bamboo 14.01 Other articles of wood 44.21 Chairs and other seats (of 94.01 wood, rattan and bamboo) Other furniture and furniture 94.03 components (of wood, rattan and bamboo) (sub-code 30/40/50/60/80)".
 
-Amendment
+<!-- marginal: Amendment -->
 
-35. Paragraph 1 of the Second Schedule to the principal of Second Act is amended—
+35. Paragraph 1 of the Second Schedule to the principal
+
+<!-- marginal: of Second -->
+
+Act is amended—
 
 ## Schedule.
 
@@ -596,9 +1004,11 @@ Amendment
 
 (b) by substituting for the words "a proper alternate member" the words "an alternate member, if any" in subparagraph (1) (a).
 
-Amendment
+<!-- marginal: Amendment -->
 
-36. The Third Schedule to the principal Act is amended— of Third
+36. The Third Schedule to the principal Act is amended—
+
+<!-- marginal: of Third -->
 
 ## Schedule. .
 
@@ -608,7 +1018,13 @@ Amendment
 
 (c) by inserting, below the words "Malaysia Plywood Manufacturers Association", the following:
 
-"Malaysian Wood Mouling Council 1 Malaysian Furniture Industry Council 1".
+"Malaysian Wood Mouling Council
+
+<!-- marginal: 1 -->
+
+Malaysian Furniture Industry Council
+
+<!-- marginal: 1". -->
 
 ## EXPLANATORY STATEMENT
 

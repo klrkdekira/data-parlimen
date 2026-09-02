@@ -336,7 +336,9 @@ Provided that the accessible moneys shall not include any moneys held by the rep
 
 ### Pindaan seksyen 97A
 
-17. Seksyen 97A Akta ibu dipinda dengan menggantikan subseksyen (1) dengan subseksyen yang berikut:
+17. Seksyen 97A Akta ibu dipinda dengan menggantikan subseksyen
+
+(1) dengan subseksyen yang berikut:
 
 “(1) Where in ascertaining the chargeable income of a person, it appears to the Director General that—
 
@@ -442,7 +444,7 @@ and the amount of compensation wrongly paid or ought not to have been paid and t
 
 23. Seksyen 134 Akta ibu dipinda—
 
-(a) dalam subseksyen (1a), dengan menggantikan perkataan “section 6a” dengan perkataan “subsection 6a(1)”;
+(a) dalam subseksyen (1a), dengan menggantikan perkataan “section 6a” dengan perkataan “subsection 6A(1)”;
 
 (b) dengan memasukkan selepas subseksyen (1a) subseksyen yang berikut:
 
@@ -510,7 +512,7 @@ Provided that in respect of portion of the building or extension of the building
 
 <!-- page 20 -->
 
-## bahagian ii
+## BAHAGIAN II
 
 ## PERUNTUKAN KECUALIAN DAN PERALIHAN
 
@@ -640,23 +642,11 @@ by him in writing, may at all reasonable times, inspect any stocks of unstamped 
 
 (a) dengan menggantikan butiran 19 dengan butiran yang berikut:
 
-“19 ANy BOND furnished to
-
-<!-- marginal: An immigration officer”; -->
-
-the Director General of
-
-<!-- marginal: dan -->
-
-Immigration in connection with the grant of any pass or permit issued under the Immigration Act 1959/63 [Act 155]
+“19 ANy BOND furnished to An immigration officer”; the Director General of dan Immigration in connection with the grant of any pass or permit issued under the Immigration Act 1959/63 [Act 155]
 
 (b) dengan memasukkan selepas butiran 19 butiran yang berikut:
 
-“19a EMPLOyMENT
-
-<!-- marginal: An immigration officer”. -->
-
-CONTRACT issued to the Immigration Department for the purpose of securing a pass
+“19a EMPLOyMENT An immigration officer”. CONTRACT issued to the Immigration Department for the purpose of securing a pass
 
 ## Bab IV
 
@@ -676,7 +666,7 @@ CONTRACT issued to the Immigration Department for the purpose of securing a pass
 
 34. Akta Cukai Keuntungan Harta Tanah 1976 dipinda dalam subperenggan 3(g) Jadual 2 dengan memasukkan selepas perkataan “Bank Negara” perkataan “, Lembaga Perkhidmatan Kewangan Labuan, Suruhanjaya Koperasi Malaysia”.
 
-## bab V
+## BAB V
 
 ## PINDAAN KEPADA AKTA CUKAI AKTIVITI PERNIAGAAN
 
@@ -706,9 +696,9 @@ CONTRACT issued to the Immigration Department for the purpose of securing a pass
 
 <!-- page 27 -->
 
-## Bab Vi
+## BAB VI
 
-PinDaan KePaDa aKta KeWangan 2009
+## PINDAAN KEPADA AKTA KEWANGAN 2009
 
 ### Permulaan kuat kuasa pindaan kepada Akta Kewangan
 
@@ -770,7 +760,9 @@ Pindaan ini berkuat kuasa bagi tahun taksiran 2012 dan tahun-tahun taksiran yang
 
 Fasal 10 selanjutnya bertujuan untuk memasukkan subseksyen baru 49(1D) dan (1e) ke dalam Akta 53 untuk memperuntukkan bahawa seorang individu pemastautin layak untuk amaun potongan tambahan sehingga RM3,000 berkenaan dengan jumlah pembayaran anuiti tertunda selain polisi insuran dan caruman yang dibuat kepada skim persaraan swasta yang diluluskan oleh Suruhanjaya Sekuriti.
 
-Pindaan ini berkuat kuasa bagi tahun taksiran 2012 hingga tahun taksiran 2021.
+Pindaan ini berkuat kuasa bagi tahun taksiran 2012 hingga tahun taksiran
+
+2021.
 
 8. Fasal 11 bertujuan untuk meminda seksyen 54a Akta 53. Sebelum pindaan, pendapatan statutori seorang pemastautin yang menjalankan perniagaan mengangkut penumpang atau kargo, atau menyewakan kapal Malaysia yang dimilikinya dikecualikan daripada cukai. Dengan pindaan yang dicadangkan, pendapatan statutori orang itu daripada perniagaan setiap kapal Malaysianya dianggap sebagai punca berasingan dan tujuh puluh peratus pendapatan statutorinya daripada setiap kapal dikecualikan daripada cukai. Baki tiga puluh peratus pendapatan statutori itu dikenakan cukai dan disifatkan sebagai jumlah pendapatan orang itu. Mana-mana kerugian larasan daripada operasi suatu kapal Malaysia bagi suatu tahun taksiran dibawa ke hadapan dan dibenarkan untuk mengurangkan pendapatan yang dikecualikan bagi orang itu daripada kapal yang sama dalam tahun-tahun taksiran yang berikutnya sehingga digunakan sepenuhnya.
 
@@ -816,7 +808,9 @@ Pindaan ini berkuat kuasa pada 1 Januari 2012.
 
 Pindaan ini mula berkuat kuasa apabila mula berkuatkuasanya Akta ini.
 
-16. Fasal 19 bertujuan untuk memasukkan seksyen 107D baru ke dalam Akta 53. Dengan pindaan yang dicadangkan itu, Ketua Pengarah diberikan kuasa untuk mengarahkan seseorang untuk membuat bayaran secara ansuran berkenaan dengan cukai dalam borang yang ditetapkan jika dia mempunyai sebab untuk mempercayai orang itu gagal mengemukakan suatu penyata di bawah Akta atau membuat penyata yang tidak betul atau memberikan maklumat yang tidak betul berhubungan kebolehkenaan cukainya. Arahan itu boleh dikeluarkan kepada orang itu sebelum taksiran atau taksiran komposit dibuat.
+16. Fasal 19 bertujuan untuk memasukkan seksyen 107D baru ke dalam Akta
+
+53. Dengan pindaan yang dicadangkan itu, Ketua Pengarah diberikan kuasa untuk mengarahkan seseorang untuk membuat bayaran secara ansuran berkenaan dengan cukai dalam borang yang ditetapkan jika dia mempunyai sebab untuk mempercayai orang itu gagal mengemukakan suatu penyata di bawah Akta atau membuat penyata yang tidak betul atau memberikan maklumat yang tidak betul berhubungan kebolehkenaan cukainya. Arahan itu boleh dikeluarkan kepada orang itu sebelum taksiran atau taksiran komposit dibuat.
 
 Pindaan ini mula berkuat kuasa apabila mula berkuatkuasanya Akta ini.
 
@@ -824,7 +818,9 @@ Pindaan ini mula berkuat kuasa apabila mula berkuatkuasanya Akta ini.
 
 Pindaan ini berkuat kuasa pada 1 Januari 2012.
 
-18. Fasal 21 bertujuan untuk memasukkan seksyen 111D baru ke dalam Akta 53. Dengan pindaan yang dicadangkan, seseorang berhak untuk mendapat suatu pampasan jika pembayaran balik cukai kena dibayar yang terlebih bayar dibuat selepas sembilan puluh hari dari tarikh penyata dikemukakan di bawah Akta melalui transmisi elektronik atau seratus dua puluh hari dari tarikh penyata dikemukakan dengan cara selain transmisi elektronik. Amaun pampasan dikira menurut formula yang dinyatakan dalam seksyen itu dan pampasan itu hanya terpakai kepada cukai kena dibayar yang terlebih bayar berkenaan dengan suatu penyata yang dikemukakan di bawah seksyen 77 atau 77a. Jika pampasan itu dibayar secara salah atau tidak sepatutnya dibayar kepada orang itu, orang itu dikehendaki untuk membayar balik amaun itu kepada Ketua Pengarah bersama-sama dengan penalti sebanyak sepuluh peratus daripada amaun yang tidak sepatutnya dibayar itu.
+18. Fasal 21 bertujuan untuk memasukkan seksyen 111D baru ke dalam Akta
+
+53. Dengan pindaan yang dicadangkan, seseorang berhak untuk mendapat suatu pampasan jika pembayaran balik cukai kena dibayar yang terlebih bayar dibuat selepas sembilan puluh hari dari tarikh penyata dikemukakan di bawah Akta melalui transmisi elektronik atau seratus dua puluh hari dari tarikh penyata dikemukakan dengan cara selain transmisi elektronik. Amaun pampasan dikira menurut formula yang dinyatakan dalam seksyen itu dan pampasan itu hanya terpakai kepada cukai kena dibayar yang terlebih bayar berkenaan dengan suatu penyata yang dikemukakan di bawah seksyen 77 atau 77a. Jika pampasan itu dibayar secara salah atau tidak sepatutnya dibayar kepada orang itu, orang itu dikehendaki untuk membayar balik amaun itu kepada Ketua Pengarah bersama-sama dengan penalti sebanyak sepuluh peratus daripada amaun yang tidak sepatutnya dibayar itu.
 
 Pindaan ini berkuat kuasa bagi tahun taksiran 2013 dan tahun-tahun taksiran yang berikutnya.
 

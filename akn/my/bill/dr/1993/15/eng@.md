@@ -8,9 +8,7 @@
 
 ## PRELIMINARY
 
-1. Short title, application and commencement.
-
-2. Interpretation.
+1. Short title, application and commencement. 2. Interpretation.
 
 ## PART II
 
@@ -18,23 +16,13 @@
 
 ## AND SEWERAGE SERVICES
 
-3. Federal Government to have authority for sewerage systems and services.
-
-4. Transfer of property for sewerage purposes.
-
-5. Existing agreements.
-
-6. Assumption of control and management of contractual undertakings.
-
-7. Privatisation agreement.
+3. Federal Government to have authority for sewerage systems and services. 4. Transfer of property for sewerage purposes. 5. Existing agreements. 6. Assumption of control and management of contractual undertakings. 7. Privatisation agreement.
 
 ## PART HI
 
 ## DIRECTOR GENERAL OF SEWERAGE SERVICES
 
-8. Director General, Deputy Director General, etc.
-
-9. Powers and functions of the Director General.
+8. Director General, Deputy Director General, etc. 9. Powers and functions of the Director General.
 
 10. Power of the Minister to give directions.
 
@@ -112,13 +100,27 @@
 
 ## LICENSING
 
-32. Licence required for certain acts. 33. Application for and issuance of licence. 34. Additional duty of licensee.
+32. Licence required for certain acts.
+
+33. Application for and issuance of licence.
+
+34. Additional duty of licensee.
 
 ## PART X
 
 ## MISCELLANEOUS
 
-35. Penalty for obstructing Director General, etc. 36. Penalty for not complying with notice. 37. Proceedings if occupier opposes the execution of works. 38. Offences by body corporate. 39. Conduct of prosecution. 40. Power to compound offences. 41. Service of documents. 42. Inaccuracies in documents. 43. Certificate establishing proprietor of land. 44. Liability of transferor. 45. Power to make regulations. 46. Savings and transitional.
+35. Penalty for obstructing Director General, etc.
+
+36. Penalty for not complying with notice.
+
+37. Proceedings if occupier opposes the execution of works.
+
+38. Offences by body corporate. 39. Conduct of prosecution.
+
+40. Power to compound offences.
+
+41. Service of documents. 42. Inaccuracies in documents. 43. Certificate establishing proprietor of land. 44. Liability of transferor. 45. Power to make regulations. 46. Savings and transitional.
 
 <!-- page 5 -->
 
@@ -146,15 +148,17 @@ and Dewan Rakyat in Parliament assembled, and by the authority of the same, as f
 
 ## PRELIMINARY
 
-Short title,
+<!-- marginal: Short title, -->
 
-1. (1) This Act may be cited as the Sewerage Services application Act
+1. (1) This Act may be cited as the Sewerage Services
 
-1993.
+<!-- marginal: application -->
 
-### and
+Act 1993.
 
-commencement.
+<!-- marginal: and -->
+
+<!-- marginal: commencement. -->
 
 (2) This Act shall apply throughout Malaysia.
 
@@ -168,7 +172,7 @@ commencement.
 
 (4) The Minister may suspend the operation of the whole or any provision of this Act in any part of Malaysia.
 
-Interpretation.
+<!-- marginal: Interpretation. -->
 
 2. In this Act, unless the context otherwise requires—
 
@@ -256,7 +260,17 @@ Kuching Ordinance 1988 of Sarawak;
 
 <!-- page 8 -->
 
-"local planning authority" means any planning authority established pursuant to the Town and Country Planning Act 1976, the Town and Country Planning Ordinance 1950 of Sabah or the Town and Country Act 172, Car 141 Planning Ordinance 1952 of Sarawak; Cap 87 "occupier" means a person in occupation or control of premises and, in relation to premises different parts of which are occupied by different persons, means the respective persons in occupation or control of each part; "owner" means—
+"local planning authority" means any planning authority established pursuant to the Town and Country Planning Act 1976, the Town and Country Planning Ordinance 1950 of Sabah or the Town and Country
+
+<!-- marginal: Act 172, -->
+
+<!-- marginal: Car 141 -->
+
+Planning Ordinance 1952 of Sarawak;
+
+<!-- marginal: Cap 87 -->
+
+"occupier" means a person in occupation or control of premises and, in relation to premises different parts of which are occupied by different persons, means the respective persons in occupation or control of each part; "owner" means—
 
 (a) the registered proprietor of land;
 
@@ -308,13 +322,39 @@ to treat, either partially or fully, sewage from one premises;
 
 ## SEWERAGE SERVICES
 
-Federal
+<!-- marginal: Federal -->
 
-3. The Federal Government shall, upon the coming into Government operation of this Act, have executive authority with to have authority respect to all matters relating to sewerage systems and for sewerage sewerage services throughout Malaysia. systems and services. Transfer of
+3. The Federal Government shall, upon the coming into
 
-4. (1) After the Federal Government and— property
+<!-- marginal: Government -->
 
-(a) a local authority; for sewerage purposes.
+operation of this Act, have executive authority with
+
+<!-- marginal: to have -->
+
+<!-- marginal: authority -->
+
+respect to all matters relating to sewerage systems and
+
+<!-- marginal: for sewerage -->
+
+sewerage services throughout Malaysia.
+
+<!-- marginal: systems and -->
+
+<!-- marginal: services. -->
+
+<!-- marginal: Transfer of -->
+
+4. (1) After the Federal Government and—
+
+<!-- marginal: property -->
+
+(a) a local authority;
+
+<!-- marginal: for sewerage -->
+
+<!-- marginal: purposes. -->
 
 (b) a State Government; or
 
@@ -356,11 +396,35 @@ working arrangements subsisting immediately before the vesting date affecting an
 
 have as full force and effect against or in favour of the Federal Government and be enforceable as fully and effectually as if, instead of the local authority or State Government or any person acting on behalf of the local authority or the State Government, the Federal Government had been named therein or had been a party thereto.
 
-Assumption
+<!-- marginal: Assumption -->
 
-6. The Federal Government may, upon the request of of control any local authority or State Government assume control and manage- ment of and management, wholly or in part, prior to the vesting contractual date, of any contractual undertakings of that local undertakings. authority or State Government in connection with any sewerage system which is to be transferred to the Federal Government under section 4.
+6. The Federal Government may, upon the request of
 
-7. Notwithstanding the provisions of any written law to Privatisation agreement. the contrary, the Federal Government shall, upon the coming into operation of this Act, have power to enter into any agreement with any sewerage services contractor authorising the contractor to do all or any of the following matters;
+<!-- marginal: of control -->
+
+any local authority or State Government assume control
+
+<!-- marginal: and manage- -->
+
+<!-- marginal: ment of -->
+
+and management, wholly or in part, prior to the vesting
+
+<!-- marginal: contractual -->
+
+date, of any contractual undertakings of that local
+
+<!-- marginal: undertakings. -->
+
+authority or State Government in connection with any sewerage system which is to be transferred to the Federal Government under section 4.
+
+7. Notwithstanding the provisions of any written law to
+
+<!-- marginal: Privatisation -->
+
+<!-- marginal: agreement. -->
+
+the contrary, the Federal Government shall, upon the coming into operation of this Act, have power to enter into any agreement with any sewerage services contractor authorising the contractor to do all or any of the following matters;
 
 (a) to plan, design, construct, manage, inspect, operate, maintain, repair or refurbish any public sewerage system;
 
@@ -376,9 +440,21 @@ III
 
 ## DIRECTOR GENERAL OF SEWERAGE SERVICES
 
-Director
+<!-- marginal: Director -->
 
-8. (1) The Minister shall appoint, from among members General, of the public service, a Director General of Sewerage Deputy Director Services. General, etc.
+8. (1) The Minister shall appoint, from among members
+
+<!-- marginal: General, -->
+
+of the public service, a Director General of Sewerage
+
+<!-- marginal: Deputy -->
+
+<!-- marginal: Director -->
+
+Services.
+
+<!-- marginal: General, etc. -->
 
 (2) There shall be appointed, by the appropriate - Service Commission from among members of the
 
@@ -424,11 +500,7 @@ other provision of this Act, the Director General shall have the following power
 
 (h) to ensure that a sewerage services contractor with whom an agreement has been entered into under section 7 is able to finance the proper carrying out of his functions;
 
-(i) to promote the interests of customers of sewerage services or connection services provided by any person licensed under this Act in respect of—
-
-(i) the prices to be charged for the services; f i i) the quality of the services;
-
-(iii) in relation to sewerage services, the continuity of the services;
+(i) to promote the interests of customers of sewerage services or connection services provided by any person licensed under this Act in respect of— (i) the prices to be charged for the services; f i i) the quality of the services; (iii) in relation to sewerage services, the continuity of the services;
 
 (j) so far as it appears to him practicable from time to time to do so, to keep under review the performance of every sewerage services contractor with whom an agreement has been entered into under section 7;
 
@@ -516,9 +588,35 @@ he may deem necessary;
 
 (c) after notice in writing in accordance with this Act, cause to be laid or constructed any public sewer or disposal pipe through, across, under or over any land or premises.
 
-Requirement
+<!-- marginal: Requirement -->
 
-14. (1) Where a person proposes to construct a sewer in respect of or a sewerage system and the Director General considers sewer or that the proposed sewer or sewerage system will be or sewerage system which is, or is likely to be, needed to form part of a public will form sewerage system, the Director General may require that part of public sewerage person— system.
+14. (1) Where a person proposes to construct a sewer
+
+<!-- marginal: in respect of -->
+
+or a sewerage system and the Director General considers
+
+<!-- marginal: sewer or -->
+
+that the proposed sewer or sewerage system will be or
+
+<!-- marginal: sewerage -->
+
+<!-- marginal: system which -->
+
+is, or is likely to be, needed to form part of a public
+
+<!-- marginal: will form -->
+
+sewerage system, the Director General may require that
+
+<!-- marginal: part of public -->
+
+<!-- marginal: sewerage -->
+
+person—
+
+<!-- marginal: system. -->
 
 (a) to construct the sewer or sewerage system in such manner as may be specified by the Director General; or
 
@@ -528,9 +626,27 @@ Requirement
 
 (3) Where the Director General exercises his powers under subsection (1) he shall pay to the person constructing the sewer or the sewerage system the extra expenses reasonably incurred by that person in complying with the Director General's requirements.
 
-Management,
+<!-- marginal: Management, -->
 
-15. (1) The Director General shall cause public operation, sewerage systems to be managed, operated, maintained, maintenance, inspected, repaired, refurbished, altered, arched over or etc , of public sewerage otherwise improved and shall treat and dispose of the system. contents thereof, and may discontinue, close up or destroy any part thereof.
+15. (1) The Director General shall cause public
+
+<!-- marginal: operation, -->
+
+sewerage systems to be managed, operated, maintained,
+
+<!-- marginal: maintenance, -->
+
+inspected, repaired, refurbished, altered, arched over or
+
+<!-- marginal: etc , of public -->
+
+<!-- marginal: sewerage -->
+
+otherwise improved and shall treat and dispose of the
+
+<!-- marginal: system. -->
+
+contents thereof, and may discontinue, close up or destroy any part thereof.
 
 (2) If by reason of any inspection, refurbishment, repair, alteration or improvement of any public sewerage system under subsection (1) any person is deprived of the lawful use of any sewer, the Director General shall with due diligence provide some other facility as effectual as the one of which that person is so deprived.
 
@@ -612,11 +728,29 @@ permission of the Director General—
 
 (2) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit.
 
-Industrial
+<!-- marginal: Industrial -->
 
-19. (1) No person shall discharge into or allow to effluent or communicate with any public sewer or public treatment noxious works— matter not to communicate with public-
+19. (1) No person shall discharge into or allow to
 
-(a) any industrial effluent, without the prior written sewer, etc. permission of the Director General; or
+<!-- marginal: effluent or -->
+
+communicate with any public sewer or public treatment
+
+<!-- marginal: noxious -->
+
+works—
+
+<!-- marginal: matter not to -->
+
+<!-- marginal: communicate -->
+
+<!-- marginal: with public- -->
+
+(a) any industrial effluent, without the prior written
+
+<!-- marginal: sewer, etc. -->
+
+permission of the Director General; or
 
 (b) any noxious, volatile or inflammable substance or any other matter likely to damage or impair the functioning of any public sewer or public treatment works or to interfere with the free flow of its contents or to affect prejudicially the treatment or disposal of its contents.
 
@@ -722,9 +856,31 @@ repaired or put in proper order within the period specified in the notice.
 
 (3) Where the person to whom a notice issued under subsection (1) or (2) fails to comply with the notice within the period specified in the notice, the Director General or any person authorised by him may, at the expiration of such period, do the work required in the notice and may recover the expenses incurred in doing so from the owner or occupier.
 
-Power to
+<!-- marginal: Power to -->
 
-24. (1) The Director General may issue a notice in require accordance with this Act to the owner, or if the owner premises to be connected cannot with reasonable diligence be traced the occupier, to public of any premises not connected to a public sewerage sewerage system requiring the owner or occupier to construct or system. lay for the premises, within the period specified in the notice, a private connection pipe of such materials or size and at such level as to enable the premises to be properly and effectively connected to any public sewer or public sewerage system located within thirty meters from the boundary of the premises.
+24. (1) The Director General may issue a notice in
+
+<!-- marginal: require -->
+
+accordance with this Act to the owner, or if the owner
+
+<!-- marginal: premises to -->
+
+<!-- marginal: be connected -->
+
+cannot with reasonable diligence be traced the occupier,
+
+<!-- marginal: to public -->
+
+of any premises not connected to a public sewerage
+
+<!-- marginal: sewerage -->
+
+system requiring the owner or occupier to construct or
+
+<!-- marginal: system. -->
+
+lay for the premises, within the period specified in the notice, a private connection pipe of such materials or size and at such level as to enable the premises to be properly and effectively connected to any public sewer or public sewerage system located within thirty meters from the boundary of the premises.
 
 (2) If the owner or occupier to whom a notice under subsection (1) has been issued fails to comply with the notice within the period specified in the notice—
 
@@ -796,9 +952,7 @@ nuisance or a danger to health; or
 
 shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit.
 
-(2) A Magistrate's Court may, on the application of the Director General, order the owner of the sewerage system, septic tank or building referred to in subsection
-
-(1) to abate such nuisance, harm or danger.
+(2) A Magistrate's Court may, on the application of the Director General, order the owner of the sewerage system, septic tank or building referred to in subsection (1) to abate such nuisance, harm or danger.
 
 <!-- page 22 -->
 
@@ -806,9 +960,17 @@ shall be guilty of an offence and shall, on conviction, be liable to a fine not 
 
 ## POWERS OF ENTRY
 
-Power to
+<!-- marginal: Power to -->
 
-27. (1) Subject to subsection (2), the Director General, enter or any person authorised by him in writing, may for the premises. purposes of this Act enter at all reasonable hours upon any land or other premises for the purpose of—
+27. (1) Subject to subsection (2), the Director General,
+
+<!-- marginal: enter -->
+
+or any person authorised by him in writing, may for the
+
+<!-- marginal: premises. -->
+
+purposes of this Act enter at all reasonable hours upon any land or other premises for the purpose of—
 
 (a) making any survey or inspection;
 
@@ -884,9 +1046,17 @@ and the Sessions Court Judge shall, after giving notice to the parties and heari
 
 ## CHARGES
 
-Power lo
+<!-- marginal: Power lo -->
 
-30. (1) The Minister may from time to time by impose regulations prescribe, either separately or as a charges. consolidated rate, sewerage charges, fees or levy which shall be paid by any person to whom sewerage services are provided under this Act.
+30. (1) The Minister may from time to time by
+
+<!-- marginal: impose -->
+
+regulations prescribe, either separately or as a
+
+<!-- marginal: charges. -->
+
+consolidated rate, sewerage charges, fees or levy which shall be paid by any person to whom sewerage services are provided under this Act.
 
 (2) The Minister may, by order published in the Gazette, authorise a sewerage services contractor with whom an agreement has been entered into under section 7 to demand, collect and retain the sewerage charges, fees or levy prescribed under subsection (1) in respect of sewerage services provided by the sewerage services contractor under the agreement.
 
@@ -912,7 +1082,9 @@ information, returns and accounts in respect of the payment and collection of se
 
 (c) permit the Director General or any officer authorised in writing by the Director General to have access to or examine or inspect any document, machinery or equipment maintained or used for the payment or collection of sewerage charges, fees or levy.
 
-(5) The authorisation of any person under subsection (2) shall not render the Federal Government liable to any person in respect of any injury, damage or loss occasioned by the failure of the person authorised under that subsection to carry out his obligations under the agreement in respect of which sewerage charges, fees or levy are demanded, collected or retained.
+(5) The authorisation of any person under subsection
+
+(2) shall not render the Federal Government liable to any person in respect of any injury, damage or loss occasioned by the failure of the person authorised under that subsection to carry out his obligations under the agreement in respect of which sewerage charges, fees or levy are demanded, collected or retained.
 
 (6) When any premises or part thereof is used exclusively as a place for religious worship or for charitable purposes, the Minister may by order exempt the premises or part thereof from the payment of any charges, fees or levy imposed under subsection (1).
 
@@ -924,9 +1096,27 @@ information, returns and accounts in respect of the payment and collection of se
 
 ## SEWERAGE SYSTEM OR SEPTIC TANK
 
-Approval
+<!-- marginal: Approval -->
 
-31. (1) No person shall construct any sewerage system required for or septic tank without the prior written permission of construction of sewerage the Director General approving the plans and system or specifications of the proposed sewerage system or septic septic tank. tank.
+31. (1) No person shall construct any sewerage system
+
+<!-- marginal: required for -->
+
+or septic tank without the prior written permission of
+
+<!-- marginal: construction -->
+
+<!-- marginal: of sewerage -->
+
+the Director General approving the plans and
+
+<!-- marginal: system or -->
+
+specifications of the proposed sewerage system or septic
+
+<!-- marginal: septic tank. -->
+
+tank.
 
 (2) Any person who intends to construct any building shall, in addition to submitting plans and specifications for the building under any written law to the relevant local authority or other statutory authority concerned as the case may be and before any approval for the construction or erection of the building is granted by the relevant approving authority, submit to the Director General the plans and specifications in respect of the sewerage system or septic tank for the proposed building in the manner required by any regulation made under this Act.
 
@@ -978,11 +1168,27 @@ except under and in accordance with the terms of a licence issued under this Par
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding fifty thousand ringgit and to a further fine not exceeding five thousand ringgit for each day during which the offence continues after conviction.
 
-Application
+<!-- marginal: Application -->
 
-33. (1) Every application for a licence to do any of the for and acts prohibited under section 32 shall be made in writing issuance of and shall be accompanied by such documents and licence. information as may be specified by the Director General for the purpose of determining the application and the suitability of the applicant.
+33. (1) Every application for a licence to do any of the
 
-(2) Upon receiving any application made in accordance with subsection (1), the Director General may—
+<!-- marginal: for and -->
+
+acts prohibited under section 32 shall be made in writing
+
+<!-- marginal: issuance of -->
+
+and shall be accompanied by such documents and
+
+<!-- marginal: licence. -->
+
+information as may be specified by the Director General for the purpose of determining the application and the suitability of the applicant.
+
+(2) Upon receiving any application made
+
+<!-- marginal: in -->
+
+accordance with subsection (1), the Director General may—
 
 (a) issue a licence on payment of the prescribed fees; or
 
@@ -1038,7 +1244,9 @@ into under section 7, every licensee shall have due regard to the efficiency, ec
 
 <!-- marginal: General, etc. -->
 
-an officer appointed under this Act or a connection contractor or a sewerage services contractor or any other person in
+an officer appointed under this Act or a connection contractor or a sewerage services contractor or any other person
+
+<!-- marginal: in -->
 
 <!-- marginal: the -->
 
@@ -1070,15 +1278,37 @@ comply with the requirements of the notice, the owner or occupier shall be guilt
 
 (2) Where any notice requires any act to be done or work to be executed for which no time is fixed by this Act or any regulation made under this Act, it shall fix a reasonable time for complying with the requirement.
 
-Proceedings
+<!-- marginal: Proceedings -->
 
-37. (1) If the occupier of any premises prevent the if occupier owner thereof from carrying into effect in respect of the opposes the premises any of the provisions of this Act after notice execution of works. of his intention to do so has been given by the owner to that occupier, a Magistrate's Court, upon proof thereof and upon application of the owner, may make an order requiring the occupier to permit the owner to execute all such works with respect to that premises as are necessary for carrying into effect the provisions of this Act and may also, if it thinks fit, order the occupier to pay to the owner the costs relating to the application or order.
+37. (1) If the occupier of any premises prevent the
+
+<!-- marginal: if occupier -->
+
+owner thereof from carrying into effect in respect of the
+
+<!-- marginal: opposes the -->
+
+premises any of the provisions of this Act after notice
+
+<!-- marginal: execution of -->
+
+<!-- marginal: works. -->
+
+of his intention to do so has been given by the owner to that occupier, a Magistrate's Court, upon proof thereof and upon application of the owner, may make an order requiring the occupier to permit the owner to execute all such works with respect to that premises as are necessary for carrying into effect the provisions of this Act and may also, if it thinks fit, order the occupier to pay to the owner the costs relating to the application or order.
 
 (2) The occupier of any premises who continues, after the expiration of eight days from the date of an order made under subsection (1), to refuse to permit the owner of the premises to execute the works specified in the order shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding five thousand ringgit for every day during which he so continues to refuse, and the owner shall, during the continuance of the occupier's refusal, be discharged from any penalty to which he might otherwise be liable by reason of his default in executing the works.
 
-### Offences by
+<!-- marginal: Offences by -->
 
-38. Where an offence under this Act has been body committed by a body corporate, any person who at the corporate. time of the commission of the offence was a director, manager, secretary or other similar officer of the body corporate or was purporting to act in such capacity shall, as well as such body corporate, be deemed to be guilty of that offence.
+38. Where an offence under this Act has been
+
+<!-- marginal: body -->
+
+committed by a body corporate, any person who at the
+
+<!-- marginal: corporate. -->
+
+time of the commission of the offence was a director, manager, secretary or other similar officer of the body corporate or was purporting to act in such capacity shall, as well as such body corporate, be deemed to be guilty of that offence.
 
 <!-- page 31 -->
 
@@ -1120,19 +1350,39 @@ effected—
 
 <!-- page 32 -->
 
-Inaccuracies
+<!-- marginal: Inaccuracies -->
 
-42. (1) No misnomer or inaccurate description of any in documents. person, premises, building, holding, street or place named or described in any document prepared, issued or served under, by virtue of or for the purposes of this Act or any regulation made under this Act shall in any way affect the operation of this Act or that regulation with respect to that person or place if that person or place is so designated in the document as to be identifiable.
+42. (1) No misnomer or inaccurate description of any
+
+<!-- marginal: in documents. -->
+
+person, premises, building, holding, street or place named or described in any document prepared, issued or served under, by virtue of or for the purposes of this Act or any regulation made under this Act shall in any way affect the operation of this Act or that regulation with respect to that person or place if that person or place is so designated in the document as to be identifiable.
 
 (2) No proceedings taken under or by virtue of this Act or any regulation made under this Act shall be invalid for want of form.
 
-Certificate
+<!-- marginal: Certificate -->
 
-43. Notwithstanding the provisions of any other written establising law, in any proceedings under this Act or any regulation proprietor of made under this Act a certificate which purports to be land. signed by the District Land Administrator for the purpose of establishing the registered proprietor of any land shall, unless the contrary is proved, be evidence of any fact stated therein.
+43. Notwithstanding the provisions of any other written
 
-Liability of
+<!-- marginal: establising -->
 
-44. (1) Every person who sells or transfers any transferor. property in respect of which costs and expenses have been incurred by the Director General or a sewerage services contractor or a connection contractor, as the case may be, in or about the execution of any work which are, under this Act, recoverable from the owner thereof shall continue to be liable for the payment of all such costs and expenses payable in respect of the property and for the performance of all other obligations imposed by this Act upon the owner of the property which become payable or are to be performed at any time before the transfer becomes effective.
+law, in any proceedings under this Act or any regulation
+
+<!-- marginal: proprietor of -->
+
+made under this Act a certificate which purports to be
+
+<!-- marginal: land. -->
+
+signed by the District Land Administrator for the purpose of establishing the registered proprietor of any land shall, unless the contrary is proved, be evidence of any fact stated therein.
+
+<!-- marginal: Liability of -->
+
+44. (1) Every person who sells or transfers any
+
+<!-- marginal: transferor. -->
+
+property in respect of which costs and expenses have been incurred by the Director General or a sewerage services contractor or a connection contractor, as the case may be, in or about the execution of any work which are, under this Act, recoverable from the owner thereof shall continue to be liable for the payment of all such costs and expenses payable in respect of the property and for the performance of all other obligations imposed by this Act upon the owner of the property which become payable or are to be performed at any time before the transfer becomes effective.
 
 (2) Nothing in this Act shall affect the liability of the purchaser or transferee to pay costs and expenses in respect of the property referred to in subsection (1) or affect the right of the Director General or a sewerage services contractor or a connection contractor, as the case may be, to recover those costs and expenses from or to enforce any obligation under this Act against the purchaser or transferee.
 
@@ -1150,7 +1400,9 @@ necessary or expedient for carrying out, or giving effect
 
 to, the purposes of this Act.
 
-(2) Without prejudice to the generality of subsection (1), the Minister may make regulations in respect of all or any of the following matters:
+(2) Without prejudice to the generality of subsection
+
+(1), the Minister may make regulations in respect of all or any of the following matters:
 
 (a) the powers, duties and functions of the Director General and any other officer appointed under section 8;
 
@@ -1190,9 +1442,13 @@ to, the purposes of this Act.
 
 (q) any other matter which is authorised or required or permitted by this Act to be prescribed or which is necessary or expedient to be prescribed for carrying this Act into effect.
 
-Savings and
+<!-- marginal: Savings and -->
 
-46. (1) Nothing shall affect the past operation of, or transitional. anything done under the provisions of, any law relating to sewerage systems and services passed before the date of coming into operation of this Act.
+46. (1) Nothing shall affect the past operation of, or
+
+<!-- marginal: transitional. -->
+
+anything done under the provisions of, any law relating to sewerage systems and services passed before the date of coming into operation of this Act.
 
 <!-- page 35 -->
 

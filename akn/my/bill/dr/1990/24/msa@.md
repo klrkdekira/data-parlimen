@@ -14,9 +14,7 @@ Naskhah Sahih—Bahasa Malaysia
 
 ## PERMULAAN
 
-1. Tajuk ringkas, mula berkuatkuasa dan pemakaian.
-
-2. Tafsiran.
+1. Tajuk ringkas, mula berkuatkuasa dan pemakaian. 2. Tafsiran.
 
 ## BAHAGIAN
 
@@ -32,15 +30,7 @@ III
 
 ## FUNGSI, TUGAS DAN KUASA KETUA PENGARAH
 
-4. Fungsi dan tugas.
-
-5. Kuasa memasuki dengan waran atau selainnya, memeriksa, memeriksateliti, menyita, dsb.
-
-6. Kuasa menyiasat.
-
-7. Kebolehterimaan pernyataan.
-
-8. Halangan, dsb. suatu kesalahan.
+4. Fungsi dan tugas. 5. Kuasa memasuki dengan waran atau selainnya, memeriksa, memeriksateliti, menyita, dsb. 6. Kuasa menyiasat. 7. Kebolehterimaan pernyataan. 8. Halangan, dsb. suatu kesalahan.
 
 ## BAHAGIAN
 
@@ -62,21 +52,9 @@ IV
 
 <!-- page 2 -->
 
-15. Kecualian bagi perjanjian izin-lalu.
+15. Kecualian bagi perjanjian izin-lalu. 16. Pampasan. 17. Pengurangan atau penghentian bekalan: liabiliti. 18. Cagaran: penggantungan dan pembatalan lesen. 19. Sekatan penggunaan untuk maksud-maksud yang dinyatakan. 20. Pengecualian kelengkapan daripada distres dan penahanan.
 
-16. Pampasan.
-
-17. Pengurangan atau penghentian bekalan: liabiliti.
-
-18. Cagaran: penggantungan dan pembatalan lesen.
-
-19. Sekatan penggunaan untuk maksud-maksud yang dinyatakan.
-
-20. Pengecualian kelengkapan daripada distres dan penahanan.
-
-21. Pendaftaran pepasangan.
-
-22. Pemeriksaan berkala pepasangan.
+21. Pendaftaran pepasangan. 22. Pemeriksaan berkala pepasangan.
 
 ## BAHAGIAN V
 
@@ -88,9 +66,7 @@ IV
 
 ## PEMBEKALAN OLEH PEMEGANG LESEN
 
-24. Kewajipan membekal apabila diminta.
-
-25. Kekecualian kepada kewajipan membekalkan elektrik.
+24. Kewajipan membekal apabila diminta. 25. Kekecualian kepada kewajipan membekalkan elektrik.
 
 26. Kuasa memastikan tarif.
 
@@ -212,13 +188,23 @@ oleh Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong dengan nasih
 
 ## PERMULAAN
 
-Tajuk ringkas,
+<!-- marginal: Tajuk ringkas, -->
 
-1. (1) Akta ini bolehlah dinamakan Akta Bekalan mula berkuat- Elektrik 1990 dan hendaklah mula berkuatkuasa pada kuasa dan pemakaian. tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
+1. (1) Akta ini bolehlah dinamakan Akta Bekalan
+
+<!-- marginal: mula berkuat- -->
+
+Elektrik 1990 dan hendaklah mula berkuatkuasa pada
+
+<!-- marginal: kuasa dan -->
+
+<!-- marginal: pemakaian. -->
+
+tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
 
 (2) Akta ini hendaklah terpakai di seluruh Malaysia, walau bagaimanapun Menteri boleh melalui perintah menggantung penguatkuasaan keseluruhan atau mana- mana peruntukan Akta ini di mana-mana Negeri.
 
-Tafsiran.
+<!-- marginal: Tafsiran. -->
 
 2. Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—
 
@@ -234,7 +220,7 @@ Tafsiran.
 
 ### "cedera parah" dan "cedera" masing-masingnya
 
-N.MB.
+<!-- marginal: N.MB. -->
 
 ### mempunyai erti yang diberikan kepadanya dalam Kanun
 
@@ -260,7 +246,7 @@ N.MB.
 
 ### suatu benda sebagaimana yang diperuntukkan di bawah
 
-Akta 139
+<!-- marginal: Akta 139 -->
 
 ### seksyen 3 Akta Kilang dan Jentera 1967;
 
@@ -348,7 +334,19 @@ pengisyarat elektrik lain yang dipunyai atau dikendalikan oleh Kerajaan Persekut
 
 "pengubahan" ertinya pengubahan voltan daripada voltan rendah kepada voltan yang lebih tinggi atau sebaliknya;
 
-"Pentadbir Tanah Daerah" mempunyai erti yang diberi Akta 56/65. kepada "Pentadbir Tanah" oleh seksyen 5 Kanun Tanah Sabah Bab 68. Negara dan erti "Pemungut" oleh seksyen 4 Ordinan Tanah Sarawak Sabah dan bagi Negeri Sarawak, "Pengarah" oleh seksyen
+"Pentadbir Tanah Daerah" mempunyai erti yang diberi
+
+<!-- marginal: Akta 56/65. -->
+
+kepada "Pentadbir Tanah" oleh seksyen 5 Kanun Tanah
+
+<!-- marginal: Sabah Bab 68. -->
+
+Negara dan erti "Pemungut" oleh seksyen 4 Ordinan Tanah
+
+<!-- marginal: Sarawak -->
+
+Sabah dan bagi Negeri Sarawak, "Pengarah" oleh seksyen
 
 ## Bab 81.
 
@@ -386,9 +384,17 @@ II
 
 ## PERJAWATAN
 
-Ketua
+<!-- marginal: Ketua -->
 
-3. (1) Menteri hendaklah melantik seorang pegawai yang Pengarah digelar Ketua Pengarah Bekalan Elektrik. Bekalan Elektrik.
+3. (1) Menteri hendaklah melantik seorang pegawai yang
+
+<!-- marginal: Pengarah -->
+
+digelar Ketua Pengarah Bekalan Elektrik.
+
+<!-- marginal: Bekalan -->
+
+<!-- marginal: Elektrik. -->
 
 (2) Maka hendaklah dilantik sekian bilangan Timbalan Ketua Pengarah, Pengarah, Timbalan Pengarah, Penolong
 
@@ -414,7 +420,11 @@ Timbalan Pengarah, Penolong Pengarah Bekalan Elektrik dan mana-mana pegawai lain
 
 (a) untuk mengeluarkan lesen di bawah seksyen 9 Akta ini;
 
-(b) untuk menjalankan fungsi pengawalseliaan berkenaan dengan perkhidmatan mengadakan elektrik oleh pemegang lesen termasuk menentukan standard prestasi dan standard kemudahan dan perkhidmatan dan penguat- kuasaannya;
+(b) untuk menjalankan fungsi pengawalseliaan berkenaan dengan perkhidmatan mengadakan elektrik oleh pemegang lesen
+
+<!-- marginal: termasuk -->
+
+menentukan standard prestasi dan standard kemudahan dan perkhidmatan dan penguat- kuasaannya;
 
 (c) untuk menggalakkan persaingan dalam penjanakuasaan dan pembekalan elektrik untuk, antara lainnya, memastikan pembekalan optimum elektrik pada harga-harga yang munasabah;
 
@@ -448,9 +458,33 @@ aktiviti-aktiviti yang dibenarkan oleh lesen- lesen mereka untuk dijalankan;
 
 sebagaimana yang ternyata kepada Ketua Pengarah adalah dikehendaki, berfaedah atau mudah bagi maksud menjalankan atau berkaitan dengan pelaksanaan fungsi dan tugasnya di bawah Akta ini.
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-5. (1) Seseorang Pengarah boleh, bagi maksud-maksud memasuki menunaikan mana-mana tugasnya atau menjalankan dengan waran atau selainnya, mana-mana fungsinya di bawah Akta ini atau mana-mana memeriksa, peraturan yang dibuat di bawahnya, atau selainnya bagi memeriksa- teliti, apa-apa maksud Akta ini atau mana-mana peraturan, menyita, dsb. memasuki mana-mana tanah, rumah atau bangunan dengan atau tanpa bekalan tenaga, pada bila-bila masa munasabah, untuk memeriksa dan memeriksateliti mana-
+5. (1) Seseorang Pengarah boleh, bagi maksud-maksud
+
+<!-- marginal: memasuki -->
+
+menunaikan mana-mana tugasnya atau menjalankan
+
+<!-- marginal: dengan waran -->
+
+<!-- marginal: atau selainnya, -->
+
+mana-mana fungsinya di bawah Akta ini atau mana-mana
+
+<!-- marginal: memeriksa, -->
+
+peraturan yang dibuat di bawahnya, atau selainnya bagi
+
+<!-- marginal: memeriksa- -->
+
+<!-- marginal: teliti, -->
+
+apa-apa maksud Akta ini atau mana-mana peraturan,
+
+<!-- marginal: menyita, dsb. -->
+
+memasuki mana-mana tanah, rumah atau bangunan dengan atau tanpa bekalan tenaga, pada bila-bila masa munasabah, untuk memeriksa dan memeriksateliti mana-
 
 <!-- page 13 -->
 
@@ -482,25 +516,39 @@ hendaklah mengemukakannya di hadapan majistret, dan apabila dikemukakan, majistr
 
 <!-- page 15 -->
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-6. (1) Mana-mana Pengarah hendaklah mempunyai menyiasat. kuasa menyiasat perlakuan apa-apa kesalahan di bawah Akta ini atau mana-mana peraturan yang dibuat di bawahnya.
+6. (1) Mana-mana Pengarah hendaklah mempunyai
 
-(2) Mana-mana Pengarah boleh, berhubungan dengan apa-apa penyiasatan berkenaan dengan apa-apa kesalahan yang dilakukan di bawah Akta ini atau mana-mana peraturan yang dibuat di bawahnya, menjalankan kuasa- kuasa khas berhubungan dengan penyiasatan polis kecuali bahawa kuasa untuk menangkap tanpa waran yang N.M.B. diberikan oleh Kanun Prosedur Jenayah bagi mana-mana
+<!-- marginal: menyiasat. -->
+
+kuasa menyiasat perlakuan apa-apa kesalahan di bawah Akta ini atau mana-mana peraturan yang dibuat di bawahnya.
+
+(2) Mana-mana Pengarah boleh, berhubungan dengan apa-apa penyiasatan berkenaan dengan apa-apa kesalahan yang dilakukan di bawah Akta ini atau mana-mana peraturan yang dibuat di bawahnya, menjalankan kuasa- kuasa khas berhubungan dengan penyiasatan polis kecuali bahawa kuasa untuk menangkap tanpa waran yang
+
+<!-- marginal: N.M.B. -->
+
+diberikan oleh Kanun Prosedur Jenayah bagi mana-mana
 
 ## Bab 6
 
 kesalahan boleh tangkap tidaklah boleh dijalankan olehnya.
 
-Keboleh-
+<!-- marginal: Keboleh- -->
 
-7. (1) Walau apa pun peruntukan-peruntukan mana- terimaan mana undang-undang bertulis yang berlawanan, jika pernyataan. seseorang dipertuduh atas suatu kesalahan di bawah Akta ini apa-apa pernyataan, sama ada pernyataan itu menjadi suatu pengakuan salah atau tidak atau sama ada ia berbentuk lisan atau bertulis, dibuat pada bila-bila masa, sama ada sebelum atau selepas orang itu dipertuduh dan sama ada dalam perjalanan penyiasatan di bawah Akta ini atau tidak dan sama ada atau tidak pada keseluruhannya atau sebahagiannya sebagai jawapan kepada soalan, oleh orang itu kepada atau dalam pendengaran seorang Pengarah dan sama ada atau tidak diterjemahkan kepadanya oleh seorang Pengarah atau mana-mana orang lain yang berkenaan atau tidak dalam kes itu, hendaklah menjadi boleh terima diperbicaraannya sebagai keterangan dan, jika orang itu mengemukakan dirinya sebagai saksi, apa-apa pernyataan sedeniikian boleh digunakan dalam pemeriksaan balas dan bagi maksud mencabar kebolehpercayaannya:
+7. (1) Walau apa pun peruntukan-peruntukan mana-
+
+<!-- marginal: terimaan -->
+
+mana undang-undang bertulis yang berlawanan, jika
+
+<!-- marginal: pernyataan. -->
+
+seseorang dipertuduh atas suatu kesalahan di bawah Akta ini apa-apa pernyataan, sama ada pernyataan itu menjadi suatu pengakuan salah atau tidak atau sama ada ia berbentuk lisan atau bertulis, dibuat pada bila-bila masa, sama ada sebelum atau selepas orang itu dipertuduh dan sama ada dalam perjalanan penyiasatan di bawah Akta ini atau tidak dan sama ada atau tidak pada keseluruhannya atau sebahagiannya sebagai jawapan kepada soalan, oleh orang itu kepada atau dalam pendengaran seorang Pengarah dan sama ada atau tidak diterjemahkan kepadanya oleh seorang Pengarah atau mana-mana orang lain yang berkenaan atau tidak dalam kes itu, hendaklah menjadi boleh terima diperbicaraannya sebagai keterangan dan, jika orang itu mengemukakan dirinya sebagai saksi, apa-apa pernyataan sedeniikian boleh digunakan dalam pemeriksaan balas dan bagi maksud mencabar kebolehpercayaannya:
 
 Dengan syarat bahawa—
 
-(a) tiada pernyataan sedemikian boleh menjadi boleh terima atau digunakan seperti yang disebut terdahulu—
-
-(i) jika ternyata kepada mahkamah bahawa pembuatan pernyataan itu telah di- sebabkan oleh apa-apa dorongan, ancaman atau janji yang mempunyai
+(a) tiada pernyataan sedemikian boleh menjadi boleh terima atau digunakan seperti yang disebut terdahulu— (i) jika ternyata kepada mahkamah bahawa pembuatan pernyataan itu telah di- sebabkan oleh apa-apa dorongan, ancaman atau janji yang mempunyai
 
 <!-- page 16 -->
 
@@ -510,9 +558,13 @@ kaitan dengan pertuduhan terhadap orang itu yang datangnya daripada orang yang b
 
 (b) suatu pernyataan yang dibuat oleh mana-mana orang sebelum ada masa untuk memberi amaran kepadanya tidaklah menjadi tak boleh terima sebagai keterangan semata-mata kerana dia tidak diberi amaran jika dia diberi amaran dengan seberapa segera yang mungkin.
 
-Halangan,
+<!-- marginal: Halangan, -->
 
-8. Mana-mana orang yang— dsb. suatu kesalahan.
+8. Mana-mana orang yang—
+
+<!-- marginal: dsb. suatu -->
+
+<!-- marginal: kesalahan. -->
 
 (a) tidak membenarkan mana-mana Pengarah atau pegawai polis yang berpangkat tidak rendah daripada Inspektor akses kepada mana-mana tempat;
 
@@ -522,7 +574,11 @@ Halangan,
 
 polis yang berpangkat tidak rendah daripada Inspektor dalam melaksanakan apa-apa kemasukan yang dia berhak melaksanakan di bawah Akta ini, atau dalam penyempurnaan apa- apa tugas yang dikenakan atau kuasa yang diberikan oleh Akta ini;
 
-(c) enggan memberi kepada mana-mana Pengarah atau pegawai polis yang berpangkat tidak rendah daripada Inspektor apa-apa maklumat yang berhubungan dengan sesuatu kesalahan atau kesalahan yang disyaki di bawah Akta ini atau apa-apa maklumat lain yang dengan munasabahnya mungkin dikehendaki dari- padanya dan yang ada dalam pengetahuannya atau yang dia mempunyai kuasa untuk memberi; atau
+(c) enggan memberi kepada mana-mana Pengarah atau pegawai polis yang berpangkat tidak rendah daripada Inspektor apa-apa maklumat yang berhubungan dengan sesuatu kesalahan atau kesalahan yang disyaki di bawah Akta ini atau apa-apa maklumat lain yang
+
+<!-- marginal: dengan -->
+
+munasabahnya mungkin dikehendaki dari- padanya dan yang ada dalam pengetahuannya atau yang dia mempunyai kuasa untuk memberi; atau
 
 (d) dengan disedarinya memberikan maklumat palsu,
 
@@ -534,11 +590,29 @@ IV
 
 ## PEPASANGAN BERLESEN DAN BERDAFTAR
 
-Lesen dike-
+<!-- marginal: Lesen dike- -->
 
-9. (1) Tertakluk kepada apa-apa pengecualian yang hendaki bagi ditetapkan, tiada seorang pun, selain daripada pihak penggunaan pepasangan: berkuasa bekalan, boleh— terma, syarat dan kandungan
+9. (1) Tertakluk kepada apa-apa pengecualian yang
 
-(a) menggunakan, mengerjakan atau mengendali- lesen. kan atau membenarkan diguna, dikerja atau dikendalikan apa-apa pepasangan; atau
+<!-- marginal: hendaki bagi -->
+
+ditetapkan, tiada seorang pun, selain daripada pihak
+
+<!-- marginal: penggunaan -->
+
+<!-- marginal: pepasangan: -->
+
+berkuasa bekalan, boleh—
+
+<!-- marginal: terma, syarat -->
+
+<!-- marginal: dan kandungan -->
+
+(a) menggunakan, mengerjakan atau mengendali-
+
+<!-- marginal: lesen. -->
+
+kan atau membenarkan diguna, dikerja atau dikendalikan apa-apa pepasangan; atau
 
 (b) membekalkan tenaga daripada mana-mana pepasangan kepada atau bagi kegunaan mana- mana orang lain,
 
@@ -568,9 +642,19 @@ Dengan syarat bahawa, tanpa kelulusan nyata daripada Menteri, tiada lesen boJeh 
 
 (d) apa-apa perkara lain sebagaimana yang difikirkan perlu oleh Ketua Pengarah.
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-10. (1) Bilamasa ternyata kepada pemegang lesen memasuki dan bahawa akan menjadi perlu baginya untuk menjalankan memeriksa- teliti tanah. kuasa-kuasa yang diberikan kepadanya oleh Akta ini berkenaan dengan mana-mana tanah selain daripada tanah Kerajaan bagi maksud membina suatu pepasangan atau sebahagian daripada suatu pepasangan, pemegang lesen atau mana-mana orang diberikuasa oleh pemegang lesen bagi maksud itu boleh, selepas memberikan notis tidak kurang daripada dua puluh empat jam kepada penduduk tanah itu, jika ada, memasuki tanah itu dan membuat pengukuran dan mengambil aras dan melakukan segala perbuatan lain yang perlu untuk memastikan kesesuaian tanah, setakat yang mungkin tanpa menyebabkan kerosakan atau gangguan.
+10. (1) Bilamasa ternyata kepada pemegang lesen
+
+<!-- marginal: memasuki dan -->
+
+bahawa akan menjadi perlu baginya untuk menjalankan
+
+<!-- marginal: memeriksa- -->
+
+<!-- marginal: teliti tanah. -->
+
+kuasa-kuasa yang diberikan kepadanya oleh Akta ini berkenaan dengan mana-mana tanah selain daripada tanah Kerajaan bagi maksud membina suatu pepasangan atau sebahagian daripada suatu pepasangan, pemegang lesen atau mana-mana orang diberikuasa oleh pemegang lesen bagi maksud itu boleh, selepas memberikan notis tidak kurang daripada dua puluh empat jam kepada penduduk tanah itu, jika ada, memasuki tanah itu dan membuat pengukuran dan mengambil aras dan melakukan segala perbuatan lain yang perlu untuk memastikan kesesuaian tanah, setakat yang mungkin tanpa menyebabkan kerosakan atau gangguan.
 
 <!-- page 19 -->
 
@@ -580,9 +664,23 @@ Kuasa untuk
 
 (1) boleh diberikan kepada pegawai atau mana-mana orang lain yang menjaga tanah rizab itu atau, jika tidak ada mana-mana pegawai atau orang itu, kepada Pentadbir Tanah Daerah.
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-11. (1) Tertakluk sebagaimana yang diperuntukkan memasuki kemudian daripada ini, bilamasa perlu berbuat demikian tanah bagi maksud bagi maksud memasang apa-apa sistem pengagihan tenaga pembinaan. di bawah Akta ini, pemegang lesen boleh meletakkan, menempatkan atau membawa di atas, di bawah atau melewati mana-mana tanah, selain daripada tanah Kerajaan, apa-apa tiang dan kelengkapan lain yang perlu atau wajar bagi maksud-maksud pepasangan berlesen, mengikut mana-mana yang berkenaan, dan boleh mengambil apa-apa tindakan lain yang perlu untuk menjadikan pepasangan itu selamat dan cekap, membayar pampasan penuh mengikut seksyen 16 kepada semua orang yang berkepentingan kerana apa-apa gangguan, kerosakan atau ketakupayaan yang mungkin disebabkan olehnya dan pampasan itu boleh termasuk bayaran tahunan bagi tanah yang digunakan bagi maksud tiang atau kelengkapan lain itu.
+11. (1) Tertakluk sebagaimana yang diperuntukkan
+
+<!-- marginal: memasuki -->
+
+kemudian daripada ini, bilamasa perlu berbuat demikian
+
+<!-- marginal: tanah bagi -->
+
+<!-- marginal: maksud -->
+
+bagi maksud memasang apa-apa sistem pengagihan tenaga
+
+<!-- marginal: pembinaan. -->
+
+di bawah Akta ini, pemegang lesen boleh meletakkan, menempatkan atau membawa di atas, di bawah atau melewati mana-mana tanah, selain daripada tanah Kerajaan, apa-apa tiang dan kelengkapan lain yang perlu atau wajar bagi maksud-maksud pepasangan berlesen, mengikut mana-mana yang berkenaan, dan boleh mengambil apa-apa tindakan lain yang perlu untuk menjadikan pepasangan itu selamat dan cekap, membayar pampasan penuh mengikut seksyen 16 kepada semua orang yang berkepentingan kerana apa-apa gangguan, kerosakan atau ketakupayaan yang mungkin disebabkan olehnya dan pampasan itu boleh termasuk bayaran tahunan bagi tanah yang digunakan bagi maksud tiang atau kelengkapan lain itu.
 
 (2) Sebelum memasuki mana-mana tanah bagi maksud yang dinyatakan dalam subseksyen (1), pemegang lesen hendaklah memberi notis yang menyatakan, dengan sepenuhnya dan setepatnya yang mungkin, jenis dan takat tindakan-tindakan yang dicadangkan hendak dilakukan. Notis itu hendaklah pada sebahagian besarnya dalam bentuk yang dinyatakan dalam Jadual Pertama dan Pentadbir Tanah Daerah hendaklah menyatakan tarikh Pihak Berkuasa Negeri akan menyiasat apa-apa bantahan yang mungkin telah dibuat sebagaimana yang di- peruntukkan kemudian daripada ini.
 
@@ -628,23 +726,77 @@ hendaklah menyebabkan suatu nota mengenai kewujudan hak-hak di bawah notis atau 
 
 tanah yang terjejas oleh notis atau perintah itu, mengikut mana-mana yang berkenaan.
 
-Talian
+<!-- marginal: Talian -->
 
-12. (1) Tertakluk kepada kelulusan Pihak Berkuasa bekalan dan Negeri dan kepada apa-apa syarat sebagaimana yang kelengkapan lain di atas disifatkan wajar oleh Pihak Berkuasa Negeri, suatu lesen tanah boleh membenarkan pemegang lesen meletakkan, Kerajaan. menempatkan atau membawa, di atas, di bawah atau melewati tanah Kerajaan, pada takat dan mengikut cara yang dinyatakan dalam lesen, apa-apa talian bekalan dan mendirikan dan menyenggarakan dalam atau atas tanah Kerajaan apa-apa tiang dan kelengkapan lain sebagaimana yang didapati perlu atau patut oleh Ketua Pengarah bagi maksud-maksud pepasangan berlesen, dan tertakluk sentiasa kepada kelulusan Pihak Berkuasa Negeri, kebenaran tersebut boleh diberikan atau ditambahkan pada bila-bila masa dalam tempoh sah lesen dengan cara pengendorsan padanya di bawah tandatangan Ketua Pengarah.
+12. (1) Tertakluk kepada kelulusan Pihak Berkuasa
+
+<!-- marginal: bekalan dan -->
+
+Negeri dan kepada apa-apa syarat sebagaimana yang
+
+<!-- marginal: kelengkapan -->
+
+<!-- marginal: lain di atas -->
+
+disifatkan wajar oleh Pihak Berkuasa Negeri, suatu lesen
+
+<!-- marginal: tanah -->
+
+boleh membenarkan pemegang lesen meletakkan,
+
+<!-- marginal: Kerajaan. -->
+
+menempatkan atau membawa, di atas, di bawah atau melewati tanah Kerajaan, pada takat dan mengikut cara yang dinyatakan dalam lesen, apa-apa talian bekalan dan mendirikan dan menyenggarakan dalam atau atas tanah Kerajaan apa-apa tiang dan kelengkapan lain sebagaimana yang didapati perlu atau patut oleh Ketua Pengarah bagi maksud-maksud pepasangan berlesen, dan tertakluk sentiasa kepada kelulusan Pihak Berkuasa Negeri, kebenaran tersebut boleh diberikan atau ditambahkan pada bila-bila masa dalam tempoh sah lesen dengan cara pengendorsan padanya di bawah tandatangan Ketua Pengarah.
 
 (2) Segala kelengkapan yang ditempatkan dalam atau atas tanah Kerajaan yang tidak dialihkan daripadanya dalam masa enam bulan, atau apa-apa tempoh yang lebih lama sebagaimana yang dibenarkan oleh Kerajaan Negeri, selepas habisnya tempoh atau penamatan awal lesen yang di bawah kebenarannya kelengkapan itu ditempatkan sedemikian, hendaklah terletakhak pada dan menjadi harta Kerajaan Negeri yang dalamnya kelengkapan itu terletak.
 
-Penyeng-
+<!-- marginal: Penyeng- -->
 
-13. Bilamasa perlu berbuat demikian bagi maksud garaan. menyenggarakan, membaiki atau meningkatkan mana- pembaikan dan mana pepasangan berlesen atau mana-mana bahagian peningkatan daripadanya, pemegang lesen, atau mana-mana orang pepasangan. yang diberikuasa olehnya bagi maksud itu, boleh pada bila-bila masa yang munasabah memasuki mana-mana tanah yang di atas, di bawah atau melewatinya talian bekalan telah diletakkan, ditempatkan atau dibawa, atau yang di atasnya tiang atau kelengkapan lain telah didirikan, dan boleh menjalankan segala pembaikan yang perlu, dan boleh, dalam menjalankannya, menebang atau mencantas pokok, membuang tumbuhan dan melakukan segala perkara lain yang perlu bagi maksud tersebut, dengan menyebabkan seberapa sedikit kerosakan yang
+13. Bilamasa perlu berbuat demikian bagi maksud
+
+<!-- marginal: garaan. -->
+
+menyenggarakan, membaiki atau meningkatkan mana-
+
+<!-- marginal: pembaikan -->
+
+<!-- marginal: dan -->
+
+mana pepasangan berlesen atau mana-mana bahagian
+
+<!-- marginal: peningkatan -->
+
+daripadanya, pemegang lesen, atau mana-mana orang
+
+<!-- marginal: pepasangan. -->
+
+yang diberikuasa olehnya bagi maksud itu, boleh pada bila-bila masa yang munasabah memasuki mana-mana tanah yang di atas, di bawah atau melewatinya talian bekalan telah diletakkan, ditempatkan atau dibawa, atau yang di atasnya tiang atau kelengkapan lain telah didirikan, dan boleh menjalankan segala pembaikan yang perlu, dan boleh, dalam menjalankannya, menebang atau mencantas pokok, membuang tumbuhan dan melakukan segala perkara lain yang perlu bagi maksud tersebut, dengan menyebabkan seberapa sedikit kerosakan yang
 
 <!-- page 23 -->
 
 mungkin dan membayar pampasan penuh mengikut seksyen 16 kepada semua orang yang berkepentingan kerana apa-apa kerosakan yang mungkin disebabkan olehnya yang pampasan baginya belum lagi ditaksirkan di bawah seksyen 11.
 
-Pengalihan
+<!-- marginal: Pengalihan -->
 
-14. (1) Jika talian bekalan telah diletakkan, atau tiang atau atau kelengkapan didirikan, di atas mana-mana tanah di pengubah- pindaan bawah seksyen 11, dan jika mana-mana orang yang disebut talian bekalan, dalam seksyen 11 (3) berhasrat untuk menggunakan tanah dsb. itu mengikut cara yang menjadikannya perlu atau wajar supaya talian, tiang atau kelengkapan itu dialihkan ke bahagian lain tanah itu, atau ke tanah yang arasnya adalah lebih tingi atau lebih rendah, atau diubahpinda bentuk- nya, maka dia boleh menghendaki pemegang lesen mengalihkan atau mengubahpinda talian, tiang atau kelengkapan itu dengan sewajarnya.
+14. (1) Jika talian bekalan telah diletakkan, atau tiang
+
+<!-- marginal: atau -->
+
+atau kelengkapan didirikan, di atas mana-mana tanah di
+
+<!-- marginal: pengubah- -->
+
+<!-- marginal: pindaan -->
+
+bawah seksyen 11, dan jika mana-mana orang yang disebut
+
+<!-- marginal: talian bekalan, -->
+
+dalam seksyen 11 (3) berhasrat untuk menggunakan tanah
+
+<!-- marginal: dsb. -->
+
+itu mengikut cara yang menjadikannya perlu atau wajar supaya talian, tiang atau kelengkapan itu dialihkan ke bahagian lain tanah itu, atau ke tanah yang arasnya adalah lebih tingi atau lebih rendah, atau diubahpinda bentuk- nya, maka dia boleh menghendaki pemegang lesen mengalihkan atau mengubahpinda talian, tiang atau kelengkapan itu dengan sewajarnya.
 
 (2) (a) Jika pemegang lesen tidak mematuhi kehendak itu, orang itu boleh memohon secara bertulis kepada Pihak Berkuasa Negeri yang boleh, menurut budi bicaranya, selepas menyiasat segala fakta hal itu, menolak permohonan itu atau membuat suatu perintah, sama ada secara mutlak atau tertakluk kepada syarat-syarat tertentu, bagi pengalihan atau pengubahpindaan talian, tiang atau kelengkapan itu. Perintah itu hendaklah mengadakan peruntukan mengenai pembayaran kos melaksanakan pengalihan atau pengubahpindaan oleh pemegang lesen atau oleh orang yang membuat permohonan, sebagaimana yang Pihak Berkuasa Negeri berpendapat adalah saksama mengikut hal keadaan hal itu.
 
@@ -660,13 +812,25 @@ mana yang dikehendaki bagi maksud-maksud talian itu, dan Pihak Berkuasa Negeri b
 
 (5) Bilamasa talian bekalan telah diletakkan, atau tiang atau kelengkapan didirikan, atas tanah Kerajaan oleh pemegang lesen dan tanah itu kemudiannya diberimilik kepada mana-mana orang, pemunya atau penduduk tanah itu boleh, melainkan jika terma-terma pemberimilikan itu secara nyata memperuntukkan selainnya, menghendaki pengalihan talian bekalan itu ke bahagian lain tanah itu, atau ke tanah yang arasnya adalah lebih tinggi atau lebih rendah, atau pengubahpindaan talian, tiang atau kelengkapan itu, dan subseksyen (1) hingga (4) hendaklah terpakai bagi apa-apa kehendak sedemikian: Dengan syarat bahawa kos melaksanakan pengalihan atau pengubahpindaan itu hendaklah dibayar oleh orang yang berkehendakkan pengalihan atau pengubahpindaan itu.
 
-Kecualian
+<!-- marginal: Kecualian -->
 
-15. (1) Tiada apa-apa jua dalam seksyen 11 atau seksyen bagi 14 boleh— perjanjian izin-lalu.
+15. (1) Tiada apa-apa jua dalam seksyen 11 atau seksyen
+
+<!-- marginal: bagi -->
+
+14 boleh—
+
+<!-- marginal: perjanjian -->
+
+<!-- marginal: izin-lalu. -->
 
 (a) menyentuh hak pemegang lesen untuk membuat suatu perjanjian, yang umumnya dikenali sebagai perjanjian izin-lalu, dengan pemunya atau penduduk mana-mana tanah bagi maksud membawa talian bekalan merintangi tanah itu; atau
 
-(b) menyentuh apa-apa perjanjian izin-lalu sedemikian yang ada pada mula berkuat- kuasanya Akta ini.
+(b) menyentuh apa-apa perjanjian
+
+<!-- marginal: izin-lalu -->
+
+sedemikian yang ada pada mula berkuat- kuasanya Akta ini.
 
 (2) Walau apa pun mana-mana undang-undang bertulis yang berhubungan dengan tanah, Pendaftar, apabila
 
@@ -680,7 +844,15 @@ dikemukakan kepadanya salinan asal dan disimpan dengannya salinan terperaku bagi
 
 ### Interim"; dan
 
-(b) apabila dokumen hakmilik tetap dikeluarkan bagi Akta 2/63. tanah itu di bawah seksyen 39 Akta Kanun Tanah Negara (Hakmilik Pulau Pinang dan Melaka) 1963, apa-apa nota yang dibuat menurut subseksyen itu sebagaimana yang diubah oleh perenggan (a) hendaklah (jika ia masih berkuatkuasa sebelum sahaja pengeluaran dokumen itu) dicatatkan oleh Pesuruhjaya pada dokumen hakmilik daftaran dan hendaklah terus berkuatkuasa seolah-olah ia telah dicatatkan di bawah subseksyen itu.
+(b) apabila dokumen hakmilik tetap dikeluarkan bagi
+
+<!-- marginal: Akta 2/63. -->
+
+tanah itu di bawah seksyen 39 Akta Kanun Tanah Negara (Hakmilik Pulau Pinang dan Melaka) 1963, apa-apa nota yang dibuat menurut subseksyen itu sebagaimana yang diubah oleh perenggan (a) hendaklah (jika
+
+<!-- marginal: ia masih -->
+
+berkuatkuasa sebelum sahaja pengeluaran dokumen itu) dicatatkan oleh Pesuruhjaya pada dokumen hakmilik daftaran dan hendaklah terus berkuatkuasa seolah-olah ia telah dicatatkan di bawah subseksyen itu.
 
 (4) Selagi masih terdapat suatu nota yang dibuat menurut subseksyen (2) atau (3) pada dokumen hakmilik daftaran atau folio berkenaan Daftar Interim, segala urusniaga berkenaan dengan tanah yang dimaksudkan oleh nota itu hendaklah disifatkan tertakluk kepada hak
 
@@ -700,13 +872,31 @@ izin-lalu yang berkenaan dengannya nota itu telah dibuat.
 
 "Pesuruhjaya" dan "Daftar lnterim" masing-masingnya mempunyai erti yang diberi kepadanya oleh Akta Kanun Tanah Negara (Hakmilik Pulau Pinang dan Melaka) 1963.
 
-Pampasan. 16. (1) Amaun pampasan jika ada, yang kena dibayar di bawah seksyen 11 atau 13 hendaklah ditaksirkan oleh Pentadbir Tanah Daerah selepas apa-apa siasatan sebagaimana yang difikirkannya mencukupi. Taksiran itu hendaklah pada sebahagian besarnya mengikut bentuk yang dinyatakan dalam Jadual Ketiga:
+<!-- marginal: Pampasan. -->
+
+16. (1) Amaun pampasan jika ada, yang kena dibayar di bawah seksyen 11 atau 13 hendaklah ditaksirkan oleh Pentadbir Tanah Daerah selepas apa-apa siasatan sebagaimana yang difikirkannya mencukupi. Taksiran itu hendaklah pada sebahagian besarnya mengikut bentuk yang dinyatakan dalam Jadual Ketiga:
 
 Dengan syarat selanjutnya bahawa tiada pampasan kena dibayar oleh pemegang lesen berkenaan dengan apa-apa pokok dalam jarak lima puluh kaki dari garis tengah sesuatu jalan yang dibina atau disenggarakan oleh Kerajaan Negeri atau oleh mana-mana pihak berkuasa tempatan melainkan jika dibuktikan bahawa pokok itu telah sedia ada sebelum pembinaan jalan itu.
 
 (2) Mana-mana orang yang terkilan dengan taksiran Pentabir Tanah Daerah boleh dalam masa dua puluh satu hari selepas taksiran itu merayu kepada Pihak Berkuasa Negeri yang keputusannya adalah muktamad.
 
-Pengurangan 17. (1) Mana-mana pemegang lesen boleh mengu- atau rangkan, sebagaimana yang difikirkannya patut, kuantiti pemberhentian bekalan: tenaga yang dibekalkan kepada mana-mana pengguna jika Liabiliti. disebabkan oleh apa-apa hal keadaan yang di luar jangkaan tenaga yang dijanakuasakan tidak mencukupi untuk membolehkan kuantiti sepenuhnya dibekalkan dengan mudah.
+<!-- marginal: Pengurangan -->
+
+17. (1) Mana-mana pemegang lesen boleh mengu-
+
+<!-- marginal: atau -->
+
+rangkan, sebagaimana yang difikirkannya patut, kuantiti
+
+<!-- marginal: pemberhentian -->
+
+<!-- marginal: bekalan: -->
+
+tenaga yang dibekalkan kepada mana-mana pengguna jika
+
+<!-- marginal: Liabiliti. -->
+
+disebabkan oleh apa-apa hal keadaan yang di luar jangkaan tenaga yang dijanakuasakan tidak mencukupi untuk membolehkan kuantiti sepenuhnya dibekalkan dengan mudah.
 
 (2) Jika kuantiti tenaga telah dikurangkan seperti yang disebut terdahulu—
 
@@ -720,9 +910,19 @@ kerosakan yang disebabkan oleh pengurangan itu; dan
 
 (3) Mana-mana pemegang lesen tidaklah bertang- gungan bagi apa-apa kerosakan kepada mana-mana orang atau apa-apa harta atau bagi apa-apa pemberhentian bekalan tenaga yang mungkin disebabkan oleh kemalangan yang tidak dapat dielakkan, rosak rosot biasa atau beban berlebihan diakibatkan oleh sambungan kelengkapan yang tidak dibenarkan, atau disebabkan oleh kehendak munasabah sistem itu, atau disebabkan oleh kecacatan pada mana-mana pepasangan yang tidak disediakan oleh pemegang lesen, tetapi hanya akan bertanggungan apabila kerosakan atau pemberhentian itu jelas kelihatan sebagai telah diakibatkan oleh kecuaian di pihak orang-orang yang diambil kerja oleh pemegang lesen, ejen atau pengkhidmatnya, mengikut mana-mana yang berkenaan, atau diakibatkan oleh pembinaan tak sempurna pepasangan itu oleh pemegang lesen.
 
-Cagaran:
+<!-- marginal: Cagaran: -->
 
-18. (1) Sebelum mengeluarkan apa-apa lesen, Ketua penggantungan Pengarah boleh menghendaki apa-apa cagaran dan pembatalan lesen. sebagaimana yang dinyatakan olehnya diberikan bagi pematuhan yang wajar akan terma-terrna dan syarat-syarat lesen dan Akta ini.
+18. (1) Sebelum mengeluarkan apa-apa lesen, Ketua
+
+<!-- marginal: penggantungan -->
+
+Pengarah boleh menghendaki apa-apa cagaran
+
+<!-- marginal: dan pembatalan -->
+
+<!-- marginal: lesen. -->
+
+sebagaimana yang dinyatakan olehnya diberikan bagi pematuhan yang wajar akan terma-terrna dan syarat-syarat lesen dan Akta ini.
 
 (2) Suatu lesen boleh pada bila-bila masa digantung atau dibatalkan oleh Ketua Pengarah atas pelanggaran mana-mana syarat lesen atau keingkaran membayar apa- apa wang yang terakru kena dibayar di bawahnya, atau jika pemegang lesen berhenti mengerjakan atau mengendalikan pepasangan yang berkenaan dengannya lesen itu telah diberi:
 
@@ -736,17 +936,55 @@ atau pembatalan itu, merayu kepada Menteri terhadap penggantungan atau pembatala
 
 (4) Apabila tamatnya sesuatu lesen, pemegang lesen hendaklah mengalihkan pepasangan dan kelengkapannya dalam masa tiga bulan dari tarikh penamatan itu, yang kegagalannya hendaklah menjadikan pemegang lesen bertanggungan bagi segala apa jua pun kos yang dilakukan dalam mengalihkannya dan kos itu boleh didapatkan kembali daripada cagaran yang didepositkan (jika ada) di bawah subseksyen (1).
 
-Sekatan
+<!-- marginal: Sekatan -->
 
-19. Seorang pemegang lesen yang, melalui syarat-syarat penggunaan lesennya, disekat untuk menggunakan atau membekalkan untuk. maksud- tenaga bagi maksud-maksud yang dinyatakan sahaja, tidak maksud boleh menggunakan atau membekalkan tenaga bagi apa- yang dinyatakan. apa maksud selain daripada maksud-maksud yang dinyatakan sedemikian.
+19. Seorang pemegang lesen yang, melalui syarat-syarat
 
-Pengecualian
+<!-- marginal: penggunaan -->
 
-20. Apabila apa-apa kelengkapan elektrik kepunyaan kelengkapan seorang pemegang lesen telah ditempatkan dalam atau di daripada distres dan premis-premis yang tidak dipunyai atau diduduki oleh penahanan. pemegang lesen bagi maksud pembekalan atau penyukatan tenaga, kelengkapan itu tidak boleh dikenakan distres ataupun diambil sebagai pelaksanaan di bawah apa-apa proses mahkamah atau dalam apa-apa prosiding kebankrapan atau ketaksolvenan terhadap mana-mana orang.
+lesennya, disekat untuk menggunakan atau membekalkan
 
-Pendaftaran
+<!-- marginal: untuk. -->
 
-21. (1) Sebelum siapnya sesuatu pepasangan baru, selain pepasangan. daripada pepasangan yang dipunyai oleh pihak berkuasa bekalan, pemunya hendaklah mengemukakan, dengan pendua, kepada Pengarah, suatu permohonan untuk pendaftaran dalam bentuk yang ditetapkan. Pengarah hendaklah menyebabkan pemeriksaan dan ujian dibuat dalam tempoh yang ditetapkan dan, jika pepasangan itu memuaskan kehendak-kehendak Akta ini, hendaklah
+<!-- marginal: maksud- -->
+
+tenaga bagi maksud-maksud yang dinyatakan sahaja, tidak
+
+<!-- marginal: maksud -->
+
+boleh menggunakan atau membekalkan tenaga bagi apa-
+
+<!-- marginal: yang -->
+
+<!-- marginal: dinyatakan. -->
+
+apa maksud selain daripada maksud-maksud yang dinyatakan sedemikian.
+
+<!-- marginal: Pengecualian -->
+
+20. Apabila apa-apa kelengkapan elektrik kepunyaan
+
+<!-- marginal: kelengkapan -->
+
+seorang pemegang lesen telah ditempatkan dalam atau di
+
+<!-- marginal: daripada -->
+
+<!-- marginal: distres dan -->
+
+premis-premis yang tidak dipunyai atau diduduki oleh
+
+<!-- marginal: penahanan. -->
+
+pemegang lesen bagi maksud pembekalan atau penyukatan tenaga, kelengkapan itu tidak boleh dikenakan distres ataupun diambil sebagai pelaksanaan di bawah apa-apa proses mahkamah atau dalam apa-apa prosiding kebankrapan atau ketaksolvenan terhadap mana-mana orang.
+
+<!-- marginal: Pendaftaran -->
+
+21. (1) Sebelum siapnya sesuatu pepasangan baru, selain
+
+<!-- marginal: pepasangan. -->
+
+daripada pepasangan yang dipunyai oleh pihak berkuasa bekalan, pemunya hendaklah mengemukakan, dengan pendua, kepada Pengarah, suatu permohonan untuk pendaftaran dalam bentuk yang ditetapkan. Pengarah hendaklah menyebabkan pemeriksaan dan ujian dibuat dalam tempoh yang ditetapkan dan, jika pepasangan itu memuaskan kehendak-kehendak Akta ini, hendaklah
 
 <!-- page 29 -->
 
@@ -762,9 +1000,17 @@ Dengan syarat bahawa pada bila-bila masa dari tarikh mula berkuatkuasanya Akta i
 
 (5) Perakuan-Perakuan Pendaftaran tidaklah boleh dipindahmilikkan tanpa kebenaran Ketua Pengarah.
 
-Pemeriksaan
+<!-- marginal: Pemeriksaan -->
 
-22. (1) Tertakluk kepada apa-apa pengecualian yang berkala diberikan di bawah Akta ini, mana-mana orang yang pepasangan. bercadang untuk membina, memperbesarkan atau
+22. (1) Tertakluk kepada apa-apa pengecualian yang
+
+<!-- marginal: berkala -->
+
+diberikan di bawah Akta ini, mana-mana orang yang
+
+<!-- marginal: pepasangan. -->
+
+bercadang untuk membina, memperbesarkan atau
 
 <!-- page 30 -->
 
@@ -778,9 +1024,17 @@ mengubahpinda apa-apa pepasangan hendaklah memberi notis mengenai cadangan pembi
 
 ## KAWALAN KOMPETEN
 
-Orang-orang
+<!-- marginal: Orang-orang -->
 
-23. (1) Tiada pepasangan atau loji atau kelengkapan yang elektrik selain daripada yang dipunyai atau diuruskan oleh menjaga. pihak berkuasa bekalan boleh dikerjakan atau di- kendalikan kecuali oleh atau di bawah kawalan orang- orang yang memiliki apa-apa kelayakan dan memegang apa-apa perakuan sebagaimana yang ditetapkan. dan tiada seorang pun yang tidak memiliki kelayakan atau memegang perakuan seperti yang disebut terdahulu boleh menjaga apa-apa pepasangan atau boleh mengawal pengendalian apa-apa loji atau kelengkapan elektrik.
+23. (1) Tiada pepasangan atau loji atau kelengkapan
+
+<!-- marginal: yang -->
+
+elektrik selain daripada yang dipunyai atau diuruskan oleh
+
+<!-- marginal: menjaga. -->
+
+pihak berkuasa bekalan boleh dikerjakan atau di- kendalikan kecuali oleh atau di bawah kawalan orang- orang yang memiliki apa-apa kelayakan dan memegang apa-apa perakuan sebagaimana yang ditetapkan. dan tiada seorang pun yang tidak memiliki kelayakan atau memegang perakuan seperti yang disebut terdahulu boleh menjaga apa-apa pepasangan atau boleh mengawal pengendalian apa-apa loji atau kelengkapan elektrik.
 
 (2) Mana-mana orang yang melanggar seksyen ini adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh dikenakan denda tidak melebihi sepuluh ribu ringgit dan, jika pelanggaran itu diteruskan, dikenakan denda tidak melebihi satu ribu ringgit bagi tiap- tiap hari atau sebahagian daripada sehari selama pelanggaran itu diteruskan selepas sabitan.
 
@@ -790,9 +1044,19 @@ Orang-orang
 
 ## PEMBEKALAN OLEH PEMEGANG LESEN
 
-Kewajipan
+<!-- marginal: Kewajipan -->
 
-24. (1) Tertakluk kepada peruntukan-peruntukan yang membekal berikut dalam Bahagian ini dan mana-mana peraturan apabila diminta. yang dibuat di bawahnya, pemegang lesen hendaklah apabila dikehendaki berbuat demikian oleh pemunya atau penduduk mana-mana premis—
+24. (1) Tertakluk kepada peruntukan-peruntukan yang
+
+<!-- marginal: membekal -->
+
+berikut dalam Bahagian ini dan mana-mana peraturan
+
+<!-- marginal: apabila -->
+
+<!-- marginal: diminta. -->
+
+yang dibuat di bawahnya, pemegang lesen hendaklah apabila dikehendaki berbuat demikian oleh pemunya atau penduduk mana-mana premis—
 
 (a) memberi bekalan elektrik kepada premis-premis itu; dan
 
@@ -840,13 +1104,23 @@ pemegang lesen hendaklah, dengan seberapa segera yang praktik selepas menerima n
 
 <!-- page 33 -->
 
-Kekecualian
+<!-- marginal: Kekecualian -->
 
-25. Tiada apa-apa jua dalam seksyen 24 (1) boleh dikira kepada sebagai menghendaki pemegang lesen memberikan kewajipan membekalkan bekalan elektrik pada mana-mana premis jika— elektrik.
+25. Tiada apa-apa jua dalam seksyen 24 (1) boleh dikira
 
-(a) (i)bekalan elektrik telahpun diberikan pada premis-premis itu oleh pemegang lesen yang lain; dan
+<!-- marginal: kepada -->
 
-(ii)bekalan sedemikian diberi sama ada keseluruhannya atau sebahagiannya menerusi talian bekalan dan kelengkapan atau loji elektrik kepunyaan pemegang lesen; atau
+sebagai menghendaki pemegang lesen memberikan
+
+<!-- marginal: kewajipan -->
+
+<!-- marginal: membekalkan -->
+
+bekalan elektrik pada mana-mana premis jika—
+
+<!-- marginal: elektrik. -->
+
+(a) (i)bekalan elektrik telahpun diberikan pada premis-premis itu oleh pemegang lesen yang lain; dan (ii)bekalan sedemikian diberi sama ada keseluruhannya atau sebahagiannya menerusi talian bekalan dan kelengkapan atau loji elektrik kepunyaan pemegang lesen; atau
 
 (b) dia dilarang berbuat demikian oleh hal keadaan yang di luar kawalannya;
 
@@ -854,9 +1128,17 @@ Kekecualian
 
 (d) tidak munasabah mengikut hal keadaan untuknya dikehendaki berbuat demikian: Dengan syarat bahawa perenggan ini tidaklah terpakai berhubungan dengan bekalan elektrik yang sedang diberikan pada mana-mana premis melainkan jika pemegang lesen telah memberi kepada penduduk atau pemunya, jika premis tidak diduduki, suatu notis tidak kurang daripada tujuh hari kerja mengenai cadangannya mem- berhentikan bekalan elektrik.
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-26. (1) Seorang pemegang lesen boleh, berhubungan memastikan dengan perkhidmatan membekalkan elektrik, melevikan tarif. apa-apa tarif yang diluluskan secara bertulis oleh Menteri dari semasa ke semasa dengan mengambil kira apa-apa syarat dalam lesen itu yang berhubungan dengan pembekalan elektrik di kawasan dan mengikut hal keadaan yang berlainan.
+26. (1) Seorang pemegang lesen boleh, berhubungan
+
+<!-- marginal: memastikan -->
+
+dengan perkhidmatan membekalkan elektrik, melevikan
+
+<!-- marginal: tarif. -->
+
+apa-apa tarif yang diluluskan secara bertulis oleh Menteri dari semasa ke semasa dengan mengambil kira apa-apa syarat dalam lesen itu yang berhubungan dengan pembekalan elektrik di kawasan dan mengikut hal keadaan yang berlainan.
 
 (2) Suatu tarif yang dipastikan oleh pemegang lesen menurut subseksyen (1)—
 
@@ -876,45 +1158,79 @@ Kuasa
 
 (4) Dalam menentukan tarif menurut subseksyen (1) dan dalam membuat perjanjian-perjanjian bagi pembekalan elektrik di bawah seksyen 29, pemegang lesen tidaklah boleh menunjukkan keutamaan berlebihan ataupun diskriminasi di kalangan pengguna atau orang yang berkedudukan seumpamanya mengenai tempat dan masa pembekalan, kuantiti elektrik yang dibekalkan, beban pengguna dan faktor kuasa, dan maksud yang baginya bekalan diambil.
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-27. (1) Jika apa-apa talian bekalan atau loji atau mendapatkan kelengkapan elektrik diadakan oleh pemegang lesen kembali perbelanjaan. menurut seksyen 24 (1), pemegang lesen boleh menghendaki apa-apa perbelanjaan yang dilakukan dengan munasabah dibayar oleh orang yang menghendaki bekalan elektrik pada apa-apa takat yang munasabah dengan mengambil kira hal keadaan.
+27. (1) Jika apa-apa talian bekalan atau loji atau
+
+<!-- marginal: mendapatkan -->
+
+kelengkapan elektrik diadakan oleh pemegang lesen
+
+<!-- marginal: kembali -->
+
+<!-- marginal: perbelanjaan. -->
+
+menurut seksyen 24 (1), pemegang lesen boleh menghendaki apa-apa perbelanjaan yang dilakukan dengan munasabah dibayar oleh orang yang menghendaki bekalan elektrik pada apa-apa takat yang munasabah dengan mengambil kira hal keadaan.
 
 (2) Perbelanjaan yang dilakukan dengan munasabah dalam mengadakan apa-apa talian bekalan atau loji atau kelengkapan elektrik di bawah subseksyen (1) termasuklah nilai dipermodalkan bagi apa-apa perbelanjaan yang mungkin dilakukan dalam menyenggarakannya, jika perbelanjaan itu tidak boleh didapatkan kembali oleh pemegang lesen sebagai sebahagian daripada tarif yang dilevikan olehnya bagi bekalan itu.
 
 <!-- page 35 -->
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-28. (1) Seorang pemegang lesen boleh menghendaki menghendaki mana-mana orang yang menghendaki bekalan elektrik cagaran. menurut seksyen 24 (1) untuk memberi kepadanya cagaran yang munasabah bagi semua wang yang menjadi kena dibayar kepadanya—
+28. (1) Seorang pemegang lesen boleh menghendaki
+
+<!-- marginal: menghendaki -->
+
+mana-mana orang yang menghendaki bekalan elektrik
+
+<!-- marginal: cagaran. -->
+
+menurut seksyen 24 (1) untuk memberi kepadanya cagaran yang munasabah bagi semua wang yang menjadi kena dibayar kepadanya—
 
 (a) berkenaan dengan bekalan elektrik; atau
 
-(b)jika apa-apa talian bekalan atau loji atau kelengkapan elektrik perlu diadakan di bawah subseksyen yang sama berkenaan dengan pengadaan kemudahan sedemikian,
+(b)jika apa-apa talian bekalan atau
+
+<!-- marginal: loji atau -->
+
+kelengkapan elektrik perlu diadakan di bawah subseksyen yang sama berkenaan dengan pengadaan kemudahan sedemikian,
 
 dan jika orang itu gagal memberi apa-apa cagaran sedemikian, pemegang lesen boleh, jika difikirkannya patut, menolak untuk memberikan bekalan atau mengadakan talian bekalan atau loji atau kelengkapan elektrik sehinggalah cagaran telah diberi.
 
 (2) Jika orang itu belum memberi cagaran dalam subseksyen (1) atau cagaran yang diberi oleh orang itu menjadi tidak mencukupi, pemegang lesen boleh melalui notis menghendaki orang itu, dalam masa tujuh hari selepas penyampaian notis, memberi kepadanya cagaran yang munasabah bagi pembayaran semua wang yang kena dibayar kepadanya berkenaan dengan bekalan itu dan jika orang itu gagal memberikan cagaran sedemikian, pemegang lesen boleh, jika difikirkannya patut, memberhentikan talian bekalan sehinggalah cagaran diberi.
 
-Perjanjian
+<!-- marginal: Perjanjian -->
 
-29. (1) Walau apa pun apa-apa jua yang terkandung khas dalam seksyen 24 hingga 28, seseorang yang mengenai bekalan. menghendaki bekalan elektrik menurut seksyen 24 (1) boleh membuat suatu perjanjian khas dengan pemegang lesen bagi bekalan itu atas apa-apa terma sebagaimana yang dinyatakan dalam perjanjian.
+29. (1) Walau apa pun apa-apa jua yang terkandung
+
+<!-- marginal: khas -->
+
+dalam seksyen 24 hingga 28, seseorang yang
+
+<!-- marginal: mengenai -->
+
+<!-- marginal: bekalan. -->
+
+menghendaki bekalan elektrik menurut seksyen 24 (1) boleh membuat suatu perjanjian khas dengan pemegang lesen bagi bekalan itu atas apa-apa terma sebagaimana yang dinyatakan dalam perjanjian.
 
 (2) Jika apa-apa perjanjian dibuat menurut subseksyen
 
 (1) masih berkuatkuasa, hak dan liabiliti pihak-pihak kepada perjanjian itu hendaklah ditentukan oleh perjanjian dan tidak melalui peruntukan-peruntukan seksyen 24 hingga 28.
 
-(3) Walau apa pun peruntukan-peruntukan subseksyen
-
-(2), seksyen 24 (2) hendaklah, walau bagaimanapun,
+(3) Walau apa pun peruntukan-peruntukan subseksyen (2), seksyen 24 (2) hendaklah, walau bagaimanapun,
 
 <!-- page 36 -->
 
 terpakai bagi maksud-maksud menyatakan hari yang bekalan elektrik itu dikehendaki dimulakan dan hari yang perjanjian sedemikian berhenti berkuatkuasa.
 
-Penentuan
+<!-- marginal: Penentuan -->
 
-30. (1) Mana-mana pihak kepada apa-apa pertikaian di pertikaian. bawah seksyen 24 hingga 29 yang berkenaan dengan bekalan elektrik boleh merujukkan pertikaian itu kepada Ketua Pengarah untuk keputusannya.
+30. (1) Mana-mana pihak kepada apa-apa pertikaian di
+
+<!-- marginal: pertikaian. -->
+
+bawah seksyen 24 hingga 29 yang berkenaan dengan bekalan elektrik boleh merujukkan pertikaian itu kepada Ketua Pengarah untuk keputusannya.
 
 (2) Ketua Pengarah hendaklah menentukan pertikaian itu dan membuat perintah sewajarnya:
 
@@ -926,9 +1242,25 @@ Dengan syarat bahawa dalam hal yang difikirkan patut oleh Ketua Pengarah, pertik
 
 (5) Apa-apa perintah di bawah subseksyen (2) boleh termasuk suatu peruntukan yang menghendaki salah satu pihak membayar kos atau perbelanjaan yang dilakukan oleh Ketua Pengarah atau penimbangtara, mengikut mana- mana yang berkenaan, dalam menentukan pertikaian itu.
 
-Pemastian
+<!-- marginal: Pemastian -->
 
-31. (1) Seksyen ini terpakai bagi elektrik yang harga maksimum dibekalkan pada premis-premis oleh seseorang yang bagi penjualan dibenarkan oleh suatu lesen untuk membekalkan elektrik. semula elektrik. (2) Ketua Pengarah boleh dari semasa ke semasa memastikan harga-harga maksimum yang dengannya elektrik di bawah seksyen ini boleh dijual semula dan boleh menyiarkan harga-harga yang dipastikan sedemikian mengikut apa-apa cara sebagaimana yang pada pendapatnya dapat menjaminkan publisiti yang mencukupi untuknya.
+31. (1) Seksyen ini terpakai bagi elektrik yang
+
+<!-- marginal: harga -->
+
+<!-- marginal: maksimum -->
+
+dibekalkan pada premis-premis oleh seseorang yang
+
+<!-- marginal: bagi penjualan -->
+
+dibenarkan oleh suatu lesen untuk membekalkan elektrik.
+
+<!-- marginal: semula -->
+
+<!-- marginal: elektrik. -->
+
+(2) Ketua Pengarah boleh dari semasa ke semasa memastikan harga-harga maksimum yang dengannya elektrik di bawah seksyen ini boleh dijual semula dan boleh menyiarkan harga-harga yang dipastikan sedemikian mengikut apa-apa cara sebagaimana yang pada pendapatnya dapat menjaminkan publisiti yang mencukupi untuknya.
 
 <!-- page 37 -->
 
@@ -936,9 +1268,29 @@ Pemastian
 
 (4) Jika mana-mana orang menjual semula elektrik pada harga yang melebihi harga maksimum yang dipastikan di bawah seksyen ini, amaun lebih itu hendaklah didapatkan kembali oleh orang yang kepadanya elektrik itu dijual semula.
 
-Caj bagi
+<!-- marginal: Caj bagi -->
 
-32. (1) Jika seseorang pengguna dikenakan caj bagi bekalan bekalan elektriknya sama ada keseluruhannya atau elektrik hendaklah sebahagiannya dengan merujuk kepada kuantiti elektrik ditentukan melalui meter yang dibekalkan, bekalan itu hendaklah diberikan yang sesuai. menerusi, dan kuantiti elektrik hendaklah ditentukan melalui, meter yang sesuai.
+32. (1) Jika seseorang pengguna dikenakan caj bagi
+
+<!-- marginal: bekalan -->
+
+bekalan elektriknya sama ada keseluruhannya atau
+
+<!-- marginal: elektrik -->
+
+<!-- marginal: hendaklah -->
+
+sebahagiannya dengan merujuk kepada kuantiti elektrik
+
+<!-- marginal: ditentukan -->
+
+<!-- marginal: melalui meter -->
+
+yang dibekalkan, bekalan itu hendaklah diberikan
+
+<!-- marginal: yang sesuai. -->
+
+menerusi, dan kuantiti elektrik hendaklah ditentukan melalui, meter yang sesuai.
 
 (2) Meter hendaklah diadakan oleh pemegang lesen, sama ada dengan cara jualan, sewa atau pinjaman.
 
@@ -954,9 +1306,29 @@ Caj bagi
 
 ## PEMBERITAHUAN KEMALANGAN ATAU KEBAKARAN
 
-Kemalangan
+<!-- marginal: Kemalangan -->
 
-33. (1) Bilamasa apa-apa kemalangan atau kebakaran serius yang menyebabkan atau mengakibatkan kehilangan hendaklah dilaporkan. nyawa atau cedera kepada mana-mana orang atau Penyiasatan kerosakan serius pada harta telah berlaku berkaitan dengan oleh Ketua Pengarah. apa-apa pepasangan atau loji atau kelengkapan elektrik, pemunya, pemegang lesen atau pihak berkuasa bekalan dan pihak pengurusannya hendaklah melaporkan kemalangan atau kebakaran itu kepada seorang Pengarah melalui cara yang tercepat yang ada, dan kemudiannya, dengan seberapa sedikit kelengahan yang mungkin, hendaklah melaporkan secara bertulis kepada Pengarah mengenai fakta-fakta perkara itu setakat yang diketahui oleh mereka masing-masing.
+33. (1) Bilamasa apa-apa kemalangan atau kebakaran
+
+<!-- marginal: serius -->
+
+yang menyebabkan atau mengakibatkan kehilangan
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: dilaporkan. -->
+
+nyawa atau cedera kepada mana-mana orang atau
+
+<!-- marginal: Penyiasatan -->
+
+kerosakan serius pada harta telah berlaku berkaitan dengan
+
+<!-- marginal: oleh Ketua -->
+
+<!-- marginal: Pengarah. -->
+
+apa-apa pepasangan atau loji atau kelengkapan elektrik, pemunya, pemegang lesen atau pihak berkuasa bekalan dan pihak pengurusannya hendaklah melaporkan kemalangan atau kebakaran itu kepada seorang Pengarah melalui cara yang tercepat yang ada, dan kemudiannya, dengan seberapa sedikit kelengahan yang mungkin, hendaklah melaporkan secara bertulis kepada Pengarah mengenai fakta-fakta perkara itu setakat yang diketahui oleh mereka masing-masing.
 
 (2) Pengarah hendaklah, dengan seberapa segera yang praktik apabila menerima laporan pertama—
 
@@ -992,9 +1364,23 @@ Dengan syarat bahawa tiada apa-apa jua yang terkandung di dalam seksyen ini bole
 
 ## SIASATAN DAN TIMBANGTARA
 
-Prosedur
+<!-- marginal: Prosedur -->
 
-34. (1) Sekiranya berlaku perselisihan pendapat diantara berhubungan pemegang lesen dengan seorang Pengarah atau di antara dengan siasatan dan pihak pengurusan atau pemunya mana-mana pepasangan limbangtara. atau kelengkapan dengan seorang Pengarah mengenai apa-apa perkara yang menyentuh pembinaan, pendirian, penyenggaraan atau pengendalian mana-mana pepasangan atau kelengkapan, perkara itu hendaklah dirujuk kepada dan diputuskan oleh Ketua Pengarah.
+34. (1) Sekiranya berlaku perselisihan pendapat diantara
+
+<!-- marginal: berhubungan -->
+
+pemegang lesen dengan seorang Pengarah atau di antara
+
+<!-- marginal: dengan -->
+
+<!-- marginal: siasatan dan -->
+
+pihak pengurusan atau pemunya mana-mana pepasangan
+
+<!-- marginal: limbangtara. -->
+
+atau kelengkapan dengan seorang Pengarah mengenai apa-apa perkara yang menyentuh pembinaan, pendirian, penyenggaraan atau pengendalian mana-mana pepasangan atau kelengkapan, perkara itu hendaklah dirujuk kepada dan diputuskan oleh Ketua Pengarah.
 
 (2) Mana-mana orang yang berasa terkilan dengan keputusan Ketua Pengarah di bawah subseksyen (1) boleh memohon kepada Menteri bagi pertimbangan semula perkara yang dipertikaikan itu. Permohonan itu hendaklah dibuat secara bertulis dalatn masa dua puluh satu hari dari tarikh keputusan Ketua Pengarah, atau dalam apa-apa tempoh lanjut sebagaimana yang dibenarkan oleh Menteri dalam hal keadaan khas, dan hendaklah mengandungi alasan-alasan kilanan itu.
 
@@ -1014,17 +1400,29 @@ dan Menteri hendaklah menyetuju terima keputusan itu sebagai muktamad dan hendak
 
 (6) Orang-orang yang dinamakan oleh Menteri untuk berkhidmat sebagai pengapit adalah berhak menerima apa-apa saraan sebagaimana yang ditetapkan oleh Menteri dari semasa ke semasa.
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-35. Bagi maksud mengadakan siasatan di bawah Akta ini, mengadakan Ketua Pengarah atau Pengerusi, mengikut mana-mana siasatan. yang berkenaan, hendaklah mempunyai kuasa mengendalikan sumpah dan ikrar dan hendaklah terletakhak padanya kuasa-kuasa majistret kelas satu bagi memaksa kehadiran saksi-saksi, menjaga ketenteraman atau selainnya menjalankan dengan sempurna siasatan- siasatan tersebut. Orang-orang yang dipanggil menghadiri mana-mana siasatan adalah terikat di sisi undang-undang untuk hadir.
+35. Bagi maksud mengadakan siasatan di bawah Akta ini,
 
-Timbangtara.
+<!-- marginal: mengadakan -->
+
+Ketua Pengarah atau Pengerusi, mengikut mana-mana
+
+<!-- marginal: siasatan. -->
+
+yang berkenaan, hendaklah mempunyai kuasa mengendalikan sumpah dan ikrar dan hendaklah terletakhak padanya kuasa-kuasa majistret kelas satu bagi memaksa kehadiran saksi-saksi, menjaga ketenteraman atau selainnya menjalankan dengan sempurna siasatan- siasatan tersebut. Orang-orang yang dipanggil menghadiri mana-mana siasatan adalah terikat di sisi undang-undang untuk hadir.
+
+<!-- marginal: Timbangtara. -->
 
 36. (1) Jika apa-apa perkara dikehendaki ditentukan melalui timbangtara di bawah Akta ini, perkara itu hendaklah ditentukan oleh suatu lembaga yang terdiri daripada satu atau tiga penimbangtara yang dipilih oleh pihak-pihak atau, jika mereka tidak dapat bersetuju, oleh Hakim Besar.
 
 (2) Setiap pihak hendaklah mempunyai kuasa untuk melantik seorang pengapit untuk bersidang dengan penimbangtara, tetapi hanya penimbangtara seorang sahaja hendaklah mempunyai kuasa memutuskan dan membuat suatu award. Jika lebih daripada satu penimbangtara dilantik, suatu majoriti di kalangan mereka boleh memutuskan dan membuat suatu award.
 
-(3) Timbangtara, hendaklah dijalankan di mana-mana tempat dalam Malaysia sebagaimana yang diputuskan oleh penimbangtara, dan hendaklah, tertakluk kepada Akta 93. seksyen ini, dikawal oleh Akta Timbangtara 1952.
+(3) Timbangtara, hendaklah dijalankan di mana-mana tempat dalam Malaysia sebagaimana yang diputuskan oleh penimbangtara, dan hendaklah, tertakluk kepada
+
+<!-- marginal: Akta 93. -->
+
+seksyen ini, dikawal oleh Akta Timbangtara 1952.
 
 <!-- page 42 -->
 
@@ -1036,9 +1434,13 @@ IX
 
 ## KESALAHAN DAN PENALTI
 
-Kesalahan-
+<!-- marginal: Kesalahan- -->
 
-37. (1) Mana-mana orang yang mengganggu atau kesalahan. melaraskan apa-apa pepasangan atau bahagiannya atau mengilang atau mengimport atau menjual apa-apa kelengkapan sehingga menyebabkan atau mungkin menyebabkan bahaya kepada nyawa atau anggota badan manusia atau kerosakan pada mana-mana kelengkapan atau harta lain adalah melakukan suatu kesalahan dan bagi setiap kesalahan sedemikian, apabila disabitkan, boleh dikenakan denda tidak melebihi satu ratus ribu ringgit atau penjara selama tempoh tidak melebihi lima tahun atau kedua-duanya.
+37. (1) Mana-mana orang yang mengganggu atau
+
+<!-- marginal: kesalahan. -->
+
+melaraskan apa-apa pepasangan atau bahagiannya atau mengilang atau mengimport atau menjual apa-apa kelengkapan sehingga menyebabkan atau mungkin menyebabkan bahaya kepada nyawa atau anggota badan manusia atau kerosakan pada mana-mana kelengkapan atau harta lain adalah melakukan suatu kesalahan dan bagi setiap kesalahan sedemikian, apabila disabitkan, boleh dikenakan denda tidak melebihi satu ratus ribu ringgit atau penjara selama tempoh tidak melebihi lima tahun atau kedua-duanya.
 
 (2) Mana-mana orang yang dengan apa-apa perbuatan atau peninggalan gopoh atau cuai menyebabkan kecederaan atau kerosakan kepada mana-mana orang atau harta berkenaan dengan mana-mana pepasangan atau kelengkapan atau suatu bahagiannya adalah melakukan suatu kesalahan dan boleh dikenakan, apabila disabitkan, denda tidak melebihi lima puluh ribu ringgit atau penjara selama tempoh tidak melebihi tiga tahun atau kedua- duanya.
 
@@ -1098,9 +1500,17 @@ atau penjara selama tempoh tidak melebihi dua tahun atau kedua-duanya.
 
 (16) Bilamasa mana-mana ejen atau pengkhidmat dalam menjalankan pekerjaannya melakukan atau tidak meninggalkan daripada melakukan sesuatu perbuatan yang perlakuan atau peninggalan daripada melakukan perbuatan itu oleh prinsipal atau majikannya akan menjadi suatu kesalahan terhadap Akta ini, maka ejen atau pengkhidmat itu adalah melakukan kesalahan itu, dan prinsipal atau majikannya dan mana-mana orang yang pada masa perbuatan atau peninggalan itu adalah penjaga perniagaan yang berkenaan dengannya perbuatan atau peninggalan itu berlaku adalah melakukan kesalahan itu melainkan jika prinsipal atau majikan atau mana-mana orang sedemikian, mengikut mana-mana yang berkenaan, membuktikan sehingga memuaskan hati mahkamah bahawa dia telah mengambil segala langkah dan awasan yang munasabah untuk mencegah perbuatan atau peninggalan itu.
 
-Pemotongan
+<!-- marginal: Pemotongan -->
 
-38. (1) Jika mana-mana orang yang diambil kerja oleh bekalan pemegang lesen mendapat keterangan di mana-mana elektnk. premis yang pada pendapatnya membuktikan bahawa suatu kesalahan telah dilakukan di bawah seksyen 37 (1), 37 (3) atau 37 (14), pemegang lesen atau mana-mana orang yang diberikuasa sewajarnya oleh pemegang lesen boleh, dengan memberi notis tidak kurang daripada dua puluh empat jam, dalam apa-apa bentuk sebagaimana yang ditetapkan, menyebabkan bekalan tenaga dipotong daripada premis tersebut.
+38. (1) Jika mana-mana orang yang diambil kerja oleh
+
+<!-- marginal: bekalan -->
+
+pemegang lesen mendapat keterangan di mana-mana
+
+<!-- marginal: elektnk. -->
+
+premis yang pada pendapatnya membuktikan bahawa suatu kesalahan telah dilakukan di bawah seksyen 37 (1), 37 (3) atau 37 (14), pemegang lesen atau mana-mana orang yang diberikuasa sewajarnya oleh pemegang lesen boleh, dengan memberi notis tidak kurang daripada dua puluh empat jam, dalam apa-apa bentuk sebagaimana yang ditetapkan, menyebabkan bekalan tenaga dipotong daripada premis tersebut.
 
 (2) Jika bekalan tenaga telah dipotong di bawah subseksyen (1), maka ia tidaklah boleh disambung semula
 
@@ -1118,15 +1528,25 @@ sehinggalah pemegang lesen menurut budi bicaranya memberikan kebenaran bagi peny
 
 (5) Amaun yang dinyatakan dalam pernyataan bertulis itu hendaklah, dalam tempoh yang dinyatakan dalam pernyataan itu, menjadi genap masa dan kena dibayar kepada pemegang lesen dan jika tidak dibayar, amaun itu hendaklah didapatkan kembali melalui tindakan sivil di mahkamah.
 
-Liabiliti
+<!-- marginal: Liabiliti -->
 
-39. Kecuali sebagaimana yang diperuntukkan dalam tidak seksyen 17 dan 20, tiada apa-apa jua yang terkandung terjejas. dalam Akta ini boleh berkuatkuasa untuk melepaskan pemegang lesen atau pihak pengurusan daripada apa-apa liabiliti sivil atau jenayah yang berbangkit di bawah Akta ini.
+39. Kecuali sebagaimana yang diperuntukkan dalam
 
-Beban
+<!-- marginal: tidak -->
 
-40. Dalam apa-apa pendakwaan bagi mana-mana pembuktian. kesalahan di bawah seksyen 37 (3) bukti mengenai—
+seksyen 17 dan 20, tiada apa-apa jua yang terkandung
 
-(a) kewujudan kaedah-kaedah buatan, sama ada bersendirian atau berserta dengan kaedah-kaedah buatan tambahan yang tidak dijumpai, yang boleh
+<!-- marginal: terjejas. -->
+
+dalam Akta ini boleh berkuatkuasa untuk melepaskan pemegang lesen atau pihak pengurusan daripada apa-apa liabiliti sivil atau jenayah yang berbangkit di bawah Akta ini.
+
+<!-- marginal: Beban -->
+
+40. Dalam apa-apa pendakwaan bagi mana-mana
+
+<!-- marginal: pembuktian. -->
+
+kesalahan di bawah seksyen 37 (3) bukti mengenai— (a) kewujudan kaedah-kaedah buatan, sama ada bersendirian atau berserta dengan kaedah-kaedah buatan tambahan yang tidak dijumpai, yang boleh
 
 <!-- page 48 -->
 
@@ -1164,9 +1584,17 @@ bahagian atau sambungan lain seperti yang disebut terdahulu;
 
 (B) bahawa orang atau pengguna itu telah ber- subahat melakukan kesalahan mengubahpinda, menghalang, mengambil, menggunahabis atau mengguna itu, mengikut mana-mana yang berkenaan.
 
-Pampasan
+<!-- marginal: Pampasan -->
 
-41. (1) Mana-mana orang yang mengalihkan, me- kerana musnahkan atau merosakkan sama ada dengan sengaja kerosakan. atau selainnya, apa-apa pepasangan atau mana-mana bahagiannya, atau mana-mana lampu awam atau mana- mana tiang, pendakap atau kaedah lain bagi menopangkan lampu awam, atau mana-mana alat yang digunakan berkaitan dengan mana-mana pepasangan untuk merekodkan keluaran atau penggunahabisan tenaga, boleh, sebagai tambahan kepada apa-apa penalti yang boleh dikenakan ke atasnya di bawah Akta ini, ditanggungkan dengan pembayaran pampasan penuh bagi kerosakan yang telah dilakukannya dan pampasan boleh didapatkan kembali melalui tindakan atau guaman sivil di hadapan mana-mana mahkamah.
+41. (1) Mana-mana orang yang mengalihkan, me-
+
+<!-- marginal: kerana -->
+
+musnahkan atau merosakkan sama ada dengan sengaja
+
+<!-- marginal: kerosakan. -->
+
+atau selainnya, apa-apa pepasangan atau mana-mana bahagiannya, atau mana-mana lampu awam atau mana- mana tiang, pendakap atau kaedah lain bagi menopangkan lampu awam, atau mana-mana alat yang digunakan berkaitan dengan mana-mana pepasangan untuk merekodkan keluaran atau penggunahabisan tenaga, boleh, sebagai tambahan kepada apa-apa penalti yang boleh dikenakan ke atasnya di bawah Akta ini, ditanggungkan dengan pembayaran pampasan penuh bagi kerosakan yang telah dilakukannya dan pampasan boleh didapatkan kembali melalui tindakan atau guaman sivil di hadapan mana-mana mahkamah.
 
 (2) Tanpa menjejaskan subseksyen (1), mana-mana mahkamah yang di hadapannya seseorang dipertuduh atas kesalahan di bawah Akta ini boleh menaksirkan pampasan yang kena dibayar di bawah seksyen ini dan boleh membuat suatu perintah bagi pembayaran pampasan itu.
 
@@ -1174,25 +1602,53 @@ Pampasan
 
 Mana-mana perintah sedemikian boleh dikuatkuasakan seolah-olah ia adalah suatu penghakiman di dalam tindakan atau guaman sivil.
 
-Pendakwaan.
+<!-- marginal: Pendakwaan. -->
 
 42. Maka adalah kompeten bagi Ketua Pengarah atau mana-mana pegawai yang diberikuasa olehnya untuk menjalankan pendakwaan bagi apa-apa kesalahan di bawah Akta ini atau mana-mana peraturan yang dibuat di bawahnya di hadapan mana-mana mahkamah.
 
-Peng-
+<!-- marginal: Peng- -->
 
-43. (1) Ketua Pengarah atau mana-mana pegawai yang kompaunan. diberikuasa olehnya boleh mengkompaun apa-apa kesalahan di bawah seksyen 8, 37 (9), 37 (10), 37 (12), 37 (13), 37 (14), 37 (15), 45, 49 (5) atau di bawah mana- mana kaedah atau peraturan yang dibuat di bawahnya, dengan memungut sejumlah wang tidak melebihi satu ribu ringgit daripada orang yang disyaki dengan munasabahnya telah melakukan kesalahan itu.
+43. (1) Ketua Pengarah atau mana-mana pegawai yang
+
+<!-- marginal: kompaunan. -->
+
+diberikuasa olehnya boleh mengkompaun apa-apa kesalahan di bawah seksyen 8, 37 (9), 37 (10), 37 (12), 37 (13), 37 (14), 37 (15), 45, 49 (5) atau di bawah mana- mana kaedah atau peraturan yang dibuat di bawahnya, dengan memungut sejumlah wang tidak melebihi satu ribu ringgit daripada orang yang disyaki dengan munasabahnya telah melakukan kesalahan itu.
 
 (2) Menteri boleh membuat kaedah-kaedah atau peraturan-peraturan untuk menetapkan cara dan prosedur bagi mengkompaunkan kesalahan-kesalahan sedemikian.
 
-Hadiah
+<!-- marginal: Hadiah -->
 
-44. Dalam hal suatu sabitan yang melibatkan denda, untuk mahkamah yang mengenakan denda itu boleh, atas maklumat. permohonan pegawai yang menjalankan pendakwaan, mengarahkan pembayaran kepada orang yang telah memberi maklumat yang membawa kepada sabitan itu akan apa-apa bahagian denda itu tetapi tidak melebihi setengah daripada denda itu mengikut apa-apa kadar sebagaimana yang difikirkan patut oleh mahkamah.
+44. Dalam hal suatu sabitan yang melibatkan denda,
+
+<!-- marginal: untuk -->
+
+mahkamah yang mengenakan denda itu boleh, atas
+
+<!-- marginal: maklumat. -->
+
+permohonan pegawai yang menjalankan pendakwaan, mengarahkan pembayaran kepada orang yang telah memberi maklumat yang membawa kepada sabitan itu akan apa-apa bahagian denda itu tetapi tidak melebihi setengah daripada denda itu mengikut apa-apa kadar sebagaimana yang difikirkan patut oleh mahkamah.
 
 ## BAHAGIAN X
 
-AM Langkah
+AM
 
-45. (1) Pelaksanaan semua kerja berkaitan dengan awasan penjanakuasaan atau pembekalan tenaga yang boleh semasa melaksanakan menyentuh apa-apa lebuh, rel keretapi, landasan trem, kerja. sungai, terusan atau laluan air lain atau apa-apa sistem pengairan, penyaliran atau bekalan air atau apa-apa kerja telegraf, telefon, komunikasi radio, pelabuhan atau kerja awam atau persendirian lain, dan pendirian apa-apa lintasan talian bekalan, sama ada overhed atau bawah
+<!-- marginal: Langkah -->
+
+45. (1) Pelaksanaan semua kerja berkaitan dengan
+
+<!-- marginal: awasan -->
+
+penjanakuasaan atau pembekalan tenaga yang boleh
+
+<!-- marginal: semasa -->
+
+<!-- marginal: melaksanakan -->
+
+menyentuh apa-apa lebuh, rel keretapi, landasan trem,
+
+<!-- marginal: kerja. -->
+
+sungai, terusan atau laluan air lain atau apa-apa sistem pengairan, penyaliran atau bekalan air atau apa-apa kerja telegraf, telefon, komunikasi radio, pelabuhan atau kerja awam atau persendirian lain, dan pendirian apa-apa lintasan talian bekalan, sama ada overhed atau bawah
 
 <!-- page 51 -->
 
@@ -1200,9 +1656,27 @@ tanah, hendaklah dijalankan mengikut cara yang ditetapkan dan tanpa menjejaskan 
 
 (2) Mana-mana orang yang melanggar atau gagal mematuhi seksyen ini adalah melakukan suatu kesalahan di bawah Akta ini.
 
-Gangguan
+<!-- marginal: Gangguan -->
 
-46. (1) Jika Ketua Pengarah berpuas hati bahawa elektrik pengerjaan atau pengendalian apa-apa pepasangan terhadap talian menyebabkan gangguan elektrik terhadap mana-mana pengisyarat proses atau litar komunikasi radio, telekomunikasi, Kerajaan. telegraf, telefon atau proses atau litar pengisyarat elektrik lain yang dipunyai atau dikendalikan oleh atau bagi pihak Kerajaan Persekutuan atau mana-mana Kerajaan Negeri, atau mana-mana pihak berkuasa bekalan, Ketua Pengarah hendaklah meminta pemunya atau pemegang lesen memberhentikan gangguan itu, dan jika, dalam tempoh empat belas hari atau apa-apa tempoh yang lebih lama sebagaimana yang didapati munasabah oleh Ketua Pengarah mengikut apa-apa hal keadaan tertentu, gangguan itu tidak diberhentikan dengan berkesan, maka Ketua Pengarah hendaklah melaporkan perkara itu kepada Menteri yang boleh menurut budi bicaranya—
+46. (1) Jika Ketua Pengarah berpuas hati bahawa
+
+<!-- marginal: elektrik -->
+
+pengerjaan atau pengendalian apa-apa pepasangan
+
+<!-- marginal: terhadap -->
+
+<!-- marginal: talian -->
+
+menyebabkan gangguan elektrik terhadap mana-mana
+
+<!-- marginal: pengisyarat -->
+
+proses atau litar komunikasi radio, telekomunikasi,
+
+<!-- marginal: Kerajaan. -->
+
+telegraf, telefon atau proses atau litar pengisyarat elektrik lain yang dipunyai atau dikendalikan oleh atau bagi pihak Kerajaan Persekutuan atau mana-mana Kerajaan Negeri, atau mana-mana pihak berkuasa bekalan, Ketua Pengarah hendaklah meminta pemunya atau pemegang lesen memberhentikan gangguan itu, dan jika, dalam tempoh empat belas hari atau apa-apa tempoh yang lebih lama sebagaimana yang didapati munasabah oleh Ketua Pengarah mengikut apa-apa hal keadaan tertentu, gangguan itu tidak diberhentikan dengan berkesan, maka Ketua Pengarah hendaklah melaporkan perkara itu kepada Menteri yang boleh menurut budi bicaranya—
 
 (a) dalam hal pepasangan berlesen, memerintahkan penggantungan lesen;
 
@@ -1220,9 +1694,37 @@ Dengan syarat bahawa tiada tuntutan boleh dibenarkan dan tiada pampasan boleh di
 
 (3) Jika tuntutan itu dibenarkan, pampasan hendaklah, melainkan jika diselesaikan melalui persetujuan bersama di antara Kerajaan Persekutuan, Kerajaan Negeri atau pihak berkuasa bekalan, mengikut mana-mana yang berkenaan, dengan pemegang lesen, ditentukan melalui timbangtara.
 
-Langkah 47. Mana-mana jabatan Kerajaan Persekutuan atau mana- awasan mana Kerajaan Negeri atau mana-mana pengguna lain terhadap elektrik yang mengambil atau menggunakan tenaga daripada atmosfera. mana-mana pepasangan hendaklah, jika Ketua Pengarah menghendaki sedemikian, memperuntukkan apa-apa kaedah bagi menghindarkan apa-apa risiko kerosakan kepada pepasangan itu melalui elektrik atmosfera sebagaimana yang diarahkan oleh Ketua Pengarah atau sebagaimana yang ditetapkan melalui peraturan-peraturan di bawah Akta ini.
+<!-- marginal: Langkah -->
 
-Sekatan 48. (1) Tiada seorang pun boleh, semasa penjana- terhadap kuasaan, penghantaran, pembekalan atau penggunaan sambungan dengan bumi. tenaga, membenarkan mana-mana bahagian talian bekalannya disambungkan dengan bumi kecuali sebagaimana yang ditetapkan melalui peraturan-peraturan di bawah Akta ini atau dibenarkan dengan nyata oleh Ketua Pengarah.
+47. Mana-mana jabatan Kerajaan Persekutuan atau mana-
+
+<!-- marginal: awasan -->
+
+mana Kerajaan Negeri atau mana-mana pengguna lain
+
+<!-- marginal: terhadap -->
+
+<!-- marginal: elektrik -->
+
+yang mengambil atau menggunakan tenaga daripada
+
+<!-- marginal: atmosfera. -->
+
+mana-mana pepasangan hendaklah, jika Ketua Pengarah menghendaki sedemikian, memperuntukkan apa-apa kaedah bagi menghindarkan apa-apa risiko kerosakan kepada pepasangan itu melalui elektrik atmosfera sebagaimana yang diarahkan oleh Ketua Pengarah atau sebagaimana yang ditetapkan melalui peraturan-peraturan di bawah Akta ini.
+
+<!-- marginal: Sekatan -->
+
+48. (1) Tiada seorang pun boleh, semasa penjana-
+
+<!-- marginal: terhadap -->
+
+kuasaan, penghantaran, pembekalan atau penggunaan
+
+<!-- marginal: sambungan -->
+
+<!-- marginal: dengan bumi. -->
+
+tenaga, membenarkan mana-mana bahagian talian bekalannya disambungkan dengan bumi kecuali sebagaimana yang ditetapkan melalui peraturan-peraturan di bawah Akta ini atau dibenarkan dengan nyata oleh Ketua Pengarah.
 
 (2) Sekiranya berlaku pelanggaran subseksyen (1), Ketua Pengarah boleh melalui perintah bertulis menghendaki pemegang lesen atau pemunya mengalihkan
 
@@ -1230,9 +1732,33 @@ Sekatan 48. (1) Tiada seorang pun boleh, semasa penjana- terhadap kuasaan, pengh
 
 sambungan itu dan boleh melarang penggunaan mana- mana talian atau kerja bekalan atau pepasangan sehinggalah perintah itu dipatuhi, dan tiap-tiap perintah sedemikian hendaklah dipatuhi oleh orang berkenaan.
 
-Prosedur
+<!-- marginal: Prosedur -->
 
-49. (1) Sekiranya seseorang Pengarah mendapati apa- dalam hal apa kecacatan pada pepasangan atau bahagiannya yang kecacatan berbahaya pada pendapatnya berkemungkinan menyebabkan bahaya, pada dia boleh, melalui notis bertulis yang disampaikan kepada pepasangan atau pemegang lesen atau pemunya, atau jika pemegang lesen bahagiannya. atau pemunya itu tidak dapat dijumpai, ditampalkan di tempat di mana pepasangan itu terletak, menghendaki kecacatan itu dibaiki atau dihapuskan dalam apa-apa tempoh sebagaimana yang dinyatakan dalam notis itu, dan dalam hal sedemikian, pepasangan itu atau bahagiannya tidaklah boleh dikendalikan atau digunakan selepas habisnya tempoh yang dinyatakan melainkan jika kecacatan itu telah dibaiki atau dihapuskan sehingga memuaskan hati Pengarah:
+49. (1) Sekiranya seseorang Pengarah mendapati apa-
+
+<!-- marginal: dalam hal -->
+
+apa kecacatan pada pepasangan atau bahagiannya yang
+
+<!-- marginal: kecacatan -->
+
+<!-- marginal: berbahaya -->
+
+pada pendapatnya berkemungkinan menyebabkan bahaya,
+
+<!-- marginal: pada -->
+
+dia boleh, melalui notis bertulis yang disampaikan kepada
+
+<!-- marginal: pepasangan -->
+
+<!-- marginal: atau -->
+
+pemegang lesen atau pemunya, atau jika pemegang lesen
+
+<!-- marginal: bahagiannya. -->
+
+atau pemunya itu tidak dapat dijumpai, ditampalkan di tempat di mana pepasangan itu terletak, menghendaki kecacatan itu dibaiki atau dihapuskan dalam apa-apa tempoh sebagaimana yang dinyatakan dalam notis itu, dan dalam hal sedemikian, pepasangan itu atau bahagiannya tidaklah boleh dikendalikan atau digunakan selepas habisnya tempoh yang dinyatakan melainkan jika kecacatan itu telah dibaiki atau dihapuskan sehingga memuaskan hati Pengarah:
 
 Dengan syarat bahawa, jika Pengarah berpendapat bahawa kecacatan itu mungkin menyebabkan bahaya yang hampir benar berlaku, dia boleh, melalui notis yang ditampalkan atau disampaikan seperti yang disebut terdahulu, dengan serta-merta menggantungkan pengendalian dan penggunaan pepasangan itu, dan jika perlu, melakkan pepasangan itu atau bahagiannya sehingga kecacatan itu dibaiki atau dihapuskan. Pepasangan itu atau bahagiannya tidaklah boleh dikendalikan atau digunakan selagi notis penggantungan itu belum dibatalkan dan lak itu tidak dialihkan oleh seorang Pengarah.
 
@@ -1246,15 +1772,29 @@ Dengan syarat bahawa, jika Pengarah berpendapat bahawa kecacatan itu mungkin men
 
 (5) Mana-mana orang yang melanggar atau gagal mematuhi.subseksyen (1) dan (2) adalah melakukan suatu kesalahan di bawah Akta ini.
 
-Larangan
+<!-- marginal: Larangan -->
 
-50. (1) Tiada pemegang lesen atau pihak pengurusan mengambil boleh mengambil kerja atau membenarkan diambil kerja kanak-kanak bekerja. mana-mana orang di bawah umur enam belas tahun dalam mana-mana perkhidmatan yang melibatkan pengurusan atau penjagaan atau kedekatan dengan, kelengkapan hidup yang tidak ditebat dengan sempurna.
+50. (1) Tiada pemegang lesen atau pihak pengurusan
+
+<!-- marginal: mengambil -->
+
+boleh mengambil kerja atau membenarkan diambil kerja
+
+<!-- marginal: kanak-kanak -->
+
+<!-- marginal: bekerja. -->
+
+mana-mana orang di bawah umur enam belas tahun dalam mana-mana perkhidmatan yang melibatkan pengurusan atau penjagaan atau kedekatan dengan, kelengkapan hidup yang tidak ditebat dengan sempurna.
 
 (2) Mana-mana orang yang melanggar seksyen ini adalah melakukan suatu kesalahan dan boleh dikenakan, apabila disabitkan, denda tidak melebihi lima ribu ringgit.
 
-Kuasa-kuasa
+<!-- marginal: Kuasa-kuasa -->
 
-51. (1) Yangdi-PertuanAgong bolehapabilaberlakunya khas darurat. apa-apa kerusuhan perindustrian, mogok, sekat-masuk atau apa-apa kejadian lain yang membangkitkan suatu darurat, atau bagi kepentingan keselamatan awam, memberikuasa Ketua Pengarah untuk—
+51. (1) Yangdi-PertuanAgong bolehapabilaberlakunya
+
+<!-- marginal: khas darurat. -->
+
+apa-apa kerusuhan perindustrian, mogok, sekat-masuk atau apa-apa kejadian lain yang membangkitkan suatu darurat, atau bagi kepentingan keselamatan awam, memberikuasa Ketua Pengarah untuk—
 
 (a) menggantungkan lesen mana-mana pemegang lesen, mengambil milikan sementara mana-mana pepasangan pemegang lesen itu dan mengen- dalikannya mengikut cara sebagaimana yang difikirkannya patut; atau
 
@@ -1266,15 +1806,23 @@ orang atau golongan orang atau daripada orang awam pada umumnya.
 
 (2) Jika apa-apa keraguan berbangkit tentang kewujudan sesuatu darurat atau sama ada apa-apa tindakan yang dilakukan di bawah subseksyen (1) adalah bagi kepentingan keselamatan awam, maka suatu perakuan yang ditandatangani oleh Yang di-Pertuan Agong dan dipamerkan di mana-mana tempat sebagaimana yang dihkirkan wajar oleh Menteri, hendaklah menjadi bukti konklusif mengenai perkara itu.
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-52. (1) Pihak Berkuasa Negeri di mana-mana. Negeri, mengisytihar- boleh, atas permintaan Ketua Pengarah bagi pihak mana- kan sumber- sumber air. mana pemegang lesen, melalui perintah mengisytiharkan mana-mana tasik, sungai atau laluan air atau mana-mana bahagiannya sebagai sumber air bagi maksud-maksud pemegang lesen sebagaimana yang dinyatakan dalam terma dan syarat lesennya dan, apabila membuat perisytiharan itu, Pihak Berkuasa Negeri boleh mengenakan apa-apa syarat dan sekatan yang difikirkannya patut.
+52. (1) Pihak Berkuasa Negeri di mana-mana. Negeri,
+
+<!-- marginal: mengisytihar- -->
+
+boleh, atas permintaan Ketua Pengarah bagi pihak mana-
+
+<!-- marginal: kan sumber- -->
+
+<!-- marginal: sumber air. -->
+
+mana pemegang lesen, melalui perintah mengisytiharkan mana-mana tasik, sungai atau laluan air atau mana-mana bahagiannya sebagai sumber air bagi maksud-maksud pemegang lesen sebagaimana yang dinyatakan dalam terma dan syarat lesennya dan, apabila membuat perisytiharan itu, Pihak Berkuasa Negeri boleh mengenakan apa-apa syarat dan sekatan yang difikirkannya patut.
 
 (2) Walau apa pun apa-apa jua yang terkandung dalam mana-mana undang-undang bertulis, tiada seorang pun boleh mengempangkan atau selainnya mengganggu mana- mana sumber air sedemikian tanpa terlebih dahulu menyampaikan kepada pemegang lesen sama ada secara sendiri atau melalui pos berdaftar suatu notis tiga bulan, dalam apa-apa bentuk yang ditetapkan, yang menyatakan kerja yang hendak diusahakannya.
 
-(3) Pada bila-bila masa sebelum habisnya tempoh masa yang dinyatakan dalam notis itu, pemegang lesen boleh, jika dia mendapati kerja yang disebut dalam subseksyen
-
-(2) akan mengganggu secara material fungsi-fungsinya, melalui notis bertulis yang disampaikan kepada orang itu, sama ada secara sendiri atau melalui pos berdaftar—
+(3) Pada bila-bila masa sebelum habisnya tempoh masa yang dinyatakan dalam notis itu, pemegang lesen boleh, jika dia mendapati kerja yang disebut dalam subseksyen (2) akan mengganggu secara material fungsi-fungsinya, melalui notis bertulis yang disampaikan kepada orang itu, sama ada secara sendiri atau melalui pos berdaftar—
 
 (a) melarang orang itu meneruskan kerja itu; atau
 
@@ -1302,9 +1850,19 @@ adalah melakukan suatu kesalahan dan boleh dikenakan, apabila disabitkan, denda 
 
 ## KUASA UNTUK MEMBUAT PERATURAN-PERATURAN
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-53. Menteri boleh membuat peraturan-peraturan membuat berkenaan dengan mana-mana perkara yang ditetapkan di peraturan- peraturan. bawah Akta ini dan khususnya—
+53. Menteri boleh membuat peraturan-peraturan
+
+<!-- marginal: membuat -->
+
+berkenaan dengan mana-mana perkara yang ditetapkan di
+
+<!-- marginal: peraturan- -->
+
+<!-- marginal: peraturan. -->
+
+bawah Akta ini dan khususnya—
 
 (a) fungsi dan tugas mana-mana Ketua Pengarah, Pengarah atau pegawai yang dilantik di bawah seksyen 3;
 
@@ -1334,11 +1892,7 @@ Kuasa untuk
 
 (l) pendaftaran dan pengelasan kontraktor pendawaian, kontraktor tanda elektrik, pengilang papan suis dan orang-orang kompeten, dan untuk menetapkan fee bagi pendaftaran sedemikian;
 
-(m) langkah-langkah yang hendak diambil dan kelengkapan yang hendak dibekalkan dan digunakan berkaitan dengan pepasangan untuk menjaminkan keselamatan awam
-
-<!-- marginal: dan -->
-
-persendirian;
+(m) langkah-langkah yang hendak diambil dan kelengkapan yang hendak dibekalkan dan digunakan berkaitan dengan pepasangan untuk menjaminkan keselamatan awam dan persendirian;
 
 (n) langkah-langkah awasan yang hendak diambil untuk melepaskan mana-mana orang daripada mengawal apa-apa pepasangan, loji atau kelengkapan dan cara memberitahu Pengarah mengenai nama-nama dan kelayakan-kelayakan mana-mana orang yang ditempatkan untuk mengawal mana-mana pepasangan dan mengenai pengendalian mana-mana loji atau kelengkapan;
 
@@ -1350,17 +1904,15 @@ persendirian;
 
 (q) bentuk notis dan cara penyampaiannya;
 
-(r) taksiran dan kelulusan, di mana-mana perlu, apa-apa kelengkapan domestik atau kelengkapan lain yang hendak dikilangkan, diimport, dipamerkan, dijual, diiklankan, dipasang atau digunakan dan untuk menetapkan fee-fee yang kena dibayar mengenainya;
+(r) taksiran dan kelulusan, di mana-mana perlu, apa-apa kelengkapan domestik
+
+<!-- marginal: atau -->
+
+kelengkapan lain yang hendak dikilangkan, diimport, dipamerkan, dijual, diiklankan, dipasang atau digunakan dan untuk menetapkan fee-fee yang kena dibayar mengenainya;
 
 (s) peruntukan-peruntukan bagi pemegang- pemegang lesen mengenai perkara-perkara yang berkenaan dengan—
 
-(i) pemeriksaan mana-mana pepasangan atau bahagiannya;
-
-(ii) pendirian dan pemasangan lampu awam;
-
-(iii) pemotongan pembekalan tenaga; dan
-
-(iv) apa-apa perkara lain yang berkaitan dengannya;
+(i) pemeriksaan mana-mana pepasangan atau bahagiannya; (ii) pendirian dan pemasangan lampu awam; (iii) pemotongan pembekalan tenaga; dan (iv) apa-apa perkara lain yang berkaitan dengannya;
 
 (t) pengemukaan pernyataan-pernyataan kewangan dan laporan-laporan teraudit oleh pemegang lesen itu;
 
@@ -1382,7 +1934,7 @@ peruntukan-peruntukan mengenai pendapatan kembali caj-caj bagi pembekalan, penya
 
 ## PELBAGAI
 
-Pengecualian.
+<!-- marginal: Pengecualian. -->
 
 54. Menteri boleh melalui pemberitahuan dalam Warta mengecualikan daripada mana-mana atau semua peruntukan Akta ini atau mana-mana peraturan yang dibuat di bawahnya—
 
@@ -1392,9 +1944,35 @@ Pengecualian.
 
 dan boleh, melalui pemberitahuan yang seumpamanya, mengkenselkan apa-apa pengecualian yang diberitahu sedemikian.
 
-Peruntukan
+<!-- marginal: Peruntukan -->
 
-55. (1) Apa-apa lesen bagi mana-mana pepasangan peralihan persendirian atau awam yang diberikan kepada mana- dan sekatan yang dikena- mana orang di bawah mana-mana undang-undang bertulis kan pada yang dimasyhurkan sebelum Akta ini hendaklah disifatkan lesen yang dikeluarkan telah diberikan di bawah Akta ini dan hendaklah terus sah sebelum sehingga ia dibatalkan di bawah Akta ini dan peruntukan- Akta ini.
+55. (1) Apa-apa lesen bagi mana-mana pepasangan
+
+<!-- marginal: peralihan -->
+
+persendirian atau awam yang diberikan kepada mana-
+
+<!-- marginal: dan sekatan -->
+
+<!-- marginal: yang dikena- -->
+
+mana orang di bawah mana-mana undang-undang bertulis
+
+<!-- marginal: kan pada -->
+
+yang dimasyhurkan sebelum Akta ini hendaklah disifatkan
+
+<!-- marginal: lesen yang -->
+
+<!-- marginal: dikeluarkan -->
+
+telah diberikan di bawah Akta ini dan hendaklah terus sah
+
+<!-- marginal: sebelum -->
+
+sehingga ia dibatalkan di bawah Akta ini dan peruntukan-
+
+<!-- marginal: Akta ini. -->
 
 <!-- page 61 -->
 
@@ -1408,15 +1986,47 @@ peruntukan Akta ini hendaklah terpakai kepada orang itu seolah-olah dia adalah p
 
 (c) memperbesarkan mana-mana pepasangan atau kawasan bekalan yang ada; atau
 
-(d) memasang apa-apa loji atau kelengkapan baru atau menggantikan mana-mana loji atau kelengkapan yang ada bagi maksud-maksud pepasangan itu.
+(d) memasang apa-apa loji atau kelengkapan baru atau menggantikan mana-mana
+
+<!-- marginal: loji atau -->
+
+kelengkapan yang ada bagi maksud-maksud pepasangan itu.
 
 Kegagalan mematuhi subseksyen ini hendaklah menyebabkan lesen pemegang lesen dibatalkan menurut budi bicara Ketua Pengarah,
 
-Pemansuhan
+<!-- marginal: Pemansuhan -->
 
-56. (1) Akta Elektrik 1949 dan Akta Jemaah Pemeriksa Akta Elektrik Elektrik 1983 adalah dengan ini dimansuhkan. 1949 dan AJcta Jemaah Pemeriksa
+56. (1) Akta Elektrik 1949 dan Akta Jemaah Pemeriksa
 
-(2) Mana-mana peraturan yang dibuat di bawah Akta Elektrik 1983 dan kecualian Jemaah Pemeriksa Elektrik 1983 hendaklah terus berkenaan berkuatkuasa sehingga dibatalkan atau digantikan oleh dengannya. Akta 116. peraturan-peraturan yang dibuat di bawah Akta ini. Akta 277.
+<!-- marginal: Akta Elektrik -->
+
+Elektrik 1983 adalah dengan ini dimansuhkan.
+
+<!-- marginal: 1949 dan -->
+
+<!-- marginal: AJcta Jemaah -->
+
+<!-- marginal: Pemeriksa -->
+
+(2) Mana-mana peraturan yang dibuat di bawah Akta
+
+<!-- marginal: Elektrik 1983 -->
+
+<!-- marginal: dan kecualian -->
+
+Jemaah Pemeriksa Elektrik 1983 hendaklah terus
+
+<!-- marginal: berkenaan -->
+
+berkuatkuasa sehingga dibatalkan atau digantikan oleh
+
+<!-- marginal: dengannya. -->
+
+<!-- marginal: Akta 116. -->
+
+peraturan-peraturan yang dibuat di bawah Akta ini.
+
+<!-- marginal: Akta 277. -->
 
 (3) Menteri boleh, bilamasa ternyata kepadanya perlu atau suaimanfaat berbuat demikian sama ada bagi maksud menghapuskan kesulitan atau berbangkitan daripada terlulusnya Akta ini, melalui perintah membuat apa-apa ubahsuaian pada mana-mana peruntukan dalam mana- mana peraturan dalam subseksyen (2) sebagaimana yang difikirkannya patut.
 
@@ -1478,15 +2088,7 @@ Selepas mengadakan siasatan, adalah dengan ini diperintahkan seperti berikut:
 
 *(a) pemegang lesen dibenarkan memasuki tanah tersebut untuk melakukan kerja-kerja sebagaimana yang dinyatakan dalam notis yang dikeluarkan di bawah seksyen 11 (2) Akta Bekalan Elektrik 1990.
 
-*(b) Pemegang lesen dibenarkan memasuki tanah tersebut untuk melakukan kerja-kerja sebagaimana yang dinyatakan dalam notis yang dikeluarkan di bawah seksyen 11 (2) Akta Bekalan Elektrik 1990 tertakluk kepada syarat-syarat yang berikut:
-
-(i)
-
-(ii)
-
-(iii)
-
-(iv) (nyatakan syarat-syarat)
+*(b) Pemegang lesen dibenarkan memasuki tanah tersebut untuk melakukan kerja-kerja sebagaimana yang dinyatakan dalam notis yang dikeluarkan di bawah seksyen 11 (2) Akta Bekalan Elektrik 1990 tertakluk kepada syarat-syarat yang berikut: (i) (ii) (iii) (iv) (nyatakan syarat-syarat)
 
 <!-- page 64 -->
 

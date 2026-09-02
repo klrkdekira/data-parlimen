@@ -1,0 +1,3243 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-5-2021",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_44",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_45",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_46",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_47",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_48",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_49",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_50",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_51",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_52",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_53",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_54",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_55",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_56",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_57",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_58",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_59",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_60",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_61",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_62",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_63",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_64",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_65",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_66",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_67",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_68",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_69",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_70",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_71",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_72",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_73",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_74",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_75"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Pemuliharaan Hidupan Liar (Pindaan) 2021"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 28 Akta ibu dipinda dengan menggantikan perkataan “atau pameran hidupan liar” di mana-mana jua terdapat dengan perkataan “, pameran hidupan liar, kemudahan rehabilitasi hidupan liar, kemudahan latihan hidupan liar atau kemudahan penginapan hidupan liar”. Penggantian seksyen 29"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 29 dengan seksyen yang berikut: “Larangan memiliki, dsb., jerat 29. (1) Tiada seorang pun boleh memiliki, menyimpan, memasang, meletakkan atau menggunakan mana-mana jerat kecuali bagi maksud menjalankan penyelidikan atau kajian ke atas mana-mana hidupan liar. (2) Mana-mana orang yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak kurang daripada lima puluh ribu ringgit dan tidak lebih daripada satu ratus ribu ringgit dan dipenjarakan selama tempoh tidak melebihi sepuluh tahun.”. Pemotongan seksyen 30"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 30. Pindaan seksyen 34"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 34 Akta ibu dipinda dengan menggantikan perkataan “atau pameran hidupan liar” dengan perkataan “, pameran hidupan liar, kemudahan rehabilitasi hidupan liar, kemudahan latihan hidupan liar, kemudahan penginapan hidupan liar atau pemegang permit untuk menjalankan perkhidmatan kawalan hidupan liar”. Pindaan seksyen 36"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_14__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_14__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 36 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan memasukkan selepas perkataan “Pemburu berlesen” perkataan “atau pemegang permit khas untuk memburu”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan memasukkan selepas perkataan “pemegang permit khas” perkataan “untuk memburu”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_14__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_14__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_14__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_14__para_c__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_14__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_14__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “pemburu berlesen” perkataan “atau pemegang permit khas untuk memburu”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_14__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_14__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “sepuluh ribu ringgit” dengan perkataan “lima puluh ribu ringgit; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_14__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_14__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “enam bulan” dengan perkataan “tiga tahun”. Pindaan seksyen 37"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_15__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_15__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 37 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan memasukkan selepas perkataan “Peniaga berlesen” perkataan “, dsb.,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_15__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_15__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_15__para_b__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_15__para_b__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_15__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_15__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “peniaga berlesen” perkataan “, pemegang permit khas untuk menjalankan urusan berniaga atau pembiak baka dalam kurungan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_15__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_15__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (d), dengan memotong perkataan “dan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_15__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_15__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (e), dengan menggantikan noktah di hujung perenggan dengan perkataan “; dan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_15__para_b__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_15__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (e) perenggan yang berikut: “(f) rekod kelahiran, kematian dan kehilangan hidupan liar yang dibiakbaka dalam kurungan komersial.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_15__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_15__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_15__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_15__para_c__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_15__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_15__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “peniaga berlesen” perkataan “, pemegang permit khas untuk menjalankan urusan berniaga atau pembiak baka dalam kurungan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_15__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_15__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “sepuluh ribu ringgit” dengan perkataan “lima puluh ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_15__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_15__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “enam bulan” dengan perkataan “tiga tahun”. Pemotongan seksyen 38 dan 39"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 38 dan 39. Pindaan seksyen 40"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_17__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_17__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_17__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 40 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_17__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan nota bahu dengan nota bahu yang berikut: “Penjualan hidupan liar oleh pemburu berlesen atau pemegang permit khas untuk memburu”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_17__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_17__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_17__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_17__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_17__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “pemburu berlesen” perkataan “atau pemegang permit khas untuk memburu”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_17__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_17__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “hidupan liar yang dilindungi” dengan perkataan “mana-mana hidupan liar”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_17__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_17__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “atau ahli taksidermi berlesen” dengan perkataan “, pemegang permit khas untuk menjalankan urusan berniaga, pembiak baka dalam kurungan atau pemegang permit untuk mengendalikan zoo”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_17__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_17__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_17__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_17__para_c__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_17__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_17__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “pemburu berlesen” perkataan “atau pemegang permit khas untuk memburu”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_17__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_17__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “dua puluh ribu ringgit” dengan perkataan “lima puluh ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_17__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_17__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “satu tahun” dengan perkataan “tiga tahun”. Pindaan seksyen 41"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_18__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 41 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan memotong perkataan “atau ahli taksidermi berlesen”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_18__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_18__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_18__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_18__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “dua puluh ribu ringgit” dengan perkataan “lima puluh ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_18__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_18__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “satu tahun” dengan perkataan “tiga tahun”. Pindaan seksyen 42"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_19__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_19__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_19__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_19__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_19__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 42 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan nota bahu dengan nota bahu yang berikut: “Pembelian hidupan liar oleh peniaga berlesen atau pembiak baka dalam kurungan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_19__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “(1) Seorang peniaga berlesen atau pembiak baka dalam kurungan hendaklah membeli atau memperoleh mana-mana hidupan liar yang dilindungi, atau mana-mana bahagian atau terbitan mana-mana hidupan liar yang dilindungi atau hidupan liar yang dikawal, hanya daripada— (a) pemburu berlesen, pemegang permit khas untuk memburu, peniaga berlesen atau pembiak baka dalam kurungan; atau (b) Ketua Pengarah, Pengarah atau mana-mana pegawai yang diberi kuasa oleh Ketua Pengarah, jika ia dijual oleh Ketua Pengarah, Pengarah atau pegawai yang diberi kuasa oleh Ketua Pengarah itu menurut Akta ini.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_19__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: “(1a) Seorang pemegang permit khas untuk menjalankan urusan berniaga atau pembiak baka dalam kurungan hendaklah membeli atau memperoleh mana-mana hidupan liar yang dilindungi sepenuhnya atau mana-mana bahagian atau terbitan mana-mana hidupan liar yang dilindungi sepenuhnya hanya daripada— (a) pemegang permit khas untuk memburu, pemegang permit khas untuk menjalankan urusan berniaga atau pembiak baka dalam kurungan; atau (b) Ketua Pengarah, Pengarah atau mana-mana pegawai yang diberi kuasa oleh Ketua Pengarah, jika ia dijual oleh Ketua Pengarah, Pengarah atau pegawai yang diberi kuasa oleh Ketua Pengarah itu menurut Akta ini.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_19__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_19__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_19__para_d__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_19__para_d__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_19__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_19__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “ahli taksidermi berlesen” dengan perkataan “pembiak baka dalam kurungan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_19__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_19__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “dua puluh ribu ringgit” dengan perkataan “lima puluh ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_19__para_d__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_19__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “satu tahun” dengan perkataan “tiga tahun”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_19__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(3) Mana-mana pemegang permit khas untuk menjalankan urusan berniaga atau pembiak baka dalam kurungan yang melanggar subseksyen (1a) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.”. Pindaan seksyen 43"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Pemuliharaan Hidupan Liar (Pindaan) 2021."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta dan Menteri boleh menetapkan tarikh yang berlainan bagi permulaan kuat kuasa peruntukan yang berlainan Akta ini. Pindaan seksyen 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_2__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_2__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_2__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_2__para_k"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Pemuliharaan Hidupan Liar 2010 [Akta 716], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 3—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_20__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_20__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_20__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_20__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 43 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_20__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan memasukkan selepas perkataan “peniaga berlesen” perkataan “atau pemegang permit khas untuk menjalankan urusan berniaga”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_20__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: “(1a) Seorang pemegang permit khas untuk menjalankan urusan berniaga boleh menjual mana-mana hidupan liar yang dilindungi sepenuhnya semasa musim terbuka sehingga tiga puluh hari yang pertama dalam musim tutup dan selepas itu tidak boleh menjual mana-mana hidupan liar yang dilindungi sepenuhnya melainkan jika musim terbuka kemudiannya diisytiharkan bagi hidupan liar yang dilindungi sepenuhnya itu.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_20__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_20__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_20__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_20__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_20__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “dua puluh ribu ringgit” dengan perkataan “lima puluh ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_20__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_20__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “satu tahun” dengan perkataan “tiga tahun”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_20__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(3) Mana-mana pemegang permit khas untuk menjalankan urusan berniaga yang melanggar subseksyen (1a) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya. (4) Seksyen ini tidak terpakai kepada penjualan mana-mana anak mana-mana hidupan liar daripada pembiakbakaan dalam kurungan komersial atau mana-mana bahagian atau terbitan mana-mana anak mana-mana hidupan liar daripada pembiakbakaan dalam kurungan komersial.”. Pindaan seksyen 44"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_21__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_21__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 44 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_21__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “ahli taksidermi berlesen” dengan perkataan “pemegang permit khas untuk menjalankan urusan berniaga, pembiak baka dalam kurungan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_21__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_21__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_21__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_21__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_21__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_21__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “ahli taksidermi berlesen” dengan perkataan “pemegang permit khas untuk menjalankan urusan berniaga, pembiak baka dalam kurungan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_21__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_21__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “sepuluh ribu ringgit” dengan perkataan “lima puluh ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_21__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_21__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “enam bulan” dengan perkataan “tiga tahun”. Pindaan seksyen 45"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_22__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_22__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_22__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_22__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 45 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_22__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_22__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_22__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_22__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_22__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_22__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “mengeksport semula” perkataan “mana-mana hidupan liar atau bahagian atau terbitan mana-mana hidupan liar”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_22__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_22__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “hidupan liar itu” perkataan “atau bahagian atau terbitan hidupan liar, dengan nombor penandaan yang berbeza”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_22__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_22__para_a__subpara_iii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_22__para_a__subpara_iii__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_22__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (d)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_22__para_a__subpara_iii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_22__para_a__subpara_iii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “bekas” perkataan “atau kepungan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_22__para_a__subpara_iii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_22__para_a__subpara_iii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “hidupan liar” perkataan “atau bahagian atau terbitan hidupan liar”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_22__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan memotong perkataan “atau pelabelan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_22__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(2a) Pemegang lesen, permit atau permit khas tidak boleh mengubah atau menggantikan tanda atau label tanpa terlebih dahulu mendapatkan kebenaran pegawai pelesen.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_22__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_22__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_22__para_d__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_22__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_22__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “dua puluh ribu ringgit” dengan perkataan “lima puluh ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_22__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_22__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “satu tahun” dengan perkataan “tiga tahun”. Pindaan seksyen 46"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_23__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_23__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 46(2) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_23__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “dua puluh ribu ringgit” dengan perkataan “lima puluh ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_23__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “satu tahun” dengan perkataan “tiga tahun”. Pindaan seksyen 48"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 48 Akta ibu dipinda dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(2a) Suatu permohonan bertulis di bawah subseksyen (2) hendaklah dibuat melalui apa-apa cara sebagaimana yang ditentukan oleh Ketua Pengarah dan hendaklah disertakan dengan fi yang ditetapkan.”. Penggantian seksyen 49"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 49 dengan seksyen yang berikut: “Larangan perbuatan tertentu dalam rizab hidupan liar dan kawasan perlindungan hidupan liar 49. (1) Tiada seorang pun boleh dalam rizab hidupan liar dan kawasan perlindungan hidupan liar— (a) memburu mana-mana hidupan liar, haiwan atau burung; (b) mengambil, mengganggu, merosakkan atau memusnahkan sarang atau telur mana-mana hidupan liar, haiwan atau burung; atau (c) mengganggu, memotong, mengalihkan atau mengambil apa-apa tanih, pokok kayu atau tumbuh-tumbuhan. (2) Walau apapun subseksyen (1), seorang pemegang permit untuk menjalankan penyelidikan atau kajian dalam rizab hidupan liar atau kawasan perlindungan hidupan liar atau mana-mana orang yang diberi suatu kebenaran bertulis di bawah seksyen 48 untuk memasuki suatu rizab hidupan liar atau kawasan perlindungan hidupan liar bagi maksud sains boleh, dengan terlebih dahulu mendapatkan kelulusan Ketua Pengarah, memburu mana-mana hidupan liar, haiwan atau burung, atau mengambil atau mengganggu sarang atau telur mana-mana hidupan liar, haiwan atau burung, atau mengambil apa-apa sampel dalam bentuk lain, di dalam rizab hidupan liar atau kawasan perlindungan hidupan liar bagi maksud penyelidikan, kajian atau sains. (3) Mana-mana orang yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu juta ringgit atau dipenjarakan selama tempoh tidak melebihi sepuluh tahun atau kedua-duanya.”. Pindaan seksyen 50"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_26__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_26__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 50(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_26__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “mengeksport,” perkataan “mengeksport semula, menjalankan penyelidikan ke atas,”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_26__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “hidupan liar” perkataan “atau mana-mana bahagian atau terbitan mana-mana hidupan liar”. Pindaan seksyen 51"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_27__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_27__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 51(3) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_27__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “sepuluh ribu ringgit” dengan perkataan “lima puluh ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_27__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “enam bulan” dengan perkataan “tiga tahun”. Pindaan seksyen 53"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_28__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_28__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 53(5) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_28__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “sepuluh ribu ringgit” dengan perkataan “lima puluh ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_28__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “enam bulan” dengan perkataan “tiga tahun”. Pindaan seksyen 54"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_29__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_29__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 54(4) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_29__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “sepuluh ribu ringgit” dengan perkataan “lima puluh ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_29__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “enam bulan” dengan perkataan “tiga tahun”. Pindaan seksyen 55"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong takrif “ahli taksidermi berlesen”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan takrif “eksport” dengan takrif yang berikut: ‘ “eksport” ertinya membawa atau menyebabkan supaya dibawa keluar dari Semenanjung Malaysia atau Wilayah Persekutuan Labuan, melalui darat, laut atau udara, mana-mana hidupan liar atau mana-mana bahagian atau terbitan mana-mana hidupan liar;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “hidupan liar”, dengan menggantikan perkataan “atau yang dilindungi” dengan perkataan “, yang dilindungi atau yang dikawal”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “hidupan liar” takrif yang berikut: ‘ “hidupan liar yang dikawal” ertinya mana-mana hidupan liar yang dinyatakan dalam Jadual Kelima;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan takrif “import” dengan takrif yang berikut: ‘ “import” ertinya membawa atau menyebabkan supaya dibawa ke dalam Semenanjung Malaysia atau Wilayah Persekutuan Labuan, melalui darat, laut atau udara, mana-mana hidupan liar atau mana-mana bahagian atau terbitan mana-mana hidupan liar;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “orang asli” takrif yang berikut: ‘ “pameran hidupan liar” ertinya suatu aktiviti buat sementara yang mempamerkan hidupan liar dan dibuka kepada umum;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “pegawai penguat kuasa” takrif yang berikut: ‘ “pembiak baka dalam kurungan” ertinya seseorang yang diberi suatu permit untuk mengendalikan pembiakbakaan dalam kurungan komersial di bawah Akta ini;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan takrif “pembiakbakaan dalam kurungan komersial” dengan takrif yang berikut: ‘ “pembiakbakaan dalam kurungan komersial” ertinya suatu proses pembiakan hidupan liar dalam kurungan melalui induk yang mengawan, atau melalui apa-apa kaedah persenyawaan, dalam suatu persekitaran terkawal bagi maksud komersial;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_2__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong takrif “perniagaan taksidermi”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_2__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong takrif “spesies yang dikawal”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_2__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan takrif “urusan berniaga” dengan takrif yang berikut: ‘ “urusan berniaga” ertinya suatu perniagaan yang melibatkan penjalanan aktiviti yang berikut: (a) menjual atau membeli untuk dijual semula mana-mana hidupan liar yang dilindungi atau hidupan liar yang dilindungi sepenuhnya, atau mana-mana bahagian atau terbitan mana-mana hidupan liar yang dilindungi, hidupan liar yang dilindungi sepenuhnya atau hidupan liar yang dikawal, sebagai makanan atau bagi maksud perubatan; (b) menjual atau membeli untuk dijual semula mana-mana bahagian atau terbitan mana-mana hidupan liar yang dilindungi, hidupan liar yang dilindungi sepenuhnya atau hidupan liar yang dikawal; (c) menjual atau membeli untuk dijual semula mana-mana hidupan liar yang dilindungi atau hidupan liar yang dilindungi sepenuhnya sebagai binatang peliharaan; atau (d) menjual atau membeli untuk dijual semula mana-mana anak mana-mana hidupan liar yang dilindungi atau hidupan liar yang dilindungi sepenuhnya daripada hasil pembiakbakaan dalam kurungan komersial termasuklah mana-mana bahagian atau terbitan anak itu.’. Pindaan seksyen 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 9 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_30__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_30__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 55(4) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_30__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “sepuluh ribu ringgit” dengan perkataan “lima puluh ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_30__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “enam bulan” dengan perkataan “tiga tahun”. Pindaan seksyen 60"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_31__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_31__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 60 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_31__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “dua tahun” dengan perkataan “tiga tahun”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_31__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (2) dengan subseksyen yang berikut: “(2) Mana-mana orang yang melakukan suatu kesalahan di bawah subseksyen (1) dan kesalahan itu melibatkan mana-mana hidupan liar yang dilindungi daripada spesies yang sama yang dinyatakan dalam Jadual Kelapan, melebihi lima kepala, hendaklah, apabila disabitkan, dihukum dengan denda tidak kurang daripada lima puluh ribu ringgit atau dengan pemenjaraan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.”. Seksyen baharu 60a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 60 seksyen yang berikut: “Mengambil atau menyimpan bahagian atau terbitan hidupan liar yang dikawal tanpa lesen 60a. Mana-mana orang yang mengambil atau menyimpan mana-mana bahagian atau terbitan mana-mana hidupan liar yang dikawal tanpa suatu lesen melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.”. Pindaan seksyen 61"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_33__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_33__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 61 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_33__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “tidak melebihi satu ratus ribu ringgit” dengan perkataan “tidak kurang daripada dua puluh ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_33__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “lima tahun” dengan perkataan “tujuh tahun”. Pindaan seksyen 62"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_34__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_34__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 62 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_34__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_34",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “tidak melebihi satu ratus ribu ringgit” dengan perkataan “tidak kurang daripada dua puluh ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_34__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_34",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “lima tahun” dengan perkataan “tujuh tahun”. Penggantian seksyen 63"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 63 dengan seksyen yang berikut: “Menjalankan urusan berniaga tanpa lesen 63. Mana-mana orang yang menjalankan urusan berniaga yang melibatkan mana-mana hidupan liar yang dilindungi, atau mana-mana bahagian atau terbitan mana-mana hidupan liar yang dilindungi atau hidupan liar yang dikawal, tanpa suatu lesen melakukan suatu kesalahan dan boleh, apabila disabitkan— (a) jika orang itu ialah orang perseorangan, didenda tidak kurang daripada tiga puluh ribu ringgit dan tidak lebih daripada satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya; atau (b) jika orang itu ialah suatu pertubuhan perbadanan, didenda tidak kurang daripada lima puluh ribu ringgit dan tidak lebih daripada satu ratus ribu ringgit.”. Pindaan seksyen 64"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_36__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_36__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 64 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_36__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_36",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “didenda tidak kurang daripada dua puluh ribu ringgit dan tidak lebih daripada lima puluh ribu ringgit” dengan perkataan “didenda tidak melebihi lima puluh ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_36__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_36",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “dua tahun” dengan perkataan “tiga tahun”. Pindaan seksyen 65"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_37__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_37__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_37__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_37__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 65 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_37__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_37",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan memasukkan selepas perkataan “hidupan liar yang dilindungi” perkataan “atau hidupan liar yang dikawal”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_37__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_37",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “mana-mana bahagian atau terbitan hidupan liar yang dilindungi” perkataan “atau hidupan liar yang dikawal”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_37__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_37",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “didenda tidak kurang daripada dua puluh ribu ringgit dan tidak lebih daripada lima puluh ribu ringgit” dengan perkataan “didenda tidak kurang daripada lima puluh ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_37__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_37",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “satu tahun” dengan perkataan “lima belas tahun”. Penggantian seksyen 66"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 66 dengan seksyen yang berikut: “Mengendalikan zoo, dsb., tanpa permit 66. Mana-mana orang yang mengendalikan— (a) zoo tanpa suatu permit melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak kurang daripada lima puluh ribu ringgit dan tidak lebih daripada satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya; (b) pameran hidupan liar, pembiakbakaan dalam kurungan komersial atau kemudahan rehabilitasi hidupan liar tanpa suatu permit melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya; atau (c) kemudahan latihan hidupan liar atau kemudahan penginapan hidupan liar tanpa suatu permit melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.”. Pindaan seksyen 67"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_39__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_39__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 67 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_39__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_39",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “yang dilindungi”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_39__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_39",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “dua tahun” dengan perkataan “tiga tahun”. Pindaan seksyen 68"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_3__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_3__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_3__para_a__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_3__para_a__subpara_iv",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_3__para_a__subpara_v"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_3__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_3__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan memasukkan selepas perkataan “hidupan liar yang dilindungi” perkataan “atau hidupan liar yang dikawal”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_3__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_3__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (d) dengan perenggan yang berikut: “(d) menjalankan urusan berniaga yang melibatkan mana-mana hidupan liar yang dilindungi atau mana-mana bahagian atau terbitan mana-mana hidupan liar yang dilindungi”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_3__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_3__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perenggan (e);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_3__para_a__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_3__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (f), dengan menggantikan perkataan “terbitan mana-mana hidupan liar yang dilindungi,” dengan perkataan “terbitan mana-mana hidupan liar yang dilindungi atau hidupan liar yang dikawal;”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_3__para_a__subpara_v",
+      "@type": "akn:subparagraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_3__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (f) perenggan yang berikut: “(g) menjalankan urusan berniaga yang melibatkan mana-mana bahagian atau terbitan mana-mana hidupan liar yang dikawal,”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan memotong perkataan “atau perniagaan taksidermi”. Pindaan seksyen 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 10 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_40__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_40__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 68 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_40__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_40",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “tidak melebihi satu ratus ribu ringgit” dengan perkataan “tidak kurang daripada lima puluh ribu ringgit dan tidak lebih daripada lima ratus ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_40__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_40__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_40__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_40__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_40",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_40__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_40__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (a) dengan perenggan yang berikut: “(a) mana-mana hidupan liar yang dilindungi sepenuhnya yang dinyatakan dalam Jadual Kesembilan atau mana-mana bahagian atau terbitan hidupan liar itu, hendaklah, apabila disabitkan, dihukum denda tidak kurang daripada tiga puluh ribu ringgit bagi setiap hidupan liar atau bahagian atau terbitan hidupan liar itu dan dipenjarakan selama tempoh tidak melebihi lima belas tahun;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_40__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_40__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perenggan (b); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_40__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_40__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (c) dengan perenggan yang berikut: “(c) mana-mana hidupan liar yang dilindungi sepenuhnya yang dinyatakan dalam Jadual Kesepuluh atau mana-mana bahagian atau terbitan hidupan liar itu hendaklah, apabila disabitkan, dihukum denda tidak kurang daripada satu ratus lima puluh ribu ringgit bagi setiap hidupan liar atau bahagian atau terbitan hidupan liar itu dan dipenjarakan selama tempoh tidak melebihi lima belas tahun.”. Pindaan seksyen 69"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_41__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_41__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 69 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_41__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_41__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_41__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_41",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_41__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_41__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “tidak melebihi dua ratus ribu ringgit” dengan perkataan “tidak kurang daripada dua puluh ribu ringgit bagi setiap hidupan liar yang dilindungi sepenuhnya yang tidak matang”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_41__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_41__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “sepuluh tahun” dengan perkataan “lima belas tahun”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_41__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_41__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_41__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_41",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_41__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_41__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “satu ratus lima puluh ribu ringgit dan tidak lebih daripada lima ratus ribu ringgit” dengan perkataan “dua ratus ribu ringgit bagi setiap hidupan liar”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_41__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_41__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “lima tahun” dengan perkataan “lima belas tahun”. Pindaan seksyen 70"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_42__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_42__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 70 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_42__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_42",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “tidak melebihi tiga ratus ribu ringgit” dengan perkataan “dua puluh ribu ringgit bagi setiap hidupan liar betina yang dilindungi sepenuhnya tetapi denda itu tidak boleh melebihi lima ratus ribu ringgit pada agregatnya”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_42__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_42__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_42__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_42",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_42__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_42__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “dua ratus ribu ringgit dan tidak lebih daripada lima ratus ribu ringgit” dengan perkataan “dua ratus lima puluh ribu ringgit bagi setiap hidupan liar”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_42__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_42__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “lima tahun” dengan perkataan “lima belas tahun”. Pindaan seksyen 71"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_43__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_43__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 71 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_43__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_43",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “didenda tidak kurang daripada tiga puluh ribu ringgit dan tidak lebih daripada satu ratus ribu ringgit” dengan perkataan “didenda dua puluh ribu ringgit bagi setiap hidupan liar yang dilindungi sepenuhnya atau bahagian atau terbitan hidupan liar yang dilindungi sepenuhnya tetapi denda itu tidak boleh melebihi satu juta ringgit pada agregatnya”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_43__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_43",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “tiga tahun” dengan perkataan “lima belas tahun”. Pemotongan seksyen 72 dan 73"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 72 dan 73. Seksyen baharu 73a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_45",
+      "@type": "akn:clause",
+      "eli:number": "45",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 73 seksyen yang berikut: “Menjalankan urusan berniaga tanpa permit khas 73a. Mana-mana orang yang menjalankan urusan berniaga yang melibatkan mana-mana hidupan liar yang dilindungi sepenuhnya atau mana-mana bahagian atau terbitan mana-mana hidupan liar yang dilindungi sepenuhnya tanpa suatu permit khas melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.”. Pindaan seksyen 74"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_46",
+      "@type": "akn:clause",
+      "eli:number": "46",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_46__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_46__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 74 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_46__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_46",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “dua puluh ribu ringgit” dengan perkataan “lima puluh ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_46__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_46",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “satu tahun” dengan perkataan “tiga tahun”. Pindaan seksyen 75"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_47",
+      "@type": "akn:clause",
+      "eli:number": "47",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 75 Akta ibu dipinda dengan menggantikan perkataan “dua tahun” dengan perkataan “tiga tahun”. Pemotongan seksyen 76"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_48",
+      "@type": "akn:clause",
+      "eli:number": "48",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 76. Pindaan seksyen 77"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_49",
+      "@type": "akn:clause",
+      "eli:number": "49",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_49__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_49__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 77 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_49__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_49",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “tiga puluh ribu ringgit” dengan perkataan “lima puluh ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_49__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_49",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “satu tahun” dengan perkataan “tiga tahun”. Pindaan seksyen 78"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_4__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_4__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_4__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_4__para_a__subpara_i__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_4__para_a__subpara_i__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_4__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (d)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_4__para_a__subpara_i__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_4__para_a__subpara_i",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “yang dilindungi”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_4__para_a__subpara_i__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_4__para_a__subpara_i",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan koma di hujung perenggan dengan koma bernoktah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_4__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_4__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (d) perenggan yang berikut: “(e) menjalankan penyelidikan atau kajian dalam rizab hidupan liar atau kawasan perlindungan hidupan liar; (f) mengendalikan kemudahan rehabilitasi hidupan liar; (g) mengendalikan kemudahan latihan hidupan liar; (h) mengendalikan kemudahan penginapan hidupan liar; (i) menjalankan pertandingan hidupan liar; (j) menjalankan perkhidmatan kawalan hidupan liar; atau (k) menggunakan mana-mana hidupan liar dalam menjalankan apa-apa aktiviti keagamaan, adat atau kebudayaan,”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (2) dengan subseksyen yang berikut: “(2) Jika apa-apa aktiviti di bawah perenggan 1(a), (b), (c) atau (f) melibatkan mana-mana hidupan liar yang dilindungi atau hidupan liar yang dilindungi sepenuhnya, orang itu hendaklah memperoleh suatu lesen untuk menyimpan mana-mana hidupan liar yang dilindungi menurut seksyen 9 atau suatu permit khas untuk menyimpan mana-mana hidupan liar yang dilindungi sepenuhnya menurut seksyen 11, mengikut mana-mana yang berkenaan.”. Pindaan seksyen 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_5__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 11 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_50",
+      "@type": "akn:clause",
+      "eli:number": "50",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_50__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_50__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 78 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_50__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_50",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “dua puluh ribu ringgit” dengan perkataan “satu ratus ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_50__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_50",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “satu tahun” dengan perkataan “tiga tahun”. Pindaan seksyen 79"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_51",
+      "@type": "akn:clause",
+      "eli:number": "51",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_51__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_51__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 79(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_51__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_51",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “tidak melebihi lima puluh ribu ringgit” dengan perkataan “tidak kurang daripada dua puluh ribu ringgit dan tidak lebih daripada satu ratus ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_51__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_51",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “dua tahun” dengan perkataan “tiga tahun”. Pindaan seksyen 80"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_52",
+      "@type": "akn:clause",
+      "eli:number": "52",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_52__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_52__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 80 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_52__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_52",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “dua puluh ribu ringgit” dengan perkataan “lima puluh ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_52__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_52",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “satu tahun” dengan perkataan “tiga tahun”. Pindaan seksyen 81"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_53",
+      "@type": "akn:clause",
+      "eli:number": "53",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_53__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_53__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 81 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_53__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_53",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “tidak melebihi lima puluh ribu ringgit” dengan perkataan “tidak kurang daripada dua puluh ribu ringgit dan tidak lebih daripada satu ratus ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_53__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_53",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “dua tahun” dengan perkataan “tiga tahun”. Pindaan seksyen 82"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_54",
+      "@type": "akn:clause",
+      "eli:number": "54",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_54__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_54__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 82 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_54__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_54",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “tiga puluh ribu ringgit” dengan perkataan “lima puluh ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_54__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_54",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “satu tahun” dengan perkataan “tiga tahun”. Pindaan seksyen 83"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_55",
+      "@type": "akn:clause",
+      "eli:number": "55",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_55__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_55__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 83 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_55__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_55",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “dua puluh ribu ringgit” dengan perkataan “lima puluh ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_55__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_55",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “satu tahun” dengan perkataan “tiga tahun”. Pindaan seksyen 84"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_56",
+      "@type": "akn:clause",
+      "eli:number": "56",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_56__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_56__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 84 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_56__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_56",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “dua puluh ribu ringgit” dengan perkataan “lima puluh ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_56__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_56",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “satu tahun” dengan perkataan “tiga tahun”. Pindaan seksyen 85"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_57",
+      "@type": "akn:clause",
+      "eli:number": "57",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_57__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_57__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 85(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_57__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_57",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “tidak melebihi lima puluh ribu ringgit” dengan perkataan “tidak kurang daripada dua puluh ribu ringgit dan tidak lebih daripada satu ratus ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_57__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_57",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “dua tahun” dengan perkataan “tiga tahun”. Pindaan seksyen 86"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_58",
+      "@type": "akn:clause",
+      "eli:number": "58",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_58__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_58__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_58__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 86(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_58__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_58",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “lima ribu ringgit” dengan perkataan “lima puluh ribu ringgit”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_58__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_58",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “lima puluh ribu ringgit” dengan perkataan “satu ratus ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_58__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_58",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “satu tahun” dengan perkataan “tiga tahun”. Penggantian seksyen 87"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_59",
+      "@type": "akn:clause",
+      "eli:number": "59",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 87 dengan seksyen yang berikut: “Benda yang mengandungi bahagian atau terbitan hidupan liar 87. Mana-mana orang yang menjual atau mempromosi untuk menjual apa-apa benda yang didakwa mengandungi apa-apa bahagian atau terbitan mana-mana hidupan liar yang pada hakikatnya tidak ada bahagian atau terbitan itu melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.”. Pindaan seksyen 88"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula peruntukan yang sedia ada sebagai subseksyen (1);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_5__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_5__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_5__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1) sebagaimana yang dinomborkan semula—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_5__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_5__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perenggan (d);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_5__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_5__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perenggan (e); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_5__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_5__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (e) sebagaimana yang dipotong perenggan yang berikut: “(f) menjalankan urusan berniaga yang melibatkan mana-mana hidupan liar yang dilindungi sepenuhnya atau mana-mana bahagian atau terbitan mana-mana hidupan liar yang dilindungi sepenuhnya,”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) sebagaimana yang dinomborkan semula subseksyen yang berikut: “(2) Bagi maksud perenggan (1)(f), suatu permit khas yang berasingan adalah diperlukan bagi setiap aktiviti perniagaan.”. Pindaan seksyen 17"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 17 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_60",
+      "@type": "akn:clause",
+      "eli:number": "60",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_60__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_60__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 88 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_60__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_60",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “tiga puluh ribu ringgit” dengan perkataan “lima puluh ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_60__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_60",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “satu tahun” dengan perkataan “tiga tahun”. Seksyen baharu 88a dan 88b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_61",
+      "@type": "akn:clause",
+      "eli:number": "61",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 88 seksyen yang berikut: “Menganjurkan pertunjukan hidupan liar 88a. (1) Tiada seorang pun boleh menganjurkan pertunjukan hidupan liar melainkan jika dia pemegang permit untuk mengendalikan zoo. (2) Mana-mana orang yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya. (3) Bagi maksud seksyen ini, “pertunjukan hidupan liar” ertinya suatu aktiviti yang berasaskan perlakuan semula jadi hidupan liar yang melibatkan persembahan hidupan liar di suatu tapak khas atau pentas di dalam premis zoo dan dikendalikan oleh jurulatih hidupan liar. Promosi hidupan liar 88b. (1) Tiada seorang pun boleh mempromosi mana-mana hidupan liar atau mana-mana bahagian atau terbitan mana-mana hidupan liar bagi urusan berniaga melainkan jika dia peniaga berlesen atau pemegang permit khas untuk menjalankan urusan berniaga. (2) Mana-mana orang yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan— (a) jika orang itu ialah orang perseorangan, didenda tidak kurang daripada lima puluh ribu ringgit dan tidak lebih daripada satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya; atau (b) jika orang itu ialah suatu pertubuhan perbadanan, didenda tidak kurang daripada lapan puluh ribu ringgit dan tidak lebih daripada satu ratus lima puluh ribu ringgit.”. Pindaan seksyen 101"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_62",
+      "@type": "akn:clause",
+      "eli:number": "62",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_62__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_62__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 101(4) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_62__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_62",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “tiga puluh ribu ringgit” dengan perkataan “lima puluh ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_62__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_62",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “satu tahun” dengan perkataan “tiga tahun”. Pindaan seksyen 114"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_63",
+      "@type": "akn:clause",
+      "eli:number": "63",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_63__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_63__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 114 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_63__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_63",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “tiga puluh ribu ringgit” dengan perkataan “lima puluh ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_63__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_63",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “satu tahun” dengan perkataan “tiga tahun”. Pindaan seksyen 115"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_64",
+      "@type": "akn:clause",
+      "eli:number": "64",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_64__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_64__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 115(2) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_64__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_64",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “tiga puluh ribu ringgit” dengan perkataan “lima puluh ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_64__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_64",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “satu tahun” dengan perkataan “tiga tahun”. Pindaan seksyen 117"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_65",
+      "@type": "akn:clause",
+      "eli:number": "65",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_65__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_65__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_65__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 117 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_65__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_65",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan menggantikan perkataan “Spesies” dengan perkataan “Hidupan liar”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_65__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_65__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_65__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_65__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_65",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_65__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_65__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “atau mengeksport” dengan perkataan “, mengeksport atau mengeksport semula”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_65__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_65__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “spesies” dengan perkataan “hidupan liar”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_65__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_65__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “Jadual Kelima” perkataan “kecuali mana-mana bahagian atau terbitan mana-mana hidupan liar yang dikawal”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_65__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_65__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_65__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_65",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_65__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_65__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “tiga puluh ribu ringgit” dengan perkataan “lima puluh ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_65__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_65__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “satu tahun” dengan perkataan “tiga tahun”. Pemotongan seksyen 118"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_66",
+      "@type": "akn:clause",
+      "eli:number": "66",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 118. Pindaan seksyen 119"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_67",
+      "@type": "akn:clause",
+      "eli:number": "67",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_67__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_67__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 119(2) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_67__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_67",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “tidak melebihi lima puluh ribu ringgit” dengan perkataan “tidak kurang daripada dua puluh ribu ringgit dan tidak lebih daripada satu ratus ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_67__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_67",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “dua tahun” dengan perkataan “tiga tahun”. Pindaan seksyen 120"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_68",
+      "@type": "akn:clause",
+      "eli:number": "68",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_68__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_68__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_68__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 120 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_68__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_68",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan memotong perkataan “yang dilindungi”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_68__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_68",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “(1) Mana-mana orang, selain peniaga berlesen, pemegang permit khas untuk menjalankan urusan berniaga, pembiak baka dalam kurungan atau pemegang permit untuk mengendalikan zoo hendaklah membeli atau memperoleh mana-mana hidupan liar atau mana-mana bahagian atau terbitan mana-mana hidupan liar hanya daripada— (a) peniaga berlesen, pemegang permit khas untuk menjalankan urusan berniaga atau pembiak baka dalam kurungan; atau (b) Ketua Pengarah, Pengarah atau mana-mana pegawai yang diberi kuasa oleh Ketua Pengarah, jika ia dijual oleh Ketua Pengarah, Pengarah atau pegawai yang diberi kuasa oleh Ketua Pengarah itu menurut Akta ini.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_68__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_68__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_68__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_68",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_68__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_68__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “dua puluh ribu ringgit” dengan perkataan “lima puluh ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_68__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_68__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “satu tahun” dengan perkataan “tiga tahun”. Pindaan seksyen 122"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_69",
+      "@type": "akn:clause",
+      "eli:number": "69",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_69__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_69__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 122 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_69__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_69",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa kebangsaan, dengan menggantikan perkataan “haiwan” di mana-mana jua terdapat dengan perkataan “hidupan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_69__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_69",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4), dengan menggantikan perkataan “gajah (Elephas maximus), seladang (Bos gaurus), beruang (Helarctos malayanus), harimau (Panthera tigris), harimau bintang (Panthera pardus), harimau kumbang, babi hutan (sus scrofa)” dengan perkataan “hidupan liar sebagaimana yang dinyatakan dalam Jadual Kesebelas”. Seksyen baharu 123a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_6__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_6__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_6__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_6__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (a) dengan perenggan yang berikut: “(a) membawa lesen, permit atau permit khas semasa memburu mana-mana hidupan liar, mengambil mana-mana bahagian atau terbitan mana-mana hidupan liar, menjalankan penyelidikan atau kajian dalam rizab hidupan liar atau kawasan perlindungan hidupan liar, menjalankan pertandingan hidupan liar, menjalankan perkhidmatan kawalan hidupan liar atau menggunakan mana-mana hidupan liar dalam menjalankan apa-apa aktiviti keagamaan, adat atau kebudayaan; atau”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_6__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_6__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (b) dengan perenggan yang berikut: “(b) mempamerkan lesen, permit atau permit khas di tempat yang mudah dilihat di premisnya, jika dia ialah peniaga berlesen, pembiak baka dalam kurungan atau pemegang permit untuk mengendalikan zoo, pameran hidupan liar, kemudahan rehabilitasi hidupan liar, kemudahan latihan hidupan liar atau kemudahan penginapan hidupan liar; atau”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_6__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_6__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_6__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_6__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “sepuluh ribu ringgit” dengan perkataan “lima puluh ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_6__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_6__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “enam bulan” dengan perkataan “tiga tahun”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 21(2) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_70",
+      "@type": "akn:clause",
+      "eli:number": "70",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 123 seksyen yang berikut: “Maklumat palsu 123a. Mana-mana orang yang membuat, secara lisan atau bertulis, menandatangani atau memberikan apa-apa dokumen atau maklumat yang dikehendaki di bawah Akta ini yang tidak benar, tidak tepat atau mengelirukan dalam apa-apa butiran melakukan suatu kesalahan dan boleh, apabila disabitkan— (a) jika orang itu ialah orang perseorangan, didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tujuh tahun atau kedua-duanya; atau (b) jika orang itu ialah suatu pertubuhan perbadanan, didenda tidak melebihi dua ratus ribu ringgit.”. Penggantian seksyen 124"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_71",
+      "@type": "akn:clause",
+      "eli:number": "71",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 124 dengan seksyen yang berikut: “Tanggungan pengarah, dsb., syarikat, dsb. 124. Jika mana-mana orang yang melakukan suatu kesalahan di bawah Akta ini atau mana-mana perundangan subsidiarinya ialah suatu syarikat, perkongsian liabiliti terhad, firma, pertubuhan atau kumpulan orang yang lain, seseorang yang pada masa pelakuan kesalahan itu ialah seorang pengarah, pegawai pematuhan, pekongsi, pengurus, setiausaha atau pegawai lain yang seumpamanya bagi syarikat, perkongsian liabiliti terhad, firma, pertubuhan atau kumpulan orang yang lain itu atau yang berupa sebagai bertindak atas sifat itu atau yang dengan apa-apa cara atau sehingga apa-apa takat bertanggungjawab bagi pengurusan apa-apa hal ehwal syarikat, perkongsian liabiliti terhad, firma, pertubuhan atau kumpulan orang yang lain itu atau yang membantu dalam pengurusannya— (a) boleh dipertuduh secara berasingan atau bersesama dalam prosiding yang sama bersekali dengan syarikat, perkongsian liabiliti terhad, firma, pertubuhan atau kumpulan orang yang lain itu; dan (b) jika syarikat, perkongsian liabiliti terhad, firma, pertubuhan atau kumpulan orang yang lain itu didapati bersalah atas kesalahan itu, hendaklah disifatkan bersalah atas kesalahan itu dan boleh dikenakan hukuman atau penalti yang sama sebagaimana seorang individu melainkan jika, dengan mengambil kira jenis fungsinya atas sifat itu dan segala hal keadaan, dia membuktikan— (i) bahawa kesalahan itu telah dilakukan tanpa pengetahuannya; dan (ii) bahawa kesalahan itu telah dilakukan tanpa persetujuan atau pembiarannya dan bahawa dia telah mengambil segala langkah yang munasabah dan menjalankan usaha yang wajar untuk menghalang pelakuan kesalahan itu.”. Pindaan seksyen 125"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_72",
+      "@type": "akn:clause",
+      "eli:number": "72",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_72__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_72__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 125 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_72__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_72",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “sepuluh ribu ringgit” dengan perkataan “lima puluh ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_72__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_72",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “satu tahun” dengan perkataan “tiga tahun”. Pindaan seksyen 132"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_73",
+      "@type": "akn:clause",
+      "eli:number": "73",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_73__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_73__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_73__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 132(2) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_73__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_73",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (e), dengan menggantikan perkataan “atau pameran hidupan liar” dengan perkataan “, pameran hidupan liar, kemudahan rehabilitasi hidupan liar, kemudahan latihan hidupan liar atau kemudahan penginapan hidupan liar”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_73__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_73",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (h), dengan menggantikan noktah di hujung perenggan dengan koma bernoktah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_73__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_73",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (h) perenggan yang berikut: “(i) pengawalseliaan pertandingan hidupan liar dan perkhidmatan kawalan hidupan liar; dan (j) pengawalseliaan penggunaan mana-mana hidupan liar dalam menjalankan apa-apa aktiviti keagamaan, adat atau kebudayaan.”. Jadual baharu"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_74",
+      "@type": "akn:clause",
+      "eli:number": "74",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas Jadual Ketujuh jadual yang berikut: “JADUAL KELAPAN [Subseksyen 60(2)] HIDUPAN LIAR YANG DILINDUNGI BAGI MAKSUD SUBSEKSYEN 60(2) Tafsiran Jadual Kelapan 1. Spesies yang termasuk dalam Jadual ini disebut— (a) dengan nama spesies itu; atau (b) sebagai semua spesies yang termasuk dalam suatu takson yang lebih tinggi atau bahagian yang ditetapkan daripadanya. 2. Singkatan “spp.” digunakan untuk menandakan semua spesies daripada suatu takson yang lebih tinggi. 3. Sebutan lain mengenai taksa yang lebih tinggi daripada spesies adalah bagi maksud maklumat atau pengelasan sahaja. Nama biasa yang dimasukkan selepas nama saintifik bagi sesuatu famili adalah untuk rujukan sahaja. Ia bertujuan untuk menunjukkan spesies dalam famili yang berkenaan yang dimasukkan dalam Jadual ini. Dalam kebanyakan hal, ini bukanlah semua spesies dalam famili itu. 4. Jika terdapat percanggahan antara nama saintifik dengan nama tempatan dan nama biasa dalam penggunaan nama mana-mana spesies dalam Jadual ini, nama saintifik hendaklah terpakai. Nama Saintifik Nama Tempatan KELAS AVES Copsychus malabaricus Murai Batu White-rumped Shama Gracula religiosa Tiong Mas Hill Myna Zosterops palpebrosus Kelicap Kunyit Oriental White Eye JADUAL KESEMBILAN [Perenggan 68(2)(a)] HIDUPAN LIAR YANG DILINDUNGI SEPENUHNYA BAGI MAKSUD PERENGGAN 68(2)(a) Tafsiran Jadual Kesembilan 1. Spesies yang termasuk dalam Jadual ini disebut— (a) dengan nama spesies itu; atau (b) sebagai semua spesies yang termasuk dalam suatu takson yang lebih tinggi atau bahagian yang ditetapkan daripadanya. 2. Singkatan “spp.” digunakan untuk menandakan semua spesies daripada suatu takson yang lebih tinggi. 3. Sebutan lain mengenai taksa yang lebih tinggi daripada spesies adalah bagi maksud maklumat atau pengelasan sahaja. Nama biasa yang dimasukkan selepas nama saintifik bagi sesuatu famili adalah untuk rujukan sahaja. Ia bertujuan untuk menunjukkan spesies dalam famili yang berkenaan yang dimasukkan dalam Jadual ini. Dalam kebanyakan hal, ini bukanlah semua spesies dalam famili itu. 4. Jika terdapat percanggahan antara nama saintifik dengan nama tempatan dan nama biasa dalam penggunaan nama mana-mana spesies dalam Jadual ini, nama saintifik hendaklah terpakai. Nama Saintifik Nama Tempatan KELAS REPTILIA Varanus rudicollis Biawak Serunai Harlequin Monitor Varanus dumerilii Biawak Kudung Dumeril’s Monitor Varanus nebulosus Biawak Puru Clouded Monitor Python brongersmai Ular Sawa Darah Blood Python Tomistoma schlegelii Buaya Julung-Julung False Gharial Kura-kura Kolam Geoclemys hamiltonii Black Pond Turtle Hitam Indotestudo elongata Baning Lonjong Elongated Tortoise Manouria impressa Baning Bukit Impressed Tortoise KELAS AVES Aceros subruficollis Enggang Belantara Plain-pouched Hornbill Argusianus argus Kuang Raya Great Argus Buceros bicornis Enggang Papan Great Hornbill Buceros rhinoceros Enggang Badak Rhinoceros Hornbill Pavo muticus Merak Hijau Green Peafowl Mountain Peacock Polyplectron inopinatum Kuang Cermin Pheasant Pycnonotus zeylanicus Barau-Barau Straw-headed Bulbul Rheinardia ocellata Kuang Raya Gunung Crested Argus Enggang Tebang Rhynoplax vigil Helmeted Hornbill Mentua JADUAL KESEPULUH [Perenggan 68(2)(c)] HIDUPAN LIAR YANG DILINDUNGI SEPENUHNYA BAGI MAKSUD PERENGGAN 68(2)(c) Tafsiran Jadual Kesepuluh 1. Spesies yang termasuk dalam Jadual ini disebut— (a) dengan nama spesies itu; atau (b) sebagai semua spesies yang termasuk dalam suatu takson yang lebih tinggi atau bahagian yang ditetapkan daripadanya. 2. Singkatan “spp.” digunakan untuk menandakan semua spesies daripada suatu takson yang lebih tinggi. 3. Sebutan lain mengenai taksa yang lebih tinggi daripada spesies adalah bagi maksud maklumat atau pengelasan sahaja. Nama biasa yang dimasukkan selepas nama saintifik bagi sesuatu famili adalah untuk rujukan sahaja. Ia bertujuan untuk menunjukkan spesies dalam famili yang berkenaan yang dimasukkan dalam Jadual ini. Dalam kebanyakan hal, ini bukanlah semua spesies dalam famili itu. 4. Jika terdapat percanggahan antara nama saintifik dengan nama tempatan dan nama biasa dalam penggunaan nama mana-mana spesies dalam Jadual ini, nama saintifik hendaklah terpakai. Nama Saintifik Nama Tempatan KELAS MAMALIA Arctictis binturong Binturong Binturong Bos gaurus Seladang Gaur Capricornis sumatraensis Kambing Gurun Serow Catopuma temminckii Kucing Tulap Asian Golden Cat Dicerorhinus sumatrensis Badak Sumatera Sumatran Rhinoceros Helarctos malayanus Beruang Matahari Malayan Sun Bear Manis javanica Tenggiling Pangolin Neofelis nebulosa Harimau Dahan Clouded Leopard Panthera pardus Harimau Kumbang Leopard Panthera tigris Harimau Belang Tiger Nama Saintifik Nama Tempatan Pardofelis marmorata Kucing Dahan Marbled Cat Prionailurus planiceps Kucing Hutan Flat-headed Cat Prionodon linsang Linsang Banded Linsang Prionodon pardicolor Linsang Berbintik Spotted Linsang Pongo abelii Orang Utan Sumatra Sumatran Orang Utan Pongo pygmaeus Orang Utan Borneo Bornean Orang Utan Rhinoceros sondaicus Badak Raya Javan Rhinoceros JADUAL KESEBELAS [Subseksyen 122(4)] HIDUPAN LIAR BERBAHAYA Tafsiran Jadual Kesebelas 1. Spesies yang termasuk dalam Jadual ini disebut— (a) dengan nama spesies itu; atau (b) sebagai semua spesies yang termasuk dalam suatu takson yang lebih tinggi atau bahagian yang ditetapkan daripadanya. 2. Singkatan “spp.” digunakan untuk menandakan semua spesies daripada suatu takson yang lebih tinggi. 3. Sebutan lain mengenai taksa yang lebih tinggi daripada spesies adalah bagi maksud maklumat atau pengelasan sahaja. Nama biasa yang dimasukkan selepas nama saintifik bagi sesuatu famili adalah untuk rujukan sahaja. Ia bertujuan untuk menunjukkan spesies dalam famili yang berkenaan yang dimasukkan dalam Jadual ini. Dalam kebanyakan hal, ini bukanlah semua spesies dalam famili itu. 4. Jika terdapat percanggahan antara nama saintifik dengan nama tempatan dan nama biasa dalam penggunaan nama mana-mana spesies dalam Jadual ini, nama saintifik hendaklah terpakai. Nama Tempatan Nama Saintifik KELAS MAMALIA Sus scrofa Babi Hutan Wild Pig Macaca nemestrina Beruk Pig-tailed Macaque Macaca fascicularis Kera Long-tailed Macaque KELAS REPTILIA Ophiophagus hannah Ular Tedung Selar King Cobra ”. Kecualian dan peralihan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_75",
+      "@type": "akn:clause",
+      "eli:number": "75",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_75__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_75__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_75__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_75__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_75__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_75__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_75__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_75",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang, pada tarikh permulaan kuat kuasa Akta ini, menjalankan atau mengusahakan apa-apa aktiviti yang tertakluk kepada lesen, permit atau permit khas hendaklah, dalam tempoh enam bulan daripada tarikh permulaan kuat kuasa Akta ini, memohon suatu lesen, permit atau permit khas, mengikut mana-mana yang berkenaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_75__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_75",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sementara menunggu keputusan permohonan di bawah subseksyen (1), orang itu boleh terus menjalankan atau mengusahakan aktiviti itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_75__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_75",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu permohonan untuk memasuki rizab hidupan liar atau kawasan perlindungan hidupan liar yang dibuat sebelum tarikh permulaan kuat kuasa Akta ini hendaklah diuruskan di bawah Akta ibu seolah-olah Akta ibu tidak dipinda oleh Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_75__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_75",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang memegang lesen untuk menjalankan perniagaan taksidermi sebelum tarikh permulaan kuat kuasa Akta ini, hendaklah, pada tarikh permulaan kuat kuasa Akta ini, disifatkan sebagai peniaga berlesen dan boleh terus menjalankan perniagaan sehingga lesen tamat tempoh."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_75__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_75",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang memegang suatu permit khas untuk menjalankan penyelidikan ke atas mana-mana hidupan liar yang dilindungi sepenuhnya sebelum tarikh permulaan kuat kuasa Akta ini, hendaklah, pada tarikh permulaan kuat kuasa Akta ini, disifatkan sebagai pemegang permit untuk menjalankan penyelidikan atau kajian ke atas mana-mana hidupan liar di bawah perenggan 10(1)(d) Akta ibu sebagaimana yang dipinda dalam Akta ini sehingga permit khas tamat tempoh."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_75__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_75",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang memegang suatu permit khas untuk menggunakan mana-mana hidupan liar yang dilindungi sepenuhnya untuk zoo, pameran hidupan liar atau pembiakbakaan dalam kurungan komersial sebelum tarikh permulaan kuat kuasa Akta ini, hendaklah, pada tarikh permulaan kuat kuasa Akta ini, disifatkan sebagai pemegang permit khas untuk menyimpan hidupan liar yang dilindungi sepenuhnya di bawah perenggan 11(a) Akta ibu sehingga permit khas tamat tempoh."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “sepuluh ribu ringgit” dengan perkataan “lima puluh ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “enam bulan” dengan perkataan “tiga tahun”. Pindaan seksyen 22"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_8__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 22(2) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “sepuluh ribu ringgit” dengan perkataan “lima puluh ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “enam bulan” dengan perkataan “tiga tahun”. Seksyen baharu 25a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 25 seksyen yang berikut: “Mengubah, dsb., lesen, permit atau permit khas 25a. (1) Tiada seorang pun boleh— (a) mengubah, memalsukan, mencacatkan atau merosakkan apa-apa lesen, permit atau permit khas; atau (b) menggunakan apa-apa lesen, permit atau permit khas yang diketahuinya telah diubah, dipalsukan, dicacatkan atau dirosakkan. (2) Mana-mana orang yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan— (a) jika orang itu ialah orang perseorangan, didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tujuh tahun atau kedua-duanya; atau (b) jika orang itu ialah suatu pertubuhan perbadanan, didenda tidak melebihi dua ratus ribu ringgit.”. Pindaan seksyen 28"
+      }
+    }
+  ]
+}

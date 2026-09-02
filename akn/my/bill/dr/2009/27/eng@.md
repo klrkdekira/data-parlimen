@@ -64,11 +64,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 “Labuan trust” has the meaning assigned to it under subsection 8(1);
 
-“Labuan trust company” means a corporation registered as a Labuan trust company under
-
-## Part V of the Labuan Financial Services and
-
-Securities Act 2009 [Act ];’;
+“Labuan trust company” means a corporation registered as a Labuan trust company under Part V of the Labuan Financial Services and Securities Act 2009 [Act ];’;
 
 (viii) in the definition of “Minister”, by substituting for the words “offshore companies” the word “finance”;
 
@@ -162,11 +158,9 @@ Securities Act 2009 [Act ];’;
 
 ### New Part Ia
 
-7. The principal Act is amended by inserting after section 6 of
+7. The principal Act is amended by inserting after section 6 of Part I the following Part:
 
-## Part I the following Part:
-
-“Part Ia
+## “PART IA
 
 ## ADMINISTRATION OF THE ACT
 
@@ -962,7 +956,7 @@ Penalty: Imprisonment for five years or one million ringgit or both.”.
 
 42. The principal Act is amended by inserting after section 46 of Part IV the following Part:
 
-“Part IVa
+## “PART IVA
 
 ## LABUAN SPECIAL TRUST
 
@@ -1552,4 +1546,4 @@ to impose strict requirements in respect of delegation of property management fu
 
 The Bill will not involve the Government in any extra financial expenditure.
 
-[PN(U2)2667]
+<!-- marginal: [PN(U2)2667] -->

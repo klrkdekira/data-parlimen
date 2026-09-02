@@ -8,27 +8,13 @@
 
 ## PRELIMINARY
 
-1. Short title
-
-2. Amendments of Acts
+1. Short title 2. Amendments of Acts
 
 ## CHAPTER II
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
-3. Commencement of amendments to the Income Tax Act 1967
-
-4. Amendment of section 2
-
-5. Amendment of section 46
-
-6. Amendment of section 49
-
-7. Substitution of section 50
-
-8. Deletion of section 60D
-
-9. Amendment of section 101
+3. Commencement of amendments to the Income Tax Act 1967 4. Amendment of section 2 5. Amendment of section 46 6. Amendment of section 49 7. Substitution of section 50 8. Deletion of section 60D 9. Amendment of section 101
 
 10. Amendment of section 102
 
@@ -88,9 +74,7 @@ Amendments of Acts
 
 Commencement of amendments to the Income Tax Act 1967
 
-3.
-
-(1) The amendments in sections 5, 6, 7, 8, 11, 12 and 15 shall have effect for the year of assessment 2000 in respect of the basis period ending in the year 2000 (current year basis) and subsequent years of assessment.
+3. (1) The amendments in sections 5, 6, 7, 8, 11, 12 and 15 shall have effect for the year of assessment 2000 in respect of the basis period ending in the year 2000 (current year basis) and subsequent years of assessment.
 
 (2) The amendments in sections 4, 9, 10 and 14 shall have effect upon the coming into operation of this Act.
 
@@ -144,13 +128,19 @@ Commencement of amendments to the Income Tax Act 1967
 
 Provided that where the wife has no total income the total deduction under this subsection shall not exceed one thousand ringgit."; and
 
-(e) in subsection (3), by substituting for the words 'this section "insurance" and "deferred annuity", in relation to an individual claiming a deduction under subsection (1),' the words 'relation to an individual claiming a deduction under subsection (1), "insurance" and "deferred annuity" '.
+(e) in subsection (3), by substituting for the words 'this section "insurance" and "deferred annuity", in relation to an individual claiming a deduction under subsection
+
+(1),' the words 'relation to an individual claiming a deduction under subsection (1), "insurance" and "deferred annuity" '.
 
 ### Substitution of section 50
 
 7. The principal Act is amended by substituting for section 50 the following section:
 
-. "Application 50. (1) Where an individual who is resident for the basis of section f f h
+. "Application 50. (1) Where an individual who is resident for the basis
+
+<!-- marginal: of section -->
+
+f f h
 
 <!-- marginal: of -->
 
@@ -158,7 +148,13 @@ Provided that where the wife has no total income the total deduction under this 
 
 <!-- marginal: h -->
 
-49 where year or a year 0 assessment as a WI e lvmg toget er husband with him at any time in that basis year, and they did not and wife . h b . are living m t at aSls year- together.
+49 where year or a year 0 assessment as a WI e lvmg toget er husband with him at any time in that basis year, and they did not
+
+<!-- marginal: and wife -->
+
+. h b . are living m t at aSls year-
+
+<!-- marginal: together. -->
 
 (a) cease to live together; or
 
@@ -250,47 +246,31 @@ next
 
 <!-- page 8 -->
 
-<!-- marginal: Rate of Income -->
-
-Chargeable Income
-
-<!-- marginal: RM -->
+Rate of Income Chargeable Income RM
 
 <!-- marginal: Tax -->
 
-For every ringgit of the
-
-<!-- marginal: 10,000 -->
+For every ringgit of the 10,000
 
 <!-- marginal: 5 per cent -->
 
-next
-
-<!-- marginal: 15,000 -->
+next 15,000
 
 <!-- marginal: 9 per cent -->
 
-For every ringgit of the next For every ringgit of the
-
-<!-- marginal: 15,000 -->
+For every ringgit of the next For every ringgit of the 15,000
 
 <!-- marginal: 15 per cent -->
 
-next For every ringgit of the
-
-<!-- marginal: 20,000 -->
+next For every ringgit of the 20,000
 
 <!-- marginal: 20 per cent -->
 
-next
-
-<!-- marginal: 30,000 -->
+next 30,000
 
 <!-- marginal: 25 per cent -->
 
-For every ringgit of the next
-
-<!-- marginal: 50,000 -->
+For every ringgit of the next 50,000
 
 <!-- marginal: 28 per cent -->
 
@@ -310,57 +290,39 @@ and
 
 <!-- marginal: Rate of Income -->
 
-<!-- marginal: RM -->
+RM
 
 <!-- marginal: Tax -->
 
-For every ringgit of the
-
-<!-- marginal: 10,000 -->
+For every ringgit of the 10,000
 
 <!-- marginal: o per cent -->
 
-first For every ringgit of the
-
-<!-- marginal: 10,000 -->
+first For every ringgit of the 10,000
 
 <!-- marginal: 1 per cent -->
 
-next
-
-<!-- marginal: 10,000 -->
+next 10,000
 
 <!-- marginal: 4 per cent -->
 
-For every ringgit of the next For every ringgit of the
-
-<!-- marginal: 10,000 -->
+For every ringgit of the next For every ringgit of the 10,000
 
 <!-- marginal: 7 per cent -->
 
-next For every ringgit of the
-
-<!-- marginal: 10,000 -->
+next For every ringgit of the 10,000
 
 <!-- marginal: 10 per cent -->
 
-next For every ringgit of the
-
-<!-- marginal: 25,000 -->
+next For every ringgit of the 25,000
 
 <!-- marginal: 13 per cent -->
 
-next For every ringgit of the
-
-<!-- marginal: 25,000 -->
+next For every ringgit of the 25,000
 
 <!-- marginal: 17 per cent -->
 
-next
-
-<!-- marginal: 50,000 -->
-
-For every ringgit of the
+next 50,000 For every ringgit of the
 
 <!-- marginal: 21 per cent -->
 
@@ -370,21 +332,13 @@ next
 
 <!-- marginal: Rate of Income -->
 
-Chargeable Income
-
-<!-- marginal: RM -->
+Chargeable Income RM
 
 <!-- marginal: Tax -->
 
 <!-- marginal: 24 per cent -->
 
-For every ringgit of the
-
-<!-- marginal: 100,000 -->
-
-next
-
-<!-- marginal: 250,000 -->
+For every ringgit of the 100,000 next 250,000
 
 <!-- marginal: 27 per cent -->
 
@@ -536,11 +490,7 @@ acquiring the asset; or
 
 <!-- page 14 -->
 
-the disposer of the asset, the asset in question and the acquirer of the asset being in those paragraphs referred to as the disposer,
-
-<!-- marginal: the asset and the acquirer -->
-
-respectively.";
+the disposer of the asset, the asset in question and the acquirer of the asset being in those paragraphs referred to as the disposer, the asset and the acquirer respectively.";
 
 . (I) in subparagraph 22(1), by inserting after the words "paragraph 23" the words "or 23A";
 
@@ -568,9 +518,7 @@ shall be determined in such manner as may be prescribed by rules to be made for 
 
 (1) The amendment in section 20 shall be deemed to have
 
-### 19.
-
-come into operation on 30 October 1999.
+19. come into operation on 30 October 1999.
 
 (2) The amendment in section 21 shall have effect upon the coming into operation of this Act.
 
@@ -616,7 +564,11 @@ Number thereto in First Schedule "19. SECURITY BOND furnished to
 
 <!-- marginal: An immigration officer". -->
 
-the Director General of Immigration in connection with the grant of a Professional Visit Pass for an Artiste, a Social Visit Pass and a Work Permit Pass No. 25
+the Director General
+
+<!-- marginal: of -->
+
+Immigration in connection with the grant of a Professional Visit Pass for an Artiste, a Social Visit Pass and a Work Permit Pass No. 25
 
 ## EXPLANATORY STATEMENT
 
@@ -686,7 +638,9 @@ Paragraphs 21A and 23A are introduced into the Second Schedule to Act 543 to pro
 
 This amendment is effective from the year of assessment 2000.
 
-Subsubparagraph 41(b) of the Second Schedule to Act 543 is amended to provide that the disposer of a vested asset shall not be entitled to a claim for balancing allowance. This amendment is effective from the year of assessment 2000.
+Subsubparagraph 41(b) of the Second Schedule to Act 543 is amended to provide that the disposer of a vested asset shall not be entitled to a claim for balancing allowance. This amendment is effective from the year of assessment
+
+2000.
 
 ## CHAPTER IV
 

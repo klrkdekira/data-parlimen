@@ -1,0 +1,1431 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-2-2022",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_24"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Poisons (Amendment) Bill 2022"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_10__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_10__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 19 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (1)(c), by substituting for the words “veterinary officer” the words “registered veterinary surgeon”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_10__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_10__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_10__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_10__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_10__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “practitioner” wherever appearing the words “registered medical practitioner”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_10__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_10__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “dentist” wherever appearing the words “registered dentist”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_10__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_10__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “veterinary officer” wherever appearing the words “registered veterinary surgeon”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_10__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_10__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_10__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_10__para_c__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_10__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_10__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “medical practitioner” the words “registered medical practitioner”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_10__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_10__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “dentist” the words “registered dentist”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_10__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_10__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “veterinary officer” the words “registered veterinary surgeon”. Amendment of section 21"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 21 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (1)(b), by substituting for the words “veterinary officer” the words “registered veterinary surgeon”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (1)(c)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “licensed pharmacist” the words “registered pharmacist”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “veterinary officer” the words “registered veterinary surgeon”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “subsection (2)” the words “or (2a)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11__para_c__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11__para_c__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “Every” the words “Except as otherwise provided in subsection (2a), every”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “registered veterinary officer” the words “registered veterinary surgeon”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by substituting for the word “address” the words “name and address”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11__para_c__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c), by substituting for the words “veterinary officer” the words “registered veterinary surgeon”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsections: “Electronic prescription (2 a) When a prescription is prescribed through electronic means, every prescription for any Group B Poison prescribed by a registered medical practitioner, registered dentist or registered veterinary surgeon shall— (a) be created and dated in electronic form; (b) be signed with a digital signature by the prescriber; (c) be sent to a registered pharmacist as an electronic message; and (d) contain information as in paragraphs (2)(b), (c), (d) and (e). (2 b) In this section “digital signature” means a signature that is made in accordance with the Digital Signature Act 1997 [Act 562].”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (4) the following subsection: “(4) Every person selling or supplying any Group B Poison on a prescription shall, at the time of selling or supplying the same, endorse or mark the prescription in a manner so as to permanently attach to the prescription, his name and address and the date on which such poison was sold or supplied.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11__para_f__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11__para_f__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (6)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11__para_f__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11__para_f",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “prescription book” the words “Prescription Book”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11__para_f__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_11__para_f",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “medical practitioner” the words “registered medical practitioner”. Amendment of section 23"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_12__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 23 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (1)(b), by substituting for the word “licensed” the word “registered”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the word “book” wherever appearing the word “register”. Amendment of section 24"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_13__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 24 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the shoulder note the following shoulder note: “Prescription Book”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_13__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_13__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_13__para_b__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_13__para_b__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_13__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_13__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “book” the word “register”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_13__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_13__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by substituting for the word “book” the word “register”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_13__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_13__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c), by substituting for the words “veterinary officer” the words “registered veterinary surgeon”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_13__para_b__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_13__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the proviso, by substituting for the words “prescription book” the words “Prescription Book”. Amendment of section 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_14__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_14__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 26 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words “Director of Pharmaceutical Services” the words “Principal Director”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by deleting paragraph (c); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_14__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (6) the following subsection: “(7) Any person who contravenes any term or condition of any licence issued under this section shall be guilty of an offence against this Act.”. New section 26a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 26 the following section: “Directives 26a. (1) The Director General of Health may issue such directives, not inconsistent with the provision of this Act, as he thinks necessary or expedient for the proper implementation of section 26 of this Act. (2) A person issued with the directives under this section shall comply with such directives. (3) Any person who fails to comply with the directives issued by the Director General of Health under subsection (1) commits an offence against this Act.”. Deletion of section 28"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 28. Amendment of section 30"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_17__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_17__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 30 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_17__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (1); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_17__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_17__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (5)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_17__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_17__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “ten” the words “one hundred”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_17__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_17__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “four” the word “five”. Amendment of section 31"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_18__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_18__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 31 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the shoulder note the following shoulder note: “Authorization of Drug Enforcement Officer”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (2) the following subsection: “(2) In exercising any of the powers of a Drug Enforcement Officer under this Act, a Drug Enforcement Officer shall on demand produce to the person against whom he is acting the authorization referred to in subsection (1).”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_18__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsections (3), (4), (5), (6), (7), (8), (9) and (10). New sections 31a, 31b, 31c, 31d, 31e and 31f"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 31 the following sections: “Powers of enforcement, inspection and investigation 31a. An authorized officer shall have all the powers of a police officer of whatever rank as provided for under the Criminal Procedure Code [Act 593] in relation to enforcement, inspection and investigation, and such powers shall be in addition to the powers provided for under this Act and not in derogation thereof. Search and seizure 31b. (1) In this section, “premises” includes— (a) any land, building or part of any building; (b) any place whether open or enclosed; (c) any conveyance; (d) any installation on land, offshore installation or other installation whether on the bed of or floating on any water; and (e) any structure movable or immovable. (2) When an authorized officer has reasonable cause to believe that an offence under this Act or any regulations made under this Act has been or is being committed in any premises or in connection with any business carried on in any premises, the authorized officer may at any reasonable time by day or by night and with or without assistance— (a) enter the premises and if need be by force; (b) search the premises for, and to seize or remove from the premises any poison, psychotropic substance, receptacle, package, conveyance, machinery, contrivance, equipment, book, register, record, document, computerized data or other article that is reasonably believed to furnish evidence of the commission of such offence; (c) inspect or require any person to produce for the purpose of inspection— (i) any substance reasonably believed to be or to contain any poison or psychotropic substance; (ii) conveyance, machinery, contrivance, equipment, book, register, record, document, computerized data or other article, which in his opinion may furnish evidence of the commission of an offence under this Act or any regulations made under this Act; (d) take samples of any poison or psychotropic substance found in the premises for the purpose of ascertaining, by testing or otherwise, whether any offence under this Act or any regulations made under this Act has been committed; or (e) make copies of or take extracts from any book, register, record, document, computerized data or other article found in the premises. (3) An authorized officer entering any premises under this section may take with him any other person and equipment as may appear to him to be necessary. (4) The owner, occupier or any person who has control of such premises or who is present at such premises, shall permit every authorized officer and any other person referred to in subsection (3) to have access to the premises for the purposes specified in this section and shall supply to the authorized officer all such information as may be requested by the authorized officer, and shall afford the authorized officer such assistance as may be reasonably necessary for such purposes. (5) An authorized officer may, in the exercise of his powers under this section, if it is necessary so to do— (a) break open any outer or inner door of the premises or any fence, enclosure, gate or other obstruction to the premises, in order to effect entry into the premises; (b) remove by force any obstruction to entry, search, seizure or removal as he is empowered to effect under this section; and (c) detain any person found in the premises until the search has been completed. (6) Where, by reason of its nature, size or amount, it is not practicable to remove any poison, psychotropic substance, receptacle, package, conveyance, machinery, contrivance, equipment, book, register, record, document, computerized data or other article seized under this section, the authorized officer shall, by any means, seal such poison, psychotropic substance, receptacle, package, conveyance, machinery, contrivance, equipment, book, register, record, document, computerized data or other article in the premises or container in which it is found. (7) A person who, without lawful authority, breaks, tampers with or damages the seal referred to in subsection (6) or removes the poison, psychotropic substance, receptacle, package, conveyance, machinery, contrivance, equipment, book, register, record, document, computerized data or other article under seal or attempts to do so shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding two years or to both. (8) Any person who— (a) obstructs or impedes an authorized officer in the performance of his duties under this Act or any regulations made under this Act; (b) refuses or neglects to comply with any requisition made in pursuance of this section; or (c) gives or supplies any false or misleading statement or information to an authorized officer, shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding two years or to both. Power to access premises and land 31c. (1) An authorized officer shall have access to any premises or land for the purpose of— (a) inspecting any substance reasonably believed to be or to contain any poison or any psychotropic substance, receptacle, package, conveyance, machinery, contrivance, equipment, book, register, record, document, computerized data or other article as he considers necessary; (b) verifying the accuracy of any book, register, record, document, computerized data, statement or any information given to an authorized officer, and make copies of or take extracts from such book, register, record, document, computerized data or statement found in the premises or land; or (c) collecting samples of any substance reasonably believed to be or to contain any poison or psychotropic substance found in the premises or land. (2) For the purpose of this section, an authorized officer may without payment, demand, select, take or collect samples of any substance reasonably believed to be or to contain any poison or psychotropic substance from any person, or such person’s agent or servant importing, exporting, manufacturing, selling, supplying, using or having possession of such substance. Power to require information and documents 31d. (1) An authorized officer, in carrying out an investigation under this Act, may make an order by a written notice under subsection (2), if he has reason to believe that a person— (a) has any information or any document that is relevant to the performance of the authorized officer’s powers and functions under this Act; or (b) is capable of giving any evidence which the authorized officer has reason to believe is relevant to the performance of the authorized officer’s powers and functions under this Act. (2) The order made by an authorized officer under subsection (1) may direct the person— (a) to provide any information to the authorized officer, within the period and in the manner and form specified in the notice; (b) to produce any document to the authorized officer, within the period and in the manner specified in the notice, whether in physical form or in electronic form; (c) to make copies of any document, or extracts from any document and to produce copies or extracts of such document, as the case may be, to the authorized officer within the period and in the manner specified in the notice; (d) if the person is an individual, to appear before the authorized officer at a time and place specified in the notice to give any information, either orally or in writing, and produce such document, whether in physical form or in electronic form; (e) if the person is a body corporate, to cause and authorize a relevant and competent officer of the body corporate to appear before the authorized officer at a time and place specified in the notice to give any information, either orally or in writing, and produce such document, whether in physical form or in electronic form; (f) if the person is a partnership, to cause an individual who is a partner in the partnership or an employee of the partnership to appear before the authorized officer at a time and place specified in the notice to give any information, either orally or in writing, and produce such document, whether in physical form or in electronic form; or (g) to make a statement to the authorized officer providing an explanation of any information or document within the period and in the manner and form specified in the notice. (3) Where the authorized officer directs any person to produce any document under subsection (2) and the person does not have custody of the document, that person shall— (a) state, to the best of his knowledge and belief, where the document may be found; and (b) identify, to the best of his knowledge and belief, the person who has custody of the document or the last person who had custody of the document, as the case may be, and state, to the best of his knowledge and belief, where the person may be found. (4) Any person directed to provide information or document under subsection (2) shall— (a) provide the required information or document within such time as specified in the notice or such extended time as the authorized officer may grant; and (b) ensure that the information or document provided is true, accurate and complete and such person shall provide an express representation to that effect, including a declaration that he is not aware of any other information or document which would make the information or document provided untrue or misleading. (5) Any person who fails to comply with the order made by the authorized officer under subsection (1) commits an offence. Access to recorded information, computerized data, etc. 31e. (1) Any authorized officer exercising his powers under this Act shall be given access to any recorded information, or computerized data, whether stored in a computer or otherwise. (2) In exercising his powers, the authorized officer may— (a) inspect and check the operation of any computer and any associated apparatus or material which the authorized officer has reasonable cause to suspect is or has been used in connection with that information or data; (b) require the person— (i) whom the authorized officer has reasonable cause to suspect is using or to have used the computer in connection with that information or data; (ii) whom the authorized officer has reasonable cause to suspect that the computer is used or has been used, on behalf of the person, in connection with that information or data; or (iii) having charge of, or is otherwise concerned with, the operation of the computer, apparatus or material, to provide him with such reasonable assistance as he may require for the purposes of this section. (3) The authorized officer may make copies of or take extracts from the recorded information or computerized data, if he deems it necessary. (4) Any recorded information or computerized data obtained under subsection (1) shall be admissible in evidence notwithstanding any other provisions in any written law to the contrary. (5) For the purposes of this section, “access” includes being provided with the necessary password, encryption code, decryption code, software or hardware and any other means required to enable comprehension of the recorded information or computerized data. No cost or damages arising from entry, search or seizure to be recoverable 31f. No person shall, in respect of any entry or search, or seizure of any poison, psychotropic substance or other substances, or seizure of any receptacle, package, conveyance, machinery, contrivance, equipment, book, register, record, document, computerized data or other articles, seized or surrendered in the exercise or the purported exercise of any power conferred under this Act, be entitled to recover the costs of such entry, search, or seizure or to claim any damages or other relief unless such entry, search, or seizure was made without reasonable cause.”. Amendment of section 32"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Poisons (Amendment) Act 2022."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette and the Minister may appoint different dates for the coming into operation of different provisions of this Act. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2__para_l",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2__para_m",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2__para_n"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Poisons Act 1952 [Act 366], which is referred to as the “principal Act” in this Act, is amended in subsection 2(1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_20__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_20__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_20__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 32 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_20__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the word “book” wherever appearing the word “register”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_20__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_20__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_20__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_20__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_20__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_20__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “three” the word “fifty”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_20__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_20__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “one year” the words “five years”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_20__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_20__para_b__subpara_iii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_20__para_b__subpara_iii__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_20__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the proviso—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_20__para_b__subpara_iii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_20__para_b__subpara_iii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “five” the words “two hundred”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_20__para_b__subpara_iii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_20__para_b__subpara_iii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “two” the word “ten”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_20__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (5) the following subsection: “(5) Any poison, psychotropic substance, receptacle, package, conveyance, machinery, contrivance, equipment, book, register, record, document, computerized data or other article in respect of which an offence against this Act has been committed shall be forfeited and shall be disposed of in such manner as the Licensing Officer may direct.”. New section 32a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 32 the following section: “Compounding of offences 32a. (1) The Minister may, with the approval of the Public Prosecutor, make regulations prescribing— (a) any offence under this Act and any regulations made under this Act as an offence which may be compounded; and (b) the method and procedure for compounding such offence. (2) The Director General of Health or any Drug Enforcement Officer appointed by the Director General of Health may, with the written consent of the Public Prosecutor, compound any offence committed by any person under this Act and any regulations made under this Act and prescribed to be a compoundable offence by making a written offer to the person suspected of committing the offence to compound the offence on payment to the Director General of Health of an amount of money not exceeding fifty per cent of the amount of the maximum fine for that offence within the time specified in the offer. (3) An offer under subsection (2) may be made at any time after the offence has been committed but before any prosecution for it has been instituted. (4) If the amount specified in the offer is not paid within the time specified in the offer or such extended time as the Director General of Health may grant, prosecution for the offence may be instituted at any time after that against the person to whom the offer was made. (5) Where an offence has been compounded under this section— (a) no prosecution shall be instituted in respect of the offence against the person to whom the offer to compound was made; and (b) any substance, goods or article seized in connection with the offence, shall be forfeited, destroyed or released by the Director General of Health subject to such terms and conditions as may be imposed.”. New sections 34a, 34b and 34c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 34 the following sections: “Protection against suits and legal proceedings 34a. No action shall lie or prosecution shall be brought, instituted or maintained in any court against— (a) any Licensing Officer, authorized officer or member of the Poisons Board for any act done by him; or (b) any other person for any act done by him under the order, direction or instruction of the Licensing Officer, authorized officer or the Poisons Board, if the act was done in good faith and in the reasonable belief that it was necessary for the carrying into effect the provisions of this Act or its regulations. Evidence of agent provocateur is admissible 34b. Notwithstanding any written law or rule of law to the contrary, in any proceedings against any person for an offence under this Act or its regulations— (a) no agent provocateur, whether he is an authorized officer or not, shall be presumed to be an accomplice or be unworthy of credit as a witness by reason only of his having attempted to commit or to abet, or having abetted or having been engaged in a criminal conspiracy to commit, such offence if the main purpose of such attempt, abetment or engagement was to secure evidence against such person; (b) any statement whether oral or in writing made to an agent provocateur by any person shall be admissible in evidence at his trial; and (c) a conviction for any offence under this Act or its regulations solely on the uncorroborated evidence of any agent provocateur shall not be illegal and no such conviction shall be set aside merely because the court which tried the case has failed to refer in the grounds of its judgment to the need to warn itself against the danger of convicting on such evidence. Electronic transaction 34c. (1) Where a written order under section 15 or 23 is in the form of an electronic message, the requirement of the Act is fulfilled if it is obtained, forwarded, served, sent, delivered, received or retained in accordance with the Electronic Commerce Act 2006 [Act 658] and any other requirements as may be prescribed under this Act. (2) Where any provision under this Act requires a signature of a person on a document, otherwise than on a prescription, the requirement of the Act is fulfilled, if the document is in the form of an electronic message containing a signature in accordance with the Electronic Commerce Act 2006.”. Amendment of section 35"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_23__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_23__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_23__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_23__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_23__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_23__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_23__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_23__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 35(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_23__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_23__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_23__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_23__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_23__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (i), by inserting after the word “licensed” the words “or authorized”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_23__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_23__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (ii), by inserting after the word “sale” the words “or supply”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_23__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (c) the following paragraph: “(ca) the use of poisons;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_23__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (h) the following paragraph: “(h) prescribing the manner in which any register, book, prescription, written order and any other documents including documents in electronic form, should be kept and maintained and the period for which such register, book, prescription, written order and any other documents required to be kept for the purposes of this Act are to be preserved;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_23__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (k), by inserting after the word “from” the words “any of the provisions or”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_23__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (l), by inserting after the word “registers” the words “, books, prescriptions, written orders”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_23__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (t), by inserting after the word “purchase” the words “, administration”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_23__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (v) the following paragraph: “(v) prescribing the mode or the manner of disposal and sampling of poisons or psychotropic substances;”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_23__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (v) the following paragraph: “(w) prescribing the records to be kept by a licensed pharmacist including records of attendance and roster of a registered pharmacist employed or engaged in a premises where a licensed pharmacist is licensed to retail poisons.”. Amendment of Third Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Third Schedule to the principal Act is amended by substituting for the words “[Section 30]” the words “[Section 2]”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “animal treatment” the following definition: ‘ “animal treatment” includes the investigation, examination or treatment of animal ailments;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “animal treatment” the following definition: ‘ “authorized officer” means— (a) a Drug Enforcement Officer under this Act; (b) a police officer not below the rank of Inspector; or (c) a senior officer of customs as defined under the Customs Act 1967 [Act 235];’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “dental treatment” the following definition: ‘ “dental treatment” includes the investigation, examination or treatment of human ailments of the teeth or the oral or maxillo-facial complex or its related structures or the performance of operations or the giving of treatment commonly undertaken or given by those practising dentistry;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “dispensed medicine” the following definition: ‘ “dispensed medicine” means a medicine supplied by— (a) a registered medical practitioner, registered dentist or registered veterinary surgeon under and in accordance with section 19; or (b) a registered pharmacist at or from a premises where a licensed pharmacist is licensed to retail poisons, for the purpose of the medical, dental or animal treatment, of a particular individual;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “Drug Enforcement Officer” the following definitions: ‘ “electronic” means the technology of utilizing electrical, optical, magnetic, electromagnetic, biometric, photonic or other similar technology; “electronic message” means an information generated, sent, received or stored by electronic means;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2__para_f__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2__para_f__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of ‘ “a Group A Poison” “a Group B Poison” “a Group C Poison” “a Group D Poison” “a Group E Poison” and “a Group F Poison” ’—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2__para_f__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2__para_f",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words ‘ “a Group D Poison” “a Group E Poison” and “a Group F Poison” ’ the words ‘ and “a Group D Poison” ’; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2__para_f__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2__para_f",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “, Group D, Group E or Group F” the words “or Group D”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the definition of “licensed retailer”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the definition of “listed seller”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “medical treatment” the following definition: ‘ “medical treatment” includes the investigation, examination or treatment of human ailments;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “Part I Poison”, by substituting for the words “, Group D, Group E or Group F” the words “or Group D”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “premises” the following definitions: ‘ “Principal Director” means the head of the pharmaceutical services in the Ministry of Health; “psychotropic substance” means any of the substances specified in the Third Schedule;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “registered pharmacist” the following definition: ‘ “registered veterinary surgeon” means a veterinary surgeon registered under the Veterinary Surgeons Act 1974 [Act 147];’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2__para_m",
+      "@type": "akn:paragraph",
+      "eli:number": "m",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the definition of “veterinary officer”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2__para_n",
+      "@type": "akn:paragraph",
+      "eli:number": "n",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “wholesale”, by substituting for the words “(j)” the words “(k)”. Amendment of section 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 3 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (1)(f)(vii), by substituting for the words “Malaysian Pharmaceutical Association” the words “Malaysian Pharmacists Society”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4), in the proviso, by substituting for the words “(1)(g)” the words “(1)(f)”. New section 4a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 4 the following section: “Resolution without meeting 4a. (1) Subject to subsection (2), the Poisons Board may, where necessary, pass a resolution without meeting. (2) Where the Board wishes to pass a resolution without meeting, the Board shall comply with the following conditions: (a) all members of the Board have been informed of the proposed resolution, or reasonable efforts have been made to inform all members of the Board of the proposed resolution; and (b) all members of the Board indicate agreement with the resolution in accordance with the method determined by the Board under subsection (3). (3) Subsection (2) applies only if the Board decides— (a) that the subsection applies; and (b) the method by which members of the Board are to indicate agreement with the resolution.”. Amendment of section 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 7 of the principal Act is amended in paragraph (3)(b) by inserting after the word “human” the words “or animal”. Amendment of section 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_6__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_6__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 15 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_6__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_6__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_6__para_a__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_6__para_a__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_6__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_6__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (d), by deleting the word “or” at the end of the paragraph;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_6__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_6__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (f), by substituting for the words “veterinary surgeon” the words “registered veterinary surgeon”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_6__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_6__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the full stop at the end of paragraph (j) a semicolon; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_6__para_a__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_6__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (j) the following paragraph: “(k) a person who requires the poison for the purpose of enabling him to comply with any requirement made by, or in pursuance of, any written law with respect to the medical treatment of persons employed by that person in any business or trade carried out by that person.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsection: “(2a) Any person referred to in paragraph 15(2)(a), (c), (d), (e), (f), (g) or (k) who purchases any poison from a wholesaler other than a licensed wholesaler shall be guilty of an offence against this Act.”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_6__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_6__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_6__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_6__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by substituting for the word “book” the word “register”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_6__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_6__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by substituting for the word “book” the word “register”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_6__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4), by substituting for the word “book” the word “register”. Amendment of section 16"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_7__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_7__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 16 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by inserting after the words “except by” the words “a registered pharmacist or”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the word “on” the words “at or from”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by inserting after the word “of” the words “the registered pharmacist or”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_7__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (4) the following subsection: “(4a) Every licensed pharmacist shall keep records of a registered pharmacist engaged or employed in a premises where the licensed pharmacist is licensed to retail poisons in accordance with any regulations made under this Act.”. Amendment of section 17"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 17(1) of the principal Act is amended by inserting after the word “medical” the words “or dental”. Amendment of section 18"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_9__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 18 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by inserting after the word “sale” the words “or supply”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_9__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_9__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_9__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_9__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (b) and the proviso to paragraph (b) the following paragraph: “(b) by retail sale effected by or under the immediate personal supervision of a registered pharmacist at or from a premises where a licensed pharmacist is licensed to retail poisons and in accordance with the terms and conditions of such licence of the licensed pharmacist; or”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_9__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/2/eng@/~cl_9__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c), by inserting after the words “registered dentist or” the word “registered”. Amendment of section 19"
+      }
+    }
+  ]
+}

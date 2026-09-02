@@ -24,7 +24,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 2 -->
 
-(2) Notwithstanding subsection (1), if at any time before payment is made, the paying bank request the collecting bank to present the cheque itself, the presentment under subsection (1) shall be disregarded, and section 74B shall not apply.
+(2) Notwithstanding subsection (1), if at any time before payment is made, the paying bank request the collecting bank to present the cheque itself, the presentment under subsection
+
+(1) shall be disregarded, and section 74B shall not apply.
 
 (3) A request under subsection (2) for the presentment of cheque shall not constitute dishonour of the cheque by non payment.
 

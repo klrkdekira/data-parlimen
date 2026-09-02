@@ -1,0 +1,271 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-31-1992",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_10"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Telecommunications (Amendment) Bill 1992"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Telecommunications (Amendment) Act 1992."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_10__para_b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "immediately after section 47, the following new section 47A. Where any person is charged with an offence under this Act, any statement, whether the statement amounts to a confession or not or whether it is oral or in writing, made at any time, whether before or after the person is charged and whether in the course of an investigation or not and whether or not wholly or partly in answer to questions, by that person to or in the hearing of any authorized telecommunication officer and whether or not interpreted to him by another telecom- munication officer or other person, shall be admissible in evidence at his trial and, if the person charged tenders himself as a witness, any such statement may be used -in cross- examination and for the purpose of impeaching his credit: Provided that— (a) no such statement shall be admissible or used as aforesaid— (i) if the making of the statement appears to the court to have been caused by any inducement, threat or promise having reference to the charge against such person proceeding from a person in authority and sufficient in the opinion of the court to give the person charged grounds which would appear to him reasonable for supposing that by making it he would gain any advantage or avoid any evil of a temporal nature in reference proceedings against him; or (ii) in the case of a statement made by the person after his arrest, unless the court is satisfied that he was cautioned in the following words or words to the like effect: \"It is my duty to warn you that you are not obliged to say anything or to answer any question, but anything you say, whether in answer question or not, may be given in evidence\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a statement made by any person before there is time to caution him shall not be rendered inadmissible in evidence merely by reaspn of his not having been cautioned if he is cautioned as soon as possible.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 3 of the Telecommunications Act 1950, which"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "in this^Act is referred to as the \"principal Act\", is amended by inserting immediately after subsection (3), the following new subsections (4) and (5): \"(4) No licence shall be assigned, transferred, or sublet, to any person, unless the written consent of the Minister has been given. (5) A licence granted under this Part shall not preclude the application of Part V including the requirernent for a separate licence under section 37 of that Part, whenever the telecommunications network involves a radiocommunication station.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 35 of the principal Act is amended in"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting immediately after the words \"Hertzian waves\" appearing in the definition of \"radiocommunication apparatus\" the words \", and includes the apparatus used or capable of being used for the purpose of visual and aural reception directly from a space station of any broadcast matter\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting immediately after the definition of \"radiocommunication propagation path\" the following definition: ' \"radiocommunication station\" includes a television receive only station;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting immediately after the definition of \"television broadcast receiver\" the following definition: ' \"television receive only station\" means a radiocommunication station consisting of an antennae, a radiocommunication receiver and television broadcast receiver or video monitor or other apparatus used or capable of being used for the purpose of visual and aural reception directly from a space station of any broadcast matter;'."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 37 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "inserting immediately after subsection (2), the following new subsection (2A): \"(2A) The Minister may, by order published in the Gazette, exempt absolutely or subject to such conditions as may be prescribed, the requirement of a licence under this section in respect of any low power radiocommunication apparatus, or any class thereof.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "37A. immediately after section 37, the following new section 37A: \"Subscnbers 37A. (1) In granting a licence under section to specific 37, the Minister may, in certain specific services included services, license an operator of a radio- in licence. communication network to include any apparatus used by a subscriber to radiocommunication network, and may impose payment of such fees as may be necessary reflecting the number of subscribers. (2) Where a licence is granted to an operator of a radiocommunication network which includes any apparatus used by a subscriber to that radiocommunication network, any person subscribing to the specific services of that radiocommunication network shall be deemed to have been duly licensed and shall not be required to be licensed separately under this Act or any regulation made thereunder. (3) For the purpose of this section— \"radiocommunication network\" means any system or series of systems for carrying out communications by means of radio or Hertzian waves; and \"specific services\" means those specific services prescribed by the Minister by order published in the Gazette\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 38 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by inserting immediately after the words \"television broadcast receiver\" appearing at the end of the proviso thereto the words \"except where the television broadcast receiver forms part of a television receive only station\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting immediately after subsection (5), the following new subsection (6): \"(6) In any proceedings under this Act, any document purporting to be a certificate given by an authorized telecommunication officer certifying that a particular apparatus is a radiocommunication apparatus shall be admissible as prima facie evidence of the facts stated therein until the contrary is proved.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 40 of the principal Act is amended in"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting immediately after paragraph (f) the following new paragraph (fa); \"(fa) prohibiting or regulaling the working or using of any radiocommunication apparatus in any premises in Malaysia;\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting immediately after paragraph (ja) the following new paragraph (jb)\\ \"(jb) giving effect to international agree- ments, conventions or treaties relating to radiocommunication to which Malaysia is a party;\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 43 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for the words \"one thousand and five hundred ringgit\" the words \"fifty thousand ringgit\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/31/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "44A. immediately after section 44, the following new section 44 A: \"Powersof 44A. (1) An authorized telecommunication tionmma officer may, at any time during office hours, where there are reasonable grounds to believe that there is at any telecommunication plant or radiocommunication station, any interference- causing equipment, radio apparatus or radio- sensitive equipment, enter such place and— (a) examine any interference-causing equipment, radio apparatus or radio- sensitive equipment found therein; and (b) examine any books, log books, reports, test data, records, shipping bills, bills of lading or other documents or papers found therein that the officer reasonably beJieves contain information relevant for the purposes of this Act, and may make copies thereof or take extracts therefrom. (2) Where an examination indicates that there is any interference-causing equipment, radio apparatus or radio-sensitive equipment, the Director-Genera! may direct that such necessary steps shall be taken to ensure an interference-free environment.\"."
+      }
+    }
+  ]
+}

@@ -4,27 +4,33 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Interpretation 3. Appointment of Price Controller, Deputy Price Controller, Assistant Price Controller, etc.
 
-## Part II
+## PART II
 
 ## DETERMINATION OF PRICES AND CHARGES
 
-4. Power of the Controller to determine prices of goods 5. Power of the Controller to determine charges for services 6. Power of the Controller to determine prices or charges according to area 7. Power of the Controller to determine the amount of deposit 8. Prices determined to include tax 9. Seller to display list of prices 10. Price marking orders
+4. Power of the Controller to determine prices of goods 5. Power of the Controller to determine charges for services 6. Power of the Controller to determine prices or charges according to area 7. Power of the Controller to determine the amount of deposit 8. Prices determined to include tax 9. Seller to display list of prices
 
-## Part III
+10. Price marking orders
+
+## PART III
 
 ## OFFENCES
 
-11. Offence to sell price-controlled goods, provide charge-controlled services, etc., otherwise than in accordance with prices or charges determined 12. Offence to purchase price-controlled goods or obtain charge-controlled services, etc., otherwise than in accordance with prices or charges determined 13. Illegal conditions
+11. Offence to sell price-controlled goods, provide charge-controlled services, etc., otherwise than in accordance with prices or charges determined
+
+12. Offence to purchase price-controlled goods or obtain charge-controlled services, etc., otherwise than in accordance with prices or charges determined
+
+13. Illegal conditions
 
 <!-- page 2 -->
 
-## Part IV
+## PART IV
 
 ## ANTI-PROFITEERING
 
@@ -36,13 +42,13 @@
 
 17. Offer to supply
 
-## Part V
+## PART V
 
 ## PENALTY
 
 18. Penalty
 
-## Part VI
+## PART VI
 
 ## INVESTIGATION AND ENFORCEMENT
 
@@ -76,13 +82,63 @@ Information Gathering Powers
 
 ## Chapter 3
 
-Powers of Search and Seizure 28. Access to places or premises 29. Power to enter into premises with search warrant 30. Power of entry and search and seizure without a warrant 31. Access to recorded information, computerized data, etc. 32. Tipping-off 33. Warrant admissible notwithstanding defects 34. List of things seized 35. Forfeiture of goods 36. Release of things seized 37. Seizure of perishable goods 38. No cost or damages arising from seizure to be recoverable 39. Obstruction 40. Power of investigation by police officer
+Powers of Search and Seizure
 
-## Part VII
+28. Access to places or premises
+
+29. Power to enter into premises with search warrant
+
+30. Power of entry and search and seizure without a warrant
+
+31. Access to recorded information, computerized data, etc.
+
+32. Tipping-off
+
+33. Warrant admissible notwithstanding defects
+
+34. List of things seized
+
+35. Forfeiture of goods
+
+36. Release of things seized
+
+37. Seizure of perishable goods
+
+38. No cost or damages arising from seizure to be recoverable
+
+39. Obstruction
+
+40. Power of investigation by police officer
+
+## PART VII
 
 ## PRICE ADVISORY COUNCIL
 
-41. Price Advisory Council 42. Membership of Council 43. Temporary exercise of functions of Chairman 44. Vacation of office 45. Revocation of appointment 46. Resignation 47. Filling of vacancy 48. Secretary to Council and other officers 49. Allowances 50. Meetings 51. Council may invite others to meetings 52. Validity of acts and proceedings 53. Regulations relating to the Council
+41. Price Advisory Council
+
+42. Membership of Council
+
+43. Temporary exercise of functions of Chairman
+
+44. Vacation of office
+
+45. Revocation of appointment
+
+46. Resignation
+
+47. Filling of vacancy
+
+48. Secretary to Council and other officers
+
+49. Allowances
+
+50. Meetings
+
+51. Council may invite others to meetings
+
+52. Validity of acts and proceedings
+
+53. Regulations relating to the Council
 
 <!-- page 4 -->
 
@@ -120,7 +176,7 @@ An Act to control prices of goods and charges for services and to prohibit profi
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -196,7 +252,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (7) All officers appointed under this section shall be deemed to be public servants within the meaning of the Penal Code [Act 574].
 
-## Part II
+## PART II
 
 ## DETERMINATION OF PRICES AND CHARGES
 
@@ -242,7 +298,9 @@ which may include charges for any service in relation to the supply, delivery, r
 
 9. (1) Any person who offers to sell any price-controlled goods or offers to supply any charge-controlled services shall display a list of the prices of the price-controlled goods or the charges for the charge-controlled services in a conspicuous position easily read by any person intending to purchase such goods or services.
 
-(2) Notwithstanding subsection (1), if it is not practicable to display the list of prices or charges as required under subsection (1), the list of prices or charges shall be displayed in the manner as determined by the Controller.
+(2) Notwithstanding subsection (1), if it is not practicable to display the list of prices or charges as required under subsection
+
+(1), the list of prices or charges shall be displayed in the manner as determined by the Controller.
 
 (3) Any person who fails to comply with subsection (1) or (2) commits an offence.
 
@@ -254,7 +312,7 @@ which may include charges for any service in relation to the supply, delivery, r
 
 (2) The Minister may prescribe a penalty of a fine not exceeding one hundred thousand ringgit for the contravention of or failure to comply with the provision of the order.
 
-## Part III
+## PART III
 
 ## OFFENCES
 
@@ -290,9 +348,9 @@ which may include charges for any service in relation to the supply, delivery, r
 
 commits an offence.
 
-## Part IV
+## PART IV
 
-aNtI-PrOFItEErING
+## ANTI-PROFITEERING
 
 ### Offence to profiteer
 
@@ -334,9 +392,9 @@ shall be deemed to offer or supply them.
 
 <!-- page 13 -->
 
-## Part V
+## PART V
 
-PENaLtY
+## PENALTY
 
 ### Penalty
 
@@ -346,7 +404,7 @@ PENaLtY
 
 (b) where such person is not a body corporate, to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding three years or to both and, for a second or subsequent offence, to a fine not exceeding two hundred and fifty thousand ringgit or to imprisonment for a term not exceeding five years or to both.
 
-## Part VI
+## PART VI
 
 ## INVESTIGATION AND ENFORCEMENT
 
@@ -404,7 +462,9 @@ Information Gathering Powers
 
 (b) identify, to the best of his knowledge and belief, the last person who had custody of the document and where that last-mentioned person may be found.
 
-(4) Any person directed to provide information under subsection (2) or (3) shall ensure that the information provided is true, accurate and complete and such person shall provide an express representation to that effect, including a declaration that he is not aware of any other information which would make the information provided untrue or misleading.
+(4) Any person directed to provide information under subsection
+
+(2) or (3) shall ensure that the information provided is true, accurate and complete and such person shall provide an express representation to that effect, including a declaration that he is not aware of any other information which would make the information provided untrue or misleading.
 
 (5) Any person who refuses or fails to comply with the direction made by the Assistant Controller under this section commits an offence.
 
@@ -500,7 +560,9 @@ Powers of Search and Seizure
 
 (2) Without affecting the generality of subsection (1), the warrant issued by the Magistrate may authorize the search and seizure of any book, record, accounts, document, computerized data, goods or thing which contains or is reasonably suspected to contain information as to any offence suspected to have been committed or is otherwise necessary to conduct an investigation into any offence.
 
-(3) The Assistant Controller conducting a search under subsection (1) may, for the purpose of investigating into the offence, search any person who is in or on the premises.
+(3) The Assistant Controller conducting a search under subsection
+
+(1) may, for the purpose of investigating into the offence, search any person who is in or on the premises.
 
 (4) The Assistant Controller making a search of a person under subsection (3) may seize, or take possession of, and place in safe custody all things other than the necessary clothing found upon the person, and any other things, for which there is reason to believe are the instruments or evidence of the offence, and such things may be detained until the order by the court for its disposal.
 
@@ -626,7 +688,7 @@ commits an offence.
 
 40. Any Assistant Controller investigating any commission of an offence under this Act, may exercise all or any of the powers in relation to police investigation in seizable cases given by the Criminal Procedure Code [Act 593].
 
-## Part VII
+## PART VII
 
 ## PRICE ADVISORY COUNCIL
 
@@ -744,7 +806,7 @@ commits an offence.
 
 53. The Minister may make such regulations as he thinks necessary or expedient in respect of this Part.
 
-## Part VIII
+## PART VIII
 
 ## GENERAL
 
@@ -842,7 +904,7 @@ commits an offence.
 
 The Price Control and Anti-Profiteering Bill 2010 (“the Bill”) is enacted to reform the law on price control and to enact provisions relating to prohibition on profiteering. The purpose of the Bill is to enable the Government to determine prices of goods or charges for services and at the same time to curb profiteering activities, thereby protecting the interest of consumers.
 
-## Part I
+## PART I
 
 2. Part I deals with preliminary matters.
 
@@ -852,7 +914,7 @@ The Price Control and Anti-Profiteering Bill 2010 (“the Bill”) is enacted to
 
 5. Clause 3 provides for the appointment of a Price Controller, such number of Deputy Price Controllers and Assistant Price Controllers by the Minister to implement and enforce the provisions under the proposed Act.
 
-## Part II
+## PART II
 
 6. Part II contains provisions on the determination of prices of goods and charges for services.
 
@@ -872,7 +934,7 @@ The Price Control and Anti-Profiteering Bill 2010 (“the Bill”) is enacted to
 
 13. Clause 10 seeks to provide for the power of the Minister to make price marking orders relating to information about the goods or services supplied.
 
-## Part III
+## PART III
 
 14. Part III provides for offences under the proposed Act.
 
@@ -882,7 +944,7 @@ The Price Control and Anti-Profiteering Bill 2010 (“the Bill”) is enacted to
 
 17. Clause 13 provides for the offence of imposing illegal conditions in the selling or providing of any price-controlled goods or charge-controlled services.
 
-## Part IV
+## PART IV
 
 18. Part IV deals with provisions relating to the prohibition on profiteering activities.
 
@@ -896,13 +958,13 @@ The Price Control and Anti-Profiteering Bill 2010 (“the Bill”) is enacted to
 
 22. Clause 17 provides a deeming provision on offer to supply goods or services.
 
-## Part V
+## PART V
 
 23. Part V provides for the penalty for offences.
 
 24. Clause 18 provides for the penalty for offences under Parts III and IV.
 
-## Part VI
+## PART VI
 
 25. Part VI seeks to provide for the powers of the Assistant Controller in respect of investigation and enforcement.
 
@@ -950,7 +1012,7 @@ The Price Control and Anti-Profiteering Bill 2010 (“the Bill”) is enacted to
 
 46. Clause 40 seeks to provide the Assistant Controller with all the powers of investigation in seizable cases given by the Criminal Procedure Code.
 
-## Part VII
+## PART VII
 
 47. Part VII deals with the Price Advisory Council.
 

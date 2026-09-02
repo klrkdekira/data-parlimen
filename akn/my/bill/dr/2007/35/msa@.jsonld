@@ -45,9 +45,13 @@
       "eli:number": "1",
       "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/msa@/~cl_1__subsec_2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "( 1 ) Akta ini bolehlah dinamakan Akta Takaful (Pindaan)"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "( 1 ) Akta ini bolehlah dinamakan Akta Takaful (Pindaan) 2007."
+        "@value": "2007."
       }
     },
     {
@@ -104,7 +108,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/msa@/~cl_2",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan takrif ' \"pengendali takaful\", \"ejen takaful\" dan \"broker takaful\" ' dengan takrif yang berikut: \"pengendali takaful\", \"pengendali antarabangsa\", \"ejen takaful\" dan \"broker takaful\" ertinya seseorang yang menjalankan perniagaan takaful masing- masing sebagai pengendali takaful, pengendali takaful antarabangsa, ejen takaful dan broker takaful;';"
+        "@value": "dengan menggantikan takrif ' \"pengendali takaful\", \"ejen takaful\" dan \"broker takaful\" ' dengan takrif yang berikut: \"pengendali takaful\", \"pengendali takaful antarabangsa\", \"ejen takaful\" dan \"broker takaful\" ertinya seseorang yang menjalankan perniagaan takaful masing- masing sebagai pengendali takaful, pengendali takaful antarabangsa, ejen takaful dan broker takaful;';"
       }
     },
     {

@@ -27,7 +27,8 @@
       "hasPart": [
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/19/msa@/~cl_1",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/19/msa@/~cl_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/19/msa@/~cl_3"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/19/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/19/msa@/~cl_4"
       ],
       "schema:name": {
         "@language": "ms",
@@ -52,7 +53,6 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/19/msa@/~cl_2",
       "@type": "akn:clause",
       "eli:number": "2",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/19/msa@/~cl_2__subsec_2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/19/msa@",
       "schema:name": {
         "@language": "ms",
@@ -60,17 +60,7 @@
       },
       "schema:text": {
         "@language": "ms",
-        "@value": "Awam) 1965, yang disebut \"Akta ibu\" dalam Akta ini, adalah dipinda dengan menggantikan perkataan- perkataan \"only to the States of West\" dalam subseksyen"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/19/msa@/~cl_2__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/19/msa@/~cl_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dengan perkataan \"throughout\"."
+        "@value": "Awam) 1965, yang disebut \"Akta ibu\" dalam Akta ini, adalah dipinda dengan menggantikan perkataan- perkataan \"only to the States of West\" dalam subseksyen (2) dengan perkataan \"throughout\"."
       }
     },
     {
@@ -104,7 +94,21 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/19/msa@/~cl_3",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan subseksyen (2) dengan subseksyen (2) baru yang berikut: '(2) In this section— \"racing club\" means a racing club which is a member of the Malayan Racing Association or a successor thereof; and \"sweepstakes\" means any sweepstake promoted on the result of a horse race.'. Perluasan 4. Akta ibu sebagaimana dipinda oleh seksyen 2 dan 3 Akta ke adalah diperluaskan ke Negeri-Negeri Sabah dan Sabah, Sarawak Sarawak dan Wilayah Persekutuan Labuan. dan Labuan."
+        "@value": "dengan menggantikan subseksyen (2) dengan subseksyen (2) baru yang berikut: '(2) In this section— \"racing club\" means a racing club which is a member of the Malayan Racing Association or a successor thereof; and \"sweepstakes\" means any sweepstake promoted on the result of a horse race.'."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/19/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/19/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu sebagaimana dipinda oleh seksyen 2 dan 3"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "adalah diperluaskan ke Negeri-Negeri Sabah dan Sarawak dan Wilayah Persekutuan Labuan."
       }
     }
   ]

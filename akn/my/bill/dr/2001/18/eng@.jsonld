@@ -116,56 +116,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_4",
       "@type": "akn:clause",
       "eli:number": "4",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_4__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_4__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_4__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_4__subsec_3"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "The principal Act is amended by substituting for section 44 the following section: \" Remit- 44. (1) In addition to section 43, an employer or any tance of other person may at any time, with the consent of the funds in connection employee, remit to the Board— with retirement."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_4__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_4",
-      "schema:text": {
-        "@language": "en",
-        "@value": "any funds being retirement benefits of the employee; or"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_4__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_4",
-      "schema:text": {
-        "@language": "en",
-        "@value": "any funds from any other retirement scheme or plan relating to the employee, in any manner as may be prescribed by the Board."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_4__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_4",
-      "schema:text": {
-        "@language": "en",
-        "@value": "An employee or any other person may at any time remit to the Board any funds from any retirement scheme or plan relating to the employee or person in any manner as may be prescribed by the Board."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_4__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_4",
-      "schema:text": {
-        "@language": "en",
-        "@value": "Upon the Board receiving the funds as remitted under subsection (1) or (2), the Board shall cause the funds to be paid into the Fund in accordance with section 50.\". Amendment of section 54"
+        "@value": "The principal Act is amended by substituting for section 44 the following section: \" Remit- 44. (1) In addition to section 43, an employer or any tance of other person may at any time, with the consent of the funds in connection employee, remit to the Board— with retirement. (a) any funds being retirement benefits of the employee; or (b) any funds from any other retirement scheme or plan relating to the employee, in any manner as may be prescribed by the Board. (2) An employee or any other person may at any time remit to the Board any funds from any retirement scheme or plan relating to the employee or person in any manner as may be prescribed by the Board. (3) Upon the Board receiving the funds as remitted under subsection (1) or (2), the Board shall cause the funds to be paid into the Fund in accordance with section 50.\". Amendment of section 54"
       }
     },
     {
@@ -250,7 +204,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_5",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (6)— \"(ba) the member of the Fund has sold the house that was purchased or built using a withdrawal under paragraph (b) and subsequently has purchased or built another house;\"; \"(da) the member of the Fund has sold the house charged as security for the loan under paragraph (d) and has subsequently purchased or built another house and has taken another loan and the new house has been charged as security for the other loan;\"; \"(g) the member of the Fund requires financing for higher learning for himself or for his child;\"; and"
+        "@value": "in subsection (6)—"
       }
     },
     {
@@ -260,7 +214,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_5__para_e",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after paragraph (b) the following paragraph:"
+        "@value": "by inserting after paragraph (b) the following paragraph: \"(ba) the member of the Fund has sold the house that was purchased or built using a withdrawal under paragraph (b) and subsequently has purchased or built another house;\";"
       }
     },
     {
@@ -270,7 +224,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_5__para_e",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after paragraph (d) the following paragraph:"
+        "@value": "by inserting after paragraph (d) the following paragraph: \"(da) the member of the Fund has sold the house charged as security for the loan under paragraph (d) and has subsequently purchased or built another house and has taken another loan and the new house has been charged as security for the other loan;\";"
       }
     },
     {
@@ -280,7 +234,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_5__para_e",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for paragraph (g) the following paragraph:"
+        "@value": "by substituting for paragraph (g) the following paragraph: \"(g) the member of the Fund requires financing for higher learning for himself or for his child;\"; and"
       }
     },
     {
@@ -313,9 +267,13 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_6__subsec_4"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 54B \""
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "The principal Act is amended by inserting after section 54B \" Withdrawal 54c. (1) Subject to section 56, the Board may authorize by a member of the Fund who is a pensionable employee pensionable employees. and who has not attained the age of fifty-five years and is still employed with the Government of Malaysia, any State Government or any statutory or local authority to withdraw all sums of money standing to his credit upon such terms and conditions as may be prescribed by the Board."
+        "@value": "54c. (1) Subject to section 56, the Board may authorize a member of the Fund who is a pensionable employee and who has not attained the age of fifty-five years and is still employed with the Government of Malaysia, any State Government or any statutory or local authority to withdraw all sums of money standing to his credit upon such terms and conditions as may be prescribed by the Board."
       }
     },
     {
@@ -325,7 +283,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_6",
       "schema:text": {
         "@language": "en",
-        "@value": "Notwithstanding subsection (1), the Board may authorize a member of the Fund who is a pensionable employee and who has not attained the age of fifty-five years to withdraw all or part of the sums of money standing to his credit upon any terms and conditions as may be prescribed by the Board if the Board is satisfied that the member of the Fund has been required to retire or has opted for retirement under sections 10, 11, 12 and 12A Act 227 of the Pensions Act 1980 or sections 10, 11, 12 and 13 Act 239. of the Statutory and Local Authorities Pensions Act 1980."
+        "@value": "Notwithstanding subsection (1), the Board may authorize a member of the Fund who is a pensionable employee and who has not attained the age of fifty-five years to withdraw all or part of the sums of money standing to his credit upon any terms and conditions as may be prescribed by the Board if the Board is satisfied that the member of the Fund has been required to retire or has opted for retirement under sections 10, 11, 12 and 12A of the Pensions Act 1980 or sections 10, 11, 12 and 13 of the Statutory and Local Authorities Pensions Act 1980."
       }
     },
     {

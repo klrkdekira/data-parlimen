@@ -10,27 +10,13 @@
 
 ## PRELIMINARY
 
-1. Short title and commencement.
-
-2. Interpretation.
+1. Short title and commencement. 2. Interpretation.
 
 ## PART II
 
 ## ESTABLISHMENT OF THE INLAND REVENUE BOARD
 
-3. Establishment of the Inland Revenue Board.
-
-4. Vesting provisions.
-
-5. Common seal.
-
-6. Membership of the Board.
-
-7. Terms of office.
-
-8. Disqualification of member.
-
-9. Revocation and resignation of member.
+3. Establishment of the Inland Revenue Board. 4. Vesting provisions. 5. Common seal. 6. Membership of the Board. 7. Terms of office. 8. Disqualification of member. 9. Revocation and resignation of member.
 
 ## PART III
 
@@ -62,19 +48,45 @@ IV
 
 <!-- page 2 -->
 
-19. Continuation and completion of disciplinary proceedings. 20. Imposition of surcharge. 21. Protection from personal liability. 22. Public servants.
+19. Continuation and completion of disciplinary proceedings.
+
+20. Imposition of surcharge.
+
+21. Protection from personal liability.
+
+22. Public servants.
 
 ## PART V
 
 ## FINANCIAL PROVISIONS
 
-23. Fund of the Board. 24. Expenditure and preparation of estimates. 25. Power to borrow. 26. Grants. 27. Bank accounts and application of revenue. 28. Investment.
+23. Fund of the Board.
+
+24. Expenditure and preparation of estimates.
+
+25. Power to borrow.
+
+26. Grants.
+
+27. Bank accounts and application of revenue.
+
+28. Investment.
 
 ## PART VI
 
 ## GENERAL
 
-29. No proceedings against the Board as agent of Government. 30. Proceedings conducted by officers of the Board. 31. Obligation of secrecy. 32. Statutory Bodies (Accounts and Annual Reports) Act 1980. 33. Power of Minister to amend the Second and Third Schedules. 34. Regulations.
+29. No proceedings against the Board as agent of Government.
+
+30. Proceedings conducted by officers of the Board.
+
+31. Obligation of secrecy.
+
+32. Statutory Bodies (Accounts and Annual Reports) Act 1980.
+
+33. Power of Minister to amend the Second and Third Schedules.
+
+34. Regulations.
 
 ## SCHEDULES.
 
@@ -144,9 +156,23 @@ Tax Act 1967;
 
 ## ESTABLISHMENT OF THE INLAND REVENUE BOARD
 
-Establish-
+<!-- marginal: Establish- -->
 
-3. There is hereby established a body corporate by the ment of the name "Inland Revenue Board of Malaysia" with Inland Revenue perpetual succession and a common seal, and which may Board. sue and be sued in its name and, subject to and for the purposes of this Act, may enter into contracts and may acquire, purchase, take, hold and enjoy movable and immovable property of every description and may convey, assign, surrender, yield up, charge, mortgage, demise, reassign, transfer or otherwise dispose of, or deal with, any movable or immovable property or any interest therein vested in the Board upon such terms as it deems fit.
+3. There is hereby established a body corporate by the
+
+<!-- marginal: ment of the -->
+
+name "Inland Revenue Board of Malaysia" with
+
+<!-- marginal: Inland -->
+
+<!-- marginal: Revenue -->
+
+perpetual succession and a common seal, and which may
+
+<!-- marginal: Board. -->
+
+sue and be sued in its name and, subject to and for the purposes of this Act, may enter into contracts and may acquire, purchase, take, hold and enjoy movable and immovable property of every description and may convey, assign, surrender, yield up, charge, mortgage, demise, reassign, transfer or otherwise dispose of, or deal with, any movable or immovable property or any interest therein vested in the Board upon such terms as it deems fit.
 
 <!-- page 5 -->
 
@@ -174,9 +200,13 @@ to time, by order published in the Gazette, appoint a vesting date and on such d
 
 the Government of Malaysia was a party immediately before the vesting date, whether in writing or not, and whether or not of such a nature that rights and liabilities thereunder could be assigned by the Government of Malaysia, shall have effect as if the Board has been a party to the agreement.
 
-Common
+<!-- marginal: Common -->
 
-5. (1) The common seal of the Board shall bear such seal. device as the Board may approve and such seal may from time to time be broken, changed, altered and made anew by the Board as it may think fit.
+5. (1) The common seal of the Board shall bear such
+
+<!-- marginal: seal. -->
+
+device as the Board may approve and such seal may from time to time be broken, changed, altered and made anew by the Board as it may think fit.
 
 (2) The common seal shall be kept in the custody of the Chairman and shall be authenticated by any two members generally or specially authorised by the Board for the purpose or by one member and the Chairman.
 
@@ -184,9 +214,13 @@ Common
 
 (4) The common seal of the Board shall be officially and judicially noticed.
 
-Membership
+<!-- marginal: Membership -->
 
-6. The Board shall consist of the following members of the Board. who shall be appointed by the Minister:
+6. The Board shall consist of the following members
+
+<!-- marginal: of the Board. -->
+
+who shall be appointed by the Minister:
 
 (a) the Chairman, who shall be an Executive Chairman;
 
@@ -274,11 +308,17 @@ Government and the Board;
 
 (d) to perform such other functions as are conferred on the Board by any other written law.
 
-Powers of
+<!-- marginal: Powers of -->
 
-11. (1) The Board shall have power to do all things the Board. necessary or convenient to be done for or in connection with the performance of its functions.
+11. (1) The Board shall have power to do all things
 
-(2) Without prejudice to the generality of subsection (1), the powers of the Board shall include power—
+<!-- marginal: the Board. -->
+
+necessary or convenient to be done for or in connection with the performance of its functions.
+
+(2) Without prejudice to the generality of subsection
+
+(1), the powers of the Board shall include power—
 
 (a) to enter into contracts;
 
@@ -344,9 +384,27 @@ established under section 12 such of its functions as it may deem necessary or d
 
 (3) No delegation made under this section shall preclude the Board itself from exercising or performing at any time any of the functions so delegated.
 
-Power of
+<!-- marginal: Power of -->
 
-14. (1) The Minister may give to the Board such Minister to directions of a general character not inconsistent with give directions this Act relating to the performance of the Board's and require functions and the Board shall give effect to all such information. directions.
+14. (1) The Minister may give to the Board such
+
+<!-- marginal: Minister to -->
+
+directions of a general character not inconsistent with
+
+<!-- marginal: give -->
+
+<!-- marginal: directions -->
+
+this Act relating to the performance of the Board's
+
+<!-- marginal: and require -->
+
+functions and the Board shall give effect to all such
+
+<!-- marginal: information. -->
+
+directions.
 
 (2) The Board shall furnish the Minister with such returns, accounts and other information as he may, from time to time, require.
 
@@ -356,9 +414,13 @@ IV
 
 ## PROVISIONS RELATING TO EMPLOYEES
 
-Employ-
+<!-- marginal: Employ- -->
 
-15. (1) The Board shall on the appointed day accept ment. into its employment every person who immediately before that date is in the employment or service of the Inland Revenue Department, Malaysia, and who was given an option by the Government of Malaysia and has opted to serve as an employee of the Board.
+15. (1) The Board shall on the appointed day accept
+
+<!-- marginal: ment. -->
+
+into its employment every person who immediately before that date is in the employment or service of the Inland Revenue Department, Malaysia, and who was given an option by the Government of Malaysia and has opted to serve as an employee of the Board.
 
 (2) Every such person who opts under subsection (1) to serve as an employee of the Board shall be employed by the Board on terms and conditions of service not less favourable than the terms and conditions of service to which he was entitled to immediately before the date mentioned in subsection (1).
 
@@ -416,9 +478,17 @@ be necessary for carrying out the purposes of this Act.
 
 <!-- page 12 -->
 
-Regulations
+<!-- marginal: Regulations -->
 
-18. (1) The Board may, from time to time, with the with respect approval of the Minister make regulations with respect to discipline. to the discipline of its employees.
+18. (1) The Board may, from time to time, with the
+
+<!-- marginal: with respect -->
+
+approval of the Minister make regulations with respect
+
+<!-- marginal: to discipline. -->
+
+to the discipline of its employees.
 
 (2) The regulations made under this section may include provisions for—
 
@@ -432,9 +502,23 @@ of an employee of the Board during the pendency of disciplinary proceedings agai
 
 (4) The regulations made under this section, may in prescribing the procedure for disciplinary proceedings, provide for an opportunity for representations to be made by the person against whom the disciplinary proceedings are taken before a decision is arrived at by the Board on the disciplinary charge laid against such person.
 
-Continuation
+<!-- marginal: Continuation -->
 
-19. (1) Where on the appointed day any disciplinary and comple- proceedings is pending or existing against any employee tion of disciplinary of the Government who has opted into the service of the proceedings. Board, such proceedings shall be continued and completed by the Board.
+19. (1) Where on the appointed day any disciplinary
+
+<!-- marginal: and comple- -->
+
+proceedings is pending or existing against any employee
+
+<!-- marginal: tion of -->
+
+<!-- marginal: disciplinary -->
+
+of the Government who has opted into the service of the
+
+<!-- marginal: proceedings. -->
+
+Board, such proceedings shall be continued and completed by the Board.
 
 (2) An order, ruling or direction made or given by a committee pursuant to this section shall be treated as an order, ruling or direction of the Board and have the same force or effect as if it had been made or given by the Board pursuant to the authority vested in the Board under this Act.
 
@@ -476,21 +560,47 @@ and if a satisfactory explanation is not furnished to the Board within a period 
 
 by equal monthly instalments not exceeding one-fourth of the total monthly salary or pension, as the case may be, of the person.
 
-Protec- tion
+<!-- marginal: Protec- -->
 
-21. No suit or other legal proceedings shall lie from personally against any member, officer or employee of personal liability. the Board or any other person under the direction of the Board for anything which is done in good faith or intended to be done in the execution or purported execution of this Act.
+<!-- marginal: tion -->
 
-Public
+21. No suit or other legal proceedings shall lie
 
-22. All members of the Board and its committee and servants. all officers, employees or agents of the Board shall be deemed to be public servants within the meaning of the FM.S, Penal Code. Cap. 45.
+<!-- marginal: from -->
+
+personally against any member, officer or employee of
+
+<!-- marginal: personal -->
+
+<!-- marginal: liability. -->
+
+the Board or any other person under the direction of the Board for anything which is done in good faith or intended to be done in the execution or purported execution of this Act.
+
+<!-- marginal: Public -->
+
+22. All members of the Board and its committee and
+
+<!-- marginal: servants. -->
+
+all officers, employees or agents of the Board shall be deemed to be public servants within the meaning of the
+
+<!-- marginal: FM.S, -->
+
+Penal Code.
+
+<!-- marginal: Cap. 45. -->
 
 ## PART V
 
 ## FINANCIAL PROVISIONS
 
-Fund of the
+<!-- marginal: Fund of the -->
 
-23. (1) There shall be established, for the purposes of Board. this Act, a Fund to be administered and controlled by the Board.
+23. (1) There shall be established, for the purposes of
+
+<!-- marginal: Board. -->
+
+this Act, a Fund to be administered and controlled by the Board.
 
 (2) The Fund of the Board shall consist of—
 
@@ -558,15 +668,27 @@ far as practicable by cheque signed by such person or persons as may, from time 
 
 (2) The moneys of the Board shall be applied only in payment of discharge of the expenses, obligations and liabilities of the Board and in making any payment that the Board is authorised or required to make.
 
-Investment.
+<!-- marginal: Investment. -->
 
 28. The Board may, with the approval of the Minister, invest any of its funds available for investment in the following manner:
 
-(a) by depositing in— (i) Bank Negara Malaysia; (ii) banks duly licensed under the Banking Act 372. and Financial Institutions Act 1989; or (iii) any other financial institution duly licensed under the Banking and Financial Institutions Act 1989;
+(a) by depositing in— (i) Bank Negara Malaysia; (ii) banks duly licensed under the Banking
 
-(b) by investing in bonds, mortgage papers, commercial notes, banker's acceptances, money market papers, certificates of deposits and promissory notes and bills of exchange within the meaning of the Bills of Exchange Act 204. Act 1949;
+<!-- marginal: Act 372. -->
 
-(c) by investing in accordance with the provisions Act 208. of the Trustee Act 1949:
+and Financial Institutions Act 1989; or (iii) any other financial institution duly licensed under the Banking and Financial Institutions Act 1989;
+
+(b) by investing in bonds, mortgage papers, commercial notes, banker's acceptances, money market papers, certificates of deposits and promissory notes and bills of exchange within the meaning of the Bills of Exchange
+
+<!-- marginal: Act 204. -->
+
+Act 1949;
+
+(c) by investing in accordance with the provisions
+
+<!-- marginal: Act 208. -->
+
+of the Trustee Act 1949:
 
 Provided however, where the Board invests in or upon titles to immovable property in Malaysia in accordance with paragraph 4(1)(c) of the Trustee Act 1949, such immovable property may or may not yield any income at the time of such investment.
 
@@ -574,9 +696,25 @@ Provided however, where the Board invests in or upon titles to immovable propert
 
 ## GENERAL
 
-No pro-
+<!-- marginal: No pro- -->
 
-29. (1) No action or legal proceedings shall be brought ceedings against the Board in respect of any matter relating to against the Board as any tax for which the Board is acting as agent of the agent of Government. Government.
+29. (1) No action or legal proceedings shall be brought
+
+<!-- marginal: ceedings -->
+
+against the Board in respect of any matter relating to
+
+<!-- marginal: against the -->
+
+<!-- marginal: Board as -->
+
+any tax for which the Board is acting as agent of the
+
+<!-- marginal: agent of -->
+
+Government.
+
+<!-- marginal: Government. -->
 
 <!-- page 17 -->
 
@@ -622,11 +760,47 @@ purpose of any civil or criminal proceedings under any written law, no member, o
 
 <!-- page 18 -->
 
-Statutory 32. The provisions of the Statutory Bodies (Accounts Bodies (Accounts and Annual Reports) Act 1980 shall apply to the Board. and Annual Reports) Act 1980. Act 240 Power of 33. The Minister may, by order published in the Minister to Gazette, amend the Second and Third Schedules. amend the Second and Third Schedules.
+<!-- marginal: Statutory -->
 
-Regulations. 34. (1) The Board may, with the approval of the Minister, make such regulations as may be expedient or necessary for carrying out the purposes of this Act.
+32. The provisions of the Statutory Bodies (Accounts
 
-(2) Without prejudice to the generality of subsection (1), the Board may make regulations for or with respect to all or any of the following matters:
+<!-- marginal: Bodies -->
+
+<!-- marginal: (Accounts -->
+
+and Annual Reports) Act 1980 shall apply to the Board.
+
+<!-- marginal: and Annual -->
+
+<!-- marginal: Reports) -->
+
+<!-- marginal: Act 1980. -->
+
+<!-- marginal: Act 240 -->
+
+<!-- marginal: Power of -->
+
+33. The Minister may, by order published in the
+
+<!-- marginal: Minister to -->
+
+Gazette, amend the Second and Third Schedules.
+
+<!-- marginal: amend the -->
+
+<!-- marginal: Second and -->
+
+<!-- marginal: Third -->
+
+<!-- marginal: Schedules. -->
+
+<!-- marginal: Regulations. -->
+
+34. (1) The Board may, with the approval of the Minister, make such regulations as may be expedient or necessary for carrying out the purposes of this Act.
+
+(2) Without prejudice to the generality of subsection
+
+(1), the Board may make regulations for or with respect to all or any of the following matters:
 
 (a) the manner of appointment, and the terms and conditions of service of the officers and employees of the Board;
 
@@ -640,9 +814,25 @@ Regulations. 34. (1) The Board may, with the approval of the Minister, make such
 
 ## PROCEEDINGS OF THE BOARD
 
-Meetings of 1. (1) The Board shall meet for the despatch of its business at Ihe Board. least once a month at such time and place as the Chairman may, from time to time, determine. (2) At every meeting of the Board, four members shall form a quorum. (3) A decision at a meeting of the Board shall be adopted by a simple majority of the members present and voting except that, in the case of an equality of votes, the Chairman shall have a casting vote in addition to his original vote.
+<!-- marginal: Meetings of -->
 
-Disclosure of 2. (1) A member of the Board who is in any way, directly or interesl by indirectly, having any interest in any transaction or project of the members Board shall disclose the nature of his interest at a meeting of the
+1. (1) The Board shall meet for the despatch of its business at
+
+<!-- marginal: Ihe Board. -->
+
+least once a month at such time and place as the Chairman may, from time to time, determine. (2) At every meeting of the Board, four members shall form a quorum. (3) A decision at a meeting of the Board shall be adopted by a simple majority of the members present and voting except that, in the case of an equality of votes, the Chairman shall have a casting vote in addition to his original vote.
+
+<!-- marginal: Disclosure of -->
+
+2. (1) A member of the Board who is in any way, directly or
+
+<!-- marginal: interesl by -->
+
+indirectly, having any interest in any transaction or project of the
+
+<!-- marginal: members -->
+
+Board shall disclose the nature of his interest at a meeting of the
 
 <!-- page 19 -->
 
@@ -706,25 +896,11 @@ out of the funds of the Board as the Minister may determine.
 
 ## SPECIFIED ACTS
 
-1. Income Tax Act 1967.
-
-2. Supplementary Income Tax Act 1967.
-
-3. Real Property Gains Tax Act 1976.
-
-4. Promotion of Investments Act 1986.
-
-5. Estate Duty Enactment 1941.
+1. Income Tax Act 1967. 2. Supplementary Income Tax Act 1967. 3. Real Property Gains Tax Act 1976. 4. Promotion of Investments Act 1986. 5. Estate Duty Enactment 1941.
 
 <!-- page 20 -->
 
-6. Stamp Act 1949.
-
-7. Petroleum (Income Tax) Act 1967.
-
-8. Cinematograph Film-Hire Duty Act 1965.
-
-9. Labuan Offshore Business Activity Tax Act 1990.
+6. Stamp Act 1949. 7. Petroleum (Income Tax) Act 1967. 8. Cinematograph Film-Hire Duty Act 1965. 9. Labuan Offshore Business Activity Tax Act 1990.
 
 10. Share (Land Based Company) Transfer Tax Act 1984.
 
@@ -742,23 +918,7 @@ out of the funds of the Board as the Minister may determine.
 
 ## SPECIFIED OFFICES
 
-1. The Director General of Inland Revenue under the Income Tax Act 1967.
-
-2. The Director General of Inland Revenue under the Supplementary Income Tax Act 1967.
-
-3. The Collector of Stamp Duties under the Stamp Act 1949.
-
-4. The Director General of Inland Revenue under the Estate Duty Enactment 1941.
-
-5. The Comptroller-General of Inland Revenue under the Petroleum (Income Tax) Act 1967.
-
-6. The Director General of Inland Revenue under the Cinematograph Film-Hire Duty Act 1965.
-
-7. The Director General of Inland Revenue under the Real Property Gains Tax Act 1976.
-
-8. The Director General of Inland Revenue under the Labuan Offshore Business Activity Tax Act 1990.
-
-9. The Director General of Inland Revenue under the Promotion of Investments Act 1986.
+1. The Director General of Inland Revenue under the Income Tax Act 1967. 2. The Director General of Inland Revenue under the Supplementary Income Tax Act 1967. 3. The Collector of Stamp Duties under the Stamp Act 1949. 4. The Director General of Inland Revenue under the Estate Duty Enactment 1941. 5. The Comptroller-General of Inland Revenue under the Petroleum (Income Tax) Act 1967. 6. The Director General of Inland Revenue under the Cinematograph Film-Hire Duty Act 1965. 7. The Director General of Inland Revenue under the Real Property Gains Tax Act 1976. 8. The Director General of Inland Revenue under the Labuan Offshore Business Activity Tax Act 1990. 9. The Director General of Inland Revenue under the Promotion of Investments Act 1986.
 
 10. The Director General of Inland Revenue under the Share (Land Based Company) Transfer Tax Act 1984.
 

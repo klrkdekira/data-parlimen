@@ -10,7 +10,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 Short title and commencement
 
-1. (1) This Act may be cited as the Gas Supply (Amendment) Act 2001.
+1. (1) This Act may be cited as the Gas Supply (Amendment) Act
+
+2001.
 
 (2) This Act shall come into operation on a date to be appointed by the Minister by notification in the Gazette and the Minister may appoint different dates for the coming into operation of this Act in different parts of Malaysia.
 

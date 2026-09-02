@@ -64,9 +64,7 @@
 
 ## PERUNTUKAN KEWANGAN
 
-18. Kumpulan Wang Pembangunan Industri Kecil dan Sederhana.
-
-19. Perbelanjaan yang hendaklah dipertanggungkan pada Kumpulan Wang.
+18. Kumpulan Wang Pembangunan Industri Kecil dan Sederhana. 19. Perbelanjaan yang hendaklah dipertanggungkan pada Kumpulan Wang.
 
 20. Pengimbangan akaun hasil.
 
@@ -152,21 +150,41 @@ hendaklah mula berkuatkuasa pada suatu tarikh sebagaimana yang ditetapkan oleh M
 
 "Perbadanan" ertinya Perbadanan Pembangunan Industri Kecil dan Sederhana yang ditubuhkan di bawah seksyen 3;
 
-"aktiviti pengilangan" hendaklah mempunyai erti yang Akta 156 diberikan kepadanya di bawah Akta Penyelarasan Perindustrian 1975;
+"aktiviti pengilangan" hendaklah mempunyai erti yang
 
-"syarikat" ertinya suatu syarikat yang ditubuhkan di Akta 125. bawah Akta Syarikat 1965 dan termasuk sesuatu perniagaan Akta 197. yang didaftar di bawah Akta Pendaftaran Perniagaan 1956.
+<!-- marginal: Akta 156 -->
+
+diberikan kepadanya di bawah Akta Penyelarasan Perindustrian 1975;
+
+"syarikat" ertinya suatu syarikat yang ditubuhkan di
+
+<!-- marginal: Akta 125. -->
+
+bawah Akta Syarikat 1965 dan termasuk sesuatu perniagaan
+
+<!-- marginal: Akta 197. -->
+
+yang didaftar di bawah Akta Pendaftaran Perniagaan 1956.
 
 ## BAHAGIAN II
 
 ## PERBADANAN
 
-Penubuhan
+<!-- marginal: Penubuhan -->
 
-3. Maka adalah dengan ini ditubuhkan suatu pertubuhan Perbadanan. yang dikenali sebagai "Perbadanan Pembangunan Industri Kecil dan Sederhana" yang kekal turun-temurun dan mempunyai suatu meterai biasa, yang boleh mendakwa dan didakwa atas nama perbadanannya dan, tertakluk kepada dan bagi maksud Akta ini, boleh membuat kontrak dan boleh memperolehi, membeli, mengambil, memegang dan menikmati apa-apa jenis harta alih dan harta tak alih dan boleh memindahkan, menyerahhakkan, menyerahkan balik, memulangkan, menggadaikan, menggadai-janji, mendemis, menyerahhakkan semula, memindahmilikkan atau dengan apa-apa cara lain meJupuskan, atau membuat apa-apa urusan mengenai, apa-apa harta alih atau harta tak alih atau apa-apa kepentingan di dalamnya yang terletakhak pada Perbadanan, mengikut apa-apa terma dan syarat sebagaimana yang difikirkannya patut.
+3. Maka adalah dengan ini ditubuhkan suatu pertubuhan
 
-Keanggotaan
+<!-- marginal: Perbadanan. -->
 
-4. (1) Perbadanan hendaklah terdiri daripada anggota Perbadanan. berikut:
+yang dikenali sebagai "Perbadanan Pembangunan Industri Kecil dan Sederhana" yang kekal turun-temurun dan mempunyai suatu meterai biasa, yang boleh mendakwa dan didakwa atas nama perbadanannya dan, tertakluk kepada dan bagi maksud Akta ini, boleh membuat kontrak dan boleh memperolehi, membeli, mengambil, memegang dan menikmati apa-apa jenis harta alih dan harta tak alih dan boleh memindahkan, menyerahhakkan, menyerahkan balik, memulangkan, menggadaikan, menggadai-janji, mendemis, menyerahhakkan semula, memindahmilikkan atau dengan apa-apa cara lain meJupuskan, atau membuat apa-apa urusan mengenai, apa-apa harta alih atau harta tak alih atau apa-apa kepentingan di dalamnya yang terletakhak pada Perbadanan, mengikut apa-apa terma dan syarat sebagaimana yang difikirkannya patut.
+
+<!-- marginal: Keanggotaan -->
+
+4. (1) Perbadanan hendaklah terdiri daripada anggota
+
+<!-- marginal: Perbadanan. -->
+
+berikut:
 
 (a) seorang Pengerusi;
 
@@ -238,17 +256,25 @@ sebab tidak dapat menjalankan fungsi-fungsinya atau semasa apa-apa tempoh kekoso
 
 dibuat, anggota yang dilantik di bawah perenggan 4(l) (b) hendaklah menjalankan fungsi Pengerusi dan disifatkan sebagai Pengerusi Perbadanan.
 
-Anggota
+<!-- marginal: Anggota -->
 
-8. (1) Menteri boleh, berkenaan dengan setiap anggota silih ganti. Perbadanan yang dilantik di bawah perenggan 4(1)(b), (c) dan (d), melantik seorang menjadi anggota silih ganti untuk menghadiri mesyuarat Perbadanan sebagai ganti anggota itu, sekiranya anggota itu tidak dapat hadir kerana apa-apa jua sebab.
+8. (1) Menteri boleh, berkenaan dengan setiap anggota
+
+<!-- marginal: silih ganti. -->
+
+Perbadanan yang dilantik di bawah perenggan 4(1)(b), (c) dan (d), melantik seorang menjadi anggota silih ganti untuk menghadiri mesyuarat Perbadanan sebagai ganti anggota itu, sekiranya anggota itu tidak dapat hadir kerana apa-apa jua sebab.
 
 (2) Apabila menghadiri mesyuarat Perbadanan, seseorang anggota silih ganti hendaklah bagi semua maksud disifatkan sebagai seorang anggota Perbadanan.
 
 (3) Seseorang anggota silih ganti hendaklah, melainkan jika dia meletakkan jawatan terlebih dahulu atau perlantikannya dibatalkan terlebih dahulu, terhenti daripada menjadi anggota silih ganti sekiranya anggota yang baginya dia menjadi anggota silih ganti terhenti daripada menjadi anggota Perbadanan.
 
-Pembatalan
+<!-- marginal: Pembatalan -->
 
-9. (1) Seseorang anggota Perbadanan hilang kelayakan perlantikan. dan perlantikannya sebagai anggota sedemikian hendaklah terbatal sekiranya—
+9. (1) Seseorang anggota Perbadanan hilang kelayakan
+
+<!-- marginal: perlantikan. -->
+
+dan perlantikannya sebagai anggota sedemikian hendaklah terbatal sekiranya—
 
 (a) telah dibuktikan terhadapnya, atau dia telah disabitkan atas, sesuatu pertuduhan berkenaan dengan—
 
@@ -316,9 +342,13 @@ III
 
 (j) untuk melakukan apa-apa jua perkara lain yang bersampingan dengan atau berbangkit daripada pelaksanaan fungsinya dari semasa ke semasa.
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-13. Perbadanan hendaklah mempunyai kuasa untuk Perbadanan. melaksanakan segala perkara yang semunasabahnya perlu, atau yang suaimanfaat bagi, atau yang bersampingan untuk pelaksanaan fungsinya di bawah Akta ini, dan khususnya, tetapi tanpa menjejaskan keluasan yang berikut:
+13. Perbadanan hendaklah mempunyai kuasa untuk
+
+<!-- marginal: Perbadanan. -->
+
+melaksanakan segala perkara yang semunasabahnya perlu, atau yang suaimanfaat bagi, atau yang bersampingan untuk pelaksanaan fungsinya di bawah Akta ini, dan khususnya, tetapi tanpa menjejaskan keluasan yang berikut:
 
 (a) untuk mengadakan dan menyelenggara pejabat cawangan dengan kelulusan Menteri;
 
@@ -372,15 +402,21 @@ sebagaimana yang ditentukan olehnya, kecuali kuasa untuk membuat peraturan-perat
 
 (2) Tanpa menyentuh keluasan subseksyen (1) dan peruntukan lain Akta ini, Perbadanan boleh mewakilkan sama ada kepada Pengerusi atau kepada Ketua Pegawai Eksekutif kuasa untuk membenarkan perbelanjaan daripada Kumpulan Wang atau mana-mana wang lain yang diletakhakkan pada atau yang di bawah kawalan Perbadanan sehingga had yang hendaklah dinyatakan oleh Perbadanan.
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-17. (1) Perbadanan boleh melantik jawatankuasa bagi melantik apa-apa maksud yang berbangkit daripada atau berkaitan jawatan- kuasa. dengan apa-apa fungsi dan kuasanya; mana-mana jawatankuasa yang dilantik hendaklah mengandungi sekurang-kurangnya seorang anggota Perbadanan dan bolehlah dilantik ke jawatankuasa itu, mana-mana orang lain yang difikirkan sesuai oleh Perbadanan.
+17. (1) Perbadanan boleh melantik jawatankuasa bagi
 
-(2) Jawatankuasa yang dilantik
+<!-- marginal: melantik -->
 
-<!-- marginal: hendaklah -->
+apa-apa maksud yang berbangkit daripada atau berkaitan
 
-mengawalselia prosedurnya sendiri.
+<!-- marginal: jawatan- -->
+
+<!-- marginal: kuasa. -->
+
+dengan apa-apa fungsi dan kuasanya; mana-mana jawatankuasa yang dilantik hendaklah mengandungi sekurang-kurangnya seorang anggota Perbadanan dan bolehlah dilantik ke jawatankuasa itu, mana-mana orang lain yang difikirkan sesuai oleh Perbadanan.
+
+(2) Jawatankuasa yang dilantik hendaklah mengawalselia prosedurnya sendiri.
 
 (3) Mana-mana jawatankuasa yang dilantik itu hendaklah mematuhi apa-apa arahan yang diberikan kepadanya oleh Perbadanan dari semasa ke semasa dan Perbadanan boleh pada bila-bila masa memberhentikan atau mengubah keanggotaan mana-mana jawatankuasa yang dilantik itu.
 
@@ -442,11 +478,31 @@ Industri Kecil dan Sederhana".
 
 (3) Dalam seksyen ini dan seksyen 20, ungkapan "kumpulan wang pinjaman" ertinya apa-apa jumlah wang yang boleh diadakan dari semasa ke semasa bagi Kerajaan sebagai pinjaman.
 
-Perbelanjaan
+<!-- marginal: Perbelanjaan -->
 
-19. Kumpulan Wang hendaklah dibelanjakan untuk— yang hendaklah
+19. Kumpulan Wang hendaklah dibelanjakan untuk—
 
-(a) pembayaran apa-apa perbelanjaan yang dipertang- gungkan dilakukan dengan sah oleh Perbadanan, saraan pada bagi pegawai dan pengkhidmat yang dilantik Kumpulan Wang. dan diguna-khidmat oleh Perbadanan, termasuklah elaun persaraan, pencen atau ganjaran;
+<!-- marginal: yang -->
+
+<!-- marginal: hendaklah -->
+
+(a) pembayaran apa-apa perbelanjaan yang
+
+<!-- marginal: dipertang- -->
+
+<!-- marginal: gungkan -->
+
+dilakukan dengan sah oleh Perbadanan, saraan
+
+<!-- marginal: pada -->
+
+bagi pegawai dan pengkhidmat yang dilantik
+
+<!-- marginal: Kumpulan -->
+
+<!-- marginal: Wang. -->
+
+dan diguna-khidmat oleh Perbadanan, termasuklah elaun persaraan, pencen atau ganjaran;
 
 (b) bayaran apa-apa caj atas apa-apa amaun yang diperuntukkan kepada Perbadanan daripada kumpulan wang pinjaman;
 
@@ -458,9 +514,17 @@ Perbelanjaan
 
 (f) pada amnya, membayar apa-apa perbelanjaan bagi melaksanakan peruntukan Akta ini.
 
-Pengim-
+<!-- marginal: Pengim- -->
 
-20. Maka adalah menjadi tugas Perbadanan untuk bangan memelihara Kumpulan Wang dengan menjalankan kuasa akaun hasil. dan melaksanakan fungsinya untuk memastikan supaya jumlah hasil Perbadanan, tertakluk kepada apa-apa arahan yang diberikan oleh Menteri di bawah seksyen 34, adalah mencukupi untuk membayar semua jumlah wang yang boleh dipertanggungkan dengan sepatutnya kepada akaun hasilnya, termasuklah susut nilai dan bunga atas modal, dari setahun ke setahun.
+20. Maka adalah menjadi tugas Perbadanan untuk
+
+<!-- marginal: bangan -->
+
+memelihara Kumpulan Wang dengan menjalankan kuasa
+
+<!-- marginal: akaun hasil. -->
+
+dan melaksanakan fungsinya untuk memastikan supaya jumlah hasil Perbadanan, tertakluk kepada apa-apa arahan yang diberikan oleh Menteri di bawah seksyen 34, adalah mencukupi untuk membayar semua jumlah wang yang boleh dipertanggungkan dengan sepatutnya kepada akaun hasilnya, termasuklah susut nilai dan bunga atas modal, dari setahun ke setahun.
 
 <!-- page 13 -->
 
@@ -598,19 +662,45 @@ Menteri.
 
 <!-- page 16 -->
 
-Tugas
+<!-- marginal: Tugas -->
 
-27. Ketua Pegawai Eksekutif adalah bertanggungjawab Ketua kepada Perbadanan untuk memastikan pentadbiran dan Pegawai Eksekutif. pengurusan fungsi-fungsi dan hal-ehwal Perbadanan yang teratur bersesuaian dengan dasar Perbadanan.
+27. Ketua Pegawai Eksekutif adalah bertanggungjawab
 
-Perlantikan
+<!-- marginal: Ketua -->
 
-28. (1) Tertakluk kepada subseksyen (2) dan apa-apa pegawai dan peraturan yang dibuat di bawah perenggan 33(2)(c), (d) pengkhidmat Perbadanan. dan (e), Perbadanan boleh dari semasa ke semasa, melantik sekian bilangan pegawai dan pengkhidmat sebagaimana yang difikirkannya wajar dan perlu dan atas apa-apa terma dan syarat yang difikirkan sesuai, bagi menjalankan maksud- maksud Akta ini.
+kepada Perbadanan untuk memastikan pentadbiran dan
+
+<!-- marginal: Pegawai -->
+
+<!-- marginal: Eksekutif. -->
+
+pengurusan fungsi-fungsi dan hal-ehwal Perbadanan yang teratur bersesuaian dengan dasar Perbadanan.
+
+<!-- marginal: Perlantikan -->
+
+28. (1) Tertakluk kepada subseksyen (2) dan apa-apa
+
+<!-- marginal: pegawai dan -->
+
+peraturan yang dibuat di bawah perenggan 33(2)(c), (d)
+
+<!-- marginal: pengkhidmat -->
+
+<!-- marginal: Perbadanan. -->
+
+dan (e), Perbadanan boleh dari semasa ke semasa, melantik sekian bilangan pegawai dan pengkhidmat sebagaimana yang difikirkannya wajar dan perlu dan atas apa-apa terma dan syarat yang difikirkan sesuai, bagi menjalankan maksud- maksud Akta ini.
 
 (2) Walau apa pun peruntukan subseksyen (1), Perbadanan tidak boleh menubuhkan atau mengubahsuai apa-apa jawatan atau skim perkhidmatan untuk pegawai dan pengkhidmat Perbadanan, termasuk terma dan syarat- syarat perkhidmatan dan gaji, apa-apa skim pencen, dan apa-apa skim yang berhubungan dengan elaun dan saraan lain, tanpa kelulusan Kementerian Kewangan dan Jabatan Perkhidmatan Awam terlebih dahulu.
 
-Tatatertib
+<!-- marginal: Tatatertib -->
 
-29. (1) Perbadanan hendaklah menubuhkan Lembaga pegawai dan Tatatertib Perbadanan yang hendaklah dianggotai oleh— pengkhidmat.
+29. (1) Perbadanan hendaklah menubuhkan Lembaga
+
+<!-- marginal: pegawai dan -->
+
+Tatatertib Perbadanan yang hendaklah dianggotai oleh—
+
+<!-- marginal: pengkhidmat. -->
 
 (a) dua orang ahli yang dilantik oleh dan daripada anggota Perbadanan dan seorang daripadanya hendaklah dilantik sebagai Pengerusi; dan
 
@@ -644,13 +734,35 @@ Tatatertib
 
 (10) Keputusan Perbadanan atas rayuan tersebut adalah muktamad dan konklusif.
 
-Akta Perlin-
+<!-- marginal: Akta Perlin- -->
 
-30. Akta Perlindungan Pihak Berkuasa Awam 1948 dungan Pihak hendaklah terpakai bagi apa-apa tindakan guaman, Berkuasa Awam 1948. pendakwaan atau prosiding terhadap Perbadanan atau Akta 198 terhadap mana-mana anggota, pegawai, pengkhidmat atau ejen Perbadanan berkenaan dengan apa-apa perbuatan, keabaian atau keingkaran yang dibuat atau dilakukan olehnya atas sifat yang sedemikian itu.
+30. Akta Perlindungan Pihak Berkuasa Awam 1948
 
-Pengkhidmat
+<!-- marginal: dungan Pihak -->
 
-31. Semua anggota, pegawai dan pengkhidmat Perbadanan, awam. semasa melaksanakan fungsi mereka sebagai anggota, pegawai dan pengkhidmat Perbadanan, hendaklah disifatkan N M.B. sebagai pengkhidmat awam mengikut pengertian Kanun
+hendaklah terpakai bagi apa-apa tindakan guaman,
+
+<!-- marginal: Berkuasa -->
+
+<!-- marginal: Awam 1948. -->
+
+pendakwaan atau prosiding terhadap Perbadanan atau
+
+<!-- marginal: Akta 198 -->
+
+terhadap mana-mana anggota, pegawai, pengkhidmat atau ejen Perbadanan berkenaan dengan apa-apa perbuatan, keabaian atau keingkaran yang dibuat atau dilakukan olehnya atas sifat yang sedemikian itu.
+
+<!-- marginal: Pengkhidmat -->
+
+31. Semua anggota, pegawai dan pengkhidmat Perbadanan,
+
+<!-- marginal: awam. -->
+
+semasa melaksanakan fungsi mereka sebagai anggota, pegawai dan pengkhidmat Perbadanan, hendaklah disifatkan
+
+<!-- marginal: N M.B. -->
+
+sebagai pengkhidmat awam mengikut pengertian Kanun
 
 ## Bab 45
 
@@ -660,7 +772,7 @@ Keseksaan.
 
 AM
 
-Peraturan.
+<!-- marginal: Peraturan. -->
 
 32. (1) Menteri boleh, selepas berunding dengan Perbadanan, membuat apa-apa peraturan yang suaimanfaat atau perlu bagi melaksanakan maksud dan peruntukan Akta ini dengan teratur dan berkesan.
 
@@ -704,11 +816,23 @@ pengawasan, kediaman terhad, buang negeri atau deportasi telah dibuat ke atas se
 
 (h) menetapkan apa-apa jua perkara yang di bawah Akta ini boleh ditetapkan oleh Perbadanan.
 
-Penyata,
+<!-- marginal: Penyata, -->
 
-33. (1) Perbadanan hendaklah memberi Menteri, apa- laporan, akaun dan apa penyata, laporan, akaun dan maklumat berkenaan maklumat. dengan harta dan aktiviti Perbadanan sebagaimana yang dikehendaki atau diarahkan oleh Menteri dari semasa ke semasa.
+33. (1) Perbadanan hendaklah memberi Menteri, apa-
 
-(2) Tanpa menjejaskan keluasan peruntukan subseksyen (1), Perbadanan hendaklah, dengan seberapa segera yang praktik selepas akhir setiap tahun kewangan, menyebabkan dibuat dan dihantar kepada Menteri suatu laporan yang
+<!-- marginal: laporan, -->
+
+<!-- marginal: akaun dan -->
+
+apa penyata, laporan, akaun dan maklumat berkenaan
+
+<!-- marginal: maklumat. -->
+
+dengan harta dan aktiviti Perbadanan sebagaimana yang dikehendaki atau diarahkan oleh Menteri dari semasa ke semasa.
+
+(2) Tanpa menjejaskan keluasan peruntukan subseksyen
+
+(1), Perbadanan hendaklah, dengan seberapa segera yang praktik selepas akhir setiap tahun kewangan, menyebabkan dibuat dan dihantar kepada Menteri suatu laporan yang
 
 <!-- page 21 -->
 
@@ -760,23 +884,35 @@ Dengan syarat bahawa apa-apa dokumen atau suratcara yang jika disempurnakan oleh
 
 (5) Meterai biasa Perbadanan hendaklah diberi pengiktirafan rasmi dan kehakiman.
 
-Minit.
+<!-- marginal: Minit. -->
 
 3. (1) Perbadanan hendaklah menyebabkan minit kesemua mesyuaratnya disenggara dan disimpan dalam bentuk yang sepatutnya.
 
 (2) Apa-apa minit yang dibuat mengenai mesyuarat Perbadanan, jika ditandatangani sewajarnya. hendaklah diterima sebagai keterangan dalam segala prosiding undang-undang tanpa bukti selanjutnya dan tiap-tiap mesyuarat Perbadanan yang minit berkenaan dengan prosidingnya telah dibuat sedemikian hendaklah disifatkan telah dipanggil dan diadakan dengan sewajarnya dan semua anggota dalam mesyuarat itu layak dengan sewajarnya untuk bertindak.
 
-Kesalahan
+<!-- marginal: Kesalahan -->
 
-4. Tiada apa-apa perbuatan yang dilakukan atau prosiding yang perbuatan dan diambil di bawah Akta ini boleh dipersoalkan atas alasan bahawa apa- prosiding apa—
+4. Tiada apa-apa perbuatan yang dilakukan atau prosiding yang
+
+<!-- marginal: perbuatan dan -->
+
+diambil di bawah Akta ini boleh dipersoalkan atas alasan bahawa apa-
+
+<!-- marginal: prosiding -->
+
+apa—
 
 (a) kekosongan dalam keanggotaan, atau ada apa-apa kecacatan dalam penubuhan Perbadanan, atau
 
 (b) peninggalan, kecacatan atau ketakteraturan yang tidak menyentuh merit kes itu.
 
-Pcndedahan
+<!-- marginal: Pcndedahan -->
 
-5. Seseorang anggota Perbadanan yang, sama ada secara langsung kepentingan atau tak langsung mempunyai, apa-apa kepentingan dalam mana- mana syarikat atau pengusahaan, yang dengannya Perbadanan bercadang hendak membuat apa-apa kontrak atau yang mempunyai sama ada secara langsung atau secara tak langsung apa-apa kepentingan dalam apa-apa kontrak seperti itu atau dalam apa-apa perkara yang sedang dibincangkan oleh Perbadanan hendaklah menzahirkan hakikat dan jenis kepentingan itu kepada Perbadanan dan penzahiran itu hendaklah direkodkan dalam minit mesyuarat Perbadanan dan anggota itu hendaklah keluar daripada mana-mana perbincangan atau keputusan Perbadanan yang berhubungan dengan kontrak atau perkara itu.
+5. Seseorang anggota Perbadanan yang, sama ada secara langsung
+
+<!-- marginal: kepentingan -->
+
+atau tak langsung mempunyai, apa-apa kepentingan dalam mana- mana syarikat atau pengusahaan, yang dengannya Perbadanan bercadang hendak membuat apa-apa kontrak atau yang mempunyai sama ada secara langsung atau secara tak langsung apa-apa kepentingan dalam apa-apa kontrak seperti itu atau dalam apa-apa perkara yang sedang dibincangkan oleh Perbadanan hendaklah menzahirkan hakikat dan jenis kepentingan itu kepada Perbadanan dan penzahiran itu hendaklah direkodkan dalam minit mesyuarat Perbadanan dan anggota itu hendaklah keluar daripada mana-mana perbincangan atau keputusan Perbadanan yang berhubungan dengan kontrak atau perkara itu.
 
 ## HURAIAN
 

@@ -54,19 +54,7 @@ dalam subseksyen 2(1)—
 
 (b) kaedah-kaedah untuk memastikan pematuhan mana-mana obligasi yang dikenakan oleh Akta ini atau mana- mana undang-undang bertulis yang lain oleh ejen depositori diberikuasanya, penggunanya atau pendepositnya;
 
-(c) kaedah-kaedah yang berhubungan dengan pengadaan
-
-<!-- marginal: deposit, -->
-
-pemegangan, pemindahan
-
-<!-- marginal: dan -->
-
-pengeluaran sekuriti,
-
-<!-- marginal: dan -->
-
-penggantungan atau penarikbalikan perkhidmatan-perkhidmatan itu;
+(c) kaedah-kaedah yang berhubungan dengan pengadaan deposit, pemegangan, pemindahan dan pengeluaran sekuriti, dan penggantungan atau penarikbalikan perkhidmatan-perkhidmatan itu;
 
 (d) kaedah-kaedah untuk memperuntukkan orang yang boleh menyertai satu atau lebih daripada perkhidmatan yang disebut dalam perenggan (c); dan
 
@@ -74,7 +62,11 @@ penggantungan atau penarikbalikan perkhidmatan-perkhidmatan itu;
 
 (c) dengan memasukkan selepas takrif "pasaran saham" takrif yang berikut:
 
-' "Pegawai Penyiasat" ertinya seorang pegawai Suruhanjaya yang dilantik di bawah subseksyen 35(1) Akta Suruhanjaya Sekuriti Akta 498 1993;';
+' "Pegawai Penyiasat" ertinya seorang pegawai Suruhanjaya yang dilantik di bawah subseksyen 35(1) Akta Suruhanjaya Sekuriti
+
+<!-- marginal: Akta 498 -->
+
+1993;';
 
 <!-- page 3 -->
 
@@ -92,17 +84,17 @@ penggantungan atau penarikbalikan perkhidmatan-perkhidmatan itu;
 
 (d) pertubuhan perbadanan yang bertindak sebagai tempat penjelasan sesuatu bursa saham; atau
 
-(e) mana-mana orang lain yang dinyatakan dalam kaedah-kaedah
-
-<!-- marginal: sesuatu -->
-
-depositori pusat,
+(e) mana-mana orang lain yang dinyatakan dalam kaedah-kaedah sesuatu depositori pusat,
 
 yang boleh diberikan akses kepada sistem komputer depositori pusat itu;'; dan
 
 (f) dengan memasukkan selepas takrif "skrip" takrif yang berikut:
 
-' "Suruhanjaya" ertinya Suruhanjaya Sekuriti yang ditubuhkan di bawah Akta Suruhanjaya Akta 498. Sekuriti 1993;'.
+' "Suruhanjaya" ertinya Suruhanjaya Sekuriti yang ditubuhkan di bawah Akta Suruhanjaya
+
+<!-- marginal: Akta 498. -->
+
+Sekuriti 1993;'.
 
 3. Akta ibu adalah dipinda dengan menggantikan seksyen
 
@@ -112,19 +104,19 @@ yang boleh diberikan akses kepada sistem komputer depositori pusat itu;'; dan
 
 3 dengan seksyen yang berikut:
 
-"Orang 3. (1) Tiada seorang pun boleh menubuhkan, bersekutu. menyenggarakan, mengendalikan
+<!-- marginal: "Orang -->
 
-<!-- marginal: atau -->
+3. (1) Tiada seorang pun boleh menubuhkan,
 
-mengemukakan dirinya sebagai mengadakan, menyenggarakan atau mengendalikan suatu sistem bagi pengendalian pusat sekuriti, sama ada disenaraikan pada mana-mana bursa saham atau tidak—
+<!-- marginal: bersekutu. -->
+
+menyenggarakan, mengendalikan atau mengemukakan dirinya sebagai mengadakan, menyenggarakan atau mengendalikan suatu sistem bagi pengendalian pusat sekuriti, sama ada disenaraikan pada mana-mana bursa saham atau tidak—
 
 (a) yang menurutnya kesemua sekuriti sedemikian didepositkan dengan dan dipegang dalam jagaan oleh, atau didaftarkan atas nama, orang itu atau penamanya bagi pendeposit dan urusniaga
 
 <!-- page 4 -->
 
-berkenaan dengan
-
-<!-- marginal: sekuriti -->
+berkenaan dengan sekuriti
 
 <!-- marginal: itu -->
 
@@ -144,15 +136,27 @@ dilaksanakan dengan cara catatan dalam akaun-akaun tanpa penyerahan fizikal skri
 
 (3) Seseorang yang melanggar peruntukan subseksyen (1) adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi sepuluh juta ringgit atau dipenjarakan selama tempoh tidak melebihi sepuluh tahun atau kedua-duanya.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-4. Subseksyen 5(1) Akta ibu adalah dipinda dengan seksyen 5. menggantikan perenggan (a) dengan perenggan yang berikut:
+4. Subseksyen 5(1) Akta ibu adalah dipinda dengan
 
-"(a) bahawa pemohon ialah suatu syarikat yang Akta 125 diperbadankan di bawah Akta Syarikat 1965, dan suatu bursa saham ialah pemegang syer pemohon;".
+<!-- marginal: seksyen 5. -->
 
-Pindaan
+menggantikan perenggan (a) dengan perenggan yang berikut:
 
-5. Subseksyen 6(2) Akta ibu adalah dipinda dalam seksyen 6. subperenggan ( c )( i) dengan menggantikan perkataan "Jawatankuasa Terbitan Modal yang ditubuhkan di bawah Akta Perindustrian Sekuriti 1983" dengan perkataan "Suruhanjaya".
+"(a) bahawa pemohon ialah suatu syarikat yang
+
+<!-- marginal: Akta 125 -->
+
+diperbadankan di bawah Akta Syarikat 1965, dan suatu bursa saham ialah pemegang syer pemohon;".
+
+<!-- marginal: Pindaan -->
+
+5. Subseksyen 6(2) Akta ibu adalah dipinda dalam
+
+<!-- marginal: seksyen 6. -->
+
+subperenggan ( c )( i) dengan menggantikan perkataan "Jawatankuasa Terbitan Modal yang ditubuhkan di bawah Akta Perindustrian Sekuriti 1983" dengan perkataan "Suruhanjaya".
 
 <!-- page 5 -->
 
@@ -166,11 +170,33 @@ Pindaan
 
 7 dengan seksyen yang berikut;
 
-Suruhanjaya
+<!-- marginal: Suruhanjaya -->
 
-7. (1) Jika sesuatu depositori pusat bercadang hendaklah hendak membuat pindaan kepada kaedah- meluluskan pindaan kaedahnya, depositori pusat itu hendaklah kepada mengemukakan kepada Suruhanjaya— kaedah- kaedah depositori
+7. (1) Jika sesuatu depositori pusat bercadang
 
-(a) teks pindaan yang dicadangkan itu; dan pusat.
+<!-- marginal: hendaklah -->
+
+hendak membuat pindaan kepada kaedah-
+
+<!-- marginal: meluluskan -->
+
+<!-- marginal: pindaan -->
+
+kaedahnya, depositori pusat itu hendaklah
+
+<!-- marginal: kepada -->
+
+mengemukakan kepada Suruhanjaya—
+
+<!-- marginal: kaedah- -->
+
+<!-- marginal: kaedah -->
+
+<!-- marginal: depositori -->
+
+(a) teks pindaan yang dicadangkan itu; dan
+
+<!-- marginal: pusat. -->
 
 (b) penerangan mengenai maksud pindaan yang dicadangkan itu.
 
@@ -180,15 +206,13 @@ Suruhanjaya
 
 (4) Suruhanjaya boleh, melalui notis bertulis, mengisytiharkan mana-mana kelas kaedah- kaedah sesuatu depositori pusat sebagai kelas kaedah-kaedah yang pindaan kepadanya tidak memerlukan kelulusan Suruhanjaya di bawah subseksyen (2), dan dengan demikian itu, apa- apa pindaan kepada kaedah-kaedah depositori pusat itu yang termasuk dalam kelas itu hendaklah, tertakluk kepada subseksyen (6), mempunyai kuatkuasa walaupun ia tidak diluluskan sedemikian di bawah subseksyen (2).
 
-(5) Jika Suruhanjaya berpendapat bahawa apa- apa pindaan kepada kaedah-kaedah sesuatu depositori pusat yang dibuat di bawah subseksyen (4) tidak termasuk dalam kelas kaedah-kaedah
+(5) Jika Suruhanjaya berpendapat bahawa apa- apa pindaan kepada kaedah-kaedah sesuatu depositori pusat yang dibuat di bawah subseksyen
+
+(4) tidak termasuk dalam kelas kaedah-kaedah
 
 <!-- page 6 -->
 
-yang diisytiharkan oleh Suruhanjaya di bawah subseksyen itu yang tidak menghendaki kelulusannya, Suruhanjaya boleh, selepas berunding dengan depositori pusat
-
-<!-- marginal: itu, -->
-
-menghendaki depositori pusat itu mengemukakan kaedah atau pindaan itu, mengikut mana-mana yang berkenaan, untuk kelulusannya di bawah subseksyen (2).
+yang diisytiharkan oleh Suruhanjaya di bawah subseksyen itu yang tidak menghendaki kelulusannya, Suruhanjaya boleh, selepas berunding dengan depositori pusat itu, menghendaki depositori pusat itu mengemukakan kaedah atau pindaan itu, mengikut mana-mana yang berkenaan, untuk kelulusannya di bawah subseksyen (2).
 
 (6) Mana-mana kaedah yang dibuat atau dipinda oleh depositori pusat yang menjadi perkara kehendak yang dibuat oleh Suruhanjaya di bawah subseksyen (5) hendaklah terhenti mempunyai kuatkuasa dari tarikh Suruhanjaya membuat kehendak sedemikian atau apa-apa tarikh selepas tarikh itu sebagaimana yang ditentukan oleh Suruhanjaya:
 
@@ -248,9 +272,11 @@ Dengan syarat bahawa subseksyen ini tidaklah berkuatkuasa sehingga masa yang mun
 
 " (5) Jika sesuatu bursa saham telah menetapkan suatu sekuriti di bawah subseksyen (1) untuk didepositkan dengan depositori pusat, penetapan itu hendaklah terpakai bagi apa-apa penyenaraian tambahan sekuriti sedemikian di bursa saham dan peruntukan subseksyen (1) dan (2) tidaklah terpakai berkenaan dengan penyenaraian tambahan itu.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-10. Seksyen 15 Akta ibu adalah dipinda— seksyen 15.
+10. Seksyen 15 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 15. -->
 
 (a) dalam subseksyen (2) dengan memasukkan selepas perkataan "pasaran saham" perkataan "sesuatu bursa saham"; dan
 
@@ -258,7 +284,11 @@ Pindaan
 
 " (5) Jika Suruhanjaya telah membuat suatu pengecualian di bawah subseksyen 14(2), tarikh pemberitahuan bagi maksud subseksyen (1) atau (3), mengikut mana-mana yang berkenaan, ialah tarikh yang ditentukan oleh bursa saham itu.".
 
-11. Seksyen 17 Akta ibu adalah dipinda— Pindaan seksyen 17.
+11. Seksyen 17 Akta ibu adalah dipinda—
+
+<!-- marginal: Pindaan -->
+
+<!-- marginal: seksyen 17. -->
 
 (a) dalam subseksyen (1) dengan memasukkan selepas perkataan "pasaran saham" perkataan "sesuatu bursa saham";
 
@@ -276,17 +306,11 @@ Pindaan
 
 (c) dengan memasukkan selepas sub- seksyen (2) subseksyen yang berikut:
 
-" (3) Walau apa pun peruntukan subseksyen (2), sesuatu sekuriti ditetapkan yang didepositkan oleh seorang pendeposit
+" (3) Walau apa pun peruntukan subseksyen (2), sesuatu sekuriti ditetapkan yang didepositkan oleh seorang pendeposit dengan depositori pusat hendaklah boleh digunakan untuk menyelesaikan sesuatu transaksi yang dilakukan di suatu pasaran saham suatu bursa saham sebelum tarikh pendepositan sekuriti ditetapkan itu jika penerbit mendaftarkan pemindahan sekuriti di bawah skrip itu atas nama depositori pusat atau syarikat namaannya dan menghantarkan skrip yang berkenaan kepada depositori pusat sebelum tarikh penyelesaian transaksi itu mengikut kaedah- kaedah bursa saham.".
 
-<!-- marginal: dengan -->
+Pindaan
 
-depositori pusat hendaklah boleh digunakan untuk menyelesaikan sesuatu transaksi yang dilakukan di suatu pasaran saham suatu bursa saham sebelum tarikh pendepositan sekuriti ditetapkan itu jika penerbit mendaftarkan pemindahan sekuriti di bawah skrip itu atas nama depositori pusat atau syarikat namaannya dan menghantarkan skrip yang berkenaan kepada depositori pusat sebelum tarikh penyelesaian transaksi itu mengikut kaedah- kaedah bursa saham.".
-
-<!-- marginal: Pindaan -->
-
-12. Seksyen 23 Akta ibu adalah dipinda—
-
-<!-- marginal: seksyen 23. -->
+12. Seksyen 23 Akta ibu adalah dipinda— seksyen 23.
 
 (a) dalam subseksyen (1) dengan memasukkan selepas perkataan "pasaran saham" perkataan "suatu bursa saham";
 
@@ -296,17 +320,27 @@ depositori pusat hendaklah boleh digunakan untuk menyelesaikan sesuatu transaksi
 
 " (2) Suatu sekuriti yang didepositkan semula dengan sesuatu depositori pusat tidaklah boleh digunakan untuk menyelesaikan sesuatu transaksi yang dilakukan di suatu pasaran saham suatu bursa saham sebelum tarikh pendepositan semula sekuriti itu melainkan jika mengikut subseksyen 17(3).".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-13. Subseksyen 24(1) Akta ibu adalah dipinda dengan seksyen 24. menggantikan perkataan "Menteri" dengan perkataan "Suruhanjaya".
+13. Subseksyen 24(1) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 24. -->
 
-14. Subseksyen 26(1) Akta ibu adalah dipinda dengan seksyen 26. menggantikan perkataan "ditetapkan di bawah Akta ini" dengan perkataan "diperuntukkan dalam kaedah-kaedah depositori pusat itu".
+menggantikan perkataan "Menteri" dengan perkataan "Suruhanjaya".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-15. Seksyen 28 Akta ibu adalah dipinda— seksyen 28.
+14. Subseksyen 26(1) Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 26. -->
+
+menggantikan perkataan "ditetapkan di bawah Akta ini" dengan perkataan "diperuntukkan dalam kaedah-kaedah depositori pusat itu".
+
+<!-- marginal: Pindaan -->
+
+15. Seksyen 28 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 28. -->
 
 (a) dalam subseksyen (2) dengan menggantikan perkataan "Pendaftar" di mana jua terdapat dengan perkataan "Suruhanjaya";
 
@@ -340,7 +374,41 @@ menggantikan perkataan "Pendaftar" dengan perkataan "Suruhanjaya".
 
 seksyen 35 dengan seksyen yang berikut:
 
-"Seorang 35. (1) Tertakluk kepada subseksyen 41(2) dan pendeposit walau apa pun peruntukan Akta Syarikat 1965, hendaklah dianggap seseorang pendeposit mana-mana sekuriti telah- seolah- deposit yang namanya terdapat dalam rekod olah dia seorang pendeposit adalah berhak kepada segala hak, anggota. faedah, kuasa dan keistimewaan dan tertakluk Akta 125. kepada segala liabiliti, kewajipan dan obligasi yang berkenaan dengan, atau yang berbangkit daripada, sekuriti itu (sama ada yang diberikan atau dikenakan oleh Akta Syarikat 1965, atau memorandum atau perkara-perkara persatuan penerbit, atau selainnya) seolah-olah dia ialah seorang anggota yang didaftarkan dalam daftar anggota atau seorang pemegang yang didaftarkan dalam daftar pemegang debentur yang disenggarakan oleh penerbit sekuriti itu atau seorang pemegang yang didaftarkan dalam daftar pemegang kepentingan yang disenggarakan oleh sesuatu syarikat pengurusan, mengikut mana- Akta 125 mana yang berkenaan, menurut Akta Syarikat 1965, dan bukannya deposited pusat itu, atau syarikat namaannya, yang atas namanya sekuriti telah-deposit itu didaftarkan.
+<!-- marginal: "Seorang -->
+
+35. (1) Tertakluk kepada subseksyen 41(2) dan
+
+<!-- marginal: pendeposit -->
+
+walau apa pun peruntukan Akta Syarikat 1965,
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: dianggap -->
+
+seseorang pendeposit mana-mana sekuriti telah-
+
+<!-- marginal: seolah- -->
+
+deposit yang namanya terdapat dalam rekod
+
+<!-- marginal: olah dia -->
+
+<!-- marginal: seorang -->
+
+pendeposit adalah berhak kepada segala hak,
+
+<!-- marginal: anggota. -->
+
+faedah, kuasa dan keistimewaan dan tertakluk
+
+<!-- marginal: Akta 125. -->
+
+kepada segala liabiliti, kewajipan dan obligasi yang berkenaan dengan, atau yang berbangkit daripada, sekuriti itu (sama ada yang diberikan atau dikenakan oleh Akta Syarikat 1965, atau memorandum atau perkara-perkara persatuan penerbit, atau selainnya) seolah-olah dia ialah seorang anggota yang didaftarkan dalam daftar anggota atau seorang pemegang yang didaftarkan dalam daftar pemegang debentur yang disenggarakan oleh penerbit sekuriti itu atau seorang pemegang yang didaftarkan dalam daftar pemegang kepentingan yang disenggarakan oleh sesuatu syarikat pengurusan, mengikut mana-
+
+<!-- marginal: Akta 125 -->
+
+mana yang berkenaan, menurut Akta Syarikat 1965, dan bukannya deposited pusat itu, atau syarikat namaannya, yang atas namanya sekuriti telah-deposit itu didaftarkan.
 
 (2) Walau apa pun peruntukan subseksyen (1), tiada apa-apa jua dalam seksyen ini boleh ditafsirkan sebagai menyifatkan suatu rekod
 
@@ -348,15 +416,31 @@ seksyen 35 dengan seksyen yang berikut:
 
 ## RANG UNDANG-UNDANG
 
-pendeposit sebagai suatu daftar anggota yang Akta 125. disenggarakan menurut seksyen 158 Akta Syarikat 1965, suatu daftar pemegang debentur Akta 125. yang disenggarakan menurut seksyen 70 Akta Syarikat 1965 atau suatu daftar pemegang kepentingan yang disenggarakan menurut Akta 125. seksyen 92 Akta Syarikat 1965.
+pendeposit sebagai suatu daftar anggota yang
 
-(3) Walau apa pun peruntukan subseksyen (1), seseorang ejen depositori diberikuasa hendaklah mempunyai lien ke atas sekuriti telah- deposit yang belum berbayar yang dibeli untuk akaun seseorang pendeposit, termasuk semua kelayakan sedemikian ke atas segala hak, faedah, kuasa dan keistimewaan dan tertakluk kepada segala liabiliti, kewajipan dan obligasi yang disebut dalam subseksyen itu, dan hendaklah menguruskan sekuriti telah-deposit yang belum berbayar itu mengikut kaedah-kaedah bursa saham.
+<!-- marginal: Akta 125. -->
+
+disenggarakan menurut seksyen 158 Akta Syarikat 1965, suatu daftar pemegang debentur
+
+<!-- marginal: Akta 125. -->
+
+yang disenggarakan menurut seksyen 70 Akta Syarikat 1965 atau suatu daftar pemegang kepentingan yang disenggarakan menurut
+
+<!-- marginal: Akta 125. -->
+
+seksyen 92 Akta Syarikat 1965.
+
+(3) Walau apa pun peruntukan subseksyen
+
+(1), seseorang ejen depositori diberikuasa hendaklah mempunyai lien ke atas sekuriti telah- deposit yang belum berbayar yang dibeli untuk akaun seseorang pendeposit, termasuk semua kelayakan sedemikian ke atas segala hak, faedah, kuasa dan keistimewaan dan tertakluk kepada segala liabiliti, kewajipan dan obligasi yang disebut dalam subseksyen itu, dan hendaklah menguruskan sekuriti telah-deposit yang belum berbayar itu mengikut kaedah-kaedah bursa saham.
 
 (4) Bagi maksud seksyen ini, "sekuriti telah- deposit" tidaklah termasuk sesuatu sekuriti yang dinyatakan dalam akaun sekuriti sebagai berada dalam gantungan menurut seksyen 41 atau mana- mana peraturan yang dibuat di bawahnya.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-18. Seksyen 41 Akta ibu adalah dipinda— seksyen 41.
+18. Seksyen 41 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 41. -->
 
 (a) dengan menomborkan semula peruntukan yang sedia ada sebagai subseksyen (1);
 
@@ -412,17 +496,27 @@ menggantikan perkataan "tiga" dengan perkataan "sepuluh".
 
 <!-- page 14 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-22. Seksyen 51 Akta ibu adalah dipinda dengan seksyen 51. menggantikan perkataan "dua puluh lima ribu ringgit" dan "enam bulan" masing-masing dengan perkataan "lima ratus ribu ringgit" dan "lima tahun".
+22. Seksyen 51 Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 51. -->
 
-23. Seksyen 52 Akta ibu adalah dipinda dengan seksyen 52. menggantikan perkataan "Pendaftar" dengan perkataan "Suruhanjaya".
+menggantikan perkataan "dua puluh lima ribu ringgit" dan "enam bulan" masing-masing dengan perkataan "lima ratus ribu ringgit" dan "lima tahun".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-24. Seksyen 53 Akta ibu adalah dipinda— seksyen 53.
+23. Seksyen 52 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 52. -->
+
+menggantikan perkataan "Pendaftar" dengan perkataan "Suruhanjaya".
+
+<!-- marginal: Pindaan -->
+
+24. Seksyen 53 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 53. -->
 
 (a) dalam nota birai dengan menggantikan perkataan "Pendaftar" dengan perkataan "Suruhanjaya";
 
@@ -430,15 +524,23 @@ Pindaan
 
 (c) dalam subseksyen (6) dengan menggantikan perkataan "lima ratus ribu ringgit" dan "dua" masing-masing dengan perkataan "satu juta ringgit" dan "sepuluh".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-25. Seksyen 54 Akta ibu adalah dipinda— seksyen 54.
+25. Seksyen 54 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 54. -->
 
 (a) dalam nota birai dengan menggantikan perkataan "Pendaftar" dengan perkataan "Pegawai Penyiasat"; dan
 
 (b) dalam subseksyen (1) dengan menggantikan perkataan "Pendaftar" dengan perkataan "seorang Pegawai Penyiasat".
 
-26. Akta ibu adalah dipinda dengan menggantikan Pindaan seksyen 55. seksyen 55 dengan seksyen yang berikut:
+26. Akta ibu adalah dipinda dengan menggantikan
+
+<!-- marginal: Pindaan -->
+
+<!-- marginal: seksyen 55. -->
+
+seksyen 55 dengan seksyen yang berikut:
 
 "Peng- 55. Seseorang yang— halangan.
 
@@ -472,7 +574,11 @@ mendedahkan kepada Suruhanjaya"; dan
 
 (c) dalam subseksyen (3)—
 
-(i) dengan menggantikan perkataan "Pendaftar" dengan perkataan "Suruhanjaya"; dan
+(i) dengan menggantikan
+
+<!-- marginal: perkataan -->
+
+"Pendaftar" dengan perkataan "Suruhanjaya"; dan
 
 (ii) dengan menggantikan perkataan "lima puluh ribu" dan "satu" masing-masing dengan "satu juta" dan "sepuluh".
 
@@ -486,27 +592,43 @@ menggantikan perkataan "Pendaftar" di mana jua terdapat dengan perkataan "Suruha
 
 <!-- page 16 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-29. Seksyen 58 Akta ibu adalah dipinda— seksyen 58.
+29. Seksyen 58 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 58. -->
 
 (a) dalam perenggan (1)(a) dengan menggantikan perkataan "Pendaftar" dengan perkataan "Suruhanjaya"; dan
 
 (b) dalam subseksyen (3) dengan menggantikan perkataan "lima ratus ribu" dan "dua" masing- masing dengan perkataan "satu juta" dan "sepuluh".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-30. Akta ibu adalah dipinda dengan menggantikan seksyen 59. seksyen 59 dengan seksyen yang berikut:
+30. Akta ibu adalah dipinda dengan menggantikan
 
-"Penyim- 59. Sesuatu depositori pusat dan ejen-ejen panan depositori diberikuasanya hendaklah menyimpan rekod dan akaun semua rekod dan perhubungan berhubungan dengan akaun seseorang pendeposit dan mana- mana rekod dan akaun lain yang akan dengan secukupnya menjelaskan
+<!-- marginal: seksyen 59. -->
 
-<!-- marginal: transaksi dan -->
+seksyen 59 dengan seksyen yang berikut:
 
-pengendalian depositori pusat itu dan ejen-ejen depositori diberikuasa berhubungan dengan sekuriti telah-deposit, bagi suatu tempoh selama tujuh tahun, sama ada atau tidak mereka terhenti menjalankan urusan mereka sebelum berakhirnya tempoh tujuh tahun itu.".
+<!-- marginal: "Penyim- -->
 
-Pindaan
+59. Sesuatu depositori pusat dan ejen-ejen
 
-31. Seksyen 60 Akta ibu adalah dipinda— seksyen 60.
+<!-- marginal: panan -->
+
+depositori diberikuasanya hendaklah menyimpan
+
+<!-- marginal: rekod dan -->
+
+<!-- marginal: akaun -->
+
+semua rekod dan perhubungan berhubungan dengan akaun seseorang pendeposit dan mana- mana rekod dan akaun lain yang akan dengan secukupnya menjelaskan transaksi dan pengendalian depositori pusat itu dan ejen-ejen depositori diberikuasa berhubungan dengan sekuriti telah-deposit, bagi suatu tempoh selama tujuh tahun, sama ada atau tidak mereka terhenti menjalankan urusan mereka sebelum berakhirnya tempoh tujuh tahun itu.".
+
+<!-- marginal: Pindaan -->
+
+31. Seksyen 60 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 60. -->
 
 (a) dalam nota birai dengan menggantikan perkataan "Pendaftar" dengan perkataan "Suruhanjaya";
 
@@ -520,11 +642,7 @@ Pindaan
 
 (d) dengan memasukkan selepas subseksyen (1) subseksyen yang berikut;
 
-" (2) Apa-apa wang yang dibayar kepada Suruhanjaya menurut subseksyen
-
-<!-- marginal: (1) -->
-
-hendaklah dibayar ke dalam dan menjadi sebahagian daripada Kumpulan Wang Disatukan Persekutuan.".
+" (2) Apa-apa wang yang dibayar kepada Suruhanjaya menurut subseksyen (1) hendaklah dibayar ke dalam dan menjadi sebahagian daripada Kumpulan Wang Disatukan Persekutuan.".
 
 <!-- marginal: Penggantian -->
 
@@ -534,11 +652,25 @@ hendaklah dibayar ke dalam dan menjadi sebahagian daripada Kumpulan Wang Disatuk
 
 seksyen 61 dengan seksyen yang berikut:
 
-"Pendak- 61. (1) Tiada pendakwaan bagi mana-mana waan kesalahan di bawah Akta ini boleh dimulakan jenajah. kecuali dengan keizinan bertulis daripada Pendakwa Raya.
+<!-- marginal: "Pendak- -->
+
+61. (1) Tiada pendakwaan bagi mana-mana
+
+<!-- marginal: waan -->
+
+kesalahan di bawah Akta ini boleh dimulakan
+
+<!-- marginal: jenajah. -->
+
+kecuali dengan keizinan bertulis daripada Pendakwa Raya.
 
 (2) Mana-mana pegawai Suruhanjaya yang diberikuasa oleh Pengerusi Suruhanjaya boleh menjalankan apa-apa pendakwaan bagi mana- mana kesalahan di bawah Akta ini.
 
-(3) Bagi maksud subseksyen (2), "pegawai" mempunyai erti yang sama seperti dalam seksyen Akta 498. 2 Akta Suruhanjaya Sekuriti 1993.".
+(3) Bagi maksud subseksyen (2), "pegawai" mempunyai erti yang sama seperti dalam seksyen
+
+<!-- marginal: Akta 498. -->
+
+2 Akta Suruhanjaya Sekuriti 1993.".
 
 <!-- marginal: Seksyen baru -->
 
@@ -548,9 +680,23 @@ seksyen 61 dengan seksyen yang berikut:
 
 seksyen 62 seksyen yang berikut:
 
-"Kuasa 62A. (1) Menteri boleh, jika difikirkannya tidak untuk tak konsisten dengan maksud Akta ini atau demi menge- cualikan. kepentingan awam atau kepentingan pelabur awam, melalui perintah yang disiarkan dalam Warta, mengecualikan mana-mana orang atau sekuriti tertentu, atau apa-apa kelas, kategori atau perihalan orang atau sekuriti, daripada kesemua atau mana-mana peruntukan Akta ini.
+<!-- marginal: "Kuasa -->
 
-(2) Suatu pengecualian di bawah subseksyen (1) hendaklah diberikan bagi apa-apa tempoh, dan boleh tertakluk kepada apa-apa had, sekatan atau syarat, sebagaimana yang ditentukan oleh Menteri dalam perintah itu.".
+62A. (1) Menteri boleh, jika difikirkannya tidak
+
+<!-- marginal: untuk -->
+
+tak konsisten dengan maksud Akta ini atau demi
+
+<!-- marginal: menge- -->
+
+<!-- marginal: cualikan. -->
+
+kepentingan awam atau kepentingan pelabur awam, melalui perintah yang disiarkan dalam Warta, mengecualikan mana-mana orang atau sekuriti tertentu, atau apa-apa kelas, kategori atau perihalan orang atau sekuriti, daripada kesemua atau mana-mana peruntukan Akta ini.
+
+(2) Suatu pengecualian di bawah subseksyen
+
+(1) hendaklah diberikan bagi apa-apa tempoh, dan boleh tertakluk kepada apa-apa had, sekatan atau syarat, sebagaimana yang ditentukan oleh Menteri dalam perintah itu.".
 
 <!-- page 18 -->
 
@@ -558,9 +704,11 @@ seksyen 62 seksyen yang berikut:
 
 ## RANG UNDANG-UNDANG
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-34. Seksyen 63 Akta ibu adalah dipinda— seksyen 63.
+34. Seksyen 63 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 63. -->
 
 (a) dalam perenggan (2)(d) dengan memasukkan selepas perkataan "seksyen 41" perkataan ", termasuk hak, faedah, kuasa, keistimewaan, liabiliti, kewajipan dan obligasi seseorang pendeposit berkenaan dengan atau yang berbangkit daripada penggantungan sekuriti sedemikian;";
 
@@ -570,13 +718,23 @@ Pindaan
 
 (d) dengan memotong perenggan (2)(q).
 
-Pemotongan
+<!-- marginal: Pemotongan -->
 
-35. Akta ibu adalah dipinda dengan memotong seksyen seksyen 65. 65.
+35. Akta ibu adalah dipinda dengan memotong seksyen
 
-Peruntukan
+<!-- marginal: seksyen 65. -->
 
-36. (1) Semua tindakan, peraturan, perintah, arahan, peralihan dan kecualian. pemberitahuan, kelulusan, keputusan dan tindakan eksekutif yang lain, tidak kira bagaimana jua sekalipun dinamakan, dibuat, diberikan, atau dilakukan di bawah, atau mengikut, atau menurut kuasa, Akta ibu sebelum mula berkuatkuasanya Akta ini hendaklah dianggap telah dibuat, diberikan atau dilakukan di bawah, atau mengikut, atau menurut kuasa, peruntukan bersamaan Akta ini dan hendaklah terus berkuatkuasa dan berkesan penuh berhubungan dengan orang yang kepada mereka peruntukan itu terpakai sehingga dipinda, dimansuhkan atau dihapuskan di bawah, atau mengikut, atau menurut kuasa, peruntukan Akta ini.
+65.
+
+<!-- marginal: Peruntukan -->
+
+36. (1) Semua tindakan, peraturan, perintah, arahan,
+
+<!-- marginal: peralihan dan -->
+
+<!-- marginal: kecualian. -->
+
+pemberitahuan, kelulusan, keputusan dan tindakan eksekutif yang lain, tidak kira bagaimana jua sekalipun dinamakan, dibuat, diberikan, atau dilakukan di bawah, atau mengikut, atau menurut kuasa, Akta ibu sebelum mula berkuatkuasanya Akta ini hendaklah dianggap telah dibuat, diberikan atau dilakukan di bawah, atau mengikut, atau menurut kuasa, peruntukan bersamaan Akta ini dan hendaklah terus berkuatkuasa dan berkesan penuh berhubungan dengan orang yang kepada mereka peruntukan itu terpakai sehingga dipinda, dimansuhkan atau dihapuskan di bawah, atau mengikut, atau menurut kuasa, peruntukan Akta ini.
 
 (2) Apa-apa prosiding, sama ada sivil atau jenayah, atau kausa tindakan yang belum selesai atau yang wujud sebelum sahaja mula berkuatkuasanya Akta ini, oleh atau terhadap Pendaftar Syarikat atau mana-mana orang lain yang bertindak bagi pihak Pendaftar Syarikat boleh diteruskan atau dimulakan oleh atau terhadap Pendaftar Syarikat sebagaimana yang ia mungkin diteruskan atau dibuat oleh atau terhadap Pendaftar Syarikat atau orang itu jika Akta ini belum diluluskan.
 
@@ -654,9 +812,7 @@ Rang Undang-Undang ini bertujuan meminda Akta Perindustrian Sekuriti (Depositori
 
 17. Fasal 16 bertujuan meminda seksyen 34 dengan menggantikan Pendaftar dengan Suruhanjaya.
 
-18. Fasal 17 bertujuan meminda seksyen 35 yang memperkatakan hak dan obligasi depositori yang tertakluk kepada lien ke atas sekuriti belum berbayar bagi faedah ejen depositori diberikuasa. Subseksyen
-
-(3) menyatakan bahawa apa-apa urusniaga sekuriti belum berbayar hendaklah dikawalselia oleh kaedah-kaedah bursa saham.
+18. Fasal 17 bertujuan meminda seksyen 35 yang memperkatakan hak dan obligasi depositori yang tertakluk kepada lien ke atas sekuriti belum berbayar bagi faedah ejen depositori diberikuasa. Subseksyen (3) menyatakan bahawa apa-apa urusniaga sekuriti belum berbayar hendaklah dikawalselia oleh kaedah-kaedah bursa saham.
 
 19. Fasal 18 bertujuan meminda seksyen 41 berikutan dengan pindaan kepada seksyen 35. Menteri diberikan kuasa untuk menentukan hak dan obligasi yang timbul daripada sekuriti yang berada dalam gantungan.
 

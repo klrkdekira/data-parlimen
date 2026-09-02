@@ -1,0 +1,551 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-7-2011",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_19"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Malaysian Industrial Development Authority (Incorporation) (Amendment) Bill 2011"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Malaysian Industrial Development Authority (Incorporation) (Amendment) Act 2011. Amendment of long title"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 7A of the principal Act is amended by substituting for the words “Director General” wherever they may appear the words “Chief Executive Officer”. Amendment of section 7B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 7B(1) of the principal Act is amended by inserting after the word “officers” the words “and servants”. New section 7C"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 7B the following section: “Power to establish companies 7C. The Authority may, with the approval of the Minister, establish companies under the Companies Act 1965 [Act 125] to carry out and have the charge, conduct and management of any project, scheme, or enterprise which has been planned or undertaken by the Authority in the performance of its functions or the exercise of its powers.”. Amendment of section 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_13__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 10 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the word “Industrial” the word “Investment”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the word “Industrial” the word “Investment”. Amendment of section 10A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_14__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_14__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 10A of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c), by inserting after the word “grants” the words “, loans or any financial assistance”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (c) the following paragraph: “(ca) giving financial assistance or credit facilities, with or without interest, or any contribution to any person for educational purposes, scholarships or any other purposes subject to the approval of the Minister with the concurrence of the Minister of Finance;”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_14__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (d), by substituting for the word “staff” the word “servants”. New section 10AA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 10A the following section: “Investment 10AA. The moneys of the Authority, insofar as they are not required to be expended by the Authority under this Act, may be invested in such manner as the Minister may, with the concurrence of the Minister of Finance, approve.”. Amendment of section 12"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 12(1) of the principal Act is amended by substituting for the words “not later than 31st day of March of each year, cause to be made and transmitted” the words “as soon as practicable after the end of each financial year, furnish”. (Incorporation) (Amendment) Amendment of section 13"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 13(2) of the principal Act is amended by substituting for the words “six months or to a fine not exceeding one thousand ringgit” the words “two years or to a fine not exceeding fifty thousand ringgit”. Amendment of Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subparagraph 2(4) of the Schedule to the principal Act is amended by substituting for the word “Industrial” the word “Investment”. Savings and transitional provisions"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_19__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_19__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_19__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_19__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_19__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All references to the Malaysian Industrial Development Authority (Incorporation) Act 1965 in any written law or document shall, on the coming into operation of this Act, be construed as references to the Malaysian Investment Development Authority (Incorporation) Act 1965."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The change of name of “The Malaysian Industrial Development Authority” to “The Malaysian Investment Development Authority” upon the coming into operation of this Act shall not affect any rights or obligations of the Authority or render defective any legal proceedings by or against it, and any legal proceedings that could have been continued or commenced by or against it before the date of coming into operation of this Act may be continued or commenced under its new name."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_19__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All actions, regulations, orders, directions, notifications, approvals, decisions, guidelines and other executive acts made, given or done under, or in accordance with, or by virtue of the principal Act before the coming into operation of this Act shall be deemed to have been made, given or done under, or in accordance with, or by virtue of, the corresponding provision introduced or amended by this Act, and shall continue to remain in full force and effect in relation to the persons to whom they apply until amended, repealed or rescinded under, in accordance with, or by virtue of, the corresponding provision introduced or amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_19__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All references to the Director General of the Malaysian Industrial Development Authority in any written law or document shall, on the coming into operation of this Act, be construed as references to the Chief Executive Officer of the Malaysian Investment Development Authority."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_19__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All moneys contained in or due to be paid into the Malaysian Industrial Development Authority Fund established under section 10 of the principal Act shall, on the coming into operation of this Act, be transferred to and be deemed to be part of the Malaysian Investment Development Authority Fund."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_19__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All deeds, documents and other instruments executed by the Authority under the common seal of “Malaysian Industrial Development Authority” before the coming into operation of this Act shall continue to remain in full force and effect on the coming into operation of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Malaysian Industrial Development Authority (Incorporation) Act 1965 [Act 397], which is referred to as the “principal Act” in this Act, is amended by substituting for the long title the following long title: “An Act to provide for the establishment and incorporation of the Malaysian Investment Development Authority and to provide for the administration, functions and powers of the Authority and for matters connected therewith.”. Amendment of section 1"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 1(1) of the principal Act is amended by substituting for the word “Industrial” the word “Investment”. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_4__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_4__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_4__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_4__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 2 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “Authority”, by substituting for the word “Industrial” the word “Investment”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “Board” the following definition: ‘ “Chief Executive Officer” means the Chief Executive Officer of the Authority appointed under section 3D;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the definition of “Director General”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_4__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “Fund”, by substituting for the word “Industrial” the word “Investment”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_4__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “Fund” the following definition: ‘ “Government Entity” means— (a) the Federal Government, or any State Government, State Authority or local government; and (b) any ministry, department, office, agency, authority, commission, committee, board, council or other body, corporate or unincorporate, of the Federal Government, or of any State Government, whether established under written law or otherwise;’; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_4__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “Minister”, by substituting for the words “industrial development” the words “international trade and industry”. (Incorporation) (Amendment) Substitution of section 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 3 the following section: “Establishment of the Authority 3. (1) A body corporate by the name of the “Malaysian Investment Development Authority” is established. (2) The Authority shall have perpetual succession and a common seal. (3) Subject to and for the purposes of this Act, the Authority may, upon such term as it deems fit— (a) enter into contracts; (b) acquire, purchase, take, hold and enjoy movable and immovable property of every description; and (c) convey, assign, surrender, charge, mortgage, demise, reassign, transfer, or otherwise dispose of, or deal with, any movable or immovable property or any interest vested in the Authority.”. Amendment of section 3A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 3A of the principal Act is amended by substituting for the words “Director General” wherever they may appear the words “Chief Executive Officer”. Amendment of section 3D"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_7__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_7__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 3D of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the words “Director General” the words “Chief Executive Officer”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words “, upon such terms as the Minister may determine, an executive officer who shall be the Director General of the Authority” the words “a Chief Executive Officer upon such terms and conditions as the Minister may determine”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_7__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_7__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_7__para_c__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_7__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_7__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “Director General” the words “Chief Executive Officer”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_7__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_7__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the word “and” at the end of paragraph (d); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_7__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_7__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (d) the following paragraph: “(da) the management of the annual budget of the Authority and making a decision on the allocation for all activities including development and operational; and”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_7__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the words “Director General” the words “Chief Executive Officer”. Substitution of section 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 6 the following section: “Functions of the Authority 6. It shall be the functions of the Authority to promote investments in the manufacturing and services sectors (excluding financial and utilities) and to advise the Minister on the formulation of policies in respect thereof and for that purpose, the Authority may— (a) lead, co-ordinate, monitor and evaluate the implementation of the policies, strategies, activities and development of investment in the manufacturing and services sectors (excluding financial and utilities); (b) undertake activities relating to the promotion of investment in the manufacturing and services sectors (excluding financial and utilities) within or outside Malaysia; (c) undertake or cause to be undertaken research and planning on matters relating to investment in the manufacturing and services sectors (excluding financial and utilities); (Incorporation) (Amendment) (d) advise the Government on the policies relating to the promotion of investment in the manufacturing and services sectors (excluding financial and utilities) including policies on— (i) the granting of manufacturing licences; (ii) the incentives applicable to investors in Malaysia; (iii) expatriate posts; (iv) the imposition or alteration of, and exemption from, custom duties; and (v) any other fiscal or non-fiscal facilities; (e) formulate measures for the promotion of investment in the manufacturing and services sectors (excluding financial and utilities); (f) co-ordinate and facilitate the activities relating to the promotion and implementation of investment in the manufacturing and services sectors (excluding financial and utilities) at the Federal and State levels; (g) provide consultancy services including training and technical assistance; (h) undertake any activity that promotes co-operation with other countries in line with the objectives of the Government with respect to investment in the manufacturing and services sectors (excluding financial and utilities); (i) assist Malaysian companies in seeking technology and investment opportunities abroad; (j) act as a centre for collection, reference and dissemination of information relating to investment across all sectors of the economy; (k) report periodically to the Minister on the progress and problems of investment in the manufacturing and services sectors (excluding financial and utilities) in Malaysia and make recommendations on the manner in which such problems may be dealt with; (l) carry out any other functions consistent with this Act as the Minister may authorize in writing; and (m) generally do all such matters incidental to or consequential upon the exercise of its powers or the performance of its functions under this Act.”. Amendment of section 6A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_9__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_9__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 6A(2) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (a) the following paragraph: “(a) conduct surveys and investigations to ensure compliance with conditions imposed for the grant of licences, permits or incentives in respect of manufacturing and services sectors (excluding financial and utilities);”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by substituting for the words “manufacturing activities or their related services” the words “manufacturing and services sectors (excluding financial and utilities)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_9__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/7/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (b) the following paragraphs: “(ba) require— (i) all relevant Government Entities to give such assistance and submit such information in their possession as may be required by the Authority in order for the Authority to carry out its functions under this Act; and (ii) all Government Entities, companies and corporations, and other bodies or persons, whether local or foreign, responsible for or engaged in carrying out or intending to carry out development in Malaysia to submit reports, containing such particulars and information as may be specified by the Authority, regarding their activities or proposed activities; (Incorporation) (Amendment) (bb) establish advisory panels to advise the Authority on the future direction and development of the manufacturing and services sectors (excluding financial and utilities);”. Amendment of section 7A"
+      }
+    }
+  ]
+}

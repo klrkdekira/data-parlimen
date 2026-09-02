@@ -60,9 +60,11 @@ and
 
 (b) by substituting for the words "penjawat" and "penjawat-penjawat" wherever appearing therein the words "pengkhidmat" and "pengkhidmat- pengkhidmat" respectively.
 
-Amendment
+<!-- marginal: Amendment -->
 
-5. Section 2 of the principal Act is amended— of section 2.
+5. Section 2 of the principal Act is amended—
+
+<!-- marginal: of section 2. -->
 
 (a) by inserting after the definition of "Chairman" the following definitions:
 
@@ -76,17 +78,17 @@ Amendment
 
 (d) by deleting the definition of "West Malaysia".
 
-Amendment
+<!-- marginal: Amendment -->
 
-6. Subsection 4(1) of the principal Act is amended— of section 4
+6. Subsection 4(1) of the principal Act is amended—
+
+<!-- marginal: of section 4 -->
 
 (a) by inserting after the word "Education" in paragraphs (b) and (c) the words "or his representative";
 
 (b) by inserting after paragraph (c) the following paragraph;
 
-"(cc) the Attorney General
-
-<!-- marginal: or -->
+"(cc) the Attorney General or
 
 <!-- marginal: his -->
 
@@ -104,11 +106,9 @@ representative;";
 
 "(dd) the Director General of Public Services or his representative;".
 
-<!-- marginal: Amendment -->
+Amendment
 
-7. Section 5 of the principal Act is amended—
-
-<!-- marginal: of section 5. -->
+7. Section 5 of the principal Act is amended— of section 5.
 
 (a) by substituting for paragraph (i) the following paragraph:
 
@@ -116,19 +116,7 @@ representative;";
 
 (b) in paragraph (iv)—
 
-(i) by substituting
-
-<!-- marginal: for -->
-
-<!-- marginal: the -->
-
-<!-- marginal: word -->
-
-"menstandardisasikan" in the national language text the words
-
-<!-- marginal: "untuk -->
-
-membakukan";
+(i) by substituting for the word "menstandardisasikan" in the national language text the words "untuk membakukan";
 
 (ii) by substituting for the words "technical terms" the word "terminologies"; and
 
@@ -146,13 +134,23 @@ membakukan";
 
 <!-- page 4 -->
 
-Amendment 8. Section 6 of the principal Act is amended— of section 6.
+<!-- marginal: Amendment -->
+
+8. Section 6 of the principal Act is amended—
+
+<!-- marginal: of section 6. -->
 
 (a) by deleting the words "and powers" in the marginal note; and
 
 (b) by deleting subsection (2).
 
-New sections 9. The principal Act is amended by inserting after section 6A and 6s. 6 the following sections:
+<!-- marginal: New sections -->
+
+9. The principal Act is amended by inserting after section
+
+<!-- marginal: 6A and 6s. -->
+
+6 the following sections:
 
 Board to 6A. The Board shall be the sole co-ordinating be sole co- authority pertaining to composing, devising and ordinating standardising of terminologies in the national authority. language.
 
@@ -168,9 +166,13 @@ Delegation. 6e. (1) The Board may, by an instrument in writing under its common 
 
 (b) shall not prevent the Board from itself performing the duty or exercising the power so delegated where it appears expedient to do so.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-10. The principal Act is amended by substituting for of section 7. section 7 the following section:
+10. The principal Act is amended by substituting for
+
+<!-- marginal: of section 7. -->
+
+section 7 the following section:
 
 General 7. (1) The Board shall have the power to powers of do anything and to enter into any contract or the Board business transaction (whether or not involving to enter into expenditure, the acquisition, use and disposal of contract, any movable, immovable, tangible or intangible etc.
 
@@ -200,21 +202,61 @@ Provided that this power shall not include the power to borrow other than as pro
 
 (b) "disposal", in relation to property, includes the conveying, selling, assigning, surrendering and yielding up, charging, mortgaging, demising, letting and subletting, reassigning and transferring of such property.".
 
-New section
+<!-- marginal: New section -->
 
 11. The principal Act is amended by inserting after section
 
 7A. 7 the following section:
 
-Powers of 7 A. (1) The Board may, in relation to the carrying the Board out of its object under section 5(iii), transfer or to transfer or dispose dispose of any of its activity or duty to any of activity person or body subject to such terms and or duty. conditions as it may impose.
+<!-- marginal: Powers of -->
+
+7 A. (1) The Board may, in relation to the carrying
+
+<!-- marginal: the Board -->
+
+out of its object under section 5(iii), transfer or
+
+<!-- marginal: to transfer -->
+
+<!-- marginal: or dispose -->
+
+dispose of any of its activity or duty to any
+
+<!-- marginal: of activity -->
+
+person or body subject to such terms and
+
+<!-- marginal: or duty. -->
+
+conditions as it may impose.
 
 (2) The Board may make rules to regulate the activities of such person or body and prescribe the rates and charges that may be fixed by such person or body in respect of the activity or duty of such person or body under subsection (1).".
 
-Amendment
+<!-- marginal: Amendment -->
 
-12. The principal Act is amended by substituting for of section 11. section 11 the following section:
+12. The principal Act is amended by substituting for
 
-"Appoint- 11. (1) The Board may appoint one or more ment and committees as it thinks fit to assist it in performing procedure of commit- its duties and exercising its powers on any matter tees. arising out of or connected with any of its duties and powers under this Act.
+<!-- marginal: of section 11. -->
+
+section 11 the following section:
+
+<!-- marginal: "Appoint- -->
+
+11. (1) The Board may appoint one or more
+
+<!-- marginal: ment and -->
+
+committees as it thinks fit to assist it in performing
+
+<!-- marginal: procedure -->
+
+<!-- marginal: of commit- -->
+
+its duties and exercising its powers on any matter
+
+<!-- marginal: tees. -->
+
+arising out of or connected with any of its duties and powers under this Act.
 
 (2) Subject to this Act, and to any directions given by the Board, a committee may regulate its own procedure.
 
@@ -234,7 +276,27 @@ Amendment
 
 11 the following sections:
 
-".Appoint- HA. (1) Subject to such limitations, restrictions ment and or conditions as may be prescribed by the Board, procedure of sub- a committee may appoint one or more sub- commit- committees to assist it in performing its duties tees. and exercising its powers.
+<!-- marginal: ".Appoint- -->
+
+HA. (1) Subject to such limitations, restrictions
+
+<!-- marginal: ment and -->
+
+or conditions as may be prescribed by the Board,
+
+<!-- marginal: procedure -->
+
+<!-- marginal: of sub- -->
+
+a committee may appoint one or more sub-
+
+<!-- marginal: commit- -->
+
+committees to assist it in performing its duties
+
+<!-- marginal: tees. -->
+
+and exercising its powers.
 
 (2) Subject to this Act, and to any directions given by the committee, a sub-committee may regulate its own procedure.
 
@@ -242,17 +304,35 @@ Amendment
 
 (4) A sub-committee shall conform to any instructions from time to time given to it by the committee and the committee may, at any time, discontinue or alter the constitution of the sub- committee so appointed.
 
-Remune- HB. Where any person not being a member, ration or officer or servant of the Board is invited to allowance. attend a meeting of the Board, any committee or sub-committee for the purpose of giving assistance or advice under section 9(3), 11(1) or HA(!) the Board may by resolution declare
+<!-- marginal: Remune- -->
+
+HB. Where any person not being a member,
+
+<!-- marginal: ration or -->
+
+officer or servant of the Board is invited to
+
+<!-- marginal: allowance. -->
+
+attend a meeting of the Board, any committee or sub-committee for the purpose of giving assistance or advice under section 9(3), 11(1) or HA(!) the Board may by resolution declare
 
 <!-- page 8 -->
 
 the remuneration or allowance of such person, and such sums shall be payable out of the Fund.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-14. The principal Act is amended by inserting after the of heading word "ADMINISTRATION" in the heading to Part III to Part III. the word ", DISCIPLINE".
+14. The principal Act is amended by inserting after the
 
-New section
+<!-- marginal: of heading -->
+
+word "ADMINISTRATION" in the heading to Part III
+
+<!-- marginal: to Part III. -->
+
+the word ", DISCIPLINE".
+
+<!-- marginal: New section -->
 
 15. The principal Act is amended by inserting after section
 
@@ -274,9 +354,13 @@ Duties of 16A. The Director General shall, subject to the the Director direction
 
 (g) the supervision and control over the implementation of the decisions of the Board.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-16. Section 17 of the principal Act is amended by deleting of section 17. the words "suspending, dismissing, fining,".
+16. Section 17 of the principal Act is amended by deleting
+
+<!-- marginal: of section 17. -->
+
+the words "suspending, dismissing, fining,".
 
 <!-- page 9 -->
 
@@ -296,7 +380,13 @@ Amendment
 
 Discipline
 
-Disciplinary 18A. (1) The Board shall have disciplinary committees. authority over all its officers and servants and shall exercise disciplinary control in respect of all such persons in accordance with this Act and any regulations made under section 18B.
+<!-- marginal: Disciplinary -->
+
+18A. (1) The Board shall have disciplinary
+
+<!-- marginal: committees. -->
+
+authority over all its officers and servants and shall exercise disciplinary control in respect of all such persons in accordance with this Act and any regulations made under section 18B.
 
 (2) For the purposes of this section—
 
@@ -340,11 +430,25 @@ respectively, and the Minister or the Board, as the case may be, may confirm, re
 
 (8) A decision of the Minister or the Board under subsection (6) shall be final and conclusive.
 
-Power to 18B. (1) The Board may, with the approval of make the Minister, make such regulations as it deems disciplinary necessary or expedient to provide for the discipline regulations. of the Director General, officers and servants of the Board.
+<!-- marginal: Power to -->
+
+18B. (1) The Board may, with the approval of
+
+<!-- marginal: make -->
+
+the Minister, make such regulations as it deems
+
+<!-- marginal: disciplinary -->
+
+necessary or expedient to provide for the discipline
+
+<!-- marginal: regulations. -->
+
+of the Director General, officers and servants of the Board.
 
 <!-- page 11 -->
 
-<!-- marginal: 1 1 -->
+1 1
 
 ## AND EXTENSION)
 
@@ -354,21 +458,11 @@ Power to 18B. (1) The Board may, with the approval of make the Minister, make su
 
 (b) may provide for disciplinary punishments as the Board may deem appropriate, and the punishments may extend to forfeiture of emoluments, deferment of salary movement, reduction of salary, reduction in rank and dismissal; and
 
-(c) shall provide for an opportunity to the person against whom disciplinary proceedings are
-
-<!-- marginal: taken -->
-
-<!-- marginal: to make -->
-
-representations against the disciplinary charge laid against him before a decision is arrived at by the disciplinary committee except in the following cases:
+(c) shall provide for an opportunity to the person against whom disciplinary proceedings are taken to make representations against the disciplinary charge laid against him before a decision is arrived at by the disciplinary committee except in the following cases:
 
 (i) where an officer or servant of the Board is dismissed or reduced in rank on the ground of conduct in respect of which a criminal charge has been proved against him;
 
-(ii) where the Board, on
-
-<!-- marginal: the -->
-
-recommendations of the Minister charged with home affairs, is satisfied that in the interest of the security of the Federation or any part thereof it is not expedient to carry out the requirements of this paragraph; or
+(ii) where the Board, on the recommendations of the Minister charged with home affairs, is satisfied that in the interest of the security of the Federation or any part thereof it is not expedient to carry out the requirements of this paragraph; or
 
 (iii) where there has been made against an officer or servant of the Board any order of detention, supervision, restricted residence, banishment or deportation, or where there has been imposed on such officer or servant of the Board any form of restriction or supervision by bond or otherwise, under any law relating to the
 
@@ -382,9 +476,11 @@ security of the Federation or any part thereof, prevention of crime, preventive 
 
 (3) For the purpose of subsection (2), "officer" includes the Director General.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-18. Section 22 of the principal Act is amended— of section
+18. Section 22 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 22.
 
@@ -410,7 +506,17 @@ Amendment
 
 <!-- marginal: 24c and 24D. -->
 
-24A. (1) A person who is or was in the "TImposition of sur- employment of the Board may be surcharged if charge. it appears to the Board that the person—
+24A. (1) A person who is or was in the
+
+<!-- marginal: "TImposition -->
+
+<!-- marginal: of sur- -->
+
+employment of the Board may be surcharged if
+
+<!-- marginal: charge. -->
+
+it appears to the Board that the person—
 
 (a) has failed to collect any moneys owing to the Board for the collection of which he is responsible;
 
@@ -436,11 +542,29 @@ amount not collected, or of the improper payment made, or of the deficiency in o
 
 (b) in the case of subsections (1)(d) and (e), surcharge against such person such sum as the Board may think fit.
 
-Notification 24s. The Board shall notify the person surcharged of surcharge. in respect of any surcharge made under section 24A(3).
+<!-- marginal: Notification -->
 
-Withdrawal 24c. Notwithstanding section 24A(3) and section of surcharge 24B, the Board may at any time withdraw any surcharge in respect of which a satisfactory explanation has been received or if it otherwise appears that no surcharge should have been made, and the Board shall at once notify the person of such withdrawal.
+24s. The Board shall notify the person surcharged
 
-Recovery 24D. The amount of any surcharge made under of surcharge. section 24A(3) and not withdrawn under section 24c shall be a debt due to the Board from the person against whom the surcharge is made and may be sued for and recovered in any court at the suit of the Board and may also if the Board directs be recovered by deduction—
+<!-- marginal: of surcharge. -->
+
+in respect of any surcharge made under section 24A(3).
+
+<!-- marginal: Withdrawal -->
+
+24c. Notwithstanding section 24A(3) and section
+
+<!-- marginal: of surcharge -->
+
+24B, the Board may at any time withdraw any surcharge in respect of which a satisfactory explanation has been received or if it otherwise appears that no surcharge should have been made, and the Board shall at once notify the person of such withdrawal.
+
+<!-- marginal: Recovery -->
+
+24D. The amount of any surcharge made under
+
+<!-- marginal: of surcharge. -->
+
+section 24A(3) and not withdrawn under section 24c shall be a debt due to the Board from the person against whom the surcharge is made and may be sued for and recovered in any court at the suit of the Board and may also if the Board directs be recovered by deduction—
 
 (a) from the salary of the person surcharged; or
 
@@ -448,13 +572,25 @@ Recovery 24D. The amount of any surcharge made under of surcharge. section 24A(3
 
 by equal monthly instalments not exceeding one- fourth of the total monthly salary or pension, as the case may be, of that person.".
 
-New section
+<!-- marginal: New section -->
 
 20. The principal Act is amended by inserting after section
 
 25A. 25 the following section:
 
-"Public 25A. In the performance of their duties and the servants. exercise of their powers, all members, the Director General, officers and servants of the Board shall be deemed to be public servants within the F.M.S. meaning of the Penal Code.". Cap 45
+<!-- marginal: "Public -->
+
+25A. In the performance of their duties and the
+
+<!-- marginal: servants. -->
+
+exercise of their powers, all members, the Director General, officers and servants of the Board shall be deemed to be public servants within the
+
+<!-- marginal: F.M.S. -->
+
+meaning of the Penal Code.".
+
+<!-- marginal: Cap 45 -->
 
 <!-- page 15 -->
 

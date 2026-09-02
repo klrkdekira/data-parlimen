@@ -60,6 +60,4 @@ Rang Undang-Undang ini bertujuan meminda Akta Perancangan Bandar dan Desa 1976 (
 
 ## 1MPLIKASI KEWANGAN
 
-Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
-
-<!-- marginal: [PN. (U2) 1770.] -->
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN. (U2) 1770.]

@@ -538,7 +538,9 @@ instrument or give any acquittance necessary to be executed or given under this 
 
 ### Amendment of section 40
 
-33. Section 40 of the principal Act is amended in subsection (2)-
+33. Section 40 of the principal Act is amended in subsection
+
+(2)-
 
 (a) in the national language text, by substituting for the word "diarahkannya" the words "diarahkan oleh Suruhanjaya"; and
 
@@ -786,7 +788,9 @@ Commission.
 
 (ID) The Statutory Reserve Fund shall be indivisible and no member shall be entitled to claim a specific share of it.
 
-(1E) The Statutory Reserve Fund shall be maintained in a separate account and shall be invested in the Co- operative Deposit Account as referred to in the Malaysia Co-operative Societies Commission Act 2006.";
+(1E) The Statutory Reserve Fund shall be maintained in a separate account and shall be invested in the Co- operative Deposit Account as referred to in the Malaysia Co-operative Societies Commission Act
+
+2006.";
 
 in subsection (2) —
 
@@ -800,11 +804,7 @@ in subsection (5) —
 
 (ii) by substituting for paragraph (b) the following paragraph:
 
-"(b) the payment of dividend, on the shares and subscriptions of members of
-
-<!-- marginal: the co- -->
-
-operative society as may be specified by directives or guidelines:
+"(b) the payment of dividend, on the shares and subscriptions of members of the co- operative society as may be specified by directives or guidelines:
 
 <!-- page 29 -->
 
@@ -986,7 +986,9 @@ the Commission may, by order in writing, exercise any one or more of the followi
 
 (vi) freeze the accounts of the co-operative society held in other co-operative society or banks to prevent losses or misuse of its funds.
 
-(2) Where any of the circumstances set out in paragraph (l)faj, (b), or (c) exists in respect of a co-operative society, the Commission may, whether or not it had exercised any of its powers under subparagraphs (l)(i), (ii), (iii), (iv), (v) or (vi) by order published in the Gazette —
+(2) Where any of the circumstances set out in paragraph
+
+(l)faj, (b), or (c) exists in respect of a co-operative society, the Commission may, whether or not it had exercised any of its powers under subparagraphs (l)(i), (ii), (iii), (iv), (v) or (vi) by order published in the Gazette —
 
 (a) for the Commission or any person appointed by the Commission to assume control —
 
@@ -1074,9 +1076,13 @@ assumed by appointed person under paragraph 69(2)(a), to such appointed person, 
 
 69D. (1) The Commission shall complete any exercise of powers under subsection 69(1) or (2) within a period not exceeding two years unless such period is extended by the Minister.
 
-(2) The Minister may extend the period under subsection (1) for three further consecutive periods not exceeding one year each.
+(2) The Minister may extend the period under subsection
 
-(3) Upon the expiry of such period referred to in subsection (1) or (2), and if in the opinion of the Commission, the Commission has not completed the exercise of its powers under subsection 69(1) or (2), the Commission may dissolve the co- operative society.
+(1) for three further consecutive periods not exceeding one year each.
+
+(3) Upon the expiry of such period referred to in subsection
+
+(1) or (2), and if in the opinion of the Commission, the Commission has not completed the exercise of its powers under subsection 69(1) or (2), the Commission may dissolve the co- operative society.
 
 (4) Where the Commission considers that any exercise of the powers referred to in subsection 69(1) or (2) has been completed, the Commission shall submit any property, business, activities and affairs of the co-operative society to the newly elected Board and cause a notice to that effect specifying the date on which the exercise of such powers was completed to be published in the Gazette".
 
@@ -1230,11 +1236,7 @@ dissolved, dissolve the co-operative society by making an order for the revocati
 
 (2) The Commission may require the document or information submitted under subsection (1) to be duly certified by the auditor.
 
-(3) Any returns, statistics, documents or
-
-<!-- marginal: information -->
-
-submitted to the Commission under subsection (1) shall be true, accurate and complete.
+(3) Any returns, statistics, documents or information submitted to the Commission under subsection (1) shall be true, accurate and complete.
 
 (4) Where the information obtained by the Commission under subsection (1) relates to the accounts or affairs of the members of the co-operative society, that information shall be regarded as confidential between the Commission and the members of the co-operative society.
 
@@ -1320,7 +1322,9 @@ submitted to the Commission under subsection (1) shall be true, accurate and com
 
 <!-- page 48 -->
 
-(3) Without prejudice to the provisions of subsections (1) and (2), the Commission may, with the concurrence of the Minister and the Minister of Finance, make such regulations as may be necessary for the purpose of controlling or regulating the business, activities or affairs, and to provide for the better management, of registered co-operative society carrying on the deposit taking business or the business of insurance.
+(3) Without prejudice to the provisions of subsections (1) and
+
+(2), the Commission may, with the concurrence of the Minister and the Minister of Finance, make such regulations as may be necessary for the purpose of controlling or regulating the business, activities or affairs, and to provide for the better management, of registered co-operative society carrying on the deposit taking business or the business of insurance.
 
 (4) Any regulations made under this section may relate to all, or any class, category or description of co-operative society, and different provisions may be made for different co-operative society, classes, categories or description of co-operative society.
 

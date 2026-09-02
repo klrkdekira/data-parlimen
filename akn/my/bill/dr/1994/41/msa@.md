@@ -58,17 +58,31 @@ dan XVIlA.
 
 <!-- page 2 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-6. Subseksyen 158(i) Kanun adalah dipinda dengan seksyen 158. memotong perkataan "or in the case of trials by jury or trials with the aid of assessors before the yerdict of the jury is returned or the opinions of the assessors are expressed".
+6. Subseksyen 158(i) Kanun adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 158. -->
 
-7. Seksyen 177 Kanun adalah dipinda dengan memotong perkataan "or proceed under Chapter XVII with a view
+memotong perkataan "or in the case of trials by jury or trials with the aid of assessors before the yerdict of the jury is returned or the opinions of the assessors are expressed".
+
+<!-- marginal: Pindaan -->
+
+7. Seksyen 177 Kanun adalah dipinda dengan memotong
+
+<!-- marginal: seksyen -->
+
+perkataan "or proceed under Chapter XVII with a view
 
 177. to the committal of the accused for trial by the High Court, and shall record such order upon the proceedings".
 
-8. Kanun adalah dipinda dengan memasukkan selepas baru 177A. seksyen 177 dalam Bab XIX seksyen yang berikut:
+<!-- marginal: Seksyen -->
+
+8. Kanun adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru 177A. -->
+
+seksyen 177 dalam Bab XIX seksyen yang berikut:
 
 177A. (1) A prosecution in respect of an offence "Trans- mission which is to be tried by the High Court in of case accordance with Chapter XX, shall not be to, and trial by, instituted except by or with the consent of the the High Public Prosecutor: Court.
 
@@ -162,43 +176,63 @@ perkataan "inquiry or" dan "if such inquiry result in a commitment or".
 
 <!-- page 4 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-17. Subseksyen 262(ii) Kanun adalah dipinda dengan seksyen 262. memotong perkataan "in the course of an inquiry under
+17. Subseksyen 262(ii) Kanun adalah dipinda dengan
 
-## Chapter XVII, or".
+<!-- marginal: seksyen 262. -->
 
-Pindaan
+memotong perkataan "in the course of an inquiry under Chapter XVII, or".
 
-18. Seksyen 264 Kanun adalah dipinda dengan seksyen 264. menggantikan perkataan "XVII, XIX, XX, XXI and XXII" dengan perkataan "XIX and XX".
+<!-- marginal: Pindaan -->
 
-Pindaan
+18. Seksyen 264 Kanun adalah dipinda dengan
 
-19. Seksyen 267 Kanun adalah dipinda dengan seksyen 267. menggantikan perkataan "Chapters XI and XVII" dengan perkataan "Chapter XI".
+<!-- marginal: seksyen 264. -->
 
-Pindaan
+menggantikan perkataan "XVII, XIX, XX, XXI and XXII" dengan perkataan "XIX and XX".
 
-20. Seksyen 269 Kanun adalah dipinda dengan seksyen 269. menggantikan perkataan "Chapters XI and XVII" dengan perkataan "Chapter XI".
+<!-- marginal: Pindaan -->
 
-Pindaan
+19. Seksyen 267 Kanun adalah dipinda dengan
 
-21. Subperenggan 281(b)(ii) Kanun adalah dipinda— seksyen 281.
+<!-- marginal: seksyen 267. -->
+
+menggantikan perkataan "Chapters XI and XVII" dengan perkataan "Chapter XI".
+
+<!-- marginal: Pindaan -->
+
+20. Seksyen 269 Kanun adalah dipinda dengan
+
+<!-- marginal: seksyen 269. -->
+
+menggantikan perkataan "Chapters XI and XVII" dengan perkataan "Chapter XI".
+
+<!-- marginal: Pindaan -->
+
+21. Subperenggan 281(b)(ii) Kanun adalah dipinda—
+
+<!-- marginal: seksyen 281. -->
 
 (a) dengan memasukkan selepas perkataan "as soon as corweniently may be" yang mula-mula terdapat perkataan "after the appeal has been determined by the Court of Appeal"; dan
 
 (b) dengan memasukkan selepas perkataan ."dismisses the appeal" perkataan "made to it".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-22. Subseksyen 288(iv) Kanun adalah dipinda— seksyen 288.
+22. Subseksyen 288(iv) Kanun adalah dipinda—
+
+<!-- marginal: seksyen 288. -->
 
 (a) dengan memasukkan selepas perkataan "In the case of' perkataan "an accused sentenced to whipping for an offence under section 403, 404, 406, 407, 408, 409 or 420 of the Penal Code, or"; dan
 
 (b) dengan memasukkan bertentangan dengan perkataan "Penal Code" rujukan birai "P.M.S. Cap. 45.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-23. Seksyen 342 Kanun adalah dipinda— seksyen 342.
+23. Seksyen 342 Kanun adalah dipinda—
+
+<!-- marginal: seksyen 342. -->
 
 (a) dalam subseksyen (i) dengan menggantikan perkataan "holding a trial or a Magistrate holding an inquiry or" dengan perkataan "or a Magistrate holding"; dan
 
@@ -300,21 +334,49 @@ memotong perkataan "or commit for trial" dan "inquiry into or".
 
 (c) dalam subseksyen (4) dengan memotong perkataan "an inquiry or" dan "inquiry or".
 
-Pindaan 34. Subseksyen 418A(3) Kanun adalah dipinda dengan seksyen 418, memotong perkataan "without holding a preliminary inquiry under Chapter XVII".
+<!-- marginal: Pindaan -->
 
-Pindaan 35. Seksyen 427 Kanun adalah dipinda dengan memotong seksyen 427. perkataan "or committed for trial to", "the Court which committed the case for trial or" dan "or both".
+34. Subseksyen 418A(3) Kanun adalah dipinda dengan
 
-Pemotongan 36. Kanun adalah dipinda dengan memotong seksyen seksyen 429, 429.
+<!-- marginal: seksyen 418, -->
 
-Pmdaan 37. Seksyen 439 Kanun adalah dipinda dengan memotong seksyen 439. perkataan "or commit for trial".
+memotong perkataan "without holding a preliminary inquiry under Chapter XVII".
 
-Pindaan 38. Jadual Kedua kepada Kanun adalah dipinda dengan
+<!-- marginal: Pindaan -->
+
+35. Seksyen 427 Kanun adalah dipinda dengan memotong
+
+<!-- marginal: seksyen 427. -->
+
+perkataan "or committed for trial to", "the Court which committed the case for trial or" dan "or both".
+
+<!-- marginal: Pemotongan -->
+
+36. Kanun adalah dipinda dengan memotong seksyen
+
+<!-- marginal: seksyen 429, -->
+
+429.
+
+<!-- marginal: Pmdaan -->
+
+37. Seksyen 439 Kanun adalah dipinda dengan memotong
+
+<!-- marginal: seksyen 439. -->
+
+perkataan "or commit for trial".
+
+<!-- marginal: Pindaan -->
+
+38. Jadual Kedua kepada Kanun adalah dipinda dengan
 
 ## Jadual Kedua
 
 memotong Borang XXXII dan XXXIX.
 
-Kecualian. 39. (1) Apa-apa siasatan permulaan, perbicaraan oleh juri atau perbicaraan dengan bantuan pengapit yang telah dimulakan sebelum atau pada mula berkuatkuasanya Akta
+<!-- marginal: Kecualian. -->
+
+39. (1) Apa-apa siasatan permulaan, perbicaraan oleh juri atau perbicaraan dengan bantuan pengapit yang telah dimulakan sebelum atau pada mula berkuatkuasanya Akta
 
 <!-- page 7 -->
 

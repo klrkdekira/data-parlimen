@@ -36,7 +36,11 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ### Amendment of section 9
 
-3. Subsection 9(1) of the principal Act is amended by substituting for the words “during the period of investigation” the words “during the investigation”.
+3. Subsection 9(1) of the principal Act
+
+<!-- marginal: is amended by -->
+
+substituting for the words “during the period of investigation” the words “during the investigation”.
 
 ### Amendment of section 12
 
@@ -278,7 +282,9 @@ Countervailing and Anti-Dumping Duties (Amendment) 11
 
 (5) Where the Government makes a determination in relation to section 28 or 28c and where the dumping margin of an exporter or a producer whose export of the subject merchandise has changed substantially to de minimis, the anti-dumping duty on specific exporter or producer may be subject to subsequent review by the Government.
 
-(6) A determination made pursuant to subsection (4) or (5) shall apply to the subject merchandise imported on or after the date of publication of the notice of determination.
+(6) A determination made pursuant to subsection (4) or
+
+(5) shall apply to the subject merchandise imported on or after the date of publication of the notice of determination.
 
 (7) Notwithstanding any other provisions of this Act, a review conducted pursuant to section 28, 28a, 28b or 28c may be terminated at any time if—
 

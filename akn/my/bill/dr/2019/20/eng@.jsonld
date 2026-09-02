@@ -97,7 +97,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_10",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (3)— Amendment of section 13"
+        "@value": "in subsection (3)—"
       }
     },
     {
@@ -117,7 +117,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_10__para_b",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for the word “fifty” the words “one thousand”."
+        "@value": "by substituting for the word “fifty” the words “one thousand”. Amendment of section 13"
       }
     },
     {
@@ -923,7 +923,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_8",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (4)— Amendment of section 11"
+        "@value": "in subsection (4)—"
       }
     },
     {
@@ -943,7 +943,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_8__para_c",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for the words “one hundred” the words “one thousand”."
+        "@value": "by substituting for the words “one hundred” the words “one thousand”. Amendment of section 11"
       }
     },
     {
@@ -1027,7 +1027,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_9",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (6)— Amendment of section 12"
+        "@value": "in subsection (6)—"
       }
     },
     {
@@ -1047,7 +1047,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_9__para_d",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for the word “fifty” the words “one thousand”."
+        "@value": "by substituting for the word “fifty” the words “one thousand”. Amendment of section 12"
       }
     }
   ]

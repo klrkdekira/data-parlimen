@@ -22,35 +22,63 @@
 
 Penubuhan
 
-3. Penubuhan Perbadanan 4. Objektif Perbadanan 5. Meterai biasa dan meterai faksimili 6. Penyempurnaan dokumen 7. Penubuhan jawatankuasa 8. Pejabat Perbadanan 9. Kuasa untuk melantik Wakil dan ejen 10. Penubuhan subsidiari
+3. Penubuhan Perbadanan 4. Objektif Perbadanan 5. Meterai biasa dan meterai faksimili 6. Penyempurnaan dokumen 7. Penubuhan jawatankuasa 8. Pejabat Perbadanan 9. Kuasa untuk melantik Wakil dan ejen
+
+10. Penubuhan subsidiari
 
 ## Bab 2 Lembaga
 
 Pengarah
 
-11. Tugas dan komposisi 12. Undang-undang kecil Lembaga 13. Tempoh jawatan pengarah 14. Kehilangan kelayakan dan penamatan pengarah Lembaga
+11. Tugas dan komposisi
+
+12. Undang-undang kecil Lembaga
+
+13. Tempoh jawatan pengarah
+
+14. Kehilangan kelayakan dan penamatan pengarah Lembaga
 
 <!-- page 2 -->
 
-15. Tindakan dan prosiding Lembaga tidak terjejas oleh kekosongan, dsb. 16. Saraan dan elaun bagi pengarah 17. Tugas pengarah 18. Mesyuarat
+15. Tindakan dan prosiding Lembaga tidak terjejas oleh kekosongan, dsb.
+
+16. Saraan dan elaun bagi pengarah
+
+17. Tugas pengarah
+
+18. Mesyuarat
 
 ## Bab 3 Ketua Pegawai
 
 Eksekutif
 
-19. Pelantikan, fungsi dan kebertanggungjawapan 20. Terma dan syarat perkhidmatan
+19. Pelantikan, fungsi dan kebertanggungjawapan
+
+20. Terma dan syarat perkhidmatan
 
 ## Bab 4 Pegawai dan
 
 pekerja
 
-21. Pelantikan, terma dan syarat perkhidmatan 22. Bantuan kewangan kepada pegawai, pekerja dan orang lain
+21. Pelantikan, terma dan syarat perkhidmatan
+
+22. Bantuan kewangan kepada pegawai, pekerja dan orang lain
 
 ## Bab 5 Tugas dan
 
 kuasa
 
-23. Sekatan menyiasat secara khusus hal-ehwal pelanggan tertentu 24. Kerahsiaan 25. Kuasa Perbadanan 26. Pemerolehan dan pelupusan melibatkan Perbadanan 27. Kuasa untuk melantik konservator dan konservator tambahan, dsb. 28. Hak untuk melupus dan mengekalkan nilai harta
+23. Sekatan menyiasat secara khusus hal-ehwal pelanggan tertentu
+
+24. Kerahsiaan
+
+25. Kuasa Perbadanan
+
+26. Pemerolehan dan pelupusan melibatkan Perbadanan
+
+27. Kuasa untuk melantik konservator dan konservator tambahan, dsb.
+
+28. Hak untuk melupus dan mengekalkan nilai harta
 
 ## BAHAGIAN III
 
@@ -58,7 +86,17 @@ kuasa
 
 29. Kumpulan wang dan sumber kumpulan wang
 
-30. Peminjaman wang kepada Perbadanan 31. Pelaburan dibenarkan 32. Tahun kewangan 33. Keperluan untuk menyimpan buku, rekod, akaun atau dokumen lain 34. Juruaudit 35. Penyata kewangan dan laporan tahunan
+30. Peminjaman wang kepada Perbadanan
+
+31. Pelaburan dibenarkan
+
+32. Tahun kewangan
+
+33. Keperluan untuk menyimpan buku, rekod, akaun atau dokumen lain
+
+34. Juruaudit
+
+35. Penyata kewangan dan laporan tahunan
 
 <!-- page 3 -->
 
@@ -70,25 +108,61 @@ kuasa
 
 penamatan
 
-36. Takrif 37. Keanggotaan disifatkan 38. Terma dan syarat-syarat keanggotaan 39. Pembatalan keanggotaan 40. Penamatan keanggotaan 41. Kesan pembatalan atau penamatan
+36. Takrif
+
+37. Keanggotaan disifatkan
+
+38. Terma dan syarat-syarat keanggotaan
+
+39. Pembatalan keanggotaan
+
+40. Penamatan keanggotaan
+
+41. Kesan pembatalan atau penamatan
 
 ## Bab 2
 
 Premium
 
-42. Premium pertama 43. Premium tahunan 44. Pengiraan premium tahunan 45. Tiada tolakan atas bayaran premium 46. Surcaj premium 47. Caj lampau tempoh 48. Peraturan premium
+42. Premium pertama
+
+43. Premium tahunan
+
+44. Pengiraan premium tahunan
+
+45. Tiada tolakan atas bayaran premium
+
+46. Surcaj premium
+
+47. Caj lampau tempoh
+
+48. Peraturan premium
 
 ## Bab 3 Bidang
 
 perlindungan
 
-49. Bidang perlindungan 50. Deposit dengan institusi bergabung, dsb 51. Deposit institusi anggota diperolehi oleh institusi bukan anggota 52. Deposit disifatkan 53. Bukan sebahagian deposit
+49. Bidang perlindungan
+
+50. Deposit dengan institusi bergabung, dsb
+
+51. Deposit institusi anggota diperolehi oleh institusi bukan anggota
+
+52. Deposit disifatkan
+
+53. Bukan sebahagian deposit
 
 ## Bab 4
 
 Bayaran
 
-54. Bayaran 55. Bayaran wajib 56. Bayaran budi bicara 57. Bayaran pendahuluan
+54. Bayaran
+
+55. Bayaran wajib
+
+56. Bayaran budi bicara
+
+57. Bayaran pendahuluan
 
 <!-- page 4 -->
 
@@ -150,19 +224,51 @@ Bayaran
 
 <!-- page 5 -->
 
-82. Keutamaan bayaran dalam hal penggulungan institusi anggota 83. Pemakaian Akta Bank dan Institusi-Institusi Kewangan 1989 atau Akta Bank Islam 1983
+82. Keutamaan bayaran dalam hal penggulungan institusi anggota
+
+83. Pemakaian Akta Bank dan Institusi-Institusi Kewangan 1989 atau Akta Bank Islam 1983
 
 ## BAHAGIAN VII
 
 ## KESALAHAN
 
-84. Pengemukaan diri sebagai institusi anggota 85. Pernyataan palsu 86. Kegagalan memberi maklumat, dsb. 87. Kesalahan am 88. Kesalahan oleh pertubuhan perbadanan atau bukan perbadanan atau oleh pengarah, pegawai, pengawal, dsb. 89. Kuasa Perbadanan untuk mengkompaun kesalahan 90. Mahkamah boleh memerintahkan pematuhan 91. Hukuman kewangan tambahan 92. Perintah pematuhan atau penyekatan 93. Mendapatkan kembali denda
+84. Pengemukaan diri sebagai institusi anggota
+
+85. Pernyataan palsu
+
+86. Kegagalan memberi maklumat, dsb.
+
+87. Kesalahan am
+
+88. Kesalahan oleh pertubuhan perbadanan atau bukan perbadanan atau oleh pengarah, pegawai, pengawal, dsb.
+
+89. Kuasa Perbadanan untuk mengkompaun kesalahan
+
+90. Mahkamah boleh memerintahkan pematuhan
+
+91. Hukuman kewangan tambahan
+
+92. Perintah pematuhan atau penyekatan
+
+93. Mendapatkan kembali denda
 
 ## BAHAGIAN VIII
 
 ## PERUNTUKAN AM
 
-94. Pengemukaan maklumat kepada Perbadanan 95. Pengemukaan maklumat kepada Bank Negara Malaysia 96. Pengiktirafan kehakiman 97. Penggulungan Perbadanan 98. Imuniti 99. Pemakaian dan ketidakpakaian Akta lain 100. Kuasa untuk membuat peraturan-peraturan, kaedah-kaedah, perintah, undang-undang kecil, arahan, garis panduan, pekeliling atau nota
+94. Pengemukaan maklumat kepada Perbadanan
+
+95. Pengemukaan maklumat kepada Bank Negara Malaysia
+
+96. Pengiktirafan kehakiman
+
+97. Penggulungan Perbadanan
+
+98. Imuniti
+
+99. Pemakaian dan ketidakpakaian Akta lain
+
+100. Kuasa untuk membuat peraturan-peraturan, kaedah-kaedah, perintah, undang-undang kecil, arahan, garis panduan, pekeliling atau nota
 
 ## JADUAL
 
@@ -1002,7 +1108,9 @@ atau mana-mana kadar atau kadar-kadar yang lebih rendah sebagaimana yang boleh d
 
 (3) Kuantum apa-apa premium tahunan yang dibayar di bawah perenggan (2)(a) dan (b), secara agregat, hendaklah tidak kurang daripada dua ratus lima puluh ribu ringgit.
 
-(4) Mana-mana institusi anggota yang melanggar subseksyen (1) adalah melakukan suatu kesalahan dan boleh, apabila disabitkan, dikenakan suatu denda tidak melebihi tiga juta ringgit dan boleh, sebagai tambahan, dikenakan suatu denda harian tidak melebihi tiga puluh ribu ringgit bagi tiap-tiap hari kesalahan itu berterusan selepas sabitan.
+(4) Mana-mana institusi anggota yang melanggar subseksyen
+
+(1) adalah melakukan suatu kesalahan dan boleh, apabila disabitkan, dikenakan suatu denda tidak melebihi tiga juta ringgit dan boleh, sebagai tambahan, dikenakan suatu denda harian tidak melebihi tiga puluh ribu ringgit bagi tiap-tiap hari kesalahan itu berterusan selepas sabitan.
 
 ### Pengiraan premium tahunan
 
@@ -1430,7 +1538,9 @@ perenggan (3)(b) bagi sesuatu tempoh lanjutan yang tidak melebihi tiga tahun dan
 
 (2) Mana-mana keputusan yang dibuat oleh Jawatankuasa Pentaksir ke atas suatu permohonan pemegang syer yang menentang di bawah Jadual Pertama adalah muktamad dan mengikat.
 
-(3) Sehingga Perbadanan menetapkan kaedah di bawah subseksyen (4), Jawatankuasa Pentaksir boleh memutuskan tata cara dan kelakuannya sendiri bagi prosidingnya.
+(3) Sehingga Perbadanan menetapkan kaedah di bawah subseksyen
+
+(4), Jawatankuasa Pentaksir boleh memutuskan tata cara dan kelakuannya sendiri bagi prosidingnya.
 
 (4) Perbadanan boleh menetapkan kaedah berkaitan dengan tata cara dan kelakuan prosiding atau di hadapan Jawatankuasa Pentaksir dan kaedah itu hendaklah mengatasi apa-apa tata cara dan kelakuan yang diputuskan terlebih dahulu oleh Jawatankuasa Pentaksir di bawah subseksyen (3).
 
@@ -3082,4 +3192,4 @@ Akta Perbadanan Insurans Deposit Malaysia 2005 ("Akta") yang dicadangkan oleh Ra
 
 Rang Undang-Undang ini akan melibatkan Kerajaan Persekutuan dalam perbelanjaan kewangan tambahan yang amaunnya tidak dapat ditentukan sekarang.
 
-[PN(U2) 2456]
+<!-- marginal: [PN(U2) 2456] -->

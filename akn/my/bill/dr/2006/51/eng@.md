@@ -52,7 +52,13 @@
 
 ## CHIEF EXECUTIVE, OFFICERS AND SERVANTS OF THE AUTHORITY
 
-18. The Chief Executive 19. Employment of other officers and servants of the Authority 20. Financial assistance to members, officers, servants and other persons 21. The Authority may adopt regulations, etc.
+18. The Chief Executive
+
+19. Employment of other officers and servants of the Authority
+
+20. Financial assistance to members, officers, servants and other persons
+
+21. The Authority may adopt regulations, etc.
 
 ## PART IV
 
@@ -60,7 +66,17 @@
 
 ## THE ISKANDAR DEVELOPMENT REGION
 
-22. Responsibility of the Authority 23. Preparation of draft Comprehensive Development Plan 24. Approval or rejection of draft Comprehensive Development Plan 25. Review or alteration of Comprehensive Development Plan 26. Duty to take cognisance of approved Comprehensive Development Plan 27. Prescribed strategic development
+22. Responsibility of the Authority
+
+23. Preparation of draft Comprehensive Development Plan
+
+24. Approval or rejection of draft Comprehensive Development Plan
+
+25. Review or alteration of Comprehensive Development Plan
+
+26. Duty to take cognisance of approved Comprehensive Development Plan
+
+27. Prescribed strategic development
 
 ## PART V
 
@@ -68,7 +84,15 @@
 
 ## ENTITIES IN THE ISKANDAR DEVELOPMENT REGION
 
-28. Principal co-ordinating agency 29. Federal and State Commissioners 30. Approvals and Implementation Committee 31. Arrangements with Government Entities 32. Responsibility of Government Entities
+28. Principal co-ordinating agency
+
+29. Federal and State Commissioners
+
+30. Approvals and Implementation Committee
+
+31. Arrangements with Government Entities
+
+32. Responsibility of Government Entities
 
 ## PART VI
 
@@ -82,13 +106,51 @@
 
 <!-- page 3 -->
 
-36. Reserve fund 37. Social Projects Fund 38. Bank accounts 39. Power to borrow 40. Investment 41. Expenditure and preparation of estimates 42. Financial year 43. Statutory Bodies (Accounts and Annual Reports) Act 1980
+36. Reserve fund
+
+37. Social Projects Fund
+
+38. Bank accounts
+
+39. Power to borrow
+
+40. Investment
+
+41. Expenditure and preparation of estimates
+
+42. Financial year
+
+43. Statutory Bodies (Accounts and Annual Reports) Act 1980
 
 ## Part VII
 
 ## GENERAL
 
-44. Power to employ 45. Power to establish companies 46. Offence for giving false or misleading information 47. Offence for unauthorized modification of information in the Authority's custody 48. Exemption from stamp duty 49. Obligation of secrecy 50. Protection against suit and legal proceedings 51. Public Authorities Protection Act 1948 52. Public servants 53. Representation in civil proceedings 54. Power to make regulations 55. Things done in anticipation of the enactment of this Act 56. Prevention of anomalies
+44. Power to employ
+
+45. Power to establish companies
+
+46. Offence for giving false or misleading information
+
+47. Offence for unauthorized modification of information in the Authority's custody
+
+48. Exemption from stamp duty
+
+49. Obligation of secrecy
+
+50. Protection against suit and legal proceedings
+
+51. Public Authorities Protection Act 1948
+
+52. Public servants
+
+53. Representation in civil proceedings
+
+54. Power to make regulations
+
+55. Things done in anticipation of the enactment of this Act
+
+56. Prevention of anomalies
 
 ## SCHEDULE
 
@@ -218,11 +280,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (i) to act as a principal co-ordinating agent or authorized agent in relation to applications for Approvals in respect of which the Authority has entered into an agreement or arrangement under section 31;
 
-(ii) to recommend uniform standards, guidelines, best practices and administrative processes
-
-<!-- marginal: and -->
-
-procedures to be used by Government Entities for the Iskandar Development Region; and
+(ii) to recommend uniform standards, guidelines, best practices and administrative processes and procedures to be used by Government Entities for the Iskandar Development Region; and
 
 (iii) to monitor the implementation of standards, guidelines, best practices, processes and procedures in facilitating the development of the Iskandar Development Region;
 
@@ -252,11 +310,7 @@ procedures to be used by Government Entities for the Iskandar Development Region
 
 (i) to plan, phase and co-ordinate the performance of the activities mentioned in paragraphs (f) and (g) and such other activities within the Iskandar Development Region which are deemed by the Authority to be of strategic national importance or in the national interest; and
 
-(j) to carry out any other function conferred by or under this Act and to perform any other functions
-
-<!-- marginal: that are -->
-
-supplemental, incidental, or consequential to any of the functions specified in this section.
+(j) to carry out any other function conferred by or under this Act and to perform any other functions that are supplemental, incidental, or consequential to any of the functions specified in this section.
 
 ### Powers of the Authority
 
@@ -276,11 +330,7 @@ supplemental, incidental, or consequential to any of the functions specified in 
 
 <!-- marginal: and -->
 
-corporations, and other bodies and persons, whether local or foreign, engaged in carrying out or intending to carry out development in the
-
-<!-- marginal: Iskandar -->
-
-Development Region to submit reports, containing such particulars and information as may be specified by the Authority, regarding their activities or proposed activities;
+corporations, and other bodies and persons, whether local or foreign, engaged in carrying out or intending to carry out development in the Iskandar Development Region to submit reports, containing such particulars and information as may be specified by the Authority, regarding their activities or proposed activities;
 
 (d) to co-ordinate development, including the development of property, infrastructure and public amenities in the Iskandar Development Region;
 
@@ -626,11 +676,7 @@ accordance with the Comprehensive Development Plan;
 
 (d) identify the necessary infrastructure for the maintenance and expansion of the economy of the Iskandar Development Region in accordance with the Comprehensive Development Plan, develop and recommend strategies and initiatives for the provision of such infrastructure, receive and channel any funds allocated by Parliament for the provision of such infrastructure and monitor its construction, implementation, operation and upkeep;
 
-(e) recommend criteria to be met by Government Entities and private contractors in relation to the provision of, or the capacity to provide, the infrastructure or services required, in accordance with the Comprehensive Development Plan, for the economic development of the
-
-<!-- marginal: Iskandar -->
-
-Development Region;
+(e) recommend criteria to be met by Government Entities and private contractors in relation to the provision of, or the capacity to provide, the infrastructure or services required, in accordance with the Comprehensive Development Plan, for the economic development of the Iskandar Development Region;
 
 (f) identify the necessary skills for the maintenance and expansion of the economy of the Iskandar Development Region and develop strategies for ensuring that those skills are developed and maintained; and
 
@@ -660,11 +706,7 @@ shall formulate, in such details as the Authority thinks appropriate, its propos
 
 (v) the management and promotion of urbanisation of the Iskandar Development Region;
 
-(vi) the protection, preservation and enhancement of natural environmental resources,
-
-<!-- marginal: agricultural -->
-
-resources, parks and open spaces in the Iskandar Development Region;
+(vi) the protection, preservation and enhancement of natural environmental resources, agricultural resources, parks and open spaces in the Iskandar Development Region;
 
 (vii) the development of coastal areas in the Iskandar Development Region in balance with the protection of the natural coastal environment;
 
@@ -924,11 +966,7 @@ shall first refer such proposed development to the Authority for its direction b
 
 (a) paying any expenditure lawfully incurred by the Authority, including survey and legal fees and costs and other fees and costs;
 
-(b) paying for the remuneration, allowances and other expenses of the members of the Authority, the Approvals and Implementation Committee, any committee, officers and servants of the Authority including the granting of loans and advances, superannuation allowances,
-
-<!-- marginal: retirement -->
-
-benefits, pensions and gratuities;
+(b) paying for the remuneration, allowances and other expenses of the members of the Authority, the Approvals and Implementation Committee, any committee, officers and servants of the Authority including the granting of loans and advances, superannuation allowances, retirement benefits, pensions and gratuities;
 
 <!-- page 33 -->
 
@@ -1392,4 +1430,4 @@ the Bill contains preliminary matters.
 
 This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained.
 
-[PN(U2)2534]
+<!-- marginal: [PN(U2)2534] -->

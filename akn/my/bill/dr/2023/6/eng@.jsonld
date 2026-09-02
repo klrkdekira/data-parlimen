@@ -27,36 +27,11 @@
       "hasPart": [
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/6/eng@/~cl_1",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/6/eng@/~cl_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/6/eng@/~chp_X"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/6/eng@/~cl_3"
       ],
       "schema:name": {
         "@language": "en",
         "@value": "Criminal Procedure Code (Amendment) Bill 2023"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/6/eng@/~chp_X",
-      "@type": "akn:chapter",
-      "eli:number": "X",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/6/eng@/~chp_X__cl_3",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/6/eng@",
-      "schema:name": {
-        "@language": "en",
-        "@value": "the following chapter:"
-      },
-      "schema:text": {
-        "@language": "en",
-        "@value": "“Chapter Xa PROTECTION ORDER IN CASES OF STALKING Power to issue protection order in cases of stalking 98a. (1) The Court may, upon an ex parte application, issue a protection order against a person who is being investigated for or is charged with an offence under section 507a of the Penal Code, and such order shall be effective until the completion of the investigation or disposal of a criminal proceeding, whichever is later. (2) An application for a protection order under this section shall be made by— (a) the victim; (b) the victim’s counsel; or (c) in the case where the victim is a child or an incapacitated adult, the guardian, relative or person responsible for the care of such child or incapacitated adult. (3) A person against whom the protection order is made may apply to set aside the protection order. (4) The protection order made under this section may be served— (a) personally; (b) by registered post to the last known address of the person; or (c) by electronic means to the electronic address of the person. (5) The protection order shall be deemed to be served on the person against whom the order is made if— (a) the order is sent by registered post to the last known address of the person; or (b) the order is transmitted to the electronic address of the person. (6) The protection order issued under subsection (1) shall prohibit the person against whom the order is made from further committing any act under section 507a of the Penal Code. (7) The Court may, in addition to the order under subsection (6), if it is satisfied that it is necessary for the protection and personal safety of the victim or any other person related to or associated with the victim, prohibit or restrain the person against whom the order is made from going near the victim or any other person related to or associated with the victim at a distance the Court thinks reasonable, and make any other orders as may be necessary. (8) Any person who contravenes the protection order issued under subsection (1) shall be punished with imprisonment for a term which may extend to one year or with fine or with both.”. Amendment of First Schedule"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/6/eng@/~chp_X__cl_3",
-      "@type": "akn:clause",
-      "eli:number": "3",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/6/eng@/~chp_X",
-      "schema:text": {
-        "@language": "en",
-        "@value": "The First Schedule to the Code is amended by inserting after the item relating to section 507 of the Penal Code the following items under the respective columns: 1 2 3 4 5 Penal Offence Whether Whether a Whether Code the police warrant or bailable or may a summons not ordinarily shall arrest ordinarily without issue in warrant or the first not instance “507a Stalking do. do. do."
       }
     },
     {
@@ -96,7 +71,17 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/6/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "The Criminal Procedure Code [Act 593], which is referred to as the “Code” in this Act, is amended by inserting after"
+        "@value": "The Criminal Procedure Code [Act 593], which is referred to as the “Code” in this Act, is amended by inserting after Chapter X the following chapter: “CHAPTER XA PROTECTION ORDER IN CASES OF STALKING Power to issue protection order in cases of stalking 98a. (1) The Court may, upon an ex parte application, issue a protection order against a person who is being investigated for or is charged with an offence under section 507a of the Penal Code, and such order shall be effective until the completion of the investigation or disposal of a criminal proceeding, whichever is later. (2) An application for a protection order under this section shall be made by— (a) the victim; (b) the victim’s counsel; or (c) in the case where the victim is a child or an incapacitated adult, the guardian, relative or person responsible for the care of such child or incapacitated adult. (3) A person against whom the protection order is made may apply to set aside the protection order. (4) The protection order made under this section may be served— (a) personally; (b) by registered post to the last known address of the person; or (c) by electronic means to the electronic address of the person. (5) The protection order shall be deemed to be served on the person against whom the order is made if— (a) the order is sent by registered post to the last known address of the person; or (b) the order is transmitted to the electronic address of the person. (6) The protection order issued under subsection (1) shall prohibit the person against whom the order is made from further committing any act under section 507a of the Penal Code. (7) The Court may, in addition to the order under subsection (6), if it is satisfied that it is necessary for the protection and personal safety of the victim or any other person related to or associated with the victim, prohibit or restrain the person against whom the order is made from going near the victim or any other person related to or associated with the victim at a distance the Court thinks reasonable, and make any other orders as may be necessary. (8) Any person who contravenes the protection order issued under subsection (1) shall be punished with imprisonment for a term which may extend to one year or with fine or with both.”. Amendment of First Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/6/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/6/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The First Schedule to the Code is amended by inserting after the item relating to section 507 of the Penal Code the following items under the respective columns: 1 2 3 4 5 Penal Offence Whether Whether a Whether Code the police warrant or bailable or compoundable may a summons not ordinarily shall arrest ordinarily without issue in warrant or the first not instance “507a Stalking do. do. do."
       }
     }
   ]

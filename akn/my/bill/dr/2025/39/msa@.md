@@ -12,27 +12,35 @@ dan Penguatkuasaan Cukai
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas 2. Pindaan Akta
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PINDAAN KEPADA AKTA CUKAI PENDAPATAN 1967
 
 3. Permulaan kuat kuasa pindaan kepada Akta Cukai Pendapatan 1967 4. Pindaan seksyen 82B 5. Pindaan seksyen 152a
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PINDAAN KEPADA AKTA CUKAI KEUNTUNGAN HARTA TANAH 1976
 
-6. Permulaan kuat kuasa pindaan kepada Akta Cukai Keuntungan Harta Tanah 1976 7. Pindaan seksyen 13 8. Pindaan seksyen 13a 9. Pindaan seksyen 19a 10. Pindaan seksyen 36 11. Seksyen baharu 43a 12. Pindaan seksyen 51 13. Pindaan seksyen 57a
+6. Permulaan kuat kuasa pindaan kepada Akta Cukai Keuntungan Harta Tanah 1976 7. Pindaan seksyen 13 8. Pindaan seksyen 13a 9. Pindaan seksyen 19a
+
+10. Pindaan seksyen 36
+
+11. Seksyen baharu 43a
+
+12. Pindaan seksyen 51
+
+13. Pindaan seksyen 57a
 
 <!-- page 2 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PINDAAN KEPADA AKTA SETEM 1949
 
@@ -70,7 +78,7 @@ dan Penguatkuasaan Cukai
 
 30. Pindaan seksyen 77a
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PINDAAN KEPADA AKTA CUKAI AKTIVITI PERNIAGAAN LABUAN 1990
 
@@ -98,7 +106,7 @@ dan Penguatkuasaan Cukai
 
 dan Penguatkuasaan Cukai
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PINDAAN KEPADA AKTA PETROLEUM (CUKAI PENDAPATAN) 1967
 
@@ -116,7 +124,7 @@ Suatu Akta untuk mengadakan peruntukan bagi langkah-langkah yang berhubungan den
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -132,7 +140,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 Akta Petroleum (Cukai Pendapatan) 1967 [Akta 543] dipinda mengikut cara yang dinyatakan masing-masing dalam Bahagian II, III, IV, V dan VI.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PINDAAN KEPADA AKTA CUKAI PENDAPATAN 1967
 
@@ -190,7 +198,7 @@ of ascertaining the divisible income or the divisible loss from the business of 
 
 <!-- page 8 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PINDAAN KEPADA AKTA CUKAI KEUNTUNGAN
 
@@ -258,7 +266,7 @@ dan Penguatkuasaan Cukai
 
 “(3a) Kebenaran yang disebut dalam subseksyen (3) hendaklah dikemukakan kepada Ketua Pengarah melalui medium elektronik atau dengan cara penghantaran elektronik mengikut seksyen ini.”.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PINDAAN KEPADA AKTA SETEM 1949
 
@@ -280,7 +288,9 @@ dan Penguatkuasaan Cukai
 
 ### Pindaan seksyen 12a
 
-17. Seksyen 12 a Akta ibu dipinda dengan menggantikan perkataan “Item 32(a) or (aa)” dengan perkataan “Item 32(a), (aa) or (ab)”.
+17. Seksyen 12 a Akta ibu dipinda dengan menggantikan perkataan “Item 32(a) or (aa)” dengan perkataan “Item 32(a),
+
+(aa) or (ab)”.
 
 ### Pindaan seksyen 17
 
@@ -288,11 +298,15 @@ dan Penguatkuasaan Cukai
 
 ### Pindaan seksyen 20
 
-19. Subseksyen 20(4) Akta ibu dipinda dengan menggantikan perkataan “Item 32(a) or (aa)” dengan perkataan “Item 32(a), (aa) or (ab)”.
+19. Subseksyen 20(4) Akta ibu dipinda dengan menggantikan perkataan “Item 32(a) or (aa)” dengan perkataan “Item 32(a),
+
+(aa) or (ab)”.
 
 ### Pindaan seksyen 20b
 
-20. Subseksyen 20B(2) Akta ibu dipinda dengan menggantikan perkataan “Item 32(a) or (aa)” dengan perkataan “Item 32(a), (aa) or (ab)”.
+20. Subseksyen 20B(2) Akta ibu dipinda dengan menggantikan perkataan “Item 32(a) or (aa)” dengan perkataan “Item 32(a),
+
+(aa) or (ab)”.
 
 ### Pindaan seksyen 35a
 
@@ -362,7 +376,7 @@ dan Penguatkuasaan Cukai
 
 30. Perenggan 77a(1)(f) Akta ibu dipinda dengan memasukkan selepas perkataan “39(4)” perkataan “, 50B(2)”.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PINDAAN KEPADA AKTA CUKAI AKTIVITI PERNIAGAAN
 
@@ -478,7 +492,7 @@ dan Penguatkuasaan Cukai
 
 40. Seksyen 28 Akta ibu dipinda dengan menggantikan perkataan “tiada cara ditetapkan” dengan perkataan “tiada cara ditentukan”.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PINDAAN KEPADA AKTA PETROLEUM (CUKAI PENDAPATAN) 1967
 

@@ -60,29 +60,11 @@ amended by substituting for the words "the registrations of trade marks made" th
 
 (v) by inserting after the definition of "prescribed" the following:
 
-' "prescribed foreign country" means a country declared by the Minister, by order published in the Gazette, as having made arrange- ments with Malaysia
-
-<!-- marginal: for -->
-
-<!-- marginal: the -->
-
-reciprocal protection of
-
-<!-- marginal: trade -->
-
-marks;';
+' "prescribed foreign country" means a country declared by the Minister, by order published in the Gazette, as having made arrange- ments with Malaysia for the reciprocal protection of trade marks;';
 
 (vi) by inserting after the definition of "repealed Ordinance" the following:
 
-"specification" means
-
-<!-- marginal: the -->
-
-designation of goods or services in respect of which a trade mark or a registered user of a trade mark is registered or proposed
-
-<!-- marginal: to be -->
-
-registered;'; and
+"specification" means the designation of goods or services in respect of which a trade mark or a registered user of a trade mark is registered or proposed to be registered;'; and
 
 (vii) by inserting after the word "goods" wherever it appears in the definition of "trade mark" the words "or services"; and
 
@@ -96,9 +78,7 @@ registered;'; and
 
 (Hi) by inserting after paragraph (b) the following:
 
-"(c) references to the use of a mark in relation to services shall be construed as references to the use thereof as a statement or as part of a statement
-
-<!-- marginal: about -->
+"(c) references to the use of a mark in relation to services shall be construed as references to the use thereof as a statement or as part of a statement about
 
 <!-- marginal: the -->
 
@@ -144,9 +124,11 @@ deleting the word "regional".
 
 <!-- page 4 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-8. Section 10 of the principal Act is amended— of section 10,
+8. Section 10 of the principal Act is amended—
+
+<!-- marginal: of section 10, -->
 
 (a) in subsection (1)—
 
@@ -156,11 +138,7 @@ Amendment
 
 (b) by inserting after subsection (2) the following:
 
-"(2A) For the purposes of this section, "distinctive", in relation to the trade mark registered or proposed to be registered in respect of goods or services, means it is adapted to distinguish goods or services with which the proprietor of the trade mark is or may be connected in the course of trade from goods or services in the case of which no such connection subsists, either generally or, where the trade mark is registered or proposed to be registered, subject
-
-<!-- marginal: to -->
-
-conditions, amendments, modifications or limitations, in relation to use within the extent of the registration.
+"(2A) For the purposes of this section, "distinctive", in relation to the trade mark registered or proposed to be registered in respect of goods or services, means it is adapted to distinguish goods or services with which the proprietor of the trade mark is or may be connected in the course of trade from goods or services in the case of which no such connection subsists, either generally or, where the trade mark is registered or proposed to be registered, subject to conditions, amendments, modifications or limitations, in relation to use within the extent of the registration.
 
 (2B) In determining whether a trade mark is adapted to distinguish as aforesaid regard may be had to the extent to which—
 
@@ -202,19 +180,65 @@ conditions, amendments, modifications or limitations, in relation to use within 
 
 <!-- page 6 -->
 
-Substitution
+<!-- marginal: Substitution -->
 
-10. The principal Act is amended by substituting for of section 12. section 12 the following:
+10. The principal Act is amended by substituting for
 
-Use by 12. (1) Where an application for registration proposed of a trade mark has been made by a person, registered user to be and before the date of the application the trade considered mark had been used by a person other than the for the purpose applicant under the control of and with the of deter- consent and authority of the applicant, and mining distinc- where an application is made by the applicant tiveness, and that other person for the registration of etc. that other person as a registered user of the trade mark immediately after the registration of the trade mark and the Registrar is satisfied that the other person is entitled to be registered as a registered user of the trade mark, the Registrar may, for the purpose of determining whether the trade mark is distinctive of or capable of distinguishing the goods or services of the applicant, treat use of the trade mark by that other person as equivalent to use of the trade mark by the applicant and may make an order that the trade mark is so distinctive or capable of distinguishing.
+<!-- marginal: of section 12. -->
+
+section 12 the following:
+
+<!-- marginal: Use by -->
+
+12. (1) Where an application for registration
+
+<!-- marginal: proposed -->
+
+of a trade mark has been made by a person,
+
+<!-- marginal: registered -->
+
+<!-- marginal: user to be -->
+
+and before the date of the application the trade
+
+<!-- marginal: considered -->
+
+mark had been used by a person other than the
+
+<!-- marginal: for the -->
+
+<!-- marginal: purpose -->
+
+applicant under the control of and with the
+
+<!-- marginal: of deter- -->
+
+consent and authority of the applicant, and
+
+<!-- marginal: mining -->
+
+<!-- marginal: distinc- -->
+
+where an application is made by the applicant
+
+<!-- marginal: tiveness, -->
+
+and that other person for the registration of
+
+<!-- marginal: etc. -->
+
+that other person as a registered user of the trade mark immediately after the registration of the trade mark and the Registrar is satisfied that the other person is entitled to be registered as a registered user of the trade mark, the Registrar may, for the purpose of determining whether the trade mark is distinctive of or capable of distinguishing the goods or services of the applicant, treat use of the trade mark by that other person as equivalent to use of the trade mark by the applicant and may make an order that the trade mark is so distinctive or capable of distinguishing.
 
 (2) An order of the Registrar under subsection (1) is subject to appeal to the Court.
 
 (3) Where an order is made under subsection (1), the registration of the trade mark shall cease to have effect if at the expiration of the prescribed period, or such further period not exceeding six months as the Registrar may allow, that other person has not become registered as the registered user of the trade mark.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-11. Section 14 of the principal Act is amended— of section 14.
+11. Section 14 of the principal Act is amended—
+
+<!-- marginal: of section 14. -->
 
 (a) by deleting the word "and" at the end of paragraph (a);
 
@@ -248,7 +272,11 @@ substituting for the words "dead or alive" the words "living or dead".
 
 (ii) by inserting after the words "prescribed class of goods" the words "or in respect of any or all of the services comprised in a prescribed class of services"; and
 
-(c) by inserting after the word "goods" in subsection (2) the words "or services".
+(c) by inserting after the word "goods"
+
+<!-- marginal: in -->
+
+subsection (2) the words "or services".
 
 <!-- marginal: Substitution -->
 
@@ -258,9 +286,7 @@ substituting for the words "dead or alive" the words "living or dead".
 
 section 19 the following:
 
-Identical
-
-19. (1) No trade mark shall be registered in trade respect of any goods or description of goods— marks.
+Identical 19. (1) No trade mark shall be registered in trade respect of any goods or description of goods— marks.
 
 (a) that is identical with a trade mark belonging to a different proprietor and entered in the Register in respect of the same goods or description of goods or in respect of services that are closely related to those goods;, or
 
@@ -312,11 +338,7 @@ subject to such conditions, amendments, modifications or limitations, if any, as
 
 (b) by inserting after subsection (1) the following:
 
-"(1A) Notwithstanding subsection (2) of section 19, in the case of honest concurrent use or of other special circumstances which, in the opinion of the Court or the Registrar, make it proper so to do, the Court or the Registrar may permit the registration of more than one proprietor in respect of trade marks which are identical or so nearly resembling each other as are likely to deceive or cause confusion where the registration of
-
-<!-- marginal: the -->
-
-different proprietors—
+"(1A) Notwithstanding subsection (2) of section 19, in the case of honest concurrent use or of other special circumstances which, in the opinion of the Court or the Registrar, make it proper so to do, the Court or the Registrar may permit the registration of more than one proprietor in respect of trade marks which are identical or so nearly resembling each other as are likely to deceive or cause confusion where the registration of the different proprietors—
 
 (a) is in respect of the same services or description of services; or
 
@@ -324,19 +346,23 @@ different proprietors—
 
 subject to such conditions, amendments, modifications or limitations, if any, as the Court or the Registrar, as the case may be, may think right to impose.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-16. Section 21 of the principal Act is amended by of section 21. inserting after the word "goods" in paragraph (1)(b) the words "or services".
+16. Section 21 of the principal Act is amended by
 
-Amendment
+<!-- marginal: of section 21. -->
 
-17. Section 22 of the principal Act is amended— of section 22. (a) by substituting for subsection (1) the following:
+inserting after the word "goods" in paragraph (1)(b) the words "or services".
 
-"(1) Where a trade mark which
+<!-- marginal: Amendment -->
 
-<!-- marginal: is -->
+17. Section 22 of the principal Act is amended—
 
-registered or is the subject of an application for registration in respect of any goods—
+<!-- marginal: of section 22. -->
+
+(a) by substituting for subsection (1) the following:
+
+"(1) Where a trade mark which is registered or is the subject of an application for registration in respect of any goods—
 
 (a) is identical with another trade mark which is registered or is the subject of an application for registration in the name of the same proprietor in respect of the same goods or description of goods or in respect of services that are closely related to those goods; or
 
@@ -344,7 +370,7 @@ registered or is the subject of an application for registration in respect of an
 
 ## TRADE MARKS (AMENDMENT)
 
-<!-- marginal: 1 1 -->
+1 1
 
 (b) is so nearly resembling it as is likely to deceive or cause confusion if used by a person other than the proprietor,
 
@@ -380,9 +406,11 @@ subsection (2) the words "or services".
 
 <!-- page 12 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-19. Section 25 of the principal Act is amended— of section 25.
+19. Section 25 of the principal Act is amended—
+
+<!-- marginal: of section 25. -->
 
 (a) by inserting after the word "goods"
 
@@ -392,23 +420,31 @@ subsection (2) the words "or services"; and
 
 (b) by inserting after the words "had not been accepted" in subsection (12) the words "or, in respect only of a trade mark which shall be registered subject to additional or different conditions or limitations, reissue a new acceptance subject to additional or different conditions or limitations".
 
-Amendment
+<!-- marginal: Amendment -->
 
-20. Section 26 of the principal Act is amended— of section 26.
+20. Section 26 of the principal Act is amended—
+
+<!-- marginal: of section 26. -->
 
 (a) by inserting after the word "goods" wherever it appears in subsections (1) and (3) the words "or services"; and
 
 (b) by substituting for the words "if the application is accompanied by an application" in subsection (1) the words "if an application has been made".
 
-Amendment
+<!-- marginal: Amendment -->
 
-21. Section 27 of the principal Act is amended by of section 27. substituting for the words "it is made under paragraph
+21. Section 27 of the principal Act is amended by
+
+<!-- marginal: of section 27. -->
+
+substituting for the words "it is made under paragraph
 
 (e) of subsection (1) of section 10" in subsection (2) the words "the considerations in subsection (2e) of section 10 or subsection (1A) of section 11 apply".
 
-Amendment
+<!-- marginal: Amendment -->
 
-22. Section 28 of the principal Act is amended— of section 28.
+22. Section 28 of the principal Act is amended—
+
+<!-- marginal: of section 28. -->
 
 (a) by inserting after the word "Registrar" in subsection (1) the words "and applicant";
 
@@ -418,7 +454,9 @@ Amendment
 
 <!-- marginal: the -->
 
-prescribed time after the receipt of the notice of opposition, send to the Registrar and the opponent a counter-statement, in
+prescribed time after the receipt of the notice of opposition, send to the Registrar and the opponent a counter-statement,
+
+<!-- marginal: in -->
 
 <!-- marginal: the -->
 
@@ -454,19 +492,21 @@ prescribed manner, of the grounds for his application, and, if he does not do so
 
 <!-- page 14 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-23. Section 29 of the principal Act is amended— of section 29.
+23. Section 29 of the principal Act is amended—
+
+<!-- marginal: of section 29. -->
 
 (a) by substituting for the word "accepted" in subsection (1) the word "completed"; and
 
 (b) by substituting for the word "non-acceptance" in subsection (2) the word "non-completion".
 
-### Amendment
+<!-- marginal: Amendment -->
 
 24. Subsection 31(2) of the principal Act is amended—
 
-### of section 31.
+<!-- marginal: of section 31. -->
 
 (a) by deleting the word "or" at the end of paragraph (a);
 
@@ -476,19 +516,19 @@ Amendment
 
 "(c) an action on the part of the Central Trade Marks office or any trade marks office,".
 
-### Amendment
+<!-- marginal: Amendment -->
 
 25. Subsection 32(1) of the principal Act is amended
 
-### of section 32.
+<!-- marginal: of section 32. -->
 
 by substituting for the word "seven" the word "ten".
 
-### Amendment
+<!-- marginal: Amendment -->
 
 26. Section 33 of the principal Act is amended—
 
-### of section 33.
+<!-- marginal: of section 33. -->
 
 (a) by substituting for the words "an article or substance" in the marginal note the words "article, substance or service";
 
@@ -512,13 +552,23 @@ providing services which include that service, not being use in relation to serv
 
 (i) by substituting for the words "paragraph
 
-(a) or (b)" the words "paragraph (a), (b) or (c); (ii) by substituting for the words "article or substance in question or of any goods of the same description" in paragraph (a) the words "article, substance or service in question or of any goods or service of the same description"; (iii) by substituting for the words "article or substance in question or of any goods of the same description" in paragraph (b) the words "article, substance or service in question or of any goods or service of the same description"; (iv) by substituting for the words "article or substance or any goods of the same description" in paragraph (b) the words "article, substance or service in question or any goods or service of the same description"; (v) by substituting for the words "article or substance in question or to any goods of the same description" in paragraph (c) the words "article, substance or service in question or to any goods or service of the same description"; and (vi) by inserting after the words "paragraph (a)" in paragraph (c) the words "or (c)";
+(a) or (b)" the words "paragraph (a), (b) or (c);
 
-<!-- marginal: Amendment -->
+(ii) by substituting for the words "article or substance in question or of any goods of the same description" in paragraph (a) the words "article, substance or service in question or of any goods or service of the same description";
 
-27. Section 35 of the principal Act is amended-
+(iii) by substituting for the words "article or substance in question or of any goods of the same description" in paragraph (b) the words "article, substance or service in question or of any goods or service of the same description";
 
-<!-- marginal: of section 35. -->
+(iv) by substituting for the words "article or substance or any goods of the same description" in paragraph (b) the words "article, substance or service in question or any goods or service of the same description";
+
+(v) by substituting for the words "article or substance in question or to any goods of the same description" in paragraph (c) the words "article, substance or service in question or to any goods or service of the same description"; and
+
+(vi) by inserting after the words "paragraph
+
+(a)" in paragraph (c) the words "or (c)";
+
+Amendment
+
+27. Section 35 of the principal Act is amended- of section 35.
 
 (a) by inserting after the word "goods" wherever it appears in subsection (1) the words "or services"; and
 
@@ -526,13 +576,19 @@ providing services which include that service, not being use in relation to serv
 
 (b) by deleting the words "whether for the same goods or different goods" in subsection (2).
 
-Amendment
+<!-- marginal: Amendment -->
 
-28. Paragraph 31(c) of the principal Act is amended by of section 37. inserting after the word "goods" the words "or services".
+28. Paragraph 31(c) of the principal Act is amended by
 
-Amendment
+<!-- marginal: of section 37. -->
 
-29. Section 38 of the principal Act is amended— of section 38.
+inserting after the word "goods" the words "or services".
+
+<!-- marginal: Amendment -->
+
+29. Section 38 of the principal Act is amended—
+
+<!-- marginal: of section 38. -->
 
 (a) in subsection (1)—
 
@@ -550,9 +606,11 @@ performed or in an advertising circular or other advertisement issued to the pub
 
 subsection (2) the words "or services".
 
-Amendment
+<!-- marginal: Amendment -->
 
-30. Section 40 of the principal Act is amended— of section 40.
+30. Section 40 of the principal Act is amended—
+
+<!-- marginal: of section 40. -->
 
 (a) in subsection (1)— (i) by inserting after the word "goods" in paragraph (b) the words "or services, and in the case of goods";
 
@@ -610,9 +668,11 @@ subsection (1) the words "or services"; and
 
 (b) by substituting for the words "of the" in subsection (2) the words "of that",
 
-Amendment
+<!-- marginal: Amendment -->
 
-34. Section 46 of the principal Act is amended— of section 46.
+34. Section 46 of the principal Act is amended—
+
+<!-- marginal: of section 46. -->
 
 (a) in subsection (1)—
 
@@ -702,21 +762,21 @@ to any person to use the trade mark for all or any of the goods or services in r
 
 <!-- page 22 -->
 
-22
+<!-- marginal: 22 -->
 
 ## BILL
 
 title is recorded on the Register in accordance with the provisions of this Act and the subsequent proprietor of the registered trade mark makes a fresh application under subsection (2).
 
-(7) If the registered proprietor of a trade mark fails to exercise any of the rights conferred on him by his registration to the prejudice of any registered user of that trade mark, the registered user may apply to the Court for such relief as the Court may consider just, including rectification of the Register by ordering that the registered user be recorded as the registered proprietor of the trade mark, and in any case where use of the trade mark by any person entitled to use it would be likely to deceive or cause confusion, the Court may order that the trade mark shall be removed from the Register, notwithstanding
-
-<!-- marginal: the -->
-
-provisions of section 37,
+(7) If the registered proprietor of a trade mark fails to exercise any of the rights conferred on him by his registration to the prejudice of any registered user of that trade mark, the registered user may apply to the Court for such relief as the Court may consider just, including rectification of the Register by ordering that the registered user be recorded as the registered proprietor of the trade mark, and in any case where use of the trade mark by any person entitled to use it would be likely to deceive or cause confusion, the Court may order that the trade mark shall be removed from the Register, notwithstanding the provisions of section 37,
 
 (8) The provisions of section 62 shall apply to any proceedings under subsection (7) that might lead to any alteration or rectification of the Register.".
 
-Amendment 37. Section 49 of the principal Act is amended— of section 49.
+<!-- marginal: Amendment -->
+
+37. Section 49 of the principal Act is amended—
+
+<!-- marginal: of section 49. -->
 
 (a) in subsection (1)—
 
@@ -724,21 +784,11 @@ Amendment 37. Section 49 of the principal Act is amended— of section 49.
 
 (ii) by substituting for paragraph (c) the following:
 
-"(c) may be cancelled by the Registrar on the application
-
-<!-- marginal: of -->
-
-<!-- marginal: the -->
-
-registered proprietor."; and
+"(c) may be cancelled by the Registrar on the application of the registered proprietor."; and
 
 (iii) by deleting paragraph (d);
 
-(b) by inserting after the word "goods"
-
-<!-- marginal: in -->
-
-subsection (2) the words "or services"; and
+(b) by inserting after the word "goods" in subsection (2) the words "or services"; and
 
 <!-- page 23 -->
 
@@ -796,7 +846,11 @@ the assignment or transmission, whether under common law or by registration, mor
 
 (c) by deleting subsection (6).
 
-Amendment 42. Section 56 of the principal Act is amended— of section 56.
+<!-- marginal: Amendment -->
+
+42. Section 56 of the principal Act is amended—
+
+<!-- marginal: of section 56. -->
 
 (a) by inserting after the word "goods" wherever it appears in subsections (1) and (2) the words "or services";
 
@@ -814,11 +868,7 @@ Amendment 42. Section 56 of the principal Act is amended— of section 56.
 
 (iv) by inserting after paragraph (b) the following:
 
-"(c) in a case in which the use is use at or near the place where the services are available
-
-<!-- marginal: or -->
-
-performed or in an advertising circular or other advertisement issued to the public, as importing a reference to a person having a right either as proprietor or as a registered user to use the trade mark or to services w i th the provision of which such person is connected in the course of trade.";
+"(c) in a case in which the use is use at or near the place where the services are available or performed or in an advertising circular or other advertisement issued to the public, as importing a reference to a person having a right either as proprietor or as a registered user to use the trade mark or to services w i th the provision of which such person is connected in the course of trade.";
 
 (c) in subsection (4) by inserting after the word "market," the words "in relation to services to be provided in a place";
 
@@ -832,11 +882,7 @@ performed or in an advertising circular or other advertisement issued to the pub
 
 (iii) by inserting after the word "goods" wherever it appears in paragraph (b) the words "or services";
 
-(e) by substituting for the number "(3)"
-
-<!-- marginal: in -->
-
-subsection (8) the number "(2)";
+(e) by substituting for the number "(3)" in subsection (8) the number "(2)";
 
 <!-- page 26 -->
 
@@ -852,19 +898,45 @@ subsection (8) the number "(2)";
 
 subsection (17) the words "or services".
 
-Amendment
+<!-- marginal: Amendment -->
 
-43. Section 57 of the principal Act is amended by of section 57 inserting after the word "goods" wherever it appears the words "or services",
+43. Section 57 of the principal Act is amended by
 
-Amendment 44. Section 58 of the principal Act is amended by of section 58. inserting after the word "goods" the words "or services".
+<!-- marginal: of section 57 -->
 
-Amendment 45. Section 64 of the principal Act is amended by of section 64. substituting for subsection (3) the following:
+inserting after the word "goods" wherever it appears the words "or services",
+
+<!-- marginal: Amendment -->
+
+44. Section 58 of the principal Act is amended by
+
+<!-- marginal: of section 58. -->
+
+inserting after the word "goods" the words "or services".
+
+<!-- marginal: Amendment -->
+
+45. Section 64 of the principal Act is amended by
+
+<!-- marginal: of section 64. -->
+
+substituting for subsection (3) the following:
 
 "(3) In any action or proceedings relating to a trade mark or trade name, the Registrar or the Court, as the case may be, shall admit evidence of the usages of the trade concerned or evidence of business usages in the provision of the services in question, and evidence of any relevant trade marks or trade name or business name or get-up legitimately used by other persons.".
 
-Amendment 46. Section 65 of the English text of the principal Act of section 65. is amended by substituting for the words "from the Registrar" in subsection (1) the words "from the Register".
+<!-- marginal: Amendment -->
 
-Amendment 47. Section 66 of the principal Act is amended— of section 66.
+46. Section 65 of the English text of the principal Act
+
+<!-- marginal: of section 65. -->
+
+is amended by substituting for the words "from the Registrar" in subsection (1) the words "from the Register".
+
+<!-- marginal: Amendment -->
+
+47. Section 66 of the principal Act is amended—
+
+<!-- marginal: of section 66. -->
 
 (a) by substituting for the words "Yang di-Pertuan Agong" in the marginal note and in subsection (1) the word "Minister"; and
 
@@ -932,7 +1004,51 @@ section 70 the following:
 
 section 70 the following:
 
-Temporary 70A. (1) Notwithstanding anything in this protection Act, temporary protection shall be granted to of trade marks in a trade mark in respect of goods or services respect of which are the subject matters of an exhibition goods or services at an official or officially recognised which international exhibition held in Malaysia or in are the subject any Convention country or prescribed foreign matters country. of Interna- tional exhibitions. (2) The temporary protection granted under subsection (1) shall not extend any period of priority claimed by an applicant and where a right of priority is claimed by an applicant subsequent to the temporary protection, the period of priority shall remain six months but the period shall commence from the date of the introduction of the goods or services into the exhibition.
+<!-- marginal: Temporary -->
+
+70A. (1) Notwithstanding anything in this
+
+<!-- marginal: protection -->
+
+Act, temporary protection shall be granted to
+
+<!-- marginal: of trade -->
+
+<!-- marginal: marks in -->
+
+a trade mark in respect of goods or services
+
+<!-- marginal: respect of -->
+
+which are the subject matters of an exhibition
+
+<!-- marginal: goods or -->
+
+<!-- marginal: services -->
+
+at an official or officially recognised
+
+<!-- marginal: which -->
+
+international exhibition held in Malaysia or in
+
+<!-- marginal: are the -->
+
+<!-- marginal: subject -->
+
+any Convention country or prescribed foreign
+
+<!-- marginal: matters -->
+
+country.
+
+<!-- marginal: of Interna- -->
+
+<!-- marginal: tional -->
+
+<!-- marginal: exhibitions. -->
+
+(2) The temporary protection granted under subsection (1) shall not extend any period of priority claimed by an applicant and where a right of priority is claimed by an applicant subsequent to the temporary protection, the period of priority shall remain six months but the period shall commence from the date of the introduction of the goods or services into the exhibition.
 
 (3) An applicant for registration of a trade mark whose goods or services are the subject matters of an exhibition at an official or officially recognised international exhibition in Malaysia or in any Convention country or prescribed foreign country and who applies for registration of that mark in Malaysia within six months from the date on which the goods or services first became the subject matters of the exhibition shall, on his request, be deemed to have applied for registration on the date on which the goods or services first became the subject matters of the exhibition.
 
@@ -940,35 +1056,59 @@ Temporary 70A. (1) Notwithstanding anything in this protection Act, temporary pr
 
 <!-- page 30 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-52. Section 72 of the principal Act is amended by of section 72. inserting after the word "goods" wherever it appears the words "or services".
+52. Section 72 of the principal Act is amended by
 
-Amendment
+<!-- marginal: of section 72. -->
 
-53. Paragraph 75(l)(d) of the principal Act is amended of section 75. by substituting for the word "amend" the word "award".
+inserting after the word "goods" wherever it appears the words "or services".
 
-Amendment
+<!-- marginal: Amendment -->
 
-54. The principal Act is amended by substituting for of section 77. section 77 the following:
+53. Paragraph 75(l)(d) of the principal Act is amended
+
+<!-- marginal: of section 75. -->
+
+by substituting for the word "amend" the word "award".
+
+<!-- marginal: Amendment -->
+
+54. The principal Act is amended by substituting for
+
+<!-- marginal: of section 77. -->
+
+section 77 the following:
 
 "Extension 77. (1) Where by this Act or any regulations of time. made thereunder, a time is specified within which an act or thing is to be done, the Registrar may, unless otherwise expressly provided or directed by the Court, upon application in the prescribed manner, extend the time either before or after its expiration upon payment of the prescribed fee.
 
 (2) Subsection (1) shall not apply to section 29, subsection (3) of section 31, section 70 and section 70A except where the circumstances mentioned in section 78 apply.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-55. Section 78 of the principal Act is amended by of section 78. deleting the word "regional".
+55. Section 78 of the principal Act is amended by
 
-Amendment
+<!-- marginal: of section 78. -->
 
-56. Section 79 of the principal Act is amended by of section 79. substituting for subsection (1) the following:
+deleting the word "regional".
+
+<!-- marginal: Amendment -->
+
+56. Section 79 of the principal Act is amended by
+
+<!-- marginal: of section 79. -->
+
+substituting for subsection (1) the following:
 
 "(1) Where an applicant for the registration of a trade mark does not reside or carry on business in Malaysia, he shall give to the Registrar an address for service in Malaysia which shall be the address of his agent, and if he fails to do so, the Registrar may refuse to proceed with the application.".
 
-Substitution
+<!-- marginal: Substitution -->
 
-57. The principal Act is amended by substituting for of section 80. section 80 the following:
+57. The principal Act is amended by substituting for
+
+<!-- marginal: of section 80. -->
+
+section 80 the following:
 
 "Agent. 80. (1) Where an applicant for registration of a trade mark does not reside or carry on business in Malaysia, he shall appoint an agent to act for him.
 
@@ -1000,11 +1140,19 @@ Substitution
 
 (2)(b) the words "and services";
 
-(b) by substituting for paragraph ( 2 ) ( e) the following:
+(b) by substituting for paragraph ( 2 ) ( e)
+
+<!-- marginal: the -->
+
+following:
 
 "(e) to prescribe the fees to be paid in respect of any matter or thing required for the purposes of this Act;";
 
-(c) by inserting after paragraph ( 2 ) ( e) the following:
+(c) by inserting after paragraph ( 2 ) ( e)
+
+<!-- marginal: the -->
+
+following:
 
 "(ea) to provide for the registration and qualifications of agents;"; and
 
@@ -1012,9 +1160,13 @@ Substitution
 
 <!-- page 32 -->
 
-Saving
+<!-- marginal: Saving -->
 
-61. (1) The amendments to section 11, section 14, provisions. subsections 19(1) and 19(3), subsection 20(1), subsection 22(1), subsection 26(1), section 27, section 28, section 42, subsections 46(1), 46(2), 46(3) and 46(5), section 48, paragraphs 49(l)(c) and 49(l)(d), section 50, section 53, section 54, subsections 55(5) and 55(6), section 68, section 70, subsection 77(1) and subsection 79(1) of the principal Act shall not affect any application for registration of a trade mark or for registration as a registered user or the registration of a trade mark or a registered user, as the case may be, made under the principal Act before the commencement of this Act and those provisions shall apply to that application or registration, as the case may be, as if they had not been so amended.
+61. (1) The amendments to section 11, section 14,
+
+<!-- marginal: provisions. -->
+
+subsections 19(1) and 19(3), subsection 20(1), subsection 22(1), subsection 26(1), section 27, section 28, section 42, subsections 46(1), 46(2), 46(3) and 46(5), section 48, paragraphs 49(l)(c) and 49(l)(d), section 50, section 53, section 54, subsections 55(5) and 55(6), section 68, section 70, subsection 77(1) and subsection 79(1) of the principal Act shall not affect any application for registration of a trade mark or for registration as a registered user or the registration of a trade mark or a registered user, as the case may be, made under the principal Act before the commencement of this Act and those provisions shall apply to that application or registration, as the case may be, as if they had not been so amended.
 
 (2) Paragraph 24(c) section 25, section 31 paragraph 31(c) and section 51 of this Act shall apply only to an application for registration of a trade mark or for renewal of a trade mark or for registration as a registered user or to any trade mark registered, as the case may be, on or after the commencement of this Act.
 

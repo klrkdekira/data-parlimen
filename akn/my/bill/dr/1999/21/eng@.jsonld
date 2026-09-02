@@ -61,7 +61,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/21/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "Purpose Title B. 4 Election Commission B. 8 Public Services Department B. 18 Ministry of Primary Industries B. 19 Ministry of Agriculture Bill Purpose Title B. 20 Ministry of International Trade and Industry B. 22 Ministry of Culture, Arts and Tourism 150.000,000 B. 29 Treasury General Services 151.000,000 B. 31 Royal Customs and Excise Department B. 51 Ministry of Foreign Affairs B. 52 Ministry of Works TOTAL 600,812,500"
+        "@value": "Purpose Title B. 4 Election Commission B. 8 Public Services Department B. 18 Ministry of Primary Industries B. 19 Ministry of Agriculture Bill Purpose Title B. 20 Ministry of International Trade and Industry B. 22 Ministry of Culture, Arts and Tourism B. 29 Treasury General Services B. 31 Royal Customs and Excise Department B. 51 Ministry of Foreign Affairs B. 52 Ministry of Works TOTAL"
       }
     }
   ]

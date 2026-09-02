@@ -8,9 +8,7 @@ D.R. 37/93
 
 bernama
 
-Suatu Akta untuk meminda Akta Cukai Perkhidmatan
-
-1975. [ ]
+Suatu Akta untuk meminda Akta Cukai Perkhidmatan 1975. [ ]
 
 ## MAKA INILAH DIPERBUAT UNDANG-UNDANG
 
@@ -34,13 +32,15 @@ ibu" dalam Akta ini, adalah dipinda dalam seksyen 2—
 
 <!-- marginal: Akta 15! -->
 
-(a) dengan memasukkan selepas takrif "ditetapkan" takrif yang berikut:
+(a) dengan memasukkan selepas
+
+<!-- marginal: takrif -->
+
+"ditetapkan" takrif yang berikut:
 
 ' "dokumen" mempunyai erti yang Akta 56 diberikan kepadanya dalam seksyen 3 Akta Keterangan 1950;';
 
-dengan memasukkan selepas takrif "Ketua
-
-(b) Pengarah" takrif vane berikut:
+dengan memasukkan selepas takrif "Ketua (b) Pengarah" takrif vane berikut:
 
 ' "komputer" mempunyai erti yang Akta 56. diberikan kepadanya dalam seksyen 3 Akta Keterangan 1950;'; dan
 
@@ -62,9 +62,13 @@ dengan memasukkan selepas takrif "Ketua
 
 transaksi;'.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Proviso kepada seksyen 49 Akta ibu adalah dipinda seksyen 49. dengan memasukkan selepas perkataan "yang tidak dicetak atau dikeluarkan sedemikian" perkataan "seperti yang disebut terdahulu, atau membenarkan penggunaan apa-apa borang yang dikemukakan melalui pertukaran data elektronik".
+3. Proviso kepada seksyen 49 Akta ibu adalah dipinda
+
+<!-- marginal: seksyen 49. -->
+
+dengan memasukkan selepas perkataan "yang tidak dicetak atau dikeluarkan sedemikian" perkataan "seperti yang disebut terdahulu, atau membenarkan penggunaan apa-apa borang yang dikemukakan melalui pertukaran data elektronik".
 
 ## HURAIAN
 

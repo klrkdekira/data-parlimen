@@ -14,15 +14,27 @@ Suatu Akta untuk meminda Ordinan Pencen Balu dan Anak Yatim, Sarawak. [ ]
 
 oleh Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan Dewan Rakyat dan Dewan Negara yang bersidang dalam Parlimen, dan dengan kuasa daripadanya, seperti berikut:
 
-Tajuk ringkas
+<!-- marginal: Tajuk ringkas -->
 
-1. (1) Akta ini bolehlah dinamakan Akta Pencen Balu dan mula dan Anak Yatim (Sarawak) (Pindaan) 1994. berkuatkuasa.
+1. (1) Akta ini bolehlah dinamakan Akta Pencen Balu
+
+<!-- marginal: dan mula -->
+
+dan Anak Yatim (Sarawak) (Pindaan) 1994.
+
+<!-- marginal: berkuatkuasa. -->
 
 (2) Akta ini hendaklah mula berkuatkuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-2. Ordinan Pencen Balu dan Anak Yatim, Sarawak, seksyen 2. yang disebut "Ordinan" dalam Akta ini, adalah dipinda Sarawak
+2. Ordinan Pencen Balu dan Anak Yatim, Sarawak,
+
+<!-- marginal: seksyen 2. -->
+
+yang disebut "Ordinan" dalam Akta ini, adalah dipinda
+
+<!-- marginal: Sarawak -->
 
 ## Bab 90.
 
@@ -38,7 +50,11 @@ dalam seksyen 2—
 
 "Minister" means the Minister of the Federal Government who is for the time being charged with the responsibility for pensions;'.
 
-Pindaan 3. Seksyen 3 Ordinan adalah dipinda— seksyen 3.
+<!-- marginal: Pindaan -->
+
+3. Seksyen 3 Ordinan adalah dipinda—
+
+<!-- marginal: seksyen 3. -->
 
 (a) dengan menggantikan subseksyen (2) dengan subseksyen yang berikut:
 
@@ -46,13 +62,7 @@ Pindaan 3. Seksyen 3 Ordinan adalah dipinda— seksyen 3.
 
 (a) the local pensions authority, who shall be the Chairman;
 
-(b) two officers from the Public Service Department, Malaysia,
-
-<!-- marginal: to -->
-
-<!-- marginal: be -->
-
-appointed by the Director General of Public Service;
+(b) two officers from the Public Service Department, Malaysia, to be appointed by the Director General of Public Service;
 
 (c) one officer from the Chief Minister's Department, to be appointed by the State Secretary;
 
@@ -64,13 +74,7 @@ appointed by the Director General of Public Service;
 
 "(2A) Members of the Board, other than the Chairman, shall hold office for such period as may be determined by the respective appointing authorities specitted in subsection (2).
 
-(2B) The Board shall appoint a Secretary who shall assist the Board
-
-<!-- marginal: in -->
-
-<!-- marginal: the -->
-
-administration of the Fund.".
+(2B) The Board shall appoint a Secretary who shall assist the Board in the administration of the Fund.".
 
 <!-- page 3 -->
 

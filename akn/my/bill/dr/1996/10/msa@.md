@@ -22,15 +22,63 @@ II
 
 ## BROKER INSURANS DAN AJUSTER
 
-4. Pengelasan perniagaan insurans. 5. Perniagaan yang bukan perniagaan insurans. 6. Larangan atau sekatan perniagaan insurans. 7. Larangan ke atas perniagaan anuiti pasti atau insurans berkaitan pelaburan. 8. Aktiviti yang menjadi perniagaan insurans. 9. Larangan menjalankan perniagaan melainkan jika dilesenkan. 10. Pengemukaan diri sebagai penanggung insurans, broker insurans atau ajuster. 11. Penggunaan perkataan "insurans", "asurans"
+4. Pengelasan perniagaan insurans. 5. Perniagaan yang bukan perniagaan insurans. 6. Larangan atau sekatan perniagaan insurans. 7. Larangan ke atas perniagaan anuiti pasti atau insurans berkaitan pelaburan. 8. Aktiviti yang menjadi perniagaan insurans. 9. Larangan menjalankan perniagaan melainkan jika dilesenkan.
+
+10. Pengemukaan diri sebagai penanggung insurans, broker insurans atau ajuster.
+
+11. Penggunaan perkataan "insurans", "asurans"
 
 <!-- marginal: atau -->
 
-"pengunderait". 12. Penanggung insurans hendaklah menjaiankan perniagaan hayat atau am. 13. Pihak berkuasa pelesenan. 14. Pemohon lesen. 15. Permohonan untuk mendapatkan lesen.
+"pengunderait".
+
+12. Penanggung insurans hendaklah menjaiankan perniagaan hayat atau am.
+
+13. Pihak berkuasa pelesenan.
+
+14. Pemohon lesen.
+
+15. Permohonan untuk mendapatkan lesen.
 
 <!-- page 2 -->
 
-16. Lesen bagi penanggung insurans. 17. Lesen bagi broker insurans dan ajuster. 18. Modal syer berbayar yang minimum atau lebihan aset berbandingan dengan liabiliti. 19. Penyata modal. 20. Kehendak tentang prospektus. 21. Fee lesen. 22. Keanggotaan persatuan. 23. Syarat lesen. 24. Bentuk lesen. 25. Pempameran lesen. 26. Nama hendaklah dilekatkan di luar pejabat. 27. Mula berniaga. 28. Sekatan ke atas perniagaan. 29. Pindaan kepada butir-butir pelesenan. 30. Perniagaan berlesen hendaklah dijalankan secara eksklusif oleh pemegang lesen. 31. Pembatalan lesen. 32. Rayuan terhadap pembatalan lesen. 33. Kesan pembatalan lesen. 34. Senarai penanggung insurans berlesen hendaklah diwartakan.
+16. Lesen bagi penanggung insurans.
+
+17. Lesen bagi broker insurans dan ajuster.
+
+18. Modal syer berbayar yang minimum atau lebihan aset berbandingan dengan liabiliti.
+
+19. Penyata modal.
+
+20. Kehendak tentang prospektus.
+
+21. Fee lesen.
+
+22. Keanggotaan persatuan.
+
+23. Syarat lesen.
+
+24. Bentuk lesen.
+
+25. Pempameran lesen.
+
+26. Nama hendaklah dilekatkan di luar pejabat.
+
+27. Mula berniaga.
+
+28. Sekatan ke atas perniagaan.
+
+29. Pindaan kepada butir-butir pelesenan.
+
+30. Perniagaan berlesen hendaklah dijalankan secara eksklusif oleh pemegang lesen.
+
+31. Pembatalan lesen.
+
+32. Rayuan terhadap pembatalan lesen.
+
+33. Kesan pembatalan lesen.
+
+34. Senarai penanggung insurans berlesen hendaklah diwartakan.
 
 ## BAHAGIAN
 
@@ -38,7 +86,11 @@ III
 
 ## SUBSIDIARI DAN PEJABAT PEMEGANG LESEN
 
-35. Subsidiari pemegang lesen. 36. Pejabat pemegang lesen. 37. Permohonan di bawah seksyen 35 atau 36.
+35. Subsidiari pemegang lesen.
+
+36. Pejabat pemegang lesen.
+
+37. Permohonan di bawah seksyen 35 atau 36.
 
 ## BAHAGIAN
 
@@ -48,11 +100,47 @@ IV
 
 ## PEMEGANG SYER
 
-38. Penubuhan kumpulan wang insurans. 39. Penentuan polisi berhubungan dengan kumpulan wang insurans. 40. Kredit ke dalam kumpulan wang insurans. 41. Penggunaan kumpulan wang insurans. 42. Aset kumpulan wang insurans.
+38. Penubuhan kumpulan wang insurans.
+
+39. Penentuan polisi berhubungan dengan kumpulan wang insurans.
+
+40. Kredit ke dalam kumpulan wang insurans.
+
+41. Penggunaan kumpulan wang insurans.
+
+42. Aset kumpulan wang insurans.
 
 <!-- page 3 -->
 
-43. Pengeluaran daripada kumpulan wang insurans. 44. Penilaian aset dan penentuan liabiliti. 45. Pelaburan aset. 46. Margin kesolvenan. 47. Daftar polisi dan daftar tuntutan. 48. Dokumen hakmilik. 49. Sekatan ke atas pemberian kemudahan kredit. 50. Cagaran bagi kemudahan kredit. 51. Penilaian cagaran. 52. Sekatan atau larangan ke atas cagaran. 53. Sekatan ke atas aset. 54. Pendedahan kepentingan dalam kemudahan kredit. 55. Pendedahan percanggahan kepentingan. 56. Setiausaha hendaklah merekodkan pengisytiharaan. 57. Insurans semula.
+43. Pengeluaran daripada kumpulan wang insurans.
+
+44. Penilaian aset dan penentuan liabiliti.
+
+45. Pelaburan aset.
+
+46. Margin kesolvenan.
+
+47. Daftar polisi dan daftar tuntutan.
+
+48. Dokumen hakmilik.
+
+49. Sekatan ke atas pemberian kemudahan kredit.
+
+50. Cagaran bagi kemudahan kredit.
+
+51. Penilaian cagaran.
+
+52. Sekatan atau larangan ke atas cagaran.
+
+53. Sekatan ke atas aset.
+
+54. Pendedahan kepentingan dalam kemudahan kredit.
+
+55. Pendedahan percanggahan kepentingan.
+
+56. Setiausaha hendaklah merekodkan pengisytiharaan.
+
+57. Insurans semula.
 
 ## BAHAGIAN V
 
@@ -60,23 +148,97 @@ IV
 
 ## INSURANS YANG INGKAR
 
-58. Pemberitahuan terhadap ketakpatuhan margin kesolvenan. 59. Tindakan terhadap penanggung insurans, pekerja atau pengarah. 60. Peruntukan berhubungan dengan perlantikan di bawah subseksyen 59(3) atau (4). 61. Peruntukan berhubungan dengan pemecatan di bawah perenggan 59(3)(a) atau (c). 62. Peruntukan berhubungan dengan pengambilalihan kawalan di bawah subseksyen 59(4). 63. Kesan perintah di bawah subseksyen 59(4). 64. Kuasa untuk mengkensel atau mengeluarkan modal tambahan. 65. Moratorium.
+58. Pemberitahuan terhadap ketakpatuhan margin kesolvenan.
+
+59. Tindakan terhadap penanggung insurans, pekerja atau pengarah.
+
+60. Peruntukan berhubungan dengan perlantikan di bawah subseksyen 59(3) atau (4).
+
+61. Peruntukan berhubungan dengan pemecatan di bawah perenggan 59(3)(a) atau (c).
+
+62. Peruntukan berhubungan dengan pengambilalihan kawalan di bawah subseksyen 59(4).
+
+63. Kesan perintah di bawah subseksyen 59(4).
+
+64. Kuasa untuk mengkensel atau mengeluarkan modal tambahan.
+
+65. Moratorium.
 
 ## BAHAGIAN VI
 
 ## PENGURUSAN PEMEGANG LESEN
 
-66. Pendedahan kepentingan benefisial dalam syer mengundi. 67. Pemerolehan atau pelupusan agregat kepentingan syer sebanyak lima peratus.
+66. Pendedahan kepentingan benefisial dalam syer mengundi.
+
+67. Pemerolehan atau pelupusan agregat kepentingan syer sebanyak lima peratus.
 
 <!-- page 4 -->
 
-68. Larangan dan sekatan sekiranya ada pelanggaran. 69. Larangan pemegangan kepentingan mengenai syer. 70. Perlantikan pengarah, ketua pegawai eksekutif atau pengurus. 71. Kehilangan kelayakan pengarah atau pekerja. 72. Kesan kehilangan kelayakan pengarah atau pekerja. 73. Notis pemberhentian jawatan.
+68. Larangan dan sekatan sekiranya ada pelanggaran.
+
+69. Larangan pemegangan kepentingan mengenai syer.
+
+70. Perlantikan pengarah, ketua pegawai eksekutif atau pengurus.
+
+71. Kehilangan kelayakan pengarah atau pekerja.
+
+72. Kesan kehilangan kelayakan pengarah atau pekerja.
+
+73. Notis pemberhentian jawatan.
 
 ## BAHAGIAN VII
 
 ## JURUAUDIT, AKTUARI DAN AKAUN
 
-74. Perlantikan juruaudit. 75. Kehilangan kelayakan juruaudit. 76. Sekatan ke atas firma audit. 77. Persetujuan untuk bertindak sebagai juruaudit. 78. Perlantikan firma audit. 79. Juruaudit tidak disifatkan sebagai pekerja pemegang lesen. 80. Laporan juruaudit. 81. Maklumat tambahan daripada juruaudit. 82. Juruaudit hendaklah melaporkan perkara tertentu kepada Bank. 83. Perlantikan aktuari oleh penanggung insurans hayat. 84. Pemberhentian menjadi aktuari yang dilantik. 85. Penyiasatan dan laporan aktuari. 86. Maklumat kepada juruaudit dan aktuari yang dilantik. 87. Akaun tahunan. 88. Akaun tahunan dan laporan aktuari mengenai penanggung insurans asing berlesen. 89. Penyata suku tahunan. 90. Standard perakaunan. 91. Laporan aktuari ke atas tuntutan. 92. Akaun tahunan, penyata suku tahunan dan laporan aktuari yang dilantik hendaklah diperbetulkan. 93. Sekatan ke atas pembayaran dividen. 94. Pengemukaan akaun tahunan. 95. Tindakan berhubungan dengan akaun tahunan. 96. Pemeriksaan. 97. Kebolehterimaan dokumen. 98. Liabiliti jika rekod perakaunan yang sepatutnya tidak disimpan.
+74. Perlantikan juruaudit.
+
+75. Kehilangan kelayakan juruaudit.
+
+76. Sekatan ke atas firma audit.
+
+77. Persetujuan untuk bertindak sebagai juruaudit.
+
+78. Perlantikan firma audit.
+
+79. Juruaudit tidak disifatkan sebagai pekerja pemegang lesen.
+
+80. Laporan juruaudit.
+
+81. Maklumat tambahan daripada juruaudit.
+
+82. Juruaudit hendaklah melaporkan perkara tertentu kepada Bank.
+
+83. Perlantikan aktuari oleh penanggung insurans hayat.
+
+84. Pemberhentian menjadi aktuari yang dilantik.
+
+85. Penyiasatan dan laporan aktuari.
+
+86. Maklumat kepada juruaudit dan aktuari yang dilantik.
+
+87. Akaun tahunan.
+
+88. Akaun tahunan dan laporan aktuari mengenai penanggung insurans asing berlesen.
+
+89. Penyata suku tahunan.
+
+90. Standard perakaunan.
+
+91. Laporan aktuari ke atas tuntutan.
+
+92. Akaun tahunan, penyata suku tahunan dan laporan aktuari yang dilantik hendaklah diperbetulkan.
+
+93. Sekatan ke atas pembayaran dividen.
+
+94. Pengemukaan akaun tahunan.
+
+95. Tindakan berhubungan dengan akaun tahunan.
+
+96. Pemeriksaan.
+
+97. Kebolehterimaan dokumen.
+
+98. Liabiliti jika rekod perakaunan yang sepatutnya tidak disimpan.
 
 <!-- page 5 -->
 
@@ -84,7 +246,13 @@ IV
 
 ## PEMERIKSAAN
 
-99. Pemeriksaan pemegang lesen. 100. Kewajipan mengemukakan dokumen dan mengadakan akses kepada dokumen dan maklumat. 101. Pemeriksaan ke atas orang selain daripada pemegang lesen. 102. Kehadiran di hadapan pemeriksa.
+99. Pemeriksaan pemegang lesen.
+
+100. Kewajipan mengemukakan dokumen dan mengadakan akses kepada dokumen dan maklumat.
+
+101. Pemeriksaan ke atas orang selain daripada pemegang lesen.
+
+102. Kehadiran di hadapan pemeriksa.
 
 ## BAHAGIAN
 
@@ -92,13 +260,27 @@ IX
 
 ## PENYIASATAN, PENGGELEDAHAN ATAU PENYITAAN
 
-103. Perlantikan pegawai penyiasat. 104. Kuasa pegawai penyiasat. 105. Halangan terhadap pegawai penyiasat. 106. Kehendak untuk menyediakan terjemahan. 107. Kuasa untuk memeriksa orang. 108. Bantuan kepada pegawai awam. 109. Pegawai penyiasat disifatkan sebagai pengkhidmat awam dan pegawai awam.
+103. Perlantikan pegawai penyiasat.
+
+104. Kuasa pegawai penyiasat.
+
+105. Halangan terhadap pegawai penyiasat.
+
+106. Kehendak untuk menyediakan terjemahan.
+
+107. Kuasa untuk memeriksa orang.
+
+108. Bantuan kepada pegawai awam.
+
+109. Pegawai penyiasat disifatkan sebagai pengkhidmat awam dan pegawai awam.
 
 ## BAHAGIAN X
 
 ## PENGGULUNGAN PENANGGUNG INSURANS
 
-110. Pemakaian Bahagian ini. 111. Sekatan ke atas penggulungan penanggung insurans tempatan. 112. Bank hendaklah mempetisyen bagi penggulungan. 113. Notis berhubungan dengan prosiding penggulungan. 114. Hal keadaan tambahan bagi penggulungan. 115. Perlantikan pelikuidasi. 116. Kawalan ke atas pelikuidasi. 117. Saraan pelikuidasi. 118. Penyata hal-ehwal. 119. Laporan dan akaun pelikuidasi. 120. Penilaian aset dan liabiliti. 121. Penamatan polisi. 122. Penggunaan kumpulan wang insurans dalam penggulungan. 123. Pengetepian beban bukti ketat mengenai hutang.
+110. Pemakaian Bahagian ini. 111. Sekatan ke atas penggulungan penanggung insurans tempatan.
+
+112. Bank hendaklah mempetisyen bagi penggulungan. 113. Notis berhubungan dengan prosiding penggulungan. 114. Hal keadaan tambahan bagi penggulungan. 115. Perlantikan pelikuidasi. 116. Kawalan ke atas pelikuidasi. 117. Saraan pelikuidasi. 118. Penyata hal-ehwal. 119. Laporan dan akaun pelikuidasi. 120. Penilaian aset dan liabiliti. 121. Penamatan polisi. 122. Penggunaan kumpulan wang insurans dalam penggulungan. 123. Pengetepian beban bukti ketat mengenai hutang.
 
 <!-- page 6 -->
 
@@ -128,15 +310,7 @@ IX
 
 134. Bank hendaklah menjadi pihak kepada prosiding.
 
-135. Kesan pengesahan oleh Mahkamah.
-
-136. Bayaran balik perbelanjaan Bank.
-
-137. Larangan pembayaran daripada kumpulan wang insurans.
-
-138. Penyerahsimpanan dokumen.
-
-139. Pemindahan perniagaan pembrokeran insurans atau pengajusteran insurans.
+135. Kesan pengesahan oleh Mahkamah. 136. Bayaran balik perbelanjaan Bank. 137. Larangan pembayaran daripada kumpulan wang insurans. 138. Penyerahsimpanan dokumen. 139. Pemindahan perniagaan pembrokeran insurans atau pengajusteran insurans.
 
 ## BAHAGIAN XII
 
@@ -144,11 +318,7 @@ IX
 
 140. Insurans harta dan liabiliti.
 
-141. Pengambilalihan risiko.
-
-142. Kadar premium di bawah polisi hayat.
-
-143. Laporan aktuari atas terma polisi.
+141. Pengambilalihan risiko. 142. Kadar premium di bawah polisi hayat. 143. Laporan aktuari atas terma polisi.
 
 144. Kadar premium di bawah polisi am.
 
@@ -168,7 +338,25 @@ IX
 
 <!-- page 7 -->
 
-152. Kepentingan boleh insurans. 153. Keupayaan orang yang belum dewasa untuk menginsurans. 154. Wang polisi hayat hendaklah dibayar tanpa potongan. 155. Penyerahan polisi hayat. 156. Ketakbayaran premium polisi hayat. 157. Butir-butir dalam polisi. 158. Pemilihan bagi polisi berbayar. 159. Hak tambahan yang diberikan oleh seksyen 155, 156 dan 158. 160. Pungutan premium di alamat pemunya polisi. 161. Faedah atas amaun tuntutan.
+152. Kepentingan boleh insurans.
+
+153. Keupayaan orang yang belum dewasa untuk menginsurans.
+
+154. Wang polisi hayat hendaklah dibayar tanpa potongan.
+
+155. Penyerahan polisi hayat.
+
+156. Ketakbayaran premium polisi hayat.
+
+157. Butir-butir dalam polisi.
+
+158. Pemilihan bagi polisi berbayar.
+
+159. Hak tambahan yang diberikan oleh seksyen 155, 156 dan 158.
+
+160. Pungutan premium di alamat pemunya polisi.
+
+161. Faedah atas amaun tuntutan.
 
 ## BAHAGIAN XIII
 
@@ -176,17 +364,51 @@ PEMBAYARAN WANG POLISl DI BAWAH SUATU POLISI HAYAT
 
 ## ATAU POLISI KEMALANGAN DIRI
 
-162. Pemakaian Bahagian ini. 163. Kuasa untuk membuat penamaan. 164. Pembatalan penamaan. 165. Pembayaran wang polisi jika terdapat penamaan. 166. Pemegang amanah wang polisi. 167. Penama selain daripada penama di bawah subseksyen 166(1). 168. Wang polisi yang diserahhakkan atau disandarkan. 169. Pembayaran wang polisi jika tidak ada penamaan. 170. Pembayaran kepada orang yang tak kompeten untuk berkontrak. 171. Pembahagian wang polisi dalam penjalanan pentadbiran. 172. Bahagian ini mengatasi polisi dan mana-mana undang-undang bertulis lain.
+162. Pemakaian Bahagian ini.
+
+163. Kuasa untuk membuat penamaan.
+
+164. Pembatalan penamaan.
+
+165. Pembayaran wang polisi jika terdapat penamaan.
+
+166. Pemegang amanah wang polisi.
+
+167. Penama selain daripada penama di bawah subseksyen 166(1).
+
+168. Wang polisi yang diserahhakkan atau disandarkan.
+
+169. Pembayaran wang polisi jika tidak ada penamaan.
+
+170. Pembayaran kepada orang yang tak kompeten untuk berkontrak.
+
+171. Pembahagian wang polisi dalam penjalanan pentadbiran.
+
+172. Bahagian ini mengatasi polisi dan mana-mana undang-undang bertulis lain.
 
 ## BAHAGIAN XIV
 
 ## KUMPULAN WANG SKIM JAMINAN INSURANS
 
-173. Penubuhan dan penyenggaraan kumpulan wang skim jaminan insurans. 174. Pelaburan wang. 175. Bank boleh meminjam wang. 176. Levi. 177. Pemberhentian levi.
+173. Penubuhan dan penyenggaraan kumpulan wang skim jaminan insurans.
+
+174. Pelaburan wang.
+
+175. Bank boleh meminjam wang.
+
+176. Levi.
+
+177. Pemberhentian levi.
 
 <!-- page 8 -->
 
-178. Penggunaan wang. 179. Sekatan ke atas penggunaan wang. 180. Penentuan wang kena dibayar. 181. Pembayaran sebahagian tuntutan. 182. Pembayaran tuntutan. 183. Bantuan dalam pentadbiran.
+178. Penggunaan wang.
+
+179. Sekatan ke atas penggunaan wang.
+
+180. Penentuan wang kena dibayar. 181. Pembayaran sebahagian tuntutan.
+
+182. Pembayaran tuntutan. 183. Bantuan dalam pentadbiran.
 
 ## BAHAGIAN XV
 
@@ -198,7 +420,13 @@ PEMBAYARAN WANG POLISl DI BAWAH SUATU POLISI HAYAT
 
 ## PERUNTUKAN AM
 
-187. Penguatkuasaan Akta ini. 188. Pemulangan wang yang diperolehi daripada pelanggaran Akta ini, 189. Pampasan. 190. Pemberitahuan sijil. 191. Tanggung rugi. 192. Laporan tahunan. 193. Pengemukaan maklumat dan statistik. 194. Penyampaian notis. 195. Kerahsiaan. 196. Pendedahan yang dibenarkan. 197. Keputusan Menteri adalah muktamad. 198. Pengecualian. 199. Pemakaian undang-undang lain. 200. Ketakpemakaian Akta. 201. Kuasa untuk mengeluarkan garis panduan. 202. Peraturan-peraturan.
+187. Penguatkuasaan Akta ini. 188. Pemulangan wang yang diperolehi daripada pelanggaran Akta ini, 189. Pampasan. 190. Pemberitahuan sijil. 191. Tanggung rugi. 192. Laporan tahunan. 193. Pengemukaan maklumat dan statistik. 194. Penyampaian notis. 195. Kerahsiaan. 196. Pendedahan yang dibenarkan. 197. Keputusan Menteri adalah muktamad. 198. Pengecualian. 199. Pemakaian undang-undang lain.
+
+200. Ketakpemakaian Akta.
+
+201. Kuasa untuk mengeluarkan garis panduan.
+
+202. Peraturan-peraturan.
 
 <!-- page 9 -->
 
@@ -320,13 +548,23 @@ oleh Menteri melalui pemberitahuan dalam Warta,
 
 (d) suatu perkongsian, ertinya pekongsi; dan
 
-(e) suatu pertubuhan yang didaftarkan di bawah Akla 335. Akta Pertubuhan 1966, ertinya anggota itu;
+(e) suatu pertubuhan yang didaftarkan di bawah
+
+<!-- marginal: Akla 335. -->
+
+Akta Pertubuhan 1966, ertinya anggota itu;
 
 "anuiti" ertinya hak kepada suatu siri pembayaran berkala pada lat tempoh satu tahun atau kurang di bawah suatu kontrak dengan penanggung insurans hayat;
 
-Akta 519. "Bank" ertinya Bank Negara yang ditubuhkan oleh Akta Bank Negara Malaysia 1958;
+<!-- marginal: Akta 519. -->
 
-"bank berlesen" mempunyai erti sebagaimana yang terdapat Akta 372. dalam Akta Bank dan Institusi-Institusi Kewangan 1989;
+"Bank" ertinya Bank Negara yang ditubuhkan oleh Akta Bank Negara Malaysia 1958;
+
+"bank berlesen" mempunyai erti sebagaimana yang terdapat
+
+<!-- marginal: Akta 372. -->
+
+dalam Akta Bank dan Institusi-Institusi Kewangan 1989;
 
 "berlesen"ertinya dilesenkan dibawah seksyen 16atau 17;
 
@@ -372,7 +610,11 @@ dalam Akta Keterangan 1950 dan termasuklah buku dan akaun;
 
 "insurans semula" ertinya perlindungan insurans yang diambil oleh seseorang penanggung insurans dengan penanggung insurans kedua atas risiko, secara keseluruhannya atau sebahagiannya, yang telah diterimanya dan termasuklah apa-apa perkiraan yang serupa oleh suatu cawangan penanggung insurans itu di dalam Malaysia dengan cawangannya di luar Malaysia (ibu pejabat penanggung insurans itu adalah, bagi maksud ini, dikira sebagai suatu cawangan);
 
-"juruaudit syarikat diluluskan" mempunyai erti sebagaimana Akta 125. yang terdapat dalam Akta Syarikat 1965;
+"juruaudit syarikat diluluskan" mempunyai erti sebagaimana
+
+<!-- marginal: Akta 125. -->
+
+yang terdapat dalam Akta Syarikat 1965;
 
 "kemudahan kredit" ertinya sesuatu pendahuluan, pinjaman atau apa-apa kemudahan yang lain yang melaluinya peminjam itu mempunyai akses, secara langsung atau tak langsung, kepada wang pemberi pinjaman dan termasuklah pemberian suatu jaminan berhubungan dengan sesuatu kemudahan kredit;
 
@@ -544,13 +786,29 @@ perjawatan tetap di Malaysia dalam pengertian Akta Cukai Pendapatan 1967; atau
 
 (d) sekiranya orang itu ialah suatu syarikat, pengarah atau subsidiari syarikat itu dan pengarah atau pekerja subsidiari itu;
 
-"subsidiari" mempunyai erti sebagaimana yang terdapat Akta 125. dalam seksyen 5 Akta Syarikat 1965;
+"subsidiari" mempunyai erti sebagaimana yang terdapat
 
-"sy arikat" mempuny ai erti sebagaimana yang terdapat dalam Akta 125 AktaSyarikat 1965;
+<!-- marginal: Akta 125. -->
 
-"syarikat awam" ertinya syarikat yang diperbadankan di Akla 125 bawah Akta Syarikat 1965 dan yang memorandum persatuannya atau perkara persatuannya tidak mengenakan sekatan, had dan larangan yang disebut dalam subseksyen 15(1) Akta tersebut;
+dalam seksyen 5 Akta Syarikat 1965;
 
-"syarikat persendirian" mempunyai erti sebagaimana yang Akta 125. terdapat dalam Akta Syarikat 1965;
+"sy arikat" mempuny ai erti sebagaimana yang terdapat dalam
+
+<!-- marginal: Akta 125 -->
+
+AktaSyarikat 1965;
+
+"syarikat awam" ertinya syarikat yang diperbadankan di
+
+<!-- marginal: Akla 125 -->
+
+bawah Akta Syarikat 1965 dan yang memorandum persatuannya atau perkara persatuannya tidak mengenakan sekatan, had dan larangan yang disebut dalam subseksyen 15(1) Akta tersebut;
+
+"syarikat persendirian" mempunyai erti sebagaimana yang
+
+<!-- marginal: Akta 125. -->
+
+terdapat dalam Akta Syarikat 1965;
 
 "syer", berhubungan dengan sesuatu perbadanan, ertinya syer terbitan perbadanan itu dan termasuklah saham kecuali jika perbezaan antara saham dan syer adalah dinyatakan atau disiratkan;
 
@@ -608,25 +866,69 @@ dibahagikan kepada dua kelas:
 
 (3) Walau apa pun subseksyen (1) dan 39(2), jika Bank berpuas hati bahawa mana-mana bahagian perniagaan penanggung insurans berlesen yang tergolong dalam sesuatu kelas atau perihalan tertentu perniagaan insurans, dalam hal penanggung insurans berlesen itu patut dikira sebagai tergolong dalam kelas atau perihalan yang lain, maka Bank boleh mengarahkan supaya ia dikira sedemikian.
 
-Perniagaan
+<!-- marginal: Perniagaan -->
 
-5. Bagi maksud Akta ini, yang berikut bukanlah perniagaan yang bukan insurans: perniagaan insurans
+5. Bagi maksud Akta ini, yang berikut bukanlah perniagaan
+
+<!-- marginal: yang bukan -->
+
+insurans:
+
+<!-- marginal: perniagaan -->
+
+<!-- marginal: insurans -->
 
 (a) pengendalian oleh majikan, selain daripada untuk mendapatkan keuntungan, akan suatu skim atau perkiraan y ang membuat peruntukan kewangan bagi persaraanpekerjanya,ataupenamatanperkhidmatan di masa hadapan kerana kematian atau ketakupayaan;
 
-(b) perniagaan yang dijalankan mengikut Bahagian II Akta 335 Akta Pertubuhan 1966 oleh suatu pertubuhan faedah bersama sebagaimana yang ditakrifkan dalam seksyen 2 Akta itu; dan
+(b) perniagaan yang dijalankan mengikut Bahagian II
+
+<!-- marginal: Akta 335 -->
+
+Akta Pertubuhan 1966 oleh suatu pertubuhan faedah bersama sebagaimana yang ditakrifkan dalam seksyen 2 Akta itu; dan
 
 (c) eksport kredit dan lain-lain jaminan kredit perniagaan insurans yang dijalankan oleh Malaysia Export Credit Insurance Berhad.
 
-Larangan
+<!-- marginal: Larangan -->
 
-6. Bank, demi kepentingan pengendalian secara teratur atau sekatan perniagaan suatu penanggung insurans berlesen atau industri perniagaan insurans. insurans, boleh melarang atau menyekat secara bertulis seseorang penanggung insurans berlesen daripada menjalankan apa-apa perihalan perniagaan insurans sebagaimana yang ditentukannya.
+6. Bank, demi kepentingan pengendalian secara teratur
 
-Penalti: Pemenjaraan selama tiga tahun atau tiga juta ringgit atau kedua-duanya. Penalti ingkar. Larangan ke
+<!-- marginal: atau sekatan -->
 
-7. (1) Kecuali dengan kelulusan bertulis daripada Bank atas terlebih dahulu dan tertakluk kepada apa-apa syarat yang perniagaan ditentukannya, tiada penanggung insurans berlesen boleh anuiti pasti atau menjalankan— insurans berkaitan
+perniagaan suatu penanggung insurans berlesen atau industri
 
-(a) perniagaan anuiti pasti; atau pelaburan.
+<!-- marginal: perniagaan -->
+
+<!-- marginal: insurans. -->
+
+insurans, boleh melarang atau menyekat secara bertulis seseorang penanggung insurans berlesen daripada menjalankan apa-apa perihalan perniagaan insurans sebagaimana yang ditentukannya.
+
+Penalti: Pemenjaraan selama tiga tahun atau tiga juta ringgit atau kedua-duanya. Penalti ingkar.
+
+<!-- marginal: Larangan ke -->
+
+7. (1) Kecuali dengan kelulusan bertulis daripada Bank
+
+<!-- marginal: atas -->
+
+terlebih dahulu dan tertakluk kepada apa-apa syarat yang
+
+<!-- marginal: perniagaan -->
+
+ditentukannya, tiada penanggung insurans berlesen boleh
+
+<!-- marginal: anuiti pasti -->
+
+<!-- marginal: atau -->
+
+menjalankan—
+
+<!-- marginal: insurans -->
+
+<!-- marginal: berkaitan -->
+
+(a) perniagaan anuiti pasti; atau
+
+<!-- marginal: pelaburan. -->
 
 (b) perniagaan insurans berkaitan pelaburan.
 
@@ -712,9 +1014,29 @@ Ajuster—Pemenjeraan selama satu tahun atau satu juta ringgit atau kedua-duanya
 
 (c) seseorang pekerja penanggung insurans berlesen yang, dalam urusan pekerjaannya, bertindak atau membantu dalam pengajusteran tuntutan insurans dan yang tidak mengemukakan dirinya sebagai seorang ajuster.
 
-Pengemukaan
+<!-- marginal: Pengemukaan -->
 
-10. Tiada seorang pun boleh mengemukakan dirinya diri sebagai sebagai seorang penanggung insurans, broker insurans penanggung insurans, atau ajuster melainkan jika dia dilesenkan di bawah Akta broker ini. insurans atau ajuster. Penalti: Penanggung insurans—Pemenjaraan selama sepuluh tahun atau sepuluh juta ringgit atau kedua-duanya. Penalti ingkar.
+10. Tiada seorang pun boleh mengemukakan dirinya
+
+<!-- marginal: diri sebagai -->
+
+sebagai seorang penanggung insurans, broker insurans
+
+<!-- marginal: penanggung -->
+
+<!-- marginal: insurans, -->
+
+atau ajuster melainkan jika dia dilesenkan di bawah Akta
+
+<!-- marginal: broker -->
+
+ini.
+
+<!-- marginal: insurans -->
+
+<!-- marginal: atau ajuster. -->
+
+Penalti: Penanggung insurans—Pemenjaraan selama sepuluh tahun atau sepuluh juta ringgit atau kedua-duanya. Penalti ingkar.
 
 Broker insurans—Pemenjaraan selama tiga tahun atau tiga juta ringgit atau kedua-duanya. Penalti ingkar.
 
@@ -786,19 +1108,29 @@ hayat dan perniagaan am.
 
 ## RANG UNDANG-UNDANG
 
-Pihak
+<!-- marginal: Pihak -->
 
 13. (1) Menteri adalah bertanggungjawab
 
 <!-- marginal: untuk -->
 
-berkuasa mengeluarkan lesen yang memberikuasa kepada pelesenan. pemegangnya untuk menjalankan perniagaan insurans.
+<!-- marginal: berkuasa -->
+
+mengeluarkan lesen yang memberikuasa kepada
+
+<!-- marginal: pelesenan. -->
+
+pemegangnya untuk menjalankan perniagaan insurans.
 
 (2) Bank adalah bertanggungjawab untuk mengeluarkan lesen yang memberikuasa pemegangnya untuk menjalankan perniagaan pembrokeran insurans atau perniagaan pengajusteran.
 
-Pemohon
+<!-- marginal: Pemohon -->
 
-14. Tiada seorang pun boleh memohon untuk mendapatkan lesen. lesen bagi menjalankan—
+14. Tiada seorang pun boleh memohon untuk mendapatkan
+
+<!-- marginal: lesen. -->
+
+lesen bagi menjalankan—
 
 (a) perniagaan insurans, melainkan jika dia adalah suatu syarikat awam;
 
@@ -806,13 +1138,33 @@ Pemohon
 
 (c) perniagaan sebagai penanggung insurans semula profesional, melainkan jika dia adalah suatu pertubuhan perbadanan.
 
-Permohonan
+<!-- marginal: Permohonan -->
 
-15. Suatu permohonan untuk mendapatkan lesen hendaklah untuk dibuat secara bertulis kepada Bank dalam bentuk dan mendapatkan mengikut cara, dan menyatakan apa-apa butir mengenai lesen. lesen itu, sebagaimana, yang ditentukan oleh Bank.
+15. Suatu permohonan untuk mendapatkan lesen hendaklah
 
-Lesen bagi
+<!-- marginal: untuk -->
 
-16. (1) Bank, pada bila-bila masa selepas menerima penanggung permohonan untuk mendapatkan lesen untuk menjalankan insurans. perniagaan insurans, hendaklah membuat syor kepada Menteri sama ada lesen itu patut diberikan atau tidak dan syarat-syarat, jika ada, yang hendaklah dikenakan ke atas lesen itu.
+dibuat secara bertulis kepada Bank dalam bentuk dan
+
+<!-- marginal: mendapatkan -->
+
+mengikut cara, dan menyatakan apa-apa butir mengenai
+
+<!-- marginal: lesen. -->
+
+lesen itu, sebagaimana, yang ditentukan oleh Bank.
+
+<!-- marginal: Lesen bagi -->
+
+16. (1) Bank, pada bila-bila masa selepas menerima
+
+<!-- marginal: penanggung -->
+
+permohonan untuk mendapatkan lesen untuk menjalankan
+
+<!-- marginal: insurans. -->
+
+perniagaan insurans, hendaklah membuat syor kepada Menteri sama ada lesen itu patut diberikan atau tidak dan syarat-syarat, jika ada, yang hendaklah dikenakan ke atas lesen itu.
 
 (2) Menteri, selepas menimbangkan—
 
@@ -890,9 +1242,17 @@ Penalti: Satu ratus ribu ringgit.
 
 <!-- page 28 -->
 
-Kehendak
+<!-- marginal: Kehendak -->
 
-20. Seseorang penanggung insurans berlesen tidaklah tentang boleh mengeluarkan, mengelilingkan atau mengedarkan prospektus. prospektusnya melainkan jika—
+20. Seseorang penanggung insurans berlesen tidaklah
+
+<!-- marginal: tentang -->
+
+boleh mengeluarkan, mengelilingkan atau mengedarkan
+
+<!-- marginal: prospektus. -->
+
+prospektusnya melainkan jika—
 
 (a) Bank telah meluluskan prospektus itu secara bertulis; atau
 
@@ -900,7 +1260,7 @@ Kehendak
 
 Penalti: Lima ratus ribu ringgit.
 
-Fee lesen.
+<!-- marginal: Fee lesen. -->
 
 21. (1) Seseorang pemegang lesen, apabila dilesenkan, hendaklah membayar kepada Bank suatu fee lesen sebanyak amaun, atau yang dikira pada kadar atau mengikut cara yang ditetapkan.
 
@@ -914,9 +1274,13 @@ sebanyak amaun, atau yang dikira pada kadar atau mengikut cara yang ditetapkan o
 
 Penalti: Lima ratus ribu ringgit. Penalti ingkar.
 
-Keanggotaan
+<!-- marginal: Keanggotaan -->
 
-22. (1) Tiada seorang pun pemegang lesen boleh persatuan. menjalankan perniagaan berlesennya melainkan jika dia adalah anggota persatuan—
+22. (1) Tiada seorang pun pemegang lesen boleh
+
+<!-- marginal: persatuan. -->
+
+menjalankan perniagaan berlesennya melainkan jika dia adalah anggota persatuan—
 
 (a) penanggung insurans hayat bagi perniagaan insurans hayat;
 
@@ -992,9 +1356,13 @@ dan perkataan "penanggung insurans berlesen", "broker insurans berlesen" atau "a
 
 Penalti: Lima ratus ribu ringgit.
 
-Mula
+<!-- marginal: Mula -->
 
-27. (1) Seseorang penanggung insurans berlesen berniaga hendaklah mula menjalankan perniagaan berlesennya tidak lebih daripada dua belas bulan selepas tarikh pengeluaran lesennya.
+27. (1) Seseorang penanggung insurans berlesen
+
+<!-- marginal: berniaga -->
+
+hendaklah mula menjalankan perniagaan berlesennya tidak lebih daripada dua belas bulan selepas tarikh pengeluaran lesennya.
 
 (2) Seseorang penanggung insurans berlesen hendaklah disifatkan telah menjalankan perniagaan berlesennya jika dia telah menubuhkan tempat utama perniagaannya dan mengeluarkan polisi berkenaan dengan perniagaan itu.
 
@@ -1002,15 +1370,33 @@ Mula
 
 (4) Jika seseorang penanggung insurans berlesen tidak memulakan perniagaan berlesennya setelah tamat tempoh yang dalam subseksyen (1), lesennya hendaklah disifatkan telah dibatalkan.
 
-Sekatan ke
+<!-- marginal: Sekatan ke -->
 
-28. Kecuali dengan kelulusan bertulis daripada Bank atas terlebih dahulu, seseorang pemegang lesen tidaklah boleh perniagaan. menjalankan apa-apa aktiviti di dalam atau di luar Malaysia melainkan yang berkaitan dengan atau bagi maksud perniagaan berlesennya.
+28. Kecuali dengan kelulusan bertulis daripada Bank
+
+<!-- marginal: atas -->
+
+terlebih dahulu, seseorang pemegang lesen tidaklah boleh
+
+<!-- marginal: perniagaan. -->
+
+menjalankan apa-apa aktiviti di dalam atau di luar Malaysia melainkan yang berkaitan dengan atau bagi maksud perniagaan berlesennya.
 
 Penalti: Pemenjaraan selama tiga tahun atau tiga juta ringgit atau kedua-duanya. Penalti ingkar.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-29. (1) Seseorang pemegang lesen tidaklah boleh kepada butir- membuat apa-apa pindaan kepada butir-butir pelesenannya, butir pelesenan. termasuk dokumen konstituennya, melainkan jika dia telah memberikan kepada Bank secara bertulis butir-butir pindaan yang dicadangkan itu dan memperolehi kelulusan secara bertulis daripada Bank terlebih dahulu.
+29. (1) Seseorang pemegang lesen tidaklah boleh
+
+<!-- marginal: kepada butir- -->
+
+membuat apa-apa pindaan kepada butir-butir pelesenannya,
+
+<!-- marginal: butir -->
+
+<!-- marginal: pelesenan. -->
+
+termasuk dokumen konstituennya, melainkan jika dia telah memberikan kepada Bank secara bertulis butir-butir pindaan yang dicadangkan itu dan memperolehi kelulusan secara bertulis daripada Bank terlebih dahulu.
 
 Penalti: Satu juta ringgit.
 
@@ -1118,15 +1504,33 @@ lesen seseorang penanggung insurans berlesen, dan Bank boleh membatalkan lesen s
 
 (9) Suatu pembatalan lesen hendaklah disiarkan dalam Warta dengan seberapa segera yang mungkin, tetapi apa- apa kelewatan dalam penyiaran atau kegagalan untuk menyiarkan sedemikian tidaklah dengan apa-apa cara menjejaskan kesahan pembatalan itu.
 
-Rayuan
+<!-- marginal: Rayuan -->
 
-32. (1) Seseorang penanggung insurans yang tak berpuas terhadap hati dengan pembatalan lesennya, dalam tempoh empat pembatalan lesen. belas hari dari tarikh notis bertulis mengenai keputusan Menteri di bawah subseksyen 31 (5) atau (6), boleh merayu terhadap keputusan itu kepada Mahkamah.
+32. (1) Seseorang penanggung insurans yang tak berpuas
+
+<!-- marginal: terhadap -->
+
+hati dengan pembatalan lesennya, dalam tempoh empat
+
+<!-- marginal: pembatalan -->
+
+<!-- marginal: lesen. -->
+
+belas hari dari tarikh notis bertulis mengenai keputusan Menteri di bawah subseksyen 31 (5) atau (6), boleh merayu terhadap keputusan itu kepada Mahkamah.
 
 (2) Seseorang broker insurans atau ajuster yang tak berpuashati dengan pembatalan lesennya, dalam tempoh empat belas hari dari tarikh notis bertulis mengenai keputusan Bank di bawah subseksyen 31 (5) atau (6), merayu terhadap keputusan itu kepada Menteri.
 
-Kesan
+<!-- marginal: Kesan -->
 
-33. (1) Jika pembatalan suatu lesen telah berkuatkuasa, pembatalan penanggung insurans, broker insurans atau ajuster itu, lesen. mengikut mana-mana yang berkenaan, hendaklah dengan serta-merta berhenti daripada menjalankan perniagaannya.
+33. (1) Jika pembatalan suatu lesen telah berkuatkuasa,
+
+<!-- marginal: pembatalan -->
+
+penanggung insurans, broker insurans atau ajuster itu,
+
+<!-- marginal: lesen. -->
+
+mengikut mana-mana yang berkenaan, hendaklah dengan serta-merta berhenti daripada menjalankan perniagaannya.
 
 Penalti: Penanggung insurans—Pemenjaraan selama sepuluh tahun atau sepuluh juta ringgit atau kedua-duanya. Penalti ingkar.
 
@@ -1226,9 +1630,19 @@ IV
 
 ## PEMEGANG SYER
 
-Penubuhan
+<!-- marginal: Penubuhan -->
 
-38. (1) Seseorang penanggung insurans hayat berlesen kumpulan hendaklah menubuhkan dan menyenggarakan suatu wang insurans. kumpulan wang insurans yang berasingan bagi polisi Malaysianya dan polisi asingnya.
+38. (1) Seseorang penanggung insurans hayat berlesen
+
+<!-- marginal: kumpulan -->
+
+hendaklah menubuhkan dan menyenggarakan suatu
+
+<!-- marginal: wang -->
+
+<!-- marginal: insurans. -->
+
+kumpulan wang insurans yang berasingan bagi polisi Malaysianya dan polisi asingnya.
 
 (2) Seseorang penanggung insurans am berlesen hendaklah menubuhkan dan menyenggarakan suatu kumpulan wang insurans yang berasingan bagi polisi Malaysianya dan polisi asingnya.
 
@@ -1310,9 +1724,21 @@ dengan polisi daripada suatu kelas yang kumpulan wang insurans itu berhubungan d
 
 Penalti: Pemenjaraan selama lima tahun atau lima juta ringgit atau kedua-duanya. Penalti ingkar.
 
-Penggunaan
+<!-- marginal: Penggunaan -->
 
-41. (1) Seseorang penanggung insurans berlesen kumpulan hendaklah menyenggarakan pada setiap masa, aset dalam wang kumpulan wang insuransnya yang nilainya adalah insurans. bersamaan dengan atau lebih tinggi daripada liabiliti kumpulan wang insurans itu.
+41. (1) Seseorang penanggung insurans berlesen
+
+<!-- marginal: kumpulan -->
+
+hendaklah menyenggarakan pada setiap masa, aset dalam
+
+<!-- marginal: wang -->
+
+kumpulan wang insuransnya yang nilainya adalah
+
+<!-- marginal: insurans. -->
+
+bersamaan dengan atau lebih tinggi daripada liabiliti kumpulan wang insurans itu.
 
 Penalti: Pemenjaraan selama lima tahun atau lima juta ringgit atau kedua-duanya. Penalti ingkar.
 
@@ -1320,7 +1746,21 @@ Penalti: Pemenjaraan selama lima tahun atau lima juta ringgit atau kedua-duanya.
 
 Penalti: Pemenjaraan selama lima tahun atau lima juta ringgit atau kedua-duanya. Penalti ingkar.
 
-42. (1). Seseorang penanggung insurans berlesen Aset kumpulan hendaklah menyimpan aset kumpulan wang insuransnya wang berasingan daripada asetnya yang lain. insurans. Penalti: Pemenjaraan selama lima tahun atau lima juta ringgit atau kedua-duanya. Penalti ingkar.
+42. (1). Seseorang penanggung insurans berlesen
+
+<!-- marginal: Aset -->
+
+<!-- marginal: kumpulan -->
+
+hendaklah menyimpan aset kumpulan wang insuransnya
+
+<!-- marginal: wang -->
+
+berasingan daripada asetnya yang lain.
+
+<!-- marginal: insurans. -->
+
+Penalti: Pemenjaraan selama lima tahun atau lima juta ringgit atau kedua-duanya. Penalti ingkar.
 
 (2) Seseorang penanggung insurans berlesen tidaklah boleh memasukkan mana-mana yang berikut sebagai aset kumpulan wang insurans:
 
@@ -1378,17 +1818,29 @@ tertakluk kepada had dan apa-apa kadar yang ditetapkan.
 
 <!-- page 40 -->
 
-Penilaian aset
+<!-- marginal: Penilaian aset -->
 
-44. Bank boleh menetapkan cara bagi— dan penentuan
+44. Bank boleh menetapkan cara bagi—
 
-(a) menilai aset kumpulan wang insurans dan aset liabiliti. lain seseorang penanggung insurans berlesen; dan
+<!-- marginal: dan -->
+
+<!-- marginal: penentuan -->
+
+(a) menilai aset kumpulan wang insurans dan aset
+
+<!-- marginal: liabiliti. -->
+
+lain seseorang penanggung insurans berlesen; dan
 
 (b) menentukan liabiliti kumpulan wang insurans dan liabiliti lain penanggung insurans berlesen.
 
-Pelaburan
+<!-- marginal: Pelaburan -->
 
-45. (1) Tertakluk kepada subseksyen (2), seseorang aset penanggung insurans berlesen hendaklah melaburkan asetnya mengikut apa-apa cara, dan menyenggarakan aset itu di mana-mana tempat, yang ditetapkan.
+45. (1) Tertakluk kepada subseksyen (2), seseorang
+
+<!-- marginal: aset -->
+
+penanggung insurans berlesen hendaklah melaburkan asetnya mengikut apa-apa cara, dan menyenggarakan aset itu di mana-mana tempat, yang ditetapkan.
 
 Penalti: Pemenjaraan selama tiga tahun atau tiga juta ringgit atau kedua-duanya. Penalti ingkar.
 
@@ -1400,9 +1852,13 @@ Penalti: Pemenjaraan selama tiga tahun atau tiga juta ringgit atau kedua-duanya.
 
 Penalti: Pemenjaraan selama tiga tahun atau tiga juta ringgit atau kedua-duanya. Penalti ingkar.
 
-Margin
+<!-- marginal: Margin -->
 
-46. (1) Seseorang penanggung insurans berlesen kesolvenan. hendaklah mengekalkan margin kesolvenan berkenaan dengan setiap kelas perniagaan insuransnya dalam apa- apa amaun, dan mengikut apa-apa cara, yang ditetapkan.
+46. (1) Seseorang penanggung insurans berlesen
+
+<!-- marginal: kesolvenan. -->
+
+hendaklah mengekalkan margin kesolvenan berkenaan dengan setiap kelas perniagaan insuransnya dalam apa- apa amaun, dan mengikut apa-apa cara, yang ditetapkan.
 
 Penalti: Pemenjaraan selama lima tahun atau lima juta ringgit atau kedua-duanya. Penalti ingkar.
 
@@ -1454,9 +1910,13 @@ Penalti : Satu juta ringgit. Penalti ingkar.
 
 (4) Seseorang penanggung insurans berlesen, atas permintaan seseorang yang mempunyai kepentingan dalam sesuatu polisi atau tuntutan insurans, hendaklah memberitahu orang itu sama ada atau tidak polisi atau tuntutan insurans itu dicatatkan dalam daftar itu.
 
-Dokumen
+<!-- marginal: Dokumen -->
 
-48. (1) Sesuatu aset seseorang penanggung insurans hakmilik. berlesen, termasuklah aset kumpulan wang insuransnya, hendaklah dipegang atas nama perbadanannya dan tiap- tiap dokumen yang membuktikan hakmiliknya atau haknya kepada sesuatu aset hendaklah atas nama perbadanannya.
+48. (1) Sesuatu aset seseorang penanggung insurans
+
+<!-- marginal: hakmilik. -->
+
+berlesen, termasuklah aset kumpulan wang insuransnya, hendaklah dipegang atas nama perbadanannya dan tiap- tiap dokumen yang membuktikan hakmiliknya atau haknya kepada sesuatu aset hendaklah atas nama perbadanannya.
 
 Penalti: Pemenjaraan selama tiga tahun atau tiga juta ringgit atau kedua-duanya, Penalti ingkar.
 
@@ -1514,13 +1974,27 @@ cagaran syernya sendiri;
 
 <!-- page 44 -->
 
-44
+<!-- marginal: 44 -->
 
 ## RANG UNDANG-UNDANG
 
-syarikat atau firma yang baginya mana-mana pengarahnya adalah seorang penjamin; (iii) kepada suatu syarikat yang dalamnya dia, atau mana-mana satu pengarahnya atau lebih, mempunyai kepentingan mengenai syer sebanyak dua puluh peratus atau lebih dalam penanggung insurans berlesen atau broker insurans berlesen itu, mengikut mana-mana yang berkenaan; (iv) kepada suatu syarikat yang mempunyai kepentingan mengenai sy er sebany ak dua puluh peratus atau lebih dalam penanggung insurans berlesen atau broker insurans berlesen itu, mengikut mana-mana yang berkenaan; dan (v) kepada suatu syarikat yang dalamnya syarikat dalam subperenggan (iv) mempunyai kepentinganmengenaisyersebanyakduapuluh peratus atau lebih;
+syarikat atau firma yang baginya mana-mana pengarahnya adalah seorang penjamin;
 
-(c) kecuali dalam hal keadaan khas dan pada setakat yang diluluskan oleh Bank— (i) memberikan kepada seseorang, selain daripada pekerjanya, suatu kemudahan kredit yang tak bercagar; (ii) bertindak sebagai penjamin bagi suatu kemudahan kredit yang diberikan kepada mana-mana orang; (iii) membuat apa-apa transaksi jika suatu keuntungan material boleh terakru kepada mana-mana pengarahnya atau suatu syarikat yang dalamnya mana-mana pengarahnya mempunyai kepentingan mengenai syer sebanyak dua puluh peratus atau lebih; atau (iv) membuat perkiraan dengan mana-mana orang untuk membuat mana-mana tindakan dalam subperenggan (i), (ii) atau (iii).
+(iii) kepada suatu syarikat yang dalamnya dia, atau mana-mana satu pengarahnya atau lebih, mempunyai kepentingan mengenai syer sebanyak dua puluh peratus atau lebih dalam penanggung insurans berlesen atau broker insurans berlesen itu, mengikut mana-mana yang berkenaan;
+
+(iv) kepada suatu syarikat yang mempunyai kepentingan mengenai sy er sebany ak dua puluh peratus atau lebih dalam penanggung insurans berlesen atau broker insurans berlesen itu, mengikut mana-mana yang berkenaan; dan
+
+(v) kepada suatu syarikat yang dalamnya syarikat dalam subperenggan (iv) mempunyai kepentinganmengenaisyersebanyakduapuluh peratus atau lebih;
+
+(c) kecuali dalam hal keadaan khas dan pada setakat yang diluluskan oleh Bank—
+
+(i) memberikan kepada seseorang, selain daripada pekerjanya, suatu kemudahan kredit yang tak bercagar;
+
+(ii) bertindak sebagai penjamin bagi suatu kemudahan kredit yang diberikan kepada mana-mana orang;
+
+(iii) membuat apa-apa transaksi jika suatu keuntungan material boleh terakru kepada mana-mana pengarahnya atau suatu syarikat yang dalamnya mana-mana pengarahnya mempunyai kepentingan mengenai syer sebanyak dua puluh peratus atau lebih; atau
+
+(iv) membuat perkiraan dengan mana-mana orang untuk membuat mana-mana tindakan dalam subperenggan (i), (ii) atau (iii).
 
 Penalti: Pemenjaraan selama lima tahun atau lima juta ringgit atau kedua-duanya. Penalti ingkar.
 
@@ -1564,7 +2038,15 @@ kepada seseorang penanggung insurans berlesen atau broker insurans berlesen hend
 
 <!-- page 46 -->
 
-52. Bank, berhubungan dengan seseorang penanggung Sekatan atau larangan ke insurans berlesen atau broker insurans berlesen, boleh atas cagaran.
+52. Bank, berhubungan dengan seseorang penanggung
+
+<!-- marginal: Sekatan atau -->
+
+<!-- marginal: larangan ke -->
+
+insurans berlesen atau broker insurans berlesen, boleh
+
+<!-- marginal: atas cagaran. -->
 
 ### menetapkan—
 
@@ -1572,11 +2054,31 @@ kepada seseorang penanggung insurans berlesen atau broker insurans berlesen hend
 
 (b) supaya sesuatu harta tertentu, atau sesuatu kelas harta, dilarang daripada diadakan sebagai cagaran.
 
-Sekatan ke
+<!-- marginal: Sekatan ke -->
 
-53. Tiada seorang pun penanggung insurans berlesen atas aset. atau broker insurans berlesen, kecuali dengan kelulusan bertulis Bank terlebih dahulu, boleh menyandarkan atau menggadaikan mana-mana aset atau cagarannya. Penalti: Pemenjaraan selama tiga tahun atau tiga juta ringgit atau kedua-duanya. Penalti ingkar. Pendedahan
+53. Tiada seorang pun penanggung insurans berlesen
 
-54. (1) Seorang pengarah, atau ketua pegawai eksekutif, kepentingan seseorang penanggung insurans berlesen, atau seseorang dalam kemudahan broker insurans berlesen, atau pengurusnya yang kredit. bertanggungjawab bagi memproses sesuatu kemudahan kredit, yang mempunyai kepentingan, secara langsung atau tak langsung, dalam sesuatu kemudahan kredit daripada penanggung insurans berlesen atau broker insurans berlesen itu, sebelum keputusan dibuat mengenai kemudahan kredit itu, hendaklah membuat suatu pengisytiharan kepada penanggung insurans berlesen atau broker insurans berlesen itu, mengikut mana-mana yang berkenaan, secara bertulis tentang jenis dan takat kepentingannya mengenai peminjam atau kemudahan kredit itu, Penalti: Pemenjaraan selama tiga tahun atau tiga juta ringgit atau kedua-duanya. Penalti ingkar. (2) Bagi maksud subseksyen (1), suatu notis seseorang kepada lembaga pengarah seseorang penanggung insurans berlesen atau broker insurans berlesen itu, mengikut mana-mana yang berkenaan, yang memberikan maksud bahawa dia mempunyai kepentingan dalam sesuatu kemudahan kredit yang, selepas tarikh notis itu, boleh diberikan kepada peminjam itu hendaklah disifatkan sebagai pengisytiharan kepentingan yang mencukupi berhubungan dengan kemudahan kredit yang telah diberikan sedemikian jika—
+<!-- marginal: atas aset. -->
+
+atau broker insurans berlesen, kecuali dengan kelulusan bertulis Bank terlebih dahulu, boleh menyandarkan atau menggadaikan mana-mana aset atau cagarannya. Penalti: Pemenjaraan selama tiga tahun atau tiga juta ringgit atau kedua-duanya. Penalti ingkar.
+
+<!-- marginal: Pendedahan -->
+
+54. (1) Seorang pengarah, atau ketua pegawai eksekutif,
+
+<!-- marginal: kepentingan -->
+
+seseorang penanggung insurans berlesen, atau seseorang
+
+<!-- marginal: dalam -->
+
+<!-- marginal: kemudahan -->
+
+broker insurans berlesen, atau pengurusnya yang
+
+<!-- marginal: kredit. -->
+
+bertanggungjawab bagi memproses sesuatu kemudahan kredit, yang mempunyai kepentingan, secara langsung atau tak langsung, dalam sesuatu kemudahan kredit daripada penanggung insurans berlesen atau broker insurans berlesen itu, sebelum keputusan dibuat mengenai kemudahan kredit itu, hendaklah membuat suatu pengisytiharan kepada penanggung insurans berlesen atau broker insurans berlesen itu, mengikut mana-mana yang berkenaan, secara bertulis tentang jenis dan takat kepentingannya mengenai peminjam atau kemudahan kredit itu, Penalti: Pemenjaraan selama tiga tahun atau tiga juta ringgit atau kedua-duanya. Penalti ingkar. (2) Bagi maksud subseksyen (1), suatu notis seseorang kepada lembaga pengarah seseorang penanggung insurans berlesen atau broker insurans berlesen itu, mengikut mana-mana yang berkenaan, yang memberikan maksud bahawa dia mempunyai kepentingan dalam sesuatu kemudahan kredit yang, selepas tarikh notis itu, boleh diberikan kepada peminjam itu hendaklah disifatkan sebagai pengisytiharan kepentingan yang mencukupi berhubungan dengan kemudahan kredit yang telah diberikan sedemikian jika—
 
 (a) dia menentukan jenis dan takat kepentingannya mengenai peminjam itu; dan
 
@@ -1660,9 +2162,23 @@ Penalti: Pemenjaraan selama tiga tahun atau tiga juta ringgit atau kedua-duanya.
 
 ## INSURANS YANG INGKAR
 
-Pemberitahuan
+<!-- marginal: Pemberitahuan -->
 
-58. (1) Jika aset sedia ada seseorang penanggung insurans terhadap berlesen hanya memadai atau kurang memadai untuk ketakpatuhan margin menampung margin kesolvenannya, lembaga pengarahnya, kesolvenan. hendaklah dalam tempoh sembilan puluh hari selepas menyedari keadaan itu—
+58. (1) Jika aset sedia ada seseorang penanggung insurans
+
+<!-- marginal: terhadap -->
+
+berlesen hanya memadai atau kurang memadai untuk
+
+<!-- marginal: ketakpatuhan -->
+
+<!-- marginal: margin -->
+
+menampung margin kesolvenannya, lembaga pengarahnya,
+
+<!-- marginal: kesolvenan. -->
+
+hendaklah dalam tempoh sembilan puluh hari selepas menyedari keadaan itu—
 
 (a) memberitahu Bank mengenai hakikat itu; dan
 
@@ -1750,17 +2266,57 @@ dan memperuntukkan dalam perintah itu supaya pekerja atau pengarah yang dilantik
 
 (7) Suatu perintah, berikutan dengan representasi yang dibuat di bawah subseksyen (5) atau (6), boleh disahkan, dipinda atau dibatalkan.
 
-Peruntuban
+<!-- marginal: Peruntuban -->
 
-60. (1) Seseorang yang dilantik oleh Bank di bawah berhubungan perenggan 59(3)(a) atau (b) atauperenggan 59(4)(a) hendaklah dengan perlantikan di dilantik bagi apa-apa tempoh yang ditentukan oleh Bank, dan bawah perlantikan itu, apabila tamat tempoh permulaan itu, boleh subseksyen dilanjutkan bagi apa-apa tempoh selanjutnya sebagaimana 59t3) atau
+60. (1) Seseorang yang dilantik oleh Bank di bawah
+
+<!-- marginal: berhubungan -->
+
+perenggan 59(3)(a) atau (b) atauperenggan 59(4)(a) hendaklah
+
+<!-- marginal: dengan -->
+
+<!-- marginal: perlantikan di -->
+
+dilantik bagi apa-apa tempoh yang ditentukan oleh Bank, dan
+
+<!-- marginal: bawah -->
+
+perlantikan itu, apabila tamat tempoh permulaan itu, boleh
+
+<!-- marginal: subseksyen -->
+
+dilanjutkan bagi apa-apa tempoh selanjutnya sebagaimana
+
+<!-- marginal: 59t3) atau -->
 
 (4). yang ditentukan oleh Bank.
 
 (2) Walau apa pun subseksyen (1), Bank boleh membatalkan perlantikan orang itu pada bila-bila masa tanpa memberikan apa-apa sebab.
 
-Peruntukan
+<!-- marginal: Peruntukan -->
 
-61. (1) Seseorang pekerja atau pengarah yang dipecat berhubungan daripada pekerjaan atau jawatannya dengan penanggung dengan pemecatan di insurans berlesen di bawah perenggan 59(3)(a) atau seseorang bawah yang kontraknya ditamatkan di bawah perenggan 59(3)(c) perenggan hendaklah berhenti memegang jawatan yang daripadanya dia 59(3)(a) atau
+61. (1) Seseorang pekerja atau pengarah yang dipecat
+
+<!-- marginal: berhubungan -->
+
+daripada pekerjaan atau jawatannya dengan penanggung
+
+<!-- marginal: dengan -->
+
+<!-- marginal: pemecatan di -->
+
+insurans berlesen di bawah perenggan 59(3)(a) atau seseorang
+
+<!-- marginal: bawah -->
+
+yang kontraknya ditamatkan di bawah perenggan 59(3)(c)
+
+<!-- marginal: perenggan -->
+
+hendaklah berhenti memegang jawatan yang daripadanya dia
+
+<!-- marginal: 59(3)(a) atau -->
 
 (c). dipecat atau hendaklah berhenti daripada melaksanakan obligasinya di bawah kontrak itu berkuatkuasa dari tarikh yang dinyatakan dalam perintah itu dan hendaklah berhenti daripada terlibat dalam perniagaan atau hal-eh wal penanggung insurans berlesen itu.
 
@@ -1822,19 +2378,53 @@ Penalti: Pemenjaraan selama lima tahun atau lima juta ringgit atau kedua-duanya.
 
 ## RANG UNDANG-UNDANG
 
-Kesan
+<!-- marginal: Kesan -->
 
-63. Suatu perintah di bawah subseksyen 59(4)— perintah di bawah
+63. Suatu perintah di bawah subseksyen 59(4)—
 
-(a) tidaklah mempunyai kesan memberikan kepada, subseksyen atau meletakhakkan kepada, Bank, atau orang yang 59(4). dilantik, apa-apa hakmilik kepada, atau apa-apa kepentingan benefisial mengenai, apa-apa harta penanggung insurans berlesen yang berhubungan dengan perintah itu;
+<!-- marginal: perintah di -->
+
+<!-- marginal: bawah -->
+
+(a) tidaklah mempunyai kesan memberikan kepada,
+
+<!-- marginal: subseksyen -->
+
+atau meletakhakkan kepada, Bank, atau orang yang
+
+<!-- marginal: 59(4). -->
+
+dilantik, apa-apa hakmilik kepada, atau apa-apa kepentingan benefisial mengenai, apa-apa harta penanggung insurans berlesen yang berhubungan dengan perintah itu;
 
 (b) tidaklah memberi kesan menyebabkan Bank, atau orang yang dilantik, bertanggungan bagi apa-apa obligasi atau liabiliti penanggung insurans berlesen itu, sama ada dilakukan sebelum atau selepas perintah itu berkuatkuasa; dan
 
-(c) hendaklah memberi kesan menyebabkan semua peruntukan Akta Syarikat 1965, atau mana-mana Akta 125. undang-undang bertulis yang lain, yang tak konsisten dengan apa-apa jua yang terkandung dalam Bahagianini,termasuklahperuntukanberhubungan dengan mesyuarat tahunan, dan mesyuarat luar biasa anggota penanggung insurans tidak terpakai bagi penanggung insurans berlesen itu.
+(c) hendaklah memberi kesan menyebabkan semua peruntukan Akta Syarikat 1965, atau mana-mana
 
-Kuasa untuk
+<!-- marginal: Akta 125. -->
 
-64. (1) Walau apa pun perenggan 64(1)(b) Akta Syarikat mengkensel 1965, Bank boleh memohon kepada Mahkamah untuk atau mengeluarkan mendapatkan perintah untuk mengkensel apa-apa modal syer modal berbayar seseorang penanggung insurans berlesen yang telah tambahan. kerugian atau tidak digambarkan oleh aset sedia ada.
+undang-undang bertulis yang lain, yang tak konsisten dengan apa-apa jua yang terkandung dalam Bahagianini,termasuklahperuntukanberhubungan dengan mesyuarat tahunan, dan mesyuarat luar biasa anggota penanggung insurans tidak terpakai bagi penanggung insurans berlesen itu.
+
+<!-- marginal: Kuasa untuk -->
+
+64. (1) Walau apa pun perenggan 64(1)(b) Akta Syarikat
+
+<!-- marginal: mengkensel -->
+
+1965, Bank boleh memohon kepada Mahkamah untuk
+
+<!-- marginal: atau -->
+
+<!-- marginal: mengeluarkan -->
+
+mendapatkan perintah untuk mengkensel apa-apa modal syer
+
+<!-- marginal: modal -->
+
+berbayar seseorang penanggung insurans berlesen yang telah
+
+<!-- marginal: tambahan. -->
+
+kerugian atau tidak digambarkan oleh aset sedia ada.
 
 (2) Bank, dalam permohonan itu, boleh memohon kepada Mahkamah untuk memulihkan modal syer penanggung insurans berlesen itu kepada amaun yang asal atau untuk menambahkan modal syer kepada amaun yang lebih banyak sebagaimana yang diminta oleh Bank, selepas mengambil kira takat kesolvenan penanggung insurans berlesen itu, dengan menghendaki penanggung insurans berlesen membuat suatu panggilan kepada anggotanya supaya melanggan modal syer tambahan itu.
 
@@ -1882,9 +2472,27 @@ Penalti: Pemenjaraan selama lima tahun atau lima juta ringgit atau kedua-duanya.
 
 ## PENGURUSAN PEMEGANG LESEN
 
-Pendedahan
+<!-- marginal: Pendedahan -->
 
-66. (1) Seseorang pemegang lesen yang diperbadankan di kepentingan Malaysia, melalui notis secara bertulis boleh menghendaki benefisial mana-mana anggotanya memberitahunya dalam apa-apa masa mengenai syer yang munasabah sebagaimana yang dinyatakan dalam notis mengundi. itu—
+66. (1) Seseorang pemegang lesen yang diperbadankan di
+
+<!-- marginal: kepentingan -->
+
+Malaysia, melalui notis secara bertulis boleh menghendaki
+
+<!-- marginal: benefisial -->
+
+mana-mana anggotanya memberitahunya dalam apa-apa masa
+
+<!-- marginal: mengenai -->
+
+<!-- marginal: syer -->
+
+yang munasabah sebagaimana yang dinyatakan dalam notis
+
+<!-- marginal: mengundi. -->
+
+itu—
 
 (a) sama ada dia memegang syer mengundi mengenai pemegang lesen itu sebagai pemunya benefisial atau sebagai pemegang amanah; dan
 
@@ -1926,13 +2534,39 @@ Penalti; Satu juta ringgit. Penalti ingkar.
 
 (5) Seorang tidaklah bersalah bagi suatu kesalahan di bawah perenggan (4)(a) jika dia membuktikan bahawa maklumat yang berkenaan itu telah sedia ada dalam milik pemegang lesen itu atau bahawa kehendak memberikannya adalah bagi apa-apa sebab lain yang remeh atau menyusahkan.
 
-Pemerolehan
+<!-- marginal: Pemerolehan -->
 
-67. (1) Tiada seorang pun boleh membuat perjanjian atau atau perkiraan untuk memperolehi atau melupuskan apa- pelupusan agregat apa kepentingan mengenai syer seseorang pemegang kepentingan lesen yang diperbadankan di Malaysia atau pengawalnya syer sebanyak yang menurutnya, jika perjanjian atau perkiraan itu lima peratus. dijalankan, dia akan, sama ada berseorangan atau dengan mana-mana sekutu, memperolehi atau melupuskan kepada seseorang, sama ada berseorangan atau dengan mana- mana sekutu, berserta dengan apa-apa kepentingan mengenai syer pemegang lesen itu atau pengawalnya yang sedia dipegang olehnya atau terdahulu dilupuskan olehnya, mengikut mana-mana yang berkenaan, suatu agregat kepentingan mengenai syer yang melebihi lima peratus daripada syer pemegang lesen itu atau pengawalnya tanpa terlebih dahulu mendapat kelulusan bertulis daripada Menteri, dalam hal seseorang penanggung insurans berlesen, dan Bank, dalam hal seseorang broker insurans berlesen atau ajuster berlesen.
+67. (1) Tiada seorang pun boleh membuat perjanjian
+
+<!-- marginal: atau -->
+
+atau perkiraan untuk memperolehi atau melupuskan apa-
+
+<!-- marginal: pelupusan -->
+
+<!-- marginal: agregat -->
+
+apa kepentingan mengenai syer seseorang pemegang
+
+<!-- marginal: kepentingan -->
+
+lesen yang diperbadankan di Malaysia atau pengawalnya
+
+<!-- marginal: syer -->
+
+<!-- marginal: sebanyak -->
+
+yang menurutnya, jika perjanjian atau perkiraan itu
+
+<!-- marginal: lima peratus. -->
+
+dijalankan, dia akan, sama ada berseorangan atau dengan mana-mana sekutu, memperolehi atau melupuskan kepada seseorang, sama ada berseorangan atau dengan mana- mana sekutu, berserta dengan apa-apa kepentingan mengenai syer pemegang lesen itu atau pengawalnya yang sedia dipegang olehnya atau terdahulu dilupuskan olehnya, mengikut mana-mana yang berkenaan, suatu agregat kepentingan mengenai syer yang melebihi lima peratus daripada syer pemegang lesen itu atau pengawalnya tanpa terlebih dahulu mendapat kelulusan bertulis daripada Menteri, dalam hal seseorang penanggung insurans berlesen, dan Bank, dalam hal seseorang broker insurans berlesen atau ajuster berlesen.
 
 (2) Tiada seorang pun yang telah mendapat kelulusan di bawah subseksyen (1), atau yang memegang lebih daripada lima peratus syer mengenai seseorang pemegang lesen atau pengawalnya, boleh membuat suatu perjanjian atau perkiraan kemudiannya untuk memperolehi atau melupuskan apa-apa kepentingan mengenai syer pemegang lesen itu atau pengawalnya tanpa terlebih dahulu mendapat kelulusan bertulis daripada Menteri atau Bank, mengikut mana-mana yang berkenaan.
 
-(3) Orang yang bercadang hendak memperolehi atau melupuskan apa-apa kepentingan mengenai syer seseorang pemegang lesen atau pengawalnya di bawah subseksyen (1) atau (2) hendaklah mengemukakan permohonannya kepada Bank, dan selepas itu Bank hendaklah—
+(3) Orang yang bercadang hendak memperolehi atau melupuskan apa-apa kepentingan mengenai syer seseorang pemegang lesen atau pengawalnya di bawah subseksyen
+
+(1) atau (2) hendaklah mengemukakan permohonannya kepada Bank, dan selepas itu Bank hendaklah—
 
 (a) dalam hal seseorang penanggung insurans berlesen atau pengawalnya, mengemukakan permohonan itu, berserta dengan syornya kepada
 
@@ -2074,9 +2708,19 @@ Penalti: Pemenjaraan selama tiga tahun atau tiga juta ringgit atau kedua-duanya.
 
 (3) Bank boleh menentukan butir-butir dan maklumat yang dikehendaki dikemukakan oleh pemegang lesen, atau pengawal seorang pemegang lesen, berhubungan dengan orang yang baginya kelulusan bertulis Bank diminta di bawah subseksyen (1).
 
-Kehilangan
+<!-- marginal: Kehilangan -->
 
-71. (1) Tiada seorang pun pemegang lesen, dan tiada kelayakan seorang pun pengawal pemegang lesen boleh melantik pengarah atau pekerja. seseorang dan tiada seorang pun boleh menerima perlantikan sebagai pengarah, ketua pegawai eksekutif, pengurus, setiausaha atau pekerja lain yang terlibat dalam pengurusannya atau pengurusan pejabatnya—
+71. (1) Tiada seorang pun pemegang lesen, dan tiada
+
+<!-- marginal: kelayakan -->
+
+seorang pun pengawal pemegang lesen boleh melantik
+
+<!-- marginal: pengarah -->
+
+<!-- marginal: atau pekerja. -->
+
+seseorang dan tiada seorang pun boleh menerima perlantikan sebagai pengarah, ketua pegawai eksekutif, pengurus, setiausaha atau pekerja lain yang terlibat dalam pengurusannya atau pengurusan pejabatnya—
 
 (a) jika orang itu telah dihukum bankrap, atau telah menggantungkan pembayaran, atau telah mengkompaunkan pembayaran
 
@@ -2122,7 +2766,11 @@ Penalti: Tiga juta ringgit. Penalti ingkar.
 
 (4) Bagi maksud subseksyen (3), prosiding jenayah hendaklah disifatkan belum selesai dari tarikh orang tertuduh mula dipertuduh di dalam mahkamah bagi kesalahan itu sehinggalah tarikh keputusan muktamad prosiding itu, sama ada di dalam mahkamah berbidang kuasa asal atau, sekiranya ada rayuan oleh mana-mana pihak, di dalam mahkamah berbidang kuasa rayuan yang akhir.
 
-(5) Dalam seksyen ini, "institusi berlesen" mempunyai Akta 372. pengertian sebagaimana yang terdapat dalam Akta Bank dan Institusi-Institusi Kewangan 1989.
+(5) Dalam seksyen ini, "institusi berlesen" mempunyai
+
+<!-- marginal: Akta 372. -->
+
+pengertian sebagaimana yang terdapat dalam Akta Bank dan Institusi-Institusi Kewangan 1989.
 
 <!-- page 65 -->
 
@@ -2190,9 +2838,17 @@ Penalti: Satu juta ringgit. Penalti ingkar,
 
 (3) Jika Bank memikirkan wajar bahawa seorang lagi juruaudit patut bertindak bersama-sama dengan juruaudit yang dilantik di bawah subseksyen (1) atau (2), ia boleh melantik seorang lagi juruaudit, yang saraan dan perbelanjaannya, sebagaimana yang ditentukan oleh Bank, hendaklah dibayar oleh pemegang lesen itu.
 
-Kehilangan
+<!-- marginal: Kehilangan -->
 
-75. (1) Tiada seorang pun pemegang lesen boleh dengan kelayakan disedarinya melantik sebagai juruauditnya seseorang, juruaudit. dan tiada seorang pun boleh dengan disedarinya menyetujui untuk dilantik sebagai juruaudit seseorang pemegang lesen oleh pemegang lesen itu atau oleh Bank, jika orang itu—
+75. (1) Tiada seorang pun pemegang lesen boleh dengan
+
+<!-- marginal: kelayakan -->
+
+disedarinya melantik sebagai juruauditnya seseorang,
+
+<!-- marginal: juruaudit. -->
+
+dan tiada seorang pun boleh dengan disedarinya menyetujui untuk dilantik sebagai juruaudit seseorang pemegang lesen oleh pemegang lesen itu atau oleh Bank, jika orang itu—
 
 (a) bukan seorang juruaudit syarikat yang diluluskan;
 
@@ -2206,7 +2862,11 @@ Kehilangan
 
 (f) adalah bertanggungjawab, atau ialah pekongsi, majikan, atau pekerja orang yang bertanggung- jawab, bagi menyimpan daftar anggota atau daftar pemegang debentur pemegang lesen itu; atau
 
-(g) telah disabitkan atas suatu kesalahan di bawah Akta 125 Akta ini atau Akta Syarikat 1965, atau suatu kesalahan yang melibatkan fraud atau kecurangan di bawah mana-mana undang-undang bertulis yang lain.
+(g) telah disabitkan atas suatu kesalahan di bawah
+
+<!-- marginal: Akta 125 -->
+
+Akta ini atau Akta Syarikat 1965, atau suatu kesalahan yang melibatkan fraud atau kecurangan di bawah mana-mana undang-undang bertulis yang lain.
 
 Penalti: Pemenjaraan selama satu tahun atau satu juta ringgit atau kedua-duanya. Penalti ingkar.
 
@@ -2264,19 +2924,49 @@ secara bertulis untuk bertindak sebagai juruaudit, dan persetujuan dalam hal sua
 
 <!-- page 68 -->
 
-Perlantikan
+<!-- marginal: Perlantikan -->
 
-78. Perlantikan sesuatu firma atas nama firma itu sebagai f irma audit. juruaudit hendaklah mempunyai kesan dan berkuatkuasa sebagai suatu perlantikan orang yang merupakan anggota firma itu pada masa perlantikan itu.
+78. Perlantikan sesuatu firma atas nama firma itu sebagai
 
-Juruaudit tidak
+<!-- marginal: f irma audit. -->
 
-79. Bagi maksud Bahagian ini, seseorang tidaklah boleh disifatkan disifatkan sebagai seorang pekerja pemegang lesen atau sebagai pekerja perbadanan berkaitannya hanya disebabkan dia telah petnegang dilantik sebagai seorang juruaudit pemegang lesen itu lesen. atau perbadanan berkaitannya.
+juruaudit hendaklah mempunyai kesan dan berkuatkuasa sebagai suatu perlantikan orang yang merupakan anggota firma itu pada masa perlantikan itu.
 
-Laporan
+<!-- marginal: Juruaudit tidak -->
 
-80. Seorang juruaudit seorang pemegang lesen hendaklah juruaudit. mengemukakan suatu laporan audit kepada anggota pemegang lesen itu dan laporan itu—
+79. Bagi maksud Bahagian ini, seseorang tidaklah boleh
 
-(a) dalam hal pemegang lesen yang merupakan suatu syarikat, hendaklah dibuat mengikut seksyen Akta 125 174 Akta Syarikat 1965; dan
+<!-- marginal: disifatkan -->
+
+disifatkan sebagai seorang pekerja pemegang lesen atau
+
+<!-- marginal: sebagai -->
+
+<!-- marginal: pekerja -->
+
+perbadanan berkaitannya hanya disebabkan dia telah
+
+<!-- marginal: petnegang -->
+
+dilantik sebagai seorang juruaudit pemegang lesen itu
+
+<!-- marginal: lesen. -->
+
+atau perbadanan berkaitannya.
+
+<!-- marginal: Laporan -->
+
+80. Seorang juruaudit seorang pemegang lesen hendaklah
+
+<!-- marginal: juruaudit. -->
+
+mengemukakan suatu laporan audit kepada anggota pemegang lesen itu dan laporan itu—
+
+(a) dalam hal pemegang lesen yang merupakan suatu syarikat, hendaklah dibuat mengikut seksyen
+
+<!-- marginal: Akta 125 -->
+
+174 Akta Syarikat 1965; dan
 
 (b) dalam hal pemegang lesen, selain daripada suatu syarikat, hendaklah memperakukan sama ada atau tidak pada pendapatnya— (i) segala maklumat dan penerangan yang perlu bagi maksud audit itu telah diperolehi;
 
@@ -2344,9 +3034,23 @@ Penalti: Satu juta ringgit.
 
 ## RANG UNDANG-UNDANG
 
-Perlantikan
+<!-- marginal: Perlantikan -->
 
-83. (1) Seseorang penanggung insurans hayat berlesen aktuari oleh hendaklah melantik, bagi setiap tahun kewangan sebelum penanggung tarikh yang ditentukan oleh Bank, seorang aktuari yang insurans hayat diluluskan oleh Bank.
+83. (1) Seseorang penanggung insurans hayat berlesen
+
+<!-- marginal: aktuari oleh -->
+
+hendaklah melantik, bagi setiap tahun kewangan sebelum
+
+<!-- marginal: penanggung -->
+
+tarikh yang ditentukan oleh Bank, seorang aktuari yang
+
+<!-- marginal: insurans -->
+
+<!-- marginal: hayat -->
+
+diluluskan oleh Bank.
 
 Penalti: Tiga juta ringgit.
 
@@ -2362,9 +3066,17 @@ Penalti: Tiga juta ringgit. Penalti ingkar.
 
 (4) Aktuari yang dilantik, dalam menunaikan fungsinya, hendaklah bertindak secara profesional dan mematuhi garis panduan atau kod amalan Bank.
 
-Pemberhentian
+<!-- marginal: Pemberhentian -->
 
-84. (1) Seorang aktuari yang dilantik hendaklah berhenti menjadi aktuari daripada menjadi aktuari yang dilantik bagi seseorang yang dilantik. penanggung insurans hayat berlesen jika—
+84. (1) Seorang aktuari yang dilantik hendaklah berhenti
+
+<!-- marginal: menjadi aktuari -->
+
+daripada menjadi aktuari yang dilantik bagi seseorang
+
+<!-- marginal: yang dilantik. -->
+
+penanggung insurans hayat berlesen jika—
 
 (a) dia tidak lagi layak untuk dilantik sebagai seorang aktuari yang dilantik; atau
 
@@ -2420,9 +3132,19 @@ dalam tempoh sembilan puluh hari dari akhir tahun kewangannya atau apa-apa tempo
 
 Penalti: Satu juta ringgit. Penalti ingkar.
 
-Maklumat
+<!-- marginal: Maklumat -->
 
-86. Seorang pemegang lesen, dan seorang pengarah, kepada pengawal atau pekerja seseorang pemegang lesen— juruaudit dan aktuari yang dilantik.
+86. Seorang pemegang lesen, dan seorang pengarah,
+
+<!-- marginal: kepada -->
+
+pengawal atau pekerja seseorang pemegang lesen—
+
+<!-- marginal: juruaudit dan -->
+
+<!-- marginal: aktuari yang -->
+
+<!-- marginal: dilantik. -->
 
 (a) hendaklah memberikan kepada juruauditnya, atau aktuari yang dilantiknya, maklumat yang berada dalam pengetahuannya yang dikehendaki oleh juruaudit atau aktuari yang dilantik itu; dan
 
@@ -2430,9 +3152,13 @@ Maklumat
 
 Penalti: Pemenjaraan selama tiga tahun atau tiga juta ringgit atau kedua-duanya. Penalti ingkar.
 
-Akaun
+<!-- marginal: Akaun -->
 
-87. (1) Dalam tempoh sembilan puluh hari selepas tahunan. penutupan setiap tahun kewangan pemegang lesen, atau apa-apa tempoh lanjut yang diluluskan oleh Bank, pemegang lesen hendaklah mengemukakan kepada Bank, berkenaan dengan keseluruhan operasinya, tiga salinan setiap satu yang berikut:
+87. (1) Dalam tempoh sembilan puluh hari selepas
+
+<!-- marginal: tahunan. -->
+
+penutupan setiap tahun kewangan pemegang lesen, atau apa-apa tempoh lanjut yang diluluskan oleh Bank, pemegang lesen hendaklah mengemukakan kepada Bank, berkenaan dengan keseluruhan operasinya, tiga salinan setiap satu yang berikut:
 
 (a) dalam hal seseorang penanggung
 
@@ -2514,9 +3240,13 @@ Penalti: Satu juta ringgit. Penalti ingkar.
 
 (4) Bank boleh menghendaki penanggung insurans semula profesional asing berlesen untuk mengemukakan kepadanya suatu laporan mengenai polisi asing pejabatnya di Malaysia, dalam apa-apa bentuk, dan pada apa-apa lat- tempoh, sebagaimana yang ditentukannya.
 
-Penyata suku
+<!-- marginal: Penyata suku -->
 
-89. Seseorang penanggung insurans berlesen hendaklah tahunan. mengemukakan kepada Bank berkenaan dengan operasinya bagi setiap suku tahun kalendar dua salinan setiap satu yang berikut:
+89. Seseorang penanggung insurans berlesen hendaklah
+
+<!-- marginal: tahunan. -->
+
+mengemukakan kepada Bank berkenaan dengan operasinya bagi setiap suku tahun kalendar dua salinan setiap satu yang berikut:
 
 (a) suatu penyata pendapatan berserta dengan penyata yang menyokongnya;
 
@@ -2596,11 +3326,7 @@ Penalti: Satu juta ringgit.
 
 (a) menolak dokumen yang dikemukakan di bawah seksyen 85, 87 atau 89; atau
 
-(b) mengarahkan pemegang lesen
-
-<!-- marginal: itu supaya -->
-
-mengubahkan dokumen atau kesemua dokumen berkaitan yang lain dalam apa-apa masa yang ditentukan dalam arahan itu.
+(b) mengarahkan pemegang lesen itu supaya mengubahkan dokumen atau kesemua dokumen berkaitan yang lain dalam apa-apa masa yang ditentukan dalam arahan itu.
 
 (4) Jika suatu arahan diberikan oleh Bank di bawah subseksyen (3), dokumen yang dengannya ia berhubungan hendaklah disifatkan tidak diserahsimpan sehinggalah ia dikemukakan semula dengan perubahan yang dikehendaki oleh arahan itu.
 
@@ -2682,7 +3408,7 @@ Penalti: Satu juta ringgit. Penalti ingkar.
 
 (2) Bagi maksud subseksyen (1), sebutan mengenai pembentangan akaun pada mesyuarat agung, dalam hal seseorang penanggung insurans asing adalah sebutan mengenai pengesahan Bank mengenai pematuhannya dengan seksyen 87.
 
-Pemeriksaan.
+<!-- marginal: Pemeriksaan. -->
 
 96. (1) Seseorang penanggung insurans berlesen, atas permohonan oleh seorang anggota atau pemunya polisi dan atas pembayaran fee yang munasabah, hendaklah menghantar kepadanya satu salinan apa-apa dokumen yang diserahsimpan dengan Bank di bawah seksyen 85(4) dan subseksyen 87(1) dalam tempoh empat belas hari daripada penerimaan permohonan itu.
 
@@ -2694,9 +3420,17 @@ Pemeriksaan.
 
 (b) apa-apa dokumen lain yang ditentukan oleh Bank.
 
-Keboleh-
+<!-- marginal: Keboleh- -->
 
-97. Dalam apa-apa prosiding, suatu perakuan yang terimaan ditandatangani oleh seorang pegawai diberikuasa Bank dokumen. yang menyatakan bahawa dokumen telah diserahsimpan oleh pemegang lesen di bawah seksyen 85, 87 atau 89 atau suatu dokumen yang menyertai dokumen yang diserahsimpan sedemikian, hendaklah boleh diterima di mahkamah sebagai keterangan bagi fakta yang diperakui sedemikian.
+97. Dalam apa-apa prosiding, suatu perakuan yang
+
+<!-- marginal: terimaan -->
+
+ditandatangani oleh seorang pegawai diberikuasa Bank
+
+<!-- marginal: dokumen. -->
+
+yang menyatakan bahawa dokumen telah diserahsimpan oleh pemegang lesen di bawah seksyen 85, 87 atau 89 atau suatu dokumen yang menyertai dokumen yang diserahsimpan sedemikian, hendaklah boleh diterima di mahkamah sebagai keterangan bagi fakta yang diperakui sedemikian.
 
 <!-- page 79 -->
 
@@ -2786,13 +3520,31 @@ Penalti: Pemenjaraan selama tiga tahun atau tiga juta ringgit atau kedua-duanya.
 
 (b) ia mungkin diganggu, dimusnahkan, disembunyikan atau dialihkan melainkan jika dia mengambil milik ke atasnya; atau
 
-(c) ia mungkin diperlukan sebagai keterangan dalam apa-apa prosiding undang-undang, sama ada sivil atau jenayah, yang mungkin dimulakan di Akta 519 bawah Akta ini, Akta Bank Negara Malaysia 1958 atau apa-apa undang-undang bertulis lain.
+(c) ia mungkin diperlukan sebagai keterangan dalam apa-apa prosiding undang-undang, sama ada sivil atau jenayah, yang mungkin dimulakan di
 
-Pemeriksaan
+<!-- marginal: Akta 519 -->
 
-101. Pemeriksa boleh memeriksa— ke atas orang selain
+bawah Akta ini, Akta Bank Negara Malaysia 1958 atau apa-apa undang-undang bertulis lain.
 
-(a) seseorang yang adalah atau yang dahulunya daripada pemegang pada bila-bila masa, seorang pengarah atau lesen. pekerja pemegang lesen atau ejennya;
+<!-- marginal: Pemeriksaan -->
+
+101. Pemeriksa boleh memeriksa—
+
+<!-- marginal: ke atas orang -->
+
+<!-- marginal: selain -->
+
+(a) seseorang yang adalah atau yang dahulunya
+
+<!-- marginal: daripada -->
+
+<!-- marginal: pemegang -->
+
+pada bila-bila masa, seorang pengarah atau
+
+<!-- marginal: lesen. -->
+
+pekerja pemegang lesen atau ejennya;
 
 (b) seseorang yang adalah, atau yang dahulunya pada bila-bila masa, merupakan seorang pemunya polisi, atau selainnya yang mempunyai urusniaga dengan pemegang lesen itu; atau
 
@@ -2934,9 +3686,19 @@ akses kepada mana-mana premis atau gagal untuk membenarkan dirinya diperiksa;
 
 Penalti: Pemenjaraan selama tiga tahun atau tiga juta ringgit atau kedua-duanya. Penalti ingkar.
 
-Kehendak
+<!-- marginal: Kehendak -->
 
-106. (1) Jika seorang pegawai penyiasat menjumpai, untuk menyita, menahan, atau mengambil milik, suatu dokumen menyediakan terjemahan. yang, keseluruhannya atau sebahagiannya adalah dalam suatu bahasa selain daripada bahasa kebangsaan atau Inggeris, atau dalam apa-apa isyarat atau kod, pegawai penyiasat itu, secara lisan atau secara bertulis, boleh menghendaki orang yang mempunyai milikan, jagaan atau kawalan terhadap dokumen itu, supaya memberikan kepada pegawai penyiasat itu suatu terjemahan dalam bahasa kebangsaan atau Inggeris dalam tempoh yang ditentukan oleh pegawai penyiasat itu.
+106. (1) Jika seorang pegawai penyiasat menjumpai,
+
+<!-- marginal: untuk -->
+
+menyita, menahan, atau mengambil milik, suatu dokumen
+
+<!-- marginal: menyediakan -->
+
+<!-- marginal: terjemahan. -->
+
+yang, keseluruhannya atau sebahagiannya adalah dalam suatu bahasa selain daripada bahasa kebangsaan atau Inggeris, atau dalam apa-apa isyarat atau kod, pegawai penyiasat itu, secara lisan atau secara bertulis, boleh menghendaki orang yang mempunyai milikan, jagaan atau kawalan terhadap dokumen itu, supaya memberikan kepada pegawai penyiasat itu suatu terjemahan dalam bahasa kebangsaan atau Inggeris dalam tempoh yang ditentukan oleh pegawai penyiasat itu.
 
 (2) Tiada seorang pun boleh dengan disedarinya memberikan suatu terjemahan di bawah subseksyen (1) yang bukannya suatu terjemahan yang tepat dan benar bagi dokumen itu.
 
@@ -2944,9 +3706,17 @@ Penalti: Lima ratus ribu ringgit. Penalti ingkar.
 
 (3) Jika orang yang dikehendaki memberikan suatu terjemahan di bawah subseksyen (1) itu bukannya orang di bawah siasatan, Bank hendaklah membayar kepadanya fee yang munasabah bagi terjemahan itu.
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-107. (1) Seorang pegawai penyiasat hendaklah mempunyai memeriksa kuasa untuk mengendalikan suatu sumpah atau ikrar bagi orang. orang yang sedang diperiksa.
+107. (1) Seorang pegawai penyiasat hendaklah mempunyai
+
+<!-- marginal: memeriksa -->
+
+kuasa untuk mengendalikan suatu sumpah atau ikrar bagi
+
+<!-- marginal: orang. -->
+
+orang yang sedang diperiksa.
 
 (2) Seorang pegawai penyiasat boleh memerintahkan, secara lisan atau bertulis, seseorang yang dipercayainya tahu tentang fakta dan hal keadaan kes itu—
 
@@ -2998,13 +3768,39 @@ awam yang lain dalam menjalankan penyiasatannya mengenai suatu kesalahan di bawa
 
 (c) suatu penyataan bertulis atas sumpah atau ikrar.
 
-Pegawai
+<!-- marginal: Pegawai -->
 
-109. Seorang pegawai penyiasat hendaklah disifatkan penyiasat sebagai seorang pengkhidmat awam bagi maksud Kanun disifatkan sebagai Keseksaan, dan sebagai seorang pegawai awam bagi pengkhidmat maksud Kanun Prosedur Jenayah atau mana-mana undang- awam dan pegawai undang bertulis yang lain yang Menteri, atas syor Bank, awam. boleh menetapkan. N.M.B.
+109. Seorang pegawai penyiasat hendaklah disifatkan
+
+<!-- marginal: penyiasat -->
+
+sebagai seorang pengkhidmat awam bagi maksud Kanun
+
+<!-- marginal: disifatkan -->
+
+<!-- marginal: sebagai -->
+
+Keseksaan, dan sebagai seorang pegawai awam bagi
+
+<!-- marginal: pengkhidmat -->
+
+maksud Kanun Prosedur Jenayah atau mana-mana undang-
+
+<!-- marginal: awam dan -->
+
+<!-- marginal: pegawai -->
+
+undang bertulis yang lain yang Menteri, atas syor Bank,
+
+<!-- marginal: awam. -->
+
+boleh menetapkan.
+
+<!-- marginal: N.M.B. -->
 
 ## Bab 45.
 
-N.M.B,
+<!-- marginal: N.M.B, -->
 
 ## Bab 6.
 
@@ -3012,13 +3808,41 @@ N.M.B,
 
 ## PENGGULUNGAN PENANGGUNG INSURANS
 
-Pemakaian
+<!-- marginal: Pemakaian -->
 
-110. Bahagian ini dan Akta Syarikat 1965, selain daripada Bahagian seksyen 176,237,241,242,246 dan 278 Akta itu, hendaklah ini. Akta 125. terpakai bagi penggulungan seseorang penanggung insurans berlesen, termasuklah seorang penanggung insurans yang lesennya telah dibatalkan dan seorang penanggung insurans yang penggulungannya telah dimulakan tetapi belum selesai.
+110. Bahagian ini dan Akta Syarikat 1965, selain daripada
 
-Sekatan ke
+<!-- marginal: Bahagian -->
 
-111. (1) Seseorang penanggung insurans tempatan, sama atas ada atau tidak lesennya telah dibatalkan, tidak boleh penggulungan penanggung digulungkan secara sukarela di bawah Penggal 3 Bahagian insurans X Akta Syarikat 1965 atau oleh Mahkamah di bawah tempatan. perenggan 218(l)(a) Akta itu kecuali selepas keseluruhan perniagaannya dipindahkan kepada seorang penanggung insurans lain di bawah seksyen 128.
+seksyen 176,237,241,242,246 dan 278 Akta itu, hendaklah
+
+<!-- marginal: ini. -->
+
+<!-- marginal: Akta 125. -->
+
+terpakai bagi penggulungan seseorang penanggung insurans berlesen, termasuklah seorang penanggung insurans yang lesennya telah dibatalkan dan seorang penanggung insurans yang penggulungannya telah dimulakan tetapi belum selesai.
+
+<!-- marginal: Sekatan ke -->
+
+111. (1) Seseorang penanggung insurans tempatan, sama
+
+<!-- marginal: atas -->
+
+ada atau tidak lesennya telah dibatalkan, tidak boleh
+
+<!-- marginal: penggulungan -->
+
+<!-- marginal: penanggung -->
+
+digulungkan secara sukarela di bawah Penggal 3 Bahagian
+
+<!-- marginal: insurans -->
+
+X Akta Syarikat 1965 atau oleh Mahkamah di bawah
+
+<!-- marginal: tempatan. -->
+
+perenggan 218(l)(a) Akta itu kecuali selepas keseluruhan perniagaannya dipindahkan kepada seorang penanggung insurans lain di bawah seksyen 128.
 
 (2) Jika penggulungan secara sukarela suatu syarikat telah dimulakan, ia hendaklah memberitahu Bank dalam tempoh empat belas hari dari permulaan itu.
 
@@ -3096,9 +3920,13 @@ seseorang penanggung insurans jika—
 
 <!-- page 88 -->
 
-Perlantikan
+<!-- marginal: Perlantikan -->
 
-115. (1) Mahkamah, jika suatu perintah penggulungan pelikuidabi. dibuat—
+115. (1) Mahkamah, jika suatu perintah penggulungan
+
+<!-- marginal: pelikuidabi. -->
+
+dibuat—
 
 (a) berkenaan dengan seorang penanggung insurans tempatan, hendaklah melantik sebagai pelikuidasi; atau
 
@@ -3106,23 +3934,45 @@ Perlantikan
 
 seseorang yang ditentukan oleh Bank dalam petisyen atau permohonannya.
 
-(2) Bank boleh memohon kepada Mahkamah bagi pemecatan seseorang yang dilantik di bawah subseksyen (1) dan memohon bagi mana-mana orang lain yang ditentukannya untuk dilantik oleh Mahkamah di bawah subseksyen (1).
+(2) Bank boleh memohon kepada Mahkamah bagi pemecatan seseorang yang dilantik di bawah subseksyen
 
-Kawalan ke
+(1) dan memohon bagi mana-mana orang lain yang ditentukannya untuk dilantik oleh Mahkamah di bawah subseksyen (1).
 
-116. Tertakluk kepada sesuatu perintah Mahkamah, atas seorang pelikuidasi, selain daripada Pegawai Penerima, pelikuidasi. yang dilantik di bawah subseksyen 115(1) hendaklah menjalankan fungsinya di bawah arahan dan pengawasan Bank.
+<!-- marginal: Kawalan ke -->
+
+116. Tertakluk kepada sesuatu perintah Mahkamah,
+
+<!-- marginal: atas -->
+
+seorang pelikuidasi, selain daripada Pegawai Penerima,
+
+<!-- marginal: pelikuidasi. -->
+
+yang dilantik di bawah subseksyen 115(1) hendaklah menjalankan fungsinya di bawah arahan dan pengawasan Bank.
 
 Penalti: Lima ratus ribu ringgit. Penalti ingkar.
 
-Saraan
+<!-- marginal: Saraan -->
 
-117. (1) Saraan seorang pelikuidasi atau pelikuidasi pelikuidasi. sementara bagi penanggung insurans hendaklah sebagaimana yang ditentukan oleh Mahkamah, atas syor Bank.
+117. (1) Saraan seorang pelikuidasi atau pelikuidasi
+
+<!-- marginal: pelikuidasi. -->
+
+sementara bagi penanggung insurans hendaklah sebagaimana yang ditentukan oleh Mahkamah, atas syor Bank.
 
 (2) Tiada seorang pun, selain daripada Bank, boleh memohon kepada Mahkamah untuk mengubah amaun saraan pelikuidasi atau pelikuidasi sementara.
 
-Penyata hal-
+<!-- marginal: Penyata hal- -->
 
-118. Penyata hal-ehwal penanggung insurans pada tarikh ehwal. perintah penggulungan yang dibuat di bawah seksyen 234 Akta Syarikat 1965 hendaklah dikemukakan kepada Akta 125 Bank pada masa yang sama sebagaimana ia dikemukakan kepada Pegawai Penerima atau pelikuidasi.
+118. Penyata hal-ehwal penanggung insurans pada tarikh
+
+<!-- marginal: ehwal. -->
+
+perintah penggulungan yang dibuat di bawah seksyen 234 Akta Syarikat 1965 hendaklah dikemukakan kepada
+
+<!-- marginal: Akta 125 -->
+
+Bank pada masa yang sama sebagaimana ia dikemukakan kepada Pegawai Penerima atau pelikuidasi.
 
 <!-- page 89 -->
 
@@ -3176,9 +4026,31 @@ terhenti daripada berkuatkuasa mulai dari tarikh perintah penggulungannya.
 
 <!-- page 90 -->
 
-Penggunaan
+<!-- marginal: Penggunaan -->
 
-122. (1) Dalam penggulungan penanggung insurans, aset kumpulan kumpulan wang insurans hendaklah digunakan untuk wang memenuhi liabilitinya kepada pemunya polisi dan penuntut insurans dalam di bawah polisi kelas perniagaan insurans itu dan liabiliti penggulungan. ini hendaklah mendapat keutamaan berbanding dengan semua liabiliti tak bercagar selain daripada hutang keutamaan yang ditentukan di bawah subseksyen 292(1) Akta Syarikat 1965 setakat yang ia diumpukkan kepada Akta 125. kumpulan wang insurans itu.
+122. (1) Dalam penggulungan penanggung insurans, aset
+
+<!-- marginal: kumpulan -->
+
+kumpulan wang insurans hendaklah digunakan untuk
+
+<!-- marginal: wang -->
+
+memenuhi liabilitinya kepada pemunya polisi dan penuntut
+
+<!-- marginal: insurans -->
+
+<!-- marginal: dalam -->
+
+di bawah polisi kelas perniagaan insurans itu dan liabiliti
+
+<!-- marginal: penggulungan. -->
+
+ini hendaklah mendapat keutamaan berbanding dengan semua liabiliti tak bercagar selain daripada hutang keutamaan yang ditentukan di bawah subseksyen 292(1) Akta Syarikat 1965 setakat yang ia diumpukkan kepada
+
+<!-- marginal: Akta 125. -->
+
+kumpulan wang insurans itu.
 
 (2) Tertakluk kepada subseksyen (1)—
 
@@ -3186,45 +4058,49 @@ Penggunaan
 
 (b) jika aset suatu kumpulan wang insurans melebihi liabilitinya, lebihan aset itu bolehlah digunakan secara berkadar untuk memenuhi liabiliti kumpulan wang insuransnya yang lain yang kekurangan; dan
 
-(c) apa-apa kekurangan yang masih wujud selepas penggunaan aset kumpulan wang insurans itu di bawah perenggan (a) dan (b) hendaklah ditampung oleh aset lain penanggung insurans itu, dan liabiliti yang tidak dipenuhi kepada seorang pemunya polisi dan penuntut di bawah polisi hendaklah mempunyai keutamaan daripada liabiliti tak bercagar yang lain selain daripada hutang keutamaan yang ditentukan di bawah Akta 125. subseksyen 292(1) dalam Akta Syarikat 1965.
+(c) apa-apa kekurangan yang masih wujud selepas penggunaan aset kumpulan wang insurans itu di bawah perenggan (a) dan (b) hendaklah ditampung oleh aset lain penanggung insurans itu, dan liabiliti yang tidak dipenuhi kepada seorang pemunya polisi dan penuntut di bawah polisi hendaklah mempunyai keutamaan daripada liabiliti tak bercagar yang lain selain daripada hutang keutamaan yang ditentukan di bawah
 
-Pengetepian 123. Jika didapati oleh pelikuidasi bahawa oleh sebab beban bukti dokumennya tidak mencukupi, atau apa-apa hal keadaan ketat yang lain, kesulitan akan timbul jika dia menghendaki mengenai hutang. beban bukti yang ketat, dia boleh bertindak atas keterangan yang difikirkannya patut dan pembayaran hutang yang dibuat secara suci hati oleh pelikudasi itu kepada mana- mana orang yang berhak ke atas tuntutan itu hendaklah melepaskan pelikuidasi daripada segala tanggungan berkenaan dengan hutang itu.
+<!-- marginal: Akta 125. -->
+
+subseksyen 292(1) dalam Akta Syarikat 1965.
+
+<!-- marginal: Pengetepian -->
+
+123. Jika didapati oleh pelikuidasi bahawa oleh sebab
+
+<!-- marginal: beban bukti -->
+
+dokumennya tidak mencukupi, atau apa-apa hal keadaan
+
+<!-- marginal: ketat -->
+
+yang lain, kesulitan akan timbul jika dia menghendaki
+
+<!-- marginal: mengenai -->
+
+<!-- marginal: hutang. -->
+
+beban bukti yang ketat, dia boleh bertindak atas keterangan yang difikirkannya patut dan pembayaran hutang yang dibuat secara suci hati oleh pelikudasi itu kepada mana- mana orang yang berhak ke atas tuntutan itu hendaklah melepaskan pelikuidasi daripada segala tanggungan berkenaan dengan hutang itu.
 
 <!-- page 91 -->
 
-<!-- marginal: Kesalahan -->
+Kesalahan
 
-124. Tiada pengarah, pekerja, ejen atau penyumbang,
+124. Tiada pengarah, pekerja, ejen atau penyumbang, oleh dahulu atau sekarang, penanggung insurans yang sedang pengarah,
 
-<!-- marginal: oleh -->
+<!-- marginal: digulungkan— -->
 
-dahulu atau sekarang, penanggung insurans yang sedang
+pekerja atau ejen
 
-<!-- marginal: pengarah, -->
-
-digulungkan—
-
-<!-- marginal: pekerja atau -->
-
-<!-- marginal: ejen -->
-
-(a) selepas pemberhentian perniagaan insuransnya,
-
-<!-- marginal: penanggung -->
-
-<!-- marginal: insurans. -->
-
-boleh terus mengeluarkan suatu polisi;
+(a) selepas pemberhentian perniagaan insuransnya, penanggung insurans. boleh terus mengeluarkan suatu polisi;
 
 (b) dalam tempoh dua belas bulan sebaik sahaja sebelum atau selepas bermulanya penggulungan—
 
-(i) boleh menyembunyikan apa-apa bahagian hartanya, atau menyembunyikan apa-apa hutang yang kena dibayar kepada atau daripadanya; (ii) boleh secara fraud mengalihkan apa-apa bahagian harta penanggung insurans;
+(i) boleh menyembunyikan apa-apa bahagian hartanya, atau menyembunyikan apa-apa hutang yang kena dibayar kepada atau daripadanya;
 
-(iii) dengan sendirinya atau melalui orang lain, boleh mengubah, menyembunyikan, memusnahkan, mencacatkan
+(ii) boleh secara fraud mengalihkan apa-apa bahagian harta penanggung insurans;
 
-<!-- marginal: atau -->
-
-memalsukan suatu dokumen berhubungan dengan harta atau hal-ehwalnya;
+(iii) dengan sendirinya atau melalui orang lain, boleh mengubah, menyembunyikan, memusnahkan, mencacatkan atau memalsukan suatu dokumen berhubungan dengan harta atau hal-ehwalnya;
 
 (iv) boleh membuat atau menyebabkan dibuat apa-apa pemalsuan atau catatan fraud dalam suatu dokumen yang menyentuh atau berhubungan dengan harta atau hal- ehwalnya;
 
@@ -3236,7 +4112,7 @@ memalsukan suatu dokumen berhubungan dengan harta atau hal-ehwalnya;
 
 <!-- page 92 -->
 
-92
+<!-- marginal: 92 -->
 
 ## RANG UNDANG-UNDANG
 
@@ -3250,19 +4126,23 @@ memalsukan suatu dokumen berhubungan dengan harta atau hal-ehwalnya;
 
 (i) boleh membuat apa-apa peninggalan material dalam suatu penyata berhubungan dengan hal-ehwalnya;
 
-(ii) dengan disedarinya atau mempercayai bahawa suatu hutang palsu
-
-<!-- marginal: telah -->
-
-dibuktikan oleh mana-mana orang, tidak memberitahu pelikuidasi tentangnya; atau
+(ii) dengan disedarinya atau mempercayai bahawa suatu hutang palsu telah dibuktikan oleh mana-mana orang, tidak memberitahu pelikuidasi tentangnya; atau
 
 (iii) tidak mengemukakan atau menghalang penerbitan suatu dokumen yang berhubungan dengan harta atau hal- ehwalnya.
 
 Penalti: Pemenjaraan selama lima tahun atau lima juta ringgit atau kedua-duanya. Penalti ingkar.
 
-Penerusan
+<!-- marginal: Penerusan -->
 
-125. (1) Walauapapunperenggan236(l)(a)AktaSyarikat perniagaan 1965, pelikuidasi penanggung insurans hayat— hayat. Akta 125
+125. (1) Walauapapunperenggan236(l)(a)AktaSyarikat
+
+<!-- marginal: perniagaan -->
+
+1965, pelikuidasi penanggung insurans hayat—
+
+<!-- marginal: hayat. -->
+
+<!-- marginal: Akta 125 -->
 
 (a) boleh menjalankan perniagaan hayatnya dengan tujuan dipindahkan sebagai perniagaan yang sudah berjalan kepada penanggung insurans yang lain tetapi tidaklah melaksanakan suatu polisi baru; dan
 
@@ -3318,9 +4198,19 @@ khas di bawah seksyen 372 Akta Syarikat 1965 berhubungan dengan penggulungan pen
 
 "skim" ertinya suatu skim pindahan bagi perniagaan insurans.
 
-Mahkamah
+<!-- marginal: Mahkamah -->
 
-128. (1) Suatu perniagaan insurans pemindah, hendaklah keseluruhannya atau sebahagiannya, boleh dipindahkan mengesahkan skim. kepada penerima pindahan melalui suatu skim yang diluluskan oleh Bank dan disahkan oleh Mahkamah.
+128. (1) Suatu perniagaan insurans pemindah,
+
+<!-- marginal: hendaklah -->
+
+keseluruhannya atau sebahagiannya, boleh dipindahkan
+
+<!-- marginal: mengesahkan -->
+
+<!-- marginal: skim. -->
+
+kepada penerima pindahan melalui suatu skim yang diluluskan oleh Bank dan disahkan oleh Mahkamah.
 
 (2) Subseksyen (1) dan (4) dalam hal penanggung insurans asing, hendaklah terpakai berhubungan dengan polisi Malaysianya.
 
@@ -3328,9 +4218,13 @@ Mahkamah
 
 (4) Suatu skim boleh memperuntukkan bagi perniagaan itu dipindahkan kepada suatu syarikat awam yang tidak dilesenkan sebagai penanggung insurans di bawah Akta ini berkenaan dengan kelas perniagaan yang relevan, jika skim itu hanya beroperasi apabila syarikat awam itu dilesenkan sedemikian.
 
-Pengemukaan
+<!-- marginal: Pengemukaan -->
 
-129. (1) Pemindah, sebelum membuat suatu permohonan skim. kepada Mahkamah, hendaklah mengemukakan kepada Bank, mengikut apa-apa cara yang ditentukan oleh Bank—
+129. (1) Pemindah, sebelum membuat suatu permohonan
+
+<!-- marginal: skim. -->
+
+kepada Mahkamah, hendaklah mengemukakan kepada Bank, mengikut apa-apa cara yang ditentukan oleh Bank—
 
 (a) draf skim;
 
@@ -3382,15 +4276,37 @@ apa-apa ubahsuaian sebagaimana yang ditentukannya.
 
 (2) Pemindah itu hendaklah menghantar suatu salinan notis itu berserta dengan ringkasan skim itu sebagaimana yang diluluskan oleh Bank kepada setiap pemunya polisinya di alamat akhirnya yang diketahui.
 
-(3) Bank, atas permohonan pemindah secara bertulis, boleh mengecualikan pemindah itu daripada subseksyen (2) tertakluk kepada syarat yang dikenakan oleh Bank.
+(3) Bank, atas permohonan pemindah secara bertulis, boleh mengecualikan pemindah itu daripada subseksyen
 
-Ubahsuaian
+(2) tertakluk kepada syarat yang dikenakan oleh Bank.
 
-132. Jika pemunya polisi, penuntut atau pemiutang lain skim. memfailkan suatu bantahan kepada skim itu, pemindah dengan kelulusan Bank, boleh mengubahsuaikan skim itu.
+<!-- marginal: Ubahsuaian -->
 
-Petisyen
+132. Jika pemunya polisi, penuntut atau pemiutang lain
 
-133. (1) Pemindah hendaklah mengemukakan suatu kepada petisyen kepada Mahkamah bagi pengesahan skim yang Mahkamah untuk telah diluluskan oleh Bank. mengesahkan skim. (2) Suatu permohonan kepada Mahkamah berkenaan dengan mana-mana perkara berkaitan dengan skim itu boleh dibuat oleh seseorang yang pada pendapat Mahkamah mungkin akan tersentuh oleh skim itu, pada bila-bila masa sebelum pengesahan skim itu oleh Mahkamah.
+<!-- marginal: skim. -->
+
+memfailkan suatu bantahan kepada skim itu, pemindah dengan kelulusan Bank, boleh mengubahsuaikan skim itu.
+
+<!-- marginal: Petisyen -->
+
+133. (1) Pemindah hendaklah mengemukakan suatu
+
+<!-- marginal: kepada -->
+
+petisyen kepada Mahkamah bagi pengesahan skim yang
+
+<!-- marginal: Mahkamah -->
+
+<!-- marginal: untuk -->
+
+telah diluluskan oleh Bank.
+
+<!-- marginal: mengesahkan -->
+
+<!-- marginal: skim. -->
+
+(2) Suatu permohonan kepada Mahkamah berkenaan dengan mana-mana perkara berkaitan dengan skim itu boleh dibuat oleh seseorang yang pada pendapat Mahkamah mungkin akan tersentuh oleh skim itu, pada bila-bila masa sebelum pengesahan skim itu oleh Mahkamah.
 
 (3) Mahkamah boleh enggan mengesahkan skim itu atau boleh mengesahkannya dengan atau tanpa ubahsuaian.
 
@@ -3448,7 +4364,7 @@ hendaklah mempunyai kuatkuasa—
 
 <!-- page 98 -->
 
-98
+<!-- marginal: 98 -->
 
 ## RANG UNDANG-UNDANG
 
@@ -3456,15 +4372,27 @@ hendaklah mempunyai kuatkuasa—
 
 (2) Jika suatu perintah Mahkamah meletakhakkan suatu tanah berimilik, atau suatu syer atau kepentingan mengenai suatu tanah berimilik, pada penerima pindahan—
 
-(a) Mahkamah, jika tanah berimilik itu terletak di Malaysia Barat, hendaklah menyebabkan suatu salinan perintah itu disampaikan kepada Pendaftar Hakmilik atau Pentadbir Tanah, mengikut mana- mana yang berkenaan, sebaik sahaja perintah itu dibuat untuk memberikan kuatkuasa kepada subseksyen 420(2), (3) dan (4) Kanun Tanah Akta 5611965 Negara;
+(a) Mahkamah, jika tanah berimilik itu terletak di Malaysia Barat, hendaklah menyebabkan suatu salinan perintah itu disampaikan kepada Pendaftar Hakmilik atau Pentadbir Tanah, mengikut mana- mana yang berkenaan, sebaik sahaja perintah itu dibuat untuk memberikan kuatkuasa kepada subseksyen 420(2), (3) dan (4) Kanun Tanah
 
-(b) jika tanah berimilik itu terletak di Sabah, penerima pindahan, dengan seberapa segera yang praktik selepas perintah itu dibuat, hendaklah mengemukakan suatu salinan perintah itu yang ditentusahkan kepada Pendaftar bagi pendaftaran perletakhakkan tanah berimilik itu atau syer itu atau kepentingan mengenai tanah berimilik itu, kepada penerima pindahan, sebagaimana yang Sabah diperuntukkan di bawah Ordinan Tanah Sabah;
+<!-- marginal: Akta -->
+
+<!-- marginal: 5611965 -->
+
+Negara;
+
+(b) jika tanah berimilik itu terletak di Sabah, penerima pindahan, dengan seberapa segera yang praktik selepas perintah itu dibuat, hendaklah mengemukakan suatu salinan perintah itu yang ditentusahkan kepada Pendaftar bagi pendaftaran perletakhakkan tanah berimilik itu atau syer itu atau kepentingan mengenai tanah berimilik itu, kepada penerima pindahan, sebagaimana yang
+
+<!-- marginal: Sabah -->
+
+diperuntukkan di bawah Ordinan Tanah Sabah;
 
 ## Bab 68.
 
 atau
 
-(c) jika tanah berimilik itu terletak di Sarawak, penerima pindahan, dengan seberapa segera yang praktik selepas perintah itu dibuat, hendaklah mengeluarkan suatu salinan perintah itu yang ditentusahkan kepada Pendaftar bagi pendaftaran perletakhakkan tanah berimilik itu atau syer itu atau kepentingan mengenai tanah berimilik itu, kepada penerima pindahan, sebagaimana yang diperuntukkan di bawah seksyen 171 Kanun Swk
+(c) jika tanah berimilik itu terletak di Sarawak, penerima pindahan, dengan seberapa segera yang praktik selepas perintah itu dibuat, hendaklah mengeluarkan suatu salinan perintah itu yang ditentusahkan kepada Pendaftar bagi pendaftaran perletakhakkan tanah berimilik itu atau syer itu atau kepentingan mengenai tanah berimilik itu, kepada penerima pindahan, sebagaimana yang diperuntukkan di bawah seksyen 171 Kanun
+
+<!-- marginal: Swk -->
 
 ## Bab 81.
 
@@ -3540,17 +4468,37 @@ simpan dengan Bank—
 
 ## RANG UNDANG-UNDANG
 
-Pemindahan
+<!-- marginal: Pemindahan -->
 
-139. Tiada seorang pun broker insurans berlesen atau perniagaan ajuster berlesen boleh memindahkan perniagaannya, pembrokeran keseluruhannya atau sebahagiannya, kepada seseorang insurans atau pengajusteran kecuali dengan kelulusan daripada Bank terlebih dahulu. insurans.
+139. Tiada seorang pun broker insurans berlesen atau
+
+<!-- marginal: perniagaan -->
+
+ajuster berlesen boleh memindahkan perniagaannya,
+
+<!-- marginal: pembrokeran -->
+
+keseluruhannya atau sebahagiannya, kepada seseorang
+
+<!-- marginal: insurans atau -->
+
+<!-- marginal: pengajusteran -->
+
+kecuali dengan kelulusan daripada Bank terlebih dahulu.
+
+<!-- marginal: insurans. -->
 
 ## BAHAGIAN XII
 
 ## PERUNTUKAN BERHUBUNGAN DENGAN POLISI
 
-Insurans harta
+<!-- marginal: Insurans harta -->
 
-140. (1) Kecuali dengan kelulusan bertulis daripadaBank dan liabiliti. terlebih dahulu, tiada seorang pun boleh menginsuranskan atau menyebabkan diinsuranskan harta, atau liabiliti, dengan penanggung insurans selain daripada penanggung insurans am berlesen.
+140. (1) Kecuali dengan kelulusan bertulis daripadaBank
+
+<!-- marginal: dan liabiliti. -->
+
+terlebih dahulu, tiada seorang pun boleh menginsuranskan atau menyebabkan diinsuranskan harta, atau liabiliti, dengan penanggung insurans selain daripada penanggung insurans am berlesen.
 
 Penalti: Lima ratus ribu ringgit.
 
@@ -3670,15 +4618,35 @@ Penalti: Satu juta ringgit.
 
 (3) Apabila menerima laporan itu, Bank hendaklah memberitahu saraan yang penanggung insurans hayat berlesen hendaklah membayar kepada aktuari itu.
 
-Kadar
+<!-- marginal: Kadar -->
 
-144. Tiada seorang pun penanggung insurans am berlesen premium di atau persatuan penanggung insurans am berlesen boleh bawah polisi menerimapakai sesuatu tarif kadar premium, atau sesuatu am. tarif terma dan syarat polisi, bagi sesuatu perihalan polisi am yang wajib terpakai kepada penanggung insurans am berlesen, kecuali dengan kelulusan bertulis daripada Bank terlebih dahulu.
+144. Tiada seorang pun penanggung insurans am berlesen
+
+<!-- marginal: premium di -->
+
+atau persatuan penanggung insurans am berlesen boleh
+
+<!-- marginal: bawah polisi -->
+
+menerimapakai sesuatu tarif kadar premium, atau sesuatu
+
+<!-- marginal: am. -->
+
+tarif terma dan syarat polisi, bagi sesuatu perihalan polisi am yang wajib terpakai kepada penanggung insurans am berlesen, kecuali dengan kelulusan bertulis daripada Bank terlebih dahulu.
 
 Penalti: Satu juta ringgit.
 
-Semakan
+<!-- marginal: Semakan -->
 
-145. Bank boleh menghendaki seseorang penanggung kadar insurans berlesen atau sesuatu persatuan penanggung premium, insurans hayat atau am berlesen—
+145. Bank boleh menghendaki seseorang penanggung
+
+<!-- marginal: kadar -->
+
+insurans berlesen atau sesuatu persatuan penanggung
+
+<!-- marginal: premium, -->
+
+insurans hayat atau am berlesen—
 
 (a) untuk menyemak semula kadar premium bagi sesuatu perihalan polisi hayat atau am berdasarkan pengalaman tuntutan penanggung insurans berlesen itu atau kesemua penanggung insurans berlesen atau faktor lain yang relevan dalam menentukan kadar premium; atau
 
@@ -3686,9 +4654,19 @@ Semakan
 
 Penalti: Satu juta ringgit. Penalti ingkar.
 
-Notis
+<!-- marginal: Notis -->
 
-146. Jika seseorang penanggung insurans hayat berlesen berkenaan mengeluarkan sesuatu polisi hayat yang memperuntukkan dengan bukti umur. bahawa bukti umur orang yang hayatnya diinsuranskan adalah suatu syarat terdahulu kepada pembayaran faedah di bawah polisi hayat itu dan ia tidak mengakui umur
+146. Jika seseorang penanggung insurans hayat berlesen
+
+<!-- marginal: berkenaan -->
+
+mengeluarkan sesuatu polisi hayat yang memperuntukkan
+
+<!-- marginal: dengan bukti -->
+
+<!-- marginal: umur. -->
+
+bahawa bukti umur orang yang hayatnya diinsuranskan adalah suatu syarat terdahulu kepada pembayaran faedah di bawah polisi hayat itu dan ia tidak mengakui umur
 
 <!-- page 105 -->
 
@@ -3738,9 +4716,17 @@ balik pemunya polisi amaun itu premium yang terlebih bayar ditolak apa-apa amaun
 
 (6) Tiada apa-apa dalam seksyen ini bdleh menghalang penanggung insurans hayat berlesen daripada menghendaki bukti umur pada bila-bila masa dan tiada polisi hayat boleh disifatkan sebagai dipertikaikan hanya kerana terma polisi hayat itu diselaraskan mengikut subseksyen (2) atau (3).
 
-Bantahan
+<!-- marginal: Bantahan -->
 
-148. (1) Seseorang pemunya polisi, dalam tempoh lima kepada polisi belas hari selepas penghantaran sesuatu polisi hayat hayat. mengenai apa-apa perihalan kepadanya atau kepada seseorang yang tinggal di rumahnya, boleh mengembalikan polisi hayat itu kepada penanggung insurans hayat berlesen dan ia hendaklah dengan serta-merta membayar balik
+148. (1) Seseorang pemunya polisi, dalam tempoh lima
+
+<!-- marginal: kepada polisi -->
+
+belas hari selepas penghantaran sesuatu polisi hayat
+
+<!-- marginal: hayat. -->
+
+mengenai apa-apa perihalan kepadanya atau kepada seseorang yang tinggal di rumahnya, boleh mengembalikan polisi hayat itu kepada penanggung insurans hayat berlesen dan ia hendaklah dengan serta-merta membayar balik
 
 <!-- page 107 -->
 
@@ -3792,9 +4778,13 @@ Penalti: Satu juta ringgit.
 
 (5) Bank boleh menentukan suatu tata amalan baik berhubungan dengan apa-apa perihalan borang cadangan, polisi atau risalah.
 
-Kewajipan
+<!-- marginal: Kewajipan -->
 
-150. (1) Sebelum sesuatu kontrak insurans dibuat, pendedahan. seseorang pencadang hendaklah mendedahkan kepada penanggung insurans berlesen sesuatu perkara yang—
+150. (1) Sebelum sesuatu kontrak insurans dibuat,
+
+<!-- marginal: pendedahan. -->
+
+seseorang pencadang hendaklah mendedahkan kepada penanggung insurans berlesen sesuatu perkara yang—
 
 (a) dia tahu sebagai relevan kepada keputusan penanggung insurans berlesen sama ada untuk menerima atau tidak risiko dan kadar dan terma yang hendak dipakai; atau
 
@@ -3856,9 +4846,17 @@ dalam sifat itu hendaklah disifatkan, bagi maksud pembentukan kontrak insurans i
 
 (b) jika seseorang itu telah berhenti menjadi ejen insurans penanggung insurans berlesen dan ia telah mengambil kesemua langkah yang munasabah untuk memberitahu, atau membawa kepada pengetahuan, bakal pemunya polisi dan orang awam amnya mengenai hakikat pemberhentian itu.
 
-Kepentingan
+<!-- marginal: Kepentingan -->
 
-152. (1) Sesuatu polisi hayat yang menginsuranskan hayat boleh seseorang selain daripada orang yang mengambil insurans insurans. itu atau hayat orang yang disebut dalam subseksyen (2), hendaklah terbatal melainkan jika orang yang mengambil insurans itu mempunyai kepentingan boleh insurans dalam hayat itu pada masa insurans itu diambil dan wang polisi kena dibayar, atau jika wang polisi boleh dibayar secara ansuran, nilai diskaun kesemua ansuran di masa hadapan di bawah polisi hayat itu, tidaklah boleh melebihi amaun kepentingan boleh insurans itu pada masa kejadian yang menyebabkan pembayaran wang polisi itu berlaku.
+152. (1) Sesuatu polisi hayat yang menginsuranskan hayat
+
+<!-- marginal: boleh -->
+
+seseorang selain daripada orang yang mengambil insurans
+
+<!-- marginal: insurans. -->
+
+itu atau hayat orang yang disebut dalam subseksyen (2), hendaklah terbatal melainkan jika orang yang mengambil insurans itu mempunyai kepentingan boleh insurans dalam hayat itu pada masa insurans itu diambil dan wang polisi kena dibayar, atau jika wang polisi boleh dibayar secara ansuran, nilai diskaun kesemua ansuran di masa hadapan di bawah polisi hayat itu, tidaklah boleh melebihi amaun kepentingan boleh insurans itu pada masa kejadian yang menyebabkan pembayaran wang polisi itu berlaku.
 
 (2) Seseorang hendaklah disifatkan sebagai mempunyai kepentingan boleh insurans berhubungan dengan seorang yang lain jika orang lain itu adalah—
 
@@ -3940,9 +4938,11 @@ kepada penanggung insurans hayat berlesen untuk memotong sejumlah wang daripada 
 
 (4) Dalam mana-mana prosiding bagi mendapatkan semula wang polisi yang kena dibayar di bawah, atau kena dibayar atas penyerahan, sesuatu polisi hayat tiada tolakan atau tuntutan balas boleh dibenarkan kecuali bagi wang yang kena dibayar di bawah polisi hayat itu atau di bawah sesuatu perjanjian yang mengenakan caj bagi wang atas polisi hayat itu.
 
-Penyerahan
+<!-- marginal: Penyerahan -->
 
-155. (1) Pada bila-bila masa selepas— polisi hayat.
+155. (1) Pada bila-bila masa selepas—
+
+<!-- marginal: polisi hayat. -->
 
 (a) wujudnya sesuatu polisi hayat premium tunggal; atau
 
@@ -3988,9 +4988,13 @@ Penalti; Lima ratus ribu ringgit. Penalti ingkar.
 
 ## RANG UNDANG-UNDANG
 
-Butir-butir
+<!-- marginal: Butir-butir -->
 
-157. (1) Seseorang penanggung insurans berlesen dalam polisi. hendaklah menyatakan dalam sesuatu polisi amaun premium yang dicajkan bagi insurans itu.
+157. (1) Seseorang penanggung insurans berlesen
+
+<!-- marginal: dalam polisi. -->
+
+hendaklah menyatakan dalam sesuatu polisi amaun premium yang dicajkan bagi insurans itu.
 
 (2) Seseorang penanggung insurans hayat berlesen hendaklah memasukkan sesuatu pernyataan dalam bentuk taip berlainan dalam sesuatu polisi hayat—
 
@@ -4000,21 +5004,59 @@ Butir-butir
 
 Penalti: Lima ratus ribu ringgit.
 
-Pemilihan
+<!-- marginal: Pemilihan -->
 
-158. (1) Jika sesuatu polisi hayat telah berkuatkuasa bagi polisi selama tiga tahun atau lebih, atau apa-apa tempoh yang berbayar. lebih singkat sebagaimana yang dibenar oleh penanggung insurans hayat berlesen, pemunya polisi itu, melalui notis secara bertulis kepada penanggung insurans hayat berlesen, boleh memilih untuk menukarkan polisi hayat itu dengan suatu polisi hayat berbayar bagi sesuatu jumlah yang diinsuranskan yang ditentukan mengikut apa-apa cara yang ditetapkan.
+158. (1) Jika sesuatu polisi hayat telah berkuatkuasa
+
+<!-- marginal: bagi polisi -->
+
+selama tiga tahun atau lebih, atau apa-apa tempoh yang
+
+<!-- marginal: berbayar. -->
+
+lebih singkat sebagaimana yang dibenar oleh penanggung insurans hayat berlesen, pemunya polisi itu, melalui notis secara bertulis kepada penanggung insurans hayat berlesen, boleh memilih untuk menukarkan polisi hayat itu dengan suatu polisi hayat berbayar bagi sesuatu jumlah yang diinsuranskan yang ditentukan mengikut apa-apa cara yang ditetapkan.
 
 (2) Sesuatu polisi hayat yang dikeluarkan sebagai ganti kepada suatu polisi yang lebih awal hendaklah dianggapkan sebagai telah mula berkuatkuasa pada tarikh polisi yang lebih awal itu mula berkuatkuasa.
 
-Hak
+<!-- marginal: Hak -->
 
-159. Hak yang diberikan oleh seksyen 155, 156 dan 158 tambahan hendaklah menjadi tambahan kepada, dan bukan yang diberikan pengurangan daripada, apa-apa hak lain yang sedia ada oleh seksyen kepada pemunya polisi di bawah terma polisi hayat itu 155, 156 dan
+159. Hak yang diberikan oleh seksyen 155, 156 dan 158
+
+<!-- marginal: tambahan -->
+
+hendaklah menjadi tambahan kepada, dan bukan
+
+<!-- marginal: yang -->
+
+<!-- marginal: diberikan -->
+
+pengurangan daripada, apa-apa hak lain yang sedia ada
+
+<!-- marginal: oleh seksyen -->
+
+kepada pemunya polisi di bawah terma polisi hayat itu
+
+<!-- marginal: 155, 156 dan -->
 
 158. atau selainnya.
 
-Pungutan
+<!-- marginal: Pungutan -->
 
-160. (1) Bank boleh menetapkan cara seseorang premium di penanggung insurans hayat berlesen itu menjalankan alamat perniagaan hayat berkenaan dengan polisi hayat yang pemunya polisi. baginya premium adalah biasanya dipungut di alamat
+160. (1) Bank boleh menetapkan cara seseorang
+
+<!-- marginal: premium di -->
+
+penanggung insurans hayat berlesen itu menjalankan
+
+<!-- marginal: alamat -->
+
+perniagaan hayat berkenaan dengan polisi hayat yang
+
+<!-- marginal: pemunya -->
+
+<!-- marginal: polisi. -->
+
+baginya premium adalah biasanya dipungut di alamat
 
 <!-- page 115 -->
 
@@ -4082,7 +5124,9 @@ untuk menerima wang polisi yang kena dibayar atas kematiannya di bawah polisi it
 
 (4) Sesuatu kegagalan untuk mematuhi subseksyen (3) tidaklah boleh menjejaskan kesahan penamaan itu jika dibuktikan selainnya bahawa penamaan itu telah dibuat oleh pemunya polisi itu dan diberikan kepada penanggung insurans berlesen itu.
 
-(5) Sesuatu penamaan yang dibuat di bawah subseksyen (1) boleh dibuat bagi faedah seseorang atau lebih dan jika orang yang dinamakan itu lebih daripada seorang, pemunya polisi itu boleh mengarahkan supaya bahagian yang ditentukan itu dibayar kepada orang yang dinamakan dan jika pemunya polisi tidak mernbuat apa-apa arahan, penanggung insurans berlesen hendaklah membayar bahagian yang sama banyak kepada orang itu.
+(5) Sesuatu penamaan yang dibuat di bawah subseksyen
+
+(1) boleh dibuat bagi faedah seseorang atau lebih dan jika orang yang dinamakan itu lebih daripada seorang, pemunya polisi itu boleh mengarahkan supaya bahagian yang ditentukan itu dibayar kepada orang yang dinamakan dan jika pemunya polisi tidak mernbuat apa-apa arahan, penanggung insurans berlesen hendaklah membayar bahagian yang sama banyak kepada orang itu.
 
 <!-- page 117 -->
 
@@ -4136,15 +5180,25 @@ polisi pemunya polisi yang mati itu mengikut arahan penamaan itu apabila menerim
 
 (4) Jika seseorang penama, selain daripada seorang penama di bawah seksyen 166, mati selepas kematian pemunya polisi tetapi sebelum apa-apa wang polisi dibayar kepadanya sebagai penama, seksyen 164 atau 169 hendaklah terpakai kepada polisi itu, mengikut mana-mana yang berkenaan.
 
-Pemegang
+<!-- marginal: Pemegang -->
 
-166. (1) Sesuatu penamaan oleh seseorang pemunya polisi, amanah selain daripada seseorang pemunya polisi yang beragama wang polisi. Islam, hendaklah mewujudkan suatu amanah bagi faedah penama atas wang polisi yang kena dibayar atas kematian pemunya polisi itu, jika—
+166. (1) Sesuatu penamaan oleh seseorang pemunya polisi,
+
+<!-- marginal: amanah -->
+
+selain daripada seseorang pemunya polisi yang beragama
+
+<!-- marginal: wang polisi. -->
+
+Islam, hendaklah mewujudkan suatu amanah bagi faedah penama atas wang polisi yang kena dibayar atas kematian pemunya polisi itu, jika—
 
 (a) penama itu adalah suami atau isteri atau anaknya; atau
 
 (b) tidak ada suami atau isteri atau anak yang hidup pada masa penamaan itu, penama adalah ibu bapanya.
 
-(2) Walau apa pun apa-apa undang-undang bertulis yang bertentangan, suatu pembayaran di bawah subseksyen (1) tidaklah menjadi sebahagian daripada harta pusaka pemunya polisi yang mati atau tertakluk kepada hutangnya.
+(2) Walau apa pun apa-apa undang-undang bertulis yang bertentangan, suatu pembayaran di bawah subseksyen
+
+(1) tidaklah menjadi sebahagian daripada harta pusaka pemunya polisi yang mati atau tertakluk kepada hutangnya.
 
 (3) Pemunya polisi, melalui polisi, atau melalui notis secara bertulis kepada penanggung insurans berlesen, boleh melantik pemegang amanah untuk wang polisi itu dan jika tidak ada pemegang amanah—
 
@@ -4218,9 +5272,23 @@ sebahagiannya, telah disandarkan sebagai cagaran atau diserahakkan kepada seseor
 
 keutamaan tarikh yang mana cagaran atau serahakkan itu diwujudkan, kedua-dua cagaran dan serahakkan dianggap sebagai satu kelas bagi maksud ini.
 
-Pembayaran
+<!-- marginal: Pembayaran -->
 
-169. (1) Jika seorang pemunya polisi bagi suatu polisi wang polisi mati tanpa membuat suatu penamaan, tertakluk kepada jika tidak seksyen 168, penanggung insurans berlesen hendaklah ada penamaan. membayar wang polisi pemunya polisi yang mati itu kepada pemohon yang mengemukakan Perintah Probate atau Surat Kuasa Mentadbir atau Perintah Pembahagian.
+169. (1) Jika seorang pemunya polisi bagi suatu polisi
+
+<!-- marginal: wang polisi -->
+
+mati tanpa membuat suatu penamaan, tertakluk kepada
+
+<!-- marginal: jika tidak -->
+
+seksyen 168, penanggung insurans berlesen hendaklah
+
+<!-- marginal: ada -->
+
+<!-- marginal: penamaan. -->
+
+membayar wang polisi pemunya polisi yang mati itu kepada pemohon yang mengemukakan Perintah Probate atau Surat Kuasa Mentadbir atau Perintah Pembahagian.
 
 (2) Tertakluk kepada subseksyen (1), penanggung insurans berlesen boleh membayar kepada suami atau isteri pemunya polisi, anak atau ibu bapa mengikut aturan keutamaan tersebut dan jika terdapat lebih daripada seorang suami atau isteri, anak atau ibu bapa, dalam bahagian yang sama kepada setiap orang dalam kelas tersebut dan jika tiada suami atau isteri, anak atau ibu bapa dan—
 
@@ -4260,9 +5328,27 @@ yang dibayarnya itu walau apa pun ketiadaan atau ketaksahan, atau apa-apa kecaca
 
 (8) Seseorang yang kepadanya suatu pembayaran boleh dibuat di bawah seksyen ini hendaklah memberi suatu resit yang hendaklah disifatkan sebagai resit yang sah.
 
-Pembayaran
+<!-- marginal: Pembayaran -->
 
-170. Jika seseorang belum mencapai umur lapan belas kepada orang tahun, atau yang diperakui oleh pengamal perubatan dalam yang tak kompeten perkhidmatan awam sebagai tak sempurna akal dan tidak untuk ada jawatankuasa harta pusakanya yang telah dilantik, berkontrak. atau menjadi tak upaya, disebabkan kelemahan akal atau tubuh, bagi menguruskan dirinya sendiri dan harta dan hal-ehwalnya, penanggung insurans berlesen—
+170. Jika seseorang belum mencapai umur lapan belas
+
+<!-- marginal: kepada orang -->
+
+tahun, atau yang diperakui oleh pengamal perubatan dalam
+
+<!-- marginal: yang tak -->
+
+<!-- marginal: kompeten -->
+
+perkhidmatan awam sebagai tak sempurna akal dan tidak
+
+<!-- marginal: untuk -->
+
+ada jawatankuasa harta pusakanya yang telah dilantik,
+
+<!-- marginal: berkontrak. -->
+
+atau menjadi tak upaya, disebabkan kelemahan akal atau tubuh, bagi menguruskan dirinya sendiri dan harta dan hal-ehwalnya, penanggung insurans berlesen—
 
 (a) dalam hal seorang penama di bawah subseksyen 166(1)— (i) jika wang polisi itu adalah sepuluh ribu ringgit atau kurang atau apa-apa amaun sebagaimana yang boleh ditetapkan, boleh membayar kepada seseorang yang memuaskan hati penanggung insurans berlesen bahawa dia akan menggunakan wang polisi itu bagi menyara dan faedah penama itu di bawah subseksyen 166(1), mengikut mana-mana yang berkenaan, atau seseorang yang kepadanya wang polisi itu kena dibayar di bawah subseksyen 169(2) atau (6), tertakluk kepada perlaksanaan suatu akujanji oleh orang itu bahawa wang polisi itu akan digunakan semata-mata bagi menyara dan faedah penama itu; dan (ii) jika wang polisi itu adalah lebih daripada amaun dalam perenggan (a)(i), membayar kepada Pemegang Amanah Raya atau suatu syarikat amanah yang dinamakan oleh Pemegang Amanah Raya.
 
@@ -4364,15 +5450,27 @@ digulungkan;
 
 (g) denda di bawah subseksyen 211(2).
 
-Pelaburan
+<!-- marginal: Pelaburan -->
 
-174. Bank boleh melaburkan wang dalam suatu kumpulan wang. wang skim jaminan insurans, setakat yang wang itu tidak diperlukan buat masa itu untuk dibelanjakan bagi maksud Bahagian ini, dalam apa-apa pelaburan yang diluluskan oleh Menteri dan kesemua pendapatan yang terakru berkenaan dengan pelaburan sedemikian hendaklah dikreditkan ke dalam kumpulan wang itu.
+174. Bank boleh melaburkan wang dalam suatu kumpulan
 
-Bank boleh
+<!-- marginal: wang. -->
 
-175. Bank boleh meminjam wang bagi suatu kumpulan meminjam wang skim jaminan insurans sehingga apa-apa takat, wang. mengikut apa-apa cara, daripada mana-mana orang atau sumber, dan atas apa-apa syarat, yang diluluskan oleh Menteri.
+wang skim jaminan insurans, setakat yang wang itu tidak diperlukan buat masa itu untuk dibelanjakan bagi maksud Bahagian ini, dalam apa-apa pelaburan yang diluluskan oleh Menteri dan kesemua pendapatan yang terakru berkenaan dengan pelaburan sedemikian hendaklah dikreditkan ke dalam kumpulan wang itu.
 
-Levi.
+<!-- marginal: Bank boleh -->
+
+175. Bank boleh meminjam wang bagi suatu kumpulan
+
+<!-- marginal: meminjam -->
+
+wang skim jaminan insurans sehingga apa-apa takat,
+
+<!-- marginal: wang. -->
+
+mengikut apa-apa cara, daripada mana-mana orang atau sumber, dan atas apa-apa syarat, yang diluluskan oleh Menteri.
+
+<!-- marginal: Levi. -->
 
 176. (1) Seorang penanggung insurans berlesen hendaklah membayar kepada Bank levi bagi kumpulan wang skim jaminan insurans, sebelum akhir bulan Jun pada setiap tahun atau tarikh lain yang diluluskan oleh Bank, pada apa-apa kadar dan dalam apa-apa ansuran yang ditentukan oleh Bank.
 
@@ -4406,9 +5504,13 @@ Bank untuk memberhentikan pemungutan levi jika dia berpuas hati bahawa terdapat 
 
 <!-- page 126 -->
 
-Penggunaan
+<!-- marginal: Penggunaan -->
 
-178. (1) Bank, tertakluk kepada seksyen 179, boleh wang. menggunakan wang dalam suatu kumpulan wang skim jaminan insurans—
+178. (1) Bank, tertakluk kepada seksyen 179, boleh
+
+<!-- marginal: wang. -->
+
+menggunakan wang dalam suatu kumpulan wang skim jaminan insurans—
 
 (a) untuk menunaikan kos pentadbiran, kos guaman dan kos lain untuk menyenggarakan dan mentadbirkan kumpulan wang skim jaminan insurans itu;
 
@@ -4426,9 +5528,19 @@ Penggunaan
 
 (c) suatu perintah penerimaan telah dibuat terhadapnya oleh Mahkamah.
 
-Sekatan ke
+<!-- marginal: Sekatan ke -->
 
-179. (1) Menteri, menurut budibicaranya, boleh menyekat atas penggunaan suatu kumpulan wang skim jaminan insurans penggunaan wang. kepada perihalan perniagaan insurans tertentu dalam sesuatu kelas atau dia boleh mengarahkan supaya penggunaan kumpulan wang skim jaminan insurans itu dibuat mengikut apa-apa cara yang diarahkannya.
+179. (1) Menteri, menurut budibicaranya, boleh menyekat
+
+<!-- marginal: atas -->
+
+penggunaan suatu kumpulan wang skim jaminan insurans
+
+<!-- marginal: penggunaan -->
+
+<!-- marginal: wang. -->
+
+kepada perihalan perniagaan insurans tertentu dalam sesuatu kelas atau dia boleh mengarahkan supaya penggunaan kumpulan wang skim jaminan insurans itu dibuat mengikut apa-apa cara yang diarahkannya.
 
 <!-- page 127 -->
 
@@ -4470,25 +5582,45 @@ menuntut daripada kumpulan wang skim jaminan insurans itu berhubungan dengan ses
 
 <!-- page 128 -->
 
-Pembayaran
+<!-- marginal: Pembayaran -->
 
-182. (1) Tertakluk kepada Bahagian ini, Bank boleh tuntutan. membayar suatu tuntutan di bawah seksyen 178 daripada suatu skim jaminan insurans pada bila-bila masa selepas tarikh berkuatkuasanya perintah penggulungan penanggung insurans tak solven itu.
+182. (1) Tertakluk kepada Bahagian ini, Bank boleh
+
+<!-- marginal: tuntutan. -->
+
+membayar suatu tuntutan di bawah seksyen 178 daripada suatu skim jaminan insurans pada bila-bila masa selepas tarikh berkuatkuasanya perintah penggulungan penanggung insurans tak solven itu.
 
 (2) Bank, menurut budibicaranya, boleh membayar daripada suatu skim jaminan insurans kepada seseorang penuntut penanggung insurans tak solven, amaun dividen yang boleh diisytiharkan oleh pelikuidasi penanggung insurans itu berserta dengan amaun yang kena dibayar daripada kumpulan wang skim jaminan insurans itu, tertakluk kepada penuntut itu menyerahhakkan kesemua haknya berkenaan dengan tuntutan itu kepada kumpulan wang skim jaminan insurans itu dan setelah penuntut menerima pembayaran daripada kumpulan wang skim jaminan insurans itu sebagai penyelesaian penuh dan muktamad bagi tuntutannya.
 
 (3) Walau apa pun subseksyen (1) dan (2), jika wang dalam suatu kumpulan wang skim jaminan insurans itu tidak mencukupi untuk menunaikan obligasinya, Bank boleh membayar sesuatu tuntutan secara ansuran, atau menangguhkan daripada membuat pembayaran, daripada kumpulan wang skim jaminan insurans itu.
 
-Bantuan
+<!-- marginal: Bantuan -->
 
-183. Bank boleh melantik seseorang yang sesuai untuk dalam membantunya dalam pentadbiran dan pembahagian wang pentadbiran. dalam suatu kumpulan wang skim jaminan insurans.
+183. Bank boleh melantik seseorang yang sesuai untuk
+
+<!-- marginal: dalam -->
+
+membantunya dalam pentadbiran dan pembahagian wang
+
+<!-- marginal: pentadbiran. -->
+
+dalam suatu kumpulan wang skim jaminan insurans.
 
 ## BAHAGIAN XV
 
 ## PELBAGAI
 
-Ejen dan
+<!-- marginal: Ejen dan -->
 
-184. (1) Tiada seorang pun boleh bertindak bagi pihak broker seseorang yang tidak dilesenkan di bawah Akta ini insurans. berhubungan dengan penjalanan perniagaan insurans di Malaysia melainkan jika diluluskan oleh Bank secara bertulis.
+184. (1) Tiada seorang pun boleh bertindak bagi pihak
+
+<!-- marginal: broker -->
+
+seseorang yang tidak dilesenkan di bawah Akta ini
+
+<!-- marginal: insurans. -->
+
+berhubungan dengan penjalanan perniagaan insurans di Malaysia melainkan jika diluluskan oleh Bank secara bertulis.
 
 Penalti: Pemenjaraan selama tiga tahun atau tiga juta ringgit atau kedua-duanya. Penalti ingkar.
 
@@ -4566,9 +5698,17 @@ Penalti: Satu juta ringgit.
 
 ## PERUNTUKAN AM
 
-Penguat-
+<!-- marginal: Penguat- -->
 
-187. (1) Jika seseorang ingkar mematuhi sesuatu kuasaan peruntukan Akta ini, Bank, melalui notis secara bertulis, Akta ini. boleh menghendaki orang itu untuk membetulkan keingkaran itu dalam apa-apa tempoh yang ditentukannya.
+187. (1) Jika seseorang ingkar mematuhi sesuatu
+
+<!-- marginal: kuasaan -->
+
+peruntukan Akta ini, Bank, melalui notis secara bertulis,
+
+<!-- marginal: Akta ini. -->
+
+boleh menghendaki orang itu untuk membetulkan keingkaran itu dalam apa-apa tempoh yang ditentukannya.
 
 <!-- page 131 -->
 
@@ -4628,9 +5768,13 @@ dan kesalahan itu mengakibatkan, atau menyebabkan, apa- apa kerugian atau kerosa
 
 (5) Suatu sijil di bawah subseksyen (3) hendaklah menjadi keterangan muktamad mengenai hutang itu.
 
-Pemberi-
+<!-- marginal: Pemberi- -->
 
-190. (1) Sesuatu pemberitahuan mengenai suatu sijil di tahuan sijil. bawah subseksyen 189(3) atau pembatalannya hendaklah disiarkan dalam Warta selepas ia dikeluarkan atau dibatalkan, mengikut mana-mana yang berkenaan.
+190. (1) Sesuatu pemberitahuan mengenai suatu sijil di
+
+<!-- marginal: tahuan sijil. -->
+
+bawah subseksyen 189(3) atau pembatalannya hendaklah disiarkan dalam Warta selepas ia dikeluarkan atau dibatalkan, mengikut mana-mana yang berkenaan.
 
 (2) Berkuatkuasa dari tarikh penyiaran pemberitahuan itu dalam Warta, orang yang terhadapnya sijil itu dikeluarkan tidaklah boleh menjual, menggadai, menyandar, memindah atau selainnya berurusan dengan, atau membawa keluar dari Malaysia, mana-mana hartanya tanpa kelulusan bertulis daripada Bank terlebih dahulu.
 
@@ -4674,21 +5818,35 @@ Penalti: Satu juta ringgit. Penalti ingkar.
 
 (2) Bank boleh menghendaki dokumen atau maklumat yang dikemukakan di bawah subseksyen (1) supaya diperakui dengan sewajarnya oleh juruaudit, atau aktuari yang dilantik, pemegang lesen itu.
 
-Penyampaian
+<!-- marginal: Penyampaian -->
 
-194. Sesuatu surat yang mengandungi sesuatu notis atau notis. dokumen lain yang hendak disampaikan oleh Bank di bawah Akta ini hendaklah disifatkan telah dialamatkan ke tempat yang wajar jika ianya dialamatkan ke alamat penerima surat yang terakhir diketahui.
+194. Sesuatu surat yang mengandungi sesuatu notis atau
 
-Kerahsiaan.
+<!-- marginal: notis. -->
 
-195. (1) Tertakluk kepada seksyen 16A Akta Bank Negara Akta 519. Malaysia 1958 dan seksyen 108, tiada seorang pun yang melaksanakan apa-apa kuasa di bawah Akta ini boleh mendedahkan maklumat berhubungan dengan hal-ehwal seseorang pemegang lesen atau pelanggannya yang diperolehi semasa melaksanakan fungsinya di bawah Akta ini.
+dokumen lain yang hendak disampaikan oleh Bank di bawah Akta ini hendaklah disifatkan telah dialamatkan ke tempat yang wajar jika ianya dialamatkan ke alamat penerima surat yang terakhir diketahui.
+
+<!-- marginal: Kerahsiaan. -->
+
+195. (1) Tertakluk kepada seksyen 16A Akta Bank Negara
+
+<!-- marginal: Akta 519. -->
+
+Malaysia 1958 dan seksyen 108, tiada seorang pun yang melaksanakan apa-apa kuasa di bawah Akta ini boleh mendedahkan maklumat berhubungan dengan hal-ehwal seseorang pemegang lesen atau pelanggannya yang diperolehi semasa melaksanakan fungsinya di bawah Akta ini.
 
 (2) Seksyen ini tidaklah terpakai kepada maklumat yang pada masa pendedahan itu adalah, atau telah pun sedia ada secara sahnya, kepada orang awam daripada apa-apa sumber atau maklumat dalam bentuk ringkasan atau kumpulan maklumat yang dalamnya maklumat berhubungan dengan seseorang pemegang lesen tertentu atau pelanggannya tidak dinyatakan secara jelas.
 
 (3) Tiada seorang pun yang mempunyai maklumat yang pada pengetahuannya telah pun didedahkan yang melanggar subseksyen (1) boleh mendedahkan maklumat itu kepada orang yang lain.
 
-Pendedahan
+<!-- marginal: Pendedahan -->
 
-196. (1) Seksyen 195 tidaklah terpakai kepada yang dibenarkan. pendedahan maklumat—
+196. (1) Seksyen 195 tidaklah terpakai kepada
+
+<!-- marginal: yang -->
+
+<!-- marginal: dibenarkan. -->
+
+pendedahan maklumat—
 
 (a) kepada Bank, pengarahnya atau pekerjanya, seseorang yang dilantik di bawah subseksyen 3(3) atau seseorang yang dilantik, jika pendedahan itu adalah dalam pelaksanaan fungsi; atau
 
@@ -4774,15 +5932,19 @@ penjalanan hal-ehwal dan perniagaan sesuatu pemegang lesen.
 
 <!-- page 136 -->
 
-Peraturan-
+<!-- marginal: Peraturan- -->
 
-202. Bank, dengan kelulusan Menteri, atau Menteri peraturan. mengikut mana-mana yang berkenaan, boleh membuat peraturan-peraturan untuk melaksanakan tujuan Akta ini atau apa-apa peruntukan Akta ini dan untuk menetapkan apa-apa yang perlu ditetapkan di bawah Akta ini.
+202. Bank, dengan kelulusan Menteri, atau Menteri
+
+<!-- marginal: peraturan. -->
+
+mengikut mana-mana yang berkenaan, boleh membuat peraturan-peraturan untuk melaksanakan tujuan Akta ini atau apa-apa peruntukan Akta ini dan untuk menetapkan apa-apa yang perlu ditetapkan di bawah Akta ini.
 
 ## BAHAGIAN XVII
 
 ## KESALAHAN
 
-Penalti am.
+<!-- marginal: Penalti am. -->
 
 203. (1) Seseorang yang—
 
@@ -4794,9 +5956,13 @@ adalah melakukan suatu kesalahan dan, jika tiada penalti nyata diperuntukkan, ad
 
 (2) Walau apa pun subseksyen (1), jika seseorang yang disabitkan atas sesuatu kesalahan itu adalah sesuatu pertubuhan perbadanan, penalti penjara bagi kesalahan itu tidak.terpakai kepadanya.
 
-Kesalahan
+<!-- marginal: Kesalahan -->
 
-204. (1) Ungkapan "Penalti ingkar" di hujung sesuatu berterusan. seksyen atau subseksyen menunjukkan bahawa seseorang yang disabitkan atas sesuatu kesalahan berhubungan dengan seksyen atau subseksyen itu melakukan suatu kesalahan lanjut jika kesalahan itu terus berlaku selepas dia disabitkan dan bertanggungan kepada denda sebanyak sepuluh ribu ringgit atau penjara selama dua hari atau kedua-duanya bagi tiap-tiap hari atau sebahagian daripada satu hari selagi kesalahan itu masih terus berlaku selepas dia disabitkan.
+204. (1) Ungkapan "Penalti ingkar" di hujung sesuatu
+
+<!-- marginal: berterusan. -->
+
+seksyen atau subseksyen menunjukkan bahawa seseorang yang disabitkan atas sesuatu kesalahan berhubungan dengan seksyen atau subseksyen itu melakukan suatu kesalahan lanjut jika kesalahan itu terus berlaku selepas dia disabitkan dan bertanggungan kepada denda sebanyak sepuluh ribu ringgit atau penjara selama dua hari atau kedua-duanya bagi tiap-tiap hari atau sebahagian daripada satu hari selagi kesalahan itu masih terus berlaku selepas dia disabitkan.
 
 (2) Bagi maksud subseksyen (1), sesuatu kesalahan adalah disifatkan sebagai terus berlaku selagi perkara yang dikehendaki atau diarahkan untuk dilakukan olehnya masih tidak dilakukan, walau pun tempoh itu telah berakhir.
 
@@ -4824,7 +5990,11 @@ berhubungan dengan seseorang pemegang lesen—
 
 (b) berkenaan dengan sesuatu polisi kumpulan, boleh menerima sesuatu cadangan bagi insurans, atau memungut premium, atas polisi kumpulan itu jika ia telah tamat atau telah dibatalkan oleh penanggung insurans berlesen itu;
 
-(c) boleh memalsukan sesuatu dokumen, menggunakan atau memegang dalam milikannya, sesuatu dokumen palsu, yang berupa sesuatu polisi sesuatu penanggung insurans berlesen;
+(c) boleh memalsukan sesuatu
+
+<!-- marginal: dokumen, -->
+
+menggunakan atau memegang dalam milikannya, sesuatu dokumen palsu, yang berupa sesuatu polisi sesuatu penanggung insurans berlesen;
 
 (d) boleh mengubah sesuatu catatan yang dibuat dalam sesuatu polisi seseorang penanggung insurans berlesen; atau
 
@@ -4864,9 +6034,17 @@ pada masa kesalahan itu dilakukan, adalah disifatkan sebagai telah melakukan kes
 
 (4) Penalti hukuman penjara bagi suatu kesalahan hendaklah terpakai kepada individu yang disabitkan bagi suatu kesalahan di bawah subseksyen (1), walau apa pun hukuman penjara tersebut tidak terpakai kepada pertubuhan perbadanan atau persatuan orang itu menurut subseksyen 203(2).
 
-Kesalahan
+<!-- marginal: Kesalahan -->
 
-207. Jika seorang adalah bertanggungan di bawah Akta oleh ini bagi suatu penalti bagi apa-apa tindakan, peninggalan, individu. kecuaian atau keingkaran, dia adalah bertanggungan bagi penalti yang sama bagi tindakan, peninggalan, kecuaian atau keingkaran pekerja, pengarah, pengawal, atau ejennya jika tindakan, peninggalan, kecuaian atau keingkaran itu dilakukan oleh—
+207. Jika seorang adalah bertanggungan di bawah Akta
+
+<!-- marginal: oleh -->
+
+ini bagi suatu penalti bagi apa-apa tindakan, peninggalan,
+
+<!-- marginal: individu. -->
+
+kecuaian atau keingkaran, dia adalah bertanggungan bagi penalti yang sama bagi tindakan, peninggalan, kecuaian atau keingkaran pekerja, pengarah, pengawal, atau ejennya jika tindakan, peninggalan, kecuaian atau keingkaran itu dilakukan oleh—
 
 (a) pekerjanya semasa menjalankan pekerjaannya;
 
@@ -4950,13 +6128,23 @@ dan wang tidaklah menjadi sebahagian daripada Kumpulan Wang Disatukan Persekutua
 
 (4) Apabila pembayaran denda diterima di bawah subseksyen (1), tiada pendakwaan boleh dimulakan berkenaan dengan kesalahan itu terhadap orang yang kepadanya tawaran kompaun itu telah dibuat.
 
-Percubaan,
+<!-- marginal: Percubaan, -->
 
-212. (1) Mana-mana orang yang— pensubahatan dan komplot. (a) cuba untuk melakukan suatu kesalahan di bawah Akta ini;
+212. (1) Mana-mana orang yang—
+
+<!-- marginal: pensubahatan -->
+
+<!-- marginal: dan komplot. -->
+
+(a) cuba untuk melakukan suatu kesalahan di bawah Akta ini;
 
 (b) melakukan suatu perbuatan persediaan kepada atau bagi mencapai perlakuan suatu kesalahan di bawah Akta ini; atau
 
-(c) bersubahat atau terlibat dalam suatu komplot jenayah untuk melakukan (sebagaimana istilah N.M.B. itu ditakrifkan dalam Kanun Keseksaan) suatu
+(c) bersubahat atau terlibat dalam suatu komplot jenayah untuk melakukan (sebagaimana istilah
+
+<!-- marginal: N.M.B. -->
+
+itu ditakrifkan dalam Kanun Keseksaan) suatu
 
 ## Bab 45.
 
@@ -5106,11 +6294,37 @@ tersebut di bawah seksyen 15 dalam tempoh enam puluh hari daripada tarikh berkua
 
 (b) subseksyen (1) telah dipatuhi tetapi lesen telah ditolak di bawah seksyen 16.
 
-Penukaran
+<!-- marginal: Penukaran -->
 
-217. Jika seseorang penanggung insurans yang disifatkan kepada, telah dilesenkan di bawah perenggan 2l5(1)(a) atau pemindahan dilesenkan di bawah seksyen 16 untuk menjalankan, sama perniagaan insurans ada perniagaan am atau hayat atau kedua-duanya, mengikut kepada, mana-mana yang berkenaan— syarikat awam.
+217. Jika seseorang penanggung insurans yang disifatkan
 
-(a) adalah suatu syarikat persendirian, ia hendaklah menukarkan dirinya kepada suatu syarikat awam Akta 125. mengikut Akta Syarikat 1965 dalam tempoh dua belas bulan dari tarikh berkuatkuasa;
+<!-- marginal: kepada, -->
+
+telah dilesenkan di bawah perenggan 2l5(1)(a) atau
+
+<!-- marginal: pemindahan -->
+
+dilesenkan di bawah seksyen 16 untuk menjalankan, sama
+
+<!-- marginal: perniagaan -->
+
+<!-- marginal: insurans -->
+
+ada perniagaan am atau hayat atau kedua-duanya, mengikut
+
+<!-- marginal: kepada, -->
+
+mana-mana yang berkenaan—
+
+<!-- marginal: syarikat -->
+
+<!-- marginal: awam. -->
+
+(a) adalah suatu syarikat persendirian, ia hendaklah menukarkan dirinya kepada suatu syarikat awam
+
+<!-- marginal: Akta 125. -->
+
+mengikut Akta Syarikat 1965 dalam tempoh dua belas bulan dari tarikh berkuatkuasa;
 
 (b) adalah seseorang penanggung insurans asing, selain daripada seseorang penanggung insurans semula profesional, ia hendaklah memindahkan harta, perniagaan, dan liabilitinya kepada suatu syarikat awam yang diperbadankan di bawah Akta Syarikat 1965 setakat mana berhubungan dengan perniagaan insuransnya di Malaysia menurut Bahagian X Akta tersebut pada atau sebelum 30 Jun 1998; dan
 
@@ -5210,9 +6424,29 @@ Penalti: Satu juta ringgit. Penalti ingkar.
 
 <!-- page 146 -->
 
-Kecualian
+<!-- marginal: Kecualian -->
 
-221. (1) Tertakluk kepada subseksyen (2), tiada apa- dan apa yang terkandung dalam seksyen 67 atau 69 boleh pendedahan berkenaan menjadikan suatu perolehan atau pelupusan kepentingan dengan kepentingan dalam syer seseorang pemegang lesen atau pengawalnya dalam syer. oleh seseorang yang mana perolehan atau pelupusan kepentingan dalam syer seseorang pemegang lesen atau pengawalnya telah disempurnakan atau sesuatu pegangan bagi kepentingan dalam syer seseorang pemegang lesen atau pengawalnya yang telah wujud, sebelum tarikh berkuatkuasa dan mengikut undang-undang dan sah sebaik sahaja sebelum tarikh tersebut.
+221. (1) Tertakluk kepada subseksyen (2), tiada apa-
+
+<!-- marginal: dan -->
+
+apa yang terkandung dalam seksyen 67 atau 69 boleh
+
+<!-- marginal: pendedahan -->
+
+<!-- marginal: berkenaan -->
+
+menjadikan suatu perolehan atau pelupusan kepentingan
+
+<!-- marginal: dengan -->
+
+<!-- marginal: kepentingan -->
+
+dalam syer seseorang pemegang lesen atau pengawalnya
+
+<!-- marginal: dalam syer. -->
+
+oleh seseorang yang mana perolehan atau pelupusan kepentingan dalam syer seseorang pemegang lesen atau pengawalnya telah disempurnakan atau sesuatu pegangan bagi kepentingan dalam syer seseorang pemegang lesen atau pengawalnya yang telah wujud, sebelum tarikh berkuatkuasa dan mengikut undang-undang dan sah sebaik sahaja sebelum tarikh tersebut.
 
 (2) Suatu perolehan, pegangan atau pelupusan kepentingan dalam syer yang mana subseksyen (1) terpakai hendaklah diambilkira dalam menentukan kesahan di bawah seksyen 67 atau 69, mengikut mana-mana yang berkenaan, bagi mana-mana perolehan atau pelupusan kepentingan dalam syer seseorang pemegang lesen atau pengawalnya yang dibuat selepas tarikh berkuatkuasa itu.
 
@@ -5296,7 +6530,11 @@ wang polisi itu kepada orang tersebut tanpa jumlah wang polisi itu dimasukkan ke
 
 (a) tiada tuntutan telah dibuat kepada baki wang polisi itu oleh seorang wakil diri pemunya polisi yang mati itu; atau
 
-(b) penanggung insurans hayat berlesen telah membayar baki wang polisi itu ke dalam Akaun Amanah Yang Disatukan di bawah subseksyen Akta 370. 11(1) Akta Wang Yang Tak Dituntut 1965, penanggung insurans hayat berlesen itu, walau apa pun apa-apa jua yang terkandung di dalam Akta tersebut, apabila menerima satu surat keizinan daripada orang yang dirujuk di dalam subseksyen 169(2), adalah berhak untuk menuntut, dan hendaklah menuntut, di bawah subseksyen 13(1) Akta tersebut, baki wang polisi yang kena di bayar kepadanya oleh Pendaftar Wang Yang Tak Dituntut seolah-olah ia adalah pemunya di bawah Akta tersebut.
+(b) penanggung insurans hayat berlesen telah membayar baki wang polisi itu ke dalam Akaun Amanah Yang Disatukan di bawah subseksyen
+
+<!-- marginal: Akta 370. -->
+
+11(1) Akta Wang Yang Tak Dituntut 1965, penanggung insurans hayat berlesen itu, walau apa pun apa-apa jua yang terkandung di dalam Akta tersebut, apabila menerima satu surat keizinan daripada orang yang dirujuk di dalam subseksyen 169(2), adalah berhak untuk menuntut, dan hendaklah menuntut, di bawah subseksyen 13(1) Akta tersebut, baki wang polisi yang kena di bayar kepadanya oleh Pendaftar Wang Yang Tak Dituntut seolah-olah ia adalah pemunya di bawah Akta tersebut.
 
 (4) Subseksyen (1) terpakai kepada wang polisi di bawah suatu polisi hayat yang mana simati bukan pemunya polisi semasa kematiannya.
 
@@ -5344,7 +6582,11 @@ Pemansuhan
 
 No. Tajuk Takat Mansuh 1 tahun 1962 Akta Syarikat Asurans Nyawa (Likuidasi Wajib) 1962
 
-89 tahun 1963 Akta Insurans 1963 Seluruh P.U. 250/63 Kaedah-Kaedah Syarikat Asurans Nyawa (Penggulungan Wajib) 1963
+89 tahun 1963 Akta Insurans 1963
+
+<!-- marginal: Seluruh -->
+
+P.U. 250/63 Kaedah-Kaedah Syarikat Asurans Nyawa (Penggulungan Wajib) 1963
 
 <!-- page 150 -->
 
@@ -5352,7 +6594,7 @@ No. Tajuk Takat Mansuh 1 tahun 1962 Akta Syarikat Asurans Nyawa (Likuidasi Wajib
 
 Pindaan Berbangkit
 
-Akta 124
+<!-- marginal: Akta 124 -->
 
 1. Akta Syarikat 1965 adalah dipinda—
 

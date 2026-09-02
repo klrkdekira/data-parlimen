@@ -266,7 +266,9 @@ Quantity Surveyor” the words “Consultant Quantity Surveyor, Professional Qua
 
 (iii) in paragraph (b), by substituting for the word “registered” the word “Consultant”;
 
-(iv) by substituting for paragraph (c) the following paragraph:
+(iv) by substituting for paragraph (c) the following
+
+<!-- marginal: paragraph: -->
 
 “(c) in the case of the body corporate—
 
@@ -384,7 +386,9 @@ Quantity Surveyor” the words “Consultant Quantity Surveyor, Professional Qua
 
 (l) by substituting for subsection (8) the following subsection:
 
-“(8) Upon the Disciplinary Committee suspending or cancelling the permit to practise of a Consulting Quantity Surveying Practice pursuant to paragraph (5)(cc) or (dd), the Consulting Quantity Surveying Practice shall cease to practise.”;
+“(8) Upon the Disciplinary Committee suspending or cancelling the permit to practise of a Consulting Quantity Surveying Practice pursuant to paragraph
+
+(5)(cc) or (dd), the Consulting Quantity Surveying Practice shall cease to practise.”;
 
 (m) by inserting after subsection (8) the following subsection:
 

@@ -24,9 +24,55 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ## JADUAL
 
-Maksud Tajuk Amaun (RM)
+Maksud Tajuk
 
-B. 1 Parlimen 1,630,000 B. 7 Jabatan Perkhidmatan Awam 60,000,000 B. 12 Peruntukan kepada Kumpulan Wang Terkanun 16,810,108,100 B. 13 Kementerian Luar Negeri 46,087,700 B. 21 Kementerian Pertanian dan Industri Asas Tani 100,000 B. 25 Kementerian Perdagangan Dalam Negeri dan 7,000,000 Hal Ehwal Pengguna B. 27 Kementerian Kerja Raya 76,373,900 B. 31 Kementerian Pelancongan 10,000,000 B. 42 Kementerian Kesihatan 200,006,100 B. 44 Kementerian Kebudayaan, Kesenian dan 1,550,000 Warisan B. 60 Kementerian Pertahanan 157,147,300 B. 62 Kementerian Keselamatan Dalam Negeri 175,168,700
+<!-- marginal: Amaun -->
+
+<!-- marginal: (RM) -->
+
+B. 1 Parlimen
+
+<!-- marginal: 1,630,000 -->
+
+B. 7 Jabatan Perkhidmatan Awam
+
+<!-- marginal: 60,000,000 -->
+
+B. 12 Peruntukan kepada Kumpulan Wang Terkanun 16,810,108,100 B. 13 Kementerian Luar Negeri
+
+<!-- marginal: 46,087,700 -->
+
+B. 21 Kementerian Pertanian dan Industri Asas Tani
+
+<!-- marginal: 100,000 -->
+
+B. 25 Kementerian Perdagangan Dalam Negeri dan
+
+<!-- marginal: 7,000,000 -->
+
+Hal Ehwal Pengguna B. 27 Kementerian Kerja Raya
+
+<!-- marginal: 76,373,900 -->
+
+B. 31 Kementerian Pelancongan
+
+<!-- marginal: 10,000,000 -->
+
+B. 42 Kementerian Kesihatan
+
+<!-- marginal: 200,006,100 -->
+
+B. 44 Kementerian Kebudayaan, Kesenian dan
+
+<!-- marginal: 1,550,000 -->
+
+Warisan B. 60 Kementerian Pertahanan
+
+<!-- marginal: 157,147,300 -->
+
+B. 62 Kementerian Keselamatan Dalam Negeri
+
+<!-- marginal: 175,168,700 -->
 
 ## JUMLAH
 

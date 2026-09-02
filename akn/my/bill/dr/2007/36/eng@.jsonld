@@ -1,0 +1,296 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-36-2007",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_6"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Elections (Amendment) Bill 2007"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Elections (Amendment) Act 2007."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Elections Act 1958 [Act 19], which is referred to as the \"principal Act\" in this Act, is amended in section 2 —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"Parliamentary elector\" the following definition: ' \"polling centre\" means any building, structure, vehicle or vessel, at the place appointed under section 7, set apart and equipped for the purpose of polling and counting of votes;'; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of \"polling station\" the following definition: \"polling station\" means any room or partition which is also known as stream provided by the Election Commission in the polling centre.'. Amendment of section 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_3__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 7 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the words \"polling stations\" the words \"polling centres\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_3__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_3__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)-"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_3__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_3__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c), by substituting for the words \"station or stations\" the words \"centre or centres\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_3__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_3__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (d)(iii), by substituting for the words \"station or stations\" the words \"centre or centres\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the word \"station\" the word \"centre\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4) by substituting for the word \"station\" wherever appearing in the subsection the word \"centre\". Amendment of section 8"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_4__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_4__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_4__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 8 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection ( 1 ) the following subsection: \"(1) The Election Commission may, subject to Clause ( 1 ) of Article 115 of the Constitution, appointee a Chief Registrar of Electors for Malaysia; (b) a Deputy Chief Registrar of Electors for Malaysia; (c) a Registrar of Electors for each State; (d) a Deputy Registrar of Electors for each State; (e) such number of Assistant Registrars of Electors as it may consider necessary; and (f) an Adjudicating Officer for each registration area.\"; Elections Act"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by deleting the words \"in the State for which he is appointed\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (4) the following subsection: \"(4) Subject to the direction, control and supervision of the Deputy Chief Registrar, the Registrar shall have and may exercise all the powers and perform all the functions of the Chief Registrar relating to the registration of electors under this Act or any regulations made under this Act in the State for which he is appointed.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_4__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (4) the following subsection: \"(4A) Subject to the direction, control and supervision of the Registrar, the Deputy Registrar shall have and may exercise all the powers and perform all the functions of the Chief Registrar relating to the registration of electors under this Act or any regulations made under this Act in the State for which he is appointed.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_4__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (5) the following subsection: \"(5) Subject to the direction, control and supervision of the Deputy Registrar, an Assistant Registrar shall assist the Registrar and Deputy Registrar in the exercise of their powers and the performance of their functions.\". Amendment of section 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 14 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the word \"stations\" the word \"centres\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsections (1) and (2), by substituting for the word \"station\" the word \"centre\". Amendment of section 16"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/36/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 16(2) of the principal Act is amended by substituting for paragraph (e) the following paragraph: \"(e) prescribe the facilities to be provided at polling centres, and the persons who may be admitted to polling centres on the date at which a poll is taken, and provide for the appointment of a presiding officer or presiding officers and other officers or staff in respect of each polling centres;\"."
+      }
+    }
+  ]
+}

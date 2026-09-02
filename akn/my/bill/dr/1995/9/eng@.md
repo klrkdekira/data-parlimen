@@ -28,9 +28,7 @@ inserting after the words "71," in subsection 3(2) the words "7lA, 7lB, 71c," .
 
 3. The principal Act is amended by inserting after section 18 the following section:
 
-Power of
-
-18A. (1) The Registrar-General may direct any Registrar- registered society to convene a general meeting, General to direct the within a period to be specified by him which is convening not less than three months from the date of the of a notification given by him, for the purpose of general meeting amending its by-laws if the Registrar-General for amend- ment of is satisfied that— by-laws.
+Power of 18A. (1) The Registrar-General may direct any Registrar- registered society to convene a general meeting, General to direct the within a period to be specified by him which is convening not less than three months from the date of the of a notification given by him, for the purpose of general meeting amending its by-laws if the Registrar-General for amend- ment of is satisfied that— by-laws.
 
 (a) any by-law of a registered society is ambiguous or doubtful in interpretation and is likely to mislead or it conflicts with or is inconsistent with this Act or any regulations made thereunder; or
 
@@ -40,15 +38,25 @@ Power of
 
 (2) If no general meeting is convened within the time specified in subsection (1), the Registrar- General may amend the by-laws of the registered society on his own motion and any amendment made shall be deemed to be a registered amendment under section 18.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. The principal Act is amended by substituting for the of section words "saham perdagangan" in paragraph 59(4)(d) of the
+4. The principal Act is amended by substituting for the
+
+<!-- marginal: of section -->
+
+words "saham perdagangan" in paragraph 59(4)(d) of the
 
 59. national language text the words "stok perniagaan".
 
-New sections
+<!-- marginal: New sections -->
 
-5. The principal Act is amended by inserting after section 71A, 71B and 71 the following sections: 71c.
+5. The principal Act is amended by inserting after section
+
+<!-- marginal: 71A, 71B and -->
+
+71 the following sections:
+
+<!-- marginal: 71c. -->
 
 Dissolution 7 1A. (1) Notwithstanding the provisions of in certain subsection 71(1), where in respect of a registered specific society, other than a registered society which is circum- stances. under investigation or is controlled or managed under the Essential (Protection of Depositors) P.V. (A) 237/86. Regulations 1986, the membership of the registered society is of such number as shall render compliance with subsection 71(1) not reasonably practicable and if the Registrar- General has received an application from—
 
@@ -98,7 +106,7 @@ the member shall be deemed to have assented to the decision to dissolve and re-o
 
 ## CO-OPERATIVE SOCIETIES (AMENDMENT)
 
-<!-- marginal: 5 -->
+5
 
 of providing consultancy and advisory services relating to corporate and investment matters;
 
@@ -126,7 +134,9 @@ Provided that the order of revocation shall have no force or effect until,—
 
 (c) all approvals, consents or endorsements referred to in paragraph (6)(h) have been obtained.
 
-(8) For the purpose of subsection (7), the date of expiry of the period referred to in paragraph (6)(a) shall be the later date of the following:
+(8) For the purpose of subsection (7), the date of expiry of the period referred to in paragraph
+
+(6)(a) shall be the later date of the following:
 
 (a) two months from the date of the last date of posting of the notification under subsection (1);
 
@@ -134,7 +144,9 @@ Provided that the order of revocation shall have no force or effect until,—
 
 (9) Any costs incurred by the Registrar-General pursuant to this section, including any costs incurred under subsection (4), shall be borne by the registered society.
 
-(10) The notification referred to in subsection (6) shall be in writing and shall be sent by ordinary post to the member of the registered society at his last known address.
+(10) The notification referred to in subsection
+
+(6) shall be in writing and shall be sent by ordinary post to the member of the registered society at his last known address.
 
 (11) Without prejudice to subsection (10), in addition to service of the notification by ordinary post to members of the registered society, the Registrar-General shall also notify or cause to be
 
@@ -156,7 +168,21 @@ notified members of all matters referred to in subsections (1) and (6) by public
 
 <!-- page 8 -->
 
-Provision 71B. Where pursuant to subsection 71A(7) the for Registrar-General makes an order for the dissenting revocation of the registration of a registered members. society, he shall, in relation to any member who has not assented to the dissolution and re- organisation of the society as a company, make an order to distribute to that member such sum of money being the value of the proportion of the assets of that society as would otherwise be distributed to him under paragraph 75(1)(p):
+<!-- marginal: Provision -->
+
+71B. Where pursuant to subsection 71A(7) the
+
+<!-- marginal: for -->
+
+Registrar-General makes an order for the
+
+<!-- marginal: dissenting -->
+
+revocation of the registration of a registered
+
+<!-- marginal: members. -->
+
+society, he shall, in relation to any member who has not assented to the dissolution and re- organisation of the society as a company, make an order to distribute to that member such sum of money being the value of the proportion of the assets of that society as would otherwise be distributed to him under paragraph 75(1)(p):
 
 Provided that—
 
@@ -164,17 +190,33 @@ Provided that—
 
 (b) any resolution of the dispute on appeal or otherwise after the vesting date referred to in subsection 71c (1) shall be a liability of the successor company.
 
-Transfer of 71c. (1) In respect of a registered society referred assets of to in subsection 71A(7), the Registrar-General registered society to may, after making the distribution under section company. 71B, if any, and after consulting the registered society, by order published in the Gazette, appoint a vesting date and on such date, all assets, rights or liabilities of the registered society specified by the Registrar-General in the order shall by virtue of this Act be vested in the company referred to in the scheme of re-organisation without any conveyance, assignment or transfer whatever.
+<!-- marginal: Transfer of -->
 
-(2) Every asset vested by virtue of subsection (1) in the company shall be so vested in the company for the like title, estate or interest and on the like tenure as the same was vested or held immediately before the vesting date.
+71c. (1) In respect of a registered society referred
+
+<!-- marginal: assets of -->
+
+to in subsection 71A(7), the Registrar-General
+
+<!-- marginal: registered -->
+
+<!-- marginal: society to -->
+
+may, after making the distribution under section
+
+<!-- marginal: company. -->
+
+71B, if any, and after consulting the registered society, by order published in the Gazette, appoint a vesting date and on such date, all assets, rights or liabilities of the registered society specified by the Registrar-General in the order shall by virtue of this Act be vested in the company referred to in the scheme of re-organisation without any conveyance, assignment or transfer whatever.
+
+(2) Every asset vested by virtue of subsection
+
+(1) in the company shall be so vested in the company for the like title, estate or interest and on the like tenure as the same was vested or held immediately before the vesting date.
 
 <!-- page 9 -->
 
 (3) Every chose-in-action vested by virtue of subsection (1) in the company may, after the vesting date, be sued on, recovered or enforced by the company in its own name and it shall not be necessary for the company to give notice to the person bound by the chose-in-action of the vesting effected by subsection (1).
 
-(4) Every right and liability vested by subsection
-
-(1) in the company may, on and after the vesting date, be sued on, recovered or enforced by or against the company in its own name and it shall not be necessary for the company to give notice to the person whose right or liability is affected by the vesting under subsection (1).
+(4) Every right and liability vested by subsection (1) in the company may, on and after the vesting date, be sued on, recovered or enforced by or against the company in its own name and it shall not be necessary for the company to give notice to the person whose right or liability is affected by the vesting under subsection (1).
 
 (5) Any pending legal proceedings by or against the registered society which relate to any asset, right or liability transferred to and vested in the company by virtue of subsection (1) may, on and after the vesting date, be continued by or against the company.
 
@@ -206,9 +248,11 @@ Transfer of 71c. (1) In respect of a registered society referred assets of to in
 
 <!-- page 10 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-9. Subsection 86(2) of the principal Act is amended— of section 86.
+9. Subsection 86(2) of the principal Act is amended—
+
+<!-- marginal: of section 86. -->
 
 (a) by substituting for the full stop appearing at the end of paragraph (p) a semicolon; and
 
@@ -216,9 +260,13 @@ Amendment
 
 "(q) make provisions for the better carrying out of this Act and in particular provisions relating to sections 7lA, 71B and 71c.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-10. The principal Act is amended by substituting for of section 91. paragraph 91(1)(g) the following paragraph:
+10. The principal Act is amended by substituting for
+
+<!-- marginal: of section 91. -->
+
+paragraph 91(1)(g) the following paragraph:
 
 "(g) a registered society or any person does or causes to be done any act or thing prohibited by, or fails to comply with, the requirements of this Act.".
 

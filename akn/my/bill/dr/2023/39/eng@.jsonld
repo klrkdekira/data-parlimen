@@ -204,7 +204,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/39/eng@/~cl_4",
       "schema:text": {
         "@language": "en",
-        "@value": "in section 48— “(4a) Notwithstanding subsection (4), the Board may reduce or extend the period of membership of the SRC and its office-bearers.”; “(11a) The University may establish any fund or own any property to be managed or maintained by the SRC in accordance with the financial procedure of the University. (11b) Notwithstanding subsection (11 a), the SRC may, subject to any written law, establish, manage or maintain any fund in the manner as may be prescribed in the regulations made by the Board.”; and “(12a) For the purpose of section 15a of the Universities and University Colleges Act 1971, the Board may make regulations to prescribe the manner for the making or organizing of or the taking part in the collection of money or the receiving of money or other contributions by the SRC.”; and"
+        "@value": "in section 48—"
       }
     },
     {
@@ -224,7 +224,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/39/eng@/~cl_4__para_a",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after subsection (4) the following subsection:"
+        "@value": "by inserting after subsection (4) the following subsection: “(4a) Notwithstanding subsection (4), the Board may reduce or extend the period of membership of the SRC and its office-bearers.”;"
       }
     },
     {
@@ -244,7 +244,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/39/eng@/~cl_4__para_a",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after subsection (11) as deleted the following subsections:"
+        "@value": "by inserting after subsection (11) as deleted the following subsections: “(11a) The University may establish any fund or own any property to be managed or maintained by the SRC in accordance with the financial procedure of the University. (11b) Notwithstanding subsection (11 a), the SRC may, subject to any written law, establish, manage or maintain any fund in the manner as may be prescribed in the regulations made by the Board.”; and"
       }
     },
     {
@@ -254,7 +254,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/39/eng@/~cl_4__para_a",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after subsection (12) the following subsection:"
+        "@value": "by inserting after subsection (12) the following subsection: “(12a) For the purpose of section 15a of the Universities and University Colleges Act 1971, the Board may make regulations to prescribe the manner for the making or organizing of or the taking part in the collection of money or the receiving of money or other contributions by the SRC.”; and"
       }
     },
     {

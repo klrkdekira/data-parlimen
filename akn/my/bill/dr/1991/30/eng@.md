@@ -74,9 +74,25 @@ Supply (1990 and 1991) Act 1991.
 
 (Section 2)
 
-Purpose Title Appropriation to purpose
+<!-- marginal: Purpose -->
 
-B. 26 Ministry of Education 92,600 B. 27 Ministry of Foreign Affairs 3,334,900 B. 43 Civil Defence Department 800 B. 59 National Unity Department 1,799,000
+Title Appropriation to purpose
+
+<!-- marginal: B. 26 -->
+
+Ministry of Education 92,600
+
+<!-- marginal: B. 27 -->
+
+Ministry of Foreign Affairs 3,334,900
+
+<!-- marginal: B. 43 -->
+
+Civil Defence Department 800
+
+<!-- marginal: B. 59 -->
+
+National Unity Department 1,799,000
 
 ## TOTAL
 
@@ -86,9 +102,49 @@ B. 26 Ministry of Education 92,600 B. 27 Ministry of Foreign Affairs 3,334,900 B
 
 (Section 3)
 
-Purpose Title Appropriation to purpose
+<!-- marginal: Purpose -->
 
-B. 7 Prime Minister's Department 40,000,000 B. 14 Ministry of Housing and Local 483,800 Government B. 20 Ministry of International Trade 10,674,700 and Industry B. 26 Ministry of Education 150,000,000 B. 28 Treasury 20,513,700 B. 36 Royal Malaysia Police 32,179,100 B. 39 National Registration Department 2,399,200 B. 47 Ministry of Transport 1,587,100 B. 52 Ministry of Works 213,700,000 B. 56 Ministry of National Unity and 20,000.000 Social Development
+Title Appropriation to purpose
+
+<!-- marginal: B. 7 -->
+
+Prime Minister's Department 40,000,000
+
+<!-- marginal: B. 14 -->
+
+Ministry of Housing and Local 483,800 Government
+
+<!-- marginal: B. 20 -->
+
+Ministry of International Trade 10,674,700 and Industry
+
+<!-- marginal: B. 26 -->
+
+Ministry of Education 150,000,000
+
+<!-- marginal: B. 28 -->
+
+Treasury 20,513,700
+
+<!-- marginal: B. 36 -->
+
+Royal Malaysia Police 32,179,100
+
+<!-- marginal: B. 39 -->
+
+National Registration Department 2,399,200
+
+<!-- marginal: B. 47 -->
+
+Ministry of Transport 1,587,100
+
+<!-- marginal: B. 52 -->
+
+Ministry of Works 213,700,000
+
+<!-- marginal: B. 56 -->
+
+Ministry of National Unity and 20,000.000 Social Development
 
 ## TOTAL
 

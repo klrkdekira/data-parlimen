@@ -4,21 +4,31 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 PRELIMINARy 1. Short title and commencement 2. Interpretation 3. Appointment of Controller, Deputy Controller, Assistant Controllers, etc. 4. Appointment of Registrar of Trade Description Order
 
-## Part II
+## PART II
 
 ## PROHIBITION OF FALSE TRADE DESCRIPTIONS
 
-5. Prohibition of false trade description 6. Trade description 7. False trade description 8. Prohibition on false trade description in relation to trademark 9. Trade description order 10. Applying a trade description to goods 11. Trade description used in advertisements for class of goods 12. Possession for supply
+5. Prohibition of false trade description 6. Trade description 7. False trade description 8. Prohibition on false trade description in relation to trademark 9. Trade description order
 
-## Part III
+10. Applying a trade description to goods
+
+11. Trade description used in advertisements for class of goods
+
+12. Possession for supply
+
+## PART III
 
 ## MISSTATEMENTS OTHER THAN FALSE TRADE DESCRIPTIONS
 
-13. Interpretation 14. False or misleading indication as to price of goods 15. Price deemed to include tax
+13. Interpretation
+
+14. False or misleading indication as to price of goods
+
+15. Price deemed to include tax
 
 <!-- page 2 -->
 
@@ -34,7 +44,7 @@ PRELIMINARy 1. Short title and commencement 2. Interpretation 3. Appointment of 
 
 21. Contravention of Parts III to be an offence
 
-## Part IV
+## PART IV
 
 ## DEFENCES
 
@@ -46,7 +56,7 @@ PRELIMINARy 1. Short title and commencement 2. Interpretation 3. Appointment of 
 
 25. Innocent publication of advertisement
 
-## Part V
+## PART V
 
 ## PROHIBITION OF IMPORTATION OF CERTAIN GOODS, ETC.
 
@@ -54,7 +64,7 @@ PRELIMINARy 1. Short title and commencement 2. Interpretation 3. Appointment of 
 
 27. Abetting of offences committed abroad
 
-## Part VI
+## PART VI
 
 ## POWER TO DEFINE TERMS, TO REQUIRE
 
@@ -64,7 +74,7 @@ PRELIMINARy 1. Short title and commencement 2. Interpretation 3. Appointment of 
 
 29. Informative marking and certification orders
 
-## Part VII
+## PART VII
 
 ## INVESTIGATION AND ENFORCEMENT
 
@@ -80,7 +90,9 @@ Investigation and complaints
 
 ## Chapter 2
 
-Information gathering powers 32. Power of the Assistant Controller to require provision of information
+Information gathering powers
+
+32. Power of the Assistant Controller to require provision of information
 
 33. Assistant Controller may retain documents
 
@@ -134,7 +146,7 @@ Powers of arrest, search and seizure
 
 <!-- page 4 -->
 
-## Part VIII
+## PART VIII
 
 ## GENERAL
 
@@ -170,7 +182,7 @@ Powers of arrest, search and seizure
 
 71. Savings and transitional
 
-## Schedule
+## SCHEDULE
 
 <!-- page 5 -->
 
@@ -182,7 +194,7 @@ An Act for the purpose of promoting good trade practices by prohibiting false tr
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 PRELIMINARy
 
@@ -262,7 +274,7 @@ by any means including through electronic means.
 
 (2) The Minister shall appoint, from among public officers, a Registrar of Trade Description Order who shall cause a public register of trade description orders to be established and maintained.
 
-## Part II
+## PART II
 
 ## PROHIBITION OF FALSE TRADE DESCRIPTIONS
 
@@ -432,7 +444,7 @@ making it likely or unlikely that a person to whom the goods are supplied would 
 
 12. A person having in his possession three or more of the same goods of similar description and bearing the same trade description mentioned under sections 6 and 8 is deemed to have in possession the goods for supply.
 
-## Part III
+## PART III
 
 ## MISSTATEMENTS OTHER THAN FALSE TRADE DESCRIPTIONS
 
@@ -560,7 +572,7 @@ as to any of the following matters:
 
 (b) if such person is not a body corporate, to a fine not exceeding two hundred and fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both and for a second or subsequent offence, to a fine not exceeding five hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both.
 
-## Part IV
+## PART IV
 
 ## DEFENCES
 
@@ -610,7 +622,7 @@ and that he took all reasonable precautions and exercised all due diligence to a
 
 (c) that he did not know or had no reason to suspect that its publication would amount to an offence under this Act.
 
-## Part V
+## PART V
 
 ## PROHIBITION OF IMPORTATION OF CERTAIN GOODS, ETC.
 
@@ -638,7 +650,7 @@ and that he took all reasonable precautions and exercised all due diligence to a
 
 (3) Any person who, in Malaysia, assists in or induces the commission of an act in any other country, in respect of goods which if the act were committed in Malaysia would be an offence under section 26, commits an offence.
 
-## Part VI
+## PART VI
 
 ## POWER TO DEFINE TERMS, TO REQUIRE
 
@@ -704,7 +716,7 @@ goods of that description in contravention of the order commits an offence and s
 
 (3) For the purpose of this section, “competent authority” means a competent authority named by the Minister after obtaining the agreement of the competent authority.
 
-## Part VII
+## PART VII
 
 ## INVESTIGATION AND ENFORCEMENT
 
@@ -1036,7 +1048,7 @@ commits an offence.
 
 <!-- page 39 -->
 
-## Part VIII
+## PART VIII
 
 ## GENERAL
 
@@ -1200,7 +1212,7 @@ commits an offence.
 
 (e) any reference to the repealed Act in any written law shall be construed as a reference to this Act and any reference to any specific provision of the repealed Act in any written law shall be construed as a reference to a provision of this Act which corresponds as nearly as may be to such specific provision.
 
-## Schedule
+## SCHEDULE
 
 [Subsection 6(3)]
 
@@ -1212,7 +1224,7 @@ The Trade Descriptions Bill 2011 (“the Bill”) is enacted to reform the law o
 
 <!-- page 46 -->
 
-## Part I
+## PART I
 
 2. Part I deals with preliminary matters.
 
@@ -1224,7 +1236,7 @@ The Trade Descriptions Bill 2011 (“the Bill”) is enacted to reform the law o
 
 6. Clause 4 provides for the appointment of a Registrar of Trade Description Order who shall cause a public register of trade description orders to be established and maintained.
 
-## Part II
+## PART II
 
 7. Part II contains provisions on the prohibition of false trade descriptions.
 
@@ -1246,7 +1258,7 @@ The Trade Descriptions Bill 2011 (“the Bill”) is enacted to reform the law o
 
 15. Clause 12 deals with possession of three or more of the same goods of similar description and bearing the same trade description.
 
-## Part III
+## PART III
 
 16. Part III deals with provisions relating to misstatements other than false trade descriptions.
 
@@ -1268,7 +1280,7 @@ The Trade Descriptions Bill 2011 (“the Bill”) is enacted to reform the law o
 
 25. Clause 21 provides for the penalty for offences under this Part.
 
-## Part IV
+## PART IV
 
 26. Part IV contains provisions on defences.
 
@@ -1282,7 +1294,7 @@ The Trade Descriptions Bill 2011 (“the Bill”) is enacted to reform the law o
 
 30. Clause 25 seeks to provide for the defence of innocent publication of advertisement.
 
-## Part V
+## PART V
 
 31. Part V contains provisions on the prohibition of importation of certain goods, etc..
 
@@ -1290,17 +1302,15 @@ The Trade Descriptions Bill 2011 (“the Bill”) is enacted to reform the law o
 
 33. Clause 27 seeks to make it an offence for a person who abets offences committed abroad.
 
-## Part VI
+## PART VI
 
 34. Part VI contains provision on the power to define terms, to require information to be given, etc..
 
 35. Clauses 28 and 29 empower the Minister to assign any expressions used in relation to goods or services as having definite meanings. The Minister may by order assign such meanings either to expressions when it is used in the course of trade or business or when it is used in such circumstances as may be specified in the order. The Minister may also by order, impose requirements for securing that the goods are so certified, marked or accompanied by any information and regulate or prohibit the supply of the goods with respect to which the requirements may extend to the form and manner in which the information or instruction is to be given.
 
-## Part VII
+## PART VII
 
-36. Part VII contains provision on investigation and enforcement. This part is divided into 3 Chapters. Chapter 1 contains provisions on investigation and complaints, Chapter 2 contains provisions on information gathering powers and
-
-## Chapter 3 contains provisions on the power of arrest, search and seizure.
+36. Part VII contains provision on investigation and enforcement. This part is divided into 3 Chapters. Chapter 1 contains provisions on investigation and complaints, Chapter 2 contains provisions on information gathering powers and Chapter 3 contains provisions on the power of arrest, search and seizure.
 
 37. Clause 30 seeks to empower the Assistant Controller to undertake an investigation where the Assistant Controller has reasonable grounds to suspect that any offence is or will be committed under the proposed Act.
 

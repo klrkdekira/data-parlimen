@@ -14,7 +14,7 @@
 
 2. Pindaan Akta
 
-## bAb II
+## BAB II
 
 ## PINDAAN KEPADA AKTA CUKAI PENDAPATAN 1967
 
@@ -90,7 +90,7 @@
 
 35. Pindaan Jadual 5
 
-## bAb IV
+## BAB IV
 
 ## PINDAAN KEPADA AKTA SETEM 1949
 
@@ -114,7 +114,7 @@
 
 44. Pindaan Jadual Pertama
 
-## bAb V
+## BAB V
 
 ## PINDAAN KEPADA AKTA PETROLEUM (CUKAI PENDAPATAN) 1967
 
@@ -132,7 +132,7 @@
 
 51. Pindaan seksyen 66A
 
-## bAb VI
+## BAB VI
 
 ## PINDAAN KEPADA AKTA CUKAI AKTIVITI PERNIAGAAN LABUAN 1990
 
@@ -174,7 +174,7 @@
 
 65. Pindaan seksyen 3
 
-## bAb IX
+## BAB IX
 
 ## PINDAAN KEPADA AKTA KEWANGAN 2018
 
@@ -190,7 +190,7 @@ Suatu Akta untuk meminda Akta Cukai Pendapatan 1967, Akta Cukai Keuntungan Harta
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## bAb I
+## BAB I
 
 ## PERMULAAN
 
@@ -204,7 +204,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 6 -->
 
-## bAb II
+## BAB II
 
 ## PINDAAN KEPADA AKTA CUKAI PENDAPATAN 1967
 
@@ -326,11 +326,7 @@ Provided that—
 
 (a) for the purposes of subparagraphs (i) and (ii), the payment is made on or after 1 March 2020 but not later than 31 December 2022; and
 
-(b) for the purposes of subparagraph
-
-<!-- marginal: (iii), -->
-
-the purchase is made on or after 1 January 2021 but not later than 31 December 2022;”;
+(b) for the purposes of subparagraph (iii), the purchase is made on or after 1 January 2021 but not later than 31 December 2022;”;
 
 (f) dalam perenggan (t)—
 
@@ -608,11 +604,7 @@ Provided that the Director General may under special circumstances allow extensi
 
 “(2) Notwithstanding subparagraph (1), income tax shall be charged for a year of assessment on the chargeable income of a company other than a company to which paragraph 2A applies which has chargeable income exceeding one hundred million ringgit in the basis period for the year of assessment 2022 at the following rates:
 
-Chargeable RM
-
-<!-- marginal: Rate of -->
-
-income income tax For every ringgit 100,000,000 24 per cent of the first For every ringgit 100,000,000 33 per cent”; dan exceeding
+Chargeable RM Rate of income income tax For every ringgit 100,000,000 24 per cent of the first For every ringgit 100,000,000 33 per cent”; dan exceeding
 
 (b) dengan memasukkan selepas Bahagian XVIII bahagian yang berikut:
 
@@ -620,7 +612,7 @@ income income tax For every ringgit 100,000,000 24 per cent of the first For eve
 
 Notwithstanding Parts I, II and IV, income tax shall be charged for a year of assessment on the income of a unit holder other than an individual referred to in section 109dA which is derived from Malaysia at the rate of 24 per cent of gross.
 
-## PArt XX
+## PART XX
 
 Notwithstanding Parts I and IV, income tax shall be charged on the income of a person who is a resident which is received in Malaysia from outside Malaysia at the rate of 3 per cent of gross.”.
 
@@ -656,7 +648,7 @@ Notwithstanding Parts I and IV, income tax shall be charged on the income of a p
 
 <!-- page 24 -->
 
-### Pindaan Jadual 7a
+<!-- marginal: Pindaan Jadual 7a -->
 
 28. Jadual 7A kepada Akta ibu dipinda—
 
@@ -740,11 +732,13 @@ melebihi lima peratus daripada jumlah nilai balasan itu, mengikut mana-mana yang
 
 <!-- page 27 -->
 
-### Pindaan Jadual 2
+<!-- marginal: Pindaan Jadual 2 -->
 
 33. Jadual 2 kepada Akta ibu dipinda—
 
-(a) dalam perenggan 3, dengan menggantikan subsubperenggan 3(1)(b) dengan subsubperenggan yang berikut:
+(a) dalam perenggan 3, dengan menggantikan subsubperenggan 3(1)(b) dengan subsubperenggan yang
+
+<!-- marginal: berikut: -->
 
 “(b) (i) pemindahmilikan aset antara suami isteri; atau
 
@@ -752,11 +746,23 @@ melebihi lima peratus daripada jumlah nilai balasan itu, mengikut mana-mana yang
 
 (b) dalam subperenggan 33(d), dengan memasukkan selepas perkataan “perenggan” perkataan “34 atau”.
 
-### Pindaan Jadual 4
+<!-- marginal: Pindaan Jadual 4 -->
 
-34. Jadual 4 kepada Akta ibu dipinda dalam perenggan 2 dengan menggantikan formula kepada perenggan tersebut dengan formula yang berikut: “(a) yang berhubungan dengan pelupusan harta tanah— AxC — B
+34. Jadual 4 kepada Akta ibu dipinda dalam perenggan 2 dengan menggantikan formula kepada perenggan tersebut dengan formula
 
-iaitu A ialah bahagian keluasan aset yang boleh dikenakan cukai yang dilupuskan; B ialah jumlah keluasan aset yang boleh dikenakan cukai; C ialah sepuluh ribu;
+<!-- marginal: yang berikut: -->
+
+“(a) yang berhubungan dengan pelupusan harta tanah—
+
+<!-- marginal: AxC -->
+
+—
+
+<!-- marginal: B -->
+
+<!-- marginal: iaitu -->
+
+A ialah bahagian keluasan aset yang boleh dikenakan cukai yang dilupuskan; B ialah jumlah keluasan aset yang boleh dikenakan cukai; C ialah sepuluh ribu;
 
 atau sepuluh peratus keuntungan yang boleh dikenakan cukai, mengikut mana-mana yang lebih tinggi;
 
@@ -778,7 +784,7 @@ atau sepuluh peratus keuntungan yang boleh dikenakan cukai, mengikut mana-mana y
 
 (b) dalam Bahagian II, dengan menggantikan perkataan “pertubuhan yang didaftarkan di bawah Akta Pertubuhan 1966 [Akta 335]” dengan perkataan “kumpulan orang yang didaftarkan di bawah mana-mana undang-undang bertulis di Malaysia”.
 
-## bAb IV
+## BAB IV
 
 ## PINDAAN KEPADA AKTA SETEM 1949
 
@@ -876,7 +882,7 @@ RM1,000 of the value of any marketable securities
 
 <!-- page 32 -->
 
-## bAb V
+## BAB V
 
 ## PINDAAN KEPADA AKTA PETROLEUM
 
@@ -924,7 +930,7 @@ RM1,000 of the value of any marketable securities
 
 “(a) the applicant may, within six months after being informed of the decision, request in the prescribed form for the Director General to forward the application to the Special Commissioners;”.
 
-## bAb VI
+## BAB VI
 
 ## PINDAAN KEPADA AKTA CUKAI AKTIVITI
 
@@ -1132,7 +1138,7 @@ dan
 
 “(4) Seksyen 10 mula berkuat kuasa dari tahun taksiran 2012 hingga tahun taksiran 2021 dan berkenaan dengan perenggan 10(c) hingga tahun taksiran 2025.”.
 
-## bAb IX
+## BAB IX
 
 ## PINDAAN KEPADA AKTA KEWANGAN 2018
 
@@ -1468,11 +1474,7 @@ Pindaan ini mula berkuat kuasa pada 1 Januari 2022.
 
 38. Fasal 42 bertujuan untuk meminda subseksyen 77A(1) Akta 378.
 
-Perenggan 42(c) bertujuan untuk memasukkan perenggan baharu 77A(1)(e) ke dalam Akta 378 untuk membolehkan pembayar duti yang tidak berpuas hati dengan suatu taksiran atau taksiran tambahan oleh Pemungut di bawah
-
-## Bahagian V Akta 378 untuk membuat suatu notis bantahan di bawah seksyen 38A
-
-Akta 378 dengan cara perantaraan elektronik bagi Pemungut untuk menyemak taksiran itu.
+Perenggan 42(c) bertujuan untuk memasukkan perenggan baharu 77A(1)(e) ke dalam Akta 378 untuk membolehkan pembayar duti yang tidak berpuas hati dengan suatu taksiran atau taksiran tambahan oleh Pemungut di bawah Bahagian V Akta 378 untuk membuat suatu notis bantahan di bawah seksyen 38A Akta 378 dengan cara perantaraan elektronik bagi Pemungut untuk menyemak taksiran itu.
 
 <!-- page 55 -->
 

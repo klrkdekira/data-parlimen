@@ -336,7 +336,7 @@
 
 ### Schedule the following Schedules:
 
-“Seventh Schedule
+## “SEVENTH SCHEDULE
 
 [Sections 1a and 6a]
 
@@ -344,7 +344,7 @@
 
 ## UNITED NATIONS HAVING THE FORCE OF LAW IN MALAYSIA
 
-Article I
+## Article I
 
 ## JURIDICAL PERSONALITY
 
@@ -358,7 +358,7 @@ The United Nations shall possess juridical personality. It shall have the capaci
 
 (c) to institute legal proceedings.
 
-Article II
+## Article II
 
 ## PROPERTY, FUNDS AND ASSETS
 
@@ -408,7 +408,7 @@ The United Nations, its assets, income and other property shall be—
 
 While the United Nations will not, as a general rule, claim exemption from excise duties and from taxes on the sale of movable and immovable property which form part of the price to be paid, nevertheless when the United Nations is making important purchases for official use of property on which such duties and taxes have been charged or are chargeable, Members will, whenever possible, make appropriate administrative arrangements for the remission or return of the amount of duty or tax.
 
-Article III
+## Article III
 
 ## FACILITIES IN RESPECT OF COMMUNICATIONS
 
@@ -420,7 +420,7 @@ The United Nations shall enjoy in the territory of each Member for its official 
 
 The United Nations shall have the right to use codes and to despatch and receive its correspondence by courier or in bags, which shall have the same immunities and privileges as diplomatic couriers and bags.
 
-Article IV
+## Article IV
 
 ## THE REPRESENTATIVES OF MEMBERS
 
@@ -470,7 +470,7 @@ The provisions of sections 11, 12 and 13 are not applicable between a representa
 
 In this Article, the expression “representatives” shall be deemed to include all delegates, deputy delegates, advisers, technical experts and secretaries of delegations.
 
-Article V
+## Article V
 
 ## OFFICIALS
 
@@ -512,7 +512,7 @@ Privileges and immunities are granted to officials in the interests of the Unite
 
 The United Nations shall cooperate at all times with the appropriate authorities of Members to facilitate the proper administration of justice, secure the observance of police regulations and prevent the occurrence of any abuse in connection with the privileges, immunities and facilities mentioned in this Article.
 
-Article VI
+## Article VI
 
 ## EXPERTS ON MISSIONS FOR THE UNITED NATIONS
 
@@ -540,7 +540,7 @@ period of their missions, including the time spent on journeys in connection wit
 
 Privileges and immunities are granted to experts in the interests of the United Nations and not for the personal benefit of the individuals themselves. The Secretary-General shall have the right and the duty to waive the immunity of any expert in any case where, in his opinion, the immunity would impede the course of justice and it can be waived without prejudice to the interests of the United Nations.
 
-Article VII
+## Article VII
 
 ## UNITED NATIONS LAISSEZ-PASSER
 
@@ -568,7 +568,7 @@ The Secretary-General, Assistant Secretaries-General and Directors travelling on
 
 The provisions of this Article may be applied to the comparable officials of specialized agencies if the agreements for relationship made under Article 63 of the Charter so provide.
 
-Article VIII
+## Article VIII
 
 ## SETTLEMENT OF DISPUTES
 
@@ -616,7 +616,7 @@ The Secretary-General may conclude with any Member or Members supplementary agre
 
 ### Immunities) (Amendment)
 
-## eighth Schedule
+## EIGHTH SCHEDULE
 
 [Sections 1b and 6b]
 
@@ -624,7 +624,7 @@ The Secretary-General may conclude with any Member or Members supplementary agre
 
 ## SPECIALIZED AGENCIES HAVING THE FORCE OF LAW IN MALAYSIA
 
-Article I
+## Article I
 
 ## DEFINITION AND SCOPE
 
@@ -680,7 +680,7 @@ In this Convention—
 
 Each State party to this Convention in respect of any specialized agency to which this Convention has become applicable in accordance with section 37 shall accord to, or in connection with, that agency the privileges and immunities set forth in the standard clauses on the conditions specified therein, subject to any modification of those clauses contained in the provisions of the final (or revised) annex relating to that agency and transmitted in accordance with section 36 or 38.
 
-Article II
+## Article II
 
 ## JURIDICAL PERSONALITY
 
@@ -694,7 +694,7 @@ The specialized agencies shall possess juridical personality. They shall have th
 
 (c) to institute legal proceedings.
 
-Article III
+## Article III
 
 ## PROPERTY, FUNDS AND ASSETS
 
@@ -742,7 +742,7 @@ The specialized agencies, their assets, income and other property shall be—
 
 While the specialized agencies will not, as a general rule, claim exemption from excise duties and from taxes on the sale of movable and immovable property which forms part of the price to be paid, nevertheless when the specialized agencies are making important purchases for official use of property on which such duties and taxes have been charged or are chargeable, States parties to this Convention will, whenever possible, make appropriate administrative arrangements for the remission or return of the amount of duty or tax.
 
-Article IV
+## Article IV
 
 ## FACILITIES IN RESPECT OF COMMUNICATIONS
 
@@ -758,7 +758,7 @@ The specialized agencies shall have the right to use codes and to dispatch and r
 
 Nothing in this section shall be construed to preclude the adoption of appropriate security precautions to be determined by agreement between a State party to this Convention and a specialized agency.
 
-Article V
+## Article V
 
 ## REPRESENTATIVES OF MEMBERS
 
@@ -800,7 +800,7 @@ Privileges and immunities are accorded to the representatives of members, not fo
 
 The provisions of sections 13, 14 and 15 are not applicable in relation to the authorities of a State of which the person is a national or of which he is or has been a representative.
 
-Article VI
+## Article VI
 
 ## OFFICIALS
 
@@ -846,7 +846,7 @@ Privileges and immunities are granted to officials in the interests of the speci
 
 Each specialized agency shall co-operate at all times with the appropriate authorities of member States to facilitate the proper administration of justice, secure the observance of police regulations and prevent the occurrence of any abuses in connection with the privileges, immunities and facilities mentioned in this article.
 
-Article VII
+## Article VII
 
 ## ABUSES OF PRIVILEGE
 
@@ -866,7 +866,7 @@ of a privilege or immunity has occurred shall be submitted to the International 
 
 (II) In the case of an official to whom section 21 is not applicable, no order to leave the country shall be issued other than with the approval of the Foreign Minister of the country in question, and such approval shall be given only after consultation with the executive head of the specialized agency concerned; and, if expulsion proceedings are taken against an official, the executive head of the specialized agency shall have the right to appear in such proceedings on behalf of the person against whom they are instituted.
 
-Article VIII
+## Article VIII
 
 ## LAISSEZ-PASSER
 
@@ -894,7 +894,7 @@ Similar facilities to those specified in section 28 shall be accorded to experts
 
 The executive heads, assistant executive heads, heads of departments and other officials of a rank not lower than head of department of the specialized agencies, travelling on United Nations laissez-passer on the business of the specialized agencies, shall be granted the same facilities for travel as are accorded to officials of comparable rank in diplomatic missions.
 
-Article IX
+## Article IX
 
 ## SETTLEMENT OF DISPUTES
 
@@ -912,7 +912,7 @@ Each specialized agency shall make provision for appropriate modes of settlement
 
 All differences arising out of the interpretation or application of the present Convention shall be referred to the International Court of Justice unless in any case it is agreed by the parties to have recourse to another mode of settlement. If a difference arises between one of the specialized agencies on the one hand, and a member on the other hand, a request shall be made for an advisory opinion on any legal question involved in accordance with Article 96 of the Charter and Article 65 of the Statute of the Court and the relevant provisions of the agreements concluded between the United Nations and the specialized agency concerned. The opinion given by the Court shall be accepted as decisive by the parties.
 
-Article X
+## Article X
 
 ## ANNEXES AND APPLICATION TO INDIVIDUAL SPECIALIZED AGENCIES
 
@@ -956,7 +956,7 @@ The Convention shall not itself operate as to abrogate, or derogate from, any pr
 
 <!-- page 26 -->
 
-Article XI
+## Article XI
 
 ## FINAL PROVISIONS
 

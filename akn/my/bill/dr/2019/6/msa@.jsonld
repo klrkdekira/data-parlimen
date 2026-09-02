@@ -1,0 +1,1767 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-6-2019",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_44",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_45",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_46",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_47",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_48",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_49",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_50",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_51",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_52"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Cukai Perkhidmatan (Pindaan) 2019"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_1__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 15 Akta ibu dipinda dengan memasukkan selepas subseksyen (11) subseksyen yang berikut: “(12) Seksyen ini tidak terpakai bagi pemberi perkhidmatan asing.”. Pindaan seksyen 16"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 16 Akta ibu dipinda dengan memasukkan selepas subseksyen (10) subseksyen yang berikut: “(11) Seksyen ini tidak terpakai bagi orang berdaftar asing.”. Pindaan seksyen 17"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 17 Akta ibu dipinda dengan memasukkan selepas subseksyen (6) subseksyen yang berikut: “(7) Seksyen ini tidak terpakai bagi orang berdaftar asing.”. Pindaan seksyen 18"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 18 Akta ibu dipinda dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(3) Seksyen ini tidak terpakai bagi orang berdaftar asing.”. Pindaan seksyen 19"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 19 Akta ibu dipinda dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(3) Seksyen ini tidak terpakai bagi orang berdaftar asing.”. Pindaan seksyen 20"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 20 Akta ibu dipinda dengan memasukkan selepas subseksyen (4) subseksyen yang berikut: “(5) Seksyen ini tidak terpakai bagi orang berdaftar asing.”. Pindaan seksyen 21"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_16__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_16__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_16__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 21 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan memasukkan selepas perkataan “hendaklah” perkataan “, dalam masa satu tahun daripada tarikh perkhidmatan bercukai diberikan atau apa-apa tempoh lanjutan sebagaimana yang diluluskan oleh Ketua Pengarah,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: “(1 a) Walau apa pun subseksyen (1), Ketua Pengarah boleh, atas permintaan secara bertulis oleh orang berdaftar dan tertakluk kepada apa-apa syarat yang difikirkan patut olehnya, meluluskan supaya invois tidak dikeluarkan jika Ketua Pengarah berpuas hati bahawa adalah tidak wajar orang berdaftar itu mengeluarkan invois.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_16__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: “(3a) Walau apa pun subseksyen (3), jika pembayaran bagi perkhidmatan bercukai dibuat kepada apa-apa mesin atau alat yang dikendalikan dengan syiling, token atau seumpamanya, amaun pembayaran itu hendaklah termasuk amaun cukai perkhidmatan yang boleh dikenakan.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_16__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (4) subseksyen yang berikut: “(5) Seksyen ini tidak terpakai bagi orang berdaftar asing.”. Pindaan seksyen 22"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_17__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_17__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 22 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_17__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula peruntukan yang sedia ada sebagai subseksyen (1); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) sebagaimana yang dinomborkan semula subseksyen yang berikut: “(2) Seksyen ini tidak terpakai bagi orang berdaftar asing.”. Pindaan seksyen 23"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_18__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 23 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula peruntukan yang sedia ada sebagai subseksyen (1); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) sebagaimana yang dinomborkan semula subseksyen yang berikut: “(2) Seksyen ini tidak terpakai bagi orang berdaftar asing”. Pindaan seksyen 24"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 24 Akta ibu dipinda dengan memasukkan selepas subseksyen (6) subseksyen yang berikut: “(7) Seksyen ini tidak terpakai bagi orang berdaftar asing.”. Pindaan seksyen 25"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Cukai Perkhidmatan (Pindaan) 2019."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta dan Menteri boleh menetapkan tarikh yang berlainan bagi permulaan kuat kuasa peruntukan yang berlainan atau Bahagian yang berlainan Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun subseksyen (2), Menteri boleh, melalui pemberitahuan dalam Warta, menetapkan tarikh efektif bagi mengenakan dan melevikan cukai perkhidmatan ke atas perkhidmatan digital di bawah Akta ini. Seksyen baharu 1a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Cukai Perkhidmatan 2018 [Akta 807], yang disebut “Akta ibu” dalam Akta ini, dipinda dengan memasukkan selepas seksyen 1 seksyen yang berikut: “Pemakaian wilayah dan luar wilayah 1a. (1) Akta ini dan perundangan subsidiarinya hendaklah terpakai kedua-duanya di dalam dan di luar Malaysia. (2) Walau apa pun subseksyen (1), Akta ini dan perundangan subsidiarinya hendaklah terpakai bagi mana-mana orang walau apa pun kerakyatan atau kewarganegaraan, di luar had geografi Malaysia dan perairan wilayah Malaysia, jika orang itu— (a) ialah seorang pemberi perkhidmatan asing; atau (b) berdaftar di bawah seksyen 56c sebagai orang berdaftar asing.”. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 25 Akta ibu dipinda dengan memasukkan selepas subseksyen (4) subseksyen yang berikut: “(5) Seksyen ini tidak terpakai bagi orang berdaftar asing.”. Pindaan seksyen 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 26 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula subseksyen (7) yang sedia ada sebagai subseksyen (8);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula subseksyen (8) yang sedia ada sebagai subseksyen (7);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (9)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “subseksyen (7)” dengan perkataan “subseksyen (8)”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “perenggan (8)(c)” dengan perkataan “perenggan (7)(c)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21__para_d__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21__para_d__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (10)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “Mahkamah” dengan perkataan “Sebagai tambahan kepada apa-apa denda yang dikenakan oleh mahkamah di bawah subseksyen (8), mahkamah”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “subseksyen (7)” dengan perkataan “subseksyen (8)”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21__para_d__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “subseksyen (8)” dengan perkataan “subseksyen (7)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21__para_e__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21__para_e__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (11)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21__para_e__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21__para_e",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “subseksyen (7)” dengan perkataan “subseksyen (8)”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21__para_e__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21__para_e",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “subseksyen (8)” dengan perkataan “subseksyen (7)” di mana-mana jua terdapat; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (11) subseksyen yang berikut: “(12) Seksyen ini tidak terpakai bagi orang berdaftar asing.”. Pindaan seksyen 26a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 26a Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula subseksyen (3) yang sedia ada sebagai subseksyen (4);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula subseksyen (4) yang sedia ada sebagai subseksyen (3);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3) sebagaimana yang dinomborkan semula, dengan memotong perkataan “kena cukai”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22__para_d__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (5)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “subseksyen (3)” dengan perkataan “subseksyen (4)”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “perenggan (4)(c)” dengan perkataan “perenggan (3)(c)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22__para_e__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22__para_e__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22__para_e__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (6)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22__para_e__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22__para_e",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “Mahkamah” dengan perkataan “Sebagai tambahan kepada apa-apa denda yang dikenakan oleh mahkamah di bawah subseksyen (4), mahkamah”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22__para_e__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22__para_e",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “subseksyen (3)” dengan perkataan “subseksyen (4)”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22__para_e__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22__para_e",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “subseksyen (4)” dengan perkataan “subseksyen (3)”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22__para_f__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22__para_f__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (7)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22__para_f__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22__para_f",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “subseksyen (3)” dengan perkataan “subseksyen (4)”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22__para_f__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_22__para_f",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “subseksyen (4)” dengan perkataan “subseksyen (3)” di mana-mana jua terdapat. Pindaan seksyen 27"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_23__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_23__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 27 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_23__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_23__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_23__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_23__para_a__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_23__para_a__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_23__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_23__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (a)(iii), dengan memotong perkataan “atau” di hujung subperenggan itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_23__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_23__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (a) perenggan yang berikut: “(aa) mana-mana pemberi perkhidmatan asing tidak memohon bagi pendaftaran di bawah seksyen 56c; (ab) mana-mana orang berdaftar asing— (i) tidak mengemukakan suatu penyata di bawah seksyen 56h; atau (ii) mengemukakan suatu penyata yang didapati oleh Ketua Pengarah tidak lengkap atau tidak betul; atau”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_23__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_23__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “atau 26a(4)” dengan perkataan “, 26a(4) atau 56i(2)”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_23__para_a__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_23__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “oleh orang kena cukai itu atau” dengan perkataan “oleh orang kena cukai atau orang berdaftar asing itu atau”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_23__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (5)(b), dengan memasukkan selepas perkataan “orang kena cukai” perkataan “atau orang berdaftar asing”. Seksyen baharu 27a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 27 seksyen yang berikut: “Mengimbangi cukai belum bayar terhadap pembayaran 27a. Walau apa pun apa-apa peruntukan Akta ini, jika mana-mana orang tidak membayar, secara keseluruhannya atau sebahagiannya— (a) apa-apa amaun cukai perkhidmatan yang genap masa dan kena dibayar, apa-apa surcaj yang terakru, atau apa-apa penalti, fi atau wang lain yang kena dibayar di bawah Akta ini; (b) apa-apa amaun cukai perkhidmatan yang genap masa dan kena dibayar, apa-apa surcaj yang terakru, atau apa-apa penalti atau wang lain yang kena dibayar di bawah Akta Cukai Perkhidmatan 1975 [Akta 151]; (c) apa-apa amaun cukai jualan yang genap masa dan kena dibayar, apa-apa surcaj yang terakru, atau apa-apa penalti atau wang lain yang kena dibayar di bawah Akta Cukai Jualan 1972 [Akta 64]; (d) apa-apa amaun cukai jualan yang genap masa dan kena dibayar, apa-apa surcaj yang terakru, atau apa-apa penalti, fi atau wang lain yang kena dibayar di bawah Akta Cukai Jualan 2018 [Akta 806]; (e) apa-apa amaun cukai barang dan perkhidmatan yang genap masa dan kena dibayar, apa-apa surcaj yang terakru, atau apa-apa penalti atau wang lain yang kena dibayar di bawah Akta Cukai Barang dan Perkhidmatan 2014 [Akta 762]; (f) apa-apa amaun duti kastam, atau apa-apa surcaj yang terakru, atau apa-apa penalti, fi atau wang lain yang kena dibayar di bawah Akta Kastam 1967; atau (g) apa-apa amaun duti eksais, atau apa-apa surcaj yang terakru, atau apa-apa penalti, fi atau wang lain yang kena dibayar di bawah Akta Eksais 1976 [Akta 176], Ketua Pengarah boleh mengimbangkan, terhadap amaun yang masih belum dibayar yang disebut dalam perenggan (a), (b), (c), (d), (e), (f) atau (g), apa-apa amaun atau mana-mana bahagian daripada apa-apa amaun yang boleh dibayar balik di bawah Akta ini kepada orang itu dan Ketua Pengarah hendaklah mengira amaun yang diimbangkan itu sebagai pembayaran atau sebahagian pembayaran yang diterima daripada orang itu.”. Pindaan seksyen 28"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_25__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_25__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 28 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_25__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan memasukkan selepas perkataan “perkhidmatan bercukai” perkataan “atau perkhidmatan digital” di mana-mana jua terdapat; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_25__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_25__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_25__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_25__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_25__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_25__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan menggantikan perkataan “atau 22” dengan perkataan “, 22 atau 56g”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_25__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_25__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan memasukkan selepas perkataan “perkhidmatan bercukai” perkataan “atau perkhidmatan digital” di mana-mana jua terdapat; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_25__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_25__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c), dengan memasukkan selepas perkataan “orang berdaftar” perkataan “atau orang berdaftar asing”. Pindaan seksyen 29"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_26__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_26__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 29 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_26__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan memasukkan selepas perkataan “orang kena cukai” perkataan “atau orang berdaftar asing”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_26__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “orang kena cukai” perkataan “atau orang berdaftar asing” di mana-mana jua terdapat. Pindaan seksyen 31"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_27__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_27__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 31(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_27__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan memasukkan selepas perkataan “26(4)” perkataan “atau 26a(1)”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_27__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan memasukkan selepas perkataan “26(8)” perkataan “atau 26a(4)”. Pindaan seksyen 32"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_28__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_28__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 32 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_28__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan memasukkan selepas perkataan “subseksyen 26(8)” perkataan “atau 26a(4)”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_28__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: “(4) Seksyen ini tidak terpakai bagi orang berdaftar asing.”. Pindaan seksyen 34"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_29__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_29__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_29__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 34 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_29__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_29__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_29__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_29__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_29__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “perkhidmatan bercukai” perkataan “atau perkhidmatan digital”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_29__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_29__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “yang diberikan” perkataan “atau mana-mana perkhidmatan bercukai diimport yang diperoleh”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_29__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_29__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_29__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan 3(a)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_29__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_29__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “perkhidmatan bercukai” perkataan “atau perkhidmatan digital”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_29__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_29__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “yang diberikan” perkataan “atau mana-mana perkhidmatan bercukai diimport yang diperoleh”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_29__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_29__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_29__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_29__para_c__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_29__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_29__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “apa-apa perkhidmatan bercukai” perkataan “atau orang berdaftar asing memberikan apa-apa perkhidmatan digital”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_29__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_29__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “orang berdaftar itu” perkataan “atau orang berdaftar asing itu”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_29__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_29__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “atas perkhidmatan bercukai itu” dengan perkataan “atas perkhidmatan bercukai atau perkhidmatan digital itu”. Pindaan seksyen 35"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_3__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_3__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_3__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 2(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 35 Akta ibu dipinda dengan memasukkan selepas subseksyen (4) subseksyen yang berikut: “(5) Seksyen ini tidak terpakai bagi orang berdaftar asing.”. Pindaan seksyen 36"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_31__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_31__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 36 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_31__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula peruntukan yang sedia ada sebagai subseksyen (1); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_31__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) sebagaimana yang dinomborkan semula subseksyen yang berikut: “(2) Seksyen ini tidak terpakai bagi orang berdaftar asing.”. Pindaan seksyen 39"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 39 Akta ibu dipinda dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(3) Seksyen ini tidak terpakai bagi orang berdaftar asing.”. Pindaan seksyen 40"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 40 Akta ibu dipinda dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: “(4) Seksyen ini tidak terpakai bagi orang berdaftar asing.”. Seksyen baharu 40a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bahagian VII Akta ibu dipinda dengan memasukkan sebelum seksyen 41 seksyen yang berikut: “Ketidakpakaian Bahagian VII 40a. Bahagian ini tidak terpakai bagi orang berdaftar asing.”. Seksyen baharu 46a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bahagian VIII Akta ibu dipinda dengan memasukkan sebelum seksyen 47 seksyen yang berikut: “Ketidakpakaian Bahagian VIII 46a. Bahagian ini tidak terpakai bagi orang berdaftar asing.”. Seksyen baharu 51a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bahagian IX Akta ibu dipinda dengan memasukkan sebelum seksyen 52 seksyen yang berikut: “Ketidakpakaian Bahagian IX 51a. Bahagian ini tidak terpakai bagi orang berdaftar asing.”. Bahagian baharu IXa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas Bahagian IX bahagian yang berikut: “BAHAGIAN IXA PERKHIDMATAN DIGITAL Pengenaan cukai perkhidmatan ke atas perkhidmatan digital 56a. (1) Walau apa pun apa-apa peruntukan Akta ini, cukai perkhidmatan hendaklah dikenakan dan dilevikan ke atas mana-mana perkhidmatan digital yang diberikan oleh orang berdaftar asing kepada mana-mana pengguna. (2) Nilai perkhidmatan digital yang baginya cukai perkhidmatan kena dibayar hendaklah nilai yang dikenakan oleh orang berdaftar asing itu. (3) Cukai perkhidmatan ke atas perkhidmatan digital hendaklah dikenakan dan dilevikan pada kadar yang ditetapkan mengikut subseksyen 10(2) dengan merujuk kepada nilai yang dikenakan oleh orang berdaftar asing itu. (4) Cukai perkhidmatan yang dikenakan ke atas perkhidmatan digital yang diberikan kepada pengguna hendaklah menjadi genap masa pada masa pembayaran bagi perkhidmatan digital itu diterima oleh orang berdaftar asing itu. (5) Mana-mana orang berdaftar asing yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya. Tanggungan untuk berdaftar 56b. (1) Menteri boleh menetapkan jumlah nilai perkhidmatan digital bagi maksud pendaftaran pemberi perkhidmatan asing di bawah Bahagian ini. (2) Mana-mana pemberi perkhidmatan asing yang memberikan apa-apa perkhidmatan digital kepada seseorang pengguna bertanggungan untuk berdaftar pada masa yang berikut, mana- mana yang lebih awal: (a) pada akhir mana-mana bulan, jika jumlah nilai semua perkhidmatan digital yang diberikan olehnya dalam bulan itu dan sebelas bulan sebaik sebelum bulan itu telah melebihi jumlah nilai perkhidmatan digital yang ditetapkan di bawah subseksyen (1); atau (b) pada akhir mana-mana bulan, jika terdapat alasan yang munasabah untuk mempercayai bahawa jumlah nilai semua perkhidmatan digital yang diberikan olehnya dalam bulan itu dan sebelas bulan sebaik selepas bulan itu akan melebihi jumlah perkhidmatan digital yang ditetapkan di bawah subseksyen (1). (3) Jumlah nilai semua perkhidmatan digital yang diberikan oleh seorang pemberi perkhidmatan asing kepada seorang pengguna dalam bulan itu dan sebelas bulan sebaik sebelum bulan itu yang disebut dalam perenggan (2)(a) tidak diambil kira jika— (a) pendaftaran pemberi perkhidmatan asing itu dibatalkan, selain di bawah subseksyen 56f(3), dalam tempoh itu; dan (b) Ketua Pengarah berpuas hati bahawa sebelum pendaftaran pemberi perkhidmatan asing itu dibatalkan, pemberi perkhidmatan asing itu telah memberikan semua maklumat yang dikehendaki oleh Ketua Pengarah bagi menentukan sama ada untuk membatalkan pendaftaran itu atau tidak. Permohonan bagi pendaftaran pemberi perkhidmatan asing 56c. (1) Mana-mana pemberi perkhidmatan asing yang bertanggungan untuk berdaftar di bawah subseksyen 56b(2) hendaklah memohon kepada Ketua Pengarah bagi pendaftaran dalam borang yang ditetapkan tidak lewat daripada hari terakhir bagi bulan selepas bulan yang dia bertanggungan untuk berdaftar sebagaimana yang disebut dalam perenggan 56b(2)(a) atau (b). (2) Apabila permohonan di bawah subseksyen (1) diterima, Ketua Pengarah boleh meluluskan permohonan itu dari apa- apa tarikh sebagaimana yang ditentukan olehnya dan tertakluk kepada apa-apa syarat yang difikirkan patut olehnya. (3) Ketua Pengarah hendaklah mendaftarkan pemberi perkhidmatan asing di bawah subseksyen (1) berkuat kuasa dari hari pertama bagi bulan selepas bulan yang permohonan di bawah subseksyen (1) dibuat atau dari apa-apa tarikh yang lebih awal sebagaimana yang ditentukan oleh Ketua Pengarah tetapi tarikh itu tidak boleh lebih awal daripada tarikh pemberi perkhidmatan asing itu menjadi bertanggungan untuk berdaftar. (4) Mana-mana pemberi perkhidmatan asing yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi tiga puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya. Pemberhentian tanggungan untuk berdaftar 56d. Mana-mana orang berdaftar asing hendaklah terhenti daripada bertanggungan untuk berdaftar jika— (a) Ketua Pengarah berpuas hati bahawa dia telah berhenti memberikan perkhidmatan digital; atau (b) dia telah didaftarkan di bawah subseksyen 13(2) atau (4). Pemberitahuan pemberhentian tanggungan 56e. (1) Seseorang orang berdaftar asing yang— (a) berhenti memberikan perkhidmatan digital; atau (b) telah didaftarkan di bawah seksyen 13, hendaklah memberitahu Ketua Pengarah secara bertulis mengenai hakikat itu dan tarikh pemberhentian itu dalam masa tiga puluh hari dari tarikh pemberhentian itu. (2) Mana-mana orang berdaftar asing yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi tiga puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya. Pembatalan pendaftaran 56 f. (1) Jika orang berdaftar asing membuat suatu pemberitahuan di bawah seksyen 56e, Ketua Pengarah boleh membatalkan pendaftaran orang berdaftar asing itu dari tarikh orang berdaftar asing itu terhenti bertanggungan untuk berdaftar di bawah seksyen 56d atau dari apa-apa tarikh terkemudian sebagaimana yang ditentukan oleh Ketua Pengarah jika Ketua Pengarah berpuas hati bahawa orang berdaftar asing itu boleh dibatalkan pendaftarannya. (2) Jika tiada pemberitahuan dibuat di bawah seksyen 56e dan Ketua Pengarah berpuas hati bahawa orang berdaftar asing telah terhenti bertanggungan untuk berdaftar di bawah seksyen 56d, Ketua Pengarah boleh membatalkan pendaftaran orang berdaftar asing itu dari tarikh orang berdaftar asing itu terhenti bertanggungan untuk berdaftar di bawah seksyen 56d atau dari apa-apa tarikh terkemudian sebagaimana yang ditentukan oleh Ketua Pengarah. (3) Jika Ketua Pengarah berpuas hati bahawa pada hari pemberi perkhidmatan asing didaftarkan, pemberi perkhidmatan asing itu tidak bertanggungan untuk berdaftar di bawah seksyen 56c atau telah terhenti bertangungan untuk berdaftar di bawah seksyen 56d, Ketua Pengarah boleh membatalkan pendaftaran pemberi perkhidmatan asing itu berkuat kuasa dari tarikh sebagaimana yang ditentukan oleh Ketua Pengarah dalam pemberitahuan secara bertulis kepada pemberi perkhidmatan asing itu. Pengeluaran invois 56g. (1) Tiap-tiap orang berdaftar asing yang memberikan apa-apa perkhidmatan digital hendaklah mengeluarkan suatu invois atau dokumen yang mengandungi butir-butir yang ditetapkan kepada pengguna berkenaan dengan transaksi itu. (2) Invois atau dokumen yang disebut dalam subseksyen (1) boleh dikeluarkan secara elektronik atau dalam bentuk kertas. (3) Mana-mana orang berdaftar asing yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi tiga puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya. Tempoh bercukai dan pengakaunan cukai perkhidmatan 56h. (1) Tempoh bercukai bagi orang berdaftar asing hendaklah suatu tempoh tiga bulan yang berakhir pada hari terakhir mana-mana bulan dalam mana-mana tahun kalendar. (2) Orang berdaftar asing boleh memohon secara bertulis kepada Ketua Pengarah untuk suatu tempoh bercukai selain tempoh sebagaimana yang ditentukan di bawah subseksyen (1). (3) Ketua Pengarah boleh, apabila apa-apa permohonan bawah subseksyen (2) diterima— (a) membenarkan permohonan itu dan tempoh bercukai hendaklah tempoh sebagaimana yang dipohon; (b) menolak permohonan itu dan tempoh bercukai hendaklah kekal sebagaimana yang ditentukan di bawah subseksyen (1); atau (c) mengubah tempoh bagi tempoh bercukai itu. (4) Orang berdaftar asing hendaklah, berkenaan dengan tempoh bercukainya, mengakaunkan cukai perkhidmatan yang genap masa dalam suatu penyata sebagaimana yang ditetapkan dan penyata itu hendaklah dikemukakan kepada Ketua Pengarah mengikut cara yang ditetapkan tidak lewat daripada hari terakhir bulan selepas berakhirnya tempoh bercukai orang kena cukai itu yang berhubungan dengan penyata itu. (5) Jika tempoh bercukai telah diubah di bawah perenggan (3)(c) dan walau apa pun subseksyen (4), penyata itu hendaklah dikemukakan tidak lewat daripada hari terakhir bulan selepas berakhirnya tempoh bercukai yang diubah itu. (6) Penyata yang disebut dalam subseksyen (4) dan (5) hendaklah dikemukakan sama ada terdapat cukai perkhidmatan yang kena dibayar atau tidak. (7) Mana-mana orang berdaftar asing yang— (a) melanggar subseksyen (4) atau (5); atau (b) mengemukakan suatu penyata yang tidak betul, melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya. Pembayaran cukai perkhidmatan 56i. (1) Mana-mana orang berdaftar asing hendaklah, berkenaan dengan tempoh bercukai, membayar kepada Ketua Pengarah amaun cukai perkhidmatan yang genap masa dan kena dibayar tidak lewat daripada hari terakhir bulan selepas berakhirnya tempoh bercukainya yang berhubungan dengan penyata itu. (2) Jika apa-apa cukai perkhidmatan yang genap masa dan kena dibayar tidak dibayar secara keseluruhannya atau sebahagiannya oleh mana-mana orang berdaftar asing selepas hari terakhir cukai perkhidmatan itu genap masa dan kena dibayar di bawah subseksyen (1) dan tiada pendakwaan dimulakan, orang berdaftar asing itu hendaklah membayar— (a) untuk tempoh tiga puluh hari pertama yang cukai perkhidmatan itu tidak dibayar secara keseluruhannya atau sebahagiannya selepas habis tempoh yang dinyatakan di bawah subseksyen (1), suatu penalti sebanyak sepuluh peratus daripada amaun cukai perkhidmatan itu yang masih belum dibayar; (b) untuk tempoh tiga puluh hari kedua yang cukai perkhidmatan itu tidak dibayar secara keseluruhannya atau sebahagiannya selepas habis tempoh yang dinyatakan di bawah subseksyen (1), suatu penalti tambahan sebanyak lima belas peratus daripada amaun cukai perkhidmatan itu yang masih belum dibayar; dan (c) untuk tempoh tiga puluh hari ketiga yang cukai perkhidmatan itu tidak dibayar secara keseluruhannya atau sebahagiannya selepas habis tempoh yang dinyatakan di bawah subseksyen (1), suatu penalti tambahan sebanyak lima belas peratus daripada amaun cukai perkhidmatan itu yang masih belum dibayar. (3) Mana-mana orang berdaftar asing yang tidak membayar kepada Ketua Pengarah amaun cukai perkhidmatan yang genap masa dan kena dibayar di bawah subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya. (4) Tertakluk kepada subseksyen (6), pendakwaan bagi kesalahan di bawah subseksyen (3) boleh dimulakan selepas habis tempoh yang dinyatakan dalam perenggan (2)(c). (5) Sebagai tambahan kepada apa-apa denda yang dikenakan oleh mahkamah di bawah subseksyen (3), mahkamah boleh memerintahkan supaya mana-mana orang berdaftar asing yang disabitkan dengan kesalahan di bawah subseksyen (3) untuk membayar penalti yang dinyatakan dalam subseksyen (2). (6) Tiada pendakwaan bagi kesalahan di bawah subseksyen (3) boleh dimulakan terhadap mana-mana orang berdaftar asing yang telah membayar amaun cukai perkhidmatan yang genap masa dan kena dibayar, dan penalti yang dinyatakan di bawah subseksyen (2) dalam tempoh yang dinyatakan dalam subseksyen (2). Kewajipan untuk menyimpan rekod 56j. (1) Tiap-tiap orang berdaftar asing hendaklah menyimpan rekod yang lengkap dan benar yang kemas kini bagi semua transaksi yang menyentuh atau boleh menyentuh tanggungannya terhadap cukai perkhidmatan, termasuk rekod-rekod yang berikut: (a) semua rekod pemberian perkhidmatan digital oleh orang berdaftar asing itu termasuk invois dan resit; dan (b) semua rekod lain sebagaimana yang ditentukan oleh Ketua Pengarah. (2) Apa-apa rekod yang disimpan di bawah seksyen ini hendaklah dipelihara bagi tempoh tujuh tahun dari tarikh terakhir yang berhubungan dengan rekod itu. (3) Jika rekod itu adalah dalam bentuk yang boleh dibaca secara elektronik, rekod itu hendaklah disimpan mengikut apa-apa cara yang membolehkan rekod itu mudah diakses dan boleh ditukar ke dalam bentuk tulisan. (4) Suatu salinan rekod itu boleh diterima sebagai keterangan dalam mana-mana prosiding setakat yang sama sebagaimana rekod itu sendiri. (5) Mana-mana orang berdaftar asing yang melanggar subseksyen (1), (2) atau (3) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya. Penyampaian notis, dsb, ke atas orang berdaftar asing 56k. Tiap-tiap notis, arahan atau dokumen lain yang dikehendaki oleh Akta ini untuk disampaikan kepada orang berdaftar asing boleh disampaikan melalui perkhidmatan elektronik di bawah seksyen 87.”. Pindaan seksyen 65"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_38__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_38__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 65 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_38__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_38",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan memasukkan selepas perkataan “penyata” perkataan “atau perisytiharan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_38__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_38",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c), dengan memasukkan selepas perkataan “penyata” perkataan “, perisytiharan”. Pindaan seksyen 68"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_39__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_39__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 68 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_39__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_39",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (b) perenggan yang berikut: “(ba) apa-apa perkhidmatan yang diperoleh oleh mana-mana orang di Malaysia daripada mana- mana orang yang berada di luar Malaysia tidak bertanggungan kepada cukai perkhidmatan yang boleh dikenakan di bawah Akta ini;”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_39__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_39",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “dalam pendakwaan itu”. Seksyen baharu 69a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “kawasan ditetapkan”, dengan menggantikan perkataan “dan Tioman” dengan perkataan “, Tioman dan Pangkor’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “kawasan khas”, dengan menggantikan perkataan “dan Kawasan Pembangunan Bersama” dengan perkataan “Kawasan Pembangunan Bersama, dan pangkalan bekalan petroleum yang dilesenkan di bawah seksyen 77b Akta Kastam 1967”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “orang berdaftar” takrif yang berikut: ‘ “orang berdaftar asing” ertinya mana-mana pemberi perkhidmatan asing yang berdaftar di bawah seksyen 56c;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “orang kena cukai” takrif yang berikut: ‘ “Pangkor” ertinya Pulau Pangkor, Pulau Mentagor, Pulau Giam, Pulau Simpan, Pulau Tukun Terindak, Pulau Pelanduk, Pulau Anak Pelanduk, Pulau Landak, Batu Orang Tua dan Batu Jambal;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_3__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “pegawai kanan cukai perkhidmatan” takrif yang berikut: ‘ “pemberi perkhidmatan asing” ertinya mana-mana orang di luar Malaysia yang memberikan apa-apa perkhidmatan digital kepada pengguna dan termasuklah mana-mana orang di luar Malaysia yang mengendalikan platform dalam talian untuk membeli atau menjual barang atau memberikan perkhidmatan (sama ada atau tidak orang itu memberikan apa-apa perkhidmatan digital) dan yang membuat transaksi bagi pemberian perkhidmatan digital bagi pihak mana-mana orang; “pengguna” ertinya mana-mana orang yang memenuhi mana-mana dua daripada yang berikut: (a) membuat pembayaran bagi perkhidmatan digital dengan menggunakan kemudahan kredit atau debit yang disediakan oleh mana-mana institusi kewangan atau syarikat di Malaysia; (b) memperoleh perkhidmatan digital dengan menggunakan alamat protokol internet yang berdaftar di Malaysia atau kod negara antarabangsa telefon mudah alih yang ditetapkan bagi Malaysia; (c) bermastautin di Malaysia;’; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_3__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “perkhidmatan bercukai diimport” takrif yang berikut: ‘ “perkhidmatan digital” ertinya apa-apa perkhidmatan yang dihantar atau dilanggan melalui internet atau rangkaian elektronik lain dan yang tidak boleh diperoleh tanpa menggunakan teknologi maklumat dan yang penghantaran perkhidmatan itu pada asasnya automatik;”. Pindaan seksyen 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 9 Akta ibu dipinda dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: “(1a) Walau apa pun perenggan (1)(a) dan (b), jika perkhidmatan bercukai diberikan oleh orang kena cukai dan pembayaran bagi perkhidmatan itu dibuat kepada apa-apa mesin atau alat yang dikendalikan dengan syiling, token atau seumpamanya, nilai perkhidmatan bercukai itu hendaklah sebagaimana yang ditetapkan.”. Pindaan seksyen 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 69 seksyen yang berikut: “Pemenjaraan kerana tidak membayar denda 69a. Walau apa pun seksyen 283 dan 284 Kanun Tatacara Jenayah, tempoh pemenjaraan yang dikenakan oleh mana- mana mahkamah berkenaan dengan apa-apa denda yang tidak dibayar di bawah Akta ini, atau berkenaan dengan keingkaran suatu distres yang mencukupi untuk membayar apa-apa denda sedemikian, adalah apa-apa tempoh dalam apa-apa perihalan, yang pada pendapat mahkamah akan mencapai keadilan bagi kes itu, tetapi tidak boleh dalam mana-mana hal melebihi tempoh maksimum yang berikut: (a) jika denda itu tidak melebihi lima ribu ringgit, tempoh maksimum hendaklah dua bulan; (b) jika denda itu melebihi lima ribu ringgit tetapi tidak melebihi sepuluh ribu ringgit, tempoh maksimum hendaklah empat bulan; (c) jika denda itu melebihi sepuluh ribu ringgit tetapi tidak melebihi dua puluh ribu ringgit, tempoh maksimum hendaklah enam bulan, dengan dua bulan tambahan bagi tiap-tiap sepuluh ribu ringgit selepas dua puluh ribu ringgit yang pertama denda itu.”. Pindaan seksyen 71"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_41__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_41__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 71 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_41__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_41",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (1)(b), dengan memasukkan selepas perkataan “penyata,” perkataan “perisytiharan,”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_41__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_41",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4), dengan menggantikan perkataan “jika penyata itu,” dengan perkataan “atau perisytiharan, mengikut mana-mana yang berkenaan, yang”. Pindaan seksyen 75"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_42__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_42__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_42__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 75 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_42__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_42",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan menggantikan perkataan “orang kena cukai” dengan perkataan “mana-mana orang”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_42__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_42",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan memasukkan selepas perkataan “orang kena cukai,” perkataan “atau mana-mana orang selain orang kena cuka yang, dalam menjalankan perniagaannya, memperoleh apa-apa perkhidmatan bercukai, atau mana-mana orang berdaftar asing”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_42__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_42__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_42__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_42",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_42__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_42__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “seorang orang kena cukai” perkataan “orang yang disebut dalam subseksyen itu”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_42__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_42__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a) dan (b), dengan memotong perkataan “kena cukai” di mana-mana jua terdapat. Pindaan seksyen 76"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 76(a) Akta ibu dipinda dengan memasukkan selepas “orang kena cukai” perkataan “atau orang berdaftar asing”. Pindaan seksyen 81"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 81 Akta ibu dipinda dengan memasukkan selepas subseksyen (6) subseksyen yang berikut: “(7) Seksyen ini tidak terpakai bagi orang berdaftar asing.”. Pindaan seksyen 82"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_45",
+      "@type": "akn:clause",
+      "eli:number": "45",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 82 Akta ibu dipinda dengan memasukkan selepas subseksyen (4) subseksyen yang berikut: “(5) Seksyen ini tidak terpakai bagi orang berdaftar asing.”. Pindaan seksyen 83"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_46",
+      "@type": "akn:clause",
+      "eli:number": "46",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 83 Akta ibu dipinda dengan memasukkan selepas subseksyen (4) subseksyen yang berikut: “(5) Seksyen ini tidak terpakai bagi orang berdaftar asing.”. Pindaan seksyen 84"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_47",
+      "@type": "akn:clause",
+      "eli:number": "47",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_47__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_47__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 84 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_47__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_47",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula peruntukan yang sedia ada sebagai subseksyen (1); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_47__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_47",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) sebagaimana yang dinomborkan semula subseksyen yang berikut: “(2) Seksyen ini tidak terpakai bagi orang berdaftar asing.”. Pindaan seksyen 86"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_48",
+      "@type": "akn:clause",
+      "eli:number": "48",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 86 Akta ibu dipinda dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: “(4) Seksyen ini tidak terpakai bagi orang berdaftar asing.”. Seksyen baharu 86a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_49",
+      "@type": "akn:clause",
+      "eli:number": "49",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 86 seksyen yang berikut: “Penyampaian saman 86a. (1) Tiap-tiap saman yang dikeluarkan oleh suatu mahkamah terhadap mana-mana orang yang berkaitan dengan apa-apa prosiding sivil atau jenayah di bawah Akta ini boleh disampaikan kepada orang yang dinamakan dalamnya— (a) dengan menghantarserahkan saman itu kepada orang itu atau mana-mana anggota keluarganya yang dewasa atau mana-mana pekerjanya yang tinggal bersamanya di tempat tinggalnya yang biasa atau yang terakhir diketahui; (b) dengan meninggalkan saman itu di tempat tinggalnya atau tempat perniagaannya yang biasa atau yang terakhir diketahui dalam suatu sampul surat yang dialamatkan kepada orang itu; (c) dengan menghantar saman itu melalui pos berdaftar yang dialamatkan kepada orang itu di tempat tinggalnya atau tempat perniagaannya yang biasa atau yang terakhir diketahui; atau (d) jika orang itu ialah suatu syarikat, perkongsian liabiliti terhad, firma, pertubuhan, persatuan atau kumpulan orang lain— (i) dengan menghantarserahkan saman itu kepada setiausaha atau pegawai lain yang seumpama bagi syarikat, perkongsian liabiliti terhad, firma, pertubuhan, persatuan atau kumpulan orang lain itu di pejabat berdaftar atau tempat perniagaan utamanya; atau (ii) dengan menghantar saman itu melalui pos berdaftar yang dialamatkan kepada syarikat, perkongsian liabiliti terhad, firma, pertubuhan, persatuan atau kumpulan orang lain itu ke pejabat berdaftar atau tempat perniagaan utamanya. (2) Apa-apa saman yang dihantar melalui pos berdaftar kepada mana-mana orang mengikut subseksyen (1) atau dengan menghantarserahkan saman itu kepada orang itu atau kepada mana-mana anggota keluarganya yang dewasa atau mana-mana pekerjanya yang tinggal bersamanya hendaklah disifatkan telah disampaikan kepada orang itu dengan sewajarnya. (3) Apabila suatu saman yang dikeluarkan oleh mahkamah disampaikan, suatu afidavit penyampaian yang berupa sebagai telah dibuat di hadapan seorang pegawai yang diberi kuasa sewajarnya untuk mengendalikan sumpah hendaklah diterima sebagai keterangan.”. Pindaan seksyen 91"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 10(1) Akta ibu dipinda dengan memotong perkataan “yang diberikan”. Pindaan seksyen 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_50",
+      "@type": "akn:clause",
+      "eli:number": "50",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_50__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_50__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_50__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 91(2) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_50__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_50",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (2)(d), dengan memasukkan selepas perkataan “penyata” perkataan “, perisytiharan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_50__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_50",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (2)(k), dengan memotong perkataan “atau” di hujung perenggan itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_50__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_50__para_c__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_50__para_c__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_50",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (2)(l)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_50__para_c__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_50__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah di hujung perenggan itu dengan perkataan “; atau”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_50__para_c__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_50__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (l) perenggan yang berikut: “(m) semua perkara yang berhubungan dengan perkhidmatan digital.”. Pendaftaran sebelum tarikh efektif"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_51",
+      "@type": "akn:clause",
+      "eli:number": "51",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_51__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_51__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_51__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_51__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_51__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_51",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seorang pemberi perkhidmatan asing yang memberikan perkhidmatan digital sebelum Bahagian IXa sebagaimana yang dimasukkan dalam seksyen 37 Akta ini (“Bahagian IXa”) mula berkuat kuasa hendaklah bertanggungan untuk berdaftar di bawah Akta ini jika terdapat alasan yang munasabah untuk mempercayai bahawa jumlah nilai perkhidmatan digitalnya yang diberikan dalam bulan mula berkuat kuasanya Bahagian IXa dan sebelas bulan sebaik selepas bulan itu akan melebihi jumlah nilai perkhidmatan digital sebagaimana yang ditetapkan di bawah seksyen 56b sebagaimana yang dimasukkan dalam seksyen 37 Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_51__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_51",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana pemberi perkhidmatan asing yang bertanggungan untuk berdaftar di bawah subseksyen (1) hendaklah memohon kepada Ketua Pengarah untuk didaftarkan sebagai orang berdaftar asing dan permohonan itu hendaklah dibuat tiga bulan sebelum tarikh permulaan kuat kuasa Bahagian IXa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_51__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_51",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah boleh mendaftarkan pemberi perkhidmatan asing di bawah subseksyen (1) berkuat kuasa dari tarikh efektif yang ditetapkan di bawah seksyen 1 Akta ini atau dari tarikh terkemudian sebagaimana yang ditentukan oleh Ketua Pengarah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_51__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_51",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana pemberi perkhidmatan asing yang melanggar subseksyen (2) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi tiga puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua- duanya. Perkhidmatan digital yang diberikan sebelum tarikh kuat kuasa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_52",
+      "@type": "akn:clause",
+      "eli:number": "52",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_52__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_52__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_52__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_52",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika apa-apa perkhidmatan digital diberikan sebelum tarikh permulaan kuat kuasa Bahagian IXa sebagaimana yang dimasukkan dalam seksyen 37 Akta ini (“Bahagian IXa”) dan pemberian perkhidmatan digital itu menjangkaui selepas tarikh permulaan kuat kuasa Bahagian IXa, cukai perkhidmatan hendaklah dikenakan ke atas bahagian perkhidmatan yang boleh dihubungkaitkan dengan bahagian tempoh selepas tarikh permulaan kuat kuasa Bahagian ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_52__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_52",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika apa-apa bayaran diterima sebelum tarikh permulaan kuat kuasa Bahagian IXa berkaitan pemberian perkhidmatan digital yang akan diberikan pada atau selepas tarikh permulaan kuat kuasa Bahagian IXa, tiada cukai perkhidmatan dikenakan ke atas bayaran yang diterima itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_6__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_6__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 11 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: “(1 a) Ketua Pengarah boleh, atas permohonan secara bertulis oleh mana-mana orang berdaftar dan tertakluk kepada apa-apa syarat yang difikirkan patut olehnya, meluluskan cukai perkhidmatan berkenaan dengan perkhidmatan bercukai yang diberikan oleh orang berdaftar itu menjadi genap masa pada masa invois dikeluarkan.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “invois bagi perkhidmatan bercukai yang diberikan itu,” dengan perkataan “perkhidmatan bercukai itu diberikan,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (3)(a) perenggan yang berikut: “(aa) jika mana-mana perkhidmatan bercukai diberikan oleh mana-mana orang berdaftar dan pembayaran bagi perkhidmatan bercukai itu dibuat kepada apa-apa mesin atau alat yang dikendalikan dengan syiling, token atau seumpamanya, cukai perkhidmatan yang dikehendaki untuk diakaunkan hendaklah menjadi genap masa pada hari syiling, token atau seumpamanya itu dipungut daripada mesin atau alat itu;”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_6__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (4) subseksyen yang berikut: “(5) Perenggan (3)(c) tidak terpakai bagi perkhidmatan yang ditetapkan sebagai perkhidmatan bercukai berkuat kuasa dari 1 September 2018.”. Pindaan seksyen 12"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 12 Akta ibu dipinda dengan memasukkan selepas subseksyen (4) subseksyen yang berikut: “(5) Seksyen ini tidak terpakai bagi pemberi perkhidmatan asing.”. Pindaan seksyen 13"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 13 Akta ibu dipinda dengan memasukkan selepas subseksyen (5) subseksyen yang berikut: “(6) Seksyen ini tidak terpakai bagi pemberi perkhidmatan asing.”. Pindaan seksyen 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/6/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 14 Akta ibu dipinda dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(3) Seksyen ini tidak terpakai bagi pemberi perkhidmatan asing.”. Pindaan seksyen 15"
+      }
+    }
+  ]
+}

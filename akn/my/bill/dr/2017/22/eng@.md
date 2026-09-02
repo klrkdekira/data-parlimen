@@ -140,9 +140,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 6 -->
 
-### Deletion of sections 16b, 16c, 16d, 16e, 16f, 16g and 16h
+## DELETION OF SECTIONS 16B, 16C, 16D, 16E, 16F, 16G AND 16H
 
-9. The principal Act is amended by deleting sections 16b, 16c, 16d, 16e, 16f, 16g and 16h.
+9. The principal Act is amended by deleting sections 16b, 16c, 16D, 16E, 16F, 16G AND 16H.
 
 ### Substitution of section 22
 
@@ -188,7 +188,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 14. The principal Act is amended by inserting after the Second Schedule the following Schedule:
 
-“Third Schedule
+## “THIRD SCHEDULE
 
 [Subsection 28a(2)]
 

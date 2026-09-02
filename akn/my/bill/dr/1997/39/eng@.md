@@ -14,9 +14,23 @@
 
 3. The Board and its objectives.
 
-4. Functions of Board. 5. Powers of Board. 6. Membership of Board. 7. Tenure of office. 8. Alternate members. 9. Temporary exercise of functions of Chairman. 10. Revocation and resignation. 11. Vacation of office.
+4. Functions of Board. 5. Powers of Board. 6. Membership of Board. 7. Tenure of office. 8. Alternate members. 9. Temporary exercise of functions of Chairman.
 
-12. Non-liability of members of Board. 13. Public Authorities Protection Act 1948. 14. Public servant. 15. Power of Minister to give directions. 16. Returns, reports, accounts and information. 17. Delegation of Board's functions, powers and duties.
+10. Revocation and resignation.
+
+11. Vacation of office.
+
+12. Non-liability of members of Board.
+
+13. Public Authorities Protection Act 1948.
+
+14. Public servant.
+
+15. Power of Minister to give directions.
+
+16. Returns, reports, accounts and information.
+
+17. Delegation of Board's functions, powers and duties.
 
 18. Board may establish committees.
 
@@ -30,45 +44,177 @@ III
 
 ## SERVANTS OF THE BOARD
 
-19. Appointment of Director-General. 20. Powers and duties of Director-General. 21. Appointment of officers and servants. 22. Power to grant loans and make advances to officers and servants. 23. Delegation of Director-General's duties. 24. Disciplinary committees. 25. Appeal against decision of disciplinary committee. 26. Power to make disciplinary regulations. 27. Imposition of surcharge. 28. Notification of surcharge. 29. Withdrawal of surcharge. 30. Recovery of surcharge. 31. Composition of Board in special cases.
+19. Appointment of Director-General.
+
+20. Powers and duties of Director-General.
+
+21. Appointment of officers and servants.
+
+22. Power to grant loans and make advances to officers and servants.
+
+23. Delegation of Director-General's duties.
+
+24. Disciplinary committees.
+
+25. Appeal against decision of disciplinary committee.
+
+26. Power to make disciplinary regulations.
+
+27. Imposition of surcharge.
+
+28. Notification of surcharge.
+
+29. Withdrawal of surcharge.
+
+30. Recovery of surcharge.
+
+31. Composition of Board in special cases.
 
 ## PART IV
 
 ## FINANCE
 
-32. The Fund. 33. Expenditure to be charged on Fund. 34. Conservation of Fund. 35. Cess on oil palm product. 36. Expenditure and preparation of estimates. 37. Statutory Bodies (Accounts and Annual Reports) Act 1980.
+32. The Fund.
+
+33. Expenditure to be charged on Fund.
+
+34. Conservation of Fund.
+
+35. Cess on oil palm product.
+
+36. Expenditure and preparation of estimates.
+
+37. Statutory Bodies (Accounts and Annual Reports) Act 1980.
 
 ## PART V
 
 ## OTHER POWERS AND FUNCTIONS OF THE BOARD
 
-38. Power to borrow. 39. Investment. 40. Commercialisation of research findings. 41. Power to employ agents, etc.
+38. Power to borrow.
+
+39. Investment.
+
+40. Commercialisation of research findings.
+
+41. Power to employ agents, etc.
 
 <!-- page 3 -->
 
-42. Power to grant loans. 43. Power to establish corporations.
+42. Power to grant loans.
+
+43. Power to establish corporations.
 
 ## PART VI
 
 ## ENFORCEMENT
 
-44. Authorisation of officers. 45. Power of investigation. 46. Power of arrest. 47. Search by warrant. 48. Search without warrant. 49. Power to stop and search conveyances. 50. List of things seized. 51. Power to enter premises. 52. Temporary return of conveyance, etc. 53. Sale and disposal of seized oil palm product. 54. Seized oil palm product, etc. liable to forfeiture. 55. Property in forfeited oil palm product, etc. 56. Forfeiture or release of seized oil palm product, etc. 57. Claim for seized oil palm product, etc. 58. Release of seized oil palm product, etc.
+44. Authorisation of officers.
+
+45. Power of investigation.
+
+46. Power of arrest.
+
+47. Search by warrant.
+
+48. Search without warrant.
+
+49. Power to stop and search conveyances.
+
+50. List of things seized.
+
+51. Power to enter premises.
+
+52. Temporary return of conveyance, etc.
+
+53. Sale and disposal of seized oil palm product.
+
+54. Seized oil palm product, etc. liable to forfeiture.
+
+55. Property in forfeited oil palm product, etc.
+
+56. Forfeiture or release of seized oil palm product, etc.
+
+57. Claim for seized oil palm product, etc.
+
+58. Release of seized oil palm product, etc.
 
 ## PART VII
 
 ## GENERAL
 
-59. Regulation of oil palm industry. 60. Appointment of analysts. 61. Proportional examination or testing of seized oil palm product. 62. Cost of holding seized oil palm product, etc. 63. No costs or damages arising from seizure to be recoverable. 64. Additional powers. 65. Offence to assault or obstruct authorised officer. 66. Duty to maintain secrecy.
+59. Regulation of oil palm industry.
+
+60. Appointment of analysts.
+
+61. Proportional examination or testing of seized oil palm product.
+
+62. Cost of holding seized oil palm product, etc.
+
+63. No costs or damages arising from seizure to be recoverable.
+
+64. Additional powers.
+
+65. Offence to assault or obstruct authorised officer.
+
+66. Duty to maintain secrecy.
 
 <!-- page 4 -->
 
-67. False information. 68. Offence by body corporate. 69. General penalty. 70. Abetments and attempts punishable as offences. 71. Compounding of offences. 72. Institution and conduct of prosecution. 73. Jurisdiction to try offences. 74. Protection of officers. 75. Rewards. 76. Protection of informers. 77. Power to exempt. 78. Regulations. 79. Validation of acts done in anticipation of Act.
+67. False information.
+
+68. Offence by body corporate.
+
+69. General penalty.
+
+70. Abetments and attempts punishable as offences.
+
+71. Compounding of offences.
+
+72. Institution and conduct of prosecution.
+
+73. Jurisdiction to try offences.
+
+74. Protection of officers.
+
+75. Rewards.
+
+76. Protection of informers.
+
+77. Power to exempt.
+
+78. Regulations.
+
+79. Validation of acts done in anticipation of Act.
 
 ## PART VIII
 
 ## REPEAL, SAVINGS AND TRANSITIONAL
 
-80. Repeal and dissolution. 81. Transfer of powers, etc. 82. Transfer of property. 83. Existing contracts. 84. Transfer of monies in funds. 85. Membership of dissolved Authority and dissolved Board. 86. Continuance of officers and servants. 87. Savings for licences and registers. 88. Continuance of pending applications, etc. 89. Continuance of civil and criminal proceedings, 90. Reference in law or document to dissolved Authority, dissolved Board and dissolved Institute. 91. Continuance of use of name. 92. Prevention of anomalies.
+80. Repeal and dissolution.
+
+81. Transfer of powers, etc.
+
+82. Transfer of property.
+
+83. Existing contracts.
+
+84. Transfer of monies in funds.
+
+85. Membership of dissolved Authority and dissolved Board.
+
+86. Continuance of officers and servants.
+
+87. Savings for licences and registers.
+
+88. Continuance of pending applications, etc.
+
+89. Continuance of civil and criminal proceedings,
+
+90. Reference in law or document to dissolved Authority, dissolved Board and dissolved Institute.
+
+91. Continuance of use of name.
+
+92. Prevention of anomalies.
 
 ## SCHEDULES
 
@@ -106,9 +252,7 @@ Oil Board Act 1997.
 
 "analyst" means an analyst appointed under section 60;
 
-"appointed day" means the day on which this Act, or if different dates are appointed for the coming into force of different provisions of this Act, the day on which
-
-## Part VIII comes into force;
+"appointed day" means the day on which this Act, or if different dates are appointed for the coming into force of different provisions of this Act, the day on which Part VIII comes into force;
 
 <!-- page 6 -->
 
@@ -182,11 +326,11 @@ and a common seal, which may sue and be sued in its corporate name and, subject 
 
 (3) The provisions of the First Schedule shall apply to the Board.
 
-### Functions of
+<!-- marginal: Functions of -->
 
 4. The functions of the Board shall be—
 
-### Board.
+<!-- marginal: Board. -->
 
 (a) to implement policies and developmental programmes to ensure the viability of the oil palm industry of Malaysia;
 
@@ -252,9 +396,13 @@ and a common seal, which may sue and be sued in its corporate name and, subject 
 
 (j) to do such other things as it deems fit to enable it to perform its functions effectively or which are incidental to the performance of its functions.
 
-Membership
+<!-- marginal: Membership -->
 
-6. The Board shall consist of the following members of Board. who shall be appointed by the Minister:
+6. The Board shall consist of the following members
+
+<!-- marginal: of Board. -->
+
+who shall be appointed by the Minister:
 
 (a) a Chairman;
 
@@ -310,9 +458,19 @@ appointed under paragraphs 6(b) to 6(k), appoint an alternate member to attend, 
 
 (4) An alternate member shall, unless he sooner resigns his membership or his appointment is sooner revoked, cease to be an alternate member when the member in respect of whom he is an alternate ceases to be a member of the Board.
 
-Temporary
+<!-- marginal: Temporary -->
 
-9. (1) Where the Chairman is for any reason unable to exercise of perform the functions of the Chairman or during any functions of Chairman. period of vacancy in the office of the Chairman, the Minister may appoint any member of the Board other than the Director-General to perform the functions of the Chairman.
+9. (1) Where the Chairman is for any reason unable to
+
+<!-- marginal: exercise of -->
+
+perform the functions of the Chairman or during any
+
+<!-- marginal: functions of -->
+
+<!-- marginal: Chairman. -->
+
+period of vacancy in the office of the Chairman, the Minister may appoint any member of the Board other than the Director-General to perform the functions of the Chairman.
 
 (2) Until an appointment under subsection (1) is made or in default of such appointment or in the absence of the Chairman from any meeting of the Board, the member appointed under paragraph 6(b) shall perform the functions of the Chairman.
 
@@ -320,9 +478,17 @@ Temporary
 
 (4) If at any meeting of the Board neither the Chairman nor the person exercising the functions of the Chairman is present, the members present shall elect one of their number to preside at the meeting.
 
-Revocation
+<!-- marginal: Revocation -->
 
-10. (1) The appointment of any member may at any and time be revoked by the Minister without assigning any resignation. reason therefor:
+10. (1) The appointment of any member may at any
+
+<!-- marginal: and -->
+
+time be revoked by the Minister without assigning any
+
+<!-- marginal: resignation. -->
+
+reason therefor:
 
 (2) A member may at any time resign his office by a written notice addressed to the Minister.
 
@@ -384,23 +550,65 @@ agent of the Board in respect of any act, neglect or default done or committed b
 
 <!-- page 14 -->
 
-Public
+<!-- marginal: Public -->
 
-14. Every member of the Board or any of its committees servant. or any officer, servant or agent of the Board, while discharging his duties as such member, officer, servant or agent shall be deemed to be a public servant within Act 574 the meaning of the Penal Code.
+14. Every member of the Board or any of its committees
 
-Power of
+<!-- marginal: servant. -->
 
-15. (1) The Board shall be responsible to the Minister. Minister to give (2) The Minister may give general directions not directions. inconsistent with this Act and the Board shall, as soon as possible, give effect to such directions.
+or any officer, servant or agent of the Board, while discharging his duties as such member, officer, servant or agent shall be deemed to be a public servant within
 
-Returns,
+<!-- marginal: Act 574 -->
 
-16. (1) The Board shall furnish to the Minister, and reports, such public authority as may be directed by the Minister, accounts and information. such returns, reports, accounts and information with respect to its property and activities as the Minister may require or direct.
+the meaning of the Penal Code.
 
-(2) Without prejudice to the generality of subsection
+<!-- marginal: Power of -->
 
-(1), the Board shall, as soon as practicable after the end of each financial year, cause to be made and transmitted to the Minister and, if so directed by the Minister, to any other public authority, a report dealing with the activities of the Board during the preceding financial year and the report shall be in such form and shall contain such information relating to the proceedings and policy of the Board as the Minister may specify.
+15. (1) The Board shall be responsible to the Minister.
 
-17. (1) The Board may, subject to such conditions, Delegation of Board's limitations or restrictions as it deems fit to impose, delegate functions, any of its functions, powers or duties, except the power powers and duties. to borrow money, grant loans, establish corporations or make regulations, to—
+<!-- marginal: Minister to -->
+
+<!-- marginal: give -->
+
+(2) The Minister may give general directions not
+
+<!-- marginal: directions. -->
+
+inconsistent with this Act and the Board shall, as soon as possible, give effect to such directions.
+
+<!-- marginal: Returns, -->
+
+16. (1) The Board shall furnish to the Minister, and
+
+<!-- marginal: reports, -->
+
+such public authority as may be directed by the Minister,
+
+<!-- marginal: accounts and -->
+
+<!-- marginal: information. -->
+
+such returns, reports, accounts and information with respect to its property and activities as the Minister may require or direct.
+
+(2) Without prejudice to the generality of subsection (1), the Board shall, as soon as practicable after the end of each financial year, cause to be made and transmitted to the Minister and, if so directed by the Minister, to any other public authority, a report dealing with the activities of the Board during the preceding financial year and the report shall be in such form and shall contain such information relating to the proceedings and policy of the Board as the Minister may specify.
+
+17. (1) The Board may, subject to such conditions,
+
+<!-- marginal: Delegation of -->
+
+<!-- marginal: Board's -->
+
+limitations or restrictions as it deems fit to impose, delegate
+
+<!-- marginal: functions, -->
+
+any of its functions, powers or duties, except the power
+
+<!-- marginal: powers and -->
+
+<!-- marginal: duties. -->
+
+to borrow money, grant loans, establish corporations or make regulations, to—
 
 (a) any member of the Board;
 
@@ -462,13 +670,31 @@ III
 
 ## OF THE BOARD
 
-Appointment
+<!-- marginal: Appointment -->
 
-19. The Minister shall appoint a Director-General of the of Director- Board on such terms and conditions as the Minister may General. determine.
+19. The Minister shall appoint a Director-General of the
 
-Powers and
+<!-- marginal: of Director- -->
 
-20. (1) The Board shall vest in the Director-General duties of such powers and shall impose upon him such duties as Director- General the Board may determine.
+Board on such terms and conditions as the Minister may
+
+<!-- marginal: General. -->
+
+determine.
+
+<!-- marginal: Powers and -->
+
+20. (1) The Board shall vest in the Director-General
+
+<!-- marginal: duties of -->
+
+such powers and shall impose upon him such duties as
+
+<!-- marginal: Director- -->
+
+<!-- marginal: General -->
+
+the Board may determine.
 
 (2) The Director-General shall be responsible for—
 
@@ -522,15 +748,47 @@ on such terms and conditions as the Board deems desirable.
 
 (4) The appointment of the Director-General and Deputy Directors-General shall be published in the Gazette.
 
-Power to 22. The Board may grant loans and make advances to grant loans its officers and servants on such terms and conditions as and make advances to the Board may determine. officers and servants Delegation of
+<!-- marginal: Power to -->
 
-23. (1) The Director-General may in writing delegate Director- any of the functions, powers or duties assigned to him General's duties. under this Act to any officer of the Board, subject to such terms and conditions as he thinks fit.
+22. The Board may grant loans and make advances to
+
+<!-- marginal: grant loans -->
+
+its officers and servants on such terms and conditions as
+
+<!-- marginal: and make -->
+
+<!-- marginal: advances to -->
+
+the Board may determine.
+
+<!-- marginal: officers and -->
+
+<!-- marginal: servants -->
+
+<!-- marginal: Delegation of -->
+
+23. (1) The Director-General may in writing delegate
+
+<!-- marginal: Director- -->
+
+any of the functions, powers or duties assigned to him
+
+<!-- marginal: General's -->
+
+<!-- marginal: duties. -->
+
+under this Act to any officer of the Board, subject to such terms and conditions as he thinks fit.
 
 (2) A delegation under this section shall not preclude the Director-General himself from performing or exercising at any time any of the functions, powers or duties so delegated.
 
-Disciplinary
+<!-- marginal: Disciplinary -->
 
-24. (1) The Board shall have disciplinary authority over committees. all its officers and servants and shall exercise disciplinary control in respect of all such persons in accordance with this Act and any regulations made under section 26.
+24. (1) The Board shall have disciplinary authority over
+
+<!-- marginal: committees. -->
+
+all its officers and servants and shall exercise disciplinary control in respect of all such persons in accordance with this Act and any regulations made under section 26.
 
 (2) For the purposes of this section—
 
@@ -552,7 +810,9 @@ Disciplinary
 
 (4) The committee established under paragraph (2)(b) shall exercise its powers in all matters relating to the discipline of officers and servants placed under its jurisdiction.
 
-(5) In the exercise of its disciplinary functions and powers, a disciplinary committee referred to in subsection (2) shall have the power to take disciplinary action and impose any disciplinary punishment or any combination of two or more disciplinary punishments as may be provided for under any regulations made under section 26.
+(5) In the exercise of its disciplinary functions and powers, a disciplinary committee referred to in subsection
+
+(2) shall have the power to take disciplinary action and impose any disciplinary punishment or any combination of two or more disciplinary punishments as may be provided for under any regulations made under section 26.
 
 <!-- marginal: Appeal -->
 
@@ -586,9 +846,21 @@ to the Minister.
 
 (5) The decision of the Minister or the Disciplinary Appeal Board under subsection (3) shall be final and shall not be questioned in any court.
 
-Power to
+<!-- marginal: Power to -->
 
-26. (1) The Board may, with the approval of the Minister, make make such regulations as it deems necessary or expedient disciplinary to provide for the discipline of the officers and servants regulations. of the Board.
+26. (1) The Board may, with the approval of the Minister,
+
+<!-- marginal: make -->
+
+make such regulations as it deems necessary or expedient
+
+<!-- marginal: disciplinary -->
+
+to provide for the discipline of the officers and servants
+
+<!-- marginal: regulations. -->
+
+of the Board.
 
 (2) The disciplinary regulations made under this section—
 
@@ -602,11 +874,7 @@ Power to
 
 <!-- page 21 -->
 
-(ii) where the Board, on the recommendation of the Minister charged with
-
-<!-- marginal: the -->
-
-responsibility for home affairs, is satisfied that in the interest of the security of Malaysia or any part thereof it is not expedient to carry out the requirements of this paragraph; or (iii) where there has been made against an officer or a servant of the Board any order of detention, supervision, restricted residence, banishment or deportation, or where there has been imposed on such officer or servant of the Board any form of restriction or supervision by bond or otherwise, under any law relating to the security of Malaysia or any part thereof, prevention of crime, preventive detention, restricted residence, banishment, immigration, or protection of women and girls;
+(ii) where the Board, on the recommendation of the Minister charged with the responsibility for home affairs, is satisfied that in the interest of the security of Malaysia or any part thereof it is not expedient to carry out the requirements of this paragraph; or (iii) where there has been made against an officer or a servant of the Board any order of detention, supervision, restricted residence, banishment or deportation, or where there has been imposed on such officer or servant of the Board any form of restriction or supervision by bond or otherwise, under any law relating to the security of Malaysia or any part thereof, prevention of crime, preventive detention, restricted residence, banishment, immigration, or protection of women and girls;
 
 (d) may provide for the interdiction with reduced emoluments of an officer or a servant of the Board during the pendency of criminal proceedings against him or disciplinary proceedings against him with the view to his dismissal or reduction in rank; and
 
@@ -640,13 +908,21 @@ the Board may be surcharged if it appears to the Board that the person—
 
 (b) in the case of paragraphs ( 1 )( d) and (e), surcharge against the person such sum as the Board deems fit.
 
-Notification
+<!-- marginal: Notification -->
 
-28. The Board shall notify the person surcharged under of surcharge. subsection 27(3) of the surcharge.
+28. The Board shall notify the person surcharged under
 
-Withdrawal
+<!-- marginal: of surcharge. -->
 
-29. Notwithstanding subsection 27(3) and section 28, of surcharge. the Board may at any time withdraw any surcharge in respect of which a satisfactory explanation has been received or if it otherwise appears that no surcharge should have been made, and the Board shall forthwith notify the person surcharged of the withdrawal.
+subsection 27(3) of the surcharge.
+
+<!-- marginal: Withdrawal -->
+
+29. Notwithstanding subsection 27(3) and section 28,
+
+<!-- marginal: of surcharge. -->
+
+the Board may at any time withdraw any surcharge in respect of which a satisfactory explanation has been received or if it otherwise appears that no surcharge should have been made, and the Board shall forthwith notify the person surcharged of the withdrawal.
 
 <!-- page 23 -->
 
@@ -714,11 +990,19 @@ IV
 
 (I) all other sums or property which may in any manner become payable to or vested in the Board in respect of any matter incidental to its functions and powers.
 
-Expenditure
+<!-- marginal: Expenditure -->
 
-33. The Fund shall be expended for the purpose of— to be charged on
+33. The Fund shall be expended for the purpose of—
 
-(a) paying any expenditure lawfully incurred by Fund. the Board, including—
+<!-- marginal: to be -->
+
+<!-- marginal: charged on -->
+
+(a) paying any expenditure lawfully incurred by
+
+<!-- marginal: Fund. -->
+
+the Board, including—
 
 (i) the remuneration of the officers and servants of the Board, including the granting of loans, superannuation allowances, pensions or gratuities;
 
@@ -758,11 +1042,19 @@ Expenditure
 
 <!-- page 26 -->
 
-Cess on oil
+<!-- marginal: Cess on oil -->
 
-35. (1) The Minister may, after consultation with the palm product. Minister of Finance, make orders for the imposition, variation or cancellation of a cess on oil palm products produced in or exported from Malaysia and the orders may specify the nature, amount and rate of the cess and the manner of collection of the cess.
+35. (1) The Minister may, after consultation with the
 
-(2) Except in so far as may be otherwise provided in any order made under subsection (1), the cess imposed by such order shall, for the purposes of its collection and for the enforcement of the collection thereof, be deemed Act 235. to be a customs duty under the Customs Act 1967.
+<!-- marginal: palm product. -->
+
+Minister of Finance, make orders for the imposition, variation or cancellation of a cess on oil palm products produced in or exported from Malaysia and the orders may specify the nature, amount and rate of the cess and the manner of collection of the cess.
+
+(2) Except in so far as may be otherwise provided in any order made under subsection (1), the cess imposed by such order shall, for the purposes of its collection and for the enforcement of the collection thereof, be deemed
+
+<!-- marginal: Act 235. -->
+
+to be a customs duty under the Customs Act 1967.
 
 (3) An order made under this section may prescribe different amounts, rates and manner of collection for different types or grades of oil palm product.
 
@@ -844,21 +1136,51 @@ and the Minister of Finance, borrow, at such rate of interest and for such perio
 
 (1), the Board may, with the approval of the Minister, acquire and develop land and property for or in connection with the exercise of its powers and for this purpose may enter into such negotiations, arrangements or agreements as may be necessary for generating income required for the operation of the Board.
 
-Commercia-
+<!-- marginal: Commercia- -->
 
-40. The Board may make available any research finding lisation of vested in the Board to any person or body subject to such research findings. conditions and the payment of such fees, royalties or other consideration, if any, as the Board may, with the approval of the Minister, determine for the purpose of its commercialisation.
+40. The Board may make available any research finding
 
-Power to
+<!-- marginal: lisation of -->
 
-41. The Board may employ and pay agents and technical employ advisers, including advocates and solicitors, bankers, agents, etc. stockbrokers, surveyors, valuers and other persons, to transact any business or to do any act required to be transacted or done in the performance of its functions, the exercise of its powers or the discharge of its duties or for the better carrying into effect of the purposes of this Act.
+vested in the Board to any person or body subject to such
 
-Power to
+<!-- marginal: research -->
 
-42. The Board may, with the approval of the Minister grant loans. and the Minister of Finance, grant loans at such rate of interest and for such period and upon such terms as to the time and method of repayment and otherwise as the Minister and the Minister of Finance may approve.
+<!-- marginal: findings. -->
 
-Power to
+conditions and the payment of such fees, royalties or other consideration, if any, as the Board may, with the approval of the Minister, determine for the purpose of its commercialisation.
 
-43. (1) The Board may, with the approval of the Minister establish and the Minister of Finance, by order published in the corporations. Gazette, establish a corporation, by such name as the Board deems fit, to carry out and have the charge, conduct and management of any project, scheme or enterprise which has been planned or undertaken by the Board in the performance of its functions, the exercise of its powers or the discharge of its duties.
+<!-- marginal: Power to -->
+
+41. The Board may employ and pay agents and technical
+
+<!-- marginal: employ -->
+
+advisers, including advocates and solicitors, bankers,
+
+<!-- marginal: agents, etc. -->
+
+stockbrokers, surveyors, valuers and other persons, to transact any business or to do any act required to be transacted or done in the performance of its functions, the exercise of its powers or the discharge of its duties or for the better carrying into effect of the purposes of this Act.
+
+<!-- marginal: Power to -->
+
+42. The Board may, with the approval of the Minister
+
+<!-- marginal: grant loans. -->
+
+and the Minister of Finance, grant loans at such rate of interest and for such period and upon such terms as to the time and method of repayment and otherwise as the Minister and the Minister of Finance may approve.
+
+<!-- marginal: Power to -->
+
+43. (1) The Board may, with the approval of the Minister
+
+<!-- marginal: establish -->
+
+and the Minister of Finance, by order published in the
+
+<!-- marginal: corporations. -->
+
+Gazette, establish a corporation, by such name as the Board deems fit, to carry out and have the charge, conduct and management of any project, scheme or enterprise which has been planned or undertaken by the Board in the performance of its functions, the exercise of its powers or the discharge of its duties.
 
 (2) The provisions of the Second Schedule shall apply to every corporation established by the Board under subsection (1).
 
@@ -928,9 +1250,13 @@ with or without assistance and if need be by force, and there to—
 
 (3) A person who contravenes subsection (2) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding two years or to both.
 
-List of things
+<!-- marginal: List of things -->
 
-50. (1) Except as provided in subsection (2), where any seized. oil palm product, conveyance, machinery, contrivance, equipment, book, record, document or other article is seized under section 47, 48 or 49, the seizing officer shall prepare a list of the things seized and immediately deliver a copy of the list signed by him to—
+50. (1) Except as provided in subsection (2), where any
+
+<!-- marginal: seized. -->
+
+oil palm product, conveyance, machinery, contrivance, equipment, book, record, document or other article is seized under section 47, 48 or 49, the seizing officer shall prepare a list of the things seized and immediately deliver a copy of the list signed by him to—
 
 (a) where premises have been searched under section 47 or 48, the occupier of the premises which have been searched, or to his agent or servant, at those premises; and
 
@@ -938,9 +1264,17 @@ List of things
 
 (2) Where the premises are unoccupied, the seizing officer shall whenever possible post a list of the things seized conspicuously on the premises.
 
-Power to
+<!-- marginal: Power to -->
 
-51. Notwithstanding sections 47 and 48, an authorised enter officer may at any time enter any premises for the purpose premises. of—
+51. Notwithstanding sections 47 and 48, an authorised
+
+<!-- marginal: enter -->
+
+officer may at any time enter any premises for the purpose
+
+<!-- marginal: premises. -->
+
+of—
 
 (a) inspecting any oil palm product, conveyance, machinery, contrivance, equipment, book, record, document or other article as he considers necessary;
 
@@ -1000,17 +1334,51 @@ and the proceeds of the sale be held while waiting for the result of any prosecu
 
 (2) Notwithstanding subsection (1), where an analyst certifies, or if the results of tests as certified by an analyst proves, that the oil palm product tested by him is contaminated, the seizing officer may keep it in custody or, if no prosecution is instituted in respect of the oil palm product, cause it to be disposed of in the manner determined by the Director-General.
 
-Seized oil
+<!-- marginal: Seized oil -->
 
-54. Any oil palm product or the proceeds of sale thereof, palm product, or any conveyance, machinery, contrivance, equipment, etc. liable to forfeiture. book, record, document or other article seized in exercise of any power conferred under this Act shall be liable to forfeiture.
+54. Any oil palm product or the proceeds of sale thereof,
 
-Property in
+<!-- marginal: palm product, -->
 
-55. Any oil palm product or the proceeds of sale thereof, forfeited oil or any conveyance, machinery, contrivance, equipment, palm product etc. book, record, document or other article forfeited or taken and deemed to be forfeited under this Part shall be the property of the Board.
+or any conveyance, machinery, contrivance, equipment,
 
-Forfeiture or
+<!-- marginal: etc. liable to -->
 
-56. (1) If prosecution is instituted with regard to any oil release of palm product or the proceeds of sale thereof, or any seized 0il palm product . conveyance, machinery, contrivance, equipment, book, etc. record, document or other article seized under this Act, the court before which the prosecution with regard thereto has been held may order the forfeiture or release of the thing concerned.
+<!-- marginal: forfeiture. -->
+
+book, record, document or other article seized in exercise of any power conferred under this Act shall be liable to forfeiture.
+
+<!-- marginal: Property in -->
+
+55. Any oil palm product or the proceeds of sale thereof,
+
+<!-- marginal: forfeited oil -->
+
+or any conveyance, machinery, contrivance, equipment,
+
+<!-- marginal: palm product -->
+
+<!-- marginal: etc. -->
+
+book, record, document or other article forfeited or taken and deemed to be forfeited under this Part shall be the property of the Board.
+
+<!-- marginal: Forfeiture or -->
+
+56. (1) If prosecution is instituted with regard to any oil
+
+<!-- marginal: release of -->
+
+palm product or the proceeds of sale thereof, or any
+
+<!-- marginal: seized 0il -->
+
+<!-- marginal: palm product -->
+
+. conveyance, machinery, contrivance, equipment, book,
+
+<!-- marginal: etc. -->
+
+record, document or other article seized under this Act, the court before which the prosecution with regard thereto has been held may order the forfeiture or release of the thing concerned.
 
 (2) The court shall order the forfeiture of the oil palm product or the proceeds of sale thereof, or the conveyance, machinery, contrivance, equipment, book, record, document or other article if it is proved to the satisfaction of the court that an offence under this Act has been committed and that the oil palm product or the proceeds of sale thereof, or the conveyance, machinery, contrivance, equipment, book, record, document or other article was the subject-matter of or was used in the commission of the offence, notwithstanding that no person may have been convicted of such offence.
 
@@ -1048,7 +1416,19 @@ conveyance, machinery, contrivance, equipment, book, record, document or other a
 
 (6) The Board shall not be liable to any person for any deterioration, no matter how arising, in the quality of any oil palm product seized under this Act.
 
-58. Notwithstanding section 57, the Director-General or Release of seized oil any officer authorised by the Director-General may, where palm product, etc. he thinks fit, at any time direct that any oil palm product or the proceeds of sale thereof, or any conveyance, machinery, contrivance, equipment, book, record, document or other article seized under this Part be released to the person from whose possession, custody or control it was seized.
+58. Notwithstanding section 57, the Director-General or
+
+<!-- marginal: Release of -->
+
+<!-- marginal: seized oil -->
+
+any officer authorised by the Director-General may, where
+
+<!-- marginal: palm product, -->
+
+<!-- marginal: etc. -->
+
+he thinks fit, at any time direct that any oil palm product or the proceeds of sale thereof, or any conveyance, machinery, contrivance, equipment, book, record, document or other article seized under this Part be released to the person from whose possession, custody or control it was seized.
 
 <!-- page 37 -->
 
@@ -1116,13 +1496,31 @@ under this Act is held in the custody of the Board or the Government pending com
 
 <!-- page 38 -->
 
-No costs or
+<!-- marginal: No costs or -->
 
-63. No person shall, in any proceedings before any court damages in respect of the seizure of any oil palm product or the arising from seizure to be proceeds of sale thereof, or any conveyance, machinery, recoverable. contrivance, equipment, book, record, document or other article seized in the exercise or the purported exercise of any power conferred under this Act, be entitled to the costs of such proceedings or to any damages or other relief unless such seizure was made without reasonable cause.
+63. No person shall, in any proceedings before any court
 
-Additional
+<!-- marginal: damages -->
 
-64. (1) An authorised officer shall, for the purposes of powers. the execution of this Act, have power to do all or any of the following acts:
+in respect of the seizure of any oil palm product or the
+
+<!-- marginal: arising from -->
+
+<!-- marginal: seizure to be -->
+
+proceeds of sale thereof, or any conveyance, machinery,
+
+<!-- marginal: recoverable. -->
+
+contrivance, equipment, book, record, document or other article seized in the exercise or the purported exercise of any power conferred under this Act, be entitled to the costs of such proceedings or to any damages or other relief unless such seizure was made without reasonable cause.
+
+<!-- marginal: Additional -->
+
+64. (1) An authorised officer shall, for the purposes of
+
+<!-- marginal: powers. -->
+
+the execution of this Act, have power to do all or any of the following acts:
 
 (a) to require the production of records, accounts, computerised data and documents and to inspect, examine and copy any of them;
 
@@ -1132,11 +1530,23 @@ Additional
 
 (2) A person who fails to comply with a request made under subsection (1) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding two years or to both.
 
-Offence to
+<!-- marginal: Offence to -->
 
-65. A person who— assault or obstruct
+65. A person who—
 
-(a) assaults, obstructs, impedes or interferes with authorised any authorised officer in the performance of his officer. functions under this Act;
+<!-- marginal: assault or -->
+
+<!-- marginal: obstruct -->
+
+(a) assaults, obstructs, impedes or interferes with
+
+<!-- marginal: authorised -->
+
+any authorised officer in the performance of his
+
+<!-- marginal: officer. -->
+
+functions under this Act;
 
 (b) rescues or endeavours to rescue any oil palm product or the proceeds of sale thereof, or any conveyance, machinery, contrivance, equipment, book, record, document or other article seized under this Act; or
 
@@ -1204,9 +1614,13 @@ any manner or to any extent responsible for the management of any of the affairs
 
 (c) by the employee of such agent in the course of his employment by such agent or otherwise on behalf of the agent.
 
-General
+<!-- marginal: General -->
 
-69. (1) A person who is guilty of an offence under this penalty. Act for which no penalty is expressly provided shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding two years or to both.
+69. (1) A person who is guilty of an offence under this
+
+<!-- marginal: penalty. -->
+
+Act for which no penalty is expressly provided shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding two years or to both.
 
 (2) For the purposes of this section, "this Act" shall not include the regulations made under this Act.
 
@@ -1246,31 +1660,57 @@ committed by any person under this Act and prescribed to be a compoundable offen
 
 <!-- page 42 -->
 
-Institution
+<!-- marginal: Institution -->
 
-72. (1) No prosecution for or in relation to any offence and conduct under this Act shall be instituted without the written of prosecution. consent of the Public Prosecutor.
+72. (1) No prosecution for or in relation to any offence
+
+<!-- marginal: and conduct -->
+
+under this Act shall be instituted without the written
+
+<!-- marginal: of -->
+
+<!-- marginal: prosecution. -->
+
+consent of the Public Prosecutor.
 
 (2) Any officer of the Board authorised in writing by the Public Prosecutor may conduct the prosecution for any offence under this Act.
 
-Jurisdiction
+<!-- marginal: Jurisdiction -->
 
-73. Notwithstanding any written law to the contrary, a to try Court of a Magistrate of the First Class shall have offences. jurisdiction to try any offence under this Act and to impose the full punishment for any such offence.
+73. Notwithstanding any written law to the contrary, a
 
-Protection of
+<!-- marginal: to try -->
 
-74. No action or prosecution shall be brought, instituted officers. or maintained in any court against—
+Court of a Magistrate of the First Class shall have
+
+<!-- marginal: offences. -->
+
+jurisdiction to try any offence under this Act and to impose the full punishment for any such offence.
+
+<!-- marginal: Protection of -->
+
+74. No action or prosecution shall be brought, instituted
+
+<!-- marginal: officers. -->
+
+or maintained in any court against—
 
 (a) the Director-General, Deputy Directors-General, or any other officer duly appointed under this Act for or on account of or in respect of any act ordered or done for the purpose of carrying this Act into effect; and
 
 (b) any other person for or on account of or in respect of any act done or purported to be done by him under the order, direction or instruction of the Director-General, a Deputy Director- General or any other officer duly appointed under this Act if the act was done in good faith and in a reasonable belief that it was necessary for the purpose intended to be served by it.
 
-Rewards.
+<!-- marginal: Rewards. -->
 
 75. The Director-General may order such rewards as he thinks fit to be paid to any person for services rendered in connection with the detection of any offence under this Act or in connection with any seizures made under this Act.
 
-Protection of
+<!-- marginal: Protection of -->
 
-76. (1) Except as provided in subsections (2) and (3), informers. no witness in any civil or criminal proceeding shall be obliged or permitted to disclose the name or address of an informer or the substance of the information received from him or to state any matter which might lead to his discovery.
+76. (1) Except as provided in subsections (2) and (3),
+
+<!-- marginal: informers. -->
+
+no witness in any civil or criminal proceeding shall be obliged or permitted to disclose the name or address of an informer or the substance of the information received from him or to state any matter which might lead to his discovery.
 
 <!-- page 43 -->
 
@@ -1370,23 +1810,53 @@ and duties that before the appointed day were those of the dissolved Authority, 
 
 <!-- page 46 -->
 
-Transfer of
+<!-- marginal: Transfer of -->
 
-82. (1) All lands that before the appointed day were property. vested in, or reserved under any written law relating to land for the purposes of, the dissolved Authority, the dissolved Board and the dissolved Institute shall on that day vest in or be deemed to be reserved for the purposes of the Board.
+82. (1) All lands that before the appointed day were
+
+<!-- marginal: property. -->
+
+vested in, or reserved under any written law relating to land for the purposes of, the dissolved Authority, the dissolved Board and the dissolved Institute shall on that day vest in or be deemed to be reserved for the purposes of the Board.
 
 (2) All property and assets other than land that before the appointed day were vested in the dissolved Authority, the dissolved Board and the dissolved Institute or in any person on behalf of the dissolved Authority, the dissolved Board or the dissolved Institute, as the case may be, shall on that day vest in the Board.
 
-Existing
+<!-- marginal: Existing -->
 
-83. All deeds, bonds, agreements, instruments and working contracts. arrangements subsisting before the appointed day and affecting any of the property transferred under section 82 shall have full force and effect against or in favour of the Board and shall be enforceable as fully and effectually as if, instead of the dissolved Authority, the dissolved Board or the dissolved Institute or any person acting on behalf of the dissolved Authority, the dissolved Board or the dissolved Institute, the Board had been named therein or been a party thereto.
+83. All deeds, bonds, agreements, instruments and working
 
-Transfer of
+<!-- marginal: contracts. -->
 
-84. All monies standing in or due to be paid to the funds monies in of the dissolved Authority or the dissolved Board funds. established under the repealed Acts shall on the appointed day be transferred to and be deemed to be part of the Fund established under section 32 of this Act.
+arrangements subsisting before the appointed day and affecting any of the property transferred under section 82 shall have full force and effect against or in favour of the Board and shall be enforceable as fully and effectually as if, instead of the dissolved Authority, the dissolved Board or the dissolved Institute or any person acting on behalf of the dissolved Authority, the dissolved Board or the dissolved Institute, the Board had been named therein or been a party thereto.
 
-Membership
+<!-- marginal: Transfer of -->
 
-85. (1) Notwithstanding anything to the contrary, the of dissolved members of the dissolved Authority and the dissolved Authority and dissolved Board and the members of any committee appointed under Board. the repealed Acts who held office before the appointed day shall cease to hold office on that day.
+84. All monies standing in or due to be paid to the funds
+
+<!-- marginal: monies in -->
+
+of the dissolved Authority or the dissolved Board
+
+<!-- marginal: funds. -->
+
+established under the repealed Acts shall on the appointed day be transferred to and be deemed to be part of the Fund established under section 32 of this Act.
+
+<!-- marginal: Membership -->
+
+85. (1) Notwithstanding anything to the contrary, the
+
+<!-- marginal: of dissolved -->
+
+members of the dissolved Authority and the dissolved
+
+<!-- marginal: Authority and -->
+
+<!-- marginal: dissolved -->
+
+Board and the members of any committee appointed under
+
+<!-- marginal: Board. -->
+
+the repealed Acts who held office before the appointed day shall cease to hold office on that day.
 
 (2) Nothing in subsection (1) shall affect the accountability of the outgoing members of the dissolved Authority and the dissolved Board and as soon as practicable after the appointed day, the dissolved Authority and the
 
@@ -1432,17 +1902,37 @@ to be licensed under this Act, he may apply to the Board for a licence in accord
 
 (5) All registers kept and maintained under the repealed Acts shall be deemed to be registers kept and maintained under this Act and shall be deemed to form part thereof.
 
-Continuance
+<!-- marginal: Continuance -->
 
-88. (1) All applications, approvals or decisions, on appeal of pending or otherwise, pending before the dissolved Authority, the applications, etc. dissolved Board or the dissolved Institute under the repealed Acts shall on the appointed day be dealt with by the Board under this Act.
+88. (1) All applications, approvals or decisions, on appeal
+
+<!-- marginal: of pending -->
+
+or otherwise, pending before the dissolved Authority, the
+
+<!-- marginal: applications, -->
+
+<!-- marginal: etc. -->
+
+dissolved Board or the dissolved Institute under the repealed Acts shall on the appointed day be dealt with by the Board under this Act.
 
 (2) All applications, approvals or decisions, on appeal or otherwise, pending before the Minister under the repealed Acts shall on the appointed day be dealt with by the Minister under this Act.
 
 (3) All instruments, certificates or documents lodged with the dissolved Authority, the dissolved Board or the dissolved Institute under the repealed Acts before the appointed day shall on the appointed day be lodged with the Board.
 
-Continuance
+<!-- marginal: Continuance -->
 
-89. (1) Neither the repeal under section 80 nor anything of civil and contained in this Act shall affect any person's liability criminal proceedings. to be prosecuted or punished for offences committed under the repealed Acts before the appointed day, or any proceedings brought before that day in respect of such offences.
+89. (1) Neither the repeal under section 80 nor anything
+
+<!-- marginal: of civil and -->
+
+contained in this Act shall affect any person's liability
+
+<!-- marginal: criminal -->
+
+<!-- marginal: proceedings. -->
+
+to be prosecuted or punished for offences committed under the repealed Acts before the appointed day, or any proceedings brought before that day in respect of such offences.
 
 (2) Any proceedings, whether civil or criminal, or cause of action pending or existing before the appointed day by or against the dissolved Authority, the dissolved Board or the dissolved Institute or any person acting on behalf of the dissolved Authority, the dissolved Board or the dissolved Institute may be continued or instituted by or against the Board as it might have been by or against the dissolved Authority, the dissolved Board, the dissolved Institute or such person if this Act had not been enacted.
 
@@ -1508,7 +1998,7 @@ Board, whenever it appears to him necessary or expedient to do so, whether for t
 
 [Subsection 3(3)]
 
-### Meetings.
+<!-- marginal: Meetings. -->
 
 1. (1) The Board shall meet at least once in every three months at such time and place as may be appointed by the Chairman.
 
@@ -1522,17 +2012,27 @@ Board, whenever it appears to him necessary or expedient to do so, whether for t
 
 (6) If on a question to be determined by the Board there is an equality of votes, the Chairman shall have a casting vote.
 
-Allowance.
+<!-- marginal: Allowance. -->
 
 2. Members of the Board shall be paid such allowances as the Minister may determine.
 
-Board may mvii
+<!-- marginal: Board may mvii -->
 
-3. (1) The Board may invite any person to attend a meeting or others to deliberation of the Board for the purpose of advising it on any matter meetings. under discussion but that person shall not be entitled to vote at the meeting or deliberation.
+3. (1) The Board may invite any person to attend a meeting or
+
+<!-- marginal: others -->
+
+<!-- marginal: to -->
+
+deliberation of the Board for the purpose of advising it on any matter
+
+<!-- marginal: meetings. -->
+
+under discussion but that person shall not be entitled to vote at the meeting or deliberation.
 
 (2) A person invited under subparagraph (1) may be paid such fee as the Board may determine.
 
-Common seal.
+<!-- marginal: Common seal. -->
 
 4. (1) The Board shall have a common seal which shall bear such device as the Board shall approve and such seal may be broken, changed, altered or made anew as the Board deems fit.
 
@@ -1594,17 +2094,31 @@ of the Board as may be necessary to discharge his duties effectively.
 
 <!-- page 52 -->
 
-Appointment to
+<!-- marginal: Appointment to -->
 
-10. The appointment of every member and alternate member of the be published. Board shall be published in the Gazette.
+10. The appointment of every member and alternate member of the
+
+<!-- marginal: be published. -->
+
+Board shall be published in the Gazette.
 
 ## SECOND SCHEDULE
 
 [Subsection 43(2)]
 
-Power of Board to
+<!-- marginal: Power of Board to -->
 
-1. The Board shall, on or before the date on which any corporation make regulations is established under section 43, make regulations in respect of such in respect of corporation. corporation defining—
+1. The Board shall, on or before the date on which any corporation
+
+<!-- marginal: make regulations -->
+
+is established under section 43, make regulations in respect of such
+
+<!-- marginal: in respect of -->
+
+<!-- marginal: corporation. -->
+
+corporation defining—
 
 (a) the purposes and objects for which the corporation is established;
 
@@ -1614,23 +2128,45 @@ Power of Board to
 
 (d) the relations between such corporation and the Board and the Board's rights of control over such corporation.
 
-Limitation on
+<!-- marginal: Limitation on -->
 
-2. Nothing in paragraph 1 shall be deemed to authorise the Board power to to make regulations for any purpose or object more extensive in establish corporation. scope than the purposes or objects for which the Board has been constituted or to confer on any corporation any right, duty, power or function which is not within the rights, duties, powers or functions of the Board under this Act.
+2. Nothing in paragraph 1 shall be deemed to authorise the Board
 
-Effect of
+<!-- marginal: power to -->
 
-3. Subject to the provisions of this Act and of any regulations regulations. made under section 78, any regulations made under paragraph 1 shall be binding on the corporation in respect of which they were made and shall have effect for all purposes as if they had been enacted in this Act.
+to make regulations for any purpose or object more extensive in
 
-Amendment of
+<!-- marginal: establish -->
 
-4. The Board may at any time amend, revoke or add to any regulations regulations. made under paragraph 1 in respect of any corporation.
+<!-- marginal: corporation. -->
 
-Register of
+scope than the purposes or objects for which the Board has been constituted or to confer on any corporation any right, duty, power or function which is not within the rights, duties, powers or functions of the Board under this Act.
 
-5. The Board shall keep a register in the prescribed form of all corporations. corporations established by it under section 43 and such register, together with copies of all regulations made under paragraphs 1 and 4, shall be open to public inspection at such place or places and at such time as it may prescribe.
+<!-- marginal: Effect of -->
 
-Winding up.
+3. Subject to the provisions of this Act and of any regulations
+
+<!-- marginal: regulations. -->
+
+made under section 78, any regulations made under paragraph 1 shall be binding on the corporation in respect of which they were made and shall have effect for all purposes as if they had been enacted in this Act.
+
+<!-- marginal: Amendment of -->
+
+4. The Board may at any time amend, revoke or add to any regulations
+
+<!-- marginal: regulations. -->
+
+made under paragraph 1 in respect of any corporation.
+
+<!-- marginal: Register of -->
+
+5. The Board shall keep a register in the prescribed form of all
+
+<!-- marginal: corporations. -->
+
+corporations established by it under section 43 and such register, together with copies of all regulations made under paragraphs 1 and 4, shall be open to public inspection at such place or places and at such time as it may prescribe.
+
+<!-- marginal: Winding up. -->
 
 6. (1) The Board may, with the approval of the Minister, by order published in the Gazette, direct that any corporation established by it be wound up and dissolved.
 

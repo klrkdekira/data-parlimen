@@ -32,4 +32,6 @@ EXPLANATORY STATEMENT This Bill seeks to amend the Environmental Quality Act 197
 
 ## FINANCIAL IMPLICATIONS
 
-This Bill will not involve the Government in any extra financial expenditure. [PN(U2)2540]
+This Bill will not involve the Government in any extra financial expenditure.
+
+<!-- marginal: [PN(U2)2540] -->

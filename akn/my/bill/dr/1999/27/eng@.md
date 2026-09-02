@@ -14,19 +14,27 @@ Ciause 1. Short title 2. Amendments of Acts
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
-3. Commencement of amendments to the Income Tax Act 1967 4. Amendment of section 46 5. Amendment of section 49 6. Substitution of section 50 7. Deletion of section 60D 8. Amendment of section 107B 9. Amendment of Schedule 1 10. Amendment of Schedule 3 11. Amendment of Schedule 6
+3. Commencement of amendments to the Income Tax Act 1967 4. Amendment of section 46 5. Amendment of section 49 6. Substitution of section 50 7. Deletion of section 60D 8. Amendment of section 107B 9. Amendment of Schedule 1
+
+10. Amendment of Schedule 3
+
+11. Amendment of Schedule 6
 
 ## CHAPTER
 
-<!-- marginal: III -->
+III
 
 ## AMENDMENTS TO THE PETROLEUM (INCOME TAX) ACT 1967
 
-12. Commencement of amendments to the Petroleum (Income Tax) Act 1967 13. Amendment of section 13A 14. Amendment of Second Schedule
+12. Commencement of amendments to the Petroleum (Income Tax) Act 1967
+
+13. Amendment of section 13A
+
+14. Amendment of Second Schedule
 
 ## CHAPTER
 
-<!-- marginal: IV -->
+IV
 
 ## AMENDMENT TO THE STAMP ACT 1949
 
@@ -114,7 +122,9 @@ Commencement of amendments to the Income Tax Act 1967
 
 Provided that where the wife has no total income the total deduction under this subsection shall not exceed one thousand ringgit."; and
 
-(e) in subsection (3), by substituting for the words 'this section "insurance" and "deferred annuity", in relation to an individual claiming a deduction under subsection (1),' the words 'relation to an individual claiming a deduction under subsection (1), "insurance" and "deferred annuity" '.
+(e) in subsection (3), by substituting for the words 'this section "insurance" and "deferred annuity", in relation to an individual claiming a deduction under subsection
+
+(1),' the words 'relation to an individual claiming a deduction under subsection (1), "insurance" and "deferred annuity" '.
 
 ### Substitution of section 50
 
@@ -156,93 +166,27 @@ the application of section 49 to that individual shall be subject to this sectio
 
 (i) in paragraph 1, by substituting for the existing rates the following rates:
 
-"Chargeable Income
+"Chargeable Income RM Rate of Income Tax
 
-<!-- marginal: RM -->
+For every ringgit of the 2,500 0 per cent first
 
-<!-- marginal: Rate of Income -->
+For every ringgit of the 2,500 1 per cent next
 
-<!-- marginal: Tax -->
+For every ringgit of the 5,000 3 per cent next
 
-For every ringgit of the
+For every ringgit of the 10,000 5 per cent next
 
-<!-- marginal: 2,500 -->
+For every ringgit of the 15,000 9 per cent next
 
-<!-- marginal: 0 per cent -->
+For every ringgit of the 15,000 15 per cent next
 
-first
+For every ringgit of the 20,000 20 per cent next
 
-For every ringgit of the
+For every ringgit of the 30,000 25 per cent next
 
-<!-- marginal: 2,500 -->
+For every ringgit of the 50,000 28 per cent next
 
-<!-- marginal: 1 per cent -->
-
-next
-
-For every ringgit of the
-
-<!-- marginal: 5,000 -->
-
-<!-- marginal: 3 per cent -->
-
-next
-
-For every ringgit of the
-
-<!-- marginal: 10,000 -->
-
-<!-- marginal: 5 per cent -->
-
-next
-
-For every ringgit of the
-
-<!-- marginal: 15,000 -->
-
-<!-- marginal: 9 per cent -->
-
-next
-
-For every ringgit of the
-
-<!-- marginal: 15,000 -->
-
-<!-- marginal: 15 per cent -->
-
-next
-
-For every ringgit of the
-
-<!-- marginal: 20,000 -->
-
-<!-- marginal: 20 per cent -->
-
-next
-
-For every ringgit of the
-
-<!-- marginal: 30,000 -->
-
-<!-- marginal: 25 per cent -->
-
-next
-
-For every ringgit of the
-
-<!-- marginal: 50,000 -->
-
-<!-- marginal: 28 per cent -->
-
-next
-
-For every rirtggit
-
-<!-- marginal: 150,000 -->
-
-<!-- marginal: 29 per cent"; -->
-
-exceeding
+For every rirtggit 150,000 29 per cent"; exceeding
 
 and
 
@@ -252,59 +196,11 @@ and
 
 (b) in Part IV, by substituting for the existing rates the following rates:
 
-"Chargeable Income
-
-<!-- marginal: RM -->
-
-<!-- marginal: Rate of Income -->
+"Chargeable Income RM Rate of Income
 
 <!-- marginal: Tax -->
 
-For every ringgit of the 10,000
-
-<!-- marginal: 0 per cent -->
-
-first For every ringgit of the 10,000
-
-<!-- marginal: 1 per cent -->
-
-next For every ringgit of the 10,000
-
-<!-- marginal: 4 per cent -->
-
-next For every ringgit of the 10,000
-
-<!-- marginal: 7 per cent -->
-
-next For every ringgit of the 10,000
-
-<!-- marginal: 10 per cent -->
-
-next For every ringgit of the 25,000
-
-<!-- marginal: 13 per cent -->
-
-next For every ringgit of the 25,000
-
-<!-- marginal: 17 per cent -->
-
-next For every ringgit of the 50,000
-
-<!-- marginal: 21 per cent -->
-
-next For every ringgit of the 100,000
-
-<!-- marginal: 24 per cent -->
-
-next For every ringgit of the 250,000
-
-<!-- marginal: 27 per cent -->
-
-next For every ringgit 500,000
-
-<!-- marginal: 29 per cent". -->
-
-exceeding
+For every ringgit of the 10,000 0 per cent first For every ringgit of the 10,000 1 per cent next For every ringgit of the 10,000 4 per cent next For every ringgit of the 10,000 7 per cent next For every ringgit of the 10,000 10 per cent next For every ringgit of the 25,000 13 per cent next For every ringgit of the 25,000 17 per cent next For every ringgit of the 50,000 21 per cent next For every ringgit of the 100,000 24 per cent next For every ringgit of the 250,000 27 per cent next For every ringgit 500,000 29 per cent". exceeding
 
 ### Amendment of Schedule 3
 
@@ -446,19 +342,11 @@ shall be determined in such manner as may be prescribed by rules to be made for 
 
 16. The Stamp Act 1949 is amended in the Second Schedule by inserting after item 18 the following item;
 
-Nature of Instrument and the Item
-
-<!-- marginal: Person required to cancel the -->
-
-Number thereto in First Schedule
+Nature of Instrument and the Item Person required to cancel the Number thereto in First Schedule
 
 <!-- marginal: adhesive stamp -->
 
-"19. SECURITY BOND furnished to
-
-<!-- marginal: An immigration officer". -->
-
-the Director General of Immigration in connection with the grant of a Professional Visit Pass for an Artiste, a Social Visit Pass and a Work Permit Pass - No. 25
+"19. SECURITY BOND furnished to An immigration officer". the Director General of Immigration in connection with the grant of a Professional Visit Pass for an Artiste, a Social Visit Pass and a Work Permit Pass - No. 25
 
 ## CHAPTER V
 
@@ -506,7 +394,9 @@ This amendment is effective from the year of assessment 2000 on a current year b
 
 5. Clause 8 of the Bill seeks to amend section 107B of Act 53. The proviso to subsection 107B(2) is amended to provide that a person who is required to make payment by instalments on account of tax may apply to the Director General not later than the thirtieth day of June to vary the amount of instalments and the number of instalments. Before this proposed amendment, a person was allowed to do so before the fifteenth day of April. This amendment is effective from the year of assessment 2000 on a current year basis.
 
-6. Clause 9 of the Bill seeks to amend Parts I and IV of Schedule 1 to Act 53. The proposed amendment to Part I of Schedule 1 seeks to provide for the rates of tax in respect of resident persons to range from 0 to 29 per cent. This represents a reduction in the existing rates of tax in respect of resident persons. In relation to non-resident persons other than companies, the rate of tax is reduced from 30 per cent to 29 per cent. The proposed amendment to Part IV of Schedule I is to reduce the existing rates of tax for co-operative societies which range from 0 to 30 per cent to range from 0 to 29 per cent. This amendment is effective from the year of assessment 2000 on a current year basis.
+6. Clause 9 of the Bill seeks to amend Parts I and IV of Schedule 1 to Act
+
+53. The proposed amendment to Part I of Schedule 1 seeks to provide for the rates of tax in respect of resident persons to range from 0 to 29 per cent. This represents a reduction in the existing rates of tax in respect of resident persons. In relation to non-resident persons other than companies, the rate of tax is reduced from 30 per cent to 29 per cent. The proposed amendment to Part IV of Schedule I is to reduce the existing rates of tax for co-operative societies which range from 0 to 30 per cent to range from 0 to 29 per cent. This amendment is effective from the year of assessment 2000 on a current year basis.
 
 7. Clause 10 of the Bill seeks to amend Schedule 3 to Act 53 by introducing new paragraphs 16A and 67B into Schedule 3. Paragraph 16A provides that a person who has incurred qualifying building expenditure on the construction of a building to which paragraph 67B applies where at the end of the basis period for a year of assessment the building was on lease to the Government is to be given an allowance equal to three-fiftieths or such other prescribed fraction of that expenditure.
 
@@ -540,9 +430,7 @@ Paragraphs 2lA and 23A are introduced into the Second Schedule to Act 543 to pro
 
 This amendment is effective from the year of assessment 2000.
 
-Subsubparagraph 4l(b) of the Second Schedule to Act 543 is amended to provide that the disposer of a vested asset shall not be entitled to a claim for balancing allowance. This amendment is effective from the year of assessment
-
-2000.
+Subsubparagraph 4l(b) of the Second Schedule to Act 543 is amended to provide that the disposer of a vested asset shall not be entitled to a claim for balancing allowance. This amendment is effective from the year of assessment 2000.
 
 ## CHAPTER
 

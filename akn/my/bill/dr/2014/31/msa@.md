@@ -8,19 +8,37 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian i
+## BAHAGIAN I
 
-PERMULaan 1. Tajuk ringkas dan permulaan kuat kuasa 2. Pemakaian 3. Tafsiran
+## PERMULAAN
 
-## Bahagian ii
+1. Tajuk ringkas dan permulaan kuat kuasa 2. Pemakaian 3. Tafsiran
+
+## BAHAGIAN II
 
 ## PENTADBIRAN
 
-4. Peletakan Syarikat, dsb., di bawah pentadbiran 5. Pelantikan Pentadbir 6. Tempoh pentadbiran 7. Kelayakan Pentadbir 8. Pemberitahuan pelantikan Pentadbir 9. Fungsi Pentadbir 10. Kuasa Pentadbir 11. Kesan pelantikan Pentadbir 12. Moratorium 13. Keutamaan yang tidak wajar 14. Perkhidmatan peralihan 15. Kesan pengambilalihan kawalan pemberi perkhidmatan peralihan 16. Penyiasatan oleh Pentadbir 17. Kewajipan pegawai untuk membantu dalam penyiasatan
+4. Peletakan Syarikat, dsb., di bawah pentadbiran 5. Pelantikan Pentadbir 6. Tempoh pentadbiran 7. Kelayakan Pentadbir 8. Pemberitahuan pelantikan Pentadbir 9. Fungsi Pentadbir
+
+10. Kuasa Pentadbir
+
+11. Kesan pelantikan Pentadbir
+
+12. Moratorium
+
+13. Keutamaan yang tidak wajar
+
+14. Perkhidmatan peralihan
+
+15. Kesan pengambilalihan kawalan pemberi perkhidmatan peralihan
+
+16. Penyiasatan oleh Pentadbir
+
+17. Kewajipan pegawai untuk membantu dalam penyiasatan
 
 <!-- page 2 -->
 
-## Bahagian iii
+## BAHAGIAN III
 
 ## CADANGAN PENTADBIR DAN PELANTIKAN PENASIHAT BEBAS
 
@@ -36,7 +54,7 @@ PERMULaan 1. Tajuk ringkas dan permulaan kuat kuasa 2. Pemakaian 3. Tafsiran
 
 23. Pemindahan harta atau tanggungan
 
-## Bahagian iV
+## BAHAGIAN IV
 
 ## MALAYSIA AIRLINES BERHAD
 
@@ -52,7 +70,7 @@ PERMULaan 1. Tajuk ringkas dan permulaan kuat kuasa 2. Pemakaian 3. Tafsiran
 
 29. Perkara yang berhubungan dengan produktiviti atau penggunaan tenaga kerja dengan berkesan
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PELETAKHAKAN HARTA DAN TANGGUNGAN
 
@@ -60,9 +78,9 @@ PERMULaan 1. Tajuk ringkas dan permulaan kuat kuasa 2. Pemakaian 3. Tafsiran
 
 31. Perintah peletakhakan gantian
 
-## Bahagian Vi
+## BAHAGIAN VI
 
-aM
+AM
 
 32. Ketidakpakaian seksyen 132E Akta Syarikat 1965
 
@@ -76,7 +94,7 @@ aM
 
 37. Benda yang dilakukan dengan menjangkakan Akta ini akan diperbuat
 
-## JadUaL
+## JADUAL
 
 <!-- page 3 -->
 
@@ -100,7 +118,7 @@ DAN BAHAwASANYA perundangan memperuntukkan, suatu cara yang berkesan, cekap dan 
 
 Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -164,7 +182,7 @@ mengikut mana-mana yang lebih awal.
 
 “tanggungan” termasuklah hutang, caj dan obligasi daripada setiap perihalan sama ada pada masa sekarang atau hadapan, sebenar atau kontingen, dan sama ada kena dibayar atau hendaklah dipatuhi atau dilaksanakan di Malaysia atau tempat lain.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PENTADBIRAN
 
@@ -262,7 +280,9 @@ di bawah pentadbiran mengikut Akta ini.
 
 (f) untuk melaksanakan apa-apa fungsi yang boleh dilaksanakan atau dijalankan oleh Syarikat yang Ditadbir atau mana- mana pegawai Syarikat yang Ditadbir jika Pentadbir tidak dilantik.
 
-(2) Tiada apa-apa dalam perenggan (1)(d) boleh menghendaki Pentadbir untuk memanggil apa-apa mesyuarat Syarikat yang Ditadbir.
+(2) Tiada apa-apa dalam perenggan (1)(d) boleh menghendaki Pentadbir untuk memanggil apa-apa mesyuarat Syarikat yang
+
+<!-- marginal: Ditadbir. -->
 
 <!-- page 10 -->
 
@@ -390,7 +410,9 @@ kecuali dengan persetujuan bertulis Pentadbir terlebih dahulu;
 
 (2) Menteri boleh, atas permintaan bertulis Pentadbir atau pelantik, melanjutkan moratorium bagi suatu tempoh tidak lebih daripada dua belas bulan selepas berpuas hati bahawa hal keadaan itu mewajarkan pelanjutan itu, dan kuasa pelanjutan sedemikian tidak boleh dilakukan lebih daripada sekali.
 
-(3) Jika tempoh moratorium dilanjutkan menurut subseksyen (2), Pentadbir hendaklah menyebabkan supaya notis pelanjutan itu disiarkan dalam sekurang-kurangnya dua akhbar harian kebangsaan, salah satu daripadanya hendaklah dalam bahasa kebangsaan.
+(3) Jika tempoh moratorium dilanjutkan menurut subseksyen
+
+(2), Pentadbir hendaklah menyebabkan supaya notis pelanjutan itu disiarkan dalam sekurang-kurangnya dua akhbar harian kebangsaan, salah satu daripadanya hendaklah dalam bahasa kebangsaan.
 
 ### keutamaan yang tidak wajar
 
@@ -480,7 +502,7 @@ sebagaimana yang dikehendaki oleh Pentadbir secara munasabah.
 
 (3) Pentadbir hendaklah, apabila pentadbiran di bawah Akta ini berakhir, mengembalikan apa-apa buku, rekod dan dokumen yang diterima di bawah subseksyen (1) kepada Syarikat yang Ditadbir.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## CADANGAN PENTADBIR DAN PELANTIKAN PENASIHAT BEBAS
 
@@ -590,7 +612,7 @@ apa-apa notis atau kelulusan atau persetujuan mana-mana anggota atau pemiutang S
 
 <!-- page 24 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## MALAYSIA AIRLINES BERHAD
 
@@ -666,7 +688,7 @@ hendaklah melalui mesyuarat.
 
 (2) Malaysia Airlines Berhad dalam menentukan apa-apa perkara di bawah subsekyen (1) hendaklah mematuhi semua undang-undang dan standard antarabangsa yang terpakai.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PELETAKHAKAN HARTA DAN TANGGUNGAN
 
@@ -692,7 +714,7 @@ Malaysia Airlines Berhad, hendaklah menjadi keterangan muktamad mengenai peminda
 
 (5) Bagi maksud Akta ini, apa-apa sebutan mengenai sesuatu perintah peletakhakan hendaklah disifatkan sebagai termasuk sebutan mengenai perintah peletakhakan gantian.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 AM
 
@@ -768,7 +790,7 @@ dan apa-apa perintah sedemikian, jika diberikan, adalah tidak sah dan tidak bole
 
 <!-- page 32 -->
 
-## JadUaL
+## JADUAL
 
 [Seksyen 30]
 

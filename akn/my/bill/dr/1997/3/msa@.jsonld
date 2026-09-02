@@ -24,7 +24,11 @@
       },
       "eli:language": "ms",
       "eli:number": "DR-3-1997",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III"
+      ],
       "schema:name": {
         "@language": "ms",
         "@value": "Rang Undang-Undang Jenayah Tajuk Komputer 1997"
@@ -36,22 +40,584 @@
       "eli:number": "I",
       "hasPart": [
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_1",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_3",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_4",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_5",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_6",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_7",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_8",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_9",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_10",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_11",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_12"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_2"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@",
       "schema:text": {
         "@language": "ms",
         "@value": "PERMULAAN"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "KESALAHAN"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_12"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERUNTUKAN SAMPINGAN DAN AM"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_10__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_10__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_10__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_10__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_10__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bilamana didapati oleh seseorang Majistret daripada maklumat dan selepas apa-apa siasatan yang difikirkannya perlu bahawa ada sebab yang munasabah untuk mempercayai bahawa dalam mana-mana premis ada apa-apa keterangan mengenai pelakuan suatu kesalahan di bawah Akta ini, dia boleh, dengan waran yang diarahkan kepada mana-mana pegawai polis yang berpangkat Inspektor atau lebih tinggi, memberi pegawai itu kuasa untuk memasuki premis itu, dengan kekerasan jika perlu, dan di situ menggeledah, menyita dan menahan apa-apa keterangan sedemikian dan dia hendaklah berhak untuk—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_10__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mendapat capaian kepada mana-mana atur cara atau data yang disimpan dalam mana-mana Jenayah Komputer komputer, atau mendapat capaian kepada, memeriksa atau menyemak pengendalian, mana- mana komputer dan apa-apa radas atau bahan yang berkaitan yang dia mempunyai sebab yang munasabah untuk mengesyaki digunakan atau telah digunakan berkaitan dengan apa-apa kesalahan di bawah Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_10__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_10__subsec_1__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_10__subsec_1__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menghendaki—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_10__subsec_1__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_10__subsec_1__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "orang yang olehnya atau yang bagi pihaknya pegawai polis itu mempunyai sebab yang munasabah untuk mengesyaki komputer itu digunakan atau digunakan; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_10__subsec_1__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_10__subsec_1__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana orang yang mempunyai tanggungjawab bagi atau sebaliknya berurusan dengan pengendalian komputer, radas atau bahan itu, untuk memberikannya bantuan yang munasabah sebagaimana yang dikehendaki bagi maksud perenggan (a); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_10__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menghendaki apa-apa maklumat yang terkandung dalam suatu komputer dan boleh didapati dari premis itu dikeluarkan dalam suatu bentuk yang boleh dibawa pergi dan yang boleh dilihat dan dibaca."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bilamana didapati oleh mana-mana pegawai polis yang berpangkat Inspektor atau lebih tinggi bahawa ada sebab yang munasabah untuk mempercayai bahawa dalam mana-mana premis ada disembunyikan atau diletakkan apa-apa keterangan mengenai pelakuan suatu kesalahan di bawah Akta ini, dan pegawai polis itu ada alasan yang munasabah bagi mempercayai bahawa dengan sebab kelewatan dalam mendapatkan waran geledah tujuan penggeledahan itu mungkin gagal, dia boleh menjalankan dalam dan berkenaan dengan premis itu semua kuasa yang disebut dalam subseksyen (1) dengan sepenuhnya dan secukupnya seolah-olah dia diberi kuasa untuk berbuat demikian oleh waran yang dikeluarkan di bawah subseksyen itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_10__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana pegawai polis boleh menangkap tanpa waran mana-mana orang yang dia secara munasabahnya percaya telah melakukan atau akan melakukan suatu kesalahan terhadap Akta ini, dan tiap-tiap kesalahan terhadap Akta ini hendaklah disifatkan sebagai kesalahan boleh tangkap bagi maksud undang-undang yang sedang berkuatkuasa berhubungan dengan prosedur jenayah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_11__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_11__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_11__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang adalah melakukan suatu kesalahan jika dia—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_11__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menyerang, menghalang, merintangi atau melengahkan mana-mana pegawai polis masuk ke dalam mana-mana premis di bawah Akta ini atau pada melaksanakan apa-apa tugas yang dipertanggungjawab atau apa-apa kuasa yang diberi oleh Akta ini; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_11__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tidak mematuhi apa-apa permintaan sah daripada seseorang pegawai polis yang bertindak pada melaksanakan tugasnya di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang yang melakukan kesalahan di bawah seksyen ini hendaklah apabila disabitkan boleh didenda tidak melebihi dua puluh lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu pendakwaan di bawah Akta ini tidak boleh dimulakan kecuali oleh atau dengan keizinan Pendakwa Raya secara bertulis."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_9__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Peruntukan Akta ini hendaklah, berhubung dengan mana-mana orang, walau apa pun kerakyatan atau kewarganegaraannya, mempunyai kuatkuasa di luar dan juga di dalam Malaysia, dan jika suatu kesalahan di bawah Akta ini dilakukan oleh mana-mana orang di mana-mana tempat di luar Malaysia, dia boleh diuruskan berkenaan dengan kesalahan sedemikian seolah-olah kesalahan itu telah dilakukan di mana-mana tempat dalam Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud subseksyen (1), Akta ini hendaklah terpakai jika, bagi kesalahan yang dipersoalkan, komputer, program atau data itu berada di Malaysia atau yang boleh disambung kepada atau dihantar kepada atau digunakan oleh atau dengan suatu komputer di Malaysia pada masa yang material itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa pembicaraan terhadap mana-mana orang di bawah seksyen ini yang akan menghalang pembicaraan yang kemudian terhadap seseorang itu bagi kesalahan yang sama jika kesalahan itu telah dilakukan dalam Malaysia adalah menghalang pembicaraan selanjutnya terhadapnya di bawah mana-mana undang-undang bertulis berkenaan dengan serah-balik orang, berkenaan dengan kesalahan yang sama di luar Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_3__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_3__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_3__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_3__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang adalah melakukan suatu kesalahan jika—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_3__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_3__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dia menyebabkan suatu komputer melaksanakan apa-apa fungsi dengan niat untuk mendapat capaian kepada mana-mana atur cara atau data yang disimpan dalam mana-mana komputer;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_3__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_3__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "capaian yang dia berniat untuk didapati adalah tanpa kuasa; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_3__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_3__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dia tahu semasa dia menyebabkan komputer itu melaksanakan fungsi itu, demikian berlakunya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_3__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_3__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_3__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Niat seseorang itu untuk melakukan suatu kesalahan di bawah seksyen ini tidak perlu ditujukan kepada—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_3__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana atur cara atau data yang tertentu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_3__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa bentuk atur cara atau data yang tertentu; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_3__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu atur cara atau data yang disimpan dalam mana-mana komputer yang tertentu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang yang melakukan suatu kesalahan di bawah seksyen ini hendaklah apabila disabitkan boleh didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_4__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_4__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_4__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang adalah melakukan suatu kesalahan di bawah seksyen ini jika dia melakukan suatu kesalahan yang disebut dalam seksyen 3 dengan niat—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_4__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk melakukan suatu kesalahan yang melibatkan fraud atau kecurangan atau yang menyebabkan kecederaan sebagaimana yang ditakrifkan dalam Kanun Keseksaan; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_4__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk memudahkan berlakunya suatu kesalahan itu sama ada olehnya sendiri atau oleh mana- mana orang lain."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud seksyen ini, adalah tak material sama ada kesalahan yang seksyen ini terpakai dilakukan pada masa yang sama apabila capaian tanpa kuasa itu didapati atau pada bila-bila masa hadapan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang yang melakukan suatu kesalahan di bawah seksyen ini hendaklah apabila disabitkan boleh didenda tidak melebihi satu ratus lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi sepuluh tahun atau kedua-duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_5__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_5__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang adalah melakukan suatu kesalahan jika dia melakukan apa-apa perbuatan yang dia tahu akan menyebabkan pengubahsuaian tanpa kuasa akan kandungan mana-mana komputer."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_5__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_5__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_5__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud seksyen ini, adalah tak material bahawa perbuatan berkenaan tidak ditujukan kepada—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_5__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana atur cara atau data yang tertentu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_5__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa bentuk atur cara atau data; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_5__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu atur cara atau data yang disimpan dalam mana-mana komputer yang tertentu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud seksyen ini, adalah tak material sama ada suatu pengubahsuaian tanpa kuasa berlaku, atau yang dikehendaki berlaku, kekal atau hanya sementara."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_5__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang yang melakukan suatu kesalahan di bawah seksyen ini hendaklah apabila disabitkan boleh didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tujuh tahun atau kedua-duanya; atau boleh didenda tidak melebihi satu ratus lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi sepuluh tahun atau kedua-keduanya, jika perbuatan itu dilakukan dengan niat menyebabkan kecederaan sebagaimana yang ditakrifkan dalam Kanun Keseksaan. Jenayah Komputer"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_6__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang adalah melakukan suatu kesalahan jika dia berkomunikasi secara langsung atau tak langsung suatu nombor, kod, kata laluan atau cara capaian yang lain kepada suatu komputer kepada mana-mana orang selain daripada orang yang kepadanya dia diberikuasa dengan sempurnanya untuk berkomunikasi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang yang melakukan kesalahan di bawah seksyen ini hendaklah apabila disabitkan boleh didenda tidak melebihi dua puluh lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_7__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang yang bersubahat dalam pelakuan atau cuba untuk melakukan mana-mana kesalahan di bawah Akta ini adalah melakukan kesalahan itu dan hendaklah apabila disabitkan boleh dikenakan hukuman yang diperuntukkan bagi kesalahan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang yang melakukan apa-apa perbuatan persediaan kepada atau bagi mencapai pelakuan mana- mana kesalahan di bawah Akta ini adalah melakukan kesalahan itu dan hendaklah apabila disabitkan boleh dikenakan hukuman yang diperuntukkan bagi kesalahan itu: Dengan syarat bahawa apa-apa tempoh pemenjaraan yang dikenakan hendaklah tidak melebihi satu perdua tempoh maksimum yang diperuntukkan bagi kesalahan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang yang ada dalam jagaan atau kawalannya . apa-apa atur cara, data atau maklumat lain yang disimpan dalam mana-mana komputer atau didapatkan semula daripada mana-mana komputer yang berkenaan dengannya dia tidak berkuasa untuk ada dalam jagaan atau kawalannya, hendaklah disifatkan telah memperoleh capaian tanpa kuasa kepada atur cara, data atau maklumat itu melainkan jika dibuktikan sebaliknya."
       }
     },
     {
@@ -63,170 +629,6 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_1__subsec_2"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I"
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_10",
-      "@type": "akn:clause",
-      "eli:number": "10",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_10__subsec_1",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_10__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_10__subsec_3"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I"
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_10__subsec_1",
-      "@type": "akn:subsection",
-      "eli:number": "1",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_10__subsec_1__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_10__subsec_1__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_10__subsec_1__para_c"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_10",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Bilamana didapati oleh seseorang Majistret daripada maklumat dan selepas apa-apa siasatan yang difikirkannya perlu bahawa ada sebab yang munasabah untuk mempercayai bahawa dalam mana-mana premis ada apa-apa keterangan mengenai pelakuan suatu kesalahan di bawah Akta ini, dia boleh, dengan waran yang diarahkan kepada mana-mana pegawai polis yang berpangkat Inspektor atau lebih tinggi, memberi pegawai itu kuasa untuk memasuki premis itu, dengan kekerasan jika perlu, dan di situ menggeledah, menyita dan menahan apa-apa keterangan sedemikian dan dia hendaklah berhak untuk—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_10__subsec_1__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_10__subsec_1",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "mendapat capaian kepada mana-mana atur cara atau data yang disimpan dalam mana-mana Jenayah Komputer komputer, atau mendapat capaian kepada, memeriksa atau menyemak pengendalian, mana- mana komputer dan apa-apa radas atau bahan yang berkaitan yang dia mempunyai sebab yang munasabah untuk mengesyaki digunakan atau telah digunakan berkaitan dengan apa-apa kesalahan di bawah Akta ini;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_10__subsec_1__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_10__subsec_1__para_b__subpara_i",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_10__subsec_1__para_b__subpara_ii"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_10__subsec_1",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "menghendaki— digunakan; atau untuk memberikannya bantuan yang munasabah sebagaimana yang dikehendaki bagi maksud perenggan (a); dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_10__subsec_1__para_b__subpara_i",
-      "@type": "akn:subparagraph",
-      "eli:number": "i",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_10__subsec_1__para_b",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "orang yang olehnya atau yang bagi pihaknya pegawai polis itu mempunyai sebab yang munasabah untuk mengesyaki komputer itu digunakan atau"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_10__subsec_1__para_b__subpara_ii",
-      "@type": "akn:subparagraph",
-      "eli:number": "ii",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_10__subsec_1__para_b",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "mana-mana orang yang mempunyai tanggungjawab bagi atau sebaliknya berurusan dengan pengendalian komputer, radas atau bahan itu,"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_10__subsec_1__para_c",
-      "@type": "akn:paragraph",
-      "eli:number": "c",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_10__subsec_1",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "menghendaki apa-apa maklumat yang terkandung dalam suatu komputer dan boleh didapati dari premis itu dikeluarkan dalam suatu bentuk yang boleh dibawa pergi dan yang boleh dilihat dan dibaca."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_10__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_10",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Bilamana didapati oleh mana-mana pegawai polis yang berpangkat Inspektor atau lebih tinggi bahawa ada sebab yang munasabah untuk mempercayai bahawa dalam mana-mana premis ada disembunyikan atau diletakkan apa-apa keterangan mengenai pelakuan suatu kesalahan di bawah Akta ini, dan pegawai polis itu ada alasan yang munasabah bagi mempercayai bahawa dengan sebab kelewatan dalam mendapatkan waran geledah tujuan penggeledahan itu mungkin gagal, dia boleh menjalankan dalam dan berkenaan dengan premis itu semua kuasa yang disebut dalam subseksyen (1) dengan sepenuhnya dan secukupnya seolah-olah dia diberi kuasa untuk berbuat demikian oleh waran yang dikeluarkan di bawah subseksyen itu."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_10__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_10",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Mana-mana pegawai polis boleh menangkap tanpa waran mana-mana orang yang dia secara munasabahnya percaya telah melakukan atau akan melakukan suatu kesalahan terhadap Akta ini, dan tiap-tiap kesalahan terhadap Akta ini hendaklah disifatkan sebagai kesalahan boleh tangkap bagi maksud undang-undang yang sedang berkuatkuasa berhubungan dengan prosedur jenayah."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_11",
-      "@type": "akn:clause",
-      "eli:number": "11",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_11__subsec_1",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_11__subsec_2"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I"
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_11__subsec_1",
-      "@type": "akn:subsection",
-      "eli:number": "1",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_11__subsec_1__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_11__subsec_1__para_b"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_11",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Seseorang adalah melakukan suatu kesalahan jika dia—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_11__subsec_1__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_11__subsec_1",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "menyerang, menghalang, merintangi atau melengahkan mana-mana pegawai polis masuk ke dalam mana-mana premis di bawah Akta ini atau pada melaksanakan apa-apa tugas yang dipertanggungjawab atau apa-apa kuasa yang diberi oleh Akta ini; atau"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_11__subsec_1__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_11__subsec_1",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "tidak mematuhi apa-apa permintaan sah daripada seseorang pegawai polis yang bertindak pada melaksanakan tugasnya di bawah Akta ini."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_11__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_11",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Seseorang yang melakukan kesalahan di bawah seksyen ini hendaklah apabila disabitkan boleh didenda tidak melebihi dua puluh lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_12",
-      "@type": "akn:clause",
-      "eli:number": "12",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Suatu pendakwaan di bawah Akta ini tidak boleh dimulakan kecuali oleh atau dengan keizinan Pendakwa Raya secara bertulis."
-      }
     },
     {
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_1__subsec_1",
@@ -288,7 +690,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_2",
       "schema:text": {
         "@language": "ms",
-        "@value": "Suatu rujukan dalam Akta ini kepada suatu komputer termasuklah rujukan kepada suatu rangkaian komputer. Jenayah Komputer BAHAGIAN II KESALAHAN"
+        "@value": "Suatu rujukan dalam Akta ini kepada suatu komputer termasuklah rujukan kepada suatu rangkaian komputer. Jenayah Komputer"
       }
     },
     {
@@ -552,380 +954,6 @@
       "schema:text": {
         "@language": "ms",
         "@value": "Suatu rujukan dalam Akta ini kepada suatu atur cara termasuklah rujukan kepada sebahagian daripada suatu atur cara."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_3",
-      "@type": "akn:clause",
-      "eli:number": "3",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_3__subsec_1",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_3__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_3__subsec_3"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I"
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_3__subsec_1",
-      "@type": "akn:subsection",
-      "eli:number": "1",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_3__subsec_1__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_3__subsec_1__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_3__subsec_1__para_c"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_3",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Seseorang adalah melakukan suatu kesalahan jika—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_3__subsec_1__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_3__subsec_1",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dia menyebabkan suatu komputer melaksanakan apa-apa fungsi dengan niat untuk mendapat capaian kepada mana-mana atur cara atau data yang disimpan dalam mana-mana komputer;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_3__subsec_1__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_3__subsec_1",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "capaian yang dia berniat untuk didapati adalah tanpa kuasa; dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_3__subsec_1__para_c",
-      "@type": "akn:paragraph",
-      "eli:number": "c",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_3__subsec_1",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dia tahu semasa dia menyebabkan komputer itu melaksanakan fungsi itu, demikian berlakunya."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_3__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_3__subsec_2__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_3__subsec_2__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_3__subsec_2__para_c"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_3",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Niat seseorang itu untuk melakukan suatu kesalahan di bawah seksyen ini tidak perlu ditujukan kepada—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_3__subsec_2__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_3__subsec_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "mana-mana atur cara atau data yang tertentu;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_3__subsec_2__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_3__subsec_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "apa-apa bentuk atur cara atau data yang tertentu; atau"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_3__subsec_2__para_c",
-      "@type": "akn:paragraph",
-      "eli:number": "c",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_3__subsec_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "suatu atur cara atau data yang disimpan dalam mana-mana komputer yang tertentu."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_3__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_3",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Seseorang yang melakukan suatu kesalahan di bawah seksyen ini hendaklah apabila disabitkan boleh didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_4",
-      "@type": "akn:clause",
-      "eli:number": "4",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_4__subsec_1",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_4__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_4__subsec_3"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I"
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_4__subsec_1",
-      "@type": "akn:subsection",
-      "eli:number": "1",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_4__subsec_1__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_4__subsec_1__para_b"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_4",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Seseorang adalah melakukan suatu kesalahan di bawah seksyen ini jika dia melakukan suatu kesalahan yang disebut dalam seksyen 3 dengan niat—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_4__subsec_1__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_4__subsec_1",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "untuk melakukan suatu kesalahan yang melibatkan fraud atau kecurangan atau yang menyebabkan kecederaan sebagaimana yang ditakrifkan dalam Kanun Keseksaan; atau"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_4__subsec_1__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_4__subsec_1",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "untuk memudahkan berlakunya suatu kesalahan itu sama ada olehnya sendiri atau oleh mana- mana orang lain."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_4__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_4",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Bagi maksud seksyen ini, adalah tak material sama ada kesalahan yang seksyen ini terpakai dilakukan pada masa yang sama apabila capaian tanpa kuasa itu didapati atau pada bila-bila masa hadapan."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_4__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_4",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Seseorang yang melakukan suatu kesalahan di bawah seksyen ini hendaklah apabila disabitkan boleh didenda tidak melebihi satu ratus lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi sepuluh tahun atau kedua-duanya."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_5",
-      "@type": "akn:clause",
-      "eli:number": "5",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_5__subsec_1",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_5__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_5__subsec_3",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_5__subsec_4"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I"
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_5__subsec_1",
-      "@type": "akn:subsection",
-      "eli:number": "1",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_5",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Seseorang adalah melakukan suatu kesalahan jika dia melakukan apa-apa perbuatan yang dia tahu akan menyebabkan pengubahsuaian tanpa kuasa akan kandungan mana-mana komputer."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_5__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_5__subsec_2__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_5__subsec_2__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_5__subsec_2__para_c"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_5",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Bagi maksud seksyen ini, adalah tak material bahawa perbuatan berkenaan tidak kepada—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_5__subsec_2__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_5__subsec_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "mana-mana atur cara atau data yang tertentu;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_5__subsec_2__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_5__subsec_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "apa-apa bentuk atur cara atau data; atau"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_5__subsec_2__para_c",
-      "@type": "akn:paragraph",
-      "eli:number": "c",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_5__subsec_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "suatu atur cara atau data yang disimpan dalam mana-mana komputer yang tertentu."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_5__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_5",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Bagi maksud seksyen ini, adalah tak material sama ada suatu pengubahsuaian tanpa kuasa berlaku, atau yang dikehendaki berlaku, kekal atau hanya sementara."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_5__subsec_4",
-      "@type": "akn:subsection",
-      "eli:number": "4",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_5",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Seseorang yang melakukan suatu kesalahan di bawah seksyen ini hendaklah apabila disabitkan boleh didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tujuh tahun atau kedua-duanya; atau boleh didenda tidak melebihi satu ratus lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi sepuluh tahun atau kedua-keduanya, jika perbuatan itu dilakukan dengan niat menyebabkan kecederaan sebagaimana yang ditakrifkan dalam Kanun Keseksaan. Jenayah Komputer"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_6",
-      "@type": "akn:clause",
-      "eli:number": "6",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_6__subsec_1",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_6__subsec_2"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I"
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_6__subsec_1",
-      "@type": "akn:subsection",
-      "eli:number": "1",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_6",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Seseorang adalah melakukan suatu kesalahan jika dia berkomunikasi secara langsung atau tak langsung suatu nombor, kod, kata laluan atau cara capaian yang lain kepada suatu komputer kepada mana-mana orang selain daripada orang yang kepadanya dia diberikuasa dengan sempurnanya untuk berkomunikasi."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_6__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_6",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Seseorang yang melakukan kesalahan di bawah seksyen ini hendaklah apabila disabitkan boleh didenda tidak melebihi dua puluh lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_7",
-      "@type": "akn:clause",
-      "eli:number": "7",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_7__subsec_1",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_7__subsec_2"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I"
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_7__subsec_1",
-      "@type": "akn:subsection",
-      "eli:number": "1",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_7",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Seseorang yang bersubahat dalam pelakuan atau cuba untuk melakukan mana-mana kesalahan di bawah Akta ini adalah melakukan kesalahan itu dan hendaklah apabila disabitkan boleh dikenakan hukuman yang diperuntukkan bagi kesalahan itu."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_7__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_7",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Seseorang yang melakukan apa-apa perbuatan persediaan kepada atau bagi mencapai pelakuan mana- mana kesalahan di bawah Akta ini adalah melakukan kesalahan itu dan hendaklah apabila disabitkan boleh dikenakan hukuman yang diperuntukkan bagi kesalahan itu: Dengan syarat bahawa apa-apa tempoh pemenjaraan yang dikenakan hendaklah tidak melebihi satu perdua tempoh maksimum yang diperuntukkan bagi kesalahan itu."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_8",
-      "@type": "akn:clause",
-      "eli:number": "8",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Seseorang yang ada dalam jagaan atau kawalannya . apa-apa atur cara, data atau maklumat lain yang disimpan dalam mana-mana komputer atau didapatkan semula daripada mana-mana komputer yang berkenaan dengannya dia tidak berkuasa untuk ada dalam jagaan atau kawalannya, hendaklah disifatkan telah memperoleh capaian tanpa kuasa kepada atur cara, data atau maklumat itu melainkan jika dibuktikan sebaliknya. BAHAGIAN III PERUNTUKAN SAMPINGAN DAN AM"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_9",
-      "@type": "akn:clause",
-      "eli:number": "9",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_9__subsec_1",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_9__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_9__subsec_3"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I"
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_9__subsec_1",
-      "@type": "akn:subsection",
-      "eli:number": "1",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_9",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Peruntukan Akta ini hendaklah, berhubung dengan mana-mana orang, walau apa pun kerakyatan atau kewarganegaraannya, mempunyai kuatkuasa di luar dan juga di dalam Malaysia, dan jika suatu kesalahan di bawah Akta ini dilakukan oleh mana-mana orang di mana-mana tempat di luar Malaysia, dia boleh diuruskan berkenaan dengan kesalahan sedemikian seolah-olah kesalahan itu telah dilakukan di mana-mana tempat dalam Malaysia."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_9__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_9",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Bagi maksud subseksyen (1), Akta ini hendaklah terpakai jika, bagi kesalahan yang dipersoalkan, komputer, program atau data itu berada di Malaysia atau yang boleh disambung kepada atau dihantar kepada atau digunakan oleh atau dengan suatu komputer di Malaysia pada masa yang material itu."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_9__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/3/msa@/~part_I__cl_9",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Apa-apa pembicaraan terhadap mana-mana orang di bawah seksyen ini yang akan menghalang pembicaraan yang kemudian terhadap seseorang itu bagi kesalahan yang sama jika kesalahan itu telah dilakukan dalam Malaysia adalah menghalang pembicaraan selanjutnya terhadapnya di bawah mana-mana undang-undang bertulis berkenaan dengan serah-balik orang, berkenaan dengan kesalahan yang sama di luar Malaysia."
       }
     }
   ]

@@ -14,19 +14,49 @@ AND WHEREAS Parliament considers it necessary to stop such action;
 
 Now, THEREFORE, pursuant to Article 149 of the Constitution BE IT ENACTED by the Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong with the advice and consent of the Dewan Negara and Dewan Rakyat in Parliament assembled, and by the authority of the same, as follows:
 
-Short title.
+<!-- marginal: Short title. -->
 
 1. This Act may be cited as the Dangerous Drugs (Special Preventive Measures) (Amendment) Act
 
 1990.
 
-Amendment
+<!-- marginal: Amendment -->
 
-2. Section 6 of the Dangerous Drugs (Special of section 6. Preventive Measures) Act 1985, which in this Act is Act 316. referred to as the "principal Act", is amended, in subsection (1), by deleting the words "from the date of such order".
+2. Section 6 of the Dangerous Drugs (Special
 
-Validation of
+<!-- marginal: of section 6. -->
 
-3. (1) Where a detention order was made under detention subsection (1) of section 6 of the principal Act against orders and any person during the period between the detentions, and commencement of the principal Act and the indemnity. commencement of this Act (hereinafter referred to as the "transitional period"), the detention order and the detention effected in pursuance thereof during the
+Preventive Measures) Act 1985, which in this Act is
+
+<!-- marginal: Act 316. -->
+
+referred to as the "principal Act", is amended, in subsection (1), by deleting the words "from the date of such order".
+
+<!-- marginal: Validation of -->
+
+3. (1) Where a detention order was made under
+
+<!-- marginal: detention -->
+
+subsection (1) of section 6 of the principal Act against
+
+<!-- marginal: orders and -->
+
+any person during the period between
+
+<!-- marginal: the -->
+
+<!-- marginal: detentions, -->
+
+<!-- marginal: and -->
+
+commencement of the principal Act and
+
+<!-- marginal: the -->
+
+<!-- marginal: indemnity. -->
+
+commencement of this Act (hereinafter referred to as the "transitional period"), the detention order and the detention effected in pursuance thereof during the
 
 <!-- page 2 -->
 

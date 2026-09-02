@@ -18,7 +18,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 2 -->
 
-## Schedule
+## SCHEDULE
 
 Purpose Title
 

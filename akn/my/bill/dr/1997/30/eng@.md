@@ -22,7 +22,19 @@
 
 ## OFFENCES AND PENALTIES
 
-10. Offence of accepting gratification. 11. Offence of giving or accepting gratification by an agent. 12. Acceptor or giver of gratification to be guilty notwithstanding that purpose not carried out, or matter not in relation to principal's affairs or business. 13. Corruptly procuring withdrawal of a tender. 14. Bribery of member of legislature. 15. Bribery of officer of public body. 16. Offence of using office or position for gratification.
+10. Offence of accepting gratification.
+
+11. Offence of giving or accepting gratification by an agent.
+
+12. Acceptor or giver of gratification to be guilty notwithstanding that purpose not carried out, or matter not in relation to principal's affairs or business.
+
+13. Corruptly procuring withdrawal of a tender.
+
+14. Bribery of member of legislature.
+
+15. Bribery of officer of public body.
+
+16. Offence of using office or position for gratification.
 
 <!-- page 2 -->
 
@@ -58,41 +70,111 @@ by the Minister by notification in the Gazette.
 
 <!-- page 3 -->
 
-17. Penalty for offences under sections 10, 11, 13, 14, 15 and 16. 18. Duty to report bribery transactions. 19. Dealing with, using, holding, receiving or concealing gratification or advantage in relation to any offence. 20. Making of statement which is false or intended to mislead, etc., to an officer of the Agency or the Public Prosecutor. 21. Attempts, preparations, abetments and criminal conspiracies punishable as offences.
+17. Penalty for offences under sections 10, 11, 13, 14, 15 and 16. 18. Duty to report bribery transactions. 19. Dealing with, using, holding, receiving or concealing gratification or advantage in relation to any offence.
+
+20. Making of statement which is false or intended to mislead, etc., to an officer of the Agency or the Public Prosecutor.
+
+21. Attempts, preparations, abetments and criminal conspiracies punishable as offences.
 
 ## PART IV
 
 ## INVESTIGATION, SEARCH, SEIZURE AND ARREST
 
-22. Power to investigate complaint and enquire into information. 23. Power to examine persons. 24. Power of search and seizure. 25. Translation. 26. Seizure of movable property. 27. Further provisions relating to seizure of movable property. 28. Advocates and solicitors may be required to disclose information. 29. Legal obligation to give information. 30. Obstruction of inspection and search. 31. Offences under Act to be seizable offences and powers of the Agency relating to investigations.
+22. Power to investigate complaint and enquire into information.
+
+23. Power to examine persons.
+
+24. Power of search and seizure.
+
+25. Translation.
+
+26. Seizure of movable property.
+
+27. Further provisions relating to seizure of movable property.
+
+28. Advocates and solicitors may be required to disclose information.
+
+29. Legal obligation to give information.
+
+30. Obstruction of inspection and search.
+
+31. Offences under Act to be seizable offences and powers of the Agency relating to investigations.
 
 ## PART V
 
 ## PROVISIONS RELATING TO PUBLIC PROSECUTOR
 
-32. Investigation of share, purchase account, etc. 33. Public Prosecutor's powers to obtain information. 34. Seizure of movable property in bank. 35. Seizure of immovable property. 36. Prohibition of dealing with property outside Malaysia. 37. Forfeiture of property upon prosecution for an offence. 38. Forfeiture of property where there is no prosecution for an offence.
+32. Investigation of share, purchase account, etc.
+
+33. Public Prosecutor's powers to obtain information.
+
+34. Seizure of movable property in bank.
+
+35. Seizure of immovable property.
+
+36. Prohibition of dealing with property outside Malaysia.
+
+37. Forfeiture of property upon prosecution for an offence.
+
+38. Forfeiture of property where there is no prosecution for an offence.
 
 <!-- page 4 -->
 
-39. Dealing with property after seizure to be void. 40. Power to intercept communications. 41. Surrender of travel documents. 42. Public Prosecutor's powers to amend or revoke any order or notice under this Act.
+39. Dealing with property after seizure to be void.
+
+40. Power to intercept communications.
+
+41. Surrender of travel documents.
+
+42. Public Prosecutor's powers to amend or revoke any order or notice under this Act.
 
 ## PART VI
 
 ## EVIDENCE
 
-43. Presumption in certain offences. 44. Evidence of corroboration. 45. Evidence of accomplice and agent provocateur. 46. Admissibility of statements by accused persons. 47. Admissibility of statements and documents of persons who are dead or cannot be traced, etc. 48. Certificate of position or office held. 49. Admissibility of translation of documents. 50. Evidence of custom inadmissible.
+43. Presumption in certain offences.
+
+44. Evidence of corroboration.
+
+45. Evidence of accomplice and agent provocateur.
+
+46. Admissibility of statements by accused persons.
+
+47. Admissibility of statements and documents of persons who are dead or cannot be traced, etc.
+
+48. Certificate of position or office held.
+
+49. Admissibility of translation of documents.
+
+50. Evidence of custom inadmissible.
 
 ## PART VII
 
 ## PROSECUTION AND TRIAL OF OFFENCES
 
-51. Prosecution of offences. 52. Joinder of offences. 53. Examination of offenders. 54. Protection of informers and information.
+51. Prosecution of offences.
+
+52. Joinder of offences.
+
+53. Examination of offenders.
+
+54. Protection of informers and information.
 
 ## PART VIII
 
 ## GENERAL
 
-55. Protection of officers of the Agency. 56. Liability for offences outside Malaysia. 57. Application of provisions of this Act to a prescribed offence. 58. General offence. 59. General penalty 60. Powers of police officers under this Act.
+55. Protection of officers of the Agency.
+
+56. Liability for offences outside Malaysia.
+
+57. Application of provisions of this Act to a prescribed offence.
+
+58. General offence.
+
+59. General penalty
+
+60. Powers of police officers under this Act.
 
 <!-- page 5 -->
 
@@ -108,7 +190,11 @@ by the Minister by notification in the Gazette.
 
 (c) any firm of which such person, or any nominee of his, is a partner or a person in charge or in control of its business or affairs;
 
-(d) any corporation within the meaning of the Act 125. Companies Act 1965, of which such person, or any nominee of his, is a director or is in charge or in control of its business or affairs, or in which such person, alone or together with any nominee of his, has or have a controlling interest, or shares to the total value of not less than thirty per centum of the total issued capital of the corporation; or
+(d) any corporation within the meaning of the
+
+<!-- marginal: Act 125. -->
+
+Companies Act 1965, of which such person, or any nominee of his, is a director or is in charge or in control of its business or affairs, or in which such person, alone or together with any nominee of his, has or have a controlling interest, or shares to the total value of not less than thirty per centum of the total issued capital of the corporation; or
 
 (e) the trustee of any trust, where —
 
@@ -116,7 +202,15 @@ by the Minister by notification in the Gazette.
 
 (ii) the total value of the assets contributed by such person to the trust at any time, whether before or after the creation of the trust, amounts, at any time, to not less than twenty per centum of the total value of the assets of the trust;
 
-"bank" means a bank, a finance company, a merchant bank, or a discount house, licensed under the Banking Act 372. and Financial Institutions Act 1989, or any other financial institution established or licensed under any other written law or any co-operative society registered or deemed to Act 502. have been registered under the Co-operative Societies Act 1993;
+"bank" means a bank, a finance company, a merchant bank, or a discount house, licensed under the Banking
+
+<!-- marginal: Act 372. -->
+
+and Financial Institutions Act 1989, or any other financial institution established or licensed under any other written law or any co-operative society registered or deemed to
+
+<!-- marginal: Act 502. -->
+
+have been registered under the Co-operative Societies Act 1993;
 
 "banker's book" includes ledgers, day books, cash books, account books and all other books and documents used in the ordinary course of business of a bank;
 
@@ -160,7 +254,11 @@ Banking and Financial Institutions Act 1989;
 
 (g) any offer, undertaking or promise, whether conditional or unconditional, of any gratification within the meaning of any of the preceding paragraphs (a) to (f);
 
-"local authority" has the meaning assigned to it in Act 171. section 2 of the Local Government Act 1976;
+"local authority" has the meaning assigned to it in
+
+<!-- marginal: Act 171. -->
+
+section 2 of the Local Government Act 1976;
 
 "member of the administration" has the meaning assigned to it in Clause 160(2) of the Federal Constitution;
 
@@ -294,9 +392,25 @@ public services for such period and on such terms and conditions as may be speci
 
 (8) There shall be issued to the Director-General a certificate of appointment in the form of an authority card as evidence of his appointment.
 
-(9) The person holding office as the Director-General of the Anti-Corruption Agency appointed under subsection Act 271. 3(2) of the Anti-Corruption Agency Act 1982 immediately before the commencement of this Act shall, upon the commencement of this Act, be deemed to have been appointed Director-General under subsection (2) for the remainder of the period of his appointment under the 1982 Act, and the requirements of subsection (7) shall be deemed to have been satisfied.
+(9) The person holding office as the Director-General of the Anti-Corruption Agency appointed under subsection
 
-Appointment 4. (1) There shall be appointed such number of of other Commissioners, Deputy Commissioners, Senior Assistant officers of !he Agency. Commissioners, Assistant Commissioners, Senior Superintendents, Superintendents, Senior Assistant Superintendents, Assistant Superintendents, Senior Investigators, and Investigators of the Agency as may be necessary for the purpose of carrying into effect the provisions of this Act.
+<!-- marginal: Act 271. -->
+
+3(2) of the Anti-Corruption Agency Act 1982 immediately before the commencement of this Act shall, upon the commencement of this Act, be deemed to have been appointed Director-General under subsection (2) for the remainder of the period of his appointment under the 1982 Act, and the requirements of subsection (7) shall be deemed to have been satisfied.
+
+<!-- marginal: Appointment -->
+
+4. (1) There shall be appointed such number of
+
+<!-- marginal: of other -->
+
+Commissioners, Deputy Commissioners, Senior Assistant
+
+<!-- marginal: officers of -->
+
+<!-- marginal: !he Agency. -->
+
+Commissioners, Assistant Commissioners, Senior Superintendents, Superintendents, Senior Assistant Superintendents, Assistant Superintendents, Senior Investigators, and Investigators of the Agency as may be necessary for the purpose of carrying into effect the provisions of this Act.
 
 (2) An officer appointed under subsection (1) shall have such powers as may be provided for him under this Act and shall be subject to the direction, control and supervision of the Director-General or any other officer
 
@@ -330,13 +444,35 @@ the person against whom he is acting or from whom he seeks any information the a
 
 <!-- page 14 -->
 
-Officer
+<!-- marginal: Officer -->
 
-6. Every officer of the Agency shall, for the purposes deemed to of this Act, be deemed to be always on duty when required be always on duty. to perform his duty or functions and may perform the duties and exercise the powers conferred on him under this Act or under any other written law at any place within or outside Malaysia.
+6. Every officer of the Agency shall, for the purposes
 
-Powers of
+<!-- marginal: deemed to -->
 
-7. (1) In addition, and without prejudice, to the powers, officers of duties and functions conferred under this Act, an officer the Agency. of the Agency shall have, for the purposes of this Act, all the powers and immunities of a police officer appointed Act 344. under the Police Act 1967.
+of this Act, be deemed to be always on duty when required
+
+<!-- marginal: be always -->
+
+<!-- marginal: on duty. -->
+
+to perform his duty or functions and may perform the duties and exercise the powers conferred on him under this Act or under any other written law at any place within or outside Malaysia.
+
+<!-- marginal: Powers of -->
+
+7. (1) In addition, and without prejudice, to the powers,
+
+<!-- marginal: officers of -->
+
+duties and functions conferred under this Act, an officer
+
+<!-- marginal: the Agency. -->
+
+of the Agency shall have, for the purposes of this Act, all the powers and immunities of a police officer appointed
+
+<!-- marginal: Act 344. -->
+
+under the Police Act 1967.
 
 (2) Without prejudice to the generality of subsection
 
@@ -404,17 +540,27 @@ officers of the Agency to—
 
 (g) enlist and foster public support in combating corruption.
 
-Standing
+<!-- marginal: Standing -->
 
-9. The Director-General may issue administrative orders orders. to be called "Standing Orders", not inconsistent with the provisions of this Act, on the general control, training, duties and responsibilities of officers of the Agency, and for such other matters as may be necessary or expedient for the good administration of the Agency or for the prevention of the abuse of power or neglect of duty, and generally for ensuring the efficient and effective functioning of the Agency.
+9. The Director-General may issue administrative orders
+
+<!-- marginal: orders. -->
+
+to be called "Standing Orders", not inconsistent with the provisions of this Act, on the general control, training, duties and responsibilities of officers of the Agency, and for such other matters as may be necessary or expedient for the good administration of the Agency or for the prevention of the abuse of power or neglect of duty, and generally for ensuring the efficient and effective functioning of the Agency.
 
 ## PART III
 
 ## OFFENCES AND PENALTIES
 
-Offence of
+<!-- marginal: Offence of -->
 
-10. Any person who by himself, or by or in conjunction accepting with any other person— gratification.
+10. Any person who by himself, or by or in conjunction
+
+<!-- marginal: accepting -->
+
+with any other person—
+
+<!-- marginal: gratification. -->
 
 (a) corruptly solicits or receives or agrees to receive for himself or for any other person; or
 
@@ -456,9 +602,53 @@ which is false or erroneous or defective in any material particular, and which t
 
 he shall be guilty of an offence.
 
-Acceptor or
+<!-- marginal: Acceptor or -->
 
-12. (1) Where in any proceedings against any agent giver of for any offence under paragraph 11 (a) it is proved that gratification to be guilty he corruptly accepted, obtained or agreed to accept or notwith- attempted to obtain any gratification having reason to standing that purpose was believe or suspect that the gratification was offered as not carried an inducement or a reward for his doing or forbearing to out or matter not in do any act or for showing or forbearing to show any relation to favour or disfavour to any person in relation to his principal's affairs or principal's affairs or business he shall be guilty of an business. offence under that paragraph notwithstanding that—
+12. (1) Where in any proceedings against any agent
+
+<!-- marginal: giver of -->
+
+for any offence under paragraph 11 (a) it is proved that
+
+<!-- marginal: gratification -->
+
+<!-- marginal: to be guilty -->
+
+he corruptly accepted, obtained or agreed to accept or
+
+<!-- marginal: notwith- -->
+
+attempted to obtain any gratification having reason to
+
+<!-- marginal: standing that -->
+
+<!-- marginal: purpose was -->
+
+believe or suspect that the gratification was offered as
+
+<!-- marginal: not carried -->
+
+an inducement or a reward for his doing or forbearing to
+
+<!-- marginal: out or matter -->
+
+<!-- marginal: not in -->
+
+do any act or for showing or forbearing to show any
+
+<!-- marginal: relation to -->
+
+favour or disfavour to any person in relation to his
+
+<!-- marginal: principal's -->
+
+<!-- marginal: affairs or -->
+
+principal's affairs or business he shall be guilty of an
+
+<!-- marginal: business. -->
+
+offence under that paragraph notwithstanding that—
 
 (a) he did not have the power, right or opportunity so to do, show or forbear;
 
@@ -530,9 +720,21 @@ performance of, any official act;
 
 shall, notwithstanding that the officer did not have the power, right or opportunity so to do, show or forbear, or that the inducement or reward was not in relation to the affairs of the public body, be guilty of an offence.
 
-Offence of
+<!-- marginal: Offence of -->
 
-16. (1) Any officer of a public body who uses his office using office or position for any gratification shall be guilty of an or position for gratifica- offence. tion.
+16. (1) Any officer of a public body who uses his office
+
+<!-- marginal: using office -->
+
+or position for any gratification shall be guilty of an
+
+<!-- marginal: or position -->
+
+<!-- marginal: for gratifica- -->
+
+offence.
+
+<!-- marginal: tion. -->
 
 (2) For the purposes of subsection (1), an officer of a public body shall be presumed, until the contrary is proved, to use his office or position for gratification when he makes any decision, or takes any action, in relation to any matter in which such officer, or any relative or associate of his, has an interest, whether directly or indirectly.
 
@@ -576,7 +778,9 @@ gratification is given, promised, or offered, in contravention
 
 of any provision of this Act shall report such gift, promise or offer together with the name, if known, of the person who gave, promised or offered such gratification to him to the nearest officer of the Agency or police officer.
 
-(2) Any person who fails to comply with subsection (1) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding ten years or to both.
+(2) Any person who fails to comply with subsection
+
+(1) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding ten years or to both.
 
 (3) Any person from whom any gratification has been solicited or obtained, or an attempt has been made to obtain such gratification, in contravention of any provision of this Act shall at the earliest opportunity thereafter report such soliciting or obtaining of, or attempt to obtain, the gratification together with the full and true description and, if known, the name of the person who solicited, or obtained, or attempted to obtain, the gratification from him to the nearest officer of the Agency or police officer.
 
@@ -584,13 +788,73 @@ of any provision of this Act shall report such gift, promise or offer together w
 
 <!-- page 22 -->
 
-Dealing with,
+<!-- marginal: Dealing with, -->
 
-19. Any person who, whether within or outside Malaysia, using, whether directly or indirectly, whether on behalf of himself holding, receiving or or on behalf of any other person, enters into, or causes concealing to be entered into, any dealing in relation to any property, grafification or advantage or otherwise uses or causes to be used, or holds, receives, in relation to or conceals any property or any part thereof which was any offence. the subject matter of an offence under section 10, 11, 13, 14, 15, or 16 shall be guilty of an offence and shall on conviction be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding seven years or to both.
+19. Any person who, whether within or outside Malaysia,
 
-Making of
+<!-- marginal: using, -->
 
-20. (1) Where any person makes or causes any other statement person to make to an officer of the Agency or to the which is false or Public Prosecutor, in the course of such officer or Public intended to Prosecutor exercising any power conferred by this Act, mislead, etc., to an officer any statement which to the knowledge of the person of the making the statement, or causing the statement to be Agency or the Public made— Prosecutor.
+whether directly or indirectly, whether on behalf of himself
+
+<!-- marginal: holding, -->
+
+<!-- marginal: receiving or -->
+
+or on behalf of any other person, enters into, or causes
+
+<!-- marginal: concealing -->
+
+to be entered into, any dealing in relation to any property,
+
+<!-- marginal: grafification -->
+
+<!-- marginal: or advantage -->
+
+or otherwise uses or causes to be used, or holds, receives,
+
+<!-- marginal: in relation to -->
+
+or conceals any property or any part thereof which was
+
+<!-- marginal: any offence. -->
+
+the subject matter of an offence under section 10, 11, 13, 14, 15, or 16 shall be guilty of an offence and shall on conviction be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding seven years or to both.
+
+<!-- marginal: Making of -->
+
+20. (1) Where any person makes or causes any other
+
+<!-- marginal: statement -->
+
+person to make to an officer of the Agency or to the
+
+<!-- marginal: which is -->
+
+<!-- marginal: false or -->
+
+Public Prosecutor, in the course of such officer or Public
+
+<!-- marginal: intended to -->
+
+Prosecutor exercising any power conferred by this Act,
+
+<!-- marginal: mislead, etc., -->
+
+<!-- marginal: to an officer -->
+
+any statement which to the knowledge of the person
+
+<!-- marginal: of the -->
+
+making the statement, or causing the statement to be
+
+<!-- marginal: Agency or -->
+
+<!-- marginal: the Public -->
+
+made—
+
+<!-- marginal: Prosecutor. -->
 
 (a) is false, or intended to mislead; or
 
@@ -636,25 +900,55 @@ shall be guilty of such offence and shall on conviction be liable to the punishm
 
 <!-- page 24 -->
 
-(3) Paragraph (\)(a) shall not apply where an attempt to do any act is expressly made an offence under this Act, and paragraph (l)fc) shall not apply to the case of an abetment of an offence as provided for under section F.M.S. 164 of the Penal Code. Cap. 45.
+(3) Paragraph (\)(a) shall not apply where an attempt to do any act is expressly made an offence under this Act, and paragraph (l)fc) shall not apply to the case of an abetment of an offence as provided for under section
+
+<!-- marginal: F.M.S. -->
+
+164 of the Penal Code.
+
+<!-- marginal: Cap. 45. -->
 
 ## PART IV
 
 ## INVESTIGATION, SEARCH, SEIZURE AND ARREST
 
-Power to 22. (1) Every report relating to the commission of an investigate offence under this Act may be made orally or in writing reports and to an officer of the Agency, and if made orally it shall enquire into information. be reduced into writing and read over to the person making the report; and every report, whether in writing or reduced into writing, shall be signed by the person making the report.
+<!-- marginal: Power to -->
+
+22. (1) Every report relating to the commission of an
+
+<!-- marginal: investigate -->
+
+offence under this Act may be made orally or in writing
+
+<!-- marginal: reports and -->
+
+to an officer of the Agency, and if made orally it shall
+
+<!-- marginal: enquire into -->
+
+<!-- marginal: information. -->
+
+be reduced into writing and read over to the person making the report; and every report, whether in writing or reduced into writing, shall be signed by the person making the report.
 
 (2) Every report, whether in writing or reduced into writing, shall be entered in a book kept at the office of the Agency and there shall be appended to such entry the date and hour on which such report was made.
 
-(3) Where an officer of the Agency has reason to suspect the commission of an offence under this Act following a report made under subsection (1) or information otherwise received by him, he shall cause investigation to be made and for such purpose may exercise all the powers of investigation provided for under this Act and the Criminal Procedure Code. F.M.S. Cap. 6. (4) A report made under subsection (1) shall be kept secret and shall not be disclosed by any person to any person other than officers of the Agency and the Public Prosecutor until an accused person has been charged in court for an offence under this Act or any other written law in consequence of such report.
+(3) Where an officer of the Agency has reason to suspect the commission of an offence under this Act following a report made under subsection (1) or information otherwise received by him, he shall cause investigation to be made and for such purpose may exercise all the powers of investigation provided for under this Act and the Criminal Procedure Code.
 
-(5) A copy, which is certified by an officer of the Agency of or above the rank of Superintendent, of an entry under subsection (2) of a report under subsection (1) shall be admissible as evidence of the contents of the original and of the time, place and manner in which the report was recorded.
+<!-- marginal: F.M.S. -->
+
+<!-- marginal: Cap. 6. -->
+
+(4) A report made under subsection (1) shall be kept secret and shall not be disclosed by any person to any person other than officers of the Agency and the Public Prosecutor until an accused person has been charged in court for an offence under this Act or any other written law in consequence of such report.
+
+(5) A copy, which is certified by an officer of the Agency of or above the rank of Superintendent, of an entry under subsection (2) of a report under subsection
+
+(1) shall be admissible as evidence of the contents of the original and of the time, place and manner in which the report was recorded.
 
 <!-- page 25 -->
 
 <!-- marginal: Power to -->
 
-### 23.
+23.
 
 (1) An officer of the Agency investigating an offence
 
@@ -668,9 +962,7 @@ under this Act may—
 
 (b) order any person to produce before him any book, document or any certified copy thereof, or any other article which may, in his opinion, assist in the investigation into the offence; or
 
-(c) by written notice require any person to furnish a statement in writing made on oath or affirmation setting out therein all such information which may be required under the notice, being information which, in such officer's opinion, would be of assistance
-
-<!-- marginal: in -->
+(c) by written notice require any person to furnish a statement in writing made on oath or affirmation setting out therein all such information which may be required under the notice, being information which, in such officer's opinion, would be of assistance in
 
 <!-- marginal: the -->
 
@@ -702,7 +994,9 @@ notwithstanding any written law or rule of law to the contrary.
 
 (8) An officer of the Agency examining a person under paragraph ( 1 )( a) shall record in writing any statement made by the person and the statement so recorded shall be read to and signed by the person, and where such person refuses to sign the record, the officer shall endorse thereon under his hand the fact of such refusal and the reasons therefor, if any, stated by the person examined.
 
-(9) The record of an examination under paragraph (1)(a), or a written statement on oath or affirmation made pursuant to paragraph ( 1 )( c ), or any book, document or
+(9) The record of an examination under paragraph
+
+(1)(a), or a written statement on oath or affirmation made pursuant to paragraph ( 1 )( c ), or any book, document or
 
 <!-- page 27 -->
 
@@ -748,11 +1042,13 @@ necessary, that there is reasonable cause to suspect that in any place there is 
 
 (c) detain any person found in or on any premises, or in any conveyance, searched under subsection (1), until such premises or conveyance has been searched.
 
-(3) Whenever it appears to an officer of the Agency that there is reasonable cause to suspect that there is concealed or deposited in any place any evidence of the commission of any offence under this Act and such officer has reasonable grounds for believing that by reason of delay in obtaining a written order of the Public Prosecutor under subsection (1) the object of the search is likely to be frustrated, he may exercise in, and in respect of such place, all the powers mentioned in subsections (1) and (2) as if he were directed to do so by an order issued under subsection (1).
+(3) Whenever it appears to an officer of the Agency that there is reasonable cause to suspect that there is concealed or deposited in any place any evidence of the commission of any offence under this Act and such officer has reasonable grounds for believing that by reason of delay in obtaining a written order of the Public Prosecutor under subsection (1) the object of the search is likely to be frustrated, he may exercise in, and in respect of such place, all the powers mentioned in subsections (1) and
+
+(2) as if he were directed to do so by an order issued under subsection (1).
 
 (4) No person shall be searched under this section or under section 23 except by a person who is of the same gender as the person to be searched.
 
-Translation.
+<!-- marginal: Translation. -->
 
 25. (1) Where an officer of the Agency finds, seizes, detains or takes possession of any book or document in the exercise of any power under this Act, and such book or document or any part thereof is in a language other than the national language or the English language, or in any sign or code, the officer may require the person who had possession, custody or control of such book or document to furnish to the officer a translation in the national language of such book or document within such period as, in the opinion of the officer, would be reasonable having regard to the length of the book or document, or other circumstances relating to it.
 
@@ -858,13 +1154,27 @@ or dealing relating to any property which is liable to seizure under this Act.
 
 (2) Nothing in subsection (1) shall require an advocate and solicitor to comply with any order under that subsection to the extent that such compliance would disclose any privileged information or communication which came to his knowledge for the purpose of any pending proceedings.
 
-Legal
+<!-- marginal: Legal -->
 
-29. Subject to such limitation as is provided under this obligation Act, every person required by an officer of the Agency to give information. or a police officer to give any information on any subject which it is such officer's duty to inquire into under this Act and which is in that person's power to give, shall be legally bound to give the information.
+29. Subject to such limitation as is provided under this
 
-Obstruction
+<!-- marginal: obligation -->
 
-30. Any person who— of inspection and search.
+Act, every person required by an officer of the Agency
+
+<!-- marginal: to give -->
+
+<!-- marginal: information. -->
+
+or a police officer to give any information on any subject which it is such officer's duty to inquire into under this Act and which is in that person's power to give, shall be legally bound to give the information.
+
+<!-- marginal: Obstruction -->
+
+30. Any person who—
+
+<!-- marginal: of inspection -->
+
+<!-- marginal: and search. -->
 
 (a) refuses any officer of the Agency access to any premises, or fails to submit to a search by a person authorised to search him under this Act;
 
@@ -946,9 +1256,19 @@ as an officer of the Agency may require;
 
 ## PROVISIONS RELATING TO PUBLIC PROSECUTOR
 
-Investigation
+<!-- marginal: Investigation -->
 
-32. (1) Notwithstanding the provisions of any other of share, written law or any rule of law, the Public Prosecutor, if purchase account, etc. he is satisfied that it is necessary for the purpose of any
+32. (1) Notwithstanding the provisions of any other
+
+<!-- marginal: of share, -->
+
+written law or any rule of law, the Public Prosecutor, if
+
+<!-- marginal: purchase -->
+
+<!-- marginal: account, etc. -->
+
+he is satisfied that it is necessary for the purpose of any
 
 <!-- page 35 -->
 
@@ -978,7 +1298,23 @@ investigation into an offence under this Act, may authorise in writing an office
 
 (5) Where any person discloses any information or produces any account or document or article to an authorised officer of the Agency, neither the first- mentioned person nor any other person on whose behalf or direction or as whose agent or employee, the first- mentioned person may be acting, shall, on account of such disclosure or production, be liable to any prosecution, except a prosecution for an offence under section 20, for any offence under or by virtue of any law, or to any proceeding or claim by any person under or by virtue of any law, or under or by virtue of any contract, agreement or arrangement, or otherwise.
 
-Public 33. (1) Notwithstanding any written law or rule of law Prosecutor's to the contrary, the Public Prosecutor, if he has reasonable power to obtain ground to believe, based on the investigation carried out information. by an officer of the Agency, that any offence under this Act has been committed, may by written notice—
+<!-- marginal: Public -->
+
+33. (1) Notwithstanding any written law or rule of law
+
+<!-- marginal: Prosecutor's -->
+
+to the contrary, the Public Prosecutor, if he has reasonable
+
+<!-- marginal: power to -->
+
+<!-- marginal: obtain -->
+
+ground to believe, based on the investigation carried out
+
+<!-- marginal: information. -->
+
+by an officer of the Agency, that any offence under this Act has been committed, may by written notice—
 
 (a) require any person suspected of having committed such offence to furnish a sworn statement in writing on oath or affirmation—
 
@@ -1050,9 +1386,21 @@ notwithstanding any written law or rule of law to the contrary, comply with the 
 
 (c) provided for in section 20.
 
-Seizure of
+<!-- marginal: Seizure of -->
 
-34. (1) Where the Public Prosecutor is satisfied on movable information given to him by an officer of the Agency property in that any movable property, including any monetary bank. instrument or any accretion thereto, which is the subject- matter of an offence under this Act or evidence in relation to the commission of such offence, is in the possession, custody or control of a bank, he may, notwithstanding any other written law or rule of law, by order direct the bank not to part with, deal in, or otherwise dispose of such property or any part thereof until the order is revoked or varied.
+34. (1) Where the Public Prosecutor is satisfied on
+
+<!-- marginal: movable -->
+
+information given to him by an officer of the Agency
+
+<!-- marginal: property in -->
+
+that any movable property, including any monetary
+
+<!-- marginal: bank. -->
+
+instrument or any accretion thereto, which is the subject- matter of an offence under this Act or evidence in relation to the commission of such offence, is in the possession, custody or control of a bank, he may, notwithstanding any other written law or rule of law, by order direct the bank not to part with, deal in, or otherwise dispose of such property or any part thereof until the order is revoked or varied.
 
 <!-- page 41 -->
 
@@ -1086,7 +1434,9 @@ that any immovable property is the subject-matter of an offence under this Act o
 
 (4) Subsection (3) shall not apply to a dealing effected by an officer of a public body in his capacity as such officer, or otherwise by or on behalf of the Government of Malaysia or the Government of a State, or a local authority or other statutory authority.
 
-(5) Any person who contravenes subsection (2) or (3) or does any act which results in, or causes, a contravention of subsection (2) or (3) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding twice the value of the property in respect of which the Public Prosecutor's order had been contravened, or fifty thousand ringgit, whichever is the higher, and to imprisonment for a term not exceeding two years.
+(5) Any person who contravenes subsection (2) or
+
+(3) or does any act which results in, or causes, a contravention of subsection (2) or (3) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding twice the value of the property in respect of which the Public Prosecutor's order had been contravened, or fifty thousand ringgit, whichever is the higher, and to imprisonment for a term not exceeding two years.
 
 (6) Where a Notice of Seizure has been issued under subsection (1) it shall be an offence for the registered proprietor of the immovable property which is seized under such Notice, or for any other person having any interest in such immovable property, who has knowledge of such Notice, to knowingly enter into any agreement with any person to sell, transfer, or otherwise dispose of or deal with, the whole or any part of such immovable property.
 
@@ -1180,9 +1530,19 @@ he shall make an order for the forfeiture of the property.
 
 (4) Property in respect of which no application is made under subsection (1) shall, at the expiration of twelve months from the date of its seizure, be released to the person from whom it was seized.
 
-Dealing with
+<!-- marginal: Dealing with -->
 
-39. (1) Where any property has been seized under this property after Act, and so long as such seizure remains in force, any seizure to be void. dealing effected by any person or between any persons in respect of such property, except any dealing effected under this Act or by virtue of this Act by an officer of a public body in his capacity as such officer, or otherwise by or on behalf of the Government of Malaysia, or the Government of a State, or a local authority or other statutory authority, shall be null and void, and shall not be registered or otherwise given effect to by any person or authority.
+39. (1) Where any property has been seized under this
+
+<!-- marginal: property after -->
+
+Act, and so long as such seizure remains in force, any
+
+<!-- marginal: seizure to be -->
+
+<!-- marginal: void. -->
+
+dealing effected by any person or between any persons in respect of such property, except any dealing effected under this Act or by virtue of this Act by an officer of a public body in his capacity as such officer, or otherwise by or on behalf of the Government of Malaysia, or the Government of a State, or a local authority or other statutory authority, shall be null and void, and shall not be registered or otherwise given effect to by any person or authority.
 
 (2) Subsection (1) shall be in addition to and not in derogation of subsections 35(3) and (4).
 
@@ -1224,13 +1584,27 @@ it is likely to contain any information which is relevant for the purpose of any
 
 (6) For the purpose of this section—
 
-Act 465. "postal article" has the same meaning as in the Postal Services Act 1991;
+<!-- marginal: Act 465. -->
 
-"telecommunication" has the same meaning as in the Act 20. Telecommunications Act 1950.
+"postal article" has the same meaning as in the Postal Services Act 1991;
 
-Surrender of
+"telecommunication" has the same meaning as in the
 
-41. (1) Notwithstanding any written law to the contrary, travel the Public Prosecutor may, where he has grounds to believe documents. that any person who is the subject of an investigation in respect of an offence under this Act suspected to have committed by him is likely to leave Malaysia, by written notice require such person to surrender his certificate of identity, passport or exit permit, or any other travel document in his possession.
+<!-- marginal: Act 20. -->
+
+Telecommunications Act 1950.
+
+<!-- marginal: Surrender of -->
+
+41. (1) Notwithstanding any written law to the contrary,
+
+<!-- marginal: travel -->
+
+the Public Prosecutor may, where he has grounds to believe
+
+<!-- marginal: documents. -->
+
+that any person who is the subject of an investigation in respect of an offence under this Act suspected to have committed by him is likely to leave Malaysia, by written notice require such person to surrender his certificate of identity, passport or exit permit, or any other travel document in his possession.
 
 (2) A notice under subsection (1) shall be served personally on the person to whom it is addressed.
 
@@ -1246,7 +1620,9 @@ Surrender of
 
 whichever occurs earlier.
 
-(5) For the purpose of subsection (4), a certificate signed by the Public Prosecutor to the effect that the person has complied with the notice under subsection (1) shall be sufficient warrant for the Superintendent of Prison to discharge such person.
+(5) For the purpose of subsection (4), a certificate signed by the Public Prosecutor to the effect that the person has complied with the notice under subsection
+
+(1) shall be sufficient warrant for the Superintendent of Prison to discharge such person.
 
 (6) No legal proceedings shall be instituted or maintained against the Government, an officer of the Agency, a public officer or any other person, in respect of anything lawfully done under this section.
 
@@ -1286,13 +1662,33 @@ notice being given in the exercise of such power or any other powers conferred o
 
 ## EVIDENCE
 
-43. (1) Where in any proceedings against any person Presumption in certain for an offence under section 10, 11, 13, 14, 15 or 16 it offences. is proved that any gratification has been accepted or agreed to be accepted, obtained or attempted to be obtained, solicited, given or agreed to be given, promised, or offered, by or to the accused, the gratification shall be presumed to have been corruptly accepted or agreed to be accepted, obtained or attempted to be obtained, solicited, given or agreed to be given, promised or offered as an inducement or a reward for or on account of the matters set out in the particulars of the offence, unless the contrary is proved.
+43. (1) Where in any proceedings against any person
 
-(2) Where in any proceedings against any person for an offence under section 161, 162, 163 or 164 of the Penal Code, it is proved that such person has accepted F.M.S. Cap. 45. or agreed to accept, or obtained or attempted to obtain any gratification, such person shall be presumed to have done so as a motive or reward for the matters set out in the particulars of the offence, unless the contrary is proved.
+<!-- marginal: Presumption -->
+
+<!-- marginal: in certain -->
+
+for an offence under section 10, 11, 13, 14, 15 or 16 it
+
+<!-- marginal: offences. -->
+
+is proved that any gratification has been accepted or agreed to be accepted, obtained or attempted to be obtained, solicited, given or agreed to be given, promised, or offered, by or to the accused, the gratification shall be presumed to have been corruptly accepted or agreed to be accepted, obtained or attempted to be obtained, solicited, given or agreed to be given, promised or offered as an inducement or a reward for or on account of the matters set out in the particulars of the offence, unless the contrary is proved.
+
+(2) Where in any proceedings against any person for an offence under section 161, 162, 163 or 164 of the Penal Code, it is proved that such person has accepted
+
+<!-- marginal: F.M.S. -->
+
+<!-- marginal: Cap. 45. -->
+
+or agreed to accept, or obtained or attempted to obtain any gratification, such person shall be presumed to have done so as a motive or reward for the matters set out in the particulars of the offence, unless the contrary is proved.
 
 (3) Where in any proceedings against any person for an offence under section 165 of the Penal Code it is proved that such person has accepted or attempted to obtain any valuable thing without consideration or for a consideration which such person knows to be inadequate, such person shall be presumed to have done so with such knowledge as to the circumstances as set out in the particulars of the offence, unless the contrary is proved.
 
-(4) Where in any proceedings against any person for Act 235. an offence under paragraph 1 3 7 ( 1 )( b) of the Customs Act 1967, it is proved that any officer of customs or other person duly employed for the prevention of smuggling has accepted, agreed to accept or attempted to obtain any bribe, gratuity, recompense, or reward, such officer or person shal be presumed to have done so for the neglect or non-performance of his duty as set out in the particulars of the offence, unless the contrary is proved.
+(4) Where in any proceedings against any person for
+
+<!-- marginal: Act 235. -->
+
+an offence under paragraph 1 3 7 ( 1 )( b) of the Customs Act 1967, it is proved that any officer of customs or other person duly employed for the prevention of smuggling has accepted, agreed to accept or attempted to obtain any bribe, gratuity, recompense, or reward, such officer or person shal be presumed to have done so for the neglect or non-performance of his duty as set out in the particulars of the offence, unless the contrary is proved.
 
 <!-- page 49 -->
 
@@ -1352,9 +1748,19 @@ for an offence under this Act—
 
 (2) Notwithstanding any written law or rule of law to the contrary, a conviction for any offence under this Act solely on the uncorroborated evidence of any accomplice or agent provocateur shall not be illegal and no such conviction shall be set aside merely because the court which tried the case has failed to refer in the grounds of its judgement to the need to warn itself against the danger of convicting on such evidence.
 
-Admissibilily
+<!-- marginal: Admissibilily -->
 
-46. (1) In any trial or inquiry by a court into an offence of statements under this Act, any statement, whether the statement by accused persons. amounts to a confession or not or is oral or in writing, made at any time, whether before or after the person is charged and whether in the course of an investigation or not and whether or not wholly or partly in answer to questions, by an accused person to or in the hearing of any officer of the Agency, whether or not interpreted to him by any other officer of the Agency or any other person, whether concerned or not in the arrest of that person, shall, notwithstanding any written law or rule of law to the contrary, be admissible at his trial in evidence and, if that person tenders himself as a witness, any such statement may be used in cross-examination and for the purpose of impeaching his credit.
+46. (1) In any trial or inquiry by a court into an offence
+
+<!-- marginal: of statements -->
+
+under this Act, any statement, whether the statement
+
+<!-- marginal: by accused -->
+
+<!-- marginal: persons. -->
+
+amounts to a confession or not or is oral or in writing, made at any time, whether before or after the person is charged and whether in the course of an investigation or not and whether or not wholly or partly in answer to questions, by an accused person to or in the hearing of any officer of the Agency, whether or not interpreted to him by any other officer of the Agency or any other person, whether concerned or not in the arrest of that person, shall, notwithstanding any written law or rule of law to the contrary, be admissible at his trial in evidence and, if that person tenders himself as a witness, any such statement may be used in cross-examination and for the purpose of impeaching his credit.
 
 (2) No statement made under subsection (1) shall be admissible or used as provided for in that subsection if the making of the statement appears to the court to have been caused by any inducement, threat or promise having
 
@@ -1368,7 +1774,11 @@ reference to the charge against the person, proceeding from a person in authorit
 
 (4) Notwithstanding subsection (3), a statement by any person accused of any offence under this Act made before there is time to serve a notice under that subsection shall not be rendered inadmissible in evidence merely by reason of no such notice having been served on him if such notice has been served on him as soon as is reasonably possible thereafter.
 
-(5) No statement made by an accused person in answer to a written notice served on him pursuant to subsection (3) shall be construed as a statement caused by any inducement, threat or promise as is described in subsection (2), if it is otherwise voluntary.
+(5) No statement made by an accused person in answer to a written notice served on him pursuant to subsection
+
+(3) shall be construed as a statement caused by any inducement, threat or promise as is described in subsection
+
+(2), if it is otherwise voluntary.
 
 (6) Where in any criminal proceedings against a person for an offence under this Act, evidence is given that the accused, on being informed that he might be prosecuted for it, failed to mention any such fact, being a fact which
 
@@ -1382,11 +1792,33 @@ in the circumstances existing at the time he could reasonably have been expected
 
 (b) be taken to preclude the drawing of any inference from any such silence or other reaction of the accused which could be drawn apart from that subsection.
 
-Admissibility
+<!-- marginal: Admissibility -->
 
-47. Notwithstanding any written law to the contrary, in of statements any proceedings against any person for an offence under and documents this Act— of persons who are dead
+47. Notwithstanding any written law to the contrary, in
 
-(a) any statement made by any person to an officer or cannot be of the Agency in the course of an investigation traced, etc. under this Act; and
+<!-- marginal: of statements -->
+
+any proceedings against any person for an offence under
+
+<!-- marginal: and -->
+
+<!-- marginal: documents -->
+
+this Act—
+
+<!-- marginal: of persons -->
+
+<!-- marginal: who are dead -->
+
+(a) any statement made by any person to an officer
+
+<!-- marginal: or cannot be -->
+
+of the Agency in the course of an investigation
+
+<!-- marginal: traced, etc. -->
+
+under this Act; and
 
 (b) any document, or copy of any document, seized from any person by an officer of the Agency in exercise of his powers under this Act or by virtue of this Act,
 
@@ -1430,25 +1862,51 @@ this Act is in a language other than the national language or the English langua
 
 <!-- page 54 -->
 
-Evidence of
+<!-- marginal: Evidence of -->
 
-50. In any civil or criminal proceedings under this Act, custom evidence shall not be admissible to show that any such inadmissible. gratification as is mentioned in this Act is customary in any profession, trade, vocation or calling or on a social occasion.
+50. In any civil or criminal proceedings under this Act,
+
+<!-- marginal: custom -->
+
+evidence shall not be admissible to show that any such
+
+<!-- marginal: inadmissible. -->
+
+gratification as is mentioned in this Act is customary in any profession, trade, vocation or calling or on a social occasion.
 
 ## PART VII
 
 ## PROSECUTION AND TRIAL OF OFFENCES
 
-Prosecution
+<!-- marginal: Prosecution -->
 
-51. A prosecution for an offence under this Act shall of offences. not be instituted except by or with the consent of the Public Prosecutor.
+51. A prosecution for an offence under this Act shall
 
-Joinder of
+<!-- marginal: of offences. -->
 
-52. Notwithstanding anything contained in section 164 offences. of the Criminal Procedure Code, where a person is accused F.M.S. Cap. 6. of more than one offence under this Act he may be charged with and tried at one trial for any number of such offences committed within the space of any length of time.
+not be instituted except by or with the consent of the Public Prosecutor.
 
-Examination
+<!-- marginal: Joinder of -->
 
-53. (1) Whenever two or more persons are charged with of offenders. an offence under this Act the court may, on an application in writing by the Public Prosecutor, require one or more of them to give evidence as a witness or witnesses for the prosecution.
+52. Notwithstanding anything contained in section 164
+
+<!-- marginal: offences. -->
+
+of the Criminal Procedure Code, where a person is accused
+
+<!-- marginal: F.M.S. -->
+
+<!-- marginal: Cap. 6. -->
+
+of more than one offence under this Act he may be charged with and tried at one trial for any number of such offences committed within the space of any length of time.
+
+<!-- marginal: Examination -->
+
+53. (1) Whenever two or more persons are charged with
+
+<!-- marginal: of offenders. -->
+
+an offence under this Act the court may, on an application in writing by the Public Prosecutor, require one or more of them to give evidence as a witness or witnesses for the prosecution.
 
 (2) Any person referred to in subsection (1) who refuses to be sworn or to be affirmed to answer any lawful question shall be dealt with in the same manner as witnesses so refusing may by law be dealt with by the court.
 
@@ -1482,23 +1940,59 @@ is made in consequence of information received by the officer making the complai
 
 ## GENERAL
 
-Protection of
+<!-- marginal: Protection of -->
 
-55. No legal proceedings, civil or criminal, shall be officers of instituted against any officer of the Agency or any other the Agency. person assisting such officer for any act which is done in good faith or for any omission which is omitted in good faith by such officer or other person.
+55. No legal proceedings, civil or criminal, shall be
 
-Liability for
+<!-- marginal: officers of -->
 
-56. (1) The provisions of this Act shall, in relation to offences citizens and permanent residents of Malaysia, have effect outside Malaysia. outside as well as within Malaysia, and when an offence under this Act is committed in any place outside Malaysia by any citizen or permanent resident, he may be dealt with in respect of such offence as if it was committed at any place within Malaysia.
+instituted against any officer of the Agency or any other
+
+<!-- marginal: the Agency. -->
+
+person assisting such officer for any act which is done in good faith or for any omission which is omitted in good faith by such officer or other person.
+
+<!-- marginal: Liability for -->
+
+56. (1) The provisions of this Act shall, in relation to
+
+<!-- marginal: offences -->
+
+citizens and permanent residents of Malaysia, have effect
+
+<!-- marginal: outside -->
+
+<!-- marginal: Malaysia. -->
+
+outside as well as within Malaysia, and when an offence under this Act is committed in any place outside Malaysia by any citizen or permanent resident, he may be dealt with in respect of such offence as if it was committed at any place within Malaysia.
 
 (2) Any proceeding against any person under this section which would be a bar to subsequent proceedings against such person for the same offence if such offence was committed in Malaysia shall be a bar to further proceedings against him under any written law relating to the extradition of persons, in respect of the same offence, outside Malaysia.
 
-Application
+<!-- marginal: Application -->
 
-57. Notwithstanding any other written law to the contrary, of provisions the provisions of this Act shall apply to a prescribed of this Act to a prescribed offence regardless of whether the prosecution or any offence. other proceedings in respect of such offence are instituted or taken by an officer of the Agency, or a police officer or customs officer, or any other officer having powers to investigate, prosecute or take any proceedings in respect of such offence.
+57. Notwithstanding any other written law to the contrary,
 
-General
+<!-- marginal: of provisions -->
 
-58. Any person who fails to comply with any provision offence. of this Act or any order, direction or notice given by or on behalf of a court, the Public Prosecutor, or an officer of the Agency in the exercise of his functions under this Act, shall be guilty of an offence.
+the provisions of this Act shall apply to a prescribed
+
+<!-- marginal: of this Act to -->
+
+<!-- marginal: a prescribed -->
+
+offence regardless of whether the prosecution or any
+
+<!-- marginal: offence. -->
+
+other proceedings in respect of such offence are instituted or taken by an officer of the Agency, or a police officer or customs officer, or any other officer having powers to investigate, prosecute or take any proceedings in respect of such offence.
+
+<!-- marginal: General -->
+
+58. Any person who fails to comply with any provision
+
+<!-- marginal: offence. -->
+
+of this Act or any order, direction or notice given by or on behalf of a court, the Public Prosecutor, or an officer of the Agency in the exercise of his functions under this Act, shall be guilty of an offence.
 
 <!-- page 57 -->
 
@@ -1592,9 +2086,7 @@ The most severe penalty under Part II of Act 57 is a maximum fine of ten thousan
 
 It is proposed that the courts be still left with the discretion whether to bind over the accused under section 173A or 294 of the Criminal Procedure Code.
 
-## Part III also seeks to require a person to whom gratification is
-
-offered or any person from whom gratification is requested for to report such offer or request. This is contained in clause 18.
+Part III also seeks to require a person to whom gratification is offered or any person from whom gratification is requested for to report such offer or request. This is contained in clause 18.
 
 Under clause 19, a person commits an offence if he deals with, uses, holds or conceals any property which is the subject-matter of any of the offences proposed in clauses 10, 11, 13, 14, 15 and 16.
 

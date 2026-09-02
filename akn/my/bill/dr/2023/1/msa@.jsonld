@@ -197,7 +197,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_14",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (2)— Seksyen baharu 14a"
+        "@value": "dalam subseksyen (2)—"
       }
     },
     {
@@ -217,7 +217,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_14__para_c",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam teks bahasa Inggeris, dengan memasukkan selepas perkataan “imprisonment” perkataan “for a term”."
+        "@value": "dalam teks bahasa Inggeris, dengan memasukkan selepas perkataan “imprisonment” perkataan “for a term”. Seksyen baharu 14a"
       }
     },
     {

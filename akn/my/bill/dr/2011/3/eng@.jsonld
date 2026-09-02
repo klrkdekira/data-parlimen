@@ -1,0 +1,2925 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-3-2011",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "National Sports Institute Bill 2011"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY Short title and commencement"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "NATIONAL SPORTS INSTITUTE Establishment of the Institute"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_20"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "CHIEF EXECUTIVE OFFICER, OFFICERS AND EMPLOYEES OF THE INSTITUTE Powers and duties of Chief Executive Officer"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_18__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_18__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_18__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_18__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_18__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall appoint a Chief Executive Officer of the Institute and such numbers of Deputy Chief Executive Officers on such terms and conditions as the Minister may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Institute shall vest in the Chief Executive Officer such powers and impose upon him such duties as may be determined by the Institute."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_18__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chief Executive Officer shall be responsible for the overall administration and management of the functions and the day-to-day affairs of the Institute."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_18__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chief Executive Officer shall perform such further duties as the Minister may from time to time direct."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_18__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In discharging his duties, the Chief Executive Officer shall act under the general authority and direction of the Institute."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_18__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the Chief Executive Officer is temporarily absent from Malaysia or is temporarily incapacitated through illness or for any other reason from performing of his duties, or if the office of the Chief Executive Officer is for the time being vacant, the Institute may direct any Deputy Chief Executive Officer to perform the duties of the Chief Executive Officer during such temporary absence or incapacity. Employment of other officers and employees of the Institute"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_19__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_19__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_19__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_19__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to any regulations made under subsection (4), the Institute may employ such number of other officers and employees as the Institute thinks desirable and necessary and on such terms and conditions as the Institute considers appropriate for the carrying out the purposes of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chief Executive Officer shall have general control of the officers and employees of the Institute."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_19__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No person shall be eligible for employment as an officer or employee of the Institute if he has, directly or indirectly, by himself or through his partner, any share or interest in any contract or proposed contract with, for or on behalf of the Institute."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_19__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Institute may, with the approval of the Minister, make regulations with respect to the conditions of service of its officers and employees."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_19__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Institute may adopt, with such modifications as it deems fit, any regulations, rules, policies, circulars or directives enacted or issued by the Federal Government in relation to any matters under this Part. Financial assistance to officers, employees and other persons"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_20__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_20__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_20__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_20__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_20__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Institute may provide—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_20__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the payment of retirement benefits, gratuities and other allowances as the Institute may determine to the officers and employees of the Institute;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_20__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "subsidies, grants, financing or credit facilities, with or without interest, and other compassionate financing or loans, to the officers and employees of the Institute;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_20__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "subsidies, grants, financing or credit facilities, with or without interest, for medical purposes to the officers and employees of the Institute, and their dependants;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_20__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "financing or credit facilities, with or without interest, for educational purposes or scholarships to the officers and employees of the Institute or any other person; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_20__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "donations to any person, on such terms and conditions as the Institute may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_10__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The appointment of any member of the Institute appointed under paragraph 7(1)(a) or (j) may at any time be revoked by the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Institute may at any time resign his office by a written notice addressed to the Minister. Vacation of office and filling of vacancy"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11__subsec_1__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11__subsec_1__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The office of a member of the Institute appointed under paragraph 7(1)(a) or (j) shall be vacated if—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he dies;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11__subsec_1__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11__subsec_1__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11__subsec_1__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "there has been proved against him, or he has been convicted of, a charge in respect of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11__subsec_1__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11__subsec_1__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an offence involving fraud, dishonesty or moral turpitude;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11__subsec_1__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11__subsec_1__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an offence under any law relating to corruption; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11__subsec_1__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11__subsec_1__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other offence punishable with imprisonment (in itself only or in addition to or in lieu of a fine) for more than two years;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "his conduct, whether in connection with his duties as a member of the Institute or otherwise, has been such as to bring discredit to the Institute;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he becomes a bankrupt;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he is of unsound mind or is otherwise incapable of discharging his duties;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he absents himself from three consecutive meetings of the Institute without leave of the Chairman or, in the case of the Chairman, without leave of the Minister;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "his appointment is revoked by the Minister; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11__subsec_1__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "his resignation is accepted by the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where a member appointed under paragraph 7(1)(a) or (j) ceases to be a member of the Institute, the Minister may appoint another person to fill the vacancy for the remainder of the term for which the vacating member was appointed in accordance with the provisions applying. Allowances"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The members of the Institute shall be paid such allowances as the Minister may determine after consultation with the Minister of Finance. Secretary"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Institute shall appoint a secretary to the Institute. Directions by Minister"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_14__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Institute shall be responsible to the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may give the Institute directions of a general character consistent with the provisions of this Act relating to the performance of the functions and powers of the Institute and the Institute shall give effect to such directions. Returns, reports, accounts and information"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Institute shall furnish to the Minister such returns, reports, accounts and information with respect to its property and activities as the Minister may require or direct. Delegation of the Institute’s functions and powers"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_16__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_16__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_16__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_16__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_16__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_16__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_16__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_16__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Institute may, subject to subsection (2) and such conditions, limitations or restrictions as it thinks fit to impose, delegate in writing any of its functions or powers, except its power to borrow money, grant loans, establish companies or make subsidiary legislation, to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_16__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_16__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any member of the Institute;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_16__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_16__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any committee established by the Institute; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_16__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_16__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any officer or employee of the Institute, and any function or power so delegated may be performed or exercised by the member, committee, officer or employee, as the case may be, in the name and on behalf of the Institute."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_16__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member, committee, officer or employee delegated with such functions and powers shall be bound to observe and have regard to all conditions, limitations or restrictions imposed by the Institute."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_16__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Institute may delegate to the Chief Executive Officer the authority to sanction expenditure from the Fund or any other moneys vested in or under the control of the Institute up to such limit as the Institute shall specify."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_16__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A delegation under this section shall not preclude the Institute itself from performing or exercising at any time any of the delegated functions or powers. Institute may establish committees"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17__subsec_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17__subsec_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17__subsec_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17__subsec_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17__subsec_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17__subsec_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17__subsec_14"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Institute may establish such committees as it considers necessary or expedient to assist it in the performance of its functions under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17__subsec_10",
+      "@type": "akn:subsection",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Institute may, at any time revoke the appointment of any member of a committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17__subsec_11",
+      "@type": "akn:subsection",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of a committee may at any time resign his office by a written notice addressed to the Chairman of the Institute."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17__subsec_12",
+      "@type": "akn:subsection",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17__subsec_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17__subsec_12__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A committee shall cause—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17__subsec_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17__subsec_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "minutes of all its meetings to be maintained and kept in a proper form; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17__subsec_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17__subsec_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "copies of the minutes of all its meetings to be submitted to the Institute as soon as practicable."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17__subsec_13",
+      "@type": "akn:subsection",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any minutes made of a meeting of a committee shall, if duly signed, be admissible in evidence in all legal proceedings without further proof."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17__subsec_14",
+      "@type": "akn:subsection",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every meeting of a committee in respect of the proceedings of which minutes have been made in accordance with subsections (12) and (13) shall be deemed to have been duly convened and held and all members thereat to have been duly qualified to act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A committee established under subsection (1) shall deliberate upon matters referred to it by the Institute and make appropriate recommendations thereon to the Institute."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Institute may elect any of its members or any other person to be the chairman of a committee established under subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Institute may appoint any person to be a member of a committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A committee may regulate its own procedure and, in the exercise of its powers under this subsection, such committee shall be subject to and act in accordance with any direction given to the committee by the Institute."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A meeting of a committee shall be held at such time and place as the chairman of the committee may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A committee may invite any person to attend any meeting of the committee for the purpose of advising it on any matter under discussion, but that person is not entitled to vote at the meeting."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The members of a committee or any person invited under subsection (7) to attend any meeting of a committee may be paid such allowances and other expenses as the Institute may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17__subsec_9",
+      "@type": "akn:subsection",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of a committee shall hold office for such term as may be specified in his instrument of appointment and is eligible for reappointment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_3__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A body corporate by the name of “National Sports Institute” is established."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Institute shall have perpetual succession and a common seal and may sue and be sued in its name."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_3__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_3__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_3__subsec_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to and for the purposes of this Act, the Institute may, upon such terms as it deems fit—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_3__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_3__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "enter into contracts;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_3__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_3__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "acquire, purchase, take, hold and enjoy movable and immovable property of every description; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_3__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_3__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "convey, assign, surrender, yield up, charge, mortgage, demise, lease, reassign, transfer or otherwise dispose of, or deal with, any movable or immovable property or any interest vested in the Institute. Common seal"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_4__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_4__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_4__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The common seal of the Institute shall bear such device as approved by the Institute and the seal may be broken, changed, altered and made anew as the Institute deems fit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The common seal shall be kept in the custody of the Chief Executive Officer or any other officer authorised by the Chief Executive Officer, and shall be authenticated by either the Chief Executive Officer or by such other officer authorised by the Chief Executive Officer in writing."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All deeds, documents and other instruments purporting to be sealed with the common seal and authenticated in accordance with subsection (2) shall, until the contrary is proven, be deemed to have been validly executed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_4__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any deed, document and other instrument which, if executed by a person not being a body corporate, is not required to be under seal may in like manner be executed by an officer or employee of the Institute authorised in that behalf."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_4__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The common seal of the Institute shall be officially and judicially noticed. Functions of the Institute"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_5__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_5__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_5__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_5__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_5__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_5__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_5__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_5__para_j"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The functions of the Institute shall be—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to advise the Minister on any matter pertaining to the scientific aspects of the performance of athletes;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to formulate, recommend and review scientific methods and measures that enhance the performance of athletes;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to collaborate with any Government entity, public or private higher educational institution, sports body or any organization in programmes to identify potential athletes to achieve excellence in sports;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_5__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to provide scientific, advisory, consultancy and related services in sports science and sports medicine;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_5__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to establish and maintain liaison and cooperation with any person, body or organization involved in the development of sports science and sports medicine, within and outside Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_5__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to provide and conduct the necessary medical examination and treatment of sportspersons;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_5__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to be the information, resource and reference centre for sports science and sports medicine;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_5__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to gather, manage and disseminate information and maintain records of all relevant matters relating to the scientific aspects of the performance of athletes;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_5__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to carry out and coordinate research, development and innovation activities in the field of sports science, sports medicine and other related fields as it deems necessary; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_5__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to do such other things as it deems fit to enable it to perform its functions effectively or which are incidental to the performance of its functions. Powers of the Institute"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Institute shall have power to do all things expedient or reasonably necessary for or incidental to the carrying out of its functions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2__para_l",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2__para_m",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2__para_n",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2__para_o"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to the generality of subsection (1), the powers of the Institute shall include the power—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to conduct courses and training programmes in the field of sports science and sports medicine;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to structure and determine the components of sports science and sports medicine in any programme for the preparation of athletes and to assist in its implementation, within and outside Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to supervise sports science techniques in any athlete preparation programmes and to provide necessary technical support;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to carry out and perform any examination, test and assessment, physical or otherwise, in any programme to identify potential athletes;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to examine, test and assess the competency of coaches in respect of the relevant skills and techniques in sports science;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "subject to subsection (3), to establish, maintain and administer clinics, pharmacies, laboratories and other facilities for sports medicine;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to establish and maintain any place or facility where scientific, advisory, consultancy, research and related services in the field of sports science and sports medicine may be provided;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to undertake activities relating to research, development and innovation in the field of sports science, sports medicine and other related fields;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to facilitate and conduct training in sports science and sports medicine jointly or in affiliation, association or collaboration with any Government entity, public or private higher educational institution, sports body or organization;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to enter into negotiations, agreements or arrangements with any person, body or organization, within or outside Malaysia, as it deems fit for the discharge of its functions;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to acquire, hold, dispose of or grant rights in connection with any research findings conducted by or for the Institute;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to impose fees or any other charges as it deems fit for the use of any facility relating to research, testing, advisory or any other services rendered by the Institute;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2__para_m",
+      "@type": "akn:paragraph",
+      "eli:number": "m",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to collect and receive any moneys related to the use of its facilities and in consideration of other services rendered by the Institute;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2__para_n",
+      "@type": "akn:paragraph",
+      "eli:number": "n",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to make contribution to bodies or organizations, within or outside Malaysia, of which the Institute is a member or to such organizations related to sports science and sports medicine as the Minister may determine; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2__para_o",
+      "@type": "akn:paragraph",
+      "eli:number": "o",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to do all things expedient or necessary for or incidental to the performance of its functions under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The powers of the Institute under paragraph (2)(f) shall be subject to any written laws relating to the establishment, maintenance and administration of such clinics, pharmacies, laboratories and other facilities. Membership of the Institute"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7__subsec_1__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7__subsec_1__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7__subsec_1__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7__subsec_1__para_j"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Institute shall consist of the following members:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a Chairman who shall be appointed by the Minister;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chief Executive Officer;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Secretary General of the Ministry charged with the responsibility for sports or his representative;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Secretary General of the Ministry charged with the responsibility for finance or his representative;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Secretary General of the Ministry charged with the responsibility for health or his representative;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Secretary General of the Ministry charged with the responsibility for higher education or his representative;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Secretary General of the Ministry charged with the responsibility for education or his representative;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7__subsec_1__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Director General of the National Sports Council or his representative;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7__subsec_1__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the President of the Olympic Council of Malaysia or his representative; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7__subsec_1__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "not more than five other members appointed by the Minister who, in the opinion of the Minister, have special skills, experience, qualifications and professionalism in matters relating to sports science and sports medicine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The provisions of the Schedule shall apply to the Institute."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may amend the provisions of the Schedule by order published in the Gazette. Tenure of office"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_8__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to such conditions as may be specified in his instrument of appointment, a member of the Institute appointed under paragraph 7(1)(a) or (j) shall, unless he sooner resigns or vacates his office or his appointment is sooner revoked, hold office for a term not exceeding three years."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Institute appointed under paragraph 7(1) (a) or (j) shall be eligible for reappointment. Temporary exercise of functions of the Chairman"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_9__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_9__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_9__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_9__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may appoint temporarily any member of the Institute, other than the Chief Executive Officer, to act as the Chairman for the period when—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_9__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the office of the Chairman is vacant;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_9__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chairman is absent from duty or absent from Malaysia; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_9__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chairman is, for any other reason, unable to perform the duties of his office."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member appointed under subsection (1) shall, during the period in which he is performing the functions of the Chairman under this section, be deemed to be the Chairman. Revocation of appointment and resignation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV__cl_23"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "SERVICES IN SPORTS SCIENCE AND SPORTS MEDICINE Services to the National Sports Council"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV__cl_21__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV__cl_21__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV__cl_21__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Institute shall be the principal provider to the National Sports Council in respect of services in sports science and sports medicine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV__cl_21__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV__cl_21__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV__cl_21__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV__cl_21__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV__cl_21__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV__cl_21__subsec_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The services under subsection (1) shall include—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV__cl_21__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV__cl_21__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "providing sports science and sports medicine services in athlete training programmes;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV__cl_21__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV__cl_21__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "making recommendations on the application of relevant skills and techniques pertaining to sports science in any sports activity, event or competition;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV__cl_21__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV__cl_21__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "carrying out any examination, test and assessment on the performance of an athlete who is referred to the Institute by the National Sports Council and making any recommendations to improve the performance of the athlete;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV__cl_21__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV__cl_21__subsec_2__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV__cl_21__subsec_2__para_d__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV__cl_21__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "performing the necessary treatment for and management of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV__cl_21__subsec_2__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV__cl_21__subsec_2__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the medical condition of a sportsperson; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV__cl_21__subsec_2__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV__cl_21__subsec_2__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the injuries sustained by a sportsperson in any sports activity, event or competition; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV__cl_21__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV__cl_21__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "monitoring and managing the services provided under paragraphs (a) to (d). Programme to identify potential athletes"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Institute may carry out any foundation talent identification programmes and follow through programmes. Database"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV__cl_23__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV__cl_23__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV__cl_23__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Institute shall keep and maintain a database containing the data, records and information of athletes and potential athletes in such form and manner as may be prescribed by the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV__cl_23__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Institute may make a written request for any additional information relating to the athletes and potential athletes from any Government entity, public or private higher educational institutions, sports body or organization for the purpose of updating the database."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the National Sports Institute Act 2011."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Interpretation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_I__cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_I__cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "“sportsperson” has the same meaning assigned to it by the Sports Development Act 1997 [Act 576]; “athlete” means a sportsperson who receives training and competes in sports competitions or events; “potential athlete” means a sportsperson who has excellent physical capacity according to age and is capable of mastering locomotor skills and able to accept emotional intelligence learning processes well and possess a strong competitive spirit; “sports body” has the same meaning assigned to it by the Sports Development Act 1997; “Government entity” means—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_I__cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Federal Government, any State Government or local government; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_I__cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any ministry, department, office, agency, authority, commission, committee, board, council or other body, corporate or unincorporated, of the Federal Government, any State Government or local government, whether established under any written law or otherwise; “Institute” means the National Sports Institute established under section 3; “Chief Executive Officer” means the Chief Executive Officer appointed under subsection 18(1) and includes any Deputy Chief Executive Officer directed under subsection 18(6) to perform the duties of the Chief Executive Officer; “Fund” means the National Sports Institute Fund established under section 29; “National Sports Council” means the National Sports Council of Malaysia established under the National Sports Council of Malaysia Act 1971 [Act 29]; “Minister” means the Minister charged with the responsibility for sports; “Chairman” means the Chairman of the Institute appointed under paragraph 7(1)(a); “sports medicine” means the practice of medicine by a medical practitioner in the prevention, diagnosis and management of injuries and medical conditions related to sports and exercise activities; “sports science” means the discipline which relates to the application of scientific principles to improve sport performance."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_28"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "RESEARCH, DEVELOPMENT AND COMMERCIALIZATION Satellite centres"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_37"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "FINANCE National Sports Institute Fund"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VII",
+      "@type": "akn:part",
+      "eli:number": "VII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VII__cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VII__cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VII__cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VII__cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VII__cl_42"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "OTHER POWERS OF THE INSTITUTE Power to borrow"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII",
+      "@type": "akn:part",
+      "eli:number": "VIII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_44",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_45",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_46",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_47",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_48"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "GENERAL Duty to maintain secrecy"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_43__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_43__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_43__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Except for any of the purposes of this Act or for the purposes of any civil or criminal proceedings under any written law, no member of the Institute or any of its committees, officer, employee or agent of the Institute or any person attending any meeting of the Institute or any of its committees shall disclose any information which has been obtained by him in the course of his duties and which is not published in pursuance of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_43__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding two years or to both. Protection against suit and legal proceedings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_44__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_44__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_44__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No action, suit, prosecution or other proceedings shall lie or be brought, instituted or maintained against—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_44__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_44",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Institute;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_44__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_44",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any member of the Institute or a committee, or any officer, employee or agent of the Institute; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_44__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_44",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any person lawfully acting on behalf of the Institute, in respect of any act, neglect, default or omission done or omitted by him or it in good faith in such capacity. Public Authorities Protection Act 1948"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_45",
+      "@type": "akn:clause",
+      "eli:number": "45",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Public Authorities Protection Act 1948 [Act 198] shall apply to any action, suit, prosecution or proceedings against the Institute or against any member of the Institute, any member of a committee, or any officer, employee or agent of the Institute in respect of any act, neglect, default or omission done or omitted by him or it in such capacity. Public servant"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_46",
+      "@type": "akn:clause",
+      "eli:number": "46",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every member of the Institute or a committee, or any officer, employee or agent of the Institute, while discharging his duty under this Act as such member, officer, employee or agent, shall be deemed to be a public servant within the meaning of the Penal Code [Act 574]. Power to make regulations"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_47",
+      "@type": "akn:clause",
+      "eli:number": "47",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_47__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_47__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_47__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_47",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may make such regulations as are necessary or expedient to give full effect to or for carrying out the provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_47__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_47__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_47__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_47__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_47__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_47",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to the generality of subsection (1), the Minister may make regulations—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_47__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_47__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "prescribing the fees and charges payable to the Institute under this Act and the manner for collecting and disbursing such fees and charges;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_47__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_47__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "prescribing the procedure to be followed for the administration of the Fund;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_47__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_47__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "providing for the implementation of foundation talent identification programmes and follow through programmes for potential athletes; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_47__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_47__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "providing for such other matters as are contemplated by, or necessary for giving full effect to the provisions of this Act. Acts done in anticipation of the enactment of this Act"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII__cl_48",
+      "@type": "akn:clause",
+      "eli:number": "48",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VIII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All acts and things done by any person on behalf of the Institute in the preparation for or in anticipation of the enactment of this Act and any expenditure incurred in relation thereto shall be deemed to have been authorized under this Act, provided that the acts and things done are consistent with the general intention and purposes of this Act; and all rights and obligations acquired or incurred as a result of doing those acts or things including any expenditure incurred in relation thereto shall, on coming into operation of this Act, be deemed to be the rights and obligations of the Institute."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VII__cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Institute may, with the approval of the Minister and the Minister of Finance, borrow, at such rate of interest and for such period and upon such terms as to the time and method of repayment and otherwise as the Minister and the Minister of Finance may approve, any sums required by the Institute for meeting any of its obligations or discharging any of its duties. Power to invest"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VII__cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The moneys of the Institute shall, insofar as they are not required to be expended by the Institute under this Act, be invested in such manner as the Minister and the Minister of Finance may approve. Power to employ agents, etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VII__cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Institute may employ, appoint and pay agents, contractors and technical advisers, including advocates and solicitors, bankers, stockbrokers, surveyors, valuers and other persons, to transact any business or to do any act required to be transacted or done in the performance of its functions, the exercise of its powers or the discharge of its duties or for the better carrying into effect of the purposes of this Act. Power to establish companies"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VII__cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Institute may establish companies under the Companies Act 1965 [Act 125] to carry out and have the charge, conduct and management of any project, scheme or enterprise which has been planned or undertaken by the Institute in the performance of its functions and the exercise of its powers. Financial assistance to company established by the Institute, etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VII__cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VII__cl_42__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VII__cl_42__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of this Act, the Institute may, with the approval of the Minister and the Minister of Finance, provide financial assistance—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VII__cl_42__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VII__cl_42",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to any company established under section 41; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VII__cl_42__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VII__cl_42",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to any person involved in conducting research, development and innovation activities relating to sports science and sports medicine, with or without interest and for such period and upon such terms as to the time and method of repayment and otherwise."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_29__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_29__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_29__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_29__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A fund to be known as the “National Sports Institute Fund” is established."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_29__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Fund shall be controlled, maintained and operated by the Institute."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_29__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_29__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_29__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_29__subsec_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_29__subsec_3__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_29__subsec_3__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_29__subsec_3__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_29__subsec_3__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_29__subsec_3__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_29__subsec_3__para_i"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Fund shall consist of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_29__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_29__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "such sums as may be provided by Parliament for the purposes of this Act from time to time;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_29__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_29__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "moneys earned by the operation of any project, scheme or enterprise financed from the Fund;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_29__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_29__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "moneys earned or arising from any property, investment, mortgage, lease, tenancy, charge or debenture acquired by or vested in the Institute;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_29__subsec_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_29__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any property, investment, mortgage, lease, tenancy, charge or debenture acquired by or vested in the Institute;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_29__subsec_3__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_29__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "sums borrowed by the Institute for the purposes of meeting any of its obligations or discharging any of its duties;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_29__subsec_3__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_29__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "moneys earned from consultancy and advisory services and any other services rendered by the Institute;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_29__subsec_3__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_29__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "moneys received by the Institute by way of grants;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_29__subsec_3__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_29__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all other moneys lawfully received by the Institute; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_29__subsec_3__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_29__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all other sums and property which may in any manner become payable to or vested in the Institute in respect of any matter incidental to its functions and powers. Expenditure to be charged on Fund"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_30__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_30__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_30__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_30__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_30__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_30__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_30__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_30__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_30__para_i"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Fund shall be expended for the following purposes:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_30__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "paying any expenditure lawfully incurred by the Institute;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_30__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "paying for the remuneration, allowances and other expenses of the members of the Institute, members of the committees, officers and employees of the Institute, including the granting of loans and advances, superannuation allowances, retirement benefits and gratuities;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_30__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "financing research and development activities;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_30__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "contributing to bodies or organizations, within or outside Malaysia, of which the Institute is a member or to such organizations related to sports science and sports medicine as the Minister may determine;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_30__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "proving financial assistance under section 20;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_30__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "paying any other expenses, costs or expenditure in relation to the procurement of goods and services, including the engagement of consultants, legal fees and costs and other fees and costs, properly incurred or accepted by the Institute in the performance of its functions and exercise of its powers under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_30__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "purchasing or hiring equipment, machinery and any other materials, acquiring land and erecting buildings, and carrying out any other works and undertakings in the performance of its functions and the exercise of its powers under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_30__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "repaying any moneys borrowed under section 38 and the interest due on such moneys; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_30__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "generally, paying any expenses for carrying into effect the provisions of this Act. Conservation of Fund"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "It shall be the duty of the Institute to conserve the Fund by so performing its functions and exercising its powers under this Act as to secure that the total revenues of the Institute are sufficient to meet all sums properly chargeable to its revenue account, including depreciation and interest on capital, taking one year with another. Reserve fund"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Institute shall establish and manage a reserve fund within the Fund. Expenditure and preparation of estimates"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_33__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_33__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_33__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_33__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_33__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_33__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The expenditure of the Institute up to such amount as may be authorized by the Minister for any one year shall be defrayed out of the Fund."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_33__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Before 1 September of each year, the Institute shall submit to the Minister an estimate of the expenditure, including the expenditure for research and development activities, for the following year in such form and containing such particulars as the Minister may direct."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_33__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall, before the beginning of the following year, notify the Institute of the amount authorized for expenditure generally or of the amounts authorized for each description of expenditure based on the estimate prepared under subsection (2)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_33__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Institute may at any time submit to the Minister a supplementary estimate of its expenditure for any one year and the Minister may allow the whole or any part of the additional expenditure included in the supplementary estimate."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_33__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may direct the Institute to submit a copy of the estimate or supplementary estimate, as the case may be, to such other public authority as may be specified in the direction. Financial year"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The financial year of the Institute shall begin on 1 January and end on 31 December of each year. Accounts and reports"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Institute shall cause proper accounts of the Fund to be kept and shall, as soon as practicable after the end of each financial year, cause to be prepared for that financial year a statement of accounts of the Institute which shall include a balance sheet and an account of income and expenditure. Bank account"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Institute shall open and maintain an account or accounts with such banks in Malaysia as the Institute thinks fit, and every account shall be operated as far as practicable by cheques signed by any person as may be authorized by the Institute for such purpose from time to time. Statutory Bodies (Accounts and Annual Reports) Act 1980"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI__cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Statutory Bodies (Accounts and Annual Reports) Act 1980 [Act 240] shall apply to the Institute."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_24__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_24__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_24__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_24__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_24__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_24__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Institute may establish satellite centres to provide advisory, consultancy, research and related services in the field of sports science and sports medicine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_24__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A satellite centre established under subsection (1) shall be headed by a person to be appointed by the Institute."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_24__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The head of a satellite centre shall be responsible to the Institute and shall perform such duties as may be assigned to him by the Institute."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_24__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A satellite centre which maintains a clinic, pharmacy, laboratory and other facilities for sports medicine shall be subject to any written law relating to the establishment, maintenance and administration of a clinic, pharmacy, laboratory and other facilities."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_24__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A satellite centre shall bear such name as may be assigned by the Institute to them. Research in sports science and sports medicine"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_25__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_25__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_25__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Institute shall conduct research and development activities in sports science and sports medicine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_25__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_25__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_25__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_25__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to the generality of subsection (1), the Institute may carry out research and development activities in respect of sports science and sports medicine—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_25__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_25__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to develop the performance of athletes;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_25__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_25__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to enhance the performance of athletes in any sports activity, event or competition; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_25__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_25__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to develop procedures and techniques to manage injuries suffered by an athlete resulting from any sports activity, event or competition. Property in research findings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_26__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_26__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_26__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_26__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The property in every research finding undertaken by the Institute that is funded entirely by grants made to the Institute by any Government entity shall vest in the Institute."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_26__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The property in every research finding undertaken by the Institute that is funded by any person, private enterprise or organization shall vest in the Institute and such person, private enterprise or organization jointly, subject to the terms of any agreement between the Institute and the person, private enterprise or organization."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_26__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Institute may make available any research finding vested in the Institute by virtue of subsection (1) to any person or body, subject to such conditions and payment of such fees, royalties or other consideration, if any, as the Institute may determine. Access to research findings and facilities"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_27__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_27__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_27__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Institute may, subject to such conditions, restrictions and limitations as it may determine, allow any person access to the research findings and facilities of the Institute."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_27__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of this section, “facilities” includes equipment, laboratory and database. Commercialization of research findings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Institute may, subject to such terms and conditions and the payment of such fees, royalties or other considerations, if any, as the Institute may determine, commercialize or cause to be commercialized any research findings or make available any research findings to any person for the purposes of its commercialization."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Subsection 7(2)] Meetings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_1__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_1__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_1__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_1__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Institute shall meet at least once in every four months at such times and places as may be determined by the Chairman."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A written notice of the meeting shall be given to the members of the Institute."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chairman shall preside at a meeting of the Institute."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_1__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The quorum of the Institute shall be five."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_1__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every member of the Institute present at a meeting shall be entitled to one vote."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_1__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If on a question to be determined by the Institute there is an equality of votes, the Chairman shall have a casting vote. The Institute may invite others to meetings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_2__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_2__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Institute may invite any person to attend a meeting or deliberation of the Institute for the purpose of advising it on any matter under discussion but that person shall not be entitled to vote at the meeting or deliberation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person invited under subparagraph (1) may be paid such allowances and other expenses as the Institute may determine. Disclosure of interest"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Institute having, directly or indirectly, by himself or his partner, any interest in any company or undertaking with which the Institute proposes to make any contract or having any interest in any such contract or in any matter under discussion by the Institute shall disclose to the Institute the fact and nature of his interest, and such disclosure shall be recorded in the minutes of the Institute and, unless specifically authorized by the Chairman, such member shall take no part in any deliberation or decision of the Institute relating to the contract or matter. Minutes"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_4",
+      "@type": "akn:paragraph",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_4__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Institute shall cause minutes of all its meetings to be maintained and kept in a proper form."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any minutes made of meetings of the Institute shall, if duly signed, be admissible in evidence in all legal proceedings without further proof."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every meeting of the Institute in respect of the proceedings of which minutes have been made in accordance with subparagraphs (1) and (2) shall be deemed to have been duly convened and held and all members at the meeting to have been duly qualified to act. Validity of acts and proceedings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_5",
+      "@type": "akn:paragraph",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_5__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No act done or proceeding taken under this Act shall be questioned on the ground of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a vacancy in the membership of, or a defect in the constitution of, the Institute;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the contravention by any member of the Institute of the provisions of paragraph 3; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an omission, a defect or an irregularity not affecting the merits of the case. Procedure"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_6",
+      "@type": "akn:paragraph",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to this Act, the Institute shall determine its own procedure. Members to devote time to business of the Institute"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1__para_7",
+      "@type": "akn:paragraph",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/3/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every member of the Institute shall devote such time to the business of the Institute as may be necessary to discharge his duties effectively."
+      }
+    }
+  ]
+}

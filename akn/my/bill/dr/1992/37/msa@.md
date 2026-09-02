@@ -46,7 +46,13 @@ dipinda dengan memasukkan, selepas sahaja seksyen 18, seksyen baru 18A yang beri
 
 mempunyai makna yang sama yang diberikan kepadanya masing-masing oleh Akta Bekalan Gas 1992.".
 
-3. Akta ibu adalah dipinda dengan memasukkan, selepas baru 27A. sahaja seksyen 27, seksyen baru 27A yang berikut:
+<!-- marginal: Seksyen -->
+
+3. Akta ibu adalah dipinda dengan memasukkan, selepas
+
+<!-- marginal: baru 27A. -->
+
+sahaja seksyen 27, seksyen baru 27A yang berikut:
 
 "Bahagian 27A. (1) Bahagian ini tidaklah boleh terpakai VI tidak bagi mana-mana orang yang memegang leser. lerpakai bagi di bawah Akta Bekalan Gas 1992 untuk pemegang pembekalan gas kepada pengguna-pengguna lesen di bawah melalui talian paip dari tangki atau silinder Akta penstoran yang digunakan khusus bagi Bekalan penyeliratan gas ke mana-mana radas di mana- Gas 1992 Akta mana premis.
 
@@ -68,11 +74,7 @@ Rang Undang-Undang ini bertujuan meminda Akta Petroleum (Langkah-Langkah Keselam
 
 ## (PINDAAN)
 
-4. Fasal 3 bertujuan mengadakan seksyen baru 2 7A kepada
-
-## Bahagian VI Akta. Antara lain, ini akan menidakpakaikan
-
-peruntukan subseksyen 19(1) Akta kepada mana-mana orang yang memegang suatu lesen di bawah Akta Bekalan Gas 1992 bagi pembekalan gas kepada pengguna melalui talian paip dari tangki atau silinder penstoran yang digunakan khusus bagi penyeliratan gas ke mana-mana radas di mana-mana premis. Ini akan memastikan bahawa seseorang yang telah mendapat suatu lesen di bawah Akta Bekalan Gas 1992 bagi maksud-maksudnya tidak akan dikehendaki mendapatkan lesen lain di bawah Akta bagi penstoran atau pengendalian petroleum.
+4. Fasal 3 bertujuan mengadakan seksyen baru 2 7A kepada Bahagian VI Akta. Antara lain, ini akan menidakpakaikan peruntukan subseksyen 19(1) Akta kepada mana-mana orang yang memegang suatu lesen di bawah Akta Bekalan Gas 1992 bagi pembekalan gas kepada pengguna melalui talian paip dari tangki atau silinder penstoran yang digunakan khusus bagi penyeliratan gas ke mana-mana radas di mana-mana premis. Ini akan memastikan bahawa seseorang yang telah mendapat suatu lesen di bawah Akta Bekalan Gas 1992 bagi maksud-maksudnya tidak akan dikehendaki mendapatkan lesen lain di bawah Akta bagi penstoran atau pengendalian petroleum.
 
 Dengan pengadaan seksyen baru 27A, ia juga bermaksud bahawa segala peruntukan mengenai penstoran dan pengendalian petroleum dalam Bahagian VI berhubungan dengan pembekalan gas kepada pengguna melalui talian paip akan diuruskan secara berasingan di bawah Akta Bekalan Gas 1992 dan peraturan-peraturan yang akan dibuat di bawahnya.
 

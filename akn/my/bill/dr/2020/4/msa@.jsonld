@@ -378,7 +378,7 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_14",
       "@type": "akn:paragraph",
       "eli:number": "14",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_14__para_BSH",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_14__subpara_BSH",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1",
       "schema:name": {
         "@language": "ms",
@@ -386,8 +386,8 @@
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_14__para_BSH",
-      "@type": "akn:paragraph",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_14__subpara_BSH",
+      "@type": "akn:subparagraph",
       "eli:number": "BSH",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_14"
     },

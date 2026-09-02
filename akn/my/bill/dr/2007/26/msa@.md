@@ -26,11 +26,19 @@
 
 8. Elaun anggota Perbadanan 9. Pembatalan pelantikan dan peletakan jawatan
 
-10. Pengosongan jawatan 11. Jawatankuasa
+10. Pengosongan jawatan
 
-12. Penzahiran kepentingan 13. Ketidaklayakan dan penamatan anggota Perbadanan 14. Tindakan dan prosiding Perbadanan tidak terjejas oleh kekosongan jawatan, dsb.
+11. Jawatankuasa
 
-15. Kewajipan anggota Perbadanan 16. Mesyuarat
+12. Penzahiran kepentingan
+
+13. Ketidaklayakan dan penamatan anggota Perbadanan
+
+14. Tindakan dan prosiding Perbadanan tidak terjejas oleh kekosongan jawatan, dsb.
+
+15. Kewajipan anggota Perbadanan
+
+16. Mesyuarat
 
 <!-- page 2 -->
 

@@ -52,9 +52,21 @@ Tambahan (1991 dan 1992) (No. 2) 1992 dan Akta Perbekalan Tambahan (1992) 1992.
 
 ## RANG UNDANG-UNDANG
 
-Perbelanjaan
+<!-- marginal: Perbelanjaan -->
 
-3. (1) Maka adalah dibenarkan supaya dikeluarkan tambahan bagi sejumlah wang yang tidak melebihi tiga puluh Japan juta tahun 1993. satu ratus sembilan puluh tiga ribu lapan ratus ringgit (RM38,193,800) daripada Kumpulan Wang Disatukan bagi perbelanjaan untuk perkhidmatan yang dinyatakan dalam Jadual Kedua bagi perkhidmatan tahun 1993, yang tidak diperuntukkan atau yang tidak diperuntukkan Akta A839. dengan sepenuhnya oleh Akta Perbekalan 1993.
+3. (1) Maka adalah dibenarkan supaya dikeluarkan
+
+<!-- marginal: tambahan bagi -->
+
+sejumlah wang yang tidak melebihi tiga puluh Japan juta
+
+<!-- marginal: tahun 1993. -->
+
+satu ratus sembilan puluh tiga ribu lapan ratus ringgit (RM38,193,800) daripada Kumpulan Wang Disatukan bagi perbelanjaan untuk perkhidmatan yang dinyatakan dalam Jadual Kedua bagi perkhidmatan tahun 1993, yang tidak diperuntukkan atau yang tidak diperuntukkan
+
+<!-- marginal: Akta A839. -->
+
+dengan sepenuhnya oleh Akta Perbekalan 1993.
 
 (2) Wang yang tersebut itu adalah diperuntukkan bagi maksud-maksud yang dinyatakan dalam Jadual Kedua.
 
@@ -62,7 +74,11 @@ Perbelanjaan
 
 ### (Seksyen 2)
 
-Maksud Tajuk Peruntukan kepada maksud
+Maksud Tajuk
+
+<!-- marginal: Peruntukan -->
+
+kepada maksud
 
 <!-- marginal: RM -->
 
@@ -76,15 +92,59 @@ B. 4 Suruhanjaya Pilihanraya
 
 <!-- marginal: 169,600 -->
 
-B. 6 Suruhanjaya Perkhidmatan Pendidikan B. 7 Jabatan Perdana Menteri 57.880,000
+B. 6 Suruhanjaya Perkhidmatan Pendidikan B. 7 Jabatan Perdana Menteri
+
+<!-- marginal: 57.880,000 -->
 
 <!-- marginal: 647,700 -->
 
-B. 10 Jabatan Peguam Negara 14,286,700 B. 14 Kementenan Perumahan dan Kerajaan Tempatan B. 15 Jabatan Perancangan Bandar dan 1,132,000 Desa B. 16 Jabatan Perkhidmatan Bomba 3,595,000 B. 17 Kementerian Belia dan Sukan 1,340,000 34,856,100 B. 18 Kementerian Perusahaan Utama B. 19 Kementerian Pertanian 12,999,700
+B. 10 Jabatan Peguam Negara
+
+<!-- marginal: 14,286,700 -->
+
+B. 14 Kementenan Perumahan dan Kerajaan Tempatan B. 15 Jabatan Perancangan Bandar dan
+
+<!-- marginal: 1,132,000 -->
+
+Desa B. 16 Jabatan Perkhidmatan Bomba
+
+<!-- marginal: 3,595,000 -->
+
+B. 17 Kementerian Belia dan Sukan
+
+<!-- marginal: 1,340,000 -->
+
+<!-- marginal: 34,856,100 -->
+
+B. 18 Kementerian Perusahaan Utama B. 19 Kementerian Pertanian
+
+<!-- marginal: 12,999,700 -->
 
 <!-- marginal: 460,000 -->
 
-B. 23 Jabatan Arkib Negara 175,463,100 B. 25 Kementerian Pertahanan 2.350.000 B. 26 Kementerian Pendidikan 108,848,200 B. 29 Perkhidmatan Am Perbendaharaan B. 30 Peruntukan Kepada Kumpulan 4,038,000,000 Wang Terkanun 6,350,000 B. 31 Jabatan Kastam dan Eksais Diraja 5,000,000 B. 32 Jabatan Hasil Dalam Negeri B. 33 Kementerian Perusahaun Awam 3,052,000
+B. 23 Jabatan Arkib Negara
+
+<!-- marginal: 175,463,100 -->
+
+B. 25 Kementerian Pertahanan
+
+<!-- marginal: 2.350.000 -->
+
+B. 26 Kementerian Pendidikan
+
+<!-- marginal: 108,848,200 -->
+
+B. 29 Perkhidmatan Am Perbendaharaan B. 30 Peruntukan Kepada Kumpulan 4,038,000,000 Wang Terkanun
+
+<!-- marginal: 6,350,000 -->
+
+B. 31 Jabatan Kastam dan Eksais Diraja
+
+<!-- marginal: 5,000,000 -->
+
+B. 32 Jabatan Hasil Dalam Negeri B. 33 Kementerian Perusahaun Awam
+
+<!-- marginal: 3,052,000 -->
 
 <!-- page 3 -->
 
@@ -92,23 +152,11 @@ B. 23 Jabatan Arkib Negara 175,463,100 B. 25 Kementerian Pertahanan 2.350.000 B.
 
 ### (1992 DAN 1993)
 
-<!-- marginal: Peruntukan -->
-
-Maksud Tajuk
-
-<!-- marginal: kepada maksud -->
+Peruntukan Maksud Tajuk kepada maksud
 
 <!-- marginal: RM -->
 
-B. 34 Kementerian Kesihatan
-
-<!-- marginal: 110,479.400 -->
-
-B. 36 Polis Diraja Malaysia
-
-<!-- marginal: 135,910,000 -->
-
-B. 37 Jabatan Imigresen
+B. 34 Kementerian Kesihatan 110,479.400 B. 36 Polis Diraja Malaysia 135,910,000 B. 37 Jabatan Imigresen
 
 <!-- marginal: 5,048,400 -->
 
@@ -136,45 +184,25 @@ B. 46 Kementerian Sains, Teknologi
 
 <!-- marginal: 9,146,100 -->
 
-dan Alam Sekitar
-
-<!-- marginal: 10,376,200 -->
-
-B. 47 Kementerian Pengangkutan B. 51 Kementerian Luar Negeri
-
-<!-- marginal: 13,294,600 -->
-
-B. 52 Kementerian Kerja Raya
+dan Alam Sekitar 10,376,200 B. 47 Kementerian Pengangkutan B. 51 Kementerian Luar Negeri 13,294,600 B. 52 Kementerian Kerja Raya
 
 <!-- marginal: 4,000,000 -->
 
-B. 54 Kementerian Pembangunan Luar
-
-<!-- marginal: 68,102,500 -->
-
-Bandar
+B. 54 Kementerian Pembangunan Luar 68,102,500 Bandar
 
 <!-- marginal: 255,000 -->
 
-B. 55 Jabatan Hal Ehwal Orang Asli
-
-<!-- marginal: 14,390,300 -->
-
-B. 56 Kementerian Perpaduan Negara dan Pembangunan Masyarakat
+B. 55 Jabatan Hal Ehwal Orang Asli 14,390,300 B. 56 Kementerian Perpaduan Negara dan Pembangunan Masyarakat
 
 ## JUMLAH . .
 
-<!-- marginal: 4,860,228,825 -->
+4,860,228,825
 
 ## JADUAL KEDUA
 
 ### (Seksyen 2)
 
-<!-- marginal: Peruntukan -->
-
-Maksud Tajuk
-
-<!-- marginal: kepada maksud -->
+Peruntukan Maksud Tajuk kepada maksud
 
 <!-- marginal: RM -->
 
@@ -186,9 +214,7 @@ B. 22 Kementerian Kebudayaan, Kesenian
 
 <!-- marginal: 6,678,800 -->
 
-dan Pelancongan B. 50 Kementerian Perusahaan Awam
-
-<!-- marginal: 29,000.000 -->
+dan Pelancongan B. 50 Kementerian Perusahaan Awam 29,000.000
 
 <!-- marginal: 150,000 -->
 
@@ -196,7 +222,7 @@ B. 56 Kementerian Perpaduan Negara dan Pembangunan Masyarakat
 
 ## JUMLAH . .
 
-<!-- marginal: 38,193,800 -->
+38,193,800
 
 <!-- page 4 -->
 

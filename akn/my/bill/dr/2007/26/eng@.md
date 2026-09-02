@@ -18,7 +18,19 @@
 
 4. Common seal 5. Membership of Corporation 6. Statutory declaration by members of Corporation 7. Tenure of office 8. Allowances of members of Corporation 9. Revocation of appointment and resignation
 
-10. Vacation of office 11. Committees 12. Disclosure of interest 13. Disqualifications and termination of members of Corporation 14. Actions and proceedings of Corporation not affected by vacancy, etc. 15. Duties of members of Corporation 16. Meetings
+10. Vacation of office
+
+11. Committees
+
+12. Disclosure of interest
+
+13. Disqualifications and termination of members of Corporation
+
+14. Actions and proceedings of Corporation not affected by vacancy, etc.
+
+15. Duties of members of Corporation
+
+16. Meetings
 
 <!-- page 2 -->
 
@@ -156,7 +168,9 @@ Corporation
 
 (3) The Corporation may sue and be sued in its corporate name.
 
-(4) Subject to and for the purposes of this Act, the Corporation may, upon such terms as it deems fit- (a) enter into contracts; and
+(4) Subject to and for the purposes of this Act, the Corporation may, upon such terms as it deems fit-
+
+(a) enter into contracts; and
 
 (b) in respect of movable and immovable property and interest in movable and immovable property of every description —
 
@@ -802,7 +816,9 @@ The Solid Waste and Public Cleansing Management Corporation Bill 2007 ("the prop
 
 Corporation
 
-24. Clause 20 places a duty on the Corporation to furnish certain returns, reports, accounts and information to the Minister or any authority. Subclause (2) allows the Director General to request certain returns, reports, accounts and information with respect to the discharge of its functions from the Chief Executive Officer.
+24. Clause 20 places a duty on the Corporation to furnish certain returns, reports, accounts and information to the Minister or any authority. Subclause
+
+(2) allows the Director General to request certain returns, reports, accounts and information with respect to the discharge of its functions from the Chief Executive Officer.
 
 ## PART IV
 

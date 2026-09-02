@@ -54,13 +54,21 @@ or by more than one of the means mentioned in paragraphs (a), (b), (c) and (d), 
 
 (b) in the definition of "Qur'anic text" by substituting for the words "which may appropriately be called the Mushaf of the Qur'an" the words "or any part thereof which contains one juzu' or more with or without translation, or interpretation, as the case may be".
 
-Amendment 3. Section 3 of the principal Act is amended— of section 3.
+<!-- marginal: Amendment -->
+
+3. Section 3 of the principal Act is amended—
+
+<!-- marginal: of section 3. -->
 
 (a) in subsection (2) by substituting for the words "Islamic Religious Affairs Division" the words "Department of Islamic Development Malaysia"; and
 
 (b) in subsection (8) by substituting for the word "nine" the word "seven".
 
-Amendment 4. Subsection 6(1) of the principal Act is amended— ot" section 6.
+<!-- marginal: Amendment -->
+
+4. Subsection 6(1) of the principal Act is amended—
+
+<!-- marginal: ot" section 6. -->
 
 (a) by inserting after the words "final proof wherever appearing therein the words "or original copy"; and
 

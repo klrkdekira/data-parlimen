@@ -58,17 +58,33 @@ BE IT ENACTED by the Seri Paduka Baginda Yang di-Pertuan Agong with the advice a
 
 "provisionally registered" means provisionally registered under section 12 of the Medical Act;
 
-"registered medical assistant" means any person who Act 180. is registered under the Medical Assistants (Registration) Act 1977;
+"registered medical assistant" means any person who
 
-"registered midwife" means any person who is registered Act 436. under the Midwives Act 1966;
+<!-- marginal: Act 180. -->
 
-"registered nurse" means any person who is registered Act 14. under the Nurses Act 1950;
+is registered under the Medical Assistants (Registration) Act 1977;
+
+"registered midwife" means any person who is registered
+
+<!-- marginal: Act 436. -->
+
+under the Midwives Act 1966;
+
+"registered nurse" means any person who is registered
+
+<!-- marginal: Act 14. -->
+
+under the Nurses Act 1950;
 
 "telemedicine" means the practice of medicine using audio, visual and data communications.
 
-Persons who
+<!-- marginal: Persons who -->
 
-3. (1) No person other than— may practise telemedicine.
+3. (1) No person other than—
+
+<!-- marginal: may practise -->
+
+<!-- marginal: telemedicine. -->
 
 (a) a fully registered medical practitioner holding a valid practising certificate; or
 
@@ -146,7 +162,9 @@ Telemedicine 7
 
 6. (1) The Minister may make such regulations as appear to him to be necessary or expedient for carrying into effect the provisions of this Act.
 
-(2) Without prejudice to the generality of subsection (1), regulations may be made—
+(2) Without prejudice to the generality of subsection
+
+(1), regulations may be made—
 
 (a) to prescribe the minimum standards in respect of any facility, computer, apparatus, appliance, equipment, instrument, material, article and substance which are to be used in the practice of telemedicine on any premises;
 
@@ -182,6 +200,4 @@ This Bill seeks to make provisions for the regulation and control of the practic
 
 ## FINANCIAL IMPLICATIONS
 
-This Bill will not involve the Government in any extra financial expenditure.
-
-<!-- marginal: [PN. (U2) 1977.] -->
+This Bill will not involve the Government in any extra financial expenditure. [PN. (U2) 1977.]

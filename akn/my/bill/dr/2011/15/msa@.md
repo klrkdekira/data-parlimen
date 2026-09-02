@@ -368,7 +368,7 @@ the employer shall, within thirty days of the termination of service, inform the
 
 27. Akta ibu dipinda dengan memasukkan selepas Bahagian XV Bahagian yang berikut:
 
-“Part XVa
+## “PART XVA
 
 ## SEXUAL HARASSMENT
 
@@ -442,7 +442,9 @@ the employer shall, within thirty days of the termination of service, inform the
 
 (b) the Director General is of the opinion that the complaint of sexual harassment is frivolous, vexatious or is not made in good faith.
 
-(6) Where the Director General refuses to inquire into the complaint of sexual harassment received under subsection (3), he shall, as soon as practicable but in any case not later than thirty days after the date of the receipt of the complaint, inform the complainant of the refusal and the reasons for the refusal in writing.
+(6) Where the Director General refuses to inquire into the complaint of sexual harassment received under subsection
+
+(3), he shall, as soon as practicable but in any case not later than thirty days after the date of the receipt of the complaint, inform the complainant of the refusal and the reasons for the refusal in writing.
 
 ### Effects of decisions of the Director General
 

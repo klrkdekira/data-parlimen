@@ -8,29 +8,41 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
-1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran 3. Pemakaian 4. Akta hendaklah dibaca bersama-sama undang-undang bertulis Malaysia yang lain 5. Perkiraan bersaling oleh Kerajaan Republik Singapura
+1. Tajuk ringkas dan permulaan kuat kuasa
 
-## Bahagian ii
+2. Tafsiran
+
+3. Pemakaian
+
+4. Akta hendaklah dibaca bersama-sama undang-undang bertulis Malaysia yang lain
+
+5. Perkiraan bersaling oleh Kerajaan Republik Singapura
+
+## BAHAGIAN II
 
 ## ENTITI PERANTARA
 
 6. Entiti perantara
 
-## Bahagian iii
+## BAHAGIAN III
 
 ## PENGERAHAN TUGAS PEGAWAI PENGUAT KUASA
 
-7. Pengerahan tugas pegawai penguat kuasa Malaysia di Stesen Woodlands North 8. Pengerahan tugas pegawai penguat kuasa Republik Singapura di Stesen Bukit Chagar 9. Pengerahan tugas pegawai penguat kuasa dalam hal keadaan luar biasa
+7. Pengerahan tugas pegawai penguat kuasa Malaysia di Stesen Woodlands North
+
+8. Pengerahan tugas pegawai penguat kuasa Republik Singapura di Stesen Bukit Chagar
+
+9. Pengerahan tugas pegawai penguat kuasa dalam hal keadaan luar biasa
 
 10. Pengerahan tugas sebelum bermulanya perkhidmatan Rapid Transit System Link
 
 <!-- page 2 -->
 
-## Bahagian iV
+## BAHAGIAN IV
 
 ## KUASA PEGAWAI PENGUAT KUASA
 
@@ -38,7 +50,7 @@
 
 12. Undang-undang bertulis yang terpakai di kawasan ditetapkan
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PENGURUSAN INSIDEN RENTAS SEMPADAN
 
@@ -54,7 +66,7 @@
 
 18. Kuasa pegawai pengurusan insiden rentas sempadan Republik Singapura
 
-## Bahagian Vi
+## BAHAGIAN VI
 
 ## BIDANG KUASA JENAYAH
 
@@ -64,7 +76,7 @@
 
 21. Bidang kuasa mahkamah Malaysia
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PERLINDUNGAN DAN KEISTIMEWAAN
 
@@ -80,7 +92,7 @@
 
 26. Peruntukan yang berhubungan dengan kesalahan terhadap pegawai penguat kuasa Republik Singapura dan pegawai pengurusan insiden rentas sempadan Republik Singapura
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 AM
 
@@ -88,7 +100,7 @@ AM
 
 28. Kuasa untuk meminda Jadual
 
-## Jadual
+## JADUAL
 
 <!-- page 5 -->
 
@@ -106,7 +118,7 @@ DAN BAHAWASANYA di bawah Perkara 18(2) Perjanjian Tambahan antara Kerajaan Malay
 
 MAKA, OLEH YANG DEMIKIAN, DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian i
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -242,7 +254,7 @@ MAKA, OLEH YANG DEMIKIAN, DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 5. Pemberian apa-apa tugas, kuasa, perlindungan atau keistimewaan kepada pegawai penguat kuasa Republik Singapura dan pegawai pengurusan insiden rentas sempadan Republik Singapura di bawah Akta ini menurut Perjanjian-Perjanjian adalah tertakluk dan bergantung kepada, Kerajaan Republik Singapura mengadakan peruntukan yang bersamaan dan bersaling berkenaan dengan pegawai penguat kuasa Malaysia dan pegawai pengurusan insiden rentas sempadan Malaysia di bawah undang-undang bertulis Republik Singapura.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## ENTITI PERANTARA
 
@@ -250,7 +262,7 @@ MAKA, OLEH YANG DEMIKIAN, DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 6. Entiti perantara hendaklah menyelaras, mengurus dan memudahkan pengerahan tugas pegawai penguat kuasa Malaysia di Stesen Woodlands North dan pegawai penguat kuasa Republik Singapura di Stesen Bukit Chagar.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PENGERAHAN TUGAS PEGAWAI PENGUAT KUASA
 
@@ -344,7 +356,7 @@ MAKA, OLEH YANG DEMIKIAN, DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (3) Pegawai penguat kuasa Malaysia dan pegawai penguat kuasa Republik Singapura yang dikerah tugas di bawah seksyen ini hendaklah disifatkan sebagai telah dikerah tugas bagi maksud melaksanakan tugas rasmi dan hendaklah mempunyai kuasa yang sama yang diberikan terhadap dan perlindungan yang sama yang diberikan kepada pegawai penguat kuasa yang melaksanakan tugas rasmi di bawah Akta ini.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## KUASA PEGAWAI PENGUAT KUASA
 
@@ -418,7 +430,7 @@ MAKA, OLEH YANG DEMIKIAN, DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (b) dalam hal seorang pegawai penguat kuasa Republik Singapura di kawasan ditetapkan di Stesen Bukit Chagar, undang-undang bertulis Republik Singapura yang berkaitan yang perlu bagi pelaksanaan fungsi pelepasan kastam, imigresen dan kuarantin dan fungsi keselamatan.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PENGURUSAN INSIDEN RENTAS SEMPADAN
 
@@ -534,7 +546,7 @@ MAKA, OLEH YANG DEMIKIAN, DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 26 -->
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## BIDANG KUASA JENAYAH
 
@@ -576,7 +588,7 @@ MAKA, OLEH YANG DEMIKIAN, DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 28 -->
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PERLINDUNGAN DAN KEISTIMEWAAN
 
@@ -686,7 +698,7 @@ MAKA, OLEH YANG DEMIKIAN, DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 33 -->
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 AM
 
@@ -792,7 +804,7 @@ AM
 
 Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk menguatkuasakan kewajipan Kerajaan Malaysia di bawah peruntukan tertentu dalam Perjanjian-Perjanjian antara Kerajaan Malaysia dengan Kerajaan Republik Singapura mengenai Rapid Transit System Link Johor Bahru–Singapura yang berhubungan dengan pelaksanaan fungsi pelepasan kastam, imigresen dan kuarantin dan fungsi keselamatan di kemudahan kastam, imigresen dan kuarantin terletak bersama di dalam kawasan ditetapkan di Stesen Bukit Chagar, Johor Bahru di Malaysia dan Stesen Woodlands North di Republik Singapura dan pengurusan insiden rentas sempadan dan untuk mengadakan peruntukan bagi perkara yang berkaitan.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I Akta yang dicadangkan memperkatakan tentang perkara permulaan.
 
@@ -808,13 +820,13 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk menguatkuas
 
 7. Fasal 5 bertujuan untuk memperuntukkan bahawa apa-apa tugas, kuasa, perlindungan atau keistimewaan yang diberikan di bawah Akta yang dicadangkan kepada pegawai penguat kuasa Republik Singapura dan pegawai pengurusan insiden rentas sempadan Republik Singapura menurut Perjanjian-Perjanjian, hanya akan berkuat kuasa jika Kerajaan Republik Singapura mengadakan peruntukan yang bersamaan dan bersaling berkenaan dengan pegawai penguat kuasa Malaysia dan pegawai pengurusan insiden rentas sempadan Malaysia di bawah undang-undang bertulisnya.
 
-## Bahagian II
+## BAHAGIAN II
 
 8. Bahagian II Akta yang dicadangkan memperkatakan tentang peruntukan yang berhubungan dengan entiti perantara.
 
 9. Fasal 6 bertujuan untuk memperuntukkan bahawa entiti perantara yang merupakan suatu entiti yang dilantik oleh Kerajaan Malaysia bagi maksud Perjanjian-Perjanjian adalah bertanggungjawab untuk menyelaras, mengurus dan memudahkan pengerahan tugas pegawai penguat kuasa Malaysia dan pegawai penguat kuasa Republik Singapura masing-masing di Stesen Woodlands North dan Stesen Bukit Chagar.
 
-## Bahagian III
+## BAHAGIAN III
 
 10. Bahagian III Akta yang dicadangkan memperkatakan tentang peruntukan yang berhubungan dengan pengerahan tugas pegawai penguat kuasa Malaysia dan pegawai penguat kuasa Republik Singapura bagi maksud pegawai penguat kuasa itu melaksanakan tugas rasminya di bawah Akta yang dicadangkan.
 
@@ -828,7 +840,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk menguatkuas
 
 14. Fasal 10 bertujuan untuk mengadakan peruntukan bagi pengerahan tugas pegawai penguat kuasa Malaysia dan pegawai penguat kuasa Republik Singapura di Stesen Bukit Chagar atau Stesen Woodlands North sebelum bermulanya perkhidmatan Rapid Transit System Link bagi maksud pegawai penguat kuasa itu menjalankan apa-apa kerja persediaan yang berkaitan dengan pelaksanaan tugas rasminya.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 15. Bahagian IV Akta yang dicadangkan memperkatakan tentang kuasa pegawai penguat kuasa Malaysia dan pegawai penguat kuasa Republik Singapura di kawasan ditetapkan.
 
@@ -836,7 +848,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk menguatkuas
 
 17. Fasal 12 bertujuan untuk mengadakan peruntukan bagi undang-undang bertulis yang terpakai bagi maksud pelaksanaan tugas rasmi dan penjalanan kuasa oleh pegawai penguat kuasa Malaysia dan pegawai penguat kuasa Republik Singapura di kawasan ditetapkan di Stesen Bukit Chagar dan Stesen Woodlands North.
 
-## Bahagian V
+## BAHAGIAN V
 
 18. Bahagian V Akta yang dicadangkan memperkatakan tentang pengurusan insiden rentas sempadan.
 
@@ -854,7 +866,7 @@ Fasal 14 bertujuan untuk mengadakan peruntukan bagi pengurusan insiden rentas se
 
 24. Fasal 18 bertujuan untuk mengadakan peruntukan bagi kuasa pegawai pengurusan insiden rentas sempadan Republik Singapura apabila melaksanakan tugas pengurusan insiden berkenaan dengan suatu insiden rentas sempadan. Fasal ini juga memperuntukkan bahawa pegawai pengurusan insiden rentas sempadan Malaysia hendaklah mempunyai kuasa yang sama sebagaimana yang diberikan kepada pegawai pengurusan insiden rentas sempadan Republik Singapura di bawah fasal ini.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 25. Bahagian VI Akta yang dicadangkan memperkatakan tentang bidang kuasa jenayah bagi kesalahan yang berhubungan dengan Rapid Transit System Link.
 
@@ -866,7 +878,7 @@ Fasal 14 bertujuan untuk mengadakan peruntukan bagi pengurusan insiden rentas se
 
 28. Fasal 21 bertujuan untuk mengadakan peruntukan bagi kuasa mahkamah di Malaysia untuk menyiasat dan membicarakan kesalahan yang dilakukan di bawah mana-mana undang-undang bertulis Malaysia yang bidang kuasa jenayahnya diperuntukkan di bawah Akta yang dicadangkan dan jika kesalahan itu dilakukan di luar Malaysia, kesalahan itu hendaklah disifatkan telah dilakukan di mana-mana tempat di dalam Malaysia.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 29. Bahagian VII Akta yang dicadangkan memperkatakan tentang perlindungan dan keistimewaan yang diberikan kepada pegawai penguat kuasa Republik Singapura dan pegawai pengurusan insiden rentas sempadan Republik Singapura, dokumen, peranti dan kelengkapan rasmi Kerajaan Republik Singapura, apa-apa maklumat atau data yang dikumpul atau dijana oleh pegawai penguat kuasa Republik Singapura dan pegawai pengurusan insiden rentas sempadan Republik Singapura dan barangan bagi kegunaan rasmi pegawai penguat kuasa Republik Singapura dan pegawai pengurusan insiden rentas sempadan Republik Singapura.
 
@@ -882,7 +894,7 @@ Fasal 14 bertujuan untuk mengadakan peruntukan bagi pengurusan insiden rentas se
 
 34. Fasal 26 bertujuan untuk memperuntukkan bahawa seseorang pegawai penguat kuasa Republik Singapura dan pegawai pengurusan insiden rentas sempadan Republik Singapura yang melaksanakan tugas rasminya atau tugas pengurusan insidennya berkenaan dengan suatu insiden rentas sempadan, hendaklah disifatkan sebagai seorang pekhidmat awam mengikut pengertian Kanun Keseksaan [Akta 574] bagi maksud undang-undang bertulis Malaysia yang berhubungan dengan kesalahan terhadap pekhidmat awam. Ini bagi memastikan bahawa apa-apa kesalahan yang dilakukan terhadap pegawai itu semasa melaksanakan tugas rasminya di Malaysia di bawah Akta yang dicadangkan dikira seolah-olah kesalahan itu telah dilakukan terhadap pekhidmat awam di Malaysia.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 35. Bahagian VIII Akta yang dicadangkan memperkatakan tentang peruntukan am.
 

@@ -1,0 +1,944 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-17-2026",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_IV"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Admiralty Jurisdiction Bill 2026"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_I__cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_I__cl_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY Short title and commencement"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ADMIRALTY JURISDICTION OF HIGH COURT Admiralty jurisdiction of High Court"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "MODE OF EXERCISE OF ADMIRALTY JURISDICTION Action in personam"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to section 6, all claims or disputes under this Act may be commenced in the High Court as an action in personam. Restriction on action in personam in certain cases"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_6__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_6__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_6__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_6__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_6__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The claim referred to under paragraph 4(1)(g) shall only be commenced in the High Court as an action in personam if—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_6__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the defendant has his habitual residence or has a place of business in Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_6__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the cause of action arose within the territorial waters of Malaysia, the inland waters of Malaysia or the limits of a port of Malaysia; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_6__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an action arising out of the same incident or series of incidents is proceeding in the High Court or has been heard and determined in the High Court."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any action to enforce a claim under paragraph 4(1)(g) shall not be commenced in the High Court as an action in personam until any proceeding previously commenced by the plaintiff in any court outside Malaysia against the same defendant in respect of the same incident or series of incidents has been discontinued or otherwise come to an end."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsections (1) and (2) shall apply to counterclaims except for counterclaims in proceedings arising out of the same incident or series of incidents."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_6__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsections (1) and (2) shall not apply to any action or counterclaim if the defendant submits or has agreed to submit to the jurisdiction of the High Court. Action in rem"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_7__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_7__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_7__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_7__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_7__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_7__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_7__subsec_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any claim or dispute referred to in paragraph 4(1)(a), (b), (c) or (v) may be commenced in the High Court as an action in rem against the related ship or property."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An action in rem may be commenced against a ship, aircraft or property in the High Court if there is a maritime lien or other charge on the ship, aircraft or property for the amount claimed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_7__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_7__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_7__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If any claim or dispute referred to in the paragraphs 4(1)(e), (f), (h), (j) to (o) and (q) to (u) arises in connection with a ship and the person who would be liable on the claim in an action in personam was, when the cause of action arose, the owner, charterer, in possession of or in control of the ship, an action in rem may, regardless of whether or not the claim gives rise to a maritime lien on the ship, be commenced against—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_7__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_7__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "that ship, if at the time when the action is brought, such person is either the beneficial owner of that ship and all the shares in the ship or the charterer of the ship under a bareboat charterparty agreement; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_7__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_7__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any of his other ship, if at the time when the action is brought, such person is either the beneficial owner of that ship and all the shares in the ship or the charterer of the ship under a bareboat charterparty agreement."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_7__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_7__subsec_4__para_n",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purpose of the claim under paragraphs 4(1)(m) and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_7__subsec_4__para_n",
+      "@type": "akn:paragraph",
+      "eli:number": "n",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_7__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in respect of an aircraft, an action in rem may be brought in the High Court against the aircraft if at the time the action is brought, the aircraft is beneficially owned by the person who would be liable on the claim in an action in personam."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_7__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If any claim referred to in paragraph 4(1)(m) or (n) arises in connection with an aircraft and the person who would be liable on the claim in an action in personam was, when the cause of action arose, the beneficial owner of the aircraft, an action in rem may be commenced against the aircraft."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_7__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In determining whether a person would be liable on a claim in an action in personam under subsections (3) and (4), the person shall be presumed to have his habitual residence or a place of business within Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_7__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If a ship or property has been sold under this Act, any action in rem that could have been brought against the ship or property may be brought against the proceeds of the sale of the ship or property provided that the proceeds remains held by the High Court."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_7__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any service of a warrant of arrest in an action in rem against a ship under paragraphs 4(1)(e), (f), (h), (j) to (o) and (q) to (u) shall preclude the service of a warrant of arrest against any other ship for the same claim without affecting the right of the claimant to initially issue a writ naming multiple ships or issue multiple writs each naming a different ship. Action for wages"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Nothing in this Act shall be construed as limiting the jurisdiction of the High Court to refuse to hear an action for wages commenced by a seafarer or his heir, where the action concerns a ship other than a Malaysian ship."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_l",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_m",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_n",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_o",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_p",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_q",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_r",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_s",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_t",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_u",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_v",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_w"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The High Court shall have the admiralty jurisdiction to hear and determine the following claims or disputes:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any claim relating to possession of a ship, title to or ownership of a ship or share in a ship;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any claim or dispute arising between the co-owners of a ship as to the possession, employment or earnings of the ship;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any claim in relation to a mortgage of a ship or share in a ship or a mortgage of ship’s freight or charge on ship;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any claim for damage received by a ship;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any claim for damage done by a ship;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_f__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_f__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_f__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any claim for loss of life or personal injury sustained in consequence of any defect in a ship or in its apparel or equipment, or in consequence of the wrongful act, neglect or default of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_f__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_f",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the owners, charterers or persons in possession or control of a ship;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_f__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_f",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any seafarer on board of a ship; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_f__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_f",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other person for whose wrongful acts, neglects or defaults cause the owners, charterers or persons in possession or control of a ship to be responsible, being an act, neglect or default in the navigation or management of the ship, in the loading of goods on to, the unloading of goods from or the carriage of goods on, the ship or in the embarkation of a person onto, the disembarkation of persons from, and the carriage of persons on, the ship;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_g__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_g__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_g__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any claim for, or an action to enforce any claim for, any damage, loss of life or personal injury arising out of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_g__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_g",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a collision between ships;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_g__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_g",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the carrying out of or omission to carry out a manoeuvre in the case of one or two or more ships; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_g__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_g",
+      "schema:text": {
+        "@language": "en",
+        "@value": "non-compliance, on the part of one or two or more ships, with the collision regulations made under any written law;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any claim for loss of or damage to goods carried on a ship;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any claim arising out of any agreement relating to the carriage of goods by sea in a ship or the use or hire of a ship;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any dispute arising out of a contract for the sale of a ship;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any claim for any insurance premium in respect of the ship, payable by or on behalf of the ship by the owner or demise charterer;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any claim in the nature of salvage of a ship or aircraft within the territorial water, including any claim relating to the sharing or apportionment of salvage, any claim by any person having a right in respect of property salved and any claim for services rendered in saving life from a ship or an aircraft or in preserving cargo, apparel or wreck, unless provided otherwise under any relevant written law;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_m",
+      "@type": "akn:paragraph",
+      "eli:number": "m",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any claim in the nature of towage in respect of a ship or an aircraft;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_n",
+      "@type": "akn:paragraph",
+      "eli:number": "n",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any claim in the nature of pilotage in respect of a ship or an aircraft;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_o",
+      "@type": "akn:paragraph",
+      "eli:number": "o",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any claim in respect of goods or materials supplied or services rendered to a ship for its operation, management, preservation or maintenance;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_p",
+      "@type": "akn:paragraph",
+      "eli:number": "p",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any dispute in relation to any action taken by a shipowner or other persons under any written law for the limitation of amount of his liability in connection with a ship or other property;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_q",
+      "@type": "akn:paragraph",
+      "eli:number": "q",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_q__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_q__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_q__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any claim by a seafarer arising out of their employment on the ship, including claims—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_q__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_q",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for wages, or any amount recoverable as wages, under a contract of service;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_q__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_q",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for any other payments or property due, including costs of repatriation and social insurance contributions payable on his behalf; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_q__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_q",
+      "schema:text": {
+        "@language": "en",
+        "@value": "against a provider of a contract of insurance or other financial security for the purpose of satisfying a shipowner’s statutory obligation under any written law to repatriate a seafarer;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_r",
+      "@type": "akn:paragraph",
+      "eli:number": "r",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any claim by an heir and dependent of seafarer for wages under a contract of service entered by the deceased seafarer;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_s",
+      "@type": "akn:paragraph",
+      "eli:number": "s",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any claim by a master, shipper, charterer or agent in respect of disbursements made on account of a ship;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_t",
+      "@type": "akn:paragraph",
+      "eli:number": "t",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any claim arising out of an act which is or is claimed to be a general average act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_u",
+      "@type": "akn:paragraph",
+      "eli:number": "u",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any claim arising out of bottomry;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_v",
+      "@type": "akn:paragraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any claim for the forfeiture or condemnation of a ship or goods which are being or have been carried, or have been attempted to be carried, in a ship, or for the restoration of a ship or any such goods after seizure, or for droits of admiralty; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1__para_w",
+      "@type": "akn:paragraph",
+      "eli:number": "w",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any claim for costs or expenses relating to the raising, removing, recovering, destructing or rendering harmless of a ship which is sunk, wrecked, stranded or abandoned, including anything that is or has been on board such ship, and costs or expenses relating to the preservation of an abandoned ship and maintenance of its crew."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In determining the questions under paragraph (1)(b), the High Court may order that the ship or any share thereof be sold for the purpose of settling any account outstanding and unsettled between the parties in relation to the ship, or make such other order as the High Court thinks appropriate."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In exercising its jurisdiction under this Act and subject to the Rules of Court 2012, the High Court may—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "make any order for a stay or dismissal of any admiralty proceedings;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "issue a warrant for the arrest of a ship or property to provide for security for a claim before judgment or to secure a judgment debt after the judgment is entered provided that no adequate bail or security has been previously furnished; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "order any ship, aircraft or other property to be sold, and make such other order in relation to the title or rights to the proceeds of sale as the High Court thinks appropriate."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of paragraph (1)(c), mortgage or charge include—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an unregistered mortgage or charge;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an equitable mortgage or charge; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a mortgage or charge created under any foreign law."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of paragraph (1)(e), damage done by a ship includes damage to the environment due to oil pollution."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of paragraph (1)(h), goods include baggage and personal belongings of the seafarer carried on a ship."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of paragraph (1)(t), general average act means any extraordinary sacrifice or expenditure voluntarily and reasonably made or incurred in a time of peril for the common safety of preserving the ship and its cargo from a common danger."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_IV__cl_9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "GENERAL Procedure for admiralty proceedings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_IV__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All admiralty proceedings shall be carried out in accordance with the applicable rules of Court."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Admiralty Jurisdiction Act 2026."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Act to be read together with Courts of Judicature Act 1964, etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall be read together with the Courts of Judicature Act 1964 [Act 91] and the Rules of Court 2012 [P.U. (A) 205/2012] and the provisions of this Act shall be in addition to, and not in derogation of, the provisions of the Courts of Judicature Act 1964 and the Rules of Court 2012. Interpretation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_I__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_I__cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_I__cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_I__cl_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "“property” includes—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_I__cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the whole or any part of the equipment, furniture, stores or bunkers of the ship;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_I__cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the whole or any part of the cargo; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_I__cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/eng@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the freight; “ship” includes every description of vessel used in navigation of water regardless of where it is registered; “master” means any person having command on or charge of a ship; “seafarer” means the master and crew of a ship employed in the operation or service of a ship; “aircraft” includes every description of craft used in aerial navigation regardless of where it is registered."
+      }
+    }
+  ]
+}

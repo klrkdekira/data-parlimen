@@ -1,0 +1,199 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-33-1993",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/eng@/~cl_8"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Judges' Remuneration (Amendment) Bill 1993"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Judges' Remuneration"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "(Amendment) Act 1993, and shall be deemed to have come into force on the 1st January 1992."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/eng@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Judges' Remuneration Act 1971, which in this"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Act is referred to as the \"principal Act\", is amended, in section 5—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing provision as subsection (1); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: \"(2) For the purposes of subsection (1), where a Judge— (a) has, as required by the Yang di- Pertuan Agong under section 8c, relinquished his office in order to serve in another capacity for any period in the national interest; and (b) having completed his tour of duty in the other capacity is immediately reappointed to the office of Judge, the period of service as a Judge before, and the period during which he served in that other capacity after, he relinquished office as a Judge shall be counted as period of service as a Judge.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/eng@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 8B of the principal Act is amended in"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"Supreme Court\" first appearing in that subsection the words \"or of a High Court\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"of the Supreme Court and a High Court\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 8B the following section: \"Relin- 8c. A Judge of the Supreme Court or High quishment Court who has not attained the age of sixty of office years may be required by the Yang di-Pertuan in the national Agong to relinquish the office of a Judge in interest. order to serve in another capacity for any period in the national interest.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 12 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "inserting after subsection (3D) the following subsection: 12. \"(3E) The proviso to subsection (3) shall not apply to a Judge who has, as required by the Yang di-Pertuan Agong under section 8c, relinquished the office of a Judge in order to serve in another capacity for any period in the national interest, and is still serving in the other capacity when he attains the age of fifty years.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 19 of the principal Act is amended in subsection (2) by substituting for the words \"First and Second Schedules\" the words \"First, Second and Fifth Schedules\". JUDGES' REMUNERATION (AMENDMENT)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 19 the following section: Remune- 19A. A person appointed to be a full time ration of Judicial Commissioner under Article 122A of Judicial the Federal Constitution shall be entitled to Com- missioners. receive such remuneration as is provided in the Fifth Schedule.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after the"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Schedule. Fourth Schedule the following Schedule: \"FIFTH SCHEDULE (Section 19A) 1. SALARY: RM8,100 per month 2. ENTERTAINMENT ALLOWANCE: RM2,500 per month 3. SPECIAL JUDICIAL ALLOWANCE: RM2,400 per month 4. ACCOMMODATION: Free fully furnished institutional quarters as may be provided to a Judge of a High Court or in lieu thereof a house rent subsidy of RM2,000 per month 5. OTHER ALLOWANCES AND PRIVILEGES: The allowances and privileges specified in paragraphs l(b)(ii), 3, 3A, 4, 5, 6, 6A, 7, 8, 10, 11, 12, 13 and 15 of the Second Schedule.\"."
+      }
+    }
+  ]
+}

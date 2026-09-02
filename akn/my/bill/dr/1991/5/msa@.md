@@ -40,17 +40,17 @@ ibu" dalam Akta ini, adalah dipinda—
 
 (b) dengan menggantikan noktah di hujung perenggan (10) (c) dengan koma bertitik dan memasukkan selepas sahaja koma bertitik itu perkataan "or"; dan
 
-(c) dengan memasukkan, selepas sahaja perenggan
-
-(10) (c), perenggan baru (d) yang berikut:
+(c) dengan memasukkan, selepas sahaja perenggan (10) (c), perenggan baru (d) yang berikut:
 
 "(d) the fact that it is held by, or in the name of, a central depository or its nominee company pursuant to the Securities Act Industry (Central Depositories) Act 1991.".
 
 <!-- page 2 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Seksyen 39 Akta ibu adalah dipinda— seksyen 39.
+3. Seksyen 39 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 39. -->
 
 (a) dengan memotong perkataan "and" selepas koma bertitik dalam perenggan (l)(h);
 

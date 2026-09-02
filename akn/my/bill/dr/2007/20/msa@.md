@@ -52,7 +52,29 @@ D.R. 20/2007
 
 ## MAKMAL PATOLOGI
 
-12. Permohonan bagi lesen 13. Permohonan bagi lesen hendaklah dibuat dalam masa tiga tahun 14. Pemeriksaan premis 15. Alasan bagi penolakan untuk memberikan lesen 16. Pemberian atau penolakan untuk memberikan lesen 17. Lesen hendaklah menyatakan kelas dan kekhususan makmal patologi 18. Lesen yang berasingan bagi makmal patologi 19. Tempoh lesen . 20. Lesen hendaklah dipamerkan . 21. Pembaharuan lesen 22. Kelas dan kekhususan tambahan 23. Pemberhentian penyediaan kelas dan kekhususan
+12. Permohonan bagi lesen
+
+13. Permohonan bagi lesen hendaklah dibuat dalam masa tiga tahun
+
+14. Pemeriksaan premis
+
+15. Alasan bagi penolakan untuk memberikan lesen
+
+16. Pemberian atau penolakan untuk memberikan lesen
+
+17. Lesen hendaklah menyatakan kelas dan kekhususan makmal patologi
+
+18. Lesen yang berasingan bagi makmal patologi
+
+19. Tempoh lesen .
+
+20. Lesen hendaklah dipamerkan .
+
+21. Pembaharuan lesen
+
+22. Kelas dan kekhususan tambahan
+
+23. Pemberhentian penyediaan kelas dan kekhususan
 
 ## BAHAGIAN V
 
@@ -60,13 +82,31 @@ D.R. 20/2007
 
 ## ERTANGGUNGJ AWA B
 
-24. Tanggungjawab pemegang lesen 25. Orang yang bertanggungjawab 26. Pertukaran orang yang bertanggungjawab 27. Mekanisme ketidakpuasan hati 28. Melaporkan kejadian 29. Rekod untuk disimpan dan dikemukakan
+24. Tanggungjawab pemegang lesen
+
+25. Orang yang bertanggungjawab
+
+26. Pertukaran orang yang bertanggungjawab
+
+27. Mekanisme ketidakpuasan hati
+
+28. Melaporkan kejadian
+
+29. Rekod untuk disimpan dan dikemukakan
 
 ## BAHAGIAN VI
 
 ## PENGGANTUNGAN DAN PEMBATALAN KELULUSAN ATAU LESEN
 
-30. Penggantungan atau pembatalan kelulusan atau lesen 31. Notis tunjuk sebab 32. Kuasa Ketua Pengarah untuk menggantung atau membatalkan 33. Kesan penggantungan 34. Kesan pembatalan
+30. Penggantungan atau pembatalan kelulusan atau lesen
+
+31. Notis tunjuk sebab
+
+32. Kuasa Ketua Pengarah untuk menggantung atau membatalkan
+
+33. Kesan penggantungan
+
+34. Kesan pembatalan
 
 <!-- page 3 -->
 
@@ -74,19 +114,35 @@ D.R. 20/2007
 
 ## PENUTUPAN MAKMAL PATOLOGI
 
-35. Perintah bagi penutupan makmal patologi 36. Penutupan makmal patologi berlesen 37. Tiada kos, ganti rugi, dsb., atas perintah bagi penutupan
+35. Perintah bagi penutupan makmal patologi
+
+36. Penutupan makmal patologi berlesen
+
+37. Tiada kos, ganti rugi, dsb., atas perintah bagi penutupan
 
 ## BAHAGIAN VIII
 
 ## PERUNTUKAN AM YANG BERHUBUNGAN DENGAN KELULUSAN ATAU LESEN
 
-38. Kuasa untuk mengubah terma atau syarat kelulusan atau lesen 39. Penilaian pengendalian 40. Sekatan ke atas penggunaan premis 41. Sekatan ke atas peluasan dan pengubahan 42. Pemindahan kelulusan atau lesen 43. Daftar
+38. Kuasa untuk mengubah terma atau syarat kelulusan atau lesen
+
+39. Penilaian pengendalian
+
+40. Sekatan ke atas penggunaan premis
+
+41. Sekatan ke atas peluasan dan pengubahan
+
+42. Pemindahan kelulusan atau lesen
+
+43. Daftar
 
 ## BAHAGIAN IX KUALITI
 
 ## MAKMAL PATOLOGI
 
-44. Kualiti makmal patologi 45. Kuasa Ketua Pengarah untuk memberikan arahan
+44. Kualiti makmal patologi
+
+45. Kuasa Ketua Pengarah untuk memberikan arahan
 
 ## BAHAGIAN X
 
@@ -98,27 +154,99 @@ D.R. 20/2007
 
 ## ORGANISASI JAGAAN YANG DIURUSKAN
 
-47. Tafsiran 48. Kontrak antara makmal patologi berlesen dengan organisasi jagaan yang diuruskan 49. Obligasi untuk memberikan maklumat tentang kontrak dengan organisasi jagaan yang diuruskan
+47. Tafsiran
+
+48. Kontrak antara makmal patologi berlesen dengan organisasi jagaan yang diuruskan
+
+49. Obligasi untuk memberikan maklumat tentang kontrak dengan organisasi jagaan yang diuruskan
 
 <!-- page 4 -->
 
-50. Maklumat oleh organisasi jagaan yang diuruskan 51. Daftar organisasi jagaan yang diuruskan
+50. Maklumat oleh organisasi jagaan yang diuruskan
+
+51. Daftar organisasi jagaan yang diuruskan
 
 ## BAHAGIAN XII
 
 ## PENGUATKUASAAN
 
-52. Pelantikan pegawai yang diberi kuasa 53. Kuasa pegawai yang diberi kuasa untuk memasuki dan memeriksa 54. Kuasa menggeledah dan menyita 55. Menggeledah dan menyita tanpa waran 56. Capaian kepada data berkomputer 57. Senarai benda yang disita 58. Pelepasan benda yang disita 59. Kuasa untuk mengelak 60. Kuasa untuk menghendaki kehadiran orang yang mempunyai pengetahuan tentang kes 61. Pemeriksaan orang yang mempunyai pengetahuan tentang kes 62. Kebolehterimaan pernyataan sebagai keterangan 63. Kewajipan untuk membantu pegawai diberi kuasa 64. Pelucuthakan barang, dsb., yang disita 65. Kos memegang barang, dsb., yang disita 66. Pengemukaan kad pengenalan atau lencana rasmi 67. Pengkompaunan kesalahan 68. Pemulaan pendakwaan
+52. Pelantikan pegawai yang diberi kuasa
+
+53. Kuasa pegawai yang diberi kuasa untuk memasuki dan memeriksa
+
+54. Kuasa menggeledah dan menyita
+
+55. Menggeledah dan menyita tanpa waran
+
+56. Capaian kepada data berkomputer
+
+57. Senarai benda yang disita
+
+58. Pelepasan benda yang disita
+
+59. Kuasa untuk mengelak
+
+60. Kuasa untuk menghendaki kehadiran orang yang mempunyai pengetahuan tentang kes
+
+61. Pemeriksaan orang yang mempunyai pengetahuan tentang kes
+
+62. Kebolehterimaan pernyataan sebagai keterangan
+
+63. Kewajipan untuk membantu pegawai diberi kuasa
+
+64. Pelucuthakan barang, dsb., yang disita
+
+65. Kos memegang barang, dsb., yang disita
+
+66. Pengemukaan kad pengenalan atau lencana rasmi
+
+67. Pengkompaunan kesalahan
+
+68. Pemulaan pendakwaan
 
 ## BAHAGIAN III
 
 ## PELBAGAI
 
-69. Ketidakpakaian Akta 70. Kesalahan berhubung dengan pemeriksaan 71. Kesalahan yang dilakukan oleh pertubuhan perbadanan atau perkongsian 72. Rayuan 73. Kuasa untuk mengecualikan 74. Jadual fi
+69. Ketidakpakaian Akta
+
+70. Kesalahan berhubung dengan pemeriksaan
+
+71. Kesalahan yang dilakukan oleh pertubuhan perbadanan atau perkongsian
+
+72. Rayuan
+
+73. Kuasa untuk mengecualikan
+
+74. Jadual fi
 
 <!-- page 5 -->
 
-75. Iklan 76. Pewakilan oleh Ketua Pengarah 77. Memberikan maklumat 78. Penyampaian notis 79. Pegawai yang disifatkan sebagai pekhidmat awam 80. Perlindungan pegawai 81. Pendedahan maklumat sulit 82. Sumbangan sosial atau kebajikan 83. Kesalahan dan penalti am 84. Pelanggaran perundangan subsidiari 85. Kuasa untuk meminda Jadual 86. Kuasa untuk membuat peraturan-peraturan 87. Peralihan
+75. Iklan
+
+76. Pewakilan oleh Ketua Pengarah
+
+77. Memberikan maklumat
+
+78. Penyampaian notis
+
+79. Pegawai yang disifatkan sebagai pekhidmat awam
+
+80. Perlindungan pegawai
+
+81. Pendedahan maklumat sulit
+
+82. Sumbangan sosial atau kebajikan
+
+83. Kesalahan dan penalti am
+
+84. Pelanggaran perundangan subsidiari
+
+85. Kuasa untuk meminda Jadual
+
+86. Kuasa untuk membuat peraturan-peraturan
+
+87. Peralihan
 
 ## JADUAL
 
@@ -1320,7 +1448,11 @@ penggeledahan di bawah Akta ini hendaklah diberi capaian kepada data berkomputer
 
 ### Senarai benda yang disita
 
-57. (1) Kecuali sebagaimana yang diperuntukkan dalam subseksyen (2), jika apa-apa buku, rekod, perkakas, kelengkapan, alat, material, barang, sampel, darah, hasil darah, tisu atau bendalir manusia atau apa-apa hasil badan manusia, dialisat, bahan kimia, bahan farmaseutikal, bahan atau benda lain disita di bawah Akta ini, pegawai yang menyita hendaklah menyediakan suatu senarai benda yang disita dan salinan senarai itu hendaklah diberikan kepada pemegang lesen, orang yang bertanggungjawab, atau penghuni makmal patologi atau premis itu, mengikut mana-mana yang berkenaan, yang telah digeledah di bawah seksyen 53, 54 atau 55.
+57. (1) Kecuali sebagaimana yang diperuntukkan dalam subseksyen
+
+(2), jika apa-apa buku, rekod, perkakas, kelengkapan, alat, material, barang, sampel, darah, hasil darah, tisu atau bendalir manusia atau apa-apa hasil badan manusia, dialisat, bahan kimia, bahan farmaseutikal, bahan atau benda lain disita di bawah Akta ini, pegawai yang menyita hendaklah menyediakan suatu senarai benda yang disita dan salinan senarai itu hendaklah diberikan kepada pemegang lesen, orang yang bertanggungjawab, atau penghuni makmal patologi atau premis itu, mengikut mana-mana yang berkenaan, yang telah digeledah di bawah seksyen 53, 54 atau
+
+55.
 
 (2) Jika makmal patologi berlesen atau premis itu tidak dihuni, pegawai yang diberi kuasa hendaklah bila mana yang mungkin menampal suatu senarai barang yang disita itu di tempat yang mudah dilihat di makmal patologi atau premis itu.
 

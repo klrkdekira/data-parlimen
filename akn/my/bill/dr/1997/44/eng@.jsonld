@@ -1,0 +1,154 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-44-1997",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/eng@/~cl_4"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Water Supply (Federal Territory of Kuala Lumpur) Bill 1997"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Water Supply (Federal"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Territory of Kuala Lumpur) Act 1997 and shall come into force on such date as the Minister may, by notification in the Gazette, appoint."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/eng@/~cl_2__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/eng@/~cl_2__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/eng@/~cl_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The law relating to the supply and distribution of water in the State of Selangor shall apply to the Federal Territory of Kuala Lumpur but with the necessary modifications, as the context may require."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/eng@/~cl_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (1), the Minister may by order make such modifications as may be necessary to any provision of the law referred to in subsection (1) for the purpose of removing difficulties in its application to the Federal Territory of Kuala Lumpur."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/eng@/~cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/eng@/~cl_3__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/eng@/~cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The authority responsible for the supply and distribution of water in the State of Selangor shall exercise, on behalf of the Government of the Federation, the powers and functions under the law applicable to the Federal Territory of Kuala Lumpur on matters relating to the supply and distribution of water in the Federal Territory of Kuala Lumpur."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/eng@/~cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Nothing in subsection (1) shall preclude the Government of the Federation from exercising on its own behalf the powers and functions relating to the supply and distribution of water under the law applicable to the Federal Territory of Kuala Lumpur."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/eng@/~cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/eng@/~cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/eng@/~cl_4__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/eng@/~cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Water Supply Enactment shall cease to apply in the Federal Territory of Kuala Lumpur. 203."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/eng@/~cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Federal Territory (Water Supply Enactment) Order 1974 is revoked."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/eng@/~cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsidiary legislation made under the Water Supply Enactment and in force in the Federal Territory of Kuala Lumpur shall continue to be in force until revoked, amended or replaced by subsidiary legislation made in respect of the Federal Territory of Kuala Lumpur under the law relating to the supply and distribution of water in the Federal Territory of Kuala Lumpur."
+      }
+    }
+  ]
+}

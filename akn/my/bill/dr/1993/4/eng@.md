@@ -80,7 +80,9 @@ for by the Supply Act 1993.
 
 ### (Section 2)
 
-Appropriation Purpose Title to purpose
+Appropriation Purpose Title
+
+<!-- marginal: to purpose -->
 
 <!-- marginal: RM -->
 
@@ -98,15 +100,51 @@ B. 6 Education Service Commission B. 7 Prime Minister's Department 57,880,000
 
 <!-- marginal: 647,700 -->
 
-B. 10 Attorney General's Chambers B. 14 Ministry of Housing and Local 14,286,700 Government B. 15 Town and Country Planning 1,132,000 Department B. 16 Fire Services Department 3,595,000 B. 17 Ministry of Youth and Sports 1,340,000 B. 18 Ministry of Primary Industries 34,856,100 12,999,700 B. 19 Ministry of Agriculture B. 23 National Archives Department
+B. 10 Attorney General's Chambers B. 14 Ministry of Housing and Local 14,286,700 Government B. 15 Town and Country Planning
+
+<!-- marginal: 1,132,000 -->
+
+Department B. 16 Fire Services Department
+
+<!-- marginal: 3,595,000 -->
+
+B. 17 Ministry of Youth and Sports
+
+<!-- marginal: 1,340,000 -->
+
+B. 18 Ministry of Primary Industries 34,856,100 12,999,700 B. 19 Ministry of Agriculture B. 23 National Archives Department
 
 <!-- marginal: 460,000 -->
 
-175,463,100 B. 25 Ministry of Defence 2,350,000 B. 26 Ministry of Education 108,848,200 B. 29 Treasury General Services 4,038,000,000 B. 30 Contribution to Statutory Funds 6,350,000 B. 31 Royal Customs and Excise Department B. 32 Inland Revenue Department 5,000,000 B. 33 Ministry of Public Enterprises 3,052,000 110,479,400 B. 34 Ministry of Health B. 36 Royal Malaysia Police 135,910,000 5,048,400 B. 37 Immigration Department
+175,463,100 B. 25 Ministry of Defence
+
+<!-- marginal: 2,350,000 -->
+
+B. 26 Ministry of Education 108,848,200 B. 29 Treasury General Services 4,038,000,000 B. 30 Contribution to Statutory Funds
+
+<!-- marginal: 6,350,000 -->
+
+B. 31 Royal Customs and Excise Department B. 32 Inland Revenue Department
+
+<!-- marginal: 5,000,000 -->
+
+B. 33 Ministry of Public Enterprises
+
+<!-- marginal: 3,052,000 -->
+
+110,479,400 B. 34 Ministry of Health B. 36 Royal Malaysia Police 135,910,000
+
+<!-- marginal: 5,048,400 -->
+
+B. 37 Immigration Department
 
 <!-- marginal: 201,000 -->
 
-B. 38 Registration of Societies Department 9,874,000 B. 40 Prisons Department
+B. 38 Registration of Societies Department
+
+<!-- marginal: 9,874,000 -->
+
+B. 40 Prisons Department
 
 <!-- marginal: 375,000 -->
 
@@ -114,7 +152,19 @@ B. 41 Civil Defence Department
 
 <!-- marginal: 930,600 -->
 
-B. 42 National Printing Department B. 43 Ministry of Law 7,565.525 B. 45 Ministry of Human Resources 2,915,900 B. 46 Ministry of Science, Technology 9,146,100 and Environment
+B. 42 National Printing Department B. 43 Ministry of Law
+
+<!-- marginal: 7,565.525 -->
+
+B. 45 Ministry of Human Resources
+
+<!-- marginal: 2,915,900 -->
+
+B. 46 Ministry of Science, Technology
+
+<!-- marginal: 9,146,100 -->
+
+and Environment
 
 <!-- page 3 -->
 

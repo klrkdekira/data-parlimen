@@ -44,7 +44,7 @@
       },
       "schema:text": {
         "@language": "en",
-        "@value": "of West Malaysia (Incorporation) (Amendment) Act 1996 and shall be deemed to have come into force on 2 February 1996. Amendment"
+        "@value": "of West Malaysia (Incorporation) (Amendment) Act 1996 and shall be deemed to have come into force on 2 February 1996."
       }
     },
     {
@@ -52,9 +52,13 @@
       "@type": "akn:clause",
       "eli:number": "2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/45/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Synod of the Diocese of West Malaysia"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "The Synod of the Diocese of West Malaysia of section 3. (Incorporation) Act 1971 is amended in subsections 3(2) Act 36. and 3(5) by substituting for the word \"Canterbury\" the words \"the Province of the Anglican Church in South- east Asia\"."
+        "@value": "(Incorporation) Act 1971 is amended in subsections 3(2) and 3(5) by substituting for the word \"Canterbury\" the words \"the Province of the Anglican Church in South- east Asia\"."
       }
     }
   ]

@@ -8,25 +8,25 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian i
+## BAHAGIAN I
 
-PERMULaan
+## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Pemakaian 3. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PENTADBIRAN SKIM KESELAMATAN SOSIAL PEKERJAAN SENDIRI
 
 4. Pentadbiran Skim Keselamatan Sosial Pekerjaan Sendiri 5. Ketua Pengarah 6. Kuasa Pertubuhan untuk memegang harta, dsb. 7. Penjalanan kuasa dan fungsi Pertubuhan
 
-## Bahagian III
+## BAHAGIAN III
 
 ## JAWATANKUASA
 
 8. Penubuhan jawatankuasa 9. Jawatankuasa Keselamatan Sosial Pekerjaan Sendiri
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PELAKSANAAN, PENDAFTARAN DAN CARUMAN
 
@@ -42,7 +42,7 @@ PERMULaan
 
 14. Penentuan aktiviti dalam hal-hal tertentu, tempoh pelindungan, dsb.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## FAEDAH
 
@@ -96,7 +96,7 @@ PERMULaan
 
 <!-- page 3 -->
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PENENTUAN, SEMAKAN SEMULA DAN RAYUAN
 
@@ -112,7 +112,7 @@ PERMULaan
 
 44. Semakan semula faedah orang tanggungan
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PERUNTUKAN KEWANGAN
 
@@ -142,7 +142,7 @@ PERMULaan
 
 57. Pengenaan surcaj
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## TRIBUNAL KESELAMATAN SOSIAL
 
@@ -168,7 +168,7 @@ PERMULaan
 
 67. Pembayaran digantung sementara menanti rayuan
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## PENGUATKUASAAN DAN PENYIASATAN
 
@@ -178,7 +178,7 @@ PERMULaan
 
 70. Menghalang, dsb., Ketua Pengarah, Timbalan Ketua Pengarah atau Pemeriksa
 
-## Bahagian X
+## BAHAGIAN X
 
 ## KESALAHAN DAN PENALTI
 
@@ -192,7 +192,7 @@ PERMULaan
 
 75. Pengkompaunan kesalahan
 
-## Bahagian XI
+## BAHAGIAN XI
 
 AM
 
@@ -226,9 +226,9 @@ AM
 
 89. Kuasa untuk bekerjasama dengan institusi yang sedia ada atau menganjurkan langkah untuk kesihatan, kebajikan, dsb., orang berinsurans bekerja sendiri
 
-## JadUaL PERtaMa
+## JADUAL PERTAMA
 
-## JadUaL KEdUa
+## JADUAL KEDUA
 
 <!-- page 7 -->
 
@@ -238,7 +238,7 @@ Suatu Akta bagi mengadakan peruntukan bagi keselamatan sosial bagi orang bekerja
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -330,7 +330,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 “Tribunal” ertinya Tribunal Keselamatan Sosial yang ditubuhkan di bawah seksyen 58.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PENTADBIRAN SKIM KESELAMATAN SOSIAL
 
@@ -378,7 +378,7 @@ kewajipannya, atau jika jawatan Ketua Pengarah menjadi kosong, Menteri hendaklah
 
 <!-- page 13 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 ## JAWATANKUASA
 
@@ -450,7 +450,7 @@ kewajipannya, atau jika jawatan Ketua Pengarah menjadi kosong, Menteri hendaklah
 
 (6) Tertakluk kepada Akta ini, Jawatankuasa boleh menentukan tatacaranya sendiri.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PELAKSANAAN, PENDAFTARAN DAN CARUMAN
 
@@ -498,7 +498,7 @@ kewajipannya, atau jika jawatan Ketua Pengarah menjadi kosong, Menteri hendaklah
 
 (b) dalam hal penyakit atau kecederaan disebabkan oleh penyakit pekerjaan yang berlaku pada orang berinsurans bekerja sendiri, tujuh puluh dua bulan telah luput berkuat kuasa mulai tarikh penyakit atau kecederaan itu yang disahkan oleh pegawai perubatan kepadanya.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## FAEDAH
 
@@ -726,7 +726,7 @@ ini atau Akta lain yang ditadbir oleh Pertubuhan, Pertubuhan boleh mendapatkan n
 
 38. Kecuali bagi pencen ilat atau pencen penakat yang kena dibayar di bawah Akta Keselamatan Sosial Pekerja 1969, orang berinsurans bekerja sendiri atau orang tanggungan, mengikut mana-mana yang berkenaan, tidak berhak kepada kedua-dua faedah di bawah Akta Keselamatan Sosial Pekerja 1969 dan Akta ini, bagi tempoh yang sama dan berkenaan dengan hilang upaya yang sama.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PENENTUAN, SEMAKAN SEMULA DAN RAYUAN
 
@@ -814,7 +814,7 @@ sekiranya penilai perubatan atau Jemaah Doktor Rayuan berpuas hati bahawa semenj
 
 (2) Tertakluk kepada Akta ini, Pertubuhan boleh, atas semakan semula sedemikian yang disebut dalam subseksyen (1), mengarahkan faedah orang tanggungan itu diteruskan, ditambah, dikurangkan atau diberhentikan.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PERUNTUKAN KEWANGAN
 
@@ -1014,7 +1014,7 @@ sekiranya penilai perubatan atau Jemaah Doktor Rayuan berpuas hati bahawa semenj
 
 dengan ansuran bulanan yang sama banyak yang tidak melebihi satu perempat daripada jumlah gaji atau pencen bulanan orang itu, mengikut mana-mana yang berkenaan.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## TRIBUNAL KESELAMATAN SOSIAL
 
@@ -1136,7 +1136,7 @@ menuntut faedah sebagaimana yang ditetapkan dalam tempoh dua belas bulan selepas
 
 67. Jika Pertubuhan telah membawa suatu rayuan terhadap suatu perintah Tribunal, Tribunal boleh, dan sekiranya diarahkan oleh Mahkamah Tinggi hendaklah, sementara menanti keputusan rayuan itu, menahan perintah yang terhadapnya dirayu yang berhubungan dengan pembayaran apa-apa jumlah wang.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## PENGUATKUASAAN DAN PENYIASATAN
 
@@ -1182,7 +1182,7 @@ perlu dengan kekerasan, dan memeriksa tempat atau bangunan itu, menyita, mengamb
 
 melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi sepuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.
 
-## Bahagian X
+## BAHAGIAN X
 
 ## KESALAHAN DAN PENALTI
 
@@ -1244,7 +1244,7 @@ dalam peraturan-peraturan sebagai suatu kesalahan yang boleh dikompaun dengan me
 
 (5) Semua jumlah wang yang diterima oleh Ketua Pengarah di bawah seksyen ini hendaklah dibayar ke dalam dan menjadi sebahagian daripada Kumpulan Wang Disatukan Persekutuan.
 
-## Bahagian XI
+## BAHAGIAN XI
 
 AM
 
@@ -1412,15 +1412,13 @@ daripada mana-mana peruntukan Akta ini atau apa-apa peraturan-peraturan yang dib
 
 (3) Langkah di bawah subseksyen (1) boleh termasuk pemberian anggota badan buatan dan alat, peluang untuk mendapat pekerjaan berkeuntungan di bawah keadaan yang sesuai dan rumah betah.
 
-## JadUaL PERtaMa
+## JADUAL PERTAMA
 
 [Seksyen 2]
 
 ## PERUSAHAAN
 
-1.
-
-(a) Perkhidmatan pengangkutan penumpang—
+1. (a) Perkhidmatan pengangkutan penumpang—
 
 (i) menggunakan kenderaan perkhidmatan awam atau kenderaan motor yang dimiliki oleh seseorang, atau diuruskan, disenggarakan atau dikendalikan oleh seseorang, di bawah apa-apa bentuk perkiraan dengan pemunya atau pemberi pajak kenderaan itu; dan
 
@@ -1436,7 +1434,7 @@ daripada mana-mana peruntukan Akta ini atau apa-apa peraturan-peraturan yang dib
 
 “kenderaan perkhidmatan awam” mempunyai erti yang diberikan kepadanya dalam Akta Pengangkutan Awam Darat 2010 [Akta 715].
 
-## JadUaL KEdUa
+## JADUAL KEDUA
 
 [Seksyen 11, 17, 18 dan 19]
 
@@ -1492,7 +1490,13 @@ Diinsuranskan
 
 <!-- page 60 -->
 
-Pendapatan Bulanan Pilihan yang Caruman Bulanan oleh Diinsuranskan orang bekerja sendiri
+Pendapatan Bulanan Pilihan yang
+
+<!-- marginal: Caruman Bulanan oleh -->
+
+Diinsuranskan
+
+<!-- marginal: orang bekerja sendiri -->
 
 10. RM1,950
 
@@ -1614,7 +1618,7 @@ Pendapatan Bulanan Pilihan yang Caruman Bulanan oleh Diinsuranskan orang bekerja
 
 Akta Keselamatan Sosial Pekerjaan Sendiri 2017 yang dicadangkan (“Akta yang dicadangkan”) bertujuan untuk mengadakan peruntukan bagi keselamatan sosial bagi orang bekerja sendiri dan bagi perkara-perkara lain yang berkaitan dengannya. Pada masa ini, keselamatan sosial yang sedia ada ditadbir oleh Lembaga Keselamatan Sosial di bawah Akta Keselamatan Sosial Pekerja 1969 [Akta 4] hanya melibatkan pekerja yang carumannya dibayar oleh kedua-dua majikan dan pekerja. Di bawah Akta yang dicadangkan, caruman dibayar oleh orang bekerja sendiri mengikut pengertian Akta yang dicadangkan.
 
-## Bahagian I
+## BAHAGIAN I
 
 1. Bahagian 1 Akta yang dicadangkan memperkatakan perkara permulaan.
 
@@ -1624,7 +1628,7 @@ Akta Keselamatan Sosial Pekerjaan Sendiri 2017 yang dicadangkan (“Akta yang di
 
 4. Fasal 3 mengandungi takrif istilah dan ungkapan yang digunakan dalam Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 5. Bahagian II Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan pentadbiran Skim Keselamatan Sosial Pekerjaan Sendiri.
 
@@ -1638,7 +1642,7 @@ Akta Keselamatan Sosial Pekerjaan Sendiri 2017 yang dicadangkan (“Akta yang di
 
 9. Fasal 7 memberi Pertubuhan kuasa untuk mewakilkan kuasa dan fungsinya untuk dijalankan oleh Ketua Pengarah yang boleh mewakilkan semula kuasa dan fungsinya kepada Timbalan Ketua Pengarah, Pemeriksa, atau pegawai dan pekhidmat Pertubuhan.
 
-## Bahagian III
+## BAHAGIAN III
 
 10. Bahagian III Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan jawatankuasa.
 
@@ -1646,7 +1650,7 @@ Akta Keselamatan Sosial Pekerjaan Sendiri 2017 yang dicadangkan (“Akta yang di
 
 12. Fasal 9 bertujuan untuk mengadakan peruntukan bagi penubuhan Jawatankuasa Keselamatan Sosial Pekerjaan Sendiri.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 13. Bahagian IV Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan pelaksanaan, pendaftaran dan caruman.
 
@@ -1660,7 +1664,7 @@ Akta Keselamatan Sosial Pekerjaan Sendiri 2017 yang dicadangkan (“Akta yang di
 
 18. Fasal 14 memberi Pertubuhan kuasa untuk menentukan sama ada apa- apa aktiviti yang dijalankan oleh mana-mana orang yang baginya Akta yang dicadangkan terpakai ialah suatu aktiviti pekerjaan sendiri.
 
-## Bahagian V
+## BAHAGIAN V
 
 19. Bahagian V Akta yang dicadangkan memperkatakan pemberian faedah yang boleh dibayar di bawah Akta yang dicadangkan dan kelayakan seseorang kepada faedah itu.
 
@@ -1718,7 +1722,7 @@ Akta Keselamatan Sosial Pekerjaan Sendiri 2017 yang dicadangkan (“Akta yang di
 
 43. Fasal 38 memperkatakan keadaan jika seseorang berhak kepada kedua-dua faedah di bawah Akta Keselamatan Sosial Pekerja 1969 dan apa-apa faedah di bawah Akta yang dicadangkan bagi tempoh yang sama yang dia hanya berhak kepada satu faedah bagi tempoh yang sama dan berkenaan dengan hilang upaya yang sama kecuali bagi pencen ilat dan pencen penakat yang kena dibayar di bawah Akta Keselamatan Sosial Pekerja 1969.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 44. Bahagian VI Akta yang dicadangkan memperkatakan penentuan persoalan hilang upaya kekal dan penyakit pekerjaan oleh penilai perubatan dan peruntukan semakan semula dan rayuan oleh penilai perubatan dan Jemaah Doktor Rayuan.
 
@@ -1734,7 +1738,7 @@ Akta Keselamatan Sosial Pekerjaan Sendiri 2017 yang dicadangkan (“Akta yang di
 
 50. Fasal 44 bertujuan untuk mengadakan peruntukan bahawa faedah orang tanggungan boleh disemak semula pada bila-bila masa oleh Pertubuhan sekiranya terdapat keterangan baharu bahawa keputusan itu diberikan disebabkan oleh ketidakdedahan atau salah nyata atau keputusan itu tidak lagi mengikut Akta yang dicadangkan disebabkan perubahan keadaan.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 51. Bahagian VII Akta yang dicadangkan memperkatakan peruntukan kewangan.
 
@@ -1766,7 +1770,7 @@ Akta Keselamatan Sosial Pekerjaan Sendiri 2017 yang dicadangkan (“Akta yang di
 
 64. Fasal 57 membenarkan Pertubuhan untuk mengenakan surcaj atas mana-mana orang yang sedang atau pernah bekerja dengan Pertubuhan bagi sebab tertentu.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 65. Bahagian VIII Akta yang dicadangkan memperkatakan penubuhan Tribunal Keselamatan Sosial (“Tribunal”).
 
@@ -1792,7 +1796,7 @@ Akta Keselamatan Sosial Pekerjaan Sendiri 2017 yang dicadangkan (“Akta yang di
 
 75. Fasal 67 memberi Tribunal kuasa untuk menahan perintah yang terhadapnya dirayu yang berhubungan dengan pembayaran apa-apa jumlah wang sementara menanti rayuan di Mahkamah Tinggi.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 76. Bahagian IX Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan penguatkuasaan dan penyiasatan.
 
@@ -1804,7 +1808,7 @@ Akta Keselamatan Sosial Pekerjaan Sendiri 2017 yang dicadangkan (“Akta yang di
 
 79. Fasal 70 bertujuan untuk memperuntukkan bahawa mana-mana orang yang tidak mematuhi apa-apa arahan yang diberikan oleh, atau dengan apa-apa cara mengamang, menggalang atau menghalang, Ketua Pengarah, Timbalan Ketua Pengarah atau Pemeriksa semasa menjalankan kuasa mereka dan melaksanakan fungsi mereka melakukan suatu kesalahan.
 
-## Bahagian X
+## BAHAGIAN X
 
 80. Bahagian X Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan kesalahan dan penalti.
 
@@ -1820,7 +1824,7 @@ Akta Keselamatan Sosial Pekerjaan Sendiri 2017 yang dicadangkan (“Akta yang di
 
 85. Fasal 75 memberi Menteri kuasa dengan keizinan Pendakwa Raya untuk membuat peraturan-peraturan untuk menetapkan mana-mana kesalahan di bawah Akta ini atau apa-apa peraturan-peraturan yang dibuat di bawah Akta yang dicadangkan sebagai suatu kesalahan yang boleh dikompaun dan juga kriteria, kaedah dan tatacara bagi mengkompaun kesalahan itu. Fasal ini juga memberi kuasa kepada pegawai yang diberi kuasa untuk melaksanakan pengkompaunan kesalahan-kesalahan itu dengan keizinan secara bertulis Pendakwa Raya.
 
-## Bahagian XI
+## BAHAGIAN XI
 
 86. Bahagian XI Akta yang dicadangkan mengandungi peruntukan am.
 

@@ -50,11 +50,7 @@ the particulars of the complaint received by the Magistrate under section 128;
 
 (c) the Magistrate shall not proceed to examine the complainant unless the notice required by paragraph (b) has been served on the Public Prosecutor in accordance with that paragraph;
 
-(d) the Magistrate shall examine the complainant upon oath and
-
-<!-- marginal: the -->
-
-substance of the examination of the complainant shall be reduced to writing and shall be signed by the complainant and by the Magistrate;
+(d) the Magistrate shall examine the complainant upon oath and the substance of the examination of the complainant shall be reduced to writing and shall be signed by the complainant and by the Magistrate;
 
 (e) the Public Prosecutor may appear and assist the Magistrate in the examination of the complainant,";
 
@@ -66,9 +62,11 @@ substance of the examination of the complainant shall be reduced to writing and 
 
 (c) in subsection (ii), by substituting for the words "officer or by a" the words "officer, public officer or".
 
-Amendment
+<!-- marginal: Amendment -->
 
-3. Section 134 of the Code is amended— of section
+3. Section 134 of the Code is amended—
+
+<!-- marginal: of section -->
 
 134.
 
@@ -156,7 +154,21 @@ the following section:
 
 <!-- marginal: 378. -->
 
-" No one to 378. No person shall appear on behalf of the appear for Public Prosecutor on any criminal appeal other Public Prosecutor. than the Public Prosecutor, a Senior Deputy Public Prosecutor or a Deputy Public Prosecutor.".
+"
+
+<!-- marginal: No one to -->
+
+378. No person shall appear on behalf of the
+
+<!-- marginal: appear for -->
+
+Public Prosecutor on any criminal appeal other
+
+<!-- marginal: Public -->
+
+<!-- marginal: Prosecutor. -->
+
+than the Public Prosecutor, a Senior Deputy Public Prosecutor or a Deputy Public Prosecutor.".
 
 <!-- marginal: Amendment -->
 
@@ -168,7 +180,21 @@ the following section:
 
 <!-- marginal: 380. -->
 
-" Prosecu- 380. Notwithstanding anything in this Chapter tion by contained, any private person may appear in private persons. person or by advocate and prosecute for an offence against his own person or property in a non-seizable case in the Court of a Magistrate.".
+"
+
+<!-- marginal: Prosecu- -->
+
+380. Notwithstanding anything in this Chapter
+
+<!-- marginal: tion by -->
+
+contained, any private person may appear in
+
+<!-- marginal: private -->
+
+<!-- marginal: persons. -->
+
+person or by advocate and prosecute for an offence against his own person or property in a non-seizable case in the Court of a Magistrate.".
 
 <!-- marginal: New section -->
 
@@ -176,7 +202,25 @@ the following section:
 
 <!-- marginal: 380A. -->
 
-the following section: " Sections 380A. The provisions of sections 377 and 380 377 and shall prevail notwithstanding any inconsistency 380 to with any other written law.". prevail over other laws.
+the following section: "
+
+<!-- marginal: Sections -->
+
+380A. The provisions of sections 377 and 380
+
+<!-- marginal: 377 and -->
+
+shall prevail notwithstanding any inconsistency
+
+<!-- marginal: 380 to -->
+
+with any other written law.".
+
+<!-- marginal: prevail -->
+
+<!-- marginal: over -->
+
+<!-- marginal: other laws. -->
 
 <!-- marginal: Amendment -->
 
@@ -188,7 +232,25 @@ the following section: " Sections 380A. The provisions of sections 377 and 380 3
 
 <!-- marginal: 422. -->
 
-" Irregula- 422. Subject to the provisions contained in this rities not Chapter no finding, sentence or order passed to vitiate or made by a Court of competent jurisdiction proceed- ings. shall be reversed or altered on account of—
+"
+
+<!-- marginal: Irregula- -->
+
+422. Subject to the provisions contained in this
+
+<!-- marginal: rities not -->
+
+Chapter no finding, sentence or order passed
+
+<!-- marginal: to vitiate -->
+
+or made by a Court of competent jurisdiction
+
+<!-- marginal: proceed- -->
+
+<!-- marginal: ings. -->
+
+shall be reversed or altered on account of—
 
 (a) any error, omission or irregularity in the complaint, sanction, consent, summons, warrant, charge, judgment or other proceedings before or during trial or in any inquiry or other proceedings under this Code;
 
@@ -200,7 +262,7 @@ the following section: " Sections 380A. The provisions of sections 377 and 380 3
 
 unless such error, omission, irregularity, want, or improper admission or rejection of evidence has occasioned a failure of justice.".
 
-Saving.
+<!-- marginal: Saving. -->
 
 11. (1) The provisions of this Act shall not apply to any prosecution or proceeding which has been instituted but has not been completed on the date of the commencement of this Act.
 

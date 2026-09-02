@@ -128,11 +128,7 @@ report the matter in writing to the Director General, failing which the claim fo
 
 (ii) dalam perenggan (a) —
 
-(A) dengan memasukkan selepas perkataan "necessary or relevant" perkataan "within
-
-<!-- marginal: the period -->
-
-specified in the requirement"; dan
+(A) dengan memasukkan selepas perkataan "necessary or relevant" perkataan "within the period specified in the requirement"; dan
 
 (B) dengan memotong perkataan "and" di hujung perenggan itu;
 
@@ -540,7 +536,11 @@ Subfasal 8(c) bertujuan untuk memotong perenggan 9(3)(c) Akta 177 untuk menghend
 
 Subfasal 8(d) bertujuan untuk memasukkan subseksyen baru 9(3A) ke dalam Akta 177. Subseksyen 9(3A) yang dicadangkan meletakkan tanggungjawab ke atas majikan atau kesatuan sekerja majikan yang berkenaan untuk memberitahu Ketua Pengarah apabila memberikan pengiktirafan di bawah perenggan 9(3)(a) Akta 177.
 
-Subfasal 8(e) bertujuan untuk meminda subseksyen 9(4) Akta 177 dengan memperuntukkan bahawa apabila kesatuan sekerja pekerja menerima pemberitahuan di bawah perenggan 9(3)(b) Akta 177 atau jika majikan atau kesatuan sekerja majikan gagal untuk mematuhi subseksyen 9(3), kesatuan sekerja itu boleh dalam masa 14 hari selepas penerimaan pemberitahuan atau selepas tempoh 21 hari dalam subseksyen 9(3) Akta 177 telah luput melaporkan perkara itu kepada Ketua Pengarah, dan kegagalan berbuat demikian mengakibatkan tuntutan bagi pengiktirafan disifatkan telah ditarik balik.
+Subfasal 8(e) bertujuan untuk meminda subseksyen 9(4) Akta 177 dengan memperuntukkan bahawa apabila kesatuan sekerja pekerja menerima pemberitahuan di bawah perenggan 9(3)(b) Akta 177 atau jika majikan atau kesatuan sekerja majikan gagal untuk mematuhi subseksyen 9(3), kesatuan sekerja itu boleh dalam masa 14 hari selepas penerimaan pemberitahuan atau selepas tempoh 21 hari dalam subseksyen 9(3) Akta 177 telah luput melaporkan perkara itu kepada Ketua Pengarah, dan kegagalan berbuat demikian mengakibatkan
+
+<!-- marginal: tuntutan bagi -->
+
+pengiktirafan disifatkan telah ditarik balik.
 
 Subfasal 8(f) bertujuan untuk meminda subseksyen 9(4A) Akta 177 untuk membenarkan Ketua Pengarah apabila diterima laporan di bawah subseksyen 9(4) Akta 177, mengambil langkah-langkah atau membuat penyiasatan bagi menentukan, dengan cara menjalankan undi sulit, kelayakan kesatuan sekerja pekerja untuk mewakili mana-mana pekerja atau golongan pekerja atau untuk menentukan peratusan pekerja atau golongan pekerja yang menjadi anggota kesatuan sekerja pekerja yang membuat tuntutan itu.
 
@@ -556,7 +556,11 @@ Subfasal 8(h) bertujuan untuk meminda subseksyen 9(4c) Akta 177 dengan menghenda
 
 11. Fasal 10 bertujuan untuk memasukkan seksyen baru 10A ke dalam Akta 177 untuk melarang kesatuan sekerja pekerja yang lain daripada menuntut atau diberi pengiktirafan jika tuntutan pengiktirafan telah dibuat oleh suatu kesatuan sekerja pekerja berkenaan dengan pekerja atau golongan pekerja yang sama sehinggalah tuntutan pertama itu diselesaikan di bawah perenggan 9(3)(a) atau subseksyen 9(4), atau diputuskan oleh Menteri di bawah subseksyen 9(5) Akta 177.
 
-12. Fasal 11 bertujuan untuk meminda seksyen 12 Akta 177 untuk melarang mana-mana kesatuan sekerja pekerja daripada membuat tuntutan selanjutnya berkenaan dengan pekerja atau golongan pekerja yang sama bagi tempoh enam bulan dalam hal keadaan jika tuntutan itu ditarik balik oleh kesatuan sekerja yang berkenaan selepas melaporkan kepada Ketua Pengarah di bawah subseksyen 9(4) Akta 177 atau tuntutan tersebut telah diputuskan oleh Menteri di bawah subseksyen 9(5), yang menyebabkan kesatuan sekerja pekerja tersebut tidak diberi pengiktirafan.
+12. Fasal 11 bertujuan untuk meminda seksyen 12 Akta 177 untuk melarang mana-mana kesatuan sekerja pekerja daripada membuat tuntutan selanjutnya berkenaan dengan pekerja atau golongan pekerja yang sama bagi tempoh enam bulan dalam hal keadaan jika tuntutan itu ditarik balik oleh kesatuan sekerja yang berkenaan selepas melaporkan kepada Ketua Pengarah di bawah subseksyen 9(4) Akta 177 atau tuntutan tersebut telah diputuskan oleh Menteri di bawah subseksyen 9(5), yang menyebabkan kesatuan sekerja pekerja tersebut
+
+<!-- marginal: tidak diberi -->
+
+pengiktirafan.
 
 13. Fasal 12 bertujuan untuk memasukkan subseksyen baru 13(2A) ke dalam Akta 177 untuk menggalakkan peruntukan berkenaan latihan, semakan semula tahunan bagi sistem upah dan sistem berasaskan prestasi dimasukkan ke dalam perjanjian bersama.
 
@@ -612,4 +616,6 @@ bahawa jika pekerja yang telah membuat representasi supaya diberi semula kerja t
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya belum dapat ditentukan sekarang ini. [PN(U2)2187]
+Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya belum dapat ditentukan sekarang ini.
+
+<!-- marginal: [PN(U2)2187] -->

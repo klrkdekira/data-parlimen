@@ -538,9 +538,7 @@ Pertama sekurang-kurangnya enam puluh hari sebelum habis tempoh lesen dan hendak
 
 (3) Agensi pekerjaan swasta hendaklah mengemukakan semua rekod di bawah subseksyen (1) jika Ketua Pengarah, melalui arahan bertulis, menghendaki agensi pekerjaan swasta supaya mengemukakan rekod itu.
 
-(4) Agensi pekerjaan swasta yang melanggar subseksyen (1),
-
-(2) atau (3) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua puluh ribu ringgit.”.
+(4) Agensi pekerjaan swasta yang melanggar subseksyen (1), (2) atau (3) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua puluh ribu ringgit.”.
 
 ### Seksyen baharu 19a
 
@@ -692,7 +690,7 @@ melakukan suatu kesalahan dan apabila disabitkan, boleh didenda tidak melebihi l
 
 35. Akta ibu dipinda dengan menggantikan Jadual dengan Jadual yang berikut:
 
-“Jadual Pertama
+## “JADUAL PERTAMA
 
 [Seksyen 8, 9a, 11, 13a, 13d, 13e, 13f, 14, 14a, 14b, 28]
 
@@ -746,9 +744,9 @@ melakukan suatu kesalahan dan apabila disabitkan, boleh didenda tidak melebihi l
 
 <!-- page 30 -->
 
-## Jadual Kedua
+## JADUAL KEDUA
 
-[Seksyen 8, 9, 9a, 11, 13e, 13f, 14c, 14d]
+[SEKSYEN 8, 9, 9A, 11, 13E, 13F, 14C, 14D]
 
 ### Kategori lesen
 
@@ -756,35 +754,47 @@ melakukan suatu kesalahan dan apabila disabitkan, boleh didenda tidak melebihi l
 
 ### Wang
 
-### Wang jaminan
+<!-- marginal: Wang jaminan -->
 
 ### berbayar
 
 ### jaminan
 
-### untuk
+<!-- marginal: untuk -->
 
 ### (RM)
 
 ### (RM)
 
-### menubuhkan
+<!-- marginal: menubuhkan -->
 
-### cawangan baru
+<!-- marginal: cawangan baru -->
 
-### (RM)
+<!-- marginal: (RM) -->
 
 ### Lesen A –
 
-RM50,000 RM5,000 RM5,000 Untuk penempatan pekerjaan bagi pencari kerja di dalam Malaysia
+RM50,000 RM5,000
+
+<!-- marginal: RM5,000 -->
+
+Untuk penempatan pekerjaan bagi pencari kerja di dalam Malaysia
 
 ### Lesen B –
 
-RM100,000 RM100,000 RM30,000 Untuk penempatan pekerjaan bagi pencari kerja di dalam dan di luar Malaysia, dan pekhidmat domestik asing di dalam Malaysia
+RM100,000 RM100,000
+
+<!-- marginal: RM30,000 -->
+
+Untuk penempatan pekerjaan bagi pencari kerja di dalam dan di luar Malaysia, dan pekhidmat domestik asing di dalam Malaysia
 
 ### Lesen C –
 
-RM250,000 RM250,000 RM100,000 Untuk penempatan pekerjaan bagi pencari kerja di dalam dan di luar Malaysia, dan pekerja bukan warganegara di dalam Malaysia ”.
+RM250,000 RM250,000
+
+<!-- marginal: RM100,000 -->
+
+Untuk penempatan pekerjaan bagi pencari kerja di dalam dan di luar Malaysia, dan pekerja bukan warganegara di dalam Malaysia ”.
 
 ### Kecualian dan peralihan
 
@@ -882,4 +892,6 @@ Seksyen baharu 14e bertujuan untuk mengadakan peruntukan bagi pemulangan wang ja
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN(U2)2887]
+Rang Undang-undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
+
+<!-- marginal: [PN(U2)2887] -->

@@ -50,11 +50,31 @@ Discharge 33A. (1) The Official Assignee may, in his of discretion but subject t
 
 (b) the debts proved in the bankruptcy do not exceed five hundred thousand ringgit or such other sum as may be prescribed.
 
-(3) Notice of every discharge under subsection (1) shall be given by the Official Assignee to the Registrar and the Official Assignee shall advertise the notice in a local newspaper as prescribed.
+(3) Notice of every discharge under subsection
+
+(1) shall be given by the Official Assignee to the Registrar and the Official Assignee shall advertise the notice in a local newspaper as prescribed.
 
 (4) The Official Assignee shall, upon the application of any interested person, issue a copy of the certificate of discharge to the applicant upon payment of the prescribed fee.
 
-Objection by 33B. (1) Before issuing a certificate of discharge creditor to under section 33A, the Official Assignee shall discharge of bankrupt serve on each creditor who has filed a proof of under section debt a notice of his intention to issue the 33A. certificate, together with a statement of his reasons for wanting to do so.
+<!-- marginal: Objection by -->
+
+33B. (1) Before issuing a certificate of discharge
+
+<!-- marginal: creditor to -->
+
+under section 33A, the Official Assignee shall
+
+<!-- marginal: discharge of -->
+
+<!-- marginal: bankrupt -->
+
+serve on each creditor who has filed a proof of
+
+<!-- marginal: under section -->
+
+debt a notice of his intention to issue the
+
+33A. certificate, together with a statement of his reasons for wanting to do so.
 
 (2) A creditor who has been served with a notice under subsection (1) and who wishes to object to the issuance of a certificate discharging the bankrupt shall, within twenty-one days from the date of service of the notice, furnish a notice of the objection stating the grounds of his objection.
 
@@ -66,7 +86,9 @@ Objection by 33B. (1) Before issuing a certificate of discharge creditor to unde
 
 (5) Every application under subsection (4) shall be served on the Official Assignee and on the bankrupt and the court shall hear the Official Assignee and the bankrupt before making an order on the application.
 
-(6) On an application made under subsection (4), the court may, if it thinks it just and expedient—
+(6) On an application made under subsection
+
+(4), the court may, if it thinks it just and expedient—
 
 (a) dismiss the application;
 
@@ -80,7 +102,13 @@ Objection by 33B. (1) Before issuing a certificate of discharge creditor to unde
 
 35 the following Section:
 
-"Effect of 35. (1) Subject to this section and any condition discharge. imposed by the court under section 33, where a bankrupt is discharged, the discharge shall release him from all his debts provable in the bankruptcy but shall have no effect—
+<!-- marginal: "Effect of -->
+
+35. (1) Subject to this section and any condition
+
+<!-- marginal: discharge. -->
+
+imposed by the court under section 33, where a bankrupt is discharged, the discharge shall release him from all his debts provable in the bankruptcy but shall have no effect—
 
 (a) on the functions (so far as they remain to be carried out) of the Official Assignee; or
 
@@ -96,11 +124,7 @@ Objection by 33B. (1) Before issuing a certificate of discharge creditor to unde
 
 law relating to any branch of the public revenue; or
 
-(ii) any other public officer on a bail bond entered into for
-
-<!-- marginal: the -->
-
-appearance of any person prosecuted for any such offence; or
+(ii) any other public officer on a bail bond entered into for the appearance of any person prosecuted for any such offence; or
 
 (c) any provable debt which he incurred in respect of, or forbearance in respect of which was secured by means of, any fraud or fraudulent breach of trust to which he was party; or
 
@@ -124,7 +148,23 @@ by the discharge, or from any liability as surety for the bankrupt or as a perso
 
 35 the following section:
 
-"Dis- 35A. A discharged bankrupt shall, not- charged withstanding his discharge, give such assistance bankrupt to give as the Official Assignee requires in the realization assistance. and distribution of such of his property as is vested in the Official Assignee, and if the discharged bankrupt fails to do so—
+<!-- marginal: "Dis- -->
+
+35A. A discharged bankrupt shall, not-
+
+<!-- marginal: charged -->
+
+withstanding his discharge, give such assistance
+
+<!-- marginal: bankrupt -->
+
+<!-- marginal: to give -->
+
+as the Official Assignee requires in the realization
+
+<!-- marginal: assistance. -->
+
+and distribution of such of his property as is vested in the Official Assignee, and if the discharged bankrupt fails to do so—
 
 (a) he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding six months or to both; and
 
@@ -138,7 +178,21 @@ by the discharge, or from any liability as surety for the bankrupt or as a perso
 
 39 the following section:
 
-List of 39. (1) The Official Assignee shall keep and undis- maintain a list of undischarged bankrupts. charged bankrupts to be kept. (2) The list under subsection (1) shall be available, at all reasonable times, for inspection by any member of the public at any office of the Official Assignee.
+<!-- marginal: List of -->
+
+39. (1) The Official Assignee shall keep and
+
+<!-- marginal: undis- -->
+
+maintain a list of undischarged bankrupts.
+
+<!-- marginal: charged -->
+
+<!-- marginal: bankrupts -->
+
+<!-- marginal: to be kept. -->
+
+(2) The list under subsection (1) shall be available, at all reasonable times, for inspection by any member of the public at any office of the Official Assignee.
 
 (3) The name of a deceased bankrupt shall be removed from the list five years after the end of the administration of his estate in bankruptcy.
 

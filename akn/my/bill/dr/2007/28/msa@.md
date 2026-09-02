@@ -18,17 +18,17 @@ DAN BAHAWASANYA perkara-perkara yang berhubungan dengan pengurusan sisa pepejal 
 
 DAN BAHAWASANYA dihasratkan supaya ada undang-undang dan dasar yang seragam dalam perkara-perkara yang berhubungan dengan pengurusan sisa pepejal terkawal dan pembersihan awam di seluruh Semenanjung Malaysia dan Wilayah Persekutuan Putrajaya dan Labuan;
 
-DAN BAHAWASANYA bagi maksud keseragaman itu kuasa eksekutif diletakhakkan pada Persekutuan bagi perkara-perkara yang berhubungan dengan pengurusan sisa pepejal
-
-<!-- marginal: terkawal dan -->
-
-pembersihan awam di seluruh Semenanjung Malaysia dan Wilayah Persekutuan Putrajaya dan Labuan melalui Akta Pengurusan Sisa Pepejal dan Pembersihan Awam 2007 [Akta ];
+DAN BAHAWASANYA bagi maksud keseragaman itu kuasa eksekutif diletakhakkan pada Persekutuan bagi perkara-perkara yang berhubungan dengan pengurusan sisa pepejal terkawal dan pembersihan awam di seluruh Semenanjung Malaysia dan Wilayah Persekutuan Putrajaya dan Labuan melalui Akta Pengurusan Sisa Pepejal dan Pembersihan Awam 2007 [Akta ];
 
 DAN BAHAWASANYA adalah suai manfaat Akta Jalan, Parit dan Bangunan 1974, suatu Akta yang diperbuat menurut Fasal (4) Perkara 76 Perlembagaan Persekutuan, dipinda berbangkit daripada peletakhakan itu;
 
 <!-- page 2 -->
 
-MAKA, OLEH YANG DEMIKIAN, menurut peruntukan Fasal (4) Perkara 76 Perlembagaan Persekutuan, DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
+MAKA, OLEH YANG DEMIKIAN, menurut peruntukan Fasal (4)
+
+## Perkara 76 Perlembagaan Persekutuan, DIPERBUAT oleh Parlimen
+
+Malaysia seperti yang berikut:
 
 ### Tajuk ringkas, pemakaian dan permulaan kuat kuasa
 

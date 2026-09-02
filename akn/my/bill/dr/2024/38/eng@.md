@@ -28,17 +28,13 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (a) in subsection (2)—
 
-(i) in paragraph (a), by substituting for the words “Parts I, II and IV” the words “Parts I and II,
-
-## Chapter 2 of Part III and Part IV”; and
+(i) in paragraph (a), by substituting for the words “Parts I, II and IV” the words “Parts I and II, Chapter 2 of Part III and Part IV”; and
 
 (ii) in paragraph (b), by substituting for the words “Part III” the words “Chapter 1 of Part III”;
 
 (b) in subsection (3)—
 
-(i) in paragraph (a), by substituting for the words “Parts I, II and IV” the words “Parts I and II,
-
-## Chapter 2 of Part III and Part IV”; and
+(i) in paragraph (a), by substituting for the words “Parts I, II and IV” the words “Parts I and II, Chapter 2 of Part III and Part IV”; and
 
 (ii) in paragraph (b), by substituting for the words “Part III” the words “Chapter 1 of Part III”;
 
@@ -276,9 +272,7 @@ This Bill seeks to amend the Arbitration Act 2005 (“Act 646”) to enhance Mal
 
 11. Clause 10 seeks to amend Part III of Act 646 on additional provisions relating to arbitration by dividing Part III into two Chapters to accommodate the introduction of provisions of third party funding of arbitration into Act 646.
 
-Subclause 10(a) seeks to amend Part III by inserting after the heading of
-
-## Part III the heading for the new Chapter 1.
+Subclause 10(a) seeks to amend Part III by inserting after the heading of Part III the heading for the new Chapter 1.
 
 <!-- page 13 -->
 

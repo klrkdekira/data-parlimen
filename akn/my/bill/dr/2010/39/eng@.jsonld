@@ -1,0 +1,855 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-39-2010",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_26"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Merchant Shipping (Oil Pollution) (Amendment) Bill 2010"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 5 the following section: “Restriction of liability for bunker oil pollution damage under section 3A 5A. (1) Where an incident occurs and pollution damage results from the incident, whether or not the owner of the ship incurs a liability under section 3A, the owner of the ship shall not be liable for such pollution damage otherwise than under that section. (2) The liability for pollution damage shall not apply to— (a) any servant or agent of the owner of the ship or any member of the crew; (b) the pilot or any other person who, not being a member of the crew, performs services for the ship; (c) any charterer, howsoever described, but not including a bareboat charterer; (d) any person performing salvage operations with the consent of the owner of the ship or on the instructions of a competent public authority; (e) any person taking preventive measures; (f) all servants or agents of the persons mentioned in paragraphs (c), (d) and (e), unless the pollution damage resulted from their own act or omission, committed with the intent to cause such damage, or recklessly and with the knowledge that such damage would probably result.”. New section 6A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 6 the following section: “Limitation of liability under section 3A 6A. (1) Where the owner of a ship incurs a liability under section 3A in respect of any one incident, the provision relating to the limitation of liability of the owner of the ship in certain cases of loss or damage under any other written law relating to merchant shipping shall not apply to that liability. (2) The owner of a ship who incurs a liability under section 3A may limit his liability in accordance with the Convention on Limitation of Liability for Maritime Claims 1976 as amended by the Protocol of 1996 to amend the Convention on Limitation of Liability for Maritime Claims 1976, as set out in the Sixteenth Schedule of the Merchant Shipping Ordinance 1952. (3) If it is proved that the pollution damage resulted from an act or omission of the owner of the ship, committed with the intent to cause such damage, or recklessly and with the knowledge that such damage would probably result, he shall not be entitled to limit his liability under subsection (2).”. Amendment of section 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 7 of the principal Act is amended by substituting for subsection (1) the following subsection: “(1) Where the owner of a ship has or is alleged to have incurred a liability— (a) under section 3, he may apply to the Court for the limitation of that liability to an amount determined in accordance with section 6; or (b) under section 3A, he may apply to the Court for the limitation of that liability to an amount determined in accordance with section 6A.”. Substitution of section 8"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 8 the following section: “Restriction on enforcement of claims after establishment of limitation fund 8. Where the Court has found that a person who has incurred a liability— (a) under section 3, is entitled to limit that liability under section 6; or (b) under section 3A, is entitled to limit that liability under section 6A, and he has paid a sum or deposited a bank guarantee or security into the Court for a sum not less than that amount— (aa) the Court shall order the release of any ship or other property arrested in connection with the claim in respect of that liability or any bail or other security given to avoid such arrest; and (bb) no judgment or order in respect of any such claim shall be enforced, except so far as it is for costs, if the claimant has access to the Court and if the payment or the bank guarantee or security or such part thereof as corresponds to the claim will be actually available to the claimant, or would have been available to him, if the proper steps in the proceedings under section 7 had been taken.”. Amendment of section 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_14__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_14__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 9 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “under section 3” the words “or 3A”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “another Liability Convention country” the words “another Liability Convention country or Bunkers Convention country, respectively”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_14__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “sections 3 and 7” the words “sections 3 or 3A, and 7”. Amendment of section 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 10 of the principal Act is amended by inserting after the words “section 3” the words “or 3A”. Amendment of section 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 11 of the principal Act is amended in the shoulder note by inserting after the word “for” the word “oil”. New section 11A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 11 the following section: “Compulsory insurance against liability for bunker oil pollution 11A. (1) Subject to the provisions of this Act relating to Government ships, this section shall apply to any ship having a gross tonnage greater than 1,000 tonnes. (2) Any such ship shall not enter or leave a port in Malaysia or arrive at or leave a terminal installation area in any area of Malaysia or, if the ship is registered in Malaysia, it shall not enter or leave a port in any other country or a terminal installation in the territorial sea of any other country, unless there is in force a certificate complying with subsection (3) and showing that there is in force in respect of the ship a contract of insurance or other financial security satisfying the requirements of Article 7 of the Bunkers Convention (cover for owner’s liability). (3) The certificate shall be— (a) if the ship is registered in Malaysia, a certificate issued by the Director of Marine; (b) if the ship is registered in a Bunkers Convention country other than Malaysia, a certificate issued by or under the authority of the government of that country; and (c) if the ship is registered in a country which is not a Bunkers Convention country, a certificate issued by the Director of Marine or a certificate issued by or under the authority of any Bunkers Convention country. (4) The certificate issued under paragraphs (3)(a) and (c) by the Director of Marine shall be in the national language and shall also include a translation in the English language. (5) Any certificate required by this section to be in force in respect of a ship shall be carried in the ship and shall, on demand, be produced by the master to the Director of Marine or any authorized officer. (6) If a ship enters or leaves, or attempts to enter or leave, a port or arrives at or leaves or attempts to arrive at or leave, a terminal installation in contravention of subsection (2), the master or the owner of the ship shall be guilty of an offence and shall be liable on conviction to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding four years or to both. (7) If a ship fails to carry or the master of a ship fails to produce a certificate as required by subsection (5), the master of the ship shall be guilty of an offence and shall be liable on conviction to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding one year or to both. (8) If a ship attempts to leave a port or a terminal installation in Malaysia in contravention of this section, the ship may be detained.”. Amendment of section 12"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_18__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 12 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: “(1A) Subject to subsection (2), if the Director of Marine is satisfied, on an application for such certificate as is mentioned in section 11A in respect of a ship registered in Malaysia or any country which is not a Bunker’s Convention country, that there will be in force in respect of the ship, throughout the period for which the certificate is to be issued, a valid contract of insurance or other financial security satisfying the requirements Article 7 of the Bunkers Convention, the Director of Marine shall issue such certificate to the registered owner.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by inserting after the words “section 3” the words “or 3A”. Amendment of section 13"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_19__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_19__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 13 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_19__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_19__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_19__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_19__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “section 3” the words “or 3A”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_19__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_19__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “section 11” the words “or 11A, respectively,”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_19__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_19__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_19__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_19__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_19__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “subsection 6(2)” the words “or 6A(2), as the case may be,”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_19__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_19__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “subsection 6(3)” the words “or 6A(3), as the case may be”. Amendment of section 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Merchant Shipping (Oil Pollution) (Amendment) Act 2010."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Amendment of long title"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Merchant Shipping (Oil Pollution) Act 1994 [Act 515], which is referred to as the “principal Act” in this Act, is amended in the long title by inserting after the word “oil” the words “and bunker oil”. Amendment of short title"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_20__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_20__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 14 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_20__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (2) the following subsection: “(2) In relation to a ship owned by a State and for the time being used for commercial purposes— (a) it shall be sufficient compliance with subsection 11(2) if there is in force a certificate issued by the appropriate authority of that State and showing that the ship is owned by that State and that any liability for pollution damage as defined in Article 1 of the Liability Convention will be met up to the limit prescribed by Article V of that Convention; or (b) it shall be sufficient compliance with subsection 11A(2) if there is in force a certificate issued by the appropriate authority of that State and showing that the ship is owned by that State and that any liability for pollution damage as defined in Article 1 of the Bunkers Convention will be met up to the limits set out in Chapter II of the Convention on Limitation of Liability for Maritime Claims 1976 as amended by the Protocol of 1996 to amend the Convention on Limitation of Liability for Maritime Claims 1976, and as set out in the Sixteenth Schedule of the Merchant Shipping Ordinance 1952.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_20__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_20__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_20__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_20__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_20__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after words “Liability Convention” the words “or Bunkers Convention”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_20__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_20__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “section 3” the words “or 3A, respectively”. Amendment of section 23"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_21__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_21__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 23(2) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_21__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “oil” the words “or bunker oil”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_21__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraphs (a) and (b), by inserting after the words “Liability Convention country” wherever appearing the words “or Bunkers Convention country”. Amendment of section 24"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_22__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_22__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_22__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 24(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_22__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by deleting the word “or”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_22__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by substituting for the comma appearing at the end of the paragraph the words “; or”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_22__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (b) the following paragraph: “(c) a Bunkers Convention country to enforce a claim in respect of a liability incurred under any provision corresponding to section 3A,”. Amendment of section 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_23__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_23__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 26 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_23__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the words “, detention and prosecution” the words “and detention”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_23__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (3). New section 28A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 28 the following section: “Prosecution 28A. (1) No prosecution for any offence under this Act or any regulations made thereunder shall be instituted except with the consent in writing of the Public Prosecutor. (2) The Director of Marine or any authorized officer, authorized in writing by the Public Prosecutor, may conduct the prosecution of any offence committed under this Act or any regulations made thereunder.”. Amendment of section 29"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_25__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_25__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_25__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 29(2) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_25__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by deleting the words “under subsection 12(1)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_25__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by deleting the words “under subsection 12(1)”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_25__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c), by deleting the words “under subsection 12(1)”. Amendment of Second Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for the Second Schedule the following schedule: “SECOND SCHEDULE [subsection 24(3)] STATE PARTIES TO THE LIABILITY CONVENTION Albania Lithuania Algeria Luxembourg Angola Madagascar Antigua and Barbuda Maldives Argentina Malta Australia Marshall Islands Azerbaijan Mauritius Bahamas Mexico Bahrain Monaco Barbados Mongolia Belgium Morocco Belize Mozambique Brunei Darussalam Namibia Bulgaria Netherlands Cambodia New Zealand Cameroon Nigeria Canada Norway Cape Verde Oman Chile Pakistan Colombia Panama Comoros Papua New Guinea Congo People’s Republic of China Cook Islands Peru Croatia Philippines Cyprus Poland Denmark Portugal Djibouti Qatar Dominica Republic of Korea Dominican Republic Republic of Moldova Ecuador Romania Egypt Russian Federation El Salvador Saint Kitts and Nevis Estonia Saint Lucia Fiji Saint Vincent and Grenadines Finland Samoa France Saudi Arabia Gabon Seychelles Georgia Sierra Leone Germany Singapore Ghana Slovenia Greece Solomon Islands Grenada South Africa Guinea Spain Hong Kong Special Administrative Sri Lanka Region of the People’s Republic of Sweden China Switzerland Hungary Syrian Arab Republic Iceland Tonga India Trinidad and Tobago Indonesia Tunisia Ireland Turkey Islamic Republic of Iran Tuvalu Israel Ukraine Italy United Arab Emirates Jamaica United Kingdom Japan United Republic of Tanzania Kenya Uruguay Kiribati Vanuatu Kuwait Venezuela Latvia Vietnam Lebanon Yemen Liberia STATE PARTIES TO THE FUND CONVENTION Albania Liberia Algeria Lithuania Angola Luxembourg Antigua and Barbuda Madagascar Argentina Maldives Australia Malta Bahamas Marshall Islands Bahrain Mauritius Barbados Mexico Belgium Monaco Belize Morocco Brunei Darussalam Mozambique Bulgaria Namibia Cambodia Netherlands Cameroon New Zealand Canada Nigeria Cape Verde Norway Colombia Oman Comoros Panama Congo Papua New Guinea Cook Islands Philippines Croatia Poland Cyprus Portugal Denmark Qatar Djibouti Republic of Korea Dominica Russian Federation Dominican Republic Saint Kitts and Nevis Ecuador Saint Lucia Estonia Saint Vincent and Grenadines Fiji Samoa Finland Seychelles France Sierra Leone Gabon Singapore Georgia Slovenia Germany South Africa Ghana Spain Greece Sri Lanka Grenada Sweden Guinea Switzerland Hong Kong Special Administrative Syrian Arab Republic Region of the People’s Republic of Tonga China Trinidad and Tobago Hungary Tunisia Iceland Turkey India Tuvalu Ireland United Arab Emirates Islamic Republic of Iran United Kingdom Israel United Republic of Tanzania Italy Uruguay Jamaica Vanuatu Japan Venezuela Kenya Kiribati Latvia STATE PARTIES TO THE BUNKERS CONVENTION Albania Liberia Antigua and Barbuda Lithuania Australia Luxembourg Bahamas Malta Barbados Marshall Islands Belgium Morocco Bulgaria Norway Canada Panama Cook Islands People’s Republic of China Croatia Poland Cyprus Republic of Korea Democratic People’s Republic of Romania Korea Russian Federation Denmark Saint Kitts and Nevis Egypt Saint Vincent and Grenadines Estonia Samoa Ethiopia Sierra Leone Finland Singapore Germany Slovenia Greece Spain Hungary Syria Ireland Tonga Jamaica Tuvalu Jordan United Kingdom Kiribati Vanuatu.”. Latvia"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for the short title “Merchant Shipping (Oil Pollution) Act 1994” the short title “Merchant Shipping (Liability and Compensation for Oil and Bunker Oil Pollution) Act 1994”. Reference to the principal Act"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_4__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All references to the Merchant Shipping (Oil Pollution) Act 1994 in any written law or document shall, on the coming into operation of this Act, be construed as references to the Merchant Shipping (Liability and Compensation for Oil and Bunker Oil Pollution) Act 1994."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All references to the Merchant Shipping (Oil Pollution) Act 1994 in any proceedings, whether civil or criminal, or any cause of action commenced, pending or existing before the coming into operation of this Act, shall, on the coming into operation of this Act, continue to apply and not be affected as if it had not been amended by this Act. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_5__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 2 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_5__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_5__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_5__para_a__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_5__para_a__subpara_iv",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_5__para_a__subpara_v",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_5__para_a__subpara_vi",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_5__para_a__subpara_vii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_5__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_5__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “ship” the following definition: ‘ “ship”— (a) in relation to a liability incurred under section 3, means any seagoing vessel and seaborne craft of any type constructed or adapted for the carriage of oil in bulk as cargo, provided that a ship capable of carrying oil and other cargoes shall be regarded as a ship only when it is actually carrying oil in bulk as cargo and during any voyage following such carriage unless it is proved that it has no residues of such carriage of oil in bulk aboard; or (b) in relation to a liability incurred under section 3A, means any seagoing vessel and seaborne craft of any type;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_5__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_5__para_a__subpara_ii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_5__para_a__subpara_ii__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_5__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “pollution damage”, in paragraph (a)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_5__para_a__subpara_ii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_5__para_a__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “escape of oil” the words “or bunker oil”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_5__para_a__subpara_ii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_5__para_a__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the semicolon appearing at the end of the paragraph the word “and”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_5__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_5__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “authorized officer” the following definition: ‘ “Bunkers Convention” means the International Convention on Civil Liability for Bunker Oil Pollution Damage 2001 signed in London on 23 March 2001;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_5__para_a__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_5__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting before the definition of “Court” the following definition: ‘ “bunker oil” means any hydrocarbon mineral oil, including lubricating oil, used or intended to be used for the operation or propulsion of the ship, and any residues of such oil;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_5__para_a__subpara_v",
+      "@type": "akn:subparagraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_5__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “Bunkers Convention” the following definition: ‘ “Bunkers Convention country” means a country in respect of which the Bunkers Convention is in force;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_5__para_a__subpara_vi",
+      "@type": "akn:subparagraph",
+      "eli:number": "vi",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_5__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “owner” the following definition: ‘ “owner”— (a) in relation to a ship that incurs liability under section 3, means the registered owner; or (b) in relation to a ship that incurs liability under section 3A, means the registered owner, bareboat charterer, or manager and operator of the ship;’; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_5__para_a__subpara_vii",
+      "@type": "akn:subparagraph",
+      "eli:number": "vii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_5__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “preventive measures” the following definition: ‘ “registered owner” means the person registered as the owner of the ship or, in the absence of registration, the person owning the ship, except that in relation to a ship owned by a State and operated by a company which in that State is registered as the ship’s operator, “registered owner” shall mean such company;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2) in the English language text, by substituting for the words “resulting from the discharge or escape of any oil from” the words “caused by”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (3)(a), by inserting after the words “Liability Convention country” wherever appearing the words “or Bunkers Convention country”. Amendment of heading to Part II"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Part II of the principal Act is amended by substituting for the heading “CIVIL LIABILITY FOR OIL POLLUTION” the heading “CIVIL LIABILITY FOR OIL AND BUNKER OIL POLLUTION”. New section 3A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 3 the following section: “Liability for bunker oil pollution 3A. (1) The owner of a ship at the time of an incident, or where the incident consists of a series of occurrences having the same origin, at the time of the first occurrence, shall, except as otherwise provided for by this Act, be liable for any pollution damage caused by the ship as a result of the incident in any area of Malaysia. (2) Where more than one person is liable in accordance with subsection (1), their liability shall be joint and several. (3) Further, the owner of the ship shall be liable for any pollution damage caused to any area of any other Bunkers Convention country as a result of any incident specified in subsection (1). (4) Where an incident involving two or more ships occurs and pollution damage results from the incident, the owners of all the ships concerned shall, unless exonerated under section 4, be jointly and severally liable for all such pollution damage which is not reasonably separable.”. Amendment of section 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_8__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_8__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 4 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by inserting after the words “section 3” the words “or 3A”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_8__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_8__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_8__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_8__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “oil” the words “or bunker oil”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_8__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_8__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “section 3” the words “or 3A”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_8__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection 2, by inserting after the word “oil” the words “or bunker oil”. Amendment of section 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/39/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 5 of the principal Act is amended in the shoulder note by inserting after the word “damage” the words “under section 3”. New section 5A"
+      }
+    }
+  ]
+}

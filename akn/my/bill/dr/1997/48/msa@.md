@@ -22,15 +22,37 @@ I
 
 II
 
-A
+<!-- marginal: A -->
 
 ## KUMPULAN WAN G BERSAM A
 
-3. Pemegang amanah dan penjaga. 4. Daftar. 5. Tatacara pendaftaran. 6. Kumpulan wang persendirian. 7. Permohonan oleh kumpulan wang persendirian. 8. Kuasa untuk memberikan atau enggan memberikan keizinan bagi kumpulan wang persendirian. 9. Kumpulan wang awam. 10. Permohonan oleh kumpulan wang awam. 11. Kuasa untuk membenarkan atau enggan membenarkan pendaftaran kumpulan wang awam. 12. Pengurus dan pentadbir. 13. Permohonan untuk mendapatkan lesen dan pendaftaran.
+3. Pemegang amanah dan penjaga. 4. Daftar. 5. Tatacara pendaftaran. 6. Kumpulan wang persendirian. 7. Permohonan oleh kumpulan wang persendirian. 8. Kuasa untuk memberikan atau enggan memberikan keizinan bagi kumpulan wang persendirian. 9. Kumpulan wang awam.
+
+10. Permohonan oleh kumpulan wang awam.
+
+11. Kuasa untuk membenarkan atau enggan membenarkan pendaftaran kumpulan wang awam.
+
+12. Pengurus dan pentadbir.
+
+13. Permohonan untuk mendapatkan lesen dan pendaftaran.
 
 <!-- page 2 -->
 
-14. Kuasa untuk memberikan atau enggan memberikan lesen dan pendaftaran. 15. Kewajipan dan pelantikan. 16. Akaun dan audit. 17. Prospektus. 18. Hak pelabur. 19. Batasan. 20. Perakuan pematuhan. 21. Butir-butir dan pertukaran alamat. 22. Keizinan, lesen atau pendaftaran. 23. Pembatalan keizinan, lesen atau pendaftaran. 24. Tatacara pembatalan. 25. Rayuan. 26. Tatacara rayuan. 27. Penguatkuasaan. 28. Kerahsiaan. 29. Perubahan peruntukan statutori.
+14. Kuasa untuk memberikan atau enggan memberikan lesen dan pendaftaran. 15. Kewajipan dan pelantikan.
+
+16. Akaun dan audit. 17. Prospektus. 18. Hak pelabur. 19. Batasan.
+
+20. Perakuan pematuhan.
+
+21. Butir-butir dan pertukaran alamat.
+
+22. Keizinan, lesen atau pendaftaran.
+
+23. Pembatalan keizinan, lesen atau pendaftaran.
+
+24. Tatacara pembatalan.
+
+25. Rayuan. 26. Tatacara rayuan. 27. Penguatkuasaan. 28. Kerahsiaan. 29. Perubahan peruntukan statutori.
 
 ## BAHAGIAN
 
@@ -48,7 +70,25 @@ IV
 
 ## PELBAGAI
 
-40. Tanggung rugi. 41. Percanggahan antara undang-undang. 42. Kuasa pengecualian. 43. Kesalahan dan penalti am. 44. Penyampaian notis, dokumen, dsb. 45. Fee. 46. Salah nyataan. 47. Mengkompaun kesalahan. 48. Pendakwaan. 49. Fee dan penalti. 50. Peraturan-peraturan. 51. Arahan oleh Menteri. 52. Kuasa Menteri untuk membuat pengubahsuaian. 53. Tatacara jika tiada dinyatakan. 54. Ketakpakaian undang-undang tertentu yang ada sekarang. 55. Peralihan. 56. Peruntukan kecualian.
+40. Tanggung rugi.
+
+41. Percanggahan antara undang-undang.
+
+42. Kuasa pengecualian.
+
+43. Kesalahan dan penalti am.
+
+44. Penyampaian notis, dokumen, dsb.
+
+45. Fee.
+
+46. Salah nyataan.
+
+47. Mengkompaun kesalahan.
+
+48. Pendakwaan.
+
+49. Fee dan penalti. 50. Peraturan-peraturan. 51. Arahan oleh Menteri. 52. Kuasa Menteri untuk membuat pengubahsuaian. 53. Tatacara jika tiada dinyatakan. 54. Ketakpakaian undang-undang tertentu yang ada sekarang. 55. Peralihan. 56. Peruntukan kecualian.
 
 <!-- page 5 -->
 
@@ -98,7 +138,11 @@ berhubungan dengan Labuan atau undang-undang mana- mana negara atau bidang kuasa
 
 "anggota pedagang" ertinya seseorang yang diterima menjadi anggota Bursa dan diberi kuasa untuk menjalan- kan perniagaan berniaga sekuriti menurut kaedah- kaedah Bursa;
 
-"bank luar pesisir" ertinya suatu bank yang dilesenkan Akta 443. di bawah subseksyen 6(2) Akta Bank Luar Pesisir 1990;
+"bank luar pesisir" ertinya suatu bank yang dilesenkan
+
+<!-- marginal: Akta 443. -->
+
+di bawah subseksyen 6(2) Akta Bank Luar Pesisir 1990;
 
 "berniaga sekuriti" ertinya, sama ada sebagai prinsipal atau ejen, membuat atau menawarkan untuk membuat dengan mana-mana orang atau mendorong atau cuba untuk mendorong mana-mana orang untuk membuat atau menawarkan untuk membuat—
 
@@ -252,7 +296,11 @@ di bawah Akta Perkongsian Terhad Luar Pesisir Labuan 1997 atau di bawah undang-u
 
 "setiausaha" ertinya setiausaha Bursa buat masa ini dan termasuklah seseorang pemangku atau penolong setiausaha;
 
-"Suruhanjaya Sekuriti" mempunyai erti yang diberikan Akta 498. kepadanya di bawah Akta Suruhanjaya Sekuriti 1993;
+"Suruhanjaya Sekuriti" mempunyai erti yang diberikan
+
+<!-- marginal: Akta 498. -->
+
+kepadanya di bawah Akta Suruhanjaya Sekuriti 1993;
 
 "syarikat" ertinya suatu pertubuhan perbadanan di mana- mana jua diperbadankan atau ditubuhkan;
 
@@ -286,9 +334,15 @@ II
 
 ## KUMPULAN WANG BERSAMA
 
-Pemegang
+<!-- marginal: Pemegang -->
 
-3. (1) Tiada seorang pun boleh menjalankan perniagaan amanah dan di dalam atau dari dalam Labuan sebagai— penjaga.
+3. (1) Tiada seorang pun boleh menjalankan perniagaan
+
+<!-- marginal: amanah dan -->
+
+di dalam atau dari dalam Labuan sebagai—
+
+<!-- marginal: penjaga. -->
 
 (a) seorang pemegang amanah suatu kumpulan wang awam melainkan jika orang itu ialah suatu syarikat amanah; atau
 
@@ -302,7 +356,11 @@ Pemegang
 
 (3) Bagi maksud Akta ini, "mana-mana negara atau bidang kuasa yang diiktiraf ertinya mana-mana negara atau bidang kuasa sebagaimana yang ditetapkan secara bertulis.
 
-4. (1) Lembaga boleh menyimpan daftar yang berasingan Daftar. bagi—
+4. (1) Lembaga boleh menyimpan daftar yang berasingan
+
+<!-- marginal: Daftar. -->
+
+bagi—
 
 (a) kumpulan wang persendirian;
 
@@ -418,17 +476,53 @@ undang-undang mana-mana negara atau bidang kuasa yang diiktiraf; dan
 
 (c) maklumat yang dikehendaki di bawah seksyen 21.
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-8. Lembaga boleh memberikan atau enggan memberikan memberikan keizinan kepada sesuatu kumpulan wang persendirian dan atau enggan memberikan boleh memberikan keizinan tertakluk kepada apa-apa keizinan bagi terma, syarat, batasan atau sekatan. kumpulan wang persendirian. Kumpulan
+8. Lembaga boleh memberikan atau enggan memberikan
 
-9. (1) Kumpulan wang awam tidak boleh menjalankan wang awam. perniagaan atau mengaturkan atau mentadbirkan hal- ehwalnya di dalam atau dari dalam Labuan melainkan jika pendaftarannya telah dibenarkan di bawah perenggan 11(1)(a).
+<!-- marginal: memberikan -->
+
+keizinan kepada sesuatu kumpulan wang persendirian dan
+
+<!-- marginal: atau enggan -->
+
+<!-- marginal: memberikan -->
+
+boleh memberikan keizinan tertakluk kepada apa-apa
+
+<!-- marginal: keizinan bagi -->
+
+terma, syarat, batasan atau sekatan.
+
+<!-- marginal: kumpulan -->
+
+<!-- marginal: wang -->
+
+<!-- marginal: persendirian. -->
+
+<!-- marginal: Kumpulan -->
+
+9. (1) Kumpulan wang awam tidak boleh menjalankan
+
+<!-- marginal: wang awam. -->
+
+perniagaan atau mengaturkan atau mentadbirkan hal- ehwalnya di dalam atau dari dalam Labuan melainkan jika pendaftarannya telah dibenarkan di bawah perenggan 11(1)(a).
 
 (2) Penaja sesuatu kumpulan wang awam yang dicadangkan yang telah diberi suatu penerimaan sementara di bawah perenggan 11(1)(b) tidak boleh menjalankan perniagaan atau mengatur atau mentadbirkan hal-ehwalnya tanpa mendapatkan persetujuan bertulis daripada Lembaga terlebih dahulu.
 
-Permohonan
+<!-- marginal: Permohonan -->
 
-10. Permohonan oleh penaja bagi sesuatu kumpulan oleh wang awam yang dicadangkan atau oleh sesuatu kumpulan kumpulan wang awam. wang awam kepada Lembaga bagi pendaftaran untuk menjalankan perniagaan atau mengaturkan atau mentadbirkan hal-ehwalnya di dalam atau dari dalam Labuan hendaklah—
+10. Permohonan oleh penaja bagi sesuatu kumpulan
+
+<!-- marginal: oleh -->
+
+wang awam yang dicadangkan atau oleh sesuatu kumpulan
+
+<!-- marginal: kumpulan -->
+
+<!-- marginal: wang awam. -->
+
+wang awam kepada Lembaga bagi pendaftaran untuk menjalankan perniagaan atau mengaturkan atau mentadbirkan hal-ehwalnya di dalam atau dari dalam Labuan hendaklah—
 
 (a) dibuat dalam apa-apa bentuk dan mengandungi apa-apa maklumat sebagaimana yang ditetapkan; dan
 
@@ -486,9 +580,13 @@ pendaftaran sesuatu kumpulan wang awam; atau
 
 (5) Walaupun penerimaan sementara telah dibenarkan di bawah perenggan 11(1)(b) kepada suatu kumpulan wang awam yang dicadangkan, Lembaga boleh membenarkan pendaftaran kumpulan wang awam yang dicadangkan itu sebagai suatu kumpulan wang awam di bawah perenggan 1 1 ( 1 )( a ).
 
-Pengurus dan
+<!-- marginal: Pengurus dan -->
 
-12. (1) Tiada seorang pun boleh menjalankan perniagaan pentadbir. di dalam atau dari dalam Labuan sebagai—
+12. (1) Tiada seorang pun boleh menjalankan perniagaan
+
+<!-- marginal: pentadbir. -->
+
+di dalam atau dari dalam Labuan sebagai—
 
 (a) pengurus suatu kumpulan wang awam melainkan jika orang itu ialah suatu syarikat luar pesisir yang telah diberikan lesen untuk bertindak sebagai pengurus di bawah seksyen 14;
 
@@ -502,7 +600,11 @@ Pengurus dan
 
 (3) Perenggan 1 2 ( 1 )( b) tidak terpakai bagi seseorang yang—
 
-(a) merupakan suatu bank luar pesisir, suatu syarikat amanah atau suatu syarikat pengurusan yang Akta 441. dilesenkan di bawah seksyen 130c Akta Syarikat Luar Pesisir 1990; atau
+(a) merupakan suatu bank luar pesisir, suatu syarikat amanah atau suatu syarikat pengurusan yang
+
+<!-- marginal: Akta 441. -->
+
+dilesenkan di bawah seksyen 130c Akta Syarikat Luar Pesisir 1990; atau
 
 <!-- page 21 -->
 
@@ -542,9 +644,25 @@ kumpulan wang awam hendaklah dibuat kepada Lembaga mengikut cara yang ditetapkan
 
 <!-- page 22 -->
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-14. (1) Lembaga boleh memberikan atau enggan memberikan memberikan lesen atau membenarkan atau enggan atau enggan memberikan membenarkan pendaftaran kepada mana-mana pemohon. lesen dan pendaftaran. (2) Lembaga boleh enggan memberikan lesen atau membenarkan pendaftaran melainkan jika Lembaga berpuas hati bahawa pemohon itu—
+14. (1) Lembaga boleh memberikan atau enggan
+
+<!-- marginal: memberikan -->
+
+memberikan lesen atau membenarkan atau enggan
+
+<!-- marginal: atau enggan -->
+
+<!-- marginal: memberikan -->
+
+membenarkan pendaftaran kepada mana-mana pemohon.
+
+<!-- marginal: lesen dan -->
+
+<!-- marginal: pendaftaran. -->
+
+(2) Lembaga boleh enggan memberikan lesen atau membenarkan pendaftaran melainkan jika Lembaga berpuas hati bahawa pemohon itu—
 
 (a) ialah orang yang layak dan sesuai untuk melibatkan diri dalam perniagaan pengurusan atau pentadbiran kumpulan wang bersama; dan
 
@@ -554,9 +672,13 @@ Kuasa untuk
 
 (4) Tertakluk kepada keizinan bertulis Lembaga tiada perubahan boleh dibuat berkenaan dengan pengenalan, tempat tinggal, domisil, pemunyaan atau pemegangan syer pengurus atau pentadbir dalam tempoh kuat kuasa lesen atau pendaftaran.
 
-Kewajipan
+<!-- marginal: Kewajipan -->
 
-15. (1) Lembaga mempunyai— dan pelantikan.
+15. (1) Lembaga mempunyai—
+
+<!-- marginal: dan -->
+
+<!-- marginal: pelantikan. -->
 
 (a) kewajipan untuk menyelia kumpulan wang bersama, pengurus dan pentadbir mengikut Akta ini; dan
 
@@ -588,7 +710,7 @@ hendaklah—
 
 (2) Rekod perakaunan dan penyata kewangan yang dikehendaki disimpan mengikut subseksyen 16(1) boleh disimpan dalam mana-mana mata wang dan dalam apa-apa bahasa, tetapi jika disimpan dalam sesuatu bahasa selain bahasa kebangsaan atau bahasa Inggeris, suatu terjemahan ke dalam bahasa kebangsaan atau bahasa Inggeris, yang disahkan mengikut cara yang memuaskan Lembaga, hendaklah disimpan oleh kumpulan wang awam berserta dengan rekod perakaunan dan penyata kewangan itu.
 
-Prospektus.
+<!-- marginal: Prospektus. -->
 
 17. (1) Kumpulan wang awam berdaftar tidak boleh menawarkan sahamnya di dalam atau di luar Labuan kepada orang ramai melainkan jika sebelum tawaran itu dibuat—
 
@@ -698,9 +820,15 @@ yang dibuat di bawah Akta ini hendaklah disertakan dengan butir-butir yang berik
 
 secara sementara atau dilesenkan, mengikut mana-mana yang berkenaan, hendaklah dalam masa dua puluh satu hari selepas pertukaran itu terjadi memfailkan dengan Lembaga suatu notis yang ditandatangani olehnya yang menyatakan jenis pertukaran itu.
 
-Keizinan,
+<!-- marginal: Keizinan, -->
 
-22. Sesuatu keizinan, lesen atau pendaftaran yang lesen atau diberikan di bawah Akta ini hendaklah— pendaftaran.
+22. Sesuatu keizinan, lesen atau pendaftaran yang
+
+<!-- marginal: lesen atau -->
+
+diberikan di bawah Akta ini hendaklah—
+
+<!-- marginal: pendaftaran. -->
 
 (a) dalam bentuk yang ditetapkan;
 
@@ -710,9 +838,19 @@ Keizinan,
 
 (d) boleh diterima dalam semua mahkamah sebagai keterangan prima facie tentang fakta-fakta yang dinyatakan dalamnya.
 
-Pembatalan
+<!-- marginal: Pembatalan -->
 
-23. Lembaga boleh, tertakluk kepada seksyen 24 dan keizman, subseksyen 25(2), membatalkan apa-apa keizinan, lesen lesen atau pendaftaran. atau pendaftaran di bawah Akta ini—
+23. Lembaga boleh, tertakluk kepada seksyen 24 dan
+
+<!-- marginal: keizman, -->
+
+subseksyen 25(2), membatalkan apa-apa keizinan, lesen
+
+<!-- marginal: lesen atau -->
+
+<!-- marginal: pendaftaran. -->
+
+atau pendaftaran di bawah Akta ini—
 
 (a) atas permintaan pemegang keizinan, lesen atau pendaftaran itu; atau
 
@@ -772,17 +910,25 @@ lesen atau pendaftaran di bawah perenggan 23(b), Lembaga hendaklah—
 
 (4) Bagi maksud subseksyen 25(3), perayu tidak boleh menjalankan apa-apa perniagaan atau aktiviti tanpa mendapat kelulusan bertulis Lembaga terlebih dahulu.
 
-Tatacara
+<!-- marginal: Tatacara -->
 
-26. Rayuan di bawah subseksyen 25(2) hendaklah dibawa rayuan. dengan—
+26. Rayuan di bawah subseksyen 25(2) hendaklah dibawa
+
+<!-- marginal: rayuan. -->
+
+dengan—
 
 (a) menyampaikan kepada Lembaga suatu notis rayuan dalam masa dua puluh satu hari, atau apa-apa tempoh yang lebih panjang sebagaimana yang dibenarkan oleh Menteri, selepas perayu menerima notis yang dikehendaki di bawah subseksyen 24(2); dan
 
 (b) saman untuk mendengar rayuan di hadapan mahkamah.
 
-Penguat-
+<!-- marginal: Penguat- -->
 
-27. (1) Bagi maksud menunaikan kewajipan yang kuasaan. dikenakan ke atas Lembaga di bawah Akta ini, Lembaga atau mana-mana orang yang diberi kuasa olehnya boleh pada bila-bila masa yang munasabah secara bertulis mengarahkan mana-mana orang yang baginya Akta ini terpakai supaya—
+27. (1) Bagi maksud menunaikan kewajipan yang
+
+<!-- marginal: kuasaan. -->
+
+dikenakan ke atas Lembaga di bawah Akta ini, Lembaga atau mana-mana orang yang diberi kuasa olehnya boleh pada bila-bila masa yang munasabah secara bertulis mengarahkan mana-mana orang yang baginya Akta ini terpakai supaya—
 
 (a) memberikan apa-apa maklumat; atau
 
@@ -812,7 +958,7 @@ Lembaga boleh—
 
 (3) Lembaga boleh membawa tindakan dan memulakan prosiding bagi penguatkuasaan mana-mana peruntukan Akta ini atau bagi mendapatkan fee atau jumlah wang lain yang kena dibayar di bawah Akta ini.
 
-Kerahsiaan.
+<!-- marginal: Kerahsiaan. -->
 
 28. (1) Kecuali sebagaimana yang diperuntukkan dalam subseksyen 28(2) dan seksyen 4, apa-apa maklumat, bahan atau dokumen yang diberikan atau difailkan dengan Lembaga di bawah Akta ini adalah terlindung dan tidak boleh didedahkan kepada mana-mana orang kecuali atas perintah mahkamah.
 
@@ -862,15 +1008,25 @@ syer yang hendak ditebus, atau yang boleh ditebus, mengikut pilihan syarikat ata
 
 agregat syer yang ditebus atau dibeli sedemikian seolah- olah syer itu tidak pernah diterbitkan dan pengeluaran syer itu di bawah kuasa yang terkandung dalam seksyen ini tidak boleh dikira sebagai menaikkan amaun modal syer yang diterbitkan.
 
-(3) Seksyen 66 hingga 74, termasuk kedua-dua seksyen Akta 441. itu, dan subseksyen 147(2) Akta Syarikat Luar Pesisir 1990 tidaklah terpakai bagi sesuatu kumpulan wang bersama yang ditubuhkan di bawah Akta ini.
+(3) Seksyen 66 hingga 74, termasuk kedua-dua seksyen
+
+<!-- marginal: Akta 441. -->
+
+itu, dan subseksyen 147(2) Akta Syarikat Luar Pesisir 1990 tidaklah terpakai bagi sesuatu kumpulan wang bersama yang ditubuhkan di bawah Akta ini.
 
 (4) Subseksyen 147( 1) Akta Syarikat Luar Pesisir 1990 hendaklah terpakai bagi sesuatu kumpulan wang bersama yang merupakan suatu perkongsian atau amanah saham dan kumpulan wang bersama itu hendaklah mematuhi mana-mana batasan dan syarat lain sebagaimana yang ditetapkan.
 
-Akta 208. (5) Peruntukan Akta Pemegang Amanah 1949 tidaklah terpakai bagi pemegang amanah sesuatu kumpulan wang bersama yang ditubuhkan atau didaftarkan di bawah Akta ini.
+<!-- marginal: Akta 208. -->
 
-Akta 498. (6) Seksyen 32 Akta Suruhanjaya Sekuriti 1993 hendaklah terpakai kecuali jika suatu tawaran untuk memohon beli atau membeli syer dalam suatu kumpulan wang bersama yang ditubuhkan di bawah Akta ini dibuat kepada seorang pembeli terkecuali atau seorang bukan pemastautin.
+(5) Peruntukan Akta Pemegang Amanah 1949 tidaklah terpakai bagi pemegang amanah sesuatu kumpulan wang bersama yang ditubuhkan atau didaftarkan di bawah Akta ini.
 
-Akta 565. (7) Walau apa pun seksyen 3 Akta Perkongsian Terhad Luar Pesisir Labuan 1997, sesuatu perkongsian yang ditubuhkan semata-mata bagi maksud menubuhkan suatu kumpulan wang bersama di bawah Akta ini boleh mempunyai lebih daripada dua puluh orang rakan kongsi.
+<!-- marginal: Akta 498. -->
+
+(6) Seksyen 32 Akta Suruhanjaya Sekuriti 1993 hendaklah terpakai kecuali jika suatu tawaran untuk memohon beli atau membeli syer dalam suatu kumpulan wang bersama yang ditubuhkan di bawah Akta ini dibuat kepada seorang pembeli terkecuali atau seorang bukan pemastautin.
+
+<!-- marginal: Akta 565. -->
+
+(7) Walau apa pun seksyen 3 Akta Perkongsian Terhad Luar Pesisir Labuan 1997, sesuatu perkongsian yang ditubuhkan semata-mata bagi maksud menubuhkan suatu kumpulan wang bersama di bawah Akta ini boleh mempunyai lebih daripada dua puluh orang rakan kongsi.
 
 (8) Bagi maksud seksyen ini—
 
@@ -880,7 +1036,11 @@ Akta 565. (7) Walau apa pun seksyen 3 Akta Perkongsian Terhad Luar Pesisir Labua
 
 <!-- page 35 -->
 
-(ii) sesuatu perbadanan yang diperbadankan di Malaysia dengan nilai aset bersih melebihi dua puluh juta ringgit sebagaimana yang ditentukan mengikut kunci kira-kira teraudit yang terbaru perbadanan itu;
+(ii) sesuatu perbadanan yang diperbadankan di Malaysia dengan nilai aset bersih melebihi dua puluh juta
+
+<!-- marginal: ringgit -->
+
+sebagaimana yang ditentukan mengikut kunci kira-kira teraudit yang terbaru perbadanan itu;
 
 (iii) orang yang telah diisytiharkan oleh Menteri, atas syor Suruhanjaya Sekuriti, melalui pemberitahuan yang disiarkan dalam Warta sebagai pembeli terkecuali bagi maksud subseksyen ini; dan
 
@@ -920,9 +1080,15 @@ yang suai manfaat atau perlu bagi maksud menjalankan
 
 peruntukan-peruntukan dan perkara-perkara yang berkaitan dengan Bursa.
 
-Kaedah-
+<!-- marginal: Kaedah- -->
 
-32. Bursa boleh, dengan kelulusan Lembaga, membuat kaedah kaedah-kaedah yang mengadakan peruntukan bagi— Bursa
+32. Bursa boleh, dengan kelulusan Lembaga, membuat
+
+<!-- marginal: kaedah -->
+
+kaedah-kaedah yang mengadakan peruntukan bagi—
+
+<!-- marginal: Bursa -->
 
 (a) syarat masuk dan penerimaan masuk sebagai anggota Bursa dan bagi pengawalseliaan secara am kelakuan anggota pedagang berkaitan dengan perniagaan Bursa;
 
@@ -982,9 +1148,17 @@ boleh melibatkan diri dalam atau mengemukakan dirinya sebagai terlibat dalam per
 
 <!-- page 38 -->
 
-Daftar
+<!-- marginal: Daftar -->
 
-35. (1) Setiausaha hendaklah menyimpan suatu daftar anggota anggota pedagang dan hendaklah mencatatkan di dalamnya pedagang. nama dan alamat anggota pedagang dan tarikh setiap anggota diterima masuk dan terhenti menjadi seorang anggota pedagang.
+35. (1) Setiausaha hendaklah menyimpan suatu daftar
+
+<!-- marginal: anggota -->
+
+anggota pedagang dan hendaklah mencatatkan di dalamnya
+
+<!-- marginal: pedagang. -->
+
+nama dan alamat anggota pedagang dan tarikh setiap anggota diterima masuk dan terhenti menjadi seorang anggota pedagang.
 
 (2) Daftar anggota pedagang hendaklah tersedia bagi pemeriksaan di pejabat berdaftar Bursa pada waktu perniagaan.
 
@@ -992,13 +1166,43 @@ Daftar
 
 (4) Apa-apa bayaran di bawah subseksyen 35(3) hendaklah dibuat kepada Bursa.
 
-Penyata
+<!-- marginal: Penyata -->
 
-36. Dalam masa enam bulan dari akhir setiap tahun kewangan kewangan Bursa hendaklah memfailkan dengan Lembaga Bursa. suatu salinan, diperakui oleh setiausaha sebagai salinan benar, penyata kewangan Bursa bagi tahun itu yang disediakan dan diaudit mengikut peruntukan Bahagian Akta 441. VI Akta Syarikat Luar Pesisir 1990.
+36. Dalam masa enam bulan dari akhir setiap tahun
 
-Orang yang
+<!-- marginal: kewangan -->
 
-37. Tiada seorang pun boleh disifatkan melibatkan disifatkan diri dalam atau menjalankan perdagangan atau perniagaan tidak menjalankan di Malaysia atau dengan pemastautin Malaysia bagi perniagaan maksud mana-mana undang-undang bertulis dengan di Malaysia. sebab hanya bahawa—
+kewangan Bursa hendaklah memfailkan dengan Lembaga
+
+<!-- marginal: Bursa. -->
+
+suatu salinan, diperakui oleh setiausaha sebagai salinan benar, penyata kewangan Bursa bagi tahun itu yang disediakan dan diaudit mengikut peruntukan Bahagian
+
+<!-- marginal: Akta 441. -->
+
+VI Akta Syarikat Luar Pesisir 1990.
+
+<!-- marginal: Orang yang -->
+
+37. Tiada seorang pun boleh disifatkan melibatkan
+
+<!-- marginal: disifatkan -->
+
+diri dalam atau menjalankan perdagangan atau perniagaan
+
+<!-- marginal: tidak -->
+
+<!-- marginal: menjalankan -->
+
+di Malaysia atau dengan pemastautin Malaysia bagi
+
+<!-- marginal: perniagaan -->
+
+maksud mana-mana undang-undang bertulis dengan
+
+<!-- marginal: di Malaysia. -->
+
+sebab hanya bahawa—
 
 (a) sekuriti orang itu disenaraikan dalam pasaran sekuriti yang dikendalikan oleh Bursa;
 
@@ -1034,9 +1238,13 @@ ada pada keseluruhannya selama suatu tempoh yang tidak melebihi lima hari pernia
 
 (6) Lembaga boleh membatalkan, menarik balik atau mengubahsuaikan apa-apa arahan yang dibuat di bawah subseksyen 38(1) dan (3) pada bila-bila masa sebelum tamat tempoh penggantungan atau pelanjutan penggantungan itu.
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-39. (1) Bagi maksud Akta ini dan penjalanan perniagaan Lembaga. Bursa dengan sepatutnya dan sebagai tambahan kepada mana-mana kuasa lain yang diberikan kepadanya di bawah Akta ini Lembaga boleh—
+39. (1) Bagi maksud Akta ini dan penjalanan perniagaan
+
+<!-- marginal: Lembaga. -->
+
+Bursa dengan sepatutnya dan sebagai tambahan kepada mana-mana kuasa lain yang diberikan kepadanya di bawah Akta ini Lembaga boleh—
 
 (a) pada bila-bila masa menyiasat atau menyoal mana-mana transaksi yang melibatkan pembelian atau penjualan sekuriti yang dibuat oleh mana- mana orang sama ada secara langsung atau tak langsung untuk menentukan jika orang itu telah menggunakan cara atau amalan perdagangan yang tak jujur, tak adil atau tak beretika sama ada cara itu atau amalan perdagangan itu menjadi suatu kesalahan di bawah Akta ini atau mana- mana undang-undang bertulis
 
@@ -1060,11 +1268,7 @@ pelanggaran mana-mana kaedah-kaedah atau selainnya;
 
 39(1)(c)(i), (ii) atau (iii) dan apa-apa audit atau laporan juruaudit berkenaan dengan perkara yang sama; atau
 
-(d) dengan kuasa suatu waran geledah yang dikeluarkan oleh mahkamah yang bermaksud sedemikian dan dengan atau tanpa bantuan mana- mana orang sebagaimana yang dikehendaki oleh Lembaga melainkan jika Lembaga mempunyai sebab yang munasabah untuk mempercayai bahawa oleh sebab kelengahan dalam mendapatkan waran geledah itu,
-
-<!-- marginal: tujuan -->
-
-kemasukan itu mungkin akan terkecewa, dan dalam keadaan sedemikian tanpa waran—
+(d) dengan kuasa suatu waran geledah yang dikeluarkan oleh mahkamah yang bermaksud sedemikian dan dengan atau tanpa bantuan mana- mana orang sebagaimana yang dikehendaki oleh Lembaga melainkan jika Lembaga mempunyai sebab yang munasabah untuk mempercayai bahawa oleh sebab kelengahan dalam mendapatkan waran geledah itu, tujuan kemasukan itu mungkin akan terkecewa, dan dalam keadaan sedemikian tanpa waran—
 
 (i) memecah masuk dan menggeledah mana- mana premis, tempat atau barang yang terdapat di atau di dalamnya yang Lembaga mempunyai sebab untuk mengesyaki mungkin terdapat apa-apa dokumen, rekod atau benda yang pengemukaannya dikehendaki menurut kuasa seksyen ini tetapi tidak dikemukakan bagi mematuhi kehendak itu; atau
 
@@ -1090,25 +1294,47 @@ IV
 
 ## PELBAGAI
 
-Tanggung
+<!-- marginal: Tanggung -->
 
-40. Tiada seorang pun boleh didakwa dalam mana-mana rugi. mahkamah bagi apa-apa perbuatan atau perkara yang dilakukan atau diarahkan supaya dilakukan atau ditinggalkan daripada dilakukan olehnya dengan suci hati dan dengan niat untuk menjalankan apa-apa kuasa atau menunaikan apa-apa kewajipan yang diberikan atau dikenakan ke atasnya di bawah Akta ini.
+40. Tiada seorang pun boleh didakwa dalam mana-mana
 
-Percanggahan
+<!-- marginal: rugi. -->
+
+mahkamah bagi apa-apa perbuatan atau perkara yang dilakukan atau diarahkan supaya dilakukan atau ditinggalkan daripada dilakukan olehnya dengan suci hati dan dengan niat untuk menjalankan apa-apa kuasa atau menunaikan apa-apa kewajipan yang diberikan atau dikenakan ke atasnya di bawah Akta ini.
+
+<!-- marginal: Percanggahan -->
 
 41. Jika terdapat apa-apa percanggahan
 
 <!-- marginal: atau -->
 
-antara ketakselarasan antara Akta ini dengan mana-mana undang- undang- undang, undang bertulis lain, Akta ini hendaklah mengatasinya.
+<!-- marginal: antara -->
 
-Kuasa
+ketakselarasan antara Akta ini dengan mana-mana undang-
 
-42. Menteri boleh, atas syor bertulis daripada Lembaga, pengecualian. mengarahkan bahawa mana-mana peruntukan Akta ini tidaklah terpakai bagi, atau hendaklah terpakai dengan apa-apa ubahsuaian sebagaimana yang dinyatakan dalam arahan itu, kepada mana-mana orang atau golongan orang dan boleh menyertakan apa-apa syarat pada atau membatalkan arahan itu.
+<!-- marginal: undang- -->
 
-Kesalahan
+<!-- marginal: undang, -->
 
-43. (1) Seseorang yang melanggar sesuatu kehendak dan penalti Akta ini adalah melakukan suatu kesalahan. am.
+undang bertulis lain, Akta ini hendaklah mengatasinya.
+
+<!-- marginal: Kuasa -->
+
+42. Menteri boleh, atas syor bertulis daripada Lembaga,
+
+<!-- marginal: pengecualian. -->
+
+mengarahkan bahawa mana-mana peruntukan Akta ini tidaklah terpakai bagi, atau hendaklah terpakai dengan apa-apa ubahsuaian sebagaimana yang dinyatakan dalam arahan itu, kepada mana-mana orang atau golongan orang dan boleh menyertakan apa-apa syarat pada atau membatalkan arahan itu.
+
+<!-- marginal: Kesalahan -->
+
+43. (1) Seseorang yang melanggar sesuatu kehendak
+
+<!-- marginal: dan penalti -->
+
+Akta ini adalah melakukan suatu kesalahan.
+
+<!-- marginal: am. -->
 
 (2) Seseorang yang melakukan sesuatu kesalahan terhadap Akta ini yang baginya tiada penalti diperuntukkan dengan nyata boleh—
 
@@ -1160,7 +1386,7 @@ notis itu hendaklah disifatkan telah disampaikan padanya pada tarikh dia diberit
 
 hendaklah sehingga akasnya dibuktikan, menjadi keterangan bahawa orang yang kepadanya surat itu dialamatkan telah diberitahu sedemikian atau bahawa surat berdaftar telah dikemukakan kepadanya, mengikut mana- mana yang berkenaan.
 
-Fee.
+<!-- marginal: Fee. -->
 
 45. (1) Jika—
 
@@ -1214,13 +1440,21 @@ mengkompaun kesalahan itu dengan membayar kepada Lembaga dalam masa yang dinyata
 
 (3) Jika suatu kesalahan telah dikompaunkan di bawah subseksyen 47(1), dan jumlah wang yang disyaratkan dalam tawaran itu sudah dibayar dengan sewajarnya, pendakwaan tidak boleh dimulakan selepas itu berkenaan dengan kesalahan itu terhadap orang yang kepadanya tawaran untuk mengkompaun telah dibuat.
 
-Pendakwaan.
+<!-- marginal: Pendakwaan. -->
 
 48. Sesuatu pendakwaan di bawah Akta ini tidak boleh dimulakan kecuali oleh, atau dengan keizinan bertulis, Pendakwa Raya.
 
-Fee dan
+<!-- marginal: Fee dan -->
 
-49. (1) Segala fee dan penalti yang dibayar kepada penalti. Lembaga di bawah Akta ini dan segala jumlah wang yang dibayar di bawah seksyen 47 hendaklah dibayar ke dalam dan menjadi sebahagian daripada Kumpulan Wang Akta 545. yang ditubuhkan di bawah seksyen 29 Akta Lembaga Perkhidmatan Kewangan Luar Pesisir Labuan 1996.
+49. (1) Segala fee dan penalti yang dibayar kepada
+
+<!-- marginal: penalti. -->
+
+Lembaga di bawah Akta ini dan segala jumlah wang yang dibayar di bawah seksyen 47 hendaklah dibayar ke dalam dan menjadi sebahagian daripada Kumpulan Wang
+
+<!-- marginal: Akta 545. -->
+
+yang ditubuhkan di bawah seksyen 29 Akta Lembaga Perkhidmatan Kewangan Luar Pesisir Labuan 1996.
 
 (2) Walau apa pun subseksyen 49(1), segala fee yang dibayar di bawah subseksyen 35(4) hendaklah dibayar ke dalam kumpulan wang Bursa dan boleh digunakan mengikut peruntukan-peruntukan undang-undang kecil.
 
@@ -1258,9 +1492,13 @@ Fee dan
 
 (l) segala perkara atau benda yang dikehendaki atau dibenarkan oleh Akta ini untuk ditetapkan atau diadakan, atau yang perlu atau yang sesuai untuk ditetapkan atau diadakan, bagi menjalankan atau memberikan kuat kuasa penuh kepada peruntukan-peruntukan Akta ini dan bagi pentadbiran wajarnya.
 
-Arahan oleh
+<!-- marginal: Arahan oleh -->
 
-51. (1) Menteri boleh, atas syor bertulis Lembaga Menteri. mengeluarkan, melalui pemberitahuan dalam Warta, arahan—
+51. (1) Menteri boleh, atas syor bertulis Lembaga
+
+<!-- marginal: Menteri. -->
+
+mengeluarkan, melalui pemberitahuan dalam Warta, arahan—
 
 (a) melarang penubuhan mana-mana kumpulan wang bersama atau kelas kumpulan wang bersama;
 
@@ -1344,13 +1582,17 @@ subseksyen 93(2), (6) dan (7) Akta Syarikat Luar Pesisir 1990 tidaklah terpakai 
 
 <!-- page 50 -->
 
-Peralihan.
+<!-- marginal: Peralihan. -->
 
 55. Mana-mana orang yang, pada tarikh Akta ini mula berkuat kuasa, sedang menjalankan apa-apa perniagaan atau melibatkan diri dalam apa-apa kegiatan yang berhubungan dengan kumpulan wang bersama di dalam atau dari dalam Labuan hendaklah dalam tempoh enam bulan, atau apa-apa tempoh yang lebih lama sebagaimana yang ditetapkan oleh Lembaga secara bertulis, dari tarikh itu mematuhi Akta ini.
 
-Peruntukan
+<!-- marginal: Peruntukan -->
 
-56. Rukun-rukun ekuiti dan common law yang terpakai kecualian. bagi kumpulan wang bersama hendaklah terus berkuat kuasa, kecuali setakat yang tidak selaras dengan peruntukan nyata Akta ini.
+56. Rukun-rukun ekuiti dan common law yang terpakai
+
+<!-- marginal: kecualian. -->
+
+bagi kumpulan wang bersama hendaklah terus berkuat kuasa, kecuali setakat yang tidak selaras dengan peruntukan nyata Akta ini.
 
 ## HURAIAN
 

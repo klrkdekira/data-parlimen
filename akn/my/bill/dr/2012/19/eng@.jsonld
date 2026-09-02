@@ -1,0 +1,608 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-19-2012",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_22"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Environmental Quality (Amendment) Bill 2012"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 36e(a) of the principal act is amended by inserting after the word “research” the words “study, environmental audit or any activity as the Minister thinks fit”. New sections 37a, 37b and 37c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal act is amended by inserting after section 37 the following sections: “Power of investigation 37a. (1) The Director General or any officer duly authorized in writing by him shall have all the powers necessary to carry out an investigation under this act. (2) in any case relating to the commission of an offence under this act, the Director General or any officer duly authorized in writing by him carrying out an investigation may exercise all or any of the powers in relation to police investigation in seizable cases given by the Criminal Procedure Code [Act 593]. Authority card 37b. (1) There shall be issued to the Director General or any officer duly authorized in writing by him an authority card to be signed by the Minister. (2) Whenever the Director General or any officer duly authorized in writing by him exercises any of the powers of enforcement under this act, he shall produce on demand to the person against whom the power is being exercised the authority card issued to him under subsection (1). Power of arrest 37c. (1) The Director General or any officer duly authorized in writing by him may arrest without warrant any person whom he reasonably believes has committed or is attempting to commit an offence under this act. (2) The Director General or any officer duly authorized in writing by him making an arrest under subsection (1) shall, without unnecessary delay, bring the person arrested to the nearest police station, and thereafter the person shall be dealt with according to the law relating to criminal procedure for the time being in force.”. New sections 38aa and 38ab"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal act is amended by inserting after section 38a the following sections: “Admissibility of statements in evidence 38aa. (1) Except as provided in this section, no statement made by any person to the Director General or any officer duly authorized in writing by him in the course of an investigation made under this act shall be used in evidence. (2) When any witness is called for the prosecution or for the defence, other than the accused, the court shall, on the request of the accused or the prosecutor, refer to any statement made by that witness to the Director General or any officer duly authorized in writing by him in the course of the investigation under this act and may then, if the courts thinks fit in the interest of justice, direct the accused to be furnished with a copy of it and the statement may be used to impeach the credit of the witness in the manner provided by the Evidence act 1950 [Act 56]. (3) Where the accused had made a statement during the course of an investigation, such statement may be admitted in evidence in support of his defence during the course of the trial. (4) Nothing in this section shall be deemed to apply to any statement made in the course of an identification parade or falling within section 27 or paragraphs 32(1)(a), (i) and (j) of the Evidence act 1950. (5) When any person is charged with any offence in relation to the making or the contents of any statement made by him to the Director General or any officer duly authorized in writing by him in the course of an investigation made under this act, that statement may be used as evidence in the prosecution’s case. Power to require attendance of persons acquainted with case 38ab. (1) The Director General or any officer duly authorized in writing by him making an investigation under this act may, by order in writing, require the attendance before himself of any person who appears to the Director General or any officer duly authorized in writing by him to be acquainted with the facts and circumstances of the case, and such person shall attend as so required. (2) if any such person refuses or fails to attend as required by an order made under subsection (1), the Director General or any officer duly authorized in writing by him may report such refusal or failure to a Sessions Court Judge who shall issue a warrant to secure the attendance of such person as may be required by the order.”. Substitution of section 46b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal act is amended by substituting for section 46b the following section: “Forfeiture of seized vehicle, ship, book, etc. 46b. (1) any vehicle, ship, book, record, computer, industrial plant, equipment, scheduled waste, waste, environmentally hazardous substance, pollutant, licence, permit, certificate, or other document seized in exercise of any power conferred under this act shall be liable to forfeiture. (2) an order for the forfeiture of the vehicle, ship, book, record, computer, industrial plant, equipment, scheduled waste, waste, environmentally hazardous substance, pollutant, licence, permit, certificate, or other document shall be made if it is proved to the satisfaction of the court that an offence under this act has been committed and that the vehicle, ship, book, record, computer, industrial plant, equipment, scheduled waste, waste, environmentally hazardous substance, pollutant, licence, permit, certificate, or other document was the subject matter of or was used in the commission of the offence, even though no person has been convicted of such offence. (3) if there is no prosecution with regard to any vehicle, ship, book, record, computer, industrial plant, equipment, scheduled waste, waste, environmentally hazardous substance, pollutant, licence, permit, certificate, or other document seized under this act, such vehicle, ship, book, record, computer, industrial plant, equipment, scheduled waste, waste, environmentally hazardous substance, pollutant, licence, permit, certificate, or other document shall be taken and deemed to be forfeited at the expiration of a period of one calendar month from the date of service of the notice. (4) The notice referred to in subsection (3) shall indicate that— (a) there is no prosecution in respect of such vehicle, ship, book, record, computer, industrial plant, equipment, scheduled waste, waste, environmentally hazardous substance, pollutant, licence, permit, certificate, or other document; (b) such vehicle, ship, book, record, computer, industrial plant, equipment, scheduled waste, waste, environmentally hazardous substance, pollutant, licence, permit, certificate, or other document, shall be taken and deemed to be forfeited at the expiration of one calendar month from the date of service of such notice unless before that date a claim is made in the manner set out in subsections (5), (6) and (7). (5) any person asserting that he is the owner of the vehicle, ship, book, record, computer, industrial plant, equipment, scheduled waste, waste, environmentally hazardous substance, pollutant, licence, permit, certificate, or other document referred to in subsection (3) and that it is not liable to forfeiture may personally or by his agent authorized in writing, give written notice to the Director General or any officer duly authorized in writing by him in whose possession such vehicle, ship, book, record, computer, industrial plant, equipment, scheduled waste, waste, environmentally hazardous substance, pollutant, licence, permit, certificate, or other document is held that he claims the vehicle, ship, book, record, computer, industrial plant, equipment, scheduled waste, waste, environmentally hazardous substance, pollutant, licence, permit, certificate, or other document. (6) On receipt of the notice referred to in subsection (4), the Director General or any officer duly authorized in writing by him shall refer the claim to a Sessions Court Judge. (7) The Sessions Court Judge to whom a matter is referred under subsection (6) shall issue a summons requiring the person asserting that he is the owner of the vehicle, ship, book, record, computer, industrial plant, equipment, scheduled waste, waste, environmentally hazardous substance, pollutant, licence, permit, certificate, or other document and the person from whom it was seized to appear before him, and when the person appears or fails to appear, due service of the summons having been proved, the Sessions Court Judge shall proceed to the examination of the matter. (8) if it is proved that an offence under this act has been committed and that the vehicle, ship, book, record, computer, industrial plant, equipment, scheduled waste, waste, environmentally hazardous substance, pollutant, licence, permit, certificate, or other document referred to in this subsection (7) was the subject matter of or was used in the commission of such offence, the Sessions Court Judge shall order the vehicle, ship, book, record, computer, industrial plant, equipment, scheduled waste, waste, environmentally hazardous substance, pollutant, licence, permit, certificate, or other document to be forfeited, and shall, in the absence of such proof, order its release. (9) any vehicle, ship, book, record, computer, industrial plant, equipment, scheduled waste, waste, environmentally hazardous substance, pollutant, licence, permit, certificate, or other document forfeited or deemed to be forfeited shall be disposed of— (a) in accordance with the directions given by the Sessions Court Judge; or (b) in such manner as the Director General or any officer duly authorized in writing by him thinks fit.”. New sections 46ba, 46bb and 46bc"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal act is amended by inserting after section 46b the following sections: “List of vehicle, ship, book, etc., seized 46ba. (1) Where any seizure is made under this act, the Director General or any officer duly authorized in writing by him making the seizure shall prepare a list of the vehicle, ship, book, record, computer, industrial plant, equipment, scheduled waste, waste, environmentally hazardous substance, pollutant, licence, permit, certificate, or other document seized and shall sign the list. (2) The list prepared in accordance with subsection (1) shall be delivered immediately to the person in control or in charge of the vehicle, ship, aircraft or premises where the seizure is made under section 38 or 46a, as the case may be. Release of seized book, record, computer, etc. 46bb. (1) if any book, record, computer, industrial plant, equipment, scheduled waste, waste, environmentally hazardous substance, pollutant, licence, permit, certificate, or other document has been seized under this act, the Director General or any officer duly authorized in writing by him who effected the seizure may, after referring to the Public Prosecutor, release the book, record, computer, industrial plant, equipment, scheduled waste, waste, environmentally hazardous substance, pollutant, licence, permit, certificate, or other document to the person from whose possession, custody or control it was seized. (2) a record in writing shall be made by the Director General or any officer duly authorized in writing by him effecting the release of the book, record, computer, industrial plant, equipment, scheduled waste, waste, environmentally hazardous substance, pollutant, licence, permit, certificate, or other document under subsection (1) specifying in detail the circumstances of and the reason for the release, and he shall send a copy of the record to the Public Prosecutor within seven days of the release. Cost of holding seized vehicle, ship, book, etc. 46bc. Where any vehicle, ship, book, record, computer, industrial plant, equipment, scheduled waste, waste, environmentally hazardous substance, pollutant, licence, permit, certificate, or other document seized under this act is held in the custody of the Director General or any officer duly authorized in writing by him pending completion of any proceedings in respect of an offence under this act, the cost of holding it in custody shall, in the event of any person being convicted of such offence, be a debt due to the Government by such person and shall be recoverable accordingly.”. Deletion of section 46c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal act is amended by deleting section 46c. Substitution of section 46d"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal act is amended by substituting for section 46d the following section: “No costs or damages arising from seizure to be recoverable 46d. No person shall, in any proceedings before any court in respect of the seizure of any vehicle, ship, book, record, computer, industrial plant, equipment, scheduled waste, waste, environmentally hazardous substance, pollutant, licence, permit, certificate, or other document seized in the exercise or the purported exercise of any power conferred under this act, be entitled to the costs of such proceedings or to any damages or other relief unless such seizure was made without reasonable cause.”. New sections 48aa to 48ae"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal act is amended by inserting after section 48a the following sections: “Access to computerized data 48aa. (1) The Director General or any officer duly authorized in writing by him conducting a search under this act shall be given access to computerized data whether stored in a computer or otherwise. (2) For the purposes of this section, the Director General or any officer duly authorized in writing by him shall be provided with the necessary password, encryption code, decryption code, software or hardware and any other means required to enable comprehension of computerized data. Presumption 48ab. (1) When any substance is suspected of being scheduled waste and such substance is contained in a number of receptacles, it shall be sufficient to analyze samples of the substance of an amount as may be determined by the Director General and if such analysis establishes that such samples are all of the same nature and description, it shall be presumed until the contrary is proved, that the contents of all the receptacles were of the same nature and description as the samples so analyzed. (2) The substance referred to in subsection (1) shall, until the contrary is proved, be deemed to be scheduled waste and shall be disposed of in such manner as the Director General thinks fit. (3) The procedure for taking and dealing with samples shall be as prescribed by regulations. Additional powers 48ac. The Director General or any officer duly authorized in writing by him shall, for the purposes of the execution of this act, have the power to do all or any of the following: (a) to require the production of any book, record, computer, industrial plant, equipment, scheduled waste, waste, environmentally hazardous substance, pollutant, licence, permit, certificate, or other document kept by any person and to inspect, examine, download, make copies or take extracts from them; (b) to require the production of any identification document from any person in relation to any act or offence under this act; (c) to make such enquiries as may be necessary to ascertain whether the provisions of this act have been complied with. Obstruction to search 48ad. any person who— (a) refuses the Director General or any officer duly authorized in writing by him access to any vehicle, ship, aircraft or premises which the Director General or any officer duly authorized in writing by him is entitled to have under this act or in the execution of any duty imposed or power conferred by this act; (b) assaults, obstructs, impedes or interferes with the Director General or any officer duly authorized in writing by him in the performance of his powers under this act; or (c) refuses the Director General or any officer duly authorized in writing by the Director General any information relating to an offence or suspected offence under this act or any other information which may reasonably be required of him and which he has in his knowledge or power to give, shall be guilty of an offence and shall be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding two years or to both. Joinder of offences 48ae. Notwithstanding section 164 of the Criminal Procedure Code, where a person is accused of more than one offence under this act, the person may be charged with and tried at one trial for any number of such offences committed within any length of time.”. Amendment of section 49"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_18__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 49 of the principal act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by inserting after the word “authority” the words “, any corporation”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_18__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_18__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_18__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_18__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “any local authority” the words “, to any corporation”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_18__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_18__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “or local authority” the words “or corporation”. New sections 49a and 49b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal act is amended by inserting after section 49 the following sections: “Competent person 49a. (1) an owner or occupier of a premise shall employ a person who has been certified by the Director General as a competent person to conduct all or any of the following activities: (a) the operation of a control equipment; (b) the management of scheduled wastes; (c) the conduct of studies; (d) the preparation and submission of reports, plans, proposals, engineering drawings or other documents relating to environmental matters. (2) The reports, plans, proposals, engineering drawings or other documents relating to environmental matters referred to in paragraph (1)(d) shall be prepared and submitted by the competent person to the Director General. Reward to informers 49b. The Director General may order a reward as he thinks fit to be paid to an informer for services, information, statement or assistance in connection with the detection of any offence under this act.”. New section 50a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This act may be cited as the Environmental Quality (amendment) act 2012."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This act comes into operation on a date to be appointed by the Minister by notification in the Gazette. General amendment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Environmental Quality act 1974 [Act 127], which is referred to as the “principal act” in this act, is amended by substituting for the words “qualified personnel” wherever they appear the words “qualified person”. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal act is amended by inserting after section 50 the following section: “Protection of informers 50a. (1) Except as provided in subsections (2) and (3), no witness in any civil or criminal proceedings pursuant to this act shall be obliged or permitted to disclose the name or address of any informer or the substance and nature of the information received from him or state any matter which might lead to his discovery. (2) if any book, record, document or paper which is in evidence or is liable to inspection in any civil or criminal proceedings whatsoever contains any entry in which any informer is named or described or which might lead to his discovery, the court shall cause all such entries to be concealed from view or to be obliterated in so far as may be necessary to protect the informer from discovery. (3) if in a trial for any offence under this act the court, after full inquiry into the case, is of the opinion that the informer willfully made in his complaint a material statement which he knew or believed to be false or did not believe to be true, or if in any other proceedings the court is of the opinion that justice cannot be fully done between the parties in the proceeding without the discovery of the informer, the court may require the production of the original complaint, if in writing, and permit an inquiry and require full disclosure concerning the informer. (4) any person who gives the information referred to in this section knowing that the information is false shall be guilty of an offence.”. Amendment of section 51"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_21__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_21__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 51 of the principal act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_21__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_21__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_21__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_21__para_a__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_21__para_a__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_21__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_21__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, by substituting for paragraph (t) the following paragraph: “ (t) mengawal audit alam sekeliling dan pengemukaan suatu laporan audit dan pelantikan orang yang layak untuk membantu Ketua Pengarah dalam menjalankan audit alam sekeliling bagi mana-mana kenderaan, kapal atau premis, tanpa mengira sama ada kenderaan, kapal atau premis itu adalah yang ditetapkan di bawah seksyen 18 atau selainnya, dan cara pengendaliannya, dan menetapkan bayaran yang boleh dikenakan;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_21__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_21__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (t) the following paragraph: “(tt) regulating any matters relating to the environmental impact assessment;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_21__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_21__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (w) the following paragraph: “ (w) regulating any matters relating to a competent person;”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_21__para_a__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_21__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (w) the following paragraph: “ (x) regulating the competency of training providers providing training in the environmental field.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_21__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsection: “(3) Regulations made under subsection (1) may prescribe any act in contravention of the regulations to be an offence and may prescribe penalties of a fine not exceeding one hundred thousand ringgit or imprisonment for a term not exceeding two years or to both.”. Savings and transitional provision"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_22__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_22__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_22__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a member of the Council who was appointed or reappointed before the coming into operation of this act and who has not completed his term of office immediately before the coming into operation of this act may continue to hold office for the remainder of his term of office."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_22__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any pending action or orders relating to any vehicle or ship before the date of coming into operation of this act shall not be affected by this act and shall continue as if this act had not been enacted."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_3__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_3__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 2 of the principal act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “Committee” the following definition: ‘ “competent person” means a person who is competent to conduct the activities as specified in section 49a;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “prescribed product” the following definition: ‘ “qualified person” means a person who fulfils the requirement as the Director General may determine to conduct an environmental audit and environmental impact assessment, and to submit a report thereon;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “pollution” the following definition: ‘ “pollution” means an act or process, whether natural or artificial, resulting in the introduction of any pollutant into the environment in contravention of the acceptable conditions as specified in the regulations made under section 21;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “owner” the following definition: ‘ “physical plan” means— (i) the national physical plan under the Town and Country Planning act 1976 [Act 172]; (ii) the physical plan covering Sabah under the Town and Country Planning Ordinance [Sabah Cap. 141]; (iii) the physical plan covering Sarawak under the Sarawak land Code [Cap. 81];’; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_3__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “Council” the following definition: ‘ “development plan” has the same meaning assigned to it under the Town and Country Planning act 1976;’. Amendment of section 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 4 of the principal act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (2) the following subsection: “(2) The Council shall consist of the following members: (a) a Chairman who shall be appointed by the Minister; (b) a representative of the Minister charged with the responsibility for natural resources and environment; (c) a representative of the Minister charged with the responsibility for science, technology and innovation; (d) a representative of the Minister charged with the responsibility for international trade and industry; (e) a representative of the Minister charged with the responsibility for domestic trade and consumer affairs; (f) a representative of the Minister charged with the responsibility for agriculture and agro-based industry; (g) a representative of the Minister charged with the responsibility for human resources; (h) a representative of the Minister charged with the responsibility for transport; (i) a representative of the Minister charged with the responsibility for housing and local government; (j) a representative of the Minister charged with the responsibility for energy, green technology and water; (k) a representative of the Minister charged with the responsibility for health; (l) a member each from Sabah and Sarawak, who shall be appointed by the Minister after consultation with the Governments of the States of Sabah and Sarawak; (m) a member who shall be appointed by the Minister from amongst the persons engaged in the petroleum industry; (n) a member who shall be appointed by the Minister from nominations by the oil palm industry; (o) a member who shall be appointed by the Minister from nominations by the Federation of Malaysian Manufacturers or any other persons engaged in manufacturing; (p) a member who shall be appointed by the Minister from nominations by the rubber industry; (q) a member who shall be appointed by the Minister from amongst the academic staff of a higher learning institution; and (r) two members who shall be appointed by the Minister from amongst the registered non- governmental organizations who are active in promoting and enhancing environmental quality.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the words “(2)(f), (g), (gg), (h), (hh), (i) and (j)” the words “(2)(l), (m), (n), (o), (p), (q) and (r)”. Amendment of section 33a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 33a of the principal act is amended by substituting for subsection (2) the following subsection: “(2) For the purpose of carrying out an environmental audit and to submit a report thereof— (a) the Director General may appoint a qualified person; or (b) the Director General may request the owner or occupier to appoint a qualified person from amongst the qualified persons listed under subsection (3).”. Amendment of section 34a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_6__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_6__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_6__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 34a of the principal act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (2) the following subsection: “(2) any person intending to carry out any prescribed activity shall appoint a qualified person to conduct an environmental impact assessment and to submit a report thereof to the Director General in the manner as the Director General may prescribe.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsections: “(2a) The Director General shall maintain a list of qualified persons who may carry out an environmental impact assessment and submit a report thereof. (2b) The qualified person who submits the report shall— (a) be responsible for the environmental impact assessment and the recommendations of the environmental impact assessment; (b) ensure that the report and the recommendation do not contain any false or misleading information; (c) take a professional indemnity insurance for any liability arising from the environmental impact assessment and the recommendations of the environmental impact assessment. (2c) The report shall be in accordance with the guidelines as the Director General may prescribe and shall contain— (a) an assessment of the impact such activity will have or is likely to have on the environment; and (b) the proposed measures that shall be undertaken to prevent, reduce or control the adverse impact on the environment.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the words “(2)” the words “(2c)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_6__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsections (4) and (5) the following subsections: “(4) if the Director General, on examining the report and after making such inquiries as he considers necessary, is of the opinion that— (a) the report is not in accordance with the development plan or physical plan approved by the relevant approving authority; or (b) the report does not satisfy the requirements under subsection (2c), he shall not approve the report, giving reasons for not approving, and shall inform the person and the relevant approving authority accordingly. (5) The Director General may require the person to submit any other report to him, in addition to the report required to be submitted under subsection 34a(2), relating to the environmental impact for his approval.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_6__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (8), by substituting for the words “one hundred thousand ringgit” the words “five hundred thousand ringgit”. New section 34aa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal act is amended by inserting after section 34a the following section: “Prohibition order for prescribed activities 34aa. (1) The Director General may issue a prohibition order or stop work order to the person carrying out the prescribed activities— (a) without the approval under subsection 34a(3); (b) who violates any conditions attached to the approval of the report; or (c) which in the opinion of the Director General are being carried out in a manner that is likely to cause environmental damage. (2) The prohibition order or stop work order may be issued for the purpose of preventing the prescribed activities from continuing— (a) either absolutely or conditionally; (b) for such period as the Director General may determine; or (c) until requirements to remedy as the Director General may direct have been complied with. (3) any person who contravenes this section shall be guilty of an offence and shall be liable— (a) to a fine not exceeding five hundred thousand ringgit or to imprisonment for a period not exceeding five years or to both; and (b) for a continuous offence, to a fine not exceeding one thousand ringgit for everyday during which the offence continues after a notice has been served by the Director General upon the person requiring the person to comply with the act specified in it.”. Amendment of section 36c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_8__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_8__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 36c(2) of the principal act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the word “and” at the end of paragraph (b);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the full stop at the end of paragraph (c) the words “; and”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_8__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (c) the following paragraph: “ (d) two members of the Council to be appointed by the Minister.”. Amendment of section 36d"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/19/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 36d(a) of the principal act is amended by inserting after the word “oil” the words “or gas”. Amendment of section 36e"
+      }
+    }
+  ]
+}

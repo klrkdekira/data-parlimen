@@ -104,21 +104,14 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/48/msa@/~cl_13",
       "@type": "akn:clause",
       "eli:number": "13",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/48/msa@/~cl_13__para_d",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/48/msa@",
       "schema:name": {
         "@language": "ms",
         "@value": "Seksyen 1 6E Akta ibu dipinda dengan menggantikan perenggan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/48/msa@/~cl_13__para_d",
-      "@type": "akn:paragraph",
-      "eli:number": "d",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/48/msa@/~cl_13",
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan perenggan yang berikut: \"(d) upon the member ceasing to be an advocate and solicitor under the Legal Profession Act 1976, the Advocates Ordinance of Sabah or the Advocates Ordinance of Sarawak.\". Pindaan seksyen 16M"
+        "@value": "(d) dengan perenggan yang berikut: \"(d) upon the member ceasing to be an advocate and solicitor under the Legal Profession Act 1976, the Advocates Ordinance of Sabah or the Advocates Ordinance of Sarawak.\". Pindaan seksyen 16M"
       }
     },
     {
@@ -481,7 +474,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/48/msa@/~cl_4",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan takrif \"certificate of fitness for occupation\" dengan takrif yang berikut: ' \"certificate of completion and compliance\" means the certificate of completion and compliance given or granted under the Street, Drainage and Building Act 1974 [Act 133] and any by-laws made under that Act certifying that the housing accommodation has been completed and is safe and fit for occupation but does not include partial certificate of completion compliance;';"
+        "@value": "dengan menggantikan takrif \"certificate of fitness for occupation\" dengan takrif yang berikut: ' \"certificate of completion and compliance\" means the certificate of completion and compliance given or granted under the Street, Drainage and Building Act 1974 [Act 133] and any by-laws made under that Act certifying that the housing accommodation has been completed and is safe and fit for occupation but does not include partial certificate of completion and compliance;';"
       }
     },
     {
@@ -600,7 +593,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/48/msa@/~cl_6",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam perenggan (k), dengan memasukkan selepas perkataan \"and the transfer of such titles to the purchasers\" perkataan \"at such frequency as may be determined by the Controller beginning from the date of the handing over of vacant possession to the first purchaser of accommodation in the housing development until separate or strata titles for all the housing accommodation have been issued\". Pindaan seksyen 7 A"
+        "@value": "dalam perenggan (k), dengan memasukkan selepas perkataan \"and the transfer of such titles to the purchasers\" perkataan \"at such frequency as may be determined by the Controller beginning from the date of the handing over of vacant possession to the first purchaser of the housing accommodation in the housing development until separate or strata titles for all the housing accommodation have been issued\". Pindaan seksyen 7 A"
       }
     },
     {

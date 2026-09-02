@@ -18,13 +18,27 @@
 
 3. Establishment of the Corporation. 4. Composition of the Corporation.
 
-5. Tenure of office. 6. Revocation of appointment and resignation of members. 7. Temporary exercise of functions of the Chairman. 8. Alternate members. 9. Revocation of appointment. 10. Filling of vacancies. 11. Allowance.
+5. Tenure of office. 6. Revocation of appointment and resignation of members. 7. Temporary exercise of functions of the Chairman. 8. Alternate members. 9. Revocation of appointment.
+
+10. Filling of vacancies.
+
+11. Allowance.
 
 ## PART III
 
 ## FUNCTIONS AND POWERS OF THE CORPORATION
 
-12. Functions of the Corporation. 13. Powers of the Corporation. 14. Power to borrow. 15. Power to engage. 16. Power to delegate. 17. Power to appoint committees.
+12. Functions of the Corporation.
+
+13. Powers of the Corporation.
+
+14. Power to borrow.
+
+15. Power to engage.
+
+16. Power to delegate.
+
+17. Power to appoint committees.
 
 <!-- page 2 -->
 
@@ -36,19 +50,45 @@
 
 ## FINANCIAL PROVISIONS
 
-18. Small and Medium Industries Development Fund. 19. Expenses to be charged on the Fund. 20. Balancing of revenue account. 21. Deposit and investment of the Fund. 22. Expenditure and preparation of estimates. 23. Statutory Bodies (Accounts and Annual Reports) Act 1980. 24. Surcharge.
+18. Small and Medium Industries Development Fund. 19. Expenses to be charged on the Fund.
+
+20. Balancing of revenue account.
+
+21. Deposit and investment of the Fund.
+
+22. Expenditure and preparation of estimates.
+
+23. Statutory Bodies (Accounts and Annual Reports) Act 1980.
+
+24. Surcharge.
 
 ## PART V
 
 ## ADMINISTRATION
 
-25. Appointment of Chief Executive Officer. 26. Remuneration for Chief Executive Officer. 27. Duties of the Chief Executive Officer. 28. Appointment of officers and servants of the Corporation. 29. Discipline of officers and servants. 30. Public Authorities Protection Act 1948. 31. Public servants.
+25. Appointment of Chief Executive Officer.
+
+26. Remuneration for Chief Executive Officer.
+
+27. Duties of the Chief Executive Officer.
+
+28. Appointment of officers and servants of the Corporation.
+
+29. Discipline of officers and servants.
+
+30. Public Authorities Protection Act 1948.
+
+31. Public servants.
 
 ## PART VI
 
 ## GENERAL
 
-32. Regulations. 33. Returns, reports, accounts and information. 34. Power of the Minister to give directions.
+32. Regulations.
+
+33. Returns, reports, accounts and information.
+
+34. Power of the Minister to give directions.
 
 ## SCHEDULE.
 
@@ -112,13 +152,27 @@ to it under the Industrial Coordination Act 1975;
 
 ## THE CORPORATION
 
-Establishment
+<!-- marginal: Establishment -->
 
-3. There shall be established a body corporate to be known of the as the "Small and Medium Industries Development Corporation Corporation" which shall have perpetual succession and a common seal, and which may sue and be sued in its name and, subject to and for the purposes of this Act, may enter into contracts and may acquire, purchase, take, hold and enjoy movable and immovable property of every description and may convey, assign, surrender, yield up, charge, mortgage, demise, reassign, transfer or otherwise dispose of, or deal with, any movable or immovable property or any interest therein vested in the Corporation upon such terms as it deems fit.
+3. There shall be established a body corporate to be known
 
-Composition
+<!-- marginal: of the -->
 
-4. (1) The Corporation shall consist of the following of the members: Corporation.
+as the "Small and Medium Industries Development
+
+<!-- marginal: Corporation -->
+
+Corporation" which shall have perpetual succession and a common seal, and which may sue and be sued in its name and, subject to and for the purposes of this Act, may enter into contracts and may acquire, purchase, take, hold and enjoy movable and immovable property of every description and may convey, assign, surrender, yield up, charge, mortgage, demise, reassign, transfer or otherwise dispose of, or deal with, any movable or immovable property or any interest therein vested in the Corporation upon such terms as it deems fit.
+
+<!-- marginal: Composition -->
+
+4. (1) The Corporation shall consist of the following
+
+<!-- marginal: of the -->
+
+members:
+
+<!-- marginal: Corporation. -->
 
 (a) a Chairman;
 
@@ -200,9 +254,15 @@ Corporation appointed under paragraphs 4(l)(b), (c) and (d), appoint one person 
 
 (3) An alternate member shall, unless he sooner resigns or his appointment is sooner revoked, cease to be an alternate member if the member for whom he is an alternate member ceases to be a member of the Corporation.
 
-Revocation
+<!-- marginal: Revocation -->
 
-9. (1) A member of the Corporation shall be disqualified of and his appointment as such member shall be revoked if— appointment.
+9. (1) A member of the Corporation shall be disqualified
+
+<!-- marginal: of -->
+
+and his appointment as such member shall be revoked if—
+
+<!-- marginal: appointment. -->
 
 (a) there has been proved against him, or he has been convicted on, a charge in respect of—
 
@@ -220,11 +280,15 @@ Revocation
 
 (d), shall apply mutatis mutandis to an alternate member.
 
-Filling of
+<!-- marginal: Filling of -->
 
-10. Where any person ceases to be a member of the vacancies. Corporation by reason of the provisions of this Act, the Minister may appoint another person to fill the vacancy for the remainder of the term for which the member was appointed.
+10. Where any person ceases to be a member of the
 
-Allowance.
+<!-- marginal: vacancies. -->
+
+Corporation by reason of the provisions of this Act, the Minister may appoint another person to fill the vacancy for the remainder of the term for which the member was appointed.
+
+<!-- marginal: Allowance. -->
 
 11. There shall be paid to the members and alternate members of the Corporation such allowances as the Minister may determine.
 
@@ -292,13 +356,21 @@ discharge of its functions under this Act and in particular, but without prejudi
 
 (g) to charge a fee for the use of any facilities or services provided by the Corporation.
 
-Power to
+<!-- marginal: Power to -->
 
-14. The Corporation may, from time to time, borrow in borrow. such form and at such rate of interest and for such period and upon such terms as to the time and method of repayment and otherwise, as the Minister, with the concurrence of the Minister of Finance may approve, any sum required by the Corporation for meeting any of its obligations or discharging any of its functions or exercising any of its powers.
+14. The Corporation may, from time to time, borrow in
 
-Power to
+<!-- marginal: borrow. -->
 
-15. The Corporation may engage and pay agents and technical engage. advisers, and any other person deemed necessary to transact any business or to do any act required to be transacted or done in the discharge of its functions or the exercise of its powers or for the better carrying into effect the purposes of this Act.
+such form and at such rate of interest and for such period and upon such terms as to the time and method of repayment and otherwise, as the Minister, with the concurrence of the Minister of Finance may approve, any sum required by the Corporation for meeting any of its obligations or discharging any of its functions or exercising any of its powers.
+
+<!-- marginal: Power to -->
+
+15. The Corporation may engage and pay agents and technical
+
+<!-- marginal: engage. -->
+
+advisers, and any other person deemed necessary to transact any business or to do any act required to be transacted or done in the discharge of its functions or the exercise of its powers or for the better carrying into effect the purposes of this Act.
 
 <!-- page 9 -->
 
@@ -340,9 +412,23 @@ and powers; any committee so appointed shall include at least one member of the 
 
 ## FINANCIAL PROVISIONS
 
-Small and
+<!-- marginal: Small and -->
 
-18. (1) For the purposes of this Act the Corporation shall Medium establish, administer and control a fund to be known as the Industries Development "Small and Medium Industries Development Fund". Fund. (2) There shall be paid into the Fund—
+18. (1) For the purposes of this Act the Corporation shall
+
+<!-- marginal: Medium -->
+
+establish, administer and control a fund to be known as the
+
+<!-- marginal: Industries -->
+
+<!-- marginal: Development -->
+
+"Small and Medium Industries Development Fund".
+
+<!-- marginal: Fund. -->
+
+(2) There shall be paid into the Fund—
 
 (a) the launching grant of the Fund provided by the Government;
 
@@ -362,9 +448,13 @@ Small and
 
 (3) In this section and section 20, the expression "loan funds" means such sums as may be made available from time to time to the Government by way of loan.
 
-Expenses to
+<!-- marginal: Expenses to -->
 
-19. The Fund shall be expended for— be charged on the Fund.
+19. The Fund shall be expended for—
+
+<!-- marginal: be charged -->
+
+<!-- marginal: on the Fund. -->
 
 (a) the payment of any expenses lawfully incurred by the Corporation, the remuneration of officers and
 
@@ -432,13 +522,29 @@ be defrayed out of the Fund.
 
 (3) The Corporation may at any time submit to the Minister a supplementary estimate of expenditure for any one year and the Minister may allow the whole or any part of the additional expenditure included therein.
 
-Statutory
+<!-- marginal: Statutory -->
 
-23. The provisions of the Statutory Bodies (Accounts and Bodies Annual Reports) Act 1980 shall apply to the Corporation. (Accounts and Annual Reports) Act
+23. The provisions of the Statutory Bodies (Accounts and
 
-1980. Act 240.
+<!-- marginal: Bodies -->
 
-24. (1) A person who is or was in the employment of the Surcharge. Corporation may be surcharged if it appears to the Corporation that the person—
+Annual Reports) Act 1980 shall apply to the Corporation.
+
+<!-- marginal: (Accounts -->
+
+<!-- marginal: and Annual -->
+
+<!-- marginal: Reports) Act -->
+
+1980.
+
+<!-- marginal: Act 240. -->
+
+24. (1) A person who is or was in the employment of the
+
+<!-- marginal: Surcharge. -->
+
+Corporation may be surcharged if it appears to the Corporation that the person—
 
 (a) has failed to collect any moneys owing to the Corporation for the collection of which he is or was responsible;
 
@@ -466,7 +572,9 @@ Statutory
 
 (5) Notwithstanding subsections (3) and (4) the Corporation may at any time withdraw any surcharge if it appears that no surcharge should have been made, and the Chief Executive Officer shall forthwith notify the person surcharged of such withdrawal.
 
-(6) The amount of any surcharge made under subsection (3) and not withdrawn under subsection (5) shall be a debt due to the Corporation from the person surcharged and may be sued for and recovered in any court at the suit of the Corporation and may also if the Corporation so directs be recovered by deduction from—
+(6) The amount of any surcharge made under subsection
+
+(3) and not withdrawn under subsection (5) shall be a debt due to the Corporation from the person surcharged and may be sued for and recovered in any court at the suit of the Corporation and may also if the Corporation so directs be recovered by deduction from—
 
 (a) the salary of the person surcharged; or
 
@@ -480,23 +588,69 @@ by equal monthly instalments not exceeding one-fourth of the total monthly salar
 
 ## ADMINISTRATION
 
-Appointment
+<!-- marginal: Appointment -->
 
-25. The Minister shall appoint a Chief Executive Officer of Chief upon such terms and conditions as the Minister may determine. Executive Officer. Remuneration
+25. The Minister shall appoint a Chief Executive Officer
 
-26. There shall be paid to the Chief Executive Officer such for Chief remuneration as the Minister may determine. Executive Oficer. Duties of
+<!-- marginal: of Chief -->
 
-27. The Chief Executive Officer shall be responsible to the the Chief Corporation for the proper administration and management Executive Officer. of the functions and affairs of the Corporation in accordance with the policy laid down by the Corporation.
+upon such terms and conditions as the Minister may determine.
 
-Appointment of
+<!-- marginal: Executive -->
 
-28. (1) Subject to subsection (2) and any regulations made officers and under paragraphs 32(2)(c), (d) and (e), the Corporation may servants of the Corporation from time to time appoint such number of officers and servants as it may think desirable and necessary, and upon such terms and conditions as it considers appropriate, for carrying out the purposes of this Act.
+<!-- marginal: Officer. -->
+
+<!-- marginal: Remuneration -->
+
+26. There shall be paid to the Chief Executive Officer such
+
+<!-- marginal: for Chief -->
+
+remuneration as the Minister may determine.
+
+<!-- marginal: Executive -->
+
+<!-- marginal: Oficer. -->
+
+<!-- marginal: Duties of -->
+
+27. The Chief Executive Officer shall be responsible to the
+
+<!-- marginal: the Chief -->
+
+Corporation for the proper administration and management
+
+<!-- marginal: Executive -->
+
+<!-- marginal: Officer. -->
+
+of the functions and affairs of the Corporation in accordance with the policy laid down by the Corporation.
+
+<!-- marginal: Appointment of -->
+
+28. (1) Subject to subsection (2) and any regulations made
+
+<!-- marginal: officers and -->
+
+under paragraphs 32(2)(c), (d) and (e), the Corporation may
+
+<!-- marginal: servants of the -->
+
+<!-- marginal: Corporation -->
+
+from time to time appoint such number of officers and servants as it may think desirable and necessary, and upon such terms and conditions as it considers appropriate, for carrying out the purposes of this Act.
 
 (2) Notwithstanding the provision of subsection (1), the Corporation shall not establish or modify any post or scheme of service for officers and servants of the Corporation, including the terms and conditions of service and the salaries, any pension scheme, and any scheme relating to allowances and other remuneration, without the prior approval of the Ministry of Finance and the Public Services Department.
 
-Discipline of
+<!-- marginal: Discipline of -->
 
-29. (1) There shall be a Disciplinary Board of the Corporation officers and which shall consist of— servants.
+29. (1) There shall be a Disciplinary Board of the Corporation
+
+<!-- marginal: officers and -->
+
+which shall consist of—
+
+<!-- marginal: servants. -->
 
 (a) two members to be elected by and from the members of the Corporation, one of whom shall be elected Chairman; and
 
@@ -526,21 +680,41 @@ Discipline of
 
 (10) The decision of the Corporation upon such appeal shall be final and conclusive.
 
-Public
+<!-- marginal: Public -->
 
-30. The Public Authorities Protection Act 1948 shall apply Authorities to any action, suit, prosecution or proceedings against the Protection Act
+30. The Public Authorities Protection Act 1948 shall apply
 
-1948. Corporation or against any member, officer, servant or agent Act 198 of the Corporation in respect of any act, neglect or default done or committed by him in such capacity.
+<!-- marginal: Authorities -->
 
-Public
+to any action, suit, prosecution or proceedings against the
 
-31. All members, officers and servants of the Corporation, Servants. while discharging their functions as such members, officers and servants, shall be deemed to be public servants within F.M.S. the meaning of the Penal Code. Cap. 45.
+<!-- marginal: Protection Act -->
+
+1948. Corporation or against any member, officer, servant or agent
+
+<!-- marginal: Act 198 -->
+
+of the Corporation in respect of any act, neglect or default done or committed by him in such capacity.
+
+<!-- marginal: Public -->
+
+31. All members, officers and servants of the Corporation,
+
+<!-- marginal: Servants. -->
+
+while discharging their functions as such members, officers and servants, shall be deemed to be public servants within
+
+<!-- marginal: F.M.S. -->
+
+the meaning of the Penal Code.
+
+<!-- marginal: Cap. 45. -->
 
 ## PART VI
 
 ## GENERAL
 
-Regulations.
+<!-- marginal: Regulations. -->
 
 32. (1) The Minister may, after consultation with the Corporation, make such regulations as may be expedient or necessary for the proper and effective carrying out of the provisions of this Act.
 
@@ -590,9 +764,19 @@ subparagraph; or
 
 (h) prescribing all other such matters which under this Act may be prescribed by the Corporation.
 
-Returns,
+<!-- marginal: Returns, -->
 
-33. (1) The Corporation shall furnish to the Minister, such reports, returns, reports, accounts and information with respect to accounts and information. its property and activities as the Minister may from time to time require or direct.
+33. (1) The Corporation shall furnish to the Minister, such
+
+<!-- marginal: reports, -->
+
+returns, reports, accounts and information with respect to
+
+<!-- marginal: accounts and -->
+
+<!-- marginal: information. -->
+
+its property and activities as the Minister may from time to time require or direct.
 
 (2) Without prejudice to the generality of the provisions of subsection (1), the Corporation shall, as soon as practicable after the end of each financial year, cause to be made and transmitted to the Minister a report dealing with the activities of the Corporation during the preceding financial year and the report shall be in such form and shall contain such information relating to the proceedings and policies of the Corporation as the Minister may from time to time specify.
 
@@ -642,17 +826,31 @@ Provided that any document or instrument which if executed by a person not being
 
 <!-- page 20 -->
 
-Minutes 3. (1) The Corporation shall cause minutes of all its meetings to be maintained and kept in a proper form.
+<!-- marginal: Minutes -->
+
+3. (1) The Corporation shall cause minutes of all its meetings to be maintained and kept in a proper form.
 
 (2) Any minutes made of meetings of the Corporation shall, if duly signed, be admissible in evidence in all legal proceedings without further proof and every meeting of the Corporation in respect of the proceedings of which minutes have been so made shall be deemed to have been duly convened and held and all members thereat to have been duly qualified to act.
 
-Validity of acts 4. No act done or proceeding under this Act shall be questioned on and proceedings. the grounds of any—
+<!-- marginal: Validity of acts -->
+
+4. No act done or proceeding under this Act shall be questioned on
+
+<!-- marginal: and proceedings. -->
+
+the grounds of any—
 
 (a) vacancy in the membership of, or of any defect in the constitution of, the Corporation; or
 
 (b) omission, defect or irregularity not affecting the merits of the case.
 
-Disclosure 5. A member of the Corporation whether directly or indirectly having interest any interest in any company or undertaking with which the Corporation proposes to make any contract or whether directly or indirectly having any interest in any such contract or in any matter under discussion by the Corporation shall disclose to the Corporation the fact of his interest and the nature thereof, and such disclosure shall be recorded in the minutes of the meetings of the Corporation and the member shall withdraw from any deliberation or decision of the Corporation relating to the contract.
+<!-- marginal: Disclosure -->
+
+5. A member of the Corporation whether directly or indirectly having
+
+<!-- marginal: interest -->
+
+any interest in any company or undertaking with which the Corporation proposes to make any contract or whether directly or indirectly having any interest in any such contract or in any matter under discussion by the Corporation shall disclose to the Corporation the fact of his interest and the nature thereof, and such disclosure shall be recorded in the minutes of the meetings of the Corporation and the member shall withdraw from any deliberation or decision of the Corporation relating to the contract.
 
 ## EXPLANATORY STATEMENT
 
@@ -722,6 +920,4 @@ Clause 34 seeks to provide power to the Minister to give directions.
 
 ## IMPLICATIONS
 
-This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained.
-
-<!-- marginal: [PN. (U2) 1837.] -->
+This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained. [PN. (U2) 1837.]

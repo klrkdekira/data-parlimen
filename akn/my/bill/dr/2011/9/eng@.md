@@ -4,13 +4,13 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Interpretation
 
-## Part II
+## PART II
 
 ## REGISTRATION OF MEDICAL DEVICE AND CONFORMITY ASSESSMENT BODY
 
@@ -24,11 +24,19 @@ Registration of medical device
 
 Registration of conformity assessment body
 
-10. Conformity assessment body 11. Requirement for registration of conformity assessment body 12. Registration and refusal to register conformity assessment body 13. Power to impose additional conditions and to vary or revoke conditions 14. Power to cancel registration of conformity assessment body
+10. Conformity assessment body
+
+11. Requirement for registration of conformity assessment body
+
+12. Registration and refusal to register conformity assessment body
+
+13. Power to impose additional conditions and to vary or revoke conditions
+
+14. Power to cancel registration of conformity assessment body
 
 <!-- page 2 -->
 
-## Part III
+## PART III
 
 ## LICENCE AND PERMIT
 
@@ -88,31 +96,57 @@ Designated medical device permit
 
 ## Chapter 3
 
-Duties and obligations of licensees or permit holders 37. Distribution records 38. Post-market surveillance and vigilance 39. Complaint handling 40. Mandatory problem reporting 41. Field corrective action 42. Recall
+Duties and obligations of licensees or permit holders
+
+37. Distribution records
+
+38. Post-market surveillance and vigilance
+
+39. Complaint handling
+
+40. Mandatory problem reporting
+
+41. Field corrective action
+
+42. Recall
 
 ## Chapter 4
 
 General duty
 
-43. Usage, operation, maintenance, etc., of medical device 44. Advertising
+43. Usage, operation, maintenance, etc., of medical device
+
+44. Advertising
 
 ## Chapter 5
 
 Export permit
 
-45. Export permit 46. Revocation of export permit
+45. Export permit
 
-## Part IV
+46. Revocation of export permit
+
+## PART IV
 
 ## APPEAL
 
 47. Appeal against decision of Authority
 
-## Part V
+## PART V
 
 ## ENFORCEMENT
 
-48. Authorized officers 49. Authority card 50. Power of investigation 51. Search and seizure with warrant 52. Search and seizure without warrant 53. Access to computerized data
+48. Authorized officers
+
+49. Authority card
+
+50. Power of investigation
+
+51. Search and seizure with warrant
+
+52. Search and seizure without warrant
+
+53. Access to computerized data
 
 <!-- page 4 -->
 
@@ -142,7 +176,7 @@ Export permit
 
 66. Appointment of analyst
 
-## Part VI
+## PART VI
 
 ## GENERAL
 
@@ -184,7 +218,7 @@ An Act to regulate medical devices, the industry and to provide for matters conn
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -274,7 +308,7 @@ which does not achieve its primary intended action in or on the human body by ph
 
 “appointed date” means the date appointed by the Minister under subsection 1(2).
 
-## Part II
+## PART II
 
 ## REGISTRATION OF MEDICAL DEVICE AND
 
@@ -434,7 +468,7 @@ Registration of conformity assessment body
 
 (3) A conformity assessment body whose registration is cancelled shall not be entitled to any compensation for any loss caused to it by the cancellation and shall not be entitled to any refund of the prescribed registration fee paid under section 12.
 
-## Part III
+## PART III
 
 ## LICENCE AND PERMIT
 
@@ -828,7 +862,7 @@ Export permit
 
 (4) A permit holder whose export permit is revoked shall not be entitled to any compensation for any loss caused to him by the revocation of the export permit.
 
-## Part IV
+## PART IV
 
 ## APPEAL
 
@@ -840,7 +874,7 @@ Export permit
 
 (3) The Minister’s decision on any appeal under subsection (1) shall be final and binding.
 
-## Part V
+## PART V
 
 ## ENFORCEMENT
 
@@ -1012,7 +1046,9 @@ of any statement made by him to an authorized officer in the course of an invest
 
 <!-- page 37 -->
 
-equipment, device, machinery, vehicle, matter or thing including in digital form, unless before the expiration of that period a claim thereto is made in the manner set out in subsections (4), (5) and (6).
+equipment, device, machinery, vehicle, matter or thing including in digital form, unless before the expiration of that period a claim thereto is made in the manner set out in subsections (4), (5) and
+
+(6).
 
 (4) Any person asserting that he is the owner of the medical device, book, document, computerized data, apparatus, equipment, device, machinery, vehicle, matter or thing including in digital form referred to in subsection (3) and that it is not liable to forfeiture may, personally or by his agent authorized in writing, give written notice to the authorized officer in whose possession such medical device, book, document, computerized data, apparatus, equipment, device, machinery, vehicle, matter or thing including in digital form is held that he claims the medical device, book, document, computerized data, apparatus, equipment, device, machinery, vehicle, matter or thing including in digital form.
 
@@ -1056,7 +1092,7 @@ equipment, device, machinery, vehicle, matter or thing including in digital form
 
 66. The Authority may appoint any qualified person to be an analyst for the purposes of carrying out an analysis under this Act.
 
-## Part VI
+## PART VI
 
 ## GENERAL
 
@@ -1254,7 +1290,7 @@ commits an offence and shall, on conviction, be liable to a fine not exceeding f
 
 The Medical Device Bill 2011 (“the proposed Act”) seeks to regulate medical devices, the industry and to provide for matters connected thereto.
 
-## Part I
+## PART I
 
 2. Part I of the proposed Act contains preliminary matters.
 
@@ -1262,7 +1298,7 @@ The Medical Device Bill 2011 (“the proposed Act”) seeks to regulate medical 
 
 4. Clause 2 defines certain words and expressions used in the proposed Act.
 
-## Part II
+## PART II
 
 5. Part II of the proposed Act provides for the registration of medical devices and conformity assessment bodies.
 
@@ -1292,7 +1328,7 @@ The Medical Device Bill 2011 (“the proposed Act”) seeks to regulate medical 
 
 17. Clause 14 seeks to empower the Authority to cancel the registration of a conformity assessment body and to provide that a conformity assessment body whose registration is cancelled shall not be entitled to any compensation for any loss caused to it by the cancellation and shall not be entitled to any refund of the prescribed registration fee paid.
 
-## Part III
+## PART III
 
 18. Part III contains provisions relating to establishment licences, designated medical device permits, duties and obligations of licensees and permit holders, general duties and export permits.
 
@@ -1366,11 +1402,11 @@ The Medical Device Bill 2011 (“the proposed Act”) seeks to regulate medical 
 
 50. Clause 46 seeks to empower the Authority to revoke an export permit of a medical device and to provide that a permit holder whose export permit is revoked shall not be entitled to any compensation for any loss caused to him by the revocation of the export permit.
 
-## Part IV
+## PART IV
 
 51. Clause 47 seeks to allow any person who is aggrieved by the decision of the Authority under clause 7, 9, 12, 14, 18, 22, 24, 30, 33, 35, 45 or 46 to appeal to the Minister in the prescribed manner and within the prescribed period.
 
-## Part V
+## PART V
 
 52. Part V of the proposed Act contains enforcement provisions.
 
@@ -1412,7 +1448,7 @@ The Medical Device Bill 2011 (“the proposed Act”) seeks to regulate medical 
 
 70. Clause 66 empowers the Authority to appoint any qualified person to be an analyst to carry out analysis under the proposed Act.
 
-## Part VI
+## PART VI
 
 71. Part VI of the proposed Act contains general provisions.
 

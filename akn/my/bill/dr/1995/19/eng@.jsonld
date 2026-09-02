@@ -80,7 +80,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/eng@/~cl_2",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after the renumbered subsection (1) the following subsections: \"(2) Notwithstanding subsection (1), section 92 shall be deemed to have come into force on 16 August 1981. (3) Any act or thing done or any money collected, expended or invested by the Authority before the commencement of this Act that would have been lawful if the provisions of this Act had been in force at the time when it was done is hereby validated and declared to have been lawfully done or collected, expended or invested by it.\". Amendment"
+        "@value": "by inserting after the renumbered subsection (1) the following subsections: \"(2) Notwithstanding subsection (1), section 92 shall be deemed to have come into force on 16 August 1981. (3) Any act or thing done or any money collected, expended or invested by the Authority before the commencement of this Act that would have been lawful if the provisions of this Act had been in force at the time when it was done is hereby validated and declared to have been lawfully done or collected, expended or invested by it.\"."
       }
     },
     {
@@ -94,7 +94,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/eng@",
       "schema:name": {
         "@language": "en",
-        "@value": "Section 27A of the principal Act is amended— of section"
+        "@value": "Section 27A of the principal Act is amended—"
       },
       "schema:text": {
         "@language": "en",
@@ -118,14 +118,13 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/eng@/~cl_3",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after subsection (2) the following subsection : \"(2A) Where a reply is received from the Authority as regards the memorandum submitted under subsection (1) indicating the decision of the Authority to disallow the change in the existing structure of charges as contained in the memorandum, any person or body of persons who is aggrieved by the decision of the Authority may, within fourteen days from the date of such decision, appeal to the Minister whose decision shall be final.\". New Part"
+        "@value": "by inserting after subsection (2) the following subsection : \"(2A) Where a reply is received from the Authority as regards the memorandum submitted under subsection (1) indicating the decision of the Authority to disallow the change in the existing structure of charges as contained in the memorandum, any person or body of persons who is aggrieved by the decision of the Authority may, within fourteen days from the date of such decision, appeal to the Minister whose decision shall be final.\"."
       }
     },
     {
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/eng@/~cl_4",
       "@type": "akn:clause",
       "eli:number": "4",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/eng@/~cl_4__subsec_3",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/eng@",
       "schema:name": {
         "@language": "en",
@@ -133,17 +132,7 @@
       },
       "schema:text": {
         "@language": "en",
-        "@value": "VIIA. the following Part: \" PART VIIA EXTENSION OF THE FUNCTIONS, ETC., OF THE PORT AUTHORITY TO OTHER PORTS Power of 66A. (1) The Minister may, by order published in Minister to the Gazette, extend the functions, powers, duties extend Authority's and jurisdiction of the Authority to other ports. functions to other ports. (2) An order under subsection (1) may provide that the Authority shall, in carrying out the administration of the port to which its control is extended, include among its members such other person or persons as may be specified in the order either by name or by office."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/eng@/~cl_4__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/eng@/~cl_4",
-      "schema:text": {
-        "@language": "en",
-        "@value": "Where an order is made under subsection (1), the Authority shall be deemed for all purposes to be the port authority in respect of the port specified in the order as if it were a port authority established in respect of that port under this Act and shall in carrying out its functions be styled by such name as may be provided in the order. The 66B. The Authority in carrying out its functions in authority respect of the port to which they are extended shall in carrying carry them out as if it were an independent port out its extended authority established in respect of such port. functions shall be deemed to be an independent port authority. Power of 66c. An order of the Minister under section 66A Minister may contain all such provisions as the Minister may to make provisions deem necessary to enable the Authority to carry out for the its functions in relation to the port to which they are Authority extended. to carry out its functions. Inter- 66D. For the purposes of this Part, \"port\" means a pretation. Federal port or a place declared to be a Federal port by Federal law.\"."
+        "@value": "the following Part: \" PART VIIA EXTENSION OF THE FUNCTIONS, ETC., OF THE PORT AUTHORITY TO OTHER PORTS 66A. (1) The Minister may, by order published in the Gazette, extend the functions, powers, duties and jurisdiction of the Authority to other ports. (2) An order under subsection (1) may provide that the Authority shall, in carrying out the administration of the port to which its control is extended, include among its members such other person or persons as may be specified in the order either by name or by office. (3) Where an order is made under subsection (1), the Authority shall be deemed for all purposes to be the port authority in respect of the port specified in the order as if it were a port authority established in respect of that port under this Act and shall in carrying out its functions be styled by such name as may be provided in the order. The 66B. The Authority in carrying out its functions in authority respect of the port to which they are extended shall in carrying carry them out as if it were an independent port out its extended authority established in respect of such port. functions shall be deemed to be an independent port authority. Power of 66c. An order of the Minister under section 66A Minister may contain all such provisions as the Minister may to make provisions deem necessary to enable the Authority to carry out for the its functions in relation to the port to which they are Authority extended. to carry out its functions. Inter- 66D. For the purposes of this Part, \"port\" means a pretation. Federal port or a place declared to be a Federal port by Federal law.\"."
       }
     }
   ]

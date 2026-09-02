@@ -66,7 +66,7 @@ of Migrants (Amendment)
 
 4. The principal Act is amended by inserting after Part I the following Part:
 
-“Part Ia
+## “PART IA
 
 ## HIGH LEVEL COMMITTEE
 

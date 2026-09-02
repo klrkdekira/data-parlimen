@@ -1,0 +1,371 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-9-2023",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_13"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Road Transport (Amendment) Bill 2023"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 88b of the principal Act is amended by deleting the words “, other than goods vehicles,”. Amendment of section 117"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_11__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 117 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, in subsection (6) by substituting for the words “alat penimbang” wherever appearing the words “mesin penimbang”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (6) the following subsection: “(6a) Notwithstanding subsection (6), paragraphs (6)(d) and (6)(e) shall not apply in respect of a certificate for the purpose of a computerized or electronic weigh in-motion system installed on any road.”. Amendment of section 127"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 127(1)(i) of the principal Act is amended by deleting the words “to drivers and conductors of public service vehicles, employees vehicles and goods vehicles”. Validation and indemnity"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_13__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding the provisions of the principal Act before the date of coming into operation of this Act, the fees which were charged and collected by the Road Transport Department in respect of the interim change of possession of motor vehicles during the period from 4 October 2011 to the day preceding the commencement date of this Act shall be deemed to have been validly charged and collected."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No action or legal proceeding shall be brought, instituted or maintained against the Government of Malaysia, any officer of the Government of Malaysia or any person acting under them in respect of any fees which were charged and collected during the period referred to in subsection (1), and if any such action or legal proceeding has been brought, instituted or maintained, it shall be discharged and made void and no refund in respect of the fees charged and collected as stated in this Act shall be made."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Road Transport (Amendment) Act 2023."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette and the Minister may appoint different dates for the coming into operation of different provisions of this Act. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Road Transport Act 1987 [Act 333], which is referred to as the “principal Act” in this Act, is amended in section 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “electric motor vehicle” the following definition: ‘ “excursion bus” shall have the same meaning as assigned to that expression in the Tourism Vehicles Licensing Act 1999 [Act 594] and in the Second Schedule to the Land Public Transport Act 2010 [Act 715];’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “vocational licence” the following definition: ‘ “vocational licence” means a licence to drive or act as a conductor granted under sections 56 and 57;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “this Act” the following definition: ‘ “tourist guide” shall have the same meaning as assigned to that expression in the Tourism Industry Act 1992 [Act 482];’; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_2__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_2__para_d__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “passenger”—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_2__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_2__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the word “and” at the end of paragraph (b); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_2__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_2__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (b) the following paragraph: “(ba) in relation to persons carried on an excursion bus, does not include the driver or any tourist guide on the excursion bus in pursuance of his duties; and”. Amendment of section 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 3 of the principal Act is amended by substituting for subsection (3) the following subsection: “(3) The Minister may, by order published in the Gazette, prescribe— (a) uniforms and rank markings for any road transport officer; and (b) the authority card and badge to be carried by any road transport officer.”. New section 13a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 13 the following section: “Interim change of possession of motor vehicles 13a. ( 1) Notwithstanding section 13, where a registered owner sells his motor vehicle to a dealer for the purpose of resale, the registered owner may apply to the Director for an interim change of possession of the motor vehicle from the registered owner to the dealer in such form and manner and upon payment of such fee as may be prescribed. (2) The Director shall, upon receipt of the application and payment of the fee under subsection (1), make the necessary entries in the register relating to the interim change of possession. (3) The interim change of possession shall be effective for a prescribed period. (4) Where the dealer has not sold the motor vehicle to any person upon the expiration of the period prescribed under subsection (3), the dealer shall be registered as the new owner of the motor vehicle. (5) For the purposes of subsection (4), the Director shall make the necessary alterations in the register and the registration certificate relating to the motor vehicle and shall deliver the altered registration certificate to the dealer. (6) For the purposes of this section, “dealer” means a company incorporated under the Companies Act 2016 [Act 777] or a business registered under the Registration of Business Act 1956 [Act 197] which deals in secondhand motor vehicles.”. Amendment of subheading in Part II"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended in Part II by substituting for the subheading of “Licensing of Drivers and Conductors of Public Service Vehicles, Employees Vehicles and Goods Vehicles” appearing before section 56 the following subheading: “Licensing of Drivers and Conductors of Public Service Vehicles, Employees Vehicles, Goods Vehicles and Excursion Buses”. Amendment of section 56"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_6__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 56 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (2) the following subsection: “(2) The Director shall not issue a vocational licence unless he is satisfied that— (a) in the case of a licence to drive, the applicant is over the age of twenty-one; (b) in the case of a licence to act as a conductor, the applicant is over the age of eighteen; (c) the applicant is not a person holding a learner’s driving licence or a probationary driving licence; (d) in the case of an applicant who is a self-employed person, the applicant is registered and has paid the contribution under the Self-Employment Social Security Act 2017 [Act 789]; and (e) the applicant fulfils such other conditions as may be prescribed.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_6__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_6__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_6__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_6__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by deleting the word “or” after the words “such licence;”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_6__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_6__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (a) the following paragraph: “(aa) the holder of the vocational licence is a self-employed person, the vocational licence holder has not registered and has not paid the contribution under the Self-Employment Social Security Act 2017; or”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (9) the following subsection: “(10) For the purposes of this section, “self-employed person” shall have the same meaning as assigned to that expression in the Self-Employment Social Security Act 2017.”. Substitution of section 57"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 57 the following section: “Vocational licence of goods vehicles, employees vehicles and excursion buses 57. (1) Section 56 shall apply to such goods vehicles, employees vehicles and excursion buses as the Minister may prescribe, as they apply to public service vehicles. (2) For the purposes of subsection (1), references in section 56 to “public service vehicle” shall be construed as references to the said goods vehicles, employees vehicles or excursion buses and the words “for the carriage of passengers for hire or reward” appearing in subsection 56(1) shall be disregarded. (3) Notwithstanding subsections (1) and (2) and subsection 56(2), the vocational licence for goods vehicles in respect of a motorcycle may be issued to the applicant under the age of twenty-one and over the age of eighteen.”. New section 63a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 63 the following section: “Weighing of vehicles in-motion 63a. (1) Notwithstanding section 63, it shall be lawful for a motor vehicle to be weighed by using a computerized or electronic weigh in-motion system installed on any road. (2) For the purposes of subsection (1), the weight transmitted to the road by any part of the motor vehicle in contact with the road while it is in motion shall be deemed to have been duly weighed under this section.”. Amendment of section 66"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 66(1)(ll) of the principal Act is amended in the national language text by substituting for the words “alat penimbang” the words “mesin penimbang”. Amendment of section 88b"
+      }
+    }
+  ]
+}

@@ -4,27 +4,33 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
-1. Short title, application and commencement 2. Interpretation 3. Construction of the Act
+1. Short title, application and commencement
 
-## Part II
+2. Interpretation
+
+3. Construction of the Act
+
+## PART II
 
 ## ADMINISTRATION OF THE ACT
 
 4. Appointment of Commissioner of Buildings, deputies and other officers
 
-## Part III
+## PART III
 
 ## DEALINGS IN BUILDING OR LAND INTENDED
 
 ## FOR SUBDIVISION INTO PARCELS
 
-5. Application of this Part 6. Schedule of parcels to be filed with the Commissioner before sale of any parcel
+5. Application of this Part
 
-## Part IV
+6. Schedule of parcels to be filed with the Commissioner before sale of any parcel
+
+## PART IV
 
 ## STRATA MANAGEMENT BEFORE EXISTENCE OF
 
@@ -34,7 +40,9 @@
 
 General
 
-7. Application of this Part 8. Allocated share units
+7. Application of this Part
+
+8. Allocated share units
 
 ## Chapter 2
 
@@ -102,15 +110,35 @@ Miscellaneous provisions applicable to this Part
 
 <!-- page 3 -->
 
-34. Procedure on recovery of sums due 35. Recovery of sums by attachment of movable property 36. Moneys not required for immediate use
+34. Procedure on recovery of sums due
+
+35. Recovery of sums by attachment of movable property
+
+36. Moneys not required for immediate use
 
 ## Chapter 5
 
 Transitional and saving provisions due to the repeal of the Building and Common Property (Maintenance and Management) Act 2007
 
-37. References to repealed Act and savings provision 38. Existing body and committee 39. Existing managing agent 40. Existing accounts or funds 41. Incumbent Commissioner of Buildings and other officers 42. Existing notices, orders, etc. 43. Pending applications, etc. 44. Pending appeals 45. Existing regulations
+37. References to repealed Act and savings provision
 
-## Part V
+38. Existing body and committee
+
+39. Existing managing agent
+
+40. Existing accounts or funds
+
+41. Incumbent Commissioner of Buildings and other officers
+
+42. Existing notices, orders, etc.
+
+43. Pending applications, etc.
+
+44. Pending appeals
+
+45. Existing regulations
+
+## PART V
 
 ## STRATA MANAGEMENT AFTER EXISTENCE OF
 
@@ -126,7 +154,17 @@ General
 
 Management by developer before first annual general meeting of management corporation
 
-47. Application 48. Duties and powers of developer to maintain and manage 49. Restrictions during preliminary management period 50. Developer to establish maintenance account in the name of management corporation 51. Developer to establish sinking fund account in the name of management corporation 52. Proprietors to pay Charges, and contribution to the sinking fund
+47. Application
+
+48. Duties and powers of developer to maintain and manage
+
+49. Restrictions during preliminary management period
+
+50. Developer to establish maintenance account in the name of management corporation
+
+51. Developer to establish sinking fund account in the name of management corporation
+
+52. Proprietors to pay Charges, and contribution to the sinking fund
 
 <!-- page 4 -->
 
@@ -186,21 +224,51 @@ Miscellaneous provision applicable to this Part
 
 <!-- page 5 -->
 
-74. Acquisition of additional land, grant and acceptance of easements, etc. 75. Rating 76. Appointment of administrator for management corporation 77. The recovery of sum as a debt due to management corporation or subsidiary management corporation 78. Procedure for recovery of sums due 79. Recovery of sums by attachment of movable property 80. Moneys not required for immediate use
+74. Acquisition of additional land, grant and acceptance of easements, etc.
+
+75. Rating
+
+76. Appointment of administrator for management corporation
+
+77. The recovery of sum as a debt due to management corporation or subsidiary management corporation
+
+78. Procedure for recovery of sums due
+
+79. Recovery of sums by attachment of movable property
+
+80. Moneys not required for immediate use
 
 ## Chapter 6
 
 Transitional and saving provisions due to consequential amendments to the Strata Titles Act 1985
 
-81. Existing managing agent 82. Existing maintenance fund or special account 83. Existing notices, orders, etc. 84. Pending applications, etc. 85. Existing rules
+81. Existing managing agent
 
-## Part VI
+82. Existing maintenance fund or special account
+
+83. Existing notices, orders, etc.
+
+84. Pending applications, etc.
+
+85. Existing rules
+
+## PART VI
 
 ## MANAGING AGENT
 
-86. Appointment of managing agent by Commissioner 87. Independence of managing agent 88. Managing agent to lodge bond 89. Powers and duties of managing agent 90. Developer not to be relieved of his obligations to carry out repairs, etc. 91. Termination of management agreement
+86. Appointment of managing agent by Commissioner
 
-## Part VII
+87. Independence of managing agent
+
+88. Managing agent to lodge bond
+
+89. Powers and duties of managing agent
+
+90. Developer not to be relieved of his obligations to carry out repairs, etc.
+
+91. Termination of management agreement
+
+## PART VII
 
 ## DEPOSIT TO RECTIFY DEFECTS
 
@@ -228,7 +296,7 @@ Transitional and saving provisions due to consequential amendments to the Strata
 
 100. Obligation to rebuild
 
-## Part IX
+## PART IX
 
 ## DISPUTES AND STRATA MANAGEMENT TRIBUNAL
 
@@ -268,25 +336,65 @@ Conduct of proceedings
 
 <!-- page 7 -->
 
-110. Right to appear at hearings 111. Proceedings to be public 112. Negotiation for settlement 113. Equal treatment of parties 114. Determination of rules and procedure 115. Hearings 116. Appointment of expert by Tribunal
+110. Right to appear at hearings
+
+111. Proceedings to be public
+
+112. Negotiation for settlement
+
+113. Equal treatment of parties
+
+114. Determination of rules and procedure
+
+115. Hearings
+
+116. Appointment of expert by Tribunal
 
 ## Chapter 5
 
 Awards of Tribunal
 
-117. Awards of the Tribunal 118. References to a Judge of the High Court on a question of law 119. Awards and settlement to be recorded in writing 120. Decisions of Tribunal to be final 121. Challenging the award on ground of serious irregularity 122. Disposal of document, etc.
+117. Awards of the Tribunal
+
+118. References to a Judge of the High Court on a question of law
+
+119. Awards and settlement to be recorded in writing
+
+120. Decisions of Tribunal to be final
+
+121. Challenging the award on ground of serious irregularity
+
+122. Disposal of document, etc.
 
 ## Chapter 6
 
 Miscellaneous provisions applicable to this Part
 
-123. Criminal penalty for failure to comply 124. Regulations in respect of the Tribunal
+123. Criminal penalty for failure to comply
 
-## Part X
+124. Regulations in respect of the Tribunal
+
+## PART X
 
 ## ENFORCEMENT
 
-125. Power of investigation 126. Search and seizure with warrant 127. Search and seizure without warrant 128. Access to computerized data 129. List of things seized 130. Released of things seized 131. Power to require attendance of person acquainted with case 132. Examination of person acquainted with case 133. Obstruction
+125. Power of investigation
+
+126. Search and seizure with warrant
+
+127. Search and seizure without warrant
+
+128. Access to computerized data
+
+129. List of things seized
+
+130. Released of things seized
+
+131. Power to require attendance of person acquainted with case
+
+132. Examination of person acquainted with case
+
+133. Obstruction
 
 <!-- page 8 -->
 
@@ -306,7 +414,7 @@ Miscellaneous provisions applicable to this Part
 
 141. Continuing offences
 
-## Part XI
+## PART XI
 
 ## MISCELLANEOUS
 
@@ -332,7 +440,15 @@ Miscellaneous provisions applicable to this Part
 
 152. Amendment of Schedules
 
-153. Repeal F irst s chedule second s chedule third s chedule F ourth s chedule
+153. Repeal
+
+## F IRST S CHEDULE
+
+## SECOND S CHEDULE
+
+## THIRD S CHEDULE
+
+## F OURTH S CHEDULE
 
 <!-- page 9 -->
 
@@ -346,13 +462,15 @@ WHEREAS it is expedient for the purposes only of ensuring uniformity of law and 
 
 NOW, THEREFORE, pursuant to Clause (4) of Article 76 of the Federal Constitution, IT IS ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 ### Short title, application and commencement
 
-1. (1) This Act may be cited as the Strata Management Act 2012.
+1. (1) This Act may be cited as the Strata Management Act
+
+2012.
 
 (2) This Act applies only to Peninsular Malaysia and the Federal Territory of Labuan.
 
@@ -558,7 +676,7 @@ and includes the executors, administrators and successors-in-title and permitted
 
 <!-- page 18 -->
 
-## Part II
+## PART II
 
 ## ADMINISTRATION OF THE ACT
 
@@ -580,7 +698,7 @@ and includes the executors, administrators and successors-in-title and permitted
 
 <!-- page 19 -->
 
-## Part III
+## PART III
 
 ## DEALINGS IN BUILDING OR LAND INTENDED FOR
 
@@ -628,7 +746,9 @@ and includes the executors, administrators and successors-in-title and permitted
 
 (b) submitted to the Director in any application for subdivision of building or land under the provisions of the Strata Titles Act 1985.
 
-(6) Any developer who fails to comply with subsection (1), (2) or (5) commits an offence and shall, on conviction, be liable to a fine not exceeding five hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both.
+(6) Any developer who fails to comply with subsection (1),
+
+(2) or (5) commits an offence and shall, on conviction, be liable to a fine not exceeding five hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both.
 
 (7) Any person who—
 
@@ -640,7 +760,7 @@ and includes the executors, administrators and successors-in-title and permitted
 
 commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding three years or to a fine not exceeding two hundred and fifty thousand ringgit or to both.
 
-## Part IV
+## PART IV
 
 ## STRATA MANAGEMENT BEFORE EXISTENCE OF
 
@@ -792,7 +912,9 @@ the moneys in the maintenance account shall vest in the administrator, official 
 
 (6) Any money remaining in the maintenance account, after all payments have been properly made under this Act, shall be held by the administrator, official receiver, trustee in bankruptcy or liquidator, as the case may be, and shall be transferred into a maintenance account in the name of the joint management body.
 
-(7) Any person who fails to comply with subsection (1), (2), (3), (4), (5) or (6) commits an offence and shall, on conviction, be liable to a fine not exceeding two hundred and fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both.
+(7) Any person who fails to comply with subsection (1), (2),
+
+(3), (4), (5) or (6) commits an offence and shall, on conviction, be liable to a fine not exceeding two hundred and fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both.
 
 ### Developer to establish sinking fund account
 
@@ -842,7 +964,9 @@ the moneys in the sinking fund account shall vest in the administrator, official
 
 <!-- page 29 -->
 
-(7) Any person who fails to comply with subsection (1), (2), (3), (4), (5) or (6) commits an offence and shall, on conviction, be liable to a fine not exceeding two hundred and fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both.
+(7) Any person who fails to comply with subsection (1), (2),
+
+(3), (4), (5) or (6) commits an offence and shall, on conviction, be liable to a fine not exceeding two hundred and fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both.
 
 ### Purchaser and developer to pay Charges, and contribution
 
@@ -852,7 +976,9 @@ the moneys in the sinking fund account shall vest in the administrator, official
 
 (2) The developer shall pay the Charges, and contribution to the sinking fund, in respect of those parcels in the development area which have not been sold, being a sum equivalent to the Charges, and contribution to the sinking fund, payable by the purchasers to the developer had the parcels been sold.
 
-(3) The amount of the Charges to be paid under subsections (1) and (2) shall be determined by the developer in proportion to the allocated share units of each parcel.
+(3) The amount of the Charges to be paid under subsections
+
+(1) and (2) shall be determined by the developer in proportion to the allocated share units of each parcel.
 
 (4) The amount of contribution to the sinking fund to be paid under subsections (1) and (2) shall be a sum equivalent to ten per cent of the Charges.
 
@@ -888,7 +1014,9 @@ the moneys in the sinking fund account shall vest in the administrator, official
 
 management of any building or land intended for subdivision into parcels and the common property comprised in the development area, may continue to do so until the joint management body is established, provided that all moneys shall be collected and dealt with by the developer in accordance with this Act.
 
-(3) Any person who fails to comply with subsection (1) or (2) commits an offence and shall, on conviction, be liable to a fine not exceeding two hundred and fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both.
+(3) Any person who fails to comply with subsection (1) or
+
+(2) commits an offence and shall, on conviction, be liable to a fine not exceeding two hundred and fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both.
 
 ### Duties of developer in relation to accounts
 
@@ -1560,7 +1688,7 @@ shall continue to hold such office as if he were appointed under subsection 4(1)
 
 45. Any regulations made under the repealed Act and in force immediately before the commencement of this Act shall, in so far as it is not inconsistent with the provisions of this Act, continue to be in force as if the regulations were made under this Act until they are revoked or repealed by the regulations made under this Act.
 
-## Part V
+## PART V
 
 ## STRATA MANAGEMENT AFTER EXISTENCE OF
 
@@ -1606,7 +1734,9 @@ Management by developer before first annual general meeting of management corpor
 
 (3) During the preliminary management period, the developer shall ensure that a separate and distinct area is set aside out of the common property of the development area for the sole purpose of an administration office for the carrying out of duties of the developer under this Act.
 
-(4) Any developer who fails to comply with subsection (1) or (3) commits an offence and shall, on conviction, be liable to a fine not exceeding two hundred and fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both.
+(4) Any developer who fails to comply with subsection (1) or
+
+(3) commits an offence and shall, on conviction, be liable to a fine not exceeding two hundred and fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both.
 
 ### Restrictions during preliminary management period
 
@@ -1706,7 +1836,9 @@ but in any case, before the Charges are collected from the proprietors of any pa
 
 (e) any other capital expenditure as the management corporation deems necessary.
 
-(3) Any developer who fails to comply with subsection (1) or (2) commits an offence and shall, on conviction, be liable to a fine not exceeding two hundred and fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both.
+(3) Any developer who fails to comply with subsection (1) or
+
+(2) commits an offence and shall, on conviction, be liable to a fine not exceeding two hundred and fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both.
 
 ### Proprietors to pay Charges, and contribution to the sinking
 
@@ -1756,7 +1888,9 @@ but in any case, before the Charges are collected from the proprietors of any pa
 
 common property comprised in the development area, may continue to do so until the expiry of the preliminary management period, provided that all moneys shall be collected and dealt with by the developer in accordance with this Act.
 
-(3) Any person who fails to comply with subsection (1) or (2) commits an offence and shall, on conviction, be liable to a fine not exceeding two hundred and fifty thousand ringgit.
+(3) Any person who fails to comply with subsection (1) or
+
+(2) commits an offence and shall, on conviction, be liable to a fine not exceeding two hundred and fifty thousand ringgit.
 
 ### Duties of developer in relation to accounts
 
@@ -2412,9 +2546,7 @@ Transitional and saving provisions due to consequential amendments to the Strata
 
 ### Existing managing agent
 
-81. Any person who, immediately before the commencement of this Act, was a managing agent appointed by the Commissioner of Buildings under section 50 of the Strata Titles Act 1985, shall continue as such managing agent as if he was appointed under
-
-## Part VI of this Act.
+81. Any person who, immediately before the commencement of this Act, was a managing agent appointed by the Commissioner of Buildings under section 50 of the Strata Titles Act 1985, shall continue as such managing agent as if he was appointed under Part VI of this Act.
 
 ### Existing maintenance fund or special account
 
@@ -2438,7 +2570,7 @@ Transitional and saving provisions due to consequential amendments to the Strata
 
 85. Any rules made under the Strata Titles Act 1985 and in force immediately before the commencement of this Act shall, in so far as they are not inconsistent with the provisions of this Act, continue in force as if the rules were made under this Act until they are revoked or repealed by regulations made under this Act.
 
-## Part VI
+## PART VI
 
 ## MANAGING AGENT
 
@@ -2502,7 +2634,9 @@ the Commissioner may appoint, by written notification, one or more persons to ac
 
 (d) any sum incurred for the maintenance and management of any building or land, which is authorized to be paid out of the maintenance account or the sinking fund account, and which remains unpaid.
 
-(5) Any managing agent who fails to comply with subsection (3) or (4) commits an offence and shall, on conviction, be liable to a fine not exceeding two hundred and fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both, and in the case of a continuing offence, to a further fine not exceeding five thousand ringgit for every day or part thereof during which the offence continues after conviction.
+(5) Any managing agent who fails to comply with subsection
+
+(3) or (4) commits an offence and shall, on conviction, be liable to a fine not exceeding two hundred and fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both, and in the case of a continuing offence, to a further fine not exceeding five thousand ringgit for every day or part thereof during which the offence continues after conviction.
 
 ### Developer not to be relieved of his obligations to carry out
 
@@ -2528,7 +2662,7 @@ the Commissioner may appoint, by written notification, one or more persons to ac
 
 (3) In the event of the termination of the management agreement, the Commissioner may appoint another managing agent to maintain and manage the building or land for a period to be specified by the Commissioner.
 
-## Part VII
+## PART VII
 
 ## DEPOSIT TO RECTIFY DEFECTS
 
@@ -2634,7 +2768,7 @@ its facilities will not materially affect the existence or usability of all othe
 
 <!-- page 105 -->
 
-## Part IX
+## PART IX
 
 ## DISPUTES AND STRATA MANAGEMENT TRIBUNAL
 
@@ -3006,7 +3140,7 @@ Miscellaneous provisions applicable to this Part
 
 (g) prescribing any other matters for the better carrying out of the provisions of this Part.
 
-## Part X
+## PART X
 
 ## ENFORCEMENT
 
@@ -3190,7 +3324,7 @@ is named or described or which might lead to his discovery, the court shall caus
 
 (b) where the court has fixed such period, the daily penalty is not recoverable in respect of any day before the period expires.
 
-## Part XI
+## PART XI
 
 ## MISCELLANEOUS
 
@@ -3322,7 +3456,7 @@ maintenance and management of buildings and common property in as far as they ar
 
 <!-- page 132 -->
 
-First s chedule
+## FIRST S CHEDULE
 
 [Section 8]
 
@@ -3588,21 +3722,9 @@ No. Accessory parcel
 
 WF3
 
-1. Outside building 0.25
+1. Outside building 0.25 To reflect a non-habitable open or enclosed area outside the building.
 
-<!-- marginal: To reflect a non-habitable open -->
-
-<!-- marginal: or enclosed area outside the -->
-
-<!-- marginal: building. -->
-
-2. Within building 0.5
-
-<!-- marginal: To reflect a non-habitable open -->
-
-<!-- marginal: or enclosed area within the -->
-
-<!-- marginal: building. -->
+2. Within building 0.5 To reflect a non-habitable open or enclosed area within the building.
 
 (2) An accessory parcel is an open or enclosed part of the development area that has been made appurtenant to a parcel and cannot be disposed of independently of the parcel.
 
@@ -3618,7 +3740,7 @@ WF3
 
 <!-- page 136 -->
 
-second s chedule
+## SECOND S CHEDULE
 
 ## PROVISIONS FOR MANAGEMENT CORPORATION
 
@@ -3986,7 +4108,7 @@ the Commissioner may authorize in writing any person to convene an extraordinary
 
 (2) Notwithstanding subparagraph (1), where there is only one member of the management corporation, his presence and signature shall be sufficient.
 
-third s chedule
+## THIRD S CHEDULE
 
 ## FORM A
 
@@ -4046,9 +4168,9 @@ Articles
 
 <!-- page 150 -->
 
-Fourth s chedule
+## FOURTH S CHEDULE
 
-## Part 1
+## PART 1
 
 ## JURISDICTION OF THE TRIBUNAL
 
@@ -4084,7 +4206,7 @@ Fourth s chedule
 
 <!-- page 151 -->
 
-## Part 2
+## PART 2
 
 ## ORDERS OF THE TRIBUNAL
 
@@ -4112,11 +4234,9 @@ Fourth s chedule
 
 The Strata Management Bill 2012 (“the proposed Act”) seeks to provide for the proper maintenance and management of buildings and common property, and for related matters.
 
-## Part I
+## PART I
 
-2.
-
-## Part I deals with preliminary matters.
+2. Part I deals with preliminary matters.
 
 3. Clause 1 contains the short title of the proposed Act and provisions on the commencement of the proposed Act. The proposed Act applies to Peninsular Malaysia and the Federal Territory of Labuan.
 
@@ -4126,13 +4246,13 @@ The Strata Management Bill 2012 (“the proposed Act”) seeks to provide for th
 
 5. Clause 3 seeks to provide for the construction of the proposed Act.
 
-## Part II
+## PART II
 
 6. Part II deals with the administration of the proposed Act.
 
 7. Clause 4 seeks to provides for the appointment of the Commissioner, Deputy Commissioners and other officers by the State Authority.
 
-## Part III
+## PART III
 
 8. Part III contains the provisions relating to dealings in buildings or lands intended for subdivision into parcels and the common property.
 
@@ -4140,7 +4260,7 @@ The Strata Management Bill 2012 (“the proposed Act”) seeks to provide for th
 
 10. Clause 6 seeks to require the developer of a development area to file a schedule of parcels with the Commissioner showing the proposed share units of each parcel and the total share units of all the parcels before it can sell any parcel.
 
-## Part IV
+## PART IV
 
 11. Part IV deals with the maintenance and management of buildings and common property before the establishment of a management corporation.
 
@@ -4210,7 +4330,7 @@ The Strata Management Bill 2012 (“the proposed Act”) seeks to provide for th
 
 41. Clauses 37 to 45 seek to provide for the transitional and savings provisions due to the repeal of the Building and Common Property (Maintenance and Management) Act 2007.
 
-## Part V
+## PART V
 
 42. Part V deals with the maintenance and management of buildings and common property after the existence of a management corporation.
 
@@ -4290,7 +4410,7 @@ The Strata Management Bill 2012 (“the proposed Act”) seeks to provide for th
 
 77. Clauses 81 to 85 seek to provide for the transitional and saving provisions due to consequential amendments made to the Strata Titles Act 1985.
 
-## Part VI
+## PART VI
 
 78. Part VI contains the provisions relating to the managing agent.
 
@@ -4306,7 +4426,7 @@ The Strata Management Bill 2012 (“the proposed Act”) seeks to provide for th
 
 84. Clause 91 seeks to provide for the termination of a management agreement.
 
-## Part VII
+## PART VII
 
 85. Part VII deals with deposits to rectify defects.
 
@@ -4334,7 +4454,7 @@ The Strata Management Bill 2012 (“the proposed Act”) seeks to provide for th
 
 95. Clause 100 seeks to provide that all payments of money from an insurer in respect of destruction of or damage to a building shall be applied in rebuilding, replacing, repairing or restoring the building.
 
-## Part IX
+## PART IX
 
 96. Part IX deals with the establishment of the Strata Management Tribunal.
 
@@ -4390,7 +4510,7 @@ The Strata Management Bill 2012 (“the proposed Act”) seeks to provide for th
 
 <!-- page 161 -->
 
-## Part X
+## PART X
 
 121. Part X contains the enforcement provision.
 
@@ -4428,7 +4548,7 @@ The Strata Management Bill 2012 (“the proposed Act”) seeks to provide for th
 
 137. Clause 141 seeks to provide for the continuing offences.
 
-## Part XI
+## PART XI
 
 138. Part XI contains miscellaneous provisions.
 

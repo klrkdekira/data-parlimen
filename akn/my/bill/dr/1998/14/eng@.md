@@ -40,7 +40,11 @@ provided for or not fully provided for by the Supply Act 1998.
 
 (Section 2)
 
-Purpose Title Appropriation to Purpose (RM)
+Purpose Title Appropriation
+
+<!-- marginal: to Purpose -->
+
+<!-- marginal: (RM) -->
 
 B. 29 Treasury General Services 400,000,000
 

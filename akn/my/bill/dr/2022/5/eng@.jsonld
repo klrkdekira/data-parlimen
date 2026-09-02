@@ -1,0 +1,1749 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-5-2022",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_44",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_45",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_46",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_47",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_48",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_49",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_50",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_51",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_52",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_53",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_54",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_55",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_56",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_57",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_58",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_59",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_60",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_61"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Labuan Companies (Amendment) Bill 2022"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_10__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_10__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 13(9) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (a)(i), by substituting for the word “six” the word “seven”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (a)(iii), by substituting for the word “fifteen” the word “seven”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_10__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by substituting for the words “fifteen years” the words “seven years and six months”. Amendment of section 22"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 22(3) of the principal Act is amended by substituting for the word “Ten” the word “Fifty”. Amendment of section 25"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 25(3) of the principal Act is amended by inserting after the words “Ten thousand ringgit” the words “and default penalty of five hundred ringgit”. Amendment of section 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 26 of the principal Act is amended by inserting after subsection (4) the following subsection: “(4a) If default is made in complying with this section, the Labuan company or every officer of the company which is in default commits an offence under this Act. Penalty: One hundred thousand ringgit.”. New section 46a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 46 the following section: “Prohibition to issue bearer share or bearer share warrants 46a. (1) A Labuan company shall not— (a) issue a bearer share or bearer share warrants; (b) convert a share into a bearer share or bearer share warrants into share warrants; or (c) exchange a share for a bearer share. (2) Any purported issuance, conversion or exchange of such bearer share, bearer share warrants, share or share warrants under subsection (1) is void. (3) A provision in a Labuan company’s memorandum or articles which purports to enable the company to issue, convert or exchange any of the bearer share, bearer share warrants, share or share warrants is void. (4) This section shall apply to a foreign Labuan company. (5) If default is made in complying with this section, the Labuan company, foreign Labuan company and every officer of the company who is in default commits an offence under this Act.”. Amendment of section 53"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_15__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 53 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (9b) the following subsection: “(9 ba) If default is made in complying with subsection (9b), the director of the Labuan company who is in default commits an offence under this Act. Penalty: Fifty thousand ringgit or imprisonment for a term not exceeding three years or both.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (10), by substituting for the words “Imprisonment for three years or ten thousand ringgit or both” the words “Three million ringgit or imprisonment for a term not exceeding five years or both.”. Amendment of section 54"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 54 of the principal Act is amended by inserting after subsection (3) the following penalty provision: “Penalty: Five hundred thousand ringgit.”. Amendment of section 55"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_17__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_17__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 55 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_17__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3c), by inserting after the words “certified copy of the solvency declaration” the words “and notice of such redemption of share in the prescribed form”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (3c) the following subsection: “(4) If default is made in complying with subsection (3c), the director of the Labuan company who is in default commits an offence under this Act. Penalty: Fifty thousand ringgit or imprisonment for a term not exceeding three years or both.”. Amendment of section 58"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_18__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 58 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: “(1a) If default is made in complying with subsection (1), the Labuan company which is in default commits an offence under this Act. Penalty: Twenty thousand ringgit. Default penalty.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (6), by substituting for the word “Ten” the word “Twenty”. Amendment of section 69"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_19__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_19__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 69 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing section as subsection (1); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_19__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the renumbered subsection (1) the following subsection: “(2) If default is made in complying with this section, the person who is in default commits an offence under this Act. Penalty: Three million ringgit or imprisonment for a term not exceeding five years or both.”. Amendment of section 70"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Labuan Companies (Amendment) Act 2022."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 4(b) is deemed to have come into operation on 1 January 2019. General amendments"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Labuan Companies Act 1990 [Act 441], which is referred to as the “principal Act” in this Act, is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_20__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_20__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 70 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_20__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing section as subsection (1); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_20__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the renumbered subsection (1) the following subsection: “(2) If default is made in complying with this section, the Labuan company, foreign Labuan company or agent of the company who is in default commits an offence under this Act. Penalty: Three million ringgit or imprisonment for a term not exceeding five years or both.”. Amendment of section 71"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 71 of the principal Act is amended by inserting after subsection (2) the following subsection: “(3) If default is made in complying with this section, the person who is in default commits an offence under this Act. Penalty: One million ringgit or imprisonment for a term not exceeding three years or both.”. Amendment of section 72"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 72 of the principal Act is amended by inserting after subsection (2) the following subsection: “(3) If default is made in complying with this section, the Labuan company and every officer of the company who is in default commits an offence under this Act. Penalty: Fifty thousand ringgit or imprisonment for a term not exceeding three years or both.”. Amendment of section 73"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 73 of the principal Act is amended by inserting after subsection (2) the following subsection: “(3) Subsection (1) shall not apply to sections 69, 70, 71 and 72.”. Amendment of section 78"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 78(2)(c) of the principal Act is amended by inserting before the words “the nominal value” the words “for a foreign Labuan company,”. Amendment of section 80"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 80 of the principal Act is amended by inserting after subsection (1) the following subsection: “(1a) A Labuan company shall within thirty days notify the Authority in the prescribed form of any transfer of shares or debentures or any change of the information submitted under subsection (1).”. Amendment of section 83"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_26__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_26__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 83 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_26__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words “Ten thousand ringgit” the words “Fifty thousand ringgit and default penalty of five hundred ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_26__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (5), by substituting for the word “Ten” the word “Fifty”. Amendment of section 84"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 84(2) of the principal Act is amended by substituting for the word “Ten” the word “Fifty”. New section 84a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 84 the following section: “Assignment and variation of charge 84a. (1) If after a charge on property of a Labuan company has been created and lodged pursuant to section 84 and if a person other than the original charge holder becomes the new holder of the charge or any variation to the particulars of the charge, the company shall, within thirty days and upon payment of a prescribed fee, lodge with the Authority a notice stating the assignment or variation and the notice shall contain other information as may be determined by the Authority. (2) If default is made in complying with this section, the Labuan company and every officer of the company who is in default commits an offence under this Act. Penalty: Fifty thousand ringgit. Default penalty.”. Amendment of section 85"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_29__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_29__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 85 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_29__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by inserting after the words “a Labuan trust company” the words “, or any other office approved by the Authority”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_29__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (5), by substituting for the word “Ten” the word “Fifty”. Amendment of section 86"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “shall be guilty of an offence against this Act” wherever appearing the words “commits an offence under this Act”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the English language text, by substituting for the words “shall be guilty of an offence under this Act” wherever appearing the words “commits an offence under this Act”. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 2 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_30__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_30__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_30__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 86 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_30__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by deleting the words “Penalty: Ten thousand ringgit. Default penalty.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_30__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: “(1 a) If default is made in complying with subsection (1), the Labuan company and every officer of the company who is in default commits an offence under this Act. Penalty: Fifty thousand ringgit. Default penalty.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_30__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4), by substituting for the word “Ten” the word “Fifty”. Amendment of section 87"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_31__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_31__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_31__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_31__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_31__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_31__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 87 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_31__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words “at least one director who may be a resident director” the words “one or more directors at least one of whom shall be a resident director”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_31__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (2) the following subsection: “(2) A resident director of a Labuan company under subsection (1) shall be— (a) a trust officer of a Labuan trust company approved by the Authority under the Labuan Financial Services and Securities Act 2010 made available by the Labuan trust company to be appointed as a resident director; or (b) any natural person who has attained the age of eighteen, who is otherwise of full legal capacity, fulfills such criteria or requirement as may be determined by the Authority and has consented in writing to be appointed as a resident director.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_31__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (5) the following subsection: “(5) A trust officer or a natural person appointed as a resident director pursuant to paragraph (2)(a) or (2)(b), as the case may be, may retire or resign subject to the terms of the agreement between the Labuan trust company and the Labuan company of which he was appointed as resident director.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_31__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (5a);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_31__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (9) the following penalty provision: “Penalty: Three million ringgit or imprisonment for a term not exceeding five years or both.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_31__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (10) the following subsection: “(10) The fees payable for the appointment as a resident director shall be paid— (a) in the case of the trust officer appointed as a resident director of Labuan company pursuant to paragraph 2(a), to the Labuan trust company which made him available for the appointment; and (b) in the case of the natural person appointed as resident director of Labuan company pursuant to paragraph 2(b), directly to the person.”. Substitution of section 90"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 90 the following section: “Persons disqualified from being a director 90. (1) A person shall not be appointed as a director or hold office or take part or be in any way directly or indirectly concerned with or in the management of a Labuan company, if the person— (a) has been convicted of any offence in connection with the formation or management of a corporation or company; (b) has been convicted of any offence involving fraud, bribery or dishonesty; (c) is an undischarged bankrupt or insolvent; or (d) is deemed unfit by the Authority. (2) The Labuan company shall ensure that no person acting or nominated to act as a director or hold office or take part or be in any way directly or indirectly concerned with or in the management of a Labuan company is a disqualified person under subsection (1). (3) If default is made in complying with this section, the person who is in default commits an offence under this Act. Penalty: One million ringgit or imprisonment for a term not exceeding five years or both.”. Amendment of section 91"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 91 of the principal Act is amended by inserting after subsection (10) the following subsection: “(11) If default is made in complying with this section, the director of the company who is in default commits an offence under this Act. Penalty: Three million ringgit or imprisonment for a term not exceeding five years or both.”. Amendment of section 92"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_34__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_34__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_34__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 92 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_34__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (11) the following subsection: “(11) An officer of a Labuan company who contravenes this section shall be liable to the company for any profits made by him and for any damage suffered by the company as a result of such contravention.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_34__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (12) the following penalty provision: “Penalty: Five hundred thousand ringgit or imprisonment for a term not exceeding five years or both.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_34__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (12) the following subsection: “(12 a) If default is made in complying with subsection (3), the director of the Labuan company who is in default commits an offence under this Act. Penalty: Three million ringgit or imprisonment for a term not exceeding five years or both.”. Amendment of section 93"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_35__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_35__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_35__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 93 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_35__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_35__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_35__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_35__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_35__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_35__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “an officer” the words “a trust officer”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_35__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_35__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “the Labuan Financial Services Authority Act 1996” the words “the Labuan Financial Services and Securities Act 2010”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_35__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_35__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “or a Labuan company, or a domestic company wholly owned by the Labuan trust company,” the words “or a Labuan company or a domestic company, wholly owned by the Labuan trust company and approved by the Authority,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_35__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2c), by substituting for the words “the provisions of section 151 shall apply” the words “the company is deemed to be struck off the register”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_35__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (6) the following subsection: “(6) The salary of the resident secretary of a Labuan company payable by a Labuan company shall be paid directly to the Labuan trust company which made him available for the appointment.”. Amendment of section 94"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 94(6) of the principal Act is amended by substituting for the word “Ten” the word “Fifty”. Amendment of section 94a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_37__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_37__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_37__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 94a of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_37__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by deleting the words “directors and”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_37__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words “resident director or”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_37__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “shall be guilty of that offence” the words “commits an offence under this Act”. Amendment of section 105"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 105(3) of the principal Act is amended by substituting for the word “Ten” the word “Fifty”. New sections 108a, 108b, 108c, 108d, 108e, 108f, 108g and 108h"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 108 the following sections: “Beneficial ownership of Labuan company 108a. In this Act, “beneficial ownership” means a natural person who owns or controls a Labuan company or foreign Labuan company, in whole or in part, through direct or indirect ownership or control of shares or voting rights or other ownership interest in the Labuan company or foreign Labuan company, or who exercises effective control and influence in the Labuan company or foreign Labuan company as may be determined by the Authority. Power of company to require disclosure of beneficial ownership information 108b. (1) A Labuan company or foreign Labuan company shall take reasonable steps to find out and identify the beneficial owner of the Labuan company or foreign Labuan company, as the case may be. (2) Any Labuan company or foreign Labuan company may, by notice in writing, require any member of the Labuan company or foreign Labuan company whom the Labuan company or foreign Labuan company knows or has reasonable grounds to believe that he is a beneficial owner in relation to the Labuan company or foreign Labuan company— (a) to state whether he is a beneficial owner of the Labuan company or foreign Labuan company; (b) to state whether he knows or has reasonable grounds to believe that any other person is a beneficial owner of the Labuan company or foreign Labuan company or is likely to have that knowledge and to give such particulars of that person that are within his knowledge; and (c) to provide such other information within such reasonable time as specified in the notice. (3) Where a Labuan company or foreign Labuan company is informed or knows or has reasonable grounds to believe, that any other person is a beneficial owner of the Labuan company or foreign Labuan company, or is likely to have that knowledge, the Labuan company or foreign Labuan company may by notice in writing require that other person— (a) to state whether he is a beneficial owner of the Labuan company or foreign Labuan company; (b) to state whether he knows or has reasonable grounds to believe that any other person is a beneficial owner of the Labuan company or foreign Labuan company, or is likely to have that knowledge and to give such particulars of that other person that are within his knowledge; and (c) to provide such other information within such reasonable time as specified in the notice. (4) Any Labuan company or foreign Labuan company may, by notice in writing, require any member of the Labuan company or foreign Labuan company to inform the Labuan company or foreign Labuan company, within a reasonable time, as is specified in the notice, whether ownership or control of such member in the Labuan company or foreign Labuan company is subjected to an agreement or arrangement under which another person is entitled to control the member’s exercise of his interest or right and if so, to give particulars of the agreement or arrangement and the parties to the agreement or arrangement. (5) A resident secretary of a Labuan company or foreign Labuan company shall ensure that the Labuan company or foreign Labuan company complies with the obligations under this section. (6) If default is made in complying with this section, the Labuan company, foreign Labuan company and every officer of the company who is in default commits an offence under this Act. Duty to lodge information with the Authority 108c. (1) The particulars of beneficial ownership obtained under section 108b shall be lodged by the Labuan company, foreign Labuan company or the resident secretary with the Authority as part of the annual return lodge pursuant to section 109 or 129. (2) The Authority may, by notice in writing, direct a Labuan company or foreign Labuan company to invoke its powers under this section and to immediately provide the Authority with the information obtained under section 108b. (3) Any person who submits false or misleading or inaccurate information to the Authority under this section commits an offence under this Act. Particulars of beneficial ownership 108d. (1) The particulars of beneficial ownership required under subsection 108b(2) or (3) shall be determined by the Authority in a guideline issued under section 108g. (2) Whenever a Labuan company or foreign Labuan company receives information from a person in accordance with any requirement imposed on such person under section 108b, the Labuan company or foreign Labuan company shall be under an obligation to inscribe against the name of that member in a separate part of the register kept by the company under section 105— (a) the fact that a requirement was imposed and the date on which it was imposed; and (b) the information received in accordance with the requirement. (3) If default is made in complying with this section, the Labuan company, foreign Labuan company and every officer of the company who is in default commits an offence under this Act. Obligation of Labuan company to maintain and keep information up to date 108e. (1) A Labuan company or foreign Labuan company shall maintain and keep the particulars of beneficial ownership in its register of members under section 105 updated from time to time. (2) A Labuan company or foreign Labuan company shall, within thirty days of any changes to the particulars kept under subsection (1), lodge with the Authority such changes in the form and manner as may be determined by the Authority. (3) For the purposes of subsection (2), changes occur if— (a) a person ceases to be a beneficial owner in relation to the Labuan company or foreign Labuan company; (b) any other changes as a result of which prescribed particulars of the beneficial ownership in the register of members are incorrect or incomplete; (c) there are any changes to the particulars of the shareholders contained in the register; or (d) a person ceases to be, or becomes, a shareholder of the Labuan company or foreign Labuan company. (4) A resident secretary of a Labuan company or foreign Labuan company shall ensure that the Labuan company or foreign Labuan company complies with the obligations under this section. (5) If default is made in complying with this section or if the Labuan company or foreign Labuan company submits false or misleading or inaccurate information to the Authority under this section, the Labuan company, foreign Labuan company and every officer of the company who is in default commits an offence under this Act. Power of Authority to require submission and examination 108f. (1) The Authority may at any time by notice in writing require a Labuan company, foreign Labuan company, a resident secretary or any person the Authority deems appropriate to furnish all the necessary information and particulars of any beneficial owner of the Labuan company or foreign Labuan company and have the information and particulars verified by a statutory declaration. (2) Any Labuan company, foreign Labuan company, resident secretary or person served with the notice under subsection (1) shall comply with such notice within seven days of the receipt of such notice. (3) Notwithstanding subsection (1), the Authority may use its power under sections 28b and 28c of the Labuan Financial Services Authority Act 1996 in relation to the particulars of beneficial ownership and information kept by the Labuan company or foreign Labuan company pursuant to this Division. (4) If default is made in complying with this section, the Labuan company, foreign Labuan company or resident secretary and every officer of the company who is in default commits an offence under this Act. Penalty: One million ringgit and in the case of a continuing offence, to a further fine of ten thousand ringgit for each day during which the offence continues after conviction. (5) If default is made in complying with this section, the person who is in default commits an offence under this Act. Penalty: Imprisonment for a term not exceeding ten years or a fine three million ringgit or both, and in the case of a continuing offence, to a further fine of ten thousand ringgit for each day during which the offence continues after conviction. Power of Authority to issue Guidelines 108g. The Authority may issue guidelines pursuant to section 4a of the Labuan Financial Services Authority 1996 to clarify any provision of this Division. Removal of entries from register 108h. An entry relating to a natural person who used to be a beneficial owner may be removed from the register of members under section 105 after the expiration of six years from the date on which the natural person ceases to be a beneficial owner in relation to the Labuan company or foreign Labuan company.”. Amendment of section 110"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “domestic company”, by substituting for the words “Companies Act 1965 [Act 125]” the words “Companies Act 2016 [Act 777]”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the English language text, in the definition of “foreign offshore company”, by substituting for the words ‘ “foreign offshore company” ’ the words ‘ “foreign Labuan company” ’; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “resident”, by substituting for the words “pursuant to section 43 of the Exchange Control Act 1953 [Act 17]” the words “pursuant to paragraph 214(6)(a) of the Financial Services Act 2013 [Act 758] and paragraph 225(6)(a) of the Islamic Financial Services Act 2013 [Act 759]”. Amendment of section 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 7 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_40__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_40__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 110 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_40__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_40",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (3), the following subsection: “(3 a) If default is made in complying with subsection (1), (2) or (3), the director of the Labuan company who is in default commits an offence under this Act. Penalty: Five hundred thousand ringgit or imprisonment for a term not exceeding five years or both.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_40__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_40",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (5), by deleting the words “and sections 112 and 113”. Amendment of section 111"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_41__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_41__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 111 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_41__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_41",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2a), by substituting for the words “Subject to section 113a, a Labuan company” the words “A Labuan company”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_41__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_41__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_41__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_41",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_41__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_41__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “this section” the words “subsection (2) or (2a)”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_41__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_41__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “Ten” the word “Fifty”. Amendment of section 112"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_42__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_42__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 112 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_42__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_42",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing section as subsection (1); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_42__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_42",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) as renumbered the following subsection: “(2) Any director of a Labuan company who fails to take all reasonable steps to secure compliance by the company with the requirements of this section or a resident director who has by his own wilful act been the cause of any default by the company under this section, commits an offence under this Act. Penalty: Fifty thousand ringgit and default penalty of five hundred ringgit.”. Amendment of section 113"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 113 of the principal Act is amended by inserting after subsection (2) the following subsection: “(3) Any director of a Labuan company who fails to take all reasonable steps to secure compliance by the company with the requirements of this section or a resident director who has by his own wilful act been the cause of any default by the company under this section, commits an offence under this Act.”. Amendment of section 114"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 114 of the principal Act is amended by inserting after subsection (3) the following subsection: “(4) A Labuan company shall, within thirty days of any change in the auditor of the company, lodge with the Authority a notice and the notice shall be accompanied with the consent of the new auditor.”. Amendment of section 120"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_45",
+      "@type": "akn:clause",
+      "eli:number": "45",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 120(1) of the principal Act is amended by substituting for the words “Companies Act 1965” the words “Companies Act 2016”. Amendment of section 123"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_46",
+      "@type": "akn:clause",
+      "eli:number": "46",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 123(3) of the principal Act is amended by substituting for the word “Ten” the word “Fifty”. Amendment of section 127"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_47",
+      "@type": "akn:clause",
+      "eli:number": "47",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 127(8) of the principal Act is amended by substituting for the words “XI” the word “X”. Amendment of section 130"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_48",
+      "@type": "akn:clause",
+      "eli:number": "48",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_48__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_48__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 130 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_48__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_48",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the words “Companies Act 1965” the words “Companies Act 2016”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_48__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_48",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “Companies Act 1965 and licensed under the Banking and Financial Institutions Act 1989, the Islamic Banking Act 1983, or the Insurance Act 1963” the words “Companies Act 2016 and licensed under the Financial Services Act 2013 and the Islamic Financial Services Act 2013”. Amendment of section 130t"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_49",
+      "@type": "akn:clause",
+      "eli:number": "49",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 130t of the principal Act is amended by inserting after subsection (1) the following subsection: “(1a) Where a Labuan protected cell company makes any allotment of its cell shares, the protected cell company shall, within thirty days, lodge with the Authority the information of such allotment.”. Amendment of section 131"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_4__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_4__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_4__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_4__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “Division 5 of Part IV of the Companies Act 1965” the words “the relevant provisions of the Interest Schemes Act 2016 [Act 778]”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_4__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_4__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “of the Division” the words “of the Interest Schemes Act 2016”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsections (4), (5) and (6). Amendment of section 8"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 8 of the principal Act is amended by inserting after subsection (6) the following subsection: “(6a) If default is made in complying with this section, the Labuan company, foreign Labuan company and every officer of the company who is in default commits an offence under this Act. Penalty: Five hundred thousand ringgit or imprisonment for one year or both.”. Amendment of section 9a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_50",
+      "@type": "akn:clause",
+      "eli:number": "50",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 131(1) of the principal Act is amended by substituting for the words “Part VIII and Part X of the Companies Act 1965” the words “Subdivision 3 of Division 7 of Part III and Division 1 and Division 2 of Part IV of the Companies Act 2016”. Substitution of section 132"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_51",
+      "@type": "akn:clause",
+      "eli:number": "51",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 132 the following section: “Service of documents on companies 132. Any document served under this Act shall be deemed to have been served on a Labuan company or foreign Labuan company if the document— (a) is left, or sent by ordinary or registered post to it’s last known registered office or registered principal place of business of the company; and (b) is sent by electronic means to the address or numbers provided by the Labuan company or foreign Labuan company.”. Amendment of section 142"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_52",
+      "@type": "akn:clause",
+      "eli:number": "52",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_52__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_52__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 142 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_52__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_52",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the word “ten” the word “fifty”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_52__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_52",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4), by substituting for the words “shall be guilty of a further offence against this Act” the words “commits a further offence under this Act”. Amendment of section 142a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_53",
+      "@type": "akn:clause",
+      "eli:number": "53",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 142a(3) of the principal Act is amended by substituting for the word “ten” the word “fifty”. Amendment of section 151"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_54",
+      "@type": "akn:clause",
+      "eli:number": "54",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_54__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_54__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_54__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_54__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 151 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_54__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_54",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsections (3) and (4);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_54__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_54",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (5), by substituting for the words “this section” the words “section 151bb”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_54__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_54__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_54__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_54",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (6)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_54__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_54__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “this section” the words “section 151bb”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_54__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_54__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “in the Gazette” the words “in accordance with subsection 151bb(4)”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_54__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_54",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (7), by substituting for the words “Subsections (2) to (5)” the words “Subsections (2) and (5) and section 151bb”. New sections 151ba and 155bb"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_55",
+      "@type": "akn:clause",
+      "eli:number": "55",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 151b the following sections: “Power of Authority to strike off Labuan company 151ba. Notwithstanding any provision in this Act, the Authority may strike a Labuan company off the register, if the Labuan company– (a) fails to pay its annual fees or any additional amount in addition to the annual fee within the time specified pursuant to section 151; (b) fails to appoint a replacement resident secretary after the resignation of the former resident secretary pursuant to subsection 93(2c); (c) contravenes any provision of this Act and any other law relating to Labuan financial services; (d) being a licensed entity under the Labuan Financial Services and Securities Act 2010 or Labuan Islamic Financial Services and Securities Act 2010, has its licence, approval or registration surrendered or revoked by the Authority; or (e) is not carrying on any business or is not in operation. Notice of intention to strike off Labuan company 151bb. (1) Before the name of a Labuan company can be struck off the register under section 151ba, the Authority shall send a notice to the Labuan company stating that if an answer showing cause to the contrary is not received the name of the Labuan company shall be struck from the register within thirty days from the date of the notice or any extended period as may be approved by the Authority. (2) After the expiration of the period specified in the notice under subsection (1) or any extended period, unless the Labuan company has given reasons to the satisfaction of the Authority, the Authority may strike the name of the Labuan company off the register. (3) The notice under this section shall be deemed to be served on the Labuan company if the notice— (a) is left, or sent by ordinary or registered post to it’s last known registered office or registered principal place of business of the company; or (b) is sent by electronic means to the address or numbers provided by the Labuan company. (4) The Authority may publish in such form and manner a notice of striking a Labuan company off the Register. (5) For the purposes of paragraph 151ba(d), where after a licence, approval or registration of the Labuan company has been surrendered or revoked by the Authority, if the company wishes to continue as a Labuan company, the Labuan company shall change its name and memorandum within thirty days after such surrender or revocation of licence, approval or registration, or in the event that such Labuan company intends to continue to use its name and memorandum, the Labuan company may apply to the Authority for approval. (6) This section shall not apply to striking off under subsection 93(2c).”. Amendment of section 151c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_56",
+      "@type": "akn:clause",
+      "eli:number": "56",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_56__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_56__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 151c of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_56__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_56__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_56__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_56__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_56",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_56__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_56__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by deleting the word “or”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_56__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_56__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c), by substituting for the full stop at the end of the paragraph the words “; or”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_56__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_56__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (c) the following paragraph: “(d) incur any new liability.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_56__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_56__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_56__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_56",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_56__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_56__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting paragraph (a); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_56__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_56__para_b__subpara_ii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_56__para_b__subpara_ii__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_56__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_56__para_b__subpara_ii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_56__para_b__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “Part VIII and Part X” the words “Subdivision 3 of Division 7 of Part III and Division 1 and Division 2 of Part IV”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_56__para_b__subpara_ii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_56__para_b__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for “Companies Act 1965” the words “Companies Act 2016”. Amendment of section 151d"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_57",
+      "@type": "akn:clause",
+      "eli:number": "57",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_57__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_57__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_57__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 151d of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_57__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_57",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing section as subsection (1);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_57__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_57__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_57__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_57",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the renumbered subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_57__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_57__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “under section 151” the words “or section 151ba”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_57__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_57__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “three years” wherever appearing the words “one year and six months”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_57__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_57",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) as renumbered the following subsection: “(2) Where a Labuan company has been dissolved pursuant to subsection (1), the Court may, at any time within six years after the date of dissolution, on an application of any person who appears to the Court to have locus standi and legitimate interest in the Labuan company, if the Court is satisfied that at the time of the dissolution of the Labuan company, the company has not discharged all of its debts and liabilities or that it is for the name of the Labuan company to be restored, make an order upon such terms declaring the dissolution to be void, and such proceedings may be taken as if the company has not been dissolved and the Court may by order give such directions and make such provision.”. Amendment of section 151e"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_58",
+      "@type": "akn:clause",
+      "eli:number": "58",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 151e of the principal Act is amended by substituting for subsection (1) the following subsection: “(1) The Authority may issue a letter of confirmation under its seal, upon a request by any Labuan trust company, approved liquidator, receiver and manager, other person having written permission of the officer of the company, member, debenture holder, director or liquidator of the Labuan trust company or any person who can demonstrate to the Authority that he has a good reason for doing so, provided that— (a) the name of the Labuan company is in the register; (b) the Labuan company has paid all fees and penalties due and payable; and (c) the prescribed fee has been paid.”. Amendment of section 152"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_59",
+      "@type": "akn:clause",
+      "eli:number": "59",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 152(1a) of the principal Act is amended by substituting for the words “Companies Act 1965” the words “Companies Act 2016”. Amendment of section 153"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 9 a(2) of the principal Act is amended by inserting after the words “A Labuan trust company” the words “or any other person approved by the Authority”. Amendment of section 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_60",
+      "@type": "akn:clause",
+      "eli:number": "60",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_60__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_60__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_60__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 153 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_60__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_60",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words “Exchange Control Act 1953 [Act 17] and” the words “Financial Services Act 2013, Islamic Financial Services Act 2013 and”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_60__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_60",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words “Exchange Control Act 1953 and” the words “Financial Services Act 2013, Islamic Financial Services Act 2013 and”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_60__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_60",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the words “Exchange Control Act 1953” wherever appearing the words “Financial Services Act 2013, Islamic Financial Services Act 2013”. Savings and transitional provisions"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_61",
+      "@type": "akn:clause",
+      "eli:number": "61",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_61__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_61__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_61__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_61__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_61",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If a Labuan company has appointed a resident director pursuant to paragraphs 87(2)(a), (b) and (c) of the principal Act, the Labuan company shall comply with subsection 87(2) of the principal Act, as amended by subsection 31(b) of this Act, within the period of six months from the date of coming into operation of this Act or any extended period approved by the Authority."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_61__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_61",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All Labuan trust companies must comply with the requirements of subsection 93(2) of the principal Act within the period of six months from the date of coming into operation of this Act or any extended period approved by the Authority."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_61__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_61",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any inquiry, trial or proceedings done, taken or commenced under the principal Act before the commencement of this Act shall be continued and concluded under and in accordance with the principal Act as if the principal Act had not been amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 10 of the principal Act is amended by inserting after subsection (2) the following subsection: “(2a) If default is made in complying with this section, the person who is in default commits an offence under this Act. Penalty: One hundred thousand ringgit.”. Amendment of section 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 11 of the principal Act is amended by inserting after subsection (5) the following subsection: “(6) If default is made in complying with this section, the person who is in default commits an offence under this Act. Penalty: One hundred thousand ringgit.”. Amendment of section 12"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_9__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 12 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by inserting after the words “Subject to such conditions” the words “and payment of the prescribed fee”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (4) the following subsection: “(4a) If default is made in complying with this section, the person who is in default commits an offence under this Act. Penalty: Fifty thousand ringgit or imprisonment for a term not exceeding three years or both.”. Amendment of section 13"
+      }
+    }
+  ]
+}

@@ -50,15 +50,41 @@ Perbekalan Tambahan (1996 dan 1997) 1997.
 
 (Seksyen 2)
 
-Maksud Tajuk Peruntukan kepada Maksud (RM) B. 14 Kementerian Perumahan dan 3,525,000 Kerajaan Tempatan
+Maksud Tajuk
 
-B. 22 Kementerian Kebudayaan, 10,568,800 Kesenian dan Pelancongan
+<!-- marginal: Peruntukan -->
 
-B. 30 Peruntukan kepada Kumpulan 30,000,000 Wang Terkanun
+<!-- marginal: kepada Maksud -->
 
-B. 32 Jabatan Hasil Dalam Negeri 30,000,000
+<!-- marginal: (RM) -->
 
-B. 42 Kementerian Perpaduan Negara 5,000,000 dan Pembangunan Masyarakat
+B. 14 Kementerian Perumahan dan
+
+<!-- marginal: 3,525,000 -->
+
+Kerajaan Tempatan
+
+B. 22 Kementerian Kebudayaan,
+
+<!-- marginal: 10,568,800 -->
+
+Kesenian dan Pelancongan
+
+B. 30 Peruntukan kepada Kumpulan
+
+<!-- marginal: 30,000,000 -->
+
+Wang Terkanun
+
+B. 32 Jabatan Hasil Dalam Negeri
+
+<!-- marginal: 30,000,000 -->
+
+B. 42 Kementerian Perpaduan Negara
+
+<!-- marginal: 5,000,000 -->
+
+dan Pembangunan Masyarakat
 
 B. 47 Kementerian Pengangkutan 167,102,000
 

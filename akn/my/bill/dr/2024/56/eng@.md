@@ -70,7 +70,7 @@ Partnerships (Amendment)
 
 8. The principal Act is amended by inserting after section 69 the following part:
 
-“Part IVa
+## “PART IVA
 
 ## BENEFICIAL OWNERSHIP
 

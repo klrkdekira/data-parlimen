@@ -32,7 +32,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 3. Akta ibu dipinda dengan memasukkan selepas Jadual Kedua jadual yang berikut:
 
-“Third Schedule [Section 1a]
+## “THIRD SCHEDULE
+
+[Section 1a]
 
 1. Cattle 2. Domestic fowl 3. Sheep 4. Goat 5. Deer 6. Rabbit”.
 

@@ -6,7 +6,9 @@ D.R. 39/2007
 
 bernama
 
-Suatu Akta untuk meminda Akta Pemberian Pertambahan Hasil 1977.
+Suatu Akta untuk meminda Akta Pemberian Pertambahan Hasil
+
+1977.
 
 ### [
 

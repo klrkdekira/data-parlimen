@@ -16,11 +16,7 @@ I
 
 ## PERMULAAN
 
-1. Tajuk ringkas, pemakaian dan mula berkuatkuasa.
-
-2. Tafsiran.
-
-3. Kecualian bagi peruntukan-peruntukan dalam undang- undang bertulis lain.
+1. Tajuk ringkas, pemakaian dan mula berkuatkuasa. 2. Tafsiran. 3. Kecualian bagi peruntukan-peruntukan dalam undang- undang bertulis lain.
 
 ## BAHAGIAN
 
@@ -106,7 +102,9 @@ lain" selepas perkataan-perkataan "Kanun Keseksaan".
 
 ## HURAIAN
 
-1. Pindaan yang dicadangkan kepada adalah untuk
+1. Pindaan yang dicadangkan kepada
+
+<!-- marginal: adalah untuk -->
 
 menjelaskan bahawa peruntukan-peruntukan Rang Undang-Undang
 
@@ -200,7 +198,9 @@ oleh seseorang terhadap—
 
 (b) berkenaan dengan prosiding sivil bagi pampasan di bawah seksyen 10, mahkamah yang kompeten untuk mendengar tuntutan- tuntutan itu secara tort
 
-"mangsa" ertinya seseorang mangsa keganasan rumah tangga;
+"mangsa" ertinya seseorang mangsa keganasan rumah
+
+<!-- marginal: tangga; -->
 
 "Menteri" ertinya Menteri yang dipertanggungkan dengan tanggungjawab bagi kebajikan masyarakat;
 
@@ -240,11 +240,23 @@ menghalang orang yang terhadapnya perintah itu dibuat daripada menggunakan kegan
 
 5. (1) Mahkamah boleh, dalam prosiding yang melibatkan sesuatu aduan keganasan rumah tangga, mengeluarkan mana-mana satu atau lebih perintah perlindungan yang berikut:
 
-(a) perintah perlindungan yang menghalang orang yang terhadapnya perintah itu dibuat daripada menggunakan keganasan rumah tangga terhadap pengadu itu;
+(a) perintah perlindungan yang menghalang orang yang terhadapnya perintah itu dibuat daripada menggunakan keganasan rumah
 
-(b) perintah perlindungan yang menghalang orang yang terhadapnya perintah itu dibuat daripada menggunakan keganasan rumah tangga terhadap kanak-kanak itu;
+<!-- marginal: tangga -->
 
-(c) perintah perlindungan yang menghalang orang yang terhadapnya perintah itu dibuat daripada menggunakan keganasan rumah tangga terhadap orang dewasa tak berkeupayaan itu.
+terhadap pengadu itu;
+
+(b) perintah perlindungan yang menghalang orang yang terhadapnya perintah itu dibuat daripada menggunakan keganasan rumah
+
+<!-- marginal: tangga -->
+
+terhadap kanak-kanak itu;
+
+(c) perintah perlindungan yang menghalang orang yang terhadapnya perintah itu dibuat daripada menggunakan keganasan rumah
+
+<!-- marginal: tangga -->
+
+terhadap orang dewasa tak berkeupayaan itu.
 
 (2) Mahkamah dalam membuat sesuatu perintah perlindungan di bawah perenggan (l)(a) atau (b) atau
 
@@ -268,7 +280,7 @@ mengikut mana-mana yang berkenaan, mengadakan peruntukan bagi mana-mana satu ata
 
 ## KEGANASAN RUMAH TANGGA
 
-9
+<!-- marginal: 9 -->
 
 (e) menghendaki orang yang terhadapnya perintah itu dibuat untuk membenarkan mana-mana orang dilindungi itu untuk terus menggunakan sesuatu kenderaan yang sebelum itu biasanya digunakan oleh orang atau orang-orang dilindungi itu;
 
@@ -280,7 +292,11 @@ untuk mempunyai kuatkuasa selama sesuatu tempoh, tidak melebihi dua belas bulan 
 
 (a) dibuat atau dibuat semula, atas perlanggaran perintah perlindungan, mengikut seksyen 9; atau
 
-(b) diperlanjutkan selama sesuatu tempoh selanjutnya, tidak melebihi dua belas bulan dari tarikh habis tempoh perintah asalnya, jika mahkamah berpuas hati bahawa, walaupun tiada berlakunya perlanggaran sebenar akan perintah itu, perlanjutan itu perlu bagi perlindungan dan keselamatan diri orang atau orang-orang dilindungi itu:
+(b) diperlanjutkan selama sesuatu
+
+<!-- marginal: tempoh -->
+
+selanjutnya, tidak melebihi dua belas bulan dari tarikh habis tempoh perintah asalnya, jika mahkamah berpuas hati bahawa, walaupun tiada berlakunya perlanggaran sebenar akan perintah itu, perlanjutan itu perlu bagi perlindungan dan keselamatan diri orang atau orang-orang dilindungi itu:
 
 Dengan syarat bahawa perlanjutan sesuatu perintah di bawah perenggan ini tidak boleh dibuat lebih daripada sekali sahaja.
 
@@ -294,7 +310,11 @@ menyentuh apa-apa hakmilik atau kepentingan yang orang yang terhadapnya perintah
 
 (a) dibatalkan jika suatu kediaman alternatif yang sesuai didapati bagi orang atau orang-orang dilindungi itu; atau
 
-(b) dibatalkan atau diubahsuaikan apabila mahkamah berpuas hati bahawa ia tidak lagi perlu bagi menjaminkan keselamatan diri orang atau orang-orang dilindungi itu.
+(b) dibatalkan atau diubahsuaikan
+
+<!-- marginal: apabila -->
+
+mahkamah berpuas hati bahawa ia tidak lagi perlu bagi menjaminkan keselamatan diri orang atau orang-orang dilindungi itu.
 
 (5) Dalam perenggan (4)(b), "diubahsuaikan" ertinya mengubahsuaikan sesuatu perintah mengeluarkan orang yang terhadapnya perintah itu dibuat daripada keseluruhan kediaman bersama itu kepada suatu perintah yang mengeluarkannya daripada sesuatu bahagian kediaman bersama itu sebagaimana yang dinyatakan dalam perintah itu.
 
@@ -328,7 +348,11 @@ tetapi tiada apa-apa jua dalam seksyen ini boleh membenarkannya terus ditahan di
 
 (4) Bagi maksud-maksud seksyen ini "perintah perlindungan" meliputi perintah perlindungan interim.
 
-9. Jika seseorang yang terhadapnya suatu perintah perlindungan telah dibuat melanggar perintah perlindungan itu, maka mahkamah boleh, sebagai tambahan kepada mana-mana penalti yang diperuntukkan di bawah seksyen 8, membuat atau membuat semula, mengikut mana-mana yang berkenaan, mana-mana satu atau lebih perintah di bawah subseksyen 6 (1), untuk mula berkuatkuasa dari tarikh yang dinyatakan dalam perintah baru itu.
+9. Jika seseorang yang terhadapnya suatu perintah perlindungan telah dibuat melanggar perintah perlindungan itu, maka mahkamah boleh, sebagai tambahan kepada mana-mana penalti
+
+<!-- marginal: yang -->
+
+diperuntukkan di bawah seksyen 8, membuat atau membuat semula, mengikut mana-mana yang berkenaan, mana-mana satu atau lebih perintah di bawah subseksyen 6 (1), untuk mula berkuatkuasa dari tarikh yang dinyatakan dalam perintah baru itu.
 
 ## BAHAGIAN
 
@@ -354,11 +378,23 @@ III
 
 (e) perbelanjaan perlu dan munasabah yang ditanggung oleh atau bagi pihak mangsa apabila mangsa itu terpaksa berpisah atau dipisahkan daripada defendan oleh kerana keganasan rumah tangga itu, seperti—
 
-(i) perbelanjaan penginapan yang disumbangkan kepada tempat selamat atau tempat berlindung;
+(i) perbelanjaan penginapan
 
-(ii) perbelanjaan pengangkutan dan pemindahan;
+<!-- marginal: yang -->
 
-(iii) perbelanjaan yang dikehendaki dalam menubuhkan suatu rumah tangga berasingan yang, tertakluk kepada subseksyen (4), boleh meliputi amaun- amaun yang merupakan pembayaran pinjaman perumahan atau bayaran sewa atau sebahagian daripadanya, berkenaan dengan kediaman bersama, atau kediaman alternatif, mengikut mana- mana yang berkenaan, bagi tempoh sebagaimana yang mahkamah fikirkan adil dan semunasabahnya perlu.
+disumbangkan kepada tempat selamat atau tempat berlindung;
+
+(ii) perbelanjaan pengangkutan
+
+<!-- marginal: dan -->
+
+pemindahan;
+
+(iii) perbelanjaan yang dikehendaki dalam menubuhkan suatu rumah tangga berasingan yang, tertakluk kepada subseksyen (4), boleh meliputi amaun- amaun yang merupakan pembayaran pinjaman perumahan atau bayaran sewa atau sebahagian daripadanya, berkenaan dengan kediaman bersama,
+
+<!-- marginal: atau -->
+
+kediaman alternatif, mengikut mana- mana yang berkenaan, bagi tempoh sebagaimana yang mahkamah fikirkan adil dan semunasabahnya perlu.
 
 (4) Dalam menimbangkan apa-apa perbelanjaan perlu dan munasabah yang boleh diambil kira di bawah subperenggan (3)(e)(iii), mahkamah boleh juga mengambil kira tentang—
 

@@ -104,7 +104,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/10/msa@/~cl_2",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam takrif \"undang-undang\"— Rang Undang-Undang"
+        "@value": "dalam takrif \"undang-undang\"—"
       }
     },
     {
@@ -114,7 +114,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/10/msa@/~cl_2__para_b",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memotong perkataan \"atau mana-mana perundangan kecil\"; dan"
+        "@value": "dengan memotong perkataan \"atau mana-mana perundangan kecil\"; dan Rang Undang-Undang"
       }
     },
     {
@@ -230,21 +230,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/10/msa@/~cl_6",
       "@type": "akn:clause",
       "eli:number": "6",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/10/msa@/~cl_6__subsec_2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/10/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 14 seksyen yang berikut: 14A. (1) Pesuruhjaya boleh, Penerbitan jilid demi suaimanfaat, membenarkan cetakan semula disediakan jilid. dan diterbitkan jilid demi jilid, mengikut apa-apa susunan dan pada bila-bila masa yang difikirkannya suaimanfaat."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/10/msa@/~cl_6__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/10/msa@/~cl_6",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Mana-mana jilid sesuatu cetakan semula boleh mengandungi apa-apa susunan, lampiran dan perkara tambahan yang lain, termasuk indeks, sebagaimana yang difikirkan perlu oleh Pesuruhjaya. Pengemas,- 14B. Pesuruhjaya boleh, jika difikirkannya suaimanfaat, kinian membenarkan penyediaan dan penerbitan laporan kemas cetakan semula. kini yang mengandungi pindaan terkini kepada sesuatu cetakan semula, mengikut apa-apa susunan dan pada bila- bila masa yang difikirkannya suaimanfaat. Pewakilan 14c. Pesuruhjaya boleh mewakilkan mana-mana kuasanya kuasa. di bawah seksyen 14(2), 1 4A dan 14B kepada Timbalan Pesuruhjaya.\". Rang Undang-Undang Pindaan am"
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 14 seksyen yang berikut: 14A. (1) Pesuruhjaya boleh, jika difikirkannya Penerbitan jilid demi suaimanfaat, membenarkan cetakan semula disediakan jilid. dan diterbitkan jilid demi jilid, mengikut apa-apa susunan dan pada bila-bila masa yang difikirkannya suaimanfaat. (2) Mana-mana jilid sesuatu cetakan semula boleh mengandungi apa-apa susunan, lampiran dan perkara tambahan yang lain, termasuk indeks, sebagaimana yang difikirkan perlu oleh Pesuruhjaya. Pengemas,- 14B. Pesuruhjaya boleh, jika difikirkannya suaimanfaat, kinian membenarkan penyediaan dan penerbitan laporan kemas cetakan semula. kini yang mengandungi pindaan terkini kepada sesuatu cetakan semula, mengikut apa-apa susunan dan pada bila- bila masa yang difikirkannya suaimanfaat. Pewakilan 14c. Pesuruhjaya boleh mewakilkan mana-mana kuasanya kuasa. di bawah seksyen 14(2), 1 4A dan 14B kepada Timbalan Pesuruhjaya.\". Rang Undang-Undang Pindaan am"
       }
     },
     {

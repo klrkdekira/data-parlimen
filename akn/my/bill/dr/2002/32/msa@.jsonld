@@ -1,0 +1,756 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-32-2002",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_16"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Syarikat Amanah Labuan (Pindaan) 2002"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 9(1) Akta ibu dipinda dengan menggantikan perkataan \"ditetapkan\" dengan perkataari \"ditentukan oleh Pendaftar\". Pindaan seksyen 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 10 Akta ibu dipinda dengan memasukkan selepas subseksyen (4) subseksyen yang berikut: \"(5) Pendaftar boleh mengkenselkan pendaftaran mana-mana syarikat amanah, atas apa-apa terma dan syarat sebagaimana yang dinyatakan oleh Pendaftar, atas permintaan daripada syarikat amanah bagi pengkenselan itu. (6) Syarikat amanah di bawah subseksyen (5) hendaklah memuaskan hati Pendaftar bahawa ia'telah membuat peruntukan yang mencukupi berkenaan dengan semua Habilitinya dan hendaklah juga menetapkan tarikh pengkenselan itu berkuat kuasa. (7) Syarikat amanah itu hendaklah, tidak lewat daripada dua puluh satu hari sebelum tarikh yang ditetapkan di bawah, sub- seksyen (6), menyiarkan suatu iklan tentang cadangan pengkenselan pendaftarannya itu dalam sekurang-kurangnya satu akhbar Malaysia yang, diedarkan secara meluas dan satu akhbar kewangan antarabangsa.\". Seksyen baru HA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 11 seksyen yang berikut: \"Permohonan kepada Mahkamah Tinggi untuk memudahkan pelaksanaan perjanjian atau perkiraan untuk memindahkan keseluruhan perniagaan syarikat amanah HA. (1) Mana-mana syarikat amanah yang perniagaannya hendak dipindahkan (dalam seksyen ini disebut \"pemindah\") dan mana- mana syarikat amanah yang lain yang kepadanya pemindahan itu hendak dibuat (dalam seksyen ini disebut \"penerima pindahan\") boleh membuat permohonan bersama kepada Mahkamah melalui saman pemula secara exparte bagi mendapatkan apa-apa perintah Mahkamah sebagaimana yang diperlukan oleh mereka untuk memudahkan atau membolehkan perjanjian atau perkiraan itu dilaksanakan. (2) Apabila mendengar permohonan di bawah subseksyen (1), Mahkamah boleh memberikan perintah seperti yang dipohon, atau dengan apa-apa ubah suaian atau pengubahan sebagaimana yang difikirkan adil dan patut oleh Mahkamah mengikut hal keadaan kes itu. (3) Jika perintah Mahkamah di bawah subseksyen (1) membuat peruntukan bagi pemindahan apa-apa harta atau.perniagaan yang terletak hak pada atau dipegang oleh pemindah, sama ada bersendirian atau bersesama dengan mana-mana orang lain, maka, menurut kuasa perintah itu, harta atau perniagaan itu hendaklah, pada dan dari tarikh pemindahan itu, menjadi terletak hak pada atau dipegang oleh penerima pindahan sama ada bersendirian atau, mengikut mana-mana yang berkenaan, bersesama dengan mana-mana orang lain, dan perintah itu hendaklah berkuat kuasa mengikut maksudnya walau apa pun apa-apa jua dalam mana- mana undang-undang atau dalam mana-mana rukun undang- undang, dan hendaklah mengikat mana-mana orang yang terlibat dengannya, tanpa mengira bahawa orang yang terlibat sedemikian bukanlah suatu pihak dalam presiding di bawah seksyen ini atau dalam apa-apa presiding lain yang berkaitan, atau tidak tahu- menahu mengenai presiding di bawah seksyen ini atau mengenai presiding lain yang berkaitan itu. (4) Perintah Mahkamah yang dibuat di bawah subseksyen (1) hendaklah, tertakluk kepada arahan-arahan Mahkamah, disiarkan oleh penerima pindahan dalam sekurang-kurangnya satu akhbar Malaysia yang diedarkan secara meluas dan satu akhbar kewangan antarabangsa. (5) Pemindah hendaklah menyerah simpan, dalam masa tiga puluh hari dari tarikh perintah Mahkamah dibuat di bawah Syarikat Amanah Labuan (Pindaan) subseksyen (1), satu salinan disahkan perintah itu berserta dengan satu salinan disahkan perjanjian atau perkiraan itu, kepada— (a) Pendaftar; dan (b) pihak berkuasa yang berkenaan, jika ada, yang kena- mengena dengan pendaftaran atau perekodan urus niaga mengenai apa-apa harta alih, atau apa-apa kepentingan mengenai harta alih, yang dipindahkan menurut perintah itu. (6) Pendaftar, apabila menerima dokumen yang disebut dalam subseksyen (5), hendaklah mengkenselkan pendaftaran pemindah sebagai syarikat amanah. (7) Jika sesuatu perintah Mahkamah di bawah subseksyen (1) meletakhakkan mana-mana tanah berimilik, atau apa-apa bahagian atau kepentingan dalam mana-mana tanah berimilik, pada penerima pindahan— (a) Mahkamah hendaklah, jika tanah berimilik itu terletak di Semenanjung Malaysia, menurut subseksyen 420(2) Kanun Tanah Negara [Akta 56/65], menyebabkan supaya satu salinan perintah itu disampaikan kepada Pendaftar Hakmilik atau Pentadbir Tanah, mengikut mana-mana yang berkenaan, selepas sahaja perintah itu dibuat supaya Pendaftar Hakmilik atau Pentadbir Tanah, mengikut mana- mana yang berkenaan, melaksanakan peruntukan- peruntukan subseksyen 420(2), (3) dan (4) Kanun itu; (b) jika tanah berimilik itu terletak di Sabah, penerima pindahan hendaklah, dengan seberapa segera yang dapat dilaksanakan selepas perintah itu dibuat, menyerahkan satu salinan perintah itu yang telah disahkan kepada Pendaftar bagi pendaftaran peletakhakan tanah berimilik itu atau bahagian atau kepentingan dalam tanah berimilik itu sebagaimana yang diperuntukkan di bawah Ordinan Tanah Sabah [Sabah Bab 68]', atau (c) jika tanah berimilik itu terletak di Sarawak, penerima pindahan hendaklah, dengan seberapa segera yang dapat dilaksanakan selepas perintah itu dibuat, mengemukakan satu salinan perintah itu yang telah disahkan kepada Pendaftar bagi pendaftaran peletakhakan tanah berimilik itu atau bahagian atau kepentingan dalam tanah berimilik pada penerima pindahan itu sebagaimana yang diperuntukkan di bawah seksyen 171 Kanun Tanah Sarawak [Sarawak Bab 81]. (8) Sesuatu perintah Mahkamah di bawah subseksyen (1) boleh ada kaitan dengan apa-apa harta atau perniagaan pemindah di luar Malaysia dan, jika ia berkaitan sedemikian, boleh dilaksanakan sama ada mengikut apa-apa perkiraan bersaling yang berhubungan dengan penguatkuasaan penghakiman yang mungkin wujud di antara Malaysia dengan negara, wilayah atau tempat di luar Malaysia tempat harta atau perniagaan itu terletak, atau jika tiada perkiraan yang sedemikian, mengikut undang-undang yang terpakai dalam negara, wilayah atau tempat itu. (9) Bagi maksud seksyen ini— \"perniagaan\" ertinya apa-apa aktiviti yang dijalankan bagi maksud mendapat laba atau untung dan termasuklah segala harta yang didapati daripada, atau digunakan dalam atau bagi maksud, menjalankan aktiviti yang sedemikian dan segala hak dan liabiliti yang berbangkit daripada aktiviti yang sedemikian; \"sekuriti\" termasuklah gadai janji atau gadaian, sama ada di sisi undang-undang atau ekuiti, debentur, bil pertukaran, nota janji hutang, jaminan, lien atau sandaran, sama ada sebenar atau konstruktif, hipotekasi, tanggung rugi, aku janji atau cara-cara lain untuk menjamin pembayaran atau penunaian hutang atau liabiliti, sama ada pada masa sekarang atau masa hadapan, atau sama ada terletak hak atau kontingen.\". Pindaan seksyen 23"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 23 dengan seksyen yang berikut: \"Kerahsiaan 23. (1) Tiada seorang pun boleh tanpa keizinan bertulis syarikat amanah atau pelanggannya yang berkenaan, mendedahkan kepada mana-mana orang apa-apa maklumat yang berhubungan dengan hal ehwal syarikat amanah atau pelanggan yang berkenaan kecuali — (a) bagi maksud pelaksanaan tugas-tugasnya atau perjalanan fungsi-fungsinya di bawah Akta ini; Syarikat Amanah Labuan (Pindaan) (b) bagi maksud pelaksanaan tugas-tugasnya dalam ruang lingkup pekerjaannya; (c) apabila dikehendaki di sisi undang-undang supaya membuat pendedahan itu oleh mana-mana mahkamah atau di bawah peruntukan mana-mana undang-undang yang dikuatkuasakan oleh Pendaftar; atau (d) bagi maksud pelaksanaan fungsi-fungsi penyeliaan Pendaftar sebagaimana yang diperuntukkan di bawah mana- mana undang-undang bertulis. (2) Pendaftar boleh, sebagaimana yang dibenarkan di bawah Akta Lembaga Perkhidmatan Kewangan Luar Pesisir Labuan 1996 [Akta 545} atau Akta Pencegahan Pengubahan Wang Haram 2001 {Akta 613], memberikan apa-apa maklumat yang berhubungan dengan sesuatu syarikat amanah atau pelanggan sesuatu syarikat amanah kepada mana-mana pihak berkuasa penyeliaan asing atau tempatan atau agensi penguat kuasa undang-undang. (3) Mana-mana orang yang melanggar subseksyen (1) melakukan kesalahan terhadap Akta ini. Penalti: Tiga puluh ribu ringgit atau pemenjaraan selama lima tahun atau kedua-duanya.\". Seksyen baru 28 dan 29"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 27 seksyen yang berikut: \"Kuasa Menteri untuk mengecualikan 28. Menteri boleh, atas syor Pendaftar, dan melalui notis bertulis, tertakluk kepada apa-apa syarat yang boleh dikenakan olehnya, mengecualikan mana-mana orang daripada kesemua atau mana- mana peruntukan Akta ini. Tidak terpakainya peruntukan tertentu yang sedia ada 29. Tanpa menjejaskan seksyen 152 Akta Syarikat Luar Pesisir 1990, peruntukan berikut tidaklah terpakai bagi sesuatu syarikat amanah: 12 Rang Undang-Undang (a) perenggan 7(3)(a) dan (f) Akta Syarikat Luar Pesisir 199P; (b) perenggan 7(3)(c) Akta Syarikat Luar Pesisir 1990 jika syarikat amanah itu menerima fi perkhidmatan dalam urusan dengan pemastautin; dan (c) subseksyen 147(2) Akta Syarikat Luar Pesisir 1990 jika syarikat tempatan yang disebut dalam subseksyen itu tidak memberikan perkhidmatan perundangan, perakaunan, simpan kira, pengurusan atau pengarah pemastautin kepada syarikat tempatan yang lain.\", Pemindahan perniagaan syarikat amanah"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15__subsec_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15__subsec_9"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana syarikat yang didaftarkan sebagai syarikat amanah sebelum permulaan kuat kuasa Akta ini (dalam seksyen ini disebut \"pemindah\") boleh, pada dan selepas permulaan kuat kuasa Akta ini, memindahkan perniagaannya sebagai suatu syarikat amanah di bawah Akta ibu kepada syarikat lain yang berdaftar sebagai suatu syarikat amanah di bawah Akta ibu sebagaimana yang dipinda oleh Akta ini (dalam seksyen ini disebut \"penerima pindahan\") dengan membuat permohonan bersama kepada Mahkamah melalui saman pemula secara ex pane bagi mendapatkan apa-apa perintah Mahkamah sebagaimana yang diperlukan oleh mereka untuk memudahkan atau membolehkan perjanjian atau perkiraan itu dilaksanakan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila mendengar permohonan di bawah subseksyen (1), Mahkamah boleh memberikan perintah seperti yang dipohon, atau dengan apa-apa ubah suaian atau pengubahan sebagaimana yang difikirkan adil dan patut oleh Mahkamah mengikut hal keadaan kes itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika perintah Mahkamah di bawah subseksyen (1) membuat peruntukan bagi pemindahan apa-apa harta atau perniagaan yang terletak hak pada atau dipegang oleh pemindah, sama ada bersendirian atau bersesama dengan mana-mana orang lain, maka, menurut kuasa perintah itu, harta atau perniagaan itu hendaklah, pada dan dari tarikh pemindahan itu, menjadi terletak hak pada atau dipegang oleh penerima pindahan sama ada bersendirian atau, mengikut mana-mana yang berkenaan, bersesama dengan mana-mana orang lain, dan perintah itu hendaklah berkuat kuasa mengikut maksudnya Syarikat Amanah Labuan (Pindaan) walau apa pun apa-apa jua dalam mana-mana undang-undang atau dalam mana-mana rukun undang-undang, dan hendaklah mengikat mana-mana orang yang terlibat dengannya, tanpa mengira bahawa orang yang terlibat sedemikian bukanlah suatu pihak dalam presiding di bawah seksyen ini atau dalam apa-apa presiding lain yang berkaitan, atau tidak tahu-menahu mengenai presiding di bawah seksyen ini atau mengenai presiding lain yang berkaitan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perintah Mahkamah yang dibuat di bawah subseksyen (1) hendaklah, tertakluk kepada arahan-arahan Mahkamah, disiarkan oleh penerima pindahan dalam sekurang-kurangnya satu akhbar Malaysia yang diedarkan secara meluas dan satu akhbar kewangan antarabangsa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15__subsec_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15__subsec_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pemindah hendaklah menyerah simpan, dalam masa tiga puluh hari dari tarikh perintah Mahkamah dibuat di bawah sub- seksyen (1), satu salinan disahkan perintah itu berserta dengan satu salinan disahkan perjanjian atau perkiraan itu, kepada—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15__subsec_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15__subsec_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pendaftar; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15__subsec_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15__subsec_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pihak berkuasa yang berkenaan, jika ada, yang kena- mengena dengan pendaftaran atau perekodan urus niaga mengenai apa-apa harta alih, atau apa-apa kepentingan mengenai harta alih, yang dipindahkan menurut perintah itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pendaftar, apabila menerima dokumen yang disebut dalam subseksyen (5), hendaklah mengkenselkan pendaftaran pemindah sebagai syarikat amanah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15__subsec_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15__subsec_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15__subsec_7__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika sesuatu perintah Mahkamah di bawah subseksyen (1) meletakhakkan mana-mana tanah berimilik, atau apa-apa bahagian atau kepentingan dalam mana-mana tanah berimilik, pada penerima pindahan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15__subsec_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15__subsec_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mahkamah hendaklah, jika tanah berimilik itu terletak di Semenanjung Malaysia, menurut subseksyen 420(2) Kanun Tanah Negara, menyebabkan supaya satu salinan perintah itu disampaikan kepada Pendaftar Hakmilik atau Pentadbir Tanah, mengikut mana-mana yang berkenaan, selepas sahaja perintah itu dibuat supaya Pendaftar Hakmilik atau 14 Rang Undang-Undang Pentadbir Tanah, mengikut mana-mana yang berkenaan, melaksanakan peruntukan-peruntukan subseksyen 420(2), (3) dan (4) Kanun itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15__subsec_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15__subsec_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika tanah berimilik itu terletak di Sabah, penerima pindahan hendaklah, dengan seberapa segera yang dapat dilaksanakan selepas perintah itu dibuat, menyerahkan satu salinan perintah itu yang telah disahkan kepada Pendaftar bagi pendaftaran peletakhakan tanah berimilik itu atau bahagian atau kepentingan dalam tanah berimilik itu sebagaimana yang diperuntukkan di bawah Ordinan Tanah Sabah; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15__subsec_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15__subsec_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika tanah berimilik itu terletak di Sarawak, penerima pindahan hendaklah, dengan seberapa segera yang dapat dilaksanakan selepas perintah itu dibuat, mengemukakan satu salinan perintah itu yang telah disahkan kepada Pendaftar bagi pendaftaran peletakhakan tanah berimilik itu atau bahagian atau kepentingan dalam tanah berimilik, pada penerima pindahan itu, sebagaimana yang diperuntukkan di bawah seksyen 171 Kanun Tanah Sarawak."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sesuatu perintah Mahkamah di bawah subseksyen (1) boleh ada kaitan dengan apa-apa harta atau perniagaan pemindah di luar Malaysia dan, jika ia berkaitan sedemikian, boleh dilaksanakan sama ada mengikut apa-apa perkiraan bersaling yang berhubungan dengan penguatkuasaan penghakiman yang mungkin wujud di antara Malaysia dengan negara, wilayah atau tempat di luar Malaysia tempat harta atau perniagaan itu terletak, atau jika tiada perkiraan yang sedemikian, mengikut undang-undang yang terpakai dalam negara, wilayah atau tempat itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15__subsec_9",
+      "@type": "akn:subsection",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud seksyen ini— \"perniagaan\" ertinya apa-apa aktiviti yang dijalankan bagi maksud mendapat laba atau untung dan termasuklah segala harta yang didapati daripada, atau digunakan dalam atau bagi maksud, menjalankan aktiviti yang sedemikian dan segala hak dan liabiliti yang berbangkit daripada aktiviti yang sedemikian; \"sekuriti\" termasuklah gadai janji atau gadaian, sama ada di sisi undang-undang atau ekuiti, debentur, bil pertukaran, nota janji hutang, jaminan, lien atau sandaran, sama ada sebenar atau konstruktif, hipotekasi, tanggung rugi, aku janji atau cara-cara lain untuk menjamin pembayaran atau penunaian hutang atau liabiliti, sama ada pada masa sekarang atau masa hadapan, atau sama ada terletak hak atau kontingen. Kecualian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_16__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_16__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_16__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana syarikat yang diperbadankan di bawah Akta Syarikat 1965 atau yang didaftarkan sebagai syarikat asing di bawah Akta itu dan telah didaftarkan sebagai syarikat amanah di bawah subseksyen 4(1) Akta ibu sebaik sebelum permulaan kuat kuasa Akta ini hendaklah terus didaftarkan sebagai syarikat amanah di bawah subseksyen itu sehingga perniagaan syarikat amanahnya itu dipindahkan kepada syarikat lain yang didaftarkan di bawah subseksyen itu mengikut Akta ibu sebagaimana yang dipinda oleh Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_16__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa siasatan, perbicaraan atau presiding yang dilakukan, diambil atau dimulakan oleh mana-mana syarikat yang diperbadankan di bawah Akta Syarikat 1965 atau yang didaftarkan sebagai syarikat asing di bawah Akta itu dan telah didaftarkan sebagai syarikat amanah di bawah subseksyen 4(1) sebaik sebelum permulaan kuat kuasa Akta ini boleh diteruskan atau diselesaikan di bawah dan mengikut peruntukan Akta ibu sebagaimana yang dipinda oleh Akta ini oleh syarikat itu atau syarikat yang kepadanya perniagaan syarikat amanah syarikat itu telah dipindahkan dan yang dengannya siasatan, perbicaraan atau presiding itu berkaitan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Syarikat Amanah Labuan (Pindaan) 2002."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini hendaklah mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan tajuk panjang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Syarikat Amanah Labuan 1990 [Akta 442], yang disebut \"Akta ibu\" dalam Akta ini, dipinda dalam tajuk panjang dengan memasukkan selepas perkataan \"pendaftaran syarikat\" perkataan \"luar pesisir\". Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 2 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong takrif \"menjalankan perniagaan\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif \"Pendaftar\" takrif yang berikut: ' \"pengarah\" mempunyai erti yang diberikan kepadanya dalam Akta Syarikat Luar Pesisir 1990 [Akta 441]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa Inggeris dengan menggantikan noktah di hujung takrif \"trust company\" dengan koma bernoktah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif \"pengarah\" takrif yang berikut: ' \"perniagaan syarikat amanah\" ertinya perniagaan mengenai perjalanan apa-apa aktiviti ekonomi oleh sesuatu syarikat sebagai pemegang amanah, ejen, wasi atau pentadbir menurut tujuan-tujuan syarikat itu dan, tanpa mengehadkan keluasan peruntukan yang disebut terdahulu, termasuklah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_2__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menubuhkan atau menggunakan pejabat pemindahan syer atau pejabat pendaftaran syer;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mentadbirkan, menguruskan atau selainnya mengurusniagakan harta sebagai ejen, wakil diri di sisi undang-undang atau pemegang amanah, sama ada melalui pekhidmat atau ejen atau selainnya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menyenggarakan ejen bagi maksud mencari atau mendapatkan perniagaan, sama ada ejen itu bermastautin secara berterusan di Labuan atau tidak;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menyenggarakan pejabat, agensi atau cawangan, sama ada pejabat, agensi atau cawangan itu digunakan juga bagi apa-apa maksud oleh syarikat lain atau tidak;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_2__para_e__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_2__para_e__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mengadakan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_2__para_e__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_2__para_e",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perkhidmatan pengurusan dan perakaunan kepada; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_2__para_e__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_2__para_e",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pengarah, setiausaha dan pejabat berdaftar bagi, syarikat luar pesisir yang diperbadankan di bawah Akta Syarikat Luar Pesisir 1990 dan syarikat luar pesisir asing yang didaftarkan di bawah Akta itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memperbadankan atau mendaftarkan syarikat di bawah Akta Syarikat Luar Pesisir 1990 dan secara amnya bertindak sebagai ejen penyerahan bagi apa-apa dokumen yang dikehendaki supaya diserahkan oleh sesuatu syarikat atau seseorang di bawah Akta itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_3__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menyediakan apa-apa perkhidmatan sebagaimana yang diluluskan oleh Pendaftar dari semasa ke semasa, kepada atau bagi pihak mana- mana orang;'. Pindaan seksyen 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 3(1) Akta ibu dipinda dengan menggantikan perkataan \"perniagaan sebagai syarikat amanah\" dengan perkataan \"perniagaan syarikat amanah\". Pindaan seksyen 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 4 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: \"(1) Mana-mana orang yang diperbadankan atau didaftarkan di bawah Akta Syarikat Luar Pesisir 1990 boleh memohon kepada Pendaftar, dalam borang yang ditetapkan dan disertai dengan fi yang ditetapkan, bagi pendaftaran untuk menjalankan perniagaan syarikat amanah di Labuan.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5__para_b__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5__para_b__subpara_iv",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5__para_b__subpara_v",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5__para_b__subpara_vi",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5__para_b__subpara_vii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"Tiada syarikat, yang diperbadankan di bawah Akta Syarikat 1965, boleh dipertimbangkan bagi pendaftaran sebagai syarikat amanah melainkan jika-\" dengan perkataan \"Permohonan bagi pendaftaran di bawah subseksyen (1) boleh dipertimbangkan jika-\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5__para_b__subpara_ii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5__para_b__subpara_ii__subpara_B",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5__para_b__subpara_ii__subpara_C"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5__para_b__subpara_ii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5__para_b__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan mengggantikan perkataan \"syarikat\" dengan perkataan \"pemohon\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5__para_b__subpara_ii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5__para_b__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"lima ratus ribu ringgit\" perkataan \", atau yang setara dengannya dalam mana-mana mata wang asing,\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5__para_b__subpara_ii__subpara_C",
+      "@type": "akn:subparagraph",
+      "eli:number": "C",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5__para_b__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan '\"sepuluh ringgit\" perkataan \", atau yang setara dengannya dalam mata wang asing itu,\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan menggantikan perkataan \"syarikat\" di mana-mana jua terdapat dengan perkataan \"pemohon\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5__para_b__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c), dengan memasukkan selepas perkataan \"seratus lima puluh ribu ringgit\" perkataan \"atau yang setara dengannya dalam mana-mana mata wang asing\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5__para_b__subpara_v",
+      "@type": "akn:subparagraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (d) .dengan perenggan yang berikut: \"(d) pemohon sama ada— (i) telah memperoleh, atau akan memperoleh apa-apa polisi insurans tanggung rugi profesional dengan perlindungan yang tidak kurang daripada.satu juta ringgit atau yang setara dengannya dalam mana-mana mata wang asing atau apa-apa amaun lain sebagaimana yang ditentukan oleh Pendaftar, dan tetap ditanggung rugi di bawah polisi itu sepanjang operasinya sebagai suatu syarikat amanah; atau (ii) telah mendepositkan dengan Pendaftar cagaran yang bernilai satu ratus ribu ringgit atau apa-apa amaun lain sebagaimana yang ditentukan oleh Pendaftar;\"; Syarikat Amanah Labuan (Pindaan) 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5__para_b__subpara_vi",
+      "@type": "akn:subparagraph",
+      "eli:number": "vi",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (e) dengan perenggan yang berikut: \"(e) pemohon itu dapat menunaikan obligasi- obligasinya termasuk liabilitinya kepada pemegang syernya; dan\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5__para_b__subpara_vii",
+      "@type": "akn:subparagraph",
+      "eli:number": "vii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (e) perenggan yang berikut: \"(/) pengarah dan pegawai pemohon yang ditetapkan di bawah subseksyen (3), yang bertanggung jawab bagi pengurusan syarikat amanah di Labuan, merupakan orang yang layak dan sesuai dan tetap sedemikian sepanjang pelantikan mereka dengan syarikat amanah itu.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (3) dengan subseksyen yang berikut: \"(3) Sesuatu syarikat amanah hendaklah mempunyai di Labuan— (a) pejabat berdaftarnya; (b) tempat perniagaan; aan (c) sekurang-kurangnya dua orang pegawai, yang diluluskan dan ditetapkan sebagai pegawai amanah oleh Pendaftar.\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: \"(4) Peruntukan perenggan (3)(b). dan (c) tidaklah terpakai bagi syarikat amanah yang diuruskan oleh syarikat amanah yang lain.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 5 Akta ibu, dipinda dengan menggantikan sub- seksyen (2) dengan subseksyen yang berikut: \"(2) Tiap-tiap syarikat amanah hendaklah, apabila didaftarkan atau pada atau sebelum 15 Januari setiap tahun dalam tempoh 6 Rang Undang-Undang pendaftarannya, membayar kepada Pendaftar apa-apa fi pendaftaran sebagaimana yang ditetapkan dalam peraturan yang dibuat di bawah seksyen 25.\". Pindaan seksyen 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 6 Akta ibu dipinda dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: \"(4) Tiada syarikat amanah boleh membuka apa-apa pejabat atau memperoleh atau menubuhkan apa-apa subsidiari di luar Labuan tanpa mendapat keizinan bertulis terlebih dahulu daripada Pendaftar.\". Pindaan seksyen 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 7 dengan seksyen yang berikut: \"Pematuhan Akta Syarikat Luar Pesisir 1990 7. Kecuali sebagaimana yang diperuntukkan dengan nyata selainnya dalam Akta ini, peruntukan-peruntukan Akta Syarikat Luar Pesisir 1990 hendaklah terpakai bagi syarikat amanah.\". Pindaan seksyen 8"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_9__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 8 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula seksyen yang sedia ada sebagai subseksyen (1) seksyen itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/32/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: \"(2) Walau apa pun subseksyen (1), sesuatu syarikat amanah boleh memberikan perkhidmatan kepada pemastautin, tetapi hanya bagi apa-apa maksud sebagaimana yang dibenarkan di bawah Akta Syarikat Luar Pesisir 1990.\". Syarikat Amanah Labuan (Pindaan) Pindaan seksyen 9"
+      }
+    }
+  ]
+}

@@ -8,9 +8,7 @@ D.R. 4/97
 
 bernama
 
-Suatu Akta untuk meminda Akta Insurans Luar Pesisir
-
-1990.
+Suatu Akta untuk meminda Akta Insurans Luar Pesisir 1990.
 
 ## MAKA INILAH DIPERBUAT UNDANG-UNDANG
 

@@ -50,7 +50,21 @@ ENACTED by the Parliament of Malaysia as follows:
 
 3. The principal Act is amended by substituting for section 5 the following section:
 
-Controller, 5. (1) The Director General of the Corporation shall be Deputy the Controller of Copyright. Controllers and Assistant Controllers.
+<!-- marginal: Controller, -->
+
+5. (1) The Director General of the Corporation shall be
+
+<!-- marginal: Deputy -->
+
+the Controller of Copyright.
+
+<!-- marginal: Controllers -->
+
+<!-- marginal: and -->
+
+<!-- marginal: Assistant -->
+
+<!-- marginal: Controllers. -->
 
 <!-- page 3 -->
 

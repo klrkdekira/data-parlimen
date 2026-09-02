@@ -12,9 +12,7 @@ Naskhah Sahih—Bahasa Malaysia
 
 ## PERMULAAN
 
-1. Tajuk ringkas dan mula berkuatkuasa.
-
-2. Tafsiran.
+1. Tajuk ringkas dan mula berkuatkuasa. 2. Tafsiran.
 
 ## BAHAGIAN
 
@@ -22,19 +20,7 @@ II
 
 ## MAJLIS OPTIK MALAYSIA
 
-3. Penubuhan Majlis.
-
-4. Keanggotaan Majlis.
-
-5. Tempoh jawatan.
-
-6. Saraan.
-
-7. Kewarganegaraan.
-
-8. Pengosongan jawatan.
-
-9. Mesyuarat Majlis.
+3. Penubuhan Majlis. 4. Keanggotaan Majlis. 5. Tempoh jawatan. 6. Saraan. 7. Kewarganegaraan. 8. Pengosongan jawatan. 9. Mesyuarat Majlis.
 
 10. Prosedur dalam mesyuarat.
 
@@ -102,17 +88,11 @@ IV
 
 AM
 
-34. Pendaftaran fraud.
-
-35. Kesalahan-kesalahan.
+34. Pendaftaran fraud. 35. Kesalahan-kesalahan.
 
 36. Alat-alat optik.
 
-37. Penalti am.
-
-38. Kuasa untuk memasuki premis dan memeriksa dan menyita dokumen dsb.
-
-39. Penjalanan pendakwaan.
+37. Penalti am. 38. Kuasa untuk memasuki premis dan memeriksa dan menyita dokumen dsb. 39. Penjalanan pendakwaan.
 
 40. Pertubuhan perbadanan dan perkongsian.
 
@@ -166,7 +146,11 @@ oleh Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong dengan nasih
 
 "Daftar" ertinya Daftar yang disimpan mengikut seksyen 17;
 
-"institusi pengajian tinggi" ertinya Universiti atau Akta 30. Kolej Universiti yang ditubuhkan di bawah Akta Universiti dan Kolej Universiti 1971;
+"institusi pengajian tinggi" ertinya Universiti atau
+
+<!-- marginal: Akta 30. -->
+
+Kolej Universiti yang ditubuhkan di bawah Akta Universiti dan Kolej Universiti 1971;
 
 "juruoptik berdaftar" ertinya seseorang juruoptik yang didaftarkan di bawah seksyen 18;
 
@@ -182,7 +166,11 @@ oleh Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong dengan nasih
 
 "orang berdaftar" ertinya seseorang yang didaftarkan di bawah seksyen 18 atau 19 dan termasuk seseorang yang didaftarkan sementara di bawah subseksyen (3) seksyen 18;
 
-"pakar oftalmologi" ertinya seseorang yang di- Akta 50. daftarkan di bawah Akta Perubatan 1971 dan yang mengkhususkan diri dalam penjagaan keadaan mata;
+"pakar oftalmologi" ertinya seseorang yang di-
+
+<!-- marginal: Akta 50. -->
+
+daftarkan di bawah Akta Perubatan 1971 dan yang mengkhususkan diri dalam penjagaan keadaan mata;
 
 "Pendaftar" ertinya Pendaftar yang disebutkan dalam seksyen 16;
 
@@ -222,11 +210,19 @@ anggota yang berikut:
 
 (c) dua orang pakar oftalmologi yang bermastautin di Malaysia, seorang daripadanya hendaklah dari sektor awam, yang hendaklah dilantik oleh Menteri;
 
-(d) dua orang optometris berdaftar yang bermastautin di Malaysia yang hendaklah dipilih oleh optometris-optometris berdaftar yang bermastautin di Malaysia;
+(d) dua orang optometris berdaftar
+
+<!-- marginal: yang -->
+
+bermastautin di Malaysia yang hendaklah dipilih oleh optometris-optometris berdaftar yang bermastautin di Malaysia;
 
 (e) dua orang juruoptik berdaftar yang bermastautin di Malaysia yang hendaklah dipilih oleh juruoptik-juruoptik berdaftar yang bermastautin di Malaysia;
 
-(f) seorang wakil dari mana-mana institusi pengajian tinggi yang menawarkan kursus atau program optometri, yang hendaklah dilantik oleh Menteri.
+(f) seorang wakil dari mana-mana
+
+<!-- marginal: institusi -->
+
+pengajian tinggi yang menawarkan kursus atau program optometri, yang hendaklah dilantik oleh Menteri.
 
 <!-- page 6 -->
 
@@ -242,15 +238,23 @@ anggota yang berikut:
 
 (e) dua orang yang bermastautin di Malaysia dan layak didaftarkan sebagai juruoptik di bawah Akta ini, yang hendaklah dilantik oleh Menteri;
 
-(f) seorang wakil dari mana-mana institusi pengajian tinggi yang menawarkan kursus atau program optometri, yang hendaklah dilantik oleh Menteri.
+(f) seorang wakil dari mana-mana
+
+<!-- marginal: institusi -->
+
+pengajian tinggi yang menawarkan kursus atau program optometri, yang hendaklah dilantik oleh Menteri.
 
 (3) Jika Pengerusi tidak dapat menjalankan fungsi- fungsinya di bawah Akta ini atau mana-mana peraturan yang dibuat di bawah Akta ini kerana dia sakit, tidak ada di Malaysia atau kerana apa-apa sebab lain, fungsi- fungsinya hendaklah dijalankan oleh Timbalan Pengerusi.
 
 (4) Tanpa menjejaskan subseksyen (3), Pengerusi boleh mewakilkan mana-mana fungsinya kepada Timbalan Pengerusi yang, pada menjalankan fungsi- fungsi itu, hendaklah tertakluk kepada kawalan, pengawasan dan arahan Pengerusi.
 
-Tempoh
+<!-- marginal: Tempoh -->
 
-5. (1) Tertakluk kepada subseksyen (2), seseorang jawatan. anggota yang dilantik atau dipilih di bawah subseksyen
+5. (1) Tertakluk kepada subseksyen (2), seseorang
+
+<!-- marginal: jawatan. -->
+
+anggota yang dilantik atau dipilih di bawah subseksyen
 
 (1) atau (2) seksyen 4 hendaklah memegang jawatan selama tempoh tiga tahun dan layak dilantik semula atau dipilih semula.
 
@@ -300,17 +304,27 @@ pemenjaraan (sama ada pemenjaraan sahaja atau sebagai tambahan kepada denda atau
 
 (g) jika dia berhenti menjadi pakar oftalmologi, juruoptik berdaftar atau optometris berdaftar.
 
-Mesyuarat
+<!-- marginal: Mesyuarat -->
 
-9. (1) Tertakluk kepada subseksyen (2), sesuatu Majlis. mesyuarat Majlis hendaklah dipanggil oleh Pengerusi melalui notis secara bertulis kepada anggota-anggota lain dan mesyuarat itu hendaklah diadakan pada masa dan di tempat yang dinyatakan dalam notis itu.
+9. (1) Tertakluk kepada subseksyen (2), sesuatu
+
+<!-- marginal: Majlis. -->
+
+mesyuarat Majlis hendaklah dipanggil oleh Pengerusi melalui notis secara bertulis kepada anggota-anggota lain dan mesyuarat itu hendaklah diadakan pada masa dan di tempat yang dinyatakan dalam notis itu.
 
 (2) Menteri boleh, melalui notis secara bertulis kepada setiap orang anggota, mengarahkan supaya suatu mesyuarat diadakan pada masa dan di tempat yang dinyatakan dalam notis itu.
 
 (3) Majlis hendaklah bermesyuarat sekurang- kurangnya enam bulan sekali.
 
-Prosedur
+<!-- marginal: Prosedur -->
 
-10. (1) Pengerusi, jika hadir, hendaklah mempengerusi- dalam kan semua mesyuarat Majlis. mesyuarat.
+10. (1) Pengerusi, jika hadir, hendaklah mempengerusi-
+
+<!-- marginal: dalam -->
+
+kan semua mesyuarat Majlis.
+
+<!-- marginal: mesyuarat. -->
 
 (2) Jika Pengerusi tidak hadir pada mana-mana mesyuarat Majlis maka Timbalan Pengerusi hendaklah mempengerusikan mesyuarat dan jika kedua-duanya tidak hadir maka anggota-anggota yang hadir pada mesyuarat itu hendaklah memilih seorang daripada antara mereka untuk mempengerusikan mesyuarat itu.
 
@@ -404,7 +418,9 @@ III
 
 ## PENDAFTARAN JURUOPTIK DAN OPTOMETRIS
 
-Pendaftar. 16. (1) Bagi maksud-maksud Akta ini maka hendaklah ada seorang Pendaftar.
+<!-- marginal: Pendaftar. -->
+
+16. (1) Bagi maksud-maksud Akta ini maka hendaklah ada seorang Pendaftar.
 
 (2) Ketua Pengarah hendaklah menjadi Pendaftar.
 
@@ -412,7 +428,9 @@ Pendaftar. 16. (1) Bagi maksud-maksud Akta ini maka hendaklah ada seorang Pendaf
 
 (4) Pendaftar boleh mewakilkan mana-mana fungsinya di bawah Akta ini atau mana-mana peraturan yang dibuat di bawah Akta ini kepada Timbalan Pendaftar yang. pada menjalankan fungsi-fungsi itu, hendaklah tertakluk kepada kawalan, pengawasan dan arahan Pendaftar.
 
-Daftar. 17. (1) Pendaftar hendaklah menyebabkan Daftar- Daftar yang berikut disimpan dalam bentuk yang ditetapkan;
+<!-- marginal: Daftar. -->
+
+17. (1) Pendaftar hendaklah menyebabkan Daftar- Daftar yang berikut disimpan dalam bentuk yang ditetapkan;
 
 (a) Daftar juruoptik;
 
@@ -422,7 +440,11 @@ Daftar. 17. (1) Pendaftar hendaklah menyebabkan Daftar- Daftar yang berikut disi
 
 (3) Pendaftar hendaklah bertanggungjawab atas penyenggaraan dan penjagaan Daftar-Daftar mengikut peruntukan-peruntukan Akta ini dan peraturan-peraturan yang dibuat di bawah Akta ini.
 
-(4) Daftar-Daftar hendaklah disifatkan sebagai dokumen awam mengikut pengertian Akta Keterangan Akta 56. 1950.
+(4) Daftar-Daftar hendaklah disifatkan sebagai dokumen awam mengikut pengertian Akta Keterangan
+
+<!-- marginal: Akta 56. -->
+
+1950.
 
 (5) Suatu perakuan di bawah tandatangan Pendaftar bahawa mana-mana orang—
 
@@ -478,15 +500,33 @@ didaftarkan sementara dalam Daftar juruoptik selama tempoh latihan amali itu dan
 
 Majlis boleh membatalkan pendaftaran sementara orang itu dan memerintahkan supaya namanya dipotong dari Daftar.
 
-Orang-orang
+<!-- marginal: Orang-orang -->
 
-19. (1) Mana-mana orang berhak didaftarkan sebagai yang berhak optometris jika dia memuaskan hati Majlis bahawa dia didaftarkan sebagai berumur tidak kurang daripada lapan belas tahun, ialah optometris. seorang yang patut dan layak didaftarkan sebagai optometris dan memegang mana-mana kelulusan yang dinyatakan dalam Jadual Kedua.
+19. (1) Mana-mana orang berhak didaftarkan sebagai
+
+<!-- marginal: yang berhak -->
+
+optometris jika dia memuaskan hati Majlis bahawa dia
+
+<!-- marginal: didaftarkan -->
+
+<!-- marginal: sebagai -->
+
+berumur tidak kurang daripada lapan belas tahun, ialah
+
+<!-- marginal: optometris. -->
+
+seorang yang patut dan layak didaftarkan sebagai optometris dan memegang mana-mana kelulusan yang dinyatakan dalam Jadual Kedua.
 
 (2) Majlis boleh membenarkan pendaftaran mana- mana orang sebagai optometris jika dia memuaskan hati Majlis bahawa dia berumur tidak kurang daripada lapan belas tahun, ialah seorang yang patut dan layak didaftarkan sebagai optometris dan mempunyai kelulusan yang Tidak dinyatakan dalam Jadual Kedua tetapi keluiusan itu dianggap sesuai oleh Menteri, selepas berunding dengan Majlis, bagi maksud-maksud pendaftaran.
 
-Cara
+<!-- marginal: Cara -->
 
-20. (1) Tertakluk kepada peruntukan-peruntukan Akta pcndaftaran. ini dan peraturan-peraturan yang dibuat di bawahnya, mana-mana orang yang mahu supaya didaftarkan di bawah Akta ini boleh memohon kepada Pendaftar dalam borang yang ditetapkan.
+20. (1) Tertakluk kepada peruntukan-peruntukan Akta
+
+<!-- marginal: pcndaftaran. -->
+
+ini dan peraturan-peraturan yang dibuat di bawahnya, mana-mana orang yang mahu supaya didaftarkan di bawah Akta ini boleh memohon kepada Pendaftar dalam borang yang ditetapkan.
 
 (2) Pendaftaran di bawah Akta ini hendaklah dilaksanakan dengan mencatatkan, dalam Daftar, butir- butir pemohon sebagaimana yang ditetapkan apabila fee yang ditetapkan dibayar.
 
@@ -540,7 +580,7 @@ tatatertibnya, mengenakan mana-mana hukuman yang berikut:
 
 (3) Apa-apa kos yang diawardkan di bawah sub- seksyen (2) boleh didapatkan sebagai hutang sivil.
 
-Siasatan.
+<!-- marginal: Siasatan. -->
 
 23. (1) Sebelum membuat apa-apa perintah tatatertib, Majlis hendaklah mengadakan suatu siasatan.
 
@@ -552,9 +592,19 @@ Siasatan.
 
 (5) Majlis boleh menggantung, buat sementara waktu, pendaftaran orang berdaftar sementara me- nunggu keputusan Majlis atau pemberesan mana-mana rayuan.
 
-Penyerahan
+<!-- marginal: Penyerahan -->
 
-24. (1) Jika nama seseorang orang berdaftar telah balik diperintahkan oleh Majlis supaya dipotong dari Daftar, perakuan pendaftaran. orang itu hendaklah menyerahkan perakuan pen- daftarannya kepada Majlis dalam tempoh empat belas hari dari penerimaan perintah itu.
+24. (1) Jika nama seseorang orang berdaftar telah
+
+<!-- marginal: balik -->
+
+diperintahkan oleh Majlis supaya dipotong dari Daftar,
+
+<!-- marginal: perakuan -->
+
+<!-- marginal: pendaftaran. -->
+
+orang itu hendaklah menyerahkan perakuan pen- daftarannya kepada Majlis dalam tempoh empat belas hari dari penerimaan perintah itu.
 
 <!-- page 15 -->
 
@@ -586,17 +636,43 @@ Penyerahan
 
 (8) Tertakluk kepada Akta ini dan peraturan- peraturan yang dibuat di bawah Akta ini, prosedur Lembaga Rayuan hendaklah ditentukan oleh Lembaga itu.
 
-Pemotongan
+<!-- marginal: Pemotongan -->
 
-26. ( I) Tanpa menjejaskan peruntukan-peruntukan nama oleh subseksyen (4) seksyen 18 dan peruntukan-peruntukan sebab kelemahan seksyen 22, Majlis boleh memerintahkan supaya nama fizikal atau mana-mana orang berdaftar dipotong dari Daftar jika mental. Majlis berpuas hati bahawa orang berdaftar itu tak upaya, oleh sebab kelemahan fizikal atau mental, menjalankan tugas-tugasnya sebagai juruoptik atau optometris.
+26. ( I) Tanpa menjejaskan peruntukan-peruntukan
+
+<!-- marginal: nama oleh -->
+
+subseksyen (4) seksyen 18 dan peruntukan-peruntukan
+
+<!-- marginal: sebab -->
+
+<!-- marginal: kelemahan -->
+
+seksyen 22, Majlis boleh memerintahkan supaya nama
+
+<!-- marginal: fizikal atau -->
+
+mana-mana orang berdaftar dipotong dari Daftar jika
+
+<!-- marginal: mental. -->
+
+Majlis berpuas hati bahawa orang berdaftar itu tak upaya, oleh sebab kelemahan fizikal atau mental, menjalankan tugas-tugasnya sebagai juruoptik atau optometris.
 
 (2) Bagi maksud memuaskan hatinya bahawa mana- mana orang berdaftar tak upaya, oleh sebab kelemahan fizikal atau mental, menjalankan tugas-tugasnya sebagai juruoptik atau optometris, Majlis hendaklah melantik suatu Lembaga Kajian Semula Perubatan yang hendak- lah terdiri daripada tidak kurang daripada tiga orang pengamal perubatan untuk menjalankan siasatan atas setiap kes dan membuat syor-syor yang difikirkan patut oleh Lembaga itu.
 
 (3) Peruntukan-peruntukan seksyen 24 dan 25 hendaklah terpakai bagi mana-mana orang yang namanya telah diperintahkan supaya dipotong dari Daftar di bawah seksyen ini.
 
-Perubahan
+<!-- marginal: Perubahan -->
 
-27. Tanpa menjejaskan mana-mana peruntukan lain kepada Akta ini, jika Majlis berpuas hati bahawa seseorang Daftar. orang berdaftar—
+27. Tanpa menjejaskan mana-mana peruntukan lain
+
+<!-- marginal: kepada -->
+
+Akta ini, jika Majlis berpuas hati bahawa seseorang
+
+<!-- marginal: Daftar. -->
+
+orang berdaftar—
 
 (a) telah meninggal dunia; atau
 
@@ -630,21 +706,61 @@ IV
 
 ## AMALAN OPTOMETRI
 
-Hanya orang-
+<!-- marginal: Hanya orang- -->
 
-29. (1) Tiada seorang pun boleh menjalankan amalan orang optometri melainkan jika dia seorang orang berdaftar. berdaftar sahaja boleh
+29. (1) Tiada seorang pun boleh menjalankan amalan
 
-(2) Walau apa pun subseksyen (1) tetapi tertakluk menjalankan amalan kepada seksyen 30, tiada seorang pun boleh optometri mernpreskripsi atau mendispens kanta lekap melainkan jika dia seorang optometris berdaftar.
+<!-- marginal: orang -->
+
+optometri melainkan jika dia seorang orang berdaftar.
+
+<!-- marginal: berdaftar -->
+
+<!-- marginal: sahaja boleh -->
+
+(2) Walau apa pun subseksyen (1) tetapi tertakluk
+
+<!-- marginal: menjalankan -->
+
+<!-- marginal: amalan -->
+
+kepada seksyen 30, tiada seorang pun boleh
+
+<!-- marginal: optometri -->
+
+mernpreskripsi atau mendispens kanta lekap melainkan jika dia seorang optometris berdaftar.
 
 (3) Subseksyen (1) dan (2) tidaklah terpakai bagi seorang pengamal perubatan.
 
 (4) Mana-mana orang yang melanggar seksyen ini adalah melakukan suatu kesalahan.
 
-Majlis boleh
+<!-- marginal: Majlis boleh -->
 
-30. (1) Walau apa pun subseksyen (2) seksyen 29, membenarkan Majlis boleh, atas permohonan seseorang juruoptik juruoptik mempres- berdaftar— kripsi dan mendispen
+30. (1) Walau apa pun subseksyen (2) seksyen 29,
 
-(a) yang telah mempreskripsi dan mendispens kanta kanta lekap selama tempoh tiga tahun atau lebih lekap. sebelum sahaja tarikh Akta ini mula ber- kuatkuasa; atau
+<!-- marginal: membenarkan -->
+
+Majlis boleh, atas permohonan seseorang juruoptik
+
+<!-- marginal: juruoptik -->
+
+<!-- marginal: mempres- -->
+
+berdaftar—
+
+<!-- marginal: kripsi dan -->
+
+<!-- marginal: mendispen -->
+
+(a) yang telah mempreskripsi dan mendispens kanta
+
+<!-- marginal: kanta -->
+
+lekap selama tempoh tiga tahun atau lebih
+
+<!-- marginal: lekap. -->
+
+sebelum sahaja tarikh Akta ini mula ber- kuatkuasa; atau
 
 (b) yang telah mempreskripsi dan mendispens kanta lekap selama tempoh yang kurang daripada tiga tahun sebelum sahaja tarikh Akta ini mula
 
@@ -830,13 +946,7 @@ pun boleh tnenjual apa-apa alat optik melainkan jika jualan itu dilaksanakan ole
 
 (b) kepada pengilang atau peniaga alat optik bagi maksud perniagaannya; atau
 
-(c) kepada mana-mana pihak berkuasa atau orang yang bertanggungjawab bagi pengurusan— (i) sesuatu hospital;
-
-(ii) sesuatu klinik;
-
-(iii) sesuatu rumah rawatan; atau
-
-(iv) mana-mana institusi lain yang mem- berikan rawatan perubatan atau pem- bedahan dan yang diluluskan oleh Menteri; atau
+(c) kepada mana-mana pihak berkuasa atau orang yang bertanggungjawab bagi pengurusan— (i) sesuatu hospital; (ii) sesuatu klinik; (iii) sesuatu rumah rawatan; atau (iv) mana-mana institusi lain yang mem- berikan rawatan perubatan atau pem- bedahan dan yang diluluskan oleh Menteri; atau
 
 (d) kepada sesuatu jabatan kerajaan; atau
 
@@ -858,9 +968,27 @@ pun boleh tnenjual apa-apa alat optik melainkan jika jualan itu dilaksanakan ole
 
 (2) Dalam hal sesuatu kesalahan yang berterusan, seseorang yang disabitkan di bawah Akta ini boleh didenda selanjutnya sebanyak lima puluh ringgit bagi setiap hari kesalahan itu berterusan selepas sabitan sebagai tambahan kepada penalti-penalti yang diperuntukkan di bawah perenggan (a) dan (b) subseksyen (1).
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-38. (1) Bagi maksud-maksud Akta ini, seseorang memasuki pegawai awam yang diberikuasa secara bertulis oleh premis dan memeriksa Ketua Pengarah boleh, dalam waktu perniagaan biasa, dan menyita memasuki premis di mana seseorang orang berdaftar dokumen dsb. menjalankan amalan optometri atau di mana ada sebab yang munasabah untuk mempercayai bahawa seseorang. menjalankan amalan optometri dan—
+38. (1) Bagi maksud-maksud Akta ini, seseorang
+
+<!-- marginal: memasuki -->
+
+pegawai awam yang diberikuasa secara bertulis oleh
+
+<!-- marginal: premis dan -->
+
+<!-- marginal: memeriksa -->
+
+Ketua Pengarah boleh, dalam waktu perniagaan biasa,
+
+<!-- marginal: dan menyita -->
+
+memasuki premis di mana seseorang orang berdaftar
+
+<!-- marginal: dokumen dsb. -->
+
+menjalankan amalan optometri atau di mana ada sebab yang munasabah untuk mempercayai bahawa seseorang. menjalankan amalan optometri dan—
 
 (a) boleh memeriksa apa-apa dokumen, radas atau artikel yang disimpan atau digunakan berkaitan dengan amalan itu;
 
@@ -936,7 +1064,13 @@ senarai kelulusan yang boleh didaftarkan yang terdapat dalam Jadual-Jadual.
 
 <!-- page 26 -->
 
-42. (1) Menteri, selepas berunding dengan Majlis, Peraturan- peraturan. boleh membuat peraturan-peraturan untuk menetapkan apa-apa jua yang dikehendaki atau dibenarkan ditetapkan di bawah Akta ini dan pada amnya untuk melaksanakan tujuan-tujuan dan maksud-maksud Akta ini.
+42. (1) Menteri, selepas berunding dengan Majlis,
+
+<!-- marginal: Peraturan- -->
+
+<!-- marginal: peraturan. -->
+
+boleh membuat peraturan-peraturan untuk menetapkan apa-apa jua yang dikehendaki atau dibenarkan ditetapkan di bawah Akta ini dan pada amnya untuk melaksanakan tujuan-tujuan dan maksud-maksud Akta ini.
 
 (2) Khususnya dan tanpa menjejaskan keluasan subseksyen (1), peraturan-peraturan itu boleh menetap- kan mana-mana atau kesemua yang berikut:
 
@@ -978,7 +1112,31 @@ yang dikehendaki di bawah Akta ini.
 
 ## BAGI JURUOPTIK
 
-Perihal kelulusan Negeri tempat Namu Yayasan yang kelulusan diberikan membenkan kelulusan Diploma in Optometry India Shn Vatshnav Polytechmc Diploma in Optometry Municipal Eye Hospital Kamathipura, Bombay Diploma in Optometry Sarojini Devi Eye Hospital, Hyderabad Diploma in Optometry Government Eye Hospital Egmore, Madras Sitapur Eye Hospital, Diploma in Optometry Sitapur Diploma in Optometry Indonesia Akademi Refraksionis Optisien, Surabaya Doctor of Optometry Filipina Central College of Philippnes Doctor of Optometry South Western University Fellow of the The Association of United Kingdom Association of Dispensing Opticians Dispensing Opticians Bradford Technical Fellow of the Association of College Dispensmg Opticians Fellow of the City and East London Association of College of Applied Optics Dispensing Opticians Diploma in Glasgow College of Ophthalmic Dispensing Technology
+Perihal kelulusan
+
+<!-- marginal: Negeri tempat -->
+
+Namu Yayasan yang
+
+<!-- marginal: kelulusan diberikan -->
+
+membenkan kelulusan Diploma in Optometry
+
+<!-- marginal: India -->
+
+Shn Vatshnav Polytechmc Diploma in Optometry Municipal Eye Hospital Kamathipura, Bombay Diploma in Optometry Sarojini Devi Eye Hospital, Hyderabad Diploma in Optometry Government Eye Hospital Egmore, Madras Sitapur Eye Hospital, Diploma in Optometry Sitapur Diploma in Optometry
+
+<!-- marginal: Indonesia -->
+
+Akademi Refraksionis Optisien, Surabaya Doctor of Optometry
+
+<!-- marginal: Filipina -->
+
+Central College of Philippnes Doctor of Optometry South Western University Fellow of the The Association of
+
+<!-- marginal: United Kingdom -->
+
+Association of Dispensing Opticians Dispensing Opticians Bradford Technical Fellow of the Association of College Dispensmg Opticians Fellow of the City and East London Association of College of Applied Optics Dispensing Opticians Diploma in Glasgow College of Ophthalmic Dispensing Technology
 
 ## JADUAL KEDUA
 
@@ -988,11 +1146,63 @@ Perihal kelulusan Negeri tempat Namu Yayasan yang kelulusan diberikan membenkan 
 
 ## BAGI OPTOMETRIS
 
-Perihal kelulusan Nama Yayaaan yang Negeri tempat memberikan kelulusan kelulusan diberikan Bachelor of Applied Australia Queeinsland Unwersily Science (Optometry) of Technology Bachelor in Optometry University of Melbourne Bachelor in Optometry University of New South Wales Doctor of Oplometry University of Waterloo Kanada
+Perihal kelulusan Nama Yayaaan yang
+
+<!-- marginal: Negeri tempat -->
+
+memberikan kelulusan
+
+<!-- marginal: kelulusan -->
+
+<!-- marginal: diberikan -->
+
+Bachelor of Applied
+
+<!-- marginal: Australia -->
+
+Queeinsland Unwersily Science (Optometry) of Technology Bachelor in Optometry University of Melbourne Bachelor in Optometry University of New South Wales Doctor of Oplometry University of Waterloo
+
+<!-- marginal: Kanada -->
 
 <!-- page 28 -->
 
-Negeri tempat Nama Yayasan yang Perihal kelulusan memberikan kelulusan kelulusan dtberikan Hong Kong Polytechnic Hong Kong Bachelor of Science Institute of Medical Diploma in Optometry and Heallh Care Ehte School of Optometry, India Bachelor in Optometry Madras Malaysia Universiti Kebangsaan Sarjana Muda Optometri Malaysia University of Auckland New Zealand Bachelor of Science in Optometry Nigena University of Benin Bachelor of Science in Optometry United Kingdom University of Aston Bachelor of Science in Birmingham tn Ophthalmic Optics University of Bradford Bachelor of Science in Ophthalmic Optics City University London Bachelor of Science m Ophthalmic Optics University of Manchester Bachelor of Science Institute of in Ophthalmic Optics Science and Technology University of Wales Bachelor of Science Institute of Science m Ophthalmic Optics and Technology, Cardiff Bachelor of Science Glasgow College of Technology in Optometry Amerika Syarikat Indiana Umversity, Doctor of Oprometry Bloomingt on Ohio State University Doctor of Optometry University of Cahfornia, Doctor of Optometry Berkeley University of Houston Doclor of Optometry University of Alabama Doctor of Optometry in Birmingham New York State University Doctor of Optometry Illinois College of Doctor of Optometry Optometry Chicago The New England College Doctor of Optometry of Optometry, Boston Pacific University of Doctor of Optometry Oregon Southern College of Doctor of Optometry Optometry, Memphis The Southern California Doctor of Optometry College of Optometry Ferris State Universily Doctor of Optometry University of Missouri. Doctor of Optometry St. Louis
+<!-- marginal: Negeri tempat -->
+
+Nama Yayasan yang Perihal kelulusan memberikan kelulusan
+
+<!-- marginal: kelulusan -->
+
+<!-- marginal: dtberikan -->
+
+Hong Kong Polytechnic
+
+<!-- marginal: Hong Kong -->
+
+Bachelor of Science Institute of Medical Diploma in Optometry and Heallh Care Ehte School of Optometry,
+
+<!-- marginal: India -->
+
+Bachelor in Optometry Madras
+
+<!-- marginal: Malaysia -->
+
+Universiti Kebangsaan Sarjana Muda Optometri Malaysia University of Auckland
+
+<!-- marginal: New Zealand -->
+
+Bachelor of Science in Optometry
+
+<!-- marginal: Nigena -->
+
+University of Benin Bachelor of Science in Optometry
+
+<!-- marginal: United Kingdom -->
+
+University of Aston Bachelor of Science in Birmingham tn Ophthalmic Optics University of Bradford Bachelor of Science in Ophthalmic Optics City University London Bachelor of Science m Ophthalmic Optics University of Manchester Bachelor of Science Institute of in Ophthalmic Optics Science and Technology University of Wales Bachelor of Science Institute of Science m Ophthalmic Optics and Technology, Cardiff Bachelor of Science Glasgow College of Technology in Optometry
+
+<!-- marginal: Amerika Syarikat -->
+
+Indiana Umversity, Doctor of Oprometry Bloomingt on Ohio State University Doctor of Optometry University of Cahfornia, Doctor of Optometry Berkeley University of Houston Doclor of Optometry University of Alabama Doctor of Optometry in Birmingham New York State University Doctor of Optometry Illinois College of Doctor of Optometry Optometry Chicago The New England College Doctor of Optometry of Optometry, Boston Pacific University of Doctor of Optometry Oregon Southern College of Doctor of Optometry Optometry, Memphis The Southern California Doctor of Optometry College of Optometry Ferris State Universily Doctor of Optometry University of Missouri. Doctor of Optometry St. Louis
 
 <!-- page 29 -->
 

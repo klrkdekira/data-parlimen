@@ -164,7 +164,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (i) the company granted with a licence under section 24a to cease to provide any services within an aerodrome or otherwise;
 
-(ii) the person licensed
+(ii) the person
+
+<!-- marginal: licensed -->
 
 <!-- marginal: by -->
 
@@ -172,7 +174,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 Malaysian Aviation Commission under section 37 of the Malaysian Aviation Commission Act 2015 to cease to provide ground handling services; or
 
-(iii) the person licensed
+(iii) the person
+
+<!-- marginal: licensed -->
 
 <!-- marginal: by -->
 

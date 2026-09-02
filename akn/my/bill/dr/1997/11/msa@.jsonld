@@ -78,7 +78,7 @@
       },
       "schema:text": {
         "@language": "ms",
-        "@value": "\"Akta Perubatan\" ertinya Akta Perubatan 1971; \"berdaftar sementara\" ertinya didaftarkan sementara di bawah seksyen 12 Akta Perubatan; \"bidan berdaftar\" ertinya mana-mana orang yang Akta 436. didaftarkan di bawah Akta Bidan 1966; \"jururawat berdaftar\" ertinya mana-mana orang yang Akta 14. didaftarkan di bawah Akta Jururawat 1950; \"Ketua Pengarah\" ertinya Ketua Pengarah Kesihatan, Malaysia; \"Majlis\" ertinya Majlis Perubatan Malaysia yang ditubuhkan di bawah seksyen 3 Akta Perubatan; \"pembantu perubatan berdaftar\" ertinya mana-mana Akta 180. orang yang didaftarkan di bawah Akta Pembantu Perubatan (Pendaftaran) 1977; \"pengamal perubatan berdaftar penuh\" ertinya mana- mana orang yang didaftarkan penuh di bawah seksyen 14 Akta Perubatan; \"perakuan amalan\" ertinya perakuan amalan yang dikeluarkan di bawah seksyen 20 Akta Perubatan; \"teleperubatan\" ertinya amalan perubatan dengan menggunakan komunikasi audio, visual dan data. Orang-orang"
+        "@value": "\"Akta Perubatan\" ertinya Akta Perubatan 1971; \"berdaftar sementara\" ertinya didaftarkan sementara di bawah seksyen 12 Akta Perubatan; \"bidan berdaftar\" ertinya mana-mana orang yang didaftarkan di bawah Akta Bidan 1966; \"jururawat berdaftar\" ertinya mana-mana orang yang didaftarkan di bawah Akta Jururawat 1950; \"Ketua Pengarah\" ertinya Ketua Pengarah Kesihatan, Malaysia; \"Majlis\" ertinya Majlis Perubatan Malaysia yang ditubuhkan di bawah seksyen 3 Akta Perubatan; \"pembantu perubatan berdaftar\" ertinya mana-mana orang yang didaftarkan di bawah Akta Pembantu Perubatan (Pendaftaran) 1977; \"pengamal perubatan berdaftar penuh\" ertinya mana- mana orang yang didaftarkan penuh di bawah seksyen 14 Akta Perubatan; \"perakuan amalan\" ertinya perakuan amalan yang dikeluarkan di bawah seksyen 20 Akta Perubatan; \"teleperubatan\" ertinya amalan perubatan dengan menggunakan komunikasi audio, visual dan data."
       }
     },
     {
@@ -103,7 +103,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/11/msa@/~cl_3",
       "schema:text": {
         "@language": "ms",
-        "@value": "Tiada seorang pun, selain— yang boleh mengamalkan"
+        "@value": "Tiada seorang pun, selain—"
       }
     },
     {
@@ -113,7 +113,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/11/msa@/~cl_3__subsec_1",
       "schema:text": {
         "@language": "ms",
-        "@value": "pengamal perubatan berdaftar penuh yang teleperubatan. memegang suatu perakuan amalan yang sah; atau"
+        "@value": "pengamal perubatan berdaftar penuh yang memegang suatu perakuan amalan yang sah; atau"
       }
     },
     {
@@ -254,7 +254,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/11/msa@/~cl_5",
       "schema:text": {
         "@language": "ms",
-        "@value": "Sebelum seseorang pengamal perubatan berdaftar Persetujuan pesakit. penuh mengamalkan teleperubatan berhubungan dengan seseorang pesakit, pengamal perubatan berdaftar penuh itu hendaklah mendapatkan persetujuan bertulis pesakit itu."
+        "@value": "Sebelum seseorang pengamal perubatan berdaftar penuh mengamalkan teleperubatan berhubungan dengan seseorang pesakit, pengamal perubatan berdaftar penuh itu hendaklah mendapatkan persetujuan bertulis pesakit itu."
       }
     },
     {
@@ -399,7 +399,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/11/msa@/~cl_6__subsec_2",
       "schema:text": {
         "@language": "ms",
-        "@value": "untuk menetapkan standard minimum berkenaan dengan apa-apa kemudahan, komputer, perkakas, alat, kelengkapan, peralatan, bahan, artikel dan benda yang akan digunakan dalam amalan teleperubatan di mana-mana premis; 8 Rang Undang-Undang"
+        "@value": "untuk menetapkan standard minimum berkenaan dengan apa-apa kemudahan, komputer, perkakas, alat, kelengkapan, peralatan, bahan, artikel dan benda yang akan digunakan dalam amalan teleperubatan di mana-mana premis; Rang Undang-Undang"
       }
     },
     {

@@ -12,9 +12,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Tajuk ringkas dan permulaan kuat kuasa
 
-1.
-
-(1) Akta ini bolehlah dinamakan Akta Pencen Pihak-Pihak Berkuasa Berkanun dan Tempatan (Pindaan) 2008.
+1. (1) Akta ini bolehlah dinamakan Akta Pencen Pihak-Pihak Berkuasa Berkanun dan Tempatan (Pindaan) 2008.
 
 (2) Akta ini mula berkuat kuasa pada 1 Julai 2008.
 
@@ -122,4 +120,4 @@ Walau bagaimanapun pekerja-pekerja yang berkenaan diberikan opsyen untuk bersara
 
 Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang jumlahnya belum dapat ditentukan sekarang.
 
-[PN(U2)2637]
+<!-- marginal: [PN(U2)2637] -->

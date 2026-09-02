@@ -40,9 +40,33 @@ dalam seksyen 2 dengan memasukkan selepas takrif "Negeri" takrif yang berikut:
 
 simpanan dan harta Lembaga atau yang pada hakikatnya menerima, memegang atau melupuskan barang simpanan dan harta itu;'.
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
-3. Akta ibu adalah dipinda dengan memasukkan selepas 16A, 16B, seksyen 16 seksyen vane berikut: 16c, 16D, 16E, 16F, 16G dan "Jawatan- 16A. (1) Lembaga hendaklah mempunyai kuasa 16H kuasa tatatertib terhadap semua pegawai dan tatatertib. penjawatnya dan hendaklah menjalankan kawalan tatatertib berkenaan dengan semua orang sedemikian mengikut Akta ini dan mana-mana peraturan yang dibuat di bawah seksyen 16c.
+3. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: 16A, 16B, -->
+
+seksyen 16 seksyen vane berikut:
+
+<!-- marginal: 16c, 16D, -->
+
+<!-- marginal: 16E, 16F, -->
+
+<!-- marginal: 16G dan -->
+
+<!-- marginal: "Jawatan- -->
+
+16A. (1) Lembaga hendaklah mempunyai kuasa
+
+<!-- marginal: 16H -->
+
+<!-- marginal: kuasa -->
+
+tatatertib terhadap semua pegawai dan
+
+<!-- marginal: tatatertib. -->
+
+penjawatnya dan hendaklah menjalankan kawalan tatatertib berkenaan dengan semua orang sedemikian mengikut Akta ini dan mana-mana peraturan yang dibuat di bawah seksyen 16c.
 
 (2) Bagi maksud seksyen ini—
 
@@ -68,9 +92,25 @@ Seksyen baru
 
 (5) Pada menjalankan tugas dan kuasa tatatertibnya, sesuatu jawatankuasa tatatertib yang disebut dalam subseksyen (2) hendaklah mempunyai kuasa untuk mengambil tindakan tatatertib dan mengenakan apa-apa hukuman tatatertib atau apa-apa kombinasi dua hukuman tatatertib atau lebih sebagaimana yang diperuntukkan di bawah mana-mana peraturan yang dibuat di bawah seksyen 16c.
 
-Rayuan
+<!-- marginal: Rayuan -->
 
-16B. (1) Sesuatu keputusan jawatankuasa terhadap tatatertib di bawah seksyen 16A(2)(2) bolehlah keputusan jawatan- dirayu kepada Menteri. kuasa tata- tertib. (2) Sesuatu keputusan jawatankuasa tatatertib di bawah seksyen l6A(2)(b) bolehlah dirayu kepada Jawatankuasa Rayuan Tatatertib yang hendaklah terdiri daripada anggota yang berikut:
+16B. (1) Sesuatu keputusan jawatankuasa
+
+<!-- marginal: terhadap -->
+
+tatatertib di bawah seksyen 16A(2)(2) bolehlah
+
+<!-- marginal: keputusan -->
+
+<!-- marginal: jawatan- -->
+
+dirayu kepada Menteri.
+
+<!-- marginal: kuasa tata- -->
+
+<!-- marginal: tertib. -->
+
+(2) Sesuatu keputusan jawatankuasa tatatertib di bawah seksyen l6A(2)(b) bolehlah dirayu kepada Jawatankuasa Rayuan Tatatertib yang hendaklah terdiri daripada anggota yang berikut:
 
 (a) Pengerusi Lembaga, yang hendaklah menjadi pengerusi Jawatankuasa Rayuan Tatatertib dan mempunyai undi pemutus; dan
 
@@ -86,7 +126,23 @@ rayuan itu, yang hendaklah dilantik oleh pengerusi Jawatankuasa Rayuan Tataterti
 
 (5) Keputusan Menteri atau Jawatankuasa Rayuan Tatatertib di bawah subseksyen (3) adalah muktamad dan konklusif.
 
-Kuasa 16c. (1) Lembaga boleh, dengan kelulusan membuat peraturan- Menteri, membuat apa-apa peraturan yang peraturan difikirkannya perlu atau suaimanfaat untuk tatatertib. mengadakan peruntukan bagi tatatertib pegawai- pegawai dan penjawat-penjawat Lembaga.
+<!-- marginal: Kuasa -->
+
+16c. (1) Lembaga boleh, dengan kelulusan
+
+<!-- marginal: membuat -->
+
+<!-- marginal: peraturan- -->
+
+Menteri, membuat apa-apa peraturan yang
+
+<!-- marginal: peraturan -->
+
+difikirkannya perlu atau suaimanfaat untuk
+
+<!-- marginal: tatatertib. -->
+
+mengadakan peruntukan bagi tatatertib pegawai- pegawai dan penjawat-penjawat Lembaga.
 
 (2) Peraturan-peraturan tatatertib yang dibuat di bawah seksyen ini—
 
@@ -98,7 +154,11 @@ Kuasa 16c. (1) Lembaga boleh, dengan kelulusan membuat peraturan- Menteri, membu
 
 ## (PINDAAN)
 
-(c) hendaklah memberikan kepada orang yang terhadapnya prosiding tatatertib itu diambil peluang membuat representasi terhadap pertuduhan tatatertib yang dibuat terhadapnya sebelum keputusah dicapai oleh jawatankuasa tatatertib itu kecuali dalam hal-hal yang berikut:
+(c) hendaklah memberikan kepada orang yang terhadapnya prosiding tatatertib
+
+<!-- marginal: itu -->
+
+diambil peluang membuat representasi terhadap pertuduhan tatatertib yang dibuat terhadapnya sebelum keputusah dicapai oleh jawatankuasa tatatertib itu kecuali dalam hal-hal yang berikut:
 
 (i) jika seseorang pegawai atau penjawat Lembaga dibuang kerja atau diturunkan pangkat atas alasan kelakuan yang berkenaan dengannya suatu pertuduhan jenayah telah dibuktikan terhadapnya;
 
@@ -112,9 +172,13 @@ Kuasa 16c. (1) Lembaga boleh, dengan kelulusan membuat peraturan- Menteri, membu
 
 (e) boleh mengadakan peruntukan bagi penggantungan tanpa emolumen seseorang pegawai atau penjawat Lembaga jika pegawai atau penjawat itu telah disabitkan oleh mana-mana mahkamah jenayah atau jika suatu perintah tahanan atau sekatah telah dibuat berkenaan dengan atau dikenakan terhadap pegawai atau penjawat itu.
 
-Pengenaan
+<!-- marginal: Pengenaan -->
 
-16D. (1) Seseorang yang sedang atau telah surcaj bekerja dengan Lembaga boleh disurcaj jika ternyata kepada Lembaga bahawa orang itu—
+16D. (1) Seseorang yang sedang atau telah
+
+<!-- marginal: surcaj -->
+
+bekerja dengan Lembaga boleh disurcaj jika ternyata kepada Lembaga bahawa orang itu—
 
 (a) tidak memungut apa-apa wang yang terhutang kepada Lembaga yang pemungutannya menjadi tanggung- jawabnya;
 
@@ -140,17 +204,35 @@ Pengenaan
 
 (b) dalam hal subseksyen ( 1 )( d) dan (e), mensurcajkan apa-apa jumlah wang terhadap orang itu sebagaimana yang difikirkannya patut.
 
-Pemben- 16E. Lembaga hendaklah memberitahu orang tahuan yang disurcajkan berkenaan dengan surcaj yang surcaj. dikenakan di bawah seksyen 16D(3).
+<!-- marginal: Pemben- -->
 
-Penarik- 16F. Walau apa pun seksyen 16D(3) dan 16E, bahkan Lembaga boleh pada bila-bila masa menarik balik surcaj apa-apa surcaj yang berkenaan dengannya penjelasan yang memuaskan hati telah diterima
+16E. Lembaga hendaklah memberitahu orang
+
+<!-- marginal: tahuan -->
+
+yang disurcajkan berkenaan dengan surcaj yang
+
+<!-- marginal: surcaj. -->
+
+dikenakan di bawah seksyen 16D(3).
+
+<!-- marginal: Penarik- -->
+
+16F. Walau apa pun seksyen 16D(3) dan 16E,
+
+<!-- marginal: bahkan -->
+
+Lembaga boleh pada bila-bila masa menarik balik
+
+<!-- marginal: surcaj -->
+
+apa-apa surcaj yang berkenaan dengannya penjelasan yang memuaskan hati telah diterima
 
 <!-- page 8 -->
 
 atau jika ternyata selainnya bahawa tiada surcaj patut dibuat, dan Lembaga hendaklah dengan serta-merta memberitahu orang yang disurcaj akan penarikbalikan itu.
 
-Mendapat-
-
-16G. Amaun apa-apa surcaj yang dikenakan di kan surcaj. bawah seksyen 16D(3) dan tidak ditarik balik di bawah seksyen 16F hendaklah menjadi hutang yang kena dibayar kepada Lembaga daripada orang yang terhadapnya surcaj itu dikenakan dan boleh didakwa dan diperdapatkan di dalam mana-mana mahkamah atas guaman Lembaga dan boleh juga, jika diarahkan sedemikian oleh Lembaga, diperdapatkan melalui potongan—
+Mendapat- 16G. Amaun apa-apa surcaj yang dikenakan di kan surcaj. bawah seksyen 16D(3) dan tidak ditarik balik di bawah seksyen 16F hendaklah menjadi hutang yang kena dibayar kepada Lembaga daripada orang yang terhadapnya surcaj itu dikenakan dan boleh didakwa dan diperdapatkan di dalam mana-mana mahkamah atas guaman Lembaga dan boleh juga, jika diarahkan sedemikian oleh Lembaga, diperdapatkan melalui potongan—
 
 (a) daripada gaji orang yang disurcajkan; atau
 
@@ -158,9 +240,7 @@ Mendapat-
 
 dengan ansuran bulanan yang sama banyak yang tidak melebihi satu perempat daripada jumlah gaji atau pencen bulanan, mengikut mana-mana yang berkenaan, orang itu.
 
-Keanggotaan
-
-16H. Dalam apa-apa tindakan surcaj terhadap Lembaga Pengurus Besar, keanggotaan Lembaga bagi dalam kes khas. maksud seksyen 16D dan 16G tidaklah termasuk Pengurus Besar.".
+Keanggotaan 16H. Dalam apa-apa tindakan surcaj terhadap Lembaga Pengurus Besar, keanggotaan Lembaga bagi dalam kes khas. maksud seksyen 16D dan 16G tidaklah termasuk Pengurus Besar.".
 
 ## HURAIAN
 

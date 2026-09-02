@@ -48,9 +48,13 @@
       "@type": "akn:clause",
       "eli:number": "1",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Sales Tax (Amendment) Act"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "This Act may be cited as the Sales Tax (Amendment) Act 2001. Amendment of section 2"
+        "@value": "2001. Amendment of section 2"
       }
     },
     {
@@ -210,9 +214,13 @@
       "@type": "akn:clause",
       "eli:number": "5",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 36 of the principal Act is amended by deleting subsections"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Section 36 of the principal Act is amended by deleting subsections (2A) and (2B). New section 39A"
+        "@value": "(2A) and (2B). New section 39A"
       }
     },
     {

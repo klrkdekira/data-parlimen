@@ -14,15 +14,19 @@ Suatu Akta untuk meminda Akta Eksais 1976. [ ]
 
 oleh Duli Yang Maha Mulia Seri Paduka Baginda Yang di- Pertuan Agong dengan nasihat dan persetujuan Dewan Negara dan Dewan Rakyat yang bersidang dalam Parlimen, dan dengan kuasa daripadanya, seperti berikut:
 
-Tajuk ringkas.
+<!-- marginal: Tajuk ringkas. -->
 
-1. Akta ini bolehlah dinamakan Akta Eksais (Pindaan)
+1. Akta ini bolehlah dinamakan Akta Eksais (Pindaan) 1990.
 
-1990.
+<!-- marginal: Pindaan -->
 
-Pindaan
+2. Seksyen 2 Akta Eksais 1976, yang disebut "Akta ibu"
 
-2. Seksyen 2 Akta Eksais 1976, yang disebut "Akta ibu" seksyen 2 dalam Akta ini, adalah dipinda— Akta 176.
+<!-- marginal: seksyen 2 -->
+
+dalam Akta ini, adalah dipinda—
+
+<!-- marginal: Akta 176. -->
 
 (a), dengan memasukkan, selepas sahaja perkataan "tembakau" dalam takrif "rokok", perkataan- perkataan "sama ada dengan atau tanpa apa-apa ramuan tambahan yang lain';
 
@@ -40,15 +44,31 @@ Pindaan
 
 (c) mana-mana depot pelepasan daratan yang dilesenkan bawah seksyen 65E, Akta 235 Akta Kastam 1967, bagi penggudangan barang- barang yang serupa kelasnya dengan barang- barang berduti tersebut;'.
 
-3. Seksyen 4 Akta ibu adalah dipinda— Pindaan seksyen 4.
+3. Seksyen 4 Akta ibu adalah dipinda—
+
+<!-- marginal: Pindaan -->
+
+<!-- marginal: seksyen 4. -->
 
 (a) dengan memotong perkataan-perkataan "Timbalan Pengarah," dalam baris kedua subseksyen (1); dan
 
 (b) dengan menggantikan noktah di hujung subseksyen itu dengan koma dan memasukkan selepas itu perkataan-perkataan "selain daripada kuasa yang diberikan oleh seksyen 18.",
 
-4. Seksyen 14 Akta ibu adalah dipinda dengan Pindaan seksyen 14. menggantikan perkataan-perkataan "oleh kerana kemalangan yang tidak dapat dielakkan apa-apa barang berduti adalah hilang, rosak atau musnah" dalam subseksyen (1) dengan perkataan-perkataan "apa-apa barang berduti rosak, musnah atau, oleh kerana kemalangan yang tidak dapat dielakkan, hilang".
+4. Seksyen 14 Akta ibu adalah dipinda dengan
 
-5. Seksyen 15 Akta ibu adalah dipinda dengan Pindaan seksyen 15. menomborkannya semula sebagai "15. (1)" dan memasukkan selepas sahaja subseksyen itu subseksyen baru (2), (3), (4) dan (5) yang berikut:
+<!-- marginal: Pindaan -->
+
+<!-- marginal: seksyen 14. -->
+
+menggantikan perkataan-perkataan "oleh kerana kemalangan yang tidak dapat dielakkan apa-apa barang berduti adalah hilang, rosak atau musnah" dalam subseksyen (1) dengan perkataan-perkataan "apa-apa barang berduti rosak, musnah atau, oleh kerana kemalangan yang tidak dapat dielakkan, hilang".
+
+5. Seksyen 15 Akta ibu adalah dipinda dengan
+
+<!-- marginal: Pindaan -->
+
+<!-- marginal: seksyen 15. -->
+
+menomborkannya semula sebagai "15. (1)" dan memasukkan selepas sahaja subseksyen itu subseksyen baru (2), (3), (4) dan (5) yang berikut:
 
 "(2) Jika apa-apa amaun kena dibayar mengikut subseksyen (1), Ketua Pengarah boleh membenarkan amaun itu dibayar secara ansuran mengikut amaun dan pada tarikh yang ditetapkannya.
 
@@ -60,11 +80,29 @@ Pindaan
 
 (5) Jika jualan barang-barang itu dibuat dengan cara lelong, lelong itu hendaklah dijalankan oleh atau di hadapan pegawai kanan eksais.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-6. Seksyen 16 Akta ibu adalah dipinda dengan seksyen 16. memasukkan, selepas sahaja perkataan "disimpan", perkataan-perkataan "atau dari mana-mana tempat lain di bawah kawalan eksais". Penggantian
+6. Seksyen 16 Akta ibu adalah dipinda dengan
 
-7. Akta ibu adalah dipinda dengan menggantikan seksyen seksyen 19. 19 dengan yang berikut: "Pulangan 19. (1) Jika apa-apa barang dieksport dari cukai. Persekutuan sebagai suatu bahagian daripada atau ramuan bagi apa-apa barang yang dikilang dalam Persekutuan atau sebagai pembungkus, atau suatu bahagian daripada atau ramuan pembungkus, barang-barang terkilang itu, maka, jika duti eksais atas bahagian atau ramuan barang-barang terkilang itu atau atas pembungkus atau bahagian atau ramuan pembungkus berkenaan telah dibayar, Ketua Pengarah boleh, apabila barang-barang itu dieksport sedemikian, membenarkan pulangan cukai penuh kepada pengilang bagi duti eksais yang telah dibayar sedemikian jika—
+<!-- marginal: seksyen 16. -->
+
+memasukkan, selepas sahaja perkataan "disimpan", perkataan-perkataan "atau dari mana-mana tempat lain di bawah kawalan eksais".
+
+<!-- marginal: Penggantian -->
+
+7. Akta ibu adalah dipinda dengan menggantikan seksyen
+
+<!-- marginal: seksyen 19. -->
+
+19 dengan yang berikut:
+
+<!-- marginal: "Pulangan -->
+
+19. (1) Jika apa-apa barang dieksport dari
+
+<!-- marginal: cukai. -->
+
+Persekutuan sebagai suatu bahagian daripada atau ramuan bagi apa-apa barang yang dikilang dalam Persekutuan atau sebagai pembungkus, atau suatu bahagian daripada atau ramuan pembungkus, barang-barang terkilang itu, maka, jika duti eksais atas bahagian atau ramuan barang-barang terkilang itu atau atas pembungkus atau bahagian atau ramuan pembungkus berkenaan telah dibayar, Ketua Pengarah boleh, apabila barang-barang itu dieksport sedemikian, membenarkan pulangan cukai penuh kepada pengilang bagi duti eksais yang telah dibayar sedemikian jika—
 
 (a) barang-barang siap itu telah dikilang di premis yang diluluskan oleh Ketua Pengarah;
 
@@ -80,9 +118,11 @@ pulangan cukai itu akan dibuat, dan tuntutan sedemikian dalam borang yang diteta
 
 (2) Dalam ini, ungkapan "pengilang" termasuklah mana-mana orang yang-kepadanya barang-barang terkilang itu telah dijual atau dilupuskan selainnya.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-8. Seksyen 23 Akta ibu adalah dipinda— seksyen 23.
+8. Seksyen 23 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 23. -->
 
 (a) dengan menggantikan koma dalam perenggan (c) subseksyen (1) dengan koma bernoktah dan memasukkan selepas itu perkataan "atau"; dan
 
@@ -90,17 +130,49 @@ Pindaan
 
 (c) subseksyen tersebut, perenggan baru (d) yang berikut; "(d) mana-mana tempat lain di bawah kawalan eksais.".
 
-9. Akta ibu adalah dipinda dengan memasukkan dalam baru 23A
+<!-- marginal: Seksyen -->
 
-## Bahagian IV, selepas sahaja seksyen 23, seksyen baru 23A
+9. Akta ibu adalah dipinda dengan memasukkan dalam
 
-dan 23B. dan 23B yang berikut:
+<!-- marginal: baru 23A -->
+
+Bahagian IV, selepas sahaja seksyen 23, seksyen baru 23A
+
+<!-- marginal: dan 23B. -->
+
+dan 23B yang berikut:
 
 "Penyelesai 23A. (1) Jika suatu ketetapan yang berkesan syarikat diluluskan atau suatu perintah dibuat bagi hendaklah penggulungan sesuatu syarikat yang kepadanya memberikan notis peng- suatu lesen di bawah Akta ini dikeluarkan, maka gulungan, penyelesai syarikat itu hendaklah memberikan dan menge- tepikan duti. notis mengenainya kepada Ketua Pengarah dalam masa empat belas hari selepas ketetapan itu diluluskan atau perintah itu dibuat, dan hendaklah sebelum melupuskan mana-mana aset syarikat itu mengetepikan sekian jumlah wang daripada aset itu sebagaimana yang didapati oleh Ketua Pengarah cukup untuk membayar apa-apa duti eksais yang kena dibayar atau yang akan selepas itu menjadi kena dibayar berkenaan dengan syarikat itu.
 
 <!-- page 5 -->
 
-(2) Penyelesai bagi mana-mana syarikat sedemikian yang gagal memberikan notis kepada Ketua Pengarah dalam masa yang dinyatakan dalam subseksyen (1) atau gagal mengadakan peruntukan bagi pembayaran duti eksais sebagaimana yang dikehendaki oleh subseksyen itu hendaklah bertanggungan sendiri atas apa-apa duti eksais yang kena dibayar atau yang menjadi kena dibayar seperti yang disebut terdahulu. (3) Jika dua orang atau lebih dilantik menjadi penyelesai atau dikehendaki oleh undang- undang untuk menjalankan penggulungan mana- mana syarikat itu, maka obligasi dan liabiliti yang dikenakan kepada penyelesai di bawah seksyen ini hendaklah dikenakan kepada semua orang itu secara bersesama dan berasingan, tertakluk kepada hak sumbangan sesama mereka seperti dalam hal kontrak. Perlantikan 23B. (1) Jika seorang penerima dilantik bagi penerima harta syarikat yang kepada suatu lesen di bawah hendaklah diberitahu Akta ini dikeluarkan, maka penerima itu kepada hendaklah memberikan notis mengenainya Ketua kepada Ketua Pengarah dalam masa empat belas Pengarah. hari selepas perlantikan itu dibuat, dan hendaklah sebelum melupuskan mana-mana aset syarikat itu mengetepikan sekian jumlah wang daripada aset itu sebagaimana yang didapati oleh Ketua Pengarah cukup untuk membayar apa-apa duti eksais yang kena dibayar atau yang akan selepas itu menjadi kena dibayar berkenaan dengan barang-barang berduti yang telah dijual oleh syarikat itu sebelum perlantikan penerima itu. (2) Seseorang yang dilantik sebagai penerima yang gagal memberikan notis kepada Ketua Pengarah dalam masa yang dinyatakan dalam subseksyen (1) atau gagal mengadakan peruntukan bagi pembayaran duti eksais sebagaimana yang dikehendaki oleh subseksyen itu hendaklah bertanggungan sendiri atas apa- apa duti eksais yang kena dibayar atau yang
+(2) Penyelesai bagi mana-mana syarikat sedemikian yang gagal memberikan notis kepada Ketua Pengarah dalam masa yang dinyatakan dalam subseksyen (1) atau gagal mengadakan peruntukan bagi pembayaran duti eksais sebagaimana yang dikehendaki oleh subseksyen itu hendaklah bertanggungan sendiri atas apa-apa duti eksais yang kena dibayar atau yang menjadi kena dibayar seperti yang disebut terdahulu. (3) Jika dua orang atau lebih dilantik menjadi penyelesai atau dikehendaki oleh undang- undang untuk menjalankan penggulungan mana- mana syarikat itu, maka obligasi dan liabiliti yang dikenakan kepada penyelesai di bawah seksyen ini hendaklah dikenakan kepada semua orang itu secara bersesama dan berasingan, tertakluk kepada hak sumbangan sesama mereka seperti dalam hal kontrak.
+
+<!-- marginal: Perlantikan -->
+
+23B. (1) Jika seorang penerima dilantik bagi
+
+<!-- marginal: penerima -->
+
+harta syarikat yang kepada suatu lesen di bawah
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: diberitahu -->
+
+Akta ini dikeluarkan, maka penerima itu
+
+<!-- marginal: kepada -->
+
+hendaklah memberikan notis mengenainya
+
+<!-- marginal: Ketua -->
+
+kepada Ketua Pengarah dalam masa empat belas
+
+<!-- marginal: Pengarah. -->
+
+hari selepas perlantikan itu dibuat, dan hendaklah sebelum melupuskan mana-mana aset syarikat itu mengetepikan sekian jumlah wang daripada aset itu sebagaimana yang didapati oleh Ketua Pengarah cukup untuk membayar apa-apa duti eksais yang kena dibayar atau yang akan selepas itu menjadi kena dibayar berkenaan dengan barang-barang berduti yang telah dijual oleh syarikat itu sebelum perlantikan penerima itu. (2) Seseorang yang dilantik sebagai penerima yang gagal memberikan notis kepada Ketua Pengarah dalam masa yang dinyatakan dalam subseksyen (1) atau gagal mengadakan peruntukan bagi pembayaran duti eksais sebagaimana yang dikehendaki oleh subseksyen itu hendaklah bertanggungan sendiri atas apa- apa duti eksais yang kena dibayar atau yang
 
 <!-- page 6 -->
 
@@ -108,17 +180,29 @@ menjadi kena dibayar seperti yang disebut terdahulu.
 
 (3) Jika dua orang atau lebih dilantik menjadi penerima, maka obligasi dan liabiliti yang dikenakan kepada penerima di bawah seksyen ini hendaklah dikenakan kepada semua orang itu secara bersesama dan berasingan, tertakluk kepada hak sumbangan sesama mereka seperti dalam hal kontrak.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-10. Seksyen 26 Akta ibu adalah dipinda dengan seksyen 26. memasukkan, selepas sahaja perkataan-perkataan "gudang berlesen", perkataan-perkataan "atau di mana- mana tempat lain di bawah kawalan eksais". Pindaan
+10. Seksyen 26 Akta ibu adalah dipinda dengan
 
-11. Seksyen 28 Akta ibu adalah dipinda— seksyen 28.
+<!-- marginal: seksyen 26. -->
+
+memasukkan, selepas sahaja perkataan-perkataan "gudang berlesen", perkataan-perkataan "atau di mana- mana tempat lain di bawah kawalan eksais".
+
+<!-- marginal: Pindaan -->
+
+11. Seksyen 28 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 28. -->
 
 (a) dengan menggantikan perkataan-perkataan "seksyen 20;" dalam perenggan (b) dengan perkataan-perkataan "seksyen 20 atau mana- mana tempat lain di bawah kawalan eksais; atau"; dan
 
-(b) dengan memotong perenggan (c). Pindaan
+(b) dengan memotong perenggan (c).
 
-12. Seksyen 32 Akta ibu adalah dipinda— seksyen 32.
+<!-- marginal: Pindaan -->
+
+12. Seksyen 32 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 32. -->
 
 (a) dengan menggantikan noktah di hujung perenggan (b) subseksyen (1) dengan perkataan "; atau";
 
@@ -130,9 +214,13 @@ Pindaan
 
 (c) dengan menggantikan perkataan-perkataan "enam gelen" dalam subseksyen (2) dengan perkataan-perkataan "dua puluh tujuh liter".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-13. Seksyen 33 Akta ibu adalah dipinda dengan seksyen 33. menggantikan perkataan-perkataan "enam gelen" dalam subseksyen (2) dengan perkataan-perkataan "dua puluh tujuh liter".
+13. Seksyen 33 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 33. -->
+
+menggantikan perkataan-perkataan "enam gelen" dalam subseksyen (2) dengan perkataan-perkataan "dua puluh tujuh liter".
 
 <!-- page 7 -->
 
@@ -142,9 +230,19 @@ Pindaan
 
 15. Akta ibu adalah dipinda dengan menggantikan seksyen 55. seksyen 55 dengan yang berikut:
 
-"Pemula-
+<!-- marginal: "Pemula- -->
 
-55. (1) Jika apa-apa barang telah disita di ngan atau bawah Akta ini, maka seseorang pegawai kanan pelupusan harta alih. eksais boleh, menurut budi bicaranya—
+55. (1) Jika apa-apa barang telah disita di
+
+<!-- marginal: ngan atau -->
+
+bawah Akta ini, maka seseorang pegawai kanan
+
+<!-- marginal: pelupusan -->
+
+<!-- marginal: harta alih. -->
+
+eksais boleh, menurut budi bicaranya—
 
 (a) memulangkan barang itu untuk sementara kepada pemunyanya atau kepada orang yang daripada milikan, jagaan atau kawalannya ia telah disita, atau kepada mana-mana orang yang difikirkan oleh pegawai kanan eksais berhak ke atasnya, tertakluk kepada apa-apa tefma dan syarat sebagaimana yang dikenakan oleh pegawai itu, dan tertakluk, bagaimanapun kepada sekuriti yang cukup diberikan hingga memuaskan hati pegawai itu bahawa barang-barang itu akan diserahkan balik kepadanya apabila permintaan dibuat olehnya dan bahawa terma-terma dan syarat-syarat tersebut, jika ada, akan dipatuhi; atau
 
@@ -176,11 +274,57 @@ orang lain di bawah terma-terma dan syarat- syarat yang berhubungan dengan pemul
 
 (6) Tiada seorang pun berhak mengekalkan apa-apa tindakan oleh sebab apa-apa perbuatan yang dilakukan atau apa-apa keputusan yang diambil oleh atau bagi pihak Menteri atau oleh atau bagi pihak seseorang pegawai kanan eksais di bawah seksyen ini dan tiada mahkamah mempunyai apa-apa bidang kuasa untuk melayani apa-apa tindakan sedemikian.".
 
-16. Akta ibu adalah dipinda dengan memasukkan, selepas baru 55A. sahaja seksyen 55, seksyen baru 55A yang berikut:
+<!-- marginal: Seksyen -->
 
-"Penge-
+16. Akta ibu adalah dipinda dengan memasukkan, selepas
 
-55A. (1) Dalam mana-mana pembicaraan mukaan berkenaan dengan apa-apa kesalahan terhadap perakuan ahli analisa, Akta ini atau mana-mana peraturan yang dibuat atau di bawahnya yang di dalamnya kewujudan, pegawai kanan perihalan, pengelasan, komposisi, kuantiti, eksais, kualiti atau nilai, atau apa-apa perkara lain yang atau orang yang berhubungan dengan, mana-mana barang yang dibenkuasa dipulangkan di bawah perenggan (a) atau (b) oleh Menteri. subseksyen (1) seksyen 55 atau dijual atau dimusnahkan di bawah perenggan (c) subseksyen tersebut, dipersoalkan, apa-apa dokumen yang dikemukakan oleh pendakwa yang berupa sebagai suatu perakuan berkenaan
+<!-- marginal: baru 55A. -->
+
+sahaja seksyen 55, seksyen baru 55A yang berikut:
+
+<!-- marginal: "Penge- -->
+
+55A. (1) Dalam mana-mana pembicaraan
+
+<!-- marginal: mukaan -->
+
+berkenaan dengan apa-apa kesalahan terhadap
+
+<!-- marginal: perakuan -->
+
+<!-- marginal: ahli analisa, -->
+
+Akta ini atau mana-mana peraturan yang dibuat
+
+<!-- marginal: atau -->
+
+di bawahnya yang di dalamnya kewujudan,
+
+<!-- marginal: pegawai -->
+
+<!-- marginal: kanan -->
+
+perihalan, pengelasan, komposisi, kuantiti,
+
+<!-- marginal: eksais, -->
+
+kualiti atau nilai, atau apa-apa perkara lain yang
+
+<!-- marginal: atau orang -->
+
+<!-- marginal: yang -->
+
+berhubungan dengan, mana-mana barang yang
+
+<!-- marginal: dibenkuasa -->
+
+dipulangkan di bawah perenggan (a) atau (b)
+
+<!-- marginal: oleh -->
+
+<!-- marginal: Menteri. -->
+
+subseksyen (1) seksyen 55 atau dijual atau dimusnahkan di bawah perenggan (c) subseksyen tersebut, dipersoalkan, apa-apa dokumen yang dikemukakan oleh pendakwa yang berupa sebagai suatu perakuan berkenaan
 
 <!-- page 10 -->
 
@@ -192,11 +336,21 @@ dengan mana-mana perkara sedemikian yang diberikan dan ditandatangani oleh—
 
 (c) mana-mana orang, tidak kira sama ada dia seorang pegawai awam ataupun tidak, yang diberikuasa oleh atau bagi pihak Menteri, sama ada secara am atau dalam apa-apa hal tertentu, bagi maksud-maksud seksyen ini, bolehlah diterima sebagai keterangan dan konklusifnya dokumen itu ti^aklah boleh dipersoalkan atas alasan bahawa barang-barang yang berkenaan dengannya perakuan itu diberikan telah tidak dikemukakan di hadapan mahkamah sama ada sebahagiannya atau keseluruhannya, dan ia hendaklah menjadi keterangan tentang isi kandungannya, termasuk fakta-fakta yang dinyatakan di dalamnya, tanpa bukti tentang tandatangan pada perakuan sedemikian. (2) Peruntukan-peruntukan seksyen ini hendaklah terpakai walau apa pun apa-apa jua yang terkandung dalam mana-mana undang- undang bertulis lain atau rukun keterangan yang bertentangan.".
 
-17. Seksyen 58 Akta ibu adalah dipinda dengan Pindaan seksyen 58. memotong perkataan-perkataan "sesuatu Mahkamah Sesyen dalam Negeri-negeri Tanah Melayu atau mahkamah" dan perkataan-perkataan "di Sabah dan Sarawak".
+17. Seksyen 58 Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-18. Seksyen 66 Akta ibu adalah dipinda dengan seksyen 66. memasukkan, selepas subseksyen (2), subseksyen baru
+<!-- marginal: seksyen 58. -->
+
+memotong perkataan-perkataan "sesuatu Mahkamah Sesyen dalam Negeri-negeri Tanah Melayu atau mahkamah" dan perkataan-perkataan "di Sabah dan Sarawak".
+
+<!-- marginal: Pindaan -->
+
+18. Seksyen 66 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 66. -->
+
+memasukkan, selepas subseksyen (2), subseksyen baru
 
 (3) yang berikut:
 
@@ -242,11 +396,45 @@ pemunya barang-barang itu dan bagi orang yang daripadanya barang-barang itu disi
 
 <!-- marginal: seksyen 68. -->
 
-seksyen 68 dengan yang berikut: "Barang- 68. Menteri boleh, apabila permohonan dibuat barang atau kepadanya secara bertulis melalui Ketua amaun ter- lucuthak Pengarah, memerintahkan supaya— boleh di- serahkan
+seksyen 68 dengan yang berikut:
 
-(a) apa-apa barang yang disita di bawah Akta atau dibayar ini; atau balik kepada pemunya
+<!-- marginal: "Barang- -->
 
-(b) apa-apa amaun yang dijamin di bawah atau orang perenggan (a) atau (b) subseksyen (1) lain. seksyen 55 atau amaun yang dihasilkan melalui jualan di bawah perenggan (c) subseksyen (1) yang tersebut itu, sama ada yang terlucuthak atau yang diambil atau yang disifatkan terlucuthak menurut seksyen 66, 67 atau 69, diserahkan, atau dibayar balik, mengikut mana-mana yang berkenaan, kepada pemunya atau orang lain yang berhak kepadanya atas terma- terma dan syarat-syarat yang di- fikirkannya patut: Dengan syarat bahawa apa-apa permohonan sedemikian hendaklah dibuat sebelum tamat tempoh satu bulan dari tarikh barang-barang itu atau amaun itu terlucuthak atau diambil atau disifatkan terlucuthak, mengikut mana-mana yang berkenaan.".
+68. Menteri boleh, apabila permohonan dibuat
+
+<!-- marginal: barang atau -->
+
+kepadanya secara bertulis melalui Ketua
+
+<!-- marginal: amaun ter- -->
+
+<!-- marginal: lucuthak -->
+
+Pengarah, memerintahkan supaya—
+
+<!-- marginal: boleh di- -->
+
+<!-- marginal: serahkan -->
+
+(a) apa-apa barang yang disita di bawah Akta
+
+<!-- marginal: atau dibayar -->
+
+ini; atau
+
+<!-- marginal: balik kepada -->
+
+<!-- marginal: pemunya -->
+
+(b) apa-apa amaun yang dijamin di bawah
+
+<!-- marginal: atau orang -->
+
+perenggan (a) atau (b) subseksyen (1)
+
+<!-- marginal: lain. -->
+
+seksyen 55 atau amaun yang dihasilkan melalui jualan di bawah perenggan (c) subseksyen (1) yang tersebut itu, sama ada yang terlucuthak atau yang diambil atau yang disifatkan terlucuthak menurut seksyen 66, 67 atau 69, diserahkan, atau dibayar balik, mengikut mana-mana yang berkenaan, kepada pemunya atau orang lain yang berhak kepadanya atas terma- terma dan syarat-syarat yang di- fikirkannya patut: Dengan syarat bahawa apa-apa permohonan sedemikian hendaklah dibuat sebelum tamat tempoh satu bulan dari tarikh barang-barang itu atau amaun itu terlucuthak atau diambil atau disifatkan terlucuthak, mengikut mana-mana yang berkenaan.".
 
 <!-- marginal: Pindaan -->
 
@@ -270,9 +458,13 @@ menggantikan perkataan "dua" dalam subseksyen (1) dengan perkataan "lima".
 
 (c) dengan menggantikan perkataan "lima" dengan perkataan "sepuluh".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-23. Seksyen 79 Akta ibu adalah dipinda dengan seksyen 79. menggantikan perkataan "empat" dengan perkataan "lima".
+23. Seksyen 79 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 79. -->
+
+menggantikan perkataan "empat" dengan perkataan "lima".
 
 ## HURAIAN
 
@@ -306,11 +498,7 @@ yang sedang digulung dan mengetepikan sekian jumlah wang daripada aset syarikat 
 
 13. Fasal 18 bertujuan meminda seksyen 66 Akta untuk memasukkan subseksyen baru (3) untuk menjadikan mandatori bagi mahkamah memerintahkan perlucuthakan amaun yang dijamin atau hasil jualan yang diperolehi daripada tindakan yang diambil di bawah seksyen 55 Akta.
 
-14. Fasal 19 bertujuan meminda seksyen 67 Akta untuk membolehkan dilucuthakkan apa-apa barang yang disita, amaun yang dijamin bagi pelepasan barang-barang yang disita atau amaun yang dihasilkan oleh penjualannya.
-
-15. Fasal 20 bertujuan meminda seksyen 68 Akta bagi mengadakan kuasa untuk Menteri memerintahkan barang atau amaun yang terlucuthak diserahkan atau dibayar balik kepada orang yang berhak.
-
-16. Fasal 21 bertujuan menambah fee kompaun menjadi lima ribu ringgit supaya ia menjerankan.
+14. Fasal 19 bertujuan meminda seksyen 67 Akta untuk membolehkan dilucuthakkan apa-apa barang yang disita, amaun yang dijamin bagi pelepasan barang-barang yang disita atau amaun yang dihasilkan oleh penjualannya. 15. Fasal 20 bertujuan meminda seksyen 68 Akta bagi mengadakan kuasa untuk Menteri memerintahkan barang atau amaun yang terlucuthak diserahkan atau dibayar balik kepada orang yang berhak. 16. Fasal 21 bertujuan menambah fee kompaun menjadi lima ribu ringgit supaya ia menjerankan.
 
 17. Fasal 22 dan 23 bertujuan menambah penalti bagi kesalahan yang dilakukan di bawah Akta.
 

@@ -119,7 +119,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/27/msa@/~cl_11",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (5) — Pindaan seksyen 343"
+        "@value": "dalam subseksyen (5) —"
       }
     },
     {
@@ -139,7 +139,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/27/msa@/~cl_11__para_c",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan perkataan \"Mental Disorders Ordinance 1952 [31/52]\" dengan perkataan \"Mental Health Act 2001\"."
+        "@value": "dengan menggantikan perkataan \"Mental Disorders Ordinance 1952 [31/52]\" dengan perkataan \"Mental Health Act 2001\". Pindaan seksyen 343"
       }
     },
     {
@@ -477,7 +477,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/27/msa@/~cl_20",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam butiran yang berkaitan dengan seksyen 372 Kanun Keseksaan — of prostitution, etc.\" dengan perkataan \"Exploiting any person for purposes of prostitution\"; dan"
+        "@value": "dalam butiran yang berkaitan dengan seksyen 372 Kanun Keseksaan —"
       }
     },
     {
@@ -487,7 +487,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/27/msa@/~cl_20__para_a",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam ruang 2, dengan menggantikan perkataan \"Selling or letting to hire a minor for the purpose"
+        "@value": "dalam ruang 2, dengan menggantikan perkataan \"Selling or letting to hire a minor for the purpose of prostitution, etc.\" dengan perkataan \"Exploiting any person for purposes of prostitution\"; dan"
       }
     },
     {
@@ -507,7 +507,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/27/msa@/~cl_20",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan, selepas butiran yang berkaitan dengan seksyen 372 Kanun Keseksaan, butiran yang berikut di bawah ruangan masing-masing: \"372A Persons living on do do. do do or trading in prostitution 372B Soliciting for do. do do. do. Imprisonment for purposes of one year, or fine, prostitution or both\","
+        "@value": "dengan memasukkan, selepas butiran yang berkaitan dengan seksyen 372 Kanun Keseksaan, butiran yang berikut di bawah ruangan masing-masing: \"372A Persons living on do do. do do do or trading in prostitution 372B Soliciting for do. do do. do. Imprisonment for purposes of one year, or fine, prostitution or both\","
       }
     },
     {

@@ -10,7 +10,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ### Short title and commencement
 
-1. (1) This Act may be cited as the Pensions (Amendment) Act 2011.
+1. (1) This Act may be cited as the Pensions (Amendment) Act
+
+2011.
 
 (2) This Act comes into operation on 1 January 2012.
 

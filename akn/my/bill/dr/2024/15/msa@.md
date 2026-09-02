@@ -240,7 +240,7 @@ Jika mana-mana orang terhenti daripada menjadi anggota Pihak Berkuasa—
 
 15. Akta ibu dipinda dengan memasukkan selepas Bahagian V bahagian yang berikut:
 
-“bahagian Va
+## “BAHAGIAN VA
 
 ## PELESENAN DAN CAJ
 
@@ -402,7 +402,7 @@ Jika mana-mana orang terhenti daripada menjadi anggota Pihak Berkuasa—
 
 (4) Caj yang ditetapkan dan kaedah bagi penentuan caj oleh Pihak Berkuasa di bawah seksyen ini hendaklah disiarkan dalam Warta.
 
-bahagian Vb
+## BAHAGIAN VB
 
 ## PERSAINGAN
 
@@ -914,7 +914,7 @@ Am
 
 <!-- page 41 -->
 
-## bahagian vc
+## BAHAGIAN VC
 
 ## HAK TRAFIK UDARA DAN PENGUNTUKAN SLOT
 
@@ -960,7 +960,7 @@ Am
 
 (3) Bagi maksud seksyen ini, “penguntukan slot” ertinya penguntukan slot masa bagi maksud membenarkan kapal udara mengakses kemudahan aerodrom bagi pendaratan dan pelepasan pada tarikh dan masa yang tertentu.
 
-## bahagian vd
+## BAHAGIAN VD
 
 ## OBLIGASI PERKHIDMATAN AWAM
 
@@ -982,7 +982,7 @@ Am
 
 (e) menghendaki syarikat penerbangan yang berkaitan untuk mematuhi segala perjanjian dan undang-undang yang terpakai dalam menjalankan obligasi perkhidmatan awam.
 
-bahagian ve
+## BAHAGIAN VE
 
 ## PERLINDUNGAN PENGGUNA
 
@@ -1042,7 +1042,7 @@ bahagian ve
 
 <!-- page 46 -->
 
-bahagian vf
+## BAHAGIAN VF
 
 ## PENYELESAIAN PERTIKAIAN
 
@@ -1084,7 +1084,7 @@ bahagian vf
 
 (2) Bagi maksud subseksyen (1), jika Mahkamah Tinggi mendapati orang yang disebut dalam keputusan itu tidak mematuhi keputusan itu, Mahkamah Tinggi hendaklah membuat suatu perintah yang menghendaki orang itu mematuhi keputusan itu.
 
-bahagian vg
+## BAHAGIAN VG
 
 ## PENYIASATAN DAN PENGUATKUASAAN
 
@@ -1358,7 +1358,9 @@ sama ada dilantik dengan sah atau tidak untuk menjawat atau diberi kuasa dengan 
 
 19. Jadual kepada Akta ibu dipinda—
 
-(a) dengan menggantikan tajuk “jadual” dengan tajuk “jadual pertama”; dan
+(a) dengan menggantikan tajuk “jadual” dengan tajuk
+
+## “JADUAL PERTAMA”; DAN
 
 (b) dalam perenggan 1—
 
@@ -1384,7 +1386,7 @@ sama ada dilantik dengan sah atau tidak untuk menjawat atau diberi kuasa dengan 
 
 20. Akta ibu dipinda dengan memasukkan selepas Jadual Pertama yang dinamakan semula jadual yang berikut:
 
-“jadual kedua
+## “JADUAL KEDUA
 
 [Subseksyen 36c(1)]
 
@@ -1488,7 +1490,7 @@ sama ada dilantik dengan sah atau tidak untuk menjawat atau diberi kuasa dengan 
 
 13. Apa-apa perkhidmatan lain sebagaimana yang ditentukan oleh Pihak Berkuasa dari semasa ke semasa.
 
-## jadual ketiga
+## JADUAL KETIGA
 
 [Subseksyen 36n(3)]
 

@@ -1,0 +1,1524 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-20-2014",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_30"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-undang Pendaftaran Jurutera (Pindaan) 2014"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 7a Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “subsection 7(1)” dengan perkataan “subsections 7(1) and (1a)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan memasukkan selepas perkataan “Professional Engineer” perkataan “with Practising Certificate”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan memasukkan selepas perkataan “Professional Engineers” perkataan “with Practising Certificates”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10__para_b__subpara_iii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10__para_b__subpara_iii__subpara_B",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10__para_b__subpara_iii__subpara_C",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10__para_b__subpara_iii__subpara_D",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10__para_b__subpara_iii__subpara_E"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10__para_b__subpara_iii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10__para_b__subpara_iii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “, it”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10__para_b__subpara_iii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10__para_b__subpara_iii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subperenggan (i) dengan subperenggan yang berikut: “(i) it has a board of directors who shall be subject to such conditions and qualifications as may be prescribed by the Board;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10__para_b__subpara_iii__subpara_C",
+      "@type": "akn:subparagraph",
+      "eli:number": "C",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10__para_b__subpara_iii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subperenggan (ii) dengan subperenggan yang berikut: “(ii) its shareholdings shall be as may be prescribed by the Board”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10__para_b__subpara_iii__subpara_D",
+      "@type": "akn:subparagraph",
+      "eli:number": "D",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10__para_b__subpara_iii__subpara_D__subpara_aa",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10__para_b__subpara_iii__subpara_D__subpara_bb"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10__para_b__subpara_iii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (iii)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10__para_b__subpara_iii__subpara_D__subpara_aa",
+      "@type": "akn:subparagraph",
+      "eli:number": "aa",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10__para_b__subpara_iii__subpara_D",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan sebelum perkataan “has” perkataan “it”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10__para_b__subpara_iii__subpara_D__subpara_bb",
+      "@type": "akn:subparagraph",
+      "eli:number": "bb",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10__para_b__subpara_iii__subpara_D",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah di hujung subperenggan dengan perkataan “; and”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10__para_b__subpara_iii__subpara_E",
+      "@type": "akn:subparagraph",
+      "eli:number": "E",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10__para_b__subpara_iii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subperenggan (iii) subperenggan yang berikut: “(iv) the day-to-day affairs of the body corporate shall be under the control and management of a person who— (A) is a Professional Engineer with Practising Certificate; and (B) is authorized under a resolution of the board of directors of the body corporate to make all final engineering decisions on behalf of the body corporate in respect of the requirements under this Act or any other law relating to the supply of professional engineering services by the body corporate.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (6)(a)(i), dengan menggantikan perkataan “at least five members of the Board” dengan perkataan “a Disciplinary Committee appointed by the Board pursuant to section 14a”. Pindaan seksyen 7b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_11__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_11__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_11__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 7b Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_11__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_11__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_11__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_11__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “providing” perkataan “a combination of services comprising”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_11__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_11__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “and/”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_11__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_11__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_11__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_11__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “a practice of providing” perkataan “a combination of services comprising”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_11__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_11__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “and/”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_11__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_11__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_11__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_11__para_c__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_11__para_c__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_11__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_11__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (a) dengan perenggan yang berikut: “ (a) it has a board of directors who shall be subject to such conditions and qualifications as may be prescribed by the Board;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_11__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_11__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (b) dengan perenggan yang berikut: “ (b) its shareholdings shall be as may be prescribed by the Board;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_11__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_11__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c), dengan menggantikan perkataan “to be determined by the Minister.” dengan perkataan “as may be prescribed by the Board; and”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_11__para_c__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_11__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (c) perenggan yang berikut: “ (d) the day-to-day affairs of the body corporate shall be under the control and management of a person who— (i) is a Professional Engineer with Practising Certificate; and (ii) is authorized under a resolution of the board directors of the body corporate to make all final engineering decisions on behalf of the body corporate in respect of the requirements of this Act or any other law relating to the supply of professional engineering services by the body corporate.”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_11__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (3) dengan subseksyen yang berikut: “(3) The minimum shareholdings of a Professional Engineer, Architect and Professional Quantity Surveyor in the body corporate shall be as may be prescribed by the Board.”. Pindaan seksyen 8"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_12__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_12__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_12__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_12__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 8 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan memasukkan selepas perkataan “Professional Engineer” perkataan “with Practising Certificate”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan memasukkan selepas perkataan “Professional Engineer” perkataan “with Practising Certificate”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_12__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_12__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_12__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_12__para_c__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_12__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_12__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “a Professional Engineer” perkataan “with Practising Certificate”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_12__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_12__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “or 10a(1)”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_12__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_12__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “the Professional Engineer including the Professional Engineer” dengan perkataan “the Professional Engineer with Practising Certificate including the Professional Engineer”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_12__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan memasukkan selepas perkataan “Professional Engineer” perkataan “with Practising Certificate”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_12__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_12__para_e__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_12__para_e__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_12__para_e__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_12__para_e__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_12__para_e",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan perkataan “and” di hujung perenggan (a);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_12__para_e__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_12__para_e",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan koma bernoktah di hujung perenggan (b) dengan noktah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_12__para_e__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_12__para_e",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perenggan (c) dan (d). Seksyen baru 8a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 8 seksyen yang berikut: Plan or drawing which a Professional Engineer may “ submit a. (1) A Professional Engineer may submit plans or drawings to any person or authority in Malaysia where such plans or drawings are in relation to an equipment, a plant or a specialised product invented or sold by him or his employer. (2) The employer referred to in subsection (1) shall not include a client.”. Pemotongan seksyen 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 9. Pindaan seksyen 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_15__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_15__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_15__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 10 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (1)(b), dengan menggantikan perkataan “prescribed” dengan perkataan “determined”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_15__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_15__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_15__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_15__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (i) dengan perenggan yang berikut: “ (a) any person— (i) who is registered as a Graduate Engineer and has obtained the practical experience under paragraph (1)(b); (ii) who— (A) has passed a professional assessment examination conducted by the Board; (B) holds a professional qualification which the Board considers to be equivalent to the professional assessment examination conducted by the Board; or (C) is a Corporate Member of the Institution of Engineers (Malaysia); and (iii) who has complied with all the requirements as determined by the Board;”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_15__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_15__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula perenggan (ii), (iii) dan (iv) yang sedia ada masing-masing sebagai perenggan (b), (c) dan (d);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_15__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan menggantikan perkataan “2(iv)” dengan perkataan “2(d)”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_15__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (4) dengan subseksyen yang berikut: “(4) No person shall be entitled to be registered as a Professional Engineer with Practising Certificate unless he is at the time of application for or renewal of registration, and has been for a period of not less than six months prior to the date of application or renewal, residing in Malaysia.”. Pemotongan seksyen 10a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 10a. Pindaan seksyen 10b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 10b(1)(a) Akta ibu dipinda dengan memasukkan selepas perkataan “Professional Engineer” perkataan “with Practising Certificate”. Seksyen baru 10c, 10d dan 10e"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 10b seksyen yang berikut: Registration of Engineering Technologist “ 10c. (1) A person who holds any qualification which is recognized by the Board shall be entitled on application to be registered as an Engineering Technologist. (2) A person who is registered as an Engineering Technologist under subsection (1) shall be entitled on application to be registered as a Graduate Engineer upon fulfilling the requirements under subsection 10(1). Registration of Professional Engineer with Practising Certificate 10d. A person shall be entitled on application to be registered as a Professional Engineer with Practising Certificate if— (a) the person is a registered Professional Engineer; (b) the person has passed a professional competency examination conducted by the Board; and (c) the person has complied with the requirements as determined by the Board. Registration of Inspector of Works 10e. A person who holds any qualification which is recognized by the Board shall be entitled on application to be registered as an Inspector of Works.”. Pindaan seksyen 13"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_19__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_19__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 13 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan memasukkan selepas perkataan “Graduate Engineer” perkataan “and Engineering Technologist”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_19__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(3) A certificate of registration— (a) issued to an Inspector of Works shall expire on the 31 December of the third year from the date the certificate of registration is issued; and (b) may be renewed upon the expiry of the certificate of registration on payment of the prescribed fee and upon satisfying such conditions as may be determined by the Board.”. Pindaan seksyen 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Pendaftaran Jurutera (Pindaan) 2014."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan am"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Pendaftaran Jurutera 1967 [Akta 138], yang disebut “Akta ibu” dalam Akta ini, dipinda dengan menggantikan perkataan “registered Engineer” dan “registered Engineers” di mana-mana jua terdapat, kecuali dalam takrif “registered Engineer” dalam seksyen 2 dan subseksyen 24a(1), masing-masing dengan perkataan “registered Person” dan “registered Persons”. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 14 Akta ibu dipinda dengan memasukkan selepas perkataan “business address” perkataan “within three months of the change”. Seksyen baru 14a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 14a dengan seksyen yang berikut: Disciplinary Committee “ 14a. (1) The Board shall appoint a Disciplinary Committee which shall consist of the following members: (a) a Chairman who shall be a registered Professional Engineer with Practising Certificate; (b) a registered Professional Engineer; and (c) a registered Professional Engineer with Practising Certificate. (2) The members of the Disciplinary Committee shall have been registered as Professional Engineers for a period of not less than seven years prior to their appointment to the Disciplinary Committee.”. Pindaan seksyen 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 15(2) Akta ibu dipinda dengan menggantikan perkataan “paragraphs (1)(b) to (d), or paragraph (1)(f) to (o)” dengan perkataan “subsection (1) except for circumstances in paragraphs (1)(a), (e), (f) and (fb)”. Pindaan seksyen 16"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 16(b) Akta ibu dipinda dengan memasukkan selepas perkataan “a Graduate Engineer,” perkataan “Engineering Technologist,”. Pindaan seksyen 17"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_24__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_24__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_24__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_24__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 17 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_24__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan memasukkan selepas perkataan “a Graduate Engineer,” perkataan “Engineering Technologist,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_24__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_24__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_24__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2a)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_24__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_24__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “a Graduate Engineer,” perkataan “Engineering Technologist,”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_24__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_24__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “consecutively” dengan perkataan “after its expiry”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_24__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (3) dengan subseksyen yang berikut: “(3) A registered Person or Engineering consultancy practice whose name has been removed from the Register pursuant to an order of the Disciplinary Committee or the Board under subsection 15(1a) or 7a(5) respectively, and who has not appealed against that order or whose appeal has been dismissed may, after the expiration of not less than six months from the date of the order of cancellation or from the date of the decision of the appeal, apply for reinstatement.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_24__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: “(4) The Board shall issue a certificate of registration to the registered Person or Engineering consultancy practice upon— (a) receipt of satisfactory evidence for his or its reinstatement; (b) satisfying such conditions as may be determined by the Board; (c) reimbursement to the Board of all expenditure incurred arising out of the proceedings leading to the cancellation of his or its registration; and (d) payment of the prescribed fee.”. Pindaan seksyen 19"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 19(1)(b) Akta ibu dipinda dengan menggantikan perkataan “10a(1)” dengan perkataan “10d”. Pindaan seksyen 24a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 24a(1) Akta ibu dipinda dengan menggantikan perkataan “registered Engineer” dengan perkataan “Professional Engineer with Practising Certificate”. Pindaan seksyen 24b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “(1) For the purposes of subsection 15(3), the Board shall appoint an Investigating Committee which shall consist of the following members: (a) a Chairman who shall be a registered Professional Engineer with Practising Certificate; and (b) two other members, one of whom shall be a Professional Engineer with Practising Certificate.”. Pindaan Jadual Pertama"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jadual Pertama kepada Akta ibu dipinda dengan menggantikan tajuk “First Schedule” dengan tajuk “Schedule”. Pemotongan Jadual Kedua"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong Jadual kedua. Kecualian dan peralihan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_3__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_3__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_3__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_3__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_3__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_3__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_3__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_3__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_3__para_l"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 2 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_30__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_30__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_30__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_30__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_30__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_30__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang Jurutera Sementara yang berdaftar di bawah Akta ibu, sebelum tarikh permulaan kuat kuasa Akta ini, boleh terus menjalankan atau melaksanakan perkhidmatan kejuruteraan profesional sehingga habis tempoh perakuan pendaftaran yang dikeluarkan di bawah Akta ibu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_30__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Berhubung dengan seseorang Jurutera Profesional yang didaftarkan di bawah Akta ibu, jika dia memohon untuk didaftarkan sebagai Jurutera Profesional dengan Perakuan Amalan dalam tempoh satu tahun dari tarikh permulaan kuat kuasa Akta ini, atau apa-apa tempoh yang boleh dilanjutkan oleh lembaga, dia hendaklah dikecualikan daripada peruntukan perenggan 10d(b)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_30__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa permohonan bagi perakuan pendaftaran yang belum selesai pada tarikh permulaan kuat kuasa Akta ini hendaklah diuruskan di bawah Akta ibu sebagaimana yang dipinda oleh Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_30__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Cap yang ditetapkan dalam Jadual kedua kepada Akta ibu hendaklah terus digunakan sehingga digantikan dengan apa-apa cap sebagaimana yang ditentukan oleh lembaga selepas tarikh permulaan kuat kuasa Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_30__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_30__subsec_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_30__subsec_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_30__subsec_5__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pada tarikh permulaan kuat kuasa Akta ini—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_30__subsec_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_30__subsec_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "semua penyiasatan, prosiding, termasuk prosiding tatatertib, dan perkara yang berhubungan dengan mana-mana penyiasatan dan prosiding yang sedia ada dan belum selesai di bawah Akta ibu hendaklah diteruskan dan diuruskan di bawah Akta ibu seolah- olah ia tidak dipinda oleh Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_30__subsec_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_30__subsec_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "semua penyiasatan, prosiding, termasuk prosiding tatatertib, dan perkara yang berhubungan dengan mana- mana penyiasatan dan prosiding yang boleh dimulakan di bawah Akta ibu sebelum tarikh permulaan kuat kuasa Akta ini hendaklah dimulakan dan diuruskan di bawah Akta ibu seolah-olah ia tidak dipinda oleh Akta ini; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_30__subsec_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_30__subsec_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa hak, keistimewaan, obligasi, liabiliti, penalti atau hukuman yang diperoleh, terakru atau ditanggung di bawah Akta ibu, boleh diteruskan, dikuatkuasakan, dikenakan dan diuruskan, mengikut mana-mana yang berkenaan, seolah-olah Akta ibu tidak dipinda oleh Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “appointed date” takrif yang berikut: ‘ “Architect” has the same meaning assigned to it in the Architects Act 1967 [Act 117];’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “Engineering consultancy practice” takrif yang berikut: ‘ “Engineering Technologist” means a person registered under section 10c; “Engineering works” means all works which include any publicly or privately owned public utilities, buildings, machines, equipment, processes, works or projects that require the application of engineering principles and data;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong takrif “firm or body corporate practising as consulting Quantity Surveyors”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “Graduate Engineer” takrif yang berikut: ‘ “Inspector of Works” means a person registered under section 10e;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_3__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “Minister” takrif yang berikut: ‘ “Practising Certificate” means a certificate issued by the Board to a Professional Engineer under section 10d;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_3__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong takrif “Professional Architect”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_3__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “Professional Engineer” takrif yang berikut: ‘ “Professional Engineer with Practising Certificate” means a person registered under section 10d;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_3__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “Professional Engineer with Practising Certificate” takrif yang berikut: ‘ “Professional Quantity Surveyor” has the same meaning assigned to it in the Quantity Surveyors Act 1967 [Act 438];’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_3__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan takrif “registered Engineer” takrif yang berikut: ‘ “registered Engineer” means a Graduate Engineer, Professional Engineer, Professional Engineer with Practising Certificate or Accredited Checker;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_3__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “registered Engineer” takrif yang berikut: ‘ “registered Person” means a registered Engineer, Engineering Technologist or Inspector of Works;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_3__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong takrif “registered Quantity Surveyor”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_3__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong takrif “Temporary Engineer”. Pindaan seksyen 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_4__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_4__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_4__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_4__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 3 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (2)(a), dengan memasukkan selepas perkataan “Professional Engineer” perkataan “or a Professional Engineer with Practising Certificate”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (2)(b), dengan memasukkan selepas perkataan “Professional Engineers” perkataan “and Professional Engineers with Practising Certificates”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_4__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_4__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_4__para_c__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_4__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_4__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (a) dengan perenggan yang berikut: “ (a) three Professional Engineers and two Professional Engineers with Practising Certificates who are in the public service of the Federation;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_4__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_4__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c), dengan memasukkan selepas perkataan “Professional Engineers” perkataan “with Practising Certificates”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_4__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_4__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (d), dengan menggantikan perkataan “not more than two Professional Engineers” dengan perkataan “a Professional Engineer and a Professional Engineer with Practising Certificate”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_4__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: “(3a) Where the Council of the Institution of Engineers (Malaysia) referred to in paragraph (2)(b) does not submit a nomination list within thirty days before the expiry of the term of office of the five members of the Board nominated by the Council of the Institution of Engineers (Malaysia), the Minister shall appoint any person qualified as a member of the Board.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_4__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (7), dengan memotong perkataan “First”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_4__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (7) subseksyen yang berikut: “(8) The Minister may, by order published in the Gazette, amend the Schedule.”. Pindaan seksyen 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 4 Akta ibu dipinda dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (ed) dengan perenggan yang berikut: “ (ed) to appoint a committee consisting of persons to be determined by the Board— (i) to conduct professional assessment examinations for the purpose of admission as a Professional Engineer; or (ii) to conduct professional competency examinations for the purpose of issuing a Practising Certificate to the Professional Engineer;”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (ef) perenggan yang berikut: “ (eg) to cause examinations to be conducted by an institution recognized by the Board for the purpose of admission to the profession;”. Pindaan Bahagian III"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dalam tajuk Bahagian III dengan memasukkan selepas perkataan “ENGINEERS” perkataan “, ENGINEERING TEChNoloGISTS AND INSPECToRS oF WoRkS ”. Pindaan seksyen 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 5 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_7__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_7__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_7__para_a__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_7__para_a__subpara_iv",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_7__para_a__subpara_v"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_7__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_7__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “The Register shall be in five Parts, that is to say —” dengan perkataan “The Register shall contain the following:”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_7__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_7__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perenggan (c);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_7__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_7__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “and” di hujung perenggan (d);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_7__para_a__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_7__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah di hujung perenggan (e) dengan koma bernoktah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_7__para_a__subpara_v",
+      "@type": "akn:subparagraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_7__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (e) perenggan yang berikut: “ (f) Part F—which shall contain the names, addresses and other particulars of Professional Engineers with Practising Certificates; (g) Part G—which shall contain the names, addresses and other particulars of Engineering Technologists; and (h) Part h—which shall contain the names, addresses and other particulars of Inspectors of Works.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “subsection 7a(3), 7b(1) or 10a(1),” dengan perkataan “subsection 7a(3) or 7b(1), section 10c, 10d or 10e,”. Pindaan seksyen 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 6(2) Akta ibu dipinda dengan menggantikan perkataan “the name, address,” dengan perkataan “or by any other media including electronic media as the Board may deem fit, the name,”. Pindaan seksyen 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_9__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_9__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 7 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_9__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_9__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_9__para_a__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_9__para_a__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_9__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_9__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan memotong perkataan “practice, carry on business or”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_9__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_9__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan perkataan “or” di hujung perenggan (b);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_9__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_9__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perenggan (c); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_9__para_a__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_9__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (d) dengan perenggan yang berikut: “ (d) use the stamp as may be determined by the Board.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: “(1a) A person shall not, unless he is a Professional Engineer with Practising Certificate— (a) practise, carry on business or take up employment which requires him to carry out or perform professional engineering services for designated engineering works subject to section 8; (b) be entitled to describe himself or hold himself out under any name, style or title— (i) bearing the words “Professional Engineer with Practising Certificate” or equivalent in any other language; or (ii) bearing any other words in any language which may reasonably be construed to imply that he is a Professional Engineer with Practising Certificate; (c) use or display any sign, board, card or other device representing or implying that he is a Professional Engineer with Practising Certificate; (d) be entitled to recover in any court any fee, charge, remuneration or other form of consideration for any professional engineering services rendered subject to section 8; or (e) use the stamp as may be determined by the Board. (1b) A person shall not, unless he is a Graduate Engineer or Engineering Technologist, be entitled to describe himself or hold himself out under any name, style or title using the abbreviation “Grad.Eng.” or “Eng.Tech.” after his name or in any way associate with his name.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_9__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_9__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_9__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_9__para_c__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_9__para_c__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_9__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_9__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “subsection (1)” dengan perkataan “subsections (1) and (1a)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_9__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_9__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (a) dengan perenggan yang berikut: “ (a) a Graduate Engineer who is registered with the Board may, subject to section 8, take up employment which requires him to perform professional engineering services;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_9__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_9__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “and” di hujung perenggan (a); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_9__para_c__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/20/msa@/~cl_9__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (a) perenggan yang berikut: “ (aa) an Engineering Technologist who is registered with the Board may, subject to section 8, take up employment which requires him to perform professional engineering services; (ab) an Inspector of Works who is registered with the Board may, subject to section 8, take up employment which requires him to assist the Professional Engineer in the supervision of engineering works; and”. Pindaan seksyen 7a"
+      }
+    }
+  ]
+}

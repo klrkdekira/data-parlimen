@@ -134,4 +134,6 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Angkatan Tentera 1972 ("Akta
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. |PN(U2)2408]
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
+
+<!-- marginal: |PN(U2)2408] -->

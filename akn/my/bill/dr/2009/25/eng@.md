@@ -58,11 +58,7 @@ Provided that-
 
 (d) in relation to the shipping operations, the operations may be carried out in Labuan or outside Malaysia;
 
-(e) subject to paragraph (f), in relation to the carrying on of such activity with the residents under subsection 7(4) of
-
-<!-- marginal: the Labuan -->
-
-Companies Act 1990 [Act 441], such activity may be carried on in the Malaysian currency; and
+(e) subject to paragraph (f), in relation to the carrying on of such activity with the residents under subsection 7(4) of the Labuan Companies Act 1990 [Act 441], such activity may be carried on in the Malaysian currency; and
 
 (f) in relation to the carrying on of any other transactions, such transactions may be carried on with the residents or in the Malaysian currency as approved by the Minister under section 2A of this Act;
 
@@ -76,11 +72,7 @@ Companies Act 1990 [Act 441], such activity may be carried on in the Malaysian c
 
 "Labuan trading activity" includes banking, insurance, trading, management, licensing, shipping operations or any other activity which is not a Labuan non-trading activity;';
 
-(iii) by deleting the definitions of "licensed Malaysian offshore bank", "offshore banking business", "offshore business activity", "offshore company", "offshore
-
-<!-- marginal: insurance -->
-
-business", "offshore limited partnership", "offshore non- trading activity", "offshore trading activity", and "offshore trust";
+(iii) by deleting the definitions of "licensed Malaysian offshore bank", "offshore banking business", "offshore business activity", "offshore company", "offshore insurance business", "offshore limited partnership", "offshore non- trading activity", "offshore trading activity", and "offshore trust";
 
 <!-- page 4 -->
 
@@ -106,7 +98,9 @@ business", "offshore limited partnership", "offshore non- trading activity", "of
 
 2A. (1) The Minister may, on the recommendation of the Director General, in writing, designate any activity carried on by any Labuan entity to be a Labuan business activity.
 
-(2) In designating a Labuan business activity under subsection (1), the Minister may approve the carrying out of such activity with residents or in the Malaysian currency.
+(2) In designating a Labuan business activity under subsection
+
+(1), the Minister may approve the carrying out of such activity with residents or in the Malaysian currency.
 
 ### Labuan entity
 
@@ -242,11 +236,7 @@ substituting for the words "An offshore company" the words "A Labuan entity".
 
 <!-- page 9 -->
 
-( i ) in the case of a Labuan limited liability partnership established under the Labuan Limited Partnerships and Limited Liability Partnerships Act 2009 or a Labuan Islamic limited liability
-
-<!-- marginal: partnership -->
-
-established under Part X of the Labuan Islamic Financial Services and Securities Act 2009, the designated partner or partners; and
+( i ) in the case of a Labuan limited liability partnership established under the Labuan Limited Partnerships and Limited Liability Partnerships Act 2009 or a Labuan Islamic limited liability partnership established under Part X of the Labuan Islamic Financial Services and Securities Act 2009, the designated partner or partners; and
 
 ( j ) in the case of a Labuan foundation, its officer or officers.".
 

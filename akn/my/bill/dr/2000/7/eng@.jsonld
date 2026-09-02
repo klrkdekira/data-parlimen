@@ -1,0 +1,350 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-7-2000",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_8"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Employment (Amendment) Bill 2000"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "t r: Act 2000. r, t ~ ~' (2) This Act shall come into operation on a date to be appointed ~ by the Minister by notification in the Gazette. r ~ ~.. Amendment of section 31 &"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Employment Act 1955 [Act 265], which in this Act is f' [.; referred to as the \"principal Act\", is amended in subsection 31 (1)- I; ~"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"(hereinafter referred to as !: \"the secured creditor\")\" the words \"or in the exercise of ~. rights under a debenture\"; t ~ ~"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"attached or garnished, the t court\" the words \"or the receiver or manager\"; and ~ ~"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"the secured creditor until ~ ~ the court\" the words \"the secured creditor or the debenture holder until the court or the receiver or manager\". i: ! ~. ~: Amendment of section 32"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 32(1) of the principal Act is amended by inserting"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "f after the words \"the court\" wherever they appear the words \"or the receiver or manager\". ~, !'~ Amendment of section 60A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 60A(4) of the principal Act is amended in the first proviso to paragraph (a) by deleting the word \"ten\". Amendment of section 60D"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_5__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 60D of the principal Act is amended-"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: \"( 1) Every employee shall be entitled to a paid holiday at his ordinary rate of pay on the following days in anyone calendar year: (a) on ten of the gazetted public holidays, four of which shall be- (i) the National Day; (ii) the Birthday of the Yang di-Pertuan Agong; (iii) the Birthday of the Ruler or the Yang di-Pertua Negeri, as the case may be, of the State in which the employee wholly or mainly works under his contract of service, or the Federal Territory Day, if the employee wholly or mainly works in the Federal Territory; and (iv) the Workers' Day; and (b) on any day declared as a public holiday under Act 369. section 8 of the Holidays Act 1951: Provided that if any of the public holidays referred to in paragraphs (a) and (b) falls on a rest day the working day following immediately the rest day shall be a paid holiday in substitution ofthat public holiday.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_5__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_5__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_5__para_b__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_5__para_b__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (lA)-"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_5__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_5__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"remaining six gazetted public holidays\" the words \"provided for in subsection (l)(a)\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_5__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_5__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"paid holidays\" the words \"under subsection (l)(a)\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_5__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_5__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"said remaining six gazetted public holidays\" in the proviso the words \"remaining six gazetted public holidays provided for in subsection (l)(a)\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_5__para_b__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_5__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting the full stop at the end of the existing proviso with a colon and by inserting after the proviso the following proviso: \"And provided further that the employer may grant the employee any other day as a paid public holiday in substitution for any of the public holidays referred to in subsection (l)(b).\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (l B) by deleting the words \"said ten gazetted\". Amendment of section 601"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 601 of the principal Act is amended by inserting after subsection (2) the following subsection: \"(3) For the purpose of this section, the Director General may, on application made to him in writing by an employer, approve in writing any incentive payment scheme as an approved incentive payment scheme.\". Amendment of section 63"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_7__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 63 of the principal Act is amended-"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing provisions of that section as subsection (I) of section 63;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"The Director General may\" the words \", by notification in the Gazette or by notice in writing\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (l) the following subsection: \"(2) Notwithstanding the provisions of this Act, the powers of the Director General under subsection (l) extends to every employee employed under a contract of service irrespective of the monthly wages of the employee.\". Amendment of section 69c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_8__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 69c of the principal Act is amended-"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_8__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_8__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)-"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_8__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_8__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"due to the employer by the employee\" the words \"due to the employer or employee\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_8__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_8__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"terminated by the employee\" the words \"terminated by either party\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_8__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_8__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)-"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_8__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_8__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"the employer\" the words \"or employee\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_8__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2000/7/eng@/~cl_8__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"an indemnity of'."
+      }
+    }
+  ]
+}

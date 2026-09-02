@@ -46,7 +46,33 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 4. Akta ibu dipinda dengan memasukkan selepas seksyen 17 seksyen yang berikut:
 
-17A. (1) Where the Director General has reason to Recovery of believe that any person is about or is likely to leave customs Malaysia without paying any customs duties, he may duties from issue to any Director of Immigration a certificate persons containing particulars of the duties so payable with a leaving Malaysia. request that such person be prevented from leaving Malaysia unless and until he pays all the duties so payable or furnishes security to the satisfaction of the Director General for its payment.
+17A. (1) Where the Director General has reason to
+
+<!-- marginal: Recovery -->
+
+<!-- marginal: of -->
+
+believe that any person is about or is likely to leave
+
+<!-- marginal: customs -->
+
+Malaysia without paying any customs duties, he may
+
+<!-- marginal: duties -->
+
+<!-- marginal: from -->
+
+issue to any Director of Immigration a certificate
+
+<!-- marginal: persons -->
+
+containing particulars of the duties so payable with a
+
+<!-- marginal: leaving -->
+
+<!-- marginal: Malaysia. -->
+
+request that such person be prevented from leaving Malaysia unless and until he pays all the duties so payable or furnishes security to the satisfaction of the Director General for its payment.
 
 (2) Subject to any order issued or made under any written law relating to banishment or immigration, any Director of Immigration who receives a request under subsection (1) in respect of a person shall exercise all measures which may include the removal or retention of any certificate of identity, passport, exit permit or other travel documents in relation to that person as may be necessary to give effect to the request.
 
@@ -124,7 +150,17 @@ Provided that the non-receipt of the notice by that person shall not invalidate 
 
 9. Akta ibu dipinda dengan memasukkan selepas seksyen 122c seksyen yang berikut:
 
-122D. Where in any proceedings under this Act or any proof as to regulations made thereunder it is necessary to prove the accuracy of a meter or any other device for measuring or other petroleum, a certificate purporting to be signed by any officer responsible under any written law for the time petroleum, being in force in Malaysia for such measurement shall be admissible in evidence and shall be accepted by the court as prima facie evidence of the facts stated in such certificate.".
+122D. Where in any proceedings under this Act or any
+
+<!-- marginal: proof -->
+
+<!-- marginal: as to -->
+
+regulations made thereunder it is necessary to prove the accuracy of a meter or any other device for measuring
+
+<!-- marginal: or other -->
+
+petroleum, a certificate purporting to be signed by any officer responsible under any written law for the time petroleum, being in force in Malaysia for such measurement shall be admissible in evidence and shall be accepted by the court as prima facie evidence of the facts stated in such certificate.".
 
 ## HURAIAN
 

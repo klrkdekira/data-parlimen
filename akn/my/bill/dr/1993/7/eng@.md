@@ -32,7 +32,7 @@ recording, storing, processing, retrieving or producing any information or other
 
 <!-- page 2 -->
 
-### 2
+<!-- marginal: 2 -->
 
 ## BILL
 
@@ -86,11 +86,29 @@ A matter recorded, stored, processed, retrieved or produced by a computer is a d
 
 3. The principal Act is amended by inserting under the New section subheading "Admissions and Confessions" the following 3 l A' new section 3 lA after section 31:
 
-Admissi- 31 A. (1) Where in any criminal proceedings, bility of a statement, whether written or verbal, made by statements in any person charged with an offence,
+<!-- marginal: Admissi- -->
 
-<!-- marginal: is -->
+31 A. (1) Where in any criminal proceedings,
 
-criminal admissible in evidence under or by virtue of proceed- ings any written law, then, notwithstanding anything contained in that written law, such statement shall not be admitted in evidence, or produced
+<!-- marginal: bility of -->
+
+a statement, whether written or verbal, made by
+
+<!-- marginal: statements -->
+
+<!-- marginal: in -->
+
+any person charged with an offence, is
+
+<!-- marginal: criminal -->
+
+admissible in evidence under or by virtue of
+
+<!-- marginal: proceed- -->
+
+<!-- marginal: ings -->
+
+any written law, then, notwithstanding anything contained in that written law, such statement shall not be admitted in evidence, or produced
 
 <!-- page 4 -->
 
@@ -106,9 +124,11 @@ in, or considered by, the court, unless evidence of such statement is given—
 
 (2) Subsection (1) shall not affect the application of the provisions of sections 90A, 90B, 90c, 145 and 155.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. Section 32 of the principal Act is amended— of section 32.
+4. Section 32 of the principal Act is amended—
+
+<!-- marginal: of section 32. -->
 
 (a) by substituting a semicolon for the full stop at the end of paragraph (h) and inserting after paragraph (h) the following new paragraphs (i) and (j):
 
@@ -120,13 +140,15 @@ Amendment
 
 "(2) The provisions of paragraphs (i) and (j) of subsection (1) shall apply only in relation to a criminal proceeding.".
 
-Amendment
+<!-- marginal: Amendment -->
 
 5. Subsection (3) of section 60 of the principal Act
 
 <!-- marginal: is -->
 
-of section 60. amended—
+<!-- marginal: of section 60. -->
+
+amended—
 
 (a) by substituting for the words "other than" the word "including"; and
 
@@ -188,7 +210,7 @@ Admissi- 90A. (1) In any criminal or civil proceeding a bility of document produ
 
 <!-- page 6 -->
 
-### 6
+<!-- marginal: 6 -->
 
 ## BILL
 
@@ -200,11 +222,7 @@ Admissi- 90A. (1) In any criminal or civil proceeding a bility of document produ
 
 (5) A document shall be deemed to have been produced by a computer whether it was produced by it directly or by means of any appropriate equipment, and whether or not there was any direct or indirect human intervention.
 
-(6) A document produced by a computer, or a statement contained in such document, shall be admissible in evidence whether or not it was produced by the computer after the commencement of the criminal or civil proceeding or after the commencement of any investigation or inquiry in relation to the criminal or civil proceeding or
-
-<!-- marginal: such -->
-
-investigation or inquiry, and any document so produced by a computer shall be deemed to be produced by the computer in the course of its ordinary use.
+(6) A document produced by a computer, or a statement contained in such document, shall be admissible in evidence whether or not it was produced by the computer after the commencement of the criminal or civil proceeding or after the commencement of any investigation or inquiry in relation to the criminal or civil proceeding or such investigation or inquiry, and any document so produced by a computer shall be deemed to be produced by the computer in the course of its ordinary use.
 
 (7) Notwithstanding anything contained in this section, a document produced by a computer, or a statement contained in such document, shall not be admissible in evidence
 
@@ -242,9 +260,7 @@ Paragraph (c) of clause 2 of the Bill inserts the definition of "film" and "nega
 
 However, subsection (2) seeks to provide that the above restriction would not affect the provisions of sections 90A, 90B and 90c which relate to documents produced by computers, or the provisions of section 145 which relates to cross-examination as to previous statements in writing, or the provisions of section 155 which relates to impeachment of the credit of a witness.
 
-4. Clause 4 seeks to amend section 32 of the Act by adding two new paragraphs ( i) and {j}. Paragraph (i) enables a statement made in the course of, or for the purpose of, an investigation or inquiry into an offence under or by virtue of a written law to itself constitute a relevant fact where it is made by a person who is dead, or cannot be found, or who is not available for the reasons specified in section
-
-32.
+4. Clause 4 seeks to amend section 32 of the Act by adding two new paragraphs ( i) and {j}. Paragraph (i) enables a statement made in the course of, or for the purpose of, an investigation or inquiry into an offence under or by virtue of a written law to itself constitute a relevant fact where it is made by a person who is dead, or cannot be found, or who is not available for the reasons specified in section 32.
 
 Similarly, the new paragraph (j) enables a statement made by a public officer in the discharge of his duties to itself constitute a relevant fact where the public officer is dead, or cannot be found, or is not available for reasons specified in section 32. By a new subsection (2) which is sought to be added to section 32, the provisions of the new paragraphs (i) and (j) mentioned above would only apply in relation to a criminal proceeding.
 

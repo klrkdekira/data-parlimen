@@ -4,25 +4,25 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Interpretation
 
-## Part II
+## PART II
 
 ## ADMINISTRATION
 
 3. Functions and powers of Director General and other officers 4. Public servants 5. Authority cards, etc., to be produced
 
-## Part III
+## PART III
 
 ## IMPOSITION OF TOURISM TAX
 
 6. Imposition of tourism tax 7. Duty of operator to collect tourism tax and pay tourism tax collected to Director General 8. Rate of tourism tax 9. Power of Minister to exempt
 
-## Part IV
+## PART IV
 
 ## REGISTRATION
 
@@ -36,7 +36,7 @@
 
 <!-- page 2 -->
 
-## Part V
+## PART V
 
 ## INVOICES, RECORDS, RETURNS AND ASSESSMENT
 
@@ -54,7 +54,7 @@
 
 20. Power to assess
 
-## Part VI
+## PART VI
 
 ## REMISSION, REFUND AND RECOVERY
 
@@ -80,7 +80,7 @@
 
 31. Joint and several liability of partners, officials, committee members or directors
 
-## Part VII
+## PART VII
 
 ## ENFORCEMENT
 
@@ -124,7 +124,7 @@
 
 48. Tourism tax, etc., to be payable notwithstanding any proceedings, etc.
 
-## Part IX
+## PART IX
 
 ## TRIALS AND PROCEEDINGS
 
@@ -150,7 +150,7 @@
 
 59. Protection of informers from discovery
 
-## Part X
+## PART X
 
 ## MISCELLANEOUS
 
@@ -188,7 +188,7 @@ An Act to provide for the imposition and collection of tourism tax and for matte
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -234,7 +234,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 7 -->
 
-## Part II
+## PART II
 
 ## ADMINISTRATION
 
@@ -260,7 +260,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 8 -->
 
-## Part III
+## PART III
 
 ## IMPOSITION OF TOURISM TAX
 
@@ -308,7 +308,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 10 -->
 
-## Part IV
+## PART IV
 
 ## REGISTRATION
 
@@ -350,7 +350,7 @@ with effect from the first day of the following month after the information rela
 
 (2) Upon receipt of the notification under subsection (1), the Director General may cancel the operator’s registration from such date as the Director General may determine.
 
-## Part V
+## PART V
 
 ## INVOICES, RECORDS, RETURNS AND ASSESSMENT
 
@@ -474,7 +474,7 @@ the Director General may assess the tourism tax at such greater amount as he dee
 
 (8) The Director General may make any alteration in or addition to the assessment made under this section as he deems fit to ensure the correctness of the assessment and shall forthwith notify the operator in writing.
 
-## Part VI
+## PART VI
 
 ## REMISSION, REFUND AND RECOVERY
 
@@ -634,7 +634,7 @@ and any amount which purports to be tourism tax shall be paid immediately by tha
 
 (2) In relation to a company that is being wound up, the directors of such company shall only be liable where the assets of the company are insufficient to meet the amount due, after paying any sum having priority under the Companies Act 2016 [Act 777] in relation to the application of the assets of the company in such winding up over the tourism tax, penalty, surcharge or other money.
 
-## Part VII
+## PART VII
 
 ## ENFORCEMENT
 
@@ -862,7 +862,7 @@ the purpose or effect of which is to evade tourism tax.
 
 48. The institution of proceedings or the imposition of a penalty, fine or term of imprisonment under this Act or the compounding of an offence under section 56 shall not relieve any person from the liability to pay for tourism tax, penalty, surcharge or other money under this Act.
 
-## Part IX
+## PART IX
 
 ## TRIALS AND PROCEEDINGS
 
@@ -980,7 +980,7 @@ with two additional months for every ten thousand ringgit after the first twenty
 
 (3) If in the trial for any offence under this Act, the court, after full enquiry into the case, believes that the informer wilfully made in his complaint a material statement which he knew or believed to be false or did not believe to be true, or if in any other proceedings the court is of the opinion that justice cannot be fully done between the parties thereto without the discovery of the informer, it shall be lawful for the court to require the production of the original complaint, if in writing, and permit enquiry, and require full disclosure, concerning the informer.
 
-## Part X
+## PART X
 
 ## MISCELLANEOUS
 
@@ -1128,7 +1128,7 @@ with two additional months for every ten thousand ringgit after the first twenty
 
 This proposed Tourism Tax Bill 2017 (“the proposed Act”) seeks to provide for the imposition of tourism tax on tourists staying at accommodation premises and collection of tourism tax by persons operating the accommodation premises. The tourists and accommodation premises referred to in the proposed Act are defined in the Tourism Industry Act 1992 [Act 482].
 
-## Part I
+## PART I
 
 2. Part I deals with preliminary matters.
 
@@ -1136,7 +1136,7 @@ This proposed Tourism Tax Bill 2017 (“the proposed Act”) seeks to provide fo
 
 4. Clause 2 contains the definition of certain words and expressions used in the proposed Act.
 
-## Part II
+## PART II
 
 5. Part II contains provisions relating to administration.
 
@@ -1146,7 +1146,7 @@ This proposed Tourism Tax Bill 2017 (“the proposed Act”) seeks to provide fo
 
 8. Clause 5 seeks to require every officer of customs to identify themselves when performing their duties and any person may refuse an order made by such officer of customs if they do not identify themselves.
 
-## Part III
+## PART III
 
 9. Part III contains provisions relating to imposition of tourism tax on tourists.
 
@@ -1160,7 +1160,7 @@ This proposed Tourism Tax Bill 2017 (“the proposed Act”) seeks to provide fo
 
 13. Clause 9 seeks to empower the Minister to exempt any tourist or class of tourists from the payment of the whole or any part of the tourism tax, or to exempt any operator or any class of operator from collecting the whole or any part of the tourism tax, to exempt any operator or class of operator from the requirement to register under Part IV of the proposed Act, or exempt any person from all or any provision of the proposed Act.
 
-## Part IV
+## PART IV
 
 14. Part IV contains provisions relating to the registration of operator.
 
@@ -1170,7 +1170,7 @@ This proposed Tourism Tax Bill 2017 (“the proposed Act”) seeks to provide fo
 
 17. Clause 13 seeks to require an operator to notify the Director General within thirty days if he ceases to operate an accommodation premises or is exempted under section 9 of the proposed Act. Upon receipt of the notification, the Director General may cancel the operator’s registration from such date as the Director General may determine.
 
-## Part V
+## PART V
 
 18. Part V contains provisions relating to invoices, records, returns and assessment.
 
@@ -1190,7 +1190,7 @@ This proposed Tourism Tax Bill 2017 (“the proposed Act”) seeks to provide fo
 
 25. Clause 20 seeks to allow the Director General to assess the amount of tourism tax and penalty payable if an operator fails to apply for registration, fails to furnish a return or furnishes an incomplete or incorrect return. This clause limits the time frame of not more than six years after the end of a taxable period for the Director General to make an assessment except in cases of fraud. It also allows the Director General to make an assessment where the tourism tax and penalty has been paid but no return has been furnished or the person fails to furnish a return for any subsequent taxable period. The Director General shall increase the amount of tourism tax assessed in the case where an operator pays tourism tax according to the assessed amount but continually fails to submit returns. This clause further deems the assessed amount to be the correct tourism tax and penalty that is due from the operator unless the assessment is subsequently withdrawn or reduced. This clause also allows the Director General to make a supplementary assessment in excess of an earlier assessment and amend the assessment to ensure the correctness of his assessment.
 
-## Part VI
+## PART VI
 
 26. Part VI contains provisions relating to remission, refund and recovery.
 
@@ -1220,7 +1220,7 @@ This proposed Tourism Tax Bill 2017 (“the proposed Act”) seeks to provide fo
 
 37. Clause 31 seeks to provide for the liability of directors of companies, partners of firms or committee members of societies to pay any unpaid tax, penalty or surcharge.
 
-## Part VII
+## PART VII
 
 38. Part VII contains provisions relating to enforcement.
 
@@ -1266,7 +1266,7 @@ This proposed Tourism Tax Bill 2017 (“the proposed Act”) seeks to provide fo
 
 56. Clause 48 seeks to provide for the liability of a person to pay tourism tax, penalty, surcharge or other money notwithstanding the institution of any proceeding, imposition of a penalty, fine or imprisonment or the compounding of an offence.
 
-## Part IX
+## PART IX
 
 57. Part IX deals with provisions relating to trials and proceedings.
 
@@ -1294,7 +1294,7 @@ This proposed Tourism Tax Bill 2017 (“the proposed Act”) seeks to provide fo
 
 68. Clause 59 seeks to require a witness not to disclose information relating to an informer which may lead to the discovery of the informer. It also provides for a passage in a book, document or paper to be concealed or obliterated to protect the informer from discovery during inspection of the books, documents or papers in proceedings and allows the court to require the production of the original complaint or full disclosure of the informer if the court finds that the informer has made a false material statement or that justice cannot be fully done without the discovery of the informer.
 
-## Part X
+## PART X
 
 69. Part X deals with miscellaneous provisions.
 

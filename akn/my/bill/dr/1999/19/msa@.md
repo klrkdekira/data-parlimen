@@ -152,7 +152,19 @@ Dispute 19A. (1) If two or more persons act as joint guardians between of an inf
 
 (c) vary or discharge any order previously made under this section.
 
-Enforcement 19B. (1) If the Court has made an order under this Act of orders for for the payment of money and there is any income or payment of money. pension capable of being attached payable to the person against whom the order is made, the Court shall, in addition to any other powers for enforcing compliance with the order, have power—
+<!-- marginal: Enforcement -->
+
+19B. (1) If the Court has made an order under this Act
+
+<!-- marginal: of orders for -->
+
+for the payment of money and there is any income or
+
+<!-- marginal: payment of -->
+
+<!-- marginal: money. -->
+
+pension capable of being attached payable to the person against whom the order is made, the Court shall, in addition to any other powers for enforcing compliance with the order, have power—
 
 (a) after giving the person an opportunity of being heard; and
 
@@ -196,4 +208,6 @@ Seksyen baru 19B yang dicadangkan bertujuan membolehkan Mahkamah, jika suatu per
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN(U2)1529]
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
+
+<!-- marginal: [PN(U2)1529] -->

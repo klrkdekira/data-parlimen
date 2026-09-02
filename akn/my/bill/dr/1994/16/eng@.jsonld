@@ -162,7 +162,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/16/eng@/~cl_2",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for paragraph (b) in the definition of \"local jurisdiction of the High Court\" the following paragraph: \"(b) in the case of the High Court in Sabah and Sarawak, the territory comprised in the States of Sabah and Sarawak;\". BILL Amendment"
+        "@value": "by substituting for paragraph (b) in the definition of \"local jurisdiction of the High Court\" the following paragraph: \"(b) in the case of the High Court in Sabah and Sarawak, the territory comprised in the States of Sabah and Sarawak;\". BILL"
       }
     },
     {
@@ -170,9 +170,13 @@
       "@type": "akn:clause",
       "eli:number": "3",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/16/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 4 of the principal Act is amended by"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Section 4 of the principal Act is amended by of section 4. substituting for the word \"Justice\" the word \"Judge\". Amendment"
+        "@value": "substituting for the word \"Justice\" the word \"Judge\"."
       }
     },
     {
@@ -181,9 +185,13 @@
       "eli:number": "4",
       "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/16/eng@/~cl_4__subsec_4",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/16/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 59 of the principal Act is amended by"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Section 59 of the principal Act is amended by of section 59. substituting for the word \"Justice\" in subsections (3) and"
+        "@value": "substituting for the word \"Justice\" in subsections (3) and"
       }
     },
     {
@@ -193,7 +201,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/16/eng@/~cl_4",
       "schema:text": {
         "@language": "en",
-        "@value": "the word \"Judge\", Amendment"
+        "@value": "the word \"Judge\","
       }
     },
     {
@@ -201,9 +209,13 @@
       "@type": "akn:clause",
       "eli:number": "5",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/16/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 65 of the principal Act is amended by"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Section 65 of the principal Act is amended by of section 65. substituting for subsection (1) the following subsection: \"(1) Subject to the Hmitations contained in this Act, a Sessions Court shall have— (a) unlimited jurisdiction to try all actions and suits of a civil nature in respect of motor vehicle accidents, landlord and tenant and distress; and (b) jurisdiction to try all other actions and suits of a civil nature where the amount in dispute or the value of the subject-matter does not exceed two hundred and fifty thousand ringgit.\". Amendment"
+        "@value": "substituting for subsection (1) the following subsection: \"(1) Subject to the Hmitations contained in this Act, a Sessions Court shall have— (a) unlimited jurisdiction to try all actions and suits of a civil nature in respect of motor vehicle accidents, landlord and tenant and distress; and (b) jurisdiction to try all other actions and suits of a civil nature where the amount in dispute or the value of the subject-matter does not exceed two hundred and fifty ringgit.\"."
       }
     },
     {
@@ -215,9 +227,9 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/16/eng@/~cl_6__para_b"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/16/eng@",
-      "schema:text": {
+      "schema:name": {
         "@language": "en",
-        "@value": "Section 70 of the principal Act is amended— of section 70."
+        "@value": "Section 70 of the principal Act is amended—"
       }
     },
     {
@@ -237,7 +249,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/16/eng@/~cl_6",
       "schema:text": {
         "@language": "en",
-        "@value": "by deleting subsection (3). Amendment"
+        "@value": "by deleting subsection (3)."
       }
     },
     {
@@ -245,9 +257,13 @@
       "@type": "akn:clause",
       "eli:number": "7",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/16/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 72 of the principal Act is amended by deleting"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Section 72 of the principal Act is amended by deleting of section 72. the words \"where the amount of rent to be distrained does not exceed ninety-six thousand ringgit\". Amendment"
+        "@value": "the words \"where the amount of rent to be distrained does not exceed ninety-six thousand ringgit\"."
       }
     },
     {
@@ -256,9 +272,13 @@
       "eli:number": "8",
       "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/16/eng@/~cl_8__para_b",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/16/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 73 of the principal Act is amended by"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Section 73 of the principal Act is amended by of section 73. substituting for the words \"one hundred\" in paragraph"
+        "@value": "substituting for the words \"one hundred\" in paragraph"
       }
     },
     {
@@ -268,7 +288,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/16/eng@/~cl_8",
       "schema:text": {
         "@language": "en",
-        "@value": "the words \"two hundred and fifty\". Amendment"
+        "@value": "the words \"two hundred and fifty\"."
       }
     },
     {
@@ -276,9 +296,13 @@
       "@type": "akn:clause",
       "eli:number": "9",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/16/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 76 of the principal Act is amended by"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Section 76 of the principal Act is amended by of section 76. substituting for the word \"Justice\" in subsection (3) the word \"Judge\". SUBORDINATE COURTS (AMENDMENT)"
+        "@value": "substituting for the word \"Justice\" in subsection (3) the word \"Judge\". SUBORDINATE COURTS (AMENDMENT)"
       }
     }
   ]

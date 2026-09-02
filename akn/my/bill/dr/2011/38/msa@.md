@@ -8,13 +8,13 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian i
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran
 
-## Bahagian ii
+## BAHAGIAN II
 
 PERbADANAN
 
@@ -50,7 +50,7 @@ PERbADANAN
 
 <!-- page 2 -->
 
-## Bahagian iii
+## BAHAGIAN III
 
 FUNGSI DAN KUASA PERbADANAN
 
@@ -68,7 +68,7 @@ FUNGSI DAN KUASA PERbADANAN
 
 23. Perbadanan boleh menubuhkan dan terlibat dalam pertubuhan perbadanan
 
-## Bahagian iV
+## BAHAGIAN IV
 
 PEKERJA PERbADANAN
 
@@ -84,7 +84,7 @@ PEKERJA PERbADANAN
 
 29. Perbadanan boleh menerima pakai peraturan-peraturan, dsb.
 
-## Bahagian V
+## BAHAGIAN V
 
 PEMbANGUNAN PR1MA DAN KoMPLEKS PR1MA
 
@@ -102,7 +102,7 @@ PEMbANGUNAN PR1MA DAN KoMPLEKS PR1MA
 
 <!-- page 3 -->
 
-## Bahagian Vi
+## BAHAGIAN VI
 
 ## PENYELARASAN DENGAN ENTITI KERAJAAN
 
@@ -114,7 +114,7 @@ PEMbANGUNAN PR1MA DAN KoMPLEKS PR1MA
 
 39. Tanggungjawab Entiti Kerajaan
 
-## Bahagian Vii
+## BAHAGIAN VII
 
 KEwANGAN
 
@@ -140,7 +140,7 @@ KEwANGAN
 
 50. Akaun dan laporan
 
-## Bahagian Viii
+## BAHAGIAN VIII
 
 HAK UNTUK MEMbELI SEMULA KEDIAMAN PR1MA
 
@@ -156,7 +156,7 @@ HAK UNTUK MEMbELI SEMULA KEDIAMAN PR1MA
 
 <!-- page 4 -->
 
-## Bahagian iX
+## BAHAGIAN IX
 
 TRIbUNAL RAYUAN
 
@@ -184,7 +184,7 @@ TRIbUNAL RAYUAN
 
 67. Penggantungan keputusan atau arahan sementara menanti rayuan
 
-## Bahagian X
+## BAHAGIAN X
 
 AM
 
@@ -216,7 +216,7 @@ AM
 
 81. benda yang dilakukan pada menjangkakan Akta ini diperbuat
 
-## Jadual
+## JADUAL
 
 <!-- page 5 -->
 
@@ -226,7 +226,7 @@ Suatu Akta untuk mengadakan peruntukan bagi dan untuk mengawal selia perkara-per
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian i
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -338,7 +338,7 @@ mengikut mana-mana yang berkenaan;
 
 <!-- page 9 -->
 
-## Bahagian II
+## BAHAGIAN II
 
 PERbADANAN
 
@@ -564,7 +564,7 @@ apabila perkara itu dibincangkan atau diputuskan.
 
 16. Seksyen 9, 10, 12 dan 13 tidak terpakai bagi Ketua Pegawai Eksekutif.
 
-## Bahagian III
+## BAHAGIAN III
 
 FUNGSI DAN KUASA PERbADANAN
 
@@ -724,7 +724,7 @@ FUNGSI DAN KUASA PERbADANAN
 
 23. Perbadanan boleh, dari semasa ke semasa, dengan kelulusan Menteri dan persetujuan Menteri yang bertanggungjawab bagi kewangan, menubuhkan dan terlibat dalam mana-mana pertubuhan perbadanan dengan apa-apa nama yang ditentukan oleh Perbadanan untuk menjalankan dan menjaga, mengelolakan dan menguruskan bagi pihak Perbadanan apa-apa projek, skim atau perusahaan sebagaimana yang ditentukan oleh Perbadanan dalam melaksanakan fungsinya atau menjalankan kuasanya.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 PEKERJA PERbADANAN
 
@@ -810,7 +810,7 @@ atas apa-apa terma dan syarat yang ditentukan oleh Perbadanan.
 
 29. Perbadanan boleh, dengan kelulusan Menteri, menerima pakai dengan apa-apa ubah suaian yang difikirkannya patut apa-apa peraturan-peraturan, kaedah-kaedah, dasar, surat pekeliling atau arahan yang diperbuat atau dikeluarkan oleh Kerajaan Persekutuan berhubung dengan apa-apa perkara di bawah bahagian ini.
 
-## Bahagian V
+## BAHAGIAN V
 
 PEMbANGUNAN PR1MA DAN KoMPLEKS PR1MA
 
@@ -968,7 +968,7 @@ Perbadanan boleh, tertakluk kepada subseksyen (8), membatalkan atau menggantung 
 
 (6) Seseorang yang tidak mematuhi arahan Perbadanan di bawah seksyen ini melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua- duanya.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PENYELARASAN DENGAN ENTITI KERAJAAN
 
@@ -1094,7 +1094,7 @@ jika dia, atas apa-apa sebab, tidak dapat hadir mesyuarat Jawatankuasa Kelulusan
 
 (c) memberi pertimbangan yang sewajarnya kepada dasar, undang-undang dan tindakan yang dicadangkan supaya terpakai bagi pembangunan PR1MA dan kompleks PR1MA sebagaimana yang disyorkan oleh Perbadanan di bawah Akta ini.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 KEwANGAN
 
@@ -1244,7 +1244,7 @@ yang dapat dilaksanakan selepas berakhirnya setiap tahun kewangan, menyebabkan s
 
 (3) Akta badan berkanun (Akaun dan Laporan Tahunan) 1980 [Akta 240] hendaklah terpakai bagi Perbadanan.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 HAK UNTUK MEMbELI SEMULA KEDIAMAN PR1MA
 
@@ -1364,7 +1364,7 @@ Perbadanan hendaklah memohon ex parte kepada Mahkamah Tinggi dengan memfailkan p
 
 55. Jika hakmilik kediaman PR1MA yang telah dibeli semula itu telah dipindah milik atau diletakhakkan pada Perbadanan menurut seksyen 53, Perbadanan bolehlah mengambil milikan kediaman PR1MA itu apabila habis tempoh sembilan puluh hari selepas penyampaian notis kepada pemunya atau orang yang berkepentingan untuk mengambil milikan.
 
-## Bahagian Ix
+## BAHAGIAN IX
 
 TRIbUNAL RAYUAN
 
@@ -1520,7 +1520,7 @@ adalah sesuai bagi pelantikan kerana pengetahuan khas, pengalaman atau kelayakan
 
 (2) Suatu permohonan untuk penggantungan hendaklah secara bertulis dan hendaklah dibuat kepada Tribunal Rayuan pada atau selepas notis rayuan difailkan dengan Tribunal Rayuan.
 
-## Bahagian X
+## BAHAGIAN X
 
 AM
 
@@ -1668,7 +1668,7 @@ mana-mana orang yang diberi kuasa oleh Perbadanan bagi maksud itu boleh, bagi pi
 
 81. Segala perbuatan dan benda yang dilakukan bagi pihak Perbadanan sebagai persediaan bagi atau pada menjangkakan pembuatan Akta ini dan apa-apa perbelanjaan yang dilakukan berhubungan dengannya hendaklah disifatkan telah dibenarkan di bawah Akta ini, dengan syarat bahawa perbuatan dan benda yang dilakukan itu adalah selaras dengan niat dan maksud am Akta ini, dan segala hak dan obligasi yang diperoleh atau ditanggung akibat pelakuan perbuatan atau benda itu termasuk apa-apa perbelanjaan yang dilakukan berhubungan dengannya hendaklah apabila Akta ini mula berkuat kuasa disifatkan sebagai hak dan obligasi Perbadanan.
 
-## Jadual
+## JADUAL
 
 [Seksyen 7]
 
@@ -1754,7 +1754,7 @@ mana-mana orang yang diberi kuasa oleh Perbadanan bagi maksud itu boleh, bagi pi
 
 Rang Undang-Undang Perumahan Rakyat 1Malaysia 2011 yang dicadangkan (“Akta yang dicadangkan”) bertujuan untuk mengadakan peruntukan bagi dan untuk mengawal selia perkara-perkara yang berhubungan dengan pembangunan dan pembinaan kediaman perumahan, infrastruktur dan kemudahan di bawah program Perumahan Rakyat 1 Malaysia, untuk memperkatakan keperluan bagi perumahan mampan dan kehidupan berkomuniti di kawasan bandar di Malaysia ke arah mewujudkan model pembangunan perumahan sosio-ekonomi yang strategik, untuk mengadakan peruntukan bagi penubuhan Perbadanan Perumahan Rakyat 1Malaysia, dan untuk mengadakan peruntukan bagi perkara- perkara yang berhubungan.
 
-## Bahagian i
+## BAHAGIAN I
 
 2. bahagian I memperkatakan tentang perkara permulaan.
 
@@ -1762,7 +1762,7 @@ Rang Undang-Undang Perumahan Rakyat 1Malaysia 2011 yang dicadangkan (“Akta yan
 
 4. Fasal 2 mengandungi takrif perkataan dan ungkapan tertentu yang digunakan dalam Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 5. bahagian II mengandungi peruntukan yang berhubungan dengan penubuhan Perbadanan.
 
@@ -1796,7 +1796,7 @@ Rang Undang-Undang Perumahan Rakyat 1Malaysia 2011 yang dicadangkan (“Akta yan
 
 19. Fasal 16 menjelaskan bahawa peruntukan-peruntukan yang berhubungan dengan tempoh jawatan anggota Perbadanan, pembayaran saraan dan elaun anggota Perbadanan serta pembatalan pelantikan anggota Perbadanan yang diperuntukkan di bawah bahagian ini tidak terpakai bagi Ketua Pegawai Eksekutif.
 
-## Bahagian III
+## BAHAGIAN III
 
 20. bahagian III memperkatakan fungsi dan kuasa Perbadanan.
 
@@ -1812,7 +1812,7 @@ Rang Undang-Undang Perumahan Rakyat 1Malaysia 2011 yang dicadangkan (“Akta yan
 
 <!-- page 65 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 26. bahagian IV memperkatakan pekerja Perbadanan.
 
@@ -1828,7 +1828,7 @@ Rang Undang-Undang Perumahan Rakyat 1Malaysia 2011 yang dicadangkan (“Akta yan
 
 32. Fasal 29 membenarkan Perbadanan menerima pakai peraturan-peraturan, kaedah-kaedah, dasar-dasar, surat pekeliling atau arahan yang dikeluarkan oleh Kerajaan Persekutuan berhubung dengan apa-apa perkara yang berkenaan pekerja Perbadanan.
 
-## Bahagian V
+## BAHAGIAN V
 
 33. bahagian V memperkatakan pembangunan PR1MA dan kompleks
 
@@ -1850,7 +1850,7 @@ Rang Undang-Undang Perumahan Rakyat 1Malaysia 2011 yang dicadangkan (“Akta yan
 
 39. Fasal 35 bertujuan untuk memberi Perbadanan kuasa untuk mengeluarkan arahan yang berkaitan dengan kelulusan yang diberikan di bawah fasal 34. Fasal ini juga memperuntukkan cara arahan hendaklah dikeluarkan.
 
-## Bahagian Vi
+## BAHAGIAN VI
 
 40. bahagian VI mengandungi peruntukan yang berhubungan dengan penyelarasan antara Perbadanan dan Entiti Kerajaan berhubung dengan pembangunan PR1MA dan kompleks PR1MA.
 
@@ -1864,7 +1864,7 @@ Rang Undang-Undang Perumahan Rakyat 1Malaysia 2011 yang dicadangkan (“Akta yan
 
 44. Fasal 39 menyatakan tanggungjawab tertentu Entiti Kerajaan untuk bekerjasama dengan dan membantu Perbadanan.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 45. bahagian VII mengandungi peruntukan kewangan.
 
@@ -1886,7 +1886,7 @@ Rang Undang-Undang Perumahan Rakyat 1Malaysia 2011 yang dicadangkan (“Akta yan
 
 53. Fasal 50 menghendaki Perbadanan menyimpan akaun yang sepatutnya bagi Kumpulan wang Perbadanan PR1MA Malaysia dan Kumpulan wang bantuan orang yang Layak dan laporan aktivitinya yang sepatutnya. Perbadanan dikehendaki mengadakan penyata akaunnya dan penyata aktiviti bagi tahun kewangan untuk dihantar kepada Menteri yang akan menyebabkan penyata itu dibentangkan di hadapan kedua-dua Majlis Parlimen. Fasal ini juga memperuntukkan bahawa Akta badan berkanun (Akaun dan Laporan Tahunan) 1980 hendaklah terpakai bagi Perbadanan.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 54. bahagian VIII memperkatakan tentang hak Perbadanan untuk membeli semula kediaman PR1MA.
 
@@ -1902,13 +1902,13 @@ Rang Undang-Undang Perumahan Rakyat 1Malaysia 2011 yang dicadangkan (“Akta yan
 
 <!-- page 68 -->
 
-## Bahagian Ix
+## BAHAGIAN IX
 
 60. bahagian Ix memperkatakan tentang Tribunal Rayuan.
 
 61. Fasal 56 hingga 67 bertujuan untuk menubuhkan satu Tribunal Rayuan dan mengadakan peruntukan mengenai perkara berkenaan dengan Tribunal Rayuan. Rasional bagi penubuhan Tribunal Rayuan adalah untuk mewujudkan sebuah badan kajian semula pakar, yang menyediakan pihak industri ruang yang mungkin tidak dapat diadakan melalui prosiding mahkamah; untuk menggalakkan ketelusan dan menyingkirkan tekanan kepada Menteri untuk mengkaji semula keputusan pentadbiran yang terperinci dan untuk menggalakkan ruang rayuan yang pantas dan berkesan dari segi kos.
 
-## Bahagian x
+## BAHAGIAN X
 
 62. bahagian x mengandungi peruntukan am.
 

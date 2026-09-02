@@ -1,0 +1,388 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-35-2018",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_6"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Undang-Undang Sivil (Pindaan) 2018"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Undang-Undang Sivil (Pindaan) 2018."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Undang-Undang Sivil 1956 [Akta 67], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 2 dengan memasukkan selepas takrif “executor” takrif yang berikut: ‘ “persons with disabilities” has the meaning assigned to it in the Persons with Disabilities Act 2008 [Act 685];’. Pindaan seksyen 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 7 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan nota bahu dengan nota bahu yang berikut: “Compensation to persons entitled for loss occasioned by death”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “and child,” dengan perkataan “child and any person with disabilities under the care,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam proviso kepada subseksyen (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3__para_c__subpara_i__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3__para_c__subpara_i__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (iv)(a)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3__para_c__subpara_i__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3__para_c__subpara_i",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “fifty five years” dengan perkataan “sixty years”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3__para_c__subpara_i__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3__para_c__subpara_i",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “was in good health but for the injury that caused his death and”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3__para_c__subpara_ii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3__para_c__subpara_ii__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (iv)(d)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3__para_c__subpara_ii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3__para_c__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “fifty four years” dengan perkataan “fifty-nine years”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3__para_c__subpara_ii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3__para_c__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “figure 55” dengan perkataan “figure 60”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3a), dengan menggantikan perkataan “ten” dengan perkataan “thirty”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (3b) dengan subseksyen yang berikut: “(3b) A claim for damages for bereavement shall only be for the benefit of— (a) the spouse of the person deceased; (b) the child of the person deceased; and (c) the parents of the person deceased.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3c), dengan menggantikan perkataan “paragraph (3b)(b) for the benefit of the parents of the person deceased” dengan perkataan “subsection (3b)”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4), dengan menggantikan perkataan “paragraph (3b)(b)” dengan perkataan “subsection (3b)”. Pindaan seksyen 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 11 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula subseksyen yang sedia ada sebagai subseksyen (1); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) yang dinomborkan semula itu subseksyen yang berikut: “(2) Where interest is awarded under subsection (1) for recovery of damages under section 6a of the Limitation Act 1953 [Act 254], the interest may be given for the whole or any part of the period between the starting date and the date of the judgement. (3) For the purposes of subsection (2), “starting date” has the meaning assigned to it in the Limitation Act 1953.”. Pindaan seksyen 28a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 28a(2) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_5__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_5__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (c)(i)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_5__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_5__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “fifty-five years” dengan perkataan “sixty years”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_5__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_5__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “was in good health but for the injury and”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_5__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_5__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (d)(ii)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_5__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_5__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “fifty-four years” dengan perkataan “fifty-nine years”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_5__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_5__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “figure 55” dengan perkataan “figure 60”. Kecualian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_6__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa tindakan atau prosiding di bawah seksyen 7 dan 28a Akta ibu dan perkara yang berhubungan dengan tindakan atau prosiding itu yang telah dimulakan atau belum selesai sebaik sebelum tarikh permulaan kuat kuasa Akta ini hendaklah, pada tarikh permulaan kuat kuasa Akta ini, diteruskan seolah-olah Akta ibu tidak dipinda oleh Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/35/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa tindakan yang dimulakan pada atau selepas tarikh permulaan kuat kuasa Akta ini bagi apa-apa kausa tindakan yang terakru sebelum tarikh permulaan kuat kuasa Akta ini hendaklah diteruskan seolah-olah Akta ibu tidak dipinda oleh Akta ini."
+      }
+    }
+  ]
+}

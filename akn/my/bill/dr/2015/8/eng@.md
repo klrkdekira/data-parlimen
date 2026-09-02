@@ -238,7 +238,9 @@ This Bill seeks to amend the Prevention of Crime Act 1959 (“Act 297”).
 
 13. Clause 14 seeks to amend section 21 of Act 297 to remove the power of the Registrar to destroy photographs and finger impressions where no application is made for them by the person whose photographs and finger impressions have been taken under section 21.
 
-14. Clause 15 seeks to amend section 23 of Act 297. The new paragraph (2)(bb) provides that regulations may be made by the Minister for the administration and management of the Board, including provisions on training for the members of the Board. Subsection (3) is deleted to provide parity with the regulation-making powers under the Prevention of Terrorism Act 2015.
+14. Clause 15 seeks to amend section 23 of Act 297. The new paragraph
+
+(2)(bb) provides that regulations may be made by the Minister for the administration and management of the Board, including provisions on training for the members of the Board. Subsection (3) is deleted to provide parity with the regulation-making powers under the Prevention of Terrorism Act 2015.
 
 15. Other amendments not specifically mentioned in this Statement are minor or consequential in nature.
 

@@ -159,7 +159,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/23/eng@/~cl_13",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (2)— Amendment of section 24a"
+        "@value": "in subsection (2)—"
       }
     },
     {
@@ -179,7 +179,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/23/eng@/~cl_13__para_b",
       "schema:text": {
         "@language": "en",
-        "@value": "in paragraph (b), by substituting for the words “one hundred thousand ringgit” the words “two hundred thousand ringgit”."
+        "@value": "in paragraph (b), by substituting for the words “one hundred thousand ringgit” the words “two hundred thousand ringgit”. Amendment of section 24a"
       }
     },
     {
@@ -248,7 +248,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/23/eng@/~cl_18",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (1)— “(a) order— (i) the company granted with a licence under section 24a to cease to provide any services within an aerodrome or otherwise; (ii) the person licensed Malaysian Aviation Commission under section 37 of the Malaysian Aviation Commission Act 2015 to cease to provide ground handling services; or (iii) the person licensed Malaysian Aviation Commission under section 38 of the Malaysian Aviation Commission Act 2015 to cease to operate an aerodrome; or”; and"
+        "@value": "in subsection (1)—"
       }
     },
     {
@@ -268,7 +268,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/23/eng@/~cl_18__para_a",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for paragraph (a) the following paragraph:"
+        "@value": "by substituting for paragraph (a) the following paragraph: “(a) order— (i) the company granted with a licence under section 24a to cease to provide any services within an aerodrome or otherwise; (ii) the person Malaysian Aviation Commission under section 37 of the Malaysian Aviation Commission Act 2015 to cease to provide ground handling services; or (iii) the person Malaysian Aviation Commission under section 38 of the Malaysian Aviation Commission Act 2015 to cease to operate an aerodrome; or”; and"
       }
     },
     {
@@ -642,7 +642,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/23/eng@/~cl_8",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (2)— “(aa) regulating security of the civil aviation including the establishment of national security programme or any other security programme;”; “(p) exempting any aircraft, flight or person or classes of aircrafts, flights or persons from any provision of any subsidiary legislation made under this Act, the person by whom the exemption may be made and the terms and conditions for the exemption;”; “(q) the investigation of aircraft accident, incident or serious incident either occurring in Malaysia or occurring to Malaysian aircraft;”; “(u) prescribing all other matters as are expedient or necessary to be prescribed for giving effect to this Act and the Civil Aviation Authority of Malaysia Act 2016.”;"
+        "@value": "in subsection (2)—"
       }
     },
     {
@@ -652,7 +652,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/23/eng@/~cl_8__para_a",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after paragraph (a) the following paragraph:"
+        "@value": "by inserting after paragraph (a) the following paragraph: “(aa) regulating security of the civil aviation including the establishment of national security programme or any other security programme;”;"
       }
     },
     {
@@ -662,7 +662,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/23/eng@/~cl_8__para_a",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for paragraph (p) the following paragraph:"
+        "@value": "by substituting for paragraph (p) the following paragraph: “(p) exempting any aircraft, flight or person or classes of aircrafts, flights or persons from any provision of any subsidiary legislation made under this Act, the person by whom the exemption may be made and the terms and conditions for the exemption;”;"
       }
     },
     {
@@ -672,7 +672,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/23/eng@/~cl_8__para_a",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for paragraph (q) the following paragraph:"
+        "@value": "by substituting for paragraph (q) the following paragraph: “(q) the investigation of aircraft accident, incident or serious incident either occurring in Malaysia or occurring to Malaysian aircraft;”;"
       }
     },
     {
@@ -702,7 +702,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/23/eng@/~cl_8__para_a",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after paragraph (t) the following paragraph:"
+        "@value": "by inserting after paragraph (t) the following paragraph: “(u) prescribing all other matters as are expedient or necessary to be prescribed for giving effect to this Act and the Civil Aviation Authority of Malaysia Act 2016.”;"
       }
     },
     {

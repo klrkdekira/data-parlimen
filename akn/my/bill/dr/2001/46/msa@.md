@@ -66,4 +66,6 @@ Pindaan lain yang dibuat oleh subfasal ini ialah untuk memotong perenggan 30(1)(
 
 IMPLIKASl KEWANGAN
 
-Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN(U2)2200]
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
+
+<!-- marginal: [PN(U2)2200] -->

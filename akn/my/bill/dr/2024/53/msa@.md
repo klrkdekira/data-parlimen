@@ -18,11 +18,11 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 2. Akta Syarikat Labuan 1990 [Akta 441], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam perenggan 47(1)(a), dengan menggantikan perkataan “hendaklah dinyatakan dalam mata wang selain ringgit” dengan perkataan “hendaklah dinyatakan dalam apa-apa mata wang”.
 
-### Pemotongan seksyen 108a, 108b, 108c, 108d, 108e, 108f, 108g
+## PEMOTONGAN SEKSYEN 108A, 108B, 108C, 108D, 108E, 108F, 108G
 
 ### dan 108h
 
-3. Akta ibu dipinda dengan memotong seksyen 108a, 108b, 108c, 108d, 108e, 108f, 108g dan 108h.
+3. Akta ibu dipinda dengan memotong seksyen 108a, 108b, 108c, 108D, 108E, 108F, 108G DAN 108H.
 
 <!-- page 2 -->
 
@@ -30,7 +30,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 4. Akta ibu dipinda dengan memasukkan selepas seksyen 109 bahagian yang berikut:
 
-“Bahagian Va
+## “BAHAGIAN VA
 
 ## PEMUNYAAN BENEFISIAL
 

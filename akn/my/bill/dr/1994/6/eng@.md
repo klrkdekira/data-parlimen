@@ -24,13 +24,25 @@ III
 
 ## CHAIRMAN, OFFICER, SERVANTS
 
-10. The Chairman. 11. Chief Executive Officer. 12. Appointment of officers and servants of the Lembaga. 13. Regulations with respect to conditions of service. 14. Regulations with respect to discipline.
+10. The Chairman.
+
+11. Chief Executive Officer.
+
+12. Appointment of officers and servants of the Lembaga.
+
+13. Regulations with respect to conditions of service.
+
+14. Regulations with respect to discipline.
 
 ## PART IV
 
 ## FINANCE
 
-15. The Fund. 16. Conservation of the Fund. 17. Expenditure to be charged on the Fund.
+15. The Fund.
+
+16. Conservation of the Fund.
+
+17. Expenditure to be charged on the Fund.
 
 <!-- page 2 -->
 
@@ -160,7 +172,11 @@ concerning construction works;
 
 (d) any electrical, mechanical, water, gas, petrochemical or telecommunication works; or
 
-(e) any bridge, viaduct, dam, reservoir, earthworks, pipeline, sewer, aqueduct, culvert, drive, shaft, tunnel or reclamation works,
+(e) any bridge, viaduct, dam,
+
+<!-- marginal: reservoir, -->
+
+earthworks, pipeline, sewer, aqueduct, culvert, drive, shaft, tunnel or reclamation works,
 
 and includes any works which form an integral part of, or are preparatory to or temporary for the works described in paragraphs (a) to (e), including site clearance, soil investigation and improvement, earth- moving, excavation, laying of foundation, site restoration and landscaping;
 
@@ -206,9 +222,7 @@ construction industry;
 
 (e) to provide consultancy and advisory services with respect to the construction industry;
 
-(f) to promote quality assurance
-
-<!-- marginal: in -->
+(f) to promote quality assurance in
 
 <!-- marginal: the -->
 
@@ -322,9 +336,7 @@ proceedings and policy of the Lembaga as the Minister may, from time to time, sp
 
 (5) If the Chief Executive Officer is temporarily absent from Malaysia or is incapacitated through illness or for any other good reason is unable to perform his duties, the Lembaga may direct any other officer to carry out his duties.
 
-12. (1) Subject to any regulations made under section
-
-13. the Lembaga may appoint on such terms and conditions as it may think desirable such officers and servants as may be necessary for carrying out the purposes of this Act.
+12. (1) Subject to any regulations made under section 13. the Lembaga may appoint on such terms and conditions as it may think desirable such officers and servants as may be necessary for carrying out the purposes of this Act.
 
 (2) No person shall be eligible for employment as an officer or servant of the Lembaga if he has, directly or indirectly, by himself or his partner, any share or interest in any contract or proposed contract with, for or on behalf of the Lembaga.
 
@@ -360,11 +372,7 @@ IV
 
 (2) The Fund shall consist of—
 
-(a) such sums as may be provided from time to time for the purposes of
-
-<!-- marginal: this Act by -->
-
-Parliament;
+(a) such sums as may be provided from time to time for the purposes of this Act by Parliament;
 
 (b) monies earned from the consultancy and advisory services provided by the Lembaga;
 
@@ -574,11 +582,11 @@ requirements of the notice under subsection (1) shall be guilty of an offence an
 
 38. (1) The Lembaga may, with the approval of the Minister, make such regulations as may be expedient or necessary for the better carrying out of the provisions of this Act.
 
-(2) Without prejudice to the generality of subsection (1), regulations may be made for—
+(2) Without prejudice to the generality of subsection
 
-(a) prescribing the manner and form for the registration of contractors and the conditions for the cancellation,
+(1), regulations may be made for—
 
-<!-- marginal: suspension -->
+(a) prescribing the manner and form for the registration of contractors and the conditions for the cancellation, suspension
 
 <!-- marginal: or -->
 
@@ -626,13 +634,17 @@ INDUSTRl PEMB1NAAN
 
 (c) for any good reason which is consistent with the purposes of this Act.
 
-(2) The Minister may at any time by order published in the Gazette revoke any order made under subsection (1) if he is satisfied that the exemption should no longer be granted.
+(2) The Minister may at any time by order published in the Gazette revoke any order made under subsection
+
+(1) if he is satisfied that the exemption should no longer be granted.
 
 42. (1) Any person who immediately before the date of commencement of this Act was carrying out any construction works may continue to do so during the period of twelve months from the commencement of this Act:
 
 Provided that during that period such person shall as soon as practicable make an application for registration as a contractor or for accreditation, certification and registration as a skilled construction worker or construction site supervisor.
 
-(2) Any contractor who is carrying out any construction works pursuant to a contract executed before the date of commencement of this Act shall be exempted from the payment of any levy under section 35.
+(2) Any contractor who is carrying out any construction works pursuant to a contract executed before the date of commencement of this Act shall be exempted from the payment of any levy under section
+
+35.
 
 <!-- page 24 -->
 
@@ -864,11 +876,7 @@ Boolice (Accounts and Annual Reports) Act 1980 that apply to the Lembaga and any
 
 functions under the Act.
 
-30. Clause 24 seeks to empower the
-
-<!-- marginal: lembaga, with the approval -->
-
-of the .Minister, to establisfh corporations to carry out and have the charge conduct and management of any project, scheme or enterprise which has been planned or undertaken by the Lembaga.
+30. Clause 24 seeks to empower the lembaga, with the approval of the .Minister, to establisfh corporations to carry out and have the charge conduct and management of any project, scheme or enterprise which has been planned or undertaken by the Lembaga.
 
 ## PART VI
 

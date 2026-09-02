@@ -1,0 +1,1335 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-40-1994",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~sched_4"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Kumpulan Wang Simpanan Pekerja (Pindaan) 1994"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_10__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_10__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_10__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_10__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_10__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_10__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 31 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan \"dan Penolong- Penolong Pengurus Besar\" selepas perkataan \"Timbalan-Timbalan Pengurus Besar\" dalam subseksyen (1);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"dua\" dengan perkataan \"empat\" dalam perenggan (1)(b};"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_10__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: \"(1A) Pengerusi Jawatankuasa Tatatertib Lembaga dan dua orang Jawatankuasa adalah membentuk suatu kuorum pada semua mesyuarat Jawatankuasa Tatatertib. (1B) Jawatankuasa Tatatertib hendaklah mempunyai kuasa untuk menentukan penjalanan prosidingnya.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_10__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan \"dan Penolong- Penolong Pengurus Besar\" selepas perkataan \"selain daripada Timbalan-Timbalan Pengurus Besar\" dalam subseksyen (2);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_10__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"dua\" dengan perkataan \"empat\" dalam perenggan (2)(a);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_10__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas proviso kepada subseksyen (2) subseksyen yang berikut: \"(2A) Pengerusi Jawatankuasa Tatatertib Lembaga dan dua orang Jawatankuasa adalah membentuk suatu kuorum dalam semua mesyuarat Jawatankuasa Tatatertib. (2B) Jawatankuasa Tatatertib hendaklah mempunyai kuasa untuk menentukan penjalanan prosidingnya.\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_10__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"terhadap keputusan tersebut kepada Lembaga yang bolehlah memberi apa-apa keputusan me- ngenainya yang difikirkannya patut dan sesuai\" KUMPULAN WANG SIMPANAN PEKERJA (PINDAAN) 1 1 dengan perkataan \"kepada Lembaga dalam tempoh tiga puluh hari daripada tarikh keputusan disampaikan di alamat terakhir yang diketahui pegawai atau pengkhidmat dan keputusan Lembaga itu adalah muktamad.\" dalam subseksyen (7)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_11__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_11__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 33 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"dua\" dengan perkataan \"empat\" dalam perenggan (1)(b);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: \"(1A) Pengerusi Jawatankuasa Kenaikan Pangkat dan dua orang ahli lain Jawatankuasa Kenaikan Pangkat adalah membentuk suatu kuorum pada semua mesyuarat Jawatankuasa Kenaikan Pangkat. (1B) Jika atas apa-apa soal yang hendaklah ditentukan terdapat kesamarataan undi, Pengerusi Jawatankuasa Kenaikan Pangkat hendaklah mempunyai undi pemutus sebagai tambahan kepada undi asalnya. (1c) Jawatankuasa Kenaikan Pangkat hendak- lah mempunyai kuasa untuk menentukan penjalanan prosidingnya.\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_11__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"yang bolehlah memberi apa-apa keputusan mengenainya yang difikirkannya patut dan sesuai\" dengan perkataan \"dalam masa tiga puluh hari dari tarikh keputusan disampaikan di alamat terakhir yang diketahui pegawai atau pengkhidmat, dan keputusan Lembaga itu adalah muktamad\" dalam subseksyen (4)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_12__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 34 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"bagi maksud-maksud Akta ini\" perkataan \"daripada mana-mana pegawai dan pengkhidmat yang dilantik di bawah seksyen 30(3)(b)\" dalam subseksyen (1); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \", Timbalan- Timbalan Pengurus Besar dan Penolong-Penolong Pengurus Besar\" dengan perkataan \"dan Timbalan- Timbalan Pengurus Besar\" dalam subseksyen (4)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 35 Akta ibu adalah dipinda dengan memotong"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perkataan \"dan dalam had tempatan bidang kuasanya jika ada yang baginya dia dilantik\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 36 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memasukkan selepas subseksyen (1) subseksyen yang berikut: \"(1A) Bagi maksud seksyen ini, Pemeriksa hendaklah termasuk mana-mana pegawai yang diletakhak dengan kuasa Pemeriksa.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_15__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 37 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan \"dalam borang yang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (6)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_16__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_16__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seksyen 37 seksyen yang berikut: Kuasa 37A. (1) Seseorang Pemeriksa atau pegawai yang Lembaga diletakhak dengan kuasa Pemeriksa boleh, menaksir caruman menaksirkan apa-apa caruman yang kena dibayar berdasarkan oleh mana-mana majikan berdasarkan kepada kepada maklumat yang ada jika majikan itu— maklumat yang ada."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tidak menyimpan atau menyenggara apa- apa penyata, butir-butir, buku daftar atau apa-apa rekod berkenaan dengan setiap pekerja yang dikehendaki dilaksanakan olehnya di bawah Akta ini; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tidak atau enggan mengemukakan apa- apa penyata, butir-butir, buku daftar atau rekod berkenaan dengan setiap pekerja yang dikehendaki dikemukakan olehnya di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_16__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Taksiran yang dibuat di bawah subseksyen (1) hendaklah menjadi bukti mencukupi tuntutan Lembaga bagi mendapatkan kembali apa-apa caruman di bawah seksyen 65.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_17__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_17__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 43 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_17__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"caruman bulanan\" perkataan \"berkenaan dengan amaun upah bagi bulan itu\" dalam subseksyen (1); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (8) dengan subseksyen yang berikut: \"(8) Walau apa pun subseksyen (1)— (a) orang yang bekerja sendiri; (b) pekerja berpencen; (c) mana-mana orang yang bukan majikan atau bukan pekerja mengikut pengertian Akta ini; atau (d) mana-mana orang yang bukan majikan dan bukan pekerja mengikut pengertian Akta ini dan kedua-duanya telah memberi persetujuan untuk mencarum, boleh, dengan memberi notis mengikut apa-apa cara dan bentuk sebagaimana yang ditetapkan oleh Lembaga, memilih untuk membayar caruman bulanan mengikut kadar yang ditetapkan oleh Lembaga.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan menggantikan seksyen"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "44 dengan seksyen yang berikut: 44. Sebagai tambahan kepada dan bukannya sebagai pengurangan kepada seksyen 43(3), majikan boleh dengan persetujuan pekerja, meremit kepada Lembaga pada bila-bila masa apa-apa wang yang merupakan faedah persaraan mana-mana pekerja mengikut apa-apa cara yang ditetapkan oleh Lembaga dan jika mana-mana wang sedemikian telah diterima, Lembaga hendaklah menyebabkan wang sedemikian dibayar ke dalam Kumpulan Wang mengikut seksyen 50.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_19__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_19__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 45 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"kadar\" perkataan \"terakhir\" dalam proviso kepada subseksyen (3); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_19__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: \"(4) Mana-mana majikan yang melanggar peruntukan subseksyen (3) adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh dipenjarakan selama suatu tempoh yang tidak melebihi tiga tahun atau didenda tidak melebihi sepuluh ribu ringgit atau kedua-duanya.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Kumpulan Wang Simpanan Pekerja (Pindaan) 1994."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini hendaklah mula berkuatkuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta, dan Menteri boleh menetapkan tarikh yang berlainan bagi mula berkuatkuasanya peruntukan-peruntukan yang berlainan dalam Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_2__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_2__para_i"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 2 Akta Kumpulan Wang Simpanan Pekerja"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "1991, yang disebut \"Akta ibu\" dalam Akta ini adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_20__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_20__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_20__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 46 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_20__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong selepas perkataan \"jika apa- apa\" perkataan \"jumlah wang dengan cara\" dan selepas perkataan \"caruman\" perkataan \"bersama dengan apa-apa dividen yang kena dibayar ke atasnya\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_20__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula seksyen 46 sebagai subseksyen 46(1); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_20__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: \"(2) Dalam seksyen ini perkataan \"caruman\" hendaklah disifatkan sebagai termasuk apa-apa dividen dan faedah yang kena dibayar ke atas mana-mana caruman.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 47 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan subseksyen (1) dengan subseksyen yang \"(1) Walau apa pun apa-apa kontrak yang berlawanan, majikan tidaklah berhak memotong atau selainnya mendapatkan kembali daripada upah atau saraan pekerja, caruman majikan daripada pekerja.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 48 Akta ibu adalah dipinda dengan memotong"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "subseksyen (6)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 50 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memasukkan selepas perkataan \"pada kadar dividen\" perkataan \"terakhir\" dalam subperenggan (a)(ii) proviso kepada subseksyen (2)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seksyen 50 seksyen yang berikut: Bayaran 50A. Sebagai tambahan kepada bayaran dividen dividen yang dibayar di bawah proviso kepada seksyer tambahan. 50(2), Lembaga bolehlah membayar kepada ahli Kumpulan Wang yang membuat pengeluaran di bawah seksyen 54(1), suatu dividen tambahan yang ditentukan oleh Lembaga.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 51 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan titik bertindih selepas perkataan \"apa-apa jumlah wang atau amaun tersebut\" dengan noktah dan dengan memotong proviso kepada seksyen tersebut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_26__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_26__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 54 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_26__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1), (2), (3) dan (4) dengan subseksyen yang berikut: \"(1) Tiada jumlah wang yang berada pada kredit seseorang ahli Kumpulan Wang boleh dikeluarkan kecuali dengan kebenaran Lembaga dan, tertakluk kepada apa-apa kaedah yang dibuat di bawah seksyen ini, kebenaran itu tidaklah boleh diberi melainkan jika Lembaga berpuashati bahawa— (a) ahli Kumpulan Wang itu telah meninggal dunia; (b) ahli Kumpulan Wang itu telah mencapai umur lima puluh lima tahun; (c) ahli Kumpulan Wang itu tak berupaya dari segi fizikal atau mental untuk bekerja dalam mana-mana pekerjaan selanjutnya; atau (d) ahli Kumpulan Wang yang bukannya warganegara Malaysia itu hendak meninggalkan Malaysia dengan tiada niat untuk kembali ke Malaysia. (2) Apabila sesuatu pengeluaran di bawah subseksyen (l)(b) telah dibuat akan apa-apa amaun yang ada pada kredit ahli itu dalam Kumpulan Wang, ahli itu kemudian daripada itu tidaklah dianggap sebagai pekerja melainkan jika dia telah memberi kepada Lembaga dan majikannya, notis mengikut cara dan bentuk sebagaimana yang ditetapkan oleh Lembaga, mengenai niatnya untuk mencarum: Dengan syarat bahawa ahli Kumpulan Wang yang telah mencarum di bawah subseksyen (2), hanya dibenarkan membuat pengeluaran selanjutnya di bawah subseksyen (l)(b), (l)(c) atau (l)(d) dan kemudiannya apabila telah membuat mana-mana pengeluaran tersebut, dia hendaklah terhenti daripada menjadi ahli Kumpulan Wang dan hendaklah terhalang daripada membuat apa-apa caruman selanjutnya. (3) Walau apa pun subseksyen (1) Lembaga boleh membenarkan permohonan pengeluaran daripada Kumpulan Wang sebahagian mana-mana jumlah wang yang ada pada kredit ahli Kumpulan Wang dan, tertakluk kepada apa-apa kaedah yang dibuat di bawah seksyen ini, kebenaran itu tidaklah boleh diberikan melainkan jika Lembaga berpuashati bahawa ahli Kumpulan Wang itu— (a) telah mencapai umur lima puluh tahun; (b) telah membeli atau membina rumah; (c) telah membeli atau membina rumah dan telah mengambil pinjaman yang dibuat di atas cagaran bagi gadaian ke atas rumah tersebut untuk pembelian atau pem- binaannya; (d) telah membeli atau membina rumah dan telah -mengambil pinjaman di bawah perenggan 26(l)(f) untuk pembelian atau pembinaannya; atau (e) atau mana-mana orang lain yang diluluskan oleh Lembaga, memerlukan pembiayaan perubatan; (4) Walau apa pun subseksyen (3), Menteri boleh menetapkan amaun pengeluaran yang dibenarkan oleh Lembaga di bawah subseksyen yang sama.\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_26__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"subseksyen (3)(b)\" dengan perkataan \"subseksyen (3)\" dalam subseksyen (5)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan menggantikan seksyen"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "55 dengan seksyen yang berikut: 55. (1) Walau apa pun seksyen 54(1), mana- mana ahli Kumpulan Wang yang telah mencapai umur lima puluh lima tahun boleh— (a) memohon untuk mengeluarkan amaun yang ada pada kreditnya dalam bentuk pembayaran berkala sebagai ganti pembayaran suatu jumlah wang pukal; atau (b) memohon untuk mengeluarkan dividen sahaja ke atas amaun yang ada pada kreditnya sebagai ganti pembayaran suatu jumlah wang pukal, dan Lembaga boleh, tertakluk kepada mana- mana kaedah yang dibuat di bawah seksyen ini, membenarkan pengeluaran itu. (2) Jika Lembaga telah membenarkan pengeluaran di bawah perenggan (a) subseksyen (1), ahli Kumpulan Wang itu hendaklah terhalang daripada mengeluarkan amaun yang ada pada kreditnya di bawah seksy n 54(l)(6).\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 58 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memasukkan selepas subseksyen (1) seksyen yang berikut: \"(1A) Walau apa pun subseksyen (1), Lembaga bolehlah tidak membayar amaun tambahan itu, jika Lembaga berpuashati bahawa ahli Kumpulan Wang tiada meninggalkan mana-mana orang yang diluluskan oleh Lembaga.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_29__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_29__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_29__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan menggantikan seksyen"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "63 dengan seksyen yang berikut: 63. (1) Walau apa pun peruntukan mana-mana undang-undang bertulis yang lain, jika seseorang majikan didapati bersalah atas suatu kesalahan di bawah seksyen 43(2) atau 48(3), Mahkamah yang di hadapannya majikan itu didapati bersalah hendaklah memerintahkan majikan itu membayar kepada Kumpulan Wang amaun caruman, bersama-sama dengan apa-apa dividen yang dikreditkan ke atasnya, yang genap masa untuk dibayar dan kena dibayar kepada Lembaga dan diperakui oleh seorang pegawai yang diberikuasa oleh Lembaga sebagai kena dibayar daripada majikan itu sebelum tarikh dapatan bersalah itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_29__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika seseorang majikan didapati bersalah atas suatu kesalahan di bawah seksyen 45(3), Mahkamah yang di hadapannya majikan itu didapati bersalah hendaklah memerintahkan majikan itu membayar kepada Kumpulan Wang amaun apa-apa dividen ke atasnya yang genap masa untuk dibayar dan kena dibayar kepada Lembaga dan diperakui oleh seorang pegawai yang diberikuasa oleh Lembaga sebagai kena dibayar daripada majikan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_29__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perintah mahkamah yang dikeluarkan di bawah subseksyen (1) atau (2) atau kedua-duanya hendaklah dijelaskan oleh majikan secara sekali pembayaran pada tarikh perintah dikeluarkan melainkan jika Mahkamah berpuas hati bahawa majikan itu tidak berupaya dari segi kewangan dan atas sebab-sebab yang khas kesalahan itu dilakukan, Mahkamah bolehlah memerintahkan pembayaran tunggakan caruman dibuat secara yang tidak melebihi enam ansuran bulanan mulai tarikh perintah itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_29__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika majikan tidak mematuhi mana-mana perintah di bawah subseksyen (3), Mahkamah hendaklah mengeluarkan suatu waran untuk melevi keseluruhan jumlah tunggakan itu secara distres dan jualan harta majikan mengikut cara yang sama seperti pelaksanaan di bawah kaedah 30 Kaedah-Kaedah Mahkamah Rendah 1980 dan kaedah ini hendaklah terpakai secara mutatis mutandis walau apa pun amaun perintah tunggakan caruman atau dividen atau kedua- duanya.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif \"amaun upah bagi bulan itu\" takrif yang berikut: ' \"bayaran lebih masa\" ertinya apa-apa bayaran yang kena dibayar oleh majikan kepada pekerja bagi kerja yang dijalankan melebihi masa bekerja biasa pekerja itu dan termasuklah apa-apa bayaran yang dibayar kepada pekerja bagi kerja yang dijalankan pada hari kelepasan dan hari rehat;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif \"caj perkhidmatan\" takrif yang berikut: ' \"faedah persaraan\" ertihya apa-apa bayaran yang dibayar kepada pekerja kerana bersara sama ada secara wajib atau pilihan atau atas sebab- sebab kesihatan seperti yang dinyatakan di bawah kontrak perkhidmatan pekerja itu;'; ' \"ganjaran\" ertinya apa-apa bayaran yang dibayar oleh majikan kepada pekerja atas sebab tamat tempoh perkhidmatan atau pemberhentian secara sukarela sebagai mengiktiraf perkhidmatan pekerja itu;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif \"majikan\" takrif yang berikut: ' \"Menteri\" ertinya Menteri yang di- pertanggungkan dengan tanggungjawab dalam hal-hal yang berhubungan dengan Lembaga Kumpulan Wang Simpanan Pekerja;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan \"yang telah mencapai umur enam belas tahun\" dalam takrif \"pekerja\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan \"dan termasuklah seseorang Pemeriksa Percubaan\" dalam takrif \"Pemeriksa\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif \"Pemeriksa\" takrif yang berikut: ' \"pinjaman perumahan khas\" ertinya apa-apa pinjaman kepada syarikat yang diluluskan semata- mata bagi maksud pinjaman semula kepada peminjam bagi pembelian rumah kos rendah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"seksyen 26\" dengan perkataan \"seksyen 26A\" dalam perenggan (c) dalam takrif \"syarikat diluluskan\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif \"upah\"—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_2__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_2__para_i__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_2__para_i__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan \"atau\" di hujung perenggan (c);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_2__para_i__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_2__para_i",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah di hujung perenggan (d) dengan perkataan \"; atau\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_2__para_i__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_2__para_i",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (d) perenggan yang berikut: \"(e) faedah pengurangan pekerja, pemberhentian sementara atau penamatan; (f) mana-mana elaun perjalanan atau nilai mana-mana konsensi per- jalanan; atau (g) mana-mana saraan atau bayaran lain sebagaimana yang dikecuali- kan oleh Menteri.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 4(4) Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 65(1) Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan perkataan \"Kesemua caruman\" dengan perkataan \"Walau apa pun peruntukan mana-mana undang- undang bertulis yang lain kesemua caruman\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_31__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_31__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 66 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_31__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan \"dalam masa dua belas bulan sebelum tarikh perintah itu\" dalam subseksyen (1); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_31__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: \"(2) Dalam seksyen ini perkataan \"caruman\" hendaklah disifatkan sebagai termasuk apa-apa dividen dan faedah yang kena dibayar ke atas mana-mana caruman.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perenggan 72 ( b) perenggan yang berikut: \"(c) mengisytiharkan mana-mana orang atau golongan orang yang diambil kerja, yang terlibat atau berkontrak untuk menjalankan kerja dalam mana- mana pekerjaan dalam apa-apa kegiatan pertanian atau perusahaan, kerja binaan, tred, peraiagaan atau tempat kerja sebagai pekerja atau pekerja- pekerja dan orang yang mengambil kerja, terlibat atau berkontrak dengan setiap orang atau golongan orang yang disebut di atas, hendaklah disifatkan sebagai majikan dan majikan dan pekerja itu hendaklah disifatkan telah membuat kontrak perkhidmatan antara satu sama lain dan Menteri boleh memutuskan apa-apa bayaran yang diterima oleh orang yang disebut di atas sebagai upah bagi maksud Akta ini;\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_33__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_33__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_33__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_33__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 73 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_33__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subperenggan (m)(iv) dengan subperenggan yang berikut: \"(iv) Kaedah-kaedah tatatertib yang dibuat di bawah Akta ini boleh, dalam menetapkan prosedur bagi prosiding tatatertib mengadakan peruntukan bagi peluang untuk representasi dibuat dalam keadaan-keadaan tertentu oleh orang terhadapnya prosiding tatatertib itu diambil sebelum sesuatu keputusan dicapai oleh pihak berkuasa tatatertib ke atas tuduhan tatatertib yang dikenakan terhadap orang itu;\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_33__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan \"dan\" di hujung subperenggan (m)(iv);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_33__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (m) perenggan yang berikut: \"(n) untuk menetapkan prosedur yang hendaklah diikuti dalam hal berhubungan dengan kewangan dan akaun Kumpulan Wang; dan\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_33__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula perenggan (n) yang sedia ada sebagai perenggan (o)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jadual Keempat Akta ibu adalah dipotong."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah bertindih dengan noktah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong proviso."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 13 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memasukkan selepas perkataan \"seorang ahli lain Lembaga,\" perkataan \"atau mana-mana dua orang ahli lain Lembaga\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_5__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 24(2) Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (b) dengan perenggan yang berikut: \"(b) pelaburan di bawah Akta ini;\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"fee lain dan kos\" perkataan \"di bawah seksyen 14\" dalam perenggan (d)\\ dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan \"di bawah seksyen 14\" dalam perenggan (e)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan menggantikan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seksyen 26 dengan seksyen yang berikut: 26. (1) Lembaga boleh tertakluk kepada seksyen 18(2), melabur wang kepunyaan Kumpulan Wang mengikut cara yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "didepositkan dalam—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bank Negara Malaysia; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bank yang dilesenkan sewajarnya di bawah Akta Bank dan Institusi- Institusi Kewangan 1989; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana institusi kewangan lain yang dilesenkan sewajarnya di bawah Akta Bank dan Institusi-Institusi Kewangan 1989 dan diluluskan oleh Menteri;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dilabur dalam—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "saham mana-mana syarikat awam yang tersenarai dalam bursa saham yang ditubuhkan di Malaysia dan pembelian saham baru, terbitan atau jualan yang baginya telah diluluskan di bawah Akta Perindustrian Sekuriti 1983, dalam mana-mana syarikat awam berhad yang diperbadankan di Malaysia yang tersenarai dalam suatu bursa saham di Malaysia atau yang penyenaraiannya dalam suatu bursa saham di Malaysia telah di- luluskan di bawah Akta Perindustrian Sekuriti 1983; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "debentur mana-mana syarikat awam;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam bon-bon atau pembelian kertas- kertas gadai-janji, nota-nota perdagangan, persetujuan-persetujuan jurubank, kertas- kertas pasaran wang, sijil-sijil deposit, sekuriti hutang persendirian, nota-nota janji hutang dan bil-bil pertukaran mengikut pengertian Akta Bil-Bil Pertukaran 1949 dan instrumen bolehniaga lain jenis yang seumpamanya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mengikut peruntukan-peruntukan Akta Pemegang Amanah 1949: Dengan syarat bagaimanapun, jika Lembaga melaburkan dalam atau atas hakmilik-hakmilik kepada harta tak alih di Malaysia mengikut seksyen 4( 1 )(c) Akta Pemegang Amanah 1949, harta tak alih itu mungkin atau mungkin tidak meng- hasilkan apa-apa pendapatan pada masa pelaburan itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memberi pinjaman kepada Kerajaan Persekutuan atau Negeri; dan (/) memberi pinjaman kepada ahli Kumpulan Wang tertakluk kepada apa-apa terma dan syarat sebagaimana yang boleh ditentukan oleh Lembaga bagi maksud pembelian atau pembinaan sebuah rumah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__subsec_2__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Lembaga boleh dengan kebenaran bertulis Menteri, melabur wang kepunyaan Kumpulan Wang dengan cara yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "didepositkan dalam mana-mana bank atau institusi kewangan yang ditubuhkan oleh atau di bawah mana-mana undang-undang bertulis;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dilaburkan dalam apa-apa usahasama;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menyertai dalam apa-apa program pen- swastaan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memberi pinjaman kepada mana-mana syarikat yang diperbadankan di bawah Akta Syarikat 1965 atau mana-mana perbadanan yang ditubuhkan oleh atau di bawah mana- mana undang-undang bertulis;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan melabur dalam apa-apa pelaburan di luar Malaysia; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dilaburkan dalam apa-apa bentuk pelaburan yang lain."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud seksyen ini— \"debentur\" termasuklah stok debentur, bon-bon, nota-nota dan mana-mana sekuriti lain sesebuah perbadanan sama ada membentuk suatu gadaian ke atas aset perbadanan atau tidak; dan \"saham\" ertinya saham-saham berbayar (sama ada dibayar secara penuh atau tidak) dalam modal saham syarikat dan termasuklah stok-stok dan hak-hak untuk melanggan bagi mana-mana stok dan saham.'."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seksyen 26 seksyen yang berikut: 26A. (1) Sebagai tambahan kepada kuasa Lembaga untuk melabur mengikut seksyen 26, Lembaga boleh melabur— (a) secara pinjaman kepada sesuatu syarikat diluluskan atau pembelian syer dalam sesuatu syarikat diluluskan; atau (b) secara pinjaman perumahan khas kepada sesuatu syarikat diluluskan. (2) Tiada wang kepunyaan Kumpulan Wang boleh dilaburkan mengikut subseksyen (1) melainkan jika— (1) (a) modal syer biasa berbayar syarikat diluluskan itu adalah tidak kurang daripada lima juta ringgit Malaysia; (b) syarikat diluluskan itu telah membayar dividen pada kadar yang tidak kurang daripada lima peratus ke atas modal syer biasa itu dalam setiap tiga tahun yang terakhir sebelum masa pelaburan itu dan jika syarikat diluluskan itu adalah suatu syarikat yang telah memperolehi aset-aset dan liabiliti-liabiliti sesuatu syarikat diluluskan yang lain, pembayaran dividen oleh syarikat yang lain itu dalam setiap tiga tahun yang terakhir sebelum masa perolehan itu hendaklah dianggap sebagai pembayaran oleh syarikat diluluskan itu; (c) dalam hal sesuatu syarikat diluluskan yang tujuan tunggal atau utamanya adalah untuk menggalakkan pemunyaan rumah dan, jumlah amaun peminjaman syarikat diluluskan itu daripada semua sumber, tidak termasuk amaun apa-apa pinjaman perumahan khas, sama ada pemegang amanah atau tidak, yang telah diterima oleh syarikat diluluskan itu atas pinjaman dan deposit, dan termasuk faedah yang kena dibayar ke atasnya dan tidak dibayar balik oleh syarikat diluluskan itu, tidak pada bila-bila masa melebihi tiga perempat daripada amaun, tidak termasuk faedah akan datang, yang pada masa itu dicagarkan kepada syarikat diluluskan itu daripada peminjam-peminjamnya; (d) suatu perakuan bahawa peruntukan- peruntukan perenggan (a), (b) dan (c) subseksyen ini telah dipatuhi berkenaan dengan tahun kewangan yang terakhir bagi syarikat diluluskan itu, jika dimasukkan dalam laporan juruaudit yang dilampirkan kepada akaun tahunan syarikat diluluskan itu yang dikehendaki disediakan di bawah Akta Syarikat 1965, yang kepadanya syarikat diluluskan itu tertakluk, hendaklah muktamad memihak kepada Lembaga yang membuat pelaburan itu; dan (e) mana-mana perjanjian tentang pem- bayaran balik yang dibuat antara Lembaga dan syarikat diluluskan itu hendaklah ditamatkan dengan serta-merta jika— (i) syarikat diluluskan itu terhenti daripada mematuhi mana-mana peruntukan perenggan (a), (b) dan (2) (c) subseksyen ini; (ii) syarikat diluluskan itu tidak mendapatkan suatu perakuan dalam terma-terma dan mengikut cara yang dinyatakan dalam perenggan (d) subseksyen ini; atau (iii) Menteri boleh, pada bila-bila masa melalui pemberitahuan dalam Warta, mengarahkan bahawa syarikat itu hendaklah terhenti daripada menjadi suatu syarikat diluluskan akibat daripada pertimbangannya bahawa syarikat itu telah menyimpang daripada tujuan tunggal atau utamanya, dan apa-apa wang kepunyaan Kumpulan Wang hendaklah sesudah itu kena dibayar balik dengan serta-merta. 26B. (1) Tertakluk kepada apa-apa perubahan yang boleh dibuat oleh Menteri di bawah subseksyen (2), Lembaga hendaklah melaburkan atau melaburkan semula sekurang-kurangnya lima puluh peratus, daripada wang yang dipunyai oleh Kumpulan Wang dan dilaburkan atau dilaburkan semula dalam mana-mana satu tahun, dalam sekuriti-sekuriti yang diterbitkan oleh Kerajaan Malaysia dengan syarat bahawa jumlah amaun wang dilaburkan sedemikian dalam sekuriti- sekuriti itu pada bila-bila masa tertentu tidaklah boleh kurang daripada tujuh puluh peratus daripada jumlah pelaburan Kumpulan Wang. (2) Menteri boleh, atas permohonan Lembaga, mengubah peratusan yang dinyatakan dalam subseksyen (1). (3) Bagi maksud seksyen ini, sekuriti-sekuriti yang diterbitkan oleh Kerajaan Malaysia hendaklah termasuk— (a) pinjaman-pinjaman yang dijamin sepenuh- nya oleh Kerajaan Persekutuan; (b) kertas-kertas Bank Negara Malaysia dengan tempoh matang sekurang-kurangnya tiga tahun dari tarikh terbitan; (c) mana-mana instrumen komersial (yang mempunyai sifat-sifat bolehniaga) yang diterbitkan oleh Kerajaan Negeri atau pihak-pihak berkuasa tempatan dengan tempoh matang sekurang-kurangnya tiga tahun dari tarikh terbitan; (d) apa-apa jua bon dengan tempoh matang sekurang-kurangnya dua tahun dari tarikh terbitan; dan (e) apa-apa deposit dalam akaun sumbangan pendahuluan di bawah 26(1)(a)(i).\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 27 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memasukkan selepas perkataan \"Lembaga hendaklah\" perkataan \"dengan kelulusan Menteri,\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_9__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 30 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"hendaklah menjadi Pengurus Besar\" dengan perkataan \"hendaklah menjalankan tugas-tugas Pengurus Besar dan hendaklah dikenali sebagai Pengerusi Eksekutif dan apa-apa saraan atau elaun yang dibayar hendaklah ditentukan oleh Menteri\" dalam subseksyen (2); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan \"dan Penolong- Penolong Pengurus Besar\" dalam perenggan (3)(a)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@/~sched_4",
+      "@type": "akn:schedule",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/40/msa@"
+    }
+  ]
+}

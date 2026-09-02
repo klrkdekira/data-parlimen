@@ -38,7 +38,9 @@
 
 10. Duties and functions of the Director General.
 
-11. Power to delegate. 12. Power of the Minister to give directions.
+11. Power to delegate.
+
+12. Power of the Minister to give directions.
 
 <!-- page 2 -->
 
@@ -140,7 +142,11 @@ in relation to certification, means a body or person that is recognized as being
 
 "Director General" means the Director General of the Department of Standards appointed under section 9;
 
-"Institute" means the Standards and Industrial Research Act 157. Institute of Malaysia established under the Standards and Industrial Research Institute of Malaysia (Incorporation) Act 1975;
+"Institute" means the Standards and Industrial Research
+
+<!-- marginal: Act 157. -->
+
+Institute of Malaysia established under the Standards and Industrial Research Institute of Malaysia (Incorporation) Act 1975;
 
 "liabilities" means liabilities, debts, charges, duties, and obligations of every description (whether present or future, actual or contingent, and whether payable or to be observed or performed in Malaysia or elsewhere);
 
@@ -184,11 +190,19 @@ and "vested", in relation to property, includes rights to property which are fut
 
 "standardization" means the activity of establishing, with regard to actual or potential problems, provisions for common and repeated use, aimed at the achievement of the optimum degree of order in a given context;
 
-"standard mark" means a mark registered under the Act 175 Trade Marks Act 1976 as a certification trade mark;
+"standard mark" means a mark registered under the
+
+<!-- marginal: Act 175 -->
+
+Trade Marks Act 1976 as a certification trade mark;
 
 "standard specification" means a specification that has been declared to be a standard specification pursuant to section 15;
 
-"successor company" means the company limited by Act 125. shares incorporated under the Companies Act 1965 and named by the Minister in the order under subsection 3(1) to which property, rights, liabilities and functions of the Institute are transferred and vested in;
+"successor company" means the company limited by
+
+<!-- marginal: Act 125. -->
+
+shares incorporated under the Companies Act 1965 and named by the Minister in the order under subsection 3(1) to which property, rights, liabilities and functions of the Institute are transferred and vested in;
 
 "vesting date" means the date on which all property, rights, liabilities and functions of the Institute are transferred to and vested in the successor company as specified by the Minister in the order under subsection 3(1).
 
@@ -198,7 +212,7 @@ and "vested", in relation to property, includes rights to property which are fut
 
 ## COMPANY
 
-Vesting.
+<!-- marginal: Vesting. -->
 
 3. (1) The Minister may, by order published in the Gazette, appoint a vesting date and on that date, all such property, except those lands referred to in subsection
 
@@ -214,9 +228,7 @@ by virtue of this Act, be transferred to and vested in the successor company wit
 
 (4) Every property vested by virtue of subsection (1) in the successor company shall be so vested in the company for the like title or interest as the same was vested or held immediately before the vesting date.
 
-(5) Every chose-in-action vested by virtue of subsection
-
-(1) in the successor company may, after the vesting date, be sued on, recovered or enforced by the company in its own name and it shall not be necessary for the company or the Institute to give notice to the person bound by the chose-in-action of the vesting effected by subsection (1).
+(5) Every chose-in-action vested by virtue of subsection (1) in the successor company may, after the vesting date, be sued on, recovered or enforced by the company in its own name and it shall not be necessary for the company or the Institute to give notice to the person bound by the chose-in-action of the vesting effected by subsection (1).
 
 (6) Every right and liability vested by subsection (1) in the successor company may, on or after the vesting date, be sued on, recovered or enforced by or against the company in its own name and it shall not be necessary for the company or the Institute to give notice to the person whose rights and liabilities are affected by the vesting under subsection (1).
 
@@ -234,11 +246,29 @@ by virtue of this Act, be transferred to and vested in the successor company wit
 
 (10) Notwithstanding subsection (9), any agreement entered into by the Institute, the subject matter of which relates to any matter falling within the powers and functions of the Director General under this Act, shall, upon the vesting date devolve upon the Government and shall have effect as if the Government had been a party to the agreement.
 
-(11) Where by virtue of subsection (1), any property is transferred to and vested in the successor company, Act 56/65 the provisions in Part Thirty of the National Land Code shall, for the purpose of effecting the registration of such vesting, apply to the successor company, as if it were a public authority.
+(11) Where by virtue of subsection (1), any property is transferred to and vested in the successor company,
 
-Initial
+<!-- marginal: Act 56/65 -->
 
-4. (1) As a consequence of the vesting in the successor Government company of the property, rights and liabilities under holding in the successor subsection 3(1), the successor company shall issue such company. securities of the company as the Minister of Finance may, after consultation with the Minister, from time to time, direct.
+the provisions in Part Thirty of the National Land Code shall, for the purpose of effecting the registration of such vesting, apply to the successor company, as if it were a public authority.
+
+<!-- marginal: Initial -->
+
+4. (1) As a consequence of the vesting in the successor
+
+<!-- marginal: Government -->
+
+company of the property, rights and liabilities under
+
+<!-- marginal: holding in -->
+
+<!-- marginal: the successor -->
+
+subsection 3(1), the successor company shall issue such
+
+<!-- marginal: company. -->
+
+securities of the company as the Minister of Finance may, after consultation with the Minister, from time to time, direct.
 
 (2) Securities required to be issued in pursuance of this section shall be issued or allotted at such times and on such terms, as to allotment, as the Minister of Finance may, after consultation with the Minister, direct.
 
@@ -284,9 +314,7 @@ direct,
 
 <!-- marginal: Act 61 -->
 
-subparagraph 8(3)(a)(iv) of the Financial Procedure Act
-
-1957.
+subparagraph 8(3)(a)(iv) of the Financial Procedure Act 1957.
 
 (3) Any dividends or other sums received by the Minister of Finance under this section shall be paid into the Consolidated Fund.
 
@@ -308,11 +336,31 @@ subparagraph 8(3)(a)(iv) of the Financial Procedure Act
 
 (2) Every such person who opts under subsection (1) to serve as an employee of the successor company shall be employed by such company on terms and conditions of service not less favourable than the terms and conditions of service to which he was entitled immediately before the appointed date.
 
-Government
+<!-- marginal: Government -->
 
-7. (1) The Minister of Finance may, from time to time, of Malaysia on behalf of the Government of Malaysia, subscribe for to hold all shares in the or otherwise acquire all the shares in the successor successor company. company.
+7. (1) The Minister of Finance may, from time to time,
 
-(2) Shares in the successor company held by the Minister of Finance shall be held by the Minister of Act 375 Finance Incorporated under the Minister of Finance (Incorporation) Act 1957.
+<!-- marginal: of Malaysia -->
+
+on behalf of the Government of Malaysia, subscribe for
+
+<!-- marginal: to hold all -->
+
+<!-- marginal: shares in the -->
+
+or otherwise acquire all the shares in the successor
+
+<!-- marginal: successor -->
+
+company.
+
+<!-- marginal: company. -->
+
+(2) Shares in the successor company held by the Minister of Finance shall be held by the Minister of
+
+<!-- marginal: Act 375 -->
+
+Finance Incorporated under the Minister of Finance (Incorporation) Act 1957.
 
 (3) Notwithstanding any other written law or rule of law, it shall not be necessary to complete or register a transfer of shares of the kind referred to in subsection
 
@@ -322,9 +370,13 @@ Government
 
 (5) The Minister of Finance may, at any time, by written notice to the Company Secretary of the successor company, authorize, on such terms and conditions as are specified in the notice, any person as he thinks fit to act as his representative at any or all of the meetings of shareholders of the successor company or of any class of shareholders, and any person so authorized shall be entitled to exercise the same powers, on behalf of the Minister of Finance, as the Minister of Finance could exercise if present in person at the meeting or meetings.
 
-Minister of
+<!-- marginal: Minister of -->
 
-8. (1) The Minister of Finance shall not— Finance to hold shares.
+8. (1) The Minister of Finance shall not—
+
+<!-- marginal: Finance to -->
+
+<!-- marginal: hold shares. -->
 
 (a) sell or otherwise dispose of any shares in the successor company held by him to any person; or
 
@@ -412,7 +464,9 @@ of specifications as a means of advancing the national economy, benefiting the h
 
 (l) establish and register under the Trade Marks Act 1976 the Department of Standards' own accreditation marks;
 
-(m) authorize and regulate the use of any accreditation mark referred to under paragraph (l);
+(m) authorize and regulate the use of any accreditation mark referred to under paragraph
+
+(l);
 
 (n) co-operate with the State Governments, local authorities, the industrial, commercial and trading sectors and such other organizations as he may determine with a view to securing the adoption of standards;
 
@@ -430,15 +484,29 @@ of specifications as a means of advancing the national economy, benefiting the h
 
 (r) perform any other function as the Minister may require.
 
-Power to
+<!-- marginal: Power to -->
 
-11. (1) The Director General may, in writing, delegate delegate. to any public officer, subject to such conditions, limitations or restrictions as he thinks fit to impose, any of his duties or functions under this Act.
+11. (1) The Director General may, in writing, delegate
+
+<!-- marginal: delegate. -->
+
+to any public officer, subject to such conditions, limitations or restrictions as he thinks fit to impose, any of his duties or functions under this Act.
 
 (2) Any delegation made under this section shall not prevent the Director General himself from performing the duty or exercising the function so delegated.
 
-Power of the
+<!-- marginal: Power of the -->
 
-12. The Minister may, from time to time, give to the Minister to Director General directions not inconsistent with the give directions. provisions of this Act and the Director General shall give effect to all such directions.
+12. The Minister may, from time to time, give to the
+
+<!-- marginal: Minister to -->
+
+Director General directions not inconsistent with the
+
+<!-- marginal: give -->
+
+<!-- marginal: directions. -->
+
+provisions of this Act and the Director General shall give effect to all such directions.
 
 ## PART IV
 
@@ -446,9 +514,27 @@ Power of the
 
 ## ACCREDITATION COUNCIL
 
-Establishment
+<!-- marginal: Establishment -->
 
-13. (1) There shall be established a Council to be known of the as the Malaysian Standards and Accreditation Council Standards and consisting of the following members appointed by the Accreditation Minister: Council and its functions.
+13. (1) There shall be established a Council to be known
+
+<!-- marginal: of the -->
+
+as the Malaysian Standards and Accreditation Council
+
+<!-- marginal: Standards -->
+
+<!-- marginal: and -->
+
+consisting of the following members appointed by the
+
+<!-- marginal: Accreditation -->
+
+Minister:
+
+<!-- marginal: Council and -->
+
+<!-- marginal: its functions. -->
 
 (a) a Chairman;
 
@@ -494,7 +580,7 @@ Establishment
 
 (5) In the event of the Chairman being absent or unable to act due to illness or any other cause or if the office of the Chairman is vacant, the Deputy Chairman shall carry out the duties and functions of the Chairman.
 
-Committees.
+<!-- marginal: Committees. -->
 
 14. Notwithstanding section 13, the Council may, subject to the prior approval of the Minister, establish such committees as the Council deems necessary for the discharge of its duties or functions or for any purpose arising out of or connected with any of its duties or functions.
 
@@ -502,9 +588,13 @@ Committees.
 
 ## STANDARDS
 
-Standard
+<!-- marginal: Standard -->
 
-15. (1) The Minister may, by notification in the Gazette, specifications. declare any specification that has been adopted with or without modification, to be a standard specification or a provisional standard specification for the purposes of this Act, and may amend or withdraw any standard specification or provisional standard specification.
+15. (1) The Minister may, by notification in the Gazette,
+
+<!-- marginal: specifications. -->
+
+declare any specification that has been adopted with or without modification, to be a standard specification or a provisional standard specification for the purposes of this Act, and may amend or withdraw any standard specification or provisional standard specification.
 
 (2) Where a specification has been declared to be a provisional standard specification, the expression "Provisional" or "P" shall be included in the title or number of the standard specification.
 
@@ -592,13 +682,15 @@ the functions for which it is formed under a name that contains the words "Malay
 
 <!-- page 20 -->
 
-20
+<!-- marginal: 20 -->
 
 ## BILL
 
-Miscellaneous
+<!-- marginal: Miscellaneous -->
 
-18. (1) Any person who— offences.
+18. (1) Any person who—
+
+<!-- marginal: offences. -->
 
 (a) makes any statement or representation, whether in writing or otherwise, or uses any mark with reference to any commodity, process, practice or service that conveys or is likely to convey the impression that a person who is not registered or certified to use a mark of conformity with reference to that commodity, process, practice or service is so registered or certified or is otherwise entitled to use a mark of conformity;
 
@@ -762,15 +854,39 @@ Provided that if such appeal relates to matters pertaining to any accreditation 
 
 ## BILL
 
-25. (1) All specifications declared to be standard Saving of specifications, specifications under section 28 of the Standards and marks and Industrial Research Institute of Malaysia (Incorporation) licences. Act 157. Act 1975 or which by virtue of section 49 of the said Act continue to subsist as standard specifications declared under section 28 and subsisting as standard specifications immediately before the commencement of this Act shall continue to subsist as standard specifications declared under section 15 of this Act until withdrawn under that
+25. (1) All specifications declared to be standard
+
+<!-- marginal: Saving of -->
+
+<!-- marginal: specifications, -->
+
+specifications under section 28 of the Standards and
+
+<!-- marginal: marks and -->
+
+Industrial Research Institute of Malaysia (Incorporation)
+
+<!-- marginal: licences. -->
+
+<!-- marginal: Act 157. -->
+
+Act 1975 or which by virtue of section 49 of the said Act continue to subsist as standard specifications declared under section 28 and subsisting as standard specifications immediately before the commencement of this Act shall continue to subsist as standard specifications declared under section 15 of this Act until withdrawn under that
 
 (2) All marks registered as certification trade marks by virtue of section 29 of the said Act or deemed to have been registered under section 49 of the said Act and remaining so registered immediately before the commencement of this Act shall continue to remain registered.
 
 (3) All licences to use standard marks granted under section 30 of the said Act or subsisting by virtue of subsection 49(3) of the said Act and subsisting immediately before the commencement of this Act shall remain valid until they expire or are revoked under this Act.
 
-Prevention
+<!-- marginal: Prevention -->
 
-26. (1) If any difficulty arises in connection with the of transitional provisions contained in this Part, the Minister anomalies. may, subject to subsection (2), by order make such modifications therein as may appear to him ne.cessary for preventing anomalies.
+26. (1) If any difficulty arises in connection with the
+
+<!-- marginal: of -->
+
+transitional provisions contained in this Part, the Minister
+
+<!-- marginal: anomalies. -->
+
+may, subject to subsection (2), by order make such modifications therein as may appear to him ne.cessary for preventing anomalies.
 
 (2) The Minister shall not exercise the powers conferred by subsection (1) after the expiration of two years from the commencement of this Act.
 

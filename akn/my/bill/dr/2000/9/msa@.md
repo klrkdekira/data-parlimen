@@ -12,9 +12,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 Tajuk ringkas dan permulaan kuat kuasa
 
-1.
-
-(1) Akta ini bolehlah dinamakan Akta Reka Bentuk Perindustrian (Pindaan) 2000.
+1. (1) Akta ini bolehlah dinamakan Akta Reka Bentuk Perindustrian (Pindaan) 2000.
 
 (2) Akta ini hendaklah mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
 

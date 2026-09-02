@@ -36,11 +36,7 @@ recommendation of the Prime Minister who shall, before tendering his advice, con
 
 (4) A member of the Commission shall hold office for a period of three years and is eligible for reappointment once for another period of three years.
 
-(5) The Prime Minister may determine suitable mechanisms, including appropriate
-
-<!-- marginal: key performance -->
-
-indicators, to assess the performance of the members of the Commission in carrying out their functions and duties under this Act.
+(5) The Prime Minister may determine suitable mechanisms, including appropriate key performance indicators, to assess the performance of the members of the Commission in carrying out their functions and duties under this Act.
 
 (6) Such assessment shall
 
@@ -64,9 +60,7 @@ Commission under subsection (4); and
 
 ### New section 11A
 
-3. The principal Act is amended by inserting after section 11 in
-
-## Part II the following section:
+3. The principal Act is amended by inserting after section 11 in Part II the following section:
 
 ### “Committee to be consulted with regard to appointment
 

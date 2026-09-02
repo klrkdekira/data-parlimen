@@ -10,9 +10,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ### Short title and commencement
 
-1. (1) This Act may be cited as the Sales Tax (Amendment) Act
-
-1999.
+1. (1) This Act may be cited as the Sales Tax (Amendment) Act 1999.
 
 (2) This Act comes into operation on 1 January 2000.
 
@@ -36,7 +34,11 @@ ENACTED by the Parliament of Malaysia as follows:
 
 by changing the size, shape or nature of such materials and includes the assembly of parts into a piece of machinery or other products, but does not include the installation of machinery or equipment for the purpose of construction; and
 
-(b) in relation to petroleum, refining or compounding and includes the addition of any foreign substance;'; and
+(b) in relation to petroleum,
+
+<!-- marginal: refining or -->
+
+compounding and includes the addition of any foreign substance;'; and
 
 (b) by inserting after the definition of "person" the following definition:
 

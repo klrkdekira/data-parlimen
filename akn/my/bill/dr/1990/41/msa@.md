@@ -52,11 +52,41 @@ dan memasukkan selepas itu perenggan baru (g) yang berikut;
 
 " (g) semua jumlah wang yang disumbangkan oleh Kerajaan.".
 
-Seksyen baru 4. Akta ibu adalah dipinda dengan memasukkan selepas
+<!-- marginal: Seksyen baru -->
+
+4. Akta ibu adalah dipinda dengan memasukkan selepas
 
 48A. seksyen 48 seksyen baru 48A yang berikut;
 
-"Jawatan- 48A. (1) Maka hendaklah ditubuhkan suatu kuasa Jawatankuasa Kumpulan Wang Jabatan Perkhid- Kumpulan Wang matan Bomba yang hendaklah mempunyai Kebajikan kawalan ke atas Kumpulan Wang. Jabatan Perkhid- matan (2) Jawatankuasa hendaklah terdiri daripada Bomba. anggota-anggota berikut:
+<!-- marginal: "Jawatan- -->
+
+48A. (1) Maka hendaklah ditubuhkan suatu
+
+<!-- marginal: kuasa -->
+
+Jawatankuasa Kumpulan Wang Jabatan Perkhid-
+
+<!-- marginal: Kumpulan -->
+
+<!-- marginal: Wang -->
+
+matan Bomba yang hendaklah mempunyai
+
+<!-- marginal: Kebajikan -->
+
+kawalan ke atas Kumpulan Wang.
+
+<!-- marginal: Jabatan -->
+
+<!-- marginal: Perkhid- -->
+
+<!-- marginal: matan -->
+
+(2) Jawatankuasa hendaklah terdiri daripada
+
+<!-- marginal: Bomba. -->
+
+anggota-anggota berikut:
 
 (a) Ketua Pengarah sebagai Pengerusi;
 
@@ -70,9 +100,11 @@ Seksyen baru 4. Akta ibu adalah dipinda dengan memasukkan selepas
 
 (5) Tertakluk kepada Akta ini, Jawatankuasa hendaklah mempunyai kuasa untuk mengawal- selia prosidingnya.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-5. Seksyen 49 Akta ibu adalah dipinda — seksyen 49.
+5. Seksyen 49 Akta ibu adalah dipinda —
+
+<!-- marginal: seksyen 49. -->
 
 (a) dengan menggantikan perkataan-perkataan "Kawalan Kumpulan Wang," dalam nota birai dengan perkataan-perkataan "Pentadbiran dan penggunaan Kumpulan Wang."; dan
 

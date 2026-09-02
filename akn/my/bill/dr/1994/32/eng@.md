@@ -68,11 +68,57 @@ Government
 
 <!-- page 2 -->
 
-Purpose Title Appropriation to purpose RM
+Purpose Title Appropriation
 
-B. 15 Town and Country Planning Department 1,000,000 B. 17 Ministry of Youth and Sports 4,427,400 B. 25 Ministry of Defence 80,000,000 B. 29 Treasury General Services 57,000,000 B. 38 Registration of Societies Department 718,000 B. 39 National Registration Department 2,424,000 B. 42 Ministry of National Unity and 11,300.000 Social Development B. 45 Ministry of Human Resources 20,000,000 B. 52 Ministry of Works 212,000,000 B. 53 Ministry of Land and Co-operative 50,000,000 Development
+<!-- marginal: to purpose -->
 
-Total . . 562,614,400
+<!-- marginal: RM -->
+
+B. 15 Town and Country Planning Department
+
+<!-- marginal: 1,000,000 -->
+
+B. 17 Ministry of Youth and Sports
+
+<!-- marginal: 4,427,400 -->
+
+B. 25 Ministry of Defence
+
+<!-- marginal: 80,000,000 -->
+
+B. 29 Treasury General Services
+
+<!-- marginal: 57,000,000 -->
+
+B. 38 Registration of Societies Department
+
+<!-- marginal: 718,000 -->
+
+B. 39 National Registration Department
+
+<!-- marginal: 2,424,000 -->
+
+B. 42 Ministry of National Unity and
+
+<!-- marginal: 11,300.000 -->
+
+Social Development B. 45 Ministry of Human Resources
+
+<!-- marginal: 20,000,000 -->
+
+B. 52 Ministry of Works
+
+<!-- marginal: 212,000,000 -->
+
+B. 53 Ministry of Land and Co-operative
+
+<!-- marginal: 50,000,000 -->
+
+Development
+
+Total . .
+
+<!-- marginal: 562,614,400 -->
 
 ## EXLANATORY STATEMENT
 

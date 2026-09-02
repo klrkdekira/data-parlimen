@@ -74,7 +74,9 @@ permohonan itu hendaklah dipertimbangkan oleh Menteri jika permohonan itu diteri
 
 (iii) dalam proviso, dengan menggantikan perkataan “, 27L(1) atau seksyen 27O” dengan perkataan “atau 27L(1)”; dan
 
-(h) dalam subseksyen (2), dengan menggantikan perkataan “subseksyen (1) atau (1A)” dengan perkataan “seksyen ini”.
+(h) dalam subseksyen (2), dengan menggantikan perkataan “subseksyen (1) atau (1A)” dengan perkataan “seksyen
+
+<!-- marginal: ini”. -->
 
 <!-- page 4 -->
 
@@ -404,7 +406,9 @@ permohonan itu hendaklah ditimbangkan oleh Menteri jika permohonan itu diterima 
 
 (b) tiada kelulusan boleh diberikan dengan kuat kuasa ke belakang di bawah subseksyen (1) atau di bawah proviso sebelum ini dari suatu tarikh yang lebih awal daripada tiga tahun dari tarikh permohonan di bawah subseksyen 26C(1) diterima oleh Menteri.”; dan
 
-(b) dalam subseksyen (3), dengan menggantikan perkataan “subseksyen (1) dan (2)” dengan perkataan “seksyen ini”.
+(b) dalam subseksyen (3), dengan menggantikan perkataan “subseksyen (1) dan (2)” dengan perkataan “seksyen
+
+<!-- marginal: ini”. -->
 
 ### Pindaan seksyen 27E
 
@@ -422,7 +426,9 @@ berhubung dengannya, dari suatu tarikh sebelum tarikh yang aktiviti itu telah di
 
 (b) tiada kelulusan boleh diberikan dengan kuat kuasa ke belakang di bawah subseksyen (1) atau di bawah proviso sebelum ini dari suatu tarikh yang lebih awal daripada tiga tahun dari tarikh permohonan di bawah subseksyen 26E(1) diterima oleh Menteri.”; dan
 
-(b) dalam subseksyen (3), dengan menggantikan perkataan “subseksyen (1) dan (2)” dengan perkataan “seksyen ini”.
+(b) dalam subseksyen (3), dengan menggantikan perkataan “subseksyen (1) dan (2)” dengan perkataan “seksyen
+
+<!-- marginal: ini”. -->
 
 ### Pindaan seksyen 27F
 
@@ -452,7 +458,9 @@ Dengan syarat bahawa—
 
 (b) tiada kelulusan boleh diberikan dengan kuat kuasa ke belakang di bawah subseksyen (1A) atau di bawah proviso sebelum ini dari suatu tarikh yang lebih awal daripada tiga tahun dari tarikh permohonan di bawah subseksyen 26F(2A) diterima oleh Menteri.”;
 
-(d) dalam subseksyen (2), dengan menggantikan perkataan “subseksyen (1)” dengan perkataan “subseksyen (1) dan (1A)”; dan
+(d) dalam subseksyen (2), dengan menggantikan perkataan “subseksyen (1)” dengan perkataan “subseksyen (1) dan
+
+(1A)”; dan
 
 (e) dalam subseksyen (3), dengan menggantikan perkataan “subseksyen (1) dan (2)” dengan perkataan “seksyen ini”.
 
@@ -614,7 +622,9 @@ Dengan syarat bahawa jika suatu syarikat melakukan perbelanjaan modal dari tarik
 
 (d) dengan memasukkan selepas subseksyen (6) subseksyen yang berikut:
 
-“(7) Bagi maksud subseksyen (2A) dan subperenggan (3)(b)(ii) proviso, subseksyen 29AA(4), (5) dan (6) hendaklah terpakai mutatis mutandis.”.
+“(7) Bagi maksud subseksyen (2A) dan subperenggan
+
+(3)(b)(ii) proviso, subseksyen 29AA(4), (5) dan (6) hendaklah terpakai mutatis mutandis.”.
 
 <!-- page 23 -->
 

@@ -30,7 +30,9 @@
 
 ## TUJUAN, KUASA DAN OBLIGASI SOSIAL BANK
 
-10. Tujuan dan kuasa Bank 11. Obligasi sosial
+10. Tujuan dan kuasa Bank
+
+11. Obligasi sosial
 
 ## BAHAGIAN V
 
@@ -94,7 +96,11 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 "Lembaga" ertinya lembaga pengarah Bank;
 
-"liabiliti" ertinya segala jenis liabiliti, hutang, tanggungan, kewajipan dan obligasi (sama ada pada masa kini atau pada masa hadapan, yang sebenar atau kontinjen, dan sama ada kena dibayar atau hendaklah dipatuhi atau dilaksanakan di Malaysia atau di tempat lain);
+"liabiliti" ertinya segala jenis liabiliti, hutang,
+
+<!-- marginal: tanggungan, -->
+
+kewajipan dan obligasi (sama ada pada masa kini atau pada masa hadapan, yang sebenar atau kontinjen, dan sama ada kena dibayar atau hendaklah dipatuhi atau dilaksanakan di Malaysia atau di tempat lain);
 
 "Menteri" ertinya Menteri yang dipertanggungkan dengan tanggungjawab bagi kewangan;
 
@@ -342,7 +348,11 @@ yang dipersetujui oleh Menteri, mengemukakan kepada Menteri, berkenaan dengan ke
 
 ### Perlindungan di bawah Akta Bil Pertukaran 1949
 
-14. Pada melaksanakan fungsinya di bawah Akta ini, Bank hendaklah diberikan perlindungan seseorang jurubank di bawah Akta Bil Pertukaran 1949 [Akta 204].
+14. Pada melaksanakan fungsinya di bawah Akta
+
+<!-- marginal: ini, Bank -->
+
+hendaklah diberikan perlindungan seseorang jurubank di bawah Akta Bil Pertukaran 1949 [Akta 204].
 
 <!-- page 14 -->
 
@@ -380,7 +390,11 @@ perkhidmatan Bank, prosiding itu hendaklah diteruskan dan diselesaikan oleh Bank
 
 (2) Menteri tidak boleh menjalankan kuasa yang diberikan oleh seksyen ini selepas habis tempoh dua tahun dari tarikh letak hak.
 
-(3) Dalam seksyen ini, 'ubah suaian' termasuklah pindaan, tambahan, pemotongan, penggantian, penyesuaian, variasi, pengubahan dan ketidakpakaian mana-mana peruntukan Akta ini.
+(3) Dalam seksyen ini, 'ubah suaian' termasuklah pindaan, tambahan, pemotongan, penggantian, penyesuaian,
+
+<!-- marginal: variasi, -->
+
+pengubahan dan ketidakpakaian mana-mana peruntukan Akta ini.
 
 ## HURAIAN
 
@@ -456,4 +470,4 @@ Pengkorporatan Bank Pertanian Malaysia akan menjadi suatu landasan bagi Bank unt
 
 Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan, yang amaunnya belum dapat ditentukan sekarang ini.
 
-[PN(U2)2582]
+<!-- marginal: [PN(U2)2582] -->

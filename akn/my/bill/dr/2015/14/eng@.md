@@ -980,7 +980,7 @@ necessary that such information or document be so obtained or shared in managing
 
 (b) responsible for the supervision or oversight of capital market intermediaries or participants.
 
-## part IIIc
+## PART IIIC
 
 ## SHARIAH ADVISORY COUNCIL
 
@@ -1368,7 +1368,7 @@ Provided that such act, statement, performance of functions or exercise of power
 
 63. The principal Act is amended by substituting for Schedule 1 the following Schedule:
 
-“Schedule 1
+## “SCHEDULE 1
 
 ## Part 1
 

@@ -16,7 +16,33 @@
 
 ## THE MAJLIS AGAMA ISLAM WILAYAH PERSEKUTUAN
 
-4. Establishment of the Majlis. 5. Legal identity and powers of Majlis. 6. Committees. 7. Duty of the Majlis for socio-economic development of Muslims. 8. Power to establish corporations. 9. Borrowing powers. 10. Membership of the Majlis. 11. Termination of appointments. 12. Revocation of appointments. 13. Appointments to be gazetted. 14. Secretary. 15. Attendance of non-members at meetings. 16. Presiding over meetings. 17. Quorum. 18. Conduct of business. 19. Summoning of meetings. 20. Powers of Chairman. 21. Duties and powers of Secretary. 22. Minutes.
+4. Establishment of the Majlis. 5. Legal identity and powers of Majlis. 6. Committees. 7. Duty of the Majlis for socio-economic development of Muslims. 8. Power to establish corporations. 9. Borrowing powers.
+
+10. Membership of the Majlis.
+
+11. Termination of appointments.
+
+12. Revocation of appointments.
+
+13. Appointments to be gazetted.
+
+14. Secretary.
+
+15. Attendance of non-members at meetings.
+
+16. Presiding over meetings.
+
+17. Quorum.
+
+18. Conduct of business.
+
+19. Summoning of meetings.
+
+20. Powers of Chairman.
+
+21. Duties and powers of Secretary.
+
+22. Minutes.
 
 <!-- page 2 -->
 
@@ -48,9 +74,7 @@
 
 33. Authority of Mufti
 
-34. Fatwa.
-
-35. Form of fatwa.
+34. Fatwa. 35. Form of fatwa.
 
 36. Amendment, modification or revocation of fatwa.
 
@@ -76,9 +100,7 @@
 
 45. Registrars.
 
-46. Jurisdiction of Syariah High Court.
-
-47. Jurisdiction of Syariah Subordinate Courts.
+46. Jurisdiction of Syariah High Court. 47. Jurisdiction of Syariah Subordinate Courts.
 
 48. Appeal to Syanah High Court.
 
@@ -90,7 +112,19 @@
 
 ## (FEDERAL TERRITORIES)
 
-51. Supervisory and revisionaryjurisdiction of the Syariah High Court. 52. JurisdictJon of Syariah Appeal Court. 53. Supervisory and revisionary jurisdiction of the Syariah Appeal Court. 54. Composition of the Syariah Appeal Court. 55. Decision by the majority. 56. Continuation of proceedings in Syariah Appeal Court notwithstanding absence of Judge. 57. Appeal rules.
+51. Supervisory and revisionaryjurisdiction of the Syariah High Court.
+
+52. JurisdictJon of Syariah Appeal Court.
+
+53. Supervisory and revisionary jurisdiction of the Syariah Appeal Court.
+
+54. Composition of the Syariah Appeal Court.
+
+55. Decision by the majority.
+
+56. Continuation of proceedings in Syariah Appeal Court notwithstanding absence of Judge.
+
+57. Appeal rules.
 
 ## PART V
 
@@ -110,7 +144,25 @@ Charitable Trusts
 
 61. Wakaf and nazr
 
-62. Yesting. 63. Restrictions and creation of charitable trusts. 64. Income of wakafzind nazr. 65. Capital of wakafand nazr 'am. 66. Construction of instruments. 67. Accounts and annual reports. 68. wakaf and nazr property. 69. Estimates. 70. Expenses of the Majlis. 71. Banks,
+62. Yesting.
+
+63. Restrictions and creation of charitable trusts.
+
+64. Income of wakafzind nazr.
+
+65. Capital of wakafand nazr 'am.
+
+66. Construction of instruments.
+
+67. Accounts and annual reports.
+
+68. wakaf and nazr property.
+
+69. Estimates.
+
+70. Expenses of the Majlis.
+
+71. Banks,
 
 <!-- page 4 -->
 
@@ -118,11 +170,29 @@ Charitable Trusts
 
 ## MOSQUES
 
-72. Trusteeship of mosques and related lands. 73. Restriction of establishment of mosques. 74. Maintenance of mosques and compounds. 75. Boundaries of kariah masjid. 76. Appointment of the Pegawai Masjid.
+72. Trusteeship of mosques and related lands.
 
-77. Tauliah. 78. Tenure of office of Pegawai Masjid. 79. Control and direction over Pegawai Masjid. 80. Abolition of office of Nazir.
+73. Restriction of establishment of mosques.
 
-81. The Jawatankuasa Kariah. 82. Exemption. 83. Power to amend Third Schedule.
+74. Maintenance of mosques and compounds.
+
+75. Boundaries of kariah masjid.
+
+76. Appointment of the Pegawai Masjid.
+
+77. Tauliah.
+
+78. Tenure of office of Pegawai Masjid.
+
+79. Control and direction over Pegawai Masjid.
+
+80. Abolition of office of Nazir.
+
+81. The Jawatankuasa Kariah.
+
+82. Exemption.
+
+83. Power to amend Third Schedule.
 
 ## PART VIII
 
@@ -134,7 +204,11 @@ Charitable Trusts
 
 ## CONVERSION TO ISLAM
 
-85. Requirements for corwersion. 86. Moment of conversion. 87. Duties and obligations of a muallaf. 88. Registrar and Register of Muallafs. 89. Registration of mualafs. 90. Certificate of Corwersion. 91. Recognition of muallafs as Muslims. 92. Determining whether non-registered person is a muallaf. 93. Offence of giving false information. 94. Power to make rules.
+85. Requirements for corwersion. 86. Moment of conversion. 87. Duties and obligations of a muallaf. 88. Registrar and Register of Muallafs. 89. Registration of mualafs. 90. Certificate of Corwersion. 91. Recognition of muallafs as Muslims. 92. Determining whether non-registered person is a muallaf.
+
+93. Offence of giving false information.
+
+94. Power to make rules.
 
 <!-- page 5 -->
 
@@ -212,17 +286,53 @@ only to the Federal Territories of Kuala Lumpur and Labuan.
 
 "Enactment" means the Administration of Muslim Sel.En 3/52. Law Enactment 1952 of the State of Selangor—
 
-(a) in relation to the Federal Territory of Kuala Lumpur, as modified by the Federal Territory P.U
+(a) in relation to the Federal Territory of Kuala Lumpur, as modified by the Federal Territory
 
-(A) (Modification of Administration of Muslim Law 4-4174. Enactment) Orders 1974, 1981 and 1988 made P.U
+<!-- marginal: P.U -->
 
-(A) 390/81. pursuant to section 6(4) of the Constitution P.U
+(A) (Modification of Administration of Muslim Law
 
-(A) (Amendment) (No.2) Act 1973 and in force in 163188. P.U
+<!-- marginal: 4-4174. -->
 
-(A) the Federal Territory of Kuala Lumpur by virtue 263/88 of section 6(1) of that Act; and Act A 206
+Enactment) Orders 1974, 1981 and 1988 made
 
-(b) in relation to the Federal Territory of Labuan, as modified and extended by the Federal Territory of Labuan (Modification and P.U. (A) Extension of Administration of Muslim Law 352/85. Enactment) Order 1985 made pursuant to section 7 of the Constitution (Amendment) Act A585 (No.2) Act 1984;
+<!-- marginal: P.U -->
+
+(A)
+
+<!-- marginal: 390/81. -->
+
+pursuant to section 6(4) of the Constitution
+
+<!-- marginal: P.U -->
+
+(A) (Amendment) (No.2) Act 1973 and in force in
+
+<!-- marginal: 163188. -->
+
+<!-- marginal: P.U -->
+
+(A) the Federal Territory of Kuala Lumpur by virtue
+
+<!-- marginal: 263/88 -->
+
+of section 6(1) of that Act; and
+
+<!-- marginal: Act A 206 -->
+
+(b) in relation to the Federal Territory of Labuan, as modified and extended by the Federal Territory of Labuan (Modification and
+
+<!-- marginal: P.U. (A) -->
+
+Extension of Administration of Muslim Law
+
+<!-- marginal: 352/85. -->
+
+Enactment) Order 1985 made pursuant to section 7 of the Constitution (Amendment)
+
+<!-- marginal: Act A585 -->
+
+(No.2) Act 1984;
 
 "Federal Territories" means the Federal Territories of Kuala Lumpur and Labuan;
 
@@ -354,9 +464,31 @@ seal is provided under this section, a stamp bearing the inscription the "Majlis
 
 (5) The Majlis shall have such further powers and carry out such duties as may by this or by any other Act assigned to it.
 
-Committees. 6. The Majlis may appoint committees to assist it in the performance of its duties or the exercise of its powers.
+<!-- marginal: Committees. -->
 
-Duty of the 7. (1) It shall be the duty of the Majlis to promote, Majlis for stimulate, facilitate and undertake the economic and socio- economic social development and well-being of the Muslim development community in the Federal Territories consistently with of Muslims. Islamic Law.
+6. The Majlis may appoint committees to assist it in the performance of its duties or the exercise of its powers.
+
+<!-- marginal: Duty of the -->
+
+7. (1) It shall be the duty of the Majlis to promote,
+
+<!-- marginal: Majlis for -->
+
+stimulate, facilitate and undertake the economic and
+
+<!-- marginal: socio- -->
+
+<!-- marginal: economic -->
+
+social development and well-being of the Muslim
+
+<!-- marginal: development -->
+
+community in the Federal Territories consistently with
+
+<!-- marginal: of Muslims. -->
+
+Islamic Law.
 
 (2) The Majlis shall have power, for the purpose of the discharge of its duty under subsection (1)—
 
@@ -368,11 +500,7 @@ Duty of the 7. (1) It shall be the duty of the Majlis to promote, Majlis for sti
 
 advantageous or corvenient for or in connection with the discharge of its said duty, including the manufacturing, assembling, processing, packing, grading and marketing of products;
 
-(b) to promote the carrying on of any such activities by other bodies or persons, and for that purpose to establish or expand, or promote
-
-<!-- marginal: the -->
-
-establishment or expansion of, other bodies to carry on any such activities either under the control or partial control of the Majlis or independently, and to give assistance to such bodies or to other bodies or persons appearing to the Majlis to have the facilities for the carrying on of any such activities, including the giving of financial assistance by way of loan or otherwise;
+(b) to promote the carrying on of any such activities by other bodies or persons, and for that purpose to establish or expand, or promote the establishment or expansion of, other bodies to carry on any such activities either under the control or partial control of the Majlis or independently, and to give assistance to such bodies or to other bodies or persons appearing to the Majlis to have the facilities for the carrying on of any such activities, including the giving of financial assistance by way of loan or otherwise;
 
 (c) to carry on any such activities in association with other bodies or persons, including the departments or authorities of the Federal Government, or as managing agent or otherwise on behalf of the Federal Government;
 
@@ -414,15 +542,23 @@ enterprise which has been planned or undertaken by the Majlis in execution of it
 
 (3) The prcwisions of the Second Schedule shall apply to a corporation established by the Majlis under subsection (1).
 
-Borrowing
+<!-- marginal: Borrowing -->
 
-9. (1) The Majlis may, with the approval of the powers. Minister of Pinance and upon such terms and conditions as may be determined by him, borrow such sums as it may require for discharging any of its functions under this Act.
+9. (1) The Majlis may, with the approval of the
+
+<!-- marginal: powers. -->
+
+Minister of Pinance and upon such terms and conditions as may be determined by him, borrow such sums as it may require for discharging any of its functions under this Act.
 
 (2) Sums borrowed by virtue of this section shall be paid into the Fund.
 
-Membership
+<!-- marginal: Membership -->
 
-10. (1) The Majlis shall consist of the following of the Majlis members:
+10. (1) The Majlis shall consist of the following
+
+<!-- marginal: of the Majlis -->
+
+members:
 
 (a) a Chairman;
 
@@ -472,7 +608,13 @@ Majlis shall terminate—
 
 <!-- page 16 -->
 
-Revocation of 12. The Yang di-Pertuan Agong may, on the advice of appointments the Minister, revoke the appointment of any appointed member of the Majlis—
+<!-- marginal: Revocation of -->
+
+12. The Yang di-Pertuan Agong may, on the advice of
+
+<!-- marginal: appointments -->
+
+the Minister, revoke the appointment of any appointed member of the Majlis—
 
 (a) if his conduct, whether in connection with his duties as a member or otherwise, has been such as to bring discredit on the Majlis; or
 
@@ -480,23 +622,49 @@ Revocation of 12. The Yang di-Pertuan Agong may, on the advice of appointments t
 
 (c) if, without any excuse which in the opinion of the Chairman is sufficient, he has been absent from three successive meetings of the Majlis.
 
-Appointments 13. All appointments and revocations of appointment to be gazetted under sections 10, 11 and 12 shall be published in the Gazette.
+<!-- marginal: Appointments -->
 
-Secretary. 14. (1) The Director of the Islamic Religious Department of the Federal Territories shall be the Secretary of the Majlis.
+13. All appointments and revocations of appointment
+
+<!-- marginal: to be gazetted -->
+
+under sections 10, 11 and 12 shall be published in the Gazette.
+
+<!-- marginal: Secretary. -->
+
+14. (1) The Director of the Islamic Religious Department of the Federal Territories shall be the Secretary of the Majlis.
 
 (2) The Secretary shall be the chief executive and administrative officer of the Majlis and shall be responsible for carrying out the policies and resolutions of the Majlis.
 
 (3) The Secretary is entitled to attend all meetings of the Majlis and to participate in its deliberations, but not to vote.
 
-Attendance of 15. (1) The Chairman may invite to any meeting of the non-members Majlis any person who is not a member of the Majlis, at meetings. if the business before the meeting renders the presence of such a person desirable.
+<!-- marginal: Attendance of -->
+
+15. (1) The Chairman may invite to any meeting of the
+
+<!-- marginal: non-members -->
+
+Majlis any person who is not a member of the Majlis,
+
+<!-- marginal: at meetings. -->
+
+if the business before the meeting renders the presence of such a person desirable.
 
 (2) A person invited under subsection (1) shall be entitled to participate in the deliberations of the Majlis, but shall have no right of voting.
 
-Presiding 16. (1) The Chairman or, in his absence, the Deputy over Chairman shall preside over all meetings of
+<!-- marginal: Presiding -->
+
+16. (1) The Chairman or, in his absence, the Deputy
+
+<!-- marginal: over -->
+
+Chairman shall preside over all meetings of
 
 <!-- marginal: the -->
 
-meetings. Majlis.
+<!-- marginal: meetings. -->
+
+Majlis.
 
 <!-- page 17 -->
 
@@ -530,9 +698,7 @@ by the Secretary.
 
 (3) Any four members of the Majlis may at any time in writing require the Secretary to summon a meeting of the Majlis on condition that they inform the Secretary of the purpose for which they desire the meeting to be summoned.
 
-(4) The Secretary shall, within fourteen days of receipt of the direction or requirement under subsection
-
-(2) or (3), or, if the Chairman so directs, immediately upon receipt of such a direction or requirement, summon a meeting.
+(4) The Secretary shall, within fourteen days of receipt of the direction or requirement under subsection (2) or (3), or, if the Chairman so directs, immediately upon receipt of such a direction or requirement, summon a meeting.
 
 <!-- page 18 -->
 
@@ -542,11 +708,29 @@ by the Secretary.
 
 (7) No notice of meetings shall be necessary in the case of a member who is for the time being outside Malaysia.
 
-Powers of 20. The Chairman shall exercise control over all Chairman. deliberations and proceedings of the Majlis and shall be responsible for the proper and orderly conduct thereof.
+<!-- marginal: Powers of -->
 
-Duties and 21. Subject to such directions as may be given to him powers of by the Chairman, the Secretary shall have charge of all Secretary. correspondence and documents of the Majlis and shall in all other respects carry out such duties as may be imposed upon him by the Act or assigned to him by the Chairman.
+20. The Chairman shall exercise control over all
 
-Mmutes 22. (1) The Secretary shall keep minutes of all meetings of the Majlis, and at every meeting the minutes of the previous meeting shall be read and confirmed, subject to any amendment which may be required.
+<!-- marginal: Chairman. -->
+
+deliberations and proceedings of the Majlis and shall be responsible for the proper and orderly conduct thereof.
+
+<!-- marginal: Duties and -->
+
+21. Subject to such directions as may be given to him
+
+<!-- marginal: powers of -->
+
+by the Chairman, the Secretary shall have charge of all
+
+<!-- marginal: Secretary. -->
+
+correspondence and documents of the Majlis and shall in all other respects carry out such duties as may be imposed upon him by the Act or assigned to him by the Chairman.
+
+<!-- marginal: Mmutes -->
+
+22. (1) The Secretary shall keep minutes of all meetings of the Majlis, and at every meeting the minutes of the previous meeting shall be read and confirmed, subject to any amendment which may be required.
 
 (2) Such minutes shall be entered in the minute book of the Majlis and shall include a full verbatim record of every resolution of the Majlis.
 
@@ -618,13 +802,43 @@ delegate to the Chairman or the Secretary or to any committee of the Majlis, the
 
 (3) The Chairman, Secretary, or committee shall inform the Majlis of all acts and things done by him or it in pursuance of a delegation under subsection (1).
 
-Secrecy. 28. The proceeding of the Majlis shall be kept secret and no member or servant thereof shall disclose or divulge to any person, other than the Yang di-Pertuan Agong or the Minister, and any member of the Majlis, any matter that has arisen at any meeting unless he is expressly authorized by the Majlis.
+<!-- marginal: Secrecy. -->
 
-Public 29. The members, officers and servants of the Majlis servant. shall be deemed to be public servants within the meaning F.MS of the Penal Code. Cap- 45
+28. The proceeding of the Majlis shall be kept secret and no member or servant thereof shall disclose or divulge to any person, other than the Yang di-Pertuan Agong or the Minister, and any member of the Majlis, any matter that has arisen at any meeting unless he is expressly authorized by the Majlis.
 
-Majlis may 30. The Majlis may, subject to this Act, determine determine its questions relating to its own procedure and practice. own procedure.
+<!-- marginal: Public -->
 
-Authonty of 31. The Majlis shall aid and advise the Yang di-Pertuan Majlis. Agong in respect of all matters relating to the religion of Islam within the Federal Territories, except matters of Islamic Law and those relating to the adrninistration of justice, and in all such matters shall be the chief authority in the Pederal Territories after the Yang di-Pertuan Agong, except where otherwise provided in this Act.
+29. The members, officers and servants of the Majlis
+
+<!-- marginal: servant. -->
+
+shall be deemed to be public servants within the meaning
+
+<!-- marginal: F.MS -->
+
+of the Penal Code.
+
+<!-- marginal: Cap- 45 -->
+
+<!-- marginal: Majlis may -->
+
+30. The Majlis may, subject to this Act, determine
+
+<!-- marginal: determine its -->
+
+questions relating to its own procedure and practice.
+
+<!-- marginal: own -->
+
+<!-- marginal: procedure. -->
+
+<!-- marginal: Authonty of -->
+
+31. The Majlis shall aid and advise the Yang di-Pertuan
+
+<!-- marginal: Majlis. -->
+
+Agong in respect of all matters relating to the religion of Islam within the Federal Territories, except matters of Islamic Law and those relating to the adrninistration of justice, and in all such matters shall be the chief authority in the Pederal Territories after the Yang di-Pertuan Agong, except where otherwise provided in this Act.
 
 ## PART
 
@@ -636,7 +850,17 @@ III
 
 ## LEGAL CONSULTATIYE COMMITTEE
 
-Appomtment 32. (1) The Yang di-Pertuan Agong may, on the advice of Mufti and of the Minister, after consulting the Majlis, appoint fit and deputy Mufti. proper persons to be the Mufti and the Deputy Mufti for the Federal Territories.
+<!-- marginal: Appomtment -->
+
+32. (1) The Yang di-Pertuan Agong may, on the advice
+
+<!-- marginal: of Mufti and -->
+
+of the Minister, after consulting the Majlis, appoint fit and
+
+<!-- marginal: deputy Mufti. -->
+
+proper persons to be the Mufti and the Deputy Mufti for the Federal Territories.
 
 <!-- page 21 -->
 
@@ -670,17 +894,35 @@ Agong in respect of all matters of Islamic Law, and in all such matters shall be
 
 <!-- page 22 -->
 
-Amendment,
+<!-- marginal: Amendment, -->
 
-36. (1) The Mufti may amend, modify or revoke any modification. fatwa that has been issued earlier by him or by any or revocation of fatwa. previous Mufti.
+36. (1) The Mufti may amend, modify or revoke any
+
+<!-- marginal: modification. -->
+
+fatwa that has been issued earlier by him or by any
+
+<!-- marginal: or revocation -->
+
+<!-- marginal: of fatwa. -->
+
+previous Mufti.
 
 (2) An amendment, modification or revocation of a fatwa shall be deemed to be afatwa and the provisions of subsections (3) and (4) of section 34 and subsection (2) of section 35 shall apply thereto.
 
 (3) An amendment, modification or revocation of a fatwa shall cite that it is made pursuant to subsection (1).
 
-The Islamic
+<!-- marginal: The Islamic -->
 
-37. (1) There shall be a committee to be known as the Legal Islamic Legal Consultative Committee. Consultative Committee.
+37. (1) There shall be a committee to be known as the
+
+<!-- marginal: Legal -->
+
+Islamic Legal Consultative Committee.
+
+<!-- marginal: Consultative -->
+
+<!-- marginal: Committee. -->
 
 (2) The Committee shall consist of—
 
@@ -748,9 +990,19 @@ Minister, may by notification in the Gazette constitute Syariah Subordinate Cour
 
 (3) The Yang di-Pertuan Agong, on the advice of the Minister, may by notification in the Gazette constitute a Syariah Appeal Court for the Federal Territories.
 
-Appointment
+<!-- marginal: Appointment -->
 
-41. (1) The Yang di-Pertuan Agong may, on the advice of Chief of the Minister, after consultation with the Majlis, appoint Syanah a Chief Syariah Judge. Judge.
+41. (1) The Yang di-Pertuan Agong may, on the advice
+
+<!-- marginal: of Chief -->
+
+of the Minister, after consultation with the Majlis, appoint
+
+<!-- marginal: Syanah -->
+
+a Chief Syariah Judge.
+
+<!-- marginal: Judge. -->
 
 (2) A person is qualified for appointment under subsection (1) if—
 
@@ -770,9 +1022,19 @@ commencement of this section, was holding the appointment of Kathi Besar under s
 
 (4) The appointment under this section shall be published in the Gazette.
 
-Appointment
+<!-- marginal: Appointment -->
 
-42. (1) The Yang di-Pertuan Agong may, on the advice of Judges of of the Minister, afterconsultation with the Majlis, appoint the Syariah Appeal Court for a period not exceeding three years not more than seven Muslims to constitute a standing panel of judges and the Chief Syariah Judge shall select two from amongst them to form a quorum of judges in the Syariah Appeal Court in respect of every hearing.
+42. (1) The Yang di-Pertuan Agong may, on the advice
+
+<!-- marginal: of Judges of -->
+
+of the Minister, afterconsultation with the Majlis, appoint
+
+<!-- marginal: the Syariah -->
+
+<!-- marginal: Appeal Court -->
+
+for a period not exceeding three years not more than seven Muslims to constitute a standing panel of judges and the Chief Syariah Judge shall select two from amongst them to form a quorum of judges in the Syariah Appeal Court in respect of every hearing.
 
 (2) The names of the seven members shall be published in the Gazette.
 
@@ -838,11 +1100,25 @@ Federation, the Judges of the Syariah Subordinate Courts.
 
 <!-- page 26 -->
 
-Junsdiction 46. (1) A Syariah High Court shall have jurisdiction of Syariah throughout the Federal Territories and shall be presided High Court. over by a Syariah Judge.
+<!-- marginal: Junsdiction -->
+
+46. (1) A Syariah High Court shall have jurisdiction
+
+<!-- marginal: of Syariah -->
+
+throughout the Federal Territories and shall be presided
+
+<!-- marginal: High Court. -->
+
+over by a Syariah Judge.
 
 (2) A Syariah High Court shall—
 
-(a) in its criminal jurisdiction, try any offence committed by a Muslim and punishable under the Enactment or the Islamic Family Law (Federal Act 303 Territories) Act 1984, or under any other written law prescribing offences against precepts of the religion of Islam for the time being in force, and may impose any punishment provided therefor;
+(a) in its criminal jurisdiction, try any offence committed by a Muslim and punishable under the Enactment or the Islamic Family Law (Federal
+
+<!-- marginal: Act 303 -->
+
+Territories) Act 1984, or under any other written law prescribing offences against precepts of the religion of Islam for the time being in force, and may impose any punishment provided therefor;
 
 (b) in its civil jurisdiction, hear and determine all actions and proceedings in which all the parties are Muslims and which relate to—
 
@@ -922,9 +1198,17 @@ but no appeal shall lie against a decision made by consent; and
 
 (b) in a civil matter, confirm, reverse or vary the decision of the trial Court, exercise any such powers as the trial Court could have exercised, make such order as the trial Court ought to have made, or order a retrial.
 
-Application
+<!-- marginal: Application -->
 
-49. (1) An appeal or application for leave to appeal under for leave to paragraph (c) of subsection (1) of section 48 shall be made appeal. to the Syariah High Court in such manner as may be prescribed, but in any event within fourteen days from the date of the judgment, order or decision in respect of which the application is made or, in the event that the applicant was not at that date aware thereof and could not by the exercise of reasonable diligence have been so aware, within fourteen days from the date such judgment, order, or decision came to his knowledge.
+49. (1) An appeal or application for leave to appeal under
+
+<!-- marginal: for leave to -->
+
+paragraph (c) of subsection (1) of section 48 shall be made
+
+<!-- marginal: appeal. -->
+
+to the Syariah High Court in such manner as may be prescribed, but in any event within fourteen days from the date of the judgment, order or decision in respect of which the application is made or, in the event that the applicant was not at that date aware thereof and could not by the exercise of reasonable diligence have been so aware, within fourteen days from the date such judgment, order, or decision came to his knowledge.
 
 <!-- page 29 -->
 
@@ -980,15 +1264,41 @@ by itself of any question of law of public interest which has arisen in the cour
 
 (3) When leave has been granted by theSyariah Appeal Court it shall hear and determine the question allowed to be referred for its determination and make such order as the Syariah High Court might have made and as it considers just for the disposal of the appeal.
 
-Supervisory
+<!-- marginal: Supervisory -->
 
-53. (1) The Syariah Appeal Court shall have supervisory and and revisionary jurisdiction over the Syariah High Court revisionary jurisdiction of and may, if it appears desirable in the interest of justice, the Syariah either of its own motion or at the instance of any party or Appeat Court. person interested, at any stage in any matter or proceedings, whether civil or criminal, in the Syariah High Court, call for and examine any records thereof and may give such directions as justice may require.
+53. (1) The Syariah Appeal Court shall have supervisory
+
+<!-- marginal: and -->
+
+and revisionary jurisdiction over the Syariah High Court
+
+<!-- marginal: revisionary -->
+
+<!-- marginal: jurisdiction of -->
+
+and may, if it appears desirable in the interest of justice,
+
+<!-- marginal: the Syariah -->
+
+either of its own motion or at the instance of any party or
+
+<!-- marginal: Appeat Court. -->
+
+person interested, at any stage in any matter or proceedings, whether civil or criminal, in the Syariah High Court, call for and examine any records thereof and may give such directions as justice may require.
 
 (2) Whenever the Syariah Appeal Court calls for the records under subsection (1), all proceedings in the Syariah High Court on the matter or proceedings in question shall be stayed pending further order of the Syariah Appeal Court.
 
-Composition
+<!-- marginal: Composition -->
 
-54. (1) An appeal in the Syariah Appeal Court shall be of the Syanah heard and disposed of by a chairman and such two Judges Appeal Court. of the Syariah Appeal Court as the Chief Syariah Judge may determine.
+54. (1) An appeal in the Syariah Appeal Court shall be
+
+<!-- marginal: of the Syanah -->
+
+heard and disposed of by a chairman and such two Judges
+
+<!-- marginal: Appeal Court. -->
+
+of the Syariah Appeal Court as the Chief Syariah Judge may determine.
 
 (2) Notwithstanding section 42 of this Act, the Chief Syariah Judge may appoint any Judge of the Syariah High Court to be a member of the Syariah Appeal Court for any particular proceedings if the Chief Syariah Judge considers it desirable to do so.
 
@@ -1076,9 +1386,13 @@ Prosecutor.
 
 (4) The Majlis may appoint from among the members of the general public service of the Federation a Chief Religious Enforcement Officer and Religious Enforcement Officers to carry out the investigation of offences under this Act or under any other written law prescribing offences against precepts of the religion of Islam.
 
-Peguam
+<!-- marginal: Peguam -->
 
-59. (1) The Majlis may, on payment of the prescribed Syane. fee, admit persons having sufficient knowledge of Islamic Law to be Peguam Syarie to represent parties in any proceedings before any Syariah Court. (2) The Majlis may, with the approval of the Yang di- Pertuan Agong, make rules—
+59. (1) The Majlis may, on payment of the prescribed
+
+<!-- marginal: Syane. -->
+
+fee, admit persons having sufficient knowledge of Islamic Law to be Peguam Syarie to represent parties in any proceedings before any Syariah Court. (2) The Majlis may, with the approval of the Yang di- Pertuan Agong, make rules—
 
 (a) to provide for the procedure, qualifications and fees for the admission of Peguam Syarie; and
 
@@ -1092,9 +1406,17 @@ Peguam
 
 Charitable Trusts
 
-Establish-
+<!-- marginal: Establish- -->
 
-60. (1) A Fund to be known as Baitulmal is hereby ment of established. The Fund shall consist of all moneys and Baitulmal properties, movable or immovable, which by Islamic Law or under the provisions of this Act or rules made thereunder, accrue, or which are contributed by any person, to the Fund.
+60. (1) A Fund to be known as Baitulmal is hereby
+
+<!-- marginal: ment of -->
+
+established. The Fund shall consist of all moneys and
+
+<!-- marginal: Baitulmal -->
+
+properties, movable or immovable, which by Islamic Law or under the provisions of this Act or rules made thereunder, accrue, or which are contributed by any person, to the Fund.
 
 <!-- page 33 -->
 
@@ -1112,7 +1434,9 @@ Provided that any investments of assets and funds invested in the Majlis may be 
 
 <!-- marginal: nazr. -->
 
-contained in any instrument or declaration creating, governing or affecting the same, the Majlis shall be the sole trustee of all wakaf, whether wakaf 'am or wakaf khas, of all nazr 'am, and of all trusts of every description creating any charitable trust for the support and promo- tion of the Muslim religion or for the benefit of Muslims in accordance with Islamic Law, to the extent of any property affected thereby and situated in the Federal Territories and, where the settler or other person creating the trust, wakaf or nair 'am was domiciled in
+contained in any instrument or declaration creating, governing or affecting the same, the Majlis shall be the sole trustee of all wakaf, whether wakaf 'am or wakaf khas, of all nazr 'am, and of all trusts of every description creating any charitable trust for the support and promo- tion of the Muslim religion or for the benefit of Muslims in accordance with Islamic Law, to the extent of any property affected thereby and situated in the Federal Territories and, where the settler or other person creating the trust, wakaf or nair 'am was domiciled
+
+<!-- marginal: in -->
 
 <!-- marginal: the -->
 
@@ -1130,9 +1454,19 @@ under the National Land Code, vest in the Majlis, for the . purposes of the trus
 
 <!-- page 34 -->
 
-Restrictions
+<!-- marginal: Restrictions -->
 
-63. (1) Whetherornotmadeby way of will or death-bed on creation . gift, no wakaf or nair made after the commencement of of charitable irusts. this Act and involving more than one-third of the property of the person making the same shall be valid in respect of the excess beyond such one-third.
+63. (1) Whetherornotmadeby way of will or death-bed
+
+<!-- marginal: on creation -->
+
+. gift, no wakaf or nair made after the commencement of
+
+<!-- marginal: of charitable -->
+
+<!-- marginal: irusts. -->
+
+this Act and involving more than one-third of the property of the person making the same shall be valid in respect of the excess beyond such one-third.
 
 (2) Every wakaf khas or nazr made after the commencement of this Act shall be null and void unless—
 
@@ -1142,17 +1476,31 @@ Restrictions
 
 (3) This section shall not operate to render valid any will, death-bed gift, wakafor nazr which is invalid under the provisions of Islamic Law.
 
-Income of
+<!-- marginal: Income of -->
 
-64. (1) The income of a wakaf khas, if received by the wakaf and Majlis, shall be applied by it in accordance with the lawful nazr. provisions of such wakafkhas.
+64. (1) The income of a wakaf khas, if received by the
+
+<!-- marginal: wakaf and -->
+
+Majlis, shall be applied by it in accordance with the lawful
+
+<!-- marginal: nazr. -->
+
+provisions of such wakafkhas.
 
 (2) The income of every other wakafand of every nazr 'am shall be paid to and form part of the Fund.
 
-Capiial of
+<!-- marginal: Capiial of -->
 
-65. (1) Subject to the provisions of subsections (2) and wakaf and
+65. (1) Subject to the provisions of subsections (2) and
 
-(3), the capital property and assets affected by any lawful nazr 'am. wakafor nazr 'am shall not form part of the Fund, but shall be applied in pursuance of such wakaf or nazr 'am and held as segregated funds.
+<!-- marginal: wakaf and -->
+
+(3), the capital property and assets affected by any lawful
+
+<!-- marginal: nazr 'am. -->
+
+wakafor nazr 'am shall not form part of the Fund, but shall be applied in pursuance of such wakaf or nazr 'am and held as segregated funds.
 
 (2) If dueto lapse of timeorchangeof circumstances it is no longer possible beneficially to carry out the exact provisions of any wakaf or nazr 'am, the Majlis shall prepare a scheme for the application of the property and assets affected thereby in a manner as closely as may be
 
@@ -1208,9 +1556,17 @@ year. The Yang di-Pertuan Agong, on the advice of the Minister, may approve such
 
 (3) No moneys shall be expended, or property disposed of in kind, save in accordance with such estimates as aforesaid and upon a voucher signed by the Chairman or any officer of the Majlis or any other officer authorized by the Chairman.
 
-Expenses of 70. All costs, charges and expenses of administering the the Majhs. property and assets vested in the Majlis, including the cost of maintenance and repair of any immovable property, the salaries and allowances of all servants of the Majlis, and the fees and allowances payable to any officer or member of the Majlis in respect of his services as such, shall be paid out of the property and assets of the Fund.
+<!-- marginal: Expenses of -->
 
-Banks. 71. (1) The Majlis shall appoint any bank which is suitable and may operate such account or accounts as may seem proper.
+70. All costs, charges and expenses of administering the
+
+<!-- marginal: the Majhs. -->
+
+property and assets vested in the Majlis, including the cost of maintenance and repair of any immovable property, the salaries and allowances of all servants of the Majlis, and the fees and allowances payable to any officer or member of the Majlis in respect of his services as such, shall be paid out of the property and assets of the Fund.
+
+<!-- marginal: Banks. -->
+
+71. (1) The Majlis shall appoint any bank which is suitable and may operate such account or accounts as may seem proper.
 
 (2) Payments by the Majlis of amounts exceeding fifty ringgit shall be made by cheque. All moneys received by or for the Majlis shall be paid into a bank account of the Majlis in the manner provided in the Financial Procedure of the Majlis.
 
@@ -1274,11 +1630,31 @@ that the compounds thereof are maintained in a proper stateof cleanliness; and t
 
 (4) The Majlis may direct a jawatankuasa kariah to keep the mosque for which it is responsible in a proper state of repair.
 
-Boundaries
+<!-- marginal: Boundaries -->
 
-75. The Majlis may at any time by notification in the of kariah Gazette determine, amend, or alter the boundaries of any masjid. kariah masjid.
+75. The Majlis may at any time by notification in the
 
-Appomtmen t 76. (1) For every mosque in the Federal Territories there of the shall be appointed a Naqib Masjid, an Imam, an Imam Pegawai Masjid. Ratib, a Bilal, and a Pembantu Bilal.
+<!-- marginal: of kariah -->
+
+Gazette determine, amend, or alter the boundaries of any
+
+<!-- marginal: masjid. -->
+
+kariah masjid.
+
+<!-- marginal: Appomtmen -->
+
+t 76. (1) For every mosque in the Federal Territories there
+
+<!-- marginal: of the -->
+
+shall be appointed a Naqib Masjid, an Imam, an Imam
+
+<!-- marginal: Pegawai -->
+
+<!-- marginal: Masjid. -->
+
+Ratib, a Bilal, and a Pembantu Bilal.
 
 (2) The posts ofNaqib Masjid, Imam, andBilal shall be posts in the general public sendce of the Pederation.
 
@@ -1288,15 +1664,23 @@ Appomtmen t 76. (1) For every mosque in the Federal Territories there of the sha
 
 (5) Upon the commencement of this section, every person who, immediately before that commencement, was the Imam or Bilal of a mosque appointed under the Enactment shall be deemed to have been duly appointed under this section to be the Imam or Bilal respectively of the mosque and shall, subject to section 78 continue to hold office as such.
 
-Tauliah
+<!-- marginal: Tauliah -->
 
 77. (1) Every person appointed by the Majlis to be a Pegawai Masjid, including every person deemed to have been so appointed under subsection (5) of section 76 shall be given a tauliah by the Majlis.
 
 (2) Every Pegawai Masjid shall have such powers and duties as may be set out in their respective tauliah.
 
-Tenure of
+<!-- marginal: Tenure of -->
 
-78. (1) The appointment of a Pegawai Masjid may be office of terminated with a notice from the Majlis. Pegawai Masjid.
+78. (1) The appointment of a Pegawai Masjid may be
+
+<!-- marginal: office of -->
+
+terminated with a notice from the Majlis.
+
+<!-- marginal: Pegawai -->
+
+<!-- marginal: Masjid. -->
 
 <!-- page 39 -->
 
@@ -1358,13 +1742,27 @@ Pertuan Agong, make rules for—
 
 (2) The provisions of this Part, except section 72, shall not apply to the Masjid Negara.
 
-Power to 83. The Majlis may, from time to time, amend the Third amend Third Schedule by notification in the Gazette. Scheciule
+<!-- marginal: Power to -->
+
+83. The Majlis may, from time to time, amend the Third
+
+<!-- marginal: amend Third -->
+
+Schedule by notification in the Gazette.
+
+<!-- marginal: Scheciule -->
 
 ## PART VIII
 
 ## CHARITABLE COLLECTIONS
 
-Charitable 84. (1) The Majlis may collect, or grant an authorization collections. letter with such terms as it thinks fit to any person or body of persons authorizing him or them to collect, moneys or other contributions for any charitable purpose for the support and promotion of the religion of Islam or for the benefit of Muslims in accordance with Islamic Law.
+<!-- marginal: Charitable -->
+
+84. (1) The Majlis may collect, or grant an authorization
+
+<!-- marginal: collections. -->
+
+letter with such terms as it thinks fit to any person or body of persons authorizing him or them to collect, moneys or other contributions for any charitable purpose for the support and promotion of the religion of Islam or for the benefit of Muslims in accordance with Islamic Law.
 
 (2) It shall be deemed to be a term of every such authorization letter that the grantee thereof and every other other person authorized thereby to collect moneys or other contribution shall—-
 
@@ -1416,17 +1814,37 @@ as soon as he finishes uttering the two clauses of the Affirmation of Faith prov
 
 <!-- page 42 -->
 
-Duties and
+<!-- marginal: Duties and -->
 
-87. From the moment of his corwersion, a mualla/ obligations ol becomes subject to the same duties and obligations as any a muallaf. other Muslim.
+87. From the moment of his corwersion, a mualla/
 
-Registrar and
+<!-- marginal: obligations ol -->
 
-88. A Registrar of Muallafs shall be appointed by the Register of Majlis to maintain a Register ofMuallafs in the prescribed Muallafs. form for the registration of muallafs.
+becomes subject to the same duties and obligations as any
 
-Registration
+<!-- marginal: a muallaf. -->
 
-89. (1) Apersonwhohasconvertedtolslammay apply to of Muallafs. the Registrar in the prescribed form for registration as a mualla/.
+other Muslim.
+
+<!-- marginal: Registrar and -->
+
+88. A Registrar of Muallafs shall be appointed by the
+
+<!-- marginal: Register of -->
+
+Majlis to maintain a Register ofMuallafs in the prescribed
+
+<!-- marginal: Muallafs. -->
+
+form for the registration of muallafs.
+
+<!-- marginal: Registration -->
+
+89. (1) Apersonwhohasconvertedtolslammay apply to
+
+<!-- marginal: of Muallafs. -->
+
+the Registrar in the prescribed form for registration as a mualla/.
 
 (2) If the Registrar is satisfied that the requirements of section 85 have been fulfilled in respect of the person, the Registrar may register his conversion by entering in the Register of Muallafs the name of the person and other particulars as indicated in the Register.
 
@@ -1436,9 +1854,13 @@ Registration
 
 (5) If the Registrar is not satisfied that the requirements of section 85 have been fulfilled in respect of the applicant for conversion, he may permit the applicant to utter, in his presence or in the presence of any of his officers, the two clauses of the Affirmation of Faith in accordance with the requirements of that section.
 
-Certificate of
+<!-- marginal: Certificate of -->
 
-90. (1) The Registrar shall furnish every person whose Conversion. corwersion has been registered a Certificate of Conversion in the prescribed form,
+90. (1) The Registrar shall furnish every person whose
+
+<!-- marginal: Conversion. -->
+
+corwersion has been registered a Certificate of Conversion in the prescribed form,
 
 (2) A Certittcate of Conversion shall be conclusive proof of the facts stated therein.
 
@@ -1572,11 +1994,27 @@ words "112 of this Enactment, erects any mosque, or dedicates or otherwise appli
 
 <!-- page 45 -->
 
-for the purposes of a mosque", the words "73 of the Act Administration of Islamic Law (Federal Territories) Act 1992, erects any building to be used as a mosque, or otherwise applies any building for the purposes of a mosque, or causes or permits any building to be used as a mosque".
+for the purposes of a mosque", the words "73 of the
+
+<!-- marginal: Act -->
+
+Administration of Islamic Law (Federal Territories) Act 1992, erects any building to be used as a mosque, or otherwise applies any building for the purposes of a mosque, or causes or permits any building to be used as a mosque".
 
 (2) Section 166 of the Enactment is amended by inserting, immediately after the word "Kathi", the words "or a tauliah granted under subsection (3) of section 95 of the Administration of Islamic Law (Federal Territories) Act 1992".
 
-Cessation of 102. Parts I, II, III, IV, V, VIII, and X (except sections 52 application to 93 and 107 to 109,) of the Enactment shall cease to apply of the Enactmem. to the Pederal Territories.
+<!-- marginal: Cessation of -->
+
+102. Parts I, II, III, IV, V, VIII, and X (except sections 52
+
+<!-- marginal: application -->
+
+to 93 and 107 to 109,) of the Enactment shall cease to apply
+
+<!-- marginal: of the -->
+
+<!-- marginal: Enactmem. -->
+
+to the Pederal Territories.
 
 FlRST SCHEDULE
 
@@ -1690,11 +2128,63 @@ Section 83
 
 ## (PEDERAL TERRITORIES)
 
-17. Alam Shah Jamek Mosque, 18 Saidina Abu Bakar As Siddiq Mosque, Jalan Pasar Pudu, 55100 Kuala Lumpur Bangsar Park, Jalan Maarof, 59000 Kuala Lumpur. 19. Jamiul Ihsan Mosque, 20. Saidina Ah KW Mosque. Pekan Setapak, Padang Balang, Sentul, 51100 Kuala Lumpur. 53000 Kuala Lumpur. 21. Bandar Jamek Mosque, 22. Saidma Omar Al Khattab Jalan Tun Perak, Mosque, Jalan Setia Budi, 50050 Kuala Lumpur Bukit Damansara, 50490 Kuala Lumpur. 23- Batu Empat Jamek Mosque, 24. Ubudiah Mosque, Jalan Gombak, Segambut Dalam, 53000 Kuala Luam Mosque, 51200KualaLumpur 26. Abu Ubaidah Al Jarrah 25 Batu 31/2mpur Mosque, No.27 Jln. 1/26 Jalan Cheras, 56100 Kuala Lumpur Tmn. Sri Rampai, Setapak Jaya, 53300 Kuala Lumpur 27. Jalan Haji Salleh Jamek Mosque 28 . Saidina Othman Ibnu Sentul, 51100 Kuala Lumpur Affan Mosque, Bandar Tun Razak, Cheras, 56000 Kuala Lumpur 29. Kampong Batu Jamek Mosque, 30. Taman Tun Dr. Ismatl Mosque, Jln. Dato' Sulaiman, Batu 5, Jalan Ipoh, Tmn. Tun Dr. Ismail, 55100 Kuala Lumpur 60000 K.Lumpur 31. Surau Balai Islam, 32. Madrasah Islamiah, No.35, Jalan Kuari, Jalan Tun Razak, Bukii A, Kg Cheras Baru, 50400 Kuala Lumpur 56100 Kuala Lumpur 34. Madrasah Ikhlasiah, 33- Madrasah Al-Shukriah Kg.Kerinchi Bukit C2, Kg. Pasir Baru, Petaling, 58200 Kuala Lumpur 59200 Kuala Lumpur. 36. Madrasah Bengkel Keretapi, 35. Madrasah At-Taqwa, Pusat Latihan Keretapi, Taman Setapak, Jalan Langgak, Sentul, 53000 Kuala Lumpur 51100 Kuala Lumpur 38 Surau Asyahada' 37. Madrasah Islamiah, General Hospiial, Makiab Tentera DiRaja, Sg. Besi Camp, 57000 Kuala 50586 Kuala Lumpur Lumpur. 40. Surau Rajaiyah, 39. KEMENTAH New Mosque, Jalan Raja Uda, Kg. Baru. Jalan Padang Tembak, 50300 Kuala Lumpur. 54100 Kuala Lumpur 42. Surau Taman Sri Petaling, 41. Surau Ibrahimiah, Jalan Pasai, Kg. Batu Muda, Jin. Ipoh, 57000 Kuala Lumpur. 51200 Kuala Lumpur 44. Madrasah Nahdacul Diniah, 43. Surau TUDM, Kg. Malaysia Tambahan, Lapangan Terbang Lama, Jalan Sg. Besi, 504600 Kuala Lumpur 57100 Kuala Lumpur
+17. Alam Shah Jamek Mosque, 18 Saidina Abu Bakar As Siddiq Mosque, Jalan Pasar Pudu, 55100 Kuala Lumpur Bangsar Park, Jalan Maarof, 59000 Kuala Lumpur.
+
+19. Jamiul Ihsan Mosque, 20. Saidina Ah KW Mosque. Pekan Setapak, Padang Balang, Sentul, 51100 Kuala Lumpur. 53000 Kuala Lumpur.
+
+21. Bandar Jamek Mosque, 22. Saidma Omar Al Khattab Jalan Tun Perak, Mosque, Jalan Setia Budi, 50050 Kuala Lumpur Bukit Damansara, 50490 Kuala Lumpur. 23- Batu Empat Jamek Mosque, 24. Ubudiah Mosque, Jalan Gombak, Segambut Dalam, 53000 Kuala Luam Mosque, 51200KualaLumpur 26. Abu Ubaidah Al Jarrah 25 Batu 31/2mpur Mosque, No.27 Jln. 1/26 Jalan Cheras, 56100 Kuala Lumpur Tmn. Sri Rampai, Setapak Jaya, 53300 Kuala Lumpur
+
+27. Jalan Haji Salleh Jamek Mosque 28 . Saidina Othman Ibnu Sentul, 51100 Kuala Lumpur Affan Mosque, Bandar Tun Razak, Cheras, 56000 Kuala Lumpur
+
+29. Kampong Batu Jamek Mosque, 30. Taman Tun Dr. Ismatl Mosque, Jln. Dato' Sulaiman, Batu 5, Jalan Ipoh, Tmn. Tun Dr. Ismail, 55100 Kuala Lumpur 60000 K.Lumpur
+
+31. Surau Balai Islam, 32. Madrasah Islamiah, No.35, Jalan Kuari, Jalan Tun Razak, Bukii A, Kg Cheras Baru, 50400 Kuala Lumpur 56100 Kuala Lumpur 34. Madrasah Ikhlasiah, 33- Madrasah Al-Shukriah Kg.Kerinchi Bukit C2, Kg. Pasir Baru, Petaling, 58200 Kuala Lumpur 59200 Kuala Lumpur. 36. Madrasah Bengkel Keretapi,
+
+35. Madrasah At-Taqwa, Pusat Latihan Keretapi, Taman Setapak, Jalan Langgak, Sentul, 53000 Kuala Lumpur 51100 Kuala Lumpur 38 Surau Asyahada'
+
+37. Madrasah Islamiah, General Hospiial, Makiab Tentera DiRaja, Sg. Besi Camp, 57000 Kuala 50586 Kuala Lumpur Lumpur. 40. Surau Rajaiyah,
+
+39. KEMENTAH New Mosque, Jalan Raja Uda, Kg. Baru. Jalan Padang Tembak, 50300 Kuala Lumpur. 54100 Kuala Lumpur 42. Surau Taman Sri Petaling,
+
+41. Surau Ibrahimiah, Jalan Pasai, Kg. Batu Muda, Jin. Ipoh, 57000 Kuala Lumpur. 51200 Kuala Lumpur 44. Madrasah Nahdacul Diniah,
+
+43. Surau TUDM, Kg. Malaysia Tambahan, Lapangan Terbang Lama, Jalan Sg. Besi, 504600 Kuala Lumpur 57100 Kuala Lumpur
 
 <!-- page 49 -->
 
-46. Surau Al-Iktisamiah. 45. Surau Umverslti Teknologi Taman Melati, Malaysia, Gombak. Jalan Gurney, 53100 KualaLumpur 54100 Kuala Lumpur 48. Madrasah Al-Najah, 47. Surau Maktab Perguruan Bahasa, Taman Batu Muda, Jalan Pantai Baru, Bt. Cavet,, 59200 Kuala Lumpur 68100 KualaLumpur 50 Surau Tabung Haji, 49. Surau Kem Batu Kentomen, 201, Jalan Tun Razak, Jalan Ipoh, 50400 Kuala Lumpur 51200 KualaLumpur 52. Surau Taman Bunga Raya, 51. Surau Institut Latihan Jalan Malinja, Tran. Bunga Raya, Perindustrian, Setapak. Jalan Kuchai Lama. 53000 Kuala Lumpur. 58200 Kuala Lumpur 54. Madrasatul Islamiah, 53. Madrasah Jundiah, Pudu Prison, Sungai Besi Camp, 55200 Kuala Lumpur. 57000 Kuala Lumpur 56. Surau Khairiyah, 55. Surau Al-lslah, Salak Selatan. Rumah Pangsa Bandar Baru Jalan Sg. Besi. Sentul, 51000KualaLumpur 57100 Kuala Lumpur. 58. An-Nur Jamek Mosque, 57. Surait Baitul Aman, Pekan Labuan, 120, JalanDamai, Federal Territory, Labuan 55000 Kuala Lumpur 60. Tanjong Aru Mosque, 59. Kampung Lajan Mosque, Tanjong Aru, Kampung Lajan. Federal Territory, Labuan Federal Terntory, Labuan 62. Lubuk Temiang Mosque, 61. Ganggarak Mosque, Lubuk Temiang, Ganggarak, Federal Territory, Labuan Federal Terntory, Labuan 63. Bukit Kalam Mosque, 64. Kampung Layang-Layangan Mosque, Bukit Kalam, Federal Terntory, Labuan Kampung Layang-Layangan, Federal Terntory, Labuan. 66 Kampung Sungai Lada Mosque, 65. Kampung Sungai Labu Mosque, Kampung Sungai Labu, Kampung Sungai Lada. Federal Territory, Labuan Federal Territory, Labuan 68. Kampung Babuloh Mosque, 67. Kampung Sungai Bedaun Mosque, Kampung Babuloh, Kampung Sungai Bedaun, Federal Terntory, Labuan. Federal Territory, Labuan 70. Surau Kampung Durian Tunjong, 69. Kampung Rancha-Rancha Mosque Kampung Dunan Tunjong, Kampung Rancha-Rancha, Federal Territory, Labuan Federal Territory, Labuan 72. Surau Kampung Pohon Batu, 71. Surau Kampung Batu Menikar, Kampung Pohon Batu, Kampung Batu Menikar, Federal Territory. Labuan. Federal Territory, Labuan 74. Surau Kampung Patau-Patau No.l, 73. Surau Kampung Bukit Kuda, Kampung Bukit Kuda, Kampung Patau-Patau, Federal Terntory, Labuan Federal Territory, Labuan 76. Surau Kampung Tilam Kasim, 75. Surau Kampung Patau- Kampung Tilam Kasim. Patau No.2, Federal Territory, Labuan Karapung Patau-Patau, Federal Territory, Labuan
+46. Surau Al-Iktisamiah.
+
+45. Surau Umverslti Teknologi Taman Melati, Malaysia, Gombak. Jalan Gurney, 53100 KualaLumpur 54100 Kuala Lumpur 48. Madrasah Al-Najah,
+
+47. Surau Maktab Perguruan Bahasa, Taman Batu Muda, Jalan Pantai Baru, Bt. Cavet,, 59200 Kuala Lumpur 68100 KualaLumpur 50 Surau Tabung Haji,
+
+49. Surau Kem Batu Kentomen, 201, Jalan Tun Razak, Jalan Ipoh, 50400 Kuala Lumpur 51200 KualaLumpur 52. Surau Taman Bunga Raya,
+
+51. Surau Institut Latihan Jalan Malinja, Tran. Bunga Raya, Perindustrian, Setapak. Jalan Kuchai Lama. 53000 Kuala Lumpur. 58200 Kuala Lumpur 54. Madrasatul Islamiah,
+
+53. Madrasah Jundiah, Pudu Prison, Sungai Besi Camp, 55200 Kuala Lumpur. 57000 Kuala Lumpur 56. Surau Khairiyah,
+
+55. Surau Al-lslah, Salak Selatan. Rumah Pangsa Bandar Baru Jalan Sg. Besi. Sentul, 51000KualaLumpur 57100 Kuala Lumpur. 58. An-Nur Jamek Mosque,
+
+57. Surait Baitul Aman, Pekan Labuan, 120, JalanDamai, Federal Territory, Labuan 55000 Kuala Lumpur 60. Tanjong Aru Mosque,
+
+59. Kampung Lajan Mosque, Tanjong Aru, Kampung Lajan. Federal Territory, Labuan Federal Terntory, Labuan 62. Lubuk Temiang Mosque,
+
+61. Ganggarak Mosque, Lubuk Temiang, Ganggarak, Federal Territory, Labuan Federal Terntory, Labuan
+
+63. Bukit Kalam Mosque, 64. Kampung Layang-Layangan Mosque, Bukit Kalam, Federal Terntory, Labuan Kampung Layang-Layangan, Federal Terntory, Labuan. 66 Kampung Sungai Lada Mosque,
+
+65. Kampung Sungai Labu Mosque, Kampung Sungai Labu, Kampung Sungai Lada. Federal Territory, Labuan Federal Territory, Labuan 68. Kampung Babuloh Mosque,
+
+67. Kampung Sungai Bedaun Mosque, Kampung Babuloh, Kampung Sungai Bedaun, Federal Terntory, Labuan. Federal Territory, Labuan 70. Surau Kampung Durian Tunjong,
+
+69. Kampung Rancha-Rancha Mosque Kampung Dunan Tunjong, Kampung Rancha-Rancha, Federal Territory, Labuan Federal Territory, Labuan 72. Surau Kampung Pohon Batu,
+
+71. Surau Kampung Batu Menikar, Kampung Pohon Batu, Kampung Batu Menikar, Federal Territory. Labuan. Federal Territory, Labuan 74. Surau Kampung Patau-Patau No.l,
+
+73. Surau Kampung Bukit Kuda, Kampung Bukit Kuda, Kampung Patau-Patau, Federal Terntory, Labuan Federal Territory, Labuan 76. Surau Kampung Tilam Kasim,
+
+75. Surau Kampung Patau- Kampung Tilam Kasim. Patau No.2, Federal Territory, Labuan Karapung Patau-Patau, Federal Territory, Labuan
 
 <!-- page 50 -->
 

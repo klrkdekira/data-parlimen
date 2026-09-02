@@ -1,0 +1,631 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-12-1993",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_17"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Street, Drainage and Building (Amendment) Bill 1993"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_10__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_10__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_10__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 58 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word \"necessary\" in paragraph (a) of subsection (3) the words \"and which complies with the Sewerage Services Act 1993\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting the marginal reference \"Act .\" against the reference to the Sewerage Services Act 1993;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_10__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (9); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_10__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"sewer,\", \"septic tank,\" and \"sewage purification plant,\" wherever appearing in subsection (14). 4 B I LL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting sections"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "60, 62, 63 and 64."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 70 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for subsection (2) the following: \"(2) Any person who intends to erect any building shall submit— (a) to the local authority such plans and specifications as may be required by any by- laws made under this Act; and (b) to the relevant statutory authority such plans and specifications in respect of the sewerage system as may be required by any other written law.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_13__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 77 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word \"over\" in the marginal note the word \"public\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"public sewer,\" in the section the words \"private connection pipe,\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_14__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 81 of the principal Act is amended, in"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"sewer or\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"to empty the sewage\" the words \"to drain waters other than sewage\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 132 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "deleting the words \"sewer,\" in subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_16__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_16__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_16__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_16__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 133 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"electric lines\" in paragraph (i) the words \"(other than sewers)\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting paragraph (vii);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_16__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"the construction, maintenance and repair of cess pools, privies, septic tanks, sewage purification plant and other matters relating to the reception or disposal of sewage and\" in paragraph (viii);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_16__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"and their connections to sewers\" in paragraph (xviii); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_16__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"the provision of cess pools, privies, septic tanks, sewage purification plant and other matters relating to the reception or disposal of sewage and\" in paragraph (xix)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the avoidance of doubt it is declared that notwithstanding anything contained in this Act, the law relating to sewerage services for the time being in force in a local authority area shall continue to be in force unless and until this Act is brought into operation with respect to that local authority area."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Street, Drainage and Building (Amendment) Act 1993."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_1__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_1__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_1__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall come into force on such date as the Minister may by notification in the Gazette appoint and the Minister may appoint different dates—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_1__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_1__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for the coming into force of this Act in different parts of Malaysia; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_1__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_1__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for the coming into force of different provisions of this Act; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_1__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_1__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for the coming into force of different provisions of this Act in different parts of Malaysia. 2 B I LL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 3 of the Street, Drainage and Building Act"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "1974, which in this Act is referred to as the \"principal Act\", is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"premises\" the following new definition: ' \"private connection pipe\" has the same meaning assigned to it under the Act Sewerage Services Act 1993;'; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"public street\" the following new definitions: v \"sewer\" has the same meaning assigned to it under the Sewerage Services Act 1993; \"sewerage system\" has the same meaning assigned to it under the Sewerage Services Act 1993;'."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 46 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "deleting the words \", sewer\" in paragraph (b) of subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Part III of the principal Act is amended by deleting"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "the words \"SEWERS AND\" in the subheading."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 49."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_6__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 51 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"sewers,\" in the marginal note, subsection (1) and paragraphs (d) and (e) of subsection (4);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"or other sewers\" in subsection (1); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"sewers or\" in subsection (3)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_7__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 53 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"sewers\" in the marginal note of subsection (1) the words \"surface and storm water drains, etc\"; STREET, DRAINAGE AND BUILDING (AMENDMENT)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"sewers and\" subsection (1); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"sewer,\" in subsection (3)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_8__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_8__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 54 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"sewers\" in the marginal note the words \"surface and storm water drains, etc\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"public sewers,\" in subsection (1); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_8__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"sewers,\" in subsection (2)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_9__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_9__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_9__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 55 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"public sewers\" in the marginal note of subsection (1) the words \"canal or stream\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"public sewers or\" in paragraph (a) of subsection (1);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_9__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"or sewers\" in paragraph (b) of subsection (1); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_9__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/12/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"or sewer\" wherever appearing in subsections (2), (3) and (4)."
+      }
+    }
+  ]
+}

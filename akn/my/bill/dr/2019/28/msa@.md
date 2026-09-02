@@ -10,33 +10,47 @@
 
 ## SUSUNAN FASAL
 
-## BAhAgiAN i
+## BAHAGIAN I
 
 ## PERMULAAN
 
-1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran
+1. Tajuk ringkas dan permulaan kuat kuasa
 
-## BAhAgiAN II
+2. Tafsiran
+
+## BAHAGIAN II
 
 ## PUSAT PENCEGAHAN JENAYAH KEWANGAN NASIONAL
 
-3. Penubuhan Pusat Pencegahan Jenayah Kewangan Nasional 4. Fungsi Pusat Pencegahan Jenayah Kewangan Nasional
+3. Penubuhan Pusat Pencegahan Jenayah Kewangan Nasional
 
-## BAhAgiAN III
+4. Fungsi Pusat Pencegahan Jenayah Kewangan Nasional
+
+## BAHAGIAN III
 
 ## LEMBAGA PENASIHAT
 
-5. Lembaga Penasihat 6. Pembatalan dan peletakan jawatan anggota Lembaga Penasihat 7. Pengosongan jawatan 8. Penzahiran kepentingan 9. Fungsi Lembaga Penasihat
+5. Lembaga Penasihat
 
-## BAhAgiAN IV
+6. Pembatalan dan peletakan jawatan anggota Lembaga Penasihat
+
+7. Pengosongan jawatan
+
+8. Penzahiran kepentingan
+
+9. Fungsi Lembaga Penasihat
+
+## BAHAGIAN IV
 
 ## JAWATANKUASA EKSEKUTIF
 
-10. Jawatankuasa Eksekutif 11. Fungsi Jawatankuasa Eksekutif
+10. Jawatankuasa Eksekutif
+
+11. Fungsi Jawatankuasa Eksekutif
 
 <!-- page 2 -->
 
-## BAhAgiAN V
+## BAHAGIAN V
 
 ## PELANTIKAN KETUA PENGARAH, TIMBALAN KETUA PENGARAH DAN PEGAWAI
 
@@ -46,7 +60,7 @@
 
 13. Pelantikan pegawai lain Pusat Pencegahan Jenayah Kewangan Nasional
 
-## BAhAgiAN VI
+## BAHAGIAN VI
 
 ## OPERASI BERSEPADU DAN SISTEM DATA BERPUSAT
 
@@ -56,7 +70,7 @@
 
 16. Kuasa untuk mengumpul maklumat
 
-## BAhAgiAN VII
+## BAHAGIAN VII
 
 AM
 
@@ -78,7 +92,7 @@ AM
 
 25. Perkara yang dilakukan pada menjangkakan Akta ini diperbuat
 
-## JAdUAL
+## JADUAL
 
 <!-- page 3 -->
 
@@ -88,7 +102,7 @@ Suatu Akta untuk mengadakan peruntukan bagi penubuhan Pusat Pencegahan Jenayah K
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## BAhAgiAN I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -120,7 +134,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 “Lembaga Penasihat” ertinya Lembaga Penasihat yang ditubuhkan di bawah subseksyen 5(1).
 
-## BAhAgiAN II
+## BAHAGIAN II
 
 ## PUSAT PENCEGAHAN JENAYAH KEWANGAN NASIONAL
 
@@ -140,7 +154,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (c) untuk melaksanakan aktiviti yang berhubungan dengan pencegahan jenayah kewangan.
 
-## BAhAgiAN III
+## BAHAGIAN III
 
 ## LEMBAGA PENASIHAT
 
@@ -222,7 +236,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (d) untuk memudah cara kerjasama antara Pusat Pencegahan Jenayah Kewangan Nasional, Entiti Kerajaan dan agensi penguat kuasa bagi pencegahan jenayah kewangan.
 
-## BAhAgiAN IV
+## BAHAGIAN IV
 
 ## JAWATANKUASA EKSEKUTIF
 
@@ -268,7 +282,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (g) untuk melaksanakan apa-apa fungsi lain yang perlu atau suai manfaat untuk melaksanakan sepenuhnya atau bagi menjalankan peruntukan Akta ini.
 
-## BAhAgiAN V
+## BAHAGIAN V
 
 ## PELANTIKAN KETUA PENGARAH, TIMBALAN KETUA
 
@@ -314,7 +328,7 @@ secara kontrak selama apa-apa tempoh dan atas apa-apa terma dan syarat sebagaima
 
 (2) Seorang pegawai yang dilantik di bawah subseksyen (1) hendaklah tertakluk kepada arahan, kawalan dan pengawasan Ketua Pengarah, dan hendaklah menjalankan kuasanya, melaksanakan fungsinya dan menunaikan kewajipannya dengan mematuhi apa-apa arahan atau kawalan sebagaimana yang dinyatakan secara lisan atau secara bertulis oleh Ketua Pengarah.
 
-## BAhAgiAN VI
+## BAHAGIAN VI
 
 ## OPERASI BERSEPADU DAN SISTEM DATA BERPUSAT
 
@@ -374,7 +388,7 @@ secara kontrak selama apa-apa tempoh dan atas apa-apa terma dan syarat sebagaima
 
 (6) Mana-mana orang yang melanggar subseksyen (2) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu juta ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
 
-## BAhAgiAN VII
+## BAHAGIAN VII
 
 AM
 
@@ -444,7 +458,7 @@ AM
 
 25. Segala perkara yang dilakukan oleh mana-mana orang bagi pihak Pusat Pencegahan Jenayah Kewangan Nasional sebagai persediaan bagi dan pada pelaksanaan apa-apa peruntukan Akta ini yang sewajarnya dan apa-apa perbelanjaan yang dilakukan yang berkaitan dengannya, pada menjangkakan pembuatan Akta ini, hendaklah disifatkan telah dibenarkan oleh Akta ini, dan segala hak dan obligasi yang diperoleh atau ditanggung bagi pihak Pusat Pencegahan Jenayah Kewangan Nasional daripada apa-apa perkara yang dilakukan atau apa-apa perbelanjaan yang ditanggung hendaklah apabila Akta ini mula berkuat kuasa disifatkan sebagai hak dan obligasi Pusat Pencegahan Jenayah Kewangan Nasional.
 
-## JAdUAL
+## JADUAL
 
 [Seksyen 2]
 
@@ -456,7 +470,7 @@ Kesalahan di bawah Jadual Kedua kepada Akta Pencegahan Pengubahan Wang Haram, Pe
 
 Akta Pusat Pencegahan Jenayah Kewangan Nasional 2019 yang dicadangkan (“Akta yang dicadangkan”) bertujuan untuk memperuntukkan penubuhan Pusat Pencegahan Jenayah Kewangan Nasional, penyelarasan operasi bersepadu yang berhubungan dengan jenayah kewangan dalam kalangan Entiti Kerajaan dan agensi penguat kuasa dan pengurusan sistem data berpusat, dan bagi perkara yang berkaitan.
 
-## BAhAgiAN I
+## BAHAGIAN I
 
 2. Bahagian I Akta yang dicadangkan memperkatakan perkara permulaan.
 
@@ -466,7 +480,7 @@ Akta Pusat Pencegahan Jenayah Kewangan Nasional 2019 yang dicadangkan (“Akta y
 
 <!-- page 19 -->
 
-## BAhAgiAN II
+## BAHAGIAN II
 
 5. Bahagian II Akta yang dicadangkan mengandungi peruntukan yang berhubungan dengan penubuhan Pusat Pencegahan Jenayah Kewangan Nasional dan fungsinya.
 
@@ -474,7 +488,7 @@ Akta Pusat Pencegahan Jenayah Kewangan Nasional 2019 yang dicadangkan (“Akta y
 
 7. Fasal 4 bertujuan untuk mengadakan peruntukan bagi fungsi Pusat Pencegahan Jenayah Kewangan Nasional.
 
-## BAhAgiAN III
+## BAHAGIAN III
 
 8. Bahagian III Akta yang dicadangkan mengandungi peruntukan yang berhubungan dengan penubuhan Lembaga Penasihat dan fungsinya.
 
@@ -488,7 +502,7 @@ Akta Pusat Pencegahan Jenayah Kewangan Nasional 2019 yang dicadangkan (“Akta y
 
 13. Fasal 9 bertujuan untuk mengadakan peruntukan bagi fungsi Lembaga Penasihat.
 
-## BAhAgiAN IV
+## BAHAGIAN IV
 
 14. Bahagian IV Akta yang dicadangkan mengandungi peruntukan yang berhubungan dengan penubuhan Jawatankuasa Eksekutif dan fungsinya.
 
@@ -498,7 +512,7 @@ Akta Pusat Pencegahan Jenayah Kewangan Nasional 2019 yang dicadangkan (“Akta y
 
 16. Fasal 11 bertujuan untuk mengadakan peruntukan bagi fungsi Jawatankuasa Eksekutif.
 
-## BAhAgiAN V
+## BAHAGIAN V
 
 17. Bahagian V Akta yang dicadangkan mengandungi peruntukan yang berhubungan dengan pelantikan Ketua Pengarah, Timbalan Ketua Pengarah dan pegawai lain Pusat Pencegahan Jenayah Kewangan Nasional.
 
@@ -506,7 +520,7 @@ Akta Pusat Pencegahan Jenayah Kewangan Nasional 2019 yang dicadangkan (“Akta y
 
 19. Fasal 13 bertujuan untuk melantik pegawai lain Pusat Pencegahan Jenayah Kewangan Nasional bagi maksud melaksanakan peruntukan Akta yang dicadangkan ini. Fasal ini juga meletakkan kewajipan atas pegawai untuk tertakluk kepada arahan, kawalan dan seliaan Ketua Pengarah.
 
-## BAhAgiAN VI
+## BAHAGIAN VI
 
 20. Bahagian VI Akta yang dicadangkan ini mengandungi peruntukan yang berhubungan dengan operasi bersepadu dan sistem data berpusat.
 
@@ -520,7 +534,7 @@ Akta Pusat Pencegahan Jenayah Kewangan Nasional 2019 yang dicadangkan (“Akta y
 
 Fasal ini juga bertujuan untuk melindungi mana-mana orang yang menzahirkan apa-apa maklumat daripada apa-apa pendakwaan bagi apa-apa kesalahan, prosiding atau tuntutan oleh mana-mana orang di bawah mana-mana undang-undang atau di bawah apa-apa kontrak, perjanjian atau perkiraan.
 
-## BAhAgiAN VII
+## BAHAGIAN VII
 
 24. Bahagian VII Akta yang dicadangkan memperkatakan peruntukan am.
 

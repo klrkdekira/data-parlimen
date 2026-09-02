@@ -14,17 +14,33 @@ Suatu Akta untuk meminda Ordinan Perkapalan Saudagar 1952, antara lainnya untuk 
 
 oleh Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan Dewan Negara dan Dewan Rakyat yang bersidang dalam Parlimen, dan dengan kuasa daripadanya, seperti berikut:
 
-Tajuk ringkas
+<!-- marginal: Tajuk ringkas -->
 
-1. (1) Akta ini bolehlah dinamakan Akta Perkapalan dan mula ber- Saudagar (Pindaan) 1991. Kl kuatkuasa
+1. (1) Akta ini bolehlah dinamakan Akta Perkapalan
+
+<!-- marginal: dan mula ber- -->
+
+Saudagar (Pindaan) 1991.
+
+<!-- marginal: Kl -->
+
+<!-- marginal: kuatkuasa -->
 
 (2) Akta ini hendaklah mula berkuatkuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta; dan Menteri boleh menetapkan tarikh-tarikh yang berlainan bagi peruntukan-peruntukan Akta ini yang berlainan.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-2. Seksyen 2 Ordinan Perkapalan Saudagar 1952, yang sekyen 2. dalam Akta ini disebut "Ordinan itu", adalah dipinda—
+2. Seksyen 2 Ordinan Perkapalan Saudagar 1952, yang
 
-(a) denganmemasukkan, selepas sahajatakrif'buoys P.T.M 70/1952.
+<!-- marginal: sekyen 2. -->
+
+dalam Akta ini disebut "Ordinan itu", adalah dipinda—
+
+(a) denganmemasukkan, selepas sahajatakrif'buoys
+
+<!-- marginal: P.T.M -->
+
+<!-- marginal: 70/1952. -->
 
 and beacons", takrif baru yang berikut:
 
@@ -62,9 +78,7 @@ v "cargo ship construction and survey rules" means rules made under section 256B
 
 (a) dengan memotong perkataan-perkataan ", either generally or for special purposes and on special occasions," dalam subseksyen (1);
 
-(b) dengan memasukkan, selepas sahaja subseksyen
-
-(2), subseksyen (2A) baru yang berikut: "(2A) The Minister may appoint, for special purposes and on special'occasions, any person, whether or not a citizen of Malaysia, to perform any specific functions of a Surveyor of Ships or a Radio Surveyor under this Ordinance at any place, whether within or outside Malaysia; and in connection with the performance of those functions such a person shall be deemed for the purposes of this Ordinance to be a Surveyor of Ships or a Radio Surveyor, as the case may be, appointed under subsection (1)."; dan
+(b) dengan memasukkan, selepas sahaja subseksyen (2), subseksyen (2A) baru yang berikut: "(2A) The Minister may appoint, for special purposes and on special'occasions, any person, whether or not a citizen of Malaysia, to perform any specific functions of a Surveyor of Ships or a Radio Surveyor under this Ordinance at any place, whether within or outside Malaysia; and in connection with the performance of those functions such a person shall be deemed for the purposes of this Ordinance to be a Surveyor of Ships or a Radio Surveyor, as the case may be, appointed under subsection (1)."; dan
 
 (c) dengan menggantikan perkataan "persons" dalam subseksyen (4) dengan perkataan-perkataan "public officers".
 
@@ -82,17 +96,17 @@ v "cargo ship construction and survey rules" means rules made under section 256B
 
 "Provided that the use of any script in addition to the Roman capital letters for the name of the ship may be approved by the Registrar General upon such terms and conditions as he may deem fit to impose;"; dan
 
-(c) dengan memasukkan, selepas sahaja subseksyen
-
-(2), subseksyen (2A) baru yang berikut: "(2A) The Registrar General may require that the proposed name for a ship intended to be
+(c) dengan memasukkan, selepas sahaja subseksyen (2), subseksyen (2A) baru yang berikut: "(2A) The Registrar General may require that the proposed name for a ship intended to be
 
 <!-- page 4 -->
 
 registered under this Part be submitted to him for his approval and he may for this purpose prescribe such form as he thinks fit.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-5. Seksyen 69 Ordinan itu adalah dipinda— seksyen 69.
+5. Seksyen 69 Ordinan itu adalah dipinda—
+
+<!-- marginal: seksyen 69. -->
 
 (a) dengan menggantikan perkataan-perkataan "British and Malayan" dalam baris kelima subseksyen (2) dengan perkataan "Malaysian";
 
@@ -106,9 +120,17 @@ Pindaan
 
 (f) dengan menggantikan perkataan-perkataan "British or Malayan" dalam subseksyen (3) dengan perkataan "Malaysian" dan memotong perkataan-perkataan "under the Merchant Shipping Acts or" dalam subseksyen itu.
 
-Pemotongan
+<!-- marginal: Pemotongan -->
 
-6. Ordinan itu adalah dipinda dengan memotong seksyen seksyen 71 71 hingga 87 dan tajuk Certificates of Competency" bagi hingga 87. seksyen-seksyen itu.
+6. Ordinan itu adalah dipinda dengan memotong seksyen
+
+<!-- marginal: seksyen 71 -->
+
+71 hingga 87 dan tajuk Certificates of Competency" bagi
+
+<!-- marginal: hingga 87. -->
+
+seksyen-seksyen itu.
 
 <!-- page 5 -->
 
@@ -204,19 +226,45 @@ subseksyen (1) dengan perkataan-perkataan "near-coastal trade ship"; dan
 
 (b) dengan menggantikan perkataan-perkataan "home-trade ship nor a local trade ship" dalam subseksyen (2) dengan perkataan-perkataan "near-coastal trade ship".
 
-14. Seksyen 198 Ordinan itu adalah dipinda dengan Pindaan seksyen 198. menggantikan perkataan-perkataan "local-trade" dalam subseksyen (1) dengan perkataan-perkataan "near-coastal trade".
+14. Seksyen 198 Ordinan itu adalah dipinda dengan
 
-Pindaan 15. Seksyen 208 Ordinan itu adalah dipinda dengan seksyen 208. memotong subseksyen (6).
+<!-- marginal: Pindaan -->
 
-Pindaan 16. Seksyen 223 Ordinan itu adalah dipinda dengan seksyen 223. menggantikan perkataan-perkataan "home-trade or local trade" dalam subseksyen (2) dengan perkataan-perkataan "near-coastal trade".
+<!-- marginal: seksyen 198. -->
 
-Pindaan 17. Seksyen 236 Ordinan itu adalah dipinda— seksyen 236.
+menggantikan perkataan-perkataan "local-trade" dalam subseksyen (1) dengan perkataan-perkataan "near-coastal trade".
+
+<!-- marginal: Pindaan -->
+
+15. Seksyen 208 Ordinan itu adalah dipinda dengan
+
+<!-- marginal: seksyen 208. -->
+
+memotong subseksyen (6).
+
+<!-- marginal: Pindaan -->
+
+16. Seksyen 223 Ordinan itu adalah dipinda dengan
+
+<!-- marginal: seksyen 223. -->
+
+menggantikan perkataan-perkataan "home-trade or local trade" dalam subseksyen (2) dengan perkataan-perkataan "near-coastal trade".
+
+<!-- marginal: Pindaan -->
+
+17. Seksyen 236 Ordinan itu adalah dipinda—
+
+<!-- marginal: seksyen 236. -->
 
 (a) dengan memasukkan, selepas sahaja perkataan- perkataan "on board" dalam subseksyen (1), perkataan-perkataan ", or if there has been received on board of any passenger steamer,"; dan
 
 (b) dengan menggantikan perkataan-perkataan "twenty-five" dan "one week" dalam subseksyen (1) masing-masingnya dengan perkataan- perkataan "three hundred" dan "one month".
 
-Pindaan 18. Seksyen 244 Ordinan itu adalah dipinda— seksyen 244.
+<!-- marginal: Pindaan -->
+
+18. Seksyen 244 Ordinan itu adalah dipinda—
+
+<!-- marginal: seksyen 244. -->
 
 (a) dengan memasukkan, selepas sahaja perkataan "Federation" dalam perenggan (k) subseksyen (1), perkataan-perkataan "and the fees to be paid in respect of the embarkation or discharge of passengers"; dan
 
@@ -266,9 +314,7 @@ memasukkan, selepas sahaja perkataan-perkataan "and machinery of" di setiap temp
 
 selepas sahaja seksyen 256A, seksyen baru 256B yang
 
-"Cargo
-
-256B. (1) The Minister may make rules (in this ship Ordinance referred to as "cargo ship construc- conbtruc- tion and tion and survey rules") prescribing require- survey ments for the hull, equipment and machinery of rules. and the fuel used in ships to which this section applies and requiring any such ships which are registered in Malaysia to be surveyed to such extent, in such manner and at such intervals as may be prescribed by the rules.
+"Cargo 256B. (1) The Minister may make rules (in this ship Ordinance referred to as "cargo ship construc- conbtruc- tion and tion and survey rules") prescribing require- survey ments for the hull, equipment and machinery of rules. and the fuel used in ships to which this section applies and requiring any such ships which are registered in Malaysia to be surveyed to such extent, in such manner and at such intervals as may be prescribed by the rules.
 
 (2) The said rules shall include such requirements as appear to the Minister to implement the provisions of the Safety Convention relating to the hull, equipment and machinery of and the fuel used in such ships, except so far as those provisions are implemented by any other rules or regulations made under this Ordinance.
 
@@ -314,9 +360,33 @@ other than passenger steamers, troopships, pleasure yachts, fishing vessels and 
 
 <!-- marginal: baru 268A. -->
 
-selepas sahaja seksyen 268, seksyen baru 268A yang berikut:
+selepas sahaja seksyen 268, seksyen baru 268A yang
 
-"Cargo ship 268A. (1) If the Surveyor-General of Ships or bafety con- such person as he may authorise for the purpose struction certificates is satisfied, on receipt of declarations of' survey and in respect of a ship to which section 256B applies exemption certificates. and which is registered in Malaysia, that the ship complies with the cargo ship construction and survey rules applicable to the ship and such voyages as she is to be engaged on he shall, on the application of the owner, issue in respect of the ship—
+<!-- marginal: berikut: -->
+
+<!-- marginal: "Cargo ship -->
+
+268A. (1) If the Surveyor-General of Ships or
+
+<!-- marginal: bafety con- -->
+
+such person as he may authorise for the purpose
+
+<!-- marginal: struction -->
+
+<!-- marginal: certificates -->
+
+is satisfied, on receipt of declarations of' survey
+
+<!-- marginal: and -->
+
+in respect of a ship to which section 256B applies
+
+<!-- marginal: exemption -->
+
+<!-- marginal: certificates. -->
+
+and which is registered in Malaysia, that the ship complies with the cargo ship construction and survey rules applicable to the ship and such voyages as she is to be engaged on he shall, on the application of the owner, issue in respect of the ship—
 
 (a) if the ship is of nol less than five hundred tons gross tonnage and is to be engaged on international voyages, a certificate in the form prescribed by the Safety Convention;
 
@@ -356,13 +426,53 @@ shall apply as they apply in relation to certificates issued by the Surveyor-Gen
 
 the Minister may provide for fees to be payable to the authorisecl person,".
 
-Pindaan 24. Seksyen 269 Ordinan itu adalah dipinda— seksyen 269.
+<!-- marginal: Pindaan -->
+
+24. Seksyen 269 Ordinan itu adalah dipinda—
+
+<!-- marginal: seksyen 269. -->
 
 (a) dengan menggantikan perkataan-perkataan "five hundred" dalam subseksyen (3) dengan perkataan-perkataan "five thousand"; dan
 
-(b) dengan menggantikan perkataan "Minister" dalam subseksyen (4) dengan perkataan- perkataan "Surveyor-General of Ships". 25. Ordinan itu adalah dipinda dengan memasukkan, baru 269A. selepas sahaja seksyen 269, seksyen baru 269A yang berikut:
+(b) dengan menggantikan perkataan "Minister" dalam subseksyen (4) dengan perkataan- perkataan "Surveyor-General of Ships".
 
-"Notice of 269A. (I) The duty of the owner or masterofa alterations ship under subsection (2) of section 269 to notify and additional alterations shall extend, in relation to any ship in surveys respect of which any certificate under section in relation to cargo 268A is in force, to the hull, machinery and any ships. equipment other than that mentioned in that subsection, but may, if the certificate was issued by a person authorised under that section, be discharged by notifying him instead of the Surveyor-General of Ships.
+<!-- marginal: Seksyen -->
+
+25. Ordinan itu adalah dipinda dengan memasukkan,
+
+<!-- marginal: baru 269A. -->
+
+selepas sahaja seksyen 269, seksyen baru 269A yang
+
+<!-- marginal: berikut: -->
+
+<!-- marginal: "Notice of -->
+
+269A. (I) The duty of the owner or masterofa
+
+<!-- marginal: alterations -->
+
+ship under subsection (2) of section 269 to notify
+
+<!-- marginal: and -->
+
+<!-- marginal: additional -->
+
+alterations shall extend, in relation to any ship in
+
+<!-- marginal: surveys -->
+
+respect of which any certificate under section
+
+<!-- marginal: in relation -->
+
+<!-- marginal: to cargo -->
+
+268A is in force, to the hull, machinery and any
+
+<!-- marginal: ships. -->
+
+equipment other than that mentioned in that subsection, but may, if the certificate was issued by a person authorised under that section, be discharged by notifying him instead of the Surveyor-General of Ships.
 
 (2) Subsection (4) of section 269 shall have effect, in relation to any such ship, as if—
 
@@ -380,9 +490,27 @@ and the power of the Surveyor-General of Ships under that subsection to cancel s
 
 <!-- marginal: baru 270A. -->
 
-selepas sahaja seksyen 270, seksyen baru 270A yang berikut:
+selepas sahaja seksyen 270, seksyen baru 270A yang
 
-"Prohibition on pro- ceeding to sea without appropriate certificates in the case of cargo ships.
+<!-- marginal: berikut: -->
+
+"Prohibition
+
+<!-- marginal: on pro- -->
+
+<!-- marginal: ceeding -->
+
+<!-- marginal: to sea -->
+
+<!-- marginal: without -->
+
+appropriate certificates
+
+<!-- marginal: in the case -->
+
+<!-- marginal: of cargo -->
+
+<!-- marginal: ships. -->
 
 certificate and, if the ship is about to proceed on an international voyage, a corresponding exemption certificate; or
 
@@ -420,7 +548,15 @@ subseksyen (4), perkataan-perkataan ", except a certificate issued under section
 
 <!-- marginal: to -->
 
-prescribe the fees to be paid in respect of any certificate issued, or any extension of any certificate granted, under this Part.". 28. Ordinan itu adalah dipinda dengan memasukkan, baru 274A. selepas sahaja seksyen 274, seksyen baru 274A yang berikut:
+prescribe the fees to be paid in respect of any certificate issued, or any extension of any certificate granted, under this Part.".
+
+<!-- marginal: Seksyen -->
+
+28. Ordinan itu adalah dipinda dengan memasukkan,
+
+<!-- marginal: baru 274A. -->
+
+selepas sahaja seksyen 274, seksyen baru 274A yang berikut:
 
 "Exemption 274A. Where there is produced in respect of a of ships ship not registered in Malaysia— holding appropriate
 
@@ -430,13 +566,19 @@ prescribe the fees to be paid in respect of any certificate issued, or any exten
 
 the ship shall be exempt from the cargo ship construction and survey rules.".
 
-Pindaan 29. Seksyen 284 Ordinan itu adalah dipinda dengan seksyen 284. menggantikan perkataan-perkataan "section 3 of the Merchant Shipping (Amendment) Act, 1965," dan perkataan-perkataan "section 4 of the Merchant Shipping
+<!-- marginal: Pindaan -->
+
+29. Seksyen 284 Ordinan itu adalah dipinda dengan
+
+<!-- marginal: seksyen 284. -->
+
+menggantikan perkataan-perkataan "section 3 of the Merchant Shipping (Amendment) Act, 1965," dan perkataan-perkataan "section 4 of the Merchant Shipping
 
 <!-- page 17 -->
 
 ## PERKAPALAN SAUDAGAR (PINDAAN)
 
-17
+<!-- marginal: 17 -->
 
 (Amendment) Act, 1965" dalam perenggan (b) subseksyen
 
@@ -470,11 +612,9 @@ menggantikan perkataan-perkataan "home-trade and local trade" dalam subseksyen (
 
 (a) dengan memotong perkataan-perkataan ", British, Malayan or foreign," dalam subseksyen
 
-(1);
+### (1);
 
-(b) dengan menggantikan perkataan-perkataan "one thousand" dan "one hundred" dalam subseksyen
-
-(2) masing-masingnya dengan perkataan- perkataan "ten thousand" dan "one thousand"; dan
+(b) dengan menggantikan perkataan-perkataan "one thousand" dan "one hundred" dalam subseksyen (2) masing-masingnya dengan perkataan- perkataan "ten thousand" dan "one thousand"; dan
 
 (c) dengan menggantikan subseksyen (3) dengan yang berikut:
 
@@ -492,25 +632,39 @@ menggantikan perkataan-perkataan "home-trade and local trade" dalam subseksyen (
 
 case may be, having application under section 293.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-33. Seksyen 290 Ordinan itu adalah dipinda— seksyen 290.
+33. Seksyen 290 Ordinan itu adalah dipinda—
+
+<!-- marginal: seksyen 290. -->
 
 (a) dengan memotong perkataan-perkataan ", British, Malayan or foreign,"; dan
 
 (d) dengan menggantikan perkataan-perkataan "five thousand" dan "six months" masing-masingnya dengan perkataan-perkataan "twenty thousand" dan "two years".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-34. Seksyen 291 Ordinan itu adalah dipinda dengan seksyen 291. memotong perkataan-perkataan ", British, Malayan or foreign," dalam subseksyen (1) dan (2).
+34. Seksyen 291 Ordinan itu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 291. -->
 
-35. Seksyen 292 Ordinan itu adalah dipinda dengan seksyen 292. memotong perkataan-perkataan ", British, Malayan or foreign," dalam subseksyen (1).
+memotong perkataan-perkataan ", British, Malayan or foreign," dalam subseksyen (1) dan (2).
 
-Penggantian
+<!-- marginal: Pindaan -->
 
-36. Ordinan itu adalah dipinda dengan menggantikan seksyen 293. seksyen 293 dengan yang berikut:
+35. Seksyen 292 Ordinan itu adalah dipinda dengan
+
+<!-- marginal: seksyen 292. -->
+
+memotong perkataan-perkataan ", British, Malayan or foreign," dalam subseksyen (1).
+
+<!-- marginal: Penggantian -->
+
+36. Ordinan itu adalah dipinda dengan menggantikan
+
+<!-- marginal: seksyen 293. -->
+
+seksyen 293 dengan yang berikut:
 
 "Carriage 293. (1) The Minister may make rules for of regulating in the interests of safety the carriage dangerout goods. of dangerous goods in ships to which this section applies.
 
@@ -526,13 +680,11 @@ Penggantian
 
 ## PERKAPALAN SAUDAGAR (PINDAAN)
 
-19
+<!-- marginal: 19 -->
 
 (4) Until rules are made under subsection (1), the rules made from time to time under the Merchant Shipping Acts with respect to the carriage of dangerous goods shall apply to ships to which this section applies.
 
-(5) If any of the rules made under subsection
-
-(1) or, as the case may be, having application under subsection (4), is not complied with in relation to any ship to which the rule applies, the person specified in the rules as being guilty of an offence for the non-compliance or, if no person is so specified, the owner or master of the ship shall be liable in respect of each offence to a fine not exceeding fifteen thousand ringgit or such lesser amount as may be prescribed in the rules for the offence, and the ship shall be deemed for the purposes of this Part to be unsafe by reason of improper loading.".
+(5) If any of the rules made under subsection (1) or, as the case may be, having application under subsection (4), is not complied with in relation to any ship to which the rule applies, the person specified in the rules as being guilty of an offence for the non-compliance or, if no person is so specified, the owner or master of the ship shall be liable in respect of each offence to a fine not exceeding fifteen thousand ringgit or such lesser amount as may be prescribed in the rules for the offence, and the ship shall be deemed for the purposes of this Part to be unsafe by reason of improper loading.".
 
 <!-- marginal: Pindaan -->
 
@@ -552,11 +704,25 @@ Penggantian
 
 (e) dengan menggantikan subseksyen (6) dengan yang berikut:
 
-"(6) In this section the expression "grain" includes wheat, maize or corn, oats, rye, barley, rice, pulses and seeds, and processed forms thereof whose behaviour is similar to that of grain in its natural state.". 38. Ordinan itu adalah dipinda dengan memasukkan. baru 299A. selepas sahaja seksyen 299, sebelum tajuk "Unseawonhy Ships", tajuk dan seksyen baru 299A yang berikut:
+"(6) In this section the expression "grain" includes wheat, maize or corn, oats, rye, barley, rice, pulses and seeds, and processed forms thereof whose behaviour is similar to that of grain in its natural state.".
+
+<!-- marginal: Seksyen -->
+
+38. Ordinan itu adalah dipinda dengan memasukkan.
+
+<!-- marginal: baru 299A. -->
+
+selepas sahaja seksyen 299, sebelum tajuk "Unseawonhy Ships", tajuk dan seksyen baru 299A yang berikut:
 
 Nuclear Ships Nuclear 299A. The Minister may make regulations with ship respect to ships provided with nuclear power regulations. plants for the purpose of enabling effect to be given to the provisions of Chapter VIII of the Annex to the Safety Convention.".
 
-39. Ordinan itu adalah dipinda dengan memasukkan, baru 299B. selepas sahaja seksyen baru 299A, sebelum
+<!-- marginal: Seksyen -->
+
+39. Ordinan itu adalah dipinda dengan memasukkan,
+
+<!-- marginal: baru 299B. -->
+
+selepas sahaja seksyen baru 299A, sebelum
 
 <!-- marginal: tajuk -->
 
@@ -586,9 +752,7 @@ memotong subseksyen (2).
 
 dalam Bahagian V, selepas sahaja seksyen 306, tajuk dan seksyen baru 306A yang berikut:
 
-Supplernental Countries
-
-306A. The Minister, if satisfied— lo which Safety (a)that the government of a country has Convention accepted, or denounced, the Safety applies. Convention; or ( b) that the Safety Convention extends, or has ceased to extend, to any territory,
+Supplernental Countries 306A. The Minister, if satisfied— lo which Safety (a)that the government of a country has Convention accepted, or denounced, the Safety applies. Convention; or ( b) that the Safety Convention extends, or has ceased to extend, to any territory,
 
 may by order make a declaration to that effect".
 
@@ -624,7 +788,9 @@ Application 306B. (1) This Part shall, unless the context otherwise requires, ap
 
 (b) Government yessels.
 
-Definition. 306c, (1) For the purposes of this Part and the rules made thereunder, unless it is expressly provided otherwise—
+<!-- marginal: Definition. -->
+
+306c, (1) For the purposes of this Part and the rules made thereunder, unless it is expressly provided otherwise—
 
 "authorised officer" includes any Surveyor of Ships, port officer and any person authorised by the Director of Marine;
 
@@ -648,7 +814,17 @@ Definition. 306c, (1) For the purposes of this Part and the rules made thereunde
 
 (2) Where oil or harmful substance has been, is being or is likely to be discharged, intentionally or otherwise, from a ship, the discharge or Hkely discharge of the oil or harmful substance from the ship shall, for the purposes of this Part. be deemed to be an escape or likely escape of oil or harmful substance from the ship.
 
-Powers of 306o. (1) Where oil or harmful substance is Director escaping from, or where the Director of Marine ot Marine is satisfied that oil or harmful substance is likely to escape from, a ship, then, for the purpose of preventing or reducing the extent of the pollution or likely pollution by the oil or harmful substance of any Malaysian waters, any part of the Malaysian coast or any Malaysian reef, the Director of Marine, in consultation with the Director-General of Erwironmental Quality, may, by notice in writing addressed to the owner of the ship and served in accordance with scction 306E, do all or any of the following:
+<!-- marginal: Powers of -->
+
+306o. (1) Where oil or harmful substance is
+
+<!-- marginal: Director -->
+
+escaping from, or where the Director of Marine
+
+<!-- marginal: ot Marine -->
+
+is satisfied that oil or harmful substance is likely to escape from, a ship, then, for the purpose of preventing or reducing the extent of the pollution or likely pollution by the oil or harmful substance of any Malaysian waters, any part of the Malaysian coast or any Malaysian reef, the Director of Marine, in consultation with the Director-General of Erwironmental Quality, may, by notice in writing addressed to the owner of the ship and served in accordance with scction 306E, do all or any of the following:
 
 (a) require such action to be taken in relation to the ship or its cargo as is specified in the notice;
 
@@ -672,7 +848,13 @@ Powers of 306o. (1) Where oil or harmful substance is Director escaping from, or
 
 <!-- page 25 -->
 
-Service 306E. Service of a notice under section 306D in of notice. respect of a ship shall be effected by—
+<!-- marginal: Service -->
+
+306E. Service of a notice under section 306D in
+
+<!-- marginal: of notice. -->
+
+respect of a ship shall be effected by—
 
 (a) serving it personally on the owner of the ship or, if the owner is a body corporate, on a director, secretary or other officer of the body corporate; or
 
@@ -682,7 +864,9 @@ Service 306E. Service of a notice under section 306D in of notice. respect of a 
 
 (d) serving it on the person who appears to be in charge of the salvage operations in the case of a ship in the possession of a salvor.
 
-Offence. 306r. (1) Where—
+<!-- marginal: Offence. -->
+
+306r. (1) Where—
 
 (a) a notice under subsection (1) of section 306D is served; and
 
@@ -706,11 +890,29 @@ the owner and master of the ship shall be guilty of an offence and shall be liab
 
 (4) Where any person is charged for any offence against this Part it shall be a defence to prove that the discharge or faifure to comply with a notice was caused for the purpose of securing the safety of the ship or for the purpose of saving life but the defence shall not operate if the court is satisfied that the discharge or non- compliance was not necessary for the alleged purpose or was not a reasonable step to take in the circumstances.
 
-Power.s of 306o. (1) Where a requirement specitied in a Director notice served under section 306D
+<!-- marginal: Power.s of -->
 
-<!-- marginal: is not -->
+306o. (1) Where a requirement specitied in a
 
-of Marine m cases complied with, the Director of Marine may, of non- compliance whether or not the owner or master of the ship with notice. has been convicted of an offence against this Part by reason of the requirement not having been complied with, cause such things to be done as he thinks proper for the carrying out of the action required by the notice.
+<!-- marginal: Director -->
+
+notice served under section 306D is not
+
+<!-- marginal: of Marine -->
+
+<!-- marginal: m cases -->
+
+complied with, the Director of Marine may,
+
+<!-- marginal: of non- -->
+
+<!-- marginal: compliance -->
+
+whether or not the owner or master of the ship
+
+<!-- marginal: with notice. -->
+
+has been convicted of an offence against this Part by reason of the requirement not having been complied with, cause such things to be done as he thinks proper for the carrying out of the action required by the notice.
 
 <!-- page 27 -->
 
@@ -734,11 +936,53 @@ the Director of Marine may, whether or not the owner or master of tbe ship has b
 
 (4) For the purposes of paragraph (b) of subsection (3) the word "ship" includes every article or thing or collection of rhings being or forming part of the tackle, equipment, cargo, stores or ballast of the ship.
 
-Escape of 306H. Where oil or harmful substance has oil or escaped or is likely to escape from two or more harmful substance ships and it is not reasonably practicable to from two identify the oil or harmful substance that has or more ships. escaped from a particular ship, then all the oil or harmful substance that has escaped from those ships shall, for the purposes of this Part, be deemed to have escaped from each of those ships:
+<!-- marginal: Escape of -->
+
+306H. Where oil or harmful substance has
+
+<!-- marginal: oil or -->
+
+escaped or is likely to escape from two or more
+
+<!-- marginal: harmful -->
+
+<!-- marginal: substance -->
+
+ships and it is not reasonably practicable to
+
+<!-- marginal: from two -->
+
+identify the oil or harmful substance that has
+
+<!-- marginal: or more -->
+
+<!-- marginal: ships. -->
+
+escaped from a particular ship, then all the oil or harmful substance that has escaped from those ships shall, for the purposes of this Part, be deemed to have escaped from each of those ships:
 
 Provided that the Government shall not, by virtue of this section, be entitled to recover from the owners of those ships amounts that, in the aggregate, exceed the total amount of the expenses and liabilities incurred by the Director of Marine in the exercise of his powers under this Part.
 
-Action 3061. (1) Where as a result of a maritime to be casualty or in consequence of any act resulting taken in case-. of therefrom, there is or is likely to be, in the marinme opinion of the Director of Marine, an escape of casualty. oil or harmful substance or any other threat of pollution to Malaysian waters, any Malaysian coast or Malaysian reef, the Director of Marine, in consultation with the Director-General of Environmental Quality, may take such actions as he deems necessary and issue the notice under the provisions of section 306o,
+<!-- marginal: Action -->
+
+3061. (1) Where as a result of a maritime
+
+<!-- marginal: to be -->
+
+casualty or in consequence of any act resulting
+
+<!-- marginal: taken in -->
+
+<!-- marginal: case-. of -->
+
+therefrom, there is or is likely to be, in the
+
+<!-- marginal: marinme -->
+
+opinion of the Director of Marine, an escape of
+
+<!-- marginal: casualty. -->
+
+oil or harmful substance or any other threat of pollution to Malaysian waters, any Malaysian coast or Malaysian reef, the Director of Marine, in consultation with the Director-General of Environmental Quality, may take such actions as he deems necessary and issue the notice under the provisions of section 306o,
 
 (2) If in the opinion of the Director of Marine the actions taken and the notice issued under subsection (1) are ineffective to prevent, reduce or eliminate the pollution or threat of pollution, the Director of Marine may, after giving due consideration to the rights of the flag state, any
 
@@ -756,7 +1000,17 @@ third state or any other person having an interest in the ship— (a)direct that
 
 (c) has been stranded; or (d) has experienced any occurrence on board which results in the escape of oil or harmful substance or which, in the opinion of the Director of Marine, may result in the escape of oil or harmful substance or which causes pollution to Malaysian waters, any Malaysian coast or Malaysian reef.
 
-Report of 306J. (1) The master of a ship in Malaysian maritime waters which experiences a maritime casualty as casualty. defined in section 306i or which has discharged any oil or harmful substance shall report such incident to—
+<!-- marginal: Report of -->
+
+306J. (1) The master of a ship in Malaysian
+
+<!-- marginal: maritime -->
+
+waters which experiences a maritime casualty as
+
+<!-- marginal: casualty. -->
+
+defined in section 306i or which has discharged any oil or harmful substance shall report such incident to—
 
 (a) the port officer, within twenty-four hours or as soon as possible, where the ship is in a port;
 
@@ -768,17 +1022,21 @@ Provided that where a report is made by verbal radio communication, it shall be 
 
 ## RANG UNDANG-UNDANG
 
-(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not excceeding ten thousand ringgit.
+(3) Any person who contravenes subsection
 
-Powers of 306K. (1) The Minister may make such rules as Minister. he considers necessary or expedient to provide for the carriage or storage of oil or harmful substance at sea, the control of pollution from ships and for matters connected therewith, and without prejudice to the generality of such powers may make rules for—
+(1) shall be guilty of an offence and shall be liable on conviction to a fine not excceeding ten thousand ringgit.
+
+<!-- marginal: Powers of -->
+
+306K. (1) The Minister may make such rules as
+
+<!-- marginal: Minister. -->
+
+he considers necessary or expedient to provide for the carriage or storage of oil or harmful substance at sea, the control of pollution from ships and for matters connected therewith, and without prejudice to the generality of such powers may make rules for—
 
 (a) the design, construction, subdivision and alteration of ships, their equipment, machinery and electrical installations;
 
-(b) the inspection and survey of ships, their hull, machinery, equipment
-
-<!-- marginal: and -->
-
-installations;
+(b) the inspection and survey of ships, their hull, machinery, equipment and installations;
 
 (c) the form, issue, validity, duration and extension of certificates or exemption certificates;
 
@@ -830,15 +1088,27 @@ memasukkan, selepas sahaja subseksyen (3), subseksyen baru (4) yang berikut:
 
 <!-- marginal: seksyen 3!5. -->
 
-(a) dengan memasukkan, selepas sahaja subseksyen (2), subseksyen baru (2A) yang berikut:
+(a) dengan memasukkan, selepas sahaja subseksyen
 
-"(2A) In prescribing the fees under subsection (1) the Minister may provide for the tees to be
+(2), subseksyen baru (2A) yang berikut:
+
+"(2A) In prescribing the fees under subsection
+
+(1) the Minister may provide for the tees to be
 
 <!-- page 32 -->
 
 payable lo a person authorised under subsection (2) in relation to a certificate issued by such person."; dan
 
-(b) dengan menggantikan perkataan "person" yang mula-mula sekali terdapat dalam subseksyen (3) dengan perkataan-perkataan "public officer". 45. Ordinan itu adalah dipinda dengan memasukkan baru 331A. dalam Bahagian VI, selepas sahaja seksyen 331, seksyen baru 33lA yang berikut:
+(b) dengan menggantikan perkataan "person" yang mula-mula sekali terdapat dalam subseksyen (3) dengan perkataan-perkataan "public officer".
+
+<!-- marginal: Seksyen -->
+
+45. Ordinan itu adalah dipinda dengan memasukkan
+
+<!-- marginal: baru 331A. -->
+
+dalam Bahagian VI, selepas sahaja seksyen 331, seksyen baru 33lA yang berikut:
 
 "Countnes 33 1A. The Minister, if satisfied— to which Load Line
 
@@ -848,7 +1118,13 @@ payable lo a person authorised under subsection (2) in relation to a certificate
 
 may by order make a declaration to that effect.".
 
-Penggantian 46. Ordinan itu adalah dipinda dengan menggantikan seksyen 332. seksyen 332 dengan yang berikut:
+<!-- marginal: Penggantian -->
+
+46. Ordinan itu adalah dipinda dengan menggantikan
+
+<!-- marginal: seksyen 332. -->
+
+seksyen 332 dengan yang berikut:
 
 "Shipping 332. For the purpose of inquiries and casualties investigations under this Part a shipping casualty shall be deemed to occur—
 
@@ -894,7 +1170,7 @@ menggantikan perkataan-perkataan "that part of Her Majesty's dominions" dalam pr
 
 ## Bahagian IX.
 
-## Bahagian IX dengan Bahagian yang berikut:
+Bahagian IX dengan Bahagian yang berikut:
 
 ## "PART IX
 
@@ -934,13 +1210,41 @@ as a servant of the owners or of any such person as is rnentioned in subsection 
 
 (b) the liability of the master, member of the crew or servant himself shall be excluded or limited as aforesaid notwithstanding his actual fault or privity in that capacity, except in the cases mentioned in paragraph
 
-(b) of section 359. (4) This Part shall apply to any ship qualified to be registered as a Malaysian ship notwithstanding that it has not yet been registered.
+(b) of section 359.
 
-Limitation
+(4) This Part shall apply to any ship qualified to be registered as a Malaysian ship notwithstanding that it has not yet been registered.
 
-359. The owner of a Malaysian ship, or any of share therein, shall not be liable to make good to shipowner's any extent whatever any loss or damage liability in certain happening without his actual fault or privity in cases of the following cases: loss of or damage Co
+<!-- marginal: Limitation -->
 
-(a) where any goods, merchandise or other goods. thing whatsoever taken in or put on board his ship are lost or damaged by reason of fire on board the ship; or
+359. The owner of a Malaysian ship, or any
+
+<!-- marginal: of -->
+
+share therein, shall not be liable to make good to
+
+<!-- marginal: shipowner's -->
+
+any extent whatever any loss or damage
+
+<!-- marginal: liability in -->
+
+<!-- marginal: certain -->
+
+happening without his actual fault or privity in
+
+<!-- marginal: cases of -->
+
+the following cases:
+
+<!-- marginal: loss of or -->
+
+<!-- marginal: damage Co -->
+
+(a) where any goods, merchandise or other
+
+<!-- marginal: goods. -->
+
+thing whatsoever taken in or put on board his ship are lost or damaged by reason of fire on board the ship; or
 
 (b) where any gold, silver, diamonds, watches, jewels or precious stones taken in or put on board his ship, the true nature and value of which have not at the time of shipment been declared by the owner or shipper thereof to the owner or master of the ship in the bills of lading or otherwise in writing, are lost or damaged by reason of any robbery, theft, breach of trust or misappropriation thereof.
 
@@ -948,11 +1252,37 @@ Limitation
 
 ## RANG UNDANG-UNDANG
 
-36
+<!-- marginal: 36 -->
 
-Limitation 360. (1) The owner of a Malaysian or foreign of owner's ship shall not, where all or any of the following liability m certain occurrences take place without his actual fault or cases of privity, namely: loss of life,
+<!-- marginal: Limitation -->
 
-(a) where any loss of life or personal injury is injury or damage. caused to any person being carried in the ship;
+360. (1) The owner of a Malaysian or foreign
+
+<!-- marginal: of owner's -->
+
+ship shall not, where all or any of the following
+
+<!-- marginal: liability -->
+
+<!-- marginal: m certain -->
+
+occurrences take place without his actual fault or
+
+<!-- marginal: cases of -->
+
+privity, namely:
+
+<!-- marginal: loss of -->
+
+<!-- marginal: life, -->
+
+(a) where any loss of life or personal injury is
+
+<!-- marginal: injury or -->
+
+<!-- marginal: damage. -->
+
+caused to any person being carried in the ship;
 
 (b) where any damage or loss is caused to any goods, merchandise or other things whatsoever on board the ship;
 
@@ -998,9 +1328,13 @@ of the Court hearing the case in which the tonnage of the ship is in question su
 
 either does not set any limit to that liability or sets a limit exceeding that set to it by this section.
 
-Release
+<!-- marginal: Release -->
 
-361. (1) Where a ship or other property is of ship, etc. arrested in connection with a claim which appears to the Court to be founded on a liability to which a limit is set by section 360, or security is given to prevent or obtain release from such an arrest, the Court may, and in the circumstances mentioned in subsection (3) shall, order the release of the ship, property or security if the conditions specified in subsection (2) are satisfied; but where the release is ordered, the person on whose application it is ordered shall be deemed to have submitted lo the jurisdiction of the Court to adjudicate on the claim.
+361. (1) Where a ship or other property is
+
+<!-- marginal: of ship, etc. -->
+
+arrested in connection with a claim which appears to the Court to be founded on a liability to which a limit is set by section 360, or security is given to prevent or obtain release from such an arrest, the Court may, and in the circumstances mentioned in subsection (3) shall, order the release of the ship, property or security if the conditions specified in subsection (2) are satisfied; but where the release is ordered, the person on whose application it is ordered shall be deemed to have submitted lo the jurisdiction of the Court to adjudicate on the claim.
 
 (2) The conditions referred to in subsection
 
@@ -1020,7 +1354,23 @@ Release
 
 (c) where part only of the amount for which a guarantee was given will be available to a claimant, that part shall not be taken to correspond to his claim if any other part may be available to a claimant in respect of a liability to which no limit is set as mentioned in subsection (1).
 
-Restriction 362. (1) No judgement or decree for a claim on enforce- founded on a liability to which a limit is set by ment after giving of section 360 shall be enforced, except so far as it security. is for costs, if security for an amount not less than that limit has been given, whether in Malaysia or elsewhere, in respect of the liability or any other liability incurred on the same occasion and the Court is of opinion that the security is satisfactory and is satisfied that the amount for which it was given, or such part thereof as corresponds to the claim, will be actually available to the person in whose favour the judgment or decree was given or made.
+<!-- marginal: Restriction -->
+
+362. (1) No judgement or decree for a claim
+
+<!-- marginal: on enforce- -->
+
+founded on a liability to which a limit is set by
+
+<!-- marginal: ment after -->
+
+<!-- marginal: giving of -->
+
+section 360 shall be enforced, except so far as it
+
+<!-- marginal: security. -->
+
+is for costs, if security for an amount not less than that limit has been given, whether in Malaysia or elsewhere, in respect of the liability or any other liability incurred on the same occasion and the Court is of opinion that the security is satisfactory and is satisfied that the amount for which it was given, or such part thereof as corresponds to the claim, will be actually available to the person in whose favour the judgment or decree was given or made.
 
 (2) For the purposes of this section —
 
@@ -1030,9 +1380,27 @@ Restriction 362. (1) No judgement or decree for a claim on enforce- founded on a
 
 (b) where part only of the amount for which security has been given will be available to the person in whose favour the judgement or decree was given or made that part shall not be taken to correspond to his claim if any other part may be available to a claimant in respect of a liability to which no limit is set as mentioned in subsection (1).
 
-Power of
+<!-- marginal: Power of -->
 
-363. (1) Where any liability is alleged to have Court to been incurred by the owner of a Malaysian or consoli- dale claims foreign ship in respect of any occurrence in against respect of which his liability is limited under owners, etc. section 360, and several claims are made or apprehended in respect of that liability, then the owner may apply to the High Court, and that Court may determine the amount of the owner's liability, and may distribute that amount rateably among the several claimants, and may stay any proceedings pending in any other court in relation to the same matter, and may proceed in such manner and subject to such directions as to making persons interested parties to the proceedings, and as to the exclusion of any claimants who do not come in within a certain time, and as to requiring security from the owner, and as to payment of any costs, as the Court thinks just.
+363. (1) Where any liability is alleged to have
+
+<!-- marginal: Court to -->
+
+been incurred by the owner of a Malaysian or
+
+<!-- marginal: consoli- -->
+
+<!-- marginal: dale claims -->
+
+foreign ship in respect of any occurrence in
+
+<!-- marginal: against -->
+
+respect of which his liability is limited under
+
+<!-- marginal: owners, etc. -->
+
+section 360, and several claims are made or apprehended in respect of that liability, then the owner may apply to the High Court, and that Court may determine the amount of the owner's liability, and may distribute that amount rateably among the several claimants, and may stay any proceedings pending in any other court in relation to the same matter, and may proceed in such manner and subject to such directions as to making persons interested parties to the proceedings, and as to the exclusion of any claimants who do not come in within a certain time, and as to requiring security from the owner, and as to payment of any costs, as the Court thinks just.
 
 (2) In making any distribution in accordance with this section the Court may, if it thinks fit, postpone the distribution of such part of the amount to be distributed as it deems appropriate having regard to any claims that may later be established before a court in any country outside Malaysia.
 
@@ -1040,21 +1408,73 @@ Power of
 
 <!-- page 42 -->
 
-Part 364. All sums paid for or on account of any loss owners to or damage in respect whereof the liability of account in respect of owners is limited under this Part, and all costs damages. incurred in relation thereto, may be brought into account among part owners of the same ship in the same manner as money disbursed for the use thereof.
+<!-- marginal: Part -->
 
-Insurances 365. An insurance effected against
+364. All sums paid for or on account of any loss
 
-<!-- marginal: the -->
+<!-- marginal: owners to -->
 
-of certain happening, without the owner's fault or privity, risks not invalid. of any or all of the events in respect of which the liability of owners is limited under this Part shall not be invalid by reason of the nature of the risk.
+or damage in respect whereof the liability of
 
-Proof of 365A. In any proceeding under this Part against passengers the owner of a ship or share therein with respect on board ship. to loss of life, the passenger lists under Part IV of this Ordinance shall be received as evidence that the person upon whose death proceedings are taken under this Part was a passenger on board the ship at the time of death.".
+<!-- marginal: account in -->
 
-Penggantian
+<!-- marginal: respect of -->
 
-50. Ordinan itu adalah dipinda dengan menggantikan seksyen 381. seksyen 381 dengan yang berikut:
+owners is limited under this Part, and all costs
 
-"Removal 381. (1) Where any ship is sunk, stranded or of wreck abandoned in any port, navigable river, tidal by receiver. waters or in any place within Malaysian waters in such manner as, in the opinion of the receiver, to be or likely to become an obstruction or danger to navigation or a public nuisance or to cause inconvenience, the receiver may either—
+<!-- marginal: damages. -->
+
+incurred in relation thereto, may be brought into account among part owners of the same ship in the same manner as money disbursed for the use thereof.
+
+<!-- marginal: Insurances -->
+
+365. An insurance effected against the
+
+<!-- marginal: of certain -->
+
+happening, without the owner's fault or privity,
+
+<!-- marginal: risks not -->
+
+<!-- marginal: invalid. -->
+
+of any or all of the events in respect of which the liability of owners is limited under this Part shall not be invalid by reason of the nature of the risk.
+
+<!-- marginal: Proof of -->
+
+365A. In any proceeding under this Part against
+
+<!-- marginal: passengers -->
+
+the owner of a ship or share therein with respect
+
+<!-- marginal: on board -->
+
+<!-- marginal: ship. -->
+
+to loss of life, the passenger lists under Part IV of this Ordinance shall be received as evidence that the person upon whose death proceedings are taken under this Part was a passenger on board the ship at the time of death.".
+
+<!-- marginal: Penggantian -->
+
+50. Ordinan itu adalah dipinda dengan menggantikan
+
+<!-- marginal: seksyen 381. -->
+
+seksyen 381 dengan yang berikut:
+
+<!-- marginal: "Removal -->
+
+381. (1) Where any ship is sunk, stranded or
+
+<!-- marginal: of wreck -->
+
+abandoned in any port, navigable river, tidal
+
+<!-- marginal: by -->
+
+<!-- marginal: receiver. -->
+
+waters or in any place within Malaysian waters in such manner as, in the opinion of the receiver, to be or likely to become an obstruction or danger to navigation or a public nuisance or to cause inconvenience, the receiver may either—
 
 (a) take possession of, and raise, remove or destroy, the whole or any part of the ship;
 
@@ -1078,7 +1498,9 @@ or alternatively—
 
 (2) Apart from the proceeds of any sale carried out by the receiver pursuant to paragraph
 
-(c) of subsection (1), the receiver may also resort to the security furnished under paragraph (f) to reimburse himself and if the proceeds of sale together with any security are insufficient to cover the costs incurred by the receiver when acting under paragraphs (a) to (d) of subsection (1), he may recover the difference from the owner or master of the ship concerned.".
+(c) of subsection (1), the receiver may also resort to the security furnished under paragraph (f) to reimburse himself and if the proceeds of sale together with any security are insufficient to cover the costs incurred by the receiver when acting under paragraphs (a) to (d) of subsection
+
+(1), he may recover the difference from the owner or master of the ship concerned.".
 
 <!-- marginal: Pindaan -->
 
@@ -1104,23 +1526,39 @@ or alternatively—
 
 (c) dengan menggantikan perkataan-perkataan "one hundred dollars" dalam subseksyen (2) dengan perkataan-perkataan "ten thousand ringgit or to imprisonment for a term not exceeding one year or to both.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-52. Seksyen 477 Ordinan itu adalah dipinda— seksyen 477.
+52. Seksyen 477 Ordinan itu adalah dipinda—
+
+<!-- marginal: seksyen 477. -->
 
 (a) dengan menggantikan subseksyen (1) dengan yang berikut: "(1) Every licence issued shall be valid for a period not exceeding twelve months from the date of issue."; dan
 
 (b) dengan menggantikan perkataan-perkataan "one hundred" dalam subseksyen (3) dengan perkataan-perkataan "one thousand".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-53. Seksyen 492 Ordinan itu adalah dipinda dengan seksyen 492. memotong perkataan-perkataan ", provided that no Magistrate's Court shall, except where the context otherwise requires, try any such offence which is punishable with a fine exceeding five hundred dollars, or with imprisonment of either description for a term which may exceed six months".
+53. Seksyen 492 Ordinan itu adalah dipinda dengan
 
-Pindaan-
+<!-- marginal: seksyen 492. -->
 
-54. Ordinan itu adalah dipinda— pindaan pelbagai:
+memotong perkataan-perkataan ", provided that no Magistrate's Court shall, except where the context otherwise requires, try any such offence which is punishable with a fine exceeding five hundred dollars, or with imprisonment of either description for a term which may exceed six months".
 
-(a) dengan menggantikan perkataan "five" dalam penalti- seksyen 211(2) dengan perkataan "fifty"; penalti.
+<!-- marginal: Pindaan- -->
+
+54. Ordinan itu adalah dipinda—
+
+<!-- marginal: pindaan -->
+
+<!-- marginal: pelbagai: -->
+
+(a) dengan menggantikan perkataan "five" dalam
+
+<!-- marginal: penalti- -->
+
+seksyen 211(2) dengan perkataan "fifty";
+
+<!-- marginal: penalti. -->
 
 <!-- page 45 -->
 
@@ -1264,15 +1702,7 @@ Rang Undang-Undang ini bertujuan meminda Ordinan Perkapalan Saudagar 1952, antar
 
 <!-- page 51 -->
 
-untuk mencegah kargo bijirin yang dimuatkan dalam kapal daripada beralih.
-
-(i) Subseksyen (l)menjadikannya suatu kesalahan bagi mana-mana kapal yang dimuatkan dengan kargo bijirin berlepas dari atau tiba di mana-mana pelabuhan atau tempat dalam Persekutuan melainkan jika langkah berjaga-jaga telah diambil untuk mencegah kargo bijirin itu daripada beralih. Adalah dicadangkan (di bawah perenggan (b) ) untuk meminda subseksyen itu supaya menjadikannya suutu kesalahan juga bagi sesuatu kapal Malaysia yang dimuatkan sedemikian berlepas dari atau tiba di mana-mana pelabuhan atau tempat di mana-mana negeri melainkan jika langkah berjaga-jaga demikian telah diambil.
-
-(ii) Di bawah perenggan (c), penalti dalam subseksyen (2) ditingkatkan.
-
-(iii) Subseksyen (3) menghendaki pematuhan kepada peraturan-peraturan yang dibuat oleh Menteri yang menetapkan langkah berjaga-jaga yang kena diambil untuk mencegah kargo bijirin daripada beralih, tetapi pematuhan demikian tidak perlu jika kapal itu dimuatkan mengikut peraturan-peraturan yang diluluskan oleh pihak berkuasa United Kingdom yang berkenaan atau dibina dan dimuatkan mengikut apa-apa pelan yang diluluskan olehnya. Adalah dicadangkan (di bawah perenggan (d) )untuk meminda subseksyen ilu supaya menamatkan pergantungan kepada peraturan-peraturan dan pelan United Kingdom itu dan mengadakan sebagai ganti pergantungan kepada peruntukan-peruntukan yang diluluskan oleh Menteri berkenaan dengan pemuatan yang berkenaan selain daripada peraturan-peraturan yang dibuat di bawah subseksyen itu.
-
-(iv) Adalah dicadangkan (di bawah perenggan (e) ) untuk menggantikan takrif bagi "grain" dalam subseksyen (6) dengan takrif yang selaras dengan takrif dalam Konvensyen Keselamatan 1974.
+untuk mencegah kargo bijirin yang dimuatkan dalam kapal daripada beralih. (i) Subseksyen (l)menjadikannya suatu kesalahan bagi mana-mana kapal yang dimuatkan dengan kargo bijirin berlepas dari atau tiba di mana-mana pelabuhan atau tempat dalam Persekutuan melainkan jika langkah berjaga-jaga telah diambil untuk mencegah kargo bijirin itu daripada beralih. Adalah dicadangkan (di bawah perenggan (b) ) untuk meminda subseksyen itu supaya menjadikannya suutu kesalahan juga bagi sesuatu kapal Malaysia yang dimuatkan sedemikian berlepas dari atau tiba di mana-mana pelabuhan atau tempat di mana-mana negeri melainkan jika langkah berjaga-jaga demikian telah diambil. (ii) Di bawah perenggan (c), penalti dalam subseksyen (2) ditingkatkan. (iii) Subseksyen (3) menghendaki pematuhan kepada peraturan-peraturan yang dibuat oleh Menteri yang menetapkan langkah berjaga-jaga yang kena diambil untuk mencegah kargo bijirin daripada beralih, tetapi pematuhan demikian tidak perlu jika kapal itu dimuatkan mengikut peraturan-peraturan yang diluluskan oleh pihak berkuasa United Kingdom yang berkenaan atau dibina dan dimuatkan mengikut apa-apa pelan yang diluluskan olehnya. Adalah dicadangkan (di bawah perenggan (d) )untuk meminda subseksyen ilu supaya menamatkan pergantungan kepada peraturan-peraturan dan pelan United Kingdom itu dan mengadakan sebagai ganti pergantungan kepada peruntukan-peruntukan yang diluluskan oleh Menteri berkenaan dengan pemuatan yang berkenaan selain daripada peraturan-peraturan yang dibuat di bawah subseksyen itu. (iv) Adalah dicadangkan (di bawah perenggan (e) ) untuk menggantikan takrif bagi "grain" dalam subseksyen (6) dengan takrif yang selaras dengan takrif dalam Konvensyen Keselamatan 1974.
 
 (e) Fasal 38. Pasal ini bertujuan memasukkan satu seksyen baru 299A yang memberi kuasa kepada Menteri untuk membuat peraturan-peraturan berkenaan dengan kapal- kapal yang dibekalkan dengan loji kuasa nuklear bagi maksud melaksanakan peruntukan-peruntukan yang relevan dalam Konvensyen Keselamatan 1974.
 
@@ -1294,13 +1724,7 @@ bahawa mana-mana negeri yang baginya Konvensyen Keselamatan 1960 terpakai hendak
 
 <!-- page 53 -->
 
-memeriksa mana-mana kapal bagi maksud memastikan bahawa ia mematuhi kaedah-kaedah itu. Seksyen-seksyen itu dikanunkan semula dalam seksyen baru 256B itu deng;m perubahan-perubahan yang berikut: (i) Kuasa untuk membuat kaedah-kaedah pembinaan dan peninjauan kapal kargo sekarang meliputi kuasa untuk membuat kaedah-kaedah untuk menetapkan kehendak-kehendak bagi bahanapi yang digunakan dalam kapal-kapal yang baginya seksyen itu terpakai. Perubahan ini adalah bersamaan dengan perubahan yang dibuat berhubungan dengan kuasa untuk membuat kaedah-kaedah pembinaan bagi kapal- kapal penumpang dalatn seksyen 256A (disebut dalam perenggan 2(b) di aias).
-
-(ii) Subseksyen (3) seksyen baru 256B itu ialah suatu peruntukan baru yang membolehkan kaedah-kaedah pembinaan dan peninjauan kapal kargo mengadakan peruntukan supaya peninjauan diusahakan oleh orang-orang yang dilantik oleh pertubuhan- pertubuhan tertentu, membuat ubahsuaian- ubahsuaian kepada peruntukan-peruntukan tertentu Ordinan i tu dalam pemakaiannya bagi peninjauan yang diusahakan oleh orang-orang demikian, menetapkan fee-fee peninjauan dan membuat peruntukan supaya fee-fee itu boleh dibayar. dalam hal peninjauan yang dijalankan oleh orang-orang demikian, kepada mereka.
-
-(iii) Subseksyen (5) seksyen baru 256B itu ialah suatu peruntukan baru yang memperuntukkan bahawa taknf bagi "declaration of survey" dalam seksyen 2, yang bermaksud perakuan oleh seseorang Pemeriksa Kapal (yang ialah seorang pegawai awam), tidak terpakai berhubungan dengan peninjauan yang dijalankan oleh selain daripada seorang Pemeriksa Kapal.
-
-(iv) Penalti bagi melanggar kaedah-kaedah itu ditingkatkan daripada denda $5,000.00, sebagaimana diperuntukkan sekarang dalam seksyen 8(1) Akta 1966 itu, kepada $10,000.00, sebagaimana dalam subseksyen (6) seksyen baru 256B itu.
+memeriksa mana-mana kapal bagi maksud memastikan bahawa ia mematuhi kaedah-kaedah itu. Seksyen-seksyen itu dikanunkan semula dalam seksyen baru 256B itu deng;m perubahan-perubahan yang berikut: (i) Kuasa untuk membuat kaedah-kaedah pembinaan dan peninjauan kapal kargo sekarang meliputi kuasa untuk membuat kaedah-kaedah untuk menetapkan kehendak-kehendak bagi bahanapi yang digunakan dalam kapal-kapal yang baginya seksyen itu terpakai. Perubahan ini adalah bersamaan dengan perubahan yang dibuat berhubungan dengan kuasa untuk membuat kaedah-kaedah pembinaan bagi kapal- kapal penumpang dalatn seksyen 256A (disebut dalam perenggan 2(b) di aias). (ii) Subseksyen (3) seksyen baru 256B itu ialah suatu peruntukan baru yang membolehkan kaedah-kaedah pembinaan dan peninjauan kapal kargo mengadakan peruntukan supaya peninjauan diusahakan oleh orang-orang yang dilantik oleh pertubuhan- pertubuhan tertentu, membuat ubahsuaian- ubahsuaian kepada peruntukan-peruntukan tertentu Ordinan i tu dalam pemakaiannya bagi peninjauan yang diusahakan oleh orang-orang demikian, menetapkan fee-fee peninjauan dan membuat peruntukan supaya fee-fee itu boleh dibayar. dalam hal peninjauan yang dijalankan oleh orang-orang demikian, kepada mereka. (iii) Subseksyen (5) seksyen baru 256B itu ialah suatu peruntukan baru yang memperuntukkan bahawa taknf bagi "declaration of survey" dalam seksyen 2, yang bermaksud perakuan oleh seseorang Pemeriksa Kapal (yang ialah seorang pegawai awam), tidak terpakai berhubungan dengan peninjauan yang dijalankan oleh selain daripada seorang Pemeriksa Kapal. (iv) Penalti bagi melanggar kaedah-kaedah itu ditingkatkan daripada denda $5,000.00, sebagaimana diperuntukkan sekarang dalam seksyen 8(1) Akta 1966 itu, kepada $10,000.00, sebagaimana dalam subseksyen (6) seksyen baru 256B itu.
 
 (b) Fasal 23. Fasal ini bertujuan memasukkan satu seksyen baru 268A yang mengkanunkan semula seksyen 4 Akta 1966 itu, yang membuat peruntukan bagi pengeluaran perakuan-perakuan pembinaan keselamatan dan perakuan- perakuan pengecualian berkenaan dengan kapal-kapal yang baginya seksyen 3 Akta itu (sekarang seksyen baru 256(B) terpakai. Bagaimanapun, subseksyen (4) dan (7) seksyen 4, yang berhubungan dengan perlanjutan tempoh maksimum
 
@@ -1312,11 +1736,7 @@ lima tahun bagi perakuan-perakuan kepada maksimum enam tahun, tidak dibawa ke da
 
 (d) Fasal 26. Pasal ini bertujuan mernasukkan satu seksyen baru 270A yang mengkanunkan semula seksyen 6 Akta 1966 itu. Seksyen itu melarang sesuatu kapal yang baginya seksyen 3 Akta 1966 itu (sekarang seksyen baru 256(B) terpakai daripada mara ke laut melainkan jika ada berkuatkuasa berkenaan dengan kapal itu perakuan- perakuan yang sesuai. Seksyen itu dikanunkan semula dengan perubahan-perubahan berikut:
 
-( i) Penalti kerana melanggar larangan itu ditingkatkan daripada denda $1,000.00,
-
-<!-- marginal: sebagaimana -->
-
-diperuntukkan pada masa ini dalam seksyen 6(2) Akta 1966 itu, kepada $10.000.00, sebagaimana dalam subseksyen (2) seksyen baru 270A itu.
+( i) Penalti kerana melanggar larangan itu ditingkatkan daripada denda $1,000.00, sebagaimana diperuntukkan pada masa ini dalam seksyen 6(2) Akta 1966 itu, kepada $10.000.00, sebagaimana dalam subseksyen (2) seksyen baru 270A itu.
 
 (ii) Di bawah subseksyen (3) seksyen baru 270A itu, perakuan-perakuan yang sesuai yang dikehendaki supaya dikemukakan untuk mendapatkan pelepasan bagi sesuatu kapal hendaklah dikemukakan kepada Pegawai Pelabuhan dan tidak lagi, sebagaimana dalam subseksyen (3) seksyen 6 Akta 1966 itu, kepada pegawai kastam.
 

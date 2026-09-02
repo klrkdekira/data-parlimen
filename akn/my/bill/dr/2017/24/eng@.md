@@ -6,11 +6,13 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
-PrELIMINarY 1. Short title and commencement 2. Non-application of the Act 3. Act to be read with other laws 4. Interpretation 5. Access to a biological resource 6. Small farmers’ rights
+## PRELIMINARY
 
-## Part II
+1. Short title and commencement 2. Non-application of the Act 3. Act to be read with other laws 4. Interpretation 5. Access to a biological resource 6. Small farmers’ rights
+
+## PART II
 
 ## AUTHORITIES
 
@@ -20,7 +22,7 @@ PrELIMINarY 1. Short title and commencement 2. Non-application of the Act 3. Act
 
 11. Advisory Committee
 
-## Part III
+## PART III
 
 ## REQUIREMENTS FOR PERMIT TO ACCESS BIOLOGICAL RESOURCES
 
@@ -50,7 +52,7 @@ PrELIMINarY 1. Short title and commencement 2. Non-application of the Act 3. Act
 
 23. Requirement for prior informed consent and mutually agreed terms, etc.
 
-## Part IV
+## PART IV
 
 ## PERMIT, REGISTER, RECORDS AND DISPOSAL
 
@@ -62,7 +64,7 @@ PrELIMINarY 1. Short title and commencement 2. Non-application of the Act 3. Act
 
 27. Disposal of biological resource
 
-## Part V
+## PART V
 
 ## REVOCATION OF PERMITS AND APPEALS
 
@@ -70,7 +72,7 @@ PrELIMINarY 1. Short title and commencement 2. Non-application of the Act 3. Act
 
 29. Appeal against revocation of permit
 
-## Part VI
+## PART VI
 
 ## MONITORING AND TRACKING
 
@@ -78,7 +80,7 @@ PrELIMINarY 1. Short title and commencement 2. Non-application of the Act 3. Act
 
 31. Notification for application of patent
 
-## Part VII
+## PART VII
 
 ## CLEARING HOUSE MECHANISM
 
@@ -94,7 +96,7 @@ PrELIMINarY 1. Short title and commencement 2. Non-application of the Act 3. Act
 
 34. Measures to support laws of other countries
 
-## Part IX
+## PART IX
 
 ## POWERS RELATING TO ENFORCEMENT, SEIZURE, ARREST, ETC.
 
@@ -128,7 +130,7 @@ PrELIMINarY 1. Short title and commencement 2. Non-application of the Act 3. Act
 
 49. Additional powers
 
-## Part X
+## PART X
 
 ## GENERAL
 
@@ -162,9 +164,9 @@ PrELIMINarY 1. Short title and commencement 2. Non-application of the Act 3. Act
 
 63. Transitional provisions
 
-## FIrst schEduLE
+## FIRST SCHEDULE
 
-## sEcoNd schEduLE
+## SECOND SCHEDULE
 
 <!-- page 5 -->
 
@@ -186,7 +188,7 @@ Malaysia as follows:
 
 <!-- page 6 -->
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -372,7 +374,7 @@ and who speak an aboriginal or a native language and habitually follow and embod
 
 (2) For the purposes of this section, “small farmer” has the meaning assigned to it in the Protection of New Plant Varieties Act 2004.
 
-## Part II
+## PART II
 
 ## AUTHORITIES
 
@@ -456,7 +458,7 @@ and who speak an aboriginal or a native language and habitually follow and embod
 
 (4) The Advisory Committee shall, upon request, provide advice on scientific, legal, technical, ethical and other relevant disciplines to the National Competent Authority and the Competent Authority.
 
-## Part III
+## PART III
 
 ## REQUIREMENTS FOR PERMIT TO ACCESS BIOLOGICAL
 
@@ -776,7 +778,7 @@ such biological resource or traditional knowledge associated with a biological r
 
 <!-- page 29 -->
 
-## Part IV
+## PART IV
 
 ## PERMIT, REGISTER, RECORDS AND DISPOSAL
 
@@ -836,7 +838,7 @@ such biological resource or traditional knowledge associated with a biological r
 
 <!-- page 31 -->
 
-## Part V
+## PART V
 
 ## REVOCATION OF PERMITS AND APPEALS
 
@@ -876,7 +878,7 @@ such biological resource or traditional knowledge associated with a biological r
 
 (3) For the purposes of this section, “Court” means the High Court of Malaya and the High Court in Sabah and Sarawak or either of the High Court in Malaya and the High Court in Sabah and Sarawak, as the case may require.
 
-## Part VI
+## PART VI
 
 ## MONITORING AND TRACKING
 
@@ -906,7 +908,7 @@ such biological resource or traditional knowledge associated with a biological r
 
 (b) where such person is a body corporate, to a fine of not exceeding five hundred thousand ringgit.
 
-## Part VII
+## PART VII
 
 ## CLEARING HOUSE MECHANISM
 
@@ -950,7 +952,7 @@ such biological resource or traditional knowledge associated with a biological r
 
 (3) A notification by a Competent Authority of the other Party to the Protocol to the National Competent Authority that it has not issued a permit or its equivalent for access to its biological resource or traditional knowledge associated with a biological resource, or mutually agreed terms have been established, shall be prima facie evidence of the notification.
 
-## Part IX
+## PART IX
 
 ## POWERS RELATING TO ENFORCEMENT, SEIZURE, ARREST, ETC.
 
@@ -1112,7 +1114,7 @@ commits an offence and shall, on conviction, be liable to a fine not exceeding o
 
 <!-- page 43 -->
 
-## Part X
+## PART X
 
 ## GENERAL
 
@@ -1312,103 +1314,103 @@ if the act was done in good faith and in a reasonable belief that it was necessa
 
 <!-- page 52 -->
 
-## FIrst schEduLE
+## FIRST SCHEDULE
 
 [Subsection 9(1)]
 
 ## COMPETENT AUTHORITIES
 
-### Competent Authority
+<!-- marginal: Competent Authority -->
 
 ### Biological Resource
 
-<!-- marginal: Region -->
+### Region
 
-<!-- marginal: Federal Territory of -->
+Federal Territory of
 
-Ministry of Federal Territories All covered under this Act Kuala Lumpur, Labuan
+<!-- marginal: Ministry of Federal Territories -->
 
-<!-- marginal: and Putrajaya -->
+All covered under this Act Kuala Lumpur, Labuan and Putrajaya
 
-Johor State Economic Planning All covered under this Act
+<!-- marginal: Johor State Economic Planning -->
 
-<!-- marginal: Johore -->
+All covered under this Act Johore
 
-Unit
+<!-- marginal: Unit -->
 
-Kedah State Economic All covered under this Act
+<!-- marginal: Kedah State Economic -->
 
-<!-- marginal: Kedah -->
+All covered under this Act Kedah
 
-Planning Unit
+<!-- marginal: Planning Unit -->
 
-Kelantan State Economic All covered under this Act
+<!-- marginal: Kelantan State Economic -->
 
-<!-- marginal: Kelantan -->
+All covered under this Act Kelantan
 
-Planning Unit
+<!-- marginal: Planning Unit -->
 
-Melaka State Economic All covered under this Act
+<!-- marginal: Melaka State Economic -->
 
-<!-- marginal: Malacca -->
+All covered under this Act Malacca
 
-Planning Unit
+<!-- marginal: Planning Unit -->
 
-Negeri Sembilan State Forestry All covered under this Act
+<!-- marginal: Negeri Sembilan State Forestry -->
 
-<!-- marginal: Negeri Sembilan -->
+All covered under this Act Negeri Sembilan
 
-Department
+<!-- marginal: Department -->
 
-Pahang State Economic All covered under this Act
+<!-- marginal: Pahang State Economic -->
 
-<!-- marginal: Pahang -->
+All covered under this Act Pahang
 
-Planning Division
+<!-- marginal: Planning Division -->
 
-Penang State Economic All covered under this Act
+<!-- marginal: Penang State Economic -->
 
-<!-- marginal: Penang -->
+All covered under this Act Penang
 
-Planning Unit
+<!-- marginal: Planning Unit -->
 
-Perak State Economic All covered under this Act
+<!-- marginal: Perak State Economic -->
 
-<!-- marginal: Perak -->
+All covered under this Act Perak
 
-Planning Unit
+<!-- marginal: Planning Unit -->
 
-Perlis State Economic Planning All covered under this Act
+<!-- marginal: Perlis State Economic Planning -->
 
-<!-- marginal: Perlis -->
+All covered under this Act Perlis
 
-Unit
+<!-- marginal: Unit -->
 
-Selangor State Economic All covered under this Act
+<!-- marginal: Selangor State Economic -->
 
-<!-- marginal: Selangor -->
+All covered under this Act Selangor
 
-Planning Unit
+<!-- marginal: Planning Unit -->
 
-Terengganu State Economic All covered under this Act
+<!-- marginal: Terengganu State Economic -->
 
-<!-- marginal: Terengganu -->
+All covered under this Act Terengganu
 
-Planning Unit
+<!-- marginal: Planning Unit -->
 
-Sabah Biodiversity Council All covered under this Act
+<!-- marginal: Sabah Biodiversity Council -->
 
-<!-- marginal: Sabah -->
+All covered under this Act Sabah
 
-Ministry of Urban Development All covered under this Act
+<!-- marginal: Ministry of Urban Development -->
 
-<!-- marginal: Sarawak -->
+All covered under this Act Sarawak
 
-and Natural Resources
+<!-- marginal: and Natural Resources -->
 
 <!-- page 53 -->
 
-## sEcoNd schEduLE
+## SECOND SCHEDULE
 
 [Subsection 15(1)]
 

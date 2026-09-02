@@ -30,7 +30,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 2 -->
 
-2 Bill
+<!-- marginal: 2 -->
+
+Bill
 
 (c) in the English language text, by substituting for the full stop at the end of the definition of "trust company" a semicolon; and
 
@@ -86,7 +88,9 @@ offshore companies incorporated under the Offshore Companies Act 1990 and foreig
 
 <!-- page 4 -->
 
-4 Bill
+<!-- marginal: 4 -->
+
+Bill
 
 (iii) in paragraph (b), by substituting for the word "company" wherever appearing the word "applicant";
 

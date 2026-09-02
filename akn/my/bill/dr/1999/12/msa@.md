@@ -1,6 +1,8 @@
 <!-- page 1 -->
 
-Cawangan Pusat Sumber
+<!-- marginal: Cawangan -->
+
+Pusat Sumber
 
 ### D.R. 12/99
 
@@ -16,7 +18,9 @@ Cawangan Pusat Sumber
 
 ## PERMULAAN
 
-1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran
+1. Tajuk ringkas dan permulaan kuat kuasa
+
+2. Tafsiran
 
 ## BAHAGIAN II
 
@@ -24,7 +28,21 @@ Cawangan Pusat Sumber
 
 ## MANUSIA MALAYSIA
 
-3. Penubuhan Suruhanjaya 4. Fungsi dan kuasa Suruhanjaya 5. Anggota Suruhanjaya dan tempoh jawatan 6. Pengerusi dan Naib Pengerusi 7. Mesyuarat Suruhanjaya 8. Saraan 9. Pengosongan jawatan 10. Kehilangan kelayakan 11. Peletakan jawatan
+3. Penubuhan Suruhanjaya
+
+4. Fungsi dan kuasa Suruhanjaya
+
+5. Anggota Suruhanjaya dan tempoh jawatan
+
+6. Pengerusi dan Naib Pengerusi
+
+7. Mesyuarat Suruhanjaya 8. Saraan
+
+9. Pengosongan jawatan
+
+10. Kehilangan kelayakan
+
+11. Peletakan jawatan
 
 <!-- page 2 -->
 
@@ -34,7 +52,13 @@ III
 
 ## KUASA SIASATAN SURUHANJAYA
 
-12. Suruhanjaya boleh menyiasat atas kehendak sendiri atau atas aduan 13. Tatacara jika pelanggaran tidak didedahkan atau didedahkan 14. Kuasa yang berhubungan dengan siasatan 15. Keterangan di hadapan Suruhanjaya
+12. Suruhanjaya boleh menyiasat atas kehendak sendiri atau atas aduan
+
+13. Tatacara jika pelanggaran tidak didedahkan atau didedahkan
+
+14. Kuasa yang berhubungan dengan siasatan
+
+15. Keterangan di hadapan Suruhanjaya
 
 ## BAHAGIAN
 
@@ -48,7 +72,15 @@ IV
 
 AM
 
-19. Dana 20. Pemakaian Akta 240 21. Laporan tahunan 22. Peraturan-peraturan 23. Kuasa untuk membuat peraturan-peraturan tatatertib
+19. Dana
+
+20. Pemakaian Akta 240
+
+21. Laporan tahunan
+
+22. Peraturan-peraturan
+
+23. Kuasa untuk membuat peraturan-peraturan tatatertib
 
 <!-- page 3 -->
 
@@ -246,7 +278,7 @@ berbagai latar belakang agama dan kaum.
 
 ## BAHAGIAN
 
-<!-- marginal: III -->
+III
 
 ## KUASA SIASATAN SURUHANJAYA
 
@@ -298,7 +330,7 @@ berbagai latar belakang agama dan kaum.
 
 ## BAHAGIAN
 
-<!-- marginal: IV -->
+IV
 
 ## KAKITANGAN SURUHANJAYA
 

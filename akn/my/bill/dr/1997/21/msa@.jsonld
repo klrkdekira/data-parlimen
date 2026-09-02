@@ -26,22 +26,11 @@
       "eli:number": "DR-21-1997",
       "hasPart": [
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/21/msa@/~cl_1",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/21/msa@/~cl_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/21/msa@/~chp_2"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/21/msa@/~cl_2"
       ],
       "schema:name": {
         "@language": "ms",
         "@value": "Rang Undang-Undang Peguambela (Sabah) (Pindaan) 1997"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/21/msa@/~chp_2",
-      "@type": "akn:chapter",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/21/msa@",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "\"Singapore, or he has been\" perkataan \"conferred the degree of Bachelor of Laws (Honours) or\"."
       }
     },
     {
@@ -69,7 +58,7 @@
       },
       "schema:text": {
         "@language": "ms",
-        "@value": "perenggan 4(1)(cc) dengan memasukkan selepas perkataan"
+        "@value": "perenggan 4(1)(cc) dengan memasukkan selepas perkataan Bab 2. \"Singapore, or he has been\" perkataan \"conferred the degree of Bachelor of Laws (Honours) or\"."
       }
     }
   ]

@@ -34,7 +34,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 2 -->
 
-2 Rang Undang-Undang
+<!-- marginal: 2 -->
+
+Rang Undang-Undang
 
 (d) dengan memasukkan selepas takrif "pilihan raya" takrif yang berikut:
 
@@ -46,7 +48,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (a) dengan memotong perkataan "atau" di hujung perenggan
 
-### (1);
+(1);
 
 (b) dengan menggantikan koma yang terdapat di hujung perenggan (m) dengan koma bertitik;
 
@@ -254,19 +256,13 @@ Kesalahan Pilihan Raya (Pindaan)
 
 24'A. (1) Tiada seorang, pun; boleh, pada;;hari atau hari-hari penamaan—
 
-(a) memberikan atau membekalkan apa-apa alat muzik atau pembesar surat kepada mana-mana prang dengan tujuan supaya alat muzik atau pernbesar, suara itu digunakan oleh mana-mana orang dengan apa-apa cara atau digunakan di dalam atau di atas mana-mana vesel, binatang, motokar, tidak ,atau kenderaan
-
-<!-- marginal: lain; atau -->
+(a) memberikan atau membekalkan apa-apa alat muzik atau pembesar surat kepada mana-mana prang dengan tujuan supaya alat muzik atau pernbesar, suara itu digunakan oleh mana-mana orang dengan apa-apa cara atau digunakan di dalam atau di atas mana-mana vesel, binatang, motokar, tidak ,atau kenderaan lain; atau
 
 (b) menggunakan sendiri atau menggunakan di dalam atau di atas mana-mana vesel, binatang, motokar trak atau kenderaan lain mana-mana alat muzik atau pembesar suara itu,
 
 sebagai, atau bagi maksud, diayah politik;
 
-(2) Tiada seorang pun boleh pada hari atau hari-hari penamaan, menunggu atau berdiri-diri dalam
-
-<!-- marginal: jarak lima puluh -->
-
-meter dari sempadan mana-mana tempat
+(2) Tiada seorang pun boleh pada hari atau hari-hari penamaan, menunggu atau berdiri-diri dalam jarak lima puluh meter dari sempadan mana-mana tempat
 
 <!-- marginal: penamaan. -->
 
@@ -326,7 +322,9 @@ apa-apa iklan, risalah, brosur, bendera, panji-panji, sepanduk, tetunggul, poste
 
 (9) J i ka kos pembersihan bahan yang disebut dalam subseksyen (8)(b) melebihi deposit yang dilucuthakkan di bawah subseksyen (8)(a), perbezaannya hendaklah menjadi hutang. yang kena dibayar oleh calon itu kepada Kerajaan Persekutuan dan boleh didapatkan daripada calon itu dengan sewajarnya,
 
-(10) Mana-mana orang yang melanggar subseksyen (3), (4) atau (7) boleh,' apabila disabitkan, dipenjarakan selama
+(10) Mana-mana orang yang melanggar subseksyen (3),
+
+(4) atau (7) boleh,' apabila disabitkan, dipenjarakan selama
 
 <!-- page 12 -->
 
@@ -486,7 +484,9 @@ Kesalahan Pilihan Raya (Pindaan)
 
 (b) mengumumkan keputusan itu di mahkamah terbuka.
 
-(2) Hakim Pilihan Raya itu hendaklah dalam masa empat belas hari selepas membuat keputusannya di bawah subseksyen (1) membuat perakuan mengenai keputusannya itu—
+(2) Hakim Pilihan Raya itu hendaklah dalam masa empat belas hari selepas membuat keputusannya di bawah subseksyen
+
+(1) membuat perakuan mengenai keputusannya itu—
 
 (a) kepada Suruhanjaya Pilihan Raya daiam hal pemilihan seseorang sebagai ahli Dewan Rakyat, Dewan Undangan, pihak berkuasa tempatan di bawah bidang kuasa Kerajaan Persekutuan atau dalam hal apa-apa pemilihan lain yang Suruhanjaya Pilihan Raya mungkin diberi kuasa untuk menjalankannya; atau
 
@@ -564,7 +564,9 @@ Kesalahan Pilihan Raya (Pindaan)
 
 <!-- page 20 -->
 
-20 Rang Undang-Undang
+<!-- marginal: 20 -->
+
+Rang Undang-Undang
 
 ### Pindaan Jadual Pertama
 
@@ -596,9 +598,7 @@ Tarikh ........................... Tarikh ...........................
 
 <!-- page 21 -->
 
-Kesalahan Pilihan Raya (Pindaan)
-
-<!-- marginal: 21 -->
+Kesalahan Pilihan Raya (Pindaan) 21
 
 ### Pindaan Jadual Kedua
 
@@ -610,23 +610,13 @@ Kesalahan Pilihan Raya (Pindaan)
 
 (i) dalam kaedah -2-
 
-(A) dengan mmotong
-
-<!-- marginal: takrif "Akta"; -->
+(A) dengan mmotong takrif "Akta";
 
 (B) dialam takrif "Pendaftar derigan memasukkan selepas perkataan "Mahkamah Tinggi" perkataan "dan termasuklah Timbalan Pendaftar dan Penolong Kanan Pendaftar Mahkamah Tinggi ;
 
 (ii) dalam subkaedah 4(4), dengan menggantikan perenggan'(3) borang dengan perenggan yang berikut:
 
-(3) Dan pempetisyen pempetisyen
-
-<!-- marginal: tuan -->
-
-menyatakan bahawa
-
-<!-- marginal: diii sini dinyatakan fakta-fakta -->
-
-dan alasan-alasan yang padat dan ringkas yang padanya pempetisyen-pempetisyen bergantung)";
+(3) Dan pempetisyen pempetisyen tuan menyatakan bahawa diii sini dinyatakan fakta-fakta dan alasan-alasan yang padat dan ringkas yang padanya pempetisyen-pempetisyen bergantung)";
 
 (iii);dalam kaeaah 9.-~
 
@@ -638,15 +628,13 @@ dan alasan-alasan yang padat dan ringkas yang padanya pempetisyen-pempetisyen be
 
 (v) dalam keadah .12—
 
-(A) dalam subkaedah (1), dengan memotong perkataan a t au dalam masa
-
-<!-- marginal: tiga hari -->
-
-kemudiannya,";
+(A) dalam subkaedah (1), dengan memotong perkataan a t au dalam masa tiga hari kemudiannya,";
 
 <!-- page 22 -->
 
-22 Rang Undang-Undang
+<!-- marginal: 22 -->
+
+Rang Undang-Undang
 
 (B) dalam subkaedah (2), dengan menggantikan perkataan "dua ribu" dengan perkataan "sepuluh ribu"; dan
 
@@ -670,9 +658,7 @@ kemudiannya,";
 
 <!-- page 23 -->
 
-Kesalahan Pilihan Raya (Pindaan)
-
-<!-- marginal: 23 -->
+Kesalahan Pilihan Raya (Pindaan) 23
 
 suatu salinan notis mengenai pengemukaan petisyen itu dan suatu salinan petisyen itu boleh didapati oleh responden dengan percuma atas permohonan di pejabat Pendaftar.
 
@@ -694,17 +680,15 @@ hendaklah, sehmgga dibUktikan sebaliknya, menjadi keterangan bahawa penerima tel
 
 <!-- page 24 -->
 
-24 Rang Undang-Undang
+<!-- marginal: 24 -->
+
+Rang Undang-Undang
 
 (4) Suatu affidavit penyampaian dokumen yang disebut dalam subkaedah (1) yang menyatakan oleh siapa dokumen itu disampaikan, hari dalam minggu dan tarikh dokumen itu disampaikan, di mana dokumen itu disampaikan dan bagaimana dokumen itu disampaikan mestilah difailkan di Mahkamah-di mana petisyen itu dikemukakan.";
 
 (vii) dalam kaedah 17—
 
-(A) dengan menggantikan perkataan
-
-<!-- marginal: "dan -->
-
-respond n-responden yang masing-masing dilantik di bawah kaedah 9 dan 10" dengan perkataan "yang dilantik di bawah kaedah 9 dan peguani bela bagi responden-responden";
+(A) dengan menggantikan perkataan "dan respond n-responden yang masing-masing dilantik di bawah kaedah 9 dan 10" dengan perkataan "yang dilantik di bawah kaedah 9 dan peguani bela bagi responden-responden";
 
 (B) dalam teks bahasa Inggeris, dengan menggantikan perkataan "affixed" dengan perkataan "posted"; dan
 
@@ -722,9 +706,7 @@ respond n-responden yang masing-masing dilantik di bawah kaedah 9 dan 10" dengan
 
 <!-- page 25 -->
 
-Kesalahan Pilihan Raya (Pindaan)
-
-<!-- marginal: 25 -->
+Kesalahan Pilihan Raya (Pindaan) 25
 
 (xii) dengan menggantikan kaedah 28 dengan kaedah yang berikut:
 

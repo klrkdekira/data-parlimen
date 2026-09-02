@@ -4,19 +4,19 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. This Act binds Federal Government and State Government 3. Interpretation
 
-## Part II
+## PART II
 
 ## DEPARTMENT OF STATISTICS MALAYSIA
 
 4. Department of Statistics Malaysia and its officers 5. Functions of Department of Statistics Malaysia 6. Delegation of powers
 
-## Part III
+## PART III
 
 ## NATIONAL STATISTICS COUNCIL
 
@@ -26,7 +26,7 @@
 
 11. Committees
 
-## Part IV
+## PART IV
 
 ## DATA COLLECTION, PUBLICATION AND COMMUNICATION
 
@@ -38,7 +38,7 @@
 
 <!-- page 2 -->
 
-## Part V
+## PART V
 
 ## GENERAL
 
@@ -54,7 +54,7 @@
 
 20. Prosecution
 
-## Part VI
+## PART VI
 
 ## REPEAL
 
@@ -72,7 +72,7 @@ An Act to provide for the functions of the Department of Statistics Malaysia, es
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -116,7 +116,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 5 -->
 
-## Part II
+## PART II
 
 ## DEPARTMENT OF STATISTICS MALAYSIA
 
@@ -172,7 +172,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (2) The delegation of any power under this section shall not prevent the Chief Statistician from exercising the powers so delegated.
 
-## Part III
+## PART III
 
 ## NATIONAL STATISTICS COUNCIL
 
@@ -244,7 +244,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (8) A committee may determine its own procedure.
 
-## Part IV
+## PART IV
 
 ## DATA COLLECTION, PUBLICATION AND COMMUNICATION
 
@@ -284,7 +284,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (4) Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit.
 
-## Part V
+## PART V
 
 ## GENERAL
 
@@ -336,7 +336,7 @@ was purporting to act in the capacity or was in any manner or to any extent resp
 
 20. No prosecution for an offence under this Act shall be instituted without the consent in writing of the Public Prosecutor.
 
-## Part VI
+## PART VI
 
 ## REPEAL
 
@@ -358,7 +358,7 @@ was purporting to act in the capacity or was in any manner or to any extent resp
 
 The Bill (“the proposed Act”) seeks to provide for the functions of the Department of Statistics Malaysia, establishment of the National Statistics Council, matters relating to data and statistics and other related matters.
 
-## Part I
+## PART I
 
 2. Part I of the proposed Act deals with the preliminary matters.
 
@@ -368,7 +368,7 @@ The Bill (“the proposed Act”) seeks to provide for the functions of the Depa
 
 5. Clause 3 contains the definition of certain words and expressions used in the proposed Act.
 
-## Part II
+## PART II
 
 6. Part II of the proposed Act deals with the provisions relating to the Department of Statistics Malaysia.
 
@@ -378,7 +378,7 @@ The Bill (“the proposed Act”) seeks to provide for the functions of the Depa
 
 9. Clause 6 seeks to enable the Chief Statistician to delegate his powers to any Deputy Chief Statistician or officer of the Department of Statistics Malaysia.
 
-## Part III
+## PART III
 
 10. Part III of the proposed Act deals with the provisions relating to the National Statistics Council (“Council”).
 
@@ -394,7 +394,7 @@ The Bill (“the proposed Act”) seeks to provide for the functions of the Depa
 
 15. Clause 11 seeks to empower the Council to establish any committee and to provide for the matters relating to it.
 
-## Part IV
+## PART IV
 
 16. Part IV of the proposed Act deals with the provisions relating to data collection, publication and communication.
 
@@ -404,7 +404,7 @@ The Bill (“the proposed Act”) seeks to provide for the functions of the Depa
 
 19. Clause 14 seeks to provide for the requirements for the publication and communication of data or statistics. This clause also provides that the request for data or statistics may be made in the form and manner determined by the Chief Statistician and the prescribed fee shall be paid.
 
-## Part V
+## PART V
 
 20. Part V of the proposed Act deals with general provisions.
 
@@ -422,7 +422,7 @@ The Bill (“the proposed Act”) seeks to provide for the functions of the Depa
 
 26. Clause 20 seeks to provide that no prosecution shall be instituted for any offence under the proposed Act without the consent in the writing of the Public Prosecutor.
 
-## Part VI
+## PART VI
 
 27. Part VI of the proposed Act deals with the repeal provision.
 

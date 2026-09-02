@@ -1,0 +1,1722 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-13-2017",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Malaysian Border Security Agency Bill 2017"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY Short title and commencement"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_II__cl_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "MALAYSIAN BORDER SECURITY AGENCY Establishment of Malaysian Border Security Agency"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "HIGH LEVEL COMMITTEE High Level Committee"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A committee to be known as the High Level Committee for the Agency is established for the purpose of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2__para_l",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2__para_m",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2__para_n",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2__para_o",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2__para_p",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2__para_q",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2__para_r",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2__para_s"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The High Level Committee shall consist of the following members:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Minister as Chairman;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Minister in the Prime Minister’s Department;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Minister charged with the responsibility for finance;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Minister charged with the responsibility for transport;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Minister charged with the responsibility for medical and health service;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Minister charged with the responsibility for plantation industries and commodities;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Minister charged with the responsibility for tourism and culture;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Minister charged with the responsibility for defence;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Minister charged with the responsibility for agriculture and agro-based industry;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Minister charged with the responsibility for foreign affairs;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Minister charged with the responsibility for natural resources and environment;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Secretary General of the Ministry charged with the responsibility for internal security;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2__para_m",
+      "@type": "akn:paragraph",
+      "eli:number": "m",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chief of Defence Forces;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2__para_n",
+      "@type": "akn:paragraph",
+      "eli:number": "n",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Inspector General of Police;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2__para_o",
+      "@type": "akn:paragraph",
+      "eli:number": "o",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Director General of the National Security, National Security Council;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2__para_p",
+      "@type": "akn:paragraph",
+      "eli:number": "p",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Director General of the Royal Malaysian Customs Department;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2__para_q",
+      "@type": "akn:paragraph",
+      "eli:number": "q",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Director General of the Immigration Department of Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2__para_r",
+      "@type": "akn:paragraph",
+      "eli:number": "r",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Director General of the National Anti-Drugs Agency; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2__para_s",
+      "@type": "akn:paragraph",
+      "eli:number": "s",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Director General of the National Kenaf and Tobacco Board. Meetings of High Level Committee"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_6__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_6__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The High Level Committee shall meet as often as may be necessary."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Seven members, including the Chairman, shall form the quorum of a meeting of the High Level Committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The High Level Committee may invite any person not being a member of the High Level Committee to attend its meetings to advise the High Level Committee on any matter under discussion."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_6__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Agency may appoint from amongst the officers of the Agency to be the secretariat for the High Level Committee. Function of High Level Committee"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The High Level Committee shall deliberate and decide on the recommendations made by the Coordinating Committee and the Agency or any matter relating to Malaysian land border security."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_II__cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_II__cl_3__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_II__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An agency by the name of the “Malaysian Border Security Agency” is established."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_II__cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Agency shall, subject to this Act, be employed at the Malaysian land border for securing any smuggling activities or other illegal activities at the Malaysian land border. Functions of Agency"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_II__cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_II__cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_II__cl_4__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_II__cl_4__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_II__cl_4__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_II__cl_4__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_II__cl_4__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_II__cl_4__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Agency shall have the following functions:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_II__cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to carry out Malaysian land border control;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_II__cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to make recommendations on matters relating to Malaysian land border security or for matters provided for under this Act to the High Level Committee and the Coordinating Committee;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_II__cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to receive any report of the commission of an offence in relation to smuggling activities or other illegal activities at the Malaysian land border;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_II__cl_4__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prevent and suppress the commission of an offence in relation to smuggling activities or other illegal activities at the Malaysian land border;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_II__cl_4__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to coordinate the implementation of enforcement by the Agency with other agencies at the Malaysian land border;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_II__cl_4__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to monitor any smuggling activities or other illegal activities at the Malaysian land border;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_II__cl_4__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to formulate policies and programmes to prevent any smuggling activities or other illegal activities at the Malaysian land border; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_II__cl_4__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "generally to perform any other function for ensuring Malaysian land border security and wellbeing or do all matters incidental to its functions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_10"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "COORDINATING COMMITTEE Coordinating Committee"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_10__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_10__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_10__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_10__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_10__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_10__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_10__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_10__subsec_1__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_10__subsec_1__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_10__subsec_1__para_i"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Coordinating Committee shall have the following functions:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_10__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "coordinating the implementation of this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_10__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to make recommendations on matters relating to Malaysian land border security or for matters provided for under this Act to the High Level Committee;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_10__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "implementing all the decisions made by the High Level Committee;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_10__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "formulating policies and programmes to prevent any smuggling activities or other illegal activities at the Malaysian land border;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_10__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "monitoring any smuggling activities or other illegal activities at the Malaysian land border and to secure response from the relevant Government agencies and organizations;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_10__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "certifying the recommendations made by the Agency to the High Level Committee;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_10__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "considering measures to secure any smuggling activities or other illegal activities at the Malaysian land border;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_10__subsec_1__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "cooperating and coordinating with Government agencies and international organizations on any smuggling activities or other illegal activities at the Malaysian land border; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_10__subsec_1__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "performing any other functions for the proper implementation of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Coordinating Committee may establish any committee as the Coordinating Committee thinks necessary or expedient to assist the Coordinating Committee in the performance of its functions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A Coordinating Committee is established for the purpose of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_l",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_m",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_n",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_o",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_p",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_q",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_r",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_s",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_t",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_u",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_v"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Coordinating Committee shall consist of the following members:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Secretary General of the Ministry charged with the responsibility for internal security as Chairman;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Commissioner General;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Director General of the National Security, National Security Council;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Director General of the Royal Malaysian Customs Department;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Director General of the Immigration Department of Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Director General of the Department of Wildlife and National Parks, Peninsular Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Director General of Agriculture, Department of Agriculture;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chief Commissioner of the Malaysia Civil Defence Force;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Director General of the Government Security;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_j__subpara_RELA",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chief Commissioner of the Malaysia Volunteers Corps"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_j__subpara_RELA",
+      "@type": "akn:subparagraph",
+      "eli:number": "RELA",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_j",
+      "schema:text": {
+        "@language": "en",
+        "@value": ";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Director General of the National Anti-Drugs Agency;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Director General of the National Kenaf and Tobacco Board;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_m",
+      "@type": "akn:paragraph",
+      "eli:number": "m",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Director of Internal Security and Public Order Department, Royal Malaysia Police;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_n",
+      "@type": "akn:paragraph",
+      "eli:number": "n",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Director of the Management Department, Royal Malaysia Police;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_o",
+      "@type": "akn:paragraph",
+      "eli:number": "o",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chief Police Officer for the State of Kedah;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_p",
+      "@type": "akn:paragraph",
+      "eli:number": "p",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chief Police Officer for the State of Perak;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_q",
+      "@type": "akn:paragraph",
+      "eli:number": "q",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chief Police Officer for the State of Sabah;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_r",
+      "@type": "akn:paragraph",
+      "eli:number": "r",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chief Police Officer for the State of Sarawak;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_s",
+      "@type": "akn:paragraph",
+      "eli:number": "s",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chief Police Officer for the State of Kelantan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_t",
+      "@type": "akn:paragraph",
+      "eli:number": "t",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chief Police Officer for the State of Perlis;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_u",
+      "@type": "akn:paragraph",
+      "eli:number": "u",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a representative from the Ministry of Finance; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2__para_v",
+      "@type": "akn:paragraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a representative from the Ministry of Defence. Meetings of Coordinating Committee"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_9__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_9__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Coordinating Committee shall meet as often as may be necessary."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Seven members, including the Chairman, shall form the quorum of a meeting of the Coordinating Committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Coordinating Committee may invite any person not being a member of the Coordinating Committee to attend its meetings to advise the Coordinating Committee on any matter under discussion."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_9__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Agency may appoint from amongst the officers of the Agency to be the secretariat for the Coordinating Committee. Functions of Coordinating Committee"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Malaysian Border Security Agency Act 2017."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Interpretation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_I__cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_I__cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_I__cl_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "“Agency” means the Malaysian Border Security Agency established under section 3; “Government Entities” includes—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_I__cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any ministry, department, office, agency, authority, commission, committee, board or council of the Federal Government, or of any of the State Governments, established under any written law or otherwise;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_I__cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any local authorities; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_I__cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the security forces; “High Level Committee” means the High Level Committee established under subsection 5(1); “Coordinating Committee” means the Coordinating Committee of the Agency established under subsection 8(1); “Commissioner General” means the Commissioner General of the Agency appointed under subsection 11(1); “Minister” means the Minister charged with the responsibility for internal security; “officer of the Agency” includes the Commissioner General and the Deputies Commissioner General appointed under section 11, and any officer of the Agency appointed under subsection 13(1); “Malaysian land border” means land border between Malaysia and Thailand, Malaysia and Indonesia, and Malaysia and Brunei."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_15"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "OFFICER OF THE AGENCY Appointment of Commissioner General and Deputy Commissioner General of Agency"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_28"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "GENERAL Uniform and equipment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VII",
+      "@type": "akn:part",
+      "eli:number": "VII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VII__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VII__cl_30"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "SAVING AND TRANSITIONAL Existing committees"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VII__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All committees established under the Directive No. 15 of the National Security Council and in force immediately before the commencement of this Act shall, upon the commencement of this Act, continue to remain in force until dissolved pursuant to section 44 of the National Security Council Act 2016 [Act 776]. Existing Anti-Smuggling Unit"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VII__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VII__cl_30__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VII__cl_30__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VII__cl_30__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VII__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any act done or action taken prior to the commencement of this Act by the existing Anti-Smuggling Unit established by the Federal Government shall be deemed to have been done or taken by the Agency under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VII__cl_30__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VII__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any directive, order or decision made by the existing Anti-Smuggling Unit and in force immediately before the commencement of this Act shall, upon the commencement of this Act, so far as it is consistent with this Act, continue to remain in force until it is revoked by the Agency."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An officer of the Agency shall be supplied with such uniform and equipment and wear such badges of rank as the Minister may determine. Uniform and equipment to be delivered up on ceasing to be officer of Agency"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_17__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_17__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "When an officer of the Agency ceases to be the officer of the Agency he shall, within fourteen days, deliver to the person appointed by the Commissioner General for that purpose his uniform and equipment which have been supplied to him."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An officer of the Agency who, having ceased to be an officer of the Agency, without good cause fails to comply with subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding three months or to both, and, in addition, shall be liable to pay the value of the property not delivered up, and such value may be ascertained by the court in a summary manner and shall be recoverable as a fine. Personation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_18__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_18__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Any person not being an officer of the Agency who—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "pretends to be an officer of the Agency knowing that he is not;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "falsely personates an officer of the Agency; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_18__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in such assumed character does or attempts to do any act under colour of being an officer of the Agency, commits an offence and shall, on conviction, be punished with imprisonment for a term not exceeding seven years or be liable to a fine not exceeding ten thousand ringgit or to both. Rank of officer of Agency"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_19__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The ranks of the officers of the Agency are as set out in the Schedule."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, by order published in the Gazette, amend the Schedule. Prosecution"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No prosecution for an offence under this Act shall be instituted except by, or with the written consent of, the Public Prosecutor. Obligations of secrecy"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_21__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_21__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_21__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_21__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_21__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Except for any of the purposes of this Act or for the purposes of any civil or criminal proceedings under any written law or where otherwise authorized by the Agency—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_21__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "no officer of the Agency or committee or any person attending any meeting of the Agency, High Level Committee or Coordinating Committee, whether during or after his tenure of office or employment, shall disclose any information obtained by him in the course of his duties; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_21__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "no other person who has by any means access to any information or document relating to the affairs of the Agency shall disclose such information or document."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_21__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding two years or to a fine not exceeding one hundred thousand ringgit or to both. Protection against suits and legal proceedings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No action, suit, prosecution or any other proceedings shall lie or be brought, instituted or maintained in any court against the Agency, any committee, any officer of the Agency or member of committee, or personnel of other Government Entities in respect of any act, neglect or default done or omitted by it or him in good faith, in such capacity. Public servant"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every officer of the Agency or member of committee or personnel of other Government Entities while discharging his duty or performing his functions under this Act in such capacity shall be deemed to be a public servant within the meaning of the Penal Code [Act 574]. Public Authorities Protection Act 1948"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Public Authorities Protection Act 1948 [Act 198] shall apply to any action, suit, prosecution or proceedings against the Agency, any committee, any officer of the Agency or member of committee, or personnel of other Government Entities in respect of any act, neglect or default done or committed by it or him in good faith or any omission by it or him in good faith, in such capacity. Standing Orders"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commissioner General may issue administrative orders to be called “Standing Orders”, consistent with the provisions of this Act, on the general control, training, duties and responsibilities of officers of the Agency, and for such other matters as may be necessary or expedient for the good administration of the Agency or for the prevention of the abuse of power or neglect of duty, and generally for ensuring the efficient and effective functioning of the Agency. Protection of informers from discovery"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_26__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_26__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_26__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_26__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Except as provided in this section, no witness in any civil or criminal proceedings shall be obliged or permitted to disclose the name or address of any informer or to state any matter which might lead to his discovery."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_26__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If any book, document or paper which are in evidence or liable to inspection in any civil or criminal proceedings contain any entry in which any informer is named or described or which might lead to the discovery of the informer, the court shall cause all such passages to be concealed from view or to be obliterated so far only as may be necessary to protect the informer from discovery."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_26__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If in the trial for any offence under this Act or any regulations made under the Act, the court, after full enquiry into the case, is of the opinion that the informer wilfully made in his complaint a material statement which he knew or believed to be false or did not believe to be true, or if in any other proceedings the court is of opinion that justice cannot be fully done between the parties thereto without the discovery of the informer, the court may require the production of the original complaint, if in writing, and permit enquiry and require full disclosure concerning the informer. Evidence of agent provocateur admissible"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_27__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_27__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_27__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding any law or rule of law to the contrary, in any proceedings against any person for an offence under this Act, no agent provocateur shall be presumed to be unworthy of credit by reason only of his having attempted to commit or to abet, or having abetted or having been engaged in a criminal conspiracy to commit such offence if the main purpose of such attempt, abetment or engagement was to secure evidence against such person."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_27__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding any law or rule of law to the contrary, a conviction for any offence under this Act solely on the uncorroborated evidence of any agent provocateur shall not be illegal and no such conviction shall be set aside merely because the court which tried the case has failed to refer in the grounds of its judgment to the need to warn itself against the danger of convicting on such evidence. Regulations"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may make such regulations as are necessary or expedient to give full effect to or for carrying out the provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_11__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_11__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_11__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Yang di-Pertuan Agong shall appoint a person from amongst the public officers to be the Commissioner General of the Agency for a period not exceeding three years and the person is eligible for reappointment for any period as the Yang di-Pertuan Agong considers necessary."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall appoint Deputies Commissioner General of the Agency from amongst the public officers for a period as the Minister thinks necessary or expedient for the purposes of carrying out and giving effect to the provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_11__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commissioner General shall be responsible to the High Level Committee and the Coordinating Committee for direction, command, control and supervision of all matters relating to the Agency."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_11__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commissioner General may, for giving full effect to any provision of this Act or for more convenient implementation of the provisions of this Act, issue any direction, order or decision as the Commissioner General thinks necessary or expedient. Revocation and resignation of Commissioner General"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_12__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Yang di-Pertuan Agong may, at any time, revoke the appointment of the Commissioner General appointed under subsection 11(1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commissioner General may, at any time, resign his office by giving a written notice to the Yang di-Pertuan Agong. Appointment of other officers of Agency"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_13__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_13__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_13__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_13__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_13__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_13__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_13__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_13__subsec_1__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall appoint such number of officers of the Agency from amongst the public officers as may be necessary for the purpose of carrying into effect the provisions of this Act as follows:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_13__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "police officers as specified in the Police Act 1967 [Act 344];"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_13__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "officers of customs as specified in the Customs Act 1967 [Act 235];"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_13__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "officers of immigration as specified in the Immigration Act 1959/63 [Act 155];"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_13__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "officers of the National Anti-Drugs Agency as specified in the National Anti-Drugs Agency 2004 [Act 638];"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_13__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "officers of the National Kenaf and Tobacco Board as specified in the National Kenaf and Tobacco Board Act 2009 [Act 692]; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_13__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other public officers as is considered necessary."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The appointment of other officers of the Agency under subsection (1) shall be for a period as the Minister thinks expedient."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_13__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An officer appointed under subsection (1) shall be subject to the direction, command, control and supervision of the Commissioner General or any other officer of the Agency superior to him in rank, and shall exercise his powers, perform his functions and discharge his duties in compliance with such direction, command or control as may be specified orally or in writing by the Commissioner General or any other officer of the Agency superior to him in rank. Powers of officers of Agency"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_14__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V",
+      "schema:name": {
+        "@language": "en",
+        "@value": "For the purposes of this Act—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an officer of the Agency shall have all the powers of a police officer of whatever rank as provided for under the Criminal Procedure Code [Act 593], and such powers shall be in addition to the powers provided for under this Act; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an officer of the Agency shall have all the powers conferred on an officer in charge of a police station under any other written law, and for such purpose the office of such officer shall be deemed to be a police station. Certificate of appointment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A certificate of appointment in the form of an authority card shall be issued to each officer of the Agency appointed under this Act and the card shall be signed by the Commissioner General and shall be prima facie evidence of the appointment under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Section 19] RANKS OF OFFICER OF THE AGENCY Commissioner General Deputy Commissioner General Commissioner Deputy Commissioner Superintendent Deputy Superintendent Assistant Superintendent Inspector Sub-Inspector Sergeant Major Sergeant Corporal Lance Corporal Constable"
+      }
+    }
+  ]
+}

@@ -382,7 +382,9 @@ Pelesenan) (Pindaan)
 
 (c) detain all or any persons found on any premises, or in any conveyance, searched under subsection (1) until such premises or conveyance have been searched.
 
-(3) If an Inspector has reasonable cause to suspect by reason of delay in obtaining a search warrant under subsection (1) that-
+(3) If an Inspector has reasonable cause to suspect by reason of delay in obtaining a search warrant under subsection
+
+(1) that-
 
 (a) the investigation would be adversely affected; or
 
@@ -392,7 +394,9 @@ he may enter the premises and exercise in, and in respect of the premises, all t
 
 (4) A list of all things seized in the course of a search made under this section and of the places in which they are respectively found shall be prepared by the Inspector conducting the search and signed by him.
 
-(5) The occupant of the premises entered under subsection (1), or some person on his behalf, shall in every instance be permitted to attend during the search, and a copy of the list prepared and signed under subsection (4) shall immediately be delivered to such occupant or person.
+(5) The occupant of the premises entered under subsection
+
+(1), or some person on his behalf, shall in every instance be permitted to attend during the search, and a copy of the list prepared and signed under subsection (4) shall immediately be delivered to such occupant or person.
 
 (6) An Inspector shall, unless otherwise ordered by any court—
 
@@ -684,7 +688,9 @@ Pelesenan) (Pindaan)
 
 as the Minister may determine.
 
-(3) The remuneration provided for in subsections (1) and (2) shall be charged on the Consolidated Fund.
+(3) The remuneration provided for in subsections (1) and
+
+(2) shall be charged on the Consolidated Fund.
 
 ### Secretary to Tribunal and other officers
 
@@ -964,7 +970,9 @@ Pelesenan) (Pindaan)
 
 16AG. (1) The Tribunal may, at the conclusion of the proceedings before it, order that any document, record, material or other property produced during the proceedings be delivered to the rightful owner or be disposed of in such manner as it thinks fit.
 
-(2) Where no person has taken delivery of the document, record, material or other property referred to in subsection (1) after a period of six months, the ownership in the document, record, material or other property shall be deemed to have passed to and become vested in the Government.
+(2) Where no person has taken delivery of the document, record, material or other property referred to in subsection
+
+(1) after a period of six months, the ownership in the document, record, material or other property shall be deemed to have passed to and become vested in the Government.
 
 ### Act or omission done in good faith
 
@@ -1156,9 +1164,7 @@ Pelesenan) (Pindaan)
 
 18. Fasal 24 bertujuan untuk memasukkan seksyen baru 13A ke dalam Akta 118 untuk melarang pindahan atau serah hak suatu lesen.
 
-19. Fasal 25 bertujuan untuk memasukkan Bahagian baru VI ke dalam Akta
-
-118. Bahagian ini memperkatakan penubuhan tribunal bagi aduan pembeli rumah. Bahagian ini juga mengandungi tatacara, fungsi, kuasa dan bidang kuasa tribunal dan kesan ketidakpatuhan award tribunal.
+19. Fasal 25 bertujuan untuk memasukkan Bahagian baru VI ke dalam Akta 118. Bahagian ini memperkatakan penubuhan tribunal bagi aduan pembeli rumah. Bahagian ini juga mengandungi tatacara, fungsi, kuasa dan bidang kuasa tribunal dan kesan ketidakpatuhan award tribunal.
 
 20. Fasal 27, 28, 29, 30 dan 31 bertujuan untuk meminda seksyen 18, 19, 20, 21 dan 22 Akta 118 untuk menaikkan penalti yang boleh dikenakan bagi kesalahan di bawah Akta 118.
 

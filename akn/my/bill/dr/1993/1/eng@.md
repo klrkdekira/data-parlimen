@@ -32,7 +32,7 @@ is amended by inserting, after the word "court", the words "in respect only of a
 
 <!-- page 2 -->
 
-2
+<!-- marginal: 2 -->
 
 ## BILL
 
@@ -46,11 +46,17 @@ is amended by inserting, after the word "court", the words "in respect only of a
 
 "(e) the appointment of members of the Special Court under Clause (6) of Article 181; or
 
-(f) the granting of pardons, reprieves and respites, or of remitting, suspending or commuting sentences, under Clause (12) of Article 42.".
+(f) the granting of pardons, reprieves and respites, or of remitting, suspending or commuting sentences, under Clause (12) of
 
-Amendment
+## Article 42.".
 
-4. Article 42 of the Federal Constitution is amended by of Article 42 inserting, after Clause (11), the following Clauses:
+<!-- marginal: Amendment -->
+
+4. Article 42 of the Federal Constitution is amended by
+
+<!-- marginal: of Article 42 -->
+
+inserting, after Clause (11), the following Clauses:
 
 "(12) Notwithstanding anything contained in this Constitution, where the powers mentioned in this Article
 
@@ -96,29 +102,23 @@ inserting, after Clause (4), the following Clause: "(5) Notwithstanding Clause (
 
 <!-- page 4 -->
 
-4
+<!-- marginal: 4 -->
 
 ## BILL
 
-State when taking part in any proceedings of the Legislative Assembly of any State or any committee thereof except where he advocates the abolition of the Ruler's position as
+State when taking part in any proceedings of the Legislative Assembly of any State or any committee thereof except where he advocates the abolition of the Ruler's position as the constitutional Ruler of that State.".
 
-<!-- marginal: the -->
+<!-- marginal: Amendment -->
 
-constitutional Ruler of that State.".
+7. Article 181 of the Federal Constitution is amended—
 
-Amendment
-
-7. Article 181 of the Federal Constitution is amended— of Article
+<!-- marginal: of Article -->
 
 181.
 
 (a) in Clause (2), by substituting for the words "in his personal capacity" the words "in respect only of anything done or omitted to be done by him in the exercise or purported exercise of his functions under any written law"; and
 
-(b) by inserting, after Clause (2), the following Clauses: "(3) Any law which provides for the immunity of the Ruler of a State in his personal capacity from any proceedings whatsoever in any court, or attaches sanctity to his residence, shall to that extent be void. (4) Notwithstanding Clause
-
-<!-- marginal: (1) of -->
-
-Article 32 and Clause (2) of Article 181, no court shall have jurisdiction to entertain or determine any action, civil or criminal, against the Yang di-Pertuan Agong or the Ruler of a State in respect of anything done or omitted to be done by him in his personal capacity. (5) Any proceedings against the Yang di-Pertuan Agong or the Ruler of a State in his personal capacity shall be brought in a Special Court established under Clause (6). (6) There shall be a court which shall be known as the Special Court and shall consist of the Lord President of the Supreme Court, who shall be the Chairman, the Chief Justices of the High Courts, and two other persons who hold or have held office as judge of the Supreme Court or a High Court appointed by the Conference of Rulers.
+(b) by inserting, after Clause (2), the following Clauses: "(3) Any law which provides for the immunity of the Ruler of a State in his personal capacity from any proceedings whatsoever in any court, or attaches sanctity to his residence, shall to that extent be void. (4) Notwithstanding Clause (1) of Article 32 and Clause (2) of Article 181, no court shall have jurisdiction to entertain or determine any action, civil or criminal, against the Yang di-Pertuan Agong or the Ruler of a State in respect of anything done or omitted to be done by him in his personal capacity. (5) Any proceedings against the Yang di-Pertuan Agong or the Ruler of a State in his personal capacity shall be brought in a Special Court established under Clause (6). (6) There shall be a court which shall be known as the Special Court and shall consist of the Lord President of the Supreme Court, who shall be the Chairman, the Chief Justices of the High Courts, and two other persons who hold or have held office as judge of the Supreme Court or a High Court appointed by the Conference of Rulers.
 
 <!-- page 5 -->
 
@@ -138,9 +138,33 @@ Article 32 and Clause (2) of Article 181, no court shall have jurisdiction to en
 
 purpose such rules may make any modification, adaptation, alteration, change or amendment whatsoever to any written law.".
 
-prohibition
+<!-- marginal: prohibition -->
 
-8. For the avoidance of any doubt, it is hereby declared that no proceedings whatsoever shall be brought in any proceedings in court in court against the Yang di-Pertuan Agong or the Ruler respect of of a State in his personal capacity in respect of anything acts done or done or omitted to be done by him betore the coming omitted to be done before the commen cement of this Act,
+8. For the avoidance of any doubt, it is hereby declared that no proceedings whatsoever shall be brought in any
+
+<!-- marginal: proceedings -->
+
+<!-- marginal: in court in -->
+
+court against the Yang di-Pertuan Agong or the Ruler
+
+<!-- marginal: respect of -->
+
+of a State in his personal capacity in respect of anything
+
+<!-- marginal: acts done or -->
+
+done or omitted to be done by him betore the coming
+
+<!-- marginal: omitted to be -->
+
+<!-- marginal: done before -->
+
+<!-- marginal: the commen -->
+
+<!-- marginal: cement of -->
+
+<!-- marginal: this Act, -->
 
 ## EXPLANATORY STATEMENT
 

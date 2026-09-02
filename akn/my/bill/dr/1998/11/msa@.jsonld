@@ -1,0 +1,207 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-11-1998",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@/~cl_4"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Kualiti Alam Sekeliling (Pindaan) 1998"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Kualiti Alam"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sekeliling (Pindaan) 1998."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini hendaklah mula berkuat kuasa pada tarikh"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@/~cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@/~cl_3__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Kualiti Alam Sekeliling 1974, yang disebut \"Akta"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ibu\" dalam Akta ini, adalah dipinda dengan memasukkan selepas seksyen 29 seksyen yang berikut: Larangan 29A. (1) Walau apa pun apa-apa yang atas berlawanan yang terkandung dalam Akta ini, pemba- karan tiada seorang pun boleh membenarkan atau terbuka. menyebabkan pembakaran terbuka di mana-mana premis."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@/~cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang melanggar subseksyen (1) adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi lima ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@/~cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@/~cl_3__subsec_3__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@/~cl_3__subsec_3__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud subseksyen (1)— \"pembakaran terbuka\" ertinya apa-apa kebakaran, pembakaran atau pembaraan yang berlaku di udara bebas dan yang tidak dihalakan ke udara bebas itu melalui serombong atau cerobong, tetapi tidak termasuk apa-apa kebakaran, pembakaran atau pembaraan yang berlaku bagi aktiviti-aktiviti yang ditetapkan oleh Menteri melalui perintah yang disiarkan dalam Warta; \"premis\" termasuklah mana-mana tanah. 29s. Jika pembakaran terbuka berlaku di mana- mana premis—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@/~cl_3__subsec_3__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@/~cl_3__subsec_3__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@/~cl_3__subsec_3__list_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@/~cl_3__subsec_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@/~cl_3__subsec_3__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@/~cl_3__subsec_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pemunya; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@/~cl_3__subsec_3__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@/~cl_3__subsec_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penduduk, premis itu yang mempunyai kawalan atas premis itu adalah disifatkan telah melanggar subseksyen 29A(1) melainkan jika dibuktikan selainnya. 29c. Dalam apa-apa pendakwaan di bawah seksyen 29A atau 29B, adalah menjadi pembelaan jika orang, pemunya atau penduduk premis itu membuktikan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@/~cl_3__subsec_3__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@/~cl_3__subsec_3__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@/~cl_3__subsec_3__list_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@/~cl_3__subsec_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@/~cl_3__subsec_3__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@/~cl_3__subsec_3__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bahawa pembakaran terbuka itu berlaku di luar kawalannya atau tanpa pengetahuan atau pembiaran atau persetujuannya; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@/~cl_3__subsec_3__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@/~cl_3__subsec_3__list_2__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@/~cl_3__subsec_3__list_2__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@/~cl_3__subsec_3__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bahawa dia—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@/~cl_3__subsec_3__list_2__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@/~cl_3__subsec_3__list_2__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mengambil segala berjaga-jaga yang munasabah; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@/~cl_3__subsec_3__list_2__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@/~cl_3__subsec_3__list_2__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menjalankan segala usaha yang wajar, untuk mencegah pelakuan kesalahan yang sepatutnya diambil dan di- laksanakan olehnya dengan mengambil kira jenis tanggungjawabnya atas sifat itu dan kepada segala hal keadaan.'."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/11/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan menggantikan seksyen"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "44 dengan seksyen yang berikut: Pendak- 44. Tiada pendakwaan boleh dimulakan bagi waan. suatu kesalahan di bawah Akta ini atau peraturan- peraturan yang dibuat di bawahnya tanpa keizinan bertulis Pendakwa Raya.\"."
+      }
+    }
+  ]
+}

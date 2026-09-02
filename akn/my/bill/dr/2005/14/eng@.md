@@ -8,9 +8,7 @@
 
 ## PRELIMINARY
 
-1. Short title and commencement
-
-2. Interpretation
+1. Short title and commencement 2. Interpretation
 
 ## PART II
 
@@ -20,19 +18,7 @@
 
 Establishment
 
-3. Establishment of Corporation
-
-4. Objects of Corporation
-
-5. Common seal and facsimile seal
-
-6. Execution of documents
-
-7. Establishment of committees
-
-8. Office of Corporation
-
-9. Power to appoint Attorney and agent
+3. Establishment of Corporation 4. Objects of Corporation 5. Common seal and facsimile seal 6. Execution of documents 7. Establishment of committees 8. Office of Corporation 9. Power to appoint Attorney and agent
 
 10. Establishment of subsidiaries
 
@@ -1118,13 +1104,21 @@ or such lower rate or rales as may be prescribed by the Corporation, with the ap
 
 <!-- marginal: the -->
 
-total insured depos assessment year or
+total insured
+
+<!-- marginal: depos -->
+
+assessment year or
 
 (2) The aggregate < surcharge under
 
 <!-- marginal: subs -->
 
-shall not exceed 0. > deposits of the membc
+shall not exceed
+
+<!-- marginal: 0. -->
+
+> deposits of the membc
 
 (3) Where in
 
@@ -2002,11 +1996,7 @@ as may be necessary or expedient for giving full effect to the provisions of thi
 
 <!-- page 72 -->
 
-(2) The notice under subparagraph ( 1 ) shall —
-
-(i) set out the transacted price; and
-
-(ii) specify that any dissenting shareholder may, not later than twenty one days from the date of the notice under subparagraph (1). apply in writing to the Corporation for a review of reasonableness of the transacted price by the Assessor Committee.
+(2) The notice under subparagraph ( 1 ) shall — (i) set out the transacted price; and (ii) specify that any dissenting shareholder may, not later than twenty one days from the date of the notice under subparagraph (1). apply in writing to the Corporation for a review of reasonableness of the transacted price by the Assessor Committee.
 
 (3) An application under subsubparagraph ( 2 ) ( i i ) shall be in such form as prescribed by the Corporation from time to time.
 
@@ -2038,11 +2028,7 @@ and in all cases it shall deduct the benefit derived from any special financial 
 
 <!-- page 73 -->
 
-(4) Where the Assessor Committee decides that —
-
-(i) the transacted price is below the price which in its opinion is reasonable consideration for such substantial assets or business (in this subparagraph referred to as "reasonable price"), it shall advise the Corporation to pay to the member institution the difference between the transacted price and the reasonable price and the Corporation shall within such period as may be specified by the Assessor Committee pay such difference to the member institution; or
-
-(ii) the transacted price is the reasonable price, it shall advise the Corporation accordingly.
+(4) Where the Assessor Committee decides that — (i) the transacted price is below the price which in its opinion is reasonable consideration for such substantial assets or business (in this subparagraph referred to as "reasonable price"), it shall advise the Corporation to pay to the member institution the difference between the transacted price and the reasonable price and the Corporation shall within such period as may be specified by the Assessor Committee pay such difference to the member institution; or (ii) the transacted price is the reasonable price, it shall advise the Corporation accordingly.
 
 (5) A certificate signed by the members of the Assessor Committee confirming any decision of the Assessor Committee shall be conclusive evidence of that decision.
 
@@ -2072,11 +2058,7 @@ I. (1) In this Schedule, unless the context otherwise requires —
 
 "interest in land" means —
 
-(a) any interest in land, whether registered or registrable, including one to which the Strata Titles Act 1985 applies and which is capable of being transferred under Part Fourteen of the National Land Code or
-
-## Part V of the Land Ordinance of Sabah or Part VII of the Land Code
-
-of Sarawak:
+(a) any interest in land, whether registered or registrable, including one to which the Strata Titles Act 1985 applies and which is capable of being transferred under Part Fourteen of the National Land Code or Part V of the Land Ordinance of Sabah or Part VII of the Land Code of Sarawak:
 
 <!-- page 74 -->
 
@@ -2122,7 +2104,11 @@ seal of the Corporation.
 
 (a) in the case where the asset is held by the seller alone, the assel shall on and from the vesting (-late vest in thi ;er; and
 
-(b) in the case where the asset is held join!, Lher person, the assel shall on and from i the pur chaser jointly with that other person.
+(b) in the case where the asset is held join!,
+
+<!-- marginal: Lher -->
+
+person, the assel shall on and from i the pur chaser jointly with that other person.
 
 (7) A vesting certificate stating i in the pun shall be conclusive evidence of such vesting as or the vesting date.
 
@@ -2132,7 +2118,11 @@ seal of the Corporation.
 
 (10) Where the security for an Islamic finan credit facility that is vested under this Scheduli xirchaser inch share —
 
-(a) for the purposes of paragraph 6A(9)(b) of the Companies Act 1965. the purchaser, shall be deemed to hold ; i,an. only by way of security for the purposes of a transaction entere the ordinary course of business in connection with the le money; and
+(a) for the purposes of paragraph 6A(9)(b) of the Companies Act 1965. the purchaser, shall be deemed to hold ;
+
+<!-- marginal: i,an. only -->
+
+by way of security for the purposes of a transaction entere the ordinary course of business in connection with the le money; and
 
 (b) the interest of the purchaser in the share
 
@@ -2142,7 +2132,11 @@ purposes of section 6\ of the Companies Act 1965.
 
 (11) The purchaser shall, on anc froi all of the seller's present and future rights, titles arid interests i n , and disi obligations with respect to, such asset, free of ai for any registered interest prevailing as at tht
 
-(12) Without prejudice to subparagraphs (6), ( 7 ) , ( 8 ) . ( 9 ) , i I I) in relation to an asset vested in the purchaser -
+(12) Without prejudice to subparagraphs (6), ( 7 ) , ( 8 ) . ( 9 ) , i
+
+<!-- marginal: I I) in -->
+
+relation to an asset vested in the purchaser -
 
 (a) each obligor with respect to such ■ deemed to released and discharged the seller from with respect to such a:
 
@@ -2242,11 +2236,17 @@ the Registrar under the National Laud Code shall, without the need for any furth
 
 (b) in Sabah, on receipt of— ( i ) payment of the prescribed fee; and (ii) the vesting certificate,
 
-the Registrar under the Land Ordinance of Sabah shall, without the need for any further application or filing of any furl- ient. make a memorial on the register document of title and iiiake such other entries and generally do all things as may be net. give effect to the vesting; or
+the Registrar under the Land Ordinance of Sabah shall, without the need for any further application or filing of any furl-
 
-(c) in Sarawak, on receipt ot -
+<!-- marginal: ient. -->
 
-(i) payment of the prescribed tot: and ( i i ) the vesting certificate,
+make a memorial on the register document of title and iiiake such other entries and generally do all things as may be net.
+
+<!-- marginal: give -->
+
+effect to the vesting; or
+
+(c) in Sarawak, on receipt ot - (i) payment of the prescribed tot: and ( i i ) the vesting certificate,
 
 the Registrar under the Land Code of Sarawak shall, withoui tht for any further application or filing of any further document, i a memorial on the :egister document of title and make such i entries and generally do all things a-, may he necessary to ; to the vesting.
 
@@ -2562,11 +2562,7 @@ Moratorium
 
 (c) no resolution may be passed or order made for the winding-up o\' the affected person;
 
-(d) no receiver, manager, receiver ■
-
-<!-- marginal: iquidator -->
-
-may be appointed, or if appointed, his appointment shall immediately cease and he shall vacate his office;
+(d) no receiver, manager, receiver ■ iquidator may be appointed, or if appointed, his appointment shall immediately cease and he shall vacate his office;
 
 (c) no steps may be taken — (i) to create, perfect or enforce any security over any asset of the affected person; ( i i ) to enforce a judgment over any asset of the affected person; (iii) to repossess any asset in the possession, custody or control of the affected person; or (iv) to set off any debt owing to the affected person in respect of any claim against the affected person, except with the prior written consent of the Corporali
 
@@ -3090,7 +3086,11 @@ Chaptei 4
 
 ## PART V
 
-71. Part V of the Bill contains provisions relating to exai ember institutions.
+71. Part V of the Bill contains provisions relating to exai
+
+<!-- marginal: ember -->
+
+institutions.
 
 72. Clause 67 provides that Bank Negara Malaysia may provide relevant required information under this clause to the Corporation in an appropriate time.
 
@@ -3098,9 +3098,7 @@ Chaptei 4
 
 73. Clause 68 seeks to empower Bank Negara Malaysia to examine the operations of a member institution upon request by the Corporation and the scope of examination to be carried out. The Corporation is empowered to commission an independent audit in respect of examination under subclause 68(1) or subdau.se 69(1) subject to prior written approval of Bank Negara Malaysia.
 
-74. Clause 69 seeks to empower the Corporation to conduct special examination where the Corporation has reason to believe that the making of a payment under
-
-## Chapter 4 of Part IV is imminent.
+74. Clause 69 seeks to empower the Corporation to conduct special examination where the Corporation has reason to believe that the making of a payment under Chapter 4 of Part IV is imminent.
 
 ## PART VI
 

@@ -92,7 +92,35 @@ shall, within two months of his arrival give notice to the Director General that
 
 ### Seksyen baru 77A
 
-8. Akta ibu dipinda dengan memasukkan selepas seksyen 77 seksyen yang berikut: " Return of 77A. (1) Every company, trust body or co-operative income society shall for each year of assessment furnish to the by every company, Director General a return in the prescribed form within trust body six months from the date following the close of the or co- operative accounting period which constitutes the basis period for society. the year of assessment.
+8. Akta ibu dipinda dengan memasukkan selepas seksyen 77 seksyen yang berikut: "
+
+<!-- marginal: Return of -->
+
+77A. (1) Every company, trust body or co-operative
+
+<!-- marginal: income -->
+
+society shall for each year of assessment furnish to the
+
+<!-- marginal: by every -->
+
+<!-- marginal: company, -->
+
+Director General a return in the prescribed form within
+
+<!-- marginal: trust body -->
+
+six months from the date following the close of the
+
+<!-- marginal: or co- -->
+
+<!-- marginal: operative -->
+
+accounting period which constitutes the basis period for
+
+<!-- marginal: society. -->
+
+the year of assessment.
 
 (2) Notwithstanding subsection (1), where there is a change in the accounting period of a company, trust body or co-operative society such that the accounts are not closed on any date in a year, that company, trust body or co-operative society shall furnish to the Director General a return in the prescribed form for that year and the year of assessment in which the accounts are closed within six months from the date following the close of the accounting period.
 
@@ -142,7 +170,17 @@ shall for each year of assessment furnish to the Director General a return in th
 
 11. Akta ibu dipinda dengan menggantikan seksyen 90 dengan seksyen yang berikut:
 
-Assess- 90. ( 1) Where a person has furnished a return in ments accordance with section 77 or 77A to the Director General generally. for a year of assessment, the Director General shall be deemed to have made, on the day on which the return is furnished, an assessment in respect of that person in the amount of tax on the chargeable income, the tax and the chargeable income being the respective amounts as specified in the return.
+<!-- marginal: Assess- -->
+
+90. ( 1) Where a person has furnished a return in
+
+<!-- marginal: ments -->
+
+accordance with section 77 or 77A to the Director General
+
+<!-- marginal: generally. -->
+
+for a year of assessment, the Director General shall be deemed to have made, on the day on which the return is furnished, an assessment in respect of that person in the amount of tax on the chargeable income, the tax and the chargeable income being the respective amounts as specified in the return.
 
 (2) For the purposes of this Act, where the Director General is deemed to have made an assessment under subsection (1)—
 
@@ -182,11 +220,21 @@ Provided that the making of an assessment in respect of a person under this subs
 
 ### Pindaan seksyen 103
 
-15. Akta ibu dipinda dengan menggantikan seksyen 103 dengan seksyen yang berikut: " Payment 103. (1) Except as provided in subsection (2), tax payable of tax. under an assessment for a year of assessment shall be due and payable on the due date whether or not that person appeals against the assessment.
+15. Akta ibu dipinda dengan menggantikan seksyen 103 dengan seksyen yang berikut: "
+
+<!-- marginal: Payment -->
+
+103. (1) Except as provided in subsection (2), tax payable
+
+<!-- marginal: of tax. -->
+
+under an assessment for a year of assessment shall be due and payable on the due date whether or not that person appeals against the assessment.
 
 (2) Where an assessment is made under section 90(3), 91, 92 or 96A, or where an assessment is increased under section 101(2), the tax payable under the assessment or increased assessment shall, on the service of the notice of assessment or composite assessment or increased assessment, as the case may be, be due and payable on the person assessed at the place specified in that notice whether or not that person appeals against the assessment or increased assessment.
 
-(3) Where any tax due and payable under subsection (1) has not been paid by the due date, so much of the tax as is unpaid upon the expiration of that date shall without any further notice being served be increased by a sum equal to ten per cent of the tax so unpaid, and that sum shall be recoverable as if it were tax due and payable under this Act.
+(3) Where any tax due and payable under subsection
+
+(1) has not been paid by the due date, so much of the tax as is unpaid upon the expiration of that date shall without any further notice being served be increased by a sum equal to ten per cent of the tax so unpaid, and that sum shall be recoverable as if it were tax due and payable under this Act.
 
 (4) Where the tax due and payable has been increased under subsection (3), any balance remaining unpaid upon the expiration of sixty days from the due date shall without any further notice being served be further increased by a sum equal to five per cent of the balance unpaid, and that sum shall be recoverable as if it were tax due and payable under this Act.
 
@@ -246,11 +294,15 @@ C is the tax charged for the year of assessment where section 45(2)(b) applies.
 
 ### Pindaan seksyen 104
 
-17. Perenggan 104(1)(b) Akta ibu dipinda dengan menggantikan perkataan "103(4), (5) or (5A)" dengan perkataan "103(3), (4), (5), (6), (7) or (8)".
+17. Perenggan 104(1)(b) Akta ibu dipinda dengan menggantikan perkataan "103(4), (5) or (5A)" dengan perkataan "103(3), (4), (5),
+
+(6), (7) or (8)".
 
 ### Pindaan seksyen 106
 
-18. Subseksyen 106(3) Akta ibu dipinda dengan menggantikan perkataan "103(4), 103(5), 103(5A), 103A(4), 103A(5), 103A(6), 103A(7), 103A(8) or 103A(9)" dengan perkataan "103(3), (4), (5), (6), (7) or (8)".
+18. Subseksyen 106(3) Akta ibu dipinda dengan menggantikan perkataan "103(4), 103(5), 103(5A), 103A(4), 103A(5), 103A(6), 103A(7), 103A(8) or 103A(9)" dengan perkataan "103(3), (4), (5),
+
+(6), (7) or (8)".
 
 ### Pindaan seksyen 107B
 

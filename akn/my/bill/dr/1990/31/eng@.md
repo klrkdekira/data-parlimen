@@ -8,9 +8,7 @@
 
 ## PRELIMINARY
 
-Clauses
-
-1. Short title and commencement.
+Clauses 1. Short title and commencement.
 
 2. Interpretation.
 
@@ -18,9 +16,7 @@ Clauses
 
 ## ADMINISTRATION OF THE ACT
 
-3. Punctions, powers and duties of the Bank.
-
-4. Confidentiality on the part of the Bank.
+3. Punctions, powers and duties of the Bank. 4. Confidentiality on the part of the Bank.
 
 ## PART III
 
@@ -28,15 +24,9 @@ Clauses
 
 ## AND OPPSHORE INSURANCE-RELATED ACTIYITIES
 
-5. Licensing of offshore insurance business and offshore insurance-related activities.
+5. Licensing of offshore insurance business and offshore insurance-related activities. 6. Application for licence to carry on offshore insurance business. 7. Application for licence to carry on offshore insurance-related activities.
 
-6. Application for licence to carry on offshore insurance business.
-
-7. Application for licence to carry on offshore insurance-related activities.
-
-8. The Bank's recommendation on an application for alicence.
-
-9. Grant of licence.
+8. The Bank's recommendation on an application for alicence. 9. Grant of licence.
 
 10. Publication of list of all licences.
 
@@ -58,19 +48,53 @@ Clauses
 
 ## RESTRICTIONS ON LICENSEES
 
-Clauses 16. Appointment of auditor and actuary. 17. Margin of solvency. 18. Separate accounts to be kept by offshore insurer. 19. Submission of financial statements. 20. Subsidiaries and offices of licensee. 21. Restriction on business by offshore insurer. 22. Restrictions on and duties of offshore insurance manager. offshore underwriting manager and offshore insurance broker. 23. List of offshore insurers to be supplied by offshore insurance manager and offshore underwriting manager. 24. Conduct of business. 25. Confidentiality on the part of licensee.
+Clauses
+
+16. Appointment of auditor and actuary.
+
+17. Margin of solvency.
+
+18. Separate accounts to be kept by offshore insurer.
+
+19. Submission of financial statements.
+
+20. Subsidiaries and offices of licensee.
+
+21. Restriction on business by offshore insurer.
+
+22. Restrictions on and duties of offshore insurance manager. offshore underwriting manager and offshore insurance broker.
+
+23. List of offshore insurers to be supplied by offshore insurance manager and offshore underwriting manager.
+
+24. Conduct of business.
+
+25. Confidentiality on the part of licensee.
 
 ## PART V
 
 ## TRANSPER AND WINDING UP
 
-26. Transfer of offshore insurance business. 27. Winding up of offshore insurer.
+26. Transfer of offshore insurance business.
+
+27. Winding up of offshore insurer.
 
 ## PART VI
 
 ## GENERAL
 
-28. Further information or clarification may be required by the Bank. 29. Offences and penalties. 30. Power of Governor to compound offences. 31. Power to grant exemption. 32. Power to make regulations. 33. Indemnity. 34. Non-application of Insurance Act 1963 and Takaful Act 1984. 35. Application of Offshore Companies Act 1990 and Companies Act 1965. 36. Application of Exchange Control Act 1953.
+28. Further information or clarification may be required by the Bank.
+
+29. Offences and penalties.
+
+30. Power of Governor to compound offences.
+
+31. Power to grant exemption.
+
+32. Power to make regulations.
+
+33. Indemnity. 34. Non-application of Insurance Act 1963 and Takaful Act 1984. 35. Application of Offshore Companies Act 1990 and Companies Act 1965.
+
+36. Application of Exchange Control Act 1953.
 
 ## SCHEDULES.
 
@@ -154,11 +178,7 @@ auditor under the Offshore Companies Act 1990, who appears on the list of audito
 
 (f) any other body, association or group of persons, whether corporate or unincorporate, means any person having the direction and control of the management of its affairs or business;
 
-"domestic insurance business" means
-
-<!-- marginal: insurance -->
-
-business where the subject matter of the contract is—
+"domestic insurance business" means insurance business where the subject matter of the contract is—
 
 (a) property which at the time of the making of the contract is situated in Malaysia or is in transit to or from Malaysia;
 
@@ -182,11 +202,7 @@ business where the subject matter of the contract is—
 
 (e) a sole-proprietorship, means registration of its business; or
 
-(f) any otherbody, association or group of persons, whether corporate or unincorporate, which requires registration or any other form of recording or recognition under any written law before it can lawfully commence
-
-<!-- marginal: its activities, -->
-
-means registration, recording or recognition under such written law;
+(f) any otherbody, association or group of persons, whether corporate or unincorporate, which requires registration or any other form of recording or recognition under any written law before it can lawfully commence its activities, means registration, recording or recognition under such written law;
 
 "foreign currency" means any currency other
 
@@ -216,7 +232,9 @@ and includes reinsurance business;
 
 <!-- page 7 -->
 
-"licensee" means any person licensed under subsection (1) of section 9;
+"licensee" means any person licensed under subsection
+
+(1) of section 9;
 
 "life insurance business" means insurance business connected with any policy by which payment of policy moneys is insured on death or on the happening of any contingency dependent on the termination or continuation of human life and includes any incidental extension of cover and reinsurances of such business;
 
@@ -328,15 +346,7 @@ in Malaysia; or
 
 (a) in relation to an offshore company, the paid-up capital unimpaired by losses; or
 
-(b) in relation to a foreign offshore company or a branch of a Malaysian
-
-<!-- marginal: insurer, the surplus of -->
-
-assets over liabilities
-
-<!-- marginal: to be maintained in the -->
-
-books of its office in the Federal Territory of Labuan.
+(b) in relation to a foreign offshore company or a branch of a Malaysian insurer, the surplus of assets over liabilities to be maintained in the books of its office in the Federal Territory of Labuan.
 
 (2) Any reference in this Act to"this Act"shall, unless otherwise expressly stated, be deemed to include a reference to any regulation, rule, order, notification or other subsidiary legislation made under this Act.
 
@@ -346,7 +356,19 @@ books of its office in the Federal Territory of Labuan.
 
 ## ADMINISTRATION OF THE ACT
 
-Functions, 3. (1) The Bank shall have all the functions and powers powers and conferred, and the duties imposed, on the Bank by this duties of Act. the Bank.
+<!-- marginal: Functions, -->
+
+3. (1) The Bank shall have all the functions and powers
+
+<!-- marginal: powers and -->
+
+conferred, and the duties imposed, on the Bank by this
+
+<!-- marginal: duties of -->
+
+Act.
+
+<!-- marginal: the Bank. -->
 
 <!-- page 11 -->
 
@@ -414,9 +436,27 @@ and holds a valid licence.
 
 offshore insurance manager, offshore underwriting manager or offshore insurance broker unless that person holds a valid licence.
 
-Application 6. (1) Every applicant for a licence to carry on offshore for licence insurance business shall satisfy the Minister that— to cany on offshore
+<!-- marginal: Application -->
 
-(a) the applicant is, or will be, an offshore company insurance or a foreign offshore company or a branch of a business. Malaysian insurer;
+6. (1) Every applicant for a licence to carry on offshore
+
+<!-- marginal: for licence -->
+
+insurance business shall satisfy the Minister that—
+
+<!-- marginal: to cany on -->
+
+<!-- marginal: offshore -->
+
+(a) the applicant is, or will be, an offshore company
+
+<!-- marginal: insurance -->
+
+or a foreign offshore company or a branch of a
+
+<!-- marginal: business. -->
+
+Malaysian insurer;
 
 (b) the working funds of the applicant— (i) in a case where the applicant proposes to carry on either life insurance business or general insurance business, or both, are at least seven million and five hundred thousand ringgit or its equivalent in any foreign currency; (ii) in acasewhere the applicant proposes to carry on solely reinsurance business, are at least ten million ringgit or its equivalent in any foreign currency; or (iii) in a case where the applicant proposes to carry on solely offshore captive insurance business, are at least one million ringgit or its equivalent in any foreign currency;
 
@@ -444,11 +484,7 @@ Application 6. (1) Every applicant for a licence to carry on offshore for licenc
 
 (e) be accompanied with— (i) a copy of— (A) the applicant's constituent docu- ments, duly authenticated by a director or officer of the applicant;
 
-(B) the resolutions of the board and the general meeting, if any, of the applicant, duly authenticated by a director or officer of the applicant, authorizing the applicant to apply for a licence; and (C) the applicant's
-
-<!-- marginal: certificate of -->
-
-incorporation or registration, as the case may be, certified by the
+(B) the resolutions of the board and the general meeting, if any, of the applicant, duly authenticated by a director or officer of the applicant, authorizing the applicant to apply for a licence; and (C) the applicant's certificate of incorporation or registration, as the case may be, certified by the
 
 <!-- page 14 -->
 
@@ -506,13 +542,7 @@ Minister that—
 
 (b) state the nature of the business to be carried on under the licence; and
 
-(c) be accompanied with
-
-<!-- marginal: such -->
-
-<!-- marginal: documents, -->
-
-statements and information relating to such applicant as are specified in paragraph (e) of subsection (3) of section 6.
+(c) be accompanied with such documents, statements and information relating to such applicant as are specified in paragraph (e) of subsection (3) of section 6.
 
 (3) The Bank may require from the applicant such other information or documents as may be specified by the Bank for the purpose of determining the application.
 
@@ -542,7 +572,13 @@ may require, consider the application and make a recom- mendation to the Ministe
 
 <!-- page 16 -->
 
-Grant of 9. (1) Upon receiving an application for a licence, and licence. the recommendation of the Bank under section 8,
+<!-- marginal: Grant of -->
+
+9. (1) Upon receiving an application for a licence, and
+
+<!-- marginal: licence. -->
+
+the recommendation of the Bank under section 8,
 
 <!-- marginal: the -->
 
@@ -550,13 +586,25 @@ Minister may grantalicence, with or without conditions, or refuse to grant a lic
 
 (2) Where the Minister refuses to grant alicence,the Bank shall immediately notify the applicant in writing of his refusai and shall not be required to furnish any reasons for the refusal to the applicant.
 
-Publication
+<!-- marginal: Publication -->
 
-10. The Bank shallcauseto be published in the Gazette of Hst of not later than the 31 st March in each year a list, in such all licensees. form as may be determined by the Bank, of all licensees whose licences are valid as at the 31st December of the preceding year.
+10. The Bank shallcauseto be published in the Gazette
 
-Revocation
+<!-- marginal: of Hst of -->
 
-11. (1) The Minister may, on the recommendation of the of licence. Bank, revoke any licence if he is satisfied that—
+not later than the 31 st March in each year a list, in such
+
+<!-- marginal: all licensees. -->
+
+form as may be determined by the Bank, of all licensees whose licences are valid as at the 31st December of the preceding year.
+
+<!-- marginal: Revocation -->
+
+11. (1) The Minister may, on the recommendation of the
+
+<!-- marginal: of licence. -->
+
+Bank, revoke any licence if he is satisfied that—
 
 (a) the licensee has contravened any condition imposed under the licence, the licensee's constituent documents or any provision of this Act; or
 
@@ -622,9 +670,13 @@ alteration to any of its constituent documents, or prior to any change of its co
 
 (3) Every Hcensee shall iminediately notify the Bank of any amendment or alteration to any information which had been furnished to the Bank in connection with the application for the licence.
 
-Annual
+<!-- marginal: Annual -->
 
-15. Every licensee shall, on or before every 15th day of licence fee. January during the currency of the licence, pay to the Bank the annual licence fee as prescribed in the Second Schedule in respect of each licence held.
+15. Every licensee shall, on or before every 15th day of
+
+<!-- marginal: licence fee. -->
+
+January during the currency of the licence, pay to the Bank the annual licence fee as prescribed in the Second Schedule in respect of each licence held.
 
 ## PART IV
 
@@ -632,15 +684,25 @@ Annual
 
 ## OF AND RESTRICTIONS ON LICENSEES
 
-Appointment
+<!-- marginal: Appointment -->
 
-16. (1) Every licensee shall appoint an auditor for the of auditor purposes of this Act. and actuary.
+16. (1) Every licensee shall appoint an auditor for the
+
+<!-- marginal: of auditor -->
+
+purposes of this Act.
+
+<!-- marginal: and actuary. -->
 
 (2) Every offshore insurer carrying on life insurance business shall appoint an actuary for the purposes of this Act.
 
-Margin of
+<!-- marginal: Margin of -->
 
-17. (1) Every offshore insurer shall ensure that the solvency realizable value of its assets exceeds the amount of its liabilities by a margin (hereinafter referred to as "the margin of solvency") which is equivalent to or more than—
+17. (1) Every offshore insurer shall ensure that the
+
+<!-- marginal: solvency -->
+
+realizable value of its assets exceeds the amount of its liabilities by a margin (hereinafter referred to as "the margin of solvency") which is equivalent to or more than—
 
 (a) the amount of the working funds stipulated under subsection (1) of section 6; or
 
@@ -692,11 +754,21 @@ keep the accounts and funds in respect of its life insurance business separate f
 
 (3) Every offshore insurer which is a branch of a Malaysian insurer shall keep the accounts in respect of its offshore insurance business separate from the accounts in respect of its domestic insurance business carried on in the Federal Territory of Labuan.
 
-Submission
+<!-- marginal: Submission -->
 
-19. (1) Every offshore insurer shall, within sixmonths of financial after the close of each financial year or such hirther period statements. as the Bankmay approve, submit to the Bank, inrespect of its entire offshore insurance operations carried on in or from the Federal Territory of Labuan, four copies each of its audited annual balance sheet, profit and loss account, revenue account and, in respect of its life insurance business, a report setting out the actuarial valuation of its assets and liabilities.
+19. (1) Every offshore insurer shall, within sixmonths
 
-(2) Every offshore insurer shall submit to the Bank four copies each of the documents mentioned in subsection (1) as approved in accordance with its constituent documents as soon as practicable after such approval.
+<!-- marginal: of financial -->
+
+after the close of each financial year or such hirther period
+
+<!-- marginal: statements. -->
+
+as the Bankmay approve, submit to the Bank, inrespect of its entire offshore insurance operations carried on in or from the Federal Territory of Labuan, four copies each of its audited annual balance sheet, profit and loss account, revenue account and, in respect of its life insurance business, a report setting out the actuarial valuation of its assets and liabilities.
+
+(2) Every offshore insurer shall submit to the Bank four copies each of the documents mentioned in subsection
+
+(1) as approved in accordance with its constituent documents as soon as practicable after such approval.
 
 (3) Every offshore insurer which is a foreign offshore company shall, in addition to the financial statements which are required to be submitted to the Bank under subsection (l), also submit each year acertified copy of its latest audited annual balance sheet in respect of its entire operations both in and outside the Federal Territory of Labuan within three months of its being filed with the regulatory authorities in its country of establishment or origin.
 
@@ -782,11 +854,47 @@ in or from the Pederal Territory of Labuan to any person not licensed under this
 
 (4) Every licensed offshore insurance manager or licensed offshore underwriting manager who acts on behalf of anoffshoreinsurershallmaintam its ownfunds separate from the funds of.the offshore insurer and shall not apply the funds of such offshore insurer to meet any of its expenses or liabilities other than in respect of the offshore insurance business.
 
-List of 23. Every licensed offshore insurance manager and offshore licensed offshore underwriting manager shall, within msurers to thirty days from the close of its financial year, submit to be supplied by offshore the Bank, in such form and manner as may be specified by insurance the Bank, a list of all offshore insurers for whom such manager and offshore licensed offshore insurance manager provides admini- underwritmg strative services or licensed offshore underwriting manager. manager provides underwriting services.
+<!-- marginal: List of -->
 
-Condiict of
+23. Every licensed offshore insurance manager and
 
-24. (1) Every offshore insurer shall— biisiness.
+<!-- marginal: offshore -->
+
+licensed offshore underwriting manager shall, within
+
+<!-- marginal: msurers to -->
+
+thirty days from the close of its financial year, submit to
+
+<!-- marginal: be supplied -->
+
+<!-- marginal: by offshore -->
+
+the Bank, in such form and manner as may be specified by
+
+<!-- marginal: insurance -->
+
+the Bank, a list of all offshore insurers for whom such
+
+<!-- marginal: manager and -->
+
+<!-- marginal: offshore -->
+
+licensed offshore insurance manager provides admini-
+
+<!-- marginal: underwritmg -->
+
+strative services or licensed offshore underwriting
+
+<!-- marginal: manager. -->
+
+manager provides underwriting services.
+
+<!-- marginal: Condiict of -->
+
+24. (1) Every offshore insurer shall—
+
+<!-- marginal: biisiness. -->
 
 (a) conduct its business with due diligence and care in accordance with sound insurance principles;
 
@@ -996,7 +1104,21 @@ believe to be false or misleading,
 
 shall be guilty of an offence and shall on conviction be liable to impris on ment not exceeding three years or afine not exceeding five hundred thousand ringgit or both and, inthe case of acontinuing offence, shall, in addition, be liable to a fine not exceeding five thousand ringgit for each day the offence continues to be committed.
 
-30. (1) The Governor may, with the concurrence ofthe Power of Governor to Minister, in a case where he deems fit and proper to do compound so, compound any offence committed by any person under offences. section 29, by making a written offer to such person to compound the offence by paying to the Governor, within such time as may be specified in the offer, such sum of money as may be specified in the offer, which shall not exceed fifty per centum of the amount of the maximum fine (including the daily fine, if any, in the case of a continuing offence)to which thatperson would have been liable if he had been convicted of the offence.
+30. (1) The Governor may, with the concurrence ofthe
+
+<!-- marginal: Power of -->
+
+<!-- marginal: Governor to -->
+
+Minister, in a case where he deems fit and proper to do
+
+<!-- marginal: compound -->
+
+so, compound any offence committed by any person under
+
+<!-- marginal: offences. -->
+
+section 29, by making a written offer to such person to compound the offence by paying to the Governor, within such time as may be specified in the offer, such sum of money as may be specified in the offer, which shall not exceed fifty per centum of the amount of the maximum fine (including the daily fine, if any, in the case of a continuing offence)to which thatperson would have been liable if he had been convicted of the offence.
 
 (2) Any monies paid to the Governor pursuant to the provisions of subsection (1) shall be paid into and form part of the Federal Consolidated Fund.
 
@@ -1068,17 +1190,55 @@ re-enactment thereof.
 
 <!-- page 32 -->
 
-35. (1) In addition to the provisions of this Act— Application of Offshore Companies
+35. (1) In addition to the provisions of this Act—
 
-(a) theOffshore Companies Act 1990 shall apply to Act 1990 a licensee which is an offshore company or and Companies a foreign offshore company; and Act 1965. Act
+<!-- marginal: Application -->
 
-(b) the Companies Act 1965 shall apply to a licensee Act 125. which is a branch of a Malaysian insurer.
+<!-- marginal: of Offshore -->
+
+<!-- marginal: Companies -->
+
+(a) theOffshore Companies Act 1990 shall apply to
+
+<!-- marginal: Act 1990 -->
+
+a licensee which is an offshore company or
+
+<!-- marginal: and -->
+
+<!-- marginal: Companies -->
+
+a foreign offshore company; and
+
+<!-- marginal: Act 1965. -->
+
+<!-- marginal: Act -->
+
+(b) the Companies Act 1965 shall apply to a licensee
+
+<!-- marginal: Act 125. -->
+
+which is a branch of a Malaysian insurer.
 
 (2) Where there is any conflict or inconsistency between the provisions of the Acts referred to in subsection (1) and this Act in their respective application to the licensee the provisions of this Act shall prevail.
 
-Apphcation
+<!-- marginal: Apphcation -->
 
-36. Nothing contained in this Act shall in any manner of Exchange affect, or derogate from, the provisions of the Exchange Control Act 1953. Control Act 1953,and in the application of any provision Act 17. of this Act to any person, such provision shall apply subject to the provisions of that Act and, in the event of any conflict or inconsistency between any provision of this Act and that Act, the provisions of that Act shall prevail.
+36. Nothing contained in this Act shall in any manner
+
+<!-- marginal: of Exchange -->
+
+affect, or derogate from, the provisions of the Exchange
+
+<!-- marginal: Control -->
+
+<!-- marginal: Act 1953. -->
+
+Control Act 1953,and in the application of any provision
+
+<!-- marginal: Act 17. -->
+
+of this Act to any person, such provision shall apply subject to the provisions of that Act and, in the event of any conflict or inconsistency between any provision of this Act and that Act, the provisions of that Act shall prevail.
 
 ## FIRST SCHEDULE
 
@@ -1096,21 +1256,7 @@ The Institute of Actuaries in England The Paculty of Actuaries in Scotland The S
 
 (Section 15)
 
-Offshore insurer carrying on— (i) general insurance business
-
-<!-- marginal: Ringgit 30,000 -->
-
-(ii) life insurance business
-
-<!-- marginal: Ringgit 30,000 -->
-
-(iii) life and general insurance business
-
-<!-- marginal: Ringgit 60,000 -->
-
-(iv) captive insurance business
-
-<!-- marginal: Ringgit 10,000 -->
+Offshore insurer carrying on— (i) general insurance business Ringgit 30,000 (ii) life insurance business Ringgit 30,000 (iii) life and general insurance business Ringgit 60,000 (iv) captive insurance business Ringgit 10,000
 
 <!-- page 33 -->
 
@@ -1124,11 +1270,7 @@ This Billseekstointroducenewlawsforthelicensing and regulation of persons carryi
 
 3. Part II of the Bill contains provisions relating to the adminis- tration of the proposed Act. Clause 3 sets out the functions, powers and duties of the Central Bank of Malaysia (in this Statement referred to as the "Bank"). Clause 4 seeks to prohibit the Bank, its officers and its representatives from disclosing any information obtained while the Bank, such officers and such representatives are performing their functions under the proposed Act.
 
-4.
-
-## Part III of the Bill deals with the licensing of offshore insurance
-
-business and offshore insurance-related activities.
+4. Part III of the Bill deals with the licensing of offshore insurance business and offshore insurance-related activities.
 
 Clause 5 seeks to prohibit any person from carrying on or trans- acting offshore insurance business or offshore insurance-related activities unless that person is licensed under the proposed Act and, inthecaseofoffshoreinsurance business, thatperson is anoffshore company, a foreign offshore company or a branch of a Malaysian insurer.
 
@@ -1198,11 +1340,7 @@ Clause 28 seeks to empower the Bank to require a licensee
 
 <!-- marginal: to -->
 
-furnish further information or clarification if the Bank has reason to believe that such licensee has contravened any of the provisions of the proposed Act or any of the conditions
-
-<!-- marginal: imposed upon such -->
-
-licensee.
+furnish further information or clarification if the Bank has reason to believe that such licensee has contravened any of the provisions of the proposed Act or any of the conditions imposed upon such licensee.
 
 Clause 29 deals with offences and penalties while clause 30 seeks to empower the Governor to compound offences.
 
@@ -1220,6 +1358,4 @@ Clause 35 deals with the application of the Offshore Companies Act 1990 and Comp
 
 ## IMPLICATIONS
 
-This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained.
-
-<!-- marginal: [PN. (U2) 1612.] -->
+This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained. [PN. (U2) 1612.]

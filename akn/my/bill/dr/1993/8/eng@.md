@@ -72,9 +72,31 @@ Government
 
 ## B I LL
 
-Purpose Title Appropriation to purpose RM
+Purpose Title Appropriation
 
-6,118,900 B.17 Ministry of Youth and Sports 20,403,700 B.26 Ministry of Education 39,495,000 B.28 Treasury 672.800 Registration of Societies B.38 Department 22,494,300 Ministry of Transport B.47
+<!-- marginal: to purpose -->
+
+<!-- marginal: RM -->
+
+<!-- marginal: 6,118,900 -->
+
+B.17 Ministry of Youth and Sports
+
+<!-- marginal: 20,403,700 -->
+
+B.26 Ministry of Education
+
+<!-- marginal: 39,495,000 -->
+
+B.28 Treasury
+
+<!-- marginal: 672.800 -->
+
+Registration of Societies B.38 Department
+
+<!-- marginal: 22,494,300 -->
+
+Ministry of Transport B.47
 
 ## TOTAL
 

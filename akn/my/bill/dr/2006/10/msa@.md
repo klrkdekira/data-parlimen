@@ -22,7 +22,23 @@ D.R. 10/2006
 
 4. Fungsi Lembaga 5. Kuasa Lembaga 6. Keanggotaan Lembaga 7. Tempoh jawatan 8. Anggota silih ganti 9. Penjalanan sementara fungsi Pengerusi
 
-10. Pembatalan pelantikan dan peletakan jawatan 11. Pengosongan jawatan 12. Perlindungan daripada liabiliti diri 13. Akta Perlindungan Pihak Berkuasa Awam 1948 14. Pekhidmat awam 15. Kuasa Menteri untuk memberikan arahan 16. Penyata, laporan, akaun dan maklumat 17. Pewakilan fungsi dan kuasa Lembaga 18. Lembaga boleh menubuhkan jawatankuasa
+10. Pembatalan pelantikan dan peletakan jawatan
+
+11. Pengosongan jawatan
+
+12. Perlindungan daripada liabiliti diri
+
+13. Akta Perlindungan Pihak Berkuasa Awam 1948
+
+14. Pekhidmat awam
+
+15. Kuasa Menteri untuk memberikan arahan
+
+16. Penyata, laporan, akaun dan maklumat
+
+17. Pewakilan fungsi dan kuasa Lembaga
+
+18. Lembaga boleh menubuhkan jawatankuasa
 
 <!-- page 2 -->
 
@@ -60,15 +76,7 @@ sal
 
 28. Kuasa untuk meminjam
 
-29. Pelaburan
-
-30. Perdagangan dapatan penyelidikan
-
-31. Kuasa untuk mengambil khidmat ejen, dsb.
-
-32. Kuasa untuk memberikan pinjaman
-
-33. Kuasa untuk menubuhkan perbadanan
+29. Pelaburan 30. Perdagangan dapatan penyelidikan 31. Kuasa untuk mengambil khidmat ejen, dsb. 32. Kuasa untuk memberikan pinjaman 33. Kuasa untuk menubuhkan perbadanan
 
 ## BAHAGIAN VI
 
@@ -76,33 +84,117 @@ sal
 
 ## PENYITAAN, PENANGKAPAN, DSB.
 
-. 34. Pemberian kuasa kepada pegawai .35. Kuasa penyiasatan
-
-36. Kad kuasa
-
-37. Kuasa penangkapan
-
-38. Penggeledahan dan penyitaan dengan waran
+. 34. Pemberian kuasa kepada pegawai .35. Kuasa penyiasatan 36. Kad kuasa 37. Kuasa penangkapan 38. Penggeledahan dan penyitaan dengan waran
 
 <!-- page 3 -->
 
-39. Penggeledahan dan penyitaan tanpa waran 40. Kuasa untuk memasuki premis 41. Pemeriksaan orang 42. Penyitaan benda, dsb. 43. Kuasa untuk memberhentikan, menggeledah dan menyita kenderaan 44. Senarai benda disita 45. Pemulangan sementara kenderaan, dsb., 46. Penjualan dan pelupusan lada, dsb., yang disita 47. Kuasa untuk menghendaki kehadiran orang yang mengetahui kes 48. Pemeriksaan orang yang mengetahui kes 49. Kebolehterimaan pernyataan dalam keterangan 50. Pelucuthakan lada, dsb., yang disita 51. Hak harta mengenai lada, dsb., yang dilucuthakkan 52. Pelepasan lada, dsb., yang disita
+39. Penggeledahan dan penyitaan tanpa waran
+
+40. Kuasa untuk memasuki premis
+
+41. Pemeriksaan orang
+
+42. Penyitaan benda, dsb.
+
+43. Kuasa untuk memberhentikan, menggeledah dan menyita kenderaan
+
+44. Senarai benda disita
+
+45. Pemulangan sementara kenderaan, dsb.,
+
+46. Penjualan dan pelupusan lada, dsb., yang disita
+
+47. Kuasa untuk menghendaki kehadiran orang yang mengetahui kes
+
+48. Pemeriksaan orang yang mengetahui kes
+
+49. Kebolehterimaan pernyataan dalam keterangan
+
+50. Pelucuthakan lada, dsb., yang disita
+
+51. Hak harta mengenai lada, dsb., yang dilucuthakkan
+
+52. Pelepasan lada, dsb., yang disita
 
 ## BAHAGIAN VII
 
 AM
 
-53. Pengawalseliaan industri lada 54. Pelantikan juruannlisis 55. Pemeriksaan atau pengujian berkadar lada yang disita 56. Kos memegang iada, dsb., yang disita 57. Tiada kos atau ganti rugi yang berbangkit daripada penyitaan boleh didapatkan 58. Kuasa tambahan 59. Menyerang atau menghalang pegawai diberi kuasa menjadi kesalahan 60. Kcwajipan menyimpan rahsia 61. Maklumat palsu 62. Kesalahan yang dilakukan oleh pertubuhan perbadanan 63. Persubahatan dan percubaan boleh dihukum sebagai kesalahan 64. Pengkorapaunan kesalahan 65. Pemulaan dan penjalanan pendakwaan 66. Bidang kuasa untuk membicarakan kesalahan 67. Perlindungan daripada tindakan guaman dan prosiding undang-undang
+53. Pengawalseliaan industri lada
+
+54. Pelantikan juruannlisis
+
+55. Pemeriksaan atau pengujian berkadar lada yang disita
+
+56. Kos memegang iada, dsb., yang disita
+
+57. Tiada kos atau ganti rugi yang berbangkit daripada penyitaan boleh didapatkan
+
+58. Kuasa tambahan
+
+59. Menyerang atau menghalang pegawai diberi kuasa menjadi kesalahan
+
+60. Kcwajipan menyimpan rahsia
+
+61. Maklumat palsu
+
+62. Kesalahan yang dilakukan oleh pertubuhan perbadanan
+
+63. Persubahatan dan percubaan boleh dihukum sebagai kesalahan
+
+64. Pengkorapaunan kesalahan
+
+65. Pemulaan dan penjalanan pendakwaan
+
+66. Bidang kuasa untuk membicarakan kesalahan
+
+67. Perlindungan daripada tindakan guaman dan prosiding undang-undang
 
 <!-- page 4 -->
 
-68. Hadiah 69. Perlindungan pemberi maklumat 70. Kuasa untuk mengecualikan 71. Pindaan Jadual 72. Peraturan-peraturan 73. Kuasa Menteri untuk membuat peraturan-peraturan mengenai pemasaran 74. Pengesahan perbuatan yang dilakukan pada menjangkakan pembuatan Akta ini
+68. Hadiah
+
+69. Perlindungan pemberi maklumat
+
+70. Kuasa untuk mengecualikan
+
+71. Pindaan Jadual
+
+72. Peraturan-peraturan
+
+73. Kuasa Menteri untuk membuat peraturan-peraturan mengenai pemasaran
+
+74. Pengesahan perbuatan yang dilakukan pada menjangkakan pembuatan Akta ini
 
 ## BAHAGIAN VIII
 
 ## PEMANSUHAN, KECUALIAN DAN PERALIHAN
 
-75. Pemansuhan dan pembubaran 76. Pemindahan kuasa, dsb. 77. Peraindahmilikan harta 78. Kontrak sedia ada 79. Pemindahan wang dalam kumpulan wang 80. Keanggotaan Jemaah dibubarkan 81. Penerusan pegawai dan pekhidmat 82. Kecualian bagi lesen dan daftar 83. Penerusan permohonao, dsb., yang beium selesai 84. Penerusan prosiding sivil dan jenayah 85. Sebutan dalam undang-undang atau dokumen mengenai Jemaah dibubarkan 86. Penerusan penggunaan nama 87. Pencegahan anomali
+75. Pemansuhan dan pembubaran
+
+76. Pemindahan kuasa, dsb.
+
+77. Peraindahmilikan harta
+
+78. Kontrak sedia ada
+
+79. Pemindahan wang dalam kumpulan wang
+
+80. Keanggotaan Jemaah dibubarkan
+
+81. Penerusan pegawai dan pekhidmat
+
+82. Kecualian bagi lesen dan daftar
+
+83. Penerusan permohonao, dsb., yang beium selesai
+
+84. Penerusan prosiding sivil dan jenayah
+
+85. Sebutan dalam undang-undang atau dokumen mengenai Jemaah dibubarkan
+
+86. Penerusan penggunaan nama
+
+87. Pencegahan anomali
 
 ## JADUAL
 
@@ -238,7 +330,7 @@ Fungss Lembaga
 
 <!-- page 10 -->
 
-JO
+<!-- marginal: JO -->
 
 (d) untuk mengusahakan dan menyelaraskan aktiviti yang- berhubungan dengan penyelidikan dan pembangunan dalam penanaraan, pengeluaran, penuaian, pengekstrakan, pemprosesan, penyimpanan, pengangkutan, pemakaian, penggunaan dan pemasaran lada dan keluaran lada termasuk sisa lada dan perkhidmatan yang berhubungan dengannya;
 
@@ -902,9 +994,7 @@ melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi 
 
 47. (1) Seseorang pegawai diberi kuasa yang membuat siasatan di bawah Akta ini, boleh melalui perintah secara bertulis, menghendaki mana-mana orang yang pada hemat pegawai diberi kuasa itu mengetahui fakta dan hal keadaan kes itu supaya hadir di hadapannya, dan orang itu hendaklah hadir sebagaimana dikehendaki.
 
-(2) Jika mana-mana orang enggan hadir sebagaimana yang dikehendaki oleh suatu perintah yang dibuat di bawah subseksyen
-
-(1), pegawai diberi kuasa itu boleh melaporkan keengganannya itu kepada Majistret yang hendaklah mengeluarkan suatu waran untuk memastikan kehadiran orang itu sebagaimana yang dikehendaki oleh perintah itu.
+(2) Jika mana-mana orang enggan hadir sebagaimana yang dikehendaki oleh suatu perintah yang dibuat di bawah subseksyen (1), pegawai diberi kuasa itu boleh melaporkan keengganannya itu kepada Majistret yang hendaklah mengeluarkan suatu waran untuk memastikan kehadiran orang itu sebagaimana yang dikehendaki oleh perintah itu.
 
 ### Pemeriksaan orang yang mengetahui kes
 
@@ -1030,7 +1120,9 @@ kerananya, gagal menyatakan apa-apa fakta, iaitu fakta yang dalam hal keadaan ya
 
 <!-- page 36 -->
 
-(3) Jika tidak ada pendakwaan berkenaan dengan apa-apa lada. atau keluaran lada atau hasil penjualannya, atau apa-apa kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda Iain yang disita di bawah Akta ini, lada atau keluaran lada atau hasil penjualannya, atau apa-apa kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain itu hendaklah disifatkan terlucut hak apabila habis tempoh satu bulan kalendar dari tarikh penyampaian notis ke alamat yang terakhir diketahui orang yang daripadanya lada atau keluaran lada atau hasil penjualannya, atau apa-apa kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain itu disita yang menyatakan bahawa tiada pendakwaan berkenaan dengan lada atau keluaran lada atau hasil penjualannya, atau apa-apa kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain melainkan jika sebelura habis tempoh itu suatu tuntutan baginya telah dibuat mengikut cara yang dinyatakan dalam subseksyen (4), (5), (6) dan (7).
+(3) Jika tidak ada pendakwaan berkenaan dengan apa-apa lada. atau keluaran lada atau hasil penjualannya, atau apa-apa kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda Iain yang disita di bawah Akta ini, lada atau keluaran lada atau hasil penjualannya, atau apa-apa kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain itu hendaklah disifatkan terlucut hak apabila habis tempoh satu bulan kalendar dari tarikh penyampaian notis ke alamat yang terakhir diketahui orang yang daripadanya lada atau keluaran lada atau hasil penjualannya, atau apa-apa kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain itu disita yang menyatakan bahawa tiada pendakwaan berkenaan dengan lada atau keluaran lada atau hasil penjualannya, atau apa-apa kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain melainkan jika sebelura habis tempoh itu suatu tuntutan baginya telah dibuat mengikut cara yang dinyatakan dalam subseksyen (4),
+
+(5), (6) dan (7).
 
 (4) Mana-mana orang yang menegaskan bahawa dia ialah pemunya lada atau keluaran lada atau hasil penjualannya, atau kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain yang disebut dalam subseksyen (3) dan bahawa lada atau keluaran lada atau hasil penjualannya, kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain tidak boleh dilucuthakkan boleh, memberikan sendiri atau melalui ejennya yang diberi kuasa secara bertulis notis bertulis kepada pegawai diberi kuasa yang dalam milikannya lada atau keluaran lada atau hasil penjualannya, kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda itu dipegang bahawa dia menuntut lada, atau keluaran lada atau hasil penjualannya, atau kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain itu.
 
@@ -1302,7 +1394,9 @@ jika perbuatan itu dilakukan dengan suci hati, dan dengan mempercayai dengan sem
 
 ### Perlindungan pembcri maklumat
 
-69. (1) Kecuali sebagaimana yang diperuntukkan dalam subseksyen (2) dan (3), tiada saksi dalam apa-apa prosiding sivil atau jenayah boleh dikehendaki atau dibenarkan menzahirkan nama atau alamat pemberi maklumat atau isi maklumat yang diterima daripadanya atau menyatakan apa-apa perkara yang mungkin menyebabkan pemberi maklumat diketahui.
+69. (1) Kecuali sebagaimana yang diperuntukkan dalam subseksyen
+
+(2) dan (3), tiada saksi dalam apa-apa prosiding sivil atau jenayah boleh dikehendaki atau dibenarkan menzahirkan nama atau alamat pemberi maklumat atau isi maklumat yang diterima daripadanya atau menyatakan apa-apa perkara yang mungkin menyebabkan pemberi maklumat diketahui.
 
 (2) Jika apa-apa buku, rekod, akaun, dokumen atau data yang dikomputerkan yang menjadi keterangan atau yang boleh diperiksa dalam apa-apa prosiding sivil atau jenayah mengandungi apa-apa catatan yang dalamnya mana-mana pemberi maklumat dinamakan atau diperihalkan atau yang mungkin menyebabkan pemberi maklumat diketahui, mahkamah hendaklah menyebabkan supaya
 
@@ -1860,4 +1954,4 @@ I1. Fasal 11 menyatakan hal keadaan apabila jawatan seorang anggota Lembaga diko
 
 Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya belum dapat diketahui sekarang ini.
 
-[PN(U2)2416]
+<!-- marginal: [PN(U2)2416] -->

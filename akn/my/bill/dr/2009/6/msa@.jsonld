@@ -56,34 +56,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/msa@/~cl_2",
       "@type": "akn:clause",
       "eli:number": "2",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/msa@/~cl_2__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/msa@/~cl_2__para_b"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta Pelantar Benua 1966 [Akta 83], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 2 dengan menggantikan takrif “continental shelf” dengan takrif yang berikut: ‘ “continental shelf” means the sea-bed and subsoil of the submarine areas that extend beyond the territorial sea—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/msa@/~cl_2__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/msa@/~cl_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "throughout the natural prolongation of the land territory of Malaysia to the outer edge of the continental margin as determined in accordance with section 2b; or"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/msa@/~cl_2__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/msa@/~cl_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "to a distance of two hundred nautical miles from the baselines from which the breadth of the territorial sea is measured in accordance with the Baselines of Maritime Zones Act 2006 [Act 660] where the outer edge of the continental margin does not extend up to that distance, but shall not affect the territory of the States or the limits of the territorial waters of the States and the rights and powers of the State Authorities therein.”. Seksyen baru 2a dan 2b"
+        "@value": "Akta Pelantar Benua 1966 [Akta 83], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 2 dengan menggantikan takrif “continental shelf” dengan takrif yang berikut: ‘ “continental shelf” means the sea-bed and subsoil of the submarine areas that extend beyond the territorial sea— (a) throughout the natural prolongation of the land territory of Malaysia to the outer edge of the continental margin as determined in accordance with section 2b; or (b) to a distance of two hundred nautical miles from the baselines from which the breadth of the territorial sea is measured in accordance with the Baselines of Maritime Zones Act 2006 [Act 660] where the outer edge of the continental margin does not extend up to that distance, but shall not affect the territory of the States or the limits of the territorial waters of the States and the rights and powers of the State Authorities therein.”. Seksyen baru 2a dan 2b"
       }
     },
     {

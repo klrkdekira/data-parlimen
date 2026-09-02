@@ -194,11 +194,7 @@ of the limited liability partnership, the limited liability partnership shall by
 
 ### “Corporate voluntary arrangement and judicial management
 
-49a. (1) Except for sections 395 and 403 and paragraph 1 of the Eighth Schedule, the provisions of Division 8 of
-
-## Part III (in so far as they relate to a company limited by shares)
-
-of the Companies Act 2016 and the Companies (Corporate Rescue Mechanism) Rules 2018 [P.U. (A) 64/2018] shall apply to the voluntary arrangement and judicial management of a limited liability partnership subject to such modifications and adaptations as may be necessary, and in particular the following modifications:
+49a. (1) Except for sections 395 and 403 and paragraph 1 of the Eighth Schedule, the provisions of Division 8 of Part III (in so far as they relate to a company limited by shares) of the Companies Act 2016 and the Companies (Corporate Rescue Mechanism) Rules 2018 [P.U. (A) 64/2018] shall apply to the voluntary arrangement and judicial management of a limited liability partnership subject to such modifications and adaptations as may be necessary, and in particular the following modifications:
 
 (a) references to a “company” shall be taken as references to a limited liability partnership;
 
@@ -244,9 +240,7 @@ of the Companies Act 2016 and the Companies (Corporate Rescue Mechanism) Rules 2
 
 ### “Time for compliance with the requirements under the Act
 
-### 70a.
-
-If any action or document is required in compliance with this Act and the period for compliance is not prescribed, the time to comply shall be within thirty days from the action or document is required to be complied with.”.
+70A. If any action or document is required in compliance with this Act and the period for compliance is not prescribed, the time to comply shall be within thirty days from the action or document is required to be complied with.”.
 
 ### Substitution of section 76
 
@@ -286,7 +280,7 @@ If any action or document is required in compliance with this Act and the period
 
 12. The principal Act is amended by inserting after the Third Schedule the following schedule:
 
-“Fourth Schedule
+## “FOURTH SCHEDULE
 
 [Subsection 49b(4)]
 

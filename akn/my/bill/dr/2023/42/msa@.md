@@ -8,7 +8,7 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -16,7 +16,7 @@
 
 2. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PENDAFTARAN
 
@@ -28,7 +28,7 @@
 
 6. Daftar produk tembakau, dsb.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PENGIKLANAN, PROMOSI DAN TAJAAN
 
@@ -38,13 +38,15 @@
 
 9. Larangan promosi atau tajaan produk tembakau, dsb.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## KAWALAN PENJUALAN
 
 10. Larangan penjualan produk tembakau, dsb.
 
 11. Larangan penjualan produk tembakau, dsb., tiruan
+
+<!-- marginal: WJW23/1210 BM.indd 1 -->
 
 <!-- marginal: 24/11/2023 9:59 PM -->
 
@@ -54,7 +56,7 @@
 
 13. Larangan penjualan produk tembakau, dsb., kepada orang belum dewasa
 
-## Bahagian V
+## BAHAGIAN V
 
 ## KAWALAN HARGA, PEMBUNGKUSAN, PELABELAN, PENGILANGAN, DSB.
 
@@ -62,7 +64,7 @@
 
 15. Pembungkusan dan pelabelan
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## LARANGAN MEROKOK
 
@@ -72,7 +74,7 @@
 
 18. Tanggungjawab tuan punya bangunan, dsb.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## LIABILITI PENGILANG, PENGIMPORT ATAU PENGEDAR
 
@@ -80,7 +82,7 @@
 
 20. Tanggungjawab pengilang, pengimport atau pengedar
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## PENTADBIRAN
 
@@ -92,7 +94,7 @@
 
 24. Pelantikan pegawai diberi kuasa
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## PENGUATKUASAAN
 
@@ -132,7 +134,7 @@
 
 40. Pemeriksaan orang yang mempunyai pengetahuan tentang kes
 
-## Bahagian X
+## BAHAGIAN X
 
 ## PERBICARAAN DAN PROSIDING
 
@@ -150,13 +152,15 @@
 
 47. Kuasa untuk memerintahkan kehadiran ke mahkamah
 
-## Bahagian XI
+## BAHAGIAN XI
 
 AM
 
 48. Pengkompaunan kesalahan
 
 49. Kesalahan oleh pertubuhan perbadanan
+
+<!-- marginal: WJW23/1210 BM.indd 3 -->
 
 <!-- marginal: 24/11/2023 9:59 PM -->
 
@@ -170,7 +174,7 @@ AM
 
 53. Kuasa untuk membuat peraturan-peraturan
 
-## Bahagian XII
+## BAHAGIAN XII
 
 ## PERALIHAN
 
@@ -188,7 +192,7 @@ Suatu Akta untuk mengadakan peruntukan bagi perkara yang berhubungan dengan pend
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -197,6 +201,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 1. (1) Akta ini bolehlah dinamakan Akta Kawalan Produk Merokok Demi Kesihatan Awam 2023.
 
 (2) Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
+
+<!-- marginal: WJW23/1210 BM.indd 5 -->
 
 <!-- marginal: 24/11/2023 9:59 PM -->
 
@@ -248,6 +254,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 “pegawai diberi kuasa” ertinya mana-mana pegawai perubatan kesihatan, atau mana-mana pegawai kesihatan persekitaran atau penolong pegawai kesihatan persekitaran daripada Kementerian Kesihatan atau mana-mana pihak berkuasa tempatan, atau mana-mana orang berkelayakan yang sesuai, yang dilantik oleh Menteri menjadi pegawai diberi kuasa di bawah seksyen 24;
 
+<!-- marginal: WJW23/1210 BM.indd 7 -->
+
 <!-- marginal: 24/11/2023 9:59 PM -->
 
 <!-- page 8 -->
@@ -276,7 +284,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (2) Bagi maksud Akta ini, suatu sebutan mengenai “produk merokok” hendaklah ditafsirkan sebagai suatu sebutan mengenai produk tembakau, bahan merokok atau produk pengganti tembakau.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PENDAFTARAN
 
@@ -295,6 +303,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 (b) sekiranya orang itu ialah suatu pertubuhan perbadanan—
 
 (i) bagi kesalahan pertama, didenda tidak kurang daripada dua puluh ribu ringgit dan tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya; dan
+
+<!-- marginal: WJW23/1210 BM.indd 9 -->
 
 <!-- marginal: 24/11/2023 9:59 PM -->
 
@@ -342,13 +352,15 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 6. (1) Ketua Pengarah hendaklah menyimpan dan menyenggara apa-apa daftar produk tembakau, bahan merokok dan produk pengganti tembakau yang didaftarkan di bawah seksyen 4.
 
+<!-- marginal: WJW23/1210 BM.indd 11 -->
+
 <!-- marginal: 24/11/2023 9:59 PM -->
 
 <!-- page 12 -->
 
 (2) Daftar itu hendaklah disimpan dalam apa-apa cara dan hendaklah mengandungi apa-apa butir sebagaimana yang ditentukan oleh Ketua Pengarah.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PENGIKLANAN, PROMOSI DAN TAJAAN
 
@@ -400,6 +412,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (i) bagi kesalahan pertama, didenda tidak melebihi sepuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya; dan
 
+<!-- marginal: WJW23/1210 BM.indd 13 -->
+
 <!-- marginal: 24/11/2023 9:59 PM -->
 
 <!-- page 14 -->
@@ -440,13 +454,15 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (ii) bagi kesalahan kedua atau yang berikutnya, didenda tidak kurang daripada lima puluh ribu ringgit dan tidak melebihi tiga ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## KAWALAN PENJUALAN
 
 ### Larangan penjualan produk tembakau, dsb.
 
 10. (1) Tiada seorang pun boleh menjual atau mempamerkan bagi penjualan apa-apa produk tembakau, bahan merokok atau produk pengganti tembakau melainkan jika jualan atau pameran bagi penjualan itu mematuhi kehendak sebagaimana yang ditetapkan.
+
+<!-- marginal: WJW23/1210 BM.indd 15 -->
 
 <!-- marginal: 24/11/2023 9:59 PM -->
 
@@ -502,6 +518,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (d) apa-apa produk tembakau, bahan merokok atau produk pengganti tembakau yang dibungkus atau dilabel bersama atau sebaliknya dengan apa-apa barang atau perkhidmatan lain.
 
+<!-- marginal: WJW23/1210 BM.indd 17 -->
+
 <!-- marginal: 24/11/2023 9:59 PM -->
 
 <!-- page 18 -->
@@ -548,7 +566,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (4) Mana-mana orang yang melanggar subseksyen (3) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima ratus ringgit atau diperintahkan untuk melaksanakan khidmat masyarakat menurut Kanun Tatacara Jenayah [Akta 593] atau Akta Kanak-Kanak 2001 [Akta 611].
 
-## Bahagian V
+## BAHAGIAN V
 
 ## KAWALAN HARGA, PEMBUNGKUSAN, PELABELAN,
 
@@ -559,6 +577,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 14. (1) Harga runcit atau harga jualan minimum bagi apa-apa produk tembakau, bahan merokok atau produk pengganti tembakau hendaklah mengikut harga dan syarat sebagaimana yang ditetapkan.
 
 (2) Apa-apa permohonan oleh mana-mana pengilang atau pengimport untuk menentukan harga runcit atau harga jualan minimum apa-apa produk tembakau, bahan merokok atau produk pengganti tembakau hendaklah dibuat kepada Ketua Pengarah mengikut cara sebagaimana yang ditetapkan.
+
+<!-- marginal: WJW23/1210 BM.indd 19 -->
 
 <!-- marginal: 24/11/2023 9:59 PM -->
 
@@ -604,13 +624,15 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (ii) bagi kesalahan kedua atau yang berikutnya, didenda tidak kurang daripada lima puluh ribu ringgit dan tidak melebihi tiga ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## LARANGAN MEROKOK
 
 ### Kawasan atau tempat larangan merokok
 
 16. (1) Menteri boleh, melalui perintah yang disiarkan dalam Warta dan tertakluk kepada apa-apa syarat yang difikirkannya patut, mengisytiharkan mana-mana bangunan atau bahagian bangunan itu, suatu tempat atau bahagian tempat itu, atau mana-mana kawasan atau kenderaan, yang orang awam mempunyai akses sebagai suatu kawasan atau tempat larangan merokok.
+
+<!-- marginal: WJW23/1210 BM.indd 21 -->
 
 <!-- marginal: 24/11/2023 9:59 PM -->
 
@@ -644,7 +666,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (2) Mana-mana orang yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima ribu ringgit.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## LIABILITI PENGILANG, PENGIMPORT ATAU PENGEDAR
 
@@ -662,11 +684,13 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (b) sekiranya orang itu ialah suatu pertubuhan perbadanan, didenda tidak kurang daripada sepuluh ribu ringgit dan tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya.
 
+<!-- marginal: WJW23/1210 BM.indd 23 -->
+
 <!-- marginal: 24/11/2023 9:59 PM -->
 
 <!-- page 24 -->
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## PENTADBIRAN
 
@@ -708,6 +732,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (3) Menteri hendaklah menyediakan atau menyebabkan disediakan suatu senarai makmal yang diluluskan dan Menteri boleh mengubah senarai itu sebagaimana hal keadaan memerlukan.
 
+<!-- marginal: WJW23/1210 BM.indd 25 -->
+
 <!-- marginal: 24/11/2023 9:59 PM -->
 
 <!-- page 26 -->
@@ -720,7 +746,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (3) Seseorang pegawai diberi kuasa hendaklah, apabila bertindak dalam bidang kuasa dan kewajipannya di bawah Akta ini, disifatkan sebagai seorang pekhidmat awam mengikut pengertian Kanun Keseksaan [Akta 574].
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## PENGUATKUASAAN
 
@@ -749,6 +775,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 27. (1) Setelah pembayaran kepada mana-mana orang yang menjual produk tembakau, bahan merokok atau produk pengganti tembakau atau kepada ejen atau pekerjanya, pada nilai pasaran semasa bagi produk tembakau, bahan merokok atau produk pengganti tembakau itu, mana-mana pegawai diberi kuasa boleh di tempat yang produk tembakau, bahan merokok atau produk pengganti tembakau itu dijual meminta dan memilih dan mengambil atau memperoleh sampel produk tembakau, bahan merokok atau produk pengganti tembakau itu bagi maksud analisis.
 
 (2) Seseorang pegawai diberi kuasa boleh, di tempat yang pegawai diberi kuasa semunasabahnya percaya digunakan atau boleh digunakan bagi maksud pengilangan, pembungkusan, penyimpanan, penyerahan, pengedaran atau penjualan produk tembakau, bahan merokok atau produk pengganti tembakau itu, meminta dan memilih dan mengambil atau memperoleh sampel produk tembakau, bahan merokok atau produk pengganti tembakau itu bagi maksud analisis tanpa bayaran daripada mana-mana pengimport, pengilang atau pengedar atau daripada ejen atau pekerjanya.
+
+<!-- marginal: WJW23/1210 BM.indd 27 -->
 
 <!-- marginal: 24/11/2023 9:59 PM -->
 
@@ -783,6 +811,8 @@ sampel itu terdiri daripada atau mengandungi produk tembakau, bahan merokok atau
 ### pengangkut
 
 31. (1) Sekiranya seseorang pegawai diberi kuasa mempunyai sebab yang munasabah untuk mengesyaki bahawa mana-mana pengangkut sedang membawa apa-apa produk tembakau, bahan merokok, produk pengganti tembakau, jentera, kelengkapan, buku, rekod, dokumen atau apa-apa artikel lain yang berkenaan dengannya suatu kesalahan di bawah Akta ini kecuali bagi kesalahan di bawah seksyen 17, sedang atau telah dilakukan, pegawai itu boleh memberhentikan dan menggeledah pengangkut itu dan boleh, jika semasa pemeriksaan itu dia mempunyai sebab yang munasabah untuk mempercayai bahawa pengangkut itu sedang atau telah digunakan bagi pelakuan kesalahan itu, menyita pengangkut itu dan mana-mana produk tembakau, bahan merokok, produk pengganti tembakau, jentera, kelengkapan, buku, rekod, dokumen atau apa-apa artikel lain yang dijumpai dalam pengangkut itu yang semunasabahnya dipercayai dapat memberikan keterangan mengenai pelakuan kesalahan itu.
+
+<!-- marginal: WJW23/1210 BM.indd 29 -->
 
 <!-- marginal: 24/11/2023 9:59 PM -->
 
@@ -830,6 +860,8 @@ pelakuan suatu kesalahan di bawah Akta ini atau mana-mana peraturan-peraturan ya
 
 (6) Jika, oleh sebab sifat, saiz atau amaunnya, adalah tidak praktikal untuk memindahkan apa-apa bekas, bungkusan, pengangkut, buku, dokumen atau lain-lain benda yang disita di bawah seksyen ini, pegawai diberi kuasa hendaklah mengelak pengangkut, kontena atau premis yang bekas, bungkusan, buku, dokumen atau lain-lain benda itu dijumpai.
 
+<!-- marginal: WJW23/1210 BM.indd 31 -->
+
 <!-- marginal: 24/11/2023 9:59 PM -->
 
 <!-- page 32 -->
@@ -872,6 +904,8 @@ pegawai itu boleh memasuki premis itu dan menjalankan berkenaan dengan premis it
 
 untuk memberikan apa-apa bantuan yang munasabah kepadanya sebagaimana yang dikehendakinya bagi maksud seksyen ini.
 
+<!-- marginal: WJW23/1210 BM.indd 33 -->
+
 <!-- marginal: 24/11/2023 9:59 PM -->
 
 <!-- page 34 -->
@@ -907,6 +941,8 @@ untuk memberikan apa-apa bantuan yang munasabah kepadanya sebagaimana yang dikeh
 ### Pemulangan sementara pengangkut, dsb.
 
 37. Jika apa-apa pengangkut, jentera atau kelengkapan disita di bawah Akta ini, mahkamah boleh pada bila-bila masa memerintahkan pemulangan sementara pengangkut, jentera atau kelengkapan itu kepada pemunya pengangkut, jentera atau kelengkapan atau orang yang daripada milikan, jagaan atau kawalannya ia disita, tertakluk kepada terma dan syarat sebagaimana yang mahkamah boleh kenakan, dan tertakluk dalam mana-mana hal, kepada jaminan yang mencukupi diberikan sehingga memuaskan hati mahkamah bahawa pengangkut, jentera atau kelengkapan itu akan diserahkan balik kepada mahkamah apabila diminta dan bahawa terma dan syarat itu, jika ada, akan dipatuhi.
+
+<!-- marginal: WJW23/1210 BM.indd 35 -->
 
 <!-- marginal: 24/11/2023 9:59 PM -->
 
@@ -946,13 +982,15 @@ untuk memberikan apa-apa bantuan yang munasabah kepadanya sebagaimana yang dikeh
 
 (b) orang itu diberi peluang untuk membuat apa-apa pembetulan yang ingin dibuat.
 
-## Bahagian X
+## BAHAGIAN X
 
 ## PERBICARAAN DAN PROSIDING
 
 ### Pendakwaan
 
 41. Tiada pendakwaan bagi atau berhubung dengan apa-apa kesalahan di bawah Akta ini atau mana-mana peraturan-peraturan yang dibuat di bawah Akta ini boleh dimulakan kecuali oleh atau dengan keizinan bertulis Pendakwa Raya.
+
+<!-- marginal: WJW23/1210 BM.indd 37 -->
 
 <!-- marginal: 24/11/2023 9:59 PM -->
 
@@ -992,6 +1030,8 @@ untuk memberikan apa-apa bantuan yang munasabah kepadanya sebagaimana yang dikeh
 
 (b) akan menjejaskan perlindungan seorang saksi.
 
+<!-- marginal: WJW23/1210 BM.indd 39 -->
+
 <!-- marginal: 24/11/2023 9:59 PM -->
 
 <!-- page 40 -->
@@ -1004,7 +1044,7 @@ untuk memberikan apa-apa bantuan yang munasabah kepadanya sebagaimana yang dikeh
 
 (3) Notis di bawah subseksyen (1) hendaklah sebagaimana yang ditetapkan.
 
-## Bahagian XI
+## BAHAGIAN XI
 
 AM
 
@@ -1033,6 +1073,8 @@ AM
 (b) apa-apa dokumen atau benda yang disita yang berkaitan dengan kesalahan boleh dilepaskan oleh Ketua Pengarah, tertakluk kepada terma sebagaimana yang difikirkan patut oleh Ketua Pengarah.
 
 (6) Semua jumlah wang yang diterima oleh Ketua Pengarah atau pegawai diberi kuasa di bawah seksyen ini hendaklah dibayar ke dalam dan menjadi sebahagian daripada Kumpulan Wang Disatukan Persekutuan.
+
+<!-- marginal: WJW23/1210 BM.indd 41 -->
 
 <!-- marginal: 24/11/2023 9:59 PM -->
 
@@ -1076,6 +1118,8 @@ AM
 
 52. (1) Ketua Pengarah boleh, secara bertulis, mewakilkan apa-apa kuasa, tanggungjawab atau fungsi Ketua Pengarah, selain kuasa di bawah seksyen 48, kepada mana-mana pegawai di bawah kawalan, arahan dan penyeliaan Ketua Pengarah tertakluk kepada apa-apa syarat, batasan atau sekatan yang difikirkan patut oleh Ketua Pengarah.
 
+<!-- marginal: WJW23/1210 BM.indd 43 -->
+
 <!-- marginal: 24/11/2023 9:59 PM -->
 
 <!-- page 44 -->
@@ -1116,7 +1160,7 @@ AM
 
 (3) Mana-mana peraturan-peraturan yang dibuat di bawah subseksyen (1) boleh menetapkan apa-apa perbuatan atau peninggalan yang melanggar peraturan-peraturan itu menjadi suatu kesalahan dan boleh menetapkan hukuman denda yang tidak melebihi dua ratus ribu ringgit atau pemenjaraan selama tempoh tidak melebihi sepuluh tahun atau kedua-duanya bagi kesalahan itu.
 
-## Bahagian XII
+## BAHAGIAN XII
 
 ## PERALIHAN
 
@@ -1126,6 +1170,8 @@ AM
 
 (2) Jika Ketua Pengarah menolak permohonan bagi pendaftaran yang dibuat di bawah subseksyen 3(1), pengimport, pengilang atau pengedar produk tembakau, bahan merokok atau produk pengganti tembakau hendaklah, dengan perbelanjaannya sendiri, memanggil semula dan memberhentikan penjualan produk tembakau, bahan merokok atau produk pengganti tembakau itu.
 
+<!-- marginal: WJW23/1210 BM.indd 45 -->
+
 <!-- marginal: 24/11/2023 9:59 PM -->
 
 <!-- page 46 -->
@@ -1134,7 +1180,7 @@ AM
 
 Rang Undang-Undang Kawalan Produk Merokok Demi Kesihatan Awam 2023 (“Akta yang dicadangkan”) bertujuan untuk mengadakan peruntukan bagi perkara yang berhubungan dengan pendaftaran, pengiklanan, kawalan ke atas penjualan dan pembelian produk tembakau, bahan merokok dan produk pengganti tembakau.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I Akta yang dicadangkan memperkatakan mengenai perkara permulaan.
 
@@ -1142,7 +1188,7 @@ Rang Undang-Undang Kawalan Produk Merokok Demi Kesihatan Awam 2023 (“Akta yang
 
 4. Fasal 2 mengandungi takrif bagi perkataan dan ungkapan tertentu yang digunakan dalam Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 5. Bahagian II Akta yang dicadangkan memperkatakan tentang peruntukan yang berhubungan dengan pendaftaran, pembatalan dan penggantungan pendaftaran apa-apa produk tembakau, bahan merokok atau produk pengganti tembakau di bawah Akta yang dicadangkan.
 
@@ -1154,7 +1200,7 @@ Rang Undang-Undang Kawalan Produk Merokok Demi Kesihatan Awam 2023 (“Akta yang
 
 9. Fasal 6 bertujuan untuk memperuntukkan bahawa Ketua Pengarah hendaklah menyimpan dan menyenggara daftar produk tembakau, bahan merokok dan produk pengganti tembakau yang didaftarkan di bawah fasal 4.
 
-## Bahagian III
+## BAHAGIAN III
 
 10. Bahagian III Akta yang dicadangkan memperkatakan tentang larangan apa-apa pengiklanan, promosi dan tajaan produk tembakau, bahan merokok atau produk pengganti tembakau dan tiruannya.
 
@@ -1168,7 +1214,7 @@ Rang Undang-Undang Kawalan Produk Merokok Demi Kesihatan Awam 2023 (“Akta yang
 
 13. Fasal 9 bertujuan untuk melarang apa-apa promosi atau tajaan apa-apa produk tembakau, bahan merokok atau produk pengganti tembakau yang dimaksudkan atau berkemungkinan untuk menggalakkan mana-mana orang untuk merokok atau dipromosikan sebagai suatu produk berhenti merokok. Mana-mana orang yang gagal mematuhi fasal ini melakukan suatu kesalahan.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 14. Bahagian IV Akta yang dicadangkan memperkatakan tentang kawalan penjualan apa-apa produk tembakau, bahan merokok atau produk pengganti tembakau dan tiruannya.
 
@@ -1180,9 +1226,11 @@ Rang Undang-Undang Kawalan Produk Merokok Demi Kesihatan Awam 2023 (“Akta yang
 
 18. Fasal 13 bertujuan untuk melarang penjualan apa-apa produk tembakau, bahan merokok atau produk pengganti tembakau kepada mana-mana orang yang belum dewasa. Fasal ini juga melarang orang belum dewasa daripada membeli apa-apa produk tembakau, bahan merokok atau produk pengganti tembakau. Mana-mana orang yang gagal mematuhi fasal ini melakukan suatu kesalahan.
 
-## Bahagian V
+## BAHAGIAN V
 
 19. Bahagian V Akta yang dicadangkan memperkatakan tentang kawalan harga, pembungkusan, pelabelan, pengilangan, pengimportan atau pengedaran apa-apa produk tembakau, bahan merokok atau produk pengganti tembakau.
+
+<!-- marginal: WJW23/1210 BM.indd 47 -->
 
 <!-- marginal: 24/11/2023 9:59 PM -->
 
@@ -1192,7 +1240,7 @@ Rang Undang-Undang Kawalan Produk Merokok Demi Kesihatan Awam 2023 (“Akta yang
 
 21. Fasal 15 bertujuan untuk memperuntukkan bahawa pembungkusan dan pelabelan apa-apa produk tembakau, bahan merokok atau produk pengganti tembakau hendaklah mengikut kehendak sebagaimana yang ditetapkan. Mana-mana orang yang gagal untuk mematuhi fasal ini melakukan suatu kesalahan.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 22. Bahagian VI Akta yang dicadangkan memperkatakan tentang peruntukan yang berhubungan dengan larangan merokok.
 
@@ -1202,7 +1250,7 @@ Rang Undang-Undang Kawalan Produk Merokok Demi Kesihatan Awam 2023 (“Akta yang
 
 25. Fasal 18 bertujuan untuk mengadakan peruntukan bagi tanggungjawab tuan punya atau penghuni mana-mana bangunan, tempat, kawasan atau kenderaan yang berhubungan dengan perintah yang dibuat di bawah fasal 16. Mana-mana orang yang gagal mematuhi fasal ini melakukan suatu kesalahan.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 26. Bahagian VII Akta yang dicadangkan memperkatakan tentang liabiliti pengilang, pengimport atau pengedar.
 
@@ -1214,7 +1262,7 @@ Rang Undang-Undang Kawalan Produk Merokok Demi Kesihatan Awam 2023 (“Akta yang
 
 <!-- page 49 -->
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 29. Bahagian VIII Akta yang dicadangkan memperkatakan tentang perkara yang berhubungan dengan pentadbiran Akta yang dicadangkan.
 
@@ -1226,13 +1274,15 @@ Rang Undang-Undang Kawalan Produk Merokok Demi Kesihatan Awam 2023 (“Akta yang
 
 33. Fasal 24 bertujuan untuk memberi Menteri kuasa untuk melantik mana-mana orang untuk menjadi pegawai diberi kuasa bagi maksud Akta ini.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 34. Bahagian IX Akta yang dicadangkan memperkatakan tentang peruntukan yang berhubungan dengan penguatkuasaan.
 
 35. Fasal 25 bertujuan untuk memperuntukkan bahawa seorang pegawai diberi kuasa hendaklah mempunyai semua atau mana-mana kuasa seorang pegawai polis berhubung dengan siasatan yang diperuntukkan di bawah Kanun Tatacara Jenayah [Akta 593].
 
 36. Fasal 26 bertujuan untuk memberikan kuasa kepada pegawai diberi kuasa untuk mempunyai akses kepada mana-mana premis sekiranya pegawai diberi kuasa semunasabahnya percaya bahawa mana-mana premis digunakan atau boleh digunakan bagi pengilangan, pembungkusan, penyimpanan, penyerahan, pengedaran atau penjualan produk tembakau, bahan merokok atau produk pengganti tembakau atau apa-apa produk tembakau, bahan merokok atau produk pengganti tembakau tiruan pada bila-bila masa yang munasabah bagi maksud siasatan. Fasal ini juga memperuntukkan kuasa siasatan tertentu untuk dilaksanakan oleh pegawai diberi kuasa apabila memasuki premis.
+
+<!-- marginal: WJW23/1210 BM.indd 49 -->
 
 <!-- marginal: 24/11/2023 9:59 PM -->
 
@@ -1270,11 +1320,13 @@ Rang Undang-Undang Kawalan Produk Merokok Demi Kesihatan Awam 2023 (“Akta yang
 
 50. Fasal 40 bertujuan untuk memberikan kuasa kepada pegawai diberi kuasa untuk memeriksa secara lisan mana-mana orang yang mempunyai pengetahuan tentang fakta dan hal keadaan kes itu.
 
-## Bahagian X
+## BAHAGIAN X
 
 51. Bahagian X Akta yang dicadangkan memperkatakan tentang cara yang berhubungan dengan perbicaraan dan prosiding.
 
 52. Fasal 41 bertujuan untuk memperuntukkan bahawa pendakwaan di bawah Akta ini atau mana-mana peraturan-peraturan yang dibuat di bawah Akta ini hendaklah dimulakan dengan keizinan secara bertulis Pendakwa Raya.
+
+<!-- marginal: WJW23/1210 BM.indd 51 -->
 
 <!-- marginal: 24/11/2023 9:59 PM -->
 
@@ -1292,7 +1344,7 @@ Rang Undang-Undang Kawalan Produk Merokok Demi Kesihatan Awam 2023 (“Akta yang
 
 58. Fasal 47 bertujuan untuk memberikan kuasa kepada Ketua Pengarah atau pegawai diberi kuasa untuk menyampaikan kepada mana-mana orang yang melakukan kesalahan di bawah Akta ini suatu notis yang memerintahkan orang itu hadir di hadapan mahkamah majistret.
 
-## Bahagian XI
+## BAHAGIAN XI
 
 59. Bahagian XI Akta yang dicadangkan memperkatakan tentang peruntukan am.
 
@@ -1312,7 +1364,7 @@ Rang Undang-Undang Kawalan Produk Merokok Demi Kesihatan Awam 2023 (“Akta yang
 
 <!-- page 53 -->
 
-## Bahagian XII
+## BAHAGIAN XII
 
 66. Fasal 54 Bahagian XII bertujuan untuk mengadakan peruntukan bagi peralihan.
 

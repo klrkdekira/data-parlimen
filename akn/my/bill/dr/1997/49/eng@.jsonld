@@ -62,7 +62,6 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/49/eng@/~cl_3",
       "@type": "akn:clause",
       "eli:number": "3",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/49/eng@/~cl_3__subsec_2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/49/eng@",
       "schema:name": {
         "@language": "en",
@@ -70,17 +69,7 @@
       },
       "schema:text": {
         "@language": "en",
-        "@value": "10 the following section: \" 10A. (1) Notwithstanding section 10, the Board Board may act as may act as a collection agent for and on behalf collection of any body for the recovery of loans due for agent. repayment to that body under any written law."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/49/eng@/~cl_3__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/49/eng@/~cl_3",
-      "schema:text": {
-        "@language": "en",
-        "@value": "For the purposes of this section the Minister may, from time to time, give directions and make regulations in relation to the collection of the repayments.\"."
+        "@value": "10 the following section: \" 10A. (1) Notwithstanding section 10, the Board Board may act as may act as a collection agent for and on behalf collection of any body for the recovery of loans due for agent. repayment to that body under any written law. (2) For the purposes of this section the Minister may, from time to time, give directions and make regulations in relation to the collection of the repayments.\"."
       }
     }
   ]

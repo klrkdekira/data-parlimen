@@ -12,11 +12,7 @@
 
 ## SUSUNAN FASAL
 
-1. Tajuk ringkas.
-
-2. Pemberian bidang kuasa jenayah.
-
-3. Pengesahan.
+1. Tajuk ringkas. 2. Pemberian bidang kuasa jenayah. 3. Pengesahan.
 
 <!-- page 3 -->
 
@@ -32,7 +28,7 @@ DAN BAHAWASANYA adalah suaimanfaat untuk memberi bidang kuasa berkenaan dengan k
 
 ## OLEH YANG DEMIKIAN, MAKA
 
-## INILAH
+<!-- marginal: INILAH -->
 
 DIPERBUAT UNDANG-UNDANG oleh Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan Dewan Negara dan Dewan Rakyat yang bersidang dalam Parlimen, dan dengan kuasa daripadanya, seperti berikut:
 
@@ -60,13 +56,17 @@ kuasa mana-mana undang-undang bertulis adalah dengan ini diberi bidang kuasa unt
 
 pemenjaraan selama suatu tempoh yang tidak melebihi dua tahun atau dengan denda yang tidak melebihi dua ratus ringgit atau dengan apa-apa kombinasinya, atau untuk selainnya memperlakukan pesalah mengikut apa-apa cara yang, di bawah atau menurut kuasa mana-mana undang- undang sedemikian, mereka boleh dari semasa ke semasa diberi. kuasa untuk memperlakukannya:
 
-Dengan syarat bahawa bidang kuasa sedemikian tidak boleh dijalankan berkenaan dengan kesalahan tersebut N.M.B. yang adalah juga suatu kesalahan di bawah Kanun
+Dengan syarat bahawa bidang kuasa sedemikian tidak boleh dijalankan berkenaan dengan kesalahan tersebut
+
+<!-- marginal: N.M.B. -->
+
+yang adalah juga suatu kesalahan di bawah Kanun
 
 ## Bab 45.
 
 Keseksaan.
 
-Pengesahan.
+<!-- marginal: Pengesahan. -->
 
 3. Semua kesalahan yang sebelum mula berkuatkuasanya Akta ini telah dibicarakan oleh mana-mana mahkamah anak negeri yang disebut terdahulu hendaklah, kecuali jika ia telah diisytiharkan secara kehakiman selainnya, disifatkan telah dibicarakan dengan sah seolah-olah bidang kuasa berkenaan dengannya telah diberikan kepada mahkamah-mahkamah itu oleh undang-undang persekutuaan.
 

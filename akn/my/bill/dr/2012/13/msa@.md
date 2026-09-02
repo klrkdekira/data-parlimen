@@ -28,7 +28,11 @@ Suatu Akta untuk mengadakan peruntukan bagi laut wilayah Malaysia dan bagi perka
 
 BAHAWASANYA Proklamasi Darurat yang dikeluarkan oleh Yang di-Pertuan Agong pada 15 Mei 1969 di bawah Perkara 150 Perlembagaan Persekutuan telah diungkaikan oleh kedua-dua Dewan Rakyat dan Dewan Negara pada 24 November 2011 dan 20 Disember 2011 masing-masing dan telah terhenti berkuat kuasa menurut Fasal (3) Perkara 150 Perlembagaan Persekutuan;
 
-DAN BAHAWASANYA Ordinan Darurat (Kuasa-Kuasa Perlu), No. 7 1969 [P.U. (A) 307a/1969] telah diperbuat dan dimasyhurkan oleh Yang di-Pertuan Agong pada 2 Ogos 1969 bagi persempadanan laut wilayah Malaysia menurut Fasal (2) Perkara 150 Perlembagaan Persekutuan dan mula berkuat kuasa pada 10 Ogos 1969;
+DAN BAHAWASANYA Ordinan Darurat (Kuasa-Kuasa Perlu), No. 7 1969 [P.U. (A) 307a/1969] telah diperbuat dan dimasyhurkan oleh Yang di-Pertuan Agong pada 2 Ogos 1969 bagi persempadanan laut wilayah Malaysia menurut Fasal (2)
+
+## Perkara 150 Perlembagaan Persekutuan dan mula berkuat kuasa
+
+pada 10 Ogos 1969;
 
 DAN BAHAWASANYA menurut kuasa Fasal (7) Perkara 150 Perlembagaan Persekutuan, Ordinan Darurat (Kuasa-Kuasa Perlu), No. 7 1969 akan terhenti berkuat kuasa apabila habis tempoh enam bulan bermula dengan tarikh sesuatu Proklamasi Darurat terhenti berkuat kuasa kecuali tentang perkara-perkara yang telah dilakukan atau ditinggalkan daripada dilakukan sebelum habis tempoh itu;
 

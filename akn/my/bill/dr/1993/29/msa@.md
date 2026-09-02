@@ -54,7 +54,29 @@ D.R. 29/93
 
 <!-- page 2 -->
 
-18. Pindaan seksyen 113. 19. Pindaan seksyen 114. 20. Pindaan seksyen 115. 21. Pindaan seksyen 116. 22. Pindaan seksyen 117. 23. Pindaan seksyen 118. 24. Pindaan seksyen 119. 25. Pindaan seksyen 120. 26. Pindaan Jadual 1. 27. Pindaan Jadual 3. 28. Pindaan Jadual 6. 29. Pindaan Jadual 7A.
+18. Pindaan seksyen 113.
+
+19. Pindaan seksyen 114.
+
+20. Pindaan seksyen 115.
+
+21. Pindaan seksyen 116.
+
+22. Pindaan seksyen 117.
+
+23. Pindaan seksyen 118.
+
+24. Pindaan seksyen 119.
+
+25. Pindaan seksyen 120.
+
+26. Pindaan Jadual 1.
+
+27. Pindaan Jadual 3.
+
+28. Pindaan Jadual 6.
+
+29. Pindaan Jadual 7A.
 
 ## BAB III
 
@@ -62,13 +84,37 @@ D.R. 29/93
 
 ## (CUKAI PENDAPATAN) 1967
 
-30. Mula berkuatkuasanya pindaan kepada Akta Petroleum (Cukai Pendapatan) 1967. 31. Pindaan seksyen 2. 32. Pindaan seksyen 4. 33. Pindaan seksyen 13A. 34. Pindaan seksyen 23. 35. Seksyen baru 65s. 36. Pindaan Jadual 2.
+30. Mula berkuatkuasanya pindaan kepada Akta Petroleum (Cukai Pendapatan) 1967.
+
+31. Pindaan seksyen 2.
+
+32. Pindaan seksyen 4.
+
+33. Pindaan seksyen 13A.
+
+34. Pindaan seksyen 23.
+
+35. Seksyen baru 65s.
+
+36. Pindaan Jadual 2.
 
 ## BAB IV
 
 ## PINDAAN KEPADA AKTA SETEM 1949
 
-37. Mula berkuatkuasanya pindaan kepada Akta Setem 1949. 38. Pindaan seksyen 2. 39. Pindaan seksyen 9. 40. Pindaan seksyen 80. 41. Pindaan Jadual Pertama. 42. Pindaan Jadual Kedua. 43. Pindaan Jadual Kelima.
+37. Mula berkuatkuasanya pindaan kepada Akta Setem 1949.
+
+38. Pindaan seksyen 2.
+
+39. Pindaan seksyen 9.
+
+40. Pindaan seksyen 80.
+
+41. Pindaan Jadual Pertama.
+
+42. Pindaan Jadual Kedua.
+
+43. Pindaan Jadual Kelima.
 
 <!-- page 3 -->
 
@@ -148,21 +194,31 @@ III dan IV masing-masing.
 
 (5) Seksyen 28(d) hendaklah disifatkan telah mula berkuatkuasa pada I6hb Februari 1993.
 
-(6) Seksyen 17, 18, 19, 20, 21, 22, 23, 24 dan 25 hendaklah berkuatkuasa apabila Akta
+(6) Seksyen 17, 18, 19, 20, 21, 22, 23, 24 dan 25 hendaklah berkuatkuasa apabila Akta ini mula berkuatkuasa.
 
-<!-- marginal: ini mula -->
+<!-- marginal: Pindaan -->
 
-berkuatkuasa.
+4. Akta Cukai Pendapatan 1967. yang disebut "Akta
 
-Pindaan 4. Akta Cukai Pendapatan 1967. yang disebut "Akta seksyen 2. ibu" dalam Bab ini, adalah dipinda dalam subseksyen 2(1) dalam takrif "approved scheme" dengan memasukkan selepas perkataan "means" perkataan- perkataan "the Employees Provident Fund or".
+<!-- marginal: seksyen 2. -->
 
-Pindaan 5. Subseksyen 6A(2) Akta ibu adalah dipinda— seksyen 6A.
+ibu" dalam Bab ini, adalah dipinda dalam subseksyen 2(1) dalam takrif "approved scheme" dengan memasukkan selepas perkataan "means" perkataan- perkataan "the Employees Provident Fund or".
+
+<!-- marginal: Pindaan -->
+
+5. Subseksyen 6A(2) Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 6A. -->
 
 (a) dengan menggantikan perkataan "sixty" dalam perenggan (a) dengan perkataan "ninety"; dan
 
 (b) dengan menggantikan perkataan "thirty" dalam perenggan (b) dengan perkataan "fifty".
 
-Pindaan 6. Seksyen 34 Akta ibu adalah dipinda— seksyen 34.
+<!-- marginal: Pindaan -->
+
+6. Seksyen 34 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 34. -->
 
 (a) dalam subseksyen (4), dengan menggantikan perkataan "fifteen" dalam perenggan (a) dengan perkataan "sixteen";
 
@@ -174,9 +230,7 @@ Pindaan 6. Seksyen 34 Akta ibu adalah dipinda— seksyen 34.
 
 (iii) dengan memasukkan selepas perenggan
 
-(f) perenggan yang berikut; "(g) an amount
-
-<!-- marginal: equal -->
+(f) perenggan yang berikut; "(g) an amount equal
 
 <!-- marginal: to -->
 
@@ -214,31 +268,25 @@ menggantikan perkataan "wholly" yang terdapat dalam perenggan (4)(a) dan (4)(b) 
 
 "Provided that in respect of any gift of money made by him during the period from 1st November 1993 to 31st January 1994 to the Government low-cost housing fund managed by the Central Bank of Malaysia, there shall be given a further deduction of an amount equal to that gift of money.";
 
-(c) dalam subseksyen (7), dalam
+(c) dalam subseksyen (7), dalam takrif "organisation", dengan menggantikan noktah di akhir perenggan (g) dengan tanda baca dan perkataan "; or"; dan
 
-<!-- marginal: takrif -->
-
-"organisation", dengan menggantikan noktah di akhir perenggan (g) dengan tanda baca dan perkataan "; or"; dan
-
-(d) dalam subseksyen (7), dalam
-
-<!-- marginal: takrif -->
-
-"organisation", dengan memasukkan selepas perenggan (g) perenggan yang berikut:
+(d) dalam subseksyen (7), dalam takrif "organisation", dengan memasukkan selepas perenggan (g) perenggan yang berikut:
 
 "(h) an organisation established exclu- sively for the conservation or protection of the environment.".
 
 <!-- page 6 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-### 9. Seksyen 48 Akta
+9. Seksyen 48 Akta
 
 ### ibu adalah dipinda dengan
 
-seksyen 48. menggantikan subseksyen (3) dengan subseksyen yang
+<!-- marginal: seksyen 48. -->
 
-### berikut:
+menggantikan subseksyen (3) dengan subseksyen yang
+
+<!-- marginal: berikut: -->
 
 ### "(3) Where for a year of assessment any
 
@@ -258,13 +306,7 @@ seksyen 48. menggantikan subseksyen (3) dengan subseksyen yang
 
 ### at a university, college or other
 
-establishment
-
-<!-- marginal: (similar -->
-
-<!-- marginal: to -->
-
-<!-- marginal: a -->
+establishment (similar to a
 
 ### university or college) of higher
 
@@ -346,43 +388,45 @@ a place outside Malaysia in the basis year for the year of assessment 1994, or i
 
 <!-- page 8 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-11. Seksyen 50 Akta ibu adalah dipinda— seksyen 50.
+11. Seksyen 50 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 50. -->
 
 (a) dalam perenggan (3)(c), dengan menggantikan perkataan-perkataan "Employees Provident Fund Ordinance 1951" dengan perkataan- perkataan "Employees Provident Fund Act 1991"; dan
 
 (b) dengan menggantikan rujukan birai "F.M. 21/51," dengan rujukan birai "Act 452.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-12. Seksyen 60D Akta ibu adalah dipinda dalam seksyen 60o. subseksyen (5), dalam takrif "venture capital company", dengan menggantikan perenggan (h) dengan perenggan yang berikut:
+12. Seksyen 60D Akta ibu adalah dipinda dalam
+
+<!-- marginal: seksyen 60o. -->
+
+subseksyen (5), dalam takrif "venture capital company", dengan menggantikan perenggan (h) dengan perenggan yang berikut:
 
 "(h) is engaged wholly in the making of irwestments and, throughout the basis period for a year of assessment, not less than seventy per cent of the total funds invested consist of the holding of shares in a venture company, the shares in which are not listed for quotation in the official list of a stock exchange in Malaysia at the time of acquisition of such shares by that venture capital company; and".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-13. Subseksyen 60E(7) Akta ibu adalah dipinda— seksyen 60E.
+13. Subseksyen 60E(7) Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 60E. -->
 
 (a) dalam takrif "approved operational head- quarters company", dengan menggantikan koma dalam perenggan (c) dengan koma bernoktah;
 
 (b) dalam takrif "apprcwed operational head- quarters company", dengan memotong perkataan-perkataan "but does not include a company which carries on a finance business or which provides professional services;"; dan
 
-(c) dalam takrif "qualifying services", dengan menggantikan perenggan
-
-<!-- marginal: (b) -->
+(c) dalam takrif "qualifying services", dengan menggantikan perenggan (b)
 
 <!-- marginal: dengan -->
 
-perenggan yang berikut: "(b) provision of treasury
-
-<!-- marginal: and -->
+perenggan yang berikut: "(b) provision of treasury and
 
 <!-- marginal: fund -->
 
-management services to its offices outside Malaysia or
-
-<!-- marginal: its -->
+management services to its offices outside Malaysia or its
 
 <!-- marginal: related -->
 
@@ -394,11 +438,9 @@ management services to its offices outside Malaysia or
 
 companies outside Malaysia and, where such services include the provision of credit facilities, where the funds for providing such facilities are obtained from outside Malaysia; and".
 
-<!-- marginal: Pindaan -->
+Pindaan
 
-14. Seksyen 76 Akta ibu adalah dipinda—
-
-<!-- marginal: seksyen 76. -->
+14. Seksyen 76 Akta ibu adalah dipinda— seksyen 76.
 
 (a) dengan menggantikan noktah di akhir subseksyen (1) dengan noktah bertindih; dan
 
@@ -406,19 +448,13 @@ companies outside Malaysia and, where such services include the provision of cre
 
 "Provided that where no such nomination has been made by a Ruler or Ruling Chief, section 66 shall apply to such Ruler or Ruling Chief.".
 
-<!-- marginal: Pindaan -->
+Pindaan
 
-15. Seksyen 108 Akta ibu adalah dipinda—
-
-<!-- marginal: seksyen 108. -->
+15. Seksyen 108 Akta ibu adalah dipinda— seksyen 108.
 
 (a) dengan memasukkan selepas subseksyen (2e) subseksyen yang berikut:
 
-"(2c) Notwithstanding any
-
-<!-- marginal: other -->
-
-provision of this Act, where a dividend is paid, credited or distributed with or without deduction of tax during the basis year for the year of assessment 1994, the amount of the dividend received by the shareholder shall be deemed to be a dividend of such a gross amount as after deduction of tax at the rate of thirty-two per cent would be equal to—
+"(2c) Notwithstanding any other provision of this Act, where a dividend is paid, credited or distributed with or without deduction of tax during the basis year for the year of assessment 1994, the amount of the dividend received by the shareholder shall be deemed to be a dividend of such a gross amount as after deduction of tax at the rate of thirty-two per cent would be equal to—
 
 (a) the amount in fact paid or credited; or
 
@@ -432,19 +468,39 @@ and a sum equal to the difference between that gross amount and the amount menti
 
 "(4c) In any case where tax has been deducted or deemed to have been deducted at the rate of thirty-four per cent on any dividend paid, credited or distributed during the basis year for the year of assessment 1994 to which subsection (2c) applies, the compared total shall be determined at the rate of thirty-two per cent.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-16. Seksyen 110 Akta ibu adalah dipinda dengan seksyen 110. memasukkan selepas subseksyen (lB) subseksyen yang berikut:
+16. Seksyen 110 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 110. -->
+
+memasukkan selepas subseksyen (lB) subseksyen yang berikut:
 
 "(lc) Notwithstanding subsection (1), where tax on any dividend paid, credited or distributed during the basis year for the year of assessment 1994 has been deducted at the rate of thirty-four per cent, the tax to be set off under subsection (1) shall be the sum deemed to be the tax deducted from such dividend under section 108(2C).".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-17. Subseksyen 112(1) Akta ibu adalah dipinda dengan seksyen 112. menggantikan perkataan-perkataan "not exceeding one thousand ringgit" dengan perkataan-perkataan "of not less than two hundred ringgit and not more than two thousand ringgit".
+17. Subseksyen 112(1) Akta ibu adalah dipinda dengan
 
-18. Subseksyen 113(1) Akta ibu adalah dipinda dengan Pindaan seksyen 113. menggantikan perkataan-perkataan "not exceeding five thousand ringgit" dengan perkataan-perkataan "of not less than one thousand ringgit and not more than ten thousand ringgit".
+<!-- marginal: seksyen 112. -->
 
-19. Subseksyen 114(1) Akta ibu adalah dipinda dengan Pindaan seksyen 114. menggantikan perkataan-perkataan "not exceeding ten thousand ringgit" dengan perkataan-perkataan "of not less than one thousand ringgit and not more than twenty thousand ringgit".
+menggantikan perkataan-perkataan "not exceeding one thousand ringgit" dengan perkataan-perkataan "of not less than two hundred ringgit and not more than two thousand ringgit".
+
+18. Subseksyen 113(1) Akta ibu adalah dipinda dengan
+
+<!-- marginal: Pindaan -->
+
+<!-- marginal: seksyen 113. -->
+
+menggantikan perkataan-perkataan "not exceeding five thousand ringgit" dengan perkataan-perkataan "of not less than one thousand ringgit and not more than ten thousand ringgit".
+
+19. Subseksyen 114(1) Akta ibu adalah dipinda dengan
+
+<!-- marginal: Pindaan -->
+
+<!-- marginal: seksyen 114. -->
+
+menggantikan perkataan-perkataan "not exceeding ten thousand ringgit" dengan perkataan-perkataan "of not less than one thousand ringgit and not more than twenty thousand ringgit".
 
 <!-- page 11 -->
 
@@ -528,23 +584,9 @@ perenggan 2 BAHAGIAN I dengan menggantikan angka "34" dengan angka "32".
 
 <!-- page 12 -->
 
-of a building for the purposes of that business for the provision of
+of a building for the purposes of that business for the provision of living accommodation for individuals employed by him in that business, that building shall be treated as an industrial buitding for the purposes of that business at any time that it is occupied by individuals so employed, and there shall be substituted for the amount of the allowance which would otherwise fall to be made to him under paragraph 12, 16, 17 or 42 an allowance equal to one-tenth of the qualifying expenditure for that year and for each of the nine following years of assessment.
 
-<!-- marginal: living -->
-
-accommodation for individuals employed by him in that business, that building shall be treated as an industrial buitding for the purposes of that business at any time that it is occupied by individuals so employed, and there shall be substituted for the amount of the allowance which would otherwise fall to be made to him under paragraph 12, 16, 17 or 42 an allowance equal to one-tenth of the qualifying expenditure for that year and for each of the nine following years of assessment.
-
-(2) Where a person has for the purposes of a business of his incurred in the basis period for a year of assessment expenditure on the construction or purchase of a building for the purposes of that business for the provision of child care facilities for individuals employed by him
-
-<!-- marginal: in -->
-
-<!-- marginal: that -->
-
-business, that building shall be treated as an industrial building for the purposes of that business at any time that it is used by individuals so employed, and there shall be substituted for the amount of the allowance which would otherwise fall to be made to him under paragraph 12, 16, 17 or 42 an allowance equal to one-tenth of
-
-<!-- marginal: the -->
-
-qualifying expenditure for that year and for each of the nine following years of assessment.
+(2) Where a person has for the purposes of a business of his incurred in the basis period for a year of assessment expenditure on the construction or purchase of a building for the purposes of that business for the provision of child care facilities for individuals employed by him in that business, that building shall be treated as an industrial building for the purposes of that business at any time that it is used by individuals so employed, and there shall be substituted for the amount of the allowance which would otherwise fall to be made to him under paragraph 12, 16, 17 or 42 an allowance equal to one-tenth of the qualifying expenditure for that year and for each of the nine following years of assessment.
 
 (3) Notwithstanding any other provision of this Schedule, for the purposes of this paragraph the qualifying expenditure in the case of a purchased building shall be the purchase price of that building.
 
@@ -558,7 +600,7 @@ qualifying expenditure for that year and for each of the nine following years of
 
 control of that business or an individual who is a member of the management, administrative or clerical staff engaged in that business.".
 
-<!-- marginal: Pindaan -->
+Pindaan
 
 28. Jadual 6 kepada Akta ibu adalah dipinda—
 
@@ -566,45 +608,49 @@ control of that business or an individual who is a member of the management, adm
 
 (a) dalam perenggan 32, dengan memasukkan selepas perkataan "work" tanda kurung dan perkataan-perkataan "(other than any original painting)";
 
-(b) dalam perenggan 32A— (i) dengan menggantikan perkataan "six" dengan perkataan "twelve"; dan (ii) dengan memasukkan selepas perkataan- perkataan "in respect of" perkataan- perkataan "any musical composition or in respect of';
+(b) dalam perenggan 32A—
 
-(c) dalam perenggan 32e— (i) dengan menggantikan perkataan "twelve" dengan perkataan "twenty"; (ii) dengan memasukkan selepas perkataan "royalty" tanda kurung dan perkataan- perkataan "(other than royalty
+(i) dengan menggantikan perkataan "six" dengan perkataan "twelve"; dan
 
-<!-- marginal: in -->
+(ii) dengan memasukkan selepas perkataan- perkataan "in respect of" perkataan- perkataan "any musical composition or in respect of';
 
-respect of recording discs or tapes)"; dan (iii) dengan memasukkan selepas perkataan "work" perkataan-perkataan "or any original painting"; dan
+(c) dalam perenggan 32e—
 
-(d) dalam perenggan 35— (i) dengan menggantikan noktah di akhir subperenggan (c) dengan tanda baca dan perkataan "; or"; dan (ii) dengan memasukkan selepas sub- perenggan (c) subperenggan yang berikut: "(d) in respect of Bon Simpanan Malaysia issued by the Central Bank of Malaysia.".
+(i) dengan menggantikan perkataan "twelve" dengan perkataan "twenty";
+
+(ii) dengan memasukkan selepas perkataan "royalty" tanda kurung dan perkataan- perkataan "(other than royalty in respect of recording discs or tapes)"; dan
+
+(iii) dengan memasukkan selepas perkataan "work" perkataan-perkataan "or any original painting"; dan
+
+(d) dalam perenggan 35—
+
+(i) dengan menggantikan noktah di akhir subperenggan (c) dengan tanda baca dan perkataan "; or"; dan
+
+(ii) dengan memasukkan selepas sub- perenggan (c) subperenggan yang berikut: "(d) in respect of Bon Simpanan Malaysia issued by the Central Bank of Malaysia.".
 
 <!-- page 14 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-29. Jadual 7A kepada Akta ibu adalah dipinda— Jadual 7A.
+29. Jadual 7A kepada Akta ibu adalah dipinda—
+
+<!-- marginal: Jadual 7A. -->
 
 (a) dengan menggantikan perenggan 1 dengan perenggan yang berikut:
 
-1. Where a company which
+1. Where a company which is resident in Malaysia for the basis year for a year of assessment has incurred in the basis period for that year of assessment capital expen- diture on a factory, plant or machinery, used in Malaysia for the purposes of any qualifying project, there shall be given to the company for that year of assessment a reinvestment allowance of fifty per cent of that expenditure:
 
-<!-- marginal: is -->
+Provided that in the case of a company other than a small scale company as defined under section 33(4} of the Promotion of
 
-resident in Malaysia for the basis year for a year of assessment has incurred in the basis period for that year of assessment capital expen- diture on a factory, plant or machinery, used in Malaysia for the purposes of any qualifying project, there shall be given to the company for that year of assessment a reinvestment allowance of fifty per cent of that expenditure:
+<!-- marginal: Acr 327. -->
 
-Provided that in the case of a company other than a small scale company as defined under section 33(4} of the Promotion
-
-<!-- marginal: of -->
-
-Acr 327. Investments Act 1986 whose basis period for the year of assessment 1995 includes a period prior to the first of January 1994, the reinvest- ment allowance to be given shall be the total of—
+Investments Act 1986 whose basis period for the year of assessment 1995 includes a period prior to the first of January 1994, the reinvest- ment allowance to be given shall be the total of—
 
 (i) forty per cent of the capital expenditure incurred prior to the first of January 1994; and
 
 (ii) fifty per cent of the capital expenditure incurred after the thirty-first of December 1993:
 
-Provided further
-
-<!-- marginal: that capital -->
-
-expenditure shall not include capital expenditure incurred on plant or machinery where such plant or machinery is provided wholly or partly for the use of a director or an individual who is a member of the management, administrative or clerical staff."; dan
+Provided further that capital expenditure shall not include capital expenditure incurred on plant or machinery where such plant or machinery is provided wholly or partly for the use of a director or an individual who is a member of the management, administrative or clerical staff."; dan
 
 <!-- page 15 -->
 
@@ -690,11 +736,27 @@ Berhad" perkataan-perkataan "or the Malaysia- Thailand Joint Authority";
 
 agreement.".
 
-Pindaan 32. Seksyen 4 Akta ibu adalah dipinda dalam seksyen 4. subseksyen (3), dengan memasukkan selepas perkataan- perkataan "Petroleum Nasional Berhad" perkataan- perkataan "or the Malaysia-Thailand Joint Authority".
+<!-- marginal: Pindaan -->
 
-Pindaan 33. Seksyen 13A Akta ibu adalah dipinda dalam seksyen 13A. subseksyen (1), dengan memasukkan selepas perkataan- perkataan "Petroleum Nasional Berhad" di mana-mana jua terdapat dalam subseksyen itu dan dalam nota birai perkataan-perkataan "or the Malaysia-Thailand Joint Authority".
+32. Seksyen 4 Akta ibu adalah dipinda dalam
 
-Pindaan 34. Seksyen 23 Akta ibu adalah dipinda— seksyen 23.
+<!-- marginal: seksyen 4. -->
+
+subseksyen (3), dengan memasukkan selepas perkataan- perkataan "Petroleum Nasional Berhad" perkataan- perkataan "or the Malaysia-Thailand Joint Authority".
+
+<!-- marginal: Pindaan -->
+
+33. Seksyen 13A Akta ibu adalah dipinda dalam
+
+<!-- marginal: seksyen 13A. -->
+
+subseksyen (1), dengan memasukkan selepas perkataan- perkataan "Petroleum Nasional Berhad" di mana-mana jua terdapat dalam subseksyen itu dan dalam nota birai perkataan-perkataan "or the Malaysia-Thailand Joint Authority".
+
+<!-- marginal: Pindaan -->
+
+34. Seksyen 23 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 23. -->
 
 (a) dengan menomborkan semula seksyen 23 yang sedia ada sebagai subseksyen 23(1);
 
@@ -710,37 +772,61 @@ Pindaan 34. Seksyen 23 Akta ibu adalah dipinda— seksyen 23.
 
 "(2) Notwithstanding subsection (1), the chargeable tax for any year of assessment of a chargeable person on income derived from petroleum operations in the Joint Development Area shall be an amount equal to—
 
-(a) zero per cent of the chargeable income ascertained from
-
-<!-- marginal: income -->
-
-for any of the first eight years of production; or
+(a) zero per cent of the chargeable income ascertained from income for any of the first eight years of production; or
 
 (b) ten per cent of the chargeable income ascertained from income for any of the next seven years of production; or
 
 (c) twenty per cent of the chargeable income ascertained from income for any subsequent year of production:
 
-Provided that where the chargeable income ascertained relates to income from two production periods, that chargeable income shall be apportioned to each of those periods (the apportionment being made in the proportion that the number of months of the relevant production period bears to the number of months of that basis period) and the chargeable tax shall be arrived at by applying the rate applicable to each of the releyant production periods
-
-<!-- marginal: to -->
-
-<!-- marginal: the -->
-
-chargeable income so apportioned.
+Provided that where the chargeable income ascertained relates to income from two production periods, that chargeable income shall be apportioned to each of those periods (the apportionment being made in the proportion that the number of months of the relevant production period bears to the number of months of that basis period) and the chargeable tax shall be arrived at by applying the rate applicable to each of the releyant production periods to the chargeable income so apportioned.
 
 (3) For the purposes of subsection (2), the "production period" means the number of years of production referred to in paragraph (a), (b) or (c) of subsection (2), as the case may be.".
 
 <!-- page 18 -->
 
-35. Akta ibu adalah dipinda dengan memasukkan baru 65B. selepas seksyen 65A seksyen yang berikut:
+<!-- marginal: Seksyen -->
 
-Exemption 65B. (1) The Minister may, by statutory to give order, exempt from tax any chargeable person effect to agreements or exempt from tax the income (wholly or in m over- part) of any chargeable person to give effect lapping to any agreement or arrangement made by the areas. Government with the government of any territory outside Malaysia for the joint exploration and exploitation of petroleum in overlapping areas.
+35. Akta ibu adalah dipinda dengan memasukkan
 
-(2) Any order made under subsection (1) shall be laid before the House of Representatives.
+<!-- marginal: baru 65B. -->
+
+selepas seksyen 65A seksyen yang berikut:
+
+<!-- marginal: Exemption -->
+
+65B. (1) The Minister may, by statutory
+
+<!-- marginal: to give -->
+
+order, exempt from tax any chargeable person
+
+<!-- marginal: effect to -->
+
+<!-- marginal: agreements -->
+
+or exempt from tax the income (wholly or in
+
+<!-- marginal: m over- -->
+
+part) of any chargeable person to give effect
+
+<!-- marginal: lapping -->
+
+to any agreement or arrangement made by the
+
+<!-- marginal: areas. -->
+
+Government with the government of any territory outside Malaysia for the joint exploration and exploitation of petroleum in overlapping areas.
+
+(2) Any order made under subsection
+
+(1) shall be laid before the House of Representatives.
 
 (3) Nothing in subsection (1) shall absolve or be deemed to have absolved the said chargeable person from complying with any requirement to submit any return or statement of accounts or to furnish any other information under the provisions of this Act in respect of the income exempted under this section.".
 
-Pindaan 36. Jadual 2 kepada Akta ibu adalah dipinda—
+<!-- marginal: Pindaan -->
+
+36. Jadual 2 kepada Akta ibu adalah dipinda—
 
 ## Jadual 2.
 
@@ -752,7 +838,19 @@ Pindaan 36. Jadual 2 kepada Akta ibu adalah dipinda—
 
 ## PINDAAN KEPADA AKTA SETEM 1949
 
-Mula ber- 37. Bab ini hendaklah mula berkuatkuasa pada 1hb kuatkuasanya Januari 1994. pindaan kepada Akta Setem 1949
+<!-- marginal: Mula ber- -->
+
+37. Bab ini hendaklah mula berkuatkuasa pada 1hb
+
+<!-- marginal: kuatkuasanya -->
+
+Januari 1994.
+
+<!-- marginal: pindaan -->
+
+<!-- marginal: kepada Akta -->
+
+<!-- marginal: Setem 1949 -->
 
 <!-- page 19 -->
 
@@ -820,13 +918,15 @@ dengan memotong butiran 19.
 
 <!-- page 20 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
 43. Jadual Kelima kepada Akta ibu adalah dipinda
 
 ## Jadual
 
-dengan memotong butiran 7. Kelima.
+dengan memotong butiran 7.
+
+<!-- marginal: Kelima. -->
 
 ## HURAIAN
 
@@ -868,7 +968,9 @@ sebanyak dua kali ganda potongan biasa. Pasal ini juga memperuntukkan bahawa ber
 
 12. Fasal 17 hingga 25 bertujuan menambahkan penalti yang diperuntukkan dalam seksyen 112 hingga 120 untuk memastikan pematuhan yang lebih baik kepada peruntukan Akta. Pindaan ini akan berkuatkuasa dari tarikh mula berkuatkuasanya Akta ini.
 
-13. Fasal 26 bertujuan meminda Jadual 1 untuk mengurangkan kadar cukai berkenaan dengan syarikat, wasi dan mereka yang disebut dalam perenggan 2 Jadual 1 daripada 34 peratus kepada 32 peratus. Pindaan ini akan berkuatkuasa dari tahun taksiran 1994.
+13. Fasal 26 bertujuan meminda Jadual 1 untuk mengurangkan kadar cukai berkenaan dengan syarikat, wasi dan mereka yang disebut dalam perenggan 2 Jadual 1 daripada 34 peratus kepada 32 peratus. Pindaan ini akan berkuatkuasa dari tahun taksiran
+
+1994.
 
 14. Fasal 27 bertujuan meminda Jadual 3 untuk mengadakan peruntukan bagi elaun untuk diberi berkenaan dengan tempat tinggal yang diadakan oleh orang yang menjalankan perniagaan pengilangan untuk pekerja bukan pengurusan, bukan pentadbiran dan bukan kerani. Elaun juga akan diberi untuk kemudahan penjagaan kanak-kanak yang diadakan oleh majikan. Pindaan ini akan berkuatkuasa dari 1hb Januari 1994.
 

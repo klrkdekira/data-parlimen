@@ -288,7 +288,9 @@ COMMiTTEE ON aDvERTiSEMENT
 
 11. The principal act is amended by inserting after section 150 the following Schedule:
 
-“Schedule COMMiTTEE ON aDvERTiSEMENT [Section 84c]
+## “SCHEDULE
+
+COMMiTTEE ON aDvERTiSEMENT [Section 84c]
 
 ### Temporary exercise of functions of Chairman
 

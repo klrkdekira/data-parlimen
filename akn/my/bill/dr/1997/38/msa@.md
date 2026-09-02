@@ -22,7 +22,9 @@ II
 
 ## MAJLIS PENASIHAT KAUNSELOR MALAYSIA
 
-3. Penubuhan Majlis. 4. Fungsi Majlis. 5. Keanggotaan Majlis. 6. Tempoh jawatan. 7. Pembatalan pelantikan. 8. Keterhentiankeanggotaan. 9. Peletakan jawatan. 10. Mesyuarat Majlis.
+3. Penubuhan Majlis. 4. Fungsi Majlis. 5. Keanggotaan Majlis. 6. Tempoh jawatan. 7. Pembatalan pelantikan. 8. Keterhentiankeanggotaan. 9. Peletakan jawatan.
+
+10. Mesyuarat Majlis.
 
 ## BAHAGIAN
 
@@ -30,7 +32,19 @@ III
 
 ## LEMBAGA KAUNSELOR
 
-11. Penubuhan Lembaga. 12. Fungsi Lembaga. 13. Keanggotaan Lembaga. 14. Akta Perlindungan Pihak Berkuasa Awam 1948. 15. Pengkhidmat awam. 16. Penyata, laporan, akaun dan maklumat. 17. Penjalanan prosiding sivil.
+11. Penubuhan Lembaga.
+
+12. Fungsi Lembaga.
+
+13. Keanggotaan Lembaga.
+
+14. Akta Perlindungan Pihak Berkuasa Awam 1948.
+
+15. Pengkhidmat awam.
+
+16. Penyata, laporan, akaun dan maklumat.
+
+17. Penjalanan prosiding sivil.
 
 <!-- page 2 -->
 
@@ -40,7 +54,35 @@ IV
 
 ## PENDAFTARAN KAUNSELOR DAN PERAKUAN AMALAN
 
-18. Pelantikan dan kewajipan Pendaftar. 19. Daftar Kaunselor. 20. Pengeluaran dari Daftar kerana kematian, dsb. 21. Kemasukan semula. 22. Kaunselor hendaklah didaftarkan. 23. Perakuan amalan dikehendaki. 24. Kelayakan pendaftaran. 25. Permohonan pendaftaran. 26. Pendaftaran. 27. Pendaftaran sementara. 28. Perakuan amalan dwitahunan. 29. Perakuan hendaklah dipamerkan. 30. Perubahan, atau tambahan, tempat amalan. 31. Pemberitahuan mengenai pertukaran alamat. 32. Perakuan pendua.
+18. Pelantikan dan kewajipan Pendaftar.
+
+19. Daftar Kaunselor.
+
+20. Pengeluaran dari Daftar kerana kematian, dsb.
+
+21. Kemasukan semula.
+
+22. Kaunselor hendaklah didaftarkan.
+
+23. Perakuan amalan dikehendaki.
+
+24. Kelayakan pendaftaran.
+
+25. Permohonan pendaftaran.
+
+26. Pendaftaran.
+
+27. Pendaftaran sementara.
+
+28. Perakuan amalan dwitahunan.
+
+29. Perakuan hendaklah dipamerkan.
+
+30. Perubahan, atau tambahan, tempat amalan.
+
+31. Pemberitahuan mengenai pertukaran alamat.
+
+32. Perakuan pendua.
 
 ## BAHAGIAN V
 
@@ -48,13 +90,31 @@ IV
 
 ## AMALAN SEBAGAI KAUNSELOR
 
-33. Komposisi pertubuhan perbadanan yang boleh menjalankan amalan sebagai kaunselor. 34. Pertubuhan perbadanan yang menjalankan amalan sebagai kaunselor. 35. Pemberitahuan mengenai perubahan komposisi dan pertukaran alamat.
+33. Komposisi pertubuhan perbadanan yang boleh menjalankan amalan sebagai kaunselor.
+
+34. Pertubuhan perbadanan yang menjalankan amalan sebagai kaunselor.
+
+35. Pemberitahuan mengenai perubahan komposisi dan pertukaran alamat.
 
 ## BAHAGIAN VI
 
 ## PROSIDING TATATERTIB
 
-36. Jawatankuasa Penyiasatan dan Tatatertib. 37. Kewajipan Jawatankuasa Penyiasatan. 38. Siasatan oleh Jawatankuasa Tatatertib. 39. Penggantungan amalan sementara menanti penyiasatan selesai. 40. Hukuman tatatertib. 41. Pemulangan perakuan selepas pengeluaran dari Daftar. 42. Rayuan terhadap keputusan Jawatankuasa Tatatertib. 43. Penyiaran nama orang yang dikeluarkan dari Daftar.
+36. Jawatankuasa Penyiasatan dan Tatatertib.
+
+37. Kewajipan Jawatankuasa Penyiasatan.
+
+38. Siasatan oleh Jawatankuasa Tatatertib.
+
+39. Penggantungan amalan sementara menanti penyiasatan selesai.
+
+40. Hukuman tatatertib.
+
+41. Pemulangan perakuan selepas pengeluaran dari Daftar.
+
+42. Rayuan terhadap keputusan Jawatankuasa Tatatertib.
+
+43. Penyiaran nama orang yang dikeluarkan dari Daftar.
 
 <!-- page 3 -->
 
@@ -122,7 +182,19 @@ oleh Menteri melalui pemberitahuan dalam Warta.
 
 <!-- page 6 -->
 
-"institusi pendidikan tinggi" ertinya mana-mana institusi Akta 30. yang ditubuhkan di bawah Akta Universiti dan Kolej Universiti Akta 173. 1971 atau Akta Institut Teknologi MARA 1976 atau Akta Akta 555. Institusi Pendidikan Tinggi Swasta 1996;
+"institusi pendidikan tinggi" ertinya mana-mana institusi
+
+<!-- marginal: Akta 30. -->
+
+yang ditubuhkan di bawah Akta Universiti dan Kolej Universiti
+
+<!-- marginal: Akta 173. -->
+
+1971 atau Akta Institut Teknologi MARA 1976 atau Akta
+
+<!-- marginal: Akta 555. -->
+
+Institusi Pendidikan Tinggi Swasta 1996;
 
 "Jawatankuasa Penyiasatan" ertinya Jawatankuasa Penyiasatan yang ditubuhkan di bawah perenggan 36(2)(a);
 
@@ -222,13 +294,21 @@ pengetahuan dan pengalaman mereka, pada pendapat Menteri akan dapat membantu Maj
 
 (2) Tiada seorang pun boleh dilantik menjadi anggota Majlis melainkan jika dia ialah warganegara Malaysia.
 
-Tempoh
+<!-- marginal: Tempoh -->
 
-6. Seseorang anggota Majlis yang dilantik di bawah jawatan. perenggan 5(1)(e), melainkan jika dia meletakkan jawatan atau mengosongkan jawatan atau pelantikannya dibatalkan terlebih dahulu, hendaklah memegang jawatan selama tempoh tidak melebihi dua tahun dan adalah layak dilantik semula.
+6. Seseorang anggota Majlis yang dilantik di bawah
 
-Pembatalan
+<!-- marginal: jawatan. -->
 
-7. Menteri hendaklah membatalkan pelantikan seseorang pelantikan. anggota Majlis yang dilantik di bawah perenggan 5(1)(e)—
+perenggan 5(1)(e), melainkan jika dia meletakkan jawatan atau mengosongkan jawatan atau pelantikannya dibatalkan terlebih dahulu, hendaklah memegang jawatan selama tempoh tidak melebihi dua tahun dan adalah layak dilantik semula.
+
+<!-- marginal: Pembatalan -->
+
+7. Menteri hendaklah membatalkan pelantikan seseorang
+
+<!-- marginal: pelantikan. -->
+
+anggota Majlis yang dilantik di bawah perenggan 5(1)(e)—
 
 (a) jika kelakuannya, sama ada berkaitan dengan kewajipannya sebagai anggota Majlis atau selainnya, adalah sedemikian rupa sehingga memburukkan nama Majlis;
 
@@ -292,9 +372,11 @@ yang hendaklah dikenah sebagai "Lembaga Kaunselor" yang kekal turun-temurun dan 
 
 boleh membuat kontrak dan boleh memperoleh, membeli, mengambil, memegang dan menikmati apa-apa jenis harta alih dan harta tak alih dan boleh memindahkan, menyerahhakkan, menyerahkan balik, memulangkan, menggadaikan, menggadai-janjikan, mendemis, menyerahhakkan semula, memindahmilikkan atau dengan apa-apa cara lain melupuskan, atau membuat apa-apa urusan mengenai, apa-apa harta alih atau harta tak alih atau apa-apa kepentingan mengenainya yang terletakhak pada Lembaga, atas apa-apa terma yang difikirkannya patut.
 
-Fungsi
+<!-- marginal: Fungsi -->
 
-12. Fungsi Lembaga adalah— Lembaga.
+12. Fungsi Lembaga adalah—
+
+<!-- marginal: Lembaga. -->
 
 (a) menyelia pemberian perkhidmatan pengkaunselan;
 
@@ -370,23 +452,65 @@ berikut yang hendaklah dilantik oleh Menteri:
 
 <!-- page 12 -->
 
-Akta
+<!-- marginal: Akta -->
 
-14. Akta Perlindungan Pihak Berkuasa Awam 1948 adalah Perlindungan terpakai bagi apa-apa tindakan, guaman, pendakwaan atau Pihak Berkuasa presiding terhadap Lembaga atau terhadap mana-mana Awam 1948. anggota, pegawai, pengkhidmat atau ejen Lembaga berkenaan Akta 198. dengan apa-apa perbuatan, keabaian atau keingkaran yang dibuat atau dilakukan olehnya atas sifat yang sedemikian itu.
+14. Akta Perlindungan Pihak Berkuasa Awam 1948 adalah
 
-Pengkhidmat
+<!-- marginal: Perlindungan -->
 
-15. Tiap-tiap anggota Lembaga atau mana-mana awam. jawatankuasanya dan tiap-tiap pegawai, pengkhidmat atau ejen Lembaga, semasa menunaikan kewajipannya sebagai anggota, pegawai, pengkhidmat atau ejen Lembaga, hendaklah disifatkan sebagai pengkhidmat awam mengikut pengertian Akta 574. Kanun Keseksaan.
+terpakai bagi apa-apa tindakan, guaman, pendakwaan atau
 
-Penyata,
+<!-- marginal: Pihak -->
 
-16. (1) Lembaga hendaklah memberi Menteri apa-apa laporan, akaun penyata, laporan, akaun dan maklumat mengenai harta dan dan maklumat. aktiviti-aktivitinya sebagaimana yang dikehendaki atau diarahkan oleh Menteri.
+<!-- marginal: Berkuasa -->
+
+presiding terhadap Lembaga atau terhadap mana-mana
+
+<!-- marginal: Awam 1948. -->
+
+anggota, pegawai, pengkhidmat atau ejen Lembaga berkenaan
+
+<!-- marginal: Akta 198. -->
+
+dengan apa-apa perbuatan, keabaian atau keingkaran yang dibuat atau dilakukan olehnya atas sifat yang sedemikian itu.
+
+<!-- marginal: Pengkhidmat -->
+
+15. Tiap-tiap anggota Lembaga atau mana-mana
+
+<!-- marginal: awam. -->
+
+jawatankuasanya dan tiap-tiap pegawai, pengkhidmat atau ejen Lembaga, semasa menunaikan kewajipannya sebagai anggota, pegawai, pengkhidmat atau ejen Lembaga, hendaklah disifatkan sebagai pengkhidmat awam mengikut pengertian
+
+<!-- marginal: Akta 574. -->
+
+Kanun Keseksaan.
+
+<!-- marginal: Penyata, -->
+
+16. (1) Lembaga hendaklah memberi Menteri apa-apa
+
+<!-- marginal: laporan, akaun -->
+
+penyata, laporan, akaun dan maklumat mengenai harta dan
+
+<!-- marginal: dan maklumat. -->
+
+aktiviti-aktivitinya sebagaimana yang dikehendaki atau diarahkan oleh Menteri.
 
 (2) Tanpa menjejaskan keluasan subseksyen (1), Lembaga hendaklah, dengan seberapa segera yang praktik selepas berakhirnya setiap tahun kewangan, menyebabkan dibuat dan dihantar kepada Menteri suatu laporan yang memperkatakan aktiviti-aktiviti Lembaga sepanjang tahun kewangan yang sebelumnya dan laporan itu hendaklah dalam apa-apa bentuk dan hendaklah mengandungi apa-apa maklumat yang berhubungan dengan presiding dan dasar Lembaga sebagaimana yang ditentukan oleh Menteri.
 
-Penjalanan
+<!-- marginal: Penjalanan -->
 
-17. Lembaga boleh melantik seorang peguambela dan prosiding peguamcara untuk memulakan dan menjalankan apa-apa sivil. prosiding sivil bagi pihaknya.
+17. Lembaga boleh melantik seorang peguambela dan
+
+<!-- marginal: prosiding -->
+
+peguamcara untuk memulakan dan menjalankan apa-apa
+
+<!-- marginal: sivil. -->
+
+prosiding sivil bagi pihaknya.
 
 ## BAHAGIAN
 
@@ -396,9 +520,17 @@ IV
 
 ## PERAKUAN AMALAN
 
-Pelantikan dan
+<!-- marginal: Pelantikan dan -->
 
-18. (1) Lembaga hendaklah melantik seorang Pendaftar kewajipan Kaunselor yang hendaklah di bawah arahan dan penyeliaan Pendaftar. am Lembaga.
+18. (1) Lembaga hendaklah melantik seorang Pendaftar
+
+<!-- marginal: kewajipan -->
+
+Kaunselor yang hendaklah di bawah arahan dan penyeliaan
+
+<!-- marginal: Pendaftar. -->
+
+am Lembaga.
 
 <!-- page 13 -->
 
@@ -454,9 +586,13 @@ memerintahkan Pendaftar mengeluarkan nama dan butir- butir berhubungan dengan ka
 
 (2) Pendaftar heridaklah menyiarkan dalam Warta nama tiap-tiap orang yang dikeluarkan dari Daftar di bawah subseksyen(l).
 
-Kemasukan
+<!-- marginal: Kemasukan -->
 
-21. (1) Lembaga hendaklah, atas permohonan mana-mana semula. orang yang namanya telah dikeluarkan atas alasan yang dinyatakan dalam perenggan 20(1)(c), memasukkan namanya semula dalam Daftar.
+21. (1) Lembaga hendaklah, atas permohonan mana-mana
+
+<!-- marginal: semula. -->
+
+orang yang namanya telah dikeluarkan atas alasan yang dinyatakan dalam perenggan 20(1)(c), memasukkan namanya semula dalam Daftar.
 
 (2) Tiap-tiap permohonan bagi kemasukan semula hendaklah dibuat dalam borang yang ditetapkan dan disertakan dengan fee yang ditetapkan.
 
@@ -464,9 +600,13 @@ Kemasukan
 
 (1), mengeluarkan kepadanya suatu perakuan amalan di bawah subseksyen 27(4) atau 28(3) seolah-olah permohonan sedemikian telah dibuat di bawah subseksyen 27(2) atau subseksyen 28(1), mengikut mana-mana yang berkenaan.
 
-Kaunselor
+<!-- marginal: Kaunselor -->
 
-22. (1) Tiada seorang pun boleh— hendaklah didaftarkan.
+22. (1) Tiada seorang pun boleh—
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: didaftarkan. -->
 
 (a) mengamalkan atau menjalankan
 
@@ -512,11 +652,15 @@ jika dia memuaskan hati Lembaga bahawa dia seorang warganegara Malaysia atau seo
 
 (3) Menteri boleh, selepas berunding dengan Lembaga, meminda Jadual Kedua melalui perintah yang disiarkan dalam Warta.
 
-Permohonan
+<!-- marginal: Permohonan -->
 
-25. Suatu permohonan bagi pendaftaran sebagai kaunselor pendaftaran hendaklah dibuat dalam borang yang ditetapkan dan hendaklah disertakan dengan apa-apa maklumat dan dokumen sebagaimana yang dikehendaki oleh Lembaga.
+25. Suatu permohonan bagi pendaftaran sebagai kaunselor
 
-Pendaftaran.
+<!-- marginal: pendaftaran -->
+
+hendaklah dibuat dalam borang yang ditetapkan dan hendaklah disertakan dengan apa-apa maklumat dan dokumen sebagaimana yang dikehendaki oleh Lembaga.
+
+<!-- marginal: Pendaftaran. -->
 
 26. (1) Apabila diterima suatu permohonan di bawah seksyen 25, Lembaga hendaklah menimbangkan permohonan itu.
 
@@ -532,9 +676,13 @@ Pendaftaran.
 
 (7) Keputusan Menteri adalah muktamad.
 
-Pendaftaran
+<!-- marginal: Pendaftaran -->
 
-27. (1) Mana-mana orang yang bukan warganegara sementara. Malaysia dan bukan juga pemastautin tetap Malaysia yang berhasrat untuk menjalankan amalan sebagai kaunselor di Malaysia boleh memohon dalam borang yang ditetapkan bagi pendaftaran sementara.
+27. (1) Mana-mana orang yang bukan warganegara
+
+<!-- marginal: sementara. -->
+
+Malaysia dan bukan juga pemastautin tetap Malaysia yang berhasrat untuk menjalankan amalan sebagai kaunselor di Malaysia boleh memohon dalam borang yang ditetapkan bagi pendaftaran sementara.
 
 <!-- page 17 -->
 
@@ -556,15 +704,29 @@ Pendaftaran
 
 (7) Keputusan Menteri adalah muktamad.
 
-(8) Sesuatu perakuan pendaftaran sementara dan sesuatu perakuan amalan yang dikeluarkan di bawah subseksyen (4) hendaklah sah selama tempoh dua belas bulan dari tarikh perakuan-perakuan itu dikeluarkan.
+(8) Sesuatu perakuan pendaftaran sementara dan sesuatu perakuan amalan yang dikeluarkan di bawah subseksyen
+
+(4) hendaklah sah selama tempoh dua belas bulan dari tarikh perakuan-perakuan itu dikeluarkan.
 
 <!-- page 18 -->
 
-(9) Sesuatu perakuan pendaftaran sementara dan sesuatu perakuan amalan yang dikeluarkan di bawah subseksyen (4) boleh dibaharui apabila permohonan dibuat kepada Lembaga dalam borang yang ditetapkan tidak kurang daripada tiga puluh hari sebelum tarikh perakuan-perakuan itu habis tempoh.
+(9) Sesuatu perakuan pendaftaran sementara dan sesuatu perakuan amalan yang dikeluarkan di bawah subseksyen
+
+(4) boleh dibaharui apabila permohonan dibuat kepada Lembaga dalam borang yang ditetapkan tidak kurang daripada tiga puluh hari sebelum tarikh perakuan-perakuan itu habis tempoh.
 
 (10) Tiap-tiap permohonan yang dibuat di bawah subseksyen (9) hendaklah disertakan dengan fee yang ditetapkan dan apa-apa dokumen dan maklumat sebagaimana yang dikehendaki oleh Lembaga.
 
-Perakuan 28. (1) Seseorang kaunselor yang didaftarkan di bawah amalan seksyen 26 dan berhasrat untuk menjalankan amalan sebagai dwitahunan. kaunselor hendaklah membuat suatu permohonan, dalam borang yang ditetapkan, dalam tempoh satu bulan dari tarikh perakuan pendaftaran itu dikeluarkan kepadanya di bawah subseksyen 26(4), bagi suatu perakuan amalan dwitahunan.
+<!-- marginal: Perakuan -->
+
+28. (1) Seseorang kaunselor yang didaftarkan di bawah
+
+<!-- marginal: amalan -->
+
+seksyen 26 dan berhasrat untuk menjalankan amalan sebagai
+
+<!-- marginal: dwitahunan. -->
+
+kaunselor hendaklah membuat suatu permohonan, dalam borang yang ditetapkan, dalam tempoh satu bulan dari tarikh perakuan pendaftaran itu dikeluarkan kepadanya di bawah subseksyen 26(4), bagi suatu perakuan amalan dwitahunan.
 
 (2) Tiap-tiap permohonan bagi perakuan amalan dwitahunan hendaklah disertakan dengan fee yang ditetapkan dan hendaklah mengandungi—
 
@@ -606,11 +768,23 @@ yang dia menjalankan amalan sebagai kaunselor, suatu salinan perakuan pendaftara
 
 (4) Mana-mana orang yang mempamerkan, atau membenarkan untuk dipamerkan, di mana-mana premis, suatu perakuan pendaftaran atau perakuan pendaftaran sementara atau suatu perakuan amalan, atau suatu salinan mana-mana perakuan itu, yang mengandungi nama atau gambarnya pada bila-bila tnasa, sedangkan namanya tidak ada dalam Daftar atau dia tidak memegang suatu perakuan pendaftaran atau perakuan pendaftaran sementara yang sah, mengikut mana-mana yang berkenaan, atau suatu perakuan amalan adalah melakukan suatu kesalahan.
 
-Perubahan,
+<!-- marginal: Perubahan, -->
 
-30. (I) Jika— atau tambahan,
+30. (I) Jika—
 
-(a) terdapat perubahan alamat premis yang tempat dinyatakan dalam perakuan amalan di mana amalan. seseorang orang berdaftar menjalankan amalan sebagai kaunselor; atau
+<!-- marginal: atau -->
+
+<!-- marginal: tambahan, -->
+
+(a) terdapat perubahan alamat premis yang
+
+<!-- marginal: tempat -->
+
+dinyatakan dalam perakuan amalan di mana
+
+<!-- marginal: amalan. -->
+
+seseorang orang berdaftar menjalankan amalan sebagai kaunselor; atau
 
 (b) seseorang orang berdaftar yang menjalankan amalan sebagai kaunselor di mana-mana premis sebagai tambahan kepada premis yang dinyatakan dalam perakuan amalannya,
 
@@ -628,7 +802,9 @@ kaunselor berdaftar itu.
 
 <!-- page 21 -->
 
-(4) Mana-mana orang yang melanggar subseksyen (1), (2) atau (3) adalah melakukan suatu kesalahan.
+(4) Mana-mana orang yang melanggar subseksyen (1),
+
+(2) atau (3) adalah melakukan suatu kesalahan.
 
 (5) Pendaftar hendaklah mengendorskan alamat baru atau alamat premis baru yang kaunselor berdaftar itu menjalankan amalan sebagai kaunselor pada perakuan amalan kaunselor berdaftar itu dan mengembalikan perakuan itu kepada kaunselor berdaftar itu.
 
@@ -698,11 +874,29 @@ merupakan kaunselor berdaftar; atau
 
 (2) Mana-mana pertubuhan perbadanan yang melanggar subseksyen (1) adalah melakukan suatu kesalahan.
 
-Pemberitahuan
+<!-- marginal: Pemberitahuan -->
 
-34. Sesuatu pertubuhan perbadanan yang menjalankan mengenai amalan sebagai kaunselor— perubahan komposisi dan
+34. Sesuatu pertubuhan perbadanan yang menjalankan
 
-(a) boleh menggunakan gelaran "kaunselorberdaftar" pertukaran atau apa-apa gelaran dalam mana-mana bahasa alamat. yang boleh semunasabahnya ditafsirkan sebagai membayangkan bahawa pertubuhan perbadanan itu ialah suatu pertubuhan perbadanan yang menjalankan amalan sebagai kaunselor;
+<!-- marginal: mengenai -->
+
+amalan sebagai kaunselor—
+
+<!-- marginal: perubahan -->
+
+<!-- marginal: komposisi -->
+
+<!-- marginal: dan -->
+
+(a) boleh menggunakan gelaran "kaunselorberdaftar"
+
+<!-- marginal: pertukaran -->
+
+atau apa-apa gelaran dalam mana-mana bahasa
+
+<!-- marginal: alamat. -->
+
+yang boleh semunasabahnya ditafsirkan sebagai membayangkan bahawa pertubuhan perbadanan itu ialah suatu pertubuhan perbadanan yang menjalankan amalan sebagai kaunselor;
 
 (b) boleh menggunakan atau mempamerkan apa- apa papan tanda, papan, kad atau reka bentuk lain yang menggambarkan atau membayangkan bahawa pertubuhan perbadanan itu ialah suatu pertubuhan perbadanan yang menjalankan amalan sebagai kaunselor; dan
 
@@ -710,15 +904,31 @@ Pemberitahuan
 
 selagi ia mematuhi subseksyen 33(1).
 
-Pertubuhan
+<!-- marginal: Pertubuhan -->
 
 35. (1) Sesuatu pertubuhan perbadanan
 
 <!-- marginal: yang -->
 
-perbadanan menjalankan amalan sebagai kaunselor hendaklah yang menjalankan memberitahu Lembaga— amalan sebagai
+<!-- marginal: perbadanan -->
 
-(a) tentang apa-apa perubahan dalam komposisi kaunselor. lembaga pengarahnya dalam suatu laporan yang mengandungi butir-butir lengkap tentang perubahan itu, dalam masa tiga puluh hari dari perubahan itu; dan
+menjalankan amalan sebagai kaunselor hendaklah
+
+<!-- marginal: yang -->
+
+<!-- marginal: menjalankan -->
+
+memberitahu Lembaga—
+
+<!-- marginal: amalan -->
+
+<!-- marginal: sebagai -->
+
+(a) tentang apa-apa perubahan dalam komposisi
+
+<!-- marginal: kaunselor. -->
+
+lembaga pengarahnya dalam suatu laporan yang mengandungi butir-butir lengkap tentang perubahan itu, dalam masa tiga puluh hari dari perubahan itu; dan
 
 (b) tentang apa-apa perubahan alamat yang dia menjalankan amalannya sebagai kaunselor, dalam masa empat belas hari dari perubahan itu.
 
@@ -772,25 +982,55 @@ hendaklah dengan serta-merta merujukkan aduan itu kepada Jawatankuasa Penyiasata
 
 <!-- page 24 -->
 
-Siasatan oleh
+<!-- marginal: Siasatan oleh -->
 
-38. (1) Jika laporan yang dikemukakan oleh Jawatankuasa Jawatankuasa Penyiasatan menyatakan bahawa terdapat Tatatertib. alasan yang mencukupi untuk mengambil prosiding tatatertib terhadap seseorang kaunselor berdaftar, Jawatankuasa Tatatertib hendaklah menjalankan siasatan tentang kes itu.
+38. (1) Jika laporan yang dikemukakan oleh
+
+<!-- marginal: Jawatankuasa -->
+
+Jawatankuasa Penyiasatan menyatakan bahawa terdapat
+
+<!-- marginal: Tatatertib. -->
+
+alasan yang mencukupi untuk mengambil prosiding tatatertib terhadap seseorang kaunselor berdaftar, Jawatankuasa Tatatertib hendaklah menjalankan siasatan tentang kes itu.
 
 (2) Seseorang kaunselor berdaftar yang terhadapnya prosiding tatatertib diambil hendaklah diberi peluang untuk membuat representasi terhadap pertuduhan tatatertib yang dibuat terhadapnya sebelum keputusan dicapai oleh Jawatankuasa Tatatertib.
 
 (3) Kaunselor berdaftar yang terhadapnya prosiding tatatertib telah diambil hendaklah diberitahu oleh Pendaftar melalui pos berdaftar tentang keputusan Jawatankuasa Tatatertib dengan seberapa segera yang mungkin selepas keputusan itu dibuat.
 
-gantungan
+<!-- marginal: gantungan -->
 
-39. (1) Lembaga boleh, jika difikirkannya patut, amalan menggantung perakuan amalan seseorang kaunselor sementara menanti berdaftar selama suatu tempoh yang tidak melebihi enam penyiasatan bulan sementara menanti selesainya penyiasatan oleh selesai. Jawatankuasa Penyiasatan dan siasatan oleh Jawatankuasa Tatatertib.
+39. (1) Lembaga boleh, jika difikirkannya patut,
+
+<!-- marginal: amalan -->
+
+menggantung perakuan amalan seseorang kaunselor
+
+<!-- marginal: sementara -->
+
+<!-- marginal: menanti -->
+
+berdaftar selama suatu tempoh yang tidak melebihi enam
+
+<!-- marginal: penyiasatan -->
+
+bulan sementara menanti selesainya penyiasatan oleh
+
+<!-- marginal: selesai. -->
+
+Jawatankuasa Penyiasatan dan siasatan oleh Jawatankuasa Tatatertib.
 
 (2) Tiada kaunselor berdaftar boleh menjalankan amalan sebagai kaunselor dalam tempoh penggantungan di bawah subseksyen (1).
 
 (3) Mana-mana orang yang melanggar subseksyen (2) adalah melakukan suatu kesalahan.
 
-Hukuman
+<!-- marginal: Hukuman -->
 
-40. (1) Jawatankuasa Tatatertib hendaklah, apabila berpuas tatatertib. hati bahawa—
+40. (1) Jawatankuasa Tatatertib hendaklah, apabila berpuas
+
+<!-- marginal: tatatertib. -->
+
+hati bahawa—
 
 (a) telah dibuktikan terhadap kaunselor berdaftar, atau kaunselor berdaftar telah disabitkan atas, suatu pertuduhan berkenaan dengan—
 
@@ -828,21 +1068,63 @@ mengenakan mana-mana satu atau mana-mana kombinasi hukuman tatatertib yang berik
 
 <!-- page 26 -->
 
-Pemulangan
+<!-- marginal: Pemulangan -->
 
-41. (1) Seseorang orang berdaftar hendaklah memulangkan perakuan kepada Lembaga perakuan pendaftaran atau perakuan selepas pengeluaran pendaftaran sementaranya, mengikut mana-mana yang dari Daftar. berkenaan, dan perakuan amalannya dalam masa dua puluh satu hari selepas diberitahu di bawah subseksyen 38(3) tentang keputusan Jawatankuasa Tatatertib di bawah seksyen 40 untuk mengeluarkan namanya dari Daftar.
+41. (1) Seseorang orang berdaftar hendaklah memulangkan
+
+<!-- marginal: perakuan -->
+
+kepada Lembaga perakuan pendaftaran atau perakuan
+
+<!-- marginal: selepas -->
+
+<!-- marginal: pengeluaran -->
+
+pendaftaran sementaranya, mengikut mana-mana yang
+
+<!-- marginal: dari Daftar. -->
+
+berkenaan, dan perakuan amalannya dalam masa dua puluh satu hari selepas diberitahu di bawah subseksyen 38(3) tentang keputusan Jawatankuasa Tatatertib di bawah seksyen 40 untuk mengeluarkan namanya dari Daftar.
 
 (2) Seseorang yang melanggar subseksyen (1) adalah melakukan suatu kesalahan.
 
-Rayuan
+<!-- marginal: Rayuan -->
 
-42. (1) Mana-mana orang yang terkilan dengan keputusan terhadap Jawatankuasa Tatatertib terhadapnya di bawah seksyen keputusan Jawatankuasa 40 boleh, dalam masa tiga puluh hari selepas diberitahu Tatatertib. tentang keputusan itu, merayu kepada Menteri terhadap keputusan itu.
+42. (1) Mana-mana orang yang terkilan dengan keputusan
+
+<!-- marginal: terhadap -->
+
+Jawatankuasa Tatatertib terhadapnya di bawah seksyen
+
+<!-- marginal: keputusan -->
+
+<!-- marginal: Jawatankuasa -->
+
+40 boleh, dalam masa tiga puluh hari selepas diberitahu
+
+<!-- marginal: Tatatertib. -->
+
+tentang keputusan itu, merayu kepada Menteri terhadap keputusan itu.
 
 (2) Menteri boleh mengesahkan, mengakaskan atau mengubah keputusan Jawatankuasa Tatatertib.
 
 (3) Keputusan Menteri di bawah subseksyen (2) adalah muktamad.
 
-Penyiaran 43. Pendaftar hendaklah menyiarkan dalam Warta nama nama orang tiap-tiap kaunselor berdaftar yang namanya telah yang dikeluarkan dikeluarkan dari Daftar— dari Daftar.
+<!-- marginal: Penyiaran -->
+
+43. Pendaftar hendaklah menyiarkan dalam Warta nama
+
+<!-- marginal: nama orang -->
+
+tiap-tiap kaunselor berdaftar yang namanya telah
+
+<!-- marginal: yang -->
+
+<!-- marginal: dikeluarkan -->
+
+dikeluarkan dari Daftar—
+
+<!-- marginal: dari Daftar. -->
 
 (a) apabila habis tempoh yang dinyatakan dalam subseksyen 42(1), jika kaunselor berdaftar itu tidak membuat rayuan terhadap keputusan Jawatankuasa Tatatertib; atau
 
@@ -880,7 +1162,7 @@ adalah melakukan suatu kesalahan dan apabila disabitkan—
 
 <!-- page 28 -->
 
-Penalti am.
+<!-- marginal: Penalti am. -->
 
 45. Seseorang yang melanggar mana-mana peruntukan Akta ini yang baginya tiada penalti diperuntukkan dengan nyata boleh apabila disabitkan—
 
@@ -888,9 +1170,19 @@ Penalti am.
 
 (b) dalam hal kesalahan yang berterusan, didenda tidak melebihi lima ratus ringgit bagi tiap-tiap hari atau sebahagian daripada sehari selama kesalahan itu berterusan selepas sabitan.
 
-Kesalahan
+<!-- marginal: Kesalahan -->
 
-46. Jika suatu pertubuhan perbadanan melakukan kesalahan oleh di bawah Akta ini atau mana-mana peraturan yang dibuat di pertubuhan perbadanan. bawah Akta ini, maka mana-mana orang yang, pada masa kesalahan itu dilakukan, ialah pengarah, pengurus, setiausaha atau pegawai serupa itu yang lain bagi pertubuhan perbadanan itu atau seseorang yang berupa sebagai bertindak atas mana-mana sifat sedemikian, atau mengikut apa-apa cara atau sehingga apa-apa takat bertanggungjawab bagi pengurusan apa-apa hal-ehwal pertubuhan perbadanan itu, atau membantu dalam pengurusan sedemikian—
+46. Jika suatu pertubuhan perbadanan melakukan kesalahan
+
+<!-- marginal: oleh -->
+
+di bawah Akta ini atau mana-mana peraturan yang dibuat di
+
+<!-- marginal: pertubuhan -->
+
+<!-- marginal: perbadanan. -->
+
+bawah Akta ini, maka mana-mana orang yang, pada masa kesalahan itu dilakukan, ialah pengarah, pengurus, setiausaha atau pegawai serupa itu yang lain bagi pertubuhan perbadanan itu atau seseorang yang berupa sebagai bertindak atas mana-mana sifat sedemikian, atau mengikut apa-apa cara atau sehingga apa-apa takat bertanggungjawab bagi pengurusan apa-apa hal-ehwal pertubuhan perbadanan itu, atau membantu dalam pengurusan sedemikian—
 
 (a) boleh dipertuduh secara berasingan atau bersesama dalam presiding yang sama dengan pertubuhan perbadanan itu; dan
 
@@ -900,9 +1192,17 @@ Kesalahan
 
 pembiarannya; dan (ii) bahawa dia telah mengambil segala langkah berjaga-jaga yang munasabah dan menjalankan segala usaha yang sewajarnya untuk mengelakkan pelakuan kesalahan itu.
 
-Pemulaan dan
+<!-- marginal: Pemulaan dan -->
 
-47. Pendakwaan berkenaan dengan sesuatu kesalahan di penjalanan bawah Akta ini tidak boleh dimulakan atau dijalankan kecuali pendakwaan. dengan kebenaran bertulis Pendakwa Raya.
+47. Pendakwaan berkenaan dengan sesuatu kesalahan di
+
+<!-- marginal: penjalanan -->
+
+bawah Akta ini tidak boleh dimulakan atau dijalankan kecuali
+
+<!-- marginal: pendakwaan. -->
+
+dengan kebenaran bertulis Pendakwa Raya.
 
 <!-- page 29 -->
 
@@ -1032,7 +1332,7 @@ orang itu tidaklah berhak untuk mengundi pada mesyuarat atau pertimbangtelitian 
 
 (3) Tiap-tiap mesyuarat Lembaga berkenaan dengan prosiding yang mengenainya minit telah dibuat sedemikian hendaklah disifatkan telah dipanggil dan diadakan dengan sewajarnya dan semua anggota pada mesyuarat itu layak dengan sewajarnya untuk bertindak.
 
-Meterai biasa.
+<!-- marginal: Meterai biasa. -->
 
 5. (1) Lembaga hendaklah mempunyai suatu meterai biasa yang mengandungi apa-apa peranti yang diluluskan oleh Lembaga dan meterai itu boleh dipecahkan, ditukar, diubah atau dibuat baharu sebagaimana yang difikirkan patut oleh Lembaga.
 
@@ -1046,9 +1346,13 @@ Meterai biasa.
 
 (5) Meterai biasa Lembaga hendaklah diberi pengiktirafan rasmi dan kehakiman.
 
-Pendedahan
+<!-- marginal: Pendedahan -->
 
-6. Seseorang anggota Lembaga yang, secara langsung atau secara kepentingan. tak langsung, mempunyai sendiri atau melalui pekongsinya, apa-apa kepentingan dalam mana-mana syarikat atau pengusahaan yang dengannya Lembaga bercadang hendak membuat apa-apa kontrak atau yang mempunyai apa-apa kepentingan dalam mana-mana kontrak itu atau dalam apa-apa perkara yang sedang dibincangkan oleh Lembaga hendaklah mendedahkan fakta dan jenis kepentingannya itu kepada Lembaga, dan pendedahan itu hendaklah direkodkan dalam minit Lembaga dan, melainkan jika dibenarkan secara khusus padanya oleh Presiden, anggota itu tidak boleh mengambil bahagian dalam pertimbangtelitian atau keputusan Lembaga yang berhubungan dengan kontrak atau perkara itu.
+6. Seseorang anggota Lembaga yang, secara langsung atau secara
+
+<!-- marginal: kepentingan. -->
+
+tak langsung, mempunyai sendiri atau melalui pekongsinya, apa-apa kepentingan dalam mana-mana syarikat atau pengusahaan yang dengannya Lembaga bercadang hendak membuat apa-apa kontrak atau yang mempunyai apa-apa kepentingan dalam mana-mana kontrak itu atau dalam apa-apa perkara yang sedang dibincangkan oleh Lembaga hendaklah mendedahkan fakta dan jenis kepentingannya itu kepada Lembaga, dan pendedahan itu hendaklah direkodkan dalam minit Lembaga dan, melainkan jika dibenarkan secara khusus padanya oleh Presiden, anggota itu tidak boleh mengambil bahagian dalam pertimbangtelitian atau keputusan Lembaga yang berhubungan dengan kontrak atau perkara itu.
 
 <!-- page 33 -->
 
@@ -1106,31 +1410,9 @@ prosedurnya sendiri.
 
 ## SENARAI KELAYAKAN YANG BOLEH DIDAFTARKAN
 
-Negara yang Nama Insmusi yang
+Negara yang Nama Insmusi yang Perihal memberikan membenkan kelayakan kelayakan kelayakan
 
-<!-- marginal: Perihal -->
-
-memberikan membenkan kelayakan
-
-<!-- marginal: kelayakan -->
-
-kelayakan
-
-Malaysia Universal Malaya
-
-<!-- marginal: Sarjana Pendidikan -->
-
-<!-- marginal: (Bimbingan dan -->
-
-<!-- marginal: Kaunseling) -->
-
-Universiti Kebangsaan
-
-<!-- marginal: Diploma Psikologi -->
-
-Malaysia
-
-<!-- marginal: (Kaunseling) -->
+Malaysia Universal Malaya Sarjana Pendidikan (Bimbingan dan Kaunseling) Universiti Kebangsaan Diploma Psikologi Malaysia (Kaunseling)
 
 <!-- page 34 -->
 

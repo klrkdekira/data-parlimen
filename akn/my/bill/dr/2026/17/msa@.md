@@ -8,7 +8,7 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -18,13 +18,13 @@
 
 3. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## BIDANG KUASA ADMIRALTI MAHKAMAH TINGGI
 
 4. Bidang kuasa admiralti Mahkamah Tinggi
 
-## Bahagian III
+## BAHAGIAN III
 
 ## CARA PELAKSANAAN BIDANG KUASA ADMIRALTI
 
@@ -36,7 +36,7 @@
 
 8. Tindakan bagi upah
 
-## Bahagian IV
+## BAHAGIAN IV
 
 AM
 
@@ -50,7 +50,7 @@ Suatu Akta untuk memberikan bidang kuasa kepada Mahkamah Tinggi untuk mendengar 
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -88,7 +88,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 “pesawat udara” termasuklah tiap-tiap perihal pesawat yang digunakan mengikut jalan udara tanpa mengambil kira tempat pesawat udara itu didaftarkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## BIDANG KUASA ADMIRALTI MAHKAMAH TINGGI
 
@@ -196,7 +196,7 @@ yang merupakan suatu perbuatan, kecuaian atau keingkaran dalam pelayaran atau pe
 
 (7) Bagi maksud perenggan (1)(t), tindakan averaj am ertinya apa-apa pengorbanan atau perbelanjaan luar biasa yang dibuat atau ditanggung secara sukarela dan munasabah pada waktu bahaya bagi keselamatan bersama untuk melindungi kapal serta kargonya daripada suatu bahaya biasa.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## CARA PELAKSANAAN BIDANG KUASA ADMIRALTI
 
@@ -256,7 +256,7 @@ yang mempunyai pemilikan ke atas atau yang mempunyai kawalan ke atas kapal itu, 
 
 8. Tiada apa-apa jua dalam Akta ini boleh ditafsirkan sebagai mengehadkan bidang kuasa Mahkamah Tinggi untuk enggan mendengar suatu tindakan bagi upah yang dimulakan oleh pelaut atau warisnya, jika tindakan itu melibatkan suatu kapal selain kapal Malaysia.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 AM
 
@@ -270,7 +270,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk memperkukuh
 
 <!-- page 13 -->
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I Akta yang dicadangkan memperkatakan perkara permulaan.
 
@@ -280,7 +280,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk memperkukuh
 
 5. Fasal 3 mengandungi takrif perkataan dan ungkapan tertentu yang digunakan dalam Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 6. Bahagian II Akta yang dicadangkan memperkatakan tentang peruntukan yang berhubungan dengan bidang kuasa Mahkamah Tinggi dalam perkara admiralti.
 
@@ -294,7 +294,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk memperkukuh
 
 (d) apa-apa tuntutan bagi kerugian atau kerosakan kepada barang-barang yang diangkut di atas suatu kapal.
 
-## Bahagian III
+## BAHAGIAN III
 
 8. Bahagian III Akta yang dicadangkan memperkatakan tentang cara pelaksanaan bidang kuasa maritim.
 
@@ -322,7 +322,7 @@ Fasal ini juga membolehkan suatu tindakan in rem terhadap suatu kapal tertentu a
 
 12. Fasal 8 bertujuan untuk menjelaskan dan mengekalkan bidang kuasa Mahkamah Tinggi berhubung dengan tuntutan bagi upah oleh pelaut atau warisnya yang melibatkan kapal asing.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 13. Bahagian IV Akta yang dicadangkan memperkatakan tentang peruntukan am.
 

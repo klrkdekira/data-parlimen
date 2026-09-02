@@ -36,11 +36,7 @@ amended by inserting immediately after subsection (3), the following new subsect
 
 subsection (1)—
 
-(a) by inserting immediately after the words "Hertzian waves" appearing in the definition of "radiocommunication apparatus"
-
-<!-- marginal: the words -->
-
-", and includes the apparatus used or capable of
+(a) by inserting immediately after the words "Hertzian waves" appearing in the definition of "radiocommunication apparatus" the words ", and includes the apparatus used or capable of
 
 <!-- page 2 -->
 
@@ -54,15 +50,21 @@ being used for the purpose of visual and aural reception directly from a space s
 
 ' "television receive only station" means a radiocommunication station consisting of an antennae, a radiocommunication receiver and television broadcast receiver or video monitor or other apparatus used or capable of being used for the purpose of visual and aural reception directly from a space station of any broadcast matter;'.
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. Section 37 of the principal Act is amended by of section 37 inserting immediately after subsection (2), the following new subsection (2A):
+4. Section 37 of the principal Act is amended by
+
+<!-- marginal: of section 37 -->
+
+inserting immediately after subsection (2), the following new subsection (2A):
 
 "(2A) The Minister may, by order published in the Gazette, exempt absolutely or subject to such conditions as may be prescribed, the requirement of a licence under this section in respect of any low power radiocommunication apparatus, or any class thereof.".
 
-New section
+<!-- marginal: New section -->
 
-5. The principal Act is amended by inserting
+5. The principal Act is amended by
+
+<!-- marginal: inserting -->
 
 37A. immediately after section 37, the following new section 37A: "Subscnbers 37A. (1) In granting a licence under section to specific 37, the Minister may, in certain specific services included services, license an operator of a radio- in licence. communication network to include any apparatus used by a subscriber to
 
@@ -96,19 +98,29 @@ payment of such fees as may be necessary reflecting the number of subscribers.
 
 <!-- page 4 -->
 
-Amendment 7. Section 40 of the principal Act is amended in of section 40. subsection (1)—
+<!-- marginal: Amendment -->
+
+7. Section 40 of the principal Act is amended in
+
+<!-- marginal: of section 40. -->
+
+subsection (1)—
 
 (a) by inserting immediately after paragraph (f) the following new paragraph (fa); "(fa) prohibiting or regulaling the working or using of any radiocommunication apparatus in any premises in Malaysia;";
 
-(b) by inserting immediately after paragraph (ja) the following new paragraph (jb)\ "(jb) giving effect to international agree- ments, conventions or treaties relating to radiocommunication
+(b) by inserting immediately after paragraph (ja) the following new paragraph (jb)\ "(jb) giving effect to international agree- ments, conventions or treaties relating to radiocommunication to which Malaysia is a party;".
 
-<!-- marginal: to which -->
+<!-- marginal: Amendment -->
 
-Malaysia is a party;".
+8. Section 43 of the principal Act is amended by
 
-Amendment 8. Section 43 of the principal Act is amended by of section 43. substituting for the words "one thousand and five hundred ringgit" the words "fifty thousand ringgit".
+<!-- marginal: of section 43. -->
 
-New section 9. The principal Act is amended by
+substituting for the words "one thousand and five hundred ringgit" the words "fifty thousand ringgit".
+
+<!-- marginal: New section -->
+
+9. The principal Act is amended by
 
 <!-- marginal: inserting -->
 
@@ -126,15 +138,25 @@ New section 9. The principal Act is amended by
 
 <!-- marginal: New section -->
 
-10. The principal Act is amended by
-
-<!-- marginal: inserting -->
+10. The principal Act is amended by inserting
 
 <!-- marginal: 47A. -->
 
 immediately after section 47, the following new section
 
-"Admissi- 47A. Where any person is charged with an biliiy of offence under this Act, any statement, whether stalements' in evidence. the statement amounts to a confession or not or whether it is oral or in writing, made at any time, whether before or after the person is charged and whether in the course of an investigation or not and whether or not wholly or partly in answer to questions, by that person to or in the hearing of any authorized telecommunication officer and whether or not interpreted to him by another telecom- munication officer or other person, shall be admissible in evidence at his trial and, if the person charged tenders himself as a witness, any such statement may be used -in cross- examination and for the purpose of impeaching his credit:
+<!-- marginal: "Admissi- -->
+
+47A. Where any person is charged with an
+
+<!-- marginal: biliiy of -->
+
+offence under this Act, any statement, whether
+
+<!-- marginal: stalements' -->
+
+<!-- marginal: in evidence. -->
+
+the statement amounts to a confession or not or whether it is oral or in writing, made at any time, whether before or after the person is charged and whether in the course of an investigation or not and whether or not wholly or partly in answer to questions, by that person to or in the hearing of any authorized telecommunication officer and whether or not interpreted to him by another telecom- munication officer or other person, shall be admissible in evidence at his trial and, if the person charged tenders himself as a witness, any such statement may be used -in cross- examination and for the purpose of impeaching his credit:
 
 Provided that—
 

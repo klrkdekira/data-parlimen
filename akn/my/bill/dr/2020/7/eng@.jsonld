@@ -197,7 +197,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/7/eng@/~cl_6",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (3)— “(c) request from any individual or entity other than a Government Entity, any information or intelligence in his or its possession.”; and"
+        "@value": "in subsection (3)—"
       }
     },
     {
@@ -227,7 +227,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/7/eng@/~cl_6__para_a",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after paragraph (b) the following paragraph:"
+        "@value": "by inserting after paragraph (b) the following paragraph: “(c) request from any individual or entity other than a Government Entity, any information or intelligence in his or its possession.”; and"
       }
     },
     {

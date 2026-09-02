@@ -158,7 +158,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (B) in subparagraph (ii), by substituting for the words “be punished with imprisonment for a term of not less than five years or with a fine of not less than five million ringgit or with both, and in the case of a body corporate, be punished with a minimum fine of ten million ringgit” the words “be punished with imprisonment for a term not exceeding five years or with a fine not exceeding five million ringgit or with both, and in the case of a body corporate, be punished with a fine not exceeding ten million ringgit”.
 
-### New section 12a
+<!-- marginal: New section 12a -->
 
 7. The principal Act is amended by inserting after section 12 the following section:
 

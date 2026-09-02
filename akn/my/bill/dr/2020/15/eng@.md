@@ -4,19 +4,29 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Interpretation 3. Territorial scope of offences under this Act 4. Act to be read together with other laws
 
-## Part II
+## PART II
 
 ## MALAYSIAN SPACE BOARD
 
-5. Establishment of the Board 6. Functions of the Board 7. Temporary exercise of functions of Chairman 8. Executive Secretary to the Board 9. Meetings of the Board 10. Board may invite others to meetings 11. Board may establish committees 12. Delegation of functions of the Board 13. Directions by Minister 14. Appointment of Space Regulator
+5. Establishment of the Board 6. Functions of the Board 7. Temporary exercise of functions of Chairman 8. Executive Secretary to the Board 9. Meetings of the Board
 
-## Part III
+10. Board may invite others to meetings
+
+11. Board may establish committees
+
+12. Delegation of functions of the Board
+
+13. Directions by Minister
+
+14. Appointment of Space Regulator
+
+## PART III
 
 ## PROHIBITION
 
@@ -24,7 +34,7 @@
 
 <!-- page 2 -->
 
-## Part IV
+## PART IV
 
 ## LICENSING, ETC.
 
@@ -68,7 +78,7 @@
 
 35. Launch Safety Officer
 
-## Part V
+## PART V
 
 ## REGISTRATION OF SPACE OBJECT
 
@@ -80,29 +90,59 @@
 
 <!-- page 3 -->
 
-## Part VI
+## PART VI
 
 ## LIABILITY
 
-39. Absolute liability 40. Obligation to indemnify Government
+39. Absolute liability
 
-## Part VII
+40. Obligation to indemnify Government
+
+## PART VII
 
 ## OTHER OFFENCES
 
-41. Discovery of space object, etc., and personnel, etc., of spacecraft 42. Tampering, etc., with space object, etc.
+41. Discovery of space object, etc., and personnel, etc., of spacecraft
+
+42. Tampering, etc., with space object, etc.
 
 ## Part VIII
 
 ## INCIDENT AND ACCIDENT
 
-43. Notification of incident and accident 44. Appointment of investigator 45. Safe custody of space object, etc. 46. Licence, etc., deemed suspended in the event of accident
+43. Notification of incident and accident
 
-## Part IX
+44. Appointment of investigator
+
+45. Safe custody of space object, etc.
+
+46. Licence, etc., deemed suspended in the event of accident
+
+## PART IX
 
 ## ENFORCEMENT
 
-47. Authorization of public officer 48. Authority card 49. Power of investigation 50. Search and seizure with warrant 51. Search and seizure without warrant 52. List of seized space object, etc. 53. Cost of holding seized space object, etc. 54. Release of seized space object, etc. 55. Forfeiture of seized space object, etc. 56. Property in forfeited space object, etc. 57. Access to computerized data
+47. Authorization of public officer
+
+48. Authority card
+
+49. Power of investigation
+
+50. Search and seizure with warrant
+
+51. Search and seizure without warrant
+
+52. List of seized space object, etc.
+
+53. Cost of holding seized space object, etc.
+
+54. Release of seized space object, etc.
+
+55. Forfeiture of seized space object, etc.
+
+56. Property in forfeited space object, etc.
+
+57. Access to computerized data
 
 <!-- page 4 -->
 
@@ -118,7 +158,7 @@
 
 63. Obstruction
 
-## Part X
+## PART X
 
 ## GENERAL
 
@@ -152,7 +192,7 @@ An Act to establish the Malaysian Space Board to regulate certain space related 
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -232,7 +272,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (2) Where such other written laws referred to in subsection (1) contain any provision relating to space related activities regulated under this Act, the provisions of this Act shall prevail and the provisions of such other written laws shall be deemed to be superseded.
 
-## Part II
+## PART II
 
 ## MALAYSIAN SPACE BOARD
 
@@ -366,7 +406,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 13 -->
 
-## Part III
+## PART III
 
 ## PROHIBITION
 
@@ -390,7 +430,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (b) where such person is a body corporate, to a fine not exceeding one hundred million ringgit.
 
-## Part IV
+## PART IV
 
 ## LICENSING, ETC.
 
@@ -642,7 +682,7 @@ may, within thirty days after being informed in writing of the refusal, suspensi
 
 (c) give any direction to the launch permit holder regarding the launch of a space object into space or re-entry of a space object that he considers necessary to avoid any danger to public health or to any person or property, including directions to stop the launch or re-entry of, or to destroy, the space object.
 
-## Part V
+## PART V
 
 ## REGISTRATION OF SPACE OBJECT
 
@@ -682,7 +722,7 @@ may, within thirty days after being informed in writing of the refusal, suspensi
 
 (3) The register may be made available to the public for inspection in such manner as may be determined by the Space Regulator.
 
-## Part VI
+## PART VI
 
 ## LIABILITY
 
@@ -704,9 +744,11 @@ may, within thirty days after being informed in writing of the refusal, suspensi
 
 (3) Any citizen of Malaysia, permanent resident or body corporate incorporated, established or registered in Malaysia who is an owner of a space object shall indemnify the Government against any claims and proceedings brought against the Government in respect of any damage resulting from the operation of his or its space object which has been launched into the earth orbit or beyond.
 
-(4) Any indemnification due and payable under subsections (1), (2) and (3) may be recovered as a civil debt due to the Government.
+(4) Any indemnification due and payable under subsections (1),
 
-## Part VII
+(2) and (3) may be recovered as a civil debt due to the Government.
+
+## PART VII
 
 ## OTHER OFFENCES
 
@@ -790,7 +832,7 @@ may, within thirty days after being informed in writing of the refusal, suspensi
 
 <!-- page 29 -->
 
-## Part IX
+## PART IX
 
 ## ENFORCEMENT
 
@@ -966,7 +1008,7 @@ thing or matter shall be taken and deemed to be forfeited at the expiration of a
 
 <!-- page 39 -->
 
-## Part X
+## PART X
 
 ## GENERAL
 
@@ -1102,7 +1144,7 @@ that person shall be liable to the same punishment or penalty for every such act
 
 This Bill (“the proposed Act”) seeks to establish the Malaysian Space Board (“Board”) to regulate certain space related activities for the purposes of safety, to regulate the registration of space object and to provide for certain space related offences and related matters.
 
-## Part I
+## PART I
 
 2. Part I of the proposed Act deals with the preliminary matters.
 
@@ -1116,7 +1158,7 @@ This Bill (“the proposed Act”) seeks to establish the Malaysian Space Board 
 
 <!-- page 45 -->
 
-## Part II
+## PART II
 
 7. Part II of the proposed Act deals with the establishment of the Board.
 
@@ -1140,7 +1182,7 @@ This Bill (“the proposed Act”) seeks to establish the Malaysian Space Board 
 
 17. Clause 14 seeks to provide for the appointment of the Space Regulator.
 
-## Part III
+## PART III
 
 18. Part III of the proposed Act contains a provision on prohibited activities.
 
@@ -1148,7 +1190,7 @@ This Bill (“the proposed Act”) seeks to establish the Malaysian Space Board 
 
 <!-- page 46 -->
 
-## Part IV
+## PART IV
 
 20. Part IV of the proposed Act deals with the provisions relating to licence, launch permit and launch certificate.
 
@@ -1194,7 +1236,7 @@ This Bill (“the proposed Act”) seeks to establish the Malaysian Space Board 
 
 40. Clause 35 seeks to provide for the appointment of a Launch Safety Officer by the Space Regulator to determine the compliance of the launch permit holder with the proposed Act or any regulations made under the proposed Act, or with the conditions or additional conditions of the launch permit.
 
-## Part V
+## PART V
 
 41. Part V of the proposed Act deals with the registration of a space object.
 
@@ -1206,7 +1248,7 @@ This Bill (“the proposed Act”) seeks to establish the Malaysian Space Board 
 
 <!-- page 48 -->
 
-## Part VI
+## PART VI
 
 45. Part VI of the proposed Act deals with the liability for the damage resulting from the launch and operation of a space object.
 
@@ -1214,7 +1256,7 @@ This Bill (“the proposed Act”) seeks to establish the Malaysian Space Board 
 
 47. Clause 40 seeks to provide that a launch service provider or an owner of a space object shall indemnify the Government against any claims and proceedings brought against the Government in respect of any damage resulting from the launch of the space object. This clause also provides that an owner of a space object shall indemnify the Government against any claims and proceedings brought against the Government in respect of the damage resulting from the operation of the space object which has been launched into the earth orbit or beyond. The Convention on International Liability for Damage Caused by Space Objects provides that the launching state, including the state which launches or procures the launching of a space object and the state from whose territory or facility a space object is launched, shall be liable for any damage caused by the launching of a space object.
 
-## Part VII
+## PART VII
 
 48. Part VII of the proposed Act deals with other offences.
 
@@ -1236,7 +1278,7 @@ This Bill (“the proposed Act”) seeks to establish the Malaysian Space Board 
 
 55. Clause 46 seeks to provide for the suspension of a licence, launch permit or launch certificate in the event of an accident or incident.
 
-## Part IX
+## PART IX
 
 56. Part IX of the proposed Act deals with the provisions relating to enforcement.
 
@@ -1276,7 +1318,7 @@ This Bill (“the proposed Act”) seeks to establish the Malaysian Space Board 
 
 73. Clause 63 seeks to provide that it shall be an offence for any person who obstructs the Space Regulator, any authorized officer, the Launch Safety Officer and any investigator in the performance of their duties under the proposed Act.
 
-## Part X
+## PART X
 
 74. Part X of the proposed Act deals with general provisions.
 

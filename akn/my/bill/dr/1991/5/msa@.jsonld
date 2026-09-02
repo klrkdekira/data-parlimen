@@ -55,8 +55,7 @@
       "hasPart": [
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/5/msa@/~cl_2__para_a",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/5/msa@/~cl_2__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/5/msa@/~cl_2__para_c",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/5/msa@/~cl_2__subsec_10"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/5/msa@/~cl_2__para_c"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/5/msa@",
       "schema:name": {
@@ -95,17 +94,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/5/msa@/~cl_2",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan, selepas sahaja perenggan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/5/msa@/~cl_2__subsec_10",
-      "@type": "akn:subsection",
-      "eli:number": "10",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/5/msa@/~cl_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "(c), perenggan baru (d) yang berikut: \"(d) the fact that it is held by, or in the name of, a central depository or its nominee company pursuant to the Securities Act Industry (Central Depositories) Act 1991.\". Pindaan"
+        "@value": "dengan memasukkan, selepas sahaja perenggan (10) (c), perenggan baru (d) yang berikut: \"(d) the fact that it is held by, or in the name of, a central depository or its nominee company pursuant to the Securities Act Industry (Central Depositories) Act 1991.\"."
       }
     },
     {
@@ -118,9 +107,9 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/5/msa@/~cl_3__para_c"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/5/msa@",
-      "schema:text": {
+      "schema:name": {
         "@language": "ms",
-        "@value": "Seksyen 39 Akta ibu adalah dipinda— seksyen 39."
+        "@value": "Seksyen 39 Akta ibu adalah dipinda—"
       }
     },
     {

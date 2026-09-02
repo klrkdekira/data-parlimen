@@ -1,0 +1,1341 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-45-2007",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Bank Pertanian Malaysia Berhad Bill 2007"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY Short title and commencement"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "FORMATION, OWNERSHIP AND VESTING PROVISIONS The Bank"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_III__cl_9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "STAFF Staff"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_III__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_III__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_III__cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_III__cl_9__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_III__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Bank shall accept into its employment on the vesting date every person who immediately before that date is a member of the staff of the Bank Pertanian Malaysia and who was given an option by the Bank Pertanian Malaysia and has opted to serve as an employee of the Bank."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_III__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every person who opts under subsection (1) to serve as an employee of the Bank shall be employed by the Bank on terms and conditions of service not less favorable than the terms and conditions of service to which he was entitled immediately before the vesting date."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_III__cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Bank shall not retrench any staff within the period of five years from the vesting date."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A Bank which is a company under the Companies Act 1965 [Act 125] is incorporated under the name of \"Bank Pertanian Malaysia Berhad\". Vesting provisions"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_4__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_4__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_4__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_4__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_4__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_4__subsec_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister of Agriculture and Agro-Based Industry may, by order published in the Gazette, appoint a vesting date and on that date, all property, rights and liabilities of the Bank Pertanian Malaysia shall by virtue of this Act be transferred to and vested in the Bank without any conveyance, assignment or transfer."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every property vested by virtue of subsection (1) in the Bank shall be so vested in the Bank for the like title, estate or interest and on the like tenure as it was vested or held immediately before the vesting date."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every chose in action vested by virtue of subsection (1) in the Bank may, after the vesting date, be sued on, recovered or enforced by the Bank in its own name, and it shall not be necessary for the Bank or Bank Pertanian Malaysia to give notice to the person bound by the chose in action of the vesting effected under subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_4__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every right and liability vested by virtue of subsection (1) in the Bank may, on and after the vesting date, be sued on, recovered or enforced by or against the Bank in its own name, and it shall not be necessary for the Bank or Bank Pertanian Malaysia to give notice to the person whose right or liability is affected by the vesting effected under subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_4__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any pending legal proceedings by or against the Bank Pertanian Malaysia which relate to any property, right or liability transferred to and vested in the Bank by virtue of subsection (1) may, on and after the vesting date, be continued by or against the Bank."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_4__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In the case of rights and liabilities arising under any loan which vest in the Bank on the vesting date, the Bank may enter into such arrangements or agreements over such rights and liabilities with the Government or any third party."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_4__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where by virtue of subsection (1), any property is transferred to and vested in the Bank, the provisions in Part Thirty of the National Land Code [Act 56/1965] shall, for the purpose of effecting the registration of such vesting, apply to the Bank as if it were a public authority."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_4__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "On and after the vesting date, any agreement relating to any property, rights and liabilities transferred to and vested in the Bank under subsection (1) to which the Bank Pertanian Malaysia was a party immediately before the vesting date, whether in writing or not, and whether or not of such a nature that rights and liabilities thereunder could be assigned by the Bank Pertanian Malaysia, shall have effect as if the Bank had been a party to the agreement. Initial Government holding in the Bank"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_5__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_5__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "As a consequence of the vesting in the Bank of the property, rights and liabilities under section 4, the Bank shall issue such securities of the Bank as the Minister may, from time to time, direct to the Corporation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_5__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_5__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_5__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Securities required to be issued in pursuance of this section shall-"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_5__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "be issued or allotted at such times and on such terms as the Minister may direct;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_5__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "be of such nominal value as the Minister may direct; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_5__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "be issued as fully paid and treated for the purposes of the Companies Act 1965 as if they had been paid up by virtue of the payment to the Bank of their nominal value."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may dispose of any securities issued or of any rights to securities initially allotted to the Corporation in pursuance of this section."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_5__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any dividends or other sums received by the Corporation in right of, on the disposal of or otherwise in connection with, any securities or rights acquired by virtue of this section shall be paid into the Consolidated Fund. Government investment in securities of the Bank"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_6__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_6__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_6__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_6__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_6__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, through the Corporation, at any time, acquire —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_6__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "securities of the Bank or of any subsidiary of the Bank; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_6__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "rights to subscribe for any such securities."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may dispose of any securities or rights acquired by the Corporation under this section."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any expenses incurred by the Corporation in consequence of the provisions of this section shall be treated as investments and be authorized under subparagraph 8(3)(a)(iv) of the Financial Procedure Act 1957 [Act 61]."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_6__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any dividends or other sums received by the Corporation in right of, on the disposal of or otherwise in connection with, any securities or rights acquired under this section shall be paid into the Consolidated Fund."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_6__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_6__subsec_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_6__subsec_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Stamp duty shall not be chargeable in respect of any increase in the capital of the Bank which —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_6__subsec_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_6__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "is effected by the issue of shares allotted at a time when the Bank is wholly owned by the Government; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_6__subsec_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_6__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "is certified by the Treasury as having been effected by the issue of shares subscribed for by the Corporation under paragraph (l)(a). Appointment of Government representative on the Board"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_7__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_7__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_7__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_7__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, from time to time, for so long as the Government holds not less than five per cent of the entire issued securities in the Bank, after consultation with the Minister of Agriculture and Agro-Based Industry, nominate such number of persons as may be appropriate to be directors on the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Bank shall cause every person nominated by the Minister under subsection (1) to be appointed to the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_7__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person appointed to the Board under subsection (2) may, at any time, be removed by the Minister, after consultation with the Minister of Agriculture and Agro-Based Industry, by giving written notice to such person and the Bank."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_7__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purpose of determining the number of persons to be appointed as directors on the Board under subsection (1), the Minister shall have regard to the total number of securities held by the Government and the total number of directors appointed by the Bank to the Board, at the time of such nomination."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_7__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Nothing in this section shall be construed so as to affect any power, right or privilege, which may be conferred on Government by the constituent documents of the Bank. Statutory account"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_8__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_8__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_8__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_8__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_8__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of any statutory accounts of the Bank-"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_8__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the vesting effected by virtue of section 4 shall be taken to have been a vesting of all property, rights and liabilities which the Bank Pertanian Malaysia was entitled and subject to immediately before the end of the last complete accounting year of the Bank Pertanian Malaysia, ending before the vesting date and to have been effected to the Bank on the vesting date; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_8__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the value of any asset, right or the amount of any liability of the Bank Pertanian Malaysia, taken to have been vested in the Bank by virtue of section 4 shall be taken to be the value or, as the case may be, the amount assigned to the asset, right or liability in the statement of accounts prepared by the Bank Pertanian Malaysia, in respect of the last complete accounting year of the Bank Pertanian Malaysia, ending before the vesting date."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of any statutory accounts of the Bank, the amount to be included in respect of any item shall be determined as if anything done by the Bank Pertanian Malaysia, whether by way of acquiring, revaluing or disposing of any asset or incurring, revaluing or discharging any liability, or by carrying any amount to any provision of reserve, or otherwise, had been done by the Bank."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_8__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "References in this section to the statutory accounts of the Bank are references to any accounts prepared by the Bank for the purposes of any provision of the Companies Act 1965."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_8__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of this section, \"complete accounting year\" means an accounting year ending on 31 December or a period to be determined by the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_11"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "OBJECTS, POWERS AND SOCIAL OBLIGATIONS OF THE BANK Objects and powers of the Bank"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_1__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The objects of the Bank are —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to promote Malaysia's sound agricultural development;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to co-ordinate and supervise the grant of credit from public funds for agricultural purposes by the various persons or bodies of persons whether incorporate or unincorporate;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to provide loans, advances and other credit facilities for the development of agriculture sector and agriculture related business;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to mobilize savings with particular regard to the agricultural sector and in furtherance of this object to accept savings and time deposits;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to uplift the well-being of the agricultural community; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to carry on the general business of a modern and progressive financial services institution catering for the total financial needs of its customers."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_l",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_m",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_n",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_o",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_p",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_q",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_r",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_s",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_t",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_u",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_v",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_w",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_x",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_y",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_z",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_aa"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In addition to all the powers of the Bank as prescribed in its Memorandum and Articles of Association, the Bank may —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "borrow, raise or take up money, lend or advance money with or without security for the purpose of financing agricultural operations or agriculture related business;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_aa",
+      "@type": "akn:paragraph",
+      "eli:number": "aa",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "do such other business as the Central Bank may approve in writing."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "purchase, sell, discount and rediscount inland bills of exchange and promissory notes drawn or issued for the purpose of financing agricultural operations or agriculture related business;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "accept, receive or take deposits and to provide all types of deposit accounts including savings account, time deposit account and any other similar account;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_d__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "make an unsolicited call through its mobile unit to —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "solicit or procure the making of deposit; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "enter into or offer to enter into any agreement with a view to the acceptance of a deposit;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "provide financing to the agricultural community;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in respect of agricultural operations and marketing of agricultural productions, grant and issue letters of credit;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "issue on commission, subscribe for, underwrite, take, acquire, hold, sell, exchange and deal with shares, stocks, bonds, funds, obligations, securities and investment of all kinds;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "receive money and valuables on deposit for safe custody;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "act as agents for the Government, any State Government or other authority and for public or private bodies or persons;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "acquire and undertake the whole or any part of the business, property and liabilities of any person or company carrying on any business which the Bank is authorized to carry on, or possessed of property suitable for the purposes of the Bank;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "carry on the business of godown keepers or warehousemen and to hire, purchase, erect or otherwise acquire warehouses or godowns for any of the purposes of the Bank;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_l__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_l__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "acquire, improve, manage, work, develop, exercise all rights in respect of, lease, mortgage, sell, dispose of, turn to account, and otherwise deal with—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_l__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_l",
+      "schema:text": {
+        "@language": "en",
+        "@value": "movable property and immovable property irrespective of the title thereof; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_l__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_l",
+      "schema:text": {
+        "@language": "en",
+        "@value": "produce of all kinds and in particular agricultural produce;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_m",
+      "@type": "akn:paragraph",
+      "eli:number": "m",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "enter into any arrangements with the Government, any State Government or local authority or otherwise that may seem conducive to any or all of the objects of the Bank, and to obtain from any such Government or authority any rights, privileges and concessions which the Bank may think it desirable to obtain, and to carry out, exercise and comply with any such arrangements, rights, privileges and concessions;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_n",
+      "@type": "akn:paragraph",
+      "eli:number": "n",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "purchase, sell and discount Treasury bills of the Government or of any State Government authorized to issue Treasury bills;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_o",
+      "@type": "akn:paragraph",
+      "eli:number": "o",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "maintain accounts with other banks in Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_p",
+      "@type": "akn:paragraph",
+      "eli:number": "p",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "act as correspondent, or agent for any international bank or agricultural credit institution of an international character;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_q",
+      "@type": "akn:paragraph",
+      "eli:number": "q",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "provide all types of payment and collection services, including giro services, automated teller machines, debit cards, credit cards and prepaid cards;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_r",
+      "@type": "akn:paragraph",
+      "eli:number": "r",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "with the approval of the Board, utilize the funds of the Bank for investments;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_s",
+      "@type": "akn:paragraph",
+      "eli:number": "s",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "provide financial services based on Islamic principles;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_t",
+      "@type": "akn:paragraph",
+      "eli:number": "t",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "open branches and appoint agents or correspondents within or outside Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_u",
+      "@type": "akn:paragraph",
+      "eli:number": "u",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "pay interest on deposits by customers and determine the rate of such interest;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_v",
+      "@type": "akn:paragraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "charge interest on loans and advances made to customers and determine the rate of such interest;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_w",
+      "@type": "akn:paragraph",
+      "eli:number": "w",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "impose charges for any services rendered by it;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_x",
+      "@type": "akn:paragraph",
+      "eli:number": "x",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "carry out agricultural insurance business;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_y",
+      "@type": "akn:paragraph",
+      "eli:number": "y",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "provide guarantees for agricultural financing facilities;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2__para_z",
+      "@type": "akn:paragraph",
+      "eli:number": "z",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "provide financial and business advisory services; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any business activity carried out pursuant to the powers conferred under subsection (2) requiring the approval of or licensing by an authority, such activity may be carried out subject to the approval or license being obtained from such authority."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of this section— \"Central Bank\" means the Central Bank of Malaysia established by the Central Bank of Malaysia Act 1958 [Act 519]; \"giro service\" means a current account service which permits an account holder to issue payment instructions to the Bank for payment to any party or which permits the Bank to accept payments into the account of an account holder from any party; \"unsolicited call\" means a personal visit or oral communication without express invitation. Social obligations"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Bank shall fulfill any social obligation as the Government may, from time to time, determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Bank Pertanian Malaysia Berhad Act 2007."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Interpretation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires —"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "\"Bank\" means the Bank Pertanian Malaysia Berhad referred to in section 3; \"Bank Pertanian Malaysia\" means the Bank Pertanian Malaysia established under the Bank Pertanian Malaysia Act 1969 [Act 9]; \"property\" includes all property, movable or immovable, and all estates, interests, easements or rights, whether equitable or legal in, to or out of property, chose in action, money and goodwill; \"Board\" means the board of directors of the Bank; \"liabilities\" means all kinds of liabilities, debts, charges, duties and obligations (whether present or future, actual or contingent, and whether payable or to be observed or performed in Malaysia or elsewhere); \"Minister\" means the Minister charged with the responsibility for finance; \"Corporation\" means the Minister of Finance incorporated by the Minister of Finance (Incorporation) Act 1957 [Act 375]; \"vesting date\" means the date appointed by the Minister of Agriculture and Agro-Based Industry under subsection 4(1); \"vested\", in relation to property, includes having rights to property which are future or contingent and rights in reversion and remainder."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_20"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "GENERAL Power of the Minister of Agriculture and Agro-Based Industry to give direction"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister of Agriculture and Agro-Based Industry may, from time to time, give directions to the Board in respect of agriculture policies to be pursued by the Bank and shall comply with such directions. Account statement to be submitted to the Minister"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_13__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_13__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_13__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_13__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Bank shall, within ninety days after the end of each financial year, or such further period as the Minister may approve, submit to the Minister, in respect of its entire operations inside and outside Malaysia, a copy each in print and in record stored or recorded by electronic means and on electronic medium the following documents in such form as the Minister may specify:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "duly audited revenue account together with supporting statements;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "duly audited profit and loss account and balance sheet together with supporting statements;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_13__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a certificate by the auditor;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_13__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a report by the Board on its operations in the financial year; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_13__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a statutory declaration by one of its non-executive directors and its chief executive officer in respect of matters in paragraphs (a), (b) and (d). Protection under the Bills of Exchange Act 1949"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In the performance of its functions under this Act, the Bank shall be accorded the protection of a banker under the Bills of Exchange Act 1949 [Act 204]. Application of the Companies Act 1965"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Bank shall be subject to the provisions of the Companies Act 1965 as well as the provisions of this Act, but where there is any conflict or inconsistency between the provisions of the Companies Act 1965 and this Act in their respective application to the Bank, the provisions of this Act shall prevail. Regulations"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, from time to time, make such regulations as may be necessary or expedient for giving full effect to the provisions of this Act, for carrying out or achieving the objects and purposes of this Act or any provisions thereof, or for the further, better or more convenient implementation of the provisions of this Act. Repeal"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Bank Pertanian Malaysia Act 1969 is repealed. Continuance of laws, etc,"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_18__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to subsection (2), all written laws including subsidiary legislation, affecting or for the protection of Bank Pertanian Malaysia and in operation immediately before vesting date shall, until amended or revoked by the appropriate authority having power so to do, continue in operation and be construed as if this Act has not been passed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any reference in such written laws to Bank Pertanian Malaysia, unless the context otherwise requires, shall be construed as a reference to the Bank and expressions importing such a reference shall be construed accordingly. Continuation and completion of disciplinary proceedings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_19__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where on the vesting date any disciplinary proceedings are pending or exist against any employee of the Bank Pertanian Malaysia who has opted into the service of the Bank, such proceedings shall be continued and completed by the Bank, and the law applicable to such employee immediately before the vesting date in relation to such proceedings shall apply to the proceedings continued and completed under this section."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An order, ruling or direction made or given by a disciplinary authority of the Bank pursuant to this section shall, in respect of such employee, have the same force and effect as an order, ruling or direction made or given by the Disciplinary Committee or Disciplinary Appeal Committee of the Bank Pertanian Malaysia, as the case may be, under the laws referred to in subsection (1). Prevention of difficulties or anomalies"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_20__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_20__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_20__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_20__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, whenever it appears to him necessary or expedient to do so, whether for the purpose of removing difficulties or preventing anomalies in consequence of the enactment of this Act, by order published in the Gazette make such modifications to any provision of this Act as he thinks fit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_20__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall not exercise the powers conferred by this section after the expiration of two years from the vesting date."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_20__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/45/eng@/~part_V__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In this section 'modifications' includes amendments, additions, deletions, substitutions, adaptations, variations, alterations and non application of any provision of this Act."
+      }
+    }
+  ]
+}

@@ -1,0 +1,303 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-45-2001",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_5"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Majlis Peperiksaan Malaysia (Pindaan) 2001"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Majlis Peperiksaan Malaysia (Pindaan) 2001. Pindaan am"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Majlis Peperiksaan Malaysia 1980 [Akta 225], yang disebut \"Akta ibu\" dalam Akta ini, dipinda dengan menggantikan perkataan \"Setiausaha Agung\" di mana-mana jua terdapat dengan perkataan \"Ketua Eksekutif\". Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_3__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_3__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 2 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_3__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_3__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_3__list_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_3__list_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_3__list_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_3__list_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_3__list_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_3__list_1__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_3__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong takrif \"Ketua Pegawai Pelajaran\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_3__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan sebelum takrif \"Kumpulanwang\" takrif yang berikut: ' \"Ketua Eksekutif ertinya Ketua Eksekutif Majlis yang dilantik di bawah seksyen 14;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_3__list_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif \"Ketua Eksekutif takrif yang berikut: ' \"Ketua Pengarah Pendidikan\" ertinya Ketua Pengarah Pendidikan yang dilantik oleh Yang di-Pertuan Agong di bawah seksyen 3 Akta Pendidikan 1996 [Akta 550];':"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_3__list_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif \"Menteri\" takrif yang berikut: ' \"Pengarah Pendidikan\" ertinya Pengarah Pendidikan yang dilantik oleh Menteri di bawah seksyen 4 Akta Pendidikan 1996; \"Pengarah Peperiksaan\" ertinya Pengarah Peperiksaan yang dilantik oleh Menteri di bawah subseksyen 7(1) Akta Pendidikan 1996;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_3__list_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong takrif \"Pengawal Peperiksaan\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_3__list_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong takrif \"Setiausaha Agung\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_3__list_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan takrif \"Universiti\" dengan takrif yang berikut: ' \"Universiti\" ertinya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_3__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_3__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_3__list_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_3__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_3__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu Universiti yang ditubuhkan di bawah seksyen 6 Akta Universiti dan Kolej Universiti 1971 [Akta 30]; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_3__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_3__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu Universiti yang ditubuhkan di bawah seksyen 1A Akta Universiti Teknologi MARA 1976 [Akta 173].'. Pindaan seksyen 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_4__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_4__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 4(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_4__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_4__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa kebangsaan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_4__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_4__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b). dengan menggantikan perkataan \"Ketua Setiausaha Kementerian Pelajaran\" dengan perkataan \"Ketua Setiausaha Kementerian Pendidikan\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_4__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_4__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c), dengan menggantikan perkataan \"Ketua Pengarah Pelajaran\" dengan perkataan \"Ketua Pengarah Pendidikan\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_4__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_4__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (d)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_4__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_4__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"Pengawal Peperiksaan\" dengan perkataan \"Pengarah Peperiksaan\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_4__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_4__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan \"dan\" selepas koma bernoktah;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah di hujung perenggan (e) dengan perkataan \"; dan\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_4__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (e) perenggan yang berikut: \"(f) Ketua Eksekutif.\". Pindaan seksyen 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/45/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 10 Akta ibu dipinda dengan menggantikan perkataan \"Ketua Pegawai Pelajaran\" dengan perkataan \"Pengarah Pendidikan\"."
+      }
+    }
+  ]
+}

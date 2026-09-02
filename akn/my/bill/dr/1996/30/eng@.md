@@ -74,7 +74,21 @@ authority over all its officers and servants and committees. shall exercise disc
 
 two or more disciplinary punishments as may be provided for under any regulations made under section 16c.
 
-Appeal 16B. (1) A decision of the disciplinary against committee under section 16A(2)(a) shall be decision of disciplinary appealable to the Minister. committee.
+<!-- marginal: Appeal -->
+
+16B. (1) A decision of the disciplinary
+
+<!-- marginal: against -->
+
+committee under section 16A(2)(a) shall be
+
+<!-- marginal: decision of -->
+
+<!-- marginal: disciplinary -->
+
+appealable to the Minister.
+
+<!-- marginal: committee. -->
 
 (2) A decision of the disciplinary committee under section 16A(2)(b) shall be appealable to the Disciplinary Appeal Committee which shall consist of the following members:
 
@@ -86,11 +100,27 @@ Appeal 16B. (1) A decision of the disciplinary against committee under section 1
 
 (4) When the Disciplinary Appeal Committee considers an appeal under subsection (2), a member of the disciplinary committee against whose decision the appeal is made who is also a member of the Lembaga shall not be present or in any way participate in any proceedings relating to that appeal.
 
-(5) The decision of the Minister or the Disciplinary Appeal Committee under subsection (3) shall be final and conclusive.
+(5) The decision of the Minister or the Disciplinary Appeal Committee under subsection
+
+(3) shall be final and conclusive.
 
 <!-- page 4 -->
 
-Power to 16c. (1) The Lembaga may, with the approval make of the Minister, make such regulations as it disciplinary deems necessary or expedient to provide for regulations. the discipline of the General Manager, the Director, officers and servants of the Lembaga.
+<!-- marginal: Power to -->
+
+16c. (1) The Lembaga may, with the approval
+
+<!-- marginal: make -->
+
+of the Minister, make such regulations as it
+
+<!-- marginal: disciplinary -->
+
+deems necessary or expedient to provide for
+
+<!-- marginal: regulations. -->
+
+the discipline of the General Manager, the Director, officers and servants of the Lembaga.
 
 (2) The disciplinary regulations made under this section:—
 
@@ -102,11 +132,7 @@ Power to 16c. (1) The Lembaga may, with the approval make of the Minister, make 
 
 (i) where an officer or servant of the Lembaga is dismissed or reduced in rank on the ground of conduct in respect of which a criminal charge has been proved against him;
 
-(ii) where the Lembaga, on
-
-<!-- marginal: the -->
-
-recommendations of the Minister charged with home affairs, is satisfied that in the interest of the security of Malaysia or any part thereof it is not expedient to carry out the requirements of this paragraph; or
+(ii) where the Lembaga, on the recommendations of the Minister charged with home affairs, is satisfied that in the interest of the security of Malaysia or any part thereof it is not expedient to carry out the requirements of this paragraph; or
 
 (iii) where there has been made against an officer or servant of the Lembaga any order of detention,
 
@@ -122,11 +148,17 @@ supervision, restricted residence, banishment or deportation, or where there has
 
 (3) For the avoidance of doubt, "officer" in this section includes the General Manager and the Director under section 14.
 
-Imposition 16D. (1) A person who is or was in
+<!-- marginal: Imposition -->
 
-<!-- marginal: the -->
+16D. (1) A person who is or was in the
 
-of employment of the Lembaga may be surcharged surcharge. if it appears to the Lembaga that the person—
+<!-- marginal: of -->
+
+employment of the Lembaga may be surcharged
+
+<!-- marginal: surcharge. -->
+
+if it appears to the Lembaga that the person—
 
 (a) has failed to collect money owing to the Lembaga for the collection of which he is or was responsible;
 
@@ -150,7 +182,13 @@ of employment of the Lembaga may be surcharged surcharge. if it appears to the L
 
 (b) in the case of subsections (1)(d) and (e), surcharge against the person, such sum as the Lembaga may think fit.
 
-Notification 16E. The Lembaga shall notify the person of surcharge. surcharged in respect of any surcharge made under section 16D(3).
+<!-- marginal: Notification -->
+
+16E. The Lembaga shall notify the person
+
+<!-- marginal: of surcharge. -->
+
+surcharged in respect of any surcharge made under section 16D(3).
 
 <!-- page 7 -->
 

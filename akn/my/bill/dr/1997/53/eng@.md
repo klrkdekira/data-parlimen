@@ -8,17 +8,37 @@ An Act to amend the Securities Industry Act 1983. [ ]
 
 BE IT ENACTED by the Seri Paduka Baginda Yang di-Pertuan Agong with the advice and consent of the Dewan Negara and Dewan Rakyat in Parliament assembled, and by the authority of the same, as follows:
 
-1. (1) This Act may be cited as the Securities Industry Short title and (Amendment) Act 1997. commence- ment.
+1. (1) This Act may be cited as the Securities Industry
+
+<!-- marginal: Short title -->
+
+<!-- marginal: and -->
+
+(Amendment) Act 1997.
+
+<!-- marginal: commence- -->
+
+<!-- marginal: ment. -->
 
 (2) This Act shall come into force on a date to be appointed by the Minister, by notification in the Gazette, and the Minister may appoint different dates for different provisions of this Act.
 
-Amendment
+<!-- marginal: Amendment -->
 
-2. The Securities Industry Act 1983, which in this Act of long title. is referred to as the "principal Act", is amended in the Act 280. long title by deleting the words ", stock brokers".
+2. The Securities Industry Act 1983, which in this Act
 
-Amendment
+<!-- marginal: of long title. -->
 
-3. Section 2 of the principal Act is amended— of section 2
+is referred to as the "principal Act", is amended in the
+
+<!-- marginal: Act 280. -->
+
+long title by deleting the words ", stock brokers".
+
+<!-- marginal: Amendment -->
+
+3. Section 2 of the principal Act is amended—
+
+<!-- marginal: of section 2 -->
 
 (a) in subsection (1)—
 
@@ -54,9 +74,11 @@ Amendment
 
 (a)(iii) by inserting after the word "dealer" the words ", fund manager".
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. Section 10 of the principal Act is amended— of section 10.
+4. Section 10 of the principal Act is amended—
+
+<!-- marginal: of section 10. -->
 
 (a) in the marginal note, by deleting the words "or Registrar";
 
@@ -64,23 +86,51 @@ Amendment
 
 (c) in subsections (4) and (5), by deleting the words "or the Registrar".
 
-Amendment
+<!-- marginal: Amendment -->
 
-5. Subsection 14(2) of the principal Act is amended by of section 14. substituting for the words "a stock broker or the holder of a dealer's licence" the words "a holder of a dealer's or fund manager's licence".
+5. Subsection 14(2) of the principal Act is amended by
 
-6. Subsection 15A(2) of the principal Act is amended in Amendment of section paragraph (c) by substituting for the word "declared" the 15A. word "prescribed".
+<!-- marginal: of section 14. -->
 
-Amendments
+substituting for the words "a stock broker or the holder of a dealer's licence" the words "a holder of a dealer's or fund manager's licence".
 
-7. Section 33 and subsection 34( 1) of the Act are amended of sections 33 by deleting the words "or the Registrar" wherever they and 34 appear.
+6. Subsection 15A(2) of the principal Act is amended in
 
-Amendment
+<!-- marginal: Amendment -->
 
-8. Section 35 of the principal Act and the marginal note (it section 35 to that section are amended by deleting the words "or the Registrar".
+<!-- marginal: of section -->
 
-Amendment
+paragraph (c) by substituting for the word "declared" the
 
-9. Subsection 39(6) of the principal Act is amended— ot seclion 39.
+<!-- marginal: 15A. -->
+
+word "prescribed".
+
+<!-- marginal: Amendments -->
+
+7. Section 33 and subsection 34( 1) of the Act are amended
+
+<!-- marginal: of sections 33 -->
+
+by deleting the words "or the Registrar" wherever they
+
+<!-- marginal: and 34 -->
+
+appear.
+
+<!-- marginal: Amendment -->
+
+8. Section 35 of the principal Act and the marginal note
+
+<!-- marginal: (it section 35 -->
+
+to that section are amended by deleting the words "or the Registrar".
+
+<!-- marginal: Amendment -->
+
+9. Subsection 39(6) of the principal Act is amended—
+
+<!-- marginal: ot seclion 39. -->
 
 (a) by inserting after the words "investment representative" the words "(in this subsection referred to as "that person")"; and
 
@@ -90,9 +140,11 @@ Amendment
 
 "(c) where that person is a natural person who carries on business in a corporation, is signed by a director, an executive officer or the secretary of the corporation; or".
 
-Amendment
+<!-- marginal: Amendment -->
 
-10. Section 41 of the principal Act is amended— of section 41.
+10. Section 41 of the principal Act is amended—
+
+<!-- marginal: of section 41. -->
 
 (a) by substituting for subsection (1) the following subsection:
 
@@ -120,25 +172,49 @@ a presently exercisable and unconditional right to vest the securities in a purc
 
 (i) of such class or category; or
 
-(ii) which is transacted in such manner or under such circumstances,
+(ii) which is transacted in such manner or under
+
+<!-- marginal: such -->
+
+circumstances,
 
 as may be prescribed by the Minister.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-11. The English language text of the principal Act is of section 44. amended in subsection 44(1A) by substituting for the word "trading" the word "business".
+11. The English language text of the principal Act is
 
-Amendment
+<!-- marginal: of section 44. -->
 
-12. Subsection 47c(5) of the principal Act is amended of section by inserting after the word "from" the words ", or deal 47c. with any property in,".
+amended in subsection 44(1A) by substituting for the word "trading" the word "business".
 
-Amendment
+<!-- marginal: Amendment -->
 
-13. Subsection 49( 1) of the principal Act is amended by of section 49. deleting the words "and the Registrar,".
+12. Subsection 47c(5) of the principal Act is amended
 
-Amendment
+<!-- marginal: of section -->
 
-14. Subsection 50(1) of the principal Act is amended by of section 50. substituting for paragraphs (e) and (f) the following paragraphs:
+by inserting after the word "from" the words ", or deal
+
+<!-- marginal: 47c. -->
+
+with any property in,".
+
+<!-- marginal: Amendment -->
+
+13. Subsection 49( 1) of the principal Act is amended by
+
+<!-- marginal: of section 49. -->
+
+deleting the words "and the Registrar,".
+
+<!-- marginal: Amendment -->
+
+14. Subsection 50(1) of the principal Act is amended by
+
+<!-- marginal: of section 50. -->
+
+substituting for paragraphs (e) and (f) the following paragraphs:
 
 "(aa) in the case of a member company, the stock exchange and the Commission; or
 
@@ -146,17 +222,29 @@ Amendment
 
 <!-- page 6 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-15. The heading of Part IX of the principal Act is amended of heading of by inserting after the heading "TRADING IN Pant IX. SECURITIES" the following subheading:
+15. The heading of Part IX of the principal Act is amended
+
+<!-- marginal: of heading of -->
+
+by inserting after the heading "TRADING
+
+<!-- marginal: IN -->
+
+<!-- marginal: Pant IX. -->
+
+SECURITIES" the following subheading:
 
 ## "DIVISION 1
 
 Prohibited Conduct".
 
-Amendment
+<!-- marginal: Amendment -->
 
-16. Section 84 of the principal Act is amended— of section 84.
+16. Section 84 of the principal Act is amended—
+
+<!-- marginal: of section 84. -->
 
 (a) in subsection (1), by substituting for the words "A person shall not create," the words "Subject to section 87s, no person shall create,"; and
 
@@ -170,9 +258,11 @@ Amendment
 
 of active trading in securities on a stock market.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-17. Section 85 of the principal Act is amended— of section 85.
+17. Section 85 of the principal Act is amended—
+
+<!-- marginal: of section 85. -->
 
 (a) by substituting for subsection (1) the following subsection:
 
@@ -190,9 +280,7 @@ the price of securities of the corporation on a stock market in Malaysia, for th
 
 (b) by deleting subsections (2) and (3); and
 
-(c) by renumbering subsection (4) as subsection
-
-(2).
+(c) by renumbering subsection (4) as subsection (2).
 
 18. Section 86 of the principal Act is amended by substituting for the word "A" the words "Subject to section 87B, a".
 
@@ -210,23 +298,71 @@ the price of securities of the corporation on a stock market in Malaysia, for th
 
 <!-- page 8 -->
 
-New section
+<!-- marginal: New section -->
 
-21. The principal Act is amended by inserting after section 87u. 87A the following section:
+21. The principal Act is amended by inserting after section
 
-it Person or
+<!-- marginal: 87u. -->
 
-87B. The Minister may prescribe, and make transaction regulations in respect of, persons, or transactions to whom or which relating to securities, or any particular class, sections category or description of persons, or any
+87A the following section:
 
-84. 85, particular class, category or description of 86, 87 and 87A do not transactions relating to securities, to whom or apply. which section 84', 85, 86, 87 or 87A does not apply.".
+<!-- marginal: it -->
 
-New sections
+<!-- marginal: Person or -->
 
-22. The principal Act is amended by inserting after section 88A and 88u. 8,8 the following sections:
+87B. The Minister may prescribe, and make
 
-"Civil
+<!-- marginal: transaction -->
 
-88A. (1) Where a person contravenes section liability 84, 85, 86, 87, 87A or 88, any other person who for contra- vention of entered into a transaction for the sale and purchase sections 84, of securities with the first-mentioned person or 85, 86. 87. 87A and 88. with a person acting on behalf of the first- mentioned person may, by civil action against the first-mentioned person or against any person acting on behalf of the first-mentioned person, recover the amount of loss suffered by that other person—
+regulations in respect of, persons, or transactions
+
+<!-- marginal: to whom -->
+
+<!-- marginal: or which -->
+
+relating to securities, or any particular class,
+
+<!-- marginal: sections -->
+
+category or description of persons, or any
+
+84. 85, particular class, category or description of
+
+<!-- marginal: 86, 87 and -->
+
+<!-- marginal: 87A do not -->
+
+transactions relating to securities, to whom or
+
+<!-- marginal: apply. -->
+
+which section 84', 85, 86, 87 or 87A does not apply.".
+
+<!-- marginal: New sections -->
+
+22. The principal Act is amended by inserting after section
+
+<!-- marginal: 88A and 88u. -->
+
+8,8 the following sections:
+
+<!-- marginal: "Civil -->
+
+88A. (1) Where a person contravenes section
+
+<!-- marginal: liability -->
+
+84, 85, 86, 87, 87A or 88, any other person who
+
+<!-- marginal: for contra- -->
+
+<!-- marginal: vention of -->
+
+entered into a transaction for the sale and purchase sections 84, of securities with the first-mentioned person or
+
+<!-- marginal: 85, 86. 87. -->
+
+87A and 88. with a person acting on behalf of the first- mentioned person may, by civil action against the first-mentioned person or against any person acting on behalf of the first-mentioned person, recover the amount of loss suffered by that other person—
 
 (a) whether or not the first-mentioned person or any person acting on his behalf has been charged with an offence in respect of the contravention; or
 
@@ -244,21 +380,27 @@ New sections
 
 Penalty 88e. A person who contravenes or fails to comply for offence with section 84, 85, 86, 87, 87A or 88 commits- under an offence and is liable on conviction to a fine Division 1. of not less than one million ringgit and to imprisonment for a term not exceeding.ten years.".
 
-New
+<!-- marginal: New -->
 
-23. The principal Act is amended by inserting after section Division 2. 88A the following subheading:
+23. The principal Act is amended by inserting after section
+
+<!-- marginal: Division 2. -->
+
+88A the following subheading:
 
 ## "DIVISION 2
 
 Insider Trading".
 
-Substitution
+<!-- marginal: Substitution -->
 
-24. The principal Act is amended by substituting for of section 89. section 89 the following section:
+24. The principal Act is amended by substituting for
 
-Informa-
+<!-- marginal: of section 89. -->
 
-89. For the -purposes of this Division,. tion. "information" includes—
+section 89 the following section:
+
+Informa- 89. For the -purposes of this Division,. tion. "information" includes—
 
 ' (a)' matters of supposition and other matters that are insufficiently definite to warrant being made known to the public;
 
@@ -276,33 +418,99 @@ Informa-
 
 (e) information that a person proposes to enter into, or has previously entered into one or. more transactions or .agreements in relation to securities or has preparedt or proposes to issue a statement relating to such securities; and (/) matters relating to the future.".
 
-New sections
+<!-- marginal: New sections -->
 
-25. The principal Act-is amended by inserting after section 89A, 89B, 89 the following sections: 89C, 89D, 89E. 89F, 89G, 89H. 89I, 89J, 89K, Informa-
+25. The principal Act-is amended by inserting after section
 
-89A. (1) For the purposes-of this Division, 89L, 89M, 89N tion information is generally available if the and 89O. generally information has been made known in a manner available. that would, or would tend to, bring it to the attention of reasonable persons who invest in securities of a kind whose price or value might be affected by the information, and since.it was so made known, a reasonable period for it to be disseminated among, and assimilated by, such persons has elapsed.
+<!-- marginal: 89A, 89B, -->
+
+89 the following sections:
+
+<!-- marginal: 89C, 89D, 89E. -->
+
+<!-- marginal: 89F, 89G, 89H. -->
+
+<!-- marginal: 89I, 89J, 89K, -->
+
+<!-- marginal: Informa- -->
+
+89A. (1) For the purposes-of this Division,
+
+<!-- marginal: 89L, 89M, 89N -->
+
+<!-- marginal: tion -->
+
+information is generally available if the
+
+<!-- marginal: and 89O. -->
+
+<!-- marginal: generally -->
+
+information has been made known in a manner
+
+<!-- marginal: available. -->
+
+that would, or would tend to, bring it to the attention of reasonable persons who invest in securities of a kind whose price or value might be affected by the information, and since.it was so made known, a reasonable period for it to be disseminated among, and assimilated by, such persons has elapsed.
 
 (2) The information referred to in subsection (.1) includes information that consists of deductions or conclusions made or drawn from such information.
 
-Material'
+<!-- marginal: Material' -->
 
-89B. For'the purposes of this Division, an effect on information that on becoming generally available price or would or would tend to have a material effect value of securities. on- the price or value of securities, refers to such information which would or would tend to, on becoming generally available, influence reasonable, persons who invest in securities in i deciding whether or not to acquire or dispose of such securities, or enter into an agreement with a view .to acquire or dispose of such securities.
+89B. For'the purposes of this Division, an
 
-Trading in 89c.. For the'purposes of this Division, trading securities. in securities'that is ordinarily permitted on the stock market.of a stock exchange is to be taken , to be permitted on that stock market even though
+<!-- marginal: effect on -->
+
+information that on becoming generally available
+
+<!-- marginal: price or -->
+
+would or would tend to have a material effect
+
+<!-- marginal: value of -->
+
+<!-- marginal: securities. -->
+
+on- the price or value of securities, refers to such information which would or would tend to, on becoming generally available, influence reasonable, persons who invest in securities in i deciding whether or not to acquire or dispose of such securities, or enter into an agreement with a view .to acquire or dispose of such securities.
+
+<!-- marginal: Trading in -->
+
+89c.. For the'purposes of this Division, trading
+
+<!-- marginal: securities. -->
+
+in securities'that is ordinarily permitted on the stock market.of a stock exchange is to be taken , to be permitted on that stock market even though
 
 <!-- page 11 -->
 
 trading in any such securities on that stock market is suspended.
 
-Reference to
+<!-- marginal: Reference to -->
 
-89D. For the purposes of this Division and "procure" section 90A but without limiting the meaning of • the term "procure" as provided in this section, if a person incites, induces, encourages or directs an act or omission by another person, the first- mentioned person is taken to procure the act or omission by the other person.
+89D. For the purposes of this Division and
 
-Prohibited
+<!-- marginal: "procure" -->
 
-89E. (1) A person is an "insider" if that person— conduct of person in
+section 90A but without limiting the meaning of • the term "procure" as provided in this section, if a person incites, induces, encourages or directs an act or omission by another person, the first- mentioned person is taken to procure the act or omission by the other person.
 
-(a) possesses' information that is not possession generally available which on becoming of inside information. generally available a reasonable person would expect it to have a material effect on the price or.the, value of securities; and .
+<!-- marginal: Prohibited -->
+
+89E. (1) A person is an "insider" if that person—
+
+<!-- marginal: conduct of -->
+
+<!-- marginal: person in -->
+
+(a) possesses' information that is not
+
+<!-- marginal: possession -->
+
+generally available which on becoming
+
+<!-- marginal: of inside -->
+
+<!-- marginal: information. -->
+
+generally available a reasonable person would expect it to have a material effect on the price or.the, value of securities; and .
 
 '(b) 'knows or ought reasonably to know'that the information is not generally available.
 
@@ -326,17 +534,35 @@ communicated, to another person, if the insider knows, or ought reasonably to kn
 
 (5) The Minister may prescribe, and make regulations in respect of, persons, or transactions relating to securities, or any particular class, 'category or description of persons, or any particular class, category or description of transactions relating to securities, to whom or which this section does not apply.
 
-Proof of
+<!-- marginal: Proof of -->
 
-89F. In a prosecution of an offence under contravention subsection (2) or (3) of section 89n, it.is not of section
+89F. In a prosecution of an offence under
+
+<!-- marginal: contravention -->
+
+subsection (2) or (3) of section 89n, it.is not
+
+<!-- marginal: of section -->
 
 89E. necessary for the prosecution to prove the non- existence of facts or circumstances which if they existed would, by virtue of section 89G, 89H, 89I, 89J, 89K, 89L, 89M, 89N-or 89O, or any regulations,made under subsection (5) of section 89E, preclude the act from constituting a contravention of subsection (2) or (3) of section 89E; as the case may be.
 
 <!-- page 13 -->
 
-Secrecy
+<!-- marginal: Secrecy -->
 
-89G. (1) For the purposes of this Division, a arrange- corporation is deemed to possess a ny menls by information— corporal ion.
+89G. (1) For the purposes of this Division, a
+
+<!-- marginal: arrange- -->
+
+<!-- marginal: corporation -->
+
+is deemed to possess a ny
+
+<!-- marginal: menls by -->
+
+<!-- marginal: information— -->
+
+<!-- marginal: corporal ion. -->
 
 (a) which an officer of the corporation—
 
@@ -360,13 +586,7 @@ Secrecy
 
 (a) the decision to enter into the transaction or agreement was taken on behalf of the corporation by a person or persons other than an officer of the corporation in possession of the information;
 
-(b) the corporation had in operation at that time arrangements that could reasonably be expected to ensure that—
-
-(i) the information was not communicated to a person or one of the persons who was involved in, or made the decision to enter into, or be involved in, the transaction or agreement;
-
-(ii) no advice with respect to the decision to enter into, or be involved in, the transaction or agreement was given to that person by the person in possession of the information; or
-
-(iii) the person in possession of the information would not be involved in the decision to enter into or be involved in, the transaction or agreement, or involved in the transaction or agreement; and
+(b) the corporation had in operation at that time arrangements that could reasonably be expected to ensure that— (i) the information was not communicated to a person or one of the persons who was involved in, or made the decision to enter into, or be involved in, the transaction or agreement; (ii) no advice with respect to the decision to enter into, or be involved in, the transaction or agreement was given to that person by the person in possession of the information; or (iii) the person in possession of the information would not be involved in the decision to enter into or be involved in, the transaction or agreement, or involved in the transaction or agreement; and
 
 (c) the information was not so communicated, no such advice was given and the person
 
@@ -374,9 +594,19 @@ Secrecy
 
 in possession of the information was not involved in the decision to enter into, or be involved in, the transaction or agreement or was not involved in the transaction or agreement.
 
-Secrecy
+<!-- marginal: Secrecy -->
 
-89H. (1) For the purposes of this Division, a agreements partner of a partnership is deemed to possess by any information— partnerships
+89H. (1) For the purposes of this Division, a
+
+<!-- marginal: agreements -->
+
+partner of a partnership is deemed to possess
+
+<!-- marginal: by -->
+
+any information—
+
+<!-- marginal: partnerships -->
 
 (a) which another partner possesses and which came into the other partner's possession in his capacity as a partner of the partnership;
 
@@ -402,9 +632,7 @@ the partnership by any one or more of the following persons:
 
 (i) the information was not communicated to a partner or an employee or one of the partners or employees who was or were involved in, or made the decision with respect to the entering into the transaction or agreement in question;
 
-(ii) no advice with respect to the decision to enter into the transaction or agreement was given to that partner or employee by a partner or an employee in possession of the information;
-
-(iii) the partner or employee in possession of the information would not be involved in the decision to enter into, or be involved in, the transaction or agreement; and
+(ii) no advice with respect to the decision to enter into the transaction or agreement was given to that partner or employee by a partner or an employee in possession of the information; (iii) the partner or employee in possession of the information would not be involved in the decision to enter into, or be involved in, the transaction or agreement; and
 
 (c) the information was not communicated, no advice was given and the partner or employee in possession of the information was not involved in the decision to enter into, or be involved in, the transaction or agreement.
 
@@ -412,9 +640,15 @@ the partnership by any one or more of the following persons:
 
 (2) A partner of a partnership does not contravene subsection (2) of section 89E by entering into the transaction or agreement referred to in that subsection otherwise than on behalf of the partnership merely because the partner is taken to possess information that is in the possession of another partner or employee of the partnership.
 
-Underwriting
+<!-- marginal: Underwriting -->
 
-89I. (1) Subsection (2) of section 89E shall not and sub- apply in respect of— underwriting.
+89I. (1) Subsection (2) of section 89E shall not
+
+<!-- marginal: and sub- -->
+
+apply in respect of—
+
+<!-- marginal: underwriting. -->
 
 (a) the entering into of an underwriting agreement or a sub-underwriting agreement; or
 
@@ -426,21 +660,61 @@ Underwriting
 
 (b) to acquire any such securities under an obligation to do so in an agreement referred to in paragraph (a).
 
-### Non-
+<!-- marginal: Non- -->
 
 89J. Section 89E shall not apply to an acquisition
 
-### application
+<!-- marginal: application -->
 
-or disposal of securities or the communication of section 89B to of information that is carried out under any transactions other written law relating to schemes of carried out under arrangement, reconstructions and take-overs schemes of relating to corporations. arrangement. etc: under
+or disposal of securities or the communication
 
-### any writlen
+<!-- marginal: of section -->
 
-### law.
+<!-- marginal: 89B to -->
 
-### Exception for
+of information that is carried out under any
 
-89K. (1) A corporation does not contravene corporation subsection (2) of section 89E by entering into wilh knowledge a transaction or an agreement in relation to of its securities other than those of the corporation intention.
+<!-- marginal: transactions -->
+
+other written law relating to schemes of
+
+<!-- marginal: carried out -->
+
+<!-- marginal: under -->
+
+arrangement, reconstructions and take-overs
+
+<!-- marginal: schemes of -->
+
+relating to corporations.
+
+<!-- marginal: arrangement. -->
+
+<!-- marginal: etc: under -->
+
+<!-- marginal: any writlen -->
+
+<!-- marginal: law. -->
+
+<!-- marginal: Exception for -->
+
+89K. (1) A corporation does not contravene
+
+<!-- marginal: corporation -->
+
+subsection (2) of section 89E by entering into
+
+<!-- marginal: wilh -->
+
+<!-- marginal: knowledge -->
+
+a transaction or an agreement in relation to
+
+<!-- marginal: of its -->
+
+securities other than those of the corporation
+
+<!-- marginal: intention. -->
 
 <!-- page 18 -->
 
@@ -454,17 +728,47 @@ merely because the corporation is aware that it proposes to enter into or has pr
 
 (5) Subsection (4) shall not apply unless the person became aware of the matters referred to in the course of his duties as an officer of the first-mentioned corporation or in the course of acting as an agent of the first-mentioned corporation.
 
-Exception
+<!-- marginal: Exception -->
 
-89L. An individual does not contravene of subsection (2) of section 89e by entering into knowledge of a transaction or an agreement in relation to individual's own securities merely because he is aware that he intentions proposes to enter into, or has previously entered or activities
+89L. An individual does not contravene
+
+<!-- marginal: of -->
+
+subsection (2) of section 89e by entering into
+
+<!-- marginal: knowledge -->
+
+<!-- marginal: of -->
+
+a transaction or an agreement in relation to
+
+<!-- marginal: individual's -->
+
+<!-- marginal: own -->
+
+securities merely because he is aware that he
+
+<!-- marginal: intentions -->
+
+proposes to enter into, or has previously entered
+
+<!-- marginal: or activities -->
 
 <!-- page 19 -->
 
 into, one or more transactions or agreements in relation to those securities.
 
-Unsolicited
+<!-- marginal: Unsolicited -->
 
-89M. (1) A dealer or a dealer's representative transaction does not contravene subsection (2) of section by a broker. 89E by entering into a transaction or an agreement as an agent for another person, being a transaction or an agreement entered into on the stock market of a stock exchange in securities which are quoted for trading on the stock market of that stock exchange if—
+89M. (1) A dealer or a dealer's representative
+
+<!-- marginal: transaction -->
+
+does not contravene subsection (2) of section
+
+<!-- marginal: by a broker. -->
+
+89E by entering into a transaction or an agreement as an agent for another person, being a transaction or an agreement entered into on the stock market of a stock exchange in securities which are quoted for trading on the stock market of that stock exchange if—
 
 (a) the transaction or agreement is entered into under a specific instruction by the other person which was not solicited by the dealer or the dealer's representatives;
 
@@ -474,19 +778,51 @@ Unsolicited
 
 (2) Nothing in this section shall affect the application of subsection (1) in relation to the principal.
 
-Exception
+<!-- marginal: Exception -->
 
-89N. Subsection (2) of section 89E shall not for apply in respect of the redemption by a trustee redemp- tion of under a trust deed relating to a unit trust scheme units of a in accordance with a buy-back covenant unit trus t scheme contained or deemed to be contained in the under trust deed at a price that is required by the trust buy-back covenant. deed to be calculated, so far as is reasonably practicable, by reference to the underlying value of the assets, less any liabilities of the unit
+89N. Subsection (2) of section 89E shall not
+
+<!-- marginal: for -->
+
+apply in respect of the redemption by a trustee
+
+<!-- marginal: redemp- -->
+
+<!-- marginal: tion of -->
+
+under a trust deed relating to a unit trust scheme
+
+<!-- marginal: units of a -->
+
+in accordance with a buy-back covenant
+
+<!-- marginal: unit trus t -->
+
+<!-- marginal: scheme -->
+
+contained or deemed to be contained in the
+
+<!-- marginal: under -->
+
+trust deed at a price that is required by the trust
+
+<!-- marginal: buy-back -->
+
+<!-- marginal: covenant. -->
+
+deed to be calculated, so far as is reasonably practicable, by reference to the underlying value of the assets, less any liabilities of the unit
 
 <!-- page 20 -->
 
 trust scheme to which the units of the unit trust scheme relates, and less any reasonable charge for purchasing the units of the unit trust scheme or interest.
 
-### Parity of
+<!-- marginal: Parity of -->
 
 89O. ( 1) A person does not contravene subsection
 
-(2) of section 89E if— defence.
+(2) of section 89E if—
+
+<!-- marginal: defence. -->
 
 (a) the securities that are the subject of the transaction or agreement or the action of procuring a transaction or an agreement are not securities which are permitted on the stock market of a stock exchange;
 
@@ -508,19 +844,35 @@ the information is likely to have when it becomes generally available.
 
 (b) if the Court is satisfied that the other party knew of, or ought reasonably to have known, the information before the information was communicated.".
 
-26. The principal Act is amended by inserting after section New Division 3 . 89o the following subheading:
+26. The principal Act is amended by inserting after section
+
+<!-- marginal: New -->
+
+<!-- marginal: Division 3 . -->
+
+89o the following subheading:
 
 ## "DIVISION 3
 
 Liability For Unlawful Activity".
 
-### Substitution
+<!-- marginal: Substitution -->
 
-27. The principal Act is amended by substituting for ot section section 90 the following section: 90.
+27. The principal Act is amended by substituting for
 
-"Civil
+<!-- marginal: ot section -->
 
-90. (1) Where it appears to the Commission remedies. that any person has contravened section 84, 85, 86, 87, 87A, 88 or 89e, the Commission may institute civil proceedings in the Court against that person, whether or not that person has been charged with an offence in respect of the contravention, or whether or not a contravention has been proved in a prosecution.
+section 90 the following section:
+
+<!-- marginal: 90. -->
+
+<!-- marginal: "Civil -->
+
+90. (1) Where it appears to the Commission
+
+<!-- marginal: remedies. -->
+
+that any person has contravened section 84, 85, 86, 87, 87A, 88 or 89e, the Commission may institute civil proceedings in the Court against that person, whether or not that person has been charged with an offence in respect of the contravention, or whether or not a contravention has been proved in a prosecution.
 
 <!-- page 22 -->
 
@@ -532,17 +884,29 @@ Liability For Unlawful Activity".
 
 whichever is the later.".
 
-New
+<!-- marginal: New -->
 
-28. The principal Act is amended by inserting after section section 90A. 90 the following section: " Recovery
+28. The principal Act is amended by inserting after section
 
-90A. (1) A person who suffers loss or damages of loss or by reason of, or by relying on, the conduct of damages. another person who has contravened section 89e may recover the amount of loss or damages by instituting civil proceedings against the other person, whether or not the other person has been charged with an offence in respect of the contravention or, whether or not a contravention has been proved in a prosecution.
+<!-- marginal: section 90A. -->
+
+90 the following section: "
+
+<!-- marginal: Recovery -->
+
+90A. (1) A person who suffers loss or damages
+
+<!-- marginal: of loss or -->
+
+by reason of, or by relying on, the conduct of
+
+<!-- marginal: damages. -->
+
+another person who has contravened section 89e may recover the amount of loss or damages by instituting civil proceedings against the other person, whether or not the other person has been charged with an offence in respect of the contravention or, whether or not a contravention has been proved in a prosecution.
 
 (2) In subsection (1), "loss or damages" includes an unrealised loss or gain, as the case may be, in the price or value of securities of a corporation being the difference between—
 
-(a) the price or value of securities in a transaction in connection with which the person first mentioned in subsection
-
-(1) claims to have suffered loss or damages; and
+(a) the price or value of securities in a transaction in connection with which the person first mentioned in subsection (1) claims to have suffered loss or damages; and
 
 (b) the price which would have been the likely price of the securities in the transaction, or the value which it is likely that such securities would have had at the time of that transaction, if the contravention had not occurred.
 
@@ -598,31 +962,39 @@ if it considers that it is in the public interest to do so, by civil action agai
 
 (10) Any right of action that a person has by virtue of this section is in addition to any right that any other person has under any other written law.".
 
-Deletion of
+<!-- marginal: Deletion of -->
 
-29. The principal Act is amended by deleting section section 91.
+29. The principal Act is amended by deleting section
+
+<!-- marginal: section 91. -->
 
 91.
 
 <!-- page 27 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-30. Section 94A of the principal Act is amended— of section 94 A.
+30. Section 94A of the principal Act is amended—
+
+<!-- marginal: of section -->
+
+<!-- marginal: 94 A. -->
 
 (a) by deleting the words "or the Registrar" wherever they appear; and
 
 (b) in paragraph (1)(b), by inserting after the word "dealer,", the words "fund manager or investment adviser,".
 
-Amendment
+<!-- marginal: Amendment -->
 
-31. Section 95 of the principal Act is amended— of section 95.
+31. Section 95 of the principal Act is amended—
+
+<!-- marginal: of section -->
+
+<!-- marginal: 95. -->
 
 (a) in the marginal note, by substituting for the word "Registrar" the word "Commission";
 
-(b) in the national language text, in subsections
-
-(1), (5), (6) and (8), by substituting for the word "Pendaftar" wherever it appears the word "Suruhanjaya"; and
+(b) in the national language text, in subsections (1), (5), (6) and (8), by substituting for the word "Pendaftar" wherever it appears the word "Suruhanjaya"; and
 
 (c) in the English language text—
 
@@ -630,21 +1002,37 @@ Amendment
 
 (ii) in subsections (5), (6) and (8), by substituting for the word "Registrar" wherever it appears the word "Commission".
 
-Amendment
+<!-- marginal: Amendment -->
 
-32. Subsection 95A( 1) of the principal Act is amended— of section 95A.
+32. Subsection 95A( 1) of the principal Act is amended—
+
+<!-- marginal: of section -->
+
+<!-- marginal: 95A. -->
 
 (a) by deleting the words "or the Registrar" wherever they appear; and
 
 (b) by deleting the words ", as the case may be,".
 
-Amendment
+<!-- marginal: Amendment -->
 
-33. Subsection 96(3) of the principal Act is amended by of section deleting the words "under section 94A, or the Registrar 96 or another person in the exercise of any power".
+33. Subsection 96(3) of the principal Act is amended by
 
-Amendment
+<!-- marginal: of section -->
 
-34. Section 97 of the principal Act is amended— of section 97.
+deleting the words "under section 94A, or the Registrar
+
+<!-- marginal: 96 -->
+
+or another person in the exercise of any power".
+
+<!-- marginal: Amendment -->
+
+34. Section 97 of the principal Act is amended—
+
+<!-- marginal: of section -->
+
+<!-- marginal: 97. -->
 
 (a) in the national language text, in subsections (1) and (3), by substituting for the word "Pendaftar"
 
@@ -658,9 +1046,11 @@ wherever it appears the word "Suruhanjaya"; and
 
 (ii) in subsection (3), by substituting for the words "Registrar" and "him" the words "Commission" and "the Commission", respectively.
 
-Amendment
+<!-- marginal: Amendment -->
 
-35. Section 98 of the principal Act is amended— of section
+35. Section 98 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 98.
 
@@ -690,25 +1080,61 @@ menzahirkan nama orang yang lagi satu itu dan jenis apa-apa arahan yang diberika
 
 <!-- page 30 -->
 
-Substitution
+<!-- marginal: Substitution -->
 
-36. The principal Act is amended by substituting for of section 99. section 99 the following section:
+36. The principal Act is amended by substituting for
 
-".Investiga-
+<!-- marginal: of section 99. -->
 
-99. Where the Commission has reason to suspect tion of that a person has committed an offence under certain matters. this Act or has been guilty of fraud or of an offence under any other written law relating to dealing in securities, fund management or investment advice, the Commission may make such investigation as the Commission thinks expedient for the due administration of this Act.".
+section 99 the following section:
 
-### New sections
+<!-- marginal: ".Investiga- -->
 
-37. The principal Act is amended by inserting after section 99A, 99B. 99 the following sections: 99c and 99o .
+99. Where the Commission has reason to suspect
 
-Disclosure
+<!-- marginal: tion of -->
+
+that a person has committed an offence under
+
+<!-- marginal: certain -->
+
+<!-- marginal: matters. -->
+
+this Act or has been guilty of fraud or of an offence under any other written law relating to dealing in securities, fund management or investment advice, the Commission may make such investigation as the Commission thinks expedient for the due administration of this Act.".
+
+<!-- marginal: New sections -->
+
+37. The principal Act is amended by inserting after section
+
+<!-- marginal: 99A, 99B. -->
+
+99 the following sections:
+
+<!-- marginal: 99c and 99o . -->
+
+<!-- marginal: Disclosure -->
 
 99A. ( 1) The Commission may require a person
 
-### of
+<!-- marginal: of -->
 
-to disclose to the Commission, in relation to informa- any dealing in securities, whether or not the tion relating to dealing was carried out on another person's dealing in behalf— securities
+to disclose to the Commission, in relation to
+
+<!-- marginal: informa- -->
+
+any dealing in securities, whether or not the
+
+<!-- marginal: tion -->
+
+<!-- marginal: relating to -->
+
+dealing was carried out on another person's
+
+<!-- marginal: dealing in -->
+
+behalf—
+
+<!-- marginal: securities -->
 
 (a) the name of, and particulars sufficient to identify the person from whom, through whom or on whose behalf the securities were dealt with;
 
@@ -726,11 +1152,41 @@ to disclose to the Commission, in relation to informa- any dealing in securities
 
 (2) A person who refuses or fails to comply with a requirement of the Commission under subsection (1) commits an offence and is liable on conviction to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding ten years or to both.
 
-Duty of
+<!-- marginal: Duty of -->
 
-99B. (1) Unless exempted by the Commission chief in writing, a person who— executive and directors of
+99B. (1) Unless exempted by the Commission
 
-(a) on the date of coming into force of listed this provision, is the chief executive corporation to or director of a listed corporation, and disclose is then interested in the securities of, interests in securities. the listed corporation or any associated corporation of the listed corporation; or
+<!-- marginal: chief -->
+
+in writing, a person who—
+
+<!-- marginal: executive -->
+
+<!-- marginal: and -->
+
+<!-- marginal: directors of -->
+
+(a) on the date of coming into force of
+
+<!-- marginal: listed -->
+
+this provision, is the chief executive
+
+<!-- marginal: corporation -->
+
+<!-- marginal: to -->
+
+or director of a listed corporation, and
+
+<!-- marginal: disclose -->
+
+is then interested in the securities of,
+
+<!-- marginal: interests in -->
+
+<!-- marginal: securities. -->
+
+the listed corporation or any associated corporation of the listed corporation; or
 
 (b) after the date of coming into force of this provision, becomes a chief executive or director of a listed corporation and at the time when he does so is interested in securities of the listed corporation or any associated corporation of the listed corporation,
 
@@ -770,9 +1226,29 @@ commits an offence and is liable on conviction to a fine not exceeding one milli
 
 (5) For the purpose of this section, "chief executive" and "director" include a spouse, child or parent of the chief executive or director.
 
-Disqualifi- 99c. (1) A person— cation of chief
+<!-- marginal: Disqualifi- -->
 
-(a) to whom subsection (1) of section 130 executive or director of of the Companies Act 1965 applies; listed and companies. Act 125.
+99c. (1) A person—
+
+<!-- marginal: cation of -->
+
+<!-- marginal: chief -->
+
+(a) to whom subsection (1) of section 130
+
+<!-- marginal: executive or -->
+
+<!-- marginal: director of -->
+
+of the Companies Act 1965 applies;
+
+<!-- marginal: listed -->
+
+and
+
+<!-- marginal: companies. -->
+
+<!-- marginal: Act 125. -->
 
 (b) who intends to apply for leave of the High Court to be a director or promoter of a listed company, or to be directly or indirectly concerned, or to take part, or engage, in the management of a listed company,
 
@@ -786,7 +1262,11 @@ shall give to the Commission not less than fourteen days' notice of his intentio
 
 <!-- page 34 -->
 
-(3) Notwithstanding subsection (1) of section Act 125. 130 of the Companies Act 1965, where it appears to the Commission that by reason of any chief executive or director of a listed company—
+(3) Notwithstanding subsection (1) of section
+
+<!-- marginal: Act 125. -->
+
+130 of the Companies Act 1965, where it appears to the Commission that by reason of any chief executive or director of a listed company—
 
 (a) having been convicted of an offence under a securities law; or
 
@@ -822,9 +1302,15 @@ the High Court may make an order that the chief executive or director concerned 
 
 <!-- page 36 -->
 
-Submission
+<!-- marginal: Submission -->
 
-99D. (1) A listed corporation shall cause to be of submitted to the Commission— information
+99D. (1) A listed corporation shall cause to be
+
+<!-- marginal: of -->
+
+submitted to the Commission—
+
+<!-- marginal: information -->
 
 (a) a copy of its audited annual accounts within two weeks from the date of its annual general meeting; and
 
@@ -840,9 +1326,11 @@ Submission
 
 within two weeks of the occurrence of such a change or event.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-38. Section 100 of the principal Act is amended— of section
+38. Section 100 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 100.
 
@@ -926,31 +1414,79 @@ manager or of property that is held by a dealer or a fund manager for or on beha
 
 (iii) by inserting after paragraph (b) the following paragraph:
 
-"(c) a requirement of the Commission or trustee appointed by order of the High Court under paragraph (gg) of subsection (1).".
+"(c) a requirement
 
-Amendment
+<!-- marginal: of -->
 
-39. Section 120 of the principal Act is amended in of section subsection (1) by deleting the words "stock broker, a", 120. ' "stock broker",' and "stock broker,",
+<!-- marginal: the -->
 
-Amendment
+Commission or
 
-40. Section 122 of the principal Act is amended by of section substituting for subsection (2) the following subsection: 122.
+<!-- marginal: trustee -->
+
+appointed by order of the High Court under paragraph (gg) of subsection (1).".
+
+<!-- marginal: Amendment -->
+
+39. Section 120 of the principal Act is amended in
+
+<!-- marginal: of section -->
+
+subsection (1) by deleting the words "stock broker, a",
+
+<!-- marginal: 120. -->
+
+' "stock broker",' and "stock broker,",
+
+<!-- marginal: Amendment -->
+
+40. Section 122 of the principal Act is amended by
+
+<!-- marginal: of section -->
+
+substituting for subsection (2) the following subsection:
+
+<!-- marginal: 122. -->
 
 " (2) Where a person who is an employee of another person contravenes any provision of this Act, the person for or on behalf of whom the employee is acting for or on behalf of shall be deemed to have contravened such provision.".
 
 <!-- page 42 -->
 
-Substitution
+<!-- marginal: Substitution -->
 
-41. The principal Act is amended by substituting for of section section 122B the following section: I22B.
+41. The principal Act is amended by substituting for
 
-"False
+<!-- marginal: of section -->
 
-122B. A person who— reports to Commission,
+section 122B the following section:
 
-(a) with intent to deceive, makes or stock exchange or furnishes; or recognised clearing
+<!-- marginal: I22B. -->
 
-(b) knowingly authorises or permits the house. making or furnishing of,
+<!-- marginal: "False -->
+
+122B. A person who—
+
+<!-- marginal: reports to -->
+
+Commission,
+
+(a) with intent to deceive, makes or
+
+<!-- marginal: stock -->
+
+<!-- marginal: exchange or -->
+
+furnishes; or
+
+<!-- marginal: recognised -->
+
+<!-- marginal: clearing -->
+
+(b) knowingly authorises or permits the
+
+<!-- marginal: house. -->
+
+making or furnishing of,
 
 any false or misleading statement or report to the Commission, a stock exchange or a recognised clearing house relating to—
 
@@ -964,9 +1500,11 @@ any false or misleading statement or report to the Commission, a stock exchange 
 
 commits an offence and is liable on conviction to a fine not exceeding three million ringgit or to imprisonment for a term not exceeding ten years or to both.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-42. Section 126 of the principal Act is amended— of section
+42. Section 126 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 126.
 
@@ -980,9 +1518,13 @@ Amendment
 
 "(3) For the purpose of subsection (2), "officer" has the same meaning as is assigned Act 498. to that expression in section 2 of the Securities Commission Act 1993.".
 
-New section
+<!-- marginal: New section -->
 
-43. The principal Act is amended by inserting after section 126c. 126s the following section:
+43. The principal Act is amended by inserting after section
+
+<!-- marginal: 126c. -->
+
+126s the following section:
 
 Commission 126c. (1) Notwithstanding the provisions of any may be written law— represented by any officer in
 
@@ -994,9 +1536,17 @@ any officer authorised by the Commission for the purpose, may, on behalf of the 
 
 (2) For the purpose of subsection (1), "officer" has the same meaning as is assigned to that Act 498. expression in section 2 of the Securities Commission Act 1993.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-44. Subsection 127(2) of the principal Act is amended of section in paragraph (n), by inserting after the word "purchaser" 127. the words "or in relation to a sale of securities under paragraph (e) of subsection (4) of section 41".
+44. Subsection 127(2) of the principal Act is amended
+
+<!-- marginal: of section -->
+
+in paragraph (n), by inserting after the word "purchaser"
+
+<!-- marginal: 127. -->
+
+the words "or in relation to a sale of securities under paragraph (e) of subsection (4) of section 41".
 
 <!-- page 44 -->
 
@@ -1012,9 +1562,7 @@ This Bill seeks to amend the Securities Industry Act 1983 (the "Act").
 
 (e) of the definition is amended consequential to the amendment of the definition of "fund manager".
 
-Clause 3 also seeks to amend the definition of "fund manager" to rationalise the regulatory framework relating to fund management activities and consequential to the amendment of the definition of "futures fund management business" in the Futures Industry Act 1993 and "unit trust scheme" in the Securities Commission Act
-
-1993.
+Clause 3 also seeks to amend the definition of "fund manager" to rationalise the regulatory framework relating to fund management activities and consequential to the amendment of the definition of "futures fund management business" in the Futures Industry Act 1993 and "unit trust scheme" in the Securities Commission Act 1993.
 
 The deletion of the definition of "Registrar" is proposed consequent to the rationalisation of the regulatory structure of the securities industry. Apart from this deletion, this Bill also seeks to remove all references to the Registrar in sections 2, 10, 33, 34, 35, 49, 50, 94A, 95, 96, 97, 98, 99, 100 and 126 of the Act.
 

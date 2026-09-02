@@ -16,13 +16,21 @@ ________________
 
 ## PERMULAAN
 
-1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran
+1. Tajuk ringkas dan permulaan kuat kuasa
+
+2. Tafsiran
 
 ## BAHAGIAN II
 
 ## BANK DATA DNA FORENSIK MALAYSIA
 
-3. Penubuhan Bank Data DNA 4. Objektif Bank Data DNA 5. Fungsi Bank Data DNA 6. Kuasa Menteri untuk menetapkan agensi atau badan untuk menjalankan analisa forensik DNA
+3. Penubuhan Bank Data DNA
+
+4. Objektif Bank Data DNA
+
+5. Fungsi Bank Data DNA
+
+6. Kuasa Menteri untuk menetapkan agensi atau badan untuk menjalankan analisa forensik DNA
 
 ## BAHAGIAN III
 
@@ -30,7 +38,13 @@ ________________
 
 ## PEGAWAI BANK DATA DNA
 
-7. Pelantikan Ketua Bank Data DNA, Timbalan Ketua dan pegawai lain 8. Fungsi dan kuasa Ketua Bank Data DNA 9. Pembetulan butir-butir dalam profil dan maklumat DNA 10. Kuasa Menteri untuk memberikan arahan
+7. Pelantikan Ketua Bank Data DNA, Timbalan Ketua dan pegawai lain
+
+8. Fungsi dan kuasa Ketua Bank Data DNA
+
+9. Pembetulan butir-butir dalam profil dan maklumat DNA
+
+10. Kuasa Menteri untuk memberikan arahan
 
 <!-- page 2 -->
 
@@ -42,19 +56,39 @@ ________________
 
 ## DAN PENGHAPUSAN PROFIL DAN MAKLUMAT DNA
 
-12. Pengambilan sampel intim 13. Pengambilan sampel bukan intim 14. Keengganan memberi sampel 15. Sampel diberikan secara sukarela 16. Sampel DNA banduan 17. Penyimpanan dan pelupusan sampel intim dan bukan intim 18. Penghapusan profil dan maklumat DNA daripada indeks orang yang disyaki
+12. Pengambilan sampel intim
+
+13. Pengambilan sampel bukan intim
+
+14. Keengganan memberi sampel
+
+15. Sampel diberikan secara sukarela
+
+16. Sampel DNA banduan
+
+17. Penyimpanan dan pelupusan sampel intim dan bukan intim
+
+18. Penghapusan profil dan maklumat DNA daripada indeks orang yang disyaki
 
 ## BAHAGIAN V
 
 ## KESALAHAN
 
-19. Kesalahan mengganggu, bersubahat atau cuba mengganggu sampel 20. Penggunaan atau pemakluman tanpa kebenaran profil atau maklumat DNA 21. Obligasi kerahsiaan 22. Kesalahan mengganggu, bersubahat atau cuba mengganggu profil atau maklumat DNA
+19. Kesalahan mengganggu, bersubahat atau cuba mengganggu sampel
+
+20. Penggunaan atau pemakluman tanpa kebenaran profil atau maklumat DNA
+
+21. Obligasi kerahsiaan
+
+22. Kesalahan mengganggu, bersubahat atau cuba mengganggu profil atau maklumat DNA
 
 ## BAHAGIAN VI
 
 AM
 
-23. Kerjasama dengan agensi penguatkuasaan undang-undang asing 24. Maklumat daripada Bank Data DNA menjadi muktamad
+23. Kerjasama dengan agensi penguatkuasaan undang-undang asing
+
+24. Maklumat daripada Bank Data DNA menjadi muktamad
 
 <!-- page 3 -->
 
@@ -154,7 +188,9 @@ perkembangan fikiran atau badan yang terbantut atau tidak sempurna sama ada kead
 
 ### Penubuhan Bank Data DNA
 
-3. (1) Suatu bank data DNA yang bernama “Bank Data DNA Forensik Malaysia” ditubuhkan.
+3.
+
+(1) Suatu bank data DNA yang bernama “Bank Data DNA Forensik Malaysia” ditubuhkan.
 
 (2) Bank Data DNA hendaklah berada di bawah pengurusan, kawalan dan seliaan Ketua Bank Data DNA.
 
@@ -170,11 +206,7 @@ perkembangan fikiran atau badan yang terbantut atau tidak sempurna sama ada kead
 
 (iii) pada apa-apa benda yang dipakai atau dibawa oleh mangsa sesuatu kesalahan semasa sesuatu kesalahan itu dilakukan; atau
 
-(iv) pada atau di dalam
-
-<!-- marginal: tubuh mana-mana orang yang -->
-
-semunasabahnya disyaki telah melakukan suatu kesalahan;
+(iv) pada atau di dalam tubuh mana-mana orang yang semunasabahnya disyaki telah melakukan suatu kesalahan;
 
 (b) indeks orang yang disyaki yang hendaklah mengandungi profil DNA dan apa-apa maklumat berhubung dengannya yang diperoleh daripada suatu sampel intim atau sampel tidak intim yang diambil daripada orang yang semunasabahnya disyaki telah melakukan suatu kesalahan dan termasuklah orang yang disyaki yang belum dituduh di mana-mana mahkamah bagi apa-apa kesalahan;
 
@@ -566,9 +598,7 @@ Rang Undang-Undang ini bertujuan untuk mengadakan peruntukan bagi penubuhan Bank
 
 penggunaan profil DNA dan apa-apa maklumat berhubung dengannya dan bagi perkara-perkara yang berkaitan dengannya.
 
-2.
-
-## Bahagian I Akta yang dicadangkan mengandungi perkara permulaan.
+2. Bahagian I Akta yang dicadangkan mengandungi perkara permulaan.
 
 3. Fasal 1 mengandungi tajuk ringkas Akta yang dicadangkan dan memberi Menteri kuasa untuk menetapkan tarikh bagi permulaan kuat kuasa Akta yang dicadangkan.
 
@@ -592,9 +622,7 @@ dengan penubuhan Bank Data DNA Forensik Malaysia, objektif dan fungsinya.
 
 ## BAHAGIAN III
 
-9.
-
-## Bahagian III Akta yang dicadangkan memperkatakan perkara pentadbiran.
+9. Bahagian III Akta yang dicadangkan memperkatakan perkara pentadbiran.
 
 10. Fasal 7 mengadakan peruntukan bagi pelantikan Ketua Bank Data DNA, Timbalan Ketua Bank Data DNA dan pegawai Bank Data DNA.
 

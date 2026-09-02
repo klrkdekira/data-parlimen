@@ -8,15 +8,7 @@
 
 ## SUSUNAN FASAL
 
-1. Tajuk ringkas dan permulaan kuat kuasa
-
-2. Tafsiran
-
-3. Pemansuhan dan pembubaran
-
-4. Perpindahan kuasa, hak, dsb.
-
-5. Menghalang kesukaran atau anomali
+1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran 3. Pemansuhan dan pembubaran 4. Perpindahan kuasa, hak, dsb. 5. Menghalang kesukaran atau anomali
 
 <!-- page 2 -->
 
@@ -30,9 +22,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Tajuk ringkas dan permulaan kuat kuasa
 
-1.
-
-(1) Akta ini bolehlah dinamakan Akta Tribunal Perkhidmatan Awam (Pembubaran) 2000.
+1. (1) Akta ini bolehlah dinamakan Akta Tribunal Perkhidmatan Awam (Pembubaran) 2000.
 
 (2) Akta ini hendaklah disifatkan telah mula berkuat kuasa pada 1 Januari 2000.
 

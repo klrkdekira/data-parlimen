@@ -106,7 +106,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 10. The principal Act is amended by inserting after Part V the following part:
 
-“Part Va
+## “PART VA
 
 ## DIGITAL PLATFORM SERVICE PROVIDER
 
@@ -132,7 +132,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 20c. (1) Every digital platform service provider shall be liable to be registered under this Part and for such purpose shall apply to the Director General to be registered, in the manner as may be prescribed.
 
-(2) The application for registration referred to in subsection (1) shall be made within thirty days from the date the digital platform service provider provides the service relating to online booking accommodation premises in which the accommodation premises is in Malaysia.
+(2) The application for registration referred to in subsection
+
+(1) shall be made within thirty days from the date the digital platform service provider provides the service relating to online booking accommodation premises in which the accommodation premises is in Malaysia.
 
 (3) Every digital platform service provider who provides service relating to online booking accommodation premises in which the accommodation premises is in Malaysia before the coming into operation of this Part, shall not later than three months before the date of the coming into operation of this Part, apply to the Director General to be registered in the manner as may be prescribed.
 
@@ -384,7 +386,7 @@ This Bill seeks to amend the Tourism Tax Act 2017 (“Act 791”).
 
 10. Clause 9 seeks to amend section 20 of Act 791 to empower the Director General to assess the amount of tourism tax due from and payable by and the penalty payable by a digital platform service provider and to notify the digital platform service provider of the assessment in writing.
 
-11. Clause 10 seeks to introduce a new Part Va into Act 791 containing new sections 20a, 20b, 20c, 20d, 20e, 20f, 20g, 20h, 20i, 20j and 20k.
+11. Clause 10 seeks to introduce a new Part Va into Act 791 containing NEW SECTIONS 20A, 20B, 20C, 20D, 20E, 20F, 20G, 20H, 20I, 20J AND 20K.
 
 The proposed section 20a seeks to provide that tourism tax shall be charged and levied on a tourist staying at any accommodation premises made available through service relating to online booking accommodation premises provided by a digital platform service provider.
 

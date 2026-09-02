@@ -54,7 +54,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 6. Akta ibu dipinda dengan memasukkan selepas Bahagian IVa bahagian yang berikut:
 
-“bahagian IVaa
+## “BAHAGIAN IVAA
 
 ## PERANTI PENGAWASAN ELEKTRONIK
 

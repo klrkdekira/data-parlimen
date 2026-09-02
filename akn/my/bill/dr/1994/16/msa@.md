@@ -34,17 +34,29 @@ ibu" dalam Akta ini, adalah dipinda dalam seksyen 2—
 
 "(b) in the case of the High Court in Sabah and Sarawak, the territory comprised in the States of Sabah and Sarawak;".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Seksyen 4 Akta ibu adalah dipinda dengan seksyen 4. menggantikan perkataan "Justice" dengan perkataan "Judge".
+3. Seksyen 4 Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 4. -->
 
-4. Seksyen 59 A k ta ibu adalah dipinda dengan seksyen 59. menggantikan perkataan "Justice" dalam subseksyen (3) dan (4) dengan perkataan "Judge".
+menggantikan perkataan "Justice" dengan perkataan "Judge".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-5. Seksyen 65 A k ta ibu adalah dipinda dengan seksyen 65. menggantikan subseksyen (1) dengan subseksyen yang berikut:
+4. Seksyen 59 A k ta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 59. -->
+
+menggantikan perkataan "Justice" dalam subseksyen (3) dan (4) dengan perkataan "Judge".
+
+<!-- marginal: Pindaan -->
+
+5. Seksyen 65 A k ta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 65. -->
+
+menggantikan subseksyen (1) dengan subseksyen yang berikut:
 
 "(1) Subject to the limitations contained in this Act, a Sessions Court shall have—
 
@@ -56,17 +68,23 @@ Pindaan
 
 ringgit.".
 
-Pmdaan
+<!-- marginal: Pmdaan -->
 
-6. Seksyen 70 Akta ibu adalah dipinda— seksyen 70.
+6. Seksyen 70 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 70. -->
 
 (a) dalam subseksyen (1), dengan menggantikan perkataan "subsections (3) and" dengan perkataan "subsection"; dan
 
 (b) dengan memotong subseksyen (3).
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-7. Seksyen 72 A k ta ibu adalah dipinda dengan seksyen 72. memotong perkataan "where the amount of rent to be distrained does not exceed ninety-six thousand ringgit".
+7. Seksyen 72 A k ta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 72. -->
+
+memotong perkataan "where the amount of rent to be distrained does not exceed ninety-six thousand ringgit".
 
 <!-- page 3 -->
 
@@ -104,11 +122,7 @@ menggantikan perkataan "Justice" dalam perenggan (a) dan (b) dengan perkataan "J
 
 subseksyen (1) dengan menggantikan proviso kepadanya dengan proviso yang berikut:
 
-'Provided that for the purpose of proceedings in Magistrates' Courts, section 13(b) shall be read as if t he words "twenty-five
-
-<!-- marginal: thousand" were -->
-
-substituted for the words "two hundred and fifty thousand".'.
+'Provided that for the purpose of proceedings in Magistrates' Courts, section 13(b) shall be read as if t he words "twenty-five thousand" were substituted for the words "two hundred and fifty thousand".'.
 
 <!-- marginal: Pindaan -->
 

@@ -105,45 +105,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_11",
       "@type": "akn:clause",
       "eli:number": "11",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_11__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_11__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_11__para_c"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Subseksyen 45g(1) Akta ibu dipinda dengan menggantikan takrif “had yang ditetapkan” dengan takrif yang berikut: ‘ “had yang ditetapkan” ertinya—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_11__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_11",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "22 mikrogram alkohol dalam 100 mililiter nafas;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_11__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_11",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "50 miligram alkohol dalam 100 mililiter darah; atau"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_11__para_c",
-      "@type": "akn:paragraph",
-      "eli:number": "c",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_11",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "67 miligram alkohol dalam 100 mililiter air kencing;’. Pindaan seksyen 54"
+        "@value": "Subseksyen 45g(1) Akta ibu dipinda dengan menggantikan takrif “had yang ditetapkan” dengan takrif yang berikut: ‘ “had yang ditetapkan” ertinya— (a) 22 mikrogram alkohol dalam 100 mililiter nafas; (b) 50 miligram alkohol dalam 100 mililiter darah; atau (c) 67 miligram alkohol dalam 100 mililiter air kencing;’. Pindaan seksyen 54"
       }
     },
     {

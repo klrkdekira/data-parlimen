@@ -32,7 +32,11 @@
 
 ## TATACARA KHAS YANG BERHUBUNGAN DENGAN MAKLUMAT SENSITIF
 
-8. Maklumat sensitif yang hendak digunakan sebagai keterangan oleh Pendakwa Raya 9. Notis mengenai niat tertuduh untuk menzahirkan maklumat sensitif 10. Pendengaran mengenai penzahiran maklumat sensitif oleh tertuduh 11. Maklumat sensitif yang berbangkit semasa perbicaraan
+8. Maklumat sensitif yang hendak digunakan sebagai keterangan oleh Pendakwa Raya 9. Notis mengenai niat tertuduh untuk menzahirkan maklumat sensitif
+
+10. Pendengaran mengenai penzahiran maklumat sensitif oleh tertuduh
+
+11. Maklumat sensitif yang berbangkit semasa perbicaraan
 
 <!-- page 2 -->
 
@@ -174,11 +178,7 @@ sama ada atau tidak dikelaskan sebagai “Rahsia Besar”, “Rahsia”, “Suli
 
 <!-- page 8 -->
 
-(8) Apabila laporan di bawah subseksyen (7) diterima, Pendakwa Raya boleh memohon kepada Mahkamah supaya orang itu dipasangkan dengan peranti pengawasan elektronik mengikut peruntukan dalam
-
-## Bahagian III bagi suatu tempoh yang tidak melebihi baki tempoh
-
-tahanan yang dibenarkan di bawah subseksyen (5).
+(8) Apabila laporan di bawah subseksyen (7) diterima, Pendakwa Raya boleh memohon kepada Mahkamah supaya orang itu dipasangkan dengan peranti pengawasan elektronik mengikut peruntukan dalam Bahagian III bagi suatu tempoh yang tidak melebihi baki tempoh tahanan yang dibenarkan di bawah subseksyen (5).
 
 ## MISALAN
 

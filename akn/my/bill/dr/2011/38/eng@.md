@@ -14,13 +14,33 @@
 
 ## THE CORPORATION
 
-3. Establishment of the Corporation 4. Common seal 5. Membership of the Corporation 6. Temporary exercise of functions of the Chairman 7. Schedule 8. Approval to hold other office 9. Tenure of office 10. Remuneration and allowances 11. Subsidies, grants, facilities, etc., for members of Corporation 12. Revocation of appointment and resignation 13. Vacation of office 14. Committees 15. Disclosure of interest 16. Sections not applicable to the Chief Executive Officer
+3. Establishment of the Corporation 4. Common seal 5. Membership of the Corporation 6. Temporary exercise of functions of the Chairman 7. Schedule 8. Approval to hold other office 9. Tenure of office
+
+10. Remuneration and allowances
+
+11. Subsidies, grants, facilities, etc., for members of Corporation
+
+12. Revocation of appointment and resignation
+
+13. Vacation of office
+
+14. Committees
+
+15. Disclosure of interest
+
+16. Sections not applicable to the Chief Executive Officer
 
 ## PART III
 
 ## FUNCTIONS AND POWERS OF THE CORPORATION
 
-17. Functions of the Corporation 18. Powers of the Corporation 19. Additional functions and powers of the Corporation 20. Delegation of functions and powers of the Corporation
+17. Functions of the Corporation
+
+18. Powers of the Corporation
+
+19. Additional functions and powers of the Corporation
+
+20. Delegation of functions and powers of the Corporation
 
 <!-- page 2 -->
 
@@ -84,19 +104,65 @@
 
 <!-- page 3 -->
 
-42. The Eligible Persons’ Assistance Fund 43. Conservation of PR1MA Corporation Malaysia Fund 44. Bank accounts 45. Power to borrow 46. Investment 47. Limitation on contracts 48. Financial procedure 49. Financial year 50. Accounts and reports
+42. The Eligible Persons’ Assistance Fund
+
+43. Conservation of PR1MA Corporation Malaysia Fund
+
+44. Bank accounts
+
+45. Power to borrow
+
+46. Investment
+
+47. Limitation on contracts
+
+48. Financial procedure
+
+49. Financial year
+
+50. Accounts and reports
 
 ## PART VIII
 
 ## RIGHT TO REPURCHASE PR1MA HOMES
 
-51. Right to repurchase PR1MA homes by the Corporation 52. Procedures relating to right to repurchase 53. Transfer or vesting of ownership to the Corporation 54. Determination and payment of repurchase price 55. Taking possession of repurchased PR1MA home
+51. Right to repurchase PR1MA homes by the Corporation
+
+52. Procedures relating to right to repurchase
+
+53. Transfer or vesting of ownership to the Corporation
+
+54. Determination and payment of repurchase price
+
+55. Taking possession of repurchased PR1MA home
 
 ## PART IX
 
 ## APPEAL TRIBUNAL
 
-56. Establishment of Appeal Tribunal 57. Membership of Appeal Tribunal 58. Allowances 59. Resignation and revocation of appointment 60. Vacation of office and temporary appointments 61. Disclosure of interest in relation to members of Appeal Tribunal 62. Secretary to Appeal Tribunal and other officers 63. Appeal to Appeal Tribunal 64. Record of decision or direction of the Corporation 65. Composition of Appeal Tribunal 66. Sittings of Appeal Tribunal 67. Stay of decision or direction pending appeal
+56. Establishment of Appeal Tribunal
+
+57. Membership of Appeal Tribunal
+
+58. Allowances
+
+59. Resignation and revocation of appointment
+
+60. Vacation of office and temporary appointments
+
+61. Disclosure of interest in relation to members of Appeal Tribunal
+
+62. Secretary to Appeal Tribunal and other officers
+
+63. Appeal to Appeal Tribunal
+
+64. Record of decision or direction of the Corporation
+
+65. Composition of Appeal Tribunal
+
+66. Sittings of Appeal Tribunal
+
+67. Stay of decision or direction pending appeal
 
 <!-- page 4 -->
 
@@ -874,7 +940,9 @@ the Corporation may, subject to subsection (8), revoke or suspend the approval i
 
 (c) expire on such date as the Corporation may specify in the direction or if no date is specified, the direction shall remain in force until it is revoked.
 
-(4) The Corporation may vary or revoke a direction issued under this section and the procedures set out under subsections (1), (2) and (3) shall apply mutatis mutandis in respect of any variation or revocation of the direction.
+(4) The Corporation may vary or revoke a direction issued under this section and the procedures set out under subsections
+
+(1), (2) and (3) shall apply mutatis mutandis in respect of any variation or revocation of the direction.
 
 (5) Any person who objects to any direction issued by the Corporation may, within thirty days after the receipt of such direction, submit in writing to the Appeal Tribunal the grounds of his objection and the decision of the Appeal Tribunal thereon shall be final.
 

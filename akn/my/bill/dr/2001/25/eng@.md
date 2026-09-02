@@ -126,7 +126,9 @@ nursing home or community mental health centre, as the case may be, and the supe
 
 (h) nephew or niece.
 
-(2) Nothing in the definition of "mental disorder" in subsection (1) shall be construed as implying that a person may be dealt with under this Act as suffering from mental disorder by reason only of his promiscuity or other immoral conduct, sexual deviancy, consumption of alcohol or drug, or where he expresses or refuses of fails to express a particular political or religious opinion or belief, or of his antisocial personality.
+(2) Nothing in the definition of "mental disorder" in subsection
+
+(1) shall be construed as implying that a person may be dealt with under this Act as suffering from mental disorder by reason only of his promiscuity or other immoral conduct, sexual deviancy, consumption of alcohol or drug, or where he expresses or refuses of fails to express a particular political or religious opinion or belief, or of his antisocial personality.
 
 (3) Subsection (2) does not prevent the serious physiological, biochemical or psychological effects, temporary or permanent, of drug or alcohol consumption from being regarded as an indication that a person is mentally ill.
 
@@ -1082,9 +1084,7 @@ that there is reason to believe that such incapability has ceased, the Court may
 
 (c) by two psychiatrists, one of whom shall be the attending psychiatrist, if there is no guardian or relative of the patient available or traceable and the patient himself is incapable of giving consent.
 
-(2) For purposes of subsection (1), it shall be the duty of the registered medical practitioner concerned to ensure that informed consent is first obtained from the patient himself under paragraph
-
-(l)(a) before invoking paragraph (l)(b) or (\)(c).
+(2) For purposes of subsection (1), it shall be the duty of the registered medical practitioner concerned to ensure that informed consent is first obtained from the patient himself under paragraph (l)(a) before invoking paragraph (l)(b) or (\)(c).
 
 (3) In cases of emergencies, consent for surgery or electroconvulsive therapy may be given—
 
@@ -1306,13 +1306,21 @@ Section 67 In subsection (1) —
 
 <!-- page 52 -->
 
-(2) (l) Provisions of the Act Modifications Director of a psychiatric hospital or person in charge of a psychiatric nursing home or community mental health centre";
+(2)
+
+(l)
+
+<!-- marginal: Provisions of the Act -->
+
+Modifications Director of a psychiatric hospital or person in charge of a psychiatric nursing home or community mental health centre";
 
 (b) substitute for the words "practitioner or dental practitioner" the words "officer or registered medical practitioner"; and
 
 (c) insert after the words "medical technology on a" the words "mentally disordered".
 
-Section 68 1. In the marginal note, substitute for the words "and dental practitioners" the words "officer and registered medical practitioner".
+<!-- marginal: Section 68 -->
+
+1. In the marginal note, substitute for the words "and dental practitioners" the words "officer and registered medical practitioner".
 
 2. In subsection (I) —
 
@@ -1328,35 +1336,37 @@ Section 68 1. In the marginal note, substitute for the words "and dental practit
 
 (b) in paragraph (c) substitute for the words "private healthcare facility" the words "psychiatric hospital or psychiatric nursing home or community mental health centre".
 
-Section 69 In subsections (2) and (3) substitute for the words "practitioner or dental practitioner" the words "officer or
+<!-- marginal: Section 69 -->
 
-<!-- marginal: registered medical -->
-
-practitioner".
+In subsections (2) and (3) substitute for the words "practitioner or dental practitioner" the words "officer or registered medical practitioner".
 
 <!-- page 53 -->
 
-(2) Modifications Provisions of the Act 1. In subsection (1) — Section 70
+(2) Modifications
+
+<!-- marginal: Provisions of the Act -->
+
+1. In subsection (1) —
+
+<!-- marginal: Section 70 -->
 
 (a) insert after the words "Committee or a" the word "psychiatric"; and
 
-(b) substitute for the words "private healthcare facility"
-
-<!-- marginal: the words -->
-
-"psychiatric hospitals, psychiatric nursing homes or community mental health centres".
+(b) substitute for the words "private healthcare facility" the words "psychiatric hospitals, psychiatric nursing homes or community mental health centres".
 
 2. Delete subsection (3).
 
-Section 71 In subsection (1), insert after the words "in connection with the function of a" the word "psychiatric".
+<!-- marginal: Section 71 -->
 
-1. Substitute for the marginal note the Section 72 following marginal note:
+In subsection (1), insert after the words "in connection with the function of a" the word "psychiatric".
 
-"Psychiatric mortality
+1. Substitute for the marginal note the
 
-<!-- marginal: assessment -->
+<!-- marginal: Section 72 -->
 
-committee at psychiatric hospital, psychiatric nursing home or community mental health centre".
+following marginal note:
+
+"Psychiatric mortality assessment committee at psychiatric hospital, psychiatric nursing home or community mental health centre".
 
 2. In subsection (1) —
 
@@ -1402,77 +1412,77 @@ committee at psychiatric hospital, psychiatric nursing home or community mental 
 
 ## FACILITIES AND SERVICES ACT 1998 ON ENFORCEMENT
 
-<!-- marginal: (2) -->
+(2)
 
-(1) Modifications Provisions of the Act
+(1) Modifications
 
-Except for sections 91 and 93, substitute for General the words "facility", "private healthcare facility or service", "private healthcare facility" or "healthcare facility" wherever appearing in
+<!-- marginal: Provisions of the Act -->
 
-## Part XVI the words "psychiatric hospital,
+Except for sections 91 and 93, substitute for
 
-psychiatric nursing home or community mental health centre".
+<!-- marginal: General -->
+
+the words "facility", "private healthcare facility or service", "private healthcare facility" or "healthcare facility" wherever appearing in Part XVI the words "psychiatric hospital, psychiatric nursing home or community mental health centre".
 
 <!-- page 55 -->
 
-(1) (2) Provisions of the Act Modifications Section 88 1. Substitute for subsection (1) the following subsection:
+(1) (2)
+
+<!-- marginal: Provisions of the Act -->
+
+Modifications
+
+<!-- marginal: Section 88 -->
+
+1. Substitute for subsection (1) the following subsection:
 
 "(1) An Inspector shall have the power to enter and inspect at any time any psychiatric hospital, psychiatric nursing home or community mental health centre, or any premises which he suspects or has reason to believe is being used to house, treat or detain any number of persons who are mentally disordered or suspected to be mentally disordered.".
 
-Section 91 1. Substitute for the words "healthcare facility or to provide any private healthcare services", "healthcare facility or for providing private healthcare service" and "healthcare facility or service" wherever appearing the words "psychiatric hospital, psychiatric nursing home or community mental health centre".
+<!-- marginal: Section 91 -->
+
+1. Substitute for the words "healthcare facility or to provide any private healthcare services", "healthcare facility or for providing private healthcare service" and "healthcare facility or service" wherever appearing the words "psychiatric hospital, psychiatric nursing home or community mental health centre".
 
 2. In paragraph (l)(a), substitute for the words "this Act" the words "the Private Healthcare Facilities and Services Act 1998".
 
 3. In paragraph (1)(b), insert after the words "Director General" the words "under that Act".
 
-Section 92 In subsection (2), insert after the words "an offence" the words "and shall on conviction be liable to a fine not exceeding thirty thousand ringgit or to imprisonment for a term not exceeding six months or to both".
+<!-- marginal: Section 92 -->
 
-Substitute for that section the following section: Section 93
+In subsection (2), insert after the words "an offence" the words "and shall on conviction be liable to a fine not exceeding thirty thousand ringgit or to imprisonment for a term not exceeding six months or to both".
+
+Substitute for that section the following section:
+
+<!-- marginal: Section 93 -->
 
 Duty to assist 93. Whenever an Inspector Inspector. exercise his powers under sections 88, 89, 90, 91 and 92 it shall be the duty of the person in charge, the licensee, owner or occupier, and any employee or servant of the psychiatric
 
 <!-- page 56 -->
 
-(2) (1) Provisions of the Act Modifications hospital, psychiatric nursing home or community mental health centre, and any person found therein —
+(2)
 
-(a) to provide the Inspector with all such facilities and
+(1)
 
-<!-- marginal: assistance -->
+<!-- marginal: Provisions of the Act -->
 
-<!-- marginal: and -->
+Modifications hospital, psychiatric nursing home or community mental health centre, and any person found therein —
 
-Inspector may reasonably require;
+(a) to provide the Inspector with all such facilities and assistance and Inspector may reasonably require;
 
-(b) to give the Inspector all reasonable information required by him
+(b) to give the Inspector all reasonable information required by him in respect of the psychiatric hospital, psychiatric nursing home or community mental health centre, as the case may be, relating to its management or any other matter connected therewith; and
 
-<!-- marginal: in -->
+(c) to produce any book, record or document in his possession or custody or under his control or within his power to furnish relating to the affairs of the psychiatric hospital, psychiatric nursing home or community mental health centre.". 1. In subsection (1), substitute for the words
 
-respect of the psychiatric hospital, psychiatric nursing
+<!-- marginal: Section 99 -->
 
-<!-- marginal: home -->
+"the holder of the approval or the licensee or holder of a certificate of registration" wherever appearing in the subsection the words "the person in default".
 
-<!-- marginal: or -->
+2. In subsection (4), substitute for the words "the holder of the approval, licensee, holder of a certificate of registration or person" appearing in paragraph (a) the words "the person in default".
 
-community mental health centre, as the case may be,
+3. In subsection (6), substitute for the words "the holder of the approval or the licensee or holder of the certificate of registration" the words "the person in default".
 
-<!-- marginal: relating -->
+<!-- marginal: Section 100 -->
 
-<!-- marginal: to -->
-
-<!-- marginal: its -->
-
-management or any other matter
-
-<!-- marginal: connected -->
-
-therewith; and
-
-(c) to produce any book, record or document in his possession or custody or under his control or within his power to furnish relating to the affairs of the psychiatric hospital, psychiatric nursing
-
-<!-- marginal: home -->
-
-<!-- marginal: or -->
-
-community mental health centre.". 1. In subsection (1), substitute for the words Section 99 "the holder of the approval or the licensee or holder of a certificate of registration" wherever appearing in the subsection the words "the person in default". 2. In subsection (4), substitute for the words "the holder of the approval, licensee, holder of a certificate of registration or person" appearing in paragraph (a) the words "the person in default". 3. In subsection (6), substitute for the words "the holder of the approval or the licensee or holder of the certificate of registration" the words "the person in default". Section 100 Delete subsection (1).
+Delete subsection (1).
 
 <!-- page 57 -->
 
@@ -1512,11 +1522,7 @@ examinations act as a safeguard for the person to ensure either the continuance 
 
 13. Clause 11 seeks to empower any police officer or social welfare officer to apprehend any suspected mentally disordered person and to produce him for examination at a government or gazetted private psychiatric hospital.
 
-14. Clause 12 seeks to empower the Court, when dealing with offences under
-
-## Chapter XVI of the Penal Code, to send the victims of the crimes so committed
-
-for medical examination at a government psychiatric hospital or gazetted private psychiatric hospital if they are suspected to be mentally disordered and not under any proper care and control.
+14. Clause 12 seeks to empower the Court, when dealing with offences under Chapter XVI of the Penal Code, to send the victims of the crimes so committed for medical examination at a government psychiatric hospital or gazetted private psychiatric hospital if they are suspected to be mentally disordered and not under any proper care and control.
 
 15. Clause 13 deals with cases of neglect or cruel treatment of a suspected mentally disordered person. A Magistrate may order a person who is legally bound to maintain a suspected mentally disordered person to take that person under his care and treatment. In the absence of such person the suspected mentally disordered person may be sent to a government psychiatric hospital or a gazetted private psychiatric hospital. The clause seeks to enable the Magistrate to monitor the condition of the suspected mentally disordered person under the care of the person legally bound to care for the mentally disordered person by requiring visits to be made to him by any medical officer or registered medical practitioner, any police officer not below the rank of Inspector, or any social welfare officer.
 
@@ -1628,17 +1634,9 @@ for medical examination at a government psychiatric hospital or gazetted private
 
 54. Clause 78 requires the Medical Director to ensure that every patient in a psychiatric hospital and his relative are informed of matters pertaining to the person's detention and his rights in respect of his discharge.
 
-55. Clause 81 seeks to allow amendments to be made to any medical certificate, orders or other documents pertaining to the admission of an involuntary patient in a psychiatric hospital which are incorrect.
+55. Clause 81 seeks to allow amendments to be made to any medical certificate, orders or other documents pertaining to the admission of an involuntary patient in a psychiatric hospital which are incorrect. 56. Under clause 82, any pay, pension, gratuity or allowance payable by the Government or the Government of any State to a person who has become mentally disordered may be paid to the person having charge of him with any surplus to be paid to the dependants of the mentally disordered person.
 
-56. Under clause 82, any pay, pension, gratuity or allowance payable by the Government or the Government of any State to a person who has become mentally disordered may be paid to the person having charge of him with any surplus to be paid to the dependants of the mentally disordered person.
-
-57. Clauses 86, 87 and 88 seek to provide for specific offences in relation to mentally disordered persons with specific penalties being prescribed.
-
-58. Clause 89 deals with the prosecution of offences under the proposed Act.
-
-59. Clause 92 empowers the Minister to make regulations.
-
-60. Repeal and savings are provided in clause 93.
+57. Clauses 86, 87 and 88 seek to provide for specific offences in relation to mentally disordered persons with specific penalties being prescribed. 58. Clause 89 deals with the prosecution of offences under the proposed Act. 59. Clause 92 empowers the Minister to make regulations. 60. Repeal and savings are provided in clause 93.
 
 ## FINANCIAL
 

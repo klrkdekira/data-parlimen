@@ -12,9 +12,13 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Tajuk ringkas dan permulaan kuat kuasa
 
-1. (1) Akta ini bolehlah dinamakan Akta Hakmilik Strata (Pindaan) 2012.
+1. (1) Akta ini bolehlah dinamakan Akta Hakmilik Strata (Pindaan)
 
-(2) Kecuali sebagaimana yang diperuntukkan di bawah subseksyen (4), Akta ini mula berkuat kuasa di setiap Negeri pada tarikh yang ditetapkan oleh Menteri, dengan kelulusan Majlis Tanah Negara berhubung dengan negeri itu, melalui pemberitahuan dalam Warta, dan Menteri boleh, dengan kelulusan Majlis Tanah Negara, menetapkan tarikh yang berlainan bagi permulaan kuat kuasa peruntukan yang berlainan dalam Akta ini.
+2012.
+
+(2) Kecuali sebagaimana yang diperuntukkan di bawah subseksyen
+
+(4), Akta ini mula berkuat kuasa di setiap Negeri pada tarikh yang ditetapkan oleh Menteri, dengan kelulusan Majlis Tanah Negara berhubung dengan negeri itu, melalui pemberitahuan dalam Warta, dan Menteri boleh, dengan kelulusan Majlis Tanah Negara, menetapkan tarikh yang berlainan bagi permulaan kuat kuasa peruntukan yang berlainan dalam Akta ini.
 
 (3) Akta ini mula berkuat kuasa di Wilayah Persekutuan Kuala Lumpur, Wilayah Persekutuan Putrajaya dan Wilayah Persekutuan Labuan pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta, dan Menteri boleh menetapkan tarikh yang berlainan bagi permulaan kuat kuasa peruntukan yang berlainan dalam Akta ini.
 
@@ -236,7 +240,9 @@ yang diperakui, dan dalam hal petak tanah dengan tingkat bawah tanah yang dikong
 
 (ii) perakuan daripada seorang pegawai pihak berkuasa perancangan tempatan yang berkenaan yang diberi kuasa sewajarnya bahawa bangunan sebagaimana yang digambarkan melalui pelan yang disebut dalam subperenggan (i), telah didirikan dengan kebenaran perancangan tetapi pelan dan spesifikasi yang dengan merujuk kepadanya kebenaran itu telah diberi tidak lagi boleh didapati, dan bahawa pihak berkuasa perancangan tempatan itu walau bagaimanapun berpuas hati yang bangunan sebagaimana yang digambarkan itu memenuhi kehendak perancangan;
 
-(d) pelan strata yang dicadangkan yang mengandungi suatu pelan lokasi, pelan tingkat dan pelan tandaan, yang mengandungi apa-apa butir sebagaimana yang dinyatakan masing-masingnya dalam subseksyen (2), (3), (4), (5), (6) dan (7) dan diperakui oleh juruukur tanah seperti yang berikut:
+(d) pelan strata yang dicadangkan yang mengandungi suatu pelan lokasi, pelan tingkat dan pelan tandaan, yang mengandungi apa-apa butir sebagaimana yang dinyatakan masing-masingnya dalam subseksyen
+
+(2), (3), (4), (5), (6) dan (7) dan diperakui oleh juruukur tanah seperti yang berikut:
 
 (i) bahawa dia telah membuat perbandingan antara pelan-pelan itu dengan pelan bangunan yang diluluskan yang disediakan oleh Arkitek Profesional yang didaftarkan di bawah Akta Arkitek 1967 [Akta 117] atau Jurutera Profesional yang didaftarkan di bawah Akta Pendaftaran Jurutera 1967 [Akta 138] yang bertanggungjawab bagi pembinaannya, atau, dalam hal yang termasuk di bawah perenggan (c), dengan pelan-pelan bangunan yang telah dilukis dan diperakui oleh seorang Arkitek Profesional atau oleh seorang juruukur tanah;
 
@@ -672,7 +678,9 @@ bangunan atau tanah, yang merupakan bangunan atau tanah yang boleh dipecahbahagi
 
 ### strata sementara memohon untuk hakmilik strata
 
-20. (1) Pemilik bagi hakmilik strata sementara hendaklah, dalam tempoh yang dinyatakan dalam subseksyen (2) dan (3), memohon mengikut subseksyen 20a(1) dan 20b(1) bagi pecah bahagi bangunan atau tanah yang boleh dikeluarkan hakmilik strata, jika pada bila-bila masa dia telah menjual atau bersetuju untuk menjual mana-mana petak dalam bangunan atau tanah itu kepada mana-mana orang.
+20. (1) Pemilik bagi hakmilik strata sementara hendaklah, dalam tempoh yang dinyatakan dalam subseksyen (2) dan
+
+(3), memohon mengikut subseksyen 20a(1) dan 20b(1) bagi pecah bahagi bangunan atau tanah yang boleh dikeluarkan hakmilik strata, jika pada bila-bila masa dia telah menjual atau bersetuju untuk menjual mana-mana petak dalam bangunan atau tanah itu kepada mana-mana orang.
 
 (2) Tempoh yang dalamnya kehendak subseksyen (1) hendaklah dipatuhi adalah seperti yang berikut:
 
@@ -694,7 +702,9 @@ bangunan atau tanah, yang merupakan bangunan atau tanah yang boleh dipecahbahagi
 
 (4) Pemilik hakmilik strata sementara bangunan atau tanah yang telah dikeluarkan sijil cadangan pelan strata di bawah subseksyen 20a(8), hendaklah memohon bagi pecah bahagi di bawah subseksyen 20b(1) dalam masa satu bulan dari tarikh pengeluaran sijil cadangan pelan strata.
 
-(5) Tempoh yang dinyatakan dalam subseksyen (2) dan (3) boleh, atas permohonan yang dibuat sebelum habis tempohnya, dilanjutkan satu kali oleh Pengarah Ukur bagi apa-apa tempoh lanjut yang tidak melebihi satu bulan.
+(5) Tempoh yang dinyatakan dalam subseksyen (2) dan
+
+(3) boleh, atas permohonan yang dibuat sebelum habis tempohnya, dilanjutkan satu kali oleh Pengarah Ukur bagi apa-apa tempoh lanjut yang tidak melebihi satu bulan.
 
 (6) Tempoh yang dinyatakan dalam subseksyen (4) boleh, atas permohonan yang dibuat sebelum tamat tempohnya, dilanjutkan satu kali oleh Pengarah bagi apa-apa tempoh lanjut yang tidak melebihi satu bulan.
 
@@ -726,7 +736,9 @@ bangunan atau tanah, yang merupakan bangunan atau tanah yang boleh dipecahbahagi
 
 (ii) perakuan daripada seorang pegawai pihak berkuasa perancangan tempatan yang berkenaan yang diberi kuasa sewajarnya bahawa bangunan sebagaimana yang digambarkan dalam pelan yang disebut dalam subperenggan (i), telah didirikan dengan kebenaran perancangan tetapi pelan-pelan dan spesifikasi-spesifikasi yang kepadanya kebenaran itu telah diberi, tidak lagi ada dan bahawa pihak berkuasa perancangan tempatan itu walau bagaimanapun berpuas hati yang bangunan sebagaimana yang digambarkan itu memenuhi kehendak perancangan;
 
-(d) pelan strata yang dicadangkan yang mengandungi suatu pelan lokasi, pelan tingkat dan pelan tandaan, yang mengandungi apa-apa butir sebagaimana yang dinyatakan masing-masingnya dalam subseksyen (2), (3), (4), (5), (6) dan (7) dan diperakui oleh juruukur tanah seperti yang berikut:
+(d) pelan strata yang dicadangkan yang mengandungi suatu pelan lokasi, pelan tingkat dan pelan tandaan, yang mengandungi apa-apa butir sebagaimana yang dinyatakan masing-masingnya dalam subseksyen
+
+(2), (3), (4), (5), (6) dan (7) dan diperakui oleh juruukur tanah seperti yang berikut:
 
 (i) bahawa dia telah membuat perbandingan antara pelan-pelan itu dengan pelan bangunan yang diluluskan yang disediakan oleh Arkitek Profesional yang didaftarkan di bawah Akta Arkitek 1967 [Akta 117] atau Jurutera Profesional yang didaftarkan di bawah Akta Pendaftaran Jurutera 1967 [Akta 138] yang bertanggungjawab bagi pembinaannya, atau, dalam hal yang termasuk di bawah perenggan
 
@@ -1084,7 +1096,9 @@ dan apa-apa hak, keutamaan, liabiliti, relif, tanggungjawab, kehendak, kuasa, ke
 
 46. Akta ibu dipinda dengan memasukkan selepas Jadual Kelima Jadual yang berikut:
 
-“Jadual Keenam [Seksyen 4b]
+## “JADUAL KEENAM
+
+[Seksyen 4b]
 
 ## SISTEM HAKMILIK STRATA ELEKTRONIK
 
@@ -1306,49 +1320,37 @@ ID Hakmilik : ………........…… Tarikh : ………........…… No. Versi
 
 ## INDEKS SECARA TERPERINCI
 
-No. muka Bangunan/ Senarai Senarai
+<!-- marginal: No. muka -->
 
-<!-- marginal: Unit syer -->
-
-<!-- marginal: Cukai -->
+Bangunan/ Senarai Senarai Unit syer Cukai
 
 <!-- marginal: Catatan -->
 
-surat bagi blok tingkat petak
+<!-- marginal: surat bagi -->
 
-<!-- marginal: bagi setiap -->
+blok tingkat petak bagi setiap setiap
 
-<!-- marginal: setiap -->
+<!-- marginal: hakmilik -->
 
-hakmilik sementara/ dalam dalam
-
-<!-- marginal: petak/blok -->
+sementara/ dalam dalam petak/blok petak/blok
 
 <!-- marginal: petak/blok -->
 
-petak/blok petak tanah setiap setiap
+petak tanah setiap setiap sementara/ sementara/
 
 <!-- marginal: sementara/ -->
 
-<!-- marginal: sementara/ -->
-
-sementara/ bangunan bangunan /
+bangunan bangunan / petak petak
 
 <!-- marginal: petak -->
 
-<!-- marginal: petak -->
-
-petak luas tanah
+luas tanah tanah tanah
 
 <!-- marginal: tanah -->
 
-<!-- marginal: tanah -->
+setiap petak
 
-tanah setiap petak (1) (2) (3) (4)
-
-<!-- marginal: (5) -->
-
-<!-- marginal: (6) -->
+(1) (2) (3) (4) (5) (6)
 
 <!-- marginal: (7) -->
 
@@ -1358,19 +1360,7 @@ tanah setiap petak (1) (2) (3) (4)
 
 ## BANGUNAN:
 
-[Gunakan M1, M2, dsb. untuk menandakan bangunan siap] M1 .. .. Tingkat Petak .…... ..…............ ..…............ No. Petak .…... ..…............ ..…............ (Folio Petak .…... ..…............ ..…............ No. Pelan ……....…)
-
-<!-- marginal: Sub-jumlah -->
-
-<!-- marginal: Sub-jumlah -->
-
-..…............ ..…............ M2 .. .. Tingkat Petak .…... ..…............ ..…............ No… Petak .…... ..…............ ..…............ dsb., dsb. (Folio Petak .…... ..…............ ..…............ No. Pelan …………)
-
-<!-- marginal: Sub-jumlah -->
-
-<!-- marginal: Sub-jumlah -->
-
-..…............ ..…............
+[Gunakan M1, M2, dsb. untuk menandakan bangunan siap] M1 .. .. Tingkat Petak .…... ..…............ ..…............ No. Petak .…... ..…............ ..…............ (Folio Petak .…... ..…............ ..…............ No. Pelan ……....…) Sub-jumlah Sub-jumlah ..…............ ..…............ M2 .. .. Tingkat Petak .…... ..…............ ..…............ No… Petak .…... ..…............ ..…............ dsb., dsb. (Folio Petak .…... ..…............ ..…............ No. Pelan …………) Sub-jumlah Sub-jumlah ..…............ ..…............
 
 ## BLOK/
 
@@ -1378,85 +1368,149 @@ tanah setiap petak (1) (2) (3) (4)
 
 ## SEMENTARA:
 
-[Gunakan P1,P2, dsb. untuk menandakan blok-blok sementara] P1 .. .. (Folio — ..…............ ..…............ No. Pelan dsb., dsb. …………)
-
-<!-- marginal: Sub-jumlah -->
-
-<!-- marginal: Sub-jumlah -->
-
-..…............ ..…............ P2 .. .. (Folio — ..…............ ..…............ No. Pelan dsb., dsb. …………)
-
-<!-- marginal: Sub-jumlah -->
-
-<!-- marginal: Sub-jumlah -->
-
-..…............ ..…............
+[Gunakan P1,P2, dsb. untuk menandakan blok-blok sementara] P1 .. .. (Folio — ..…............ ..…............ No. Pelan dsb., dsb. …………) Sub-jumlah Sub-jumlah ..…............ ..…............ P2 .. .. (Folio — ..…............ ..…............ No. Pelan dsb., dsb. …………) Sub-jumlah Sub-jumlah ..…............ ..…............
 
 <!-- page 54 -->
 
-No. muka Bangunan/ Senarai Senarai Unit syer
+<!-- marginal: No. muka -->
 
-<!-- marginal: Cukai -->
+<!-- marginal: Bangunan/ -->
 
-<!-- marginal: Catatan -->
+<!-- marginal: Senarai -->
 
-surat bagi blok tingkat petak bagi setiap
+<!-- marginal: Senarai -->
 
-<!-- marginal: setiap -->
+Unit syer Cukai Catatan
 
-hakmilik sementara/ dalam dalam petak/blok
+<!-- marginal: surat bagi -->
 
-<!-- marginal: petak/blok -->
+<!-- marginal: blok -->
 
-petak/blok petak tanah setiap setiap sementara/
-
-<!-- marginal: sementara/ -->
-
-sementara/ bangunan bangunan / petak
+<!-- marginal: tingkat -->
 
 <!-- marginal: petak -->
 
-petak luas tanah tanah
+bagi setiap setiap
+
+<!-- marginal: hakmilik -->
+
+<!-- marginal: sementara/ -->
+
+<!-- marginal: dalam -->
+
+<!-- marginal: dalam -->
+
+petak/blok petak/blok
+
+<!-- marginal: petak/blok -->
+
+<!-- marginal: petak tanah -->
+
+<!-- marginal: setiap -->
+
+<!-- marginal: setiap -->
+
+sementara/ sementara/
+
+<!-- marginal: sementara/ -->
+
+<!-- marginal: bangunan -->
+
+<!-- marginal: bangunan / -->
+
+petak petak
+
+<!-- marginal: petak -->
+
+<!-- marginal: luas tanah -->
+
+tanah tanah
 
 <!-- marginal: tanah -->
 
-tanah setiap petak (1) (2) (3) (4) (5)
+<!-- marginal: setiap -->
 
-<!-- marginal: (6) -->
+<!-- marginal: petak -->
 
-<!-- marginal: (7) -->
+(1)
 
-## PETAK/
+(2)
 
-## PETAK-
+(3)
 
-— L1 ..…...... ..…............ ..…............
+(4) (5) (6) (7)
 
-## PETAK
+<!-- marginal: PETAK/ -->
 
-— L2 ..…......
+<!-- marginal: PETAK- -->
 
-## TANAH:
+—
 
-— L3 ..…...... ..…............ ..…............ [Gunakan L1,L2, ..…............ ..…............ dsb. untuk menandakan Sub-jumlah
-
-<!-- marginal: Sub-jumlah -->
-
-petak tanah ] ..…............ ..…............
-
-## BLOK/
-
-## BLOK-BLOK
-
-## SEMENTARA
-
-(Petak tanah) — PL1 ..….... ..…............ ..…............ PL1…… — PL2 ..….... PL2…… — PL3 ..….... ..…............ ..…............ ..…............ ..…............ Sub-jumlah
-
-<!-- marginal: Sub-jumlah -->
+<!-- marginal: L1 ..…...... -->
 
 ..…............ ..…............
 
-Jumlah: ..…............ ..…............ ..…............
+<!-- marginal: PETAK -->
+
+—
+
+<!-- marginal: L2 ..…...... -->
+
+<!-- marginal: TANAH: -->
+
+—
+
+<!-- marginal: L3 ..…...... -->
+
+..…............ ..…............
+
+<!-- marginal: [Gunakan -->
+
+<!-- marginal: L1,L2, -->
+
+..…............ ..…............
+
+<!-- marginal: dsb. untuk -->
+
+<!-- marginal: menandakan -->
+
+Sub-jumlah Sub-jumlah
+
+<!-- marginal: petak tanah ] -->
+
+..…............ ..…............
+
+<!-- marginal: BLOK/ -->
+
+<!-- marginal: BLOK-BLOK -->
+
+<!-- marginal: SEMENTARA -->
+
+<!-- marginal: (Petak tanah) -->
+
+—
+
+<!-- marginal: PL1 ..….... -->
+
+..…............ ..…............
+
+<!-- marginal: PL1…… -->
+
+—
+
+<!-- marginal: PL2 ..….... -->
+
+<!-- marginal: PL2…… -->
+
+—
+
+<!-- marginal: PL3 ..….... -->
+
+..…............ ..…............ ..…............ ..…............ Sub-jumlah Sub-jumlah ..…............ ..…............
+
+<!-- marginal: Jumlah: -->
+
+..…............ ..…............ ..…............
 
 (sambungan helaian boleh ditambah sebagaimana perlu)
 
@@ -1508,7 +1562,9 @@ ID Hakmilik : ………........…… Tarikh : ………........…… No. Versi
 
 ## AKTA HAKMILIK STRATA 1985
 
-borang 4e [Jadual Keenam]
+## BORANG 4E
+
+[Jadual Keenam]
 
 ## HAKMILIK STRATA
 

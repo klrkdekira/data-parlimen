@@ -8,11 +8,11 @@ An Act to amend rhe Insurance Act 1963.
 
 BE IT ENACTED by the Seri Paduka Baginda Yang di-Pertuan Agong with the advice and consent of the Dewan Negara and Dewan Rakyat in Parliament assembled, and by the authority of the same as follows:
 
-Short title
+<!-- marginal: Short title -->
 
 1. This Act may be cited as the Insurance (Amendment) Act 1994.
 
-Amendment
+<!-- marginal: Amendment -->
 
 2. The Insurance Act 1963, which in this Act is referred to as the "principal Act", is amended in section 12A—
 
@@ -24,7 +24,11 @@ Amendment
 
 (b) moneys borrowed under section 12B;
 
-(c) any amount recovered from the liquidator of an insurer that is being wound up; and
+(c) any amount recovered from
+
+<!-- marginal: the -->
+
+liquidator of an insurer that is being wound up; and
 
 (d) any donations or contributions from any person.";
 
@@ -90,9 +94,25 @@ Provided that any sum so withdrawn and utilised for the purpose of meeting the l
 
 (g) in subsection (9) by deleting the words ' "private policyholder" means a policyholder who is an individual, a partnership or any other unincorporated body of persons, all of whom are individuals; and'.
 
-3. The principal Act is amended by inserting after section 12A the following sections: Director
+3. The principal Act is amended by inserting after section 12A the following sections:
 
-12B. The Director General may, with the General approval of the Minister, borrow moneys for an may borrow insurance guarantee scheme fund to such moneys. extent, in such manner, from such persons or
+<!-- marginal: Director -->
+
+12B. The Director General may, with the
+
+<!-- marginal: General -->
+
+approval of the Minister, borrow moneys for an
+
+<!-- marginal: may -->
+
+<!-- marginal: borrow -->
+
+insurance guarantee scheme fund to such
+
+<!-- marginal: moneys. -->
+
+extent, in such manner, from such persons or
 
 <!-- page 5 -->
 
@@ -100,7 +120,15 @@ Provided that any sum so withdrawn and utilised for the purpose of meeting the l
 
 sources, and on such terms and condmons, as may be approved by the Minister in writing.
 
-Payment 12c. The Director General may. in his discretion, pay to the claimant of an insolvent and assagnment insurer the amount of dividend that may be declared by that insurer's liquidator together with the amount due from an insurance guarantee scheme fund subject to the claimant assigning all his rights in respect of the claim in favour of the insurance guarantee scheme fund and upon the claimant accepting that amount of payment from the insurance guarantee scheme f u nd in f u ll and final settlement of his claim.".
+<!-- marginal: Payment -->
+
+12c. The Director General may. in his discretion, pay to the claimant of an insolvent
+
+<!-- marginal: and -->
+
+<!-- marginal: assagnment -->
+
+insurer the amount of dividend that may be declared by that insurer's liquidator together with the amount due from an insurance guarantee scheme fund subject to the claimant assigning all his rights in respect of the claim in favour of the insurance guarantee scheme fund and upon the claimant accepting that amount of payment from the insurance guarantee scheme f u nd in f u ll and final settlement of his claim.".
 
 <!-- marginal: New section- -->
 
@@ -112,15 +140,43 @@ section 29 the following sections:
 
 <!-- marginal: and 29D -->
 
-"Applica-
+<!-- marginal: "Applica- -->
 
-29A. Sections 29B and 29c shail, in addition tion of to the provisions of the Companies Act 1965. sections 29B and apply to the winding up of an insurer, including
+29A. Sections 29B and 29c shail, in addition
 
-29C. an insurer whose registration has been revoked Act 125. and an insurer whose winding up has commenced but has not been completed.
+<!-- marginal: tion of -->
 
-Control of
+to the provisions of the Companies Act 1965.
 
-29B. ( I) Subject to any order of the Court. a liquidator liquidator, other than the Official Receiver, by the Director appointed on an application made under section General. 28A(2)(c) or 29, shall carry out his functions under the direction and supervision of the Director General.
+<!-- marginal: sections -->
+
+<!-- marginal: 29B and -->
+
+apply to the winding up of an insurer, including
+
+29C. an insurer whose registration has been revoked
+
+<!-- marginal: Act 125. -->
+
+and an insurer whose winding up has commenced but has not been completed.
+
+<!-- marginal: Control of -->
+
+29B. ( I) Subject to any order of the Court. a
+
+<!-- marginal: liquidator -->
+
+liquidator, other than the Official Receiver,
+
+<!-- marginal: by the -->
+
+<!-- marginal: Director -->
+
+appointed on an application made under section
+
+<!-- marginal: General. -->
+
+28A(2)(c) or 29, shall carry out his functions under the direction and supervision of the Director General.
 
 (2) Without affecting the generality of subsection (I), the Director General may, in the interests of the policy owners or claimants of an insurer that is being wound up. direct the liquidator to appoint such person as he may specify to assist in the winding up of the insurer, for such period and on such terms and conditions as he thinks fit.
 
@@ -128,7 +184,15 @@ Control of
 
 ## BILL
 
-Liquidator's 29c, ( 1) The liquidator shall lodge with the report and accounts. Director General a copy of—
+<!-- marginal: Liquidator's -->
+
+29c, ( 1) The liquidator shall lodge with the
+
+<!-- marginal: report and -->
+
+<!-- marginal: accounts. -->
+
+Director General a copy of—
 
 (a) the preliminary report referred to in section 235 of the Companies Act 1965 at the same time as he submits it to the Court; and
 
@@ -136,9 +200,21 @@ Liquidator's 29c, ( 1) The liquidator shall lodge with the report and accounts. 
 
 (2) In addition to the documents referred to in subsection (1), the liquidator shall submit to the Director General such reports, accounts and statements as the Director General may specify from time to time.
 
-Termination
+<!-- marginal: Termination -->
 
-29D. ( 1) All policies issued by an insurer of policies shall cease to be in force from the effective date on date of winding of the winding up order. up order.
+29D. ( 1) All policies issued by an insurer
+
+<!-- marginal: of policies -->
+
+shall cease to be in force from the effective date
+
+<!-- marginal: on date of -->
+
+<!-- marginal: winding -->
+
+of the winding up order.
+
+<!-- marginal: up order. -->
 
 (2) The Iiquidator shall notify each policy owner and, in the case of a group policy, the group policy owner, about such cessation of insurance by ordinary mail and by advertisement in such newspapers as may be specified by the Director General.
 

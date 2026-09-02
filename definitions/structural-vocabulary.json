@@ -2,6 +2,16 @@
   "node_types": [
     {
       "akn_attributes": {},
+      "akn_element": "article",
+      "eid_prefix": "art_",
+      "labels": {
+        "en": "Article",
+        "ms": "Perkara"
+      },
+      "type": "article"
+    },
+    {
+      "akn_attributes": {},
       "akn_element": "chapter",
       "eid_prefix": "chp_",
       "labels": {
@@ -19,6 +29,18 @@
         "ms": "Fasal"
       },
       "type": "clause"
+    },
+    {
+      "akn_attributes": {
+        "name": "list"
+      },
+      "akn_element": "hcontainer",
+      "eid_prefix": "list_",
+      "labels": {
+        "en": "List",
+        "ms": "Senarai"
+      },
+      "type": "list"
     },
     {
       "akn_attributes": {},

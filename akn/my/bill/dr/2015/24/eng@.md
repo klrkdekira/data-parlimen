@@ -4,29 +4,39 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Interpretation
 
-## Part II
+## PART II
 
 ## THE MALAYSIAN ALLIED HEALTH PROFESSIONS COUNCIL
 
 3. Establishment of Council 4. Functions of Council 5. Membership of Council 6. Temporary exercise of functions of Chairman 7. Secretary 8. Committees
 
-## Part III
+## PART III
 
 ## ALLIED HEALTH PROFESSION
 
-9. Allied Health Profession 10. Amendment of Second Schedule 11. Activity relating to allied health prescribed by regulations 12. Application to include other professions of allied health 13. Practice or activity to continue pending determination of registration
+9. Allied Health Profession
 
-## Part IV
+10. Amendment of Second Schedule
+
+11. Activity relating to allied health prescribed by regulations
+
+12. Application to include other professions of allied health
+
+13. Practice or activity to continue pending determination of registration
+
+## PART IV
 
 ## REGISTRATION
 
-14. Registrar 15. Register
+14. Registrar
+
+15. Register
 
 <!-- page 2 -->
 
@@ -48,7 +58,7 @@
 
 24. Temporary practising certificate
 
-## Part V
+## PART V
 
 ## DISCIPLINARY PROCEEDINGS
 
@@ -66,7 +76,7 @@
 
 31. Reinstatement upon appeal
 
-## Part VI
+## PART VI
 
 ## OFFENCES
 
@@ -84,7 +94,7 @@
 
 <!-- page 3 -->
 
-## Part VII
+## PART VII
 
 ## ENFORCEMENT
 
@@ -94,7 +104,7 @@
 
 40. Institution of prosecution
 
-## Part VIII
+## PART VIII
 
 ## GENERAL
 
@@ -110,9 +120,9 @@
 
 46. Transitional provisions
 
-FIrst s chedule
+## FIRST S CHEDULE
 
-second s chedule
+## SECOND S CHEDULE
 
 <!-- page 5 -->
 
@@ -124,7 +134,7 @@ An Act to provide for the establishment of the Malaysian Allied Health Professio
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -156,11 +166,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 “Registrar” means the Registrar of the Malaysian Allied Health Professions Council referred to in section 14;
 
-“registered practitioner” means an allied health practitioner who is registered under section 17 and for the purposes of
-
-## Part V and Part VI includes a non-Malaysian citizen deemed to
-
-be a registered practitioner under subsection 24(10);
+“registered practitioner” means an allied health practitioner who is registered under section 17 and for the purposes of Part V and Part VI includes a non-Malaysian citizen deemed to be a registered practitioner under subsection 24(10);
 
 “certificate” means a certificate of registration, a practising certificate and a temporary practising certificate;
 
@@ -172,7 +178,7 @@ be a registered practitioner under subsection 24(10);
 
 <!-- page 7 -->
 
-## Part II
+## PART II
 
 ## THE MALAYSIAN ALLIED HEALTH PROFESSIONS COUNCIL
 
@@ -278,7 +284,7 @@ be a registered practitioner under subsection 24(10);
 
 (7) The Council may, at any time, discontinue or alter the composition of a committee.
 
-## Part III
+## PART III
 
 ## ALLIED HEALTH PROFESSION
 
@@ -326,7 +332,7 @@ be a registered practitioner under subsection 24(10);
 
 (6) Where an application for registration under this section is refused, the applicant shall cease to practise or carry on the activity, from the date the applicant is notified of the decision of the Council.
 
-## Part IV
+## PART IV
 
 ## REGISTRATION
 
@@ -484,7 +490,7 @@ be a registered practitioner under subsection 24(10);
 
 (10) The holder of a temporary practising certificate shall, while the certificate remains in force and subject to the conditions and restrictions specified in the certificate, be deemed to be a registered practitioner for the purposes of Part V and Part VI.
 
-## Part V
+## PART V
 
 ## DISCIPLINARY PROCEEDINGS
 
@@ -594,7 +600,7 @@ be a registered practitioner under subsection 24(10);
 
 <!-- page 23 -->
 
-## Part VI
+## PART VI
 
 ## OFFENCES
 
@@ -736,7 +742,7 @@ shall also be guilty of the offence and shall, on conviction, be liable—
 
 (ii) in respect of a second or continuing offence, to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both.
 
-## Part VII
+## PART VII
 
 ## ENFORCEMENT
 
@@ -756,7 +762,7 @@ shall also be guilty of the offence and shall, on conviction, be liable—
 
 40. No prosecution shall be instituted for any offence under this Act without the sanction in writing of the Public Prosecutor.
 
-## Part VIII
+## PART VIII
 
 ## GENERAL
 
@@ -832,7 +838,7 @@ shall also be guilty of the offence and shall, on conviction, be liable—
 
 (10) Where an application under subsection (6) is refused, the non-Malaysian citizen shall cease practise from the date the applicant is notified of the refusal.
 
-FIrst s chedule
+## FIRST S CHEDULE
 
 (Section 5)
 
@@ -968,11 +974,11 @@ FIrst s chedule
 
 (b) any omission, defect or irregularity not affecting the merits of the case.
 
-second s chedule
+## SECOND S CHEDULE
 
 (Sections 9 and 10)
 
-lIst oF allIed health ProFessIons
+## LIST OF ALLIED HEALTH PROFESSIONS
 
 1. Audiologist
 
@@ -986,13 +992,47 @@ lIst oF allIed health ProFessIons
 
 <!-- page 37 -->
 
-6. Nutritionist 7. Clinical Psychologist 8. Clinical Scientist (Biochemist) 9. Clinical Scientist (Biomedical) 10. Clinical Scientist (Embryologist) 11. Clinical Scientist (Medical Geneticist) 12. Clinical Scientist (Microbiologist) 13. Occupational Therapist 14. Speech-Language Therapist 15. Radiation Therapist 16. Diagnostic Radiographer 17. Medical Laboratory Technologist 18. Dental Technologist 19. Environmental Health Officer 20. Health Education Officer 21. Food Service Officer (Healthcare) 22. Forensic Science Officer 23. Medical Social Officer
+6. Nutritionist
+
+7. Clinical Psychologist
+
+8. Clinical Scientist (Biochemist)
+
+9. Clinical Scientist (Biomedical)
+
+10. Clinical Scientist (Embryologist)
+
+11. Clinical Scientist (Medical Geneticist)
+
+12. Clinical Scientist (Microbiologist)
+
+13. Occupational Therapist
+
+14. Speech-Language Therapist
+
+15. Radiation Therapist
+
+16. Diagnostic Radiographer
+
+17. Medical Laboratory Technologist
+
+18. Dental Technologist
+
+19. Environmental Health Officer
+
+20. Health Education Officer
+
+21. Food Service Officer (Healthcare)
+
+22. Forensic Science Officer
+
+23. Medical Social Officer
 
 ## EXPLANATORY STATEMENT
 
 The Allied Health Professions Act 2015 (“the Act”) as proposed in this Bill seeks to establish the Malaysian Allied Health Professions Council, to provide for the registration of persons practising as allied health practitioners and persons carrying on activities relating to allied health, to regulate the practice of Allied Health Professions, and for related matters.
 
-## Part I
+## PART I
 
 2. Part I deals with preliminary matters.
 
@@ -1002,7 +1042,7 @@ Clause 2 contains the definition of certain words and expressions used in the Ac
 
 <!-- page 38 -->
 
-## Part II
+## PART II
 
 3. Part II contains provisions relating to the establishment of the Malaysian Allied Health Professions Council.
 
@@ -1018,7 +1058,7 @@ Clause 7 seeks to provide for the Secretary of the Council.
 
 Clause 8 empowers the Council to establish committees to assist it in the performance of its functions.
 
-## Part III
+## PART III
 
 4. Part III contains provisions relating to Allied Health Professions to which this Act applies.
 
@@ -1030,7 +1070,7 @@ Clause 12 seeks to allow any person to include other professions of allied healt
 
 Clause 13 provides for a practise of a profession of allied health or an activity relating to allied health to continue pending the determination of its inclusion as an Allied Health Profession to which this Act applies.
 
-## Part IV
+## PART IV
 
 5. Part IV contains provisions relating to the registration of allied health practitioners.
 
@@ -1056,7 +1096,7 @@ Clause 23 seeks to provide for the renewal of a practising certificate.
 
 Clause 24 seeks to provide for the issuance of a temporary practising certificate to a non-Malaysian citizen who has been practising an Allied Health Profession outside Malaysia subject to such conditions and restrictions specified in such certificate.
 
-## Part V
+## PART V
 
 6. Part V deals with disciplinary matters.
 
@@ -1074,7 +1114,7 @@ Clause 30 allows an appeal to be made to the Minister against a disciplinary ord
 
 Clause 31 seeks to provide for the reinstatement of a registered practitioner pursuant to a successful appeal.
 
-## Part VI
+## PART VI
 
 7. Part VI deals with offences.
 
@@ -1092,7 +1132,7 @@ Clause 36 seeks to provide for the offence of employing a person who is an unreg
 
 Clause 37 seeks to provide for general penalty.
 
-## Part VII
+## PART VII
 
 8. Part VII deals with enforcement.
 
@@ -1122,4 +1162,4 @@ Clause 46 deals with transitional matters.
 
 This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained.
 
-<!-- marginal: [Pn(u2)1941] -->
+<!-- marginal: [PN(U2)1941] -->

@@ -4,31 +4,17 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Chapter I
+## CHAPTER I
 
 ## PRELIMINARY
 
-1. Short title
+1. Short title 2. Amendment of Acts
 
-2. Amendment of Acts
-
-## Chapter II
+## CHAPTER II
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
-3. Commencement of amendments to the Income Tax Act 1967
-
-4. Amendment of section 2
-
-5. Amendment of section 4
-
-6. Amendment of section 4b
-
-7. Amendment of section 6
-
-8. New section 15C
-
-9. Amendment of section 44
+3. Commencement of amendments to the Income Tax Act 1967 4. Amendment of section 2 5. Amendment of section 4 6. Amendment of section 4b 7. Amendment of section 6 8. New section 15C 9. Amendment of section 44
 
 10. Amendment of section 46
 
@@ -84,9 +70,9 @@
 
 34. Amendment of Schedule 7
 
-## Chapter III
+## CHAPTER III
 
-aMeNDMeNtS tO the reaL prOpertY GaINS taX aCt 1976
+## AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976
 
 35. Commencement of amendments to the Real Property Gains Tax Act 1976
 
@@ -124,9 +110,9 @@ aMeNDMeNtS tO the reaL prOpertY GaINS taX aCt 1976
 
 <!-- page 3 -->
 
-## Chapter IV
+## CHAPTER IV
 
-aMeNDMeNtS tO the StaMp aCt 1949
+## AMENDMENTS TO THE STAMP ACT 1949
 
 51. Commencement of amendments to the Stamp Act 1949
 
@@ -168,7 +154,7 @@ aMeNDMeNtS tO the StaMp aCt 1949
 
 70. Deletion of Fifth Schedule
 
-## Chapter V
+## CHAPTER V
 
 ## AMENDMENTS TO THE PETROLEUM (INCOME TAX) ACT 1967
 
@@ -192,7 +178,7 @@ aMeNDMeNtS tO the StaMp aCt 1949
 
 <!-- page 4 -->
 
-## Chapter VI
+## CHAPTER VI
 
 ## AMENDMENTS TO THE LABUAN BUSINESS ACTIVITY TAX ACT 1990
 
@@ -212,7 +198,7 @@ aMeNDMeNtS tO the StaMp aCt 1949
 
 86. New section 22ea
 
-## Chapter VII
+## CHAPTER VII
 
 ## AMENDMENT TO THE ENTERTAINMENTS DUTY ACT 1953
 
@@ -220,7 +206,7 @@ aMeNDMeNtS tO the StaMp aCt 1949
 
 88. Amendment of section 23
 
-## Chapter VIII
+## CHAPTER VIII
 
 ## AMENDMENT TO THE CUSTOMS ACT 1967
 
@@ -228,7 +214,7 @@ aMeNDMeNtS tO the StaMp aCt 1949
 
 90. Amendment of section 11
 
-## Chapter IX
+## CHAPTER IX
 
 ## AMENDMENT TO THE EXCISE ACT 1976
 
@@ -236,7 +222,7 @@ aMeNDMeNtS tO the StaMp aCt 1949
 
 92. Amendment of section 6
 
-## Chapter X
+## CHAPTER X
 
 ## AMENDMENT TO THE GOODS VEHICLE LEVY ACT 1983
 
@@ -248,7 +234,7 @@ aMeNDMeNtS tO the StaMp aCt 1949
 
 <!-- page 5 -->
 
-## Chapter XI
+## CHAPTER XI
 
 ## AMENDMENT TO THE WINDFALL PROFIT LEVY ACT 1998
 
@@ -256,7 +242,7 @@ aMeNDMeNtS tO the StaMp aCt 1949
 
 96. Amendment of section 7
 
-## Chapter XII
+## CHAPTER XII
 
 ## AMENDMENTS TO THE TOURISM TAX ACT 2017
 
@@ -286,7 +272,7 @@ aMeNDMeNtS tO the StaMp aCt 1949
 
 109. Amendment of section 70
 
-## Chapter XIII
+## CHAPTER XIII
 
 ## AMENDMENTS TO THE SALES TAX ACT 2018
 
@@ -326,7 +312,7 @@ aMeNDMeNtS tO the StaMp aCt 1949
 
 125. Amendment of Schedule
 
-## Chapter XIV
+## CHAPTER XIV
 
 ## AMENDMENTS TO THE SERVICE TAX ACT 2018
 
@@ -360,7 +346,7 @@ aMeNDMeNtS tO the StaMp aCt 1949
 
 140. Amendment of section 91
 
-## Chapter XV
+## CHAPTER XV
 
 ## AMENDMENT TO THE DEPARTURE LEVY ACT 2019
 
@@ -380,7 +366,7 @@ An Act to amend the Income Tax Act 1967, the Real Property Gains Tax Act 1976, t
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Chapter I
+## CHAPTER I
 
 ## PRELIMINARY
 
@@ -398,7 +384,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 Act 1990 [Act 445], the Entertainments Duty Act 1953 [Act 103], the Customs Act 1967 [Act 235], the Excise Act 1976 [Act 176], the Goods Vehicle Levy Act 1983 [Act 294], the Windfall Profit Levy Act 1998 [Act 592], the Tourism Tax Act 2017 [Act 791], the Sales Tax Act 2018 [Act 806], the Service Tax Act 2018 [Act 807] and the Departure Levy Act 2019 [Act 813] are amended in the manner specified in Chapters II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV and XV respectively.
 
-## Chapter II
+## CHAPTER II
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
@@ -506,6 +492,8 @@ Act 1990 [Act 445], the Entertainments Duty Act 1953 [Act 103], the Customs Act 
 
 Provided that the defined value of the real property situated in Malaysia (including any right or interest thereof) owned by another controlled company, is not less than seventy-five per cent of the value of its total tangible asset; or
 
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 11 -->
+
 <!-- marginal: 02/11/2023 11:00 PM -->
 
 <!-- page 12 -->
@@ -590,6 +578,8 @@ Provided that for the purposes of this paragraph—
 
 “(iv) on himself, his wife or child for dental examination or treatment, or in the case of a wife on herself, her husband or child for dental examination or treatment, an amount limited to a maximum of one thousand ringgit:”; and
 
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 14 -->
+
 <!-- marginal: 02/11/2023 11:00 PM -->
 
 <!-- page 15 -->
@@ -612,7 +602,7 @@ Provided that for the purposes of this paragraph—
 
 “(v) for the payment of any course of study undertaken other than the course of study falling under subparagraph 46(1)(f)(iii) for the purpose of upskilling or self-enhancement,”;
 
-<!-- marginal: 02/11/2023 11:00 PM -->
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 15 -->
 
 <!-- page 16 -->
 
@@ -632,6 +622,8 @@ for his own use or under his name or for the use of or under the name of his wif
 
 (f) in paragraph (v), by substituting for the words “2022 and 2023” the words “2023, 2024, 2025, 2026 and 2027”.
 
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 16 -->
+
 <!-- marginal: 02/11/2023 11:00 PM -->
 
 <!-- page 17 -->
@@ -646,17 +638,13 @@ Provided further that where such realization of investments relates to real prop
 
 ### New Chapter 9
 
-12. Part III of the principal Act is amended by inserting after
-
-## Chapter 8 the following chapter:
+12. Part III of the principal Act is amended by inserting after Chapter 8 the following chapter:
 
 “Chapter 9 – Gains or profits from the disposal of capital asset
 
 ### Interpretation of Chapter 9
 
-### 65c.
-
-In this Chapter, unless the context otherwise requires—
+65C. In this Chapter, unless the context otherwise requires—
 
 “consideration” means consideration in money or money’s worth;
 
@@ -714,6 +702,8 @@ the disposal for the purpose of enhancing or preserving the value of the capital
 
 (iii) any sum forfeited to the company, limited liability partnership, trust body or co-operative society as a deposit made in connection with an intended transfer of the capital asset.
 
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 19 -->
+
 <!-- marginal: 02/11/2023 11:00 PM -->
 
 <!-- page 20 -->
@@ -747,6 +737,8 @@ the disposal for the purpose of enhancing or preserving the value of the capital
 (d) where a company, limited liability partnership, trust body or co-operative society acquires or disposes of a capital asset in a transaction for the transfer of a business for a lump sum consideration; or
 
 (e) where the disposal of the capital asset is a transaction between connected persons.
+
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 21 -->
 
 <!-- marginal: 02/11/2023 11:00 PM -->
 
@@ -794,6 +786,8 @@ the disposal for the purpose of enhancing or preserving the value of the capital
 
 Provided that, if the asset received by the disposer has no market value, the Director General may take the market value of the asset disposed of as the consideration for the disposal.
 
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 23 -->
+
 <!-- marginal: 02/11/2023 11:00 PM -->
 
 <!-- page 24 -->
@@ -837,6 +831,8 @@ whichever is the earlier;
 (a) if a capital asset acquired or held by a company, limited liability partnership, trust body or co-operative society is taken into the trading stock of the company, limited liability partnership, trust body or co-operative society, there shall be deemed to be a disposal of the capital asset on the date that capital asset is taken into the trading stock; and
 
 (b) the amount or value of the consideration in money or money’s worth of the capital asset shall be equal to the market value on the date the capital asset is taken into the trading stock.
+
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 25 -->
 
 <!-- marginal: 02/11/2023 11:00 PM -->
 
@@ -925,6 +921,8 @@ was made in good faith and in the ordinary course of the discharge of the duties
 (9) Where for any year of assessment any goods sold or services performed by a person involves the issuance of credit note or debit note, the person issuing the credit note or debit note shall make adjustments in ascertaining his chargeable income for that year of assessment accordingly.
 
 (10) A person may, in respect of any goods sold or services performed by him in any year of assessment, add any additional particulars to the electronic invoice under this section.
+
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 29 -->
 
 <!-- marginal: 02/11/2023 11:00 PM -->
 
@@ -1090,6 +1088,8 @@ was made in good faith and in the ordinary course of the discharge of the duties
 
 “Adjusted Asset Gain” means, in respect of Aggregate Asset Gain that is subject to an election under subsections 165(16) to (19), an amount equal to the Aggregate Asset Gain in the Election Year, reduced by any amount of such gain that has been applied against the Net Asset Loss in a prior Loss Year under paragraph 165(18)(b) or (c);
 
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 35 -->
+
 <!-- marginal: 02/11/2023 11:00 PM -->
 
 <!-- page 36 -->
@@ -1131,6 +1131,8 @@ was made in good faith and in the ordinary course of the discharge of the duties
 but does not include an Excluded Entity;
 
 “Constituent Entity-owner” means a Constituent Entity that directly or indirectly owns an Ownership Interest in another Constituent Entity of the same Multinational Enterprise Group;
+
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 37 -->
 
 <!-- marginal: 02/11/2023 11:00 PM -->
 
@@ -1175,6 +1177,8 @@ but does not include any amount of—
 “Disqualified Refundable Imputation Tax” means any amount of Tax, other than a Qualified Imputation Tax, accrued or paid by a Constituent Entity that is—
 
 (a) refundable to the beneficial owner of a dividend distributed by such Constituent Entity in respect of that dividend or creditable by the beneficial owner against a tax liability other than a tax liability in respect of such dividend; or
+
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 39 -->
 
 <!-- marginal: 02/11/2023 11:00 PM -->
 
@@ -1234,6 +1238,8 @@ but does not include any amount of—
 
 (b) an International Organisation;
 
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 41 -->
+
 <!-- marginal: 02/11/2023 11:00 PM -->
 
 <!-- page 42 -->
@@ -1256,6 +1262,8 @@ but does not include any amount of—
 
 (ii) where at least eighty-five per cent of the value of the Entity is owned directly or through a chain of Excluded Entities, by one or more Excluded Entities referred above other than a Pension Services Entity provided that substantially all of the Entity’s income is Excluded Dividends or Excluded Equity Gain or Loss that is excluded from the computation of GloBE Income or Loss in accordance with this Part;
 
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 42 -->
+
 <!-- marginal: 02/11/2023 11:00 PM -->
 
 <!-- page 43 -->
@@ -1275,6 +1283,8 @@ but does not include any amount of—
 “Financial Year” means an accounting period with respect to which the Ultimate Parent Entity of the Multinational Enterprise Group prepares its Consolidated Financial Statements and in the case of Consolidated Financial Statements as defined in paragraph (d) of the definition of “Consolidated Financial Statements”, Financial Year means the calendar year;
 
 “Five-Year Election” means an election in the prescribed form made by a Filing Constituent Entity and furnished to the Director General with respect to a Financial Year (hereinafter referred to as the “election year”) that cannot be revoked with respect to the election year or the four succeeding Financial Years and if revoked with respect to a Financial Year (hereinafter referred to as the “revocation year”), a new election cannot be made with respect to the four Financial Years succeeding the revocation year;
+
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 43 -->
 
 <!-- marginal: 02/11/2023 11:00 PM -->
 
@@ -1318,6 +1328,8 @@ but does not include any amount of—
 
 (a) the commentary on the GloBE Model Rules published by the Organisation for Economic Co-operation and Development/G20 Inclusive Framework on Base Erosion and Profit Shifting as “Tax Challenges Arising from the Digitalisation of the Economy – Commentary to the Global Anti-Base Erosion Model Rules (Pillar Two)”; and
 
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 45 -->
+
 <!-- marginal: 02/11/2023 11:00 PM -->
 
 <!-- page 46 -->
@@ -1344,6 +1356,8 @@ but does not include any amount of—
 
 (i) included in the Consolidated Financial Statements of the Ultimate Parent Entity; or
 
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 46 -->
+
 <!-- marginal: 02/11/2023 11:00 PM -->
 
 <!-- page 47 -->
@@ -1363,6 +1377,8 @@ but does not include any amount of—
 “Insurance Investment Entity” means an Entity that would meet the definition of an Investment Fund or a Real Estate Investment Vehicle except that it is established in relation to liabilities under an insurance or annuity contract and is wholly-owned by an Entity that is subject to regulation in its location as an insurance company;
 
 “Intermediate Parent Entity” means a Constituent Entity (other than an Ultimate Parent Entity, Partially-Owned Parent Entity, Permanent Establishment, or Investment Entity) which owns (directly or indirectly) an Ownership Interest in another Constituent Entity in the same Multinational Enterprise Group;
+
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 47 -->
 
 <!-- marginal: 02/11/2023 11:00 PM -->
 
@@ -1414,6 +1430,8 @@ and shall not include net income obtained from the transportation of passengers 
 
 (c) it allows investors to reduce transaction, research, and analytical costs, or to spread risk collectively;
 
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 49 -->
+
 <!-- marginal: 02/11/2023 11:00 PM -->
 
 <!-- page 50 -->
@@ -1464,6 +1482,8 @@ and shall not include net income obtained from the transportation of passengers 
 
 “Low-Taxed Constituent Entity” means a Constituent Entity of the Multinational Enterprise Group that is located in a Low-Tax Jurisdiction or a Stateless Constituent Entity that, in respect of a Financial Year, has GloBE Income and is subject to an Effective Tax Rate as determined under Chapter 7 of this Part in that Financial Year that is lower than the Minimum Rate;
 
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 51 -->
+
 <!-- marginal: 02/11/2023 11:00 PM -->
 
 <!-- page 52 -->
@@ -1507,6 +1527,8 @@ and shall not include net income obtained from the transportation of passengers 
 (i) exclusively for religious, charitable, scientific, artistic, cultural, athletic, educational, or other similar purposes; or
 
 (ii) as a professional organisation, business league, chamber of commerce, labour organisation, agricultural or horticultural organisation, civic league or an organisation operated exclusively for the promotion of social welfare;
+
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 53 -->
 
 <!-- marginal: 02/11/2023 11:00 PM -->
 
@@ -1554,6 +1576,8 @@ but does not include any Entity carrying on a trade or business which is not dir
 
 (a) an Entity that is established and operated in a jurisdiction exclusively or almost exclusively to administer or provide retirement benefits and ancillary or incidental benefits to persons and regulated as such by that jurisdiction or one of its political subdivisions or local authorities or those benefits are secured or otherwise protected by national regulations and funded by a pool of assets held through a fiduciary
 
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 55 -->
+
 <!-- marginal: 02/11/2023 11:00 PM -->
 
 <!-- page 56 -->
@@ -1575,6 +1599,8 @@ arrangement or trustor to secure the fulfilment of the corresponding pension obl
 (b) if there is no applicable Tax Treaty in force, a place of business including a deemed place of business in respect of which a jurisdiction taxes under its domestic law the income attributable to such place of business on a net basis similar to the manner in which it taxes its own tax residents;
 
 (c) if a jurisdiction has no corporate income tax system, a place of business including a deemed place of business situated in that jurisdiction that would be treated as a permanent establishment in accordance
+
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 56 -->
 
 <!-- marginal: 02/11/2023 11:00 PM -->
 
@@ -1599,6 +1625,8 @@ with the OECD Model Tax Convention provided that such jurisdiction would have ha
 (d) provision of services to other shipping enterprises by engineers, maintenance staff, cargo handlers, catering staff, and customer services personnel;
 
 (e) investment income where the investment that generates the income is made as an integral part of the carrying on the business of operating the ships in international traffic;
+
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 57 -->
 
 <!-- marginal: 02/11/2023 11:00 PM -->
 
@@ -1635,6 +1663,8 @@ with the OECD Model Tax Convention provided that such jurisdiction would have ha
 (a) a refundable tax credit designed in a way such that it must be paid as cash or available as cash equivalents within four years from when a Constituent Entity satisfies the conditions for receiving the credit under the laws of the jurisdiction granting the credit;
 
 (b) a tax credit that is refundable in part to the extent it must be paid as cash or available as cash equivalents within four years from when a Constituent Entity satisfies the conditions for receiving the credit under the laws of the jurisdiction granting the credit; and
+
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 59 -->
 
 <!-- marginal: 02/11/2023 11:00 PM -->
 
@@ -1683,6 +1713,8 @@ with the OECD Model Tax Convention provided that such jurisdiction would have ha
 (4) A Flow-through Entity is a Reverse Hybrid Entity with respect to its income, expenditure, profit or loss to the extent that it is not fiscally transparent in the jurisdiction in which the owner is located.
 
 (5) An Entity is treated as fiscally transparent under the laws of a jurisdiction, if that jurisdiction treats the income, expenditure, profit or loss of that Entity as if it were derived or incurred by the direct owner of that Entity in proportion to its interest in that Entity.
+
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 61 -->
 
 <!-- marginal: 02/11/2023 11:00 PM -->
 
@@ -1734,6 +1766,8 @@ with the OECD Model Tax Convention provided that such jurisdiction would have ha
 
 (ii) if the Tax Treaty requires the competent authorities to reach a mutual agreement on the deemed residence of the Constituent Entity for the purposes of the Tax Treaty and no agreement exists, then paragraph (b) shall apply;
 
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 63 -->
+
 <!-- marginal: 02/11/2023 11:00 PM -->
 
 <!-- page 64 -->
@@ -1774,11 +1808,9 @@ of the Tax
 
 ### Domestic Top-up Tax
 
-159. Notwithstanding section 160 and Chapter 4 of this Part, an income tax to be known as Domestic Top-up Tax shall be charged for each Financial Year on a Low-Taxed Constituent Entity located in Malaysia of a Multinational Enterprise Group in an amount equal to the Multinational Top-up Tax of a Constituent Entity as calculated under
+159. Notwithstanding section 160 and Chapter 4 of this Part, an income tax to be known as Domestic Top-up Tax shall be charged for each Financial Year on a Low-Taxed Constituent Entity located in Malaysia of a Multinational Enterprise Group in an amount equal to the Multinational Top-up Tax of a Constituent Entity as calculated under Chapter 7 of this Part for a Financial Year and for that purpose the provisions of this Part shall apply accordingly with any necessary modifications to determine liability to and to administer Domestic Top-up Tax.
 
-## Chapter 7 of this Part for a Financial Year and for that
-
-purpose the provisions of this Part shall apply accordingly with any necessary modifications to determine liability to and to administer Domestic Top-up Tax.
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 65 -->
 
 <!-- marginal: 02/11/2023 11:00 PM -->
 
@@ -1828,6 +1860,8 @@ B is the amount of such income attributable to Ownership Interests held by other
 
 C is the GloBE Income of the Low-Taxed Constituent Entity for the Financial Year.
 
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 67 -->
+
 <!-- marginal: 02/11/2023 11:00 PM -->
 
 <!-- page 68 -->
@@ -1865,6 +1899,8 @@ C is the GloBE Income of the Low-Taxed Constituent Entity for the Financial Year
 (b) the information contained in the financial accounts is reliable; and
 
 (c) permanent differences in excess of one million euro that arise from the application of a particular principle or standard to items of income or expense or transactions that differs from the financial standard used in the preparation of the Consolidated Financial Statements of the Ultimate Parent Entity are conformed to the treatment required under the accounting standard used in the Consolidated Financial Statements of the Ultimate Parent Entity.
+
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 69 -->
 
 <!-- marginal: 02/11/2023 11:00 PM -->
 
@@ -1916,6 +1952,8 @@ C is the GloBE Income of the Low-Taxed Constituent Entity for the Financial Year
 
 (11) Non-Qualified Refundable Tax Credits shall not be treated as income in the computation of GloBE Income or Loss of a Constituent Entity.
 
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 71 -->
+
 <!-- marginal: 02/11/2023 11:00 PM -->
 
 <!-- page 72 -->
@@ -1958,6 +1996,8 @@ C is the GloBE Income of the Low-Taxed Constituent Entity for the Financial Year
 
 (d) any Adjusted Asset Gain that remains after the application of paragraphs (b) and (c) shall be allocated evenly to each Financial Year in the Look-back Period;
 
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 73 -->
+
 <!-- marginal: 02/11/2023 11:00 PM -->
 
 <!-- page 74 -->
@@ -1997,6 +2037,8 @@ C is the Net Asset Gain of all specified Constituent Entities in the Election Ye
 (b) an increase to the equity of a Constituent Entity attributable to distributions received or receivable in respect of Additional Tier One Capital or Restricted Tier One Capital held by the Constituent Entity shall be included in the computation of its GloBE Income or Loss.
 
 (25) A Constituent Entity’s Financial Accounting Net Income or Loss must be adjusted as necessary to reflect the requirements of the relevant provisions of Chapters 8 and 9 of this Part.
+
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 75 -->
 
 <!-- marginal: 02/11/2023 11:00 PM -->
 
@@ -2044,6 +2086,8 @@ C is the Net Asset Gain of all specified Constituent Entities in the Election Ye
 
 (b) any deferred tax asset attributable to a loss for the Financial Year;
 
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 77 -->
+
 <!-- marginal: 02/11/2023 11:00 PM -->
 
 <!-- page 78 -->
@@ -2088,6 +2132,8 @@ C is the Net Asset Gain of all specified Constituent Entities in the Election Ye
 
 (3) The aggregated Qualified Ancillary International Shipping Income of all Constituent Entities located in a jurisdiction shall not exceed fifty per cent of the International Shipping Income of those Constituent Entities.
 
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 79 -->
+
 <!-- marginal: 02/11/2023 11:00 PM -->
 
 <!-- page 80 -->
@@ -2123,6 +2169,8 @@ C is the Net Asset Gain of all specified Constituent Entities in the Election Ye
 (a) its income used for computing Financial Accounting Net Income or Loss is the income being exempted in the jurisdiction where the Main Entity is located and attributable to the operations conducted outside that jurisdiction; and
 
 (b) its expenses used for computing Financial Accounting Net Income or Loss are those that are not deducted for taxable purposes in the jurisdiction where the Main Entity is located and that are attributable to such operations.
+
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 81 -->
 
 <!-- marginal: 02/11/2023 11:00 PM -->
 
@@ -2167,6 +2215,8 @@ C is the Net Asset Gain of all specified Constituent Entities in the Election Ye
 169. (1) The Adjusted Covered Taxes of a Constituent Entity for the Financial Year shall be equal to the current tax expense accrued in its Financial Accounting Net Income or Loss with respect to Covered Taxes for the Financial Year adjusted by—
 
 (a) the net amount of its Additions to Covered Taxes for the Financial Year and Reductions to Covered Taxes for the Financial Year;
+
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 83 -->
 
 <!-- marginal: 02/11/2023 11:00 PM -->
 
@@ -2216,6 +2266,8 @@ C is the Net Asset Gain of all specified Constituent Entities in the Election Ye
 
 (a) the amount of any Covered Taxes included in the financial accounts of a Constituent Entity with respect to GloBE Income or Loss of a Permanent Establishment is allocated to the Permanent Establishment;
 
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 85 -->
+
 <!-- marginal: 02/11/2023 11:00 PM -->
 
 <!-- page 86 -->
@@ -2233,6 +2285,8 @@ C is the Net Asset Gain of all specified Constituent Entities in the Election Ye
 (a) the Covered Taxes allocated in respect of such Passive Income; or
 
 (b) the Multinational Top-up Tax Percentage for the Constituent Entity’s jurisdiction, determined without regard to the Covered Taxes incurred with respect to such Passive Income by the Constituent Entity- owner, multiplied by the amount of the Constituent Entity’s Passive Income that can be included under any Controlled Foreign Company Tax Regime or fiscal transparency rule.
+
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 86 -->
 
 <!-- marginal: 02/11/2023 11:00 PM -->
 
@@ -2261,6 +2315,8 @@ but only to the extent a Constituent Entity-owner is subject to tax on such inco
 ### Mechanism to address temporary differences
 
 171. (1) The Total Deferred Tax Adjustment Amount for a Constituent Entity for the Financial Year is equal to the deferred tax expense accrued in its financial accounts if the applicable tax rate is below the Minimum Rate or, in any
+
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 87 -->
 
 <!-- marginal: 02/11/2023 11:00 PM -->
 
@@ -2305,6 +2361,8 @@ other case, such deferred tax expense recast at the Minimum Rate, with respect t
 (a) any movement in deferred tax expense accrued in the financial accounts of a Constituent Entity which relates to an uncertain tax position; and
 
 (b) any movement in deferred tax expense accrued in the financial accounts of a Constituent Entity which relates to distributions from a Constituent Entity;
+
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 89 -->
 
 <!-- marginal: 02/11/2023 11:00 PM -->
 
@@ -2356,6 +2414,8 @@ B is the GloBE Losses of all Constituent Entities.
 
 (6) The GloBE Loss Deferred Tax Asset must be used in any subsequent Financial Year in which there is Net GloBE Income for the jurisdiction in an amount equal to the lower of the Net GloBE Income multiplied by the Minimum Rate or the amount of available GloBE Loss Deferred Tax Asset.
 
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 91 -->
+
 <!-- marginal: 02/11/2023 11:00 PM -->
 
 <!-- page 92 -->
@@ -2393,6 +2453,8 @@ B is the GloBE Losses of all Constituent Entities.
 (8) The adjustment under subsection (7) is limited to an amount that is equal to an increase of deferred tax expense up to such deferred tax expense recast at the Minimum Rate.
 
 (9) Where more than one million euro of the amount accrued by a Constituent Entity as current tax expense and included in Adjusted Covered Taxes for a Financial Year is not paid within three years of the last day of such year, the Effective Tax Rate and Multinational Top-up Tax for the Financial Year in which the unpaid amount was claimed as a Covered Tax must be recalculated in accordance with subsection 181(1) by excluding such unpaid amount from Adjusted Covered Taxes.
+
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 93 -->
 
 <!-- marginal: 02/11/2023 11:00 PM -->
 
@@ -2450,6 +2512,8 @@ where A is the Net GloBE Income as determined under subsection 174(4) for the ju
 
 B is the Substance-based Income Exclusion as determined under section 180 for the jurisdiction for the Financial Year, if any.
 
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 95 -->
+
 <!-- marginal: 02/11/2023 11:00 PM -->
 
 <!-- page 96 -->
@@ -2498,6 +2562,8 @@ B A X C
 
 where A is the jurisdictional Top-up Tax as determined in accordance with subsection 177(1) or (2), as the case may be, for the jurisdiction for the Financial Year;
 
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 97 -->
+
 <!-- marginal: 02/11/2023 11:00 PM -->
 
 <!-- page 98 -->
@@ -2536,6 +2602,8 @@ C is the aggregate GloBE Income of all Constituent Entities that have GloBE Inco
 
 (8) The carrying value of tangible assets attributable to a Constituent Entity’s excess income over the limit for Qualified Ancillary International Shipping Income under subsection 166(3) shall be included in the tangible asset carve-out computation.
 
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 99 -->
+
 <!-- marginal: 02/11/2023 11:00 PM -->
 
 <!-- page 100 -->
@@ -2569,6 +2637,8 @@ C is the aggregate GloBE Income of all Constituent Entities that have GloBE Inco
 (b) any amount of incremental Multinational Top-up Tax resulting from such recalculation shall be treated as Additional Current Multinational Top-up Tax under section 177 arising in the current Financial Year.
 
 (2) If there is Additional Current Multinational Top-up Tax attributable to a recalculation under subsection (1) and the jurisdiction does not have Net GloBE Income for the current Financial Year, the GloBE Income of each Constituent Entity located in the jurisdiction for the purposes of subsection 162(2) sh all be equ al to th e result o f th e M ultina tion a l Top-up Tax allocated to such Entity under sections 178 and 179 divided by the Minimum Rate.
+
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 101 -->
 
 <!-- marginal: 02/11/2023 11:00 PM -->
 
@@ -2624,6 +2694,8 @@ C is the Adjusted Covered Taxes.
 
 (5) An election under this section shall not apply to a Constituent Entity that is a Stateless Constituent Entity or an Investment Entity and the revenue and GloBE Income or Loss of a Stateless Constituent Entity and of an Investment Entity shall be excluded from the computations in subsection (4).
 
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 103 -->
+
 <!-- marginal: 02/11/2023 11:00 PM -->
 
 <!-- page 104 -->
@@ -2672,6 +2744,8 @@ structures
 
 (b) where an Entity that is not a member of any Group (hereinafter referred to as “acquirer”) acquires or merges with an Entity or Group (hereinafter referred to as “target”) in the tested Financial Year and the target or acquirer does not have Consolidated Financial Statements in any of the four Financial Years prior to the tested Financial Year because it was not a member of any Group in that year, the consolidated revenue threshold of the Multinational Enterprise Group is deemed to be met for that year if the sum of the revenue included in each of their Financial Statements or Consolidated Financial Statements for that year is equal to or greater than seven hundred and fifty million euro;
 
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 105 -->
+
 <!-- marginal: 02/11/2023 11:00 PM -->
 
 <!-- page 106 -->
@@ -2692,6 +2766,8 @@ structures
 
 (b) a demerger is any arrangement where the Group Entities of a single Group are separated into two or more Groups that are no longer consolidated by the same Ultimate Parent Entity.
 
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 106 -->
+
 <!-- marginal: 02/11/2023 11:00 PM -->
 
 <!-- page 107 -->
@@ -2711,6 +2787,8 @@ structures
 (d) the computation of the Eligible Payroll Costs of the target Entity under subsection 180(4) shall take into account only those costs reflected in the Consolidated Financial Statements of the Ultimate Parent Entity;
 
 (e) the computation of carrying value of the Eligible Tangible Assets of the target entity for the purposes of subsections 180(5) to (8) shall be adjusted proportionally to correspond with the length of the relevant Financial Year that the target Entity was a member of the Multinational Enterprise Group;
+
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 107 -->
 
 <!-- marginal: 02/11/2023 11:00 PM -->
 
@@ -2743,6 +2821,8 @@ structures
 (a) the disposing Constituent Entity will include gain or loss on the disposition in its GloBE Income or Loss computation to the extent of the Non-qualifying Gain or Loss; and
 
 (b) an acquiring Constituent Entity will determine its GloBE Income or Loss after the acquisition using the disposing Entity’s carrying value of the acquired assets and liabilities upon disposition adjusted consistent with local tax rules to account for the Non-qualifying Gain or Loss.
+
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 109 -->
 
 <!-- marginal: 02/11/2023 11:00 PM -->
 
@@ -2778,6 +2858,8 @@ structures
 
 (3) For the purposes of this section, “Joint Venture Group Top-up Tax” means the Ultimate Parent Entity’s Allocable Share of the Multinational Top-up Tax of all members of the Joint Venture Group.
 
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 111 -->
+
 <!-- marginal: 02/11/2023 11:00 PM -->
 
 <!-- page 112 -->
@@ -2797,6 +2879,8 @@ structures
 (e) the Parent Entities of the Multi-Parented Multinational Enterprise Group including each Ultimate Parent Entity located in Malaysia shall apply the Income Inclusion Rule in accordance with Chapter 4 of this Part with respect to their Allocable Share of the Top-up Tax of the Low-Taxed Constituent Entity; and
 
 (f) the Ultimate Parent Entities are required to submit the information return in accordance with section 201, unless they appoint a single Designated Filing Entity and that return shall include the information concerning each of the Groups that comprise the Multi-Parented Multinational Enterprise Group.
+
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 112 -->
 
 <!-- marginal: 02/11/2023 11:00 PM -->
 
@@ -2824,6 +2908,8 @@ structures
 
 (b) at least one Entity or Permanent Establishment of the combined Group is located in a different jurisdiction with respect to the location of the other Entities of the combined Group;
 
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 113 -->
+
 <!-- marginal: 02/11/2023 11:00 PM -->
 
 <!-- page 114 -->
@@ -2834,7 +2920,7 @@ structures
 
 (b) one of those Ultimate Parent Entities prepares Consolidated Financial Statements in which the assets, liabilities, income, expenses and cash flows of all the Entities of the Groups are presented together as those of a single economic unit and that are required by a regulatory regime to be externally audited.
 
-## Chapter 9 – Tax neutrality and distribution regimes
+Chapter 9 – Tax neutrality and distribution regimes
 
 ### Ultimate Parent Entity that is a Flow-through Entity
 
@@ -2865,6 +2951,8 @@ structures
 (2) In computing its GloBE Loss for a Financial Year, a Flow-through Entity that is the Ultimate Parent Entity of a Multinational Enterprise Group shall reduce its GloBE Loss for such Financial Year by the amount of GloBE Loss attributable to each Ownership Interest, except to the extent that the holders of Ownership Interests are not allowed to use the loss in computing their separate taxable income.
 
 (3) A Flow-through Entity that reduces its GloBE Income pursuant to subsection (1) shall reduce its Covered Taxes proportionally.
+
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 115 -->
 
 <!-- marginal: 02/11/2023 11:00 PM -->
 
@@ -2914,6 +3002,8 @@ structures
 
 (3) If the Ultimate Parent Entity holds an Ownership Interest in another Constituent Entity subject to the Deductible Dividend Regime directly or through a chain of such Constituent Entities, subsections (1) and (2) shall apply to each other Constituent Entity in the Ultimate Parent Entity Jurisdiction that is subject to the Deductible Dividend Regime to the extent that its GloBE Income is further distributed by the Ultimate Parent Entity to recipients that meet the requirements of subsection (1).
 
+<!-- marginal: WJW23/1135 Teks 1 (BI).indd 117 -->
+
 <!-- marginal: 02/11/2023 11:00 PM -->
 
 <!-- page 118 -->
@@ -2960,6 +3050,8 @@ structures
 
 (6) A Recapture Account Loss Carry-forward shall be established for the jurisdiction when the amount described in paragraph (5)(b) exceeds the outstanding balance of the Deemed Distribution Tax Recapture Accounts.
 
+<!-- marginal: WJW23/1135 Teks 2 (BI).indd 119 -->
+
 <!-- marginal: 02/11/2023 11:01 PM -->
 
 <!-- page 120 -->
@@ -3001,6 +3093,8 @@ B is the Net Income of the Jurisdiction as determined in accordance with subsect
 (b) the amount of distribution tax that would have been due if the Constituent Entities located in the jurisdiction had distributed all of their income that is subject to the Eligible Distribution Tax Regime during such year;
 
 “Deemed Distribution Tax Recapture Account” means an account maintained in accordance with subsections (3) to (5);
+
+<!-- marginal: WJW23/1135 Teks 2 (BI).indd 121 -->
 
 <!-- marginal: 02/11/2023 11:01 PM -->
 
@@ -3052,6 +3146,8 @@ B is the Effective Tax Rate of the Investment Entity.
 
 (10) If there is more than one Investment Entity located in the jurisdiction, the Investment Entity’s GloBE Income and the Substance-based Income Exclusion determined for each such Investment Entity are combined to compute the Multinational Top-up Tax Percentage of all such Investment Entities.
 
+<!-- marginal: WJW23/1135 Teks 2 (BI).indd 123 -->
+
 <!-- marginal: 02/11/2023 11:01 PM -->
 
 <!-- page 124 -->
@@ -3089,6 +3185,8 @@ B is the Effective Tax Rate of the Investment Entity.
 (d) the Investment Entity’s GloBE Income or Loss for the Financial Year and any Adjusted Covered Taxes attributable to such income are excluded from all Effective Tax Rate computations under Chapter 7 of this Part and subsections 192(2) to (10), except as provided in paragraph (b).
 
 (3) The Undistributed Net GloBE Income for the Tested Year cannot be reduced by distributions or deemed distributions to the extent that such distributions were treated as a reduction to Undistributed Net GloBE Income of a previous Tested Year.
+
+<!-- marginal: WJW23/1135 Teks 2 (BI).indd 125 -->
 
 <!-- marginal: 02/11/2023 11:01 PM -->
 
@@ -3138,6 +3236,8 @@ year is treated as GloBE Income of the Investment Entity for the revocation year
 
 (a) Malaysia could be allocated Multinational Top-up Tax under this Part if the Effective Tax Rate for the safe harbour jurisdiction computed in accordance with Chapter 7 of this Part was below the Minimum Rate;
 
+<!-- marginal: WJW23/1135 Teks 2 (BI).indd 127 -->
+
 <!-- marginal: 02/11/2023 11:01 PM -->
 
 <!-- page 128 -->
@@ -3181,6 +3281,8 @@ year is treated as GloBE Income of the Investment Entity for the revocation year
 ### Rate
 
 2025 9.6% 2026 9.4% 2027 9.2% 2028 9.0% 2029 8.2% 2030 7.4% 2031 6.6% 2032 5.8%
+
+<!-- marginal: WJW23/1135 Teks 2 (BI).indd 129 -->
 
 <!-- marginal: 02/11/2023 11:01 PM -->
 
@@ -3240,6 +3342,8 @@ year is treated as GloBE Income of the Investment Entity for the revocation year
 
 (4) Subsection 235(2) shall apply to a penalty imposed by subsection (3) of this section as it applies to a penalty imposed by subsection 225(5) or 227(2).
 
+<!-- marginal: WJW23/1135 Teks 2 (BI).indd 131 -->
+
 <!-- marginal: 02/11/2023 11:01 PM -->
 
 <!-- page 132 -->
@@ -3286,6 +3390,8 @@ year is treated as GloBE Income of the Investment Entity for the revocation year
 
 (b) a Designated Filing Entity that is located in a jurisdiction that has a Qualifying Competent Authority Agreement in effect with the Government for the Reporting Financial Year and the Multinational Enterprise Group has elected to appoint that Designated Filing Entity to furnish to the Director General the information return referred to in subsection (1), on its behalf.
 
+<!-- marginal: WJW23/1135 Teks 2 (BI).indd 133 -->
+
 <!-- marginal: 02/11/2023 11:01 PM -->
 
 <!-- page 134 -->
@@ -3304,9 +3410,7 @@ year is treated as GloBE Income of the Investment Entity for the revocation year
 
 (iii) the information necessary to compute—
 
-(A) the Effective Tax Rate for each jurisdiction and the Domestic Top-up Tax or Multinational Top-up Tax of each Constituent Entity under
-
-## Chapter 7 of this Part;
+(A) the Effective Tax Rate for each jurisdiction and the Domestic Top-up Tax or Multinational Top-up Tax of each Constituent Entity under Chapter 7 of this Part;
 
 (B) the Domestic Top-up Tax or Multinational Top-up Tax of a member of the Joint Venture Group under Chapter 8 of this Part;
 
@@ -3335,6 +3439,8 @@ year is treated as GloBE Income of the Investment Entity for the revocation year
 202. (1) Every Constituent Entity of a Multinational Enterprise Group shall for each Reporting Financial Year furnish to the Director General a Top-up Tax return in the prescribed form not later than fifteen months from the last day of the Reporting Financial Year.
 
 (2) For the purposes of this section, a Constituent Entity shall furnish to the Director General a Top-up Tax return in the prescribed form on an electronic medium or by way of electronic transmission in accordance with section 152a.
+
+<!-- marginal: WJW23/1135 Teks 2 (BI).indd 135 -->
 
 <!-- marginal: 02/11/2023 11:01 PM -->
 
@@ -3392,6 +3498,8 @@ no amendment shall be allowed under this section.
 
 (d) to provide in writing such information or particulars which the Director General thinks necessary.
 
+<!-- marginal: WJW23/1135 Teks 2 (BI).indd 137 -->
+
 <!-- marginal: 02/11/2023 11:01 PM -->
 
 <!-- page 138 -->
@@ -3433,6 +3541,8 @@ no amendment shall be allowed under this section.
 (2) Where a Constituent Entity referred to in subsection (1) has not furnished a return as required under this Part for a Reporting Financial Year, that Constituent Entity shall keep and retain the documents referred to in subsection (1) that relate to that Financial Year for a period of seven years after the end of the year in which the return is furnished.
 
 (3) The Director General may specify by statutory order in respect of any class or description of business (or by notice under his hand in respect of the business of any particular Constituent Entity) the form of records to be kept under subsection (1) and the manner in which they shall be kept and retained.
+
+<!-- marginal: WJW23/1135 Teks 2 (BI).indd 139 -->
 
 <!-- marginal: 02/11/2023 11:01 PM -->
 
@@ -3486,6 +3596,8 @@ no amendment shall be allowed under this section.
 
 (b) the deemed notice of assessment shall be deemed to have been served on the Constituent Entity on the day on which the Director General is deemed to have made the assessment.
 
+<!-- marginal: WJW23/1135 Teks 2 (BI).indd 141 -->
+
 <!-- marginal: 02/11/2023 11:01 PM -->
 
 <!-- page 142 -->
@@ -3535,6 +3647,8 @@ the tax or additional tax being the amounts as specified in the amended return.
 (2) For the purposes of this Act, where the Director General is deemed to have made an assessment or additional assessment under subsection (1)—
 
 (a) the amended return referred to in that subsection shall be deemed to be a notice of assessment or additional assessment; and
+
+<!-- marginal: WJW23/1135 Teks 2 (BI).indd 143 -->
 
 <!-- marginal: 02/11/2023 11:01 PM -->
 
@@ -3598,6 +3712,8 @@ and, where that form appears to have been duly completed the assessment shall, u
 
 (a) has defaulted in furnishing a return in accordance with subsection 201(1) or 202(1);
 
+<!-- marginal: WJW23/1135 Teks 2 (BI).indd 145 -->
+
 <!-- marginal: 02/11/2023 11:01 PM -->
 
 <!-- page 146 -->
@@ -3646,6 +3762,8 @@ for any Financial Year or Financial Years (that year or those years being referr
 
 (a) no valid notice of appeal against an assessment of the Domestic Top-up Tax or Multinational Top-up Tax has been given under section 219 within the time specified by that section (or any extension thereof);
 
+<!-- marginal: WJW23/1135 Teks 2 (BI).indd 147 -->
+
 <!-- marginal: 02/11/2023 11:01 PM -->
 
 <!-- page 148 -->
@@ -3690,6 +3808,8 @@ Top-up Tax or Multinational Top-up Tax
 
 (4) Where any tax due and payable under subsection (1) has not been paid by the due date, so much of the tax as is unpaid upon the expiration of that date shall without any further notice being served be increased by a sum equal to ten per cent of the tax so unpaid, and that sum shall be recoverable as if it were tax due and payable under this Part.
 
+<!-- marginal: WJW23/1135 Teks 2 (BI).indd 149 -->
+
 <!-- marginal: 02/11/2023 11:01 PM -->
 
 <!-- page 150 -->
@@ -3731,6 +3851,8 @@ Top-up Tax or Multinational Top-up Tax
 (b) that Constituent Entity is deemed to have been notified of the excess amount on the day that return is furnished.
 
 (3) No claim for repayment under this section shall be valid unless it is made within five Financial Years after the end of the Financial Year to which the claim relates or, where the claim relates to repayment of tax charged by an assessment, within five Financial Years after the end of the Financial Year within which that assessment was made.
+
+<!-- marginal: WJW23/1135 Teks 2 (BI).indd 151 -->
 
 <!-- marginal: 02/11/2023 11:01 PM -->
 
@@ -3774,6 +3896,8 @@ Top-up Tax or Multinational Top-up Tax
 
 (3) In any prosecution under subsection (1) or (2) the burden of proving that a Top-up Tax return has been furnished shall be upon the Constituent Entity.
 
+<!-- marginal: WJW23/1135 Teks 2 (BI).indd 153 -->
+
 <!-- marginal: 02/11/2023 11:01 PM -->
 
 <!-- page 154 -->
@@ -3807,6 +3931,8 @@ Top-up Tax or Multinational Top-up Tax
 (b) Constituent Entity or any natural person that gives any incorrect information in relation to any matter affecting the chargeability to tax of that Constituent Entity or the chargeability to tax of another Constituent Entity,
 
 shall, be guilty of an offence and shall, on conviction, be liable to a fine of not less than twenty thousand ringgit and not more than one hundred thousand ringgit and shall pay a special penalty of double the amount of tax which has been undercharged in consequence of the incorrect Top-up Tax return or incorrect information or which would have been undercharged if the return or information had been accepted as correct.
+
+<!-- marginal: WJW23/1135 Teks 2 (BI).indd 155 -->
 
 <!-- marginal: 02/11/2023 11:01 PM -->
 
@@ -3847,6 +3973,8 @@ shall be guilty of an offence and shall, on conviction, be liable to a fine of n
 (2) Any natural person or Constituent Entity who assists in, or advises with respect to, the preparation of any return under section 201 or 202 where the return results in an understatement of the liability for tax of a Constituent Entity shall, unless he satisfies the court that the assistance or advice was given with reasonable care, be guilty of an offence and shall, on conviction, be liable to a fine of not less than twenty thousand ringgit and not more than one hundred thousand ringgit or to imprisonment for a term not exceeding three years or to both.
 
 (3) Where in any proceedings under this section it is proved that a false statement or false entry (whether by omission or otherwise) has been made in a return furnished under section 201 or 202 by or on behalf of any Constituent Entity or in any books of account or other records maintained by or on behalf of any Constituent Entity, that natural person or Constituent Entity shall be presumed until the contrary is proved to have made that false statement or entry with intent to evade tax.
+
+<!-- marginal: WJW23/1135 Teks 2 (BI).indd 157 -->
 
 <!-- marginal: 02/11/2023 11:01 PM -->
 
@@ -3902,6 +4030,8 @@ shall be guilty of an offence and shall, on conviction, be liable to a fine of n
 
 (2) Where a natural person or Constituent Entity has been convicted of an offence under subsection (1), the court may make a further order that the natural person or Constituent Entity shall comply with the relevant provision of this Act under which the offence has been committed within thirty days, or such other period as the court thinks fit, from the date the order is made.
 
+<!-- marginal: WJW23/1135 Teks 2 (BI).indd 159 -->
+
 <!-- marginal: 02/11/2023 11:01 PM -->
 
 <!-- page 160 -->
@@ -3956,6 +4086,8 @@ and any tax so remitted shall not be regarded as tax payable for the purposes of
 
 238. If any Constituent Entity who has paid tax for any Financial Year alleges that an assessment relating to that Financial Year is excessive by reason of some error or mistake in a return or statement made by it for the purposes of this Part and furnished by it to the Director General prior to the
 
+<!-- marginal: WJW23/1135 Teks 2 (BI).indd 161 -->
+
 <!-- marginal: 02/11/2023 11:01 PM -->
 
 <!-- page 162 -->
@@ -3978,9 +4110,7 @@ assessment becoming final and conclusive, the Constituent Entity may within five
 
 ### Amendment of Schedule 1
 
-31. Schedule 1 to the principal Act is amended by inserting after
-
-## Part XX the following part:
+31. Schedule 1 to the principal Act is amended by inserting after Part XX the following part:
 
 “Part XXI
 
@@ -4018,6 +4148,8 @@ Notwithstanding Part I, income tax shall be charged for a year of assessment on 
 
 (a) in subsubparagraph 13(1)(a), by substituting for the words “so long as the approval remains in force” the words “in the basis period for a year of assessment so long as the institution, organization or fund complies with the conditions of the approval in that basis period for that year of assessment”; and
 
+<!-- marginal: WJW23/1135 Teks 2 (BI).indd 163 -->
+
 <!-- marginal: 02/11/2023 11:01 PM -->
 
 <!-- page 164 -->
@@ -4042,7 +4174,7 @@ Notwithstanding Part I, income tax shall be charged for a year of assessment on 
 
 (b) bilateral credit, income derived from outside Malaysia and from Malaysia, charged to foreign tax.’.
 
-## ChaPter III
+## CHAPTER III
 
 ## AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976
 
@@ -4137,6 +4269,8 @@ no amendment shall be allowed under this section.”.
 (a) the return referred to in that subsection shall be deemed to be a notice of assessment; and
 
 (b) the deemed notice of assessment shall be deemed to have been served on the person on the day on which the Director General is deemed to have made the assessment.”.
+
+<!-- marginal: WJW23/1135 Teks 2 (BI).indd 167 -->
 
 <!-- marginal: 02/11/2023 11:01 PM -->
 
@@ -4240,6 +4374,8 @@ the tax or additional tax and the chargeable gains being respective amounts as s
 
 (b) the approval for any exemption, relief, remission, allowance or deduction is granted after the year of assessment in which the return is furnished,
 
+<!-- marginal: WJW23/1135 Teks 2 (BI).indd 171 -->
+
 <!-- marginal: 02/11/2023 11:01 PM -->
 
 <!-- page 172 -->
@@ -4293,6 +4429,8 @@ the assessment as made, agreed to or determined shall be final and conclusive fo
 “(1a) Where an assessment on a return has been made under subsection 14(1), the tax or additional tax payable under the assessment shall be due and payable within the period of sixty days from the date of disposal whether or not that person appeals against the assessment or additional assessment.
 
 (1b) Where an assessment on an amended return has been made under section 15a, the tax or additional tax payable under the assessment shall be due and payable on the day the amended return is furnished whether or not that person appeals against the assessment or additional assessment.”.
+
+<!-- marginal: WJW23/1135 Teks 2 (BI).indd 173 -->
 
 <!-- marginal: 02/11/2023 11:01 PM -->
 
@@ -4348,6 +4486,8 @@ being accounts which are in existence or have been in existence at any time duri
 
 (2) Where a person referred to in subsection (1) has not furnished a return as required under this Act for a year of assessment, that person shall keep and retain the documents referred to in subsection (1) which relate to that year of assessment for a period of seven years after the end of the year in which the return is furnished.
 
+<!-- marginal: WJW23/1135 Teks 2 (BI).indd 175 -->
+
 <!-- marginal: 02/11/2023 11:01 PM -->
 
 <!-- page 176 -->
@@ -4398,7 +4538,7 @@ being accounts which are in existence or have been in existence at any time duri
 
 “(5a) This paragraph shall not apply to an acquisition or a disposal of any shares by a company, limited liability partnership, trust body or co-operative society, other than a Labuan entity as provided under section 2b of the Labuan Business Activity Tax Act 1990, on or after 1 January 2024.”.
 
-## ChaPter IV
+## CHAPTER IV
 
 ## AMENDMENTS TO THE STAMP ACT 1949
 
@@ -4530,7 +4670,47 @@ being accounts which are in existence or have been in existence at any time duri
 
 (i) by inserting after paragraph (a) and the particulars relating to it the following paragraph and particulars:
 
-RM4.00 for “(aa) On sale of any property (except stock, shares, every RM100 marketable securities and or fractional accounts receivables or book part of RM100 debts of the kind mentioned in of the amount paragraph (c)) to a foreign of the money company or a person who value of the is not a citizen and not a consideration permanent resident or the market value of the property, whichever is the greater.
+<!-- marginal: RM4.00 for -->
+
+“(aa) On sale of any property (except stock, shares,
+
+<!-- marginal: every RM100 -->
+
+marketable securities and
+
+<!-- marginal: or fractional -->
+
+accounts receivables or book
+
+<!-- marginal: part of RM100 -->
+
+debts of the kind mentioned in
+
+<!-- marginal: of the amount -->
+
+paragraph (c)) to a foreign
+
+<!-- marginal: of the money -->
+
+company or a person who
+
+<!-- marginal: value of the -->
+
+is not a citizen and not a
+
+<!-- marginal: consideration -->
+
+permanent resident
+
+<!-- marginal: or the market -->
+
+<!-- marginal: value of the -->
+
+<!-- marginal: property, -->
+
+<!-- marginal: whichever is -->
+
+<!-- marginal: the greater. -->
 
 <!-- marginal: ”; and -->
 
@@ -4542,9 +4722,21 @@ RM4.00 for “(aa) On sale of any property (except stock, shares, every RM100 ma
 
 Of any property— “(h)
 
-(i) by way of gift (whether See Gift and by way of voluntary subsection 16(1) disposition or otherwise)
+(i) by way of gift (whether
 
-(ii) by way of release RM10.00 or renunciation by a beneficiary of a deceased estate to another beneficiary entitled under the same estate ”.
+<!-- marginal: See Gift and -->
+
+by way of voluntary
+
+<!-- marginal: subsection 16(1) -->
+
+disposition or otherwise)
+
+(ii) by way of release
+
+<!-- marginal: RM10.00 -->
+
+or renunciation by a beneficiary of a deceased estate to another beneficiary entitled under the same estate ”.
 
 ### Deletion of Second Schedule
 
@@ -4554,7 +4746,7 @@ Of any property— “(h)
 
 70. The principal Act is amended by deleting the Fifth Schedule.
 
-## ChaPter V
+## CHAPTER V
 
 ## AMENDMENTS TO THE PETROLEUM (INCOME TAX) ACT 1967
 
@@ -4616,6 +4808,8 @@ Provided further that where an area under a petroleum agreement is contiguous wi
 
 “(2) Notwithstanding any other provisions of this Act and for the purposes of the imposition of Domestic Top-up Tax or Multinational Top-up Tax and the implementation of the GloBE Rules, Part XI of the Income Tax Act 1967 shall also apply to a chargeable person who is a Constituent Entity that is a member of a Multinational Enterprise Group that has annual revenue of seven hundred and fifty million euro or more in the Consolidated Financial Statements of
 
+<!-- marginal: WJW23/1135 Teks 2 (BI).indd 184 -->
+
 <!-- marginal: 02/11/2023 11:01 PM -->
 
 <!-- page 185 -->
@@ -4676,6 +4870,8 @@ the Ultimate Parent Entity in at least two of the four consecutive Financial Yea
 
 57b. Any person who, without reasonable excuse, contravenes subsection 34b(1) or (6), shall be guilty of an offence and shall, on conviction, be liable to a fine of not less than two hundred ringgit and not more than twenty thousand ringgit or to imprisonment for a term not exceeding six months or to both.”.
 
+<!-- marginal: WJW23/1135 Teks 2 (BI).indd 187 -->
+
 <!-- marginal: 02/11/2023 11:01 PM -->
 
 <!-- page 188 -->
@@ -4708,7 +4904,7 @@ the Ultimate Parent Entity in at least two of the four consecutive Financial Yea
 
 <!-- page 189 -->
 
-## ChaPter VI
+## CHAPTER VI
 
 ## AMENDMENTS TO THE LABUAN BUSINESS ACTIVITY
 
@@ -4784,6 +4980,8 @@ Provided that the record or the copy or print-out is—
 
 “(aa) the disclosure of information in relation to electronic invoice to the Director General of Customs and Excise (or to the public officers under his direction and control) or the use of information in relation to electronic invoice by the Director General of Customs and Excise, to such an extent as is necessary or expedient for the exercise of his function; and”.
 
+<!-- marginal: WJW23/1135 Teks 2 (BI).indd 191 -->
+
 <!-- marginal: 02/11/2023 11:01 PM -->
 
 <!-- page 192 -->
@@ -4824,6 +5022,8 @@ in an electronic invoice provided that the error or omission was made in good fa
 
 (10) A person may, in respect of any goods sold or services performed by him in any year of assessment, add any additional particulars to the electronic invoice under this section.
 
+<!-- marginal: WJW23/1135 Teks 2 (BI).indd 193 -->
+
 <!-- marginal: 02/11/2023 11:01 PM -->
 
 <!-- page 194 -->
@@ -4838,7 +5038,7 @@ in an electronic invoice provided that the error or omission was made in good fa
 
 22ea. Any person who, without reasonable excuse, contravenes subsection 22da(1), (6) or (7), shall be guilty of an offence and shall, on conviction, be liable to a fine of not less than two hundred ringgit and not exceeding twenty thousand ringgit or to imprisonment for a term not exceeding six months or to both.”.
 
-## ChaPter VII
+## CHAPTER VII
 
 ## AMENDMENT TO THE ENTERTAINMENTS DUTY ACT 1953
 
@@ -4858,7 +5058,7 @@ in an electronic invoice provided that the error or omission was made in good fa
 
 <!-- page 195 -->
 
-## ChaPter VIII
+## CHAPTER VIII
 
 ## AMENDMENT TO THE CUSTOMS ACT 1967
 
@@ -4880,7 +5080,7 @@ in an electronic invoice provided that the error or omission was made in good fa
 
 (c) by deleting subsections (3), (4) and (5).
 
-## ChaPter IX
+## CHAPTER IX
 
 ## AMENDMENT TO THE EXCISE ACT 1976
 
@@ -4902,7 +5102,7 @@ in an electronic invoice provided that the error or omission was made in good fa
 
 (b) by deleting subsections (3), (4) and (5).
 
-## ChaPter X
+## CHAPTER X
 
 ## AMENDMENT TO THE GOODS VEHICLE LEVY ACT 1983
 
@@ -4918,7 +5118,7 @@ in an electronic invoice provided that the error or omission was made in good fa
 
 “(3) Any order made under subsection (2) shall be laid before the Dewan Rakyat.”.
 
-## ChaPter XI
+## CHAPTER XI
 
 ## AMENDMENT TO THE WINDFALL PROFIT LEVY ACT 1998
 
@@ -4940,7 +5140,7 @@ in an electronic invoice provided that the error or omission was made in good fa
 
 <!-- page 197 -->
 
-## ChaPter XII
+## CHAPTER XII
 
 ## AMENDMENTS TO THE TOURISM TAX ACT 2017
 
@@ -5036,7 +5236,7 @@ in an electronic invoice provided that the error or omission was made in good fa
 
 109. Section 70 of the principal Act is amended by deleting paragraph (2)(c).
 
-## ChaPter XIII
+## CHAPTER XIII
 
 ## AMENDMENTS TO THE SALES TAX ACT 2018
 
@@ -5154,7 +5354,7 @@ Section 35 1. Substitute for the words “taxable goods “ manufactured or impo
 
 <!-- page 204 -->
 
-## ChaPter XIV
+## CHAPTER XIV
 
 ## AMENDMENTS TO THE SERVICE TAX ACT 2018
 
@@ -5256,7 +5456,7 @@ Section 35 1. Substitute for the words “taxable goods “ manufactured or impo
 
 (b) by renumbering subsection (2) after the existing paragraph (2)(m) as subsection (3).
 
-## ChaPter XV
+## CHAPTER XV
 
 ## AMENDMENT TO THE DEPARTURE LEVY ACT 2019
 
@@ -5280,7 +5480,7 @@ This Bill seeks to amend the Income Tax Act 1967 (“Act 53”), the Real Proper
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
-## Chapter II of this Bill seeks to amend the Income Tax Act 1967.
+Chapter II of this Bill seeks to amend the Income Tax Act 1967.
 
 2. Clause 4 seeks to amend section 2 of Act 53.
 
@@ -5568,7 +5768,7 @@ This amendment has effect from the year of assessment 2024 and subsequent years 
 
 ## AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976
 
-## Chapter III of this Bill seeks to amend the Real Property Gains Tax Act 1976.
+Chapter III of this Bill seeks to amend the Real Property Gains Tax Act 1976.
 
 33. Clause 36 seeks to amend subsection 2(1) of Act 169 to introduce the definition of “business trust” and to include a business trust in the definition of “company”.
 
@@ -5670,7 +5870,7 @@ This amendment comes into operation on 1 January 2024.
 
 ## AMENDMENTS TO THE STAMP ACT 1949
 
-## Chapter IV of this Bill seeks to amend the Stamp Act 1949.
+Chapter IV of this Bill seeks to amend the Stamp Act 1949.
 
 47. Clause 52 seeks to amend section 2 of Act 378 to introduce a new definition of ‘ “writing” or “written” ‘ to provide that instrument includes an electronic instrument.
 
@@ -5752,7 +5952,7 @@ This amendment comes into operation on 1 January 2024.
 
 ## AMENDMENTS TO THE PETROLEUM (INCOME TAX) ACT 1967
 
-## Chapter V of this Bill seeks to amend the Petroleum (Income Tax) Act 1967.
+Chapter V of this Bill seeks to amend the Petroleum (Income Tax) Act 1967.
 
 61. Clause 72 seeks to amend section 2 of Act 543.
 
@@ -5768,11 +5968,7 @@ Paragraph 72(b) seeks to amend subsection 2(4) of Act 543 to provide that where 
 
 This amendment has effect for the year of assessment 2024 and subsequent years of assessment.
 
-62. Clause 73 seeks to introduce new subsections 3(2), (3) and (4) into Act 543 to provide that for the purposes of the imposition of Domestic Top-up Tax or Multinational Top-up Tax and the implementation of the GloBE Rules,
-
-## Part XI of the Income Tax Act 1967 shall apply to chargeable person who
-
-is a Constituent Entity that is a member of a Multinational Enterprise Group that has annual revenue of seven hundred and fifty million euro or more in the Consolidated Financial Statements of the Ultimate Parent Entity in at least two of the four consecutive Financial Years immediately preceding the tested Financial Year.
+62. Clause 73 seeks to introduce new subsections 3(2), (3) and (4) into Act 543 to provide that for the purposes of the imposition of Domestic Top-up Tax or Multinational Top-up Tax and the implementation of the GloBE Rules, Part XI of the Income Tax Act 1967 shall apply to chargeable person who is a Constituent Entity that is a member of a Multinational Enterprise Group that has annual revenue of seven hundred and fifty million euro or more in the Consolidated Financial Statements of the Ultimate Parent Entity in at least two of the four consecutive Financial Years immediately preceding the tested Financial Year.
 
 These amendments come into operation for the Financial Year beginning on or after 1 January 2025 and subsequent Financial Years.
 
@@ -5810,9 +6006,7 @@ This amendment comes into operation on the coming into operation of this Act.
 
 ## TAX ACT 1990
 
-## Chapter VI of this Bill seeks to amend the Labuan Business Activity Tax
-
-Act 1990.
+Chapter VI of this Bill seeks to amend the Labuan Business Activity Tax Act 1990.
 
 <!-- marginal: 02/11/2023 11:01 PM -->
 
@@ -5850,7 +6044,7 @@ This amendment comes into operation on 1 January 2024.
 
 ## AMENDMENT TO THE ENTERTAINMENTS DUTY ACT 1953
 
-## Chapter VII of this Bill seeks to amend the Entertainments Duty Act 1953.
+Chapter VII of this Bill seeks to amend the Entertainments Duty Act 1953.
 
 74. Clause 88 seeks to amend subsection 23(2) of Act 103 to substitute the requirement to obtain a resolution of the Dewan Rakyat for any regulations made under section 23 of Act 103 with the requirement to lay the regulations before the Dewan Rakyat.
 
@@ -5858,7 +6052,7 @@ This amendment comes into operation on the coming into operation of this Act.
 
 ## AMENDMENT TO THE CUSTOMS ACT 1967
 
-## Chapter VIII of this Bill seeks to amend the Customs Act 1967.
+Chapter VIII of this Bill seeks to amend the Customs Act 1967.
 
 75. Clause 90 seeks to amend subsection 11(2) of Act 235 and delete subsections 11(3), (4) and (5) of Act 235 respectively to substitute the requirement to obtain a resolution of the Dewan Rakyat for any order made under section 11 of Act 235 with the requirement to lay the order before the Dewan Rakyat.
 
@@ -5866,7 +6060,7 @@ This amendment comes into operation on the coming into operation of this Act.
 
 ## AMENDMENT TO THE EXCISE ACT 1976
 
-## Chapter IX of this Bill seeks to amend the Excise Act 1976.
+Chapter IX of this Bill seeks to amend the Excise Act 1976.
 
 76. Clause 92 seeks to amend subsection 6(2) of Act 176 and delete subsections 6(3), (4) and (5) of Act 176 respectively to substitute the requirement to obtain a resolution of the Dewan Rakyat for any order made under section 6 of Act 176 with the requirement to lay the order before the Dewan Rakyat.
 
@@ -5878,7 +6072,7 @@ This amendment comes into operation on the coming into operation of this Act.
 
 ## AMENDMENT TO THE GOODS VEHICLE LEVY ACT 1983
 
-## Chapter X of this Bill seeks to amend the Goods Vehicle Levy Act 1983.
+Chapter X of this Bill seeks to amend the Goods Vehicle Levy Act 1983.
 
 77. Clause 94 seeks to amend subsection 3(3) of Act 294 to substitute the requirement to obtain a resolution of the Dewan Rakyat for any order made under section 3 of Act 294 with the requirement to lay the order before the Dewan Rakyat.
 
@@ -5886,7 +6080,7 @@ This amendment comes into operation on the coming into operation of this Act.
 
 ## AMENDMENT TO THE WINDFALL PROFIT LEVY ACT 1998
 
-## Chapter XI of this Bill seeks to amend the Windfall Profit Levy Act 1998.
+Chapter XI of this Bill seeks to amend the Windfall Profit Levy Act 1998.
 
 78. Clause 96 seeks to amend section 7 of Act 592 to substitute the requirement to obtain a resolution of the Dewan Rakyat for an order determining the amount of levy to be levied under Act 592 with the requirement to lay the order before the Dewan Rakyat.
 
@@ -5894,7 +6088,7 @@ This amendment comes into operation on the coming into operation of this Act.
 
 ## AMENDMENTS TO THE TOURISM TAX ACT 2017
 
-## Chapter XII of this Bill seeks to amend the Tourism Tax Act 2017.
+Chapter XII of this Bill seeks to amend the Tourism Tax Act 2017.
 
 79. Clause 98 seeks to amend subsection 8(3) of Act 791 and delete subsections 8(4) and (5) of Act 791 respectively to substitute the requirement to obtain a resolution of the Dewan Rakyat for any order made under section 8 of Act 791 with the requirement to lay the order before the Dewan Rakyat.
 
@@ -5930,7 +6124,7 @@ This amendment comes into operation on 1 January 2024.
 
 ## AMENDMENTS TO THE SALES TAX ACT 2018
 
-## Chapter XIII of this Bill seeks to amend the Sales Tax Act 2018.
+Chapter XIII of this Bill seeks to amend the Sales Tax Act 2018.
 
 84. Clause 111 seeks to amend section 10 of Act 806.
 
@@ -5994,7 +6188,7 @@ This amendment comes into operation on the coming into operation of this Act.
 
 ## AMENDMENTS TO THE SERVICE TAX ACT 2018
 
-## Chapter XIV of this Bill seeks to amend the Service Tax Act 2018.
+Chapter XIV of this Bill seeks to amend the Service Tax Act 2018.
 
 92. Clause 127 seeks to amend section 10 of Act 807.
 
@@ -6048,7 +6242,7 @@ This amendment comes into operation on 1 January 2024.
 
 ## AMENDMENT TO THE DEPARTURE LEVY ACT 2019
 
-## Chapter XV of this Bill seeks to amend the Departure Levy Act 2019.
+Chapter XV of this Bill seeks to amend the Departure Levy Act 2019.
 
 97. Clause 142 seeks to amend subsection 11(2) of Act 813 to substitute the requirement to obtain a resolution of the Dewan Rakyat for any order made under section 11 of Act 813 with the requirement to lay the order before the Dewan Rakyat.
 

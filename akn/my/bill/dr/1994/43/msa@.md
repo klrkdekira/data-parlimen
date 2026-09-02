@@ -52,6 +52,4 @@ R a ng Undang-Undang ini bertujuan meeminda seksyen 3 Akta Rang Undang-Undang me
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
-
-<!-- marginal: [PN. (U2) 1818.] -->
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN. (U2) 1818.]

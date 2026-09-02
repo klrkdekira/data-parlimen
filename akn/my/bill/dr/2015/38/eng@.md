@@ -4,13 +4,13 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Interpretation
 
-## Part II
+## PART II
 
 ## NATIONAL SECURITY COUNCIL
 
@@ -26,7 +26,7 @@
 
 14. Fund
 
-## Part III
+## PART III
 
 ## DUTIES OF THE DIRECTOR GENERAL OF NATIONAL SECURITY
 
@@ -40,7 +40,7 @@
 
 <!-- page 2 -->
 
-## Part IV
+## PART IV
 
 ## DECLARATION OF SECURITY AREA
 
@@ -52,7 +52,7 @@
 
 21. Duties and powers of Director of Operations
 
-## Part V
+## PART V
 
 ## SPECIAL POWERS OF THE DIRECTOR OF OPERATIONS AND SECURITY FORCES
 
@@ -88,7 +88,7 @@
 
 36. Arrested persons and things seized to be handed over to police
 
-## Part VI
+## PART VI
 
 ## GENERAL
 
@@ -106,13 +106,11 @@
 
 <!-- page 3 -->
 
-## Part VII
+## PART VII
 
 ## SAVINGS
 
-43. Existing National Security Council
-
-44. Existing Committees
+43. Existing National Security Council 44. Existing Committees
 
 <!-- page 5 -->
 
@@ -124,7 +122,7 @@ An Act to provide for the establishment of the National Security Council, the de
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -164,9 +162,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (b) the armed forces;
 
-(c) any force which is a visiting force for the purposes of
-
-## Part I of the Visiting Forces Act 1960 [Act 432]; or
+(c) any force which is a visiting force for the purposes of Part I of the Visiting Forces Act 1960 [Act 432]; or
 
 (d) the Malaysian Maritime Enforcement Agency established under the Malaysian Maritime Enforcement Agency Act 2004 [Act 633];
 
@@ -178,7 +174,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 “declaration” means the declaration of a security area made under section 18.
 
-## Part II
+## PART II
 
 ## NATIONAL SECURITY COUNCIL
 
@@ -302,7 +298,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 11 -->
 
-## Part III
+## PART III
 
 ## DUTIES OF THE DIRECTOR GENERAL OF NATIONAL SECURITY
 
@@ -356,7 +352,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 13 -->
 
-## Part IV
+## PART IV
 
 ## DECLARATION OF SECURITY AREA
 
@@ -426,7 +422,7 @@ Parliament annulling the declaration, it shall cease to have effect, notwithstan
 
 (5) The Government Entities which have been issued with the directive referred to in paragraph (3)(b) shall comply with the directive.
 
-## Part V
+## PART V
 
 ## SPECIAL POWERS OF THE DIRECTOR OF OPERATIONS
 
@@ -630,7 +626,7 @@ destroy or authorize the destruction of that building or structure.
 
 <!-- page 25 -->
 
-## Part VI
+## PART VI
 
 ## GENERAL
 
@@ -680,7 +676,7 @@ destroy or authorize the destruction of that building or structure.
 
 <!-- page 27 -->
 
-## Part VII
+## PART VII
 
 ## SAVINGS
 
@@ -698,7 +694,7 @@ destroy or authorize the destruction of that building or structure.
 
 The proposed National Security Council Act 2015 (“the proposed Act”) seeks to establish the National Security Council with powers, among others, to control and coordinate, and to issue directives to, the Government Entities on matters concerning national security. The proposed Act also empowers the Prime Minister, upon advice by the Council, to declare certain area in Malaysia as a security area. Special powers are given to the Security Forces in the security area.
 
-## Part I
+## PART I
 
 2. Part I deals with preliminary matters.
 
@@ -708,7 +704,7 @@ The proposed National Security Council Act 2015 (“the proposed Act”) seeks t
 
 4. Clause 2 contains the definitions of certain words used in the proposed Act.
 
-## Part II
+## PART II
 
 5. Part II contains provisions relating to the establishment of the National Security Council, and its functions and powers.
 
@@ -736,7 +732,7 @@ The proposed National Security Council Act 2015 (“the proposed Act”) seeks t
 
 17. Clause 14 seeks to require the Government to provide sufficient funds for the Council annually to enable the Council to perform its functions.
 
-## Part III
+## PART III
 
 18. Part III provides for the appointment and duties of the Director General of National Security and his officers, and duties of the Government Entities in relation to information and intelligence.
 
@@ -750,7 +746,7 @@ the purposes of carrying out and giving effect to the provisions of the proposed
 
 21. Clause 17 seeks to impose a duty on the Government Entities to immediately report to the Council through the Director General any information or intelligence that affects or likely to affect national security together with the assessment of the credibility of such information or intelligence. This clause also seeks to impose a duty on the Government Entities or any person, upon direction by the Council, to immediately make available any information or intelligence in its or his possession which relates to national security to the Council through the Director General.
 
-## Part IV
+## PART IV
 
 22. Part IV seeks to provide for the declaration of security area, and the appointment of the Director of Operations and his duties and powers.
 
@@ -764,7 +760,7 @@ the purposes of carrying out and giving effect to the provisions of the proposed
 
 <!-- page 30 -->
 
-## Part V
+## PART V
 
 27. Part V deals with the special powers of the Director of Operations and the Security Forces deployed to the security area.
 
@@ -802,7 +798,7 @@ the purposes of carrying out and giving effect to the provisions of the proposed
 
 42. Clause 36 seeks to require that any person arrested and taken into custody under the proposed Act and any things seized shall be handed over to the officer-in-charge of the nearest police station without unnecessary delay together with a report of the circumstances occasioning the arrest or seizure.
 
-## Part VI
+## PART VI
 
 43. Part VI deals with the general provisions.
 
@@ -818,7 +814,7 @@ the purposes of carrying out and giving effect to the provisions of the proposed
 
 49. Clause 42 seeks to empower the Prime Minister to make regulations under the proposed Act.
 
-## Part VII
+## PART VII
 
 50. Clauses 43 and 44 seek to provide for the savings provisions in relation to the existing National Security Council established by the Federal Government and the existing committees under the existing National Security Council.
 

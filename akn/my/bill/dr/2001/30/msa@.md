@@ -92,7 +92,9 @@ seseorang Penolong Pendaftar boleh menjalankan apa- apa fungsi Pendaftar di bawa
 
 6. Akta ibu dipinda dengan memasukkan selepas seksyen 9 seksyen yang berikut:
 
-Pemeriksa. 9A. Perbadanan boleh melantik mana-mana orang, jabatan, unit atau organisasi kerajaan, atau mana-mana pejabat atau organisasi paten asing atau antarabangsa untuk menjadi Pemeriksa bagi maksud Akta ini.".
+<!-- marginal: Pemeriksa. -->
+
+9A. Perbadanan boleh melantik mana-mana orang, jabatan, unit atau organisasi kerajaan, atau mana-mana pejabat atau organisasi paten asing atau antarabangsa untuk menjadi Pemeriksa bagi maksud Akta ini.".
 
 <!-- page 5 -->
 

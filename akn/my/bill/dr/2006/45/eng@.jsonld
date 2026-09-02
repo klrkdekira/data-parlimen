@@ -1,0 +1,962 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-45-2006",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_19"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Registration of Engineers (Amendment) Bill 2006"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_10__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_10__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_10__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_10__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_10__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_10__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_10__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_10__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_10__para_j"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 15 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the word \"Board\" the words \"Disciplinary Committee\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (l)(a), by substituting for the words \"involving fraud or\" the words \", including offences involving false or negligent certification, fraud,\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_10__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (l)(b), by substituting for the word \"Board\" the words \"Disciplinary Committee\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_10__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (l)(g), by substituting for the word \"Board\" the words \"Disciplinary Committee\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_10__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (l)(i), by substituting for the word \"Board\" wherever appearing the words \"Disciplinary Committee\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_10__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (\\A)(b), by substituting for the word \"five\" the word \"fifty\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_10__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (IA)(C), by substituting for the words \"one year\" the words \"two years\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_10__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (2) the following subsection: \"(2) The Disciplinary Committee shall not make any order under subsection (1A), based upon any of the circumstances set out in paragraphs (l)(b) to (d), or paragraphs (l)(f) to (o), unless an opportunity of being heard either personally or by a person appointed by the registered Engineer has been given to the registered Engineer against whom the Disciplinary Committee intends to make the order.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_10__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_10__para_i__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_10__para_i__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3) —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_10__para_i__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_10__para_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word \"The\" the words \"Disciplinary Committee or\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_10__para_i__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_10__para_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"Engineering consultancy practice\" the words \", respectively,\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_10__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (3) the following subsection: \"(4) The Disciplinary Committee or Board, as the case may be, may upon the recommendation of Investigating Committee suspend the registration of the registered Engineer or Engineering consultancy practice mentioned in subsection (3) for a further period of three months but not exceeding six months, if the Investigating Committee is unable to complete the investigation of such registered Engineer or Engineering consultancy practice within the period of suspension stipulated in subsection (3).\". Amendment of section 17"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_11__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_11__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_11__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 17 of the principal Act is amended —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_11__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_11__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1) —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_11__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_11__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"order of the\" the words \"Disciplinary Committee or\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_11__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_11__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"7A(5) or 15(1A)\" the words \"15(1A) or 7A(5), respectively\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by inserting after the word \"prescribed\" the words \"and satisfying such conditions as may be determined by the Board\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_11__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2A), by inserting after the word \"prescribed\" the words \"and satisfying such conditions as may be determined by the Board\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_11__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_11__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_11__para_d__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3) —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_11__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_11__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"to an order of the\" the words \"Disciplinary Committee or\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_11__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_11__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"7A(5) or 15(1A)\" the words \"15(1A) or 7A(5), respectively,\". Amendment of section 19"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_12__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_12__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 19 of the principal Act is amended —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_12__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_12__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (l)(c) —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_12__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_12__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"order made by the\" the words \"Disciplinary Committee or\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_12__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_12__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"7A(5) or 15(1 A)\" the words \"15(1A) or 7A(5), respectively\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_12__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_12__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (l)(e) —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_12__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_12__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"order of the\" the words \"Disciplinary Committee or\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_12__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_12__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"7A(5) or 15(1 A)\" the words \"15(1 A) or 7A(5), respectively\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_12__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by inserting after the word \"The\" the words \"Disciplinary Committee or\". Amendment of section 22"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_13__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_13__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_13__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 22 of the principal Act is amended —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_13__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_13__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1) —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_13__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_13__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"the Board\" the words \"or Disciplinary Committee\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_13__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_13__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"President of the Board\" the words \"or Chairman of the Disciplinary Committee\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (2) the following subsection: \"(2) On receipt of a copy of the notice of appeal, the President of the Board or the Chairman of Disciplinary Committee or in the absence of the President or the Chairman, the member so delegated by the President or the Chairman, shall cause to be prepared and sent to the Chairman of the Appeal Board records or a summary of the records of the proceedings of the Board or the Disciplinary Committee and the statement setting out the grounds on which the Board or the Disciplinary Committee arrived at its decision.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_13__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by inserting after the words \"the Board\" the words \"or Disciplinary Committee,\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_13__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4), by inserting after the words \"the Board\" the words \"or Disciplinary Committee\". Amendment of section 24"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 24 of the principal Act is amended by substituting for the words \"ten thousand ringgit in the case of an individual, or fifty thousand ringgit in the case of a sole proprietorship, partnership or body corporate,\" the words \"fifty thousand ringgit\". Amendment of section 24B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_15__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_15__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 24B of the principal Act is amended —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_15__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_15__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_15__para_a__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_15__para_a__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2) —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_15__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_15__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"the Chairman\" wherever appearing the words \"a member\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_15__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_15__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"or 15(1 A)\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_15__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_15__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"registered Engineer who has, or\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_15__para_a__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_15__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the comma appearing immediately after the words \"which has\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsection: \"(2A) Where the Investigating Committee has conducted an investigation against a registered Engineer, the member of the Investigating Committee shall not sit as member of the Disciplinary Committee appointed in pursuance of section 14A to conduct a hearing of any misconduct or complaint or to make an order under subsection 15(1A) in respect of the registered Engineer who has been investigated by the Investigating Committee of which he is a member.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_15__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4), by inserting after the word \"Board\" the words \"or Disciplinary Committee\". Amendment of section 25"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_16__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 25 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words \"two thousand ringgit\" the words \"ten thousand ringgit or to imprisonment for a term not exceeding one year, or to both\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_16__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_16__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3) —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_16__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_16__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"order of the\" the words \"Disciplinary Committee or\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_16__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_16__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"7A(5) or 15(1 A)\" the words \"15(1A) or 7A(5), respectively\". Amendment of section 28"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_17__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_17__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 28(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_17__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"against the Board,\" the words \"Disciplinary Committee,\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"members of the Board,\" the words \"Disciplinary Committee,\". Amendment of First Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subparagraph 2(5) of the First Schedule is amended by substituting for the word \"15\" the words \"7A, 7B\". Saving and transitional"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All proceedings under sections 7A and 15 and matters relating to such proceedings pending before the Board, and all proceedings under sections 24 and 25 pending, immediately before the date of coming into operation of this Act shall, after the date of coming into operation of this Act, be continued as if the principal Act had not been amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Registration of Engineers (Amendment) Act 2006."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Registration of Engineers Act 1967 [Act 138], which is referred to as the \"principal Act\" in this Act, is amended in section 2 by inserting after the definition of \"Graduate Engineer\" the following definition: ' \"Minister\" means the Minister for the time being charged with the responsibility for matters relating to works;'. Amendment of section 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 3(3)(c) of the principal Act is amended by substituting for the word \"employee's\" the words \"employees,\". Amendment of section 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 4(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (ec), by inserting after the word \"programmes\" the words \", including continuing professional development programmes,\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (ed), by substituting for the word \"accredited\" the word \"recognized\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (ee) the following paragraph: \"(ef) to appoint a body consisting of members from the Board, Professional Engineers and other persons as may be determined by the Board to advise the Government and the public on matters relating to engineering education, including the certification of such programmes;\". Amendment of section 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_5__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_5__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 6 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by inserting after the words \"orders of the Board\" the words \"or Disciplinary Committee\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (2)(a)(i), by substituting for the word \"Board\" the words \"Disciplinary Committee\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (2A)(a), by inserting after the words \"order of the Board\" the words \"or Disciplinary Committee\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_5__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (2A)(b), by inserting after the words \"order of the Board\" the words \"or Disciplinary Committee\". Amendment of section 7A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_6__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_6__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 7A of the principal Act is amended —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (3)(cXiii), by substituting for the semicolon at the end of the subparagraph a full stop;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_6__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_6__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_6__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (5) —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_6__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_6__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (d)(ii), by substituting for the words \"except paragraphs (e) and (/)\" the words \"(except paragraphs (e) and (/))\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_6__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_6__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (bb), by substituting for the word \"ten\" the word \"fifty\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_6__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_6__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (cc), by substituting for the words \"one year\" the words \"two years\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (6)(a)('ii), by substituting for the word \"share-holder\" the word \"shareholder\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_6__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (6)(aa), by substituting for the words \"if the Board has\" the words \"if the Disciplinary Committee has\". Amendment of section 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 10(5) of the principal Act is amended by substituting for the word \"Board\" the words \"Disciplinary Committee\". Amendment of section 10A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 10A(4) of the principal Act is amended by substituting for the words \"twenty one\" the words \"twenty-one\". New Part IIIA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/45/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 14 the following part: \"PART IIIA DISCIPLINARY COMMITTEE Establishment of Disciplinary Committee 14A. The Board shall appoint a Disciplinary Committee which shall consist of the following members: (a) a Chairman; and (b) two other members, who have been registered as Professional Engineers for not less than seven years. Powers of Disciplinary Committee 14B. The Disciplinary Committee — (a) shall conduct hearings of any misconduct or complaint against any registered Engineer referred to it by the Investigating Committee; (b) may make any or any combination of the orders specified in section 15 against a registered Engineer under such circumstances as set out in that section. Proceedings of the Disciplinary Committee 14c. (1) Where a member of the Board has been appointed as a member of the Disciplinary Committee in pursuance of section 14A to conduct a hearing of any misconduct or complaint against a registered Engineer, that member of the Disciplinary Committee shall not sit as a member of the Board when the Board conducts a hearing or makes an order under subsection 7A(5) against an Engineering consultancy practice of which the registered Engineer is its sole proprietor, partner, director, shareholder or employee. (2) Subject to the provisions of this Act, the Disciplinary Committee may regulate its own procedures in such manner as it deems fit.\". Amendment of section 15"
+      }
+    }
+  ]
+}

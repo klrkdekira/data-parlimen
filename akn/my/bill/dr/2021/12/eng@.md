@@ -4,17 +4,41 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Chapter I
+## CHAPTER I
 
 ## PRELIMINARY
 
 1. Short title 2. Amendment of Acts
 
-## Chapter II
+## CHAPTER II
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
-3. Commencement of amendments to the Income Tax Act 1967 4. Amendment of section 5 5. Amendment of section 6 6. Amendment of section 6d 7. Amendment of section 39 8. Amendment of section 44 9. Amendment of section 46 10. Amendment of section 49 11. Amendment of section 50 12. Amendment of section 60aa 13. Amendment of section 61 14. New section 66a 15. Amendment of section 77a 16. Amendment of section 89 17. Amendment of section 97a 18. New section 106a 19. Amendment of section 107c 20. New section 107d 21. New section 109da
+3. Commencement of amendments to the Income Tax Act 1967 4. Amendment of section 5 5. Amendment of section 6 6. Amendment of section 6d 7. Amendment of section 39 8. Amendment of section 44 9. Amendment of section 46
+
+10. Amendment of section 49
+
+11. Amendment of section 50
+
+12. Amendment of section 60aa
+
+13. Amendment of section 61
+
+14. New section 66a
+
+15. Amendment of section 77a
+
+16. Amendment of section 89
+
+17. Amendment of section 97a
+
+18. New section 106a
+
+19. Amendment of section 107c
+
+20. New section 107d
+
+21. New section 109da
 
 <!-- page 2 -->
 
@@ -32,7 +56,7 @@
 
 28. Amendment of Schedule 7a
 
-## chapter III
+## CHAPTER III
 
 ## AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976
 
@@ -50,7 +74,7 @@
 
 35. Amendment of Schedule 5
 
-## chapter IV
+## CHAPTER IV
 
 ## AMENDMENTS TO THE STAMP ACT 1949
 
@@ -74,27 +98,59 @@
 
 <!-- page 3 -->
 
-## chapter V
+## CHAPTER V
 
 ## AMENDMENTS TO THE PETROLEUM (INCOME TAX) ACT 1967
 
-45. Commencement of amendments to the Petroleum (Income Tax) Act 1967 46. Amendment of section 37 47. Amendment of section 41a 48. Amendment of section 43 49. Amendment of section 65c 50. Amendment of section 66 51. Amendment of section 66a
+45. Commencement of amendments to the Petroleum (Income Tax) Act 1967
 
-## chapter VI
+46. Amendment of section 37
+
+47. Amendment of section 41a
+
+48. Amendment of section 43
+
+49. Amendment of section 65c
+
+50. Amendment of section 66
+
+51. Amendment of section 66a
+
+## CHAPTER VI
 
 ## AMENDMENTS TO THE LABUAN BUSINESS ACTIVITY TAX ACT 1990
 
-52. Commencement of amendments to the Labuan Business Activity Tax Act 1990 53. Amendment of section 2b 54. Amendment of section 8 55. Amendment of section 10 56. Amendment of section 11 57. New section 16a 58. Amendment of section 23
+52. Commencement of amendments to the Labuan Business Activity Tax Act 1990
 
-## chapter VII
+53. Amendment of section 2b
+
+54. Amendment of section 8
+
+55. Amendment of section 10
+
+56. Amendment of section 11
+
+57. New section 16a
+
+58. Amendment of section 23
+
+## CHAPTER VII
 
 ## AMENDMENTS TO THE PROMOTION OF INVESTMENTS ACT 1986
 
-59. Commencement of amendments to the Promotion of Investments Act 1986 60. Amendment of section 2 61. Amendment of title to Chapter 1 of Part II 62. New sections 4g, 4h, 4i, 4j, 4k and 4l 63. Savings and transitional
+59. Commencement of amendments to the Promotion of Investments Act 1986
+
+60. Amendment of section 2
+
+61. Amendment of title to Chapter 1 of Part II
+
+62. New sections 4g, 4h, 4i, 4j, 4k and 4l
+
+63. Savings and transitional
 
 <!-- page 4 -->
 
-## chapter Viii
+## CHAPTER VIII
 
 ## AMENDMENT TO THE FINANCE ACT 2012
 
@@ -102,7 +158,7 @@
 
 65. Amendment of section 3
 
-## chapter iX
+## CHAPTER IX
 
 ## AMENDMENT TO THE FINANCE ACT 2018
 
@@ -120,7 +176,7 @@ An Act to amend the Income Tax Act 1967, the Real Property Gains Tax Act 1976, t
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## chapter i
+## CHAPTER I
 
 ## PRELIMINARY
 
@@ -134,7 +190,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 6 -->
 
-## chapter II
+## CHAPTER II
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
@@ -252,11 +308,7 @@ Provided that—
 
 <!-- page 11 -->
 
-(b) for
-
-<!-- marginal: the purposes of -->
-
-subparagraph (iii),
+(b) for the purposes of subparagraph (iii),
 
 <!-- marginal: the -->
 
@@ -316,13 +368,17 @@ purchase is made on or after 1 January 2021 but not later than 31 December 2022;
 
 <!-- page 13 -->
 
-(c) in subparagraph (9)(b)(iv), by inserting after the words “in connection with his” the words “family business and”;
+(c) in subparagraph (9)(b)(iv), by inserting after the words “in connection with his” the words “family business
+
+<!-- marginal: and”; -->
 
 (d) in subparagraph (10)(a)(iii)—
 
 (i) by inserting after the words “in connection with the” the words “family fund,”; and
 
-(ii) by deleting the words “, or any other fee receivable in respect of an investment fund from the family fund”;
+(ii) by deleting the words “, or any other fee receivable in respect of an investment fund from the family
+
+<!-- marginal: fund”; -->
 
 (e) in subparagraph (10)(b)(iii)—
 
@@ -538,23 +594,7 @@ and the increased sum shall be a debt due from the payer to the Government and s
 
 “(2) Notwithstanding subparagraph (1), income tax shall be charged for a year of assessment on the chargeable income of a company other than a company to which paragraph 2a applies which has chargeable income exceeding one hundred million ringgit in the basis period for the year of assessment 2022 at the following rates:
 
-Chargeable RM
-
-<!-- marginal: Rate of -->
-
-income
-
-<!-- marginal: income tax -->
-
-For every ringgit 100,000,000
-
-<!-- marginal: 24 per cent -->
-
-of the first For every ringgit 100,000,000
-
-<!-- marginal: 33 per cent”; and -->
-
-exceeding
+Chargeable RM Rate of income income tax For every ringgit 100,000,000 24 per cent of the first For every ringgit 100,000,000 33 per cent”; and exceeding
 
 (b) by inserting after Part XVIII the following parts:
 
@@ -562,7 +602,7 @@ exceeding
 
 Notwithstanding Parts I, II and IV, income tax shall be charged for a year of assessment on the income of a unit holder other than an individual referred to in section 109da which is derived from Malaysia at the rate of 24 per cent of gross.
 
-## part XX
+## PART XX
 
 Notwithstanding Parts I and IV, income tax shall be charged on the income of a person who is a resident which is received in Malaysia from outside Malaysia at the rate of 3 per cent of gross.”.
 
@@ -638,7 +678,7 @@ Notwithstanding Parts I and IV, income tax shall be charged on the income of a p
 
 ## Schedule.”.
 
-## chapter III
+## CHAPTER III
 
 ## AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976
 
@@ -720,7 +760,7 @@ or ten per cent of the chargeable gain, whichever is greater.”.
 
 (b) in Part II, by substituting for the words “society registered under the Societies Act 1966 [Act 335]” the words “body of persons registered under any written law in Malaysia”.
 
-## chapter IV
+## CHAPTER IV
 
 ## AMENDMENTS TO THE STAMP ACT 1949
 
@@ -818,7 +858,7 @@ of RM1,000 of the value of any marketable securities
 
 <!-- page 32 -->
 
-## chapter V
+## CHAPTER V
 
 ## AMENDMENTS TO THE PETROLEUM (INCOME TAX) ACT 1967
 
@@ -866,7 +906,7 @@ generally or in respect of any income of a particular kind or any class of incom
 
 “(a) the applicant may, within six months after being informed of the decision, request in the prescribed form for the Director General to forward the application to the Special Commissioners;”.
 
-## chapter VI
+## CHAPTER VI
 
 ## AMENDMENTS TO THE LABUAN BUSINESS
 
@@ -948,7 +988,7 @@ generally or in respect of any income of a particular kind or any class of incom
 
 58. Paragraph 23(b) of the principal Act is amended by inserting after the words “a statutory declaration” the words “and return of profits”.
 
-## chapter VII
+## CHAPTER VII
 
 ## AMENDMENTS TO THE PROMOTION OF INVESTMENTS ACT 1986
 
@@ -1058,7 +1098,7 @@ generally or in respect of any income of a particular kind or any class of incom
 
 (3) On the expiry date of the grace period, if the company referred to in subsection (1) fails to submit the notification referred to in subsection (2), the company shall immediately cease to fall within the definition of a research and development company or a contract research and development company under the principal Act as amended by this Chapter.
 
-## chapter VIII
+## CHAPTER VIII
 
 ## AMENDMENT TO THE FINANCE ACT 2012
 
@@ -1072,7 +1112,7 @@ generally or in respect of any income of a particular kind or any class of incom
 
 “(4) Section 10 comes into operation from the year of assessment 2012 until the year of assessment 2021 and in respect of paragraph 10(c) until the year of assessment 2025.”.
 
-## chapter IX
+## CHAPTER IX
 
 ## AMENDMENT TO THE FINANCE ACT 2018
 
@@ -1092,7 +1132,7 @@ This Bill seeks to amend the Income Tax Act 1967 (“Act 53”), the Real Proper
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
-## Chapter II of this Bill seeks to amend the Income Tax Act 1967.
+Chapter II of this Bill seeks to amend the Income Tax Act 1967.
 
 2. Clause 4 seeks to amend subsection 5(1a) of Act 53 to provide that any amount or income received by a non-resident person which is subject to deduction of tax under new section 109da of Act 53 is disregarded for the purpose of ascertaining his chargeable income. Currently, only the amount or income which is subject to deduction of tax under section 109c, 109d, 109e or 109g of Act 53 is disregarded for the purpose of ascertaining the chargeable income.
 
@@ -1188,7 +1228,9 @@ This amendment has effect for the year of assessment 2022 and subsequent years o
 
 Paragraph 12(a) seeks to amend subparagraph 60 a a(9)(a)(iii) of Act 53 to include the amount of gross income for the basis period for a year of assessment in respect of wakalah fee or any other fee receivable in connection with the family fund in ascertaining the adjusted income of the shareholders’ fund of a takaful operator resident.
 
-Subparagraphs 12(b)(i) and (ii) seek to amend subsubparagraphs 60aa(9)(b) (iii)(A) and (B) of Act 53 to provide that the amount of management expenses incurred by a takaful operator resident in connection with wakalah fee or any other fee receivable in relation to the family fund is allowed as a deduction in ascertaining the adjusted income of a shareholders’ fund of that takaful operator.
+Subparagraphs 12(b)(i) and (ii) seek to amend subsubparagraphs 60aa(9)(b)
+
+(iii)(A) and (B) of Act 53 to provide that the amount of management expenses incurred by a takaful operator resident in connection with wakalah fee or any other fee receivable in relation to the family fund is allowed as a deduction in ascertaining the adjusted income of a shareholders’ fund of that takaful operator.
 
 Subparagraph 12(b)(iii) seeks to delete subsubparagraph 60aa(9)(b)(iii)(C) of Act 53.
 
@@ -1196,7 +1238,9 @@ Paragraph 12(c) seeks to amend subparagraph 60aa(9)(b)(iv) of Act 53 to provide 
 
 Paragraph 12(d) seeks to amend subparagraph 60 aa(10)(a)(iii) of Act 53 to include the amount of gross income for the basis period for a year of assessment in respect of wakalah fee or any other fee receivable in connection with the family fund in ascertaining the adjusted income of the shareholders’ fund of a takaful operator not resident.
 
-Subparagraphs 12(e)(i) and (ii) seek to amend subsubparagraphs 60aa(10)(b) (iii)(A) and (B) of Act 53 to provide that the amount of management expenses incurred by a takaful operator not resident in connection with wakalah fee or any other fee receivable in relation to the family fund is allowed as a deduction in ascertaining the adjusted income of a shareholders’ fund of that takaful operator.
+Subparagraphs 12(e)(i) and (ii) seek to amend subsubparagraphs 60aa(10)(b)
+
+(iii)(A) and (B) of Act 53 to provide that the amount of management expenses incurred by a takaful operator not resident in connection with wakalah fee or any other fee receivable in relation to the family fund is allowed as a deduction in ascertaining the adjusted income of a shareholders’ fund of that takaful operator.
 
 Subparagraph 12(e)(iii) seeks to delete subsubparagraph 60aa(10)(b)(iii)(C) of Act 53.
 
@@ -1332,7 +1376,7 @@ These amendments have effect for the year of assessment 2022 and subsequent year
 
 ## AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976
 
-## Chapter III of this Bill seeks to amend the Real Property Gains Tax Act 1976.
+Chapter III of this Bill seeks to amend the Real Property Gains Tax Act 1976.
 
 27. Clause 30 seeks to substitute subsection 21b(1a) of Act 169 to provide that an acquirer shall retain all or a sum of money not exceeding five per cent of the total value of the consideration for a disposal within three years after the date of acquisition where the disposer is under Part II of Schedule 5 to Act 169.
 
@@ -1374,7 +1418,7 @@ These amendments come into operation on 1 January 2022.
 
 ## AMENDMENTS TO THE STAMP ACT 1949
 
-## Chapter IV of this Bill seeks to amend the Stamp Act 1949.
+Chapter IV of this Bill seeks to amend the Stamp Act 1949.
 
 33. Clause 37 seeks to introduce new section 36d into Act 378 to clarify circumstances where an assessment of stamp duty becomes final and conclusive.
 
@@ -1420,7 +1464,7 @@ This amendment comes into operation on 1 January 2022.
 
 ## AMENDMENTS TO THE PETROLEUM (INCOME TAX) ACT 1967
 
-## Chapter V of this Bill seeks to amend the Petroleum (Income Tax) Act 1967.
+Chapter V of this Bill seeks to amend the Petroleum (Income Tax) Act 1967.
 
 41. Clause 46 seeks to amend section 37 of Act 543 to require any person to notify a change of address in the prescribed form to the Director General.
 
@@ -1452,9 +1496,7 @@ This amendment comes into operation on 1 January 2022.
 
 ## AMENDENTS TO THE LABUAN BUSINESS ACTIVITY TAX ACT 1990
 
-## Chapter VI of this Bill seeks to amend the Labuan Business Activity Tax
-
-Act 1990.
+Chapter VI of this Bill seeks to amend the Labuan Business Activity Tax Act 1990.
 
 47. Clause 53 seeks to introduce new subsections (1c), (1d) and (1e) into section 2b of Act 445.
 
@@ -1490,7 +1532,7 @@ This amendment comes into operation on 1 January 2022.
 
 ## AMENDMENTS TO THE PROMOTION OF INVESTMENTS ACT 1986
 
-## Chapter VII of this Bill seeks to amend the Promotion of Investments Act 1986.
+Chapter VII of this Bill seeks to amend the Promotion of Investments Act 1986.
 
 53. Clause 60 seeks to amend section 2 of Act 327.
 
@@ -1524,7 +1566,7 @@ This amendment comes into operation on 1 January 2022.
 
 ## AMENDMENT TO THE FINANCE ACT 2012
 
-## Chapter VIII of this Bill seeks to amend the Finance Act 2012.
+Chapter VIII of this Bill seeks to amend the Finance Act 2012.
 
 56. Clause 65 seeks to substitute subsection 3(4) of Act 742 to provide for an extension of time from the year of assessment 2022 until the year of assessment 2025 for an amount of deduction by an individual for a payment of premium for deferred annuity.
 
@@ -1534,7 +1576,7 @@ This amendment comes into operation on 1 January 2022.
 
 ## AMENDMENT TO THE FINANCE ACT 2018
 
-## Chapter IX of this Bill seeks to amend the Finance Act 2018.
+Chapter IX of this Bill seeks to amend the Finance Act 2018.
 
 57. Clause 67 seeks to amend section 11 of Act 812 to extend the period of deduction from the year of assessment 2025 to the year of assessment 2028 for any amount ascertained under paragraph 43(3)(b) of Act 53 to be deducted under subsection 43(2) of Act 53 and any such amount that could not be fully deducted based on subsection 43(2) of Act 53 after the year of assessment 2028 shall be disregarded.
 

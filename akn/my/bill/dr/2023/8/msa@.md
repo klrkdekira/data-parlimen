@@ -12,7 +12,15 @@
 
 ## SUSUNAN FASAL
 
-1. Tajuk ringkas dan permulaan kuat kuasa 2. Bidang kuasa penyemakan sementara Mahkamah Persekutuan mengenai hukuman mati 3. Permohonan bagi kajian semula hukuman mati 4. Bidang kuasa penyemakan sementara Mahkamah Persekutuan mengenai hukuman pemenjaraan sepanjang hayat 5. Permohonan bagi kajian semula hukuman pemenjaraan sepanjang hayat
+1. Tajuk ringkas dan permulaan kuat kuasa
+
+2. Bidang kuasa penyemakan sementara Mahkamah Persekutuan mengenai hukuman mati
+
+3. Permohonan bagi kajian semula hukuman mati
+
+4. Bidang kuasa penyemakan sementara Mahkamah Persekutuan mengenai hukuman pemenjaraan sepanjang hayat
+
+5. Permohonan bagi kajian semula hukuman pemenjaraan sepanjang hayat
 
 <!-- page 3 -->
 

@@ -16,7 +16,21 @@
 
 ## ON DIRECT SALES BUSINESS
 
-4. Direct sales business to be carried on only under licence. 5. Submission of application for licence. 6. Grant or refusal of licence. 7. Direct sales business in respect of which licence shall not be granted. 8. Revocation of licence. 9. Imposition of restrictions in lieu of revocation of licence. 10. Power to impose new conditions and to vary or revoke conditions. 11. Notice of revocation of licence, imposition of restrictions, or variation, revocation or imposition of new conditions. 12. Surrender of licence. 13. Prohibition on the carrying on of direct sales business upon revocation, expiry of duration, or surrender of licence. 14. Authorization to carry on activities after revocation. 15. Amendment or alteration of constituent documents of licensee. 16. Appeal against Controller's decision.
+4. Direct sales business to be carried on only under licence. 5. Submission of application for licence. 6. Grant or refusal of licence. 7. Direct sales business in respect of which licence shall not be granted. 8. Revocation of licence. 9. Imposition of restrictions in lieu of revocation of licence.
+
+10. Power to impose new conditions and to vary or revoke conditions.
+
+11. Notice of revocation of licence, imposition of restrictions, or variation, revocation or imposition of new conditions.
+
+12. Surrender of licence.
+
+13. Prohibition on the carrying on of direct sales business upon revocation, expiry of duration, or surrender of licence.
+
+14. Authorization to carry on activities after revocation.
+
+15. Amendment or alteration of constituent documents of licensee.
+
+16. Appeal against Controller's decision.
 
 ## PART
 
@@ -24,17 +38,21 @@ III
 
 ## DOOR-TO-DOOR SALES AND MAIL ORDER SALES
 
-17. Calling at any premises for the purpose of negotiating door- to-door sales. 18. Persons negotiating door-to-door sales
+17. Calling at any premises for the purpose of negotiating door- to-door sales.
 
-<!-- marginal: to produce -->
+18. Persons negotiating door-to-door sales to produce identification card and authority card.
 
-identification card and authority card. 19. Mail order sales.
+19. Mail order sales.
 
 <!-- page 2 -->
 
 ## BILL
 
-20. Contents of advertisement in mail order sales. 21. Offence to furnish false intbrmation in advertisement. 22. Goods to be availab!e for inspection.
+20. Contents of advertisement in mail order sales.
+
+21. Offence to furnish false intbrmation in advertisement.
+
+22. Goods to be availab!e for inspection.
 
 ## PART
 
@@ -42,7 +60,9 @@ IV
 
 ## DIRECT SALES CONTRACTS
 
-23. Requirements of direct sales contracts. 24. Contents of direct sales contracts.
+23. Requirements of direct sales contracts.
+
+24. Contents of direct sales contracts.
 
 ## PART V
 
@@ -104,11 +124,29 @@ Minister may, by notification in the Gazette, appoint and different dates may be
 
 ## BILL
 
-(b) to any contract of insurance and reinsurance issued by an insurer registered under the Act 89. Insurance Act 1963.
+(b) to any contract of insurance and reinsurance issued by an insurer registered under the
 
-(4) The provisions of this Act shall be without Act 212. prejudice to the Hire-Purchase Act 1967, the Sale of Act 382. Goods Act 1957, the Contracts Act 1950 and the Act 136. Act 125. Companies Act 1965, and where there is any conflict between the provisions of this Act and the provisions of any of such Acts the provisions of this Act shall prevail.
+<!-- marginal: Act 89. -->
 
-Interpretation.
+Insurance Act 1963.
+
+(4) The provisions of this Act shall be without
+
+<!-- marginal: Act 212. -->
+
+prejudice to the Hire-Purchase Act 1967, the Sale of
+
+<!-- marginal: Act 382. -->
+
+Goods Act 1957, the Contracts Act 1950 and the
+
+<!-- marginal: Act 136. -->
+
+<!-- marginal: Act 125. -->
+
+Companies Act 1965, and where there is any conflict between the provisions of this Act and the provisions of any of such Acts the provisions of this Act shall prevail.
+
+<!-- marginal: Interpretation. -->
 
 2. In this Act, unless the context otherwise requires—
 
@@ -136,9 +174,19 @@ Interpretation.
 
 "vendor" means the person who supplies or agrees to supply goods or services under a contract and, if the rights of that person are transferred by operation of law, includes the person for the time being entitled to those rights.
 
-Controller,
+<!-- marginal: Controller, -->
 
-3. ( 1) The Minister may appoint, from amongst pubtic Deputy officers, a Controller of Direct Sales and such number Controllers, etc of Deputy Controllers of Direct Sales, Assistant Controllers of Direct Sales and other officers as may be necessary for the purposes of this Act.
+3. ( 1) The Minister may appoint, from amongst pubtic
+
+<!-- marginal: Deputy -->
+
+officers, a Controller of Direct Sales and such number
+
+<!-- marginal: Controllers, -->
+
+<!-- marginal: etc -->
+
+of Deputy Controllers of Direct Sales, Assistant Controllers of Direct Sales and other officers as may be necessary for the purposes of this Act.
 
 (2) The Controller shall, subject to the general direction and control of the Minister, perform the duties imposed and exercise the rights and powers conferred upon him under this Act and the regulations.
 
@@ -150,7 +198,11 @@ Controller,
 
 (6) The Controller or Depuly Controller may perform all the duties imposed and exercise all the powers conferred upon an Assistant Controller under this Act or the regulations.
 
-(7) All officers appointed under this section shall be deemed to be public servants within the meaning of the Penal Code. FMS. Cap 45.
+(7) All officers appointed under this section shall be deemed to be public servants within the meaning of the Penal Code.
+
+<!-- marginal: FMS. -->
+
+<!-- marginal: Cap 45. -->
 
 <!-- page 6 -->
 
@@ -212,33 +264,17 @@ submitting an application in writing to the Controller together with—
 
 (c) a statement on—
 
-(i) the name, place and date of
-
-<!-- marginal: the -->
-
-establishment of the applicant;
+(i) the name, place and date of the establishment of the applicant;
 
 (ii) the names, places and dates of the establishment of its related corporations;
 
 (iii) the principal business and field of operations of the applicant and of its related corporations;
 
-(iv) the names and addresses of the directors of the applicant and its
-
-<!-- marginal: related -->
-
-corporations, and of the substantial share-holders, within the meaning of section 69D of the Companies Act 1965, of the applicant and its
-
-<!-- marginal: related -->
-
-corporations; and
+(iv) the names and addresses of the directors of the applicant and its related corporations, and of the substantial share-holders, within the meaning of section 69D of the Companies Act 1965, of the applicant and its related corporations; and
 
 (v) the marketing and trading scheme or the proposed marketing and trading scheme of the applicant in respect of that business; and
 
-(d) such other information or documents as may be specified by the Controller for the purposes of determining the application and
-
-<!-- marginal: the -->
-
-suitability of the applicant for the licence.
+(d) such other information or documents as may be specified by the Controller for the purposes of determining the application and the suitability of the applicant for the licence.
 
 (2) For the purposes of subparagraph ( 1 ) ( c ) ( i v ), references to a company under section 69D of the Companies Act 1965 shall be so construed as to include a private company.
 
@@ -304,7 +340,13 @@ for purposes of resale but which is based upon the inducement, by himself or oth
 
 (3) Where a person, being a director, manager. secretary or other similar officer of a body corporate is guilty of an offence under this section by virtue of section 38, he shall be liable to a fine not exceeding two hundred and fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both and, for a second or subsequent offcnce, to a fine not exceeding five hundred thousand ringgit or to imprisonment for a term not exceeding six years or to both.
 
-Revocation 8, ( 1) The Controller may revoke a licence granted of licence. under section 6 if he is satisfied that—
+<!-- marginal: Revocation -->
+
+8, ( 1) The Controller may revoke a licence granted
+
+<!-- marginal: of licence. -->
+
+under section 6 if he is satisfied that—
 
 (a) the licensee has failed to comply with any obligation imposed upon it by or under this Act or the regulations;
 
@@ -376,15 +418,57 @@ desirable or expedient for the protection of the purchasers or prospective purch
 
 (5) Failure to comply with any condition imposed under this section shall be a ground for the revocation of the licence but shali not invalidate any transaction.
 
-Power to
+<!-- marginal: Power to -->
 
-10. The Controller may at any time impose new impose new conditions on a licence granted under section 6, or vary conditions and to vary or revoke any condition imposed on such licence under or revoke section 6 or under this section, or may vary or revoke conditions. any condition already varied under this section.
+10. The Controller may at any time impose new
 
-Notice of
+<!-- marginal: impose new -->
 
-11. (1) Subject to section 12, where the Controller revocation proposes— of licence, imposicion of restrictions, (a) to revoke a licence under section 8; or variation, revocation or imposition
+conditions on a licence granted under section 6, or vary
 
-(b) to restrict a licence under section 9 or vary any of new restriction or condition under that section; or conditions.
+<!-- marginal: conditions -->
+
+<!-- marginal: and to vary -->
+
+or revoke any condition imposed on such licence under
+
+<!-- marginal: or revoke -->
+
+section 6 or under this section, or may vary or revoke
+
+<!-- marginal: conditions. -->
+
+any condition already varied under this section.
+
+<!-- marginal: Notice of -->
+
+11. (1) Subject to section 12, where the Controller
+
+<!-- marginal: revocation -->
+
+proposes—
+
+<!-- marginal: of licence, -->
+
+<!-- marginal: imposicion of -->
+
+<!-- marginal: restrictions, -->
+
+(a) to revoke a licence under section 8;
+
+<!-- marginal: or variation, -->
+
+<!-- marginal: revocation or -->
+
+<!-- marginal: imposition -->
+
+(b) to restrict a licence under section 9 or vary any
+
+<!-- marginal: of new -->
+
+restriction or condition under that section; or
+
+<!-- marginal: conditions. -->
 
 <!-- page 12 -->
 
@@ -424,17 +508,13 @@ Prohibition
 
 13. Where the revocation of a licence granted under on the section 6 has taken effect, or the period of duration carrying on of direct sales imposed on a licence as a restriction under section 9 has business upon expired, or a surrender under section 12 has taken effect, revocation, the company to which the licence was granted shall expiry of duration, or immediately thereupon cease to carry on any business Surrender in respect of which the licence was granted. of licence.
 
-Authorization
-
-14. The Controller may, in writing, authorize a to carry on company whose licence has been revoked to carry on its activities after revocation activities for such duration as the Controller may specify in the authorization, but only for the purpose of winding up its affairs or for purposes which are beneficial to its purchasers or other persons dealing with it.
+Authorization 14. The Controller may, in writing, authorize a to carry on company whose licence has been revoked to carry on its activities after revocation activities for such duration as the Controller may specify in the authorization, but only for the purpose of winding up its affairs or for purposes which are beneficial to its purchasers or other persons dealing with it.
 
 Amendment
 
 15. Every licensee shall, within three months after the or alteration making of any amendment or alteration to any of its of constituent documents of constituent documents, furnish to the Controller licensee. particulars in writing, duly verified by a statutory declaration made by a director of the licensee, of such amendment or alteration.
 
-Appeal
-
-16. (1) Any person who is aggrieved by any decision against of the Controller under this Part may appeal to the Controller's decision. Minister in the prescribed manner within one month from the date the decision is communicated to such person.
+Appeal 16. (1) Any person who is aggrieved by any decision against of the Controller under this Part may appeal to the Controller's decision. Minister in the prescribed manner within one month from the date the decision is communicated to such person.
 
 (2) The Minister's decision on an appeal under subsection (1) shall be final.
 
@@ -444,9 +524,7 @@ III
 
 ## DOOR-TO-DOOR SALES AND MAIL ORDER SALES
 
-Calling at
-
-17. (1) No person shall call at any premises for the any premises purpose of negotiating door-to-door sales on such days for the purpose of and between such hours as may be prescribed. negotiating door-to-door (2) Any person who calls at any premises for the sales. purpose of negotiating door-to-door sales shall
+Calling at 17. (1) No person shall call at any premises for the any premises purpose of negotiating door-to-door sales on such days for the purpose of and between such hours as may be prescribed. negotiating door-to-door (2) Any person who calls at any premises for the sales. purpose of negotiating door-to-door sales shall
 
 <!-- page 14 -->
 
@@ -464,13 +542,31 @@ Calling at
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence.
 
-Offence to
+<!-- marginal: Offence to -->
 
-21. Any person who furnishes false or rnisleading furnish false information in an advertisement for the supply of goods information in advertisement. or services by mail order shall be guilty of an offence.
+21. Any person who furnishes false or rnisleading
 
-Goods to be
+<!-- marginal: furnish false -->
 
-22. (1) A person who supplies goods by mail order available tbr shall make available a sample of such goods for the inspection. inspection of the public at such places and at such times as may be specified in the advertisement.
+information in an advertisement for the supply of goods
+
+<!-- marginal: information in -->
+
+<!-- marginal: advertisement. -->
+
+or services by mail order shall be guilty of an offence.
+
+<!-- marginal: Goods to be -->
+
+22. (1) A person who supplies goods by mail order
+
+<!-- marginal: available tbr -->
+
+shall make available a sample of such goods for the
+
+<!-- marginal: inspection. -->
+
+inspection of the public at such places and at such times as may be specified in the advertisement.
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence.
 
@@ -480,9 +576,19 @@ IV
 
 ## DIRECT SALES CONTRACTS
 
-Requirements
+<!-- marginal: Requirements -->
 
-23. (1) A contract in respect of a door-to-door sa!e for of direct the supply of goods or services having such value as sales contracts. may be prescribed, and a contract in respect of a mail order sale—
+23. (1) A contract in respect of a door-to-door sa!e for
+
+<!-- marginal: of direct -->
+
+the supply of goods or services having such value as
+
+<!-- marginal: sales -->
+
+<!-- marginal: contracts. -->
+
+may be prescribed, and a contract in respect of a mail order sale—
 
 (a) shall be in writing;
 
@@ -536,9 +642,31 @@ contain the following particulars:
 
 ## COOLING-OFF PERIOD AND RESCISSION
 
-Goods or
+<!-- marginal: Goods or -->
 
-25. (1) Except in a case where subsection (2) applies, services not no goods shall be delivered and no services shall be to be delivered performed under a contract in respect of a direct sale or performed until the cooling-off period has lapsed. during cooling-off period. (2) Where a purchaser, who has entered into a contract in respect of a direct sale, has served on the vendor a notice in writing requiring the vendor to deliver the goods or to perform the services at any time before the expiry of the cooling-off period, he shall be deemed to have waived his right to rescind the contract under section 26.
+25. (1) Except in a case where subsection (2) applies,
+
+<!-- marginal: services not -->
+
+no goods shall be delivered and no services shall be
+
+<!-- marginal: to be -->
+
+<!-- marginal: delivered -->
+
+performed under a contract in respect of a direct sale
+
+<!-- marginal: or performed -->
+
+until the cooling-off period has lapsed.
+
+<!-- marginal: during -->
+
+<!-- marginal: cooling-off -->
+
+<!-- marginal: period. -->
+
+(2) Where a purchaser, who has entered into a contract in respect of a direct sale, has served on the vendor a notice in writing requiring the vendor to deliver the goods or to perform the services at any time before the expiry of the cooling-off period, he shall be deemed to have waived his right to rescind the contract under section 26.
 
 (3) Notwithstandmg subsection (2), no notice under that subsection shall be served on the vendor before the expiry of seventy-two hours from the time the contract was concluded.
 
@@ -546,9 +674,13 @@ Goods or
 
 (5) Any vendor or other person who contravenes this section shall be guilty of an offence.
 
-Rescission
+<!-- marginal: Rescission -->
 
-26. (1) A purchaser who has entered into a contract in of contract respect of a direct sale may rescind the contract at any time before the expiry of the cooling-off period by giving to the vendor a notice in such form as may be prescribed indicating his intention to rescind or withdraw from the contract.
+26. (1) A purchaser who has entered into a contract in
+
+<!-- marginal: of contract -->
+
+respect of a direct sale may rescind the contract at any time before the expiry of the cooling-off period by giving to the vendor a notice in such form as may be prescribed indicating his intention to rescind or withdraw from the contract.
 
 <!-- page 17 -->
 
@@ -674,21 +806,47 @@ shall be guilty of an offence and shall, on conviction, be liable to a fine not 
 
 (3) Nothing in this section shall be construed as requiring a person to answer any question or to give any information if to do so might incriminate him.
 
-Warrant
+<!-- marginal: Warrant -->
 
-32. A warrant issued under this Act shall be valid and admissible admissible notwithstanding any defect, mistake or notwith- standing omission therein or in the application for such warrant defects. etc. and any goods or documents seized under such warrant shall be admissibie in evidence in any proceedings under this Act or the regulations.
+32. A warrant issued under this Act shall be valid and
 
-Powers of
+<!-- marginal: admissible -->
 
-33. An Assistant Controller shall have the power to investigation. investigate the commission of any offence under this Act.
+admissible notwithstanding any defect, mistake or
 
-Conduct of
+<!-- marginal: notwith- -->
 
-34. Prosecution in respect of any offence under this prosecution. Act or the regulations may be conducted by any person appointed under this Act.
+<!-- marginal: standing -->
 
-Forfeiture
+omission therein or in the application for such warrant
 
-35. (1) All goods seized in exercise of any power of goods. conferred under this Act shall be liable to forfeiture.
+<!-- marginal: defects. etc. -->
+
+and any goods or documents seized under such warrant shall be admissibie in evidence in any proceedings under this Act or the regulations.
+
+<!-- marginal: Powers of -->
+
+33. An Assistant Controller shall have the power to
+
+<!-- marginal: investigation. -->
+
+investigate the commission of any offence under this Act.
+
+<!-- marginal: Conduct of -->
+
+34. Prosecution in respect of any offence under this
+
+<!-- marginal: prosecution. -->
+
+Act or the regulations may be conducted by any person appointed under this Act.
+
+<!-- marginal: Forfeiture -->
+
+35. (1) All goods seized in exercise of any power
+
+<!-- marginal: of goods. -->
+
+conferred under this Act shall be liable to forfeiture.
 
 (2) An order for the forfeiture or for the release of any goods seized in exercise of any power conferred under this Act shall be made by the court before which the prosecution with regard thereto has been held and an order for the forfeiture of the goods shall be made if it is proved to the satisfaction of the court that an offence under this Act has been committed and that the goods were the subject matter of or were used in the commission of the offence, notwithstanding that no person may have been convicted of such offence.
 
@@ -708,7 +866,11 @@ Forfeiture
 
 (7) AIl things forfeited or deemed to be forfeited shall be delivered to the Assistant Controller and shall be disposed of in accordance with the directions of the Controller.
 
-(8) Where any goods seized in exercise of the powers, conferred by this Act are of a perishable nature or where the custody of such goods involves unreasonable expense and inconvenience, such goods may be sold at any time and the proceeds of the sale held to abide by the result of any prosecution or claim under this section.
+(8) Where any goods seized in exercise of the powers, conferred by this Act are of a perishable nature or where the custody of such goods
+
+<!-- marginal: involves -->
+
+unreasonable expense and inconvenience, such goods may be sold at any time and the proceeds of the sale held to abide by the result of any prosecution or claim under this section.
 
 <!-- marginal: No costs -->
 
@@ -740,7 +902,17 @@ B I U.
 
 ## MISCHLLANEOUS
 
-Certain 37. ( 1) A contract to which this Act applies shall not contractual contain— derms probihited.
+<!-- marginal: Certain -->
+
+37. ( 1) A contract to which this Act applies shall not
+
+<!-- marginal: contractual -->
+
+contain—
+
+<!-- marginal: derms -->
+
+<!-- marginal: probihited. -->
 
 (a) any provision purporting to exclude, restrict, or modify any right conferred on a purchaser by this Act; or
 
@@ -748,9 +920,27 @@ Certain 37. ( 1) A contract to which this Act applies shall not contractual cont
 
 (2) Where a contract to which this Act applies contains a provision contrary to subsection ( 1 ), the provision is void and the vendor and any person authorized by him to enter into such a contract are each guiliy of an offcnce.
 
-Offences hy
+<!-- marginal: Offences hy -->
 
-38. ( 1) Where any offence against any provision of hody this Act or the regulations has been committed by a corporate and by body corporate, any pcrson who at the time of the employees commission of the offence was a director, manager, and agents. sccretary or other similar officer of the body corporate or was purporting to act in any such capacity, or was in any manner or to any extent responsible for the managcmcnt of any of the affairs of such body corporate, or was assisting in such management, shall be guilty of that offence unless he proves that the offence was committed without his consent or connivancc and that he exercised all such diligence to prevent thc commission of the offence as he ought to have exercised, having regard to the nature of his funclions in that capacity and to all the circumstances.
+38. ( 1) Where any offence against any provision of
+
+<!-- marginal: hody -->
+
+this Act or the regulations has been committed by a
+
+<!-- marginal: corporate -->
+
+<!-- marginal: and by -->
+
+body corporate, any pcrson who at the time of the
+
+<!-- marginal: employees -->
+
+commission of the offence was a director, manager,
+
+<!-- marginal: and agents. -->
+
+sccretary or other similar officer of the body corporate or was purporting to act in any such capacity, or was in any manner or to any extent responsible for the managcmcnt of any of the affairs of such body corporate, or was assisting in such management, shall be guilty of that offence unless he proves that the offence was committed without his consent or connivancc and that he exercised all such diligence to prevent thc commission of the offence as he ought to have exercised, having regard to the nature of his funclions in that capacity and to all the circumstances.
 
 (2) Wherc any pcrson (in this subsection referred to as "the principal") would be liable under this Act to any punishmcnt or penalty for any act, omission, neglect or default, he shall be liable to the same punishment or pcnaity for cvery such act, omission, neglect or default of any employee or agent of his, or of the employee of
 
@@ -780,7 +970,9 @@ this Act or the regulations for which no penalty is expressly provided shall, on
 
 compound any offence under this Act or the regulations which is prescribed to be a compoundable offence by accepting from the person reasonably suspected of having committed such offence a sum of money nol exceeding such amount as may be prescribed.
 
-(2) Upon receipt of the payment under subsection (1), no further proceedings shall be taken against such person in respect of such offence and where possession
+(2) Upon receipt of the payment under subsection
+
+(1), no further proceedings shall be taken against such person in respect of such offence and where possession
 
 <!-- page 24 -->
 
@@ -790,13 +982,17 @@ has been taken of any goods, such goods may be released, subject to such conditi
 
 (3) The power to compound offences under subsection (1) shall be exercised by the Controller or the Deputy Controllers personally.
 
-Jurisdiction
+<!-- marginal: Jurisdiction -->
 
 41. Notwithstanding any written law to the contrary, a court of a Magistrate of the First Class shall have jurisdiction to try all offences under this Act or the regulations and to impose the full punishment provided therefor.
 
-Power to
+<!-- marginal: Power to -->
 
-42. (1) The Minister may by order exempt, subject to exempt. such conditions as he may deem fit to impose, any person or class of persons, or any direct sales business or class of direct sales businesses from all or any of the provisions of this Act or the regulations on the ground—
+42. (1) The Minister may by order exempt, subject to
+
+<!-- marginal: exempt. -->
+
+such conditions as he may deem fit to impose, any person or class of persons, or any direct sales business or class of direct sales businesses from all or any of the provisions of this Act or the regulations on the ground—
 
 (a) that the proceeds from the direct sales business are to be used exclusively for charitable, welfare, social, religious or educational purposes;
 
@@ -846,7 +1042,9 @@ purpose of carrying into effect this Act and the regulations and no suit or pros
 
 44. (1) The Minister may, from time to time, make such regulations as may be necessary or expedient for giving full effect to the provisions of this Act, for carrying out or achieving the objects and purposes of this Act or any provisions thereof, or for the further, better or more convenient implementation of the provisions of this Act.
 
-(2) Without prejudice to the generality of subsection (1) regulations may be made—
+(2) Without prejudice to the generality of subsection
+
+(1) regulations may be made—
 
 (a) to regulate the issue, circulation or distribution of documents, whether advertisements, prospectuses, circulars or notices, which contain—
 
@@ -866,9 +1064,7 @@ or to prohibit any such document from being issued, circulated or distributed un
 
 (ii) supplying any training facilities or other services for such a participant;
 
-(iii) providing any goods or services under a transaction effected by
-
-<!-- marginal: such -->
+(iii) providing any goods or services under a transaction effected by such
 
 <!-- marginal: a -->
 
@@ -1032,4 +1228,4 @@ Clause 44 seeks to empower the Minister to make regulations for carrying out the
 
 This Bill will not involve the Government in any extra financial expenditure.
 
-<!-- marginal: [PN. (U2)1474/III.] -->
+[PN. (U2)1474/III.]

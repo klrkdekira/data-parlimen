@@ -106,4 +106,4 @@ This Bill seeks to amend the Kemubu Agricultural Development Authority Act 1972 
 
 This Bill will not involve the Government in any extra financial expenditure.
 
-[PN(U2)1938]
+<!-- marginal: [PN(U2)1938] -->

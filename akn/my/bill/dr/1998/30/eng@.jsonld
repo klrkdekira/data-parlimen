@@ -170,7 +170,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/30/eng@/~cl_4",
       "schema:text": {
         "@language": "en",
-        "@value": "in paragraph 3— Bill \"(8) A decision of the Disciplinary Committee established under subparagraph (1) shall be appealable to the Disciplinary Appeal Board established under paragraph 3 A. (9) A decision of the Disciplinary Committee established under subparagraph (3) shall be appealable to the Minister.\"; and \"(10) The Disciplinary Appeal Board or the Minister, as the case may be, may confirm, reverse or vary the decision of the Disciplinary Committee. (11) A decision of the Disciplinary Appeal Board or the Minister under subparagraph (10) shall be final and conclusive.\"; and"
+        "@value": "in paragraph 3—"
       }
     },
     {
@@ -180,7 +180,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/30/eng@/~cl_4__para_a",
       "schema:text": {
         "@language": "en",
-        "@value": "in subparagraph (3), by substituting for the words \"Disciplinary Committee in respect of the Director General\" the words \"disciplinary authority in respect of the Director General shall be the Disciplinary Committee which\";"
+        "@value": "in subparagraph (3), by substituting for the words \"Disciplinary Committee in respect of the Director General\" the words \"disciplinary authority in respect of the Director General shall be the Disciplinary Committee which\"; Bill"
       }
     },
     {
@@ -190,7 +190,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/30/eng@/~cl_4__para_a",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for subparagraphs (8) and (9) the following subparagraphs:"
+        "@value": "by substituting for subparagraphs (8) and (9) the following subparagraphs: \"(8) A decision of the Disciplinary Committee established under subparagraph (1) shall be appealable to the Disciplinary Appeal Board established under paragraph 3 A. (9) A decision of the Disciplinary Committee established under subparagraph (3) shall be appealable to the Minister.\"; and"
       }
     },
     {
@@ -200,7 +200,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/30/eng@/~cl_4__para_a",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after subparagraph (9) the following subparagraphs:"
+        "@value": "by inserting after subparagraph (9) the following subparagraphs: \"(10) The Disciplinary Appeal Board or the Minister, as the case may be, may confirm, reverse or vary the decision of the Disciplinary Committee. (11) A decision of the Disciplinary Appeal Board or the Minister under subparagraph (10) shall be final and conclusive.\"; and"
       }
     },
     {

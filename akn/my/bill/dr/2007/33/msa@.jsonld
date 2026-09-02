@@ -207,7 +207,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/33/msa@/~cl_6",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (1)— Pembangunan Sumber Manusia Berhad (Pindaan)"
+        "@value": "dalam subseksyen (1)—"
       }
     },
     {
@@ -227,7 +227,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/33/msa@/~cl_6__para_a",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan perkataan \"pekerjanya\" perkataan \"pekerja, perantis dan pelatihnya\";"
+        "@value": "dengan menggantikan perkataan \"pekerjanya\" perkataan \"pekerja, perantis dan pelatihnya\"; Pembangunan Sumber Manusia Berhad (Pindaan)"
       }
     },
     {

@@ -140,6 +140,4 @@ B. 57 Department of Federal Secretary Sarawak
 
 ## EXPLANATORY STATEMENT
 
-The object of this Bill is to give statutory authority for certain additional payments to be made for federal puplic services in the years 1989 and 1990 in excess of the expenditure sanctioned by the Supply Act 1989. the Supplementary Supply (1988 and 1989) Act 1989, the Supplementary Supply (1988 and 1989) Act 1990, the Supplementary Supply (1989) Act 1990 and the Supply Act 1990.
-
-<!-- marginal: [PN. (U2) 1621.] -->
+The object of this Bill is to give statutory authority for certain additional payments to be made for federal puplic services in the years 1989 and 1990 in excess of the expenditure sanctioned by the Supply Act 1989. the Supplementary Supply (1988 and 1989) Act 1989, the Supplementary Supply (1988 and 1989) Act 1990, the Supplementary Supply (1989) Act 1990 and the Supply Act 1990. [PN. (U2) 1621.]

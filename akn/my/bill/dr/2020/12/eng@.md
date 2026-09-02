@@ -12,7 +12,7 @@
 
 1. Short title and commencement 2. Interpretation
 
-## Part II
+## PART II
 
 ## ESTABLISHMENT, FUNCTIONS AND POWERS OF COMMISSION
 
@@ -26,7 +26,7 @@
 
 13. Delegation of functions and powers of Commission
 
-## Part III
+## PART III
 
 ## ADMINISTRATION
 
@@ -48,7 +48,7 @@
 
 21. Consultation with other agencies
 
-## Part IV
+## PART IV
 
 ## COMPLAINT OF MISCONDUCT
 
@@ -62,7 +62,7 @@
 
 26. Responsibility to refer incident involves sexual crime etc., against person in detention or custody
 
-## Part V
+## PART V
 
 ## POWERS OF INVESTIGATION
 
@@ -78,7 +78,7 @@
 
 32. Commission may initiate investigation
 
-## Part VI
+## PART VI
 
 ## OFFENCES
 
@@ -88,7 +88,7 @@
 
 <!-- page 3 -->
 
-## Part VII
+## PART VII
 
 ## MISCELLANEOUS
 
@@ -128,7 +128,7 @@ An Act to provide for the establishment of the Independent Police Conduct Commis
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -182,7 +182,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 “Police Force Commission” means the Police Force Commission established under Article 140 of the Federal Constitution.
 
-## Part II
+## PART II
 
 ## ESTABLISHMENT, FUNCTIONS AND POWERS
 
@@ -416,7 +416,7 @@ to cooperate with, or assist in the exercise of its duties, or to assist the Com
 
 21. The Commission may consult with and disseminate information to other enforcement agencies, any Federal or State government department or any person or body as the Commission thinks appropriate.
 
-## Part IV
+## PART IV
 
 ## COMPLAINT OF MISCONDUCT
 
@@ -494,7 +494,7 @@ the Complaints Committee shall refer the complaint to the Commission and make a 
 
 26. The police force shall refer to the Commission any incident which involves sexual crime against, or any incident which has resulted in grievous hurt to or death of, any person in the detention or custody of a member of the police force as soon as practicable.
 
-## Part V
+## PART V
 
 ## POWERS OF INVESTIGATION
 
@@ -594,7 +594,7 @@ commits an offence and shall, on conviction, be liable to a fine not exceeding t
 
 (2) The investigation referred to in subsection (1) shall be conducted in accordance with Part V of this Act.
 
-## Part VI
+## PART VI
 
 ## OFFENCES
 
@@ -612,7 +612,7 @@ commits an offence and shall, on conviction, be liable to a fine not exceeding t
 
 34. Any person who gives any information or complains in writing or otherwise to the Commission, knowing or believing that the information or complaint is false commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding five years or to a fine not exceeding twenty thousand ringgit or to both.
 
-## Part VII
+## PART VII
 
 ## MISCELLANEOUS
 
@@ -724,7 +724,7 @@ required by the Commission, officer of the Commission and member of the Task For
 
 The Independent Police Conduct Commission Bill 2020 (“the proposed Act”) seeks to provide for the establishment of the Independent Police Conduct Commission (“Commission”). The objects of the proposed Act are to improve the integrity of the police force, to reduce misconduct amongst members of the police force and to promote public confidence in the police force.
 
-## Part I
+## PART I
 
 2. Part I of the proposed Act deals with preliminary matters.
 
@@ -732,7 +732,7 @@ Clause 1 contains the short title and commencement of the proposed Act.
 
 Clause 2 contains the definitions of certain terms and expressions used in the proposed Act.
 
-## Part II
+## PART II
 
 3. Part II of the proposed Act deals with the establishment, functions and powers of the Commission.
 
@@ -778,7 +778,7 @@ Clause 20 seeks to allow the Commission to make arrangements with a government d
 
 Clause 21 seeks to allow the Commission to work in cooperation with any other enforcement agencies, Federal or State government department and other persons for the performance of its functions.
 
-## Part IV
+## PART IV
 
 5. Part IV of the proposed Act consists of provisions relating to the handling of complaints by the Commission.
 
@@ -796,7 +796,7 @@ Clause 25 seeks to provide for the classification of complaints.
 
 Clause 26 seeks to impose duties on the police force to refer to the Commission any occurrence of incident which involves sexual crime or any incident which has resulted in grievous hurt to or death of any person where at the material time, such person is in the detention or custody of a member of the police force.
 
-## Part V
+## PART V
 
 6. Part V of the proposed Act consists of provisions dealing with the powers of investigation of the Commission and officers of the Commission.
 
@@ -824,7 +824,7 @@ Clause 31 seeks to provide for the establishment of a Task Force for the purpose
 
 Clause 32 seeks to enable the Commission to commence investigation into a misconduct on its own initiative.
 
-## Part VI
+## PART VI
 
 7. Part VI contains provisions dealing with offences.
 
@@ -832,7 +832,7 @@ Clause 33 makes it an offence for a person who threatens, insults or injures any
 
 Clause 34 makes it an offence for a person who gives false information to the Commission.
 
-## Part VII
+## PART VII
 
 8. Part VII consists of miscellaneous provisions.
 

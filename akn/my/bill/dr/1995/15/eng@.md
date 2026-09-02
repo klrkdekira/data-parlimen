@@ -22,49 +22,129 @@
 
 ## OFFICERS
 
-10. Appointment of officers. 11. Absence or incapacity of Director General. 12. Director General's Standing Orders. 13. Duties of Director General. 14. Medical Officer and Dental Officer for prisons. 15. Duties of Medical Officer and Dental Officer. 16. Terms and conditions of appointment. 17. Duties of prison officers. 18. Weapons, accoutrements, etc. 19. Service in Malaysia or on board vessel, aircraft, etc. 20. Observance of written laws and lawful orders. 21. Prison officers deemed public servants. 22. Use of weapons.
+10. Appointment of officers.
+
+11. Absence or incapacity of Director General.
+
+12. Director General's Standing Orders.
+
+13. Duties of Director General.
+
+14. Medical Officer and Dental Officer for prisons.
+
+15. Duties of Medical Officer and Dental Officer.
+
+16. Terms and conditions of appointment.
+
+17. Duties of prison officers.
+
+18. Weapons, accoutrements, etc.
+
+19. Service in Malaysia or on board vessel, aircraft, etc.
+
+20. Observance of written laws and lawful orders.
+
+21. Prison officers deemed public servants.
+
+22. Use of weapons.
 
 <!-- page 2 -->
 
-24. Assistance of the police in times of emergency. 25. Prison officers not to be members of trade unions.
+24. Assistance of the police in times of emergency.
+
+25. Prison officers not to be members of trade unions.
 
 ## PART IV
 
 ## CUSTODY AND REMOVAL OF PRISONERS
 
-26. Custody. 27. Delivery of persons arrested on warrant. 28. Delivery of persons on remand. 29. Officer-in-Charge to detain persons committed. 30. Production before the court. 31. Power of Director General to order production in cert
+26. Custody.
 
-32. Removal and transfer of prisoners. 33. Transfer of prisoners under sentence of death. 34. Orders relating to transferred prisoners. 35. Evidence. 36. Mentally disordered prisoner. 37. Illness of prisoner. 38. Return to prison. 39. Liability for escape. 40. Duty to assist in preventing escape. 41. Special custody in hospital. 42. Removal vessel. 43. Release of prisoners on licence. 44. Remission of sentence. 45. Discharge of prisoners. 46. Saving powers of the High Court.
+27. Delivery of persons arrested on warrant.
+
+28. Delivery of persons on remand.
+
+29. Officer-in-Charge to detain persons committed.
+
+30. Production before the court.
+
+31. Power of Director General to order production in cert
+
+32. Removal and transfer of prisoners. 33. Transfer of prisoners under sentence of death. 34. Orders relating to transferred prisoners. 35. Evidence. 36. Mentally disordered prisoner. 37. Illness of prisoner. 38. Return to prison. 39. Liability for escape. 40. Duty to assist in preventing escape.
+
+41. Special custody in hospital.
+
+42. Removal vessel.
+
+43. Release of prisoners on licence.
+
+44. Remission of sentence.
+
+45. Discharge of prisoners.
+
+46. Saving powers of the High Court.
 
 ## PART V
 
 ## EMPLOYMENT AND PRISON DISCIPLINE
 
-47. Effect of sentence of imprisonment. 48. Scheme for prisoners to engage in employment. 49. Segregation of prisoners. 50. Punishment of prison offences by Officer-in-Charge.
+47. Effect of sentence of imprisonment.
+
+48. Scheme for prisoners to engage in employment.
+
+49. Segregation of prisoners.
+
+50. Punishment of prison offences by Officer-in-Charge.
 
 <!-- page 3 -->
 
-51. Register of punishments. 52. Prisoner may make his defence. 53. Prosecution for offences.
+51. Register of punishments.
+
+52. Prisoner may make his defence.
+
+53. Prosecution for offences.
 
 ## PART VI
 
 ## OFFENCES
 
-54. Offences concerning prison supplies. 55. Payment of money forbidden. 56. Delivery of uniform, etc. on leaving. 57. Unlawful possession, sale or supply of articles supplied to
+54. Offences concerning prison supplies.
 
-58. Smuggling of prohibited articles into prison. 59. General penalty.
+55. Payment of money forbidden.
+
+56. Delivery of uniform, etc. on leaving.
+
+57. Unlawful possession, sale or supply of articles supplied to
+
+58. Smuggling of prohibited articles into prison.
+
+59. General penalty.
 
 ## PART VII
 
 ## PRISON OFFICERS' REWARD FUND
 
-60. Prison Officers' Reward Fund. 61. Application of Fund. 62. Administration of Fund.
+60. Prison Officers' Reward Fund.
+
+61. Application of Fund.
+
+62. Administration of Fund.
 
 ## PART VIII
 
 ## GENERAL
 
-63. Prison officers subject to disciplinary regulations. 64. Appointment of Visiting Justices. 65. Duties of Visiting Justices. 66. Visits by Judges, Magistrates, etc. 67. Regulations. 68. Repeal, saving and transitional provisions.
+63. Prison officers subject to disciplinary regulations.
+
+64. Appointment of Visiting Justices.
+
+65. Duties of Visiting Justices.
+
+66. Visits by Judges, Magistrates, etc.
+
+67. Regulations.
+
+68. Repeal, saving and transitional provisions.
 
 ## FIRST SCHEDULE.
 
@@ -128,7 +208,33 @@ BE IT ENACTED by the Seri Paduka Baginda Yang di-Pertuan Agong with the advice a
 
 "Medical Officer" and "Dental Officer" mean the Medical Officer or Dental Officer, as the case may be, appointed under section 14;
 
-"mental hospital" means a hospital established for the reception and detention of mentally disordered persons F.M, Ord. under section 30 of the Mental Disorders Ordinance 1952, 31/1952. and includes an approved hospital gazetted under the Sarawak Mental Health Ordinance 1961 and an asylum under the Ord. Lunatics Ordinance 1961; 16/1961. Sabah Cap 74. "Minister" means the Minister charged with the responsibility for prisons;
+"mental hospital" means a hospital established for the reception and detention of mentally disordered persons
+
+<!-- marginal: F.M, -->
+
+<!-- marginal: Ord. -->
+
+under section 30 of the Mental Disorders Ordinance 1952,
+
+<!-- marginal: 31/1952. -->
+
+and includes an approved hospital gazetted under the
+
+<!-- marginal: Sarawak -->
+
+Mental Health Ordinance 1961 and an asylum under the
+
+<!-- marginal: Ord. -->
+
+Lunatics Ordinance 1961;
+
+<!-- marginal: 16/1961. -->
+
+<!-- marginal: Sabah -->
+
+<!-- marginal: Cap 74. -->
+
+"Minister" means the Minister charged with the responsibility for prisons;
 
 "minor prison offence" and "aggravated prison offence" mean an offence committed by a prisoner against prison discipline and so specified in regulations made under this Act;
 
@@ -190,9 +296,31 @@ fully registered under section 14 of the Medical Act 1971, as the case may be;
 
 ## CONSTITUTION AND ADMINISTRATION
 
-Power to 3. The Minister may, by notification in the Gazette, declare declare any house, building, enclosure or place, or any prisons. part thereof, to be a prison for the purposes of this Act for the imprisonment or detention of persons lawfully in custody and may in like manner declare that any such prison shall cease to be a prison for the purposes of this Act.
+<!-- marginal: Power to -->
 
-Existing 4. Subject to any declaration made under this Act, the buildings buildings which at the commencement of this Act are declared prisons. in use as prisons shall be deemed to be prisons within the meaning of this Act.
+3. The Minister may, by notification in the Gazette,
+
+<!-- marginal: declare -->
+
+declare any house, building, enclosure or place, or any
+
+<!-- marginal: prisons. -->
+
+part thereof, to be a prison for the purposes of this Act for the imprisonment or detention of persons lawfully in custody and may in like manner declare that any such prison shall cease to be a prison for the purposes of this Act.
+
+<!-- marginal: Existing -->
+
+4. Subject to any declaration made under this Act, the
+
+<!-- marginal: buildings -->
+
+buildings which at the commencement of this Act are
+
+<!-- marginal: declared -->
+
+<!-- marginal: prisons. -->
+
+in use as prisons shall be deemed to be prisons within the meaning of this Act.
 
 <!-- page 8 -->
 
@@ -270,11 +398,23 @@ purposes of this Act, or of the Registration of Criminals and Undesirable Person
 
 and regulations made under this Act shall not apply thereto;
 
-(b) shall be deemed to be a prison for the purposes F.M.S. of Chapter XXVII of the Criminal Procedure Cap. 6, Code or of the Debtors Act 1957. Act 256,
+(b) shall be deemed to be a prison for the purposes
 
-Temporary
+<!-- marginal: F.M.S. -->
 
-8. (1) Whenever it appears to the Director General— prisons.
+of Chapter XXVII of the Criminal Procedure
+
+<!-- marginal: Cap. 6, -->
+
+Code or of the Debtors Act 1957.
+
+<!-- marginal: Act 256, -->
+
+<!-- marginal: Temporary -->
+
+8. (1) Whenever it appears to the Director General—
+
+<!-- marginal: prisons. -->
 
 (a) that the number of prisoners in a prison is greater than can be reasonably kept in the prison and that it is not convenient to transfer the excess number to another prison; or
 
@@ -362,9 +502,13 @@ under the Act.
 
 <!-- page 11 -->
 
-Duties of
+<!-- marginal: Duties of -->
 
-13. (1) The Director General shall— Director General.
+13. (1) The Director General shall—
+
+<!-- marginal: Director -->
+
+<!-- marginal: General. -->
 
 (a) periodically visit and inspect, or cause to be visited and inspected, all prisons in Malaysia;
 
@@ -478,23 +622,69 @@ prescribed by the Director General as necessary for the efficient performance of
 
 <!-- page 13 -->
 
-Service in
+<!-- marginal: Service in -->
 
-19. A prison officer shall be bound to serve in any part Malaysia or of Malaysia or on board any vessel, aircraft, train or any on board vessel, other vehicle in which prisoners are being transported. aircraft, etc.
+19. A prison officer shall be bound to serve in any part
 
-Observance
+<!-- marginal: Malaysia or -->
 
-20. A prison officer shall conform strictly to all laws of written and regulations relating to prisons and prisoners, and laws and lawful shall obey all lawful orders of his superior officers whether orders. given verbally or in writing or issued in the form of Director General's Standing Orders.
+of Malaysia or on board any vessel, aircraft, train or any
 
-Prison
+<!-- marginal: on board -->
 
-21. The Director General, Medical Officers, Dental officers Officers and prison officers appointed under this Act or deemed public any regulations made under the Act shall be deemed to servants. be public servants within the meaning of the Penal Code.
+<!-- marginal: vessel, -->
 
-### FM.S.
+other vehicle in which prisoners are being transported.
 
-Cap 45 Use of
+<!-- marginal: aircraft, etc. -->
 
-22. (1) Subject to subsection (2), a prison officer may weapons. use weapons against a prisoner—
+<!-- marginal: Observance -->
+
+20. A prison officer shall conform strictly to all laws
+
+<!-- marginal: of written -->
+
+and regulations relating to prisons and prisoners, and
+
+<!-- marginal: laws and -->
+
+<!-- marginal: lawful -->
+
+shall obey all lawful orders of his superior officers whether
+
+<!-- marginal: orders. -->
+
+given verbally or in writing or issued in the form of Director General's Standing Orders.
+
+<!-- marginal: Prison -->
+
+21. The Director General, Medical Officers, Dental
+
+<!-- marginal: officers -->
+
+Officers and prison officers appointed under this Act or
+
+<!-- marginal: deemed -->
+
+<!-- marginal: public -->
+
+any regulations made under the Act shall be deemed to
+
+<!-- marginal: servants. -->
+
+be public servants within the meaning of the Penal Code.
+
+<!-- marginal: FM.S. -->
+
+<!-- marginal: Cap 45 -->
+
+<!-- marginal: Use of -->
+
+22. (1) Subject to subsection (2), a prison officer may
+
+<!-- marginal: weapons. -->
+
+use weapons against a prisoner—
 
 (a) escaping or attempting to escape and where the prison officer has reasonable grounds to believe that he cannot otherwise prevent the escape or attempt to escape;
 
@@ -574,7 +764,15 @@ pay, pensions and conditions of service, other than questions of discipline and 
 
 <!-- page 15 -->
 
-(2) An association established under subsection (1) shall be entirely independent of and be unassociated with any body of persons outside the prison department and shall be deemed not to be a trade union within the meaning Act 262. of the Trade Unions Act 1959, and shall be exempt from Act 335 the provisions of the Societies Act 1966.
+(2) An association established under subsection (1) shall be entirely independent of and be unassociated with any body of persons outside the prison department and shall be deemed not to be a trade union within the meaning
+
+<!-- marginal: Act 262. -->
+
+of the Trade Unions Act 1959, and shall be exempt from
+
+<!-- marginal: Act 335 -->
+
+the provisions of the Societies Act 1966.
 
 (3) Subject to subsections (1) and (2), no prison officer shall become a member of any trade union or of any association having for its objects or as one of its objects the control or influencing of the pay, pensions or conditions of service of prison officers.
 
@@ -582,13 +780,21 @@ pay, pensions and conditions of service, other than questions of discipline and 
 
 (5) Any question as to whether a body is a trade union or an association to, which this section applies shall be determined by the Minister.
 
-(6) An association established prior to the coming into FM Ord. force of this Act under section 27A of the Prisons 81/1952 Ordinance 1952, shall be deemed to be an association established under subsection (1) until the association is dissolved.
+(6) An association established prior to the coming into
+
+<!-- marginal: FM Ord. -->
+
+force of this Act under section 27A of the Prisons
+
+<!-- marginal: 81/1952 -->
+
+Ordinance 1952, shall be deemed to be an association established under subsection (1) until the association is dissolved.
 
 ## PART IV
 
 ## CUSTODY AND REMOVAL OF PRISONERS
 
-Custody.
+<!-- marginal: Custody. -->
 
 26. (1) A prisoner—
 
@@ -650,9 +856,35 @@ shall be delivered to the Officer-in-Charge of the prison together with a warran
 
 the person delivered under subsection (1) according to the terms of the warrant.
 
-Officer-in- 29. An Officer-in-Charge shall keep and detain a person Charge to duly committed to his custody by a court or competent detain persons authority according to the terms of the warrant or order committed. by which the person has been committed or until the person is discharged by due course of law.
+<!-- marginal: Officer-in- -->
 
-Production 30. (1) Whenever the presence of a prisoner is required before the in a court having civil or criminal jurisdiction, the court court. may issue an order in the prescribed form addressed to the Officer-in-Charge requiring for the production of that prisoner at the time and place to be named in the order.
+29. An Officer-in-Charge shall keep and detain a person
+
+<!-- marginal: Charge to -->
+
+duly committed to his custody by a court or competent
+
+<!-- marginal: detain -->
+
+<!-- marginal: persons -->
+
+authority according to the terms of the warrant or order
+
+<!-- marginal: committed. -->
+
+by which the person has been committed or until the person is discharged by due course of law.
+
+<!-- marginal: Production -->
+
+30. (1) Whenever the presence of a prisoner is required
+
+<!-- marginal: before the -->
+
+in a court having civil or criminal jurisdiction, the court
+
+<!-- marginal: court. -->
+
+may issue an order in the prescribed form addressed to the Officer-in-Charge requiring for the production of that prisoner at the time and place to be named in the order.
 
 (2) Upon receipt of the order, the Officer-in-Charge shall cause the prisoner named in the order to be brought up as directed and shall provide for his safe custody during his absence from prison.
 
@@ -660,11 +892,25 @@ Production 30. (1) Whenever the presence of a prisoner is required before the in
 
 (4) An order issued from the Federal Court, Court of Appeal or the High Court may be signed by the Registrar of the Court, and if issued by any other court shall be signed by the Sessions Court Judge, Magistrate, Registrar or such other presiding officer, as the case may be.
 
-Power of
+<!-- marginal: Power of -->
 
-31. (1) The Director General— Director General to
+31. (1) The Director General—
 
-(a) may, being satisfied that there are reasonable order grounds requiring the presence of a prisoner at production in certain cases. any place in Malaysia; or
+<!-- marginal: Director -->
+
+<!-- marginal: General to -->
+
+(a) may, being satisfied that there are reasonable
+
+<!-- marginal: order -->
+
+grounds requiring the presence of a prisoner at
+
+<!-- marginal: production in -->
+
+<!-- marginal: certain cases. -->
+
+any place in Malaysia; or
 
 (b) shall, where the presence of a prisoner is required for the purpose of any public inquiry,
 
@@ -736,9 +982,17 @@ if the order were directed to the Officer-in-Charge of the prison to which the p
 
 <!-- page 19 -->
 
-Mentally
+<!-- marginal: Mentally -->
 
-36. (1) Where a prisoner undergoing a sentence of disordered imprisonment or sentenced to death appears to the Director prisoner. General on the certification of the Medical Officer to be mentally disordered, the Director General shall, by order in writing, direct that the prisoner be removed to, kept and treated at a mental hospital or other fit place of safe custody in Malaysia and there to be kept and treated as the Director General directs.
+36. (1) Where a prisoner undergoing a sentence of
+
+<!-- marginal: disordered -->
+
+imprisonment or sentenced to death appears to the Director
+
+<!-- marginal: prisoner. -->
+
+General on the certification of the Medical Officer to be mentally disordered, the Director General shall, by order in writing, direct that the prisoner be removed to, kept and treated at a mental hospital or other fit place of safe custody in Malaysia and there to be kept and treated as the Director General directs.
 
 (2) An order issued under subsection (1) shall be an authority for the reception of the prisoner and for his detention in the mental hospital or other fit place in Malaysia until removed or discharged as hereinafter provided.
 
@@ -752,7 +1006,15 @@ Mentally
 
 (5) Where a prisoner detained under subsection (1) is, in the opinion of the medical officer of the mental hospital, still mentally disordered and the term of imprisonment to which the prisoner has been sentenced has expired—
 
-(a) in the case of West Malaysia, section 46 of the FM. Ord. Mental Disorders Ordinance 1952 shall apply 31/1952. to the prisoner as if he were detained in accordance with a certificate given under section 42 of the Ordinance;
+(a) in the case of West Malaysia, section 46 of the
+
+<!-- marginal: FM. Ord. -->
+
+Mental Disorders Ordinance 1952 shall apply
+
+<!-- marginal: 31/1952. -->
+
+to the prisoner as if he were detained in accordance with a certificate given under section 42 of the Ordinance;
 
 <!-- page 20 -->
 
@@ -794,25 +1056,49 @@ in a prison in which there are inadequate facilities for the treatment of that p
 
 section 37 is, in the opinion of the medical officer of the hospital, no longer necessary for the prisoner to remain at the hospital, the medical officer shall transmit a certificate stating that fact to the Officer-in-Charge of the prison from where the prisoner was removed.
 
-(2) On receipt of the certificate referred to in subsection (1), the Officer-in-Charge shall cause the prisoner to be brought back to the prison, if he is still liable to be confined in the prison.
+(2) On receipt of the certificate referred to in subsection
+
+(1), the Officer-in-Charge shall cause the prisoner to be brought back to the prison, if he is still liable to be confined in the prison.
 
 <!-- page 21 -->
 
-Liability
+<!-- marginal: Liability -->
 
-39. If a prisoner shall escape during the time he is in for escape. a hospital, no prison officer shall be liable for the escape unless the prisoner has been specifically placed in the custody of the prison officer.
+39. If a prisoner shall escape during the time he is in
 
-Duty to
+<!-- marginal: for escape. -->
 
-40. (1) It shall be the duty of the medical officers of assist in the hospital to which a prisoner has been removed under preventing escape. section 37 to lend all assistance in order to ensure that the necessary precautions for preventing the escape of the prisoner under treatment in the hospital have been taken.
+a hospital, no prison officer shall be liable for the escape unless the prisoner has been specifically placed in the custody of the prison officer.
+
+<!-- marginal: Duty to -->
+
+40. (1) It shall be the duty of the medical officers of
+
+<!-- marginal: assist in -->
+
+the hospital to which a prisoner has been removed under
+
+<!-- marginal: preventing -->
+
+<!-- marginal: escape. -->
+
+section 37 to lend all assistance in order to ensure that the necessary precautions for preventing the escape of the prisoner under treatment in the hospital have been taken.
 
 (2) It shall be lawful for the medical officers in subsection (1) to take such measures for preventing the escape of the prisoner as shall be necessary:
 
 Provided that no measures for preventing the escape of a prisoner shall be taken which, in the opinion of the medical officers, is likely to be prejudicial to the health of the prisoner.
 
-Special
+<!-- marginal: Special -->
 
-41. Where from the gravity of the offence for which a custody in prisoner may be in custody or for any other reason, the hospital. Officer-in-Charge considers it desirable to take special measures for the security of a prisoner while under treatment in a hospital, the Officer-in-Charge may, in the event of there being no prison officer available, place the prisoner into the charge of two or more fit and proper persons, one of whom shall be with the prisoner at all times,—
+41. Where from the gravity of the offence for which a
+
+<!-- marginal: custody in -->
+
+prisoner may be in custody or for any other reason, the
+
+<!-- marginal: hospital. -->
+
+Officer-in-Charge considers it desirable to take special measures for the security of a prisoner while under treatment in a hospital, the Officer-in-Charge may, in the event of there being no prison officer available, place the prisoner into the charge of two or more fit and proper persons, one of whom shall be with the prisoner at all times,—
 
 (a) who shall be vested with full power and authority to do all things necessary to prevent the prisoner from escaping; and
 
@@ -860,9 +1146,13 @@ release on licence and on such conditions as may be specified in the licence, a 
 
 <!-- page 23 -->
 
-Remission
+<!-- marginal: Remission -->
 
-44. (1) With a view to encouraging good conduct and of sentence. industry and to facilitate reformative treatment, a prisoner sentenced to imprisonment of more than one month, shall be entitled to be granted a remission of his sentence.
+44. (1) With a view to encouraging good conduct and
+
+<!-- marginal: of sentence. -->
+
+industry and to facilitate reformative treatment, a prisoner sentenced to imprisonment of more than one month, shall be entitled to be granted a remission of his sentence.
 
 (2) All or any part of the remission for which a prisoner may be entitled may, on commission of an offence under section 50, be cancelled by the Director General:
 
@@ -872,9 +1162,13 @@ Provided that in no case shall any forfeiture exceed the amount of remission ear
 
 (4) A prisoner who is awarded a remission of part of his sentence shall be discharged upon the expiration of so much of his sentence as shall remain after deducting from it such part.
 
-Discharge
+<!-- marginal: Discharge -->
 
-45. (1) An Officer-in-Charge shall be responsible for of prisoners. the due discharge of a prisoner immediately upon his becoming entitled to release, whether by—
+45. (1) An Officer-in-Charge shall be responsible for
+
+<!-- marginal: of prisoners. -->
+
+the due discharge of a prisoner immediately upon his becoming entitled to release, whether by—
 
 (a) the expiration of his term of sentence;
 
@@ -970,9 +1264,11 @@ employment whilst they are serving their sentences, the Minister may introduce a
 
 (b) shall, at all times be deemed to be in prison and subject to all the same incidents as if he were actually in prison.
 
-Segregation
+<!-- marginal: Segregation -->
 
-49. (1) A prisoner— of prisoners.
+49. (1) A prisoner—
+
+<!-- marginal: of prisoners. -->
 
 (a) confined under civil process;
 
@@ -990,15 +1286,21 @@ shall not ordinarily be associated with prisoners serving their sentences of imp
 
 (4) Where it appears to the Officer-in-Charge that it is desirable for the good order and discipline of a prison or for any other reason that a prisoner be segregated, it shall be lawful for the officer to order the segregation of the prisoner for such period as he may consider necessary.
 
-Punishment
+<!-- marginal: Punishment -->
 
 50. (1) An Officer-in-Charge may punish a prisoner found
 
-### of prison
+<!-- marginal: of prison -->
 
-after due inquiry to be guilty of a minor prison offence offences by by ordering him to undergo one or more of the following Officer-in-
+after due inquiry to be guilty of a minor prison offence
 
-### Charge.
+<!-- marginal: offences by -->
+
+by ordering him to undergo one or more of the following
+
+<!-- marginal: Officer-in- -->
+
+<!-- marginal: Charge. -->
 
 punishments:
 
@@ -1052,17 +1354,29 @@ opportunity—
 
 <!-- page 27 -->
 
-Prosecution
+<!-- marginal: Prosecution -->
 
-53. Nothing in this Act shall be construed so as to exempt for offences. any prisoner from being proceeded against for any offence by the ordinary course of law, but no prisoner shall be punished twice for the same offence.
+53. Nothing in this Act shall be construed so as to exempt
+
+<!-- marginal: for offences. -->
+
+any prisoner from being proceeded against for any offence by the ordinary course of law, but no prisoner shall be punished twice for the same offence.
 
 ## PART VI
 
 ## OFFENCES
 
-Offences
+<!-- marginal: Offences -->
 
-54. (1) No prison officer, Medical Officer, Dental Officer concerning or staff employed by the prison department shall— prison supplies.
+54. (1) No prison officer, Medical Officer, Dental Officer
+
+<!-- marginal: concerning -->
+
+or staff employed by the prison department shall—
+
+<!-- marginal: prison -->
+
+<!-- marginal: supplies. -->
 
 (a) directly or indirectly have any pecuniary interest in the purchase of prison supplies;
 
@@ -1134,11 +1448,31 @@ the prison in which he is serving at the time of ceasing to be a prison officer,
 
 <!-- page 29 -->
 
-Unlawful
+<!-- marginal: Unlawful -->
 
-57. (1) A person, not being a prison officer, who— possession, sale or
+57. (1) A person, not being a prison officer, who—
 
-(a) without lawful authority, purchases or receives supply of or is found in possession of and who fails to articles supplied to account satisfactorily for his possession of— prison officers, etc. (i) an article which has been supplied to a prison officer for the execution of his duty; or
+<!-- marginal: possession, -->
+
+<!-- marginal: sale or -->
+
+(a) without lawful authority, purchases or receives
+
+<!-- marginal: supply of -->
+
+or is found in possession of and who fails to
+
+<!-- marginal: articles -->
+
+<!-- marginal: supplied to -->
+
+account satisfactorily for his possession of—
+
+<!-- marginal: prison -->
+
+<!-- marginal: officers, etc. -->
+
+(i) an article which has been supplied to a prison officer for the execution of his duty; or
 
 (ii) a medal or decoration granted to a prison officer for service or good conduct;
 
@@ -1228,9 +1562,13 @@ to as the Fund) which shall be operated as a Trust Account within the Federal Co
 
 in the course of a search in a prison.
 
-Application
+<!-- marginal: Application -->
 
-61. Subject to regulations made under this Act, the Fund of Fund. shall be applied for the purpose of—
+61. Subject to regulations made under this Act, the Fund
+
+<!-- marginal: of Fund. -->
+
+shall be applied for the purpose of—
 
 (a) rewarding prison officers for outstanding acts of initiative and resource or for skill in the performance of any departmental duty requiring tact or ability;
 
@@ -1238,9 +1576,17 @@ Application
 
 (c) procuring comforts, convenience and other benefits, which are not chargeable to public revenue, for prison officers, former prison officers who have retired on pension, gratuity or allowance or persons who were wholly or partially dependent on deceased prison officers or former prison officers at the time of their death.
 
-Adminis-
+<!-- marginal: Adminis- -->
 
-62. (1) There shall be established a Prison Officers' tration of Reward Fund Committee which shall have the control Fund. of the Fund.
+62. (1) There shall be established a Prison Officers'
+
+<!-- marginal: tration of -->
+
+Reward Fund Committee which shall have the control
+
+<!-- marginal: Fund. -->
+
+of the Fund.
 
 (2) The Committee shall consist of the following members:
 
@@ -1328,9 +1674,19 @@ for the purpose of ascertaining, so far as possible, whether the provisions of t
 
 (4) A Visiting Justice shall, for the purpose of this Act, have power to summon witnesses and to administer oaths.
 
-Visits by
+<!-- marginal: Visits by -->
 
-66. (1) A Judge of the High Court, a Sessions Court Judges, Judge, and a Magistrate having jurisdiction in a place Magistrates, etc. where a prison is situated may, whenever he thinks fit—
+66. (1) A Judge of the High Court, a Sessions Court
+
+<!-- marginal: Judges, -->
+
+Judge, and a Magistrate having jurisdiction in a place
+
+<!-- marginal: Magistrates, -->
+
+<!-- marginal: etc. -->
+
+where a prison is situated may, whenever he thinks fit—
 
 (a) enter and examine the condition of the prison and of the prisoners in the prison;
 
@@ -1340,7 +1696,7 @@ and enter any observations he thinks fit to make in reference to the condition o
 
 (2) A Visitors' Book shall be kept for the purpose in subsection (1) by the Officer-in-Charge which shall be produced to the Visiting Justices at their next visit.
 
-Regulations.
+<!-- marginal: Regulations. -->
 
 67. (1) The Minister may publish in the Gazette such regulations as may be necessary or expedient for the
 
@@ -1360,7 +1716,11 @@ good management and government of prisons, and for carrying out or achieving the
 
 (e) the diets, categorisation, safe custody, separation, treatment and discipline of prisoners;
 
-(f) the employment of prisoners, including provisions for the rate, use and apportionment of earnings of prisoners;
+(f) the employment of prisoners,
+
+<!-- marginal: including -->
+
+provisions for the rate, use and apportionment of earnings of prisoners;
 
 (g) the scheme of gainful employment and in particular for—
 
@@ -1396,9 +1756,19 @@ good management and government of prisons, and for carrying out or achieving the
 
 (q) any matter which is required to be or which may be prescribed under this Act.
 
-Repeal,
+<!-- marginal: Repeal, -->
 
-68. (1) The laws mentioned in the Second Schedule to saving and the extent to which they are therein expressed to be transitional provisions. repealed are repealed accordingly.
+68. (1) The laws mentioned in the Second Schedule to
+
+<!-- marginal: saving and -->
+
+the extent to which they are therein expressed to be
+
+<!-- marginal: transitional -->
+
+<!-- marginal: provisions. -->
+
+repealed are repealed accordingly.
 
 <!-- page 36 -->
 
@@ -1494,17 +1864,9 @@ Prison Rules
 
 Extent of Application State
 
-1. Sabah
+1. Sabah Part 6 of the Prisons Rules 1953 (L.N. 326/1953)
 
-## Part 6 of the Prisons Rules 1953
-
-(L.N. 326/1953)
-
-2. Sarawak
-
-## Part 6 of the Prisons Rules 1953
-
-(L.N. 326/1953)
+2. Sarawak Part 6 of the Prisons Rules 1953 (L.N. 326/1953)
 
 ## EXPLANATORY STATEMENT
 

@@ -14,7 +14,9 @@
 
 ## PERMULAAN
 
-1. Tajuk ringkas, pemakaian dan mula berkuatkuasa. 2. Tafsiran.
+1. Tajuk ringkas, pemakaian dan mula berkuatkuasa.
+
+2. Tafsiran.
 
 ## BAHAGIAN II
 
@@ -22,13 +24,19 @@
 
 ## PENGGANTUNGAN DAN PEMBATALAN LESEN
 
-3. Kuasa Menteri untuk memberi lesen untuk mengendalikan rumah penyembelihan. 4. Penggantungan atau pembatalan lesen atas pelanggaran syarat lesen. 5. Penggantungan atau pembatalan lesen atas pelanggaran Akta atau kaedah-kaedah.
+3. Kuasa Menteri untuk memberi lesen untuk mengendalikan rumah penyembelihan.
+
+4. Penggantungan atau pembatalan lesen atas pelanggaran syarat lesen.
+
+5. Penggantungan atau pembatalan lesen atas pelanggaran Akta atau kaedah-kaedah.
 
 ## BAHAGIAN III
 
 ## TUGAS-TUGAS PENGENDALI BERLESEN
 
-6. Tugas-tugas am pengendali berlesen. 7. Pengemukaan laporan-laporan, akaun-akaun, maklumat statistik, dll.
+6. Tugas-tugas am pengendali berlesen.
+
+7. Pengemukaan laporan-laporan, akaun-akaun, maklumat statistik, dll.
 
 ## BAHAGIAN
 
@@ -36,7 +44,11 @@
 
 ## CAT DAN FEE
 
-8. Kuasa pengendali berlesen untuk memungut caj dan fee. 9. Pengemukaan memorandum bagi perubahan pada caj dan fee yang sedia ada. 10. Menteri hendaklah membuat pindaan kepada kaedah-kaedah berkenaan dengan perubahan pada caj dan fee.
+8. Kuasa pengendali berlesen untuk memungut caj dan fee.
+
+9. Pengemukaan memorandum bagi perubahan pada caj dan fee yang sedia ada.
+
+10. Menteri hendaklah membuat pindaan kepada kaedah-kaedah berkenaan dengan perubahan pada caj dan fee.
 
 <!-- page 2 -->
 
@@ -156,11 +168,35 @@ penyembelihan.
 
 ## PEMBATALAN LESEN
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-3. (1) Menteri boleh memberi lesen kepada mana-mana Menteri orang atau kumpulan orang yang tender atau cadangan- untuk mem- beri lesen nya untuk mengendalikan rumah penyembelihan unluk me- telahpun disetujuterima oleh Kerajaan. ngendalikan rumah
+3. (1) Menteri boleh memberi lesen kepada mana-mana
 
-(2) Tanpa menjejaskan keluasan subseksyen (1), tiap- penyem- belihan. tiap lesen yang dikeluarkan di bawah seksyen ini hendaklah menyatakan—
+<!-- marginal: Menteri -->
+
+orang atau kumpulan orang yang tender atau cadangan-
+
+<!-- marginal: untuk mem- -->
+
+<!-- marginal: beri lesen -->
+
+nya untuk mengendalikan rumah penyembelihan
+
+<!-- marginal: unluk me- -->
+
+telahpun disetujuterima oleh Kerajaan.
+
+<!-- marginal: ngendalikan -->
+
+<!-- marginal: rumah -->
+
+(2) Tanpa menjejaskan keluasan subseksyen (1), tiap-
+
+<!-- marginal: penyem- -->
+
+<!-- marginal: belihan. -->
+
+tiap lesen yang dikeluarkan di bawah seksyen ini hendaklah menyatakan—
 
 (a) tempoh lesen itu;
 
@@ -250,27 +286,33 @@ member! notis secara bertulis kepada pengendali berlesen itu menghendakinya mema
 
 ### terakhir dan muktamad.
 
-5. ( 1) Jika Ketua Pcngarah berpuas hati bahawa gantungan
+5. ( 1) Jika Ketua Pcngarah berpuas hati bahawa
+
+<!-- marginal: gantungan -->
 
 ### seseorang pengendali berlesen telah melanggar atau
 
-atau pirmbatalan
+<!-- marginal: atau -->
+
+<!-- marginal: pirmbatalan -->
 
 ### telah gagal untuk mematuhi mana-mana peruntukan
 
-Iesen atas
+<!-- marginal: Iesen atas -->
 
 ### Akta ini atau mana-mana kaedah yang dibuat di
 
-pelanggaran
+<!-- marginal: pelanggaran -->
 
 ### bawahnya, dia hendaklah mengemukakan kepada
 
-Akta atau kaedah-
+<!-- marginal: Akta atau -->
+
+<!-- marginal: kaedah- -->
 
 ### Menteri suatu laporan mengenai pelanggaran atau
 
-kaedah.
+<!-- marginal: kaedah. -->
 
 ### ketakpatuhan oleh pengendali berlesen itu.
 
@@ -362,11 +404,29 @@ kecekapan, ekonomi dan keselamatan pengendalian berkenaan dengan perkhidmatan-pe
 
 ## RANG UNDANG-UNDANG
 
-Pengemukaan
+<!-- marginal: Pengemukaan -->
 
-7. (1) Menteri boleh menghendaki seseorang laporan- pengendali berlesen— laporan, akaun-akaun,
+7. (1) Menteri boleh menghendaki seseorang
 
-(a) mengemukakan kepada Ketua Pengarah dalam maklumat statistik, masa tiga bulan selepas berakhirnya setiap dll. tahun kewangan atau apa-apa tempoh yang lebih panjang sebagaimana yang dibenarkan oleh Ketua Pengarah— (i) suatu laporan mengenai kendaliannya dalam tahun kewangan itu yang mengandungi apa-apa maklumat yang perlu untuk membolehkan Kerajaan membuat suatu penilaian termaklum tentang kendalian itu; dan (ii) kunci kira-kira dan akaun untung rugi tahunannya yang telah diaudit dan lap or an-laporan juruaudit dan pengarah- pengarahnya;
+<!-- marginal: laporan- -->
+
+pengendali berlesen—
+
+<!-- marginal: laporan, -->
+
+<!-- marginal: akaun-akaun, -->
+
+(a) mengemukakan kepada Ketua Pengarah dalam
+
+<!-- marginal: maklumat -->
+
+<!-- marginal: statistik, -->
+
+masa tiga bulan selepas berakhirnya setiap
+
+<!-- marginal: dll. -->
+
+tahun kewangan atau apa-apa tempoh yang lebih panjang sebagaimana yang dibenarkan oleh Ketua Pengarah— (i) suatu laporan mengenai kendaliannya dalam tahun kewangan itu yang mengandungi apa-apa maklumat yang perlu untuk membolehkan Kerajaan membuat suatu penilaian termaklum tentang kendalian itu; dan (ii) kunci kira-kira dan akaun untung rugi tahunannya yang telah diaudit dan lap or an-laporan juruaudit dan pengarah- pengarahnya;
 
 (b) mengemukakan kepada Ketua Pengarah—
 
@@ -464,9 +524,41 @@ tiga puluh hari dari tarikh notis penolakan memorandum itu.
 
 (5) Menteri hendaklah menimbang permohonan untuk kajian semula dalam masa tiga bulan dari pengemukaannya.
 
-Menteri
+<!-- marginal: Menteri -->
 
-10. Jika Menteri meluluskan sesuatu memorandum, hendaklah dengan atau tanpa apa-apa ubahsuaian, dia hendaklah, membuat pindaan dengan seberapa segera yang praktik, membuat pindaan- kepada pindaan yang perlu kepada kaedah-kaedah yang dibuat kaedah- kaedah menurut perenggan 11 (2) (f) berkenaan dengan berkenaan perubahan pada caj dan fee yang sedia ada. dengan perubahan pada caj dan fee.
+10. Jika Menteri meluluskan sesuatu memorandum,
+
+<!-- marginal: hendaklah -->
+
+dengan atau tanpa apa-apa ubahsuaian, dia hendaklah,
+
+<!-- marginal: membuat -->
+
+<!-- marginal: pindaan -->
+
+dengan seberapa segera yang praktik, membuat pindaan-
+
+<!-- marginal: kepada -->
+
+pindaan yang perlu kepada kaedah-kaedah yang dibuat
+
+<!-- marginal: kaedah- -->
+
+<!-- marginal: kaedah -->
+
+menurut perenggan 11 (2) (f) berkenaan dengan
+
+<!-- marginal: berkenaan -->
+
+perubahan pada caj dan fee yang sedia ada.
+
+<!-- marginal: dengan -->
+
+<!-- marginal: perubahan -->
+
+<!-- marginal: pada caj dan -->
+
+<!-- marginal: fee. -->
 
 ## BAHAGIAN V
 
@@ -476,9 +568,13 @@ Menteri
 
 ## PENDAKWAAN
 
-Kaedah-
+<!-- marginal: Kaedah- -->
 
-11. (1) Menteri boleh, dari semasa ke semasa, membuat kaedah. apa-apa kaedah sebagaimana yang perlu atau suaimanfaat bagi melaksanakan atau mencapai tujuan- tujuan dan maksud-maksud Akta ini.
+11. (1) Menteri boleh, dari semasa ke semasa, membuat
+
+<!-- marginal: kaedah. -->
+
+apa-apa kaedah sebagaimana yang perlu atau suaimanfaat bagi melaksanakan atau mencapai tujuan- tujuan dan maksud-maksud Akta ini.
 
 (2) Tanpa menjejaskan keluasan subseksyen (1), kaedah-kaedah boleh dibuat—
 
@@ -534,27 +630,63 @@ telah dilakukan oleh sesuatu pertubuhan perbadanan
 
 ## RANG UNDANG-UNDANG
 
-Penjalanan
+<!-- marginal: Penjalanan -->
 
-14. Pendakwaan-pendakwaan berkenaan dengan pendakwaan. kesalahan-kesalahan yang dilakukan di bawah Akta ini atau apa-apa kaedah yang dibuat di bawahnya boleh dijalankan oleh Ketua Pengarah atau mana-mana pegawai atau pengkhidmat Kerajaan yang diberikuasa secara khusus bagi maksud itu oleh Ketua Pengarah.
+14. Pendakwaan-pendakwaan berkenaan dengan
+
+<!-- marginal: pendakwaan. -->
+
+kesalahan-kesalahan yang dilakukan di bawah Akta ini atau apa-apa kaedah yang dibuat di bawahnya boleh dijalankan oleh Ketua Pengarah atau mana-mana pegawai atau pengkhidmat Kerajaan yang diberikuasa secara khusus bagi maksud itu oleh Ketua Pengarah.
 
 ## BAHAGIAN VI
 
 ## PELBAGAI
 
-Kuasa-kuasa,
+<!-- marginal: Kuasa-kuasa, -->
 
-15. (1) Ketua Pengarah hendaklah, sebagai tambahan fungsi-fungsi kepada kuasa-kuasa yang diberikan dan fungsi-fungsi dan tugas- tugas Ketua dan tugas-tugas yang dikenakan ke atasnya oleh mana- Pengarah. mana undang-undang bertulis, menjalankan fungsi- fungsi pengawalseliaan berkenaan dengan pengadaan perkhidmatan-perkhidmatan rumah penyembelihan dan pengurusan kemudahan-kemudahan rumah penyem- belihan oleh seseorang pengendali berlesen.
+15. (1) Ketua Pengarah hendaklah, sebagai tambahan
+
+<!-- marginal: fungsi-fungsi -->
+
+kepada kuasa-kuasa yang diberikan dan fungsi-fungsi
+
+<!-- marginal: dan tugas- -->
+
+<!-- marginal: tugas Ketua -->
+
+dan tugas-tugas yang dikenakan ke atasnya oleh mana-
+
+<!-- marginal: Pengarah. -->
+
+mana undang-undang bertulis, menjalankan fungsi- fungsi pengawalseliaan berkenaan dengan pengadaan perkhidmatan-perkhidmatan rumah penyembelihan dan pengurusan kemudahan-kemudahan rumah penyem- belihan oleh seseorang pengendali berlesen.
 
 (2) Ketua Pengarah hendaklah, dengan kelulusan Menteri, melalui kaedah-kaedah, menetapkan apa-apa standard prestasi mengenai pengadaan perkhidmatan- perkhidmatan rumah penyembelihan yang, pada pendapatnya, patut dicapai oleh seseorang pengendali berlesen.
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-16. Ketua Pengarah dan mana-mana pegawai yang pemeriksaan diberikuasa dengan sewajarnya olehnya secara bertulis Ketua Pengarah. boleh, bagi maksud-maksud Akta ini atau mana-mana kaedah yang dibuat di bawahnya, memasuki mana-mana premis yang diduduki oleh seseorang pengendali berlesen untuk meneliti dan memeriksa keadaan premis itu atau mana-mana bangunan atau kemudahan di dalamnya.
+16. Ketua Pengarah dan mana-mana pegawai yang
 
-Kuasa-kuasa
+<!-- marginal: pemeriksaan -->
 
-17. (1) Yang di-Pertuan Agong boleh, apabila khas semasa berlakunya apa-apa wabak penyakit, kekacauan darurat. perindustrian, mogok, sekat-masuk atau apa-apa kejadian lain yang menimbulkan keadaan darurat, atau
+diberikuasa dengan sewajarnya olehnya secara bertulis
+
+<!-- marginal: Ketua -->
+
+<!-- marginal: Pengarah. -->
+
+boleh, bagi maksud-maksud Akta ini atau mana-mana kaedah yang dibuat di bawahnya, memasuki mana-mana premis yang diduduki oleh seseorang pengendali berlesen untuk meneliti dan memeriksa keadaan premis itu atau mana-mana bangunan atau kemudahan di dalamnya.
+
+<!-- marginal: Kuasa-kuasa -->
+
+17. (1) Yang di-Pertuan Agong boleh, apabila
+
+<!-- marginal: khas semasa -->
+
+berlakunya apa-apa wabak penyakit, kekacauan
+
+<!-- marginal: darurat. -->
+
+perindustrian, mogok, sekat-masuk atau apa-apa kejadian lain yang menimbulkan keadaan darurat, atau
 
 <!-- page 13 -->
 
@@ -592,9 +724,13 @@ sebagaimana yang difikirkan patut oleh Menteri hendaklah menjadi bukti muktamad 
 
 ## RANG UNDANG-UNDANG
 
-Penyampaian
+<!-- marginal: Penyampaian -->
 
-18. Apa-apa notis yang dikehendaki disampaikan notis. kepada seseorang perigendali berlesen di bawah Akta ini hendaklah disampaikan—
+18. Apa-apa notis yang dikehendaki disampaikan
+
+<!-- marginal: notis. -->
+
+kepada seseorang perigendali berlesen di bawah Akta ini hendaklah disampaikan—
 
 (a) dengan menghantarserahkan notis itu kepada pengendali berlesen itu sendiri; atau
 
@@ -602,13 +738,33 @@ Penyampaian
 
 (2) Jika sesuatu notis telah diposkan mengikut perenggan (1) (b), notis itu hendaklah disifatkan telah disampaikan kepada pengendali berlesen itu apabila habisnya tempoh satu minggu dari tarikh notis itu diposkan.
 
-Pengesahan,
+<!-- marginal: Pengesahan, -->
 
 19. Apa-apa fee yang dipungut dan dipegangsimpan oleh mana-mana orang berkenaan dengan pengendalian mana-mana rumah penyembelihan menurut apa-apa perjanjian, pajakan atau penyewaan yang telah dibuat sebelum tarikh mula berkuatkuasanya Akta ini di antara Kerajaan Malaysia dan orang itu adalah dengan ini disahkan dan disifatkan telah dipungut dan dipegangsimpan dengan sahnya oleh orang itu.
 
-Orang-orang
+<!-- marginal: Orang-orang -->
 
-20. (1) Mana-mana orang yang telah membuat yang perjanjian, pajakan atau penyewaan dengan Kerajaan disifatkan sebagai Malaysia berkenaan dengan pengendalian sesuatu rumah pemegang- penyembelihan, yang sedang berkuatkuasa pada tarikh pemegang lesen. mula berkuatkuasanya Akta ini, hendaklah disifatkan sebagai pemegang lesen di bawah Akta ini.
+20. (1) Mana-mana orang yang telah membuat
+
+<!-- marginal: yang -->
+
+perjanjian, pajakan atau penyewaan dengan Kerajaan
+
+<!-- marginal: disifatkan -->
+
+<!-- marginal: sebagai -->
+
+Malaysia berkenaan dengan pengendalian sesuatu rumah
+
+<!-- marginal: pemegang- -->
+
+penyembelihan, yang sedang berkuatkuasa pada tarikh
+
+<!-- marginal: pemegang -->
+
+<!-- marginal: lesen. -->
+
+mula berkuatkuasanya Akta ini, hendaklah disifatkan sebagai pemegang lesen di bawah Akta ini.
 
 (2) Menteri hendaklah, dalam masa enam puluh hari dari mula berkuatkuasanya Akta ini, mengeluarkan kepada pemegang lesen di bawah subseksyen (1) suatu lesen yang hendaklah—
 

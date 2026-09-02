@@ -1,0 +1,1879 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-14-1994",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_44",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_45",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_46"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Constitution (Amendment) Bill 1994"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Constitution (Amendment) Act 1994."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_10__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 87 of the Federal Constitution is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_10__para_a__subpara_ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (2)— (i) by substituting for the words \"Lord President of the Supreme Court\" in paragraph (a) the words \"Chief Justice of the Federal Court\"; and CONSTITUTION (AMENDMENT)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_10__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_10__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"Supreme Court or a High Court\" in paragraph (a) the words \"Federal Court, the Court of Appeal or a High Court\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clauses (3) and (4), by substituting for the word \"Supreme\" the word \"Federal\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 105 of the Federal Constitution is amended"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (3) by substituting for the word \"Supreme\" the word \"Pederal\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 114 of the Federal Constitution is amended"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (3) by substituting for the word \"Supreme\" the word \"Federal\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_13__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_13__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_13__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 121 of the Federal Constitution"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (1), by substituting for the word \"Borneo\" in paragraph (b) the words \"Sabah and Sarawak\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after Clause (1A) the following \"(1B) There shall be a court which shall be known as the Mahkamah Rayuan (Court of Appeal) and shall have its principal registry in Kuala Lumpur, and the Court of Appeal shall have the following jurisdiction, that is to say— (a) jurisdiction to determine appeals from decisions of a High Court or a judge thereof (except decisions of a High Court given by a registrar or other officer of the Court and appealable under federal law to a judge of the Court); and (b) such other jurisdiction as may be conferred by or under federal law.\"; BILL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_13__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_13__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_13__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_13__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_13__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"Mahkamah Agung (Supreme Court)\" and \"Supreme Court\" the words \"Mahkamah Persekutuan (Federal Court)\" and \"Federal Court\" respectively; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_13__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_13__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (a) the following paragraph: \"(a) jurisdiction to determine appeals from decisions of the Court of Appeal, of the High Court or a judge thereof;\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_13__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (4), by substituting for the words \"Borneo\" and \"Justice\" the words \"Sabah and Sarawak\" and \"Judge\" respectively."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_14__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_14__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_14__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 122 of the Federal Constitution is"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the marginal note, by substituting for the word \"Supreme\" the word \"Federal\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_14__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_14__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_14__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_14__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"Supreme\" the word \"Federal\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_14__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_14__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"Lord President of the Supreme Court\"), of the Chief Justices of the High Courts\" the words \"Chief Justice of the Federal Court\"), of the President of the Court of Appeal, of the Chief Judges of the High Courts\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_14__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_14__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_14__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (1A)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_14__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_14__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"Lord President of the Supreme Court\" the words \"Chief Justice of the Federal Court\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_14__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_14__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"Supreme\" the word \"Federal\"; and CONSTITUTION (AMENDMENT)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_14__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (2)— (i) by substituting for the words \"a High Court other than the Chief Justice\" the words \"the Court of Appeal other than the President of the Court of Appeal\"; (ii) by substituting for the word \"Supreme\" the word \"Federal\"; and (iii) by substituting for the words \"Lord President\" wherever they appear the words \"Chief Justice\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_15__subsec_2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Federal Constitution is amended by substituting"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "for Article 122A the following Article: 122A. (1) The Court of Appeal shall consist of a chairman (to be styled the \"President of the Court of Appeal\") and, until the Yang di-Pertuan Agong by order otherwise provides of ten other judges."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A judge of a High Court may sit as a judge of the Court of Appeal where the President of the Court of Appeal considers that the interests of justice so require, and the judge shall be nominated for the purpose (as occasion requires) by the President of the Court of Appeal after consulting the Chief Judge of that High Court.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Federal Constitution is amended by inserting"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "after Article 122A the following Articles: 122AA. (1) Each of the High Courts shall consist of a Chief Judge and not less than four other judges; but the number of other judges shall not, until the Yang di-Pertuan Agong by order otherwise provides, exceed— (a) in the High Court in Malaya, forty-seven; and (b) in the High Court in Sabah and Sarawak, ten. BILL (2) Any person qualified for appointment as a judge of a High Court may sit as a judge of that Court if designated for the purpose (as occasion requires) in accordance with Article 122B. 122AB. (1) For the despatch of business of the High Court in Malaya and the High Court in Sabah and Sarawak, the Yang di-Pertuan Agong acting on the advice of the Prime Minister, after consulting the Chief Justice of the Federal Court, may by order appoint to be judicial commissioner for such period or such purposes as may be specified in the order any person qualified for appointment as a judge of a High Court; and the person so appointed shall have power to perform such functions of a judge of the High Court as appear to him to require tp be performed; and anything done by him when acting in accordance with his appointment shall have the same validity and effect as if done by a judge of that Court, and in respect thereof he shall have the same powers and enjoy the same immunities as if he had been a judge of that Court. (2) The provisions of Clauses (2) and (5) of Article 124 shall apply to a judicial commissioner as they apply to a judge of a High Court\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 122B of the Federal Constitution is"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "amended— 1223."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the marginal note, by substituting for the words \"Supreme Court and of\" the words \"Federal Court, Court of Appeal and\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for Clause (1) the following \"(1) The Chief Justice of the Federal Court, the President of the Court of Appeal and the Chief Judges of the High Courts and CONSTITUTION (AMENDMENT) (subject to Article I22c) the other judges of the Federal Court, of the Court of Appeal and of the High Courts shall be apppointed by the Yang di-Pertuan Agong, acting on the advice of the Prime Minister, after consulting the Conference of Rulers.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (2), by substituting for the words \"Lord President\" and \"Supreme\" wherever they appear the words \"Chief Justice\" and \"Federal\" respectively;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17__para_d__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"Justice\" wherever it appears the word \"Judge\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"Borneo\" the words \"Sabah and Sarawak\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for Clause (4) the following \"(4) Before tendering his advice as to the appointment under Clause (1) of a judge other than the Chief Justice, President or a Chief Judge, the Prime Minister shall consult, if the appointment is to the Federal Court, the Chief Justice of the Federal Court, if the appointment is to the Court of Appeal, the President of the Court of Appeal and, if the appointment is to one of the High Courts, the Chief Judge of that Court.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17__para_f__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17__para_f__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (5)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17__para_f__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17__para_f",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"Article 122A(2)\" the words \"Article 122AA(2)\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17__para_f__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17__para_f",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"Justice\" the word \"Judge\"; and BILL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17__para_g__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17__para_g__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (6)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17__para_g__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17__para_g",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"Supreme Court\" the words \"federal Court, of the Court of Appeal\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17__para_g__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_17__para_g",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"Lord President\" the words \"Chief Justice\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 122c of the Federal Constitution is amended"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"Justice\", \"Lord President of the Supreme Court\" and \"Justices\" wherever they appear the words \"Judge\", \"Chief Justice of the Federal Court\" and \"Judges\" respectively."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_19__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_19__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 123 of the Federal Constitution"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "amended— 123."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the marginal note, by substituting for the words \"Supreme Court and of\" the words \"Federal Court, Court of Appeal and\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_19__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"Supreme Court\" the words \"Federal Court, as a judge of the Court of Appeal\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 4 of the Federal Constitution is amended in"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Clause (4) by substituting for the word \"Supreme\" the word \"Federal\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_20__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_20__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_20__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_20__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_20__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 124 of the Federal Constitution"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_20__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (1), by substituting for the words \"Lord President of the Supreme Court\" the words \"Chief Justice of the Federal Court\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_20__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for Clause (2) the following \"(2) A judge of the Federal Court, the Court of Appeal or a High Court, other than the Chief Justice of the Federal Court, shall before exercising the functions of a judge take and subscribe the oath of office and allegiance set out in the Sixth Schedule in relation to his judicial duties in whatever office.\"; CONSTITUTION (AMENDMENT)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_20__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_20__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_20__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_20__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_20__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"Justice\" the word \"Judge\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_20__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_20__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \", unless he takes it in accordance with Clause (4) as a judge of the Supreme Court\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_20__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (4), by substituting for the words \"Supreme\" and \"Lord President\" wherever they appear the words \"Federal\" and \"Chief Justice\" respectively; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_20__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_20__para_e__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_20__para_e__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (5)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_20__para_e__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_20__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"a judge of\" the words \"the Court of Appeal or\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_20__para_e__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_20__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"Justice\" wherever it appears the word \"Judge\". 1S Amendment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_21__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_21__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_21__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_21__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_21__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_21__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_21__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_21__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 125 of the Federal Constitution"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_21__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clauses (1) and (2), by substituting for the word \"Supreme\" the word \"Federal\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_21__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_21__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_21__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_21__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_21__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"Lord President\" and \"Supreme\" the words \"Chief Justice\" and \"Federal\" respectively; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_21__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_21__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"misbehaviour or\" the words \"any breach of any provision of the code of ethics prescribed under Clause (3A) or on the ground\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_21__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after Clause (3) the following \"(3A) The Yang di-Pertuan Agong on the recommendation of the Chief Justice, the President of the Court of Appeal and the Chief Judge of the High Courts, may, after BILL consulting the Prime Minister, prescribe in writing a code of ethics which shall be observed by every judge of the Federal Court.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_21__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_21__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_21__para_d__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (4)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_21__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_21__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"Supreme Court\" the words \"Federal Court, the Court of Appeal\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_21__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_21__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"Lord President of the Supreme Court, the Chief Justices\" the words \"Chief Justice of the Federal Court, the President and the Chief Judges\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_21__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (5), by substituting for the words \"Lord President\" and \"Supreme\" the words \"Chief Justice\" and \"Federal\" respectively;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_21__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clauses (6), (6A), (7) and (8), by substituting for the word \"Supreme\" the word \"Federal\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_21__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for Clause (9) the following \"(9) This Article shall apply to a judge of the Court of Appeal and to a judge of a High Court as it applies to a judge of the Federal Court, except that the Yang di-Pertuan Agong before suspending under Clause (5) a judge of the Court of Appeal or a judge of a High Court other than the President of the Court of Appeal or the Chief Judge of a High Court shall consult the President of the Court of Appeal or the Chief Judge of that High Court instead of the Chief Justice of the Federal Court.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_21__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after Clause (9) the following \"(10) The President of the Court of Appeal and the Chief Judges of the High Courts shall be responsible to the Chief Justice of the Federal Court.\". CONSTITUTION (AMENDMENT)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_22__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_22__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 125A of the Federal Constitution"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_22__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the rnarginal note the following marginal note: \"Exercise of powers by judges.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_22__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_22__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_22__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_22__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause(l)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_22__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_22__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (a) the following paragraph: \"(a) the Chief Justice of the Federal Court and a judge of the Federal Court may exercise all or any of the powers of a judge of the Court of Appeal and of a judge of a High Court;\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_22__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_22__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (a) the following paragraph: \"(aa) the President of the Court of Appeal and a judge of the Court of Appeal may exercise all or any of the powers of a judge of a High Court; and\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_22__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_22__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by substituting for the word \"Borneo\" the words \"Sabah and Sarawak\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_23__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_23__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 126 of the Federal Constitution"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_23__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the marginal note the following marginal note: \"Power to punish for contempt.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_23__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"Supreme Court\" the words \"Federal Court, the Court of Appeal\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 127 of the Federal Constitution is amended"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"Supreme Court\" the words \"Federal Court, the Court of Appeal\". BILL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_25__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_25__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 128 of the Federal Constitution"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "amended— 128."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_25__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clauses (1) and (2), by substituting for the word \"Supreme\" wherever it appears the word \"Federal\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_25__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for Clause (3) the following \"(3) The jurisdiction of the Federal Court to determine appeals from the Court of Appeal, a High Court or a judge thereof shall be such as may be provided by federal law.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 130 of the Federal Constitution is amended"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"Supreme\" in the marginal 130. note and wherever it appears the word \"Federal\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_27__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_27__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_27__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 13lA of the Federal Constitution"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "amended— 131A."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_27__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the marginal note, by substituting for the words \"Lord President or Chief Justice\" the words \"Chief Justice, President or Chief Judge\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_27__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_27__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_27__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause(l)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_27__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_27__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"Lord President of the Supreme Court\" the words \"Chief Justice of the Federal Court or the President of the Court of Appeal or the Chief Judge of a High Court\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_27__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_27__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"another\" and \"Supreme\" the words \"a\" and \"Federal\" respectively; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_27__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_27__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_27__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_27__para_c__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_27__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_27__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"Chief Justice\" the words \"President of the Court of Appeal or the Chief Judge\"; CONSTITUTION (AMENDMENT) '"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_27__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_27__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"that court\" the words \"the Court of Appeal or the High Court, as the case may be\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_27__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_27__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"Supreme\" the word \"Federal\". \\ S Amendment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_28__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_28__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_28__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 132 of the Federal Constitution"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_28__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (1), by deleting paragraph (e}\\"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_28__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (2A), by deleting the letter and punctuation marks \"(e)\" and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_28__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (3), by substituting for the words \"Supreme Court\" in paragraph (c) the words \"Federal Court, the Court of Appeal\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_29__subsec_2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Federal Constitution is amended by substituting"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "for Article 134 the following Article: 134. (1) The Federation may, at the request of a State, local authority, or statutory authority or of any organisation, in or outside Malaysia, second any member of its public services to the service of that State, authority or organisation, as the case may be; and a State may, at the request of the Federation, another State, a local authority or a statutory authority or of any organisation, in or outside Malaysia, second any member of its own public service to the service of the Federation, other State, authority or organisation, as the case may be."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_29__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person seconded under this Article shall remain a member of the service to which he belongs, but his remuneration shall be paid by the Federation, State, authority or organisation, as the case may be, to whose service he is seconded.\". BILL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 37 of the Federal Constitution is amended in"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Clauses (1) and (2) by substituting for the words \"Lord President of the Supreme Court\" and \"Supreme\" the words \"Chief Justice of the Federal Court\" and \"Pederal\" respectively."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_30__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_30__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 138 of the Federal Constitution is amended"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (2)— 138."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_30__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"Lord President of the Supreme Court\" in paragraph (c) the words \"Chief Justice of the Federal Court\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_30__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"Supreme Court\" in paragraph (c) the words \"Federal Court, Court of Appeal\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 139 of the Federal Constitution is amended"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (1) by substituting for the words \"paragraphs 139. (c), (e) and (f)' the words \"paragraphs (c) and (f)\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_32__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_32__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 142 of the Federal Constitution"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "amended— 142."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_32__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (1), by substituting for the words \"shall not be appointed\" the words \"shall not be or be appointed\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_32__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (6), by substituting for the words \"Supreme Court\" the words \"Federal Court, of the Court of Appeal\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 143 of the Federal Constitution is amended"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (1) by substituting for the word \"Supreme\" in 143. paragraph (c) the word \"Federal\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 145 of the Federal Constitution is amended"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clauses (1) and (6) by substituting for the word 145. \"Supreme\" the word \"Federal\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 148 of the Federal Constitution is amended"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (2) by substituting for the words \"Supreme 148. Court\" the words \"Federal Court, of the Court of Appeal\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 151 of the Federal Constitution is amended"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (2) by substituting for the words \"Supreme Court\" where they first appear the words \"Federal Court, the Court of Appeal\". CONSTITUTION (AMENDMENT)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 152 of the Federal Constitution is amended"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (4) by substituting for the words \"Supreme Court\" the words \"Federal Court, the Court of Appeal\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_38__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_38__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 160 of the Federal Constitution is amended"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_38__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of \"Office of profit\", by substituting for the words \"Supreme Court\" in paragraph (a) the words \"Federal Court, of the Court of Appeal\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_38__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of \"Public authority\", by substituting for the words \"Supreme Court\" the words \"Federal Court, the Court of Appeal\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_39__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_39__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 161 of the Federal Constitution is amended"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b) of Clause (2), Clauses (3) and (4)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_39__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"Borneo\" wherever it appears the words \"Sabah and Sarawak\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_39__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"Supreme Court\" wherever they appear the words \"Federal Court or the Court of Appeal\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 40 of the Federal Constitution is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "inserting after Clause (1) the following Clause: \"(1A) In the exercise of his functions under this Constitution or federal law, where the Yang di-Pertuan Agong is to act in accordance with advice, on advice. or after considering advice, the Yang di-Pertuan Agong shall accept and act in accordance with such advice.\". BILL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_40__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_40__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 16lB of the Federal Constitution is amended"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_40__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_40",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"Supreme Court\" the words \"Federal Court or the Court of Appeal\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_40__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_40",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"Borneo\" wherever it appears the words \"Sabah and Sarawak\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 16lE of the Federal Constitution is amended"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (2) by substituting for the word \"Borneo\" in paragraph (b) the words \"Sabah and Sarawak\". BILL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_42__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_42__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 182 of the Federal Constitution"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "amended— 182."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_42__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_42",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (1), by substituting for the words \"Lord President of the Supreme Court\", \"Justices\" and \"Supreme\" the words \"Chief Justice of the Federal Court\", \"Judges\" and \"Federal\" respectively;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_42__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_42",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clauses (4) and (5), by substituting for the word \"Supreme\" the word \"Federal\"; and (c) in Clause (7), by substituting for the words \"Lord President\" the words \"Chief Justice\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_43__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_43__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Sixth Schedule to the Federal Constitution is"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "amended, in the note to paragraph 1 — Schedule."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_43__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"Supreme Court, other than the Lord President, or a judge of a High Court\" the words \"Federal Court, other than the Chief Justice, a judge of the Court of Appeal or of a High Court, or a judicial commissioner\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_43__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"or any other\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_44__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_44__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_44__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Eighth Schedule to the Federal Constitution is"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "amended— Schedule."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_44__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_44",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in section 1, by inserting after subsection (1) the following subsection: \"(1A) In the exercise of his functions under the Constitution of this State or any law or as a member of the Conference of Rulers, where the Ruler is to act accordance with advice or on advice, the Ruler shall accept and act in accordance with such advice.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_44__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_44__para_b__subpara_ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_44",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in section 11— (i) by inserting after subsection (2) the following subsections: \"(2A) The Ruler shall within thirty days after a Bill is presented to him assent to the Bill. CONSTITUTION (AMENDMENT) (2B) If a Bill is not assented to by the Ruler within the time specified in subsection (2A), it shall become law at the expiration of the time specified in that subsection in the like manner as if he had assented to it.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_44__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_44__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the word \"Ruler,\" the words \"Ruler or as provided in subsection (2B)\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_44__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_44",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in section 19D, by substituting for the word \"Justice\" in paragraph (1) the word \"Judge\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_45",
+      "@type": "akn:clause",
+      "eli:number": "45",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Ninth Schedule to the Federal Constitution is"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "amended in the Federal List (List 1) by inserting after Schedule. item 25 the following item: \"25A. Tourism.\" ."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_46",
+      "@type": "akn:clause",
+      "eli:number": "46",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_46__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_46__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_46__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_46__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Upon the cotning into force of this Act, all"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "references in and under the Federal Constitution or any written law to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_46__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Supreme Court shall be construed as references to the Federal Court;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_46__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Lord President of the Supreme Court shall be construed as references to the Chief Justice of the Federal Court;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_46__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chief Justice of a High Court shall be construed as references to the Chief Judge of a High Court; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_46__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the High Court in Borneo shall be construed as references to the High Court in Sabah and Sarawak."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 43A of the Federal Constitution is amended in"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Clause (3) by substituting for the words \"Clauses (5), (6) 43A. and (8)\" the words \"Clauses (5) and (6)\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 55 of the Federal Constitution is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "deleting Clause (6)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 65 of the Federal Constitution is amended in"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Clause (3) by substituting for the word \"Supreme\" the word \"Federal\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_8__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_8__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 66 of the Federal Constitution"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for Clauses (4) and (4A) the following Clauses: \"(4) The Yang di-Pertuan Agong shall within thirty days after a Bill is presented to him assent to the Bill by causing the Public Seal to be affixed thereto. (4A) If a Bill is not assented to by the Yang di-Pertuan Agong within the time specified in Clause (4), it shall become law at the expiration of the time specified in that Clause in the like manner as if he had assented thereto.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting Clause (4B); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_8__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (5), by substituting for the words \"Clause (4B)\" the words \"Clause (4A)\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 80 of the Federal Constitution is amended in"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "80. Clause (6) by substituting for the words \"Lord President of the Supreme Court\" the words \"Chief Justice of the Federal Court\"."
+      }
+    }
+  ]
+}

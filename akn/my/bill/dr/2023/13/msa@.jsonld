@@ -1,0 +1,655 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-13-2023",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_15"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Kesalahan-Kesalahan Seksual Terhadap Kanak-Kanak (Pindaan) 2023"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_10__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 12 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “14 atau 15” di mana-mana jua terdapat dengan perkataan “14, 15, 15a atau 15b”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a) misalan, dengan menggantikan perkataan “pornografi kanak-kanak” dengan perkataan “bahan penganiayaan seksual kanak-kanak”. Pindaan seksyen 13"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_11__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 13 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “14 atau 15” di mana-mana jua terdapat dengan perkataan “14, 15, 15a atau 15b”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a) misalan, dengan menggantikan perkataan “pornografi kanak-kanak” dengan perkataan “bahan penganiayaan seksual kanak-kanak”. Pindaan Bahagian IV"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dalam tajuk Bahagian IV dengan memasukkan selepas perkataan “AMANG SEKSUAL” perkataan “, PERSEMBAHAN SEKSUAL DAN PEMERASAN SEKSUAL”. Pindaan seksyen 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 15 Akta ibu dipinda dengan memotong perenggan (b). Seksyen baharu 15a dan 15b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 15 seksyen yang berikut: “Persembahan seksual oleh kanak-kanak 15a. (1) Mana-mana orang yang— (a) menawarkan, memperoleh atau menjadikan tersedia seseorang kanak-kanak untuk suatu persembahan seksual; (b) membuatkan atau menyebabkan seseorang kanak-kanak melakukan persembahan seksual; (c) turut serta, sama ada sebagai peserta atau penonton, dalam persembahan seksual oleh seseorang kanak-kanak; (d) mengiklankan, mempromosikan atau memudahkan persembahan seksual oleh seseorang kanak-kanak; atau (e) menerima apa-apa manfaat, termasuk manfaat kewangan, daripada persembahan seksual oleh seseorang kanak-kanak, melakukan suatu kesalahan dan hendaklah, apabila disabitkan, dihukum dengan pemenjaraan selama tempoh tidak melebihi dua puluh tahun dan boleh juga didenda tidak melebihi lima puluh ribu ringgit. (2) Bagi maksud seksyen ini, “persembahan seksual” ertinya apa-apa perlakuan seksual secara terang-terangan yang dipersembahkan di hadapan seorang penonton atau lebih, termasuk yang dirakam atau dihantar keseluruhannya atau sebahagiannya, melalui apa-apa cara termasuk tetapi tidak terhad kepada cara elektronik, mekanikal, digital, optik atau magnetik, atau gabungan apa-apa cara. MISALAN (a) A meminta Z, seorang kanak-kanak, membuat tarian riba di atas B sambil dirakam oleh A. A kemudian membuat hantaran persembahan tarian yang dirakam itu di akaun media sosialnya. A bersalah atas kesalahan di bawah seksyen ini dengan menyebabkan seseorang kanak-kanak melakukan persembahan seksual. B bersalah atas kesalahan di bawah seksyen ini dengan turut serta sebagai peserta dalam persembahan seksual oleh kanak-kanak. (b) A bertemu B dalam aplikasi mencari pasangan dalam talian dan menawarkan B wang untuk mengatur suatu pertunjukan seks dengan anak-anak B. B menyuruh dua anaknya menanggalkan pakaian dan melakukan simulasi perlakuan seksual secara terang-terangan sambil distrim secara langsung melalui panggilan video dengan A. A bersalah atas kesalahan di bawah seksyen ini dengan menyebabkan seseorang kanak-kanak melakukan persembahan seksual dan dengan turut serta dalam persembahan seksual oleh kanak-kanak. B bersalah atas kesalahan di bawah seksyen ini dengan menjadikan tersedia kanak-kanak untuk persembahan seksual dan memudahkan persembahan seksual oleh kanak-kanak. Pemerasan seksual kanak-kanak 15b. Mana-mana orang yang— (a) mengugut seseorang kanak-kanak untuk melakukan aktiviti yang bersifat seksual; (b) mengugut seseorang kanak-kanak untuk berkongsi apa-apa gambaran yang keseluruhannya atau sebahagiannya, sama ada dalam bentuk visual, audio atau bertulis atau gabungan bentuk visual, audio atau bertulis, melalui apa-apa cara termasuk tetapi tidak terhad kepada cara elektronik, mekanikal, digital, optik atau magnetik, atau dihasilkan secara manual, atau gabungan apa-apa cara, adalah mengenai badan atau mana-mana bahagian badan kanak-kanak yang mendedahkan alat kelamin, punggung, payudara, bahagian pubik atau dubur kanak-kanak atau mengenai kanak-kanak yang melakukan aktiviti yang bersifat seksual; atau (c) mengugut untuk menggunakan atau mengedar apa-apa gambaran yang keseluruhannya atau sebahagiannya, sama ada dalam bentuk visual, audio atau bertulis atau gabungan bentuk visual, audio atau bertulis, melalui apa-apa cara termasuk tetapi tidak terhad kepada cara elektronik, mekanikal, digital, optik atau magnetik, atau dihasilkan secara manual, atau gabungan apa-apa cara, adalah mengenai badan atau mana-mana bahagian badan kanak-kanak yang mendedahkan alat kelamin, punggung, payudara, bahagian pubik atau dubur kanak-kanak atau mengenai kanak-kanak yang melakukan aktiviti yang bersifat seksual, melakukan suatu kesalahan dan hendaklah, apabila disabitkan, dihukum dengan pemenjaraan selama tempoh tidak melebihi sepuluh tahun. Huraian—Perbuatan mengugut di bawah seksyen ini boleh melibatkan penggunaan dorongan, paksaan atau kekerasan. MISALAN (a) Z, seorang kanak-kanak, secara sukarela berkongsi gambar separuh bogelnya dengan A. A kemudian mengugut Z untuk membuat hantaran gambar itu di akaun media sosial A melainkan jika Z menghantar gambar bogel Z kepada A. A bersalah atas kesalahan di bawah seksyen ini. (b) A menawarkan Z, seorang kanak-kanak, wang untuk menanggalkan pakaian untuk A semasa panggilan video. A merakam panggilan video itu dan kemudian mengugut Z bahawa A akan menghantar video yang dirakam itu kepada ibu bapa Z melainkan jika Z bersetuju untuk melakukan persetubuhan dengan A. A bersalah atas kesalahan di bawah seksyen ini.”. Seksyen baharu 26a dan 26b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 26 seksyen yang berikut: “Perintah bagi pembayaran pampasan kepada mangsa kanak-kanak 26a. (1) Mahkamah yang di hadapannya seseorang disabitkan atas mana-mana kesalahan di bawah Akta ini, atau mana-mana kesalahan yang dinyatakan dalam Jadual sekiranya mangsa ialah kanak-kanak, boleh membuat suatu perintah terhadap orang yang disabitkan itu bagi pembayaran olehnya suatu jumlah wang yang hendaklah ditetapkan oleh mahkamah itu sebagaimana yang difikirkannya adil dan munasabah sebagai pampasan kepada mangsa kanak-kanak berkenaan dengan kecederaan yang dialami oleh mangsa kanak-kanak itu akibat daripada kesalahan yang dilakukan itu. (2) Jika orang yang disabitkan atas kesalahan yang disebut dalam subseksyen (1) ialah seorang kanak-kanak, mahkamah hendaklah membuat perintah bagi pembayaran pampasan itu dibuat oleh ibu atau bapa atau penjaga kanak-kanak itu. (3) Jika mangsa kanak-kanak itu mati, Mahkamah hendaklah membuat perintah supaya pembayaran pampasan itu dibuat kepada wakil mangsa kanak-kanak yang mati itu. (4) Mahkamah hendaklah, dalam membuat perintah di bawah subseksyen (1), mengambil kira apa-apa faktor yang mahkamah fikirkan patut termasuk— (a) jenis dan keseriusan kesalahan yang dilakukan itu; (b) kecederaan fizikal atau emosi yang dialami oleh mangsa kanak-kanak itu; (c) perbelanjaan yang ditanggung oleh mangsa kanak-kanak itu, termasuk perbelanjaan bagi rawatan, pemulihan atau kaunseling mangsa kanak-kanak itu; (d) kerosakan pada, atau kehilangan, harta yang dialami oleh mangsa kanak-kanak itu; dan (e) keupayaan orang yang disabitkan itu untuk membayar atau jika orang yang disabitkan itu ialah seorang kanak-kanak, keupayaan ibu atau bapa atau penjaga kanak-kanak itu untuk membayar. (5) Bagi maksud membuat perintah di bawah subseksyen (1), mahkamah boleh mengadakan suatu inkuiri sebagaimana yang difikirkannya patut. (6) Jika mahkamah membuat perintah bagi pembayaran kos pendakwaan di bawah seksyen 426 Kanun Tatacara Jenayah terhadap orang yang disabitkan berkenaan dengan mana-mana kesalahan di bawah Akta ini, atau mana-mana kesalahan yang dinyatakan dalam Jadual sekiranya mangsa ialah kanak-kanak, perintah bagi pembayaran pampasan di bawah seksyen ini hendaklah mempunyai keutamaan daripada perintah bagi pembayaran kos pendakwaan itu. (7) Setakat amaun yang telah dibayar kepada mangsa kanak-kanak itu, atau kepada wakil mangsa kanak-kanak itu, di bawah suatu perintah bagi pembayaran pampasan, apa-apa tuntutan oleh mangsa kanak-kanak itu atau wakil mangsa kanak-kanak itu bagi apa-apa kecederaan, kerosakan atau kehilangan yang dialami disebabkan oleh kesalahan itu hendaklah disifatkan telah dipenuhi, tetapi perintah bagi pembayaran itu tidak boleh menjejaskan apa-apa hak kepada suatu remedi sivil oleh mangsa kanak-kanak itu atau oleh wakil mangsa kanak-kanak itu terhadap orang yang disabitkan bagi ganti rugi yang melebihi amaun pampasan yang dibayar di bawah perintah itu. (8) Tiap-tiap perintah yang dibuat oleh mahkamah di bawah seksyen ini boleh dirayu kepada Mahkamah Tinggi. Peruntukan tentang pembayaran pampasan 26b. (1) Jika orang yang disabitkan atas mana-mana kesalahan di bawah Akta ini, atau mana-mana kesalahan yang dinyatakan dalam Jadual sekiranya mangsa ialah kanak-kanak diperintahkan untuk membayar apa-apa jumlah wang sebagai pampasan di bawah seksyen 26a, mahkamah yang membuat perintah itu boleh membuat semua atau mana-mana yang berikut: (a) memberikan masa bagi pembayaran jumlah wang itu; (b) mengarahkan pembayaran jumlah wang itu secara ansuran; (c) mengeluarkan suatu waran bagi melevikan jumlah wang itu melalui distres dan penjualan apa-apa harta kepunyaan orang yang disabitkan itu; (d) mengarahkan bahawa apabila ingkar membayar jumlah wang itu atau tiada distres yang mencukupi untuk menyelesaikan jumlah wang itu, orang yang disabitkan itu hendaklah menjalani pemenjaraan selama suatu tempoh tertentu, yang pemenjaraannya hendaklah menjadi tambahan kepada apa-apa pemenjaraan lain yang baginya dia boleh dihukum atau yang baginya dia boleh dikenakan di bawah suatu peringanan hukuman: Dengan syarat bahawa jika masa bagi pembayaran jumlah wang itu tidak diberikan, suatu perintah bagi pemenjaraan apabila ingkar membayar tidak boleh dikeluarkan pada mula-mulanya melainkan jika mahkamah itu mendapati bahawa orang yang disabitkan itu tidak mempunyai harta atau tidak mempunyai harta yang mencukupi untuk menyelesaikan jumlah wang yang kena dibayar atau bahawa levi melalui distres itu akan lebih memudaratkannya atau keluarganya daripada pemenjaraan; (e) mengarahkan bahawa orang yang disabitkan itu diperiksa dan supaya apa-apa wang yang didapati padanya apabila diperiksa sedemikian atau yang jika dia dikomitkan ke penjara, boleh didapati padanya apabila dibawa ke penjara hendaklah digunakan bagi pembayaran jumlah wang itu, yang lebihannya, jika ada, dipulangkan kepadanya: Dengan syarat bahawa wang itu tidak boleh digunakan sedemikian jika mahkamah itu berpuas hati bahawa wang itu bukan kepunyaan orang yang disabitkan yang padanya wang itu didapati atau bahawa kehilangan wang itu akan lebih memudaratkan keluarganya daripada pemenjaraannya. (2) Tempoh yang baginya mahkamah mengarahkan supaya orang yang disabitkan itu dipenjarakan apabila ingkar membayar jumlah wang itu atau tiada distres yang mencukupi untuk menyelesaikan apa-apa jumlah wang tidak boleh melebihi skala yang berikut: Apabila wang yang hendaklah dibayar tidak melebihi RM500 … … … … Apabila wang yang hendaklah dibayar melebihi RM500 tetapi tidak melebihi RM1000 … … … … Dalam apa-apa hal lain … … … … (3) Pemenjaraan yang dikenakan oleh mahkamah di bawah seksyen ini hendaklah tamat pada bila-bila masa wang itu dibayar atau dilevikan melalui proses undang-undang. (4) Jika sebelum habis masa pemenjaraan itu sekian kadar wang itu dibayar atau dilevikan yang masa pemenjaraan yang telah dijalani adalah tidak kurang daripada perkadaran dengan bahagian wang yang masih belum dibayar, pemenjaraan itu hendaklah tamat. (5) Suatu waran untuk melevikan apa-apa jumlah wang sedemikian boleh dilaksanakan di mana-mana tempat di Malaysia tetapi jika ia dikehendaki dilaksanakan di luar Negeri di mana waran itu dikeluarkan, waran itu hendaklah diendorskan bagi maksud itu oleh Hakim atau Majistret Kelas Pertama yang mempunyai bidang kuasa di dalam Negeri di mana waran itu dikehendaki dilaksanakan.”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Kesalahan-Kesalahan Seksual terhadap Kanak-Kanak (Pindaan) 2023."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan Bahagian II"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Kesalahan-Kesalahan Seksual terhadap Kanak-Kanak 2017 [Akta 792], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam tajuk Bahagian II dengan menggantikan perkataan “PORNOGRAFI KANAK-KANAK” dengan perkataan “BAHAN PENGANIAYAAN SEKSUAL KANAK-KANAK”. Pindaan seksyen 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 4 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan nota bahu dengan nota bahu yang berikut: “Bahan penganiayaan seksual kanak-kanak”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan menggantikan perkataan ‘ “pornografi kanak-kanak” ’ dengan perkataan ‘ “bahan penganiayaan seksual kanak-kanak” ’. Pindaan seksyen 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 5 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan menggantikan perkataan “pornografi kanak-kanak” dengan perkataan “bahan penganiayaan seksual kanak-kanak”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “pornografi kanak-kanak” dengan perkataan “bahan penganiayaan seksual kanak-kanak”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_4__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_4__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam misalan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_4__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_4__para_c__subpara_i__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_4__para_c__subpara_i__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_4__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_4__para_c__subpara_i__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_4__para_c__subpara_i",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “Z menawarkan A untuk berlakon dalam pornografi kanak-kanak dan A bersetuju untuk berbuat demikian. A berlakon dalam pornografi kanak-kanak itu” dengan perkataan “Z menawarkan A untuk berlakon dalam filem yang mempunyai adegan A melakukan perlakuan seksual secara terang-terangan dengan seorang kanak-kanak dan A bersetuju untuk berbuat demikian. A berlakon dalam adegan seksual secara terang-terangan itu”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_4__para_c__subpara_i__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_4__para_c__subpara_i",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “penghasilan pornografi kanak-kanak” dengan perkataan “penghasilan bahan penganiayaan seksual kanak-kanak”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_4__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_4__para_c__subpara_ii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_4__para_c__subpara_ii__subpara_B",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_4__para_c__subpara_ii__subpara_C"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_4__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_4__para_c__subpara_ii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_4__para_c__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “pengarah pornografi kanak-kanak” dengan perkataan “pengarah bahan penganiayaan seksual kanak-kanak”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_4__para_c__subpara_ii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_4__para_c__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “pengarahan pornografi kanak-kanaknya” dengan perkataan “pengarahan bahan penganiayaan seksual kanak-kanaknya”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_4__para_c__subpara_ii__subpara_C",
+      "@type": "akn:subparagraph",
+      "eli:number": "C",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_4__para_c__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “pembuatan pornografi kanak-kanak” dengan perkataan “pembuatan bahan penganiayaan seksual kanak-kanak”. Pindaan seksyen 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 6 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan menggantikan perkataan “pornografi kanak-kanak” dengan perkataan “bahan penganiayaan seksual kanak-kanak”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “pornografi kanak-kanak” dengan perkataan “bahan penganiayaan seksual kanak-kanak”. Pindaan seksyen 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_6__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_6__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 7 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan menggantikan perkataan “pornografi kanak-kanak” dengan perkataan “bahan penganiayaan seksual kanak-kanak”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “pornografi kanak-kanak” dengan perkataan “bahan penganiayaan seksual kanak-kanak”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam huraian, dengan menggantikan perkataan “pornografi kanak-kanak” di mana-mana jua terdapat dengan perkataan “bahan penganiayaan seksual kanak-kanak”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_6__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_6__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_6__para_d__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam misalan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_6__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_6__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan menggantikan perkataan “pornografi kanak-kanak” di mana-mana jua terdapat dengan perkataan “bahan penganiayaan seksual kanak-kanak”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_6__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_6__para_d__subpara_ii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_6__para_d__subpara_ii__subpara_B",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_6__para_d__subpara_ii__subpara_C",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_6__para_d__subpara_ii__subpara_D"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_6__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_6__para_d__subpara_ii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_6__para_d__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “supaya Z berlakon dalam pornografi kanak-kanak” dengan perkataan “supaya Z digunakan dalam penghasilan bahan penganiayaan seksual kanak-kanak”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_6__para_d__subpara_ii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_6__para_d__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “Z berlakon dalam pornografi kanak-kanak yang dihasilkan oleh B” dengan perkataan “Z digunakan dalam penghasilan bahan penganiayaan seksual kanak-kanak oleh B”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_6__para_d__subpara_ii__subpara_C",
+      "@type": "akn:subparagraph",
+      "eli:number": "C",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_6__para_d__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “penghasilan pornografi kanak-kanak” di mana-mana jua terdapat dengan perkataan “penghasilan bahan penganiayaan seksual kanak-kanak”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_6__para_d__subpara_ii__subpara_D",
+      "@type": "akn:subparagraph",
+      "eli:number": "D",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_6__para_d__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “menghasilkan pornografi kanak-kanak” dengan perkataan “menghasilkan bahan penganiayaan seksual kanak-kanak”. Pindaan seksyen 8"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_7__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 8 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan menggantikan perkataan “pornografi kanak-kanak” dengan perkataan “bahan penganiayaan seksual kanak-kanak”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “pornografi kanak-kanak” di mana-mana jua terdapat dengan perkataan “bahan penganiayaan seksual kanak-kanak”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam misalan, dengan menggantikan perkataan “pornografi kanak-kanak” di mana-mana jua terdapat dengan perkataan “bahan penganiayaan seksual kanak-kanak”. Pindaan seksyen 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_8__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 9 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan menggantikan perkataan “pornografi kanak-kanak” dengan perkataan “bahan penganiayaan seksual kanak-kanak”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “pornografi kanak-kanak” dengan perkataan “bahan penganiayaan seksual kanak-kanak”. Pindaan seksyen 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_9__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_9__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_9__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 10 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan menggantikan perkataan “pornografi kanak-kanak” dengan perkataan “bahan penganiayaan seksual kanak-kanak”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “pornografi kanak-kanak” dengan perkataan “bahan penganiayaan seksual kanak-kanak”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_9__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam huraian, dengan menggantikan perkataan “pornografi kanak-kanak” di mana-mana jua terdapat dengan perkataan “bahan penganiayaan seksual kanak-kanak”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_9__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/13/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam misalan, dengan menggantikan perkataan “pornografi kanak-kanak” di mana-mana jua terdapat dengan perkataan “bahan penganiayaan seksual kanak-kanak”. Pindaan seksyen 12"
+      }
+    }
+  ]
+}

@@ -6,7 +6,9 @@
 
 bernama
 
-Suatu Akta untuk meminda Akta Harta Pusaka Kecil (Pembahagian) 1955. [ ]
+Suatu Akta untuk meminda Akta Harta Pusaka Kecil (Pembahagian)
+
+1955. [ ]
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
@@ -136,7 +138,9 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Harta Pusaka Kecil (Pembahag
 
 3. Fasal 2 bertujuan untuk membuat pindaan am kepada Akta 98. Perkataan “Pemungut” kini digantikan dengan perkataan “Pentadbir Tanah”.
 
-4. Fasal 3 bertujuan untuk meminda seksyen 2 Akta 98. Pindaan ini bertujuan untuk memasukkan takrif “Corporation” dan “valuation officer” ke dalam Akta 98.
+4. Fasal 3 bertujuan untuk meminda seksyen 2 Akta 98. Pindaan ini bertujuan untuk memasukkan takrif “Corporation” dan “valuation officer” ke dalam Akta
+
+98.
 
 <!-- page 6 -->
 

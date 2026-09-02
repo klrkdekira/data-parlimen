@@ -54,9 +54,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ### Interpretation
 
-### 44b.
-
-In this Part, unless the context otherwise requires—
+44B. In this Part, unless the context otherwise requires—
 
 “beneficiary” means—
 

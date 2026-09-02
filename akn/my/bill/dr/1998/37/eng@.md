@@ -40,7 +40,7 @@ FINANCE (No. 2) BILL 1998
 
 ## CHAPTER
 
-<!-- marginal: III -->
+III
 
 ## AMENDMENT TO THE REAL PROPERTY GAINS TAX ACT 1976
 
@@ -282,7 +282,7 @@ Act 1986 in respect of the same activity.
 
 ## CHAPTER
 
-<!-- marginal: III -->
+III
 
 ## AMENDMENT TO THE REAL PROPERTY GAINS TAX ACT 1976
 

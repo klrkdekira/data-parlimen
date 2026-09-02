@@ -530,7 +530,7 @@ atau”; dan
 
 <!-- page 20 -->
 
-“bahagian Xa
+## “BAHAGIAN XA
 
 ## PEMERIKSAAN PENYEDIA LATIHAN KEMAHIRAN
 
@@ -554,7 +554,7 @@ atau”; dan
 
 <!-- page 21 -->
 
-bahagian Xb
+## BAHAGIAN XB
 
 ## PENGUATKUASAAN DAN PENYIASATAN
 

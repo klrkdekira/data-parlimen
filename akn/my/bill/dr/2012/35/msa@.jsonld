@@ -1,0 +1,1970 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-35-2012",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~chp_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~chp_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Kewangan (No. 2) 2012"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~chp_I",
+      "@type": "akn:chapter",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~chp_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~chp_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERMULAAN Tajuk ringkas"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~chp_II",
+      "@type": "akn:chapter",
+      "eli:number": "II",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~chp_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~chp_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Kewangan (No. 2) 2012. Pindaan Akta"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~chp_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~chp_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Cukai Pendapatan 1967 [Akta 53], Akta Setem 1949 [Akta 378], Akta Petroleum (Cukai Pendapatan) 1967 [Akta 543] dan Akta Cukai Keuntungan Harta Tanah 1976 [Akta 169] dipinda mengikut cara yang dinyatakan masing-masing dalam Bab II, III, IV dan V."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_38"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PINDAAN KEPADA AKTA CUKAI PENDAPATAN 1967 Permulaan kuat kuasa pindaan kepada Akta Cukai Pendapatan 1967"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "KECUALIAN DAN PERALIHAN Pemakaian Bahagian ini"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_III",
+      "@type": "akn:chapter",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_III__cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_III__cl_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_III__cl_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_III__cl_44",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_III__cl_45",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_III__cl_46"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PINDAAN KEPADA AKTA SETEM 1949 Permulaan kuat kuasa pindaan kepada Akta Setem 1949"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_III__cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bab ini mula berkuat kuasa apabila mula berkuatkuasanya Akta ini. Pindaan seksyen 8"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_III__cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Setem 1949, yang disebut “Akta ibu” dalam Bab ini, dipinda dalam seksyen 8, dengan memasukkan selepas subseksyen (5) subseksyen yang berikut: “(6) The Collector or any person authorized by him in writing may, at all reasonable times, inspect any books, records and documents kept by him in connection with the issue of such licence. (7) For the purpose of subsection (6), the authorized person shall keep and retain the books, records and documents in connection with the issue of such licence for a period of seven years from the year in which such licence is issued. (8) Any authorized person who fails to comply with the conditions imposed in the licence under subsection (2) shall be liable to a fine of not less than four thousand ringgit and not more than ten thousand ringgit.”. Pindaan seksyen 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_III__cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 9 dengan seksyen yang berikut: “Authorized person to compound instrument 9. (1) Subject to this section, the Collector may authorize— (a) any banker, dealer or insurer to compound for the payment of duty on unstamped cheques, contract notes or policies of insurance drawn or drawn up and issued on forms to be supplied or adopted by the said banker, dealer or insurer; (b) the Registrar of Companies to compound for the payment of duty on unstamped Articles of Association and Memorandum of Association lodged with the said Registrar; and (c) the principal officer of Tenaga Nasional Berhad to compound for the payment of duty on the unstamped TNB Electricity Supply Form issued and supplied by the Tenaga Nasional Berhad. (2) The said authorized persons shall levy upon or charge to the person to whom such instruments referred to in subsection (1) are issued the stamp duty mentioned in the First Schedule. (3) The said authorized person shall pay on the 1st day of each calendar month in each year to the Collector the amount due and collected thereon as duties on such unstamped instruments and where he fails to pay the amount on each date specified or within fourteen days immediately thereafter, he shall in addition to the amount due pay a further amount of two hundred ringgit or ten per centum of the amount due whichever is the greater and any amount due shall be recoverable as a debt due to the Government. (4) The said authorized person shall deposit with the Collector, as security for the due payment to the Collector of any moneys payable under subsection (2), such sum, if any, as the Minister of Finance may direct. (5) Instruments in respect of which payment of duty by way of composition has been made under this section, notwithstanding any other provision of this Act, shall be deemed to be duly stamped. (6) Where any person has been authorized to compound for the payment of duty on unstamped instrument as mentioned under paragraph 1(a), (b) or (c), the Collector or any person authorized by him in writing, may, at all reasonable times, inspect any stocks of unstamped instrument held by such person and any books, records and documents kept by him in connection with the issue of such instrument. (7) For the purpose of subsection (6), the person mentioned in subsection (1) shall keep and retain the books, records and documents in connection with the issue of such Articles of Association and Memorandum of Association for a period of seven years from the year in which such Articles of Association and Memorandum of Association are issued.”. Seksyen baru 60A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_III__cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 60 seksyen yang berikut: “Failure to frank documents 60A. Any authorized person who, being required by law to frank any instrument, fails to do so within thirty days from the date the instrument is executed shall be liable to a fine of not less than two hundred ringgit and not more than two thousand ringgit.”. Pindaan Jadual Pertama"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_III__cl_45",
+      "@type": "akn:clause",
+      "eli:number": "45",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jadual Pertama Akta ibu dipinda dalam subbutiran 22(6) dengan menggantikan perkataan “principle of Al Bai Bithamin Ajil” dengan perkataan “principles”. Pindaan Jadual Kedua"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_III__cl_46",
+      "@type": "akn:clause",
+      "eli:number": "46",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jadual Kedua kepada Akta ibu dipinda dengan memasukkan selepas butiran 22 butiran yang berikut: “23 Memorandum of Sale Registrar of High Court”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV",
+      "@type": "akn:chapter",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV__cl_47",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV__cl_48",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV__cl_49",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV__cl_50",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV__cl_51",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV__cl_52",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV__cl_53",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV__cl_54"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PINDAAN KEPADA AKTA PETROLEUM (CUKAI PENDAPATAN) 1967 Permulaan kuat kuasa pindaan kepada Akta Petroleum (Cukai Pendapatan) 1967"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV__cl_47",
+      "@type": "akn:clause",
+      "eli:number": "47",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV__cl_47__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV__cl_47__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV__cl_47__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV__cl_47",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 48, 51, 53 dan 54 mula berkuat kuasa apabila mula berkuat kuasanya Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV__cl_47__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV__cl_47",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 49, 50 dan 52 mula berkuat kuasa pada 1 Januari 2014. Pindaan seksyen 18"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV__cl_48",
+      "@type": "akn:clause",
+      "eli:number": "48",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV__cl_48__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV__cl_48__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Petroleum (Cukai Pendapatan) 1967, yang disebut “Akta ibu” dalam Bab ini, dipinda dalam seksyen 18—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV__cl_48__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV__cl_48",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (1)(h), dengan menggantikan proviso kepada perenggan itu dengan proviso yang berikut: “Provided that— (i) this paragraph shall not apply if the payer has paid the amount of deduction of tax and the increased amount which is equal to ten per cent of that deduction which are due and payable under the provisions of that law; and (ii) where such tax is deducted or such amount is paid after the due date for the furnishing of a return for a year of assessment that relates to such payment, the tax or amount so paid shall not prejudice the imposition of penalty under subsection 52(2) if a deduction on such payment is made in such return or is claimed in the information given to the Director General in arriving at the adjusted income of the payer;”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV__cl_48__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV__cl_48",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(3) Paragraph (1)(h) shall not apply if for a year of assessment a person is exempt under section 65C or the Promotion of Investments Act 1986 [Act 327], in respect of all income of that person from all sources not being exemption on income equal to capital expenditure incurred.”. Pindaan seksyen 39"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV__cl_49",
+      "@type": "akn:clause",
+      "eli:number": "49",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV__cl_49__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV__cl_49__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV__cl_49__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 39 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV__cl_49__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV__cl_49",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “six” dengan perkataan “five”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV__cl_49__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV__cl_49",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (2)(b), dengan menggantikan perkataan “six” dengan perkataan “five”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV__cl_49__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV__cl_49",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4), dengan menggantikan perkataan “six” dengan perkataan “five”. Pindaan seksyen 50"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV__cl_50",
+      "@type": "akn:clause",
+      "eli:number": "50",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 50(2) Akta ibu dipinda dengan menggantikan perkataan “six” dengan perkataan “five”. Seksyen baru 57A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV__cl_51",
+      "@type": "akn:clause",
+      "eli:number": "51",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 57 seksyen yang berikut: “Failure to keep records 57 A. Any person who, without reasonable excuse, contravenes subsection 34A(1), (2), (3), (4) or (5) shall be guilty of an offence and shall, on conviction, be liable to a fine of not less than three hundred ringgit and not more than ten thousand ringgit or to imprisonment for a term not exceeding one year or to both.”. Pindaan seksyen 66"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV__cl_52",
+      "@type": "akn:clause",
+      "eli:number": "52",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 66(1) Akta ibu dipinda dengan menggantikan perkataan “six” dengan perkataan “five”. Seksyen baru 72A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV__cl_53",
+      "@type": "akn:clause",
+      "eli:number": "53",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 72 seksyen yang berikut: “Power to substitute the price and disallowance of interest on certain transactions 72A. (1) This section shall apply notwithstanding section 72 and subject to any rules prescribed under this Act. (2) Subject to subsection (3) where a chargeable person in the basis period for a year of assessment enters into a transaction with another person for that year for the acquisition or supply of property or services, then, for all purposes of this Act, that chargeable person shall determine and apply the arm’s length price for such acquisition or supply. (3) Where the Director General has reason to believe that any property or services referred to in subsection (2) is acquired or supplied at a price which is either less than or greater than the price which it might have been expected to fetch if the parties to the transaction had been independent persons dealing at arm’s length, he may in determination of the gross income, adjusted income or adjusted loss, statutory income, assessable income or chargeable income of the chargeable person, substitute the price in respect of the transaction to reflect an arm’s length price for the transaction. (4) Where the Director General, having regard to the circumstances of the case, is of the opinion that in the basis period for a year of assessment the value or aggregate of all financial assistance granted by a person to a chargeable person who is a resident, is excessive in relation to the fixed capital of such chargeable person, any interest, finance charge, other consideration payable for or losses suffered in respect of the financial assistance shall, to the extent to which it relates to the amount which is excessive, be disallowed as a deduction for the purposes of this Act. (5) The transactions or the financial assistance referred to in subsection (2) or (4) respectively, shall be construed as transactions or financial assistance between— (a) companies one of which has control over the other; or (b) companies both of which are controlled by some other person. (6) In this section, “transaction” has the same meaning assigned to it in subsection 72(7).”. Pindaan seksyen 83"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV__cl_54",
+      "@type": "akn:clause",
+      "eli:number": "54",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 83(1) Akta ibu dipinda dengan memasukkan selepas perenggan (b) perenggan yang berikut: “(ba) implementing and facilitating the operation of section 72A;”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V",
+      "@type": "akn:chapter",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_55",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_56",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_57",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_58",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_59",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_60",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_61",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_62",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_63",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_64"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PINDAAN KEPADA AKTA CUKAI KEUNTUNGAN HARTA TANAH 1976 Permulaan kuat kuasa pindaan kepada Akta Cukai Keuntungan Harta Tanah 1976"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_55",
+      "@type": "akn:clause",
+      "eli:number": "55",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_55__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_55__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_55__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_55__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_55",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 56 dan perenggan 63(c) mula berkuat kuasa apabila mula berkuatkuasanya Akta Perkongsian Liabiliti Terhad 2012 [Akta 743]."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_55__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_55",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 57, 58, perenggan 59(c), seksyen 61, perenggan 63(a) dan (b), dan seksyen 64 mula berkuat kuasa apabila mula berkuatkuasanya Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_55__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_55",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 59(a) dan (b), seksyen 60 dan 62 mula berkuat kuasa pada 1 Januari 2014. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_56",
+      "@type": "akn:clause",
+      "eli:number": "56",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_56__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_56__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Cukai Keuntungan Harta Tanah 1976, yang disebut “Akta ibu” dalam Bab ini dipinda dalam subseksyen 2(1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_56__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_56",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “orang”, dengan memasukkan selepas perkataan “kumpulan orang” dengan perkataan “, perkongsian liabiliti terhad”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_56__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_56",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “perkongsian” takrif yang berikut: ‘ “perkongsian liabiliti terhad” ertinya suatu perkongsian liabiliti terhad yang didaftarkan di bawah Akta Perkongsian Liabiliti Terhad 2012 [Akta 743].’. Pindaan seksyen 13"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_57",
+      "@type": "akn:clause",
+      "eli:number": "57",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 13 Akta ibu dipinda dengan memasukkan selepas subseksyen (5) subseksyen yang berikut: “(6) Seseorang yang melupuskan suatu aset yang boleh dikenakan cukai dan dikehendaki untuk membuat penyata di bawah seksyen ini boleh mengemukakan kepada Ketua Pengarah bersama-sama dengan penyata itu suatu pemberitahuan dalam borang yang ditetapkan bahawa pelupusan itu tidak tertakluk kepada cukai atau dikecualikan daripada pembayaran cukai di bawah Akta ini. (7) Bagi maksud seksyen 21B, pemberitahuan yang disebut dalam subseksyen (6) hendaklah diserahkan kepada pemeroleh dalam tempoh tiga puluh hari daripada tarikh pelupusan.”. Pindaan seksyen 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_58",
+      "@type": "akn:clause",
+      "eli:number": "58",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 14 Akta ibu dipinda dengan memasukkan selepas subseksyen (4) subseksyen yang berikut: “(5) Jika menurut seksyen 21B, pemeroleh yang gagal untuk memegang dan meremitkan amaun yang dikehendaki di bawah seksyen itu, dan kegagalan adalah disebabkan oleh suatu pemberitahuan yang tidak betul atau salah yang dikemukakan kepadanya di bawah seksyen 13, maka hendaklah dimasukkan ke dalam taksiran itu yang dibuat berkenaan dengan orang yang mengemukakan pemberitahuan itu, suatu jumlah yang bersamaan dengan sepuluh peratus cukai yang kena dibayar oleh orang itu.”. Pindaan seksyen 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_59",
+      "@type": "akn:clause",
+      "eli:number": "59",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_59__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_59__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_59__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 15 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_59__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_59",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “enam” dengan perkataan “lima”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_59__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_59",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan menggantikan perkataan “enam” dengan perkataan “lima”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_59__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_59",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: “(4) Jika menurut seksyen 21B dan tertakluk kepada subseksyen 14(5), pemeroleh yang gagal untuk memegang dan meremitkan amaun yang dikehendaki di bawah seksyen itu, dan kegagalan adalah disebabkan oleh pemberitahuan yang tidak betul atau salah yang dikemukakan kepadanya di bawah seksyen 13, maka hendaklah dimasukkan ke dalam taksiran itu yang dibuat berkenaan dengan orang yang mengemukakan pemberitahuan itu, suatu jumlah yang bersamaan dengan sepuluh peratus cukai yang kena dibayar oleh orang itu.”. Pindaan seksyen 19"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_60",
+      "@type": "akn:clause",
+      "eli:number": "60",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 19(1) Akta ibu dipinda dengan menggantikan perkataan “enam” dengan perkataan “lima”. Pindaan seksyen 21B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_61",
+      "@type": "akn:clause",
+      "eli:number": "61",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 21B Akta ibu dipinda dengan memasukkan selepas subseksyen (4) subseksyen yang berikut: “(5) Seksyen ini tidak terpakai jika suatu notis tidak dikenakan cukai di bawah seksyen 13 diserahkan kepada pemeroleh dalam tempoh enam puluh hari selepas tarikh pelupusan.”. Pindaan seksyen 24"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_62",
+      "@type": "akn:clause",
+      "eli:number": "62",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 24(3) Akta ibu dipinda dengan menggantikan perkataan “enam” dengan perkataan “lima”. Pindaan Jadual 1"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_63",
+      "@type": "akn:clause",
+      "eli:number": "63",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_63__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_63__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_63__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jadual 1 kepada Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_63__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_63",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subperenggan 5(1) dengan subperenggan yang berikut: “(1) Walau apa pun yang berlawanan dengan Akta ini atau mana-mana undang-undang bertulis yang lain, mana-mana orang yang merupakan seorang pengarah suatu syarikat semasa tempoh yang cukai atau hutang adalah bertanggungan untuk dibayar oleh syarikat itu hendaklah bertanggungjawab secara bersama dan berasingan bagi cukai atau hutang yang genap masa dan kena dibayar dan hendaklah didapatkan di bawah seksyen 23 daripada pengarah itu.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_63__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_63",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subperenggan 5(3) subperenggan yang berikut: “(4) Bagi maksud subperenggan (1A), “pengarah” ertinya mana-mana orang yang— (a) memegang jawatan pengarah (dengan apa-apa nama tersebut), termasuklah mana-mana orang yang berkaitan dengan pengurusan perniagaan syarikat itu; dan (b) merupakan, sama ada dengan sendirinya atau dengan seorang atau lebih sekutu, tuan punya bagi, atau mampu secara langsung atau melalui perantaraan syarikat lain atau dengan cara tidak langsung lain mengawal, lebih daripada lima puluh peratus modal saham biasa bagi syarikat itu. (5) Dalam subperenggan ini, “sekutu” ertinya, berhubung dengan seseorang— (a) yang dalam mana-mana hubungan yang berikut dengan orang itu, iaitu, suami atau isteri, ibubapa atau leluhur jauh, anak atau zuriat jauh, adik beradik lelaki, adik beradik perempuan dan pasangan; (b) pemegang amanah atau pemegang-pemegang amanah bagi suatu penyelesaian yang mana hubungan kepada orang itu adalah, atau mana-mana saudara seumpamanya (hidup atau mati) seperti yang disebut dalam perenggan (a) takrif ini telah atau merupakan, seorang penyelesai; (c) jika orang itu berkepentingan dalam mana-mana syer atau tanggungan bagi suatu syarikat yang tertakluk kepada mana-mana amanah atau bahagian harta pusaka si mati, mana-mana orang berkepentingan yang lain di dalamnya.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_63__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_63",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan 5 perenggan yang berikut: “5A. (1) Pegawai pematuhan yang dilantik di kalangan rakan kongsi bagi perkongsian liabiliti terhad atau jika tiada pegawai pematuhan seperti itu dilantik, oleh mana-mana rakan kongsi, hendaklah secara bersama dan berasingan boleh ditaksir dan boleh dikenakan cukai yang kena dibayar oleh perkongsian liabiliti terhad di bawah Akta ini. (2) Subperenggan 5(2) dan (3) hendaklah terpakai dengan ubah suaian dan penyesuaian sebagaimana perlu di bawah perenggan ini. (3) Dalam perenggan ini, “pegawai pematuhan” hendaklah mempunyai makna yang sama yang diberikan kepadanya oleh subseksyen 75B(2) Akta Cukai Pendapatan 1967.”. Pindaan Jadual 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_64",
+      "@type": "akn:clause",
+      "eli:number": "64",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_64__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_64__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jadual 4 kepada Akta ibu dipinda dalam perenggan 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_64__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_64",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “yang bukannya atau telah menjadi sebahagian daripada aset yang lebih besar yang boleh dikenakan cukai pada masa pelupusan itu:” dengan perkataan “atau jika aset yang boleh dikenakan cukai itu secara sebahagian dilupuskan, amaun yang akan dibenarkan berkenaan dengan pelupusan itu hendaklah ditentukan menurut formula yang berikut: AxC B iaitu A ialah bahagian aset yang boleh dikenakan cukai yang dilupuskan; B ialah jumlah aset yang boleh dikenakan cukai; C ialah sepuluh ribu atau sepuluh peratus keuntungan yang boleh dikenakan cukai yang mana lebih tinggi.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_64__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__chp_V__cl_64",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong proviso."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika terdapat apa-apa ketidakselarasan antara mana-mana peruntukan Bahagian ini dengan mana-mana peruntukan Akta ibu, peruntukan Akta ibu itu adalah terbatal setakat ketidakselarasan itu. Baki elaun dan kerugian larasan seseorang berkenaan dengan pendapatan faedah"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__cl_40__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__cl_40__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__cl_40__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__cl_40__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__cl_40__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__cl_40",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Amaun kerugian larasan seseorang berkenaan dengan faedah dari suatu punca yang terdiri daripada perniagaan bagi tahun taksiran 2012 seperti yang ditentukan di bawah subseksyen 44(4) atau (5) sebelum berkuat kuasa seksyen 5 dan 10 Akta ini—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__cl_40__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__cl_40__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "hendaklah bagi tahun taksiran 2013 dipotong mengikut subseksyen 43(2) Akta ibu terhadap agregat pendapatan statutori orang itu daripada punca yang terdiri daripada suatu perniagaan; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__cl_40__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__cl_40__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika tiada agregat pendapatan statutori daripada punca itu yang terdiri daripada suatu perniagaan bagi tahun taksiran 2013, amaun itu hendaklah dipotong terhadap pendapatan larasan orang itu daripada punca yang selain punca yang terdiri daripada perniagaan bagi tahun taksiran 2013 sehingga amaun itu dipotong sepenuhnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__cl_40__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__cl_40__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__cl_40__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__cl_40",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Amaun elaun berkenaan dengan faedah daripada satu punca yang terdiri daripada suatu perniagaan yang belum dibuat kepada seseorang bagi tahun taksiran 2012 seperti yang ditentukan di bawah perenggan 75 Jadual 3 Akta ibu sebelum berkuatkuasanya seksyen 5 dan 10 Akta ini—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__cl_40__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__cl_40__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "hendaklah bagi tahun taksiran 2013 dibuat kepada orang itu bagi maksud Jadual itu dan seksyen 42 Akta ibu daripada mana-mana punca yang terdiri daripada perniagaan orang itu; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__cl_40__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_II__cl_40__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika orang itu tidak mempunyai punca yang terdiri daripada perniagaan bagi tahun taksiran 2013, amaun elaun itu hendaklah dipotong terhadap pendapatan larasan orang itu daripada punca yang selain perniagaan bagi tahun taksiran 2013 sehingga amaun itu dipotong sepenuhnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 24 Akta ibu dipinda dalam subseksyen (5), dengan menggantikan perkataan “and the business is one which includes the regular lending of money” dengan perkataan “of lending of money and the business is one which is licensed under any written law”. Pindaan seksyen 25"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_11__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_11__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_11__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_11__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 25 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan menggantikan perkataan “five” di mana-mana jua terdapat dengan perkataan “four”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (4)(a)(i), dengan menggantikan perkataan “five” di mana-mana jua terdapat dengan perkataan “four”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_11__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (4)(b), dengan menggantikan perkataan “five” dengan perkataan “four”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_11__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (4)(c), dengan menggantikan perkataan “five” di mana-mana jua terdapat dengan perkataan “four”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_11__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam proviso kepada subseksyen (5), dengan menggantikan perkataan “five” di mana-mana jua terdapat dengan perkataan “four”. Pindaan seksyen 27"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_12__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_12__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 27 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (2)(b), dengan menggantikan perkataan “five” dengan perkataan “four”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (2)(c), dengan menggantikan perkataan “five” di mana-mana jua terdapat dengan perkataan “four”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_12__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam proviso kepada subseksyen (3), dengan menggantikan perkataan “five” di mana-mana jua terdapat dengan perkataan “four”. Seksyen baru 34D"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 34C seksyen yang berikut: “Special deduction for expenditure on treasury shares 34D. (1) Notwithstanding section 33 but subject to this section, in ascertaining the adjusted income of a company from a business for the basis period for a year of assessment, a deduction shall be made from the gross income for that period any expenses incurred by that company in acquiring treasury shares. (2) The amount of deduction referred to in subsection (1)— (a) shall be the cost of acquiring the treasury shares which are transferred to its employee less any amount payable by that employee for such treasury shares; and (b) shall be allowed in the basis period for a year of assessment where the employee exercised his rights to acquire such treasury shares. (3) For the purpose of subsection (2), the cost of acquiring treasury shares which are transferred to its employee shall be determined on the basis that the treasury shares acquired by the company at an earlier point in time are deemed to be transferred first. (4) Where any amount payable by an employee for any treasury shares transferred to him exceeds the cost to the company of acquiring the treasury shares transferred as provided under subsection (3), the amount of the excess shall be credited to an account to be kept by the company for the purpose of this section. (5) Where there is any balance in the account kept by the company under subsection (4) and any treasury shares are subsequently transferred by the company to any employee under subsection (1), the cost to the company of acquiring the treasury shares as determined under subsection (3) shall be reduced— (a) where the amount of the balance is equal to or exceeds the amount of the cost, to zero; or (b) where the amount of the balance is less than the amount of the cost, by the amount of the balance, and the amount of the reduction shall be debited to the account. (6) For the purpose of this section, a company transfers treasury shares held by it to an employee when the employee acquires the legal and beneficial interest in the treasury shares. (7) Where a holding company transfers treasury shares held by it to any employee employed at any time by a subsidiary company of the holding company who has the right to acquire such shares— (a) no deduction shall be allowed to the holding company under subsection (1); (b) if any amount is paid or payable by the subsidiary company to the holding company for the transfer of the treasury shares, there shall be allowed to the subsidiary company, on the date of the transfer of the shares or of the payment to the holding company for the shares, whichever is the later, a deduction under subsection (1) for the amount, or an amount equal to the cost to the holding company of acquiring the treasury shares transferred to the employee of the subsidiary less any amount payable by that employee for the treasury shares, whichever is less.”. Pindaan seksyen 39"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_14__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_14__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 39(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “or” pada hujung subperenggan (l)(vii);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (m), dengan menggantikan noktah pada hujung perenggan itu dengan perkataan “; or”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_14__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (m) perenggan yang berikut: “(n) any remuneration or any similar payment paid to a partner of a limited liability partnership where such remuneration or payment is not specified or provided in the limited liability partnership agreement made in accordance with section 9 of the Limited Liability Partnerships Act 2012.”. Pindaan seksyen 44"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 44 Akta ibu dipinda dengan memasukkan selepas subseksyen (5D) subseksyen yang berikut: “(5E) Where a partnership or a company is converted into a limited liability partnership in accordance with section 29 or 30 of the Limited Liability Partnerships Act 2012, the amount ascertained under subsection 44(4) or (5) for any relevant year in respect of that partnership or company shall be allowed for the purposes of ascertaining the aggregate income of that limited liability partnership for a year of assessment following the relevant year.”. Pindaan seksyen 44A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 44A(9)(a) Akta ibu dipinda dengan menggantikan perkataan “six” dengan perkataan “five”. Pindaan seksyen 46"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 46(1)(k) Akta ibu dipinda dengan menggantikan perkataan “three” di mana-mana jua terdapat dengan perkataan “six”. Pindaan seksyen 48"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_18__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 48 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (3)(a)(i), dengan menggantikan perkataan “four” dengan perkataan “six”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (3)(a)(ii), dengan menggantikan perkataan “four thousand ringgit” dengan perkataan “six thousand ringgit”. Pindaan seksyen 60AA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 60AA Akta ibu dipinda dengan memasukkan selepas subseksyen (15) subseksyen yang berikut: “(15A) In arriving at the total income of an operator for a year of assessment— (a) the adjusted loss from a source or sources of an operator for that year of assessment other than from a source consisting of a family fund, shall be available as deduction against the aggregate statutory income (excluding the statutory income from a source consisting of a family fund) of an operator; and (b) any unabsorbed loss ascertained under subsection 44(4) or (5) for that year of assessment shall not be deducted against the statutory income of the family fund of the operator for the subsequent years of assessment.”. Pindaan seksyen 60G"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dalam subseksyen 60G(6), dalam takrif “foreign fund management company”, dengan menggantikan perkataan “Securities Industry Act 1983 [Act 280]” dengan perkataan “Capital Markets and Services Act 2007 [Act 671]”. Pindaan seksyen 60I"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 60I(4) Akta ibu dipinda dengan menggantikan perkataan “the principles of mudharabah, musyarakah, ijarah or istisna’ ” dengan perkataan “Syariah principles”. Pindaan seksyen 65A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 65A(a) Akta ibu dipinda dengan memasukkan selepas perkataan “Co-operative Education Trust Fund” perkataan “or to a Co-operative Development Trust Fund”. Seksyen baru 75B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 75A seksyen yang berikut: “Limited liability partnership and business trust 75B. (1) The responsibility for doing all acts and things required to be done— (a) by or on behalf of a limited liability partnership for the purposes of this Act shall lie jointly and severally— (i) with the compliance officer who is appointed amongst the partners of the limited liability partnership; or (ii) if no compliance officer is appointed as such, any one or all of the partners thereof; and (b) by or on behalf of a business trust for the purposes of this Act shall lie jointly and severally with the trustee manager of such business trust. (2) For the purpose of this section, “compliance officer” has the meaning assigned to it in section 27 of the Limited Liability Partnerships Act 2012.”. Pindaan seksyen 77"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_24__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_24__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 77 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_24__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan memasukkan selepas perkataan “company” perkataan “, limited liability partnership”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_24__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “company” perkataan “, limited liability partnership”. Pindaan seksyen 77A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_25__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_25__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 77A Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_25__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan memasukkan selepas perkataan “company” perkataan “, limited liability partnership”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_25__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “company” di mana-mana jua terdapat perkataan “, limited liability partnership”. Pindaan seksyen 91"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_26__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_26__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_26__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 91 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_26__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “six” dengan perkataan “five”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_26__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam proviso kepada subseksyen (2), dengan menggantikan perkataan “six” dengan perkataan “five”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_26__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4), dengan menggantikan perkataan “six” dengan perkataan “five”. Pindaan seksyen 103"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 103 Akta ibu dipinda dalam perenggan 12(a), dengan menggantikan perkataan “or co-operative society” dengan perkataan “, co-operative society or limited liability partnership”. Pindaan seksyen 107B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 107B(1) Akta ibu dipinda dengan menggantikan perkataan “or co-operative society” dengan perkataan “, co-operative society or limited liability partnership”. Pindaan seksyen 107C"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_29__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_29__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_29__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_29__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 107C Akta ibu dipinda dengan memasukkan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_29__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan memasukkan selepas perkataan “company” perkataan “, limited liability partnership”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_29__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4), dengan memasukkan selepas perkataan “4A applies,” di mana-mana jua terdapat perkataan “limited liability partnership,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_29__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (7), dengan memasukkan selepas perkataan “company” perkataan “, limited liability partnership”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_29__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (8), dengan memasukkan selepas perkataan “company” di mana-mana jua terdapat perkataan “, limited liability partnership”. Seksyen baru 109G dan 109H"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_3__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_3__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_3__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_3__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_3__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_3__subsec_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 109F seksyen yang berikut: “Deduction of tax from income derived from withdrawal of contribution made to a private retirement scheme 109G. (1) Where a person (in this section referred to as “the payer”) makes payment to an individual (in this section referred to as “the recipient”) in relation to a withdrawal of contribution before reaching the age of fifty-five (other than by reason of death or permanently leaving Malaysia) from a fund administered by that payer under a private retirement scheme, the payer shall upon paying the amount, deduct from that amount, tax at a rate applicable to such payment, and (whether or not tax is so deducted) shall within one month after paying the amount render an account and pay the amount of that tax to the Director General: Provided that the Director General may under special circumstances allow extension of time for the amount of tax deducted to be paid over. (2) Where the payer fails to pay any amount due from him under subsection (1), the amount which he fails to pay shall be increased by a sum equal to ten per cent of the amount which he fails to pay, and that amount and the increased sum shall be a debt due from him to the Government and shall be payable forthwith to the Director General. (3) Where in pursuance of this section any amount is paid to the Director General by the payer or recovered by the Director General from the payer and if the payer has not deducted that amount in paying the amount under subsection (1) with respect to which that amount relates, the payer may recover that amount from the recipient as a debt due to the payer. (4) Notwithstanding the foregoing subsections, where the amount due from the payer under subsection (1) is increased by a sum under subsection (2), the Director General may in his discretion for any good cause shown remit the whole or any part of that sum and, where the amount remitted has been paid, the Director General shall repay the same. (5) In this section, “payer” refers to a private retirement scheme provider as approved under section 139Q of the Capital Markets and Services Act 2007 to provide and manage a private retirement scheme. Appeal by the payer 109H. (1) A payer referred to in section 109, 109B or 109F, may within thirty days (or any period extended by the Director General) from the date an amount is due to be made to the Director General under that section, appeal to the Special Commissioners by reason that such amount is not liable to be paid under this Act and the provision of this Act relating to appeals shall apply accordingly with any necessary modification. (2) Where an amount is due from the payer to a non-resident person, this section shall not apply or cease to apply if— (a) an appeal has been filed to the Special Commissioners by the non-resident person to whom the payer was liable to pay the amount of interest or royalty, or payment under section 4A or paragraph 4(f), of which amount due under subsection (1) relates; (b) such payment to the non-resident made by the payer is disallowed as deduction under section 39 in arriving at the adjusted income of the payer; or (c) the amount due under subsection (1) has not been made to the Director General by the payer.”. Pindaan seksyen 111"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 111(2) Akta ibu dipinda dengan menggantikan perkataan “six” di mana-mana jua terdapat perkataan“five”. Pindaan seksyen 131"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 131(1) Akta ibu dipinda dengan menggantikan perkataan “six” dengan perkataan “five”. Pindaan Jadual 1"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_33__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_33__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_33__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_33__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_33__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jadual 1 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_33__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Bahagian 1, dengan menggantikan perenggan 1 dengan perenggan yang berikut: “1. Except where paragraphs 1A, 2, 2A and 3 provide otherwise, income tax shall be charged for a year of assessment upon the chargeable income of every person at the following rates: Chargeable Income RM For every ringgit of the ﬁ rst 5,000 For every ringgit of the next 15,000 For every ringgit of the next 15,000 Chargeable Income RM Rate of Income Tax For every ringgit of the next 15,000 11 per cent For every ringgit of the next 20,000 19 per cent For every ringgit of the next 30,000 24 per cent For every ringgit exceeding 100,000 26 per cent”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_33__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_33__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_33__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_33__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_33__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan koma di hujung subperenggan (e) dengan noktah bertindih; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_33__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_33__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subperenggan (e) subperenggan yang berikut: “(f) a limited liability partnership other than a limited liability partnership to which paragraph 2D applies.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_33__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan 2C perenggan yang berikut: “2D. Subject to paragraphs 2E, 2F and 3, income tax shall be charged for a year of assessment on the chargeable income of a limited liability partnership resident in Malaysia which has a total contribution of capital (whether in cash or in kind) of two million five hundred thousand ringgit and less at the beginning of the basis period for a year of assessment at the following rates: Chargeable Income RM Rate of Income Tax For every ringgit of the ﬁ rst 500,000 20 per cent For every ringgit exceeding 500,000 25 per cent 2E. The provisions of paragraph 2D shall not apply to a limited liability partnership referred to in that paragraph if more than— (a) fifty per cent of the capital contribution (whether in cash or in kind) of the limited liability partnership is directly or indirectly contributed by a company; (b) fifty per cent of the paid up capital in respect of ordinary shares of the company is directly or indirectly owned by the limited liability partnership; or (c) fifty per cent of the capital contribution (whether in cash or in kind) of the limited liability partnership and fifty per cent of the paid up capital in respect of ordinary shares of the company is directly or indirectly owned by another company. 2F. The company referred to in paragraph 2E, other than another company referred to in subparagraph 2E(c), shall have a paid up capital in respect of ordinary shares of more than two million and five hundred thousand ringgit at the beginning of the basis period for a year of assessment.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_33__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan Bahagian IV dengan Bahagian yang berikut: “PART IV Notwithstanding Part I, income tax shall be charged for a year of assessment upon the chargeable income of every co-operative society at the following rates: Chargeable Income RM Rate of Income Tax For every ringgit of the ﬁ rst 30,000 0 per cent For every ringgit of the next 30,000 5 per cent For every ringgit of the next 40,000 10 per cent For every ringgit of the next 50,000 15 per cent For every ringgit of the next 100,000 20 per cent For every ringgit of the next 250,000 22 per cent For every ringgit of the next 250,000 24 per cent For every ringgit exceeding 750,000 25 per cent"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_33__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas Bahagian XV Bahagian yang berikut: “PART XVI Notwithstanding Part I, income tax shall be charged for a year of assessment on any amount of contribution withdrawn by an individual from a private retirement scheme before that individual reaches the age of 55 (other than by reason of death or permanently leaving Malaysia) at the rate of 8 per cent on every ringgit of that contribution withdrawn.”. Pindaan Jadual 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subperenggan 15(a) Jadual 2 Akta ibu dipinda dengan menggantikan perkataan “five” di mana-mana jua terdapat dengan perkataan “four”. Pindaan Jadual 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_35__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_35__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_35__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_35__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_35__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_35__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jadual 3 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_35__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_35",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perenggan 26;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_35__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_35",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan 27, dengan menggantikan perkataan “six” dengan perkataan “five”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_35__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_35",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan 38(2), dengan menggantikan perkataan “divisible profits of partnership” dengan perkataan “divisible profits of partnership, or in relation to a limited liability partnership, means the right to a share of more than one-half of the capital contribution whether in cash or in kind of the limited liability partnership and in relation to business trust, means the right to not less than fifty per cent of residual profits of the business trust available for distribution, or not less than fifty per cent of any residual assets of the business trust available for distribution on a winding up”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_35__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_35",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan 38A, dengan menggantikan subperenggan (2), dengan subperenggan yang berikut: “(2) For the purpose of this paragraph— (a) “unit trust” has the same meaning assigned to it in section 61A; and (b) “company” means a company which holds not less than fifty per cent of residual profits of the unit trust available for distribution, or not less than fifty per cent of any residual assets of the unit trust available for distribution on a winding up.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_35__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_35",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan 61 perenggan yang berikut: “61A. (1) Notwithstanding paragraphs 48 or 61, as the case may be, but subject to this paragraph, where in the basis period for a year of assessment an asset for which qualifying capital expenditure has been incurred is classified as asset held for sale in accordance with generally accepted accounting principles, such asset shall be deemed to have ceased to be used for the purposes of that paragraph. (2) Where subparagraph (1) applies and the asset is sold in the basis period the asset is classified as asset held for sale, the disposal value of the asset for the purposes of this Schedule shall be an amount equal to its market value at the date it was classified as asset held for sale or the net proceeds of the sale, whichever is greater. (3) Where in the basis period for a year of assessment an asset for which qualifying capital expenditure has been incurred is classified as asset held for sale in accordance with generally accepted accounting principles, such asset shall be deemed to have ceased to be used for the purposes of paragraph 48 or 61, as the case maybe, in the following basis period— (a) where the asset is sold in the following basis period; or (b) where the asset is not sold after the end of the following basis period. (4) For the purpose of subsection (3) the disposal value of the asset shall be— (a) in the case where the asset is sold in the following basis period, an amount equal to its market value at the end of the basis period such asset is held for sale or the net proceeds of the sale, whichever is greater; (b) in the case where the asset is not sold in the following basis period, the market value of the asset at the end of that following basis period. (5) Where paragraph (4) applies, in determining the residual expenditure of such asset for that following basis period, the total qualifying expenditure incurred by that person shall be reduced by an amount of annual allowance which would have been made to him for that following basis period as if the asset had been in use in that following basis period for the purpose of business of his. (6) Where an asset deemed ceased to be used in accordance with subparagraph (3)(b) is brought into use by the person in a business of his in a basis period for any year of assessment after the basis period the asset is deemed ceased to be used— (a) that person shall be deemed to have incurred qualifying capital expenditure for that asset equal to its market value at the date it is brought into use for the purpose of that business; and (b) no initial allowance shall be made to that person in relation to an asset under subparagraph (a). (7) In this paragraph, “market value” in the case of an industrial building, means the market value as determined by a valuation officer employed by the Government.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_35__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_35",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan 75A, perenggan yang berikut: “75AA. Where a partnership or a company is converted into a limited liability partnership in accordance with section 29 or 30 of the Limited Liability Partnerships Act 2012, any allowance or aggregate amount of allowances for a year of assessment which has not been so made to that partnership or company as ascertained under paragraph 75 shall be made to that limited liability partnership for the purposes of this Schedule and section 42 for the following year of assessment.”. Pindaan Jadual 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subperenggan 15(b) Jadual 4 Akta ibu dipinda dengan menggantikan perkataan “six” dengan perkataan “five”. Pindaan Jadual 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_37__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_37__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jadual 6 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_37__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_37",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan 12B perenggan yang berikut: “12C. Any profit paid, credited or distributed to partners by a limited liability partnership.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_37__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_37",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan 20 perenggan yang berikut: “20A. Any income of a life insurer or takaful operator from an investment made out of a life fund or family fund in respect of a deferred annuity established in accordance with the Retirement Savings Standards approved by Bank Negara Malaysia. Pindaan Jadual 7A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_38__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_38__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_38__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_38__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_38__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_38__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_38__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_38__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_38__para_i"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jadual 7A kepada Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_38__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_38",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan 1(b), dengan memotong selepas perkataan “subparagraph 8(a)” perkataan “or (b)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_38__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_38",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perenggan 1C;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_38__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_38",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan 2, dengan menggantikan perkataan “1, 1A or 1C” dengan perkataan “1 or 1A”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_38__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_38",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan 2A, dengan menggantikan perkataan “1, 1A or 1C” dengan perkataan “1 or 1A”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_38__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_38",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan 3, dengan menggantikan perkataan “1, 1A or 1C” dengan perkataan “1 or 1A”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_38__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_38",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan 6, dengan menggantikan perkataan “six” dengan perkataan “five”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_38__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_38",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subperenggan 8(d);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_38__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_38",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subperenggan 9(g); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_38__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_38",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subperenggan 9(gg)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subperenggan 4(a)(i) dan (iii), perenggan 4(b) dan (c), seksyen 7 dan 23 dan perenggan 35(c) berhubung dengan amanah syarikat mula berkuat kuasa apabila berkuatkuasanya peruntukan bersamaan Akta Pasaran Modal dan Perkhidmatan (Pindaan) 2012 [Akta A1437] yang berhubungan dengan amanah syarikat."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subperenggan 4(a)(ii), seksyen 20 dan 22, dan perenggan 35(a) mula berkuat kuasa apabila berkuatkuasanya Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subperenggan 4(a)(iv), (v) dan (vi), seksyen 7, 8, 9, 14, 15, 23, 24, 25, 27, 28 dan 29, perenggan 33(b) dan (c), dan perenggan 35(c), 35(f) dan 37(a) berhubung dengan perkongsian liabiliti terhad mula berkuat kuasa apabila berkuatkuasanya peruntukan Akta Perkongsian Liabiliti Terhad 2012 [Akta 743]."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_3__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subperenggan 4(a)(vii), seksyen 5, 10, 13, 18, perenggan 33(a) dan (d), perenggan 35(d) dan (e), perenggan 38(a), (b), (c), (d), (e), (g), (h) dan (i) dan seksyen 39 dan 40 berkuat kuasa bagi tahun taksiran 2013 dan tahun-tahun taksiran yang berikutnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_3__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 6 dan 30 dan perenggan 33(e) mula berkuat kuasa pada 1 Januari 2013."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_3__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 11, 12, 16, 26, 31, 32 dan 34, perenggan 35(b), seksyen 36 dan perenggan 38(f) mula berkuat kuasa pada 1 Januari 2014."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_3__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 17 berkuat kuasa bagi tahun taksiran 2012, 2013, 2014, 2015, 2016 dan 2017."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_3__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 19, 21 dan perenggan 37(b) berkuat kuasa bagi tahun taksiran 2012 dan tahun-tahun taksiran yang berikutnya. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Cukai Pendapatan 1967, yang disebut “Akta ibu” dalam Bab ini, dipinda dalam seksyen 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_4__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_4__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_4__para_a__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_4__para_a__subpara_iv",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_4__para_a__subpara_v",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_4__para_a__subpara_vi",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_4__para_a__subpara_vii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_4__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_4__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “business” takrif yang berikut: ‘ “business trust” has the same meaning assigned to it in the Capital Markets and Services Act 2007 [Act 671];’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_4__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_4__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “Central Bank”, dengan menggantikan perkataan “Central Bank of Malaysia Act 1958 [Act 519]” dengan perkataan “Central Bank of Malaysia Act 2009 [Act 701]”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_4__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_4__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “company”, dengan memasukkan selepas perkataan “Malaysia” perkataan “and a business trust”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_4__para_a__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_4__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “lease” takrif yang berikut: ‘ “limited liability partnership” means a limited liability partnership registered under the Limited Liability Partnership Act 2012 [Act 743];’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_4__para_a__subpara_v",
+      "@type": "akn:subparagraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_4__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “partnership”, dengan memasukkan selepas perkataan “a partner in a partnership” perkataan “, a limited liability partnership”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_4__para_a__subpara_vi",
+      "@type": "akn:subparagraph",
+      "eli:number": "vi",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_4__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “person”, dengan memasukkan selepas perkataan “body of persons” perkataan “, a limited liability partnership”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_4__para_a__subpara_vii",
+      "@type": "akn:subparagraph",
+      "eli:number": "vii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_4__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “total income” takrif yang berikut: ‘ “treasury share” means a share of a company that was previously issued but was repurchased, redeemed or otherwise acquired by such company and not cancelled;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (9), dengan memasukkan selepas perkataan “shall exclude” perkataan “a business trust and”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (10) subseksyen yang berikut: “(11) In relation to business trust, any reference in this Act to shares or ordinary share capital, shareholders and dividend shall be read as including a reference to units or derivatives of units, unit holders and distributions, respectively.”. Seksyen baru 4B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 4A seksyen yang berikut: “Non-business income 4B. For the purpose of section 4, gains or profit from a business shall not include any interest that first becomes receivable by a person in the basis period for a year of assessment other than interest where subsection 24(5) applies.”. Pindaan seksyen 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 6(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah di hujung perenggan (k) dengan koma bernoktah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (k), perenggan yang berikut: “(l) subject to section 109G but notwithstanding any other provisions of this Act, income tax shall be charged for a year of assessment upon the income of an individual consisting of a withdrawal of his contribution made to a private retirement scheme where the withdrawal is made by that individual before reaching the age of fifty-five (other than by reason of death or permanently leaving Malaysia) at the appropriate rate as specified under Part XVI of Schedule 1.”. Pindaan seksyen 8"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 8 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1), subseksyen yang berikut: “(1A) Notwithstanding subsection (1), for the purposes of this Act— (a) a limited liability partnership carrying on a business is resident in Malaysia for the basis year for a year of assessment if at any time during that basis year the management and control of its business or of any one of its businesses, as the case may be, are exercised in Malaysia; (b) any other limited liability partnership is resident in Malaysia for the basis year for a year of assessment if at any time during that basis year the management and control of its affairs are exercised in Malaysia by its partners; (c) a business trust is resident in Malaysia for the basis year for a year of assessment if the trustee manager of that business trust is resident in Malaysia and a trustee manager of a business trust is resident for the basis year for a year of assessment if— (i) the trustee manager in his capacity as such carries on such business trust in Malaysia; and (ii) the management and control of the business of such business trust is exercised in Malaysia.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan memasukkan selepas perkataan “company” di mana-mana jua terdapat perkataan “, limited liability partnership, business trust”. Pindaan seksyen 21"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_8__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 21 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan memasukkan selepas perkataan “company” perkataan “, limited liability partnership”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “company” perkataan “, limited liability partnership”. Pindaan seksyen 21A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_9__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 21A Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan memasukkan selepas perkataan “company” perkataan “, limited liability partnership”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/35/msa@/~part_I__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “company” di mana-mana jua terdapat perkataan “, limited liability partnership” kecuali dalam subseksyen (5). Pindaan seksyen 24"
+      }
+    }
+  ]
+}

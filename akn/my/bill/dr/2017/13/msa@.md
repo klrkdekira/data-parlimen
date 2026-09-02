@@ -8,35 +8,45 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
-1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran
+1. Tajuk ringkas dan permulaan kuat kuasa
 
-## Bahagian II
+2. Tafsiran
+
+## BAHAGIAN II
 
 ## AGENSI KAWALAN SEMPADAN MALAYSIA
 
-3. Penubuhan Agensi Kawalan Sempadan Malaysia 4. Fungsi Agensi
+3. Penubuhan Agensi Kawalan Sempadan Malaysia
 
-## Bahagian III
+4. Fungsi Agensi
+
+## BAHAGIAN III
 
 ## JAWATANKUASA PERINGKAT TERTINGGI
 
-5. Jawatankuasa Peringkat Tertinggi 6. Mesyuarat Jawatankuasa Peringkat Tertinggi 7. Fungsi Jawatankuasa Peringkat Tertinggi
+5. Jawatankuasa Peringkat Tertinggi
 
-## Bahagian IV
+6. Mesyuarat Jawatankuasa Peringkat Tertinggi
+
+7. Fungsi Jawatankuasa Peringkat Tertinggi
+
+## BAHAGIAN IV
 
 ## JAWATANKUASA PENYELARAS
 
-8. Jawatankuasa Penyelaras 9. Mesyuarat Jawatankuasa Penyelaras
+8. Jawatankuasa Penyelaras
+
+9. Mesyuarat Jawatankuasa Penyelaras
 
 10. Fungsi Jawatankuasa Penyelaras
 
 <!-- page 2 -->
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PEGAWAI AGENSI
 
@@ -50,7 +60,7 @@
 
 15. Perakuan pelantikan
 
-## Bahagian VI
+## BAHAGIAN VI
 
 AM
 
@@ -80,7 +90,7 @@ AM
 
 28. Peraturan-peraturan
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## KECUALIAN DAN PERALIHAN
 
@@ -98,7 +108,7 @@ Suatu Akta untuk mengadakan peruntukan bagi penubuhan Agensi Kawalan Sempadan Ma
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -138,7 +148,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 5 -->
 
-## Bahagian II
+## BAHAGIAN II
 
 ## AGENSI KAWALAN SEMPADAN MALAYSIA
 
@@ -170,7 +180,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (h) secara amnya untuk melaksanakan apa-apa fungsi lain bagi memastikan kesejahteraan dan keselamatan sempadan darat Malaysia atau melakukan segala perkara yang bersampingan dengan fungsinya.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## JAWATANKUASA PERINGKAT TERTINGGI
 
@@ -236,7 +246,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 8 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## JAWATANKUASA PENYELARAS
 
@@ -328,7 +338,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (2) Jawatankuasa Penyelaras boleh menubuhkan apa-apa jawatankuasa sebagaimana yang difikirkan perlu atau suai manfaat oleh Jawatankuasa Penyelaras untuk membantu Jawatankuasa Penyelaras dalam menjalankan fungsinya.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PEGAWAI AGENSI
 
@@ -388,7 +398,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 13 -->
 
-## Bahagian VI
+## BAHAGIAN VI
 
 AM
 
@@ -478,7 +488,7 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan, dipenjarakan selama tem
 
 28. Menteri boleh membuat apa-apa peraturan-peraturan yang perlu atau suai manfaat bagi memberi kesan sepenuhnya kepada atau bagi melaksanakan peruntukan Akta ini.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## KECUALIAN DAN PERALIHAN
 
@@ -532,7 +542,7 @@ Konstabel
 
 Akta Agensi Kawalan Sempadan Malaysia 2017 yang dicadangkan (“Akta yang dicadangkan”) bertujuan untuk menubuhkan Agensi Kawalan Sempadan Malaysia yang akan digunakan khidmatnya bagi mengawal keselamatan sempadan darat Malaysia daripada apa-apa kegiatan penyeludupan atau aktiviti lain yang menyalahi undang-undang.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I Akta yang dicadangkan memperkatakan perkara permulaan.
 
@@ -542,7 +552,7 @@ Akta Agensi Kawalan Sempadan Malaysia 2017 yang dicadangkan (“Akta yang dicada
 
 <!-- page 19 -->
 
-## Bahagian II
+## BAHAGIAN II
 
 5. Bahagian II Akta yang dicadangkan mengandungi peruntukan yang berhubungan dengan penubuhan Agensi Kawalan Sempadan Malaysia dan fungsinya.
 
@@ -550,7 +560,7 @@ Akta Agensi Kawalan Sempadan Malaysia 2017 yang dicadangkan (“Akta yang dicada
 
 7. Fasal 4 bertujuan untuk mengadakan peruntukan bagi fungsi Agensi.
 
-## Bahagian III
+## BAHAGIAN III
 
 8. Bahagian III Akta yang dicadangkan mengandungi peruntukan yang berhubungan dengan penubuhan Jawatankuasa Peringkat Tertinggi, mesyuarat dan fungsinya.
 
@@ -560,7 +570,7 @@ Akta Agensi Kawalan Sempadan Malaysia 2017 yang dicadangkan (“Akta yang dicada
 
 11. Fasal 7 bertujuan untuk mengadakan peruntukan berkenaan dengan fungsi Jawatankuasa Peringkat Tertinggi untuk menimbang teliti dan memutuskan syor yang dibuat oleh Jawatankuasa Penyelaras dan Agensi atau perkara yang berhubungan dengan keselamatan sempadan darat Malaysia.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 12. Bahagian IV Akta yang dicadangkan mengandungi peruntukan yang berhubungan dengan penubuhan Jawatankuasa Penyelaras, mesyuarat dan fungsinya.
 
@@ -570,7 +580,7 @@ Akta Agensi Kawalan Sempadan Malaysia 2017 yang dicadangkan (“Akta yang dicada
 
 15. Fasal 10 bertujuan untuk mengadakan peruntukan bagi fungsi Jawatankuasa Penyelaras dan bagi maksud itu, Jawatankuasa Penyelaras mempunyai kuasa untuk menubuhkan apa-apa jawatankuasa yang difikirkan perlu atau suai manfaat oleh Jawatankuasa Penyelaras untuk membantu Jawatankuasa Penyelaras menjalankan fungsinya.
 
-## Bahagian V
+## BAHAGIAN V
 
 16. Bahagian V Akta yang dicadangkan mengandungi peruntukan yang berhubungan dengan pelantikan Komisioner Jeneral, Timbalan-timbalan Komisioner Jeneral, pembatalan dan peletakan jawatan Komisioner Jeneral, pelantikan pegawai lain Agensi dan kuasa pegawai Agensi.
 
@@ -586,7 +596,7 @@ Akta Agensi Kawalan Sempadan Malaysia 2017 yang dicadangkan (“Akta yang dicada
 
 21. Fasal 15 bertujuan untuk mengadakan peruntukan bagi perakuan pelantikan yang dikeluarkan dalam bentuk kad kuasa kepada pegawai Agensi.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 22. Bahagian VI Akta yang dicadangkan mengandungi peruntukan yang berhubungan dengan peruntukan am.
 
@@ -614,7 +624,7 @@ Akta Agensi Kawalan Sempadan Malaysia 2017 yang dicadangkan (“Akta yang dicada
 
 33. Fasal 28 bertujuan memberi Menteri kuasa untuk membuat peraturan-peraturan di bawah Akta yang dicadangkan.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 34. Bahagian VII Akta yang dicadangkan mengandungi peruntukan yang berhubungan dengan peruntukan kecualian dan peralihan.
 

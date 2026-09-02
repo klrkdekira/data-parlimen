@@ -16,7 +16,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (2) Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
 
-### Seksyen baharu 507b, 507c, 507d, 507e, 507f dan 507g
+## SEKSYEN BAHARU 507B, 507C, 507D, 507E, 507F DAN 507G
 
 2. Kanun Keseksaan [Akta 574] dipinda dengan memasukkan selepas seksyen 507a seksyen yang berikut:
 

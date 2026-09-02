@@ -30,7 +30,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 3. The principal Act is amended by inserting after the Second Schedule the following schedule:
 
-“Third Schedule [Section 1a]
+## “THIRD SCHEDULE
+
+[Section 1a]
 
 1. Cattle 2. Domestic fowl 3. Sheep 4. Goat 5. Deer 6. Rabbit”.
 

@@ -4,13 +4,13 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Interpretation
 
-## Part II
+## PART II
 
 ## NATIONAL TRUST FUND AND ITS GOVERNANCE
 
@@ -56,7 +56,7 @@ National Trust Fund (Incorporated)
 
 23. Application of Public Authorities Protection Act 1948
 
-## Part III
+## PART III
 
 ## UTILISATION OF FUND
 
@@ -66,7 +66,7 @@ National Trust Fund (Incorporated)
 
 26. Application for withdrawals from Fund
 
-## Part IV
+## PART IV
 
 ## INVESTMENTS OF FUND
 
@@ -76,7 +76,7 @@ National Trust Fund (Incorporated)
 
 29. Appointment of external fund manager
 
-## Part V
+## PART V
 
 ## MISCELLANEOUS
 
@@ -94,7 +94,7 @@ National Trust Fund (Incorporated)
 
 <!-- page 3 -->
 
-## Part VI
+## PART VI
 
 ## REPEAL, SAVING AND TRANSITIONAL
 
@@ -126,7 +126,7 @@ An Act to establish the National Trust Fund, to incorporate the National Trust F
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 

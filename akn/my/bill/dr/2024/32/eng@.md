@@ -112,7 +112,7 @@ during the period stated in the order issued under subsection (1).
 
 7. The principal Act is amended by inserting after new section 21a the following part:
 
-“Part IVa
+## “PART IVA
 
 ## ENFORCEMENT
 

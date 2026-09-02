@@ -260,7 +260,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (b) in subsection (2), by substituting for the words “one thousand ringgit, or to imprisonment for a term not exceeding six months, or to both” the words “five thousand ringgit”.
 
-### New sections 63a, 63b, 63c, 63d and 63e
+## NEW SECTIONS 63A, 63B, 63C, 63D AND 63E
 
 26. The principal Act is amended by inserting after section 63 the following sections:
 
@@ -292,9 +292,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ### Production, etc., of article or document
 
-### 63d.
-
-In the course of investigation or examination under this Part, the Director General may—
+63D. In the course of investigation or examination under this Part, the Director General may—
 
 (a) require any such person to produce to him such article or document; and
 
@@ -418,7 +416,9 @@ Provided that the electronic record or the copy or print-out of that electronic 
 
 35. The principal Act is amended by inserting after the Third Schedule the following schedule:
 
-“Fourth Schedule [Paragraph 15(1)(d), subsection 15(1a) and section 76c]
+## “FOURTH SCHEDULE
+
+[Paragraph 15(1)(d), subsection 15(1a) and section 76c]
 
 Offences under Chapters VI, VIa and VIb of the Penal Code [Act 574]”.
 

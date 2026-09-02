@@ -106,21 +106,14 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/msa@/~cl_3",
       "@type": "akn:clause",
       "eli:number": "3",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/msa@/~cl_3__subsec_3",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/msa@",
       "schema:name": {
         "@language": "ms",
         "@value": "Seksyen 26B Akta ibu dipinda dengan menggantikan subseksyen"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/msa@/~cl_3__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/msa@/~cl_3",
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan subseksyen yang berikut: \"(3) Bagi maksud seksyen ini, sekuriti-sekuriti yang diterbitkan oleh Kerajaan Malaysia hendaklah termasuk— (a) pinjaman yang dijamin sepenuhnya oleh Kerajaan Malaysia; (b) sekuriti atau surat cara boleh niaga yang dijamin sepenuhnya oleh Kerajaan Malaysia termasuk sekuriti atau surat cara boleh niaga yang diterbitkan oleh sesuatu perbadanan yang dipunyai sepenuhnya oleh Kerajaan Malaysia; (c) kertas-kertas Bank Negara Malaysia; (d) sekuriti atau surat cara boleh niaga yang dijamin sepenuhnya oleh Bank Negara Malaysia termasuk sekuriti atau surat cara boleh niaga yang diterbitkan oleh sesuatu perbadanan yang dipunyai sepenuhnya oleh Bank Negara Malaysia; (e) apa-apa surat cara komersial (yang mempunyai sifat boleh niaga) yang diterbitkan oleh Kerajaan Negeri atau pihak berkuasa tempatan dengan tempoh matang sekurang- kurangnya tiga tahun dari tarikh terbitan; dan (f) apa-apa deposit dalam akaun sumbangan pendahuluan di Bank Negara Malaysia di bawah seksyen 26(l)(a)(i).\". Penggantian seksyen 44"
+        "@value": "(3) dengan subseksyen yang berikut: \"(3) Bagi maksud seksyen ini, sekuriti-sekuriti yang diterbitkan oleh Kerajaan Malaysia hendaklah termasuk— (a) pinjaman yang dijamin sepenuhnya oleh Kerajaan Malaysia; (b) sekuriti atau surat cara boleh niaga yang dijamin sepenuhnya oleh Kerajaan Malaysia termasuk sekuriti atau surat cara boleh niaga yang diterbitkan oleh sesuatu perbadanan yang dipunyai sepenuhnya oleh Kerajaan Malaysia; (c) kertas-kertas Bank Negara Malaysia; (d) sekuriti atau surat cara boleh niaga yang dijamin sepenuhnya oleh Bank Negara Malaysia termasuk sekuriti atau surat cara boleh niaga yang diterbitkan oleh sesuatu perbadanan yang dipunyai sepenuhnya oleh Bank Negara Malaysia; (e) apa-apa surat cara komersial (yang mempunyai sifat boleh niaga) yang diterbitkan oleh Kerajaan Negeri atau pihak berkuasa tempatan dengan tempoh matang sekurang- kurangnya tiga tahun dari tarikh terbitan; dan (f) apa-apa deposit dalam akaun sumbangan pendahuluan di Bank Negara Malaysia di bawah seksyen 26(l)(a)(i).\". Penggantian seksyen 44"
       }
     },
     {
@@ -261,7 +254,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/msa@/~cl_5",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (6)— \"(ba) ahli Kumpulan Wang itu telah menjual rumah yang dibeli atau dibinanya dengan menggunakan pengeluaran di bawah perenggan (b) dan kemudiannya dia telah membeli atau membina rumah yang lain;\"; \"(da) ahli Kumpulan Wang itu telah menjual rumah yang telah digadaikan sebagai cagaran bagi pinjaman di bawah perenggan (d) dan dia kemudiannya telah membeli atau membina rumah yang lain dan telah mengambil pinjaman lain dan rumah baru itu telah digadaikan sebagai cagaran bagi pinjaman lain itu;\"; \"(g) ahli Kumpulan Wang itu memerlukan pembiayaan untuk pengajian tinggi bagi dirinya sendiri atau bagi anaknya;\"; dan"
+        "@value": "dalam subseksyen (6)—"
       }
     },
     {
@@ -271,7 +264,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/msa@/~cl_5__para_e",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perenggan (b) perenggan yang berikut:"
+        "@value": "dengan memasukkan selepas perenggan (b) perenggan yang berikut: \"(ba) ahli Kumpulan Wang itu telah menjual rumah yang dibeli atau dibinanya dengan menggunakan pengeluaran di bawah perenggan (b) dan kemudiannya dia telah membeli atau membina rumah yang lain;\";"
       }
     },
     {
@@ -281,7 +274,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/msa@/~cl_5__para_e",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perenggan (d) perenggan yang berikut;"
+        "@value": "dengan memasukkan selepas perenggan (d) perenggan yang berikut; \"(da) ahli Kumpulan Wang itu telah menjual rumah yang telah digadaikan sebagai cagaran bagi pinjaman di bawah perenggan (d) dan dia kemudiannya telah membeli atau membina rumah yang lain dan telah mengambil pinjaman lain dan rumah baru itu telah digadaikan sebagai cagaran bagi pinjaman lain itu;\";"
       }
     },
     {
@@ -291,7 +284,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/msa@/~cl_5__para_e",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan perenggan (g) dengan perenggan yang berikut:"
+        "@value": "dengan menggantikan perenggan (g) dengan perenggan yang berikut: \"(g) ahli Kumpulan Wang itu memerlukan pembiayaan untuk pengajian tinggi bagi dirinya sendiri atau bagi anaknya;\"; dan"
       }
     },
     {
@@ -321,7 +314,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 54B seksyen yang berikut: \" Penge- 54c. (1) Tertakluk kepada seksyen 56, Lembaga boleh luaran membenarkan seseorang ahli Kumpulan Wang yang oleh pekerja merupakan seorang pekerja berpencen yang belum berpencen. mencapai umur lima puluh lima tahun dan masih bekerja dengan Kerajaan Malaysia, mana-mana Kerajaan Negeri atau pihak berkuasa berkanun atau tempatan untuk mengeluarkan kesemua jumlah wang yang ada pada kreditnya mengikut apa-apa terma dan syarat yang ditetapkan oleh Lembaga. (2) Walau apa pun subseksyen (1), Lembaga boleh membenarkan seseorang ahli Kumpulan Wang yang merupakan seorang pekerja berpencen yang belum mencapai umur lima puluh lima tahun untuk mengeluarkan kesemua atau sebahagian daripada jumlah wang yang ada pada kreditnya atas apa-apa terma dan syarat yang ditetapkan oleh Lembaga jika Lembaga berpuas hati bahawa ahli Kumpulan Wang itu telah dikehendaki untuk bersara atau telah memilih untuk bersara di bawah seksyen 10, Akta 227. 11, 12 dan 12A Akta Pencen 1980 atau seksyen 10, 11, Akta 239. 12 dan 13 Akta Pencen Pihak-Pihak Berkuasa Berkanun dan Tempatan 1980. (3) Apabila seseorang ahli Kumpulan Wang telah membuat suatu pengeluaran di bawah subseksyen (1) atau (2), ahli Kumpulan Wang itu tidak boleh dianggap sebagai pekerja di bawah Akta ini melainkan jika ahli Kumpulan Wang itu belum mencapai umur lima puluh lima tahun dan dia bekerja dengan majikan selain Kerajaan Malaysia, mana-mana Kerajaan Negeri atau mana-mana pihak berkuasa berkanun atau tempatan. (4) Bagi maksud subseksyen (2), \"sebahagian daripada jumlah wang yang ada pada kreditnya\" ertinya amaun wang yang ada pada kredit ahli Kumpulan Wang itu sehingga tarikh apabila pemberitahuan bertulis mengenai persaraan ahli itu yang diterima oleh Lembaga di bawah seksyen 56 mula berkuat kuasa.\". Pindaan seksyen 56"
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 54B seksyen yang berikut: \" 54c. (1) Tertakluk kepada seksyen 56, Lembaga boleh membenarkan seseorang ahli Kumpulan Wang yang merupakan seorang pekerja berpencen yang belum mencapai umur lima puluh lima tahun dan masih bekerja dengan Kerajaan Malaysia, mana-mana Kerajaan Negeri atau pihak berkuasa berkanun atau tempatan untuk mengeluarkan kesemua jumlah wang yang ada pada kreditnya mengikut apa-apa terma dan syarat yang ditetapkan oleh Lembaga. (2) Walau apa pun subseksyen (1), Lembaga boleh membenarkan seseorang ahli Kumpulan Wang yang merupakan seorang pekerja berpencen yang belum mencapai umur lima puluh lima tahun untuk mengeluarkan kesemua atau sebahagian daripada jumlah wang yang ada pada kreditnya atas apa-apa terma dan syarat yang ditetapkan oleh Lembaga jika Lembaga berpuas hati bahawa ahli Kumpulan Wang itu telah dikehendaki untuk bersara atau telah memilih untuk bersara di bawah seksyen 10, 11, 12 dan 12A Akta Pencen 1980 atau seksyen 10, 11, 12 dan 13 Akta Pencen Pihak-Pihak Berkuasa Berkanun dan Tempatan 1980. (3) Apabila seseorang ahli Kumpulan Wang telah membuat suatu pengeluaran di bawah subseksyen (1) atau (2), ahli Kumpulan Wang itu tidak boleh dianggap sebagai pekerja di bawah Akta ini melainkan jika ahli Kumpulan Wang itu belum mencapai umur lima puluh lima tahun dan dia bekerja dengan majikan selain Kerajaan Malaysia, mana-mana Kerajaan Negeri atau mana-mana pihak berkuasa berkanun atau tempatan. (4) Bagi maksud subseksyen (2), \"sebahagian daripada jumlah wang yang ada pada kreditnya\" ertinya amaun wang yang ada pada kredit ahli Kumpulan Wang itu sehingga tarikh apabila pemberitahuan bertulis mengenai persaraan ahli itu yang diterima oleh Lembaga di bawah seksyen 56 mula berkuat kuasa.\". Pindaan seksyen 56"
       }
     },
     {

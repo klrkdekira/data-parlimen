@@ -20,7 +20,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 2 -->
 
-## Jadual
+## JADUAL
 
 <!-- marginal: Amaun -->
 
@@ -44,7 +44,7 @@ Kos Sara Hidup B. 64 Kementerian Pendidikan Tinggi
 
 <!-- marginal: 257,591,900 -->
 
-Jumlah
+## JUMLAH
 
 <!-- marginal: 7,938,212,000 -->
 
@@ -52,4 +52,4 @@ Jumlah
 
 Rang Undang-Undang ini bertujuan untuk mengadakan peruntukan bagi pengeluaran wang daripada Kumpulan Wang Disatukan sebanyak tujuh bilion sembilan ratus tiga puluh lapan juta dua ratus dua belas ribu ringgit (RM7,938,212,000) untuk perkhidmatan dan maksud yang dinyatakan dalam Jadual bagi tahun 2025.
 
-[PN(U2)2206/JLD.10]
+<!-- marginal: [PN(U2)2206/JLD.10] -->

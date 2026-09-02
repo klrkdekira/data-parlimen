@@ -12,11 +12,15 @@
 
 ## PUBLISHED BY AUTHORITY
 
-Jil. 34
+<!-- marginal: Jil. 34 -->
 
-## TAMBAHAN-
+<!-- marginal: TAMBAHAN- -->
 
-21hb Jun 1990 N o . 13 No. 2
+21hb Jun 1990
+
+<!-- marginal: N o . 13 -->
+
+No. 2
 
 ## RANG UNDANG-UNDANG
 
@@ -74,7 +78,11 @@ ini, adalah dipinda, dalam subseksyen (1), dengan memotong perkataan-perkataan "
 
 <!-- page 3 -->
 
-3. (1) Seksyen 6A Akta ibu adalah dipinda— Pindaan seksyen 6A.
+3. (1) Seksyen 6A Akta ibu adalah dipinda—
+
+<!-- marginal: Pindaan -->
+
+<!-- marginal: seksyen 6A. -->
 
 (a) dengan menomborkan semula seksyen 6A sebagai subseksyen (1) seksyen 6A; dan
 
@@ -84,9 +92,35 @@ ini, adalah dipinda, dalam subseksyen (1), dengan memotong perkataan-perkataan "
 
 (2) Subsekyen (2) seksyen 6A Akta ibu, yang telah dimasuk- kan melalui subsekyen (1), hendaklah disifatkan telah men- jadi suatu bahagian integral seksyen itu mulai dari tarikh mula berkuatkuasanya seksyen itu.
 
-Pindaan 4. Seksyen HB Akta ibu adalah dipinda, dalam subsekyen seksyen HB. (2), dengan menggantikan perkataan-perkataan "perintah baru atau memberi arahan baru sebagaimana yang disebut dalam subseksyen (1)" dengan perkataan-perkataan "perintah tahanan baru di bawah subsekyen (1) seksyen 6 atau perintah sekatan baru di bawah subseksyen (3) seksyen 6 atau memberikan arahan baru di bawah subseksyen (1) seksyen 11A".
+<!-- marginal: Pindaan -->
 
-5. (1) Jika sesuatu perintah tahanan telah dibuat di bawah Pengesahan perintah subseksyen (1) seksyen 6 Akta ibu terhadap mana-mana orang tahanandan penahanan, semasa tempoh di antara tarikh mula berkuatkuasanya Akta dan tanggung ibu dan tarikh mula berkuatkuasanya Akta ini (kemudian rugi. daripada ini disebut "tempoh peralihan"), maka perintah tahanan itu dan penahanan yang dibuat menurutnya semasa tempoh peralihan itu, dan penerusannya selepas itu, jika ada, adalah dengan ini diisytiharkan sebagai sah dan menurut
+4. Seksyen HB Akta ibu adalah dipinda, dalam subsekyen
+
+<!-- marginal: seksyen HB. -->
+
+(2), dengan menggantikan perkataan-perkataan "perintah baru atau memberi arahan baru sebagaimana yang disebut dalam subseksyen (1)" dengan perkataan-perkataan "perintah tahanan baru di bawah subsekyen (1) seksyen 6 atau perintah sekatan baru di bawah subseksyen (3) seksyen 6 atau memberikan arahan baru di bawah subseksyen (1) seksyen 11A".
+
+5. (1) Jika sesuatu perintah tahanan telah dibuat di bawah
+
+<!-- marginal: Pengesahan -->
+
+<!-- marginal: perintah -->
+
+subseksyen (1) seksyen 6 Akta ibu terhadap mana-mana orang
+
+<!-- marginal: tahanandan -->
+
+<!-- marginal: penahanan, -->
+
+semasa tempoh di antara tarikh mula berkuatkuasanya Akta
+
+<!-- marginal: dan tanggung -->
+
+ibu dan tarikh mula berkuatkuasanya Akta ini (kemudian
+
+<!-- marginal: rugi. -->
+
+daripada ini disebut "tempoh peralihan"), maka perintah tahanan itu dan penahanan yang dibuat menurutnya semasa tempoh peralihan itu, dan penerusannya selepas itu, jika ada, adalah dengan ini diisytiharkan sebagai sah dan menurut
 
 <!-- page 4 -->
 
@@ -98,7 +132,11 @@ undang-undang, dan hendaklah disifatkan sebagai, dan telah sentiasa dan pada set
 
 (b) perintah tahanan itu ialah suatu perintah tahanan baru yang dibuat selepas pembatalan suatu perintah tahanan terdahulu terhadap orang itu.
 
-(2) Tiada tindakan, guaman, pendakwaan, atau apa-apa jua presiding undang-undang lain daripada apa-apa perihalan atau dalam apa-apa bentuk, boleh dibawa, dimulakan atau di- kekalkan di mana-mana mahkamah atas apa-apa alasan selepas mula berkuatkuasanya Akta ini atau, jika dibawa atau dimu- lakan sebelum mula berkuatkuasanya Akta ini, terus dikekal- kan, bagi atau disebabkan oleh, atau berkenaan dengan, apa- apa jua yang dilakukan dengan sahnya berhubungan dengan perintah tahanan atau penahanan yang diisytiharkan sebagai sah dan menurut undang-undang di bawah subseksyen (1), kecuali bahawa peruntukan-peruntukan subseksyen ini tidaklah terpakai bagi apa-apa presiding undang-undang sedemikian yang telah selesai dan keputusan muktamad mahkamah berkenaan dengannya telah diberikan sebelum mula berkuatkuasanya Akta ini, atau bagi apa-apa rayuan berkenaan dengan keputusan muktamad itu.
+(2) Tiada tindakan, guaman, pendakwaan, atau apa-apa jua presiding undang-undang lain daripada apa-apa perihalan atau dalam apa-apa bentuk, boleh dibawa, dimulakan atau di- kekalkan di mana-mana mahkamah atas apa-apa alasan selepas mula berkuatkuasanya Akta ini atau, jika dibawa atau dimu- lakan sebelum mula berkuatkuasanya Akta ini, terus dikekal- kan, bagi atau disebabkan oleh, atau berkenaan dengan, apa- apa jua yang dilakukan dengan sahnya berhubungan dengan perintah tahanan atau penahanan yang diisytiharkan sebagai sah dan menurut undang-undang di bawah subseksyen (1), kecuali bahawa peruntukan-peruntukan subseksyen
+
+<!-- marginal: ini -->
+
+tidaklah terpakai bagi apa-apa presiding undang-undang sedemikian yang telah selesai dan keputusan muktamad mahkamah berkenaan dengannya telah diberikan sebelum mula berkuatkuasanya Akta ini, atau bagi apa-apa rayuan berkenaan dengan keputusan muktamad itu.
 
 ## HURAIAN
 

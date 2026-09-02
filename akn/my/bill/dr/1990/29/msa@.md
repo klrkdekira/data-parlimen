@@ -14,23 +14,7 @@
 
 ## PERMULAAN
 
-1. Tajuk ringkas dan mula berkuatkuasa.
-
-2. Tafsiran.
-
-3. Pendaftaran dikehendaki untuk menjalankan perniagaan sebagai syarikat amanah di Labuan.
-
-4. Pendaftaran syarikat amanah.
-
-5. Terma dan syarat pendaftaran.
-
-6. Kehendak-kehendak tambahan bagi syarikat amanah.
-
-7. Pematuhan akan Akta Syarikat 1965.
-
-8. Sekatan ke atas syarikat amanah,
-
-9. Pembekalan maklumat dan pemeriksaan.
+1. Tajuk ringkas dan mula berkuatkuasa. 2. Tafsiran. 3. Pendaftaran dikehendaki untuk menjalankan perniagaan sebagai syarikat amanah di Labuan. 4. Pendaftaran syarikat amanah. 5. Terma dan syarat pendaftaran. 6. Kehendak-kehendak tambahan bagi syarikat amanah. 7. Pematuhan akan Akta Syarikat 1965. 8. Sekatan ke atas syarikat amanah, 9. Pembekalan maklumat dan pemeriksaan.
 
 10. Pengkenselan pendaftaran.
 
@@ -128,7 +112,11 @@ pesisir yang diperbadankan di bawah Akta Syarikat Luar Pesisir 1990 dan mana-man
 
 "estet" atau "harta pusaka" ertinya apa-apa harta, sama ada harta tanah atau alih, yang diamanatkan kepada pentadbiran atau pengurusan suatu syarikat amanah sebagai wasi, pentadbir, pemegang amanah, penerima, jawatankuasa, penjaga atau ejen;
 
-"juruaudit" ertinya juruaudit syarikat diluluskan Akta 125. sebagaimana yang ditakrifkan dalam Akta Syarikat 1965;
+"juruaudit" ertinya juruaudit syarikat diluluskan
+
+<!-- marginal: Akta 125. -->
+
+sebagaimana yang ditakrifkan dalam Akta Syarikat 1965;
 
 "Labuan" ertinya Wilayah Persekutuan Labuan;
 
@@ -190,43 +178,51 @@ tetapi tidaklah termasuk—
 
 ### syarikat amanah di bawah seksyen 4.
 
-Pendaftaran
+<!-- marginal: Pendaftaran -->
 
-### 3. (1) Tiada syarikat boleh menjalankan perniagaan
+3. (1) Tiada syarikat boleh menjalankan perniagaan
 
-dikehendaki
+<!-- marginal: dikehendaki -->
 
 ### sebagai syarikat amanah di Labuan melainkan jika
 
-untuk
+<!-- marginal: untuk -->
 
 ### syarikat itu didaftarkan untuk menjalankan perniagaan
 
-menjalankan perniagaan
+<!-- marginal: menjalankan -->
+
+<!-- marginal: perniagaan -->
 
 ### sedemikian di bawah Akta ini.
 
-sebagai syarikat
+<!-- marginal: sebagai -->
+
+<!-- marginal: syarikat -->
 
 ### (2) Tiada apa-apa jua dalam Akta ini boleh disifatkan
 
-amanah di Labuan.
+<!-- marginal: amanah di -->
+
+<!-- marginal: Labuan. -->
 
 ### menyentuh dengan apa-apa jua cara kuatkuasa Pemegang
 
-Akta 247.
+<!-- marginal: Akta 247. -->
 
 ### Amanah Raya yang ditubuhkan di bawah Akta Pemegang
 
 Amanah Raya 1950.
 
-Pendaftaran
+<!-- marginal: Pendaftaran -->
 
-4. (1) Mana-mana syarikat yang diperbadankan di syarikat
+4. (1) Mana-mana syarikat yang diperbadankan di
+
+<!-- marginal: syarikat -->
 
 ### bawah Akta Syarikat 1965 atau yang didaftarkan sebagai
 
-amanah.
+<!-- marginal: amanah. -->
 
 ### syarikat asing di bawah Akta itu boleh memohon dalam
 
@@ -332,17 +328,45 @@ peringkat minimum modal dan rizab di Labuan sebagaimana yang ditetapkan.
 
 (3) Tiap-tiap syarikat amanah hendaklah, apabila dan seberapa kerap yang apa-apa perubahan dibuat pada memorandum atau perkara-perkara persatuan syarikat amanah itu atau pada apa-apa suratcara lain yang di bawahnya syarikat amanah itu diperbadankan, dalam masa tujuh hari, menyerahkan kepada Pendaftar butir-butir lengkap secara bertulis mengenai perubahan sedemikian, ditentusahkan melalui suatu afidavit yang dibuat atau akuan yang diangkat sumpah, mengikut mana-mana yang berkenaan, oleh seorang pegawai syarikat amanah itu.
 
-Pematuhan 7. Pendaftaran sesuatu syarikat untuk menjalankan akan perniagaan sebagai syarikat amanah di bawah Akta ini Akta Syarikat tidaklah melepaskan syarikat itu daripada mematuhi
+<!-- marginal: Pematuhan -->
+
+7. Pendaftaran sesuatu syarikat untuk menjalankan
+
+<!-- marginal: akan -->
+
+perniagaan sebagai syarikat amanah di bawah Akta ini
+
+<!-- marginal: Akta Syarikat -->
+
+tidaklah melepaskan syarikat itu daripada mematuhi
 
 1965. peruntukan-peruntukan Akta Syarikat 1965.
 
-8. Suatu syarikat amanah hendaklah memberi per- Sekatan ke atas khidmatan hanya kepada bukan pemastautin sahaja. syarikat amanah.
+8. Suatu syarikat amanah hendaklah memberi per-
 
-9. (1) Tiap-tiap syarikat amanah
+<!-- marginal: Sekatan -->
 
-<!-- marginal: hendaklah -->
+<!-- marginal: ke atas -->
 
-Pembekalan maklumat mengemukakan kepada Pendaftar apa-apa maklumat, data dan dan penyata sebagaimana yang ditetapkan. pemenksaan.
+khidmatan hanya kepada bukan pemastautin sahaja.
+
+<!-- marginal: syarikat -->
+
+<!-- marginal: amanah. -->
+
+9. (1) Tiap-tiap syarikat amanah hendaklah
+
+<!-- marginal: Pembekalan -->
+
+<!-- marginal: maklumat -->
+
+mengemukakan kepada Pendaftar apa-apa maklumat, data
+
+<!-- marginal: dan -->
+
+dan penyata sebagaimana yang ditetapkan.
+
+<!-- marginal: pemenksaan. -->
 
 (2) Walau apa pun seksyen 23, Pendaftar boleh, bagi maksud memuaskan hatinya bahawa peruntukan- peruntukan Akta ini dipatuhi dan bahawa syarikat amanah itu adalah dalam kedudukan kewangan yang kukuh, mempunyai akses kepada dan memeriksa buku, rekod, baucar, dokumen, wang tunai dan sekuriti mana-mana syarikat amanah dan meminta apa-apa maklumat daripada mana-mana pegawai syarikat amanah itu sebagaimana yang perlu.
 
@@ -390,9 +414,19 @@ hendaklah menghendaki syarikat amanah itu membuat representasi-representasi dala
 
 (4) Jika Menteri mengesahkan keputusan Pendaftar untuk mengkenselkan pendaftaran syarikat amanah atau jika syarikat amanah telah diberitahu mengenai keputusan Pendaftar untuk mengkenselkan pendaftarannya dan tidak merayu dalam masa yang ditetapkan, Pendaftar hendaklah menyebabkan suatu notis mengenai pengkenselan itu disiarkan dalam Warta dan syarikat amanah itu hendaklah berhenti menjalankan perniagaan mulai dari tarikh pengkenselan yang dinyatakan dalam notis itu.
 
-Penerusan
+<!-- marginal: Penerusan -->
 
-1. Walau apa pun subseksyen (4) seksyen 10, Pendaftar sementara boleh memberikuasa syarikat amanah secara bertulis bagi penggulungan. untuk menjalankan perniagaan pada apa-apa takat dan bagi apa-apa jangkamasa sebagaimana yang dinyatakan dalam pemberikuasaan itu hanya bagi maksud membolehkan syarikat amanah itu menggulungkan hal- ehwalnya berbangkit daripada pengkenselan pen- daftarannya.
+1. Walau apa pun subseksyen (4) seksyen 10, Pendaftar
+
+<!-- marginal: sementara -->
+
+boleh memberikuasa syarikat amanah secara bertulis
+
+<!-- marginal: bagi -->
+
+<!-- marginal: penggulungan. -->
+
+untuk menjalankan perniagaan pada apa-apa takat dan bagi apa-apa jangkamasa sebagaimana yang dinyatakan dalam pemberikuasaan itu hanya bagi maksud membolehkan syarikat amanah itu menggulungkan hal- ehwalnya berbangkit daripada pengkenselan pen- daftarannya.
 
 <!-- page 11 -->
 
@@ -464,9 +498,33 @@ atau suratcara lain yang mewujudkan suatu amanah, atau untuk melaksanakan apa-ap
 
 dibenarkan, oleh Akta ini atau oleh memorandum atau perkara-perkara persatuannya atau oleh mana-mana suratcara yang memperbadankan syarikat amanah itu, untuk diusahakan, dan boleh dilantik sedemikian, sama ada penyelesaian atau suratcara yang mewujudkan amanah itu atau yang mengenakan tugas itu telah dibuat atau berkuatkuasa sebelum atau selepas mula berkuatkuasanya Akta ini, dan sama ada sebagai pemegang amanah asal, pemegang amanah baru atau pemegang amanah tambahan dan boleh melakukan dan menunaikan segala tindakan dan tugas seorang pemegang amanah dengan sepenuhnya dan berkesan seperti mana-mana pemegang amanah lain.
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-15. (1) Suatu syarikat amanah boleh dilantik atau terus syarikat bertindak sebagai pemegang amanah tunggal walaupun amanah untuk ada diperuntukkan oleh terma-terma suratcara yang bertindak sebagai mewujudkan amanah itu atau apa-apa kuasa atau selainnya pemegang bahawa hendaklah ada lebih daripada satu pemegang amanah tunggal. amanah untuk melaksanakan amanah itu.
+15. (1) Suatu syarikat amanah boleh dilantik atau terus
+
+<!-- marginal: syarikat -->
+
+bertindak sebagai pemegang amanah tunggal walaupun
+
+<!-- marginal: amanah untuk -->
+
+ada diperuntukkan oleh terma-terma suratcara yang
+
+<!-- marginal: bertindak -->
+
+<!-- marginal: sebagai -->
+
+mewujudkan amanah itu atau apa-apa kuasa atau selainnya
+
+<!-- marginal: pemegang -->
+
+bahawa hendaklah ada lebih daripada satu pemegang
+
+<!-- marginal: amanah -->
+
+<!-- marginal: tunggal. -->
+
+amanah untuk melaksanakan amanah itu.
 
 (2) Suatu syarikat amanah tidak boleh dilantik atau tidak berhak untuk bertindak sebagai pemegang amanah tunggal dalam apa-apa hal di mana suratcara yang mewujudkan amanah atau kuasa itu dengan nyata—
 
@@ -476,13 +534,41 @@ Kuasa
 
 (c) memperuntukkan bahawa suatu syarikat amanah tidak boleh dilantik untuk bertindak sebagai pemegang amanah tunggal.
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-16. (1) Suatu syarikat amanah boleh bertindak sebagai syarikat pemegang amanah, wasi atau ejen bersesama dengan amanah untuk bertindak syarikat amanah atau orang lain jika— sebagai pemegang
+16. (1) Suatu syarikat amanah boleh bertindak sebagai
 
-(a) suratcara yang di bawahnya syarikat amanah itu amanah bertindak memperuntukkan sedemikian; bersama, dsb.. dengan
+<!-- marginal: syarikat -->
 
-(b) syarikat amanah itu diberikuasa atau pemegang amanah tain. dikehendaki berbuat sedemikian oleh undang- undang; atau
+pemegang amanah, wasi atau ejen bersesama dengan
+
+<!-- marginal: amanah untuk -->
+
+<!-- marginal: bertindak -->
+
+syarikat amanah atau orang lain jika—
+
+<!-- marginal: sebagai -->
+
+<!-- marginal: pemegang -->
+
+(a) suratcara yang di bawahnya syarikat amanah itu
+
+<!-- marginal: amanah -->
+
+bertindak memperuntukkan sedemikian;
+
+<!-- marginal: bersama, -->
+
+<!-- marginal: dsb.. dengan -->
+
+(b) syarikat amanah itu diberikuasa atau
+
+<!-- marginal: pemegang -->
+
+<!-- marginal: amanah tain. -->
+
+dikehendaki berbuat sedemikian oleh undang- undang; atau
 
 <!-- page 13 -->
 
@@ -562,13 +648,25 @@ dikehenda"ki atau diberikuasa untuk membuat apa-apa
 
 afidavit, perisytiharan atau pernyataan, syarikat amanah itu boleh berbuat demikian melalui mana-mana pegawainya yang dilantik bagi maksud itu.
 
-Pemeriksaan 20. (1) Mana-mana orang yang— buku dan akaun
+<!-- marginal: Pemeriksaan -->
 
-(a) memuaskan hati Mahkamah bahawa dia syarikat mempunyai suatu kepentingan di bawah mana- amanah. mana amanah yang pada masa itu berada di bawah kawalan atau pengurusan suatu syarikat amanah; dan
+20. (1) Mana-mana orang yang—
 
-(b) membantah suatu tindakan atau keputusan syarikat amanah itu atas asas bahawa terdapatnya sesuatu luar
+<!-- marginal: buku dan -->
 
-<!-- marginal: aturan -->
+<!-- marginal: akaun -->
+
+(a) memuaskan hati Mahkamah bahawa dia
+
+<!-- marginal: syarikat -->
+
+mempunyai suatu kepentingan di bawah mana-
+
+<!-- marginal: amanah. -->
+
+mana amanah yang pada masa itu berada di bawah kawalan atau pengurusan suatu syarikat amanah; dan
+
+(b) membantah suatu tindakan atau keputusan syarikat amanah itu atas asas bahawa terdapatnya sesuatu luar aturan
 
 <!-- marginal: atau -->
 
@@ -580,7 +678,37 @@ boleh memohon kepada Mahkamah supaya catatan- catatan dalam buku dan akaun syari
 
 (3) Jika terbukti melalui dapatan-dapatan juruaudit itu bahawa telah berlaku sesuatu luar aturan atau ketakpatutan oleh syarikat amanah itu, Mahkamah boleh membuat apa- apa perintah sebagaimana yang difikirkannya wajar.
 
-21. (1) Apa-apa wang atau balasan berharga lain yang Wang yang dibayar dibayar atau diberi kepada syarikat amanah menurut kepada mana-mana suratcara yang mewujudkan suatu amanah syarikat amanah hendaklah dipegang oleh syarikat amanah itu,'berasingan hendaklah daripada wangnya sendiri dan balasan berharga lain, dipegang sebagai sebagai amanah bagi maksud-maksud yang wang atau amanah. balasan berharga itu dibayar atau diberi dan syarikat amanah itu hendaklah mengakaunkannya secara berasingan.
+21. (1) Apa-apa wang atau balasan berharga lain yang
+
+<!-- marginal: Wang yang -->
+
+<!-- marginal: dibayar -->
+
+dibayar atau diberi kepada syarikat amanah menurut
+
+<!-- marginal: kepada -->
+
+mana-mana suratcara yang mewujudkan suatu amanah
+
+<!-- marginal: syarikat -->
+
+<!-- marginal: amanah -->
+
+hendaklah dipegang oleh syarikat amanah itu,'berasingan
+
+<!-- marginal: hendaklah -->
+
+daripada wangnya sendiri dan balasan berharga lain,
+
+<!-- marginal: dipegang -->
+
+<!-- marginal: sebagai -->
+
+sebagai amanah bagi maksud-maksud yang wang atau
+
+<!-- marginal: amanah. -->
+
+balasan berharga itu dibayar atau diberi dan syarikat amanah itu hendaklah mengakaunkannya secara berasingan.
 
 <!-- page 15 -->
 
@@ -626,7 +754,7 @@ segala wang yang dibelanjakan dengan sewajarnya oleh syarikat amanah itu dan fee
 
 (4) Suatu syarikat amanah hendaklah mempunyai hak untuk berkongsi komisen, fee, caj atau perbelanjaan yang berhak diterimanya di bawah seksyen ini dengan mana- mana orang lain.
 
-Kerahsiaan.
+<!-- marginal: Kerahsiaan. -->
 
 23. (1) Suatu syarikat amanah dan pegawai-pegawai, pengkhidmat-pengkhidmat dan ejen-ejennya, dan juruaudit yang dilantik di bawah subseksyen (2) seksyen 20 untuk memeriksa buku dan akaun syarikat amanah tidak boleh, kecuali jika dikehendaki dengan sahnya untuk berbuat demikian oleh Mahkamah atau di bawah peruntukan mana-mana undang-undang yang sedang berkuatkuasa di Malaysia, membuat apa-apa pendedahan tentang kewujudan apa-apa amanah, estet atau harta pusaka tertentu ataupun identiti mana-mana wasi, penyelesai, pelantik, penjaga, pemegang amanah atau benefisiari bagi mana-mana amanah, estet atau harta pusaka tertentu kecuali sebagaimana yang perlu bagi maksud mentadbirkan amanah, estet atau harta pusaka itu atau melabur, mendapatkan kembali atau mendapatkan aset-asetnya atau sebagaimana yang dibenarkan oleh Akta ini.
 
@@ -658,15 +786,37 @@ kompaunkan apa-apa kesalahan yang dilakukan oleh mana-mana orang di bawah Akta i
 
 <!-- page 18 -->
 
-25. Menteri boleh membuat peraturan-peraturan pada Peraturan- peraturan. amnya sebagaimana yang perlu atau suaimanfaat bagi maksud melaksanakan, atau menguatkuasakan, per- untukan-peruntukan Akta ini dan khususnya, tetapi tanpa menjejaskan keluasan apa yang tersebut di atas, bagi menetapkan apa-apa borang, notis, fee, caj dan apa-apa jua yang dikehendaki supaya ditetapkan oleh Akta ini atau sebagaimana yang difikirkannya perlu.
+25. Menteri boleh membuat peraturan-peraturan pada
 
-Prosedur
+<!-- marginal: Peraturan- -->
 
-26. Sekiranya apa-apa tindakan atau langkah dikehendaki jika tiada atau dibenarkan dilakukan atau diambil di bawah Akta ini diaturkan. dan tiada borang ditetapkan atau prosedur diaturkan bagi maksud itu sama ada dalam Akta ini atau mana-mana peraturan yang dibuat di bawahnya, permohonan bolehlah dibuat kepada Pendaftar untuk arahan tentang cara bagaimana tindakan atau langkah itu boleh dilakukan atau diambil, dan apa-apa tindakan atau langkah yang dilakukan atau diambil mengikut arahannya hendaklah menjadi pelaksanaan sah bagi tindakan atau langkah itu.
+<!-- marginal: peraturan. -->
 
-terjemahan
+amnya sebagaimana yang perlu atau suaimanfaat bagi maksud melaksanakan, atau menguatkuasakan, per- untukan-peruntukan Akta ini dan khususnya, tetapi tanpa menjejaskan keluasan apa yang tersebut di atas, bagi menetapkan apa-apa borang, notis, fee, caj dan apa-apa jua yang dikehendaki supaya ditetapkan oleh Akta ini atau sebagaimana yang difikirkannya perlu.
 
-27. (1) Jika apa-apa suratcara atau dokumen yang suratcara. dikehendaki diserahkan kepada Pendaftar adalah dalam dsb. bahasa selain daripada bahasa kebangsaan atau bahasa Inggeris, suratcara atau dokumen itu hendaklah disertakan dengan suatu terjemahannya yang ditentusahkan atau diperakukan sama ada dalam bahasa kebangsaan atau bahasa Inggeris.
+<!-- marginal: Prosedur -->
+
+26. Sekiranya apa-apa tindakan atau langkah dikehendaki
+
+<!-- marginal: jika tiada -->
+
+atau dibenarkan dilakukan atau diambil di bawah Akta ini
+
+<!-- marginal: diaturkan. -->
+
+dan tiada borang ditetapkan atau prosedur diaturkan bagi maksud itu sama ada dalam Akta ini atau mana-mana peraturan yang dibuat di bawahnya, permohonan bolehlah dibuat kepada Pendaftar untuk arahan tentang cara bagaimana tindakan atau langkah itu boleh dilakukan atau diambil, dan apa-apa tindakan atau langkah yang dilakukan atau diambil mengikut arahannya hendaklah menjadi pelaksanaan sah bagi tindakan atau langkah itu.
+
+<!-- marginal: terjemahan -->
+
+27. (1) Jika apa-apa suratcara atau dokumen yang
+
+<!-- marginal: suratcara. -->
+
+dikehendaki diserahkan kepada Pendaftar adalah dalam
+
+<!-- marginal: dsb. -->
+
+bahasa selain daripada bahasa kebangsaan atau bahasa Inggeris, suratcara atau dokumen itu hendaklah disertakan dengan suatu terjemahannya yang ditentusahkan atau diperakukan sama ada dalam bahasa kebangsaan atau bahasa Inggeris.
 
 (2) Jika apa-apa akaun atau rekod lain yang dikehendaki disimpan di bawah Akta ini tidak disimpan di dalam bahasa kebangsaan atau bahasa Inggeris, pengarah- pengarah syarikat amanah hendaklah menyebabkan suatu terjemahan sebenar bagi akaun dan rekod itu dibuat dari semasa ke semasa pada lat-lat tempoh yang tidak lebih daripada tujuh hari dan hendaklah menyebabkan terjemahan-terjemahan itu disimpan dengan akaun dan rekod yang asal.
 

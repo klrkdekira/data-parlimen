@@ -1,0 +1,2726 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-6-2010",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Competition Commission Bill 2010"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY Short title and commencement"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ESTABLISHMENT OF THE COMPETITION COMMISSION Establishment of the Commission"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_19"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "FUNCTIONS AND POWERS OF THE COMMISSION Functions of the Commission"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_16__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_16__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_16__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_16__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_16__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_16__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_16__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_16__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_16__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_16__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_16__para_l"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission shall have such functions as specified under the competition laws and shall also have the following functions:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to advise the Minister or any other public or regulatory authority on all matters concerning competition;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to alert the Minister to the actual or likely anti-competitive effects of current or proposed legislation and to make recommendations to the Minister, if appropriate, for the avoidance of these effects;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_16__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to advise the Minister on international agreements relevant to competition matters and to the competition laws;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_16__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to implement and enforce the provisions of the competition laws;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_16__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to issue guidelines in relation to the implementation and enforcement of the competition laws;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_16__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to act as an advocate for competition matters;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_16__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to carry out, as it considers appropriate, general studies in relation to issues connected with competition in the Malaysian economy or particular sectors of the Malaysian economy;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_16__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to collect information for the performance of the Commission’s functions;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_16__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to publish, and otherwise raise awareness among persons engaged in commerce or trade and among the public of, information concerning the competition laws and the manner in which the Commission will carry out its functions under the competition laws;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_16__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to inform and educate the public regarding the ways in which competition may benefit consumers in, and the economy of, Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_16__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to consider and make recommendations to the Minister on reforms to the competition laws; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_16__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to carry on such activities and do such things as are necessary or advantageous and proper for the administration of the Commission. Powers of the Commission"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_17__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_17__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission shall have the power to do all things necessary or expedient for or in connection with the performance of its functions under the competition laws."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_17__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_17__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_17__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_17__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_17__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_17__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_17__subsec_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_17__subsec_2__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_17__subsec_2__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_17__subsec_2__para_j"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to the generality of subsection (1), the powers of the Commission shall include the power—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_17__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_17__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to utilize all the movable and immovable property of the Commission in such manner as the Commission may think expedient, including the raising of loans by mortgaging such property;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_17__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_17__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to impose penalty for the infringement of the provisions of the competition laws;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_17__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_17__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to impose fees or charges for services rendered by the Commission;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_17__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_17__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to appoint such agents, experts or consultants as it deems fit to assist the Commission in the performance of its functions;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_17__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_17__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to grant loans, scholarships and advances to its employees for such purposes and on such terms as the Commission may determine or as may be approved by the Minister;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_17__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_17__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to pay remuneration, allowances and other expenses of the members of the Commission;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_17__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_17__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to formulate and implement programmes for the proper and effective performance of the Commission’s functions, including programmes for human resource development, funding and co-operation;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_17__subsec_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_17__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to co-operate with any body corporate or government agency for the purpose of performing the Commission’s functions;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_17__subsec_2__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_17__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to require the furnishing of information by enterprises to assist the Commission in the performance of its functions; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_17__subsec_2__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_17__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to do anything incidental to any of its functions and powers. Direction by Minister"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_18__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission shall be responsible to the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, in writing, give to the Commission directions of a general character, consistent with the provisions of the competition laws, relating to the performance of the functions and powers of the Commission and the Commission shall give effect to such directions. Returns, reports, accounts and information"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_19__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission shall furnish to the Minister, and any public authority as may be specified by the Minister, such returns, reports, accounts and information with respect to its activities and finances as the Minister may, from time to time, require or direct."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The returns, reports, accounts and information shall be in such form and shall contain such information relating to the proceedings and policy of the Commission and any other matter as the Minister may, from time to time, specify."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_10__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chairman shall be paid such remuneration and allowances as the Minister may determine, after consultation with the Minister of Finance."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All other members of the Commission shall be paid such allowances at such rates as the Minister may determine, after consultation with the Minister of Finance. Revocation of appointment and resignation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_11__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_11__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The appointment of any member of the Commission may, at any time, be revoked by the Prime Minister, if necessary in the interest of the effective and economical performance of the functions of the Commission."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The revocation of appointment under subsection (1) shall be supported with reason in writing."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_11__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any member of the Commission may, at any time, resign his office by a written notice addressed to the Prime Minister. Vacation of office"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12__para_k"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The office of a member of the Commission shall be vacated if—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he dies;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "there has been proved against him, or he has been convicted on, a charge in respect of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an offence involving fraud, dishonesty or moral turpitude;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an offence under any law relating to corruption; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other offence punishable with imprisonment (in itself only or in addition to or in lieu of a fine) for more than two years;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "his conduct, whether in connection with his duties as a member of the Commission or otherwise, has been such as to bring discredit or disrepute on the Commission;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he becomes a bankrupt;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he is of unsound mind or is otherwise incapable of discharging his duties;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of the Chairman, he absents himself from three consecutive meetings of the Commission without leave in writing of the Minister;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of a member of the Commission other than the Chairman, he absents himself from three consecutive meetings of the Commission without leave in writing of the Chairman;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he has engaged in any paid office or employment which conflicts with his duties as a member of the Commission;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he has acted in contravention of the competition laws;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "his appointment is revoked by the Prime Minister; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "his resignation is accepted by the Prime Minister. Temporary exercise of functions of the Chairman"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_13__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_13__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_13__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_13__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to subsection (2), the Minister may appoint temporarily any member of the Commission, other than the Chief Executive Officer, to act as the Chairman for the period when—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_13__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the office of the Chairman is vacant;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_13__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chairman is absent from duty or from Malaysia; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_13__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chairman is, for any other reason, unable to perform his functions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In the event that the office of the Chairman is vacant for six consecutive months or more, the Prime Minister shall appoint another person to be the Chairman in accordance with this Act, and upon such appointment, the previous Chairman shall cease to be a member of the Commission. Establishment of Committees"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14__subsec_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14__subsec_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14__subsec_10"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission may establish any committee as it deems necessary or expedient to assist it in the performance of its functions under the competition laws."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14__subsec_10",
+      "@type": "akn:subsection",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The members of a committee and any person invited under subsection (9) may be paid such allowances and other expenses as the Commission may determine. Disclosure of interest"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A committee established under subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall be chaired by any member of the Commission;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall conform to and act in accordance with any direction given to it by the Commission; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "may determine its own procedure."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Members of the committee established under subsection (1) may be appointed from amongst members of the Commission or such other person as the Commission thinks fit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of a committee shall hold office on such conditions and for such term as may be specified in his letter of appointment and is eligible for reappointment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission may revoke the appointment of any member of a committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of a committee may, at any time, resign by giving a written notice to the chairman of the committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission may, at any time, discontinue or alter the constitution of a committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A committee shall hold its administrative meetings at such times and places as the chairman of the committee may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14__subsec_9",
+      "@type": "akn:subsection",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A committee may invite any person to attend any of its meetings for the purpose of advising it on any matter under discussion but that person shall not be entitled to vote at the meeting."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Commission or any committee established under section 14 who has acquired a direct or indirect interest whether by himself, a member of his family or his associate in relation to any matter under discussion by the Commission or committee shall disclose to the Commission or committee, as the case may be, the fact of his interest and the nature of that interest."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A disclosure under subsection (1) shall be recorded in the minutes of the meeting of the Commission or committee, as the case may be, in which the matter is discussed and, after the disclosure, the member—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall not be present or take part in any deliberation or decision of the Commission or committee, as the case may be; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall be disregarded for the purpose of constituting a quorum of the Commission or committee, as the case may be, when the matter is discussed or decided upon."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Commission or committee who fails to disclose his interest as required under subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding five hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No act or proceedings of the Commission or committee shall be invalidated on the ground that any member of the Commission or committee has contravened this section."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_5__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_5__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of this section— “a member of his family”, in relation to a member of the Commission or a committee, includes—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_5__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_5__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_5__list_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_5__list_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_5__list_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_5__list_1__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_5"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_5__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_5__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "his spouse;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_5__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_5__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "his parent (including a parent of his spouse);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_5__list_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_5__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "his child (including an adopted child or stepchild);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_5__list_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_5__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "his brother or sister (including a brother or sister of his spouse); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_5__list_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_5__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a spouse of his child, brother or sister; and “associate”, in relation to a member of the Commission or a committee, means—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_5__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_5__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_5__list_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_5__list_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_5__list_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_5__list_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_5"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_5__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_5__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a person who is a nominee or an employee of the member;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_5__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_5__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a firm of which the member or any nominee of his is a partner;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_5__list_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_5__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a partner of the member;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_5__list_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_5__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a trustee of a trust under which the member or a member of his family is a beneficiary; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_5__list_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_15__subsec_5__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any corporation within the meaning of the Companies Act 1965 [Act 125], of which the member or any nominee of his or a member of the member’s family is a director or has a substantial shareholding in the corporation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_3__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_3__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A body corporate to be known as the “Competition Commission” is established."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission shall have perpetual succession and a common seal."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission may sue and be sued in its name."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_3__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_3__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_3__subsec_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to and for the purposes of this Act, the Commission may, upon such terms as the Commission deems fit—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_3__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_3__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "enter into contracts; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_3__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_3__subsec_4__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_3__subsec_4__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_3__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in respect of movable and immovable property and interest in movable and immovable property of every description–"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_3__subsec_4__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_3__subsec_4__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "acquire, purchase and take such property and interest; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_3__subsec_4__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_3__subsec_4__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "hold, enjoy, convey, assign, surrender, yield up, charge, mortgage, demise, reassign, transfer, or otherwise dispose of, or deal with, such property and any interest in the property vested in the Commission. Common seal"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_4__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_4__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_4__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_4__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The common seal of the Commission shall bear a device as approved by the Commission and the seal may from time to time be broken, changed, altered and made anew as the Commission thinks fit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Until a seal is provided by the Commission, a stamp bearing the words “Competition Commission” may be used and shall be deemed to be its common seal."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The common seal shall be kept in the custody of the Chairman or any other person authorized by the Commission, and shall be authenticated by either the Chairman or by such other person authorized by the Chairman in writing."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_4__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All deeds, documents and other instruments purporting to be sealed with the common seal and authenticated in accordance with subsection (3), shall, until the contrary is proved, be deemed to have been validly executed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_4__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any deed, document and other instrument which, if executed by a person not being a body corporate, is not required to be under seal may in like manner be executed by a member of the Commission or any other person authorized by the Commission on behalf of the Commission."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_4__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The common seal of the Commission shall be officially and judicially noticed. Constitution of the Commission"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_5__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_5__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_5__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_5__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission shall consist of the following members who shall be appointed by the Prime Minister upon the recommendation of the Minister:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_5__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a Chairman;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_5__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "four members representing the Government, one of whom shall be a representative of the Ministry for the time being responsible for matters concerning domestic trade and consumer affairs; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_5__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "not less than three but not more than five other members, who have experience and knowledge in matters relating to business, industry, commerce, law, economics, public administration, competition, consumer protection or any other suitable qualification as the Minister may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The appointment of the members of the Commission shall be published in the Gazette. Application of Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_6__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Schedule applies to members of the Commission."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may amend the Schedule by order published in the Gazette. Statutory declaration by members of the Commission"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_7__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No person shall be appointed as a member of the Commission unless before such appointment the person makes a statutory declaration as to whether he has any interest, financial or otherwise, in any commercial undertaking or trade."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If a member of the Commission acquires any interest, financial or otherwise, in any commercial undertaking or trade, he shall, within one month after such acquisition, give notice in writing to the Minister specifying the interest acquired. Approval to hold other office"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_8__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chairman shall not, while holding such office, hold any other office or employment, whether remunerated or not, without the Minister’s prior written approval."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No person shall be appointed or shall remain as a member of the Commission who holds full-time office in any public listed company without the Minister’s prior written approval. Tenure of office"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_9__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Commission shall hold office for a term not exceeding three years."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Commission shall be eligible for reappointment but no member shall hold office for more than two consecutive terms. Remuneration and allowances"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_26"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PROVISIONS RELATING TO EMPLOYEES OF THE COMMISSION Chief Executive Officer"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_20__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_20__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_20__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_20__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_20__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_20__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_20__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall appoint a Chief Executive Officer on such terms and conditions as he thinks desirable."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_20__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chief Executive Officer shall be responsible for the overall administration and management of the functions, activities and day-to-day affairs of the Commission."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_20__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chief Executive Officer shall have general control of the employees of the Commission."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_20__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chief Executive Officer shall perform such other duties as the Commission may, from time to time, direct."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_20__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In discharging his duties, the Chief Executive Officer shall act under the general authority and direction of the Commission."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_20__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chief Executive Officer shall be an employee of the Commission. Temporary exercise of the functions of Chief Executive Officer"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_21__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_21__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_21__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_21__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_21__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_21__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may appoint temporarily any employee of the Commission to act as the Chief Executive Officer for the period when—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_21__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the office of the Chief Executive Officer is vacant;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_21__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chief Executive Officer is absent from duty or from Malaysia; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_21__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chief Executive Officer is, for any other reason, unable to perform his functions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_21__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In the event that the office of the Chief Executive Officer is vacant for more than six months, the Minister shall appoint another person to be the Chief Executive Officer, and upon such appointment, the previous Chief Executive Officer shall cease to hold office. Appointment of employees of the Commission"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_22__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_22__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_22__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission may, from time to time, appoint and employ such number of employees as it thinks necessary and upon such terms as it considers appropriate for carrying out the purposes of the competition laws."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_22__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission may, with the approval of the Minister, determine the conditions of service of its employees. Loans, scholarships and advances"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission may grant loans, scholarships and advances to its employees for such purposes and on such terms as the Commission may determine. Payment of retirement benefits, etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission may make arrangements for the payment to its employees and their dependants of such retirement benefits, pensions, gratuities and other allowances as the Commission may determine. Commission may adopt regulations, etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission may adopt, with such modifications as it deems fit, any regulations, rules, policies, circulars and directives enacted or issued by the Federal Government in relation to any matter under this Part. Protection of officers and other persons"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No action, suit, prosecution or proceedings shall be instituted in any court against the Commission, a Commission officer or any other person acting on behalf of the Commission or a Commission officer in respect of any act ordered to be done or done by him in such capacity provided that he at the time had carried out his functions in good faith."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Competition Commission Act 2010."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Interpretation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "“member” means the Chairman and any member of the Commission appointed under section 5; “committee” means a committee established by the Commission under section 14; “Chief Executive Officer” means the Chief Executive Officer of the Commission appointed under section 20; “Fund” means the Competition Commission Fund established under section 27; “Minister” means the Minister for the time being charged with the responsibility for matters concerning domestic trade and consumer affairs; “Commission officer” means a person appointed or authorized by the Chief Executive Officer in writing under the competition laws for the purpose of carrying out investigation of any offence or infringement of the competition laws; “employee” means any person employed by the Commission under section 22 and includes the Chief Executive Officer; “Chairman” means the Chairman of the Commission appointed under section 5; “Commission” means the Competition Commission established under section 3; “competition laws” means this Act and the Competition Act 2010 and includes any subsidiary legislation made under these laws."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_37"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "FINANCE Fund"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_44",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_45",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_46",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_47"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "GENERAL Appointment and power of Commission officers"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_38__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_38__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_38__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_38__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_38__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission may appoint such number of Commission officers as it considers necessary to exercise the powers provided under the competition laws."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_38__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For purposes of an investigation under the competition laws, the Commission may appoint its employee or any other person to be a Commission officer."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_38__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A Commission officer who is not an employee of the Commission shall be subject to obligations of secrecy under section 43, and shall enjoy protection and indemnity as may be specified in this Act or other written law applicable to an employee of the Commission, as the case may be."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_38__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A Commission officer shall have all the powers necessary to carry out inspection and investigation of any offence or infringement under the competition laws. Interworking with other authorities"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may direct the Commission regarding interworking arrangements between the Commission and any other authority in Malaysia or in a foreign jurisdiction or any international organisation and determine the arrangements for such interworking or membership of international organisations. Institution of prosecution"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No prosecution shall be instituted for any offence under the competition laws without the consent in writing of the Public Prosecutor. Public servant"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All members of the Commission and of any committee, and employees, Commission officers, agents and consultants of the Commission, while discharging their duties under this Act as such members, employees, Commission officers, agents or consultants, shall be deemed to be public servants within the meaning of the Penal Code [Act 574]. Public Authorities Protection Act 1948"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Public Authorities Protection Act 1948 [Act 198] shall apply to any action, suit, prosecution or proceedings against the Commission or against any member of the Commission, any member of a committee, and employees or agents of the Commission in respect of any act, neglect or default done or committed by him in good faith or any omission by him in good faith, in such capacity. Obligation of secrecy"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_43__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_43__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_43__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_43__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_43__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Except for any of the purposes of this Act or for the purposes of any civil or criminal proceedings under any written law or where otherwise authorized by the Commission—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_43__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_43__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "no member of the Commission or any of its committees or any employee or agent of the Commission or any person attending any meeting of the Commission or any of its committees, whether during or after his tenure of office or employment, shall disclose any information obtained by him in the course of his duties and which is not published in pursuance of the competition laws; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_43__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_43__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "no other person who has by any means access to any information or documents relating to the affairs of the Commission shall disclose such information or document."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_43__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding five years or to both. Representation in civil proceedings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_44__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_44__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_44__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Notwithstanding any other written law—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_44__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_44",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in any civil proceedings by or against the Commission;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_44__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_44",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in any civil proceedings against any employee or Commission officer in relation to the performance of his functions under the competition laws; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_44__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_44",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in any other civil proceedings in which the Commission is required or permitted by the court to be represented, or to be heard, or is otherwise entitled to be represented or to be heard, any person authorized by the Commission for that purpose may, on behalf of the Commission, or the employee or Commission officer, institute such proceedings or appear in such proceedings and may make all appearances and applications and do all acts in respect of the proceedings on behalf of the Commission. Power to employ"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_45",
+      "@type": "akn:clause",
+      "eli:number": "45",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission may employ and pay agents and technical advisers, including advocates and solicitors, bankers, consultants and other persons, to transact any business or to do any act required to be transacted or done in the performance of its functions, or the exercise of its powers or for the better carrying into effect the purposes of this Act. Things done in anticipation of the enactment of this Act"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_46",
+      "@type": "akn:clause",
+      "eli:number": "46",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All things done by any person or authority on behalf of the Commission in the preparation of and towards the proper implementation or administration of this Act, and any expenditure incurred in relation thereto, in anticipation of the enactment of this Act shall be deemed to have been authorized by this Act, and all rights acquired or obligations incurred on behalf of the Commission from anything so done shall upon the coming into operation of this Act be deemed to be the rights and obligations of the Commission. Method of publication"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_47",
+      "@type": "akn:clause",
+      "eli:number": "47",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_47__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_47__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_47__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_47",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the Commission is given power to publish, or is required to publish, a direction, guidance, withdrawal, clearance, nomination or other decision or document under the competition laws, such publication may be by electronic means in such manner as is likely to make it reasonably accessible to any person wishing to view it, and publication of a document by that method shall be effective for all purposes under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_47__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_VI__cl_47",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of this section, “electronic” means the technology of utilizing electrical, optical, magnetic, electromagnetic, biometric, photonic or other technology as may be determined by the Commission."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_27__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_27__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_27__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A fund to be known as the “Competition Commission Fund” is established and shall be administered and controlled by the Commission."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_27__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_27__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_27__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_27__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_27__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_27__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_27__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_27__subsec_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_27__subsec_2__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_27__subsec_2__para_i"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Fund shall consist of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_27__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "such sums as may be provided by Parliament for the purposes of this Act from time to time;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_27__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all or any part of the fees, administrative charges or other charges imposed by or payable to the Commission under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_27__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all moneys derived as income from investments by the Commission;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_27__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all moneys received by the Commission by way of grants;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_27__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all moneys derived from the sale, disposal, lease or hire, or any other dealing with, any property, mortgages, charges or debentures vested in or acquired by the Commission;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_27__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all other moneys and property which may in any manner become payable to or vested in the Commission in respect of any matter incidental to its functions and powers;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_27__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any costs paid to, or recovered by, the Commission in any action or proceedings, civil or criminal;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_27__subsec_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "sums borrowed by the Commission under section 32; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_27__subsec_2__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all moneys lawfully received by the Commission, including interest. Expenditure to be charged on the Fund"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_28__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_28__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_28__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_28__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_28__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_28__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_28__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Fund shall be expended for the following purposes:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_28__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "paying any expenditure lawfully incurred by the Commission;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_28__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "paying for the remuneration, allowances and other expenses of the members of the Commission, members of the committees and employees of the Commission;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_28__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "paying any other expenses, costs or expenditure in relation to the procurement of goods and services, including the engagement of consultants, legal fees and costs and other fees and costs, properly incurred or accepted by the Commission in the performance of its functions and exercise of its powers under the competition laws;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_28__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "purchasing or hiring equipment, machinery and any other materials, acquiring land and any assets, and erecting buildings, and carrying out any other works and undertakings in the performance of its functions and exercise of its powers under the competition laws;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_28__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "repaying moneys borrowed and the interest due thereon;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_28__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "granting of loans, scholarships, advances, retirement benefits, pensions, gratuities and other benefits; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_28__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "generally, paying any expenses for carrying into effect the provisions of the competition laws. Conservation of the Fund"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "It shall be the duty of the Commission to conserve the Fund by so performing its functions and exercising its powers under this Act to secure that the total revenue of the Commission is sufficient to meet all sums properly chargeable to its revenue account, including depreciation and interest on capital, taking one year with another. Expenditure and preparation of estimates"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_30__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_30__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_30__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_30__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_30__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The expenditure of the Commission up to such amount as may be authorized by the Minister for any one year shall be defrayed out of the Fund."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_30__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Before 1 September of each year, the Commission shall submit to the Minister an estimate of its expenditure (including the expenditure for research and development programmes) for the following year in such form and containing such particulars as the Minister may direct."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_30__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall, before 1 January of the following year, notify the Commission of the amount authorized for expenditure generally or of the amount authorized for each description of expenditure based on the estimate prepared under subsection (2)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_30__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission may, at any time, submit to the Minister a supplementary estimate of its expenditure for any one year and the Minister may allow the whole or any part of the additional expenditure included in the supplementary estimate. Bank accounts"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission shall open and maintain an account or accounts with such bank or banks in Malaysia as the Commission thinks fit, after consulting the Minister; and every such account shall be operated as far as practicable by cheques signed by any person or persons as may be authorized by the Commission for such purpose from time to time. Power to borrow"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission may, from time to time, borrow in such form and at such rate of interest and for such period and upon such terms as to the time and method of repayment and otherwise, as may be approved by the Minister, with the concurrence of the Minister of Finance, any money required by the Commission for meeting any of its obligations or discharging any of its duties. Investment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The moneys of the Commission shall, in so far as they are not immediately required to be expended by the Commission under this Act, be invested in such manner as the Minister may, with the concurrence of the Minister of Finance, approve. Limitation on contracts"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission shall not, without the approval of the Minister and the concurrence of the Minister of Finance, enter into any contract under which the Commission is to pay or receive an amount exceeding ten million ringgit. Financial procedure"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to this Act and the approval of the Minister, the Commission shall determine its own financial procedure. Financial year"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The financial year of the Commission shall begin on 1 January and end on 31 December of each year. Annual report"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V__cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Statutory Bodies (Accounts and Annual Reports) Act 1980 [Act 240] shall apply to the Commission."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_9"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Section 6] Times and places of meetings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_1__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission is to hold as many meetings as necessary for the efficient performance of its functions and such meetings are to be held at such places and times as the Chairman may decide, provided that the Chairman shall not allow more than three months to lapse between meetings."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "At least fourteen days’ notice in writing shall be given to the members."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chairman shall preside at a meeting of the Commission. Quorum"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chairman and at least half of the other members of the Commission shall form a quorum at any meeting of the Commission. Casting vote"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_3__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every member of the Commission present shall be entitled to one vote."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If on any question to be determined by the Commission there is an equality of votes, the Chairman shall have a casting vote in addition to his deliberative vote. Commission may invite others to meetings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_4",
+      "@type": "akn:paragraph",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_4__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission may invite any person to attend any meeting or deliberation of the Commission for the purpose of advising it on any matter under discussion, but any person so attending shall have no right to vote at the meeting or deliberation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person invited under subparagraph (1) shall be paid such allowances as may be determined by the Commission. Resolutions without meetings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_5",
+      "@type": "akn:paragraph",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_5__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_5__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_5__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A resolution is taken to have been passed at a meeting of the Commission if—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_5__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all members of the Commission have been informed of the proposed resolution, or reasonable efforts have been made to inform all members of the Commission of the proposed resolution; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_5__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "without meeting, a majority of the members of the Commission indicate agreement with the resolution in accordance with the method determined by the Commission under subparagraph (2)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_5__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_5__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subparagraph (1) applies only if the Commission—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_5__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "decides that it applies; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_5__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "decides the method by which members of the Commission are to indicate agreement with resolutions. Minutes"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_6",
+      "@type": "akn:paragraph",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_6__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_6__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_6__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission shall cause—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_6__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "proper minutes of all its meetings to be maintained and kept; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_6__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "copies of the minutes of all its meetings to be sub mitted to the Commission as soon as practicable."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The minutes of meetings of the Commission, if duly signed, shall, in any legal proceedings, be admissible as prima facie evidence of the facts stated therein without further proof."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every meeting of the Commission of which minutes have been made in accordance with subparagraphs (1) and (2) shall be deemed to have been duly convened and held and all members thereat to have been duly qualified to act. Procedure"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_7",
+      "@type": "akn:paragraph",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission may regulate its own procedure. Validity of acts and proceedings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_8",
+      "@type": "akn:paragraph",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_8__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_8__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No act done or proceeding taken under this Act shall be questioned on the ground of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any vacancy in the membership of, or any defect in the constitution of, the Commission;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a contravention by any member of the Commission under section 15 of the Act; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_8__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any omission, defect or irregularity not affecting the merits of the case. Members to devote time to business of Commission"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1__para_9",
+      "@type": "akn:paragraph",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/6/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The members of the Commission shall devote such time to the business of the Commission as is necessary to discharge their duties effectively."
+      }
+    }
+  ]
+}

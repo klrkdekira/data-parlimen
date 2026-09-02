@@ -113,7 +113,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/13/msa@/~cl_10",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas subseksyen (4) subseksyen yang berikut: \"(5) Walau apa pun apa-apa jua dalam mana-mana undang-undang bertulis yang masih berkuat kuasa, mahkamah yang di hadapannya seseorang itu dipertuduh atas suatu kesalahan di bawah seksyen ini hendaklah memerintahkan penarikan balik segera lesen memandu orang itu dan hendaklah memerintahkan penggantungan lesen itu bermula dari tarikh pertuduhan itu dibacakan pertama kalinya kepada orang itu dan penggantungan itu hendaklah mula berkuat kuasa— (a) sehingga mahkamah membuat keputusan muktamad terhadap pertuduhan itu; dan (b) seolah-olah penggantungan itu penggantungan yang disebut dalam seksyen 32.\". Pindaan seksyen 45"
+        "@value": "dengan memasukkan selepas subseksyen (4) subseksyen yang berikut: \"(5) Walau apa pun apa-apa jua dalam mana-mana undang-undang bertulis yang masih berkuat kuasa, mahkamah yang di hadapannya seseorang itu dipertuduh atas suatu kesalahan di bawah seksyen ini hendaklah memerintahkan penarikan balik segera lesen memandu orang itu dan hendaklah memerintahkan penggantungan lesen itu bermula dari tarikh pertuduhan itu dibacakan pertama kalinya kepada orang itu dan penggantungan itu hendaklah mula berkuat kuasa— (a) sehingga mahkamah membuat keputusan muktamad terhadap pertuduhan itu; dan (b) seolah-olah penggantungan penggantungan yang disebut dalam seksyen 32.\". Pindaan seksyen 45"
       }
     },
     {
@@ -336,10 +336,34 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/13/msa@/~cl_19__para_b",
       "@type": "akn:paragraph",
       "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/13/msa@/~cl_19__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/13/msa@/~cl_19__para_b__subpara_ii"
+      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/13/msa@/~cl_19",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (3)— (i) dengan memasukkan selepas perkataan \"Dato Bandar\" perkataan \", Perbadanan Putrajaya\"; dan (ii) dengan memasukkan selepas perkataan \"Lembaga Lebuhraya Malaysia\" perkataan \"atau syarikat konsesi yang diberi kuasa sewajarnya secara bertulis oleh Ketua Pengarah Lembaga Lebuhraya Malaysia\";"
+        "@value": "dalam subseksyen (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/13/msa@/~cl_19__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/13/msa@/~cl_19__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"Dato Bandar\" perkataan \", Perbadanan Putrajaya\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/13/msa@/~cl_19__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/13/msa@/~cl_19__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"Lembaga Lebuhraya Malaysia\" perkataan \"atau syarikat konsesi yang diberi kuasa sewajarnya secara bertulis oleh Ketua Pengarah Lembaga Lebuhraya Malaysia\";"
       }
     },
     {
@@ -517,7 +541,7 @@
       "eli:number": "22",
       "hasPart": [
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/13/msa@/~cl_22__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/13/msa@/~cl_22__subsec_3B"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/13/msa@/~cl_22__para_b"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/13/msa@",
       "schema:name": {
@@ -532,25 +556,14 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/13/msa@/~cl_22",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: \"(3A) Jika pemegang lesen ialah pemilik berdaftar kenderaan motor yang digunakan oleh mana-mana pekerja dalam pelakuan kesalahan di bawah seksyen 41, 42, 43, 44, 45 atau 45A dan tiga atau lebih kesalahan di bawah seksyen itu atau apa-apa gabungan seksyen itu telah dilakukan dalam tempoh tiga tahun dalam penjalanan pekerjaannya, sama ada dilakukan oleh pekerja yang sama atau sebaliknya dan sama ada melibatkan kenderaan motor yang sama atau sebaliknya, pemegang lesen itu adalah melakukan kesalahan dan, apabila disabitkan, boleh didenda tidak kurang daripada lima puluh ribu ringgit dan tidak lebih daripada satu ratus lima puluh ribu ringgit."
+        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: \"(3A) Jika pemegang lesen ialah pemilik berdaftar kenderaan motor yang digunakan oleh mana-mana pekerja dalam pelakuan kesalahan di bawah seksyen 41, 42, 43, 44, 45 atau 45A dan tiga atau lebih kesalahan di bawah seksyen itu atau apa-apa gabungan seksyen itu telah dilakukan dalam tempoh tiga tahun dalam penjalanan pekerjaannya, sama ada dilakukan oleh pekerja yang sama atau sebaliknya dan sama ada melibatkan kenderaan motor yang sama atau sebaliknya, pemegang lesen itu adalah melakukan kesalahan dan, apabila disabitkan, boleh didenda tidak kurang daripada lima puluh ribu ringgit dan tidak lebih daripada satu ratus lima puluh ribu ringgit. (3B) Jika kesalahan kali kedua atau kali kemudian di bawah subseksyen (3A) dilakukan dalam tempoh tiga tahun daripada sabitan di bawah subseksyen (3A), pemegang lesen itu boleh didenda tidak kurang daripada satu ratus ribu ringgit dan tidak lebih daripada lima ratus ribu ringgit.\"; dan"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/13/msa@/~cl_22__subsec_3B",
-      "@type": "akn:subsection",
-      "eli:number": "3B",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/13/msa@/~cl_22__subsec_3B__para_b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/13/msa@/~cl_22",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Jika kesalahan kali kedua atau kali kemudian di bawah subseksyen (3A) dilakukan dalam tempoh tiga tahun daripada sabitan di bawah subseksyen (3A), pemegang lesen itu boleh didenda tidak kurang daripada satu ratus ribu ringgit dan tidak lebih daripada lima ratus ribu ringgit.\"; dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/13/msa@/~cl_22__subsec_3B__para_b",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/13/msa@/~cl_22__para_b",
       "@type": "akn:paragraph",
       "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/13/msa@/~cl_22__subsec_3B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/13/msa@/~cl_22",
       "schema:text": {
         "@language": "ms",
         "@value": "dengan memasukkan selepas subseksyen (4) subseksyen yang berikut: \"(5) Bagi maksud seksyen ini, \"pemegang lesen\" ertinya orang yang dilesenkan di bawah perenggan (a), (b), (c), (d), (e), (f) atau (g) subseksyen (1) seksyen 14 atau subseksyen (2) seksyen 14 Akta Lembaga Pelesenan Kenderaan Perdagangan 1987.\". Pindaan seksyen 113"
@@ -653,7 +666,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/13/msa@/~cl_2",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan takrif \"Ketua Pegawai Polis\" dengan takrif yang berikut: ' \"Ketua Pegawai Polis\" ertinya mana-mana pegawai polis yang diberi kuasa oleh Ketua Polis Negara untuk mengawal Polis DiRaja Malaysia berkenaan dengan mana-mana kawasan Akta 344. atau negeri di bawah seksyen 6 Akta Polis 1967 dan dinamakan sedemikian oleh Ketua Polis Negara;';"
+        "@value": "dengan menggantikan takrif \"Ketua Pegawai Polis\" dengan takrif yang berikut: ' \"Ketua Pegawai Polis\" ertinya mana-mana pegawai polis yang diberi kuasa oleh Ketua Polis Negara untuk mengawal Polis DiRaja Malaysia berkenaan dengan mana-mana kawasan atau negeri di bawah seksyen 6 Akta Polis 1967 dan dinamakan sedemikian oleh Ketua Polis Negara;';"
       }
     },
     {

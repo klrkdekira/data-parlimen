@@ -58,7 +58,15 @@
 
 ## ADMINISTRATION OF ACT
 
-8. Registrar of Companies. 9. Lodging documents. 10. Approved auditors. 11. Company auditors. 12. Approved liquidator. 13. Registers.
+8. Registrar of Companies. 9. Lodging documents.
+
+10. Approved auditors.
+
+11. Company auditors.
+
+12. Approved liquidator.
+
+13. Registers.
 
 ## PART III
 
@@ -68,7 +76,15 @@
 
 ## INCORPORATION
 
-14. Formation of companies. 15. Registration and incorporation. 16. Application for registration of foreign company as being continued in Labuan. 17. Prior approval in principle. 18. Requirement as to memorandum.
+14. Formation of companies.
+
+15. Registration and incorporation.
+
+16. Application for registration of foreign company as being continued in Labuan.
+
+17. Prior approval in principle.
+
+18. Requirement as to memorandum.
 
 <!-- page 3 -->
 
@@ -150,19 +166,65 @@
 
 ## SHARES
 
-43. Return of allotment. 44. Calls. 45. Reserve liability. 46. Share premium account. 47. Power to issue shares and voting rights. 48. Dealing by an offshore company in its own shares, etc. 49. Cancellation of reacquired shares by an offshore company. 50. Issues of shares at a discount. 51. Alteration of share capital. 52. Validation of shares improperly issued, 53. Special resolution for reduction of share capital. 54. Rights of holders of preference shares to be set out in articles. 55. Redeemable preference shares.
+43. Return of allotment.
+
+44. Calls.
+
+45. Reserve liability.
+
+46. Share premium account.
+
+47. Power to issue shares and voting rights.
+
+48. Dealing by an offshore company in its own shares, etc.
+
+49. Cancellation of reacquired shares by an offshore company.
+
+50. Issues of shares at a discount.
+
+51. Alteration of share capital.
+
+52. Validation of shares improperly issued,
+
+53. Special resolution for reduction of share capital.
+
+54. Rights of holders of preference shares to be set out in articles.
+
+55. Redeemable preference shares.
 
 ## DIVISION 4
 
 ## DEBENTURES
 
-56. Interpretation. 57. Power to issue debentures. 58. Offshore company to maintain register of debentures holders. 59. Perpetual debentures. 60. Reissue of redeemed debentures. 61. Trustee for debentures holders. 62. Duties of trustee. 63. Obligations of directors of borrowing company. 64. Obligations of guarantor company to furnish information. 65. Loan and deposits to be immediately repayable on certain events.
+56. Interpretation.
+
+57. Power to issue debentures.
+
+58. Offshore company to maintain register of debentures holders.
+
+59. Perpetual debentures.
+
+60. Reissue of redeemed debentures.
+
+61. Trustee for debentures holders.
+
+62. Duties of trustee.
+
+63. Obligations of directors of borrowing company.
+
+64. Obligations of guarantor company to furnish information.
+
+65. Loan and deposits to be immediately repayable on certain events.
 
 ## DIVISIONS
 
 INTERESTS OTHER THAN SHARES, DEBENTURES, ere.
 
-66. Interpretation. 67. Approved deeds. . 68. Approval of deeds. 69. Interests to be issued by an offshore company or a foreign offshore company only.
+66. Interpretation.
+
+67. Approved deeds. . 68. Approval of deeds.
+
+69. Interests to be issued by an offshore company or a foreign offshore company only.
 
 <!-- page 5 -->
 
@@ -170,19 +232,43 @@ INTERESTS OTHER THAN SHARES, DEBENTURES, ere.
 
 ## BILL
 
-70. Statement to be issued. 71. No issue without approved deed. 72. Register of interest holders. 73. Penalty for contravention of Division, etc. 74. Winding up of schemes etc. 75. Liability of trustees.
+70. Statement to be issued.
+
+71. No issue without approved deed.
+
+72. Register of interest holders.
+
+73. Penalty for contravention of Division, etc.
+
+74. Winding up of schemes etc.
+
+75. Liability of trustees.
 
 ## DIVISION 6
 
 ## TITLE AND TRANSFERS
 
-76. Nature of shares. 77. Numbering of shares. 78. Certificate to be evidence of title. 79. An offshore company may have share seal. 80. Instruments of transfer, and transfer by personal representative. 81. Duties of offshore company with respect to issue of certificate.
+76. Nature of shares.
+
+77. Numbering of shares.
+
+78. Certificate to be evidence of title.
+
+79. An offshore company may have share seal.
+
+80. Instruments of transfer, and transfer by personal representative.
+
+81. Duties of offshore company with respect to issue of certificate.
 
 ## DIVISION 7
 
 ## REGISTER OF CHARGES
 
-82. Non application of Division. 83. Register of charges. 84. Notice of creation and satisfaction of charge.
+82. Non application of Division.
+
+83. Register of charges.
+
+84. Notice of creation and satisfaction of charge.
 
 ## PARTY
 
@@ -192,13 +278,17 @@ INTERESTS OTHER THAN SHARES, DEBENTURES, ere.
 
 ## OFFICE AND NAME
 
-85. Registered office of an offshore company. 86. Name to be displayed at all offices and to appear on seals, letters, etc.
+85. Registered office of an offshore company.
+
+86. Name to be displayed at all offices and to appear on seals, letters, etc.
 
 ## DIVISION 2
 
 ## DIRECTORS AND OFFICERS
 
-87. Directors. 88. Consent to act as director., 89. Validity of acts of directors. 90. Registrar's power to restrain persons from managing offshore companies. 91. Disclosure of interest in contracts, property, offices, etc. 92. Duty and liability of officers. 93. Secretary. 94. Register of directors and secretaries.
+87. Directors. 88. Consent to act as director., 89. Validity of acts of directors.
+
+90. Registrar's power to restrain persons from managing offshore companies. 91. Disclosure of interest in contracts, property, offices, etc. 92. Duty and liability of officers. 93. Secretary. 94. Register of directors and secretaries.
 
 <!-- page 6 -->
 
@@ -210,13 +300,29 @@ INTERESTS OTHER THAN SHARES, DEBENTURES, ere.
 
 ## MEETINGS AND PROCEEDINGS
 
-95. Meetings of members. 96. Notice of meetings of members. 97. Quorum, Chairman, voting, etc., at meetings. 98. Voting by members. 99. Action by consent of members in writing. 100. Power of Court to direct meetings to be called. 101. Special resolution. 102. Resolution requiring special notice. 103. Lodgement of copies of certain resolutions and agreements. 104. Minutes of proceedings.
+95. Meetings of members. 96. Notice of meetings of members. 97. Quorum, Chairman, voting, etc., at meetings. 98. Voting by members. 99. Action by consent of members in writing.
+
+100. Power of Court to direct meetings to be called.
+
+101. Special resolution.
+
+102. Resolution requiring special notice.
+
+103. Lodgement of copies of certain resolutions and agreements.
+
+104. Minutes of proceedings.
 
 ## DIVISION 4
 
 ## REGISTER OF MEMBERS
 
-105. Register of members. 106. Where register to be kept. 107. Consequences of default by agent. 108. Power of Court to rectify register.
+105. Register of members.
+
+106. Where register to be kept.
+
+107. Consequences of default by agent.
+
+108. Power of Court to rectify register.
 
 ## DIVISIONS
 
@@ -248,19 +354,77 @@ INTERESTS OTHER THAN SHARES, DEBENTURES, ere.
 
 ## ARRANGEMENTS AND RECONSTRUCTIONS
 
-118. Arrangements. 119. Regulations in respect of takeovers and mergers.
+118. Arrangements.
+
+119. Regulations in respect of takeovers and mergers.
 
 ## PART VIII
 
 ## FOREIGN OFFSHORE COMPANIES
 
-120. Application and interpretation. 121. Registration of foreign offshore companies. 122. Prohibition and restriction on foreign offshore company. 123. Registered office of foreign offshore companies. 124. Return to be lodged where documents, etc., altered. 125. Service on foreign offshore companies. 126. Cessation of business in Labuan. 127. Liquidation or dissolution of company in place of incorporation or origin. 128. Names of foreign offshore companies. 129. Returns by foreign offshore companies. 130. Application of this Part to certain foreign companies registered under Companies Act 1965.
+120. Application and interpretation.
+
+121. Registration of foreign offshore companies.
+
+122. Prohibition and restriction on foreign offshore company.
+
+123. Registered office of foreign offshore companies.
+
+124. Return to be lodged where documents, etc., altered.
+
+125. Service on foreign offshore companies.
+
+126. Cessation of business in Labuan.
+
+127. Liquidation or dissolution of company in place of incorporation or origin.
+
+128. Names of foreign offshore companies.
+
+129. Returns by foreign offshore companies.
+
+130. Application of this Part to certain foreign companies registered under Companies Act 1965.
 
 ## PART IX
 
 ## MISCELLANEOUS
 
-131. Receivership and winding up. 132. Service of documents on companies. 133. Transfer from Labuan. 134. Costs of proceedings before the Court. 135. Security for costs. 136. Disposal of sharesof shareholder whose whereabouts are unknown. 137. Power to grant relief. 138. Irregularities in proceedings. 139. Translation of instruments. 140. Dividends payable from profits only. 141. Use of word "Corporation", etc. 142. General penalty provisions. 143. Default Penalties. 144. Compounding of offences. 145. Procedure where none laid down. 146. Regulations. 147. Investment in domestic company. 148. Prohibition by Minister. 149. Secrecy.
+131. Receivership and winding up.
+
+132. Service of documents on companies.
+
+133. Transfer from Labuan.
+
+134. Costs of proceedings before the Court.
+
+135. Security for costs.
+
+136. Disposal of sharesof shareholder whose whereabouts are unknown.
+
+137. Power to grant relief.
+
+138. Irregularities in proceedings.
+
+139. Translation of instruments.
+
+140. Dividends payable from profits only.
+
+141. Use of word "Corporation", etc.
+
+142. General penalty provisions.
+
+143. Default Penalties.
+
+144. Compounding of offences.
+
+145. Procedure where none laid down.
+
+146. Regulations.
+
+147. Investment in domestic company.
+
+148. Prohibition by Minister.
+
+149. Secrecy.
 
 <!-- page 8 -->
 
@@ -328,7 +492,11 @@ may, by notification in the Gazette, appoint.
 
 "dollar" means a dollar unit of the currency of the United'States of America;
 
-"domestic company" means a company incorporated Act 125 . under the Companies Act 1965;
+"domestic company" means a company incorporated
+
+<!-- marginal: Act 125 . -->
+
+under the Companies Act 1965;
 
 "expert" includes engineer, valuer, accountant, auditor and any other person whose profession or reputation gives authority to a statement made by him;
 
@@ -444,7 +612,19 @@ pursuant to section 43 of the Exchange Control Act 1953;
 
 (4) Any provision of this Act overriding or interpreting a corporation's articles shall, except where otherwise provided by this Act, apply .in relation to articles in force at the commencement of this Act, as well as to articles coming into force thereafter, and shall apply also in relation to a corporation's memorandum as it applies in relation to its articles.
 
-3. (1) For the purposes of this Act, a corporation shall, Definition of subsidiary subject to the provisions of subsection (3), be deemed to be a and holding subsidiary of another corporation if— company.
+3. (1) For the purposes of this Act, a corporation shall,
+
+<!-- marginal: Definition -->
+
+<!-- marginal: of subsidiary -->
+
+subject to the provisions of subsection (3), be deemed to be a
+
+<!-- marginal: and holding -->
+
+subsidiary of another corporation if—
+
+<!-- marginal: company. -->
 
 (a) that other corporation—
 
@@ -496,7 +676,11 @@ paragraph (c)) shall be treated as not held or exercisable by that other corpora
 
 (4) A reference in this Act to the holding company of a corporation shall be read as a reference to a corporation of which the last-mentioned corporation is a subsidiary.
 
-Related 4. Where a corporation— companies.
+<!-- marginal: Related -->
+
+4. Where a corporation—
+
+<!-- marginal: companies. -->
 
 (a) is the holding company of another corporation;
 
@@ -506,11 +690,49 @@ Related 4. Where a corporation— companies.
 
 that first-mentioned corporation and that other corporation shall for the purposes of this Act be deemed to be related to each other.
 
-5. Except as otherwise expressly provided in this Act, the Non- application provisions of the Companies Act 1965 shall not apply to of Companies an offshore company or a foreign offshore company Act 1965. incorporated or registered under this Act.
+5. Except as otherwise expressly provided in this Act, the
 
-Prohibition 6. No resident, other than a trust company, may hold shares, on share- either individually or with another person, in an offshore holding in offshore company, but a trust company which is a domestic company company. may only hold such shares as trustee or nominee:
+<!-- marginal: Non- -->
 
-Provided that a company incorporated or registered under Act . the Companies Act 1965 may, where it is permitted by the Offshore Banking Act 1990 or the Offshore Insurance Act Act 1990 to establish a subsidiary in Labuan, hold shares in the subsidiary.
+<!-- marginal: application -->
+
+provisions of the Companies Act 1965 shall not apply to
+
+<!-- marginal: of Companies -->
+
+an offshore company or a foreign offshore company
+
+<!-- marginal: Act 1965. -->
+
+incorporated or registered under this Act.
+
+<!-- marginal: Prohibition -->
+
+6. No resident, other than a trust company, may hold shares,
+
+<!-- marginal: on share- -->
+
+either individually or with another person, in an offshore
+
+<!-- marginal: holding in -->
+
+<!-- marginal: offshore -->
+
+company, but a trust company which is a domestic company
+
+<!-- marginal: company. -->
+
+may only hold such shares as trustee or nominee:
+
+Provided that a company incorporated or registered under
+
+<!-- marginal: Act . -->
+
+the Companies Act 1965 may, where it is permitted by the Offshore Banking Act 1990 or the Offshore Insurance Act
+
+<!-- marginal: Act -->
+
+1990 to establish a subsidiary in Labuan, hold shares in the subsidiary.
 
 <!-- page 16 -->
 
@@ -552,11 +774,7 @@ from or through Labuan any business which may lawfully be carried on in Malaysia
 
 (a) it makes or maintains deposits with a person carrying on business within Malaysia;
 
-(b) it makes or maintains professional contact with any counsel and attorney, accountant, book-keeper, trust company, management company,
-
-<!-- marginal: investment -->
-
-adviser or other similar person carrying on business within Malaysia;
+(b) it makes or maintains professional contact with any counsel and attorney, accountant, book-keeper, trust company, management company, investment adviser or other similar person carrying on business within Malaysia;
 
 (c) it prepares or maintains books and records within Malaysia;
 
@@ -572,7 +790,17 @@ adviser or other similar person carrying on business within Malaysia;
 
 ## ADMINISTRATION OF ACT
 
-Registrar 8. (1) Subject to the general direction and control of the of Registrar and to such restrictions and limitations as may be Companies. prescribed, anything by this Act appointed or authorized or required to be done or signed by the Registrar may be done or signed by any Regional Registrar, Deputy Registrar or Assistant Registrar and shall be as valid and effectual as if done or signed by the Registrar.
+<!-- marginal: Registrar -->
+
+8. (1) Subject to the general direction and control of the
+
+<!-- marginal: of -->
+
+Registrar and to such restrictions and limitations as may be
+
+<!-- marginal: Companies. -->
+
+prescribed, anything by this Act appointed or authorized or required to be done or signed by the Registrar may be done or signed by any Regional Registrar, Deputy Registrar or Assistant Registrar and shall be as valid and effectual as if done or signed by the Registrar.
 
 (2) No person dealing with, any Regional Registrar, Deputy Registrar or Assistant Registrar shall be concerned to see or inquire whether any restrictions or limitations have been prescribed, and every act or omission of a Regional Registrar, Deputy or Assistant Registrar, so far as it affects any such person, shall be as valid and effectual as if done or omitted by the Registrar.
 
@@ -628,9 +856,13 @@ the Registrar may approve any person to be an approved auditor for the purposes 
 
 (5) An approved auditor shall pay to the Registrar such annual fee as may be prescribed.
 
-Company
+<!-- marginal: Company -->
 
-11. (1) A person shall not knowingly consent to be auditors. appointed, and shall not knowingly act, as auditor for any offshore company under this Act and shall not prepare for or ori behalf of the company any report required by this Act to be prepared by an approved auditor—
+11. (1) A person shall not knowingly consent to be
+
+<!-- marginal: auditors. -->
+
+appointed, and shall not knowingly act, as auditor for any offshore company under this Act and shall not prepare for or ori behalf of the company any report required by this Act to be prepared by an approved auditor—
 
 (a) if he is not an approved auditor;
 
@@ -836,9 +1068,33 @@ and articles of the proposed company and the other documents required to be lodg
 
 (7) Every subscriber to the memorandum shall be deemed to have agreed to become a member of an offshore company and, on the incorporation of the company, shall be entered as a member in its register of members in respect of the shares subscribed for or by him in the memorandum, and every other person who agrees to be a member of a company and whose name is entered into the register of members shall be a member of the company.
 
-Application
+<!-- marginal: Application -->
 
-16. (1) Subject to section 7, a foreign company incor- for porated under the laws of any country other than Malaysia, or registration of foreign of any jurisdiction within such a country, may, if it is so company as authorized by the laws of that country or jurisdiction, apply to being continued the Registrar to be registered as being continued in Labuan as in Labuan, if it had been incorporated under this Act.
+16. (1) Subject to section 7, a foreign company incor-
+
+<!-- marginal: for -->
+
+porated under the laws of any country other than Malaysia, or
+
+<!-- marginal: registration -->
+
+<!-- marginal: of foreign -->
+
+of any jurisdiction within such a country, may, if it is so
+
+<!-- marginal: company as -->
+
+authorized by the laws of that country or jurisdiction, apply to
+
+<!-- marginal: being -->
+
+<!-- marginal: continued -->
+
+the Registrar to be registered as being continued in Labuan as
+
+<!-- marginal: in Labuan, -->
+
+if it had been incorporated under this Act.
 
 <!-- page 26 -->
 
@@ -878,15 +1134,33 @@ Provided that no foreign company may be registered under this section if—
 
 and such deemed memorandum and articles shall be binding on the company and its members accordingly.
 
-Prior
+<!-- marginal: Prior -->
 
-17. (1) A foreign company may, prior to applying for approval registration under section 16, request that such registration be in principle. approved in principle and upon such request and payment of the prescribed fee, the Registrar may, if he is satisfied that the company is eligible for registration under section 16, issue a certificate confirming his approval of the company being so registered subject to an application under section 16 being made within a period of twelve months from the date of the certificate.
+17. (1) A foreign company may, prior to applying for
+
+<!-- marginal: approval -->
+
+registration under section 16, request that such registration be
+
+<!-- marginal: in -->
+
+<!-- marginal: principle. -->
+
+approved in principle and upon such request and payment of the prescribed fee, the Registrar may, if he is satisfied that the company is eligible for registration under section 16, issue a certificate confirming his approval of the company being so registered subject to an application under section 16 being made within a period of twelve months from the date of the certificate.
 
 (2) The certificate of approval given by the Registrar under subsection (1) shall not relieve the foreign company to whom it is issued from complying with the provisions of section 16 on a subsequent application for registration.
 
-Requirements
+<!-- marginal: Requirements -->
 
-18. (1) The memorandum of every offshore company shall as to be printed and divided into numbered paragraphs and dated memorandum. and shall state the following:
+18. (1) The memorandum of every offshore company shall
+
+<!-- marginal: as to -->
+
+be printed and divided into numbered paragraphs and dated
+
+<!-- marginal: memorandum. -->
+
+and shall state the following:
 
 (a) the name of the company;
 
@@ -944,9 +1218,17 @@ expressly excluded or modified by its articles, the powers set forth in the Sche
 
 (a) is being or is to be performed or made pursuant to any contract to which the offshore company is a party, the Court may, if all the parties to the contract are parties to the proceedings and if the Court deems it to be just and equitable, set aside and restrain the performance of the contract and may allow to the company or to the other parties to the contract, as the case requires, compensation for the loss or damage sustained by either of them which may result from the setting aside and restraining of the performance of the contract, but anticipated profits to be derived from the performance of the contract shall not be awarded by the Court as a loss or damage sustained.
 
-Names of
+<!-- marginal: Names of -->
 
-21. (1) Except with the consent of the Minister, an offshore offshore company shall not be registered by a name that, in the opinion companies. of the Registrar, is undesirable or is a name, or includes a name, of a kind that the Registrar is not otherwise willing to accept for registration.
+21. (1) Except with the consent of the Minister, an offshore
+
+<!-- marginal: offshore -->
+
+company shall not be registered by a name that, in the opinion
+
+<!-- marginal: companies. -->
+
+of the Registrar, is undesirable or is a name, or includes a name, of a kind that the Registrar is not otherwise willing to accept for registration.
 
 (2) An offshore company shall have the word "(L)" as part of its name and shall also have—
 
@@ -1008,7 +1290,13 @@ Penalty: One thousand ringgit
 
 (4) A change of name pursuant to this Act shall not affect the identity of the offshore company or any rights or obliga- tions of the company or render defective any proceedings by or against the company; and any legal proceedings that might have been continued or commenced by or against the company by its former name may be continued or com- menced by or against the company by its new name.
 
-23. (1) There shall be lodged with the memorandum of Articles of association. an offshore company articles of association signed by the subscribers to the memorandum prescribing regulations for the company.
+23. (1) There shall be lodged with the memorandum of
+
+<!-- marginal: Articles of -->
+
+<!-- marginal: association. -->
+
+an offshore company articles of association signed by the subscribers to the memorandum prescribing regulations for the company.
 
 (2) Articles shall be—-
 
@@ -1018,7 +1306,15 @@ Penalty: One thousand ringgit
 
 (c) signed by each subscriber to the memorandum or, if any subscriber is a company, sealed with its company seal or signed on its behalf.
 
-Alteration of 24. (1) Subject to this Act, an offshore company may, by memorandum special resolution, alter or add to its memorandum or articles. or articles.
+<!-- marginal: Alteration of -->
+
+24. (1) Subject to this Act, an offshore company may, by
+
+<!-- marginal: memorandum -->
+
+special resolution, alter or add to its memorandum or articles.
+
+<!-- marginal: or articles. -->
 
 (2) Any alteration or addition so made in the memorandum or articles shall take effect from the date the notice of the relevant resolution is lodged with the Registrar and be as valid as if originally contained therein and be subject in like manner to alteration by special resolution.
 
@@ -1170,7 +1466,13 @@ otherwise than in accordance with this Part.
 
 and the number of persons to whom the invitation or offer is communicated does not exceed twenty.
 
-29. (1) Any offshore company or foreign offshore company Invitation to public. which, or any officer, director, agent or any other person on behalf of the company who—
+29. (1) Any offshore company or foreign offshore company
+
+<!-- marginal: Invitation -->
+
+<!-- marginal: to public. -->
+
+which, or any officer, director, agent or any other person on behalf of the company who—
 
 (a) issues an invitation or distributes forms of application to the public or to any member of the public to subscribe for shares or debentures in the company; or
 
@@ -1360,7 +1662,23 @@ offer or intended offer of, shares in or debentures of an offshore company or a 
 
 Penalty: Ten thousand ringgit.
 
-Retention 34. (1) An offshore company shall not accept or retain ofover- subscriptions to a debenture issue in excess of the amount of subcriptions in debenture the issue as disclosed in the prospectus unless the company issues. has specified in the prospectus—
+<!-- marginal: Retention -->
+
+34. (1) An offshore company shall not accept or retain
+
+<!-- marginal: ofover- -->
+
+subscriptions to a debenture issue in excess of the amount of
+
+<!-- marginal: subcriptions -->
+
+<!-- marginal: in debenture -->
+
+the issue as disclosed in the prospectus unless the company
+
+<!-- marginal: issues. -->
+
+has specified in the prospectus—
 
 (a) that it expressly reserves the right to accept or retain over-subscriptions; and
 
@@ -1372,7 +1690,17 @@ Retention 34. (1) An offshore company shall not accept or retain ofover- subscri
 
 (b) the prospectus shall contain a statement or reference as to what the total assets and total liabilities of the company would be if over-subscriptions to the limit specified in the prospectus were accepted or retained.
 
-Registration 35. (1) A prospectus shall not be issued, circulated or of distributed by any person unless a copy thereof has first been prospectus. registered by the Registrar.
+<!-- marginal: Registration -->
+
+35. (1) A prospectus shall not be issued, circulated or
+
+<!-- marginal: of -->
+
+distributed by any person unless a copy thereof has first been
+
+<!-- marginal: prospectus. -->
+
+registered by the Registrar.
 
 <!-- page 40 -->
 
@@ -1540,9 +1868,19 @@ extract from a report or valuation of an expert, it fairly represented the state
 
 the directors of the company except any without whose knowledge or consent the prospectus was issued, and any other person who authorized or caused the issue of the prospectus, shall be liable to indemnify the person so named or whose consent was so required against all damages, costs and expenses to which he may be made liable by reason of his name having been inserted in the prospectus or of the inclusion therein of a statement purporting to be made by him as an expert, or in defending himself against any action or legal proceeding brought against him in respect thereof.
 
-Criminal
+<!-- marginal: Criminal -->
 
-39. (1) Where in any prospectus, or in any advertisement of liability for the kind referred to in section 33 (1), there is an untrue misstatement in prospectus. statement or wilful non-disclosure, any person who autho- rized or caused the issue of the prospectus or advertisement shall be guilty of an offence against this Act unless he proves that the statement or non-disclosure was immaterial or that he had reasonable ground for believing and did, up to the time of the issue of the prospectus, believe that the state- ment was true or that the non-disclosure was immaterial.
+39. (1) Where in any prospectus, or in any advertisement of
+
+<!-- marginal: liability for -->
+
+the kind referred to in section 33 (1), there is an untrue
+
+<!-- marginal: misstatement -->
+
+<!-- marginal: in prospectus. -->
+
+statement or wilful non-disclosure, any person who autho- rized or caused the issue of the prospectus or advertisement shall be guilty of an offence against this Act unless he proves that the statement or non-disclosure was immaterial or that he had reasonable ground for believing and did, up to the time of the issue of the prospectus, believe that the state- ment was true or that the non-disclosure was immaterial.
 
 Penalty: Imprisonment for five years or thirty thousand ringgit or both.
 
@@ -1582,9 +1920,23 @@ been offered to the public through a trust company.
 
 <!-- page 47 -->
 
-41. (1) No allotment shall be made of any shares of an Prohibition of allotment offshore company offered to the public unless— unless minimum
+41. (1) No allotment shall be made of any shares of an
 
-(a) the minimum subscription has been subscribed; and subscription received.
+<!-- marginal: Prohibition -->
+
+<!-- marginal: of allotment -->
+
+offshore company offered to the public unless—
+
+<!-- marginal: unless -->
+
+<!-- marginal: minimum -->
+
+(a) the minimum subscription has been subscribed; and
+
+<!-- marginal: subscription -->
+
+<!-- marginal: received. -->
 
 (b) the sum payable on application for the shares so subscribed has been received by the company,
 
@@ -1604,9 +1956,27 @@ but if a cheque for the sum payable has been received by the company, the sum sh
 
 Penalty: Imprisonment for three years or ten thousand ringgit or both.
 
-Application
+<!-- marginal: Application -->
 
-42. (1) Subject to section 40 (3) and (4) and section 41 (1), moneys to all application and other moneys paid prior to allotment by any be held intrust applicant on account of shares or debentures offered to the until public by an offshore company shall, until the allotment of allotment. such shares or debentures, be held upon trust for the applicant and such moneys shall be paid into and kept in a separate trust account, pending allotment, at a commercial bank approved by the Registrar in writing.
+42. (1) Subject to section 40 (3) and (4) and section 41 (1),
+
+<!-- marginal: moneys to -->
+
+all application and other moneys paid prior to allotment by any
+
+<!-- marginal: be held -->
+
+<!-- marginal: intrust -->
+
+applicant on account of shares or debentures offered to the
+
+<!-- marginal: until -->
+
+public by an offshore company shall, until the allotment of
+
+<!-- marginal: allotment. -->
+
+such shares or debentures, be held upon trust for the applicant and such moneys shall be paid into and kept in a separate trust account, pending allotment, at a commercial bank approved by the Registrar in writing.
 
 <!-- page 48 -->
 
@@ -1660,11 +2030,25 @@ Penalty: One thousand ringgit. Default penalty.
 
 ## BILL
 
-Reserve 45. An offshore company may, by special resolution, liability. determine that any portion of its uncalled share capital shall not be capable of being called up except in the event of the company being wound up, but no such resolution shall prejudice the rights acquired by any person before the passing of the resolution.
+<!-- marginal: Reserve -->
 
-Share
+45. An offshore company may, by special resolution,
 
-46. (1) Where an offshore company which is not licensed premium pursuant to the provisions of the Offshore Banking Act 1990 account. issues shares at a premium, whether for cash or otherwise, a sum equal to the aggregate amount or value of the premiums on those shares shall be transferred to an account to be called the "share premium account", and the provisions of this Act relating to the reduction of the share capital of an offshore company shall, except as provided in this section, apply as if the share premium account were paid up share capital of the company.
+<!-- marginal: liability. -->
+
+determine that any portion of its uncalled share capital shall not be capable of being called up except in the event of the company being wound up, but no such resolution shall prejudice the rights acquired by any person before the passing of the resolution.
+
+<!-- marginal: Share -->
+
+46. (1) Where an offshore company which is not licensed
+
+<!-- marginal: premium -->
+
+pursuant to the provisions of the Offshore Banking Act 1990
+
+<!-- marginal: account. -->
+
+issues shares at a premium, whether for cash or otherwise, a sum equal to the aggregate amount or value of the premiums on those shares shall be transferred to an account to be called the "share premium account", and the provisions of this Act relating to the reduction of the share capital of an offshore company shall, except as provided in this section, apply as if the share premium account were paid up share capital of the company.
 
 (2) Where assets are acquired by the issue of shares of an offshore company and no consideration is recorded, the assets so acquired shall be valued, and if the value of the assets is more than the par value of such shares, the difference between the par value of the shares and the value of the assets so acquired shall be transferred to the share premium account.
 
@@ -1794,9 +2178,17 @@ shares redeemed or purchased, and in such event a statement of cancellation shal
 
 <!-- page 53 -->
 
-Alteration
+<!-- marginal: Alteration -->
 
-51. (1) An offshore company may, by special resolution, of share alter the conditions of its memorandum and articles in any one capital. or more of the following ways:
+51. (1) An offshore company may, by special resolution,
+
+<!-- marginal: of share -->
+
+alter the conditions of its memorandum and articles in any one
+
+<!-- marginal: capital. -->
+
+or more of the following ways:
 
 (a) increasing its share capital by the creation of new shares of such amount as it thinks expedient;
 
@@ -1868,7 +2260,7 @@ and may, so far as necessary, alter its memorandum by reducing the amount of its
 
 <!-- page 55 -->
 
-54
+<!-- marginal: 54 -->
 
 ## BILL
 
@@ -1926,7 +2318,27 @@ shall be guilty of an offence against this Act.
 
 Penalty: Imprisonment for three years or ten thousand ringgit or both.
 
-Rights of 54. (1) No offshore company shall allot a preference share, holders of or convert an issued share into a preference share, unless there preference shares to is set out in its articles the rights of the holder of such a share be set out with respect to the repayment of capital, participation in in articles. surplus assets and profits, cumulative or non-cumulative dividends, voting and priority of payment of capital and dividend in relation to other shares or other classes of preference shares.
+<!-- marginal: Rights of -->
+
+54. (1) No offshore company shall allot a preference share,
+
+<!-- marginal: holders of -->
+
+or convert an issued share into a preference share, unless there
+
+<!-- marginal: preference -->
+
+<!-- marginal: shares to -->
+
+is set out in its articles the rights of the holder of such a share
+
+<!-- marginal: be set out -->
+
+with respect to the repayment of capital, participation in
+
+<!-- marginal: in articles. -->
+
+surplus assets and profits, cumulative or non-cumulative dividends, voting and priority of payment of capital and dividend in relation to other shares or other classes of preference shares.
 
 <!-- page 58 -->
 
@@ -1970,7 +2382,7 @@ preference shares which are, or at the option of the company are to be, liable t
 
 ## DEBENTURES
 
-Interpretation.
+<!-- marginal: Interpretation. -->
 
 56. In this Division, unless the context otherwise requires—
 
@@ -2052,9 +2464,13 @@ Penalty: One thousand ringgit. Default penalty.
 
 (7) Every offshore company which has issued debentures shall, until every such debenture has been redeemed and cancelled, lodge with the Registrar, at least once in every calendar year, a return of debentures setting out the prescribed particulars.
 
-Perpetual
+<!-- marginal: Perpetual -->
 
-59. A condition contained in a debenture, or in a deed for debentures. securing a debenture, shall not be invalid by reason only that the debenture is thereby made irredeemable or redeemable only on the happening of a contingency, however remote, or on the expiration of a period, however long, any rule of law or equity to the contrary notwithstanding.
+59. A condition contained in a debenture, or in a deed for
+
+<!-- marginal: debentures. -->
+
+securing a debenture, shall not be invalid by reason only that the debenture is thereby made irredeemable or redeemable only on the happening of a contingency, however remote, or on the expiration of a period, however long, any rule of law or equity to the contrary notwithstanding.
 
 <!-- page 62 -->
 
@@ -2106,9 +2522,13 @@ make provision in those debentures, or in a trust deed relating to those debentu
 
 (4) No person, other than a trust company, shall act as trustee for the holders of debentures.
 
-Duties of
+<!-- marginal: Duties of -->
 
-62. (1) A trust company when acting as trustee for the trustee. holders of debentures—
+62. (1) A trust company when acting as trustee for the
+
+<!-- marginal: trustee. -->
+
+holders of debentures—
 
 (a) shall exercise reasonable diligence to ascertain whether or not the assets of the borrowing company and each of its guarantor companies, which are or may be available by way of securities or otherwise, are sufficient, or are likely to be or become sufficient, to discharge the principal debt as and when it be- - comes due;
 
@@ -2228,13 +2648,53 @@ in fact advanced, but where any such advances are merged in a current account wi
 
 <!-- page 69 -->
 
-Obligation 64. (1) For the purpose of the preparation of a report which, of guarantor by this Act, is required to be signed by or on behalf of the company to furnish directors of aborrowing company or any of them, that company information. may, by notice in writing, require any of its guarantor companies to furnish it with any information relating to that guarantor company which, by this Act, is required to be contained in that report, and that guarantor company shall furnish the borrowing company with that information before such date, being a date not later than fourteen days after the notice is given, as may be specified in that behalf in the notice.
+<!-- marginal: Obligation -->
 
-(2) A guarantor company which fails to comply with the requirement contained in a notice given pursuant to subsection (1) and every officer of that company who is in default shall be guilty of an offence against this Act.
+64. (1) For the purpose of the preparation of a report which,
+
+<!-- marginal: of guarantor -->
+
+by this Act, is required to be signed by or on behalf of the
+
+<!-- marginal: company to -->
+
+<!-- marginal: furnish -->
+
+directors of aborrowing company or any of them, that company
+
+<!-- marginal: information. -->
+
+may, by notice in writing, require any of its guarantor companies to furnish it with any information relating to that guarantor company which, by this Act, is required to be contained in that report, and that guarantor company shall furnish the borrowing company with that information before such date, being a date not later than fourteen days after the notice is given, as may be specified in that behalf in the notice.
+
+(2) A guarantor company which fails to comply with the requirement contained in a notice given pursuant to subsection
+
+(1) and every officer of that company who is in default shall be guilty of an offence against this Act.
 
 Penalty: Ten thousand ringgit. Default penalty.
 
-Loan and 65. (1) Where in any prospectus issued in connection with deposits an invitation to the public to subscribe for or to purchase to be immediately debentures of an offshore company there is a statement as to repayable any particular purpose or project for which the moneys re- on certain events. ceived by the company in response to the invitation are to be applied, the company shall from time to time make reports to the trust company acting as trustee for the holders of debentures of the company as to the progress that has been made towards achieving such purpose or completing such project.
+<!-- marginal: Loan and -->
+
+65. (1) Where in any prospectus issued in connection with
+
+<!-- marginal: deposits -->
+
+an invitation to the public to subscribe for or to purchase
+
+<!-- marginal: to be -->
+
+<!-- marginal: immediately -->
+
+debentures of an offshore company there is a statement as to
+
+<!-- marginal: repayable -->
+
+any particular purpose or project for which the moneys re-
+
+<!-- marginal: on certain -->
+
+<!-- marginal: events. -->
+
+ceived by the company in response to the invitation are to be applied, the company shall from time to time make reports to the trust company acting as trustee for the holders of debentures of the company as to the progress that has been made towards achieving such purpose or completing such project.
 
 (2) Each such report shall be included in the report required to be furnished to the trust company under section 63 (1).
 
@@ -2290,7 +2750,13 @@ whether or not the right or interest is evidenced by a formal document, and whet
 
 "management company", in relation to any interests issued or any deed that relates to any interests issued or proposed to be issued , means a company by or on behalf of which the interests have been or are proposed to be issued, and includes any person for the time being exercising the functions of the management company.
 
-67. For the purposes of this Division, a deed shall be an Approval deeds. approved deed if—
+67. For the purposes of this Division, a deed shall be an
+
+<!-- marginal: Approval -->
+
+<!-- marginal: deeds. -->
+
+approved deed if—
 
 (a) the Registrar has granted his approval to the deed under this Division; and
 
@@ -2374,9 +2840,19 @@ to the public shall, with such adaptations as are necessary, apply and have effe
 
 (2) A person shall not, in any deed, prospectus, statement, advertisement or other document relating to any interest, make any reference to an approval of a deed or of a trustee or representative granted under this Division.
 
-Register
+<!-- marginal: Register -->
 
-72. (1) The management company shall, in respect of each of deed with which the company is concerned, keep a register of interest holders. the holders of interests under the deed and enter therein—
+72. (1) The management company shall, in respect of each
+
+<!-- marginal: of -->
+
+deed with which the company is concerned, keep a register of
+
+<!-- marginal: interest -->
+
+<!-- marginal: holders. -->
+
+the holders of interests under the deed and enter therein—
 
 (a) the names and addresses of the holders;
 
@@ -2388,11 +2864,17 @@ Register
 
 (2) Division 4 of Part V shall, so far as is applicable and with such adaptations as are necessary, apply to and in relation to the register.
 
-Penalty for
+<!-- marginal: Penalty for -->
 
-73. (1) A person shall not— contravention of Division,
+73. (1) A person shall not—
 
-(a) contravene or fail to comply with this Division; or etc.
+<!-- marginal: contravention -->
+
+<!-- marginal: of Division, -->
+
+(a) contravene or fail to comply with this Division; or
+
+<!-- marginal: etc. -->
 
 (b) fail to comply with a convenant contained, or deemed to be contained, in any deed that is or at any time has been an approved deed.
 
@@ -2532,9 +3014,29 @@ holder any person to whom the right to any shares in, or debenture of, the compa
 
 (4) In this section "instrument of transfer" includes a written application for transmission of a share, debenture or other interest to a personal representative.
 
-Duties of
+<!-- marginal: Duties of -->
 
-81. (1) Every offshore company shall, within two months offshore after the allotment of any of its shares or debentures, and company with within one month after the date on which a transfer (other than respect to such a transfer as the company is, for any reason, entitled to issue of certificate. refuse to register and does not register) of any of its shares or debentures is lodged with the company, complete and have ready for delivery all the appropriate certificates and debentures in connection with the allotment or transfer, unless the conditions of issue of the shares or debentures otherwise provide.
+81. (1) Every offshore company shall, within two months
+
+<!-- marginal: offshore -->
+
+after the allotment of any of its shares or debentures, and
+
+<!-- marginal: company -->
+
+<!-- marginal: with -->
+
+within one month after the date on which a transfer (other than
+
+<!-- marginal: respect to -->
+
+such a transfer as the company is, for any reason, entitled to
+
+<!-- marginal: issue of -->
+
+<!-- marginal: certificate. -->
+
+refuse to register and does not register) of any of its shares or debentures is lodged with the company, complete and have ready for delivery all the appropriate certificates and debentures in connection with the allotment or transfer, unless the conditions of issue of the shares or debentures otherwise provide.
 
 (2) If default is made in complying with this section, the offshore company and every officer of the company who is in default shall be guilty of an offence against this Act.
 
@@ -2578,7 +3080,9 @@ Penalty: Ten thousand ringgit.
 
 (4) The register of charges and the copies of instruments kept in pursuance of this section shall be open to inspection by any creditor or member of the company at all reasonable times without charge.
 
-(5) If default is made in complying with subsection (3) or (4), the offshore company or foreign offshore company and every officer of the company who is in default shall be guilty of an offence against this Act.
+(5) If default is made in complying with subsection (3) or
+
+(4), the offshore company or foreign offshore company and every officer of the company who is in default shall be guilty of an offence against this Act.
 
 Penalty; Two thousand ringgit. Default penalty.
 
@@ -2618,9 +3122,19 @@ Penalty: Two thousand ringgit. Default penalty.
 
 ## OFFICE AND NAME
 
-Registered
+<!-- marginal: Registered -->
 
-85. (1) Every offshore company shall at all times have a office of registered office in Labuan, which office shall be the principal an offshore company. office of a trust company.
+85. (1) Every offshore company shall at all times have a
+
+<!-- marginal: office of -->
+
+registered office in Labuan, which office shall be the principal
+
+<!-- marginal: an offshore -->
+
+<!-- marginal: company. -->
+
+office of a trust company.
 
 (2) Notice of the situation of an offshore company's registered office shall be given in the prescribed form to the Registrar within fourteen days after the date of the com- pany's incorporation.
 
@@ -2632,9 +3146,33 @@ Registered
 
 Penalty: One thousand ringgit. Default penalty.
 
-Name to be
+<!-- marginal: Name to be -->
 
-86. (1) Every offshore company or foreign offshore company displayed shall paint or affix, and keep painted or affixed, its name in a at all offices conspicuous position, in romanised letters easily legible, on and to appear on the outside of every office or place in which its business is seals, carried on. letters, etc. Penalty: One thousand ringgit. Default penalty.
+86. (1) Every offshore company or foreign offshore company
+
+<!-- marginal: displayed -->
+
+shall paint or affix, and keep painted or affixed, its name in a
+
+<!-- marginal: at all -->
+
+<!-- marginal: offices -->
+
+conspicuous position, in romanised letters easily legible, on
+
+<!-- marginal: and to -->
+
+<!-- marginal: appear on -->
+
+the outside of every office or place in which its business is
+
+<!-- marginal: seals, -->
+
+carried on.
+
+<!-- marginal: letters, etc. -->
+
+Penalty: One thousand ringgit. Default penalty.
 
 <!-- page 80 -->
 
@@ -2672,7 +3210,9 @@ Penalty: One thousand ringgit. Default penalty.
 
 ## DIRECTORS AND OFFICERS
 
-Directors. 87. (1) Every offshore company shall have at least one director who may be a resident director. . (2) No person, other than an officer of a trust company made available for the appointment by the trust company, shall act or be appointed as a resident director of an offshore company.
+<!-- marginal: Directors. -->
+
+87. (1) Every offshore company shall have at least one director who may be a resident director. . (2) No person, other than an officer of a trust company made available for the appointment by the trust company, shall act or be appointed as a resident director of an offshore company.
 
 (3) Any casual vacancy in directors may, so far as the articles of an offshore company do not otherwise provide, be filled by a person appointed by the continuing director or directors or, if there is no continuing director, by the Registrar on application made by a member of the company.
 
@@ -2708,15 +3248,43 @@ a prospectus unless, before the registration of the articles or the issue of the
 
 <!-- page 83 -->
 
-Validity
+<!-- marginal: Validity -->
 
-89. The acts of a director of an offshore company shall be of acts of valid notwithstanding any defect that may be discovered in directors. his appointment or qualification.
+89. The acts of a director of an offshore company shall be
 
-Registrar's
+<!-- marginal: of acts of -->
 
-90. (1) The Registrar may issue a direction that a person power to who, in Labuan or elsewhere— restrain persons from
+valid notwithstanding any defect that may be discovered in
 
-(a) has been convicted of an offence in connection with managing the promotion, formation or management of a offshore companies. corporation;
+<!-- marginal: directors. -->
+
+his appointment or qualification.
+
+<!-- marginal: Registrar's -->
+
+90. (1) The Registrar may issue a direction that a person
+
+<!-- marginal: power to -->
+
+who, in Labuan or elsewhere—
+
+<!-- marginal: restrain -->
+
+<!-- marginal: persons -->
+
+<!-- marginal: from -->
+
+(a) has been convicted of an offence in connection with
+
+<!-- marginal: managing -->
+
+the promotion, formation or management of a
+
+<!-- marginal: offshore -->
+
+<!-- marginal: companies. -->
+
+corporation;
 
 (b) has been convicted of any act involving fraud or dishonesty; or
 
@@ -2728,13 +3296,23 @@ be disqualified from acting as a director or promoter of, or being in any way di
 
 Penalty: Imprisonment for three years or ten thousand ringgit or both.
 
-### Disclosure
+<!-- marginal: Disclosure -->
 
-91. (1) Subject to this section, every director of an offshore of interest company who is in any way, whether directly or indirectly,
+91. (1) Subject to this section, every director of an offshore
 
-### in contracts,
+<!-- marginal: of interest -->
 
-property, interested in a contract or proposed contract with the company offices, etc. shall, as soon as practicable after the relevant facts have come to his knowledge, declare the nature of his interest at a meeting of the directors of the company or cause to be circulated in writing to all the other directors particulars of his interest.
+company who is in any way, whether directly or indirectly,
+
+<!-- marginal: in contracts, -->
+
+<!-- marginal: property, -->
+
+interested in a contract or proposed contract with the company
+
+<!-- marginal: offices, etc. -->
+
+shall, as soon as practicable after the relevant facts have come to his knowledge, declare the nature of his interest at a meeting of the directors of the company or cause to be circulated in writing to all the other directors particulars of his interest.
 
 (2) Subsection (1) shall not apply in a case where the interest of the director of an offshore company consists only in him being a member or creditor of another offshore company which is interested in a contract orproposed contract with the first-mentioned company, if that interest may properly be regarded as not being a material interest.
 
@@ -2764,7 +3342,9 @@ Provided that this subsection shall not apply to a resident director unless the 
 
 ## BILL
 
-(7) The declaration required of a director under subsection (6) shall be made at the first meeting of the directors held—
+(7) The declaration required of a director under subsection
+
+(6) shall be made at the first meeting of the directors held—
 
 (a) after he becomes a director; or
 
@@ -2778,7 +3358,19 @@ unless the fact has already been circulated in writing before that meeting.
 
 Provided that this subsection does not apply to a resident director unless the articles of the company otherwise provide.
 
-92. (1) Every officer of an offshore company shall at all Duty and liability times act honestly and use reasonable diligence in the of discharge of the duties of his office. officers.
+92. (1) Every officer of an offshore company shall at all
+
+<!-- marginal: Duty and -->
+
+<!-- marginal: liability -->
+
+times act honestly and use reasonable diligence in the
+
+<!-- marginal: of -->
+
+discharge of the duties of his office.
+
+<!-- marginal: officers. -->
 
 (2) An officer of an offshore company shall not make improper use of any information acquired by reason of his office to gain, whether directly or indirectly, an advantage for himself or any other person or to cause "detriment to the company.
 
@@ -2890,9 +3482,17 @@ faj if two or more persons hold shares jointly, each of them may be present in p
 
 (c) if two or more of them are present in person or by proxy, they shall vote as one.
 
-Notice of
+<!-- marginal: Notice of -->
 
-96. (1) Subject to any requirement in the memorandum or meetings articles to give longer notice, the directors shall give not less of members. than seven days notice of meetings of members to those. persons whose names on the date the notice is given appear as members in the register of members referred to in section 105 and who are entitled to vote at the meeting.
+96. (1) Subject to any requirement in the memorandum or
+
+<!-- marginal: meetings -->
+
+articles to give longer notice, the directors shall give not less
+
+<!-- marginal: of members. -->
+
+than seven days notice of meetings of members to those. persons whose names on the date the notice is given appear as members in the register of members referred to in section 105 and who are entitled to vote at the meeting.
 
 (2) Notwithstanding subsection (1), but subject to any limitations in the memorandum or articles, a meeting of members held in contravention of the requirement to give notice is valid if members holding a ninety per cent majority, or such lesser majority as may be specified in the memorandum or articles, of—
 
@@ -2904,9 +3504,23 @@ have waived notice of the meeting; and for this purpose, the presence of a membe
 
 (3) The inadvertent failure of the directors to give notice of a meeting to a member, or the fact that a member has not received the notice, shall not invalidate the meeting.
 
-Quorum,
+<!-- marginal: Quorum, -->
 
-97. (1) Except as otherwise provided in the articles of an Chairman, voting, offshore company, where an offshore company has more than etc., at one member, and two or more members are present at a meetings. meeting of members, the members present shall be a quorum, and at the meeting—
+97. (1) Except as otherwise provided in the articles of an
+
+<!-- marginal: Chairman, -->
+
+<!-- marginal: voting, -->
+
+offshore company, where an offshore company has more than
+
+<!-- marginal: etc., at -->
+
+one member, and two or more members are present at a
+
+<!-- marginal: meetings. -->
+
+meeting of members, the members present shall be a quorum, and at the meeting—
 
 (a) any member elected by those members may be chairman thereof; and
 
@@ -2944,13 +3558,55 @@ the corporation shall, for the purposes of subsection (1), be deemed to be perso
 
 and a minute is signed by a representative of the holding company authorized pursuant to subsection (3) or signed by the sole member stating that any act, matter or thing, or any ordinary or special resolution, required by this Act or by the memorandum or articles of the subsidiary to be made, performed, or passed by or at an annual general meeting or an extraordinary general meeting of the subsidiary or the off- shore company has been made, performed, or passed, that act, matter, thing or resolution shall, for all purposes, be deemed to have been duly made, performed, or passed by or at an annual general meeting, or as the case requires, by or at an extraordinary general meeting of the subsidiary.
 
-Voting 98. (1) Except as otherwise provided in the memorandum or by articles of an offshore company, all shares vote as one class members. and each share has one vote.
+<!-- marginal: Voting -->
+
+98. (1) Except as otherwise provided in the memorandum or
+
+<!-- marginal: by -->
+
+articles of an offshore company, all shares vote as one class
+
+<!-- marginal: members. -->
+
+and each share has one vote.
 
 (2) The directors of an offshore company may fix the date notice is given of a meeting as the record date for determining the shares that are entitled to vote at the meeting.
 
-99. Subject to any limitations in the memorandum or articles Action by consent of an offshore company, an action that may be taken by of members in writing. members at a meeting of members may also be taken by a resolution of all members consented to in writing, or by telex, telegram, telefax, cable or other written electronic communication, without the need for any notice.
+99. Subject to any limitations in the memorandum or articles
 
-Power of 100. (1) If for any reason it is impracticable to call a Court to meeting in any manner in which meetings may be called or to direct meetings conduct the meeting in the manner prescribed by the articles to be or this Act, the Court may, either of its own motion or on the called. application of any director or of any member who would be entitled to vote at the meeting or of the personal representative of any such member, order a meeting to be called, held and conducted in such manner as the Court thinks fit, and the Court may give such ancillary or consequential directions as it thinks expedient.
+<!-- marginal: Action by -->
+
+<!-- marginal: consent -->
+
+of an offshore company, an action that may be taken by
+
+<!-- marginal: of members -->
+
+<!-- marginal: in writing. -->
+
+members at a meeting of members may also be taken by a resolution of all members consented to in writing, or by telex, telegram, telefax, cable or other written electronic communication, without the need for any notice.
+
+<!-- marginal: Power of -->
+
+100. (1) If for any reason it is impracticable to call a
+
+<!-- marginal: Court to -->
+
+meeting in any manner in which meetings may be called or to
+
+<!-- marginal: direct -->
+
+<!-- marginal: meetings -->
+
+conduct the meeting in the manner prescribed by the articles
+
+<!-- marginal: to be -->
+
+or this Act, the Court may, either of its own motion or on the
+
+<!-- marginal: called. -->
+
+application of any director or of any member who would be entitled to vote at the meeting or of the personal representative of any such member, order a meeting to be called, held and conducted in such manner as the Court thinks fit, and the Court may give such ancillary or consequential directions as it thinks expedient.
 
 (2) Any meeting called, held and conducted in accordance with any direction made pursuant to this section shall, for all purposes, be deemed to be a meeting duly called, held and conducted.
 
@@ -3020,9 +3676,7 @@ with the Registrar.
 
 Penalty: One thousand ringgit. Default penalty.
 
-(6) If an offshore company fails to comply with subsection
-
-(2) or (3), the company and every officer of the company who is in default shall be guilty of an offence against this Act.
+(6) If an offshore company fails to comply with subsection (2) or (3), the company and every officer of the company who is in default shall be guilty of an offence against this Act.
 
 Penalty: Twenty-five ringgit for each copy in respect of which default is made.
 
@@ -3070,17 +3724,47 @@ Penalty: Two thousand ringgit. Default penalty. ,
 
 <!-- page 95 -->
 
-106. (1) Unless the Registrar otherwise directs, the register Where register of members of an offshore company shall be kept at the to be kept. registered office of the company and shall be open for the inspection of any member without charge.
+106. (1) Unless the Registrar otherwise directs, the register
+
+<!-- marginal: Where -->
+
+<!-- marginal: register -->
+
+of members of an offshore company shall be kept at the
+
+<!-- marginal: to be -->
+
+<!-- marginal: kept. -->
+
+registered office of the company and shall be open for the inspection of any member without charge.
 
 (2) Every offshore company shall, within two days after the register is first kept at a place other than the registered office of the company, lodge with the Registrar notice of the place where the register is kept and shall, within fourteen days after any change in the place at which the register is kept, lodge with the Registrar notice of the change.
 
-Consequences
+<!-- marginal: Consequences -->
 
-107. Where the register of members is kept at some place of default other than the registered office of an offshore company by agent. and, by reason of any default of the person in charge of such office, the company fails to comply with section 106 or with any other requirements of this Act as to the production of the register, that person shall be liable to the same penalties as if he were an officer of the company who was in default.
+107. Where the register of members is kept at some place
 
-108. (1) If, in relation to an offshore company— Power of Court to rectify
+<!-- marginal: of default -->
 
-(a) the name of any person is, without sufficient cause, register. entered in or omitted from the register; or
+other than the registered office of an offshore company
+
+<!-- marginal: by agent. -->
+
+and, by reason of any default of the person in charge of such office, the company fails to comply with section 106 or with any other requirements of this Act as to the production of the register, that person shall be liable to the same penalties as if he were an officer of the company who was in default.
+
+108. (1) If, in relation to an offshore company—
+
+<!-- marginal: Power of -->
+
+<!-- marginal: Court to -->
+
+<!-- marginal: rectify -->
+
+(a) the name of any person is, without sufficient cause,
+
+<!-- marginal: register. -->
+
+entered in or omitted from the register; or
 
 (b) default is made or unnecessary delay takes place in entering in the register the fact of any person having ceased to be a member,
 
@@ -3146,7 +3830,13 @@ Penalty: Two thousand ringgit. Default penalty.
 
 ## ACCOUNTS
 
-110. (1) An offshore company shall cause to be kept proper Accounts to be kept. accounting and other records as will sufficiently explain the transaction and financial position of the company.
+110. (1) An offshore company shall cause to be kept proper
+
+<!-- marginal: Accounts -->
+
+<!-- marginal: to be kept. -->
+
+accounting and other records as will sufficiently explain the transaction and financial position of the company.
 
 (2) Every company and the directors thereof shall cause appropriate entries to be made in the accounting and other records of the company within sixty days of the completion of the transactions to which they relate.
 
@@ -3216,9 +3906,17 @@ to be the auditor or auditors of the company.
 
 (2) An offshore company shall, whenever it appoints an auditor, lodge with the Registrar, within thirty days of the appointment, a notice thereof in the prescribed form accompanied by the auditor's written consent.
 
-Removal and
+<!-- marginal: Removal and -->
 
-114. (1) An off shore company may, at a meeting of members resignation of which special notice has been given to the auditor and the of auditors. Registrar, but not otherwise, remove an auditor from office, but shall, at that meeting at which the auditor is removed or at a meeting of members held within one month thereafter, appoint an approved auditor to take the place of the auditor so removed.
+114. (1) An off shore company may, at a meeting of members
+
+<!-- marginal: resignation -->
+
+of which special notice has been given to the auditor and the
+
+<!-- marginal: of auditors. -->
+
+Registrar, but not otherwise, remove an auditor from office, but shall, at that meeting at which the auditor is removed or at a meeting of members held within one month thereafter, appoint an approved auditor to take the place of the auditor so removed.
 
 (2) An auditor of an offshore company may, if he is not a sole auditor, resign at any time but a sole auditor of an offshore company may only resign at a meeting of members.
 
@@ -3226,17 +3924,35 @@ Removal and
 
 (4) An offshore company shall, within thirty days of any change in the auditor of the company, lodge with the Registrar a notice thereof in the prescribed form and such notice shall be accompanied by the new auditor's consent.
 
-Remuneration
+<!-- marginal: Remuneration -->
 
-115. The fees and expenses of an auditor of an offshore of auditor. company, unless required by the auditor to be fixed by a resolution of the members of the company, may be fixed by the directors.
+115. The fees and expenses of an auditor of an offshore
 
-Auditor may
+<!-- marginal: of auditor. -->
 
-116. An auditor of an offshore company may attend and attend address all meetings of members of the company. meetings.
+company, unless required by the auditor to be fixed by a resolution of the members of the company, may be fixed by the directors.
 
-Rights and
+<!-- marginal: Auditor may -->
 
-117. (1) Every auditor of an offshore company shall report to duties of the members whether, in his opinion, the accounts of the auditors. company are properly drawn up so as to give a true and fair view of the company's affairs.
+116. An auditor of an offshore company may attend and
+
+<!-- marginal: attend -->
+
+address all meetings of members of the company.
+
+<!-- marginal: meetings. -->
+
+<!-- marginal: Rights and -->
+
+117. (1) Every auditor of an offshore company shall report to
+
+<!-- marginal: duties of -->
+
+the members whether, in his opinion, the accounts of the
+
+<!-- marginal: auditors. -->
+
+company are properly drawn up so as to give a true and fair view of the company's affairs.
 
 <!-- page 100 -->
 
@@ -3348,7 +4064,19 @@ and control of takeover and merger transactions.
 
 (b) conducts unsolicited isolated transactions that are completed within a period of thirty one days, not being one of a number of similar transactions repeated more than twice.
 
-Registration 121. (1) A foreign company shall not have a place of of foreign business in Labuan or carry on business in Labuan unless offshore companies. it is registered as a foreign offshore company under this Part, and a foreign company which acts, and every officer thereof who permits the foreign company to act, in contravention of this subsection shall be guilty of an offence against this Act.
+<!-- marginal: Registration -->
+
+121. (1) A foreign company shall not have a place of
+
+<!-- marginal: of foreign -->
+
+business in Labuan or carry on business in Labuan unless
+
+<!-- marginal: offshore -->
+
+<!-- marginal: companies. -->
+
+it is registered as a foreign offshore company under this Part, and a foreign company which acts, and every officer thereof who permits the foreign company to act, in contravention of this subsection shall be guilty of an offence against this Act.
 
 (2) Every foreign company shall, prior to establishing a place of business, or carrying on business, in Labuan, lodge with the Registrar for registration—
 
@@ -3398,9 +4126,21 @@ to carry on.
 
 (2) The Minister may, by notice published in the Gazette, order that any foreign offshore company be restricted from carrying on any specified business in Labuan and may, by notice published in the Gazette, impose conditions subject to which any specified business may be carried on by a foreign offshore company in Labuan.
 
-Registered
+<!-- marginal: Registered -->
 
-123. (1) Every foreign offshore company shall at all times office of have a registered office in Labuan, which office shall be the foreign offshore principal office of a trust company. companies.
+123. (1) Every foreign offshore company shall at all times
+
+<!-- marginal: office of -->
+
+have a registered office in Labuan, which office shall be the
+
+<!-- marginal: foreign -->
+
+<!-- marginal: offshore -->
+
+principal office of a trust company.
+
+<!-- marginal: companies. -->
 
 (2) Notice in the prescribed form of the situation of the registered office and any change thereof shall be lodged with the Registrar within one month after the date of registration of the foreign offshore company or the date of the change, as the case may be.
 
@@ -3408,11 +4148,19 @@ Registered
 
 Penalty : One thousand ringgit. Default penalty.
 
-Return to be
+<!-- marginal: Return to be -->
 
-124. (1) Where any change or alteration is made in— lodged where documents,
+124. (1) Where any change or alteration is made in—
 
-(a) the charter, statute, memorandum or articles of a etc., altered. foreign offshore company, or other instrument relating to the company, lodged with the Registrar;
+<!-- marginal: lodged where -->
+
+<!-- marginal: documents, -->
+
+(a) the charter, statute, memorandum or articles of a
+
+<!-- marginal: etc., altered. -->
+
+foreign offshore company, or other instrument relating to the company, lodged with the Registrar;
 
 (b) the directors of a foreign offshore company or in the name or address of any director;
 
@@ -3460,11 +4208,37 @@ addressed to the foreign offshore company and left at or sent by post to its reg
 
 the document may be served oh the company by leaving it at, or sending it by post to, any place of business established by the company in Labuan, or, if no such place of business has been established, the document may be served on the company by registered post to any place of business of the company in the country of its incorporation.
 
-Cessation 126. If a foreign offshore company ceases to have a place of of business business or to carry on business in Labuan it shall, within in Labuan. seven days after it so ceases, lodge with the Registrar notice of that fact, and as from the day on which the notice is so lodged, its obligation to lodge any document (not being a document that ought to have been lodged before that day) with the Registrar shall cease, and the Registrar shall forthwith remove the name of the foreign offshore company from the register.
+<!-- marginal: Cessation -->
 
-Liquidation 127. (1) If a foreign offshore company goes into liquidation or dissolution or is dissolved in its place of incorporation or origin— of company in place of incorporation
+126. If a foreign offshore company ceases to have a place of
 
-(a) the trust company shall, within one month after the or origin. commencement of the liquidation or dissolution or within such further time as the Registrar in special circumstances allows, lodge or cause to be lodged with the Registrar notice of that fact and, when a liquidator is appointed, a notice of such appointment;
+<!-- marginal: of business -->
+
+business or to carry on business in Labuan it shall, within
+
+<!-- marginal: in Labuan. -->
+
+seven days after it so ceases, lodge with the Registrar notice of that fact, and as from the day on which the notice is so lodged, its obligation to lodge any document (not being a document that ought to have been lodged before that day) with the Registrar shall cease, and the Registrar shall forthwith remove the name of the foreign offshore company from the register.
+
+<!-- marginal: Liquidation -->
+
+127. (1) If a foreign offshore company goes into liquidation
+
+<!-- marginal: or dissolution -->
+
+or is dissolved in its place of incorporation or origin—
+
+<!-- marginal: of company -->
+
+<!-- marginal: in place of -->
+
+<!-- marginal: incorporation -->
+
+(a) the trust company shall, within one month after the
+
+<!-- marginal: or origin. -->
+
+commencement of the liquidation or dissolution or within such further time as the Registrar in special circumstances allows, lodge or cause to be lodged with the Registrar notice of that fact and, when a liquidator is appointed, a notice of such appointment;
 
 (b) the Registrar shall, after receipt of the notice, forth- with appoint a liquidator and, until the winding up of its affairs in Labuan is completed, the foreign offshore company shall be deemed to continue to exist in Labuan; and
 
@@ -3510,27 +4284,85 @@ in the opinion of the Registrar, is undesirable or is a name, or includes a name
 
 (3) No foreign offshore company shall use, in Labuan or elsewhere, in respect of acts done or to be done in Labuan, any name other than that under which it is registered under this Part and every foreign offshore company and every officer of the company who knowingly authorizes or permits the default shall be guilty of an offence against this Act.
 
-Returns by
+<!-- marginal: Returns by -->
 
-129. (1) A foreign offshore company shall make an annual foreign return containing the prescribed particulars and accompanied offshore companies. by such copies of documents as are required to be included in the return, and shall lodge the return with the Registrar once in each calendar year not later than thirty days prior to the anniversary of the date of its registration.
+129. (1) A foreign offshore company shall make an annual
 
-(2) The Minister may make regulations— Transfer from Labuan.
+<!-- marginal: foreign -->
+
+return containing the prescribed particulars and accompanied
+
+<!-- marginal: offshore -->
+
+<!-- marginal: companies. -->
+
+by such copies of documents as are required to be included in the return, and shall lodge the return with the Registrar once in each calendar year not later than thirty days prior to the anniversary of the date of its registration.
+
+(2) The Minister may make regulations—
+
+<!-- marginal: Transfer -->
+
+<!-- marginal: from -->
+
+<!-- marginal: Labuan. -->
 
 (a) prescribing the registers and returns to be kept and made by a foreign offshore company and fixing the times within which the same must be kept and made; and
 
 (b) prescribing the fees and charges to be paid for the lodging of any annual return.
 
-Application
+<!-- marginal: Application -->
 
-130. Notwithstanding any other provision in this Part, a of this Part foreign company registered under the Companies Act 1965 to certain foreign and licensed under the Banking and Financial Institutions Act companies 1989, the Islamic Banking Act 1983, or the Insurance Act registered under 1963, as the case may be, may be registered under this Part as Companies a foreign offshore company, and upon its registration the Act 1965. provisions of this Part shall apply accordingly to the company. Act 372. Act 276. Act 89.
+130. Notwithstanding any other provision in this Part, a
+
+<!-- marginal: of this Part -->
+
+foreign company registered under the Companies Act 1965
+
+<!-- marginal: to certain -->
+
+<!-- marginal: foreign -->
+
+and licensed under the Banking and Financial Institutions Act
+
+<!-- marginal: companies -->
+
+1989, the Islamic Banking Act 1983, or the Insurance Act
+
+<!-- marginal: registered -->
+
+<!-- marginal: under -->
+
+1963, as the case may be, may be registered under this Part as
+
+<!-- marginal: Companies -->
+
+a foreign offshore company, and upon its registration the
+
+<!-- marginal: Act 1965. -->
+
+provisions of this Part shall apply accordingly to the company.
+
+<!-- marginal: Act 372. -->
+
+<!-- marginal: Act 276. -->
+
+<!-- marginal: Act 89. -->
 
 ## PART IX
 
 ## MISCELLANEOUS
 
-Receiver-
+<!-- marginal: Receiver- -->
 
-131. (1) The provisions of Part VIII and Part X (in so far as ship and they relate to a company limited by shares) of the Companies winding up. Act 1965 shall apply to the receivership and winding up of an offshore company, subject to such modifications and adaptations as may be necessary, and in particular references to a "company" shall be taken as references to an offshore company.
+131. (1) The provisions of Part VIII and Part X (in so far as
+
+<!-- marginal: ship and -->
+
+they relate to a company limited by shares) of the Companies
+
+<!-- marginal: winding up. -->
+
+Act 1965 shall apply to the receivership and winding up of an offshore company, subject to such modifications and adaptations as may be necessary, and in particular references to a "company" shall be taken as references to an offshore company.
 
 <!-- page 110 -->
 
@@ -3662,7 +4494,13 @@ newspaper circulating in the place shown in the register of members as the addre
 
 date of forfeiture, were payable by him to the company in respect of the shares, but his liability shall cease if and when the company receives payment in full of all such moneys in respect of the shares.
 
-137. (1) In any proceedings for negligence, default, breach Power to grant. of duty or breach of trust against a person to whom this section applies, if it appears to the Court before which the proceedings are taken that he is or may be liable in respect thereof but that he has acted honestly and reasonably and that, having regard to all the circumstances of the case including those connected with his appointment, he ought fairly to be excused for the negligence, default or breach, the Court may relieve him either wholly or partly from his liability on such terms as the Court thinks fit.
+137. (1) In any proceedings for negligence, default, breach
+
+<!-- marginal: Power to -->
+
+<!-- marginal: grant. -->
+
+of duty or breach of trust against a person to whom this section applies, if it appears to the Court before which the proceedings are taken that he is or may be liable in respect thereof but that he has acted honestly and reasonably and that, having regard to all the circumstances of the case including those connected with his appointment, he ought fairly to be excused for the negligence, default or breach, the Court may relieve him either wholly or partly from his liability on such terms as the Court thinks fit.
 
 (2) Where any person to whom this section applies has reason to apprehend that any claim will or might be made against him in respect of any negligence, default, breach of duty or breach of trust, he may apply to the Court for relief, and the Court shall have the same power to relieve him under this section as it would have had if it had been a Court before which proceedings against him for the negligence, default, breach of duty or breach of trust had been brought.
 
@@ -3676,9 +4514,17 @@ date of forfeiture, were payable by him to the company in respect of the shares,
 
 (d) all persons, including receivers and managers or liquidators, who are appointed or directed by the Court or the Registrar to carry,out any duty under this Act in relation to an offshore company.
 
-Irregularities
+<!-- marginal: Irregularities -->
 
-138. (1) No proceedings under this Act shall be invalidated in by any omission, defect, error, irregularity or deficiency of proceedings. notice or time unless the Court is of the opinion that sub- stantial injustice has been or may be caused thereby which cannot be remedied by any order of the Court and the Court may, if it thinks fit, make an order or direction declaring that
+138. (1) No proceedings under this Act shall be invalidated
+
+<!-- marginal: in -->
+
+by any omission, defect, error, irregularity or deficiency of
+
+<!-- marginal: proceedings. -->
+
+notice or time unless the Court is of the opinion that sub- stantial injustice has been or may be caused thereby which cannot be remedied by any order of the Court and the Court may, if it thinks fit, make an order or direction declaring that
 
 <!-- page 114 -->
 
@@ -3714,7 +4560,17 @@ such proceedings are valid notwithstanding any such omission, defect, error, irr
 
 (4) The Court, whether the company is in the process of being wound up or not, may extend or shorten any time for doing any act or taking any proceedings allowed or limited by this Act or the regulations on such terms, if any, as the justice of the case may require, and any such extension may be ordered although the application for the same is not made until after the time originally allowed or limited.
 
-139. (1) Where under this Act an offshore company or a Translation of foreign off shore company or a foreign company is required instruments. to lodge with the Registrar an instrument, certificate, contract or document or a certified copy thereof and the same is not written in the national language or in the English language, the company shall lodge at the same time with the Registrar a certified translation thereof in the national language or in the English language.
+139. (1) Where under this Act an offshore company or a
+
+<!-- marginal: Translation -->
+
+<!-- marginal: of -->
+
+foreign off shore company or a foreign company is required
+
+<!-- marginal: instruments. -->
+
+to lodge with the Registrar an instrument, certificate, contract or document or a certified copy thereof and the same is not written in the national language or in the English language, the company shall lodge at the same time with the Registrar a certified translation thereof in the national language or in the English language.
 
 (2) Where under this Act an offshore company or a foreign offshore company is required to make available for public inspection any instrument, certificate, contract or document and the same is not written in the national language or in the English language, the company shall keep at its registered office in Labuan a certified translation thereof in the national language or in the English language.
 
@@ -3790,9 +4646,13 @@ offence continues after he is so convicted and liable to an additional penalty f
 
 (b) authorizes or permits the commission of the offence.
 
-Compounding
+<!-- marginal: Compounding -->
 
-144. (1) The Registrar may, in a case where he deems it fit of offences. to do so, compound any offence committed by any person under this Act, by making a written offer to such person to compound the offence by paying to the Registrar within such time as may be specified in the offer such sum of money as may be specified in the offer, which shall not exceed fifty per centum of the amount of the maximum fine to which that person would have been liable if he had been convicted of the offence.
+144. (1) The Registrar may, in a case where he deems it fit
+
+<!-- marginal: of offences. -->
+
+to do so, compound any offence committed by any person under this Act, by making a written offer to such person to compound the offence by paying to the Registrar within such time as may be specified in the offer such sum of money as may be specified in the offer, which shall not exceed fifty per centum of the amount of the maximum fine to which that person would have been liable if he had been convicted of the offence.
 
 (2) An offer under subsection (1) may be made at any time after the offence has been committed, but before any prosecution for it has been instituted, and where the amount specified in the offer is not paid within the time specified in the offer, or within such extended period as the Registrar may grant, prosecution for the offence may be instituted at any time thereafter against the person to whom the offer was made.
 
@@ -3836,9 +4696,13 @@ shall invest in any domestic company other than a trust
 
 <!-- page 119 -->
 
-Prohibition
+<!-- marginal: Prohibition -->
 
-148. (1) The Minister may, without assigning reasons by Minister. therefor, issue, by notification in the Gazette, a direction—
+148. (1) The Minister may, without assigning reasons
+
+<!-- marginal: by Minister. -->
+
+therefor, issue, by notification in the Gazette, a direction—
 
 (a) prohibiting the initial incorporation of any offshore company or class f companies;
 
@@ -3848,7 +4712,11 @@ Prohibition
 
 (2) A direction made under this section may be revoked or varied by the Minister.
 
-149. (1) All proceedings (other than criminal proceedings) Secrecy. relating to any offshore company or foreign offshore company commenced in any Court, either under the provisions of this Act or for the purpose solely of determining the rights or obligations of officers, members or holders of debentures, and any appeal therefrom, shall, unless the Court otherwise order, be heard in camera and no details of the proceedings shall be published by any person without leave of the Court.
+149. (1) All proceedings (other than criminal proceedings)
+
+<!-- marginal: Secrecy. -->
+
+relating to any offshore company or foreign offshore company commenced in any Court, either under the provisions of this Act or for the purpose solely of determining the rights or obligations of officers, members or holders of debentures, and any appeal therefrom, shall, unless the Court otherwise order, be heard in camera and no details of the proceedings shall be published by any person without leave of the Court.
 
 (2) Where—
 
@@ -3968,9 +4836,7 @@ also provides power to the Registrar or any person authorized by him to inspect 
 
 11. Part III relates to the constitution of companies. This Part is divided into two Divisions.
 
-12. Division 1 relates to the incorporation of offshore companies. Clause 14 relates to, application for incorporation and every offshore company incorporated, shall be a company limited by shares. Clause 75 provides that a person desiring to incorporate an offshore company shall file memorandum, articles, and other documents required to be lodged for the purpose of incorporation and it is the duty of the Registrar to register and to issue certificate upon compliance with such requirement.Clauses 16 and 17 provide for the transfer of a foreign company with the approval of the Registrar and the company, upon such registration, shall be deemed to be an offshore company domiciled in Labuan without affecting the continuance of the company. Clause 18 states the matters to be contained in the memorandum of an offshore company, inter alia, the amount of share capital with which it is proposed to be registered, the objects of the company, and the identities of its subscribers
-
-13. Division 2 relates to the status and name of an offshore company. Clause 19 allows the company to adopt, modify or exclude the powers set forth in the Schedule. Clause 20 provides that the absence of capacity or power shall not invalidate any act or purported act of an offshore company. Clause 27sets out a guideline for the approval of names of offshore companies registered under this Act. Once an application for a name is approved the name will be automatically reserved for a period of three months from the date of lodgement of the application. Clause 22 allows an offshore company to change its name by special resolution or where the Registrar so directs the company shall comply with the direction within six weeks. Clause 23 sets out matters pertaining to contents of articles. Clause 24 allows a company to alter the articles by special resolution. Clause 25 provides that a member may request for a copy of the company's memorandum and articles. Clause 26 sets out matters which cannot be
+12. Division 1 relates to the incorporation of offshore companies. Clause 14 relates to, application for incorporation and every offshore company incorporated, shall be a company limited by shares. Clause 75 provides that a person desiring to incorporate an offshore company shall file memorandum, articles, and other documents required to be lodged for the purpose of incorporation and it is the duty of the Registrar to register and to issue certificate upon compliance with such requirement.Clauses 16 and 17 provide for the transfer of a foreign company with the approval of the Registrar and the company, upon such registration, shall be deemed to be an offshore company domiciled in Labuan without affecting the continuance of the company. Clause 18 states the matters to be contained in the memorandum of an offshore company, inter alia, the amount of share capital with which it is proposed to be registered, the objects of the company, and the identities of its subscribers 13. Division 2 relates to the status and name of an offshore company. Clause 19 allows the company to adopt, modify or exclude the powers set forth in the Schedule. Clause 20 provides that the absence of capacity or power shall not invalidate any act or purported act of an offshore company. Clause 27sets out a guideline for the approval of names of offshore companies registered under this Act. Once an application for a name is approved the name will be automatically reserved for a period of three months from the date of lodgement of the application. Clause 22 allows an offshore company to change its name by special resolution or where the Registrar so directs the company shall comply with the direction within six weeks. Clause 23 sets out matters pertaining to contents of articles. Clause 24 allows a company to alter the articles by special resolution. Clause 25 provides that a member may request for a copy of the company's memorandum and articles. Clause 26 sets out matters which cannot be
 
 <!-- page 124 -->
 

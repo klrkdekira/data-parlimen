@@ -1,0 +1,281 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-47-1991",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_4"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Ahli Parlimen (Saraan) (Pindaan) 1991"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Ahli Parlimen"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "(Saraan) (Pindaan) 1991."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_2__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_2__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_2__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_2__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_2__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_2__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Ahli Parlimen (Saraan) 1980, yang disebut \"Akta ibu\" dalam Akta ini, adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_2__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_2__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan seksyen 3 dengan seksyen yang berikut: \" Saraan 3. (1) Saraan bagi Ahli Parlimen bagi Ahli hendaklah berupa— Parlimen. (a) bagi ahli Dewan Negara, elaun bulanan sebanyak dua ribu seratus enam puluh ringgit; (b) bagi ahli Dewan Rakyat, elaun bulanan sebanyak tiga ribu dua ratus empat puluh ringgit. (2) Jika seseorang Ahli Parlimen dilantik sebagai Ketua Pembangkang, dia adalah berhak, selain daripada elaun bulanan yang dinyatakan dalam perenggan (b) seksyen-kecil (1), mendapat elaun bulanan sebanyak dua ribu seratus enam puluh ringgit.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_2__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_2__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan seksyen 4 dengan seksyen yang berikut: 4. Saraan bagi Yang di-Pertua dan Timbalan Yang di-Pertua Dewan Negara dan Yang di-Pertua dan Timbalan Yang di-Pertua Dewan Rakyat hendaklah berupa— (a) bagi Yang di-Pertua Dewan Negara, gaji bulanan sebanyak enam ribu dua ratus sepuluh ringgit selain daripada elaun bulanan yang kena dibayar kepadanya sebagai ahli Dewan Negara seperti yang dinyata- kan dalam perenggan (a) seksyen-kecil (1) seksyen 3; (b) bagi Yang di-Pertua Dewan Rakyat, gaji bulanan sebanyak enam ribu dua ratus sepuluh ringgit selain daripada elaun bulanan yang kena dibayar kepada ahli Dewan Rakyat seperti yang dinyatakan dalam perenggan (b) seksyen-kecil (1) seksyen 3 tidak kira sama ada Yang di-Pertua itu ahli Dewan Rakyat atau tidak; (c) bagi Timbalan Yang di-Pertua Dewan Negara, elaun bulanan sebanyak seribu lapan puluh ringgit selain daripada elaun bulanan yang kena dibayar kepadanya sebagai ahli Dewan Negara seperti yang dinyata- kan dalam perenggan (a) seksyen-kecil (1) seksyen 3; (d) bagi Timbalan Yang di-Pertua Dewan Rakyat, elaun bulanan sebanyak seribu lapan puluh ringgit selain daripada elaun bulanan yang kena dibayar kepadanya sebagai ahli Dewan Rakyat seperti yang dinyata- kan dalam perenggan (b) seksyen-kecil (1) seksyen 3.\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_2__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_2__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan seksyen 6 dengan seksyen yang berikut: 6. (1) Saraan bagi Anggota Pentad- biran hendaklah berupa— (a) bagi Perdana Menteri, gaji bulanan sebanyak sembilan ribu seratus lapan puluh ringgit; (b) bagi Timbalan Perdana Menteri, gaji bulanan se- banyak lapan ribu seratus ringgit; (c) bagi Menteri, gaji bulanan sebanyak tujuh ribu dua puluh ringgit; (d) bagi Timbalan Menteri, gaji bulanan sebanyak lima ribu empat ratus ringgit; (e) bagi Setiausaha Parlimen, gaji bulanan sebanyak tiga ribu tujuh ratus lapan puluh ringgit. (2) (a) Jika seseorang Anggota Pentadbiran ialah ahli Dewan Negara, dia adalah berhak, selain daripada gaji yang dinyatakan dalam seksyen- kecil (1), mendapat elaun bulanan yang kena dibayar kepadanya sebagai ahli Dewan Negara seperti yang dinyatakan dalam perenggan (a) seksyen-kecil (1) seksyen 3. (b) Jika seseorang Anggota Pentadbiran ialah ahli Dewan Rakyat, dia adalah berhak, selain daripada gaji yang dinyatakan dalam seksyen- kecil (1), mendapat elaun bulanan yang kena dibayar kepadanya sebagai ahli Dewan Rakyat seperti yang dinyatakan dalam perenggan (b) seksyen-kecil (1) seksyen 3. (3) Jika seseorang Anggota Pentadbiran dilantik sebagai Ketua Dewan Rakyat, dia adalah berhak, selain daripada gaji yang dinyatakan dalam seksyen-kecil (1) dan elaun bulanan yang dinyatakan dalam perenggan (b) seksyen-kecil (1) seksyen 3, mendapat elaun bulanan sebanyak dua ribu seratus enam puluh ringgit. (4) Jika seseorang Anggota Pentadbiran dilantik sebagai Timbalan Ketua Dewan Rakyat, dia adalah berhak, selain daripada gaji yang dinyatakan dalam seksyen-kecil (1) dan elaun bulanan yang dinyata- kan dalam perenggan (b) seksyen- kecil (1) seksyen 3, mendapat elaun bulanan sebanyak seribu lapan puluh ringgit. (5) Anggota Pentadbiran adalah juga berhak mendapat apa-apa elaun AHLI PARLIMEN (SARAAN) (PINDAAN) dan keistimewaan lain mengikut apa- apa kadar dan atas apa-apa had dan syarat sebagaimana yang ditentukan oleh Jemaah Menteri dari semasa ke semasa.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen (1) hendaklah disifatkan telah mula berkuatkuasa pada 1hb Januari 1989."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_2__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun seksyen 7 Akta ibu, semua gaji dan elaun bulanan yang dinyatakan dalam pindaan- pindaan kepada Akta ibu dalam subseksyen (1) dan yang kena dibayar hendaklah bermula dari 1hb Januari 1989 atau dari tarikh perlantikan atau pilihan, yang mana- mana yang terkemudian, Ahli Parlimen, Yang di-Pertua atau Timbalan Yang di-Pertua Dewan Negara, Yang di- Pertua atau Timbalan Yang di-Pertua Dewan Rakyat, Anggota Pentadbiran, Ketua atau Timbalan Ketua Dewan Rakyat atau Ketua Pembangkang, mengikut mana-mana yang berkenaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_3__subsec_1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_3__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_3__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_3__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_3__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan seksyen 3 sebagaimana yang dipinda oleh subseksyen 2(1) dengan seksyen yang berikut: \" Saraan 3. (1) Saraan bagi Ahli Parlimen bagi Ahli hendaklah berupa— Parlimen. (a) bagi ahli Dewan Negara, elaun bulanan sebanyak dua ribu lapan ratus ringgit; (b) bagi ahli Dewan Rakyat, elaun bulanan sebanyak empat ribu lapan ratus ringgit. (2) Jika seseorang Ahli Parlimen dilantik sebagai Ketua Pembangkang, dia adalah berhak, selain daripada elaun bulanan yang dinyatakan dalam perenggan (b) seksyen-kecil (1), mendapat elaun bulanan sebanyak dua ribu lapan ratus ringgit.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_3__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_3__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan seksyen 4 sebagaimana yang dipinda oleh subseksyen 2(1) dengan seksyen yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_4__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_4__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Saraan bagi Yang di-Pertua dan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Timbalan Yang di-Pertua Dewan Negara dan Yang di-Pertua dan Timbalan Yang di-Pertua Dewan Rakyat hendaklah berupa—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_4__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_4__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_4__list_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_4__list_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_4__list_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_4"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_4__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_4__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bagi Yang di-Pertua Dewan Negara, gaji bulanan sebanyak sembilan ribu dua ratus ringgit selain daripada elaun bulanan yang kena dibayar kepadanya sebagai ahli Dewan Negara seperti yang dinyatakan dalam perenggan (a) seksyen-kecil (1) seksyen 3;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_4__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_4__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bagi Yang di-Pertua Dewan Rakyat, gaji bulanan sebanyak sembilan ribu dua ratus ringgit selain daripada elaun bulanan yang kena dibayar kepada ahli Dewan Rakyat seperti yang dinyatakan dalam perenggan (b) seksyen-kecil (1) seksyen 3 tidak kira sama ada Yang di- Pertua itu ahli Dewan Rakyat atau tidak;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_4__list_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_4__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bagi Timbalan Yang di-Pertua Dewan Negara, elaun bulanan sebanyak dua ribu ringgit selain daripada elaun bulanan yang kena dibayar kepadanya sebagai ahli Dewan Negara seperti yang dinyatakan dalam perenggan (a) seksyen-kecil (1) seksyen 3;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_4__list_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_4__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bagi Timbalan Yang di-Pertua Dewan Rakyat, elaun bulanan sebanyak dua ribu ringgit selain daripada elaun bulanan yang kena dibayar kepadanya sebagai ahli Dewan Rakyat seperti yang dinyatakan dalam perenggan (b) seksyen-kecil (1) seksyen 3.\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_4__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_4__list_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_4__list_2__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_4__list_2__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_4"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_4__list_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_4__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan seksyen 6 sebagaimana yang dipinda oleh subseksyen 2(1) dengan seksyen yang berikut: 6. (1) Saraan bagi Anggota Pentad- biran hendaklah berupa— (a) bagi Perdana Menteri, gaji bulanan sebanyak tujuh belas ribu ringgit; (b) bagi Timbalan Perdana Menteri, gaji bulanan se- banyak tiga belas ribu lima ratus ringgit; (c) bagi Menteri, gaji bulanan sebanyak sebelas ribu lima puluh ringgit; (d) bagi Timbalan Menteri, gaji bulanan sebanyak lapan ribu ringgit; (e) bagi Setiausaha Parlimen, gaji bulanan sebanyak lima ribu dua ratus lima puluh ringgit. (2) (a) Jika seseorang Anggota Pentadbiran ialah ahli Dewan Negara, dia adalah berhak, selain daripada gaji yang dinyatakan dalam seksyen- kecil (1), mendapat elaun bulanan yang kena dibayar kepadanya sebagai ahli Dewan Negara seperti yang dinyatakan dalam perenggan (a) seksyen-kecil (1) seksyen 3. (b) Jika seseorang Anggota Pentadbiran ialah ahli Dewan Rakyat, dia adalah berhak, selain daripada gaji yang dinyatakan dalam seksyen- kecil (1), mendapat elaun bulanan yang kena dibayar kepadanya sebagai ahli Dewan Rakyat seperti yang dinyatakan dalam perenggan (b) seksyen-kecil (1) seksyen 3. (3) Jika seseorang Anggota Pentadbiran dilantik sebagai Ketua Dewan Rakyat, dia adalah berhak, selain daripada gaji yang dinyatakan dalam seksyen-kecil (1) dan elaun bulanan yang dinyatakan dalam perenggan (b) seksyen-kecil (1) seksyen 3, mendapat elaun bulanan sebanyak dua ribu lapan ratus ringgit. (4) Jika seseorang Anggota Pentadbiran dilantik sebagai Timbalan Ketua Dewan Rakyat, dia adalah berhak, selain daripada gaji yang dinyatakan dalam seksyen-kecil (1) dan elaun bulanan yang di- nyatakan dalam perenggan (b) seksyen-kecil (1) seksyen 3, men- dapat elaun bulanan sebanyak seribu empat ratus ringgit. (5) Anggota Pentadbiran adalah juga berhak mendapat apa-apa elaun dan keistimewaan lain mengikut apa- apa kadar dan atas apa-apa had dan syarat sebagaimana yang ditentukan oleh Jemaah Menteri dari semasa ke semasa.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_4__list_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_4__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen (1) hendaklah mula berkuatkuasa pada Ihb Januari 1992."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_4__list_2__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/47/msa@/~cl_4__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun seksyen 7 Akta ibu, semua gaji dan elaun bulanan yang dinyatakan dalam piiidaan- pindaan kepada Akta ibu dalam subseksyen (1) dan yang kena di bayar hendaklah bermula dari Ihb Januari 1992 atau dari tarikh perlantikan atau pilihan, yang mana- mana yang terkemudian, Ahli Parlimen, Yang di-Pertua atau Timbalan Yang di-Pertua Dewan Negara, Yang di- Pertua atau Timbalan Yang di-Pertua Dewan Rakyat, Anggota Pentadbiran, Ketua atau Timbalan Ketua Dewan Rakyat atau Ketua Pembangkang, mengikut mana-mana yang berkenaan."
+      }
+    }
+  ]
+}

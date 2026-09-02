@@ -54,21 +54,41 @@ inserting after the words "Federal Court" the words ", of the Court of Appeal".
 
 (b) in subsection (2) by inserting after the words "Chief Judges" the word ", President".
 
-Amendment 5. Section 8c of the principal Act is amended by if section 8c. Amendment inserting after the words "Federal Court" the words ". the Court of Appeal".
+<!-- marginal: Amendment -->
 
-6. Section 9 of the principal Act is amended— 4 section 9.
+5. Section 8c of the principal Act is amended by
+
+<!-- marginal: if section 8c. -->
+
+<!-- marginal: Amendment -->
+
+inserting after the words "Federal Court" the words ". the Court of Appeal".
+
+6. Section 9 of the principal Act is amended—
+
+<!-- marginal: 4 section 9. -->
 
 (a) in the marginal note and wherever they appear by inserting after the words "Chief Justice" the word ", President"; and
 
 (b) in paragraph (a) by substituting for the word "both" the words "all the".
 
-Amendment 7. Subsection 15fi(5) of the principal Act is amended if section by substituting for paragraph (b) the following
+<!-- marginal: Amendment -->
+
+7. Subsection 15fi(5) of the principal Act is amended
+
+<!-- marginal: if section -->
+
+by substituting for paragraph (b) the following
 
 3B. paragraph:
 
 "(b) a Judge of the Federal Court or of the Court of Appeal or a President or a Chief Judge; or".
 
-Amendment 8. The First Schedule to the principal Act is amended— f First
+<!-- marginal: Amendment -->
+
+8. The First Schedule to the principal Act is amended—
+
+<!-- marginal: f First -->
 
 ## Schedule.
 
@@ -116,63 +136,37 @@ Court of per month Appeal
 
 <!-- page 3 -->
 
-<!-- marginal: Amendment -->
+Amendment
 
-9. The Second Schedule to the principal Act is
+9. The Second Schedule to the principal Act is of Second
 
-<!-- marginal: of Second -->
-
-amended—
+<!-- marginal: amended— -->
 
 ## Schedule
 
 (at in paragraph "1. ACCOMMODATION"—
 
-(i) by inserting after subparagraph 1
+(i) by inserting after subparagraph 1 the following subparagraph:
 
-<!-- marginal: the -->
+(b (2)
 
-following subparagraph:
+Judges Effective Date
 
-(b
-
-<!-- marginal: (2) -->
-
-Judges
-
-<!-- marginal: Effective -->
-
-<!-- marginal: Date -->
-
-1 A. President of the
-
-<!-- marginal: 1-7-1994 -->
-
-Court of Appeal—
+1 A. President of the 1-7-1994 Court of Appeal—
 
 ( i) free fully furnished institutional quarters, or in lieu thereof a house rent subsidy of RM2500.00 per month: and
 
-( i i) one butler, two gardeners and one caretaker and a provision of RM 1500.00 per annum for house and garden upkeep
-
-<!-- marginal: ": and -->
+( i i) one butler, two gardeners and one caretaker and a provision of RM 1500.00 per annum for house and garden upkeep ": and
 
 (iii) by inserting after subparagraph 2 the following subparagraph:
 
-(b)
+(b) (C)
 
-<!-- marginal: (C) -->
+Judges Effective Date
 
-Judges
+<!-- marginal: 2\. -->
 
-<!-- marginal: Effective -->
-
-<!-- marginal: Date -->
-
-2\. Judges of the
-
-<!-- marginal: 1-7-1994 -->
-
-Court of Appeal—
+Judges of the 1-7-1994 Court of Appeal—
 
 ( i i) free fully furnished institutional quarters which (including the compound) shall be maintained
 
@@ -188,47 +182,21 @@ free of charge, or in lieu thereof a house rent subsidy of RM2250.00 per month; 
 
 ## ALLOWANCE"—
 
-(i) by inserting after subparagraph 1
+(i) by inserting after subparagraph 1 the following subparagraph:
 
-<!-- marginal: the -->
+( 1) ( 2) ( 3)
 
-following subparagraph:
+Judges Amount Effective Date
 
-( 1) ( 2)
-
-<!-- marginal: ( 3) -->
-
-Judges Amount
-
-<!-- marginal: Effective -->
-
-<!-- marginal: Date -->
-
-1A. President RM3150.00
-
-<!-- marginal: 1-7-1994 -->
-
-of the Court per month of Appeal
-
-<!-- marginal: ": and -->
+1A. President RM3150.00 1-7-1994 of the Court per month of Appeal ": and
 
 (ii) by inserting after subparagraph 4 the following subparagraph:
 
-( 1) ( 2)
+( 1) ( 2) ( 3)
 
-<!-- marginal: ( 3) -->
+Judges Amount Effective Date
 
-Judges Amount
-
-<!-- marginal: Effective -->
-
-<!-- marginal: Date -->
-
-4A. Judges of RM2900.00
-
-<!-- marginal: 1-7-1994 -->
-
-the Court per month of Appeal ";
+4A. Judges of RM2900.00 1-7-1994 the Court per month of Appeal ";
 
 (c) in subparagraph "12. (a) Vacation Leave"—
 

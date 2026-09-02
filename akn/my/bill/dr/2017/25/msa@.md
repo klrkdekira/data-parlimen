@@ -34,7 +34,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 3. Akta ibu dipinda dengan memasukkan selepas Bahagian I Bahagian yang berikut:
 
-“Bahagian ia
+## “BAHAGIAN IA
 
 ## KHIDMAT BANTUAN GUAMAN
 
@@ -98,7 +98,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 9. Akta ibu dipinda dengan memasukkan selepas Bahagian Va Bahagian yang berikut:
 
-“Bahagian VB
+## “BAHAGIAN VB
 
 ## KHIDMAT PENDAMPING GUAMAN
 
@@ -154,7 +154,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 11. Akta ibu dipinda dengan memasukkan selepas Jadual Keempat Jadual yang berikut:
 
-“Jadual Kelima
+## “JADUAL KELIMA
 
 [Subseksyen 29g(1)]
 

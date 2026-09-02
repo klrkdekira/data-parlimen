@@ -756,11 +756,7 @@ dengan sekuriti bagi maksud pelaburan, termasuk berurus niaga dalam sekuriti ata
 
 “perkongsian” ertinya perkongsian terhad atau perkongsian liabiliti terhad;
 
-“perkongsian liabiliti terhad” ertinya suatu perkongsian liabiliti terhad yang dibentuk di bawah Akta Perkongsian Terhad dan Perkongsian Liabiliti Terhad Labuan 2009 [Akta.....] atau di bawah
-
-## Bahagian X Akta ini atau di bawah undang-undang mana-mana
-
-negara atau bidang kuasa diiktiraf walau apa pun apa-apa takrif statutori yang berlawanan;
+“perkongsian liabiliti terhad” ertinya suatu perkongsian liabiliti terhad yang dibentuk di bawah Akta Perkongsian Terhad dan Perkongsian Liabiliti Terhad Labuan 2009 [Akta.....] atau di bawah Bahagian X Akta ini atau di bawah undang-undang mana-mana negara atau bidang kuasa diiktiraf walau apa pun apa-apa takrif statutori yang berlawanan;
 
 “perkongsian terhad” ertinya suatu perkongsian terhad yang dibentuk di bawah Akta Perkongsian Terhad dan Perkongsian Liabiliti Terhad Labuan 2009 atau di bawah Bahagian X Akta ini atau di bawah undang-undang mana-mana negara atau bidang kuasa diiktiraf walau apa pun apa-apa takrif statutori yang berlawanan;
 
@@ -1036,9 +1032,7 @@ Tawaran sekuriti
 
 <!-- page 31 -->
 
-Perkhidmatan Kewangan dan Sekuriti Islam Labuan
-
-<!-- marginal: 31 -->
+Perkhidmatan Kewangan dan Sekuriti Islam Labuan 31
 
 (4) Jika suatu permohonan telah dikemukakan kepada Lembaga di bawah seksyen ini, Lembaga boleh—
 
@@ -1158,9 +1152,7 @@ itu adalah wajar dan tidak bermungkinan untuk mengelirukan seseorang yang melabu
 
 (aa) dalam hal suatu prospektus yang berhubungan dengan dana awam Islam—
 
-(A) suatu perakuan daripada seorang pakar yang memperakukan bahawa prospektus itu mematuhi kehendak
-
-## Bahagian IV; dan
+(A) suatu perakuan daripada seorang pakar yang memperakukan bahawa prospektus itu mematuhi kehendak Bahagian IV; dan
 
 (B) jika semua atau mana-mana bahagian prospektus itu tidak dalam bahasa kebangsaan atau bahasa Inggeris, suatu terjemahan prospektus itu atau sebahagian prospektus dalam bahasa kebangsaan atau bahasa Inggeris, yang ditentusahkan mengikut cara yang memuaskan hati Lembaga;
 
@@ -1546,7 +1538,9 @@ menyediakan suatu laporan yang berkaitan dengan tempoh itu dan mematuhi kehendak
 
 <!-- page 52 -->
 
-52 Rang Undang-Undang
+<!-- marginal: 52 -->
+
+Rang Undang-Undang
 
 yang secara material menjejaskan apa-apa cagaran atau gadaian yang diwujudkan oleh Sukuk atau apa-apa surat ikatan amanah dan, jika demikian, butir-butir mengenai hal keadaan itu;
 
@@ -2818,11 +2812,15 @@ bagi maksud subseksyen (2), kecuali berkenaan dengan pemohon yang memohon untuk 
 
 <!-- page 100 -->
 
-100 Rang Undang-Undang
+<!-- marginal: 100 -->
+
+Rang Undang-Undang
 
 (3) Tiap-tiap permohonan bagi mendapatkan lesen untuk menjalankan perniagaan takaful Labuan hendaklah—
 
-(a) dibuat secara bertulis dan dikemukakan kepada Lembaga;
+(a) dibuat secara bertulis dan dikemukakan kepada
+
+<!-- marginal: Lembaga; -->
 
 (b) menyatakan sama ada perniagaan takaful Labuan itu berkaitan dengan perniagaan takaful keluarga atau perniagaan takaful am;
 
@@ -2846,9 +2844,7 @@ bagi maksud subseksyen (2), kecuali berkenaan dengan pemohon yang memohon untuk 
 
 <!-- page 101 -->
 
-Perkhidmatan Kewangan dan Sekuriti Islam Labuan
-
-<!-- marginal: 101 -->
+Perkhidmatan Kewangan dan Sekuriti Islam Labuan 101
 
 (iii) suatu pernyataan mengenai—
 
@@ -2916,7 +2912,9 @@ Perkhidmatan Kewangan dan Sekuriti Islam Labuan
 
 <!-- page 104 -->
 
-104 Rang Undang-Undang
+<!-- marginal: 104 -->
+
+Rang Undang-Undang
 
 (2) Tiap-tiap permohonan bagi lesen untuk menjalankan perniagaan sebagai pengurus takaful Labuan, pengurus pengunderaitan takaful Labuan atau broker takaful Labuan hendaklah—
 
@@ -2946,9 +2944,7 @@ Perkhidmatan Kewangan dan Sekuriti Islam Labuan
 
 <!-- page 105 -->
 
-Perkhidmatan Kewangan dan Sekuriti Islam Labuan
-
-<!-- marginal: 105 -->
+Perkhidmatan Kewangan dan Sekuriti Islam Labuan 105
 
 (cc) nama dan alamat setiap anggota yang memegang lima belas peratus syer mengundi pemohon atau lebih;
 
@@ -3346,7 +3342,9 @@ Penggulungan
 
 <!-- page 122 -->
 
-122 Rang Undang-Undang
+<!-- marginal: 122 -->
+
+Rang Undang-Undang
 
 yang bersamaan dengannya dalam mata wang asing atau apa-apa amaun atau denominasi lain sebagaimana yang ditentukan dari semasa ke semasa berkenaan dengan perkhidmatan yang diberikan olehnya kepada pengendali takaful Labuan itu dalam tempoh empat bulan sebelum bermulanya penggulungan itu;
 
@@ -3690,11 +3688,7 @@ Perkhidmatan Kewangan dan Sekuriti Islam Labuan
 
 ### Pemindahan perniagaan
 
-128. (1) Bagi maksud seksyen ini, apa-apa sebutan mengenai “pemindah” hendaklah merujuk kepada entiti berlesen di bawah
-
-## Bahagian VI atau VII yang memindahkan perniagaannya yang
-
-menghendaki ia dilesenkan di bawah Akta ini dan “penerima pindahan” hendaklah merujuk kepada entiti berlesen yang dilesenkan untuk menjalankan perniagaan, menerima pemindahan daripada pemindah.
+128. (1) Bagi maksud seksyen ini, apa-apa sebutan mengenai “pemindah” hendaklah merujuk kepada entiti berlesen di bawah Bahagian VI atau VII yang memindahkan perniagaannya yang menghendaki ia dilesenkan di bawah Akta ini dan “penerima pindahan” hendaklah merujuk kepada entiti berlesen yang dilesenkan untuk menjalankan perniagaan, menerima pemindahan daripada pemindah.
 
 (2) Keseluruhan atau mana-mana bahagian perniagaan seseorang pemindah boleh dipindahkan kepada penerima pindahan jika pemindahan itu dikuatkuasakan melalui suatu skim di bawah seksyen ini.
 
@@ -3904,11 +3898,7 @@ Perkhidmatan Kewangan dan Sekuriti Islam Labuan
 
 (a) terdapat pelanggaran peruntukan mana-mana Bahagian Akta ini atau bahawa suatu kesalahan di bawah mana- mana undang-undang bertulis telah dilakukan oleh entiti berlesen atau mana-mana pekerjanya; atau
 
-(b) apa-apa ketidakteraturan yang memudaratkan kepentingan pemunya polisi (dalam hal entiti berlesen di bawah
-
-## Bahagian V) atau pemiutang entiti berlesen itu, atau
-
-apa-apa ketidakteraturan serius lain, telah berlaku.
+(b) apa-apa ketidakteraturan yang memudaratkan kepentingan pemunya polisi (dalam hal entiti berlesen di bawah Bahagian V) atau pemiutang entiti berlesen itu, atau apa-apa ketidakteraturan serius lain, telah berlaku.
 
 (5) Bagi maksud seksyen ini, Lembaga hendaklah menyenggarakan suatu senarai juruaudit.
 
@@ -4124,11 +4114,7 @@ Perkhidmatan Kewangan dan Sekuriti Islam Labuan
 
 146. (1) Tiada pemegang bank Islam boleh, berkenaan dengan apa-apa perniagaan yang dijalankan oleh pemegang lesen itu dijadikan, tertakluk kepada mana-mana peruntukan Akta Bank dan Institusi-Institusi Kewangan 1989 dan Akta Bank Islam 1983.
 
-(2) Tiada pemegang lesen takaful boleh, berkenaan dengan apa- apa perniagaan yang dijalankan oleh pemegang lesen itu di bawah
-
-## Bahagian VII, dijadikan tertakluk kepada mana-mana peruntukan
-
-Akta Insurans 1996 [Akta 553] dan Akta Takaful 1984.
+(2) Tiada pemegang lesen takaful boleh, berkenaan dengan apa- apa perniagaan yang dijalankan oleh pemegang lesen itu di bawah Bahagian VII, dijadikan tertakluk kepada mana-mana peruntukan Akta Insurans 1996 [Akta 553] dan Akta Takaful 1984.
 
 ### Perlindungan terhadap guaman dan prosiding undang-
 
@@ -4264,9 +4250,7 @@ Lembaga boleh—
 
 ### Penyampaian dokumen
 
-155. (1) Apa-apa dokumen atau notis yang dikehendaki disampaikan oleh Lembaga kepada sesuatu entiti berlesen, dana bersama Islam, amanah Islam Labuan, yayasan Islam Labuan, perkongsian terhad Islam Labuan, perkongsian liabiliti terhad Islam Labuan atau organisasi kawal selia sendiri Islam boleh disampaikan dengan meninggalkannya di, atau menghantarnya melalui pos ke pejabat berdaftar entiti berlesen, dana bersama Islam, amanah Islam Labuan, yayasan Islam Labuan, perkongsian terhad Islam Labuan, perkongsian liabiliti terhad Islam Labuan atau organisasi kawal selia sendiri Islam .
-
-(2) Jika dokumen atau notis itu telah disampaikan mengikut subseksyen (1), dokumen atau notis itu disifatkan telah disampaikan dengan sempurna kepada entiti berlesen, dana bersama Islam, amanah Islam Labuan, yayasan Islam Labuan, perkongsian terhad Islam Labuan, perkongsian liabiliti terhad Islam Labuan atau organisasi kawal selia sendiri Islam.
+155. (1) Apa-apa dokumen atau notis yang dikehendaki disampaikan oleh Lembaga kepada sesuatu entiti berlesen, dana bersama Islam, amanah Islam Labuan, yayasan Islam Labuan, perkongsian terhad Islam Labuan, perkongsian liabiliti terhad Islam Labuan atau organisasi kawal selia sendiri Islam boleh disampaikan dengan meninggalkannya di, atau menghantarnya melalui pos ke pejabat berdaftar entiti berlesen, dana bersama Islam, amanah Islam Labuan, yayasan Islam Labuan, perkongsian terhad Islam Labuan, perkongsian liabiliti terhad Islam Labuan atau organisasi kawal selia sendiri Islam . (2) Jika dokumen atau notis itu telah disampaikan mengikut subseksyen (1), dokumen atau notis itu disifatkan telah disampaikan dengan sempurna kepada entiti berlesen, dana bersama Islam, amanah Islam Labuan, yayasan Islam Labuan, perkongsian terhad Islam Labuan, perkongsian liabiliti terhad Islam Labuan atau organisasi kawal selia sendiri Islam.
 
 <!-- page 159 -->
 
@@ -4336,14 +4320,6 @@ Perkhidmatan Kewangan dan Sekuriti Islam Labuan
 
 ## JADUAL PERTAMA
 
-Ruang Pertama Ruang Kedua Ruang Ketiga Ruang (orang) (pengarah) (ditubuhkan) Keempat (peserta) Perbadanan seseorang yang diperbadankan pemegang syer memegang jawatan sebagai pengarah perbadanan itu, tidak kira apa jua namanya dipanggil, dan termasuklah seseorang yang mengikut arahan atau petunjuknya pengarah perbadanan itu biasanya bertindak dan seorang pengarah silih ganti atau gantian
-
-<!-- page 163 -->
-
-Perkhidmatan Kewangan dan Sekuriti Islam Labuan
-
-<!-- marginal: 163 -->
-
 Ruang Pertama Ruang Kedua Ruang Ketiga
 
 <!-- marginal: Ruang -->
@@ -4354,15 +4330,99 @@ Ruang Pertama Ruang Kedua Ruang Ketiga
 
 <!-- marginal: (peserta) -->
 
-Koperasi seorang anggota didaftarkan, anggota lembaga atau diperbadankan badan pengelola atau selainnya lain koperasi wujud di sisi itu, tidak kira undang-undang apa jua namanya sebagai suatu dipanggil, koperasi koperasi itu Badan seorang anggota kewujudannya di pemegang berkanun lembaga, bawah undang- syer atau, jawatankuasa, undang yang jika badan majlis atau badan menubuhkan, berkanun pengelola lain, melantik atau itu tidak itu, tidak kira membentuknya mempunyai apa jua namanya modal syer, dipanggil seseorang yang secara keseluruhan, berasingan atau bersesama dengan orang lain yang memiliki badan berkanun itu berasingan atau bersesama dengan orang lain yang mempunyai badan berkanun itu Perkongsian pekongsi pembentukannya pekongsi Perkongsian pekongsi am pembentukannya pekongsi terhad (atau orang atau jika yang memegang pendaftaran atau peranan yang bentuk perekodan serupa) atau pengiktirafan lain dikehendaki sebelum aktiviti atau perniagaan boleh dimulakan menurut undang-undang, pendaftaran, perekodan atau pengiktirafan undang- undangnya di bawah undang- undang yang terpakai
+Perbadanan seseorang yang diperbadankan pemegang syer memegang jawatan sebagai pengarah perbadanan itu, tidak kira apa jua namanya dipanggil, dan termasuklah seseorang yang mengikut arahan atau petunjuknya pengarah perbadanan itu biasanya bertindak dan seorang pengarah silih ganti atau gantian
+
+<!-- page 163 -->
+
+Perkhidmatan Kewangan dan Sekuriti Islam Labuan 163
+
+<!-- marginal: Ruang Pertama -->
+
+Ruang Kedua Ruang Ketiga Ruang
+
+<!-- marginal: (orang) -->
+
+(pengarah) (ditubuhkan) Keempat (peserta)
+
+<!-- marginal: Koperasi -->
+
+seorang anggota didaftarkan, anggota lembaga atau diperbadankan badan pengelola atau selainnya lain koperasi wujud di sisi itu, tidak kira undang-undang apa jua namanya sebagai suatu dipanggil, koperasi koperasi itu
+
+<!-- marginal: Badan -->
+
+seorang anggota kewujudannya di pemegang
+
+<!-- marginal: berkanun -->
+
+lembaga, bawah undang- syer atau, jawatankuasa, undang yang jika badan majlis atau badan menubuhkan, berkanun pengelola lain, melantik atau itu tidak itu, tidak kira membentuknya mempunyai apa jua namanya modal syer, dipanggil seseorang yang secara keseluruhan, berasingan atau bersesama dengan orang lain yang memiliki badan berkanun itu berasingan atau bersesama dengan orang lain yang mempunyai badan berkanun itu
+
+<!-- marginal: Perkongsian -->
+
+pekongsi pembentukannya pekongsi
+
+<!-- marginal: Perkongsian -->
+
+pekongsi am pembentukannya pekongsi
+
+<!-- marginal: terhad -->
+
+(atau orang atau jika yang memegang pendaftaran atau peranan yang bentuk perekodan serupa) atau pengiktirafan lain dikehendaki sebelum aktiviti atau perniagaan boleh dimulakan menurut undang-undang, pendaftaran, perekodan atau pengiktirafan undang- undangnya di bawah undang- undang yang terpakai
 
 <!-- page 164 -->
 
-164 Rang Undang-Undang
+<!-- marginal: 164 -->
 
-Ruang Pertama Ruang Kedua Ruang Ketiga Ruang (orang) (pengarah) (ditubuhkan) Keempat (peserta) Perkongsian pekongsi pembentukannya pekongsi liabiliti terhad ditetapkan (atau atau jika terhad orang yang pendaftaran atau memegang bentuk perekodan peranan yang atau pengiktirafan serupa) lain dikehendaki sebelum aktiviti atau perniagaan boleh dimulakan menurut undang-undang, pendaftaran, perekodan atau pengiktirafan undang- undangnya di bawah undang- undang yang terpakai
+Rang Undang-Undang
 
-Pemunyaan pemunya tunggal jika pendaftaran pemunya tunggal atau bentuk tunggal perekodan atau pengiktirafan lain dikehendaki sebelum aktiviti atau perniagaan boleh dimulakan menurut undang-undang, pendaftaran, perekodan atau pengiktirafan undang- undangnya di bawah undang- undang yang terpakai
+<!-- marginal: Ruang Pertama -->
+
+<!-- marginal: Ruang Kedua -->
+
+Ruang Ketiga Ruang
+
+<!-- marginal: (orang) -->
+
+<!-- marginal: (pengarah) -->
+
+(ditubuhkan) Keempat (peserta)
+
+<!-- marginal: Perkongsian -->
+
+<!-- marginal: pekongsi -->
+
+pembentukannya pekongsi
+
+<!-- marginal: liabiliti terhad -->
+
+<!-- marginal: ditetapkan (atau -->
+
+atau jika terhad
+
+<!-- marginal: orang yang -->
+
+pendaftaran atau
+
+<!-- marginal: memegang -->
+
+bentuk perekodan
+
+<!-- marginal: peranan yang -->
+
+atau pengiktirafan
+
+<!-- marginal: serupa) -->
+
+lain dikehendaki sebelum aktiviti atau perniagaan boleh dimulakan menurut undang-undang, pendaftaran, perekodan atau pengiktirafan undang- undangnya di bawah undang- undang yang terpakai
+
+<!-- marginal: Pemunyaan -->
+
+<!-- marginal: pemunya tunggal -->
+
+jika pendaftaran pemunya
+
+<!-- marginal: tunggal -->
+
+atau bentuk tunggal perekodan atau pengiktirafan lain dikehendaki sebelum aktiviti atau perniagaan boleh dimulakan menurut undang-undang, pendaftaran, perekodan atau pengiktirafan undang- undangnya di bawah undang- undang yang terpakai
 
 <!-- page 165 -->
 
@@ -4796,11 +4856,7 @@ Perkhidmatan Kewangan dan Sekuriti Islam Labuan
 
 127. Fasal 138 memberi Lembaga atau pihak berkuasa penyeliaan dalam negeri bagi sesuatu entiti berlesen kuasa untuk meneliti dan memeriksa buku atau dokumen, akaun dan transaksi lain mana-mana entiti berlesen.
 
-128. Fasal 139 memperuntukkan peruntukan kerahsiaan berkenaan dengan rekod, buku, daftar, surat-menyurat atau dokumen, bahan atau maklumat mengenai kumpulan wang bersama Islam, mana-mana pelanggan pemegang lesen bank Islam di bawah Bahagian VI, mana-mana pemunya polisi di bawah
-
-## Bahagian VII, sesuatu organisasi kawal selia sendiri Islam dan mana-mana
-
-entiti berlesen di bawah Akta yang dicadangkan.
+128. Fasal 139 memperuntukkan peruntukan kerahsiaan berkenaan dengan rekod, buku, daftar, surat-menyurat atau dokumen, bahan atau maklumat mengenai kumpulan wang bersama Islam, mana-mana pelanggan pemegang lesen bank Islam di bawah Bahagian VI, mana-mana pemunya polisi di bawah Bahagian VII, sesuatu organisasi kawal selia sendiri Islam dan mana-mana entiti berlesen di bawah Akta yang dicadangkan.
 
 129. Fasal 140 memperuntukkan peruntukan kerahsiaan berkenaan dengan Majlis Penyelia Shariah.
 

@@ -1,0 +1,153 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/36/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/36"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-36-1994",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/36/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/36/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/36/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/36/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/36/msa@/~cl_5"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Probet dan Pentadbiran (Pindaan) 1994"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/36/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/36/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/36/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/36/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/36/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/36/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Probet dan Pentadbiran (Pindaan) 1994."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/36/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/36/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini hendaklah mula berkuatkuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/36/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/36/msa@/~cl_2__para_a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/36/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Probet dan Pentadbiran 1959, yang disebut\"Akta"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ibu\" dalam Akta ini, adalah dipinda dalam seksyen 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/36/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/36/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif \"com- mencement of this Act\" takrif yang berikut: ' \"Corporation\" means Amanah Rava Berhad, a company incorporated under the Act 125. Companies Act 1965 and pursuant to section 3 Act of the Public Trust Corporation Act 1994;'; b) dengan memotong takrif \"Official Administra- tor\"; dan c) dalam takrif \"trust corporation\" dengan menggantikan perkataan \"Official Administrator or Public Trustee,\" dengan perkataan \"Cor- poration\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/36/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/36/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 23, subseksyen 39(1), seksyen 45, 48, 49 dan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "81 Akta ibu adalah dipinda dengan menggantikan perkataan \"Official Administrator\" dengan perkataan \"Corporation.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/36/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/36/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memotong seksyen 46, 78, 79, 80, 82, 83, 84, 85, 87, 88, 89 dan subseksyen 90(2)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/36/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/36/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/36/msa@/~cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/36/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 86 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/36/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/36/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam notabiraidenganmenggantikanperkataan \"Public Trustee\" dengan perkataan \"the Corporation\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/36/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/36/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dan (2) dengan subseksyen yang berikut: \"(1) Where upon the conclusion of the administration of the estate of a person dying testate or intestate, there remain in the hands of any personal representative funds of which he is unab;e to dispose immediately by distribution in accordance with law by reason of the inability of the person entitled to give a discharge, through lack of legal capacity or otherwise, or by reason of any other cause which to the Corporation shall appear sufficient, the personal representative may, if the Corporation consents to accept the same, pay the funds to the Corporation which shall not be required to make any inquiry whether the administration has been conducted in accordance with law, but may accept the same for the benefit of that person and may for the purpose exercise all the powers conferred on the Corporation under section 19 of the Public Act . Trust Corporation Act 1994. (2) The receipt of the Corporation may be accepted by the personal representative and shall constitute a full and sufficient discharge in respect of those funds.\"; dan (c} dengan memotong subseksyen (3)."
+      }
+    }
+  ]
+}

@@ -24,127 +24,131 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ## JADUAL
 
-Maksud Tajuk
+<!-- marginal: Maksud -->
+
+Tajuk
 
 <!-- marginal: Amaun -->
 
 <!-- marginal: (RM) -->
 
-B. 1 Parlimen
+<!-- marginal: B. 1 -->
 
-<!-- marginal: 47.586,617 -->
+Parlimen 47.586,617
 
-B. 2 Pejabat Penyimpan Mohor Besar Raja-Raja
+<!-- marginal: B. 2 -->
+
+Pejabat Penyimpan Mohor Besar Raja-Raja
 
 <!-- marginal: 1.257.300 -->
 
-B. 3 Jabatan Audit
+<!-- marginal: B. 3 -->
 
-<!-- marginal: 53,516.540 -->
+Jabatan Audit 53,516.540
 
-B. 4 Suruhanjaya Pilihan Raya
+<!-- marginal: B. 4 -->
 
-<!-- marginal: 24,588,490 -->
+Suruhanjaya Pilihan Raya 24,588,490
 
-B. 5 Suruhanjaya Perkhidmatan Awam
+<!-- marginal: B. 5 -->
 
-<!-- marginal: 27,911.600 -->
+Suruhanjaya Perkhidmatan Awam 27,911.600
 
-B. 6 Suruhanjaya Perkhidmatan Pendidikan
+<!-- marginal: B. 6 -->
 
-<!-- marginal: 6.935.100 -->
+Suruhanjaya Perkhidmatan Pendidikan 6.935.100
 
-B. 7 Jabatan Perdana Menteri
+<!-- marginal: B. 7 -->
 
-<!-- marginal: 1.423.757,407 -->
+Jabatan Perdana Menteri 1.423.757,407
 
-B. 8 Jabatan Perkhidmatan Awam
+<!-- marginal: B. 8 -->
 
-<!-- marginal: 614,964,880 -->
+Jabatan Perkhidmatan Awam 614,964,880
 
-B. 9 Jabatan Perangkaan
+<!-- marginal: B. 9 -->
 
-<!-- marginal: 71,416,514 -->
+Jabatan Perangkaan 71,416,514
 
-B. 10 Jabatan Peguam Negara
+<!-- marginal: B. 10 -->
 
-<!-- marginal: 48.415,400 -->
+Jabatan Peguam Negara 48.415,400
 
-B. 11 Badan Pencegah Rasuah
+<!-- marginal: B. 11 -->
 
-<!-- marginal: 63.810,600 -->
+Badan Pencegah Rasuah 63.810,600
 
-B. 12 Pejabat Setiausaha Persekutuan Sabah
+<!-- marginal: B. 12 -->
 
-<!-- marginal: 4,289,800 -->
+Pejabat Setiausaha Persekutuan Sabah 4,289,800
 
-B. 13 Pejabat Setiausaha Persekutuan Sarawak
+<!-- marginal: B. 13 -->
 
-<!-- marginal: 2.476,900 -->
+Pejabat Setiausaha Persekutuan Sarawak 2.476,900
 
-B. 14 Kementerian Perumahan dan Kerajaan
+<!-- marginal: B. 14 -->
 
-<!-- marginal: 123,632,700 -->
+Kementerian Perumahan dan Kerajaan 123,632,700 Tempatan
 
-Tempatan B. 15 Jabatan Perancangan Bandar dan Desa
+<!-- marginal: B. 15 -->
 
-<!-- marginal: 29,371.460 -->
+Jabatan Perancangan Bandar dan Desa 29,371.460
 
-B. 16 Jabatan Bomba dan Penyelamat
+<!-- marginal: B. 16 -->
 
-<!-- marginal: 392,905.500 -->
+Jabatan Bomba dan Penyelamat 392,905.500
 
-B. 17 Kementerian Belia dan Sukan
+<!-- marginal: B. 17 -->
 
-<!-- marginal: 158,574,600 -->
+Kementerian Belia dan Sukan 158,574,600
 
-B. 18 Kementerian Perusahaan Utama
+<!-- marginal: B. 18 -->
 
-<!-- marginal: 172,275,830 -->
+Kementerian Perusahaan Utama 172,275,830
 
-B. 19 Kementerian Pertanian
+<!-- marginal: B. 19 -->
 
-<!-- marginal: 1,316,155,772 -->
+Kementerian Pertanian 1,316,155,772
 
-B. 20 Kementerian Perdagangan Antarabangsa
+<!-- marginal: B. 20 -->
 
-<!-- marginal: 216.958.660 -->
+Kementerian Perdagangan Antarabangsa 216.958.660 dan Industri
 
-dan Industri B. 21 Kementerian Perdagangan Dalam
+<!-- marginal: B. 21 -->
 
-<!-- marginal: 143,204,100 -->
+Kementerian Perdagangan Dalam 143,204,100 Negeri dan Hal Ehwal Pengguna
 
-Negeri dan Hal Ehwal Pengguna B. 22 Kementerian Kebudayaan, Kesenian dan
+<!-- marginal: B. 22 -->
 
-<!-- marginal: 410,509,500 -->
+Kementerian Kebudayaan, Kesenian dan 410,509,500 Pelancongan
 
-Pelancongan B. 23 Jabatan Arkib Negara
+<!-- marginal: B. 23 -->
 
-<!-- marginal: 21.127,600 -->
+Jabatan Arkib Negara 21.127,600
 
-B. 24 Jabatan Muzium dan Antikuiti
+<!-- marginal: B. 24 -->
 
-<!-- marginal: 22,832,600 -->
+Jabatan Muzium dan Antikuiti 22,832,600
 
-B. 25 Kementerian Pertahanan
+<!-- marginal: B. 25 -->
 
-<!-- marginal: 5.295,300,800 -->
+Kementerian Pertahanan 5.295,300,800
 
-B. 26 Kementerian Pendidikan
+<!-- marginal: B. 26 -->
 
-<!-- marginal: 15,657,074,710 -->
+Kementerian Pendidikan 15,657,074,710
 
-B. 27 Jabatan Perpustakaan Negara
+<!-- marginal: B. 27 -->
 
-<!-- marginal: 32.036,120 -->
+Jabatan Perpustakaan Negara 32.036,120
 
-B. 28 Perbendaharaan
+<!-- marginal: B. 28 -->
 
-<!-- marginal: 546.665,058 -->
+Perbendaharaan 546.665,058
 
-B. 29 Perkhidmatan Am Perbendaharaan
+<!-- marginal: B. 29 -->
 
-<!-- marginal: 6,448,276,240 -->
+Perkhidmatan Am Perbendaharaan 6,448,276,240
 
 <!-- page 3 -->
 

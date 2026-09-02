@@ -50,9 +50,7 @@ hundred ringgit ($205,059,100) from the Consolidated Fund for expenditure on the
 
 <!-- marginal: Act A788 -->
 
-provided for or not fully provided for by the Supply Act
-
-1991.
+provided for or not fully provided for by the Supply Act 1991.
 
 <!-- page 2 -->
 
@@ -60,117 +58,109 @@ provided for or not fully provided for by the Supply Act
 
 ## FIRST SCHEDULE
 
-(Section 2) Title
+(Section 2) Title Appropriation
 
-<!-- marginal: Appropriation -->
+<!-- marginal: Purpose -->
 
-Purpose
+to purpose $
 
-<!-- marginal: to purpose -->
+<!-- marginal: B. 2 -->
 
-$ B. 2
+80,700 Office of the Keeper of the Rulers' Seal Election Commission
 
-<!-- marginal: 80,700 -->
+<!-- marginal: B. 4 -->
 
-Office of the Keeper of the Rulers' Seal Election Commission B. 4
+20,846,000
 
-<!-- marginal: 20,846,000 -->
+<!-- marginal: B. 5 -->
 
-B. 5 Public Services Commission
+Public Services Commission 580,300
 
-<!-- marginal: 580,300 -->
+<!-- marginal: B. 7 -->
 
-B. 7 Prime Minister's Department
+Prime Minister's Department 135,100,000
 
-<!-- marginal: 135,100,000 -->
+<!-- marginal: B. 10 -->
 
-B. 10 Attorney General's Chambers
+Attorney General's Chambers 959,800
 
-<!-- marginal: 959,800 -->
+<!-- marginal: B. 13 -->
 
-B. 13
+4,183.100 Ministry of Justice 63,310,000 Ministry of Agriculture
 
-<!-- marginal: 4,183.100 -->
+<!-- marginal: B. 19 -->
 
-Ministry of Justice
+Ministry of Education
 
-<!-- marginal: 63,310,000 -->
+<!-- marginal: B. 26 -->
 
-Ministry of Agriculture B. 19 Ministry of Education B. 26
+81,832,300 Ministry of Foreign Affairs
 
-<!-- marginal: 81,832,300 -->
+<!-- marginal: B. 27 -->
 
-Ministry of Foreign Affairs B. 27
+28,599,800 Treasury
 
-<!-- marginal: 28,599,800 -->
+<!-- marginal: B. 28 -->
 
-Treasury B. 28
+8,352,300 Treasury General Services
 
-<!-- marginal: 8,352,300 -->
+<!-- marginal: B. 29 -->
 
-Treasury General Services B. 29
+60,000,000 Contribution to Statutory Funds
 
-<!-- marginal: 60,000,000 -->
+<!-- marginal: B. 30 -->
 
-Contribution to Statutory Funds B. 30
+2,079,000,000
 
-<!-- marginal: 2,079,000,000 -->
+<!-- marginal: B. 34 -->
 
-B. 34 Ministry of Health
+Ministry of Health 20,000,000
 
-<!-- marginal: 20,000,000 -->
+<!-- marginal: B. 40 -->
 
-B. 40
+13,053,000 Prisons Department
 
-<!-- marginal: 13,053,000 -->
+<!-- marginal: B. 43 -->
 
-Prisons Department B. 43 Civil Defence Department
+Civil Defence Department 4,700
 
-<!-- marginal: 4,700 -->
+<!-- marginal: B. 47 -->
 
-B. 47
+2,193,000 Ministry of Transport
 
-<!-- marginal: 2,193,000 -->
+<!-- marginal: B. 51 -->
 
-Ministry of Transport B. 51
+721,900 Ministry of National Unity and Social Development
 
-<!-- marginal: 721,900 -->
+<!-- marginal: B. 52 -->
 
-Ministry of National Unity and Social Development B. 52
+3,905,100 Ministry of Works
 
-<!-- marginal: 3,905,100 -->
+<!-- marginal: B. 54 -->
 
-Ministry of Works B. 54 Ministry of Rural Development
-
-<!-- marginal: 18,748,000 -->
-
-<!-- marginal: 2,541,470,000 -->
+Ministry of Rural Development 18,748,000 2,541,470,000
 
 ## TOTAL
 
 ## SECOND SCHEDULE
 
-(Section 3)
+(Section 3) Appropriation
 
-<!-- marginal: Appropriation -->
+<!-- marginal: Purpose -->
 
-Purpose Title
+Title to purpose
 
-<!-- marginal: to purpose -->
+<!-- marginal: B. 7 -->
 
-B. 7 Prime Minister's Department
+Prime Minister's Department 5,782,000
 
-<!-- marginal: 5,782,000 -->
+<!-- marginal: B. 19 -->
 
-B. 19 Ministry of Agriculture
+Ministry of Agriculture 45,686,600
 
-<!-- marginal: 45,686,600 -->
+<!-- marginal: B. 20 -->
 
-B. 20
-
-<!-- marginal: 2,342,500 -->
-
-Ministry of International Trade and Industry
+2,342,500 Ministry of International Trade and Industry
 
 <!-- page 3 -->
 
@@ -186,11 +176,7 @@ B. 21 Ministry of Domestic Trade and
 
 <!-- marginal: 2,069,000 -->
 
-Consumer Affairs B. 3B. 36 Contribution to Statutory Funds
-
-<!-- marginal: 100,500,000 -->
-
-Royal Malaysia Police
+Consumer Affairs B. 3B. 36 Contribution to Statutory Funds 100,500,000 Royal Malaysia Police
 
 <!-- marginal: 10,000,000 -->
 

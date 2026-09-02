@@ -232,11 +232,13 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (p) to do all things expedient, necessary for or incidental to the performance of its functions under this Act.”; and
 
-(c) by inserting after subsection (4) the following subsection:
+(c) by inserting after subsection (4) the following
+
+<!-- marginal: subsection: -->
 
 “(4a) The provisions of the Fourth Schedule shall apply in respect of every corporation established by the Board under subsection (3).”.
 
-### New section 12a
+<!-- marginal: New section 12a -->
 
 7. The principal Act is amended by inserting after section 12 the following section:
 
@@ -364,9 +366,13 @@ unless he is registered in accordance with this Act.
 
 (iv) in paragraph (e), by deleting the words “under section 21”; and
 
-(b) by substituting for subsection (3) the following subsection:
+(b) by substituting for subsection (3) the following
 
-“(3) The Fund shall be expended for the following purposes:
+<!-- marginal: subsection: -->
+
+“(3) The Fund shall be expended for the following
+
+<!-- marginal: purposes: -->
 
 (a) paying any expenses lawfully incurred by the Board, including—
 
@@ -444,7 +450,7 @@ unless he is registered in accordance with this Act.
 
 17. The principal Act is amended by inserting after Part IV the following Part:
 
-“Part IVa
+## “PART IVA
 
 POWERS RElATING TO ENFORCEMENT, SEIZURE, ARREST, ETC.
 
@@ -756,7 +762,7 @@ of the timber, or the conveyance, machinery, contrivance, equipment, book, recor
 
 ### and 27I
 
-18. The principal Act is amended by deleting sections 27, 27a, 27b, 27c, 27d, 27e, 27f, 27g, 27h and 27I.
+18. The principal Act is amended by deleting sections 27, 27a, 27B, 27C, 27D, 27E, 27F, 27G, 27H AND 27I.
 
 ### Amendment of section 27j
 
@@ -964,7 +970,9 @@ or if in any other proceedings the Court is of the opinion that justice cannot b
 
 (Incorporation) (Amendment)
 
-“fIrst s chedule [section 2]
+## “FIRST S CHEDULE
+
+[section 2]
 
 ## DEFINITION OF TIMBERS
 
@@ -1044,7 +1052,9 @@ Prefabricated buildings, of wood 9406.00 200 ”.
 
 34. The principal Act is amended by substituting for the Third Schedule the following Schedule:
 
-“thIrd s chedule [section 2 and subsection 5(1)]
+## “THIRD S CHEDULE
+
+[section 2 and subsection 5(1)]
 
 ## RECOGNIZED ASSOCIATIONS
 
@@ -1090,7 +1100,9 @@ Malaysian Furniture Industry Council (MFIC)
 
 35. The principal Act is amended by inserting after the Third Schedule the following Schedule:
 
-“fourth s chedule [subsection 12(4a)]
+## “FOURTH S CHEDULE
+
+[subsection 12(4a)]
 
 ### Power of Board to make regulations in respect of corporation
 

@@ -27,8 +27,7 @@
       "hasPart": [
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/45/eng@/~cl_1",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/45/eng@/~cl_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/45/eng@/~cl_3",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/45/eng@/~sched_1"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/45/eng@/~cl_3"
       ],
       "schema:name": {
         "@language": "en",
@@ -74,17 +73,7 @@
       },
       "schema:text": {
         "@language": "en",
-        "@value": "substituting the words \"three hundred and twenty\" for the"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/45/eng@/~sched_1",
-      "@type": "akn:schedule",
-      "eli:number": "1",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/45/eng@",
-      "schema:text": {
-        "@language": "en",
-        "@value": "words \"two hundred and ten\" in paragraph 1(1) and (2)."
+        "@value": "substituting the words \"three hundred and twenty\" for the Schedule. words \"two hundred and ten\" in paragraph 1(1) and (2)."
       }
     }
   ]

@@ -42,7 +42,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 3. Akta ibu dipinda dengan memasukkan selepas Bahagian I Bahagian yang berikut:
 
-“Bahagian ia
+## “BAHAGIAN IA
 
 ## PERINTAH PERLINDUNGAN KECEMASAN
 
@@ -146,7 +146,9 @@ perintah itu, jika boleh dilaksanakan dalam masa sepuluh jam selepas perintah pe
 
 (a) hingga (f).
 
-(3B) Bagi maksud membuat perintah di bawah subseksyen (3a), peruntukan dalam subseksyen 6(3), (4) dan (5) hendaklah terpakai.
+(3B) Bagi maksud membuat perintah di bawah subseksyen (3a), peruntukan dalam subseksyen 6(3),
+
+(4) dan (5) hendaklah terpakai.
 
 (3c) Perintah yang diperuntukkan di bawah subseksyen (3a) hendaklah mempunyai kuat kuasa selama tempoh perintah perlindungan interim itu.”; dan
 

@@ -18,7 +18,21 @@ II
 
 ## REGISTRATION, ETC.
 
-5. Appointment of Registrar, Deputy Registrar, etc. 6. Registration. 7. Application for registration. 8. Approval or refusal of application for registration. 9. Effective date of registration of franchise. 10. Period of effectiveness. 11. Amendments to disclosure documents. 12. Notice of suspension, termination, etc., of registration. 13. Cancellation from register. 14. Registration of franchise broker. 15. Compulsory practice. 16. Annual report. 17. Appeal against Registrar's decision.
+5. Appointment of Registrar, Deputy Registrar, etc. 6. Registration. 7. Application for registration. 8. Approval or refusal of application for registration. 9. Effective date of registration of franchise.
+
+10. Period of effectiveness.
+
+11. Amendments to disclosure documents.
+
+12. Notice of suspension, termination, etc., of registration.
+
+13. Cancellation from register.
+
+14. Registration of franchise broker.
+
+15. Compulsory practice.
+
+16. Annual report. 17. Appeal against Registrar's decision.
 
 <!-- page 2 -->
 
@@ -26,7 +40,27 @@ II
 
 ## FRANCHISE AGREEMENT
 
-18. Requirements of franchise agreement. 19. Payment of franchise fee, etc. 20. Prohibition against discrimination. 21. Payment of franchise fees or royalty. 22. Promotion Fund. 23. Promotion fees, etc. 24. Registration of trade mark or service mark. 25. Franchise term. 26. Confidential information. 27. Prohibition against similar business. 28. Waivers void.
+18. Requirements of franchise agreement.
+
+19. Payment of franchise fee, etc.
+
+20. Prohibition against discrimination.
+
+21. Payment of franchise fees or royalty.
+
+22. Promotion Fund.
+
+23. Promotion fees, etc.
+
+24. Registration of trade mark or service mark.
+
+25. Franchise term.
+
+26. Confidential information.
+
+27. Prohibition against similar business.
+
+28. Waivers void.
 
 ## PART
 
@@ -36,13 +70,25 @@ IV
 
 ## OF FRANCHISE AGREEMENT
 
-29. Conduct of parties. 30. Obligations of franchisor and franchisee. 31. Termination of franchise agreement. 32. Non-renewal of franchise agreement. 33. Earlier termination of franchise term. 34. Extension of franchise term.
+29. Conduct of parties.
+
+30. Obligations of franchisor and franchisee.
+
+31. Termination of franchise agreement.
+
+32. Non-renewal of franchise agreement.
+
+33. Earlier termination of franchise term.
+
+34. Extension of franchise term.
 
 ## PART V
 
 ## FRANCHISE ADVISORY BOARD
 
-35. Franchise Advisory Board. 36. Functions of Franchise Advisory Board.
+35. Franchise Advisory Board.
+
+36. Functions of Franchise Advisory Board.
 
 <!-- page 3 -->
 
@@ -50,19 +96,49 @@ IV
 
 ## OFFENCES AND PENALTIES
 
-37. Offence for fraud, deceit, etc. 38. Obstruction of officers. 39. General penalty. 40. Offence by body corporate. 41. Compounding of offences.
+37. Offence for fraud, deceit, etc.
+
+38. Obstruction of officers.
+
+39. General penalty.
+
+40. Offence by body corporate.
+
+41. Compounding of offences.
 
 ## PART VII
 
 ## ENFORCEMENT
 
-42. Authorised officer. 43. Power to investigate. 44. Search by warrant. 45. Search and seizure without warrant. 46. Search of female person. 47. Access to computerised data. 48. List of things seized. 49. Power to require attendance of person acquainted with case. 50. Examination of person acquainted with case. 51. Additional powers. 52. Prosecution.
+42. Authorised officer.
+
+43. Power to investigate.
+
+44. Search by warrant.
+
+45. Search and seizure without warrant.
+
+46. Search of female person.
+
+47. Access to computerised data.
+
+48. List of things seized.
+
+49. Power to require attendance of person acquainted with case.
+
+50. Examination of person acquainted with case.
+
+51. Additional powers.
+
+52. Prosecution.
 
 ## PART VIII
 
 ## MISCELLANEOUS
 
-53. Sale of franchise to non-citizen subject to Registrar's approval. 54. Sale of franchise by foreigner in Malaysia. 55. Registration of franchisee of foreign franchisor. 56. Public inspection of disclosure documents. 57. Advertisement.
+53. Sale of franchise to non-citizen subject to Registrar's approval.
+
+54. Sale of franchise by foreigner in Malaysia. 55. Registration of franchisee of foreign franchisor. 56. Public inspection of disclosure documents. 57. Advertisement.
 
 <!-- page 4 -->
 
@@ -114,7 +190,9 @@ by the Minister by notification in the Gazette.
 
 (3) Nothing in this Act shall affect the provisions of any other written laws, but if there is any conflict between the provisions of this Act and the provisions of the other written laws, the provisions of this Act shall prevail.
 
-Interpretation. 4. In this Act, unless the context otherwise requires—
+<!-- marginal: Interpretation. -->
+
+4. In this Act, unless the context otherwise requires—
 
 "advertisement" means any publication, circular, notice, or any oral or written communication, whether broadcasted by electronic or any other publishing media, or any form of electronic communications to the public for the purpose of offering the sale of a franchise or promoting the sale of a franchise;
 
@@ -168,7 +246,23 @@ purpose of direct selling as provided by the Direct Sales Act 1993;
 
 ## REGISTRATION, ETC.
 
-Appointment 5. (1) The Minister may appoint a public officer as a of Registrar, Registrar of Franchises and such number of Deputy Deputy Registrar, Registrars of Franchises, Assistant Registrars of Franchises etc. and other officers as may be necessary for the purposes of this Act.
+<!-- marginal: Appointment -->
+
+5. (1) The Minister may appoint a public officer as a
+
+<!-- marginal: of Registrar, -->
+
+Registrar of Franchises and such number of Deputy
+
+<!-- marginal: Deputy -->
+
+<!-- marginal: Registrar, -->
+
+Registrars of Franchises, Assistant Registrars of Franchises
+
+<!-- marginal: etc. -->
+
+and other officers as may be necessary for the purposes of this Act.
 
 (2) The Registrar shall, subject to the general direction and control of the Minister, perform the duties imposed and exercise the powers conferred on him under this Act.
 
@@ -228,15 +322,45 @@ in the prescribed form together with—
 
 (6) A person who submits false or misleading information or documents under this section commits an offence.
 
-Approval or 8. (1) Upon receipt of an application for registration refusal of together with the information or documents required under application for section 7, the Registrar may approve or refuse the registration. application, and shall give the reason for the refusal.
+<!-- marginal: Approval or -->
+
+8. (1) Upon receipt of an application for registration
+
+<!-- marginal: refusal of -->
+
+together with the information or documents required under
+
+<!-- marginal: application -->
+
+<!-- marginal: for -->
+
+section 7, the Registrar may approve or refuse the
+
+<!-- marginal: registration. -->
+
+application, and shall give the reason for the refusal.
 
 (2) An application for registration which is approved under this section may be subject to such conditions as the Registrar may impose.
 
-(3) Upon approving an application under subsection (1), the Registrar may require the applicant to pay such amount of fees as may be prescribed.
+(3) Upon approving an application under subsection
+
+(1), the Registrar may require the applicant to pay such amount of fees as may be prescribed.
 
 (4) The Registrar shall give the applicant a written notice of his decision under this section.
 
-Effective 9. If the registration of a franchise is approved under date of section 8, the registration shall be effective on the date registration of franchise. stated in the written notice given by the Registrar and such date shall be after the date of the filing of all required
+<!-- marginal: Effective -->
+
+9. If the registration of a franchise is approved under
+
+<!-- marginal: date of -->
+
+section 8, the registration shall be effective on the date
+
+<!-- marginal: registration -->
+
+<!-- marginal: of franchise. -->
+
+stated in the written notice given by the Registrar and such date shall be after the date of the filing of all required
 
 <!-- page 11 -->
 
@@ -294,15 +418,29 @@ the franchisor written notice of his intention to do so, specifying the nature o
 
 (3) The Registrar shall give the applicant or franchisor written notice of his decision under subsection (2) and the decision shall take effect from the date on which the written notice is served on the applicant or franchisor.
 
-Cancellation
+<!-- marginal: Cancellation -->
 
-13. (1) A franchisor may, at any time after the franchise from term, apply to the Registrar for cancellation of the register. registration of the franchise from the register.
+13. (1) A franchisor may, at any time after the franchise
+
+<!-- marginal: from -->
+
+term, apply to the Registrar for cancellation of the
+
+<!-- marginal: register. -->
+
+registration of the franchise from the register.
 
 (2) The Registrar shall accordingly cancel the registration of the franchise from the register if he is satisfied that the franchisor is no longer granting rights under the franchise.
 
-Registration
+<!-- marginal: Registration -->
 
-14. (1) A franchise broker shall register himself with of franchise the Registrar in the following manner: broker.
+14. (1) A franchise broker shall register himself with
+
+<!-- marginal: of franchise -->
+
+the Registrar in the following manner:
+
+<!-- marginal: broker. -->
 
 (a) by using the prescribed application form; and
 
@@ -370,9 +508,15 @@ in the prescribed manner within one month from the date the decision is communic
 
 ## FRANCHISE AGREEMENT
 
-Requirements
+<!-- marginal: Requirements -->
 
-18. (1) A franchise agreement shall be in writing. of franchise agreement. (2) A franchise agreement shall contain but is not limited to—
+18. (1) A franchise agreement shall be in writing.
+
+<!-- marginal: of franchise -->
+
+<!-- marginal: agreement. -->
+
+(2) A franchise agreement shall contain but is not limited to—
 
 (a) the name and description of the product and business under the franchise;
 
@@ -446,9 +590,25 @@ discriminate between franchisees operating a franchise in the charges offered or
 
 (e) based on other reasonable distinctions considering the purposes of this Act and is not arbitrary.
 
-Payment of 21. If a franchisee is required to pay any franchise fees franchise fees or royalty to a franchisor, the rate of franchise fees or or royalty. royalty shall be the rate as provided in the disclosure documents.
+<!-- marginal: Payment of -->
 
-Promotion 22. (1) A franchisor who requires a franchisee to make Fund. any payment for the purpose of the promotion of a franchise shall establish a Promotion Fund ("Fund").
+21. If a franchisee is required to pay any franchise fees
+
+<!-- marginal: franchise fees -->
+
+or royalty to a franchisor, the rate of franchise fees or
+
+<!-- marginal: or royalty. -->
+
+royalty shall be the rate as provided in the disclosure documents.
+
+<!-- marginal: Promotion -->
+
+22. (1) A franchisor who requires a franchisee to make
+
+<!-- marginal: Fund. -->
+
+any payment for the purpose of the promotion of a franchise shall establish a Promotion Fund ("Fund").
 
 (2) The Fund shall be managed under a separate account and shall only be used for the promotion of the product under the franchise.
 
@@ -468,7 +628,9 @@ Promotion 22. (1) A franchisor who requires a franchisee to make Fund. any payme
 
 for promotional purposes or pay promotion fees to the franchisor, the payment shall be at the rate as provided in the disclosure documents.
 
-(2) The payment required to be made under subsection (1) shall be deposited into the Fund.
+(2) The payment required to be made under subsection
+
+(1) shall be deposited into the Fund.
 
 <!-- marginal: Registration -->
 
@@ -526,7 +688,13 @@ carry on any other business similar to the franchised business operated by the f
 
 (3) A person who fails to comply with subsection (1) or (2) commits an offence.
 
-Waivers 28. (1) Any condition, stipulation or provision in a void. franchise agreement purporting to bind a franchisee to waive compliance with any provision of this Act is void.
+<!-- marginal: Waivers -->
+
+28. (1) Any condition, stipulation or provision in a
+
+<!-- marginal: void. -->
+
+franchise agreement purporting to bind a franchisee to waive compliance with any provision of this Act is void.
 
 (2) This section shall not prevent any person from entering into a settlement agreement or executing a general release regarding a potential or actual civil action filed in respect of the franchise nor shall it prevent the arbitration of any claim.
 
@@ -536,9 +704,13 @@ Waivers 28. (1) Any condition, stipulation or provision in a void. franchise agr
 
 ## FRANCHISE AGREEMENT
 
-Conduct of
+<!-- marginal: Conduct of -->
 
-29. (1) A franchisor and a franchisee shall act in an parties. honest and lawful manner and shall endeavour to pursue the best franchise business practice of the time and place.
+29. (1) A franchisor and a franchisee shall act in an
+
+<!-- marginal: parties. -->
+
+honest and lawful manner and shall endeavour to pursue the best franchise business practice of the time and place.
 
 (2) A franchisor and a franchisee in their dealings with one another shall avoid the following conduct:
 
@@ -548,9 +720,19 @@ Conduct of
 
 (c) conduct that is not reasonably necessary for the protection of the legitimate business interests of the franchisor, franchisee or franchise system.
 
-Obligations
+<!-- marginal: Obligations -->
 
-30. (1) A franchisor shall give a written notice about a of franchisor breach of contract by a franchisee and allow the franchisee and franchisee. time to remedy the breach.
+30. (1) A franchisor shall give a written notice about a
+
+<!-- marginal: of franchisor -->
+
+breach of contract by a franchisee and allow the franchisee
+
+<!-- marginal: and -->
+
+<!-- marginal: franchisee. -->
+
+time to remedy the breach.
 
 (2) A franchisee shall pay the franchise fees, royalty, promotion fees or any other payment as provided in the franchise agreement.
 
@@ -604,25 +786,39 @@ without compensating a franchisee either by a repurchase
 
 or by other means at a price to be agreed to between the franchisor and the franchisee after considering the diminution in the value of the franchised business caused by the expiration of the franchise where—
 
-(a) the franchisee is barred by the franchise agreement, or by the refusal of the franchisor at least six months before the expiration date of the franchise agreement to waive any portion of the franchise agreement which prohibits the franchisee, from continuing
-
-<!-- marginal: to conduct -->
-
-substantially the same business under another mark in the same area subsequent to the expiration of the franchise agreement; or
+(a) the franchisee is barred by the franchise agreement, or by the refusal of the franchisor at least six months before the expiration date of the franchise agreement to waive any portion of the franchise agreement which prohibits the franchisee, from continuing to conduct substantially the same business under another mark in the same area subsequent to the expiration of the franchise agreement; or
 
 (b) the franchisee has not been given a written notice of the franchisor's intent not to renew the franchise agreement at least six months prior to the expiration date of the franchise agreement.
 
-Earlier
+<!-- marginal: Earlier -->
 
-33. (1) Notwithstanding section 25, a franchise term termination may be terminated before the expiry of the minimum of franchise term. term of five years in the following circumstances:
+33. (1) Notwithstanding section 25, a franchise term
+
+<!-- marginal: termination -->
+
+may be terminated before the expiry of the minimum
+
+<!-- marginal: of franchise -->
+
+<!-- marginal: term. -->
+
+term of five years in the following circumstances:
 
 (a) where both parties to the franchise agreement agree to a termination; or
 
 (b) where the court has decided that there are certain conditions in the franchise agreement which merit the agreement to be terminated earlier than the minimum term.
 
-Extension of
+<!-- marginal: Extension of -->
 
-34. (1) At any time before the expiration of the franchise franchise term, a franchisee shall at his option give written notice term. to the franchisor to extend the franchise term.
+34. (1) At any time before the expiration of the franchise
+
+<!-- marginal: franchise -->
+
+term, a franchisee shall at his option give written notice
+
+<!-- marginal: term. -->
+
+to the franchisor to extend the franchise term.
 
 (2) Except when a franchisee has breached the terms of a previous franchise agreement, a franchisor shall extend the franchise term to another period if the franchisee has applied for the extension of term under subsection (1).
 
@@ -682,7 +878,11 @@ commits an offence.
 
 <!-- page 22 -->
 
-Obstruction 38. A person who— of officers.
+<!-- marginal: Obstruction -->
+
+38. A person who—
+
+<!-- marginal: of officers. -->
 
 (a) obstructs any person appointed under this Act acting in pursuance of this Act;
 
@@ -692,9 +892,13 @@ Obstruction 38. A person who— of officers.
 
 commits an offence and shall, on conviction, be liable to a fine not exceeding two thousand ringgit or to imprisonment for a term not exceeding six months or to both.
 
-General
+<!-- marginal: General -->
 
-39. (1) A person who commits an offence under this penalty. Act for which no penalty is expressly provided shall, on conviction, be liable—
+39. (1) A person who commits an offence under this
+
+<!-- marginal: penalty. -->
+
+Act for which no penalty is expressly provided shall, on conviction, be liable—
 
 (a) for the first offence, to a fine of not less than five thousand ringgit and not more than fifty thousand ringgit; and
 
@@ -742,7 +946,9 @@ of the Public Prosecutor, compound any offence committed by any person under thi
 
 24 Bill
 
-(4) If an offence has been compounded under subsection (1), no prosecution shall be instituted in respect of the offence against the person to whom the offer to compound was made.
+(4) If an offence has been compounded under subsection
+
+(1), no prosecution shall be instituted in respect of the offence against the person to whom the offer to compound was made.
 
 (5) All sums of money received by the Registrar under this section shall be paid into and form part of the Federal Consolidated Fund.
 
@@ -750,21 +956,41 @@ of the Public Prosecutor, compound any offence committed by any person under thi
 
 ## ENFORCEMENT
 
-Authorised
+<!-- marginal: Authorised -->
 
-42. (1) The Minister may, in writing, authorise the officer. Registrar or any Deputy Registrar, Assistant Registrar or public officer to exercise the powers of enforcement under this Act.
+42. (1) The Minister may, in writing, authorise the
+
+<!-- marginal: officer. -->
+
+Registrar or any Deputy Registrar, Assistant Registrar or public officer to exercise the powers of enforcement under this Act.
 
 (2) In exercising any of the powers of enforcement under this Act, an authorised officer shall on demand produce to the person against whom he is acting the authority card signed by the Minister and issued to him.
 
-Power to
+<!-- marginal: Power to -->
 
-43. (1) An authorised officer may investigate the activities investigate. of a franchisor, franchise broker or franchisee for the purpose of determining whether he is complying with this Act.
+43. (1) An authorised officer may investigate the activities
+
+<!-- marginal: investigate. -->
+
+of a franchisor, franchise broker or franchisee for the purpose of determining whether he is complying with this Act.
 
 (2) For the purposes of subsection (1), the authorised officer may issue orders to a franchisor, franchise broker or franchisee to further his investigation and secure compliance with this Act.
 
-(3) In addition to his powers under subsections (1) and (2), in any case relating to the commission of an offence under this Act, an authorised officer carrying on an investigation may exercise all or any of the powers in relation to police investigation in seizable cases given F.M.S. by the Criminal Procedure Code. Cap. 6 Search by
+(3) In addition to his powers under subsections (1) and (2), in any case relating to the commission of an offence under this Act, an authorised officer carrying on an investigation may exercise all or any of the powers in relation to police investigation in seizable cases given
 
-44. (1) If it appears to a Magistrate, upon written warrant. information on oath and after such inquiry as he considers necessary, that there is reasonable cause to believe that
+<!-- marginal: F.M.S. -->
+
+by the Criminal Procedure Code.
+
+<!-- marginal: Cap. 6 -->
+
+<!-- marginal: Search by -->
+
+44. (1) If it appears to a Magistrate, upon written
+
+<!-- marginal: warrant. -->
+
+information on oath and after such inquiry as he considers necessary, that there is reasonable cause to believe that
 
 <!-- page 25 -->
 
@@ -788,21 +1014,53 @@ an offence under this Act is being or has been committed on any premises, the Ma
 
 document, computerised data, mark, signboard, card, letter, pamphlet, device or thing in the premises or container in which it is found.
 
-(6) A person who, without lawful authority, breaks, tampers with or damages the seal referred to in subsection (5) or removes any book, accounts, document, computerised data, mark, signboard, card, letter, pamphlet, device or thing under seal or attempts to do so commits an offence.
+(6) A person who, without lawful authority, breaks, tampers with or damages the seal referred to in subsection
 
-Search and
+(5) or removes any book, accounts, document, computerised data, mark, signboard, card, letter, pamphlet, device or thing under seal or attempts to do so commits an offence.
 
-45. If an authorised officer in any of the circumstances seizure referred to in section 44 has reasonable cause to believe without warrant. that by reason of delay in obtaining a search warrant under that section the investigation would be adversely affected or evidence of the commission of an offence is likely to be tampered with, removed, damaged or destroyed, such officer may enter the premises and exercise in, upon and in respect of the premises all the powers referred to in section 44 in as full and ample a manner as if he were authorised to do so by a warrant issued under that section.
+<!-- marginal: Search and -->
 
-Search of
+45. If an authorised officer in any of the circumstances
 
-46. No female person shall be searched under section 44 female or 45 except by another female person. person.
+<!-- marginal: seizure -->
 
-Access to 47. An authorised officer conducting a search under section computerised 44 or 45 or shall be given access to computerised data data. whether stored in a computer or otherwise.
+referred to in section 44 has reasonable cause to believe
 
-List of things
+<!-- marginal: without -->
 
-48. (1) Except as provided in subsection (2), where any seized. book, accounts, document, computerised data, mark, signboard, card, letter, pamphlet, device or thing is seized under section 44 or 45, the seizing officer shall prepare a list of the things seized and immediately deliver a copy of the list signed by him to the occupier of the premises which have been searched, or to his agent or servant, at those premises.
+<!-- marginal: warrant. -->
+
+that by reason of delay in obtaining a search warrant under that section the investigation would be adversely affected or evidence of the commission of an offence is likely to be tampered with, removed, damaged or destroyed, such officer may enter the premises and exercise in, upon and in respect of the premises all the powers referred to in section 44 in as full and ample a manner as if he were authorised to do so by a warrant issued under that section.
+
+<!-- marginal: Search of -->
+
+46. No female person shall be searched under section 44
+
+<!-- marginal: female -->
+
+or 45 except by another female person.
+
+<!-- marginal: person. -->
+
+<!-- marginal: Access to -->
+
+47. An authorised officer conducting a search under section
+
+<!-- marginal: computerised -->
+
+44 or 45 or shall be given access to computerised data
+
+<!-- marginal: data. -->
+
+whether stored in a computer or otherwise.
+
+<!-- marginal: List of things -->
+
+48. (1) Except as provided in subsection (2), where any
+
+<!-- marginal: seized. -->
+
+book, accounts, document, computerised data, mark, signboard, card, letter, pamphlet, device or thing is seized under section 44 or 45, the seizing officer shall prepare a list of the things seized and immediately deliver a copy of the list signed by him to the occupier of the premises which have been searched, or to his agent or servant, at those premises.
 
 (2) Where the premises are unoccupied, the seizing officer shall whenever possible post a list of the things seized conspicuously on the premises.
 
@@ -872,27 +1130,81 @@ execution of this Act, have power to do all or any of the following:
 
 (c) to make such inquiry as may be necessary to ascertain whether the provisions of this Act have been complied with.
 
-Prosecution. 52. No prosecution shall be instituted under this Act without the consent in writing of the Public Prosecutor.
+<!-- marginal: Prosecution. -->
+
+52. No prosecution shall be instituted under this Act without the consent in writing of the Public Prosecutor.
 
 ## PART VIII
 
 ## MISCELLANEOUS
 
-Sale of 53. A franchisor who intends to sell a franchise to a franchise to person who is not a Malaysian citizen shall obtain the non-citizen subject to approval of, and be subject to the conditions which may Registrar's be imposed by, the Registrar. approval.
+<!-- marginal: Sale of -->
 
-Sale of
+53. A franchisor who intends to sell a franchise to a
 
-54. (1) A foreign person who intends to sell a franchise franchise by in Malaysia or to any Malaysian citizen shall submit an foreigner in Malaysia. application to the Registrar.
+<!-- marginal: franchise to -->
+
+person who is not a Malaysian citizen shall obtain the
+
+<!-- marginal: non-citizen -->
+
+<!-- marginal: subject to -->
+
+approval of, and be subject to the conditions which may
+
+<!-- marginal: Registrar's -->
+
+be imposed by, the Registrar.
+
+<!-- marginal: approval. -->
+
+<!-- marginal: Sale of -->
+
+54. (1) A foreign person who intends to sell a franchise
+
+<!-- marginal: franchise by -->
+
+in Malaysia or to any Malaysian citizen shall submit an
+
+<!-- marginal: foreigner in -->
+
+<!-- marginal: Malaysia. -->
+
+application to the Registrar.
 
 (2) The Registrar may approve or refuse an application under subsection (1) without giving any reason for the refusal.
 
 (3) An application which is approved under this section may be subject to such conditions as the Registrar may impose.
 
-Registration 55. (1) Notwithstanding section 6, a franchisee of a of franchisee foreign franchisor shall register his franchise with the of foreign franchisor. Registrar by using the prescribed application form.
+<!-- marginal: Registration -->
+
+55. (1) Notwithstanding section 6, a franchisee of a
+
+<!-- marginal: of franchisee -->
+
+foreign franchisor shall register his franchise with the
+
+<!-- marginal: of foreign -->
+
+<!-- marginal: franchisor. -->
+
+Registrar by using the prescribed application form.
 
 (2) The Registrar may impose conditions on the registration of a franchisee referred to in subsection (1).
 
-Public 56. The Registrar may allow the public inspection of inspection of any disclosure documents filed with the Registrar unless, disclosure documents. in his opinion, the inspection may bring harm to a franchisor
+<!-- marginal: Public -->
+
+56. The Registrar may allow the public inspection of
+
+<!-- marginal: inspection of -->
+
+any disclosure documents filed with the Registrar unless,
+
+<!-- marginal: disclosure -->
+
+<!-- marginal: documents. -->
+
+in his opinion, the inspection may bring harm to a franchisor
 
 <!-- page 29 -->
 
@@ -928,7 +1240,7 @@ or maintained in any court against—
 
 <!-- page 30 -->
 
-Regulations.
+<!-- marginal: Regulations. -->
 
 60. (1) The Minister may make regulations for all or any of the following purposes:
 
@@ -948,9 +1260,13 @@ Regulations.
 
 (2) The regulations made under subsection (1) may prescribe any act in contravention of the regulations to be an offence and may prescribe penalties of a fine not exceeding ten thousand ringgit or imprisonment for a term not exceeding five years or both.
 
-Savings and
+<!-- marginal: Savings and -->
 
-61. A franchisor or a franchise broker who has granted transitional. or sold in or outside Malaysia a franchise to a franchisee before the commencement of this Act shall, not later than twelve months from the commencement, register his franchise with the Registrar in accordance with the prescribed procedure and requirements under this Act.
+61. A franchisor or a franchise broker who has granted
+
+<!-- marginal: transitional. -->
+
+or sold in or outside Malaysia a franchise to a franchisee before the commencement of this Act shall, not later than twelve months from the commencement, register his franchise with the Registrar in accordance with the prescribed procedure and requirements under this Act.
 
 <!-- page 31 -->
 

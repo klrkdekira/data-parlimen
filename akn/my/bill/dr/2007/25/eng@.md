@@ -22,7 +22,15 @@
 
 ## OF PRESCRIBED SOLID WASTE MANAGEMENT FACILITIES
 
-8. Construction or alteration of prescribed solid waste management facilities 9. Recommendation by the Corporation 10. Grant or refusal of approval 11. Review of approval 12. Application to close any prescribed solid waste management facilities 13. Right of appeal to the Minister
+8. Construction or alteration of prescribed solid waste management facilities 9. Recommendation by the Corporation
+
+10. Grant or refusal of approval
+
+11. Review of approval
+
+12. Application to close any prescribed solid waste management facilities
+
+13. Right of appeal to the Minister
 
 <!-- page 2 -->
 
@@ -32,23 +40,91 @@ Bill
 
 ## LICENSING PROVISIONS
 
-14. Requirement for licence 15. Power to exempt from requirement for licence 16. Application for licence 17. Additional information or document 18. Recommendation by the Corporation 19. Grant or refusal of licence 20. Compliance with licence conditions 21. Power to impose additional, vary or revoke conditions 22. Transfer of licence 23. Suspension and revocation of licence 24. Effective date of revocation of licence 25. Surrender of licence 26. Renewal of licence 27. Effect of revocation, surrender or non-renewal of licence 28. Register of licence 29. Right of appeal to the Minister
+14. Requirement for licence
+
+15. Power to exempt from requirement for licence
+
+16. Application for licence
+
+17. Additional information or document
+
+18. Recommendation by the Corporation
+
+19. Grant or refusal of licence
+
+20. Compliance with licence conditions
+
+21. Power to impose additional, vary or revoke conditions
+
+22. Transfer of licence
+
+23. Suspension and revocation of licence
+
+24. Effective date of revocation of licence
+
+25. Surrender of licence
+
+26. Renewal of licence
+
+27. Effect of revocation, surrender or non-renewal of licence
+
+28. Register of licence
+
+29. Right of appeal to the Minister
 
 ## PART V
 
 ## CHARGES
 
-30. Power to impose charges, etc. 31. Recovery of controlled solid waste charges, fees or levy 32. Failure or refusal to pay charges, fees or levy
+30. Power to impose charges, etc.
+
+31. Recovery of controlled solid waste charges, fees or levy
+
+32. Failure or refusal to pay charges, fees or levy
 
 ## PART VI
 
 ## TRIBUNAL FOR SOLID WASTE MANAGEMENT SERVICES
 
-33. Meaning of "interested person" 34. Establishment of Tribunal for Solid Waste Management Services 35. Membership of Tribunal 36. Temporary exercise of functions of Chairman
+33. Meaning of "interested person"
+
+34. Establishment of Tribunal for Solid Waste Management Services
+
+35. Membership of Tribunal
+
+36. Temporary exercise of functions of Chairman
 
 <!-- page 3 -->
 
-37. Vacation of office 38. Revocation of appointment 39. Resignation 40. Filling of vacancy 41. Remuneration 42. Secretary to Tribunal and other officers 43. Sittings of Tribunal 44. Commencement of proceedings 45. Jurisdiction of Tribunal 46. Limitation of jurisdiction 47. Extension of jurisdiction by agreement 48. Abandonment to bring claim within jurisdiction 49. Cause of action not to be split 50. Exclusion of jurisdiction of court 51. Notice of claim and hearing 52. Negotiation for settlement 53. Right to appear at hearings 54. Proceedings to be public 55. Evidence 56. Tribunal may act in absence of party 57. Awards of the Tribunal 58. Reference to a Judge of the High Court on a question of law 59. Reasons for decision 60. Orders and settlement to be recorded in writing 61. Decisions of Tribunal to be final 62. Criminal penalty for failure to comply 63. Procedure where no provision is made 64. Want of form 65. Disposal of documents, etc. 66. Act or omission done in good faith 67. Regulations in respect of the Tribunal
+37. Vacation of office
+
+38. Revocation of appointment
+
+39. Resignation
+
+40. Filling of vacancy
+
+41. Remuneration
+
+42. Secretary to Tribunal and other officers
+
+43. Sittings of Tribunal
+
+44. Commencement of proceedings
+
+45. Jurisdiction of Tribunal
+
+46. Limitation of jurisdiction
+
+47. Extension of jurisdiction by agreement
+
+48. Abandonment to bring claim within jurisdiction
+
+49. Cause of action not to be split
+
+50. Exclusion of jurisdiction of court
+
+51. Notice of claim and hearing 52. Negotiation for settlement 53. Right to appear at hearings 54. Proceedings to be public 55. Evidence 56. Tribunal may act in absence of party 57. Awards of the Tribunal 58. Reference to a Judge of the High Court on a question of law 59. Reasons for decision 60. Orders and settlement to be recorded in writing 61. Decisions of Tribunal to be final 62. Criminal penalty for failure to comply 63. Procedure where no provision is made 64. Want of form 65. Disposal of documents, etc. 66. Act or omission done in good faith 67. Regulations in respect of the Tribunal
 
 ## PART VII
 
@@ -66,29 +142,85 @@ Bill
 
 ## IN POSSESSION OF CONTROLLED SOLID WASTE
 
-71. Prohibition against unauthorized depositing, treatment, etc., of controlled solid waste 72. Prohibition against unauthorized escape of any controlled solid waste 73. Waste placed in receptacles or deposit sites for controlled solid waste 74. Power to direct for controlled solid waste to be separated, handled and stored 75. Power to direct controlled solid waste to be removed 76. Power to direct removal of unlawful depositing or disposing of controlled solid waste 77. Offences for causing damage to vehicles, receptacles or other solid waste management facilities.
+71. Prohibition against unauthorized depositing, treatment, etc., of controlled solid waste
+
+72. Prohibition against unauthorized escape of any controlled solid waste
+
+73. Waste placed in receptacles or deposit sites for controlled solid waste
+
+74. Power to direct for controlled solid waste to be separated, handled and stored
+
+75. Power to direct controlled solid waste to be removed
+
+76. Power to direct removal of unlawful depositing or disposing of controlled solid waste
+
+77. Offences for causing damage to vehicles, receptacles or other solid waste management facilities.
 
 ## PART IX
 
 ## ENFORCEMENT PROVISIONS
 
-78. Authorized officers 79. Power of enforcement 80. Power of investigation 81. Search and seizure with warrant 82. Search and seizure without warrant 83. Access to computerised data 84. Power to stop, search and seize vehicle 85. List of things seized 86. Temporary return of seized property, etc. 87. Power to require attendance of person acquainted with case 88. Examination of person acquainted with case 89. Admissibility of statements 90. Forfeiture or release of seized property, etc. 91. Cost of holding seized property, etc. 92. No costs or damages arising from seizure to be recoverable 93. Obstruction
+78. Authorized officers
+
+79. Power of enforcement
+
+80. Power of investigation
+
+81. Search and seizure with warrant
+
+82. Search and seizure without warrant
+
+83. Access to computerised data
+
+84. Power to stop, search and seize vehicle
+
+85. List of things seized
+
+86. Temporary return of seized property, etc.
+
+87. Power to require attendance of person acquainted with case
+
+88. Examination of person acquainted with case
+
+89. Admissibility of statements
+
+90. Forfeiture or release of seized property, etc.
+
+91. Cost of holding seized property, etc.
+
+92. No costs or damages arising from seizure to be recoverable
+
+93. Obstruction
 
 <!-- page 5 -->
 
-94. Compounding of offences 95. Institution of prosecution 96. Offences by body corporate 97. Service of document 98. Inaccuracies in documents 99. Liability of transferor 100. Solid waste management facilities installed or constructed without approval before the coming into operation of this Act
+94. Compounding of offences 95. Institution of prosecution 96. Offences by body corporate 97. Service of document 98. Inaccuracies in documents 99. Liability of transferor
+
+100. Solid waste management facilities installed or constructed without approval before the coming into operation of this Act
 
 ## PART X
 
 ## REDUCTION AND RECOVERY OF CONTROLLED SOLID WASTE
 
-101. Reduction, reuse and recycling of controlled solid waste 102. Take back system and deposit refund system
+101. Reduction, reuse and recycling of controlled solid waste
+
+102. Take back system and deposit refund system
 
 ## PART XI
 
 ## GENERAL
 
-103. Solid Waste and Public Cleansing Management Fund 104. Power to exempt 105. Protection of Director General and other officers 106. Jurisdiction to try offences 107. General penalty 108. Regulations
+103. Solid Waste and Public Cleansing Management Fund
+
+104. Power to exempt
+
+105. Protection of Director General and other officers
+
+106. Jurisdiction to try offences
+
+107. General penalty
+
+108. Regulations
 
 ## PART XII
 
@@ -1700,7 +1832,11 @@ may, in his discretion, temporarily return such thing to the owner or the person
 
 Bill
 
-(4) An authorized officer examining a person under subsection (1) shall first inform that person of the provisions of subsections (2) and (3).
+(4) An authorized officer examining a person under subsection
+
+(1) shall first inform that person of the provisions of subsections
+
+(2) and (3).
 
 (5) A statement made by any person under this section shall, whenever possible, be reduced into writing and signed by the person making it or affixed with his thumb-print, as the case may be —
 
@@ -1744,7 +1880,9 @@ of any statement made by him to an authorized officer in the course of an invest
 
 Bill
 
-(6) If no claim is made under subsection (7) within thirty days from the date of service of the notice referred to in subsection (4), the property, equipment, machinery, book, record, document, container, receptacle or other article, or the vehicle or any thing found in the vehicle, seized under this Act shall be taken and deemed to be forfeited at the expiration of that period.
+(6) If no claim is made under subsection (7) within thirty days from the date of service of the notice referred to in subsection
+
+(4), the property, equipment, machinery, book, record, document, container, receptacle or other article, or the vehicle or any thing found in the vehicle, seized under this Act shall be taken and deemed to be forfeited at the expiration of that period.
 
 (7) A person who asserts that he is the owner of the property, equipment, machinery, book, record, document, container, receptacle or other article, or the vehicle or any thing found in the vehicle, referred to in subsection (4) and that it is not liable to forfeiture may personally or by his agent authorized in writing give written notice to the authorized officer in whose possession such thing is held that he claims the thing.
 
@@ -1888,7 +2026,9 @@ the Director General may make a written complaint to a Magistrate.
 
 Bill
 
-(2) Upon receipt of the written complaint under subsection (1), the Magistrate shall issue a summons requiring the owner or occupier of the solid waste management facilities to appear before the Magistrate and upon his appearance or default to appear, but due service of the summons being proved, the Magistrate shall proceed to hear the complaint and may —
+(2) Upon receipt of the written complaint under subsection
+
+(1), the Magistrate shall issue a summons requiring the owner or occupier of the solid waste management facilities to appear before the Magistrate and upon his appearance or default to appear, but due service of the summons being proved, the Magistrate shall proceed to hear the complaint and may —
 
 (a) dismiss the complaint; or
 

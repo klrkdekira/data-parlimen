@@ -6,25 +6,25 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran 3. Serahan
 
-## Bahagian II
+## BAHAGIAN II
 
 ## FUNGSI SURUHANJAYA
 
 4. Fungsi Suruhanjaya 5. Memastikan peruntukan perkhidmatan sejagat 6. Pemantauan dan pelaporan kepada Menteri
 
-## Bahagian III
+## BAHAGIAN III
 
 ## KUASA DAN TATACARA MENTERI
 
 7. Arahan oleh Menteri 8. Pengubahan arahan 9. Daftar arahan
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PERUNTUKAN PELESENAN
 
@@ -58,7 +58,7 @@
 
 23. Notis tentang niat untuk menggantung operasi
 
-## Bahagian V
+## BAHAGIAN V
 
 PERUNTUKAN bERHUbUNG DENGAN PEMEGANG LESEN
 
@@ -80,7 +80,7 @@ PERUNTUKAN bERHUbUNG DENGAN PEMEGANG LESEN
 
 31. Pengecualian daripada liabiliti bagi kehilangan, salah serahan, kelengahan atau kerosakan
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## TERMA DAN SYARAT AM PERKHIDMATAN POS
 
@@ -90,7 +90,7 @@ PERUNTUKAN bERHUbUNG DENGAN PEMEGANG LESEN
 
 <!-- page 3 -->
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PERKHIDMATAN YANG LAIN
 
@@ -98,7 +98,7 @@ PERUNTUKAN bERHUbUNG DENGAN PEMEGANG LESEN
 
 35. Perkhidmatan pos elektronik
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## PENGAWALSELIAAN KADAR
 
@@ -106,7 +106,7 @@ PERUNTUKAN bERHUbUNG DENGAN PEMEGANG LESEN
 
 37. Kadar boleh dikawal selia
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## AMALAN PERSAINGAN AM
 
@@ -132,7 +132,7 @@ PERUNTUKAN bERHUbUNG DENGAN PEMEGANG LESEN
 
 48. Menteri boleh membuat peraturan-peraturan
 
-## Bahagian X
+## BAHAGIAN X
 
 ## PELINDUNGAN PENGGUNA
 
@@ -154,7 +154,7 @@ PERUNTUKAN bERHUbUNG DENGAN PEMEGANG LESEN
 
 56. Penalti bagi mendedahkan isi kandungan barang pos secara menyalahi undang-undang
 
-## Bahagian XI
+## BAHAGIAN XI
 
 ## SISTEM POSKOD DAN PENGALAMATAN SERTA PENGENAL PASTI POS
 
@@ -162,7 +162,7 @@ PERUNTUKAN bERHUbUNG DENGAN PEMEGANG LESEN
 
 58. Penguntukan pengenal pasti pos
 
-## Bahagian XII
+## BAHAGIAN XII
 
 ## KUASA DAN TATACARA SURUHANJAYA KOMUNIKASI DAN
 
@@ -190,7 +190,7 @@ Penyiasatan
 
 63. Penyiaran laporan
 
-## Bahagian XIII
+## BAHAGIAN XIII
 
 ## KESALAHAN DAN PENALTI
 
@@ -210,7 +210,7 @@ Penyiasatan
 
 70. Mengusik tanda rasmi pada barang pos
 
-## Bahagian XIV
+## BAHAGIAN XIV
 
 ## KUASA MENGUMPULKAN MAKLUMAT DAN PERUNTUKAN PENGUATKUASAAN
 
@@ -282,7 +282,7 @@ Pelbagai
 
 97. Persubahatan dan cubaan boleh dihukum sebagai kesalahan
 
-## Bahagian XV
+## BAHAGIAN XV
 
 AM
 
@@ -300,7 +300,7 @@ AM
 
 104. Pelindungan terhadap pegawai dan orang lain
 
-## Bahagian XVI
+## BAHAGIAN XVI
 
 ## PERKARA KEPENTINGAN NEGARA
 
@@ -316,15 +316,11 @@ AM
 
 <!-- page 7 -->
 
-## Bahagian XVII
+## BAHAGIAN XVII
 
 ## KECUALIAN DAN PERALIHAN
 
-110. Kecualian dan peralihan
-
-111. Lesen-lesen yang dikeluarkan di bawah Akta yang telah dimansuhkan bagi tempoh tiga tahun atau kurang
-
-112. Lesen-lesen yang dikeluarkan di bawah Akta yang telah dimansuhkan bagi suatu tempoh lebih daripada tiga tahun
+110. Kecualian dan peralihan 111. Lesen-lesen yang dikeluarkan di bawah Akta yang telah dimansuhkan bagi tempoh tiga tahun atau kurang 112. Lesen-lesen yang dikeluarkan di bawah Akta yang telah dimansuhkan bagi suatu tempoh lebih daripada tiga tahun
 
 <!-- page 9 -->
 
@@ -334,7 +330,7 @@ Suatu Akta untuk mengadakan peruntukan mengenai pelesenan dan pengawalseliaan in
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -462,7 +458,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (c) meninggalkan sesuatu barang pos dengan penerima atau pengkhidmat atau ejennya atau dengan mana-mana orang lain yang dianggap sebagai diberi kuasa oleh penerima untuk menerima barang pos, mengikut cara biasa bagi penyerahan barang pos kepada penerima, dan jika penerima adalah seorang tetamu atau sedang tinggal di sesuatu hotel, serahan kepada tuan punya atau pengurus hotel itu atau ejennya hendaklah disifatkan sebagai serahan kepada penerima.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## FUNGSI SURUHANJAYA
 
@@ -554,7 +550,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (3) Suruhanjaya hendaklah menyiarkan laporan itu mengikut cara yang difikirkannya sesuai, dengan secepat yang dapat dilaksanakan berikutan dari tarikh Suruhanjaya menyerahkan laporan itu kepada Menteri.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## KUASA DAN TATACARA MENTERI
 
@@ -586,7 +582,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 9. Suruhanjaya hendaklah menyenggarakan suatu daftar semua arahan termasuklah apa-apa pengubahsuaian, pengubahan atau pembatalan sesuatu arahan yang dikeluarkan oleh Menteri mengikut subseksyen 99(1).
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PERUNTUKAN PELESENAN
 
@@ -790,7 +786,7 @@ mengemukakan suatu syor bertulis kepada Menteri.
 
 23. Pemegang lesen hendaklah memberitahu Suruhanjaya, secara bertulis, tentang apa-apa niat untuk menggantung operasi mengikut cara yang ditetapkan oleh Menteri.
 
-## Bahagian V
+## BAHAGIAN V
 
 PERUNTUKAN bERHUbUNG DENGAN PEMEGANG
 
@@ -858,7 +854,7 @@ PERUNTUKAN bERHUbUNG DENGAN PEMEGANG
 
 31. Pemegang lesen perkhidmatan sejagat tidaklah bertanggungan bagi apa-apa kehilangan, salah serahan, kelengahan atau kerosakan kepada mana-mana barang pos dalam perjalanan penyaluran borang pos itu, melainkan jika terbukti bahawa pemegang lesen perkhidmatan sejagat telah melakukannya dengan niat jahat atau secara cuai atau sengaja, menyebabkan kehilangan, salah serahan, kelengahan atau kerosakan itu.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## TERMA DAN SYARAT AM PERKHIDMATAN POS
 
@@ -884,7 +880,7 @@ PERUNTUKAN bERHUbUNG DENGAN PEMEGANG
 
 (3) Walau apa pun subseksyen (2), jika pemegang lesen perkhidmatan sejagat telah bersetuju secara kontrak dengan pihak lain mengenai peruntukan had daripada liabiliti, terma dan syarat berkontrak tersebut hendaklah mengatasi.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PERKHIDMATAN YANG LAIN
 
@@ -906,7 +902,7 @@ PERUNTUKAN bERHUbUNG DENGAN PEMEGANG
 
 (3) Suruhanjaya boleh menyiarkan garis panduan berkenaan dengan semua perkara berhubung dengan perkhidmatan pos elektronik.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## PENGAWALSELIAAN KADAR
 
@@ -940,7 +936,7 @@ PERUNTUKAN bERHUbUNG DENGAN PEMEGANG
 
 (3) Menteri boleh, melalui perintah yang disiarkan dalam Warta mengecualikan mana-mana orang daripada pembayaran apa-apa kadar berhubung dengan perkhidmatan pos mengikut terma dan syarat yang difikirkannya sesuai.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## AMALAN PERSAINGAN AM
 
@@ -1058,7 +1054,7 @@ PERUNTUKAN bERHUbUNG DENGAN PEMEGANG
 
 (b) salah guna kuasa pasaran dalam suatu pasaran pos.
 
-## Bahagian X
+## BAHAGIAN X
 
 ## PELINDUNGAN PENGGUNA
 
@@ -1198,7 +1194,7 @@ PERUNTUKAN bERHUbUNG DENGAN PEMEGANG
 
 56. Mana-mana orang yang menzahirkan, mendedahkan atau dengan apa-apa cara lain memberitahu isi kandungan mana-mana barang pos yang dibuka di bawah kuasa Akta ini, melainkan setakat yang perlu bagi maksud mengembalikan barang pos itu atau sebagaimana yang diberi kuasa oleh Suruhanjaya secara bertulis, adalah melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit atau dipenjara selama tempoh tidak melebihi satu tahun, atau kedua-duanya.
 
-## Bahagian XI
+## BAHAGIAN XI
 
 ## SISTEM POSKOD DAN PENGALAMATAN SERTA PENGENAL
 
@@ -1220,7 +1216,7 @@ PERUNTUKAN bERHUbUNG DENGAN PEMEGANG
 
 <!-- page 42 -->
 
-## Bahagian XII
+## BAHAGIAN XII
 
 ## KUASA DAN TATACARA SURUHANJAYA KOMUNIKASI DAN
 
@@ -1270,7 +1266,7 @@ Penyiasatan
 
 63. Menteri boleh mengarahkan Suruhanjaya supaya menyiarkan suatu laporan mengenai sesuatu penyiasatan jika Menteri berpuas hati bahawa penyiaran itu adalah demi kepentingan negara.
 
-## Bahagian XIII
+## BAHAGIAN XIII
 
 ## KESALAHAN DAN PENALTI
 
@@ -1356,7 +1352,7 @@ bagi maksud mengelak bayaran pos.
 
 (2) Seseorang yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya.
 
-## Bahagian XIV
+## BAHAGIAN XIV
 
 ## KUASA MENGUMPULKAN MAKLUMAT DAN PERUNTUKAN
 
@@ -1726,7 +1722,7 @@ atau penalti yang sama bagi tiap-tiap perbuatan, peninggalan, pengabaian atau ke
 
 Dengan syarat bahawa apa-apa tempoh pemenjaraan yang dikenakan tidak boleh melebihi setengah daripada tempoh maksimum yang diperuntukkan bagi kesalahan itu.
 
-## Bahagian XIV
+## BAHAGIAN XIV
 
 AM
 
@@ -1886,7 +1882,7 @@ ahli, pegawai, pekhidmat atau ejen Suruhanjaya atau mana-mana pegawai yang diber
 
 (b) mana-mana orang lain berkenaan dengan apa-apa perbuatan yang dilakukan atau berupa sebagai dilakukan olehnya di bawah perintah, arahan atau suruhan Suruhanjaya atau pegawai yang diberi kuasa jika perbuatan itu dilakukan dengan suci hati dan dengan kepercayaan munasabah bahawa ia perlu bagi maksud yang dihasratkan untuk dicapai melaluinya.
 
-## Bahagian XVI
+## BAHAGIAN XVI
 
 ## PERKARA KEPENTINGAN NEGARA
 
@@ -1932,7 +1928,7 @@ ahli, pegawai, pekhidmat atau ejen Suruhanjaya atau mana-mana pegawai yang diber
 
 109. Suruhanjaya boleh mengarahkan mana-mana pemegang lesen untuk membangunkan, dengan berunding dengan pihak berkuasa sebagaimana yang dinyatakan oleh Suruhanjaya, suatu pelan bencana bagi terus kekal dan pemulihan mana-mana rangkaian kemudahan atau perkhidmatan pos dalam hal bencana, krisis atau keselamatan awam.
 
-## Bahagian XVII
+## BAHAGIAN XVII
 
 ## KECUALIAN DAN PERALIHAN
 
@@ -1970,7 +1966,7 @@ ahli, pegawai, pekhidmat atau ejen Suruhanjaya atau mana-mana pegawai yang diber
 
 (3) Suatu lesen yang dikeluarkan di bawah Akta yang dimansuhkan bagi suatu tempoh lebih daripada tiga tahun hendaklah luput jika pemegang tidak memohon bagi suatu lesen di bawah Akta ini dalam masa dua tahun selepas tarikh yang ditetapkan sebagaimana yang dinyatakan di bawah subseksyen (2).
 
-## Jadual Pertama
+## JADUAL PERTAMA
 
 [Seksyen 12]
 
@@ -1998,7 +1994,7 @@ ahli, pegawai, pekhidmat atau ejen Suruhanjaya atau mana-mana pegawai yang diber
 
 <!-- page 74 -->
 
-## Jadual Kedua
+## JADUAL KEDUA
 
 [Seksyen 24]
 
@@ -2048,7 +2044,7 @@ Akta Perkhidmatan Pos 2011 (“Akta”) yang dicadangkan oleh Rang Undang- Undan
 
 (h) untuk memastikan persaingan yang adil di kalangan pihak-pihak yang terlibat dalam industri perkhidmatan pos di Malaysia.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. bahagian I Akta memperkatakan mengenai perkara permulaan.
 
@@ -2058,7 +2054,7 @@ Akta Perkhidmatan Pos 2011 (“Akta”) yang dicadangkan oleh Rang Undang- Undan
 
 5. Fasal 3 mengandungi takrif bagi serahan.
 
-## Bahagian II
+## BAHAGIAN II
 
 6. bahagian II Akta menyatakan fungsi Suruhanjaya, peranan Suruhanjaya untuk melindungi perkhidmatan sejagat dan memantau prestasi pemegang lesen.
 
@@ -2068,7 +2064,7 @@ Akta Perkhidmatan Pos 2011 (“Akta”) yang dicadangkan oleh Rang Undang- Undan
 
 9. Fasal 6 mengadakan peruntukan bagi Suruhanjaya untuk memantau prestasi pemegang lesen dan untuk mengemukakan suatu laporan tahunan prestasi industri kepada Menteri.
 
-## Bahagian III
+## BAHAGIAN III
 
 10. bahagian III mengadakan peruntukan mengenai kuasa-kuasa Menteri.
 
@@ -2080,7 +2076,7 @@ Akta Perkhidmatan Pos 2011 (“Akta”) yang dicadangkan oleh Rang Undang- Undan
 
 13. Fasal 9 mengadakan peruntukan bagi Suruhanjaya hendaklah menyenggarakan suatu daftar bagi semua arahan yang dikeluarkan oleh Menteri.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 14. bahagian IV Akta ini memperkatakan mengenai peruntukan-peruntukan pelesenan.
 
@@ -2114,7 +2110,7 @@ Akta Perkhidmatan Pos 2011 (“Akta”) yang dicadangkan oleh Rang Undang- Undan
 
 28. Fasal 23 memperuntukkan bahawa pemegang lesen hendaklah memberitahu Suruhanjaya secara bertulis mengenai apa-apa niat untuk menggantung operasinya.
 
-## Bahagian V
+## BAHAGIAN V
 
 29. bahagian V Akta memperkatakan mengenai peruntukan berkaitan dengan pemegang lesen perkhidmatan sejagat.
 
@@ -2136,7 +2132,7 @@ Akta Perkhidmatan Pos 2011 (“Akta”) yang dicadangkan oleh Rang Undang- Undan
 
 <!-- page 78 -->
 
-## Bahagian VI
+## BAHAGIAN VI
 
 38. bahagian VI Akta memperkatakan mengenai terma dan syarat am perkhidmatan pos.
 
@@ -2144,7 +2140,7 @@ Akta Perkhidmatan Pos 2011 (“Akta”) yang dicadangkan oleh Rang Undang- Undan
 
 40. Fasal 33 mengadakan peruntukan bagi keperluan pemegang lesen perkhidmatan sejagat memasukkan ke dalam terma dan syarat amnya had liabiliti yang akan menjadi pembelaan terhadap apa-apa pendakwaan.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 41. bahagian VII Akta mengandungi jenis perkhidmatan lain yang boleh diberikan oleh pemegang lesen perkhidmatan sejagat.
 
@@ -2152,7 +2148,7 @@ Akta Perkhidmatan Pos 2011 (“Akta”) yang dicadangkan oleh Rang Undang- Undan
 
 43. Fasal 35 mengadakan peruntukan bagi perkhidmatan pos elektronik.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 44. bahagian VIII Akta memperkatakan mengenai pengawalseliaan kadar bayaran pos.
 
@@ -2160,7 +2156,7 @@ Akta Perkhidmatan Pos 2011 (“Akta”) yang dicadangkan oleh Rang Undang- Undan
 
 46. Fasal 37 membolehkan Menteri dengan syor Suruhanjaya untuk membuat peraturan-peraturan mengenai kadar bayaran pos.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 47. bahagian IX Akta mengandungi peruntukan yang memperkatakan mengenai amalan persaingan am.
 
@@ -2188,7 +2184,7 @@ Akta Perkhidmatan Pos 2011 (“Akta”) yang dicadangkan oleh Rang Undang- Undan
 
 58. Fasal 48 membolehkan Menteri untuk membuat peraturan-peraturan berhubung dengan persaingan seperti penghalangan atau pengurangan perlakuan yang boleh membawa kepada pengurangan persaingan, atau salah guna kuasa pasaran, dalam suatu pasaran pos.
 
-## Bahagian X
+## BAHAGIAN X
 
 59. bahagian X Akta mengandungi peruntukan yang memperkatakan mengenai pelindungan pengguna.
 
@@ -2210,7 +2206,7 @@ Akta Perkhidmatan Pos 2011 (“Akta”) yang dicadangkan oleh Rang Undang- Undan
 
 67. Fasal 56 mengadakan peruntukan mengenai penalti bagi mendedahkan isi kandungan barang pos secara menyalahi undang-undang.
 
-## Bahagian XI
+## BAHAGIAN XI
 
 68. bahagian XI Akta mengandungi peruntukan yang memperkatakan mengenai sistem poskod dan pengalamatan serta pengenal pasti pos.
 
@@ -2218,7 +2214,7 @@ Akta Perkhidmatan Pos 2011 (“Akta”) yang dicadangkan oleh Rang Undang- Undan
 
 70. Fasal 58 membolehkan Suruhanjaya memperuntukkan suatu pengenal pasti pos kepada pemegang lesen berkaitan dengan capaian hiliran atau untuk apa-apa sebab.
 
-## Bahagian XII
+## BAHAGIAN XII
 
 71. bahagian XII Akta mengadakan peruntukan bagi kuasa dan tatacara Suruhanjaya Komunikasi dan Multimedia Malaysia.
 
@@ -2232,7 +2228,7 @@ Akta Perkhidmatan Pos 2011 (“Akta”) yang dicadangkan oleh Rang Undang- Undan
 
 76. Fasal 63 membenarkan Menteri untuk mengarah Suruhanjaya supaya menyiarkan laporan mengenai sesuatu penyiasatan jika Menteri berpuas hati bahawa penyiaran itu adalah demi kepentingan negara.
 
-## Bahagian XIII
+## BAHAGIAN XIII
 
 77. bahagian XIII Akta memperkatakan mengenai kesalahan dan penalti.
 
@@ -2252,7 +2248,7 @@ Akta Perkhidmatan Pos 2011 (“Akta”) yang dicadangkan oleh Rang Undang- Undan
 
 84. Fasal 70 melarang seseorang daripada mengusik tanda rasmi pada barang pos.
 
-## Bahagian XIV
+## BAHAGIAN XIV
 
 85. bahagian XIV Akta ini memperkatakan mengenai kuasa Suruhanjaya atau pegawai yang diberi kuasa untuk mengumpulkan maklumat dan peruntukan penguatkuasaan.
 
@@ -2314,7 +2310,7 @@ Akta Perkhidmatan Pos 2011 (“Akta”) yang dicadangkan oleh Rang Undang- Undan
 
 112. Fasal 97 menagadakan peruntukan mengenai penalti bagi persubahatan atau percubaan melakukan kesalahan.
 
-## Bahagian XV
+## BAHAGIAN XV
 
 113. bahagian XV Akta memperkatakan mengenai peruntukan am.
 
@@ -2332,7 +2328,7 @@ Akta Perkhidmatan Pos 2011 (“Akta”) yang dicadangkan oleh Rang Undang- Undan
 
 120. Fasal 104 mengadakan peruntukan bagi pelindungan kepada Suruhanjaya atau pegawai yang diberi kuasa atau pekerja atau ejen Suruhanjaya daripada prosiding sivil atau jenayah.
 
-## Bahagian XVI
+## BAHAGIAN XVI
 
 121. bahagian XVI menetapkan pelbagai obligasi yang berhubungan dengan pelindungan kepentingan negara yang boleh dikenakan terhadap pemegang lesen.
 
@@ -2348,7 +2344,7 @@ Akta Perkhidmatan Pos 2011 (“Akta”) yang dicadangkan oleh Rang Undang- Undan
 
 126. Fasal 109 menghendaki Suruhanjaya mengeluarkan arahan kepada pemegang lesen untuk membangunkan pelan bencana.
 
-## Bahagian XVII
+## BAHAGIAN XVII
 
 127. bahagian XVII Akta memperkatakan mengenai kecualian dan peralihan.
 

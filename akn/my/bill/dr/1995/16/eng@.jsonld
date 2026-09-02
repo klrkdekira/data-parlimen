@@ -79,7 +79,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/16/eng@/~cl_2",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after subsection (2) the following subsection: \"(2A) Where a reply is received from the authority as regards the memorandum submitted under subsection (1) indicating the decision of the authority to disallow the change in the existing structure of charges as contained in the memorandum, any person or body of persons who is aggrieved by the decision of the authority may, within fourteen days from the date of such decision, appeal to the Minister whose decision shall be final.\". Amendment"
+        "@value": "by inserting after subsection (2) the following subsection: \"(2A) Where a reply is received from the authority as regards the memorandum submitted under subsection (1) indicating the decision of the authority to disallow the change in the existing structure of charges as contained in the memorandum, any person or body of persons who is aggrieved by the decision of the authority may, within fourteen days from the date of such decision, appeal to the Minister whose decision shall be final.\"."
       }
     },
     {
@@ -87,9 +87,13 @@
       "@type": "akn:clause",
       "eli:number": "3",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/16/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 47 of the principal Act is amended by inserting"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Section 47 of the principal Act is amended by inserting of section after subsection (1) the following subsection: 47. \"(1A) The powers referred to in subsection (1) shall include the power to amend the name of any port under the First Schedule.\"."
+        "@value": "after subsection (1) the following subsection: 47. \"(1A) The powers referred to in subsection (1) shall include the power to amend the name of any port under the First Schedule.\"."
       }
     }
   ]

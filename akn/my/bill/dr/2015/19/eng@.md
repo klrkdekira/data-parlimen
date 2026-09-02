@@ -4,13 +4,13 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title, application and commencement 2. Interpretation
 
-## Part II
+## PART II
 
 ## ANIMAL WELFARE BOARD
 
@@ -26,7 +26,7 @@
 
 14. Power of Minister to give directions
 
-## Part III
+## PART III
 
 ## LICENSING
 
@@ -50,7 +50,7 @@
 
 23. Barred from holding licence
 
-## Part IV
+## PART IV
 
 ## MATTERS RELATING TO ANIMAL WELFARE
 
@@ -64,7 +64,7 @@
 
 28. Selling of animals to persons under the age of twelve years old
 
-## Part V
+## PART V
 
 ## CRUELTY TO ANIMALS
 
@@ -78,7 +78,7 @@
 
 33. Failure to exercise reasonable care and supervision
 
-## Part VI
+## PART VI
 
 ## ANIMALS IN DISTRESS
 
@@ -86,7 +86,7 @@
 
 35. Orders in relation to animals taken into possesion
 
-## Part VII
+## PART VII
 
 ## POWERS RELATING TO ENFORCEMENT
 
@@ -136,7 +136,7 @@
 
 55. Forfeiture of item used in or related to the offences
 
-## Part IX
+## PART IX
 
 ## GENERAL
 
@@ -158,7 +158,9 @@
 
 63. Power to amend Schedule
 
-64. Transitional provisions S chedule
+64. Transitional provisions
+
+## S CHEDULE
 
 <!-- page 5 -->
 
@@ -170,7 +172,7 @@ An Act to provide for the establishment of the Animal Welfare Board, to set out 
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -218,7 +220,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 “accepted veterinary management procedures” includes dehorning of cattle, nose roping of cattle, ear notching, ear tagging, clipping of furs, horns, tusks or nails, and making of marks on animals or any other procedures determined by the Board.
 
-## Part II
+## PART II
 
 ## ANIMAL WELFARE BOARD
 
@@ -416,7 +418,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 14. The Minister may, from time to time, give directions to the Board consistent with the provisions of this Act and the Board shall give effect to all such directions.
 
-## Part III
+## PART III
 
 ## LICENSING
 
@@ -530,7 +532,7 @@ may within thirty days after being informed in writing of the refusal, suspensio
 
 23. Where a person has been convicted of an offence under this Act or any of its subsidiary legislation, he may be barred from holding any licence by the Board for a period not exceeding five years commencing on the date when the proceeding in respect of the conviction is finally concluded.
 
-## Part IV
+## PART IV
 
 ## MATTERS RELATING TO ANIMAL WELFARE
 
@@ -626,7 +628,7 @@ to the animals which are being transported in a conveyance to ensure the safe de
 
 28. Any person who sells an animal to a person whom he has reasonable cause to believe to be under the age of twelve years old, unless such person is accompanied by an adult, commits an offence and shall, on conviction, be liable to a fine of not less than fifteen thousand ringgit and not more than seventy-five thousand ringgit or to imprisonment for a term not more than two years or to both.
 
-## Part V
+## PART V
 
 ## CRUELTY TO ANIMALS
 
@@ -796,7 +798,7 @@ commits an offence and shall, on conviction, be liable to a fine of not less tha
 
 (2) A person convicted of an offence under subsection (1) by reason of negligence shall not be liable to imprisonment without giving him an option of a fine.
 
-## Part VI
+## PART VI
 
 ## ANIMALS IN DISTRESS
 
@@ -884,7 +886,7 @@ commits an offence and shall, on conviction, be liable to a fine of not less tha
 
 (6) Any person who intentionally obstructs a person in the exercise of any powers conferred under this section commits an offence and shall, on conviction, be liable to a fine of not less than ten thousand ringgit and not more fifty thousand ringgit or to imprisonment for a term not more than one year or to both.
 
-## Part VII
+## PART VII
 
 ## POWERS RELATING TO ENFORCEMENT
 
@@ -1102,7 +1104,7 @@ may make an order for the said animal, carcass, substance or other thing to be d
 
 (5) For the purposes of this section, “item” means any things or substance in respect of which an offence has been committed and which is a subject matter in relation to the evidence necessary to establish the commission of the offence.
 
-## Part IX
+## PART IX
 
 ## GENERAL
 
@@ -1216,7 +1218,7 @@ if the act was done in good faith and in a reasonable belief that it was necessa
 
 (3) Pending the determination of such application, such person may continue to undertake the activity.
 
-## Schedule
+## SCHEDULE
 
 [Section 15] Activities involving animals
 
@@ -1254,7 +1256,7 @@ The following activities are regarded as activities involving the use animals fo
 
 This Bill seeks to provide for the management of the welfare and responsible ownership of animals, the establishment of the Animal Welfare Board the licensing of activities involving animals, the prevention of cruelty towards animals and for other matters connected therewith.
 
-## Part I
+## PART I
 
 2. Part I of the proposed Act contains preliminary matter.
 
@@ -1262,7 +1264,7 @@ Clause 1 contains the short title, the application and seeks to allow the Minist
 
 Clause 2 contains the definitions of certain expressions used in the proposed Act.
 
-## Part II
+## PART II
 
 3. Part II of the proposed Act contains provisions relating to the establishment of the Animal Welfare Board (“the Board”).
 
@@ -1292,7 +1294,7 @@ Clause 13 seeks to empower the Board to establish committees in assisting it.
 
 Clause 14 seeks to empower the Minister to give directions to the Board.
 
-## Part III
+## PART III
 
 4. Part III of the proposed Act deals with the licensing requirement, etc.
 
@@ -1316,7 +1318,7 @@ Clause 22 seeks to allow an applicant to appeal against any decision of the Boar
 
 Clause 23 seeks to disallow a person who has been convicted of an offence under the proposed Act or any of its subsidiary legislation to hold any licence. The prohibition commences on the date when the proceedings in respect of the conviction are finally concluded.
 
-## Part IV
+## PART IV
 
 5. Part IV of the proposed Act contains matters relating to animal welfare.
 
@@ -1330,7 +1332,7 @@ Clause 27 contains provisions on duty of an owner or an operator relating to the
 
 Clause 28 sets out the prohibition of selling animals to persons under the age of twelve years old.
 
-## Part V
+## PART V
 
 6. Part V of the proposed Act contains provisions relating to cruelty to animals.
 
@@ -1346,7 +1348,7 @@ Clause 33 contains the provision on the failure of any person to exercise reason
 
 <!-- page 48 -->
 
-## Part VI
+## PART VI
 
 7. Part VI of the proposed Act contains provisions relating to animal in distress.
 
@@ -1354,7 +1356,7 @@ Clause 34 sets out the role and power of a registered veterinary surgeon and an 
 
 Clause 35 provides for the provision on order by the court in relation to animal taken into possession.
 
-## Part VII
+## PART VII
 
 8. Part VII of the proposed Act contains provisions relating to enforcement.
 
@@ -1396,7 +1398,7 @@ Clause 54 deals with the power of the court to give order for the animal to be d
 
 Clause 55 deals with the provision on forfeiture of item used in or related to the offences.
 
-## Part IX
+## PART IX
 
 10. Part IX of the proposed Act deals with general provision.
 

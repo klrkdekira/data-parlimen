@@ -68,17 +68,55 @@ subsisting immediately before the appointed date shall, on the appointed date, b
 
 (3) Legal proceedings that could have been continued or commenced by or against the Majlis prior to the appointed date may be continued or commenced in the name of the Board of Directors.
 
-Liabilities
+<!-- marginal: Liabilities -->
 
-5. All existing liabilities incurred by or on behalf of or enforceable for the purposes of the Majlis may, on the appointed against the Board. date, be enforced against the Board of Directors.
+5. All existing liabilities incurred by or on behalf of or
 
-Vesting of
+<!-- marginal: enforceable -->
 
-6. All lands, property and assets that immediately before lands, the appointed date were vested in or reserved for the property and Majlis or any person acting on its behalf shall, on the assets in the Board. appointed date, vest in or be reserved for the Board of Directors or any person acting on its behalf without any conveyance, assignment, or transfer.
+for the purposes of the Majlis may, on the appointed
 
-Change of
+<!-- marginal: against the -->
 
-7. (1) All references to the Director and Principal in designation any written law or in any instrument, deed, title, document, of Director and bond, agreement or working arrangement subsisting Principal. immediately before the appointed date shall, on the appointed date, be construed as references to the Rector and Provost respectively.
+<!-- marginal: Board. -->
+
+date, be enforced against the Board of Directors.
+
+<!-- marginal: Vesting of -->
+
+6. All lands, property and assets that immediately before
+
+<!-- marginal: lands, -->
+
+the appointed date were vested in or reserved for the
+
+<!-- marginal: property and -->
+
+Majlis or any person acting on its behalf shall, on the
+
+<!-- marginal: assets in the -->
+
+<!-- marginal: Board. -->
+
+appointed date, vest in or be reserved for the Board of Directors or any person acting on its behalf without any conveyance, assignment, or transfer.
+
+<!-- marginal: Change of -->
+
+7. (1) All references to the Director and Principal in
+
+<!-- marginal: designation -->
+
+any written law or in any instrument, deed, title, document,
+
+<!-- marginal: of Director -->
+
+<!-- marginal: and -->
+
+bond, agreement or working arrangement subsisting
+
+<!-- marginal: Principal. -->
+
+immediately before the appointed date shall, on the appointed date, be construed as references to the Rector and Provost respectively.
 
 (2) The change of designation shall not affect any rights, privileges, liabilities, duties or obligations of the Director and Principal, or render defective any legal proceedings by or against them.
 
@@ -170,9 +208,7 @@ providing higher education leading to the conferment of a certificate, diploma, 
 
 by inserting after the definition of "staff the
 
-### (j)
-
-following definitions:
+(j) following definitions:
 
 * "student" means a registered student of the Institut who is following a course of study on a full time or part time basis in the Institut;
 
@@ -180,9 +216,17 @@ following definitions:
 
 "University" or "University College" means—
 
-(a) a University or University College established under the Universities and Act 30. University Colleges Act 1971;
+(a) a University or University College established under the Universities and
 
-(b) a University or University College established under the Private Higher Act Educational Institution Act 1996; or
+<!-- marginal: Act 30. -->
+
+University Colleges Act 1971;
+
+(b) a University or University College established under the Private Higher
+
+<!-- marginal: Act -->
+
+Educational Institution Act 1996; or
 
 (c) other Universities or University Colleges—
 
@@ -214,9 +258,11 @@ and "dimeterikan" wherever appearing therein the words "Meterai", "meterai" and 
 
 <!-- page 6 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-11. Section 4 of the principal Act is amended— of section 4.
+11. Section 4 of the principal Act is amended—
+
+<!-- marginal: of section 4. -->
 
 (a) by renumbering the existing provisions as subsection (1);
 
@@ -246,9 +292,13 @@ Amendment
 
 ## INSTITUT TEKNOLOGI MARA (AMENDMENT)
 
-<!-- marginal: 7 -->
+7
 
-(vii) in paragraph (e) by inserting before the. word "scholarships" the words "fellowships,";
+(vii) in paragraph (e) by inserting before the.
+
+<!-- marginal: word -->
+
+"scholarships" the words "fellowships,";
 
 (viii) in paragraph (i)—
 
@@ -266,7 +316,9 @@ Amendment
 
 (jd) to market and franchise the services, research findings, and products, of the Institut;"; and
 
-(c) by inserting after subsection (1) the following subsection:
+(c) by inserting after subsection (1) the following
+
+<!-- marginal: subsection: -->
 
 "(2) The Institut may, with the approval of the Minister, by order published in the Gazette, set out—
 
@@ -278,11 +330,25 @@ Amendment
 
 and the Diplomas and Advanced Diplomas shall have the status of degrees conferred at Bachelor level, with or without honours, as the case may be, from the dates of such recognition, notwithstanding that the dates of such recognition are dates before the date of coming into force of this subsection.".
 
-New
+<!-- marginal: New -->
 
-12. The principal Act is amended by inserting after section section 4A. 4 the following sections:
+12. The principal Act is amended by inserting after section
 
-Additional 4A. (1) The Institut may, with the approval powers of the Minister of Finance— of the Institut.
+<!-- marginal: section 4A. -->
+
+4 the following sections:
+
+<!-- marginal: Additional -->
+
+4A. (1) The Institut may, with the approval
+
+<!-- marginal: powers -->
+
+of the Minister of Finance—
+
+<!-- marginal: of the -->
+
+<!-- marginal: Institut. -->
 
 (a) where it appears to be requisite, advantageous or convenient for or in connection with the exercise of the powers, the performance of the functions and the carrying on of the activities of the Institut, enter into equity participation, partnership, joint venture, under- taking or any other form of co- operation or arrangement in association, or otherwise, with—
 
@@ -298,7 +364,11 @@ Additional 4A. (1) The Institut may, with the approval powers of the Minister of
 
 <!-- page 9 -->
 
-(b) establish or promote the establishment of companies under the Companies Act 1965 to carry Act 125. on or engage in any activity which has been planned or undertaken by the Institut;
+(b) establish or promote the establishment of companies under the Companies Act 1965 to carry
+
+<!-- marginal: Act 125. -->
+
+on or engage in any activity which has been planned or undertaken by the Institut;
 
 (c) establish corporations to carry out and have the charge, conduct and management of any property, project, scheme or enterprise which in the opinion of the Institut would be beneficial or advantageous to the Institut;
 
@@ -320,19 +390,17 @@ Additional 4A. (1) The Institut may, with the approval powers of the Minister of
 
 (g) acquire shares, stocks, debentures, debenture stocks, bonds, obligations or securities referred to in paragraph (f) by original subscription, tender, purchase, transfer, exchange or otherwise;
 
-(h) exercise and generally enforce all rights and powers conferred by or incidental to the ownership of shares, stocks, debentures, debenture stocks, bonds, obligations or securities referred to in paragraph (f) and
-
-<!-- marginal: in -->
-
-particular to sell, transfer, exchange or otherwise dispose of the same; and
+(h) exercise and generally enforce all rights and powers conferred by or incidental to the ownership of shares, stocks, debentures, debenture stocks, bonds, obligations or securities referred to in paragraph (f) and in particular to sell, transfer, exchange or otherwise dispose of the same; and
 
 (i) purchase, take on lease or hire or otherwise acquire and invest in any real and personal estate as may be necessary or convenient for any of the purposes of the Institut.
 
 (2) The provisions of the First Schedule shall apply to every corporation established by the Institut under paragraph (c) of subsection (1).".
 
-Amendment
+<!-- marginal: Amendment -->
 
-13. Section 5 of the principal Act is amended— of section 5.
+13. Section 5 of the principal Act is amended—
+
+<!-- marginal: of section 5. -->
 
 (a) in the marginal note by substituting for the word "Seal" the words "Common seal";
 
@@ -378,15 +446,21 @@ who shall sign their names to the instrument in token of such presence, and such
 
 (c) by deleting subsection (3A).
 
-Amendment
+<!-- marginal: Amendment -->
 
-16. Section 8 of the principal Act is amended— of section 8.
+16. Section 8 of the principal Act is amended—
+
+<!-- marginal: of section 8. -->
 
 (a) in subsection (1) by deleting the words "with the prior concurrence of the Minister"; and
 
-(b) in subsection (2) by deleting the words "from amongst the staff employed in the School or Centre, as the case may be". Amendment
+(b) in subsection (2) by deleting the words "from amongst the staff employed in the School or Centre, as the case may be".
 
-17. Section 9 of the principal Act is amended— of section 9.
+<!-- marginal: Amendment -->
+
+17. Section 9 of the principal Act is amended—
+
+<!-- marginal: of section 9. -->
 
 (a) by substituting for the marginal note the following marginal note:
 
@@ -416,7 +490,17 @@ section 13 the following section:
 
 <!-- marginal: 13. -->
 
-"The Board 13. (1) There shall be constituted a Board of of Directors of the Institut to be known as the Directors. Board of Directors of the Institut Teknologi
+<!-- marginal: "The Board -->
+
+13. (1) There shall be constituted a Board of
+
+<!-- marginal: of -->
+
+Directors of the Institut to be known as the
+
+<!-- marginal: Directors. -->
+
+Board of Directors of the Institut Teknologi
 
 ## MARA.
 
@@ -426,11 +510,7 @@ section 13 the following section:
 
 (b) the Rector;
 
-(c) two persons to represent
-
-<!-- marginal: the -->
-
-Government;
+(c) two persons to represent the Government;
 
 (d) five persons who because of their knowledge and experience would, in the opinion of the Minister, be of assistance to the Board, and three of whom shall be from the private sector.
 
@@ -456,9 +536,11 @@ Government;
 
 (10) The provisions of the Second Schedule shall apply to the Board.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-19. Section 16 of the principal Act is amended— of section
+19. Section 16 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 16.
 
@@ -478,23 +560,11 @@ Amendment
 
 (8) In" the application of the Second Schedule to a committee—
 
-(a) reference to "Board" shall be construed as reference
+(a) reference to "Board" shall be construed as reference to "committee";
 
-<!-- marginal: to -->
+(b) reference to "Chairman" shall be construed as reference to "chairman"; and
 
-"committee";
-
-(b) reference to "Chairman" shall be construed as reference
-
-<!-- marginal: to -->
-
-"chairman"; and
-
-(c) reference to "Minister" shall be construed as reference
-
-<!-- marginal: to -->
-
-"Board".".
+(c) reference to "Minister" shall be construed as reference to "Board".".
 
 <!-- marginal: New -->
 
@@ -504,7 +574,13 @@ Amendment
 
 16 the following section:
 
-"The 16A. (1) There shall be constituted a Senate Senate. of the Institut to advise the Board on all academic matters of the Institut.
+<!-- marginal: "The -->
+
+16A. (1) There shall be constituted a Senate
+
+<!-- marginal: Senate. -->
+
+of the Institut to advise the Board on all academic matters of the Institut.
 
 (2) The Senate shall consist of—
 
@@ -604,9 +680,11 @@ the principal Act is amended by substituting for the word
 
 "(3) The Registrar shall perform his functions and discharge his duties under the direction and control of the Rector.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-24. Section 22 of the principal Act is amended— of section
+24. Section 22 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 22.
 
@@ -614,15 +692,23 @@ Amendment
 
 (b) in subsection (2) in the national language text by substituting for the words "ketua pegawai" the words "pegawai utama".
 
-New
+<!-- marginal: New -->
 
-25. The principal Act is amended by inserting after section section 22A. 22 the following section: " . Appoint- 22A. (1) The Institut shall have such other ment of principal officers who shall be appointed by other principal the Board on such terms and conditions of service officers. as may be approved by the Board.
+25. The principal Act is amended by inserting after section
+
+<!-- marginal: section 22A. -->
+
+22 the following section: " . Appoint- 22A. (1) The Institut shall have such other ment of principal officers who shall be appointed by other principal the Board on such terms and conditions of service officers. as may be approved by the Board.
 
 (2) The principal officers shall perform such functions and discharge such duties as may be determined by the Board and shall perform and discharge the same under the direction and control of the Rector.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-26. Section 23 of the principal Act is amended by of section substituting for subsection (1) the following subsection:
+26. Section 23 of the principal Act is amended by
+
+<!-- marginal: of section -->
+
+substituting for subsection (1) the following subsection:
 
 23.
 
@@ -638,7 +724,19 @@ Amendment
 
 23 the following section:
 
-Discipline 23A. (1) The Board shall have disciplinary of staff authority over all its staff and shall exercise of the Institut. disciplinary control in respect of all such persons in accordance with this Act and any rules made under section 35.
+<!-- marginal: Discipline -->
+
+23A. (1) The Board shall have disciplinary
+
+<!-- marginal: of staff -->
+
+authority over all its staff and shall exercise
+
+<!-- marginal: of the -->
+
+<!-- marginal: Institut. -->
+
+disciplinary control in respect of all such persons in accordance with this Act and any rules made under section 35.
 
 (2) The Board may, by notification in the Gazette, establish different disciplinary committees for different categories of staff.
 
@@ -662,11 +760,31 @@ Discipline 23A. (1) The Board shall have disciplinary of staff authority over al
 
 (11) The decision of the Board upon an appeal shall be final.".
 
-Transitional
+<!-- marginal: Transitional -->
 
-28. (1) Where on the appointed date, disciplinary provisions proceedings are in the course of being heard before, or relating to had been heard but no order or decision had been made change of disciplinary thereon by— authority.
+28. (1) Where on the appointed date, disciplinary
 
-(a) the Disciplinary Committee of the Institut constituted under subsection 4(1) of the Act 174. Educational Institutions (Discipline) Act 1976; or
+<!-- marginal: provisions -->
+
+proceedings are in the course of being heard before, or
+
+<!-- marginal: relating to -->
+
+had been heard but no order or decision had been made
+
+<!-- marginal: change of -->
+
+<!-- marginal: disciplinary -->
+
+thereon by—
+
+<!-- marginal: authority. -->
+
+(a) the Disciplinary Committee of the Institut constituted under subsection 4(1) of the
+
+<!-- marginal: Act 174. -->
+
+Educational Institutions (Discipline) Act 1976; or
 
 (b) any member of the staff of the Institut or any board of members of the staff of the Institut to whom disciplinary functions have been delegated under subsection 4(3) of the Educational Institutions (Discipline) Act 1976,
 
@@ -702,7 +820,11 @@ before the appointed date but which were not so instituted may, within thirty da
 
 decision as it could have made under the authority vested in it immediately before the appointed date.
 
-(6) An appeal which could have been brought before the Majlis under subsection 4(5) of the Educational Act 174. Institutions (Discipline) Act 1976 before the appointed date, but which was not so brought may, within thirty days from the appointed date, be brought before the Board of Directors of the Institut.
+(6) An appeal which could have been brought before the Majlis under subsection 4(5) of the Educational
+
+<!-- marginal: Act 174. -->
+
+Institutions (Discipline) Act 1976 before the appointed date, but which was not so brought may, within thirty days from the appointed date, be brought before the Board of Directors of the Institut.
 
 (7) An appeal referred to in subsection (6) which is brought after the period specified therein shall not be allowed.
 
@@ -714,21 +836,37 @@ decision as it could have made under the authority vested in it immediately befo
 
 in respect of proceedings referred to in subsection (1), the appeal may be commenced under and in conformity with section 23A of the principal Act.
 
-Transitional
+<!-- marginal: Transitional -->
 
-29. All disciplinary rules made under section 35 of the provisions principal Act and in force or having effect immediately relating to disciplinary before the appointed date shall continue to remain in rules. full force and effect until amended or replaced by the Board of Directors of the lastitut.
+29. All disciplinary rules made under section 35 of the
 
-New Part
+<!-- marginal: provisions -->
 
-30. The principal Act is amended by inserting after Part IVA. IV the following Part:
+principal Act and in force or having effect immediately
+
+<!-- marginal: relating to -->
+
+<!-- marginal: disciplinary -->
+
+before the appointed date shall continue to remain in
+
+<!-- marginal: rules. -->
+
+full force and effect until amended or replaced by the Board of Directors of the lastitut.
+
+<!-- marginal: New Part -->
+
+30. The principal Act is amended by inserting after Part
+
+<!-- marginal: IVA. -->
+
+IV the following Part:
 
 ## "PART IVA
 
 ## PROVISIONS RELATING TO STUDENTS
 
-Discipline
-
-23B. (1) The Rector shall have disciplinary of students authority over every student. of the Institut.
+Discipline 23B. (1) The Rector shall have disciplinary of students authority over every student. of the Institut.
 
 <!-- page 23 -->
 
@@ -738,7 +876,9 @@ Discipline
 
 Provided that no delegation shall be made under this subsection to such members of the staff as the Minister may direct in writing.
 
-(4) The member of the staff or the board of members of the staff to whom disciplinary powers, duties or functions under subsection (3) have been delegated shall exercise, discharge or perform them under the direction and control of the Rector who shall have the power to review, rescind or vary any decision or finding of such member of the staff or such board of members of the staff.
+(4) The member of the staff or the board of members of the staff to whom disciplinary powers, duties or functions under subsection
+
+(3) have been delegated shall exercise, discharge or perform them under the direction and control of the Rector who shall have the power to review, rescind or vary any decision or finding of such member of the staff or such board of members of the staff.
 
 (5) Any student dissatisfied with the decision of—
 
@@ -754,9 +894,35 @@ may appeal against such decision to the Minister and the Minister may, if he dee
 
 the appeal and make its recommendations to him, and, upon receiving such recommendations, the Minister may give such decision on the appeal as he considers fit and proper.
 
-Students' 23c. (1) The Institut shall have a Students' Represen- Representative Committee (the "SRC"). tative Committee. (2) The provisions of the Third Schedule shall apply to the SRC.
+<!-- marginal: Students' -->
 
-Establish- 23D. (1) Notwithstanding section 23c, it ment of shall be lawful for not less than ten other students— student bodies.
+23c. (1) The Institut shall have a Students'
+
+<!-- marginal: Represen- -->
+
+Representative Committee (the "SRC").
+
+<!-- marginal: tative -->
+
+<!-- marginal: Committee. -->
+
+(2) The provisions of the Third Schedule shall apply to the SRC.
+
+<!-- marginal: Establish- -->
+
+23D. (1) Notwithstanding section 23c, it
+
+<!-- marginal: ment of -->
+
+shall be lawful for not less than ten
+
+<!-- marginal: other -->
+
+students—
+
+<!-- marginal: student -->
+
+<!-- marginal: bodies. -->
 
 (a) with the prior written approval of the Rector given after obtaining the concurrence of the Minister; and
 
@@ -766,7 +932,21 @@ to establish a student body consisting of students for the promotion of a specif
 
 (2) The provisions of the Third Schedule, except paragraphs 1 and 7, shall apply with such modifications as may be necessary to a student body under this section as they apply to the SRC.
 
-Dissolution 23E. (1) The Minister or the Rector may, in his of the SRC absolute discretion, without assigning any reason or other therefor— student body.
+<!-- marginal: Dissolution -->
+
+23E. (1) The Minister or the Rector may, in his
+
+<!-- marginal: of the SRC -->
+
+absolute discretion, without assigning any reason
+
+<!-- marginal: or other -->
+
+therefor—
+
+<!-- marginal: student -->
+
+<!-- marginal: body. -->
 
 (a) suspend or dissolve the SRC or any student body established under section 23D; and
 
@@ -780,11 +960,47 @@ Dissolution 23E. (1) The Minister or the Rector may, in his of the SRC absolute 
 
 (b) shall be final.
 
-Prohibition 23F. (1) No person, while he is a student, shall on student be a member of, or shall in any manner associate or students' organisation, with, any society, political party, trade union or any body or other organisation, body or group of persons— group associating
+<!-- marginal: Prohibition -->
 
-(a) whether or not it is established under with societies, any law; etc. except as approved
+23F. (1) No person, while he is a student, shall
 
-(b) whether it is within or outside the Institut; by the Minister. and
+<!-- marginal: on student -->
+
+be a member of, or shall in any manner associate
+
+<!-- marginal: or students' -->
+
+<!-- marginal: organisation, -->
+
+with, any society, political party, trade union or any
+
+<!-- marginal: body or -->
+
+other organisation, body or group of persons—
+
+<!-- marginal: group -->
+
+<!-- marginal: associating -->
+
+(a) whether or not it is established under
+
+<!-- marginal: with -->
+
+<!-- marginal: societies, -->
+
+any law;
+
+<!-- marginal: etc. except -->
+
+<!-- marginal: as approved -->
+
+(b) whether it is within or outside the Institut;
+
+<!-- marginal: by the -->
+
+<!-- marginal: Minister. -->
+
+and
 
 (c) whether it is within or outside Malaysia,
 
@@ -804,7 +1020,11 @@ except as may be provided by or under this Act, or except as may be approved in 
 
 ## BILL
 
-(3) No person, while he is a student, shall Prohibition express or do anything which may be construed as expressing—
+(3) No person, while he is a student, shall
+
+<!-- marginal: Prohibition -->
+
+express or do anything which may be construed as expressing—
 
 (a) support, sympathy or opposition to any political party or trade union; or
 
@@ -818,11 +1038,33 @@ except as may be provided by or under this Act, or except as may be approved in 
 
 (5) Any person who contravenes subsection (1), (2), (3) or (4) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one thousand ringgit or to imprisonment for a term not exceeding six months or to both.
 
-23G. (1) No student, or organisation, body or on collec- group of students, shall, within or outside the tion of money by campus, or within or outside Malaysia— student or by organi-
+23G. (1) No student, or organisation, body or
 
-(a) collect or attempt to collect; sation, body or group of
+<!-- marginal: on collec- -->
 
-(b) promote or attempt to promote any students. collection of;
+group of students, shall, within or outside the
+
+<!-- marginal: tion of -->
+
+<!-- marginal: money by -->
+
+campus, or within or outside Malaysia—
+
+<!-- marginal: student or -->
+
+<!-- marginal: by organi- -->
+
+(a) collect or attempt to collect;
+
+<!-- marginal: sation, body -->
+
+<!-- marginal: or group of -->
+
+(b) promote or attempt to promote any
+
+<!-- marginal: students. -->
+
+collection of;
 
 (c) make or attempt to make any appeal orally or in writing or otherwise for,
 
@@ -832,7 +1074,7 @@ any money or other property from any person, not being money or property due or 
 
 ## INSTITUT TEKNOLOGI MARA (AMENDMENT)
 
-<!-- marginal: 27 -->
+27
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one thousand ringgit or to imprisonment for a term not exceeding six months or to both.
 
@@ -842,11 +1084,35 @@ any money or other property from any person, not being money or property due or 
 
 (5) The provisions of this section shall be in addition to and not in derogation of the provisions of any written law relating to house to house and street collections, public collections, or collection of money or sale of badges.
 
-Criminal 23H. (1) Where any offence has been committed liability of under any written law— office- bearers,
+<!-- marginal: Criminal -->
 
-(a) whether or not any person has been etc., of a students' convicted in respect thereof; and organisation, body or
+23H. (1) Where any offence has been committed
 
-(b) such offence has been committed or group. purports to have been committed in the name or on behalf of—
+<!-- marginal: liability of -->
+
+under any written law—
+
+<!-- marginal: office- -->
+
+<!-- marginal: bearers, -->
+
+(a) whether or not any person has been
+
+<!-- marginal: etc., of a -->
+
+<!-- marginal: students' -->
+
+convicted in respect thereof; and
+
+<!-- marginal: organisation, -->
+
+<!-- marginal: body or -->
+
+(b) such offence has been committed or
+
+<!-- marginal: group. -->
+
+purports to have been committed in the name or on behalf of—
 
 (i) any organisation, body or group of students which is established by, under or in accordance with this Act; or
 
@@ -862,9 +1128,11 @@ every office-bearer of such organisation, body or group of students and every pe
 
 (3) In any prosecution under this section of an office-bearer of, or any person managing or assisting in the management of, any organisation, body or group referred to in subsection (1), any document found in the possession of any office-bearer of, or person managing or assisting in the management of, such organisation, body or group, or in the possession of a member of such organisation, body or group shall be prima facie evidence of the contents thereof for the purpose of proving that anything has been done or purports to have been done by or on behalf of such organisation, body or group.
 
-Presump-
+<!-- marginal: Presump- -->
 
-23I. In any prosecution under this Act— tions.
+23I. In any prosecution under this Act—
+
+<!-- marginal: tions. -->
 
 (a) it shall not be necessary for the prosecution to prove that an organisation, a body or group of persons possesses a name or that it has been constituted or is usually known under a particular name;
 
@@ -876,11 +1144,49 @@ organisation, body or group of persons are found in the possession, custody or u
 
 (c) where any books, accounts, writings, lists of members, seals, banners or insignia of, or relating to, any organisation, body or group of persons are found in the possession, custody or under the control of any person, it shall be presumed, until the contrary is proved, that such person assists in the management of such organisation, body or group.
 
-Suspension 23J. (1) Where a student is charged with a and criminal offence— expulsion of student
+<!-- marginal: Suspension -->
 
-(a) he may, immediately thereupon, charged with a be suspended from being a student; criminal and offence or against whom a
+23J.
 
-(b) he shall not, if so suspended under criminal paragraph (a), during the pendency offence is proved, of the criminal proceedings, remain in or enter the campus of the Institut.
+(1) Where a student is charged with a
+
+<!-- marginal: and -->
+
+criminal offence—
+
+<!-- marginal: expulsion -->
+
+<!-- marginal: of student -->
+
+(a) he may, immediately thereupon,
+
+<!-- marginal: charged -->
+
+<!-- marginal: with a -->
+
+be suspended from being a student;
+
+<!-- marginal: criminal -->
+
+and
+
+<!-- marginal: offence or -->
+
+<!-- marginal: against -->
+
+<!-- marginal: whom a -->
+
+(b) he shall not, if so suspended under
+
+<!-- marginal: criminal -->
+
+paragraph (a), during the pendency
+
+<!-- marginal: offence is -->
+
+<!-- marginal: proved, -->
+
+of the criminal proceedings, remain in or enter the campus of the Institut.
 
 (2) Where a court finds that a charge for a criminal offence is proved against a student—
 
@@ -912,7 +1218,9 @@ Provided that upon the determination of such application, petition, appeal or ot
 
 <!-- page 31 -->
 
-regard to such determination and grant exemption to the student from the application of subsection (1), (2), (3), (4) or (5), as the case may be, upon such terms and conditions as he may, in his absolute discretion, deem fit to impose.
+regard to such determination and grant exemption to the student from the application of subsection (1),
+
+(2), (3), (4) or (5), as the case may be, upon such terms and conditions as he may, in his absolute discretion, deem fit to impose.
 
 (7) The Minister may, at any time, in any particular case, in his absolute discretion, grant exemption to any person from the application of subsection (1), (2), (3), (4) or (5), as the case may be, either—
 
@@ -926,9 +1234,25 @@ as he may, in his absolute discretion, deem fit.
 
 (8) Without prejudice to the provisions of any other written law relating to the delegation of powers, the Minister may, by notification in the Gazette, delegate the exercise of any of his powers under this section to the Rector, subject to such conditions and restrictions as may be specified in such notification.
 
-Minister's 23K. (1) The Minister may— power to suspend or
+<!-- marginal: Minister's -->
 
-(a) upon representations made by the expel a student Institut; and from the Institut.
+23K. (1) The Minister may—
+
+<!-- marginal: power to -->
+
+<!-- marginal: suspend or -->
+
+(a) upon representations made by the
+
+<!-- marginal: expel a -->
+
+<!-- marginal: student -->
+
+Institut; and
+
+<!-- marginal: from the -->
+
+<!-- marginal: Institut. -->
 
 (b) if he is satisfied that it is desirable to do so in the interest of the Institut,
 
@@ -970,9 +1294,29 @@ shall be guilty of an offence and shall on conviction be liable to a fine not ex
 
 (8) An order to suspend or expel a student from the Institut under this section may, at any time, be revoked by the Minister and the Minister may, in his absolute discretion, make such revocation subject to such conditions as he may deem fit to impose.
 
-Removal or 23L. Where a student is suspended or expelled exclusion from the Institut under this Act, the Rector— from the Institut of a suspended
+<!-- marginal: Removal or -->
 
-(a) shall take or cause to be taken all such steps or expelled as may be necessary to secure or obtain the student. removal or exclusion of the student from the Institut with the aid of any staff of the Institut; and
+23L. Where a student is suspended or expelled
+
+<!-- marginal: exclusion -->
+
+from the Institut under this Act, the Rector—
+
+<!-- marginal: from the -->
+
+<!-- marginal: Institut of -->
+
+<!-- marginal: a suspended -->
+
+(a) shall take or cause to be taken all such steps
+
+<!-- marginal: or expelled -->
+
+as may be necessary to secure or obtain the
+
+<!-- marginal: student. -->
+
+removal or exclusion of the student from the Institut with the aid of any staff of the Institut; and
 
 (b) may call upon any police officer to assist in securing or obtaining the removal or exclusion of the student from the Institut; and such police officer may, thereupon, for that purpose, use such reasonable force or otherwise on the student or any other person as may be necessary.".
 
@@ -996,11 +1340,15 @@ Removal or 23L. Where a student is suspended or expelled exclusion from the Inst
 
 0i) by substituting for the marginal reference "Act 102." the marginal reference "Act372.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-32. Subsection 28(1) of the principal Act is amended by of section 28. inserting after the word "disposition" the words ", subvention, legacy".
+32. Subsection 28(1) of the principal Act is amended by
 
-New section
+<!-- marginal: of section 28. -->
+
+inserting after the word "disposition" the words ", subvention, legacy".
+
+<!-- marginal: New section -->
 
 33. The principal Act is amended by inserting after section
 
@@ -1028,11 +1376,15 @@ Imposition 28A. (1) A person who is or was a staff of the of Institut may be sur
 
 (b) in the case of paragraphs (d) and (e) of subsection (1), surcharge against the person such sum as the Board may think fit.
 
-(4) The Board shall notify the person surcharged in respect of any surcharge made under subsection (3).
+(4) The Board shall notify the person surcharged in respect of any surcharge made under subsection
+
+(3).
 
 (5) Notwithstanding subsections (3) and (4), the Board may at any time withdraw any surcharge in respect of which a satisfactory explanation has been received or if it otherwise appears that no surcharge should have been made, and the Board shall at once notify the person surcharged of the withdrawal.
 
-(6) The amount of any surcharge made under subsection (3) and not withdrawn under subsection (5) shall be a debt due to the Institut from the person surcharged and may be sued for and recovered in any court at the suit of the Institut and may also if the Board so directs be recovered by deduction—
+(6) The amount of any surcharge made under subsection (3) and not withdrawn under subsection
+
+(5) shall be a debt due to the Institut from the person surcharged and may be sued for and recovered in any court at the suit of the Institut and may also if the Board so directs be recovered by deduction—
 
 (a) from the salary of the person surcharged; or
 
@@ -1046,11 +1398,19 @@ by equal monthly instalments not exceeding one- fourth of the total monthly sala
 
 (8) For the purposes of paragraph (d) of subsection (1), "accounting officer" includes every staff of the Institut charged with the duty of collecting, receiving, or accounting for, or who in fact collects, receives or accounts for, any money of the Institut, or who is charged with the duty of disbursing, or who does in fact disburse, any such money, and every staff who is charged with the receipt, custody or disposal of, or the accounting for, any money, stamp, security, store or property of the Institut or who in fact receives, holds or disposes of such money, stamp, security, store or property.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-34. Subsection 29(1) of the principal Act is amended by of section 29. inserting after the word "Act" the words "and which shall be in accordance with the national policies, strategies and guidelines on higher education formulated or determined by the National Council on Higher Education established under section 3 of the National Council on Higher Act 546. Education Act 1996.".
+34. Subsection 29(1) of the principal Act is amended by
 
-New section
+<!-- marginal: of section 29. -->
+
+inserting after the word "Act" the words "and which shall be in accordance with the national policies, strategies and guidelines on higher education formulated or determined by the National Council on Higher Education established under section 3 of the National Council on Higher
+
+<!-- marginal: Act 546. -->
+
+Education Act 1996.".
+
+<!-- marginal: New section -->
 
 35. The principal Act is amended by inserting after section
 
@@ -1074,7 +1434,17 @@ Power of 29A. (1) The Minister may, subject to such Minister conditions, limitat
 
 34 the following sections:
 
-"Actor 34A. No action or suit shall be instituted or omission maintained in any court against— done in good faith.
+<!-- marginal: "Actor -->
+
+34A. No action or suit shall be instituted or
+
+<!-- marginal: omission -->
+
+maintained in any court against—
+
+<!-- marginal: done in -->
+
+<!-- marginal: good faith. -->
 
 (a) the Board;
 
@@ -1094,7 +1464,9 @@ Power of 29A. (1) The Minister may, subject to such Minister conditions, limitat
 
 for any act or omission done in good faith in the exercise or discharge of its or his powers or duties under this Act in a reasonable belief that it was necessary for the purpose intended to be served thereby.
 
-Service. 34B. (1) Service of any notice under this Act or any rules made thereunder shall be effected by registered post to the person affected thereby and shall be deemed to have been served on the day succeeding the day on which the notice would have been delivered in the ordinary course of post.
+<!-- marginal: Service. -->
+
+34B. (1) Service of any notice under this Act or any rules made thereunder shall be effected by registered post to the person affected thereby and shall be deemed to have been served on the day succeeding the day on which the notice would have been delivered in the ordinary course of post.
 
 (2) Where the person to whom there has been addressed a registered letter containing any notice
 
@@ -1102,9 +1474,11 @@ Service. 34B. (1) Service of any notice under this Act or any rules made thereun
 
 a registered letter awaiting him at a post office, and such person refuses, neglects or fails to take delivery of such registered letter, such notice shall be deemed to have been served upon him on the date on which he is so informed.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-37. Section 35 of the principal Act is amended— of section 35.
+37. Section 35 of the principal Act is amended—
+
+<!-- marginal: of section 35. -->
 
 (a) in the marginal note by substituting for the word "Minister" the word "Board";
 
@@ -1128,15 +1502,35 @@ Amendment
 
 "(ea) any matter relating to the SRC and other student bodies;".
 
-New First,
+<!-- marginal: New First, -->
 
-38. The principal Act is amended by inserting after section Second and 47 the following Schedules: Third Schedules.
+38. The principal Act is amended by inserting after section
+
+<!-- marginal: Second and -->
+
+47 the following Schedules:
+
+<!-- marginal: Third -->
+
+<!-- marginal: Schedules. -->
 
 ## "FIRST SCHEDULE
 
 (Paragraph (c) of subsection (1) of section 4A)
 
-Power of Institut 1. The Institut shall, on or before the date on which any to make rules in corporation is established under paragraph (c) of subsection respect of corporation. (1) of section 4A, prescribe by rules—
+<!-- marginal: Power of Institut -->
+
+1. The Institut shall, on or before the date on which any
+
+<!-- marginal: to make rules in -->
+
+corporation is established under paragraph (c) of subsection
+
+<!-- marginal: respect of -->
+
+<!-- marginal: corporation. -->
+
+(1) of section 4A, prescribe by rules—
 
 (a) the purposes and objects for which such corporation is established;
 
@@ -1148,17 +1542,43 @@ Power of Institut 1. The Institut shall, on or before the date on which any to m
 
 (d) the relations between such corporation and the Institut and the rights of control of the Institut over such corporation.
 
-Effect of 2. Any rules made under paragraph 1 shall be binding on the rules corporation in respect of which they were made and shall have effect for all purposes as if they had been enacted under this Act.
+<!-- marginal: Effect of -->
 
-Power to 3. The Institut may at any time amend, revoke, or add to, any amend, etc., rules made in respect of any corporation under paragraph 1. rules.
+2. Any rules made under paragraph 1 shall be binding on the
 
-Winding up. 4. (1) The Institut may, with the approval of the Minister, after consultation with the Minister of Finance, direct that any corporation established by it be wound up and dissolved.
+<!-- marginal: rules -->
+
+corporation in respect of which they were made and shall have effect for all purposes as if they had been enacted under this Act.
+
+<!-- marginal: Power to -->
+
+3. The Institut may at any time amend, revoke, or add to, any
+
+<!-- marginal: amend, etc., -->
+
+rules made in respect of any corporation under paragraph 1.
+
+<!-- marginal: rules. -->
+
+<!-- marginal: Winding up. -->
+
+4. (1) The Institut may, with the approval of the Minister, after consultation with the Minister of Finance, direct that any corporation established by it be wound up and dissolved.
 
 (2) Upon the dissolution of any corporation under subparagraph (1), the assets of the corporation after discharging all its liabilities shall be transferred to and vested in the Institut.
 
-(3) The winding up of a corporation under subparagraph (1) shall be conducted in such manner as the Institut may prescribe.
+(3) The winding up of a corporation under subparagraph
 
-Corporation 10 5. Every corporation established under paragraph (c) of be bodies subsection (1) of section 4A— corporate.
+(1) shall be conducted in such manner as the Institut may prescribe.
+
+<!-- marginal: Corporation 10 -->
+
+5. Every corporation established under paragraph (c) of
+
+<!-- marginal: be bodies -->
+
+subsection (1) of section 4A—
+
+<!-- marginal: corporate. -->
 
 (a) shall be a body corporate by such name as the Institut shall give to it;
 
@@ -1178,9 +1598,13 @@ subject to such restrictions or limitations as may be specified by the Institut 
 
 <!-- page 40 -->
 
-Common seal
+<!-- marginal: Common seal -->
 
-6. (1) Every corporation shall have a common seal which of corporation shall bear such device as the corporation, with the approval of the Institut, may determine.
+6. (1) Every corporation shall have a common seal which
+
+<!-- marginal: of corporation -->
+
+shall bear such device as the corporation, with the approval of the Institut, may determine.
 
 (2) The common seal may from time to time be broken, changed, altered and made anew as the corporation, with the approval of the Institut, may think fit.
 
@@ -1198,7 +1622,7 @@ Common seal
 
 (Section 13)
 
-Disqualification.
+<!-- marginal: Disqualification. -->
 
 1. A person shall be disqualified from being appointed or being a member of the Board—
 
@@ -1210,29 +1634,65 @@ Disqualification.
 
 (c) if he has been found or declared to be of unsound mind or has otherwise become incapable of managing his affairs.
 
-Cessation 2. A member of the Board shall cease to be a member— from being a member.
+<!-- marginal: Cessation -->
+
+2. A member of the Board shall cease to be a member—
+
+<!-- marginal: from being a -->
+
+<!-- marginal: member. -->
 
 (a) if he fails to attend three consecutive meetings of the Board without leave of the Chairman; or
 
 (b) if his appointment is revoked.
 
-Resignation. 3. A member of the Board may resign at any time by giving one month's notice in writing to the Chairman.
+<!-- marginal: Resignation. -->
 
-Filling of 4. Where any person ceases to be a member of the Board by vacancies. reason of the provisions of this Act, another person may be appointed by the Minister to fill the vacancy for the remainder of the term for which the member was appointed.
+3. A member of the Board may resign at any time by giving one month's notice in writing to the Chairman.
 
-Allowance 5. Members of the Board shall be paid such allowance as the Minister may determine.
+<!-- marginal: Filling of -->
 
-Meetings 6. (1) The Chairman shall preside at a meeting of the Board and in his absence the members of the Board shall elect one of their number to preside over the meeting.
+4. Where any person ceases to be a member of the Board by
+
+<!-- marginal: vacancies. -->
+
+reason of the provisions of this Act, another person may be appointed by the Minister to fill the vacancy for the remainder of the term for which the member was appointed.
+
+<!-- marginal: Allowance -->
+
+5. Members of the Board shall be paid such allowance as the Minister may determine.
+
+<!-- marginal: Meetings -->
+
+6. (1) The Chairman shall preside at a meeting of the Board and in his absence the members of the Board shall elect one of their number to preside over the meeting.
 
 (2) The Chairman and every member of the Board shall have and may exercise one vote each, but in the event of an equality of votes, the Chairman or the member presiding shall have and may exercise a casting vote in addition to his original vote.
 
-Board may 7. (1) The Board may invite any person to attend a meeting invite others or deliberation of the Board for the purpose of advising it on to meetings any matter under discussion but any person so attending shall not have the right to vote at the said meeting or deliberation.
+<!-- marginal: Board may -->
+
+7. (1) The Board may invite any person to attend a meeting
+
+<!-- marginal: invite others -->
+
+or deliberation of the Board for the purpose of advising it on
+
+<!-- marginal: to meetings -->
+
+any matter under discussion but any person so attending shall not have the right to vote at the said meeting or deliberation.
 
 (2) A person invited under subparagraph (1) shall be paid such allowance as the Board may determine.
 
-Minutes 8. Any minutes made of meetings of the Board shall, if duly signed, be admissible in evidence in all legal proceedings without further proof and every meeting of the Board in respect of which minutes have been so made shall be deemed to have been duly convened and held and all members thereat to have been duly qualified to act.
+<!-- marginal: Minutes -->
 
-Disclosure of 9. (1) A member of the Board having, directly or indirectly, interest by himself or his partner—
+8. Any minutes made of meetings of the Board shall, if duly signed, be admissible in evidence in all legal proceedings without further proof and every meeting of the Board in respect of which minutes have been so made shall be deemed to have been duly convened and held and all members thereat to have been duly qualified to act.
+
+<!-- marginal: Disclosure of -->
+
+9. (1) A member of the Board having, directly or indirectly,
+
+<!-- marginal: interest -->
+
+by himself or his partner—
 
 (a) any interest in any company or undertaking with which the Board proposes to enter into a contract; or
 
@@ -1244,9 +1704,15 @@ shall disclose to the Board the fact of his interest and its nature.
 
 (2) A disclosure under subparagraph (1) shall be recorded in the minutes of the Board and, unless specifically authorised by the Chairman, such member shall take no part in any deliberation or decision of the Board relating to the contract or matter..
 
-Validity of
+<!-- marginal: Validity of -->
 
-10. No act done or proceedings taken under this Act shall acts and be questioned on the ground of— proceedings.
+10. No act done or proceedings taken under this Act shall
+
+<!-- marginal: acts and -->
+
+be questioned on the ground of—
+
+<!-- marginal: proceedings. -->
 
 (a) any vacancy in the membership of, or of any defect in the constitution of, the Board;
 
@@ -1260,13 +1726,15 @@ Validity of
 
 ## STUDENTS' REPRESENTATIVE COMMITTEE
 
-Election of SRC.
+<!-- marginal: Election of SRC. -->
 
 1. In electing a Students' Representative Committee, the students of each particular field shall elect, by secret ballot conducted by the Rector, such uniform number of students studying in the respective fields to be representatives in the SRC as may be determined by the Rector; and the division of the education provided in the Institut into various fields of study for the purposes of this paragraph shall be made by the Rector.
 
-Office-bearers
+<!-- marginal: Office-bearers -->
 
-2. The SRC shall elect from amongst its members— of SRC.
+2. The SRC shall elect from amongst its members—
+
+<!-- marginal: of SRC. -->
 
 (a) a President;
 
@@ -1278,19 +1746,47 @@ Office-bearers
 
 who shall be its only office-bearers.
 
-Term of office of
+<!-- marginal: Term of office of -->
 
-3. The members of the SRC and its office-bearers SRC and its shall be elected for one year. office-bearers. Decisions by
+3. The members of the SRC and its office-bearers
 
-4. The SRC's decisions shall be taken by a majority vote majority vote. with not less than two-third of the members being present and voting.
+<!-- marginal: SRC and its -->
+
+shall be elected for one year.
+
+<!-- marginal: office-bearers. -->
+
+<!-- marginal: Decisions by -->
+
+4. The SRC's decisions shall be taken by a majority vote
+
+<!-- marginal: majority vote. -->
+
+with not less than two-third of the members being present and voting.
 
 <!-- page 43 -->
 
-Ad hoc 5. The SRC may form, from time to time, with the prior committees. written approval of the Rector, ad hoc committees from amongst its members for specific purposes or objects.
+<!-- marginal: Ad hoc -->
 
-Disqualifi- 6. (1) No student— cation m respect of
+5. The SRC may form, from time to time, with the prior
 
-(a) against whom disciplinary proceedings are SRC. pending; or
+<!-- marginal: committees. -->
+
+written approval of the Rector, ad hoc committees from amongst its members for specific purposes or objects.
+
+<!-- marginal: Disqualifi- -->
+
+6. (1) No student—
+
+<!-- marginal: cation m -->
+
+<!-- marginal: respect of -->
+
+(a) against whom disciplinary proceedings are
+
+<!-- marginal: SRC. -->
+
+pending; or
 
 (b) who has been found guilty of a disciplinary offence,
 
@@ -1304,7 +1800,13 @@ shall be elected or remain a member of the SRC unless authorised in writing by m
 
 immediately prior to any proposed election or elections to the SRC or by the SRC shall be disqualified from being elected at such election or elections.
 
-Objects and 7. The objects and functions of the SRC shall be— functions of the SRC.
+<!-- marginal: Objects and -->
+
+7. The objects and functions of the SRC shall be—
+
+<!-- marginal: functions of -->
+
+<!-- marginal: the SRC. -->
 
 (a) to assist and encourage, subject to the direction of the Rector, the development of the facilities for students such as recreational facilities and the supply of meals and refreshments;
 
@@ -1312,7 +1814,11 @@ Objects and 7. The objects and functions of the SRC shall be— functions of the
 
 (c) to undertake such other activities as may be deter- mined by the Rector from time to time.
 
-Expenses of 8. (1) The SRC shall not— SRC.
+<!-- marginal: Expenses of -->
+
+8. (1) The SRC shall not—
+
+<!-- marginal: SRC. -->
 
 (a) maintain any fund; or
 
@@ -1324,15 +1830,23 @@ from any source.
 
 <!-- page 44 -->
 
-Accounts of
+<!-- marginal: Accounts of -->
 
-9. (1) The Treasurer shall keep proper accounts of the SRC SRC which shall be audited by a person appointed by the Rector.
+9. (1) The Treasurer shall keep proper accounts of the SRC
+
+<!-- marginal: SRC -->
+
+which shall be audited by a person appointed by the Rector.
 
 (2) A copy of the accounts kept under subparagraph (1) shall be submitted by the SRC for approval to the Rector not later than three months after the end of each financial year, being a financial year as specified by the Rector.
 
-Meetings of
+<!-- marginal: Meetings of -->
 
-10. (1) The SRC shall hold meetings from time to time as it SRC may deem necessary and it shall be the duty of the Secretary to keep minutes of every meeting of the SRC and such minutes shall be confirmed at a subsequent meeting.
+10. (1) The SRC shall hold meetings from time to time as it
+
+<!-- marginal: SRC -->
+
+may deem necessary and it shall be the duty of the Secretary to keep minutes of every meeting of the SRC and such minutes shall be confirmed at a subsequent meeting.
 
 (2) The SRC or an ad hoc committee of the SRC shall, not less than forty-eight hours before holding any meeting, give notice of the date and time of the meeting and its agenda to the Rector.
 
@@ -1340,13 +1854,21 @@ Meetings of
 
 (4) The Rector or his representative shall be present at each meeting of the SRC or of an ad hoc committee of the SRC, unless the Rector decides otherwise in respect of any particular meeting.
 
-Inspection of
+<!-- marginal: Inspection of -->
 
-11. The records of the SRC or of an ad hoc committee of the records SRC shall at all times be open to inspection by the Rector or his representative.
+11. The records of the SRC or of an ad hoc committee of the
 
-Disputes as to
+<!-- marginal: records -->
 
-12. (1) If any dispute arises as to whether any member or elections office-bearer of the SRC or of an ad hoc committee of the SRC—
+SRC shall at all times be open to inspection by the Rector or his representative.
+
+<!-- marginal: Disputes as to -->
+
+12. (1) If any dispute arises as to whether any member or
+
+<!-- marginal: elections -->
+
+office-bearer of the SRC or of an ad hoc committee of the SRC—
 
 (a) has been duly elected or appointed, as the case may be; or
 
@@ -1356,9 +1878,15 @@ the dispute shall be decided by the Rector or by a person appointed by him for t
 
 (2) The decision of the Rector or of the person appointed by him under subparagraph (1) shall be final.
 
-Definition of
+<!-- marginal: Definition of -->
 
-13. (1) For the purpose of this Schedule, "student" does not "student" for the include a public officer who is following a course of study in purpose of this
+13. (1) For the purpose of this Schedule, "student" does not
+
+<!-- marginal: "student" for the -->
+
+include a public officer who is following a course of study in
+
+<!-- marginal: purpose of this -->
 
 ## Schedule.
 

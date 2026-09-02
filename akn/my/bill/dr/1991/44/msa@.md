@@ -14,9 +14,7 @@ Naskhah Sahih—Bahasa Malaysia
 
 ## PERMULAAN
 
-1. Tajuk ringkas dan mula berkuatkuasa.
-
-2. Tafsiran.
+1. Tajuk ringkas dan mula berkuatkuasa. 2. Tafsiran.
 
 ## BAHAGIAN
 
@@ -26,19 +24,7 @@ II
 
 ## PELANCONGAN MALAYSIA
 
-3. Penubuhan Lembaga.
-
-4. Fungsi-fungsi dan kuasa-kuasa Lembaga.
-
-5. Keanggotaan Lembaga.
-
-6. Akta Perlindungan Pihak Berkuasa Awam 1948.
-
-7. Pengkhidmat awam.
-
-8. Kuasa Menteri untuk memberikan arahan.
-
-9. Laporan dan maklumat.
+3. Penubuhan Lembaga. 4. Fungsi-fungsi dan kuasa-kuasa Lembaga. 5. Keanggotaan Lembaga. 6. Akta Perlindungan Pihak Berkuasa Awam 1948. 7. Pengkhidmat awam. 8. Kuasa Menteri untuk memberikan arahan. 9. Laporan dan maklumat.
 
 ## BAHAGIAN
 
@@ -170,7 +156,11 @@ Penggalakan Pelancongan Malaysia 1991.
 
 "Pengerusi" ertinya Pengerusi Lembaga yang dilantik di bawah seksyen 5;
 
-"pengusahaan pelancongan" mempunyai erti yang Akta sama yang diberikan kepadanya di bawah Akta Industri Pelancongan 1991;
+"pengusahaan pelancongan" mempunyai erti yang
+
+<!-- marginal: Akta -->
+
+sama yang diberikan kepadanya di bawah Akta Industri Pelancongan 1991;
 
 "Perbadanan" ertinya Perbadanan Kemajuan Pelancongan Malaysia yang ditubuhkan di bawah Akta Perbadanan Kemajuan Pelancongan Malaysia 1972;
 
@@ -192,15 +182,29 @@ II
 
 ## LEMBAGA PENGGALAKAN PELANCONGAN MALAYSIA
 
-Penubuhan
+<!-- marginal: Penubuhan -->
 
-3. Maka adalah dengan ini ditubuhkan suatu Lembaga. pertubuhan perbadanan bernama "Lembaga Penggalakan Pelancongan Malaysia" yang kekal turun-temurun dan mempunyai suatu meterai biasa, yang boleh mendakwa dan didakwa atas namanya dan, tertakluk kepada dan bagi maksud-maksud Akta ini, boleh membuat kontrak dan boleh memperolehi, membeli, mengambil, memegang dan menikmati apa-apa jenis harta alih dan harta tak alih dan boleh memindahkan, menyerah- hakkan, menyerahkan balik, memulangkan, menggadai- kan, raenggadai-janji, mendemis, menyerahhakkan semula, memindahmilikkan atau dengan apa-apa cara lain melupuskan, atau membuat apa-apa urusan mengenai, apa-apa harta alih atau harta tak alih atau apa-apa kepentingan mengenainya yang terletakhak pada Lembaga, mengikut apa-apa syarat yang difikirkannya patut.
+3. Maka adalah dengan ini ditubuhkan
 
-Fungsi-Fungsi
+<!-- marginal: suatu -->
 
-4. (1) Fungsi-fungsi Lembaga ialah — dan kuasa- kuasa
+<!-- marginal: Lembaga. -->
 
-(a) menggiatkan dan menggalakkan pelancongan Lembaga. ke dan dalam Malaysia;
+pertubuhan perbadanan bernama "Lembaga Penggalakan Pelancongan Malaysia" yang kekal turun-temurun dan mempunyai suatu meterai biasa, yang boleh mendakwa dan didakwa atas namanya dan, tertakluk kepada dan bagi maksud-maksud Akta ini, boleh membuat kontrak dan boleh memperolehi, membeli, mengambil, memegang dan menikmati apa-apa jenis harta alih dan harta tak alih dan boleh memindahkan, menyerah- hakkan, menyerahkan balik, memulangkan, menggadai- kan, raenggadai-janji, mendemis, menyerahhakkan semula, memindahmilikkan atau dengan apa-apa cara lain melupuskan, atau membuat apa-apa urusan mengenai, apa-apa harta alih atau harta tak alih atau apa-apa kepentingan mengenainya yang terletakhak pada Lembaga, mengikut apa-apa syarat yang difikirkannya patut.
+
+<!-- marginal: Fungsi-Fungsi -->
+
+4. (1) Fungsi-fungsi Lembaga ialah —
+
+<!-- marginal: dan kuasa- -->
+
+<!-- marginal: kuasa -->
+
+(a) menggiatkan dan menggalakkan pelancongan
+
+<!-- marginal: Lembaga. -->
+
+ke dan dalam Malaysia;
 
 (b) merangsangkan, memajukan dan memasarkan, di arena antarabangsa dan tempatan, negara Malaysia sebagai tempat tujuan pelancong;
 
@@ -250,9 +254,13 @@ program dan laporan mengenai aktiviti-aktiviti penggalakan dan pemasaran pelanco
 
 <!-- page 8 -->
 
-Keanggotaan
+<!-- marginal: Keanggotaan -->
 
-5. (1) Lembaga hendaklah terdiri daripada anggota- Lembaga. anggota yang berikut yang hendaklah dilantik oleh Menteri:
+5. (1) Lembaga hendaklah terdiri daripada anggota-
+
+<!-- marginal: Lembaga. -->
+
+anggota yang berikut yang hendaklah dilantik oleh Menteri:
 
 (a) Pengerusi;
 
@@ -274,9 +282,25 @@ Keanggotaan
 
 (4) Peruntukan-peruntukan Jadual adalah terpakai bagi Lembaga.
 
-Akta
+<!-- marginal: Akta -->
 
-6. Akta Perlindungan Pihak Berkuasa Awam 1948 Perlindungan adalah terpakai bagi apa-apa tindakan guaman, Pihak Berkuasa pendakwaan atau prosiding terhadap Lembaga atau Awam 1948. terhadap mana-mana anggota, pegawai, pengkhidmat Akta 198.
+6. Akta Perlindungan Pihak Berkuasa Awam 1948
+
+<!-- marginal: Perlindungan -->
+
+adalah terpakai bagi apa-apa tindakan guaman,
+
+<!-- marginal: Pihak -->
+
+<!-- marginal: Berkuasa -->
+
+pendakwaan atau prosiding terhadap Lembaga atau
+
+<!-- marginal: Awam 1948. -->
+
+terhadap mana-mana anggota, pegawai, pengkhidmat
+
+<!-- marginal: Akta 198. -->
 
 <!-- page 9 -->
 
@@ -284,19 +308,45 @@ Akta
 
 atau ejen Lembaga berkenaan dengan apa-apa perbuatan, keabaian atau keingkaran yang dibuat atau dilakukan olehnya atas sifat sedemikian.
 
-Pengkhidmat
+<!-- marginal: Pengkhidmat -->
 
-7. Semua anggota, pegawai dan pengkhidmat Lembaga, awam. semasa menunaikan kewajipan-kewajipan mereka sebagai anggota, pegawai dan pengkhidmat Lembaga, hendaklah disifatkan sebagai pengkhidmat awam N.M.B. mengikut pengertian Kanun Keseksaan.
+7. Semua anggota, pegawai dan pengkhidmat Lembaga,
+
+<!-- marginal: awam. -->
+
+semasa menunaikan kewajipan-kewajipan mereka sebagai anggota, pegawai dan pengkhidmat Lembaga, hendaklah disifatkan sebagai pengkhidmat awam
+
+<!-- marginal: N.M.B. -->
+
+mengikut pengertian Kanun Keseksaan.
 
 ## Bab 45.
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-8. Lembaga adalah bertanggungjawab kepada Menteri, Menteri dan Menteri boleh dari semasa ke semasa memberikan untuk memberikan arahan-arahan yang tidak tak konsisten dengan arahan. peruntukan-peruntukan Akta ini dan Lembaga hendaklah melaksanakan segala arahan sedemikian.
+8. Lembaga adalah bertanggungjawab kepada Menteri,
 
-Laporan dan
+<!-- marginal: Menteri -->
 
-9. (1) Lembaga hendaklah memberi kepada Menteri maklumat. apa-apa maklumat mengenai harta dan aktivitinya sebagaimana yang dikehendaki atau diarahkan oleh Menteri dari semasa ke semasa.
+dan Menteri boleh dari semasa ke semasa memberikan
+
+<!-- marginal: untuk -->
+
+<!-- marginal: memberikan -->
+
+arahan-arahan yang tidak tak konsisten dengan
+
+<!-- marginal: arahan. -->
+
+peruntukan-peruntukan Akta ini dan Lembaga hendaklah melaksanakan segala arahan sedemikian.
+
+<!-- marginal: Laporan dan -->
+
+9. (1) Lembaga hendaklah memberi kepada Menteri
+
+<!-- marginal: maklumat. -->
+
+apa-apa maklumat mengenai harta dan aktivitinya sebagaimana yang dikehendaki atau diarahkan oleh Menteri dari semasa ke semasa.
 
 (2) Lembaga hendaklah, tidak lewat daripada 30 haribulan Jun setiap tahun, menyebabkan dibuat dan dihantar kepada Menteri suatu laporan yang mem- perkatakan aktiviti-aktiviti Lembaga sepanjang tahun yang sebelumnya dan laporan itu hendaklah mengandungi apa-apa maklumat yang berhubungan dengan prosiding dan dasar Lembaga sebagaimana yang dinyatakan dari semasa ke semasa oleh Menteri.
 
@@ -308,9 +358,35 @@ III
 
 ## PENGARAH DAN PEGAWAI SERTA PENGKHIDMAT LAIN
 
-Perlantikan
+<!-- marginal: Perlantikan -->
 
-10. (1) Menteri hendaklah melantik seseorang yang Ketua layak dan patut, atas apa-apa terma dan syarat Pengarah, Timbalan sebagaimana yang ditentukannya, untuk menjadi Ketua Ketua Pengarah yang adalah ketua pegawai eksekutif Pengarah, Lembaga. Pengarah dan pegawai serta pengkhidmat lain.
+10. (1) Menteri hendaklah melantik seseorang yang
+
+<!-- marginal: Ketua -->
+
+layak dan patut, atas apa-apa terma dan syarat
+
+<!-- marginal: Pengarah, -->
+
+<!-- marginal: Timbalan -->
+
+sebagaimana yang ditentukannya, untuk menjadi Ketua
+
+<!-- marginal: Ketua -->
+
+Pengarah yang adalah ketua pegawai eksekutif
+
+<!-- marginal: Pengarah, -->
+
+Lembaga.
+
+<!-- marginal: Pengarah dan -->
+
+<!-- marginal: pegawai serta -->
+
+<!-- marginal: pengkhidmat -->
+
+<!-- marginal: lain. -->
 
 <!-- page 10 -->
 
@@ -340,17 +416,57 @@ atas apa-apa terma dan syarat, termasuk saraan, sebagaimana yang ditentukan oleh
 
 boleh mengarahkan mana-mana Timbalan Ketua Pengarah untuk melaksanakan kewajipan-kewajipan Ketua Pengarah dalam masa Ketua Pengarah tidak ada atau tidak berupaya buat sementara itu.
 
-Hilang
+<!-- marginal: Hilang -->
 
-11. Tiada seorang pun layak diambil kerja sebagai kelayakan pegawai atau pengkhidmat Lembaga jika dia, secara untuk dilantik. langsung atau tak langsung, mempunyai sendiri atau melalui pekongsinya, apa-apa syer atau kepentingan dalam sesuatu kontrak atau kontrak yang dicadangkan, dengan, untuk atau bagi pihak Lembaga.
+11. Tiada seorang pun layak diambil kerja sebagai
 
-Peraturan-
+<!-- marginal: kelayakan -->
 
-12. Lembaga boleh, dari semasa ke semasa, dengan peraiuran kelulusan Menteri, membuat peraturan-peraturan berkenaan dengan berkenaan dengan syarat-syarat perkhidmatan pegawai- syarat-syarat pegawai dan pengkhidmat-pengkhidmat Lembaga. perkhidmatan.
+pegawai atau pengkhidmat Lembaga jika dia, secara
 
-Peraturan-
+<!-- marginal: untuk -->
 
-13. (1) Lembaga boleh, dari semasa ke semasa, peraturan dengan kelulusan Menteri, membuat peraturan-peraturan berkenaan dengan berkenaan dengan tatatertib pegawai-pegawai dan tatalertib. pengkhidmat-pengkhidmat Lembaga.
+<!-- marginal: dilantik. -->
+
+langsung atau tak langsung, mempunyai sendiri atau melalui pekongsinya, apa-apa syer atau kepentingan dalam sesuatu kontrak atau kontrak yang dicadangkan, dengan, untuk atau bagi pihak Lembaga.
+
+<!-- marginal: Peraturan- -->
+
+12. Lembaga boleh, dari semasa ke semasa, dengan
+
+<!-- marginal: peraiuran -->
+
+kelulusan Menteri, membuat peraturan-peraturan
+
+<!-- marginal: berkenaan -->
+
+<!-- marginal: dengan -->
+
+berkenaan dengan syarat-syarat perkhidmatan pegawai-
+
+<!-- marginal: syarat-syarat -->
+
+pegawai dan pengkhidmat-pengkhidmat Lembaga.
+
+<!-- marginal: perkhidmatan. -->
+
+<!-- marginal: Peraturan- -->
+
+13. (1) Lembaga boleh, dari semasa ke semasa,
+
+<!-- marginal: peraturan -->
+
+dengan kelulusan Menteri, membuat peraturan-peraturan
+
+<!-- marginal: berkenaan -->
+
+<!-- marginal: dengan -->
+
+berkenaan dengan tatatertib pegawai-pegawai dan
+
+<!-- marginal: tatalertib. -->
+
+pengkhidmat-pengkhidmat Lembaga.
 
 (2) Peraturan-peraturan yang dibuat di bawah seksyen ini boleh termasuk peruntukan-peruntukan bagi—
 
@@ -372,9 +488,13 @@ IV
 
 ## KEWANGAN
 
-Kumpulan
+<!-- marginal: Kumpulan -->
 
-14. (1) Maka adalah dengan ini ditubuhkan, bagi Wang. maksud-maksud Akta ini, suatu kumpulan wang yang akan ditadbirkan dan dikawal oleh Lembaga.
+14. (1) Maka adalah dengan ini ditubuhkan, bagi
+
+<!-- marginal: Wang. -->
+
+maksud-maksud Akta ini, suatu kumpulan wang yang akan ditadbirkan dan dikawal oleh Lembaga.
 
 (2) Kumpulan Wang hendaklah terdiri daripada—
 
@@ -430,7 +550,15 @@ maksud—
 
 lakukan dengan sah oleh Lembaga, termasuk fee guaman dan fee-fee. serta kos-kos lain, dan saraan pegawai-pegawai dan pengkhidmat- pengkhidmat yang dilantik dan diambil kerja oleh Lembaga, termasuk elaun persaraan, pencen dan ganjaran;
 
-(b) membayar apa-apa belanja, kos atau perbelanjaan lain yang dilakukan atau disetujuterima dengan sepatutnya oleh Lembaga dalam melaksanakan fungsi- fungsinya atau menjalankan kuasa-kuasanya di bawah seksyen 4;
+(b) membayar apa-apa belanja, kos
+
+<!-- marginal: atau -->
+
+perbelanjaan lain yang dilakukan atau disetujuterima dengan sepatutnya oleh Lembaga dalam melaksanakan
+
+<!-- marginal: fungsi- -->
+
+fungsinya atau menjalankan kuasa-kuasanya di bawah seksyen 4;
 
 (c) membeli atau menyewa kelengkapan, jentera, barang-barang simpanan dan apa-apa bahan lain, memperolehi tanah dan mendirikan bangunan-bangunan, dan menjalankan apa-apa kerja dan usaha lain dalam melaksanakan fungsi-fungsinya atau menjalankan kuasa- kuasanya di bawah seksyen 4;
 
@@ -440,27 +568,59 @@ lakukan dengan sah oleh Lembaga, termasuk fee guaman dan fee-fee. serta kos-kos 
 
 (e) pada amnya, membayar apa-apa perbelanjaan bagi melaksanakan peruntukan-peruntukan Akta ini.
 
-Perbelanjaan
+<!-- marginal: Perbelanjaan -->
 
-17. (1) Perbelanjaan Lembaga hingga sebanyak yang dan dibenarkan oleh Menteri bagi mana-mana satu tahun penyediaan anggaran. hendaklah dibayar daripada Kumpulan Wang.
+17. (1) Perbelanjaan Lembaga hingga sebanyak yang
+
+<!-- marginal: dan -->
+
+dibenarkan oleh Menteri bagi mana-mana satu tahun
+
+<!-- marginal: penyediaan -->
+
+<!-- marginal: anggaran. -->
+
+hendaklah dibayar daripada Kumpulan Wang.
 
 (2) Sebelum permulaan bulan September setiap tahun, Lembaga hendaklah mengemukakan kepada Menteri suatu anggaran perbelanjaan bagi tahun yang berikutnya dalam apa-apa bentuk dan yang mengan- dungi apa-apa butir sebagaimana yang diarahkan oleh Menteri; dan Menteri hendaklah, sebelum permulaan tahun yang berikutnya, memberitahu Lembaga amaun yang dibenarkan bagi perbelanjaan pada amnya atau amaun yang dibenarkan bagi setiap jenis perbelanjaan.
 
 (3) Lembaga boleh pada bila-bila masa menge- mukakan kepada Menteri suatu anggaran tambahan bagi mana-mana satu tahun dan Menteri boleh membenarkan kesemua atau mana-mana bahagian daripada per- belanjaan tambahan yang termasuk dalam anggaran tambahan itu.
 
-Akta Badan
+<!-- marginal: Akta Badan -->
 
-18. Peruntukan-peruntukan Akta Badan Berkanun Berkanun (Akaun dan Laporan Tahunan) 1980 adalah terpakai (Akaun dan Laporan bagi Lembaga. Tahunan)
+18. Peruntukan-peruntukan Akta Badan Berkanun
 
-1980. Akta 240.
+<!-- marginal: Berkanun -->
+
+(Akaun dan Laporan Tahunan) 1980 adalah terpakai
+
+<!-- marginal: (Akaun dan -->
+
+<!-- marginal: Laporan -->
+
+bagi Lembaga.
+
+<!-- marginal: Tahunan) -->
+
+1980.
+
+<!-- marginal: Akta 240. -->
 
 ## BAHAGIAN V
 
 ## KUASA-KUASA LAIN LEMBAGA
 
-Perwakilan
+<!-- marginal: Perwakilan -->
 
-19. Lembaga boleh, melalui suatu suratcara bertulis di oleh bawah meterai biasanya, mewakilkan mana-mana orang Lembaga. atau badan apa-apa kewajipannya sebagaimana yang perlu dilaksanakan di dalam atau di luar Malaysia:
+19. Lembaga boleh, melalui suatu suratcara bertulis di
+
+<!-- marginal: oleh -->
+
+bawah meterai biasanya, mewakilkan mana-mana orang
+
+<!-- marginal: Lembaga. -->
+
+atau badan apa-apa kewajipannya sebagaimana yang perlu dilaksanakan di dalam atau di luar Malaysia:
 
 Dengan syarat bahawa mana-mana orang atau badan sedemikian tidaklah mempunyai kawalan ke atas Kumpulan Wang dan hendaklah bertindak dalam segala aspek mengikut arahan Lembaga.
 
@@ -468,37 +628,71 @@ Dengan syarat bahawa mana-mana orang atau badan sedemikian tidaklah mempunyai ka
 
 ## MALAYSIA
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-20. Lembaga boleh dari, semasa ke semasa, dengan meminjam. kelulusan Menteri, meminjam, atas apa-apa kadar bunga dan bagi apa-apa tempoh dan atas apa-apa terma tentang masa dan cara pembayaran balik dan selainnya sebagaimana yang diluluskan oleh Menteri, apa-apa jumlah wang yang diperlukan oleh Lembaga bagi menjelaskan mana-mana obligasinya atau bagi menunaikan mana-mana kewajipannya.
+20. Lembaga boleh dari, semasa ke semasa, dengan
 
-Pelaburan.
+<!-- marginal: meminjam. -->
+
+kelulusan Menteri, meminjam, atas apa-apa kadar bunga dan bagi apa-apa tempoh dan atas apa-apa terma tentang masa dan cara pembayaran balik dan selainnya sebagaimana yang diluluskan oleh Menteri, apa-apa jumlah wang yang diperlukan oleh Lembaga bagi menjelaskan mana-mana obligasinya atau bagi menunaikan mana-mana kewajipannya.
+
+<!-- marginal: Pelaburan. -->
 
 21. Aset Lembaga, setakat yang tidak dikehendaki untuk dibelanjakan oleh Lembaga di bawah Akta ini, hendaklah dilaburkan mengikut cara yang diluluskan oleh Menteri.
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-22. Lembaga boleh mengambil kerja dan membayar mengambil ejen-ejen dan penasihat-penasihat teknik, termasuk kerja. peguambela dan peguamcara, jurubank, broker saham, juruukur, penilai dan orang-orang lain, untuk menjalankan apa-apa urusan atau melakukan apa-apa perbuatan yang dikehendaki dijalankan atau dilakukan dalam melaksanakan fungsi-fungsinya, menjalankan kuasa-kuasanya atau menunaikan kewajipan- kewajipannya atau bagi melaksanakan maksud-maksud Akta ini dengan lebih baik.
+22. Lembaga boleh mengambil kerja dan membayar
+
+<!-- marginal: mengambil -->
+
+ejen-ejen dan penasihat-penasihat teknik, termasuk
+
+<!-- marginal: kerja. -->
+
+peguambela dan peguamcara, jurubank, broker saham, juruukur, penilai dan orang-orang lain, untuk menjalankan apa-apa urusan atau melakukan apa-apa perbuatan yang dikehendaki dijalankan atau dilakukan dalam melaksanakan fungsi-fungsinya, menjalankan kuasa-kuasanya atau menunaikan kewajipan- kewajipannya atau bagi melaksanakan maksud-maksud Akta ini dengan lebih baik.
 
 ## BAHAGIAN VI
 
 AM
 
-Obligasi
+<!-- marginal: Obligasi -->
 
-23. (1) Kecuali bagi mana-mana maksud Akta ini atau menyimpan bagi maksud apa-apa prosiding sivil atau jenayah di rahsia. bawah mana-mana undang-undang bertulis, tiada anggota, pegawai atau pengkhidmat Lembaga boleh menzahirkan apa-apa maklumat yang telah diperolehi- nya semasa menjalankan kewajipan-kewajipannya yang tidak disiarkan menurut Akta ini.
+23. (1) Kecuali bagi mana-mana maksud Akta ini atau
+
+<!-- marginal: menyimpan -->
+
+bagi maksud apa-apa prosiding sivil atau jenayah di
+
+<!-- marginal: rahsia. -->
+
+bawah mana-mana undang-undang bertulis, tiada anggota, pegawai atau pengkhidmat Lembaga boleh menzahirkan apa-apa maklumat yang telah diperolehi- nya semasa menjalankan kewajipan-kewajipannya yang tidak disiarkan menurut Akta ini.
 
 (2) Mana-mana orang yang melanggar subseksyen (1) adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh dipenjarakan selama tempoh tidak melebihi satu tahun atau didenda tidak melebihi lima ribu ringgit atau kedua-duanya.
 
 <!-- page 16 -->
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-24. (1) Lembaga boleh, dengan kelulusan Menteri, membuat membuat apa-apa peraturan-peraturan yang suaimanfaat peraturan- peraturan. atau perlu bagi melaksanakan peruntukan-peruntukan Akta ini dengan lebih baik.
+24. (1) Lembaga boleh, dengan kelulusan Menteri,
+
+<!-- marginal: membuat -->
+
+membuat apa-apa peraturan-peraturan yang suaimanfaat
+
+<!-- marginal: peraturan- -->
+
+<!-- marginal: peraturan. -->
+
+atau perlu bagi melaksanakan peruntukan-peruntukan Akta ini dengan lebih baik.
 
 (2) Tanpa menjejaskan keluasan subseksyen (1), peraturan-peraturan boleh dibuat bagi—
 
-(a) menetapkan cara bagaimana apa-apa jenis dokumen, cek dan suratcara akan ditandatangani atau disempurnakan bagi pihak Lembaga;
+(a) menetapkan cara bagaimana apa-apa jenis dokumen, cek dan suratcara
+
+<!-- marginal: akan -->
+
+ditandatangani atau disempurnakan bagi pihak Lembaga;
 
 (b) menetapkan tanggungjawab dan kawalan pegawai-pegawai dan pengkhidmat-peng- khidmat Lembaga;
 
@@ -518,9 +712,13 @@ Kuasa untuk
 
 ## PERALIHAN
 
-Pemansuhan.
+<!-- marginal: Pemansuhan. -->
 
-25. Akta Perbadanan Kemajuan Pelancongan Malaysia Akta 72. 1972 dan mana-mana peraturan-peraturan yang dibuat di bawahnya adalah dengan ini dimansuhkan.
+25. Akta Perbadanan Kemajuan Pelancongan Malaysia
+
+<!-- marginal: Akta 72. -->
+
+1972 dan mana-mana peraturan-peraturan yang dibuat di bawahnya adalah dengan ini dimansuhkan.
 
 <!-- page 17 -->
 
@@ -596,9 +794,17 @@ ditetapkan dipindahkan kepada Kumpulan Wang.
 
 <!-- page 18 -->
 
-Penerusan
+<!-- marginal: Penerusan -->
 
-29. (1) Segala perintah, peraturan-peraturan, arahan, undang- perlantikan, pemberitahuan, pengecualian dan kelulusan undang, dsb. yang dibuat atau diberi di bawah, atau mengikut, atau menurut kuasa, Akta termansuh hendaklah, setakat yang perintah, peraturan-peraturan, arahan, perlantikan, pemberitahuan, pengecualian dan kelulusan itu tidak tak konsisten dengan peruntukan-peruntukan Akta ini atau Akta Industri Pelancongan 1991, disifatkan telah dibuat atau diberi di bawah Akta ini atau Akta Industri Pelancongan 1991 dan hendaklah terus berkuatkuasa sehingga peruntukan-peruntukan lain dibuat di bawah Akta ini atau Akta Industri Pelancongan 1991 atau sehingga tarikh yang padanya ia habis ternpoh.
+29. (1) Segala perintah, peraturan-peraturan, arahan,
+
+<!-- marginal: undang- -->
+
+perlantikan, pemberitahuan, pengecualian dan kelulusan
+
+<!-- marginal: undang, dsb. -->
+
+yang dibuat atau diberi di bawah, atau mengikut, atau menurut kuasa, Akta termansuh hendaklah, setakat yang perintah, peraturan-peraturan, arahan, perlantikan, pemberitahuan, pengecualian dan kelulusan itu tidak tak konsisten dengan peruntukan-peruntukan Akta ini atau Akta Industri Pelancongan 1991, disifatkan telah dibuat atau diberi di bawah Akta ini atau Akta Industri Pelancongan 1991 dan hendaklah terus berkuatkuasa sehingga peruntukan-peruntukan lain dibuat di bawah Akta ini atau Akta Industri Pelancongan 1991 atau sehingga tarikh yang padanya ia habis ternpoh.
 
 (2) Apa-apa permohonan untuk lesen atau perakuan pendaftaran, kelulusan atau keizinan, atau bagi apa-apa jua pun maksud, atau apa-apa rayuan, yang dibuat oleh mana-mana orang kepada Menteri atau Perbadanan sebelum hari ditetapkan, dan belum selesai sebelum hari sedemikian, hendaklah, jika terdapat peruntukan yang bersamaan di bawah Akta ini atau Akta Industri Pelancongan 1991 diuruskan seolah-olah telah dibuat di bawah peruntukan itu, dan jika tiada peruntukan bersamaan sedemikian wujud, permohonan atau rayuan itu hendaklah luput pada hari ditetapkan.
 
@@ -646,9 +852,13 @@ bagi kesalahan-kesalahan yang dilakukan di bawah Akta termansuh sebelum hari dit
 
 sebelum hari itu boleh dibawa oleh atau terhadap Lembaga atau Pesuruhjaya Pelancongan, mengikut mana-mana yang berkenaan, sebagaimana yang ia boleh dibawa oleh atau terhadap Perbadanan seolah-olah Akta ini atau Akta Industri Pelancongan 1991 telah tidak diluluskan.
 
-Menghalang
+<!-- marginal: Menghalang -->
 
-32. (1) Jika apa-apa kesukaran timbul berkenaan anomali. dengan peruntukan-peruntukan peralihan yang di- sebutkan terdahulu dalam Akta ini Menteri boleh, melalui perintah membuat apa-apa ubahsuaian dalam peruntukan-peruntukan tersebut sebagaimana yang didapatinya perlu bagi menghalang anomali:
+32. (1) Jika apa-apa kesukaran timbul berkenaan
+
+<!-- marginal: anomali. -->
+
+dengan peruntukan-peruntukan peralihan yang di- sebutkan terdahulu dalam Akta ini Menteri boleh, melalui perintah membuat apa-apa ubahsuaian dalam peruntukan-peruntukan tersebut sebagaimana yang didapatinya perlu bagi menghalang anomali:
 
 Dengan syarat bahawa Menteri tidaklah boleh menjalankan kuasa-kuasa yang diberi oleh seksyen ini selepas habis tempoh dua tahun dari hari ditetapkan.
 
@@ -658,9 +868,19 @@ Dengan syarat bahawa Menteri tidaklah boleh menjalankan kuasa-kuasa yang diberi 
 
 (Subseksyen 5 (4))
 
-Perlantikan,
+<!-- marginal: Perlantikan, -->
 
-1. (1) Seorang anggota Lembaga, selain daripada Ketua Pengarah, pembatalan dan hendaklah, tertakluk kepada apa-apa syarat yang dinyatakan dalam perletakan jawatan. suratcara perlantikannya, memegang jawatan selama tempoh yang tidak melebihi tiga tahun dan adalah layak dilantik semula.
+1. (1) Seorang anggota Lembaga, selain daripada Ketua Pengarah,
+
+<!-- marginal: pembatalan dan -->
+
+hendaklah, tertakluk kepada apa-apa syarat yang dinyatakan dalam
+
+<!-- marginal: perletakan -->
+
+<!-- marginal: jawatan. -->
+
+suratcara perlantikannya, memegang jawatan selama tempoh yang tidak melebihi tiga tahun dan adalah layak dilantik semula.
 
 (2) Perlantikan mana-mana anggota boleh pada bila-bila masa dibatalkan oleh Menteri tanpa memberikan apa-apa sebab baginya.
 
@@ -712,19 +932,37 @@ kosong—
 
 <!-- page 22 -->
 
-Lembaga boleh
+<!-- marginal: Lembaga boleh -->
 
-5. Lembaga boleh meminta mana-mana orang (yang bukan mengundang anggota Lembaga) menghadiri mana-mana mesyuarat atau orang tain menghadiri perbincangan Lembaga bagi maksud menasihatinya tentang apa- mesyuarat. apa perkara yang dibincangkan, tetapi mana-mana orang yang hadir sedemikian tidak berhak mengundi dalam mesyuarat atau perbincangan itu.
+5. Lembaga boleh meminta mana-mana orang (yang bukan
 
-Meterai biasa.
+<!-- marginal: mengundang -->
+
+anggota Lembaga) menghadiri mana-mana mesyuarat atau
+
+<!-- marginal: orang tain -->
+
+<!-- marginal: menghadiri -->
+
+perbincangan Lembaga bagi maksud menasihatinya tentang apa-
+
+<!-- marginal: mesyuarat. -->
+
+apa perkara yang dibincangkan, tetapi mana-mana orang yang hadir sedemikian tidak berhak mengundi dalam mesyuarat atau perbincangan itu.
+
+<!-- marginal: Meterai biasa. -->
 
 6. (1) Lembaga hendaklah mempunyai suatu meterai biasa yang mengandungi apa-apa tanda yang diluluskan oleh Lembaga dan meterai itu boleh dari semasa ke semasa dipecahkan, ditukar, diubah atau dibuat baharu sebagaimana yang difikirkan patut oleh Lembaga. (2) Sehingga suatu meterai diadakan oleh Lembaga, suatu cap yang mengandungi perkataan "Lembaga Penggalakan Pelancongan Malaysia" boleh digunakan dan hendaklah disifatkan sebagai meterai biasa Lembaga. (3) Meterai biasa itu hendaklah disimpan dalam jagaan Pengerusi atau mana-mana orang lain yang dibenarkan oleh Lembaga dan segala suratikatan, dokumen dan suratcara lain yang menghendaki dimeteraikan dengan meterai Lembaga hendaklah dimeteraikan dengan sewajarnya di hadapan dua orang anggota Lembaga yang hendaklah menandatangani tiap-tiap suratikatan, dokumen atau suratcara sedemikian yang telah dicapkan dengan meterai itu; dan tandatangan sedemikian, tanpa pengakusaksian selanjutnya, hendaklah menjadi keterangan mencukupi bahawa meterai itu telah dicapkan dengan sewajarnya dan sepatutnya dan bahawa ia adalah meterai sah Lembaga. (4) Meterai biasa Lembaga hendaklah diberikan pengiktirafan rasmi dan kehakiman.
 
-Penzahiran
+<!-- marginal: Penzahiran -->
 
-7. Seseorang anggota Lembaga yang, secara langsung atau tak kepentingan. langsung, mempunyai sendiri atau melalui pekongsinya, apa-apa kepentingan dalam mana-mana syarikat alau usaha yang dengannya Lembaga bercadang hendak membuat apa-apa kontrak atau yang ada mempunyai apa-apa kepentingan dalam mana-mana kontrak itu atau dalam apa-apa perkara yang sedang dibincangkan oleh Lembaga hendaklah menzahirkan hakikat dan jenis kepentingannya itu kepada Lembaga, dan penzahiran itu hendaklah direkodkan dalam minit Lembaga dan melainkan jika dibenarkan secara khusus oleh Pengerusi, anggota itu tidak boleh mengambil bahagian dalam apa-apa perbincangan atau keputusan Lembaga yang berhubungan dengan kontrak atau perkara itu.
+7. Seseorang anggota Lembaga yang, secara langsung atau tak
 
-Minil.
+<!-- marginal: kepentingan. -->
+
+langsung, mempunyai sendiri atau melalui pekongsinya, apa-apa kepentingan dalam mana-mana syarikat alau usaha yang dengannya Lembaga bercadang hendak membuat apa-apa kontrak atau yang ada mempunyai apa-apa kepentingan dalam mana-mana kontrak itu atau dalam apa-apa perkara yang sedang dibincangkan oleh Lembaga hendaklah menzahirkan hakikat dan jenis kepentingannya itu kepada Lembaga, dan penzahiran itu hendaklah direkodkan dalam minit Lembaga dan melainkan jika dibenarkan secara khusus oleh Pengerusi, anggota itu tidak boleh mengambil bahagian dalam apa-apa perbincangan atau keputusan Lembaga yang berhubungan dengan kontrak atau perkara itu.
+
+<!-- marginal: Minil. -->
 
 8. (1) Lembaga hendaklah menyebabkan minit segala mesyuarat Lembaga disenggara dan disimpan dalam bentuk yang sepatutnya. (2) Apa-apa minit yang dibuat mengenai mesyuarat Lembaga, jika ditandatangani dengan sewajarnya, boleh diterima sebagai keterangan dalam segala prosiding undang-undang tanpa bukti
 
@@ -734,9 +972,17 @@ Minil.
 
 selanjutnya dan tiap-tiap mesyuarat Lembaga yang minit berkenaan dengan prosidingnya telah dibuat sedemikian hendaklah disifatkan telah dipanggil dan diadakan dengan sewajarnya dan semua anggota dalam mesyuarat itu layak dengan sewajarnya untuk bertindak.
 
-Keesahan
+<!-- marginal: Keesahan -->
 
-9. Tiada apa-apa perbuatan yang dilakukan atau prosiding yang perbuatan dan diambil di bawah Akta ini boleh dipersoalkan atas alasan prosididig. bahawa—
+9. Tiada apa-apa perbuatan yang dilakukan atau prosiding yang
+
+<!-- marginal: perbuatan dan -->
+
+diambil di bawah Akta ini boleh dipersoalkan atas alasan
+
+<!-- marginal: prosididig. -->
+
+bahawa—
 
 (a) ada apa-apa kekosongan dalam keanggotaan, atau ada apa-apa kecacatan dalam penubuhan, Lembaga;
 

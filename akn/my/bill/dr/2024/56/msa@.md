@@ -72,7 +72,7 @@ Terhad Labuan (Pindaan)
 
 8. Akta ibu dipinda dengan memasukkan selepas seksyen 69 bahagian yang berikut:
 
-“Bahagian IVa
+## “BAHAGIAN IVA
 
 ## PEMUNYAAN BENEFISIAL
 

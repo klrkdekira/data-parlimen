@@ -80,11 +80,7 @@ intituled
 
 (b) by substituting for subsection (2) the following subsection:
 
-"(2) Subjects to subsection (3), an
-
-<!-- marginal: Inspector -->
-
-appointed under subsection (1) shall have all the powers, functions and duties conferred under this Act.";
+"(2) Subjects to subsection (3), an Inspector appointed under subsection (1) shall have all the powers, functions and duties conferred under this Act.";
 
 (c) by substituting for subsection (3) the following subsection:
 
@@ -142,7 +138,9 @@ appointed under subsection (1) shall have all the powers, functions and duties c
 
 (3) A person making a statement under this section shall be legally bound to state the truth, whether or not such statement is made wholly or partly in answer to questions.
 
-(4) An Inspector examining a person under subsection (1) shall first inform that person of the provisions of subsections (2) and (3).
+(4) An Inspector examining a person under subsection (1) shall first inform that person of the provisions of subsections
+
+(2) and (3).
 
 (5) A statement made by any person under this section shall, whenever possible, be taken down in writing and signed by the person making it or affixed with his thumb-print, as the case may be, after it has been read to him in the language in which he made it and after he has been given an opportunity to make any corrections he may wish.".
 
@@ -546,7 +544,7 @@ to the Director General of an amount of money not exceeding fifty percent of the
 
 <!-- page 19 -->
 
-### it
+<!-- marginal: it -->
 
 ### or association of persons be jointly and severally liable for
 
@@ -606,65 +604,41 @@ Monthly Wages Employee's Employee's Total Contribution Contribution
 
 (ii) by inserting after item 24 the following items:
 
-Monthly Wages
+Monthly Wages Employer's Contribution
 
-<!-- marginal: Employer's -->
-
-<!-- marginal: Contribution -->
-
-"25. When wages exceed RM2.000
-
-<!-- marginal: RM25.60 -->
-
-but not RM2,100
+"25. When wages exceed RM2.000 RM25.60 but not RM2,100
 
 <!-- page 21 -->
 
-<!-- marginal: Employer's -->
+Employer's Monthly Wages Contribution
 
-Monthly Wages
-
-<!-- marginal: Contribution -->
-
-<!-- marginal: RM26.90 -->
+RM26.90
 
 26. When wages exceed RM2,100 but not RM2,200
 
-<!-- marginal: RM28.10 -->
+RM28.10
 
 27. When wages exceed RM2,200 but not RM2,300
 
-28. When wages exceed RM2,300
+28. When wages exceed RM2,300 RM29.40 but not RM2,400
 
-<!-- marginal: RM29.40 -->
-
-but not RM2,400
-
-<!-- marginal: RM30.60 -->
+RM30.60
 
 29. When wages exceed RM2,400 but not RM2,500
 
-30. When wages exceed RM2,500
+30. When wages exceed RM2,500 RM31.90 but not RM2,600
 
-<!-- marginal: RM31.90 -->
+31. When wages exceed RM2,600 RM33.10 but not RM2,700
 
-but not RM2,600
-
-31. When wages exceed RM2,600
-
-<!-- marginal: RM33.10 -->
-
-but not RM2,700
-
-<!-- marginal: RM34.40 -->
+RM34.40
 
 32. When wages exceed RM2,7OO but not RM2,800
 
-<!-- marginal: RM35.60 -->
+RM35.60
 
 33. When wages exceed RM2,800 but not RM2,900
 
-<!-- marginal: RM36.90 -->
+RM36.90
 
 34. When wages exceed RM2,900
 
@@ -682,13 +656,7 @@ in paragraph 4—
 
 (iii) by inserting after item 24 the following items:
 
-Actual monthly First Second Corresponding wage of the Category Category assumed month
-
-<!-- marginal: monthly -->
-
-<!-- marginal: wage for -->
-
-<!-- marginal: the month -->
+Actual monthly First Second Corresponding wage of the Category Category assumed month monthly wage for the month
 
 '25. When wages RM46.10 RM25.60 RM2,050.00 exceed RM2,000 but not RM2,100
 
@@ -830,4 +798,4 @@ seeks to amend the Social Security Act 1969 ("Act 4").
 
 This Bill will not involve the Government in any extra financial expenditure.
 
-[PN(U2)2358]
+<!-- marginal: [PN(U2)2358] -->

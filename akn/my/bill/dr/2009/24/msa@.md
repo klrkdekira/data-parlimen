@@ -38,11 +38,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ' "institusi kewangan Labuan" ertinya mana-mana orang yang-
 
-( a ) menyediakan perkhidmatan
-
-<!-- marginal: kewangan -->
-
-Labuan; atau
+( a ) menyediakan perkhidmatan kewangan Labuan; atau
 
 ( b ) diperbadankan, didaftarkan atau ditubuhkan di bawah undang-undang yang dinyatakan dalam Jadual;';
 
@@ -66,11 +62,7 @@ Labuan; atau
 
 <!-- page 3 -->
 
-( b ) mana-mana kesatuan sekerja
-
-<!-- marginal: yang -->
-
-didaftarkan di bawah mana-mana undang- undang bertulis; dan
+( b ) mana-mana kesatuan sekerja yang didaftarkan di bawah mana-mana undang- undang bertulis; dan
 
 ( c ) mana-mana pertubuhan yang didaftarkan di bawah mana-mana undang-undang bertulis yang berhubungan dengan koperasi;
 
@@ -94,11 +86,7 @@ didaftarkan di bawah mana-mana undang- undang bertulis; dan
 
 (iii) dengan memasukkan selepas perenggan ( b ) perenggan yang berikut:
 
-" ( c ) untuk bertindak sebagai pihak berkuasa pengawalseliaan, penyeliaan
-
-<!-- marginal: dan -->
-
-penguatkuasaan pusat bagi industri perniagaan antarabangsa dan perkhidmatan kewangan di Labuan.".
+" ( c ) untuk bertindak sebagai pihak berkuasa pengawalseliaan, penyeliaan dan penguatkuasaan pusat bagi industri perniagaan antarabangsa dan perkhidmatan kewangan di Labuan.".
 
 <!-- page 4 -->
 
@@ -110,11 +98,7 @@ penguatkuasaan pusat bagi industri perniagaan antarabangsa dan perkhidmatan kewa
 
 (i) dengan menggantikan perenggan ( a ) dengan perenggan yang berikut:
 
-" ( a ) untuk mentadbir, menguatkuasakan, menjalankan dan melaksanakan peruntukan Akta ini dan undang-undang yang dinyatakan dalam Jadual dan apa-apa
-
-<!-- marginal: jua yang -->
-
-bersampingan dengan undang-undang itu dan untuk memastikan bahawa undang-undang itu dipatuhi;";
+" ( a ) untuk mentadbir, menguatkuasakan, menjalankan dan melaksanakan peruntukan Akta ini dan undang-undang yang dinyatakan dalam Jadual dan apa-apa jua yang bersampingan dengan undang-undang itu dan untuk memastikan bahawa undang-undang itu dipatuhi;";
 
 (ii) dengan menggantikan perenggan ( c ) dengan perenggan yang berikut:
 
@@ -318,11 +302,7 @@ berlesen" takrif yang berikut:
 
 <!-- marginal: berkuasa -->
 
-pengawalseliaan tempatan itu mempunyai peruntukan yang perlu dalam dokumen konstituennya atau undang-undang yang bersamaannya untuk melindungi maklumat
-
-<!-- marginal: itu daripada -->
-
-penzahiran yang menyalahi undang-undang;
+pengawalseliaan tempatan itu mempunyai peruntukan yang perlu dalam dokumen konstituennya atau undang-undang yang bersamaannya untuk melindungi maklumat itu daripada penzahiran yang menyalahi undang-undang;
 
 ( c ) kepada agensi penguat kuasa undang-undang tempatan, jika terdapat syak yang munasabah berdasarkan keterangan yang diberikan kepada Lembaga tentang suatu kesalahan jenayah yang akan dilakukan atau sedang dilakukan atau telah dilakukan dengan syarat bahawa agensi penguat kuasa undang-undang tempatan itu telah menyempurnakan suatu aku janji kerahsiaan yang memihak kepada Lembaga yang berhubungan dengan apa- apa maklumat yang diberikan di bawah subseksyen ini;
 

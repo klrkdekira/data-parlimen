@@ -16,7 +16,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Tajuk ringkas dan permulaan kuat kuasa
 
-1. (1) Akta ini bolehlah dinamakan Akta Bank Islam (Pindaan) 2001.
+1. (1) Akta ini bolehlah dinamakan Akta Bank Islam (Pindaan)
+
+2001.
 
 (2) Akta ini hendaklah mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
 

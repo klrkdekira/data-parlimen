@@ -46,15 +46,37 @@ takrif "hakim" dengan memasukkan selepas perkataan "Hakim Mahkamah Tinggi" perka
 
 <!-- page 2 -->
 
-Pindaan 4. Subseksyen 16(1) Akta ibu adalah dipinda— seksyen 16.
+<!-- marginal: Pindaan -->
+
+4. Subseksyen 16(1) Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 16. -->
 
 (a) dalam subperenggan (b)(i) dengan menggantikan perkataan "seribu lima ratus" dan perkataan "lapan" masing-masing dengan perkataan "dua ribu" dan perkataan "tiga belas"; dan
 
-(b) dalam subperenggan (b)(ii) dengan menggantikan perkataan "dua" dan perkataan "tujuh ribu lima ratus" masing-masing dengan perkataan "tiga" dan perkataan "dua belas ribu". 5. Akta ibu adalah dipinda dengan memasukkan selepas baru 16a. seksyen 16A seksyen yang berikut:
+(b) dalam subperenggan (b)(ii) dengan menggantikan perkataan "dua" dan perkataan "tujuh ribu lima ratus" masing-masing dengan perkataan "tiga" dan perkataan "dua belas ribu".
 
-"Bayaran I6B. Mana-mana orang yang telah layak pendaftaran" mendapat bantuan guaman di bawah seksyen 15, 16 atau 16A adalah dikehendaki membayar kepada Pengarah sejumlah dua ringgit sebagai bayaran pendaftaran"
+<!-- marginal: Seksyen -->
 
-Pindaan 6. Subseksyen 17(1) Akta ibu adalah dipinda— seksyen 17
+5. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru 16a. -->
+
+seksyen 16A seksyen yang berikut:
+
+<!-- marginal: "Bayaran -->
+
+I6B. Mana-mana orang yang telah layak
+
+<!-- marginal: pendaftaran" -->
+
+mendapat bantuan guaman di bawah seksyen 15, 16 atau 16A adalah dikehendaki membayar kepada Pengarah sejumlah dua ringgit sebagai bayaran pendaftaran"
+
+<!-- marginal: Pindaan -->
+
+6. Subseksyen 17(1) Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 17 -->
 
 (a) dalam takrif "modal boleh guna"—
 

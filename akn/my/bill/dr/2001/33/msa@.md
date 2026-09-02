@@ -98,7 +98,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 5. Akta ibu dipinda dengan memasukkan selepas seksyen 11 seksyen yang berikut:
 
-### "Ejen
+<!-- marginal: "Ejen -->
 
 11A. (1) Mana-mana orang, firma atau syarikat boleh memohon untuk bertindak sebagai seorang ejen bagi maksud Akta ini jika—
 

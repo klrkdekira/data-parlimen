@@ -42,15 +42,17 @@ dipinda—
 
 (b) dengan memasukkan, selepas perkataan "pekeliling," dalam takrif "iklan", perkataan- perkataan "laporan, ulasan,"; dan
 
-(c) dengan memotong perkataan
-
-<!-- marginal: "berdaftar" -->
-
-dalam takrif "pegawai berkuasa".
+(c) dengan memotong perkataan "berdaftar" dalam takrif "pegawai berkuasa".
 
 <!-- page 2 -->
 
-Pindaan 3. Seksyen 3 Akta ibu adalah dipinda, dalam seksyen 3. subseksyen (1)—
+<!-- marginal: Pindaan -->
+
+3. Seksyen 3 Akta ibu adalah dipinda, dalam
+
+<!-- marginal: seksyen 3. -->
+
+subseksyen (1)—
 
 (a) dengan memasukkan, selepas perkataan- perkataan "sebagai suatu ubat", perkataan- perkataan ", alat atau penyembuh"; dan
 
@@ -58,17 +60,47 @@ Pindaan 3. Seksyen 3 Akta ibu adalah dipinda, dalam seksyen 3. subseksyen (1)—
 
 "(d) mendiagnosis sesuatu penyakit seperti yang dinyatakan dalam Jadual:".
 
-Pindaan 4. Seksyen 4A Akta ibu adalah dipinda dengan seksyen 4A. menggantikannya dengan seksyen yang berikut:
+<!-- marginal: Pindaan -->
 
-"Larangan 4A. Tertakluk kepada Akta ini, tiada seorang terhadap pun boleh mengambil bahagian dalam iklan yang berhubungan penyiaran apa-apa iklan— dengan kemahiran
+4. Seksyen 4A Akta ibu adalah dipinda dengan
 
-(a) yang merujuk kepada apa-apa ke- atau mahiran atau perkhidmatan yang perkhid- berhubungan dengan rawatan, pen- matan. cegahan atau diagnosis bagi apa-apa ailmen, penyakit, kecederaan, kele- mahan atau keadaan yang melibatkan tubuh manusia; dan
+<!-- marginal: seksyen 4A. -->
 
-(b) yang dapat mendorong, atau yang mengandungi pelawaan, sama ada nyata atau tersirat, kepada, mana-mana orang untuk mendapatkan nasihat pengiklan atau mana-mana orang yang dirujuk dalam iklan
+menggantikannya dengan seksyen yang berikut:
 
-<!-- marginal: itu berkaitan -->
+<!-- marginal: "Larangan -->
 
-dengan kemahiran atau perkhidmatan itu:
+4A. Tertakluk kepada Akta ini, tiada seorang
+
+<!-- marginal: terhadap -->
+
+pun boleh mengambil bahagian dalam
+
+<!-- marginal: iklan yang -->
+
+<!-- marginal: berhubungan -->
+
+penyiaran apa-apa iklan—
+
+<!-- marginal: dengan -->
+
+<!-- marginal: kemahiran -->
+
+(a) yang merujuk kepada apa-apa ke-
+
+<!-- marginal: atau -->
+
+mahiran atau perkhidmatan yang
+
+<!-- marginal: perkhid- -->
+
+berhubungan dengan rawatan, pen-
+
+<!-- marginal: matan. -->
+
+cegahan atau diagnosis bagi apa-apa ailmen, penyakit, kecederaan, kele- mahan atau keadaan yang melibatkan tubuh manusia; dan
+
+(b) yang dapat mendorong, atau yang mengandungi pelawaan, sama ada nyata atau tersirat, kepada, mana-mana orang untuk mendapatkan nasihat pengiklan atau mana-mana orang yang dirujuk dalam iklan itu berkaitan dengan kemahiran atau perkhidmatan itu:
 
 Dengan syarat bahawa seksyen ini tidaklah terpakai bagi apa-apa iklan yang disiarkan—
 
@@ -92,11 +124,7 @@ yang dikendalikan oleh seseorang pengamal perubatan berdaftar yang mempunyai per
 
 subseksyen (1)—
 
-(a) dengan memasukkan, selepas perkataan- perkataan "sebagai ubat",
-
-<!-- marginal: perkataan- -->
-
-perkataan ", alat atau penyembuh"; dan
+(a) dengan memasukkan, selepas perkataan- perkataan "sebagai ubat", perkataan- perkataan ", alat atau penyembuh"; dan
 
 (b) dengan memotong perkataan-perkataan "yang ditubuhkan bagi maksud
 
@@ -118,7 +146,9 @@ memotong perkataan "berdaftar".
 
 <!-- marginal: seksyen 6s. -->
 
-menomborkan seksyen yang ada sebagai subseksyen (1) seksyen 6B dan dengan memasukkan, selepas itu, subseksyen-subseksyen yang berikut:
+menomborkan seksyen yang ada sebagai subseksyen
+
+(1) seksyen 6B dan dengan memasukkan, selepas itu, subseksyen-subseksyen yang berikut:
 
 "(2) Seseorang pegawai berkuasa yang mem- buat penyiasatan di bawah Akta ini boleh, melalui perintah bertulis, menghendaki supaya nadir di hadapannya mana-mana orang yang, daripada maklumat yang diberikan atau selainnya, didapati tahu tentang hal-hal keadaan kes itu, dan orang itu
 
@@ -136,9 +166,7 @@ Dengan syarat bahawa tiada seorang pun boleh dikehendaki di bawah seksyen ini me
 
 <!-- marginal: suatu -->
 
-perintah yang dikeluarkan di bawah subseksyen (2), maka pegawai berkuasa yang mengeluarkan perintah itu boleh melaporkan keengganan itu kepada Majistret yang boleh
-
-<!-- marginal: sesudah -->
+perintah yang dikeluarkan di bawah subseksyen (2), maka pegawai berkuasa yang mengeluarkan perintah itu boleh melaporkan keengganan itu kepada Majistret yang boleh sesudah
 
 <!-- marginal: itu, -->
 
@@ -148,9 +176,19 @@ mengikut budi bicaranya, mengeluarkan waran untuk memastikan kehadiran orang
 
 bagaimana yang dikehendaki oleh perintah itu.".
 
-Pindaan 8. Seksyen 6r Akta ibu adalah dipinda dalam seksyen 6F. subseksyen (2) dengan menggantikan perkataan- perkataan "ahli farmasi berdaftar dalam perkhidmatan awam yang diberi kuasa secara bertulis oleh Pendakwa Raya" dengan perkataan-perkataan "pegawai ber- kuasa".
+<!-- marginal: Pindaan -->
 
-Pindaan 9. Seksyen 7 Akta ibu adalah dipinda— seksyen 7.
+8. Seksyen 6r Akta ibu adalah dipinda dalam
+
+<!-- marginal: seksyen 6F. -->
+
+subseksyen (2) dengan menggantikan perkataan- perkataan "ahli farmasi berdaftar dalam perkhidmatan awam yang diberi kuasa secara bertulis oleh Pendakwa Raya" dengan perkataan-perkataan "pegawai ber- kuasa".
+
+<!-- marginal: Pindaan -->
+
+9. Seksyen 7 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 7. -->
 
 (a) dalam perenggan (a), dengan memasukkan, selepas perkataan-perkataan "bagi maksud", perkataan-perkataan "seksyen 4A dan"; dan
 
@@ -188,6 +226,4 @@ memerintahkan mana-mana orang yang didapati tahu tentang hal- hal keadaan kes it
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
-
-<!-- marginal: [PN. (Uz) 1318.] -->
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN. (Uz) 1318.]

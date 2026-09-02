@@ -18,19 +18,93 @@
 
 4. Amendment of section 19 5. Amendment of section 25 6. Amendment of section 32 7. Amendment of section 39 8. Amendment of section 43 9. Amendment of section 44
 
-10. Special provision relating to section 44 11. New section 44A 12. Amendment of section 45A 13. Amendment of section 46 14. Amendment of section 48 15. Amendment of section 60 16. Amendment of section 60F 17. New section 60FA 18. Special provision relating to section 60FA 19. Amendment of section 75A 20. Amendment of section 91
+10. Special provision relating to section 44
+
+11. New section 44A
+
+12. Amendment of section 45A
+
+13. Amendment of section 46
+
+14. Amendment of section 48
+
+15. Amendment of section 60
+
+16. Amendment of section 60F
+
+17. New section 60FA
+
+18. Special provision relating to section 60FA
+
+19. Amendment of section 75A
+
+20. Amendment of section 91
 
 <!-- page 2 -->
 
 ### !
 
-21. Amendment of section 95 22. Amendment of section 107c 23. Amendment of section 111B 24. Amendment of section 125 25. Amendment of section 127 26. Amendment of section 134 27. Amendment of section 136 28. Amendment of section 146 29. Amendment of section 147 30. Amendment of section 153 31. Special provision relating to section 153 32. Amendment of Schedule 3 33. Special provision relating to paragraph 75A 34. Deletion of Schedule 4A 35. Deletion of Schedule 4c 36. Amendment of Schedule 6 37. Amendment of Schedule 7A 38. Saving and transitional provisions
+21. Amendment of section 95
+
+22. Amendment of section 107c
+
+23. Amendment of section 111B
+
+24. Amendment of section 125
+
+25. Amendment of section 127
+
+26. Amendment of section 134
+
+27. Amendment of section 136
+
+28. Amendment of section 146
+
+29. Amendment of section 147
+
+30. Amendment of section 153
+
+31. Special provision relating to section 153
+
+32. Amendment of Schedule 3
+
+33. Special provision relating to paragraph 75A
+
+34. Deletion of Schedule 4A
+
+35. Deletion of Schedule 4c
+
+36. Amendment of Schedule 6
+
+37. Amendment of Schedule 7A
+
+38. Saving and transitional provisions
 
 ## CHAPTER III
 
 ## AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976
 
-39. Commencement of amendments to the Real Property Gains Tax Act 1976 40. Amendment of section 9 41. Amendment of section 15 42. Amendment of section 24 43. New section 24A 44. Amendment of section 45 45. Amendment of section 55 46. Amendment of section 56 47. Amendment of Schedule 2 48. Amendment of Schedule 3 49. Saving and transitional provisions
+39. Commencement of amendments to the Real Property Gains Tax Act 1976
+
+40. Amendment of section 9
+
+41. Amendment of section 15
+
+42. Amendment of section 24
+
+43. New section 24A
+
+44. Amendment of section 45
+
+45. Amendment of section 55
+
+46. Amendment of section 56
+
+47. Amendment of Schedule 2
+
+48. Amendment of Schedule 3
+
+49. Saving and transitional provisions
 
 <!-- page 3 -->
 
@@ -292,7 +366,9 @@ whichever is the lower less the amount paid for the shares.
 
 (6) For the purpose of subsection (5), the surrendering company and the claimant company shall ascertain the order of priority in respect of the adjusted loss surrendered or claimed but if that loss cannot be effected in accordance with the order of priority specified by any surrendering company or claimant company the amount of adjusted loss surrendered or claimed shall be dealt with in such manner as the Director General thinks reasonable and proper.
 
-(7) Notwithstanding that a company to which subsection (3) applies, owns at least seventy per cent of the paid-up capital in the other company, it shall not be treated to have satisfied that subsection unless additionally in the year of assessment the first mentioned company is beneficially entitled to at least seventy per cent of—
+(7) Notwithstanding that a company to which subsection
+
+(3) applies, owns at least seventy per cent of the paid-up capital in the other company, it shall not be treated to have satisfied that subsection unless additionally in the year of assessment the first mentioned company is beneficially entitled to at least seventy per cent of—
 
 (a) any residual profits of the other company, available for distribution to that other company's equity holders; and
 
@@ -970,7 +1046,7 @@ This Bill seeks to amend the Income Tax Act 1967 ("Act 53"), the Real Property G
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
-## Chapter II of this Bill seeks to amend the Income Tax Act 1967.
+Chapter II of this Bill seeks to amend the Income Tax Act 1967.
 
 2. Clause 5 seeks to amend section 25 of Act 53. New subsection (1A) is introduced so that the gross income in respect of any right to acquire shares in a company is taxed in the year where the right is exercised, assigned, released or acquired.
 
@@ -1100,7 +1176,7 @@ This amendment will have effect for the year of assessment 2006 and subsequent y
 
 ## AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976
 
-## Chapter III of this Bill seeks to amend the Real Property Gains Tax Act 1976.
+Chapter III of this Bill seeks to amend the Real Property Gains Tax Act 1976.
 
 29. Clause 40 seeks to introduce new subsection (3A) into section 9 of Act 169 to empower the Minister to exempt any person from tax in respect of any income or class of income under Act 169.
 
@@ -1130,7 +1206,7 @@ This amendment is deemed to have come into operation on 1 October 2005.
 
 ## AMENDMENTS TO THE STAMP ACT 1949
 
-## Chapter IV of this Bill seeks to amend the Stamp Act 1949.
+Chapter IV of this Bill seeks to amend the Stamp Act 1949.
 
 36. Clause 51 seeks to amend subsection 21(2) of Act 378. With the proposed amendment, where ad valorem duty is not payable under that subsection, a contract or agreement is only subject to a fixed duty of ten ringgit.
 
@@ -1160,7 +1236,7 @@ This amendment is deemed to have come into operation on I October 2005.
 
 ## AMENDMENTS TO THE PETROLEUM (INCOME TAX) ACT 1967
 
-## Chapter V of this Bill seeks to amend the Petroleum (Income Tax) Act 1967.
+Chapter V of this Bill seeks to amend the Petroleum (Income Tax) Act 1967.
 
 42. Clause 58 seeks to amend section 2 of Act 543 to be consistent with the recent changes on nomenclature which has been introduced in the Inland Revenue Board of Malaysia.
 
@@ -1180,9 +1256,7 @@ This amendment comes into operation on 1 January 2006.
 
 ## ACTIVITY TAX ACT 1990
 
-## Chapter VI of this Bill seeks to amend the Labuan Offshore Business Activity
-
-Tax Act 1990.
+Chapter VI of this Bill seeks to amend the Labuan Offshore Business Activity Tax Act 1990.
 
 47. Clause 65 seeks to amend section 18 of Act 445 to be consistent with the latest change to nomenclature which has been introduced in the Inland Revenue Board of Malaysia.
 

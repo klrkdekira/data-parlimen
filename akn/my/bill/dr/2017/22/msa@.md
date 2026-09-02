@@ -140,9 +140,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 6 -->
 
-### Pemotongan seksyen 16b, 16c, 16d, 16e, 16f, 16g dan 16h
+## PEMOTONGAN SEKSYEN 16B, 16C, 16D, 16E, 16F, 16G DAN 16H
 
-9. Akta ibu dipinda dengan memotong seksyen 16b, 16c, 16d, 16e, 16f, 16g dan 16h.
+9. Akta ibu dipinda dengan memotong seksyen 16b, 16c, 16d, 16E, 16F, 16G DAN 16H.
 
 ### Penggantian seksyen 22
 
@@ -188,7 +188,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 14. Akta ibu dipinda dengan memasukkan selepas Jadual Kedua Jadual yang berikut:
 
-“Jadual Ketiga
+## “JADUAL KETIGA
 
 [Subseksyen 28a(2)]
 

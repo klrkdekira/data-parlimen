@@ -72,9 +72,7 @@ B. 5 .. Public Services Commission ..
 
 <!-- page 2 -->
 
-Purpose Title
-
-<!-- marginal: Appropriation -->
+Purpose Title Appropriation
 
 <!-- marginal: to purpose -->
 
@@ -122,16 +120,12 @@ B. 34 .. Ministry of Health .. .. ..
 
 <!-- marginal: 26,600,000 -->
 
-B. 53 .. Ministry of Land and Regional Development.. .. .. ..
-
-<!-- marginal: 11,000,000 -->
+B. 53 .. Ministry of Land and Regional Development.. .. .. .. 11,000,000
 
 ## TOTAL
 
-<!-- marginal: .. $246,315,679 -->
+.. $246,315,679
 
 ## EXPLANATORY STATEMENT
 
-The object of this Bill is to give statutory authority for certain additional payments to be made for federal public services in the year 1989 in excess of the expenditure sanctioned by. the Supply Act 1989, the Supplementary Supply (1988 and 1989) Act 1989 and the Supplementary Supply (1988 and 1989) Act 1990.
-
-<!-- marginal: [PN. (IP) 1603.] -->
+The object of this Bill is to give statutory authority for certain additional payments to be made for federal public services in the year 1989 in excess of the expenditure sanctioned by. the Supply Act 1989, the Supplementary Supply (1988 and 1989) Act 1989 and the Supplementary Supply (1988 and 1989) Act 1990. [PN. (IP) 1603.]

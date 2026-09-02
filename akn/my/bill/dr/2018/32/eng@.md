@@ -8,7 +8,7 @@ An Act to provide for the national language text of the Co-operative College (In
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -22,7 +22,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 2 -->
 
-## Part II
+## PART II
 
 ## AMENDMENTS TO THE NATIONAL LANGUAGE TEXT OF THE
 
@@ -148,7 +148,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (h) tiga orang lain yang, pada pendapat Menteri, mempunyai kelayakan atau pengalaman dalam perkara yang berhubungan dengan pembangunan, pengendalian atau kebajikan Maktab.
 
-(2) Anggota yang disebut dalam perenggan (1)(a), (d), (e), (f), (g) dan (h)—
+(2) Anggota yang disebut dalam perenggan (1)(a), (d),
+
+(e), (f), (g) dan (h)—
 
 (a) hendaklah dilantik oleh Menteri selama tempoh tidak melebihi dua tahun; dan
 
@@ -194,9 +196,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ### Pengosongan jawatan
 
-### 4e.
-
-Jawatan seseorang anggota Lembaga yang disebut dalam subseksyen 4b(1) hendaklah menjadi kosong—
+4E. Jawatan seseorang anggota Lembaga yang disebut dalam subseksyen 4b(1) hendaklah menjadi kosong—
 
 (a) apabila anggota itu mati;
 
@@ -206,7 +206,9 @@ Jawatan seseorang anggota Lembaga yang disebut dalam subseksyen 4b(1) hendaklah 
 
 ### Pembatalan pelantikan
 
-4f. (1) Menteri boleh membatalkan pelantikan seseorang anggota Lembaga yang disebut dalam perenggan (1)(a), (d), (e), (f), (g) dan (h)—
+4f. (1) Menteri boleh membatalkan pelantikan seseorang anggota Lembaga yang disebut dalam perenggan (1)(a), (d),
+
+(e), (f), (g) dan (h)—
 
 (a) jika kelakuannya, sama ada yang berkaitan dengan tugasnya sebagai anggota Lembaga atau selainnya, ialah kelakuan yang memburukkan nama Lembaga atau Maktab;
 
@@ -482,7 +484,7 @@ bagi apa-apa perbuatan atau peninggalan yang dilakukan atau ditinggalkan dengan 
 
 (b) mengenai apa-apa perkara sebagaimana yang suai manfaat atau perlu bagi melaksanakan peruntukan Akta ini dengan lebih baik.” ’.
 
-## Part III
+## PART III
 
 ## AMENDMENTS TO THE AKTA MAKTAB KERJASAMA
 
@@ -558,7 +560,7 @@ bagi apa-apa perbuatan atau peninggalan yang dilakukan atau ditinggalkan dengan 
 
 (9) All moneys contained in the Kumpulan Wang Rizab and the Kumpulan Wang Simpanan Bercarum of the Maktab Koperasi Malaysia shall, upon the coming into operation of this Part, be transferred to and be deemed to be part of the Kumpulan Wang Rizab and the Kumpulan Wang Simpanan Bercarum of the Institut Koperasi Malaysia.”.
 
-## Part IV
+## PART IV
 
 ## AMENDMENTS TO THE CO-OPERATIVE COLLEGE
 
@@ -630,31 +632,29 @@ bagi apa-apa perbuatan atau peninggalan yang dilakukan atau ditinggalkan dengan 
 
 This Bill seeks to provide for the national language text of the Co-operative College (Incorporation) (Amendment) Act 2011 (“Act A1398”), and to amend the Akta Maktab Kerjasama (Pemerbadanan) 1968 (“Akta No. 35 tahun 1968”) and the Co-operative College (Incorporation) Act 1968 (“Act 437”).
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 2. Clause 1 contains the short title and commencement of the proposed Act.
 
-## Part II
+## PART II
 
 ## AMENDMENTS TO THE NATIONAL LANGUAGE TEXT OF THE CO-OPERATIVE
 
 ## COLLEGE (INCORPORATION) (AMENDMENT) ACT 2011
 
-## Part II of the proposed Act seeks to amend the national language text of the
-
-Co-operative College (Incorporation) (Amendment) Act 2011 [Act A1398]. The Co-operative College (Incorporation) (Amendment) Act 2011 has been passed by the Dewan Rakyat on 14 June 2011 and the Dewan Negara on 4 July 2011. Subsequently the Co-operative College (Incorporation) (Amendment) Act 2011 has been assented by His Majesty the Yang di-Pertuan Agong on 5 August 2011 and published in the Gazette on 18 August 2011.
+Part II of the proposed Act seeks to amend the national language text of the Co-operative College (Incorporation) (Amendment) Act 2011 [Act A1398]. The Co-operative College (Incorporation) (Amendment) Act 2011 has been passed by the Dewan Rakyat on 14 June 2011 and the Dewan Negara on 4 July 2011. Subsequently the Co-operative College (Incorporation) (Amendment) Act 2011 has been assented by His Majesty the Yang di-Pertuan Agong on 5 August 2011 and published in the Gazette on 18 August 2011.
 
 <!-- page 26 -->
 
-## Part III
+## PART III
 
 ## AMENDMENTS TO THE AKTA MAKTAB KERJASAMA (PEMERBADANAN) 1968
 
 ## [AKTA NO. 35 TAHUN 1968]
 
-## Part III of the proposed Act seeks to amend Akta No. 35 tahun 1968.
+Part III of the proposed Act seeks to amend Akta No. 35 tahun 1968.
 
 3. Clause 3 seeks to amend the long title of Akta No. 35 tahun 1968 in consequence of the amendment to the short title of Akta No. 35 tahun 1968. The short title in subsection 1(1) of Akta No. 35 tahun 1968 is to be amended by clause 5.
 
@@ -668,7 +668,7 @@ Co-operative College (Incorporation) (Amendment) Act 2011 [Act A1398]. The Co-op
 
 8. Clause 10 provides for savings and transitional provisions.
 
-## Part IV
+## PART IV
 
 ## AMENDMENTS TO THE CO-OPERATIVE COLLEGE (INCORPORATION)
 

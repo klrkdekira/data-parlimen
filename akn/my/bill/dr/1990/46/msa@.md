@@ -84,15 +84,7 @@ B. 6 Suruhanjaya Perkhidmatan Pendidikan
 
 <!-- marginal: 1,433,000 -->
 
-B. 7 Jabatan Perdana Menteri
-
-<!-- marginal: 137,823,000 -->
-
-B. 8 Jabatan Perkhidmatan Awam
-
-<!-- marginal: 193,702,000 -->
-
-B. 9 Jabatan Perangkaan
+B. 7 Jabatan Perdana Menteri 137,823,000 B. 8 Jabatan Perkhidmatan Awam 193,702,000 B. 9 Jabatan Perangkaan
 
 <!-- marginal: 38,456,000 -->
 
@@ -132,11 +124,7 @@ B. 18 Kementerian Perusahaan Utama
 
 <!-- marginal: 31,282,000 -->
 
-B. 19 Kementerian Pertanian
-
-<!-- marginal: 275,507,000 -->
-
-B. 20 Kementerian Perdagangan Antarabangsa
+B. 19 Kementerian Pertanian 275,507,000 B. 20 Kementerian Perdagangan Antarabangsa
 
 <!-- marginal: 28,389,000 -->
 
@@ -156,15 +144,7 @@ B. 24 Muzium Negara
 
 <!-- marginal: 1,400,000 -->
 
-B. 25 Kementerian Pertahanan
-
-<!-- marginal: 833,408,000 -->
-
-B. 26 Kementerian Pendidikan
-
-<!-- marginal: 1,850,507,000 -->
-
-B. 27 Jabatan Perpustakaan Negara
+B. 25 Kementerian Pertahanan 833,408,000 B. 26 Kementerian Pendidikan 1,850,507,000 B. 27 Jabatan Perpustakaan Negara
 
 <!-- marginal: 2,219,000 -->
 
@@ -172,15 +152,7 @@ B. 28 Perbendaharaan
 
 <!-- marginal: 35,242,000 -->
 
-B. 29 Perkhidmatan Am Perbendaharaan
-
-<!-- marginal: 369,562,000 -->
-
-B. 30 Peruntukan kepada Kumpulan Wang
-
-<!-- marginal: 252,874,000 -->
-
-Terkanun B. 31 Jabatan Kastam dan Eksais Diraja
+B. 29 Perkhidmatan Am Perbendaharaan 369,562,000 B. 30 Peruntukan kepada Kumpulan Wang 252,874,000 Terkanun B. 31 Jabatan Kastam dan Eksais Diraja
 
 <!-- marginal: 55,895,000 -->
 
@@ -206,11 +178,7 @@ Maksud Tajuk
 
 <!-- marginal: Amaun -->
 
-$ B. 34 Kementerian Kesihatan
-
-<!-- marginal: 482,167,000 -->
-
-B. 35 Kementerian Dalam Negeri
+$ B. 34 Kementerian Kesihatan 482,167,000 B. 35 Kementerian Dalam Negeri
 
 <!-- marginal: 32,304,000 -->
 

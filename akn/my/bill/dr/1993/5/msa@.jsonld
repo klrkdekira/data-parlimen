@@ -80,7 +80,7 @@
       },
       "schema:text": {
         "@language": "ms",
-        "@value": "dipinda—"
+        "@value": "Perkara 113. dipinda—"
       }
     },
     {
@@ -100,7 +100,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/msa@/~cl_2",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan, selepas Fasal (3A) Fasal baru yang berikut: \"(3s) Jika sesuatu pindaan kepada Perkara 46 atau suatu undang-undang diperbuat oleh 2 RANG UNDANG-UNDANG Dewan Undangan sesuatu Negeri yang disebut dalam perenggan (i) Fasal (3A) mula berkuat- kuasa selepas lapan tahun berlalu dari tarikh siapnya kajian semula yang terakhir di bawah Fasal (2) dan Suruhanjaya Pilihanraya berpendapat bahawa adalah perlu dijalankan suatu kajian semula di bawah Fasal (2), maka Suruhanjaya Pilihanraya tidak boleh men- jalankan kajian semula di bawah perenggan (i) Fasal (3A) tetapi sebaliknya hendaklah menjalankan kajian semula di bawah Fasal (2) dan dalam mengendalikan kajian semula sedemikian hendaklah mengambil kira mana- mana kawasan yang tersentuh berikutan dengan pindaan atau undang-undang yang disebut dalam perenggan (i) Fasal (3A).\". Pindaan"
+        "@value": "dengan memasukkan, selepas Fasal (3A) Fasal baru yang berikut: \"(3s) Jika sesuatu pindaan kepada Perkara 46 atau suatu undang-undang diperbuat oleh 2 RANG UNDANG-UNDANG Dewan Undangan sesuatu Negeri yang disebut dalam perenggan (i) Fasal (3A) mula berkuat- kuasa selepas lapan tahun berlalu dari tarikh siapnya kajian semula yang terakhir di bawah Fasal (2) dan Suruhanjaya Pilihanraya berpendapat bahawa adalah perlu dijalankan suatu kajian semula di bawah Fasal (2), maka Suruhanjaya Pilihanraya tidak boleh men- jalankan kajian semula di bawah perenggan (i) Fasal (3A) tetapi sebaliknya hendaklah menjalankan kajian semula di bawah Fasal (2) dan dalam mengendalikan kajian semula sedemikian hendaklah mengambil kira mana- mana kawasan yang tersentuh berikutan dengan pindaan atau undang-undang yang disebut dalam perenggan (i) Fasal (3A).\"."
       }
     },
     {
@@ -121,7 +121,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "adalah dipinda dengan memasukkan, selepas perkataan Kelapan. \"seksyen 1(2),\" dalam seksyen 22, perkataan \"seksyen lA,\". Pindaan"
+        "@value": "adalah dipinda dengan memasukkan, selepas perkataan \"seksyen 1(2),\" dalam seksyen 22, perkataan \"seksyen lA,\"."
       }
     },
     {
@@ -133,9 +133,9 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/msa@/~sched_1__para_4__para_b"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/msa@/~sched_1",
-      "schema:text": {
+      "schema:name": {
         "@language": "ms",
-        "@value": "Akta Perlembagaan (Pindaan) 1992 adalah dipinda— Akta A837."
+        "@value": "Akta Perlembagaan (Pindaan) 1992 adalah dipinda—"
       }
     },
     {

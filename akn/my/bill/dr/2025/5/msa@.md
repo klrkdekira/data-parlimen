@@ -80,25 +80,45 @@ Rang Undang-Undang ini bertujuan untuk meminda Perlembagaan Persekutuan.
 
 Subfasal 2(a) bertujuan untuk memperuntukkan bahawa apabila Yang di-Pertua Dewan Negara atau Timbalan Yang di-Pertua Dewan Negara hilang kelayakan di bawah Fasal (5a) Perkara 56 Perlembagaan Persekutuan, Yang di-Pertua Dewan Negara atau Timbalan Yang di-Pertua Dewan Negara terhenti memegang jawatannya. Pindaan ini berbangkit daripada kemasukan Fasal baharu (5a) ke dalam Perkara 56 Perlembagaan Persekutuan.
 
-Subfasal 2(b) bertujuan untuk memasukkan Fasal baharu (5a) ke dalam Perkara 56 Perlembagaan Persekutuan untuk memperuntukkan bahawa Yang di-Pertua Dewan Negara atau Timbalan Yang di-Pertua Dewan Negara tidak hilang kelayakan untuk memegang jawatannya itu oleh sebab keanggotaannya dalam Majlis Perkhidmatan Parlimen dengan syarat bahawa Yang di-Pertua Dewan Negara atau Timbalan Yang di-Pertua Dewan Negara tidak menerima apa-apa saraan, hadiah, untung atau faedah daripada keanggotaan itu.
+Subfasal 2(b) bertujuan untuk memasukkan Fasal baharu (5a) ke dalam
 
-Subfasal 2(c) bertujuan untuk mengadakan peruntukan bagi keputusan Dewan Negara berkenaan dengan kehilangan kelayakan Yang di-Pertua Dewan Negara atau Timbalan Yang di-Pertua Dewan Negara di bawah Fasal (5a) Perkara 56 Perlembagaan Persekutuan adalah muktamad. Pindaan ini berbangkit daripada kemasukan Fasal baharu (5a) ke dalam Perkara 56 Perlembagaan Persekutuan.
+## Perkara 56 Perlembagaan Persekutuan untuk memperuntukkan bahawa
+
+Yang di-Pertua Dewan Negara atau Timbalan Yang di-Pertua Dewan Negara tidak hilang kelayakan untuk memegang jawatannya itu oleh sebab keanggotaannya dalam Majlis Perkhidmatan Parlimen dengan syarat bahawa Yang di-Pertua Dewan Negara atau Timbalan Yang di-Pertua Dewan Negara tidak menerima apa-apa saraan, hadiah, untung atau faedah daripada keanggotaan itu.
+
+Subfasal 2(c) bertujuan untuk mengadakan peruntukan bagi keputusan Dewan Negara berkenaan dengan kehilangan kelayakan Yang di-Pertua Dewan Negara atau Timbalan Yang di-Pertua Dewan Negara di bawah Fasal (5a)
+
+## Perkara 56 Perlembagaan Persekutuan adalah muktamad. Pindaan ini
+
+berbangkit daripada kemasukan Fasal baharu (5a) ke dalam Perkara 56 Perlembagaan Persekutuan.
 
 <!-- page 5 -->
 
 4. Fasal 3 Rang Undang-Undang ini bertujuan untuk meminda Perkara 57 Perlembagaan Persekutuan.
 
-Subfasal 3(a) bertujuan untuk memperuntukkan bahawa apabila Yang di-Pertua Dewan Rakyat hilang kelayakan di bawah Fasal (5a) Perkara 57 Perlembagaan Persekutuan, Yang di-Pertua Dewan Rakyat hendaklah mengosongkan jawatannya. Pindaan ini berbangkit daripada kemasukan Fasal baharu (5a) ke dalam Perkara 57 Perlembagaan Persekutuan.
+Subfasal 3(a) bertujuan untuk memperuntukkan bahawa apabila Yang di-Pertua Dewan Rakyat hilang kelayakan di bawah Fasal (5a)
+
+## Perkara 57 Perlembagaan Persekutuan, Yang di-Pertua Dewan Rakyat hendaklah
+
+mengosongkan jawatannya. Pindaan ini berbangkit daripada kemasukan Fasal baharu (5a) ke dalam Perkara 57 Perlembagaan Persekutuan.
 
 Subfasal 3(b) bertujuan untuk memasukkan Fasal baharu (5 a) ke dalam Perkara 57 Perlembagaan Persekutuan untuk memperuntukkan bahawa Yang di-Pertua Dewan Rakyat atau Timbalan Yang di-Pertua Dewan Rakyat tidak hilang kelayakan untuk memegang jawatannya itu oleh sebab keanggotaannya dalam Majlis Perkhidmatan Parlimen dengan syarat bahawa Yang di-Pertua Dewan Rakyat atau Timbalan Yang di-Pertua Dewan Rakyat tidak menerima apa-apa saraan, hadiah, untung atau faedah daripada keanggotaan itu.
 
-Subfasal 3(c) bertujuan untuk mengadakan peruntukan bagi keputusan Dewan Rakyat berkenaan dengan kehilangan kelayakan Yang di-Pertua Dewan Rakyat atau Timbalan Yang di-Pertua Dewan Rakyat di bawah Fasal (5a) Perkara 57 Perlembagaan Persekutuan adalah muktamad. Pindaan ini berbangkit daripada kemasukan Fasal baharu (5a) ke dalam Perkara 57 Perlembagaan Persekutuan.
+Subfasal 3(c) bertujuan untuk mengadakan peruntukan bagi keputusan Dewan Rakyat berkenaan dengan kehilangan kelayakan Yang di-Pertua Dewan Rakyat atau Timbalan Yang di-Pertua Dewan Rakyat di bawah Fasal (5a)
+
+## Perkara 57 Perlembagaan Persekutuan adalah muktamad. Pindaan ini
+
+berbangkit daripada kemasukan Fasal baharu (5a) ke dalam Perkara 57 Perlembagaan Persekutuan.
 
 5. Fasal 4 Rang Undang-Undang ini bertujuan untuk meminda Perkara 65 Perlembagaan Persekutuan.
 
 Subfasal 4(a) bertujuan untuk mengadakan peruntukan bagi pelantikan Setiausaha Dewan Negara dan Setiausaha Dewan Rakyat oleh Yang di-Pertuan Agong. Apabila Perkhidmatan Parlimen ditubuhkan di bawah undang-undang persekutuan, Setiausaha Dewan Negara atau Setiausaha Dewan Rakyat boleh dilantik dalam kalangan anggota perkhidmatan awam am Persekutuan atau mana-mana orang yang bukan anggota perkhidmatan awam am Persekutuan untuk memegang jawatan sehingga habis tempoh pelantikannya, pelantikannya dibatalkan atau dia meletakkan jawatannya. Pada masa kini, Setiausaha Dewan Negara dan Setiausaha Dewan Rakyat dilantik dalam kalangan anggota perkhidmatan awam am Persekutuan dan hendaklah memegang jawatan sehingga umur persaraan paksa bagi anggota perkhidmatan awam am Persekutuan.
 
-Subfasal 4(b) bertujuan untuk memasukkan Fasal baharu (2a) ke dalam Perkara 65 Perlembagaan Persekutuan untuk mengadakan peruntukan bagi kehilangan kelayakan Setiausaha Dewan Negara dan Setiausaha Dewan Rakyat untuk menjadi ahli mana-mana satu Majlis Parlimen atau Dewan Undangan mana-mana Negeri. Subfasal ini juga bertujuan untuk memasukkan Fasal baharu (2b) ke dalam Perkara 65 Perlembagaan Persekutuan untuk memperuntukkan bahawa kelayakan untuk pelantikan dan syarat perkhidmatan Setiausaha Dewan Negara dan Setiausaha Dewan Rakyat boleh dikawal selia melalui undang-undang persekutuan.
+Subfasal 4(b) bertujuan untuk memasukkan Fasal baharu (2a) ke dalam
+
+## Perkara 65 Perlembagaan Persekutuan untuk mengadakan peruntukan bagi kehilangan
+
+kelayakan Setiausaha Dewan Negara dan Setiausaha Dewan Rakyat untuk menjadi ahli mana-mana satu Majlis Parlimen atau Dewan Undangan mana-mana Negeri. Subfasal ini juga bertujuan untuk memasukkan Fasal baharu (2b) ke dalam Perkara 65 Perlembagaan Persekutuan untuk memperuntukkan bahawa kelayakan untuk pelantikan dan syarat perkhidmatan Setiausaha Dewan Negara dan Setiausaha Dewan Rakyat boleh dikawal selia melalui undang-undang persekutuan.
 
 <!-- page 6 -->
 

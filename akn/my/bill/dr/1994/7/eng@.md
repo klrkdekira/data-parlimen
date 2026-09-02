@@ -30,9 +30,7 @@ such date as the Minister may, by notification in the Gazette, appoint.
 
 <!-- marginal: of section 2. -->
 
-referred to as the "principal Act",
-
-<!-- marginal: is amended -->
+referred to as the "principal Act", is amended
 
 <!-- marginal: in -->
 
@@ -54,25 +52,61 @@ section 2—
 
 <!-- page 2 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-3. The principal Act is amended by substituting for of section 3. section 3 the following section: Appoint-
+3. The principal Act is amended by substituting for
 
-3. (1) The Minister may appoint, from ment of amongst public officers, a Price Controller, a Price Controller. Deputy Price Controller and such number of Deputy Price Assistant Price Controllers and other officers CotitroIIer, as may be necessary for the purposes of this Assistant Price Act and the regulations. Controllers, etc. (2) The Price ControIIer shall, subject to the general direction and control of the Minister, perform the duties and functions imposed and exercise the powers conferred upon him under this Act and the regulations.
+<!-- marginal: of section 3. -->
+
+section 3 the following section:
+
+<!-- marginal: Appoint- -->
+
+3. (1) The Minister may appoint, from
+
+<!-- marginal: ment of -->
+
+amongst public officers, a Price Controller, a
+
+<!-- marginal: Price -->
+
+<!-- marginal: Controller. -->
+
+Deputy Price Controller and such number of
+
+<!-- marginal: Deputy -->
+
+<!-- marginal: Price -->
+
+Assistant Price Controllers and other officers
+
+<!-- marginal: CotitroIIer, -->
+
+as may be necessary for the purposes of this
+
+<!-- marginal: Assistant -->
+
+<!-- marginal: Price -->
+
+Act and the regulations. Controllers,
+
+<!-- marginal: etc. -->
+
+(2) The Price ControIIer shall, subject to the general direction and control of the Minister, perform the duties and functions imposed and exercise the powers conferred upon him under this Act and the regulations.
 
 (3) The Deputy Price Controller, Assistant Price Controllers and other officers appointed under subsection (1) shall be under the direction and control of the Price Controller.
 
 (4) Except as provided in subsection (5), the Deputy Price Controller may perform all the duties and functions imposed and exercise all the powers conferred upon the Price Controller under this Act.
 
-(5) The duties and functions
-
-<!-- marginal: to be -->
-
-perfonned and the powers to be exercised by the Price Controller under sections 4, 13, 18(l)(c) and (e) and 28 shall be performed and exercised by the Price Controller personally.
+(5) The duties and functions to be perfonned and the powers to be exercised by the Price Controller under sections 4, 13, 18(l)(c) and (e) and 28 shall be performed and exercised by the Price Controller personally.
 
 (6) The Price Controller or Deputy Price Controller may perform all the duties and functions imposed and exercise all the powers conferred upon an Assistant Price Controller under this Act or the regulations.
 
-(7) All officers appointed under this section shall be deemed to be public servants within the meaning of the Penal Code.". F.M.S. Cap. 45.
+(7) All officers appointed under this section shall be deemed to be public servants within the meaning of the Penal Code.".
+
+<!-- marginal: F.M.S. -->
+
+<!-- marginal: Cap. 45. -->
 
 <!-- page 3 -->
 
@@ -110,9 +144,7 @@ deleting the words "Chief Price Inspector,".
 
 (b) by substituting for subsection (2) the following subsection: "(2) Where any price-controlled goods have been seized under subsection ( 1 )( a ), then—
 
-(a) if, within ninety days of the seizure, no proceedings are instituted against any person for an offence alleged to have been committed in relation to those goods— (i) the Price Controller shall restore the
-
-<!-- marginal: goods -->
+(a) if, within ninety days of the seizure, no proceedings are instituted against any person for an offence alleged to have been committed in relation to those goods— (i) the Price Controller shall restore the goods
 
 <!-- marginal: and -->
 
@@ -132,13 +164,21 @@ forfeiture or for the release of any goods seized shall be made by the court bef
 
 Provided that where any goods which have been seized under subsection (1)(a) are of a perishable nature they may be sold by the order of the Price Controller, the Deputy Price Controller or any Assistant Price Controller and this subsection shall apply to the disposal of the proceeds of the sale in the same manner as they would have applied to the disposal of those goods if the goods had not been sold.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-7. Paragraph 1 5( c) of the principal Act is amended by of seclion 15. deleting the words "Chief Price Inspector or Price Inspector,".
+7. Paragraph 1 5( c) of the principal Act is amended by
 
-Amendment
+<!-- marginal: of seclion 15. -->
 
-8. Section 17 of the principal Act is amended by deleting of section 17 the words ", Chief Price Inspector".
+deleting the words "Chief Price Inspector or Price Inspector,".
+
+<!-- marginal: Amendment -->
+
+8. Section 17 of the principal Act is amended by deleting
+
+<!-- marginal: of section 17 -->
+
+the words ", Chief Price Inspector".
 
 <!-- page 5 -->
 
@@ -174,9 +214,11 @@ by substituting for the words "section 1 3 ( 2 )( a) or under section 18(l)(c) o
 
 <!-- page 6 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-12. Subsection 29(2) of the principal Act is amended— of section 29.
+12. Subsection 29(2) of the principal Act is amended—
+
+<!-- marginal: of section 29. -->
 
 (a) by deleting the word "and" in paragraph (c);
 
@@ -216,6 +258,4 @@ This Bill seeks to amend the Price Control Act 1946 ("the Act").
 
 ## IMPLICATIONS
 
-This Bill will not involve the Government in any extra financial expenditure.
-
-<!-- marginal: [PN. (U2) 1812.] -->
+This Bill will not involve the Government in any extra financial expenditure. [PN. (U2) 1812.]

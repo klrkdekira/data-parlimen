@@ -1,0 +1,443 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-21-2010",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_18"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subordinate Courts (Amendment) Bill 2010"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal act is amended by deleting section 86. Amendment of section 90"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 90 of the principal act is amended by substituting for the words “twenty five” the words “one hundred”. Deletion of section 91"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal act is amended by deleting section 91. Amendment of section 92"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 92 of the principal act is amended by substituting for the word “three” the word “ten”. Amendment of section 93"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 93(1) of the principal act is amended in the proviso by substituting for the words ‘ “twenty five” ’ and the words ‘ “two hundred and fifty thousand” ’ the words ‘ “one hundred” ’ and the words ‘ “one million” ’, respectively. Deletion of Part VIII"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal act is amended by deleting Part Viii. Deletion of section 100"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal act is amended by deleting section 100. New section 101a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal act is amended by inserting after section 101 the following section: “Power of Sessions Court Judge to hear matters in chambers 101a. Subject to the limitations contained in this act, a Sessions Court Judge shall have the power to hear any matter or proceedings in chambers.”. Saving and transitional"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all pending proceedings and cases which had been registered at the Sessions Court and High Court before the coming into operation of this act shall not be affected by this act and shall continue as if this act had not been enacted."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This act may be cited as the Subordinate Courts (amendment) act 2010."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This act comes into operation on a date to be appointed by the Minister by notification in the Gazette. General amendment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Subordinate Courts act 1948 [Act 92], which is referred to as the “principal act” in this act, is amended by deleting the words “or Penghulu’s Court” wherever they appear. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 2(1) of the principal act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “permanent resident” the following definition: ‘ “Registrar” means the Registrar, Deputy Registrar, Senior assistant Registrar or assistant Registrar of the Subordinate Courts;’; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the definition of “Penghulu”. Amendment of section 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 3(2) of the principal act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by substituting for the semicolon a full stop; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting paragraph (c). Amendment of section 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_5__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 5(1) of the principal act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_5__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_5__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_5__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_5__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the English language text, by substituting for the word “is” appearing before the word “issued” the word “if”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_5__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_5__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the semicolon the word “and”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c), by substituting for the word “; and” a comma; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting paragraph (d). New section 5a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal act is amended by inserting after section 5 the following section: “Registrar 5a. (1) The Registrar, Deputy Registrar and the Senior assistant Registrar shall be appointed by the Yang di-Pertuan agong on the recommendation of the Chief Justice. (2) The assistant Registrar of the Subordinate Courts shall be appointed in accordance with section 106.”. Amendment of section 65"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 65 of the principal act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_7__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_7__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_7__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_7__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_7__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by deleting the word “and” appearing at the end of the paragraph;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_7__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_7__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by substituting for the words “two hundred and fifty thousand ringgit.” the words “one million ringgit; and”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_7__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_7__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (b) the following paragraph: “ (c) without prejudice to the generality of paragraph (b), jurisdiction to try all actions and suits of a civil nature for the specific performance or rescission of contracts or for cancellation or rectification of instruments, within the jurisdiction of the Sessions Court.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (4) the following subsection: “(5) a Sessions Court may, in respect of any action or suit within the jurisdiction of the Sessions Court, in any proceedings before it— (a) grant an injunction; and (b) make a declaration, whether or not any other relief, redress or remedy is or could be claimed.”. Amendment of section 69"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_8__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 69 of the principal act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting paragraphs (b), (c) and (d); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (g), by inserting after the word “in” the words “making a declaration under paragraph 65(5)(b) and”. Amendment of section 73"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 73(b) of the principal act is amended by substituting for the words “two hundred and fifty thousand” the words “one million”. Deletion of section 86"
+      }
+    }
+  ]
+}

@@ -58,99 +58,119 @@ B. 9 ... Statistics Department
 
 <!-- page 2 -->
 
-Purpose Title
+Purpose Title Amount $
 
-<!-- marginal: Amount -->
+<!-- marginal: B. 10 -->
 
-$
+... Attorney General's Chambers 14,172,300
 
-B. 10 ... Attorney General's Chambers
+<!-- marginal: B. 11 -->
 
-<!-- marginal: 14,172,300 -->
+... Anti-Corruption Agency 26,933,100
 
-B. 11 ... Anti-Corruption Agency
+<!-- marginal: B. 12 -->
 
-<!-- marginal: 26,933,100 -->
+... Office of the Federal Secretary, Sabah 651,500
 
-B. 12 ... Office of the Federal Secretary, Sabah
+<!-- marginal: B. 13 -->
 
-<!-- marginal: 651,500 -->
+... Office of the Federal Secretary, 572,000 Sarawak
 
-B. 13 ... Office of the Federal Secretary,
+<!-- marginal: B. 14 -->
 
-<!-- marginal: 572,000 -->
+... Ministry of Housing and Local 56,519,800 Government
 
-Sarawak B. 14 ... Ministry of Housing and Local
+<!-- marginal: B. 15 -->
 
-<!-- marginal: 56,519,800 -->
+... Town and Country Planning 11,826,900 Department
 
-Government B. 15 ... Town and Country Planning
+<!-- marginal: B. 16 -->
 
-<!-- marginal: 11,826,900 -->
+... Fire Services Department 89,577,500
 
-Department B. 16 ... Fire Services Department
+<!-- marginal: B. 17 -->
 
-<!-- marginal: 89,577,500 -->
+... Ministry of Youth and Sports 48,226,900
 
-B. 17 ... Ministry of Youth and Sports
+<!-- marginal: B. 18 -->
 
-<!-- marginal: 48,226,900 -->
+... Ministry of Primary Industries 92,797,200
 
-B. 18 ... Ministry of Primary Industries
+<!-- marginal: B. 19 -->
 
-<!-- marginal: 92,797,200 -->
+... Ministry of Agriculture 890,229,400
 
-B. 19 ... Ministry of Agriculture
+<!-- marginal: B. 20 -->
 
-<!-- marginal: 890,229,400 -->
+... Ministry of International Trade and 106,213,300 Industry
 
-B. 20 ... Ministry of International Trade and
+<!-- marginal: B. 21 -->
 
-<!-- marginal: 106,213,300 -->
+... Ministry of Domestic Trade and 37,996,800 Consumer Affairs
 
-Industry B. 21 ... Ministry of Domestic Trade and
+<!-- marginal: B. 22 -->
 
-<!-- marginal: 37,996,800 -->
+... Ministry of Culture, Arts and Tourism 119,512,700
 
-Consumer Affairs B. 22 ... Ministry of Culture, Arts and Tourism 119,512,700 B. 23 ... Department of the National Archives
+<!-- marginal: B. 23 -->
 
-<!-- marginal: 8,861,700 -->
+... Department of the National Archives 8,861,700
 
-B. 24 ... National Museum
+<!-- marginal: B. 24 -->
 
-<!-- marginal: 4,589,400 -->
+... National Museum 4,589,400
 
-B. 25 ... Ministry of Defence 2,819,188,000 B. 26 ... Ministry of Education 6,674,818,800 B. 27 ... Department of National Library
+<!-- marginal: B. 25 -->
 
-<!-- marginal: 25,428,400 -->
+... Ministry of Defence 2,819,188,000
 
-B. 28 ... Treasury
+<!-- marginal: B. 26 -->
 
-<!-- marginal: 245,741,000 -->
+... Ministry of Education 6,674,818,800
 
-B. 29 ... Treasury General Services
+<!-- marginal: B. 27 -->
 
-<!-- marginal: 348,774,060 -->
+... Department of National Library 25,428,400
 
-B. 30 ... Contribution to Statutory Funds 3,848,925,010 B. 31 ... Royal Customs and Excise
+<!-- marginal: B. 28 -->
 
-<!-- marginal: 186,860,000 -->
+... Treasury 245,741,000
 
-Department B. 32 ... Inland Revenue Department
+<!-- marginal: B. 29 -->
 
-<!-- marginal: 126,344,000 -->
+... Treasury General Services 348,774,060
 
-B. 33 ... Ministry of Public Enterprises
+<!-- marginal: B. 30 -->
 
-<!-- marginal: 110,494,800 -->
+... Contribution to Statutory Funds 3,848,925,010
 
-B. 34 ... Ministry of Health 1,663,262,400 B. 35 ... Ministry of Home Affairs
+<!-- marginal: B. 31 -->
 
-<!-- marginal: 107,652,000 -->
+... Royal Customs and Excise 186,860,000 Department
 
-B. 36 ... Royal Malaysia Police 1,396,623,800 B. 37 ... Immigration Department
+<!-- marginal: B. 32 -->
 
-<!-- marginal: 67,407,800 -->
+... Inland Revenue Department 126,344,000
+
+<!-- marginal: B. 33 -->
+
+... Ministry of Public Enterprises 110,494,800
+
+<!-- marginal: B. 34 -->
+
+... Ministry of Health 1,663,262,400
+
+<!-- marginal: B. 35 -->
+
+... Ministry of Home Affairs 107,652,000
+
+<!-- marginal: B. 36 -->
+
+... Royal Malaysia Police 1,396,623,800
+
+<!-- marginal: B. 37 -->
+
+... Immigration Department 67,407,800
 
 <!-- page 3 -->
 

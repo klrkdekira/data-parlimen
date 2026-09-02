@@ -50,37 +50,21 @@ dilakukan" dengan perkataan-perkataan "cap-cap dagangan yang didaftarkan".
 
 <!-- page 2 -->
 
-perenggan (c) perkataan-perkataan "atau penggunaan berhubung
-
-<!-- marginal: dengan -->
-
-perkhidmatan-perkhidmatan yang akan disediakan di suatu tempat di luar Malaysia";
+perenggan (c) perkataan-perkataan "atau penggunaan berhubung dengan perkhidmatan-perkhidmatan yang akan disediakan di suatu tempat di luar Malaysia";
 
 (ii) dengan memasukkan selepas perkataan "barang-barang" di mana jua terdapat dalam takrif "cap dagangan" perkataan- perkataan "atau perkhidmatan- perkhidmatan";
 
-(iii) dengan memasukkan selepas
-
-<!-- marginal: takrif -->
-
-"daftar-daftar dahulu" yang berikut:
+(iii) dengan memasukkan selepas takrif "daftar-daftar dahulu" yang berikut:
 
 ' "dalam perjalanan perdagangan", berhubungan dengan penyediaan perkhidmatan-perkhidmatan, ertinya dalam perjalanan perniagaan;';
 
 (iv) dengan memasukkan selepas takrif "Mahkamah" yang berikut:
 
-' "negara asing ditetapkan" ertinya sesuatu negara
-
-<!-- marginal: yang -->
-
-diisytiharkan oleh Menteri, melalui perintah yang disiarkan dalam Warta, sebagai telah membuat perkiraan dengan Malaysia bagi perlindungan salingan cap dagangan;
+' "negara asing ditetapkan" ertinya sesuatu negara yang diisytiharkan oleh Menteri, melalui perintah yang disiarkan dalam Warta, sebagai telah membuat perkiraan dengan Malaysia bagi perlindungan salingan cap dagangan;
 
 "negara Konvensyen" ertinya sesuatu negara yang menjadi pihak kepada mana-mana triti berbilang pihak berhubungan dengan cap dagangan yang Malaysia adalah juga pihak kepadanya;';
 
-(v) dengan memasukkan selepas
-
-<!-- marginal: takrif -->
-
-' "Pendaftar", "Timbalan Pendaftar" dan "Penolong Pendaftar" 'yang berikut:
+(v) dengan memasukkan selepas takrif ' "Pendaftar", "Timbalan Pendaftar" dan "Penolong Pendaftar" 'yang berikut:
 
 "penentuan" ertinya nama barang atau perkhidmatan yang mengenainya sesuatu cap dagangan atau seseorang
 
@@ -88,11 +72,7 @@ diisytiharkan oleh Menteri, melalui perintah yang disiarkan dalam Warta, sebagai
 
 pengguna berdaftar sesuatu cap dagangan didaftarkan atau dicadang didaftarkan;'; dan
 
-(vi) dalam takrif "penggunaan
-
-<!-- marginal: yang -->
-
-dibenarkan" dengan memasukkan selepas perkataan "barang-barang" perkataan-perkataan "atau perkhidmatan- perkhidmatan"; dan
+(vi) dalam takrif "penggunaan yang dibenarkan" dengan memasukkan selepas perkataan "barang-barang" perkataan-perkataan "atau perkhidmatan- perkhidmatan"; dan
 
 (b) dalam subseksyen (2)—
 
@@ -104,11 +84,7 @@ dibenarkan" dengan memasukkan selepas perkataan "barang-barang" perkataan-perkat
 
 (b) yang berikut;
 
-"(c) sebutan mengenai penggunaan suatu cap berhubung dengan perkhidmatan-perkhidmatan hendaklah ditafsirkan sebagai sebutan mengenai penggunaan cap itu sebagai suatu pernyataan atau sebahagian pernyataan tentang tersedianya
-
-<!-- marginal: atau -->
-
-pelaksanaan perkhidmatan- perkhidmatan.".
+"(c) sebutan mengenai penggunaan suatu cap berhubung dengan perkhidmatan-perkhidmatan hendaklah ditafsirkan sebagai sebutan mengenai penggunaan cap itu sebagai suatu pernyataan atau sebahagian pernyataan tentang tersedianya atau pelaksanaan perkhidmatan- perkhidmatan.".
 
 <!-- marginal: Pindaan -->
 
@@ -122,7 +98,11 @@ pelaksanaan perkhidmatan- perkhidmatan.".
 
 <!-- page 4 -->
 
-Pindaan 5. Seksyen 5 Akta ibu adalah dipinda— seksyen 5.
+<!-- marginal: Pindaan -->
+
+5. Seksyen 5 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 5. -->
 
 (a) dengan memasukkan selepas subseksyen (2) yang berikut:
 
@@ -130,21 +110,33 @@ Pindaan 5. Seksyen 5 Akta ibu adalah dipinda— seksyen 5.
 
 (b) dengan memotong perkataan "wilayah" di mana jua terdapat dalam subseksyen (3).
 
-Pmdaan 6. Subseksyen 8(3) Akta ibu adalah dipinda dengan seksyen 8. memotong perkataan "wilayah".
+<!-- marginal: Pmdaan -->
 
-Pindaan 7. Perenggan 9(b) Akta ibu adalah dipinda dengan seksyen 9. memotong perkataan "wilayah".
+6. Subseksyen 8(3) Akta ibu adalah dipinda dengan
 
-Pindaan 8. Seksyen 10 Akta ibu adalah dipinda— seksyen 10.
+<!-- marginal: seksyen 8. -->
+
+memotong perkataan "wilayah".
+
+<!-- marginal: Pindaan -->
+
+7. Perenggan 9(b) Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 9. -->
+
+memotong perkataan "wilayah".
+
+<!-- marginal: Pindaan -->
+
+8. Seksyen 10 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 10. -->
 
 (a) dalam subseksyen (1)—
 
 (i) dengan memasukkan selepas perkataan "barang-barang" dalam perenggan (d) perkataan-perkataan "atau perkhidmatan- perkhidmatan"; dan
 
-(ii) dengan menggantikan
-
-<!-- marginal: perkataan- -->
-
-perkataan "yang distinktif" dalam perenggan (e) dengan perkataan-perkataan "distinktif yang lain";
+(ii) dengan menggantikan perkataan- perkataan "yang distinktif" dalam perenggan (e) dengan perkataan-perkataan "distinktif yang lain";
 
 (b) dengan memasukkan selepas subseksyen (2) yang berikut:
 
@@ -152,11 +144,7 @@ perkataan "yang distinktif" dalam perenggan (e) dengan perkataan-perkataan "dist
 
 <!-- page 5 -->
 
-perkhidmatan yang dengannya tuan punya cap dagangan itu ada atau mungkin ada hubungan dalam perjalanan perdagangan
-
-<!-- marginal: dari- -->
-
-pada barang-barang atau perkhidmatan- perkhidmatan yang dalam halnya tiada hubungan sedemikian wujud, sama ada secara amnya atau, jika cap dagangan itu didaftarkan atau dicadang didaftarkan, tertakluk kepada syarat-syarat, pindaan-pindaan, ubahsuaian- ubahsuaian atau batasan-batasan, ber- hubungan dengan penggunaan dalam takat pendaftaran itu.
+perkhidmatan yang dengannya tuan punya cap dagangan itu ada atau mungkin ada hubungan dalam perjalanan perdagangan dari- pada barang-barang atau perkhidmatan- perkhidmatan yang dalam halnya tiada hubungan sedemikian wujud, sama ada secara amnya atau, jika cap dagangan itu didaftarkan atau dicadang didaftarkan, tertakluk kepada syarat-syarat, pindaan-pindaan, ubahsuaian- ubahsuaian atau batasan-batasan, ber- hubungan dengan penggunaan dalam takat pendaftaran itu.
 
 (2B) Dalam menentukan sama ada sesuatu cap dagangan itu disesuaikan untuk berbeza sebagaimana yang tersebut dahulu, perhatian bolehlah diberikan kepada takat yang—
 
@@ -168,25 +156,17 @@ pada barang-barang atau perkhidmatan- perkhidmatan yang dalam halnya tiada hubun
 
 (i) dengan memasukkan selepas perkataan "barang" perkataan-perkataan "atau perkhidmatan"; dan
 
-(ii) dengan menggantikan
-
-<!-- marginal: perkataan- -->
-
-perkataan "barang-barang yang sama atau yang berlainan" dengan perkataan- perkataan "barang-barang
-
-<!-- marginal: atau -->
-
-perkhidmatan-perkhidmatan yang sama atau barang-barang atau perkhidmatan- perkhidmatan yang berlainan".
+(ii) dengan menggantikan perkataan- perkataan "barang-barang yang sama atau yang berlainan" dengan perkataan- perkataan "barang-barang atau perkhidmatan-perkhidmatan yang sama atau barang-barang atau perkhidmatan- perkhidmatan yang berlainan".
 
 <!-- page 6 -->
 
-Pindaan 9. Seksyen ll.Akta ibu adalah dipinda— seksyen 11.
+<!-- marginal: Pindaan -->
 
-(a) dengan menggantikan subseksyen (1) dengan yang berikut: . "(1) Untuk membolehkan sesuatu cap dagangan didaftarkan dalam Bahagian B Daftar, cap dagangan itu mestilah, berhubungan dengan barang-barang atau perkhidmatan-perkhidmatan yang me- ngenainya cap dagangan itu didaftarkan atau dicadang didaftarkan, boleh mem- beZakan barang-barang atau perkhidmatan- perkhidmatan yang dengannya tuan punya cap dagangan itu ada atau mungkin ada hubungan dalam perjalanan perdagangan
+9. Seksyen ll.Akta ibu adalah dipinda—
 
-<!-- marginal: dari- -->
+<!-- marginal: seksyen 11. -->
 
-pada barang-barang atau perkhidmatan- 'perkhidmatan yang dalam halnya tiada hubuhgan sedemikian wujud, sama ada secara artttiya atau, jika cap dagangan itu didaftarkan atau dicadang didaftarkan, tertakluk kepada syarat-syarat, pindaan-pindaan, ubahsuaian- ubahsuaian atau batasan-batasan, ber- hubungan dengan penggunaan dalam takat pendaftaran itu.";
+(a) dengan menggantikan subseksyen (1) dengan yang berikut: . "(1) Untuk membolehkan sesuatu cap dagangan didaftarkan dalam Bahagian B Daftar, cap dagangan itu mestilah, berhubungan dengan barang-barang atau perkhidmatan-perkhidmatan yang me- ngenainya cap dagangan itu didaftarkan atau dicadang didaftarkan, boleh mem- beZakan barang-barang atau perkhidmatan- perkhidmatan yang dengannya tuan punya cap dagangan itu ada atau mungkin ada hubungan dalam perjalanan perdagangan dari- pada barang-barang atau perkhidmatan- 'perkhidmatan yang dalam halnya tiada hubuhgan sedemikian wujud, sama ada secara artttiya atau, jika cap dagangan itu didaftarkan atau dicadang didaftarkan, tertakluk kepada syarat-syarat, pindaan-pindaan, ubahsuaian- ubahsuaian atau batasan-batasan, ber- hubungan dengan penggunaan dalam takat pendaftaran itu.";
 
 (b) dengan memasukkan selepas subseksyen (1) yang berikut:
 
@@ -212,11 +192,51 @@ pada barang-barang atau perkhidmatan- 'perkhidmatan yang dalam halnya tiada hubu
 
 seksyen 12 dengan yang berikut:
 
-"Peng- 12. (1) Jika sesuatu permohonan bagi gunaan pendaftaran cap dagangan telah dibuat oleh oleh peng- guna ber- seseorang, dan sebelum tarikh permohonan itu daftar yang cap dagangan itu telah digunakan oleh dicadang- kan boleh seseorang yang selain daripada pemohon itu di ditimbang bawah kawalan dan dengan persetujuan dan bagi maksud kuasa pemohon, dan jika sesuatu permohonan menentu- dibuat oleh pemohon dan orang yang satu lagi kan ke- distinktifan. itu bagi pendaftaran orang yang satu lagi itu dsb. sebagai pengguna berdaftar cap dagangan itu selepas sahaja pendaftaran cap dagangan itu dan Pendaftar berpuas hati bahawa orang yang satu lagi itu berhak didaftarkan sebagai pengguna berdaftar cap dagangan
+<!-- marginal: "Peng- -->
 
-<!-- marginal: itu, -->
+12. (1) Jika sesuatu permohonan bagi
 
-Pendaftar boleh, bagi maksud menentukan sama ada cap dagangan itu adalah distinktif atau boleh membezakan barang-barang atau perkhidmatan-perkhidmatan pemohon, me- ngira penggunaan cap dagangan itu oleh orang yang satu lagi sebagai setara dengan penggunaan cap dagangan itu oleh pemohon dan boleh membuat perintah bahawa cap dagangan itu adalah distinktif atau boleh membezakan sedemikian.
+<!-- marginal: gunaan -->
+
+pendaftaran cap dagangan telah dibuat oleh
+
+<!-- marginal: oleh peng- -->
+
+<!-- marginal: guna ber- -->
+
+seseorang, dan sebelum tarikh permohonan itu
+
+<!-- marginal: daftar yang -->
+
+cap dagangan itu telah digunakan oleh
+
+<!-- marginal: dicadang- -->
+
+<!-- marginal: kan boleh -->
+
+seseorang yang selain daripada pemohon itu di
+
+<!-- marginal: ditimbang -->
+
+bawah kawalan dan dengan persetujuan dan
+
+<!-- marginal: bagi -->
+
+<!-- marginal: maksud -->
+
+kuasa pemohon, dan jika sesuatu permohonan
+
+<!-- marginal: menentu- -->
+
+dibuat oleh pemohon dan orang yang satu lagi
+
+<!-- marginal: kan ke- -->
+
+distinktifan. itu bagi pendaftaran orang yang satu lagi itu
+
+<!-- marginal: dsb. -->
+
+sebagai pengguna berdaftar cap dagangan itu selepas sahaja pendaftaran cap dagangan itu dan Pendaftar berpuas hati bahawa orang yang satu lagi itu berhak didaftarkan sebagai pengguna berdaftar cap dagangan itu, Pendaftar boleh, bagi maksud menentukan sama ada cap dagangan itu adalah distinktif atau boleh membezakan barang-barang atau perkhidmatan-perkhidmatan pemohon, me- ngira penggunaan cap dagangan itu oleh orang yang satu lagi sebagai setara dengan penggunaan cap dagangan itu oleh pemohon dan boleh membuat perintah bahawa cap dagangan itu adalah distinktif atau boleh membezakan sedemikian.
 
 <!-- page 8 -->
 
@@ -224,29 +244,33 @@ Pendaftar boleh, bagi maksud menentukan sama ada cap dagangan itu adalah distink
 
 (3) Jika sesuatu perintah dibuat di bawah seksyen kecil (1), pendaftaran cap dagangan itu hendaklah terhenti berkuatkuasa jika apabila tamat tempoh yang ditetapkan, atau apa-apa tempoh lanjut yang tidak melebihi enam bulan yang dibenarkan oleh Pendaftar, orang yang satu lagi itu belum didaftarkan sebagai pengguna berdaftar cap dagangan itu.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-11. Seksyen 14 Akta ibu adalah dipinda— seksyen 14.
+11. Seksyen 14 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 14. -->
 
 (a) dengan memotong perkataan "dan" di akhir perenggan (a}\
 
-(b) dengan menggantikan noktah di
-
-<!-- marginal: akhir -->
-
-perenggan (b) dengan perkataan "; atau"; dan
+(b) dengan menggantikan noktah di akhir perenggan (b) dengan perkataan "; atau"; dan
 
 (c) dengan memasukkan selepas perenggan (b) yang berikut:
 
 "(c) jika ia mengandungi perkara yang pada pendapat Pendaftar memudaratkan atau mungkin memudaratkan kepentingan atau keselamatan negara.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-12. Seksyen 16 Akta ibu adalah dipinda dengan seksyen 16. menggantikan perkataan-perkataan "mati atau hidup" dengan perkataan-perkataan "hidup atau mati".
+12. Seksyen 16 Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 16. -->
 
-13. Seksyen 17 Akta ibu adalah dipinda— seksyen 17.
+menggantikan perkataan-perkataan "mati atau hidup" dengan perkataan-perkataan "hidup atau mati".
+
+<!-- marginal: Pindaan -->
+
+13. Seksyen 17 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 17. -->
 
 (a) dengan memasukkan selepas perkataan "barang- barang" dalam nota birai perkataan-perkataan "atau perkhidmatan-perkhidmatan";
 
@@ -256,19 +280,7 @@ Pindaan
 
 <!-- page 9 -->
 
-(ii) dengan menggantikan
-
-<!-- marginal: perkataan- -->
-
-perkataan "terdiri dari suatu klas barang- barang yang ditetapkan" dengan perkataan-perkataan "termasuk dalam suatu klas barang yang ditetapkan atau mengenai mana-mana atau
-
-<!-- marginal: semua -->
-
-perkhidmatan yang termasuk dalam suatu klas perkhidmatan
-
-<!-- marginal: yang -->
-
-ditetapkan"; dan
+(ii) dengan menggantikan perkataan- perkataan "terdiri dari suatu klas barang- barang yang ditetapkan" dengan perkataan-perkataan "termasuk dalam suatu klas barang yang ditetapkan atau mengenai mana-mana atau semua perkhidmatan yang termasuk dalam suatu klas perkhidmatan yang ditetapkan"; dan
 
 (c) dengan menggantikan perkataan-perkataan "dari klas manakah barang-barang terdiri" dalam subseksyen (2) dengan perkataan-perkataan "dalam klas manakah barang-barang atau perkhidmatan-perkhidmatan itu termasuk,".
 
@@ -280,7 +292,19 @@ ditetapkan"; dan
 
 seksyen 19 dengan yang berikut;
 
-Cap-cap 19. (1) Tiada cap dagangan boleh didaftarkan dagangan mengenai apa-apa barang atau perihal yang serupa. . barang—
+<!-- marginal: Cap-cap -->
+
+19. (1) Tiada cap dagangan boleh didaftarkan
+
+<!-- marginal: dagangan -->
+
+mengenai apa-apa barang atau perihal
+
+<!-- marginal: yang -->
+
+<!-- marginal: serupa. -->
+
+. barang—
 
 (a) yang serupa dengan suatu cap dagangan yang dipunyai oleh tuan punya yang berlainan dan dicatatkan dalam Daftar mengenai barang-barang atau perihal barang yang sama atau mengenai perkhidmatan-perkhidmatan yang ada hubungan rapat dengan barang-barang itu; atau
 
@@ -300,11 +324,7 @@ mengenai perkhidmatan-perkhidmatan atau perihal perkhidmatan yang sama atau meng
 
 (a) permohonan-permohonan itu adalah mengenai barang-barang atau perihal barang yang sama; atau
 
-(b) sekurang-kurangnya satu daripada permohonan sedemikian
-
-<!-- marginal: adalah -->
-
-mengenai barang-barang dan yang lain atau lain-lain itu adalah mengenai perkhidmatan-perkhidmatan yang ada hubungan rapat dengan barang-barang itu,
+(b) sekurang-kurangnya satu daripada permohonan sedemikian adalah mengenai barang-barang dan yang lain atau lain-lain itu adalah mengenai perkhidmatan-perkhidmatan yang ada hubungan rapat dengan barang-barang itu,
 
 Pendaftar boleh enggan mendaftarkan mana- mana pemohon itu sehingga hak-hak mereka ditentukan oleh Mahkamah atau diselesaikan melalui perjanjian mengikut cara yang diluluskan olehnya atau oleh Mahkamah.
 
@@ -316,11 +336,7 @@ atau yang sebegitu hampir-hampir menyerupai satu sama lain sehingga mungkin memp
 
 (a) permohonan-permohonan itu adalah mengenai perkhidmatan-perkhidmatan atau perihal perkhidmatan yang sama; atau
 
-(b) sekurang-kurangnya satu daripada permohonan sedemikian
-
-<!-- marginal: adalah -->
-
-mengenai perkhidmatan-perkhidmatan dan yang lain atau lain-lain itu adalah mengenai barang-barang yang ada hubungan rapat dengan perkhidmatan- perkhidmatan itu,
+(b) sekurang-kurangnya satu daripada permohonan sedemikian adalah mengenai perkhidmatan-perkhidmatan dan yang lain atau lain-lain itu adalah mengenai barang-barang yang ada hubungan rapat dengan perkhidmatan- perkhidmatan itu,
 
 Pendaftar boleh enggan mendaftarkan mana- mana pemohon itu sehingga hak-hak mereka ditentukan oleh Mahkamah atau diselesaikan melalui perjanjian mengikut cara yang diluluskan olehnya atau oleh Mahkamah.".
 
@@ -332,15 +348,7 @@ Pendaftar boleh enggan mendaftarkan mana- mana pemohon itu sehingga hak-hak mere
 
 (a) dengan menggantikan subseksyen (1) dengan yang berikut:
 
-"(1) Walau apa pun seksyen kecil (1) seksyen 19, dalam hal penggunaan serentak yang jujur atau dalam hal-hal keadaan yang diperihalkan dalam perenggan (c) seksyen kecil (4) seksyen 6 atau dalam hal-hal keadaan khas yang lain yang, pada pendapat Mahkamah atau Pendaftar, mewajarkan dibuat sedemikian, Mahkamah atau Pendaftar boleh membenarkan pendaftaran
-
-<!-- marginal: lebih -->
-
-daripada seorang tuan punya mengenai cap- cap dagangan yang serupa atau yang sebegitu hampir-hampir menyerupai satu sama lain sehingga mungkin memperdaya
-
-<!-- marginal: atau -->
-
-menyebabkan kekeliruan jika pendaftaran tuan punya yang berlainan itu—
+"(1) Walau apa pun seksyen kecil (1) seksyen 19, dalam hal penggunaan serentak yang jujur atau dalam hal-hal keadaan yang diperihalkan dalam perenggan (c) seksyen kecil (4) seksyen 6 atau dalam hal-hal keadaan khas yang lain yang, pada pendapat Mahkamah atau Pendaftar, mewajarkan dibuat sedemikian, Mahkamah atau Pendaftar boleh membenarkan pendaftaran lebih daripada seorang tuan punya mengenai cap- cap dagangan yang serupa atau yang sebegitu hampir-hampir menyerupai satu sama lain sehingga mungkin memperdaya atau menyebabkan kekeliruan jika pendaftaran tuan punya yang berlainan itu—
 
 (a) adalah mengenai barang-barang atau perihal barang yang sama; atau
 
@@ -348,41 +356,21 @@ menyebabkan kekeliruan jika pendaftaran tuan punya yang berlainan itu—
 
 (b) dalam hal sekurang-kurangnya seorang tuan punya, adalah mengenai barang-barang, dan dalam hal yang lain atau yang lain-lain, adalah mengenai perkhidmatan-perkhidmatan yang ada hubungan rapat dengan barang-barang itu,
 
-tertakluk kepada apa-apa syarat, pindaan, ubahsuaian atau batasan, jika ada, yang Mahkamah atau Pendaftar, mengikut mana- mana yang berkenaan, fikirkan
-
-<!-- marginal: patut -->
-
-dikenakan."; dan
+tertakluk kepada apa-apa syarat, pindaan, ubahsuaian atau batasan, jika ada, yang Mahkamah atau Pendaftar, mengikut mana- mana yang berkenaan, fikirkan patut dikenakan."; dan
 
 (b) dengan memasukkan selepas subseksyen (1) yang berikut:
 
-"(!A) Walau apa pun seksyen kecil (2) seksyen 19, dalam hal penggunaan serentak yang jujur atau dalam hal-hal keadaan khas yang lain yang, pada pendapat Mahkamah atau Pendaftar, mewajarkan
-
-<!-- marginal: dibuat -->
-
-sedemikian, Mahkamah atau Pendaftar boleh membenarkan pendaftaran lebih daripada seorang tuan punya mengenai cap-cap dagangan yang serupa atau yang sebegitu hampir-hampir menyerupai satu sama lain sehingga mungkin memperdaya
-
-<!-- marginal: atau -->
-
-menyebabkan kekeliruan jika pendaftaran tuan punya yang berlainan itu—
+"(!A) Walau apa pun seksyen kecil (2) seksyen 19, dalam hal penggunaan serentak yang jujur atau dalam hal-hal keadaan khas yang lain yang, pada pendapat Mahkamah atau Pendaftar, mewajarkan dibuat sedemikian, Mahkamah atau Pendaftar boleh membenarkan pendaftaran lebih daripada seorang tuan punya mengenai cap-cap dagangan yang serupa atau yang sebegitu hampir-hampir menyerupai satu sama lain sehingga mungkin memperdaya atau menyebabkan kekeliruan jika pendaftaran tuan punya yang berlainan itu—
 
 (a) adalah mengenai perkhidmatan- perkhidmatan atau perihal per- khidmatan yang sama; atau
 
-(b) dalam hal sekurang-kurangnya seorang tuan punya, adalah mengenai perkhidmatan-perkhidmatan,
-
-<!-- marginal: dan -->
-
-dalam hal yang lain atau yang lain- lain, adalah mengenai barang-barang yang ada hubungan rapat dengan perkhidmatan-perkhidmatan itu,
+(b) dalam hal sekurang-kurangnya seorang tuan punya, adalah mengenai perkhidmatan-perkhidmatan, dan dalam hal yang lain atau yang lain- lain, adalah mengenai barang-barang yang ada hubungan rapat dengan perkhidmatan-perkhidmatan itu,
 
 tertakluk kepada apa-apa syarat, pindaan, ubahsuaian atau batasan, jika ada, yang
 
 <!-- page 13 -->
 
-Mahkamah atau Pendaftar, mengikut mana- mana yang berkenaan,
-
-<!-- marginal: fikirkan patut -->
-
-dikenakan.".
+Mahkamah atau Pendaftar, mengikut mana- mana yang berkenaan, fikirkan patut dikenakan.".
 
 <!-- marginal: Pindaan -->
 
@@ -390,11 +378,7 @@ dikenakan.".
 
 <!-- marginal: seksyen 21. -->
 
-memasukkan selepas perkataan "barang-barang" dalam perenggan (1)(b) perkataan-perkataan
-
-<!-- marginal: "atau -->
-
-perkhidmatan-perkhidmatan".
+memasukkan selepas perkataan "barang-barang" dalam perenggan (1)(b) perkataan-perkataan "atau perkhidmatan-perkhidmatan".
 
 <!-- marginal: Pindaan -->
 
@@ -408,11 +392,7 @@ perkhidmatan-perkhidmatan".
 
 (a) adalah serupa dengan cap dagangan yang lain yang didaftarkan atau yang menjadi subjek sesuatu permohonan bagi pendaftaran atas nama tuan punya yang sama mengenai barang-barang atau perihal barang yang sama atau mengenai perkhidmatan-perkhidmatan yang ada hubungan rapat dengan barang-barang itu; atau
 
-(b) adalah sebegitu
-
-<!-- marginal: hampir-hampir -->
-
-menyerupainya sehingga mungkin memperdaya atau menyebabkan kekeliruan jika digunakan oleh seseorang yang selain daripada tuan punya itu,
+(b) adalah sebegitu hampir-hampir menyerupainya sehingga mungkin memperdaya atau menyebabkan kekeliruan jika digunakan oleh seseorang yang selain daripada tuan punya itu,
 
 Pendaftar boleh pada bila-bila masa menghendaki supaya cap-cap dagangan itu dicatatkan dalam Daftar sebagai cap-cap dagangan berkaitan.";
 
@@ -424,15 +404,7 @@ Pendaftar boleh pada bila-bila masa menghendaki supaya cap-cap dagangan itu dica
 
 permohonan bagi pendaftaran mengenai apa- apa perkhidmatan—
 
-(a) adalah serupa dengan cap dagangan yang lain yang didaftarkan atau yang menjadi subjek sesuatu permohonan bagi pendaftaran atas nama tuan punya yang sama mengenai perkhidmatan- perkhidmatan atau
-
-<!-- marginal: perihal -->
-
-perkhidmatan yang sama
-
-<!-- marginal: atau -->
-
-mengenai barang-barang yang ada hubungan rapat dengan perkhidmatan- perkhidmatan itu; atau
+(a) adalah serupa dengan cap dagangan yang lain yang didaftarkan atau yang menjadi subjek sesuatu permohonan bagi pendaftaran atas nama tuan punya yang sama mengenai perkhidmatan- perkhidmatan atau perihal perkhidmatan yang sama atau mengenai barang-barang yang ada hubungan rapat dengan perkhidmatan- perkhidmatan itu; atau
 
 (b) adalah sebegitu hampir-hampir menyerupainya sehingga mungkin memperdaya atau menyebabkan kekeliruan jika digunakan oleh seseorang selain daripada tuan punya itu,
 
@@ -440,9 +412,11 @@ Pendaftar boleh pada bila-bila masa menghendaki supaya cap-cap dagangan itu dica
 
 (c) dengan memasukkan selepas perkataan "barang- barang" dalam subseksyen (2) perkataan- perkataan "atau perkhidmatan-perkhidmatan".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-18. Subseksyen 24(1) Akta ibu adalah dipinda— seksyen 24
+18. Subseksyen 24(1) Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 24 -->
 
 (a) dengan memasukkan selepas perkataan- perkataan "barang-barang dari perihal yang sama" perkataan-perkataan "dalam satu kelas atau mengenai perkhidmatan-perkhidmatan yang sama atau mengenai perkhidmatan- perkhidmatan dari perihal yang sama dalam satu kelas"; dan
 
@@ -458,9 +432,7 @@ Pindaan
 
 (a) dengan memasukkan selepas perkataan "barang- barang" dalam subseksyen (2) perkataan- perkataan "atau perkhidmatan-perkhidmatan"; dan
 
-(b) dengan memasukkan selepas perkataan- perkataan "telah tidak disetujuterima" dalam subseksyen (12) perkataan-perkataan "atau, berkenaan dengan cap dagangan yang hendaklah didaftarkan tertakluk kepada syarat-syarat atau batasan-batasan tambahan atau yang berlainan sahaja, mengeluarkan
-
-<!-- marginal: semula -->
+(b) dengan memasukkan selepas perkataan- perkataan "telah tidak disetujuterima" dalam subseksyen (12) perkataan-perkataan "atau, berkenaan dengan cap dagangan yang hendaklah didaftarkan tertakluk kepada syarat-syarat atau batasan-batasan tambahan atau yang berlainan sahaja, mengeluarkan semula
 
 <!-- marginal: suatu -->
 
@@ -492,29 +464,21 @@ menggantikan perkataan-perkataan "permohonan itu dibuat di bawah perenggan (e) s
 
 <!-- page 16 -->
 
-Pindaan 22. Seksyen 28 Akta ibu adalah dipinda— seksyen 28.
+<!-- marginal: Pindaan -->
+
+22. Seksyen 28 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 28. -->
 
 (a) dengan memasukkan selepas perkataan "Pendaftar" dalam subseksyen (1) perkataan- perkataan "dan pemohon";
 
 (b) dengan menggantikan subseksyen (3) dengan yang berikut:
 
-"(3) Pemohon hendaklah, dalam masa yang ditetapkan selepas diterima notis bangkangan, menghantar kepada Pendaftar dan pembangkang suatu pernyataan balas, mengikut cara yang ditetapkan, mengenai alasan-alasan bagi permohonannya, dan, jika dia tidak berbuat demikian, dia hendaklah disifatkan telah menggugurkan
-
-<!-- marginal: per- -->
-
-mohonannya itu.";
+"(3) Pemohon hendaklah, dalam masa yang ditetapkan selepas diterima notis bangkangan, menghantar kepada Pendaftar dan pembangkang suatu pernyataan balas, mengikut cara yang ditetapkan, mengenai alasan-alasan bagi permohonannya, dan, jika dia tidak berbuat demikian, dia hendaklah disifatkan telah menggugurkan per- mohonannya itu.";
 
 (c) dengan memasukkan selepas subseksyen (3) yang berikut:
 
-"(3A) Jika pemohon mengemukakan suatu pernyataan balas di bawah seksyen kecil (3), pembangkang dan pemohon hendaklah memfailkan keterangan dan
-
-<!-- marginal: ekshibit -->
-
-mengikut cara yang ditetapkan dan dalam masa yang ditetapkan bagi menyokong bangkangan atau pernyataan balas itu, mengikut mana-mana yang berkenaan, yang hendaklah dikemukakan mengikut cara yang ditetapkan, dan jika pembangkang atau pemohon gagal berbuat
-
-<!-- marginal: demikian, -->
-
-bangkangan atau permohonan itu, mengikut mana-mana yang berkenaan, hendaklah disifatkan telah digugurkan.
+"(3A) Jika pemohon mengemukakan suatu pernyataan balas di bawah seksyen kecil (3), pembangkang dan pemohon hendaklah memfailkan keterangan dan ekshibit mengikut cara yang ditetapkan dan dalam masa yang ditetapkan bagi menyokong bangkangan atau pernyataan balas itu, mengikut mana-mana yang berkenaan, yang hendaklah dikemukakan mengikut cara yang ditetapkan, dan jika pembangkang atau pemohon gagal berbuat demikian, bangkangan atau permohonan itu, mengikut mana-mana yang berkenaan, hendaklah disifatkan telah digugurkan.
 
 (3s) Jika pemohon memfailkan keterangan dan ekshibit di bawah seksyen kecil (3A), pembangkang boleh, dalam masa yang ditetapkan, menghantar kepada Pendaftar dan pemohon keterangan menjawab yang hendaklah dikemukakan mengikut cara yang ditetapkan.";
 
@@ -532,11 +496,7 @@ bangkangan atau permohonan itu, mengikut mana-mana yang berkenaan, hendaklah dis
 
 (e) dalam subseksyen (10)—
 
-(i) dengan menggantikan
-
-<!-- marginal: perkataan -->
-
-"tuntutan-balas" dengan perkataan "pernyataan balas";
+(i) dengan menggantikan perkataan "tuntutan-balas" dengan perkataan "pernyataan balas";
 
 (ii) dengan memotong perkataan-perkataan "suatu salinan";
 
@@ -544,11 +504,7 @@ bangkangan atau permohonan itu, mengikut mana-mana yang berkenaan, hendaklah dis
 
 (iv) dengan memotong perkataan-perkataan "di hadapan Mahkamah"; dan
 
-(v) dengan memasukkan selepas perkataan- perkataan "tidak diberi
-
-<!-- marginal: dengan -->
-
-sewajarnya,'" perkataan-perkataan "Pendaftar atau".
+(v) dengan memasukkan selepas perkataan- perkataan "tidak diberi dengan sewajarnya,'" perkataan-perkataan "Pendaftar atau".
 
 <!-- marginal: Pindaan -->
 
@@ -562,9 +518,11 @@ sewajarnya,'" perkataan-perkataan "Pendaftar atau".
 
 (b) dengan menggantikan perkataan "disetuju- terima" dalam subseksyen (2) dengan perkataan "diselesaikan".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-24. Subseksyen 31(2) Akta ibu adalah dipinda— seksyen 31.
+24. Subseksyen 31(2) Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 31. -->
 
 (a) dengan memotong perkataan "atau" di akhir perenggan (a);
 
@@ -576,13 +534,19 @@ Pindaan
 
 "(c) sesuatu tindakan pihak Pejabat Pusat Cap Dagangan atau mana-mana pejabat cap dagangan,".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-25. Subseksyen 32(1) Akta ibu adalah dipinda dengan seksyen 32. menggantikan perkataan "tujuh" dengan perkataan "sepuluh".
+25. Subseksyen 32(1) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 32. -->
 
-26. Seksyen 33 Akta ibu adalah dipinda— seksyen 33.
+menggantikan perkataan "tujuh" dengan perkataan "sepuluh".
+
+<!-- marginal: Pindaan -->
+
+26. Seksyen 33 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 33. -->
 
 (a) dengan menggantikan perkataan-perkataan "barang atau benda" dalam nota birai dengan perkataan-perkataan "barang, benda atau perkhidmatan";
 
@@ -600,35 +564,21 @@ Pindaan
 
 (b) yang berikut:
 
-"(c) bahawa perkataan atau perkataan- perkataan itu telah digunakan secara terkenal dan pasti sebagai nama atau perihal perkhidmatan oleh orang atau orang-orang yang menyediakan perkhidmatan yang termasuklah perkhidmatan itu iaitu bukan telah digunakan ber- hubungan dengan perkhidmatan- perkhidmatan yang
-
-<!-- marginal: dengan -->
-
-penyediaannya tuan punya atau pengguna berdaftar cap dagangan itu ada hubungan
-
-<!-- marginal: dalam -->
-
-perjalanan perdagangan,"; dan
+"(c) bahawa perkataan atau perkataan- perkataan itu telah digunakan secara terkenal dan pasti sebagai nama atau perihal perkhidmatan oleh orang atau orang-orang yang menyediakan perkhidmatan yang termasuklah perkhidmatan itu iaitu bukan telah digunakan ber- hubungan dengan perkhidmatan- perkhidmatan yang dengan penyediaannya tuan punya atau pengguna berdaftar cap dagangan itu ada hubungan dalam perjalanan perdagangan,"; dan
 
 (d) dalam subseksyen (3)—
 
-(i) dengan menggantikan perkataan- perkataan "perenggan (a) atau (b)" dengan perkataan-perkataan "perenggan (a), (b) atau (c)";
+(i) dengan menggantikan perkataan- perkataan "perenggan (a) atau (b)" dengan perkataan-perkataan "perenggan
+
+(a), (b) atau (c)";
 
 (ii) dengan menggantikan perkataan- perkataan "barang atau benda yang berkenaan itu atau mengenai barang- barang dari perihal yang sama" dalam perenggan
 
-(a) dengan perkataan- perkataan "barang, benda
-
-<!-- marginal: atau -->
-
-perkhidmatan yang berkenaan atau apa- apa barang atau perkhidmatan daripada perihal yang sama";
+(a) dengan perkataan- perkataan "barang, benda atau perkhidmatan yang berkenaan atau apa- apa barang atau perkhidmatan daripada perihal yang sama";
 
 (iii) dengan menggantikan perkataan- perkataan "barang atau benda yang berkenaan itu atau mengenai barang- barang dari perihal yang sama" dalam perenggan
 
-(b) dengan perkataan- perkataan "barang, benda
-
-<!-- marginal: atau -->
-
-perkhidmatan yang berkenaan atau apa- apa barang atau perkhidmatan daripada perihal yang sama";
+(b) dengan perkataan- perkataan "barang, benda atau perkhidmatan yang berkenaan atau apa- apa barang atau perkhidmatan daripada perihal yang sama";
 
 <!-- page 20 -->
 
@@ -644,9 +594,11 @@ perkhidmatan yang berkenaan atau apa- apa barang atau perkhidmatan daripada peri
 
 (a)" dalam perenggan (c) perkataan-perkataan "atau (c)n.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-27. Seksyen 35 Akta ibu adalah dipinda— seksyen 35.
+27. Seksyen 35 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 35. -->
 
 (a)dalam subseksyen (1) dengan memasukkan selepas perkataan "barang" perkataan-perkataan "atau perkhidmatan" dan selepas perkataan "barang-barang" perkataan-perkataan "atau perkhidmatan-perkhidmatan"; dan
 
@@ -656,13 +608,19 @@ Pindaan
 
 subseksyen (2).
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-28. Perenggan 3 7( c) Akta ibu adalah dipinda seksyen 37. dengan memasukkan selepas perkataan "barang- barang" perkataan-perkataan "atau perkhidmatan- perkhidmatan".
+28. Perenggan 3 7( c) Akta ibu adalah dipinda
 
-Pindaan
+<!-- marginal: seksyen 37. -->
 
-29. Seksyen 38 Akta ibu adalah dipinda— seksyen 38.
+dengan memasukkan selepas perkataan "barang- barang" perkataan-perkataan "atau perkhidmatan- perkhidmatan".
+
+<!-- marginal: Pindaan -->
+
+29. Seksyen 38 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 38. -->
 
 (a) dalam subseksyen (1)— (i) dengan memasukkan selepas perkataan- perkataan "dalam perjalanan per-
 
@@ -678,53 +636,27 @@ dagangan berhubung dengan barang- barang" perkataan-perkataan "atau perkhidmatan
 
 (b) yang berikut:
 
-"(c) dalam hal yang penggunaan itu adalah penggunaan di tempat atau hampir dengan tempat di mana perkhidmatan itu boleh didapati atau dilaksanakan atau dalam suatu pekeliling iklan atau iklan lain yang dikeluarkan kepada orang ramai, sebagai mengertikan suatu rujukan kepada seseorang yang mempunyai hak sama ada sebagai tuan punya berdaftar atau sebagai pengguna berdaftar untuk menggunakan cap dagangan itu atau kepada
-
-<!-- marginal: perkhidmatan- -->
-
-perkhidmatan
-
-<!-- marginal: yang -->
-
-<!-- marginal: dengan -->
-
-penyediaannya orang itu ada hubungan dalam
-
-<!-- marginal: perjalanan -->
-
-perdagangan."; dan
+"(c) dalam hal yang penggunaan itu adalah penggunaan di tempat atau hampir dengan tempat di mana perkhidmatan itu boleh didapati atau dilaksanakan atau dalam suatu pekeliling iklan atau iklan lain yang dikeluarkan kepada orang ramai, sebagai mengertikan suatu rujukan kepada seseorang yang mempunyai hak sama ada sebagai tuan punya berdaftar atau sebagai pengguna berdaftar untuk menggunakan cap dagangan itu atau kepada perkhidmatan- perkhidmatan yang dengan penyediaannya orang itu ada hubungan dalam perjalanan perdagangan."; dan
 
 (b) dengan memasukkan selepas perkataan "barang- barang" dalam subseksyen (2) perkataan- perkataan "atau perkhidmatan-perkhidmatan".
 
-<!-- marginal: Pindaan -->
+Pindaan
 
-30. Seksyen 40 Akta ibu adalah dipinda—
-
-<!-- marginal: seksyen 40. -->
+30. Seksyen 40 Akta ibu adalah dipinda— seksyen 40.
 
 (a) dalam subseksyen (1)
 
-(i) dengan memasukkan selepas perkataan "barang-barangnya," dalam perenggan (b) perkataan-perkataan
+(i) dengan memasukkan selepas perkataan "barang-barangnya," dalam perenggan
 
-<!-- marginal: "atau -->
-
-perkhidmatan-perkhidmatannya, dan dalam hal barang-barang";
+(b) perkataan-perkataan "atau perkhidmatan-perkhidmatannya, dan dalam hal barang-barang";
 
 <!-- page 22 -->
 
 cap dagangan itu, Mahkamah boleh menolak sesuatu permohonan yang dibuat di bawah seksyen kecil (1)—
 
-(a) berhubungan dengan apa-apa barang, jika telah ada, sebelum tarikh yang relevan itu atau semasa tempoh yang relevan itu, mengikut mana-mana yang berkenaan, penggunaan suci hati cap dagangan itu oleh tuan punya berdaftar cap dagangan pada masa
+(a) berhubungan dengan apa-apa barang, jika telah ada, sebelum tarikh yang relevan itu atau semasa tempoh yang relevan itu, mengikut mana-mana yang berkenaan, penggunaan suci hati cap dagangan itu oleh tuan punya berdaftar cap dagangan pada masa itu berhubungan dengan barang-barang daripada perihal yang sama, iaitu barang-barang yang mengenainya cap dagangan itu didaftarkan; dan
 
-<!-- marginal: itu -->
-
-berhubungan dengan barang-barang daripada perihal yang sama, iaitu barang-barang yang mengenainya cap dagangan itu didaftarkan; dan
-
-(b) berhubungan dengan
-
-<!-- marginal: apa-apa -->
-
-perkhidmatan, jika telah ada, sebelum tarikh yang relevan itu atau semasa tempoh yang relevan itu, mengikut mana-mana yang berkenaan, peng- gunaan suci hati cap dagangan itu oleh tuan punya berdaftar cap dagangan pada masa itu berhubungan dengan perkhidmatan-perkhidmatan daripada perihal yang sama, iaitu perkhidmatan- perkhidmatan yang mengenainya cap dagangan itu didaftarkan .";
+(b) berhubungan dengan apa-apa perkhidmatan, jika telah ada, sebelum tarikh yang relevan itu atau semasa tempoh yang relevan itu, mengikut mana-mana yang berkenaan, peng- gunaan suci hati cap dagangan itu oleh tuan punya berdaftar cap dagangan pada masa itu berhubungan dengan perkhidmatan-perkhidmatan daripada perihal yang sama, iaitu perkhidmatan- perkhidmatan yang mengenainya cap dagangan itu didaftarkan .";
 
 (c) dengan memotong perkataan-perkataan "atau Pendaftar" di mana jua terdapat dalam subseksyen (3); dan
 
@@ -738,15 +670,13 @@ perkhidmatan, jika telah ada, sebelum tarikh yang relevan itu atau semasa tempoh
 
 cap dagangan itu berhubungan dengan perkhidmatan-perkhidmatan yang disediakan di tempat tertentu di Malaysia; dan
 
-(b) seseorang telah dibenarkan di bawah seksyen 20 untuk mendaftarkan sesuatu cap dagangan yang serupa atau yang hampir-hampir menyerupai cap dagangan mengenai perkhidmatan- perkhidmatan itu di bawah suatu pendaftaran yang meliputi penggunaan cap dagangan berhubungan dengan perkhidmatan-perkhidmatan yang disediakan di tempat
-
-<!-- marginal: itu, atau -->
-
-Mahkamah berpendapat bahawa orang itu boleh dibenarkan dengan patut untuk mendaftarkan cap dagangan itu,
+(b) seseorang telah dibenarkan di bawah seksyen 20 untuk mendaftarkan sesuatu cap dagangan yang serupa atau yang hampir-hampir menyerupai cap dagangan mengenai perkhidmatan- perkhidmatan itu di bawah suatu pendaftaran yang meliputi penggunaan cap dagangan berhubungan dengan perkhidmatan-perkhidmatan yang disediakan di tempat itu, atau Mahkamah berpendapat bahawa orang itu boleh dibenarkan dengan patut untuk mendaftarkan cap dagangan itu,
 
 Mahkamah boleh, atas permohonan orang itu, mengarahkan supaya pendaftaran cap dagangan yang pertama disebut itu dikenakan apa-apa syarat, pindaan, ubahsuaian atau batasan yang difikirkan patut oleh Mahkamah bagi menjamin pendaftaran itu tidak lagi meliputi penggunaan cap dagangan itu berhubungan dengan perkhidmatan-perkhidmatan yang disediakan di tempat itu.";
 
-(e) dengan memasukkan selepas perkataan- perkataan "seksyen-kecil (3)" dalam subseksyen (4) perkataan-perkataan "atau (3A)"; dan
+(e) dengan memasukkan selepas perkataan- perkataan "seksyen-kecil (3)" dalam subseksyen
+
+(4) perkataan-perkataan "atau (3A)"; dan
 
 (f) dengan memotong subseksyen (5).
 
@@ -760,15 +690,15 @@ dengan memasukkan selepas perkataan "barang- barang" perkataan-perkataan "atau p
 
 <!-- page 24 -->
 
-Penggantian
+<!-- marginal: Penggantian -->
 
-36. Akta ibu adalah dipinda dengan menggantikan seksyen 48. seksyen 48 dengan yang berikut:
+36. Akta ibu adalah dipinda dengan menggantikan
 
-"pengguna 48. (1) Tertakluk kepada peruntukan- berdaftar. peruntukan seksyen ini, jika tuan punya berdaftar sesuatu cap dagangan memberi, melalui kontrak yang sah, hak kepada mana- mana orang untuk menggunakan cap dagangan itu bagi semua atau mana-mana barang atau perkhidmatan yang mengenainya cap dagangan itu didaftarkan, orang itu bolehlah dicatatkan dalam Daftar sebagai pengguna berdaftar cap dagangan yang tersebut sama ada dengan atau tanpa apa-apa syarat atau sekatan, dengan syarat bahawa hendaklah menjadi syarat mana- mana pendaftaran sedemikian bahawa tuan punya berdaftar itu hendaklah mengekalkan dan menjalankan kawalan ke atas penggunaan cap dagangan itu dan ke atas kualiti barang- barang atau perkhidmatan-perkhidmatan yang disediakan oleh pengguna berdaftar
+<!-- marginal: seksyen 48. -->
 
-<!-- marginal: itu -->
+seksyen 48 dengan yang berikut:
 
-berkaitan dengan cap dagangan itu.
+"pengguna 48. (1) Tertakluk kepada peruntukan- berdaftar. peruntukan seksyen ini, jika tuan punya berdaftar sesuatu cap dagangan memberi, melalui kontrak yang sah, hak kepada mana- mana orang untuk menggunakan cap dagangan itu bagi semua atau mana-mana barang atau perkhidmatan yang mengenainya cap dagangan itu didaftarkan, orang itu bolehlah dicatatkan dalam Daftar sebagai pengguna berdaftar cap dagangan yang tersebut sama ada dengan atau tanpa apa-apa syarat atau sekatan, dengan syarat bahawa hendaklah menjadi syarat mana- mana pendaftaran sedemikian bahawa tuan punya berdaftar itu hendaklah mengekalkan dan menjalankan kawalan ke atas penggunaan cap dagangan itu dan ke atas kualiti barang- barang atau perkhidmatan-perkhidmatan yang disediakan oleh pengguna berdaftar itu berkaitan dengan cap dagangan itu.
 
 (2) Jika seseorang dicadangkan didaftarkan sebagai pengguna berdaftar sesuatu cap dagangan, tuan punya berdaftar hendaklah mengemukakan permohonan kepada Pendaftar bagi pendaftaran orang itu sebagai pengguna berdaftar cap dagangan itu dan permohonan itu hendaklah disertai fee yang ditetapkan dan maklumat yang berikut:
 
@@ -784,25 +714,15 @@ berkaitan dengan cap dagangan itu.
 
 (e) sama ada penggunaan yang dibenarkan itu adalah bagi sesuatu tempoh atau tanpa had tempoh, dan jika bagi sesuatu tempoh, jangka masa tempoh itu.
 
-(3) Tuan punya berdaftar hendaklah memberi kepada Pendaftar apa-apa dokumen, maklumat atau keterangan
-
-<!-- marginal: lanjut yang -->
-
-dikehendaki oleh Pendaftar atau mana-mana peraturan yang dibuat di bawah Akta ini.
+(3) Tuan punya berdaftar hendaklah memberi kepada Pendaftar apa-apa dokumen, maklumat atau keterangan lanjut yang dikehendaki oleh Pendaftar atau mana-mana peraturan yang dibuat di bawah Akta ini.
 
 (4) Apabila diterima permohonan bagi pendaftaran seseorang sebagai pengguna berdaftar sesuatu cap dagangan di bawah seksyen kecil (2), Pendaftar hendaklah mencatatkan dalam Daftar segala butir yang dikehendaki diberikan di bawah seksyen kecil itu.
 
-(5) Jika seseorang telah didaftarkan sebagai pengguna berdaftar sesuatu cap dagangan, penggunaan cap dagangan itu oleh pengguna berdaftar itu dalam had pendaftarannya hendaklah disifatkan sebagai penggunaan oleh tuan punya berdaftar cap dagangan
+(5) Jika seseorang telah didaftarkan sebagai pengguna berdaftar sesuatu cap dagangan, penggunaan cap dagangan itu oleh pengguna berdaftar itu dalam had pendaftarannya hendaklah disifatkan sebagai penggunaan oleh tuan punya berdaftar cap dagangan itu sehingga takat yang sama seperti penggunaan cap dagangan itu oleh pengguna berdaftar dan hendaklah disifatkan sebagai bukan penggunaan oleh mana-mana orang lain.
 
-<!-- marginal: itu -->
+(6) Peruntukan-peruntukan seksyen kecil
 
-sehingga takat yang sama seperti penggunaan cap dagangan itu oleh pengguna berdaftar dan hendaklah disifatkan sebagai
-
-<!-- marginal: bukan -->
-
-penggunaan oleh mana-mana orang lain.
-
-(6) Peruntukan-peruntukan seksyen kecil (5) hendaklah terhenti berkuatkuasa berkenaan dengan mana-mana pengguna berdaftar sesuatu cap dagangan—
+(5) hendaklah terhenti berkuatkuasa berkenaan dengan mana-mana pengguna berdaftar sesuatu cap dagangan—
 
 (a) jika cap dagangan itu terhenti menjadi cap dagangan berdaftar atas apa-apa sebab;
 
@@ -812,35 +732,13 @@ penggunaan oleh mana-mana orang lain.
 
 perkhidmatan yang mengenainya pendaftaran pengguna berdaftar itu telah dibuat;
 
-(c) jika tuan punya berdaftar itu terhenti menjalankan kawalan
-
-<!-- marginal: ke -->
-
-<!-- marginal: atas -->
-
-penggunaan cap dagangan itu dan ke atas kualiti barang-barang
-
-<!-- marginal: atau -->
-
-perkhidmatan-perkhidmatan
-
-<!-- marginal: yang -->
-
-disediakan oleh pengguna berdaftar yang berkenaan berhubungan dengan cap dagangan itu;
+(c) jika tuan punya berdaftar itu terhenti menjalankan kawalan ke atas penggunaan cap dagangan itu dan ke atas kualiti barang-barang atau perkhidmatan-perkhidmatan yang disediakan oleh pengguna berdaftar yang berkenaan berhubungan dengan cap dagangan itu;
 
 (d) pada tarikh tamatnya pendaftaran yang akhir cap dagangan itu melainkan jika suatu permohonan baru yang dibuat di bawah seksyen kecil (2) menyertai apa- apa permohonan bagi pembaharuan pendaftaran cap dagangan itu;
 
 (e) pada tarikh apa-apa penyerahhakan atau perpindahan cap dagangan berdaftar itu, melainkan jika dan sehingga penurunan hakmilik itu direkodkan dalam Daftar mengikut peruntukan-peruntukan Akta ini dan tuan punya kemudian cap dagangan berdaftar itu membuat permohonan baru di bawah seksyen kecil (2).
 
-(7) Jika tuan punya berdaftar sesuatu cap dagangan tidak menjalankan mana-mana hak yang diberikan kepadanya oleh pendaftarannya sehingga memudaratkan mana-mana pengguna berdaftar cap dagangan itu, pengguna berdaftar itu boleh memohon kepada Mahkamah untuk mendapatkan apa-apa relief yang difikirkan adil oleh Mahkamah, termasuk pembetulan Daftar dengan memerintahkan
-
-<!-- marginal: supaya -->
-
-pengguna berdaftar itu direkodkan sebagai tuan punya berdaftar cap dagangan itu, dan dalatn hal jika penggunaan cap dagangan itu oleh mana-mana orang yang
-
-<!-- marginal: berhak -->
-
-menggunakannya mungkin akan memperdaya
+(7) Jika tuan punya berdaftar sesuatu cap dagangan tidak menjalankan mana-mana hak yang diberikan kepadanya oleh pendaftarannya sehingga memudaratkan mana-mana pengguna berdaftar cap dagangan itu, pengguna berdaftar itu boleh memohon kepada Mahkamah untuk mendapatkan apa-apa relief yang difikirkan adil oleh Mahkamah, termasuk pembetulan Daftar dengan memerintahkan supaya pengguna berdaftar itu direkodkan sebagai tuan punya berdaftar cap dagangan itu, dan dalatn hal jika penggunaan cap dagangan itu oleh mana-mana orang yang berhak menggunakannya mungkin akan memperdaya
 
 <!-- page 27 -->
 
@@ -890,31 +788,23 @@ atau menyebabkan kekeliruan, Mahkamah boleh memerintahkan supaya cap dagangan it
 
 <!-- page 28 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-41. Seksyen 55 Akta ibu adalah dipinda— seksyen 55.
+41. Seksyen 55 Akta ibu adalah dipinda—
 
-(a) dengan memasukkan selepas perkataan "barang- barang" di mana jua terdapat dalam subseksyen (1) perkataan-perkataan "atau perkhidmatan- perkhidmatan";
+<!-- marginal: seksyen 55. -->
+
+(a) dengan memasukkan selepas perkataan "barang- barang" di mana jua terdapat dalam subseksyen
+
+(1) perkataan-perkataan "atau perkhidmatan- perkhidmatan";
 
 (b) dengan memasukkan selepas subseksyen (1) yang berikut:
 
-"(1A) Seksyen kecil (1) hendaklah mempunyai kuatkuasa dalam hal sesuatu cap dagangan tak berdaftar yang digunakan berhubungan dengan apa-apa barang atau perkhidmatan sebagaimana yang
-
-<!-- marginal: ia -->
-
-mempunyai kuatkuasa dalam hal sesuatu cap dagangan berdaftar yang didaftarkan mengenai apa-apa barang atau perkhid- matan, jika pada masa penyerahhakan atau perpindahan cap dagangan tak berdaftar itu ia digunakan atau telah digunakan dalam perniagaan yang sama sebagaimana cap dagangan berdaftar, dan
-
-<!-- marginal: jika -->
-
-<!-- marginal: ia -->
-
-diserahhakkan atau dipindahkan atau telah diserahhakkan atau telah dipindahkan pada masa yang sama dan kepada orang yang sama sebagaimana cap dagangan berdaftar itu dan mengenai barang-barang atau perkhidmatan-perkhidmatan yang ke- semuanya adalah barang-barang atau perkhidmatan-perkhidmatan yang ber- hubungan dengannya cap dagangan tak berdaftar itu adalah atau telah digunakan dalam perniagaan itu dan mengenainya cap dagangan berdaftar itu adalah atau telah diserahhakkan atau dipindahkan.";
+"(1A) Seksyen kecil (1) hendaklah mempunyai kuatkuasa dalam hal sesuatu cap dagangan tak berdaftar yang digunakan berhubungan dengan apa-apa barang atau perkhidmatan sebagaimana yang ia mempunyai kuatkuasa dalam hal sesuatu cap dagangan berdaftar yang didaftarkan mengenai apa-apa barang atau perkhid- matan, jika pada masa penyerahhakan atau perpindahan cap dagangan tak berdaftar itu ia digunakan atau telah digunakan dalam perniagaan yang sama sebagaimana cap dagangan berdaftar, dan jika ia diserahhakkan atau dipindahkan atau telah diserahhakkan atau telah dipindahkan pada masa yang sama dan kepada orang yang sama sebagaimana cap dagangan berdaftar itu dan mengenai barang-barang atau perkhidmatan-perkhidmatan yang ke- semuanya adalah barang-barang atau perkhidmatan-perkhidmatan yang ber- hubungan dengannya cap dagangan tak berdaftar itu adalah atau telah digunakan dalam perniagaan itu dan mengenainya cap dagangan berdaftar itu adalah atau telah diserahhakkan atau dipindahkan.";
 
 (c) dengan menggantikan subseksyen (3) dengan yang berikut:
 
-"(3) Walau apa pun seksyen kecil (1) dan (1A), sesuatu cap dagangan hendaklah disifatkan tidak boleh diserahhakkan atau dipindahkan jika, akibat
-
-<!-- marginal: daripada -->
+"(3) Walau apa pun seksyen kecil (1) dan (1A), sesuatu cap dagangan hendaklah disifatkan tidak boleh diserahhakkan atau dipindahkan jika, akibat daripada
 
 <!-- page 29 -->
 
@@ -922,11 +812,7 @@ penyerahhakan atau perpindahan itu, sama ada di bawah common law atau melalui pe
 
 (d) dengan menggantikan subseksyen (5) dengan yang berikut:
 
-"(5) Jika sesuatu penyerahhakan mengenai mana-mana barang
-
-<!-- marginal: atau -->
-
-perkhidmatan sesuatu cap dagangan yang pada masa penyerahhakan itu digunakan dalam perniagaan dalam barang-barang atau perkhidmatan-perkhidmatan itu dibuat selain daripada berkaitan dengan muhibbah perniagaan itu, penyerahhakan itu tidak boleh disifatkan telah berkuatkuasa melainkan jika penyerahhakan itu telah diiklankan mengikut cara yang ditetapkan dan permohonan bagi penyerahhakan tanpa muhibbah itu, yang disertai dengan iklan itu, telah dihantar kepada Pendaftar."; dan
+"(5) Jika sesuatu penyerahhakan mengenai mana-mana barang atau perkhidmatan sesuatu cap dagangan yang pada masa penyerahhakan itu digunakan dalam perniagaan dalam barang-barang atau perkhidmatan-perkhidmatan itu dibuat selain daripada berkaitan dengan muhibbah perniagaan itu, penyerahhakan itu tidak boleh disifatkan telah berkuatkuasa melainkan jika penyerahhakan itu telah diiklankan mengikut cara yang ditetapkan dan permohonan bagi penyerahhakan tanpa muhibbah itu, yang disertai dengan iklan itu, telah dihantar kepada Pendaftar."; dan
 
 (e) dengan memotong subseksyen (6).
 
@@ -956,17 +842,7 @@ dalam perenggan
 
 (b) yang berikut:
 
-"(c) dalam hal yang penggunaan itu adalah penggunaan di tempat atau hampir dengan tempat di mana perkhidmatan- perkhidmatan itu boleh didapati atau dilaksanakan atau dalam suatu pekeliling iklan atau iklan lain yang dikeluarkan kepada orang ramai, sebagai bererti suatu rujukan kepada orang yang mempunyai hak
-
-<!-- marginal: sama -->
-
-<!-- marginal: ada -->
-
-sebagai tuan punya atau sebagai pengguna berdaftar
-
-<!-- marginal: untuk -->
-
-menggunakan cap dagangan itu atau perkhidmatan-perkhidmatan yang dengan penyediaannya orang itu ada hubungan dalam perjalanan perdagangan.";
+"(c) dalam hal yang penggunaan itu adalah penggunaan di tempat atau hampir dengan tempat di mana perkhidmatan- perkhidmatan itu boleh didapati atau dilaksanakan atau dalam suatu pekeliling iklan atau iklan lain yang dikeluarkan kepada orang ramai, sebagai bererti suatu rujukan kepada orang yang mempunyai hak sama ada sebagai tuan punya atau sebagai pengguna berdaftar untuk menggunakan cap dagangan itu atau perkhidmatan-perkhidmatan yang dengan penyediaannya orang itu ada hubungan dalam perjalanan perdagangan.";
 
 (c) dalam subseksyen (4) dengan memasukkan selepas perkataan "pasaran," perkataan- perkataan "berhubung dengan perkhidmatan- perkhidmatan yang akan disediakan di sesuatu tempat";
 
@@ -1006,35 +882,49 @@ memasukkan selepas perkataan "barang" atau "barang- barang" masing-masingnya di 
 
 <!-- page 32 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
 44. Seksyen 58 Akta ibu adalah
 
 <!-- marginal: dipinda -->
 
-seksyen 58. dengan memasukkan selepas perkataan "barang- barang" perkataan-perkataan "atau perkhidmatan- perkhidmatan".
+<!-- marginal: seksyen 58. -->
 
-Pindaan
+dengan memasukkan selepas perkataan "barang- barang" perkataan-perkataan "atau perkhidmatan- perkhidmatan".
 
-45. Seksyen 64 Akta ibu adalah dipinda dengan seksyen 64. menggantikan subseksyen (3) dengan yang berikut:
+<!-- marginal: Pindaan -->
+
+45. Seksyen 64 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 64. -->
+
+menggantikan subseksyen (3) dengan yang berikut:
 
 "(3) Dalam apa-apa tindakan atau prosiding berhubungan dengan sesuatu cap dagangan atau nama dagangan, Pendaftar atau Mahkamah, mengikut mana-mana yang berkenaan, hendaklah menerima keterangan tentang kelaziman perdagangan yang berkenaan atau keterangan tentang kelaziman perniagaan dalam penyediaan perkhidmatan yang berkenaan, dan keterangan tentang mana-mana cap dagangan atau nama dagangan atau nama perniagaan atau cara gayanya yang relevan yang digunakan dengan sah oleh orang-orang lain.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-46. Seksyen 65 teks bahasa Inggeris Akta ibu adalah seksyen 65. dipinda dengan menggantikan perkataan-perkataan "from the Registrar" dalam subseksyen (1) dengan perkataan-perkataan "from the Register".
+46. Seksyen 65 teks bahasa Inggeris Akta ibu adalah
 
-Pindaan
+<!-- marginal: seksyen 65. -->
 
-47. Seksyen 66 Akta ibu adalah dipinda— seksyen 66.
+dipinda dengan menggantikan perkataan-perkataan "from the Registrar" dalam subseksyen (1) dengan perkataan-perkataan "from the Register".
+
+<!-- marginal: Pindaan -->
+
+47. Seksyen 66 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 66. -->
 
 (a) dengan menggantikan perkataan-perkataan "Yang di-Pertuan Agong" dalam nota birai dan dalam subseksyen (1) dengan perkataan "Menteri"; dan
 
 (b) dengan memasukkan selepas perkataan "barang- barang" di mana jua terdapat dalam takrif "cap dagangan" dalam subseksyen (2) perkataan- perkataan "atau perkhidmatan-perkhidmatan".
 
-Pemotongan
+<!-- marginal: Pemotongan -->
 
-48. Akta ibu adalah dipinda dengan memotong seksyen seksyen 68.
+48. Akta ibu adalah dipinda dengan memotong seksyen
+
+<!-- marginal: seksyen 68. -->
 
 68.
 
@@ -1062,29 +952,27 @@ kepala Bahagian XIV dengan yang berikut:
 
 <!-- marginal: seksyen 70. -->
 
-untuk mendapatkan perhndungan apa-apa cap seksyen 70 dengan yang berikut: "Hak keutamaan di bawah Konvesyen, dagangan di sesuatu negara Konvensyen atau dsb. negara asing ditetapkan, orang itu atau wakil di sisi undang-undangnya atau pemegang serahhaknya, setelah membuat perisytiharan dalam masa yang ditetapkan
+untuk mendapatkan perhndungan apa-apa cap seksyen 70 dengan yang berikut:
 
-<!-- marginal: yang -->
+<!-- marginal: "Hak -->
 
-menunjukkan tarikh permohonan itu dan negara di mana ia dibuat, hendaklah, berkenaan dengan permohonan
+<!-- marginal: keutamaan -->
 
-<!-- marginal: bagi -->
+<!-- marginal: di bawah -->
 
-pendaftaran cap dagangannya, mendapat hak keutamaan dan permohonan itu di Malaysia hendaklah mempunyai tarikh yang sama seperti tarikh permohonan bagi perlindungan di negara Konvensyen atau negara asing ditetapkan yang berkenaan, mengikut mana- mana yang berkenaan, tertakluk kepada yang berikut:
+<!-- marginal: Konvesyen, -->
 
-(a) bahawa permohonan bagi pendaftaran itu dibuat dalam tempoh enam bulan dari tarikh permohonan
+dagangan di sesuatu negara Konvensyen atau
 
-<!-- marginal: bagi -->
+<!-- marginal: dsb. -->
 
-perlindungan di negara Konvensyen atau negara asing ditetapkan yang berkenaan, mengikut mana-mana yang berkenaan; dan jika permohonan bagi perlindungan dibuat di lebih daripada satu negara Konvensyen atau negara asing ditetapkan, tempoh enam bulan yang disebut dalam perenggan ini hendaklah dikira dari tarikh yang permohonan yang lebih awal atau yang paling awal itu dibuat;
+negara asing ditetapkan, orang itu atau wakil di sisi undang-undangnya atau pemegang serahhaknya, setelah membuat perisytiharan dalam masa yang ditetapkan yang menunjukkan tarikh permohonan itu dan negara di mana ia dibuat, hendaklah, berkenaan dengan permohonan bagi pendaftaran cap dagangannya, mendapat hak keutamaan dan permohonan itu di Malaysia hendaklah mempunyai tarikh yang sama seperti tarikh permohonan bagi perlindungan di negara Konvensyen atau negara asing ditetapkan yang berkenaan, mengikut mana- mana yang berkenaan, tertakluk kepada yang berikut:
+
+(a) bahawa permohonan bagi pendaftaran itu dibuat dalam tempoh enam bulan dari tarikh permohonan bagi perlindungan di negara Konvensyen atau negara asing ditetapkan yang berkenaan, mengikut mana-mana yang berkenaan; dan jika permohonan bagi perlindungan dibuat di lebih daripada satu negara Konvensyen atau negara asing ditetapkan, tempoh enam bulan yang disebut dalam perenggan ini hendaklah dikira dari tarikh yang permohonan yang lebih awal atau yang paling awal itu dibuat;
 
 <!-- page 34 -->
 
-(b) bahawa pemohon itu ialah sama ada rakyat atau pemastautin, atau per- tubuhan perbadanan yang diperbadan- kan di bawah undang-undang, negara Konvensyen atau negara
-
-<!-- marginal: asing -->
-
-ditetapkan yang berkenaan, mengikut mana-mana yang berkenaan; dan
+(b) bahawa pemohon itu ialah sama ada rakyat atau pemastautin, atau per- tubuhan perbadanan yang diperbadan- kan di bawah undang-undang, negara Konvensyen atau negara asing ditetapkan yang berkenaan, mengikut mana-mana yang berkenaan; dan
 
 (c) bahawa tiada apa-apa dalam seksyen ini memberikan hak kepada tuan punya sesuatu cap dagangan untuk mendapat- kan ganti rugi bagi pelanggaran atau apa-apa kejadian sebelum tarikh yang permohonan bagi perlindungan cap dagangan itu dibuat di Malaysia.
 
@@ -1094,25 +982,9 @@ ditetapkan yang berkenaan, mengikut mana-mana yang berkenaan; dan
 
 (a) hendaklah dibuat mengikut dan diperlakukan dengan cara yang sama seperti suatu permohonan biasa bagi pendaftaran di bawah Akta ini; dan
 
-(b) hendaklah menyatakan
+(b) hendaklah menyatakan negara Konvensyen atau negara asing ditetapkan, mengikut mana-mana yang berkenaan, di mana permohonan bagi perlindungan, atau permohonan pertama bagi perlindungan, dibuat dan tarikh yang permohonan bagi perlindungan itu dibuat.
 
-<!-- marginal: negara -->
-
-Konvensyen atau negara
-
-<!-- marginal: asing -->
-
-ditetapkan, mengikut mana-mana yang berkenaan, di mana permohonan bagi perlindungan, atau permohonan pertama bagi perlindungan, dibuat dan tarikh yang permohonan
-
-<!-- marginal: bagi -->
-
-perlindungan itu dibuat.
-
-(4) Berkenaan dengan negara
-
-<!-- marginal: asing -->
-
-ditetapkan, seksyen ini hendaklah terpakai hanya bagi jangka masa tempoh yang perintah
+(4) Berkenaan dengan negara asing ditetapkan, seksyen ini hendaklah terpakai hanya bagi jangka masa tempoh yang perintah
 
 <!-- page 35 -->
 
@@ -1126,7 +998,59 @@ itu terus berkuatkuasa berkenaan dengan negara itu.
 
 <!-- marginal: 70A. -->
 
-selepas seksyen 70 yang berikut: Perlindu- 70A. (1) Walau apa pun apa-apa jua dalam ngan Akta ini, perlindungan sementara hendaklah sementara cap diberikan kepada sesuatu cap dagangan dagangan mengenai barang-barang atau perkhidmatan- mengenai perkhidmatan yang menjadi hal perkara barang atau per- pameran di suatu pameran antarabangsa rasmi khidmatan atau pameran antarabangsa yang diiktiraf yang menjadi sebagai rasmi yang diadakan di Malaysia atau hai perkara di mana-mana negara Konvensyen atau negara pameran antara- asing ditetapkan. bangsa. (2) Perlindungan sementara yang diberikan di bawah seksyen kecil (1) tidaklah melanjutkan apa-apa tempoh keutamaan yang dituntut oleh seseorang pemohon dan jika hak keutamaan dituntut oleh seseorang pemohon kemudian daripada perlindungan sementara itu, tempoh keutamaan itu hendaklah kekal enam bulan tetapi tempoh itu hendaklah bermula dari tarikh yang barang-barang atau perkhidmatan-perkhidmatan itu diperkenalkan ke dalam pameran itu,
+selepas seksyen 70 yang berikut:
+
+<!-- marginal: Perlindu- -->
+
+70A. (1) Walau apa pun apa-apa jua dalam
+
+<!-- marginal: ngan -->
+
+Akta ini, perlindungan sementara hendaklah
+
+<!-- marginal: sementara -->
+
+<!-- marginal: cap -->
+
+diberikan kepada sesuatu cap dagangan
+
+<!-- marginal: dagangan -->
+
+mengenai barang-barang atau perkhidmatan-
+
+<!-- marginal: mengenai -->
+
+perkhidmatan yang menjadi hal perkara
+
+<!-- marginal: barang -->
+
+<!-- marginal: atau per- -->
+
+pameran di suatu pameran antarabangsa rasmi
+
+<!-- marginal: khidmatan -->
+
+atau pameran antarabangsa yang diiktiraf
+
+<!-- marginal: yang -->
+
+<!-- marginal: menjadi -->
+
+sebagai rasmi yang diadakan di Malaysia atau
+
+<!-- marginal: hai perkara -->
+
+di mana-mana negara Konvensyen atau negara
+
+<!-- marginal: pameran -->
+
+<!-- marginal: antara- -->
+
+asing ditetapkan.
+
+<!-- marginal: bangsa. -->
+
+(2) Perlindungan sementara yang diberikan di bawah seksyen kecil (1) tidaklah melanjutkan apa-apa tempoh keutamaan yang dituntut oleh seseorang pemohon dan jika hak keutamaan dituntut oleh seseorang pemohon kemudian daripada perlindungan sementara itu, tempoh keutamaan itu hendaklah kekal enam bulan tetapi tempoh itu hendaklah bermula dari tarikh yang barang-barang atau perkhidmatan-perkhidmatan itu diperkenalkan ke dalam pameran itu,
 
 (3) Seseorang pemohon bagi pendaftaran sesuatu cap dagangan yang barang-barang atau perkhidmatan-perkhidmatannya menjadi hal perkara pameran di suatu pameran antarabangsa rasmi atau pameran antarabangsa yang diiktiraf sebagai rasmi di Malaysia atau di mana-mana negara Konvensyen atau negara asing ditetapkan dan yang memohon untuk mendapatkan pendaftaran cap itu di Malaysia
 
@@ -1142,15 +1066,33 @@ yang barang-barang atau perkhidmatan- perkhidmatan itu mula-mula menjadi hal per
 
 permintaannya, disifatkan telah memohon untuk mendapatkan pendaftaran pada tarikh yang barang-barang atau perkhidmatan- perkhidmatan itu mula-mula menjadi hal perkara pameran itu. (4) Keterangan bahawa barang-barang atau perkhidmalan-perkhidmatan yang memakai cap dagangan itu rnenjadi hal perkara pameran di suatu pameran antarabangsa rasmi atau pameran antarabangsa yang diktiraf sebagai rasmi hendaklah melalui perakuan yang dikeluarkan oleh pihak berkuasa kompeten pameran itu.".
 
-Pindaan 52. Seksyen 72 Akta ibu adalah dipinda dengan seksyen 72 memasukkan selepas perkataan "barang-barang" di mana jua terdapat perkataan-perkataan
+<!-- marginal: Pindaan -->
+
+52. Seksyen 72 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 72 -->
+
+memasukkan selepas perkataan "barang-barang" di mana jua terdapat perkataan-perkataan
 
 <!-- marginal: "atau -->
 
 perkhidmatan-perkhidmatan".
 
-Pindaan 53. Perenggan 15(1)(d) Akta ibu adalah dipinda dengan seksyen 75. menggantikan perkataan "meminda" dengan perkataan "mengaward".
+<!-- marginal: Pindaan -->
 
-Pindaan 54. Akta ibu adalah dipinda dengan menggantikan seksyen 77. seksyen 77 dengan yang berikut; "perlanjutan 77. (1) Jika masa ditentukan oleh Akta ini masa atau mana-mana peraturan yang dibuat di bawahnya yang dalamnya sesuatu perbuatan atau perkara hendaklah dilakukan, Pendaftar boleh, melainkan jika selainnya diperuntukkan dengan nyata atau diarahkan oleh Mahkamah, atas permohonan mengikut cara yang ditetapkan, melanjutkan masa itu sama ada sebelum atau selepas tamat masa itu apabila dibayar fee yang ditetapkan. (2) Seksyen kecil (1) tidaklah terpakai bagi seksyen 29, seksyen kecil (3) seksyen 31, seksyen 70 dan seksyen 70A kecuali jika hal keadaan yang disebutkan dalam seksyen 78 terpakai.".
+53. Perenggan 15(1)(d) Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 75. -->
+
+menggantikan perkataan "meminda" dengan perkataan "mengaward".
+
+<!-- marginal: Pindaan -->
+
+54. Akta ibu adalah dipinda dengan menggantikan
+
+<!-- marginal: seksyen 77. -->
+
+seksyen 77 dengan yang berikut; "perlanjutan 77. (1) Jika masa ditentukan oleh Akta ini masa atau mana-mana peraturan yang dibuat di bawahnya yang dalamnya sesuatu perbuatan atau perkara hendaklah dilakukan, Pendaftar boleh, melainkan jika selainnya diperuntukkan dengan nyata atau diarahkan oleh Mahkamah, atas permohonan mengikut cara yang ditetapkan, melanjutkan masa itu sama ada sebelum atau selepas tamat masa itu apabila dibayar fee yang ditetapkan. (2) Seksyen kecil (1) tidaklah terpakai bagi seksyen 29, seksyen kecil (3) seksyen 31, seksyen 70 dan seksyen 70A kecuali jika hal keadaan yang disebutkan dalam seksyen 78 terpakai.".
 
 <!-- page 37 -->
 
@@ -1188,17 +1130,27 @@ seksyen 80 dengan yang berikut:
 
 <!-- page 38 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-58. Seksyen 81 Akta ibu adalah dipinda dengan seksyen 81. memasukkan selepas perkataan "barang-barang" dalam perenggan (1)(c) perkataan-perkataan "atau perkhidmatan-perkhidmatan".
+58. Seksyen 81 Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 81. -->
 
-59. Seksyen 82 Akta ibu adalah dipinda dengan seksyen 82. memasukkan selepas perkataan "barang-barang" di mana jua terdapat dalam subseksyen (2) perkataan- perkataan "atau perkhidmatan-perkhidmatan".
+memasukkan selepas perkataan "barang-barang" dalam perenggan (1)(c) perkataan-perkataan "atau perkhidmatan-perkhidmatan".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-60. Seksyen 83 Akta ibu adalah dipinda— seksyen 83.
+59. Seksyen 82 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 82. -->
+
+memasukkan selepas perkataan "barang-barang" di mana jua terdapat dalam subseksyen (2) perkataan- perkataan "atau perkhidmatan-perkhidmatan".
+
+<!-- marginal: Pindaan -->
+
+60. Seksyen 83 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 83. -->
 
 (a) dengan memasukkan selepas perkataan "barang- barang" dalam perenggan (2)(b) perkataan- perkataan "dan perkhidmatan-perkhidmatan";
 
@@ -1210,11 +1162,19 @@ Pindaan
 
 (d) dengan memotong subseksyen (3).
 
-Peruntukan
+<!-- marginal: Peruntukan -->
 
-61. (1) Pindaan-pindaan kepada seksyen 11, seksyen kecualian. 14, subseksyen 19(1) dan 19(3), subseksyen 20(1), subseksyen 22(1), subseksyen 26(1), seksyen 27, seksyen 28, seksyen 42, subseksyen 46(1), 46(2), 46(3) dan 46(5), seksyen 48, perenggan 49(1 )(c) dan 49(1)
+61. (1) Pindaan-pindaan kepada seksyen 11, seksyen
 
-(d), seksyen 50, seksyen 53, seksyen 54, subseksyen 55(5) dan 55(6), seksyen 68, seksyen 70, subseksyen 77(1) dan subseksyen 79(1) Akta ibu tidaklah menyentuh apa-apa permohonan bagi pendaftaran sesuatu cap dagangan atau bagi pendaftaran sebagai pengguna berdaftar atau pendaftaran cap dagangan atau pengguna berdaftar, mengikut mana-mana yang berkenaan, yang dibuat di bawah Akta ibu sebelum mula berkuatkuasanya Akta ini dan peruntukan-peruntukan
+<!-- marginal: kecualian. -->
+
+14, subseksyen 19(1) dan 19(3), subseksyen 20(1), subseksyen 22(1), subseksyen 26(1), seksyen 27, seksyen 28, seksyen 42, subseksyen 46(1), 46(2), 46(3) dan 46(5), seksyen 48, perenggan 49(1 )(c) dan 49(1)
+
+(d), seksyen 50, seksyen 53, seksyen 54, subseksyen 55(5) dan 55(6), seksyen 68, seksyen 70, subseksyen 77(1) dan subseksyen 79(1) Akta ibu
+
+<!-- marginal: tidaklah -->
+
+menyentuh apa-apa permohonan bagi pendaftaran sesuatu cap dagangan atau bagi pendaftaran sebagai pengguna berdaftar atau pendaftaran cap dagangan atau pengguna berdaftar, mengikut mana-mana yang berkenaan, yang dibuat di bawah Akta ibu sebelum mula berkuatkuasanya Akta ini dan peruntukan-peruntukan
 
 <!-- page 39 -->
 
@@ -1224,9 +1184,15 @@ itu hendaklah terpakai bagi permohonan atau pendaftaran itu, mengikut mana-mana 
 
 ## HURAIAN
 
-Rang Undang-Undang ini bertujuan meminda Akta Cap Dagangan 1976 (kemudian daripada ini disebut "Akta"). 2. Fasal 2 bertujuan meminda seksyen 2 Akta untuk menjelaskan bahawa Akta juga terpakai bagi cap dagangan yang didaftarkan di bawah Ordinan yang dimansuhkan masing-masingnya. Pemakaian berterusan Ordinan yang dimansuhkan bagi permohonan yang dibuat sebelum mula berkuatkuasanya Akta telah diperuntukkan dalam subseksyen 2(3) Akta. 3. Fasal 3 bertujuan memasukkan takrif-takrif baru tertentu ke dalam subseksyen 3(1) Akta. Fasal 3(a)(i) dan 3(a)(v) masing- masing mengadakan peruntukan bagi takrif "negara Konvensyen" dan "negara asing ditetapkan" untuk memudahkan pembacaan seksyen 70 dan 70A. Fasal 3(a)(ii) bertujuan menjelaskan bahawa konteks yang perkataan-perkataan "dalam perjalanan perdagangan" digunakan dalam Akta meliputi juga penyediaan perkhidmatan. Fasal 3(a)(vi) bertujuan mengadakan peruntukan bagi takrif "penentuan" untuk memudahkan pembacaan seksyen 43. Fasal 3(a)(vii) bertujuan memperluaskan takrif "cap dagangan" untuk meliputi bukan sahaja cap yang berhubungan dengan barang-barang tetapi juga perkhidmatan-perkhidmatan. Fasal 3(b) bertujuan meminda subseksyen 3(2) Akta dengan menambah perenggan baru
+Rang Undang-Undang ini bertujuan meminda Akta Cap Dagangan 1976 (kemudian daripada ini disebut "Akta").
 
-(c) untuk membantu pentafsiran penggunaan cap dagangan berhubungan dengan perkhidmatan. 4. Fasal 4 ( a) bertujuan meminda seksyen 4 Akta untuk mengadakan peruntukan bagi perlantikan Pendaftar Cap Dagangan oleh Menteri. Dengan pindaan dalam fasal 4(b) hanya Pendahar sahaja yang menentukan kuasa dan fungsi Penolong Pendaftar di bawah Akta.
+2. Fasal 2 bertujuan meminda seksyen 2 Akta untuk menjelaskan bahawa Akta juga terpakai bagi cap dagangan yang didaftarkan di bawah Ordinan yang dimansuhkan masing-masingnya. Pemakaian berterusan Ordinan yang dimansuhkan bagi permohonan yang dibuat sebelum mula berkuatkuasanya Akta telah diperuntukkan dalam subseksyen 2(3) Akta.
+
+3. Fasal 3 bertujuan memasukkan takrif-takrif baru tertentu ke dalam subseksyen 3(1) Akta. Fasal 3(a)(i) dan 3(a)(v) masing- masing mengadakan peruntukan bagi takrif "negara Konvensyen" dan "negara asing ditetapkan" untuk memudahkan pembacaan seksyen 70 dan 70A. Fasal 3(a)(ii) bertujuan menjelaskan bahawa konteks yang perkataan-perkataan "dalam perjalanan perdagangan" digunakan dalam Akta meliputi juga penyediaan perkhidmatan. Fasal 3(a)(vi) bertujuan mengadakan peruntukan bagi takrif "penentuan" untuk memudahkan pembacaan seksyen 43. Fasal 3(a)(vii) bertujuan memperluaskan takrif "cap dagangan" untuk meliputi bukan sahaja cap yang berhubungan dengan barang-barang tetapi juga perkhidmatan-perkhidmatan. Fasal 3(b) bertujuan meminda subseksyen 3(2) Akta dengan menambah perenggan baru
+
+(c) untuk membantu pentafsiran penggunaan cap dagangan berhubungan dengan perkhidmatan.
+
+4. Fasal 4 ( a) bertujuan meminda seksyen 4 Akta untuk mengadakan peruntukan bagi perlantikan Pendaftar Cap Dagangan oleh Menteri. Dengan pindaan dalam fasal 4(b) hanya Pendahar sahaja yang menentukan kuasa dan fungsi Penolong Pendaftar di bawah Akta.
 
 <!-- page 40 -->
 
@@ -1328,6 +1294,4 @@ pernyataan balas atau bangkangan itu (fasal 22(c)) dan jika salah seorang tidak 
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
-
-<!-- marginal: [PN. (U2) 1285.] -->
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN. (U2) 1285.]

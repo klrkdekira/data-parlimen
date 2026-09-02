@@ -20,9 +20,7 @@ Investments (Amendment) (No. 2) Act 1993 and shall
 
 be deemed to have come into force on the 1st January 1993 and shall have effect for the year of assessment 1994 and subsequent years of assessment.
 
-(2) Notwithstanding subsection (1), section 2 shall be deemed to have come into force on the 10th December
-
-1992.
+(2) Notwithstanding subsection (1), section 2 shall be deemed to have come into force on the 10th December 1992.
 
 <!-- marginal: Amendment -->
 
@@ -48,9 +46,13 @@ Minister with the concurrence in writing of the Minister of Finance by statutory
 
 "(9) Notwithstanding subsection (8), "capital expenditure" shall not include capital expenditure incurred on buildings (which are used as living accommodation for persons), plant and machinery where such buildings, plant or machinery are provided wholly or partly for the use of a director or an individual who is a member of the management, administrative or clerical staff.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-3. Section 36 of the principal Act is amended by of section 36. substituting for subsection (2) the following:
+3. Section 36 of the principal Act is amended by
+
+<!-- marginal: of section 36. -->
+
+substituting for subsection (2) the following:
 
 "(2) The amount of statutory income to be abated under subsection (1) shall be an amount ascertained by applying to the statutory income a rate which is equivalent to twenty-five per cent of export sales as bears to the total sales:
 
@@ -68,7 +70,11 @@ Provided that where the basis period of a company for the year of assessment 199
 
 period after 31st December 1992 as bears to the total sales for the whole of the basis period:
 
-Provided further that where a company exports on or after 1st January 1994 and its basis period for the year of assessment 1995 includes a period prior to 1st January 1994, the company shall be given an abatement of its statutory income under subsection (1) and the amount to be abated under subsection (2) shall be an amount ascertained by applying to the statutory income a rate which is equivalent to twenty-five per cent of export sales in the period prior to 1st January 1994 as bears to the total sales for the whole of the basis period.".
+Provided further that where a company exports on or after 1st January 1994 and its basis period for the year of assessment 1995 includes a period prior to 1st January 1994, the company shall be given an abatement of its statutory income under subsection
+
+(1) and the amount to be abated under subsection
+
+(2) shall be an amount ascertained by applying to the statutory income a rate which is equivalent to twenty-five per cent of export sales in the period prior to 1st January 1994 as bears to the total sales for the whole of the basis period.".
 
 <!-- marginal: Amendment -->
 
@@ -106,9 +112,13 @@ from the export of agricultural produce or the export by a trading company of pr
 
 (B) an amount equal to three per cent of the gross income as ascertained under paragraph (2)(a) which is derived from the export of agricultural produce or the export by a trading company of products manufactured in Malaysia in the period after 31st December 1992.".
 
-New
+<!-- marginal: New -->
 
-6. The principal Act is amended by inserting after section 40A. section 40 the following section:
+6. The principal Act is amended by inserting after
+
+<!-- marginal: section 40A. -->
+
+section 40 the following section:
 
 Non 40A. This Chapter shall not apply
 

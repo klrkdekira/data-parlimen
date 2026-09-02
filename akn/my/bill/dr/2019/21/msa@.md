@@ -40,7 +40,11 @@ Rang Undang-Undang ini bertujuan untuk meminda Perlembagaan Persekutuan.
 
 2. Fasal 1 Rang Undang-Undang ini memperuntukkan tajuk ringkas Akta yang dicadangkan dan kuasa Yang di-Pertuan Agong untuk menetapkan tarikh permulaan kuat kuasa fasal 3 Akta yang dicadangkan. Fasal 2 dan 4 akan mula berkuat kuasa serta-merta pada tarikh berikutan tarikh penyiaran Akta yang dicadangkan dalam Warta menurut seksyen 19 Akta Tafsiran 1948 dan 1967 [Akta 388].
 
-3. Fasal 2 Rang Undang-Undang ini bertujuan untuk meminda perenggan (b) Perkara 47 Perlembagaan Persekutuan untuk menurunkan umur seseorang warganegara yang layak untuk menjadi ahli Dewan Rakyat daripada dua puluh satu tahun kepada lapan belas tahun.
+3. Fasal 2 Rang Undang-Undang ini bertujuan untuk meminda perenggan (b)
+
+## Perkara 47 Perlembagaan Persekutuan untuk menurunkan umur seseorang
+
+warganegara yang layak untuk menjadi ahli Dewan Rakyat daripada dua puluh satu tahun kepada lapan belas tahun.
 
 4. Fasal 3 Rang Undang-Undang ini bertujuan untuk meminda Perkara 119 Perlembagaan Persekutuan. Subfasal 3(a) bertujuan untuk meminda perenggan (a) Fasal (1) Perkara 119 Perlembagaan Persekutuan untuk menurunkan umur seseorang warganegara yang layak untuk mengundi daripada dua puluh satu tahun kepada lapan belas tahun. Pindaan ini akan membenarkan lebih ramai warganegara Malaysia untuk mengundi.
 

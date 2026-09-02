@@ -40,9 +40,7 @@ Pi~daan am
 
 (1) Institut Teknologi MARA yang ditubuhkan di bawah
 
-### 5.
-
-seksyen 3 Akta ibu hendaklah, pada dan selepas tarikh permulaan kuat kuasa, dikenali sebagai "Universiti Teknologi MARA".
+5. seksyen 3 Akta ibu hendaklah, pada dan selepas tarikh permulaan kuat kuasa, dikenali sebagai "Universiti Teknologi MARA".
 
 (2) Segala sebutan mengenai Institut Teknologi MARA dalam mana-mana undang-undang bertulis atau dalam apa-apa surat cara, surat ikatan, hakmilik, dokumen, bon, perjanjian atau perkiraan kerja yang wujud sebaik sebelum tarikh permulaan kuat kuasa hendaklah, pada dan selepas tarikh permulaan kuat kuasa, ditafsirkan sebagai sebutan mengenai Universiti Teknologi MARA.
 
@@ -72,7 +70,9 @@ Teknologi MARA atau mana-mana orang yang bertindak bagi pihaknya hendaklah, pada
 
 (1) Segala wang yang terkandung dalam atau yang kena dibayar
 
-8. ke dalam Kumpulan Wang Institut Teknologi MARA yang ditubuhkan di bawah seksyen 24 Akta ibu hendaklah, pada tarikh permulaan kuat kuasa, dipindahkan ke dalam <:ian disifatkan menjadi sebahagian daripada Kumpulan Wang Universiti Teknologi MARA.
+### 8.
+
+ke dalam Kumpulan Wang Institut Teknologi MARA yang ditubuhkan di bawah seksyen 24 Akta ibu hendaklah, pada tarikh permulaan kuat kuasa, dipindahkan ke dalam <:ian disifatkan menjadi sebahagian daripada Kumpulan Wang Universiti Teknologi MARA.
 
 (2) Apa-apa harta lain kepunyaan Kumpulan Wang Institut Teknologi MARA sebaik sebelum tarikh permulaan kuat kuasa hendaklah menjadi, pada tarikh permulaan kuat kuasa, harta Kumpulan Wang Universiti Teknologi MARA.
 
@@ -96,11 +96,11 @@ Rang Undang- Undang
 
 (1) Semua kakitangan yang dilantik atau diambil kerja oleh
 
-### 11.
+11. Institut Teknologi MARA sebaik sebelum tarikh permulaan kuat kuasa hendaklah, pada tarikh permulaan kuat kuasa, disifatkan telah dilantik atau diambil kerja oleh Universiti Teknologi MARA atas terma dan syarat perkhidmatan yang tidak kurang baiknya daripada terma dan syarat perkhidmatan yang terpakai bagi mereka sebaik sebelum tarikh permulaan kuat kuasa.
 
-Institut Teknologi MARA sebaik sebelum tarikh permulaan kuat kuasa hendaklah, pada tarikh permulaan kuat kuasa, disifatkan telah dilantik atau diambil kerja oleh Universiti Teknologi MARA atas terma dan syarat perkhidmatan yang tidak kurang baiknya daripada terma dan syarat perkhidmatan yang terpakai bagi mereka sebaik sebelum tarikh permulaan kuat kuasa.
+(2) Jika perubahan dibuat pada dan selepas tarikh permulaan kuat kuasa berkenaan dengan syarat perkhidmatan kakitangan Universiti Teknologi MARA yang disifatkan di bawah subseksyen
 
-(2) Jika perubahan dibuat pada dan selepas tarikh permulaan kuat kuasa berkenaan dengan syarat perkhidmatan kakitangan Universiti Teknologi MARA yang disifatkan di bawah subseksyen (1) telah diambil kerja oleh Universiti, mereka hendaklah diberikan suatu pilihan sama ada terus tertakluk kepada syarat perkhidmatan yang sedia ada atau tertakluk kepada syarat perkhidmatan yang bam.
+(1) telah diambil kerja oleh Universiti, mereka hendaklah diberikan suatu pilihan sama ada terus tertakluk kepada syarat perkhidmatan yang sedia ada atau tertakluk kepada syarat perkhidmatan yang bam.
 
 (3) Semua ejen, penasihat teknik dan orang lain yang diambil kerja oleh Institut Teknologi MARA menurut seksyen 11 Akta ibu sebaik sebelum tarikh permulaan kuat kuasa hendaklah, pada tarikh permulaan kuat kuasa, disifatkan telah diambil kerja oleh Universiti Teknologi MARA.
 
@@ -336,9 +336,7 @@ Fasal ini juga bertujuan untuk meminda perenggan 4(1)(e) Akta 173 bagi membolehk
 
 21. Fasal21 bertujuan untuk meminda seksyen 16A Akta 173 untuk memasukkan subseksyen baru (5A) bagi membolehkan Timbalan Naib Canselor mempengerusikan apa-apa mesyuarat Senat semasa ketiadaan Naib Canselor.
 
-22. Fasal 22 bertujuan untuk memasukkan seksyen baru 16B ke dalam Akta
-
-173. Seksyen baru ini memperkatakan penubuhan persatuan alumni.
+22. Fasal 22 bertujuan untuk memasukkan seksyen baru 16B ke dalam Akta 173. Seksyen baru ini memperkatakan penubuhan persatuan alumni.
 
 23. Fasal 23 bertujuan untuk memasukkan dua seksyen baru ke dalam Akta 173, iaitu seksyen 19A dan 19B. Seksyen 19A memper,untukkan bahawa Canselor Universiti ialah Yang di-Pertuan Agong manakala seksyen 19B memperkatakan pelantikan Pro-Canselor.
 

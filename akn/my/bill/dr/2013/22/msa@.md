@@ -16,7 +16,33 @@
 
 ## PINDAAN KEPADA AKTA CUKAI PENDAPATAN 1967
 
-3. Permulaan kuat kuasa pindaan kepada Akta Cukai Pendapatan 1967 4. Pindaan seksyen 2 5. Seksyen baru 4C 6. Pindaan seksyen 6 7. Pindaan seksyen 18 8. Pindaan seksyen 21A 9. Pindaan seksyen 24 10. Pindaan seksyen 29 11. Pindaan seksyen 33 12. Pindaan seksyen 39 13. Pindaan seksyen 44 14. Pindaan seksyen 46 15. Pindaan seksyen 49 16. Pindaan seksyen 60AA 17. Pindaan seksyen 60F 18. Pindaan seksyen 60H 19. Pindaan seksyen 63B 20. Pindaan seksyen 75A 21. Pindaan seksyen 77A 22. Seksyen baru 77C
+3. Permulaan kuat kuasa pindaan kepada Akta Cukai Pendapatan 1967 4. Pindaan seksyen 2 5. Seksyen baru 4C 6. Pindaan seksyen 6 7. Pindaan seksyen 18 8. Pindaan seksyen 21A 9. Pindaan seksyen 24
+
+10. Pindaan seksyen 29
+
+11. Pindaan seksyen 33
+
+12. Pindaan seksyen 39
+
+13. Pindaan seksyen 44
+
+14. Pindaan seksyen 46
+
+15. Pindaan seksyen 49
+
+16. Pindaan seksyen 60AA
+
+17. Pindaan seksyen 60F
+
+18. Pindaan seksyen 60H
+
+19. Pindaan seksyen 63B
+
+20. Pindaan seksyen 75A
+
+21. Pindaan seksyen 77A
+
+22. Seksyen baru 77C
 
 <!-- page 2 -->
 
@@ -300,7 +326,9 @@ the relevant person is deemed to be able to obtain on demand the receipt of such
 
 (a) dengan memasukkan selepas subseksyen (1) subseksyen yang berikut:
 
-“(1A) For the purposes of this section, a company shall furnish to the Director General a return in the prescribed form on an electronic medium or by way of electronic transmission in accordance with section 152A.”; dan
+“(1A) For the purposes of this section, a company shall furnish to the Director General a return in the prescribed form on an electronic medium or by way of electronic transmission in accordance with section
+
+152A.”; dan
 
 (b) dengan memasukkan selepas subseksyen (3) subseksyen yang berikut:
 
@@ -740,7 +768,9 @@ Pindaan ini berkuat kuasa dari tahun taksiran 2014 dan tahun-tahun taksiran yang
 
 5. Fasal 8 bertujuan untuk meminda subseksyen 21A(3) Akta 53. Pindaan yang dicadangkan memperuntukkan bahawa berhubung dengan apa-apa perubahan tempoh perakaunan suatu syarikat, perkongsian liabiliti terhad, badan amanah atau koperasi dalam tempoh asas bagi satu tahun taksiran, Ketua Pengarah diberi kuasa untuk mengarahkan tempoh asas suatu syarikat, perkongsian liabiliti terhad, badan amanah atau koperasi.
 
-Fasal 8 selanjutnya bertujuan untuk meminda subseksyen 21A(4) Akta 53. Pindaan yang dicadangkan memperuntukkan bahawa jika suatu syarikat, perkongsian liabiliti terhad, badan amanah atau koperasi memulakan operasinya dalam tempoh asas bagi suatu tahun taksiran dan menyediakan akaun bagi tempoh kurang dari dua belas bulan berakhir pada hari sebaik selepas tahun taksiran yang berikutnya atau bagi suatu tempoh yang lebih dari dua belas bulan yang berakhir pada hari dalam tahun asas sebaik selepas tahun asas yang kedua, tempoh itu masing-masing hendaklah menjadi tempoh asas bagi tahun taksiran itu.
+Fasal 8 selanjutnya bertujuan untuk meminda subseksyen 21A(4) Akta
+
+53. Pindaan yang dicadangkan memperuntukkan bahawa jika suatu syarikat, perkongsian liabiliti terhad, badan amanah atau koperasi memulakan operasinya dalam tempoh asas bagi suatu tahun taksiran dan menyediakan akaun bagi tempoh kurang dari dua belas bulan berakhir pada hari sebaik selepas tahun taksiran yang berikutnya atau bagi suatu tempoh yang lebih dari dua belas bulan yang berakhir pada hari dalam tahun asas sebaik selepas tahun asas yang kedua, tempoh itu masing-masing hendaklah menjadi tempoh asas bagi tahun taksiran itu.
 
 Pindaan ini berkuat kuasa dari tahun taksiran 2014 dan tahun-tahun taksiran berikutnya.
 
@@ -748,7 +778,9 @@ Pindaan ini berkuat kuasa dari tahun taksiran 2014 dan tahun-tahun taksiran beri
 
 Pindaan ini berkuat kuasa dari tahun taksiran 2014 dan tahun-tahun taksiran berikutnya.
 
-7. Fasal 10 bertujuan untuk memasukkan subseksyen baru 29(3) ke dalam Akta 53. Dengan pindaan ini, seseorang itu disifatkan berupaya untuk mendapatkan atas permintaan penerimaan faedah daripada transaksi pinjaman yang melibatkan orang yang salah seorang mempunyai kawalan ke atas yang lain atau antara orang yang keduanya dikawal oleh orang yang sama, dalam tempoh asas bagi suatu tahun taksiran jika faedah itu kena dibayar oleh orang itu dalam tahun asas bagi tahun taksiran itu.
+7. Fasal 10 bertujuan untuk memasukkan subseksyen baru 29(3) ke dalam Akta
+
+53. Dengan pindaan ini, seseorang itu disifatkan berupaya untuk mendapatkan atas permintaan penerimaan faedah daripada transaksi pinjaman yang melibatkan orang yang salah seorang mempunyai kawalan ke atas yang lain atau antara orang yang keduanya dikawal oleh orang yang sama, dalam tempoh asas bagi suatu tahun taksiran jika faedah itu kena dibayar oleh orang itu dalam tahun asas bagi tahun taksiran itu.
 
 Pindaan ini berkuat kuasa dari tahun taksiran 2014 dan tahun-tahun taksiran berikutnya.
 
@@ -790,7 +822,9 @@ Fasal 21 selanjutya bertujuan untuk memasukkan subseksyen baru 77A(4) ke dalam A
 
 Pindaan ini berkuat kuasa dari tahun taksiran 2014 dan tahun-tahun taksiran berikutnya.
 
-15. Fasal 22 bertujuan untuk memasukkan seksyen baru 77C ke dalam Akta 53. Dengan pindaan baru ini, seorang individu yang memenuhi syarat-syarat yang dinyatakan dalam seksyen itu yang antara lain termasuklah individu itu hanya mempunyai pendapatan penggajian selain laba atau keuntungan berhubung dengan penggunaan atau penikmatan faedah yang disediakan oleh majikannya dalam tahun asas bagi suatu tahun taksiran dan pendapatan penggajiannya dipotong mengikut subseksyen 107(2) Akta 53 tidaklah dikehendaki untuk mengemukakan suatu penyata di bawah seksyen 77 Akta 53.
+15. Fasal 22 bertujuan untuk memasukkan seksyen baru 77C ke dalam Akta
+
+53. Dengan pindaan baru ini, seorang individu yang memenuhi syarat-syarat yang dinyatakan dalam seksyen itu yang antara lain termasuklah individu itu hanya mempunyai pendapatan penggajian selain laba atau keuntungan berhubung dengan penggunaan atau penikmatan faedah yang disediakan oleh majikannya dalam tahun asas bagi suatu tahun taksiran dan pendapatan penggajiannya dipotong mengikut subseksyen 107(2) Akta 53 tidaklah dikehendaki untuk mengemukakan suatu penyata di bawah seksyen 77 Akta 53.
 
 Pindaan ini berkuat kuasa dari tahun taksiran 2014 dan tahun-tahun taksiran berikutnya.
 

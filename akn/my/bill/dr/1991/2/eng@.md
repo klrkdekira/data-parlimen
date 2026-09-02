@@ -14,7 +14,27 @@
 
 ## THE BOARD AND THE INVESTMENT PANEL
 
-3. Establishment of the Board. 4. Membership of the Board. 5. Alternate members. 6. Tenure of office. 7. Resignation and revocation. 8. Vacation of office. 9. Chairman and six other members to form quorum of the Board. 10. Chairman to have casting vote. 11. Power of Minister to give directions. 12. Duty to furnish the Minister with information. 13. Authentication of seal. 14. Powers and duties of the Board. 15. General reserve and other reserve accounts. 16. Board may establish any committee. 17. Power to grant loans and make advances to its officers and servants. 18. Establishment and membership of the Investment Panel. 19. Vacation of office. 20. Quorum and conduct of proceedings. 21. The Chairman of the Investment Panel to have casting vote. 22. Disqualification from membership of the Board and the Investment Panel. 23. Disclosure of interest.
+3. Establishment of the Board. 4. Membership of the Board. 5. Alternate members. 6. Tenure of office. 7. Resignation and revocation. 8. Vacation of office. 9. Chairman and six other members to form quorum of the Board. 10. Chairman to have casting vote. 11. Power of Minister to give directions. 12. Duty to furnish the Minister with information. 13. Authentication of seal.
+
+14. Powers and duties of the Board.
+
+15. General reserve and other reserve accounts.
+
+16. Board may establish any committee.
+
+17. Power to grant loans and make advances to its officers and servants.
+
+18. Establishment and membership of the Investment Panel.
+
+19. Vacation of office.
+
+20. Quorum and conduct of proceedings.
+
+21. The Chairman of the Investment Panel to have casting vote.
+
+22. Disqualification from membership of the Board and the Investment Panel.
+
+23. Disclosure of interest.
 
 <!-- page 2 -->
 
@@ -22,7 +42,17 @@
 
 ## THE FUND
 
-24. Establishment of Employees Provident Fund. 25. Board shall be trustee of the Fund. 26. Investment of the Fund. 27. Declaration of dividend. 28. Provision for advancement from the Federal Consolidated Fund. 29. Audit of the Fund's annual accounts.
+24. Establishment of Employees Provident Fund.
+
+25. Board shall be trustee of the Fund.
+
+26. Investment of the Fund.
+
+27. Declaration of dividend.
+
+28. Provision for advancement from the Federal Consolidated Fund.
+
+29. Audit of the Fund's annual accounts.
 
 ## PART IV
 
@@ -30,7 +60,25 @@
 
 ## THEIR POWERS. FUNCTIONS AND DUTIES
 
-30. Appointment of General Manager, Deputy General Managers, Assistant General Managers and other officers and servants of the Board. 31. Establishment of a Disciplinary Committee in respect of Deputy General Managers, Assistant General Managers, and other officers and servants of the Board. 32. Imposition of surcharge. 33. Establishment of a Promotion Committee in respect of officers and servants of the Board. 34. Appointment of Inspectors, their powers, functions and duties. 35. Powers of entry, examination and search. 36. Obstruction to exercise of powers by an Inspector. 37. Power to examine persons. 38. Powers of General Manager to ask for information and applicadon for search warrant. 39. The General Manager may issue certificate to Inspector General of Police or the Director General of Immigration to prevent any person Ieaving Malaysia in certain circumstances.
+30. Appointment of General Manager, Deputy General Managers, Assistant General Managers and other officers and servants of the Board.
+
+31. Establishment of a Disciplinary Committee in respect of Deputy General Managers, Assistant General Managers, and other officers and servants of the Board.
+
+32. Imposition of surcharge.
+
+33. Establishment of a Promotion Committee in respect of officers and servants of the Board.
+
+34. Appointment of Inspectors, their powers, functions and duties.
+
+35. Powers of entry, examination and search.
+
+36. Obstruction to exercise of powers by an Inspector.
+
+37. Power to examine persons.
+
+38. Powers of General Manager to ask for information and applicadon for search warrant.
+
+39. The General Manager may issue certificate to Inspector General of Police or the Director General of Immigration to prevent any person Ieaving Malaysia in certain circumstances.
 
 <!-- page 3 -->
 
@@ -38,13 +86,41 @@
 
 ## CONTRIBUTIONS TO THE EMPLOYEES PROVIDENT FUND
 
-40. Duty of corporation to notify the Board of its incorporation or registration. 41. Duty of employer to register with the Board. 42. Duty of employer to prepare and furnish statement of wages. 43. Rate of contributions. 44. Transfer of retirement benefit. 45. Payment of contributions. 46. Joint and several liability of directors, etc. 47. Employer's contribution irrecoverable from employee. 48. Recovery by employer of employee's contribution. 49. Interest on contributions in arrears. 50. Contributions to be paid into the Fund. 51. Contributions and deposits not to be assigned or attached. 52. Approved funds. 53. Winding up of approved fund.
+40. Duty of corporation to notify the Board of its incorporation or registration.
+
+41. Duty of employer to register with the Board.
+
+42. Duty of employer to prepare and furnish statement of wages.
+
+43. Rate of contributions.
+
+44. Transfer of retirement benefit.
+
+45. Payment of contributions.
+
+46. Joint and several liability of directors, etc.
+
+47. Employer's contribution irrecoverable from employee.
+
+48. Recovery by employer of employee's contribution.
+
+49. Interest on contributions in arrears.
+
+50. Contributions to be paid into the Fund.
+
+51. Contributions and deposits not to be assigned or attached.
+
+52. Approved funds.
+
+53. Winding up of approved fund.
 
 ## PART VI
 
 ## WITHDRAWAL OF CONTRIBUTIONS
 
-54. Authority for withdrawals from the Fund. 55. Periodical payments in lieu of lump sum payment. 56. Release of employer's contributions. 57. Payment for withdrawal. 58. Payment of additional amount.
+54. Authority for withdrawals from the Fund.
+
+55. Periodical payments in lieu of lump sum payment. 56. Release of employer's contributions. 57. Payment for withdrawal. 58. Payment of additional amount.
 
 ## PART VII
 
@@ -58,19 +134,57 @@
 
 ## BILL
 
-65. Civil proceedings to recover contributions. 66. Protection of contributions in execution proceeding or sale under security. 67. Conduct of civil proceedings. 68. Power of officer of the Board to prosecute offences under Act. 69. Offences by body corporate. 70. Members of the Board, Investment Panel and officers deemed as public servants.
+65. Civil proceedings to recover contributions.
+
+66. Protection of contributions in execution proceeding or sale under security.
+
+67. Conduct of civil proceedings.
+
+68. Power of officer of the Board to prosecute offences under Act.
+
+69. Offences by body corporate.
+
+70. Members of the Board, Investment Panel and officers deemed as public servants.
 
 ## PART VIII
 
 ## POWER TO MAKE REGULATIONS AND RULES
 
-71. Powers of Minister to make regulations. 72. Powers of Minister to require other person to contribute and declare any payment or remuneration as wages. 73. Powers of the Board to make rules. 74. Powers of Minister to amend the Schedules.
+71. Powers of Minister to make regulations.
+
+72. Powers of Minister to require other person to contribute and declare any payment or remuneration as wages.
+
+73. Powers of the Board to make rules.
+
+74. Powers of Minister to amend the Schedules.
 
 ## PART IX
 
 ## REPEAL AND TRANSITIONAL PROVISIONS
 
-75. Repeal of the Employees Provident Fund Act 1951. 76. Continuance of laws, etc. 77. Transfer of powers, rights, liabilities and duties. 78. Transfer of property. 79. Existing contracts. 80. Continuance of criminal and civil proceedings. 81. Transfer of Fund. 82. Continuance of officers and servants. 83. Pending disciplinary proceedings. 84. Transfer of member of the Fund. 85. Transfer of registration of employers. 86. Prevention of anomalies.
+75. Repeal of the Employees Provident Fund Act 1951.
+
+76. Continuance of laws, etc.
+
+77. Transfer of powers, rights, liabilities and duties.
+
+78. Transfer of property.
+
+79. Existing contracts.
+
+80. Continuance of criminal and civil proceedings.
+
+81. Transfer of Fund.
+
+82. Continuance of officers and servants.
+
+83. Pending disciplinary proceedings.
+
+84. Transfer of member of the Fund.
+
+85. Transfer of registration of employers.
+
+86. Prevention of anomalies.
 
 ## SCHEDULES.
 
@@ -138,21 +252,7 @@ a group of employers and declared by the Board under section 52 to be an approve
 
 (i) any scheme in respect of persons who are in the employment of the Government of Malaysia, any State Government or any statutory or local authority and are emplaced on the pensionable establish- ment;
 
-(ii) any arrangement in respect of persons in the employment of any organisation where the appointment
-
-<!-- marginal: to -->
-
-<!-- marginal: such -->
-
-organisation is made by or with the approval of the Government of Malaysia of a person who prior to such appointment was in the employment of
-
-<!-- marginal: the -->
-
-Government of Malaysia, any State Government or any statutory or local authority and where the period of service with such organisation is reckonable for the purposes of the grant of any pension, gratuity or other benefit by
-
-<!-- marginal: the -->
-
-Government of Malaysia under any written law relating to pensions,
+(ii) any arrangement in respect of persons in the employment of any organisation where the appointment to such organisation is made by or with the approval of the Government of Malaysia of a person who prior to such appointment was in the employment of the Government of Malaysia, any State Government or any statutory or local authority and where the period of service with such organisation is reckonable for the purposes of the grant of any pension, gratuity or other benefit by the Government of Malaysia under any written law relating to pensions,
 
 and if any doubt arises as to whether any person is in such employment or not, the decision of the Minister shall be final; or
 
@@ -222,13 +322,25 @@ II
 
 ## THE BOARD AND THE INYESTMENT PANEL
 
-Establish-
+<!-- marginal: Establish- -->
 
-3. For the purposes of managing the Fund and for ment of carrying into effect the purposes of this Act, there is the Board hereby established a body corporate by the name of "Employees Provident Fund Board" with perpetual succession and a common seal, and which may sue and be sued in its corporate name and, subject to and for the purposes of this Act, may enter into contracts and may acquire, purchase, take, hold and enjoy movable and immovable property of every description and may convey, assign, surrender, yield up, charge, mortgage, demise, reassign, transfer or otherwise dispose of, or deal with any movable or immovable property or any interest therein vested in the Board upon such terms as it deems fit.
+3. For the purposes of managing the Fund and for
 
-Member-
+<!-- marginal: ment of -->
 
-4. (1) The Board shall consist of— ship of the Board.
+carrying into effect the purposes of this Act, there is
+
+<!-- marginal: the Board -->
+
+hereby established a body corporate by the name of "Employees Provident Fund Board" with perpetual succession and a common seal, and which may sue and be sued in its corporate name and, subject to and for the purposes of this Act, may enter into contracts and may acquire, purchase, take, hold and enjoy movable and immovable property of every description and may convey, assign, surrender, yield up, charge, mortgage, demise, reassign, transfer or otherwise dispose of, or deal with any movable or immovable property or any interest therein vested in the Board upon such terms as it deems fit.
+
+<!-- marginal: Member- -->
+
+4. (1) The Board shall consist of—
+
+<!-- marginal: ship of -->
+
+<!-- marginal: the Board. -->
 
 (a) a Chairman;
 
@@ -282,27 +394,57 @@ members appointed under section 4(l)(d)(i) appoint by name a person to be an alt
 
 (3) An alternate member shall cease to be an alternate member when the member in respect of whom he is an alternate member ceases to be a member of the Board.
 
-Tenure of
+<!-- marginal: Tenure of -->
 
-6. Subject to sections 7(2), 8, and 22 a member of the office. Board, other than the General Manager, shall hold office for a term not exceeding three years and shall be eligible for reappointment.
+6. Subject to sections 7(2), 8, and 22 a member of the
 
-Resignation
+<!-- marginal: office. -->
 
-7. (1) A member of the Board, including the Deputy and Chairman, may at any time resign his office by a written revocation. notice addressed to the Chairman, and in the case of the Chairman by a written notice addressed to the Minister.
+Board, other than the General Manager, shall hold office for a term not exceeding three years and shall be eligible for reappointment.
+
+<!-- marginal: Resignation -->
+
+7. (1) A member of the Board, including the Deputy
+
+<!-- marginal: and -->
+
+Chairman, may at any time resign his office by a written
+
+<!-- marginal: revocation. -->
+
+notice addressed to the Chairman, and in the case of the Chairman by a written notice addressed to the Minister.
 
 (2) The Minister may at any time revoke the appointment of a member of the Board if he thinks it is expedient so to do without assigning any reason therefor.
 
-Vacation
+<!-- marginal: Vacation -->
 
-8. A member of the Board shall be deemed to have of office. vacated his office—
+8. A member of the Board shall be deemed to have
+
+<!-- marginal: of office. -->
+
+vacated his office—
 
 (a) upon his death; or
 
 (b) upon his failure to attend three consecutive meetings of the Board without the permission of the Chairman.
 
-Chairman
+<!-- marginal: Chairman -->
 
-9. (1) The Chairman or the Deputy Chairman and six and six other other members shall form a quorum at all meetings of the members to form quorum Board. of the Board. (2) In the absence of the Chairman, the Deputy Chairman shall preside at all meetings of the Board and, may exercise all the powers of the Chairman in respect of that meeting.
+9. (1) The Chairman or the Deputy Chairman and six
+
+<!-- marginal: and six other -->
+
+other members shall form a quorum at all meetings of the
+
+<!-- marginal: members to -->
+
+<!-- marginal: form quorum -->
+
+Board.
+
+<!-- marginal: of the Board. -->
+
+(2) In the absence of the Chairman, the Deputy Chairman shall preside at all meetings of the Board and, may exercise all the powers of the Chairman in respect of that meeting.
 
 <!-- page 13 -->
 
@@ -384,19 +526,65 @@ such powers and duties of the Board and the person so appointed may, subject to 
 
 (3) The Board may employ and pay agents, advocates and solicitors, bankers, stockbrokers or any other persons, to transact any business or do any act required to be transacted or done in the exercise of its powers or in the carrying out of its duties or for the better carrying into effect of the purposes of this Act.
 
-General
+<!-- marginal: General -->
 
-15. (1) The Board may establish and manage a general reserve and reserve and other reserve accounts, other reserve accounts. (2) The payment into and out of the reserve accounts shall be determined by the Board.
+15. (1) The Board may establish and manage a general
 
-Board may
+<!-- marginal: reserve and -->
 
-16. Notwithstanding any other provisions of this Act, establish any the Board may appoint any person or establish any committee. committee in respect of any matter relating to the management and administration of the Fund.
+reserve and other reserve accounts,
 
-Power to
+<!-- marginal: other reserve -->
 
-17. The Board may grant loans and make advances to its grant loans officers and servants on such terms and conditions as the and make advances to Board may determine. its officers and servants. Establishment
+<!-- marginal: accounts. -->
 
-18. (1) There shall be established an Investment Panel and member- responsible for matters pertaining to the investments of ship of the Investment the Fund which shall consists of the following members: Panel.
+(2) The payment into and out of the reserve accounts shall be determined by the Board.
+
+<!-- marginal: Board may -->
+
+16. Notwithstanding any other provisions of this Act,
+
+<!-- marginal: establish any -->
+
+the Board may appoint any person or establish any
+
+<!-- marginal: committee. -->
+
+committee in respect of any matter relating to the management and administration of the Fund.
+
+<!-- marginal: Power to -->
+
+17. The Board may grant loans and make advances to its
+
+<!-- marginal: grant loans -->
+
+officers and servants on such terms and conditions as the
+
+<!-- marginal: and make -->
+
+<!-- marginal: advances to -->
+
+Board may determine.
+
+<!-- marginal: its officers -->
+
+<!-- marginal: and servants. -->
+
+<!-- marginal: Establishment -->
+
+18. (1) There shall be established an Investment Panel
+
+<!-- marginal: and member- -->
+
+responsible for matters pertaining to the investments of
+
+<!-- marginal: ship of the -->
+
+<!-- marginal: Investment -->
+
+the Fund which shall consists of the following members:
+
+<!-- marginal: Panel. -->
 
 (a) the Chairman, or any other person to be appointed by the Minister, who shall be the Chairman of the Investment Panel;
 
@@ -464,9 +652,27 @@ vote.
 
 <!-- page 16 -->
 
-Disqualifi-
+<!-- marginal: Disqualifi- -->
 
-22. The following persons shall be disqualified from cation from being appointed as a member of the Board or the membership of the Board Investment Panel or if he is a member of the Board or and the Investment Panel he shall cease to be such a member: Investment Panel
+22. The following persons shall be disqualified from
+
+<!-- marginal: cation from -->
+
+being appointed as a member of the Board or the
+
+<!-- marginal: membership -->
+
+<!-- marginal: of the Board -->
+
+Investment Panel or if he is a member of the Board or
+
+<!-- marginal: and the -->
+
+Investment Panel he shall cease to be such a member:
+
+<!-- marginal: Investment -->
+
+<!-- marginal: Panel -->
 
 (a) a person who is of unsound mind or is otherwise incapable of performing his duties;
 
@@ -476,9 +682,13 @@ Disqualifi-
 
 (d) a bankrupt.
 
-Disclosure
+<!-- marginal: Disclosure -->
 
-23. (1) Every member of the Board or the Investment of interest. Panel, having directly or indirectly by himself, his spouse or children, any interest in any matter under discussion by the Board, the Investment Panel or any committee of which he is a member, shall disclose to the Board, the Investment Panel or committee, as the case may be, the fact of his interest and the nature thereof as soon as practicable after the relevant fact has come to his knowledge.
+23. (1) Every member of the Board or the Investment
+
+<!-- marginal: of interest. -->
+
+Panel, having directly or indirectly by himself, his spouse or children, any interest in any matter under discussion by the Board, the Investment Panel or any committee of which he is a member, shall disclose to the Board, the Investment Panel or committee, as the case may be, the fact of his interest and the nature thereof as soon as practicable after the relevant fact has come to his knowledge.
 
 (2) Any member of the Board, the Investment Panel or committee who fails to disclose his interest as provided under subsection (1) shall be guilty of an offence and shall, on conviction, be
 
@@ -540,11 +750,7 @@ Fund", into which shall be paid—
 
 <!-- page 18 -->
 
-remuneration of officers and servants appointed and employed by the Board
-
-<!-- marginal: including -->
-
-superannuation allowances, pensions or gratuity;
+remuneration of officers and servants appointed and employed by the Board including superannuation allowances, pensions or gratuity;
 
 (e) paying any other expenses, costs or expenditure properly incurred or accepted by the Board in the execution of its powers and the carrying out of its duties under section 14;
 
@@ -552,27 +758,45 @@ superannuation allowances, pensions or gratuity;
 
 (g) generally paying any expenses for carrying into effect the provisions of this Act and in connection with the administration of the Fund.
 
-Board shall
+<!-- marginal: Board shall -->
 
-25. The Board shall be the trustee of the Fund. be trustee of The Fund. Investment
+25. The Board shall be the trustee of the Fund.
 
-26. Subject to section 18(2), the moneys belonging to of the Fund. the Fund shall be invested in the following manner:
+<!-- marginal: be trustee of -->
+
+<!-- marginal: The Fund. -->
+
+<!-- marginal: Investment -->
+
+26. Subject to section 18(2), the moneys belonging to
+
+<!-- marginal: of the Fund. -->
+
+the Fund shall be invested in the following manner:
 
 (a) be deposited in—
 
 (i) Bank Negara Malaysia;
 
-(ii) banks duly licensed under the Banking Act 372. and Financial Institutions Act 1989; or
+(ii) banks duly licensed under the Banking
 
-(iii) any other financial
+<!-- marginal: Act 372. -->
 
-<!-- marginal: institution duly -->
+and Financial Institutions Act 1989; or
 
-licensed under the Banking and Financial Institutions Act 1989 and approved by the Minister;
+(iii) any other financial institution duly licensed under the Banking and Financial Institutions Act 1989 and approved by the Minister;
 
-(b) be invested in bonds, mortgage papers, commercial notes, banker's acceptances, money market papers, certificates of deposits and promissory notes and bills of exchange within the meaning of the Bills of Exchange Act 204 Act 1949;
+(b) be invested in bonds, mortgage papers, commercial notes, banker's acceptances, money market papers, certificates of deposits and promissory notes and bills of exchange within the meaning of the Bills of Exchange
 
-(c) be invested in accordance with the provisions Act 208. of the Trustee Act 1949:
+<!-- marginal: Act 204 -->
+
+Act 1949;
+
+(c) be invested in accordance with the provisions
+
+<!-- marginal: Act 208. -->
+
+of the Trustee Act 1949:
 
 Provided however, where the Board invests in or upon titles to immovable property in
 
@@ -608,7 +832,11 @@ Provided also that in the case of loans to an approved company or the buying of 
 
 (iii) in the case of an approved company having as its sole or primary object the promotion of home ownership and, the total amount of the borrowings of the approved company from all sources, excluding the amount of any special housing loan, whether trustee or not, accepted by the approved company on loan and deposit, and including interest due thereon and not repaid by the approved company, does not at any time exceed three-fourths of the amount, excluding prospective interest, for the time being secured to the approved company from its borrowers;
 
-(b) a certificate that the provisions of paragraph (a) of this proviso were complied with in respect of the last financial year of the approved company, if incorporated in the auditor's report annexed to the approved company's annual accounts required to be prepared under the Act 125. Companies Act 1965, to which the approved company is subject, shall be conclusive in favour of the Board making such investment; and
+(b) a certificate that the provisions of paragraph (a) of this proviso were complied with in respect of the last financial year of the approved company, if incorporated in the auditor's report annexed to the approved company's annual accounts required to be prepared under the
+
+<!-- marginal: Act 125. -->
+
+Companies Act 1965, to which the approved company is subject, shall be conclusive in favour of the Board making such investment; and
 
 <!-- page 21 -->
 
@@ -824,9 +1052,27 @@ Provided that the Board may, if it considers necessary, require any member of th
 
 <!-- page 28 -->
 
-Appoint-
+<!-- marginal: Appoint- -->
 
-34. (1) The Board may appoint such number of ment of Inspectors as it may consider necessary for the purposes Inspectors, their powers, of this Act and such appointment shall be published in functions the Gazette. and duties. (2) Subject to subsection (3), an Inspector appointed under subsection (1) shall have all the powers, functions and duties conferred under this Act.
+34. (1) The Board may appoint such number of
+
+<!-- marginal: ment of -->
+
+Inspectors as it may consider necessary for the purposes
+
+<!-- marginal: Inspectors, -->
+
+<!-- marginal: their powers, -->
+
+of this Act and such appointment shall be published in
+
+<!-- marginal: functions -->
+
+the Gazette.
+
+<!-- marginal: and duties. -->
+
+(2) Subject to subsection (3), an Inspector appointed under subsection (1) shall have all the powers, functions and duties conferred under this Act.
 
 (3) An Inspector shall be subject to the direction and control of the General Manager, or of such other officer or servant of the Board as may be authorized by the General Manager to act on behalf of him, and of any other Inspectors superior to him in rank, and shall exercise his powers, perform his functions, and discharge his duties referred to in subsection (2) in compliance with such directions, instructions, conditions, restrictions or limitations as the General Manager, or an officer or servant of the Board authorized to act on behalf of him, or an Inspector superior in rank, may specify orally or in writing, either generally, or in any particular case or circumstances.
 
@@ -834,9 +1080,19 @@ Appoint-
 
 (5) The Board may, by notification in the Gazette, vest in such other officers of the Board with all or any of the powers, functions and duties of an Inspector.
 
-Powers of
+<!-- marginal: Powers of -->
 
-35. Subject to any regulations made under section 71, an entry, Inspector or an officer vested with the powers of an examination and search. Inspector may at any reasonable time within the local limit of his jurisdiction if any for which he is appointed—
+35. Subject to any regulations made under section 71, an
+
+<!-- marginal: entry, -->
+
+Inspector or an officer vested with the powers of an
+
+<!-- marginal: examination -->
+
+<!-- marginal: and search. -->
+
+Inspector may at any reasonable time within the local limit of his jurisdiction if any for which he is appointed—
 
 (a) enter any premises or place where persons are believed to be engaged as employees;
 
@@ -880,15 +1136,17 @@ under section 35, access to any premises or part thereof;
 
 <!-- page 30 -->
 
-Power to
+<!-- marginal: Power to -->
 
-37. (1) The Inspector or an officer vested with the examine powers of an Inspector, making any investigations under persons. section 35 may examine orally any person whom he believes to be acquainted with
+37. (1) The Inspector or an officer vested with the
 
-<!-- marginal: the -->
+<!-- marginal: examine -->
 
-<!-- marginal: facts and -->
+powers of an Inspector, making any investigations under
 
-circumstances of the case and shall reduce into writing any statement made by the person so examined.
+<!-- marginal: persons. -->
+
+section 35 may examine orally any person whom he believes to be acquainted with the facts and circumstances of the case and shall reduce into writing any statement made by the person so examined.
 
 (2) The person so examined shall be legally bound to answer all questions relating to such case put to him by the examining officer:
 
@@ -896,7 +1154,9 @@ Provided that such person may refuse to answer any question the answer to which 
 
 (3) A person making a statement under this section shall be legally bound to state the truth, whether or not such statement is made wholly or partly in answer to questions.
 
-(4) An officer examining a person under subsection (1) shall first inform that person of the provisions of subsections (2) and (3).
+(4) An officer examining a person under subsection
+
+(1) shall first inform that person of the provisions of subsections (2) and (3).
 
 (5) A statement made by any person under this section shall, whenever possible, be taken down in writing in the prescribed form and signed by the person making it or affixed with his thumb print, as the case may be, after it has been read to him in the language in which he made it and after he has been given an opportunity to make any corrections he may wish.
 
@@ -954,9 +1214,59 @@ package or other receptacle, whether a fixture or not, in the premises; and
 
 (b) to take possession of, or secure against interference, any book, account, record or other document that appear to be book, account, record or other document the production of which was so required.
 
-The General
+<!-- marginal: The General -->
 
-39. (1) (a) The General Manager may, where he is of Manager the opinion that any person is about or may issue certificate to likely to leave Malaysia without paying Inspector any moneys due to the Fund in respect of General of Police or the which an order of the Court has been Director obtained, issue to the Inspector General of General of Immigration Police or the Director General of to prevent Immigration a certificate containing the any person leaving amounts payable to the Fund with request Malaysia for that person to be prevented from in certain circumstances. leaving Malaysia unless and until he pays all the amounts payable to tbe Fund or furnishes security to the satisfaction of the General Manager for their payment.
+39. (1) (a) The General Manager may, where he is of
+
+<!-- marginal: Manager -->
+
+the opinion that any person is about or
+
+<!-- marginal: may issue -->
+
+<!-- marginal: certificate to -->
+
+likely to leave Malaysia without paying
+
+<!-- marginal: Inspector -->
+
+any moneys due to the Fund in respect of
+
+<!-- marginal: General of -->
+
+<!-- marginal: Police or the -->
+
+which an order of the Court has been
+
+<!-- marginal: Director -->
+
+obtained, issue to the Inspector General of
+
+<!-- marginal: General of -->
+
+<!-- marginal: Immigration -->
+
+Police or the Director General of
+
+<!-- marginal: to prevent -->
+
+Immigration a certificate containing the
+
+<!-- marginal: any person -->
+
+<!-- marginal: leaving -->
+
+amounts payable to the Fund with request
+
+<!-- marginal: Malaysia -->
+
+for that person to be prevented from
+
+<!-- marginal: in certain -->
+
+<!-- marginal: circumstances. -->
+
+leaving Malaysia unless and until he pays all the amounts payable to tbe Fund or furnishes security to the satisfaction of the General Manager for their payment.
 
 (b) Subject to any order issued or made under any written law relating to banishment or immigration the Inspector General of Police or the Director General of Immigration upon receiving a request under paragraph (a) in respect of any person shall take or cause to be taken all such measures (including the use of reasonable force and the seizure, removal or retention of any certificate of identity and any passport, exit permit or other travel document relating to that person) as may be necessary to give effect to it,
 
@@ -1008,9 +1318,23 @@ incorporation or registration, in the manner as may be prescribed by the Board.
 
 (2) Any corporation who contravenes the provisions of subsection (1) shall be guilty of an offence.
 
-Duty of
+<!-- marginal: Duty of -->
 
-41. (1) Every employer shall, unless he is already employer registered with the Board, before the end of the first to register with the week in the first month in which he is paying wages in Board. respect of which he is required to pay contributions under this Act, register with the Board in the manner as may be prescribed by the Board,
+41. (1) Every employer shall, unless he is already
+
+<!-- marginal: employer -->
+
+registered with the Board, before the end of the first
+
+<!-- marginal: to register -->
+
+<!-- marginal: with the -->
+
+week in the first month in which he is paying wages in
+
+<!-- marginal: Board. -->
+
+respect of which he is required to pay contributions under this Act, register with the Board in the manner as may be prescribed by the Board,
 
 (2) Any employer who contravenes the provisions of subsection (1) shall be guilty of an offence and shall, on conviction, be liable to imprisonment for a term not exceeding three years or to a fine not exceeding ten thousand ringgit or to both.
 
@@ -1018,21 +1342,47 @@ Duty of
 
 (4) Any person who contravenes the provisions of subsection (3) shall be guilty of an offence.
 
-Duty of
+<!-- marginal: Duty of -->
 
-42. (1) Every employer shall prepare and furnish employer statement of wages to each and every employee and the to prepare and furnish statement of wages shall contain such information as Statement may be prescribed by the rules. of wages.
+42. (1) Every employer shall prepare and furnish
+
+<!-- marginal: employer -->
+
+statement of wages to each and every employee and the
+
+<!-- marginal: to prepare -->
+
+<!-- marginal: and furnish -->
+
+statement of wages shall contain such information as
+
+<!-- marginal: Statement -->
+
+may be prescribed by the rules.
+
+<!-- marginal: of wages. -->
 
 (2) Every employer shall prepare and keep one or more registers containing such information as may be prescribed by the rules and such register shall be kept for such period that every particular recorded therein shall be available for inspection for not less than six years after the recording thereof.
 
-Rate ot
+<!-- marginal: Rate ot -->
 
-43. (1) Subject to the provisions of section 52, every contribu- employee and every employer of a person who is an tions. employee within the meaning of this Act shall be liable to pay monthly contributions at the rate respectively set out in the Third Schedule.
+43. (1) Subject to the provisions of section 52, every
+
+<!-- marginal: contribu- -->
+
+employee and every employer of a person who is an
+
+<!-- marginal: tions. -->
+
+employee within the meaning of this Act shall be liable to pay monthly contributions at the rate respectively set out in the Third Schedule.
 
 <!-- page 35 -->
 
 (2) Any person being an employer who fails, within such period as may be prescribed by the Board, to pay to the Fund any contributions which he is liable under this Act to pay in respect of or on behalf of any employee in respect of any month shall be guilty of an offence and shall, on conviction, be liable to imprisonment for a term not exceeding three years or to a fine not exceeding ten thousand ringgit or to both.
 
-(3) Without prejudice to the provisions of subsection (1), an employer and an employee or either of them may, at any time elect to pay monthly contributions at a rate which exceeds the rate respectively set out in the Third Schedule by one ringgit or a multiple of one ringgit.
+(3) Without prejudice to the provisions of subsection
+
+(1), an employer and an employee or either of them may, at any time elect to pay monthly contributions at a rate which exceeds the rate respectively set out in the Third Schedule by one ringgit or a multiple of one ringgit.
 
 (4) Notice of such election shall be given to the Board in such manner and form as may be prescribed by the Board and where any such notice has been given, this Act shall, in respect of any employer or employee who has elected as aforesaid, apply as if the rate of contribution which such employer or employee has elected to pay, were the rate respectively set out in the
 
@@ -1098,19 +1448,57 @@ Provided that where the rate of dividend for a particular year has not been decl
 
 <!-- page 38 -->
 
-Joint and
+<!-- marginal: Joint and -->
 
-46. Where any sum of money by way of contributions several together with any dividend due thereon remaining unpaid liability of directors, by a company, a firm or an association of persons, then, etc. notwithstanding anything to the contrary in this Act or any other written law, the directors of such company includtng any persons who were directors of such company during such period in which contributions were liable to be paid, or the partners of such firm, including any persons who were partners of such firm during such period in which contributions were liable to be paid, or the office-bearers of such association of persons, including any persons who were office-bearers of such association during such period in which contributions were liable to be paid, as the case may be, shall together with the company, firm or association of persons liable to pay the said contributions, be jointly and severally liable for the contributions due and payable to the Fund.
+46. Where any sum of money by way of contributions
 
-Employer's
+<!-- marginal: several -->
 
-47. (1) Notwithstanding any contract to the contrary, contribution the employer shall not be entitled to deduct from the irrecover- able from wages or remuneration of, or otherwise to recover from, employee. the employee the employer's contribution.
+together with any dividend due thereon remaining unpaid
+
+<!-- marginal: liability -->
+
+<!-- marginal: of directors, -->
+
+by a company, a firm or an association of persons, then,
+
+<!-- marginal: etc. -->
+
+notwithstanding anything to the contrary in this Act or any other written law, the directors of such company includtng any persons who were directors of such company during such period in which contributions were liable to be paid, or the partners of such firm, including any persons who were partners of such firm during such period in which contributions were liable to be paid, or the office-bearers of such association of persons, including any persons who were office-bearers of such association during such period in which contributions were liable to be paid, as the case may be, shall together with the company, firm or association of persons liable to pay the said contributions, be jointly and severally liable for the contributions due and payable to the Fund.
+
+<!-- marginal: Employer's -->
+
+47. (1) Notwithstanding any contract to the contrary,
+
+<!-- marginal: contribution -->
+
+the employer shall not be entitled to deduct from the
+
+<!-- marginal: irrecover- -->
+
+<!-- marginal: able from -->
+
+wages or remuneration of, or otherwise to recover from,
+
+<!-- marginal: employee. -->
+
+the employee the employer's contribution.
 
 (2) If an employer deducts or attempts to deduct from the wages or remuneration of any employee the whole or any part of the employer's contribution, he shall be guilty of an offence and shall, on conviction, be liable to imprisonment for a term not exceeding six years or to a fine not exceeding twenty thousand ringgit or to both.
 
-Recovery by
+<!-- marginal: Recovery by -->
 
-48. (1) Subject to the provisions of this section, the employer of employer shall be entitled to recover from the employee, employee's contnbution. in accordance with this section, the amount of any contribution payable on behalf of the etnployee.
+48. (1) Subject to the provisions of this section, the
+
+<!-- marginal: employer of -->
+
+employer shall be entitled to recover from the employee,
+
+<!-- marginal: employee's -->
+
+<!-- marginal: contnbution. -->
+
+in accordance with this section, the amount of any contribution payable on behalf of the etnployee.
 
 (2) The amount of any contribution payable by the employer on behalf of the employee
 
@@ -1144,9 +1532,17 @@ Provided that, subject to such conditions as may be prescribed by the Board, whe
 
 ## BILL
 
-Interest on
+<!-- marginal: Interest on -->
 
-49. (1) Where the amount of the monthly contributions contributions or part of any monthly contributions which an employer in arrears. is liable to pay under section 45 is not paid within such period as may be prescribed, the employer shall be liable, in addition to the dividend to be paid under section 45(3), to pay interest to be credited to the Fund on such amount at such rate (being a rate per annum) as declared by the Board from time to time in respect of each month or part of a month after expiration of such period during which such amount remains unpaid:
+49. (1) Where the amount of the monthly contributions
+
+<!-- marginal: contributions -->
+
+or part of any monthly contributions which an employer
+
+<!-- marginal: in arrears. -->
+
+is liable to pay under section 45 is not paid within such period as may be prescribed, the employer shall be liable, in addition to the dividend to be paid under section 45(3), to pay interest to be credited to the Fund on such amount at such rate (being a rate per annum) as declared by the Board from time to time in respect of each month or part of a month after expiration of such period during which such amount remains unpaid:
 
 Provided that—
 
@@ -1156,9 +1552,19 @@ Provided that—
 
 (2) The Board may in any case in which it thinks fit remit in whole or part the payment of any interest due under this section.
 
-Contribu-
+<!-- marginal: Contribu- -->
 
-50. (1) All sums collected, recovered or transferred on tions to be account of contributions under this Act shall be paid into paid into the Fund. the Fund in such manner as the Board shall direct.
+50. (1) All sums collected, recovered or transferred on
+
+<!-- marginal: tions to be -->
+
+account of contributions under this Act shall be paid into
+
+<!-- marginal: paid into -->
+
+<!-- marginal: the Fund. -->
+
+the Fund in such manner as the Board shall direct.
 
 (2) The Board shall cause to be credited to each member's account—
 
@@ -1196,11 +1602,25 @@ Provided that nothing in this section shall prejudice the right of the Board to 
 
 (6) The provisions of this section shall apply to any amount standing to the credit of an employee in an approved fund upon the transfer of such amount to the Fund.
 
-Contribu-
+<!-- marginal: Contribu- -->
 
-51. Notwithstanding anything to the contrary contained tions and in any other written law— deposits not to be
+51. Notwithstanding anything to the contrary contained
 
-(a) no sum deducted from the wages of a member assigned or attached. of the Fund under section 48;
+<!-- marginal: tions and -->
+
+in any other written law—
+
+<!-- marginal: deposits -->
+
+<!-- marginal: not to be -->
+
+(a) no sum deducted from the wages of a member
+
+<!-- marginal: assigned -->
+
+<!-- marginal: or attached. -->
+
+of the Fund under section 48;
 
 (b) no amount payable by the employer as his contribution; and
 
@@ -1208,7 +1628,15 @@ Contribu-
 
 shall be assignable, transferable, liable to be attached, sequestered, levied upon, for, or in respect of, any debt or claim whatsoever, nor shall the Official Assignee be entitled to or have any claim on any such sum or amount:
 
-Provided that, where a member of the Fund has been F.M.S. convicted of an offence under the Penal Code and his Cap. 45. employer proves to the satisfaction of a competent court by which the member of the Fund was convicted that he has suffered a definite financial loss as a direct and immediate result of such offence, the court may order
+Provided that, where a member of the Fund has been
+
+<!-- marginal: F.M.S. -->
+
+convicted of an offence under the Penal Code and his
+
+<!-- marginal: Cap. 45. -->
+
+employer proves to the satisfaction of a competent court by which the member of the Fund was convicted that he has suffered a definite financial loss as a direct and immediate result of such offence, the court may order
 
 <!-- page 43 -->
 
@@ -1312,23 +1740,57 @@ by the Board, and if the Board approves such transfer, the employee shall be cre
 
 (16) For the purpose of this section the expression "an employer who has established an approved fund" includes an employer for the benefit of whose employees an approved fund has been established.
 
-(17) Nothing in the provisions of subsections (7) and (13) shall apply to an approved fund expressly established by or under any written law.
+(17) Nothing in the provisions of subsections (7) and
+
+(13) shall apply to an approved fund expressly established by or under any written law.
 
 (18) Any expenses incurred by the Board in enforcing the obligations of approved funds under this Act shall be reimbursed to the Board from the funds of such funds on the basis of membership of such funds.
 
-Winding
+<!-- marginal: Winding -->
 
-53. The approved fund of a statutory or local authority up of under the new scheme shall be wound up on such date approved as the Minister may, by notification in the Gazette, fund. appoint in each particular case, and all assets and liabilities of the approved fund shall be transferred to the Fund and dealt with under this Act:
+53. The approved fund of a statutory or local authority
 
-Provided that where there is a pension scheme of a statutory or local authority within the meaning of "approved fund" under section 2 of this Act then the winding up of such scheme shall be dealt with under section 30 of the Statutory and Local Authorities Act 185 Superannuation Fund Act 1977 notwithstanding section 52.
+<!-- marginal: up of -->
+
+under the new scheme shall be wound up on such date
+
+<!-- marginal: approved -->
+
+as the Minister may, by notification in the Gazette,
+
+<!-- marginal: fund. -->
+
+appoint in each particular case, and all assets and liabilities of the approved fund shall be transferred to the Fund and dealt with under this Act:
+
+Provided that where there is a pension scheme of a statutory or local authority within the meaning of "approved fund" under section 2 of this Act then the winding up of such scheme shall be dealt with under section 30 of the Statutory and Local Authorities
+
+<!-- marginal: Act 185 -->
+
+Superannuation Fund Act 1977 notwithstanding section
+
+52.
 
 ## PART VI
 
 ## WITHDRAWAL OF CONTRIBUTIONS
 
-Authority
+<!-- marginal: Authority -->
 
-54. (1) No sum of money standing to the credit of a for with- member of the Fund may be withdrawn except with the drawals authority of the Board and, subject to any regulations and from the Fund. rules made under this Act, such authority shall not be given unless the Board is satisfied that—
+54. (1) No sum of money standing to the credit of a
+
+<!-- marginal: for with- -->
+
+member of the Fund may be withdrawn except with the
+
+<!-- marginal: drawals -->
+
+authority of the Board and, subject to any regulations and
+
+<!-- marginal: from the -->
+
+<!-- marginal: Fund. -->
+
+rules made under this Act, such authority shall not be given unless the Board is satisfied that—
 
 (a) the member of the Fund has died;
 
@@ -1346,13 +1808,9 @@ Provided that—
 
 (a) if a member of the Fund withdraws under subsection (1)(c) any amount standing to his credit in the Fund and he is subsequently engaged in any further employment, he shall be treated as an employee but he shall not withdraw the further amount standing to his credit in the Fund until he has attained the age of fifty-five years or after a lapse of five years from the year of further employment, whichever is the later;
 
-(b) where a member of the Fund withdraws under subsection ( l )( b) or ( 1 )( d)
+(b) where a member of the Fund withdraws under subsection ( l )( b) or ( 1 )( d) and he is subsequently engaged in any employment, he may elect to pay monthly contributions to the Fund by giving the Board and his employer, one month's notice of his intention to contribute and such member may, at any time, make a withdrawal under subsection (l)(b), ( l )( c) or
 
-<!-- marginal: and he -->
-
-<!-- marginal: is -->
-
-subsequently engaged in any employment, he may elect to pay monthly contributions to the Fund by giving the Board and his employer, one month's notice of his intention to contribute and such member may, at any time, make a withdrawal under subsection (l)(b), ( l )( c) or (1) (d), and where such member has made any such withdrawal, he shall cease to be a member of the Fund and shall be precluded from making any further contributions:
+(1) (d), and where such member has made any such withdrawal, he shall cease to be a member of the Fund and shall be precluded from making any further contributions:
 
 Provided that an election made under this paragraph shall not be made to take effect retrospectively.
 
@@ -1364,11 +1822,7 @@ Provided that an election made under this paragraph shall not be made to take ef
 
 (b) who has entered into an agreement to purchase or build a house, which in the opinion of the Board is a firm arrangement, authorize withdrawal from the Fund of such sum standing to the credit of such member either wholly or partly; or
 
-(c) who had purchased or built a house and had taken a loan made on the security of a charge on the said house for
-
-<!-- marginal: its purchase or -->
-
-construction, authorize withdrawal from the Fund of such sum standing to the credit of such member either wholly or partly:
+(c) who had purchased or built a house and had taken a loan made on the security of a charge on the said house for its purchase or construction, authorize withdrawal from the Fund of such sum standing to the credit of such member either wholly or partly:
 
 Provided that where a member has withdrawn under paragraph (b) or (c) he shall not thereafter be eligible to make any subsequent withdrawal under either of those paragraphs:
 
@@ -1418,21 +1872,53 @@ Provided further that an approval of the application under paragraph (a) or (b) 
 
 <!-- page 52 -->
 
-Release of
+<!-- marginal: Release of -->
 
-56. The Board, after receiving a notification in writing employer's from an employer of a pensionable employee stating that contribu- tions. the pensionable employee has died in service or is about to retire on the ground of attaining the retirement age applicable to the pensionable employee or on any other ground and requesting for the return of the equivalent of the employer's contributions remitted to the Fund in respect of the pensionable employee by the Government of Malaysia or of a State or any statutory or local authority or from all such employers of the pensionable employee, together with any dividend credited thereon, may pay to the Pensions Trust Fund established under Act section 3 of the Pensions Trust Fund Act 1991, such amount together with dividend credited thereon and thereupon the amount standing to the credit of the pensionable employee in the Fund shall be the reduced amount as from that date.
+56. The Board, after receiving a notification in writing
 
-Payment
+<!-- marginal: employer's -->
 
-57. Unless otherwise provided to the contrary, payment for witn- in respect of any withdrawal authorized by the Board drawal. under this Act shall be in the manner as may be determined by the Board from lime to time.
+from an employer of a pensionable employee stating that
 
-Payment of
+<!-- marginal: contribu- -->
 
-58. (1) Where authority for withdrawal under section additional 54(l)(a) has been granted, an additional amount shall be amount. payable calculated in accordance with the formula set out in the Fifth Schedule:
+<!-- marginal: tions. -->
+
+the pensionable employee has died in service or is about to retire on the ground of attaining the retirement age applicable to the pensionable employee or on any other ground and requesting for the return of the equivalent of the employer's contributions remitted to the Fund in respect of the pensionable employee by the Government of Malaysia or of a State or any statutory or local authority or from all such employers of the pensionable employee, together with any dividend credited thereon, may pay to the Pensions Trust Fund established under
+
+<!-- marginal: Act -->
+
+section 3 of the Pensions Trust Fund Act 1991, such amount together with dividend credited thereon and thereupon the amount standing to the credit of the pensionable employee in the Fund shall be the reduced amount as from that date.
+
+<!-- marginal: Payment -->
+
+57. Unless otherwise provided to the contrary, payment
+
+<!-- marginal: for witn- -->
+
+in respect of any withdrawal authorized by the Board
+
+<!-- marginal: drawal. -->
+
+under this Act shall be in the manner as may be determined by the Board from lime to time.
+
+<!-- marginal: Payment of -->
+
+58. (1) Where authority for withdrawal under section
+
+<!-- marginal: additional -->
+
+54(l)(a) has been granted, an additional amount shall be
+
+<!-- marginal: amount. -->
+
+payable calculated in accordance with the formula set out in the Fifth Schedule:
 
 Provided that where the Board is satisfied that a member of the Fund has died, and no authority for withdrawal under section 54(1)(a) has been granted, the Board may as it deems fit, pay the additional amount to such person as the Board may approve.
 
-(2) Where authority has been granted under section 54 (l)(c), an additional amount shall be payable calculated in accordance with the formula set out in the Sixth
+(2) Where authority has been granted under section 54
+
+(l)(c), an additional amount shall be payable calculated in accordance with the formula set out in the Sixth
 
 ## Schedule:
 
@@ -1470,7 +1956,9 @@ shall be guilty of an offence and shall, on conviction, be liable to imprisonmen
 
 <!-- marginal: penalty. -->
 
-Act or any regulations or rules made thereunder shall be guilty of an offence and if no special penalty is expressly provided in this Act or the regulations or rules made thereunder shall, on conviction, be liable
+Act or any regulations or rules made thereunder shall be guilty of an offence and if no special penalty is expressly provided in this Act or the regulations or rules made thereunder shall, on conviction, be
+
+<!-- marginal: liable -->
 
 <!-- marginal: to -->
 
@@ -1500,21 +1988,75 @@ imprisonment for a term not exceeding six months or to a fine not exceeding two 
 
 shall be guilty of such offence and shall be liable to the penalty provided for such offence.
 
-One trial
+<!-- marginal: One trial -->
 
-62. Notwithstanding the provisions of any written law to for any the contrary, an employer may be charged with and tried number of offences. at one trial for any number of offences under section 43 (2) and such offences shall, for the purpose of the law for the time being in force relating to criminal procedure, be deemed to form the same transaction.
+62. Notwithstanding the provisions of any written law to
 
-Court
+<!-- marginal: for any -->
 
-63. Where an employer is found guilty of an offence order. under section 43(2), the Court before which the employer is found guilty shall order such employer to pay to the Fund the amount of contributions, together with any dividend credited thereon, due and payable to the Board and certified by an officer authorized by the Board to be due from such employer, prior to the date of such finding of guilt and such contributions shall be recoverable in the same manner as a fine as provided under section 283 of F.M.S. the Criminal Procedure Code. Cap. 6.
+the contrary, an employer may be charged with and tried
 
-Certificate
+<!-- marginal: number of -->
 
-64. In any legal proceedings a copy of an entry in the of autho- accounts of the Fund duly certified under the hand of an rized officer of the Board authorized officer of the Board shall be prima facie to be evidence of such entry having been made and of the truth evidence. of the contents thereof.
+<!-- marginal: offences. -->
 
-Civil
+at one trial for any number of offences under section 43
 
-65. (1) All contributions payable under this Act may, proceedings without prejudice to any other remedy, be recoverable by to recover contribu- the Board summarily as a civil debt. tions. (2) Proceedings for the summary recovery as civil debts of contributions may be instituted by any officer authorized in that behalf by special or general directions of the Chairman and any such officer may conduct such proceedings.
+(2) and such offences shall, for the purpose of the law for the time being in force relating to criminal procedure, be deemed to form the same transaction.
+
+<!-- marginal: Court -->
+
+63. Where an employer is found guilty of an offence
+
+<!-- marginal: order. -->
+
+under section 43(2), the Court before which the employer is found guilty shall order such employer to pay to the Fund the amount of contributions, together with any dividend credited thereon, due and payable to the Board and certified by an officer authorized by the Board to be due from such employer, prior to the date of such finding of guilt and such contributions shall be recoverable in the same manner as a fine as provided under section 283 of
+
+<!-- marginal: F.M.S. -->
+
+the Criminal Procedure Code.
+
+<!-- marginal: Cap. 6. -->
+
+<!-- marginal: Certificate -->
+
+64. In any legal proceedings a copy of an entry in the
+
+<!-- marginal: of autho- -->
+
+accounts of the Fund duly certified under the hand of an
+
+<!-- marginal: rized officer -->
+
+<!-- marginal: of the Board -->
+
+authorized officer of the Board shall be prima facie
+
+<!-- marginal: to be -->
+
+evidence of such entry having been made and of the truth
+
+<!-- marginal: evidence. -->
+
+of the contents thereof.
+
+<!-- marginal: Civil -->
+
+65. (1) All contributions payable under this Act may,
+
+<!-- marginal: proceedings -->
+
+without prejudice to any other remedy, be recoverable by
+
+<!-- marginal: to recover -->
+
+<!-- marginal: contribu- -->
+
+the Board summarily as a civil debt.
+
+<!-- marginal: tions. -->
+
+(2) Proceedings for the summary recovery as civil debts of contributions may be instituted by any officer authorized in that behalf by special or general directions of the Chairman and any such officer may conduct such proceedings.
 
 (3) In this section the word "contribution" shall be deemed to include any dividend and interest due on any contributions.
 
@@ -1586,21 +2128,55 @@ behalf by the the Chairman.
 
 <!-- page 56 -->
 
-Offences
+<!-- marginal: Offences -->
 
-69. Where an offence under this Act or any regulations by body or rules made thereunder has been committed by a body corporate. corporate, firm, society or other body of persons, any person who at the time of the commission of the offence was a director, manager, secretary or other similar officer or a partner of the body corporate, firm, society or other body of persons or was purporting to act in such capacity shall, as well as such body corporate, firm, society or other body of persons, be deemed to be guilty of that offence unless he proves that the offence was committed without his consent or connivance and that he exercised all such diligence to prevent the commission of the offence as he ought to have exercised, having regard to the nature of his functions in that capacity and to all the circumstances.
+69. Where an offence under this Act or any regulations
 
-Members of
+<!-- marginal: by body -->
 
-70. Every member of the Board, the Investment Panel, the Board, officer and servant of the Board shall be deemed to be Investment Panel and a public servant within the meaning of the Penal Code. officers deemed as public servants.
+or rules made thereunder has been committed by a body
+
+<!-- marginal: corporate. -->
+
+corporate, firm, society or other body of persons, any person who at the time of the commission of the offence was a director, manager, secretary or other similar officer or a partner of the body corporate, firm, society or other body of persons or was purporting to act in such capacity shall, as well as such body corporate, firm, society or other body of persons, be deemed to be guilty of that offence unless he proves that the offence was committed without his consent or connivance and that he exercised all such diligence to prevent the commission of the offence as he ought to have exercised, having regard to the nature of his functions in that capacity and to all the circumstances.
+
+<!-- marginal: Members of -->
+
+70. Every member of the Board, the Investment Panel,
+
+<!-- marginal: the Board, -->
+
+officer and servant of the Board shall be deemed to be
+
+<!-- marginal: Investment -->
+
+<!-- marginal: Panel and -->
+
+a public servant within the meaning of the Penal Code.
+
+<!-- marginal: officers -->
+
+<!-- marginal: deemed -->
+
+<!-- marginal: as public -->
+
+<!-- marginal: servants. -->
 
 ## PART VIII
 
 ## POWER TO MAKE REGULATIONS AND RULES
 
-Powers of
+<!-- marginal: Powers of -->
 
-71. The Minister may, on the recommendation of the Minister Board, make regulations— to make regulations.
+71. The Minister may, on the recommendation of the
+
+<!-- marginal: Minister -->
+
+Board, make regulations—
+
+<!-- marginal: to make -->
+
+<!-- marginal: regulations. -->
 
 (a) to provide for the manner of payment and collection of contributions and any matters incidental thereto;
 
@@ -1612,11 +2188,7 @@ Powers of
 
 death where there is no nomination by the member of the person to whom such sum is to be paid on his death;
 
-(d) to provide for the manner of payment of the additional amount in the case of death of a member or upon withdrawal under
-
-<!-- marginal: the -->
-
-provisions of section 54(1 )(c);
+(d) to provide for the manner of payment of the additional amount in the case of death of a member or upon withdrawal under the provisions of section 54(1 )(c);
 
 (e) to provide that any amount not exceeding two hundred thousand ringgit, or such other amount as may be determined by the Minister, from time to time, by notification in the Gazette, standing to the credit of a deceased member in the Fund may be paid out by the Board without production of any evidence that any estate duty due on the estate of the deceased member has been paid;
 
@@ -1668,9 +2240,19 @@ to the Fund; or
 
 and thereafter this Act shall apply to such person, employer or employee, as the case may be, subject to any modification as the Minister may prescribe.
 
-Powers
+<!-- marginal: Powers -->
 
-73. The Board may, in addition to the other duties of the imposed and powers conferred upon it under this Act, Board to make rules. make rules—
+73. The Board may, in addition to the other duties
+
+<!-- marginal: of the -->
+
+imposed and powers conferred upon it under this Act,
+
+<!-- marginal: Board to -->
+
+<!-- marginal: make rules. -->
+
+make rules—
 
 (a) to provide for the payment of all contributions under this Act or any part thereof, omitted to be paid;
 
@@ -1692,11 +2274,7 @@ contributions;
 
 (g) to prescribe the forms and procedure to be followed for the purpose of nomination and revocation of nomination, and the particulars to be furnished therein;
 
-(h) to prescribe the procedure relating
-
-<!-- marginal: to -->
-
-withdrawal from the Fund;
+(h) to prescribe the procedure relating to withdrawal from the Fund;
 
 (i) to provide for the appointment of medical boards for the purpose of section 54(1 )(c) and for such other purposes as may be prescribed;
 
@@ -1718,9 +2296,17 @@ withdrawal from the Fund;
 
 (n) to prescribe anything which under this Act may be prescribed by the Board.
 
-Powers of
+<!-- marginal: Powers of -->
 
-74. The Minister may, by order notified in the Gazette, Minister to amend, add to or vary any of the Schedules to this Act. amend the Schedules.
+74. The Minister may, by order notified in the Gazette,
+
+<!-- marginal: Minister to -->
+
+amend, add to or vary any of the Schedules to this Act.
+
+<!-- marginal: amend the -->
+
+<!-- marginal: Schedules. -->
 
 ## PART
 
@@ -1728,9 +2314,27 @@ IX
 
 ## REPEAL AND TRANSITIONAL PROVISIONS
 
-Repeal
+<!-- marginal: Repeal -->
 
-75. On the appointed day— of the Employees (a) the Employees Provident Fund Act 1951 (in Provident Fund this Part referred to as "the repealed Act") shall Act 1951. cease to have effect; Act 272.
+75. On the appointed day—
+
+<!-- marginal: of the -->
+
+<!-- marginal: Employees -->
+
+(a) the Employees Provident Fund Act 1951 (in
+
+<!-- marginal: Provident -->
+
+<!-- marginal: Fund -->
+
+this Part referred to as "the repealed Act") shall
+
+<!-- marginal: Act 1951. -->
+
+cease to have effect;
+
+<!-- marginal: Act 272. -->
 
 (b) the Employees Provident Fund Board (in this Part referred to as "the EPF Board") being a body corporate established under the repealed Act shall likewise cease to exist:
 
@@ -1782,25 +2386,55 @@ bonds, agreements, instruments and working arrangements subsisting immediately b
 
 <!-- page 62 -->
 
-Continuance
+<!-- marginal: Continuance -->
 
-80. (1) Subject to the provisions of this Act, neither the of criminal repeal of the repealed Act nor anything contained in this and civil proceedings, Act shall affect any person's liability to be prosecuted or punished for offences committed under the repealed Act before the appointed day, or any proceedings brought or sentence imposed before that day in respect of such offence.
+80. (1) Subject to the provisions of this Act, neither the
+
+<!-- marginal: of criminal -->
+
+repeal of the repealed Act nor anything contained in this
+
+<!-- marginal: and civil -->
+
+<!-- marginal: proceedings, -->
+
+Act shall affect any person's liability to be prosecuted or punished for offences committed under the repealed Act before the appointed day, or any proceedings brought or sentence imposed before that day in respect of such offence.
 
 (2) Subject to the provisions of this Act, any proceedings (whether civil or criminal) or cause of action pending or existing immediately before the appointed day by or against the EPF Board or any person acting on behalf of the EPF Board may be continued or instituted by or against the Board as it might have been by or against the EPF Board or such person as if this Act had not been passed.
 
 (3) Any appeal brought or any leave to appeal applied on or after the appointed day against a decision given in any legal proceedings before that day may be brought by or against the Board as it might have been brought by or against the EPF Board as if this Act had not been passed.
 
-Transfer
+<!-- marginal: Transfer -->
 
-81. Subject to the provisions of this Act, all moneys of Fund. standing in, and due to be paid to, the Fund set up under section 4 of the repealed Act shall on the appointed day be transferred to the Fund.
+81. Subject to the provisions of this Act, all moneys
 
-Continuance
+<!-- marginal: of Fund. -->
 
-82. Every person who immediately before the appointed of officers day was employed as an officer or servant of the EPF and servants. Board shall on that day be deemed to be employed as such officer or servant, as the case may be, of the Board upon the same terms and conditions of service as those obtaining immediately before the appointed day.
+standing in, and due to be paid to, the Fund set up under section 4 of the repealed Act shall on the appointed day be transferred to the Fund.
 
-Pending
+<!-- marginal: Continuance -->
 
-83. All disciplinary proceedings which, immediately disciplinary before the appointed day, were pending against any proceedings. officer or servant of the EPF Board on or after that date, may be continued against the officer or servant by the appropriate authority of the Board established by this Act.
+82. Every person who immediately before the appointed
+
+<!-- marginal: of officers -->
+
+day was employed as an officer or servant of the EPF
+
+<!-- marginal: and servants. -->
+
+Board shall on that day be deemed to be employed as such officer or servant, as the case may be, of the Board upon the same terms and conditions of service as those obtaining immediately before the appointed day.
+
+<!-- marginal: Pending -->
+
+83. All disciplinary proceedings which, immediately
+
+<!-- marginal: disciplinary -->
+
+before the appointed day, were pending against any
+
+<!-- marginal: proceedings. -->
+
+officer or servant of the EPF Board on or after that date, may be continued against the officer or servant by the appropriate authority of the Board established by this Act.
 
 <!-- page 63 -->
 
@@ -2042,235 +2676,469 @@ From 560.01 to 580.00 53.00 64.00
 
 <!-- page 66 -->
 
-## AMOUNT OF WAGES FOR RATE OF CONTRIBUTIONS
+<!-- marginal: AMOUNT OF WAGES FOR RATE OF CONTRIBUTIONS -->
 
-## THE MONTH
+<!-- marginal: THE MONTH -->
 
-## FOR THE MONTH
-
-By the
+<!-- marginal: FOR THE MONTH -->
 
 <!-- marginal: By the -->
 
-<!-- marginal: Total -->
+<!-- marginal: By the -->
 
-Employee Employer Contributions Wages
+Total Employee Employer Contributions
 
-From 580.01 to 600.00 54.00
+<!-- marginal: Wages -->
+
+<!-- marginal: From -->
+
+<!-- marginal: 580.01 -->
+
+<!-- marginal: to -->
+
+<!-- marginal: 600.00 -->
+
+<!-- marginal: 54.00 -->
 
 <!-- marginal: 66.00 -->
 
-<!-- marginal: 120.00 -->
+120.00
 
-From 600.01 to 620.00 56.00
+<!-- marginal: From -->
+
+<!-- marginal: 600.01 -->
+
+<!-- marginal: to -->
+
+<!-- marginal: 620.00 -->
+
+<!-- marginal: 56.00 -->
 
 <!-- marginal: 69.00 -->
 
-<!-- marginal: 125.00 -->
+125.00
 
-From 620.01 to 640.00 58.00
+<!-- marginal: From -->
+
+<!-- marginal: 620.01 -->
+
+<!-- marginal: to -->
+
+<!-- marginal: 640.00 -->
+
+<!-- marginal: 58.00 -->
 
 <!-- marginal: 71.00 -->
 
-<!-- marginal: 129.00 -->
+129.00
 
-From 640.01 to 660.00 60.00
+<!-- marginal: From -->
+
+<!-- marginal: 640.01 -->
+
+<!-- marginal: to -->
+
+<!-- marginal: 660.00 -->
+
+<!-- marginal: 60.00 -->
 
 <!-- marginal: 73.00 -->
 
-<!-- marginal: 133.00 -->
+133.00
 
-From 660.01 to 680.00 62.00
+<!-- marginal: From -->
+
+<!-- marginal: 660.01 -->
+
+<!-- marginal: to -->
+
+<!-- marginal: 680.00 -->
+
+<!-- marginal: 62.00 -->
 
 <!-- marginal: 75.00 -->
 
-<!-- marginal: 137.00 -->
+137.00
 
-From 680.01 to 700.00 63.00
+<!-- marginal: From -->
+
+<!-- marginal: 680.01 -->
+
+<!-- marginal: to -->
+
+<!-- marginal: 700.00 -->
+
+<!-- marginal: 63.00 -->
 
 <!-- marginal: 77.00 -->
 
-<!-- marginal: 140.00 -->
+140.00
 
-From 700.01 to 720.00 65.00
+<!-- marginal: From -->
+
+<!-- marginal: 700.01 -->
+
+<!-- marginal: to -->
+
+<!-- marginal: 720.00 -->
+
+<!-- marginal: 65.00 -->
 
 <!-- marginal: 80.00 -->
 
-<!-- marginal: 145.00 -->
+145.00
 
-From 720.01 to 740.00 67.00
+<!-- marginal: From -->
+
+<!-- marginal: 720.01 -->
+
+<!-- marginal: to -->
+
+<!-- marginal: 740.00 -->
+
+<!-- marginal: 67.00 -->
 
 <!-- marginal: 82.00 -->
 
-<!-- marginal: 149.00 -->
+149.00
 
-From 740.01 to 760.00 69.00
+<!-- marginal: From -->
+
+<!-- marginal: 740.01 -->
+
+<!-- marginal: to -->
+
+<!-- marginal: 760.00 -->
+
+<!-- marginal: 69.00 -->
 
 <!-- marginal: 84.00 -->
 
-<!-- marginal: 153.00 -->
+153.00
 
-From 760.01 to 780.00 71.00
+<!-- marginal: From -->
+
+<!-- marginal: 760.01 -->
+
+<!-- marginal: to -->
+
+<!-- marginal: 780.00 -->
+
+<!-- marginal: 71.00 -->
 
 <!-- marginal: 86.00 -->
 
-<!-- marginal: 157.00 -->
+157.00
 
-From 780.01 to 800.00 72.00
+<!-- marginal: From -->
+
+<!-- marginal: 780.01 -->
+
+<!-- marginal: to -->
+
+<!-- marginal: 800.00 -->
+
+<!-- marginal: 72.00 -->
 
 <!-- marginal: 88.00 -->
 
-<!-- marginal: 160.00 -->
+160.00
 
-From 800.01 to 820.00 74.00
+<!-- marginal: From -->
+
+<!-- marginal: 800.01 -->
+
+<!-- marginal: to -->
+
+<!-- marginal: 820.00 -->
+
+<!-- marginal: 74.00 -->
 
 <!-- marginal: 91.00 -->
 
-<!-- marginal: 165.00 -->
+165.00
 
-From 820.01 to 840.00 76.00
+<!-- marginal: From -->
+
+<!-- marginal: 820.01 -->
+
+<!-- marginal: to -->
+
+<!-- marginal: 840.00 -->
+
+<!-- marginal: 76.00 -->
 
 <!-- marginal: 93.00 -->
 
-<!-- marginal: 169.00 -->
+169.00
 
-From 840.01 to 860.00 78.00
+<!-- marginal: From -->
+
+<!-- marginal: 840.01 -->
+
+<!-- marginal: to -->
+
+<!-- marginal: 860.00 -->
+
+<!-- marginal: 78.00 -->
 
 <!-- marginal: 95.00 -->
 
-<!-- marginal: 173.00 -->
+173.00
 
-From 860.01 to 880.00 80.00
+<!-- marginal: From -->
+
+<!-- marginal: 860.01 -->
+
+<!-- marginal: to -->
+
+<!-- marginal: 880.00 -->
+
+<!-- marginal: 80.00 -->
 
 <!-- marginal: 97.00 -->
 
-<!-- marginal: 177.00 -->
+177.00
 
-From 880.01 to 900.00 81.00
+<!-- marginal: From -->
+
+<!-- marginal: 880.01 -->
+
+<!-- marginal: to -->
+
+<!-- marginal: 900.00 -->
+
+<!-- marginal: 81.00 -->
 
 <!-- marginal: 99.00 -->
 
-<!-- marginal: 180.00 -->
+180.00
 
-From 900.01 to 920.00 83.00
+<!-- marginal: From -->
+
+<!-- marginal: 900.01 -->
+
+<!-- marginal: to -->
+
+<!-- marginal: 920.00 -->
+
+<!-- marginal: 83.00 -->
 
 <!-- marginal: 102.00 -->
 
-<!-- marginal: 185.00 -->
+185.00
 
-From 920.01 to 940.00 85.00
+<!-- marginal: From -->
+
+<!-- marginal: 920.01 -->
+
+<!-- marginal: to -->
+
+<!-- marginal: 940.00 -->
+
+<!-- marginal: 85.00 -->
 
 <!-- marginal: 104.00 -->
 
-<!-- marginal: 189.00 -->
+189.00
 
-From 940.01 to 960.00 87.00
+<!-- marginal: From -->
+
+<!-- marginal: 940.01 -->
+
+<!-- marginal: to -->
+
+<!-- marginal: 960.00 -->
+
+<!-- marginal: 87.00 -->
 
 <!-- marginal: 106.00 -->
 
-<!-- marginal: 193.00 -->
+193.00
 
-From 960.01 to 980.00 89.00
+<!-- marginal: From -->
+
+<!-- marginal: 960.01 -->
+
+<!-- marginal: to -->
+
+<!-- marginal: 980.00 -->
+
+<!-- marginal: 89.00 -->
 
 <!-- marginal: 108.00 -->
 
-<!-- marginal: 197.00 -->
+197.00
 
-From 980.01 to 1,000.00 90.00
+<!-- marginal: From -->
+
+<!-- marginal: 980.01 -->
+
+<!-- marginal: to 1,000.00 -->
+
+<!-- marginal: 90.00 -->
 
 <!-- marginal: 110.00 -->
 
-<!-- marginal: 200.00 -->
+200.00
 
-From 1,000.01 to 1,020.00 92.00
+<!-- marginal: From 1,000.01 -->
+
+<!-- marginal: to 1,020.00 -->
+
+<!-- marginal: 92.00 -->
 
 <!-- marginal: 113.00 -->
 
-<!-- marginal: 205.00 -->
+205.00
 
-From 1,020.01 to 1,040.00 94.00
+<!-- marginal: From 1,020.01 -->
+
+<!-- marginal: to 1,040.00 -->
+
+<!-- marginal: 94.00 -->
 
 <!-- marginal: 115.00 -->
 
-<!-- marginal: 209.00 -->
+209.00
 
-From 1,040.01 to 1,060.00 96.00
+<!-- marginal: From 1,040.01 -->
+
+<!-- marginal: to 1,060.00 -->
+
+<!-- marginal: 96.00 -->
 
 <!-- marginal: 117.00 -->
 
-<!-- marginal: 213.00 -->
+213.00
 
-From 1,060.01 to 1,080.00 98.00
+<!-- marginal: From 1,060.01 -->
+
+<!-- marginal: to 1,080.00 -->
+
+<!-- marginal: 98.00 -->
 
 <!-- marginal: 119.00 -->
 
-<!-- marginal: 217.00 -->
+217.00
 
-From 1,080.01 to 1,100.00 99.00
+<!-- marginal: From 1,080.01 -->
+
+<!-- marginal: to 1,100.00 -->
+
+<!-- marginal: 99.00 -->
 
 <!-- marginal: 121.00 -->
 
-<!-- marginal: 220.00 -->
+220.00
 
-From 1,100.01 to 1,120.00 101.00
+<!-- marginal: From -->
+
+<!-- marginal: 1,100.01 -->
+
+<!-- marginal: to 1,120.00 -->
+
+<!-- marginal: 101.00 -->
 
 <!-- marginal: 124.00 -->
 
-<!-- marginal: 225.00 -->
+225.00
 
-From 1,120.01 to 1,140.00 103.00
+<!-- marginal: From -->
+
+<!-- marginal: 1,120.01 to 1,140.00 -->
+
+<!-- marginal: 103.00 -->
 
 <!-- marginal: 126.00 -->
 
-<!-- marginal: 229.00 -->
+229.00
 
-From 1,140.01 to 1,160.00 105.00
+<!-- marginal: From -->
+
+<!-- marginal: 1,140.01 to 1,160.00 -->
+
+<!-- marginal: 105.00 -->
 
 <!-- marginal: 128.00 -->
 
-<!-- marginal: 233.00 -->
+233.00
 
-From 1,160.01 to 1,180.00 107.00
+<!-- marginal: From -->
+
+<!-- marginal: 1,160.01 to 1,180.00 -->
+
+<!-- marginal: 107.00 -->
 
 <!-- marginal: 130.00 -->
 
-<!-- marginal: 237.00 -->
+237.00
 
-From 1,180.01 to 1,200.00 108.00
+<!-- marginal: From 1,180.01 to 1,200.00 -->
+
+<!-- marginal: 108.00 -->
 
 <!-- marginal: 132.00 -->
 
-<!-- marginal: 240.00 -->
+240.00
 
-From 1,200.01 to 1.220.00 110.00
+<!-- marginal: From -->
+
+<!-- marginal: 1,200.01 -->
+
+<!-- marginal: to 1.220.00 -->
+
+<!-- marginal: 110.00 -->
 
 <!-- marginal: 135.00 -->
 
-<!-- marginal: 245.00 -->
+245.00
 
-From 1,220.01 to 1,240.00 112.00
+<!-- marginal: From -->
+
+<!-- marginal: 1,220.01 to 1,240.00 -->
+
+<!-- marginal: 112.00 -->
 
 <!-- marginal: 137.00 -->
 
-<!-- marginal: 249.00 -->
+249.00
 
-From 1,240.01 to 1,260.00 114.00
+<!-- marginal: From -->
+
+<!-- marginal: 1,240.01 -->
+
+<!-- marginal: to 1,260.00 -->
+
+<!-- marginal: 114.00 -->
 
 <!-- marginal: 139.00 -->
 
-<!-- marginal: 253.00 -->
+253.00
 
-From 1,260.01 to 1.280.00 116.00
+<!-- marginal: From -->
+
+<!-- marginal: 1,260.01 -->
+
+<!-- marginal: to 1.280.00 -->
+
+<!-- marginal: 116.00 -->
 
 <!-- marginal: 141.00 -->
 
-<!-- marginal: 257.00 -->
+257.00
 
-From 1.280.01 to 1,300.00 117.00
+<!-- marginal: From -->
+
+<!-- marginal: 1.280.01 -->
+
+<!-- marginal: to 1,300.00 -->
+
+<!-- marginal: 117.00 -->
 
 <!-- marginal: 143.00 -->
 
-<!-- marginal: 260.00 -->
+260.00
 
 <!-- page 67 -->
 
@@ -2596,227 +3464,153 @@ From 2,720.01 to 2,740.00 247.00 302.00
 
 ## FOR THE MONTH
 
-By the
-
-<!-- marginal: By the -->
+By the By the
 
 <!-- marginal: Total -->
 
 Employee Employer Contributions Wages
 
-From 2,740.01 to 2,760.00 249.00
-
-<!-- marginal: 304.00 -->
+From 2,740.01 to 2,760.00 249.00 304.00
 
 <!-- marginal: 553.00 -->
 
-From 2,760.01 to 2,780.00 251.00
-
-<!-- marginal: 306.00 -->
+From 2,760.01 to 2,780.00 251.00 306.00
 
 <!-- marginal: 557.00 -->
 
-From 2,780.01 to 2,800.00 252.00
-
-<!-- marginal: 308.00 -->
+From 2,780.01 to 2,800.00 252.00 308.00
 
 <!-- marginal: 560.00 -->
 
-From 2.800.01 to 2,820.00 254.00
-
-<!-- marginal: 311.00 -->
+From 2.800.01 to 2,820.00 254.00 311.00
 
 <!-- marginal: 565.00 -->
 
-From 2,820.01 to 2,840.00 256.00
-
-<!-- marginal: 313.00 -->
+From 2,820.01 to 2,840.00 256.00 313.00
 
 <!-- marginal: 569.00 -->
 
-From 2,840.01 to 2,860.00 258.00
-
-<!-- marginal: 315.00 -->
+From 2,840.01 to 2,860.00 258.00 315.00
 
 <!-- marginal: 573.00 -->
 
-From 2,860.01 to 2,880.00 260.00
-
-<!-- marginal: 317.00 -->
+From 2,860.01 to 2,880.00 260.00 317.00
 
 <!-- marginal: 577.00 -->
 
-From 2,880.01 to 2,900.00 261.00
-
-<!-- marginal: 319.00 -->
+From 2,880.01 to 2,900.00 261.00 319.00
 
 <!-- marginal: 580.00 -->
 
-From 2,900.01 to 2,920.00 263.00
-
-<!-- marginal: 322.00 -->
+From 2,900.01 to 2,920.00 263.00 322.00
 
 <!-- marginal: 585.00 -->
 
-From 2,920.01 to 2,940.00 265.00
-
-<!-- marginal: 324.00 -->
+From 2,920.01 to 2,940.00 265.00 324.00
 
 <!-- marginal: 589.00 -->
 
-From 2,940.01 to 2,960.00 267.00
-
-<!-- marginal: 326.00 -->
+From 2,940.01 to 2,960.00 267.00 326.00
 
 <!-- marginal: 593.00 -->
 
-From 2,960.01 to 2,980.00 269.00
-
-<!-- marginal: 328.00 -->
+From 2,960.01 to 2,980.00 269.00 328.00
 
 <!-- marginal: 597.00 -->
 
-From 2,980.01 to 3,000.00 270.00
-
-<!-- marginal: 330.00 -->
+From 2,980.01 to 3,000.00 270.00 330.00
 
 <!-- marginal: 600.00 -->
 
-From 3,000.01 to 3,020.00 272.00
-
-<!-- marginal: 333.00 -->
+From 3,000.01 to 3,020.00 272.00 333.00
 
 <!-- marginal: 605.00 -->
 
-From 3,020.01 to 3,040,00 274.00
-
-<!-- marginal: 335.00 -->
+From 3,020.01 to 3,040,00 274.00 335.00
 
 <!-- marginal: 609.00 -->
 
-From 3,040.01 to 3,060.00 276.00
-
-<!-- marginal: 337.00 -->
+From 3,040.01 to 3,060.00 276.00 337.00
 
 <!-- marginal: 613.00 -->
 
-From 3,060.01 to 3,080.00 278.00
-
-<!-- marginal: 339.00 -->
+From 3,060.01 to 3,080.00 278.00 339.00
 
 <!-- marginal: 617.00 -->
 
-From 3,080.01 to 3.100.00 279.00
-
-<!-- marginal: 341.00 -->
+From 3,080.01 to 3.100.00 279.00 341.00
 
 <!-- marginal: 620.00 -->
 
-From 3,100.01 to 3,120.00 281.00
-
-<!-- marginal: 334.00 -->
+From 3,100.01 to 3,120.00 281.00 334.00
 
 <!-- marginal: 625.00 -->
 
-From 3,120.01 to 3,140.00 283.00
-
-<!-- marginal: 346.00 -->
+From 3,120.01 to 3,140.00 283.00 346.00
 
 <!-- marginal: 629.00 -->
 
-From 3,140.01 to 3,160.00 285.00
-
-<!-- marginal: 348.00 -->
+From 3,140.01 to 3,160.00 285.00 348.00
 
 <!-- marginal: 633.00 -->
 
-From 3,160.01 to 3,180.00 287.00
-
-<!-- marginal: 350.00 -->
+From 3,160.01 to 3,180.00 287.00 350.00
 
 <!-- marginal: 637.00 -->
 
-From 3,180.01 to 3,200.00 288.00
-
-<!-- marginal: 352.00 -->
+From 3,180.01 to 3,200.00 288.00 352.00
 
 <!-- marginal: 640.00 -->
 
-From 3.200.01 to 3,220.00 290.00
-
-<!-- marginal: 355.00 -->
+From 3.200.01 to 3,220.00 290.00 355.00
 
 <!-- marginal: 645.00 -->
 
-From 3,220.01 to 3,240.00 292.00
-
-<!-- marginal: 357.00 -->
+From 3,220.01 to 3,240.00 292.00 357.00
 
 <!-- marginal: 649.00 -->
 
-From 3,240.01 to 3,260.00 294.00
-
-<!-- marginal: 359.00 -->
+From 3,240.01 to 3,260.00 294.00 359.00
 
 <!-- marginal: 653.00 -->
 
-From 3,260.01 to 3,280.00 296.00
-
-<!-- marginal: 361.00 -->
+From 3,260.01 to 3,280.00 296.00 361.00
 
 <!-- marginal: 657.00 -->
 
-From 3,280.01 to 3,300.00 297.00
-
-<!-- marginal: 363.00 -->
+From 3,280.01 to 3,300.00 297.00 363.00
 
 <!-- marginal: 660.00 -->
 
-From 3,300.01 to 3,320.00 299.00
-
-<!-- marginal: 366.00 -->
+From 3,300.01 to 3,320.00 299.00 366.00
 
 <!-- marginal: 665.00 -->
 
-From 3,320.01 to 3,340.00 301.00
-
-<!-- marginal: 368.00 -->
+From 3,320.01 to 3,340.00 301.00 368.00
 
 <!-- marginal: 669.00 -->
 
-From 3,340.01 to 3,360.00 303.00
-
-<!-- marginal: 370.00 -->
+From 3,340.01 to 3,360.00 303.00 370.00
 
 <!-- marginal: 673.00 -->
 
-From 3,360.01 to 3,380.00 305.00
-
-<!-- marginal: 372.00 -->
+From 3,360.01 to 3,380.00 305.00 372.00
 
 <!-- marginal: 677.00 -->
 
-From 3,380.01 to 3,400.00 306.00
-
-<!-- marginal: 374.00 -->
+From 3,380.01 to 3,400.00 306.00 374.00
 
 <!-- marginal: 680.00 -->
 
-From 3,400.01 to 3,420.00 308.00
-
-<!-- marginal: 377.00 -->
+From 3,400.01 to 3,420.00 308.00 377.00
 
 <!-- marginal: 685.00 -->
 
-From 3,420.01 to 3,440.00 310.00
-
-<!-- marginal: 379.00 -->
+From 3,420.01 to 3,440.00 310.00 379.00
 
 <!-- marginal: 689.00 -->
 
-From 3,440.01 to 3,460.00 312.00
-
-<!-- marginal: 381.00 -->
+From 3,440.01 to 3,460.00 312.00 381.00
 
 <!-- marginal: 693.00 -->
 
@@ -2986,227 +3780,153 @@ From 4,160.01 to 4,180.00 377.00 460.00
 
 ## FOR THE MONTH
 
-By the
-
-<!-- marginal: By the -->
+By the By the
 
 <!-- marginal: Total -->
 
 Employee Employer Contributions Wages
 
-From 4,180.01 to 4,200.00 378.00
-
-<!-- marginal: 462.00 -->
+From 4,180.01 to 4,200.00 378.00 462.00
 
 <!-- marginal: 840.00 -->
 
-From 4,200.01 to 4,220.00 380.00
-
-<!-- marginal: 465.00 -->
+From 4,200.01 to 4,220.00 380.00 465.00
 
 <!-- marginal: 845.00 -->
 
-From 4,220.01 to 4,240.00 382.00
-
-<!-- marginal: 467.00 -->
+From 4,220.01 to 4,240.00 382.00 467.00
 
 <!-- marginal: 849.00 -->
 
-From 4,240.01 to 4,260.00 384.00
-
-<!-- marginal: 469.00 -->
+From 4,240.01 to 4,260.00 384.00 469.00
 
 <!-- marginal: 853.00 -->
 
-From 4,260.01 to 4,280.00 386.00
-
-<!-- marginal: 471.00 -->
+From 4,260.01 to 4,280.00 386.00 471.00
 
 <!-- marginal: 857.00 -->
 
-From 4,280.01 to 4,300.00 387.00
-
-<!-- marginal: 473.00 -->
+From 4,280.01 to 4,300.00 387.00 473.00
 
 <!-- marginal: 860.00 -->
 
-From 4,300.01 to 4,320.00 389.00
-
-<!-- marginal: 476.00 -->
+From 4,300.01 to 4,320.00 389.00 476.00
 
 <!-- marginal: 865.00 -->
 
-From 4,320.01 to 4.340.00 391.00
-
-<!-- marginal: 478.00 -->
+From 4,320.01 to 4.340.00 391.00 478.00
 
 <!-- marginal: 869.00 -->
 
-From 4,340.01 to 4,360.00 393.00
-
-<!-- marginal: 480.00 -->
+From 4,340.01 to 4,360.00 393.00 480.00
 
 <!-- marginal: 873.00 -->
 
-From 4,360.01 to 4.380.00 395.00
-
-<!-- marginal: 482.00 -->
+From 4,360.01 to 4.380.00 395.00 482.00
 
 <!-- marginal: 877.00 -->
 
-From 4,380.01 to 4,400.00 396.00
-
-<!-- marginal: 484.00 -->
+From 4,380.01 to 4,400.00 396.00 484.00
 
 <!-- marginal: 880.00 -->
 
-From 4,400.01 to 4,420.00 398.00
-
-<!-- marginal: 487.00 -->
+From 4,400.01 to 4,420.00 398.00 487.00
 
 <!-- marginal: 885.00 -->
 
-From 4,420.01 to 4,440.00 400.00
-
-<!-- marginal: 489.00 -->
+From 4,420.01 to 4,440.00 400.00 489.00
 
 <!-- marginal: 889.00 -->
 
-From 4,440.01 to 4,460.00 402.00
-
-<!-- marginal: 491.00 -->
+From 4,440.01 to 4,460.00 402.00 491.00
 
 <!-- marginal: 893.00 -->
 
-From 4,460.01 to 4,480.00 404.00
-
-<!-- marginal: 493.00 -->
+From 4,460.01 to 4,480.00 404.00 493.00
 
 <!-- marginal: 897.00 -->
 
-From 4,480.01 to 4,500.00 405.00
-
-<!-- marginal: 495.00 -->
+From 4,480.01 to 4,500.00 405.00 495.00
 
 <!-- marginal: 900.00 -->
 
-From 4,500.01 to 4.520.00 407.00
-
-<!-- marginal: 498.00 -->
+From 4,500.01 to 4.520.00 407.00 498.00
 
 <!-- marginal: 905.00 -->
 
-From 4,520.01 to 4,540.00 409.00
-
-<!-- marginal: 500.00 -->
+From 4,520.01 to 4,540.00 409.00 500.00
 
 <!-- marginal: 909.00 -->
 
-From 4,540.01 to 4,560.00 411.00
-
-<!-- marginal: 502.00 -->
+From 4,540.01 to 4,560.00 411.00 502.00
 
 <!-- marginal: 913.00 -->
 
-From 4,560.01 to 4,580.00 413.00
-
-<!-- marginal: 504.00 -->
+From 4,560.01 to 4,580.00 413.00 504.00
 
 <!-- marginal: 917.00 -->
 
-From 4,580.01 to 4,600.00 414.00
-
-<!-- marginal: 506.00 -->
+From 4,580.01 to 4,600.00 414.00 506.00
 
 <!-- marginal: 920.00 -->
 
-From 4,600.01 to 4,620.00 416.00
-
-<!-- marginal: 509.00 -->
+From 4,600.01 to 4,620.00 416.00 509.00
 
 <!-- marginal: 925.00 -->
 
-From 4,620.01 to 4,640.00 418.00
-
-<!-- marginal: 511.00 -->
+From 4,620.01 to 4,640.00 418.00 511.00
 
 <!-- marginal: 929.00 -->
 
-From 4,640.01 to 4,660.00 420.00
-
-<!-- marginal: 513.00 -->
+From 4,640.01 to 4,660.00 420.00 513.00
 
 <!-- marginal: 933.00 -->
 
-From 4,660.01 to 4,680.00 422.00
-
-<!-- marginal: 515.00 -->
+From 4,660.01 to 4,680.00 422.00 515.00
 
 <!-- marginal: 937.00 -->
 
-From 4,680.01 to 4,700.00 423.00
-
-<!-- marginal: 517.00 -->
+From 4,680.01 to 4,700.00 423.00 517.00
 
 <!-- marginal: 940.00 -->
 
-From 4,700.01 to 4,720.00 425.00
-
-<!-- marginal: 520.00 -->
+From 4,700.01 to 4,720.00 425.00 520.00
 
 <!-- marginal: 945.00 -->
 
-From 4,720.01 to 4,740.00 427.00
-
-<!-- marginal: 522.00 -->
+From 4,720.01 to 4,740.00 427.00 522.00
 
 <!-- marginal: 949.00 -->
 
-From 4,740.01 to 4,760.00 429.00
-
-<!-- marginal: 524.00 -->
+From 4,740.01 to 4,760.00 429.00 524.00
 
 <!-- marginal: 953.00 -->
 
-From 4,760.01 to 4,780.00 431.00
-
-<!-- marginal: 526.00 -->
+From 4,760.01 to 4,780.00 431.00 526.00
 
 <!-- marginal: 957.00 -->
 
-From 4,780.01 to 4,800.00 423.00
-
-<!-- marginal: 528.00 -->
+From 4,780.01 to 4,800.00 423.00 528.00
 
 <!-- marginal: 960.00 -->
 
-From 4,800.01 to 4,820.00 434.00
-
-<!-- marginal: 531.00 -->
+From 4,800.01 to 4,820.00 434.00 531.00
 
 <!-- marginal: 965.00 -->
 
-From 4.820.01 to 4,840.00 436.00
-
-<!-- marginal: 533.00 -->
+From 4.820.01 to 4,840.00 436.00 533.00
 
 <!-- marginal: 969.00 -->
 
-From 4,840.01 to 4,860.00 438.00
-
-<!-- marginal: 535.00 -->
+From 4,840.01 to 4,860.00 438.00 535.00
 
 <!-- marginal: 973.00 -->
 
-From 4,860.01 to 4,880.00 440.00
-
-<!-- marginal: 537.00 -->
+From 4,860.01 to 4,880.00 440.00 537.00
 
 <!-- marginal: 977.00 -->
 
-From 4,880.01 to 4,900.00 441.00
-
-<!-- marginal: 539.00 -->
+From 4,880.01 to 4,900.00 441.00 539.00
 
 <!-- marginal: 980.00 -->
 
@@ -3534,17 +4254,11 @@ From 11,600.01 to 11,700.00 1,053.00 1,287.00
 
 ## FOR THE MONTH
 
-By the
-
-<!-- marginal: By the -->
+By the By the
 
 <!-- marginal: Total -->
 
-Employee
-
-<!-- marginal: Employer Contributions -->
-
-Wages
+Employee Employer Contributions Wages
 
 From 11,700.01 to 11,800.00 1,062.00 1,298.00
 
@@ -3554,9 +4268,7 @@ From 11,800.01 to 11,900.00 1,071.00 1,309.00
 
 <!-- marginal: 2,380.00 -->
 
-From 11,900.01 to 12,000.00 1,080.00
-
-<!-- marginal: 1,320.00 -->
+From 11,900.01 to 12,000.00 1,080.00 1,320.00
 
 <!-- marginal: 2,400.00 -->
 
@@ -3700,9 +4412,7 @@ From 15,200.01 to 15,300.00 1,377.00 1,683.00
 
 ## FOR THE MONTH
 
-By The
-
-<!-- marginal: By the -->
+By The By the
 
 <!-- marginal: Total -->
 
@@ -3712,9 +4422,7 @@ From 15,300.01 to 15,400.00 1,386.00 1,694.00
 
 <!-- marginal: 3,080.00 -->
 
-From 15,400.01 to 15,500.00 1,395.00
-
-<!-- marginal: 1,705.00 -->
+From 15,400.01 to 15,500.00 1,395.00 1,705.00
 
 <!-- marginal: 3,100.00 -->
 
@@ -3778,9 +4486,7 @@ From 16.900.01 to 17,000.00 1,530.00 1,870.00
 
 <!-- marginal: 3,400.00 -->
 
-From 17,000.01 to 17,100.00 1,539.00
-
-<!-- marginal: 1,881.00 -->
+From 17,000.01 to 17,100.00 1,539.00 1,881.00
 
 <!-- marginal: 3,420.00 -->
 
@@ -3816,9 +4522,7 @@ From 17,800.01 to 17.900.00 1,611.00 1,969.00
 
 <!-- marginal: 3,580.00 -->
 
-From 17,900.01 to 18,000.00 1,620.00
-
-<!-- marginal: 1,980.00 -->
+From 17,900.01 to 18,000.00 1,620.00 1,980.00
 
 <!-- marginal: 3,600.00 -->
 
@@ -3866,9 +4570,7 @@ From 18,800.01 to 18,900.00 1,701.00 2,079.00
 
 ## FOR THE MONTH
 
-By the
-
-<!-- marginal: By the -->
+By the By the
 
 <!-- marginal: Total -->
 
@@ -3990,7 +4692,9 @@ I
 
 ## PART
 
-II 5. Part II relates to the establishment of the "Employees Provident Fund Board" and the "Investment Panel".
+II
+
+5. Part II relates to the establishment of the "Employees Provident Fund Board" and the "Investment Panel".
 
 6. Clause 3 provides for the establishment of the Board which shall be a body corporate called "Employees Provident Fund Board".
 
@@ -4042,7 +4746,9 @@ II 5. Part II relates to the establishment of the "Employees Provident Fund Boar
 
 ## PART
 
-IV 27. Part IV relates to appointment of officers and servants, their powers, functions and duties.
+IV
+
+27. Part IV relates to appointment of officers and servants, their powers, functions and duties.
 
 28. Clause 30 deals with the appointment of the General Manager and other officers and servants of the Board. Clause 30 (2) seeks to provide that where no appointment of the General Manager is made under subclause (1) the Chairman shall be the General Manager.
 

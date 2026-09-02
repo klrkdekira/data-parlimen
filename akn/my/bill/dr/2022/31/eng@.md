@@ -20,11 +20,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ### New Part IIIa
 
-2. The Sales Tax Act 2018 [Act 806], which is referred to as the “principal Act” in this Act, is amended by inserting after
+2. The Sales Tax Act 2018 [Act 806], which is referred to as the “principal Act” in this Act, is amended by inserting after Part III the following part:
 
-## Part III the following part:
-
-“Part IIIa
+## “PART IIIA
 
 ## IMPOSITION OF SALES TAX ON LOW VALUE GOODS
 
@@ -126,7 +124,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 8. The principal Act is amended by inserting after section 109 the following schedule:
 
-“Schedule
+## “SCHEDULE
 
 [Section 11b]
 
@@ -140,9 +138,13 @@ Section 2 In the definition of “taxable person”, substitute for the words �
 
 <!-- page 6 -->
 
-Provisions of this Act Modifications
+<!-- marginal: Provisions of this Act -->
 
-Section 8 Substitute for section 8 the following section:
+Modifications
+
+<!-- marginal: Section 8 -->
+
+Substitute for section 8 the following section:
 
 ### “Imposition and scope of sales tax
 
@@ -162,13 +164,17 @@ Section 8 Substitute for section 8 the following section:
 
 (5) Where there is any inconsistency between the provisions of the Customs Act 1967 or the Excise Act 1976 and the provisions of this Act, the provisions of this Act shall prevail.”.
 
-Section 9 Substitute for section 9 the following section:
+<!-- marginal: Section 9 -->
+
+Substitute for section 9 the following section:
 
 ### “Determination of sale value of low value goods
 
 9. The sale value of low value goods on which sales tax is payable shall be the price of low value goods not including any tax, fee or other charges imposed on the low value goods.”.
 
-Section 10 1. In subsection (1)—
+<!-- marginal: Section 10 -->
+
+1. In subsection (1)—
 
 (a) substitute for the words “the taxable goods sold, used or disposed of or imported” the words “the low value goods sold”; and
 
@@ -178,9 +184,13 @@ Section 10 1. In subsection (1)—
 
 <!-- page 7 -->
 
-Provisions of this Act Modifications
+<!-- marginal: Provisions of this Act -->
 
-Section 11 Substitute for section 11 the following section:
+Modifications
+
+<!-- marginal: Section 11 -->
+
+Substitute for section 11 the following section:
 
 ### “Sales tax due
 
@@ -188,21 +198,39 @@ Section 11 Substitute for section 11 the following section:
 
 ## Part IV
 
-1. Substitute for the words “taxable goods” the words (except as “low value goods”. otherwise provided) 2. Substitute for the word “manufacturer” the word “seller”.
+1. Substitute for the words “taxable goods” the words
+
+<!-- marginal: (except as -->
+
+“low value goods”.
+
+<!-- marginal: otherwise -->
+
+<!-- marginal: provided) -->
+
+2. Substitute for the word “manufacturer” the word “seller”.
 
 3. Substitute for the words “registered manufacturer” the words “registered seller”.
 
 4. Substitute for the word “manufacture” the word “sell”.
 
-Section 12 1. In paragraph 3(b), substitute for the words “the manufacturer’s registration” the words “the seller’s registration”.
+<!-- marginal: Section 12 -->
+
+1. In paragraph 3(b), substitute for the words “the manufacturer’s registration” the words “the seller’s registration”.
 
 2. Delete subsection (4).
 
-Section 17 Substitute for the word “manufacturing” the word “selling”.
+<!-- marginal: Section 17 -->
 
-Section 18 Substitute for the words “section 13 or 14” the words “section 13”.
+Substitute for the word “manufacturing” the word “selling”.
 
-Section 19 1. In subsection (1), substitute for the words “the manufacturer’s registration” the words “the seller’s registration”.
+<!-- marginal: Section 18 -->
+
+Substitute for the words “section 13 or 14” the words “section 13”.
+
+<!-- marginal: Section 19 -->
+
+1. In subsection (1), substitute for the words “the manufacturer’s registration” the words “the seller’s registration”.
 
 2. Substitute for subsection (3) the following subsection:
 
@@ -212,17 +240,31 @@ Section 19 1. In subsection (1), substitute for the words “the manufacturer’
 
 <!-- page 8 -->
 
-Provisions of this Act Modifications
+<!-- marginal: Provisions of this Act -->
+
+Modifications
 
 ## Part V
 
-1. Substitute for the words “taxable goods” the words (except as “low value goods”. otherwise provided) 2. Substitute for the word “manufacturer” the word “seller”.
+1. Substitute for the words “taxable goods” the words
+
+<!-- marginal: (except as -->
+
+“low value goods”.
+
+<!-- marginal: otherwise -->
+
+<!-- marginal: provided) -->
+
+2. Substitute for the word “manufacturer” the word “seller”.
 
 3. Substitute for the words “registered manufacturer” the words “registered seller”.
 
 4. Substitute for the word “manufacture” the word “sell”.
 
-Section 21 1. Substitute for the shoulder note the following shoulder note:
+<!-- marginal: Section 21 -->
+
+1. Substitute for the shoulder note the following shoulder note:
 
 ### “Invoice and document”.
 
@@ -230,19 +272,25 @@ Section 21 1. Substitute for the shoulder note the following shoulder note:
 
 3. In subsection (2), substitute for the words “No invoice” the words “No invoice or document”.
 
-Section 22 1. Substitute for the shoulder note the following shoulder note:
+<!-- marginal: Section 22 -->
+
+1. Substitute for the shoulder note the following shoulder note:
 
 ### “Production of invoice or document by computer”.
 
 2. Substitute for the words “For the purposes of any provision under this Act relating to an invoice, a registered manufacturer shall be treated as having issued an invoice to a purchaser” the words “For the purposes of any provision under this Act relating to an invoice or a document issued under subsection 21(1), a registered seller shall be treated as having issued an invoice or a document under subsection 21(1) to a purchaser”.
 
-Section 24 1. Substitute for subsection (1) the following subsection:
+<!-- marginal: Section 24 -->
+
+1. Substitute for subsection (1) the following subsection:
 
 “(1) Each taxable person shall keep up to date complete and true written records of all transactions which affect or may affect his liability to sales tax.”.
 
 <!-- page 9 -->
 
-Provisions of this Act Modifications
+<!-- marginal: Provisions of this Act -->
+
+Modifications
 
 2. Substitute for subsection (2) the following subsection:
 
@@ -250,41 +298,59 @@ Provisions of this Act Modifications
 
 3. Delete subsection (4).
 
-4. In subsection (6), substitute for the words “subsection (1), (2), (3) or (4)” the words “subsection (1), (2) or (3)”.
+4. In subsection (6), substitute for the words “subsection (1), (2), (3) or (4)” the words “subsection (1),
 
-Section 25 1. In subsection (1), substitute for the words “two months” the words “three months”.
+(2) or (3)”.
+
+<!-- marginal: Section 25 -->
+
+1. In subsection (1), substitute for the words “two months” the words “three months”.
 
 2. Delete subsection (2).
 
 3. In subsection (5), substitute for the words “subsection (1), (2) or (4)” the words “subsection (1) or (4)”.
 
-Section 26 1. Delete subsection (4).
+<!-- marginal: Section 26 -->
+
+1. Delete subsection (4).
 
 2. In subsection (6), substitute for the words “subsections (1), (2), (3) and (4)” the words “subsections (1), (2) and (3)”.
 
 3. In subsection (7), substitute for the words “subsection (1), (2), (3) or (4)” the words “subsection (1), (2) or (3)”.
 
-Section 27 1. Delete subsections (4), (5) and (6).
+<!-- marginal: Section 27 -->
+
+1. Delete subsections (4), (5) and (6).
 
 2. In subsection (8), substitute for the words “under subsection (1), (2), (4), (6) or (7)” the words “under subsection (1), (2) or (7)”.
 
 3. In subsection (9), substitute for the words “under subsection (1), (2), (6) or (8)” the words “under subsection (1), (2) or (8)”.
 
-Section 28 1. Substitute the words “the invoice” the words “the invoice or document”.
+<!-- marginal: Section 28 -->
+
+1. Substitute the words “the invoice” the words “the invoice or document”.
 
 <!-- page 10 -->
 
-Provisions of this Act Modifications
+<!-- marginal: Provisions of this Act -->
+
+Modifications
 
 2. In subsection (2), substitute for the words “an invoice” the words “an invoice or a document”.
 
 3. In subsection (3), substitute for the words “is an invoice” the words “is an invoice or a document”.
 
-Section 29 Delete subsection (2).
+<!-- marginal: Section 29 -->
 
-Section 31 In subsection (3), insert after the words “registered post” the words “or by electronic means”.
+Delete subsection (2).
 
-Section 33 Substitute for section 33 the following section:
+<!-- marginal: Section 31 -->
+
+In subsection (3), insert after the words “registered post” the words “or by electronic means”.
+
+<!-- marginal: Section 33 -->
+
+Substitute for section 33 the following section:
 
 ### “Low value goods subject to customs or excise
 
@@ -304,61 +370,109 @@ no person shall be entitled to obtain delivery of such low value goods from cust
 
 ## Part VI
 
-Substitute for the words “registered manufacturer” (except as the words “registered seller”. otherwise provided)
+Substitute for the words “registered manufacturer”
 
-Section 35a In subsection (1), substitute for the words “refund of sales tax under paragraph 35(3)(c) or has made a deduction under section 23 or 41a” the words “refund of sales tax under section 39”.
+<!-- marginal: (except as -->
+
+the words “registered seller”.
+
+<!-- marginal: otherwise -->
+
+<!-- marginal: provided) -->
+
+<!-- marginal: Section 35a -->
+
+In subsection (1), substitute for the words “refund of sales tax under paragraph 35(3)(c) or has made a deduction under section 23 or 41a” the words “refund of sales tax under section 39”.
 
 <!-- page 11 -->
 
-Provisions of this Act Modifications
+<!-- marginal: Provisions of this Act -->
 
-Section 39 Substitute for subsections (1) and (2) the following subsections:
+Modifications
+
+<!-- marginal: Section 39 -->
+
+Substitute for subsections (1) and (2) the following subsections:
 
 “(1) The refund of whole or any part of the amount of sales tax, which has been paid to the Director General by the registered seller, may be made or claimed under prescribed circumstances.
 
 (2) Notwithstanding subsection (1), the Director General may withhold the whole or any part of the amount to be refunded under subsection (1) to be credited to any following or subsequent taxable period and the Director General shall treat the amount credited as payment or part payment received from the registered seller.”.
 
-Section 62 In subsection (3), substitute for the words “require the supplier or, on the supplier’s default” the words “require the seller or, on the seller’s default”.
+<!-- marginal: Section 62 -->
 
-Section 64 1. Substitute for the words “manufacturer or importer” the words “manufacturer, importer or seller”.
+In subsection (3), substitute for the words “require the supplier or, on the supplier’s default” the words “require the seller or, on the seller’s default”.
+
+<!-- marginal: Section 64 -->
+
+1. Substitute for the words “manufacturer or importer” the words “manufacturer, importer or seller”.
 
 2. Substitute for the words “taxable goods” the words “low value goods”.
 
-Section 69 In subsection (1), substitute for the words “section 13 and 14” the words “section 13”.
+<!-- marginal: Section 69 -->
 
-Section 70 In subsection (1), substitute for the words “taxable goods” the words “low value goods”.
+In subsection (1), substitute for the words “section 13 and 14” the words “section 13”.
 
-Section 74 1. In paragraph (1)(a), substitute for the word “manufacturer” the word “seller”.
+<!-- marginal: Section 70 -->
+
+In subsection (1), substitute for the words “taxable goods” the words “low value goods”.
+
+<!-- marginal: Section 74 -->
+
+1. In paragraph (1)(a), substitute for the word “manufacturer” the word “seller”.
 
 2. In paragraph (1)(e), delete the words “or customs ruling is made under section 43”.
 
-Section 83 In paragraph (c), substitute for the words “taxable goods” the words “low value goods”.
+<!-- marginal: Section 83 -->
+
+In paragraph (c), substitute for the words “taxable goods” the words “low value goods”.
 
 <!-- page 12 -->
 
-Provisions of this Act Modifications
+<!-- marginal: Provisions of this Act -->
+
+Modifications
 
 ## Part XII
 
-1. Substitute for the words “taxable goods” the words (except as “low value goods”. otherwise provided) 2. Substitute for the word “manufacturer” the word “seller”.
+1. Substitute for the words “taxable goods” the words
+
+<!-- marginal: (except as -->
+
+“low value goods”.
+
+<!-- marginal: otherwise -->
+
+<!-- marginal: provided) -->
+
+2. Substitute for the word “manufacturer” the word “seller”.
 
 3. Substitute for the words “registered manufacturer” the words “registered seller”.
 
 4. Substitute for the word “manufacture” the word “sell”.
 
-Section 86a 1. Substitute for the shoulder note the following shoulder note:
+<!-- marginal: Section 86a -->
+
+1. Substitute for the shoulder note the following shoulder note:
 
 ### “Evasion of sales tax on low value goods”.
 
 2. In subsection (1), substitute for the words “importation of taxable goods” the words “low value goods sold”.
 
-Section 88 Substitute for the words “section 10, 36 or 39” the words “section 39”.
+<!-- marginal: Section 88 -->
 
-Section 88a Substitute for the words “section 23, 35a or 41a” the words “section 35a”.
+Substitute for the words “section 10, 36 or 39” the words “section 39”.
 
-Section 98 In subsection (1), substitute for the words “the taxable goods that have been sold, manufactured, purchased or acquired” the words “the low value goods that have been sold”.
+<!-- marginal: Section 88a -->
 
-Section 99 1. Substitute for the shoulder note the following shoulder note:
+Substitute for the words “section 23, 35a or 41a” the words “section 35a”.
+
+<!-- marginal: Section 98 -->
+
+In subsection (1), substitute for the words “the taxable goods that have been sold, manufactured, purchased or acquired” the words “the low value goods that have been sold”.
+
+<!-- marginal: Section 99 -->
+
+1. Substitute for the shoulder note the following shoulder note:
 
 ### “Registered seller to submit audit certificate”.
 

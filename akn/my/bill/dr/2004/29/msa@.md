@@ -86,4 +86,4 @@ the Penang Port Commission Act 1955 ("Act 140").
 
 This Bill will not involve the Government in any extra financial expenditure.
 
-[PN(U2)2443]
+<!-- marginal: [PN(U2)2443] -->

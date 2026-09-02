@@ -6,13 +6,27 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
-1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran 3. Takrif “perbadanan” 4. Takrif “subsidiari dan syarikat pemegangan” 5. Takrif “syarikat pemegangan muktamad” 6. Takrif “subsidiari milik penuh” 7. Bila perbadanan disifatkan berkaitan antara satu sama lain 8. Kepentingan dalam syer
+1. Tajuk ringkas dan permulaan kuat kuasa
 
-## Bahagian II
+2. Tafsiran
+
+3. Takrif “perbadanan”
+
+4. Takrif “subsidiari dan syarikat pemegangan”
+
+5. Takrif “syarikat pemegangan muktamad”
+
+6. Takrif “subsidiari milik penuh”
+
+7. Bila perbadanan disifatkan berkaitan antara satu sama lain
+
+8. Kepentingan dalam syer
+
+## BAHAGIAN II
 
 ## PEMBENTUKAN DAN PENTADBIRAN SYARIKAT
 
@@ -20,13 +34,23 @@ Penggal 1
 
 Jenis Syarikat
 
-9. Kehendak utama syarikat 10. Jenis syarikat 11. Syarikat persendirian atau syarikat awam 12. Larangan ke atas syarikat berhad menurut jaminan dengan modal syer 13. Larangan bagi persatuan tidak diperbadankan, dsb.
+9. Kehendak utama syarikat
+
+10. Jenis syarikat
+
+11. Syarikat persendirian atau syarikat awam
+
+12. Larangan ke atas syarikat berhad menurut jaminan dengan modal syer
+
+13. Larangan bagi persatuan tidak diperbadankan, dsb.
 
 Penggal 2
 
 Pemerbadanan dan Kesannya
 
-14. Permohonan bagi pemerbadanan 15. Pendaftaran bagi pemerbadanan
+14. Permohonan bagi pemerbadanan
+
+15. Pendaftaran bagi pemerbadanan
 
 <!-- page 4 -->
 
@@ -88,25 +112,55 @@ Perlembagaan Syarikat
 
 <!-- page 5 -->
 
-38. Syarikat berhad menurut jaminan hendaklah mempunyai perlembagaan 39. Ketidakpakaian doktrin notis konstruktif
+38. Syarikat berhad menurut jaminan hendaklah mempunyai perlembagaan
+
+39. Ketidakpakaian doktrin notis konstruktif
 
 Penggal 6
 
 Pertukaran Status Syarikat
 
-40. Pertukaran daripada syarikat tidak berhad kepada syarikat berhad 41. Pertukaran daripada syarikat awam kepada syarikat persendirian atau syarikat persendirian kepada syarikat awam
+40. Pertukaran daripada syarikat tidak berhad kepada syarikat berhad
+
+41. Pertukaran daripada syarikat awam kepada syarikat persendirian atau syarikat persendirian kepada syarikat awam
 
 Penggal 7
 
 Peruntukan yang Terpakai bagi Jenis Syarikat Tertentu
 
-42. Syarikat persendirian 43. Larangan terhadap syarikat persendirian untuk menawarkan syer atau debentur atau mempelawa untuk mendepositkan wang 44. Tawaran kepada orang awam 45. Syarikat berhad menurut jaminan
+42. Syarikat persendirian
+
+43. Larangan terhadap syarikat persendirian untuk menawarkan syer atau debentur atau mempelawa untuk mendepositkan wang
+
+44. Tawaran kepada orang awam
+
+45. Syarikat berhad menurut jaminan
 
 Penggal 8
 
 Pejabat Berdaftar dan Daftar
 
-46. Pejabat berdaftar dan waktu pejabat 47. Dokumen hendaklah disimpan di pejabat berdaftar 48. Pemeriksaan dokumen dan rekod yang disimpan oleh syarikat 49. Bentuk dokumen dan cara lain merekodkan dokumen 50. Daftar anggota 51. Kewajipan untuk memberitahu butir-butir dan pertukaran dalam daftar anggota 52. Indeks anggota syarikat 53. Daftar cawangan anggota 54. Tempat di mana daftar anggota dan indeks disimpan 55. Pemeriksaan dan penutupan daftar anggota dan indeks 56. Kuasa syarikat untuk menghendaki penzahiran kepentingan benefisial dalam syer mengundinya
+46. Pejabat berdaftar dan waktu pejabat
+
+47. Dokumen hendaklah disimpan di pejabat berdaftar
+
+48. Pemeriksaan dokumen dan rekod yang disimpan oleh syarikat
+
+49. Bentuk dokumen dan cara lain merekodkan dokumen
+
+50. Daftar anggota
+
+51. Kewajipan untuk memberitahu butir-butir dan pertukaran dalam daftar anggota
+
+52. Indeks anggota syarikat
+
+53. Daftar cawangan anggota
+
+54. Tempat di mana daftar anggota dan indeks disimpan
+
+55. Pemeriksaan dan penutupan daftar anggota dan indeks
+
+56. Kuasa syarikat untuk menghendaki penzahiran kepentingan benefisial dalam syer mengundinya
 
 <!-- page 6 -->
 
@@ -142,7 +196,7 @@ Penyata tahunan
 
 68. Kewajipan untuk menyerah simpan penyata tahunan
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PENGURUSAN SYARIKAT
 
@@ -162,13 +216,67 @@ Subpenggal 1 Modal Syer
 
 <!-- page 7 -->
 
-74. Tiada nilai tara syer 75. Penjalanan kuasa pengarah untuk mengumpukkan syer atau memberikan hak 76. Pengumpukan syer atau pemberian hak dengan kelulusan syarikat 77. Pendaftaran pengumpukan dalam daftar anggota 78. Penyata pengumpukan 79. Larangan am mengenai komisen, diskaun dan elaun 80. Komisen yang dibenarkan 81. Perbezaan antara panggilan dengan pembayaran, dsb. 82. Panggilan ke atas syer 83. Pelucuthakan syer 84. Kuasa syarikat untuk mengubah modal syernya 85. Hak beli dahulu syer baru 86. Penukaran syer kepada saham 87. Hak dan keistimewaan pemegang saham 88. Hak yang terikat pada syer 89. Kelas syer 90. Perihalan syer kelas yang berlainan 91. Pengubahan hak kelas 92. Memberitahu pemegang syer tentang pengubahan 93. Ketidakbenaran atau pengesahan pengubahan oleh Mahkamah 94. Penghantarserahan perintah Mahkamah kepada Pendaftar 95. Memberitahu Pendaftar tentang pengubahan 96. Pengubahan termasuk pembatalan
+74. Tiada nilai tara syer
+
+75. Penjalanan kuasa pengarah untuk mengumpukkan syer atau memberikan hak
+
+76. Pengumpukan syer atau pemberian hak dengan kelulusan syarikat
+
+77. Pendaftaran pengumpukan dalam daftar anggota
+
+78. Penyata pengumpukan
+
+79. Larangan am mengenai komisen, diskaun dan elaun
+
+80. Komisen yang dibenarkan
+
+81. Perbezaan antara panggilan dengan pembayaran, dsb.
+
+82. Panggilan ke atas syer
+
+83. Pelucuthakan syer
+
+84. Kuasa syarikat untuk mengubah modal syernya
+
+85. Hak beli dahulu syer baru
+
+86. Penukaran syer kepada saham
+
+87. Hak dan keistimewaan pemegang saham
+
+88. Hak yang terikat pada syer
+
+89. Kelas syer
+
+90. Perihalan syer kelas yang berlainan
+
+91. Pengubahan hak kelas
+
+92. Memberitahu pemegang syer tentang pengubahan
+
+93. Ketidakbenaran atau pengesahan pengubahan oleh Mahkamah
+
+94. Penghantarserahan perintah Mahkamah kepada Pendaftar
+
+95. Memberitahu Pendaftar tentang pengubahan
+
+96. Pengubahan termasuk pembatalan
 
 Subpenggal 2
 
 Perakuan, Hakmilik, Pemindahmilikan dan Pemindahan Syer
 
-97. Pengeluaran perakuan syer 98. Permohonan bagi pengeluaran perakuan syer 99. Penghantarserahan perakuan syer 100. Penomboran syer 101. Pendaftaran anggota menjadi keterangan hakmilik di sisi undang-undang 102. Kewajipan setiausaha untuk mencatatkan pengeluaran dan pemindahmilikan syer dalam daftar anggota
+97. Pengeluaran perakuan syer
+
+98. Permohonan bagi pengeluaran perakuan syer
+
+99. Penghantarserahan perakuan syer
+
+100. Penomboran syer
+
+101. Pendaftaran anggota menjadi keterangan hakmilik di sisi undang-undang
+
+102. Kewajipan setiausaha untuk mencatatkan pengeluaran dan pemindahmilikan syer dalam daftar anggota
 
 <!-- page 8 -->
 
@@ -232,19 +340,53 @@ Bantuan oleh Syarikat bagi Pembelian Syernya Sendiri
 
 <!-- page 9 -->
 
-126. Bantuan kewangan yang tidak melebihi sepuluh peratus dana pemegang syer 127. Pembelian oleh syarikat atas syernya sendiri, dsb. 128. Opsyen untuk mengambil syer tidak dikeluarkan 129. Daftar opsyen untuk mengambil syer tidak dikeluarkan dalam syarikat 130. Kuasa syarikat untuk membayar faedah daripada modal dalam hal tertentu
+126. Bantuan kewangan yang tidak melebihi sepuluh peratus dana pemegang syer
+
+127. Pembelian oleh syarikat atas syernya sendiri, dsb.
+
+128. Opsyen untuk mengambil syer tidak dikeluarkan
+
+129. Daftar opsyen untuk mengambil syer tidak dikeluarkan dalam syarikat
+
+130. Kuasa syarikat untuk membayar faedah daripada modal dalam hal tertentu
 
 Subpenggal 6
 
 Dividen
 
-131. Pengagihan daripada keuntungan 132. Pengagihan hanya jika syarikat solven 133. Mendapatkan balik pengagihan
+131. Pengagihan daripada keuntungan
+
+132. Pengagihan hanya jika syarikat solven
+
+133. Mendapatkan balik pengagihan
 
 Subpenggal 7
 
 Pemegangan Syer Substansial
 
-134. Pemakaian dan tafsiran 135. Orang yang bertanggungan untuk mematuhi Subpenggal 136. Pemegangan syer substansial dan pemegang syer substansial 137. Pemegang syer substansial hendaklah memberitahu syarikat mengenai kepentingannya 138. Pemegang syer substansial hendaklah memberitahu syarikat tentang perubahan kepentingannya 139. Orang yang terhenti menjadi pemegang syer substansial hendaklah memberitahu syarikat 140. Sebutan mengenai pengendalian kepentingan dalam syer 141. Salinan notis hendaklah disampaikan kepada Pendaftar 142. Notis kepada bukan pemastautin 143. Pendaftar boleh melanjutkan masa bagi pemberian notis di bawah Subpenggal ini 144. Syarikat hendaklah menyimpan dan menyenggara daftar pemegang syer substansial 145. Kuasa Mahkamah berkenaan dengan keingkaran pemegang syer substansial
+134. Pemakaian dan tafsiran
+
+135. Orang yang bertanggungan untuk mematuhi Subpenggal
+
+136. Pemegangan syer substansial dan pemegang syer substansial
+
+137. Pemegang syer substansial hendaklah memberitahu syarikat mengenai kepentingannya
+
+138. Pemegang syer substansial hendaklah memberitahu syarikat tentang perubahan kepentingannya
+
+139. Orang yang terhenti menjadi pemegang syer substansial hendaklah memberitahu syarikat
+
+140. Sebutan mengenai pengendalian kepentingan dalam syer
+
+141. Salinan notis hendaklah disampaikan kepada Pendaftar
+
+142. Notis kepada bukan pemastautin
+
+143. Pendaftar boleh melanjutkan masa bagi pemberian notis di bawah Subpenggal ini
+
+144. Syarikat hendaklah menyimpan dan menyenggara daftar pemegang syer substansial
+
+145. Kuasa Mahkamah berkenaan dengan keingkaran pemegang syer substansial
 
 <!-- page 10 -->
 
@@ -310,7 +452,9 @@ Prospektus
 
 Subpenggal 10
 
-Debentur 171. Pemakaian Subpenggal 10
+Debentur
+
+171. Pemakaian Subpenggal 10
 
 172. Pelaksanaan spesifik kontrak
 
@@ -344,7 +488,17 @@ Subpenggal 11
 
 Sekatan ke atas Pengumpukan dan Permulaan Perniagaan
 
-186. Larangan bagi pengumpukan melainkan jika langganan minimum diterima 187. Permohonan wang hendaklah dipegang sebagai amanah sehingga pengumpukan 188. Sekatan ke atas pengumpukan dalam hal tertentu 189. Kehendak mengenai pernyataan sebagai ganti prospektus 190. Sekatan ke atas permulaan perniagaan dalam hal keadaan tertentu 191. Sekatan ke atas pengubahan kontrak yang disebut dalam prospektus, dsb.
+186. Larangan bagi pengumpukan melainkan jika langganan minimum diterima
+
+187. Permohonan wang hendaklah dipegang sebagai amanah sehingga pengumpukan
+
+188. Sekatan ke atas pengumpukan dalam hal tertentu
+
+189. Kehendak mengenai pernyataan sebagai ganti prospektus
+
+190. Sekatan ke atas permulaan perniagaan dalam hal keadaan tertentu
+
+191. Sekatan ke atas pengubahan kontrak yang disebut dalam prospektus, dsb.
 
 <!-- page 12 -->
 
@@ -400,7 +554,57 @@ Pengarah
 
 Subpenggal 3
 
-Kewajipan dan Tanggungjawab Pengarah 210. Tafsiran 211. Fungsi Lembaga 212. Prosiding Lembaga 213. Kewajipan dan tanggungjawab pengarah 214. Kaedah pertimbangan perniagaan 215. Pergantungan pada maklumat yang diberikan oleh orang lain 216. Tanggungjawab bagi tindakan pewakilan 217. Tanggungjawab pengarah nomini 218. Larangan terhadap penggunaan tidak wajar harta, jawatan, dsb. 219. Kewajipan am untuk membuat penzahiran 220. Kesan rukun undang-undang lain ke atas kewajipan pengarah 221. Penzahiran kepentingan dalam kontrak, kontrak yang dicadangkan, harta, jawatan, dsb. 222. Pengarah yang berkepentingan tidak boleh mengambil bahagian atau mengundi 223. Kelulusan syarikat dikehendaki bagi pelupusan pengusahaan atau harta syarikat oleh pengarah 224. Pinjaman kepada pengarah 225. Larangan memberi pinjaman kepada orang yang berkaitan dengan pengarah 226. Larangan terhadap bayaran bebas cukai kepada pengarah 227. Bayaran kepada pengarah kerana hilang jawatan, dsb. 228. Transaksi dengan pengarah, pemegang syer substansial atau orang yang berkaitan 229. Kecualian bagi seksyen 228 230. Kelulusan bagi fi pengarah 231. Kontrak perkhidmatan pengarah 232. Salinan kontrak hendaklah tersedia bagi pemeriksaan 233. Hak anggota untuk memeriksa dan meminta salinan 234. Kontrak dengan anggota tunggal yang juga merupakan pengarah
+Kewajipan dan Tanggungjawab Pengarah
+
+210. Tafsiran
+
+211. Fungsi Lembaga
+
+212. Prosiding Lembaga
+
+213. Kewajipan dan tanggungjawab pengarah
+
+214. Kaedah pertimbangan perniagaan
+
+215. Pergantungan pada maklumat yang diberikan oleh orang lain
+
+216. Tanggungjawab bagi tindakan pewakilan
+
+217. Tanggungjawab pengarah nomini
+
+218. Larangan terhadap penggunaan tidak wajar harta, jawatan, dsb.
+
+219. Kewajipan am untuk membuat penzahiran
+
+220. Kesan rukun undang-undang lain ke atas kewajipan pengarah
+
+221. Penzahiran kepentingan dalam kontrak, kontrak yang dicadangkan, harta, jawatan, dsb.
+
+222. Pengarah yang berkepentingan tidak boleh mengambil bahagian atau mengundi
+
+223. Kelulusan syarikat dikehendaki bagi pelupusan pengusahaan atau harta syarikat oleh pengarah
+
+224. Pinjaman kepada pengarah
+
+225. Larangan memberi pinjaman kepada orang yang berkaitan dengan pengarah
+
+226. Larangan terhadap bayaran bebas cukai kepada pengarah
+
+227. Bayaran kepada pengarah kerana hilang jawatan, dsb.
+
+228. Transaksi dengan pengarah, pemegang syer substansial atau orang yang berkaitan
+
+229. Kecualian bagi seksyen 228
+
+230. Kelulusan bagi fi pengarah
+
+231. Kontrak perkhidmatan pengarah
+
+232. Salinan kontrak hendaklah tersedia bagi pemeriksaan
+
+233. Hak anggota untuk memeriksa dan meminta salinan
+
+234. Kontrak dengan anggota tunggal yang juga merupakan pengarah
 
 <!-- page 14 -->
 
@@ -464,25 +668,49 @@ Penyata Kewangan dan Laporan
 
 <!-- page 15 -->
 
-258. Masa yang dibenarkan untuk menghantar salinan penyata kewangan dan laporan 259. Kewajipan untuk menyerah simpan penyata kewangan dan laporan dengan Pendaftar 260. Kewajipan untuk menyerah simpan perakuan yang berhubungan dengan syarikat persendirian terkecuali 261. Pernyataan juruaudit
+258. Masa yang dibenarkan untuk menghantar salinan penyata kewangan dan laporan
+
+259. Kewajipan untuk menyerah simpan penyata kewangan dan laporan dengan Pendaftar
+
+260. Kewajipan untuk menyerah simpan perakuan yang berhubungan dengan syarikat persendirian terkecuali
+
+261. Pernyataan juruaudit
 
 Subpenggal 2
 
 Juruaudit
 
-262. Takrif “juruaudit yang akan tamat tempoh jawatan” 263. Juruaudit syarikat hendaklah diluluskan oleh Menteri yang dipertanggungkan dengan tanggungjawab bagi kewangan 264. Juruaudit syarikat 265. Pendaftaran firma juruaudit 266. Kuasa dan kewajipan juruaudit
+262. Takrif “juruaudit yang akan tamat tempoh jawatan”
+
+263. Juruaudit syarikat hendaklah diluluskan oleh Menteri yang dipertanggungkan dengan tanggungjawab bagi kewangan
+
+264. Juruaudit syarikat
+
+265. Pendaftaran firma juruaudit
+
+266. Kuasa dan kewajipan juruaudit
 
 ## Bab I
 
 Peruntukan yang berhubungan dengan Juruaudit Syarikat Persendirian
 
-267. Pelantikan juruaudit syarikat persendirian 268. Kuasa Pendaftar untuk melantik juruaudit syarikat persendirian 269. Terma jawatan juruaudit syarikat persendirian 270. Halangan oleh anggota terhadap anggapan pelantikan semula juruaudit
+267. Pelantikan juruaudit syarikat persendirian
+
+268. Kuasa Pendaftar untuk melantik juruaudit syarikat persendirian
+
+269. Terma jawatan juruaudit syarikat persendirian
+
+270. Halangan oleh anggota terhadap anggapan pelantikan semula juruaudit
 
 ## Bab II
 
 Peruntukan yang berhubungan dengan Juruaudit Syarikat Awam
 
-271. Pelantikan juruaudit syarikat awam 272. Kuasa Pendaftar untuk melantik juruaudit syarikat awam 273. Terma jawatan juruaudit syarikat awam
+271. Pelantikan juruaudit syarikat awam
+
+272. Kuasa Pendaftar untuk melantik juruaudit syarikat awam
+
+273. Terma jawatan juruaudit syarikat awam
 
 <!-- page 16 -->
 
@@ -536,19 +764,61 @@ Subpenggal 1 Mesyuarat dan Ketetapan Anggota
 
 <!-- page 17 -->
 
-292. Ketetapan khas 293. Kaedah am mengenai pengundian 294. Undian melalui proksi 295. Undian pemegang syer bersama 296. Hak untuk membantah kelayakan mengundi seseorang
+292. Ketetapan khas
+
+293. Kaedah am mengenai pengundian
+
+294. Undian melalui proksi
+
+295. Undian pemegang syer bersama
+
+296. Hak untuk membantah kelayakan mengundi seseorang
 
 Subpenggal 2
 
 Ketetapan Bertulis Syarikat Persendirian
 
-297. Ketetapan bertulis syarikat persendirian 298. Kelayakan anggota untuk menerima ketetapan bertulis 299. Tarikh pengedaran 300. Cara ketetapan bertulis diedarkan 301. Pengedaran ketetapan bertulis yang dicadangkan oleh pengarah 302. Kuasa anggota untuk menghendaki pengedaran ketetapan bertulis 303. Pengedaran ketetapan bertulis yang dicadangkan oleh anggota 304. Perbelanjaan bagi pengedaran 305. Permohonan untuk tidak mengedarkan ketetapan bertulis anggota 306. Tatacara bagi menandakan persetujuan terhadap ketetapan bertulis 307. Tempoh bagi menyetujui ketetapan bertulis 308. Menghantar dokumen yang berhubungan dengan ketetapan bertulis melalui cara elektronik
+297. Ketetapan bertulis syarikat persendirian
+
+298. Kelayakan anggota untuk menerima ketetapan bertulis
+
+299. Tarikh pengedaran
+
+300. Cara ketetapan bertulis diedarkan
+
+301. Pengedaran ketetapan bertulis yang dicadangkan oleh pengarah
+
+302. Kuasa anggota untuk menghendaki pengedaran ketetapan bertulis
+
+303. Pengedaran ketetapan bertulis yang dicadangkan oleh anggota
+
+304. Perbelanjaan bagi pengedaran
+
+305. Permohonan untuk tidak mengedarkan ketetapan bertulis anggota
+
+306. Tatacara bagi menandakan persetujuan terhadap ketetapan bertulis
+
+307. Tempoh bagi menyetujui ketetapan bertulis
+
+308. Menghantar dokumen yang berhubungan dengan ketetapan bertulis melalui cara elektronik
 
 Subpenggal 3
 
 Meluluskan Ketetapan pada Mesyuarat Anggota
 
-309. Ketetapan pada mesyuarat anggota 310. Kuasa untuk mengadakan mesyuarat anggota 311. Kuasa untuk menghendaki pengarah untuk mengadakan mesyuarat anggota 312. Kewajipan pengarah untuk memanggil mesyuarat yang dikehendaki oleh anggota 313. Kuasa anggota untuk mengadakan mesyuarat anggota atas perbelanjaan syarikat 314. Kuasa Mahkamah untuk mengarahkan mesyuarat 315. Ketetapan yang diluluskan dalam mesyuarat yang ditangguhkan
+309. Ketetapan pada mesyuarat anggota
+
+310. Kuasa untuk mengadakan mesyuarat anggota
+
+311. Kuasa untuk menghendaki pengarah untuk mengadakan mesyuarat anggota
+
+312. Kewajipan pengarah untuk memanggil mesyuarat yang dikehendaki oleh anggota
+
+313. Kuasa anggota untuk mengadakan mesyuarat anggota atas perbelanjaan syarikat
+
+314. Kuasa Mahkamah untuk mengarahkan mesyuarat
+
+315. Ketetapan yang diluluskan dalam mesyuarat yang ditangguhkan
 
 <!-- page 18 -->
 
@@ -614,7 +884,9 @@ Proksi
 
 Subpenggal 7
 
-Mesyuarat Kelas 339. Pemakaian bagi kelas mesyuarat
+Mesyuarat Kelas
+
+339. Pemakaian bagi kelas mesyuarat
 
 Subpenggal 8
 
@@ -626,13 +898,31 @@ Subpenggal 9
 
 Rekod mengenai Ketetapan dan Mesyuarat
 
-341. Rekod mengenai ketetapan dan mesyuarat 342. Pemeriksaan rekod mengenai ketetapan dan mesyuarat 343. Rekod sebagai keterangan mengenai ketetapan 344. Butir-butir keputusan yang diberikan oleh anggota tunggal
+341. Rekod mengenai ketetapan dan mesyuarat
+
+342. Pemeriksaan rekod mengenai ketetapan dan mesyuarat
+
+343. Rekod sebagai keterangan mengenai ketetapan
+
+344. Butir-butir keputusan yang diberikan oleh anggota tunggal
 
 Penggal 6
 
 Remedi
 
-345. Tafsiran 346. Remedi dalam hal penindasan 347. Prosiding terbitan 348. Keizinan Mahkamah 349. Kesan ratifikasi 350. Kuasa Mahkamah 351. Injunksi
+345. Tafsiran
+
+346. Remedi dalam hal penindasan
+
+347. Prosiding terbitan
+
+348. Keizinan Mahkamah
+
+349. Kesan ratifikasi
+
+350. Kuasa Mahkamah
+
+351. Injunksi
 
 Penggal 7
 
@@ -642,7 +932,11 @@ Subpenggal 1
 
 Gadaian
 
-352. Pendaftaran gadaian 353. Jenis gadaian yang perlu didaftarkan 354. Pendaftaran gadaian yang diwujudkan ke atas harta di luar Malaysia
+352. Pendaftaran gadaian
+
+353. Jenis gadaian yang perlu didaftarkan
+
+354. Pendaftaran gadaian yang diwujudkan ke atas harta di luar Malaysia
 
 <!-- page 20 -->
 
@@ -704,7 +998,35 @@ Penerima dan Penerima dan Pengurus
 
 <!-- page 21 -->
 
-379. Notis pemberhentian jawatan 380. Pernyataan yang berhubungan dengan pelantikan penerima atau penerima dan pengurus 381. Liabiliti penerima atau penerima dan pengurus 382. Liabiliti bagi kontrak 383. Kuasa penerima atau penerima dan pengurus 384. Permohonan kepada Mahkamah bagi arahan 385. Pelantikan penyelesai sebagai penerima atau penerima dan pengurus dalam hal penggulungan 386. Kuasa penerima atau penerima dan pengurus mengenai penyelesaian 387. Kuasa Mahkamah untuk menetapkan saraan bagi penerima atau penerima dan pengurus 388. Peruntukan mengenai maklumat jika penerima atau penerima dan pengurus dilantik 389. Obligasi syarikat dan pengarah untuk memberikan maklumat kepada penerima atau penerima dan pengurus 390. Penyerahan pernyataan hal ehwal 391. Menyerah simpan akaun penerima atau penerima dan pengurus 392. Pembayaran hutang tertentu yang tertakluk kepada gadaian terapung diberikan keutamaan daripada tuntutan di bawah gadaian 393. Pelaksanaan kewajipan penerima atau penerima dan pengurus, dsb., untuk menyediakan penyata
+379. Notis pemberhentian jawatan
+
+380. Pernyataan yang berhubungan dengan pelantikan penerima atau penerima dan pengurus
+
+381. Liabiliti penerima atau penerima dan pengurus
+
+382. Liabiliti bagi kontrak
+
+383. Kuasa penerima atau penerima dan pengurus
+
+384. Permohonan kepada Mahkamah bagi arahan
+
+385. Pelantikan penyelesai sebagai penerima atau penerima dan pengurus dalam hal penggulungan
+
+386. Kuasa penerima atau penerima dan pengurus mengenai penyelesaian
+
+387. Kuasa Mahkamah untuk menetapkan saraan bagi penerima atau penerima dan pengurus
+
+388. Peruntukan mengenai maklumat jika penerima atau penerima dan pengurus dilantik
+
+389. Obligasi syarikat dan pengarah untuk memberikan maklumat kepada penerima atau penerima dan pengurus
+
+390. Penyerahan pernyataan hal ehwal
+
+391. Menyerah simpan akaun penerima atau penerima dan pengurus
+
+392. Pembayaran hutang tertentu yang tertakluk kepada gadaian terapung diberikan keutamaan daripada tuntutan di bawah gadaian
+
+393. Pelaksanaan kewajipan penerima atau penerima dan pengurus, dsb., untuk menyediakan penyata
 
 Penggal 8
 
@@ -716,7 +1038,17 @@ Subpenggal 1
 
 Perkiraan Sukarela Korporat
 
-395. Ketidakpakaian Subpenggal ini 396. Orang yang boleh mencadangkan perkiraan sukarela 397. Cadangan bagi perkiraan sukarela 398. Moratorium 399. Panggilan mesyuarat 400. Keputusan mesyuarat
+395. Ketidakpakaian Subpenggal ini
+
+396. Orang yang boleh mencadangkan perkiraan sukarela
+
+397. Cadangan bagi perkiraan sukarela
+
+398. Moratorium
+
+399. Panggilan mesyuarat
+
+400. Keputusan mesyuarat
 
 <!-- page 22 -->
 
@@ -780,9 +1112,13 @@ Pengurusan Kehakiman
 
 <!-- page 23 -->
 
-428. Kewajipan untuk bekerjasama dengan pengurus kehakiman 429. Siasatan tentang urusan syarikat, dsb. 430. Pemakaian peruntukan tentang penggulungan syarikat di bawah pengurusan kehakiman
+428. Kewajipan untuk bekerjasama dengan pengurus kehakiman
 
-## Bahagian IV
+429. Siasatan tentang urusan syarikat, dsb.
+
+430. Pemakaian peruntukan tentang penggulungan syarikat di bawah pengurusan kehakiman
+
+## BAHAGIAN IV
 
 ## PEMBERHENTIAN SYARIKAT
 
@@ -794,19 +1130,41 @@ Subpenggal 1
 
 Permulaan
 
-431. Pemakaian peruntukan penggulungan 432. Cara penggulungan 433. Kelayakan penyelesai 434. Kerajaan terikat dengan peruntukan tertentu
+431. Pemakaian peruntukan penggulungan
+
+432. Cara penggulungan
+
+433. Kelayakan penyelesai
+
+434. Kerajaan terikat dengan peruntukan tertentu
 
 Subpenggal 2
 
 Penyumbang
 
-435. Tanggungan sebagai penyumbang bagi anggota sekarang dan dahulu 436. Sifat tanggungan penyumbang 437. Penyumbang dalam hal kematian anggota 438. Penyumbang dalam hal kebankrapan anggota
+435. Tanggungan sebagai penyumbang bagi anggota sekarang dan dahulu
+
+436. Sifat tanggungan penyumbang
+
+437. Penyumbang dalam hal kematian anggota
+
+438. Penyumbang dalam hal kebankrapan anggota
 
 Subpenggal 3
 
 Penggulungan Sukarela
 
-439. Hal keadaan yang syarikat boleh digulung secara sukarela 440. Penyelesai interim 441. Tarikh permulaan penggulungan 442. Kesan penggulungan sukarela 443. Pengisytiharan kesolvenan 444. Perbezaan antara penggulungan sukarela “anggota” dengan “pemiutang”
+439. Hal keadaan yang syarikat boleh digulung secara sukarela
+
+440. Penyelesai interim
+
+441. Tarikh permulaan penggulungan
+
+442. Kesan penggulungan sukarela
+
+443. Pengisytiharan kesolvenan
+
+444. Perbezaan antara penggulungan sukarela “anggota” dengan “pemiutang”
 
 <!-- page 24 -->
 
@@ -864,13 +1222,61 @@ Peruntukan yang Terpakai bagi Tiap-Tiap Penggulungan Sukarela
 
 Subpenggal 7
 
-Penggulungan oleh Mahkamah 464. Petisyen penggulungan 465. Hal keadaan yang syarikat boleh digulung oleh Mahkamah 466. Takrif ketidakmampuan untuk membayar hutang 467. Permulaan penggulungan oleh Mahkamah 468. Bayaran kos permulaan oleh pempetisyen 469. Kuasa Mahkamah setelah mendengar petisyen bagi penggulungan 470. Kuasa Mahkamah untuk menggantung atau menghalang prosiding terhadap syarikat sebelum perintah penggulungan 471. Tindakan atau prosiding yang digantung selepas perintah penggulungan 472. Pengelakan pelupusan harta atau penahanan tertentu, dsb. 473. Petisyen sebagai lis pendens 474. Penyerahsimpanan perintah penggulungan 475. Kesan perintah penggulungan
+Penggulungan oleh Mahkamah
+
+464. Petisyen penggulungan
+
+465. Hal keadaan yang syarikat boleh digulung oleh Mahkamah
+
+466. Takrif ketidakmampuan untuk membayar hutang
+
+467. Permulaan penggulungan oleh Mahkamah
+
+468. Bayaran kos permulaan oleh pempetisyen
+
+469. Kuasa Mahkamah setelah mendengar petisyen bagi penggulungan
+
+470. Kuasa Mahkamah untuk menggantung atau menghalang prosiding terhadap syarikat sebelum perintah penggulungan
+
+471. Tindakan atau prosiding yang digantung selepas perintah penggulungan
+
+472. Pengelakan pelupusan harta atau penahanan tertentu, dsb.
+
+473. Petisyen sebagai lis pendens
+
+474. Penyerahsimpanan perintah penggulungan
+
+475. Kesan perintah penggulungan
 
 Subpenggal 8
 
 Peruntukan yang Berhubungan dengan Penyelesai dalam Penggulungan oleh Mahkamah
 
-476. Penyelesai interim 477. Pelantikan, gelaran, dsb., bagi penyelesai 478. Pelantikan orang lain sebagai penyelesai selain Pegawai Penerima 479. Saraan bagi penyelesai dalam penggulungan oleh Mahkamah 480. Pengawalan penyelesai diluluskan oleh Pegawai Penerima 481. Pengawalan Pegawai Penerima oleh Menteri 482. Peletakan jawatan atau pemecatan penyelesai dalam penggulungan oleh Mahkamah 483. Jagaan dan peletakhakan harta syarikat 484. Pengemukaan pernyataan tentang hal ehwal syarikat 485. Laporan oleh penyelesai 486. Kuasa penyelesai dalam penggulungan oleh Mahkamah 487. Penjalanan dan pengawalan kuasa penyelesai 488. Penyelesai hendaklah membayar wang yang diterima ke dalam akaun bank
+476. Penyelesai interim
+
+477. Pelantikan, gelaran, dsb., bagi penyelesai
+
+478. Pelantikan orang lain sebagai penyelesai selain Pegawai Penerima
+
+479. Saraan bagi penyelesai dalam penggulungan oleh Mahkamah
+
+480. Pengawalan penyelesai diluluskan oleh Pegawai Penerima
+
+481. Pengawalan Pegawai Penerima oleh Menteri
+
+482. Peletakan jawatan atau pemecatan penyelesai dalam penggulungan oleh Mahkamah
+
+483. Jagaan dan peletakhakan harta syarikat
+
+484. Pengemukaan pernyataan tentang hal ehwal syarikat
+
+485. Laporan oleh penyelesai
+
+486. Kuasa penyelesai dalam penggulungan oleh Mahkamah
+
+487. Penjalanan dan pengawalan kuasa penyelesai
+
+488. Penyelesai hendaklah membayar wang yang diterima ke dalam akaun bank
 
 <!-- page 26 -->
 
@@ -930,19 +1336,65 @@ Am
 
 <!-- page 27 -->
 
-510. Kawalan Mahkamah ke atas penyelesai 511. Penghantarserahan harta kepada penyelesai 512. Kuasa Pegawai Penerima jika tiada jawatankuasa pemeriksaan 513. Notis pelantikan dan alamat penyelesai 514. Akaun penyelesai 515. Penyelesai hendaklah membetulkan keingkaran 516. Pemberitahuan bahawa syarikat berada dalam penyelesaian 517. Rayuan terhadap keputusan penyelesai 518. Buku dan surat syarikat 519. Perbelanjaan bagi penggulungan jika aset tidak mencukupi 520. Ketetapan yang diluluskan dalam mesyuarat pemiutang dan penyumbang yang ditangguhkan 521. Mesyuarat untuk memastikan kemahuan pemiutang atau penyumbang 522. Suruhanjaya khas untuk menerima keterangan
+510. Kawalan Mahkamah ke atas penyelesai
+
+511. Penghantarserahan harta kepada penyelesai
+
+512. Kuasa Pegawai Penerima jika tiada jawatankuasa pemeriksaan
+
+513. Notis pelantikan dan alamat penyelesai
+
+514. Akaun penyelesai
+
+515. Penyelesai hendaklah membetulkan keingkaran
+
+516. Pemberitahuan bahawa syarikat berada dalam penyelesaian
+
+517. Rayuan terhadap keputusan penyelesai
+
+518. Buku dan surat syarikat
+
+519. Perbelanjaan bagi penggulungan jika aset tidak mencukupi
+
+520. Ketetapan yang diluluskan dalam mesyuarat pemiutang dan penyumbang yang ditangguhkan
+
+521. Mesyuarat untuk memastikan kemahuan pemiutang atau penyumbang
+
+522. Suruhanjaya khas untuk menerima keterangan
 
 Subpenggal 2
 
 Bukti dan Kedudukan Tuntutan
 
-523. Perihalan hutang yang boleh dibuktikan dalam penggulungan 524. Hak dan kewajipan pemiutang bercagar 525. Hak dan kewajipan pemiutang tidak bercagar 526. Kredit bersama dan tolakan 527. Keutamaan
+523. Perihalan hutang yang boleh dibuktikan dalam penggulungan
+
+524. Hak dan kewajipan pemiutang bercagar
+
+525. Hak dan kewajipan pemiutang tidak bercagar
+
+526. Kredit bersama dan tolakan
+
+527. Keutamaan
 
 Subpenggal 3
 
 Kesan ke Atas Transaksi Lain
 
-528. Keutamaan tidak wajar 529. Kesan gadaian terapung 530. Hak penyelesai untuk mendapat semula berkenaan dengan jualan tertentu kepada atau oleh syarikat 531. Penolak tuntutan harta yang membebankan 532. Tafsiran 533. Sekatan ke atas hak pemiutang mengenai pelaksanaan atau penahanan 534. Kewajipan bailif mengenai barang-barang yang diambil semasa pelaksanaan 535. Kuasa Mahkamah untuk mengisytiharkan pembubaran syarikat adalah terbatal
+528. Keutamaan tidak wajar
+
+529. Kesan gadaian terapung
+
+530. Hak penyelesai untuk mendapat semula berkenaan dengan jualan tertentu kepada atau oleh syarikat
+
+531. Penolak tuntutan harta yang membebankan
+
+532. Tafsiran
+
+533. Sekatan ke atas hak pemiutang mengenai pelaksanaan atau penahanan
+
+534. Kewajipan bailif mengenai barang-barang yang diambil semasa pelaksanaan
+
+535. Kuasa Mahkamah untuk mengisytiharkan pembubaran syarikat adalah terbatal
 
 <!-- page 28 -->
 
@@ -1006,9 +1458,19 @@ Pemotongan
 
 Subpenggal 2
 
-Pengurusan Aset Syarikat yang Dibubarkan 556. Kuasa Pendaftar untuk mewakili syarikat yang dibubarkan dalam hal keadaan tertentu 557. Aset yang belum dijelaskan bagi syarikat yang dibubarkan atau dipotong terletak hak pada Pendaftar 558. Pelupusan kepentingan yang belum selesai dalam harta 559. Tanggungan Pendaftar dan Kerajaan mengenai harta yang terletak hak pada Pendaftar 560. Akaun dan audit
+Pengurusan Aset Syarikat yang Dibubarkan
 
-## Bahagian V
+556. Kuasa Pendaftar untuk mewakili syarikat yang dibubarkan dalam hal keadaan tertentu
+
+557. Aset yang belum dijelaskan bagi syarikat yang dibubarkan atau dipotong terletak hak pada Pendaftar
+
+558. Pelupusan kepentingan yang belum selesai dalam harta
+
+559. Tanggungan Pendaftar dan Kerajaan mengenai harta yang terletak hak pada Pendaftar
+
+560. Akaun dan audit
+
+## BAHAGIAN V
 
 ## PELBAGAI
 
@@ -1016,7 +1478,39 @@ Penggal 1
 
 Syarikat Asing
 
-561. Larangan menjalankan perniagaan di Malaysia 562. Pendaftaran syarikat asing 563. Kehendak supaya syarikat asing mempunyai ejen 564. Nama syarikat asing dan penyiarannya 565. Obligasi untuk menyatakan nama syarikat asing, sama ada berhad, dan tempat diperbadankan 566. Kehendak supaya mempunyai pejabat berdaftar 567. Penyata hendaklah difailkan jika dokumen, dsb., diubah 568. Daftar cawangan 569. Pendaftaran syer dalam daftar cawangan 570. Pengeluaran syer daripada daftar cawangan 571. Indeks anggota, pemeriksaan dan penutupan daftar cawangan 572. Pemindahan syer dan pembetulan 573. Daftar cawangan hendaklah menjadi keterangan prima facie 574. Akaun hendaklah disimpan oleh syarikat asing 575. Penyata kewangan 576. Penyata tahunan 577. Penyampaian notis
+561. Larangan menjalankan perniagaan di Malaysia
+
+562. Pendaftaran syarikat asing
+
+563. Kehendak supaya syarikat asing mempunyai ejen
+
+564. Nama syarikat asing dan penyiarannya
+
+565. Obligasi untuk menyatakan nama syarikat asing, sama ada berhad, dan tempat diperbadankan
+
+566. Kehendak supaya mempunyai pejabat berdaftar
+
+567. Penyata hendaklah difailkan jika dokumen, dsb., diubah
+
+568. Daftar cawangan
+
+569. Pendaftaran syer dalam daftar cawangan
+
+570. Pengeluaran syer daripada daftar cawangan
+
+571. Indeks anggota, pemeriksaan dan penutupan daftar cawangan
+
+572. Pemindahan syer dan pembetulan
+
+573. Daftar cawangan hendaklah menjadi keterangan prima facie
+
+574. Akaun hendaklah disimpan oleh syarikat asing
+
+575. Penyata kewangan
+
+576. Penyata tahunan
+
+577. Penyampaian notis
 
 <!-- page 30 -->
 
@@ -1078,37 +1572,83 @@ Kesalahan Am
 
 Penggal 3
 
-Peruntukan Am 599. Nilai keterangan bagi salinan yang diperakui oleh Pendaftar 600. Keterangan tentang kehendak statutori 601. Daftar dan pemeriksaan Daftar 602. Pembetulan daftar 603. Pelupusan rekod lama 604. Penyerahsimpanan dokumen secara elektronik 605. Mengeluarkan dokumen secara elektronik 606. Maklumat secara elektronik, dsb. yang diperakui oleh Pendaftar boleh diterima sebagai keterangan 607. Penguatkuasaan kewajipan untuk menyediakan penyata 608. Menyerah simpan semula dokumen yang hilang atau yang musnah 609. Masa untuk menyerah simpan dokumen dan pelanjutan masa 610. Butir-butir dan cara maklumat dikehendaki supaya diserah simpan di bawah Akta ini 611. Masa bagi pematuhan kehendak di bawah Akta ini 612. Kaedah perhubungan antara syarikat dengan anggota 613. Kuasa untuk membuat peraturan-peraturan 614. Kuasa untuk mengenakan terma dan syarat 615. Pengecualian 616. Kaedah-Kaedah 617. Kuasa untuk meminda Jadual
+Peruntukan Am
+
+599. Nilai keterangan bagi salinan yang diperakui oleh Pendaftar
+
+600. Keterangan tentang kehendak statutori
+
+601. Daftar dan pemeriksaan Daftar
+
+602. Pembetulan daftar
+
+603. Pelupusan rekod lama
+
+604. Penyerahsimpanan dokumen secara elektronik
+
+605. Mengeluarkan dokumen secara elektronik
+
+606. Maklumat secara elektronik, dsb. yang diperakui oleh Pendaftar boleh diterima sebagai keterangan
+
+607. Penguatkuasaan kewajipan untuk menyediakan penyata
+
+608. Menyerah simpan semula dokumen yang hilang atau yang musnah
+
+609. Masa untuk menyerah simpan dokumen dan pelanjutan masa
+
+610. Butir-butir dan cara maklumat dikehendaki supaya diserah simpan di bawah Akta ini
+
+611. Masa bagi pematuhan kehendak di bawah Akta ini
+
+612. Kaedah perhubungan antara syarikat dengan anggota
+
+613. Kuasa untuk membuat peraturan-peraturan
+
+614. Kuasa untuk mengenakan terma dan syarat
+
+615. Pengecualian
+
+616. Kaedah-Kaedah
+
+617. Kuasa untuk meminda Jadual
 
 Penggal 4
 
 Kecualian dan Peralihan
 
-618. Peruntukan peralihan yang berhubungan dengan pemansuhan nilai nominal 619. Peruntukan am peralihan 620. Pemansuhan dan kecualian
+618. Peruntukan peralihan yang berhubungan dengan pemansuhan nilai nominal
 
-## Jadual Pertama
+619. Peruntukan am peralihan
 
-## Jadual Kedua
+620. Pemansuhan dan kecualian
 
-## Jadual Ketiga
+## JADUAL PERTAMA
 
-## Jadual KeemPat
+## JADUAL KEDUA
+
+## JADUAL KETIGA
+
+## JADUAL KEEMPAT
 
 <!-- page 32 -->
 
-## Jadual Kelima
+## JADUAL KELIMA
 
-## Jadual Keenam
+## JADUAL KEENAM
 
-## Jadual KetuJuh
+## JADUAL KETUJUH
 
-## Jadual KelaPan
+## JADUAL KELAPAN
 
-## Jadual KesemBilan
+## JADUAL KESEMBILAN
 
-## Jadual KesePuluh
+## JADUAL KESEPULUH
 
-Jadual KeseBelas Jadual Kedua Belas Jadual Ketiga Belas
+## JADUAL KESEBELAS
+
+## JADUAL KEDUA BELAS
+
+## JADUAL KETIGA BELAS
 
 <!-- page 33 -->
 
@@ -1118,7 +1658,7 @@ Suatu Akta untuk mengadakan peruntukan bagi pendaftaran, pentadbiran dan pembuba
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -1552,7 +2092,7 @@ hendaklah dikira sebagai dipegang atau boleh dijalankan oleh perbadanan yang lai
 
 (d) fakta bahawa kepentingan itu dipegang oleh, atau atas nama, suatu depositori pusat atau syarikat penamanya menurut Akta Perindustrian Sekuriti (Depositori Pusat) 1991 [Akta 453].
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PEMBENTUKAN DAN PENTADBIRAN SYARIKAT
 
@@ -2802,7 +3342,7 @@ bagi dua puluh pemegang terbesar setiap kelas syer ekuiti.
 
 (9) Syarikat dan tiap-tiap pegawai yang melanggar seksyen ini melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit dan, dalam hal suatu kesalahan yang berterusan, didenda selanjutnya tidak melebihi satu ribu ringgit bagi setiap hari kesalahan itu berterusan selepas sabitan.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PENGURUSAN SYARIKAT
 
@@ -3534,7 +4074,9 @@ boleh didaftarkan sebagai pemegang bagi syer itu sebagaimana pemegang amanah, wa
 
 (3) Syer dalam sesuatu perbadanan yang didaftarkan dalam suatu daftar atau daftar cawangan yang disimpan di Malaysia dan yang dipegang oleh pemegang amanah berkenaan dengan suatu amanah tertentu boleh, dengan persetujuan perbadanan itu, ditandakan dalam daftar atau daftar cawangan itu mengikut apa-apa cara bagi syer itu dikenal pasti sebagai pemegang berkenaan dengan amanah itu.
 
-(4) Kecuali sebagaimana yang diperuntukkan dalam Akta ini, tiada notis bagi apa-apa amanah secara nyata, tersirat atau konstruktif boleh dicatatkan dalam sesuatu daftar atau daftar cawangan atau boleh didapatkan oleh Pendaftar dan tiada liabiliti boleh terjejas oleh apa-apa perkara yang dilakukan di bawah subseksyen (1), (2) atau (3) atau di bawah undang-undang di mana-mana tempat lain yang bersamaan dengan seksyen ini dan perbadanan yang berkenaan tidak terjejas oleh notis mana-mana amanah dengan apa-apa perkara yang dilakukan sedemikian.
+(4) Kecuali sebagaimana yang diperuntukkan dalam Akta ini, tiada notis bagi apa-apa amanah secara nyata, tersirat atau konstruktif boleh dicatatkan dalam sesuatu daftar atau daftar cawangan atau boleh didapatkan oleh Pendaftar dan tiada liabiliti boleh terjejas oleh apa-apa perkara yang dilakukan di bawah subseksyen (1),
+
+(2) atau (3) atau di bawah undang-undang di mana-mana tempat lain yang bersamaan dengan seksyen ini dan perbadanan yang berkenaan tidak terjejas oleh notis mana-mana amanah dengan apa-apa perkara yang dilakukan sedemikian.
 
 ### Lien bagi syer
 
@@ -5006,7 +5548,11 @@ Pendaftar boleh, melalui perintah berhenti secara bertulis menyampaikan kepada p
 
 (4) Perintah berhenti interim di bawah subseksyen (3) hendaklah, melainkan jika dibatalkan terdahulu, berkuat kuasa sehingga berakhirnya tempoh dua puluh satu hari dari hari perintah interim itu dibuat atau keputusan pendengaran dalam subseksyen (2), mengikut mana-mana tarikh yang terkemudian.
 
-(5) Semasa perintah berhenti yang dibuat di bawah subseksyen (1) atau perintah berhenti interim yang dibuat di bawah subseksyen (3) berkuat kuasa, Bahagian ini hendaklah terpakai seolah-olah prospektus itu tidak pernah didaftarkan.
+(5) Semasa perintah berhenti yang dibuat di bawah subseksyen
+
+(1) atau perintah berhenti interim yang dibuat di bawah subseksyen
+
+(3) berkuat kuasa, Bahagian ini hendaklah terpakai seolah-olah prospektus itu tidak pernah didaftarkan.
 
 (6) Perintah berhenti interim di bawah subseksyen (3) boleh dibatalkan secara bertulis jika Pendaftar berpuas hati bahawa hal keadaan yang berbangkit daripada pembuatan perintah itu tidak lagi wujud.
 
@@ -8500,7 +9046,9 @@ Kehendak Tambahan bagi Syarikat Awam
 
 (5) Jika suatu syarikat gagal untuk mengadakan mesyuarat agung tahunan di bawah seksyen ini, Mahkamah boleh, atas permohonan mana-mana anggota, mengarahkan supaya suatu mesyuarat agung dipanggil.
 
-(6) Syarikat dan tiap-tiap pegawai yang melanggar subseksyen (1), (2) atau (3) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua puluh ribu ringgit.
+(6) Syarikat dan tiap-tiap pegawai yang melanggar subseksyen (1),
+
+(2) atau (3) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua puluh ribu ringgit.
 
 Subpenggal 9
 
@@ -10386,7 +10934,7 @@ dan boleh membenarkan seseorang yang ditangkap di bawah waran itu ditahan, dan a
 
 (b) apa-apa sebutan mengenai penyelesai hendaklah dianggap sebagai sebutan mengenai pengurus kehakiman dan apa- apa sebutan mengenai penyumbang hendaklah dianggap sebagai sebutan mengenai anggota syarikat.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PEMBERHENTIAN SYARIKAT
 
@@ -12684,7 +13232,7 @@ apa bayaran yang dibenarkan oleh Subpenggal ini dan lebihan, jika ada, hendaklah
 
 (2) Ketua Audit Negara hendaklah mempunyai segala kuasa berkenaan dengan akaun itu sebagaimana yang diberikan kepadanya oleh mana-mana Akta yang berhubungan dengan pengauditan akaun awam.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PELBAGAI
 
@@ -12868,11 +13416,7 @@ syarikat asing itu hendaklah, dalam masa empat belas hari atau dalam apa-apa tem
 
 (3) Seksyen ini tidak terpakai bagi mana-mana syarikat asing yang melalui perlembagaannya melarang apa-apa pelawaan kepada orang awam untuk melanggan syer dalam syarikat asing itu.
 
-(4) Tiap-tiap daftar sebagaimana yang disebut dahulu hendaklah disimpan mengikut cara yang diperuntukkan oleh Penggal 8
-
-## Bahagian II seolah-olah daftar itu ialah daftar sesuatu syarikat
-
-dan pemindahan hendaklah dibuat pada daftar itu mengikut cara yang sama dan pada gadaian yang sama sebagaimana pada daftar utama syarikat itu dan pemindahan yang diserah simpan di pejabat berdaftar syarikat itu di Malaysia hendaklah mengikat syarikat itu dan Mahkamah hendaklah mempunyai kuasa yang sama berhubung dengan pembetulan daftar itu sebagaimana yang dipunyai Mahkamah berkenaan dengan daftar suatu syarikat yang diperbadankan di Malaysia.
+(4) Tiap-tiap daftar sebagaimana yang disebut dahulu hendaklah disimpan mengikut cara yang diperuntukkan oleh Penggal 8 Bahagian II seolah-olah daftar itu ialah daftar sesuatu syarikat dan pemindahan hendaklah dibuat pada daftar itu mengikut cara yang sama dan pada gadaian yang sama sebagaimana pada daftar utama syarikat itu dan pemindahan yang diserah simpan di pejabat berdaftar syarikat itu di Malaysia hendaklah mengikat syarikat itu dan Mahkamah hendaklah mempunyai kuasa yang sama berhubung dengan pembetulan daftar itu sebagaimana yang dipunyai Mahkamah berkenaan dengan daftar suatu syarikat yang diperbadankan di Malaysia.
 
 <!-- page 541 -->
 
@@ -13782,7 +14326,9 @@ Kecualian dan Peralihan
 
 <!-- page 581 -->
 
-syarikat, yang dibuat sebelum tarikh itu atau suatu surat ikatan amanah atau dokumen lain yang disempurnakan sebelum tarikh itu—
+syarikat, yang dibuat sebelum tarikh itu atau suatu surat ikatan amanah atau dokumen lain yang disempurnakan sebelum tarikh
+
+<!-- marginal: itu— -->
 
 (a) sebutan mengenai nilai tara atau nilai nominal sesuatu syer ialah sebutan mengenai—
 
@@ -13866,7 +14412,7 @@ kuat kuasa Akta ini, hendaklah setakat yang perbuatan itu dibuat, disempurnakan,
 
 <!-- page 585 -->
 
-## Jadual Pertama
+## JADUAL PERTAMA
 
 [Seksyen 159]
 
@@ -14002,7 +14548,7 @@ Laporan yang perlu disediakan
 
 <!-- page 591 -->
 
-## Jadual Kedua
+## JADUAL KEDUA
 
 [Seksyen 189]
 
@@ -14012,9 +14558,7 @@ Laporan yang perlu disediakan
 
 Pernyataan sebagai ganti prospektus yang diserah simpan bagi pendaftaran oleh [masukkan nama syarikat]
 
-Modal syer syarikat
-
-<!-- marginal: RM -->
+Modal syer syarikat RM
 
 Dibahagikan kepada Syer sebanyak RM
 
@@ -14186,7 +14730,7 @@ Peruntukan yang terpakai bagi Bahagian I dan II Jadual ini
 
 3. Mana-mana laporan yang dikehendaki oleh Bahagian II Jadual ini hendaklah sama ada menunjukkan melalui nota apa-apa pelarasan berkenaan dengan angka apa-apa keuntungan atau kerugian atau aset dan liabiliti yang diperkatakan oleh laporan itu yang didapati perlu kepada orang yang membuat laporan itu atau hendaklah membuat yang berkenaan dengan dan menunjukkan bahawa penyelarasan telah dibuat.
 
-## Jadual Ketiga
+## JADUAL KETIGA
 
 [Seksyen 212]
 
@@ -14280,15 +14824,27 @@ Pengarah Bersekutu
 
 27. Lembaga boleh menetapkan, menentukan dan mengubah kuasa, kewajipan dan saraan mana-mana orang yang dilantik sedemikian, tetapi seorang yang dilantik sedemikian tidak mempunyai apa-apa hak untuk menghadiri atau mengundi dalam mana-mana mesyuarat Lembaga kecuali melalui pelawaan dan dengan persetujuan Lembaga.
 
-## Jadual KeemPat
+## JADUAL KEEMPAT
 
 [Perenggan 235(2)(a)]
 
 ## BADAN YANG DILULUSKAN
 
-1. Institut Setiausaha dan Pentadbir Berkanun Malaysia 2. Institut Akauntan Malaysia 3. Majlis Peguam Malaysia 4. Persatuan Setiausaha Syarikat Malaysia 5. Institut Akauntan Awam Bertauliah Malaysia 6. Persatuan Undang-Undang Sabah 7. Persatuan Peguam Bela Sarawak
+1. Institut Setiausaha dan Pentadbir Berkanun Malaysia
 
-## Jadual Kelima
+2. Institut Akauntan Malaysia
+
+3. Majlis Peguam Malaysia
+
+4. Persatuan Setiausaha Syarikat Malaysia
+
+5. Institut Akauntan Awam Bertauliah Malaysia
+
+6. Persatuan Undang-Undang Sabah
+
+7. Persatuan Peguam Bela Sarawak
+
+## JADUAL KELIMA
 
 [Seksyen 253]
 
@@ -14422,7 +14978,7 @@ termasuk maklumat mengenai apa-apa dasar syarikat berhubung dengan perkara itu d
 
 8. Bagi maksud Bahagian ini, “petunjuk prestasi utama” ertinya faktor-faktor yang dengan merujuk kepadanya perkembangan, prestasi atau kedudukan perniagaan syarikat boleh diukur dengan berkesan.
 
-## Jadual Keenam
+## JADUAL KEENAM
 
 [Seksyen 383]
 
@@ -14486,7 +15042,7 @@ termasuk maklumat mengenai apa-apa dasar syarikat berhubung dengan perkara itu d
 
 4. Dalam Jadual ini, suatu rujukan, berhubung dengan penerima atau penerima dan pengurus, mengenai harta sesuatu syarikat ialah, melainkan jika konteksnya menghendaki makna yang lain, rujukan mengenai harta syarikat yang berhubung dengannya penerima atau penerima dan pengurus itu dilantik.
 
-## Jadual KetuJuh
+## JADUAL KETUJUH
 
 [Seksyen 394 dan 401]
 
@@ -14514,7 +15070,7 @@ termasuk maklumat mengenai apa-apa dasar syarikat berhubung dengan perkara itu d
 
 (c) pengarah atau Pegawai Penerima tidak mematuhi kewajipan mereka di bawah perenggan 2.
 
-## Jadual KelaPan
+## JADUAL KELAPAN
 
 [Seksyen 398]
 
@@ -14634,7 +15190,7 @@ Invois syarikat, pesanan barang, dsb.
 
 <!-- page 614 -->
 
-## Jadual KesemBilan
+## JADUAL KESEMBILAN
 
 [Subseksyen 414(4)]
 
@@ -14688,7 +15244,7 @@ Pengurus kehakiman boleh menjalankan semua atau mana-mana kuasa yang berikut:
 
 (v) melakukan segala benda lain yang bersampingan dengan pelaksanaan kuasa yang disebut terdahulu.
 
-## Jadual KesePuluh
+## JADUAL KESEPULUH
 
 [Subseksyen 450(4)]
 
@@ -14744,7 +15300,7 @@ Kekosongan
 
 13. Walau apa pun apa-apa jua kekosongan dalam jawatankuasa, anggota yang masih ada boleh bertindak jika terdapat sekurang-kurangnya dua anggota yang masih ada.
 
-Jadual KeseBelas
+## JADUAL KESEBELAS
 
 [Seksyen 456]
 
@@ -14764,7 +15320,7 @@ Jadual KeseBelas
 
 <!-- page 618 -->
 
-Jadual Kedua Belas
+## JADUAL KEDUA BELAS
 
 ## KUASA PENYELESAI DALAM PENGGULUNGAN OLEH MAHKAMAH
 
@@ -14824,7 +15380,7 @@ Kuasa yang boleh dijalankan dengan pemberian kuasa
 
 <!-- page 620 -->
 
-Jadual Ketiga Belas
+## JADUAL KETIGA BELAS
 
 [Subseksyen 561(2)]
 
@@ -15536,9 +16092,7 @@ Fasal 272 memberi Pendaftar kuasa untuk melantik seorang juruaudit bagi suatu sy
 
 Fasal 273 menyatakan bahawa tempoh jawatan seorang juruaudit bagi suatu syarikat awam hendaklah mengikut tempoh pelantikannya dan masa baginya untuk memegang jawatan.
 
-## Bab III Subpenggal ini memperkatakan keperluan yang terpakai bagi juruaudit
-
-amnya.
+Bab III Subpenggal ini memperkatakan keperluan yang terpakai bagi juruaudit amnya.
 
 Fasal 274 memperuntukkan bahawa saraan juruaudit hendaklah ditetapkan oleh badan berkuasa yang melantik juruaudit. Sebagai contoh, jika juruaudit itu dilantik oleh anggota syarikat, maka syarikat itu hendaklah mempunyai kuasa untuk menentukan imbuhan.
 
@@ -15928,11 +16482,7 @@ Fasal 429 bertujuan untuk membenarkan pengurus kehakiman untuk memohon kepada Ma
 
 Fasal 430 mengadakan peruntukan bagi pemakaian fasal 534, 535, 538 dan 539 yang berhubungan dengan penggulungan bagi syarikat yang berada di bawah suatu perintah pengurusan kehakiman.
 
-5.
-
-## Bahagian IV memperkatakan perkara yang berhubungan dengan
-
-pemberhentian syarikat dan dibahagikan kepada tiga Penggal.
+5. Bahagian IV memperkatakan perkara yang berhubungan dengan pemberhentian syarikat dan dibahagikan kepada tiga Penggal.
 
 Penggal I memperkatakan perkara yang berhubungan dengan penggulungan secara sukarela dan wajib.
 
@@ -16076,11 +16626,7 @@ Fasal 484 bertujuan untuk mengadakan memperuntukkan bahawa syarikat itu dikehend
 
 Fasal 485 bertujuan untuk mengenakan keperluan ke atas penyelesai untuk mengemukakan suatu laporan permulaan kepada Mahkamah berhubung hal ehwal syarikat itu dengan secepat yang dapat dilaksanakan tetapi tidak lebih daripada tiga puluh hari dari tarikh penerimaan pernyataan hal ehwal dari syarikat itu.
 
-Fasal 486 menetapkan kuasa penyelesai dalam penggulungan oleh Mahkamah sama ada dengan menjalankan mana-mana kuasa am yang dinyatakan dalam
-
-## Bahagian I atau Bahagian II Jadual Kedua Belas Akta yang dicadangkan
-
-dengan kebenaran Mahkamah atau jawatankuasa pemeriksaan.
+Fasal 486 menetapkan kuasa penyelesai dalam penggulungan oleh Mahkamah sama ada dengan menjalankan mana-mana kuasa am yang dinyatakan dalam Bahagian I atau Bahagian II Jadual Kedua Belas Akta yang dicadangkan dengan kebenaran Mahkamah atau jawatankuasa pemeriksaan.
 
 Fasal 487 memperuntukkan bahawa seorang penyelesai dalam menjalankan kuasanya di dalam pentadbiran aset syarikat dan dalam pembahagian antara pemiutang hendaklah mengambil kira apa-apa arahan yang diberikan oleh ketetapan pemiutang atau penyumbang di mana-mana mesyuarat agung atau oleh jawatankuasa pemeriksaan, dan apa-apa arahan yang diberikan oleh pemiutang atau penyumbang hendaklah mengatasi apa-apa arahan yang diberikan oleh jawatankuasa pemeriksaan dalam hal percanggahan.
 
@@ -16270,15 +16816,9 @@ Fasal 559 bertujuan untuk mengadakan peruntukan bagi liabiliti Pendaftar dan Ker
 
 Fasal 560 bertujuan untuk mengenakan obligasi ke atas Pendaftar untuk merekodkan dalam daftar satu pernyataan apa-apa harta yang diterima atau di bawah kawalannya, menyimpan akaun semua wang yang diperoleh dan tentang bagaimana wang itu dilupuskan dan menyimpan semua akaun, baucer, resit dan surat yang berhubungan dengan harta dan wang.
 
-6.
+6. Bahagian V memperkatakan pelbagai peruntukan dan terbahagi kepada tiga Penggal yang meliputi perkara yang berhubungan dengan syarikat asing, penguatkuasaan dan peruntukan am.
 
-## Bahagian V memperkatakan pelbagai peruntukan dan terbahagi kepada
-
-tiga Penggal yang meliputi perkara yang berhubungan dengan syarikat asing, penguatkuasaan dan peruntukan am.
-
-## Bahagian 1 memperkatakan peruntukan yang berhubungan dengan syarikat
-
-asing.
+Bahagian 1 memperkatakan peruntukan yang berhubungan dengan syarikat asing.
 
 Fasal 561 bertujuan untuk melarang syarikat asing daripada menjalankan perniagaan di Malaysia melainkan jika didaftarkan di bawah Akta yang dicadangkan. Fasal ini selanjutnya memperuntukkan takrif “menjalankan perniagaan” dan aktiviti yang tidak dianggap sebagai menjalankan perniagaan yang dinyatakan dalam Jadual Ketiga Belas Akta yang dicadangkan.
 
@@ -16322,9 +16862,7 @@ Fasal 578 bertujuan untuk menetapkan keperluan dan tatacara apabila syarikat asi
 
 Fasal 579 memperuntukkan bahawa suatu syarikat asing hendaklah mempunyai kuasa untuk memegang harta tak alih di Malaysia.
 
-## Bahagian 2 memperkatakan peruntukan yang berhubungan dengan
-
-penguatkuasaan dan keizinan.
+Bahagian 2 memperkatakan peruntukan yang berhubungan dengan penguatkuasaan dan keizinan.
 
 Fasal 580 bertujuan untuk memperuntukkan hak saksi untuk diwakili peguam.
 
@@ -16370,7 +16908,7 @@ Fasal 597 mengenakan sekatan terhadap penggunaan perkataan “Terhad”, “Berh
 
 Fasal 598 bertujuan untuk mengadakan peruntukan bagi pendakwaan terhadap pegawai yang melanggar undang-undang bagi syarikat dalam keadaan di mana syarikat itu diletakkan di bawah tempoh moratorium.
 
-## Bahagian 3 memperkatakan peruntukan am.
+Bahagian 3 memperkatakan peruntukan am.
 
 Fasal 599 bertujuan untuk mengadakan peruntukan bagi nilai keterangan salinan yang diperakui oleh Pendaftar. Suatu salinan atau cabutan daripada apa-apa dokumen yang difailkan atau diserahsimpan di pejabat Pendaftar yang diperakui sebagai suatu salinan atau cabutan sebenar yang ditandatangani dan dimeterai oleh Pendaftar hendaklah boleh diterima sebagai keterangan dalam apa-apa prosiding yang mempunyai kesahan yang sama dengan dokumen asal.
 

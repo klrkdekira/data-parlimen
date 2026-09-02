@@ -52,19 +52,45 @@ Corporation or for any payment of such monies which is not duly vouched;
 
 and if a satisfactory explanation is not, within a period specified by the Corporation, furnished to the Corporation with regard to the failure to collect, improper payment, payment not duly vouched, deficiency or destruction, or failure to keep proper accounts or records, or failure to make payment, or delay in making payment, the Corporation may surcharge against the said person a sum not exceeding the amount of any such amount not collected, such payment, deficiency, or loss or the value of the property destroyed, as the case may be; and with regard to the failure to keep proper accounts or records, or the failure to make payment, or the delay in making payment, the Corporation may surcharge against the said person such sum as the Corporation may think fit.
 
-Notifi-
+<!-- marginal: Notifi- -->
 
-5D. The Corporation shall cause the Director cation of General to be notified of any surcharge made surcharge. under section 5c and the Director General shall thereupon notify the person surcharged.
+5D. The Corporation shall cause the Director
 
-With-
+<!-- marginal: cation of -->
 
-5E. The Corporation may at any time withdraw drawal of any surcharge in respect of which a surcharge. satisfactory explanation has been received or if it otherwise appears that no surcharge should have been made, and the Corporation shall at once cause the Director General to be notified of such withdrawal.
+General to be notified of any surcharge made
+
+<!-- marginal: surcharge. -->
+
+under section 5c and the Director General shall thereupon notify the person surcharged.
+
+<!-- marginal: With- -->
+
+5E. The Corporation may at any time withdraw
+
+<!-- marginal: drawal of -->
+
+any surcharge in respect of which a
+
+<!-- marginal: surcharge. -->
+
+satisfactory explanation has been received or if it otherwise appears that no surcharge should have been made, and the Corporation shall at once cause the Director General to be notified of such withdrawal.
 
 <!-- page 3 -->
 
 ## (INCORPORATION) (AMENDMENT)
 
-Recovery 5F. The amount of any surcharge imposed of sur- under section 5c and not withdrawn under charge. section 5E shall be a debt due to the Corporation from the person against whom the surcharge is imposed and may be sued for and recovered in any court at the suit of the Corporation and may also be recovered by deduction—
+<!-- marginal: Recovery -->
+
+5F. The amount of any surcharge imposed
+
+<!-- marginal: of sur- -->
+
+under section 5c and not withdrawn under
+
+<!-- marginal: charge. -->
+
+section 5E shall be a debt due to the Corporation from the person against whom the surcharge is imposed and may be sued for and recovered in any court at the suit of the Corporation and may also be recovered by deduction—
 
 (a) from the salary of the person surcharged if the Corporation so directs; or
 
@@ -78,7 +104,27 @@ principal Act is amended by inserting after
 
 3. The 7B the following section:
 
-Power to 7c. (1) The Corporation may transfer or transfer or dispose of any of its activity, duty or function dispose of activity, to any person or body subject to such terms duty or and conditions as it may impose. function.
+<!-- marginal: section -->
+
+<!-- marginal: Power to -->
+
+7c. (1) The Corporation may transfer or
+
+<!-- marginal: transfer or -->
+
+dispose of any of its activity, duty or function
+
+<!-- marginal: dispose of -->
+
+<!-- marginal: activity, -->
+
+to any person or body subject to such terms
+
+<!-- marginal: duty or -->
+
+and conditions as it may impose.
+
+<!-- marginal: function. -->
 
 (2) The Corporation may make rules to regulate the activities of such person or body and prescribe the rates and charges that may be fixed by such person or body in respect of the activity, duty or function of such person or body under subsection (1).".
 
@@ -90,7 +136,15 @@ principal Act is amended by inserting after
 
 18 the following section:
 
-Power of 19. The Minister may, by order in the Gazette, Minister to amend, add to or vary the Schedule to this amend the
+<!-- marginal: Power of -->
+
+19. The Minister may, by order in the Gazette,
+
+<!-- marginal: Minister to -->
+
+amend, add to or vary the Schedule to this
+
+<!-- marginal: amend the -->
 
 ## Schedule.
 

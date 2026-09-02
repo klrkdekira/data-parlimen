@@ -50,15 +50,23 @@ oleh Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan De
 
 (5) Perenggan 5(l)(a) dan 5(l)(c) hendaklah disifatkan telah mula berkuatkuasa pada 24 Jun 1994.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-4. Akta ibu adalah dipinda dengan menggantikan tajuk tajuk panjang dengan tajuk panjang yang berikut: panjang.
+4. Akta ibu adalah dipinda dengan menggantikan tajuk
+
+<!-- marginal: tajuk -->
+
+panjang dengan tajuk panjang yang berikut:
+
+<!-- marginal: panjang. -->
 
 "An Act to provide for the commencement, application, construction, interpretation and operation of written laws; to provide for matters in relation to the exercise of statutory powers and duties; and for matters connected thereto.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-5. (1) Seksyen 3 Akta ibu adalah dipinda— seksyen 3.
+5. (1) Seksyen 3 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 3. -->
 
 (a) dengan menggantikan takrif "Lord President" dengan takrif yang berikut:
 
@@ -104,9 +112,21 @@ Regard to 17A. In the interpretation of a provision of an be had Act, a construc
 
 <!-- page 4 -->
 
-Pindaan 8. Seksyen 20 Akta ibu adalah dipinda dengan seksyen 20. menggantikan perkataan "Subsidiary" dengan perkataan "Notwithstanding the absence of any express provision in any Act or other written law, where such Act or other written law empowers any person to make subsidiary legislation, such subsidiary".
+<!-- marginal: Pindaan -->
 
-Pindaan 9. Seksyen 23 Akta ibu adalah dipinda dengan seksyen 23. memasukkan selepas subseksyen (1) subseksyen yang berikut:
+8. Seksyen 20 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 20. -->
+
+menggantikan perkataan "Subsidiary" dengan perkataan "Notwithstanding the absence of any express provision in any Act or other written law, where such Act or other written law empowers any person to make subsidiary legislation, such subsidiary".
+
+<!-- marginal: Pindaan -->
+
+9. Seksyen 23 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 23. -->
+
+memasukkan selepas subseksyen (1) subseksyen yang berikut:
 
 "(1A) For the purposes of subsection (1), any subsidiary legislation made under an Act is not inconsistent with that Act or any other Act merely by reason of the absence in the Act under which it is made of any provision relating
 
@@ -122,13 +142,21 @@ commencement, application, operation, interpretation or construction of the subs
 
 commencement, application, operation, interpretation or construction of, or other matter in connection with, subsidiary legislation generally are contained in this Act.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-10. Seksyen 25 Akta ibu adalah dipinda dengan seksyen 25. memasukkan selepas perkataan "enabling," perkataan "whether in the Act or other written law under which it is made or under this Act and".
+10. Seksyen 25 Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 25. -->
 
-11. Seksyen 27 Akta ibu adalah dipinda dengan seksyen 27. menggantikan perkataan "Subsidiary legislation may provide for persons guilty of offences thereunder" dengan perkataan "Notwithstanding the absence of any express provision in any Act or other written law, subsidiary legislation may provide that contravention of any provision of the subsidiary legislation shall constitute an offence and for persons guilty of such offence".
+memasukkan selepas perkataan "enabling," perkataan "whether in the Act or other written law under which it is made or under this Act and".
+
+<!-- marginal: Pindaan -->
+
+11. Seksyen 27 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 27. -->
+
+menggantikan perkataan "Subsidiary legislation may provide for persons guilty of offences thereunder" dengan perkataan "Notwithstanding the absence of any express provision in any Act or other written law, subsidiary legislation may provide that contravention of any provision of the subsidiary legislation shall constitute an offence and for persons guilty of such offence".
 
 <!-- page 5 -->
 
@@ -186,6 +214,4 @@ Matlamat untuk memudahkan penggunaan cara elektronik adalah juga sebab di sebali
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
-
-<!-- marginal: [PN. (U2) 1997.] -->
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN. (U2) 1997.]

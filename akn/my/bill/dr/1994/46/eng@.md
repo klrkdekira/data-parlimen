@@ -14,11 +14,7 @@
 
 ## LEMBAGA TABUNG HAJI
 
-3. Establishment of Lembaga Tabung Haji. 4. Functions of the Lembaga. 5. Common seal of the Lembaga.
-
-6. Membership of the Lembaga. 7. Remuneration. oxin
-
-8. Meetings of the Lembaga. 9. Disclosure of inierest in transactions with the Lembaga.
+3. Establishment of Lembaga Tabung Haji. 4. Functions of the Lembaga. 5. Common seal of the Lembaga. 6. Membership of the Lembaga. 7. Remuneration. oxin 8. Meetings of the Lembaga. 9. Disclosure of inierest in transactions with the Lembaga.
 
 10. Power of Minister 10 give directions and require information,
 
@@ -46,25 +42,61 @@
 
 <!-- page 2 -->
 
-18. Borrowing powers. 19. Regulations in relation to deposits and withdrawals. 20. Investment of Fund. 21. Reserve Fund. 22. Declaration of distributable profit. 23. Unclaimed moneys. 24. Government's guarantec of payments. 25. Annual estimates. 26. Statutory Bodies (Accounts and Annual Reports) Act 1980.
+18. Borrowing powers. 19. Regulations in relation to deposits and withdrawals.
+
+20. Investment of Fund.
+
+21. Reserve Fund.
+
+22. Declaration of distributable profit.
+
+23. Unclaimed moneys.
+
+24. Government's guarantec of payments.
+
+25. Annual estimates.
+
+26. Statutory Bodies (Accounts and Annual Reports) Act 1980.
 
 ## PART V
 
 ## PILGRIM ORGANIZER
 
-27. Restriction on pilgrim organizers. 28. Application for licence and issuance of licence. 29. Security deposit. 30. Penalty for contravening term and condition of licence. 31. Obligation of pilgrim organizer where pilgrim is detained in the Holy Land or elsewhere. 32. Issue of ticket to pilgrims. 33. Aulhority to issue single journey ticket.
+27. Restriction on pilgrim organizers.
+
+28. Application for licence and issuance of licence.
+
+29. Security deposit.
+
+30. Penalty for contravening term and condition of licence.
+
+31. Obligation of pilgrim organizer where pilgrim is detained in the Holy Land or elsewhere.
+
+32. Issue of ticket to pilgrims.
+
+33. Aulhority to issue single journey ticket.
 
 ## PART VI
 
 ## PILGRIMS
 
-34. Conditions for travel lo the Holy Land. 35. Lembaga to issue Passport Haji. 36. Price to be marked upon ticket.
+34. Conditions for travel lo the Holy Land.
+
+35. Lembaga to issue Passport Haji.
+
+36. Price to be marked upon ticket.
 
 ## PART VII
 
 ## MISCELLANEOUS
 
-37. Evidence under this Act. 38. Provision as to jurisdiction. 39. General penalty and atiempts, etc., to commit offence. 40. Liability of managers, etc.
+37. Evidence under this Act.
+
+38. Provision as to jurisdiction.
+
+39. General penalty and atiempts, etc., to commit offence.
+
+40. Liability of managers, etc.
 
 <!-- page 3 -->
 
@@ -214,7 +246,11 @@ the name of "Lembaga Tabung Haji".
 
 <!-- page 8 -->
 
-Functions of 4. (1) The Lembaga shall have the following functions: the Lembaga.
+<!-- marginal: Functions of -->
+
+4. (1) The Lembaga shall have the following functions:
+
+<!-- marginal: the Lembaga. -->
 
 (a) to administer the Fund;
 
@@ -232,7 +268,11 @@ Functions of 4. (1) The Lembaga shall have the following functions: the Lembaga.
 
 (c) establish a corporation by such name as the Lembaga may think fit to carry out and have the charge, conduct and management of any project, scheme or enterprise which has been planned or undertaken by the Lembaga; or
 
-(d) establish or promote the establishment of Act 125 companies under the Companies Act 1965 to carry on or engage in any activity which has been planned or undertaken by the Lembaga.
+(d) establish or promote the establishment of
+
+<!-- marginal: Act 125 -->
+
+companies under the Companies Act 1965 to carry on or engage in any activity which has been planned or undertaken by the Lembaga.
 
 (4) The provisions of the Schedule shall apply to a corporation established under paragraph (3)(c).
 
@@ -308,9 +348,17 @@ his office as a member of the Lembaga shall become
 
 (7) Subject to subsections (4), (5) and (6), a member of the Lembaga shall hold office for a term not exceeding three years and is eligible for Reappointment
 
-Remuneration. 12(3), members of the Lembaga 7. Subject to subsection shall not be entitled to any remuneration but may be paid such honorarium and travelling and subsistence allowances as the Minister may determine.
+<!-- marginal: Remuneration. -->
 
-Meetings of 8. (1) The Lembaga shall meet at least once in every the Lembaga. three months.
+12(3), members of the Lembaga 7. Subject to subsection shall not be entitled to any remuneration but may be paid such honorarium and travelling and subsistence allowances as the Minister may determine.
+
+<!-- marginal: Meetings of -->
+
+8. (1) The Lembaga shall meet at least once in every
+
+<!-- marginal: the Lembaga. -->
+
+three months.
 
 (2) Three members of the Lembaga shall form a quorum at any meeting of the Lembaga.
 
@@ -442,7 +490,17 @@ III
 
 ## OFFICERS, SERYANTS AND AGENTS OF THE LEMBAGA
 
-Chief 12. (1) The Minister may appoint any member of the Executive Lembaga to be the Chief Executive Officer of the Lembaga Officer. upon such terms and conditions as the Lembaga may, with the concurrence of the Minister, determine.
+<!-- marginal: Chief -->
+
+12. (1) The Minister may appoint any member of the
+
+<!-- marginal: Executive -->
+
+Lembaga to be the Chief Executive Officer of the Lembaga
+
+<!-- marginal: Officer. -->
+
+upon such terms and conditions as the Lembaga may, with the concurrence of the Minister, determine.
 
 (2) The Chief Executive Officer shall have such powers and duties as may be conferred or imposed upon him by this Act or from time to time by the Lembaga in addition to such powers and duties as may be specified in his letter of appointment.
 
@@ -520,7 +578,9 @@ IV
 
 ## FINANCE
 
-Fund. 15. (1) There shall be established, for the purposes of this Act, a fund to be administered and controlled by the Lembaga.
+<!-- marginal: Fund. -->
+
+15. (1) There shall be established, for the purposes of this Act, a fund to be administered and controlled by the Lembaga.
 
 (2) The Fund shall consist of—
 
@@ -570,13 +630,41 @@ Fund. 15. (1) There shall be established, for the purposes of this Act, a fund t
 
 (b) as savings for investment or for any other purpose permitted by the Lembaga.
 
-Financing or 17. (1) The Lembaga may, with the approval of the financial Minister, give financing or financial assistance to any assistance. company established under paragraph 4(3)(d) and to any company related to it, and such financing or financial assistance may be granted subject to such terms and conditions as the Lembaga may deem fit to impose in particular cases.
+<!-- marginal: Financing or -->
+
+17. (1) The Lembaga may, with the approval of the
+
+<!-- marginal: financial -->
+
+Minister, give financing or financial assistance to any
+
+<!-- marginal: assistance. -->
+
+company established under paragraph 4(3)(d) and to any company related to it, and such financing or financial assistance may be granted subject to such terms and conditions as the Lembaga may deem fit to impose in particular cases.
 
 (2) No guarantee or indemnity letter shall be issued by the Lembaga or any corporation established under this Act without the written approval of the Minister of Finance.
 
-Borrowing 18. The Lembaga may, with the approval of the Minister powers. and Minister of Finance and upon such terms and conditions and for such period as they may approve, borrow any sums required by the Lembaga for the purposes of this Act.
+<!-- marginal: Borrowing -->
 
-Regulations in 19. The Lembaga may, with the approval of the Minister relation to in relation to deposits and withdrawals, make regulations deposits and withdrawals. as to—
+18. The Lembaga may, with the approval of the Minister
+
+<!-- marginal: powers. -->
+
+and Minister of Finance and upon such terms and conditions and for such period as they may approve, borrow any sums required by the Lembaga for the purposes of this Act.
+
+<!-- marginal: Regulations in -->
+
+19. The Lembaga may, with the approval of the Minister
+
+<!-- marginal: relation to -->
+
+in relation to deposits and withdrawals, make regulations
+
+<!-- marginal: deposits and -->
+
+<!-- marginal: withdrawals. -->
+
+as to—
 
 (a) the manner in which deposits into the Fund are to be made;
 
@@ -640,7 +728,17 @@ no distributable profit shall be declared in any year unless at the end of that 
 
 (5) Any decision by the Lembaga in respect of the amount of distributable profit to be apportioned to a depositor shall be final and binding on the depositor and a certificate by the Chief Executive Officer shall be conclusive evidence of the distributable profit apportioned to the depositor.
 
-Unclaimed 23. (1) Where the Lembaga has been declared under moneys. section 8 of the Unclaimed Moneys Act 1965 not to be Act 370 a company to which Part II of that Act applies, all unclaimed moneys held by the Lembaga shall be entered in a register kept by the Chief Executive Officer.
+<!-- marginal: Unclaimed -->
+
+23. (1) Where the Lembaga has been declared under
+
+<!-- marginal: moneys. -->
+
+section 8 of the Unclaimed Moneys Act 1965 not to be
+
+<!-- marginal: Act 370 -->
+
+a company to which Part II of that Act applies, all unclaimed moneys held by the Lembaga shall be entered in a register kept by the Chief Executive Officer.
 
 (2) Not with standing any law to the contrary, all unclaimed moneys shall be held under the Fund until those moneys are paid to the appropriate depositors at any time subsequem thereto.
 
@@ -728,7 +826,19 @@ unless he is the holder of a valid pilgrim organizer licence issued by the Lemba
 
 (b) in respect of the second or any subsequent offence, be liable to a fine not less than five hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both.
 
-Application 28. (1) An application for a pilgrim organizer licence for licence shall be made to the Lembaga in writing in such manner and issuance as may be prescribed. of licence.
+<!-- marginal: Application -->
+
+28. (1) An application for a pilgrim organizer licence
+
+<!-- marginal: for licence -->
+
+shall be made to the Lembaga in writing in such manner
+
+<!-- marginal: and issuance -->
+
+as may be prescribed.
+
+<!-- marginal: of licence. -->
 
 (2) The Lembaga may require an applicant for a pilgrim organizer licence to provide such additional information or document as it may deem necessary for the purpose of determining the application.
 
@@ -770,7 +880,21 @@ licence is issued shall deposit with the Lembaga as soon as may be after the iss
 
 (c) to repay any sum which may have been paid by the Lembaga in good faith to any person claiming a right to or interest in such sum.
 
-Penalty for 30. (1) Any pilgrim organizer who contravenes any term contravening or condition of his licence shall be guilty of an offence term and condition and shall on conviction— of licence.
+<!-- marginal: Penalty for -->
+
+30. (1) Any pilgrim organizer who contravenes any term
+
+<!-- marginal: contravening -->
+
+or condition of his licence shall be guilty of an offence
+
+<!-- marginal: term and -->
+
+<!-- marginal: condition -->
+
+and shall on conviction—
+
+<!-- marginal: of licence. -->
 
 (a) in respect of a first offence, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding one year or to both; and
 
@@ -780,7 +904,31 @@ Penalty for 30. (1) Any pilgrim organizer who contravenes any term contravening 
 
 (3) The Lembaga may, upon any pilgrim organizer being charged with an offence under subsection (1), suspend his pilgrim organizer licence pending the disposal of the case.
 
-Obligation 31. (1) Every pilgrim organizer or his agent resident in of pilgrim Malaysia shall be responsible for the due performance organizer where pilgrim of the following obligations in respect of every aircraft is detained chartered or arranged for by him for the conveyance of in the Holy Land or pilgrims to or from the Holy Land: elsewhere.
+<!-- marginal: Obligation -->
+
+31. (1) Every pilgrim organizer or his agent resident in
+
+<!-- marginal: of pilgrim -->
+
+Malaysia shall be responsible for the due performance
+
+<!-- marginal: organizer -->
+
+<!-- marginal: where pilgrim -->
+
+of the following obligations in respect of every aircraft
+
+<!-- marginal: is detained -->
+
+chartered or arranged for by him for the conveyance of
+
+<!-- marginal: in the Holy -->
+
+<!-- marginal: Land or -->
+
+pilgrims to or from the Holy Land:
+
+<!-- marginal: elsewhere. -->
 
 (a) that where any pilgrim is detained in the Holy Land or elsewhere for a period longer than twenty-four hours from the hour and date when accommodation on such aircraft was to have been available, the pilgrim organizer shall pay to the Malaysian Ambassador or Consul in the Holy Land or elsewhere such sum as the Lembaga may from time to time determine to
 
@@ -820,17 +968,47 @@ is organized by him a return air ticket for that pilgrim's travel to the Holy La
 
 <!-- page 26 -->
 
-(4) Any pilgrim organizer who contravenes subsection (1) or (3) shall be guilty of an offence and shall upon conviction be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding one year or to both.
+(4) Any pilgrim organizer who contravenes subsection
+
+(1) or (3) shall be guilty of an offence and shall upon conviction be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding one year or to both.
 
 (5) Notwithstanding any penalty under subsection (4), the Lembaga shall, where a pilgrim organizer has failed to comply with subsection (1), be entitled to arrange for the purchase of a ticket for the return journey of a pilgrim and the pilgrim organizer shall be liable for and bear all costs incurred therefor and shall indemnify the Lembaga for the costs on demand.
 
-Authorily 33. The Lembaga may issue a written authority, subject to issue to such terms and conditions as it may deem fit to impose, single jouney authorising the issue to any pilgrim of a single journey ticket. ticket to the Holy Land.
+<!-- marginal: Authorily -->
+
+33. The Lembaga may issue a written authority, subject
+
+<!-- marginal: to issue -->
+
+to such terms and conditions as it may deem fit to impose,
+
+<!-- marginal: single -->
+
+<!-- marginal: jouney -->
+
+authorising the issue to any pilgrim of a single journey
+
+<!-- marginal: ticket. -->
+
+ticket to the Holy Land.
 
 ## PART VI
 
 ## PILGRIMS
 
-Conditions 34. (1) No pilgrim shall travel or attempt to travel to for travel to the Holy Land to perform the pilgrimage unless the the Holy Land. Lembaga has issued to him a written certificate confirming that the pilgrim has—
+<!-- marginal: Conditions -->
+
+34. (1) No pilgrim shall travel or attempt to travel to
+
+<!-- marginal: for travel to -->
+
+the Holy Land to perform the pilgrimage unless the
+
+<!-- marginal: the Holy -->
+
+<!-- marginal: Land. -->
+
+Lembaga has issued to him a written certificate confirming that the pilgrim has—
 
 (a) been duly issued with a Passport Haji;
 
@@ -898,9 +1076,37 @@ under this Act—
 
 shall be received in evidence, if it appears to have been officially transmitted to any officer at or near the place where the proceeding under this Act is held.
 
-Provision 38. For the purpose of giving jurisdiction under this Act as to every offence shall be deemed to have been committed jurisdiction. and every cause of complaint to have arisen either in the place in which the same actually was committed or arose or in any place in which the offender or person complained against is found.
+<!-- marginal: Provision -->
 
-General 39. (1) Any person who is guilty of an offence under penalty and this Act or any regulation made under this Act for which attempts, no express penalty is provided shall on conviction be etc., to commit liable— offence.
+38. For the purpose of giving jurisdiction under this Act
+
+<!-- marginal: as to -->
+
+every offence shall be deemed to have been committed
+
+<!-- marginal: jurisdiction. -->
+
+and every cause of complaint to have arisen either in the place in which the same actually was committed or arose or in any place in which the offender or person complained against is found.
+
+<!-- marginal: General -->
+
+39. (1) Any person who is guilty of an offence under
+
+<!-- marginal: penalty and -->
+
+this Act or any regulation made under this Act for which
+
+<!-- marginal: attempts, -->
+
+no express penalty is provided shall on conviction be
+
+<!-- marginal: etc., to -->
+
+<!-- marginal: commit -->
+
+liable—
+
+<!-- marginal: offence. -->
 
 (a) in respect of a first offence, to a fine not exceeding five thousand ringgit or
 
@@ -916,7 +1122,11 @@ imprisonment for a term not exceeding three months or to both; and
 
 (b) does any act preparatory to or in furtherance of the commission of any offence under this Act or any regulation made under this Act; or
 
-(c) abets or is engaged in a criminal conspiracy to commit (as those terms are defined in the P.M.S Cap. Penal Code) any offence under this Act or
+(c) abets or is engaged in a criminal conspiracy to commit (as those terms are defined in the
+
+<!-- marginal: P.M.S Cap. -->
+
+Penal Code) any offence under this Act or
 
 45. any regulation made under this Act, whether or not the offence is committed in consequence thereof,
 
@@ -968,15 +1178,57 @@ material obtained pursuant to his employment or engagement by the Lembaga shall 
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding one year or to both.
 
-Protection for 43. (1) No member of the Lembaga or any committee, members, or officer, servant or agent of the Lembaga, shall incur officers, sevants and any personal liability for any loss or damage caused by agents. any act or omission in carrying out his powers or duties under this Act unless such loss or damage is occasioned by an intentionally wrongful act or omission on his part.
+<!-- marginal: Protection for -->
 
-Act 198. (2) The Public Authorities Protection Act 1948 shall apply to any action, suit, prosecution or proceeding against the Lembaga or against any member of the Lembaga or any committee, or any officer, seryant or agent of the Lembaga, in respect of any default done or committed by him in such capacity.
+43. (1) No member of the Lembaga or any committee,
 
-Public 44. All members of the Lembaga and of every committee servants. and all officers and servants of the Lembaga shall be deemed to be public servants within the meaning of the F.M.S. Penal Code. Cap.45.
+<!-- marginal: members, -->
 
-Power to 45. (1) The Lembaga may with the approval of the make Minister make such regulations as may be necessary or regulation: expedient for giving full effect to the provisions of this Act, for carrying out the purposes of this Act or any provision thereof, or for the further, better or more convenient implementation of the provisions of this Act.
+or officer, servant or agent of the Lembaga, shall incur
 
-(2) Without prejudice to the generality of subsection (1), regulations may be made—
+<!-- marginal: officers, -->
+
+<!-- marginal: sevants and -->
+
+any personal liability for any loss or damage caused by
+
+<!-- marginal: agents. -->
+
+any act or omission in carrying out his powers or duties under this Act unless such loss or damage is occasioned by an intentionally wrongful act or omission on his part.
+
+<!-- marginal: Act 198. -->
+
+(2) The Public Authorities Protection Act 1948 shall apply to any action, suit, prosecution or proceeding against the Lembaga or against any member of the Lembaga or any committee, or any officer, seryant or agent of the Lembaga, in respect of any default done or committed by him in such capacity.
+
+<!-- marginal: Public -->
+
+44. All members of the Lembaga and of every committee
+
+<!-- marginal: servants. -->
+
+and all officers and servants of the Lembaga shall be deemed to be public servants within the meaning of the
+
+<!-- marginal: F.M.S. -->
+
+Penal Code.
+
+<!-- marginal: Cap.45. -->
+
+<!-- marginal: Power to -->
+
+45. (1) The Lembaga may with the approval of the
+
+<!-- marginal: make -->
+
+Minister make such regulations as may be necessary or
+
+<!-- marginal: regulation: -->
+
+expedient for giving full effect to the provisions of this Act, for carrying out the purposes of this Act or any provision thereof, or for the further, better or more convenient implementation of the provisions of this Act.
+
+(2) Without prejudice to the generality of subsection
+
+(1), regulations may be made—
 
 (a) with respect to the establishing of committees and the procedure of such committees;
 
@@ -1080,13 +1332,45 @@ day held office as an appointed member of the Lembaga Urusan dan Tabung Haji sha
 
 (3) Any reference in any written law to the repealed Act or the Lembaga Urusan dan Tabung Haji shall, unless the context otherwise requires, be construed as references to this Act or the Lembaga, as the case may be, and expressions importing such a reference shall be construed accordingly.
 
-Transfer of 50. Subject to this Act, all powers, rights, privileges, powers, duties, liabilities or obligations which immediately before rights, liabilities and the appointed day were those of the Lembaga Urusan duties. dan Tabung Haji shall as from that day devolve on the Lembaga.
+<!-- marginal: Transfer of -->
 
-Transfer of 51. (1) Subject to this Act, all lands immediately before land and the appointed day vested in or reserved under the property. provisions of any written law relating to land for the purpose of the Lembaga Urusan dan Tabung Haji shall on that day vest on, or be deemed to be reserved for the purpose of, as the case may be, the Lembaga.
+50. Subject to this Act, all powers, rights, privileges,
+
+<!-- marginal: powers, -->
+
+duties, liabilities or obligations which immediately before
+
+<!-- marginal: rights, -->
+
+<!-- marginal: liabilities and -->
+
+the appointed day were those of the Lembaga Urusan
+
+<!-- marginal: duties. -->
+
+dan Tabung Haji shall as from that day devolve on the Lembaga.
+
+<!-- marginal: Transfer of -->
+
+51. (1) Subject to this Act, all lands immediately before
+
+<!-- marginal: land and -->
+
+the appointed day vested in or reserved under the
+
+<!-- marginal: property. -->
+
+provisions of any written law relating to land for the purpose of the Lembaga Urusan dan Tabung Haji shall on that day vest on, or be deemed to be reserved for the purpose of, as the case may be, the Lembaga.
 
 (2) Subject to this Act and to any direction of the Minister, all property and assets other than land which immediately before the appointed day were vested in the Lembaga Urusan dan Tabung Haji or in any person on behalf of the Lembaga Urusan dan Tabung Haji shall on that day vest in the Lembaga.
 
-Existing 52. Subject to this Act, all deeds, bonds, agreements, contracts. instruments and working arrangements subsisting immediately before the appointed day and affecting any of the property transferred under section 51 shall be of full force and effect against or in favour of the Lembaga and enforceable as fully and effectually as if, instead of the Lembaga Urusan dan Tabung Haji, the Lembaga had ,been named therein or had been a party thereto.
+<!-- marginal: Existing -->
+
+52. Subject to this Act, all deeds, bonds, agreements,
+
+<!-- marginal: contracts. -->
+
+instruments and working arrangements subsisting immediately before the appointed day and affecting any of the property transferred under section 51 shall be of full force and effect against or in favour of the Lembaga and enforceable as fully and effectually as if, instead of the Lembaga Urusan dan Tabung Haji, the Lembaga had ,been named therein or had been a party thereto.
 
 <!-- page 35 -->
 
@@ -1148,7 +1432,21 @@ dan Tabung Haji before the appointed day that would have been lawful if it had b
 
 (b) any financing or financial assistance given by the Lembaga Urusan dan Tabung Haji to a company referred to in paragraph (a) shatl be deemed to have been lawfully given.
 
-Continuance 57. (1) The person who was the Director General of of Director the Lembaga Urusan dan Tabung Haji immediately before General, officers and the appointed day shall on that day— servants.
+<!-- marginal: Continuance -->
+
+57. (1) The person who was the Director General of
+
+<!-- marginal: of Director -->
+
+the Lembaga Urusan dan Tabung Haji immediately before
+
+<!-- marginal: General, -->
+
+<!-- marginal: officers and -->
+
+the appointed day shall on that day—
+
+<!-- marginal: servants. -->
 
 (a) be the Chief Executive Officer of the Lembaga as if he had been appointed under section 12 until the expiry of the period for which he was appointed under the repealed Act, unless he sooner resigns or his appointment is sooner revoked by the Minister under that section; and
 
@@ -1156,9 +1454,21 @@ Continuance 57. (1) The person who was the Director General of of Director the L
 
 (2) Every person who immediately before the appointed day was employed as an officer or servant of the Lembaga Urusan dan Tabung Haji shall on that day be deemed to be employed as such officer or servant, as the case may be, of the Lembaga upon the same terms and conditions of service as those applicable immediately before the appointed day.
 
-Pending 58. All disciplinary proceedings which, immediately disciplinary before the appointed day, were pending against any officer procecdings. or servant of the Lembaga Urusan dan Tabung Haji may, on or after that date, be continued against the officer or servant under this Act.
+<!-- marginal: Pending -->
 
-Use of seal. 59. Until a seal is provided by the Lembaga under section 5, the common seal of the Lembaga Urusan dan Tabung Haji shall be the common seal of the Lembaga.
+58. All disciplinary proceedings which, immediately
+
+<!-- marginal: disciplinary -->
+
+before the appointed day, were pending against any officer
+
+<!-- marginal: procecdings. -->
+
+or servant of the Lembaga Urusan dan Tabung Haji may, on or after that date, be continued against the officer or servant under this Act.
+
+<!-- marginal: Use of seal. -->
+
+59. Until a seal is provided by the Lembaga under section 5, the common seal of the Lembaga Urusan dan Tabung Haji shall be the common seal of the Lembaga.
 
 <!-- page 37 -->
 
@@ -1228,7 +1538,9 @@ a body corporate by such name as the Lembaga shall give to such corporation and 
 
 (2) Until a seal is providcd by the corporalion under this paragraph a stamp bearing the name of the corporation enctreling the letters '"TABUNG HAJI" may be uscd as common seal.
 
-(3) The common seal, or the stamp referred to in subparagraph (2) shall be in the custody of such person as the corporation shall direct and shall be authenticated by such person.
+(3) The common seal, or the stamp referred to in subparagraph
+
+(2) shall be in the custody of such person as the corporation shall direct and shall be authenticated by such person.
 
 (4) All deeds, documents and other instruments purporting to be sealed with the seal, authenticated as provided in subparagraph (3), shall until the contrary is prewed, be deemed to have been validly executed.
 
@@ -1260,9 +1572,7 @@ Under this Part, specidcally under clause 4, the Lembaga is given wider powers c
 
 7. Part V contains provisions designcd to control the activities of pilgrim organizers by making it an offence for an unlicensed person to organize travel to thc Holy Land for the purpose of performing the pilgrimage (clause 27) and by creating penalties for pilgrim organizers who contravcne the terms and conditions of their licences (clause 30).
 
-## Part V also contains provisions dealing with the issuance of licences
-
-to organize travel to the Holy Land to perform the pilgrimage (clause 28) and requiring a pilgrim organizer to maintain a security deposit with the Lembaga (clause 29).
+Part V also contains provisions dealing with the issuance of licences to organize travel to the Holy Land to perform the pilgrimage (clause 28) and requiring a pilgrim organizer to maintain a security deposit with the Lembaga (clause 29).
 
 8. Part VI contains provisions on the conditions for travel to the Holy Land to perform the pilgrimage (clause 34), the issuance of passport Haji (clause 35) and the requirement that the price at which a ticket for travel to the Holy Land is sold be marked on the ticket in the Malay and English languages (clause 36).
 

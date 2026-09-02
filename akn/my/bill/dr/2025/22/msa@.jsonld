@@ -364,7 +364,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/msa@/~cl_16",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: “(3a) Pihak berkepentingan yang memfailkan kajian semula kehakiman di bawah subseksyen (1) dan kajian semula kehakiman itu masih belum selesai, tidak boleh meminta untuk suatu kajian semula di bawah seksyen 13, 13a, 13b, 13c, 28, 28a, 28b atau 28c Akta ini.”; dan"
+        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: “(3a) Pihak berkepentingan yang memfailkan kajian semula kehakiman di bawah subseksyen (1) dan kajian semula kehakiman itu masih belum selesai, tidak boleh meminta untuk suatu kajian semula di bawah SEKSYEN 13, 13A, 13B, 13C, 28, 28A, 28B ATAU 28C Akta ini.”; dan"
       }
     },
     {
@@ -378,7 +378,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/msa@/~cl_16",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (4)— Pindaan seksyen 37"
+        "@value": "dalam subseksyen (4)—"
       }
     },
     {
@@ -398,7 +398,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/msa@/~cl_16__para_e",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan perkataan “mana-mana penentuan muktamad atau penentuan kajian semula pentadbiran muktamad” dengan perkataan “Akta ini”."
+        "@value": "dengan menggantikan perkataan “mana-mana penentuan muktamad atau penentuan kajian semula pentadbiran muktamad” dengan perkataan “Akta ini”. Pindaan seksyen 37"
       }
     },
     {
@@ -737,7 +737,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/msa@/~cl_8",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (2)— Pindaan seksyen 24"
+        "@value": "dalam subseksyen (2)—"
       }
     },
     {
@@ -757,7 +757,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/msa@/~cl_8__para_b",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perkataan “atas apa-apa asas munasabah” perkataan “sebagaimana yang ditentukan oleh Kerajaan”."
+        "@value": "dengan memasukkan selepas perkataan “atas apa-apa asas munasabah” perkataan “sebagaimana yang ditentukan oleh Kerajaan”. Pindaan seksyen 24"
       }
     },
     {

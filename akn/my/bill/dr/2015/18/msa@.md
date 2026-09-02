@@ -68,7 +68,7 @@ Migran (Pindaan)
 
 4. Akta ibu dipinda dengan memasukkan selepas Bahagian I Bahagian yang berikut:
 
-“Bahagian Ia
+## “BAHAGIAN IA
 
 ## JAWATANKUASA PERINGKAT TERTINGGI
 

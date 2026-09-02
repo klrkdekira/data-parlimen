@@ -28,9 +28,7 @@ BE IT ENACTED by the Seri Paduka Baginda Yang di-Pertuan Agong with the advice a
 
 <!-- marginal: of section 2. -->
 
-referred to as the "principal Act",
-
-<!-- marginal: is amended -->
+referred to as the "principal Act", is amended
 
 <!-- marginal: in -->
 
@@ -48,11 +46,11 @@ section 2—
 
 <!-- page 2 -->
 
-### Amendment
+<!-- marginal: Amendment -->
 
 3. Section 3 of the principal Act is amended—
 
-### of section 3.
+<!-- marginal: of section 3. -->
 
 (a) by substituting for subsection (1) the following subsection:
 
@@ -66,25 +64,17 @@ section 2—
 
 (c) in subsection (3)—
 
-(i) by substituting for paragraph (a)
+(i) by substituting for paragraph (a) the following paragraph:
 
-<!-- marginal: the -->
-
-following paragraph:
-
-"(a) a Deputy Director General of Immigration or Director
-
-<!-- marginal: of -->
-
-Immigration;" and
+"(a) a Deputy Director General of Immigration or Director of Immigration;" and
 
 (ii) in paragraph (b) by substituting for the words "Principal Assistant Director of Immigration, Senior Assistant Director of Immigration, Assistant Director of Immigration or Deputy Assistant Director of Immigration" the words "senior immigration officer".
 
-### Amendment
+<!-- marginal: Amendment -->
 
 4. Subsection 6(1) of the principal Act is amended—
 
-### of section 6.
+<!-- marginal: of section 6. -->
 
 (a) in paragraph (a) by deleting the words "or Re- entry Permit" and "or 11"; and
 
@@ -152,7 +142,9 @@ inserting after the words "an Entry Permit" the words
 
 <!-- page 4 -->
 
-4 Bill
+<!-- marginal: 4 -->
+
+Bill
 
 (vi) by inserting after subparagraph (vi) the following subparagraph:
 
@@ -168,9 +160,11 @@ inserting after the words "an Entry Permit" the words
 
 (iv) in paragraph (f) by inserting after the word "report" the words "to an immigration officer".
 
-Amendment
+<!-- marginal: Amendment -->
 
-9. Subsection 24(1) of the principal Act is amended— of section
+9. Subsection 24(1) of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 24.
 
@@ -178,9 +172,29 @@ Amendment
 
 (b) by substituting for the words "the said" the words "an immigration".
 
-Substitution 10. The principal Act is amended by substituting for of section section 36 the following section:
+<!-- marginal: Substitution -->
 
-36. Unlawful 36. Any person who, having been lawfully return removed or otherwise sent out of Malaysia, after removal. unlawfully enters Malaysia or unlawfully resides in Malaysia shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment
+10. The principal Act is amended by substituting for
+
+<!-- marginal: of section -->
+
+section 36 the following section:
+
+36.
+
+<!-- marginal: Unlawful -->
+
+36. Any person who, having been lawfully
+
+<!-- marginal: return -->
+
+removed or otherwise sent out of Malaysia,
+
+<!-- marginal: after -->
+
+<!-- marginal: removal. -->
+
+unlawfully enters Malaysia or unlawfully resides in Malaysia shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment
 
 <!-- page 5 -->
 
@@ -214,19 +228,19 @@ Provided that no such master, captain, owner, charterer or agent shall be liable
 
 <!-- page 6 -->
 
-New section
+<!-- marginal: New section -->
 
 13. The principal Act is amended by inserting after
 
 48A. section 48 the following section:
 
-### "Liability
+<!-- marginal: "Liability -->
 
 48A. (1) A person—
 
-### tor
+<!-- marginal: tor -->
 
-### removal.
+<!-- marginal: removal. -->
 
 (a) who is involved, directly or indirectly, in conveying to Malaysia in or on any vehicle, vessel or aircraft any person contrary to this Act;
 
@@ -238,11 +252,11 @@ shall be liable for the expenses of removing that person from Malaysia and for r
 
 (2) Where the Government has incurred expenses in detaining and maintaining or in removing any person ordered to be removed under this Act, such expenses shall be recoverable as a debt due to the Government from the persons named in subsection (1).".
 
-### Amendment
+<!-- marginal: Amendment -->
 
 14. Section 49A of the principal Act is amended—
 
-### of section 49A.
+<!-- marginal: of section 49A. -->
 
 (a) in the marginal note by substituting for the words "of under seventy-five tons" the words ", vehicles or aircraft";
 
@@ -284,7 +298,31 @@ section 55 the following sections:
 
 <!-- marginal: and 55 D. -->
 
-"Conveying 55A. (1) Any person involved, directly or a person indirectly, in conveying to Malaysia in or on lo any vehicle, vessel or aircraft any person contrary Malaysia contrary to this Act shall be guilty of an offence and to this shall, on conviction, be liable to a fine of not Act. less than ten thousand ringgit but not more than fifty thousand ringgit and to imprisonment for a term of not less than two years but not more than five years and shall also be liable to whipping of not more than six strokes.
+<!-- marginal: "Conveying -->
+
+55A. (1) Any person involved, directly or
+
+<!-- marginal: a person -->
+
+indirectly, in conveying to Malaysia in or on
+
+<!-- marginal: lo -->
+
+any vehicle, vessel or aircraft any person contrary
+
+<!-- marginal: Malaysia -->
+
+<!-- marginal: contrary -->
+
+to this Act shall be guilty of an offence and
+
+<!-- marginal: to this -->
+
+shall, on conviction, be liable to a fine of not
+
+<!-- marginal: Act. -->
+
+less than ten thousand ringgit but not more than fifty thousand ringgit and to imprisonment for a term of not less than two years but not more than five years and shall also be liable to whipping of not more than six strokes.
 
 (2) Where the offence under subsection (1) has been committed by a body corporate, the
 
@@ -294,9 +332,33 @@ body corporate shall be guilty of that offence and shall, on conviction, be liab
 
 (3) Where the offence under subsection (1) has been committed by a body corporate, any person who at the time of the commission of the offence was a member of the board of directors, a manager, a secretary or a person holding an office or a position similar to that of a manager or secretary of the body corporate shall be guilty of that offence and shall, on conviction, be liable to a fine of not less than thirty thousand ringgit but not more than one hundred thousand ringgit and to imprisonment for a term of not less than two years but not more than ten years and shall also be liable to whipping of not more than six strokes.
 
-(4) Notwithstanding subsection (1), where the offence under subsection (1) has been committed by a person who has been proved to the satisfaction of the court to have acted jointly with one or more persons in the commission of the offence under subsection (1), that person shall, on conviction, be liable to a fine of not less than thirty thousand ringgit but not more than one hundred thousand ringgit and to imprisonment for a term of not less than two years but not more than ten years and shall also be punished with whipping of not more than six strokes.
+(4) Notwithstanding subsection (1), where the offence under subsection (1) has been committed by a person who has been proved to the satisfaction of the court to have acted jointly with one or more persons in the commission of the offence under subsection
 
-Employing 55e. (1) Any person who employs one or more a person persons, other than a citizen or a holder of an who is not in Entry Permit, who is not in possession of a possession valid Pass shall be guilty of an offence and of a valid Pass. shall, on conviction, be liable to a fine of not less than ten thousand ringgit but not more than fifty thousand ringgit for each such employee.
+(1), that person shall, on conviction, be liable to a fine of not less than thirty thousand ringgit but not more than one hundred thousand ringgit and to imprisonment for a term of not less than two years but not more than ten years and shall also be punished with whipping of not more than six strokes.
+
+<!-- marginal: Employing -->
+
+55e. (1) Any person who employs one or more
+
+<!-- marginal: a person -->
+
+persons, other than a citizen or a holder of an
+
+<!-- marginal: who is not -->
+
+<!-- marginal: in -->
+
+Entry Permit, who is not in possession of a
+
+<!-- marginal: possession -->
+
+valid Pass shall be guilty of an offence and
+
+<!-- marginal: of a valid -->
+
+<!-- marginal: Pass. -->
+
+shall, on conviction, be liable to a fine of not less than ten thousand ringgit but not more than fifty thousand ringgit for each such employee.
 
 <!-- page 9 -->
 
@@ -308,7 +370,9 @@ Employing 55e. (1) Any person who employs one or more a person persons, other th
 
 (5) Where the offence under subsection (1) has been committed by a body corporate, any person who at the time of the commission of the offence was a member of the board of directors, a manager, a secretary or a person holding an office or a position similar to that of a manager or secretary of the body corporate shall be guilty of that offence and shall be liable to the same punishment to which the body corporate is liable under subsection (1) or (3).
 
-Defence. 55c. It shall be a defence for any person prosecuted pursuant to subsection 55A(3) or 55e(5) if he proves—
+<!-- marginal: Defence. -->
+
+55c. It shall be a defence for any person prosecuted pursuant to subsection 55A(3) or 55e(5) if he proves—
 
 (a) that the offence was committed without his knowledge or connivance; or
 
@@ -330,9 +394,11 @@ circumstances.
 
 Forgery or 55o. Any person who makes, forges or alters alteration an endorsement or a document to be used as a of endorsement visa, Permit, Pass or Certificate under this Act or shall be guilty of an offence against this Act document. and shall, on conviction, be liable to a fine of not less than thirty thousand ringgit but not more than one hundred thousand ringgit and to imprisonment for a term of not less than five years but not more than ten years and shall also be punished with whipping of not more than six strokes.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-17. Subsection 56(1) of the principal Act is amended— of section
+17. Subsection 56(1) of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 56.
 
@@ -340,15 +406,23 @@ Amendment
 
 (b) by deleting the words "or Re-entry" wherever appearing therein.
 
-### Amendment
+<!-- marginal: Amendment -->
 
-18. Section 59 of the principal Act is amended by of section inserting after the word "General" the words ", or in the .
+18. Section 59 of the principal Act is amended by
+
+<!-- marginal: of section -->
+
+inserting after the word "General" the words ", or in the .
 
 59. case of an East Malaysian State, the State Authority,".
 
-Substitution
+<!-- marginal: Substitution -->
 
-19. The principal Act is amended by substituting for of section section 59A the following section:
+19. The principal Act is amended by substituting for
+
+<!-- marginal: of section -->
+
+section 59A the following section:
 
 59A.
 
@@ -432,7 +506,9 @@ This Bill seeks to amend the Immigration Act 1959/63 ("the Act").
 
 12. Clause 15 seeks to amend subsection 54(1} of the Act to empower the Minister to make regulations for governing the administration and management of immigration depots.
 
-13. Clause 16 seeks to introduce new sections 55A, 55B, 55c and 55D. Section 55A deals with the offence of conveying into Malaysia, directly or indirectly, in a vehicle, vessel or aircraft, any person contrary to the Act. Where a body corporate is involved, any person who at the time of the commission of the offence was a member of the board of directors, a manager, a secretary or a person holding an office or a position similar to that of manager or secretary of the body corporate shall be guilty of that offence. Section 55B deals with the offence of employing any person who is not in possession of a valid Pass. Section 55c deals with defences available to directors, etc. who are prosecuted for offences under subsection 55A(3) or 55B(5). Section 55D deals with the offence of forging or altering an endorsement or a document used as a visa, Permit, Pass or Certificate.
+13. Clause 16 seeks to introduce new sections 55A, 55B, 55c and
+
+55D. Section 55A deals with the offence of conveying into Malaysia, directly or indirectly, in a vehicle, vessel or aircraft, any person contrary to the Act. Where a body corporate is involved, any person who at the time of the commission of the offence was a member of the board of directors, a manager, a secretary or a person holding an office or a position similar to that of manager or secretary of the body corporate shall be guilty of that offence. Section 55B deals with the offence of employing any person who is not in possession of a valid Pass. Section 55c deals with defences available to directors, etc. who are prosecuted for offences under subsection 55A(3) or 55B(5). Section 55D deals with the offence of forging or altering an endorsement or a document used as a visa, Permit, Pass or Certificate.
 
 14. Clause 18 seeks to amend section 59 of the Act to provide that the exclusion of right to be heard shall also extend to any order made by the State Authority, in the case of an East Malaysian State.
 
@@ -448,6 +524,4 @@ This Bill seeks to amend the Immigration Act 1959/63 ("the Act").
 
 ## IMPLICATIONS
 
-This B i ll will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained.
-
-<!-- marginal: [PN. (U2) 1939.] -->
+This B i ll will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained. [PN. (U2) 1939.]

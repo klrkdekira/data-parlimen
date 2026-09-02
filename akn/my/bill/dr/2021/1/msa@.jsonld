@@ -493,7 +493,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_28",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (4)— Pemotongan seksyen 69b, 69c, 69d dan 69e"
+        "@value": "dalam subseksyen (4)—"
       }
     },
     {
@@ -513,7 +513,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_28__para_b",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan perkataan “one hundred ringgit” dengan perkataan “one thousand ringgit”."
+        "@value": "dengan menggantikan perkataan “one hundred ringgit” dengan perkataan “one thousand ringgit”. Pemotongan seksyen 69b, 69c, 69d dan 69e"
       }
     },
     {
@@ -685,7 +685,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_37",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (1)— Pindaan seksyen 84"
+        "@value": "dalam subseksyen (1)—"
       }
     },
     {
@@ -705,7 +705,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_37__para_b",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam perenggan (b) proviso, dengan menggantikan perkataan “servant” dengan perkataan “employee”."
+        "@value": "dalam perenggan (b) proviso, dengan menggantikan perkataan “servant” dengan perkataan “employee”. Pindaan seksyen 84"
       }
     },
     {
@@ -1119,7 +1119,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_9",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (3)— “(aa) fails to make such contract or any other document relating to such contract available for inspection as required under subsection (1a); or”; dan Pemotongan Bahagian VIII"
+        "@value": "dalam subseksyen (3)—"
       }
     },
     {
@@ -1139,7 +1139,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_9__para_b",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perenggan (a) perenggan yang berikut:"
+        "@value": "dengan memasukkan selepas perenggan (a) perenggan yang berikut: “(aa) fails to make such contract or any other document relating to such contract available for inspection as required under subsection (1a); or”; dan"
       }
     },
     {
@@ -1149,7 +1149,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_9__para_b",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan perkataan “ten” dengan perkataan “fifty”."
+        "@value": "dengan menggantikan perkataan “ten” dengan perkataan “fifty”. Pemotongan Bahagian VIII"
       }
     }
   ]

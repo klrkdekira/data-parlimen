@@ -50,7 +50,9 @@ DAN BAHAWASANYA adalah juga suai manfaat peruntukan dibuat untuk memberikan kuas
 
 ### Pindaan ayat menjadikan undang-undang
 
-4. Akta ibu dipinda dalam ayat menjadikan undang-undang dengan menggantikan perkataan "Perkara 76(4)" dengan perkataan "Fasal (1) Perkara 74, Fasal (4) Perkara 76 dan Fasal (2) Perkara 80".
+4. Akta ibu dipinda dalam ayat menjadikan undang-undang dengan menggantikan perkataan "Perkara 76(4)" dengan perkataan "Fasal
+
+(1) Perkara 74, Fasal (4) Perkara 76 dan Fasal (2) Perkara 80".
 
 ### Pindaan seksyen 1
 
@@ -96,7 +98,17 @@ DAN BAHAWASANYA adalah juga suai manfaat peruntukan dibuat untuk memberikan kuas
 
 7. Bahagian II Akta ibu dipinda dengan memasukkan sebelum seksyen 3 seksyen yang berikut:
 
-"Majlis 2A. (1) Maka hendaklah ditubuhkan suatu Majlis Perancang Perancang Fizikal Negara yang terdiri daripada— Fizikal Negara.
+<!-- marginal: "Majlis -->
+
+2A. (1) Maka hendaklah ditubuhkan suatu Majlis
+
+<!-- marginal: Perancang -->
+
+Perancang Fizikal Negara yang terdiri daripada—
+
+<!-- marginal: Fizikal -->
+
+<!-- marginal: Negara. -->
 
 (a) seorang Pengerusi, iaitu Perdana Menteri;
 
@@ -132,21 +144,27 @@ DAN BAHAWASANYA adalah juga suai manfaat peruntukan dibuat untuk memberikan kuas
 
 (5) Majlis hendaklah bermesyuarat sekali tiap-tiap empat bulan dalam sesuatu tahun dan hendaklah, sebagai tambahan, bermesyuarat jika dan apabila Pengerusi memanggil mesyuarat.
 
-(6) Majlis hendaklah menentukan
-
-<!-- marginal: tatacaranya -->
-
-sendiri.
+(6) Majlis hendaklah menentukan tatacaranya sendiri.
 
 <!-- page 6 -->
 
-Ketua 2B. (1) Maka hendaklah ada seorang Ketua Pengarah Pengarah Perancang Bandar dan Desa yang tugas-tugasnya Perancang Bandar ialah — dan Desa.
+<!-- marginal: Ketua -->
 
-(a) untuk menjalankan, menggalakkan
+2B. (1) Maka hendaklah ada seorang Ketua Pengarah
 
-<!-- marginal: dan -->
+<!-- marginal: Pengarah -->
 
-menyelaraskan penyelidikan berhubung dengan apa-apa aspek perancangan bandar dan desa;
+Perancang Bandar dan Desa yang tugas-tugasnya
+
+<!-- marginal: Perancang -->
+
+<!-- marginal: Bandar -->
+
+<!-- marginal: ialah — -->
+
+<!-- marginal: dan Desa. -->
+
+(a) untuk menjalankan, menggalakkan dan menyelaraskan penyelidikan berhubung dengan apa-apa aspek perancangan bandar dan desa;
 
 (b) untuk menyiarkan laporan, buletin, perangkaan, monograf dan terbitan lain yang berhubungan dengan perancangan bandar dan desa dan perkaedahannya;
 
@@ -172,9 +190,7 @@ menyelaraskan penyelidikan berhubung dengan apa-apa aspek perancangan bandar dan
 
 Perancangan Bandar dan Desa (Pindaan) 7
 
-Negeri dari kalangan ahli Majlis Mesyuarat Kerajaan Negeri, yang sekurang-kurangnya seorang daripadanya hendaklah menjadi ahli yang bertanggungjawab bagi dan yang portfolionya
-
-<!-- marginal: berhubung -->
+Negeri dari kalangan ahli Majlis Mesyuarat Kerajaan Negeri, yang sekurang-kurangnya seorang daripadanya hendaklah menjadi ahli yang bertanggungjawab bagi dan yang portfolionya berhubung
 
 <!-- marginal: dengan -->
 
@@ -258,7 +274,17 @@ Jawatan- 6A. (1) Majlis boleh dari semasa ke semasa, selepas kuasa berunding den
 
 ## RANCANGAN FIZIKAL NEGARA
 
-Rancangan 6B. (1) Ketua Pengarah Perancang Bandar dan Desa fizikal hendaklah, apabila diarahkan oleh Majlis, menyediakan negara. dan menyampaikan suatu draf rancangan fizikal negara yang meliputi Semenanjung Malaysia kepada Majlis bagi kelulusannya.
+<!-- marginal: Rancangan -->
+
+6B. (1) Ketua Pengarah Perancang Bandar dan Desa
+
+<!-- marginal: fizikal -->
+
+hendaklah, apabila diarahkan oleh Majlis, menyediakan
+
+<!-- marginal: negara. -->
+
+dan menyampaikan suatu draf rancangan fizikal negara yang meliputi Semenanjung Malaysia kepada Majlis bagi kelulusannya.
 
 (2) Draf rancangan fizikal negara hendaklah —
 
@@ -332,11 +358,7 @@ Rancangan 6B. (1) Ketua Pengarah Perancang Bandar dan Desa fizikal hendaklah, ap
 
 (a) dengan menggantikan subseksyen (1) dengan subseksyen yang berikut:
 
-"(1) Pengarah Negeri hendaklah, dalam tempoh yang ditentukan oleh Majlis atau Jawatankuasa, menyediakan dan menyampaikan kepada Jawatankuasa suatu laporan pemeriksaannya di bawah seksyen 7 dan pada masa yang sama menyediakan dan menyampaikan suatu draf rancangan struktur menurut subseksyen (3) bagi Negeri itu kepada
-
-<!-- marginal: Jawatankuasa bagi -->
-
-kelulusannya.";
+"(1) Pengarah Negeri hendaklah, dalam tempoh yang ditentukan oleh Majlis atau Jawatankuasa, menyediakan dan menyampaikan kepada Jawatankuasa suatu laporan pemeriksaannya di bawah seksyen 7 dan pada masa yang sama menyediakan dan menyampaikan suatu draf rancangan struktur menurut subseksyen (3) bagi Negeri itu kepada Jawatankuasa bagi kelulusannya.";
 
 (b) dalam subseksyen (2), dengan memasukkan selepas perkataan "yang ditentukan oleh" perkataan "Majlis atau";
 
@@ -346,19 +368,11 @@ kelulusannya.";
 
 (ii) dengan menggantikan perenggan (a) dengan perenggan yang berikut:
 
-"(a) yang menerangkan dasar dan cadangan- cadangan am Pihak Berkuasa Negeri itu berkenaan
-
-<!-- marginal: dengan pemajuan -->
+"(a) yang menerangkan dasar dan cadangan- cadangan am Pihak Berkuasa Negeri itu berkenaan dengan pemajuan
 
 <!-- marginal: dan -->
 
-penggunaan tanah di dalam Negeri itu, termasuklah
-
-<!-- marginal: langkah-langkah untuk -->
-
-memperelok persekitaran hidup dari segi fizikal, memperelok perhubungan, menguruskan lalu lintas, memperelok kesejahteraan
-
-<!-- marginal: sosio-ekonomi -->
+penggunaan tanah di dalam Negeri itu, termasuklah langkah-langkah untuk memperelok persekitaran hidup dari segi fizikal, memperelok perhubungan, menguruskan lalu lintas, memperelok kesejahteraan sosio-ekonomi
 
 <!-- marginal: dan -->
 
@@ -376,11 +390,7 @@ menggalakkan pertumbuhan ekonomi, dan untuk memudahkan pemajuan yang mapan;"; da
 
 (iii) dalam teks bahasa Inggeris, dengan menggantikan perkataan "it may" dengan perkataan "he may"; dan
 
-(iv) dalam perenggan ( c ), dengan menggantikan perkataan "diarahkan oleh Jawatankuasa" dengan perkataan "diarahkan oleh Majlis
-
-<!-- marginal: atau -->
-
-Jawatankuasa";
+(iv) dalam perenggan ( c ), dengan menggantikan perkataan "diarahkan oleh Jawatankuasa" dengan perkataan "diarahkan oleh Majlis atau Jawatankuasa";
 
 (e) dengan memotong subseksyen (5);
 
@@ -412,9 +422,7 @@ Jawatankuasa";
 
 <!-- marginal: perkataan -->
 
-"kawasannya"
-
-<!-- marginal: dengan -->
+"kawasannya" dengan
 
 <!-- marginal: perkataan -->
 
@@ -446,9 +454,7 @@ Jawatankuasa";
 
 (a) hendaklah berunding dengan Majlis bagi mendapatkan arahan dan nasihatnya; dan
 
-(b) boleh berunding dengan, atau menimbangkan pandangan, mana-mana pihak berkuasa lain atau mana-mana orang lain
-
-<!-- marginal: tetapi -->
+(b) boleh berunding dengan, atau menimbangkan pandangan, mana-mana pihak berkuasa lain atau mana-mana orang lain tetapi
 
 <!-- marginal: tidaklah -->
 
@@ -468,7 +474,29 @@ bertanggungan untuk berunding dengan, atau menimbangkan pandangan, mana-mana pih
 
 16. Akta ibu dipinda dengan menggantikan seksyen 11 dengan seksyen yang berikut:
 
-"Kajian 11. (1) Sesuatu rancangan struktur yang telah mula semula berkuat kuasa hendaklah tertakluk kepada kajian semula atau peng- tiap-tiap lima tahun seiring dengan penyediaan rancangan ubahan pembangunan lima tahun Negeri, dan kajian semula itu rancangan struktur. hendaklah berkaitan dengan seluruh Negeri itu.
+<!-- marginal: "Kajian -->
+
+11. (1) Sesuatu rancangan struktur yang telah mula
+
+<!-- marginal: semula -->
+
+berkuat kuasa hendaklah tertakluk kepada kajian semula
+
+<!-- marginal: atau -->
+
+<!-- marginal: peng- -->
+
+tiap-tiap lima tahun seiring dengan penyediaan rancangan
+
+<!-- marginal: ubahan -->
+
+pembangunan lima tahun Negeri, dan kajian semula itu
+
+<!-- marginal: rancangan -->
+
+<!-- marginal: struktur. -->
+
+hendaklah berkaitan dengan seluruh Negeri itu.
 
 (2) Walau apa pun subseksyen (1), selepas sesuatu rancangan struktur bagi sesuatu Negeri telah mula berkuat kuasa, Pengarah Negeri itu boleh menyampaikan kepada Jawatankuasa dan hendaklah, jika diarahkan sedemikian oleh Jawatankuasa, menyampaikan kepadanya, dalam tempoh yang ditentukan dalam arahan itu, cadangan- cadangan bagi kajian semula atau pengubahan kepada rancangan itu yang pada fikiran Pengarah Negeri suai manfaat atau sebagaimana yang diarahkan oleh Jawatankuasa, mengikut mana-mana yang berkenaan, dan cadangan-cadangan itu boleh berkaitan dengan seluruh atau sebahagian Negeri itu.".
 
@@ -476,11 +504,43 @@ bertanggungan untuk berunding dengan, atau menimbangkan pandangan, mana-mana pih
 
 17. Akta ibu dipinda dengan memasukkan selepas seksyen 11 seksyen yang berikut:
 
-"Tatacara 11A. Jika diputuskan di bawah seksyen 11 bahawa suatu kajian kajian semula rancangan struktur bagi sesuatu Negeri semula rancangan akan diadakan, Pengarah Negeri hendaklah menyampaikan struktur. kepada Jawatankuasa suatu laporan hasil kajian semulanya tentang perkara-perkara yang berkaitan di bawah seksyen 7 bersama dengan apa-apa maklumat lain yang padanya cadangan-cadangan itu diasaskan, dan seksyen 9 dan 10 hendaklah terpakai, dengan ubahsuaian-ubahsuaian yang perlu, berhubung dengan cadangan-cadangan itu sebagaimana seksyen-seksyen itu terpakai berhubung dengan rancangan struktur itu.
+<!-- marginal: "Tatacara -->
+
+11A. Jika diputuskan di bawah seksyen 11 bahawa suatu
+
+<!-- marginal: kajian -->
+
+kajian semula rancangan struktur bagi sesuatu Negeri
+
+<!-- marginal: semula -->
+
+<!-- marginal: rancangan -->
+
+akan diadakan, Pengarah Negeri hendaklah menyampaikan
+
+<!-- marginal: struktur. -->
+
+kepada Jawatankuasa suatu laporan hasil kajian semulanya tentang perkara-perkara yang berkaitan di bawah seksyen 7 bersama dengan apa-apa maklumat lain yang padanya cadangan-cadangan itu diasaskan, dan seksyen 9 dan 10 hendaklah terpakai, dengan ubahsuaian-ubahsuaian yang perlu, berhubung dengan cadangan-cadangan itu sebagaimana seksyen-seksyen itu terpakai berhubung dengan rancangan struktur itu.
 
 <!-- page 18 -->
 
-Tatacara 11 B. (1) Jika diputuskan di bawah seksyen 11 bahawa bagi suatu pengubahan akan dibuat kepada rancangan struktur pengubahan rancangan bagi Negeri itu, Pengarah Negeri hendaklah menyediakan struktur. dan menyampaikan kepada Jawatankuasa cadangan- cadangan bagi pengubahan itu.
+<!-- marginal: Tatacara -->
+
+11 B. (1) Jika diputuskan di bawah seksyen 11 bahawa
+
+<!-- marginal: bagi -->
+
+suatu pengubahan akan dibuat kepada rancangan struktur
+
+<!-- marginal: pengubahan -->
+
+<!-- marginal: rancangan -->
+
+bagi Negeri itu, Pengarah Negeri hendaklah menyediakan
+
+<!-- marginal: struktur. -->
+
+dan menyampaikan kepada Jawatankuasa cadangan- cadangan bagi pengubahan itu.
 
 (2) Dalam merumuskan cadangan-cadangan bagi pengubahan itu, Pengarah Negeri hendaklah memberikan perhatian kepada apa-apa perkara yang diarahkan oleh Majlis atau Jawatankuasa.
 
@@ -496,11 +556,7 @@ Jawatankuasa kecil yang terdiri daripada empat orang ahli Jawatankuasa, seorang 
 
 Jawatankuasa kecil hendaklah mendengar tiap-tiap bantahan yang dibuat mengikut kaedah-kaedah yang dibuat di bawah seksyen 17.
 
-(5) Jawatankuasa kemudiannya
-
-<!-- marginal: hendaklah -->
-
-menimbangkan pengubahan yang dicadangkan kepada rancangan struktur, dan sama ada meluluskannya, secara keseluruhan atau sebahagiannya dan dengan atau tanpa ubahsuaian, atau menolaknya.
+(5) Jawatankuasa kemudiannya hendaklah menimbangkan pengubahan yang dicadangkan kepada rancangan struktur, dan sama ada meluluskannya, secara keseluruhan atau sebahagiannya dan dengan atau tanpa ubahsuaian, atau menolaknya.
 
 (6) Jawatankuasa hendaklah menyampaikan rancangan struktur yang diubah yang telah diluluskan kepada Pihak Berkuasa Negeri bagi persetujuan Pihak Berkuasa Negeri tentang rancangan itu, dan apabila persetujuan itu diberikan, rancangan struktur yang diubah itu hendaklah berkuat kuasa.
 
@@ -534,7 +590,27 @@ menimbangkan pengubahan yang dicadangkan kepada rancangan struktur, dan sama ada
 
 19. Akta ibu dipinda dengan memasukkan selepas seksyen 12 seksyen yang berikut:
 
-"Seranta 12A. Sebelum memulakan penyediaan sesuatu rancangan berkenaan tempatan, pihak berkuasa perancang tempatan hendaklah dengan penyediaan mengambil apa-apa langkah yang pada pendapatnya akan draf memastikan— rancangan tempatan.
+<!-- marginal: "Seranta -->
+
+12A. Sebelum memulakan penyediaan sesuatu rancangan
+
+<!-- marginal: berkenaan -->
+
+tempatan, pihak berkuasa perancang tempatan hendaklah
+
+<!-- marginal: dengan -->
+
+<!-- marginal: penyediaan -->
+
+mengambil apa-apa langkah yang pada pendapatnya akan
+
+<!-- marginal: draf -->
+
+memastikan—
+
+<!-- marginal: rancangan -->
+
+<!-- marginal: tempatan. -->
 
 (a) bahawa seranta diberikan di dalam kawasannya tentang draf rancangan tempatan yang akan disediakan, matlamatnya dan maksud bagi penyediaannya, dan perkara-perkara yang pihak berkuasa perancang tempatan bercadang untuk memasukkannya ke dalam rancangan itu;
 
@@ -578,17 +654,47 @@ menimbangkan pengubahan yang dicadangkan kepada rancangan struktur, dan sama ada
 
 21. Akta ibu dipinda dengan memasukkan selepas seksyen 16 seksyen yang berikut:
 
-"Penyediaan, 16A. (1) Jika Jawatankuasa berpuas hati bahawa pihak dsb. berkuasa perancang tempatan telah tidak mengambil rancangan tempatan langkah untuk menyediakan suatu rancangan tempatan oleh atau cadangan bagi pengubahan, pemansuhan atau Pengarah penggantian sesuatu rancangan tempatan, Jawatankuasa Negeri. boleh mengarahkan Pengarah Negeri menyediakan rancangan atau cadangan itu dan perbelanjaan yang dilakukan berkaitan dengan penyediaan itu hendaklah dibayar oleh pihak berkuasa perancang tempatan kepada Pengarah Negeri.
+"Penyediaan, 16A. (1) Jika Jawatankuasa berpuas hati bahawa pihak
+
+<!-- marginal: dsb. -->
+
+berkuasa perancang tempatan telah tidak mengambil
+
+<!-- marginal: rancangan -->
+
+<!-- marginal: tempatan -->
+
+langkah untuk menyediakan suatu rancangan tempatan
+
+<!-- marginal: oleh -->
+
+atau cadangan bagi pengubahan, pemansuhan atau
+
+<!-- marginal: Pengarah -->
+
+penggantian sesuatu rancangan tempatan, Jawatankuasa
+
+<!-- marginal: Negeri. -->
+
+boleh mengarahkan Pengarah Negeri menyediakan rancangan atau cadangan itu dan perbelanjaan yang dilakukan berkaitan dengan penyediaan itu hendaklah dibayar oleh pihak berkuasa perancang tempatan kepada Pengarah Negeri.
 
 (2) Seksyen 12, 13, 14, 15 dan 16 hendaklah terpakai berhubung dengan penyediaan sesuatu rancangan tempatan atau pembuatan cadangan untuk mengubah, memansuhkan atau menggantikan sesuatu rancangan tempatan di bawah seksyen ini.
 
-Rancangan 16B. (1) Jika pada bila-bila masa semasa penyediaan kawasan atau apabila mula berkuatkuasanya sesuatu rancangan khas. struktur atau rancangan tempatan, Pengarah Negeri atau pihak berkuasa perancang tempatan, atas daya usahanya sendiri atau sebagaimana yang diarahkan oleh Jawatankuasa, boleh menyampaikan kepada Jawatankuasa cadangan bagi penetapan suatu kawasan khas bagi pengolahan khas dan terperinci dengan cara pemajuan, pemajuan semula, pengelokan, pemuliharaan atau amalan pengurusan, atau sebahagiannya dengan satu kaedah dan sebahagian lagi dengan kaedah yang lain, bagi seluruh atau sebahagian kawasan khas itu, dan jenis pengolahan yang dicadangkan.
+<!-- marginal: Rancangan -->
+
+16B. (1) Jika pada bila-bila masa semasa penyediaan
+
+<!-- marginal: kawasan -->
+
+atau apabila mula berkuatkuasanya sesuatu rancangan
+
+<!-- marginal: khas. -->
+
+struktur atau rancangan tempatan, Pengarah Negeri atau pihak berkuasa perancang tempatan, atas daya usahanya sendiri atau sebagaimana yang diarahkan oleh Jawatankuasa, boleh menyampaikan kepada Jawatankuasa cadangan bagi penetapan suatu kawasan khas bagi pengolahan khas dan terperinci dengan cara pemajuan, pemajuan semula, pengelokan, pemuliharaan atau amalan pengurusan, atau sebahagiannya dengan satu kaedah dan sebahagian lagi dengan kaedah yang lain, bagi seluruh atau sebahagian kawasan khas itu, dan jenis pengolahan yang dicadangkan.
 
 <!-- page 23 -->
 
-(2) Bagi maksud subseksyen (1), Jawatankuasa hendaklah menentukan sama ada Pengarah Negeri atau pihak berkuasa perancang
-
-<!-- marginal: tempatan -->
+(2) Bagi maksud subseksyen (1), Jawatankuasa hendaklah menentukan sama ada Pengarah Negeri atau pihak berkuasa perancang tempatan
 
 <!-- marginal: yang -->
 
@@ -600,7 +706,17 @@ bertanggungjawab menyediakan suatu rancangan bagi kawasan khas itu.
 
 22. Akta ibu dipinda dengan memasukkan selepas seksyen 20 seksyen yang berikut;
 
-Kewajipan 20A. Maka hendaklah menjadi kewajipan tiap-tiap jabatan untuk atau agensi Kerajaan Persekutuan dan Kerajaan Negeri berunding. untuk berunding dengan Jawatankuasa tentang apa-apa aktiviti pemajuan yang ia bercadang supaya dijalankan di dalam Negeri itu.".
+<!-- marginal: Kewajipan -->
+
+20A. Maka hendaklah menjadi kewajipan tiap-tiap jabatan
+
+<!-- marginal: untuk -->
+
+atau agensi Kerajaan Persekutuan dan Kerajaan Negeri
+
+<!-- marginal: berunding. -->
+
+untuk berunding dengan Jawatankuasa tentang apa-apa aktiviti pemajuan yang ia bercadang supaya dijalankan di dalam Negeri itu.".
 
 ### Pindaan seksyen 21
 
@@ -664,13 +780,7 @@ pembinaan empangan, stesen jana kuasa utama dan tapak pembuangan sisa toksik.";
 
 (ii) dengan memasukkan selepas perenggan (a) perenggan yang berikut:
 
-"(aa) pemajuan yang berkenaan dengannya kebenaran itu dipohon akan menyalahi peruntukan
-
-<!-- marginal: perenggan -->
-
-<!-- marginal: ( 2 )( a a ) "; -->
-
-dan
+"(aa) pemajuan yang berkenaan dengannya kebenaran itu dipohon akan menyalahi peruntukan perenggan ( 2 )( a a ) "; dan
 
 <!-- page 26 -->
 

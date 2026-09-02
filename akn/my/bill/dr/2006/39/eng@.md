@@ -10,21 +10,13 @@
 
 L Short title and commencement
 
-2. Act to be read together with other laws
-
-3. Interpretation
+2. Act to be read together with other laws 3. Interpretation
 
 ## PART II
 
 ## NATIONAL BIOSAFETY BOARD
 
-4. Establishment of the National Biosafety Board
-
-5. Functions of the Board
-
-6. Establishment of the Genetic Modification Advisory Committee
-
-7. Board and Advisory Committee may establish committees and subcommittees S. Appointment of Director General and other officers 9 Delegation of functions of the Board
+4. Establishment of the National Biosafety Board 5. Functions of the Board 6. Establishment of the Genetic Modification Advisory Committee 7. Board and Advisory Committee may establish committees and subcommittees S. Appointment of Director General and other officers 9 Delegation of functions of the Board
 
 10. Power of Minister to give directions
 
@@ -54,7 +46,27 @@ L Short title and commencement
 
 <!-- page 2 -->
 
-45. Forfeiture of living modified organisms or products of such organisms, etc 46. Cost of holding organisms, etc., seized 47. No costs or damages arising from entry, search or seizure lo be recoverable 48. Obstruction of enforcement officers 49. Power to call for examination and admissibility of statements in evidence 50. Power lo require production of things related, to offence 51. Enforcement officer may seek assistance to examine things related to offence 52. Power of Board lo require information can living modified organisms, or products of such organisms 53. Power to take sample 54. Procedure for taking sample 55- Appointment of analyst 56. Certificate of analysis 57 Presumption
+45. Forfeiture of living modified organisms or products of such organisms, etc
+
+46. Cost of holding organisms, etc., seized
+
+47. No costs or damages arising from entry, search or seizure lo be recoverable
+
+48. Obstruction of enforcement officers
+
+49. Power to call for examination and admissibility of statements in evidence
+
+50. Power lo require production of things related, to offence
+
+51. Enforcement officer may seek assistance to examine things related to offence
+
+52. Power of Board lo require information can living modified organisms, or products of such organisms
+
+53. Power to take sample
+
+54. Procedure for taking sample 55- Appointment of analyst
+
+56. Certificate of analysis 57 Presumption
 
 58. Institution of prosecution
 
@@ -62,7 +74,23 @@ L Short title and commencement
 
 ## MISCELLANEOUS
 
-59. Confidential business information 60. Public disclosure 61. Identification and labelling 62. Assistance from multi-agencies in emergency 63. Service of notice 64. Offence by body corporate 65- Offence by partner, agent or servant 66. Power to compound 67. Falsification, concealment and destruction of document 65. Power of Minister to exempt 69. Power to make regulations 70. Power to amend Schedules 71. Transitional provisions
+59. Confidential business information
+
+60. Public disclosure
+
+61. Identification and labelling
+
+62. Assistance from multi-agencies in emergency
+
+63. Service of notice
+
+64. Offence by body corporate 65- Offence by partner, agent or servant
+
+66. Power to compound
+
+67. Falsification, concealment and destruction of document
+
+65. Power of Minister to exempt 69. Power to make regulations 70. Power to amend Schedules 71. Transitional provisions
 
 ## FIRST SCHEDULE
 
@@ -92,9 +120,7 @@ ENACTED by Ehe Parliament of Malaysia as follows:
 
 ### Act to be read together with other laws
 
-2.
-
-(1) This Act shall be read together with any other written law relating to import and export, human, plant and animal health, the environment and biological diversity, and the provisions of this Act shall be in addition to, and not in derogation of, the provisions of such other written laws.
+2. (1) This Act shall be read together with any other written law relating to import and export, human, plant and animal health, the environment and biological diversity, and the provisions of this Act shall be in addition to, and not in derogation of, the provisions of such other written laws.
 
 (2) In the event of any inconsistencies between the provisions of this Act and any of the other written laws referred to in subsection (1) (he provisions of this Act shall prevail.
 
@@ -140,9 +166,7 @@ that overcome natural physiological reproductive or recombination barriers and t
 
 "approved person" means—
 
-(a) a person to whom an approval has been granted under
-
-## Part III; or
+(a) a person to whom an approval has been granted under Part III; or
 
 (b) a person to whom an acknowledgement of receipt on the submission of a notification under Part IV has been issued;
 
@@ -386,11 +410,7 @@ Advisory Committee think necessary or expedient to assist them in the performanc
 
 (6) The Board may, at any time after approval has been granted, require Ihe approved person to furnish such further information, particulars or documents as the Board thinks fit.
 
-(7) Any approved person who contravenes any terms and conditions imposed on the approval or fails to furnish the information, particulars or documents required under subsection
-
-(6) commits an offence and shall, on conviction, be liable-
-
-(a) where such person is an individual, to a fine not exceeding five hundred thousand ringgit or to imprisonment for a term not exceeding four years or to both and, in the case of a continuing offence, to a further fine not exceeding ten thousand ringgit for each day during which the offence continues after conviction:
+(7) Any approved person who contravenes any terms and conditions imposed on the approval or fails to furnish the information, particulars or documents required under subsection (6) commits an offence and shall, on conviction, be liable- (a) where such person is an individual, to a fine not exceeding five hundred thousand ringgit or to imprisonment for a term not exceeding four years or to both and, in the case of a continuing offence, to a further fine not exceeding ten thousand ringgit for each day during which the offence continues after conviction:
 
 <!-- page 14 -->
 

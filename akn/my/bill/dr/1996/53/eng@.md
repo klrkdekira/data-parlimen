@@ -46,7 +46,9 @@ amended—
 
 <!-- page 2 -->
 
-2 Bill
+<!-- marginal: 2 -->
+
+Bill
 
 (d) by inserting after the definition of "Minister" the following definition:
 
@@ -56,15 +58,45 @@ amended—
 
 ' "Registrar" means the Labuan Offshore Financial Services Authority established under Act 545 the Labuan Offshore Financial Services Authority Act 1996;'.
 
-Amendment of
+<!-- marginal: Amendment of -->
 
-3. The principal Act is amended by substituting for section 6 section 6 the following section;
+3. The principal Act is amended by substituting for section 6
 
-Resident 6. A resident of Malaysia who does any act doing any permitted by this Act to be done by such resident act under this Act shall be deemed to be a non- resident for the purposes deemed to of section 8 of the Labuan Trust Companies Act be non- 1990.". resident. Act 442
+<!-- marginal: section 6 -->
 
-Amendment
+the following section;
 
-4. Section 7 of the principal Act is amended— of section 7.
+<!-- marginal: Resident -->
+
+6. A resident of Malaysia who does any act
+
+<!-- marginal: doing any -->
+
+permitted by this Act to be done by such resident
+
+<!-- marginal: act under -->
+
+<!-- marginal: this Act -->
+
+shall be deemed to be a non- resident for the purposes
+
+<!-- marginal: deemed to -->
+
+of section 8 of the Labuan Trust Companies Act
+
+<!-- marginal: be non- -->
+
+1990.".
+
+<!-- marginal: resident. -->
+
+<!-- marginal: Act 442 -->
+
+<!-- marginal: Amendment -->
+
+4. Section 7 of the principal Act is amended—
+
+<!-- marginal: of section 7. -->
 
 (a) in subsection (3)—
 
@@ -112,11 +144,15 @@ for the proviso to subsection (2) the following proviso:
 
 <!-- page 4 -->
 
-4 Bill
+<!-- marginal: 4 -->
 
-Amendment
+Bill
 
-6. Section 21 of the principal Act is amended— of section 21
+<!-- marginal: Amendment -->
+
+6. Section 21 of the principal Act is amended—
+
+<!-- marginal: of section 21 -->
 
 (a) by substituting for subsection (2) the following subsection:
 
@@ -180,33 +216,51 @@ as part of its name."; and
 
 <!-- page 6 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-9. Subsection 55(8) of the principal Act is amended by of section substituting for the. words "fourteen days" the words "one
+9. Subsection 55(8) of the principal Act is amended by
+
+<!-- marginal: of section -->
+
+substituting for the. words "fourteen days" the words "one
 
 55. month".
 
-Amendment
+<!-- marginal: Amendment -->
 
-10. Subsection 83(1) of the principal Act is amended of section by substituting for the words "not later than fourteen
+10. Subsection 83(1) of the principal Act is amended
+
+<!-- marginal: of section -->
+
+by substituting for the words "not later than fourteen
 
 83. days" the words "within one month".
 
-Amendment
+<!-- marginal: Amendment -->
 
-11. Subsection 84(1) of the principal Act is amended of section by substituting for the words "fourteen days" wherever
+11. Subsection 84(1) of the principal Act is amended
+
+<!-- marginal: of section -->
+
+by substituting for the words "fourteen days" wherever
 
 84. they appear the words "one month".
 
-Amendment
+<!-- marginal: Amendment -->
 
-12. Subsections 85(2) and 85(3) of the principal Act of section are amended by substituting for the words "fourteen days"
+12. Subsections 85(2) and 85(3) of the principal Act
+
+<!-- marginal: of section -->
+
+are amended by substituting for the words "fourteen days"
 
 85. the words "one month".
 
-Amendment
+<!-- marginal: Amendment -->
 
-13. Section 86 of the principal Act is amended— of section
+13. Section 86 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 86.
 
@@ -226,7 +280,11 @@ Offshore Companies (Amendment) 7
 
 (iii) by inserting after paragraph (c) the following paragraph:
 
-"( d) signs or authorizes to be signed, on behalf of the company, the memorandum and articles of association or such other documents as may be prescribed by the Registrar when the name and the company number of the offshore company or the foreign offshore company are not so mentioned,".
+"( d) signs or authorizes to be signed, on behalf of the company,
+
+<!-- marginal: the -->
+
+memorandum and articles of association or such other documents as may be prescribed by the Registrar when the name and the company number of the offshore company or the foreign offshore company are not so mentioned,".
 
 <!-- marginal: Amendment -->
 
@@ -270,21 +328,71 @@ words "or a domestic company wholly owned by the trust company".
 
 (ii) by inserting after the words "registered office" the words ", or in the case of a corporation, the corporation's full name, the address of its registered office and the names of its authorized nominees and representative in Labuan".
 
-New section
+<!-- marginal: New section -->
 
-17. Part V of Division 2 of the principal Act is amended 94A by inserting after section 94 the following section: " Offence 94A. Where any offence against any provision against of this Act has been committed by any domestic any provision company made available by a trust company to of this act or be appointed as resident director or resident Act committed secretary of an offshore company, any person by who at the time of the commission of the offence directors and was a director or an officer of the trust company secretaries or was purporting to act in any such capacity, or was in any manner or to any extent responsible for the management of any of the affairs of such trust company, or was assisting in such management, shall be guilty of that offence unless he proves that the offence was committed without his consent or connivance and that he exercised all such diligence to prevent the commission of the offence as he ought to have exercised, having regard to the nature of his function in that capacity and all
+17. Part V of Division 2 of the principal Act is amended
 
-<!-- marginal: the -->
+<!-- marginal: 94A -->
 
-circumstances.".
+by inserting after section 94 the following section: "
 
-Amendment
+<!-- marginal: Offence -->
 
-18. Subsection 106(2) of the principal Act is amended of section by substituting for the words "two days" and the words 106 "fourteen days" the words "one month", respectively.
+94A. Where any offence against any provision
 
-Amentlement
+<!-- marginal: against -->
 
-19. Paragraph 1 2 1 ( 2 )( e) of the principal Act is amended of section by deleting the word "offshore".
+of this Act has been committed by any domestic
+
+<!-- marginal: any -->
+
+<!-- marginal: provision -->
+
+company made available by a trust company to
+
+<!-- marginal: of this -->
+
+act or be appointed as resident director or resident
+
+<!-- marginal: Act -->
+
+<!-- marginal: committed -->
+
+secretary of an offshore company, any person
+
+<!-- marginal: by -->
+
+who at the time of the commission of the offence
+
+<!-- marginal: directors -->
+
+<!-- marginal: and -->
+
+was a director or an officer of the trust company
+
+<!-- marginal: secretaries -->
+
+or was purporting to act in any such capacity, or was in any manner or to any extent responsible for the management of any of the affairs of such trust company, or was assisting in such management, shall be guilty of that offence unless he proves that the offence was committed without his consent or connivance and that he exercised all such diligence to prevent the commission of the offence as he ought to have exercised, having regard to the nature of his function in that capacity and all the circumstances.".
+
+<!-- marginal: Amendment -->
+
+18. Subsection 106(2) of the principal Act is amended
+
+<!-- marginal: of section -->
+
+by substituting for the words "two days" and the words
+
+<!-- marginal: 106 -->
+
+"fourteen days" the words "one month", respectively.
+
+<!-- marginal: Amentlement -->
+
+19. Paragraph 1 2 1 ( 2 )( e) of the principal Act is amended
+
+<!-- marginal: of section -->
+
+by deleting the word "offshore".
 
 121.
 
@@ -320,13 +428,15 @@ Inter- 130A. In this Part, unless the context otherwise pretation. requires—
 
 "management company" means any offshore company incorporated or foreign offshore company registered under this Act for the purpose of undertaking or offering to undertake the business of company management.
 
-Register of
-
-130B. (1) The Registrar may keep a register management of all management companies licensed under companies this Part.
+Register of 130B. (1) The Registrar may keep a register management of all management companies licensed under companies this Part.
 
 (2) The register kept under subsection (1) shall show—
 
-(a) the information required under section 130D(2)(c) with respect to each management company licensed under this Part;
+(a) the information required under section 130D(2)(c) with respect
+
+<!-- marginal: to each -->
+
+management company licensed under this Part;
 
 (b) the date of grant of the licence; and
 
@@ -334,13 +444,23 @@ Register of
 
 <!-- page 10 -->
 
-Bill 10
+Bill
+
+<!-- marginal: 10 -->
 
 (3) The register shall be in such form as the Registrar may determine and may be open to public inspection during office hours on payment of such inspection fee as may be prescribed.
 
-Licensing. 130c. No person shall carry on the business of company management in, from or through Labuan unless the person is licensed under this Part.
+<!-- marginal: Licensing. -->
 
-Application 130D. (1) No person, except an offshore for licence. company incorporated, or a foreign offshore company registered, under this Act, may apply to the Registrar for a licence to carry on the business of company management in, from or through Labuan.
+130c. No person shall carry on the business of company management in, from or through Labuan unless the person is licensed under this Part.
+
+<!-- marginal: Application -->
+
+130D. (1) No person, except an offshore
+
+<!-- marginal: for licence. -->
+
+company incorporated, or a foreign offshore company registered, under this Act, may apply to the Registrar for a licence to carry on the business of company management in, from or through Labuan.
 
 (2) An application under subsection (1) shall be—
 
@@ -352,11 +472,7 @@ Application 130D. (1) No person, except an offshore for licence. company incorpo
 
 (ii) a statement of the financial and human resources and administrative facilities available to the applicant for the competent and efficient conduct of its business; and
 
-(iii) such other documents
-
-<!-- marginal: or -->
-
-information as the Registrar may reasonably require for the purpose of considering the application;
+(iii) such other documents or information as the Registrar may reasonably require for the purpose of considering the application;
 
 (c) contain—
 
@@ -364,21 +480,21 @@ information as the Registrar may reasonably require for the purpose of consideri
 
 <!-- page 11 -->
 
-(ii) the name and address of a person resident in Labuan who
-
-<!-- marginal: is -->
-
-authorized to represent
-
-<!-- marginal: the -->
-
-applicant and to accept service on its behalf; and
+(ii) the name and address of a person resident in Labuan who is authorized to represent the applicant and to accept service on its behalf; and
 
 (iii) the address of any place or places of business that the applicant may have outside Labuan.
 
-(3) If any information referred to in subsection (2)(c) is altered at any time after its submission, the applicant, upon being granted a licence under this Part, shall give in writing to the Registrar particulars of the alteration within one month of the date of the grant of the licence or within one month after the alteration is made, whichever is the later.
+(3) If any information referred to in subsection
 
-Grant of 130E. (1) The Registrar may in his discretion licence. grant or refuse to grant a licence to any applicant.
+(2)(c) is altered at any time after its submission, the applicant, upon being granted a licence under this Part, shall give in writing to the Registrar particulars of the alteration within one month of the date of the grant of the licence or within one month after the alteration is made, whichever is the later.
+
+<!-- marginal: Grant of -->
+
+130E. (1) The Registrar may in his discretion
+
+<!-- marginal: licence. -->
+
+grant or refuse to grant a licence to any applicant.
 
 (2) The Registrar shall not grant a licence unless he is satisfied that the applicant—
 
@@ -388,21 +504,15 @@ Grant of 130E. (1) The Registrar may in his discretion licence. grant or refuse 
 
 (c) has sufficient financial resources at its disposal to enable it to conduct its business effectively and meet its liabilities; and
 
-(d) will be in a position to comply with any conditions imposed by
-
-<!-- marginal: the -->
-
-Registrar.
+(d) will be in a position to comply with any conditions imposed by the Registrar.
 
 <!-- page 12 -->
 
-Bill 12
+Bill
 
-(3) Notwithstanding subsection (2)
+<!-- marginal: 12 -->
 
-<!-- marginal: the -->
-
-Registrar shall reject an application if he determines that it is not in the public interest that a licence should be granted.
+(3) Notwithstanding subsection (2) the Registrar shall reject an application if he determines that it is not in the public interest that a licence should be granted.
 
 (4) A licence may be granted subject to such terms, conditions, restrictions or limitations as the Registrar deems fit to specify therein.
 
@@ -414,7 +524,17 @@ Registrar shall reject an application if he determines that it is not in the pub
 
 (c) remain in force until it is revoked.
 
-Power to 130F. (1) The Registrar may, if he is satisfied grant that to do so would not be prejudicial to public exemptions. interest, direct that all or any of the provisions of this Part shall—
+<!-- marginal: Power to -->
+
+130F. (1) The Registrar may, if he is satisfied
+
+<!-- marginal: grant -->
+
+that to do so would not be prejudicial to public
+
+<!-- marginal: exemptions. -->
+
+interest, direct that all or any of the provisions of this Part shall—
 
 (a) not apply; or
 
@@ -424,7 +544,13 @@ to a management company.
 
 (2) A direction under this section may be revoked at any time at the discretion of the Registrar.
 
-Licensing 130c. (1) Where the Registrar grants a licence procedure. to an applicant he shall—
+<!-- marginal: Licensing -->
+
+130c. (1) Where the Registrar grants a licence
+
+<!-- marginal: procedure. -->
+
+to an applicant he shall—
 
 (a) enter the particulars of the applicant in the register maintained by him; and
 
@@ -434,11 +560,21 @@ Licensing 130c. (1) Where the Registrar grants a licence procedure. to an applic
 
 (2) Every licence issued under this Part shall bear the date on which the licence is granted.
 
-Annual 130H. (1) A management company to whom a fees. licence under this Part is granted shall pay, not later than thirty days from each anniversary of the date of grant of the licence such annual fees as may be prescribed.
+<!-- marginal: Annual -->
+
+130H. (1) A management company to whom a
+
+<!-- marginal: fees. -->
+
+licence under this Part is granted shall pay, not later than thirty days from each anniversary of the date of grant of the licence such annual fees as may be prescribed.
 
 (2) Any annual fee not paid within the period specified in subsection (1) may be recovered by the Registrar by civil proceedings as a debt due to the Registrar and the Registrar may require and the Court may order the payment of a penalty in an amount equal to the amount of the fee for late payment of the fee.
 
-Revocation 130I. (1) The Registrar may revoke a licence— of licences.
+<!-- marginal: Revocation -->
+
+130I. (1) The Registrar may revoke a licence—
+
+<!-- marginal: of licences. -->
 
 (a) at the request of the holder; or
 
@@ -454,9 +590,21 @@ Revocation 130I. (1) The Registrar may revoke a licence— of licences.
 
 <!-- page 14 -->
 
-14 Bill
+<!-- marginal: 14 -->
 
-Access to 130J. For the purpose of discharging his duties information under this Part, the Registrar may, at all and records. reasonable times, in writing direct any officer of a management company to whom this Part applies—
+Bill
+
+<!-- marginal: Access to -->
+
+130J. For the purpose of discharging his duties
+
+<!-- marginal: information -->
+
+under this Part, the Registrar may, at all
+
+<!-- marginal: and records. -->
+
+reasonable times, in writing direct any officer of a management company to whom this Part applies—
 
 (a) to furnish information; or
 
@@ -464,7 +612,23 @@ Access to 130J. For the purpose of discharging his duties information under this
 
 relating to the business of that management company being carried on under this Part which, in the opinion of the Registrar, are necessary to enable him to ascertain whether the company is complying with the provisions of this Part.
 
-Immunity 130K. (1) No liability shall be incurred by and of and no suit, action or proceeding shall be brought actions by the against the Registrar for any act done or omitted Registrar to be done in good faith—
+<!-- marginal: Immunity -->
+
+130K. (1) No liability shall be incurred by and
+
+<!-- marginal: of and -->
+
+no suit, action or proceeding shall be brought
+
+<!-- marginal: actions by -->
+
+<!-- marginal: the -->
+
+against the Registrar for any act done or omitted
+
+<!-- marginal: Registrar -->
+
+to be done in good faith—
 
 (a) in the performance or intended performance of any function or duty; or
 
@@ -474,9 +638,11 @@ under this Part.
 
 (2) The Registrar may bring actions and institute proceedings for the enforcement of any provision of this Part or for the recovery of fees or other sums of money payable under this Part.
 
-Offences and
+<!-- marginal: Offences and -->
 
-130L. (1) A person who— penalties
+130L. (1) A person who—
+
+<!-- marginal: penalties -->
 
 (a) wilfully makes any misrepresentation in any document required to be filed, furnished or delivered under this Part;
 
@@ -516,7 +682,9 @@ section 147 the following section: " Investment 147. (1) An offshore company or 
 
 <!-- page 16 -->
 
-16 Bill
+<!-- marginal: 16 -->
+
+Bill
 
 company except a trust company so long as such holding does not amount to a controlling interest in the domestic company and is approved by the Registrar.
 
@@ -546,7 +714,11 @@ company except a trust company so long as such holding does not amount to a cont
 
 (a) a person cannot be appointed as a director without the exercise in his favour by that offshore company or foreign offshore company of such a power; or
 
-(b) a person's appointment as a director follows necessarily from his being a director or other officer of the offshore company or foreign offshore company.".
+(b) a person's appointment as a director follows necessarily from his being a director or other officer of the offshore company or foreign
+
+<!-- marginal: offshore -->
+
+company.".
 
 <!-- marginal: Amendment -->
 
@@ -604,11 +776,43 @@ the part of the Registrar to serve a notice on the company secretary or to publi
 
 <!-- marginal: and 151c. -->
 
-" Company 151A. An offshore company incorporated under struck off this Act shall continue to be liable for all fees, liable for licence fees and penalties payable under this fees, etc. Act, including the additional amount specified in subsection (2) of section 151, notwithstanding that the name of the offshore company has been struck off the register; and such fees, licence fees and penalties shall have priority over all other claims against the assets of the offshore company.
+"
 
-Fees 151B. The Registrar may refuse to take any payable to action required of him under this Act for which Registrar. a fee is prescribed until all fees have been paid.
+<!-- marginal: Company -->
 
-Effect of 151c. (1) Where the name of an offshore striking off. company has been struck off the register, the offshore company, and the directors, members, liquidators and receivers thereof, shall not—
+151A. An offshore company incorporated under
+
+<!-- marginal: struck off -->
+
+this Act shall continue to be liable for all fees,
+
+<!-- marginal: liable for -->
+
+licence fees and penalties payable under this
+
+<!-- marginal: fees, etc. -->
+
+Act, including the additional amount specified in subsection (2) of section 151, notwithstanding that the name of the offshore company has been struck off the register; and such fees, licence fees and penalties shall have priority over all other claims against the assets of the offshore company.
+
+<!-- marginal: Fees -->
+
+151B. The Registrar may refuse to take any
+
+<!-- marginal: payable to -->
+
+action required of him under this Act for which
+
+<!-- marginal: Registrar. -->
+
+a fee is prescribed until all fees have been paid.
+
+<!-- marginal: Effect of -->
+
+151c. (1) Where the name of an offshore
+
+<!-- marginal: striking off. -->
+
+company has been struck off the register, the offshore company, and the directors, members, liquidators and receivers thereof, shall not—
 
 (a) commence any legal proceedings, carry on any business or in any way deal with the assets of the offshore company;
 
@@ -636,9 +840,13 @@ Effect of 151c. (1) Where the name of an offshore striking off. company has been
 
 ## EXPLANATORY STATEMENT
 
-This Bill seeks to amend the Offshore Companies Act 1990 (the "Act").
+This Bill seeks to amend the Offshore Companies Act 1990 (the
 
-2. Clause 1 deals with the short title and commencement of this Bill.
+<!-- marginal: "Act"). -->
+
+2. Clause 1 deals with the short title and commencement of this
+
+<!-- marginal: Bill. -->
 
 <!-- page 21 -->
 

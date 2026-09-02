@@ -28,41 +28,19 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 Rang Undang-Undang
 
-(c) dengan menggantikan perkataan "worker's"
+(c) dengan menggantikan perkataan "worker's" di mana-mana jua terdapat dengan perkataan "employee's";
 
-<!-- marginal: di mana-mana -->
+(d) dengan menggantikan perkataan "workers" di mana-mana jua terdapat dengan perkataan "employees";
 
-jua terdapat dengan perkataan "employee's";
+(e) dengan menggantikan perkataan "workers'" di mana-mana jua terdapat dengan perkataan "employees'";
 
-(d) dengan menggantikan perkataan "workers"
+(f) dengan menggantikan perkataan "agreement or contract" di mana-mana jua terdapat dengan perkataan "contract of service"; dan
 
-<!-- marginal: di mana-mana -->
+(g) dengan menggantikan perkataan "agreements and contracts" di mana-mana jua terdapat dengan perkataan "contract of service",
 
-jua terdapat dengan perkataan "employees";
+kecuali jika Akta ini membuat pindaan tertentu berhubung dengan perkataan
 
-(e) dengan menggantikan perkataan "workers'"
-
-<!-- marginal: di mana-mana -->
-
-jua terdapat dengan perkataan "employees'";
-
-(f) dengan menggantikan perkataan "agreement
-
-<!-- marginal: or -->
-
-<!-- marginal: contract" -->
-
-di mana-mana jua terdapat dengan perkataan "contract of service"; dan
-
-(g) dengan menggantikan perkataan "agreements
-
-<!-- marginal: and -->
-
-<!-- marginal: contracts" -->
-
-di mana-mana jua terdapat dengan perkataan "contract of service",
-
-kecuali jika Akta ini membuat pindaan tertentu berhubung dengan perkataan itu.
+<!-- marginal: itu. -->
 
 ### Pindaan seksyen 2
 
@@ -72,11 +50,7 @@ kecuali jika Akta ini membuat pindaan tertentu berhubung dengan perkataan itu.
 
 "adopted", in reference to any child, means—
 
-(a) a child adopted, or whose adoption has been registered in accordance with
-
-<!-- marginal: the provisions of -->
-
-any written law relating to the adoption of children from time to time in force in Sabah; or
+(a) a child adopted, or whose adoption has been registered in accordance with the provisions of any written law relating to the adoption of children from time to time in force in Sabah; or
 
 (b) where there is no such written law, a child whom the Director has certified as having been adopted in accordance with religion, custom or usage;
 
@@ -116,11 +90,7 @@ of construction, as well as preparation for, or the laying of, the foundations o
 
 (a) a continuous period of twenty-four hours beginning at midnight; or
 
-(b) for the purposes of Chapter XIV in respect of an employee engaged in shift work or
-
-<!-- marginal: in work where -->
-
-the normal hours of work extend beyond midnight, a continuous period of twenty-four hours beginning at any point of time;
+(b) for the purposes of Chapter XIV in respect of an employee engaged in shift work or in work where the normal hours of work extend beyond midnight, a continuous period of twenty-four hours beginning at any point of time;
 
 "dependant" means —
 
@@ -144,13 +114,7 @@ includes a cook, house-servant, butler, child's nurse, valet, footman, gardener,
 
 "employee" means any person or class ef persons—
 
-(a) included in any category in the Schedule
-
-<!-- marginal: to -->
-
-<!-- marginal: the -->
-
-extent specified therein; or
+(a) included in any category in the Schedule to the extent specified therein; or
 
 (b) in respect of whom the Minister makes an order under subsection (7) of section 2A;
 
@@ -162,15 +126,7 @@ extent specified therein; or
 
 "forestry undertaking" means—
 
-(a) any work or occupation involved in the
-
-<!-- marginal: logging, -->
-
-transportation, processing, storage and
-
-<!-- marginal: utilization -->
-
-of timber or the manufacture of timber products;
+(a) any work or occupation involved in the logging, transportation, processing, storage and utilization of timber or the manufacture of timber products;
 
 (b) any work or activity relating to the taking of forest produce; or
 
@@ -188,33 +144,13 @@ Rang Undang-Undang
 
 "industrial undertaking" means —
 
-(a) mines, quarries and other works for the extraction of minerals from the earth; v (b) industries in which articles are manufactured, altered, cleaned, repaired, ornamented,
-
-<!-- marginal: finished, -->
-
-published or printed or bound, adapted for sale, broken up or demolished, packed or otherwise prepared for delivery or in which materials are transformed, or minerals treated
-
-<!-- marginal: including -->
-
-shipbuilding, and the generation,
-
-<!-- marginal: transformation -->
-
-and transmission of electricity and motive power of any kind;
+(a) mines, quarries and other works for the extraction of minerals from the earth; v (b) industries in which articles are manufactured, altered, cleaned, repaired, ornamented, finished, published or printed or bound, adapted for sale, broken up or demolished, packed or otherwise prepared for delivery or in which materials are transformed, or minerals treated including shipbuilding, and the generation, transformation and transmission of electricity and motive power of any kind;
 
 (c) constructional work;
 
-(d) transport of passengers or goods by road, rail, water or air including the handling of goods at docks, quays, wharves, warehouses,
+(d) transport of passengers or goods by road, rail, water or air including the handling of goods at docks, quays, wharves, warehouses, bulking installations, airports or airstrips;
 
-<!-- marginal: bulking -->
-
-installations, airports or airstrips;
-
-(e) any industry, establishment or undertaking, or any other activity, service or work, which
-
-<!-- marginal: the Minister -->
-
-may by order declare to be an industrial undertaking;
+(e) any industry, establishment or undertaking, or any other activity, service or work, which the Minister may by order declare to be an industrial undertaking;
 
 "medical officer" means a registered medical practitioner who is employed in a medical capacity by the Federal Government or the Government of a State;
 
@@ -268,31 +204,15 @@ ingress to and egress from which is by means of shafts, adits or natural caves;
 
 "wages" means basic wages and all other payments in cash payable to an employee for work done in respect of his contract of service but does not include—
 
-(a) the value of any house accommodation or
+(a) the value of any house accommodation or the supply of any food, fuel, light or water or medical attendance, or of any approved amenity or approved service;
 
-<!-- marginal: the supply -->
-
-of any food, fuel, light or water or medical attendance, or of any approved amenity or approved service;
-
-(b) any contribution paid by the employer on his own account to any pension fund, provident
-
-<!-- marginal: fund, -->
-
-superannuation scheme, retrenchment, termination, lay-off or retirement scheme, thrift scheme, or any other fund or scheme established for
-
-<!-- marginal: the benefit -->
-
-or welfare of the employee;
+(b) any contribution paid by the employer on his own account to any pension fund, provident fund, superannuation scheme, retrenchment, termination, lay-off or retirement scheme, thrift scheme, or any other fund or scheme established for the benefit or welfare of the employee;
 
 (c) any travelling allowance or the value of any travelling concession;
 
 (d) any sum payable to the employee to defray special expenses entailed on him by the nature of his employment;
 
-(e) any gratuity payable on discharge or
-
-<!-- marginal: retirement; -->
-
-or
+(e) any gratuity payable on discharge or retirement; or
 
 (f) any annual bonus or any part of any annual bonus;
 
@@ -310,19 +230,11 @@ Rang Undang-Undang
 
 (3) Where an employee is employed on—
 
-(a) a monthly rate of pay, the ordinary rate of pay per day shall be calculated according to
-
-<!-- marginal: the following -->
-
-formula:
+(a) a monthly rate of pay, the ordinary rate of pay per day shall be calculated according to the following formula:
 
 monthly rate of pay 26
 
-(b) a weekly rate of pay, the ordinary rate of pay per day shall be calculated according to
-
-<!-- marginal: the following -->
-
-formula:
+(b) a weekly rate of pay, the ordinary rate of pay per day shall be calculated according to the following formula:
 
 weekly rate of pay :
 
@@ -340,19 +252,9 @@ the adoption of any other method or formula shall not result in a rate which is 
 
 (6) The Minister may by order amend the Schedule.
 
-(7) The Minister may by order declare such provisions of this Ordinance and any other written law as may be specified in the order to be applicable to any person or class of persons employed, engaged or contracted with to carry out work in any occupation in any agricultural, forestry or industrial undertaking, constructional work, trade, business or place of work, and upon
+(7) The Minister may by order declare such provisions of this Ordinance and any other written law as may be specified in the order to be applicable to any person or class of persons employed, engaged or contracted with to carry out work in any occupation in any agricultural, forestry or industrial undertaking, constructional work, trade, business or place of work, and upon the coming into force of any such order—
 
-<!-- marginal: the coming -->
-
-into force of any such order—
-
-(a) any person or class of persons specified
-
-<!-- marginal: in -->
-
-<!-- marginal: the -->
-
-order shall be deemed to be an employee or employees;
+(a) any person or class of persons specified in the order shall be deemed to be an employee or employees;
 
 (b) the person employing, engaging or contracting with every such person or class of persons shall be deemed to be an employer;
 
@@ -364,11 +266,7 @@ order shall be deemed to be an employee or employees;
 
 for the purposes of such specified provisions of this Ordinance and any other written law.
 
-(8) The Minister may make rules in respect of
-
-<!-- marginal: the -->
-
-terms and conditions upon which the person or class of persons specified pursuant to subsection (7) may be employed.
+(8) The Minister may make rules in respect of the terms and conditions upon which the person or class of persons specified pursuant to subsection (7) may be employed.
 
 (9) Notwithstanding the provisions of this Ordinance, the Minister may make rules —
 
@@ -386,7 +284,27 @@ Rang Undang-Undang
 
 4. Ordinan dipinda dengan memasukkan selepas seksyen 2 seksyen yang berikut:
 
-2 A. (1) The Minister may by order prohibit the employment, “Minister may prohibit engagement or contracting of any person or class of persons to carry employment out work in any occupation in any agricultural, forestry or other than industrial undertaking, of constructional work, trade, business or under contract of service. place of work other than under a contract of service entered into with the principal or owner of that agricultural, forestry or industrial undertaking, constructional work, trade, business or place of work.
+2 A. (1) The Minister may by order prohibit the employment,
+
+<!-- marginal: “Minister may -->
+
+<!-- marginal: prohibit -->
+
+engagement or contracting of any person or class of persons to carry
+
+<!-- marginal: employment -->
+
+out work in any occupation in any agricultural, forestry or
+
+<!-- marginal: other than -->
+
+industrial undertaking, of constructional work, trade, business or
+
+<!-- marginal: under contract -->
+
+<!-- marginal: of service. -->
+
+place of work other than under a contract of service entered into with the principal or owner of that agricultural, forestry or industrial undertaking, constructional work, trade, business or place of work.
 
 (2) Upon the coming into force of any such order, the person or class of persons employed, engaged, or contracted with to carry out the work shall be deemed to be an employee or employees and the principal or owner of
 
@@ -400,7 +318,19 @@ agricultural, forestry or industrial undertaking, constructional work, trade, bu
 
 (4) Any person who contravenes any order made under this section commits an offence.
 
-2B. The Minister may by order exempt or exclude, subject to such General conditions as he may deem fit to impose, any person or class of power to exempt or persons from all or any of the provisions of this Ordinance." exclude
+2B. The Minister may by order exempt or exclude, subject to such
+
+<!-- marginal: General -->
+
+conditions as he may deem fit to impose, any person or class of
+
+<!-- marginal: power to -->
+
+<!-- marginal: exempt or -->
+
+persons from all or any of the provisions of this Ordinance."
+
+<!-- marginal: exclude -->
 
 ### Pindaan seksyen 3
 
@@ -436,7 +366,25 @@ Rang Undang-Undang
 
 6. Ordinan dipinda dengan memasukkan selepas seksyen 3 seksyen yang berikut:
 
-3A. An officer appointed under subsection (1A) of section 3 shall not “Officers exercise any of the powers of the Director under this Ordinance to be authorize unless he is in possession of an official identification signed by the d by Director authorizing him to Director exercise such powers, and any officer so authorized shall produce his official identification on demand to the owner or occupier of the place of employment and to the employer of any employees employed thereat."
+3A. An officer appointed under subsection (1A) of section 3 shall not
+
+<!-- marginal: “Officers -->
+
+exercise any of the powers of the Director under this Ordinance
+
+<!-- marginal: to be -->
+
+<!-- marginal: authorize -->
+
+unless he is in possession of an official identification signed by the
+
+<!-- marginal: d by -->
+
+Director authorizing him to
+
+<!-- marginal: Director -->
+
+exercise such powers, and any officer so authorized shall produce his official identification on demand to the owner or occupier of the place of employment and to the employer of any employees employed thereat."
 
 ### Pindaan seksyen 4
 
@@ -458,11 +406,7 @@ inspection and inquiry";
 
 (a) the Director may put questions concerning the employees to the employer or to any person who may be in charge of them, or to the employees themselves or any other person whom he believes to be acquainted with the facts and circumstances of any matter within the provisions of this Ordinance;
 
-(b) the employer or such person, or any such employee, or any such other person shall be legally bound to answer such questions truly
-
-<!-- marginal: to -->
-
-the best of his ability;
+(b) the employer or such person, or any such employee, or any such other person shall be legally bound to answer such questions truly to the best of his ability;
 
 (c) a statement made by a person under this section shall, whenever possible, be reduced into writing and signed by the person making it or affixed with his thumbprint, as the case may be, after it has been read to him in the language in which he made it and after he has been given an opportunity to make any correction he may wish; and
 
@@ -476,7 +420,7 @@ the best of his ability;
 
 (d) dalam subseksyen (4), dengan memotong perkataan "or Health Officer".
 
-Pindaan seksyen 5
+<!-- marginal: Pindaan seksyen 5 -->
 
 8. Seksyen 5 Ordinan dipinda —
 
@@ -500,15 +444,9 @@ Rang Undang-Undang
 
 (iv) dengan memasukkan selepas perenggan
 
-<!-- marginal: (b) -->
+(b) perenggan yang berikut:
 
-perenggan yang berikut:
-
-"(c) copy or make extracts from the contracts of service, books of account of wages, registers and other documents relating to the employees or
-
-<!-- marginal: their -->
-
-employment;
+"(c) copy or make extracts from the contracts of service, books of account of wages, registers and other documents relating to the employees or their employment;
 
 (d) take possession of the contracts of service, books of account of wages, registers and other documents relating to the employees or their employment where, in his opinion—
 
@@ -534,23 +472,11 @@ employment;
 
 (ii) dengan memasukkan selepas perkataan "has been committed or" perkataan "is about to be committed or";
 
-(iii) dengan menggantikan perkataan "disputes as to wages, wrongful termination of agreement or contract, misconduct, food, medical attendance, death, mining usage and mining complaint, Federal or State Government
+(iii) dengan menggantikan perkataan "disputes as to wages, wrongful termination of agreement or contract, misconduct, food, medical attendance, death, mining usage and mining complaint, Federal or State Government inspection, sanitation" dengan perkataan "terms and conditions of employment"; dan
 
-<!-- marginal: inspection, -->
+(iv) dengan memasukkan selepas perkataan "under the provisions of this Ordinance" perkataan "or any rules made hereunder";
 
-sanitation" dengan perkataan "terms and conditions of employment"; dan
-
-(iv) dengan memasukkan selepas perkataan "under the provisions of this Ordinance" perkataan "or any
-
-<!-- marginal: rules made -->
-
-hereunder";
-
-(b) dengan memasukkan selepas subseksyen (1)
-
-<!-- marginal: subseksyen -->
-
-yang berikut:
+(b) dengan memasukkan selepas subseksyen (1) subseksyen yang berikut:
 
 "(1A) The Director may issue to the employer such order as may be necessary or expedient to resolve the matters dealt with under subsection (1)."
 
@@ -570,19 +496,33 @@ Rang Undang-Undang
 
 ### Bab baru IIA
 
-11. Ordinan dipinda dengan memasukkan selepas Bab II Bab yang berikut:
+11. Ordinan dipinda dengan memasukkan selepas Bab II Bab yang
+
+<!-- marginal: berikut: -->
 
 "CHAPTER IIA Complaints
 
 and inquiries
 
-Direntor’s 7A. (1) The Director may inquire into and decide any dispute power to between an employee and his employer in respect complaints. of wages or inquire into complaints any other payment in cash due to such employee under—
+<!-- marginal: Direntor’s -->
+
+7A. (1) The Director may inquire into and decide any dispute
+
+<!-- marginal: power to -->
+
+between an employee and his employer in respect complaints. of wages or
+
+<!-- marginal: inquire into -->
+
+<!-- marginal: complaints -->
+
+any other payment in cash due to such employee under—
 
 (a) any term of the contract of service between such employee and his employer;
 
 (b) any of the provisions of this Ordinance or any subsidiary legislation made thereunder; or
 
-### Act 195.
+<!-- marginal: Act 195. -->
 
 (c) the provisions of the Wages Councils Act 1947 or any order made thereunder,
 
@@ -590,29 +530,13 @@ and, in pursuance of such decision, may make an order in the prescribed form for
 
 <!-- page 19 -->
 
-(2) The powers of the Director under subsection
-
-<!-- marginal: (1) -->
-
-shall include the power to hear and decide, in accordance with the procedure laid down in this Chapter, any claim b y -
+(2) The powers of the Director under subsection (1) shall include the power to hear and decide, in accordance with the procedure laid down in this Chapter, any claim b y -
 
 (a) an employee against any person liable under section 116c;
 
-(b) a subcontractor for labour against a contractor or subcontractor for any sum of money which
+(b) a subcontractor for labour against a contractor or subcontractor for any sum of money which the subcontractor for labour claims to be due to him in respect of any labour provided by him under his contract with the contractor or subcontractor; or
 
-<!-- marginal: the -->
-
-subcontractor for labour claims to be due
-
-<!-- marginal: to him -->
-
-in respect of any labour provided by him under his contract with the contractor or subcontractor; or
-
-(c) an employer against his employee in
-
-<!-- marginal: respect -->
-
-o f indemnity due t o such employer under subsection (1) of section 12;
+(c) an employer against his employee in respect o f indemnity due t o such employer under subsection (1) of section 12;
 
 and to make such consequential orders as may be necessary to give effect to his decision.
 
@@ -620,7 +544,9 @@ and to make such consequential orders as may be necessary to give effect to his 
 
 Provided that if the decision of the employer under paragraph (a) of subsection (1) of section 13 is set aside, the consequential order made by the Director against such employer shall be confined to payment of indemnity in lieu of notice and other payments that the employee is entitled to as if no misconduct was committed by the employee:
 
-Provided further that the Director shall not set aside any decision made by an employer when any other lesser punishment is imposed by an employer under paragraph (c) of subsection (1) of section 13 if such decision has not resulted in any loss in wages or other payments payable to the employee under his contract of service:
+Provided further that the Director shall not set aside any decision made by an employer when any other lesser punishment is imposed by an employer under paragraph (c) of subsection
+
+(1) of section 13 if such decision has not resulted in any loss in wages or other payments payable to the employee under his contract of service:
 
 <!-- page 20 -->
 
@@ -632,9 +558,23 @@ And provided further that the Director, shall not exercise the power conferred b
 
 Provided that the Director, on an application by an employer made within thirty days from the date of the making of the order, if he is satisfied that special circumstances exist, may determine any other date from which the interest is to be calculated.
 
-Limitation
+<!-- marginal: Limitation -->
 
-7B. Notwithstanding section 7A, the Director shall not inquire into, on power hear, decide or make any order in respect by section of any order in conferred by section respect of any claim, dispute or purported dispute which, in 7A accordance with the Industrial Relations Act 1967 —
+7B. Notwithstanding section 7A, the Director shall not inquire into,
+
+<!-- marginal: on power -->
+
+hear, decide or make any order in respect by section of any order in
+
+<!-- marginal: conferred -->
+
+<!-- marginal: by section -->
+
+respect of any claim, dispute or purported dispute which, in
+
+<!-- marginal: 7A -->
+
+accordance with the Industrial Relations Act 1967 —
 
 (a) is pending in any inquiry or proceedings under that Act;
 
@@ -642,7 +582,23 @@ Limitation
 
 (c) has been referred to, or is pending in any proceedings before, the Industrial Court.
 
-Additional 7c. (1) Notwithstanding the provisions of this Ordinance, the powers of powers of the Director under paragraph (a) of Director subsection (1) of section 7A shall extend to employees whose into complaints wages per month exceed two thousand five hundred ringgit but does not exceed five thousand ringgit.
+<!-- marginal: Additional -->
+
+7c. (1) Notwithstanding the provisions of this Ordinance, the
+
+<!-- marginal: powers of -->
+
+powers of the Director under paragraph (a) of
+
+<!-- marginal: Director -->
+
+subsection (1) of section 7A shall extend to employees whose
+
+<!-- marginal: into -->
+
+<!-- marginal: complaints -->
+
+wages per month exceed two thousand five hundred ringgit but does not exceed five thousand ringgit.
 
 (2) For the purposes of this section, the term "wages" means wages as defined in section 2 but does not include any payment by way of commission, subsistence allowance or overtime payment.
 
@@ -650,25 +606,61 @@ Additional 7c. (1) Notwithstanding the provisions of this Ordinance, the powers 
 
 (3) Save for this Chapter and Chapter XVI which shall apply with the necessary modifications, the other provisions of this Ordinance shall not apply to the employees referred to in subsection (1).
 
-7D. (1) In the exercise of his powers under subsection (1) of section 7c, the Director may inquire into and decide any claim concerning Claims for indemnity any indemnity due to the employer or the employee where the for contract of service is terminated by either party without notice, or if termination of contract notice was given, without waiting for the expiry of that notice. without notice. (2) The indemnity due to the employer or employee under subsection (1) shall be a sum equal to the amount of wages which would have accrued to the employee during the term of the notice or during the unexpired term of the notice.
+7D. (1) In the exercise of his powers under subsection (1) of section 7c, the Director may inquire into and decide any claim concerning
 
-Order of 7E. Notwithstanding subsection (1) of section 7A, an order of the Director Director made under subsection (1) of section 7c or subsection may be in writing. (1) of section 7D for the payment by or to the employer or employee of a sum of money as the Director deems just, without any limitation of amount, may be made in writing.
+<!-- marginal: Claims for -->
 
-7F. The procedure for disposing of questions arising under Procedure sections 7A, 7C and 7D shall be as follows: in Director's (a) the person complaining shall present to
+<!-- marginal: indemnity -->
 
-<!-- marginal: the Director -->
+any indemnity due to the employer or the employee where the
 
-inquiry. a written statement of his complaint and of
+<!-- marginal: for -->
 
-<!-- marginal: the -->
+contract of service is terminated by either party without notice, or if
 
-remedy which he seeks or he shall in person make a statement to the Director of his complaint and of the remedy which he seeks;
+<!-- marginal: termination -->
 
-(b) the Director shall as soon as practicable
+<!-- marginal: of contract -->
 
-<!-- marginal: thereafter -->
+notice was given, without waiting for the expiry of that notice.
 
-examine the complainant on oath or affirmation and shall record the substance of the complainant's statement in his case book;
+<!-- marginal: without -->
+
+<!-- marginal: notice. -->
+
+(2) The indemnity due to the employer or employee under subsection (1) shall be a sum equal to the amount of wages which would have accrued to the employee during the term of the notice or during the unexpired term of the notice.
+
+<!-- marginal: Order of -->
+
+7E. Notwithstanding subsection (1) of section 7A, an order of the
+
+<!-- marginal: Director -->
+
+Director made under subsection (1) of section 7c or subsection
+
+<!-- marginal: may be in -->
+
+<!-- marginal: writing. -->
+
+(1) of section 7D for the payment by or to the employer or employee of a sum of money as the Director deems just, without any limitation of amount, may be made in writing.
+
+7F. The procedure for disposing of questions arising under
+
+<!-- marginal: Procedure -->
+
+sections 7A, 7C and 7D shall be as follows:
+
+<!-- marginal: in -->
+
+<!-- marginal: Director's -->
+
+(a) the person complaining shall present to the Director
+
+<!-- marginal: inquiry. -->
+
+a written statement of his complaint and of the remedy which he seeks or he shall in person make a statement to the Director of his complaint and of the remedy which he seeks;
+
+(b) the Director shall as soon as practicable thereafter examine the complainant on oath or affirmation and shall record the substance of the complainant's statement in his case book;
 
 (c) the Director may make such inquiry as he deems necessary to satisfy himself that the complaint discloses matters which in his opinion ought to be inquired into and may summon in the prescribed form the person complained against, or if it appears
 
@@ -680,43 +672,13 @@ to him without any inquiry that the complaint discloses matters which ought to b
 
 Provided that if the person complained against attends in person before the Director it shall not be necessary to serve a summons upon him;
 
-(d) when issuing a summons to a person complained against, the Director shall give such person notice of the complaint made against him and
+(d) when issuing a summons to a person complained against, the Director shall give such person notice of the complaint made against him and the name of the complainant and shall inform him of the date, time and place at which he is required to attend and shall inform him that he may bring with him any witnesses he may wish to call on his behalf and that he may apply to the Director for summonses to such persons to appear as witnesses on his behalf;
 
-<!-- marginal: the name -->
+(e) when the Director issues a summons to a person complained against he shall inform the complainant of the date, time and place mentioned therein and shall instruct the complainant to bring with him any witnesses he may wish to call on his behalf and may on the request of the complainant and subject to any condition as he may deem fit to impose, issue summonses to such witnesses to appear on behalf of the complainant;
 
-of the complainant and shall inform him of
+(f) when at any time before or during an inquiry the Director has reason to believe that there are any persons whose financial interests are likely to be affected by such decision as he may give on completion of the inquiry or whom he has reason to believe have knowledge of the matters in issue or can give any evidence relevant thereto he may summon any or all of such persons;
 
-<!-- marginal: the -->
-
-date, time and place at which he is required to attend and shall inform him that he may bring with him any witnesses he may wish to call on his behalf and that he may apply to the Director for summonses to such persons to appear as witnesses on his behalf;
-
-(e) when the Director issues a summons to a person complained against he shall inform the complainant of the date, time and place mentioned
-
-<!-- marginal: therein and -->
-
-shall instruct the complainant to bring with him any witnesses he may wish to call on his behalf and may on the request of the complainant and subject to any condition as he may deem fit to impose, issue summonses to such witnesses
-
-<!-- marginal: to -->
-
-appear on behalf of the complainant;
-
-(f) when at any time before or during an inquiry the Director has reason to believe that there are any persons whose financial interests are likely
-
-<!-- marginal: to be -->
-
-affected by such decision as he may give on completion of the inquiry or whom he has reason to believe have knowledge of the matters
-
-<!-- marginal: in -->
-
-<!-- marginal: issue -->
-
-or can give any evidence relevant thereto he may summon any or all of such persons;
-
-(g) the Director shall, at the time and place appointed, examine on oath or affirmation those persons summoned or otherwise present whose
-
-<!-- marginal: evidence -->
-
-he deems material to the matters in issue and shall then give his decision on the matters in issue;
+(g) the Director shall, at the time and place appointed, examine on oath or affirmation those persons summoned or otherwise present whose evidence he deems material to the matters in issue and shall then give his decision on the matters in issue;
 
 <!-- page 23 -->
 
@@ -724,13 +686,47 @@ he deems material to the matters in issue and shall then give his decision on th
 
 (i) in order to enable a court to enforce the decision of the Director, the Director shall embody his decision in an order in such form as may be prescribed.
 
-7G. The Director shall keep a case book in which he shall record the evidence of persons summoned or otherwise present and his decision and order in each matter in issue before him and shall Director's record of authenticate the same by attaching his signature thereto and the inquiry. record in such case book shall be sufficient evidence of the giving of any decision; and any person interested in such decision or order shall be entitled to a copy thereof free of charge and to a copy of the record upon payment of the prescribed fee.
+7G. The Director shall keep a case book in which he shall record the evidence of persons summoned or otherwise present and his decision and order in each matter in issue before him and shall
 
-7H. Where it appears to the Director in any proceedings under this Chapter that there are more employees than one having a common cause for complaint against the same employer or person liable, it shall not be necessary for each employee to make a separate Joinder of several complaint under this Chapter, but the Director may, if he thinks fit, complaints permit one or more of them to make a complaint and to attend and in one complaint. act on behalf of and generally to represent the others, and the Director may proceed to a decision on the joint complaint or complaints of each and all such employees:
+<!-- marginal: Director's -->
+
+<!-- marginal: record of -->
+
+authenticate the same by attaching his signature thereto and the
+
+<!-- marginal: inquiry. -->
+
+record in such case book shall be sufficient evidence of the giving of any decision; and any person interested in such decision or order shall be entitled to a copy thereof free of charge and to a copy of the record upon payment of the prescribed fee.
+
+7H. Where it appears to the Director in any proceedings under this Chapter that there are more employees than one having a common cause for complaint against the same employer or person liable, it shall not be necessary for each employee to make a separate
+
+<!-- marginal: Joinder of -->
+
+<!-- marginal: several -->
+
+complaint under this Chapter, but the Director may, if he thinks fit,
+
+<!-- marginal: complaints -->
+
+permit one or more of them to make a complaint and to attend and
+
+<!-- marginal: in one -->
+
+<!-- marginal: complaint. -->
+
+act on behalf of and generally to represent the others, and the Director may proceed to a decision on the joint complaint or complaints of each and all such employees:
 
 Provided that, where the Director is of the opinion that the interests of the employer or person liable are likely to be prejudiced by the non-attendance of any employee, he shall require the personal attendance of such employee.
 
-7i. (1) Whenever the Director shall have made an order under section 7A, 7C or 7D, against any employer or any person liable for the payment of any sum of money to any employee or subcontractor for labour and the Director Prohibitory order by Director to third party.
+7i. (1) Whenever the Director shall have made an order under section 7A, 7C or 7D, against any employer or any person liable for the payment of any sum of money to any employee or subcontractor for labour and the Director
+
+<!-- marginal: Prohibitory -->
+
+<!-- marginal: order by -->
+
+<!-- marginal: Director to -->
+
+<!-- marginal: third party. -->
 
 <!-- page 24 -->
 
@@ -744,23 +740,103 @@ Provided further that where such other person is liable as a principal under sub
 
 (2) The payment of any money in pursuance of an order under subsection (1) shall be a discharge and payment up to the amount so paid of money due to the employer or person liable under the contract.
 
-7j. (1) No fee shall be charged by the Director in respect of any No fees for summons; summons issued by him under this Chapter. service of summons. (2) Any such summons may be served by a Sessions Court or a Magistrates' Court on behalf of the Director or in such other manner, and by such person, as the Director may deem fit.
+7j. (1) No fee shall be charged by the Director in respect of any
+
+<!-- marginal: No fees for -->
+
+<!-- marginal: summons; -->
+
+summons issued by him under this Chapter.
+
+<!-- marginal: service of -->
+
+<!-- marginal: summons. -->
+
+(2) Any such summons may be served by a Sessions Court or a Magistrates' Court on behalf of the Director or in such other manner, and by such person, as the Director may deem fit.
 
 <!-- page 25 -->
 
-7K. Where any order has been made by the Director under this Enforcement of Director’s Chapter, and the same has not been complied order by with by the person to whom it is addressed, the Director may send a Session Court certified copy thereof to the Registrar of a Sessions Court, or to the Court of a First Class Magistrate, having jurisdiction in the place to which the order relates or in the place where the order was made, and the Registrar or Court, as the case may be, shall cause the copy to be recorded and thereupon the order shall for all purposes be enforceable as a judgment of the Sessions Court or of the Court of the First Class Magistrate, as the case may be, notwithstanding that the same may in respect of amount or value be in excess of the ordinary jurisdiction of the said Court:
+7K. Where any order has been made by the Director under this
+
+<!-- marginal: Enforcement -->
+
+<!-- marginal: of Director’s -->
+
+Chapter, and the same has not been complied
+
+<!-- marginal: order by -->
+
+with by the person to whom it is addressed, the Director may send a
+
+<!-- marginal: Session Court -->
+
+certified copy thereof to the Registrar of a Sessions Court, or to the Court of a First Class Magistrate, having jurisdiction in the place to which the order relates or in the place where the order was made, and the Registrar or Court, as the case may be, shall cause the copy to be recorded and thereupon the order shall for all purposes be enforceable as a judgment of the Sessions Court or of the Court of the First Class Magistrate, as the case may be, notwithstanding that the same may in respect of amount or value be in excess of the ordinary jurisdiction of the said Court:
 
 Provided that no sale of immovable property shall for the purposes of such enforcement be ordered except by the High Court.
 
-Submission 7L. (1) In any proceedings under this Chapter the Director may, if he by Director thinks fit, submit any question of law for the decision of a Judge of to High the High Court and if he does so he shall decide the proceedings in Court on point of conformity with such decision. law.
+<!-- marginal: Submission -->
+
+7L. (1) In any proceedings under this Chapter the Director may, if he
+
+<!-- marginal: by Director -->
+
+thinks fit, submit any question of law for the decision of a Judge of
+
+<!-- marginal: to -->
+
+High the High Court and if he does so he shall decide the proceedings in
+
+<!-- marginal: Court -->
+
+on
+
+<!-- marginal: point -->
+
+of conformity with such decision.
+
+<!-- marginal: law. -->
 
 (2) An appeal shall lie to the Court of Appeal from any decision of a Judge under subsection (1).
 
-Appeal 7M. (1) If any person whose financial interests are affected is against dissatisfied with the decision or order of the Director under section Director's order to 7A, 7C, 7D or 7i, such person may appeal to the High Court. High Court.
+<!-- marginal: Appeal -->
 
-(2) Subject to any rules made under section 4 of the Act 55 Subordinate Courts Rules Act 1955, the procedure in an appeal to the High Court shall be the procedure in a civil appeal from a Sessions Court with such modifications as the circumstances may require. Employee's remedy
+7M. (1) If any person whose financial interests are affected is
 
-7N. (1) If any employee complains to a Magistrate that he has when employer reasonable grounds for believing that his employer, in order to about to evade payment of his wages, is about to abscond.
+<!-- marginal: against -->
+
+dissatisfied with the decision or order of the Director under section
+
+<!-- marginal: Director's -->
+
+<!-- marginal: order to -->
+
+7A, 7C, 7D or 7i, such person may appeal to the High Court.
+
+<!-- marginal: High Court. -->
+
+(2) Subject to any rules made under section 4 of the
+
+<!-- marginal: Act 55 -->
+
+Subordinate Courts Rules Act 1955, the procedure in an appeal to the High Court shall be the procedure in a civil appeal from a Sessions Court with such modifications as the circumstances may require.
+
+<!-- marginal: Employee's -->
+
+<!-- marginal: remedy -->
+
+7N. (1) If any employee complains to a Magistrate that he has
+
+<!-- marginal: when -->
+
+<!-- marginal: employer -->
+
+reasonable grounds for believing that his employer, in order to
+
+<!-- marginal: about to -->
+
+evade payment of his wages, is about to
+
+<!-- marginal: abscond. -->
 
 <!-- page 26 -->
 
@@ -772,27 +848,13 @@ abscond, the Magistrate may summon such employer and direct him to show cause wh
 
 Provided that—
 
-(a) such employer shall be released at any time by the committing Magistrate on security being
-
-<!-- marginal: furnished -->
-
-or on his paying either the whole or such part as to the Magistrate seems reasonable of all
-
-<!-- marginal: just claims -->
-
-of such employee against him for wages or on filing of a petition in bankruptcy by or against him; and
+(a) such employer shall be released at any time by the committing Magistrate on security being furnished or on his paying either the whole or such part as to the Magistrate seems reasonable of all just claims of such employee against him for wages or on filing of a petition in bankruptcy by or against him; and
 
 (b) in no case shall the period of such detention exceed three months.
 
-(3) The bond to be given by an employer shall be a personal bond with one or more sureties, and
+(3) The bond to be given by an employer shall be a personal bond with one or more sureties, and the penalty for breach of the bond shall be fixed with due regard to the circumstances of the case and the means of the employer.
 
-<!-- marginal: the penalty -->
-
-for breach of the bond shall be fixed with due regard to the circumstances of the case and the means of the employer.
-
-(4) If on or after a complaint by any employee under subsection (1) it appears to the Magistrate that
-
-<!-- marginal: there -->
+(4) If on or after a complaint by any employee under subsection (1) it appears to the Magistrate that there
 
 <!-- marginal: is -->
 
@@ -852,15 +914,97 @@ legislation made thereunder shall be void and of no effect to that extent and th
 
 16. Ordinan dipinda dengan memasukkan selepas seksyen 9 seksyen yang berikut:
 
-"Validity
+<!-- marginal: "Validity -->
 
-9A . Subject to any express prohibition under this Ordinance or any of any rules, order or other subsidiary legislation made thereunder, term or nothing in section 9 shall be construed as preventing an employer condition of service and an employee from agreeing to any term or condition of service which is under which an employee is employed, or shall render invalid any term more favourable. or condition of service stipulated in any collective agreement or in any award of the Industrial Court, which is more favourable to the employee than the provisions of this Ordinance or any rules, order or other subsidiary legislation made thereunder.
+9A . Subject to any express prohibition under this Ordinance or any
 
-9B. For the removal of doubt it is hereby declared that if no provision is made in respect of any matter under this Ordinance or any subsidiary legislation made thereunder, or if no rules, Removal of doubt in order or other subsidiary legislation has been made on any matter respect of in respect of which rules, or an order or other subsidiary matters not provided legislation may be made under this Ordinance, it shall not be construed for by or as preventing such matter from being provided for in a contract of under this Ordinance. service, or from being negotiated upon between an employer and an employee.
+<!-- marginal: of any -->
 
-9c. Nothing in any contract of service shall in any manner restrict the right of any employee who is a party to such contract— (a) to join a registered trade union; Contracts of (b) to participate in the activities of a registered trade service not to restrict union, whether as an officer of such union or rights of otherwise; or employees to join, (c) to associate with any other persons for the purpose participate in or of organizing a trade union in accordance with the organize Trade Unions Act 1959." trade
+rules, order or other subsidiary legislation made thereunder,
 
-Act 262.
+<!-- marginal: term or -->
+
+nothing in section 9 shall be construed as preventing an employer
+
+<!-- marginal: condition -->
+
+<!-- marginal: of service -->
+
+and an employee from agreeing to any term or condition of service
+
+<!-- marginal: which is -->
+
+under which an employee is employed, or shall render invalid any term
+
+<!-- marginal: more -->
+
+<!-- marginal: favourable. -->
+
+or condition of service stipulated in any collective agreement or in any award of the Industrial Court, which is more favourable to the employee than the provisions of this Ordinance or any rules, order or other subsidiary legislation made thereunder.
+
+9B. For the removal of doubt it is hereby declared that if no provision is made in respect of any matter under this Ordinance or any subsidiary legislation made thereunder, or if no rules,
+
+<!-- marginal: Removal of -->
+
+<!-- marginal: doubt in -->
+
+order or other subsidiary legislation has been made on any matter
+
+<!-- marginal: respect of -->
+
+in respect of which rules, or an order or other subsidiary
+
+<!-- marginal: matters not -->
+
+<!-- marginal: provided -->
+
+legislation may be made under this Ordinance, it shall not be construed
+
+<!-- marginal: for by or -->
+
+as preventing such matter from being provided for in a contract of
+
+<!-- marginal: under this -->
+
+<!-- marginal: Ordinance. -->
+
+service, or from being negotiated upon between an employer and an employee.
+
+9c. Nothing in any contract of service shall in any manner restrict the right of any employee who is a party to such contract— (a) to join a registered trade union;
+
+<!-- marginal: Contracts of -->
+
+(b) to participate in the activities of a registered trade
+
+<!-- marginal: service not -->
+
+<!-- marginal: to restrict -->
+
+union, whether as an officer of such union or
+
+<!-- marginal: rights of -->
+
+otherwise; or
+
+<!-- marginal: employees -->
+
+<!-- marginal: to join, -->
+
+(c) to associate with any other persons for the purpose
+
+<!-- marginal: participate -->
+
+<!-- marginal: in or -->
+
+of organizing a trade union in accordance with the
+
+<!-- marginal: organize -->
+
+Trade Unions Act 1959."
+
+<!-- marginal: trade -->
+
+<!-- marginal: Act 262. -->
 
 <!-- page 29 -->
 
@@ -868,13 +1012,7 @@ Act 262.
 
 17. Seksyen 10 Ordinan dipinda—
 
-(a) dengan menomborkan semula peruntukan yang
-
-<!-- marginal: sedia -->
-
-<!-- marginal: ada -->
-
-sebagai subseksyen (1) seksyen itu;
+(a) dengan menomborkan semula peruntukan yang sedia ada sebagai subseksyen (1) seksyen itu;
 
 (b) dalam subseksyen (1) —
 
@@ -888,11 +1026,7 @@ a period of a week or more" dengan perkataan "a contract of service";
 
 (iii) dengan menggantikan perkataan "usual" dengan perkataan "ordinary"; dan
 
-(c) dengan memasukkan selepas subseksyen (1)
-
-<!-- marginal: subseksyen -->
-
-yang berikut:
+(c) dengan memasukkan selepas subseksyen (1) subseksyen yang berikut:
 
 "(2) A contract of service shall be deemed to be breached by an employer if he fails to provide work or pay wages in accordance with subsection (1).".
 
@@ -900,7 +1034,21 @@ yang berikut:
 
 18. Ordinan dipinda dengan memasukkan selepas seksyen 10 seksyen yang berikut:
 
-10A. (1) A contract of service for a specified period of time or for the “Provision performance of a specified piece of work shall, unless otherwise as to termination terminated in accordance with this chapters terminate when the of contracts. period of time for which such contract was made has expired or when the piece of work specified in such contract has been completed.
+10A. (1) A contract of service for a specified period of time or for the
+
+<!-- marginal: “Provision -->
+
+performance of a specified piece of work shall, unless otherwise
+
+<!-- marginal: as to -->
+
+<!-- marginal: termination -->
+
+terminated in accordance with this chapters terminate when the
+
+<!-- marginal: of contracts. -->
+
+period of time for which such contract was made has expired or when the piece of work specified in such contract has been completed.
 
 (2) A contract of service for an unspecified period of time shall continue in force until terminated in accordance with this Chapter."
 
@@ -914,19 +1062,11 @@ Rang Undang-Undang
 
 (a) dalam nota birai, dengan menggantikan perkataan "agreement" dengan perkataan "contract of service";
 
-(b) dengan menggantikan subseksyen (1) dengan
-
-<!-- marginal: subseksyen -->
-
-yang berikut:
+(b) dengan menggantikan subseksyen (1) dengan subseksyen yang berikut:
 
 "(1) Either party to a contract of service may at any time give to the other party notice of his intention to terminate such contract of service.";
 
-(c) dengan menggantikan subseksyen (2) dengan
-
-<!-- marginal: subseksyen -->
-
-yang berikut:
+(c) dengan menggantikan subseksyen (2) dengan subseksyen yang berikut:
 
 "(2) The length of such notice shall be the same for both employer and employee and shall be determined by a provision made in writing for such notice in the terms of the contract of service, or, in the absence of such provision in writing, shall not be less than—
 
@@ -938,13 +1078,11 @@ yang berikut:
 
 Provided that this section shall not be taken to prevent either party from waiving his right to a notice under this subsection."; dan
 
-(d) dengan memasukkan selepas subseksyen (2)
+(d) dengan memasukkan selepas subseksyen (2) subseksyen yang berikut:
 
-<!-- marginal: subseksyen -->
+"(3) Notwithstanding anything contained in subsection
 
-yang berikut:
-
-"(3) Notwithstanding anything contained in subsection (2), where the termination of service of the employee is attributable wholly or mainly to the fact that—
+(2), where the termination of service of the employee is attributable wholly or mainly to the fact that—
 
 (a) the employer has ceased, or intends to cease to carry on the business for the purposes of which the employee was employed;
 
@@ -956,11 +1094,7 @@ yang berikut:
 
 (d) the requirements of that business for the employee to carry out work of a particular kind in the place at which he was contracted to work have ceased or diminished or are expected to cease or diminish;
 
-(e) the employee has refused to accept his
-
-<!-- marginal: transfer -->
-
-to any other place of employment, unless his contract of service requires him to accept such transfer; or
+(e) the employee has refused to accept his transfer to any other place of employment, unless his contract of service requires him to accept such transfer; or
 
 (f) a change has occurred in the ownership of the business for the purpose of which an employee is employed or of a part of such business, regardless of whether the change occurs by virtue of a sale or other disposition or by operation of law,
 
@@ -972,7 +1106,19 @@ the employee shall be entitled to, and the employer shall give to the employee, 
 
 20. Ordinan dipinda dengan menggantikan seksyen 12 dengan seksyen yang berikut:
 
-12. (1) Either party to a contract of service may terminate such contract “Termination of service without notice or, if notice has already been given in of contract accordance with section 11, without without notice. waiting for the expiry of that notice, by paying to the
+12. (1) Either party to a contract of service may terminate such contract
+
+<!-- marginal: “Termination -->
+
+of service without notice or, if notice has already been given in
+
+<!-- marginal: of contract -->
+
+accordance with section 11, without
+
+<!-- marginal: without notice. -->
+
+waiting for the expiry of that notice, by paying to the
 
 <!-- page 32 -->
 
@@ -986,9 +1132,17 @@ other party an indemnity of a sum equal to the amount of wages which would have 
 
 21. Ordinan dipinda dengan menggantikan seksyen 13 dengan seksyen yang berikut:
 
-“Termination
+<!-- marginal: “Termination -->
 
-13. (1) An employer may, on the grounds of misconduct inconsistent with of contract for the fulfilment of the express or implied conditions of his service, after special reasons due inquiry —
+13. (1) An employer may, on the grounds of misconduct inconsistent with
+
+<!-- marginal: of contract for -->
+
+the fulfilment of the express or implied conditions of his service, after
+
+<!-- marginal: special reasons -->
+
+due inquiry —
 
 (a) dismiss without notice the employee;
 
@@ -996,7 +1150,9 @@ other party an indemnity of a sum equal to the amount of wages which would have 
 
 (c) impose any other lesser punishment as he deems just and fit, and where a punishment of suspension without wages is imposed, it shall not exceed a period of two weeks.
 
-(2) For the purposes of an inquiry under subsection (1), the employer may suspend the employee from work for a period not exceeding two weeks but shall pay him not less than half his wages for such period:
+(2) For the purposes of an inquiry under subsection
+
+(1), the employer may suspend the employee from work for a period not exceeding two weeks but shall pay him not less than half his wages for such period:
 
 Provided that if the inquiry does not disclose any misconduct on the part of the employee, the employer shall forthwith restore to the employee the full amount of wages so withheld.
 
@@ -1132,19 +1288,21 @@ or premises joins the main road or a railway or river, as the case may be, a not
 
 36. Ordinan dipinda dengan menggantikan seksyen 58 dengan seksyen yang berikut:
 
-58. (1) Every employer shall prepare and keep one or more “Duty to registers containing such information regarding each employee keep registers. employed by him as may be prescribed by rules made under this Ordinance.
+58. (1) Every employer shall prepare and keep one or more
 
-(2) Every such register shall be preserved
+<!-- marginal: “Duty to -->
 
-<!-- marginal: for such -->
+registers containing such information regarding each employee
 
-period that every particular recorded therein shall be available for inspection for not less than six years after the recording thereof.
+<!-- marginal: keep -->
 
-(3) Notwithstanding subsections (1) and (2),
+<!-- marginal: registers. -->
 
-<!-- marginal: the Director, -->
+employed by him as may be prescribed by rules made under this Ordinance.
 
-on a written application by an employer, may permit
+(2) Every such register shall be preserved for such period that every particular recorded therein shall be available for inspection for not less than six years after the recording thereof.
+
+(3) Notwithstanding subsections (1) and (2), the Director, on a written application by an employer, may permit
 
 <!-- marginal: the -->
 
@@ -1154,7 +1312,25 @@ e mp lo ye r to keep th e information required under subsection (1) in any other
 
 37. Ordinan dipinda dengan memasukkan selepas seksyen 58 seksyen yang berikut:
 
-58A. The Minister may, by rules made under this Ordinance, “Power to provide that every employer or any specified class or classes of make rules requiring employers shall make available, in such form and at such intervals as information as many prescribed, to every employees employed by him or them or to wages to such class or classes of employees as may be specified such particulars as may be specified relating to the wages of such employees or any of them."
+58A. The Minister may, by rules made under this Ordinance,
+
+<!-- marginal: “Power to -->
+
+provide that every employer or any specified class or classes of
+
+<!-- marginal: make rules -->
+
+<!-- marginal: requiring -->
+
+employers shall make available, in such form and at such intervals as
+
+<!-- marginal: information as -->
+
+many prescribed, to every employees employed by him or them or
+
+<!-- marginal: to wages -->
+
+to such class or classes of employees as may be specified such particulars as may be specified relating to the wages of such employees or any of them."
 
 <!-- page 37 -->
 
@@ -1162,7 +1338,17 @@ e mp lo ye r to keep th e information required under subsection (1) in any other
 
 38. Ordinan dipinda dengan menggantikan seksyen 59 dengan seksyen yang berikut:
 
-59. (1) The Director may by notification in the Gazette or by notice “Duty to submit in writing require every employer or such class or classes of returns. employers as may be specified, and every owner or occupier of land upon which employees are employed or such class or classes of owners or occupiers as may be specified, to forward to the Director at such times as he may direct a return or returns, in such form or forms as he may prescribe, giving such particulars relating to the employees of the employers, or to the employees employed on the land, as may be prescribed.
+59. (1) The Director may by notification in the Gazette or by notice
+
+<!-- marginal: “Duty to -->
+
+<!-- marginal: submit -->
+
+in writing require every employer or such class or classes of
+
+<!-- marginal: returns. -->
+
+employers as may be specified, and every owner or occupier of land upon which employees are employed or such class or classes of owners or occupiers as may be specified, to forward to the Director at such times as he may direct a return or returns, in such form or forms as he may prescribe, giving such particulars relating to the employees of the employers, or to the employees employed on the land, as may be prescribed.
 
 (2) Notwithstanding the provisions of this Ordinance, the powers of the Director under subsection (1) extend to every employee employed under a contract of service irrespective of the monthly wages of the employee."
 
@@ -1170,23 +1356,21 @@ e mp lo ye r to keep th e information required under subsection (1) in any other
 
 39. Ordinan dipinda dengan memasukkan selepas seksyen 59 seksyen yang berikut:
 
-59A. (1) Any person or employer who proposes— “Duty to give notice and other
+59A. (1) Any person or employer who proposes—
 
-(a) to operate any agricultural, forestry or industrial information undertaking or any establishment where
+<!-- marginal: “Duty to -->
 
-<!-- marginal: any -->
+<!-- marginal: give notice -->
 
-commerce, trade, profession or business of
+<!-- marginal: and other -->
 
-<!-- marginal: any -->
+(a) to operate any agricultural, forestry or industrial
 
-description is carried on;
+<!-- marginal: information -->
 
-(b) to take over or commence business
+undertaking or any establishment where any commerce, trade, profession or business of any description is carried on;
 
-<!-- marginal: in such -->
-
-undertaking or establishment; or
+(b) to take over or commence business in such undertaking or establishment; or
 
 (c) to change the name or the location of such undertaking or establishment,
 
@@ -1212,11 +1396,7 @@ that undertaking or establishment.
 
 <!-- marginal: the -->
 
-date on which the first employee is employed
-
-<!-- marginal: in furtherance -->
-
-of the undertaking or commerce, trade, profession or business in such establishment, whichever is earlier.
+date on which the first employee is employed in furtherance of the undertaking or commerce, trade, profession or business in such establishment, whichever is earlier.
 
 (3) Where any undertaking or establishment as
 
@@ -1242,23 +1422,47 @@ to in subsection (1) is already in operation or has commenced business, such not
 
 43. Ordinan dipinda dengan menggantikan seksyen 71 dengan seksyen yang berikut:
 
-71. Where, in any proceeding under this Ordinance, a person is alleged “Certificate of medical to be a child or young person, the Court may accept a certificate of a officer as to medical officer to the effect that, in his opinion, such person is or age. is not a child or young person."
+71. Where, in any proceeding under this Ordinance, a person is alleged
+
+<!-- marginal: “Certificate -->
+
+<!-- marginal: of medical -->
+
+to be a child or young person, the Court may accept a certificate of a
+
+<!-- marginal: officer as to -->
+
+medical officer to the effect that, in his opinion, such person is or
+
+<!-- marginal: age. -->
+
+is not a child or young person."
 
 ### Pindaan seksyen 72
 
 44. Ordinan dipinda dengan menggantikan seksyen 72 dengan seksyen yang berikut:
 
-“Employment 72. (1) No child or young person shall be, or be required
+<!-- marginal: “Employment -->
 
-<!-- marginal: or -->
+72. (1) No child or young person shall be, or be required or
 
-in which permitted to be, engaged in any employment other children and than those specified in this section. young persons may be engaged. (2) A child may be engaged in any of the following employment:
+<!-- marginal: in which -->
 
-(a) employment involving light work suitable
+permitted to be, engaged in any employment other
 
-<!-- marginal: to his -->
+<!-- marginal: children and -->
 
-capacity in any undertaking carried on by his family;
+than those specified in this section.
+
+<!-- marginal: young persons -->
+
+<!-- marginal: may be -->
+
+<!-- marginal: engaged. -->
+
+(2) A child may be engaged in any of the following employment:
+
+(a) employment involving light work suitable to his capacity in any undertaking carried on by his family;
 
 (b) employment in any public entertainment,
 
@@ -1280,21 +1484,9 @@ Rang Undang-Undang
 
 (b) employment as a domestic servant;
 
-(c) employment in any office, shop (including hotels, bars, restaurants and stalls), godown,
+(c) employment in any office, shop (including hotels, bars, restaurants and stalls), godown, factory, workshop, store, boarding house, theatre, cinema, club or association;
 
-<!-- marginal: factory, -->
-
-workshop, store, boarding house,
-
-<!-- marginal: theatre, cinema, -->
-
-club or association;
-
-(d) employment in an industrial undertaking
-
-<!-- marginal: suitable -->
-
-to his capacity; and
+(d) employment in an industrial undertaking suitable to his capacity; and
 
 (e) employment on any vessel under the personal charge of his parent or guardian:
 
@@ -1302,53 +1494,85 @@ Provided that no female young person may be engaged in any employment in hotels,
 
 Provided further that a female young person may be engaged in any employment in a club not managed by her parent or guardian with the approval of the Director.
 
-(4) The Minister may, if he is satisfied
-
-<!-- marginal: that any -->
-
-employment (not mentioned i n subsection
-
-<!-- marginal: ( 2 ) o r -->
+(4) The Minister may, if he is satisfied that any employment (not mentioned i n subsection ( 2 ) o r
 
 (3)) is not dangerous to life, limb, health or morals, by order declare such employment to be an employment
 
 <!-- marginal: in -->
 
-which a child or young person may be, or permitted to be, engaged; and the Minister may in such order
+which a child or young person may be, or permitted to be, engaged; and the Minister may in such order impose such conditions as he deems fit and he may at any time revoke or vary the order or may withdraw or alter such conditions.
 
-<!-- marginal: impose -->
+(5) No child or young person shall be, or be required or permitted to be, engaged in any employment contrary to the
 
-such conditions as he deems fit and he may at any time revoke or vary the order or may withdraw or alter such conditions.
+<!-- marginal: Act 139. -->
 
-(5) No child or young person shall be, or be required or permitted to be, engaged in any employment contrary to the Act 139. provisions of the Factories and Machinery Act 1967 or the Electricity Act 447. Supply Act 1990 or in any employment requiring him to work underground."
+provisions of the Factories and Machinery Act 1967 or the Electricity
+
+<!-- marginal: Act 447. -->
+
+Supply Act 1990 or in any employment requiring him to work underground."
 
 <!-- page 41 -->
 
 ### Pindaan seksyen 73
 
-45. Ordinan dipinda dengan menggantikan
+45. Ordinan dipinda dengan menggantikan 7 3 dengan seksyen yang berikut:
 
-<!-- marginal: 7 3 -->
+73. Notwithstanding section 72, the Minister may, in
 
-<!-- marginal: dengan -->
+<!-- marginal: “The Minister -->
 
-seksyen yang berikut:
+any particular case, by order prohibit any child or young
 
-73. Notwithstanding section 72, the Minister may, in “The Minister any particular case, by order prohibit any child or young may prohibit any child or person from engaging or from being engaged in any of young person the employments mentioned in that section if he is satisfied from engaging or being that having regard to the circumstances such employment engaged in any would be detrimental to the interests of the child or employment. young person, as the case may be."
+<!-- marginal: may prohibit -->
+
+<!-- marginal: any child or -->
+
+person from engaging or from being engaged in any of
+
+<!-- marginal: young person -->
+
+the employments mentioned in that section if he is satisfied
+
+<!-- marginal: from engaging -->
+
+<!-- marginal: or being -->
+
+that having regard to the circumstances such employment
+
+<!-- marginal: engaged in any -->
+
+would be detrimental to the interests of the child or
+
+<!-- marginal: employment. -->
+
+young person, as the case may be."
 
 ### Seksyen baru 73A, 73B, 73C dan 73D
 
-46. Ordinan dipinda dengan memasukkan selepas
+46. Ordinan dipinda dengan memasukkan selepas seksyen 73 seksyen yang berikut:
 
-<!-- marginal: seksyen 73 -->
+<!-- marginal: “Number -->
 
-seksyen yang berikut:
+73A. NO child or young person engaged in any employment shall in any
 
-“Number
+<!-- marginal: of days -->
 
-73A. NO child or young person engaged in any employment shall in any of days period of seven consecutive days be required or permitted to work for of work. more than six days.
+period of seven consecutive days be required or permitted to work for
 
-Hours of 73B. (1) No child engaged in any employment shall be required or work of permitted— children.
+<!-- marginal: of work. -->
+
+more than six days.
+
+<!-- marginal: Hours of -->
+
+73B. (1) No child engaged in any employment shall be required or
+
+<!-- marginal: work of -->
+
+permitted—
+
+<!-- marginal: children. -->
 
 (a) to work between the hours of 8 o'clock in the evening and 7 o'clock in the morning;
 
@@ -1364,7 +1588,17 @@ Hours of 73B. (1) No child engaged in any employment shall be required or work o
 
 Rang Undang-Undang
 
-73c. (1) No young person engaged in any employment shall be required Hours of work of or permitted - young person.
+73c. (1) No young person engaged in any employment shall be required
+
+<!-- marginal: Hours of -->
+
+<!-- marginal: work of -->
+
+or permitted -
+
+<!-- marginal: young -->
+
+<!-- marginal: person. -->
 
 (a) to work between the hours of 8 o'clock in the evening and 6 o'clock in the morning;
 
@@ -1378,17 +1612,29 @@ Provided that if the young person is an apprentice under paragraph (d) of subsec
 
 (2) Paragraph (a) of subsection (1) shall not apply to any young person engaged in employment in an agricultural undertaking or any employment in a public entertainment or on any vessel under paragraph (e) of subsection (3) of section 72.
 
-73D. (1) NO child or young person shall take part or be required or Employment permitted to take part in any public entertainment unless there has been connected issued by the Director or by such other officer as may be with public authorized in writing in that behalf by the Director to the entertainment. person employing such child or young person a license in that behalf; and the Director may, in addition to such conditions or restrictions as may be prescribed from time to time under Chapter XVIB impose in respect of such license (whether at the time the license is issued or thereafter from time to time) such conditions as he deems fit.
+73D. (1) NO child or young person shall take part or be required or
+
+<!-- marginal: Employment -->
+
+permitted to take part in any public entertainment unless there has been
+
+<!-- marginal: connected -->
+
+issued by the Director or by such other officer as may be
+
+<!-- marginal: with public -->
+
+authorized in writing in that behalf by the Director to the
+
+<!-- marginal: entertainment. -->
+
+person employing such child or young person a license in that behalf; and the Director may, in addition to such conditions or restrictions as may be prescribed from time to time under Chapter XVIB impose in respect of such license (whether at the time the license is issued or thereafter from time to time) such conditions as he deems fit.
 
 (2) No license under subsection (1) shall be granted by the Director to any person where he is of the opinion that the employment is dangerous to the life, limb, health or morals of the child or young person.
 
 <!-- page 43 -->
 
-(3) The Director may cancel any licence
-
-<!-- marginal: issued under -->
-
-this section on any ground for which he could refuse to issue a licence or on breach of any condition thereof, and such cancellation shall take effect forthwith until and unless set aside on appeal.
+(3) The Director may cancel any licence issued under this section on any ground for which he could refuse to issue a licence or on breach of any condition thereof, and such cancellation shall take effect forthwith until and unless set aside on appeal.
 
 (4) Any child or young person or the parent or guardian of such child or young person or any other person aggrieved by the decision of the Director may within fourteen days of the making of that decision appeal to the Minister, and the decision of the Minister shall be final.
 
@@ -1400,21 +1646,31 @@ this section on any ground for which he could refuse to issue a licence or on br
 
 ### Seksyen baru 74A dan 74B
 
-48. Ordinan dipinda dengan memasukkan selepas
+48. Ordinan dipinda dengan memasukkan selepas seksyen 74 seksyen yang berikut:
 
-<!-- marginal: seksyen 74 -->
+74A. (1) If representation is made to the Minister that the
 
-seksyen yang berikut:
+<!-- marginal: “Power to -->
 
-74A. (1) If representation is made to the Minister that the “Power to wages of children or young persons in any class of work in any area prescribe are not reasonable, having regard to the nature of the work and minimum wages after conditions of employment obtaining in such class of work, the inquiry. Minister may, if he considers it expedient, direct an inquiry.
+wages of children or young persons in any class of work in any area
+
+<!-- marginal: prescribe -->
+
+are not reasonable, having regard to the nature of the work and
+
+<!-- marginal: minimum -->
+
+<!-- marginal: wages after -->
+
+conditions of employment obtaining in such class of work, the
+
+<!-- marginal: inquiry. -->
+
+Minister may, if he considers it expedient, direct an inquiry.
 
 (2) For the purpose of such inquiry, the Minister shall appoint a Board consisting of an independent member who shall be chairman and an equal number of representatives of employers and employees.
 
-(3) The Board shall, after holding the
-
-<!-- marginal: inquiry, report -->
-
-to the Minister its findings and recommendations; and the Minister may, after considering the report of the
+(3) The Board shall, after holding the inquiry, report to the Minister its findings and recommendations; and the Minister may, after considering the report of the
 
 <!-- page 44 -->
 
@@ -1430,11 +1686,7 @@ Provided that no damages and no indemnity under section 12 of this Ordinance sha
 
 ### Bab baru XIA
 
-49. Ordinan dipinda dengan memasukkan selepas
-
-<!-- marginal: seksyen 74B -->
-
-tajuk yang berikut:
+49. Ordinan dipinda dengan memasukkan selepas seksyen 74B tajuk yang berikut:
 
 ## "CHAPTER XIA
 
@@ -1454,11 +1706,7 @@ Provided that the Director may, on application made to him in any particular cas
 
 (2) Any person—
 
-(a) who is affected by any decision made or condition imposed under the proviso to subsection
-
-<!-- marginal: (1); -->
-
-and
+(a) who is affected by any decision made or condition imposed under the proviso to subsection (1); and
 
 (b) who is dissatisfied with such decision or condition,
 
@@ -1536,23 +1784,19 @@ yang berikut:
 
 <!-- marginal: t o -->
 
-“Length of eligible maternity leave for a period of not less than sixty period and consecutive days (also referred to in this Chapter as the "eligible entitlement period") in respect of each confinement and, to maternity allowance.
+“Length of eligible maternity leave for a period of not less
+
+<!-- marginal: than sixty -->
+
+period and consecutive days (also referred to in this Chapter as the "eligible entitlement period") in respect of each confinement and, to maternity allowance.
 
 <!-- page 47 -->
 
 subject to this Chapter, she shall be entitled to receive from her employer a maternity allowance to be calculated or prescribed as provided in subsection (2) in respect of the eligible period.
 
-(2) Where a female employee is entitled to maternity leave under subsection (1) but is not entitled to receive maternity allowance from her employer for the eligible period under subsection (5), or because she has not fulfilled the conditions set out in subsection (6), she may, with the consent of the employer, commence work at any
+(2) Where a female employee is entitled to maternity leave under subsection (1) but is not entitled to receive maternity allowance from her employer for the eligible period under subsection (5), or because she has not fulfilled the conditions set out in subsection (6), she may, with the consent of the employer, commence work at any time during the eligible period if she has been certified fit to resume work by a registered medical practitioner.
 
-<!-- marginal: time -->
-
-during the eligible period if she has been certified fit to resume work by a registered medical practitioner.
-
-(3) Subject to section 87, maternity leave shall not commence earlier than a period of thirty days immediately preceding the confinement of a female employee or
-
-<!-- marginal: later -->
-
-than the day immediately following her confinement:
+(3) Subject to section 87, maternity leave shall not commence earlier than a period of thirty days immediately preceding the confinement of a female employee or later than the day immediately following her confinement:
 
 Provided that where a medical officer or the registered medical practitioner appointed by the employer certifies that the female employee as a result of her advanced state of pregnancy is unable to perform her duties satisfactorily, the employee may be required to commence her maternity leave at any time during a period of fourteen days preceding the date of her confinement as determined in advance by the medical officer or the registered medical practitioner appointed by the employer.
 
@@ -1560,69 +1804,33 @@ Provided that where a medical officer or the registered medical practitioner app
 
 <!-- marginal: to -->
 
-commence her maternity leave on a date earlier
+commence her maternity leave on a date earlier than the period of thirty days immediately preceding her confinement, such abstention shall not be treated as maternity leave and she shall not be entitled to any maternity allowance in respect of the days during which she abstains from work in excess of the period of thirty days immediately preceding her confinement.
 
-<!-- marginal: than -->
-
-<!-- marginal: the -->
-
-period of thirty days immediately preceding her confinement, such abstention shall not be treated as maternity leave and she shall not be entitled to any maternity allowance in respect of the days during which she abstains from work in excess of the period of thirty days immediately preceding her confinement.
-
-(5) Notwithstanding subsection (1), a female
-
-<!-- marginal: employee -->
-
-shall not be entitled to any maternity allowance if at the time of her confinement she has five or more surviving children.
+(5) Notwithstanding subsection (1), a female employee shall not be entitled to any maternity allowance if at the time of her confinement she has five or more surviving children.
 
 <!-- page 48 -->
 
 Rang Undang-Undang
 
-(6) A female employee shall be entitled to
-
-<!-- marginal: receive -->
-
-maternity allowance for the eligible period from her employer if—
+(6) A female employee shall be entitled to receive maternity allowance for the eligible period from her employer if—
 
 (a) she has been employed by the employer at any time i n the four months immediately before her confinement; and
 
-(b) she has been employed by the employer for a period of, or periods amounting in the aggregate
+(b) she has been employed by the employer for a period of, or periods amounting in the aggregate to, not less than ninety days during the nine months immediately before her confinement.
 
-<!-- marginal: to, not -->
-
-less than ninety days during the nine months immediately before her confinement.
-
-(7) A female employee who is eligible for maternity allowance under this section shall be entitled to
-
-<!-- marginal: receive -->
-
-from the employer for each day of the eligible period a maternity allowance at her ordinary rate of pay for one day, or at the rate prescribed by the Minister under Chapter XVIB, whichever is the greater.
+(7) A female employee who is eligible for maternity allowance under this section shall be entitled to receive from the employer for each day of the eligible period a maternity allowance at her ordinary rate of pay for one day, or at the rate prescribed by the Minister under Chapter XVIB, whichever is the greater.
 
 (8) A female employee employed on a monthly rate of pay shall be deemed to have received her maternity allowance if she continues to receive her monthly wages during her abstention from work during the eligible period without abatement in respect of the abstention.
 
 (9) Where a female employee claims maternity allowance under this section from more than one employer, she shall not be entitled to receive a maternity allowance of an amount exceeding in the aggregate the amount which she would be entitled to receive if her claim was made against one employer only.
 
-(10) Where there are more employers than one from whom the female employee would be entitled to claim maternity allowance in accordance with this section
-
-<!-- marginal: the -->
-
-employer who pays the maternity allowance shall be entitled to recover from such other employer, as a civil debt, a contribution which shall bear the same proportion
-
-<!-- marginal: to -->
-
-<!-- marginal: the -->
-
-amount of the maternity allowance paid to the female employee as the number of days on which she worked
+(10) Where there are more employers than one from whom the female employee would be entitled to claim maternity allowance in accordance with this section the employer who pays the maternity allowance shall be entitled to recover from such other employer, as a civil debt, a contribution which shall bear the same proportion to the amount of the maternity allowance paid to the female employee as the number of days on which she worked
 
 <!-- page 49 -->
 
 for such other employer during the period of nine months immediately preceding her confinement bears to the total number of days on which she worked during that period:
 
-Provided that if the female employee has failed to comply with subsection (1) or (2) of section 87, the employer who pays the maternity allowance shall not thereby be prevented from recovering contribution calculated in accordance with
-
-<!-- marginal: the -->
-
-subsection.
+Provided that if the female employee has failed to comply with subsection (1) or (2) of section 87, the employer who pays the maternity allowance shall not thereby be prevented from recovering contribution calculated in accordance with the subsection.
 
 (11) For the purposes of this section, "children" mean all natural children, irrespective of age."
 
@@ -1632,37 +1840,49 @@ subsection.
 
 ### Pindaan seksyen 85
 
-59. Ordinan dipinda dengan menggantikan
+59. Ordinan dipinda dengan menggantikan 8 5 dengan seksyen yang berikut:
 
-<!-- marginal: 8 5 -->
+85. The maternity allowance referred to in section 83 and
 
-<!-- marginal: dengan -->
+<!-- marginal: “Payment -->
 
-seksyen yang berikut:
+of maternity accruing in each wage period under the contract of service of the
 
-85. The maternity allowance referred to in section 83 and “Payment of maternity accruing in each wage period under the contract of service of the allowance. female employee shall be paid in the same manner as if such allowance were wages earned during such wage period as provided in section 108."
+<!-- marginal: allowance. -->
+
+female employee shall be paid in the same manner as if such allowance were wages earned during such wage period as provided in section 108."
 
 ### Pindaan seksyen 86
 
-60. Ordinan dipinda dengan menggantikan
+60. Ordinan dipinda dengan menggantikan 8 6 dengan seksyen yang berikut:
 
-<!-- marginal: 8 6 -->
+86. If a female employee, after giving notice to her
 
-<!-- marginal: dengan -->
+<!-- marginal: “Payment -->
 
-seksyen yang berikut:
+employer that she expects to be confined, commences her
 
-86. If a female employee, after giving notice
+<!-- marginal: of -->
 
-<!-- marginal: to her -->
+<!-- marginal: allowance -->
 
-“Payment employer that she expects to be confined, commences her of allowance maternity leave and dies from any cause during the eligible period, her employer or any emplo to havebeen,butforthedeathofthefemaleemployeeliabletopay nominance any maternity allowance shall
+maternity leave and dies from any cause during the eligible period, her employer or any emplo
 
-<!-- marginal: pay -->
+<!-- marginal: to -->
 
-<!-- marginal: tothe -->
+havebeen,butforthedeathofthefemaleemployeeliabletopay
 
-on death of a female person nominated by her under section 90 or, if thereis employee.
+<!-- marginal: nominance -->
+
+any maternity allowance shall pay tothe
+
+<!-- marginal: on death of -->
+
+<!-- marginal: a female -->
+
+person nominated by her under section 90 or, if thereis
+
+<!-- marginal: employee. -->
 
 <!-- page 50 -->
 
@@ -1674,7 +1894,27 @@ no such person, to her legal personal representative, an allowance at the rate c
 
 61. Ordinan dipinda dengan menggantikan seksyen 87 dengan seksyen yang berikut:
 
-87. (1) A female employee who is about to leave her “Loss of employer and who knows or has reason to believe that she will be maternity allowance confined within four months from the date upon which she leaves shall for failure before leaving her employment notify her employer of her to notify employer. pregnancy and if she fails so to do, she shall not be entitled to receive any maternity allowance from such employer.
+87. (1) A female employee who is about to leave her
+
+<!-- marginal: “Loss of -->
+
+employer and who knows or has reason to believe that she will be
+
+<!-- marginal: maternity -->
+
+<!-- marginal: allowance -->
+
+confined within four months from the date upon which she leaves shall
+
+<!-- marginal: for failure -->
+
+before leaving her employment notify her employer of her
+
+<!-- marginal: to notify -->
+
+<!-- marginal: employer. -->
+
+pregnancy and if she fails so to do, she shall not be entitled to receive any maternity allowance from such employer.
 
 (2) A female employee shall within a period of sixty days immediately preceding her expected confinement notify her employer of it and the date from which she intends to commence her maternity leave and if she commences such leave without so notifying her employer, the payment of maternity allowance to her may be suspended, notwithstanding section 85, until such notice is given to her employer.
 
@@ -1682,11 +1922,7 @@ no such person, to her legal personal representative, an allowance at the rate c
 
 <!-- marginal: to -->
 
-such medical treatment offered free by her employer as a registered medical practitioner certifies to be necessary or desirable in connection with her pregnancy, expected confinement or confinement shall, if she would otherwise be entitled to receive any maternity allowance,
-
-<!-- marginal: forfeit -->
-
-such allowance to the extent of seven days.
+such medical treatment offered free by her employer as a registered medical practitioner certifies to be necessary or desirable in connection with her pregnancy, expected confinement or confinement shall, if she would otherwise be entitled to receive any maternity allowance, forfeit such allowance to the extent of seven days.
 
 (4) The want of or any defect or inaccuracy in any notice required to be given in accordance with this section shall not be a bar to the maintenance of any claim to maternity allowance unless the employer is proved
 
@@ -1724,7 +1960,11 @@ Provided that any dispute as to whether such failure was occasioned by mistake o
 
 ### Seksyen baru 91A
 
-64. Ordinan dipinda dengan memasukkan selepas seksyen 91 seksyen yang berikut:
+64. Ordinan dipinda dengan memasukkan selepas
+
+<!-- marginal: seksyen 91 -->
+
+seksyen yang berikut:
 
 “Restriction
 
@@ -1756,9 +1996,7 @@ render her unfit for her work, it shall be an offence, until her absence exceeds
 
 seksyen yang berikut:
 
-94A. Every employer shall keep a register,
-
-<!-- marginal: in a -->
+94A. Every employer shall keep a register, in a
 
 <!-- marginal: form -->
 
@@ -1800,31 +2038,15 @@ seksyen yang berikut:
 
 Rang Undang-Undang
 
-(iii) dengan menggantikan perkataan "section 8(8) of
-
-<!-- marginal: the -->
-
-Immigration Ordinance" dengan perkataan "any provisions of any written law for the time being in force relating to immigration"; dan
+(iii) dengan menggantikan perkataan "section 8(8) of the Immigration Ordinance" dengan perkataan "any provisions of any written law for the time being in force relating to immigration"; dan
 
 (iv) dengan menggantikan perkataan "place of origin or to the place of engagement, if the latter be nearer to the place of employment and the laws of the place of engagement permit" dengan perkataan "country or State of origin";
 
-(c) dalam perenggan (4)(b), dengan menggantikan
+(c) dalam perenggan (4)(b), dengan menggantikan perkataan "agreement or contract" dengan perkataan "contract of service or the cancellation or expiry of the Licence To Employ Non-resident Employee";
 
-<!-- marginal: perkataan -->
+(d) dalam subseksyen (5), dengan memasukkan selepas perkataan "The employer shall" perkataan "not"; dan
 
-"agreement or contract" dengan perkataan "contract of service or the cancellation or expiry of the Licence To Employ Non-resident Employee";
-
-(d) dalam subseksyen (5), dengan memasukkan
-
-<!-- marginal: selepas -->
-
-perkataan "The employer shall" perkataan "not"; dan
-
-(e) dalam subseksyen (6), dengan memasukkan
-
-<!-- marginal: selepas -->
-
-perkataan "from the employer or employers" perkataan "from the security furnished to the Director or".
+(e) dalam subseksyen (6), dengan memasukkan selepas perkataan "from the employer or employers" perkataan "from the security furnished to the Director or".
 
 ### Pindaan seksyen 97
 
@@ -1832,21 +2054,13 @@ perkataan "from the employer or employers" perkataan "from the security furnishe
 
 (a) dengan menggantikan perkataan "worker" di mana-mana jua terdapat dengan perkataan "resident employee";
 
-(b) dengan menggantikan perenggan (a) dengan
-
-<!-- marginal: perenggan -->
-
-yang berikut:
+(b) dengan menggantikan perenggan (a) dengan perenggan yang berikut:
 
 "(a) when the Director is satisfied that the resident employee by a declaration before the Director has signified that he does not wish to exercise his right to repatriation;";
 
 (c) dengan memotong subperenggan (a)(ii);
 
-(d) dalam perenggan (c), dengan menggantikan
-
-<!-- marginal: perkataan -->
-
-"paragraph (c) of subsection (2) of section 121" dengan perkataan "Chapter XVIB"; dan
+(d) dalam perenggan (c), dengan menggantikan perkataan "paragraph (c) of subsection (2) of section 121" dengan perkataan "Chapter XVIB"; dan
 
 (e) dengan memotong perenggan (d).
 
@@ -1878,9 +2092,17 @@ yang berikut:
 
 <!-- marginal: "Liability -->
 
-of worker for advances" dengan perkataan "Limitation on advances to employees";
+of worker for advances" dengan perkataan
 
-(b) dengan menggantikan subseksyen (1) dengan subseksyen yang berikut:
+<!-- marginal: "Limitation -->
+
+on advances to employees";
+
+(b) dengan menggantikan subseksyen (1) dengan
+
+<!-- marginal: subseksyen -->
+
+yang berikut:
 
 "(1) No employer shall during any one month make to an employee an advance or advances of wages not already earned by such employee which exceeds in the aggregate the amount of wages which the employee earned in the preceding month from his employment
 
@@ -1910,11 +2132,7 @@ with such employer, or if he has not been so long in the employment of such empl
 
 (g) for such other purpose as the Minister may, from time to time, by notification in the Gazette, specify either generally i n respect of all employees, or only in respect of any particular employee, or any class, category or description of employees.";
 
-(c) dalam subseksyen (2), dengan menggantikan
-
-<!-- marginal: perkataan -->
-
-"any loan or advances or both" dengan perkataan "any advance";
+(c) dalam subseksyen (2), dengan menggantikan perkataan "any loan or advances or both" dengan perkataan "any advance";
 
 (d) dalam subseksyen (3)—
 
@@ -1922,21 +2140,27 @@ with such employer, or if he has not been so long in the employment of such empl
 
 <!-- page 57 -->
 
-(ii) dengan menggantikan perkataan "authorised by rule under
-
-## Chapter IX" dengan perkataan "may be approved by the
-
-Director"; dan
+(ii) dengan menggantikan perkataan "authorised by rule under Chapter IX" dengan perkataan "may be approved by the Director"; dan
 
 (e) dalam subseksyen (4), dengan menggantikan perkataan "prescribed" dengan perkataan "approved by the Director".
 
 ### Pindaan seksyen 103
 
-76. Ordinan dipinda dengan menggantikan seksyen 103 dengan seksyen yang berikut:
+76. Ordinan dipinda dengan menggantikan seksyen 103 dengan seksyen
 
-103. (1) Every employee shall be entitled to a paid holiday at his “Holidays. ordinary rate of pay on the following days in any one calendar year:
+<!-- marginal: yang berikut: -->
 
-(a) on fourteen gazetted public holidays as specified Cap. 56. under the Holidays Ordinance (Sabah), four of which shall be—
+103. (1) Every employee shall be entitled to a paid holiday at his
+
+<!-- marginal: “Holidays. -->
+
+ordinary rate of pay on the following days in any one calendar year:
+
+(a) on fourteen gazetted public holidays as specified
+
+<!-- marginal: Cap. 56. -->
+
+under the Holidays Ordinance (Sabah), four of which shall be—
 
 (i) the National Day; (ii) the Birthday of the Yang di-
 
@@ -1964,47 +2188,27 @@ Provided that by agreement between the employer and an employee any other day or
 
 And provided further that the employer may grant the employee any other day as a paid public holiday in substitution for any of the public holidays referred to in paragraph (b) of subsection (1).
 
-(3) Where any of the public holidays or any other day substituted therefor as provided in subsection
-
-<!-- marginal: (1) or(2) -->
-
-falls within the period during which an employee
-
-<!-- marginal: is on -->
-
-sick leave or annual leave to which the employee
+(3) Where any of the public holidays or any other day substituted therefor as provided in subsection (1) or(2) falls within the period during which an employee is on sick leave or annual leave to which the employee
 
 <!-- marginal: is -->
 
-entitled under this Ordinance, or falls during the period of temporary disablement under the Workmen’s Compensation Act Act 273. 1952, or under the Employees' Social Security Act 1969, the Act 4. employer shall grant another day as a paid holiday in substitution for such public holiday or the day substituted therefor.
+entitled under this Ordinance, or falls during the period of temporary disablement under the Workmen’s Compensation Act
 
-(4) Any employee who absents himself from work on the working day immediately preceding or
+<!-- marginal: Act 273. -->
 
-<!-- marginal: immediately -->
+1952, or under the Employees' Social Security Act 1969, the
 
-succeeding a public holiday or two or more consecutive public holidays or any day or days substituted
+<!-- marginal: Act 4. -->
 
-<!-- marginal: therefor -->
+employer shall grant another day as a paid holiday in substitution for such public holiday or the day substituted therefor.
 
-under this section without the prior consent of his employer, shall not be entitled to any holiday pay for such holiday or consecutive holidays unless he has a reasonable excuse for such absence.
+(4) Any employee who absents himself from work on the working day immediately preceding or immediately succeeding a public holiday or two or more consecutive public holidays or any day or days substituted therefor under this section without the prior consent of his employer, shall not be entitled to any holiday pay for such holiday or consecutive holidays unless he has a reasonable excuse for such absence.
 
-(5) An employee on a monthly rate of pay shall be deemed to have received his holiday pay if he receives from his employer his monthly wages, without abatement (other than as provided under subsection (4))
-
-<!-- marginal: in respect -->
-
-of the holiday, for the month in which the holiday falls.
+(5) An employee on a monthly rate of pay shall be deemed to have received his holiday pay if he receives from his employer his monthly wages, without abatement (other than as provided under subsection (4)) in respect of the holiday, for the month in which the holiday falls.
 
 <!-- page 59 -->
 
-(6) Notwithstanding subsections (1), (2) and
-
-<!-- marginal: (3), any -->
-
-employee may be required by his employer to work on any paid holiday to which he is entitled under
-
-<!-- marginal: those -->
-
-subsections, and in such event he shall, in addition to the holiday pay he is entitled to for that day—
+(6) Notwithstanding subsections (1), (2) and (3), any employee may be required by his employer to work on any paid holiday to which he is entitled under those subsections, and in such event he shall, in addition to the holiday pay he is entitled to for that day—
 
 (a) in the case of an employee employed on a monthly, weekly, daily, hourly, or other similar rate of pay, be paid two days' wages at the ordinary rate of pay; or
 
@@ -2014,17 +2218,11 @@ regardless that the period of work done on that day is less than the normal hour
 
 (7) For any overtime work carried out by an employee referred to in paragraph (a) of subsection (6) in excess of the normal hours of work on a paid public holiday, the employee shall be paid at a rate which is not less than three times his hourly rate of pay.
 
-(8) For any overtime work carried out by an employee referred to in paragraph (b) of subsection (6) in excess of the normal hours of work on any paid holiday, the employee shall be paid not less than three times
-
-<!-- marginal: the -->
-
-ordinary rate per piece.
+(8) For any overtime work carried out by an employee referred to in paragraph (b) of subsection (6) in excess of the normal hours of work on any paid holiday, the employee shall be paid not less than three times the ordinary rate per piece.
 
 (9) An employee who works on a holiday shall be entitled to a travelling allowance for that day if payable to him under the terms of his contract of service with his employer but such employee shall not be entitled under this subsection to receive an increased rate of any housing allowance or food allowance.
 
-(10) For the purposes of this section if any such holiday falls on a half working day, the ordinary rate of pay payable shall be that of a full working
-
-<!-- marginal: day." -->
+(10) For the purposes of this section if any such holiday falls on a half working day, the ordinary rate of pay payable shall be that of a full working day."
 
 <!-- page 60 -->
 
@@ -2034,7 +2232,13 @@ Rang Undang-Undang
 
 77. Ordinan dipinda dengan menggantikan seksyen 104 dengan seksyen yang berikut:
 
-104. (1) Except as provided in this section, an employee shall not be “Hours of work. required under his contract of service to work—
+104. (1) Except as provided in this section, an employee shall not be
+
+<!-- marginal: “Hours of -->
+
+<!-- marginal: work. -->
+
+required under his contract of service to work—
 
 (a) more than five consecutive hours without a period of leisure of not less than thirty minutes duration;
 
@@ -2056,11 +2260,7 @@ Provided that—
 
 or description of employees, as the case may be, to work in excess of the limit of hours prescribed under paragraphs (a), (b), (c) and (d) of subsection (1) but subject to such conditions, if any, as the Director may deem proper to impose, if he is satisfied that there are special circumstances pertaining to the business or undertaking of the employer which renders it necessary or expedient to grant such permission; and the Director may at any time revoke the approval given under this subsection if he has reason to believe that it is expedient to do so.
 
-(3) Any person who is dissatisfied with any decision of the Director under subsection (2) may, within
-
-<!-- marginal: thirty -->
-
-days of such decision being communicated to him, appeal in writing to the Minister.
+(3) Any person who is dissatisfied with any decision of the Director under subsection (2) may, within thirty days of such decision being communicated to him, appeal in writing to the Minister.
 
 (4) On an appeal made to him under subsection (3) the Minister may make such decision or order as appears just, and such decision or order shall be final.
 
@@ -2072,27 +2272,17 @@ exceed the limit of hours prescribed in subsection (1) and to work on a rest day
 
 (a) any accident, actual or threatened, in or with respect to his place of work;
 
-(b) any work, the performance of which
-
-<!-- marginal: is essential -->
-
-to the life of the community;
+(b) any work, the performance of which is essential to the life of the community;
 
 (c) work essential for the defence or security of Malaysia;
 
-(d) urgent work to be done to machinery or plant; (e) any interruption of work which was
-
-<!-- marginal: impossible -->
+(d) urgent work to be done to machinery or plant; (e) any interruption of work which was impossible
 
 <!-- marginal: to -->
 
 foresee; or
 
-(f) work to be performed by employees in any
-
-<!-- marginal: industrial -->
-
-undertaking essential to the economy of Malaysia or any essential service as defined in the Industrial Relations Act 1967:
+(f) work to be performed by employees in any industrial undertaking essential to the economy of Malaysia or any essential service as defined in the Industrial Relations Act 1967:
 
 Provided that the Director shall have the power to enquire into and decide whether or not the employer is justified in calling upon the employee to work in the circumstances specified
 
@@ -2112,23 +2302,11 @@ Provided that any work carried out on a rest day, or any of the gazetted public 
 
 And provided further that the Director may, on application made to him in writing by an employer or by an employee or a group of employees, permit any particular employee, or any group, class, category or description of employees in any particular industry, undertaking or establishment to work overtime in excess of the limit of hours so prescribed, subject to such conditions, if any, as he may deem proper to impose.
 
-(8) Any person who is dissatisfied with any decision of the Director made under subsection (7) may, within thirty days of such decision being communicated
+(8) Any person who is dissatisfied with any decision of the Director made under subsection (7) may, within thirty days of such decision being communicated to him, appeal in writing to the Minister.
 
-<!-- marginal: to him, -->
+(9) In deciding any appeal made to him under subsection (8), the Minister may make such decision or order as appears just and such decision or order shall be final.
 
-appeal in writing to the Minister.
-
-(9) In deciding any appeal made
-
-<!-- marginal: to him under -->
-
-subsection (8), the Minister may make such decision or order as appears just and such decision or order shall be final.
-
-(10) The Minister may make rules for the purpose of calculating the payment due for overtime
-
-<!-- marginal: to an employee -->
-
-employed on piece rates.
+(10) The Minister may make rules for the purpose of calculating the payment due for overtime to an employee employed on piece rates.
 
 <!-- page 63 -->
 
@@ -2148,7 +2326,13 @@ work for more than twelve hours in any one day.
 
 78. Ordinan dipinda dengan memasukkan selepas seksyen 104 seksyen yang berikut:
 
-104A. (1) Notwithstanding paragraphs (b),(c) and (d) of “Shift work. subsection (1) of section 104, but subject to paragraph (a) of subsection (1) of that section, an employee who is engaged under his contract of service in shift work may be required by his employer to work more than eight hours in any one day or more than forty-eight hours in any one week but the average number of hours worked over any period of three weeks, or over any period exceeding three weeks as may be approved by the Director, shall not exceed forty-eight hours per week.
+104A. (1) Notwithstanding paragraphs (b),(c) and (d) of
+
+<!-- marginal: “Shift -->
+
+<!-- marginal: work. -->
+
+subsection (1) of section 104, but subject to paragraph (a) of subsection (1) of that section, an employee who is engaged under his contract of service in shift work may be required by his employer to work more than eight hours in any one day or more than forty-eight hours in any one week but the average number of hours worked over any period of three weeks, or over any period exceeding three weeks as may be approved by the Director, shall not exceed forty-eight hours per week.
 
 (2) The approval of the Director in subsection (1) may be granted if the Director is satisfied that there are special circumstances pertaining to the business or undertaking of the employer which render it necessary or expedient for him to grant the permission subject to such conditions as he may deem fit to impose.
 
@@ -2162,7 +2346,11 @@ Rang Undang-Undang
 
 (c), (d) and (e) of subsection (5) of section 104, no employer shall require any employee who is engaged under his contract of service in shift work to work for more than twelve hours in any one day.
 
-104B. (1) Every employee shall be allowed in each week a rest day Rest day. of one whole day as may be determined from time to time by the employer, and where an employee is allowed more than one rest day in a week, the last of such rest days shall be the rest day for the purposes of this Chapter:
+104B. (1) Every employee shall be allowed in each week a rest day
+
+<!-- marginal: Rest day. -->
+
+of one whole day as may be determined from time to time by the employer, and where an employee is allowed more than one rest day in a week, the last of such rest days shall be the rest day for the purposes of this Chapter:
 
 Provided that this subsection shall not apply during the period in which the employee is on maternity leave as provided under section 83, or on sick leave as provided under section 104E, or during the period of temporary disablement under the Workmen's Compensation Act 1952, or under the Employees' Social Security Act 1969.
 
@@ -2176,7 +2364,15 @@ Provided that this subsection shall not apply during the period in which the emp
 
 (5) Every such roster and every particular recorded therein shall be preserved and shall be made available for inspection for a period not exceeding six years from the last day of the month in respect of which the roster was prepared or cause to be prepared.
 
-104c. (1) Except as provided in subsection (5) of section 104, Work on no employee shall be compelled to work on a rest day unless he is rest day. engaged in work which by reason of its nature requires to be carried on continuously or continually by two or more shifts:
+104c. (1) Except as provided in subsection (5) of section 104,
+
+<!-- marginal: Work on -->
+
+no employee shall be compelled to work on a rest day unless he is
+
+<!-- marginal: rest day. -->
+
+engaged in work which by reason of its nature requires to be carried on continuously or continually by two or more shifts:
 
 Provided that in the event of any dispute the Director shall have power to decide whether or not an employee is engaged in work, which by reason of its nature requires to be carried on continuously by two or more shifts.
 
@@ -2184,19 +2380,11 @@ Provided that in the event of any dispute the Director shall have power to decid
 
 (a) which does not exceed half his normal hours of work, one day's wages at the ordinary rate of pay; or
 
-(b) which is more than half but does not exceed his normal hours of work, two days' wages at
-
-<!-- marginal: the -->
-
-ordinary rate of pay.
+(b) which is more than half but does not exceed his normal hours of work, two days' wages at the ordinary rate of pay.
 
 (3) An employee employed on a monthly rate of pay who works on a rest day shall be paid for any period of work—
 
-(a) which does not exceed half his normal hours of work, wages equivalent to half the ordinary
-
-<!-- marginal: rate -->
-
-of pay for work done on that day; or
+(a) which does not exceed half his normal hours of work, wages equivalent to half the ordinary rate of pay for work done on that day; or
 
 (b) which is more than half but which does not exceed his normal hours of work, one day's wages at the ordinary rate of pay for work done on that day.
 
@@ -2208,15 +2396,15 @@ Rang Undang-Undang
 
 (5) An employee employed on piece rates who works on a rest day shall be paid twice his ordinary rate per piece.
 
-104D. (1) An employee shall be entitled to paid annual leave of- Annual leave.
+104D. (1) An employee shall be entitled to paid annual leave of-
+
+<!-- marginal: Annual -->
+
+<!-- marginal: leave. -->
 
 (a) eight days for every twelve months of continuous service with the same employer if he has been employed by that employer for a period of less than two years;
 
-(b) twelve days for every twelve months of continuous service with the same employer if he has been employed by that employer for a period of
-
-<!-- marginal: two -->
-
-years or more but less than five years; and
+(b) twelve days for every twelve months of continuous service with the same employer if he has been employed by that employer for a period of two years or more but less than five years; and
 
 (c) sixteen days for every twelve months of continuous service with the same employer if he has been employed by that employer for a period of five years or more,
 
@@ -2232,11 +2420,7 @@ And provided further that where an employee absents himself from work without th
 
 entitled under subsection (1) shall be in addition to rest days and paid holidays.
 
-(3) Where an employee who is on paid annual
-
-<!-- marginal: leave -->
-
-becomes entitled to sick leave or maternity leave while
+(3) Where an employee who is on paid annual leave becomes entitled to sick leave or maternity leave while
 
 <!-- page 67 -->
 
@@ -2246,11 +2430,7 @@ on such annual leave, the employee shall be granted the sick leave or maternity 
 
 Provided that an employee shall be entitled to payment in lieu of such annual leave if, at the request of his employer, he agrees in writing not to avail himself of any or all of his annual leave entitlement.
 
-(5) Notwithstanding subsection (4), upon the
-
-<!-- marginal: termination -->
-
-of an employee's contract of service, the employee shall be entitled to take before such termination takes place the paid annual leave due to be taken in the year in which the termination takes place in respect of the twelve months of service preceding the year in which the termination takes place, and, in addition, the leave accrued in respect of the completed months of service during the year
+(5) Notwithstanding subsection (4), upon the termination of an employee's contract of service, the employee shall be entitled to take before such termination takes place the paid annual leave due to be taken in the year in which the termination takes place in respect of the twelve months of service preceding the year in which the termination takes place, and, in addition, the leave accrued in respect of the completed months of service during the year
 
 <!-- marginal: in -->
 
@@ -2266,43 +2446,19 @@ Provided that this subsection shall not apply where an employee is dismissed und
 
 Rang Undang-Undang
 
-(8) Where an employee is granted leave of absence without pay by his employer during any period of
+(8) Where an employee is granted leave of absence without pay by his employer during any period of twelve months and the period of absence exceeds in the aggregate thirty days, that period of leave of absence shall be disregarded for the purpose of computing his length of service with the employer under this section.
 
-<!-- marginal: twelve -->
+(9) The Minister may, by notification in the Gazette, fix the periods when and prescribe the manner in which annual leave shall be granted to employees in different types of employment or in different classes of industries.
 
-months and the period of absence exceeds in the aggregate thirty days, that period of leave of absence shall be disregarded for the purpose of computing his
+104E. (1) An employee shall after examination at the expense of
 
-<!-- marginal: length of -->
+<!-- marginal: Sick leave. -->
 
-service with the employer under this section.
-
-(9) The Minister may, by notification in the Gazette, fix the periods when and prescribe the manner
-
-<!-- marginal: in which -->
-
-annual leave shall be granted to employees
-
-<!-- marginal: in -->
-
-different types of employment or in different classes of industries.
-
-104E. (1) An employee shall after examination at the expense of Sick leave. the employer—
+the employer—
 
 (a) by a registered medical practitioner duly appointed by the employer; or
 
-(b) if no such registered medical practitioner
-
-<!-- marginal: is -->
-
-appointed or, if having regard to the nature or circumstances of the illness, the services of
-
-<!-- marginal: the -->
-
-registered medical practitioner so appointed
-
-<!-- marginal: are -->
-
-not obtainable within a reasonable time or distance, by any other registered medical practitioner or by a medical officer,
+(b) if no such registered medical practitioner is appointed or, if having regard to the nature or circumstances of the illness, the services of the registered medical practitioner so appointed are not obtainable within a reasonable time or distance, by any other registered medical practitioner or by a medical officer,
 
 be entitled to paid sick leave— (aa) where no
 
@@ -2322,7 +2478,11 @@ Provided that the total number of days of paid sick leave in a calendar year whi
 
 And provided further that if an employee is certified by such registered medical practitioner or medical officer to be ill enough to need to be hospitalised but is not hospitalised for any reason, the employee shall be deemed to be hospitalised for the purposes of this section.
 
-(2) An employee shall also be entitled to paid sick leave under paragraphs (aa) and (bb) of subsection (1) after examination by a dental surgeon as defined in the Act 51. Dental Act 1971:
+(2) An employee shall also be entitled to paid sick leave under paragraphs (aa) and (bb) of subsection (1) after examination by a dental surgeon as defined in the
+
+<!-- marginal: Act 51. -->
+
+Dental Act 1971:
 
 Provided that the entitlement for such sick leave shall be inclusive of the number of days provided for under paragraphs (aa) and (bb) of subsection (1).
 
@@ -2330,15 +2490,7 @@ Provided that the entitlement for such sick leave shall be inclusive of the numb
 
 (a) which is not certified by a registered medical practitioner or a medical officer or a dental surgeon as provided under subsections (1) and (2); or
 
-(b) which is certified by such registered medical practitioner or medical officer or dental surgeon but without informing or attempting to
-
-<!-- marginal: inform his -->
-
-employer of such sick leave within
-
-<!-- marginal: forty-eight -->
-
-hours of the commencement thereof,
+(b) which is certified by such registered medical practitioner or medical officer or dental surgeon but without informing or attempting to inform his employer of such sick leave within forty-eight hours of the commencement thereof,
 
 shall be deemed to absent himself from work without the permission of his employer and without reasonable excuse for the days on which he is so absent from work.
 
@@ -2350,17 +2502,25 @@ Rang Undang-Undang
 
 have received his sick leave pay if he receives from his employer his monthly wages, without abatement in respect of the days on which he was on sick leave, for the month during which he was on such sick leave.
 
-(5) No employee shall be entitled to paid sick leave for the period during which the employee is entitled
+(5) No employee shall be entitled to paid sick leave for the period during which the employee is entitled to maternity allowance under section 83 or for any period during which he is receiving any compensation for temporary disablement under the Workmen's Compensation Act 1952, or any periodical payments for temporary disablement under the Employees' Social Security Act
 
-<!-- marginal: to maternity -->
+1969.
 
-allowance under section 83 or for any period during which he is receiving any compensation for temporary disablement under the Workmen's Compensation Act 1952, or any periodical payments for temporary disablement under the Employees' Social Security Act 1969.
+104F. (1) The Minister may by rules made under this
 
-104F. (1) The Minister may by rules made under
+<!-- marginal: Termination, -->
 
-<!-- marginal: this -->
+<!-- marginal: lay-off and -->
 
-Termination, lay-off and Ordinance provide for the entitlement of employees to, and for the retirement payment by employers of— benefits. (a) termination benefits;
+Ordinance provide for the entitlement of employees to, and for the
+
+<!-- marginal: retirement -->
+
+payment by employers of—
+
+<!-- marginal: benefits. -->
+
+(a) termination benefits;
 
 (b) lay-off benefits; or
 
@@ -2368,29 +2528,13 @@ Termination, lay-off and Ordinance provide for the entitlement of employees to, 
 
 (2) Without prejudice to the generality of subsection (1), rules made by virtue of subsection (1) may provide—
 
-(a) for the definition of the expressions "termination benefits", "lay-off benefits", or
+(a) for the definition of the expressions "termination benefits", "lay-off benefits", or "retirement benefits", as the case may be, and for the circumstances in which the same shall be payable;
 
-<!-- marginal: "retirement -->
-
-benefits", as the case may be, and for
-
-<!-- marginal: the -->
-
-circumstances in which the same shall be payable;
-
-(b) for the application thereof to employees who were in employment under a contract of service immediately before the commencement of
-
-<!-- marginal: such -->
-
-rules and who continue in such employment after such commencement;
+(b) for the application thereof to employees who were in employment under a contract of service immediately before the commencement of such rules and who continue in such employment after such commencement;
 
 (c) for the application thereof to all employees generally or to any particular class, category or description of employees;
 
-(d) for the exclusion from the application
-
-<!-- marginal: thereof of -->
-
-any particular employee or employees or any class, category or description of employees; and
+(d) for the exclusion from the application thereof of any particular employee or employees or any class, category or description of employees; and
 
 <!-- page 71 -->
 
@@ -2404,7 +2548,11 @@ any particular employee or employees or any class, category or description of em
 
 (b) dalam subseksyen (2)—
 
-(1) dengan menggantikan perkataan "worker" di mana- mana jua terdapat dengan perkataan "employee"; dan
+(1) dengan menggantikan perkataan "worker" di mana- mana jua terdapat dengan perkataan
+
+<!-- marginal: "employee"; -->
+
+dan
 
 (ii) dengan menggantikan perkataan "amount of work done and not by the day" dengan perkataan "task, that is, the specific amount of work to be performed, and not by the day or by the piece".
 
@@ -2428,7 +2576,35 @@ any particular employee or employees or any class, category or description of em
 
 Rang Undang-Undang
 
-107B. Wages shall not become payable to or recoverable by any Wages not employee from his employer for or on account of the term of any due for sentence of imprisonment undergone by him or for any period absence spent by him in custody or for or on account of any period spent from work by him in going to or returning from prison or other place of through custody or for or on account of any period spent by him in going imprisonme to, attending before or returning from a court otherwise than nt or as a witness on his employer's behalf."
+107B. Wages shall not become payable to or recoverable by any
+
+<!-- marginal: Wages not -->
+
+employee from his employer for or on account of the term of any
+
+<!-- marginal: due for -->
+
+sentence of imprisonment undergone by him or for any period
+
+<!-- marginal: absence -->
+
+spent by him in custody or for or on account of any period spent
+
+<!-- marginal: from work -->
+
+by him in going to or returning from prison or other place of
+
+<!-- marginal: through -->
+
+custody or for or on account of any period spent by him in going
+
+<!-- marginal: imprisonme -->
+
+to, attending before or returning from a court otherwise than
+
+<!-- marginal: nt or -->
+
+as a witness on his employer's behalf."
 
 ### Pindaan seksyen 108
 
@@ -2444,21 +2620,13 @@ Rang Undang-Undang
 
 (b) dalam subseksyen (2)-
 
-(i) dengan menggantikan noktah pada
-
-<!-- marginal: hujung -->
-
-subseksyen itu dengan noktah bertindih; dan
+(i) dengan menggantikan noktah pada hujung subseksyen itu dengan noktah bertindih; dan
 
 (ii) dengan memasukkan selepas subseksyen itu proviso yang berikut:
 
 "Provided that if the Director is satisfied that payment within such time is not reasonably practicable, he may, on the application of the employer, extend the time of payment by such number of days as he thinks fit.";
 
-(c) dalam subseksyen (3), dengan menggantikan
-
-<!-- marginal: perkataan -->
-
-"prescribed" dengan perkataan "gazetted";
+(c) dalam subseksyen (3), dengan menggantikan perkataan "prescribed" dengan perkataan "gazetted";
 
 (d) dalam subseksyen (4), dengan memotong perkataan
 
@@ -2524,35 +2692,19 @@ Rang Undang-Undang
 
 employer to the employee with the employee's written consent in any of the following ways:
 
-(a) payment into an account at a bank or a finance company licensed under the Banking and Financial Act 372. Institutions Act 1989 in any part of Sabah being an account in the name of the employee or an account in the name of the employee jointly with one or more other person, not being his employer;
+(a) payment into an account at a bank or a finance company licensed under the Banking and Financial
 
-(b) payment by cheque made payable to or
+<!-- marginal: Act 372. -->
 
-<!-- marginal: to -->
+Institutions Act 1989 in any part of Sabah being an account in the name of the employee or an account in the name of the employee jointly with one or more other person, not being his employer;
 
-<!-- marginal: the -->
+(b) payment by cheque made payable to or to the order of the employee.
 
-order of the employee.
-
-(2) The consent of the employee under this section may be withdrawn by him at any time by notice in writing given to the employer; and such notice shall
-
-<!-- marginal: take effect -->
-
-at but not before the end of the period of four weeks beginning with the day on which the notice is given.
+(2) The consent of the employee under this section may be withdrawn by him at any time by notice in writing given to the employer; and such notice shall take effect at but not before the end of the period of four weeks beginning with the day on which the notice is given.
 
 (3) The consent of the employee to the mode of payment of wages under subsection (1) shall not be unreasonably withheld or, if granted, shall not be unreasonably withdrawn by the employee notwithstanding subsection (2).
 
-(4) Any dispute as to whether an employee has unreasonably withheld or withdrawn his consent
-
-<!-- marginal: to -->
-
-<!-- marginal: the -->
-
-mode of payment of his wages under subsection (1) shall be referred to the Director whose decision on
-
-<!-- marginal: the matter -->
-
-shall be final."
+(4) Any dispute as to whether an employee has unreasonably withheld or withdrawn his consent to the mode of payment of his wages under subsection (1) shall be referred to the Director whose decision on the matter shall be final."
 
 ### Pemotongan seksyen 111
 
@@ -2566,11 +2718,7 @@ shall be final."
 
 <!-- page 75 -->
 
-(b) dengan menggantikan perkataan "in any agreement or contract for the employment of any worker any
-
-<!-- marginal: terms" -->
-
-dengan perkataan "any condition in any contract of service"; dan
+(b) dengan menggantikan perkataan "in any agreement or contract for the employment of any worker any terms" dengan perkataan "any condition in any contract of service"; dan
 
 (c) dengan menggantikan perkataan "every agreement
 
@@ -2584,11 +2732,7 @@ contract between an employer and a worker containing such terms shall be illegal
 
 (a) dalam nota birai, dengan menggantikan perkataan "Deductions and worker's right to recover wages" dengan perkataan "Lawful deductions";
 
-(b) dalam subseksyen (1), dengan memotong perkataan
-
-<!-- marginal: "or -->
-
-of any written law";
+(b) dalam subseksyen (1), dengan memotong perkataan "or of any written law";
 
 (c) dengan menggantikan subseksyen (2), (3) dan (4) dengan subseksyen yang berikut:
 
@@ -2612,73 +2756,21 @@ Rang Undang-Undang
 
 (3) The following deductions shall only be made at the request in writing of the employee:
 
-(a) deductions in respect of the payments
+(a) deductions in respect of the payments to a registered trade union or co-operative thrift and loan society of any sum of money due to the trade union or society by the employee on account of entrance fees, subscriptions, instalments and interest on loans or other dues; and
 
-<!-- marginal: to a -->
-
-registered trade union or co-operative
-
-<!-- marginal: thrift and -->
-
-loan society of any sum of money due to the trade union or society by the employee on account of entrance fees, subscriptions, instalments and interest on loans or other dues; and
-
-(b) deductions in respect of the payments for any shares of the employer's business offered
-
-<!-- marginal: for -->
-
-sale by the employer and purchased by
-
-<!-- marginal: the -->
-
-employee.
+(b) deductions in respect of the payments for any shares of the employer's business offered for sale by the employer and purchased by the employee.
 
 (4) The following deductions shall not be made except at the request in writing of the employee and with the prior permission in writing of the Director:
 
-(a) deductions in respect of payments
+(a) deductions in respect of payments into any superannuation scheme, provident fund, employer's welfare scheme or insurance scheme established for the benefit of the employee;
 
-<!-- marginal: into any -->
+(b) deductions in respect of repayments of advances of wages made to an employee under section 102 where interest is levied on the advances and deductions in respect of the payments of the interest so levied;
 
-superannuation scheme, provident
+(c) deductions in respect of payments to a third party on behalf of the employee;
 
-<!-- marginal: fund, -->
+(d) deductions in respect of payments for the purchase by the employee of any goods of the employer's business offered for sale by the employer; and
 
-employer's welfare scheme or insurance
-
-<!-- marginal: scheme -->
-
-established for the benefit of the employee;
-
-(b) deductions in respect of repayments of advances of wages made to an employee under section 102 where interest is levied on
-
-<!-- marginal: the advances -->
-
-and deductions in respect of the payments of the interest so levied;
-
-(c) deductions in respect of payments
-
-<!-- marginal: to a -->
-
-<!-- marginal: third -->
-
-party on behalf of the employee;
-
-(d) deductions in respect of payments for
-
-<!-- marginal: the purchase -->
-
-by the employee of any goods of the employer's business offered for sale by the employer; and
-
-(e) deductions in respect of the rental for accommodation and the cost of services,
-
-<!-- marginal: food -->
-
-and meals provided by the employer
-
-<!-- marginal: to -->
-
-<!-- marginal: the -->
-
-employee at the employee's request or under the terms of the employee's contract of service."; dan
+(e) deductions in respect of the rental for accommodation and the cost of services, food and meals provided by the employer to the employee at the employee's request or under the terms of the employee's contract of service."; dan
 
 (d) dengan memasukkan selepas subseksyen (4) subseksyen yang berikut:
 
@@ -2688,11 +2780,7 @@ employee at the employee's request or under the terms of the employee's contract
 
 (6) Where an employee obtains foodstuffs, provisions or other goods on credit from a shop the business of which is carried on by a co-operative society registered Act502. under the Co-operative Societies Act 1993, it shall be lawful for his employer, at the request in writing of the employee and with the agreement of the manager of the co-operative shop to make deductions from the wages of the employee of an amount not exceeding the amount of the credit and to pay the amount so deducted to the manager in satisfaction of the employee's debt.
 
-(7) Notwithstanding subsections (2), (3), (4) and
-
-<!-- marginal: (6) -->
-
-the Director, on an application by an employer or a specified class or classes of employers, may permit any deduction for a specified purpose from the wages of an employee or a specified class or classes of employees subject
+(7) Notwithstanding subsections (2), (3), (4) and (6) the Director, on an application by an employer or a specified class or classes of employers, may permit any deduction for a specified purpose from the wages of an employee or a specified class or classes of employees subject
 
 <!-- marginal: to -->
 
@@ -2704,17 +2792,9 @@ such conditions as he may deem fit to impose.
 
 (a) deductions from the indemnity payable by an employer to an employee under subsection (1) of section 12;
 
-(b) deductions from the final payment of the wages of an employee for any amount due to the employer and remaining unpaid by the employee on
+(b) deductions from the final payment of the wages of an employee for any amount due to the employer and remaining unpaid by the employee on the termination of the employee's contract of service; and
 
-<!-- marginal: the -->
-
-termination of the employee's contract of service; and
-
-(c) deductions for the repayment of a housing
-
-<!-- marginal: loan -->
-
-which, subject to the prior permission in writing of the Director, may exceed the fifty per centum limit by an additional amount of not more than twenty-five per centum of the wages earned."
+(c) deductions for the repayment of a housing loan which, subject to the prior permission in writing of the Director, may exceed the fifty per centum limit by an additional amount of not more than twenty-five per centum of the wages earned."
 
 <!-- page 78 -->
 
@@ -2750,11 +2830,7 @@ perkataan "this Ordinance" perkataan "or any rules made hereunder,".
 
 <!-- page 79 -->
 
-(3) Any person who is dissatisfied with any decision of the Director under subsection (2) may, within
-
-<!-- marginal: thirty -->
-
-days of such decision being communicated to him, appeal in writing to the Minister.
+(3) Any person who is dissatisfied with any decision of the Director under subsection (2) may, within thirty days of such decision being communicated to him, appeal in writing to the Minister.
 
 (4) On any appeal made to him under subsection (3), the Minister may make such decision or order as appears just, and such decision or order shall be final."
 
@@ -2762,7 +2838,17 @@ days of such decision being communicated to him, appeal in writing to the Minist
 
 93. Ordinan dipinda dengan memasukkan selepas seksyen 116 seksyen yang berikut:
 
-116A. (1) Where by order of a court made upon the application of any “Priority of wages over person holding a mortgage, charge, lien or decree (in this section other debts. referred to as "the secured creditor") or in the exercise of rights under a debenture the property of any person (in this section referred to as "the person liable") liable under any of the provisions of this Ordinance to pay the wages due to any employee or to pay money due to any subcontractor for labour is sold, or any money due to the person liable is attached or garnished, the Court or the receiver or manager shall not authorize payment of the proceeds of the sale, or of the money so attached or garnished, to the secured creditor or the debenture holder until the Court or the receiver or manager has ascertained and caused to be paid, out of such proceeds or money, the wages of such employee, or the money due to any subcontractor for labour under a contract between him and the person liable, which the person liable was liable to pay at the date of such sale, attachment or garnishment:
+116A. (1) Where by order of a court made upon the application of any
+
+<!-- marginal: “Priority of -->
+
+<!-- marginal: wages over -->
+
+person holding a mortgage, charge, lien or decree (in this section
+
+<!-- marginal: other debts. -->
+
+referred to as "the secured creditor") or in the exercise of rights under a debenture the property of any person (in this section referred to as "the person liable") liable under any of the provisions of this Ordinance to pay the wages due to any employee or to pay money due to any subcontractor for labour is sold, or any money due to the person liable is attached or garnished, the Court or the receiver or manager shall not authorize payment of the proceeds of the sale, or of the money so attached or garnished, to the secured creditor or the debenture holder until the Court or the receiver or manager has ascertained and caused to be paid, out of such proceeds or money, the wages of such employee, or the money due to any subcontractor for labour under a contract between him and the person liable, which the person liable was liable to pay at the date of such sale, attachment or garnishment:
 
 Provided that this section shall only apply to the sale of a place of employment on which—
 
@@ -2774,11 +2860,7 @@ Provided that this section shall only apply to the sale of a place of employment
 
 <!-- marginal: is -->
 
-owed on account of the subcontract by
-
-<!-- marginal: the -->
-
-subcontractor for labour as aforesaid,
+owed on account of the subcontract by the subcontractor for labour as aforesaid,
 
 <!-- page 80 -->
 
@@ -2792,43 +2874,55 @@ Provided further that—
 
 (b) where the person liable is a principal and where the wages are claimed from such principal under section 116c, the total amount of the wages of any employee to which priority over the claim of a secured creditor is given by this section shall not exceed the amount due by the principal to the contractor at the date of the sale, attachment or garnishment unless the contractor is also a subcontractor for labour;
 
-(c) where the person liable is a contractor or subcontractor who owes money to a subcontractor for labour, the total amount due to such subcontractor for labour to which priority over the claim of a secured creditor is given by this section shall not exceed the amount due by such subcontractor for labour to his employees (including any further subcontractors for labour under such first-mentioned subcontractor
+(c) where the person liable is a contractor or subcontractor who owes money to a subcontractor for labour, the total amount due to such subcontractor for labour to which priority over the claim of a secured creditor is given by this section shall not exceed the amount due by such subcontractor for labour to his employees (including any further subcontractors for labour under such first-mentioned subcontractor for labour) for any four consecutive months' work.
 
-<!-- marginal: for -->
+(2) In this section, except for the second proviso to subsection
 
-labour) for any four consecutive months' work.
-
-(2) In this section, except for the second proviso to subsection (1), "wages" includes termination and lay-off benefits, annual leave pay, sick leave pay, public holiday pay and maternity allowance.
+(1), "wages" includes termination and lay-off benefits, annual leave pay, sick leave pay, public holiday pay and maternity allowance.
 
 <!-- page 81 -->
 
-Reference
+<!-- marginal: Reference -->
 
-116B. (1) For the purposes of ascertaining the amount due to any by the employee or subcontractor for labour under section 116A, the court Court to Director. or the receiver or manager may refer the question to the Director with a request that he hold an inquiry into the matter and forward his findings to the court or the receiver or manager, and the Director shall comply with any such request.
+116B. (1) For the purposes of ascertaining the amount due to any
+
+<!-- marginal: by the -->
+
+employee or subcontractor for labour under section 116A, the court
+
+<!-- marginal: Court to -->
+
+<!-- marginal: Director. -->
+
+or the receiver or manager may refer the question to the Director with a request that he hold an inquiry into the matter and forward his findings to the court or the receiver or manager, and the Director shall comply with any such request.
 
 (2) For the purpose of any inquiry under subsection (1), the Director shall have all the powers conferred upon him by paragraph
 
 (f) of section 7F and section 7o shall have effect as if the inquiry were being held under section 7A.
 
-Liability of 116c. (1) Where a principal in the course of or for the purposes of principals his trade or business, contracts with a contractor for the execution by or and under the contractor of the whole or any part of any work contractors for wages. undertaken by the principal, and any wages are due to any employee by the contractor or any subcontractor under the contractor for work done in the course of the performance of the contract, the principal and the contractor and any such subcontractor (not being the employer) shall be jointly and severally liable with the employer to pay such wages as if that employee had been immediately employed by the principal and by the contractor and any such subcontractor:
+<!-- marginal: Liability of -->
+
+116c. (1) Where a principal in the course of or for the purposes of
+
+<!-- marginal: principals -->
+
+his trade or business, contracts with a contractor for the execution by or
+
+<!-- marginal: and -->
+
+under the contractor of the whole or any part of any work
+
+<!-- marginal: contractors -->
+
+<!-- marginal: for wages. -->
+
+undertaken by the principal, and any wages are due to any employee by the contractor or any subcontractor under the contractor for work done in the course of the performance of the contract, the principal and the contractor and any such subcontractor (not being the employer) shall be jointly and severally liable with the employer to pay such wages as if that employee had been immediately employed by the principal and by the contractor and any such subcontractor:
 
 Provided that—
 
 (a) in the case of a contract for constructional work, the principal shall not be liable for the payment of wages under this subsection unless he is also a constructional contractor or a housing developer;
 
-(b) the principal, and the contractor and any subcontractor (not being the employer),
-
-<!-- marginal: shall -->
-
-not be liable to any employee under
-
-<!-- marginal: this -->
-
-subsection for more than the wages due
-
-<!-- marginal: to him -->
-
-for any three consecutive months; and
+(b) the principal, and the contractor and any subcontractor (not being the employer), shall not be liable to any employee under this subsection for more than the wages due to him for any three consecutive months; and
 
 (c) the employee shall have instituted proceedings against the principal for the recovery of his wages or made a complaint to the Director under Chapter IIA within ninety days from the date on which such wages became due for payment by
 
@@ -2864,23 +2958,93 @@ resident employee".
 
 97. Ordinan dipinda dengan memasukkan selepas seksyen 118 seksyen yang berikut:
 
-“Duty to
+<!-- marginal: “Duty to -->
 
 ### 118A.
 
-(1) An employer who employs a non-resident furnish employee shall, within fourteen days of the employment, furnish the information nearest office of the Director with the particulars of the non-resident and returns employee in such manner as may be determined by the Director.
+(1) An employer who employs a non-resident
+
+<!-- marginal: furnish -->
+
+employee shall, within fourteen days of the employment, furnish the information nearest office of the Director with the particulars of the non-resident and returns employee in such manner as may be determined by the Director.
 
 (2) An employer or any specified class or classes of employers, whenever required to do so by the Director, shall furnish returns of particulars relating to the employment of a non-resident employee in such manner and at such intervals as the Director may direct.
 
-118B. The Director may inquire into any complaint from a Director resident employee that he is being discriminated against in may inquire into relation to a non-resident employee, or from a nonresident employee complaint. that he is being discriminated against in relation to a resident employee, by his employer in respect of the terms and conditions of his employment; and the Director may issue to the employer such directives as may be necessary or expedient to resolve the matter.
+118B. The Director may inquire into any complaint from a
 
-Prohibition 118c. No employer shall terminate the contract of service of a on resident employee for the purpose of employing a non-resident termination employee. of resident employee for non- resident employee.
+<!-- marginal: Director -->
 
-118D. Where an employer is required to reduce his workforce by Termination of reason of redundancy necessitating the retrenchment of any employmen number of employees, the employer shall not terminate the services of t by reason of a resident employee unless he has first terminated the services of all redundancy. nonresident employees employed by him in a capacity similar to that of the resident employee.
+resident employee that he is being discriminated against in
 
-Permanent
+<!-- marginal: may inquire -->
 
-118E. For the purposes of this Chapter, the term "non- resident resident employee" shall not include a non-resident employee who exemted from this is a permanent resident of Sabah." Chapter.
+<!-- marginal: into -->
+
+relation to a non-resident employee, or from a nonresident employee
+
+<!-- marginal: complaint. -->
+
+that he is being discriminated against in relation to a resident employee, by his employer in respect of the terms and conditions of his employment; and the Director may issue to the employer such directives as may be necessary or expedient to resolve the matter.
+
+<!-- marginal: Prohibition -->
+
+118c. No employer shall terminate the contract of service of a
+
+<!-- marginal: on -->
+
+resident employee for the purpose of employing a non-resident
+
+<!-- marginal: termination -->
+
+employee.
+
+<!-- marginal: of resident -->
+
+<!-- marginal: employee -->
+
+<!-- marginal: for non- -->
+
+<!-- marginal: resident -->
+
+<!-- marginal: employee. -->
+
+118D. Where an employer is required to reduce his workforce by
+
+<!-- marginal: Termination -->
+
+<!-- marginal: of -->
+
+reason of redundancy necessitating the retrenchment of any
+
+<!-- marginal: employmen -->
+
+number of employees, the employer shall not terminate the services of
+
+<!-- marginal: t by reason -->
+
+<!-- marginal: of -->
+
+a resident employee unless he has first terminated the services of all
+
+<!-- marginal: redundancy. -->
+
+nonresident employees employed by him in a capacity similar to that of the resident employee.
+
+<!-- marginal: Permanent -->
+
+118E. For the purposes of this Chapter, the term "non- resident
+
+<!-- marginal: resident -->
+
+employee" shall not include a non-resident employee who
+
+<!-- marginal: exemted -->
+
+<!-- marginal: from this -->
+
+is a permanent resident of Sabah."
+
+<!-- marginal: Chapter. -->
 
 <!-- page 84 -->
 
@@ -2888,7 +3052,9 @@ Rang Undang-Undang
 
 ### Pemotongan seksyen 119 hingga 121
 
-98. Ordinan dipinda dengan memotong seksyen 119, 120 dan 121.
+98. Ordinan dipinda dengan memotong seksyen 119, 120 dan
+
+121.
 
 ### Pindaan tajuk Bahagian V
 
@@ -2918,11 +3084,7 @@ perkataan
 
 ### Seksyen baru 123A, 123B dan 123c
 
-102. Ordinan dipinda dengan memasukkan selepas
-
-<!-- marginal: seksyen 123 -->
-
-seksyen yang berikut:
+102. Ordinan dipinda dengan memasukkan selepas seksyen 123 seksyen yang berikut:
 
 123A. NO prosecution shall be instituted for an offence under this “Prosecutio Ordinance or any rules made under this Ordinance without the consent in writing of the Public Prosecutor.
 
@@ -3076,23 +3238,11 @@ Pemotongan seksyen 130
 
 Rang Undang-Undang
 
-(b) assaults, obstructs, hinders or delays
-
-<!-- marginal: the Director -->
-
-in effecting any entrance into any premises or any part thereof which he is entitled to effect;
+(b) assaults, obstructs, hinders or delays the Director in effecting any entrance into any premises or any part thereof which he is entitled to effect;
 
 (c) furnishes the Director as true, information which he knows or has reason to believe to be false; or
 
-(d) fails to produce, or conceals or attempts
-
-<!-- marginal: to conceal -->
-
-any document which he may be required
-
-<!-- marginal: to produce -->
-
-under this Ordinance or hinders or obstructs
+(d) fails to produce, or conceals or attempts to conceal any document which he may be required to produce under this Ordinance or hinders or obstructs
 
 <!-- marginal: the -->
 
@@ -3100,9 +3250,31 @@ Director in effecting possession of the documents,
 
 commits an offence and shall be liable to a fine of ten thousand ringgit and in the case of a continuing offence, to a fine of one hundred ringgit for every day during which such offence is continued after conviction.
 
-130B. In any inquiry, investigation, entry or inspection made by the Offence in connection Director, or by any officer lawfully exercising the powers of the Director with inquiry under this Ordinance, any person committing with respect to or such inquiry, investigation, entry or inspection any offence inspection. described in Chapter X of the Penal Code shall on conviction be punished as prescribed in such Chapter.
+130B. In any inquiry, investigation, entry or inspection made by the
 
-Under 130c. If— Chapter
+<!-- marginal: Offence in -->
+
+<!-- marginal: connection -->
+
+Director, or by any officer lawfully exercising the powers of the Director
+
+<!-- marginal: with inquiry -->
+
+under this Ordinance, any person committing with respect to
+
+<!-- marginal: or -->
+
+such inquiry, investigation, entry or inspection any offence
+
+<!-- marginal: inspection. -->
+
+described in Chapter X of the Penal Code shall on conviction be punished as prescribed in such Chapter.
+
+<!-- marginal: Under -->
+
+130c. If—
+
+<!-- marginal: Chapter -->
 
 11A.
 
@@ -3116,7 +3288,9 @@ he commits an offence and shall be liable on conviction, to a fine not exceeding
 
 Ordinan Buruh Sabah (Pindaan) 130D. Every 130D.
 
-Every employer who- Under
+Every employer who-
+
+<!-- marginal: Under -->
 
 ## Chapter IV
 
@@ -3124,17 +3298,15 @@ Every employer who- Under
 
 <!-- marginal: the -->
 
-provisions of section 10 or contravenes
-
-<!-- marginal: the -->
-
-provisions of section 13; or
+provisions of section 10 or contravenes the provisions of section 13; or
 
 (b) fails to comply with the provisions of Chapter IV (other than sections 10 and 13);
 
 commits an offence, and shall be liable on conviction to a fine not exceeding ten thousand ringgit.'
 
-130E. An employer who— Under
+130E. An employer who—
+
+<!-- marginal: Under -->
 
 ## Chapter X
 
@@ -3146,25 +3318,21 @@ requirements of that section;
 
 (b) fails to keep a register required under section 58 or 94A, or to preserve the register for a period of not less than six years;
 
-(c) destroys, alters or mutilates the register
-
-<!-- marginal: referred -->
-
-to in paragraph (a), or causes or permits the register to be destroyed, altered or mutilated;
+(c) destroys, alters or mutilates the register referred to in paragraph (a), or causes or permits the register to be destroyed, altered or mutilated;
 
 (d) fails to comply with any rules made under section 58A;
 
-(e) fails, without reasonable cause (proof of which shall lie on him), to forward to the Director such returns as are prescribed under section 59 or forwards any of the returns knowing that
-
-<!-- marginal: it contains -->
-
-any false particulars; or
+(e) fails, without reasonable cause (proof of which shall lie on him), to forward to the Director such returns as are prescribed under section 59 or forwards any of the returns knowing that it contains any false particulars; or
 
 (f) fails to give notice under section 59A or gives such notice containing any false particulars,
 
 commits an offence and shall be liable on conviction to a fine not exceeding ten thousand ringgit.
 
-130F. (1) Any person contravening any of the provisions of chapter XI Under or of any rule or order made thereunder or who being the parent or
+130F. (1) Any person contravening any of the provisions of chapter XI
+
+<!-- marginal: Under -->
+
+or of any rule or order made thereunder or who being the parent or
 
 ## Chapter XI
 
@@ -3178,27 +3346,33 @@ in respect of such child or young person, commits an offence and shall be liable
 
 (2) On the conviction of any person for an offence under subsection (1) the Director shall, if the person convicted is the holder of a licence under any written law in force on entertainment, inform the licensing authority concerned of the particulars of such conviction and the licensing authority may take such action as it considers appropriate.
 
-130G. An employer of a female employee commits an Under offence if the female employee is employed contrary to sections 75, Chapter XIA 78 or 78A and shall be liable on conviction to a fine not exceeding ten thousand ringgit.
+130G. An employer of a female employee commits an
 
-130H. Any employer who— Under Chapter
+<!-- marginal: Under -->
 
-(a) fails to grant maternity leave to a female employee XIB employed by him and entitled thereto under Chapter XIB;
+offence if the female employee is employed contrary to sections 75,
 
-(b) fails to pay the maternity allowance
+<!-- marginal: Chapter -->
 
-<!-- marginal: to a female -->
+<!-- marginal: XIA -->
 
-employee employed by him and entitled
+78 or 78A and shall be liable on conviction to a fine not exceeding ten thousand ringgit.
 
-<!-- marginal: thereto -->
+130H. Any employer who—
 
-under Chapter XIB or to her nominee, or to her personal legal representative;
+<!-- marginal: Under -->
 
-(c) fails to pay maternity allowance in
+<!-- marginal: Chapter -->
 
-<!-- marginal: the manner -->
+(a) fails to grant maternity leave to a female employee
 
-prescribed in section 85;
+<!-- marginal: XIB -->
+
+employed by him and entitled thereto under Chapter XIB;
+
+(b) fails to pay the maternity allowance to a female employee employed by him and entitled thereto under Chapter XIB or to her nominee, or to her personal legal representative;
+
+(c) fails to pay maternity allowance in the manner prescribed in section 85;
 
 (d) dismisses a female employee from her employment during the period in which she is entitled to maternity leave; or
 
@@ -3220,35 +3394,37 @@ respect of every day on which the female employee had worked during the eligible
 
 (b), be ordered by the court before which he is convicted to pay to the female employee concerned the maternity allowance to which she is entitled, and the amount of maternity allowance so ordered by the court to be paid shall be recoverable as if it were a fine imposed by such court.
 
-Under 130i. Any employer who contravenes or fails to comply with the Chapter provisions of sections 96 and 98 shall be liable on conviction to a XII fine not exceeding ten thousand ringgit.
+<!-- marginal: Under -->
 
-Under 130j. Any employer who— Chapter XIV
+130i. Any employer who contravenes or fails to comply with the
+
+<!-- marginal: Chapter -->
+
+provisions of sections 96 and 98 shall be liable on conviction to a
+
+<!-- marginal: XII -->
+
+fine not exceeding ten thousand ringgit.
+
+<!-- marginal: Under -->
+
+130j. Any employer who—
+
+<!-- marginal: Chapter -->
+
+<!-- marginal: XIV -->
 
 (a) makes to any employee any advance of wages in excess of that permitted under section 102;
 
 (b) contravenes any of the provisions of section 104B;
 
-(c) fails to pay the wages or indemnity due to any employee within the time prescribed
-
-<!-- marginal: in section -->
-
-108;
+(c) fails to pay the wages or indemnity due to any employee within the time prescribed in section 108;
 
 (d) pays wages, imposes any condition in a contract of service or makes any deduction or receives any payment in contravention of section 109,110,1 10A, 112 or 114;
 
 (e) makes deductions from the wages of an employee other than such deductions as are authorized by section 113;
 
-(f) gives any remuneration for services or
-
-<!-- marginal: receives -->
-
-any payment from an employer contrary
-
-<!-- marginal: to -->
-
-<!-- marginal: the -->
-
-provisions of this Ordinance;
+(f) gives any remuneration for services or receives any payment from an employer contrary to the provisions of this Ordinance;
 
 (g) fails to comply with any order of the Director;
 
@@ -3262,15 +3438,45 @@ Rang Undang-Undang
 
 commits an offence and shall be liable on conviction to a fine not exceeding ten thousand ringgit.
 
-130K. (1) Any employer who fails to pay to any of his employees wages for work done by his employee on a rest day or pays wages Penalties for failure less than the rate provided under section 104c, commits an offence, or non- and shall also, on conviction, be ordered by the court before which compliance in relation he is convicted to pay to the employee concerned the wages due to rest for work done on every rest day at the rate provided under section days, overtime, 104c, and the amount of such wages shall be recoverable as if it holidays, were a fine imposed by such court. annual leave and sick leave. (2) Any employer who fails to pay to any of his employees any overtime wages as provided under
+130K. (1) Any employer who fails to pay to any of his employees wages for work done by his employee on a rest day or pays wages
 
-<!-- marginal: this -->
+<!-- marginal: Penalties -->
 
-Ordinance or any subsidiary legislation made
+<!-- marginal: for failure -->
 
-<!-- marginal: thereunder -->
+less than the rate provided under section 104c, commits an offence,
 
-commits an offence, and shall also, on conviction, be ordered by the court before which he is convicted to pay to the employee concerned the overtime wages due, and the amount of overtime wages so ordered by the court to be paid shall be recoverable as if it were a fine imposed by such court.
+<!-- marginal: or non- -->
+
+and shall also, on conviction, be ordered by the court before which
+
+<!-- marginal: compliance -->
+
+<!-- marginal: in relation -->
+
+he is convicted to pay to the employee concerned the wages due
+
+<!-- marginal: to rest -->
+
+for work done on every rest day at the rate provided under section
+
+<!-- marginal: days, -->
+
+<!-- marginal: overtime, -->
+
+104c, and the amount of such wages shall be recoverable as if it
+
+<!-- marginal: holidays, -->
+
+were a fine imposed by such court.
+
+<!-- marginal: annual -->
+
+<!-- marginal: leave and -->
+
+<!-- marginal: sick leave. -->
+
+(2) Any employer who fails to pay to any of his employees any overtime wages as provided under this Ordinance or any subsidiary legislation made thereunder commits an offence, and shall also, on conviction, be ordered by the court before which he is convicted to pay to the employee concerned the overtime wages due, and the amount of overtime wages so ordered by the court to be paid shall be recoverable as if it were a fine imposed by such court.
 
 (3) Any employer who fails to pay to any of his employees wages as provided under section 103, commits an offence, and shall also, on conviction, be ordered by the court before which he is convicted to pay to the employee concerned the wages due for any work done on any such holiday at the rate provided under section 103, and the amount of wages so ordered by the court to be paid shall be recoverable as if it were a fine imposed by such court.
 
@@ -3288,9 +3494,27 @@ on conviction, be ordered by the court before which he is convicted to pay to th
 
 To Employ Non-Resident Employee or any person in possession of a forged, altered or tampered Licence To Employ Non-Resident Employee, commits an offence and shall be liable on conviction to a fine not exceeding ten thousand ringgit or to imprisonment for six months or to both.
 
-130M. Any person who commits any offence under this Ordinance General or or any rule, order or other subsidiary legislation made penalty. thereunder, in respect of which no penalty is provided, shall be liable, on conviction, to a fine not exceeding ten thousand ringgit.
+130M. Any person who commits any offence under this Ordinance
 
-130N. (1) The Director, Deputy Directors of Labour or Senior Power to Assistant Directors of Labour appointed under paragraph (a) or (b) of compound offences. subsection (1A) of section 3 may, compound any offence committed by a person which is punishable under this Ordinance or any rule made under this Ordinance.
+<!-- marginal: General -->
+
+or or any rule, order or other subsidiary legislation made
+
+<!-- marginal: penalty. -->
+
+thereunder, in respect of which no penalty is provided, shall be liable, on conviction, to a fine not exceeding ten thousand ringgit.
+
+130N. (1) The Director, Deputy Directors of Labour or Senior
+
+<!-- marginal: Power to -->
+
+Assistant Directors of Labour appointed under paragraph (a) or (b) of
+
+<!-- marginal: compound -->
+
+<!-- marginal: offences. -->
+
+subsection (1A) of section 3 may, compound any offence committed by a person which is punishable under this Ordinance or any rule made under this Ordinance.
 
 (2) The Director, a Deputy Director of Labour or a Senior Assistant Director of Labour may, in a case where he deems it fit and proper so to do, compound an offence
 
@@ -3304,11 +3528,7 @@ by making a written offer to the person who has committed the offence to compoun
 
 <!-- marginal: the -->
 
-amount specified in the offer is not paid within the time specified in the offer, or within such extended period as the Director, Deputy Director of Labour or Senior Assistant Director of Labour may grant, prosecution for
-
-<!-- marginal: the offence -->
-
-may be instituted at any time thereafter against the person to whom the offer was made.
+amount specified in the offer is not paid within the time specified in the offer, or within such extended period as the Director, Deputy Director of Labour or Senior Assistant Director of Labour may grant, prosecution for the offence may be instituted at any time thereafter against the person to whom the offer was made.
 
 (4) Where an offence has been compounded under subsection (2) —
 
@@ -3316,11 +3536,7 @@ may be instituted at any time thereafter against the person to whom the offer wa
 
 <!-- marginal: in -->
 
-respect of the offence against the person
-
-<!-- marginal: to whom -->
-
-the offer to compound was made; and
+respect of the offence against the person to whom the offer to compound was made; and
 
 (b) any book, register or document seized in connection with the offence shall be released immediately.
 
@@ -3330,11 +3546,15 @@ CHAPTER XVIB Rules
 
 ### 130o.
 
-(1) The Minister may from time to
+(1) The Minister may from time to time, after
 
-<!-- marginal: time, after -->
+<!-- marginal: Power to -->
 
-Power to consultation with the State Authority, make such rules as may be make rules. necessary or expedient for giving full effect to the provisions of this Ordinance, or for the further, better or more convenient implementation of the provisions of this Ordinance.
+consultation with the State Authority, make such rules as may be
+
+<!-- marginal: make rules. -->
+
+necessary or expedient for giving full effect to the provisions of this Ordinance, or for the further, better or more convenient implementation of the provisions of this Ordinance.
 
 <!-- page 95 -->
 
@@ -3342,41 +3562,17 @@ Power to consultation with the State Authority, make such rules as may be make r
 
 (a) limiting the powers of officers appointed under subsection (1A) of section 3;
 
-(b) prescribing the conditions under which
+(b) prescribing the conditions under which female employees may work at night;
 
-<!-- marginal: female -->
+(c) prescribing the rate of the maternity allowance to which female employees shall be entitled during the eligible period;
 
-employees may work at night;
-
-(c) prescribing the rate of the maternity allowance
-
-<!-- marginal: to -->
-
-which female employees shall be entitled during the eligible period;
-
-(d) prescribing the maximum period during which notice of dismissal given by her employer
-
-<!-- marginal: to a -->
-
-female employee who is absent from her work as a result of illness certified by a registered medical practitioner to arise out of her pregnancy or confinement shall not expire;
+(d) prescribing the maximum period during which notice of dismissal given by her employer to a female employee who is absent from her work as a result of illness certified by a registered medical practitioner to arise out of her pregnancy or confinement shall not expire;
 
 (e) prescribing the times which employees shall be entitled to take off from work for meals and which they shall be entitled or required to take off for rest;
 
 (f) prescribing the form of any register, summons or order required to be kept, issued or made under this Ordinance;
 
-(g) prescribing the procedure for sending
-
-<!-- marginal: summonses, -->
-
-warrants and orders issued or made under
-
-<!-- marginal: this -->
-
-Ordinance in Sabah for service or execution in the Republic of Singapore and Brunei, and making provisions for the service or execution
-
-<!-- marginal: in Sabah -->
-
-of summonses, warrants and orders issued or made in the Republic of Singapore and Brunei;
+(g) prescribing the procedure for sending summonses, warrants and orders issued or made under this Ordinance in Sabah for service or execution in the Republic of Singapore and Brunei, and making provisions for the service or execution in Sabah of summonses, warrants and orders issued or made in the Republic of Singapore and Brunei;
 
 (h) prescribing fees to be paid for filing of claims under section 7A and for copies of notes of evidence recorded under Chapter IIA;
 
@@ -3472,19 +3668,9 @@ Employee Provision of the Ordinance not applicable
 
 (d) he is engaged in recruiting employees;
 
-(e) he is engaged in any capacity Definition of
+(e) he is engaged in any capacity Definition of "ordinary in any vessel registered in rate of pay" in section 2, Malaysia and who — sections 103, 104, 104A, 104B, 104C, 104D, 104E (i) is not an officer and subsection (2) of certificated under the section 105. Merchant Shipping Acts of the United Kingdom as amended from time to time; (ii) is not the holder of a local certificate as defined in Part VII of the Merchant Shipping Ordinance 1952; or (iii) has not entered into an agreement under Part III of the Merchant Shipping Ordinance 1952; or
 
-<!-- marginal: "ordinary -->
-
-in any vessel registered in rate of pay" in section 2, Malaysia and who — sections 103, 104, 104A, 104B, 104C, 104D, 104E (i) is not an officer and subsection
-
-<!-- marginal: (2) of -->
-
-certificated under the section 105. Merchant Shipping Acts of the United Kingdom as amended from time to time; (ii) is not the holder of a local certificate as defined in Part VII of the Merchant Shipping Ordinance 1952; or (iii) has not entered into an agreement under Part III of the Merchant Shipping Ordinance 1952; or
-
-(f) he is engaged as a domestic Definition of "ordinary rate servant. of pay" in section 2, sections 10
-
-<!-- marginal: and -->
+(f) he is engaged as a domestic Definition of "ordinary rate servant. of pay" in section 2, sections 10 and
 
 <!-- marginal: 11, -->
 
@@ -3598,7 +3784,9 @@ Rang Undang-Undang
 
 Rang Undang-Undang
 
-45. Fasal 102 bertujuan untuk memasukkan baru
+45. Fasal 102 bertujuan untuk memasukkan
+
+<!-- marginal: baru -->
 
 <!-- marginal: 123A, -->
 
@@ -3606,13 +3794,17 @@ Rang Undang-Undang
 
 <!-- marginal: dan -->
 
-123c ke dalam Ordinan. Seksyen bam 123A menghendaki keizinan
+123c ke dalam Ordinan. Seksyen bam 123A menghendaki
+
+<!-- marginal: keizinan -->
 
 <!-- marginal: secara -->
 
 <!-- marginal: bertulis -->
 
 Pendakwa Raya sebelum apa-apa pendakwaan dimulakan.
+
+<!-- marginal: Seksyen -->
 
 <!-- marginal: 123B -->
 
@@ -3624,25 +3816,35 @@ dicadangkan memberi Mahkamah kuasa untuk memerintahkan
 
 <!-- marginal: pembayaran -->
 
-apa-apa denda yang dikenakan atau pembayaran apa-apa
+apa-apa denda yang dikenakan atau pembayaran
+
+<!-- marginal: apa-apa -->
 
 <!-- marginal: jumlah wang -->
 
 <!-- marginal: yang -->
 
-dijamin melalui bon, dibuat kepada pengadu. 123c
+dijamin melalui bon, dibuat kepada pengadu.
+
+<!-- marginal: 123c -->
 
 <!-- marginal: yang -->
 
 <!-- marginal: dicadangkan -->
 
-memperuntukkan bahawa jika diperintahkan supaya denda dibayar
+memperuntukkan bahawa jika diperintahkan supaya
+
+<!-- marginal: denda -->
+
+<!-- marginal: dibayar -->
 
 <!-- marginal: dan -->
 
 <!-- marginal: tempoh -->
 
-pemenjaraan dikenakan, sekiranya denda itu tidak dibayar,
+pemenjaraan dikenakan, sekiranya denda itu tidak
+
+<!-- marginal: dibayar, -->
 
 <!-- marginal: perintah -->
 
@@ -3654,7 +3856,9 @@ hendaklah terbatal selepas tempoh pemenjaraan ditentukan.
 
 <!-- marginal: untuk memberikan -->
 
-kuasa kepada Pengarah atau mana-mana pegawai yang diberl
+kuasa kepada Pengarah atau mana-mana pegawai yang
+
+<!-- marginal: diberl -->
 
 <!-- marginal: kuasa -->
 
@@ -3662,7 +3866,11 @@ kuasa kepada Pengarah atau mana-mana pegawai yang diberl
 
 <!-- marginal: hadir -->
 
-di Mahkamah dan mewakili seseorang pekerja dalam apa-apa
+di Mahkamah dan mewakili seseorang pekerja
+
+<!-- marginal: dalam -->
+
+<!-- marginal: apa-apa -->
 
 <!-- marginal: prosiding -->
 
@@ -3670,7 +3878,9 @@ di Mahkamah dan mewakili seseorang pekerja dalam apa-apa
 
 bawah Ordinan.
 
-47. Fasal 104 bertujuan untuk memasukkan baru
+47. Fasal 104 bertujuan untuk memasukkan
+
+<!-- marginal: baru -->
 
 <!-- marginal: 125A -->
 
@@ -3678,7 +3888,9 @@ bawah Ordinan.
 
 <!-- marginal: dalam -->
 
-Ordinan. yang dicadangkan itu mengadakan peruntukan
+Ordinan. yang dicadangkan itu mengadakan
+
+<!-- marginal: peruntukan -->
 
 <!-- marginal: bagi -->
 
@@ -3692,7 +3904,9 @@ seseorang pekhidmat awam dalam menjalankan kewajipannya
 
 ini.
 
-48. Fasal 109 bertujuan untuk memasukkan baru
+48. Fasal 109 bertujuan untuk memasukkan
+
+<!-- marginal: baru -->
 
 <!-- marginal: 129A -->
 
@@ -3700,7 +3914,9 @@ ini.
 
 <!-- marginal: dalam -->
 
-Ordinan untuk membenarkan mana-mana pengganti Pengarah
+Ordinan untuk membenarkan mana-mana pengganti
+
+<!-- marginal: Pengarah -->
 
 <!-- marginal: atau -->
 
@@ -3710,7 +3926,9 @@ Ordinan untuk membenarkan mana-mana pengganti Pengarah
 
 supaya meneruskan apa-apa siasatan di bawah Ordinan ini.
 
-49. Fasal 111 bertujuan untuk memasukkan Bab baru XVIA
+49. Fasal 111 bertujuan untuk memasukkan Bab
+
+<!-- marginal: baru XVIA -->
 
 <!-- marginal: dan XVIB -->
 
@@ -3722,17 +3940,25 @@ dalam Ordinan. Bab XVIA yang dicadangkan mengadakan
 
 <!-- marginal: bagi -->
 
-suatu bab mengenai kesalahan dan penalti dan juga menambah
+suatu bab mengenai kesalahan dan penalti dan
+
+<!-- marginal: juga menambah -->
 
 <!-- marginal: penalti -->
 
 <!-- marginal: bagi -->
 
-kesalahan di bawah Ordinan. Bab XVIB yang dicadangkan memberi Menteri kuasa untuk membuat kaedah-kaedah mengenai perkara di bawah Ordinan.
+kesalahan di bawah Ordinan. Bab XVIB yang
+
+<!-- marginal: dicadangkan memberi Menteri -->
+
+kuasa untuk membuat kaedah-kaedah mengenai perkara di bawah Ordinan.
 
 50. Fasal 114 bertujuan untuk memasukkan suatu Jadual baru ke dalam Ordinan untuk mengadakan peruntukan bagi takrif seseorang pekerja.
 
-51. Pindaan lain yang tidak diperkatakan secara khusus
+51. Pindaan lain yang tidak diperkatakan secara
+
+<!-- marginal: khusus -->
 
 <!-- marginal: dalam Huraian -->
 

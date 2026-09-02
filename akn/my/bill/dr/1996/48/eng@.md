@@ -36,15 +36,21 @@ Provided that before a plea of guilty is recorded the Court shall ascertain that
 
 <!-- page 2 -->
 
-2 Bill
+<!-- marginal: 2 -->
 
-(c) by substituting for paragraph (f) the following paragraph:
+Bill
+
+(c) by substituting for paragraph (f) the following
+
+<!-- marginal: paragraph: -->
 
 "(f) (1) When the case for the prosecution is concluded the Court shall consider whether the prosecution has made out a prima facie case against the accused.
 
 (2) If the Court finds that the prosecution has not made out a prima facie case against the accused, the Court shall record an order of acquittal.";
 
-(d) by substituting for paragraph (h) the following paragraph:
+(d) by substituting for paragraph (h) the following
+
+<!-- marginal: paragraph: -->
 
 "(h) (1) If the Court finds that a prima facie case has been made out against the accused on the offence charged, the Court shall call upon the accused to enter on his defence.
 
@@ -52,7 +58,9 @@ Provided that before a plea of guilty is recorded the Court shall ascertain that
 
 (e) in paragraph (i), by substituting for the words "or has any defence to make" the words "of the offence in the charge as amended";
 
-(f) by substituting for paragraph (j) the following paragraph:
+(f) by substituting for paragraph (j) the following
+
+<!-- marginal: paragraph: -->
 
 "(j) (1) If the accused pleads guilty to the charge as amended, the plea shall be recorded and he may be convicted
 
@@ -60,15 +68,7 @@ Provided that before a plea of guilty is recorded the Court shall ascertain that
 
 thereon and the Court shall pass sentence according to law:
 
-Provided that before a plea of guilty is recorded the Court shall ascertain that the
-
-<!-- marginal: accused -->
-
-understands the nature
-
-<!-- marginal: and -->
-
-consequences of his plea and intends to admit, without qualification, the offence alleged against him.
+Provided that before a plea of guilty is recorded the Court shall ascertain that the accused understands the nature and consequences of his plea and intends to admit, without qualification, the offence alleged against him.
 
 (2) If the accused does not plead guilty to the charge as amended, the accused shall be called upon to enter on his defence.
 
@@ -78,39 +78,63 @@ Provided that if the accused elects to be called as a witness, his evidence shal
 
 Provided further that any accused person who elects to be called as a witness may be cross-examined on behalf of any other accused person."; and
 
-(g) by substituting for paragraph (m) the following paragraph:
+(g) by substituting for paragraph (m) the following
+
+<!-- marginal: paragraph: -->
 
 "(m) (1) At the conclusion of the trial, the Court shall consider all the evidence adduced before it and shall decide whether the prosecution has proved its case beyond reasonable doubt.
 
 <!-- page 4 -->
 
-4 Bill
+<!-- marginal: 4 -->
 
-(2) If the Court finds
+Bill
 
-<!-- marginal: that -->
+(2) If the Court finds that the prosecution has proved its case beyond reasonable doubt, the Court shall find the accused guilty and he may be convicted thereon and the Court shall pass sentence according to law.
 
-<!-- marginal: the -->
+(3) If the Court finds that the prosecution has not proved its case beyond reasonable doubt, the Court shall record an order of acquittal.".
 
-prosecution has proved its case beyond reasonable doubt, the Court shall find the accused guilty and he may be convicted thereon and the Court shall pass sentence according to law.
+<!-- marginal: Amendment of -->
 
-(3) If the Court finds
+.
 
-<!-- marginal: that -->
+3. Section 178 of the Code is amended in subsection
 
-<!-- marginal: the -->
+<!-- marginal: section 178 -->
 
-prosecution has not proved its case beyond reasonable doubt, the Court shall record an order of acquittal.".
+(ii) by substituting for the full stop at the end of the subsection a colon and by adding thereafter the following
 
-Amendment of .
-
-3. Section 178 of the Code is amended in subsection section 178 (ii) by substituting for the full stop at the end of the subsection a colon and by adding thereafter the following proviso:
+<!-- marginal: proviso: -->
 
 "Provided that before a plea of guilty is recorded the Court shall ascertain that the accused understands the nature and consequences of his plea and intends to admit, without qualification, the offence alleged against him.".
 
-Amendment of
+<!-- marginal: Amendment of -->
 
-4. The Code is amended by substituting for section 180 section 180. the following section: " Procedure 180. (i) When the case for the prosecution is after concluded, the Court shall consider whether the conclusion of case for prosecution has made out a prima facie case prosecu- against the accused. tion.
+4. The Code is amended by substituting for section 180
+
+<!-- marginal: section 180. -->
+
+the following section: "
+
+<!-- marginal: Procedure -->
+
+180. (i) When the case for the prosecution is
+
+<!-- marginal: after -->
+
+concluded, the Court shall consider whether the
+
+<!-- marginal: conclusion -->
+
+<!-- marginal: of case for -->
+
+prosecution has made out a prima facie case
+
+<!-- marginal: prosecu- -->
+
+against the accused.
+
+<!-- marginal: tion. -->
 
 (ii) If the Court finds that the prosecution has not made out a prima facie case against the accused, the Court shall record an order of acquittal.
 

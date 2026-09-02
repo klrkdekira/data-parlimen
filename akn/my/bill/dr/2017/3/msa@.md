@@ -32,7 +32,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (b) membeli, menjual atau membekalkan barang sedemikian dari satu negara asing ke negara asing yang lain;”.
 
-### Pindaan seksyen 9
+<!-- marginal: Pindaan seksyen 9 -->
 
 3. Seksyen 9 Akta ibu dipinda—
 

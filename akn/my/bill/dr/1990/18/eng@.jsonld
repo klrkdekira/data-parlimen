@@ -45,13 +45,9 @@
       "@type": "akn:clause",
       "eli:number": "1",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/18/eng@",
-      "schema:name": {
-        "@language": "en",
-        "@value": "This Act may be cited as the Sales Tax (Amendment) Act"
-      },
       "schema:text": {
         "@language": "en",
-        "@value": "1990."
+        "@value": "This Act may be cited as the Sales Tax (Amendment) Act 1990."
       }
     },
     {
@@ -72,7 +68,6 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/18/eng@/~cl_3",
       "@type": "akn:clause",
       "eli:number": "3",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/18/eng@/~cl_3__subsec_2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/18/eng@",
       "schema:name": {
         "@language": "en",
@@ -80,17 +75,7 @@
       },
       "schema:text": {
         "@language": "en",
-        "@value": "immediately after the words \"by or under this Act\" in subsection"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/18/eng@/~cl_3__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/18/eng@/~cl_3",
-      "schema:text": {
-        "@language": "en",
-        "@value": ", the words \", other than those conferred by subsection (5) of section 15\"."
+        "@value": "immediately after the words \"by or under this Act\" in subsection (2), the words \", other than those conferred by subsection (5) of section 15\"."
       }
     },
     {
@@ -104,7 +89,7 @@
       },
       "schema:text": {
         "@language": "en",
-        "@value": "immediately after the words \"sales tax\", the words \", or any person or class of persons from payment of the whole or any part of the sales tax,\". Substitution"
+        "@value": "immediately after the words \"sales tax\", the words \", or any person or class of persons from payment of the whole or any part of the sales tax,\"."
       }
     },
     {
@@ -112,30 +97,27 @@
       "@type": "akn:clause",
       "eli:number": "5",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Acf is amended by substituting for section 17"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "The principal Acf is amended by substituting for section 17 of section 17. the following; \"Invoices. 17. (1) Every taxable person who sells any taxable goods shall issue an invoice in the national language or in English to the purchaser in respect of the transaction, and shall state thereon the amount of sales tax payable separately to the prices for which the goods are sold. (2) No invoice showing an amount which purports to be sales tax shall be issued on the sale of any goods— (a) which are not taxable goods; or (b) by a person who is not a taxable person. (3) The amount of sales tax payable shall be recoverable by the taxable person from the purchaser in addition to the price and any other amount due by the purchaser in respect of the goods.\". Amendment"
+        "@value": "the following; \"Invoices. 17. (1) Every taxable person who sells any taxable goods shall issue an invoice in the national language or in English to the purchaser in respect of the transaction, and shall state thereon the amount of sales tax payable separately to the prices for which the goods are sold. (2) No invoice showing an amount which purports to be sales tax shall be issued on the sale of any goods— (a) which are not taxable goods; or (b) by a person who is not a taxable person. (3) The amount of sales tax payable shall be recoverable by the taxable person from the purchaser in addition to the price and any other amount due by the purchaser in respect of the goods.\"."
       }
     },
     {
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/18/eng@/~cl_6",
       "@type": "akn:clause",
       "eli:number": "6",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/18/eng@/~cl_6__subsec_1A",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 30 of the principal Act is amended by inserting,"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Section 30 of the principal Act is amended by inserting, of section 30. immediately after subsection (1), the following new subsections"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/18/eng@/~cl_6__subsec_1A",
-      "@type": "akn:subsection",
-      "eli:number": "1A",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/18/eng@/~cl_6",
-      "schema:text": {
-        "@language": "en",
-        "@value": ", (1B)and(1c); \"(1A) The Director General may allow the sales tax or other moneys or deficiency, or the refund referred to in subsection (1) to be paid by instalments in such amounts and on such dates as he may determine; and, subject to subsection (1B), where the amount of sales tax is allowed to be paid by instalment under this subsection, paragraph (b) of section 24 shall not be applicable to such amount as from the date of the allowance. (1B) If there is a default in payment of any one instalment under subsection (1A) on its due date for payment of the balance of amount payable then the whole outstanding balance shall become due and payable on that date and shall, without any further notice being served on the person liable to pay the amount due, be increased by a sum equal to ten per cent of that balance and that sum shall be recoverable as if were due and payable under this Act. (1C) Nothing in subsections (1A) and (1B) shall prejudice the exercise of the rights and power under this section by the Director General to seize or sell any goods belonging to the person liable to pay such sales tax or other moneys for recovery of the amount payable under subsections (1) and (1B) or any outstanding balance thereof.\"."
+        "@value": "immediately after subsection (1), the following new subsections (1A), (1B)and(1c); \"(1A) The Director General may allow the sales tax or other moneys or deficiency, or the refund referred to in subsection (1) to be paid by instalments in such amounts and on such dates as he may determine; and, subject to subsection (1B), where the amount of sales tax is allowed to be paid by instalment under this subsection, paragraph (b) of section 24 shall not be applicable to such amount as from the date of the allowance. (1B) If there is a default in payment of any one instalment under subsection (1A) on its due date for payment of the balance of amount payable then the whole outstanding balance shall become due and payable on that date and shall, without any further notice being served on the person liable to pay the amount due, be increased by a sum equal to ten per cent of that balance and that sum shall be recoverable as if were due and payable under this Act. (1C) Nothing in subsections (1A) and (1B) shall prejudice the exercise of the rights and power under this section by the Director General to seize or sell any goods belonging to the person liable to pay such sales tax or other moneys for recovery of the amount payable under subsections (1) and (1B) or any outstanding balance thereof.\"."
       }
     },
     {

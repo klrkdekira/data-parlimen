@@ -20,7 +20,21 @@
 
 ## RESTRICTIONS ON DEALINGS WITH NATIVE HOLDINGS
 
-9. Restriction as to transfers and leases 10. Restriction as to dealings by attorneys 11. Restriction as to caveats based on lien by deposit of title 12. Restriction as to private caveats 13. Restriction as to bankruptcy 14. Restriction as to attachments in execution 15. Restriction as to trusts 16. Restriction as to grants of probate and letters of administration
+9. Restriction as to transfers and leases
+
+10. Restriction as to dealings by attorneys
+
+11. Restriction as to caveats based on lien by deposit of title
+
+12. Restriction as to private caveats
+
+13. Restriction as to bankruptcy
+
+14. Restriction as to attachments in execution
+
+15. Restriction as to trusts
+
+16. Restriction as to grants of probate and letters of administration
 
 ## PART IV
 
@@ -30,7 +44,21 @@
 
 <!-- page 2 -->
 
-\ 18. Native holding may be leased or transferred to Perbadanan Labuan or Majlis Agama Islam Wilayah Persekutuan 19. Native holding may be charged to financial institutions 20. Native holding may be transferred to statutory bodies, cooperative societies and societies 21. Amanah Ray a Berhad deemed to be a native in certain cases 22. Dealings contrary to Act void 23. Doubtful cases shall be decided by the High Court 24. Act to prevail against provisions of other laws
+\
+
+18. Native holding may be leased or transferred to Perbadanan Labuan or Majlis Agama Islam Wilayah Persekutuan
+
+19. Native holding may be charged to financial institutions
+
+20. Native holding may be transferred to statutory bodies, cooperative societies and societies
+
+21. Amanah Ray a Berhad deemed to be a native in certain cases
+
+22. Dealings contrary to Act void
+
+23. Doubtful cases shall be decided by the High Court
+
+24. Act to prevail against provisions of other laws
 
 ## PART V
 
@@ -42,7 +70,9 @@
 
 ## MISCELLANEOUS
 
-26. Power of Minister to make rules 27. Exemption of fees
+26. Power of Minister to make rules
+
+27. Exemption of fees
 
 ## FIRST SCHEDULE
 

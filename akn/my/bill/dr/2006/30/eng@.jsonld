@@ -1,0 +1,296 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-30-2006",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_13"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Perbadanan Tabung Pendidikan Tinggi Nasional (Amendment) Bill 2006"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Perbadanan Tabung Pendidikan Tinggi Nasional (Amendment) Act 2006. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting sections 36, 37, 38, 39, 40, 41, 42, 43 and 44. Amendment of section 49"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 49(2) of the principal Act is amended by inserting after paragraph (h) the following paragraph: \"(ha) the responsibilities, conditions and the procedure for the grant of educational loans to any recipient student;\". New section 49A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 49 the following section: \"Penalties for subsidiary legislation 49A. The regulations made under section 49 may provide for any act or omission in contravention of the regulations to be an offence and may provide for penalties of a fine not exceeding five thousand ringgit or a term of imprisonment not exceeding one month or to both.\". New sections 58 and 59"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 57 the following sections: \"Conduct of civil proceedings 58. Notwithstanding the provisions of any written law, in any civil proceedings by or against the Perbadanan— (a) any person holding the appointment of a Federal Counsel and authorized by the Attorney General for the purpose; or (b) any officer of the Perbadanan authorized in that behalf by the Chairman, may, on behalf of the Perbadanan, institute, appear in and conduct such proceedings and may make and do all appearances, acts and applications in respect of such proceedings. Power to compound 59. (1) The Chief Executive may, with the consent in writing of the Public Prosecutor, compound any offence committed by any person under this Act or any regulations made under this Act by making a written offer to the person who committed the offence to compound the offence upon payment to the Chief Executive of an amount of money not exceeding fifty percent of the amount of the maximum fine for that offence within the time specified in the offer. (2) An offer under subsection (1) may be made at any time after the offence has been committed, but before any prosecution for it has been instituted and if the amount specified in the offer is not paid within the time specified in the offer or within such extended period as the Chief Executive may grant, prosecution for the offence may be instituted at any time after that against the person to whom the offer was made. (3) If an offence has been compounded under subsection (1), no prosecution shall be instituted in respect of the offence against the person to whom the offer to compound was made and any thing seized in connection with the offence may be released or forfeited to the Chief Executive, as may be determined by the Chief Executive, subject to such terms and conditions as he thinks fit. (4) All sums of money received by the Chief Executive under this section shall be paid into and form part of the Federal Consolidated Fund.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Perbadanan Tabung Pendidikan Tinggi Nasional Act 1997 [Act 566], which is referred to as the \"principal Act\" in this Act, is amended in the definition of \"Minister\", by substituting for the word \"Education\" the words \"Higher Education\". Amendment of section 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 7 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_3__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_3__para_a__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_3__para_a__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2) — (i) in paragraph (d), by substituting for the word \"Education\" the words \"Higher Education\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_3__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_3__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (d) the following paragraph: \"(da) the Secretary General of the Ministry of Education or his representative;\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_3__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_3__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (f) the following paragraph: \"(f) the Chief Executive; and\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_3__para_a__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_3__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (g), by substituting for the word \"two\" the word \"five\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the words \"paragraphs 2(f) and\" the word \"paragraph\". Amendment of section 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 11 of the principal Act is amended by substituting for the words \"in respect of a child under the person's care or in his legal custody\" the words \"for himself or any other person\". New section 11A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 11 the following section: \"Guarantee of the Government 11A. The repayment of all moneys deposited in the Perbadanan together with dividend is guaranteed by the Government and, in the event that the Tabung Pendidikan Tinggi Nasional and the Reserve Fund of the Perbadanan shall be insufficient to pay the lawful claims of every depositor, such deficiency shall be charged on and paid out of the Federal Consolidated Fund and the Minister shall certify such deficiency to the Dewan Rakyat at the earliest possible opportunity.\". (Amendment) New section 22A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 22 the following sections: \"The Chief Executive may issue certificate to the Inspector General of Police or the Director General of Immigration to prevent recipient student leaving Malaysia in certain circumstances 22A. (1) The Chief Executive may, where he is of the opinion that any recipient student is about or likely to leave Malaysia without paying any moneys due to the Perbadanan, issue to the Inspector General of Police or the Director General of Immigration a certificate containing the amounts payable to the Perbadanan with request for that recipient student to be prevented from leaving Malaysia unless and until he pays all the amounts payable to the Perbadanan or furnishes security to the satisfaction of the Chief Executive for their payment. (2) Subject to any order issued or made under any written law relating to banishment or immigration, the Inspector General of Police or the Director General of Immigration upon receiving a request under subsection (1) in respect of any recipient student shall take or cause to be taken all such measures as may be necessary to give effect to it and which measures may include the use of reasonable force and the seizure, removal or retention of any certificate of identity and any passport, exit permit or other travel document relating to that recipient student. (3) Where a recipient student in respect of whom a certificate has been issued under subsection (1) produces a written statement signed on or after the date of the issue of the certificate by the Chief Executive or an authorized officer to the effect that moneys due to the Perbadanan specified in the certificate have been paid or that security has been furnished for their payment, the statement or the payment, as the case may be, shall be sufficient authority for allowing that recipient student to leave Malaysia. (4) No legal proceedings shall be instituted or maintained against the Perbadanan, its officers and servants, the Government of Malaysia, a police officer or any public officer in respect of anything lawfully done under this section.\". New section 23A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 23 the following section: \"Limitation for action founded on a contract for educational loans 23A. Notwithstanding the provisions of any written law, any action founded on a contract for educational loans shall not be brought after the expiration of twelve years from the date on which the cause of action accrued.\". Amendment of section 29"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_8__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 29 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by inserting after the word \"assist\" the words \"the Perbadanan and\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_8__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_8__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_8__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_8__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_8__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"in writing by the\" the words \"Perbadanan or\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_8__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_8__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by inserting after the words \"as notified by the\" the words \"Perbadanan or\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_8__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_8__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by inserting after the words \"deducted to the\" the words \"Perbadanan or\". Amendment of section 32"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 32 of the principal Act is amended by substituting for subsection (2) the following subsection: \" (2) In the absence of the Chairman for any reason, the Minister shall appoint a member of the Board, except the Chief Executive, to carry out the duties of the Chairman.\". (Amendment) Deletion of sections 36, 37, 38, 39, 40, 41, 42, 43 and 44"
+      }
+    }
+  ]
+}

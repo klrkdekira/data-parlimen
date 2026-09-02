@@ -20,9 +20,15 @@
 
 ## AND VESTING PROVISIONS
 
-3. The Bank. 4. Vesting provisions. 5. Initial government holding in the Bank.
+3. The Bank.
 
-6. Government investment in securities of the Bank. 7. Exercise of the functions of the Minister through nominees.
+4. Vesting provisions.
+
+5. Initial government holding in the Bank.
+
+6. Government investment in securities of the Bank.
+
+7. Exercise of the functions of the Minister through nominees.
 
 ## PART
 
@@ -56,7 +62,9 @@ III
 
 ## OF THE BANK
 
-12. Maintenance of reserve fund. 13. Maintenance of capital funds. 14. Maintenance of liquid assets. 15. Maintenance of assets in Malaysia. 16. Investment of funds. 17. Appointment of auditor. 18. Duties of auditor. 19. Financial statements to be submitted to Minister. 20. Publication and exhibition of audited balance sheet, etc. 21. Statistics and information to be submitted,
+12. Maintenance of reserve fund. 13. Maintenance of capital funds. 14. Maintenance of liquid assets. 15. Maintenance of assets in Malaysia. 16. Investment of funds. 17. Appointment of auditor. 18. Duties of auditor. 19. Financial statements to be submitted to Minister.
+
+20. Publication and exhibition of audited balance sheet, etc. 21. Statistics and information to be submitted,
 
 ## PART VII
 
@@ -64,7 +72,19 @@ III
 
 ## THE BANK
 
-22. Acquisition or disposal of aggregate of five per centum holding. 23. Maximum permissible holdings. 24. Sanction required for reconstruction, etc., of the Bank. 25. Bank to report acquisition or disposal of aggregate of five per centum holding to Minister. 26. Credit facilities on security of Bank's property to be reported to Minister. 27. Defence relating to contravention of provisions of this Part. 28. Prohibitions in the event of contravention.
+22. Acquisition or disposal of aggregate of five per centum holding.
+
+23. Maximum permissible holdings.
+
+24. Sanction required for reconstruction, etc., of the Bank.
+
+25. Bank to report acquisition or disposal of aggregate of five per centum holding to Minister.
+
+26. Credit facilities on security of Bank's property to be reported to Minister.
+
+27. Defence relating to contravention of provisions of this Part.
+
+28. Prohibitions in the event of contravention.
 
 <!-- page 3 -->
 
@@ -72,13 +92,39 @@ Bank Simpanan Nasional Berhad
 
 <!-- marginal: 3 -->
 
-29. Director, controller or manager of the Bank to be fit and proper person. 30. Minister's consent required to be director of the Bank. 31. Disqualifications of director or officer of the Bank. 32. Appointment of chief executive.
+29. Director, controller or manager of the Bank to be fit and proper person.
+
+30. Minister's consent required to be director of the Bank.
+
+31. Disqualifications of director or officer of the Bank.
+
+32. Appointment of chief executive.
 
 ## PART VIII
 
 ## RESTRICTION ON BUSINESS OF THE BANK
 
-33. Restrictions on payments of dividends. 34. Advance against security of own shares of shares of holding company. 35. Grant of secured and unsecured credit facilities. 36. Restriction of credit facility to single customer. 37. Prohibition of credit facilities to director and officer. 38. Restriction on giving of credit facilities. 39. Disclosure of interest by director. 40. Control of credit limit. 41. Restrictions on investments. 42. Limitations, terms and conditions in respect of giving of credit facility. 43. Proof of compliance.
+33. Restrictions on payments of dividends.
+
+34. Advance against security of own shares of shares of holding company.
+
+35. Grant of secured and unsecured credit facilities.
+
+36. Restriction of credit facility to single customer.
+
+37. Prohibition of credit facilities to director and officer.
+
+38. Restriction on giving of credit facilities.
+
+39. Disclosure of interest by director.
+
+40. Control of credit limit.
+
+41. Restrictions on investments.
+
+42. Limitations, terms and conditions in respect of giving of credit facility.
+
+43. Proof of compliance.
 
 ## PART IX
 
@@ -86,45 +132,119 @@ Bank Simpanan Nasional Berhad
 
 ## THE BANK
 
-44. The Bank under Minister's supervision. 45. Examination of the Bank. 46. Power of Minister to direct examination to be made. 47. Production of Bank's books, etc. 48. Bank unable to meet obligations to inform the Minister. 49. Action by the Minister in respect of the Bank in certain circumstances.
+44. The Bank under Minister's supervision.
+
+45. Examination of the Bank.
+
+46. Power of Minister to direct examination to be made.
+
+47. Production of Bank's books, etc.
+
+48. Bank unable to meet obligations to inform the Minister. 49. Action by the Minister in respect of the Bank in certain circumstances.
 
 <!-- page 4 -->
 
-4 Bill 50. Provisions in relation to an appointment under section 49.
+4 Bill
+
+50. Provisions in relation to an appointment under section 49.
 
 51. Provisions in relation to removal from office under paragraph 49(1}(cc) or subparagraph 49(l)(dd)(i).
 
-52. Provisions relating to assumption of control under paragraph 49(2)(a). 53. Power to reduce share capital and to cancel shares of the Bank when subject to an order under paragraph 49(2)(a). 54. Loans to the Bank and acquisition of its shares. 55. Extension of jurisdiction under this part to related companies of the Bank. 56. Moratorium. 57. Priority of payments in the event of insolvency of the Bank.
+52. Provisions relating to assumption of control under paragraph 49(2)(a).
+
+53. Power to reduce share capital and to cancel shares of the Bank when subject to an order under paragraph 49(2)(a).
+
+54. Loans to the Bank and acquisition of its shares.
+
+55. Extension of jurisdiction under this part to related companies of the Bank.
+
+56. Moratorium.
+
+57. Priority of payments in the event of insolvency of the Bank.
 
 ## PART X
 
 ## INVESTIGATION, SEARCH AND SEIZURE
 
-58. Appointment and functions of investigating officers. 59. Power to search and seize. 60. Search of person. 61. Obstruction to exercise of powers by an investigating officer. 62. Requirement to provide translation. 63. Power to examine persons. 64. Specific persons in respect of whom powers of investigation may be exercised. 65. Assistance to police or other public officer. 66. Investigating officer deemed to be public servant and public officer.
+58. Appointment and functions of investigating officers.
+
+59. Power to search and seize.
+
+60. Search of person.
+
+61. Obstruction to exercise of powers by an investigating officer.
+
+62. Requirement to provide translation.
+
+63. Power to examine persons.
+
+64. Specific persons in respect of whom powers of investigation may be exercised.
+
+65. Assistance to police or other public officer.
+
+66. Investigating officer deemed to be public servant and public officer.
 
 ## PART XI
 
 ## INFORMATION AND SECRECY
 
-67. Restriction inquiring specifically into affairs of particular customer. 68. Secrecy.
+67. Restriction inquiring specifically into affairs of particular customer.
+
+68. Secrecy.
 
 <!-- page 5 -->
 
 69. Disclosure for facilitating performance of functions of Minister.
 
-70. Other permitted disclosures. 71. Disclosure under Banker's Books (Evidence) Act 1949.
+70. Other permitted disclosures.
+
+71. Disclosure under Banker's Books (Evidence) Act 1949.
 
 ## PART XII
 
 ## OFFENCES
 
-72. Offences in relation to entries in books, documents, etc. 73. Offences by persons responsible for the Bank. 74. Defence. 75. Joinder of offences. 76. Power of Minister to compound offences. 77. Prosecution. 78. Offences to be seizable offences. 79. Duty of investigating officer to make over arrested person to police. 80. Attempts, preparations, abetments and conspiracies punishable as offences. 81. General penalty.
+72. Offences in relation to entries in books, documents, etc.
+
+73. Offences by persons responsible for the Bank.
+
+74. Defence.
+
+75. Joinder of offences.
+
+76. Power of Minister to compound offences.
+
+77. Prosecution.
+
+78. Offences to be seizable offences.
+
+79. Duty of investigating officer to make over arrested person to police.
+
+80. Attempts, preparations, abetments and conspiracies punishable as offences.
+
+81. General penalty.
 
 ## PART XIII
 
 ## GENERAL PROVISIONS
 
-82. Submission to Minister of information required by him. 83. Indemnity. 84. Control of advertisements issued by the Bank. 85. Prohibition on receipt of gifts, commissions, etc. 86. Islamic banking or financial business. 87. Regulations. 88. Appointment of persons. 89. Protection under the Bills of Exchange Act 1949. 90. Declaration of holidays.
+82. Submission to Minister of information required by him.
+
+83. Indemnity.
+
+84. Control of advertisements issued by the Bank.
+
+85. Prohibition on receipt of gifts, commissions, etc.
+
+86. Islamic banking or financial business.
+
+87. Regulations.
+
+88. Appointment of persons.
+
+89. Protection under the Bills of Exchange Act 1949.
+
+90. Declaration of holidays.
 
 <!-- page 6 -->
 
@@ -184,15 +304,27 @@ as the Minister may, by notification in the Gazette, appoint.
 
 "appointed date" means the date appointed under section 1;
 
-"approved company auditor" has the meaning assigned Act 125. to it by subsection 4(1) of the Companies Act 1965;
+"approved company auditor" has the meaning assigned
+
+<!-- marginal: Act 125. -->
+
+to it by subsection 4(1) of the Companies Act 1965;
 
 "arrangement" means an arrangement whether formal or informal, oral or written, express or implied;
 
 "associate corporation" means a corporation where not less than twenty per centum and not more than fifty per centum of that corporation's shares are held by another corporation, the first-mentioned corporation thereby being an associate corporation of the other corporation;
 
-"Bank" means a company under the name of Bank Simpanan Nasional Berhad incorporated under the Act 125. Companies Act 1965 pursuant to section 3 and includes its offices;
+"Bank" means a company under the name of Bank Simpanan Nasional Berhad incorporated under the
 
-"Bank Simpanan Nasional" means a body corporate Act 146. established under section 3 of the Bank Simpanan Nasional Act 1974;
+<!-- marginal: Act 125. -->
+
+Companies Act 1965 pursuant to section 3 and includes its offices;
+
+"Bank Simpanan Nasional" means a body corporate
+
+<!-- marginal: Act 146. -->
+
+established under section 3 of the Bank Simpanan Nasional Act 1974;
 
 "Board" means the board of directors of the Bank;
 
@@ -234,7 +366,9 @@ established by the Central Bank of Malaysia Act 1958;
 
 "child" includes a step-child and a person adopted as a child under any written law of Malaysia or of any country, territory or place outside Malaysia, or under any custom recognised by any class or category of persons in Malaysia or in any country, territory or place outside Malaysia;
 
-"company" has the meaning assigned to it by sub- Act
+"company" has the meaning assigned to it by sub-
+
+<!-- marginal: Act -->
 
 125. section 4(1) of the Companies Act 1965;
 
@@ -250,9 +384,15 @@ established by the Central Bank of Malaysia Act 1958;
 
 and the word "control" shall be construed accordingly;
 
-"Corporation" means the Minister of Finance Act 375. incorporated by the Minister of Finance (Incorporation) Act 1957;
+"Corporation" means the Minister of Finance
 
-"corporation" has the meaning assigned to it by sub- Act.
+<!-- marginal: Act 375. -->
+
+incorporated by the Minister of Finance (Incorporation) Act 1957;
+
+"corporation" has the meaning assigned to it by sub-
+
+<!-- marginal: Act. -->
 
 125. section 4(1) of the Companies Act 1965;
 
@@ -310,13 +450,25 @@ on any substance, material, thing or article;
 
 "giro service" means a current account service which permits account holders to issue payment instructions to the Bank for payment to any party or which permits the Bank to accept payments into the account of an account holder from any party;
 
-"holding company" has the meaning assigned to it by Act 125. section 5 of the Companies Act 1965;
+"holding company" has the meaning assigned to it by
 
-"interest in a share" shall be construed as provided under subsections 6A(2) to 6A(10), inclusive, of the Act 125. Companies Act 1965;
+<!-- marginal: Act 125. -->
+
+section 5 of the Companies Act 1965;
+
+"interest in a share" shall be construed as provided under subsections 6A(2) to 6A(10), inclusive, of the
+
+<!-- marginal: Act 125. -->
+
+Companies Act 1965;
 
 "liabilities" includes debts, duties and obligations of every kind, whether present or future, or whether vested or contingent;
 
-"licensed institution" means any institution licensed Act 372. under subsection 6(4) of the Banking and Financial Institutions Act 1989;
+"licensed institution" means any institution licensed
+
+<!-- marginal: Act 372. -->
+
+under subsection 6(4) of the Banking and Financial Institutions Act 1989;
 
 "manager", in relation to the Bank, means an officer of the Bank, by whatever name called, responsible for an office of the Bank, or for a department or a division of the Bank or of its office;
 
@@ -362,9 +514,17 @@ the Bank for the award of bonus payments by way of cash or otherwise to the hold
 
 (f) any other tangible or intangible property;
 
-"public company" has the meaning assigned to it by Act 125. subsection 4(1) of the Companies Act 1965;
+"public company" has the meaning assigned to it by
 
-"related", in relation to a corporation, means related Act 125. within the meaning of section 6 of the Companies Act 1965;
+<!-- marginal: Act 125. -->
+
+subsection 4(1) of the Companies Act 1965;
+
+"related", in relation to a corporation, means related
+
+<!-- marginal: Act 125. -->
+
+within the meaning of section 6 of the Companies Act 1965;
 
 "relative", in relation to a person, means—
 
@@ -412,7 +572,7 @@ the Bank for the award of bonus payments by way of cash or otherwise to the hold
 
 <!-- page 16 -->
 
-### 16
+<!-- marginal: 16 -->
 
 ### Bill
 
@@ -474,7 +634,9 @@ Gazette, appoint a vesting date and on that date, all property, rights and liabi
 
 18 Bill
 
-(3) Every chose-in-action vested by virtue of subsection (1) in the Bank may, after the vesting date, be sued on, recovered or enforced by the Bank in its own name, and it shall not be necessary for the Bank or the Bank Simpanan Nasional to give notice to the person bound by the chose-in-action of the vesting effected by subsection (1).
+(3) Every chose-in-action vested by virtue of subsection
+
+(1) in the Bank may, after the vesting date, be sued on, recovered or enforced by the Bank in its own name, and it shall not be necessary for the Bank or the Bank Simpanan Nasional to give notice to the person bound by the chose-in-action of the vesting effected by subsection (1).
 
 (4) Every right and liability vested by virtue of subsection (1) in the Bank may, on and after the vesting date, be sued on, recovered or enforced by or against the Bank in its own name, and it shall not be necessary for the Bank or the Bank Simpanan Nasional to give notice to the person whose right or liability is affected by the vesting under subsection (1).
 
@@ -482,7 +644,11 @@ Gazette, appoint a vesting date and on that date, all property, rights and liabi
 
 (6) In the case of rights and liabilities arising under any loans which vest in the Bank on the vesting date, the Bank may enter into such arrangements or agreements over such rights and liabilities with the Government or any third party.
 
-(7) Where by virtue of subsection (1), any property is transferred to and vested in the Bank, the provisions Act 56/65. in Part Thirty of the National Land Code shall, for the purpose of effecting the registration of such vesting, apply to the Bank as if it were a public authority.
+(7) Where by virtue of subsection (1), any property is transferred to and vested in the Bank, the provisions
+
+<!-- marginal: Act 56/65. -->
+
+in Part Thirty of the National Land Code shall, for the purpose of effecting the registration of such vesting, apply to the Bank as if it were a public authority.
 
 (8) On and after the vesting date, any agreement relating to any property, rights and liabilities transferred to and vested in the Bank under subsection (1) to which the Bank Simpanan Nasional was a party immediately before the vesting date, whether in writing or not, and whether or not of such a nature that rights and liabilities
 
@@ -544,7 +710,13 @@ any time, acquire—
 
 ### Bill
 
-(3) Any expenses incurred by the Corporation in consequence of the provisions of this section shall be treated as investments and be authorised under Act 61. subparagraph 8(3)(a)(iv) of the Financial Procedure Act 1957.
+(3) Any expenses incurred by the Corporation in consequence of the provisions of this section shall be treated as investments and be authorised under
+
+<!-- marginal: Act 61. -->
+
+subparagraph 8(3)(a)(iv) of the Financial Procedure Act
+
+1957.
 
 (4) Any dividends or other sums received by the Corporation in right of, on the disposal of or otherwise in connection with, any securities or rights acquired under this section shall be paid into the Consolidated Fund.
 
@@ -554,7 +726,23 @@ any time, acquire—
 
 (b) is certified by the Treasury as having been effected by the issue of shares subscribed for by the Minister under paragraph (1)(a),
 
-Exercise of 7. (1) The Minister may appoint such persons as he the functions thinks fit to act as his nominees for the purposes of of the Minister section 5 or 6 and— through nominees.
+<!-- marginal: Exercise of -->
+
+7. (1) The Minister may appoint such persons as he
+
+<!-- marginal: the functions -->
+
+thinks fit to act as his nominees for the purposes of
+
+<!-- marginal: of the -->
+
+<!-- marginal: Minister -->
+
+section 5 or 6 and—
+
+<!-- marginal: through -->
+
+<!-- marginal: nominees. -->
 
 (a) securities of the Bank may be assigned under section 5 to any nominee of the Minister appointed for the purposes of that section or to any person entitled to require the issue of the securities following their initial allotment to any such nominee; and
 
@@ -694,15 +882,45 @@ notwithstanding any other written law to the contrary, hold, promote, organise a
 
 ## SUBSIDIARIES AND OFFICES OF THE BANK
 
-Control of
+<!-- marginal: Control of -->
 
-10. (1) The Bank shall not establish or acquire any establishment subsidiary in or outside Malaysia without the prior written or acquisition of consent of the Minister. subsidiaries. (2) Where the Bank fails to comply with subsection (1), it shall be guilty of an offence and shall on conviction be liable to a fine not exceeding five million ringgit.
+10. (1) The Bank shall not establish or acquire any
+
+<!-- marginal: establishment -->
+
+subsidiary in or outside Malaysia without the prior written
+
+<!-- marginal: or acquisition -->
+
+<!-- marginal: of -->
+
+consent of the Minister.
+
+<!-- marginal: subsidiaries. -->
+
+(2) Where the Bank fails to comply with subsection
+
+(1), it shall be guilty of an offence and shall on conviction be liable to a fine not exceeding five million ringgit.
 
 (3) Where the Bank is guilty of an offence under subsection (2), any person who at the time of the commission of the offence was a person responsible for the Bank shall also be guilty of that offence and shall on conviction be liable to a fine not exceeding five million ringgit or to imprisonment for a term not exceeding five years or to both.
 
-Restriction
+<!-- marginal: Restriction -->
 
-11. (1) The Bank shall not open any office outside on Malaysia without the prior written consent of the Minister. establishment of offices of the Bank. (2) Where the Bank fails to comply with subsection (1), it shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one million ringgit.
+11. (1) The Bank shall not open any office outside
+
+<!-- marginal: on -->
+
+Malaysia without the prior written consent of the Minister.
+
+<!-- marginal: establishment -->
+
+<!-- marginal: of offices of -->
+
+<!-- marginal: the Bank. -->
+
+(2) Where the Bank fails to comply with subsection
+
+(1), it shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one million ringgit.
 
 <!-- page 25 -->
 
@@ -736,19 +954,41 @@ Restriction
 
 <!-- page 26 -->
 
-(5) Where the Bank fails to comply with subsection (1), it shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one million ringgit and, in the case of a continuing offence, to a further fine not exceeding one thousand ringgit for each day during which the offence continues after conviction.
+(5) Where the Bank fails to comply with subsection
 
-Maintenance
+(1), it shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one million ringgit and, in the case of a continuing offence, to a further fine not exceeding one thousand ringgit for each day during which the offence continues after conviction.
 
-13. (1) The Minister may require the Bank to maintain, of capital at all times, capital funds unimpaired by losses, in such funds. ratio to all or any assets or to all or any liabilities, or to both such assets or liabilities, of the Bank and all its offices in and outside Malaysia as may be specified by the Minister.
+<!-- marginal: Maintenance -->
 
-(2) Where the Bank fails to comply with subsection (1), it shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one million ringgit and, in the case of a continuing offence, to a further fine not exceeding one thousand ringgit for each day during which the offence continues after conviction.
+13. (1) The Minister may require the Bank to maintain,
 
-Maintenance
+<!-- marginal: of capital -->
 
-14. (1) The Minister may specify that the Bank shall of liquid hold such minimum amount of liquid assets, or such assets. minimum average amount of liquid assets, in Malaysia at all times or over such period of time as may be set out in the specification.
+at all times, capital funds unimpaired by losses, in such
 
-(2) The minimum amount of liquid assets, or minimum average amount of liquid assets, specified under subsection (1) shall be expressed as a percentage of all or such of its liabilities incurred by its offices in Malaysia as may be set out in the specification.
+<!-- marginal: funds. -->
+
+ratio to all or any assets or to all or any liabilities, or to both such assets or liabilities, of the Bank and all its offices in and outside Malaysia as may be specified by the Minister.
+
+(2) Where the Bank fails to comply with subsection
+
+(1), it shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one million ringgit and, in the case of a continuing offence, to a further fine not exceeding one thousand ringgit for each day during which the offence continues after conviction.
+
+<!-- marginal: Maintenance -->
+
+14. (1) The Minister may specify that the Bank shall
+
+<!-- marginal: of liquid -->
+
+hold such minimum amount of liquid assets, or such
+
+<!-- marginal: assets. -->
+
+minimum average amount of liquid assets, in Malaysia at all times or over such period of time as may be set out in the specification.
+
+(2) The minimum amount of liquid assets, or minimum average amount of liquid assets, specified under subsection
+
+(1) shall be expressed as a percentage of all or such of its liabilities incurred by its offices in Malaysia as may be set out in the specification.
 
 (3) In a specification under subsection (1), the Minister may specify—
 
@@ -764,7 +1004,9 @@ Maintenance
 
 (5) The Minister may prohibit the Bank from giving any credit facilities to any person during the period in which it has failed to comply with any requirement of the specification under this section.
 
-(6) Where the Bank fails to comply with subsection (1) or (5), it shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one per centum of the shortfall for the day or each of the days to which the charge relates.
+(6) Where the Bank fails to comply with subsection
+
+(1) or (5), it shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one per centum of the shortfall for the day or each of the days to which the charge relates.
 
 <!-- marginal: Maintenance -->
 
@@ -790,7 +1032,9 @@ assets as may be set out in the specification.
 
 (4) The provisions of subsection 14(4) shall apply mutatis mutandis in relation to a specification under subsection (1).
 
-(5) Where the Bank fails to comply with subsection (1), it shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one per centum of the shortfall for the day or each of the days to which the charge relates.
+(5) Where the Bank fails to comply with subsection
+
+(1), it shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one per centum of the shortfall for the day or each of the days to which the charge relates.
 
 <!-- page 28 -->
 
@@ -798,13 +1042,21 @@ assets as may be set out in the specification.
 
 ### Bill
 
-Investment
+<!-- marginal: Investment -->
 
-16. (1) Subject to such directions or guidelines as the of funds. Minister may specify, the Bank shall, as far as practicable and except for such sums as may be assigned to be kept in hand for the general purposes of the Bank, invest in—
+16. (1) Subject to such directions or guidelines as the
+
+<!-- marginal: of funds. -->
+
+Minister may specify, the Bank shall, as far as practicable and except for such sums as may be assigned to be kept in hand for the general purposes of the Bank, invest in—
 
 (a) securities of the Government and public authorities;
 
-(b) other investment authorised by or under the Act 208. Trustee Act 1949;
+(b) other investment authorised by or under the
+
+<!-- marginal: Act 208. -->
+
+Trustee Act 1949;
 
 (c) loans and advances to customers for such purposes as may be approved by the Board; and
 
@@ -812,9 +1064,13 @@ Investment
 
 (2) The Bank may, with the prior written approval of the Minister, invest outside Malaysia.
 
-Appointment
+<!-- marginal: Appointment -->
 
-17. (1) Notwithstanding anything in any other written of auditor. law, the Bank shall appoint each year before a date to be specified by the Minister an auditor approved by the Minister.
+17. (1) Notwithstanding anything in any other written
+
+<!-- marginal: of auditor. -->
+
+law, the Bank shall appoint each year before a date to be specified by the Minister an auditor approved by the Minister.
 
 (2) Where the Bank fails to appoint an auditor under subsection (1) before the date specified thereunder, the Minister may appoint for the Bank an auditor and specify his remuneration and expenses, and the same shall be paid to such auditor by the Bank.
 
@@ -874,33 +1130,51 @@ Provided that the Minister may remove the disqualification under this paragraph 
 
 (9) For the purposes of this section, a person shall not be deemed to be an officer of the Bank or its related corporation by reason only of his having been appointed an auditor of the Bank or its related corporation.
 
-(10) Any person or firm appointed as an auditor for the Bank who, at any time after such appointment, becomes subject to any of the disqualifications mentioned in this section or in section 9 of the Companies Act 1965, shall Act 125. immediately thereupon cease to be the auditor of the Bank and shall not thereafter act as its auditor or be required or permitted by the Bank to act as such.
+(10) Any person or firm appointed as an auditor for the Bank who, at any time after such appointment, becomes subject to any of the disqualifications mentioned in this section or in section 9 of the Companies Act 1965, shall
+
+<!-- marginal: Act 125. -->
+
+immediately thereupon cease to be the auditor of the Bank and shall not thereafter act as its auditor or be required or permitted by the Bank to act as such.
 
 <!-- page 31 -->
 
-(11) Where the Bank fails to comply with subsection (1), (2) or (3), it shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one million ringgit and, in the case of a continuing offence, to a further fine not exceeding one thousand ringgit for each day during which the offence continues after conviction.
+(11) Where the Bank fails to comply with subsection
+
+(1), (2) or (3), it shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one million ringgit and, in the case of a continuing offence, to a further fine not exceeding one thousand ringgit for each day during which the offence continues after conviction.
 
 (12) Where the Bank is guilty of an offence under subsection (11), any person who at the time of the commission of the offence was a person responsible for the Bank shall also be guilty of that offence and shall on conviction be liable to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding one year or to both and, in the case of a continuing offence, to a further fine not exceeding one thousand ringgit for each day during which the offence continues after conviction.
 
-(13) Any person who fails to comply with subsection (4) or (6), shall be guilty of an offence and shall on conviction be liable to a fine not exceeding three million ringgit or to imprisonment for a term not exceeding three years or to both.
+(13) Any person who fails to comply with subsection
+
+(4) or (6), shall be guilty of an offence and shall on conviction be liable to a fine not exceeding three million ringgit or to imprisonment for a term not exceeding three years or to both.
 
 (14) Any person or firm who fails to comply with subsection (7) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one million ringgit and, in the case of a continuing offence, to a further fine not exceeding one thousand ringgit for each day during which the offence continues after conviction.
 
-(15) Any person who fails to comply with subsection (10) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding three million ringgit or to imprisonment for a term not exceeding three years or to both and, in the case of a continuing offence, to a further fine not exceeding three thousand ringgit for each day during which the offence continues after conviction.
+(15) Any person who fails to comply with subsection
+
+(10) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding three million ringgit or to imprisonment for a term not exceeding three years or to both and, in the case of a continuing offence, to a further fine not exceeding three thousand ringgit for each day during which the offence continues after conviction.
 
 <!-- page 32 -->
 
 32 Bill
 
-Duties of
+<!-- marginal: Duties of -->
 
-18. (1) The duties of an auditor appointed under auditor. subsection 17(1) or 17(2) shall be—
+18. (1) The duties of an auditor appointed under
+
+<!-- marginal: auditor. -->
+
+subsection 17(1) or 17(2) shall be—
 
 (a) to carry out an audit of the accounts of the Bank; and
 
 (b) subject to subsection 19(4), to submit a report of such audit to the members of the Bank.
 
-(2) The report of the auditor referred to under paragraph (1)(b) shall be made in accordance with section Act 125. 174 of the Companies Act 1965.
+(2) The report of the auditor referred to under paragraph (1)(b) shall be made in accordance with section
+
+<!-- marginal: Act 125. -->
+
+174 of the Companies Act 1965.
 
 (3) The Minister may, at any time, require an auditor appointed under section 17 to—
 
@@ -950,11 +1224,23 @@ to enable him to carry out his duties; and
 
 ### Bill
 
-(8) Any person who fails to comply with subsection (4), (5) or (6) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding three million ringgit or to imprisonment for a term not exceeding three years or to both, and in the case of a continuing offence, to a further fine not exceeding three thousand ringgit for each day during which the offence continues after conviction.
+(8) Any person who fails to comply with subsection
 
-Financial
+(4), (5) or (6) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding three million ringgit or to imprisonment for a term not exceeding three years or to both, and in the case of a continuing offence, to a further fine not exceeding three thousand ringgit for each day during which the offence continues after conviction.
 
-19. (1) Within three months after the close of each statements to financial year of the Bank, or such further period as the be submitted to Minister. Minister may approve, the Bank shall submit to the Minister in respect of its entire operations in Malaysia two copies each of the following documents:
+<!-- marginal: Financial -->
+
+19. (1) Within three months after the close of each
+
+<!-- marginal: statements to -->
+
+financial year of the Bank, or such further period as the
+
+<!-- marginal: be submitted -->
+
+<!-- marginal: to Minister. -->
+
+Minister may approve, the Bank shall submit to the Minister in respect of its entire operations in Malaysia two copies each of the following documents:
 
 (a) its latest audited annual balance sheet, profit and loss account and statement setting out the sources of its funds, the purposes for which, and the manner in which, such funds have been utilised; and
 
@@ -962,15 +1248,23 @@ Financial
 
 (i) the auditor under paragraph 18(1)(b); and
 
-(ii) the directors under subsection 169(5)of Act 125. the Companies Act 1965.
+(ii) the directors under subsection 169(5)of
 
-(2) Within the time stipulated in subsection (1), the Bank shall, in addition to the requirements under subsection (1), submit to the Minister where the Bank has offices or subsidiaries outside Malaysia, all the documents referred to under subsection (1) in respect of—
+<!-- marginal: Act 125. -->
+
+the Companies Act 1965.
+
+(2) Within the time stipulated in subsection (1), the Bank shall, in addition to the requirements under subsection
+
+(1), submit to the Minister where the Bank has offices or subsidiaries outside Malaysia, all the documents referred to under subsection (1) in respect of—
 
 (a) its operations in each country outside Malaysia; and
 
 (b) its entire operations both in and outside Malaysia on a consolidated basis.
 
-(3) The Minister may, either before or after the Bank has complied with the requirements of subsection (1) or (2), require the Bank to submit further or additional information as he may deem necessary either by way of
+(3) The Minister may, either before or after the Bank has complied with the requirements of subsection (1) or
+
+(2), require the Bank to submit further or additional information as he may deem necessary either by way of
 
 <!-- page 35 -->
 
@@ -998,21 +1292,55 @@ except where the Minister otherwise approves in writing, and any such approval m
 
 (5) Subject to subsection (4), the Bank shall within six months after the close of its financial year, or such further period as the Minister may approve, submit to the Minister four copies each of the documents mentioned in subsection (1) together with the approval or other decision of the annual general meeting of the Bank in respect thereof.
 
-(6) Where the Bank fails to comply with subsection (1), (2), (3) or (5), it shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one million ringgit and, in the case of a continuing offence, to a further fine not exceeding one thousand ringgit for each day during which the offence continues after conviction.
+(6) Where the Bank fails to comply with subsection
+
+(1), (2), (3) or (5), it shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one million ringgit and, in the case of a continuing offence, to a further fine not exceeding one thousand ringgit for each day during which the offence continues after conviction.
 
 <!-- page 36 -->
 
-(7) Where the Bank fails to comply with subsection (4), it shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one million ringgit.
+(7) Where the Bank fails to comply with subsection
 
-20. (1) The Bank shall within fourteen days of the laying Publication and of its accounts at its annual general meeting, or within exhibition of audited such further period as the Minister may approve, publish balance sheet, in not less than two daily newspapers published in Malaysia etc. and approved by the Minister, one of which shall be in the national language and the other in English, and exhibit thereafter throughout the year in a conspicuous position at every office in Malaysia of the Bank, a copy each of its balance sheet and such other documents as the Minister may specify; and the Minister may specify differently in respect of the documents to be published in the newspapers and the documents to be exhibited.
+(4), it shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one million ringgit.
 
-(2) Where the Bank fails to comply with subsection (1), it shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one million ringgit and, in the case of a continuing offence, to a further fine not exceeding one thousand ringgit for each day during which the offence continues after conviction.
+20. (1) The Bank shall within fourteen days of the laying
 
-Statistics and
+<!-- marginal: Publication -->
 
-21. (1) The Bank shall submit to the Minister— information to be
+<!-- marginal: and -->
 
-(a) a statement showing the assets and liabilities submitted. of the Bank in Malaysia; and
+of its accounts at its annual general meeting, or within
+
+<!-- marginal: exhibition of -->
+
+<!-- marginal: audited -->
+
+such further period as the Minister may approve, publish
+
+<!-- marginal: balance sheet, -->
+
+in not less than two daily newspapers published in Malaysia
+
+<!-- marginal: etc. -->
+
+and approved by the Minister, one of which shall be in the national language and the other in English, and exhibit thereafter throughout the year in a conspicuous position at every office in Malaysia of the Bank, a copy each of its balance sheet and such other documents as the Minister may specify; and the Minister may specify differently in respect of the documents to be published in the newspapers and the documents to be exhibited.
+
+(2) Where the Bank fails to comply with subsection
+
+(1), it shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one million ringgit and, in the case of a continuing offence, to a further fine not exceeding one thousand ringgit for each day during which the offence continues after conviction.
+
+<!-- marginal: Statistics and -->
+
+21. (1) The Bank shall submit to the Minister—
+
+<!-- marginal: information -->
+
+<!-- marginal: to be -->
+
+(a) a statement showing the assets and liabilities
+
+<!-- marginal: submitted. -->
+
+of the Bank in Malaysia; and
 
 (b) such further information, documents, statistics or returns as the Minister may specify.
 
@@ -1022,7 +1350,9 @@ Statistics and
 
 <!-- page 37 -->
 
-(4) Where the Bank fails to comply with subsection (1) or (2), it shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one million ringgit and, in the case of a continuing offence, to a further fine not exceeding one thousand ringgit for each day during which the offence continues after conviction.
+(4) Where the Bank fails to comply with subsection
+
+(1) or (2), it shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one million ringgit and, in the case of a continuing offence, to a further fine not exceeding one thousand ringgit for each day during which the offence continues after conviction.
 
 ## PART VII
 
@@ -1076,9 +1406,15 @@ regardless of the percentage of the shares of the Bank which such interest in th
 
 (1) or (3) shall be guilty of an offence and shall on conviction be liable to fine a not exceeding five million ringgit or to imprisonment for a term not exceeding five years or to both.
 
-Maximum
+<!-- marginal: Maximum -->
 
-23. (1) No person shall hold more than the following permissible percentages of interests in the shares of the Bank: holdings.
+23. (1) No person shall hold more than the following
+
+<!-- marginal: permissible -->
+
+percentages of interests in the shares of the Bank:
+
+<!-- marginal: holdings. -->
 
 (a) in the case of an individual, ten per centum; and
 
@@ -1218,9 +1554,31 @@ its knowledge.
 
 (3) Where the Bank is guilty of an offence under subsection (2), any person who at the time of the commission of the offence was a person responsible for the Bank shall also be guilty of that offence and shall on conviction be liable to a fine not exceeding five million ringgit or to imprisonment for a term not exceeding five years or to both and, in the case of a continuing offence, to a further fine not exceeding five thousand ringgit for each day during which the offence continues after conviction.
 
-Credit
+<!-- marginal: Credit -->
 
-26. (1) Where any person proposes to give any credit facilities on facility to any person on the security of any property of security of Bank's the Bank, he shall, before giving such credit facility, property to submit a report on the proposed credit facility to the be reported Minister if the property to be provided as security for to Minister. the proposed credit facility, by itself, or together with any other property of the Bank already held as security for any other credit facilities given by him, would constitute five per centum or more of the properties of the Bank.
+26. (1) Where any person proposes to give any credit
+
+<!-- marginal: facilities on -->
+
+facility to any person on the security of any property of
+
+<!-- marginal: security of -->
+
+<!-- marginal: Bank's -->
+
+the Bank, he shall, before giving such credit facility,
+
+<!-- marginal: property to -->
+
+submit a report on the proposed credit facility to the
+
+<!-- marginal: be reported -->
+
+Minister if the property to be provided as security for
+
+<!-- marginal: to Minister. -->
+
+the proposed credit facility, by itself, or together with any other property of the Bank already held as security for any other credit facilities given by him, would constitute five per centum or more of the properties of the Bank.
 
 (2) Where the Bank proposes to provide its property as security in respect of a credit facility to be given by any person to the Bank or to any other person, it shall, before doing so, submit a report on the matter to the Minister.
 
@@ -1328,19 +1686,33 @@ representations made under subsection (6), either confirm the preliminary order,
 
 (5) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding five million ringgit or to imprisonment for a term not exceeding five years or to both and, in the case of a continuing offence, to a further fine not exceeding five thousand ringgit for each day during which the offence continues after conviction.
 
-(15) Any person who fails to comply with subsection
+(15) Any person who fails to comply with subsection (10) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one million ringgit and, in the case of a continuing offence, to a further fine not exceeding one thousand ringgit for each day during which the offence continues after conviction.
 
-(10) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one million ringgit and, in the case of a continuing offence, to a further fine not exceeding one thousand ringgit for each day during which the offence continues after conviction.
+<!-- marginal: Director, -->
 
-Director,
+29. (1) Every person who is, or is to be, a director,
 
-29. (1) Every person who is, or is to be, a director, controller or controller or manager of the Bank shall be a fit and manager of the Bank to proper person to hold the particular position which he be fit and holds or is to hold. proper person.
+<!-- marginal: controller or -->
+
+controller or manager of the Bank shall be a fit and
+
+<!-- marginal: manager of -->
+
+<!-- marginal: the Bank to -->
+
+proper person to hold the particular position which he
+
+<!-- marginal: be fit and -->
+
+holds or is to hold.
+
+<!-- marginal: proper -->
+
+<!-- marginal: person. -->
 
 (2) In determining whether a person is a fit and proper person to hold any particular position, the Bank shall have regard to his probity, competence and soundness of judgment for fulfilling the responsibilities of that position, to the diligence with which he is fulfilling or likely to fulfil those responsibilities and as to whether the interests of depositors or potential depositors, if any, of the Bank are, or are likely to be, in any way threatened by his holding that position.
 
-(3) Without prejudice to the generality of subsection
-
-(2), the Bank may have regard to the previous conduct
+(3) Without prejudice to the generality of subsection (2), the Bank may have regard to the previous conduct
 
 <!-- page 47 -->
 
@@ -1380,9 +1752,23 @@ to accept the appointment or election.
 
 <!-- page 48 -->
 
-Disqualifica-
+<!-- marginal: Disqualifica- -->
 
-31. (1) No person shall be appointed or elected, or accept tions of appointment or election, as a director, manager, secretary, director or or other officer concerned in the management, of the officer of the Bank. Bank—
+31. (1) No person shall be appointed or elected, or accept
+
+<!-- marginal: tions of -->
+
+appointment or election, as a director, manager, secretary,
+
+<!-- marginal: director or -->
+
+or other officer concerned in the management, of the
+
+<!-- marginal: officer of -->
+
+<!-- marginal: the Bank. -->
+
+Bank—
 
 (a) if he is a bankrupt, has suspended payments, or has compounded with his creditors, whether within or outside Malaysia;
 
@@ -1392,7 +1778,11 @@ Disqualifica-
 
 (d) if there has been made against him any order of detention, supervision, restricted residence, banishment or deportation, or if there has been imposed on him any form of restriction or supervision by bond or otherwise, under any law relating to prevention of crime, or to preventive detention for prevention of crime or drug trafficking, or to restricted residence, or to banishment or immigration; or
 
-(e) if he has been a director of, or directly concerned in the management of, any corporation which is being or has been wound up by a court or other authority competent to do so within or outside Malaysia, or of any licensed institution, the licence of which has been revoked under Act 372. the Banking and Financial Institutions Act 1989.
+(e) if he has been a director of, or directly concerned in the management of, any corporation which is being or has been wound up by a court or other authority competent to do so within or outside Malaysia, or of any licensed institution, the licence of which has been revoked under
+
+<!-- marginal: Act 372. -->
+
+the Banking and Financial Institutions Act 1989.
 
 (2) Where a person is subject to the disqualification under paragraph (1)(e), he may—
 
@@ -1412,21 +1802,23 @@ as a director, manager, secretary, or other officer concerned in the management,
 
 (5) For the purpose of subsection (4), criminal proceedings referred to therein shall be deemed to be pending from the date that the accused person is first charged in court for the offence until the date of the final conclusion of the proceedings, whether in the court of original jurisdiction or, in the event of any appeal by any party, in the court of final appellate jurisdiction.
 
-(6) Any person who fails to comply with subsection
+(6) Any person who fails to comply with subsection (1) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding three million ringgit or to imprisonment for a term not exceeding three years or to both.
 
-(1) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding three million ringgit or to imprisonment for a term not exceeding three years or to both.
-
-(7) Any person who fails to comply with subsection
-
-(3) or (4) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding three million
+(7) Any person who fails to comply with subsection (3) or (4) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding three million
 
 <!-- page 50 -->
 
 ringgit or to imprisonment for a term not exceeding three years or to both and, in the case of a continuing offence, to a further fine not exceeding three thousand ringgit for each day during which the offence continues after conviction.
 
-Appointment
+<!-- marginal: Appointment -->
 
-32. (1) Subject to subsection (2), the Bank shall appoint of chief a chief executive of the Bank who shall be— executive.
+32. (1) Subject to subsection (2), the Bank shall appoint
+
+<!-- marginal: of chief -->
+
+a chief executive of the Bank who shall be—
+
+<!-- marginal: executive. -->
 
 (a) an individual; and
 
@@ -1434,9 +1826,7 @@ Appointment
 
 (2) Without prejudice to any appointment made before the appointed date, the Bank shall, before appointing a chief executive pursuant to subsection (1), seek and obtain the Minister's written approval for the proposed appointment.
 
-(3) Where the Bank fails to comply with subsection
-
-(1) or (2), it shall be guilty of an offence and shall on conviction be liable to a fine not exceeding three million ringgit.
+(3) Where the Bank fails to comply with subsection (1) or (2), it shall be guilty of an offence and shall on conviction be liable to a fine not exceeding three million ringgit.
 
 (4) Where the Bank is guilty of an offence—
 
@@ -1500,9 +1890,23 @@ its own shares or the shares of its holding company.
 
 the Bank shall also be guilty of that offence and shall on conviction be liable to a fine not exceeding three million ringgit or to imprisonment for a term not exceeding three years or to both.
 
-Grant of
+<!-- marginal: Grant of -->
 
-35. (1) Subject to the prior written approval of the secured and Minister, the Bank shall not give to any person any unsecured credit unsecured credit facility which, together with any other facilities. credit facility earlier given to him, exceeds an aggregate amount as may be determined by the Minister.
+35. (1) Subject to the prior written approval of the
+
+<!-- marginal: secured and -->
+
+Minister, the Bank shall not give to any person any
+
+<!-- marginal: unsecured -->
+
+<!-- marginal: credit -->
+
+unsecured credit facility which, together with any other
+
+<!-- marginal: facilities. -->
+
+credit facility earlier given to him, exceeds an aggregate amount as may be determined by the Minister.
 
 (2) Subsection (1) shall not apply to any credit facility given—
 
@@ -1534,9 +1938,7 @@ the person liable for the credit facility shall immediately thereupon be deemed 
 
 (b) any particular property, or any class, category or description of properties, to be prohibited from being provided or accepted as security.
 
-(9) Where the Bank fails to comply with subsection
-
-(1), (4), (5) or (8), it shall be guilty of an offence and shall on conviction be liable to a fine not exceeding five million ringgit.
+(9) Where the Bank fails to comply with subsection (1), (4), (5) or (8), it shall be guilty of an offence and shall on conviction be liable to a fine not exceeding five million ringgit.
 
 (10) Where the Bank is guilty of an offence under subsection (9), any person who at the time of the commission of the offence was a person responsible for the Bank shall also be guilty of that offence and shall
 
@@ -1544,9 +1946,23 @@ the person liable for the credit facility shall immediately thereupon be deemed 
 
 on conviction be liable to a fine not exceeding five million ringgit or to imprisonment for a term not exceeding five years or to both.
 
-Restriction
+<!-- marginal: Restriction -->
 
-36. (1) The Bank shall not give to any single person of credit any credit facility, or incur any liability on behalf of any facility to single single person, which, together with any credit facility customer. given earlier to such single person, and any liability incurred earlier on his behalf, by the Bank, is in excess of such percentage as may be prescribed for the Bank by the Minister in relation to the Bank's capital funds, unimpaired by losses or otherwise.
+36. (1) The Bank shall not give to any single person
+
+<!-- marginal: of credit -->
+
+any credit facility, or incur any liability on behalf of any
+
+<!-- marginal: facility to -->
+
+<!-- marginal: single -->
+
+single person, which, together with any credit facility
+
+<!-- marginal: customer. -->
+
+given earlier to such single person, and any liability incurred earlier on his behalf, by the Bank, is in excess of such percentage as may be prescribed for the Bank by the Minister in relation to the Bank's capital funds, unimpaired by losses or otherwise.
 
 (2) The provisions of subsection (1) shall not apply—
 
@@ -1636,7 +2052,9 @@ and subject to such other terms and conditions as the Minister thinks fit.
 
 (b) the Minister shall from time to time specify what constitutes a material interest in the shares of a corporation.
 
-(5) Where the Bank fails to comply with subsection (1), it shall be guilty of an offence and shall on conviction be liable to a fine not exceeding five million ringgit.
+(5) Where the Bank fails to comply with subsection
+
+(1), it shall be guilty of an offence and shall on conviction be liable to a fine not exceeding five million ringgit.
 
 (6) Where the Bank is guilty of an offence under subsection (5), any person who at the time of the commission of the offence was a person responsible for the Bank shall also be guilty of that offence and shall on conviction be liable to a fine not exceeding five million ringgit or to imprisonment for a term not exceeding five years or to both.
 
@@ -1664,13 +2082,23 @@ any exemption by the Minister referred to in subsection
 
 <!-- page 58 -->
 
-(2) Where the Bank fails to comply with subsection (1), it shall be guilty of an offence and shall on conviction be liable to a fine not exceeding five million ringgit.
+(2) Where the Bank fails to comply with subsection
+
+(1), it shall be guilty of an offence and shall on conviction be liable to a fine not exceeding five million ringgit.
 
 (3) Where the Bank is guilty of an offence under subsection (2), any person who at the time of the commission of the offence was a person responsible for the Bank shall be guilty of that offence and shall on conviction be liable to a fine not exceeding five million ringgit or to imprisonment for a term not exceeding five years or to both.
 
-Disclosure of
+<!-- marginal: Disclosure of -->
 
-39. (1) Every director of the Bank who has in any interest by manner, whether directly or indirectly, any interest in a director. proposed credit facility to be given to any person by the Bank shall as soon as practicable declare in writing the nature of his interest, to a duly constituted meeting of directors, and the secretary of the Bank, or other officer appointed by the Bank for the purpose, shall cause a copy of such declaration to be circulated immediately to every director of the Bank regardless whether he was present or not at such meeting.
+39. (1) Every director of the Bank who has in any
+
+<!-- marginal: interest by -->
+
+manner, whether directly or indirectly, any interest in a
+
+<!-- marginal: director. -->
+
+proposed credit facility to be given to any person by the Bank shall as soon as practicable declare in writing the nature of his interest, to a duly constituted meeting of directors, and the secretary of the Bank, or other officer appointed by the Bank for the purpose, shall cause a copy of such declaration to be circulated immediately to every director of the Bank regardless whether he was present or not at such meeting.
 
 (2) For the purposes of subsection (1), a general notice in writing served on each of the directors of the Bank referred to in that subsection by a director to the effect that he is a director, officer or member of the body corporate or unincorporate, or a director or officer of the sole proprietorship, to which the credit facility is proposed to be given shall be deemed to be sufficient declaration of interest in relation to such proposed credit facility if the provisions of subsection (3) are also complied with.
 
@@ -1710,9 +2138,13 @@ as the case may be.
 
 ### to both.
 
-Control of
+<!-- marginal: Control of -->
 
-40. (1) A director or officer of the Bank shall not give credit limit. any credit facility in excess of the limit, or outside the scope of any terms and conditions, imposed on him by the Bank, or in contravention of any directions given to him, or any agreement made with him, by the Bank.
+40. (1) A director or officer of the Bank shall not give
+
+<!-- marginal: credit limit. -->
+
+any credit facility in excess of the limit, or outside the scope of any terms and conditions, imposed on him by the Bank, or in contravention of any directions given to him, or any agreement made with him, by the Bank.
 
 (2) The Minister may by written notice direct the Bank to—
 
@@ -1728,9 +2160,13 @@ Control of
 
 to any particular director or officer, and such amendments and variations shall be binding on the Bank and its directors and officers.
 
-(3) Any person who fails to comply with subsection (1) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding five million ringgit or to imprisonment for a term not exceeding five years or to both.
+(3) Any person who fails to comply with subsection
 
-(4) Where the Bank fails to comply with subsection (2), it shall be guilty of an offence and shall on conviction
+(1) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding five million ringgit or to imprisonment for a term not exceeding five years or to both.
+
+(4) Where the Bank fails to comply with subsection
+
+(2), it shall be guilty of an offence and shall on conviction
 
 <!-- page 61 -->
 
@@ -1766,19 +2202,49 @@ the Bank shall not acquire or hold—
 
 (b) any shares acquired or held by the Bank consequent upon its establishment or acquisition of a subsidiary with the prior written consent of the Minister under section 10; or
 
-(c) any shares or interest in shares acquired or held by the Bank in connection with its business as Act 280. an exempt dealer under the Securities Industry Act 1983.
+(c) any shares or interest in shares acquired or held by the Bank in connection with its business as
+
+<!-- marginal: Act 280. -->
+
+an exempt dealer under the Securities Industry Act 1983.
 
 (3) Any immovable property or share, or any right or interest therein, acquired pursuant to subparagraph
 
 (2)(a)(ii) or paragraph (c) by the Bank shall be disposed of as soon as practicable but not later than twelve months, or such longer period as the Minister may allow in any particular case, commencing on the date on which it was acquired.
 
-(4) Any acquisition, holding or disposal of shares or interest in shares for the purposes or in the circumstances referred to in paragraph 2(a), (b) or (c) or in subsection (3) shall not be regarded as "dealing in securities" for Act 280. the purposes of the Securities Industry Act 1983.
+(4) Any acquisition, holding or disposal of shares or interest in shares for the purposes or in the circumstances referred to in paragraph 2(a), (b) or (c) or in subsection
 
-(5) Where the Bank fails to comply with subsection (1) or (3), it shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one million ringgit and, in the case of a continuing offence, to a further fine not exceeding one thousand ringgit for each day during which the offence continues after conviction.
+(3) shall not be regarded as "dealing in securities" for
 
-Limitations,
+<!-- marginal: Act 280. -->
 
-42. (1) The Minister may specify limitations, terms and terms and conditions in respect of the giving of any class, category conditions in respect of or description of credit facilities to be given by the Bank, giving of including the giving of any credit facilities to any person— credit facility.
+the purposes of the Securities Industry Act 1983.
+
+(5) Where the Bank fails to comply with subsection
+
+(1) or (3), it shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one million ringgit and, in the case of a continuing offence, to a further fine not exceeding one thousand ringgit for each day during which the offence continues after conviction.
+
+<!-- marginal: Limitations, -->
+
+42. (1) The Minister may specify limitations, terms and
+
+<!-- marginal: terms and -->
+
+conditions in respect of the giving of any class, category
+
+<!-- marginal: conditions in -->
+
+<!-- marginal: respect of -->
+
+or description of credit facilities to be given by the Bank,
+
+<!-- marginal: giving of -->
+
+including the giving of any credit facilities to any person—
+
+<!-- marginal: credit -->
+
+<!-- marginal: facility. -->
 
 (a) for the purposes of financing—
 
@@ -1834,17 +2300,45 @@ be liable to a fine not exceeding three million ringgit and, in the case of a co
 
 ## OVER THE BANK
 
-The Bank
+<!-- marginal: The Bank -->
 
-44. The Bank shall be under the general supervision of under the Minister and, subject to the provisions of this Act, Minister's supervision. the Minister may, from time to time, give directions of a general character not inconsistent with the provisions of this Act as to the performance of the functions or duties and the exercise of the powers of the Bank.
+44. The Bank shall be under the general supervision of
 
-Examination
+<!-- marginal: under -->
 
-45. The Minister may, from time to time, examine, of the Bank. without any prior notice, the books or other documents, accounts, and transactions of the Bank and its offices within and outside Malaysia.
+the Minister and, subject to the provisions of this Act,
 
-Power of
+<!-- marginal: Minister's -->
 
-46. The Minister may at any time direct any person to Minister to make an examination of the books or other documents, direct examination accounts and transactions of the Bank and its offices to be made. within and outside Malaysia if he suspects that the Bank is carrying on its business in a manner which is, or which is likely to be, detrimental to the interests of its depositors or creditors, or has insufficient assets to cover its liabilities to the public, or is contravening any provision of this Act or any other written law.
+<!-- marginal: supervision. -->
+
+the Minister may, from time to time, give directions of a general character not inconsistent with the provisions of this Act as to the performance of the functions or duties and the exercise of the powers of the Bank.
+
+<!-- marginal: Examination -->
+
+45. The Minister may, from time to time, examine,
+
+<!-- marginal: of the Bank. -->
+
+without any prior notice, the books or other documents, accounts, and transactions of the Bank and its offices within and outside Malaysia.
+
+<!-- marginal: Power of -->
+
+46. The Minister may at any time direct any person to
+
+<!-- marginal: Minister to -->
+
+make an examination of the books or other documents,
+
+<!-- marginal: direct -->
+
+<!-- marginal: examination -->
+
+accounts and transactions of the Bank and its offices
+
+<!-- marginal: to be made. -->
+
+within and outside Malaysia if he suspects that the Bank is carrying on its business in a manner which is, or which is likely to be, detrimental to the interests of its depositors or creditors, or has insufficient assets to cover its liabilities to the public, or is contravening any provision of this Act or any other written law.
 
 <!-- page 65 -->
 
@@ -1886,9 +2380,23 @@ Provided that, so far as it is consistent with the conduct of the examination, s
 
 (4) Where the Bank is guilty of an offence under subsection (3), any person who at the time of the commission of the offence was a person responsible for the Bank shall also be guilty of that offence and shall on conviction be liable to a fine not exceeding three million ringgit or to imprisonment for a term not exceeding three years or to both and, in the case of a continuing offence, to a further fine not exceeding three thousand ringgit for each day during which the offence continues after conviction.
 
-Bank unable
+<!-- marginal: Bank unable -->
 
-48. (1) In the event the Bank is insolvent, or is likely to meet to become unable to meet all or any of its obligations, obligations to inform the or that it is about to suspend payment to any extent, the Minister. Bank shall immediately inform the Minister of that fact.
+48. (1) In the event the Bank is insolvent, or is likely
+
+<!-- marginal: to meet -->
+
+to become unable to meet all or any of its obligations,
+
+<!-- marginal: obligations to -->
+
+<!-- marginal: inform the -->
+
+or that it is about to suspend payment to any extent, the
+
+<!-- marginal: Minister. -->
+
+Bank shall immediately inform the Minister of that fact.
 
 (2) Where the Bank fails to comply with subsection
 
@@ -1896,19 +2404,29 @@ Bank unable
 
 (3) Where the Bank is guilty of an offence under subsection (2), any person who at the time of the commission of the offence was a person responsible for the Bank shall also be guilty of that offence and shall on conviction be liable to a fine not exceeding three million ringgit or to imprisonment for a term not exceeding five years or to both and, in the case of a continuing offence, to a further fine not exceeding three thousand ringgit for each day during which the offence continues after conviction.
 
-Action by
+<!-- marginal: Action by -->
 
-49. (1) Where— the Minister in respect of
+49. (1) Where—
 
-(a) the Bank informs the Minister— the Bank in certain circumstances. (i) that it is insolvent;
+<!-- marginal: the Minister -->
+
+<!-- marginal: in respect of -->
+
+(a) the Bank informs the Minister—
+
+<!-- marginal: the Bank in -->
+
+<!-- marginal: certain -->
+
+<!-- marginal: circumstances. -->
+
+(i) that it is insolvent;
 
 (ii) that it is likely to become unable to meet all or any of its obligations; or
 
 <!-- page 67 -->
 
-Bank Simpanan Nasional Berhad
-
-<!-- marginal: 67 -->
+Bank Simpanan Nasional Berhad 67
 
 (iii) that it is about to suspend payment to any extent; or
 
@@ -1964,9 +2482,13 @@ Provided that if in the opinion of the Minister, in the case of an order to be m
 
 <!-- page 70 -->
 
-representations against or otherwise in relation to the order shall, in such case, be given immediately after the order has been made, and the order may, in consequence of such representations either be confirmed, or be modified, amended, altered, varied or replaced under subsection (4), or be revoked under subsection (6), subject to such conditions, if any, as the Minister thinks fit to impose.
+representations against or otherwise in relation to the order shall, in such case, be given immediately after the order has been made, and the order may, in consequence of such representations either be confirmed, or be modified, amended, altered, varied or replaced under subsection
 
-(6) An order of the Minister made under subsection (1), or by virtue of subsection (4), may at any time be revoked by an order similarly made by the Minister and any such order may contain all such orders, directions or provisions of an incidental, ancillary, or consequential nature, as may be deemed necessary or expedient by the Minister.
+(4), or be revoked under subsection (6), subject to such conditions, if any, as the Minister thinks fit to impose.
+
+(6) An order of the Minister made under subsection
+
+(1), or by virtue of subsection (4), may at any time be revoked by an order similarly made by the Minister and any such order may contain all such orders, directions or provisions of an incidental, ancillary, or consequential nature, as may be deemed necessary or expedient by the Minister.
 
 (7) Where the Bank fails to comply with—
 
@@ -2014,9 +2536,33 @@ for such period as may be determined by the Minister, not exceeding, in any case
 
 (6) Where the Bank fails to comply with subparagraph 49(1)(dd)(ii) or paragraph 49(1)(ee), it shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one million ringgit and, in the case of a continuing offence, to a further fine not exceeding one thousand ringgit for each day during which the offence continues after conviction.
 
-Provisions in
+<!-- marginal: Provisions in -->
 
-51. (1) Any officer or director removed from office in relation to the Bank under paragraph 49(1)(cc) or subparagraph removal from office under 49(1)(dd)(i) shall cease to hold the office from which paragraph he is removed with effect from the date set out in the 49(1)(cc) or subparagraph order, and shall not thereafter hold any other office in 49(1)(dd) (i). the Bank or, in any manner, whether directly or indirectly, be concerned with, or take part, or engage in, any activity, affairs or business of or in relation to the Bank.
+51. (1) Any officer or director removed from office in
+
+<!-- marginal: relation to -->
+
+the Bank under paragraph 49(1)(cc) or subparagraph
+
+<!-- marginal: removal from -->
+
+<!-- marginal: office under -->
+
+49(1)(dd)(i) shall cease to hold the office from which
+
+<!-- marginal: paragraph -->
+
+he is removed with effect from the date set out in the
+
+<!-- marginal: 49(1)(cc) or -->
+
+<!-- marginal: subparagraph -->
+
+order, and shall not thereafter hold any other office in
+
+<!-- marginal: 49(1)(dd) (i). -->
+
+the Bank or, in any manner, whether directly or indirectly, be concerned with, or take part, or engage in, any activity, affairs or business of or in relation to the Bank.
 
 (2) The removal of an officer or director under paragraph 49(l)(cc) or subparagraph 49(1)(dd)(i) shall be lawful and valid notwithstanding anything contained in any contract of service or other contract or agreement, whether express or implied, whether individual or collective, and whether or not made or provided for under any written law, and a person so removed from office shall not be entitled to claim any compensation for the loss or termination of office.
 
@@ -2066,11 +2612,45 @@ and affairs to such control, and shall provide the Minister or the appointed per
 
 (5) For the avoidance of doubt, it is hereby declared that the assumption of control under paragraph 49(2)(a) shall not have the effect of conferring on, or vesting in, the Minister, or the appointed person, as the case may be, any title to, or any beneficial interest in, any property of the Bank to which the order relates.
 
-(6) Any person who contravenes subsection (1) or (4) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding five million ringgit or to imprisonment for a term not exceeding five years or to both and, in the case of a continuing offence, to a further fine not exceeding five thousand ringgit for each day during which the offence continues after conviction.
+(6) Any person who contravenes subsection (1) or
 
-Power to
+(4) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding five million ringgit or to imprisonment for a term not exceeding five years or to both and, in the case of a continuing offence, to a further fine not exceeding five thousand ringgit for each day during which the offence continues after conviction.
 
-53. (1) Notwithstanding anything in any written law reduce share or the constituent documents of the Bank, where the capital and Minister, or an appointed person, has, under paragraph to cancel shares of the 49(2)(a), assumed control of the Bank and the paid-up Bank when capital of the Bank is lost or unrepresented by available subject to an order assets, the Minister or the appointed person, as the case paragraph may be, may apply to the High Court for an order to 49(2)(a). reduce the share capital of the Bank by cancelling any portion of its paid-up capital which is lost or unrepresented by available assets.
+<!-- marginal: Power to -->
+
+53. (1) Notwithstanding anything in any written law
+
+<!-- marginal: reduce share -->
+
+or the constituent documents of the Bank, where the
+
+<!-- marginal: capital and -->
+
+Minister, or an appointed person, has, under paragraph
+
+<!-- marginal: to cancel -->
+
+<!-- marginal: shares of the -->
+
+49(2)(a), assumed control of the Bank and the paid-up
+
+<!-- marginal: Bank when -->
+
+capital of the Bank is lost or unrepresented by available
+
+<!-- marginal: subject to -->
+
+<!-- marginal: an order -->
+
+assets, the Minister or the appointed person, as the case
+
+<!-- marginal: paragraph -->
+
+may be, may apply to the High Court for an order to
+
+<!-- marginal: 49(2)(a). -->
+
+reduce the share capital of the Bank by cancelling any portion of its paid-up capital which is lost or unrepresented by available assets.
 
 (2) Where the High Court makes an order under subsection (1) to reduce the share capital of the Bank, the Court may—
 
@@ -2130,13 +2710,29 @@ the Minister may—
 
 (2) The Minister, or the licensed institution to which the Minister granted loans to under paragraph (l)(cc), shall dispose of any shares purchased by it in pursuance of subsection (1) at such time when the Minister is satisfied that the reasons for which the shares were purchased have ceased to exist.
 
-Extension of 55. Any reference in this Part to the Bank shall be read jurisdiction as including a reference to— under this Part to
+<!-- marginal: Extension of -->
 
-(a) any related corporation of the Bank; and related companies of the Bank.
+55. Any reference in this Part to the Bank shall be read
+
+<!-- marginal: jurisdiction -->
+
+as including a reference to—
+
+<!-- marginal: under this -->
+
+<!-- marginal: Part to -->
+
+(a) any related corporation of the Bank; and
+
+<!-- marginal: related -->
+
+<!-- marginal: companies of -->
+
+<!-- marginal: the Bank. -->
 
 (b) a person controlled by a director or directors of the Bank, or by persons acting in concert with a director or directors of the Bank.
 
-Moratorium.
+<!-- marginal: Moratorium. -->
 
 56. (1) The Minister may, if he considers it to be in the interest of the depositors of the Bank, by order published in the Gazette—
 
@@ -2200,7 +2796,21 @@ or received by the Bank, in contravention of this Act after the appointed date, 
 
 ## INVESTIGATION, SEARCH AND SEIZURE
 
-58. (1) For the purposes of this Part, the Minister may Appointment and functions appoint any person to be an investigating officer. of investigating officers. (2) Subject to subsection (3), an investigating officer appointed under subsection (1) shall have all the powers, functions, and duties conferred on an investigating officer under this Act.
+58. (1) For the purposes of this Part, the Minister may
+
+<!-- marginal: Appointment -->
+
+<!-- marginal: and functions -->
+
+appoint any person to be an investigating officer.
+
+<!-- marginal: of -->
+
+<!-- marginal: investigating -->
+
+<!-- marginal: officers. -->
+
+(2) Subject to subsection (3), an investigating officer appointed under subsection (1) shall have all the powers, functions, and duties conferred on an investigating officer under this Act.
 
 (3) An investigating officer shall be subject to the direction and control of the Minister, or of such other officer as may be authorised by the Minister to act on the Minister's behalf, and of any other investigating officer or officers superior to him in rank, and shall exercise his powers, perform his functions, and discharge his duties referred to in subsection (2) in compliance with such directions, instructions, conditions, restrictions or limitations as the Minister, or an officer authorised to act on behalf of the Minister, or an investigating officer superior in rank, may specify orally or in writing, either generally, or in any particular case or circumstance.
 
@@ -2294,19 +2904,45 @@ Bank Simpanan Nasional Berhad
 
 ### Bill
 
-book or other document as provided for in subsections 413(2), (3) and (4) and sections 414, 415 and 416 of the F.M.S. Criminal Procedure Code. Cap. 6. Search of
+book or other document as provided for in subsections 413(2), (3) and (4) and sections 414, 415 and 416 of the
 
-60. (1) An investigating officer may search any person person. whom he has reason to believe has on his person any property, book or other document, or other article necessary, in his opinion, for the purpose of investigating into any offence under this Act, and for the purpose of such search may detain such person for such period as may be necessary to have the search carried out, which shall not in any case exceed twenty-four hours without the authorisation of a Magistrate, and may remove him in custody to such place as may be necessary to facilitate such search.
+<!-- marginal: F.M.S. -->
+
+Criminal Procedure Code.
+
+<!-- marginal: Cap. 6. -->
+
+<!-- marginal: Search of -->
+
+60. (1) An investigating officer may search any person
+
+<!-- marginal: person. -->
+
+whom he has reason to believe has on his person any property, book or other document, or other article necessary, in his opinion, for the purpose of investigating into any offence under this Act, and for the purpose of such search may detain such person for such period as may be necessary to have the search carried out, which shall not in any case exceed twenty-four hours without the authorisation of a Magistrate, and may remove him in custody to such place as may be necessary to facilitate such search.
 
 (2) An investigating officer making a search of a person under subsection (1) may seize, detain, or take possession of any property, book or other document, or article, found upon such person for the purpose of the investigation being carried out by him.
 
 (3) No female person shall be searched under this section or under section 59 except by another female.
 
-Obstruction
+<!-- marginal: Obstruction -->
 
-61. (1) No person shall— to exercise of powers by
+61. (1) No person shall—
 
-(a) refuse any investigating officer exercising his an powers under section 59 or 60, access to any investigating officer. premises or part thereof, or fail to submit to the search of his person;
+<!-- marginal: to exercise -->
+
+<!-- marginal: of powers by -->
+
+(a) refuse any investigating officer exercising his
+
+<!-- marginal: an -->
+
+powers under section 59 or 60, access to any
+
+<!-- marginal: investigating -->
+
+<!-- marginal: officer. -->
+
+premises or part thereof, or fail to submit to the search of his person;
 
 (b) assault, obstruct, hinder or delay such investigating officer in effecting any entrance which he is entitled to effect;
 
@@ -2352,9 +2988,17 @@ in the exercise of any power under this Part, and such book or other document or
 
 (4) Any person who contravenes subsection (2) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one million ringgit and, in the case of a continuing offence, to a fine not exceeding one thousand ringgit for each day during which the offence continues after conviction.
 
-Power to
+<!-- marginal: Power to -->
 
-63. (1) Where an investigating officer suspects any examine person to have committed an offence under this Act, he persons. may, if in his opinion it is reasonably necessary to do so for the purposes of investigation into such offence—
+63. (1) Where an investigating officer suspects any
+
+<!-- marginal: examine -->
+
+person to have committed an offence under this Act, he
+
+<!-- marginal: persons. -->
+
+may, if in his opinion it is reasonably necessary to do so for the purposes of investigation into such offence—
 
 (a) order any person orally or in writing to attend before him for the purpose of being examined orally by the investigating officer in relation to any matter which may, in the opinion of the investigating officer, assist in the investigation into the offence;
 
@@ -2444,9 +3088,17 @@ of the person suspected to have committed an offence under this Act;
 
 (c) any body corporate or unincorporate in which any person referred to in paragraph (a) is a director or officer or, where such body is a corporation, has an interest in the shares of the corporation.
 
-Assistance to
+<!-- marginal: Assistance to -->
 
-65. The Minister may on his own initiative, or on the police or request of a public officer— other public officer.
+65. The Minister may on his own initiative, or on the
+
+<!-- marginal: police or -->
+
+request of a public officer—
+
+<!-- marginal: other public -->
+
+<!-- marginal: officer. -->
 
 (a) supply to a police officer or any other public officer a copy of any book or other document seized, detained or taken possession of under section 59 or 60, or of any record of examination under paragraph 63(l)(a), or of any written statement on oath or affirmation made under paragraph 63(1)(c), or of any book or other document produced under paragraph 63(1)(6), or otherwise in the course of any examination under paragraph 63(1)(a), or under any written statement on oath or affirmation made pursuant to paragraph 63(1)(c), and such police officer or other public officer may make such use of such copy of such record, statement, book or other document as may be necessary or expedient in relation to the exercise of his powers, the performance of his functions, or the discharge of his duties, in respect of any person; or
 
@@ -2526,11 +3178,25 @@ specifically into the affairs of any individual customer of the Bank.
 
 (1) or (3) shall be guilty of an offence and shall, on conviction be liable to a fine not exceeding three million ringgit or to imprisonment for a term not exceeding three years or to both.
 
-Disclosure
+<!-- marginal: Disclosure -->
 
-69. The provisions of section 68 shall not apply to the for disclosure of any information or document— facilitating performance of functions
+69. The provisions of section 68 shall not apply to the
 
-(a) to the Minister or to any officer of the of Minister. Government or to any person appointed by the Minister under section 88, where the disclosure is for the purpose of the exercise of powers, the performance of functions or the discharge of duties of the Minister, or of the officer of the Government or of the person appointed under section 88; or
+<!-- marginal: for -->
+
+disclosure of any information or document—
+
+<!-- marginal: facilitating -->
+
+<!-- marginal: performance -->
+
+<!-- marginal: of functions -->
+
+(a) to the Minister or to any officer of the
+
+<!-- marginal: of Minister. -->
+
+Government or to any person appointed by the Minister under section 88, where the disclosure is for the purpose of the exercise of powers, the performance of functions or the discharge of duties of the Minister, or of the officer of the Government or of the person appointed under section 88; or
 
 (b) to any person rendering professional services to the Minister in relation to any matter of law, accountancy, valuation, or any other matter requiring professional knowledge, where he is authorised in writing by the Minister to obtain information from the Bank for the purpose of his services to the Minister.
 
@@ -2572,11 +3238,35 @@ the disclosure of any information or document—
 
 (2) In any civil proceedings under paragraph (1)(b) or (d) where any information or document is likely to be disclosed in relation to a customer's account, such proceedings may, if the court, of its own motion, or on the application of a party to the proceedings, so orders, be held in camera and in such case, the information or document shall be secret as between the court and the parties thereto, and no such party shall disclose such information or document to any other person.
 
-(3) Unless the court otherwise order, no person shall publish the name, address or photograph of any parties to such civil proceedings as are referred to in subsection (2), or any information likely to lead to the identification of the parties thereto, either during the currency of the proceedings or at any time after they have been concluded.
+(3) Unless the court otherwise order, no person shall publish the name, address or photograph of any parties to such civil proceedings as are referred to in subsection
 
-(4) Any person who fails to comply with subsection (2) or (3) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding three million ringgit or to imprisonment for a term not exceeding three years or to both.
+(2), or any information likely to lead to the identification of the parties thereto, either during the currency of the proceedings or at any time after they have been concluded.
 
-Disclosure 71. Nothing in this Part shall limit any powers conferred under upon the High Court or a judge thereof by the Banker's Banker's Books Books (Evidence) Act 1949 or to prohibit obedience to (Evidence) Act 1949. an order made under that Act. Act 33.
+(4) Any person who fails to comply with subsection
+
+(2) or (3) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding three million ringgit or to imprisonment for a term not exceeding three years or to both.
+
+<!-- marginal: Disclosure -->
+
+71. Nothing in this Part shall limit any powers conferred
+
+<!-- marginal: under -->
+
+upon the High Court or a judge thereof by the Banker's
+
+<!-- marginal: Banker's -->
+
+<!-- marginal: Books -->
+
+Books (Evidence) Act 1949 or to prohibit obedience to
+
+<!-- marginal: (Evidence) -->
+
+<!-- marginal: Act 1949. -->
+
+an order made under that Act.
+
+<!-- marginal: Act 33. -->
 
 <!-- page 93 -->
 
@@ -2608,7 +3298,9 @@ or
 
 in any book or record, or in any report, slip, statement or other document, relating to the business, affairs, transactions, condition, property, assets, liabilities or accounts, of the Bank.
 
-(2) Any person who fails to comply with subsection (1) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding ten million ringgit or to imprisonment for a term not exceeding ten years or to both.
+(2) Any person who fails to comply with subsection
+
+(1) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding ten million ringgit or to imprisonment for a term not exceeding ten years or to both.
 
 <!-- marginal: Offences by -->
 
@@ -2632,11 +3324,31 @@ Provided that such act, omission, neglect or default was committed by the princi
 
 on behalf of the principal, or by the clerk or servant of such agent in the course of his employment by such agent or otherwise on behalf of the agent.
 
-Defence. 74. It shall be a defence for any person who is charged with an offence by virtue of being a person responsible for the Bank to prove that the offence was committed without his consent or connivance and that he exercised all such diligence to prevent the commission of the offence as he ought to have exercised, having regard to the nature of his functions in the post held and to all the circumstances.
+<!-- marginal: Defence. -->
 
-Joinder of 75. Notwithstanding anything contained in any other offences. written law, where a person is accused of more than one offence under this Act, he may be charged with and tried at one trial for any number of such offences committed within the space of any length of time.
+74. It shall be a defence for any person who is charged with an offence by virtue of being a person responsible for the Bank to prove that the offence was committed without his consent or connivance and that he exercised all such diligence to prevent the commission of the offence as he ought to have exercised, having regard to the nature of his functions in the post held and to all the circumstances.
 
-Power of 76. (1) The Minister may, in a case where he deems it Minister to fit and proper to do so and subject to the prior written compound offences. consent of the Public Prosecutor, compound any offence committed by any person which is punishable under any provision of this Act, by making a written offer to such person to compound the offence by paying to the Minister within such time as may be specified in the offer such sum of money as may be specified in the offer which shall not exceed fifty per centum of the amount of the maximum fine (including the daily fine, if any, in the case of a continuing offence) to which that person would have been liable if he had been convicted of the offence.
+<!-- marginal: Joinder of -->
+
+75. Notwithstanding anything contained in any other
+
+<!-- marginal: offences. -->
+
+written law, where a person is accused of more than one offence under this Act, he may be charged with and tried at one trial for any number of such offences committed within the space of any length of time.
+
+<!-- marginal: Power of -->
+
+76. (1) The Minister may, in a case where he deems it
+
+<!-- marginal: Minister to -->
+
+fit and proper to do so and subject to the prior written
+
+<!-- marginal: compound -->
+
+<!-- marginal: offences. -->
+
+consent of the Public Prosecutor, compound any offence committed by any person which is punishable under any provision of this Act, by making a written offer to such person to compound the offence by paying to the Minister within such time as may be specified in the offer such sum of money as may be specified in the offer which shall not exceed fifty per centum of the amount of the maximum fine (including the daily fine, if any, in the case of a continuing offence) to which that person would have been liable if he had been convicted of the offence.
 
 (2) Any monies paid to the Minister pursuant to the provisions of subsection (1) shall be paid into and form part of the Federal Consolidated Fund.
 
@@ -2734,9 +3446,11 @@ shall be guilty of such offence and shall be liable to the penalty provided for 
 
 (2) Any provision of this Act which contains a reference to an offence under any specific provision of this Act shall be read as including a reference to an offence under subsection (1) in relation to the offence under that specific provision.
 
-General
+<!-- marginal: General -->
 
-81. Any person who contravenes— penalty.
+81. Any person who contravenes—
+
+<!-- marginal: penalty. -->
 
 (a) any provision of this Act; or
 
@@ -2748,7 +3462,23 @@ shall be guilty of an offence under such provision, and if no penalty is express
 
 ## GENERAL PROVISIONS
 
-Submission to 82. (1) If, for the purpose of the exercise of any of his Minister of powers, the performance of any of his functions, or the information required by discharge of any of his duties, under this Act, or under him. any other written law, the Minister requires any information from the Bank or from any corporation related to the Bank, on any matter relating to the affairs or business of the Bank or such corporation, the Bank or such corporation, shall submit such information to the Minister.
+<!-- marginal: Submission to -->
+
+82. (1) If, for the purpose of the exercise of any of his
+
+<!-- marginal: Minister of -->
+
+powers, the performance of any of his functions, or the
+
+<!-- marginal: information -->
+
+<!-- marginal: required by -->
+
+discharge of any of his duties, under this Act, or under
+
+<!-- marginal: him. -->
+
+any other written law, the Minister requires any information from the Bank or from any corporation related to the Bank, on any matter relating to the affairs or business of the Bank or such corporation, the Bank or such corporation, shall submit such information to the Minister.
 
 (2) Where the information obtained by the Minister under subsection (1) relates to the account or affairs of any customer of the Bank or corporation supplying the information, that information shall be secret as between
 
@@ -2786,9 +3516,19 @@ Provided that such act or such statement was done or made, or was omitted to be 
 
 (3) In subsection (2) "member of the administration" has the meaning assigned to it in Article 160(2) of the Federal Constitution.
 
-Control of
+<!-- marginal: Control of -->
 
-84. (1) If the Minister is of the opinion that any statement advertisements made in an advertisement issued by the Bank is false, issued by the Bank. deceptive, offensive or misleading, the Minister may by notice in writing direct the Bank to do all or any of the following:
+84. (1) If the Minister is of the opinion that any statement
+
+<!-- marginal: advertisements -->
+
+made in an advertisement issued by the Bank is false,
+
+<!-- marginal: issued by the -->
+
+<!-- marginal: Bank. -->
+
+deceptive, offensive or misleading, the Minister may by notice in writing direct the Bank to do all or any of the following:
 
 (a) cease the continued issue of the advertisement;
 
@@ -2836,9 +3576,7 @@ from the Bank, shall directly or indirectly, ask for or receive, or consent or a
 
 (2) The provisions of subsection (1) shall not in any manner derogate from, and shall be without prejudice to, any other written law relating to corruption or illegal gratification.
 
-(3) Any person who fails to comply with subsection
-
-(1) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding ten million ringgit or to imprisonment for a term not exceeding ten years or to both.
+(3) Any person who fails to comply with subsection (1) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding ten million ringgit or to imprisonment for a term not exceeding ten years or to both.
 
 <!-- marginal: Islamic -->
 
@@ -2868,21 +3606,51 @@ Advisory Council established under the Banking and Financial Institutions Act 19
 
 (4) For the purposes of this section—
 
-(a) "Islamic banking business" has the meaning Act 276. assigned to it by the Islamic Banking Act 1983; and
+(a) "Islamic banking business" has the meaning
+
+<!-- marginal: Act 276. -->
+
+assigned to it by the Islamic Banking Act 1983; and
 
 (b) "Islamic financial business" means any financial business, the aims and operations, of which, do not involve any element which is not approved by the religion of Islam.
 
-Regulations. 87. The Minister may, from into time to time, make such regulations as may be necessary or expedient for giving full effect to the provisions of this Act, for carrying out or achieving the objects and purposes of this Act or any provisions thereof, or for the further, better or more convenient implementation of the provisions of this Act.
+<!-- marginal: Regulations. -->
 
-Appointment 88. The Minister may, either generally or in any particular of persons. case, appoint any person who is not an officer of the Government, to render such assistance as he may specify in the exercise of his powers, the performance of his functions, or the discharge of his duties, under this Act.
+87. The Minister may, from into time to time, make such regulations as may be necessary or expedient for giving full effect to the provisions of this Act, for carrying out or achieving the objects and purposes of this Act or any provisions thereof, or for the further, better or more convenient implementation of the provisions of this Act.
 
-Protection
+<!-- marginal: Appointment -->
 
-89. In the performance of its functions under this Act, under the the Bank shall be accorded the protection of a banker Bills of Exchange Act under the Bills of Exchange Act 1949.
+88. The Minister may, either generally or in any particular
 
-1949. Act 204. Declaration
+<!-- marginal: of persons. -->
 
-90. (1) The Minister may, at any time by notice in the of holidays. Gazette, declare any day or days to be a holiday or holidays for the Bank.
+case, appoint any person who is not an officer of the Government, to render such assistance as he may specify in the exercise of his powers, the performance of his functions, or the discharge of his duties, under this Act.
+
+<!-- marginal: Protection -->
+
+89. In the performance of its functions under this Act,
+
+<!-- marginal: under the -->
+
+the Bank shall be accorded the protection of a banker
+
+<!-- marginal: Bills of -->
+
+<!-- marginal: Exchange Act -->
+
+under the Bills of Exchange Act 1949.
+
+1949.
+
+<!-- marginal: Act 204. -->
+
+<!-- marginal: Declaration -->
+
+90. (1) The Minister may, at any time by notice in the
+
+<!-- marginal: of holidays. -->
+
+Gazette, declare any day or days to be a holiday or holidays for the Bank.
 
 (2) The Bank shall not do any business with the public on any day declared as holiday for the Bank under the provisions of subsection (1).
 
@@ -2938,9 +3706,19 @@ agreement or arrangement entered into by or with Bank Simpanan Nasional before t
 
 <!-- page 102 -->
 
-Repeal and
+<!-- marginal: Repeal and -->
 
-94. (1) The Bank Simpanan Nasional Act 1974 is transitional repealed. provisions. Act 146. (2) Notwithstanding subsection (1), any regulations made under or in accordance with the repealed Act shall in so far as they are not inconsistent with this Act, continue in force until repealed, revoked or replaced by new regulations made under this Act.
+94. (1) The Bank Simpanan Nasional Act 1974 is
+
+<!-- marginal: transitional -->
+
+repealed.
+
+<!-- marginal: provisions. -->
+
+<!-- marginal: Act 146. -->
+
+(2) Notwithstanding subsection (1), any regulations made under or in accordance with the repealed Act shall in so far as they are not inconsistent with this Act, continue in force until repealed, revoked or replaced by new regulations made under this Act.
 
 ## EXPLANATORY STATEMENT
 

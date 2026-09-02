@@ -210,7 +210,9 @@ Land Office title) shall be capable of being subdivided into land parcels each o
 
 shall, within the period specified in subsection (4) and upon the issuance of certificate of completion and compliance, apply in accordance with section 10 for the subdivision of the building into parcels, the subdivision of building and land into parcels, or the subdivision of land into parcels, whichever is applicable, if at any time he has sold or agreed to sell any parcel in such building or land to any person or body.
 
-(4) The period within which the requirement of subsection (3) shall be complied with is as follows:
+(4) The period within which the requirement of subsection
+
+(3) shall be complied with is as follows:
 
 (a) if the sale of, or agreement to sell, any parcel of the building took place before the building is erected, the period is six months from the date of erection;
 
@@ -220,7 +222,9 @@ shall, within the period specified in subsection (4) and upon the issuance of ce
 
 (6) The period specified in subsection (2) or (4) may, on an application made before its expiry, be extended once by the Director for any further period not exceeding three months.
 
-(7) Where an application is not made within the period specified in subsection (2) or (4) and in the case of subsection (6) within the period of such extension granted in respect of a building or land, the original proprietor shall be guilty of an offence, and liable on conviction to a fine of not less than ten thousand ringgit but not more than one hundred thousand ringgit and to a further fine of not less than one hundred ringgit but not more than one thousand ringgit for every day during which the offence continues to be committed.
+(7) Where an application is not made within the period specified in subsection (2) or (4) and in the case of subsection
+
+(6) within the period of such extension granted in respect of a building or land, the original proprietor shall be guilty of an offence, and liable on conviction to a fine of not less than ten thousand ringgit but not more than one hundred thousand ringgit and to a further fine of not less than one hundred ringgit but not more than one thousand ringgit for every day during which the offence continues to be committed.
 
 <!-- page 10 -->
 
@@ -244,11 +248,7 @@ shall, within the period specified in subsection (4) and upon the issuance of ce
 
 "(I) except for special building, that the building or land to be subdivided into parcels have been certified by the local authority to be fit for occupation or use or certified in accordance with the provisions of any written law for the time being in force."; and
 
-(b) in paragraph (2)(c), by substituting for
-
-<!-- marginal: the words -->
-
-"building has not been certified by a public or local authority to be fit for occupation or use" the words "certificate of completion and compliance has not been issued".
+(b) in paragraph (2)(c), by substituting for the words "building has not been certified by a public or local authority to be fit for occupation or use" the words "certificate of completion and compliance has not been issued".
 
 <!-- page 11 -->
 
@@ -494,9 +494,7 @@ Provided that the Registrar may at any time thereafter, if it can be ascertained
 
 <!-- page 20 -->
 
-(2) Any proprietor who is not satisfied with the sum determined under subsection (1) may apply
-
-<!-- marginal: to -->
+(2) Any proprietor who is not satisfied with the sum determined under subsection (1) may apply to
 
 <!-- marginal: the -->
 
@@ -778,7 +776,9 @@ denote land parcels Storey Parcel................ Use PI, P2, etc., to
 
 ## PARCELS
 
-No LI ............... Parcel................ denote provisional Storey L2 ............... Parcel................ blocks
+No LI ............... Parcel................ denote provisional Storey L2 ............... Parcel................
+
+<!-- marginal: blocks -->
 
 ## PROVISIONAL
 
@@ -892,13 +892,17 @@ State : District *Town/Village/Mukim : Title Type : Title No. : Lot No. : Area :
 
 Purpose No. of Parcels Share Units/ Building/Provisional Provisional Share Block/Land Parcel Units
 
-Building/s Ml .. .. M2 .. ..
+<!-- marginal: Building/s -->
+
+<!-- marginal: Ml .. .. -->
+
+<!-- marginal: M2 .. .. -->
 
 <!-- page 32 -->
 
 Provisional Blocks/s PI........................ P2 .......................
 
-Land Parcel
+<!-- marginal: Land Parcel -->
 
 Total number of folios in certified strata plan
 
@@ -906,15 +910,33 @@ Title Date Version No. Page
 
 ## DETAILED INDEX
 
-Building/ List of Lists of Page No. of Share units
+Building/ List of Lists of
 
-<!-- marginal: Remarks -->
+<!-- marginal: Page No. of -->
 
-Title of Provisional storeys in parcels in of each Block/ each each building/ Parcel/ parcel/ Provisional Land Parcel building land area provisional Block/Land of each parcel block/land Parcel parcel (1) (2) (3) (4) (5)
+Share units Remarks
 
-<!-- marginal: (6) -->
+<!-- marginal: Title of -->
 
-Building/s: [Use Storey No. Parcel.......... ' M1.M2, etc., to Parcel.......... (Plan Folio denote completed Parcel.......... No ............ ) building] Parcel.......... Storey No. Parcel (Plan Folio Parcel.......... No. ) etc. Storey No. Parcel.......... (Plan Folio Ml ..................... Parcel.......... No. ) Parcel.......... Total ...............
+Provisional storeys in parcels in of each Block/ each each building/
+
+<!-- marginal: Parcel/ -->
+
+parcel/
+
+<!-- marginal: Provisional -->
+
+Land Parcel building land area provisional
+
+<!-- marginal: Block/Land -->
+
+of each parcel block/land
+
+<!-- marginal: Parcel -->
+
+parcel
+
+(1) (2) (3) (4) (5) (6) Building/s: [Use Storey No. Parcel.......... ' M1.M2, etc., to Parcel.......... (Plan Folio denote completed Parcel.......... No ............ ) building] Parcel.......... Storey No. Parcel (Plan Folio Parcel.......... No. ) etc. Storey No. Parcel.......... (Plan Folio Ml ..................... Parcel.......... No. ) Parcel.......... Total ...............
 
 M2 ....................
 
@@ -1342,11 +1364,29 @@ Title Date Version No. Page
 
 ## DETAILED INDEX
 
-Building/ List of List of
+Building/ List of List of Remarks
 
-<!-- marginal: Remarks -->
+<!-- marginal: Page No. of -->
 
-Page No. of Share units Provisional storeys in parcels in Title of of each each each building/ Block/ Parcel/ parcel/ building land area Provisional Land Parcel provisional of each parcel Block/Land block/land parcel Parcel
+Share units Provisional storeys in parcels in
+
+<!-- marginal: Title of -->
+
+of each each each building/ Block/
+
+<!-- marginal: Parcel/ -->
+
+parcel/ building land area
+
+<!-- marginal: Provisional -->
+
+Land Parcel provisional of each parcel
+
+<!-- marginal: Block/Land -->
+
+block/land parcel
+
+<!-- marginal: Parcel -->
 
 ### (2)
 
@@ -1356,7 +1396,7 @@ Page No. of Share units Provisional storeys in parcels in Title of of each each 
 
 ### (5)
 
-<!-- marginal: (6) -->
+(6)
 
 (1) Building/s: [Use Ml, M2, etc., to denote completed building]
 

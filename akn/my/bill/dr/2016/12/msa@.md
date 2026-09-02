@@ -26,7 +26,7 @@
 
 9. Kuasa untuk membuat peraturan-peraturan
 
-## Jadual
+## JADUAL
 
 <!-- page 3 -->
 
@@ -102,9 +102,13 @@ MAKA, OLEH YANG DEMIKIAN, DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 6 -->
 
-(b) semua jumlah wang yang kena dibayar kepada Bank dengan cara permohonan beli saham modal boleh panggilnya apabila dikehendaki oleh Bank, di bawah perenggan 3 Perkara 6 Perjanjian;
+(b) semua jumlah wang yang kena dibayar kepada Bank dengan cara permohonan beli saham modal boleh panggilnya apabila dikehendaki oleh Bank, di bawah perenggan 3
 
-(c) semua jumlah wang yang kena dibayar kepada Bank dengan cara permohonan beli tambahan oleh Kerajaan bagi saham modal Bank mengikut perenggan 3 dan 4 Perkara 5 Perjanjian; dan
+## Perkara 6 Perjanjian;
+
+(c) semua jumlah wang yang kena dibayar kepada Bank dengan cara permohonan beli tambahan oleh Kerajaan bagi saham modal Bank mengikut perenggan 3 dan 4
+
+## Perkara 5 Perjanjian; dan
 
 (d) semua jumlah wang yang kena dibayar kepada Bank di bawah mana-mana peruntukan lain Perjanjian.
 
@@ -126,7 +130,7 @@ MAKA, OLEH YANG DEMIKIAN, DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 7 -->
 
-## Jadual
+## JADUAL
 
 [Seksyen 3]
 
@@ -134,17 +138,17 @@ MAKA, OLEH YANG DEMIKIAN, DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ## UNDANG-UNDANG DI MALAYSIA
 
-## BaB IX
+## BAB IX
 
 ## STATUS, KEKEBALAN, KEISTIMEWAAN DAN PENGECUALIAN
 
-### Perkara 44 Maksud Bab
+## Perkara 44 Maksud Bab
 
 1. Bagi membolehkan Bank memenuhi maksudnya dan menunaikan fungsi yang diamanahkan kepadanya, status, kekebalan, keistimewaan dan pengecualian yang dinyatakan dalam Bab ini hendaklah diberikan kepada Bank dalam wilayah setiap anggota.
 
 2. Setiap anggota hendaklah dengan segera mengambil apa-apa tindakan yang perlu untuk menguatkuasakan dalam wilayah masing-masing peruntukan yang dinyatakan dalam Bab ini dan hendaklah memberitahu Bank tentang tindakan yang telah diambil.
 
-### Perkara 45 Status Bank
+## Perkara 45 Status Bank
 
 Bank hendaklah mempunyai keperibadian juridikal penuh dan, secara khususnya, keupayaan undang-undang:
 
@@ -156,7 +160,7 @@ Bank hendaklah mempunyai keperibadian juridikal penuh dan, secara khususnya, keu
 
 (iv) untuk mengambil apa-apa tindakan lain sebagaimana yang perlu atau berguna bagi maksud dan aktivitinya.
 
-### Perkara 46 Kekebalan daripada Prosiding Kehakiman
+## Perkara 46 Kekebalan daripada Prosiding Kehakiman
 
 1. Bank hendaklah menikmati kekebalan daripada tiap-tiap bentuk proses undang-undang, kecuali dalam hal keadaan yang berbangkit daripada atau yang berkaitan dengan pelaksanaan kuasanya untuk mengumpul dana, melalui pinjaman atau cara lain, untuk menjamin obligasi, atau untuk membeli dan menjual atau menaja jamin penjualan sekuriti, yang dalam hal keadaan itu tindakan boleh dibawa terhadap Bank hanya di mahkamah yang mempunyai bidang kuasa kompeten dalam wilayah sesebuah negara yang Bank mempunyai pejabat, atau telah melantik seorang ejen bagi maksud menerima penyampaian atau notis proses, atau telah mengeluarkan atau menjamin sekuriti.
 
@@ -166,21 +170,21 @@ Bank hendaklah mempunyai keperibadian juridikal penuh dan, secara khususnya, keu
 
 3. Harta dan aset Bank hendaklah, walau di mana pun terletak dan dipegang oleh sesiapa pun, kebal daripada semua bentuk penyitaan, penahanan atau pelaksanaan sebelum penyampaian penghakiman muktamad terhadap Bank.
 
-### Perkara 47 Kekebalan Aset dan Arkib
+## Perkara 47 Kekebalan Aset dan Arkib
 
 1. Harta dan aset Bank, walau di mana pun terletak dan dipegang oleh sesiapapun, hendaklah kebal daripada penggeledahan, rekuisisi, perampasan, ekspropriasi atau apa-apa bentuk pengambilan atau halang tebus lain melalui tindakan eksekutif atau perundangan.
 
 2. Arkib Bank, dan secara umum, semua dokumen yang dimiliki olehnya, atau yang dipegang olehnya, tidak boleh dicabul, walau di mana pun terletak dan dipegang oleh sesiapa pun.
 
-### Perkara 48 Kebebasan Aset daripada Sekatan
+## Perkara 48 Kebebasan Aset daripada Sekatan
 
 Setakat yang perlu untuk melaksanakan maksud dan fungsi Bank dengan berkesan, dan tertakluk kepada peruntukan Perjanjian ini, semua harta dan aset Bank hendaklah bebas daripada sekatan, peraturan-peraturan, kawalan dan penangguhan dalam apa-apa jua bentuk.
 
-### Perkara 49 Keistimewaan untuk Komunikasi
+## Perkara 49 Keistimewaan untuk Komunikasi
 
 Komunikasi rasmi Bank hendaklah diberikan layanan yang sama oleh setiap anggota sebagaimana layanan yang diberikan olehnya kepada komunikasi rasmi mana-mana anggota lain.
 
-### Perkara 50 Kekebalan dan Keistimewaan Pegawai dan Pekerja
+## Perkara 50 Kekebalan dan Keistimewaan Pegawai dan Pekerja
 
 Semua Gabenor, Pengarah, Pengganti, Presiden, Naib Presiden dan pegawai dan pekerja lain Bank, termasuk pakar dan perunding yang menjalankan misi atau perkhidmatan untuk Bank:
 
@@ -192,7 +196,7 @@ Semua Gabenor, Pengarah, Pengganti, Presiden, Naib Presiden dan pegawai dan peke
 
 (iii) hendaklah diberikan layanan yang sama berkenaan dengan kemudahan perjalanan sebagaimana yang diberikan oleh anggota kepada wakil, pegawai dan pekerja yang berpangkat setanding bagi anggota lain.
 
-### Perkara 51 Pengecualian Cukai
+## Perkara 51 Pengecualian Cukai
 
 1. Bank, asetnya, hartanya, pendapatannya dan operasi dan urus niaganya menurut Perjanjian ini, hendaklah dikecualikan daripada semua cukai dan duti kastam. Bank juga hendaklah dikecualikan daripada apa-apa obligasi untuk pembayaran, pegangan atau pemungutan apa-apa cukai atau duti.
 

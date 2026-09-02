@@ -40,33 +40,55 @@ Perajurit 1973, yang disebut "Akta ibu" dalam Akta ini, adalah dipinda—
 
 (d) dengan menggantikan perkataan "angkatan tentera tetap'1 di mana-mana jua terdapat di dalamnya dengan perkataan "angkatan tetap".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Akta ibu adalah dipinda dengan menggantikan tajuk tajuk panjang dengan tajuk panjang yang berikut: panjang.
+3. Akta ibu adalah dipinda dengan menggantikan tajuk
+
+<!-- marginal: tajuk -->
+
+panjang dengan tajuk panjang yang berikut:
+
+<!-- marginal: panjang. -->
 
 "Suatu Akta untuk mengadakan peruntukan bagi penubuhan suatu kumpulan wang yang dikenali sebagai Tabung Angkatan Tentera bagi maksud-maksud utama mengadakan faedah-faedah persaraan dan lain-lain faedah bagi pencarum, dan bagi maksud-maksud sampingan menggalakkan pembangunan sosio ekonomi dan kebajikan, dan menyediakan lain- lain faedah bagi, personel akan bersara dan personel bersara angkatan tetap Malaysia.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-4. Tajuk ringkas Akta ibu adalah dipinda dengan tajuk memotong perkataan "dan Tabung Bekas Perajurit". ringkas.
+4. Tajuk ringkas Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: tajuk -->
 
-5. Seksyen 2 Akta ibu adalah dipinda dengan seksyen 2. menggantikan noktah yang terdapat di hujung takrif "skim itu" dengan koma bertitik dan memasukkan selepasnya takrif yang berikut:
+memotong perkataan "dan Tabung Bekas Perajurit".
+
+<!-- marginal: ringkas. -->
+
+<!-- marginal: Pindaan -->
+
+5. Seksyen 2 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 2. -->
+
+menggantikan noktah yang terdapat di hujung takrif "skim itu" dengan koma bertitik dan memasukkan selepasnya takrif yang berikut:
 
 ' "Tabung" ertinya Tabung Angkatan Tentera yang ditubuhkan di bawah seksyen 3.'.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-6. Tajuk kepada Bahagian II adalah dipinda dengan tajuk kepada memotong perkataan "DAN TABUNG BEKAS
+6. Tajuk kepada Bahagian II adalah dipinda dengan
+
+<!-- marginal: tajuk kepada -->
+
+memotong perkataan "DAN TABUNG BEKAS
 
 ## Bahagian II.
 
 ## PERAJURIT".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-7. Seksyen 3 Akta ibu adalah dipinda — seksyen 3.
+7. Seksyen 3 Akta ibu adalah dipinda —
+
+<!-- marginal: seksyen 3. -->
 
 (a) dengan menggantikan subseksyen (1) dengan subseksyen yang berikut:
 
@@ -76,13 +98,17 @@ Pindaan
 
 ## TABUNG BEKAS PERAJURIT (PINDAAN)
 
-disebut "Tabung") bagi maksud-maksud yang berikut :
+disebut "Tabung") bagi maksud-maksud yang
+
+<!-- marginal: berikut : -->
 
 (a) bagi maksud-maksud utama me- ngadakan faedah-faedah persaraan dan lain-lain faedah termasuk faedah-faedah di bawah skim yang ditubuhkan di bawah seksyen 15A, kepada orang-orang yang dinyatakan di bawah subseksyen (3)(a); dan
 
 (b) bagi maksud-maksud sampingan menggalakkan pembangunan sosio ekonomi dan kebajikan orang-orang yang dinyatakan di bawah sub- seksyen (3)(b).
 
-(1A) Yang berikut hendaklah dibayar ke dalam Tabung:
+(1A) Yang berikut hendaklah dibayar ke dalam
+
+<!-- marginal: Tabung: -->
 
 (a) semua caruman yang dibayar sebagaimana yang diperuntukkan kemudian daripada ini dan apa-apa jumlah wang lain sebagaimana yang diarahkan oleh Akta ini untuk dibayar ke dalam Tabung;
 
@@ -128,37 +154,73 @@ disebut "Tabung") bagi maksud-maksud yang berikut :
 
 angkatan tetap Malaysia.
 
-(4) Lembaga hanya boleh menggunakan apa- apa wang daripada Tabung bagi maksud- maksud yang disebutkan
-
-<!-- marginal: dalam -->
-
-subseksyen (1)(b), (2)(bb) dan (bc) jika Lembaga telah menggunakan wang yang disebutkan dalam subseksyen (1A)(bb) dan jika terdapat jumlah wang yang mencukupi untuk menunaikan obligasinya di bawah seksyen 11.".
+(4) Lembaga hanya boleh menggunakan apa- apa wang daripada Tabung bagi maksud- maksud yang disebutkan dalam subseksyen (1)(b), (2)(bb) dan (bc) jika Lembaga telah menggunakan wang yang disebutkan dalam subseksyen (1A)(bb) dan jika terdapat jumlah wang yang mencukupi untuk menunaikan obligasinya di bawah seksyen 11.".
 
 <!-- page 6 -->
 
-Pemotongan
+<!-- marginal: Pemotongan -->
 
-8. Seksyen 3A Akta ibu adalah dipotong. seksyen 3A.
+8. Seksyen 3A Akta ibu adalah dipotong.
 
-Pindaan
+<!-- marginal: seksyen 3A. -->
 
-9. Seksyen 5(3) Akta ibu adalah dipinda dengan seksyen 5. menggantikan perkataan "Angkatan Tentera atau Tabung Bekas Perajurit itu segala bayaran dan perbelanjaan yang dilakukan masing-masingnya di bawah seksyen 3 atau 3A" dengan perkataan "semua caj dan perbelanjaan yan g dilakukan sedemikian".
+<!-- marginal: Pindaan -->
 
-Pindaan
+9. Seksyen 5(3) Akta ibu adalah dipinda dengan
 
-10. Seksyen 6(1) Akta ibu adalah dipinda dengan seksyen 6. memotong perkataan "Angkatan Tentera, Tabung Bekas Perajurit".
+<!-- marginal: seksyen 5. -->
 
-Pindaan
+menggantikan perkataan "Angkatan Tentera atau Tabung Bekas Perajurit itu segala bayaran dan perbelanjaan yang dilakukan masing-masingnya di bawah seksyen 3 atau 3A" dengan perkataan "semua caj dan perbelanjaan yan g dilakukan sedemikian".
 
-11. Seksyen 15(1) Akta ibu adalah dipinda dengan seksyen 15. memotong perkataan "Angkatan Tentera, Tabung Bekas Perajurit".
+<!-- marginal: Pindaan -->
 
-Pindaan
+10. Seksyen 6(1) Akta ibu adalah dipinda dengan
 
-12. Perenggan (ga) seksyen 22 Akta ibu adalah dipinda seksyen 22. dengan memotong perkataan "Bekas Perajurit".
+<!-- marginal: seksyen 6. -->
 
-Pemindahan
+memotong perkataan "Angkatan Tentera, Tabung Bekas Perajurit".
 
-13. (1) Pada tarikh mula berkuatkuasanya Akta ini, hak harta Tabung Bekas Perajurit yang ditubuhkan di bawah seksyen dan tanggungan. 3A Akta ibu hendaklah digulung dan semua hak hart a peruntukan dan tanggungan yang menjadi hak atau tertakluk kepada pengecualian Tabung itu hendaklah menurut seksyen ini menjadi hak dan peralihan. harta dan tanggungan Tabung Angkatan Tentera melalui kuatkuasa undang-undang tanpa apa-apa keperluan untuk memberi apa-apa notis kepada mana-mana pihak yang terlibat dengan pemindahan ini.
+<!-- marginal: Pindaan -->
+
+11. Seksyen 15(1) Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 15. -->
+
+memotong perkataan "Angkatan Tentera, Tabung Bekas Perajurit".
+
+<!-- marginal: Pindaan -->
+
+12. Perenggan (ga) seksyen 22 Akta ibu adalah dipinda
+
+<!-- marginal: seksyen 22. -->
+
+dengan memotong perkataan "Bekas Perajurit".
+
+<!-- marginal: Pemindahan -->
+
+13. (1) Pada tarikh mula berkuatkuasanya Akta ini,
+
+<!-- marginal: hak harta -->
+
+Tabung Bekas Perajurit yang ditubuhkan di bawah seksyen
+
+<!-- marginal: dan -->
+
+<!-- marginal: tanggungan. -->
+
+3A Akta ibu hendaklah digulung dan semua hak hart a
+
+<!-- marginal: peruntukan -->
+
+dan tanggungan yang menjadi hak atau tertakluk kepada
+
+<!-- marginal: pengecualian -->
+
+Tabung itu hendaklah menurut seksyen ini menjadi hak
+
+<!-- marginal: dan peralihan. -->
+
+harta dan tanggungan Tabung Angkatan Tentera melalui kuatkuasa undang-undang tanpa apa-apa keperluan untuk memberi apa-apa notis kepada mana-mana pihak yang terlibat dengan pemindahan ini.
 
 (2) Pada tarikh mula berkuatkuasanya Akta ini, perbadanan, syarikat dan aktiviti dan akujanji perniagaan dan komersial dan juga apa-apa jua hak harta lain dan tanggungan yang ditubuhkan, diakujanjikan, diperolehi atau terakru di bawah Tabung Bekas Perajurit hendaklah melalui kuatkuasa undang-undang disifatkan telah ditubuhkan dan diakujanji oleh Tabung Angkatan Tentera dan hendaklah terus berkuatkuasa di bawah Tabung Angkatan Tentera itu.
 

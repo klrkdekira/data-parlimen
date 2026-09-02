@@ -150,9 +150,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (b) dengan memasukkan selepas perenggan (r) perenggan yang berikut:
 
-“(s) income tax shall be charged for each year of assessment upon the income of an individual, who is a partner of a limited liability partnership, which consists of profits derived from Malaysia paid, credited or distributed, whether in cash or in kind, to the individual by the limited liability partnership at the appropriate rate as specified in
-
-## Part XXIII of Schedule 1.”.
+“(s) income tax shall be charged for each year of assessment upon the income of an individual, who is a partner of a limited liability partnership, which consists of profits derived from Malaysia paid, credited or distributed, whether in cash or in kind, to the individual by the limited liability partnership at the appropriate rate as specified in Part XXIII of Schedule 1.”.
 
 <!-- page 5 -->
 
@@ -348,9 +346,7 @@ whichever is the earlier.”; dan
 
 ### Pindaan Jadual 1
 
-17. Jadual 1 kepada Akta ibu dipinda dengan memasukkan selepas
-
-## Bahagian XXII bahagian yang berikut:
+17. Jadual 1 kepada Akta ibu dipinda dengan memasukkan selepas Bahagian XXII bahagian yang berikut:
 
 “PArt XXIII
 
@@ -524,61 +520,9 @@ yang kena dibayar balik kepada seseorang di bawah subseksyen (1) boleh digunakan
 
 (ii) dengan memasukkan selepas perenggan (aa) dan butir-butir yang berhubungan dengannya perenggan dan butir-butir yang berikut:
 
-Item Description of
+Item Description of Proper Stamp Instrument Duty
 
-<!-- marginal: Proper Stamp -->
-
-Instrument
-
-<!-- marginal: Duty -->
-
-<!-- marginal: RM8.00 for every -->
-
-“(ab) On sale of
-
-<!-- marginal: RM100.00 or -->
-
-any residential
-
-<!-- marginal: fractional part -->
-
-property from
-
-<!-- marginal: of RM100.00 -->
-
-1 January 2026
-
-<!-- marginal: of the amount -->
-
-to a foreign
-
-<!-- marginal: of the money -->
-
-company or a
-
-<!-- marginal: value of the -->
-
-person who is
-
-<!-- marginal: consideration or -->
-
-not a citizen
-
-<!-- marginal: the market value -->
-
-and not a
-
-<!-- marginal: of the residential -->
-
-permanent
-
-<!-- marginal: property, -->
-
-resident
-
-<!-- marginal: whichever is the -->
-
-<!-- marginal: greater -->
+RM8.00 for every “(ab) On sale of RM100.00 or any residential fractional part property from of RM100.00 1 January 2026 of the amount to a foreign of the money company or a value of the person who is consideration or not a citizen the market value and not a of the residential permanent property, resident whichever is the greater
 
 <!-- marginal: ”; dan -->
 
@@ -798,13 +742,11 @@ tempoh tiga tahun selepas pemerolehan itu boleh ditentukan berdasarkan amaun cuk
 
 Perenggan 23(c) bertujuan untuk memasukkan subseksyen baharu 21B(1B), (1c) dan (1d) ke dalam Akta 169.
 
-Subseksyen baharu 21B(1B) Akta 169 yang dicadangkan bertujuan untuk memperuntukkan bahawa jumlah wang yang dipegang simpan oleh seorang pemeroleh yang berhubungan dengan pelupusan suatu aset yang boleh dikenakan cukai oleh seorang pelupus yang tertakluk kepada kadar cukai di bawah
+Subseksyen baharu 21B(1B) Akta 169 yang dicadangkan bertujuan untuk memperuntukkan bahawa jumlah wang yang dipegang simpan oleh seorang pemeroleh yang berhubungan dengan pelupusan suatu aset yang boleh dikenakan cukai oleh seorang pelupus yang tertakluk kepada kadar cukai di bawah Bahagian III Jadual 5 kepada Akta 169 boleh ditentukan berdasarkan amaun cukai atas keuntungan yang boleh dikenakan cukai yang disifatkan telah ditaksirkan di bawah subseksyen 14(1) Akta 169 sebagai tambahan kepada jumlah wang yang dipegang simpan berdasarkan kesemua wang atau suatu jumlah wang yang tidak melebihi tujuh peratus daripada jumlah nilai balasan itu.
 
-## Bahagian III Jadual 5 kepada Akta 169 boleh ditentukan berdasarkan amaun cukai atas
+Subseksyen baharu 21B(1c) Akta 169 yang dicadangkan bertujuan untuk memberi Ketua Pengarah kuasa untuk membenarkan pelanjutan masa bagi bayaran amaun cukai yang dinyatakan dalam subseksyen 21B(1), (1A) atau
 
-keuntungan yang boleh dikenakan cukai yang disifatkan telah ditaksirkan di bawah subseksyen 14(1) Akta 169 sebagai tambahan kepada jumlah wang yang dipegang simpan berdasarkan kesemua wang atau suatu jumlah wang yang tidak melebihi tujuh peratus daripada jumlah nilai balasan itu.
-
-Subseksyen baharu 21B(1c) Akta 169 yang dicadangkan bertujuan untuk memberi Ketua Pengarah kuasa untuk membenarkan pelanjutan masa bagi bayaran amaun cukai yang dinyatakan dalam subseksyen 21B(1), (1A) atau (1B) Akta 169.
+(1B) Akta 169.
 
 Subseksyen baharu 21B(1d) Akta 169 yang dicadangkan bertujuan untuk memperuntukkan bahawa pemeroleh boleh memegang simpan dan membayar amaun cukai yang disifatkan telah ditaksirkan di bawah subseksyen 14(1) Akta 169 kepada Ketua Pengarah jika pemberitahuan di bawah subseksyen baharu 13(9) Akta 169 diterima oleh pemeroleh sebelum amaun di bawah perenggan 21B(1)(a) atau (b), (1A)(a) atau (b), atau (1B)(a) atau (b) Akta 169 dibayar kepada Ketua Pengarah.
 

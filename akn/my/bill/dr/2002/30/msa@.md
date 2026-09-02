@@ -26,7 +26,115 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ## JADUAL
 
-Maksud Tajuk Amaun (RM) B. 1 Parlimen 51,603,900 B. 2 Pejabat Penyimpan Mohor Besar Raja-Raja 1,337,300 B. 3 Jabatan Audit 63,355,800 B. 4 Suruhanjaya Pilihan Raya 26,359,700 B. 5 Suruhanjaya Perkhidmatan Awam 28,204,000 B. 6 Suruhanjaya Perkhidmatan Pendidikan 7,500,100 B. 7 Jabatan Perdana Menteri 1,554,396,700 B. 8 Jabatan Perkhidmatan Awam 640,820,100 B. 9 Jabatan Perangkaan 75,526,300 B. 10 Jabatan Peguam Negara 55,707,000 B. 11 Badan Pencegah Rasuah 67,067,400 B. 12 Pejabat Setiausaha Persekutuan Sabah 4,351,700 B. 13 Pejabat Setiausaha Persekutuan Sarawak 3,558,900 B. 14 Kementerian Perumahan dan Kerajaan Tempatan 150,590,000 B. 15 Jabatan Perancangan Bandar dan Desa 33,337,000 B. 16 Jabatan Bomba dan Penyelaraat 528,271,300 B. 17 Kementerian Belia dan Sukan 227,528,500 B. 18 Kementerian Perusahaan Utama 195,877,300 B. 19 Kementerian Pertanian 1,377,834,830 B. 20 Kementerian Perdagangan Antarabangsa 233,395,300 dan Industri B. 21 Kementerian Perdagangan Dalam Negeri 163,714,000 dan Hal Ehwal Pengguna B. 22 Kementerian Kebudayaan, Kesenian dan 573,997,500 Pelancongan B. 23 Jabatan Arkib Negara 25,952,500 B. 24 Jabatan Muzium dan Antikuiti 24,220,200 B. 25 Kementerian Pertahanan 5,839,585,300 B. 26 Kementerian Pendidikan 18,132,862,910 B. 27 Jabatan Perpustakaan Negara 38,367,800
+Maksud Tajuk
+
+<!-- marginal: Amaun -->
+
+<!-- marginal: (RM) -->
+
+B. 1 Parlimen
+
+<!-- marginal: 51,603,900 -->
+
+B. 2 Pejabat Penyimpan Mohor Besar Raja-Raja
+
+<!-- marginal: 1,337,300 -->
+
+B. 3 Jabatan Audit
+
+<!-- marginal: 63,355,800 -->
+
+B. 4 Suruhanjaya Pilihan Raya
+
+<!-- marginal: 26,359,700 -->
+
+B. 5 Suruhanjaya Perkhidmatan Awam
+
+<!-- marginal: 28,204,000 -->
+
+B. 6 Suruhanjaya Perkhidmatan Pendidikan
+
+<!-- marginal: 7,500,100 -->
+
+B. 7 Jabatan Perdana Menteri
+
+<!-- marginal: 1,554,396,700 -->
+
+B. 8 Jabatan Perkhidmatan Awam
+
+<!-- marginal: 640,820,100 -->
+
+B. 9 Jabatan Perangkaan
+
+<!-- marginal: 75,526,300 -->
+
+B. 10 Jabatan Peguam Negara
+
+<!-- marginal: 55,707,000 -->
+
+B. 11 Badan Pencegah Rasuah
+
+<!-- marginal: 67,067,400 -->
+
+B. 12 Pejabat Setiausaha Persekutuan Sabah
+
+<!-- marginal: 4,351,700 -->
+
+B. 13 Pejabat Setiausaha Persekutuan Sarawak
+
+<!-- marginal: 3,558,900 -->
+
+B. 14 Kementerian Perumahan dan Kerajaan Tempatan
+
+<!-- marginal: 150,590,000 -->
+
+B. 15 Jabatan Perancangan Bandar dan Desa
+
+<!-- marginal: 33,337,000 -->
+
+B. 16 Jabatan Bomba dan Penyelaraat
+
+<!-- marginal: 528,271,300 -->
+
+B. 17 Kementerian Belia dan Sukan
+
+<!-- marginal: 227,528,500 -->
+
+B. 18 Kementerian Perusahaan Utama
+
+<!-- marginal: 195,877,300 -->
+
+B. 19 Kementerian Pertanian
+
+<!-- marginal: 1,377,834,830 -->
+
+B. 20 Kementerian Perdagangan Antarabangsa
+
+<!-- marginal: 233,395,300 -->
+
+dan Industri B. 21 Kementerian Perdagangan Dalam Negeri
+
+<!-- marginal: 163,714,000 -->
+
+dan Hal Ehwal Pengguna B. 22 Kementerian Kebudayaan, Kesenian dan
+
+<!-- marginal: 573,997,500 -->
+
+Pelancongan B. 23 Jabatan Arkib Negara
+
+<!-- marginal: 25,952,500 -->
+
+B. 24 Jabatan Muzium dan Antikuiti
+
+<!-- marginal: 24,220,200 -->
+
+B. 25 Kementerian Pertahanan
+
+<!-- marginal: 5,839,585,300 -->
+
+B. 26 Kementerian Pendidikan 18,132,862,910 B. 27 Jabatan Perpustakaan Negara
+
+<!-- marginal: 38,367,800 -->
 
 <!-- page 3 -->
 

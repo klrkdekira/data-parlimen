@@ -22,6 +22,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (a) dalam takrif “agensi pemerakuan”, dengan memasukkan selepas perkataan “seksyen 186” perkataan “atau 230a”;
 
+<!-- marginal: WJW24/1129 BM.indd 1 -->
+
 <!-- marginal: 27/11/2024 10:30 PM -->
 
 <!-- page 2 -->
@@ -43,6 +45,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 (e) dengan memasukkan selepas takrif “Menteri” takrif yang berikut:
 
 ‘ “menyiarkan”, apabila tiada cara dinyatakan, ertinya menyiarkan dalam laman sesawang Suruhanjaya;’;
+
+<!-- marginal: WJW24/1129 BM.indd 2 -->
 
 <!-- marginal: 27/11/2024 10:30 PM -->
 
@@ -73,6 +77,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 (l) dengan memasukkan selepas takrif “surat cara” takrif yang berikut:
 
 ‘ “suruhan bertulis” ertinya suruhan bertulis yang dikeluarkan oleh Suruhanjaya di bawah seksyen 63, 64, 65 dan 73;’.
+
+<!-- marginal: WJW24/1129 BM.indd 3 -->
 
 <!-- marginal: 27/11/2024 10:30 PM -->
 
@@ -106,6 +112,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 16a. Menteri boleh, atas syor Suruhanjaya, meminda Jadual melalui perintah yang disiarkan dalam Warta.”.
 
+<!-- marginal: WJW24/1129 BM.indd 4 -->
+
 <!-- marginal: 27/11/2024 10:30 PM -->
 
 <!-- page 5 -->
@@ -135,6 +143,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 ### Pindaan seksyen 45
 
 9. Subseksyen 45(2) Akta ibu dipinda dengan memotong perkataan “, yang hendaklah ditetapkan oleh Menteri melalui pemberitahuan dalam Warta,”.
+
+<!-- marginal: WJW24/1129 BM.indd 5 -->
 
 <!-- marginal: 27/11/2024 10:30 PM -->
 
@@ -186,6 +196,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (b) dengan menggantikan perkataan “tiga ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya” dengan perkataan “satu juta ringgit atau dipenjarakan selama tempoh tidak melebihi sepuluh tahun atau kedua-duanya dan juga boleh didenda selanjutnya sebanyak satu ratus ribu ringgit bagi tiap-tiap hari atau sebahagian daripada sehari kesalahan itu berterusan selepas pensabitan”.
 
+<!-- marginal: WJW24/1129 BM.indd 7 -->
+
 <!-- marginal: 27/11/2024 10:30 PM -->
 
 <!-- page 8 -->
@@ -218,6 +230,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (b) dalam subseksyen (2), dengan menggantikan perkataan “arahan” dengan perkataan “suruhan bertulis”.
 
+<!-- marginal: WJW24/1129 BM.indd 8 -->
+
 <!-- marginal: 27/11/2024 10:30 PM -->
 
 <!-- page 9 -->
@@ -249,6 +263,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 18. Seksyen 68 Akta ibu dipinda—
 
 (a) dalam teks bahasa kebangsaan, dengan menggantikan perkataan “kesalahan sivil atau jenayah” di mana-mana jua terdapat dengan perkataan “pelanggaran sivil atau kesalahan jenayah”; dan
+
+<!-- marginal: WJW24/1129 BM.indd 9 -->
 
 <!-- marginal: 27/11/2024 10:30 PM -->
 
@@ -304,6 +320,8 @@ mengenai apa-apa perkara di bawah Akta ini, perundangan subsidiarinya, apa-apa s
 
 (7) Bagi maksud seksyen ini, “akses” mempunyai erti yang sama yang diberikan kepadanya di bawah subseksyen 249(2).
 
+<!-- marginal: WJW24/1129 BM.indd 11 -->
+
 <!-- marginal: 27/11/2024 10:30 PM -->
 
 <!-- page 12 -->
@@ -329,6 +347,8 @@ mengenai apa-apa perkara di bawah Akta ini, perundangan subsidiarinya, apa-apa s
 ### “Ketakpatuhan suruhan bertulis
 
 74. Seseorang yang tidak mematuhi sesuatu suruhan bertulis Suruhanjaya di bawah Bab ini melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi satu juta ringgit atau dipenjarakan selama tempoh tidak melebihi
+
+<!-- marginal: WJW24/1129 BM.indd 12 -->
 
 <!-- marginal: 27/11/2024 10:30 PM -->
 
@@ -361,6 +381,8 @@ sebagai gerak balas kepada suatu suruhan bertulis yang dikeluarkan oleh Suruhanj
 ### Pindaan seksyen 79
 
 24. Subseksyen 79(1) Akta ibu dipinda dengan menggantikan perkataan “arahan” dengan perkataan “suruhan bertulis”.
+
+<!-- marginal: WJW24/1129 BM.indd 13 -->
 
 <!-- marginal: 27/11/2024 10:30 PM -->
 
@@ -424,6 +446,8 @@ sebagai gerak balas kepada suatu suruhan bertulis yang dikeluarkan oleh Suruhanj
 
 32. Subseksyen 97(5) Akta ibu dipinda dengan menggantikan perkataan “tiga tahun” dengan perkataan “satu tahun”.
 
+<!-- marginal: WJW24/1129 BM.indd 15 -->
+
 <!-- marginal: 27/11/2024 10:30 PM -->
 
 <!-- page 16 -->
@@ -486,6 +510,8 @@ sebagai gerak balas kepada suatu suruhan bertulis yang dikeluarkan oleh Suruhanj
 
 38. Subseksyen 110(2) Akta ibu dipinda dengan memotong perkataan “/atau”.
 
+<!-- marginal: WJW24/1129 BM.indd 17 -->
+
 <!-- marginal: 27/11/2024 10:30 PM -->
 
 <!-- page 18 -->
@@ -546,6 +572,8 @@ sebagai gerak balas kepada suatu suruhan bertulis yang dikeluarkan oleh Suruhanj
 
 (i) dengan menggantikan perkataan “ditentukan” dengan perkataan “ditetapkan”; dan
 
+<!-- marginal: WJW24/1129 BM.indd 19 -->
+
 <!-- marginal: 27/11/2024 10:30 PM -->
 
 <!-- page 20 -->
@@ -576,6 +604,8 @@ sebagai gerak balas kepada suatu suruhan bertulis yang dikeluarkan oleh Suruhanj
 
 (b) mana-mana syarat yang terpakai bagi lesen kelas yang dengannya pemegang lesen itu tertakluk.
 
+<!-- marginal: WJW24/1129 BM.indd 20 -->
+
 <!-- marginal: 27/11/2024 10:30 PM -->
 
 <!-- page 21 -->
@@ -605,6 +635,8 @@ sebagai gerak balas kepada suatu suruhan bertulis yang dikeluarkan oleh Suruhanj
 (b) perkhidmatan rangkaian atau kelas perkhidmatan rangkaian yang disyorkan; atau
 
 (c) mana-mana kemudahan atau perkhidmatan lain yang disyorkan yang memudahkan pemberian perkhidmatan rangkaian atau perkhidmatan aplikasi, termasuk perkhidmatan aplikasi kandungan,
+
+<!-- marginal: WJW24/1129 BM.indd 21 -->
 
 <!-- marginal: 27/11/2024 10:30 PM -->
 
@@ -670,6 +702,8 @@ dimasukkan atau dikeluarkan daripada senarai capaian, jika ia berpuas hati bahaw
 
 55. Subseksyen 155(2) Akta ibu dipinda dengan memotong perkataan “yang tersenarai dalam senarai capaian”.
 
+<!-- marginal: WJW24/1129 BM.indd 23 -->
+
 <!-- marginal: 27/11/2024 10:30 PM -->
 
 <!-- page 24 -->
@@ -729,6 +763,8 @@ dimasukkan atau dikeluarkan daripada senarai capaian, jika ia berpuas hati bahaw
 (b) dengan memasukkan selepas subseksyen (3) subseksyen yang berikut:
 
 “(4) Suruhanjaya boleh, pada bila-bila masa, mengubah suai, mengubah atau membatalkan rancangan penomboran dan pengalamatan elektronik dan menyiarkan pengubahsuaian, perubahan atau pembatalan itu.
+
+<!-- marginal: WJW24/1129 BM.indd 25 -->
 
 <!-- marginal: 27/11/2024 10:30 PM -->
 
@@ -793,6 +829,8 @@ dimasukkan atau dikeluarkan daripada senarai capaian, jika ia berpuas hati bahaw
 (a) dengan menggantikan subseksyen (2) dengan subseksyen yang berikut:
 
 “(2) Suruhanjaya boleh mengeluarkan suatu arahan di bawah seksyen 51 kepada mana-mana pemberi kemudahan rangkaian, pemberi perkhidmatan rangkaian,
+
+<!-- marginal: WJW24/1129 BM.indd 27 -->
 
 <!-- marginal: 27/11/2024 10:30 PM -->
 
@@ -864,6 +902,8 @@ perkataan “menetapkan”; dan
 
 73. Seksyen 202(1) Akta ibu dipinda dengan menggantikan perkataan “dan/atau perkhidmatan aplikasi” di mana-mana jua terdapat perkataan “atau perkhidmatan aplikasi atau kedua-duanya”.
 
+<!-- marginal: WJW24/1129 BM.indd 29 -->
+
 <!-- marginal: 27/11/2024 10:30 PM -->
 
 <!-- page 30 -->
@@ -926,6 +966,8 @@ yang secara nyata memberi kuasa bagi pemberian perkhidmatan aplikasi kandungan.�
 
 (b) mana-mana syarat lesen yang terpakai dalam lesen kelas yang dengannya pemegang lesen itu adalah tertakluk.
 
+<!-- marginal: WJW24/1129 BM.indd 31 -->
+
 <!-- marginal: 27/11/2024 10:30 PM -->
 
 <!-- page 32 -->
@@ -951,6 +993,8 @@ yang secara nyata memberi kuasa bagi pemberian perkhidmatan aplikasi kandungan.�
 (b) dalam subseksyen (4), dengan menggantikan perkataan “tiga tahun dari tarikh pendapat itu diberikan di bawah subseksyen (2)” dengan perkataan “satu tahun dari tarikh pendapat itu”; dan
 
 (c) dalam subseksyen (6), dengan memasukkan selepas perkataan “pendapat” perkataan “yang dibuat di bawah seksyen ini”.
+
+<!-- marginal: WJW24/1129 BM.indd 32 -->
 
 <!-- marginal: 27/11/2024 10:30 PM -->
 
@@ -989,6 +1033,8 @@ yang secara nyata memberi kuasa bagi pemberian perkhidmatan aplikasi kandungan.�
 ### “Penggantungan perkhidmatan aplikasi kandungan
 
 211a. Suruhanjaya boleh mengeluarkan suatu arahan di bawah seksyen 51 untuk mengarahkan suatu pemberi perkhidmatan aplikasi kandungan untuk menggantung perkhidmatannya bagi
+
+<!-- marginal: WJW24/1129 BM.indd 33 -->
 
 <!-- marginal: 27/11/2024 10:30 PM -->
 
@@ -1044,9 +1090,7 @@ tempoh yang dinyatakan dalam arahan itu, dalam mana-mana satu hal keadaan yang b
 
 ### Bab baharu 1a Bahagian X
 
-88. Akta ibu dipinda dengan memasukkan selepas Bab I dalam
-
-## Bahagian X bab yang berikut:
+88. Akta ibu dipinda dengan memasukkan selepas Bab I dalam Bahagian X bab yang berikut:
 
 “Bab 1a
 
@@ -1055,6 +1099,8 @@ Keselamatan Rangkaian
 ### Agensi pemerakuan
 
 230a. Suruhanjaya boleh mendaftarkan agensi pemerakuan atau kelas agensi pemerakuan, termasuk agensi di luar Malaysia, bagi maksud memperakui pematuhan peraturan-peraturan atau standard berhubung dengan keselamatan rangkaian di bawah Akta ini.
+
+<!-- marginal: WJW24/1129 BM.indd 35 -->
 
 <!-- marginal: 27/11/2024 10:30 PM -->
 
@@ -1083,6 +1129,8 @@ Keselamatan Rangkaian
 (c) dalam teks bahasa kebangsaan, dengan menggantikan perkataan “satu tahun” dengan perkataan “tiga tahun”; dan
 
 (d) dalam teks bahasa Inggeris, dengan menggantikan perkataan “two years” dengan perkataan “three years”.
+
+<!-- marginal: WJW24/1129 BM.indd 36 -->
 
 <!-- marginal: 27/11/2024 10:30 PM -->
 
@@ -1114,6 +1162,8 @@ Keselamatan Rangkaian
 
 “(3) Walau apa pun subseksyen (2), jika kesalahan di bawah perenggan (1)(a) dilakukan terhadap kanak-kanak yang berumur di bawah lapan belas tahun, orang yang melakukan kesalahan itu boleh, apabila disabitkan,
 
+<!-- marginal: WJW24/1129 BM.indd 37 -->
+
 <!-- marginal: 27/11/2024 10:30 PM -->
 
 <!-- page 38 -->
@@ -1127,6 +1177,8 @@ Huraian 2 — Kandungan sumbang boleh melibatkan kandungan yang bersifat tidak s
 Huraian 3 — Kandungan yang memaparkan bahagian sulit yang berasaskan seni, maklumat atau sains yang tidak melampau seperti pendidikan seksual atau bidang anatomi, adalah tidak lucah atau sumbang.
 
 Huraian 4 — Kandungan palsu boleh melibatkan kandungan atau maklumat yang tidak benar, mengelirukan, tidak lengkap atau mengada-adakan perkara yang tidak wujud. Kandungan berbentuk satira dan parodi atau dalam keadaan yang jelas bahawa ia ialah fiksyen, adalah tidak palsu.
+
+<!-- marginal: WJW24/1129 BM.indd 38 -->
 
 <!-- marginal: 27/11/2024 10:30 PM -->
 
@@ -1147,6 +1199,8 @@ Huraian 6 — Kandungan jelik melampau boleh termasuk kandungan yang memaki dan 
 (c) pemaparan keganasan dalam laporan berita berdasarkan etika kewartawanan adalah tidak jelik melampau. Berhubung dengan kanak-kanak, kandungan yang memaparkan adegan keganasan yang digambarkan dalam konteks kemanusiaan atau bagi tujuan perkembangan watak dan plot, adalah tidak jelik melampau; atau
 
 (d) apa-apa komunikasi yang dibuat dengan suci hati adalah tidak jelik melampau setakat mana komunikasi tersebut terdiri daripada pernyataan fakta, adalah benar pada isi dan fakta, dan terdiri daripada pernyataan pendapat.”; dan
+
+<!-- marginal: WJW24/1129 BM.indd 39 -->
 
 <!-- marginal: 27/11/2024 10:30 PM -->
 
@@ -1171,6 +1225,8 @@ melakukan suatu kesalahan.
 ### “Penghantaran pesanan elektronik komersial tanpa diminta
 
 233a. Seseorang tidak boleh menghantar atau menyebabkan untuk dihantar atau membenarkan penghantaran pesanan elektronik komersial tanpa diminta yang berlanggaran dengan mana-mana peruntukan Akta ini atau mana-mana peraturan di bawah Akta ini.”.
+
+<!-- marginal: WJW24/1129 BM.indd 40 -->
 
 <!-- marginal: 27/11/2024 10:30 PM -->
 
@@ -1197,6 +1253,8 @@ melakukan suatu kesalahan.
 (3) Seseorang yang melakukan suatu kesalahan di bawah subseksyen (1) atau (2) boleh, apabila disabitkan, didenda tidak melebihi lima ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
 
 (4) Dalam apa-apa pendakwaan bagi kesalahan di bawah subseksyen (2), mana-mana orang yang ada dalam milikannya apa-apa kemudahan rangkaian atau mana-mana bahagian daripadanya, sama ada dalam keadaan asal atau diubah adalah dianggap mengetahui atau ada sebab untuk mempercayai yang ia telah dikeluarkan dalam hal keadaan yang diperihalkan dalam subseksyen (1), melainkan jika dibuktikan sebaliknya.”.
+
+<!-- marginal: WJW24/1129 BM.indd 41 -->
 
 <!-- marginal: 27/11/2024 10:30 PM -->
 
@@ -1230,6 +1288,8 @@ melakukan suatu kesalahan.
 
 (d) dalam subseksyen (4), dalam takrif “peranti capaian lancung”, dengan memasukkan selepas perkataan “peranti capaian lancung” perkataan “, yang termasuklah mana-mana peranti capaian yang secara utamanya untuk membantu dalam penyahkodan suatu program pembawa isyarat yang disulitkan yang dihantar melalui apa-apa cara tanpa kebenaran pengedar sah isyarat itu”.
 
+<!-- marginal: WJW24/1129 BM.indd 42 -->
+
 <!-- marginal: 27/11/2024 10:30 PM -->
 
 <!-- page 43 -->
@@ -1259,6 +1319,8 @@ melakukan suatu kesalahan.
 98. Subseksyen 238(1) Akta ibu dipinda—
 
 (a) dengan menggantikan perkataan “lima puluh ribu” dengan perkataan “satu ratus ribu”; dan
+
+<!-- marginal: WJW24/1129 BM.indd 43 -->
 
 <!-- marginal: 27/11/2024 10:30 PM -->
 
@@ -1330,6 +1392,8 @@ melakukan suatu kesalahan.
 
 (3) Suatu tawaran di bawah subseksyen (2) boleh dibuat pada bila-bila masa selepas kesalahan telah dilakukan tetapi sebelum apa-apa pendakwaan baginya dimulakan.
 
+<!-- marginal: WJW24/1129 BM.indd 45 -->
+
 <!-- marginal: 27/11/2024 10:30 PM -->
 
 <!-- page 46 -->
@@ -1351,6 +1415,8 @@ melakukan suatu kesalahan.
 ### “Tuntutan fi, dll.
 
 244a. Walau apa pun peruntukan mana-mana undang-undang bertulis yang lain, apa-apa fi, caj, kadar, penalti kewangan atau jumlah lain yang kena dibayar di bawah Akta ini atau perundangan subsidiarinya boleh, tanpa menjejaskan apa-apa remedi atau sanksi yang lain, dituntut sebagai suatu hutang sivil.”.
+
+<!-- marginal: WJW24/1129 BM.indd 46 -->
 
 <!-- marginal: 27/11/2024 10:30 PM -->
 
@@ -1379,6 +1445,8 @@ melakukan suatu kesalahan.
 ### “Waran boleh diterima walaupun cacat
 
 248a. Suatu waran geledah yang dikeluarkan di bawah Akta ini adalah sah dan boleh dikuatkuasakan walau apa pun apa-apa kecacatan, kesilapan atau peninggalan dalam waran geledah itu atau dalam permohonan bagi waran itu dan apa-apa buku, akaun, dokumen, data berkomputer, rekod atau benda lain yang disita di bawah waran itu boleh diterima sebagai keterangan dalam mana-mana prosiding di bawah Akta ini.”.
+
+<!-- marginal: WJW24/1129 BM.indd 47 -->
 
 <!-- marginal: 27/11/2024 10:30 PM -->
 
@@ -1432,6 +1500,8 @@ melakukan suatu kesalahan.
 
 (b) dalam subseksyen (2), dengan memotong perkataan “dan kepada Ketua Polis Negara”.
 
+<!-- marginal: WJW24/1129 BM.indd 49 -->
+
 <!-- marginal: 27/11/2024 10:30 PM -->
 
 <!-- page 50 -->
@@ -1455,6 +1525,8 @@ melakukan suatu kesalahan.
 (d) dengan menggantikan subseksyen (4) dengan subseksyen yang berikut:
 
 “(4) Mahkamah hendaklah mengambil tahu apa-apa kebenaran oleh Pendakwa Raya di bawah seksyen ini.”.
+
+<!-- marginal: WJW24/1129 BM.indd 50 -->
 
 <!-- marginal: 27/11/2024 10:30 PM -->
 
@@ -1482,6 +1554,8 @@ pegawai polis atau pegawai diberi kuasa boleh, dengan notis bertulis diberikan k
 
 (3) Seseorang yang melanggar subseksyen (2) melakukan suatu kesalahan.
 
+<!-- marginal: WJW24/1129 BM.indd 51 -->
+
 <!-- marginal: 27/11/2024 10:30 PM -->
 
 <!-- page 52 -->
@@ -1508,6 +1582,8 @@ pegawai polis atau pegawai diberi kuasa boleh, dengan notis bertulis diberikan k
 
 (a) enggan memberi mana-mana pegawai diberi kuasa akses kepada mana-mana premis yang pegawai diberi kuasa itu berhak kepadanya di bawah Akta ini atau dalam melaksanakan apa-apa kewajipan yang dikenakan atau kuasa yang diberikan oleh Akta ini;
 
+<!-- marginal: WJW24/1129 BM.indd 52 -->
+
 <!-- marginal: 27/11/2024 10:30 PM -->
 
 <!-- page 53 -->
@@ -1533,6 +1609,8 @@ melakukan suatu kesalahan dan apabila disabit kesalahan, boleh didenda tidak mel
 115. Seksyen 263 Akta ibu dipinda—
 
 (a) dalam subseksyen (1), dengan memotong perkataan “dengan sedaya upayanya”;
+
+<!-- marginal: WJW24/1129 BM.indd 53 -->
 
 <!-- marginal: 27/11/2024 10:30 PM -->
 
@@ -1586,15 +1664,15 @@ melakukan suatu kesalahan dan apabila disabit kesalahan, boleh didenda tidak mel
 
 ### Kuasa untuk menyatakan bentuk dan cara pengemukaan
 
-### 268b.
-
-Jika di bawah mana-mana peruntukan Akta ini, perundangan subsidiarinya atau mana-mana surat cara yang dikeluarkan, dibuat atau diberikan di bawah Akta ini mana-mana orang dikehendaki untuk mengemukakan kepada Suruhanjaya apa-apa maklumat, rekod, penyata atau dokumen, Suruhanjaya boleh menyatakan yang maklumat, rekod, penyata atau dokumen itu dikemukakan dalam apa-apa bentuk atau cara dan dalam apa-apa tempoh atau pada apa-apa lat tempoh sebagaimana yang dinyatakan oleh Suruhanjaya.”.
+268B. Jika di bawah mana-mana peruntukan Akta ini, perundangan subsidiarinya atau mana-mana surat cara yang dikeluarkan, dibuat atau diberikan di bawah Akta ini mana-mana orang dikehendaki untuk mengemukakan kepada Suruhanjaya apa-apa maklumat, rekod, penyata atau dokumen, Suruhanjaya boleh menyatakan yang maklumat, rekod, penyata atau dokumen itu dikemukakan dalam apa-apa bentuk atau cara dan dalam apa-apa tempoh atau pada apa-apa lat tempoh sebagaimana yang dinyatakan oleh Suruhanjaya.”.
 
 ### Pindaan seksyen 269
 
 120. Seksyen 269 Akta ibu dipinda—
 
 (a) dalam subseksyen (2), dengan memotong perkataan “/atau”; dan
+
+<!-- marginal: WJW24/1129 BM.indd 55 -->
 
 <!-- marginal: 27/11/2024 10:30 PM -->
 
@@ -1641,6 +1719,8 @@ Subfasal 3(c) bertujuan untuk menetapkan penalti kewangan yang boleh dikenakan b
 5. Fasal 4 bertujuan untuk memasukkan seksyen baharu 16a ke dalam Akta 588 untuk memberi Menteri kuasa untuk meminda Jadual kepada Akta 588 melalui perintah yang disiarkan dalam Warta.
 
 6. Fasal 5 bertujuan untuk meminda seksyen 29 Akta 588 untuk memperuntukkan bahawa syor bertulis kepada Menteri oleh Suruhanjaya hendaklah diberikan selepas menerima semua maklumat berkaitan yang diminta di bawah seksyen 28 Akta 588.
+
+<!-- marginal: WJW24/1129 BM.indd 57 -->
 
 <!-- marginal: 27/11/2024 10:30 PM -->
 
@@ -1697,6 +1777,8 @@ Seksyen 73b yang dicadangkan bertujuan untuk memberi Suruhanjaya kuasa untuk men
 (c) untuk menaikkan penalti bagi kesalahan di bawah seksyen 75 Akta 588.
 
 20. Fasal 24 bertujuan untuk meminda seksyen 79 Akta 588 untuk menjelaskan bahawa surat cara yang digunakan ialah suatu suruhan bertulis dan bukan suatu arahan di bawah seksyen 51 Akta 588.
+
+<!-- marginal: WJW24/1129 BM.indd 59 -->
 
 <!-- marginal: 27/11/2024 10:30 PM -->
 
@@ -1764,6 +1846,8 @@ Subfasal 43(b) bertujuan untuk memasukkan “suruhan bertulis” sebagai suatu k
 
 Subfasal 46(a) bertujuan untuk menghendaki pemegang lesen untuk mematuhi semua syarat lesen.
 
+<!-- marginal: WJW24/1129 BM.indd 61 -->
+
 <!-- marginal: 27/11/2024 10:30 PM -->
 
 <!-- page 62 -->
@@ -1823,6 +1907,8 @@ Subseksyen 180(6) yang dicadangkan bertujuan untuk memberi Suruhanjaya kuasa men
 53. Fasal 67 bertujuan untuk meminda seksyen 188 Akta 588.
 
 Subfasal 67(a) bertujuan untuk menggantikan subseksyen 188(2) untuk memberi Suruhanjaya kuasa untuk mengeluarkan suatu arahan di bawah seksyen 51 Akta 588 bagi pematuhan obligasi di bawah subseksyen 188(1) Akta 588.
+
+<!-- marginal: WJW24/1129 BM.indd 63 -->
 
 <!-- marginal: 27/11/2024 10:30 PM -->
 
@@ -1886,6 +1972,8 @@ Subfasal 80(c) bertujuan untuk meminda subseksyen 211(2) Akta 588 untuk menaikka
 
 dengan kandungan atau ketakpatuhan surat cara yang berhubungan dengan pengawalseliaan kandungan.
 
+<!-- marginal: WJW24/1129 BM.indd 65 -->
+
 <!-- marginal: 27/11/2024 10:30 PM -->
 
 <!-- page 66 -->
@@ -1948,6 +2036,8 @@ Subfasal 95(d) bertujuan untuk meminda subseksyen 236(4) Akta 588 untuk menjelas
 
 81. Fasal 105 bertujuan untuk meminda seksyen 247 Akta 588.
 
+<!-- marginal: WJW24/1129 BM.indd 67 -->
+
 <!-- marginal: 27/11/2024 10:30 PM -->
 
 <!-- page 68 -->
@@ -2005,5 +2095,7 @@ Seksyen 268b yang dicadangkan bertujuan untuk memberi Suruhanjaya kuasa untuk me
 Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya belum dapat ditentukan sekarang ini.
 
 <!-- marginal: [PN(U2)2688] -->
+
+<!-- marginal: WJW24/1129 BM.indd 69 -->
 
 <!-- marginal: 27/11/2024 10:30 PM -->

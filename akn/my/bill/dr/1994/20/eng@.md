@@ -6,9 +6,23 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-1. Short title and commencement. 2. Interpretation. 3. Disbandment of Johore Military Forces.
+1. Short title and commencement.
 
-4. Members of the Porces deemed to be commissioned or enlisted. 5. Members of the Forces deemed to have retired. 6. Vesting of property. 7. Payments to be made under any financial arrangement. 8. Repeal of the Enactment. 9. Continuance of criminal and civil proceedings.
+2. Interpretation.
+
+3. Disbandment of Johore Military Forces.
+
+4. Members of the Porces deemed to be commissioned or enlisted.
+
+5. Members of the Forces deemed to have retired.
+
+6. Vesting of property.
+
+7. Payments to be made under any financial arrangement.
+
+8. Repeal of the Enactment.
+
+9. Continuance of criminal and civil proceedings.
 
 <!-- page 3 -->
 
@@ -56,15 +70,43 @@ under the Armed Forces Act 1972;
 
 "State Government" means the State Government of Johore;
 
-"the Enactment" means the Johore Military Forces En. No. 31. Enactment 1915.
+"the Enactment" means the Johore Military Forces
 
-Disbandment
+<!-- marginal: En. No. 31. -->
 
-3. On the appointed date, the Johore Military Forces of Johore shall be disbanded and members of the Forces shall on Military Forces. that date be demobilised.
+Enactment 1915.
 
-Members of
+<!-- marginal: Disbandment -->
 
-4. (1) Notwithstanding anything contained in the Armed the Forces Forces Act 1972, members of the Forces who deemed to be commissioned immediately before the appointed date have, with the or enlisted. approval of the Yang di-Pertuan Agong, been given options by the Armed Forces Council to serve in the armed forces and have accepted such options shall on the appointed date be deemed to have been commissioned or enlisted in the regular forces in accordance with the provisions of the Armed Forces Act 1972.
+3. On the appointed date, the Johore Military Forces
+
+<!-- marginal: of Johore -->
+
+shall be disbanded and members of the Forces shall on
+
+<!-- marginal: Military -->
+
+<!-- marginal: Forces. -->
+
+that date be demobilised.
+
+<!-- marginal: Members of -->
+
+4. (1) Notwithstanding anything contained in the Armed
+
+<!-- marginal: the Forces -->
+
+Forces Act 1972, members of the Forces who
+
+<!-- marginal: deemed to be -->
+
+<!-- marginal: commissioned -->
+
+immediately before the appointed date have, with the
+
+<!-- marginal: or enlisted. -->
+
+approval of the Yang di-Pertuan Agong, been given options by the Armed Forces Council to serve in the armed forces and have accepted such options shall on the appointed date be deemed to have been commissioned or enlisted in the regular forces in accordance with the provisions of the Armed Forces Act 1972.
 
 (2) Members of the Forces referred to in subsection (0—
 
@@ -124,15 +166,33 @@ property which immediately before the appointed date were vested in, or were in 
 
 <!-- page 6 -->
 
-Payments to
+<!-- marginal: Payments to -->
 
-7. (1) The Federal Government shall pay to the State be made Government any payment due to be made pursuant to any under any financial financial arrangement agreed to between the Federal arrangement. Government and the State Government in respect of the vesting of the property or assets referred to in section 6 in the Federal Government.
+7. (1) The Federal Government shall pay to the State
+
+<!-- marginal: be made -->
+
+Government any payment due to be made pursuant to any
+
+<!-- marginal: under any -->
+
+<!-- marginal: financial -->
+
+financial arrangement agreed to between the Federal
+
+<!-- marginal: arrangement. -->
+
+Government and the State Government in respect of the vesting of the property or assets referred to in section 6 in the Federal Government.
 
 (2) All payments due to be made under subsection (1) shall be charged on the Federal Consolidated Fund.
 
-Repeal of the
+<!-- marginal: Repeal of the -->
 
-8. (1) The Enactment and all subsidiary legislations Enactment. made thereunder are hereby repealed.
+8. (1) The Enactment and all subsidiary legislations
+
+<!-- marginal: Enactment. -->
+
+made thereunder are hereby repealed.
 
 (2) The repeal under subsection (1) shall not—
 
@@ -142,9 +202,19 @@ Repeal of the
 
 (c) affect the rights of the members of the Forces to any pensions, gratuities or other benefits under any other written law relating to such matter.
 
-Continuance
+<!-- marginal: Continuance -->
 
-9. (1) Subject to this Act, neither the repeal of the of criminal Enactment nor anything contained in this Act shall affect and civil proceedings. any person's liability to be prosecuted, court martialled or punished for offences committed under the Enactment before the appointed day, or any proceedings brought or sentence imposed before that day in respect of such offence.
+9. (1) Subject to this Act, neither the repeal of the
+
+<!-- marginal: of criminal -->
+
+Enactment nor anything contained in this Act shall affect
+
+<!-- marginal: and civil -->
+
+<!-- marginal: proceedings. -->
+
+any person's liability to be prosecuted, court martialled or punished for offences committed under the Enactment before the appointed day, or any proceedings brought or sentence imposed before that day in respect of such offence.
 
 (2) Subject to this Act, any proceedings (whether criminal or civil) or cause of action pending or existing immediately before the appointed day by or against any person acting on behalf of the Johore Military Forces may be continued or instituted by or against the Federal Government as it might have been by or against such person if this Act had not been passed.
 

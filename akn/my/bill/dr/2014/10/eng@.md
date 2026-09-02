@@ -90,7 +90,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 6. The principal Act is amended by inserting after section 46o the following Part:
 
-‘Part IVb
+## ‘PART IVB
 
 ## INTERNATIONAL TRANSFER OF PRISONERS
 

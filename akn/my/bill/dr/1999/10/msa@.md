@@ -74,11 +74,7 @@ Rang Undang-Undang
 
 6. Akta ibu dipinda dengan memasukkan selepas seksyen 14 seksyen yang berikut:
 
-14A. (1) Pesuruhjaya boleh,
-
-<!-- marginal: jika difikirkannya -->
-
-Penerbitan
+14A. (1) Pesuruhjaya boleh, jika difikirkannya Penerbitan
 
 ### jilid demi
 

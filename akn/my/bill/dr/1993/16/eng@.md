@@ -36,9 +36,17 @@ to have come into force on the 1st November 1991 and shall have effect for the y
 
 <!-- page 2 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-2. Subsection 2(1) of the Promotion of Investments Act of section 2 1986, which in this Act is referred to as the "principal Act 327- Act", is amended—
+2. Subsection 2(1) of the Promotion of Investments Act
+
+<!-- marginal: of section 2 -->
+
+1986, which in this Act is referred to as the "principal
+
+<!-- marginal: Act 327- -->
+
+Act", is amended—
 
 (a) by substituting for the words "Minister of Trade and Industry" in the definition of "Minister" the words "Minister of International Trade and Industry";
 
@@ -48,9 +56,11 @@ Amendment
 
 (d) by deleting the definition of "registered government programme".
 
-Amendment
+<!-- marginal: Amendment -->
 
-3. Section 4 of the principal Act is amended— of section 4.
+3. Section 4 of the principal Act is amended—
+
+<!-- marginal: of section 4. -->
 
 (a) by inserting, after the semicolon in paragraph
 
@@ -60,13 +70,15 @@ Amendment
 
 (c) by deleting paragraph (3)(c).
 
-New section
+<!-- marginal: New section -->
 
-4. The principal Act is amended by inserting, after 4A section 4, the following new section 4A:
+4. The principal Act is amended by inserting, after
 
-Activity or .
+<!-- marginal: 4A -->
 
-4A. Notwithstanding section 4, the Minister, product with the concurrence in writing of the Minister deemed to be of Finance, may on a case to case basis deem promoted any activity or product which is of national and activity or ' promoted ; strategic importance to Malaysia to be a product. promoted activity or promoted product.".
+section 4, the following new section 4A:
+
+Activity or . 4A. Notwithstanding section 4, the Minister, product with the concurrence in writing of the Minister deemed to be of Finance, may on a case to case basis deem promoted any activity or product which is of national and activity or ' promoted ; strategic importance to Malaysia to be a product. promoted activity or promoted product.".
 
 <!-- page 3 -->
 
@@ -96,13 +108,19 @@ Activity or .
 
 "(1AB) On receipt of an application under section 5(lA) the Minister may, subject to subsections (2) to (6), grant pioneer status if he is satisfied that the activity or product qualifies to be deemed as a promoted activity or promoted product under section 4A,"; and
 
-(d) by substituting for the words "decision to grant pioneer status under subsection (1A)" in paragraph (3)(a) the words "grant of pioneer status under subsection (1A) or (1AB)".
+(d) by substituting for the words "decision to grant pioneer status under subsection (1A)"
+
+<!-- marginal: in -->
+
+paragraph (3)(a) the words "grant of pioneer status under subsection (1A) or (1AB)".
 
 <!-- page 4 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-7. Subsection 14A(1) of the principal Act is amended— of section
+7. Subsection 14A(1) of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 14A.
 
@@ -110,29 +128,69 @@ Amendment
 
 (b) by inserting, after the word "activity" in line 5, the words "or an activity relating to the treatment of water".
 
-New sections
+<!-- marginal: New sections -->
 
-8. The principal Act is amended by inserting, after 14B and 14c. section 14A, the following new sections 14B and 14c:
+8. The principal Act is amended by inserting, after
 
-No exten-
+<!-- marginal: 14B and 14c. -->
 
-14B. Section 1 4A shall not apply to a pioneer sion of tax company where the application for pioneer relief period for status is received on or after 1st November application for pioneer
+section 14A, the following new sections 14B and 14c:
 
-1991. status received on or after 1st November
+No exten- 14B. Section 1 4A shall not apply to a pioneer sion of tax company where the application for pioneer
 
-1991. Extension
+<!-- marginal: relief -->
 
-14C. (I) Notwithstanding section 14B, a of tax company which has been granted pioneer status relief period for under section 6(lAB) may apply in writing for pioneer status an extension of the tax relief period which has granted been granted under section 14. under
+period for status is received on or after 1st November application for pioneer 1991.
 
-### 6(lAB).
+<!-- marginal: status -->
+
+<!-- marginal: received -->
+
+on or after
+
+<!-- marginal: 1st -->
+
+November
+
+1991.
+
+<!-- marginal: Extension -->
+
+14C. (I) Notwithstanding section 14B, a
+
+<!-- marginal: of tax -->
+
+company which has been granted pioneer status
+
+<!-- marginal: relief -->
+
+period for under section 6(lAB) may apply in writing for
+
+<!-- marginal: pioneer -->
+
+<!-- marginal: status -->
+
+an extension of the tax relief period which has
+
+<!-- marginal: granted -->
+
+been granted under section 14.
+
+<!-- marginal: under -->
+
+<!-- marginal: section -->
+
+<!-- marginal: 6(lAB). -->
 
 (2) The Minister with the concurrence in writing of the Minister of Finance may extend the tax relief period granted under section 14.
 
 (3) Subsections (3) to (7) of section 1 4A relating to an extension of the tax relief period shall apply, mutatis mutandis, to an application made under subsection (1).".
 
-Amendment
+<!-- marginal: Amendment -->
 
-9. Section 21 of the principal Act is amended— of section 21.
+9. Section 21 of the principal Act is amended—
+
+<!-- marginal: of section 21. -->
 
 (a) by substituting for the words "basis period" in paragraph (1)(b) the words "year of assessment"; and
 
@@ -154,7 +212,47 @@ Amendment
 
 section 2lA, the following new sections 21B and 21c:
 
-Compu- 2lB. (1) This section shall apply to a tation of company which has been granted pioneer status income during tax pursuant to an application for pioneer status relief received on or after 1st November 1991 other period in respect of than to a company which has been granted application received pioneer status under section 6(lAB). on or after 1st (2) Subject to any condition which may be November 1991 specified in the pioneer certificate of a company issued under section 7, the income of a pioneer company for each accounting period of its pioneer business shall be computed in accordance with the principal Act by—
+<!-- marginal: Compu- -->
+
+2lB. (1) This section shall apply to a
+
+<!-- marginal: tation of -->
+
+company which has been granted pioneer status
+
+<!-- marginal: income -->
+
+<!-- marginal: during -->
+
+tax pursuant to an application for pioneer status
+
+<!-- marginal: relief -->
+
+received on or after 1st November 1991 other
+
+<!-- marginal: period in -->
+
+<!-- marginal: respect of -->
+
+than to a company which has been granted
+
+<!-- marginal: application -->
+
+<!-- marginal: received -->
+
+pioneer status under section 6(lAB).
+
+<!-- marginal: on or after -->
+
+<!-- marginal: 1st -->
+
+(2) Subject to any condition which may be
+
+<!-- marginal: November -->
+
+<!-- marginal: 1991 -->
+
+specified in the pioneer certificate of a company issued under section 7, the income of a pioneer company for each accounting period of its pioneer business shall be computed in accordance with the principal Act by—
 
 (a) treating each such accounting period as the basis period for the year of assessment which includes the last day of the accounting period in question; and
 
@@ -174,11 +272,35 @@ Compu- 2lB. (1) This section shall apply to a tation of company which has been g
 
 (6) For the purposes of sections 97 and 99 of the principal Act, a statement served under subsection (5) shall be deemed to be a notice of assessment served under the principal Act (not being the notice relating to an assessment made under section 92 of the principal Act).
 
-Computation 21c. (1) This section shall apply to a of income company which has been granted pioneer status during tax relief period under section 6(lAB). in respect of pioneer sta- (2) Subject to any condition which may be tus granted specified in the pioneer certificate of a company under sec- tion 6(lAB). issued under section 7, the income of a pioneer company for each accounting period of its pioneer business shall be computed
+<!-- marginal: Computation -->
 
-<!-- marginal: in -->
+21c. (1) This section shall apply to a
 
-accordance with the principal Act by—
+<!-- marginal: of income -->
+
+company which has been granted pioneer status
+
+<!-- marginal: during tax -->
+
+<!-- marginal: relief period -->
+
+under section 6(lAB).
+
+<!-- marginal: in respect of -->
+
+<!-- marginal: pioneer sta- -->
+
+(2) Subject to any condition which may be
+
+<!-- marginal: tus granted -->
+
+specified in the pioneer certificate of a company
+
+<!-- marginal: under sec- -->
+
+<!-- marginal: tion 6(lAB). -->
+
+issued under section 7, the income of a pioneer company for each accounting period of its pioneer business shall be computed in accordance with the principal Act by—
 
 (a) treating each such accounting period as the basis period for the year of assessment which includes the last day of the accounting period in question; and
 
@@ -224,11 +346,15 @@ section 26, the following new section 26A: Applica- 26A. (1) Any company intendi
 
 <!-- page 8 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-14. Paragraph (ii) of the proviso to subsection 27(1) of of section 27. the principal Act is amended by substituting for the words "five years" the words "three years".
+14. Paragraph (ii) of the proviso to subsection 27(1) of
 
-New section
+<!-- marginal: of section 27. -->
+
+the principal Act is amended by substituting for the words "five years" the words "three years".
+
+<!-- marginal: New section -->
 
 15. The principal Act is amended by inserting, after
 
@@ -244,9 +370,11 @@ Grant of 27A. (1) The Minister may grant approval in approval respect of an appl
 
 <!-- page 9 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-16. Section 28 of the principal Act is amended— of section 28.
+16. Section 28 of the principal Act is amended—
+
+<!-- marginal: of section 28. -->
 
 (a) in subsection (1)—
 
@@ -260,7 +388,11 @@ Amendment
 
 (ii) by inserting, after the numbers "27(2)" in paragraph (b), the numbers ", 27A(1), 27A(2)".
 
-Amendment 17 Section 29 of the principal Act is amended— of section 29.
+<!-- marginal: Amendment -->
+
+17 Section 29 of the principal Act is amended—
+
+<!-- marginal: of section 29. -->
 
 (a) by inserting, after the words "business of that company" in subsection (4), the words "in respect of a promoted activity or a promoted product";
 
@@ -276,13 +408,47 @@ Amendment 17 Section 29 of the principal Act is amended— of section 29.
 
 <!-- page 10 -->
 
-New sections
+<!-- marginal: New sections -->
 
-18. The principal Act is amended by inserting, after 29A and 29B. section 29, the following new sections 29A and 29B: " Invest- 29A. (1) This section shall apply
+18. The principal Act is amended by inserting, after
 
-<!-- marginal: to a -->
+<!-- marginal: 29A and 29B. -->
 
-ment tax company which has been granted approval for allowance in respect the purposes of investment tax allowance of appli- pursuant to an application received on or after cation received 1st November 1991 other than to a company on or which has been granted approval for the after 1st purposes of an investment tax allowance under November
+section 29, the following new sections 29A and 29B: "
+
+<!-- marginal: Invest- -->
+
+29A. (1) This section shall apply to a
+
+<!-- marginal: ment tax -->
+
+company which has been granted approval for
+
+<!-- marginal: allowance -->
+
+<!-- marginal: in respect -->
+
+the purposes of investment tax allowance
+
+<!-- marginal: of appli- -->
+
+pursuant to an application received on or after
+
+<!-- marginal: cation -->
+
+<!-- marginal: received -->
+
+1st November 1991 other than to a company
+
+<!-- marginal: on or -->
+
+which has been granted approval for the
+
+<!-- marginal: after 1st -->
+
+purposes of an investment tax allowance under
+
+<!-- marginal: November -->
 
 1991. section 27A.
 
@@ -300,15 +466,11 @@ ment tax company which has been granted approval for allowance in respect the pu
 
 ## PROMOTION OF INVESTMENTS (AMENDMENT)
 
-<!-- marginal: 1 1 -->
+1 1
 
 (d) shall, in the case of a surrender of approval under section 27(4), be given in respect of expenditure incurred from the date from which the approval is to take effect up to the date of surrender:
 
-Provided that— (i) where a company incurs capital expenditure from the date from which the approval is to take effect referred to in subsection (3)(b) in relation to a business which it is about to carry on in respect of a promoted activity or promoted product, that expenditure shall be deemed to be incurred in the basis period in which it commences to carry on the business; and (ii) where a company incurs capital expenditure prior to its application under section 27 and where the approval under section 27 is granted retro- spectively from a date earlier than the date on which the application is made,
-
-<!-- marginal: the -->
-
-allowance under this section in respect of that expenditure shall be given, subject to subsection (6), only for the year of assessment in the basis period in which the company is notified of the approval of the application.
+Provided that— (i) where a company incurs capital expenditure from the date from which the approval is to take effect referred to in subsection (3)(b) in relation to a business which it is about to carry on in respect of a promoted activity or promoted product, that expenditure shall be deemed to be incurred in the basis period in which it commences to carry on the business; and (ii) where a company incurs capital expenditure prior to its application under section 27 and where the approval under section 27 is granted retro- spectively from a date earlier than the date on which the application is made, the allowance under this section in respect of that expenditure shall be given, subject to subsection (6), only for the year of assessment in the basis period in which the company is notified of the approval of the application.
 
 (4) Where a company has been granted approval under section 27 in respect of an integrated agricultural activity, such company shall, within six years from the date of such approval, provide the Minister with such particulars as may be prescribed for the
 
@@ -334,9 +496,43 @@ Provided that the allowance or allowances arising under this subsection shall be
 
 (8) of section 29 relating to capital expenditure shall apply, mutatis mutandis, for the purposes of this section.
 
-Investment
+<!-- marginal: Investment -->
 
-29B. (1) Where a company which has been lax allow- granted approval under section 2 7A has ance for application incurred in the basis period for a year of under sec- assessment in respect of an activity or of tion 26A which has producing a product which is deemed under been ap- section 4A to be a promoted activity or proved under sec- promoted product capital expenditure for the tion 27A. purposes of that activity or the production of that product, there shall be given to the company for that year of assessment an investment tax allowance of one hundred per cent of that expenditure.
+29B. (1) Where a company which has been
+
+<!-- marginal: lax allow- -->
+
+granted approval under section 2 7A has
+
+<!-- marginal: ance for -->
+
+<!-- marginal: application -->
+
+incurred in the basis period for a year of
+
+<!-- marginal: under sec- -->
+
+assessment in respect of an activity or of
+
+<!-- marginal: tion 26A -->
+
+<!-- marginal: which has -->
+
+producing a product which is deemed under
+
+<!-- marginal: been ap- -->
+
+section 4A to be a promoted activity or
+
+<!-- marginal: proved -->
+
+<!-- marginal: under sec- -->
+
+promoted product capital expenditure for the
+
+<!-- marginal: tion 27A. -->
+
+purposes of that activity or the production of that product, there shall be given to the company for that year of assessment an investment tax allowance of one hundred per cent of that expenditure.
 
 (2) An allowance for expenditure given under subsection (1)—
 
@@ -364,9 +560,7 @@ promoted product for a year of assessment, effect cannot be given or cannot be g
 
 (2) and (3), so much of the allowance or allowances in question as cannot be given for that year shall be deemed to be an allowance to be given to the company under this section for the first subsequent year of assessment for which there is statutory income from that business, and so on for subsequent years of assessment until the company has received the whole of the allowance or allowances to which it is so entitled.
 
-(5) Where a company fails to comply with any of the terms or conditions under section 27 A at the end of the five years from the date from which the approval is to take effect, subsection (4) shall not apply to the allowance or allowances to which effect has not been given under this section for the year of assessment for which its basis period includes the last day of the period under subsection
-
-(2)(b).
+(5) Where a company fails to comply with any of the terms or conditions under section 27 A at the end of the five years from the date from which the approval is to take effect, subsection (4) shall not apply to the allowance or allowances to which effect has not been given under this section for the year of assessment for which its basis period includes the last day of the period under subsection (2)(b).
 
 (6) Where any income is exempt from tax by virtue of subsection (3), section 23 shall apply to that income (with any necessary modifications) as it applies to income exempt under section 22.
 
@@ -376,9 +570,13 @@ promoted product for a year of assessment, effect cannot be given or cannot be g
 
 (8) Notwithstanding subsection (7), "capital expenditure" shall not include capital expenditure incurred on buildings (which are used as living accommodation for persons), plant and machinery where such buildings, plant or machinery are provided wholly or partly for the use of a director or an individual who is a member of the management, administrative or clerical staff.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-19. Section 32 of the principal Act is amended by of section 32. substituting for subsection (5) the following:
+19. Section 32 of the principal Act is amended by
+
+<!-- marginal: of section 32. -->
+
+substituting for subsection (5) the following:
 
 "(5) This section shall not apply—
 
@@ -386,19 +584,29 @@ Amendment
 
 (b) to a company where the income of the company is derived from the operation of a factory in a promoted industrial area and such factory has commenced operations on or after the 1st January 1992.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-20. Section 33 of the principal Act is amended by of section 33 inserting, after subsection (4), the following new subsection (5): "(5) This section shall not apply to a small scale company which commences a business of the manufacture of products in Malaysia on or after 1st January 1992.".
+20. Section 33 of the principal Act is amended by
 
-Deletion of
+<!-- marginal: of section 33 -->
 
-21. The principal Act is amended by deleting section section 33A.
+inserting, after subsection (4), the following new subsection (5): "(5) This section shall not apply to a small scale company which commences a business of the manufacture of products in Malaysia on or after 1st January 1992.".
+
+<!-- marginal: Deletion of -->
+
+21. The principal Act is amended by deleting section
+
+<!-- marginal: section 33A. -->
 
 33A.
 
-Amendment
+<!-- marginal: Amendment -->
 
-22. Section 34 of the principal Act is amended by of section 34. substituting for subsection (4) the following:
+22. Section 34 of the principal Act is amended by
+
+<!-- marginal: of section 34. -->
+
+substituting for subsection (4) the following:
 
 "(4) This section shall apply—
 
@@ -450,7 +658,9 @@ word "Adjusted" in the heading to Chapter 4 the word
 
 (c) by substituting for subsection (2) the following;
 
-"(2) The amount of statutory income to be abated under subsection (1) shall be an amount ascertained by applying to
+"(2) The amount of statutory income to be abated under subsection (1) shall be an amount ascertained by applying
+
+<!-- marginal: to -->
 
 <!-- marginal: the -->
 
@@ -474,15 +684,21 @@ Provided that where the basis period of a company for the year of assessment 199
 
 (ii) by deleting the definition of "indigenous Malaysian materials".
 
-Amendment
+<!-- marginal: Amendment -->
 
-26. Section 36A of the principal Act is amended by of section substituting for the word "adjusted" wherever it appears
+26. Section 36A of the principal Act is amended by
+
+<!-- marginal: of section -->
+
+substituting for the word "adjusted" wherever it appears
 
 36A. therein the word "statutory".
 
-Amendment
+<!-- marginal: Amendment -->
 
-27. Subsection 37(1) of the principal Act is amended— of section 37.
+27. Subsection 37(1) of the principal Act is amended—
+
+<!-- marginal: of section 37. -->
 
 (a) by substituting for the word "adjusted" the word "statutory"; and
 

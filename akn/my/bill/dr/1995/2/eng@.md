@@ -40,13 +40,7 @@ amended—
 
 (a) shall, before he enters upon the duties of his office, take and subscribe before the Assembly an oath of office; and
 
-(b) shall, by virtue of holding his office, be a member of the Assembly additional to the members elected
-
-<!-- marginal: to -->
-
-<!-- marginal: the -->
-
-Assembly:
+(b) shall, by virtue of holding his office, be a member of the Assembly additional to the members elected to the Assembly:
 
 Provided that paragraph (b) shall not have effect for the purposes of the provisions of section 2 and no person shall be entitled by virtue of that paragraph to vote on any matter before the Assembly.
 

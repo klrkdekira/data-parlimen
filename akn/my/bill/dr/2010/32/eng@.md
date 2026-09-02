@@ -192,7 +192,9 @@ or any combination of two or more disciplinary punishments as may be provided fo
 
 (5) The Bank may at any time withdraw any surcharge in respect of which a satisfactory explanation has been received or if it otherwise appears that no surcharge should have been made, and the Bank shall immediately cause the Chief Executive to be notified of such withdrawal and the Chief Executive shall inform the person surcharged of the withdrawal.
 
-(6) The amount of any surcharge imposed under subsection (3) and not withdrawn under subsection (5) shall be a debt due to the Bank from the person surcharged and may be sued for and recovered in any court at the suit of the Bank and may also, if the Bank so directs, be recovered by deduction from—
+(6) The amount of any surcharge imposed under subsection
+
+(3) and not withdrawn under subsection (5) shall be a debt due to the Bank from the person surcharged and may be sued for and recovered in any court at the suit of the Bank and may also, if the Bank so directs, be recovered by deduction from—
 
 (a) the salary of the person surcharged; or
 

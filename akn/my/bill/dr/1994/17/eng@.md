@@ -4,7 +4,9 @@
 
 ### intituled
 
-An Act to amend the Subordinate Courts Rules Act 1955.
+An Act to amend the Subordinate Courts Rules Act
+
+1955.
 
 BE IT ENACTED by the Seri Paduka Baginda Yang di-Pertuan Agong with the advice and consent of the Dewan Negara and Dewan Rakyat in Parliament assembled, and by the authority of the same, as follows:
 

@@ -18,7 +18,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 2 -->
 
-## Schedule
+## SCHEDULE
 
 Purpose Title
 
@@ -66,7 +66,7 @@ B. 63 Ministry of Education
 
 <!-- marginal: 803,613,600 -->
 
-ToTal
+## TOTAL
 
 <!-- marginal: 60,174,928,000 -->
 

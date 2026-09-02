@@ -118,7 +118,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/40/eng@/~cl_2",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (2)— “(d) to visit any place of detention, institution and other place in accordance with procedures as may be prescribed by written laws or specified in the guidelines relating to such place of detention, institution and place and to make necessary recommendations;”; “(ea) in respect of children– (i) to receive any communication from children either directly or through any person or authority relating to the children’s complaints and needs and to act upon such complaints and needs; and (ii) to establish and adopt mechanisms and procedures in promoting the participation of children in matters that concern them; and”; and"
+        "@value": "in subsection (2)—"
       }
     },
     {
@@ -128,7 +128,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/40/eng@/~cl_2__para_a",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for paragraph (d) the following paragraph:"
+        "@value": "by substituting for paragraph (d) the following paragraph: “(d) to visit any place of detention, institution and other place in accordance with procedures as may be prescribed by written laws or specified in the guidelines relating to such place of detention, institution and place and to make necessary recommendations;”;"
       }
     },
     {
@@ -148,7 +148,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/40/eng@/~cl_2__para_a",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after paragraph (e) the following paragraph:"
+        "@value": "by inserting after paragraph (e) the following paragraph: “(ea) in respect of children– (i) to receive any communication from children either directly or through any person or authority relating to the children’s complaints and needs and to act upon such complaints and needs; and (ii) to establish and adopt mechanisms and procedures in promoting the participation of children in matters that concern them; and”; and"
       }
     },
     {

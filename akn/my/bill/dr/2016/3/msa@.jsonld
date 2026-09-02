@@ -1235,21 +1235,14 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_8",
       "@type": "akn:clause",
       "eli:number": "8",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_8__para_j",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II",
       "schema:name": {
         "@language": "ms",
         "@value": "Seseorang anggota Institut yang dilantik di bawah perenggan 7(a),"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_8__para_j",
-      "@type": "akn:paragraph",
-      "eli:number": "j",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_8",
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "atau (k) hendaklah, melainkan jika dia terlebih dahulu meletakkan atau mengosongkan jawatannya, memegang jawatan selama tempoh tidak melebihi dua tahun atas apa-apa syarat sebagaimana yang dinyatakan dalam surat cara pelantikannya dan dia hendaklah layak untuk dilantik semula. Anggota silih ganti"
+        "@value": "(j) atau (k) hendaklah, melainkan jika dia terlebih dahulu meletakkan atau mengosongkan jawatannya, memegang jawatan selama tempoh tidak melebihi dua tahun atas apa-apa syarat sebagaimana yang dinyatakan dalam surat cara pelantikannya dan dia hendaklah layak untuk dilantik semula. Anggota silih ganti"
       }
     },
     {
@@ -1472,7 +1465,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23__subsec_3",
       "schema:text": {
         "@language": "ms",
-        "@value": "semua wang, jumlah wang atau harta lain yang dengan apa-apa cara menjadi kena dibayar kepada atau terletak hak pada Institut berkenaan dengan apa-apa perkara yang bersampingan dengan fungsinya dan kuasanya. Perbelanjaan hendaklah dipertanggungkan pada Kumpulan Wang"
+        "@value": "semua wang, jumlah wang atau harta lain yang dengan apa-apa cara menjadi kena dibayar kepada atau terletak hak pada Institut berkenaan dengan apa-apa perkara yang bersampingan dengan fungsinya dan kuasanya. Perbelanjaan hendaklah dipertanggungkan pada Kumpulan"
       }
     },
     {

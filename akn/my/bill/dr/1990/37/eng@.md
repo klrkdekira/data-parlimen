@@ -18,7 +18,9 @@ BE IT ENACTED by the Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Ag
 
 <!-- marginal: expenditure -->
 
-hundred million ringgit ($600,000,000) from the
+hundred million ringgit ($600,000,000) from
+
+<!-- marginal: the -->
 
 <!-- marginal: for the -->
 
@@ -64,7 +66,13 @@ and five thousand and six hundred ringgit ($377,205,600) from the Consolidated F
 
 ## BILL
 
-Act A744. for by the Supply Act 1990 and the Supplementary Act A773 Supply (1989 and 1990) Act 1990.
+<!-- marginal: Act A744. -->
+
+for by the Supply Act 1990 and the Supplementary
+
+<!-- marginal: Act A773 -->
+
+Supply (1989 and 1990) Act 1990.
 
 (2) The said sum is appropriated for the purposes specified in the Second Schedule.
 
@@ -100,11 +108,19 @@ B. 18 Ministry of Primary Industries 26,417,000 B. 19 Ministry of Agriculture 68
 
 ### (1989 AND 1990)
 
-(No. 2)
+<!-- marginal: (No. 2) -->
 
-Purpose Title Appropriation to purpose
+Purpose Title Appropriation
 
-B. 44 Ministry of Information 1,742,100 B. 52 Ministry of Works 4,280,000
+<!-- marginal: to purpose -->
+
+B. 44 Ministry of Information
+
+<!-- marginal: 1,742,100 -->
+
+B. 52 Ministry of Works
+
+<!-- marginal: 4,280,000 -->
 
 ## TOTAL
 

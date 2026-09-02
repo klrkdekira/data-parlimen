@@ -54,7 +54,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 5. Akta ibu dipinda dengan memasukkan selepas seksyen 21 bahagian yang berikut:
 
-“Bahagian Iia
+## “BAHAGIAN IIA
 
 ## PEMUNYAAN BENEFISIAL
 

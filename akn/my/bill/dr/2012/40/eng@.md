@@ -4,17 +4,17 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 pRELIMINARy 1. Short title and commencement 2. Interpretation 3. prescription by Minister of additional business or activity 4. prescription by Bank of additional agreement, dealing, transaction or person 5. Classification of, and construction of references to, insurance business
 
-## Part II
+## PART II
 
 REGULATORy OBJECTIVES AND pOWERS AND FUNCTIONS OF BANK
 
 6. Regulatory objectives 7. powers and functions of Bank
 
-## Part III
+## PART III
 
 ## AUTHORIZATION AND REGISTRATION
 
@@ -22,7 +22,13 @@ Division 1
 
 Authorized business
 
-8. Authorized business to be carried on by authorized person 9. Application for authorization 10. Grant of licence by Minister 11. Approval by Bank 12. Requirements on minimum capital funds or surplus of assets over liabilities
+8. Authorized business to be carried on by authorized person 9. Application for authorization
+
+10. Grant of licence by Minister
+
+11. Approval by Bank
+
+12. Requirements on minimum capital funds or surplus of assets over liabilities
 
 <!-- page 2 -->
 
@@ -74,9 +80,15 @@ General matters
 
 <!-- page 3 -->
 
-26. Fees 27. publication of names of authorized persons and registered persons 28. Holding out as authorized person or registered person 29. Acting on behalf of unlicensed person
+26. Fees
 
-## Part IV
+27. publication of names of authorized persons and registered persons
+
+28. Holding out as authorized person or registered person
+
+29. Acting on behalf of unlicensed person
+
+## PART IV
 
 pAyMENT SySTEMS
 
@@ -84,23 +96,49 @@ Division 1
 
 Designation of payment systems and payment instruments
 
-30. Designation and revocation of designation of payment systems 31. Designation of payment instruments
+30. Designation and revocation of designation of payment systems
+
+31. Designation of payment instruments
 
 Division 2
 
 Requirements for operation of payment systems and issuance of designated payment instruments
 
-32. Application of this Act on payment systems 33. power of Bank to specify standards for payment systems 34. Direction to participants of designated payment system 35. Operational arrangements 36. power of Bank to inspect
+32. Application of this Act on payment systems
+
+33. power of Bank to specify standards for payment systems
+
+34. Direction to participants of designated payment system
+
+35. Operational arrangements
+
+36. power of Bank to inspect
 
 Division 3
 
 Finality of payment and netting arrangement
 
-37. Interpretation 38. power of Bank to issue certificate of finality 39. Revocation of certificate of finality 40. Application of this Division 41. Transfer order made after appointment of insolvency administrator 42. Finality of payment and netting arrangement 43. preservation of rights 44. Non-recognition of insolvency order by foreign court 45. Requirement to notify in event of insolvency, etc.
+37. Interpretation
+
+38. power of Bank to issue certificate of finality
+
+39. Revocation of certificate of finality
+
+40. Application of this Division
+
+41. Transfer order made after appointment of insolvency administrator
+
+42. Finality of payment and netting arrangement
+
+43. preservation of rights
+
+44. Non-recognition of insolvency order by foreign court
+
+45. Requirement to notify in event of insolvency, etc.
 
 <!-- page 4 -->
 
-## Part V
+## PART V
 
 pRUDENTIAL REQUIREMENTS
 
@@ -156,25 +194,57 @@ Transparency requirements
 
 <!-- page 5 -->
 
-65. Compliance with approved accounting standards 66. publication of financial statements
+65. Compliance with approved accounting standards
+
+66. publication of financial statements
 
 Division 4
 
 Auditors
 
-67. Appointment of auditor by institution 68. Appointment of auditor by Bank 69. Duties of auditor 70. Notice of cessation as auditor 71. Information to be provided to auditor 72. Reporting obligations of auditor 73. Qualified privilege and duty of confidentiality
+67. Appointment of auditor by institution
+
+68. Appointment of auditor by Bank
+
+69. Duties of auditor
+
+70. Notice of cessation as auditor
+
+71. Information to be provided to auditor
+
+72. Reporting obligations of auditor
+
+73. Qualified privilege and duty of confidentiality
 
 Division 5
 
 Appointed actuaries
 
-74. Appointment of actuary by licensed insurer 75. Appointment of actuary by Bank 76. Duties of appointed actuary 77. Cessation as appointed actuary 78. Notice of cessation as appointed actuary 79. Information to be provided to appointed actuary 80. Qualified privilege and duty of confidentiality
+74. Appointment of actuary by licensed insurer
+
+75. Appointment of actuary by Bank
+
+76. Duties of appointed actuary
+
+77. Cessation as appointed actuary
+
+78. Notice of cessation as appointed actuary
+
+79. Information to be provided to appointed actuary
+
+80. Qualified privilege and duty of confidentiality
 
 Division 6
 
 Insurance funds
 
-81. Establishment and maintenance of insurance funds 82. Requirements relating to insurance funds 83. Withdrawal from insurance funds 84. Assumption of risk
+81. Establishment and maintenance of insurance funds
+
+82. Requirements relating to insurance funds
+
+83. Withdrawal from insurance funds
+
+84. Assumption of risk
 
 <!-- page 6 -->
 
@@ -184,7 +254,7 @@ Subsidiaries
 
 85. Establishment or acquisition of subsidiaries and acquisition or holding of material interest in corporation
 
-## Part VI
+## PART VI
 
 OWNERSHIp, CONTROL AND TRANSFER OF BUSINESS
 
@@ -228,17 +298,61 @@ Interest in shares of approved person
 
 Division 4
 
-Transfer of business, reconstruction or amalgamation of licensed person 98. Interpretation 99. Approval required for reconstruction or amalgamation of licensed person 100. Approval required for business transfer scheme 101. Notification of business transfer scheme 102. Application to High Court for confirmation of business transfer scheme 103. Bank to be party to proceedings 104. Orders sought by transferor and transferee 105. publication of court order under section 102 106. Reimbursement of Bank’s expenses 107. prohibition of payment out of insurance fund
+Transfer of business, reconstruction or amalgamation of licensed person
 
-## Part VII
+98. Interpretation
+
+99. Approval required for reconstruction or amalgamation of licensed person
+
+100. Approval required for business transfer scheme
+
+101. Notification of business transfer scheme
+
+102. Application to High Court for confirmation of business transfer scheme
+
+103. Bank to be party to proceedings
+
+104. Orders sought by transferor and transferee
+
+105. publication of court order under section 102
+
+106. Reimbursement of Bank’s expenses
+
+107. prohibition of payment out of insurance fund
+
+## PART VII
 
 FINANCIAL GROUpS
 
-108. purpose of this part 109. Disapplication of sections 110 and 111 to licensed persons 110. Application to be financial holding company 111. power of Bank to require submission of application 112. Approval of application as financial holding company under section 110 or 111 113. Bank may approve more than one financial holding company 114. Business of financial holding company 115. prudential requirements on financial holding company and subsidiaries 116. power to issue directions to financial holding company and subsidiaries 117. General provisions dealing with directions 118. Consequences for failing to comply with directions 119. Additional provisions relating to paragraph 116(3)(e) 120. power to remove director or chief executive officer of financial holding company
+108. purpose of this part
+
+109. Disapplication of sections 110 and 111 to licensed persons
+
+110. Application to be financial holding company
+
+111. power of Bank to require submission of application
+
+112. Approval of application as financial holding company under section 110 or 111
+
+113. Bank may approve more than one financial holding company
+
+114. Business of financial holding company
+
+115. prudential requirements on financial holding company and subsidiaries
+
+116. power to issue directions to financial holding company and subsidiaries
+
+117. General provisions dealing with directions
+
+118. Consequences for failing to comply with directions
+
+119. Additional provisions relating to paragraph 116(3)(e)
+
+120. power to remove director or chief executive officer of financial holding company
 
 <!-- page 8 -->
 
-## Part VIII
+## PART VIII
 
 BUSINESS CONDUCT AND CONSUMER pROTECTION
 
@@ -290,29 +404,61 @@ Information and secrecy
 
 Division 5
 
-Restrictions relating to consumer protection 135. Application of this Division 136. Deposit 137. Restriction on accepting deposits 138. Advertisements for deposits 139. Restriction on use of certain words
+Restrictions relating to consumer protection
 
-## Part IX
+135. Application of this Division
+
+136. Deposit
+
+137. Restriction on accepting deposits
+
+138. Advertisements for deposits
+
+139. Restriction on use of certain words
+
+## PART IX
 
 MONEy MARKET AND FOREIGN EXCHANGE MARKET
 
-140. power of Bank to specify standards or issue codes 141. prohibited conduct in money market and foreign exchange market 142. Arrangement with relevant supervisory authority
+140. power of Bank to specify standards or issue codes
 
-## Part X
+141. prohibited conduct in money market and foreign exchange market
+
+142. Arrangement with relevant supervisory authority
+
+## PART X
 
 ## SUBMISSION OF DOCUMENT OR INFORMATION
 
-143. Submission of document or information to Bank 144. Submission of statistical information, etc. 145. Secrecy requirements under sections 143 and 144 not to apply
+143. Submission of document or information to Bank
 
-## Part XI
+144. Submission of statistical information, etc.
+
+145. Secrecy requirements under sections 143 and 144 not to apply
+
+## PART XI
 
 ## EXAMINATION
 
-146. Examination of authorized person, etc. 147. Duty to provide access to, and produce documents, information, etc. 148. Examination of other persons 149. Appearance before Bank 150. Examination or assessment by auditor or actuary 151. Confidential information 152. Examination by relevant overseas supervisory authority 153. Disclosure of information by Bank to relevant overseas supervisory authority
+146. Examination of authorized person, etc.
+
+147. Duty to provide access to, and produce documents, information, etc.
+
+148. Examination of other persons
+
+149. Appearance before Bank
+
+150. Examination or assessment by auditor or actuary
+
+151. Confidential information
+
+152. Examination by relevant overseas supervisory authority
+
+153. Disclosure of information by Bank to relevant overseas supervisory authority
 
 <!-- page 10 -->
 
-## Part XII
+## PART XII
 
 DIRECTIONS OF COMpLIANCE
 
@@ -368,27 +514,57 @@ Subdivision 2 - Assumption of control
 
 <!-- page 11 -->
 
-Subdivision 3 - Power to appoint receiver and manager 171. Interpretation 172. Appointment of receiver and manager by Bank 173. Appointment of receiver and manager by persons other than Bank 174. provisions in relation to appointment of receiver and manager
+Subdivision 3 - Power to appoint receiver and manager
+
+171. Interpretation
+
+172. Appointment of receiver and manager by Bank
+
+173. Appointment of receiver and manager by persons other than Bank
+
+174. provisions in relation to appointment of receiver and manager
 
 Subdivision 4 - Compulsory transfer of business, assets or liabilities
 
-175. Interpretation 176. Order for compulsory transfer of business, assets or liabilities 177. Additional provisions relating to compulsory transfer 178. Continuity obligations
+175. Interpretation
+
+176. Order for compulsory transfer of business, assets or liabilities
+
+177. Additional provisions relating to compulsory transfer
+
+178. Continuity obligations
 
 Subdivision 5 - Provisions relating to bridge institution
 
-179. Designation of bridge institution 180. publication of notice 181. Bridge institution authorized to carry on business 182. Bridge institution not liable for past obligations in respect of officers 183. Stay in respect of bridge institution 184. Financial assistance to bridge institution
+179. Designation of bridge institution
+
+180. publication of notice
+
+181. Bridge institution authorized to carry on business
+
+182. Bridge institution not liable for past obligations in respect of officers
+
+183. Stay in respect of bridge institution
+
+184. Financial assistance to bridge institution
 
 Subdivision 6 - Restructuring of share capital
 
-185. Interpretation 186. power to reduce share capital of institution
+185. Interpretation
+
+186. power to reduce share capital of institution
 
 Subdivision 7 - Financial assistance
 
-187. Interpretation 188. Liquidity or financial assistance to institution
+187. Interpretation
+
+188. Liquidity or financial assistance to institution
 
 Subdivision 8 - Moratorium
 
-189. Interpretation 190. Application for moratorium
+189. Interpretation
+
+190. Application for moratorium
 
 <!-- page 12 -->
 
@@ -448,7 +624,7 @@ General provisions in relation to actions taken by Bank
 
 <!-- page 13 -->
 
-## Part XIV
+## PART XIV
 
 OTHER pOWERS OF BANK
 
@@ -456,13 +632,21 @@ Division 1
 
 Regulation of prescribed financial institutions
 
-211. Interpretation 212. power of Minister to prescribe financial institutions
+211. Interpretation
+
+212. power of Minister to prescribe financial institutions
 
 Division 2
 
 International and domestic transactions
 
-213. Interpretation 214. Measures relating to international and domestic transactions 215. power of Bank to impose levies or charges 216. power of Bank, with approval of Minister, to issue directions
+213. Interpretation
+
+214. Measures relating to international and domestic transactions
+
+215. power of Bank to impose levies or charges
+
+216. power of Bank, with approval of Minister, to issue directions
 
 Division 3
 
@@ -470,7 +654,7 @@ Holidays for licensed person
 
 217. power of Minister to declare holiday for licensed person
 
-## Part XV
+## PART XV
 
 ENFORCEMENT AND pENALTIES
 
@@ -478,7 +662,17 @@ Division 1
 
 Investigation powers
 
-218. Investigation by Bank 219. Appointment of investigating officer 220. powers of investigating officer 221. powers of entry, search and seizure with warrant 222. powers of entry, search and seizure without warrant 223. List of seized property, etc.
+218. Investigation by Bank
+
+219. Appointment of investigating officer
+
+220. powers of investigating officer
+
+221. powers of entry, search and seizure with warrant
+
+222. powers of entry, search and seizure without warrant
+
+223. List of seized property, etc.
 
 <!-- page 14 -->
 
@@ -542,19 +736,57 @@ Division 4
 
 Criminal offences
 
-247. Imprisonment 248. Offences in relation to entries in documents 249. Offence committed by any person acting in official capacity 250. Offence by employees, etc. 251. Seizable offence 252. Duty of investigating officer to make over arrested person to police 253. power to compound 254. Attempts, abetments and conspiracies 255. prosecution
+247. Imprisonment
+
+248. Offences in relation to entries in documents
+
+249. Offence committed by any person acting in official capacity
+
+250. Offence by employees, etc.
+
+251. Seizable offence
+
+252. Duty of investigating officer to make over arrested person to police
+
+253. power to compound
+
+254. Attempts, abetments and conspiracies
+
+255. prosecution
 
 Division 5
 
 General matters
 
-256. protection in relation to disclosure of information to Bank 257. Evidential provision 258. power of Bank to publish information
+256. protection in relation to disclosure of information to Bank
 
-## Part XVI
+257. Evidential provision
+
+258. power of Bank to publish information
+
+## PART XVI
 
 GENERAL pROVISIONS
 
-259. Enforceable undertakings 260. Regulations 261. provisions relating to approvals, consents, specifications, notices, requirements, directions, standards, codes or measures 262. Opportunity to make representations 263. Exemptions 264. power of Minister to amend Schedule 265. Decision of Minister to be final 266. power of Bank to issue guidance 267. protection against suits and legal proceedings 268. Application of Companies Act 1965
+259. Enforceable undertakings
+
+260. Regulations
+
+261. provisions relating to approvals, consents, specifications, notices, requirements, directions, standards, codes or measures
+
+262. Opportunity to make representations
+
+263. Exemptions
+
+264. power of Minister to amend Schedule
+
+265. Decision of Minister to be final
+
+266. power of Bank to issue guidance
+
+267. protection against suits and legal proceedings
+
+268. Application of Companies Act 1965
 
 <!-- page 16 -->
 
@@ -586,7 +818,69 @@ REpEAL, SAVINGS AND TRANSITIONAL
 
 280. Savings in respect of financial holding company
 
-281. Savings in respect of deposits accepted by co-operative societies S chedule 1 S chedule 2 S chedule 3 S chedule 4 S chedule 5 S chedule 6 S chedule 7 S chedule 8 S chedule 9 S chedule 10 S chedule 11 S chedule 12 S chedule 13 S chedule 14 S chedule 15 S chedule 16
+281. Savings in respect of deposits accepted by co-operative societies S
+
+## CHEDULE 1
+
+S
+
+## CHEDULE 2
+
+S
+
+## CHEDULE 3
+
+S
+
+## CHEDULE 4
+
+S
+
+## CHEDULE 5
+
+S
+
+## CHEDULE 6
+
+S
+
+## CHEDULE 7
+
+S
+
+## CHEDULE 8
+
+S
+
+## CHEDULE 9
+
+S
+
+## CHEDULE 10
+
+S
+
+## CHEDULE 11
+
+S
+
+## CHEDULE 12
+
+S
+
+## CHEDULE 13
+
+S
+
+## CHEDULE 14
+
+S
+
+## CHEDULE 15
+
+S
+
+## CHEDULE 16
 
 <!-- page 17 -->
 
@@ -598,7 +892,7 @@ An Act to provide for the regulation and supervision of financial institutions, 
 
 ENACTED by the parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 pRELIMINARy
 
@@ -1260,7 +1554,7 @@ by way of business shall constitute the carrying on of an insurance business;
 
 (c) the businesses set out in Schedule 4 shall not be treated as insurance business.
 
-## Part II
+## PART II
 
 REGULATORy OBJECTIVES AND pOWERS AND
 
@@ -1304,7 +1598,7 @@ REGULATORy OBJECTIVES AND pOWERS AND
 
 as may be specified by the Bank.
 
-## Part III
+## PART III
 
 ## AUTHORIZATION AND REGISTRATION
 
@@ -1362,7 +1656,9 @@ Authorized business
 
 (4) The Bank shall notify the applicant in writing of its decision under subsection (2).
 
-(5) Where the Bank approves an application under paragraph (2)(a), an approved person shall commence its approved business within a period or such further period as may be specified by the Bank.
+(5) Where the Bank approves an application under paragraph
+
+(2)(a), an approved person shall commence its approved business within a period or such further period as may be specified by the Bank.
 
 (6) Any person who contravenes subsection (3) commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding five years or to a fine not exceeding ten million ringgit or to both.
 
@@ -1564,7 +1860,9 @@ regardless that there has been no prosecution or other action in respect of such
 
 (7) The Bank may, with the approval of the Minister, revoke an approval granted under subsection (4) if it is in the national interest to do so.
 
-(8) Any person who contravenes subsection (1) or (2) or fails to comply with any condition imposed under subsection (4) or (5) commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding ten years or to a fine not exceeding fifty million ringgit or to both.
+(8) Any person who contravenes subsection (1) or (2) or fails to comply with any condition imposed under subsection (4) or
+
+(5) commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding ten years or to a fine not exceeding fifty million ringgit or to both.
 
 Division 5
 
@@ -1594,11 +1892,7 @@ regardless that there has been no prosecution or other action in respect of such
 
 (e) the person has ceased to be viable in the opinion of the Bank;
 
-(f) the Bank, pursuant to the exercise of its powers under
-
-## part XIII relating to such person, has substantially
-
-completed all the transfer of business, assets or liabilities of the person;
+(f) the Bank, pursuant to the exercise of its powers under part XIII relating to such person, has substantially completed all the transfer of business, assets or liabilities of the person;
 
 (g) the person has been wound-up or otherwise dissolved; or
 
@@ -1668,7 +1962,9 @@ regardless that there has been no prosecution or other action in respect of such
 
 (b) may publish a notice of cessation of business under subsection (2) or cessation of operations under subsection (3) in such form as the Bank deems appropriate.
 
-(6) Any person who contravenes subsection (1), (2) or (3) commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding one year or to a fine not exceeding five million ringgit or to both.
+(6) Any person who contravenes subsection (1), (2) or
+
+(3) commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding one year or to a fine not exceeding five million ringgit or to both.
 
 ### Effect of revocation, deregistration, surrender, notification on
 
@@ -1776,7 +2072,7 @@ under this Act.
 
 <!-- page 61 -->
 
-## Part IV
+## PART IV
 
 pAyMENT SySTEMS
 
@@ -2016,7 +2312,7 @@ such participant shall immediately notify the operator who shall notify the othe
 
 (3) Any person who contravenes subsection (1) or (2) commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding eight years or to a fine not exceeding twenty-five million ringgit or to both.
 
-## Part V
+## PART V
 
 pRUDENTIAL REQUIREMENTS
 
@@ -2544,7 +2840,7 @@ without the prior written approval of the Bank.
 
 (2) The Bank may specify what constitutes “material interest” for the purposes of paragraph (1)(b).
 
-## Part VI
+## PART VI
 
 OWNERSHIp, CONTROL AND TRANSFER OF BUSINESS
 
@@ -2646,7 +2942,9 @@ the Bank shall take into consideration matters that the Bank considers relevant 
 
 (7) The Minister, on the recommendation of the Bank, in the case of an approval under subsection (6), or the Bank, in the case of an approval under paragraph (3)(a), may, at any time amend or revoke any condition imposed on such approval under subsection (6) or paragraph (3)(a), as the case may be.
 
-(8) The Bank shall notify the applicant of its decision under paragraph (3)(a) or the decision of the Minister under subsection (6), as the case may be.
+(8) The Bank shall notify the applicant of its decision under paragraph (3)(a) or the decision of the Minister under subsection
+
+(6), as the case may be.
 
 (9) The Bank may, at any time by notice in writing, require a person who has obtained the approval of the Bank under paragraph (3)(a) or the Minister under subsection (6) in respect of an application in respect of subsection 87(2) or subsection 88(1), to submit any information or particulars of any share acquired or held directly or indirectly either for his own benefit or any other person.
 
@@ -2942,7 +3240,7 @@ trustee as the nominee of, or trustee for, the transferee, and to the extent of 
 
 107. Unless the Bank otherwise approves, no licensed insurer shall pay to any person any remuneration out of the assets of an insurance fund in relation to a business transfer scheme.
 
-## Part VII
+## PART VII
 
 ## FINANCIAL GROUPS
 
@@ -3102,9 +3400,13 @@ and fails to cease holding such office or acting in such capacity; or
 
 (b) has failed to comply with or by action or negligence has contributed to the breach or contravention of, any provision of this Act, a direction of the Bank referred to in section 116 or an enforceable undertaking accepted by the Bank under section 259.
 
-(2) A director or chief executive officer removed from office or employment in a financial holding company under subsection (1) shall cease to hold the office from which he is removed with effect from the date set out in the order and shall cease to be concerned with the business or affairs of the financial holding company.
+(2) A director or chief executive officer removed from office or employment in a financial holding company under subsection
 
-(3) Notwithstanding anything contained in any contract of service or any other agreement relating to his appointment, the removal of the director or chief executive officer under subsection (1) shall not entitle him to claim any compensation for such removal.
+(1) shall cease to hold the office from which he is removed with effect from the date set out in the order and shall cease to be concerned with the business or affairs of the financial holding company.
+
+(3) Notwithstanding anything contained in any contract of service or any other agreement relating to his appointment, the removal of the director or chief executive officer under subsection
+
+(1) shall not entitle him to claim any compensation for such removal.
 
 ## Part VIII
 
@@ -3344,7 +3646,9 @@ shall disclose to another person any document or information relating to the aff
 
 (c) that is at the time of disclosure is, or has already been made lawfully available to the public from any source other than the financial institution.
 
-(3) No person who has any document or information which to his knowledge has been disclosed in contravention of subsection (1) shall disclose the same to any other person.
+(3) No person who has any document or information which to his knowledge has been disclosed in contravention of subsection
+
+(1) shall disclose the same to any other person.
 
 (4) Any person who contravenes subsection (1) or (3) commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding five years or to a fine not exceeding ten million ringgit or to both.
 
@@ -3454,7 +3758,7 @@ capable of being construed as indicating the carrying on of any of the authorize
 
 (3) Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding eight years or to a fine not exceeding twenty- five million ringgit or to both.
 
-## Part IX
+## PART IX
 
 MONEy MARKET AND FOREIGN EXCHANGE MARKET
 
@@ -3514,7 +3818,7 @@ any conduct set out in subsection (1).
 
 (2) For the purposes of this section, “relevant supervisory authorities” means any authority, body or agency in Malaysia other than the Bank which is responsible for the supervision or oversight of the capital market, or capital market intermediaries or capital market participants.
 
-## Part X
+## PART X
 
 ## SUBMISSION OF DOCUMENT OR INFORMATION
 
@@ -3602,7 +3906,7 @@ under this Act or the Central Bank of Malaysia Act 2009, including for the purpo
 
 (d) for the purposes of prosecuting any person for any offence under any written law.
 
-## Part XI
+## PART XI
 
 ## EXAMINATION
 
@@ -3740,7 +4044,7 @@ established or incorporated in that country, territory or place, provided that s
 
 if the Bank considers it necessary that the such document or information be disclosed to the relevant supervisory authority outside Malaysia for the sole purpose of carrying out its supervisory functions.
 
-## Part XII
+## PART XII
 
 ## DIRECTIONS OF COMPLIANCE
 
@@ -4122,7 +4426,9 @@ Subdivision 4 - Compulsory transfer of business, assets or liabilities
 
 <!-- page 153 -->
 
-(9) Where the vesting under this Subdivision is to be in a bridge institution, the independent valuer referred to in subsection (4) shall be appointed by the Minister.
+(9) Where the vesting under this Subdivision is to be in a bridge institution, the independent valuer referred to in subsection
+
+(4) shall be appointed by the Minister.
 
 (10) Where any person aggrieved by the transacted price appeals on the transacted price to the Assessor Committee, section 210 shall apply.
 
@@ -4292,7 +4598,9 @@ Subdivision 1 - General provisions on winding up
 
 (b) the Bank shall be party to the winding up proceedings and shall be entitled to appear and be heard in all proceedings relating to the application and to call, examine and cross-examine any witness.
 
-(3) Any person who contravenes subsection (1) or paragraph (2)(a) commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding five years or to a fine not exceeding ten million ringgit or to both.
+(3) Any person who contravenes subsection (1) or paragraph
+
+(2)(a) commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding five years or to a fine not exceeding ten million ringgit or to both.
 
 ### Appointment and remuneration of liquidator
 
@@ -4476,7 +4784,9 @@ except during such period as may be prescribed in regulations made under section
 
 (b) the enforcement by the parties of their rights under such qualified financial agreement shall be in accordance with the terms of such agreement as if the acquiring person or bridge institution had always been a party to such agreement.
 
-(4) If the qualified financial agreement is not transferred to a bridge institution or another person, the parties to such qualified financial agreement shall be entitled to enforce their rights under such agreement at the expiry of the period referred to in subsection (2).
+(4) If the qualified financial agreement is not transferred to a bridge institution or another person, the parties to such qualified financial agreement shall be entitled to enforce their rights under such agreement at the expiry of the period referred to in subsection
+
+(2).
 
 (5) Where the qualified financial agreement of an institution is transferred to an acquiring person or a bridge institution during the period prescribed by the Bank under subsection (2), and where a person is a counterparty to two or more qualified financial transactions under that agreement with the same institution, all or none of such qualified financial transactions shall be transferred to the acquiring person or bridge institution.
 
@@ -4516,7 +4826,7 @@ may, within twenty-one days from the date of such sale, disposal or transfer, ap
 
 (9) A decision of the Assessor Committee is final and binding on the parties to the appeal.
 
-## Part XIV
+## PART XIV
 
 ## OTHER POWERS OF BANK
 
@@ -4566,7 +4876,9 @@ if such person, in the opinion of the Bank, poses or is likely to pose a risk to
 
 <!-- page 171 -->
 
-(2) For the purpose of making a recommendation under subsection (1), the Bank may, with the approval of the Minister, exercise its examination powers under Part XI on a person referred to in subsection (1) as if the references in such provisions to an “authorized person” is a reference to the person referred to in subsection (1).
+(2) For the purpose of making a recommendation under subsection
+
+(1), the Bank may, with the approval of the Minister, exercise its examination powers under Part XI on a person referred to in subsection (1) as if the references in such provisions to an “authorized person” is a reference to the person referred to in subsection (1).
 
 (3) The Minister may, on the recommendation of the Bank, apply all or any provisions of this Act to a prescribed financial institution from a date specified in the order under subsection (1) and with such amendments as the Minister, on the recommendation of the Bank, deems necessary, as if the references in such provisions to an “authorized person”, a “licensed person”, “licensed bank”, “licensed insurer”, “licensed investment bank”, an “institution” and a “financial service provider”, as the case may be, is a reference to such prescribed financial institution.
 
@@ -4578,7 +4890,9 @@ if such person, in the opinion of the Bank, poses or is likely to pose a risk to
 
 (b) on the recommendation by the Bank, in any other case.
 
-(6) A prescribed financial institution which contravenes any provision of this Act or any standards, notice, direction, condition, specification or requirement specified or issued by the Bank under any provision of this Act applied to it under subsection (1) commits an offence under such provision and shall be liable to the same penalty applicable to a licensed person convicted of an offence under such provision and if no offence is provided for such contravention, the prescribed financial institution commits a breach and the Bank may take an action under paragraph 234(3)
+(6) A prescribed financial institution which contravenes any provision of this Act or any standards, notice, direction, condition, specification or requirement specified or issued by the Bank under any provision of this Act applied to it under subsection
+
+(1) commits an offence under such provision and shall be liable to the same penalty applicable to a licensed person convicted of an offence under such provision and if no offence is provided for such contravention, the prescribed financial institution commits a breach and the Bank may take an action under paragraph 234(3)
 
 (b) in addition to other enforcement actions that the Bank is empowered to take under this Act.
 
@@ -4696,7 +5010,9 @@ International and domestic transactions
 
 (2) No person shall undertake or engage in any transaction set out in Schedule 14 except with the written approval of the Bank.
 
-(3) Subject to any direction issued by the Bank under paragraph (6)(e), the prohibition in subsection (2) in respect of the transactions in paragraph 1 of Schedule 14 shall not apply to any licensed bank.
+(3) Subject to any direction issued by the Bank under paragraph
+
+(6)(e), the prohibition in subsection (2) in respect of the transactions in paragraph 1 of Schedule 14 shall not apply to any licensed bank.
 
 <!-- page 176 -->
 
@@ -4772,7 +5088,9 @@ Division 3 Holidays for licensed person
 
 <!-- page 179 -->
 
-(3) Where a day is declared to be a holiday under subsection (1)—
+(3) Where a day is declared to be a holiday under subsection
+
+(1)—
 
 (a) the licensed person or its office specified in the notice is not compellable on such holiday to make a payment or to do any other act that it would not be compellable to do on any day which is public holiday within the meaning of any law relating to public holidays; and
 
@@ -4788,7 +5106,7 @@ and the obligation to make the payment or to do the act shall be deemed to be an
 
 (b) affect any right, obligation or liability arising under such agreement, transaction or arrangement.
 
-## Part XV
+## PART XV
 
 ## ENFORCEMENT AND PENALTIES
 
@@ -4914,7 +5232,9 @@ release any property, apparatus, equipment, machinery, computer, computer output
 
 225. (1) An investigating officer may search any person whom he has reason to believe has on his person any property, apparatus, equipment, machinery, computer, computer output, system, data, books, document or information, or other article necessary, in his opinion, for the purpose of investigation into any offence under this Act.
 
-(2) For the purpose of a search of a person under subsection (1), section 221 or 222, an investigating officer may, subject to the provisions of the Criminal Procedure Code [Act 593], detain such person as may be necessary to have the search carried out, and may remove him in custody to such place as may be necessary to facilitate such search.
+(2) For the purpose of a search of a person under subsection
+
+(1), section 221 or 222, an investigating officer may, subject to the provisions of the Criminal Procedure Code [Act 593], detain such person as may be necessary to have the search carried out, and may remove him in custody to such place as may be necessary to facilitate such search.
 
 (3) An investigating officer making a search of a person under subsection (1) may seize, detain or take possession of any property, apparatus, equipment, machinery, computer, computer output, system, data, books, document, information or article, found upon such person for the purpose of the investigation being carried out by him.
 
@@ -4980,9 +5300,13 @@ books, document or information within such reasonable period as the investigatin
 
 (ii) during such examination disclose all information which is within his knowledge, or which is available to him, or which is capable of being obtained by him, in respect of the matter in relation to which he is being examined, whether or not any question is put to him with regard thereto, and where any question is put to him he shall answer the question truthfully and to the best of his knowledge and belief, and shall not refuse to answer any question on the ground that it tends to incriminate him or his spouse;
 
-(b) a person to whom an order has been given under paragraph (1)(b) shall not conceal, hide, destroy, alter, remove from or send out of Malaysia, or deal with, expend, or dispose of, any property, apparatus, equipment, machinery, computer, computer output, system, data, books, document, information, article or thing specified in the order, or alter or deface any entry in any such computer output, system, data, books, document or information, or cause such acts to be done, or assist or conspire to do such acts; and
+(b) a person to whom an order has been given under paragraph
 
-(c) a person to whom a notice has been given under paragraph (1)(c) shall, in his statement made on oath or affirmation, furnish and disclose truthfully all information required under the notice which is within his knowledge, or which is available to him, or which is capable of being obtained by him, and shall not fail to furnish or disclose the same on the ground that it tends to incriminate him or his spouse.
+(1)(b) shall not conceal, hide, destroy, alter, remove from or send out of Malaysia, or deal with, expend, or dispose of, any property, apparatus, equipment, machinery, computer, computer output, system, data, books, document, information, article or thing specified in the order, or alter or deface any entry in any such computer output, system, data, books, document or information, or cause such acts to be done, or assist or conspire to do such acts; and
+
+(c) a person to whom a notice has been given under paragraph
+
+(1)(c) shall, in his statement made on oath or affirmation, furnish and disclose truthfully all information required under the notice which is within his knowledge, or which is available to him, or which is capable of being obtained by him, and shall not fail to furnish or disclose the same on the ground that it tends to incriminate him or his spouse.
 
 <!-- page 189 -->
 
@@ -5024,7 +5348,9 @@ regardless whether such proceedings are against the person who was examined, or 
 
 <!-- page 191 -->
 
-(3) If the officer effecting any order or notice under subsection (1) or (2) is satisfied, for reasons to be recorded by him in writing, that the order or notice cannot be served in the manner provided in subsection (1) or (2), the order or notice may be served by affixing the order or notice on a conspicuous part of the premises—
+(3) If the officer effecting any order or notice under subsection
+
+(1) or (2) is satisfied, for reasons to be recorded by him in writing, that the order or notice cannot be served in the manner provided in subsection (1) or (2), the order or notice may be served by affixing the order or notice on a conspicuous part of the premises—
 
 (a) in which the individual for whom the order or notice is intended is known to have last resided, to have been last employed or to have last carried on business; or
 
@@ -5528,7 +5854,7 @@ shall, until the contrary is proved, be evidence of any fact stated therein.
 
 (b) the outcome of actions referred to in paragraph (a) including the outcome of any proceedings, settlement in or out of court in relation to any breach or contravention of provisions of this Act.
 
-## Part XVI
+## PART XVI
 
 ## GENERAL PROVISIONS
 
@@ -5740,7 +6066,7 @@ Provided that nothing contained in this section shall affect any liability of an
 
 ## REPEAL, SAVINGS AND TRANSITIONAL
 
-### Repeal
+<!-- marginal: Repeal -->
 
 271. The Banking and Financial Institutions Act 1989, the Exchange Control Act 1953, the Insurance Act 1996 and the Payment Systems Act 2003 are repealed.
 
@@ -5906,15 +6232,17 @@ the Bank for it to be approved as a financial holding company within a period of
 
 (4) Section 259 shall apply to a written undertaking given under this section.
 
-(5) The Bank may, at any time, in writing amend or revoke any existing condition imposed on such approval under subsection (2) or impose any new condition thereto.
+(5) The Bank may, at any time, in writing amend or revoke any existing condition imposed on such approval under subsection
 
-## Schedule 1
+(2) or impose any new condition thereto.
+
+## SCHEDULE 1
 
 [Subsection 2(1), sections 10 and 11]
 
 ## APPROVED AND REGISTERED BUSINESSES
 
-## Part 1
+## PART 1
 
 Approved business
 
@@ -5946,7 +6274,7 @@ Division 2 Persons who do not require approval for financial advisory business
 
 <!-- page 228 -->
 
-## Part 2
+## PART 2
 
 Registered business
 
@@ -5954,13 +6282,13 @@ Registered business
 
 10. Adjusting business.
 
-## Schedule 2
+## SCHEDULE 2
 
 [Paragraphs 2(1)(d) and 136(d)]
 
 ## OTHER EXCLUSIONS FROM DEFINITION OF “DEPOSIT”
 
-## Part 1
+## PART 1
 
 Money paid by any person to—
 
@@ -5986,15 +6314,13 @@ Money paid by any person to—
 
 <!-- page 229 -->
 
-(i) another person who issues or offers to the public for subscription or purchase, or invites the public to subscribe for or purchase, any interest under an approved deed in accordance with Division 5 of
-
-## Part IV of the Companies Act 1965;
+(i) another person who issues or offers to the public for subscription or purchase, or invites the public to subscribe for or purchase, any interest under an approved deed in accordance with Division 5 of Part IV of the Companies Act 1965;
 
 (j) an approved issuer of a designated payment instrument issuing electronic money in the course of carrying on its authorized business; or
 
 (k) another person, where both persons are individuals, in the course of customary, social, friendly or family relationship and the total number of such individuals who make the payments to the other person does not at any time exceed ten.
 
-## Part 2
+## PART 2
 
 Money paid to any person, other than a licensed bank or licensed investment bank, by—
 
@@ -6018,13 +6344,13 @@ Money paid to any person, other than a licensed bank or licensed investment bank
 
 (j) its related or associate corporations.
 
-## Part 3
+## PART 3
 
 Money paid by a licensed bank and licensed investment bank, to any person in the course of buying or borrowing securities from that person where the securities will be repurchased or returned as part of the same transaction.
 
 <!-- page 230 -->
 
-## Schedule 3
+## SCHEDULE 3
 
 [Subsection 2(1)]
 
@@ -6114,7 +6440,7 @@ holds, or any two or more of the persons mentioned in paragraphs (a), (b) and (c
 
 13. Paragraphs 8 to 12 shall not by any implication limit the generality of paragraph 7.
 
-## Schedule 4
+## SCHEDULE 4
 
 [Paragraph 5(5)(c)]
 
@@ -6136,7 +6462,7 @@ holds, or any two or more of the persons mentioned in paragraphs (a), (b) and (c
 
 (b) removal of the vehicle to the nearest or most appropriate place at which repairs may be carried out or to the home or point of departure or original destination of the driver and passengers.
 
-## Schedule 5
+## SCHEDULE 5
 
 [Sections 10 and 11]
 
@@ -6144,7 +6470,7 @@ holds, or any two or more of the persons mentioned in paragraphs (a), (b) and (c
 
 ## UNDER SECTION 10 OR APPROVAL UNDER SECTION 11
 
-## Part 1
+## PART 1
 
 1. The character and integrity of the applicant or, if the applicant is a body corporate, its reputation for being operated in a manner that is consistent with the standards of good governance and integrity.
 
@@ -6170,11 +6496,11 @@ holds, or any two or more of the persons mentioned in paragraphs (a), (b) and (c
 
 (d) the degree and significance of participation of Malaysians in the financial sector.
 
-## Part 2
+## PART 2
 
 8. Whether the nature, scale and activities of the corporate group of the applicant applying for a licence will impede the effective regulation and supervision of the person to be licensed, including having regard to the nature and degree of regulation and supervision of any financial institution within that corporate group.
 
-## Schedule 6
+## SCHEDULE 6
 
 [Subsections 90(2), 91(1) and 112(2)]
 
@@ -6202,7 +6528,7 @@ FACTORS FOR CONSIDERATION IN ASSESSING SHAREHOLDER SUITABILITy
 
 (d) the degree and significance of participation of Malaysians in the financial sector.
 
-## Schedule 7
+## SCHEDULE 7
 
 [Subsection 124(1)]
 
@@ -6228,7 +6554,7 @@ FACTORS FOR CONSIDERATION IN ASSESSING SHAREHOLDER SUITABILITy
 
 <!-- page 236 -->
 
-## Schedule 8
+## SCHEDULE 8
 
 [Section 128]
 
@@ -6414,7 +6740,9 @@ and is as competent in all respects to have and exercise the powers and privileg
 
 (d) in compliance with standards on business conduct or fair treatment of policy owners specified by the Bank.
 
-(2) Where the Bank is of the opinion that a licensed life insurer has not determined the paid-up value of a life policy as required under subsubparagraphs (1)(a), (b), (c) and (d), the Bank may—
+(2) Where the Bank is of the opinion that a licensed life insurer has not determined the paid-up value of a life policy as required under subsubparagraphs
+
+(1)(a), (b), (c) and (d), the Bank may—
 
 (a) require the insurer to determine the paid-up value of the life policy on a basis approved by the Bank; and
 
@@ -6474,7 +6802,7 @@ and is as competent in all respects to have and exercise the powers and privileg
 
 12. A licensed general insurer shall pay directly to a policy owner any refund of premium in relation to a policy which may become due to the policy owner for any reason including the cancellation of the policy or alteration in its terms and conditions and such refund shall under no circumstances be paid or credited to any insurance agent.
 
-## Schedule 9
+## SCHEDULE 9
 
 [Section 129]
 
@@ -6482,21 +6810,43 @@ and is as competent in all respects to have and exercise the powers and privileg
 
 ## FOR MISREPRESENTATIONS
 
-## Part 1
+## PART 1
 
 Preliminary
 
-Paragraph 1. Application of Schedule and other laws 2. Interpretation 3. Contracting out
+Paragraph
 
-## Part 2
+1. Application of Schedule and other laws
+
+2. Interpretation
+
+3. Contracting out
+
+## PART 2
 
 Pre-contractual disclosure and representations
 
-4. Pre-contractual duty of disclosure for insurance contracts other than consumer insurance contracts 5. Pre-contractual duty of disclosure for consumer insurance contracts 6. Duty to take reasonable care 7. Misrepresentation in respect of insurance contracts 8. Group policies 9. Insurance on life of another 10. Warranties and representations 11. Insurer’s, etc., pre-contractual duty of disclosure 12. Knowledge of, and statement by insurance agent
+4. Pre-contractual duty of disclosure for insurance contracts other than consumer insurance contracts
+
+5. Pre-contractual duty of disclosure for consumer insurance contracts
+
+6. Duty to take reasonable care
+
+7. Misrepresentation in respect of insurance contracts
+
+8. Group policies
+
+9. Insurance on life of another
+
+10. Warranties and representations
+
+11. Insurer’s, etc., pre-contractual duty of disclosure
+
+12. Knowledge of, and statement by insurance agent
 
 <!-- page 244 -->
 
-## Part 3
+## PART 3
 
 Non-contestability and remedies for misrepresentations
 
@@ -6524,7 +6874,7 @@ Division 3 – Modifications for group policies
 
 19. Modifications for group policies
 
-## Part 1
+## PART 1
 
 Preliminary
 
@@ -6674,7 +7024,9 @@ Pre-contractual disclosure and representations
 
 <!-- page 249 -->
 
-(2) So far as the cover for the person insured referred to in subparagraph (1) is concerned—
+(2) So far as the cover for the person insured referred to in subparagraph
+
+(1) is concerned—
 
 (a) paragraph 5 shall apply in relation to any disclosure, answer or representation made by the person insured to the licensed insurer as if the person insured was proposing to enter into, vary or renew a consumer insurance contract for the relevant cover with the insurer; and
 
@@ -6722,7 +7074,7 @@ Pre-contractual disclosure and representations
 
 (b) where a person has ceased to be an insurance agent of a licensed insurer and the insurer has taken all reasonable steps to inform, or bring to the knowledge of policy owners of the fact of such cessation.
 
-## Part 3
+## PART 3
 
 Non-contestability and remedies for misrepresentations
 
@@ -6808,13 +7160,27 @@ Modifications for group policies
 
 (d) in respect of the cover for the person insured, the right to terminate his cover wherever referred to in Division 2, shall be that of the group policy owner.
 
-## Schedule 10
+## SCHEDULE 10
 
 [Section 130]
 
 PAyMENT OF POLICy MONEyS UNDER LIFE POLICy OR PERSONAL ACCIDENT POLICy
 
-Paragraph 1. Application of Schedule 2. Power to make nomination 3. Revocation of nomination 4. Payment of policy moneys where there is nomination 5. Trust of policy moneys 6. Nominee other than nominee under subparagraph 5(1) 7. Assigned or pledged policy moneys
+Paragraph
+
+1. Application of Schedule
+
+2. Power to make nomination
+
+3. Revocation of nomination
+
+4. Payment of policy moneys where there is nomination
+
+5. Trust of policy moneys
+
+6. Nominee other than nominee under subparagraph 5(1)
+
+7. Assigned or pledged policy moneys
 
 <!-- page 254 -->
 
@@ -7002,9 +7368,7 @@ Purposes for or circumstances Persons to whom documents or in which customer doc
 
 <!-- page 261 -->
 
-First column
-
-<!-- marginal: Second column -->
+First column Second column
 
 Purposes for or circumstances Persons to whom documents or in which customer documents or information may be disclosed information may be disclosed
 
@@ -7040,7 +7404,9 @@ Purposes for or circumstances Persons to whom documents or in which customer doc
 
 (d) the central depository approved under the Securities Industry (Central Depositories) Act 1991 [Act 453].
 
-10. Disclosure by a licensed bank Any officer of the approved trade or licensed investment bank for the repository authorized to receive the purpose of performance of functions documents or information. of an approved trade repository under the Capital Markets and Services Act 2007.
+10. Disclosure by a licensed bank Any officer of the approved trade or licensed investment bank for the repository authorized to receive the purpose of performance of functions documents or information. of an approved trade repository under the Capital Markets and Services Act
+
+2007.
 
 11. Documents or information Any officer of the Inland Revenue is required by the Inland Revenue Board of Malaysia authorized to receive Board of Malaysia under section the documents or information. 81 of the Income Tax Act 1967 for purposes of facilitating exchange of information pursuant to taxation arrangements or agreements having effect under section 132 or 132A of the Income Tax Act 1967.
 
@@ -7048,9 +7414,7 @@ Purposes for or circumstances Persons to whom documents or in which customer doc
 
 <!-- page 263 -->
 
-First column
-
-<!-- marginal: Second column -->
+First column Second column
 
 Purposes for or circumstances Persons to whom documents or in which customer documents or information may be disclosed information may be disclosed
 
@@ -7074,19 +7438,19 @@ Purposes for or circumstances Persons to whom documents or in which customer doc
 
 <!-- page 264 -->
 
-## Schedule 12
+## SCHEDULE 12
 
 [Subsection 139(2)]
 
 ## RESTRICTION ON USE OF CERTAIN WORDS
 
-## Part 1
+## PART 1
 
 Bank
 
 1. An association of licensed banks or licensed investment banks, or association of employees of any such licensed persons.
 
-## Part 2
+## PART 2
 
 Insurance or Assurance
 
@@ -7096,7 +7460,7 @@ Insurance or Assurance
 
 4. An insurance agent registered with any association of licensed insurers.
 
-## Part 3
+## PART 3
 
 Financial Adviser
 
@@ -7116,7 +7480,7 @@ Financial Adviser
 
 <!-- page 265 -->
 
-## Schedule 13
+## SCHEDULE 13
 
 [Subsection 177(1)]
 
@@ -7136,7 +7500,7 @@ The Third Schedule of the Central Bank of Malaysia Act 2009 shall apply in relat
 
 6. Paragraph 5 of the Third Schedule is not applicable for the purposes of this Subdivision.
 
-## Schedule 14
+## SCHEDULE 14
 
 [Subsection 214(2)]
 
@@ -7204,7 +7568,7 @@ other than—
 
 9. The doing or refraining from doing any act by any person in Malaysia, who has a right to receive an amount of ringgit or foreign currency, which would lead to or result in the delay or the non-receipt of the amount, in whole or in part.
 
-## Schedule 15
+## SCHEDULE 15
 
 [Paragraph 234(3)(b)]
 
@@ -7212,7 +7576,37 @@ IMPOSITION OF MONETARy PENALTy
 
 A monetary penalty may be imposed in respect of a breach or non-compliance with the following provisions or standards, requirements, conditions, specifications, restrictions or otherwise made or imposed pursuant to such provisions:
 
-1. subsection 15(3), (4), (5), (6) or (7); 2. subsection 16(2); 3. subsection 18(2); 4. subsection 25(1) or (2); 5. subsection 33(2); 6. section 34; 7. subsection 35(1), (2) or (3); 8. subsection 48(1) or (2); 9. section 49; 10. subsection 50(1); 11. subsection 51(1); 12. section 52; 13. subsection 54(1), (2), (3) or (4); 14. subsection 55(1), (2) or (3); 15. subsection 56(1), (2) or (3); 16. paragraph 57(1)(a), (b) or (d);
+1. subsection 15(3), (4), (5), (6) or (7);
+
+2. subsection 16(2);
+
+3. subsection 18(2);
+
+4. subsection 25(1) or (2);
+
+5. subsection 33(2);
+
+6. section 34;
+
+7. subsection 35(1), (2) or (3);
+
+8. subsection 48(1) or (2);
+
+9. section 49;
+
+10. subsection 50(1);
+
+11. subsection 51(1);
+
+12. section 52;
+
+13. subsection 54(1), (2), (3) or (4);
+
+14. subsection 55(1), (2) or (3);
+
+15. subsection 56(1), (2) or (3);
+
+16. paragraph 57(1)(a), (b) or (d);
 
 <!-- page 268 -->
 
@@ -7290,9 +7684,47 @@ subsection 58(1), (2), (3) or (4);
 
 <!-- page 269 -->
 
-subsection 105(1) or (2); 54. section 107; 55. subsection 110(1) or (3); 56. section 111; 57. subsection 112(1), (3) or (4); 58. subsection 114(1) or (2); 59. subsection 115(4); 60. subsection 123(1); 61. subsection 125(1); 62. subsection 126(4); 63. subsection 127(1) or (3); 64. subsection 140(4); 65. subsection 143(1) or (2), paragraph 143(3)(b), subsection 143(4) or (6); 66. subsection 144(1); 67. subsection 150(1); 68. subsection 217(2); 69. subsection 280(4); 70. subsection 281(2); 71. paragraph 10 of Schedule 8; or 72. any requirement imposed on a licensed insurer in Schedules 8, 9 and 10, except for paragraph 11 of Schedule 9.
+subsection 105(1) or (2);
 
-## Schedule 16
+54. section 107;
+
+55. subsection 110(1) or (3);
+
+56. section 111;
+
+57. subsection 112(1), (3) or (4);
+
+58. subsection 114(1) or (2);
+
+59. subsection 115(4);
+
+60. subsection 123(1);
+
+61. subsection 125(1);
+
+62. subsection 126(4);
+
+63. subsection 127(1) or (3);
+
+64. subsection 140(4);
+
+65. subsection 143(1) or (2), paragraph 143(3)(b), subsection 143(4) or (6);
+
+66. subsection 144(1);
+
+67. subsection 150(1);
+
+68. subsection 217(2);
+
+69. subsection 280(4);
+
+70. subsection 281(2);
+
+71. paragraph 10 of Schedule 8; or
+
+72. any requirement imposed on a licensed insurer in Schedules 8, 9 and 10, except for paragraph 11 of Schedule 9.
+
+## SCHEDULE 16
 
 [Section 272]
 
@@ -7334,7 +7766,7 @@ EXPLANATORy STATEMENT
 
 This Bill (“the proposed Act”) seeks to consolidate the Banking and Financial Institutions Act 1989 [Act 372], the Insurance Act 1996 [Act 553], the Payment Systems Act 2003 [Act 627] and the Exchange Control Act 1953 [Act 17] and to provide for matters incidental thereto and connected therewith.
 
-## Part I
+## PART I
 
 2. Part I seeks to provide for preliminary matters.
 
@@ -7350,7 +7782,7 @@ Clause 4 seeks to empower the Bank, with the concurrence of the Minister, to pre
 
 Clause 5 seeks to provide for the classification of insurance business into life business and general business. This clause also seeks to provide what would constitute the carrying on of insurance business as well as empowers the Minister, on the recommendation of the Bank, to prescribe a business or activity as insurance business and that the businesses set out in Schedule 4 are not to be treated as insurance business for the purposes of the proposed Act.
 
-## Part II
+## PART II
 
 3. Part II contains provisions relating to the regulatory objectives of the proposed Act.
 
@@ -7358,7 +7790,7 @@ Clause 6 seeks to state the principal regulatory objective of the proposed Act a
 
 Clause 7 seeks to provide that the Bank shall exercise its powers and perform its functions in a way which it considers most appropriate provided for it by the proposed Act. This clause also seeks to empower the Bank to authorize its Deputy Governor, an officer of the Bank or any other person to exercise its powers or perform its functions under the proposed Act. Additionally, the Bank shall keep the Minister informed on matters relating to the exercise of its powers and performance of its functions under the proposed Act.
 
-## Part III
+## PART III
 
 4. Part III contains provisions relating to the authorization of licensed and approved businesses and registration of registered businesses.
 
@@ -7426,7 +7858,7 @@ Clause 28 seeks to prohibit any person from holding himself out as an authorized
 
 Clause 29 seeks to prohibit any person from acting on behalf of a foreign institution or any unlicensed person in relation to carrying on of any licensed businesses or acceptance of deposits unless the Bank approves otherwise.
 
-## Part IV
+## PART IV
 
 5. Part IV contains provisions relating to payment systems.
 
@@ -7480,7 +7912,7 @@ Clause 44 seeks to prevent a court from giving effect to an insolvency order of 
 
 Clause 45 seeks to require an operator of a certified designated payment system to notify the participants of the certified designated payment system if it is insolvent, likely to become insolvent, has become or is likely to become unable to meet any or all of his obligations or has suspended payments or compounded with his creditors. This clause also seeks to require a participant of a certified designated payment system to notify the operator of the certified designated payment system if he is insolvent, likely to become insolvent, has become or is likely to become unable to meet any or all of his obligations or has suspended payments or compounded with his creditors and the operator shall notify the other participants.
 
-## Part V
+## PART V
 
 6. Part V contains provisions relating to prudential requirements, appointment of auditors and actuaries and establishment of subsidiaries.
 
@@ -7588,7 +8020,7 @@ Division 7
 
 Clause 85 prohibits an authorized person from establishing or acquiring any subsidiary in or outside Malaysia or from acquiring or holding any material interest in any corporation unless such person has obtained the prior written approval of the Bank. The Bank is empowered to specify what constitutes “material interest” for the purpose of this clause.
 
-## Part VI
+## PART VI
 
 7. Part VI deals with ownership, control and business transfer scheme of a licensed person and certain approved person.
 
@@ -7682,7 +8114,7 @@ Clause 107 prohibits a licensed insurer from paying any remuneration to any pers
 
 <!-- page 286 -->
 
-## Part VII
+## PART VII
 
 8. Part VII deals with the regulation and supervision of financial groups.
 
@@ -7776,7 +8208,7 @@ Clause 138 seeks to restrict any person, except for a licensed bank or licensed 
 
 Clause 139 seeks to restrict any person from using certain words such as “bank”, “insurance”, etc. or any derivative of these words or any words in any language, where the use of such words are capable of being construed as indicating the carrying on of an authorized or registered business, or making any representation to such effect except with the prior written approval of the Bank. This clause also provides for the restriction not to apply in certain cases.
 
-## Part IX
+## PART IX
 
 10. Part IX deals with requirements and prohibited conduct in the money market and foreign exchange market.
 
@@ -7786,7 +8218,7 @@ Clause 141 seeks to prohibit any person from engaging in prohibited conduct such
 
 Clause 142 seeks to empower the Bank to enter into arrangements with relevant supervisory authorities to coordinate regulation of financial instrument in the money market.
 
-## Part X
+## PART X
 
 11. Part X seeks to make provisions on the submission of documents or information to the Bank.
 
@@ -7800,7 +8232,7 @@ Clause 144 empowers the Bank to require any person to submit to it any document 
 
 Clause 145 sets out certain exceptions to the secrecy requirements stipulated in subclauses 143(8) and 144(2).
 
-## Part XI
+## PART XI
 
 12. Part XI seeks to make provisions with regard to the examination of authorized persons, registered persons, operators of a designated payment system and others.
 
@@ -8012,7 +8444,7 @@ Clause 217 seeks to empower the Minister, on the recommendation of the Bank, to 
 
 <!-- page 298 -->
 
-## Part XV
+## PART XV
 
 16. Part XV seeks to make provisions in relation to enforcement actions by the Bank, the Bank’s investigation powers, the Bank’s powers to take administrative and civil actions, criminal offences and general matters.
 
@@ -8132,7 +8564,7 @@ Clause 257 provides that in any criminal or civil proceedings under the proposed
 
 Clause 258 seeks to empower the Bank to publish any information in relation to any enforcement action taken under the proposed Act including criminal proceedings, compounding, civil actions and administrative actions and the outcome of such actions.
 
-## Part XVI
+## PART XVI
 
 17. Part XVI deals with general provisions.
 
@@ -8232,7 +8664,9 @@ Schedule 11 sets out the permitted disclosures where the duty to preserve secrec
 
 Schedule 12 seeks to provide a list of persons excluded from the restrictions on use of certain words.
 
-Schedule 13 seeks to modify provisions in the Third Schedule of the Central Bank of Malaysia Act 2009 for the purposes of a vesting order made by the Bank in respect of the vesting of businesses, assets or liabilities under clause 176.
+Schedule 13 seeks to modify provisions in the Third Schedule of the Central Bank of Malaysia Act 2009 for the purposes of a vesting order made by the Bank in respect of the vesting of businesses, assets or liabilities under clause
+
+176.
 
 Schedule 14 seeks to set out the list of transactions prohibited under subclause 214(2).
 

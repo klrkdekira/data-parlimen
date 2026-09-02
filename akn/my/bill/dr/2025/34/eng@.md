@@ -520,7 +520,7 @@ and
 
 35. The principal Act is amended by inserting after section 71 as deleted the following parts:
 
-“Part Xa
+## “PART XA
 
 ## INSPECTION OF SKILLS TRAINING PROVIDER
 
@@ -544,7 +544,7 @@ and
 
 (d) to make copies or take extracts from any book, minute book, register, document, financial statement, computerized data, material or other article inspected under paragraph (c).
 
-Part Xb
+## PART XB
 
 ## ENFORCEMENT AND INVESTIGATION
 

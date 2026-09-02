@@ -50,11 +50,123 @@ Perbekalan 1997, Akta Perbekalan Tambahan (1996 dan
 
 ## JADUAL
 
-(Seksyen 2) Peruntukan Maksud Tajuk kepada Maksud <RM) 12,848,500 1 Parlimen B. 1,828,000 Jabatan Audit B. 3 62,382,500 Jabatan Perdana Menteri 7 B. 3,420,000 11 Badan Pencegah Rasuah B. 5,415,700 Jabatan Perkhidmatan Bomba B. 16 15,900,000 Kementerian Perusahaan Utama B. 18 43,426,100 B. Kementerian Pertanian 19 49,000,000 Kementerian Kebudayaan, 22 B. Kesenian dan Pelancongan 80,000,000 B. 25 Kementerian Pertahanan 33,390,000 Kementerian Pendidikan B. 26 10,000,000 Perbendaharaan B. 28 66,377,000 Perkhidmatan Am Perbendaharaan B. 29 12,370,000,000 B. Peruntukan kepada Kumpulan 30 Wang Terkanun 10,749,200 Jabatan Kastam dan Eksais Diraja B. 31 200,000,000 Jabatan Hasil Dalam Negeri B. 32 4,902,600 34 Kementerian Kesihatan B. 5,000,000 B. 36 Polis Diraja Malaysia 9,462,600 Jabatan Imigresen B. 37 5,155,000 B. Jabatan Pendaftaran Negara 39 18,395,800 Kementerian Perpaduan Negara B. 42 dan Pembangunan Masyarakat
+(Seksyen 2) Peruntukan
+
+<!-- marginal: Maksud -->
+
+Tajuk kepada Maksud <RM) 12,848,500 1 Parlimen
+
+<!-- marginal: B. -->
+
+1,828,000 Jabatan Audit
+
+<!-- marginal: B. -->
+
+3 62,382,500 Jabatan Perdana Menteri 7
+
+<!-- marginal: B. -->
+
+3,420,000 11 Badan Pencegah Rasuah
+
+<!-- marginal: B. -->
+
+5,415,700 Jabatan Perkhidmatan Bomba
+
+<!-- marginal: B. -->
+
+16 15,900,000 Kementerian Perusahaan Utama
+
+<!-- marginal: B. -->
+
+18 43,426,100
+
+<!-- marginal: B. -->
+
+Kementerian Pertanian 19 49,000,000 Kementerian Kebudayaan, 22
+
+<!-- marginal: B. -->
+
+Kesenian dan Pelancongan 80,000,000
+
+<!-- marginal: B. -->
+
+25 Kementerian Pertahanan 33,390,000 Kementerian Pendidikan
+
+<!-- marginal: B. -->
+
+26 10,000,000 Perbendaharaan
+
+<!-- marginal: B. -->
+
+28 66,377,000 Perkhidmatan Am Perbendaharaan
+
+<!-- marginal: B. -->
+
+29 12,370,000,000
+
+<!-- marginal: B. -->
+
+Peruntukan kepada Kumpulan 30 Wang Terkanun 10,749,200 Jabatan Kastam dan Eksais Diraja
+
+<!-- marginal: B. -->
+
+31 200,000,000 Jabatan Hasil Dalam Negeri
+
+<!-- marginal: B. -->
+
+32 4,902,600 34 Kementerian Kesihatan
+
+<!-- marginal: B. -->
+
+5,000,000
+
+<!-- marginal: B. -->
+
+36 Polis Diraja Malaysia 9,462,600 Jabatan Imigresen
+
+<!-- marginal: B. -->
+
+37 5,155,000
+
+<!-- marginal: B. -->
+
+Jabatan Pendaftaran Negara 39 18,395,800 Kementerian Perpaduan Negara
+
+<!-- marginal: B. -->
+
+42 dan Pembangunan Masyarakat
 
 <!-- page 3 -->
 
-Maksud Tajuk Peruntukan kepada Maksud (RM) B. 43 Kementerian Tanah dan 4,000,000 Pembangunan Koperasi B. 44 Kementerian Penerangan 13,667,116 B. 47 Kementerian Pengangkutan 7,649,800 B. 48 Kementerian Pembangunan 72,849,600 Luar Bandar B. 52 Kementerian Kerja Raya 35,400,000
+Maksud Tajuk
+
+<!-- marginal: Peruntukan -->
+
+<!-- marginal: kepada -->
+
+<!-- marginal: Maksud -->
+
+<!-- marginal: (RM) -->
+
+B. 43 Kementerian Tanah dan
+
+<!-- marginal: 4,000,000 -->
+
+Pembangunan Koperasi B. 44 Kementerian Penerangan
+
+<!-- marginal: 13,667,116 -->
+
+B. 47 Kementerian Pengangkutan
+
+<!-- marginal: 7,649,800 -->
+
+B. 48 Kementerian Pembangunan
+
+<!-- marginal: 72,849,600 -->
+
+Luar Bandar B. 52 Kementerian Kerja Raya
+
+<!-- marginal: 35,400,000 -->
 
 ## JUMLAH
 

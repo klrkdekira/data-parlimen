@@ -1,0 +1,443 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-21-2010",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_18"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Mahkamah Rendah (Pindaan) 2010"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 86. Pindaan seksyen 90"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 90 Akta ibu dipinda dengan menggantikan perkataan “dua puluh lima” dengan perkataan “satu ratus”. Pemotongan seksyen 91"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 91. Pindaan seksyen 92"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 92 Akta ibu dipinda dengan menggantikan perkataan “tiga” dengan perkataan “sepuluh”. Pindaan seksyen 93"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 93(1) Akta ibu dipinda dalam proviso dengan menggantikan perkataan ‘ “dua puluh lima” ’ dan perkataan ‘ “dua ratus lima puluh ribu” ’ dengan perkataan ‘ “satu ratus” ’ dan perkataan ‘ “satu juta” ’, masing-masing. Pemotongan Bahagian VIII"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong Bahagian VIII. Pemotongan seksyen 100"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 100. Seksyen baru 101a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 101 seksyen yang berikut: “Kuasa Hakim Mahkamah Sesyen untuk mendengar perkara dalam kamar 101a. Tertakluk kepada batasan yang terkandung dalam Akta ini, Hakim Mahkamah Sesyen hendaklah mempunyai kuasa untuk mendengar apa-apa perkara atau prosiding dalam kamar.”. Kecualian dan peralihan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua prosiding dan kes yang belum selesai yang telah didaftarkan di Mahkamah Sesyen dan Mahkamah Tinggi sebelum mula berkuat kuasanya Akta ini tidak terjejas oleh Akta ini dan hendaklah diteruskan seolah-olah Akta ini telah tidak diperbuat."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Mahkamah Rendah (Pindaan) 2010."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan am"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Mahkamah Rendah 1948 [Akta 92], yang disebut “Akta ibu” dalam Akta ini, dipinda dengan memotong perkataan “atau Mahkamah Penghulu” di mana-mana jua terdapat. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 2(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “pemastautin tetap” takrif yang berikut: ‘ “Pendaftar” ertinya Pendaftar, Timbalan Pendaftar, Penolong Kanan Pendaftar atau Penolong Pendaftar Mahkamah Rendah;’; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong takrif “Penghulu”. Pindaan seksyen 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 3(2) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan menggantikan koma bernoktah dengan noktah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perenggan (c). Pindaan seksyen 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_5__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 5(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_5__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_5__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_5__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_5__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa Inggeris, dengan menggantikan perkataan “is” yang terdapat sebelum perkataan “issued” perkataan “if”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_5__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_5__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas koma bernoktah perkataan “dan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c), dengan menggantikan perkataan “; dan” dengan koma; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perenggan (d). Seksyen baru 5a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 5 seksyen yang berikut: “Pendaftar 5a. (1) Pendaftar, Timbalan Pendaftar dan Penolong Kanan Pendaftar hendaklah dilantik oleh Yang di-Pertuan Agong atas syor Ketua Hakim Negara. (2) Penolong Pendaftar Mahkamah Rendah hendaklah dilantik mengikut seksyen 106.”. Pindaan seksyen 65"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 65 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_7__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_7__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_7__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_7__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_7__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan memotong perkataan “dan” yang terdapat di hujung perenggan itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_7__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_7__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan menggantikan perkataan “dua ratus lima puluh ribu ringgit.” dengan perkataan “satu juta ringgit; dan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_7__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_7__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (b) perenggan yang berikut: “ (c) tanpa menjejaskan keluasan perenggan (b), bidang kuasa untuk membicarakan segala tindakan dan guaman daripada jenis sivil bagi pelaksanaan spesifik atau pembatalan kontrak atau bagi pembatalan atau pembetulan surat cara, dalam bidang kuasa Mahkamah Sesyen.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (4) subseksyen yang berikut: “(5) Mahkamah Sesyen boleh, berkenaan dengan apa-apa tindakan atau guaman dalam bidang kuasa Mahkamah Sesyen, dalam apa-apa prosiding di hadapannya— (a) memberikan injunksi; dan (b) membuat perisytiharan, sama ada atau tidak apa-apa relief, tebus rugi atau remedi lain adalah atau boleh dituntut.”. Pindaan seksyen 69"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_8__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 69 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perenggan (b), (c) dan (d); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (g), dengan memasukkan selepas perkataan “dalam” perkataan “membuat perisytiharan di bawah perenggan 65(5)(b) dan”. Pindaan seksyen 73"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/21/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 73(b) Akta ibu dipinda dengan menggantikan perkataan “dua ratus lima puluh ribu” dengan perkataan “satu juta”. Pemotongan seksyen 86"
+      }
+    }
+  ]
+}

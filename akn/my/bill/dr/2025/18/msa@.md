@@ -198,13 +198,7 @@ perikanan secara mampan, yang konsisten dengan prinsip pemuliharaan dan pengurus
 
 9. Akta ibu dipinda dengan memasukkan selepas seksyen 6 seksyen yang berikut:
 
-“Rekod, data dan 6a. (1) Ketua Pengarah boleh menghendaki maklumat lain. mana-mana orang
-
-<!-- marginal: untuk menyenggara -->
-
-dan memberikan apa-apa rekod, data atau maklumat lain bagi menyokong pembangunan rancangan perikanan dan pelan pembangunan dan pengurusan perikanan dalam apa-apa bentuk dan cara
-
-<!-- marginal: sebagaimana -->
+“Rekod, data dan 6a. (1) Ketua Pengarah boleh menghendaki maklumat lain. mana-mana orang untuk menyenggara dan memberikan apa-apa rekod, data atau maklumat lain bagi menyokong pembangunan rancangan perikanan dan pelan pembangunan dan pengurusan perikanan dalam apa-apa bentuk dan cara sebagaimana
 
 <!-- marginal: yang -->
 
@@ -414,11 +408,17 @@ adalah bersalah melakukan suatu kesalahan dan boleh dikenakan denda tidak melebi
 
 ### Penggantian seksyen 31
 
-23. Akta ibu dipinda dengan menggantikan seksyen 31 dengan seksyen yang berikut:
+23. Akta ibu dipinda dengan menggantikan seksyen 31 dengan
 
-“Pengkompaunan
+<!-- marginal: seksyen yang berikut: -->
 
-31. (1) Menteri boleh, dengan kesalahan. kelulusan Pendakwa Raya, membuat peraturan-peraturan yang menetapkan—
+<!-- marginal: “Pengkompaunan -->
+
+31. (1) Menteri boleh, dengan
+
+<!-- marginal: kesalahan. -->
+
+kelulusan Pendakwa Raya, membuat peraturan-peraturan yang menetapkan—
 
 (a) apa-apa kesalahan di bawah Akta ini sebagai suatu kesalahan yang boleh dikompaun; dan
 
@@ -520,23 +520,13 @@ lanjutan sebagaimana yang diberikan oleh Ketua Pengarah, pendakwaan bagi kesalah
 
 semula jadi dan habitat hidupan akuatik, dengan memberi perhatian yang khusus kepada spesies flora dan fauna yang jarang ditemui atau terancam;
 
-(ii) membenarkan pertumbuhan semula hidupan akuatik di kawasan itu atau sebahagian daripada kawasan itu di mana hidupan
-
-<!-- marginal: itu -->
-
-<!-- marginal: telah -->
-
-mengalami kemerosotan;
+(ii) membenarkan pertumbuhan semula hidupan akuatik di kawasan itu atau sebahagian daripada kawasan itu di mana hidupan itu telah mengalami kemerosotan;
 
 (iii) menggalakkan kajian penyelidikan saintifik, pemantauan dan pendidikan berkenaan dengan kawasan itu atau sebahagian daripada kawasan itu;
 
 (iv) mengekalkan dan meningkatkan keadaan semulajadi dan daya pengeluaran di kawasan itu atau sebahagian daripada kawasan itu; dan
 
-(v) mengawal selia aktiviti rekreasi dan aktiviti lain di kawasan itu atau
-
-<!-- marginal: sebahagian -->
-
-daripada kawasan itu untuk mengelakkan kerosakan yang tidak boleh dipulihkan kepada persekitarannya;
+(v) mengawal selia aktiviti rekreasi dan aktiviti lain di kawasan itu atau sebahagian daripada kawasan itu untuk mengelakkan kerosakan yang tidak boleh dipulihkan kepada persekitarannya;
 
 <!-- page 25 -->
 
@@ -772,7 +762,23 @@ adalah bersalah melakukan suatu kesalahan.”.
 
 mana-mana yang berkenaan, ialah ikan, penyu termasuk bahagian atau terbitannya, peralatan menangkap ikan, dan penyakit ikan, pembiakan ikan, pengurusan perikanan, genetik ikan atau forensik perikanan.
 
-Perlindungan 56 b. Tiada tindakan boleh diambil daripada tindakan atau pendakwaan boleh dibawa, guaman dan dimulakan atau dikekalkan dalam prosiding mana-mana mahkamah terhadap— undang-undang.
+<!-- marginal: Perlindungan -->
+
+56 b. Tiada tindakan boleh diambil
+
+<!-- marginal: daripada tindakan -->
+
+atau pendakwaan boleh dibawa,
+
+<!-- marginal: guaman dan -->
+
+dimulakan atau dikekalkan dalam
+
+<!-- marginal: prosiding -->
+
+mana-mana mahkamah terhadap—
+
+<!-- marginal: undang-undang. -->
 
 (a) seseorang pegawai berkuasa bagi atau atas sebab atau yang berkenaan dengan apa-apa perbuatan yang dilakukan atau berupa dilakukan olehnya; dan
 
@@ -780,7 +786,13 @@ Perlindungan 56 b. Tiada tindakan boleh diambil daripada tindakan atau pendakwaa
 
 jika perbuatan itu dilakukan dengan suci hati dan dengan mempercayai semunasabahnya bahawa ia perlu bagi maksud yang diniatkan untuk dicapai melaluinya dan bagi melaksanakan peruntukan Akta ini.
 
-Larangan aktiviti 56c. (1) Ketua Pengarah boleh perikanan. mengeluarkan notis mengenai larangan aktiviti perikanan di mana-mana kawasan yang terdapat pencemar di dalam perairan perikanan Malaysia bagi suatu tempoh yang difikirkannya patut atau sehingga kawasan itu telah kembali pulih.
+<!-- marginal: Larangan aktiviti -->
+
+56c. (1) Ketua Pengarah boleh
+
+<!-- marginal: perikanan. -->
+
+mengeluarkan notis mengenai larangan aktiviti perikanan di mana-mana kawasan yang terdapat pencemar di dalam perairan perikanan Malaysia bagi suatu tempoh yang difikirkannya patut atau sehingga kawasan itu telah kembali pulih.
 
 <!-- page 36 -->
 

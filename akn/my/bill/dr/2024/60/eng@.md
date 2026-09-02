@@ -4,13 +4,13 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. This Act binds Federal Government 3. Interpretation 4. Pillars of data sharing
 
-## Part II
+## PART II
 
 ## NATIONAL DATA SHARING COMMITTEE
 
@@ -18,13 +18,13 @@
 
 10. Committee may establish subcommittees
 
-## Part III
+## PART III
 
 ## DUTIES AND POWERS OF DIRECTOR GENERAL
 
 11. Duties and powers of Director General
 
-## Part IV
+## PART IV
 
 ## DATA SHARING
 
@@ -50,7 +50,7 @@
 
 21. Duty to report particulars relating to data sharing
 
-## Part V
+## PART V
 
 ## GENERAL
 
@@ -70,7 +70,7 @@
 
 29. Power to amend Schedule
 
-## Schedule
+## SCHEDULE
 
 <!-- page 3 -->
 
@@ -138,7 +138,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (3) Any data of the public sector agency shall be dealt with in accordance with the Official Secrets Act 1972 [Act 88] and any directives relating to the security of official document issued by the Government.
 
-## Part II
+## PART II
 
 ## NATIONAL DATA SHARING COMMITTEE
 
@@ -240,7 +240,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (7) The subcommittee may determine its own procedure.
 
-## Part III
+## PART III
 
 ## DUTIES AND POWERS OF DIRECTOR GENERAL
 
@@ -264,7 +264,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (2) The Director General shall have all such powers as may be necessary for, or in connection with, or reasonably incidental to, the carrying out of his duties and powers under this Act.
 
-## Part IV
+## PART IV
 
 ## DATA SHARING
 
@@ -422,7 +422,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (2) The report referred to in subsection (1) shall be furnished from time to time as the Director General may require.
 
-## Part V
+## PART V
 
 ## GENERAL
 
@@ -478,7 +478,7 @@ purporting to act in the capacity or was in any manner or to any extent responsi
 
 <!-- page 17 -->
 
-## Schedule
+## SCHEDULE
 
 [Subsection 4(2)]
 
@@ -492,95 +492,39 @@ No. Written Laws
 
 <!-- marginal: Description -->
 
-1. Census Act 1960 [Act 16]
+1. Census Act 1960 [Act 16] Subsection 16(2)
 
-<!-- marginal: Subsection 16(2) -->
+2. Audit Act 1957 [Act 62] Subsection 8(3)
 
-2. Audit Act 1957 [Act 62]
+3. Kemubu Agricultural Development Authority Section 31 Act 1972 [Act 69]
 
-<!-- marginal: Subsection 8(3) -->
+4. Muda Agricultural Development Authority Act 1972 Section 31 [Act 70]
 
-3. Kemubu Agricultural Development Authority
+5. Lembaga Kemajuan Terengganu Tengah Act Section 31 1973 [Act 104]
 
-<!-- marginal: Section 31 -->
+6. Malaysian Timber Industry Board (Incorporation) Section 29 Act 1973 [Act 105]
 
-Act 1972 [Act 69]
+7. Farmers’ Organization Authority Act 1973 Subsection 33(1) [Act 110]
 
-4. Muda Agricultural Development Authority Act 1972
+8. Federal Agricultural Marketing Authority Act 1965 Section 13 [Act 141]
 
-<!-- marginal: Section 31 -->
+9. Pesticides Act 1974 [Act 149] Section 55
 
-[Act 70]
+10. Universiti Teknologi MARA Act 1976 [Act 173] Subsection 33(1)
 
-5. Lembaga Kemajuan Terengganu Tengah Act
+11. Lembaga Kemajuan Kelantan Selatan Act 1978 Subsection 31(1) [Act 203]
 
-<!-- marginal: Section 31 -->
+12. Malaysian Handicraft Development Corporation Subsection 34(1) Act 1979 [Act 222]
 
-1973 [Act 104]
+13. Highway Authority Malaysia (Incorporation) Section 27 Act 1980 [Act 231]
 
-6. Malaysian Timber Industry Board (Incorporation)
+14. Lembaga Kemajuan Wilayah Pulau Pinang Act 1983 Subsection 32(1) [Act 282]
 
-<!-- marginal: Section 29 -->
+15. Atomic Energy Licensing Act 1984 [Act 304] Section 41
 
-Act 1973 [Act 105]
+16. Copyright Act 1987 [Act 332] Section 52
 
-7. Farmers’ Organization Authority Act 1973
-
-<!-- marginal: Subsection 33(1) -->
-
-[Act 110]
-
-8. Federal Agricultural Marketing Authority Act 1965
-
-<!-- marginal: Section 13 -->
-
-[Act 141]
-
-9. Pesticides Act 1974 [Act 149]
-
-<!-- marginal: Section 55 -->
-
-10. Universiti Teknologi MARA Act 1976 [Act 173]
-
-<!-- marginal: Subsection 33(1) -->
-
-11. Lembaga Kemajuan Kelantan Selatan Act 1978
-
-<!-- marginal: Subsection 31(1) -->
-
-[Act 203]
-
-12. Malaysian Handicraft Development Corporation
-
-<!-- marginal: Subsection 34(1) -->
-
-Act 1979 [Act 222]
-
-13. Highway Authority Malaysia (Incorporation)
-
-<!-- marginal: Section 27 -->
-
-Act 1980 [Act 231]
-
-14. Lembaga Kemajuan Wilayah Pulau Pinang Act 1983
-
-<!-- marginal: Subsection 32(1) -->
-
-[Act 282]
-
-15. Atomic Energy Licensing Act 1984 [Act 304]
-
-<!-- marginal: Section 41 -->
-
-16. Copyright Act 1987 [Act 332]
-
-<!-- marginal: Section 52 -->
-
-17. Malaysia Industrial Development Authority
-
-<!-- marginal: Subsection 13(2) -->
-
-(Incorporation) Act 1965 [Act 397]
+17. Malaysia Industrial Development Authority Subsection 13(2) (Incorporation) Act 1965 [Act 397]
 
 <!-- page 18 -->
 
@@ -592,47 +536,111 @@ No. Written Laws
 
 <!-- marginal: Description -->
 
-18. National Productivity Corporation (Incorporation) Subsection 17(2) Act 1966 [Act 408]
+18. National Productivity Corporation (Incorporation)
 
-19. Lembaga Pembangunan Langkawi Act 1990 Subsection 30(1) [Act 423]
+<!-- marginal: Subsection 17(2) -->
 
-20. Co-operative College (Incorporation) Act 1968 Subsection 12c(1) [Act 437]
+Act 1966 [Act 408]
 
-21. Malaysia Tourism Promotion Board Act 1992 Subsection 23(1) [Act 481]
+19. Lembaga Pembangunan Langkawi Act 1990
 
-22. Tourism Industry Act 1992 [Act 482] Subsection 35(1)
+<!-- marginal: Subsection 30(1) -->
 
-23. Majlis Amanah Rakyat Act 1966 [Act 489] Section 32
+[Act 423]
 
-24. Malaysian Construction Industry Development Subsection 36(1) Board Act 1994 [Act 520]
+20. Co-operative College (Incorporation) Act 1968
 
-25. Control of Paddy and Rice Act 1994 [Act 522] Subsection 30(1)
+<!-- marginal: Subsection 12c(1) -->
 
-26. Inland Revenue Board of Malaysia Act 1995 Subsection 31(1) [Act 533]
+[Act 437]
 
-27. Perbadanan Putrajaya Act 1995 [Act 536] Subsection 32(1)
+21. Malaysia Tourism Promotion Board Act 1992
 
-28. Perbadanan Tabung Pendidikan Tinggi Nasional Subsection 54(1) Act 1997 [Act 566]
+<!-- marginal: Subsection 23(1) -->
 
-29. Malaysia Palm Oil Board Act 1998 [Act 582] Subsection 66(1)
+[Act 481]
 
-30. Labuan Corporation Act 2001 [Act 609] Subsection 26(1)
+22. Tourism Industry Act 1992 [Act 482]
 
-31. Pembangunan Sumber Manusia Berhad Subsection 51(1) Act 2001 [Act 612]
+<!-- marginal: Subsection 35(1) -->
 
-32. Companies Commission of Malaysia Act 2001 Subsection 38(1) [Act 614]
+23. Majlis Amanah Rakyat Act 1966 [Act 489]
 
-33. Intellectual Property Corporation of Malaysia Subsection 39(1) Act 2002 [Act 617]
+<!-- marginal: Section 32 -->
 
-34. Skills Development Fund Act 2004 [Act 640] Subsection 91(1)
+24. Malaysian Construction Industry Development
+
+<!-- marginal: Subsection 36(1) -->
+
+Board Act 1994 [Act 520]
+
+25. Control of Paddy and Rice Act 1994 [Act 522]
+
+<!-- marginal: Subsection 30(1) -->
+
+26. Inland Revenue Board of Malaysia Act 1995
+
+<!-- marginal: Subsection 31(1) -->
+
+[Act 533]
+
+27. Perbadanan Putrajaya Act 1995 [Act 536]
+
+<!-- marginal: Subsection 32(1) -->
+
+28. Perbadanan Tabung Pendidikan Tinggi Nasional
+
+<!-- marginal: Subsection 54(1) -->
+
+Act 1997 [Act 566]
+
+29. Malaysia Palm Oil Board Act 1998 [Act 582]
+
+<!-- marginal: Subsection 66(1) -->
+
+30. Labuan Corporation Act 2001 [Act 609]
+
+<!-- marginal: Subsection 26(1) -->
+
+31. Pembangunan Sumber Manusia Berhad
+
+<!-- marginal: Subsection 51(1) -->
+
+Act 2001 [Act 612]
+
+32. Companies Commission of Malaysia Act 2001
+
+<!-- marginal: Subsection 38(1) -->
+
+[Act 614]
+
+33. Intellectual Property Corporation of Malaysia
+
+<!-- marginal: Subsection 39(1) -->
+
+Act 2002 [Act 617]
+
+34. Skills Development Fund Act 2004 [Act 640]
+
+<!-- marginal: Subsection 91(1) -->
 
 35. National Skills Development Act 2006 [Act 652] Subsection 71(1)
 
-36. Akademi Seni Budaya dan Warisan Kebangsaan Subsection 38(1) Act 2006 [Act 653]
+36. Akademi Seni Budaya dan Warisan Kebangsaan
 
-37. Malaysian Pepper Board Act 2006 [Act 656] Subsection 60(1)
+<!-- marginal: Subsection 38(1) -->
 
-38. Iskandar Regional Development Authority Act 2007 Subsection 49(1) [Act 664]
+Act 2006 [Act 653]
+
+37. Malaysian Pepper Board Act 2006 [Act 656]
+
+<!-- marginal: Subsection 60(1) -->
+
+38. Iskandar Regional Development Authority Act 2007
+
+<!-- marginal: Subsection 49(1) -->
+
+[Act 664]
 
 <!-- page 19 -->
 
@@ -684,7 +692,7 @@ Act 2008 [Act 688]
 
 This Bill (“the proposed Act”) seeks to make provisions for the sharing of data within the control of a public sector agency with other public sector agency, establishment of the National Data Sharing Committee, functions and powers of the Director General of the National Digital Department in relation to data sharing and other related matters.
 
-## Part I
+## PARTI
 
 2. Part I of the proposed Act contains preliminary matters.
 
@@ -704,7 +712,7 @@ Subclause 4(2) seeks to provide that any person who shares data under this Act i
 
 Further, subclause 4(3) seeks to provide that any data of the public sector agency shall be dealt with in accordance with the Official Secrets Act 1972 [Act 88] and any directives relating to the security of official document which are issued by the Government.
 
-## Part II
+## PARTII
 
 7. Part II of the proposed Act contains provision relating to the National Data Sharing Committee (“the Committee”).
 
@@ -720,13 +728,13 @@ Further, subclause 4(3) seeks to provide that any data of the public sector agen
 
 13. Clause 10 seeks to provide that the Committee may establish any subcommittee as the Committee considers necessary or expedient to assist the Committee in the performance of its functions.
 
-## Part III
+## PARTIII
 
 14. Part III of the proposed Act contains provision relating to the duties and powers of the Director General of the National Digital Department.
 
 15. Clause 11 seeks to provide for the duties and powers of the Director General of the National Digital Department under the proposed Act.
 
-## Part IV
+## PARTIV
 
 16. Part IV of the proposed Act contains provision relating to the sharing of data between public sector agencies.
 
@@ -752,7 +760,7 @@ Further, subclause 4(3) seeks to provide that any data of the public sector agen
 
 26. Clause 21 seeks to require the public sector agency to report the details relating to data sharing to the Director General of the National Digital Department.
 
-## Part V
+## PARTV
 
 27. Part V of the proposed Act contains the general provisions.
 

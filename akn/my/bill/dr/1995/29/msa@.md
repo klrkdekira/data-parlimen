@@ -16,7 +16,9 @@
 
 ## PERMULAAN
 
-1. Tajuk ringkas dan mula berkuatkuasa. 2. Tafsiran.
+1. Tajuk ringkas dan mula berkuatkuasa.
+
+2. Tafsiran.
 
 ## BAHAGIAN
 
@@ -24,7 +26,15 @@ II
 
 ## PELETAKHAKAN HARTA, DSB., PADA SYARIKAT PENGGANTI
 
-3. Peruntukan peletakhakan. 4. Pemegangan permulaan Kerajaan datam syarikat pengganti. 5. Pelaburan Kerajaan dalam sekuriti syarikat pengganti. 6. Perjalanan fungsi Menteri Kewangan melalui penama. 7. Struktur kewangan syarikat pengganti.
+3. Peruntukan peletakhakan.
+
+4. Pemegangan permulaan Kerajaan datam syarikat pengganti.
+
+5. Pelaburan Kerajaan dalam sekuriti syarikat pengganti.
+
+6. Perjalanan fungsi Menteri Kewangan melalui penama.
+
+7. Struktur kewangan syarikat pengganti.
 
 ## BAHAGIAN
 
@@ -80,19 +90,29 @@ hendaklah mula berkuatkuasa pada tarikh yang ditetapkan oleh Menteri melalui pem
 
 "liabiliti" ertinya liabiliti, hutang, tanggungan, kewajipan dan obligasi daripada tiap-tiap perihalan (sama ada pada masa sekarang atau pada masa hadapan, sebenar atau kontigen, dan sama ada kena dibayar atau hendak dipatuhi atau dilaksanakan di Malaysia atau di tempat lain);
 
-"Menteri" ertinya Menteri
-
-<!-- marginal: yang -->
+"Menteri" ertinya Menteri yang
 
 <!-- marginal: sedang -->
 
 dipertanggungkan dengan tanggungjawab untuk pembangunan bandar;
 
-"Perbadanan" ertinya Menteri Kewangan yang Akta 375. diperbadankan melalui Akta Menteri Kewangan (Perbadanan) 1957;
+"Perbadanan" ertinya Menteri Kewangan yang
 
-"Perbadanan Pembangunan Bandar" ertinya Perbadanan Pembangunan Bandar yang ditubuhkan di Akta 46 bawah Akta Perbadanan Pembangunan Bandar 1971;
+<!-- marginal: Akta 375. -->
 
-"syarikat pengganti" ertinya syarikat berhad menurut Akta 125. syer yang diperbadankan di bawah Akta Syarikat 1965 dan yang dinamakan oleh Menteri dalam perintah di bawah subseksyen 3(1), di mana harta, hak dan liabiliti Perbadanan Pembangunan Bandar dipindahkan dan diletakhakkan di bawah seksyen 3;
+diperbadankan melalui Akta Menteri Kewangan (Perbadanan) 1957;
+
+"Perbadanan Pembangunan Bandar" ertinya Perbadanan Pembangunan Bandar yang ditubuhkan di
+
+<!-- marginal: Akta 46 -->
+
+bawah Akta Perbadanan Pembangunan Bandar 1971;
+
+"syarikat pengganti" ertinya syarikat berhad menurut
+
+<!-- marginal: Akta 125. -->
+
+syer yang diperbadankan di bawah Akta Syarikat 1965 dan yang dinamakan oleh Menteri dalam perintah di bawah subseksyen 3(1), di mana harta, hak dan liabiliti Perbadanan Pembangunan Bandar dipindahkan dan diletakhakkan di bawah seksyen 3;
 
 "tarikh yang ditetapkan" ertinya tarikh yang Akta ini berkuatkuasa;
 
@@ -142,11 +162,33 @@ tarikh itu, segala harta, hak atau liabiliti Perbadanan Pembangunan Bandar henda
 
 (7) Pada dan selepas tarikh peletakhakan, apa-apa perjanjian yang berhubungan dengan mana-mana harta, hak dan liabiliti yang dipindahkan kepada dan terletakhak pada syarikat pengganti di bawah subseksyen (1) yang kepadanya Perbadanan Pembangunan Bandar adalah suatu pihak sebelum sahaja tarikh peletakhakan, sama ada secara bertulis atau tidak, dan sama ada atau tidak sedemikian sifatnya sehingga hak dan liabiliti di bawahnya boleh diserahhakkan oleh Perbadanan Pembangunan Bandar, hendaklah mempunyai kesan seolah-olah syarikat itu telah menjadi suatu pihak kepada perjanjian itu.
 
-(8) Bagi mengelakkan keraguan, pemindahan kepada dan peletakhakan hak pada syarikat pengganti di bawah subseksyen 3(1) tidaklah boleh termasuk pemindahan dan peletakhakan hak Perbadanan Pembangunan Bandar di Akta 46. bawah seksyen 18 Akta Perbadanan Pembangunan Bandar 1971.
+(8) Bagi mengelakkan keraguan, pemindahan kepada dan peletakhakan hak pada syarikat pengganti di bawah subseksyen 3(1) tidaklah boleh termasuk pemindahan dan peletakhakan hak Perbadanan Pembangunan Bandar di
 
-Pemegangan
+<!-- marginal: Akta 46. -->
 
-4. (1) Sebagai akibat peletakhakan harta, hak dan liabiliti permulaan pada syarikat pengganti di bawah seksyen 3, syarikat Kerajaan dalam pengganti itu hendaklah menerbitkan apa-apa sekuriti syarikat syarikat pengganti itu sebagaimana yang diarahkan oleh pengganti. Menteri Kewangan, selepas berunding dengan Menteri, dari semasa ke semasa, kepada Perbadanan.
+bawah seksyen 18 Akta Perbadanan Pembangunan Bandar 1971.
+
+<!-- marginal: Pemegangan -->
+
+4. (1) Sebagai akibat peletakhakan harta, hak dan liabiliti
+
+<!-- marginal: permulaan -->
+
+pada syarikat pengganti di bawah seksyen 3, syarikat
+
+<!-- marginal: Kerajaan -->
+
+<!-- marginal: dalam -->
+
+pengganti itu hendaklah menerbitkan apa-apa sekuriti
+
+<!-- marginal: syarikat -->
+
+syarikat pengganti itu sebagaimana yang diarahkan oleh
+
+<!-- marginal: pengganti. -->
+
+Menteri Kewangan, selepas berunding dengan Menteri, dari semasa ke semasa, kepada Perbadanan.
 
 <!-- page 7 -->
 
@@ -198,7 +240,11 @@ subsidiari syarikat pengganti; atau
 
 ## RANG UNDANG-UNDANG
 
-(3) Apa-apa perbelanjaan yang dilakukan oleh Perbadanan berikutan dengan peruntukan seksyen ini hendaklah dikira sebagai pelaburan dan dibenarkan Akta 61. di bawah subperenggan 8(3)(a)(iv) Akta Prosedur Kewangan 1957.
+(3) Apa-apa perbelanjaan yang dilakukan oleh Perbadanan berikutan dengan peruntukan seksyen ini hendaklah dikira sebagai pelaburan dan dibenarkan
+
+<!-- marginal: Akta 61. -->
+
+di bawah subperenggan 8(3)(a)(iv) Akta Prosedur Kewangan 1957.
 
 (4) Apa-apa dividen atau jumlah wang lain yang diterima oleh Perbadanan sebagai hak, atas pelupusan atau selainnya berkaitan dengan, apa-apa sekuriti atau hak yang diperolehi di bawah seksyen ini hendaklah dibayar ke dalam Kumpulan Wang Disatukan.
 
@@ -210,9 +256,23 @@ subsidiari syarikat pengganti; atau
 
 (1)(a). perenggan
 
-Perjalanan
+<!-- marginal: Perjalanan -->
 
-6. (1) Menteri Kewangan boleh, selepas berunding fungsi Menteri dengan Menteri, melantik mana-mana orang yang Kewangan melalui difikirkannya layak untuk bertindak sebagai penamanya penama bagi maksud-maksud seksyen 4 atau 5 dan—
+6. (1) Menteri Kewangan boleh, selepas berunding
+
+<!-- marginal: fungsi Menteri -->
+
+dengan Menteri, melantik mana-mana orang yang
+
+<!-- marginal: Kewangan -->
+
+<!-- marginal: melalui -->
+
+difikirkannya layak untuk bertindak sebagai penamanya
+
+<!-- marginal: penama -->
+
+bagi maksud-maksud seksyen 4 atau 5 dan—
 
 (a) sekuriti syarikat pengganti boleh diserahhak di bawah penama Menteri Kewangan yang dilantik bagi maksud-maksud seksyen itu atau kepada mana-mana orang yang berhak menghendaki penerbitan sekuriti itu berikutan dengan penguntukan permulaannya kepada mana-mana penama itu; dan
 
@@ -248,7 +308,9 @@ sebelum syarikat pengganti terhenti daripada dipunyai pada keseluruhannya oleh K
 
 (5) Tanpa menjejaskan keluasan peruntukan subseksyen (4), amaun yang hendak dimasukkan dari semasa ke semasa dalam mana-mana rizab syarikat pengganti sebagai merupakan hasil keuntungan terkumpul hendaklah ditentukan seolah-olah apa-apa keuntungan yang dihasilkan dan disimpan oleh Perbadanan Pembangunan Bandar, telah dihasilkan dan disimpan oleh syarikat pengganti.
 
-(6) Sebutan dalam seksyen ini mengenai akaun statutori syarikat pengganti adalah sebutan mengenai apa-apa akaun yang disediakan oleh syarikat pengganti bagi maksud- maksud mana-mana peruntukan Akta Syarikat 1965. Akta 125.
+(6) Sebutan dalam seksyen ini mengenai akaun statutori syarikat pengganti adalah sebutan mengenai apa-apa akaun yang disediakan oleh syarikat pengganti bagi maksud- maksud mana-mana peruntukan Akta Syarikat 1965.
+
+<!-- marginal: Akta 125. -->
 
 (7) Bagi maksud-maksud seksyen ini, "tahun perakaunan genap" ertinya sesuatu tahun perakaunan yang berakhir pada 31 Disember atau suatu tempoh yang ditentukan oleh Menteri Kewangan.
 
@@ -258,7 +320,7 @@ III
 
 ## PERUNTUKAN BERHUBUNGAN DENGAN KAKITANGAN
 
-Kakitangan.
+<!-- marginal: Kakitangan. -->
 
 8. (1) Syarikat pengganti hendaklah menerima sebagai pekerjanya pada suatu tarikh yang akan ditetapkan oleh Menteri melalui pemberitahuan dalam Warta tiap-tiap orang yang sebelum sahaja tarikh itu ialah anggota kakitangan Perbadanan Pembangunan Bandar dan yang telah diberikan pilihan oleh Perbadanan Pembangunan Bandar dan telah membuat pilihan untuk berkhidmat sebagai pekerja syarikat pengganti itu.
 
@@ -322,6 +384,4 @@ Subfasal 7(7) memperuntukkan bahawa suatu "akaun tahunan berakhir" bererti akaun
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
-
-<!-- marginal: [PN. (U2) 1890. ] -->
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN. (U2) 1890. ]

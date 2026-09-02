@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-10-2022",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_4"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Employees' Social Security (Amendment) Bill 2022"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Employees’ Social Security (Amendment) Act 2022."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Amendment of section 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Employees’ Social Security Act 1969 [Act 4], which is referred to as the “principal Act” in this Act, is amended in subsection 5(2) by substituting for the words “four thousand ringgit” wherever appearing the words “five thousand ringgit”. Amendment of Third Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Third Schedule to the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_3__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_3__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_3__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_3__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for item 44 the following item: Monthly Employer’s Wages Contribution Contribution “44. When RM69.15 wages exceed RM3,900 but not RM4,000"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_3__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_3__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for item 45 the following item: Monthly Employer’s Employee’s Wages Contribution Contribution RM70.85 “45. When wages exceed RM4,000 but not RM4,100 (iii) by inserting after item 45 the following items: Monthly Employer’s Employee’s Wages Contribution Contribution “46. When RM72.65 wages exceed RM4,100 but not RM4,200 47. When RM74.35 wages exceed RM4,200 but not RM4,300 Monthly Employer’s Employee’s Total Wages Contribution Contribution 48. When RM76.15 RM21.75 RM97.90 wages exceed RM4,300 but not RM4,400 49. When RM77.85 RM22.25 RM100.10 wages exceed RM4,400 but not RM4,500 50. When RM79.65 RM22.75 RM102.40 wages exceed RM4,500 but not RM4,600 51. When RM81.35 RM23.25 RM104.60 wages exceed RM4,600 but not RM4,700 52. When RM83.15 RM23.75 RM106.90 wages exceed RM4,700 but not RM4,800 53. When RM84.85 RM24.25 RM109.10 wages exceed RM4,800 but not RM4,900 54. When RM86.65 RM24.75 RM111.40 wages exceed RM4,900 but not RM5,000 55. When RM86.65 RM24.75 RM111.40”; and wages exceed RM5,000"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_3__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_3__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 4—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_3__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_3__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for item 45 the following item: Monthly Wages Employer’s Contribution “45. When wages exceed RM4,000 RM50.60”; and but not RM4,100"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_3__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_3__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after item 45 the following items: Monthly Wages Employer’s Contribution “46. When wages exceed RM4,100 RM51.90 but not RM4,200 47. When wages exceed RM4,200 RM53.10 but not RM4,300 48. When wages exceed RM4,300 RM54.40 but not RM4,400 49. When wages exceed RM4,400 RM55.60 but not RM4,500 50. When wages exceed RM4,500 RM56.90 but not RM4,600 51. When wages exceed RM4,600 RM58.10 but not RM4,700 52. When wages exceed RM4,700 RM59.40 but not RM4,800 53. When wages exceed RM4,800 RM60.60 but not RM4,900 54. When wages exceed RM4,900 RM61.90 but not RM5,000 55. When wages exceed RM5,000 RM61.90”. Amendment of Fourth Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_4__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_4__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Fourth Schedule to the principal Act is amended in"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in item 35, in the column of “First Category”, by substituting for the words “RM68.40” the words “RM68.60”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in item 44, in the column of “First Category”, by substituting for the words “RM88.80” the words “RM88.90”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for item 45 the following item: Actual monthly First Second wage of the Category Category month “45. When wages RM91.10 RM50.60 exceed RM4,000 but not RM4,100"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_4__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/10/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after item 45 the following items: Actual monthly First Second wage of the Category Category month “46. When wages RM93.40 RM51.90 exceed RM4,100 but not RM4,200 47. When wages RM95.60 RM53.10 exceed RM4,200 but not RM4,300 48. When wages RM97.90 RM54.40 exceed RM4,300 but not RM4,400 49. When wages RM100.10 RM55.60 exceed RM4,400 but not RM4,500 50. When wages RM102.40 RM56.90 exceed RM4,500 but not RM4,600 51. When wages RM104.60 RM58.10 exceed RM4,600 but not RM4,700 Actual monthly First Second wage of the Category Category month 52. When wages RM106.90 RM59.40 exceed RM4,700 but not RM4,800 53. When wages RM109.10 RM60.60 exceed RM4,800 but not RM4,900 54. When wages RM111.40 RM61.90 exceed RM4,900 but not RM5,000 55. When wages RM111.40 RM61.90 exceed RM5,000"
+      }
+    }
+  ]
+}

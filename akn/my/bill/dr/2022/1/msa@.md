@@ -16,7 +16,9 @@ MAKA, OLEH YANG DEMIKIAN, menurut Fasal (1)(b) Perkara 76 Perlembagaan Persekutu
 
 1. (1) Akta ini bolehlah dinamakan Akta Perhutanan Negara (Pindaan) 2022 dan adalah terpakai di seluruh Malaysia.
 
-(2) Akta ini tidaklah boleh berkuat kuasa dalam sesuatu Negeri melainkan ia telah diterima pakai oleh suatu undang-undang yang dibuat oleh Badan Perundangan Negeri menurut Fasal (3) Perkara 76 Perlembagaan Persekutuan.
+(2) Akta ini tidaklah boleh berkuat kuasa dalam sesuatu Negeri melainkan ia telah diterima pakai oleh suatu undang-undang yang dibuat oleh Badan Perundangan Negeri menurut Fasal (3)
+
+## Perkara 76 Perlembagaan Persekutuan.
 
 (3) Akta ini mula berkuat kuasa di Wilayah Persekutuan Kuala Lumpur, Labuan dan Putrajaya pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
 
@@ -236,7 +238,9 @@ didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh t
 
 ### Pindaan seksyen 48
 
-19. Seksyen 48 Akta ibu dipinda dengan menggantikan perkataan “47(a), (c) dan (d)” dengan perkataan “47(a), (aa), (c), (d) dan (da)”.
+19. Seksyen 48 Akta ibu dipinda dengan menggantikan perkataan “47(a), (c) dan (d)” dengan perkataan “47(a), (aa),
+
+(c), (d) dan (da)”.
 
 <!-- page 10 -->
 

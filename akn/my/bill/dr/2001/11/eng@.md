@@ -14,7 +14,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ### Short title
 
-1. This Act may be cited as the Sales Tax (Amendment) Act 2001.
+1. This Act may be cited as the Sales Tax (Amendment) Act
+
+2001.
 
 ### Amendment of section 2
 
@@ -62,7 +64,9 @@ wound up, the directors of such company shall only be so liable where the assets
 
 ### Amendment of section 36
 
-5. Section 36 of the principal Act is amended by deleting subsections (2A) and (2B).
+5. Section 36 of the principal Act is amended by deleting subsections
+
+(2A) and (2B).
 
 <!-- page 3 -->
 

@@ -42,15 +42,23 @@ by inserting after the definition of "individual" the following definition:
 
 (c) in subsection (8) by inserting after the words "public officer" the words "or an employee of the Inland Revenue Board of Malaysia".
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. Subsection 137(2) of the principal Act is amended by of section inserting after the words "public officer" the words "or
+4. Subsection 137(2) of the principal Act is amended by
+
+<!-- marginal: of section -->
+
+inserting after the words "public officer" the words "or
 
 137. an employee of the Inland Revenue Board of Malaysia".
 
-Amendment
+<!-- marginal: Amendment -->
 
-5. Subsection 138(5) of the principal Act is amended in of section the definition of "classified person"—
+5. Subsection 138(5) of the principal Act is amended in
+
+<!-- marginal: of section -->
+
+the definition of "classified person"—
 
 138.
 
@@ -62,9 +70,13 @@ Amendment
 
 "(d) any employee of the Inland Revenue Board of Malaysia;".
 
-Amendment
+<!-- marginal: Amendment -->
 
-6. Section 144 of the principal Act is amended by inserting of section after the words "public officer" the words "or employee
+6. Section 144 of the principal Act is amended by inserting
+
+<!-- marginal: of section -->
+
+after the words "public officer" the words "or employee
 
 144. of the Inland Revenue Board of Malaysia".
 

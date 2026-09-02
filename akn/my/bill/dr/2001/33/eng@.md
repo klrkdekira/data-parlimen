@@ -178,7 +178,9 @@ Geographical Indications (Amendment) 7
 
 ## EXPLANATORY STATEMENT
 
-This Bill seeks to amend the Geographical Indications Act 2000 ("Act 602"), consequent upon the establishment of the Intellectual Property Corporation of Malaysia under the proposed Intellectual Property Corporation of Malaysia Act 2001.
+This Bill seeks to amend the Geographical Indications Act 2000 ("Act 602"), consequent upon the establishment of the Intellectual Property Corporation of Malaysia under the proposed Intellectual Property Corporation of Malaysia Act
+
+2001.
 
 2. Clause 1 contains the short title and provisions on the commencement of the proposed amendment Act.
 

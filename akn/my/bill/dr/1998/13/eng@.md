@@ -56,13 +56,21 @@ as the case may be, as directed by the Commissioner.".
 
 (c) by inserting after the words "to be maintained by them" in paragraph (i) the words "and the granting of exemptions by the Commissioner to any tourism enterprise or tourist guide from any requirement imposed by regulations made under this paragraph".
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. Section 25 of the principal Act is amended by of section 25. substituting for the words "twelve months" the words "not exceeding three years".
+4. Section 25 of the principal Act is amended by
 
-Amendment
+<!-- marginal: of section 25. -->
 
-5. Subsection 40(1) of the principal Act is amended by of section 40. deleting the words "or officer of the Malaysia Tourism Promotion Board".
+substituting for the words "twelve months" the words "not exceeding three years".
+
+<!-- marginal: Amendment -->
+
+5. Subsection 40(1) of the principal Act is amended by
+
+<!-- marginal: of section 40. -->
+
+deleting the words "or officer of the Malaysia Tourism Promotion Board".
 
 ## EXPLANATORY STATEMENT
 
@@ -76,9 +84,7 @@ This Bill seeks to amend the Tourism Industry Act 1992 ("the Act").
 
 or tourist guide from any requirement imposed by regulations made under that paragraph 34(2)(i).
 
-4. Clause 4 seeks to amend section 25 of the Act to provide for the extension of the period of validity of a licence granted under
-
-## Part IV of the Act.
+4. Clause 4 seeks to amend section 25 of the Act to provide for the extension of the period of validity of a licence granted under Part IV of the Act.
 
 5. Clause 5 seeks to amend section 40 of the Act to provide that the powers of enforcement under this Act shall be exercised by a public officer in the Ministry responsible for tourism.
 
@@ -86,6 +92,4 @@ or tourist guide from any requirement imposed by regulations made under that par
 
 ## IMPLICATIONS
 
-The Bill will not involve the Government in any extra financial expenditure.
-
-<!-- marginal: [PN. (U2) 1980.] -->
+The Bill will not involve the Government in any extra financial expenditure. [PN. (U2) 1980.]

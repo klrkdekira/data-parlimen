@@ -20,101 +20,149 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ## SCHEDULE
 
-Purpose Title
+<!-- marginal: Purpose -->
+
+Title
 
 <!-- marginal: Amount -->
 
 <!-- marginal: (RM) -->
 
-B. 1 Parliament
+<!-- marginal: B. 1 -->
+
+Parliament
 
 <!-- marginal: 14,691,200 -->
 
-B. 4 Election Commission
+<!-- marginal: B. 4 -->
+
+Election Commission
 
 <!-- marginal: 4,636,900 -->
 
-B. 5 Public Services Commission
+<!-- marginal: B. 5 -->
+
+Public Services Commission
 
 <!-- marginal: 412,300 -->
 
-B. 6 Prime Minister’s Department
+<!-- marginal: B. 6 -->
+
+Prime Minister’s Department
 
 <!-- marginal: 285,790,000 -->
 
-B. 7 Public Services Department
+<!-- marginal: B. 7 -->
+
+Public Services Department
 
 <!-- marginal: 592,345,100 -->
 
-B. 8 Attorney General’s Chambers
+<!-- marginal: B. 8 -->
+
+Attorney General’s Chambers
 
 <!-- marginal: 23,956,100 -->
 
-B. 9 Malaysian Anti-Corruption Commission
+<!-- marginal: B. 9 -->
+
+Malaysian Anti-Corruption Commission
 
 <!-- marginal: 1,215,300 -->
 
-B. 12 Contribution to Statutory Funds
+<!-- marginal: B. 12 -->
 
-<!-- marginal: 8,020,353,100 -->
+Contribution to Statutory Funds 8,020,353,100
 
-B. 20 Ministry of Plantation Industries and Commodities
+<!-- marginal: B. 20 -->
+
+Ministry of Plantation Industries and Commodities
 
 <!-- marginal: 324,000,000 -->
 
-B. 21 Ministry of Agriculture and Agro-based Industry
+<!-- marginal: B. 21 -->
+
+Ministry of Agriculture and Agro-based Industry
 
 <!-- marginal: 11,940,000 -->
 
-B. 22 Ministry of Rural and Regional Development
+<!-- marginal: B. 22 -->
+
+Ministry of Rural and Regional Development
 
 <!-- marginal: 20,998,000 -->
 
-B. 24 Ministry of International Trade and Industry
+<!-- marginal: B. 24 -->
+
+Ministry of International Trade and Industry
 
 <!-- marginal: 5,700,000 -->
 
-B. 25 Ministry of Domestic Trade, Cooperatives and
+<!-- marginal: B. 25 -->
+
+Ministry of Domestic Trade, Cooperatives and
 
 <!-- marginal: 356,690,000 -->
 
-Consumerism B. 28 Ministry of Transport
+Consumerism
+
+<!-- marginal: B. 28 -->
+
+Ministry of Transport
 
 <!-- marginal: 87,349,000 -->
 
-B. 30 Ministry of Science, Technology and Innovations
+<!-- marginal: B. 30 -->
+
+Ministry of Science, Technology and Innovations
 
 <!-- marginal: 43,040,000 -->
 
-B. 32 Ministry of the Federal Territories and Urban
+<!-- marginal: B. 32 -->
+
+Ministry of the Federal Territories and Urban
 
 <!-- marginal: 20,000,000 -->
 
-Wellbeing B. 41 Ministry of Education
+Wellbeing
 
-<!-- marginal: 1,759,019,400 -->
+<!-- marginal: B. 41 -->
 
-B. 42 Ministry of Health
+Ministry of Education 1,759,019,400
 
-<!-- marginal: 1,007,900,000 -->
+<!-- marginal: B. 42 -->
 
-B. 45 Ministry of Youth and Sports
+Ministry of Health 1,007,900,000
+
+<!-- marginal: B. 45 -->
+
+Ministry of Youth and Sports
 
 <!-- marginal: 10,000,000 -->
 
-B. 47 Ministry of Information, Communication and
+<!-- marginal: B. 47 -->
+
+Ministry of Information, Communication and
 
 <!-- marginal: 5,000,000 -->
 
-Culture B. 49 Ministry of Higher Education
+Culture
+
+<!-- marginal: B. 49 -->
+
+Ministry of Higher Education
 
 <!-- marginal: 35,000,000 -->
 
-B. 60 Ministry of Defence
+<!-- marginal: B. 60 -->
+
+Ministry of Defence
 
 <!-- marginal: 47,710,200 -->
 
-B. 62 Ministry of Home Affairs
+<!-- marginal: B. 62 -->
+
+Ministry of Home Affairs
 
 <!-- marginal: 493,251,000 -->
 

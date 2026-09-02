@@ -56,9 +56,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Interpretation
 
-### 44b.
-
-In this Part, unless the context otherwise requires—
+44B. In this Part, unless the context otherwise requires—
 
 “beneficiary” means—
 

@@ -20,7 +20,9 @@ oleh Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan De
 
 <!-- marginal: ringkas. -->
 
-Pembangunan Perdagangan Luar Malaysia (Pindaan) 1994.
+Pembangunan Perdagangan Luar Malaysia (Pindaan)
+
+1994.
 
 <!-- marginal: Pindaan -->
 

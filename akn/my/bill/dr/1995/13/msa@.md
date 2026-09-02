@@ -48,11 +48,17 @@ melalui pemberitahuan dalam Warta; dengan syarat bahawa penyiasatan, pemeriksaan
 
 (2) Bagi maksud perenggan (l)(b), tiada institusi pendidikan boleh dinyatakan dalam Jadual Ketiga melainkan jika—
 
-(a) ia adalah suatu institusi pendidikan yang didaftarkan di bawah Akta Pendidikan 1961 Akta 43/61. atau mana-mana undang-undang yang berkaitan dengan pendaftaran suatu institusi pendidikan; dan
+(a) ia adalah suatu institusi pendidikan yang didaftarkan di bawah Akta Pendidikan 1961
+
+<!-- marginal: Akta 43/61. -->
+
+atau mana-mana undang-undang yang berkaitan dengan pendaftaran suatu institusi pendidikan; dan
 
 (b) ia bergabung dengan mana-mana institusi yang dinyatakan dalam ruang kedua Jadual Kedua bagi maksud memberikan kepada penuntut institusi pendidikan itu kelayakan yang dinyatakan yang terdapat ber- setentangan dengan institusi itu.
 
-(3) Mana-mana hospital, klinik, pusat kesihatan atau institusi lain yang diuruskan dan dikendalikan oleh Kerajaan dan diluluskan oleh Menteri di bawah subseksyen (1) tidaklah bertanggungan bagi apa- apa kecederaan, kerugian atau kerosakan daripada jenis sivil yang berlaku kepada mana-mana pesakit atau orang lain semata-mata akibat daripada apa- apa penyiasatan, pemeriksaan atau perawatan pesakit di bawah subseksyen (1) oleh seseorang yang mengikuti kursus pengajian perubatan atau pembedahan yang dinyatakan di bawah perenggan (l)(a) atau (b); dengan syarat bahawa tiada apa- apa jua dalam subseksyen ini boleh ditafsirkan sebagai memberi kepada orang itu atau kepada Universiti atau Kolej Universiti atau institusi pendidikan yang dia mengikuti kursus pengajian itu atau kepada mana-mana pegawai atau pekerja Universiti atau Kolej Universiti atau institusi
+(3) Mana-mana hospital, klinik, pusat kesihatan atau institusi lain yang diuruskan dan dikendalikan oleh Kerajaan dan diluluskan oleh Menteri di bawah subseksyen (1) tidaklah bertanggungan bagi apa- apa kecederaan, kerugian atau kerosakan daripada jenis sivil yang berlaku kepada mana-mana pesakit atau orang lain semata-mata akibat daripada apa- apa penyiasatan, pemeriksaan atau perawatan pesakit di bawah subseksyen (1) oleh seseorang yang mengikuti kursus pengajian perubatan atau pembedahan yang dinyatakan di bawah perenggan
+
+(l)(a) atau (b); dengan syarat bahawa tiada apa- apa jua dalam subseksyen ini boleh ditafsirkan sebagai memberi kepada orang itu atau kepada Universiti atau Kolej Universiti atau institusi pendidikan yang dia mengikuti kursus pengajian itu atau kepada mana-mana pegawai atau pekerja Universiti atau Kolej Universiti atau institusi
 
 <!-- page 3 -->
 

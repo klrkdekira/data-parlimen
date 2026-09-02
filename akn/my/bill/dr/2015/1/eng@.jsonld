@@ -1,0 +1,465 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-1-2015",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_15"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Chemists (Amendment) Act Bill 2015"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 23 of the principal Act is amended by substituting for subsection (3) the following subsection: “(3) Any person who contravenes subsection (1) or (2) commits an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding one year or to both and, for the second and subsequent offence, to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding two years or to both.”. Amendment of section 23a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subparagraph 23a(1)(a)(i) of the principal Act is amended by substituting for the words “pass or honours degree” the word “degree”. Amendment of section 25"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 25 of the principal Act is amended by substituting for the words “is guilty of an offence and is liable to a fine of one thousand ringgit or to imprisonment for one year” the words “commits an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding two years or to both”. Amendment of section 27"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 27 of the principal Act is amended by substituting for subsection (3) the following subsection: “(3) Any person who obstructs or impedes an Inspector in the exercise of his powers under subsection (2) commits an offence and shall, on conviction, be liable to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding one year.”. Amendment of First Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The First Schedule to the principal Act is amended in subparagraph 5(2), by substituting for the word “Seven” the word “Nine”. Saving"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who, on or before the date of coming into operation of this Act, had been registered as an “Associate” shall be deemed to be registered as a “Member” under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Chemists (Amendment) Act 2015."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chemists Act 1975 [Act 158], which is referred to as the “principal Act” in this Act, is amended in section 2 by inserting after the definition of ‘ “member” or “member of the Institute” or “registered chemist” ’ the following definition: ‘ “Minister” means the Minister charged with the responsibility for science, technology and innovation;’. Amendment of section 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_3__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 7 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (b) the following paragraph: “(b) to provide— (i) for the training, education and examination by the Institute or any other body, of persons intending to be members; and (ii) for the training and continuous professional development of members practising or intending to practise the profession of chemistry in Malaysia;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (d) the following paragraph: “ (d) to promote the importance of the profession of chemistry and also to increase public awareness and appreciation with regard to the field of chemistry;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (e), by substituting for the full stop at the end of paragraph (e) a semicolon; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (e) the following paragraphs: “(f) to provide information and advice to members and the public on matters relating to chemistry; (g) to collaborate with other government agencies, national and international professional bodies, national and international scientific organizations and higher educational institutions on matters relating to chemistry; (h) to provide professional input, advice and consultation on national and global issues affecting the public by working closely with academia, other professional bodies and the industry; (i) to approve or refuse the granting of accreditation of chemistry and chemistry-related programs in public higher educational institutions and private higher educational institutions in Malaysia in accordance with the Malaysian Qualifications Agency Act 2007 [Act 679]; (j) to advise the Minister on matters relating to chemistry and chemistry profession; and (k) to promote advances in the field of chemistry and chemistry-related sciences and their applications.”. Amendment of section 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 9(1) of the principal Act is amended by substituting for the word “thirteen” the word “fifteen”. Amendment of section 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_5__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_5__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 14 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: “(1a) Whenever the post of the Registrar is vacant due to the vacancy of the post of the Director General of Chemistry, the Minister shall appoint any person to perform the duties of the Registrar until the new Director General of Chemistry is appointed.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by deleting the words “, with the approval of the Minister,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4), by substituting for the word “Registrar” the word “Council”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_5__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (5). Amendment of section 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 15 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words “as Fellows, Associates and Licentiates” the words “into three grades, namely Fellow, Member and Licentiate.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (3) the following subsection: “(3) The Registrar shall cause to be published in the Gazette, at least once in every year, a copy of the register which contains changes to the list of membership roll of the register of members who have been removed from the register, included in the register or upgraded from Licentiate to Member or Member to Fellow.”. Amendment of section 17"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_7__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_7__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 17 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words “Fellowship, Associateship and Licentiateship” the words “Fellow, Member and Licentiate”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (2)(a), by substituting for the words “pass or honours degree” the word “degree”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_7__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_7__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_7__para_c__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_7__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_7__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “an Associate” the words “a Member”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_7__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_7__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by substituting for the words “pass or honours degree” the word “degree”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_7__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_7__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (b) the following paragraph: “ (b) practical experience in chemistry of not less than three years for a degree or its equivalent or not less than one year for a masters or higher degree or its equivalent; and”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_7__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_7__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_7__para_d__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_7__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_7__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by substituting for the words “pass or honours degree” the word “degree”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_7__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_7__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (b) the following paragraph: “ (b) practical experience in chemistry of not less than one year for a degree or its equivalent; and”. Amendment of section 18"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_8__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 18(2) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “an Associate” the words “a Member”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “Associate of the Malaysian Institute of Chemistry” the words “Member of the Malaysian Institute of Chemistry”. Amendment of section 19"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/1/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 19 of the principal Act is amended by substituting for subsection (2) the following subsection: “(2) Any member who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding five thousand ringgit and the Council may suspend his membership for a term not exceeding one year and if convicted for the second time for an offence under subsection (1), the Council may terminate his membership immediately.”. Amendment of section 23"
+      }
+    }
+  ]
+}

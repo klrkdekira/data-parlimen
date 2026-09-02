@@ -1,0 +1,1958 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-27-2008",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Judicial Appointments Commission Bill 2008"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_I__cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_I__cl_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY Short title, commencement and application"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_20"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ESTABLISHMENT OF THE JUDICIAL APPOINTMENTS COMMISSION Establishment of the Judicial Appointments Commission"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_III__cl_21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "FUNCTIONS AND POWERS OF THE COMMISSION Functions and powers of the Commission"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_III__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_III__cl_21__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_III__cl_21__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_III__cl_21__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_III__cl_21__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_III__cl_21__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_III__cl_21__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_III__cl_21__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_III__cl_21__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_III__cl_21__subsec_1__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The functions of the Commission are—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_III__cl_21__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_III__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to select suitably qualified persons who merit appointment as judges of the superior court for the Prime Minister’s consideration;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_III__cl_21__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_III__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to receive applications from qualified persons for the selection of judges to the superior court;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_III__cl_21__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_III__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to formulate and implement mechanisms for the selection and appointment of judges of the superior court;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_III__cl_21__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_III__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to review and recommend programmes to the Prime Minister to improve the administration of justice;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_III__cl_21__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_III__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to make other recommendations about the judiciary; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_III__cl_21__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_III__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to do such other things as it deems fit to enable it to perform its functions effectively or which are incidental to the performance of its functions under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_III__cl_21__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission shall have all such powers as may be necessary for, or in connection with, or reasonably incidental to, the performance of its functions under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10__subsec_1__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The office of a member of the Commission shall be vacated if—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he dies;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10__subsec_1__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10__subsec_1__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10__subsec_1__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "there has been proved against him, or he has been convicted of, a charge in respect of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10__subsec_1__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10__subsec_1__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an offence involving fraud, dishonesty or moral turpitude;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10__subsec_1__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10__subsec_1__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an offence under any law relating to corruption; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10__subsec_1__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10__subsec_1__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other offence punishable with imprisonment (in itself only or in addition to or in lieu of a fine) for more than two years;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he becomes a bankrupt;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he is of unsound mind or is otherwise incapable of discharging his duties;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he absents himself from three consecutive meetings of the Commission without leave of the Chairman or, in the case of the Chairman, without leave of the Prime Minister;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "his appointment is revoked by the Prime Minister; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "his resignation is accepted by the Prime Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the office of a member of the Commission is vacated pursuant to subsection (1), the Prime Minister may appoint any person he deems fit to fill up the vacancy thereby created for the remainder of the term vacated by the member or for the interim period until a new person is appointed to the office or the position held by that member prior to his vacating the office or position."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any period of appointment made under subsection (2) shall not be taken into consideration in the reckoning of the period of appointment specified in section 6. Disclosure of interest"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any member of the Commission related or connected to any candidate being considered for selection shall disclose to the Commission his relationship to the candidate."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A disclosure under subsection (1) shall be recorded in the minutes of the meeting of the Commission in which the matter is discussed or deliberated and, after the disclosure, the member—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall not be present in any discussion or deliberation, or decision of the Commission when the matter is discussed or deliberated, or decided upon; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall be disregarded for the purpose of constituting a quorum of the Commission when the matter is discussed or deliberated, or decided upon."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purpose of this section— “related”, in relation to a member of the Commission, means—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_1__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_1__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_1__para_i"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a spouse or former spouse of the member of the Commission;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a brother or sister of the member of the Commission;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a brother or sister of a spouse or a former spouse of the member of the Commission;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a lineal ascendant or descendant of the member of the Commission;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a lineal ascendant or descendant of a spouse or a former spouse of the member of the Commission;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a spouse or a former spouse of any person referred to in paragraph (b), (c), (d) or (e);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a lineal descendant of a person referred to in paragraph (b), (c) or (f);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_1__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an uncle, aunt or a cousin of the member of the Commission, or an uncle, aunt or a cousin of a spouse or a former spouse of the member of the Commission; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_1__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a lineal ascendant or descendant of the person referred to in paragraph (h); “connected”, in relation to a member of the Commission, means—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a person who is a nominee of the member of the Commission;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a partner of the member of the Commission;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a former partner of the member of the Commission;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a spouse of a partner or former partner of the member of the Commission;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a former spouse of a partner or former spouse of a former partner of the member of the Commission;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2__para_f__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2__para_f__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2__para_f__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2__para_f__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a person practising in a firm in which the member of the Commission or his nominee—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2__para_f__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2__para_f",
+      "schema:text": {
+        "@language": "en",
+        "@value": "is a partner;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2__para_f__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2__para_f",
+      "schema:text": {
+        "@language": "en",
+        "@value": "is a person in charge or in control of its business or affairs;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2__para_f__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2__para_f",
+      "schema:text": {
+        "@language": "en",
+        "@value": "is a consultant; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2__para_f__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2__para_f",
+      "schema:text": {
+        "@language": "en",
+        "@value": "is employed in;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2__para_g__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2__para_g__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a person who is a director in any corporation in which the member of the Commission or his nominee—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2__para_g__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2__para_g",
+      "schema:text": {
+        "@language": "en",
+        "@value": "is a director; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2__para_g__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2__para_g",
+      "schema:text": {
+        "@language": "en",
+        "@value": "is in charge or in control of its business or affairs; or has or have a controlling interest or shares to the total value of not less than thirty per centum of the total issued capital of the corporation; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_3__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a trustee of a trust under which the member of the Commission or the member’s family is a beneficiary."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any member of the Commission who fails to disclose his interest as required under subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding two years or to both. Protection from personal liability"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No member of the Commission shall incur personal liability for any loss or damage caused by any act or omission in administering the affairs of the Commission, unless the loss or damage is occasioned by an intentionally wrongful act or omission on his part. Meetings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_13__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_13__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_13__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_13__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_13__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_13__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission shall meet at least once a month at such time and place as may be determined by the Chairman."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "At least ten days notice in writing or by electronic mail shall be given to the members of the Commission."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_13__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chairman shall preside at any meeting of the Commission and if for any reason the Chairman is unable to attend, the next most senior judge shall be the chairman."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_13__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The quorum of the Commission shall be seven including the Chairman."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_13__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the quorum as provided by subsection (4) is not present due to members being disqualified under section 11 or 25, then the quorum shall not be less than five."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_13__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every member of the Commission present shall be entitled to one vote by secret ballot and in the event of a tie in the number of votes casted, the Chairman or the member of the Commission presiding as the Chairman for the meeting shall have a casting vote."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_13__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission may invite any person to attend a meeting of the Commission for the purpose of advising it on any matter under discussion, but that person shall not be entitled to vote at the meeting. Minutes"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_14__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission shall cause minutes of all its meetings to be maintained and kept in a proper form."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every meeting of the Commission in respect of the proceedings of which minutes have been so made shall be deemed to have been duly convened and held and all members thereat to have been duly qualified to act. Validity of acts and proceedings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_15__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_15__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No act done or proceeding taken under this Act shall be questioned on the ground of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a vacancy in the membership of, or a defect in the constitution of, the Commission;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the contravention by any member of the Commission of the provisions of section 11; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_15__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an omission, a defect or an irregularity not affecting the merits of the case. Procedure"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to this Act, the Commission shall determine its own procedure. Member of Commission to devote time to business of Commission"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every member of the Commission shall devote such time to the business of the Commission as may be necessary to discharge his duties effectively. Committees"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_18__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_18__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_18__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_18__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_18__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission may set up any committee it deems fit to assist in the implementation of its functions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission may appoint any of its members to be the chairman or members for the committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_18__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission may at any time terminate or make any changes in the composition of the members of the committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_18__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to any regulations made by the Prime Minister, a committee set up by the Commission may determine its own procedure."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_18__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The chairman of a committee shall cause the minutes of the meeting to be maintained and kept in a proper form and the copies of the minutes of all meetings shall be submitted to the members of the Commission as soon as may be."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_18__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A committee may invite any person who is not a member of the committee to attend any meeting of the committee for the purpose of advising it on any matter under discussion but that person is not entitled to vote at the meeting. Secretary to the Commission"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_19__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_19__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_19__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "There shall be appointed a Secretary to the Commission by the Prime Minister from amongst members of the general public service of the Federation for such period and on such terms and conditions as may be specified in the instrument of appointment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_19__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_19__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Secretary shall be responsible for—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_19__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_19__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the general conduct, administration and management of the functions and activities of the Commission; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_19__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_19__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the carrying out of the decisions of the Commission."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_19__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Secretary shall perform such further duties as the Commission may from time to time direct."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_19__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In discharging his duties the Secretary shall act under the general authority and direction of the Commission. Officers and servants of the Commission"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_20__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_20__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_20__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "There shall be appointed such number of officers and servants of the Commission as may be necessary from amongst members of the general public service of the Federation for such period and on such terms and conditions as may be specified in their instruments of appointment to assist the Commission in carrying into effect the provisions in this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_20__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every officer and servant of the Commission shall be subject to the direction, control and supervision of the Secretary."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Judicial Appointments Commission is established. Constitution of the Commission"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_5__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_5__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_5__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_5__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_5__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_5__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_5__subsec_1__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission shall consist of the following members:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_5__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chief Justice of the Federal Court who shall be the Chairman;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_5__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the President of the Court of Appeal;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_5__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chief Judge of the High Court in Malaya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_5__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chief Judge of the High Court in Sabah and Sarawak;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_5__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a Federal Court judge to be appointed by the Prime Minister; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_5__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "four eminent persons, who are not members of the executive or other public service, appointed by the Prime Minister after consulting the Bar Council of Malaysia, the Sabah Law Association, the Advocates Association of Sarawak, the Attorney General of the Federation, the Attorney General of a State legal service or any other relevant bodies."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The appointment of members of the Commission and the duration of the appointment shall be published in the Gazette. Tenure of office"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_6__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Members of the Commission appointed under paragraphs 5(1)(e) and (f) shall hold office for a period of two years and is eligible for reappointment but no member shall hold office for more than two terms."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Commission appointed under paragraph 5(1)(f) shall be disqualified from consideration for any appointment to the superior court during the tenure of his office as a member and for a term of two years after the cessation of his appointment as a member of the Commission. Allowances"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The members of the Commission shall be paid such allowances as the Prime Minister may determine. Temporary exercise of functions of Chairman"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_8__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_8__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_8__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_8__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The President of the Court of Appeal shall act as the Chairman of the Commission for the period when—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_8__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the office of the Chairman is vacant;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_8__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chairman is absent from duty or from Malaysia; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_8__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chairman is, for any other reason, unable to perform his functions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The President of the Court of Appeal shall, during the period in which he is performing the function of the Chairman under this section, be deemed to be the Chairman of the Commission. Revocation of appointment and resignation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_9__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The appointment of any member appointed under paragraph 5(1)(f) may at any time be revoked by the Prime Minister without assigning any reason therefor."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member appointed under paragraph 5(1)(f) may at any time resign his office by a written notice addressed to the Prime Minister. Vacation of office"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_29"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "SELECTION TO THE OFFICE OF THE CHIEF JUSTICE OF THE FEDERAL COURT, THE PRESIDENT OF THE COURT OF APPEAL, THE CHIEF JUDGES OF THE HIGH COURTS, JUDGES OF THE FEDERAL COURT, COURT OF APPEAL, HIGH COURTS AND JUDICIAL COMMISSIONERS Selection process"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_22__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_22__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_22__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "On receiving a request, the Commission must notify the members of the Commission and prepare for a selection meeting."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_22__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_22__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_22__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In a selection meeting, the Commission shall apply the selection process as prescribed by regulations made under this Act and—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_22__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_22__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "select not less than three persons for each vacancy in the High Court; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_22__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_22__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "select not less than two persons for each vacancy where the vacancy is for judges of the superior courts other than the High Court. Selection criteria"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_23__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_23__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_23__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_23__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_23__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A candidate is qualified for selection if he fulfils the requirement under Article 123 of the Federal Constitution."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_23__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_23__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_23__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_23__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_23__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_23__subsec_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission in selecting candidates shall take into account amongst others, the following criteria:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_23__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "integrity, competency and experience;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_23__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "objective, impartial, fair and good moral character;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_23__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "decisiveness, ability to make timely judgments and good legal writing skills;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_23__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "industriousness and ability to manage cases well; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_23__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "physical and mental health."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_23__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person who is a serving judge or judicial commissioner must not be appointed if he has three or more pending judgments or unwritten grounds of judgments that are overdue by sixty days or more from the date they are deemed to be due."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_23__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission in selecting candidates must also take into account the need to encourage diversity in the range of legal expertise and knowledge in the judiciary. Selection meeting"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_24__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_24__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_24__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_24__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_24__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_24__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chairman shall also be the chairman for the selection meeting except where the selection meeting is to consider the selection of persons for vacancies in the High Courts."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_24__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chairman may nominate a judge from amongst the members of the Commission to be the chairman for a selection meeting to consider the selection of persons for vacancies in the High Courts."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_24__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the Chairman is incapacitated, disqualified or unavailable, the next most senior judge on the Commission who is not disqualified and is available will be the chairman of the selection meeting."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_24__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The quorum for every selection meeting shall be seven."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_24__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any vote taken at the selection meeting must be made by secret ballot and by majority decision. Disqualification from selection meeting"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Commission is disqualified from attending or participating in a selection meeting if he is being considered for selection or where section 11 applies. Report on recommendation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_26__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_26__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_26__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_26__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_26__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_26__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "After making its selection, the Commission shall submit to the Prime Minister a report which shall—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_26__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_26__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "state who has been selected by the Commission to be recommended for the appointment to the office concerned;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_26__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_26__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "state the reasons for such selection; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_26__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_26__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "contain any other information the Commission deems necessary to bring to the knowledge of the Prime Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_26__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "After submitting the report, the Commission shall provide any further information as may be required by the Prime Minister. Request for further selection by the Prime Minister"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Prime Minister may, after receiving the report under section 26, request for two more names to be selected and recommended for his consideration with respect to any vacancy to the office of the Chief Justice of the Federal Court, the President of the Court of Appeal, the Chief Judge of the High Court in Malaya, the Chief Judge of the High Court in Sabah and Sarawak, judges of the Federal Court and the Court of Appeal, and the Commission shall, as soon as may be practicable, comply with the request in accordance with the selection process as prescribed in the regulations made under this Act. Tender of advice"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the Prime Minister has accepted any of the persons recommended by the Commission, he may proceed to tender his advice in accordance with Article 122b of the Federal Constitution. Judicial commissioners may apply to be High Court judges"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All judicial commissioners appointed before the coming into operation of this Act may file their applications with the Commission if they are desirous of being selected as High Court judges in accordance with the provisions of this Act within the time and manner specified by the Commission."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_I__cl_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_I__cl_1__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Judicial Appointments Commission Act 2008."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Prime Minister by notification in the Gazette."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_I__cl_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act applies to the appointments of judges of the Federal Court, Court of Appeal and High Court and judicial commissioners and shall include the appointments of the Chief Justice of the Federal Court, the President of the Court of Appeal, the Chief Judge of the High Court in Malaya, the Chief Judge of the High Court in Sabah and Sarawak made on or after the commencement of this Act. Upholding independence of judiciary"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_I__cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_I__cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_I__cl_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Prime Minister must uphold the continued independence of the judiciary and must have regard to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_I__cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the need to defend that independence;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_I__cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the need for the judiciary to have the support necessary to enable them to exercise their functions;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_I__cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the need for public interest to be properly represented in regard to matters relating to the judiciary, the administration of justice and related matters. Interpretation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_I__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "“member of the Commission” means the person appointed under section 5; “judges of the superior courts” means judges of the High Court, Court of Appeal and Federal Court and shall include the Chief Justice of the Federal Court, the President of the Court of Appeal, the Chief Judge of the High Court in Malaya and the Chief Judge of the High Court in Sabah and Sarawak; “superior courts” means the Federal Court, the Court of Appeal, the High Court in Malaya and the High Court in Sabah and Sarawak except where expressly stated otherwise; “selection meeting” means a meeting called to consider the selection of persons qualified to fill a vacancy in the superior court; “Chairman” means the Chairman of the Commission; “Secretary” means the Secretary to the Commission; “Commission” means the Judicial Appointments Commission."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_37"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "GENERAL Regulations"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Prime Minister may, on the recommendation of the Commission, make regulations for the purpose of carrying out or giving effect to the provisions of this Act, including regulations relating to the selection process and method to be applied by the Commission in making its selection and recommendation under this Act. Annual report"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_31__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_31__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_31__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission must prepare an annual report every year."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_31__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission shall, not later than the first meeting of Parliament of the following year, submit its annual report to Parliament of all its activities during the year to which the report relates. Obligation of secrecy"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_32__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_32__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_32__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_32__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_32__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No member of the Commission and officers and servants of the Commission, whether during or after his tenure of office or employment, shall disclose any information or document obtained by him in the course of his duties."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_32__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No other person who has by any means access to any information or documents relating to the affairs of the Commission shall disclose such information or document."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_32__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any person ceases to be a member of the Commission, he shall return to the Secretary all papers and documents entrusted to him by virtue of his membership of the Commission."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_32__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1), (2) or (3) commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding two years or to both. Giving false information to the Commission"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who wilfully gives to the Commission any information which is false or misleading in support of any candidacy for selection under this Act commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding two years or to both. Influencing or attempting to influence the Commission"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who, otherwise than in the course of his duty, directly or indirectly by himself or by any other person in any manner whatsoever influences or attempts to influence any decision of the Commission or any member thereof commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding two years or to both. Institution and conduct of prosecution"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No prosecution in respect of any offence under this Act shall be instituted except by or with the consent of the Public Prosecutor. Public servant"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every member of the Commission, the Secretary or any other officer or servant of the Commission, while discharging his duties as such member, officer or servant shall be deemed to be a public servant within the meaning of the Penal Code [Act 574]. Prevention of difficulties or anomalies"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_37__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_37__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_37__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_37__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Prime Minister may, whenever it appears to him necessary or expedient to do so, whether for the purpose of removing difficulties or preventing anomalies in consequence of the enactment of this Act, by order published in the Gazette make such modifications to any provisions of this Act as he thinks fit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_37__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Prime Minister shall not exercise the powers conferred by this section after the expiration of two years from the date of coming into operation of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_37__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/eng@/~part_V__cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In this section, “modifications” includes amendments, additions, deletions, substitutions, adaptations, variations, alteration and non-application of any provisions of this Act."
+      }
+    }
+  ]
+}

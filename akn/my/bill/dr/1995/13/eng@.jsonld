@@ -1,0 +1,91 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/13/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/13"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-13-1995",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/13/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/13/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/13/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/13/eng@/~sched_3"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Medical (Amendment) Bill 1995"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/13/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/13/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Medical (Amendment)"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Act 1995."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/13/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/13/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Medical Act 1971, which in this Act is referred"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "to as the \"principal Act\", is amended by substituting for section 34A the following section: \"Examina- 34A. (1) Notwithstanding anything to the tion and contrary in this Act, it shall be lawful for any treatment of patients person who is pursuing a course of study in by students medicine or surgery in— of medicine. (a) any University or University College established in accordance with the Act 30. provisions of the Universities and University Colleges Act 1971; or (b) any educational institution specified in the Third Schedule, to carry out, in pursuance of the course of study, any investigation, examination or treatment of patients in any hospital, clinic, health centre or other institution which is approved by the Minister for the purposes of this section by notification in the Gazette; provided that the investigation, examination or treatment is carried out by the person under the control and supervision of a fully registered medical practitioner who holds a current and valid annual practising certificate. (2) For the purposes of paragraph (1)(b), no educational institution shall be specified in the Third Schedule unless— (a) it is an educational institution registered under the Education Act 1961 or any law in connection with the registration of an educational institution; and (b) is affiliated with any institution specified in the second column of the Second Schedule for the purpose of granting to the students of the educational institution the specified qualification appearing against the institution. (3) Any hospital, clinic, health centre or other institution managed and operated by the Government and approved by the Minister under subsection (1) shall not be liable for any injury, loss or damage of a civil nature occasioned to any patient or other person solely in consequence of any investigation, examination or treatment of a patient under subsection (1) by a person pursuing a course of study in medicine or surgery specified under paragraph ( l )( a) or (b); provided that nothing in this subsection shall be construed as conferring on the person or on the University or University College or educational institution where he is pursuing the course of study or on any officer or employee of the University or University College or educational institution any immunity from any liability for such injury, loss or damage. (4) The Minister may amend the Third Schedule by a notification in the Gazette\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/13/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/13/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after the"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Schedule. Second Schedule the following Schedule:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/13/eng@/~sched_3",
+      "@type": "akn:schedule",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "(Subsection 34A(1)) LIST OF EDUCATIONAL INSTITUTION International Medical College\"."
+      }
+    }
+  ]
+}

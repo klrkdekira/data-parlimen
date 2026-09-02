@@ -44,9 +44,11 @@ seksyen 33A—
 
 persons who is aggrieved by the decision of the Commission may, within fourteen days from the date of such decision, appeal to the Minister whose decision shall be final.".
 
-Bahagian
+<!-- marginal: Bahagian -->
 
-3. Akta ibu adalah dipinda dengan memasukkan selepas baru VIA.
+3. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru VIA. -->
 
 ## Bahagian VI Bahagian yang berikut:
 

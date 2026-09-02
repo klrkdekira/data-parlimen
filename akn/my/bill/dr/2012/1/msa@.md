@@ -28,7 +28,11 @@
 
 ## PROSES PENGANTARAAN
 
-9. Peranan pengantara 10. Pengemukaan pernyataan kepada pengantara 11. Penjalanan pengantaraan
+9. Peranan pengantara
+
+10. Pengemukaan pernyataan kepada pengantara
+
+11. Penjalanan pengantaraan
 
 <!-- page 2 -->
 

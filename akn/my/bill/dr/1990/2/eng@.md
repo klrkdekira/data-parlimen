@@ -8,23 +8,47 @@ An Act to amend the Pertubuhan Berita Nasional Malaysia Act 1967. [ ]
 
 BE IT ENACTED by the Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong with the advice and consent of the Dewan Negara and Dewan Rakyat in Parliament assembled, and by the authority of the same, as follows:
 
-Short title.
+<!-- marginal: Short title. -->
 
 1. This Act may be cited as the Pertubuhan Berita Nasional Malaysia (Amendment) Act 1990.
 
-Amendment
+<!-- marginal: Amendment -->
 
-2. The second paragraph of the preamble to the of second Pertubuhan Berita Nasional Malaysia Act 1967, which paragraph of the in this Act is referred to as "the principal Act", is preamble. amended by deleting the words "non-profit making" Act 19/67. and "and be guided by the declarations of the United Nations Conference on Freedom of Information of 1948".
+2. The second paragraph of the preamble to the
 
-Amendment
+<!-- marginal: of second -->
 
-3. Section 2 of the principal Act is amended— of section 2.
+Pertubuhan Berita Nasional Malaysia Act 1967, which
+
+<!-- marginal: paragraph -->
+
+<!-- marginal: of the -->
+
+in this Act is referred to as "the principal Act", is
+
+<!-- marginal: preamble. -->
+
+amended by deleting the words "non-profit making"
+
+<!-- marginal: Act 19/67. -->
+
+and "and be guided by the declarations of the United Nations Conference on Freedom of Information of 1948".
+
+<!-- marginal: Amendment -->
+
+3. Section 2 of the principal Act is amended—
+
+<!-- marginal: of section 2. -->
 
 (a) by substituting for the full stop appearing at the end of the definition of "Minister" a semicolon; and
 
 (b) by inserting, immediately after the definition of "Minister", the following new definition:
 
-' "news or news material" includes international, regional and national—
+' "news or news material"
+
+<!-- marginal: includes -->
+
+international, regional and national—
 
 (a) news;
 
@@ -40,29 +64,19 @@ Amendment
 
 in whatever form or manner.'.
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. Section 3 of the principal Act is amended— of section 3.
+4. Section 3 of the principal Act is amended—
 
-(a) by substituting for subsection (3)
+<!-- marginal: of section 3. -->
 
-<!-- marginal: the -->
-
-following:
+(a) by substituting for subsection (3) the following:
 
 "(3) Bernama shall have the exclusive right to receive into the Federation, news or news material from foreign news agencies and other organisations dealing with the news or news material, through such arrangements as subscription, payment, news exchange or other means."; and
 
 (b) by inserting, immediately after subsection (3), the following new subsections (4) and (5):
 
-"(4) Bernama shall arrange for
-
-<!-- marginal: the -->
-
-distribution of the news or news material received pursuant to subsection (3)
-
-<!-- marginal: to -->
-
-subscribers in the Federation, on such terms or conditions as shall be prescribed by Bernama.
+"(4) Bernama shall arrange for the distribution of the news or news material received pursuant to subsection (3) to subscribers in the Federation, on such terms or conditions as shall be prescribed by Bernama.
 
 (5) Subsections (3) and (4) shall not prejudice the right of the Department responsible for broadcasting, and any organisation approved by the Minister from time to time, to receive, without reference whatsoever to Bernama, visual news and programme materials directly from any source outside the Federation.".
 
@@ -72,17 +86,27 @@ subscribers in the Federation, on such terms or conditions as shall be prescribe
 
 5. The principal Act is amended by inserting, New immediately after section 3, the following new section section3A 3A:
 
-"Power
-
-3A. Bernama, with the approval of the to enter Minister and the concurrence of the Minister into any of Finance, may— arrangement for sharing of profits,
+"Power 3A. Bernama, with the approval of the to enter Minister and the concurrence of the Minister into any of Finance, may— arrangement for sharing of profits,
 
 (a) enter into any arrangement for sharing etc. of profits, union of interests, co- operation or joint-venture with any person or body of persons; or
 
 (b) establish or promote the establishment and expansion of companies under the Act 125. Companies Act 1965.".
 
-6. Section 4 of the principal Act is amended by deleting., Amendment of section 4. the words "information," and "or features" appearing ' in paragraphs (a) and (b) of subsection (1).
+6. Section 4 of the principal Act is amended by deleting.,
 
-7. Section 7 of the principal Act is amended by Amendment of section 7. substituting for paragraph (d) of subsection (1) the following:
+<!-- marginal: Amendment -->
+
+<!-- marginal: of section 4. -->
+
+the words "information," and "or features" appearing ' in paragraphs (a) and (b) of subsection (1).
+
+7. Section 7 of the principal Act is amended by
+
+<!-- marginal: Amendment -->
+
+<!-- marginal: of section 7. -->
+
+substituting for paragraph (d) of subsection (1) the following:
 
 "(d) the Vice-Chancellor of any one of the Universities in the Federation; and".
 
@@ -90,9 +114,7 @@ subscribers in the Federation, on such terms or conditions as shall be prescribe
 
 This Bill seeks to amend the Pertubuhan Berita Nasional Malaysia Act 1967.
 
-2. Clause 2 seeks to amend the preamble to the Act in order to enable Bernama to stop functioning as a non-profit making organisation. The amendment also seeks to delete the provision providing that Bernama should be guided by the declarations of the United Nations Conference on Freedom of Information of
-
-1948.
+2. Clause 2 seeks to amend the preamble to the Act in order to enable Bernama to stop functioning as a non-profit making organisation. The amendment also seeks to delete the provision providing that Bernama should be guided by the declarations of the United Nations Conference on Freedom of Information of 1948.
 
 3. Clause 3 seeks to provide for a definition of the term "news or news material".
 

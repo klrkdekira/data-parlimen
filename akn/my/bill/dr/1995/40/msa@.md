@@ -30,15 +30,31 @@ Negara (Pindaan) 1995.
 
 (3) Akta ini hendaklah mula berkuatkuasa di Wilayah Persekutuan Kuala Lumpur pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta dan Menteri boleh menetapkan tarikh-tarikh yang berlainan berkenaan dengan peruntukan-peruntukan yang berlainan dalam Akta ini.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-2. Kanun Tanah Negara, yang disebut "Kanun" dalam seksyen 14. Akta ini, adalah dipinda dalam perenggan 14(1)(g) dengan Akta 56/65 memasukkan selepas perkataan "fees" perkataan "or levy".
+2. Kanun Tanah Negara, yang disebut "Kanun" dalam
 
-Pindaan
+<!-- marginal: seksyen 14. -->
 
-3. Seksyen 301A Kanun adalah dipinda dengan menggantikan perkataan "has not" dengan perkataan 301 A. "and, where applicable, any levy payable under sub-section (2) of section 433B have not".
+Akta ini, adalah dipinda dalam perenggan 14(1)(g) dengan
 
-Seksyen baru
+<!-- marginal: Akta 56/65 -->
+
+memasukkan selepas perkataan "fees" perkataan "or levy".
+
+<!-- marginal: Pindaan -->
+
+3. Seksyen 301A Kanun adalah dipinda dengan
+
+<!-- marginal: seksyen -->
+
+menggantikan perkataan "has not" dengan perkataan
+
+<!-- marginal: 301 A. -->
+
+"and, where applicable, any levy payable under sub-section (2) of section 433B have not".
+
+<!-- marginal: Seksyen baru -->
 
 4. Kanun adalah dipinda dengan memasukkan selepas
 
@@ -50,45 +66,25 @@ Seksyen baru
 
 <!-- page 3 -->
 
-<!-- marginal: Pindaan -->
+Pindaan
 
-5. Seksyen 433A Kanun adalah dipinda dengan
+5. Seksyen 433A Kanun adalah dipinda dengan menggantikan takrif "foreign company" dengan takrif 433A.
 
-<!-- marginal: seksyen -->
-
-menggantikan takrif "foreign company" dengan takrif
-
-<!-- marginal: 433A. -->
-
-yang berikut:
+<!-- marginal: yang berikut: -->
 
 ' "foreign company" means—
 
-(a) a foreign company as defined in sub-section
-
-<!-- marginal: Akta 125. -->
+(a) a foreign company as defined in sub-section Akta 125.
 
 (1) of section 4 of the Companies Act 1965;
 
-(b) a company incorporated under
+(b) a company incorporated under the Companies Act 1965 with thirty per cent or more of its voting shares being held by a non-citizen, or by a foreign company referred to in paragraph (a), or by both, at the time of the proposed acquisition of any land or any interest in land or at the time of the execution of the instrument or deed in respect of any alienated land or any interest therein, as the case may be; or
 
-<!-- marginal: the -->
+(c) a company incorporated under the Companies Act 1965 with thirty per cent or more of its voting shares being held by a company referred to in paragraph (b), or by a company referred to in paragraph (b) together with a non-citizen or a foreign company referred to in paragraph (a), at the time of the proposed acquisition of any land or any interest in land or at the time of the execution of the instrument or deed in respect of any alienated land or any interest therein, as the case may be.'.
 
-Companies Act 1965 with thirty per cent or more of its voting shares being held by a non-citizen, or by a foreign company referred to in paragraph (a), or by both, at the time of the proposed acquisition of any land or any interest in land or at the time of the execution of the instrument or deed in respect of any alienated land or any interest therein, as the case may be; or
+Pindaan
 
-(c) a company incorporated under
-
-<!-- marginal: the -->
-
-Companies Act 1965 with thirty per cent or more of its voting shares being held by a company referred to in paragraph (b), or by a company referred to in paragraph (b) together with a non-citizen or a foreign company referred to in paragraph (a), at the time of the proposed acquisition of any land or any interest in land or at the time of the execution of the instrument or deed in respect of any alienated land or any interest therein, as the case may be.'.
-
-<!-- marginal: Pindaan -->
-
-6. (1) Seksyen 433B Kanun adalah dipinda—
-
-<!-- marginal: seksyen -->
-
-<!-- marginal: 433B. -->
+6. (1) Seksyen 433B Kanun adalah dipinda— 433B.
 
 (a) dalam subseksyen (1)—
 
@@ -106,11 +102,65 @@ Companies Act 1965 with thirty per cent or more of its voting shares being held 
 
 (2) Subperenggan ( 1 )( a )( i) dan (ii) hendaklah disifatkan telah mula berkuatkuasa pada 1 Januari 1993.
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
-7. Kanun adalah dipinda dengan menomborkan semula 433E, 433F seksyen 433E sebagai seksyen 433H dan dengan dan 433G memasukkan selepas seksyen 433D seksyen yang berikut:
+7. Kanun adalah dipinda dengan menomborkan semula
 
-433E. (1) Subject to any written law, a person "Other convey- or body desiring to convey or dispose of, in a ances or manner other than those specified in sub-section disposal to non- (1) of section 433B, any alienated land or any citizen or interest therein to a non-citizen or a foreign foreign company company may be allowed to do so, but only subject to after the prior approval of the State Authority approval and has been obtained upon an application in writing payment being made by such person or body: of levy, etc. Provided that no such approval shall be required in respect of any alienated land or any interest in land which is subject to the category "industry" or to any condition requiring its use for industrial purposes.
+<!-- marginal: 433E, 433F -->
+
+seksyen 433E sebagai seksyen 433H dan dengan
+
+<!-- marginal: dan 433G -->
+
+memasukkan selepas seksyen 433D seksyen yang berikut:
+
+433E. (1) Subject to any written law, a person
+
+<!-- marginal: "Other -->
+
+<!-- marginal: convey- -->
+
+or body desiring to convey or dispose of, in a
+
+<!-- marginal: ances or -->
+
+manner other than those specified in sub-section
+
+<!-- marginal: disposal -->
+
+<!-- marginal: to non- -->
+
+(1) of section 433B, any alienated land or any
+
+<!-- marginal: citizen or -->
+
+interest therein to a non-citizen or a foreign
+
+<!-- marginal: foreign -->
+
+<!-- marginal: company -->
+
+company may be allowed to do so, but only
+
+<!-- marginal: subject to -->
+
+after the prior approval of the State Authority
+
+<!-- marginal: approval -->
+
+<!-- marginal: and -->
+
+has been obtained upon an application in writing
+
+<!-- marginal: payment -->
+
+being made by such person or body:
+
+<!-- marginal: of levy, -->
+
+<!-- marginal: etc. -->
+
+Provided that no such approval shall be required in respect of any alienated land or any interest in land which is subject to the category "industry" or to any condition requiring its use for industrial purposes.
 
 (2) Where the State Authority grants any approval under sub-section (1), it may be made subject to such terms and conditions as may be specified by the State Authority and to the payment of such levy as may be prescribed.
 
@@ -120,7 +170,11 @@ Seksyen baru
 
 (4) Nothing contained in this section shall render invalid anything done before the commencement of this section if—
 
-(a) in respect of an instrument or a deed executed before 27 October 1995, the instrument or deed has been stamped in accordance with the provisions of the Act 378. Stamp Act 1949 either before or within one month after the commencement of this section; or
+(a) in respect of an instrument or a deed executed before 27 October 1995, the instrument or deed has been stamped in accordance with the provisions of the
+
+<!-- marginal: Act 378. -->
+
+Stamp Act 1949 either before or within one month after the commencement of this section; or
 
 (b) the instrument or deed effecting any conveyance or disposal of any alienated land or any interest therein in favour of a non-citizen or a foreign company was executed on or after 27 October 1995 but before the commencement of this section, and—
 
@@ -140,9 +194,17 @@ Execution 433F. (1) Subject to sections 433B and 433E, by non- after the commenc
 
 Levy to be 433G. Any levy payable under this Part shall paid within be paid in full not later than thirty days from thirty days of service the date of the service of the notice of approval of notice by the State Authority and if the levy is not of approval. paid within such time, the approval shall thereupon lapse.".
 
-Pengesahan
+<!-- marginal: Pengesahan -->
 
-8. (1) Apa-apa levi yang dipungut berkenaan dengan dan sesuatu kebenaran yang diberikan di bawah subseksyen indemniti. (1) seksyen 433B dan apa-apa penolakan apa-apa suratcara pengurusan kerana tak bayar levi oleh Pentadbir Tanah atau oleh Pendaftar Hakmilik, mengikut mana- mana yang berkenaan, selepas 27 Oktober 1995 sehingga Akta ini mula berkuatkuasa, yang akan menjadi sah
+8. (1) Apa-apa levi yang dipungut berkenaan dengan
+
+<!-- marginal: dan -->
+
+sesuatu kebenaran yang diberikan di bawah subseksyen
+
+<!-- marginal: indemniti. -->
+
+(1) seksyen 433B dan apa-apa penolakan apa-apa suratcara pengurusan kerana tak bayar levi oleh Pentadbir Tanah atau oleh Pendaftar Hakmilik, mengikut mana- mana yang berkenaan, selepas 27 Oktober 1995 sehingga Akta ini mula berkuatkuasa, yang akan menjadi sah
 
 <!-- page 7 -->
 

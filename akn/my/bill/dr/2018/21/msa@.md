@@ -20,97 +20,95 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 2 -->
 
-## Jadual
+## JADUAL
 
-Maksud Tajuk
+<!-- marginal: Maksud -->
 
-<!-- marginal: Amaun -->
+Tajuk Amaun (RM)
 
-<!-- marginal: (RM) -->
+<!-- marginal: B. 1 -->
 
-B. 1 Parlimen
+Parlimen 137,435,200
 
-<!-- marginal: 137,435,200 -->
+<!-- marginal: B. 2 -->
 
-B. 2 Pejabat Penyimpan Mohor Besar
+Pejabat Penyimpan Mohor Besar 2,531,000 Raja-Raja
 
-<!-- marginal: 2,531,000 -->
+<!-- marginal: B. 3 -->
 
-Raja-Raja B. 3 Jabatan Audit Negara
+Jabatan Audit Negara 152,723,700
 
-<!-- marginal: 152,723,700 -->
+<!-- marginal: B. 4 -->
 
-B. 4 Suruhanjaya Pilihan Raya
+Suruhanjaya Pilihan Raya 58,596,000
 
-<!-- marginal: 58,596,000 -->
+<!-- marginal: B. 5 -->
 
-B. 5 Suruhanjaya Perkhidmatan Awam
+Suruhanjaya Perkhidmatan Awam 39,899,200
 
-<!-- marginal: 39,899,200 -->
+<!-- marginal: B. 6 -->
 
-B. 6 Jabatan Perdana Menteri
+Jabatan Perdana Menteri 3,693,538,800
 
-<!-- marginal: 3,693,538,800 -->
+<!-- marginal: B. 7 -->
 
-B. 7 Jabatan Perkhidmatan Awam
+Jabatan Perkhidmatan Awam 1,491,250,100
 
-<!-- marginal: 1,491,250,100 -->
+<!-- marginal: B. 8 -->
 
-B. 8 Jabatan Peguam Negara
+Jabatan Peguam Negara 169,324,700
 
-<!-- marginal: 169,324,700 -->
+<!-- marginal: B. 9 -->
 
-B. 9 Suruhanjaya Pencegahan Rasuah
+Suruhanjaya Pencegahan Rasuah 286,774,900 Malaysia
 
-<!-- marginal: 286,774,900 -->
+<!-- marginal: B. 10 -->
 
-Malaysia B. 10 Perbendaharaan
+Perbendaharaan 4,354,352,100
 
-<!-- marginal: 4,354,352,100 -->
+<!-- marginal: B. 11 -->
 
-B. 11 Perkhidmatan Am Perbendaharaan
+Perkhidmatan Am Perbendaharaan 18,633,916,100
 
-<!-- marginal: 18,633,916,100 -->
+<!-- marginal: B. 12 -->
 
-B. 12 Peruntukan kepada Kumpulan Wang
+Peruntukan kepada Kumpulan Wang 38,798,900,100 Terkanun
 
-<!-- marginal: 38,798,900,100 -->
+<!-- marginal: B. 13 -->
 
-Terkanun B. 13 Kementerian Luar Negeri
+Kementerian Luar Negeri 632,223,700
 
-<!-- marginal: 632,223,700 -->
+<!-- marginal: B. 15 -->
 
-B. 15 Kementerian Hal Ehwal Ekonomi
+Kementerian Hal Ehwal Ekonomi 461,336,900
 
-<!-- marginal: 461,336,900 -->
+<!-- marginal: B. 20 -->
 
-B. 20 Kementerian Industri Utama
+Kementerian Industri Utama 125,598,600
 
-<!-- marginal: 125,598,600 -->
+<!-- marginal: B. 21 -->
 
-B. 21 Kementerian Pertanian dan Industri Asas
+Kementerian Pertanian dan Industri Asas 3,057,153,800 Tani
 
-<!-- marginal: 3,057,153,800 -->
+<!-- marginal: B. 22 -->
 
-Tani B. 22 Kementerian Pembangunan Luar Bandar
+Kementerian Pembangunan Luar Bandar 2,992,260,500
 
-<!-- marginal: 2,992,260,500 -->
+<!-- marginal: B. 23 -->
 
-B. 23 Kementerian Air, Tanah dan Sumber
+Kementerian Air, Tanah dan Sumber 1,172,508,300 Asli
 
-<!-- marginal: 1,172,508,300 -->
+<!-- marginal: B. 24 -->
 
-Asli B. 24 Kementerian Perdagangan Antarabangsa
+Kementerian Perdagangan Antarabangsa 517,474,400 dan Industri
 
-<!-- marginal: 517,474,400 -->
+<!-- marginal: B. 25 -->
 
-dan Industri B. 25 Kementerian Perdagangan Dalam Negeri
+Kementerian Perdagangan Dalam Negeri 1,190,830,900 dan Hal Ehwal Pengguna
 
-<!-- marginal: 1,190,830,900 -->
+<!-- marginal: B. 26 -->
 
-dan Hal Ehwal Pengguna B. 26 Kementerian Pembangunan Usahawan
-
-<!-- marginal: 196,408,800 -->
+Kementerian Pembangunan Usahawan 196,408,800
 
 <!-- page 3 -->
 
@@ -180,7 +178,7 @@ B. 63 Kementerian Pendidikan
 
 <!-- marginal: 55,128,468,300 -->
 
-Jumlah
+## JUMLAH
 
 <!-- marginal: 194,654,566,700 -->
 

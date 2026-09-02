@@ -80,21 +80,14 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/30/eng@/~cl_3",
       "@type": "akn:clause",
       "eli:number": "3",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/30/eng@/~cl_3__subsec_1",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/30/eng@",
       "schema:name": {
         "@language": "en",
         "@value": "Article 125 of the Federal Constitution is amended in Clause"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/30/eng@/~cl_3__subsec_1",
-      "@type": "akn:subsection",
-      "eli:number": "1",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/30/eng@/~cl_3",
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for the words \"sixty-five years\" the words \"sixty-six years\". Amendment of Ninth Schedule"
+        "@value": "(1) by substituting for the words \"sixty-five years\" the words \"sixty-six years\". Amendment of Ninth Schedule"
       }
     },
     {
@@ -167,7 +160,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/30/eng@/~cl_5",
       "schema:text": {
         "@language": "en",
-        "@value": "in Part III— \"8. Receipts in respect of raw water.\"; and"
+        "@value": "in Part III—"
       }
     },
     {
@@ -187,7 +180,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/30/eng@/~cl_5__para_a",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for item 8 the following item:"
+        "@value": "by substituting for item 8 the following item: \"8. Receipts in respect of raw water.\"; and"
       }
     },
     {

@@ -114,15 +114,7 @@ mengeluarkan apa-apa maklumat atau hal, atau bagi melaksanakan mana-mana satu fu
 
 (ii) pemegang pajak bagi sesuatu pajakan termasuklah suatu pajakan kecil premis itu, sama ada didaftarkan atau tidak;
 
-(iii) ejen atau pemegang amanah mana-mana pemunya yang diperihalkan dalam
-
-<!-- marginal: sub- -->
-
-perenggan (i) dan (ii) takrif ini atau jika pemunya yang diperihalkan dalam
-
-<!-- marginal: sub- -->
-
-perenggan (i) dan (ii) itu tidak dapat dikesan atau telah mati, wakil dirinya yang sah di sisi undang-undang; atau
+(iii) ejen atau pemegang amanah mana-mana pemunya yang diperihalkan dalam sub- perenggan (i) dan (ii) takrif ini atau jika pemunya yang diperihalkan dalam sub- perenggan (i) dan (ii) itu tidak dapat dikesan atau telah mati, wakil dirinya yang sah di sisi undang-undang; atau
 
 <!-- page 5 -->
 
@@ -136,11 +128,7 @@ perenggan (i) dan (ii) itu tidak dapat dikesan atau telah mati, wakil dirinya ya
 
 (iii) dalam hal kapal yang dipunyai oleh mana-mana negeri dan dikendalikan oleh suatu syarikat yang berdaftar dalam negeri itu sebagai pengendali kapal, "pemunya" hendaklah termasuk negeri itu; atau
 
-(iv) ejen atau pemegang amanah mana-mana pemunya yang diperihalkan dalam
-
-<!-- marginal: sub- -->
-
-perenggan (i), (ii) dan (iii), atau jika pemunya yang diperihalkan dalam subperenggan (i) dan (ii) itu tidak dapat dikesan atau telah mati, wakil dirinya yang sah di sisi undang-undang;
+(iv) ejen atau pemegang amanah mana-mana pemunya yang diperihalkan dalam sub- perenggan (i), (ii) dan (iii), atau jika pemunya yang diperihalkan dalam subperenggan (i) dan (ii) itu tidak dapat dikesan atau telah mati, wakil dirinya yang sah di sisi undang-undang;
 
 (c) mana-mana kenderaan atau pesawat udara, ertinya orang yang berdaftar sebagai pemunya kenderaan atau pesawat udara itu;';
 
@@ -156,11 +144,7 @@ dalam bentuk gas atau wap, atau campuran sekurang-kurangnya dua daripada benda i
 
 (a) dengan menggantikan perkataan "biologi, atau radioaktip" dengan perkataan "atau biologi"; dan
 
-(b) dengan memasukkan selepas perkataan "meletakkan" perkataan
-
-<!-- marginal: "benda -->
-
-berbahaya kepada alam sekeliling, pencemar atau";
+(b) dengan memasukkan selepas perkataan "meletakkan" perkataan "benda berbahaya kepada alam sekeliling, pencemar atau";
 
 (l) dengan menggantikan takrif "penduduk" dengan takrif yang berikut:
 
@@ -202,15 +186,21 @@ mana bahagian laut di atas tikas air rendah di sepanjang pantai, atau mana-mana 
 
 <!-- page 8 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Subseksyen 3(1) Akta ibu adalah dipinda dengan seksyen 3. memasukkan selepas perenggan (1) perenggan yang berikut:
+3. Subseksyen 3(1) Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 3. -->
+
+memasukkan selepas perenggan (1) perenggan yang berikut:
 
 "(11) untuk mentadbir Kumpulan Wang;".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-4. Subseksyen 4(2) Akta ibu adalah dipinda— seksyen 4.
+4. Subseksyen 4(2) Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 4. -->
 
 (a) dengan menggantikan perenggan (c) dan (cc) dengan perenggan yang berikut:
 
@@ -228,13 +218,21 @@ Pindaan
 
 diberikuasa;".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-5. Seksyen 7 Akta ibu adalah dipinda dengan seksyen 7. memasukkan selepas Subseksyen (5) subseksyen yang berikut: "(6) Menteri boleh menjemput atau meminta seorang, yang bukan anggota Majlis, untuk menghadiri apa-apa mesyuarat Majlis bagi maksud menasihatinya mengenai perkara yang dibincangkan tetapi orang yang hadir sedemikian itu tidak berhak mengundi dalam mesyuarat itu.".
+5. Seksyen 7 Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 7. -->
 
-6. Subseksyen 16(2) Akta ibu adalah dipinda dengan seksyen 16. menggantikan perkataan "sepuluh ribu" dengan perkataan "dua puluh lima ribu".
+memasukkan selepas Subseksyen (5) subseksyen yang berikut: "(6) Menteri boleh menjemput atau meminta seorang, yang bukan anggota Majlis, untuk menghadiri apa-apa mesyuarat Majlis bagi maksud menasihatinya mengenai perkara yang dibincangkan tetapi orang yang hadir sedemikian itu tidak berhak mengundi dalam mesyuarat itu.".
+
+<!-- marginal: Pindaan -->
+
+6. Subseksyen 16(2) Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 16. -->
+
+menggantikan perkataan "sepuluh ribu" dengan perkataan "dua puluh lima ribu".
 
 <!-- page 9 -->
 
@@ -272,9 +270,11 @@ Pindaan
 
 (b) dengan memasukkan selepas perkataan "peletakan" dalam seksyen itu perkataan "benda berbahaya kepada alam sekeliling, pencemar atau".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-10. Seksyen 22 Akta ibu adalah dipinda— seksyen 22.
+10. Seksyen 22 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 22. -->
 
 (a) dengan memasukkan selepas perkataan "melepaskan apa-apa" dalam subseksyen (1) perkataan "benda berbahaya kepada alam sekeliling, pencemar atau";
 
@@ -286,15 +286,21 @@ Pindaan
 
 (iii) dengan menggantikan perkataan "one thousand dollars" yang terdapat dalam teks bahasa Inggeris dengan perkataan "one thousand ringgit".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-11. Subseksyen 23(2) Akta ibu adalah dipinda— seksyen 23. (a) dengan menggantikan perkataan "lima ribu ringgit" dengan perkataan "satu ratus ribu ringgit"; dan
+11. Subseksyen 23(2) Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 23. -->
+
+(a) dengan menggantikan perkataan "lima ribu ringgit" dengan perkataan "satu ratus ribu ringgit"; dan
 
 (b) dengan menggantikan perkataan "satu" dengan perkataan "lima".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-12. Subseksyen 24(3) Akta ibu adalah dipinda— seksyen 24.
+12. Subseksyen 24(3) Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 24. -->
 
 (a) dengan menggantikan perkataan "sepuluh ribu ringgit" dengan perkataan "satu ratus ribu ringgit";
 
@@ -348,11 +354,57 @@ Pindaan
 
 <!-- page 12 -->
 
-16. Akta ibu adalah dipinda dengan memasukkan selepas baru 30A seksyen 30 seksyen yang berikut: dan 30B.
+<!-- marginal: Seksyen -->
 
-30A. (1) Menteri, selepas berunding dengan "Kuasa untuk Majlis, boleh dengan perintah yang disiarkan mengawal dalam Warta— peng- gunaan
+16. Akta ibu adalah dipinda dengan memasukkan selepas
 
-(a) menetapkan apa-apa benda sebagai benda benda dan keluaran berbahaya kepada alam sekeliling yang dan menghendaki benda itu dikurangkan, menyatakan pelabelan dikitar, didapatkan atau dikawal mengikut alam cara yang dinyatakan dalam perintah itu; sekeliling. dan
+<!-- marginal: baru 30A -->
+
+seksyen 30 seksyen yang berikut:
+
+<!-- marginal: dan 30B. -->
+
+30A. (1) Menteri, selepas berunding dengan
+
+<!-- marginal: "Kuasa -->
+
+<!-- marginal: untuk -->
+
+Majlis, boleh dengan perintah yang disiarkan
+
+<!-- marginal: mengawal -->
+
+dalam Warta—
+
+<!-- marginal: peng- -->
+
+<!-- marginal: gunaan -->
+
+(a) menetapkan apa-apa benda sebagai benda
+
+<!-- marginal: benda dan -->
+
+<!-- marginal: keluaran -->
+
+berbahaya kepada alam sekeliling yang
+
+<!-- marginal: dan -->
+
+menghendaki benda itu dikurangkan,
+
+<!-- marginal: menyatakan -->
+
+<!-- marginal: pelabelan -->
+
+dikitar, didapatkan atau dikawal mengikut
+
+<!-- marginal: alam -->
+
+cara yang dinyatakan dalam perintah itu;
+
+<!-- marginal: sekeliling. -->
+
+dan
 
 (b) menetapkan apa-apa keluaran sebagai keluaran yang ditetapkan untuk jualan dan bahawa keluaran itu hendaklah mengandungi peratusan minimum benda- benda yang dikitar dan mempunyai kenyataan yang sesuai tentang juzuk dikitar, kaedah pengilangan dan pelupusannya.
 
@@ -360,9 +412,33 @@ Pindaan
 
 (3) Mana-mana orang yang tidak atau enggan mematuhi perintah yang dibuat di bawah subseksyen (1) adalah melakukan suatu kesalahan dan boleh didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak rnelebih lima tahun atau kedua-duanya.
 
-Kuasa 30B. Menteri, selepas berunding dengan Majlis, untuk boleh menyatakan garis panduan dan prosedur menyatakan kaedah- mengenai skim deposit dan rebet berhubungan kaedah dengan pelupusan keluaran yang dianggap— mengenai skim
+<!-- marginal: Kuasa -->
 
-(a) memudaratkan alam sekeliling; atau deposit dan rebet.
+30B. Menteri, selepas berunding dengan Majlis,
+
+<!-- marginal: untuk -->
+
+boleh menyatakan garis panduan dan prosedur
+
+<!-- marginal: menyatakan -->
+
+<!-- marginal: kaedah- -->
+
+mengenai skim deposit dan rebet berhubungan
+
+<!-- marginal: kaedah -->
+
+dengan pelupusan keluaran yang dianggap—
+
+<!-- marginal: mengenai -->
+
+<!-- marginal: skim -->
+
+(a) memudaratkan alam sekeliling; atau
+
+<!-- marginal: deposit -->
+
+<!-- marginal: dan rebet. -->
 
 (b) menyebabkan kekangan bertentangan terhadap alam sekeliling,
 
@@ -378,7 +454,43 @@ bagi maksud memungut keluaran itu dengan berkesan bagi memastikan kitaran atau p
 
 seksyen 31 dengan seksyen yang berikut:
 
-"Kuasa 31. (1) Jika mana-mana benda yang berbahaya meng- kepada alam sekeliling, pencemar atau buangan hendaki sedang atau mungkin akan dikeluarkan, pemunya atau dilepaskan atau diletakkan daripada mana-mana penduduk kenderaan, kapal atau premis, tanpa mengira mema- sang, me- sama ada kenderaan, kapal atau premis itu adalah ngendali, yang ditetapkan di bawah seksyen 18 atau membaiki, dsb. selainnya, atau daripada mana-mana pesawat udara, Ketua Pengarah boleh dengan notis secara bertulis menghendaki pemunya atau penduduk kenderaan, kapal atau premis, atau pesawat udara itu, untuk —
+<!-- marginal: "Kuasa -->
+
+31. (1) Jika mana-mana benda yang berbahaya
+
+<!-- marginal: meng- -->
+
+kepada alam sekeliling, pencemar atau buangan
+
+<!-- marginal: hendaki -->
+
+sedang atau mungkin akan dikeluarkan,
+
+<!-- marginal: pemunya -->
+
+<!-- marginal: atau -->
+
+dilepaskan atau diletakkan daripada mana-mana
+
+<!-- marginal: penduduk -->
+
+kenderaan, kapal atau premis, tanpa mengira
+
+<!-- marginal: mema- -->
+
+<!-- marginal: sang, me- -->
+
+sama ada kenderaan, kapal atau premis itu adalah
+
+<!-- marginal: ngendali, -->
+
+yang ditetapkan di bawah seksyen 18 atau
+
+<!-- marginal: membaiki, -->
+
+<!-- marginal: dsb. -->
+
+selainnya, atau daripada mana-mana pesawat udara, Ketua Pengarah boleh dengan notis secara bertulis menghendaki pemunya atau penduduk kenderaan, kapal atau premis, atau pesawat udara itu, untuk —
 
 (a) memasang dan mengendalikan apa-apa kelengkapan kawalan atau kelengkapan kawalan tambahan;
 
@@ -400,9 +512,27 @@ dalam tempoh dan mengikut cara yang dinyatakan dalam notis itu.
 
 (2) Walau apa pun apa-apa peruntukan lain yang berlawanan, Ketua Pengarah boleh melalui notis mengarahkan pemunya atau penduduk mana-mana kenderaan, kapal, atau preniis, atau pesawat udara untuk mengeluarkan, melepaskan atau meletakkan benda berbahaya kepada alam sekeliling, pencemar atau buangan pada waktu siang yang ditentukannya dan boleh secara amnya mengarahkan cara yang baginya pemunya atau penduduk itu hendaklah menjalankan tred, industri atau proses atau mengendalikan apa- apa kelengkapan, loji perindustrian atau kelengkapan kawalan di dalamnya.
 
-(3) Mana-mana orang yang melanggar notis yang dikeluarkan di bawah subseksyen (1) atau (2) adalah melakukan suatu kesalahan dan boleh didenda tidak melebihi dua puluh lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya dan denda selanjutnya tidak melebihi satu ribu ringgit sehari bagi tiap-tiap hari kesalahan itu diteruskan selepas penyampaian notis yang dinyatakan dalam subseksyen (1) atau (2).".
+(3) Mana-mana orang yang melanggar notis yang dikeluarkan di bawah subseksyen (1) atau
 
-18. Akta ibu adalah dipinda dengan memasukkan selepas baru 31A. seksyen 31 seksyen yang berikut: 3lA. (1) Menteri, selepas berunding dengan "Perintah larangan, Majlis, boleh melalui perintah yang disiarkan dsb. dalam Warta menyatakan hal keadaan yang Ketua Pengarah boleh mengeluarkan perintah larangan kepada pemunya atau penduduk mana- mana loji perindustrian atau proses perindustrian untuk mencegah pengendaliannya yang
+(2) adalah melakukan suatu kesalahan dan boleh didenda tidak melebihi dua puluh lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya dan denda selanjutnya tidak melebihi satu ribu ringgit sehari bagi tiap-tiap hari kesalahan itu diteruskan selepas penyampaian notis yang dinyatakan dalam subseksyen (1) atau (2).".
+
+<!-- marginal: Seksyen -->
+
+18. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru 31A. -->
+
+seksyen 31 seksyen yang berikut: 3lA. (1) Menteri, selepas berunding dengan
+
+<!-- marginal: "Perintah -->
+
+<!-- marginal: larangan, -->
+
+Majlis, boleh melalui perintah yang disiarkan
+
+<!-- marginal: dsb. -->
+
+dalam Warta menyatakan hal keadaan yang Ketua Pengarah boleh mengeluarkan perintah larangan kepada pemunya atau penduduk mana- mana loji perindustrian atau proses perindustrian untuk mencegah pengendaliannya yang
 
 <!-- page 15 -->
 
@@ -410,11 +540,7 @@ berterusan dan pelepasan benda berbahaya kepada alam sekeliling, pencemar atau b
 
 (2) Menteri, dalam hal keadaan yang dia menganggap bahawa alam sekeliling, kesihatan awam atau keselamatan awam adalah atau berkemungkinan terancam dengan serius, boleh mengarahkan Ketua Pengarah—
 
-(a) mengeluarkan suatu perintah yang menghendaki seseorang itu untuk memberhentikan segala perbuatan yang mengakibatkan pelepasan
-
-<!-- marginal: benda -->
-
-berbahaya kepada alam sekeliling, pencemar atau buangan; dan
+(a) mengeluarkan suatu perintah yang menghendaki seseorang itu untuk memberhentikan segala perbuatan yang mengakibatkan pelepasan benda berbahaya kepada alam sekeliling, pencemar atau buangan; dan
 
 (b) menyebabkan dan menjadikan apa-apa jentera, kelengkapan, loji atau proses orang itu tak boleh beroperasi.
 
@@ -428,21 +554,73 @@ berbahaya kepada alam sekeliling, pencemar atau buangan; dan
 
 seksyen 32 dengan seksyen yang berikut:
 
-"Pemunya 32. Pemunya atau penduduk mana-mana atau kenderaan, kapal atau premis, tanpa mengira penduduk sama ada kenderaan, kapal atau premis itu adalah hendaklah menyeng- yang ditetapkan di bawah seksyen 18 atau gara dan selainnya, atau pesawat udara hendaklah mengen- dalikan menyenggara apa-apa kelengkapan atau keleng- kelengkapan kawalan yang dipasang pada kapan. kenderaan, kapal atau premis itu, atau pesawat udara itu dalam keadaan yang baik dan hendaklah mengendalikan kelengkapan itu atau kelengkapan kawalan itu dengan cara yang patut dan cekap.".
+<!-- marginal: "Pemunya -->
+
+32. Pemunya atau penduduk mana-mana
+
+<!-- marginal: atau -->
+
+kenderaan, kapal atau premis, tanpa mengira
+
+<!-- marginal: penduduk -->
+
+sama ada kenderaan, kapal atau premis itu adalah
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: menyeng- -->
+
+yang ditetapkan di bawah seksyen 18 atau
+
+<!-- marginal: gara dan -->
+
+selainnya, atau pesawat udara hendaklah
+
+<!-- marginal: mengen- -->
+
+<!-- marginal: dalikan -->
+
+menyenggara apa-apa kelengkapan atau
+
+<!-- marginal: keleng- -->
+
+kelengkapan kawalan yang dipasang pada
+
+<!-- marginal: kapan. -->
+
+kenderaan, kapal atau premis itu, atau pesawat udara itu dalam keadaan yang baik dan hendaklah mengendalikan kelengkapan itu atau kelengkapan kawalan itu dengan cara yang patut dan cekap.".
 
 <!-- page 16 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-20. Seksyen 33 Akta ibu adalah dipinda— seksyen 33.
+20. Seksyen 33 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 33. -->
 
 (a) dengan memasukkan selepas perkataan "meletakkan" dalam subseksyen (1) perkataan "benda berbahaya kepada alam sekeliling, pencemar atau"; dan
 
 (b) dalam subseksyen (2)— (i) dengan menggantikan perkataan "sepuluh ribu ringgit" dengan perkataan "lima puluh ribu ringgit"; (ii) dengan menggantikan perkataan "dua" dengan perkataan "lima"; dan (iii) dengan menggantikan perkataan "one thousand dollars" yang terdapat dalam teks bahasa Inggeris dengan perkataan "one thousand ringgit".
 
-21. Akta ibu adalah dipinda dengan memasukkan selepas baru 33A. seksyen 33 seksyen yang berikut:
+<!-- marginal: Seksyen -->
 
-33A. (1) Ketua Pengarah boleh menghendaki "Audit alam pemunya atau penduduk mana-mana kenderaan, sekeliling. kapal atau premis, tanpa mengira sama ada kenderaan, kapal atau premis itu adalah yang ditetapkan di bawah seksyen 18 atau selainnya, untuk menjalankan suatu audit alam sekeliling dan mengemukakan suatu laporan audit mengikut cara yang ditetapkan oleh Menteri melalui peraturan-peraturan yang dibuat di bawah Akta ini.
+21. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru 33A. -->
+
+seksyen 33 seksyen yang berikut:
+
+33A. (1) Ketua Pengarah boleh menghendaki
+
+<!-- marginal: "Audit -->
+
+<!-- marginal: alam -->
+
+pemunya atau penduduk mana-mana kenderaan,
+
+<!-- marginal: sekeliling. -->
+
+kapal atau premis, tanpa mengira sama ada kenderaan, kapal atau premis itu adalah yang ditetapkan di bawah seksyen 18 atau selainnya, untuk menjalankan suatu audit alam sekeliling dan mengemukakan suatu laporan audit mengikut cara yang ditetapkan oleh Menteri melalui peraturan-peraturan yang dibuat di bawah Akta ini.
 
 (2) Bagi maksud menjalankan audit alam sekeliling dan mengemukakan laporannya, pemunya atau penduduk yang diarahkan sedemikian hendaklah melantik kakitangan yang berkelayakan yang didaftarkan di bawah subseksyen (3).
 
@@ -494,13 +672,19 @@ diperolehi melalui pemalsuan, salah nyataan atau fraud atau yang tidak mematuhi 
 
 (4) Mana-mana orang yang melanggar seksyen ini adalah melakukan suatu kesalahan dan boleh didenda tidak melebihi lima ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-24. Subseksyen 36(3) Akta ibu adalah dipinda dengan seksyen 36. menggantikan perkataan "Lord President" dalam teks bahasa Inggeris dengan perkataan "Chief Justice".
+24. Subseksyen 36(3) Akta ibu adalah dipinda dengan
 
-Bahagian
+<!-- marginal: seksyen 36. -->
 
-25. Akta ibu adalah dipinda dengan memasukkan selepas baru VA.
+menggantikan perkataan "Lord President" dalam teks bahasa Inggeris dengan perkataan "Chief Justice".
+
+<!-- marginal: Bahagian -->
+
+25. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru VA. -->
 
 ## Bahagian V Bahagian yang berikut:
 
@@ -510,7 +694,13 @@ Bahagian
 
 ## ALAM SEKELILING
 
-Ses penye- 36A. (1) Bagi maksud menjalankan, meng- lidikan. galakkan atau menyelaraskan penyelidikan berhubungan dengan apa-apa aspek pencemaran atau pencegahannya, Menteri boleh, selepas berunding dengan Menteri Kewangan dan Majlis, membuat suatu perintah bagi pengenaan dan pemungutan, atau pengubahan atau pembatalan pengenaan, suatu ses ke atas buangan yang dihasilkan.
+<!-- marginal: Ses penye- -->
+
+36A. (1) Bagi maksud menjalankan, meng-
+
+<!-- marginal: lidikan. -->
+
+galakkan atau menyelaraskan penyelidikan berhubungan dengan apa-apa aspek pencemaran atau pencegahannya, Menteri boleh, selepas berunding dengan Menteri Kewangan dan Majlis, membuat suatu perintah bagi pengenaan dan pemungutan, atau pengubahan atau pembatalan pengenaan, suatu ses ke atas buangan yang dihasilkan.
 
 (2) Apa-apa perintah yang dibuat di bawah subseksyen (1) boleh mengadakan peruntukan—
 
@@ -524,7 +714,23 @@ Ses penye- 36A. (1) Bagi maksud menjalankan, meng- lidikan. galakkan atau menyel
 
 (3) Ses yang dipungut di bawah seksyen ini hendaklah dibayar ke dalam Kumpulan Wang yang ditubuhkan di bawah seksyen 36B.
 
-Penubuhan 36B. (1) Maka hendaklah ditubuhkan suatu Kumpulan kumpulan wang yang hendaklah dikenali sebagai Wang Alam Kumpulan Wang Alam Sekeliling yang Sekeliling. hendaklah dikendalikan sebagai Akaun Amanah dalam Kumpulan Wang Disatukan Persekutuan.
+<!-- marginal: Penubuhan -->
+
+36B. (1) Maka hendaklah ditubuhkan suatu
+
+<!-- marginal: Kumpulan -->
+
+kumpulan wang yang hendaklah dikenali sebagai
+
+<!-- marginal: Wang -->
+
+<!-- marginal: Alam -->
+
+Kumpulan Wang Alam Sekeliling yang
+
+<!-- marginal: Sekeliling. -->
+
+hendaklah dikendalikan sebagai Akaun Amanah dalam Kumpulan Wang Disatukan Persekutuan.
 
 (2) Kumpulan Wang itu hendaklah terdiri daripada—
 
@@ -536,11 +742,23 @@ Penubuhan 36B. (1) Maka hendaklah ditubuhkan suatu Kumpulan kumpulan wang yang h
 
 (d) segala wang yang dibayar atau diterima mengikut seksyen 36D.
 
-Jawatan- 36c. (1) Maka hendaklah ditubuhkan suatu kuasa jawatankuasa yang dikenali
+<!-- marginal: Jawatan- -->
 
-<!-- marginal: sebagai -->
+36c. (1) Maka hendaklah ditubuhkan suatu
 
-Kumpulan Wang Alam Jawatankuasa Kumpulan Wang Alam Sekeliling Sekeliling. yang hendaklah mempunyai kawalan pada Kumpulan Wang itu.
+<!-- marginal: kuasa -->
+
+jawatankuasa yang dikenali sebagai
+
+<!-- marginal: Kumpulan -->
+
+<!-- marginal: Wang Alam -->
+
+Jawatankuasa Kumpulan Wang Alam Sekeliling
+
+<!-- marginal: Sekeliling. -->
+
+yang hendaklah mempunyai kawalan pada Kumpulan Wang itu.
 
 <!-- page 20 -->
 
@@ -558,59 +776,51 @@ Kumpulan Wang Alam Jawatankuasa Kumpulan Wang Alam Sekeliling Sekeliling. yang h
 
 (5) Tertakluk kepada Akta ini, Jawatankuasa boleh menentukan prosidingnya sendiri.
 
-Caruman 36D. Menteri, selepas berunding dengan Majlis, ke dalam boleh menghendaki mana-mana orang yang Kumpulan Wang. terlibat dalam—
+<!-- marginal: Caruman -->
 
-(a) penerokaan, pengeluaran, penapisan, penghasilan, pergerakan
+36D. Menteri, selepas berunding dengan Majlis,
 
-<!-- marginal: pukal, -->
+<!-- marginal: ke dalam -->
 
-pengagihan atau penstoran minyak;
+boleh menghendaki mana-mana orang yang
 
-(b) penghasilan, pergerakan
+<!-- marginal: Kumpulan -->
 
-<!-- marginal: pukal, -->
+<!-- marginal: Wang. -->
 
-pengagihan atau penstoran, benda berbahaya kepada alam sekeliling; atau
+terlibat dalam—
+
+(a) penerokaan, pengeluaran, penapisan, penghasilan, pergerakan pukal, pengagihan atau penstoran minyak;
+
+(b) penghasilan, pergerakan pukal, pengagihan atau penstoran, benda berbahaya kepada alam sekeliling; atau
 
 (c) pergerakan pukal atau penstoran, buangan,
 
 mencarum ke dalam Kumpulan Wang pada kadar yang dinyatakannya.
 
-Pemakaian 36E. Kumpulan Wang itu hendaklah ditadbirkan Kumpulan bagi maksud— Wang.
+<!-- marginal: Pemakaian -->
 
-(a) menjalankan, menggalakkan
+36E. Kumpulan Wang itu hendaklah ditadbirkan
 
-<!-- marginal: dan -->
+<!-- marginal: Kumpulan -->
 
-menyelaraskan penyelidikan berhubungan dengan apa-apa aspek pencemaran atau pencegahannya;
+bagi maksud—
+
+<!-- marginal: Wang. -->
+
+(a) menjalankan, menggalakkan dan menyelaraskan penyelidikan berhubungan dengan apa-apa aspek pencemaran atau pencegahannya;
 
 <!-- page 21 -->
 
-(b) memulihkan buangan, atau meng- hilangkan, menyuraikan, memusnahkan, membersihkan, melupuskan
-
-<!-- marginal: atau -->
-
-mengurangkan pencemaran;
+(b) memulihkan buangan, atau meng- hilangkan, menyuraikan, memusnahkan, membersihkan, melupuskan atau mengurangkan pencemaran;
 
 (c) mencegah atau memerangi kejadian yang berikut:
 
-(i) tumpahan, pelepasan
+(i) tumpahan, pelepasan atau lambakan, minyak;
 
-<!-- marginal: atau -->
+(ii) pelepasan, peletakan atau lambakan, benda berbahaya kepada alam sekeliling; atau
 
-lambakan, minyak;
-
-(ii) pelepasan, peletakan
-
-<!-- marginal: atau -->
-
-lambakan, benda berbahaya kepada alam sekeliling; atau
-
-(iii) pelepasan, peletakan
-
-<!-- marginal: atau -->
-
-lambakan, buangan; dan
+(iii) pelepasan, peletakan atau lambakan, buangan; dan
 
 (d) menggalakkan langkah-langkah pemu- liharaan terhadap apa-apa kerosakan yang mungkin disebabkan oleh mana-mana kejadian yang dinyatakan di bawah subperenggan (i), (ii) atau (iii) perenggan (c).'.
 
@@ -638,11 +848,35 @@ lambakan, buangan; dan
 
 (e) dengan menggantikan perkataan "two thousand dollars" dalam subseksyen (2) dalam teks bahasa Inggeris dengan perkataan "two thousand ringgit".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-27. Akta ibu adalah dipinda dengan menggantikan seksyen 38. seksyen 38 dengan seksyen yang berikut:
+27. Akta ibu adalah dipinda dengan menggantikan
 
-"Kuasa 38. (1) Jika Ketua Pengarah atau mana-mana untuk pegawai yang diberikuasa sewajarnya secara menahan, bertulis berpuas hati, atau mempunyai sebab menaiki, mengge- untuk mempercayai bahawa mana-mana orang lidah, dsb. telah melakukan suatu kesalahan di bawah Akta ini, dia boleh, jika pada pendapatnya adalah perlu untuk berbuat demikian bagi maksud menyiasat kesalahan itu, tanpa waran, menahan, menaiki dan menggelidah mana-mana kenderaan, kapal atau pesawat udara, atau memasuki mana- mana premis, tanpa mengira sama ada kenderaan, kapal atau premis itu adalah yang ditetapkan di bawah seksyen 18 atau selainnya, dan boleh—
+<!-- marginal: seksyen 38. -->
+
+seksyen 38 dengan seksyen yang berikut:
+
+<!-- marginal: "Kuasa -->
+
+38. (1) Jika Ketua Pengarah atau mana-mana
+
+<!-- marginal: untuk -->
+
+pegawai yang diberikuasa sewajarnya secara
+
+<!-- marginal: menahan, -->
+
+bertulis berpuas hati, atau mempunyai sebab
+
+<!-- marginal: menaiki, -->
+
+<!-- marginal: mengge- -->
+
+untuk mempercayai bahawa mana-mana orang
+
+<!-- marginal: lidah, dsb. -->
+
+telah melakukan suatu kesalahan di bawah Akta ini, dia boleh, jika pada pendapatnya adalah perlu untuk berbuat demikian bagi maksud menyiasat kesalahan itu, tanpa waran, menahan, menaiki dan menggelidah mana-mana kenderaan, kapal atau pesawat udara, atau memasuki mana- mana premis, tanpa mengira sama ada kenderaan, kapal atau premis itu adalah yang ditetapkan di bawah seksyen 18 atau selainnya, dan boleh—
 
 (a) menyiasat, memeriksa, menyita atau menahan apa-apa kelengkapan, komputer atau loji perindustrian;
 
@@ -668,11 +902,45 @@ Pindaan
 
 (g) mengambil sampel mana-mana benda berbahaya kepada alam sekeliling, pencemar atau buangan yang dikeluarkan, dilepaskan atau diletakkan, atau berkemungkinan dikeluarkan, dilepaskan atau diletakkan daripada kenderaan, kapal, premis, atau pesawat udara itu.".
 
-28. Akta ibu adalah dipinda dengan memasukkan selepas baru 38A. seksyen 38 seksyen yang berikut:
+<!-- marginal: Seksyen -->
 
-"Kuasa 38A. (1) Ketua Pengarah atau mana-mana untuk pegawai yang diberikuasa sewajarnya secara meme- riksa bertulis olehnya dalam menjalankan penyiasatan orang di bawah Akta ini boleh memeriksa secara lisan yang menge- mana-mana orang yang dijangkakan mengetahui tahui kes. fakta dan hal keadaan kes itu dan hendaklah mengubah dalam bentuk bertulis apa-apa pernyataan yang dibuat oleh orang yang diperiksa sedemikian.
+28. Akta ibu adalah dipinda dengan memasukkan selepas
 
-(2) Orang yang disebut dalam subseksyen (1) adalah terikat untuk menjawab semua soalan berhubungan dengan kes itu yang diajukan kepadanya oleh Ketua Pengarah atau mana-mana pegawai yang diberikuasa secara bertulis olehnya:
+<!-- marginal: baru 38A. -->
+
+seksyen 38 seksyen yang berikut:
+
+<!-- marginal: "Kuasa -->
+
+38A. (1) Ketua Pengarah atau mana-mana
+
+<!-- marginal: untuk -->
+
+pegawai yang diberikuasa sewajarnya secara
+
+<!-- marginal: meme- -->
+
+<!-- marginal: riksa -->
+
+bertulis olehnya dalam menjalankan penyiasatan
+
+<!-- marginal: orang -->
+
+di bawah Akta ini boleh memeriksa secara lisan
+
+<!-- marginal: yang -->
+
+<!-- marginal: menge- -->
+
+mana-mana orang yang dijangkakan mengetahui
+
+<!-- marginal: tahui kes. -->
+
+fakta dan hal keadaan kes itu dan hendaklah mengubah dalam bentuk bertulis apa-apa pernyataan yang dibuat oleh orang yang diperiksa sedemikian.
+
+(2) Orang yang disebut dalam subseksyen
+
+(1) adalah terikat untuk menjawab semua soalan berhubungan dengan kes itu yang diajukan kepadanya oleh Ketua Pengarah atau mana-mana pegawai yang diberikuasa secara bertulis olehnya:
 
 Dengan syarat bahawa orang itu boleh enggan menjawab apa-apa soalan yang jawapannya mungkin berkecenderungan mendedahkannya kepada suatu pertuduhan jenayah atau penalti atau perlucuthakan.
 
@@ -708,9 +976,19 @@ subseksyen 45(1) dengan subseksyen yang berikut:
 
 mana-mana kesalahan di bawah Akta ini atau peraturan-peraturan yang dibuat di bawahnya yang ditetapkan oleh Menteri sebagai kesalahan yang boleh dikompaun dengan menerima daripada orang yang semunasabahnya disyaki telah melakukan kesalahan itu, sejumlah wang yang tidak melebihi dua ribu ringgit.".
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
-31. Akta ibu adalah dipinda dengan memasukkan selepas 46A, 46B, seksyen 46 seksyen yang berikut: 46c, 46D dan 46E. "Kuasa 46A. Mana-mana kenderaan atau kapal yang menyita digunakan dalam pengangkutan atau pelupusan kenderaan atau kapal. buangan yang berlanggaran dengan Akta ini atau peraturan-peraturan yang dibuat di bawahnya bolehlah disita oleh Ketua Pengarah sementara menanti selesainya prosiding di bawah Akta ini:
+31. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: 46A, 46B, -->
+
+seksyen 46 seksyen yang berikut:
+
+<!-- marginal: 46c, 46D -->
+
+<!-- marginal: dan 46E. -->
+
+"Kuasa 46A. Mana-mana kenderaan atau kapal yang menyita digunakan dalam pengangkutan atau pelupusan kenderaan atau kapal. buangan yang berlanggaran dengan Akta ini atau peraturan-peraturan yang dibuat di bawahnya bolehlah disita oleh Ketua Pengarah sementara menanti selesainya prosiding di bawah Akta ini:
 
 Dengan syarat bahawa Ketua Pengarah boleh melepaskan kenderaan atau kapal yang disita sedemikian itu apabila diberikan suatu bon atau sekuriti lain yang mencukupi untuk meliputi nilai kenderaan atau kapal itu.
 
@@ -724,7 +1002,9 @@ Penyitaan 46c. (1) Jika mana-mana kenderaan atau kapal dan perlu- disita di bawa
 
 (3) Apabila diterima notis yang disebut dalam subseksyen (2) pegawai yang diberikuasa sewajarnya secara bertulis oleh Ketua Pengarah hendaklah merujuk tuntutan itu kepada Ketua Pengarah yang hendaklah mengarahkan pegawai sedemikian untuk merujuk hal itu kepada seorang Hakim Mahkamah Sesyen bagi mendapatkan keputusan.
 
-(4) Hakim Mahkamah Sesyen yang kepadanya hal itu dirujuk di bawah subseksyen (3) hendaklah mengeluarkan suatu saman yang menghendaki orang yang menegaskan bahawa dia adalah pemunya kenderaan atau kapal itu, dan orang yang daripadanya ia disita, untuk hadir di hadapan Hakim Mahkamah Sesyen itu, dan apabila mereka hadir atau jika mereka ingkar untuk hadir, penyampaian wajar saman itu telah dibuktikan, Hakim Mahkamah Sesyen itu hendaklah terus memeriksa perkara itu dan apabila terbukti bahawa suatu kesalahan di bawah Akta ini telah dilakukan dan bahawa kenderaan atau kapal itu yang menjadi hal perkara atau telah digunakan dalam melakukan kesalahan itu hendaklah memerintahkan supaya kenderaan atau kapal itu dilucuthakkan dan hendaklah, jika tiada bukti sedemikian, memerintahkan pelepasannya.
+(4) Hakim Mahkamah Sesyen yang kepadanya hal itu dirujuk di bawah subseksyen
+
+(3) hendaklah mengeluarkan suatu saman yang menghendaki orang yang menegaskan bahawa dia adalah pemunya kenderaan atau kapal itu, dan orang yang daripadanya ia disita, untuk hadir di hadapan Hakim Mahkamah Sesyen itu, dan apabila mereka hadir atau jika mereka ingkar untuk hadir, penyampaian wajar saman itu telah dibuktikan, Hakim Mahkamah Sesyen itu hendaklah terus memeriksa perkara itu dan apabila terbukti bahawa suatu kesalahan di bawah Akta ini telah dilakukan dan bahawa kenderaan atau kapal itu yang menjadi hal perkara atau telah digunakan dalam melakukan kesalahan itu hendaklah memerintahkan supaya kenderaan atau kapal itu dilucuthakkan dan hendaklah, jika tiada bukti sedemikian, memerintahkan pelepasannya.
 
 (5) Mana-mana kenderaan atau kapal yang disifatkan terlucuthak atau terlucuthak di bawah seksyen ini hendaklah diserahkan kepada Ketua
 
@@ -740,9 +1020,13 @@ Tiada kos 46D. Dalam mana-mana prosiding di hadapan atau mana-mana mahkamah berk
 
 Pampasan 46E. Setelah seseorang telah disabitkan atas bagi suatu kesalahan terhadap Akta ini atau mana- kerugian atau mana peraturan yang dibuat di bawahnya, kerosakan mahkamah, sebagai tambahan kepada kepada mengenakan penalti bagi kesalahan itu, boleh, harta. jika mahkamah mendapati bahawa mana-mana orang lain telah, dengan sebab perlakuan, atau peninggalan yang telah mengakibatkan kesalahan itu, mengalami kerugian atau kerosakan kepada harta, memerintahkan orang yang disabitkan sedemikian untuk membayar kepada orang yang satu lagi itu kos dan perbelanjaan yang dilakukan atau pampasan bagi kerugian atau kerosakan kepada harta dan apa-apa kos lain, dalam amaun yang mahkamah fikirkan patut.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-32. Akta ibu adalah dipinda dengan menggantikan seksyen 48. seksyen 48 dengan seksyen yang berikut:
+32. Akta ibu adalah dipinda dengan menggantikan
+
+<!-- marginal: seksyen 48. -->
+
+seksyen 48 dengan seksyen yang berikut:
 
 "Kuasa 48. (1) Jika Ketua Pengarah mempunyai untuk sebab untuk mempercayai bahawa apa-apa menahan pelepasan atau tumpahan minyak atau campuran dan menjual yang mengandungi minyak atau buangan kenderaan terjadual adalah daripada mana-mana kenderaan atau kapal.
 
@@ -786,11 +1070,7 @@ menggantikan perkataan "ten thousand dollars" yang terdapat dalam teks bahasa In
 
 (v) mengawal langkah-langkah untuk menilai, mengawal, mengurangkan atau menghapuskan risiko alam sekeliling;
 
-(w) mengawal kekompetenan orang yang layak untuk menyenggara
-
-<!-- marginal: dan -->
-
-mengendalikan apa-apa kelengkapan atau kelengkapan kawalan.".
+(w) mengawal kekompetenan orang yang layak untuk menyenggara dan mengendalikan apa-apa kelengkapan atau kelengkapan kawalan.".
 
 <!-- page 31 -->
 
@@ -832,7 +1112,9 @@ Rang Undang-Undang ini bertujuan meminda Akta Kualiti Alam Sekeliling 1974 ("Akt
 
 17. Fasal 16 bertujuan memasukkan seksyen baru 30A dan 30B. Seksyen 30A bertujuan untuk memberikan Menteri kuasa, selepas berunding dengan Majlis, melalui perintah yang disiarkan dalam Warta, menetapkan apa-apa benda sebagai benda berbahaya kepada alam sekeliling dan apa-apa keluaran sebagai keluaran yang ditetapkan. Apa-apa perintah yang dibuat bagi maksud ini boleh menyatakan kaedah-kaedah tentang penggunaan, rekabentuk dan pemakaian label yang berkaitan dengan penjualan benda atau keluaran yang diperakukan sebagai tidak memudaratkan alam sekeliling. Seksyen 30B bertujuan memberikan Menteri kuasa, setelah berunding dengan Majlis, untuk menyatakan garis panduan dan prosedur mengenai skim deposit dan rebet bagi keluaran yang dianggap memudaratkan alam sekeliling dan yang menyebabkan kekangan bertentangan kepada alam sekeliling berkaitan dengan pelupusannya.
 
-18. Fasal 17 bertujuan menggantikan seksyen 31 dengan mengadakan peruntukan bagi pengeluaran, pelepasan atau peletakan apa-apa benda berbahaya kepada alam sekeliling, pencemar atau buangan daripada mana-mana kenderaan, kapal atau premis. Dalam hal yang sedemikian, Ketua Pengarah boleh melalui notis menghendaki pemunya atau penduduk untuk melakukan apa-apa tindakan sebagaimana yang disebut satu per satu dalam subseksyen (1) dan (2). Penalti dalam subseksyen (3) juga memperuntukkan suatu peruntukan bagi kesalahan berterusan.
+18. Fasal 17 bertujuan menggantikan seksyen 31 dengan mengadakan peruntukan bagi pengeluaran, pelepasan atau peletakan apa-apa benda berbahaya kepada alam sekeliling, pencemar atau buangan daripada mana-mana kenderaan, kapal atau premis. Dalam hal yang sedemikian, Ketua Pengarah boleh melalui notis menghendaki pemunya atau penduduk untuk melakukan apa-apa tindakan sebagaimana yang disebut satu per satu dalam subseksyen (1) dan
+
+(2). Penalti dalam subseksyen (3) juga memperuntukkan suatu peruntukan bagi kesalahan berterusan.
 
 19. Fasal 18 bertujuan memasukkan seksyen baru 3lA untuk memberikan Menteri kuasa untuk menyatakan hal keadaan yang Ketua Pengarah boleh mengeluarkan suatu perintah larangan kepada
 

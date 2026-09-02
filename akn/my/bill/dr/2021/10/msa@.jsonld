@@ -1,0 +1,562 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-10-2021",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_19"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Antipemerdagangan Orang dan Antipenyeludupan Migran (Pindaan) 2021"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_10__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_10__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_10__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_10__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 26b Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa kebangsaan, dengan menggantikan perkataan “menjalankan” dengan perkataan “melakukan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan memotong perkataan “atau” di hujung perenggan itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_10__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c), dengan menggantikan koma di hujung perenggan itu dengan perkataan “; atau”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_10__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (c) perenggan yang berikut: “(d) jika kesalahan penyeludupan migran itu dilakukan oleh seorang pegawai awam dalam melaksanakan kewajipan awamnya,”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_10__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “pemenjaraan selama tempoh tidak kurang daripada tiga tahun tetapi tidak melebihi dua puluh tahun, dan boleh juga dikenakan denda, atau kedua-duanya” dengan perkataan “pemenjaraan seumur hidup atau dengan pemenjaraan selama tempoh tidak kurang daripada lima tahun, dan boleh juga dihukum dengan hukuman sebat”. Pindaan seksyen 26c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 26c Akta ibu dipinda dengan menggantikan perkataan “tujuh tahun” dengan perkataan “lima belas tahun”. Pindaan seksyen 27"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 27 Akta ibu dipinda dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: “(1a) Menteri bolehlah, selepas berunding dengan mana-mana Menteri berkaitan lain, melantik mana-mana pegawai awam sebagaimana yang difikirkan perlu sebagai pegawai dan Antipenyeludupan Migran (Pindaan) penguat kuasa bagi maksud Akta ini dan pegawai awam itu yang dilantik sedemikian bolehlah menjalankan segala kuasa penguatkuasaan. (1b) Tiap-tiap pelantikan di bawah subseksyen (1a) hendaklah disiarkan dalam Warta.”. Pindaan seksyen 42"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 42 Akta ibu dipinda dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(3) Menteri yang dipertanggungkan dengan tanggungjawab bagi pembangunan wanita, keluarga dan masyarakat hendaklah bertanggungjawab bagi apa-apa perkara yang berhubungan dengan pengurusan, pentadbiran dan kawalan ke atas tempat perlindungan yang diisytiharkan di bawah subseksyen (1), orang yang diperdagangkan di tempat perlindungan itu dan Pegawai Pelindung yang dilantik di bawah seksyen 43. (4) Menteri yang dipertanggungkan dengan tanggungjawab bagi pembangunan wanita, keluarga dan masyarakat boleh memberikan apa-apa arahan mengikut apa-apa cara, sama ada secara am atau khusus bagi maksud yang disebut dalam subseksyen (3).”. Pindaan seksyen 43"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_14__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 43 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “Pegawai Kebajikan Masyarakat atau mana-mana pegawai awam lain” dengan perkataan “Pegawai Kebajikan Masyarakat, mana-mana pegawai awam lain atau mana-mana orang lain”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (1a). Pindaan seksyen 51"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 51(5) Akta ibu dipinda dengan memasukkan selepas perkataan “seksyen 52” perkataan “, perakaman deposisi bagi maksud seksyen 61a”. Pindaan seksyen 54"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan subseksyen 54(3) dengan subseksyen yang berikut: “(3) Walau apa pun subseksyen (1), mahkamah boleh, atas suatu permohonan yang dibuat oleh Pegawai Pelindung atau pegawai penguat kuasa, dan setelah berpuas hati bahawa orang yang diperdagangkan itu memerlukan jagaan dan perlindungan lanjut atas sebab yang munasabah atau bagi maksud pengurusan penghantaran pulang, membuat perintah supaya orang yang diperdagangkan itu ditempatkan di tempat perlindungan bagi apa-apa tempoh lanjut sebagaimana yang difikirkan patut oleh Majistret.”. Pindaan seksyen 57"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 57 Akta ibu dipinda dengan memasukkan selepas perkataan “Menteri boleh,” perkataan “selepas berunding dengan Menteri yang dipertanggungkan dengan tanggungjawab bagi pembangunan wanita, keluarga dan masyarakat,”. Pindaan seksyen 66"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 66(2) Akta ibu dipinda dengan memotong perenggan (f). Kecualian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_19__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_19__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun peruntukan Akta ini, anggota Majlis yang dilantik oleh Menteri di bawah perenggan 6(2)(n) dan (o) sebelum tarikh permulaan kuat kuasa Akta ini hendaklah terus memegang jawatan sehingga pelantikannya dibatalkan atau sehingga tempoh pelantikannya tamat."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua arahan, perisytiharan, Perintah Perlindungan dan perintah perlindungan interim yang dibuat, dikeluarkan atau diberikan di bawah Akta ibu hendaklah, setakat yang arahan, perisytiharan, Perintah Perlindungan dan perintah perlindungan dan Antipenyeludupan Migran (Pindaan) interim itu adalah selaras dengan Akta ibu sebagaimana yang dipinda oleh Akta ini, terus berkuat kuasa sehingga arahan, perisytiharan, Perintah Perlindungan dan perintah perlindungan interim itu dibatalkan atau dipinda."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_19__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa siasatan, perakaman deposisi, perbicaraan atau prosiding yang telah dilakukan, diambil atau dimulakan di bawah Akta ibu sebaik sebelum permulaan kuat kuasa Akta ini, hendaklah diuruskan seolah-olah Akta ibu tidak dipinda oleh Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Antipemerdagangan Orang dan Antipenyeludupan Migran (Pindaan) 2021."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta dan Menteri boleh menetapkan tarikh yang berlainan bagi permulaan kuat kuasa peruntukan yang berlainan Akta ini. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Antipemerdagangan Orang dan Antipenyeludupan Migran 2007 [Akta 670], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa Inggeris, dalam takrif “exploitation”, dengan menggantikan perkataan “means” dengan perkataan “includes”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong takrif “paksaan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “pegawai penguat kuasa”, dengan menggantikan perkataan “seksyen 27” dengan perkataan “subseksyen 27(1) atau mana-mana pegawai awam yang dilantik di bawah subseksyen 27(1a)”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan takrif “pemerdagangan orang” dengan takrif yang berikut: ‘ “pemerdagangan orang” ertinya segala perbuatan merekrut, mengangkut, memindahkan, memperoleh, mengekalkan, melindungi, menyediakan atau menerima, seseorang, bagi maksud eksploitasi, dengan cara yang berikut: (a) ancaman atau penggunaan kekerasan atau bentuk paksaan yang lain; (b) pemelarian; (c) fraud; (d) perdayaan; (e) penyalahgunaan kuasa; (f) penyalahgunaan kedudukan orang yang mudah terdedah kepada bahaya perbuatan pemerdagangan orang; atau (g) pemberian atau penerimaan bayaran atau faedah untuk memperoleh kerelaan seseorang yang mempunyai kawalan ke atas orang yang diperdagangkan.”. Pindaan seksyen 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 6(2) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (n), dengan menggantikan perkataan “tiga” dengan perkataan “lima”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (o), dengan menggantikan perkataan “dua” dengan perkataan “tiga”. dan Antipenyeludupan Migran (Pindaan) Pindaan seksyen 12"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Sekyen 12 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “seorang kanak-kanak” dengan perkataan “seorang kanak-kanak atau yang bukan seseorang yang tidak dapat menjaga atau melindungi dirinya sendiri sepenuhnya disebabkan kehilangan upaya atau keadaan fizikal atau mental”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “bagi maksud eksploitasi,”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “lima belas tahun” dengan perkataan “dua puluh tahun”. Penggantian seksyen 13"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 13 dengan seksyen yang berikut: “Kesalahan pemerdagangan orang yang lebih berat 13. Mana-mana orang yang melakukan kesalahan pemerdagangan orang, jika orang yang diperdagangkan itu bukan merupakan seorang kanak-kanak atau bukan seseorang yang tidak dapat menjaga atau melindungi dirinya sendiri sepenuhnya disebabkan kehilangan upaya atau keadaan fizikal atau mental yang mana- mana berikut terpakai baginya: (a) dalam melakukan kesalahan itu, orang itu telah menyebabkan kecederaan parah kepada orang yang diperdagangkan itu atau kepada mana-mana orang lain; (b) dalam melakukan kesalahan itu, orang itu telah menyebabkan kematian kepada orang yang diperdagangkan itu atau kepada mana-mana orang lain; (c) dalam melakukan kesalahan itu, disebabkan oleh atau pada masa orang itu diperdagangkan, orang yang diperdagangkan itu membunuh diri; (d) dalam melakukan kesalahan itu, orang itu mendedahkan orang yang diperdagangkan itu kepada penyakit yang mengancam nyawa, termasuk virus kurang daya tahan manusia (HIV) dan sindrom kurang daya tahan penyakit (AIDS); (e) dalam melakukan kesalahan itu, orang itu melibatkan diri dalam aktiviti pemerdagangan orang sebagai sebahagian daripada aktiviti kumpulan jenayah terancang; atau (f) jika kesalahan memperdagangkan orang itu dilakukan oleh seorang pegawai awam dalam melaksanakan kewajipan awamnya, hendaklah, apabila disabitkan, dihukum dengan pemenjaraan seumur hidup atau dengan pemenjaraan selama tempoh tidak kurang daripada lima tahun, dan boleh juga dihukum dengan hukuman sebat.”. Pindaan seksyen 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_6__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_6__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 14 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan memasukkan selepas perkataan “kanak-kanak” perkataan “atau seseorang yang tidak dapat menjaga atau melindungi dirinya sendiri sepenuhnya disebabkan kehilangan upaya atau keadaan fizikal atau mental”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula seksyen yang sedia ada sebagai subseksyen (1);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_6__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_6__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_6__para_c__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1) yang dinomborkan semula—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_6__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_6__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “seorang kanak-kanak” dengan perkataan “seorang kanak-kanak atau seseorang yang tidak dapat menjaga atau melindungi dirinya sendiri sepenuhnya disebabkan kehilangan upaya atau keadaan fizikal atau mental”; dan Antipenyeludupan Migran (Pindaan)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_6__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_6__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memo tong perkataan “bagi maksud eksploitasi,”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_6__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_6__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “pemenjaraan selama tempoh tidak kurang daripada tiga tahun tetapi tidak melebihi dua puluh tahun, dan boleh juga didenda” dengan perkataan “pemenjaraan seumur hidup atau dengan pemenjaraan selama tempoh tidak kurang daripada lima tahun, dan boleh juga dihukum dengan hukuman sebat”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_6__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) yang dinomborkan semula subseksyen yang berikut: “(2) Dalam suatu pendakwaan bagi kesalahan di bawah seksyen ini, cara yang digunakan terhadap orang yang diperdagangkan yang merupakan seorang kanak-kanak atau seseorang yang tidak dapat menjaga atau melindungi dirinya sendiri sepenuhnya disebabkan kehilangan upaya atau keadaan fizikal atau mental adalah tidak relevan dan bukanlah menjadi satu kehendak untuk dibuktikan.”. Pindaan seksyen 15a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 15a Akta ibu dipinda dengan menggantikan perkataan “tujuh tahun” dengan perkataan “lima belas tahun”. Pindaan seksyen 19"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 19 Akta ibu dipinda dengan menggantikan perkataan “sepuluh tahun” dengan perkataan “lima belas tahun”. Pindaan seksyen 26a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 26a Akta ibu dipinda dengan menggantikan perkataan “lima belas tahun” dengan perkataan “dua puluh tahun”. Pindaan seksyen 26b"
+      }
+    }
+  ]
+}

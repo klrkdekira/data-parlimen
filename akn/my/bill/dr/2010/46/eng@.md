@@ -18,6 +18,8 @@ ENACTED by the Parliament of Malaysia as follows:
 
 2. The Copyright Act 1987 [Act 332], which is referred to as the “principal Act” in this Act, is amended by substituting for the words “live performance” wherever appearing the word “performance”.
 
+<!-- marginal: JW516675 BI.indd 1 -->
+
 <!-- marginal: 12/13/10 3:29:33 PM -->
 
 <!-- page 2 -->
@@ -82,6 +84,8 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (b) by inserting after the words “reporting of” the words “news or”.
 
+<!-- marginal: JW516675 BI.indd 3 -->
+
 <!-- marginal: 12/13/10 3:29:33 PM -->
 
 <!-- page 4 -->
@@ -106,6 +110,8 @@ ENACTED by the Parliament of Malaysia as follows:
 
 Provided that it is accompanied by an acknowledgement of the title of the work and its authorship, except
 
+<!-- marginal: JW516675 BI.indd 4 -->
+
 <!-- marginal: 12/13/10 3:29:33 PM -->
 
 <!-- page 5 -->
@@ -114,7 +120,11 @@ that no acknowledgment is required in connection with the reporting of news or c
 
 (ii) in paragraph (g), by substituting for the word “recording” the word “reproduction”;
 
-(iii) by substituting for paragraph (gggg) the following paragraph: “
+(iii) by substituting for paragraph (gggg) the following
+
+<!-- marginal: paragraph: -->
+
+“
 
 (gggg) the making and issuing of copies of any work into a format to cater for the special needs of people who are visually or hearing impaired and the issuing of such copies to the public by non-profit making bodies or institutions and on such terms as the Minister may determine;”;
 
@@ -122,19 +132,27 @@ that no acknowledgment is required in connection with the reporting of news or c
 
 (v) in paragraph (o), by deleting the word “and” at the end of the paragraph;
 
-(vi) in paragraph (p), by substituting for the full stop at the end of the paragraph the word “; and”; and
+(vi) in paragraph (p), by substituting for the full stop at the end of the paragraph the word “; and”;
 
-(vii) by inserting after paragraph (p) the following paragraph: “
+<!-- marginal: and -->
+
+(vii) by inserting after paragraph (p) the following
+
+<!-- marginal: paragraph: -->
+
+“
 
 (q) the making of a transient and incidental electronic copy of a work made available on a network if the making of such copy is required for the viewing, listening or utilization of the said work.”; and
 
-(c) by inserting after subsection (2) the following subsection:
+(c) by inserting after subsection (2) the following
+
+<!-- marginal: subsection: -->
 
 “(2a) For the purposes of paragraph (2)(a), in determining whether a dealing constitutes a fair dealing, the factors to be considered shall include—
 
 (a) the purpose and character of the dealing, including whether such dealing is of a commercial nature or is for non-profit educational purposes;
 
-<!-- marginal: 12/13/10 3:29:33 PM -->
+<!-- marginal: JW516675 BI.indd 5 -->
 
 <!-- page 6 -->
 
@@ -192,6 +210,8 @@ that no acknowledgment is required in connection with the reporting of news or c
 
 (d) a direct sound recording or film of a performance made by or under the direction or control of a broadcasting service who has the consent of the performer to broadcast the performance, and such recording or film is destroyed before the end of the period of six months immediately following the making of the recording or film or such longer period as may be agreed between the broadcasting service and the performer;”.
 
+<!-- marginal: JW516675 BI.indd 7 -->
+
 <!-- marginal: 12/13/10 3:29:34 PM -->
 
 <!-- page 8 -->
@@ -220,6 +240,8 @@ that no acknowledgment is required in connection with the reporting of news or c
 
 (3e) A contract is of no effect in so far as it purports to prevent a performer questioning the amount of equitable remuneration or to restrict the powers of the Tribunal under this section.”; and
 
+<!-- marginal: JW516675 BI.indd 8 -->
+
 <!-- marginal: 12/13/10 3:29:34 PM -->
 
 <!-- page 9 -->
@@ -245,6 +267,8 @@ that no acknowledgment is required in connection with the reporting of news or c
 26a. (1) A notification of copyright in any work may be made to the Controller by or on behalf of the author of the work, the owner of the copyright in the work, an assignee of the copyright, or a person to whom an interest in the copyright has been granted by licence.
 
 (2) A notification of copyright shall not be entertained unless the prescribed fee has been paid to the Controller.
+
+<!-- marginal: JW516675 BI.indd 9 -->
 
 <!-- marginal: 12/13/10 3:29:34 PM -->
 
@@ -278,6 +302,8 @@ that no acknowledgment is required in connection with the reporting of news or c
 
 (5) The Controller or Deputy Controller may certify true extracts from the Register of Copyright which shall be prima facie evidence of the particulars entered therein and such certified extracts of the Register of Copyright shall be admissible in all courts.
 
+<!-- marginal: JW516675 BI.indd 10 -->
+
 <!-- marginal: 12/13/10 3:29:34 PM -->
 
 <!-- page 11 -->
@@ -310,6 +336,8 @@ and any correction, expungement or amendment made under this section shall be ef
 
 (b) the list of copyright owners or their agents who are members of the applicant.
 
+<!-- marginal: JW516675 BI.indd 11 -->
+
 <!-- marginal: 12/13/10 3:29:34 PM -->
 
 <!-- page 12 -->
@@ -339,6 +367,8 @@ and any correction, expungement or amendment made under this section shall be ef
 (e) has refused, or failed, without reasonable excuse, to comply with the provisions of this Act; or
 
 (f) has been dissolved.
+
+<!-- marginal: JW516675 BI.indd 12 -->
 
 <!-- marginal: 12/13/10 3:29:34 PM -->
 
@@ -375,6 +405,8 @@ and any correction, expungement or amendment made under this section shall be ef
 (a) in paragraph (a), by deleting the word “or” appearing at the end of the paragraph;
 
 (b) in paragraph (b), by substituting for the comma the word “; or”;
+
+<!-- marginal: JW516675 BI.indd 13 -->
 
 <!-- marginal: 12/13/10 3:29:34 PM -->
 
@@ -452,6 +484,8 @@ and any correction, expungement or amendment made under this section shall be ef
 
 (a) appoint from amongst the remaining members a new chairman for the purpose of the continued proceedings; and
 
+<!-- marginal: JW516675 BI.indd 15 -->
+
 <!-- marginal: 12/13/10 3:29:34 PM -->
 
 <!-- page 16 -->
@@ -522,6 +556,8 @@ and any correction, expungement or amendment made under this section shall be ef
 
 (iii) advertise for sale or hire;
 
+<!-- marginal: JW516675 BI.indd 17 -->
+
 <!-- marginal: 12/13/10 3:29:34 PM -->
 
 <!-- page 18 -->
@@ -553,6 +589,8 @@ any technology, device or component which—
 (b) distribute, import for distribution or communicate to the public, without authority, of works or copies of works knowing that electronic rights management information has been removed or altered without authority,
 
 and knowing or having reasonable grounds to know that such act will induce, enable, facilitate or conceal an infringement of any rights under this Act.
+
+<!-- marginal: JW516675 BI.indd 18 -->
 
 <!-- marginal: 12/13/10 3:29:34 PM -->
 
@@ -588,6 +626,8 @@ and knowing or having reasonable grounds to know that such act will induce, enab
 
 (e) any other order as the court deems fit.
 
+<!-- marginal: JW516675 BI.indd 19 -->
+
 <!-- marginal: 12/13/10 3:29:34 PM -->
 
 <!-- page 20 -->
@@ -609,6 +649,8 @@ and knowing or having reasonable grounds to know that such act will induce, enab
 (b) any benefit shown to have accrued to the defendant by reason of the infringement or prohibited act; and
 
 (c) all other relevant matters.
+
+<!-- marginal: JW516675 BI.indd 20 -->
 
 <!-- marginal: 12/13/10 3:29:34 PM -->
 
@@ -643,6 +685,8 @@ and knowing or having reasonable grounds to know that such act will induce, enab
 (c) “court” means the appropriate High Court in Malaysia.
 
 (11) For the purpose of this section, “owner of the copyright” means the first owner or an assignee of the relevant part of the copyright.”.
+
+<!-- marginal: JW516675 BI.indd 21 -->
 
 <!-- marginal: 12/13/10 3:29:34 PM -->
 
@@ -702,13 +746,15 @@ and knowing or having reasonable grounds to know that such act will induce, enab
 
 32. The principal Act is amended by inserting after Part VI the following Parts:
 
-“Part VIa
+## “PART VIA
 
 ## ANTI-CAMCORDING
 
 ### Offences relating to anti-camcording
 
 43a. (1) Any person who operates an audiovisual recording device in a screening room to record any film in whole or in part shall be guilty of an offence and shall on conviction be liable to a fine of not less than ten thousand ringgit and not more than one hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both.
+
+<!-- marginal: JW516675 BI.indd 23 -->
 
 <!-- marginal: 12/13/10 3:29:35 PM -->
 
@@ -724,7 +770,7 @@ and knowing or having reasonable grounds to know that such act will induce, enab
 
 “screening room” means any venue which is utilized for the exhibition or screening of a motion picture, including a motion picture theatre.
 
-Part VIb
+## PART VIB
 
 ## LIMITATION OF LIABILITIES OF THE SERVICE
 
@@ -743,6 +789,8 @@ Part VIb
 “originating network” means another network from which an electronic copy originates;
 
 “primary network” in relation to a service provider means a network controlled or operated by or for the service provider;
+
+<!-- marginal: JW516675 BI.indd 24 -->
 
 <!-- marginal: 12/13/10 3:29:35 PM -->
 
@@ -772,6 +820,8 @@ Provided that—
 
 (C) the service provider does not select the recipient of the electronic copy of the work except as an automatic response to the request of another person; or
 
+<!-- marginal: JW516675 BI.indd 25 -->
+
 <!-- marginal: 12/13/10 3:29:35 PM -->
 
 <!-- page 26 -->
@@ -799,6 +849,8 @@ Provided that—
 Provided that—
 
 (A) the service provider does not make any substantive modification, other than a modification made as part of a technical process, to the content of the electronic copy during the transmission of such copy to users of its primary network or another network; and
+
+<!-- marginal: JW516675 BI.indd 26 -->
 
 <!-- marginal: 12/13/10 3:29:35 PM -->
 
@@ -828,6 +880,8 @@ Provided that—
 
 (bb) in the absence of such actual knowledge, is not aware of the facts or circumstances from which the infringing activity is apparent;
 
+<!-- marginal: JW516675 BI.indd 27 -->
+
 <!-- marginal: 12/13/10 3:29:35 PM -->
 
 <!-- page 28 -->
@@ -855,6 +909,8 @@ Provided that—
 (a) the removal of an electronic copy of a work from its primary network; or
 
 (b) the disabling of access to an electronic copy of a work on its primary network or another network.
+
+<!-- marginal: JW516675 BI.indd 28 -->
 
 <!-- marginal: 12/13/10 3:29:35 PM -->
 
@@ -886,6 +942,8 @@ Provided that the service provider is furnished with the proper documentation re
 
 (b) the details and particulars of a designated agent to receive any complaint or notice regarding an allegation of infringement of copyright.
 
+<!-- marginal: JW516675 BI.indd 29 -->
+
 <!-- marginal: 12/13/10 3:29:35 PM -->
 
 <!-- page 30 -->
@@ -907,6 +965,8 @@ Provided that the person shall undertake to compensate the service provider or a
 (4) A service provider shall—
 
 (a) upon receipt of a counter notification, promptly provide the issuer of the notification under subsection (1) with a copy of the counter notification and inform such issuer that the removed material or access to the said material will be restored in ten business days; and
+
+<!-- marginal: JW516675 BI.indd 30 -->
 
 <!-- marginal: 12/13/10 3:29:35 PM -->
 
@@ -931,6 +991,8 @@ Provided that the person shall undertake to compensate the service provider or a
 43i. (1) If a person making a notification in accordance with section 43h makes any statement which is false, which he knows to be false or does not believe to be true, and which touches on any point material to the object of the notice—
 
 (a) he shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both; and
+
+<!-- marginal: JW516675 BI.indd 31 -->
 
 <!-- marginal: 12/13/10 3:29:35 PM -->
 
@@ -984,6 +1046,8 @@ is relevant for the purpose of any investigation into an offence under this Act 
 
 51a. (1) Notwithstanding any written law or rule of law to the contrary, no agent provocateur shall be presumed to be unworthy of credit by reason only of his having attempted to abet or abetted the commission of an offence by any person under this Act if the attempt to abet or abetment was for the sole purpose of securing evidence against such person.
 
+<!-- marginal: JW516675 BI.indd 33 -->
+
 <!-- marginal: 12/13/10 3:29:35 PM -->
 
 <!-- page 34 -->
@@ -1010,6 +1074,8 @@ shall be guilty of an offence under this Act.
 
 (b) to any person in contemplation of, or in connection with and for the purpose of, any legal proceedings.”.
 
+<!-- marginal: JW516675 BI.indd 34 -->
+
 <!-- marginal: 12/13/10 3:29:35 PM -->
 
 <!-- page 35 -->
@@ -1033,6 +1099,8 @@ This Bill seeks to amend the Copyright Act 1987 (“Act 332”).
 3. Clause 1 contains the short title and provisions on the commencement of the proposed Bill.
 
 4. Clause 2 seeks to delete the word “live” from the term “live performance” throughout the Act because the word “performance” is capable to imply action that is performed live. This proposed amendment is also consistent with Article 2 of the WPPT.
+
+<!-- marginal: JW516675 BI.indd 35 -->
 
 <!-- marginal: 12/13/10 3:29:35 PM -->
 
@@ -1082,6 +1150,8 @@ by including any judicial proceedings, proceedings of a royal commission, a legi
 
 23. Clause 25 seeks to amend section 36 which is a consequence of clause 26 which introduces two new sections on technological protection measure and rights management information.
 
+<!-- marginal: JW516675 BI.indd 37 -->
+
 <!-- marginal: 12/13/10 3:29:35 PM -->
 
 <!-- page 38 -->
@@ -1123,5 +1193,7 @@ by including any judicial proceedings, proceedings of a royal commission, a legi
 This Bill will not involve the Government in any extra financial expenditure.
 
 <!-- marginal: [PN(U2)2750] -->
+
+<!-- marginal: JW516675 BI.indd 39 -->
 
 <!-- marginal: 12/13/10 3:29:36 PM -->

@@ -10,7 +10,9 @@ WHEREAS it is expedient for the purpose of ensuring uniformity of law and policy
 
 AND WHEREAS it is also expedient that provisions be made to confer executive authority on the Federation over certain matters in relation to the control and regulation of town and country planning:
 
-NOW, THEREFORE, pursuant to Clause (1) of Article 74, Clause (4) of Article 76 and Clause (2) of Article 80 of the Federal Constitution, IT IS ENACTED by the Parliament of Malaysia as follows:
+NOW, THEREFORE, pursuant to Clause (1) of Article 74, Clause
+
+(4) of Article 76 and Clause (2) of Article 80 of the Federal Constitution, IT IS ENACTED by the Parliament of Malaysia as follows:
 
 ### Short title, application and commencement
 
@@ -94,7 +96,17 @@ AND WHEREAS it is also expedient that provisions be made to confer executive aut
 
 7. Part II of the principal Act is amended by inserting before section 3 the following sections:
 
-National 2A. (1) There shall be established a National Physical Physical Planning Council consisting of— Planning Council.
+<!-- marginal: National -->
+
+2A. (1) There shall be established a National Physical
+
+<!-- marginal: Physical -->
+
+Planning Council consisting of—
+
+<!-- marginal: Planning -->
+
+<!-- marginal: Council. -->
 
 (a) a Chairman, being the Prime Minister;
 
@@ -134,7 +146,19 @@ National 2A. (1) There shall be established a National Physical Physical Plannin
 
 (6) The Council shall determine its own procedure.
 
-Director 2B. (1) There shall be a Director General of Town and General of Country Planning whose functions shall be— Town and Country Planning.
+<!-- marginal: Director -->
+
+2B. (1) There shall be a Director General of Town and
+
+<!-- marginal: General of -->
+
+Country Planning whose functions shall be—
+
+<!-- marginal: Town and -->
+
+<!-- marginal: Country -->
+
+<!-- marginal: Planning. -->
 
 (a) to conduct, promote and co-ordinate research in relation to any aspect of town and country planning;
 
@@ -240,7 +264,17 @@ Regional 6A. (1) The Council may from time to time, after planning consultation 
 
 ## NATIONAL PHYSICAL PLAN
 
-National 6B. (1) The Director General of Town and Country physical Planning shall, upon the direction of the Council, prepare plan. and submit to the Council for its approval a draft national physical plan which covers Peninsular Malaysia.
+<!-- marginal: National -->
+
+6B. (1) The Director General of Town and Country
+
+<!-- marginal: physical -->
+
+Planning shall, upon the direction of the Council, prepare
+
+<!-- marginal: plan. -->
+
+and submit to the Council for its approval a draft national physical plan which covers Peninsular Malaysia.
 
 (2) The draft national physical plan shall—
 
@@ -328,13 +362,7 @@ conservation policies of the nation;"; and
 
 (ii) by substituting for paragraph (a) the following paragraph:
 
-"(a) formulating the policy and general proposals of the State Authority in respect of the development and use of land in that State, including measures for the improvement of the physical living environment,
-
-<!-- marginal: the -->
-
-<!-- marginal: improvement of -->
-
-communications, the management of traffic, the improvement of socio-economic well-being and the promotion of economic growth, and for facilitating sustainable development;"; and
+"(a) formulating the policy and general proposals of the State Authority in respect of the development and use of land in that State, including measures for the improvement of the physical living environment, the improvement of communications, the management of traffic, the improvement of socio-economic well-being and the promotion of economic growth, and for facilitating sustainable development;"; and
 
 (iii) in paragraph (c), by inserting after the words "as the" the words "Council or";
 
@@ -402,9 +430,7 @@ substituting for the words "it proposes" the words "he proposes"; and
 
 (b) by substituting for subsection (4) the following subsection:
 
-"(4) Without prejudice to
-
-<!-- marginal: subsection -->
+"(4) Without prejudice to subsection
 
 <!-- marginal: (3), -->
 
@@ -432,7 +458,25 @@ Committee—
 
 16. The principal Act is amended by substituting for section 11 the following section:
 
-Review 11. (1) A structure plan that has come into effect shall or be subjected to review every five years in tandem with alteration the preparation of the State's five-year development plans, of structure and the review shall relate to the whole of the State. plan.
+<!-- marginal: Review -->
+
+11. (1) A structure plan that has come into effect shall
+
+<!-- marginal: or -->
+
+be subjected to review every five years in tandem with
+
+<!-- marginal: alteration -->
+
+the preparation of the State's five-year development plans,
+
+<!-- marginal: of -->
+
+<!-- marginal: structure -->
+
+and the review shall relate to the whole of the State.
+
+<!-- marginal: plan. -->
 
 (2) Notwithstanding subsection (1), after a structure plan for a State has come into effect, the State Director may submit to the Committee and shall, if so directed by the Committee, submit to it, within a period specified in the direction, proposals for such review or alterations to the plan as appear to the State Director to be expedient or as the Committee may direct, as the case may be, and the proposals may relate to the whole or to part of the State.".
 
@@ -440,9 +484,43 @@ Review 11. (1) A structure plan that has come into effect shall or be subjected 
 
 17. The principal Act is amended by inserting after section 11 the following sections:
 
-Procedure 11A. If it is decided under section 11 that a review of for review the structure plan for a State is to be held, the State of structure Director shall submit to the Committee a report of the plan. results of his review of the relevant matters under section 7 together with any other information on which the proposals are based, and sections 9 and 10 shall apply, with the necessary modifications, in relation to the proposals as they apply in relation to the structure plan.
+<!-- marginal: Procedure -->
 
-Procedure 11B. (1) If it is decided under section 11 that an for alteration is to be made on the structure plan for the alteration State, the State Director shall prepare and submit to the of structure Committee proposals for such alterations. plan.
+11A. If it is decided under section 11 that a review of
+
+<!-- marginal: for review -->
+
+the structure plan for a State is to be held, the State
+
+<!-- marginal: of -->
+
+<!-- marginal: structure -->
+
+Director shall submit to the Committee a report of the
+
+<!-- marginal: plan. -->
+
+results of his review of the relevant matters under section 7 together with any other information on which the proposals are based, and sections 9 and 10 shall apply, with the necessary modifications, in relation to the proposals as they apply in relation to the structure plan.
+
+<!-- marginal: Procedure -->
+
+11B. (1) If it is decided under section 11 that an
+
+<!-- marginal: for -->
+
+alteration is to be made on the structure plan for the
+
+<!-- marginal: alteration -->
+
+State, the State Director shall prepare and submit to the
+
+<!-- marginal: of -->
+
+<!-- marginal: structure -->
+
+Committee proposals for such alterations.
+
+<!-- marginal: plan. -->
 
 (2) In formulating the proposals for such alterations, the State Director shall have regard to such matters as the Council or Committee may direct.
 
@@ -530,11 +608,33 @@ plan for the State being out of date, the Committee shall refer the difference t
 
 21. The principal Act is amended by inserting after section 16 the following sections:
 
-Preparation, 16A. (1) If the Committee is satisfied that a local etc of planning authority has failed to take steps to prepare a local plan by State local plan or proposals for the alteration, repeal or Director. replacement of a local plan, the Committee may direct the State Director to prepare the plan or proposals and the expenses incurred in connection with such preparations shall be payable by the local planning authority to the State Director.
+<!-- marginal: Preparation, -->
+
+16A. (1) If the Committee is satisfied that a local
+
+<!-- marginal: etc of -->
+
+planning authority has failed to take steps to prepare a
+
+<!-- marginal: local plan -->
+
+<!-- marginal: by State -->
+
+local plan or proposals for the alteration, repeal or
+
+<!-- marginal: Director. -->
+
+replacement of a local plan, the Committee may direct the State Director to prepare the plan or proposals and the expenses incurred in connection with such preparations shall be payable by the local planning authority to the State Director.
 
 (2) Sections 12, 13, 14, 15 and 16 shall apply in relation to the preparation of a local plan or the making of proposals for the alteration, repeal or replacement of a local plan under this section.
 
-Special 16B. (1) At any time during the preparation or upon area plan. the coming into effect of a structure plan or a local plan, a State Director or a local planning authority, on his or its own initiative or as directed by the Committee, may submit to the Committee a proposal for the designation of a special area for special and detailed treatment by development, redevelopment, improvement, conservation or management practice, or partly by one and partly by another method, of the whole or part of such special area, and the nature of the treatment proposed.
+<!-- marginal: Special -->
+
+16B. (1) At any time during the preparation or upon
+
+<!-- marginal: area plan. -->
+
+the coming into effect of a structure plan or a local plan, a State Director or a local planning authority, on his or its own initiative or as directed by the Committee, may submit to the Committee a proposal for the designation of a special area for special and detailed treatment by development, redevelopment, improvement, conservation or management practice, or partly by one and partly by another method, of the whole or part of such special area, and the nature of the treatment proposed.
 
 <!-- page 21 -->
 
@@ -546,7 +646,13 @@ Special 16B. (1) At any time during the preparation or upon area plan. the comin
 
 22. The principal Act is amended by inserting after section 20 the following section:
 
-"Duty to 20A. It shall be the duty of every Federal and State consult. Government department or agency to consult the Committee on any development activity that it proposes to carry out within the State.".
+<!-- marginal: "Duty to -->
+
+20A. It shall be the duty of every Federal and State
+
+<!-- marginal: consult. -->
+
+Government department or agency to consult the Committee on any development activity that it proposes to carry out within the State.".
 
 ### Amendment of section 21
 
@@ -612,11 +718,7 @@ the Committee shall request from the Council its advice on the application submi
 
 (ii) by inserting after paragraph (a) the following paragraph:
 
-"(aa) the development in respect of which the permission is applied
-
-<!-- marginal: for would -->
-
-contravene the provision of paragraph (2)(aa),"; and
+"(aa) the development in respect of which the permission is applied for would contravene the provision of paragraph (2)(aa),"; and
 
 (d) in paragraph (5)(f), by deleting the word "and" at the end of that paragraph.
 
@@ -730,11 +832,7 @@ This Bill seeks to amend the Town and Country Planning Act 1976 ("Act 172").
 
 7. Clause 9 seeks to amend subsection 5(2) of Act 172 to provide that the State Director of Town and Country Planning shall be the local planning authority in respect of any area in a State which does not form part of the area of any local authority.
 
-8. Clause 11 seeks to introduce new Parts I IA and I IB into Act 172. The new
-
-## Part I IA provides for the establishment and functions of a regional planning
-
-committee for a region which consists of an area situated in two or more States. The new Part IIB requires the Director General of Town and Country Planning to prepare a draft national physical plan and submit it for the approval of the National Physical Planning Council.
+8. Clause 11 seeks to introduce new Parts I IA and I IB into Act 172. The new Part I IA provides for the establishment and functions of a regional planning committee for a region which consists of an area situated in two or more States. The new Part IIB requires the Director General of Town and Country Planning to prepare a draft national physical plan and submit it for the approval of the National Physical Planning Council.
 
 9. Clauses 12,13,14 and 15 seek to amend sections 7, 8, 9 and 10 respectively of Act 172 to provide that the draft structure plan which is now prepared by individual local planning authorities for their respective areas shall now be prepared for the whole State by the State Director of Town and Country Planning. In addition to the matters required by the existing provisions of Act 172, the draft structure plan must contain matters which are specified by the National Physical Planning Council apart from those specified by the State Planning Committee, and must also contain measures for the improvement of the physical living environment, the improvement of communications, the management of traffic, the improvement of socio-economic well being and the promotion of economic growth, as well as measures for facilitating sustainable development. The amendments to section 10 of Act 172 also proposes that in considering whether to approve or reject a draft structure plan, the State Planning Committee must consult the National Physical Planning Council for its direction and advice. It is also proposed that the power of the State Authority under subsection 10(5) of Act 172 to decide on a draft structure plan if the State Planning Committee fails or neglects to approve or reject the plan within six months of its submission to the Committee be given to the Council.
 
@@ -804,7 +902,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ### Amendment of Article 8
 
-3. The Federal Constitution is amended in Article 8 in Clause (2) by substituting for the words "descent or place of birth" the words "descent, place of birth or gender".
+3. The Federal Constitution is amended in Article 8 in Clause
+
+(2) by substituting for the words "descent or place of birth" the words "descent, place of birth or gender".
 
 <!-- page 35 -->
 
@@ -830,15 +930,11 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ### Amendment of Article 65
 
-7. Article 65 of the Federal Constitution is amended in Clause
-
-(2) by substituting for the words "the age of fifty-five years" the words "the age of compulsory retirement for members of the general public service''.
+7. Article 65 of the Federal Constitution is amended in Clause (2) by substituting for the words "the age of fifty-five years" the words "the age of compulsory retirement for members of the general public service''.
 
 ### Amendment of Article 114
 
-8. Article 114 of the Federal Constitution is amended in Clause
-
-(1) by substituting for the word "three" the word "five".
+8. Article 114 of the Federal Constitution is amended in Clause (1) by substituting for the word "three" the word "five".
 
 ### Amendment of Article 119
 
@@ -928,9 +1024,7 @@ This Bill seeks to make several amendments to the Federal Constitution.
 
 7. Clause 8 of this Bill seeks to amend Clause (1) of Article 114 of the Federal Constitution to increase the number of members of the Election Commission. At present, the Commission consists of a chairman, a deputy chairman and three other members. With the proposed amendment the Commission will consist of a chairman, a deputy chairman and five other members.
 
-8. Clause 9 of this Bill seeks to add a new paragraph (c) to Clause ( 1) of Article 119 of the Federal Constitution to make it clear that a person must be registered as an elector in the constituency in which he resides on the qualifying date before he can vote in an election. Under the proposed Clause
-
-(1A). if the electoral roll for the constituency is published in the Gazette, the inclusion of a person in the electoral roll will be conclusive evidence that he or she is properly registered in the roll. Clause 9 also seeks to make changes to the definition of "qualifying date" in Clause (4) of Article 119 so that the qualifying date is no longer the date by reference to which the electoral rolls are prepared or revised but instead the date on which a person applies for registration or change of registration as an elector in a constituency.
+8. Clause 9 of this Bill seeks to add a new paragraph (c) to Clause ( 1) of Article 119 of the Federal Constitution to make it clear that a person must be registered as an elector in the constituency in which he resides on the qualifying date before he can vote in an election. Under the proposed Clause (1A). if the electoral roll for the constituency is published in the Gazette, the inclusion of a person in the electoral roll will be conclusive evidence that he or she is properly registered in the roll. Clause 9 also seeks to make changes to the definition of "qualifying date" in Clause (4) of Article 119 so that the qualifying date is no longer the date by reference to which the electoral rolls are prepared or revised but instead the date on which a person applies for registration or change of registration as an elector in a constituency.
 
 9. Subclaitse 10(1) of this Bill seeks to replace the title "Chief of the Armed Forces Staff, which appears in the list of the members of the Armed Forces Council in paragraph (3)(c) of Article 137 of the Federal Constitution, with the title "Chief of Defence Forces" as the latter is the title being used now. Sitbclause 10(2) of this Bill deals with references to the "Chief of the Armed Forces Staff in other written laws. Subclause 10(3) of this Bill seeks to validate any action that might have been taken using the title "Chief of Defence Forces" before the proposed amendment comes into operation.
 

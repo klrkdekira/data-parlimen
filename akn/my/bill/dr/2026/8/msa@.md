@@ -6,7 +6,7 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -16,7 +16,7 @@
 
 3. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## JAWATANKUASA MEMERANGI JENAYAH SIBER
 
@@ -30,7 +30,7 @@
 
 8. Jawatankuasa boleh menubuhkan jawatankuasa kecil
 
-## Bahagian III
+## BAHAGIAN III
 
 ## KESALAHAN YANG BERHUBUNGAN DENGAN KERAHSIAAN, INTEGRITI DAN
 
@@ -52,7 +52,7 @@
 
 15. Penyalahgunaan peranti
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## KESALAHAN YANG BERHUBUNGAN DENGAN PEMALSUAN BERKAITAN
 
@@ -62,7 +62,7 @@
 
 17. Fraud berkaitan komputer
 
-## Bahagian V
+## BAHAGIAN V
 
 ## KESALAHAN YANG BERHUBUNGAN DENGAN
 
@@ -74,7 +74,7 @@
 
 20. Memperoleh, dsb., maklumat pengesahan
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## KESALAHAN-KESALAHAN LAIN
 
@@ -88,7 +88,7 @@
 
 25. Kesalahan yang dilakukan yang menjejaskan atau melibatkan entiti infrastruktur maklumat kritikal negara atau infrastruktur maklumat kritikal negara
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PENGUATKUASAAN
 
@@ -142,7 +142,7 @@
 
 49. Bidang kuasa untuk membicarakan kesalahan
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## PELBAGAI
 
@@ -176,15 +176,11 @@
 
 bernama
 
-Suatu Akta untuk mencegah dan memerangi jenayah siber yang terdiri daripada kesalahan-kesalahan yang diperuntukkan di bawah
-
-## Bahagian III hingga VI Akta ini dan kesalahan-kesalahan yang
-
-diperuntukkan di bawah mana-mana undang-undang bertulis lain yang dilakukan dengan menggunakan sistem komputer, dan untuk mengadakan peruntukan bagi perkara yang berkaitan. [ ]
+Suatu Akta untuk mencegah dan memerangi jenayah siber yang terdiri daripada kesalahan-kesalahan yang diperuntukkan di bawah Bahagian III hingga VI Akta ini dan kesalahan-kesalahan yang diperuntukkan di bawah mana-mana undang-undang bertulis lain yang dilakukan dengan menggunakan sistem komputer, dan untuk mengadakan peruntukan bagi perkara yang berkaitan. [ ]
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -254,7 +250,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 “Suruhanjaya” ertinya Suruhanjaya Komunikasi dan Multimedia Malaysia yang ditubuhkan di bawah seksyen 4 Akta Suruhanjaya Komunikasi dan Multimedia Malaysia 1998 [Akta 589].
 
-## Bahagian II
+## BAHAGIAN II
 
 ## JAWATANKUASA MEMERANGI JENAYAH SIBER
 
@@ -364,7 +360,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (7) Pengerusi jawatankuasa kecil boleh membenarkan penggunaan suatu rangkaian video secara langsung, rangkaian televisyen secara langsung atau apa-apa cara komunikasi elektronik yang lain bagi maksud apa-apa mesyuarat jawatankuasa kecil.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## KESALAHAN YANG BERHUBUNGAN DENGAN KERAHSIAAN,
 
@@ -450,7 +446,7 @@ dengan niat supaya peranti termasuk program, kata laluan, maklumat pengesahan ak
 
 <!-- page 16 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## KESALAHAN YANG BERHUBUNGAN DENGAN PEMALSUAN
 
@@ -484,7 +480,7 @@ dengan niat supaya peranti termasuk program, kata laluan, maklumat pengesahan ak
 
 supaya menyebabkan kehilangan harta kepada seorang yang lain dengan niat fraud atau secara tidak jujur untuk mendapatkan tanpa kuasa faedah ekonomi untuk dirinya sendiri atau untuk seorang yang lain melakukan suatu kesalahan dan boleh, apabila disabitkan didenda tidak melebihi satu juta ringgit atau dipenjarakan selama tempoh tidak melebihi sepuluh tahun atau kedua-duanya.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## KESALAHAN YANG BERHUBUNGAN DENGAN
 
@@ -544,7 +540,7 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi 
 
 <!-- page 20 -->
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## KESALAHAN-KESALAHAN LAIN
 
@@ -598,7 +594,7 @@ objek, tempat, entiti atau acara yang sedia wujud yang secara palsunya kelihatan
 
 (2) Bagi maksud subseksyen (1), “entiti infrastruktur maklumat kritikal negara” dan “infrastruktur maklumat kritikal negara” mempunyai erti yang diberikan kepadanya di bawah Akta Keselamatan Siber 2024 [Akta 854].
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PENGUATKUASAAN
 
@@ -914,7 +910,7 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi 
 
 49. Walau apa pun mana-mana undang-undang bertulis yang bertentangan, Mahkamah Sesyen hendaklah mempunyai bidang kuasa untuk membicarakan mana-mana kesalahan di bawah Akta ini.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## PELBAGAI
 
@@ -1094,7 +1090,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk memansuhkan
 
 dan data komputer, kesalahan yang berhubungan dengan pemalsuan berkaitan komputer dan fraud berkaitan komputer, kesalahan yang berhubungan dengan perkhidmatan identiti digital negara dan kesalahan lain yang berkaitan dengan jenayah siber. Akta yang dicadangkan ini selanjutnya mengadakan peruntukan bagi kuasa penguatkuasaan, penubuhan suatu sistem maklumat bersepadu, kewajipan pemberi perkhidmatan serta peruntukan lain yang berkaitan.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I Akta yang dicadangkan memperkatakan tentang perkara permulaan.
 
@@ -1104,7 +1100,7 @@ dan data komputer, kesalahan yang berhubungan dengan pemalsuan berkaitan kompute
 
 5. Fasal 3 mengandungi takrif bagi perkataan dan ungkapan tertentu yang digunakan dalam Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 6. Bahagian II Akta yang dicadangkan memperkatakan tentang penubuhan Jawatankuasa Memerangi Jenayah Siber (“Jawatankuasa”).
 
@@ -1120,7 +1116,7 @@ dan data komputer, kesalahan yang berhubungan dengan pemalsuan berkaitan kompute
 
 <!-- page 49 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 12. Bahagian III Akta yang dicadangkan mengandungi peruntukan mengenai kesalahan-kesalahan yang berhubungan dengan kerahsiaan, integriti dan ketersediaan sistem komputer dan data komputer.
 
@@ -1142,7 +1138,7 @@ suatu sistem komputer atau penggunaan atau pengendalian secara sah sistem komput
 
 19. Fasal 15 bertujuan untuk mengadakan peruntukan bagi kesalahan dengan sengaja dan tanpa kuasa atau tanpa maksud yang sah memperoleh, mendapatkan untuk digunakan, menghasilkan, menjual, mengimport atau mengeksport, mengedar, menzahirkan atau selainnya menjadikan tersedia suatu peranti termasuk program, yang direka atau disesuaikan terutamanya bagi maksud melakukan apa-apa kesalahan di bawah Akta yang dicadangkan atau suatu kata laluan, maklumat pengesahan akses, tandatangan elektronik atau data komputer seumpamanya yang dengannya keseluruhan atau mana-mana bahagian suatu sistem komputer atau data komputer boleh diakses dengan niat supaya peranti termasuk program, kata laluan, maklumat pengesahan akses, tandatangan elektronik atau data komputer seumpamanya itu digunakan oleh dirinya sendiri atau mana-mana orang lain bagi maksud melakukan kesalahan di bawah Akta yang dicadangkan. Mana-mana orang yang melakukan suatu kesalahan di bawah fasal ini boleh, apabila disabitkan, didenda tidak melebihi lima ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tujuh tahun atau kedua-duanya. Fasal ini juga bertujuan untuk memperuntukan bahawa mana-mana orang yang ada dalam milikannya atau kawalannya apa-apa peranti atau kata laluan, maklumat pengesahan akses, tandatangan elektronik atau data komputer yang disebut dalam subfasal 15(1) Akta yang dicadangkan dengan niat supaya peranti atau kata laluan, maklumat pengesahan akses, tandatangan elektronik atau data komputer itu digunakan oleh dirinya sendiri atau oleh mana-mana orang lain bagi maksud melakukan apa-apa kesalahan di bawah Akta yang dicadangkan, melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi tiga ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya. Contoh situasi yang seseorang itu melakukan kesalahan di bawah fasal ini adalah apabila dia menghasilkan suatu program komputer dengan niat supaya program itu digunakan untuk mencipta laman sesawang yang palsu untuk memperoleh maklumat daripada orang awam yang mengakses laman sesawang yang palsu itu, memandangkan program itu boleh digunakan oleh seorang yang lain untuk melakukan fraud berkaitan komputer di bawah fasal 17. Seseorang yang mendapatkan untuk digunakan program komputer itu dengan niat untuk melakukan fraud berkaitan komputer juga melakukan kesalahan di bawah fasal ini.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 20. Bahagian IV Akta yang dicadangkan mengadakan peruntukan bagi kesalahan yang berhubungan dengan pemalsuan berkaitan komputer dan fraud berkaitan komputer.
 
@@ -1154,7 +1150,7 @@ tidak data komputer itu diniatkan untuk memperdayakan mana-mana orang yang terte
 
 22. Fasal 17 bertujuan untuk mengadakan peruntukan bagi kesalahan fraud berkaitan komputer, iaitu kesalahan dengan sengaja dan tanpa kuasa atau tanpa maksud yang sah memasukkan, mengubah, menghapuskan atau menyembunyikan apa-apa data komputer, mengganggu fungsi suatu sistem komputer atau membuat perdayaan tentang hal keadaan hakikat dengan menggunakan sistem komputer yang menyebabkan seseorang membuat atau meninggalkan daripada membuat apa-apa yang orang itu selainnya tidak akan membuat atau meninggalkan untuk membuat, supaya menyebabkan kehilangan harta kepada seorang yang lain dengan niat fraud atau secara tidak jujur untuk mendapatkan tanpa kuasa faedah ekonomi untuk dirinya sendiri atau untuk seorang yang lain. Mana-mana orang yang melakukan suatu kesalahan di bawah fasal ini boleh, apabila disabitkan, didenda tidak melebihi satu juta ringgit atau dipenjarakan selama tempoh tidak melebihi sepuluh tahun atau kedua-duanya.
 
-## Bahagian V
+## BAHAGIAN V
 
 23. Bahagian V Akta yang dicadangkan mengadakan peruntukan bagi kesalahan yang berhubungan dengan perkhidmatan identiti digital negara, iaitu perkhidmatan elektronik yang dimiliki oleh Kerajaan Persekutuan yang melaluinya identiti seseorang pengguna ditentusahkan dan disahkan.
 
@@ -1168,7 +1164,7 @@ di bawah fasal ini bahawa pengguna itu menzahirkan kata laluan perkhidmatan iden
 
 26. Fasal 20 bertujuan untuk mengadakan peruntukan bagi kesalahan memperoleh, menyimpan, membekal, menawar untuk membekal, menghantar atau selainnya menjadikan tersedia apa-apa maklumat pengesahan mana-mana pengguna bagi maksud melakukan atau memudahkan pelakuan, apa-apa kesalahan di bawah mana-mana undang-undang bertulis atau dengan mengetahui atau mempunyai sebab untuk mempercayai bahawa maklumat pengesahan itu akan digunakan, atau berkemungkinan akan digunakan, untuk melakukan, atau untuk memudahkan pelakuan, apa-apa kesalahan di bawah mana-mana undang-undang bertulis. Mana-mana orang yang melakukan suatu kesalahan di bawah fasal ini boleh, apabila disabitkan, didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya, dan bagi kesalahan kedua atau kesalahan berikutnya, didenda tidak melebihi tiga ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 27. Bahagian VI Akta yang dicadangkan mengadakan peruntukan bagi kesalahan lain yang berhubungan dengan jenayah siber seperti komunikasi salah, kecurian identiti, penghantaran kandungan yang dijana atau dimanipulasi dengan menggunakan sistem komputer dan penyebaran imej intim. Bahagian ini juga memperuntukkan bagi hukuman yang dinaikkan bagi kesalahan tertentu di bawah Akta yang dicadangkan yang menjejaskan atau melibatkan entiti infrastruktur maklumat kritikal negara atau infrastruktur maklumat kritikal negara.
 
@@ -1186,7 +1182,7 @@ di bawah fasal ini bahawa pengguna itu menzahirkan kata laluan perkhidmatan iden
 
 <!-- page 54 -->
 
-## Bahagian VII
+## BAHAGIAN VII
 
 33. Bahagian VII Akta yang dicadangkan memperkatakan tentang peruntukan penguatkuasaan.
 
@@ -1242,7 +1238,7 @@ di bawah fasal ini bahawa pengguna itu menzahirkan kata laluan perkhidmatan iden
 
 57. Fasal 49 bertujuan untuk mengadakan peruntukan bagi bidang kuasa Mahkamah Sesyen untuk membicarakan apa-apa kesalahan di bawah Akta yang dicadangkan walau apa pun mana-mana undang-undang bertulis yang bertentangan.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 58. Bahagian VIIl Akta yang dicadangkan memperkatakan tentang peruntukan pelbagai.
 

@@ -32,19 +32,31 @@ Act", is amended by inserting after section 8 the following
 
 (3) Any financing or financial assistance given by the Majlis under subsection (2) of section 7 to a company referred to in subsection (2) shall be deemed to have been lawfully given.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-3. Subsection 58 (2) of the principal Act is amended— of section 58.
+3. Subsection 58 (2) of the principal Act is amended—
+
+<!-- marginal: of section 58. -->
 
 (a) by substituting for the word "and" a comma; and
 
 (b) by inserting after the word "conduct" the words "or discontinue".
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. The principal Act is amended by substituting for section of section 59. 59 the following section:
+4. The principal Act is amended by substituting for section
 
-"Peguam 59. (1) Subject to subsection (2), the Majlis Syarie. may admit any person having sufficient knowledge of Islamic Law to be Peguam Syarie to represent parties in any proceedings before the Syariah Court.
+<!-- marginal: of section 59. -->
+
+59 the following section:
+
+<!-- marginal: "Peguam -->
+
+59. (1) Subject to subsection (2), the Majlis
+
+<!-- marginal: Syarie. -->
+
+may admit any person having sufficient knowledge of Islamic Law to be Peguam Syarie to represent parties in any proceedings before the Syariah Court.
 
 (2) The Majlis may, with the approval of the Yang di-Pertuan Agong, make rules—
 
@@ -52,7 +64,11 @@ Amendment
 
 (b) to regulate, control and supervise the conduct of Peguam Syarie.
 
-(3) Notwithstanding subsection(l), the Majlis may exempt any member of the Judicial and Legal Service of the Federation or any person Act 26. appointed under section 3 of the Legal Aid Act 1971 from the provisions of this section.
+(3) Notwithstanding subsection(l), the Majlis may exempt any member of the Judicial and Legal Service of the Federation or any person
+
+<!-- marginal: Act 26. -->
+
+appointed under section 3 of the Legal Aid Act 1971 from the provisions of this section.
 
 (4) Notwithstanding anything contained in any other written law, no person other than a Peguam Syarie or a person exempted under subsection (3), shall be entitled to appear in any Syariah Court on behalf of any party to any proceedings before it.".
 

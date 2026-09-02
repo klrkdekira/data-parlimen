@@ -38,7 +38,7 @@ seksyen 2—
 
 <!-- page 2 -->
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
 3. Akta ibu adalah dipinda dengan memasukkan selepas
 
@@ -52,7 +52,7 @@ atas majikan pengilangan yang mempunyai sepuluh tetapi yang di- tidak lebih dari
 
 (2) Sekiranya berlaku apa-apa keingkaran dalam pembayaran mana-mana levi yang kena dibayar di bawah subseksyen (1), peruntukan subseksyen 3(3) dan (4) hendaklah terpakai.".
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
 4. Akta ibu adalah dipinda dengan memasukkan selepas
 
@@ -78,11 +78,7 @@ Dengan syarat bahawa—
 
 (b) dengan menggantikan subseksyen (2) dengan subseksyen yang berikut:
 
-"(2) Jika seseorang majikan
-
-<!-- marginal: telah -->
-
-memperolehi kepentingan seorang majikan lain yang didaftarkan di bawah seksyen 4, majikan yang mula-mula disebut itu adalah digantikan dengan majikan yang lain itu dan adalah layak untuk menerima atau terus menerima apa-apa bantuan kewangan atau faedah lain yang diadakan di bawah Akta ini, mengikut mana-mana yang berkenaan."; dan
+"(2) Jika seseorang majikan telah memperolehi kepentingan seorang majikan lain yang didaftarkan di bawah seksyen 4, majikan yang mula-mula disebut itu adalah digantikan dengan majikan yang lain itu dan adalah layak untuk menerima atau terus menerima apa-apa bantuan kewangan atau faedah lain yang diadakan di bawah Akta ini, mengikut mana-mana yang berkenaan."; dan
 
 (c) dalam subseksyen (3) dengan menggantikan perkataan "adalah dibuat" dengan perkataan "dan faedah atas levi itu telah dibayar sepenuhnya".
 

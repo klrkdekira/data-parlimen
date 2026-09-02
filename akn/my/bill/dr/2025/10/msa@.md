@@ -10,13 +10,13 @@ Karbon
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Pemakaian 3. Akta hendaklah dibaca bersama dengan undang-undang bertulis yang berkaitan 4. Tafsiran 5. Amalan pemerangkapan, penggunaan dan penyimpanan karbon yang berhemat
 
-## Bahagian II
+## BAHAGIAN II
 
 ## AGENSI PEMERANGKAPAN, PENGGUNAAN DAN PENYIMPANAN
 
@@ -36,7 +36,7 @@ Karbon
 
 <!-- page 2 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PEMERANGKAPAN KARBON
 
@@ -44,7 +44,7 @@ Karbon
 
 16. Permohonan bagi pendaftaran pepasangan pemerangkapan karbon
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PENGANGKUTAN DAN PENGIMPORTAN KARBON DIOKSIDA
 
@@ -56,7 +56,7 @@ Karbon
 
 20. Permit import karbon dioksida yang diperangkap di luar Malaysia
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PENGGUNAAN KARBON DIOKSIDA
 
@@ -66,7 +66,7 @@ Karbon
 
 23. Larangan bagi penggunaan karbon dioksida yang diperangkap di luar Malaysia
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PENILAIAN DAN PENYIMPANAN KEKAL DI KAWASAN LUAR PESISIR
 
@@ -92,7 +92,7 @@ Karbon
 
 Karbon
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PENILAIAN DAN PENYIMPANAN KEKAL DI KAWASAN DARATAN
 
@@ -112,7 +112,7 @@ Karbon
 
 40. Pemindahan obligasi berhubung dengan penyimpanan daratan
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## KUMPULAN WANG PENGAWASAN PASCA-PENUTUPAN
 
@@ -124,7 +124,7 @@ Karbon
 
 44. Akaun dan laporan
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## PENGUATKUASAAN
 
@@ -132,7 +132,7 @@ Karbon
 
 46. Kuasa penguatkuasaan
 
-## Bahagian X
+## BAHAGIAN X
 
 ## PERUNTUKAN AM
 
@@ -170,7 +170,7 @@ DAN BAHAWASANYA Perjanjian Paris telah dibuat di Paris pada 12 Disember 2015, ya
 
 Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -284,7 +284,7 @@ Karbon
 
 (c) apa-apa standard yang dikeluarkan oleh mana-mana badan yang diiktiraf di peringkat kebangsaan atau antarabangsa.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## AGENSI PEMERANGKAPAN, PENGGUNAAN DAN
 
@@ -444,7 +444,7 @@ Karbon
 
 (5) Tiada apa-apa jua dalam subseksyen (1) boleh ditafsirkan sebagai memberikan kuasa kepada Menteri untuk melantik suatu entiti teknikal kompeten bagi apa-apa maksud selain daripada maksud yang dinyatakan dalam subseksyen (1).
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PEMERANGKAPAN KARBON
 
@@ -460,7 +460,7 @@ Karbon
 
 16. Suatu permohonan bagi pendaftaran di bawah seksyen 15 hendaklah dibuat kepada Agensi dalam cara dan disertai dengan maklumat, butir-butir atau dokumen sebagaimana yang ditetapkan.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PENGANGKUTAN DAN PENGIMPORTAN KARBON DIOKSIDA
 
@@ -504,7 +504,7 @@ pengangkutan itu, berdaftar dengan Agensi di bawah Akta ini dan hendaklah mematu
 
 (4) Mana-mana orang yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu juta ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PENGGUNAAN KARBON DIOKSIDA
 
@@ -532,7 +532,7 @@ Karbon
 
 (2) Mana-mana orang yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu juta ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PENILAIAN DAN PENYIMPANAN KEKAL
 
@@ -672,7 +672,7 @@ sehingga obligasi berhubung dengan tapak penyimpanan itu dipindahkan kepada Kera
 
 (3) Bagi mengelakkan keraguan, pemindahan obligasi kepada Kerajaan yang disebut dalam subseksyen (1) tidak termasuk pemindahan apa-apa liabiliti undang-undang jenayah, kontrak atau sivil yang berkaitan dengan tapak penyimpanan itu yang disebabkan oleh kesalahan, kecuaian atau penipuan pengendali luar pesisir, atau kegagalan pengendali luar pesisir itu untuk menjalankan apa-apa usaha wajar.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PENILAIAN DAN PENYIMPANAN KEKAL
 
@@ -748,7 +748,7 @@ Karbon
 
 40. Sebelum penutupan suatu tapak penyimpanan di kawasan daratan menurut seksyen 39, apa-apa pemindahan obligasi yang berhubungan dengan pemantauan, langkah pembetulan dan langkah pemulihan tapak penyimpanan di kawasan daratan hendaklah ditentukan oleh Menteri, selepas berunding dengan Kerajaan Negeri, mengikut mana-mana yang berkenaan.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## KUMPULAN WANG PENGAWASAN PASCA-PENUTUPAN
 
@@ -800,7 +800,7 @@ Karbon
 
 <!-- page 30 -->
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## PENGUATKUASAAN
 
@@ -814,7 +814,7 @@ Karbon
 
 (2) Seorang pegawai yang diberi kuasa di bawah seksyen 45 hendaklah mempunyai kuasa seorang pegawai polis yang apa jua pun pangkatnya sebagaimana yang diperuntukkan di bawah Kanun Tatacara Jenayah [Akta 593] berhubung dengan penyiasatan apa-apa kesalahan di bawah Akta ini, dan kuasa itu hendaklah sebagai tambahan dan bukan pengurangan bagi, kuasa yang diperuntukkan di bawah Akta ini.
 
-## Bahagian X
+## BAHAGIAN X
 
 ## PERUNTUKAN AM
 
@@ -926,7 +926,7 @@ Karbon
 
 Rang Undang-Undang Pemerangkapan, Penggunaan dan Penyimpanan Karbon (“Akta yang dicadangkan”) bertujuan untuk mengadakan peruntukan untuk perkara yang berkaitan dengan pemerangkapan, pengangkutan, penggunaan dan penyimpanan kekal karbon dioksida dan mengurangkan kesan perubahan iklim, memangkinkan pembangunan industri pemerangkapan, penggunaan dan penyimpanan karbon sebagai suatu sumber baharu bagi pertumbuhan ekonomi dan bagi mengadakan peruntukan bagi perkara lain yang berhubungan dengannya.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I Akta yang dicadangkan memperkatakan mengenai perkara permulaan.
 
@@ -940,7 +940,7 @@ Rang Undang-Undang Pemerangkapan, Penggunaan dan Penyimpanan Karbon (“Akta yan
 
 7. Fasal 5 bertujuan untuk memperuntukkan bahawa amalan pemerangkapan, penggunaan dan penyimpanan karbon yang berhemah hendaklah mengikut apa-apa amalan, kaedah, langkah dan standard yang secara amnya diikuti oleh industri pemerangkapan, penggunaan dan penyimpanan karbon global.
 
-## Bahagian II
+## BAHAGIAN II
 
 8. Bahagian II Akta yang dicadangkan memperkatakan tentang peruntukan yang berhubungan dengan Agensi Pemerangkapan, Penggunaan dan Penyimpanan Karbon Malaysia.
 
@@ -960,13 +960,13 @@ Rang Undang-Undang Pemerangkapan, Penggunaan dan Penyimpanan Karbon (“Akta yan
 
 15. Fasal 14 bertujuan untuk memperuntukkan bahawa Menteri boleh melantik suatu entiti teknikal kompeten yang berasingan untuk menasihati Agensi tentang pemerangkapan karbon, pengangkutan karbon dioksida, penggunaan karbon dioksida, penyimpanan luar pesisir karbon dioksida dan penyimpanan daratan karbon dioksida. Fasal ini juga memperuntukkan bahawa entiti teknikal kompeten yang dilantik hendaklah menasihati Agensi tentang apa-apa perkara teknikal dan pengoperasian.
 
-## Bahagian III
+## BAHAGIAN III
 
 16. Bahagian III Akta yang dicadangkan memperkatakan tentang pemerangkapan karbon.
 
 17. Fasal 15 dan 16 bertujuan untuk mengadakan peruntukan bagi pendaftaran dan permohonan pendaftaran pepasangan pemerangkapan karbon.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 18. Bahagian IV Akta yang dicadangkan memperkatakan tentang pengangkutan dan pengimportan karbon dioksida.
 
@@ -980,7 +980,7 @@ Rang Undang-Undang Pemerangkapan, Penggunaan dan Penyimpanan Karbon (“Akta yan
 
 Karbon
 
-## Bahagian V
+## BAHAGIAN V
 
 22. Bahagian V Akta yang dicadangkan memperkatakan tentang penggunaan karbon dioksida.
 
@@ -988,7 +988,7 @@ Karbon
 
 24. Fasal 23 bertujuan untuk mengadakan peruntukan bagi larangan untuk menggunakan karbon dioksida yang diperangkap di luar Malaysia bagi maksud penyimpanan kekal di Malaysia.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 25. Bahagian VI Akta yang dicadangkan memperkatakan peruntukan tentang yang berhubungan dengan penilaian dan penyimpanan kekal karbon dioksida di kawasan luar pesisir.
 
@@ -1012,7 +1012,7 @@ Karbon
 
 34. Fasal 32 bertujuan untuk memperuntukkan bahawa suatu tapak penyimpanan telah ditutup menurut fasal 31, obligasi yang berhubungan dengan pemantauan, langkah pembetulan dan langkah pemulihan tapak penyimpanan itu hendaklah dipindahkan kepada Kerajaan dan Kerajaan hendaklah mengeluarkan suatu sijil kepada pengendali luar pesisir untuk mendokumenkan pemindahan obligasi itu.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 35. Bahagian VII Akta yang dicadangkan memperkatakan tentang peruntukan yang berhubungan dengan penilaian dan penyimpanan kekal karbon dioksida di kawasan daratan.
 
@@ -1038,7 +1038,7 @@ daratan yang diberikan oleh Agensi. Pemberian permit tertakluk kepada fi yang di
 
 43. Fasal 40 bertujuan untuk memperuntukkan bahawa pemindahan obligasi yang berhubungan dengan pemantauan, langkah pembetulan dan langkah pemulihan tapak penyimpanan di kawasan daratan yang ditutup menurut fasal 39, hendaklah ditentukan oleh Menteri, selepas berunding dengan Kerajaan Negeri, mengikut mana-mana yang berkenaan.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 44. Bahagian VIII Akta yang dicadangkan memperkatakan tentang peruntukan yang berhubungan dengan Kumpulan Wang Pengawasan Pasca-Penutupan.
 
@@ -1052,7 +1052,7 @@ daratan yang diberikan oleh Agensi. Pemberian permit tertakluk kepada fi yang di
 
 48. Fasal 44 bertujuan untuk mengenakan tanggungjawab ke atas Agensi untuk menyimpan akaun yang sepatutnya bagi Kumpulan Wang itu dan keperluan untuk mengemukakan suatu salinan penyata akaun yang disahkan oleh juruaudit kepada Menteri, dan Menteri hendaklah membentangkan penyataan itu di hadapan setiap Majlis Parlimen.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 49. Bahagian IX Akta yang dicadangkan memperkatakan tentang peruntukan yang berhubungan dengan penguatkuasaan.
 
@@ -1060,7 +1060,7 @@ daratan yang diberikan oleh Agensi. Pemberian permit tertakluk kepada fi yang di
 
 51. Fasal 46 bertujuan untuk memperuntukkan bahawa seorang pegawai polis yang pangkatnya tidak rendah daripada Inspektor atau seorang pegawai kanan kastam boleh menjalankan semua kuasa penguatkuasaan di bawah Akta yang dicadangkan ini.
 
-## Bahagian X
+## BAHAGIAN X
 
 52. Bahagian X Akta yang dicadangkan memperkatakan peruntukan am.
 

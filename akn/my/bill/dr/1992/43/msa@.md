@@ -44,11 +44,7 @@ Naskhah Sahih—Bahasa Malaysia
 
 ## PERMULAAN
 
-1. Tajuk ringkas, pemakaian dan mula berkuatkuasa.
-
-2. Tafsiran.
-
-3. Kecualian prerogatif.
+1. Tajuk ringkas, pemakaian dan mula berkuatkuasa. 2. Tafsiran. 3. Kecualian prerogatif.
 
 ## BAHAGIAN
 
@@ -56,17 +52,7 @@ II
 
 ## MAJLIS AGAMA ISLAM WILAYAH PERSEKUTUAN
 
-4. Penubuhan Majlis.
-
-5. Identiti di sisi undang-undang dan kuasa-kuasa Majlis.
-
-6. Jawatankuasa-jawatankuasa.
-
-7. Kewajipan Majlis bagi kemajuan sosio-ekonomi orang- orang Islam.
-
-8. Kuasa untuk menubuhkan perbadanan-perbadanan.
-
-9. Kuasa-kuasa meminjam.
+4. Penubuhan Majlis. 5. Identiti di sisi undang-undang dan kuasa-kuasa Majlis. 6. Jawatankuasa-jawatankuasa. 7. Kewajipan Majlis bagi kemajuan sosio-ekonomi orang- orang Islam. 8. Kuasa untuk menubuhkan perbadanan-perbadanan. 9. Kuasa-kuasa meminjam.
 
 10. Keahlian Majlis.
 
@@ -90,7 +76,29 @@ II
 
 <!-- page 3 -->
 
-20. Kuasa-kuasa Pengerusi. 21. Tugas-tugas dan kuasa-kuasa Setiausaha. 22. Minit. 23. Aturan urusan dan pengundian. 24. Salinan-salinan diperakui akan ketetapan-ketetapan. 25. Cuti. 26. Bertindak dalam hal tergempar. 27. Pewakilan kewajipan-kewajipan dan kuasa-kuasa. 28. Kerahsiaan. 29. Pengkhidmat awam. 30. Majlis boleh menentukan prosedurnya sendiri. 31. Kuasa Majlis.
+20. Kuasa-kuasa Pengerusi.
+
+21. Tugas-tugas dan kuasa-kuasa Setiausaha.
+
+22. Minit.
+
+23. Aturan urusan dan pengundian.
+
+24. Salinan-salinan diperakui akan ketetapan-ketetapan.
+
+25. Cuti.
+
+26. Bertindak dalam hal tergempar.
+
+27. Pewakilan kewajipan-kewajipan dan kuasa-kuasa.
+
+28. Kerahsiaan.
+
+29. Pengkhidmat awam.
+
+30. Majlis boleh menentukan prosedurnya sendiri.
+
+31. Kuasa Majlis.
 
 ## BAHAGIAN
 
@@ -100,7 +108,21 @@ III
 
 ## DAN JAWATANKUASA PERUNDINGAN HUKUM SYARAK
 
-32. Perlantikan Mufti dan Timbalan Mufti. 33. Kuasa Mufti. 34. Fatwa. 35. Bentuk fatwa. 36. Pindaan, ubahsuaian atau pembatalan fatwa. 37. Jawatankuasa Perundingan Hukum Syarak. 38. Permintaan bagi pendapat daripada Mufti. 39. Nas-nas yang hendaklah diikuti.
+32. Perlantikan Mufti dan Timbalan Mufti.
+
+33. Kuasa Mufti.
+
+34. Fatwa.
+
+35. Bentuk fatwa.
+
+36. Pindaan, ubahsuaian atau pembatalan fatwa.
+
+37. Jawatankuasa Perundingan Hukum Syarak.
+
+38. Permintaan bagi pendapat daripada Mufti.
+
+39. Nas-nas yang hendaklah diikuti.
 
 ## BAHAGIAN
 
@@ -108,19 +130,53 @@ IV
 
 ## MAHKAMAH SYARIAH
 
-40. Penubuhan Mahkamah Syariah. 41. Perlantikan Ketua Hakim Syarie. 42. Perlantikan Hakim-Hakim Mahkamah Rayuan Syariah. 43. Perlantikan Hakim-Hakim Mahkamah Tinggi Syariah. 44. Perlantikan Hakim Mahkamah Rendah Syariah. 45. Pendaftar-Pendaftar. 46. Bidang kuasa Mahkamah Tinggi Syariah. 47. Bidang kuasa Mahkamah Rendah Syariah. 48. Rayuan ke Mahkamah Tinggi Syariah. 49. Permohonan untuk kebenaran merayu. 50. Perakuan-perakuan pewarisan.
+40. Penubuhan Mahkamah Syariah.
+
+41. Perlantikan Ketua Hakim Syarie.
+
+42. Perlantikan Hakim-Hakim Mahkamah Rayuan Syariah.
+
+43. Perlantikan Hakim-Hakim Mahkamah Tinggi Syariah.
+
+44. Perlantikan Hakim Mahkamah Rendah Syariah.
+
+45. Pendaftar-Pendaftar.
+
+46. Bidang kuasa Mahkamah Tinggi Syariah.
+
+47. Bidang kuasa Mahkamah Rendah Syariah.
+
+48. Rayuan ke Mahkamah Tinggi Syariah.
+
+49. Permohonan untuk kebenaran merayu.
+
+50. Perakuan-perakuan pewarisan.
 
 <!-- page 4 -->
 
 ## (WILAYAH-WILAYAH PERSEKUTUAN)
 
-51. Bidang kuasa pengawasan dan penyemakan Mahkamah Tinggi Syariah. 52. Bidang kuasa Mahkamah Rayuan Syariah. 53. Bidang kuasa pengawasan dan penyemakan Mahkamah Rayuan Syariah. 54. Keanggotaan Mahkamah Rayuan Syariah. 55. Keputusan dengan majoriti. 56. Penerusan prosiding dalam Mahkamah Rayuan Syariah walaupun Hakim tiada. 57. Kaedah-kaedah rayuan.
+51. Bidang kuasa pengawasan dan penyemakan Mahkamah Tinggi Syariah.
+
+52. Bidang kuasa Mahkamah Rayuan Syariah.
+
+53. Bidang kuasa pengawasan dan penyemakan Mahkamah Rayuan Syariah.
+
+54. Keanggotaan Mahkamah Rayuan Syariah.
+
+55. Keputusan dengan majoriti.
+
+56. Penerusan prosiding dalam Mahkamah Rayuan Syariah walaupun Hakim tiada.
+
+57. Kaedah-kaedah rayuan.
 
 ## BAHAGIAN V
 
 ## PENDAKWAAN DAN PERWAKILAN
 
-58. Perlantikan Pendakwa-Pendakwa Syarie dan Pegawai- Pegawai Penguatkuasa Agama. 59. Peguam Syarie.
+58. Perlantikan Pendakwa-Pendakwa Syarie dan Pegawai- Pegawai Penguatkuasa Agama.
+
+59. Peguam Syarie.
 
 ## BAHAGIAN VI
 
@@ -128,7 +184,27 @@ IV
 
 Amanah Khairat
 
-60. Penubuhan Baitulmal. 61. Wakaf dan nazr. 62. Perletakhakan. 63. Sekatan-sekatan ke atas perwujudan amanah khairat. 64. Pendapatan daripada wakaf dan nazr. 65. Modal wakaf dan nazr 'am. 66. Pengertian suratcara. 67. Akaun dan laporan tahunan. 68. Harta wakaf dan nazr. 69. Anggaran-anggaran. 70. Perbelanjaan Majlis. 71. Jurubank.
+60. Penubuhan Baitulmal.
+
+61. Wakaf dan nazr.
+
+62. Perletakhakan.
+
+63. Sekatan-sekatan ke atas perwujudan amanah khairat.
+
+64. Pendapatan daripada wakaf dan nazr.
+
+65. Modal wakaf dan nazr 'am.
+
+66. Pengertian suratcara.
+
+67. Akaun dan laporan tahunan.
+
+68. Harta wakaf dan nazr.
+
+69. Anggaran-anggaran. 70. Perbelanjaan Majlis.
+
+71. Jurubank.
 
 ## BAHAGIAN VII
 
@@ -138,7 +214,27 @@ Amanah Khairat
 
 <!-- page 5 -->
 
-73. Sekatan ke atas penubuhan masjid. 74. Penyenggaraan masjid dan kawasannya. 75. Sempadan kariah masjid. 76. Perlantikan Pegawai Masjid. 77. Tauliah. 78. Tempoh jawatan Pegawai Masjid. 79. Kawalan dan arahan ke atas Pegawai Masjid. 80. Penghapusan jawatan Nazir. 81. Jawatankuasa kariah. 82. Pengecualian. 83. Kuasa meminda Jadual Ketiga.
+73. Sekatan ke atas penubuhan masjid.
+
+74. Penyenggaraan masjid dan kawasannya.
+
+75. Sempadan kariah masjid.
+
+76. Perlantikan Pegawai Masjid.
+
+77. Tauliah.
+
+78. Tempoh jawatan Pegawai Masjid.
+
+79. Kawalan dan arahan ke atas Pegawai Masjid.
+
+80. Penghapusan jawatan Nazir.
+
+81. Jawatankuasa kariah.
+
+82. Pengecualian.
+
+83. Kuasa meminda Jadual Ketiga.
 
 ## BAHAGIAN VIII
 
@@ -152,13 +248,35 @@ IX
 
 ## MASUK ISLAM
 
-85. Kehendak-kehendak bagi kemasukan Islam. 86. Saat masuk Islam. 87. Tugas-tugas dan kewajipan-kewajipan seseorang muallaf. 88. Pendaftar dan Daftar Muallaf. 89. Pendaftaran muallaf. 90. Perakuan Masuk Islam. 91. Pengiktirafan muallaf sebagai orang Islam. 92. Menentukan sama ada orang yang tak didaftarkan ialah seorang muallaf. 93. Kesalahan memberi maklumat palsu. 94. Kuasa membuat kaedah-kaedah.
+85. Kehendak-kehendak bagi kemasukan Islam.
+
+86. Saat masuk Islam.
+
+87. Tugas-tugas dan kewajipan-kewajipan seseorang muallaf.
+
+88. Pendaftar dan Daftar Muallaf.
+
+89. Pendaftaran muallaf.
+
+90. Perakuan Masuk Islam.
+
+91. Pengiktirafan muallaf sebagai orang Islam.
+
+92. Menentukan sama ada orang yang tak didaftarkan ialah seorang muallaf.
+
+93. Kesalahan memberi maklumat palsu.
+
+94. Kuasa membuat kaedah-kaedah.
 
 ## BAHAGIAN X
 
 ## PENDIDIKAN AGAMA
 
-95. Jawatankuasa Pengawasan Pengajaran Agama. 96. Sekolah Agama. 97. Pengecualian.
+95. Jawatankuasa Pengawasan Pengajaran Agama.
+
+96. Sekolah Agama.
+
+97. Pengecualian.
 
 <!-- page 6 -->
 
@@ -218,13 +336,53 @@ Kuala Lumpur dan Labuan.
 
 <!-- page 9 -->
 
-En Sel.3/52. "Enakmen" ertinya Enakmen Pentadbiran Hukum Syarak 1952 bagi Negeri Selangor—
+<!-- marginal: En Sel.3/52. -->
 
-(a) berhubungan dengan Wilayah Persekutuan Kuala Lumpur, sebagaimana yang diubah- suaikan oleh Perintah-Perintah Wilayah P.U
+"Enakmen" ertinya Enakmen Pentadbiran Hukum Syarak 1952 bagi Negeri Selangor—
 
-(A) Persekutuan (Pengubahsuaian Enakmen 44174. Pentadbiran Hukum Syarak) 1974, 1981 dan P.U. (A) 1988 yang dibuat menurut seksyen 6(4) Akta 390/81. P.U.(A) Perlembagaan (Pindaan) (No. 2) 1973 dan 163188. berkuatkuasa di dalam Wilayah Persekutuan P.U. (A) 263/88 Kuala Lumpur menurut kuasa seksyen 6(1) Akta Akta A206 itu; dan
+(a) berhubungan dengan Wilayah Persekutuan Kuala Lumpur, sebagaimana yang diubah- suaikan oleh Perintah-Perintah Wilayah
 
-(b) berhubungan dengan Wilayah Persekutuan Labuan, sebagaimana yang diubahsuaikan dan diperluaskan melalui Perintah Wilayah Persekutuan Labuan (Pengubahsuaian dan P.U. (A) 352/85. Perluasan Enakmen Pentadbiran Hukum Syarak) 1985 yang dibuat menurut seksyen 7 Akta Perlembagaan (Pindaan) (No. 2) 1984; AktaA585,
+<!-- marginal: P.U -->
+
+(A) Persekutuan (Pengubahsuaian Enakmen
+
+<!-- marginal: 44174. -->
+
+Pentadbiran Hukum Syarak) 1974, 1981 dan
+
+<!-- marginal: P.U. (A) -->
+
+1988 yang dibuat menurut seksyen 6(4) Akta
+
+<!-- marginal: 390/81. -->
+
+<!-- marginal: P.U.(A) -->
+
+Perlembagaan (Pindaan) (No. 2) 1973 dan
+
+<!-- marginal: 163188. -->
+
+berkuatkuasa di dalam Wilayah Persekutuan
+
+<!-- marginal: P.U. (A) -->
+
+<!-- marginal: 263/88 -->
+
+Kuala Lumpur menurut kuasa seksyen 6(1) Akta
+
+<!-- marginal: Akta A206 -->
+
+itu; dan
+
+(b) berhubungan dengan Wilayah Persekutuan Labuan, sebagaimana yang diubahsuaikan dan diperluaskan melalui Perintah Wilayah Persekutuan Labuan (Pengubahsuaian dan
+
+<!-- marginal: P.U. (A) -->
+
+<!-- marginal: 352/85. -->
+
+Perluasan Enakmen Pentadbiran Hukum Syarak) 1985 yang dibuat menurut seksyen 7 Akta Perlembagaan (Pindaan) (No. 2) 1984;
+
+<!-- marginal: AktaA585, -->
 
 "Hakim Syarie" atau "Hakim" ertinya Hakim-Hakim Mahkamah Tinggi Syariah yang dilantik di bawah seksyen 43(1) tetapi tidak termasuk Hakim Mahkamah Rendah Syariah yang dilantik di bawah seksyen 44(1);
 
@@ -332,11 +490,33 @@ II
 
 ## MAJLIS AGAMA ISLAM WILAYAH PERSEKUTUAN
 
-Penubuhan 4. (1) Maka hendaklah ada suatu badan yang dikenali Majlis. sebagai "Majlis Agama Islam Wilayah Persekutuan", untuk menasihati Yang di-Pertuan Agong dalam perkara-perkara yang berhubungan dengan agama Islam.
+<!-- marginal: Penubuhan -->
+
+4. (1) Maka hendaklah ada suatu badan yang dikenali
+
+<!-- marginal: Majlis. -->
+
+sebagai "Majlis Agama Islam Wilayah Persekutuan", untuk menasihati Yang di-Pertuan Agong dalam perkara-perkara yang berhubungan dengan agama Islam.
 
 (2) Apabila mula berkuatkuasanya seksyen ini, "Majlis Agama Islam Wilayah Persekutuan" yang wujud menurut kuasa seksyen 5 Enakmen hendaklah disifatkan sebagai Majlis yang disebut di dalam subseksyen (1).
 
-Identiti di sisi 5. (1) Majlis hendaklah menjadi suatu pertubuhan undang- perbadanan yang kekal turun-temurun dan mempunyai undang dan kuasa-kuasa suatu meterai perbadanan, dan meterai tersebut boleh Majlis. dari semasa ke semasa dipecahkan, ditukar, diubah dan dibuat baharu sebagaimana yang difikirkan patut oleh Majlis, dan, sehingga suatu meterai diadakan di bawah seksyen ini, suatu cap yang mengandungi tulisan "Majlis Agama Islam Wilayah Persekutuan" bolehlah digunakan sebagai meterai perbadanan.
+<!-- marginal: Identiti di sisi -->
+
+5. (1) Majlis hendaklah menjadi suatu pertubuhan
+
+<!-- marginal: undang- -->
+
+perbadanan yang kekal turun-temurun dan mempunyai
+
+<!-- marginal: undang dan -->
+
+<!-- marginal: kuasa-kuasa -->
+
+suatu meterai perbadanan, dan meterai tersebut boleh
+
+<!-- marginal: Majlis. -->
+
+dari semasa ke semasa dipecahkan, ditukar, diubah dan dibuat baharu sebagaimana yang difikirkan patut oleh Majlis, dan, sehingga suatu meterai diadakan di bawah seksyen ini, suatu cap yang mengandungi tulisan "Majlis Agama Islam Wilayah Persekutuan" bolehlah digunakan sebagai meterai perbadanan.
 
 (2) Majlis boleh mendakwa dan didakwa dengan nama perbadanannya.
 
@@ -396,19 +576,33 @@ termasuklah membuat, memasang, memproses, membungkus, menggred dan memasarkan ke
 
 (c) untuk menjalankan apa-apa kegiatan sedemikian bersama dengan badan-badan atau orang-orang lain, termasuklah jabatan-jabatan atau pihak- pihak berkuasa Kerajaan Persekutuan, atau sebagai ejen pengurus atau selainnya bagi pihak Kerajaan Persekutuan;
 
-(d) untuk melabur dalam apa-apa pelaburan yang dibenarkan sebagaimana yang ditakrifkan oleh Akta 208. Akta Pemegang Amanah 1949, dan melupuskan pelaburan itu atas apa-apa terma dan syarat yang ditentukan oleh Majlis;
+(d) untuk melabur dalam apa-apa pelaburan yang dibenarkan sebagaimana yang ditakrifkan oleh
 
-(e) tertakluk kepada kelulusan Menteri Kewangan, untuk menubuhkan apa-apa
+<!-- marginal: Akta 208. -->
 
-<!-- marginal: skim bagi -->
+Akta Pemegang Amanah 1949, dan melupuskan pelaburan itu atas apa-apa terma dan syarat yang ditentukan oleh Majlis;
 
-pemberian pinjaman daripada Kumpulan Wang kepada individu Muslim bagi pembelajaran tinggi;
+(e) tertakluk kepada kelulusan Menteri Kewangan, untuk menubuhkan apa-apa skim bagi pemberian pinjaman daripada Kumpulan Wang kepada individu Muslim bagi pembelajaran tinggi;
 
 (f) untuk menubuhkan dan menyenggarakan sekolah-sekolah Islam, institusi-institusi latihan dan penyelidikan; dan
 
 (g) untuk melakukan segala perbuatan yang difikirkan oleh Majlis dikehendaki atau suai- manfaat.
 
-Kuasa untuk 8. (1) Majlis boleh, dengan kelulusan Yang di-Pertuan menubuhkan Agong, dari semasa ke semasa melalui perintah yang perbadanan- disiarkan dalam Warta menubuhkan sesuatu perbadanan perbadanan dengan apa-apa nama sebagaimana yang difikirkan patut oleh Majlis untuk menjalankan dan menjaga, mengelola, dan menguruskan apa-apa projek skim, atau perusahaan yang telah dirancang atau diusahakan oleh Majlis dalam melaksanakan kewajipan atau kuasa-kuasanya di bawah seksyen 7.
+<!-- marginal: Kuasa untuk -->
+
+8. (1) Majlis boleh, dengan kelulusan Yang di-Pertuan
+
+<!-- marginal: menubuhkan -->
+
+Agong, dari semasa ke semasa melalui perintah yang
+
+<!-- marginal: perbadanan- -->
+
+disiarkan dalam Warta menubuhkan sesuatu perbadanan
+
+<!-- marginal: perbadanan -->
+
+dengan apa-apa nama sebagaimana yang difikirkan patut oleh Majlis untuk menjalankan dan menjaga, mengelola, dan menguruskan apa-apa projek skim, atau perusahaan yang telah dirancang atau diusahakan oleh Majlis dalam melaksanakan kewajipan atau kuasa-kuasanya di bawah seksyen 7.
 
 (2) Majlis hendaklah, dengan kelulusan Yang di- Pertuan Agong, melalui perintah yang sama atau yang lain, membuat peruntukan-peruntukan berkenaan dengan sesuatu perbadanan yang ditubuhkan di bawah subseksyen (1), yang menentukan—
 
@@ -468,19 +662,15 @@ anggota berikut:
 
 (g) bukan orang Islam, Yang di-Pertuan Agong atas nasihat Menteri hendaklah melantik seorang pegawai lain yang adalah seorang Islam dan yang kanan selepasnya dari Jabatan atau Kementerian yang sama untuk menjadi anggota bagi menggantikan orang tersebut.
 
-(5) Orang-orang yang, sebelum
+(5) Orang-orang yang, sebelum sahaja mula berkuatkuasanya seksyen ini adalah Pengerusi, Timbalan Pengerusi, dan anggota-anggota yang dilantik bagi Majlis Agama Islam Wilayah Persekutuan hendaklah, tertakluk kepada Akta ini, masing- masingnya terus menjadi Pengerusi, Timbalan Pengerusi, dan anggota-anggota Majlis sehingga habis tempoh perlantikan mereka sekarang.
 
-<!-- marginal: sahaja mula -->
+<!-- marginal: Penamatan -->
 
-berkuatkuasanya seksyen ini adalah Pengerusi, Timbalan Pengerusi, dan anggota-anggota yang dilantik bagi Majlis Agama Islam Wilayah Persekutuan hendaklah, tertakluk kepada Akta
+11. Perlantikan seseorang anggota Majlis yang dilantik
 
-<!-- marginal: ini, masing- -->
+<!-- marginal: perlantikan. -->
 
-masingnya terus menjadi Pengerusi, Timbalan Pengerusi, dan anggota-anggota Majlis sehingga habis tempoh perlantikan mereka sekarang.
-
-Penamatan
-
-11. Perlantikan seseorang anggota Majlis yang dilantik perlantikan. hendaklah tamat—
+hendaklah tamat—
 
 (a) apabila dia mati; atau
 
@@ -488,7 +678,13 @@ Penamatan
 
 (c) jika dia tidak ada di Malaysia, tanpa kebenaran bertulis daripada Pengerusi, selama tempoh melebihi enam bulan.
 
-Pembatalan 12. Yang di-Pertuan Agong boleh, atas nasihat Menteri, perlantikan. membatalkan perlantikan mana-mana anggota Majlis yang dilantik—
+<!-- marginal: Pembatalan -->
+
+12. Yang di-Pertuan Agong boleh, atas nasihat Menteri,
+
+<!-- marginal: perlantikan. -->
+
+membatalkan perlantikan mana-mana anggota Majlis yang dilantik—
 
 (a) jika kelakuannya, sama ada yang berkaitan dengan tugas-tugasnya sebagai anggota atau selainnya, adalah kelakuan yang memburukkan nama Majlis; atau
 
@@ -556,13 +752,27 @@ Timbalan Pengerusi hendaklah mempengerusikan semua mesyuarat Majlis.
 
 <!-- page 19 -->
 
-Kuorum. 17. Tiada urusan, kecuali mengenai penangguhan, boleh dilakukan dalam sesuatu mesyuarat, dan tiada ketetapan atau tindakan Majlis yang dibuat atau dilaksanakan dalam sesuatu mesyuarat, adalah sah, melainkan jika sekurang-kurangnya satu pertiga daripada anggota, termasuk orang yang mempengerusikan mesyuarat, hadir dalam mesyuarat itu.
+<!-- marginal: Kuorum. -->
 
-Penjalanan . 18. (1) Kecuali sebagaimana yang diperuntukkan urusan. dengan nyata selainnya oleh Akta ini, semua urusan Majlis hendaklah dijalankan di dalam mesyuarat Majlis yang diadakan secara tetap dan hendaklah dibereskan melalui ketetapan majoriti anggota yang hadir dan berhak mengundi.
+17. Tiada urusan, kecuali mengenai penangguhan, boleh dilakukan dalam sesuatu mesyuarat, dan tiada ketetapan atau tindakan Majlis yang dibuat atau dilaksanakan dalam sesuatu mesyuarat, adalah sah, melainkan jika sekurang-kurangnya satu pertiga daripada anggota, termasuk orang yang mempengerusikan mesyuarat, hadir dalam mesyuarat itu.
+
+<!-- marginal: Penjalanan -->
+
+. 18. (1) Kecuali sebagaimana yang diperuntukkan
+
+<!-- marginal: urusan. -->
+
+dengan nyata selainnya oleh Akta ini, semua urusan Majlis hendaklah dijalankan di dalam mesyuarat Majlis yang diadakan secara tetap dan hendaklah dibereskan melalui ketetapan majoriti anggota yang hadir dan berhak mengundi.
 
 (2) Ketetapan bertulis yang ditandatangani oleh semua anggota Majlis hendaklah, melainkan jika dalam mana-mana hal atau golongan hal khas diarahkan selainnya oleh Yang di-Pertuan Agong, mempunyai kesan yang sama seperti ketetapan yang diluluskan sewajarnya di bawah subseksyen (1).
 
-Memanggil 19. (1) Semua mesyuarat Majlis hendaklah dipanggil mesyuarat. oleh Setiausaha.
+<!-- marginal: Memanggil -->
+
+19. (1) Semua mesyuarat Majlis hendaklah dipanggil
+
+<!-- marginal: mesyuarat. -->
+
+oleh Setiausaha.
 
 (2) Pengerusi boleh pada bila-bila masa mengarahkan Setiausaha memanggil mesyuarat.
 
@@ -576,7 +786,11 @@ Memanggil 19. (1) Semua mesyuarat Majlis hendaklah dipanggil mesyuarat. oleh Set
 
 ## (WILAYAH-WILAYAH PERSEKUTUAN)
 
-mesyuarat dengan notis yang lebih singkat, mengarahkan supaya kehendak notis tujuh hari itu diketepikan.
+mesyuarat dengan notis yang lebih
+
+<!-- marginal: singkat, -->
+
+mengarahkan supaya kehendak notis tujuh hari itu diketepikan.
 
 (6) Notis mesyuarat boleh dihantar melalui pos kepada anggota dengan ditujukan ke alamat tempat tinggalnya yang terakhir diketahui dan hendaklah disifatkan telah disampaikan mengikut perjalanan biasa pos.
 
@@ -616,19 +830,61 @@ Dengan syarat bahawa tiada keputusan yang dibuat dalam mana-mana minit Majlis bo
 
 (4) Mesyuarat-mesyuarat Majlis hendaklah diadakan dengan tetap sehingga tidak lebih daripada tiga bulan kalendar boleh berlalu antara satu mesyuarat dengan yang berikutnya.
 
-Aturan 23. (1) Pengerusi hendaklah menentukan aturan urusan urusan dan pada mesyuarat-mesyuarat. pengundian. (2) Pengerusi boleh memutuskan aturan anggota- anggota boleh berucap dalam mesyuarat dan boleh pada bila-bila masa menghendaki mana-mana anggota berhenti daripada berucap dalam mesyuarat.
+<!-- marginal: Aturan -->
+
+23. (1) Pengerusi hendaklah menentukan aturan urusan
+
+<!-- marginal: urusan dan -->
+
+pada mesyuarat-mesyuarat.
+
+<!-- marginal: pengundian. -->
+
+(2) Pengerusi boleh memutuskan aturan anggota- anggota boleh berucap dalam mesyuarat dan boleh pada bila-bila masa menghendaki mana-mana anggota berhenti daripada berucap dalam mesyuarat.
 
 (3) Jika atas apa-apa ketetapan terdapat persamaan undi Pengerusi hendaklah mempunyai undi pemutus.
 
-Salinan- 24. Satu salinan apa-apa ketetapan Majlis yang salinan diperakui oleh Setiausaha sebagai salinan benar diperakui ketetapan itu adalah keterangan yang mencukupi bagi ketetapan- mengenainya, dan semua mahkamah hendaklah ketetapan. memberikan pengiktirafan kehakiman
+<!-- marginal: Salinan- -->
+
+24. Satu salinan apa-apa ketetapan Majlis yang
+
+<!-- marginal: salinan -->
+
+diperakui oleh Setiausaha sebagai salinan benar
+
+<!-- marginal: diperakui -->
+
+ketetapan itu adalah keterangan yang mencukupi
+
+<!-- marginal: bagi -->
+
+<!-- marginal: ketetapan- -->
+
+mengenainya, dan semua mahkamah hendaklah
+
+<!-- marginal: ketetapan. -->
+
+memberikan pengiktirafan kehakiman
 
 <!-- marginal: kepada -->
 
 tandatangan Setiausaha.
 
-Cuti. 25. Pengerusi, jika dia menjangka akan tidak berada di Malaysia selama lebih daripada tiga puluh hari, hendaklah memohon cuti daripada Yang di-Pertuan Agong yang boleh memberikan apa-apa arahan sebagaimana yang difikirkannya patut.
+<!-- marginal: Cuti. -->
 
-Bertmdak 26. (1) Dalam apa-apa hal tergempar Pengerusi boleh, dalam hal selepas berunding dengan Menteri, melakukan atau tergempar. mengarahkan dilakukan bagi pihak Majlis apa-apa tindakan atau perkara yang boleh dilakukan dengan sah melalui ketetapan Majlis.
+25. Pengerusi, jika dia menjangka akan tidak berada di Malaysia selama lebih daripada tiga puluh hari, hendaklah memohon cuti daripada Yang di-Pertuan Agong yang boleh memberikan apa-apa arahan sebagaimana yang difikirkannya patut.
+
+<!-- marginal: Bertmdak -->
+
+26. (1) Dalam apa-apa hal tergempar Pengerusi boleh,
+
+<!-- marginal: dalam hal -->
+
+selepas berunding dengan Menteri, melakukan atau
+
+<!-- marginal: tergempar. -->
+
+mengarahkan dilakukan bagi pihak Majlis apa-apa tindakan atau perkara yang boleh dilakukan dengan sah melalui ketetapan Majlis.
 
 (2) Jika apa-apa tindakan atau perkara dilakukan menurut subseksyen (1), suatu mesyuarat Majlis hendaklah diadakan dalam masa seminggu selepas itu bagi maksud meratifikasikan dan mengesahkan tindakan atau perkara yang dilakukan itu, dan jika Majlis enggan meratifikasikan dan mengesahkan tindakan atau perkara yang dilakukan itu, Yang di- Pertuan Agong boleh memberikan apa-apa arahan berkenaan dengannya sebagaimana yang difikirkannya patut.
 
@@ -702,13 +958,31 @@ III
 
 ## SYARAK
 
-Perlantikan 32. (1) Yang di-Pertuan Agong boleh, atas nasihat Mufti dan Menteri, selepas berunding dengan Majlis melantik Timbalan orang-orang yang layak dan sesuai menjadi Mufti dan Mufti. Timbalan Mufti bagi Wilayah-Wilayah Persekutuan.
+<!-- marginal: Perlantikan -->
+
+32. (1) Yang di-Pertuan Agong boleh, atas nasihat
+
+<!-- marginal: Mufti dan -->
+
+Menteri, selepas berunding dengan Majlis melantik
+
+<!-- marginal: Timbalan -->
+
+orang-orang yang layak dan sesuai menjadi Mufti dan
+
+<!-- marginal: Mufti. -->
+
+Timbalan Mufti bagi Wilayah-Wilayah Persekutuan.
 
 (2) Apabila mula berkuatkuasanya seksyen ini, mana- mana orang yang, sebelum sahaja permulaan kuatkuasa itu, menjadi Mufti bagi Wilayah-Wilayah Persekutuan yang dilantik di bawah Enakmen hendaklah disifatkan sebagai telah dilantik sewajarnya di bawah seksyen ini sebagai Mufti bagi Wilayah-Wilayah Persekutuan dan hendaklah memegang jawatan demikian.
 
-Kuasa Mufti . 33. Mufti hendaklah membantu dan menasihati Yang di-Pertuan Agong berkenaan dengan semua perkara Hukum Syarak, dan dalam semua perkara sedemikian hendaklah menjadi pihak berkuasa utama di Wilayah- Wilayah Persekutuan selepas Yang di-Pertuan Agong, kecuali jika diperuntukkan selainnya dalam Akta ini.
+<!-- marginal: Kuasa Mufti -->
 
-Fatwa. 34. (1) Mufti hendaklah, atas perintah Yang di-Pertuan Agong, dan bolehlah, atas kehendaknya sendiri atau atas permintaan mana-mana orang yang dibuat melalui surat yang ditujukan kepada Mufti, membuat dan menyiarkan dalam Warta suatu fatwa atau pendapat atas apa-apa persoalan yang belum diselesaikan atau yang menimbulkan pertikaian mengenai atau berhubungan dengan Hukum Syarak.
+. 33. Mufti hendaklah membantu dan menasihati Yang di-Pertuan Agong berkenaan dengan semua perkara Hukum Syarak, dan dalam semua perkara sedemikian hendaklah menjadi pihak berkuasa utama di Wilayah- Wilayah Persekutuan selepas Yang di-Pertuan Agong, kecuali jika diperuntukkan selainnya dalam Akta ini.
+
+<!-- marginal: Fatwa. -->
+
+34. (1) Mufti hendaklah, atas perintah Yang di-Pertuan Agong, dan bolehlah, atas kehendaknya sendiri atau atas permintaan mana-mana orang yang dibuat melalui surat yang ditujukan kepada Mufti, membuat dan menyiarkan dalam Warta suatu fatwa atau pendapat atas apa-apa persoalan yang belum diselesaikan atau yang menimbulkan pertikaian mengenai atau berhubungan dengan Hukum Syarak.
 
 (2) Tiada pernyataan yang dibuat oleh Mufti boleh diambil sebagai fatwa melainkan jika dan sehingga pernyataan itu disiarkan dalam Warta menurut subseksyen (1).
 
@@ -782,7 +1056,21 @@ dikenali sebagai Jawatankuasa Perundingan Hukum
 
 (6) Sebelum Mufti membuat fatwa, dia boleh menyebabkan kajian-kajian atau penyelidikan dijalankan sebagaimana yang diarahkan olehnya dan kertas kerja disediakan.
 
-Permmtaan 38. Walau apa pun mana-mana undang-undang bertulis pendapat yang Mufti tidaklah boleh disaman untuk memberikan danpada pendapat atau keterangan berhubungan dengan Hukum Mufti. Syarak di mana-mana mahkamah sivil atau Mahkamah Syariah, tetapi jika dalam mana-mana mahkamah selain daripada Mahkamah Syariah, apa-apa persoalan Hukum Syarak perlu diputuskan, mahkamah itu boleh meminta
+<!-- marginal: Permmtaan -->
+
+38. Walau apa pun mana-mana undang-undang bertulis
+
+<!-- marginal: pendapat -->
+
+yang Mufti tidaklah boleh disaman untuk memberikan
+
+<!-- marginal: danpada -->
+
+pendapat atau keterangan berhubungan dengan Hukum
+
+<!-- marginal: Mufti. -->
+
+Syarak di mana-mana mahkamah sivil atau Mahkamah Syariah, tetapi jika dalam mana-mana mahkamah selain daripada Mahkamah Syariah, apa-apa persoalan Hukum Syarak perlu diputuskan, mahkamah itu boleh meminta
 
 <!-- page 26 -->
 
@@ -838,9 +1126,17 @@ kan Mahkamah-Mahkamah Rendah Syariah bagi Wilayah-Wilayah Persekutuan di tempat-
 
 <!-- page 27 -->
 
-Ketua Hakin 41. (1) Yang di-Pertuan Agong boleh, atas nasihat Syarie. Menteri, selepas berunding dengan Majlis, melantik seorang Ketua Hakim Syarie.
+<!-- marginal: Ketua Hakin -->
 
-(2) Seseorang itu layak dilantik di bawah subseksyen (1) jika—
+41. (1) Yang di-Pertuan Agong boleh, atas nasihat
+
+<!-- marginal: Syarie. -->
+
+Menteri, selepas berunding dengan Majlis, melantik seorang Ketua Hakim Syarie.
+
+(2) Seseorang itu layak dilantik di bawah subseksyen
+
+(1) jika—
 
 (a) dia seorang warganegara; dan
 
@@ -858,21 +1154,55 @@ memegang jawatan Hakim Mahkamah Tinggi Syariah atau Kathi atau Pendaftar atau Pe
 
 (4) Perlantikan di bawah seksyen ini hendaklah disiarkan dalam Warta.
 
-Perlantikan 42. (1) Yang di-Pertuan Agong boleh, atas nasihat Hakim-Hakim Menteri, selepas berunding dengan Majlis, melantik, Mahkamah Rayuan selama tempoh tidak melebihi tiga tahun, tidak lebih Syanah. daripada tujuh orang Islam untuk menubuhkan suatu panel tetap hakim dan Ketua Hakim Syarie hendaklah memilih dua orang daripada kalangan mereka untuk membentuk kuorum hakim dalam Mahkamah Rayuan Syariah berkenaan dengan tiap-tiap pendengaran.
+<!-- marginal: Perlantikan -->
+
+42. (1) Yang di-Pertuan Agong boleh, atas nasihat
+
+<!-- marginal: Hakim-Hakim -->
+
+Menteri, selepas berunding dengan Majlis, melantik,
+
+<!-- marginal: Mahkamah -->
+
+<!-- marginal: Rayuan -->
+
+selama tempoh tidak melebihi tiga tahun, tidak lebih
+
+<!-- marginal: Syanah. -->
+
+daripada tujuh orang Islam untuk menubuhkan suatu panel tetap hakim dan Ketua Hakim Syarie hendaklah memilih dua orang daripada kalangan mereka untuk membentuk kuorum hakim dalam Mahkamah Rayuan Syariah berkenaan dengan tiap-tiap pendengaran.
 
 <!-- page 28 -->
 
-Pendaftar- 45. Yang di-Pertuan Agong boleh, atas nasihat Ketua Pendaftar. Hakim Syarie, melantik, daripada kalangan anggota perkhidmatan awam am Persekutuan, seorang Ketua Pendaftar Mahkamah Rayuan Syariah, Pendaftar Mahkamah Tinggi Syariah dan Penolong-Penolong Pendaftar Mahkamah Rendah Syariah.
+<!-- marginal: Pendaftar- -->
 
-Bidang kuasa 46. (1) Mahkamah Tinggi Syariah
+45. Yang di-Pertuan Agong boleh, atas nasihat Ketua
 
-<!-- marginal: hendaklah -->
+<!-- marginal: Pendaftar. -->
 
-Mahkamah mempunyai bidang kuasa di seluruh Wilayah-Wilayah Tinggi Syariah Persekutuan dan hendaklah diketuai oleh seorang Hakim Syarie.
+Hakim Syarie, melantik, daripada kalangan anggota perkhidmatan awam am Persekutuan, seorang Ketua Pendaftar Mahkamah Rayuan Syariah, Pendaftar Mahkamah Tinggi Syariah dan Penolong-Penolong Pendaftar Mahkamah Rendah Syariah.
+
+<!-- marginal: Bidang kuasa -->
+
+46. (1) Mahkamah Tinggi Syariah hendaklah
+
+<!-- marginal: Mahkamah -->
+
+mempunyai bidang kuasa di seluruh Wilayah-Wilayah
+
+<!-- marginal: Tinggi -->
+
+<!-- marginal: Syariah -->
+
+Persekutuan dan hendaklah diketuai oleh seorang Hakim Syarie.
 
 (2) Mahkamah Tinggi Syariah hendaklah—
 
-(a) dalam bidang kuasa jenayahnya, membicarakan apa-apa kesalahan yang dilakukan oleh seseorang Islam dan boleh dihukum di bawah Akta 303 Enakmen atau Akta Undang-Undang Keluarga Islam (Wilayah-Wilayah Persekutuan) 1984, atau di bawah mana-mana undang-undang bertulis lain yang menetapkan kesalahan- kesalahan terhadap rukun-rukun agama Islam yang sedang berkuatkuasa, dan boleh mengenakan apa-apa hukuman yang diper- untukkan baginya;
+(a) dalam bidang kuasa jenayahnya, membicarakan apa-apa kesalahan yang dilakukan oleh seseorang Islam dan boleh dihukum di bawah
+
+<!-- marginal: Akta 303 -->
+
+Enakmen atau Akta Undang-Undang Keluarga Islam (Wilayah-Wilayah Persekutuan) 1984, atau di bawah mana-mana undang-undang bertulis lain yang menetapkan kesalahan- kesalahan terhadap rukun-rukun agama Islam yang sedang berkuatkuasa, dan boleh mengenakan apa-apa hukuman yang diper- untukkan baginya;
 
 (b) dalam bidang kuasa malnya, mendengar dan memutuskan semua tindakan dan prosiding dalam mana semua pihak adalah orang Islam dan yang berhubungan dengan—
 
@@ -880,11 +1210,7 @@ Mahkamah mempunyai bidang kuasa di seluruh Wilayah-Wilayah Tinggi Syariah Persek
 
 <!-- marginal: ruju', -->
 
-perceraian, pembubaran perkahwinan (fasakh), nusyuz, atau
-
-<!-- marginal: pemisahan -->
-
-kehakiman (faraq) atau apa-apa perkara yang berkaitan dengan perhubungan di antara suami isteri;
+perceraian, pembubaran perkahwinan (fasakh), nusyuz, atau pemisahan kehakiman (faraq) atau apa-apa perkara yang berkaitan dengan perhubungan di antara suami isteri;
 
 (ii) apa-apa pelupusan atau tuntutan harta yang berbangkit daripada mana-mana perkara yang dinyatakan dalam subperenggan (i);
 
@@ -902,11 +1228,7 @@ kehakiman (faraq) atau apa-apa perkara yang berkaitan dengan perhubungan di anta
 
 (vii) wakaf atau nazr;
 
-(viii) pembahagian dan pewarisan
-
-<!-- marginal: harta -->
-
-berwasiat atau tak berwasiat;
+(viii) pembahagian dan pewarisan harta berwasiat atau tak berwasiat;
 
 (ix) penentuan orang-orang yang berhak kepada bahagian harta pusaka seseorang si mati Islam atau bahagian-bahagian yang kepadanya orang-orang itu masing-masing berhak; atau
 
@@ -936,7 +1258,19 @@ Persekutuan dan hendaklah diketuai oleh seorang Hakim Mahkamah Rendah Syariah.
 
 (3) Yang di-Pertuan Agong boleh dari semasa ke semasa melalui pemberitahuan dalam Warta memperluaskan bidang kuasa mal Mahkamah Rendah Syariah.
 
-Rayuan ke 48. (1) Rayuan boieh dibuat kepada Mahkamah Tinggi Mahkamah Syariah daripada apa-apa keputusan sesuatu Mahkamah Tinggi Syariah. Rendah Syariah—
+<!-- marginal: Rayuan ke -->
+
+48. (1) Rayuan boieh dibuat kepada Mahkamah Tinggi
+
+<!-- marginal: Mahkamah -->
+
+Syariah daripada apa-apa keputusan sesuatu Mahkamah
+
+<!-- marginal: Tinggi -->
+
+<!-- marginal: Syariah. -->
+
+Rendah Syariah—
 
 (a) dalam bidang kuasa jenayahnya, oleh pihak pendakwa atau oleh orang yang telah disabitkan, dan rayuan itu boleh sama ada terhadap pembebasan, sabitan atau hukuman atau mana- mana daripadanya;
 
@@ -992,11 +1326,45 @@ harta pusaka seseorang si mati Islam, mana-mana mahkamah atau pihak berkuasa, se
 
 Mahkamah Tinggi Syariah atau suatu Mahkamah Rendah Syariah, adalah mempunyai kewajipan untuk menentukan orang-orang yang berhak kepada bahagian dalam harta pusaka itu, atau bahagian-bahagian yang kepadanya orang-orang itu masing-masingnya berhak, Mahkamah Syariah bolehlah, atas permohonan mana- mana orang yang menuntut bahawa dia menjadi benefisiari, atau wakilnya dan setelah dibayar olehnya fee yang ditetapkan, memperakukan fakta-fakta yang didapati olehnya dan pendapatnya mengenai orang- orang yang berhak kepada bahagian dalam harta pusaka itu dan mengenai bahagian-bahagian yang padanya mereka masing-masingnya berhak.
 
-Bidang kuasa 51. (1) Mahkamah Tinggi Syariah hendaklah mem- pengawasan punyai bidang kuasa pengawasan dan penyemakan ke dan penyemakan atas semua Mahkamah Rendah Syariah dan boleh, jika Mahkamah nampaknya dikehendaki demi kepentingan keadilan, Tinggi Syariah. sama ada atas kehendaknya sendiri atau atas kehendak mana-mana pihak atau orang yang berkepentingan, pada mana-mana peringkat dalam apa-apa perkara atau prosiding, sama ada mal atau jenayah, dalam mana-mana Mahkamah Rendah Syariah, memanggil dan memeriksa mana-mana rekod mengenainya dan boleh memberikan apa-apa arahan yang dikehendaki demi keadilan.
+<!-- marginal: Bidang kuasa -->
+
+51. (1) Mahkamah Tinggi Syariah hendaklah mem-
+
+<!-- marginal: pengawasan -->
+
+punyai bidang kuasa pengawasan dan penyemakan ke
+
+<!-- marginal: dan -->
+
+<!-- marginal: penyemakan -->
+
+atas semua Mahkamah Rendah Syariah dan boleh, jika
+
+<!-- marginal: Mahkamah -->
+
+nampaknya dikehendaki demi kepentingan keadilan,
+
+<!-- marginal: Tinggi -->
+
+<!-- marginal: Syariah. -->
+
+sama ada atas kehendaknya sendiri atau atas kehendak mana-mana pihak atau orang yang berkepentingan, pada mana-mana peringkat dalam apa-apa perkara atau prosiding, sama ada mal atau jenayah, dalam mana-mana Mahkamah Rendah Syariah, memanggil dan memeriksa mana-mana rekod mengenainya dan boleh memberikan apa-apa arahan yang dikehendaki demi keadilan.
 
 (2) Bilamana Mahkamah Tinggi Syariah memanggil rekod di bawah subseksyen (1), semua prosiding dalam Mahkamah Rendah Syariah mengenai perkara atau prosiding yang berkenaan itu hendaklah digantung sementara menanti perintah selanjutnya daripada Mahkamah Tinggi Syariah.
 
-Bidang kuasa 52. (1) Mahkamah Rayuan Syariah hendaklah mem- Mahkamah punyai bidang kuasa untuk mendengar dan memutuskan Rayuan Syariah. apa-apa rayuan terhadap apa-apa keputusan yang dibuat oleh Mahkamah Tinggi Syariah dalam menjalankan bidang kuasa asalnya.
+<!-- marginal: Bidang kuasa -->
+
+52. (1) Mahkamah Rayuan Syariah hendaklah mem-
+
+<!-- marginal: Mahkamah -->
+
+punyai bidang kuasa untuk mendengar dan memutuskan
+
+<!-- marginal: Rayuan -->
+
+<!-- marginal: Syariah. -->
+
+apa-apa rayuan terhadap apa-apa keputusan yang dibuat oleh Mahkamah Tinggi Syariah dalam menjalankan bidang kuasa asalnya.
 
 (2) Apabila suatu rayuan daripada suatu keputusan Mahkamah Rendah Syariah telah diputuskan oleh Mahkamah Tinggi Syariah, Mahkamah Rayuan Syariah
 
@@ -1090,11 +1458,7 @@ kuasa yang boleh dijalankan menurut budi bicaranya bagi memulakan dan menjalanka
 
 (3) Ketua Pendakwa Syarie bolehlah melantik orang- orang yang layak dan sesuai daripada kalangan anggota perkhidmatan awam am Persekutuan menjadi Pendakwa-Pendakwa Syarie yang hendaklah bertindak di bawah kawalan am dan arahan Ketua Pendakwa Syarie dan boleh menjalankan semua atau mana-mana hak dan kuasa yang terletakhak pada atau yang boleh dijalankan oleh Ketua Pendakwa Syarie sendiri.
 
-(4) Majlis boleh melantik daripada kalangan anggota perkhidmatan awam am Persekutuan seorang Ketua Pegawai Penguatkuasa Agama dan Pegawai-Pegawai Penguatkuasa Agama untuk menjalankan penyiasatan kesalahan-kesalahan di bawah Enakmen atau di bawah mana-mana undang-undang bertulis
-
-<!-- marginal: lain yang -->
-
-menetapkan kesalahan-kesalahan terhadap rukun-rukun agama Islam.
+(4) Majlis boleh melantik daripada kalangan anggota perkhidmatan awam am Persekutuan seorang Ketua Pegawai Penguatkuasa Agama dan Pegawai-Pegawai Penguatkuasa Agama untuk menjalankan penyiasatan kesalahan-kesalahan di bawah Enakmen atau di bawah mana-mana undang-undang bertulis lain yang menetapkan kesalahan-kesalahan terhadap rukun-rukun agama Islam.
 
 <!-- marginal: Peguam Syarie. -->
 
@@ -1120,7 +1484,13 @@ penerimaan Peguarn Syarie; dan
 
 Amanah Khairat
 
-Penubuhan 60. (1) Suatu Kumpulan Wang yang dikenali sebagai Baitulmal. Baitulmal adalah dengan ini ditubuhkan. Kumpulan Wang itu hendaklah terdiri daripada semua wang dan harta, aiih atau tak alih, yang menurut Hukum Syarak atau di bawah peruntukan-peruntukan Akta ini atau kaedah-kaedah yang dibuat di bawahnya terakru, atau disumbangkan oleh mana-mana orang, kepada Kumpulan Wang.
+<!-- marginal: Penubuhan -->
+
+60. (1) Suatu Kumpulan Wang yang dikenali sebagai
+
+<!-- marginal: Baitulmal. -->
+
+Baitulmal adalah dengan ini ditubuhkan. Kumpulan Wang itu hendaklah terdiri daripada semua wang dan harta, aiih atau tak alih, yang menurut Hukum Syarak atau di bawah peruntukan-peruntukan Akta ini atau kaedah-kaedah yang dibuat di bawahnya terakru, atau disumbangkan oleh mana-mana orang, kepada Kumpulan Wang.
 
 (2) Semua wang dan harta dalam Kumpulan Wang hendaklah terletakhak pada Majlis yang hendaklah mentadbirkan semua wang dan harta itu mengikut kaedah-kaedah yang dibuat di bawah Akta ini;
 
@@ -1174,15 +1544,29 @@ mengesahkannya; atau
 
 (3) Seksyen ini tidaklah berkuatkuasa untuk menjadikan sah mana-mana wasiat, alang semasa marad- al-maut, wakaf atau nazr yang tak sah di bawah peruntukan-peruntukan Hukum Syarak.
 
-Pendapatan
+<!-- marginal: Pendapatan -->
 
-64. (1) Pendapatan daripada sesuatu wakaf khas, jika danpada diterima oleh Majlis, hendaklah digunakan olehnya wakaf dan nazr. mengikut peruntukan-peruntukan yang sah bagi wakaf khas itu.
+64. (1) Pendapatan daripada sesuatu wakaf khas, jika
+
+<!-- marginal: danpada -->
+
+diterima oleh Majlis, hendaklah digunakan olehnya
+
+<!-- marginal: wakaf dan -->
+
+<!-- marginal: nazr. -->
+
+mengikut peruntukan-peruntukan yang sah bagi wakaf khas itu.
 
 (2) Pendapatan daripada tiap-tiap wakaf lain dan tiap- tiap nazr 'am hendaklah dibayar kepada dan menjadi sebahagian daripada Kumpulan Wang.
 
-Modal wakaf
+<!-- marginal: Modal wakaf -->
 
-65. (1) Tertakluk kepada peruntukan-peruntukan dan dan nazr'am. subseksyen (2) dan (3), harta dan aset modal yang tersentuh oleh mana-mana wakaf atau nazr am yang sah tidak boleh menjadi sebahagian daripada Kumpulan Wang, tetapi hendaklah digunakan menurut wakaf atau nazr 'am itu dan dipegang sebagai wang yang berasingan.
+65. (1) Tertakluk kepada peruntukan-peruntukan dan
+
+<!-- marginal: dan nazr'am. -->
+
+subseksyen (2) dan (3), harta dan aset modal yang tersentuh oleh mana-mana wakaf atau nazr am yang sah tidak boleh menjadi sebahagian daripada Kumpulan Wang, tetapi hendaklah digunakan menurut wakaf atau nazr 'am itu dan dipegang sebagai wang yang berasingan.
 
 (2) Jika, oleh sebab lampau masa atau perubahan hal keadaan, maka tidak mungkin lagi dapat dijalankan secara berfaedah peruntukan-peruntukan tepat bagi
 
@@ -1222,9 +1606,21 @@ bagi Majlis dan bagi mana-mana perbadanan yang ditubuhkan di bawah Akta ini.
 
 <!-- page 39 -->
 
-Harta wakaf 68. Dengan seberapa segera yang mungkin selepas 31 dan nazr. haribulan Disember tiap-tiap tahun, Majlis hendaklah menyediakan, mengeluarkan dan menyiarkan dalam Warta satu senarai semua harta, pelaburan dan aset yang terletakhak pada Majlis tertakluk kepada mana-mana amanah, wakaf atau nazr, dan yang tidak menjadi sebahagian daripada Kumpulan Wang.
+<!-- marginal: Harta wakaf -->
 
-Anggaran- 69. (1) Majlis hendaklah menyediakan dan memper- anggaran. sembahkan kepada Yang di-Pertuan Agong tidak lewat daripada 31 haribulan Oktober dalam setiap tahun, anggaran-anggaran kesemua pendapatan
+68. Dengan seberapa segera yang mungkin selepas 31
+
+<!-- marginal: dan nazr. -->
+
+haribulan Disember tiap-tiap tahun, Majlis hendaklah menyediakan, mengeluarkan dan menyiarkan dalam Warta satu senarai semua harta, pelaburan dan aset yang terletakhak pada Majlis tertakluk kepada mana-mana amanah, wakaf atau nazr, dan yang tidak menjadi sebahagian daripada Kumpulan Wang.
+
+<!-- marginal: Anggaran- -->
+
+69. (1) Majlis hendaklah menyediakan dan memper-
+
+<!-- marginal: anggaran. -->
+
+sembahkan kepada Yang di-Pertuan Agong tidak lewat daripada 31 haribulan Oktober dalam setiap tahun, anggaran-anggaran kesemua pendapatan
 
 <!-- marginal: dan -->
 
@@ -1234,7 +1630,13 @@ perbelanjaan Majlis, termasuk di dalamnya anggaran- anggaran segala harta yang b
 
 (3) Tiada wang boleh dibelanjakan, atau harta dilupuskan dalam bentuk barang-barang, kecuali mengikut anggaran-anggaran seperti yang disebut terdahulu itu dan atas baucer yang ditandatangani oleh Pengerusi atau mana-mana pegawai Majlis atau mana- mana pegawai lain yang diberikuasa oleh Pengerusi.
 
-Perbelanjaar 70. Semua kos, bayaran dan belanja mentadbir harta Majlis dan aset yang terletakhak pada Majlis, termasuk kos penyenggaraan dan pembaikan mana-mana harta tak alih, gaji dan elaun semua pengkhidmat Majlis, dan fee dan elaun yang kena dibayar kepada mana-mana pegawai atau anggota Majlis berkenaan dengan perkhidmatannya sebagai yang demikian, hendaklah dibayar daripada harta aset Kumpulan Wang.
+<!-- marginal: Perbelanjaar -->
+
+70. Semua kos, bayaran dan belanja mentadbir harta
+
+<!-- marginal: Majlis -->
+
+dan aset yang terletakhak pada Majlis, termasuk kos penyenggaraan dan pembaikan mana-mana harta tak alih, gaji dan elaun semua pengkhidmat Majlis, dan fee dan elaun yang kena dibayar kepada mana-mana pegawai atau anggota Majlis berkenaan dengan perkhidmatannya sebagai yang demikian, hendaklah dibayar daripada harta aset Kumpulan Wang.
 
 <!-- page 40 -->
 
@@ -1292,7 +1694,19 @@ yang hendak digunakan sebagai masjid, atau selainnya menggunakan mana-mana bangu
 
 (2) Majlis tidak boleh memberikan kebenarannya di bawah subseksyen (1) melainkan jika tapak bangunan bagi masjid yang dicadangkan itu telah dijadikan wakaf yang berkekalan.
 
-Penyeng- 74. (1) Majlis hendaklah memastikan bahawa semua garaan masjid masjid dalam Wilayah-Wilayah Persekutuan adalah dan kawasar nya disenggarakan dalam keadaan pembaikan yang sepatutnya dan bahawa kawasan-kawasannya disenggarakan dalam keadaan kebersihan yang sepatutnya; dan Majlis boleh memperdapatkan dan menggunakan, atau membenarkan pemerdapatan dan penggunaan, wang khas bagi maksud pembaikan dan penyenggaraan itu, atau bolehlah membayar kos pembaikan dan penyenggaraan itu daripada Kumpulan Wang.
+<!-- marginal: Penyeng- -->
+
+74. (1) Majlis hendaklah memastikan bahawa semua
+
+<!-- marginal: garaan masjid -->
+
+masjid dalam Wilayah-Wilayah Persekutuan adalah
+
+<!-- marginal: dan kawasar -->
+
+<!-- marginal: nya -->
+
+disenggarakan dalam keadaan pembaikan yang sepatutnya dan bahawa kawasan-kawasannya disenggarakan dalam keadaan kebersihan yang sepatutnya; dan Majlis boleh memperdapatkan dan menggunakan, atau membenarkan pemerdapatan dan penggunaan, wang khas bagi maksud pembaikan dan penyenggaraan itu, atau bolehlah membayar kos pembaikan dan penyenggaraan itu daripada Kumpulan Wang.
 
 (2) Naqib Masjid atau Imam hendaklah dengan segera memberitahu Majlis tentang apa-apa keadaan yang memerlukan pembaikan dalam masjidnya, dan hendakiah memeriksa atau mengawasi mana-mana pembaikan itu sebagai ejen untuk dan bagi pihak Majlis.
 
@@ -1300,9 +1714,29 @@ Penyeng- 74. (1) Majlis hendaklah memastikan bahawa semua garaan masjid masjid d
 
 (4) Majlis boleh mengarahkan sesuatu jawatankuasa kariah supaya menyenggarakan masjid yang di bawah tanggungjawabnya di dalam keadaan pembaikan yang sepatutnya.
 
-Sempadan 75. Majlis boleh pada bila-bila masa melalui kariah pemberitahuan dalam Warta menentukan, meminda, masjid. atau mengubah sempadan mana-mana kariah masjid.
+<!-- marginal: Sempadan -->
 
-Perlantikan 76. (1) Bagi tiap-tiap masjid dalam Wilayah-Wilayah Pegawai Persekutuan hendaklah dilantik seorang Naqib Masjid, Masjid. seorang Imam, seorang Imam Ratib, seorang Bilal dan seorang Pembantu Bilal.
+75. Majlis boleh pada bila-bila masa melalui
+
+<!-- marginal: kariah -->
+
+pemberitahuan dalam Warta menentukan, meminda,
+
+<!-- marginal: masjid. -->
+
+atau mengubah sempadan mana-mana kariah masjid.
+
+<!-- marginal: Perlantikan -->
+
+76. (1) Bagi tiap-tiap masjid dalam Wilayah-Wilayah
+
+<!-- marginal: Pegawai -->
+
+Persekutuan hendaklah dilantik seorang Naqib Masjid,
+
+<!-- marginal: Masjid. -->
+
+seorang Imam, seorang Imam Ratib, seorang Bilal dan seorang Pembantu Bilal.
 
 (2) Jawatan-jawatan Naqib Masjid, Imam dan Bilal hendaklah menjadi jawatan-jawatan dalam perkhid- matan awam am Persekutuan.
 
@@ -1336,11 +1770,37 @@ ditamatkan melalui notis daripada Majlis.
 
 <!-- page 43 -->
 
-Kawalan dan 79. Dalam pelaksanaan tugas-tugas mereka, Imam, arahan ke ata Imam Ratib, Bilal dan Pembantu Bilal hendaklah Pegawai Masjid. tertakluk kepada kawalan dan arahan Naqib Masjid.
+<!-- marginal: Kawalan dan -->
 
-Penghapusan 80. Apabila mula berkuatkuasanya seksyen 76, jawatan jawatan Nazir masjid tidak lagi wujud. Nazir,
+79. Dalam pelaksanaan tugas-tugas mereka, Imam,
 
-Jawatankuasa 81. (1) Majlis boleh, dengan kelulusan Yang di-Pertuan kanah. Agong, membuat kaedah-kaedah bagi—
+<!-- marginal: arahan ke ata -->
+
+Imam Ratib, Bilal dan Pembantu Bilal hendaklah
+
+<!-- marginal: Pegawai -->
+
+<!-- marginal: Masjid. -->
+
+tertakluk kepada kawalan dan arahan Naqib Masjid.
+
+<!-- marginal: Penghapusan -->
+
+80. Apabila mula berkuatkuasanya seksyen 76, jawatan
+
+<!-- marginal: jawatan -->
+
+Nazir masjid tidak lagi wujud.
+
+<!-- marginal: Nazir, -->
+
+<!-- marginal: Jawatankuasa -->
+
+81. (1) Majlis boleh, dengan kelulusan Yang di-Pertuan
+
+<!-- marginal: kanah. -->
+
+Agong, membuat kaedah-kaedah bagi—
 
 (a) penubuhan sesuatu jawatankuasa kariah;
 
@@ -1356,11 +1816,17 @@ Jawatankuasa 81. (1) Majlis boleh, dengan kelulusan Yang di-Pertuan kanah. Agong
 
 (c) memberikan maklumat wajar dan segera kepada Majlis tentang semua perkara yang berbangkit dalam kariah itu yang menghendaki perhatian Majlis.
 
-Pengecualian 82. (1) Majlis boleh, melalui pemberitahuan dalam Warta, mengecualikan mana-mana masjid daripada semua atau mana-mana peruntukan Bahagian ini.
+<!-- marginal: Pengecualian -->
+
+82. (1) Majlis boleh, melalui pemberitahuan dalam Warta, mengecualikan mana-mana masjid daripada semua atau mana-mana peruntukan Bahagian ini.
 
 (2) Peruntukan-peruntukan Bahagian ini, kecuali seksyen 72, tidaklah terpakai bagi Masjid Negara.
 
-Kuasa 83. Majlis boleh, dari semasa ke semasa, meminda meminda
+<!-- marginal: Kuasa -->
+
+83. Majlis boleh, dari semasa ke semasa, meminda
+
+<!-- marginal: meminda -->
 
 ## Jadual Ketiga
 
@@ -1412,7 +1878,19 @@ IX
 
 ## MASUK ISLAM
 
-Kehendak- 85. (1) Kehendak-kehendak yang berikut hendaklah kehendak dipatuhi bagi kemasukan sah seseorang itu ke dalam bagi masuk Islam. agama IsJam:
+<!-- marginal: Kehendak- -->
+
+85. (1) Kehendak-kehendak yang berikut hendaklah
+
+<!-- marginal: kehendak -->
+
+dipatuhi bagi kemasukan sah seseorang itu ke dalam
+
+<!-- marginal: bagi masuk -->
+
+<!-- marginal: Islam. -->
+
+agama IsJam:
 
 (a) orang itu mestilah mengucapkan dua kalimah Syahadah dalam bahasa Arab secara yang semunasabahnya jelas;
 
@@ -1420,7 +1898,9 @@ Kehendak- 85. (1) Kehendak-kehendak yang berikut hendaklah kehendak dipatuhi bag
 
 (c) pengucapan itu mestilah dibuat dengan kerelaan hati orang itu sendiri.
 
-(2) Seseorang yang tiada dapat bercakap boleh, bagi maksud memenuhi kehendak perenggan (a) subseksyen (1), mengucapkan dua kalimah Syahadah dengan cara isyarat yang menunjukkan makna yang dinyatakan dalam perenggan (b) subseksyen itu.
+(2) Seseorang yang tiada dapat bercakap boleh, bagi maksud memenuhi kehendak perenggan (a) subseksyen
+
+(1), mengucapkan dua kalimah Syahadah dengan cara isyarat yang menunjukkan makna yang dinyatakan dalam perenggan (b) subseksyen itu.
 
 <!-- page 46 -->
 
@@ -1480,17 +1960,69 @@ memohon kepada Pendaftar dalam borang yang ditetapkan untuk pendaftaran sebagai 
 
 boleh membenarkan pemohon itu mengucap, di hadapannya atau di hadapan mana-mana pegawainya, dua kalimah Syahadah mengikut kehendak-kehendak seksyen itu.
 
-Perakuan 90. ( 1) Pendaftar hendaklah memberikan kepada tiap- Masuk Islam. tiap orang yang kemasukan Islamnya telah didaftarkan suatu Perakuan Masuk Islam dalam borang yang ditetapkan.
+<!-- marginal: Perakuan -->
+
+90. ( 1) Pendaftar hendaklah memberikan kepada tiap-
+
+<!-- marginal: Masuk Islam. -->
+
+tiap orang yang kemasukan Islamnya telah didaftarkan suatu Perakuan Masuk Islam dalam borang yang ditetapkan.
 
 (2) Perakuan Masuk Islam hendaklah menjadi bukti muktamad akan hal-hal yang dinyatakan di dalamnya.
 
-Pengiktirafan 91. (1) Seseorang yang telah masuk Islam dan telah muallaf didaftarkan dalam Daftar Muallaf hendaklah, bagi sebagai orang Islam. maksud mana-mana undang-undang Persekutuan atau Negeri, dan untuk semua masa, diperlakukan sebagai seorang Islam.
+<!-- marginal: Pengiktirafan -->
+
+91. (1) Seseorang yang telah masuk Islam dan telah
+
+<!-- marginal: muallaf -->
+
+didaftarkan dalam Daftar Muallaf hendaklah, bagi
+
+<!-- marginal: sebagai orang -->
+
+<!-- marginal: Islam. -->
+
+maksud mana-mana undang-undang Persekutuan atau Negeri, dan untuk semua masa, diperlakukan sebagai seorang Islam.
 
 (2) Seseorang yang kemasukan Islamnya dan telah didaftarkan di bawah mana-mana undang-undang mana- mana Negeri hendaklah, bagi semua maksud di Wilayah-Wilayah Persekutuan dan bagi maksud-maksud menguatkuasakan di Wilayah-Wilayah Persekutuan peruntukan-peruntukan mana-mana undang-undang, diperlakukan sebagai seorang Islam.
 
-Menentukan 92. Jika apa-apa soalan timbul dalam Wilayah-Wilayah sama ada Persekutuan sama ada seseorang itu adalah seorang orang yang tak muallaf, dan orang itu tidak didaftarkan dalam Daftar didaftarkan Muallaf atau di bawah mana-mana undang-undang ialah seorang muallaf mana-mana Negeri sebagai seorang muallaf, soalan itu hendaklah diputuskan berdasarkan kepada merit kes itu mengikut seksyen 85.
+<!-- marginal: Menentukan -->
 
-Kesalahan 93. Mana-mana orang yang, dalam sesuatu permohonan memberi untuk pendaftaran di bawah seksyen 89, atau sebagai maklumat palsu. jawapan kepada apa-apa permintaan untuk maklumat atau keterangan yang dibuat oleh Pendaftar di bawah seksyen itu, dengan sengaja memberi kepada Pendaftar apa-apa maklumat atau keterangan palsu atau yang mengelirukan adalah melakukan suatu kesalahan dan
+92. Jika apa-apa soalan timbul dalam Wilayah-Wilayah
+
+<!-- marginal: sama ada -->
+
+Persekutuan sama ada seseorang itu adalah seorang
+
+<!-- marginal: orang yang -->
+
+<!-- marginal: tak -->
+
+muallaf, dan orang itu tidak didaftarkan dalam Daftar
+
+<!-- marginal: didaftarkan -->
+
+Muallaf atau di bawah mana-mana undang-undang
+
+<!-- marginal: ialah seorang -->
+
+<!-- marginal: muallaf -->
+
+mana-mana Negeri sebagai seorang muallaf, soalan itu hendaklah diputuskan berdasarkan kepada merit kes itu mengikut seksyen 85.
+
+<!-- marginal: Kesalahan -->
+
+93. Mana-mana orang yang, dalam sesuatu permohonan
+
+<!-- marginal: memberi -->
+
+untuk pendaftaran di bawah seksyen 89, atau sebagai
+
+<!-- marginal: maklumat -->
+
+<!-- marginal: palsu. -->
+
+jawapan kepada apa-apa permintaan untuk maklumat atau keterangan yang dibuat oleh Pendaftar di bawah seksyen itu, dengan sengaja memberi kepada Pendaftar apa-apa maklumat atau keterangan palsu atau yang mengelirukan adalah melakukan suatu kesalahan dan
 
 <!-- page 48 -->
 
@@ -1546,15 +2078,29 @@ Pengawasan Pengajaran Agama, yang hendaklah terdiri daripada—
 
 (c) elaun yang patut dibayar kepada anggota- anggota jawatankuasa,
 
-Sekolah 96. Majlis hendaklah mempunyai kuasa untuk Agama. mendaftar sekolah-sekolah Agama Islam di Wilayah- Wilayah Persekutuan.
+<!-- marginal: Sekolah -->
 
-Pengecualia . 97. Majlis boleh mengecualikan mana-mana orang atau golongan orang daripada mana-mana peruntukan Bahagian ini.
+96. Majlis hendaklah mempunyai kuasa untuk
+
+<!-- marginal: Agama. -->
+
+mendaftar sekolah-sekolah Agama Islam di Wilayah- Wilayah Persekutuan.
+
+<!-- marginal: Pengecualia -->
+
+. 97. Majlis boleh mengecualikan mana-mana orang atau golongan orang daripada mana-mana peruntukan Bahagian ini.
 
 ## BAHAGIAN XI
 
 AM
 
-Kaedah- 98. Yang di-Pertuan Agong boleh, atas nasihat Majlis, kaedah. melalui pemberitahuan dalam Warta, membuat kaedah- kaedah bagi melaksanakan peruntukan-peruntukan Akta ini, dan khususnya, tetapi tanpa menjejaskan keluasan yang terdahulu, kaedah-kaedah itu boleh mengadakan peruntukan bagi—
+<!-- marginal: Kaedah- -->
+
+98. Yang di-Pertuan Agong boleh, atas nasihat Majlis,
+
+<!-- marginal: kaedah. -->
+
+melalui pemberitahuan dalam Warta, membuat kaedah- kaedah bagi melaksanakan peruntukan-peruntukan Akta ini, dan khususnya, tetapi tanpa menjejaskan keluasan yang terdahulu, kaedah-kaedah itu boleh mengadakan peruntukan bagi—
 
 (a) prosedur Majlis, bentuk dan cara pe- nyempurnaan suratcara-suratcara oleh Majlis, dan perlantikan pegawai-pegawai bawahan Majlis;
 
@@ -1618,11 +2164,25 @@ dengan menggantikan perkataan-perkataan "112 of this Enactment, erects any mosqu
 
 <!-- page 51 -->
 
-Act Administration of Islamic Law (Federal Territories) Act 1992, erects any building to be used as a mosque, or otherwise applies any building for the purposes of a mosque, or causes or permits any building to be used as a mosque".
+<!-- marginal: Act -->
+
+Administration of Islamic Law (Federal Territories) Act 1992, erects any building to be used as a mosque, or otherwise applies any building for the purposes of a mosque, or causes or permits any building to be used as a mosque".
 
 (2) Seksyen 166 Enakmen adalah dipinda dengan memasukkan selepas sahaja perkataan "Kathi", dengan perkataan-perkataan "or a tauliah granted under section 95(3) of the Administration of Islamic Law (Federal Territories) Act 1992".
 
-Pember- 102. Bahagian I, II, III, IV, V, VIII dan X (kecuali hentian seksyen 52 hingga 93 dan 107 hingga 109) Enakmen pemakaian Enakmen hendaklah terhenti terpakai bagi Wilayah-Wilayah Persekutuan.
+<!-- marginal: Pember- -->
+
+102. Bahagian I, II, III, IV, V, VIII dan X (kecuali
+
+<!-- marginal: hentian -->
+
+seksyen 52 hingga 93 dan 107 hingga 109) Enakmen
+
+<!-- marginal: pemakaian -->
+
+<!-- marginal: Enakmen -->
+
+hendaklah terhenti terpakai bagi Wilayah-Wilayah Persekutuan.
 
 ## JADUAL PERTAMA
 
@@ -1732,11 +2292,25 @@ mendakwa dan didakwa atas nama tersebut, dan, bagi maksud memaju atau menunaikan
 
 <!-- page 53 -->
 
-Meterai 7. (1) Tiap-tiap perbadanan hendaklah mempunyai suatu meterai perbadanan bagi perbadanan, yang hendaklah mengandungi suatu tanda sebagaimana sesuatu perbadanan diluluskan oleh perbadanan itu dengan kelulusan Majlis, dan meterai itu boleh dari semasa ke semasa dipecahkan, ditukar, diubah dan dibuat baharu oleh perbadanan itu dengan kelulusan Majlis.
+<!-- marginal: Meterai -->
+
+7. (1) Tiap-tiap perbadanan hendaklah mempunyai suatu meterai
+
+<!-- marginal: perbadanan bagi -->
+
+perbadanan, yang hendaklah mengandungi suatu tanda sebagaimana
+
+<!-- marginal: sesuatu -->
+
+<!-- marginal: perbadanan -->
+
+diluluskan oleh perbadanan itu dengan kelulusan Majlis, dan meterai itu boleh dari semasa ke semasa dipecahkan, ditukar, diubah dan dibuat baharu oleh perbadanan itu dengan kelulusan Majlis.
 
 (2) Sehingga suatu meterai diadakan oleh sesuatu perbadanan di bawah perenggan ini, suatu cap yang mengandungi nama perbadanan itu bolehlah digunakan sebagai meterai biasa.
 
-(3) Meterai biasa, atau cap yang disebut dalam subperenggan (2), hendaklah berada dalam simpanan orang yang diarahkan oleh perbadanan dan hendaklah disahkan oleh orang itu; dan segala suratikatan, dokumen dan suratcara-suratcara lain yang berupa sebagai dimeterai dengan meterai tersebut, dan yang disahkan seperti yang disebutkan terdahulu hendaklah, sehingga dibuktikan sebaliknya disifatkan sebagai telah disempurnakan dengan sahnya.
+(3) Meterai biasa, atau cap yang disebut dalam subperenggan
+
+(2), hendaklah berada dalam simpanan orang yang diarahkan oleh perbadanan dan hendaklah disahkan oleh orang itu; dan segala suratikatan, dokumen dan suratcara-suratcara lain yang berupa sebagai dimeterai dengan meterai tersebut, dan yang disahkan seperti yang disebutkan terdahulu hendaklah, sehingga dibuktikan sebaliknya disifatkan sebagai telah disempurnakan dengan sahnya.
 
 (4) Apa-apa dokumen atau suratcara yang jika disempurnakan oleh seseorang yang bukan pertubuhan perbadanan, tidak akan dikehendaki supaya dibuat cli bawah meterai, boleh dengan cara yang sama disempurnakan oleh perbadanan.
 
@@ -1756,7 +2330,25 @@ Seksyen 83
 
 ## (WILAYAH-WILAYAH PERSEKUTUAN)
 
-12. Masjid Jamek Tg Abd. 11 Masjid Amannah. Aziz Shah, Sg. Pencala, Kepong, 60000 Kuala Lumpur. 52100 Kuala Lumpur. 14. Masjid Pakistan, 13. Masjid Hidayah, Jalan Raja Muda, Sentul Pasar, 50300 Kuala Lumpur. 51000 Kuala Lumpur. 16 Masjid Salehm, 15. Masjid India. Polis Depoh, Jalan Gurney, Jalan Melayu. 54100 Kuala Lumpur. 50100 KualaLumpur. 18. Masjid Saidina Abu 17. Masjid Jamek Alam Shah, Bakar As Siddiq. Jalan Pasar, Pudu, Bangsar Park. Jalan Maarof, 55100KualaI_Lumpur. 59000 Kuala Lumpur. 20. Masjid Saidina Ali. 19. Masjid Jamiul Ihsan, Padang Balang, Sentul, Pekan Setapak. 51100 Kuala Lumpur. 53000 Kuala Lumpur. 22. Masjid Saidina Omar 21 Masjid Jamek Bandar, Al Khattab, Jalan Tun Perak. Jalan Setia Budi. Bukit 50050 Kuala Lumpur. Damansara, 50490 Kuala Lumpur. 24 Masjid Ubudiah, 23. Masjid Jamek Batu Empat, Segambtl Dalam, Jalan Gombak, 51200KualaLumpur 53000 Kuala Lumpur. 25. Masjid Zubire Al Jarrah, Ibn Awwam, No. 27 Jln. 1/26 Tmn. Batu 3 1/2, Sn Rampai. Setapak Jaya, Jalan Cheras. 53300 Kuala Lumpur. 56100 Kuala Lumpur. 28. Masjid Saidma Othman 27. Masjid Jamek Jalan Ibnu Affan, Haji Salleh, Sentul. Bandar Tun Razak, Cheras, 51100 Kuala Lumpur. 56000 Kuala Lompur. 30. Masjid Taman Tun 29. Masjid Jamek Karnpong Dr. Ismail, Batu. Batu 5, Jalan Ipoh, Jln. Dato' Sulaiman, 55100 Kuala Lumpur. Tmn Tun Dr. Ismail, 60000 Kuala Lumpur. 32. Madrasah Islamiah, 31 Surau Balai Islam, No. 35, Jalan Kuari, Jalan Tim Razak, Bukit A. Kg. Cheras Baru. 50400 Kuala Lumpur. 56100 Kuala Lumpur. 34. Madrasah Ikhlasiah, 33. Madrasah Al-Shukriah Kg. Kerinchi Bukit C2, Kg Pasir Baru, Petalmg. 59200 Kuala Lumpur. 58200 Kuala Lumpur. 36. Madrasah Bengkel Keretapi, 35 Madrasah At-Taqwa, Taman Setapak, Pusat Latihan Keretapi, Jalan Langgak, Sentut, 53000 Kuala Lumpur. 51100 Kuala Lumpur. 37 Madrasah Islamiah, 38. Surau Asyahada', Maktab Tentera DiRaja, Hospital Besar, Kem Sg. Besi, 50586 Kuala Lumpur. 57000 Kuala Lumpur.
+12. Masjid Jamek Tg Abd. 11 Masjid Amannah. Aziz Shah, Sg. Pencala, Kepong, 60000 Kuala Lumpur. 52100 Kuala Lumpur. 14. Masjid Pakistan,
+
+13. Masjid Hidayah, Jalan Raja Muda, Sentul Pasar, 50300 Kuala Lumpur. 51000 Kuala Lumpur. 16 Masjid Salehm,
+
+15. Masjid India. Polis Depoh, Jalan Gurney, Jalan Melayu. 54100 Kuala Lumpur. 50100 KualaLumpur. 18. Masjid Saidina Abu
+
+17. Masjid Jamek Alam Shah, Bakar As Siddiq. Jalan Pasar, Pudu, Bangsar Park. Jalan Maarof, 55100KualaI_Lumpur. 59000 Kuala Lumpur. 20. Masjid Saidina Ali.
+
+19. Masjid Jamiul Ihsan, Padang Balang, Sentul, Pekan Setapak. 51100 Kuala Lumpur. 53000 Kuala Lumpur. 22. Masjid Saidina Omar 21 Masjid Jamek Bandar, Al Khattab, Jalan Tun Perak. Jalan Setia Budi. Bukit 50050 Kuala Lumpur. Damansara, 50490 Kuala Lumpur. 24 Masjid Ubudiah,
+
+23. Masjid Jamek Batu Empat, Segambtl Dalam, Jalan Gombak, 51200KualaLumpur 53000 Kuala Lumpur.
+
+25. Masjid Zubire Al Jarrah, Ibn Awwam, No. 27 Jln. 1/26 Tmn. Batu 3 1/2, Sn Rampai. Setapak Jaya, Jalan Cheras. 53300 Kuala Lumpur. 56100 Kuala Lumpur. 28. Masjid Saidma Othman
+
+27. Masjid Jamek Jalan Ibnu Affan, Haji Salleh, Sentul. Bandar Tun Razak, Cheras, 51100 Kuala Lumpur. 56000 Kuala Lompur. 30. Masjid Taman Tun
+
+29. Masjid Jamek Karnpong Dr. Ismail, Batu. Batu 5, Jalan Ipoh, Jln. Dato' Sulaiman, 55100 Kuala Lumpur. Tmn Tun Dr. Ismail, 60000 Kuala Lumpur. 32. Madrasah Islamiah, 31 Surau Balai Islam, No. 35, Jalan Kuari, Jalan Tim Razak, Bukit A. Kg. Cheras Baru. 50400 Kuala Lumpur. 56100 Kuala Lumpur. 34. Madrasah Ikhlasiah,
+
+33. Madrasah Al-Shukriah Kg. Kerinchi Bukit C2, Kg Pasir Baru, Petalmg. 59200 Kuala Lumpur. 58200 Kuala Lumpur. 36. Madrasah Bengkel Keretapi, 35 Madrasah At-Taqwa, Taman Setapak, Pusat Latihan Keretapi, Jalan Langgak, Sentut, 53000 Kuala Lumpur. 51100 Kuala Lumpur. 37 Madrasah Islamiah, 38. Surau Asyahada', Maktab Tentera DiRaja, Hospital Besar, Kem Sg. Besi, 50586 Kuala Lumpur. 57000 Kuala Lumpur.
 
 <!-- page 55 -->
 

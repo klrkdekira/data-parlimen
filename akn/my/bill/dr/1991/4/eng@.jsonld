@@ -94,7 +94,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/4/eng@/~cl_2",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting, immediately after paragraph (1)(f), a new paragraph (g) as follows: \"(g) an authorised depository agent appointed under section 13 of the Securities Act Industry (Central Depositories) Act 1991.\". 2 BILL Amendment"
+        "@value": "by inserting, immediately after paragraph (1)(f), a new paragraph (g) as follows: \"(g) an authorised depository agent appointed under section 13 of the Securities Act Industry (Central Depositories) Act 1991.\". 2 BILL"
       }
     },
     {
@@ -108,9 +108,9 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/4/eng@/~cl_3__para_d"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/4/eng@",
-      "schema:text": {
+      "schema:name": {
         "@language": "en",
-        "@value": "Section 40 of the principal Act is amended— of section 40."
+        "@value": "Section 40 of the principal Act is amended—"
       }
     },
     {

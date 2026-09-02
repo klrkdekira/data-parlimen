@@ -1,0 +1,864 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-25-2009",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_29"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Labuan Offshore Business Activity Tax (Amendment) Bill 2009"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 6 of the principal Act is amended by substituting for the words \"offshore company\" the words \"Labuan entity\". Amendment of section 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_11__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_11__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 7 of the principal Act is amended-"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words \"an offshore company\", \"an offshore business activity\" and \"an offshore trading activity\" the words \"a Labuan entity\", \"a Labuan business activity\" and \"a Labuan trading activity\" respectively;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words \"An offshore company\" the words \"A Labuan entity\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_11__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the words \"an offshore company\" the words \"a Labuan entity\". Amendment of section 8"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_12__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 8 of the principal Act is amended-"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words \"an offshore company\", \"an offshore business activity\", \"an offshore trading activity\" and \"the offshore company\" the words \"a Labuan entity\", \"a Labuan business activity\", \"a Labuan trading activity\" and \"the Labuan entity\" respectively; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words \"An offshore company\" the words \"A Labuan entity\". Labuan Offshore Business Activity Tax (Amendment) 7 Amendment of section 8A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_13__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 8A of the principal Act is amended-"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words \"an offshore company\" the words \"a Labuan entity\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words \"the offshore company\" the words \"the Labuan entity\". Amendment of section 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_14__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 9 of the principal Act is amended-"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for \"Offshore\" the word \"Labuan\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"an offshore company\", \"an offshore business activity\" and \"an offshore non-trading activity\" the words \"a Labuan entity\", \"a Labuan business activity\" and \"a Labuan non-trading activity\" respectively. Amendment of section 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_15__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 10 of the principal Act is amended-"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the word \"offshore\" the word \"Labuan\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"An offshore company\", \"an offshore business activity\" and \"an offshore non-trading activity\" the words \"A Labuan entity\", \"a Labuan business activity\" and \"a Labuan non-trading activity\" respectively. Amendment of section 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 11 of the principal Act is amended by substituting for the words \"An offshore company\" the words \"A Labuan entity\". Amendment of section 12"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 12 of the principal Act is amended by substituting for the words \"offshore company\" the words \"Labuan entity\". Amendment of section 13"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 13(1) of the principal Act is amended by substituting for the words \"an offshore company\" and \"the offshore company\" the words \"a Labuan entity\" and \"the Labuan entity\" respectively. Amendment of section 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 15 of the principal Act is"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for the words \"An offshore company\" the words \"A Labuan entity\". Amendment of section 16"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Labuan Offshore Business Activity Tax (Amendment) Act 2009."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Amendment of long title"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Labuan Offshore Business Activity Tax Act 1990 [Act 445], which is referred to as the \"principal Act\" in this Act, is amended in the long title by substituting for the words \"offshore business activity carried on by an offshore company\" the words \"a Labuan business activity carried on by a Labuan entity\". Amendment of section 1"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_20__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_20__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 16 of the principal Act is amended-"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "( a ) by substituting for the words \"an offshore company\" the words \"a Labuan entity\"; ( b ) in paragraph (b), by substituting for the word \"Offshore\" the word \"Labuan\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_20__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the word \"and\" at the end of paragraph (f); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_20__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph ( g ) the following paragraphs: \"(h) in the case of a Labuan limited partnership established under the Labuan Limited Partnerships and Limited Liability Partnerships Act 2009 [Act ] or a Labuan Islamic limited partnership established under Part X of the Labuan Islamic Financial Services and Securities Act 2009, the general partner or partners; ( i ) in the case of a Labuan limited liability partnership established under the Labuan Limited Partnerships and Limited Liability Partnerships Act 2009 or a Labuan Islamic limited liability partnership established under Part X of the Labuan Islamic Financial Services and Securities Act 2009, the designated partner or partners; and ( j ) in the case of a Labuan foundation, its officer or officers.\". New sections 17A and 17B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 17 the following sections: \"Power of Director General to issue guidelines 17A. (1) The Director General may, generally in respect of this Act or in respect of any particular provision of this Act, issue guidelines as the Director General deems expedient or necessary to clarify the provisions of this Act or to facilitate compliance of the law or any other matter relating to this Act. (2) The Director General may revoke, revise or amend the whole or any part of any guidelines issued under this section. Advance ruling 17B. (1) Subject to this section or any regulations made under this Act, on the application made by any person, the Director General shall make an advance ruling on the application of any provision of this Act to the person and to the arrangement for which the ruling is sought. (2) An application under subsection (1) shall be made in the form to be made available by the Director General and shall contain particulars as may be required by the Director General. (3) The Director General may at any time withdraw any advance ruling made under subsection (1) by giving a notice in writing of such withdrawal to the person to whom the ruling applies. (4) Notwithstanding any other provisions of this Act, where an advance ruling applies to any person in relation to an arrangement and the person applies the provision in the manner stated in the ruling, the Director General shall apply the provision in relation to the person and that arrangement in accordance with the ruling. (5) An advance ruling on any of the provisions of this Act shall apply to a person in relation to an arrangement if the provision is expressly referred to in the ruling and for the basis period for year of the assessment for which the ruling applies. (6) A ruling made under subsection (1) shall not apply to a person in relation to an arrangement if- ( a ) the arrangement is materially different from the arrangement stated in the ruling; ( b ) there was a material omission or misrepresentation in, or in connection with the application of the ruling; ( c ) the Director General makes an assumption about a future event or another matter that is material to the ruling, and that assumption subsequently proves to be incorrect; or ( d ) the person fails to satisfy any of the conditions stipulated by the Director General.\". Amendment of section 20"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 20 of the principal Act is amended by substituting for the words \"five thousand ringgit\" the words \"one million ringgit\". Labuan Offshore Business Activity Tax (Amendment) 11 Amendment of section 22"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 22 of the principal Act is amended-"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "( a ) by substituting for subsection (1) the following subsection: \"(1) For the purpose of this Act, the Director General may by notice in writing require any person to furnish such information or particulars as may be required by him or for compliance with any double taxation arrangements entered into by the Government of Malaysia.\"; and ( b ) in subsection (2), by substituting for the words \"three thousand ringgit\" the words \"one million ringgit\". New section 22A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 22 the following section: \"Disclosure of information in certain circumstances 22A. (1) Section 20 shall not prevent— ( a ) the disclosure of information in respect of double taxation arrangements to a duly authorised servant or agent of the Government with whom such arrangements have been made where such information is required to be disclosed under such arrangements; and ( b ) the disclosure of information upon a request from any tax authority of any Government of any territory outside Malaysia. (2) For the purpose of subsection (1), a \"double taxation arrangement\" means an arrangement between the Government of Malaysia and the Government of any territory outside Malaysia under section 132 of the Income Tax Act 1967.\". Amendment of section 23"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 23 of the principal Act is amended-"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "( a ) in the national language text, by substituting for the words \"selama tempoh\" the words \"tidak melebihi\"; and ( b ) by substituting for the words \"five thousand ringgit\" the words \"one million ringgit\". Amendment of section 25"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 25 of the principal Act is amended by substituting for the words \"ten thousand ringgit\" the words \"one million ringgit\". Amendment of section 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 26(1) of the principal Act is amended by substituting for the words \"offshore company\" the words \"Labuan entity\". New sections 27 and 28"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 26 the following sections: \"Service of documents 27. Any document, other than a notice of demand issued under section 13, required to be served on a Labuan entity for the purposes of this Act, shall be deemed to be properly served on the Labuan entity by leaving it at, or sending it by post to, the registered office of the Labuan entity. Procedure where none laid down 28. In the event that any act or procedure is required or permitted to be done or taken under this Act and no form is prescribed or procedure laid down either in this Act or the regulations made under this Act, an application may be made to the Director General for directions as to the manner in which the act or procedure may be done or taken, and any act or procedure done or taken in accordance with his directions shall be a valid performance of such act or procedure.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 28 as introduced in section 28 of this Act the following Schedule: \"SCHEDULE [Section 2B] LABUAN ENTITY 1. A Labuan company 2. A Labuan foundation established and registered under the Labuan Foundations Act 2009 [Act ] 3. A Labuan Islamic foundation established and registered under the Labuan Islamic Financial Services and Securities Act 2009 4. A Labuan Islamic partnership as defined in the Labuan Islamic Financial Services and Securities Act 2009 5. A Labuan limited partnership established and registered under the Labuan Limited Partnerships and Limited Liability Partnerships Act 2009 6. A Labuan limited liability partnership established and registered under the Labuan Limited Partnerships and Limited Liability Partnerships Act 2009 7. A Labuan Islamic trust as defined in the Labuan Islamic Financial Services and Securities Act 2009 8. A Labuan trust as defined in the Labuan Trusts Act 1996 [Act 554] 9. A Malaysian Islamic bank licensee as defined in the Labuan Islamic Financial Services and Securities Act 2009 10. A Malaysian bank licensee as defined in the Labuan Financial Services and Securities Act 2009 11. Any Labuan financial institutions as defined in the Labuan Financial Services Authority Act 1996 [Act 545] 12. Any person declared by the Minister to be a Labuan entity under subsection 2B(2)\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_3__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 1(1) of the principal Act is amended by deleting the word \"Offshore\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where, on and after the date of the coming into operation of this Act, a reference is made in any written law to the Labuan Offshore Business Activity Tax Act 1990, such reference shall be construed as a reference to the Labuan Business Activity Tax Act 1990. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 2 of the principal Act is amended-"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_1__para_a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_1__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_1__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)-"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_1__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_1__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of \"domestic company\", by substituting for the word \"Offshore\" the word \"Labuan\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_1__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_1__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"Labuan\" the following definitions: ' \"Labuan business activity\" means a Labuan trading or a Labuan non-trading activity carried on in, from or through Labuan in a currency other than Malaysian currency, by a Labuan entity with non-resident or with another Labuan entity: Provided that-"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_2__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in relation to a Labuan entity carrying on any business under Parts VI and VII of the Labuan Financial Services and Securities Act 2009 [Act ] and under Parts VI and VII of the Labuan Islamic Financial Services Act 2009 [Act ], such activity may be carried on with residents, and where permitted, may be carried on in the Malaysian currency;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in relation to the holding of investments by a Labuan entity in a domestic company, such holding may be with residents and in the Malaysian currency;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "subject to paragraph (f), in relation to the holding of debt obligations by a Labuan entity in a domestic company, such holding may be in the Malaysian currency; Labuan Offshore Business Activity Tax (Amendment) 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in relation to the shipping operations, the operations may be carried out in Labuan or outside Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "subject to paragraph (f), in relation to the carrying on of such activity with the residents under subsection 7(4) of the Labuan Companies Act 1990 [Act 441], such activity may be carried on in the Malaysian currency; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_2__para_f__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_2__para_f__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in relation to the carrying on of any other transactions, such transactions may be carried on with the residents or in the Malaysian currency as approved by the Minister under section 2A of this Act; \"Labuan company\" means a Labuan company incorporated under the Labuan Companies Act 1990, and includes a foreign Labuan company registered under that Act; \"Labuan entity\" means the entity specified in the Schedule; \"Labuan non-trading activity\" means an activity relating to the holding of investments in securities, stock, shares, loans, deposits or any other properties by a Labuan entity on its own behalf; \"Labuan trading activity\" includes banking, insurance, trading, management, licensing, shipping operations or any other activity which is not a Labuan non-trading activity;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_2__para_f__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_2__para_f",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the definitions of \"licensed Malaysian offshore bank\", \"offshore banking business\", \"offshore business activity\", \"offshore company\", \"offshore insurance business\", \"offshore limited partnership\", \"offshore non- trading activity\", \"offshore trading activity\", and \"offshore trust\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_2__para_f__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_2__para_f",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of \"person\", by substituting for the word \"company\" the word \"corporation\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_3",
+      "@type": "akn:list",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (2) the following subsection: \"(2) Where a Labuan entity carries on both a Labuan trading activity and a Labuan non-trading activity, such entity shall be deemed to be carrying on a Labuan trading activity.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_3__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_3__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_3__para_c__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)-"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_3__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_3__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraphs (a) and (d), by substituting for the words \"an offshore business activity\" and \"an offshore company\" the words \"a Labuan business activity\" and \"a Labuan entity\" respectively;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_3__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_3__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the semi-colon at the end of paragraph (a) the word \"and\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_3__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_4__subsec_1__list_3__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting paragraph (c). New sections 2A and 2B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Part I of the principal Act is amended by inserting after section 2 the following sections: \"Designated Labuan business activity 2A. (1) The Minister may, on the recommendation of the Director General, in writing, designate any activity carried on by any Labuan entity to be a Labuan business activity. (2) In designating a Labuan business activity under subsection (1), the Minister may approve the carrying out of such activity with residents or in the Malaysian currency. Labuan entity 2B. (1) The Labuan entities shall be as specified in the Schedule. (2) The Minister may, upon the recommendation of the Director General, by order published in the Gazette, amend the Schedule including for the purposes of declaring any other person as a Labuan entity.\". Labuan Offshore Business Activity Tax (Amendment) 5 Amendment of section 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 3 of the principal Act is amended-"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the word \"Offshore\" the word \"Labuan\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"an offshore company\", \"an offshore business activity\" and \"that offshore business activity\" the words \"a Labuan entity\", \"a Labuan business activity\" and \"that Labuan business activity\" respectively. Amendment of section 3A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 3A of the principal Act is amended-"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the word \"Offshore\" the word \"Labuan\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words \"an offshore company\", \"an offshore business activity\", \"the offshore company\" and \"that offshore business activity\" the words \"a Labuan entity\", \"a Labuan business activity\", \"the Labuan entity\" and \"that Labuan business activity\" respectively. Amendment of section 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_8__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_8__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 4 of the principal Act is amended-"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the word \"Offshore\" the word \"Labuan\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words \"an offshore company\", \"an offshore business activity\" and \"an offshore trading activity\" the words \"a Labuan entity\", \"a Labuan business activity\" and \"a Labuan trading activity\" respectively; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_8__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words \"an offshore company\", \"an offshore business activity\", \"an offshore trading activity\", \"such offshore trading activity\" and \"the offshore company\" the words \"a Labuan entity\", \"a Labuan business activity\", \"a Labuan trading activity\", \"such Labuan trading activity\" and \"the Labuan entity\" respectively. Amendment of section 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 5 of the principal Act is amended by substituting for the words \"An offshore company\", \"an offshore business activity\" and \"an offshore trading activity\" the words \"A Labuan entity\", \"a Labuan business activity\" and \"a Labuan trading activity\" respectively. Amendment of section 6"
+      }
+    }
+  ]
+}

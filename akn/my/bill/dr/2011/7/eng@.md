@@ -156,7 +156,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 “(a) conduct surveys and investigations to ensure compliance with conditions imposed for the grant of licences, permits or incentives in respect of manufacturing and services sectors (excluding financial and utilities);”;
 
-(b) in paragraph (b), by substituting for the words “manufacturing activities or their related services” the words “manufacturing and services sectors (excluding financial and utilities)”; and
+(b) in paragraph (b), by substituting for the words “manufacturing activities or their related services” the words “manufacturing and services sectors (excluding financial and utilities)”;
+
+<!-- marginal: and -->
 
 (c) by inserting after paragraph (b) the following paragraphs:
 

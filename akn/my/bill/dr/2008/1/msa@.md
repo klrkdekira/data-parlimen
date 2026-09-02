@@ -92,15 +92,13 @@ Pesisir Labuan (Pindaan)
 
 <!-- page 4 -->
 
-4 Rang Undang-Undang
+<!-- marginal: 4 -->
+
+Rang Undang-Undang
 
 (e) dengan menggantikan takrif ''pihak berkuasapengawalseliaan tempatan" dengan takrif yang berikut:
 
-'"pihak berkuasa pengawalseliaan
-
-<!-- marginal: tempatan" -->
-
-ertinya mana-mana pihak berkuasa atau badan yang berkaitan di Malaysia atau mana-mana negara lain yang menjalankan fungsi pengawalseliaan ke atas operasi institusi kewangan luar pesisir;'.
+'"pihak berkuasa pengawalseliaan tempatan" ertinya mana-mana pihak berkuasa atau badan yang berkaitan di Malaysia atau mana-mana negara lain yang menjalankan fungsi pengawalseliaan ke atas operasi institusi kewangan luar pesisir;'.
 
 ### Pindaan seksyen 28B
 
@@ -112,15 +110,7 @@ ertinya mana-mana pihak berkuasa atau badan yang berkaitan di Malaysia atau mana
 
 (a) yang berhubungan dengan pengenalan, hal ehwal, akaun atau butir-butir mana-mana orang yang merupakan pelanggan institusi kewangan luar pesisir itu atau mana-mana perbadanan yang berkaitan dengan institusi kewangan luar pesisir itu, atau penama atau benefisiarinya;
 
-(b) yang berhubungan dengan pengenalan, hal ehwal atau butir-butir seseorang pemunya benefisial suatu akaun yang dibuka dengan
-
-<!-- marginal: institusi -->
-
-kewangan luar pesisir itu atau mana-mana perbadanan yang berkaitan dengan
-
-<!-- marginal: institusi -->
-
-kewangan luar pesisir itu, atau yang berhubungan dengan akaun itu; atau
+(b) yang berhubungan dengan pengenalan, hal ehwal atau butir-butir seseorang pemunya benefisial suatu akaun yang dibuka dengan institusi kewangan luar pesisir itu atau mana-mana perbadanan yang berkaitan dengan institusi kewangan luar pesisir itu, atau yang berhubungan dengan akaun itu; atau
 
 (c) yang disifatkan oleh Lembaga sebagai perlu atau suai manfaat bagi pelaksanaan fungsi pengawasan itu.";
 
@@ -142,11 +132,7 @@ Pesisir Labuan (Pindaan)
 
 "(4) Lembaga boleh memaklumkan pihak berkuasa pengawalseliaan tempatan mengenai apa-apa keadaan yang bertentangan dalam institusi kewangan luar pesisir itu jika Lembaga berpuas hati bahawa maklumat itu perlu bagi fungsi pengawasan pihak berkuasa pengawalseliaan tempatan itu.
 
-(5) Walau apa pun subseksyen (2), jika Lembaga mempunyai syak yang munasabah atau berpuas hati, berdasarkan keterangan yang tersedia kepada Lembaga, bahawa fraud, suatu kesalahan pengubahan wang haram, suatu kesalahan membiayai keganasan atau mana-mana kesalahan jenayah telah atau mungkin akan dilakukan oleh mana-mana institusi kewangan
-
-<!-- marginal: luar pesisir -->
-
-atau mana-mana perbadanan yang berkaitan dengan institusi kewangan luar pesisir itu atau mana-mana orang, Lembaga boleh memberikan maklumat tentang pelakuan atau kemungkinan itu, atau menyampaikan mana-mana atau kesemua maklumat yang berhubungan dengan pelakuan atau kemungkinan itu kepada pihak berkuasa pengawalseliaan tempatan atau agensi penguat kuasa undang-undang tempatan."; dan
+(5) Walau apa pun subseksyen (2), jika Lembaga mempunyai syak yang munasabah atau berpuas hati, berdasarkan keterangan yang tersedia kepada Lembaga, bahawa fraud, suatu kesalahan pengubahan wang haram, suatu kesalahan membiayai keganasan atau mana-mana kesalahan jenayah telah atau mungkin akan dilakukan oleh mana-mana institusi kewangan luar pesisir atau mana-mana perbadanan yang berkaitan dengan institusi kewangan luar pesisir itu atau mana-mana orang, Lembaga boleh memberikan maklumat tentang pelakuan atau kemungkinan itu, atau menyampaikan mana-mana atau kesemua maklumat yang berhubungan dengan pelakuan atau kemungkinan itu kepada pihak berkuasa pengawalseliaan tempatan atau agensi penguat kuasa undang-undang tempatan."; dan
 
 (e) dalam subseksyen (6) —
 

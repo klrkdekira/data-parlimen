@@ -1,0 +1,170 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/31/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/31"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-31-1994",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/31/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/31/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/31/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/31/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/31/eng@/~cl_5"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Widows' and Orphans' Pensions (Sabah) (Amendment) Bill 1994"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/31/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/31/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/31/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/31/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/31/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/31/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Widows' and Orphans' Pensions (Sabah) (Amendment) Act 1994."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/31/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/31/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall come into force on such date as the Minister may, by notification in the Gazette, appoint."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/31/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/31/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/31/eng@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/31/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Widows' and Orphans' Pensions Ordinance of"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Sabah, which in this Act is referred to as the \"Ordinance\", is amended in section 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/31/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/31/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the definition of \"actuary\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/31/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/31/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"local Federal officer\" the following definitions: ' \"local pensions authority\" means the Director General of Public Service or any officer authorised by him in writing to act on his behalf; \"Minister\" means the Minister of the Federal Government who is for the time being charged with the responsibility for pensions;'."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/31/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/31/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/31/eng@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/31/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 3 of the Ordinance is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/31/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/31/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (2) the following subsection: \"(2) The Fund shall be administered and controlled by a Board of Management comprising— (a) the local pensions authority, who shall be the Chairman; (b) two officers from the Public Service Department, Malaysia, to be appointed by the Director General of Public Service; (c) one officer from the Chief Minister's Department, to be appointed by the State Secretary; (d) one officer from the State Treasury Department, to be appointed by the head of that Department; (e) the Federal Financial Officer, Sabah, or any officer appointed by him; and (f) at least one member representing the interests of the contributors, to be appointed by the Minister.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/31/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/31/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsections: \"(2A) Members of the Board, other than the Chairman, shall hold office for such period as may be determined by the respective appointing authorities specified in subsection (2). (2B) The Board shall appoint a Secretary who shall assist the Board in the administration of the Fund.\". (AMENDMENT)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/31/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/31/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 7 of the Ordinance is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for the words \"approved by the Minister\" the words \"appointed by the Minister\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/31/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/31/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Ordinance is amended by substituting for"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 32A the following section: \"Revision 32A. The Minister may from time to time, on of rates of the recommendation of the Board, revise the pensions. rates of pensions payable under this Ordinance.\"."
+      }
+    }
+  ]
+}

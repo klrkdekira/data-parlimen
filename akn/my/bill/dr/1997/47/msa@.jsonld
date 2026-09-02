@@ -1,0 +1,148 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-47-1997",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/msa@/~cl_6"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Bil Pertukaran (Pindaan) 1997"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/msa@/~cl_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/msa@/~cl_1__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Bil Pertukaran (Pindaan) 1997."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 3 hendaklah disifatkan telah mula berkuatkuasa pada 1 November 1997."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/msa@/~cl_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 2,4, 5 dan 6 hendaklah mula berkuatkuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Bil Pertukaran 1949, yang dalam Akta ini disebut"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "\"Akta ibu\", adalah dipinda dengan memasukkan selepas seksyen 73 seksyen yang berikut: \"Knowingly 73A. Notwithstanding section 24, where a or signature on a cheque is forged or placed thereon negligently facilitating without the authority of the person whose forgery signature it purports to be, and that person whose signature it purports to be knowingly or 2 Rang Undang-Undang negligently contributes to the forgery or the making of the unauthorized signature, the signature shall operate and shall be deemed to be the signature of the person it purports to be in favour of any person who in good faith pays the cheque or takes the cheque for value.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seksyen 74 seksyen yang berikut: \" Presentment 74A. (1) Notwithstanding section 45, a cheque of cheque is duly presented for payment if the cheque is through presented through a document image processing document image system. processing system. (2) For the purposes of this section, a \"document image processing system\" means a system which permits all forms of documents to be stored, recorded, retrieved, processed or produced by a computer. (3) Where a cheque is presented for payment in accordance with this section, the paying bank may request the collecting bank to— (a) provide it with such further particulars in relation to the cheque as the paying bank deems necessary; and (b) exhibit the cheque or a copy of the cheque.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 80 Akta ibu adalah dipinda dengan memasukkan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "selepas perkataan \"a crossed cheque\" perkataan \"(including a cheque which under section 81A or otherwise is not transferable)\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda di bawah tajuk \"Crossed Cheques\" dengan memasukkan selepas seksyen 81 seksyen yang berikut: \" Non- 8lA. (1) Where a cheque is crossed and bears transferable across its face the words \"account payee\" or cheque. \"a/c payee\", either with or without the word \"only\", the cheque shall not be transferable, but shall only be valid as between the parries thereto. (2) For the purposes of section 80, a banker is not to be treated as having been negligent by reason only of his failure to concern himself with any purported indorsement of a cheque which under subsection (1) or otherwise is not transferable.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Perenggan 85(2)(a) Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memasukkan selepas perkataan \"cheques\" perkataan \"(including cheques which under section 81 A or otherwise are not transferable)\"."
+      }
+    }
+  ]
+}

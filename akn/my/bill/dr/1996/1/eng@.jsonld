@@ -1,0 +1,778 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-1-1996",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "National Council on Higher Education Bill 1996"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "NATIONAL COUNCIL ON HIGHER EDUCATION"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III__cl_20"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "GENERAL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III__cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III__cl_13__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III__cl_13__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III__cl_13__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III__cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council may establish committees as it thinks fit for the purpose of assisting the Council to perform its functions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A committee shall consist pf such number of persons as may be appointed by the Council from among its members."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III__cl_13__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding the provision of subsection (2), the Council may invite any person or a representative of any organization to advise a committee established under subsection (1) in the carrying out of its functions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III__cl_13__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person appointed under subsection (2) or invited to be a member of a committee under subsection (3) may be paid such allowances as may be determined by the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subject to this Act, the Council shall determine its"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "own procedure."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III__cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III__cl_15__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III__cl_15__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III__cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council shall meet as and when required to do so by the Chairman of the Council."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III__cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chairman and four other members of the Council shall form a quorum at any meeting of the Council."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III__cl_15__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If on any question to be determined by the Council there is an equal division of votes, the Chairman or member prosiding shall have a casting vote in addition to his deliberative vote."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III",
+      "schema:name": {
+        "@language": "en",
+        "@value": "If any member of the Council has any beneficial"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "interest in any matter under consideration by the Council he shall forthwith declare to the Chairman or member prosiding the nature and extent of his interest in the matter and the Council shall decide whether or not he may take part in the meeting of the Council when the matter is being considered, notwithstanding his interest in the matter."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council shall cause minutes of all its meetings to be maintained and kept in a proper form."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Council or his representative may be paid such allowances for attending meetings of the Council as the Minister may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purpose of enabling the Council to carry out its functions under this Act, the Minister may, from time to time, make grants-in-aid to the Council of such sums of money as the Minister may determine out of moneys to be prcvided by Parliament."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "There shall be established a Secretariat from the Higher Education Department of the Ministry of Education which shall assist the Council in carrying out its functions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "A member appointed by the Minister under paragraph"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "4(i) may resign as a member of the Council at any time by giving one month's notice in writing to the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Minister may terminate the appointment of any"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "member of the Council appointed under paragraph 4(g), (h) or (i) at any time without assigning any reason therefor."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12__subsec_1__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12__subsec_1__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12__subsec_1__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12__subsec_1__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12__subsec_1__para_k"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The functions of the Council shall be—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to plan, formulate and determine national policies and strategies for the development of higher education;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to co-ordinate the development of higher education;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to promote and facilitate the orderly growth of institutions of higher education;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to determine policies and set criteria for the allocation of funds to higher educational institutions;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to determine policies relating to the entry of students to higher educational institutions;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to determine policies and set guidelines on matters pertaining to the salary structure and personnel management system of Universities and University Colleges established under the Universities and University Colleges Act 1971;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to determine policies and set guidelines on fee structure;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12__subsec_1__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to determine policies and set guidelines on the areas or courses of study to be undertaken by higher educational institutions;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12__subsec_1__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to determine policies and set guidelines on the conduct of any course of study or training programme by higher educational institutions jointly or in association, affiliation, collaboration or otherwise, with any University or institution of higher education or other educational institution or organization within or outside Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12__subsec_1__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to determine policies and set guidelines on the involvement in business activities by Universities in accordance with the powers conferred under the Universities and University Colleges Act 1971; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12__subsec_1__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to take such actions or do such things as it deems fit or necessary to enable it to carry out its functions and powers effectively."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon the formulation or determination by the Council of the national policies, strategies and guidelines in relation to its functions under paragraphs (1)(a) to (k), the Minister shall implement the policies, strategies and guidelines accordingly."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "There shall be established a Council to be known as"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "the \"National Council on Higher Education\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_4__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_4__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_4__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_4__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_4__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_4__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_4__para_i"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council shall consist of the following members:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Minister as Chairman;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Secretary General of the Ministry of Education or his representative;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Director General of Education or his representative; \""
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_4__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Secretary General of the Ministry of Finance or his representative;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_4__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Director General of the Economic Planning Unit of the Prime Minister's Department or his representative;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_4__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Attorney General or his representative;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_4__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "three Vice-Chancellors of any of the Universities and University Colleges established under the Universities ahd University Colleges Act 1971;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_4__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "not more than two persons who are the chief executive officers of any private higher educational institution; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_4__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "not more than three persons who, because of their knowledge and experience, would in the opinion of the Minister be of assistance to the Council."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Secretary General of the Ministry of Education"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall chair the meeting of the Council in the absence of the Chairman or whenever the Chairman is for any reason unable to attend a meeting of the Council."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The appointment of a member of the Council under"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "paragraphs 4(g), (h) and (i) shall be made by the Minister and, subject to sections 7 and 11, shall be for a period not exceeding three years and every member so appointed shall, on ceasing to be a member, be eligible for reappointment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_7__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The following persons shall be disqualified from being"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "appointed or being a member of the Council:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a person who has been convicted of an offence involving fraud, dishonesty or moral turpitude;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a bankrupt; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a person of unsound mind or is otherwise incapable of discharging his duties."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_8__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "A member of the Council appointed under paragraphs"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "4( g ), (h) and (i) shall cease to be a member—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if he fails to attend three consecutive meetings of the Council without leave of the Chairman of the Council; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if his appointment is revoked."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If a vacancy occurs among the members of the Council appointed under paragraph 4(g), (h) or (i), the vacancy shall be filled by a person appointed by the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "This Act may be cited as the National Council on"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Higher Education Act 1996 and shall come into force on such date as the Minister may, by notification in the Gazette, appoint."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_I__cl_2__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_I__cl_2__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "\"Chairman\" means the Chairman of the Natipnal Council on Higher Education; \"chief executive\" means a chief executive of a private higher educational institution registered under the Private Higher Educational Institutions Act 1996; \"Council\" means the National Council on Higher Education established under section 3; \"higher education\" means education provided by a higher educational institution; \"higher educational institution\" means an educational institution whether or not established under any written law and including a private educational institution providing higher education leading to the award of a certificate, diploma, degree or the equivalent thereof; \"member\" means a member of the National Council on Higher Education; \"Minister\" means the Minister responsible for Education; \"student\" means a person receiving education, instruction or training of any description from or in a higher educational institution; \"University\" or \"University College\" means—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_I__cl_2__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_I__cl_2__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_I__cl_2__list_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_I__cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_I__cl_2__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_I__cl_2__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a University or University College established under the Universities and University Colleges Act 1971; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_I__cl_2__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_I__cl_2__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a private higher educational institution with the status of a University or University College, a branch campus thereof and a branch campus of a foreign University or University College, established under the Private Higher Educational Institutions Act 1996; \"Vice-Chancellor\"—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_I__cl_2__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_I__cl_2__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_I__cl_2__list_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_I__cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_I__cl_2__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_I__cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in relation to a University means the Vice- Chancellor, President, Rector or Director of the University and includes any other person, by whatever name called, who has been appointed as the chief executive officer of the University; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_I__cl_2__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/1/eng@/~part_I__cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in relation to a University College shall be read as a reference to the appropriate authority of the University College."
+      }
+    }
+  ]
+}

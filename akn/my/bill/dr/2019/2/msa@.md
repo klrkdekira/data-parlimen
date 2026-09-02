@@ -716,9 +716,7 @@ the licensee of the licensed warehouse, or warehouse or other place approved by 
 
 (4) The certified statement submitted under paragraph (2)(a) shall be submitted electronically unless approved otherwise by the Director General.
 
-(5) Any person who contravenes subsection (1), (2), (3) or
-
-(4) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both.”.
+(5) Any person who contravenes subsection (1), (2), (3) or (4) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both.”.
 
 ### Pindaan seksyen 36
 
@@ -1686,13 +1684,7 @@ the Director General may offset any amount or any part of any amount of drawback
 
 “(d) he may require—
 
-(i) the importer, exporter, manufacturer or person referred
-
-<!-- marginal: t o -->
-
-<!-- marginal: i n -->
-
-paragraph (1)(a);
+(i) the importer, exporter, manufacturer or person referred t o i n paragraph (1)(a);
 
 (ii) the person who has dealings with such importer, exporter, manufacturer or person referred to in paragraph (1)(a); or
 
@@ -1760,9 +1752,7 @@ to answer questions truthfully relating to—
 
 80. Subseksyen 110(1) Akta ibu dipinda—
 
-(a) dengan menggantikan perkataan “A proper officer of customs” dengan perkataan “For the purposes of
-
-## Part IX, a proper officer of customs”; dan
+(a) dengan menggantikan perkataan “A proper officer of customs” dengan perkataan “For the purposes of Part IX, a proper officer of customs”; dan
 
 (b) dengan memotong perkataan “at which the goods produced to an officer of customs under section 80 are deposited”.
 
@@ -2046,9 +2036,7 @@ shall be admissible in evidence in any proceedings against any person for an off
 
 (3) No statement made or document produced by or on behalf of any person shall be inadmissible in evidence against that person in any proceedings against him to which this section applies by reason only that he was or may have been induced to make such statement or produce such document by any inducement or promise lawfully given or made by any person having any official duty under, or being employed in the administration of this Act.
 
-(4) Nothing in this Act shall affect the operation of
-
-## Chapter IX of Part III of the Evidence Act 1950.
+(4) Nothing in this Act shall affect the operation of Chapter IX of Part III of the Evidence Act 1950.
 
 (5) For the purposes of paragraph 135(1)(g) or section 135b or 135c, where in any proceedings it is proved that any false statement or entry has been made in any declaration rendered under this Act by or on behalf of any person, or in any books of account or records of any person—
 
@@ -2080,7 +2068,11 @@ shall be admissible in evidence in any proceedings against any person for an off
 
 “Amount of fine Maximum period
 
-Not exceeding five thousand Two months ringgit
+Not exceeding five thousand
+
+<!-- marginal: Two months -->
+
+ringgit
 
 <!-- page 83 -->
 
@@ -2772,9 +2764,7 @@ Subseksyen 65ac yang dicadangkan bertujuan untuk menghendaki pelesen gudang berl
 
 41. Fasal 41 bertujuan untuk meminda seksyen 65b Akta 235.
 
-Subfasal 41(a) bertujuan untuk meminda subseksyen 65b(1) untuk menjelaskan bahawa syarikat yang terhadapnya resolusi efektif telah diluluskan atau perintah dibuat untuk penggulungan adalah sebuah syarikat yang dilesenkan di bawah
-
-## Bahagian VIII (Pengggudangan) dan bukan hanya pengilang berlesen.
+Subfasal 41(a) bertujuan untuk meminda subseksyen 65b(1) untuk menjelaskan bahawa syarikat yang terhadapnya resolusi efektif telah diluluskan atau perintah dibuat untuk penggulungan adalah sebuah syarikat yang dilesenkan di bawah Bahagian VIII (Pengggudangan) dan bukan hanya pengilang berlesen.
 
 Subfasal 41(b) bertujuan untuk menjadikannya suatu kesalahan bagi mana-mana pelikuidasi yang gagal untuk mengemukakan dokumen, buku dan rekod yang berkaitan yang diperuntukkan di bawah subseksyen 65b(2b) yang dicadangkan. Fasal ini juga bertujuan untuk menaikkan penalti bagi kesalahan kegagalan untuk memberikan notis kepada Ketua Pengarah dan untuk mengenepikan jumlah tersebut daripada aset bagi pembayaran duti kastam di bawah subseksyen 65b(1) dan kesalahan di bawah subseksyen 65b(2b) yang dicadangkan daripada denda tidak melebihi sepuluh ribu ringgit kepada denda tidak melebihi lima puluh ribu ringgit atau pemenjaraan untuk tempoh tidak melebihi tempoh tiga tahun atau kedua-duanya.
 
@@ -2958,11 +2948,7 @@ Subseksyen 107(4) yang dicadangkan bertujuan untuk menjadikannya kesalahan bagi 
 
 73. Fasal 79 bertujuan untuk meminda seksyen 108 Akta 235 untuk memberi pegawai kanan kastam kuasa untuk menjalankan semua kuasa yang disebut dalam seksyen 107 Akta 235 untuk menggeledah pengangkut, premis atau tempat tanpa waran sekiranya terdapat sebab yang munasabah untuk mempercayai bahawa dalam mana-mana pengangkut, premis atau tempat disembunyikan atau diletakkan barang terlarang atau barang menyalahi kastam atau barang yang boleh kena rampas di bawah Akta 235 dan jika dia mempunyai alasan yang munasabah untuk mempercayai bahawa disebabkan kelewatan dalam memperoleh suatu waran geledah barang itu mungkin akan dialihkan.
 
-74. Fasal 80 bertujuan untuk meminda seksyen 110 Akta 235 untuk memberikan pegawai kastam yang hak kuasa untuk menjalankan semua kuasa yang disebut dalam seksyen 107 Akta 235 untuk menggeledah tanpa waran apa-apa vesel, kapal udara, tempat pendaratan, dermaga, jeti, pemasangan pelabuhan atau kereta api atau mana-mana tempat yang barang itu disimpan di bawah
-
-## Bahagian IX (Perisytiharan Barang). Pada masa kini kuasa ini hanya boleh
-
-dilaksanakan ke atas barang yang dikemukakan kepada pegawai kastam di bawah seksyen 80 Akta 235.
+74. Fasal 80 bertujuan untuk meminda seksyen 110 Akta 235 untuk memberikan pegawai kastam yang hak kuasa untuk menjalankan semua kuasa yang disebut dalam seksyen 107 Akta 235 untuk menggeledah tanpa waran apa-apa vesel, kapal udara, tempat pendaratan, dermaga, jeti, pemasangan pelabuhan atau kereta api atau mana-mana tempat yang barang itu disimpan di bawah Bahagian IX (Perisytiharan Barang). Pada masa kini kuasa ini hanya boleh dilaksanakan ke atas barang yang dikemukakan kepada pegawai kastam di bawah seksyen 80 Akta 235.
 
 75. Fasal 81 bertujuan untuk meminda seksyen 111a Akta 235.
 

@@ -12,7 +12,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Tajuk ringkas dan permulaan kuat kuasa
 
-1. (1) Akta ini bolehlah dinamakan Akta Bahan Letupan (Pindaan) 2007.
+1. (1) Akta ini bolehlah dinamakan Akta Bahan Letupan (Pindaan)
+
+2007.
 
 (2) Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta, dan Menteri boleh menetapkan tarikh yang berlainan .bagi permulaan kuat kuasa peruntukan yang berlainan Akta ini.
 
@@ -108,7 +110,9 @@ dan
 
 (iv) dalam perenggan (b), dengan menggantikan perkataan "ten" dengan perkataan "fifty";
 
-(e) dalam subseksyen (4) — (i) dengan memasukkan selepas perkataan "import" perkataan "or export"; dan (ii) dengan memasukkan selepas perkataan "imported" perkataan "or exported"; dan
+(e) dalam subseksyen (4) — (i) dengan memasukkan selepas perkataan "import" perkataan "or export"; dan
+
+(ii) dengan memasukkan selepas perkataan "imported" perkataan "or exported"; dan
 
 <!-- page 5 -->
 
@@ -264,13 +268,17 @@ Pindaan seksyen 28
 
 ## TABLE
 
-(1) (2) (3) (4)
+(1) (2) (3)
+
+<!-- marginal: (4) -->
 
 Molecular Name of detection agent Mo lecular formula Minimum concentration weight C2H4(NO3) 2 Ethylene glycol dinitrate 152 0.2% by mass
 
-(EGDN) C6H12 (NO2)2 2,3-Dimethyl-2,3-dinitrobutane 176 0.1 % by mass
+## (EGDN)
 
-(DMNB)
+C6H12 (NO2)2 2,3-Dimethyl-2,3-dinitrobutane 176 0.1 % by mass
+
+## (DMNB)
 
 ## C7H7NO2
 

@@ -24,105 +24,143 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ## JADUAL
 
-Maksud Tajuk
+<!-- marginal: Maksud -->
+
+Tajuk
 
 <!-- marginal: Amaun -->
 
 <!-- marginal: (RM) -->
 
-B. 1 Parlimen
+<!-- marginal: B. 1 -->
+
+Parlimen
 
 <!-- marginal: 14,691,200 -->
 
-B. 4 Suruhanjaya Pilihan Raya
+<!-- marginal: B. 4 -->
+
+Suruhanjaya Pilihan Raya
 
 <!-- marginal: 4,636,900 -->
 
-B. 5 Suruhanjaya Perkhidmatan Awam
+<!-- marginal: B. 5 -->
+
+Suruhanjaya Perkhidmatan Awam
 
 <!-- marginal: 412,300 -->
 
-B. 6 Jabatan Perdana Menteri
+<!-- marginal: B. 6 -->
 
-<!-- marginal: 285,790,000 -->
+Jabatan Perdana Menteri 285,790,000
 
-B. 7 Jabatan Perkhidmatan Awam
+<!-- marginal: B. 7 -->
 
-<!-- marginal: 592,345,100 -->
+Jabatan Perkhidmatan Awam 592,345,100
 
-B. 8 Jabatan Peguam Negara
+<!-- marginal: B. 8 -->
+
+Jabatan Peguam Negara
 
 <!-- marginal: 23,956,100 -->
 
-B. 9 Suruhanjaya Pencegahan Rasuah Malaysia
+<!-- marginal: B. 9 -->
+
+Suruhanjaya Pencegahan Rasuah Malaysia
 
 <!-- marginal: 1,215,300 -->
 
-B. 12 Peruntukan kepada Kumpulan Wang Terkanun
+<!-- marginal: B. 12 -->
 
-<!-- marginal: 8,020,353,100 -->
+Peruntukan kepada Kumpulan Wang Terkanun 8,020,353,100
 
-B. 20 Kementerian Perusahaan Perladangan dan
+<!-- marginal: B. 20 -->
 
-<!-- marginal: 324,000,000 -->
+Kementerian Perusahaan Perladangan dan 324,000,000 Komoditi
 
-Komoditi B. 21 Kementerian Pertanian dan Industri Asas Tani
+<!-- marginal: B. 21 -->
+
+Kementerian Pertanian dan Industri Asas Tani
 
 <!-- marginal: 11,940,000 -->
 
-B. 22 Kementerian Kemajuan Luar Bandar dan
+<!-- marginal: B. 22 -->
+
+Kementerian Kemajuan Luar Bandar dan
 
 <!-- marginal: 20,998,000 -->
 
-Wilayah B. 24 Kementerian Perdagangan Antarabangsa dan
+Wilayah
+
+<!-- marginal: B. 24 -->
+
+Kementerian Perdagangan Antarabangsa dan
 
 <!-- marginal: 5,700,000 -->
 
-Industri B. 25 Kementerian Perdagangan Dalam Negeri, Koperasi
+Industri
 
-<!-- marginal: 356,690,000 -->
+<!-- marginal: B. 25 -->
 
-dan Kepenggunaan B. 28 Kementerian Pengangkutan
+Kementerian Perdagangan Dalam Negeri, Koperasi 356,690,000 dan Kepenggunaan
+
+<!-- marginal: B. 28 -->
+
+Kementerian Pengangkutan
 
 <!-- marginal: 87,349,000 -->
 
-B. 30 Kementerian Sains, Teknologi dan Inovasi
+<!-- marginal: B. 30 -->
+
+Kementerian Sains, Teknologi dan Inovasi
 
 <!-- marginal: 43,040,000 -->
 
-B. 32 Kementerian Wilayah Persekutuan dan
+<!-- marginal: B. 32 -->
+
+Kementerian Wilayah Persekutuan dan
 
 <!-- marginal: 20,000,000 -->
 
-Kesejahteraan Bandar B. 41 Kementerian Pelajaran
+Kesejahteraan Bandar
 
-<!-- marginal: 1,759,019,400 -->
+<!-- marginal: B. 41 -->
 
-B. 42 Kementerian Kesihatan
+Kementerian Pelajaran 1,759,019,400
 
-<!-- marginal: 1,007,900,000 -->
+<!-- marginal: B. 42 -->
 
-B. 45 Kementerian Belia dan Sukan
+Kementerian Kesihatan 1,007,900,000
+
+<!-- marginal: B. 45 -->
+
+Kementerian Belia dan Sukan
 
 <!-- marginal: 10,000,000 -->
 
-B. 47 Kementerian Penerangan, Komunikasi dan
+<!-- marginal: B. 47 -->
+
+Kementerian Penerangan, Komunikasi dan
 
 <!-- marginal: 5,000,000 -->
 
-Kebudayaan B. 49 Kementerian Pengajian Tinggi
+Kebudayaan
+
+<!-- marginal: B. 49 -->
+
+Kementerian Pengajian Tinggi
 
 <!-- marginal: 35,000,000 -->
 
-B. 60 Kementerian Pertahanan
+<!-- marginal: B. 60 -->
+
+Kementerian Pertahanan
 
 <!-- marginal: 47,710,200 -->
 
-B. 62 Kementerian Dalam Negeri
+<!-- marginal: B. 62 -->
 
-<!-- marginal: 493,251,000 -->
-
-JUMLAH 13,170,997,600
+Kementerian Dalam Negeri 493,251,000 JUMLAH 13,170,997,600
 
 <!-- page 3 -->
 

@@ -1,0 +1,629 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-44-2017",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_13"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Tourism Industry (Amendment) Bill 2017"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 34 of the principal Act is amended by inserting after subsection (2) the following subsection: “(3) Any regulations made under this section may prescribe any act in contravention of the regulations to be an offence and may prescribe penalties of a fine not exceeding one hundred thousand ringgit or imprisonment for a term not exceeding five years or both for such offence.”. Amendment of section 37"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 37 of the principal Act is amended by substituting for the words “five thousand” the words “fifty thousand”. Amendment of section 39"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 39(1) of the principal Act is amended by inserting after the words “The Commissioner may” the words “, with the written consent of the Public Prosecutor,”. Substitution of section 49"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 49 the following section: “Prosecution 49. No prosecution in respect of an offence under this Act shall be instituted except by, or with the written consent of, the Public Prosecutor.”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Tourism Industry (Amendment) Act 2017."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Tourism Industry Act 1992 [Act 482], which is referred to as the “principal Act” in this Act, is amended in section 2, in the definition of “accommodation premises”, by substituting for the words “and lodging houses,” the words “, lodging houses, and other structures whether permanent or temporary,”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 5(3) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “fifty thousand” the words “five hundred thousand”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “five years” the words “ten years”. Amendment of section 8"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_i"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 8 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the word “Revocation” the words “Suspension or revocation”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by inserting after the words “The Commissioner may” the words “suspend or”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “Before” the words “ suspending or”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “be” the words “suspended or”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by inserting after the word “to” the words “suspend or”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_e__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_e__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_e__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_e__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “revocation” the words “suspension or revocation”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_e__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_e__subpara_ii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_e__subpara_ii__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_e__subpara_ii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_e__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “against such” the words “suspension or”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_e__subpara_ii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_e__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “notice of” the words “suspension or notice of”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_e__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_e__subpara_iii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_e__subpara_iii__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_e__subpara_iii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_e__subpara_iii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “against such” the words “suspension or”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_e__subpara_iii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_e__subpara_iii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “when the” the words “suspension or”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_f__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_f__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_f__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (5)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_f__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_f",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “against the” the words “suspension or”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_f__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_f",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “licence has been so” the words “suspended or”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_f__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_f",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “and the” the words “suspension or”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_g__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_g__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_g__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (7)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_g__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_g",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “Where the” the words “suspension or”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_g__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_g",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “such” the words “suspension or”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_g__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_g",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “newspaper” the words “or electronic media, as the Commissioner deems fit,”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (8)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_i__subpara_ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “notice of” the words “suspension or notice of”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_i__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_4__para_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “validity of the” the words “suspension or”. Amendment of section 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 9(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by substituting for the words “the revocation” the words “the suspension or revocation”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “notice of refusal” the words “, suspension”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 10 of the principal Act is amended by deleting subsection (3). Amendment of section 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_7__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 11 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by inserting after the words “Effect of” the words “suspension,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: “(1 a) Where the suspension of a license under section 8 has taken effect, the licensed tourism enterprise shall not transact any new business during the suspension period.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_7__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_7__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_7__para_c__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_7__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_7__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “subsection (1)” the words “or (1a);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_7__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_7__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “fifty thousand” the words “five hundred thousand”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_7__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_7__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “five years” the words “ten years”. Amendment of section 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 15(3) of the principal Act is amended by substituting for the words “twenty thousand” the words “fifty thousand”. Amendment of section 32"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_9__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 32 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (3); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (4) the following subsection: “(5) Any person who contravenes subsection (1) shall be guilty of an offence under this Act.”."
+      }
+    }
+  ]
+}

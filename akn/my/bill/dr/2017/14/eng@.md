@@ -4,9 +4,9 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
-PrELIMINarY
+## PRELIMINARY
 
 1. Short title and commencement
 
@@ -14,7 +14,7 @@ PrELIMINarY
 
 3. Interpretation
 
-## Part II
+## PART II
 
 ## ADMINISTRATION OF SELF-EMPLOYMENT SOCIAL SECURITY SCHEME
 
@@ -26,7 +26,7 @@ PrELIMINarY
 
 7. Exercise of powers and functions of Organization
 
-## Part III
+## PART III
 
 ## COMMITTEES
 
@@ -34,7 +34,7 @@ PrELIMINarY
 
 9. Self-Employment Social Security Committee
 
-## Part IV
+## PART IV
 
 ## IMPLEMENTATION, REGISTRATION AND CONTRIBUTION
 
@@ -50,7 +50,7 @@ PrELIMINarY
 
 <!-- page 2 -->
 
-## Part V
+## PART V
 
 ## BENEFITS
 
@@ -104,7 +104,7 @@ PrELIMINarY
 
 <!-- page 3 -->
 
-## Part VI
+## PART VI
 
 ## DETERMINATION, REVIEW AND APPEAL
 
@@ -120,7 +120,7 @@ PrELIMINarY
 
 44. Review of dependants’ benefit
 
-## Part VII
+## PART VII
 
 ## FINANCIAL PROVISIONS
 
@@ -176,7 +176,7 @@ PrELIMINarY
 
 67. Stay of payment pending appeal
 
-## Part IX
+## PART IX
 
 ## ENFORCEMENT AND INVESTIGATION
 
@@ -186,7 +186,7 @@ PrELIMINarY
 
 70. Obstructing, etc., Director General, Deputy Directors General or Inspector
 
-## Part X
+## PART X
 
 ## OFFENCES AND PENALTIES
 
@@ -200,7 +200,7 @@ PrELIMINarY
 
 75. Compounding of offences
 
-## Part XI
+## PART XI
 
 ## GENERAL
 
@@ -234,9 +234,9 @@ PrELIMINarY
 
 89. Power to co-operate with existing institutions or promote measures for health, welfare, etc., of self-employed insured persons
 
-## FIrst schEduLE
+## FIRST SCHEDULE
 
-## sEcoNd schEduLE
+## SECOND SCHEDULE
 
 <!-- page 7 -->
 
@@ -248,7 +248,7 @@ An Act to provide for the social security for self-employed person and for matte
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -340,7 +340,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 11 -->
 
-## Part II
+## PART II
 
 ## ADMINISTRATION OF SELF-EMPLOYMENT SOCIAL SECURITY
 
@@ -384,7 +384,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (2) Notwithstanding subsection (1), the Director General may, in writing, delegate any of his power and function subject to such terms and restrictions as he thinks fit, to the Deputy Directors General, Inspector, or officers and servants of the Organization for the purpose of this Act.
 
-## Part III
+## PART III
 
 ## COMMITTEES
 
@@ -458,7 +458,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 15 -->
 
-## Part IV
+## PART IV
 
 ## IMPLEMENTATION, REGISTRATION AND CONTRIBUTION
 
@@ -504,7 +504,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 17 -->
 
-## Part V
+## PART V
 
 ## BENEFITS
 
@@ -724,7 +724,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 38. Except for the invalidity pension or survivors’ pension payable under the Employees’ Social Security Act 1969, a self-employed insured person or a dependant, as the case may be, shall not be entitled to both benefit under the Employees’ Social Security Act 1969 and this Act, for the same period and in respect of the same disablement.
 
-## Part VI
+## PART VI
 
 ## DETERMINATION, REVIEW AND APPEAL
 
@@ -810,7 +810,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (2) Subject to this Act, the Organization may, on such review as mentioned in subsection (1), direct that the dependants’ benefit be continued, increased, reduced or discontinued.
 
-## Part VII
+## PART VII
 
 ## FINANCIAL PROVISIONS
 
@@ -1128,7 +1128,7 @@ claims the benefit as prescribed within a period of twelve months after the clai
 
 67. Where the Organization has brought an appeal against an order of the Tribunal, the Tribunal may, and if directed by the High Court shall, pending the decision of the appeal, withhold the order appealed against relating to the payment of any sum of money.
 
-## Part IX
+## PART IX
 
 ## ENFORCEMENT AND INVESTIGATION
 
@@ -1170,7 +1170,7 @@ claims the benefit as prescribed within a period of twelve months after the clai
 
 commits an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding two years or to both.
 
-## Part X
+## PART X
 
 ## OFFENCES AND PENALTIES
 
@@ -1230,7 +1230,7 @@ commits an offence and shall, on conviction, be liable to imprisonment for a ter
 
 (5) All sums of moneys received by the Director General under this section shall be paid into and form part of the Federal Consolidated Fund.
 
-## Part XI
+## PART XI
 
 ## GENERAL
 
@@ -1396,7 +1396,7 @@ from any of the provisions of this Act or any regulations made under this Act.
 
 (3) The measures under subsection (1) may include provision of artificial limbs and appliances, opportunities for gainful employment under suitable conditions and convalescent homes.
 
-## FIrst schEduLE
+## FIRST SCHEDULE
 
 [Section 2]
 
@@ -1418,7 +1418,7 @@ from any of the provisions of this Act or any regulations made under this Act.
 
 “public service vehicle” has the meaning assigned to it in the Land Public Transport Act 2010 [Act 715].
 
-## sEcoNd schEduLE
+## SECOND SCHEDULE
 
 [Sections 11, 17, 18 and 19]
 
@@ -1594,7 +1594,7 @@ In case the deceased self-employed insured person does not leave a widow or wido
 
 The proposed Self-Employment Social Security Act 2017 (“the proposed Act”) seeks to provide for social security for self-employed persons and for matters connected therewith. At present, the existing social security is administered by the Social Security Board under the Employees’ Social Security Act 1969 [Act 4] involving only for an employee whose contributions shall be paid by both the employer and employee. Under the proposed Act, the contributions shall be paid only by the self-employed person within the meaning of the proposed Act.
 
-## Part I
+## PART I
 
 1. Part I of the proposed Act deals with preliminary matters.
 
@@ -1604,7 +1604,7 @@ The proposed Self-Employment Social Security Act 2017 (“the proposed Act”) s
 
 4. Clause 3 contains the definitions of the words and expressions used in the proposed Act.
 
-## Part II
+## PART II
 
 5. Part II of the proposed Act deals with the provisions relating to the administration of the Self-Employment Social Security.
 
@@ -1618,7 +1618,7 @@ The proposed Self-Employment Social Security Act 2017 (“the proposed Act”) s
 
 9. Clause 7 empowers the Organization to delegate its powers and functions to be exercised by the Director General who may subdelegate his powers and functions to the Deputy Directors General, Inspector, or officers and servants of the Organization.
 
-## Part III
+## PART III
 
 10. Part III of the proposed Act deals with the provision relating to committee.
 
@@ -1626,7 +1626,7 @@ The proposed Self-Employment Social Security Act 2017 (“the proposed Act”) s
 
 12. Clause 9 seeks to provide for the establishment of the Self-Employment Social Security Committee.
 
-## Part IV
+## PART IV
 
 13. Part IV of the proposed Act deals with the provisions relating to the implementation, registration and contribution.
 
@@ -1642,7 +1642,7 @@ The proposed Self-Employment Social Security Act 2017 (“the proposed Act”) s
 
 18. Clause 14 empowers the Organization to determine whether any activity carried out by any person to which the proposed Act applies is a self-employment activity.
 
-## Part V
+## PART V
 
 19. Part V of the proposed Act deals with the provisions of benefit payable under the proposed Act and the entitlement of a person to the benefit.
 
@@ -1698,7 +1698,7 @@ The proposed Self-Employment Social Security Act 2017 (“the proposed Act”) s
 
 43. Clause 38 deals with a situation whereby a person is entitled to both benefit under the Employees’ Social Security Act 1969 and any benefit under the proposed Act for the same period which he only entitled to only benefit for the same period and in respect of the same disablement except for invalidity pension or survivors’ pension payable under the Employees’ Social Security Act 1969.
 
-## Part VI
+## PART VI
 
 44. Part VI of the proposed Act deals with the determination of question of permanent disablement and occupational disease by a medical assessor and provisions on review and appeal by a medical assessor and the Appellate Medical Board.
 
@@ -1714,7 +1714,7 @@ The proposed Self-Employment Social Security Act 2017 (“the proposed Act”) s
 
 50. Clause 44 seeks to provide that a dependants’ benefit may be reviewed at any time by the Organization if there is a fresh evidence that the decision was given in consequence of non-disclosure or misrepresentation or the decision is no longer in accordance with the proposed Act due to any change of circumstances.
 
-## Part VII
+## PART VII
 
 51. Part VII of the proposed Act deals with the financial provisions.
 
@@ -1772,7 +1772,7 @@ The proposed Self-Employment Social Security Act 2017 (“the proposed Act”) s
 
 75. Clause 67 empowers the Tribunal to withhold the order appealed against relating to the payment of any sum pending appeal in the High Court.
 
-## Part IX
+## PART IX
 
 76. Part IX of the proposed Act deals with the provisions relating to enforcement and investigation.
 
@@ -1784,7 +1784,7 @@ The proposed Self-Employment Social Security Act 2017 (“the proposed Act”) s
 
 79. Clause 70 seeks to provide that any person who fails to comply with any direction or instruction given by, or in any way assaults, hinders or obstructs, the Director General, Deputy Directors General or Inspector while exercising their powers commits an offence.
 
-## Part X
+## PART X
 
 80. Part X of the proposed Act deals with the provision relating to offences and penalties.
 
@@ -1800,7 +1800,7 @@ The proposed Self-Employment Social Security Act 2017 (“the proposed Act”) s
 
 <!-- page 66 -->
 
-## Part XI
+## PART XI
 
 86. Part XI of the proposed Act contains general provisions.
 

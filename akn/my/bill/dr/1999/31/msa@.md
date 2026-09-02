@@ -128,15 +128,21 @@ Pindaan seksyen 77
 
 9. Akta ibu dipinda dengan memasukkan selepas seksyen 103 seksyen yang berikut:
 
-"payment 103A. (1) This section shall apply only to companies. of tax by
+<!-- marginal: "payment -->
 
-### compames.
+103A. (1) This section shall apply only to companies.
+
+<!-- marginal: of tax by -->
+
+<!-- marginal: compames. -->
 
 (2) Except as provided in subsection (3), tax payable under an assessment for a year of assessment shall be due and payable on the due date whether or not that company appeals against the assessment.
 
 (3) Where an assessment is made under section 91, 92 or 96A, or where an assessment is increased under section 101(2), the tax payable under the assessment or increased assessment shall be due and payable on the service of the notice of assessment or composite assessment or increased assessment, as the case may be, on the company assessed whether or not that company appeals against the assessment or increased assessment.
 
-(4) Where any tax due and payable under subsection (2) has not been paid by the due date, so much of the tax as is unpaid upon the expiration of that date shall without any further notice being served be increased by a sum equal to ten per cent of the tax so unpaid, and that sum shall be recoverable as if it were tax due and payable under this Act.
+(4) Where any tax due and payable under subsection
+
+(2) has not been paid by the due date, so much of the tax as is unpaid upon the expiration of that date shall without any further notice being served be increased by a sum equal to ten per cent of the tax so unpaid, and that sum shall be recoverable as if it were tax due and payable under this Act.
 
 (5) Where the tax due and payable has been increased under subsection (4), any balance remaining unpaid upon the expiration of sixty days from the due date shall without any further notice being served be further increased by a sum equal to five per cent of the balance unpaid, and that sum shall be recoverable as if it were tax due and payable under this Act.
 
@@ -196,7 +202,9 @@ no revised estimate is furnished, the estimate of tax payable for the immediatel
 
 (b) where the amount of instalments that have been paid for that year exceeds the revised estimate, the remaining instalments shall cease immediately.
 
-(8) Notwithstanding subsections (1), (3), (5), (6) and (7), the Director General may direct any company to make payment by instalments on account of tax which is or may be payable by that company for a year of assessment at such times and in such amounts as the Director General may direct.
+(8) Notwithstanding subsections (1), (3), (5), (6) and
+
+(7), the Director General may direct any company to make payment by instalments on account of tax which is or may be payable by that company for a year of assessment at such times and in such amounts as the Director General may direct.
 
 (9) Where any instalment amount due and payable has not been paid by the due date or on the date specified by the Director General, the amount unpaid shall, without any further notice being served, be increased by a sum equal to ten per cent of the amount unpaid, and that sum shall be recoverable as if it were tax due and payable under this Act.
 
@@ -256,11 +264,7 @@ perenggan (d);
 
 (iii) dengan memasukkan selepas perenggan (e) perenggan yang berikut:
 
-"(f) fails to furnish an estimate in accordance with section 107c(2),
-
-<!-- marginal: 107c(3) or -->
-
-107c(4)(a),"; dan
+"(f) fails to furnish an estimate in accordance with section 107c(2), 107c(3) or 107c(4)(a),"; dan
 
 (c) dengan memasukkan selepas subseksyen (1) subseksyen yang berikut:
 
@@ -320,4 +324,6 @@ Kecuali bagi subseksyen 107c(3), pindaan ini akan berkuat kuasa dari tahun taksi
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN(U2)2154]
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
+
+<!-- marginal: [PN(U2)2154] -->

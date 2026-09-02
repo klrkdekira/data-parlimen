@@ -111,7 +111,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/33/eng@/~cl_3",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after the words \"the Banking and Financial Institutions Act 1989\" the words \"and the Money-Changing Act 1997,\". 2 Bill Amendment"
+        "@value": "by inserting after the words \"the Banking and Financial Institutions Act 1989\" the words \"and the Money-Changing Act 1997,\". 2 Bill"
       }
     },
     {
@@ -123,9 +123,9 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/33/eng@/~cl_4__para_b"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/33/eng@",
-      "schema:text": {
+      "schema:name": {
         "@language": "en",
-        "@value": "Paragraph 34( 1)(b) of the principal Act is amended— of section 34."
+        "@value": "Paragraph 34( 1)(b) of the principal Act is amended—"
       }
     },
     {
@@ -145,7 +145,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/33/eng@/~cl_4",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after the words \"Banking and Financial Institutions Act 1989\" the words \"and the Money-Changing Act 1997\". Amendment"
+        "@value": "by inserting after the words \"Banking and Financial Institutions Act 1989\" the words \"and the Money-Changing Act 1997\"."
       }
     },
     {
@@ -159,7 +159,11 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/33/eng@",
       "schema:name": {
         "@language": "en",
-        "@value": "Subparagraph 37(l)(e)(ii) of the principal Act is of section 37. amended—"
+        "@value": "Subparagraph 37(l)(e)(ii) of the principal Act is"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "amended—"
       }
     },
     {

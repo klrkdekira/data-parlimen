@@ -40,9 +40,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ### Saving
 
-6.
-
-(1) Any member appointed or elected as an office-bearer in a youth society who has attained the age of thirty years or has exceeded the age of thirty years before the date of coming into operation of this Act shall, on or after the date of coming into operation of this Act, be permitted to hold office until the end of his term.
+6. (1) Any member appointed or elected as an office-bearer in a youth society who has attained the age of thirty years or has exceeded the age of thirty years before the date of coming into operation of this Act shall, on or after the date of coming into operation of this Act, be permitted to hold office until the end of his term.
 
 (2) Any procedure relating to the cancellation of registration of any registered youth society which is pending or commenced before the date of coming into operation of this Act shall, after
 

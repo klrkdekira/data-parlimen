@@ -18,17 +18,35 @@
 
 ## LEMBAGA BIOKESELAMATAN KEBANGSAAN
 
-4. Penubuhan Lembaga Biokeselamatan Kebangsaan 5. Fungsi Lembaga 6. Penubuhan Jawatankuasa Penasihat Pengubahsuaian Genetik 7. Lembaga dan Jawatankuasa Penasihat boleh menubuhkan jawatankuasa dan jawatankuasa kecil 8. Pelantikan Ketua Pengarah dan pegawai lain 9. Pewakilan fungsi Lembaga 10. Kuasa Menteri untuk memberikan arahan
+4. Penubuhan Lembaga Biokeselamatan Kebangsaan 5. Fungsi Lembaga 6. Penubuhan Jawatankuasa Penasihat Pengubahsuaian Genetik 7. Lembaga dan Jawatankuasa Penasihat boleh menubuhkan jawatankuasa dan jawatankuasa kecil 8. Pelantikan Ketua Pengarah dan pegawai lain 9. Pewakilan fungsi Lembaga
+
+10. Kuasa Menteri untuk memberikan arahan
 
 ## BAHAGIAN III
 
 ## KELULUSAN BAGI PELEPASAN DAN IMPORT
 
-11. Pemakaian Bahagian III 12. Kehendak bagi mendapatkan kelulusan 13. Permohonan bagi mendapatkan kelulusan 14. Ketua Pengarah hendaklah merujuk permohonan kepada Jawatankuasa Penasihat, dsb. 15. Jawatankuasa Penasihat hendaklah membuat syor tentang permohonan bagi mendapatkan kelulusan
+11. Pemakaian Bahagian III
+
+12. Kehendak bagi mendapatkan kelulusan
+
+13. Permohonan bagi mendapatkan kelulusan
+
+14. Ketua Pengarah hendaklah merujuk permohonan kepada Jawatankuasa Penasihat, dsb.
+
+15. Jawatankuasa Penasihat hendaklah membuat syor tentang permohonan bagi mendapatkan kelulusan
 
 <!-- page 2 -->
 
-16. Kelulusan bagi pelepasan dan import 17. Kelulusan adalah sah bagi pelepasan dan import yang berikutnya 18. Kajian semula kelulusan apabila mendapat maklumat baru 19. Hal keadaan yang Lembaga boleh membuat perintah selanjutnya apabila diluluskan 20. Rayuan kepada Menteri yang berhubungan dengan kelulusan
+16. Kelulusan bagi pelepasan dan import
+
+17. Kelulusan adalah sah bagi pelepasan dan import yang berikutnya
+
+18. Kajian semula kelulusan apabila mendapat maklumat baru
+
+19. Hal keadaan yang Lembaga boleh membuat perintah selanjutnya apabila diluluskan
+
+20. Rayuan kepada Menteri yang berhubungan dengan kelulusan
 
 ## BAHAGIAN IV
 
@@ -36,7 +54,35 @@
 
 ## IMPORT BAGI KEGUNAAN TERKAWAL
 
-21. Pemakaian Bahagian IV 22. Kehendak bagi pemberitahuan 23. Pematuhan kehendak negara pengimport 24. Pengemukaan pemberitahuan 25. Pengakuterimaan pengemukaan pemberitahuan oleh Ketua Pengarah 26. Langkah-langkah khusus yang hendaklah diambil dalam kegunaan terkawal 27. Ketua Pengarah boleh menghendaki maklumat tambahan 28. Ketua Pengarah hendaklah merujuk pemberitahuan kepada Jawatankuasa Penasihat dan agensi yang berkaitan 29. Jawatankuasa Penasihat hendaklah membuat syor tentang pemberitahuan 30. Lembaga hendaklah membuat perintah yang sesuai tentang pemberitahuan 31. Lembaga boleh menghendaki maklumat tambahan 32. Kajian semula pemberitahuan apabila mendapat maklumat baru 33. Hal keadaan yang Lembaga boleh membuat perintah selanjutnya tentang pemberitahuan 34. Rayuan kepada Menteri yang berhubungan dengan pemberitahuan 35. Pembuatan keputusan oleh Lembaga atau Menteri
+21. Pemakaian Bahagian IV
+
+22. Kehendak bagi pemberitahuan
+
+23. Pematuhan kehendak negara pengimport
+
+24. Pengemukaan pemberitahuan
+
+25. Pengakuterimaan pengemukaan pemberitahuan oleh Ketua Pengarah
+
+26. Langkah-langkah khusus yang hendaklah diambil dalam kegunaan terkawal
+
+27. Ketua Pengarah boleh menghendaki maklumat tambahan
+
+28. Ketua Pengarah hendaklah merujuk pemberitahuan kepada Jawatankuasa Penasihat dan agensi yang berkaitan
+
+29. Jawatankuasa Penasihat hendaklah membuat syor tentang pemberitahuan
+
+30. Lembaga hendaklah membuat perintah yang sesuai tentang pemberitahuan
+
+31. Lembaga boleh menghendaki maklumat tambahan
+
+32. Kajian semula pemberitahuan apabila mendapat maklumat baru
+
+33. Hal keadaan yang Lembaga boleh membuat perintah selanjutnya tentang pemberitahuan
+
+34. Rayuan kepada Menteri yang berhubungan dengan pemberitahuan
+
+35. Pembuatan keputusan oleh Lembaga atau Menteri
 
 ## BAHAGIAN V
 
@@ -44,7 +90,9 @@
 
 ## PELAN GERAK BALAS KECEMASAN
 
-36. Laporan penilaian risiko dan pengurusan risiko 37. Pelan gerak balas kecemasan
+36. Laporan penilaian risiko dan pengurusan risiko
+
+37. Pelan gerak balas kecemasan
 
 <!-- page 3 -->
 
@@ -52,17 +100,79 @@
 
 ## PENGUATKUASAAN
 
-38. Pegawai penguat kuasa 39. Kuasa penyiasatan 40. Penggeledahan dengan waran 41. Penggeledahan tanpa waran 42. Akses kepada data berkomputer 43. Senarai benda yang disita 44. Kuasa untuk mengelak premis 45. Pelucuthakan organisma diubah suai yang hidup atau hasilan organisma sedemikian, dsb. 46. Kos memegang organisma, dsb., yang disita 47. Tiada kos atau ganti rugi yang berbangkit daripada kemasukan, penggeledahan atau penyitaan boleh didapatkan 48. Halangan terhadap pegawai penguat kuasa 49. Kuasa untuk memanggil pemeriksaan dan kebolehterimaan pernyataan sebagai keterangan 50. Kuasa untuk menghendaki pengemukaan benda yang berhubung dengan kesalahan 51. Pegawai penguat kuasa boleh mendapatkan bantuan untuk memeriksa benda yang berhubung dengan kesalahan 52. Kuasa Lembaga untuk menghendaki maklumat tentang organisma diubah suai yang hidup atau hasilan organisma sedemikian 53. Kuasa untuk mengambil sampel 54. Tatacara bagi pengambilan sampel 55. Pelantikan juruanalisis 56. Perakuan analisis 57. Anggapan 58. Pemulaan pendakwaan
+38. Pegawai penguat kuasa
+
+39. Kuasa penyiasatan
+
+40. Penggeledahan dengan waran
+
+41. Penggeledahan tanpa waran
+
+42. Akses kepada data berkomputer
+
+43. Senarai benda yang disita
+
+44. Kuasa untuk mengelak premis
+
+45. Pelucuthakan organisma diubah suai yang hidup atau hasilan organisma sedemikian, dsb.
+
+46. Kos memegang organisma, dsb., yang disita
+
+47. Tiada kos atau ganti rugi yang berbangkit daripada kemasukan, penggeledahan atau penyitaan boleh didapatkan
+
+48. Halangan terhadap pegawai penguat kuasa
+
+49. Kuasa untuk memanggil pemeriksaan dan kebolehterimaan pernyataan sebagai keterangan
+
+50. Kuasa untuk menghendaki pengemukaan benda yang berhubung dengan kesalahan
+
+51. Pegawai penguat kuasa boleh mendapatkan bantuan untuk memeriksa benda yang berhubung dengan kesalahan
+
+52. Kuasa Lembaga untuk menghendaki maklumat tentang organisma diubah suai yang hidup atau hasilan organisma sedemikian
+
+53. Kuasa untuk mengambil sampel
+
+54. Tatacara bagi pengambilan sampel
+
+55. Pelantikan juruanalisis
+
+56. Perakuan analisis
+
+57. Anggapan
+
+58. Pemulaan pendakwaan
 
 ## BAHAGIAN VII
 
 ## PELBAGAI
 
-59. Maklumat perniagaan yang rahsia 60. Pendedahan umum 61. Pengenalpastian dan pelabelan
+59. Maklumat perniagaan yang rahsia
+
+60. Pendedahan umum
+
+61. Pengenalpastian dan pelabelan
 
 <!-- page 4 -->
 
-62. Bantuan daripada berbilang agensi semasa kecemasan 63. Penyampaian notis 64. Kesalahan oleh pertubuhan perbadanan 65. Kesalahan oleh pekongsi, ejen atau pekhidmat 66. Kuasa untuk mengkompaun 67. Pemalsuan, penyembunyian dan pemusnahan dokumen 68. Kuasa Menteri untuk membuat pengecualian 69. Kuasa untuk membuat peraturan-peraturan 70. Kuasa untuk meminda Jadual 71. Peruntukan peralihan
+62. Bantuan daripada berbilang agensi semasa kecemasan
+
+63. Penyampaian notis
+
+64. Kesalahan oleh pertubuhan perbadanan
+
+65. Kesalahan oleh pekongsi, ejen atau pekhidmat
+
+66. Kuasa untuk mengkompaun
+
+67. Pemalsuan, penyembunyian dan pemusnahan dokumen
+
+68. Kuasa Menteri untuk membuat pengecualian
+
+69. Kuasa untuk membuat peraturan-peraturan
+
+70. Kuasa untuk meminda Jadual
+
+71. Peruntukan peralihan
 
 ## JADUAL PERTAMA
 
@@ -86,7 +196,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 1. (1) Akta ini bolehlah dinamakan Akta Biokeselamatan
 
-2006.
+### 2006.
 
 (2) Akta ini mula berkuat kuasa pada tarikh yang ditetapkan
 
@@ -1200,11 +1310,7 @@ Pengarah supaya dirahsiakan mana-mana maklumat perdagangan dan perindustrian yan
 
 60. (1) Tertakluk kepada budi bicara Lembaga, orang ramai boleh mempunyai akses kepada apa-apa maklumat yang berhubungan dengan mana-mana permohonan bagi kelulusan, kelulusan yang diberikan atau pemberitahuan, yang tidak diberikan kerahsiaan di bawah subseksyen 59(2), mengikut apa-apa cara sebagaimana yang difikirkan patut oleh Lembaga.
 
-(2) Apa-apa keputusan yang dibuat di bawah Bahagian III dan
-
-## Bahagian IV hendaklah boleh didapati oleh orang ramai mengikut
-
-apa-apa cara yang difikirkan patut oleh Lembaga.
+(2) Apa-apa keputusan yang dibuat di bawah Bahagian III dan Bahagian IV hendaklah boleh didapati oleh orang ramai mengikut apa-apa cara yang difikirkan patut oleh Lembaga.
 
 ### Pengenalpastian dan pelabelan
 
@@ -1246,9 +1352,7 @@ atau keingkaran jika perbuatan, peninggalan, keabaian atau keingkaran itu dilaku
 
 (2) Sesuatu tawaran di bawah subseksyen (1) boleh dibuat pada bila-bila masa selepas kesalahan itu dilakukan, tetapi sebelum apa-apa pendakwaan baginya dimulakan, dan jika amaun yang dinyatakan dalam tawaran itu tidak dibayar dalam masa yang dinyatakan dalam tawaran itu atau dalam apa-apa tempoh lanjutan yang dibenarkan oleh Lembaga, pendakwaan bagi kesalahan itu boleh dimulakan pada bila-bila masa selepas itu terhadap orang yang kepadanya tawaran itu dibuat.
 
-(3) Jika suatu kesalahan telah dikompaun di bawah subseksyen
-
-(1), tiada pendakwaan boleh dimulakan berkenaan dengan kesalahan itu terhadap orang yang kepadanya tawaran untuk mengkompaun itu dibuat.
+(3) Jika suatu kesalahan telah dikompaun di bawah subseksyen (1), tiada pendakwaan boleh dimulakan berkenaan dengan kesalahan itu terhadap orang yang kepadanya tawaran untuk mengkompaun itu dibuat.
 
 (4) Apa-apa wang yang diterima oleh Lembaga di bawah seksyen ini hendaklah dibayar ke dalam dan menjadi sebahagian daripada Kumpulan Wang Disatukan Persekutuan.
 
@@ -1706,4 +1810,4 @@ Fasal 71 berkaitan dengan peruntukan peralihan. Mana-mana orang yang menjalankan
 
 Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya belum dapat ditentukan sekarang ini.
 
-[PN(U2)2171]
+<!-- marginal: [PN(U2)2171] -->

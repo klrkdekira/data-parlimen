@@ -162,7 +162,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 10. Akta ibu dipinda dengan memasukkan selepas seksyen 36 bahagian yang berikut:
 
-“Bahagian VIIa
+## “BAHAGIAN VIIA
 
 ## PENGIKTIRAFAN PROGRAM LATIHAN LAIN
 

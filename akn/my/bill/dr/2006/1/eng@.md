@@ -208,7 +208,9 @@ and includes —
 
 <!-- page 9 -->
 
-(6) The authorization of a licensed person under subsection (3) shall not render the Federal Government liable to any person in respect of any injury, damage or loss occasioned by the failure of the licensed person to carry out his obligations under this Act in respect of which charges, fees or levy are demanded, collected and retained.
+(6) The authorization of a licensed person under subsection
+
+(3) shall not render the Federal Government liable to any person in respect of any injury, damage or loss occasioned by the failure of the licensed person to carry out his obligations under this Act in respect of which charges, fees or levy are demanded, collected and retained.
 
 (7) If a licensed person contravenes any condition of the licence or any of the provisions of any order made under this section or any of the provisions of subsection (5) with which he is required to comply he shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding two years or to both,
 
@@ -400,7 +402,9 @@ in the prescribed form specifying that the machinery has passed the inspection o
 
 (6) A person aggrieved by the refusal of the Inspector or the licensed person to issue a certificate of fitness may appeal to the Chief Inspector, and on such appeal, the Chief Inspector shall cause a re-inspection to be carried out at the expense of the aggrieved person and after the re-inspection may cause to be issued or refuse to issue a certificate of fitness.
 
-(7) The decision of the Chief Inspector under subsection (6) shall be final.
+(7) The decision of the Chief Inspector under subsection
+
+(6) shall be final.
 
 (8) The licensed person shall employ only a person with the prescribed qualification and competency to carry out the inspection and to issue a certificate of fitness under this section.".
 
@@ -572,7 +576,9 @@ with the consent in writing of the Public Prosecutor, compound any offence commi
 
 (3) An offer under subsection (2) may be made at any time after the offence has been committed, but before any prosecution is instituted, and where the amount specified in the offer is not paid within the time specified in the offer, or within such extended period as the Chief Inspector or the Deputy Chief Inspector or the Senior Inspector may grant, prosecution for the offence may be instituted at any time thereafter against the person to whom the offer was made.
 
-(4) Where an offence has been compounded under subsection (2) no prosecution shall thereafter be instituted in respect of the offence against the person to whom the offer to compound was made.
+(4) Where an offence has been compounded under subsection
+
+(2) no prosecution shall thereafter be instituted in respect of the offence against the person to whom the offer to compound was made.
 
 (5) Any money paid to the Chief Inspector or a Deputy Chief Inspector or a Senior Inspector under subsection (2) shall be paid into and form part of the Federal Consolidated Fund.".
 
@@ -650,7 +656,9 @@ amend the Factories and Machinery Act 1967 ("Act 139").
 
 6. Clause 5 seeks to amend section 6 of Act 139 to deem a licensed person, his servants and agents to be public servants within the meaning of the Penal Code.
 
-7. Clause 6 seeks to introduce new sections 7A, 7B, 7C, 7D, 7E and 7F into Act 139. The new sections 7A, 7B and 7c deal with the power of the inspector to enter premises with or without a search warrant and the power of seizure while the new section 7D deals with the appointment, power and duties of a licensed person. The new section 7E provides for the revocation of licence if a licensed person breaches any condition of the licence and section 7F allows the Minister to grant a new licence upon such revocation.
+7. Clause 6 seeks to introduce new sections 7A, 7B, 7C, 7D, 7E and 7F into Act
+
+139. The new sections 7A, 7B and 7c deal with the power of the inspector to enter premises with or without a search warrant and the power of seizure while the new section 7D deals with the appointment, power and duties of a licensed person. The new section 7E provides for the revocation of licence if a licensed person breaches any condition of the licence and section 7F allows the Minister to grant a new licence upon such revocation.
 
 8. Clause 7 seeks to amend section 8 of Act 139 to widen the scope of the offence of obstruction to include the obstruction of a licensed person and to enhance the existing maximum fine which can be imposed from five thousand ringgit to two hundred thousand ringgit.
 

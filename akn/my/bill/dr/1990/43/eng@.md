@@ -8,25 +8,13 @@
 
 ## PRELIMINARY
 
-1. Short title and commencement.
-
-2. Interpretation.
+1. Short title and commencement. 2. Interpretation.
 
 ## PART II
 
 ## PROTECTORS, REGISTRAR AND REGISTER
 
-3. Appointment of Protectors.
-
-4. Appointment of Registrar.
-
-5. Register.
-
-6. Contents of Register,
-
-7. Access to Register.
-
-8. Offences in respect of Register.
+3. Appointment of Protectors. 4. Appointment of Registrar. 5. Register. 6. Contents of Register, 7. Access to Register. 8. Offences in respect of Register.
 
 ## PART III
 
@@ -72,7 +60,15 @@
 
 ## COURT PROCEDURE
 
-21. Production of children before Juvenile Court. 22. Powers of Juvenile Court. 23. Contribution order. 24. Revocation or variation of order. 25. Control over children placed in custody of fit person or place of safety.
+21. Production of children before Juvenile Court.
+
+22. Powers of Juvenile Court.
+
+23. Contribution order.
+
+24. Revocation or variation of order.
+
+25. Control over children placed in custody of fit person or place of safety.
 
 ## PART VI
 
@@ -80,7 +76,11 @@
 
 ## WELFARE OF CHILDREN
 
-26. Abuse, neglect, exposure or abandonment of children. 27. Children not to be used for begging, etc. 28. Offence to leave child without reasonable supervision.
+26. Abuse, neglect, exposure or abandonment of children.
+
+27. Children not to be used for begging, etc.
+
+28. Offence to leave child without reasonable supervision.
 
 ## PART VII
 
@@ -88,19 +88,41 @@
 
 ## CUSTODY OR CONTROL
 
-29. Application. 30. Notification of taking into care, custody or control. 31. Subsequent obligations. 32. Power of Protector to require child to be produced before him.
+29. Application.
+
+30. Notification of taking into care, custody or control.
+
+31. Subsequent obligations.
+
+32. Power of Protector to require child to be produced before him.
 
 ## PART VIII
 
 ## TRAFFICKING IN CHILDREN
 
-33. Unlawful transfer of possession, custody or control of child. 34. Importation of child by false pretences. 35. Power to examine children and persons in charge. 36. Power of Protector to require security. 37. Inspection.
+33. Unlawful transfer of possession, custody or control of child.
+
+34. Importation of child by false pretences.
+
+35. Power to examine children and persons in charge.
+
+36. Power of Protector to require security.
+
+37. Inspection.
 
 ## PART IX
 
 ## MISCELLANEOUS
 
-38. Power to search premises. 39. Obstructing Protector or police officer in performing his functions. 40. Removing or helping child to escape from custody. 41. General penalty. 42. Power to arrest without warrant.
+38. Power to search premises.
+
+39. Obstructing Protector or police officer in performing his functions.
+
+40. Removing or helping child to escape from custody.
+
+41. General penalty.
+
+42. Power to arrest without warrant.
 
 <!-- page 3 -->
 
@@ -168,7 +190,11 @@ Act 1990.
 
 of a competent Court to be the guardian of the child, or a person who has lawfully adopted the child, and includes any person who has lawful custody of the child; "hospital" means any government hospital or any teaching hospital of a University;
 
-"medical officer" means a registered medical practitioner in the service of the government and includes a registered medical practitioner in any teaching hospital of a University; "place of safety" means any place or institution declared to be such under section 43, or such other place or home as the Protector deems suitable, the occupier of which is willing temporarily to receive a child; "police officer" has the meaning assigned thereto in the Act 344. Police Act 1967;
+"medical officer" means a registered medical practitioner in the service of the government and includes a registered medical practitioner in any teaching hospital of a University; "place of safety" means any place or institution declared to be such under section 43, or such other place or home as the Protector deems suitable, the occupier of which is willing temporarily to receive a child; "police officer" has the meaning assigned thereto in the
+
+<!-- marginal: Act 344. -->
+
+Police Act 1967;
 
 "premises" includes any dwelling-house, building, shop, room, conveyance or any place whether open or enclosed;
 
@@ -186,7 +212,11 @@ and includes any public officer appointed under section 3;
 
 "Register" means the Register kept and maintained under section 5;
 
-"registered medical practitioner" means a medical Act 50. practitioner registered under the Medical Act 1971;
+"registered medical practitioner" means a medical
+
+<!-- marginal: Act 50. -->
+
+practitioner registered under the Medical Act 1971;
 
 <!-- page 7 -->
 
@@ -218,7 +248,15 @@ and includes any public officer appointed under section 3;
 
 and his guardian is unable or unwilling to take necessary measures to remedy the situation or the remedial measures taken by the guardian fail;
 
-(h) there is such a conflict between the child and his guardian, or between his guardians, that family relationships are seriously disrupted, thereby causing him emotional injury; (i) the child is a person in respect of whom any of the offences mentioned in Chapter XVI of the F.M.S. Cap 45. Penal Code or any offence of the nature described in Part VI has been or is believed to have been committed and his guardian is the person who committed such offence or is believed to have committed such offence or has not protected or is unlikely to protect him from such offence;
+(h) there is such a conflict between the child and his guardian, or between his guardians, that family relationships are seriously disrupted, thereby causing him emotional injury;
+
+(i) the child is a person in respect of whom any of the offences mentioned in Chapter XVI of the
+
+<!-- marginal: F.M.S. -->
+
+<!-- marginal: Cap 45. -->
+
+Penal Code or any offence of the nature described in Part VI has been or is believed to have been committed and his guardian is the person who committed such offence or is believed to have committed such offence or has not protected or is unlikely to protect him from such offence;
 
 (j) the child is— (i) a member of the same household as the child referred to in paragraph (i); or (ii) a member of the same household of the person who has been convicted of the offence referred to in paragraph (i),
 
@@ -306,7 +344,17 @@ when any of those persons requires such details for the purpose of any proceedin
 
 (3) Details furnished under this section shall not include any information which discloses or is likely to lead to the disclosure of the identity of any person who has made a notification that a child is in need of protection.
 
-Offences in 8. Any person who furnishes to any other person any respect of details contained in the Register other than pursuant to Register. section 7 shall be guilty of an offence.
+<!-- marginal: Offences in -->
+
+8. Any person who furnishes to any other person any
+
+<!-- marginal: respect of -->
+
+details contained in the Register other than pursuant to
+
+<!-- marginal: Register. -->
+
+section 7 shall be guilty of an offence.
 
 ## PART
 
@@ -316,7 +364,25 @@ III
 
 ## OF CHILDREN
 
-Establishment 9. (1) There shall be established a Council which shall be of the Co- known as the Co-ordinating Council for the Protection of ordinating Council for Children. the Protection of Children. (2) The Council shall—
+<!-- marginal: Establishment -->
+
+9. (1) There shall be established a Council which shall be
+
+<!-- marginal: of the Co- -->
+
+known as the Co-ordinating Council for the Protection of
+
+<!-- marginal: ordinating -->
+
+<!-- marginal: Council for -->
+
+Children.
+
+<!-- marginal: the Protection -->
+
+<!-- marginal: of Children. -->
+
+(2) The Council shall—
 
 (a) be responsible for advising the Minister on all aspects of child protection;
 
@@ -384,9 +450,19 @@ members:
 
 (3) The appointment of every member of the Council under paragraph (1) (l) shall be published in the Gazette.
 
-Sitting and
+<!-- marginal: Sitting and -->
 
-11. (1) The Council shall meet at least four times in a conduct of year at such time and place as the Chairman may appoint. proceedings of Council. (2) The Chairman or, in his absence, the Deputy Chairman or, in the absence of both, any member elected to preside over the meeting, and six other members, shall form a quorum at a meeting of the Council.
+11. (1) The Council shall meet at least four times in a
+
+<!-- marginal: conduct of -->
+
+year at such time and place as the Chairman may appoint.
+
+<!-- marginal: proceedings -->
+
+<!-- marginal: of Council. -->
+
+(2) The Chairman or, in his absence, the Deputy Chairman or, in the absence of both, any member elected to preside over the meeting, and six other members, shall form a quorum at a meeting of the Council.
 
 (3) Every meeting of the Council shall be presided over by the Chairman or, in his absence, by the Deputy Chairman or, in the absence of both, by a member elected by the members present from amongst themselves.
 
@@ -458,9 +534,23 @@ may take the child into temporary custody, unless such Protector or police offic
 
 (b) if such person is a police officer, notify a Protector of such taking.
 
-Child in
+<!-- marginal: Child in -->
 
-14. (1) If a Protector or police officer who takes a child need of into temporary custody under subsection 13 (1) is of the medical opinion that such child is in need of medical examination examination or treatment. or treatment, such Protector or police officer may, instead of taking the child to a place of safety, present the child before a medical officer.
+14. (1) If a Protector or police officer who takes a child
+
+<!-- marginal: need of -->
+
+into temporary custody under subsection 13 (1) is of the
+
+<!-- marginal: medical -->
+
+opinion that such child is in need of medical examination
+
+<!-- marginal: examination -->
+
+<!-- marginal: or treatment. -->
+
+or treatment, such Protector or police officer may, instead of taking the child to a place of safety, present the child before a medical officer.
 
 (2) If at the time of being taken into custody under subsection 13 (1) a child is a patient in a hospital, the Protector or police who takes the child into custody may leave the child in the hospital.
 
@@ -514,15 +604,55 @@ psychiatric treatment as may be considered necessary by a medical officer.
 
 (3) If the consent referred to in subsection (2) cannot be obtained or if there is immediate risk to the health of the child, a Protector may authorize such treatment as may be considered necessary by a medical officer.
 
-No liability 17. (1) If a child is examined or treated pursuant to incurred for section 15 or 16, the Protector or police officer who giving autho- rization. authorizes such examination or treatment, the medical officer who examines or treats such child, and all persons acting in aid of such medical officer, shall not incur any liability at law by reason only that a child is examined or treated pursuant to that section.
+<!-- marginal: No liability -->
+
+17. (1) If a child is examined or treated pursuant to
+
+<!-- marginal: incurred for -->
+
+section 15 or 16, the Protector or police officer who
+
+<!-- marginal: giving autho- -->
+
+<!-- marginal: rization. -->
+
+authorizes such examination or treatment, the medical officer who examines or treats such child, and all persons acting in aid of such medical officer, shall not incur any liability at law by reason only that a child is examined or treated pursuant to that section.
 
 (2) Nothing contained in subsection (1) relieves a medical officer from liability in respect of the examination or treatment of a child which liability he would have been subject to had the examination or treatment been carried out or administered with the consent of the guardian of the child or person having authority to consent to the examination or treatment.
 
-Control over 18. If a child who is taken into temporary custody under hospitalized subsection 13 (1) or subsection 14 (4) is hospitalized, the children. Director General shall have the like control over, and responsibility for the maintenance of, that child as a person in charge of a place of safety would have had if the child had been placed in that place of safety.
+<!-- marginal: Control over -->
 
-Duty of
+18. If a child who is taken into temporary custody under
 
-19. (1) If a registered medical practitioner, including a medical medical officer, believes on reasonable grounds that a practitioner and power child he is examining or treating is a child in need of of medical protection, he shall immediately notify any Protector. officer. (2) Any registered medical practitioner who fails to comply with subsection (1) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding one thousand ringgit.
+<!-- marginal: hospitalized -->
+
+subsection 13 (1) or subsection 14 (4) is hospitalized, the
+
+<!-- marginal: children. -->
+
+Director General shall have the like control over, and responsibility for the maintenance of, that child as a person in charge of a place of safety would have had if the child had been placed in that place of safety.
+
+<!-- marginal: Duty of -->
+
+19. (1) If a registered medical practitioner, including a
+
+<!-- marginal: medical -->
+
+medical officer, believes on reasonable grounds that a
+
+<!-- marginal: practitioner -->
+
+<!-- marginal: and power -->
+
+child he is examining or treating is a child in need of
+
+<!-- marginal: of medical -->
+
+protection, he shall immediately notify any Protector.
+
+<!-- marginal: officer. -->
+
+(2) Any registered medical practitioner who fails to comply with subsection (1) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding one thousand ringgit.
 
 (3) If the registered medical practitioner referred to in subsection (1) is a medical officer, he may take the child referred to in that subsection into temporary custody until
 
@@ -588,7 +718,17 @@ be brought before a Juvenile Court.
 
 ## BILL
 
-Powers of 22. (1) If a Juvenile Court is satisfied that any child Juvenile brought before it under section 21 is a child in need of Court. protection, the Juvenile Court may—
+<!-- marginal: Powers of -->
+
+22. (1) If a Juvenile Court is satisfied that any child
+
+<!-- marginal: Juvenile -->
+
+brought before it under section 21 is a child in need of
+
+<!-- marginal: Court. -->
+
+protection, the Juvenile Court may—
 
 (a) order his guardian to enter into a bond to exercise proper care and guardianship for a period specified by the Juvenile Court, but that period shall not extend beyond the date on which the child attains the age of eighteen years;
 
@@ -636,9 +776,43 @@ a child in a place of safety or in the custody of a fit person, the Juvenile Cou
 
 (5) If any person wilfully neglects to comply with a contribution order, a Magistrate may, for every breach of the order, by warrant direct the amount due to be levied in the manner provided by law for levying fines imposed by Magistrates, or may sentence the person to imprisonment for a term not exceeding one month for each month's contribution remaining unpaid.
 
-Revocation 24. A Juvenile Court may on the application of a or variation Protector, or the person in charge of a place of safety or the of order. guardian of a child in respect of whom an order is made under section 22, revoke or vary such order upon proof that the circumstances under which the order was made have changed after the making of the order.
+<!-- marginal: Revocation -->
 
-Control over 25. If an order is made under section 22 placing a child in children a place of safety or in the custody of a fit person or in the placed in custody of custody of a foster parent, then the person in charge of the fit person place of safety, such fit person or such foster parent shall or place of have the like control of the child as the parent and shall be safety. responsible for his maintenance, and the child shall continue in the care of such person notwithstanding that the child is claimed by his guardian or any other person.
+24. A Juvenile Court may on the application of a
+
+<!-- marginal: or variation -->
+
+Protector, or the person in charge of a place of safety or the
+
+<!-- marginal: of order. -->
+
+guardian of a child in respect of whom an order is made under section 22, revoke or vary such order upon proof that the circumstances under which the order was made have changed after the making of the order.
+
+<!-- marginal: Control over -->
+
+25. If an order is made under section 22 placing a child in
+
+<!-- marginal: children -->
+
+a place of safety or in the custody of a fit person or in the
+
+<!-- marginal: placed in -->
+
+<!-- marginal: custody of -->
+
+custody of a foster parent, then the person in charge of the
+
+<!-- marginal: fit person -->
+
+place of safety, such fit person or such foster parent shall
+
+<!-- marginal: or place of -->
+
+have the like control of the child as the parent and shall be
+
+<!-- marginal: safety. -->
+
+responsible for his maintenance, and the child shall continue in the care of such person notwithstanding that the child is claimed by his guardian or any other person.
 
 ## PART VI
 
@@ -646,7 +820,23 @@ Control over 25. If an order is made under section 22 placing a child in childre
 
 ## WELFARE OF CHILDREN
 
-Abuse, 26. (1) Any person who, being a person having the care neglect, of a child, abuses, neglects, abandons or exposes the child exposure or abandonment in a manner likely to cause him unnecessary suffering or of children. to injure his physical or mental health, or causes or permits him to be so abused, neglected, abandoned or exposed, shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to
+<!-- marginal: Abuse, -->
+
+26. (1) Any person who, being a person having the care
+
+<!-- marginal: neglect, -->
+
+of a child, abuses, neglects, abandons or exposes the child
+
+<!-- marginal: exposure or -->
+
+<!-- marginal: abandonment -->
+
+in a manner likely to cause him unnecessary suffering or
+
+<!-- marginal: of children. -->
+
+to injure his physical or mental health, or causes or permits him to be so abused, neglected, abandoned or exposed, shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to
 
 <!-- page 21 -->
 
@@ -686,9 +876,23 @@ being a person having the care of a child, allows that child
 
 to be on any street, premises or place for the purposes of begging shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding two years or to both.
 
-Offence to
+<!-- marginal: Offence to -->
 
-28. Any person who, being a guardian or a person for the leave child time being having the care of a child, leaves that child, without reasonable without making reasonable provision for the supervision supervision. and care of the child, for a period which is unreasonable or under conditions which are unreasonable having regard to all the circumstances shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding two years or to both.
+28. Any person who, being a guardian or a person for the
+
+<!-- marginal: leave child -->
+
+time being having the care of a child, leaves that child,
+
+<!-- marginal: without -->
+
+<!-- marginal: reasonable -->
+
+without making reasonable provision for the supervision
+
+<!-- marginal: supervision. -->
+
+and care of the child, for a period which is unreasonable or under conditions which are unreasonable having regard to all the circumstances shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding two years or to both.
 
 ## PART VII
 
@@ -696,11 +900,21 @@ Offence to
 
 ## CUSTODY OR CONTROL
 
-Application
+<!-- marginal: Application -->
 
-29. (1) This Part shall not apply to— and interpretation. (a) the taking of a child into the care, custody or control of his grandparent, his brother or sister by the whole or half blood, or a brother or sister by the whole or half blood of either of his parents;
+29. (1) This Part shall not apply to—
 
-(b) the taking of a child into the care, custody or control of his guardian; (c) the taking of a child into the care, custody or control of any person in pursuance of an order of a Court of competent jurisdiction or in pursuance of an order under the Women and Act 106. Girls Protection Act 1973;
+<!-- marginal: and -->
+
+<!-- marginal: interpretation. -->
+
+(a) the taking of a child into the care, custody or control of his grandparent, his brother or sister by the whole or half blood, or a brother or sister by the whole or half blood of either of his parents;
+
+(b) the taking of a child into the care, custody or control of his guardian; (c) the taking of a child into the care, custody or control of any person in pursuance of an order of a Court of competent jurisdiction or in pursuance of an order under the Women and
+
+<!-- marginal: Act 106. -->
+
+Girls Protection Act 1973;
 
 (d) the taking in of a child as an inmate of a place of safety or of an orphanage, hospital, home or institution maintained by the Government of Malaysia or by any of the State Governments or approved by the Minister; (e) the taking in of a child as a boarder at a school registered under any written law relating to education;
 
@@ -746,9 +960,13 @@ shall, not later than one week thereafter, notify the Protector of such taking.
 
 ## BILL
 
-Subsequent
+<!-- marginal: Subsequent -->
 
-31. (1) Where the taking of a child has been notified to obligations. and permitted by a Protector under section 30, the person who has taken such child shall, if at any subsequent time—
+31. (1) Where the taking of a child has been notified to
+
+<!-- marginal: obligations. -->
+
+and permitted by a Protector under section 30, the person who has taken such child shall, if at any subsequent time—
 
 (a) he intends to return the child to the care, custody or control of the guardian of the child or any other person from whom the child was taken; or
 
@@ -766,7 +984,27 @@ report in person to a Protector and shall, whenever practicable, bring or cause 
 
 (3) Any person who fails to comply with the provisions of subsection (1) shall be guilty of an offence.
 
-Power of 32. (1) Whenever a Protector has reason to believe that Protector there is, within the area or the State within which he to require child to be exercises jurisdiction, a child in respect of whose taking produced no notification has been made within one week after the before him. taking, he may, by summons under his hand addressed to the person who has or is believed to have the care, custody or control of such child, require such person to appear
+<!-- marginal: Power of -->
+
+32. (1) Whenever a Protector has reason to believe that
+
+<!-- marginal: Protector -->
+
+there is, within the area or the State within which he
+
+<!-- marginal: to require -->
+
+<!-- marginal: child to be -->
+
+exercises jurisdiction, a child in respect of whose taking
+
+<!-- marginal: produced -->
+
+no notification has been made within one week after the
+
+<!-- marginal: before him. -->
+
+taking, he may, by summons under his hand addressed to the person who has or is believed to have the care, custody or control of such child, require such person to appear
 
 <!-- page 25 -->
 
@@ -798,9 +1036,27 @@ and to produce the child before him at the time and place specified in the summo
 
 ## TRAFFICKING IN CHILDREN
 
-Unlawful
+<!-- marginal: Unlawful -->
 
-33. (1) Every person who takes any part in any transfer of transaction the object or one of the objects of which is to possession, custody or transfer or confer, wholly or partly, temporarily or control of permanently, the possession, custody or control of a child child. for any valuable consideration shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding five years or to both.
+33. (1) Every person who takes any part in any
+
+<!-- marginal: transfer of -->
+
+transaction the object or one of the objects of which is to
+
+<!-- marginal: possession, -->
+
+<!-- marginal: custody or -->
+
+transfer or confer, wholly or partly, temporarily or
+
+<!-- marginal: control of -->
+
+permanently, the possession, custody or control of a child
+
+<!-- marginal: child. -->
+
+for any valuable consideration shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding five years or to both.
 
 (2) Every person who without lawful authority or excuse harbours or has in his possession, custody or control any child with respect to whom the temporary or permanent possession, custody or control has been transferred or conferred for valuable consideration by any other person within or without Malaysia shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding five years or to both.
 
@@ -808,9 +1064,19 @@ Unlawful
 
 (4) It shall be a defence in any prosecution under this section to prove that the transfer took place in contemplation of or pursuant to a bona fide marriage or adoption and that at least one of the natural parents of the child or the guardian of the child was a consenting party to the marriage or to the adoption by the adopting party, and had expressly consented to the particular marriage or adoption.
 
-Importation
+<!-- marginal: Importation -->
 
-34. Any person who by or under any false pretence or of child representation, or fraudulent or deceitful means, made or by false pretences used either within or without Malaysia, brings or assists in bringing any child into Malaysia shall be guilty of an offence and shall, on conviction, be liable to a fine not
+34. Any person who by or under any false pretence or
+
+<!-- marginal: of child -->
+
+representation, or fraudulent or deceitful means, made or
+
+<!-- marginal: by false -->
+
+<!-- marginal: pretences -->
+
+used either within or without Malaysia, brings or assists in bringing any child into Malaysia shall be guilty of an offence and shall, on conviction, be liable to a fine not
 
 <!-- page 27 -->
 
@@ -868,7 +1134,9 @@ he may either—
 
 (aa), make an order that the child be taken out of the custody of the person in whose care, custody or control the child is and committed to a place of safety or, on such security and on such conditions as the Protector may require, to the custody of a relative or other fit person until the child attains the age of eighteen years or for any shorter period.
 
-Inspection. 37. (1) A Protector, or any social welfare officer generally or specially authorized in that behalf in writing by the Protector, may at any time visit and inspect the place where any child in respect of whom security has been furnished under section 36 lives or is believed to live or to be.
+<!-- marginal: Inspection. -->
+
+37. (1) A Protector, or any social welfare officer generally or specially authorized in that behalf in writing by the Protector, may at any time visit and inspect the place where any child in respect of whom security has been furnished under section 36 lives or is believed to live or to be.
 
 (2) A Protector, or any officer authorized under subsection (1), may inquire into the condition and circumstances of the child referred to in subsection (1) and, for the purposes of such inquiry, the Protector or such officer may require any person to answer any questions he may think proper to ask and such person shall be legally bound to answer such questions truthfully to the best of his ability.
 
@@ -876,9 +1144,17 @@ Inspection. 37. (1) A Protector, or any social welfare officer generally or spec
 
 ## MISCELLANEOUS
 
-Power to
+<!-- marginal: Power to -->
 
-38. (1) Subject to subsection (2), any Protector or police search officer may enter and search any premises for the purpose premises. of ascertaining whether there is therein any child who is in need of protection or whether any offence under this Act is being, or has been, committed.
+38. (1) Subject to subsection (2), any Protector or police
+
+<!-- marginal: search -->
+
+officer may enter and search any premises for the purpose
+
+<!-- marginal: premises. -->
+
+of ascertaining whether there is therein any child who is in need of protection or whether any offence under this Act is being, or has been, committed.
 
 (2) A Protector or police officer shall not enter any premises by the use of force unless he has first obtained a warrant issued by a Magistrate.
 
@@ -914,11 +1190,23 @@ premises for the purposes mentioned in subsection (1) if that Magistrate is sati
 
 (9) No person shall by force, restraint, threats, inducement or other means cause any child who is in need of protection to conceal himself in or to leave any premises being searched or about to be searched by a Protector or police officer under this section, with the intent that the search by such Protector or police officer may thereby be evaded or obstructed.
 
-Obstructing
+<!-- marginal: Obstructing -->
 
-39. Any person who— Protector or police officer
+39. Any person who—
 
-(a) assaults, obstructs, hinders or delays any in performing Protector or police officer in effecting any entry his functions. which he is entitled to effect under this Act, or in the execution of any duty imposed or power conferred by this Act;
+<!-- marginal: Protector or -->
+
+<!-- marginal: police officer -->
+
+(a) assaults, obstructs, hinders or delays any
+
+<!-- marginal: in performing -->
+
+Protector or police officer in effecting any entry
+
+<!-- marginal: his functions. -->
+
+which he is entitled to effect under this Act, or in the execution of any duty imposed or power conferred by this Act;
 
 (b) refuses to answer, to the best of his knowledge and belief, any question which he is legally bound to answer and which is asked of him by any Protector or police officer or any other person authorized under this Act;
 
@@ -926,11 +1214,23 @@ Obstructing
 
 shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding three thousand ringgit or to imprisonment for a term not exceeding three months or to both.
 
-Removing
+<!-- marginal: Removing -->
 
-40. (1) If a child is placed in a place of safety or in the or helping custody of any person under this Act, any person who— child to escape from
+40. (1) If a child is placed in a place of safety or in the
 
-(a) removes the child from such place of safety or custody. such custody without lawful authority;
+<!-- marginal: or helping -->
+
+custody of any person under this Act, any person who—
+
+<!-- marginal: child to -->
+
+<!-- marginal: escape from -->
+
+(a) removes the child from such place of safety or
+
+<!-- marginal: custody. -->
+
+such custody without lawful authority;
 
 (b) knowingly assists or induces, directly or indirectly, a child to escape from such place of safety or such custody; or
 
@@ -1008,9 +1308,13 @@ as it thinks fit as to the age of that person, may determine
 
 and declare his age, and for the purposes of this Act the age so declared by the Court shall be deemed to be the true age of that person, unless and until the contrary is proved.
 
-Protection of
+<!-- marginal: Protection of -->
 
-45. (1) No person who makes any notification that a child informants. is in need of protection shall incur any liability for defamation or otherwise in respect of the making of such notification.
+45. (1) No person who makes any notification that a child
+
+<!-- marginal: informants. -->
+
+is in need of protection shall incur any liability for defamation or otherwise in respect of the making of such notification.
 
 (2) The making of any notification that a child is in need of protection shall not, in any proceedings before any Court or in any other respect, be held to constitute a breach of professional etiquette or ethics or a departure from accepted standards of professional conduct.
 
@@ -1022,13 +1326,37 @@ Protection of
 
 (4) Subsection (3) does not apply where a notification that a child is in need of protection is tendered in evidence, or evidence in respect of such notification is given, by the person who made such notification.
 
-Protection
+<!-- marginal: Protection -->
 
-46. No action or prosecution shall be brought, instituted of Director or maintained in any Court against the Director General or General, Protectors any Protector or social welfare officer or police officer in and police respect of anything done or omitted to be done by him in officers. good faith in the execution or purported execution of his functions, powers and duties under this Act.
+46. No action or prosecution shall be brought, instituted
 
-Certificate
+<!-- marginal: of Director -->
 
-47. A certificate purporting to be under the hand of the of Registrar Registrar as to any entry in the Register, or as to any matter to be evidence.
+or maintained in any Court against the Director General or
+
+<!-- marginal: General, -->
+
+<!-- marginal: Protectors -->
+
+any Protector or social welfare officer or police officer in
+
+<!-- marginal: and police -->
+
+respect of anything done or omitted to be done by him in
+
+<!-- marginal: officers. -->
+
+good faith in the execution or purported execution of his functions, powers and duties under this Act.
+
+<!-- marginal: Certificate -->
+
+47. A certificate purporting to be under the hand of the
+
+<!-- marginal: of Registrar -->
+
+Registrar as to any entry in the Register, or as to any matter
+
+<!-- marginal: to be evidence. -->
 
 <!-- page 33 -->
 
@@ -1072,9 +1400,23 @@ of any person under the provisions of this Act, and the duties of such person;
 
 (k) make the contravention of or failure to comply with any regulation made under this Act an offence and may prescribe a fine not exceeding five thousand ringgit or imprisonment for a term not exceeding two years for such offence.
 
-Consequential 49. (1) The Juvenile Courts Act 1947 is amended— amendments and repeal. (a) by deleting sections 35 and 36; Act 90. (b) in section 37A— (i) by deleting the words "36 or" appearing after the words "makes an order under section"; (ii) by substituting for the words "subject to section 36 or 37, as the case may be" the words "subject to section 37",
+<!-- marginal: Consequential -->
 
-Act 232. (2) The Children and Young Persons Act 1947 is repealed.
+49. (1) The Juvenile Courts Act 1947 is amended—
+
+<!-- marginal: amendments -->
+
+<!-- marginal: and repeal. -->
+
+(a) by deleting sections 35 and 36;
+
+<!-- marginal: Act 90. -->
+
+(b) in section 37A— (i) by deleting the words "36 or" appearing after the words "makes an order under section"; (ii) by substituting for the words "subject to section 36 or 37, as the case may be" the words "subject to section 37",
+
+<!-- marginal: Act 232. -->
+
+(2) The Children and Young Persons Act 1947 is repealed.
 
 ## EXPLANATORY STATEMENT
 
@@ -1146,6 +1488,4 @@ Clause 49 seeks to repeal sections 35 and 36 of the Juvenile Courts Act 1947 and
 
 ## IMPLICATIONS
 
-This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained.
-
-<!-- marginal: [PN. (U2) 1387.] -->
+This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained. [PN. (U2) 1387.]

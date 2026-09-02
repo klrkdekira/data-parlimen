@@ -68,11 +68,15 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (5) The consultation under subsection (4) shall be within the sight of a police officer and in circumstances, in so far as practicable, where their communication will not be overheard.
 
-(6) The police officer shall defer any questioning or recording of any statement from the person arrested for a reasonable time until the communication or attempted communication under paragraph 2(b) or the consultation under subsection (4) has been made.
+(6) The police officer shall defer any questioning or recording of any statement from the person arrested for a reasonable time until the communication or attempted communication under paragraph 2(b) or the consultation under subsection
+
+(4) has been made.
 
 (7) The police officer shall provide reasonable facilities for the communication and consultation under this section and all such facilities provided shall be free of charge.
 
-(8) The requirements under subsections (2), (3), (4), (5), (6) and (7) shall not apply where the police officer reasonably believes that-
+(8) The requirements under subsections (2), (3), (4), (5),
+
+(6) and (7) shall not apply where the police officer reasonably believes that-
 
 (a) compliance with any of the requirements is likely to result in-
 
@@ -86,9 +90,15 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (9) Subsection (8) shall only apply upon authorization by a police officer not below the rank of Deputy Superintendent of Police.
 
-(10) The police officer giving the authorization under subsection (9) shall record the grounds of belief of the police officer that the conditions specified under subsection (8) will arise and such record shall be made as soon as practicable.
+(10) The police officer giving the authorization under subsection (9) shall record the grounds of belief of the police officer that the conditions specified under subsection
 
-(11) The investigating officer shall comply with the requirements under subsections (2), (3), (4), (5), (6) and (7) as soon as possible after the conditions specified under subsection (8) have ceased to apply where the person arrested is still under detention under this section or under section 117." ".
+(8) will arise and such record shall be made as soon as practicable.
+
+(11) The investigating officer shall comply with the requirements under subsections (2), (3), (4), (5), (6) and
+
+(7) as soon as possible after the conditions specified under subsection (8) have ceased to apply where the person arrested is still under detention under this section or under section
+
+117." ".
 
 ### Amendment of section 10
 

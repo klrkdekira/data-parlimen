@@ -140,4 +140,6 @@ Rang Undang-Undang 6
 
 ## KEWANGAN
 
-Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN(U2)2473]
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
+
+<!-- marginal: [PN(U2)2473] -->

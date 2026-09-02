@@ -4,23 +4,39 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Interpretation
 
-## Part II
+## PART II
 
 ## MALAYSIAN SOCIAL WORK PROFESSION COUNCIL
 
-3. Establishment of Council 4. Functions of Council 5. Powers of Council 6. Meetings of Council 7. Allowances 8. Temporary exercise of functions of Chairman 9. Secretary of Council 10. Revocation of appointment and resignation 11. Vacation of office and filling of vacancy 12. Directions by Minister 13. Reports and information 14. Council may establish committee 15. Disclosure of interest 16. Funds of Council
+3. Establishment of Council 4. Functions of Council 5. Powers of Council 6. Meetings of Council 7. Allowances 8. Temporary exercise of functions of Chairman 9. Secretary of Council
 
-## Part III
+10. Revocation of appointment and resignation
+
+11. Vacation of office and filling of vacancy
+
+12. Directions by Minister
+
+13. Reports and information
+
+14. Council may establish committee
+
+15. Disclosure of interest
+
+16. Funds of Council
+
+## PART III
 
 ## SOCIAL WORK PRACTITIONER AND SOCIAL WORK TRAINEE
 
-17. Registrar 18. Register
+17. Registrar
+
+18. Register
 
 <!-- page 2 -->
 
@@ -32,7 +48,7 @@
 
 22. Duty to provide information and document
 
-## Part IV
+## PART IV
 
 ## DISCIPLINARY PROCEEDINGS
 
@@ -48,7 +64,7 @@
 
 28. Appeal
 
-## Part V
+## PART V
 
 ## REMOVAL DAN REINSTATEMENT
 
@@ -56,7 +72,7 @@
 
 30. Reinstatement in Register
 
-## Part VI
+## PART VI
 
 ## OFFENCES
 
@@ -64,7 +80,7 @@
 
 32. Offence relating to employment
 
-## Part VII
+## PART VII
 
 ## GENERAL
 
@@ -86,7 +102,7 @@ An Act to provide for the establishment of Malaysian Social Work Profession Coun
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -130,7 +146,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 5 -->
 
-## Part II
+## PART II
 
 ## MALAYSIAN SOCIAL WORK PROFESSION COUNCIL
 
@@ -346,7 +362,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 13 -->
 
-## Part III
+## PART III
 
 ## SOCIAL WORK PRACTITIONER AND SOCIAL WORK TRAINEE
 
@@ -474,7 +490,7 @@ officer shall apply to the Council for a practising certificate, in such form an
 
 <!-- page 18 -->
 
-## Part IV
+## PART IV
 
 ## DISCIPLINARY PROCEEDINGS
 
@@ -560,7 +576,7 @@ officer shall apply to the Council for a practising certificate, in such form an
 
 (3) Where the Minister affirms the decision made by the Disciplinary Committee under section 27, the person who appeals shall be barred from social work practice for a period as may be determined by the Council.
 
-## Part V
+## PART V
 
 ## REMOVAL AND REINSTATEMENT
 
@@ -606,7 +622,7 @@ officer shall apply to the Council for a practising certificate, in such form an
 
 (4) No person who has been removed from the Register under paragraphs 29(1)(a), (b), (e), (f) and (h) shall be reinstated by the Registrar in the Register.
 
-## Part VI
+## PART VI
 
 ## OFFENCES
 
@@ -658,7 +674,7 @@ officer shall apply to the Council for a practising certificate, in such form an
 
 may be charged severally or jointly in the same proceedings as the body corporate, partnership or society and shall be deemed to have committed the offence unless he proves that the offence was committed without his knowledge or connivance or that he had taken all reasonable precautions or that he had exercised due diligence to prevent the commission of the offence.
 
-## Part VII
+## PART VII
 
 ## GENERAL
 
@@ -712,7 +728,7 @@ may be charged severally or jointly in the same proceedings as the body corporat
 
 This Bill (“the proposed Act”) seeks to provide for the establishment of Malaysian Social Work Profession Council, to regulate social work practitioners, social work trainees and social work services, and to provide for related matters.
 
-## Part I
+## PART I
 
 2. Part I of the proposed Act deals with preliminary matters.
 
@@ -722,7 +738,7 @@ This Bill (“the proposed Act”) seeks to provide for the establishment of Mal
 
 <!-- page 28 -->
 
-## Part II
+## PART II
 
 5. Part II of the proposed Act deals with the provisions relating to the Malaysian Social Work Profession Council.
 
@@ -752,7 +768,7 @@ This Bill (“the proposed Act”) seeks to provide for the establishment of Mal
 
 18. Clause 16 seeks to provide that the Government shall provide sufficient funds for the Council annually to enable the Council to perform its function under the proposed Act.
 
-## Part III
+## PART III
 
 19. Part III of the proposed Act deals with provisions relating to social work practitioner and social work trainee.
 
@@ -770,7 +786,7 @@ This Bill (“the proposed Act”) seeks to provide for the establishment of Mal
 
 25. Clause 22 seeks to provide for the duty of an applicant, a social work practitioner or a social work trainee to provide any additional information or document as may be directed by the Council. Failure to comply with subclauses (2) and (3) is an offence under the proposed Act.
 
-## Part IV
+## PART IV
 
 26. Part IV of the proposed Act deals with the provisions relating to disciplinary proceedings.
 
@@ -786,7 +802,7 @@ This Bill (“the proposed Act”) seeks to provide for the establishment of Mal
 
 32. Clause 28 seeks to provide for an appeal to the Minister.
 
-## Part V
+## PART V
 
 33. Part V of the proposed Act deals with the provisions relating to removal from and reinstatement in the Register.
 
@@ -796,7 +812,7 @@ This Bill (“the proposed Act”) seeks to provide for the establishment of Mal
 
 35. Clause 30 seeks to provide for the reinstatement of the name of a social work practitioner or social work trainee in the Register and for the issuance of the practising certificate, temporary practising certificate or interim certificate upon reinstatement.
 
-## Part VI
+## PART VI
 
 36. Part VI of the proposed Act deals with the provisions relating to offences.
 
@@ -804,7 +820,7 @@ This Bill (“the proposed Act”) seeks to provide for the establishment of Mal
 
 38. Clause 32 seeks to provide for the offence relating to employment of a person who is not a social work practitioner.
 
-## Part VII
+## PART VII
 
 39. Part VII of the proposed Act deals with general provisions.
 

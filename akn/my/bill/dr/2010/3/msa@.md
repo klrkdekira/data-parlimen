@@ -46,19 +46,27 @@ Rang Undang-Undang
 
 ## JADUAL
 
-Maksud Tajuk Amaun
+Maksud Tajuk
 
-(RM)
+<!-- marginal: Amaun -->
 
-8. Parlimen 23,000,000
+<!-- marginal: (RM) -->
 
-8. 4 Suruhanjaya Pilihan Raya 3,000,000
+8. Parlimen
+
+<!-- marginal: 23,000,000 -->
+
+8. 4 Suruhanjaya Pilihan Raya
+
+<!-- marginal: 3,000,000 -->
 
 8. 6 Jabatan Perdana Menteri 299,487,900
 
 B. 7 Jabatan Perkhidmatan Awam 133,318,500
 
-8. 9 Suruhanjaya Pencegahan Rasuah Malaysia 9,724,000
+8. 9 Suruhanjaya Pencegahan Rasuah Malaysia
+
+<!-- marginal: 9,724,000 -->
 
 8.10 Perbendaharaan 171,392,600
 
@@ -74,7 +82,9 @@ B.13 Kementerian Luar Negeri 110,070,000
 
 8. 23 Kementerian Sumber AsH dan Alam Sekitar 454,550,000
 
-8. 24 Kementerian Perdagangan Antarabangsa dan 42,000,000
+8. 24 Kementerian Perdagangan Antarabangsa dan
+
+<!-- marginal: 42,000,000 -->
 
 Industri
 
@@ -86,11 +96,15 @@ dan Kepenggunaan
 
 8. 28 Kementerian Pengangkutan 193,759,900
 
-8. 29 Kementerian Tenaga, Teknologi Hijau dan Air 15,000,000
+8. 29 Kementerian Tenaga, Teknologi Hijau dan Air
+
+<!-- marginal: 15,000,000 -->
 
 8. 31 Kementerian Pelancongan 64,000,000
 
-8.40 Suruhanjaya Perkhidmatan Pelajaran 1,900,000
+8.40 Suruhanjaya Perkhidmatan Pelajaran
+
+<!-- marginal: 1,900,000 -->
 
 8. 41 Kementerian Pelajaran 972,575,300
 
@@ -122,4 +136,4 @@ puluh empatjutalapan tatus empat betas ribu Japan tatus ringgit (RM9,264,814,800
 
 untuk perkhidmatan dan maksud yang dinyatakan dalam Jadual bagi tabun 2010.
 
-[PN(lP)22061V]
+<!-- marginal: [PN(lP)22061V] -->

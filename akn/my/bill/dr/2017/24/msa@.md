@@ -8,23 +8,33 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian i
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Ketidakpakaian Akta 3. Akta hendaklah dibaca bersama-sama dengan undang-undang lain 4. Tafsiran 5. Akses kepada sumber biologi 6. Hak petani kecil
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PIHAK BERKUASA
 
-7. Pihak Berkuasa Kompeten Kebangsaan 8. Fungsi Pihak Berkuasa Kompeten Kebangsaan 9. Pihak Berkuasa Kompeten 10. Fungsi dan kuasa Pihak Berkuasa Kompeten 11. Jawatankuasa Penasihat
+7. Pihak Berkuasa Kompeten Kebangsaan 8. Fungsi Pihak Berkuasa Kompeten Kebangsaan 9. Pihak Berkuasa Kompeten
 
-## Bahagian III
+10. Fungsi dan kuasa Pihak Berkuasa Kompeten
+
+11. Jawatankuasa Penasihat
+
+## BAHAGIAN III
 
 ## KEHENDAK BAGI PERMIT UNTUK MENGAKSES SUMBER BIOLOGI
 
-12. Permohonan permit bagi maksud komersial atau komersial berpotensi 13. Pengeluaran permit bagi maksud komersial atau komersial berpotensi 14. Permit bagi maksud komersial atau komersial berpotensi tidak boleh dipindah milik 15. Permohonan permit bagi maksud bukan komersial
+12. Permohonan permit bagi maksud komersial atau komersial berpotensi
+
+13. Pengeluaran permit bagi maksud komersial atau komersial berpotensi
+
+14. Permit bagi maksud komersial atau komersial berpotensi tidak boleh dipindah milik
+
+15. Permohonan permit bagi maksud bukan komersial
 
 <!-- page 2 -->
 
@@ -44,7 +54,7 @@
 
 23. Kehendak keizinan termaklum awal dan terma dipersetujui bersama, dsb.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PERMIT, DAFTAR, REKOD DAN PELUPUSAN
 
@@ -56,7 +66,7 @@
 
 27. Pelupusan sumber biologi
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PEMBATALAN PERMIT DAN RAYUAN
 
@@ -64,7 +74,7 @@
 
 29. Rayuan terhadap pembatalan permit
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PEMANTAUAN DAN PENGESANAN
 
@@ -74,7 +84,7 @@
 
 <!-- page 3 -->
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## MEKANISME PUSAT PENJELASAN
 
@@ -82,13 +92,13 @@
 
 33. Paparan dan maklumat rahsia
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## LANGKAH PENGGUNA
 
 34. Langkah untuk menyokong undang-undang negara lain
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## KUASA YANG BERHUBUNGAN DENGAN PENGUATKUASAAN, PENYITAAN,
 
@@ -126,7 +136,7 @@
 
 <!-- page 4 -->
 
-## Bahagian X
+## BAHAGIAN X
 
 AM
 
@@ -158,9 +168,9 @@ AM
 
 63. Peruntukan peralihan
 
-## Jadual Pertama
+## JADUAL PERTAMA
 
-## Jadual Kedua
+## JADUAL KEDUA
 
 <!-- page 5 -->
 
@@ -180,7 +190,7 @@ DAN BAHAWASANYA Konvensyen Kepelbagaian Biologi memerintahkan Pihak-Pihak untuk 
 
 Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -370,7 +380,7 @@ dan yang bertutur dalam bahasa orang asli atau anak negeri dan lazimnya mengikut
 
 (2) Bagi maksud seksyen ini, “petani kecil” mempunyai erti yang diberikan kepadanya dalam Akta Perlindungan Varieti Baru Tumbuhan 2004.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PIHAK BERKUASA
 
@@ -454,7 +464,7 @@ dan yang bertutur dalam bahasa orang asli atau anak negeri dan lazimnya mengikut
 
 (4) Jawatankuasa Penasihat hendaklah, atas permintaan, memberikan nasihat bagi perkara saintifik, perundangan, teknikal, etika dan disiplin lain yang berkaitan kepada Pihak Berkuasa Kompeten Kebangsaan dan Pihak Berkuasa Kompeten.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## KEHENDAK BAGI PERMIT UNTUK MENGAKSES
 
@@ -776,7 +786,7 @@ sumber biologi atau pengetahuan tradisi yang berkaitan dengan sumber biologi itu
 
 <!-- page 31 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PERMIT, DAFTAR, REKOD DAN PELUPUSAN
 
@@ -834,7 +844,7 @@ sumber biologi atau pengetahuan tradisi yang berkaitan dengan sumber biologi itu
 
 <!-- page 33 -->
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PEMBATALAN PERMIT DAN RAYUAN
 
@@ -874,7 +884,7 @@ sumber biologi atau pengetahuan tradisi yang berkaitan dengan sumber biologi itu
 
 (3) Bagi maksud seksyen ini, “Mahkamah” ertinya Mahkamah Tinggi Malaya dan Mahkamah Tinggi Sabah dan Sarawak atau sama ada Mahkamah Tinggi di Malaya dan Mahkamah Tinggi di Sabah dan Sarawak, mengikut kehendak keadaan.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PEMANTAUAN DAN PENGESANAN
 
@@ -904,7 +914,7 @@ sumber biologi atau pengetahuan tradisi yang berkaitan dengan sumber biologi itu
 
 (c) jika orang itu ialah suatu pertubuhan perbadanan, didenda tidak melebihi lima ratus ribu ringgit.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## MEKANISME PUSAT PENJELASAN
 
@@ -934,7 +944,7 @@ sumber biologi atau pengetahuan tradisi yang berkaitan dengan sumber biologi itu
 
 (4) Apa-apa penentuan kerahsiaan di bawah subperenggan (3)(b)(i) hendaklah dibuat atas permohonan oleh pemohon.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## LANGKAH PENGGUNA
 
@@ -948,7 +958,7 @@ sumber biologi atau pengetahuan tradisi yang berkaitan dengan sumber biologi itu
 
 (3) Pemberitahuan oleh Pihak Berkuasa Kompeten pihak lain kepada Protokol kepada Pihak Berkuasa Kompeten Kebangsaan bahawa Pihak Berkuasa Kompeten itu tidak mengeluarkan permit atau apa-apa yang seumpamanya untuk akses kepada sumber biologinya atau pengetahuan tradisinya yang berkaitan dengan sumber biologi, atau terma dipersetujui bersama telah ditetapkan, ialah keterangan prima facie pemberitahuan itu.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## KUASA YANG BERHUBUNGAN DENGAN PENGUATKUASAAN,
 
@@ -1112,7 +1122,7 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi 
 
 (2) Seseorang yang tidak mematuhi permintaan yang dibuat di bawah subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tujuh tahun atau kedua-duanya.
 
-## Bahagian X
+## BAHAGIAN X
 
 AM
 
@@ -1316,7 +1326,7 @@ jika perbuatan itu dilakukan dengan suci hati dan dengan mempercayai semunasabah
 
 <!-- page 55 -->
 
-## Jadual Pertama
+## JADUAL PERTAMA
 
 [Subseksyen 9(1)]
 
@@ -1330,11 +1340,7 @@ jika perbuatan itu dilakukan dengan suci hati dan dengan mempercayai semunasabah
 
 <!-- marginal: Wilayah Persekutuan -->
 
-Kementerian Wilayah Semua yang diliputi di bawah
-
-<!-- marginal: Kuala Lumpur, Labuan dan -->
-
-Persekutuan Akta ini
+Kementerian Wilayah Semua yang diliputi di bawah Kuala Lumpur, Labuan dan Persekutuan Akta ini
 
 <!-- marginal: Putrajaya -->
 
@@ -1418,7 +1424,7 @@ Bandar dan Sumber Asli Akta ini
 
 <!-- page 56 -->
 
-## Jadual Kedua
+## JADUAL KEDUA
 
 [Subseksyen 15(1)]
 

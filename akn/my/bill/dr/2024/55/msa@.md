@@ -12,7 +12,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Tajuk ringkas
 
-1. Akta ini bolehlah dinamakan Akta Yayasan Labuan (Pindaan) 2024.
+1. Akta ini bolehlah dinamakan Akta Yayasan Labuan (Pindaan)
+
+2024.
 
 ### Pindaan seksyen 2
 
@@ -58,7 +60,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 8. Akta ibu dipinda dengan memasukkan selepas seksyen 24 bahagian yang berikut:
 
-“Bahagian IVa
+## “BAHAGIAN IVA
 
 ## PEMUNYAAN BENEFISIAL
 

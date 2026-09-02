@@ -14,19 +14,37 @@
 
 ## PERMULAAN
 
-1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran
+1. Tajuk ringkas dan permulaan kuat kuasa
+
+2. Tafsiran
 
 ## BAHAGIAN II
 
 ## AKADEMI SENI BUDAYA DAN WARISAN KEBANGSAAN
 
-3. Penubuhan Akademi Seni Budaya dan Warisan Kebangsaan 4. Ketidakpakaian Akta 30, Akta 550 dan Akta 555 5. Kuasa Akademi 6. Fakulti, Jabatan atau Pusat 7. Penjalanan pengajian, bersama-sama, dsb., dengan mana-mana Universiti, dsb.
+3. Penubuhan Akademi Seni Budaya dan Warisan Kebangsaan
+
+4. Ketidakpakaian Akta 30, Akta 550 dan Akta 555
+
+5. Kuasa Akademi
+
+6. Fakulti, Jabatan atau Pusat
+
+7. Penjalanan pengajian, bersama-sama, dsb., dengan mana-mana Universiti, dsb.
 
 ## BAHAGIAN III
 
 ## PENUBUHAN DAN KUASA LEMBAGA PENGARAH
 
-8. Lembaga Pengarah 9. Kuasa dan fungsi Lembaga 10. Pewakilan kuasa dan fungsi Lembaga 11. Jawatankuasa Lembaga 12. Lembaga Pengajian
+8. Lembaga Pengarah
+
+9. Kuasa dan fungsi Lembaga
+
+10. Pewakilan kuasa dan fungsi Lembaga
+
+11. Jawatankuasa Lembaga
+
+12. Lembaga Pengajian
 
 <!-- page 2 -->
 
@@ -86,13 +104,49 @@
 
 ## BAHAGIAN VII AM
 
-33. Kuasa Menteri untuk memberikan arahan 34. Kuasa Menteri untuk mewakilkan 35. Konvokesyen 36. Akta Perlindungan Pihak Berkuasa Awam 1948 37. Pekhidmat awam 38. Obligasi menyimpan rahsia 39. Prosiding sivil 40. Perbuatan atau peninggalan yang dilakukan dengan suci hati 41. Penyampaian 42. Kuasa Lembaga untuk membuat kaedah-kaedah 43. Pindaan Jadual
+33. Kuasa Menteri untuk memberikan arahan
+
+34. Kuasa Menteri untuk mewakilkan
+
+35. Konvokesyen
+
+36. Akta Perlindungan Pihak Berkuasa Awam 1948
+
+37. Pekhidmat awam
+
+38. Obligasi menyimpan rahsia
+
+39. Prosiding sivil
+
+40. Perbuatan atau peninggalan yang dilakukan dengan suci hati
+
+41. Penyampaian
+
+42. Kuasa Lembaga untuk membuat kaedah-kaedah
+
+43. Pindaan Jadual
 
 ## BAHAGIAN VIII
 
 ## PERALIHAN
 
-44. Pembatalan pendaftaran Akademi Seni Kebangsaan 45. Pemindahan kuasa, hak, kewajipan, dsb. 46. Pemindahmilikan harta 47. Kontrak sedia ada 48. Penerusan prosiding sivil dan jenayah 49. Pemindahan wang 50. Penerusan pegawai dan kakitangan 51. Pelajar 52. Prosiding tatatertib yang belum selesai
+44. Pembatalan pendaftaran Akademi Seni Kebangsaan
+
+45. Pemindahan kuasa, hak, kewajipan, dsb.
+
+46. Pemindahmilikan harta
+
+47. Kontrak sedia ada
+
+48. Penerusan prosiding sivil dan jenayah
+
+49. Pemindahan wang
+
+50. Penerusan pegawai dan kakitangan
+
+51. Pelajar
+
+52. Prosiding tatatertib yang belum selesai
 
 ## JADUAL
 
@@ -384,9 +438,7 @@ if) untuk mengawardkan pengiktirafan, pingat, hadiah dan Iain-lain jenis kepujia
 
 (9) Jika Rektor tidak berupaya, disebabkan sakit, cuti atau apa- apa sebab lain, menjalankan apa-apa fungsi jawatannya, Timbalan Rektor atau, jika terdapat lebih daripada seorang Timbalan Rektor, mana-mana seorang daripada mereka sebagaimana yang dinamakan oleh Menteri hendaklah menjalankan fungsi tersebut, dan sekiranya Timbalan Rektor atau semua Timbalan Rektor (jika terdapat lebih daripada seorang) tidak hadir atau tidak berupaya, Menteri hendaklah membuat apa-apa perkiraan sementara sebagaimana yang difikirkannya wajar bagi menjalankan fungsi tersebut.
 
-(10) Timbalan Rektor yang dinamakan di bawah subseksyen
-
-(9) hendaklah memangku jawatan Rektor dalam masa mana-mana tempoh yang jawatan Rektor itu adalah kosong.
+(10) Timbalan Rektor yang dinamakan di bawah subseksyen (9) hendaklah memangku jawatan Rektor dalam masa mana-mana tempoh yang jawatan Rektor itu adalah kosong.
 
 ### Pendaftar
 
@@ -410,9 +462,7 @@ if) untuk mengawardkan pengiktirafan, pingat, hadiah dan Iain-lain jenis kepujia
 
 16. (1) Lembaga boleh melantik, atas apa-apa terma dan syarat perkhidmatan sebagaimana yang diluluskan oleh Lembaga, mana- mana kakitangan lain termasuk kakitangan akademik yang sesuai sebagaimana yang perlu bagi menjalankan maksud Akademi.
 
-(2) Seseorang kakitangan yang dilantik di bawah subseksyen
-
-(1) hendaklah berada di bawah arahan dan kawalan am Rektor.
+(2) Seseorang kakitangan yang dilantik di bawah subseksyen (1) hendaklah berada di bawah arahan dan kawalan am Rektor.
 
 ## BAHAGIAN V
 
@@ -428,7 +478,9 @@ if) untuk mengawardkan pengiktirafan, pingat, hadiah dan Iain-lain jenis kepujia
 
 (3) Rektor boleh mewakilkan mana-mana kuasa, kewajipan atau fungsi tatatertibnya kepada Timbalan Rektor atau mana-mana anggota kakitangannya berkenaan dengan mana-mana pelajar tertentu, atau mana-mana golongan atau kategori pelajar Akademi.
 
-(4) Timbalan Rektor atau anggota kakitangan yang diwakilkan dengan kuasa, kewajipan atau fungsi tatatertib di bawah subseksyen (3) hendaklah menjalankan, menunaikan atau melaksanakannya di bawah arahan dan kawalan Rektor yang hendaklah mempunyai kuasa untuk mengkaji semula, membatalkan atau mengubah apa- apa keputusan atau dapatan Timbalan Rektor atau anggota kakitangan.
+(4) Timbalan Rektor atau anggota kakitangan yang diwakilkan dengan kuasa, kewajipan atau fungsi tatatertib di bawah subseksyen
+
+(3) hendaklah menjalankan, menunaikan atau melaksanakannya di bawah arahan dan kawalan Rektor yang hendaklah mempunyai kuasa untuk mengkaji semula, membatalkan atau mengubah apa- apa keputusan atau dapatan Timbalan Rektor atau anggota kakitangan.
 
 (5) Mana-mana pelajar yang tidak berpuas hati dengan keputusan—
 
@@ -438,7 +490,9 @@ if) untuk mengawardkan pengiktirafan, pingat, hadiah dan Iain-lain jenis kepujia
 
 boleh merayu terhadap keputusan itu kepada Menteri dan Menteri boleh, jika difikirkannya patut, menolak rayuan itu.
 
-(6) Jika Menteri tidak menolak rayuan itu di bawah subseksyen (5), beliau hendaklah melantik suatu jawatankuasa yang terdiri daripada dua orang atau lebih, dari dalam atau luar Akademi, untuk menimbangkan rayuan itu dan mengemukakan syor kepadanya, dan, apabila syor itu diterima, Menteri boleh memberikan keputusan mengenai rayuan itu sebagaimana yang difikirkannya patut dan wajar.
+(6) Jika Menteri tidak menolak rayuan itu di bawah subseksyen
+
+(5), beliau hendaklah melantik suatu jawatankuasa yang terdiri daripada dua orang atau lebih, dari dalam atau luar Akademi, untuk menimbangkan rayuan itu dan mengemukakan syor kepadanya, dan, apabila syor itu diterima, Menteri boleh memberikan keputusan mengenai rayuan itu sebagaimana yang difikirkannya patut dan wajar.
 
 ### Jawatankuasa Perwakilan Pelajar
 
@@ -614,9 +668,7 @@ melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi li
 
 (6) Subseksyen (1), (2), (3), (4) dan (5) hendaklah terpakai bagi seseorang walaupun mungkin terdapat apa-apa permohonan, petisyen, rayuan atau prosiding lain olehnya atau oleh mana-mana orang lain yang belum selesai di mana-mana mahkamah atau di hadapan mana-mana pihak berkuasa lain yang berhubungan dengan prosiding jenayah, tahanan, atau perintah yang mengenakan sekatan, mengikut mana-mana yang berkenaan:
 
-Dengan syarat bahawa apabila pemutusan dibuat bagi permohonan, petisyen, rayuan atau prosiding lain, Menteri boleh, atas budi bicara mutlaknya, mengambil kira pemutusan tersebut dan memberikan pengecualian kepada pelajar itu daripada pemakaian subseksyen
-
-(1), (2), (3), (4) atau (5), mengikut mana-mana yang berkenaan, mengikut terma dan syarat yang difikirkannya patut dikenakan menurut budi bicara mutlaknya.
+Dengan syarat bahawa apabila pemutusan dibuat bagi permohonan, petisyen, rayuan atau prosiding lain, Menteri boleh, atas budi bicara mutlaknya, mengambil kira pemutusan tersebut dan memberikan pengecualian kepada pelajar itu daripada pemakaian subseksyen (1), (2), (3), (4) atau (5), mengikut mana-mana yang berkenaan, mengikut terma dan syarat yang difikirkannya patut dikenakan menurut budi bicara mutlaknya.
 
 <!-- page 23 -->
 
@@ -778,11 +830,15 @@ id) sebagai atau semasa menjadi pegawai perakaunan, gagal atau telah gagal menyi
 
 <!-- page 29 -->
 
-(4) Lembaga hendaklah memberitahu orang yang disurcaj itu berkenaan dengan apa-apa surcaj yang dibuat di bawah subseksyen (3).
+(4) Lembaga hendaklah memberitahu orang yang disurcaj itu berkenaan dengan apa-apa surcaj yang dibuat di bawah subseksyen
+
+(3).
 
 (5) Walau apa pun subseksyen (3) dan (4), Lembaga boleh pada bila-bila masa menarik balik mana-mana surcaj yang berkenaan dengannya suatu penjelasan yang memuaskan hati telah diterima atau jika selainnya ternyata bahawa tiada surcaj patut dibuat, dan Lembaga hendaklah dengan serta-merta memberitahu orang yang disurcaj itu tentang penarikan balik itu.
 
-(6) Amaun mana-mana surcaj yang dibuat di bawah subseksyen (3) dan tidak ditarik balik di bawah subseksyen (5) hendaklah menjadi hutang yang kena dibayar kepada Akademi daripada orang yang disurcaj itu dan boleh dituntut dan didapatkan di dalam mana- mana mahkamah atas guaman Akademi dan boleh juga jika diarahkan sedemikian oleh Lembaga melalui potongan —
+(6) Amaun mana-mana surcaj yang dibuat di bawah subseksyen
+
+(3) dan tidak ditarik balik di bawah subseksyen (5) hendaklah menjadi hutang yang kena dibayar kepada Akademi daripada orang yang disurcaj itu dan boleh dituntut dan didapatkan di dalam mana- mana mahkamah atas guaman Akademi dan boleh juga jika diarahkan sedemikian oleh Lembaga melalui potongan —
 
 (a) daripada gaji orang yang disurcajkan; atau
 

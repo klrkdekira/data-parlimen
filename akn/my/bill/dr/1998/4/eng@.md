@@ -30,21 +30,61 @@ Supplementary Supply (1996 and 1997) Act 1997, the Act A990. Supplementary Suppl
 
 Purpose Title Appropriation
 
-### to Purpose
+<!-- marginal: to Purpose -->
 
-(RM)
+<!-- marginal: (RM) -->
 
-B. 8 Public Services Department 30,308,862 B. 13 Office of the Federal Secretary, 68,278 Sarawak
+B. 8 Public Services Department
 
-B. 16 Fire Services Department 15,341,224 B. 24 Museum and Antiquities 191,607 Department B. 25 Ministry of Defence . 138,027,952
+<!-- marginal: 30,308,862 -->
 
-B. 26 Ministry of Education 39,818,633 B. 27 Department of National Library 3,694
+B. 13 Office of the Federal Secretary,
 
-B. 30 Contribution to Statutory Funds 6,692,199,889 B. 34 Ministry of Health 18,573,641
+<!-- marginal: 68,278 -->
 
-B. 36 Royal Malaysia Police 50,440,253 B. 40 Prisons Department 1,599,108
+Sarawak
 
-B. 45 Ministry of Human Resources 2,731,551 B. 47 Ministry of Transport 19,386,068 B. 51 Ministry of Foreign Affairs 11,729,503
+B. 16 Fire Services Department
+
+<!-- marginal: 15,341,224 -->
+
+B. 24 Museum and Antiquities
+
+<!-- marginal: 191,607 -->
+
+Department B. 25 Ministry of Defence . 138,027,952
+
+B. 26 Ministry of Education
+
+<!-- marginal: 39,818,633 -->
+
+B. 27 Department of National Library
+
+<!-- marginal: 3,694 -->
+
+B. 30 Contribution to Statutory Funds 6,692,199,889 B. 34 Ministry of Health
+
+<!-- marginal: 18,573,641 -->
+
+B. 36 Royal Malaysia Police
+
+<!-- marginal: 50,440,253 -->
+
+B. 40 Prisons Department
+
+<!-- marginal: 1,599,108 -->
+
+B. 45 Ministry of Human Resources
+
+<!-- marginal: 2,731,551 -->
+
+B. 47 Ministry of Transport
+
+<!-- marginal: 19,386,068 -->
+
+B. 51 Ministry of Foreign Affairs
+
+<!-- marginal: 11,729,503 -->
 
 ## TOTAL
 

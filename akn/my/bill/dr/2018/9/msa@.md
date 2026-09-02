@@ -8,13 +8,25 @@
 
 ## SUSUNAN FASAL
 
-1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran 3. Pemansuhan Akta Cukai Barang dan Perkhidmatan 2014
+1. Tajuk ringkas dan permulaan kuat kuasa
 
-4. Penerusan liabiliti, dsb. 5. Permohonan untuk semakan yang belum selesai dan rayuan yang belum selesai 6. Pengemukaan penyata bagi tempoh bercukai terakhir dan pembayaran cukai barang dan perkhidmatan
+2. Tafsiran
 
-7. Pengemukaan perisytiharan dan pembayaran cukai barang dan perkhidmatan 8. Tuntutan bagi cukai input dan pembayaran balik
+3. Pemansuhan Akta Cukai Barang dan Perkhidmatan 2014
 
-9. Penerusan pelantikan dan pekerjaan 10. Ejen cukai
+4. Penerusan liabiliti, dsb.
+
+5. Permohonan untuk semakan yang belum selesai dan rayuan yang belum selesai
+
+6. Pengemukaan penyata bagi tempoh bercukai terakhir dan pembayaran cukai barang dan perkhidmatan
+
+7. Pengemukaan perisytiharan dan pembayaran cukai barang dan perkhidmatan
+
+8. Tuntutan bagi cukai input dan pembayaran balik
+
+9. Penerusan pelantikan dan pekerjaan
+
+10. Ejen cukai
 
 <!-- page 3 -->
 

@@ -1,0 +1,684 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-18-2018",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_7"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Street, Drainage and Building (Amendment) Bill 2018"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_1__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_1__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Street, Drainage and Building (Amendment) Act 2018."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date as the Minister may, after consultation with the State Authority, appoint in relation to that State by notification in the Gazette and the Minister may, after consultation with the State Authority, appoint different dates for the coming into operation of this Act in different local authority areas or parts of local authority areas."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation in the Federal Territory of Kuala Lumpur, the Federal Territory of Putrajaya and the Federal Territory of Labuan on a date to be appointed by the Minister responsible for the Federal Territory of Kuala Lumpur, the Federal Territory of Putrajaya and the Federal Territory of Labuan by notification in the Gazette."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_1__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_1__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_1__subsec_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_1__subsec_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (3), the State Authority may, by notification in the Gazette—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_1__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_1__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "exempt any part of any local authority area from any of the provisions of this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_1__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_1__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "extend any or all of the provisions of this Act to apply to the whole or any area or part of any area within the State which is not under any local authority; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_1__subsec_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_1__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "make such modifications, amendments or variations to the provisions of this Act as may be necessary for the purpose of its application under paragraph (b). Amendment of section 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Street, Drainage and Building Act 1974 [Act 133], which is referred to as the “principal Act” in this Act, is amended in section 3—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “sky-sign” the following definition: ‘ “slope” means a pitch of land surface or rock whether build or exists naturally including any erection which resist forces and moments of the slope;’; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “frontager” the following definition: ‘ “geotechnical” means an engineering field in relation to the behavior of soil and rock which includes the types, conditions, profiles, structural design, slope stabilization and other monitoring works related to the behavior of the soil and rock;’. Amendment of section 39"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 39 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words “five hundred” the words “fifty thousand”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_3__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_3__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_3__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_3__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the word “wilfully”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_3__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_3__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “one thousand” the words “one hundred thousand”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsections: “(3) Notwithstanding subsections (1) and (2), the local authority may give notice in writing to direct the person to rectify the displacement, take up or make any alteration of the pavement, flags or other materials or in the fences or posts of the public street or execute such repairs on the damages done to the street, footway, verandah way, works or property, or any part thereof. (4) Any person who fails to comply with the directions referred to in subsection (3), the local authority at any time after the expiration of the time so specified in the notice may itself cause the work to be done and recover the cost and expenses thereof from such person.”. Amendment of section 70"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 70(2) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by deleting the word “and” at the end of the paragraph;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by substituting for a full stop at the end of the paragraph the words “; and”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (b) the following paragraph: “(c) to the local authority or the relevant statutory authority a geotechnical report for erection involving slope with a gradient more than twenty-five degrees and total vertical height more than ten metres which the report shall be verified by the Accredited Checker registered with the Board of Engineers under the Registration of Engineers Act 1967 [Act 138].”. Amendment of section 85a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_k"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 85a of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by inserting after the word “buildings” the words “and slopes”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the definition of “owner” the following definition: ‘ “owner” means owner of a building or land and in relation to a subdivided building includes— (a) the owner of a parcel of the building; (b) any person who is responsible for the building; or (c) the joint management body and management corporation under the Strata Management Act 2013 [Act 757].’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the word “only”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “ a storey” the words “, and a land with slope having a gradient more than twenty-five degrees and total vertical height more than ten metres, whether such land erected with or without building”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_d__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_d__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words “the owner of a building, require the building to be inspected”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (a) the following paragraph: “(a) the owner of a building, require the building to be inspected— (i) after the tenth year commencing from the date the certificate of completion and compliance in respect of the building was issued; and (ii) thereafter at intervals of not more than ten years from the date of the completion of the last inspection of the building; and”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_d__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (b) the following paragraph: “(b) the owner of a land with slope, require the slope to be inspected— (i) after the fifth year commencing from the date of the possession of land in respect of the slope; and (ii) thereafter at intervals of not more than five years from the date of the completion of the last inspection of the slope.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_e__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_e__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_e__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “The owner of a building” the words “or land with slope”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_e__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “cause the building” the words “or slope”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_f__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_f__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (5)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_f__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_f",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “the building or cause the building” the words “the building or slope or cause the building or slope”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_f__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_f",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “the owner of the building” the words “or land with slope”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_g__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_g__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_g__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_g__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (6)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_g__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_g",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “building” wherever appearing the words “or slope”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_g__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_g__subpara_ii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_g__subpara_ii__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_g",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_g__subpara_ii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_g__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “structural stability or integrity” the words “structural or slope stability or integrity”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_g__subpara_ii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_g__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “structural investigation” the words “structural or slope investigation”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_g__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_g__subpara_iii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_g__subpara_iii__subpara_B",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_g__subpara_iii__subpara_C"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_g",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (d)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_g__subpara_iii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_g__subpara_iii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “structural investigation” the words “structural or slope investigation”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_g__subpara_iii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_g__subpara_iii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subparagraph (ii) the following subparagraph: “(ii) checking the structural plans of the building or slope together with its structural calculations or geotechnical report, or with a view to determine any inadequacy in the structural elements of the building or slope;”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_g__subpara_iii__subpara_C",
+      "@type": "akn:subparagraph",
+      "eli:number": "C",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_g__subpara_iii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subparagraph (ii) the following subparagraph: “(iia) if the structural plans, structural calculations or geotechnical report referred to in subparagraph (ii) is not available, the engineer shall reconstruct such plans, calculations or report where the local authority so requires, with a view to determine any inadequacy in the structural elements of the building or slope;”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_g__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_g",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (e), by substituting for the words “structural investigation” the words “structural or slope investigation”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (7)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_i__subpara_ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “structural investigation” the words “structural or slope investigation”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_i__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_i__subpara_ii__subpara_i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “building” wherever appearing the words “or slope”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_i__subpara_ii__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_i__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (8), by inserting after the word “building” the words “or land with slope”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (10), by substituting for the words “structural investigation” the words “structural or slope investigation”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsections (11), (12) and (14), by inserting after the word “building” wherever appearing the words “or land with slope”. Amendment of section 133"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 133(xiii) of the principal Act is amended by inserting after the word “buildings” the words “and slopes”. Saving"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_7__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All applications or other matters which are pending approval under the principal Act shall, on the date of coming into operation of this Act, be continued as if the principal Act had not been amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/18/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any order or proceedings which is pending under the principal Act shall, before the date of coming into operation of this Act, continued as if the principal Act had not been amended by this Act."
+      }
+    }
+  ]
+}

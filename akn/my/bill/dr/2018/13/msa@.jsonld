@@ -182,7 +182,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/13/msa@/~cl_4",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (2)— Pindaan seksyen 21"
+        "@value": "dalam subseksyen (2)—"
       }
     },
     {
@@ -202,7 +202,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/13/msa@/~cl_4__para_c",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memotong perkataan “dan perkhidmatan”."
+        "@value": "dengan memotong perkataan “dan perkhidmatan”. Pindaan seksyen 21"
       }
     },
     {

@@ -83,7 +83,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/16/msa@/~cl_2",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: \"(2A) Where a reply is received from the authority as regards the memorandum submitted under subsection (1) indicating the decision of the authority to disallow the change in the existing structure of charges as contained in the memorandum, any person or body of persons who is aggrieved by the decision of the authority may, within fourteen days from the date of such decision, appeal to the Minister whose decision shall be final.\". Pindaan"
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: \"(2A) Where a reply is received from the authority as regards the memorandum submitted under subsection (1) indicating the decision of the authority to disallow the change in the existing structure of charges as contained in the memorandum, any person or body of persons who is aggrieved by the decision of the authority may, within fourteen days from the date of such decision, appeal to the Minister whose decision shall be final.\"."
       }
     },
     {
@@ -91,9 +91,13 @@
       "@type": "akn:clause",
       "eli:number": "3",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/16/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 47 Akta ibu adalah dipinda dengan memasukkan"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Seksyen 47 Akta ibu adalah dipinda dengan memasukkan seksyen 47. selepas subsekyen (1) subseksyen yang berikut: \"(1A) The powers referred to in subsection (1) shall include the power to amend the name of any port under the First Schedule.\"."
+        "@value": "selepas subsekyen (1) subseksyen yang berikut: \"(1A) The powers referred to in subsection (1) shall include the power to amend the name of any port under the First Schedule.\"."
       }
     }
   ]

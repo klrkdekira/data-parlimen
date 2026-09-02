@@ -76,11 +76,7 @@ performing any one or more of those functions; and, where two or more computers 
 
 (c) the overall environmental risk of the premises;
 
-"environmental management system" means a system comprising of an organizational structure with its responsibilities, practices, procedures, processes and resources for implementing and maintaining the system relating to the management of
-
-<!-- marginal: the -->
-
-environment;
+"environmental management system" means a system comprising of an organizational structure with its responsibilities, practices, procedures, processes and resources for implementing and maintaining the system relating to the management of the environment;
 
 "environmental risk" means any risk, hazard or chances of bad consequences that may be brought upon the environment;
 
@@ -116,11 +112,9 @@ environment;
 
 (ii) the lessee of a lease including a sub-lease of the premises, whether registered or otherwise;
 
-(iii) the agent or trustee of any of the owners described
+(iii) the agent or trustee of any of the owners described in subparagraphs (i) and (ii) of this definition or where the owner as described in subparagraphs
 
-<!-- marginal: in -->
-
-subparagraphs (i) and (ii) of this definition or where the owner as described in subparagraphs (i) and (ii) cannot be traced or has died, his legal personal representative; or
+(i) and (ii) cannot be traced or has died, his legal personal representative; or
 
 (iv) the person for the time being receiving the rent of the premises whether on his own account or as agent or trustee for any other person or as receiver or who would receive if the premises were let to a tenant;
 
@@ -222,9 +216,11 @@ substituting for the words "ten thousand" the words
 
 <!-- page 8 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-7. Section 18 of the principal Act is amended— of section
+7. Section 18 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 18.
 
@@ -238,9 +234,11 @@ Amendment
 
 (ii) by substituting for the words "ten thousand" the words "fifty thousand".
 
-Amendment
+<!-- marginal: Amendment -->
 
-8. Section 19 of the principal Act is amended- of section
+8. Section 19 of the principal Act is amended-
+
+<!-- marginal: of section -->
 
 19.
 
@@ -248,9 +246,11 @@ Amendment
 
 (b) by substituting for the words "premises that would cause those premises to become prescribed premises" in paragraph (a) the words "vehicle, or ship, or premises that would cause the vehicle or ship, or premises to become a prescribed conveyance or prescribed premises, as the case may be".
 
-Amendment
+<!-- marginal: Amendment -->
 
-9. Section 21 of the principal Act is amended— of section
+9. Section 21 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 21.
 
@@ -310,9 +310,11 @@ amended—
 
 <!-- page 10 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-13. Section 25 of the principal Act is amended— of section
+13. Section 25 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 25.
 
@@ -326,9 +328,11 @@ Amendment
 
 (iii) by substituting for the words "one thousand dollars" in the English text the words "one thousand ringgit".
 
-Amendment
+<!-- marginal: Amendment -->
 
-14. Subsection 27(2) of the principal Act is amended— of section
+14. Subsection 27(2) of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 27.
 
@@ -338,9 +342,11 @@ Amendment
 
 (c) by substituting for the word "two" the word "five".
 
-Amendment
+<!-- marginal: Amendment -->
 
-15. Section 29 of the principal Act is amended— of section
+15. Section 29 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 29.
 
@@ -366,13 +372,39 @@ Amendment
 
 <!-- marginal: 30B. -->
 
-"Power to 30A. (1) The Minister, after consultation with control the Council, may by order published in the use of Gazette— substance and product
+<!-- marginal: "Power to -->
 
-(a) prescribe any substance as
+30A. (1) The Minister, after consultation with
 
-<!-- marginal: an -->
+<!-- marginal: control -->
 
-and to state environmentally hazardous substance environ- which requires the substance to be mental labelling. reduced, recycled, recovered or regulated in the manner as specified in the order; and
+the Council, may by order published in the
+
+<!-- marginal: use of -->
+
+Gazette—
+
+<!-- marginal: substance -->
+
+<!-- marginal: and -->
+
+<!-- marginal: product -->
+
+(a) prescribe any substance as an
+
+<!-- marginal: and to state -->
+
+environmentally hazardous substance
+
+<!-- marginal: environ- -->
+
+which requires the substance to be
+
+<!-- marginal: mental -->
+
+<!-- marginal: labelling. -->
+
+reduced, recycled, recovered or regulated in the manner as specified in the order; and
 
 (b) prescribe any product as a prescribed product for sale and that the product shall contain a minimum percentage of recycled substances and to carry an appropriate declaration on its recycled constituents, method of manufacture and disposal.
 
@@ -380,25 +412,71 @@ and to state environmentally hazardous substance environ- which requires the sub
 
 (3) Any person who fails or refuses to comply with the order made under subsection (1) shall be guilty of an offence and shall be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a period not exceeding five years or to both.
 
-Power to 30B. The Minister, after consultation with the specify Council, may specify the guide-lines and rules on deposit procedures on deposit and rebate schemes in and rebate connection with the disposal of products that schemes. are considered—
+<!-- marginal: Power to -->
+
+30B. The Minister, after consultation with the
+
+<!-- marginal: specify -->
+
+Council, may specify the guide-lines and
+
+<!-- marginal: rules on -->
+
+<!-- marginal: deposit -->
+
+procedures on deposit and rebate schemes in
+
+<!-- marginal: and rebate -->
+
+connection with the disposal of products that
+
+<!-- marginal: schemes. -->
+
+are considered—
 
 (a) environmentally unfriendly; or
 
-(b) causing adverse constraint on
-
-<!-- marginal: the -->
-
-environment,
+(b) causing adverse constraint on the environment,
 
 <!-- page 12 -->
 
 for the purpose of collecting the products efficiently in order to ensure that the recycling or disposal of the products is done in an environmentally sound manner.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-17. The principal Act is amended by substituting for of section section 31 the following section:
+17. The principal Act is amended by substituting for
 
-31. 31. (1) Where any environmentally hazardous "Power to require substances, pollutants or wastes are being or owner or are likely to be emitted, discharged or deposited occupier to install, from any vehicle, ship or premises irrespective operate, of whether the vehicle, ship or premises are repair, etc. prescribed under section 18 or otherwise, or from any aircraft, the Director General may by notice in writing require the owner or occupier of the vehicle, ship or premises, or aircraft, to—
+<!-- marginal: of section -->
+
+section 31 the following section:
+
+31.
+
+31. (1) Where any environmentally hazardous
+
+<!-- marginal: "Power to -->
+
+<!-- marginal: require -->
+
+substances, pollutants or wastes are being or
+
+<!-- marginal: owner or -->
+
+are likely to be emitted, discharged or deposited
+
+<!-- marginal: occupier -->
+
+<!-- marginal: to install, -->
+
+from any vehicle, ship or premises irrespective
+
+<!-- marginal: operate, -->
+
+of whether the vehicle, ship or premises are
+
+<!-- marginal: repair, etc. -->
+
+prescribed under section 18 or otherwise, or from any aircraft, the Director General may by notice in writing require the owner or occupier of the vehicle, ship or premises, or aircraft, to—
 
 (a) install and operate any control equipment or additional control equipment;
 
@@ -430,7 +508,17 @@ within such time and in such manner as may be specified in the notice.
 
 31 the following section:
 
-"Prohi- 31 A. (1) The Minister, after consultation with bition the Council, may by order published in the order, etc. Gazette specify the circumstances whereby the Director General may issue a prohibition order to the owner or occupier of any industrial plant or process to prevent its continued operation and release of environmentally hazardous substances, pollutants or wastes either absolutely or conditionally, or for such period as he may direct, or until requirements to make remedy as directed by him have been complied with.
+<!-- marginal: "Prohi- -->
+
+31 A. (1) The Minister, after consultation with
+
+<!-- marginal: bition -->
+
+the Council, may by order published in the
+
+<!-- marginal: order, etc. -->
+
+Gazette specify the circumstances whereby the Director General may issue a prohibition order to the owner or occupier of any industrial plant or process to prevent its continued operation and release of environmentally hazardous substances, pollutants or wastes either absolutely or conditionally, or for such period as he may direct, or until requirements to make remedy as directed by him have been complied with.
 
 (2) The Minister, in circumstances where he considers that the environment, public health
 
@@ -442,27 +530,51 @@ or safety is under or likely to be under serious threat, may direct the Director
 
 (b) to effect and render any machinery, equipment, plant or process of the person inoperable.
 
-(3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a period not exceeding two years or to both.".
+(3) Any person who contravenes subsection
 
-Amendment
+(1) or (2) shall be guilty of an offence and shall be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a period not exceeding two years or to both.".
 
-19. The principal Act is amended by substituting for of section section 32 the following section:
+<!-- marginal: Amendment -->
+
+19. The principal Act is amended by substituting for
+
+<!-- marginal: of section -->
+
+section 32 the following section:
 
 32.
 
-32. The owner or occupier of any vehicle, ship "Owner or occupier to or premises irrespective of whether the vehicle, maintain ship or premises are prescribed under section and operate 18 or otherwise, or aircraft shall maintain any equipment. equipment or control equipment installed on the vehicle, ship or premises, or aircraft in good condition and shall operate the equipment or control equipment in a proper and efficient manner.".
+32. The owner or occupier of any vehicle, ship
 
-Amendment
+<!-- marginal: "Owner or -->
 
-20. Section 33 of the principal Act is amended— of section
+<!-- marginal: occupier to -->
+
+or premises irrespective of whether the vehicle,
+
+<!-- marginal: maintain -->
+
+ship or premises are prescribed under section
+
+<!-- marginal: and -->
+
+<!-- marginal: operate -->
+
+18 or otherwise, or aircraft shall maintain any
+
+<!-- marginal: equipment. -->
+
+equipment or control equipment installed on the vehicle, ship or premises, or aircraft in good condition and shall operate the equipment or control equipment in a proper and efficient manner.".
+
+<!-- marginal: Amendment -->
+
+20. Section 33 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 33.
 
-(a) by inserting after the word "deposit" first appearing in subsection (1)
-
-<!-- marginal: the words -->
-
-"environmentally hazardous substances, pollutants or"; and
+(a) by inserting after the word "deposit" first appearing in subsection (1) the words "environmentally hazardous substances, pollutants or"; and
 
 (b) in subsection (2)—
 
@@ -484,7 +596,17 @@ Amendment
 
 <!-- marginal: 33A -->
 
-"Environ- 33A. (1) The Director General may require the mental owner or occupier of any vehicle, ship or audit. premises, irrespective of whether the vehicle, ship or premises are prescribed under section 18 or otherwise, to carry out an environmental audit and to submit an audit report in the manner as may be prescribed by the Minister by regulations made under this Act.
+<!-- marginal: "Environ- -->
+
+33A. (1) The Director General may require the
+
+<!-- marginal: mental -->
+
+owner or occupier of any vehicle, ship or
+
+<!-- marginal: audit. -->
+
+premises, irrespective of whether the vehicle, ship or premises are prescribed under section 18 or otherwise, to carry out an environmental audit and to submit an audit report in the manner as may be prescribed by the Minister by regulations made under this Act.
 
 (2) For the purpose of carrying out an environmental audit and to submit a report thereof, the owner or occupier so directed shall appoint qualified personnel who are registered under subsection (3).
 
@@ -492,9 +614,7 @@ Amendment
 
 <!-- marginal: Amendment -->
 
-22. Subsection 34A(8) of the principal Act
-
-<!-- marginal: is -->
+22. Subsection 34A(8) of the principal Act is
 
 <!-- marginal: of section -->
 
@@ -508,17 +628,41 @@ amended—
 
 <!-- page 16 -->
 
-New Part
+<!-- marginal: New Part -->
 
-23. The principal Act is amended by inserting after Part IVA. IV the following Part:
+23. The principal Act is amended by inserting after Part
+
+<!-- marginal: IVA. -->
+
+IV the following Part:
 
 ## " PART IVA
 
 ## CONTROL OF SCHEDULED WASTES
 
-Prohibiton 34B. (1) No person shall— against placing,
+<!-- marginal: Prohibiton -->
 
-(a) place, deposit or dispose of, or cause or deposit, permit to place, deposit or dispose of, etc. of scheduled except at prescribed premises only, any wastes. scheduled wastes on land or into Malaysian waters;
+34B. (1) No person shall—
+
+<!-- marginal: against -->
+
+<!-- marginal: placing, -->
+
+(a) place, deposit or dispose of, or cause or
+
+<!-- marginal: deposit, -->
+
+permit to place, deposit or dispose of,
+
+<!-- marginal: etc. of -->
+
+<!-- marginal: scheduled -->
+
+except at prescribed premises only, any
+
+<!-- marginal: wastes. -->
+
+scheduled wastes on land or into Malaysian waters;
 
 (b) receive or send, or cause or permit to be received or sent any scheduled wastes in or out of Malaysia; or
 
@@ -586,7 +730,19 @@ Establish- 36B. (1) There shall be established a fund to ment of be known as the
 
 (d) all moneys paid or received in accordance with section 36D.
 
-Environ- 36c. (1) There shall be established a committee mental to be known as the Environmental Fund Fund. Committee which shall have control of the Fund. Committee.
+<!-- marginal: Environ- -->
+
+36c. (1) There shall be established a committee
+
+<!-- marginal: mental -->
+
+to be known as the Environmental Fund
+
+<!-- marginal: Fund. -->
+
+Committee which shall have control of the Fund.
+
+<!-- marginal: Committee. -->
 
 (2) The Committee shall consist of the following members:
 
@@ -602,7 +758,17 @@ Environ- 36c. (1) There shall be established a committee mental to be known as t
 
 (5) Subject to this Act, the Committee may determine its own proceedings.
 
-Contri- 36D. The Minister, after consultation with the bution Council, may require any person engaged in— into the Fund.
+<!-- marginal: Contri- -->
+
+36D. The Minister, after consultation with the
+
+<!-- marginal: bution -->
+
+Council, may require any person engaged in—
+
+<!-- marginal: into the -->
+
+<!-- marginal: Fund. -->
 
 (a) the exploration, extraction, refining, production, bulk movement, distribution or storage, of oil;
 
@@ -614,7 +780,15 @@ Contri- 36D. The Minister, after consultation with the bution Council, may requi
 
 to contribute to the Fund at a rate that he may specify.
 
-Application 36E. The Fund shall be administered for the of the purpose of— Fund.
+<!-- marginal: Application -->
+
+36E. The Fund shall be administered for the
+
+<!-- marginal: of the -->
+
+purpose of—
+
+<!-- marginal: Fund. -->
 
 (a) conducting, promoting and co-ordinating research in relation to any aspect of pollution or the prevention thereof;
 
@@ -630,13 +804,9 @@ Application 36E. The Fund shall be administered for the of the purpose of— Fun
 
 (d) encouraging conservation measures against any damage that may be caused by any of the occurrences spelt out under subparagraph (i), (ii) or (iii) of paragraph (c)".
 
-<!-- marginal: Amendment -->
+Amendment
 
-26. Section 37 of the principal Act is amended—
-
-<!-- marginal: of section -->
-
-<!-- marginal: 37. -->
+26. Section 37 of the principal Act is amended— of section 37.
 
 (a) by substituting for the word "Occupier" in the marginal note the words "Owner or occupier";
 
@@ -656,11 +826,31 @@ Application 36E. The Fund shall be administered for the of the purpose of— Fun
 
 (e) by substituting for the words "two thousand dollars" in subsection (2) in the English text the words "two thousand ringgit".
 
-Amendment
+<!-- marginal: Amendment -->
 
-27. The principal Act is amended by substituting for of section section 38 the following section:
+27. The principal Act is amended by substituting for
 
-38. 38. (1) Where the Director General or any "Power to stop, officer duly authorized in writing by him is board, satisfied, or has reason to believe that any person search, etc. has committed an offence under this Act, he may, if in his opinion it is necessary to do so for the purpose of investigating the offence, without a warrant, stop, board and search any vehicle, ship or aircraft, or enter any premises,
+<!-- marginal: of section -->
+
+section 38 the following section:
+
+38.
+
+38. (1) Where the Director General or any
+
+<!-- marginal: "Power to -->
+
+<!-- marginal: stop, -->
+
+officer duly authorized in writing by him is
+
+<!-- marginal: board, -->
+
+satisfied, or has reason to believe that any person
+
+<!-- marginal: search, etc. -->
+
+has committed an offence under this Act, he may, if in his opinion it is necessary to do so for the purpose of investigating the offence, without a warrant, stop, board and search any vehicle, ship or aircraft, or enter any premises,
 
 <!-- page 21 -->
 
@@ -690,13 +880,29 @@ irrespective of whether the vehicle, ship or premises are prescribed under secti
 
 or are likely to be emitted, discharged or deposited from the vehicle, ship, premises, or aircraft.".
 
-New section
+<!-- marginal: New section -->
 
 28. The principal Act is amended by inserting after
 
 38A. section 38 the following section:
 
-38A. (1) The Director General or any officer "Power to examine duly authorized in writing by him in carrying person out an investigation under this Act may examine acquainted with case. orally any person supposed to be acquainted with the facts and circumstances of the case and shall reduce into writing any statement made by the person so examined.
+38A. (1) The Director General or any officer
+
+<!-- marginal: "Power to -->
+
+<!-- marginal: examine -->
+
+duly authorized in writing by him in carrying
+
+<!-- marginal: person -->
+
+out an investigation under this Act may examine
+
+<!-- marginal: acquainted -->
+
+<!-- marginal: with case. -->
+
+orally any person supposed to be acquainted with the facts and circumstances of the case and shall reduce into writing any statement made by the person so examined.
 
 (2) The person referred to in subsection (1) shall be bound to answer all questions relating to the case put to him by the Director General or any officer duly authorized in writing by him:
 
@@ -752,11 +958,43 @@ Provided that the Director General may release the vehicle or ship so seized upo
 
 <!-- page 24 -->
 
-46B. Where it is proven to the satisfaction of Power of forfeiture the court that the vehicle or ship seized under and this Act is used in the commission of an offence, disposal. the court shall order that the vehicle or ship be forfeited and disposed of in the manner as the court may direct.
+46B. Where it is proven to the satisfaction of
 
-Seizure 46c. (1) Where any vehicle or ship is seized and under this Act and there is no prosecution within forfeiture of vehicle one month from the date of seizure in respect or ship. of the matter, the vehicle or ship shall be deemed to be forfeited at the end of that period unless before that date a written claim on it is made in the manner set out in subsections (2), (3) and (4).
+<!-- marginal: Power of -->
 
-(2) Any person asserting that he is the owner of the vehicle or ship referred to in subsection (1) and that it is not liable to forfeiture may personally or by his agent authorized in writing give a written notice to the officer duly authorized in writing by the Director General in whose possession the vehicle or ship is held that he is making a claim on the vehicle or ship.
+<!-- marginal: forfeiture -->
+
+the court that the vehicle or ship seized under
+
+<!-- marginal: and -->
+
+this Act is used in the commission of an offence,
+
+<!-- marginal: disposal. -->
+
+the court shall order that the vehicle or ship be forfeited and disposed of in the manner as the court may direct.
+
+<!-- marginal: Seizure -->
+
+46c. (1) Where any vehicle or ship is seized
+
+<!-- marginal: and -->
+
+under this Act and there is no prosecution within
+
+<!-- marginal: forfeiture -->
+
+<!-- marginal: of vehicle -->
+
+one month from the date of seizure in respect
+
+<!-- marginal: or ship. -->
+
+of the matter, the vehicle or ship shall be deemed to be forfeited at the end of that period unless before that date a written claim on it is made in the manner set out in subsections (2), (3) and (4).
+
+(2) Any person asserting that he is the owner of the vehicle or ship referred to in subsection
+
+(1) and that it is not liable to forfeiture may personally or by his agent authorized in writing give a written notice to the officer duly authorized in writing by the Director General in whose possession the vehicle or ship is held that he is making a claim on the vehicle or ship.
 
 (3) On receipt of the notice referred to in subsection (2) the officer duly authorized in writing by the Director General shall refer the claim to the Director General who shall direct such officer to refer the matter to a Sessions Court Judge for a decision.
 
@@ -772,15 +1010,75 @@ matter and on proof that an offence under this Act has been committed and that t
 
 (b) in the manner as he deems fit.
 
-No costs or 46D. In any proceedings before any court in damages respect of any vehicle or ship seized in the arising from exercise of any power conferred under this Act, seizure a person shall not be entitled to the costs of unless seizure the proceedings or to any damages or other made relief other than an order for the return of the without reasonable vehicle or ship seized or the payment of its cause. value unless the seizure was made without reasonable cause.
+<!-- marginal: No costs or -->
 
-Compen- 46E. After a person has been convicted for an sation for offence against this Act or any regulations made loss or damage thereunder, the court, in addition to imposing to pro- a penalty for the offence, may, where it appears perty. to the court that any other person has, by reason of the commission of, or the omission resulting in the offence, suffered loss or damage to any property, order the person so convicted to pay the other person the costs and expenses incurred or compensation for loss or damage to the property and any other costs, in the amount as the court considers fit.".
+46D. In any proceedings before any court in
+
+<!-- marginal: damages -->
+
+respect of any vehicle or ship seized in the
+
+<!-- marginal: arising -->
+
+<!-- marginal: from -->
+
+exercise of any power conferred under this Act,
+
+<!-- marginal: seizure -->
+
+a person shall not be entitled to the costs of
+
+<!-- marginal: unless -->
+
+<!-- marginal: seizure -->
+
+the proceedings or to any damages or other
+
+<!-- marginal: made -->
+
+relief other than an order for the return of the
+
+<!-- marginal: without -->
+
+<!-- marginal: reasonable -->
+
+vehicle or ship seized or the payment of its
+
+<!-- marginal: cause. -->
+
+value unless the seizure was made without reasonable cause.
+
+<!-- marginal: Compen- -->
+
+46E. After a person has been convicted for an
+
+<!-- marginal: sation for -->
+
+offence against this Act or any regulations made
+
+<!-- marginal: loss or -->
+
+<!-- marginal: damage -->
+
+thereunder, the court, in addition to imposing
+
+<!-- marginal: to pro- -->
+
+a penalty for the offence, may, where it appears
+
+<!-- marginal: perty. -->
+
+to the court that any other person has, by reason of the commission of, or the omission resulting in the offence, suffered loss or damage to any property, order the person so convicted to pay the other person the costs and expenses incurred or compensation for loss or damage to the property and any other costs, in the amount as the court considers fit.".
 
 <!-- page 26 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-32. The principal Act is amended by substituting for of section section 48 the following section:
+32. The principal Act is amended by substituting for
+
+<!-- marginal: of section -->
+
+section 48 the following section:
 
 48.
 
@@ -790,15 +1088,21 @@ Amendment
 
 (3) Where the owner of the vehicle or ship is unable to pay the costs and expenses incurred in removing or eliminating the oil or mixture containing oil or scheduled wastes, the Director General may apply to the court for the sale of the vehicle or ship and use the proceeds to pay for the costs and expenses of removing or eliminating the oil or mixture containing oil or scheduled wastes.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-33. Section 50 of the principal Act is amended by of section substituting for the words "ten thousand dollars" in the
+33. Section 50 of the principal Act is amended by
+
+<!-- marginal: of section -->
+
+substituting for the words "ten thousand dollars" in the
 
 50. English text the words "ten thousand ringgit".
 
-Amendment
+<!-- marginal: Amendment -->
 
-34. Subsection 51(1) of the principal Act is amended— of section
+34. Subsection 51(1) of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 51.
 
@@ -816,13 +1120,7 @@ Amendment
 
 "(t) regulating environmental audit and the submission of an audit report and the appointment of qualified personnel to assist the Director General in carrying out an environmental audit of any vehicle, ship or premises, irrespective of whether the vehicle, ship or premises are prescribed under section 18 or otherwise, and their manner of operation, and prescribing the fees chargeable;
 
-(u) prohibiting or regulating the manufacture, storage, transportation, or the application or use, emission, discharge, or deposit into the environment,
-
-<!-- marginal: of -->
-
-<!-- marginal: any -->
-
-environmentally hazardous substances;
+(u) prohibiting or regulating the manufacture, storage, transportation, or the application or use, emission, discharge, or deposit into the environment, of any environmentally hazardous substances;
 
 (v) regulating measures to assess, control, reduce or eliminate environmental risk;
 

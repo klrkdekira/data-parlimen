@@ -1,0 +1,1994 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-37-1995",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Standards of Malaysia Bill 1995"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "VESTING OF PROPERTY, ETC., IN SUCCESSOR COMPANY"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_12"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "DIRECTOR GENERAL OF THE DEPARTMENT OF STANDARDS"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The duties and functions of the Director General shall be to foster and promote standards and standardization of specifications as a means of advancing the national economy, benefiting the health, safety and welfare of the public, assisting and protecting consumers, promoting industrial efficiency and development, facilitating domestic and international trade and furthering international co- operation in relation to standards. 12 BILL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2__para_l",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2__para_m",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2__para_n",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2__para_o",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2__para_p",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2__para_q",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2__para_r"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In discharging his duties and functions under subsection (1), the Director General may—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "appoint a sole national agency to co-ordinate standards development activities in Malaysia with a view to developing common standards and codes and to represent Malaysia in international standardization activities;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "promote co-operation between organizations concerned with voluntary standardization in Malaysia and Government departments and agencies for the purpose of achieving compatibility and maximum common usage of standards and codes;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "implement criteria and procedures relating to the preparation, approval, acceptance and designation of standards in Malaysia as approved by the Minister;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "recommend standards submitted by the sole national agency appointed under paragraph (a) as national standards where appropriate and maintain an index of approved standards;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "collect, translate and distribute information on standards and standardization activities in and outside Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "promote the use of standards approved by the Minister;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "recommend to the Minister the adoption of any international or foreign specification, with or without modifications, as are suitable for use in Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "accredit, in accordance with criteria and procedures approved by the Minister, organizations in Malaysia that are engaged in conformity assessment and maintain a register of accredited organizations and of their marks of conformity;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "appoint organizations as agents to provide assessment services for accreditation and registration provided under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "accredit testing laboratories, calibration laboratories and training organizations engaged in training personnel in conformity assessment;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "register, in accordance with criteria and procedures approved by the Minister, persons engaged in conformity assessment services, such as consultancy and auditing, and maintain a register of qualified persons;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "establish and register under the Trade Marks Act 1976 the Department of Standards' own accreditation marks;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2__para_m",
+      "@type": "akn:paragraph",
+      "eli:number": "m",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "authorize and regulate the use of any accreditation mark referred to under paragraph (l);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2__para_n",
+      "@type": "akn:paragraph",
+      "eli:number": "n",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "co-operate with the State Governments, local authorities, the industrial, commercial and trading sectors and such other organizations as he may determine with a view to securing the adoption of standards;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2__para_o",
+      "@type": "akn:paragraph",
+      "eli:number": "o",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "promote, in co-operation with Malaysian organizations engaged in voluntary standards formulation, testing, certification and accreditation, co-operative arrangements with organizations similarly engaged in other countries for the exchange of information;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2__para_p",
+      "@type": "akn:paragraph",
+      "eli:number": "p",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "advise the Minister on the requirement, sources and allocation of financial resources to Malaysian organizations concerned with voluntary standardization to assist them in meeting national and international requirements;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2__para_q",
+      "@type": "akn:paragraph",
+      "eli:number": "q",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "seek and maintain liaison with local and foreign organizations concerned with standardization and other related matters in the public and private sectors, and to maintain contact with industrial needs in standardization; and 14 BILL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2__para_r",
+      "@type": "akn:paragraph",
+      "eli:number": "r",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "perform any other function as the Minister may require."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_11__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may, in writing, delegate to any public officer, subject to such conditions, limitations or restrictions as he thinks fit to impose, any of his duties or functions under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any delegation made under this section shall not prevent the Director General himself from performing the duty or exercising the function so delegated."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Minister may, from time to time, give to the"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Director General directions not inconsistent with the provisions of this Act and the Director General shall give effect to all such directions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_9__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall, from time to time, by notification in the Gazette, appoint a public officer to be the Director General of the Department of Standards for the purpose of carrying out the duties and functions assigned to him under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General shall hold office for such term and subject to such conditions as the Minister may, after consultation with the Public Services Commission, determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General shall have an official seal to be published in the Gazette for the authentication of documents required for the purposes of his duties and functions under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_3__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_3__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_3__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_3__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_3__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_3__subsec_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_3__subsec_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_3__subsec_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_3__subsec_11"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, by order published in the Gazette, appoint a vesting date and on that date, all such property, except those lands referred to in subsection (2), rights, liabilities and functions of the Institute shall, by virtue of this Act, be transferred to and vested in the successor company without any conveyance, assignment or transfer whatever."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_3__subsec_10",
+      "@type": "akn:subsection",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (9), any agreement entered into by the Institute, the subject matter of which relates to any matter falling within the powers and functions of the Director General under this Act, shall, upon the vesting date devolve upon the Government and shall have effect as if the Government had been a party to the agreement."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_3__subsec_11",
+      "@type": "akn:subsection",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where by virtue of subsection (1), any property is transferred to and vested in the successor company, the provisions in Part Thirty of the National Land Code shall, for the purpose of effecting the registration of such vesting, apply to the successor company, as if it were a public authority."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any land held in the name of the Federal Lands Commissioner and which immediately before the vesting date is occupied by the Institute shall continue to be occupied by the successor company under a lease at a rental and on such terms to be agreed upon by the Federal Lands Commissioner and the successor company."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (1), only the functions of the Institute which under this Act are not vested in the Director General and any other body shall be transferred to the successor company."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_3__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every property vested by virtue of subsection (1) in the successor company shall be so vested in the company for the like title or interest as the same was vested or held immediately before the vesting date."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_3__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every chose-in-action vested by virtue of subsection (1) in the successor company may, after the vesting date, be sued on, recovered or enforced by the company in its own name and it shall not be necessary for the company or the Institute to give notice to the person bound by the chose-in-action of the vesting effected by subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_3__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every right and liability vested by subsection (1) in the successor company may, on or after the vesting date, be sued on, recovered or enforced by or against the company in its own name and it shall not be necessary for the company or the Institute to give notice to the person whose rights and liabilities are affected by the vesting under subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_3__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any pending legal proceedings by or against the Institute which relate to any property, right and liability transferred to and vested in the successor company by virtue of subsection (1) may, on or after the vesting date, be continued by or against the successor company. 8 BILL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_3__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In the case of rights and liabilities arising under any loans which vest in the successor company on the vesting date, the company may enter into such arrangements or agreements over such rights and liabilities with the Government of Malaysia or any third party."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_3__subsec_9",
+      "@type": "akn:subsection",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "On or after the vesting date, any agreement relating to any property, rights and liabilities transferred to and vested in the successor company under subsection (1) to which the Institute was a party immediately before the vesting date, whether in writing or not, and whether or not of such a nature that rights and liabilities thereunder could be assigned by the Institute, shall have effect as if the company had been a party to the agreement."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_4__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_4__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "As a consequence of the vesting in the successor company of the property, rights and liabilities under subsection 3(1), the successor company shall issue such securities of the company as the Minister of Finance may, after consultation with the Minister, from time to time, direct."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Securities required to be issued in pursuance of this section shall be issued or allotted at such times and on such terms, as to allotment, as the Minister of Finance may, after consultation with the Minister, direct. STANDARDS OF MALAYSIA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_4__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_4__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Securities under this section—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_4__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_4__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall be of such nominal value as the Minister of Finance may direct; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_4__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_4__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall be issued as fully paid and treated for the purpose of the Companies Act 1965 as if they had been paid up by virtue of the payment to the successor company of their nominal value."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_4__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any dividends or other sums received by the Minister of Finance by virtue of this section shall be paid into the Consolidated Fund."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_5__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_5__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Further issues of the shares of the successor company shall only be made as the Minister of Finance may, after consultation with the Minister, at any time, direct,"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any expenses incurred by the Minister of Finance in consequence of the provisions of this section shall be treated as investments and be authorized under subparagraph 8(3)(a)(iv) of the Financial Procedure Act 1957."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any dividends or other sums received by the Minister of Finance under this section shall be paid into the Consolidated Fund."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_5__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_5__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_5__subsec_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Stamp duty shall not be chargeable in respect of any increase in the capital of the successor company which—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_5__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_5__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "is effected by the issue of shares; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_5__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_5__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "is certified by the Treasury as having been effected by the issue of shares subscribed for by the Minister of Finance under subsection"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_6__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The successor company shall accept into its employment on a date to be appointed by the Minister, by notification in the Gazette, every person who immediately before that date is a member of the staff of the Institute and who was given an option by the Institute and has opted to serve as an employee of such company. 10 BILL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every such person who opts under subsection (1) to serve as an employee of the successor company shall be employed by such company on terms and conditions of service not less favourable than the terms and conditions of service to which he was entitled immediately before the appointed date."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_7__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_7__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_7__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_7__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister of Finance may, from time to time, on behalf of the Government of Malaysia, subscribe for or otherwise acquire all the shares in the successor company."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Shares in the successor company held by the Minister of Finance shall be held by the Minister of Finance Incorporated under the Minister of Finance (Incorporation) Act 1957."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_7__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding any other written law or rule of law, it shall not be necessary to complete or register a transfer of shares of the kind referred to in subsection (2) consequent upon a change in the person holding the office of the Minister of Finance."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_7__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister of Finance may exercise all the rights and powers attaching to the shares in the successor company held by him."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_7__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister of Finance may, at any time, by written notice to the Company Secretary of the successor company, authorize, on such terms and conditions as are specified in the notice, any person as he thinks fit to act as his representative at any or all of the meetings of shareholders of the successor company or of any class of shareholders, and any person so authorized shall be entitled to exercise the same powers, on behalf of the Minister of Finance, as the Minister of Finance could exercise if present in person at the meeting or meetings."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_8__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_8__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_8__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister of Finance shall not—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_8__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "sell or otherwise dispose of any shares in the successor company held by him to any person; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_8__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "permit shares in the successor company to be allotted to any person."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_8__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_8__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Nothing in subsection (1) shall apply to redeemable preference shares that—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_8__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "are not convertible into shares of any other class; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_8__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_II__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "do not confer any rights to vote at any general meeting of the successor company."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_14"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ESTABLISHMENT OF THE STANDARDS AND ACCREDITATION COUNCIL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_1__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "There shall be established a Council to be known as the Malaysian Standards and Accreditation Council consisting of the following members appointed by the Minister:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a Chairman;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a Deputy Chairman;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a representative of the successor company;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "five representatives of the Government; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "not more than seven other members who, in the opinion of the Minister, have wide experience or special knowledge in matters relating to the functions, powers and activities of the Council."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General shall be an ex officio member of the Council."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_3__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_3__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_3__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_3__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_3__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_3__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_3__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_3__para_k"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to the direction and control of the Minister, the duties of the Council shall be—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to advise the Minister in respect of standardization policies, programmes, schemes, projects and activities;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to advise, and submit recommendations for the consideration and approval of, the Minister, in respect of programmes, schemes, projects and activities to promote industrial efficiency and development, and for consumer protection, through standardization activities;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to advise the Minister in respect of standard specifications for commodities, processes, practices and services;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to advise the Minister on the priorities in respect of standardization to ensure maximum effectiveness;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_3__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to advise the Minister on the effective implementation of standard specifications for commodities, processes, practices and services;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_3__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to submit for the consideration and approval of the Minister, criteria and procedures relating to the preparation, approval, acceptance and designation of voluntary standards in Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_3__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to submit for the consideration and approval of the Minister, criteria and procedures relating to the accreditation of testing laboratories, calibration laboratories, organizations engaged in conformity assessment and organizations engaged in training of personnel in conformity assessment;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_3__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to submit for the consideration and approval of the Minister, criteria and procedures for the registration of persons engaged in conformity assessment;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_3__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to advise the Minister on the promotion and implementation of accreditation programmes;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_3__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to advise, and submit recommendations for the consideration and approval of, the Minister in respect of programmes, schemes, projects and activities to promote industrial testing needs and for the development of testing services;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_3__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to perform any other function as may be determined or delegated by the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Council shall, unless he sooner resigns or vacates his office or his appointment is sooner revoked, hold office for a term of three years and shall be eligible for reappointment for any successive periods not exceeding three years."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In the event of the Chairman being absent or unable to act due to illness or any other cause or if the office of the Chairman is vacant, the Deputy Chairman shall carry out the duties and functions of the Chairman."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding section 13, the Council may, subject to the prior approval of the Minister, establish such committees as the Council deems necessary for the discharge of its duties or functions or for any purpose arising out of or connected with any of its duties or functions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Standards of Malaysia Act 1995 and shall apply throughout Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall come into force on such date as the Minister may, by notification in the Gazette, appoint; and the Minister may appoint different dates for the coming into force of different provisions of this Act,"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_I__cl_2__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_I__cl_2__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "\"accreditation\" means a procedure by which an authoritative body gives formal recognition that a body or person is competent to carry out specific tasks; \"certification\" means a procedure by which a third party appointed by the Director General gives written assurance that a commodity, process, practice or service conforms with specified requirements; and \"third party\", 4 BILL in relation to certification, means a body or person that is recognized as being independent of the parties involved as concerns the issue in question; \"commodity\" means any article, product or thing that is a subject of trade or commerce; \"conformity assessment\" means any activity concerned with determining directly or indirectly that relevant requirements are fulfilled; \"Council\" means the Malaysian Standards and Accreditation Council established under subsection 13(1); \"Director General\" means the Director General of the Department of Standards appointed under section 9; \"Institute\" means the Standards and Industrial Research Institute of Malaysia established under the Standards and Industrial Research Institute of Malaysia (Incorporation) Act 1975; \"liabilities\" means liabilities, debts, charges, duties, and obligations of every description (whether present or future, actual or contingent, and whether payable or to be observed or performed in Malaysia or elsewhere); \"mark\" includes any device, brand, heading, label, ticket, name, signature, word, letter, numeral, and any combination thereof; \"mark of conformity\" means protected mark, applied or issued under the rules of a certification system, indicating that adequate confidence is provided that the relevant commodity, process, practice or service is in conformity with a specific standard or other normative document; \"Minister\" means the Minister for the time being charged with the responsibility for standards; \"property\" includes—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_I__cl_2__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_I__cl_2__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_I__cl_2__list_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_I__cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_I__cl_2__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_I__cl_2__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all movable and immovable property and all interests, rights and liabilities, whether equitable or legal in, to or out of such property, chose- in-action, investments, money and goodwill; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_I__cl_2__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_I__cl_2__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all rights and liabilities in respect of contracts in relation to the construction of buildings, and \"vested\", in relation to property, includes rights to property which are future or contingent; \"provisional standard specification\" means a standard specification which has not undergone the normal procedures of technical committees deliberation and public comment and—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_I__cl_2__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_I__cl_2__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_I__cl_2__list_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_I__cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_I__cl_2__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_I__cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "which in the opinion of the Council is urgently needed; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_I__cl_2__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_I__cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in respect of which the Minister considers that trial use thereof is necessary before it can be finalised; \"registration\" means a procedure by which a body appointed by the Director General indicates relevant characteristics of a commodity, process, practice or service or particulars of a body or person, in an appropriate, publicly available list; \"regulations\" means regulations made under section 22; \"rights\" means all rights, powers, privileges and immunities, whether actual, contingent or prospective; \"specification\" means a description of a commodity, process, practice or service by reference to its nature, quality, strength, purity, composition, quantity, dimensions, weight, grade, durability, origin, age, or other characteristics or a description of a commodity by reference to any mark or label on the commodity, and includes a glossary of terms, a definition, a symbol, and a recommended practice; 6 BILL \"standard\" means a document approved by a recognized body, that provides, for common and repeated use, rules, guidelines or characteristics for products or related processes and production methods, with which compliance is not mandatory; and which may also include or deal exclusively with terminology, symbols, packaging, marking or labelling requirements as they apply to a product, process or production method; \"standardization\" means the activity of establishing, with regard to actual or potential problems, provisions for common and repeated use, aimed at the achievement of the optimum degree of order in a given context; \"standard mark\" means a mark registered under the Trade Marks Act 1976 as a certification trade mark; \"standard specification\" means a specification that has been declared to be a standard specification pursuant to section 15; \"successor company\" means the company limited by shares incorporated under the Companies Act 1965 and named by the Minister in the order under subsection 3(1) to which property, rights, liabilities and functions of the Institute are transferred and vested in; \"vesting date\" means the date on which all property, rights, liabilities and functions of the Institute are transferred to and vested in the successor company as specified by the Minister in the order under subsection 3(1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_21"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "STANDARDS"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI__cl_22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "GENERAL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII",
+      "@type": "akn:part",
+      "eli:number": "VII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII__cl_26"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "REPEAL AND TRANSITIONAL PROVISIONS"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII__cl_23__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII__cl_23__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII__cl_23__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Standards and Industrial Research Institute of Malaysia (Incorporation) Act 1975 is repealed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII__cl_23__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (1), all subsidiary legislation made under or in accordance with the repealed Act shall, in so far as they are not inconsistent with this Act, continue in force until modified, revoked or replaced by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII__cl_24__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII__cl_24__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII__cl_24__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII__cl_24__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Neither the repeal under section 23 nor anything contained in this Act shall affect the liability of any person to be punished or prosecuted for offences committed under the repealed Act before the commencement of this Act or shall affect any proceedings brought before that commencement in respect of such offences."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII__cl_24__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any proceedings, whether civil or criminal, or cause of action pending or existing immediately before the vesting date by or against the Institute or any person acting on its behalf may be continued or instituted by or against the successor company as if such proceedings had been instituted by or against the Institute or such person if this Act had not been passed: Provided that if such proceedings relate to matters pertaining to any accreditation agreements, such proceedings shall be continued or instituted by or against the Government."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII__cl_24__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any appeal brought or any leave to appeal applied for on or after the vesting date against a decision given before that date in any legal proceedings to which the Institute was a party may be brought by or against the successor company: Provided that if such appeal relates to matters pertaining to any accreditation agreements, then the appeal shall be brought by or against the Government. 24 BILL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII__cl_25__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII__cl_25__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII__cl_25__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII__cl_25__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All specifications declared to be standard specifications under section 28 of the Standards and Industrial Research Institute of Malaysia (Incorporation) Act 1975 or which by virtue of section 49 of the said Act continue to subsist as standard specifications declared under section 28 and subsisting as standard specifications immediately before the commencement of this Act shall continue to subsist as standard specifications declared under section 15 of this Act until withdrawn under that"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII__cl_25__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All marks registered as certification trade marks by virtue of section 29 of the said Act or deemed to have been registered under section 49 of the said Act and remaining so registered immediately before the commencement of this Act shall continue to remain registered."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII__cl_25__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All licences to use standard marks granted under section 30 of the said Act or subsisting by virtue of subsection 49(3) of the said Act and subsisting immediately before the commencement of this Act shall remain valid until they expire or are revoked under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII__cl_26__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII__cl_26__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII__cl_26__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If any difficulty arises in connection with the transitional provisions contained in this Part, the Minister may, subject to subsection (2), by order make such modifications therein as may appear to him ne.cessary for preventing anomalies."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII__cl_26__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VII__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall not exercise the powers conferred by subsection (1) after the expiration of two years from the commencement of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI__cl_22__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI__cl_22__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI__cl_22__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may make such regulations as may be expedient or necessary for carrying out the purposes of this Act. 22 BILL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI__cl_22__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI__cl_22__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI__cl_22__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI__cl_22__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI__cl_22__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI__cl_22__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI__cl_22__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI__cl_22__subsec_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI__cl_22__subsec_2__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI__cl_22__subsec_2__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI__cl_22__subsec_2__para_j"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to the generality of subsection (1), the Minister may make regulations for or with respect to all or any of the following matters:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI__cl_22__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI__cl_22__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "prescribing the manner in which specifications may be declared to be standard specifications;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI__cl_22__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI__cl_22__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "regulating the promulgation of standard specifications:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI__cl_22__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI__cl_22__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "providing for the amendment or withdrawal of any standard specification or provisional standard specification and regulating the procedure in relation thereto;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI__cl_22__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI__cl_22__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "prescribing the manner in which accreditation or registration certificates may be granted;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI__cl_22__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI__cl_22__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "regulating the issue of accreditation certificates, prescribing terms and conditions upon or subject to which such accreditation certificates may be issued, and regulating the renewal, suspension or revocation of accreditation certificates and the procedure for appealing against such suspension or revocation;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI__cl_22__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI__cl_22__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "regulating the issue of registration certificates, prescribing terms and conditions upon or subject to which such registration certificates may be issued, and regulating the renewal, suspension or revocation of registration certificates, and the procedure for appealing against such suspension or revocation;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI__cl_22__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI__cl_22__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "prescribing methods of proving the existence or non-existence of the terms and conditions of any accreditation or registration certificate granted under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI__cl_22__subsec_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI__cl_22__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "prescribing forms for the purposes of this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI__cl_22__subsec_2__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI__cl_22__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "prescribing matters in respect of which fees are to be payable under this Act or the regulations, the amount of the fees, and the persons liable to pay them;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI__cl_22__subsec_2__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_VI__cl_22__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "prescribing the procedures to be followed at meetings of the Council. STANDARDS OF MALAYSIA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_15__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_15__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_15__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_15__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_15__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, by notification in the Gazette, declare any specification that has been adopted with or without modification, to be a standard specification or a provisional standard specification for the purposes of this Act, and may amend or withdraw any standard specification or provisional standard specification."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where a specification has been declared to be a provisional standard specification, the expression \"Provisional\" or \"P\" shall be included in the title or number of the standard specification."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_15__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No specification shall be declared to be a standard specification, and no standard specification shall be amended or withdrawn, unless the Minister is satisfied that the persons who may be affected by the declaration, amendment or withdrawal have had an opportunity to consider it and to comment thereon to the Minister or to the Council or to an authorized committee of the Council: Provided that this subsection shall not apply to a provisional standard specification."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_15__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The declaration, amendment or withdrawal of a standard specification shall be made in the manner prescribed by regulations or, if no such regulations have been made, in such manner as may be determined by the Minister,"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_15__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall cause the fact of the declaration, amendment or withdrawal, but not the text of the specification declared, amended or withdrawn, and the date on which it is to take effect, to be notified in the Gazette,"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_15__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_15__subsec_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_15__subsec_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In the absence of proof to the contrary—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_15__subsec_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_15__subsec_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a notification in the Gazette under subsection (5) shall be sufficient evidence of the matters stated therein; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_15__subsec_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_15__subsec_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the fact that a specification has been declared to be a standard specification or that a standard specification has been amended or withdrawn shall be sufficient evidence that the requirements of this section have been complied with."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16__subsec_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person or organization desiring to be accredited or registered as—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a conformity assessment organization;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a laboratory for testing or calibration;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a training organization for conformity assessment; or 18 BILL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a person qualified to perform conformity assessment and related services, may apply to the Director General in such manner as may be prescribed by regulations."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the Director General is satisfied, on an application made under subsection (1), that the body, laboratory, training organization, or person, referred to in subsection (1) be accredited or registered, he may grant to the applicant an accreditation or registration certificate subject to such terms and conditions, if any, as prescribed by regulations."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An accreditation or registration certificate under this section shall be granted for a period as specified by the Director General but so long as the terms and conditions of the accreditation or registration certificate are complied with, the accreditation or registration certificate may from time to time be renewed by the Director General for such periods as he may specify."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16__subsec_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every person who applies for an accreditation or registration certificate under this section and every person to whom an accreditation or registration certificate is so granted shall, if he is at any time required by the Director General to do so, submit—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for assessment or examination, all documents;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any information, relating to the operation in respect of which the accreditation or registration certificate is applied for or has been granted."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "When any document has been submitted for assessment or examination under this section, there shall be payable to the Director General by the applicant or accreditation or registration certificate holder, the reasonable costs of the assessment or examination and such other costs as may reasonably be incurred in connection with the assessment or examination."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General shall keep a register in which shall be recorded the details of every accreditation or registration certificate granted under this section and which shall, at all reasonable times, be open for inspection by the public at the Department of Standards."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may at any time suspend or revoke an accreditation or registration certificate granted under this section if, in his opinion, any term and condition attached to the accreditation or registration certificate has been breached, but an accreditation or registration certificate holder whose accreditation or registration certificate has been suspended or revoked by the Director General may appeal to the Minister whose decision shall be final."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_17__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_17__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_17__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_17__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Except with the consent of the Minister, no body of persons, corporate or otherwise, shall exercise the functions for which it is formed under a name that contains the words \"Malaysian Standard\" or any abbreviation or misleading abbreviation thereof or any mark of the Department of Standards or any resemblance thereof."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any written law provides for the registration of any body of persons, the registering authority may refuse registration if in its opinion the use of the name by which the body desires to be registered is prohibited under subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_17__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This section shall, with the necessary modifications, apply to an individual person carrying on business under any name or style other than his own."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_17__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any body of persons that, or any person who, does any act in contravention of this section shall, unless it is proved that the act was not done for gain or with intent to defraud, be guilty of an offence and shall on conviction be liable to a fine not exceeding fifty thousand ringgit. BILL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_18__subsec_1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_18__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_18__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_18__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_18__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_18__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_18__subsec_1__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_18__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_18__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "makes any statement or representation, whether in writing or otherwise, or uses any mark with reference to any commodity, process, practice or service that conveys or is likely to convey the impression that a person who is not registered or certified to use a mark of conformity with reference to that commodity, process, practice or service is so registered or certified or is otherwise entitled to use a mark of conformity;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_18__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_18__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "makes any statement or representation, whether in writing or otherwise, or uses any mark that conveys or is likely to convey the impression that a commodity, process, practice or service complies with a standard specification when it does not so comply;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_18__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_18__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "having been registered or certified to use a mark of conformity, uses that mark of conformity after the revocation or during the suspension of his registration or accreditation certificate or otherwise than in accordance with the terms and conditions of his registration or accreditation certificate;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_18__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_18__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "makes any statement or representation, whether in writing or otherwise, with reference to any commodity, process, practice or service that conveys or is likely to convey the impression that a person who is not accredited under this Act with reference to that commodity, process, practice or service is so accredited;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_18__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_18__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "makes any statement or representation, whether in writing or otherwise, that conveys or is likely to convey the impression that a commodity, process, practice or service complies with the requirements of accreditation when it does not so comply; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_18__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_18__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "having been registered or accredited, uses the registration or accreditation certificate after its revocation, or during its suspension, or otherwise than in accordance with the terms and conditions of the registration or accreditation certificate, shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one hundred thousand ringgit and, in the case of a continuing offence, to a further fine not exceeding one thousand ringgit for every day on which the offence is continued."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Where an offence against this Act has been committed"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "by a body corporate, any person who at the time of the commission of the offence was a director, manager, secretary or other similar officer of the body corporate, or was purporting to act in such capacity, shall be deemed to have committed that offence unless he proves that the offence was committed without his consent or connivance and that he exercised all due diligence to prevent the commission of the offence as he ought to have exercised, having regard to the nature of his functions in that capacity and to all the circumstances."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Where any written law confers power to prescribe"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "or define, whether by subsidiary legislation or otherwise, any characteristics of any commodity, process, practice or service, those characteristics or any of them may be prescribed or defined by reference to any standard specification or part thereof."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/37/eng@/~part_V",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In any written law a standard specification may,"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "without prejudice to any other mode of citation, be cited by the title or number given to it by the Minister; and any such citation shall, unless the context otherwise requires, be deemed to refer to that standard specification as was in force at the time when the law was made."
+      }
+    }
+  ]
+}

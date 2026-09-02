@@ -4,7 +4,7 @@ judges’ ethics committee bill 2008
 
 ARRANgemeNt oF clAuses
 
-## Part i
+## PART I
 
 PRelimiNARY 1. short title and commencement 2. interpretation
 
@@ -12,7 +12,19 @@ PRelimiNARY 1. short title and commencement 2. interpretation
 
 judges’ ethics committee
 
-3. constitution of the committee 4. jurisdiction of the committee 5. membership of the committee 6. substitute member 7. Principles and procedure 8. Proceedings in camera 9. enquiry 10. disclosure of interest 11. meetings of the committee 12. Quorum 13. Adjournment of hearing before the committee 14. Records and minutes of proceedings 15. decision of the committee
+3. constitution of the committee 4. jurisdiction of the committee 5. membership of the committee 6. substitute member 7. Principles and procedure 8. Proceedings in camera 9. enquiry
+
+10. disclosure of interest
+
+11. meetings of the committee
+
+12. Quorum
+
+13. Adjournment of hearing before the committee
+
+14. Records and minutes of proceedings
+
+15. decision of the committee
 
 <!-- page 3 -->
 

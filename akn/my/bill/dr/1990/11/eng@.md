@@ -14,13 +14,35 @@
 
 ## ACTIVITIES PERMITTED WITHIN A FREE ZONE
 
-4. Goods and services in a free zone. 5. Dealing with or disposal of goods in a free zone. 6. Exclusion of goods and services from free status. 7. Goods deemed to be exported from, or imported into, Malaysia. 8. Goods manufactured in a free industrial zone. 9. Penalty. 10. Activity. 11. Goods permitted into a free industrial zone. 12. Goods permitted into a free commercial zone.
+4. Goods and services in a free zone.
+
+5. Dealing with or disposal of goods in a free zone. 6. Exclusion of goods and services from free status.
+
+7. Goods deemed to be exported from, or imported into, Malaysia.
+
+8. Goods manufactured in a free industrial zone.
+
+9. Penalty.
+
+10. Activity.
+
+11. Goods permitted into a free industrial zone.
+
+12. Goods permitted into a free commercial zone.
 
 ## PART III
 
 ## SPECIFIC FUNCTIONS OF AUTHORITY
 
-13. Authority to provide facilities. 14. Authority may permit erection of private buildings, etc. 15. Entry and residence in a free industrial zone. 16. Exclusion of certain goods, etc. 17. Annual reports and accounts.
+13. Authority to provide facilities.
+
+14. Authority may permit erection of private buildings, etc.
+
+15. Entry and residence in a free industrial zone.
+
+16. Exclusion of certain goods, etc.
+
+17. Annual reports and accounts.
 
 ## PART IV
 
@@ -28,11 +50,37 @@
 
 ## AND PROVISIONS AS TO TRIALS AND PROCEEDINGS
 
-18. Persons bound to give information. 19. Penalty for offences not otherwise provided for. 20. Attempts and abetments. 21. Issue of search warrant.
+18. Persons bound to give information.
+
+19. Penalty for offences not otherwise provided for.
+
+20. Attempts and abetments.
+
+21. Issue of search warrant.
 
 <!-- page 2 -->
 
-22. When search may be made without warrant. 23. Officers of customs may stop and search conveyances. 24. Power to open packages and examine goods. 25. Search of persons entering or leaving a free zone. 26. Seizure of goods subject of an offence. 27. Return or disposal of movable property. 28. Powers of arrest. 29. Provisions relating to arrest without warrant. 30. Who may prosecute. 31. Protection of informers from discovery. 32. Offence by bodies of persons and by servants and agents. 33. Compounding of offences. 34. Protection of Government from liability. 35. Protection of officers of customs from liability. 36. No costs or damages shall be recoverable unless seizure is without reasonable or probable cause. 37. Conviction under other written law. 38. Goods liable to forfeiture. 39. Court to order forfeiture and disposal of goods seized. 40. Goods seized in respect of which there is no prosecution. 41. Goods seized may be delivered to the owner or other person.
+22. When search may be made without warrant.
+
+23. Officers of customs may stop and search conveyances.
+
+24. Power to open packages and examine goods.
+
+25. Search of persons entering or leaving a free zone.
+
+26. Seizure of goods subject of an offence.
+
+27. Return or disposal of movable property.
+
+28. Powers of arrest.
+
+29. Provisions relating to arrest without warrant.
+
+30. Who may prosecute.
+
+31. Protection of informers from discovery. 32. Offence by bodies of persons and by servants and agents. 33. Compounding of offences. 34. Protection of Government from liability. 35. Protection of officers of customs from liability. 36. No costs or damages shall be recoverable unless seizure is without reasonable or probable cause. 37. Conviction under other written law. 38. Goods liable to forfeiture. 39. Court to order forfeiture and disposal of goods seized. 40. Goods seized in respect of which there is no prosecution.
+
+41. Goods seized may be delivered to the owner or other person.
 
 ## PARTY
 
@@ -110,7 +158,11 @@ the Customs Act 1967;
 
 <!-- page 6 -->
 
-"excise duty" means any duty imposed by or under Act 176. the Excise Act 1976;
+"excise duty" means any duty imposed by or under
+
+<!-- marginal: Act 176. -->
+
+the Excise Act 1976;
 
 "free zone" means any part of Malaysia declared under the provisions of subsection (1) of section 3 to be a free commercial zone or a free industrial zone;
 
@@ -120,11 +172,7 @@ the Customs Act 1967;
 
 "Langkawi" shall have the same meaning assigned to it under section 163A of the Customs Act 1967;
 
-"manufacture" means the conversion by manual or mechanical means of organic or inorganic material into a new product by changing
-
-<!-- marginal: the size, shape, -->
-
-composition, nature or quality of such materials and includes the assembly of parts into a piece of machinery or other products, but does not include the installation of machinery or equipment for the purpose of construction; and the term "manufacturing activity" with its grammatical variations and cognate expression shall be construed accordingly and, in relation to such term, it shall include any activity as determined by the Director-General to be manufacturing activity:
+"manufacture" means the conversion by manual or mechanical means of organic or inorganic material into a new product by changing the size, shape, composition, nature or quality of such materials and includes the assembly of parts into a piece of machinery or other products, but does not include the installation of machinery or equipment for the purpose of construction; and the term "manufacturing activity" with its grammatical variations and cognate expression shall be construed accordingly and, in relation to such term, it shall include any activity as determined by the Director-General to be manufacturing activity:
 
 Provided that the Director-General may in his absolute discretion determine that the result of any manufacture or manufacturing activity is not a new product or article;
 
@@ -134,7 +182,11 @@ Provided that the Director-General may in his absolute discretion determine that
 
 "principal customs area" means any part of Malaysia but excluding a free zone, Labuan and Langkawi;
 
-"sales tax" means any tax imposed by or under the Act 64. Sales Tax Act 1972;
+"sales tax" means any tax imposed by or under the
+
+<!-- marginal: Act 64. -->
+
+Sales Tax Act 1972;
 
 <!-- page 7 -->
 
@@ -184,19 +236,37 @@ notification shall define the limits of such zone.
 
 ## ACTIVITIES PERMITTED WITHIN A FREE ZONE
 
-Goods and 4. Subject to this Act goods and services of any services in a description, except those specifically and absolutely free zone. prohibited by law, may be brought into, produced, manufactured or provided in a free zone without payment of any customs duty, excise duty, sales tax or service tax.
+<!-- marginal: Goods and -->
 
-Dealing with 5. (1) Unless otherwise provided under this Act or any or disposal of regulations made thereunder no person shall deal with goods in a free zone. or otherwise dispose of any goods in a free zone.
+4. Subject to this Act goods and services of any
+
+<!-- marginal: services in a -->
+
+description, except those specifically and absolutely
+
+<!-- marginal: free zone. -->
+
+prohibited by law, may be brought into, produced, manufactured or provided in a free zone without payment of any customs duty, excise duty, sales tax or service tax.
+
+<!-- marginal: Dealing with -->
+
+5. (1) Unless otherwise provided under this Act or any
+
+<!-- marginal: or disposal of -->
+
+regulations made thereunder no person shall deal with
+
+<!-- marginal: goods in a -->
+
+<!-- marginal: free zone. -->
+
+or otherwise dispose of any goods in a free zone.
 
 (2) Subject to the provisions of this Act, goods in a free zone may—
 
 (a) be removed from such free zone for export or sent into another free zone either in original package or otherwise;
 
-(b) unless otherwise directed by the Authority— (i) be stored, sold, exhibited, broken up, repacked, assembled,
-
-<!-- marginal: distributed, -->
-
-sorted, graded, cleaned, mixed, or otherwise manipulated or be manu- factured in accordance with
+(b) unless otherwise directed by the Authority— (i) be stored, sold, exhibited, broken up, repacked, assembled, distributed, sorted, graded, cleaned, mixed, or otherwise manipulated or be manu- factured in accordance with
 
 <!-- marginal: the -->
 
@@ -296,11 +366,15 @@ zone shall not be taken but of such zone except—
 
 (4) Goods manufactured in a free industrial zone shall not, without the written permission of a proper officer of customs not below the rank of Assistant Director of Customs and Excise, be used or consumed in such zone.
 
-Penalty. 9. Any person who contravenes the provisions of section 5 or 8 shall be guilty of an offence and shall, on conviction, be liable for the first offence to a fine of not less than ten times the amount of the customs or excise duty or tax or five thousand ringgit, whichever is the lesser amount, and of not more than twenty times the amount of the customs or excise duty or tax or five thousand ringgit whichever is the greater amount, and for a second or any subsequent offence to a fine of not less than twenty times the customs or excise duty or tax or ten thousand ringgit whichever is the lesser amount and of not more than forty times the customs or excise duty or tax or ten thousand ringgit, whichever is the greater amount, or to imprisonment for a term not exceeding two years or to both such fine and imprisonment:
+<!-- marginal: Penalty. -->
+
+9. Any person who contravenes the provisions of section 5 or 8 shall be guilty of an offence and shall, on conviction, be liable for the first offence to a fine of not less than ten times the amount of the customs or excise duty or tax or five thousand ringgit, whichever is the lesser amount, and of not more than twenty times the amount of the customs or excise duty or tax or five thousand ringgit whichever is the greater amount, and for a second or any subsequent offence to a fine of not less than twenty times the customs or excise duty or tax or ten thousand ringgit whichever is the lesser amount and of not more than forty times the customs or excise duty or tax or ten thousand ringgit, whichever is the greater amount, or to imprisonment for a term not exceeding two years or to both such fine and imprisonment:
 
 Provided that when the value of the goods cannot be ascertained the penalty may amount to a fine not exceeding five thousand ringgit.
 
-Activity. 10. (1) With the approval of the Minister—
+<!-- marginal: Activity. -->
+
+10. (1) With the approval of the Minister—
 
 (a) there may be carried out in a free commercial zone the activities specified in the First
 
@@ -308,13 +382,7 @@ Activity. 10. (1) With the approval of the Minister—
 
 (b) there may be carried out in a free industrial zone the manufacturing activities specified in the Second Schedule.
 
-(2) The Minister may, from
-
-<!-- marginal: time -->
-
-<!-- marginal: to time, by -->
-
-notification in the Gazette add to, alter or amend the First and the Second Schedules.
+(2) The Minister may, from time to time, by notification in the Gazette add to, alter or amend the First and the Second Schedules.
 
 (3) Subject to section 8, no commercial activity shall be allowed in a free industrial zone.
 
@@ -386,21 +454,61 @@ may consider necessary for the proper and efficient functioning of such zone.
 
 (4) The Authority shall provide adequate enclosures to segregate a free zone from the principal customs area for the protection of revenue together with suitable provisions for the movement of persons, conveyances, vessels and goods entering or leaving a free zone.
 
-Authority
+<!-- marginal: Authority -->
 
-14. (1) The Authority may permit any person to erect may permit such buildings and other structures within a free erection of industrial zone as may be required. private buildings, etc. (2) The Authority may, after consulting
+14. (1) The Authority may permit any person to erect
+
+<!-- marginal: may permit -->
+
+such buildings and other structures within a free
+
+<!-- marginal: erection of -->
+
+industrial zone as may be required.
+
+<!-- marginal: private -->
+
+<!-- marginal: buildings, -->
+
+<!-- marginal: etc. -->
+
+(2) The Authority may, after consulting
 
 <!-- marginal: the -->
 
 Director-General, lease to or allow any person to take, hold or enjoy movable and immovable property of every description in a free industrial zone upon such terms and conditions and for such period as the Authority may determine.
 
-Entry and 15. (1) Subject to this Act no person shall enter or residence reside within a free industrial zone without
+<!-- marginal: Entry and -->
+
+15. (1) Subject to this Act no person shall enter or
+
+<!-- marginal: residence -->
+
+reside within a free industrial zone without
 
 <!-- marginal: the -->
 
-in a free permission of the Authority. industrial zone. (2) Any person who contravenes the provision of subsection (1) shall be guilty of an offence under this Act.
+<!-- marginal: in a free -->
 
-Exclusion 16. (1) The Authority may in its discretion order the of certain exclusion or removal from a free industrial zone of any goods, etc goods, or the discontinuance of any activity or operations, which in its opinion are dangerous or prejudicial to the public interest, health or safety.
+permission of the Authority.
+
+<!-- marginal: industrial -->
+
+<!-- marginal: zone. -->
+
+(2) Any person who contravenes the provision of subsection (1) shall be guilty of an offence under this Act.
+
+<!-- marginal: Exclusion -->
+
+16. (1) The Authority may in its discretion order the
+
+<!-- marginal: of certain -->
+
+exclusion or removal from a free industrial zone of any
+
+<!-- marginal: goods, etc -->
+
+goods, or the discontinuance of any activity or operations, which in its opinion are dangerous or prejudicial to the public interest, health or safety.
 
 (2) An order by the Authority as to the removal or exclusion of any goods, which in the opinion of the Authority are dangerous or prejudicial to public safety, shall, notwithstanding an appeal to the Minister, be complied with immediately; but an order as to the discontinuance of activities or operations shall not take effect, if an appeal has been made to the Minister, until the determination of the appeal in favour of the Authority.
 
@@ -480,7 +588,31 @@ thereunder or abets the commission of such offence shall be punished with the pu
 
 <!-- page 14 -->
 
-Issue of 21. Whenever it appears to any Magistrate on search information and after such enquiry as he may think warrant. necessary, that there is reasonable cause to believe that in any shop, warehouse or other building or place in a free zone, there are concealed or deposited any goods Act 235. in respect of which an offence under the Customs Act Act 176. 1967, the Excise Act 1976, the Sales Tax Act 1972, the Act 64. Act 151. Service Tax Act 1975 or this Act or any regulations made thereunder had been committed, such Magistrate may issue' a warrant authorising an officer of customs, named therein, by day or by night and with or without assistance—
+<!-- marginal: Issue of -->
+
+21. Whenever it appears to any Magistrate on
+
+<!-- marginal: search -->
+
+information and after such enquiry as he may think
+
+<!-- marginal: warrant. -->
+
+necessary, that there is reasonable cause to believe that in any shop, warehouse or other building or place in a free zone, there are concealed or deposited any goods
+
+<!-- marginal: Act 235. -->
+
+in respect of which an offence under the Customs Act
+
+<!-- marginal: Act 176. -->
+
+1967, the Excise Act 1976, the Sales Tax Act 1972, the
+
+<!-- marginal: Act 64. -->
+
+<!-- marginal: Act 151. -->
+
+Service Tax Act 1975 or this Act or any regulations made thereunder had been committed, such Magistrate may issue' a warrant authorising an officer of customs, named therein, by day or by night and with or without assistance—
 
 (a) to enter such shop, warehouse or other building or place and there to search for and seize any goods in respect of which there is reason to believe that the offence aforesaid has been committed, and any book or document which may reasonably be believed to have a bearing on the case;
 
@@ -498,7 +630,21 @@ possession of any goods aforesaid found, or whom such officer may reasonably sus
 
 (f) detain any person found in such place until such place has been searched.
 
-When search 22. Whenever it appears to any senior officer of may be made customs that there is reasonable cause to believe that in without any shop, warehouse or other building or place in a free warrant. zone, there are concealed or deposited any goods in
+<!-- marginal: When search -->
+
+22. Whenever it appears to any senior officer of
+
+<!-- marginal: may be made -->
+
+customs that there is reasonable cause to believe that in
+
+<!-- marginal: without -->
+
+any shop, warehouse or other building or place in a free
+
+<!-- marginal: warrant. -->
+
+zone, there are concealed or deposited any goods in
 
 <!-- page 15 -->
 
@@ -544,7 +690,27 @@ or removed from a free zone and for the purpose of such examination direct the s
 
 <!-- page 16 -->
 
-Search of 25. Any person landing, or being about to land, or persons having recently landed in a free zone, from any vessel entering or leaving or aircraft, whether for the purpose of landing or a free otherwise, or entering or having recently entered a free zone. zone by road or railway or leaving or about to leave a free zone in any vessel or aircraft, or by road or railway shall, if so requested by any proper officer of customs either permit his person, goods and baggage to be searched by such officer, or together with such goods and baggage accompany such officer to a customs office or customs station or police station and there permit his person, goods and baggage to be searched by an officer of customs:
+<!-- marginal: Search of -->
+
+25. Any person landing, or being about to land, or
+
+<!-- marginal: persons -->
+
+having recently landed in a free zone, from any vessel
+
+<!-- marginal: entering -->
+
+<!-- marginal: or leaving -->
+
+or aircraft, whether for the purpose of landing or
+
+<!-- marginal: a free -->
+
+otherwise, or entering or having recently entered a free
+
+<!-- marginal: zone. -->
+
+zone by road or railway or leaving or about to leave a free zone in any vessel or aircraft, or by road or railway shall, if so requested by any proper officer of customs either permit his person, goods and baggage to be searched by such officer, or together with such goods and baggage accompany such officer to a customs office or customs station or police station and there permit his person, goods and baggage to be searched by an officer of customs:
 
 Provided that—
 
@@ -554,7 +720,21 @@ Provided that—
 
 (c) no female shall be searched except by a female officer of customs or police officer.
 
-26. (1) All goods in respect of which there has been, Seizure of goods subject or there is a reasonable cause to believe that there has of an been committed any offence against, or any breach of, offence. the Customs Act 1967, the Excise Act 1976, the Sales Tax Act 1972, the Service Tax Act 1975 or this Act or any regulations made thereunder or any contravention of any restriction or condition subject to which any licence, permit or authorisation has been granted under
+26. (1) All goods in respect of which there has been,
+
+<!-- marginal: Seizure of -->
+
+<!-- marginal: goods subject -->
+
+or there is a reasonable cause to believe that there has
+
+<!-- marginal: of an -->
+
+been committed any offence against, or any breach of,
+
+<!-- marginal: offence. -->
+
+the Customs Act 1967, the Excise Act 1976, the Sales Tax Act 1972, the Service Tax Act 1975 or this Act or any regulations made thereunder or any contravention of any restriction or condition subject to which any licence, permit or authorisation has been granted under
 
 <!-- page 17 -->
 
@@ -574,7 +754,19 @@ Provided that such notice shall not be required to be given where such seizure i
 
 <!-- page 18 -->
 
-Return or 27. (1) Where any movable property has been seized disposal of under this Act, a senior officer of customs may, at his movable discretion— property.
+<!-- marginal: Return or -->
+
+27. (1) Where any movable property has been seized
+
+<!-- marginal: disposal of -->
+
+under this Act, a senior officer of customs may, at his
+
+<!-- marginal: movable -->
+
+discretion—
+
+<!-- marginal: property. -->
 
 (a) temporarily return the movable property to the owner or to the person from whose possession, custody or control it was seized, or to such person as the senior officer of customs may consider entitled thereto, subject to such terms and conditions as may be imposed and, in any case, subject to sufficient security being furnished to the satisfaction of the senior officer of customs that the movable property shall be surrendered to a senior officer of customs on demand and that the said terms and conditions, if any, shall be complied with; or
 
@@ -618,7 +810,13 @@ necessary or expedient with regard to the exercise of the powers conferred on a 
 
 (6) No person shall be entitled to maintain any action on account of any act done or any decision taken by or on behalf of the Minister or by or on behalf of a senior officer of customs under this section, and no court shall have any jurisdiction to entertain any such action.
 
-Powers of 28. Any officer of customs may arrest in a free zone arrest. without warrant—
+<!-- marginal: Powers of -->
+
+28. Any officer of customs may arrest in a free zone
+
+<!-- marginal: arrest. -->
+
+without warrant—
 
 (a) any person found committing or attempting to commit, or employing or aiding any person to commit, or abetting the commission of an offence against this Act or any regulations made thereunder;
 
@@ -630,7 +828,23 @@ and may search, or cause to be searched, any person so arrested:
 
 Provided that no female shall be searched except by a female officer of customs or police officer.
 
-Provisions 29. (1) An officer of customs making an arrest without relating to warrant shall, without unnecessary delay and subject to arrest without the provisions of this Act, as to bail or previous release, warrant. take or send the person arrested before a Magistrates' Court.
+<!-- marginal: Provisions -->
+
+29. (1) An officer of customs making an arrest without
+
+<!-- marginal: relating to -->
+
+warrant shall, without unnecessary delay and subject to
+
+<!-- marginal: arrest -->
+
+<!-- marginal: without -->
+
+the provisions of this Act, as to bail or previous release,
+
+<!-- marginal: warrant. -->
+
+take or send the person arrested before a Magistrates' Court.
 
 <!-- page 21 -->
 
@@ -674,9 +888,35 @@ name or address of an informer or the substance of the information received from
 
 wilfully made in his complaint a material statement which he knew or believed to be false or did not believe to be true, or if in any other proceedings the court is of the opinion that justice cannot be fully done between the parties thereto without the discovery of the informer, it shall be lawful for the court to require the production of the original complaint, if in writing, and permit enquiry, and require full disclosure, concerning the informer.
 
-32. (1) Where an offence against this Act or any Offence by bodies of regulations made thereunder has been committed by a persons and company, firm, society or other body of persons, any by servants and agents. person who at the time of the commission of the offence was a director, manager, secretary or other similar officer of the company, society or other body of persons, a partner or manager of the firm, or such other person purporting to act in such capacity or such person having charge or control of the company, firm, society or other body of persons shall be deemed to be guilty of that offence, unless he proves that the offence was committed without his consent or connivance and that he has exercised all such diligence to prevent the commission of the offence as he ought to have exercised, having regard to the nature of his functions in that capacity and to all the circumstances. (2) Where any person would be liable under this Act to any punishment, penalty or forfeiture for any act, omission, neglect or default he shall be liable to the same punishment, penalty or forfeiture for every such act, omission, neglect or default of any clerk, servant or agent, or of the clerk or servant of such agent provided that such act, omission, neglect or default was com- mitted by such clerk or servant in the course of his employment or by such agent when acting on behalf of such person or by the clerk or servant of such agent when acting in the course of his employment in such circumstances that had such act, omission, neglect or default been committed by the agent his principal would have been liable under this section.
+32. (1) Where an offence against this Act or any
 
-Com- 33. (1) Any senior officer of customs may compound pounding any offence under this Act which is prescribed to be of offences. a compoundable offence by reguiring the person
+<!-- marginal: Offence by -->
+
+<!-- marginal: bodies of -->
+
+regulations made thereunder has been committed by a
+
+<!-- marginal: persons and -->
+
+company, firm, society or other body of persons, any
+
+<!-- marginal: by servants -->
+
+<!-- marginal: and agents. -->
+
+person who at the time of the commission of the offence was a director, manager, secretary or other similar officer of the company, society or other body of persons, a partner or manager of the firm, or such other person purporting to act in such capacity or such person having charge or control of the company, firm, society or other body of persons shall be deemed to be guilty of that offence, unless he proves that the offence was committed without his consent or connivance and that he has exercised all such diligence to prevent the commission of the offence as he ought to have exercised, having regard to the nature of his functions in that capacity and to all the circumstances. (2) Where any person would be liable under this Act to any punishment, penalty or forfeiture for any act, omission, neglect or default he shall be liable to the same punishment, penalty or forfeiture for every such act, omission, neglect or default of any clerk, servant or agent, or of the clerk or servant of such agent provided that such act, omission, neglect or default was com- mitted by such clerk or servant in the course of his employment or by such agent when acting on behalf of such person or by the clerk or servant of such agent when acting in the course of his employment in such circumstances that had such act, omission, neglect or default been committed by the agent his principal would have been liable under this section.
+
+<!-- marginal: Com- -->
+
+33. (1) Any senior officer of customs may compound
+
+<!-- marginal: pounding -->
+
+any offence under this Act which is prescribed to be
+
+<!-- marginal: of offences. -->
+
+a compoundable offence by reguiring the person
 
 <!-- page 23 -->
 
@@ -754,11 +994,43 @@ reasonable or probable cause.
 
 <!-- page 24 -->
 
-Conviction 37. Nothing in this Act shall prevent any person from under other being prosecuted under any written law for any act, written law. omission, neglect or default which constitutes an offence under this Act or any regulations made thereunder, or from being liable under that written law to any punishment or penalty higher or otherwise than that provided by this Act or any regulations made thereunder.
+<!-- marginal: Conviction -->
 
-Goods liable 38. All goods seized under this Act shall be liable to to forfeiture. forfeiture.
+37. Nothing in this Act shall prevent any person from
 
-Court to 39. (1) An order for the forfeiture or for the release of order anything liable to forfeiture under the provisions of this forfeiture and disposal of Act shall be made by the Court before which the goods seized. prosecution with regard thereto has been held, and an order for the forfeiture of goods shall be made if it is proved to the satisfaction of the Court that an offence against this Act or any regulations made thereunder has been committed and that the goods were the subject matter of, or were used in the commission of, the offence notwithstanding that no person may have been convicted of such offence.
+<!-- marginal: under other -->
+
+being prosecuted under any written law for any act,
+
+<!-- marginal: written law. -->
+
+omission, neglect or default which constitutes an offence under this Act or any regulations made thereunder, or from being liable under that written law to any punishment or penalty higher or otherwise than that provided by this Act or any regulations made thereunder.
+
+<!-- marginal: Goods liable -->
+
+38. All goods seized under this Act shall be liable to
+
+<!-- marginal: to forfeiture. -->
+
+forfeiture.
+
+<!-- marginal: Court to -->
+
+39. (1) An order for the forfeiture or for the release of
+
+<!-- marginal: order -->
+
+anything liable to forfeiture under the provisions of this
+
+<!-- marginal: forfeiture and -->
+
+<!-- marginal: disposal of -->
+
+Act shall be made by the Court before which the
+
+<!-- marginal: goods seized. -->
+
+prosecution with regard thereto has been held, and an order for the forfeiture of goods shall be made if it is proved to the satisfaction of the Court that an offence against this Act or any regulations made thereunder has been committed and that the goods were the subject matter of, or were used in the commission of, the offence notwithstanding that no person may have been convicted of such offence.
 
 (2) The Court shall order the forfeiture of,—
 
@@ -814,13 +1086,7 @@ calendar month from the date of seizure unless a claim thereto is made before th
 
 [Section 10 (1) (a)]
 
-(1)
-
-<!-- marginal: (2) -->
-
-Name of Free Commercial Zone
-
-<!-- marginal: Activities -->
+(1) (2) Name of Free Commercial Zone Activities
 
 1. Mukim of Plentong District of Johor Bahru:
 
@@ -838,13 +1104,7 @@ Lot No. (Pt. 1443) Town of Bukit Kayu Hitam, Mukim of Sungai Laka, District of K
 
 [Section 10 (1) (b)]
 
-(1)
-
-<!-- marginal: (2) -->
-
-Name of Free Industrial Zone
-
-<!-- marginal: Activities -->
+(1) (2) Name of Free Industrial Zone Activities
 
 1. Mukim Plentong, Johor Bahru: Manufacturing
 
@@ -868,13 +1128,7 @@ All that land situated in the Mukim of Pringgit, in the Central District of Mela
 
 <!-- page 28 -->
 
-(1)
-
-<!-- marginal: (2) -->
-
-Name of Free Industrial Zone
-
-<!-- marginal: Activities -->
+(1) (2) Name of Free Industrial Zone Activities
 
 Langat, Selangor, bounded by the grey line as shown in the Gazette Flan 440 deposited in the Office of the Director of Survey, Selangor.
 
@@ -904,43 +1158,35 @@ All that land bounded by the grey line as shown in the Gazette Plan 290 deposite
 
 ## AMENDMENTS AND REPEAL
 
-(1) (2) Acts Amendments
+(1) (2)
 
-Customs Act 1967 Section 2 is amended by substituting for subsection (1A) the following new subsection (1A): "(1A) For the purposes of this Act (other than section 31), a free zone shall be deemed to be a place outside Malaysia.
+<!-- marginal: Acts -->
+
+Amendments
+
+<!-- marginal: Customs Act 1967 -->
+
+Section 2 is amended by substituting for subsection (1A) the following new subsection (1A): "(1A) For the purposes of this Act (other than section 31), a free zone shall be deemed to be a place outside Malaysia.
 
 In this subsection, the expression "free zone" has the meaning assigned to it under section 2 of the Free Zones Act 1990.".
 
-Excise Act 1976 " Subsection (1) of section 2
+<!-- marginal: Excise Act 1976 " -->
 
-<!-- marginal: is -->
+Subsection (1) of section 2 is amended by substituting for the definition of "free Trade zone" the following new definition: " "free zone" has the meaning assigned to it under section 2 of the Free Zones Act 1990 and for the purposes of this Act a free zone shall be deemed to be a place outside Malaysia;".
 
-amended by substituting
+therefor the following new section
 
-<!-- marginal: for -->
+<!-- marginal: Sales Tax Act 1972 -->
 
-<!-- marginal: the -->
-
-definition of "free Trade zone" the following new definition: " "free zone" has the meaning assigned to it under section 2 of the Free Zones Act 1990 and for the purposes of this Act a free zone shall be deemed to be a place outside Malaysia;".
-
-therefor the following new section Sales Tax Act 1972 Section 2A is amended by substituting
+Section 2A is amended by substituting
 
 2A: "2A. For the purpose of this Act, a free zone shall be deemed to be a place outside Malaysia.
 
 <!-- page 30 -->
 
-(1) '
+(1) ' (2) Acts Amendments
 
-<!-- marginal: (2) -->
-
-Acts
-
-<!-- marginal: Amendments -->
-
-In this section, the expression "free zone" has
-
-<!-- marginal: the meaning -->
-
-assigned to it under section 2 of the Free Zones Act 1990.".
+In this section, the expression "free zone" has the meaning assigned to it under section 2 of the Free Zones Act 1990.".
 
 Service Tax Act 1975 Insert immediately after section 2 the following new section 2A: "2A. For the purposes of this Act, a free zone shall be deemed to be a place outside Malaysia.".
 
@@ -948,15 +1194,9 @@ In this section, the expression "free zone" has the same meaning assigned to it 
 
 Promotion of Invest-
 
-(a) Subsection (5) of section 36 is ments Act 1986 amended by substituting the words "Free Industrial Zone" for the words
+(a) Subsection (5) of section 36 is ments Act 1986 amended by substituting the words "Free Industrial Zone" for the words "Free Trade Zone" appearing therein; and
 
-<!-- marginal: "Free Trade Zone" -->
-
-appearing therein; and
-
-(b) subsection (3) of section 36A is amended by
-
-<!-- marginal: substituting -->
+(b) subsection (3) of section 36A is amended by substituting
 
 <!-- marginal: the -->
 
@@ -1042,7 +1282,9 @@ This Bill seeks to introduce a new law—
 
 <!-- page 34 -->
 
-32. Clause 28 and Clause 29 seek to provide officers of customs with powers to effect arrest without warrant in a free zone and the manner in which the arrest is to be dealt with respectively. 33. Clause 30 seeks to provide the power to prosecute under the Bill.
+32. Clause 28 and Clause 29 seek to provide officers of customs with powers to effect arrest without warrant in a free zone and the manner in which the arrest is to be dealt with respectively.
+
+33. Clause 30 seeks to provide the power to prosecute under the Bill.
 
 34. Clause 31 seeks the protect informers from being discovered or disclosed in any civil or criminal proceedings and at the same time this clause also provides the safeguard by giving the court a discretion to order disclosure of the identity of the informer in order to do justice in any particular case.
 
@@ -1106,6 +1348,4 @@ mentioned in the Third Schedule.
 
 ## IMPLICATIONS
 
-This Bill will not involve the Government in any extra financial expenditure.
-
-<!-- marginal: [PN. (IP) 1496.] -->
+This Bill will not involve the Government in any extra financial expenditure. [PN. (IP) 1496.]

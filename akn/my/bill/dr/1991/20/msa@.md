@@ -14,25 +14,43 @@ Suatu Akta untuk meminda Perlembagaan Persekutuan. [ ]
 
 oleh Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan Dewan Negara dan Dewan Rakyat yang bersidang dalam Parlimen, dan dengan kuasa daripadanya, seperti berikut:
 
-1. Akta ini bolehlah dinamakan Akta Perlembagaan Tajuk ringkas. (Pindaan) 1991.
+1. Akta ini bolehlah dinamakan Akta Perlembagaan
 
-Pindaan
+<!-- marginal: Tajuk -->
 
-2. Perkara 54 Perlembagaan Persekutuan adalah dipinda, Perkara 54. dalam Fasal (1), dengan menggantikan perkataan- perkataan "oleh Suruhanjaya Pilihanraya adanya kekosongan" dengan perkataan-perkataan "oleh Yang Dipertua Dewan Negara bahawa ada kekosongan atau oleh Suruhanjaya Pilihanraya bahawa ada kekosongan luar jangka, mengikut rnana-mana yang berkenaan,".
+<!-- marginal: ringkas. -->
 
-Pindaan
+(Pindaan) 1991.
 
-3. Perkara 132 Perlembagaan Persekutuan adalah Perkara 132. dipinda—
+<!-- marginal: Pindaan -->
 
-(a) dalam Fasal (1), dengan memotong perenggan
+2. Perkara 54 Perlembagaan Persekutuan adalah dipinda,
 
-(e)\ dan
+## Perkara 54.
+
+dalam Fasal (1), dengan menggantikan perkataan- perkataan "oleh Suruhanjaya Pilihanraya adanya kekosongan" dengan perkataan-perkataan "oleh Yang Dipertua Dewan Negara bahawa ada kekosongan atau oleh Suruhanjaya Pilihanraya bahawa ada kekosongan luar jangka, mengikut rnana-mana yang berkenaan,".
+
+<!-- marginal: Pindaan -->
+
+3. Perkara 132 Perlembagaan Persekutuan adalah
+
+## Perkara 132.
+
+dipinda—
+
+(a) dalam Fasal (1), dengan memotong perenggan (e)\ dan
 
 (b) dalam Fasal (2A), dengan memotong huruf dan tanda bacaan "( e ) ".
 
 <!-- page 2 -->
 
-4. Perkara 139 Perlembagaan Persekutuan adalah Pindaan Perkara 139. dipinda, dalam Fasal (1), dengan menggantikan perkataan-perkataan "perenggan (c), (e) dan (/)" dengan perkataan-perkataan "perenggan (c) dan (/)".
+4. Perkara 139 Perlembagaan Persekutuan adalah
+
+<!-- marginal: Pindaan -->
+
+## Perkara 139.
+
+dipinda, dalam Fasal (1), dengan menggantikan perkataan-perkataan "perenggan (c), (e) dan (/)" dengan perkataan-perkataan "perenggan (c) dan (/)".
 
 ## HURAIAN
 

@@ -4,7 +4,7 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -14,7 +14,7 @@
 
 3. Interpretation
 
-## Part II
+## PART II
 
 ## MINIMUM RETIREMENT AGE
 
@@ -26,7 +26,7 @@
 
 7. Invalidity of term of contract of service and collective agreement
 
-## Part III
+## PART III
 
 ## COMPLAINTS AND INQUIRIES
 
@@ -38,7 +38,7 @@
 
 11. Non-compliance with direction of Director General
 
-## Part IV
+## PART IV
 
 ## INVESTIGATION AND ENFORCEMENT
 
@@ -50,7 +50,7 @@
 
 <!-- page 2 -->
 
-## Part V
+## PART V
 
 ## GENERAL
 
@@ -62,7 +62,9 @@
 
 18. Exemption
 
-19. Power to make regulations S chedule
+19. Power to make regulations
+
+## S CHEDULE
 
 <!-- page 3 -->
 
@@ -74,7 +76,7 @@ An Act to provide for the minimum retirement age and for any related matters the
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -130,7 +132,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 “minimum retirement age” means the minimum retirement age provided under subsection 4(1) and where the Minister prescribes a higher minimum retirement age under subsection 4(2), such higher minimum retirement age.
 
-## Part II
+## PART II
 
 ## MINIMUM RETIREMENT AGE
 
@@ -164,7 +166,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (2) Any term in a contract of service or collective agreement relating to retirement age shall be void if it excludes or limits the operation of any provision of this Act.
 
-## Part III
+## PART III
 
 ## COMPLAINTS AND INQUIRIES
 
@@ -230,7 +232,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (b) in the same manner as a fine as provided under section 283 of the Criminal Procedure Code [Act 593].
 
-## Part IV
+## PART IV
 
 ## INVESTIGATION AND ENFORCEMENT
 
@@ -274,7 +276,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (2) If the Director General is satisfied that the retaining of any document is no longer necessary, the Director General may return the document to the person who has provided the document as soon as practicable.
 
-## Part V
+## PART V
 
 ## GENERAL
 
@@ -306,7 +308,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 19. The Minister may make such regulations as may be necessary and expedient for the purpose of carrying into effect the provisions of this Act.
 
-## Schedule
+## SCHEDULE
 
 (Section 2)
 
@@ -338,7 +340,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 This Bill seeks to provide for the minimum retirement age of an employee and to provide for matters related thereto.
 
-## Part I
+## PART I
 
 2. Part I deals with preliminary matters.
 
@@ -348,7 +350,7 @@ This Bill seeks to provide for the minimum retirement age of an employee and to 
 
 5. Clause 3 contains the definitions of certain expressions used in the proposed Act.
 
-## Part II
+## PART II
 
 6. Part II of the proposed Act which contains clauses 4 to 7 deals with the minimum retirement age, premature retirement, optional retirement and implication of the implementation of the minimum retirement age under the proposed Act to the terms and conditions relating to retirement age in a contract of service and a collective agreement.
 
@@ -362,7 +364,7 @@ This Bill seeks to provide for the minimum retirement age of an employee and to 
 
 10. Clause 7 seeks to provide that any retirement age in a contract of service or a collective agreement made before, on or after the coming into operation of the proposed Act which is less than the minimum retirement age provided under the proposed Act, will be deemed to be void and substituted with the minimum retirement age provided under the proposed Act.
 
-## Part III
+## PART III
 
 11. Part III of the proposed Act which contains clauses 8 to 11 deals with the complaints and inquiries.
 
@@ -374,7 +376,7 @@ This Bill seeks to provide for the minimum retirement age of an employee and to 
 
 15. Clause 11 provides the penalty for an employer who fails to comply with the direction of the Director General and empowers the court to make an order for the purpose of executing the direction of the Director General.
 
-## Part IV
+## PART IV
 
 16. Part IV of the proposed Act which contains clauses 12 to 14 deals with the investigation and enforcement.
 
@@ -384,7 +386,7 @@ This Bill seeks to provide for the minimum retirement age of an employee and to 
 
 19. Clause 14 enables the Director General to require the production of any document related to his investigation.
 
-## Part V
+## PART V
 
 20. Part V of the proposed Act which contains clauses 15 to 19 deals with general provisions.
 

@@ -58,7 +58,27 @@ Perbekalan Tambahan (1989) 1990 dan Akta Perbekalan Tambahan (1989 dan 1990) 199
 
 ## RANG UNDANG-UNDANG
 
-Perbelanjaan 3. (1) Maka adalah dibenarkan supaya dikeluarkan tambahan sejumlah wang yang tidak melebihi tiga ratus tujuh puluh bagi tahun tujuh juta dua ratus lima ribu enam ratus ringgit 1990. ($377,205,600) daripada Kumpulan Wang Disatukan bag! perbelanjaan untuk perkhidmatan-perkhidmatan yang dinyatakan dalam Jadual Kedua bagi perkhidmatan tahun 1990, yang tidak diperuntukkan atau yang tidak Akta A744. diperuntukkan dengan sepenuhnya oleh Akta Perbekalan Akta A773. 1990 dan Akta Perbekalan Tambahan (1989 dan 1990) 1990.
+<!-- marginal: Perbelanjaan -->
+
+3. (1) Maka adalah dibenarkan supaya dikeluarkan
+
+<!-- marginal: tambahan -->
+
+sejumlah wang yang tidak melebihi tiga ratus tujuh puluh
+
+<!-- marginal: bagi tahun -->
+
+tujuh juta dua ratus lima ribu enam ratus ringgit
+
+1990. ($377,205,600) daripada Kumpulan Wang Disatukan bag! perbelanjaan untuk perkhidmatan-perkhidmatan yang dinyatakan dalam Jadual Kedua bagi perkhidmatan tahun 1990, yang tidak diperuntukkan atau yang tidak
+
+<!-- marginal: Akta A744. -->
+
+diperuntukkan dengan sepenuhnya oleh Akta Perbekalan
+
+<!-- marginal: Akta A773. -->
+
+1990 dan Akta Perbekalan Tambahan (1989 dan 1990) 1990.
 
 (2) Wang yang tersebut itu adalah diperuntukkan bagi maksud-maksud yang dinyatakan dalam Jadual Kedua.
 
@@ -80,9 +100,9 @@ B. 30 Peruntukan kepada Kumpulan
 
 Wang Terkanun
 
-<!-- marginal: JUMLAH .. -->
+## JUMLAH ..
 
-<!-- marginal: 600,000,000 -->
+600,000,000
 
 ## JADUAL KEDUA
 
@@ -134,9 +154,7 @@ Perindustrian
 
 ## PERBEKALAN TAMBAHAN
 
-(1989 DAN
-
-<!-- marginal: (No. -->
+(1989 DAN (No.
 
 Maksud Tajuk
 
@@ -146,15 +164,7 @@ Maksud Tajuk
 
 <!-- marginal: maksud -->
 
-B. 21 Kementerian Kebudayaan dan
-
-<!-- marginal: 16,000,000 -->
-
-Pelancongan B. 26 Kementerian Pendidikan
-
-<!-- marginal: 98,771,500 -->
-
-B. 28 Perbendaharaan
+B. 21 Kementerian Kebudayaan dan 16,000,000 Pelancongan B. 26 Kementerian Pendidikan 98,771,500 B. 28 Perbendaharaan
 
 <!-- marginal: 1,311,000 -->
 
@@ -162,19 +172,7 @@ B. 29 Perkhidmatan Am Perbendaharaan
 
 <!-- marginal: 8,000,000 -->
 
-B. 30 Peruntukan Kepada Kumpulan Wang
-
-<!-- marginal: 50,000,000 -->
-
-Terkanun B. 34 Kementerian Kesihatan
-
-<!-- marginal: 37,190,000 -->
-
-B. 36 Polis Diraja Malaysia
-
-<!-- marginal: 28,500,000 -->
-
-B. 42 Jabatan Percetakan Negara
+B. 30 Peruntukan Kepada Kumpulan Wang 50,000,000 Terkanun B. 34 Kementerian Kesihatan 37,190,000 B. 36 Polis Diraja Malaysia 28,500,000 B. 42 Jabatan Percetakan Negara
 
 <!-- marginal: 8,983,700 -->
 
@@ -186,12 +184,10 @@ B. 52 Kementerian Kerja Raya
 
 <!-- marginal: 4,280,000 -->
 
-<!-- marginal: JUMLAH .. -->
+## JUMLAH ..
 
-<!-- marginal: 377,205,600 -->
+377,205,600
 
 ## HURAIAN
 
-Tujuan Rang Undang-Undang ini ialah untuk memberikan kuasa berkanun supaya beberapa pembayaran tambahan tertentu dibuat untuk perkhidmatan-perkhidmatan awam persekutuan dalam tahun 1989 dan 1990 melebihi perbelanjaan yang dibenarkan oleh Akta Perbekalan 1989, Akta Perbekalan Tambahan (1988 dan 1989) 1989, Akta Perbekalan Tambahan (1988 dan 1989) 1990, Akta Perbekalan Tambahan (1989) 1990, Akta Perbekalan 1990 dan Akta Perbekalan Tambahan (1989 dan 1990) 1990.
-
-<!-- marginal: [PN. (U2) 1640.] -->
+Tujuan Rang Undang-Undang ini ialah untuk memberikan kuasa berkanun supaya beberapa pembayaran tambahan tertentu dibuat untuk perkhidmatan-perkhidmatan awam persekutuan dalam tahun 1989 dan 1990 melebihi perbelanjaan yang dibenarkan oleh Akta Perbekalan 1989, Akta Perbekalan Tambahan (1988 dan 1989) 1989, Akta Perbekalan Tambahan (1988 dan 1989) 1990, Akta Perbekalan Tambahan (1989) 1990, Akta Perbekalan 1990 dan Akta Perbekalan Tambahan (1989 dan 1990) 1990. [PN. (U2) 1640.]

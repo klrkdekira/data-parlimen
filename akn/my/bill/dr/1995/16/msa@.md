@@ -38,9 +38,13 @@ dalam Akta ini, adalah dipinda dalam seksyen 16A—
 
 <!-- page 2 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Seksyen 47 Akta ibu adalah dipinda dengan memasukkan seksyen 47. selepas subsekyen (1) subseksyen yang berikut:
+3. Seksyen 47 Akta ibu adalah dipinda dengan memasukkan
+
+<!-- marginal: seksyen 47. -->
+
+selepas subsekyen (1) subseksyen yang berikut:
 
 "(1A) The powers referred to in subsection (1) shall include the power to amend the name of any port under the First Schedule.".
 

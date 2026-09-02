@@ -67,21 +67,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/22/eng@/~cl_2",
       "@type": "akn:clause",
       "eli:number": "2",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/22/eng@/~cl_2__para_aa",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/22/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "Subsection 33(2) of the Police Act 1967 [Act 344] is amended by inserting after paragraph (a) the following paragraph: “"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/22/eng@/~cl_2__para_aa",
-      "@type": "akn:paragraph",
-      "eli:number": "aa",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/22/eng@/~cl_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": "a debt due to the Public Sector Home Financing Board established under the Public Sector Home Financing Board Act 2015 [Act 767] in respect of a public sector home financing facility granted by the Board;”."
+        "@value": "Subsection 33(2) of the Police Act 1967 [Act 344] is amended by inserting after paragraph (a) the following paragraph: “ (aa) a debt due to the Public Sector Home Financing Board established under the Public Sector Home Financing Board Act 2015 [Act 767] in respect of a public sector home financing facility granted by the Board;”."
       }
     }
   ]

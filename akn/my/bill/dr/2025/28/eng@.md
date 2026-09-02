@@ -10,13 +10,13 @@
 
 1. Short title and commencement 2. Application 3. Non-application 4. Act to be read together with relevant written laws 5. Interpretation
 
-## Part II
+## PART II
 
 ## ADMINISTRATION OF GOVERNMENT PROCUREMENT
 
 6. Administration of Government procurement by Secretary General to the Treasury 7. Duties and powers of controlling officer 8. Duties and powers of procurement officer 9. Administration of Government procurement by procuring entity other than a Ministry or ministry or department of a State
 
-## Part III
+## PART III
 
 ## APPROVALS IN GOVERNMENT PROCUREMENT
 
@@ -28,11 +28,13 @@
 
 13. Approvals by Minister, Menteri Besar, Chief Minister, etc.
 
+<!-- marginal: WJW25/0723 BI.indd 1 -->
+
 <!-- marginal: 22/08/2025 11:08 PM -->
 
 <!-- page 2 -->
 
-## Part IV
+## PART IV
 
 ## REGISTRATION OF SUPPLIERS AND CONTRACTORS
 
@@ -64,7 +66,7 @@
 
 27. Prohibition on registration under same classification code
 
-## Part V
+## PART V
 
 ## CONDUCT OF PROCUREMENT
 
@@ -90,7 +92,7 @@
 
 <!-- page 3 -->
 
-## Part VI
+## PART VI
 
 ## INTEGRITY AND REPORTING
 
@@ -98,7 +100,7 @@
 
 38. Prohibition against intervention in Government procurement
 
-## Part VII
+## PART VII
 
 ## COMPLIANCE MONITORING
 
@@ -150,11 +152,13 @@
 
 60. Destruction, concealment, mutilation and alteration of records
 
+<!-- marginal: WJW25/0723 BI.indd 3 -->
+
 <!-- marginal: 22/08/2025 11:08 PM -->
 
 <!-- page 4 -->
 
-## Part IX
+## PART IX
 
 ## COMPLAINTS, OBJECTIONS AND REVIEW
 
@@ -162,7 +166,7 @@
 
 62. Establishment and administration of review panel
 
-## Part X
+## PART X
 
 ## GOVERNMENT PROCUREMENT APPEAL TRIBUNAL
 
@@ -204,7 +208,7 @@
 
 81. Enforcement of decision of Appeal Tribunal
 
-## Part XI
+## PART XI
 
 ## ADMINISTRATIVE ACTION AND PROSECUTION
 
@@ -226,7 +230,7 @@
 
 88. General penalty
 
-## Part XII
+## PART XII
 
 ## GENERAL
 
@@ -240,9 +244,11 @@
 
 93. Saving and transitional
 
-## First schedule
+## FIRST SCHEDULE
 
-## second schedule
+## SECOND SCHEDULE
+
+<!-- marginal: WJW25/0723 BI.indd 5 -->
 
 <!-- marginal: 22/08/2025 11:08 PM -->
 
@@ -269,6 +275,8 @@ ENACTED by the Parliament of Malaysia as follows:
 1. (1) This Act may be cited as the Government Procurement Act 2025.
 
 (2) This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette.
+
+<!-- marginal: WJW25/0723 BI.indd 7 -->
 
 <!-- marginal: 22/08/2025 11:08 PM -->
 
@@ -325,6 +333,8 @@ ENACTED by the Parliament of Malaysia as follows:
 “statutory body” means any body corporate that is formed or incorporated pursuant to any written law but does not include a local authority;
 
 “Legislative Assembly” has the meaning assigned to it in Clause 2 of Article 160 of the Federal Constitution;
+
+<!-- marginal: WJW25/0723 BI.indd 9 -->
 
 <!-- marginal: 22/08/2025 11:08 PM -->
 
@@ -388,6 +398,8 @@ that administers, conducts or implements a Government procurement under this Act
 
 “contingencies fund” means the Contingencies Fund created under Article 103 of the Federal Constitution or the Contingencies Reserve under section 6 of the Development Funds Act 1966 [Act 406];
 
+<!-- marginal: WJW25/0723 BI.indd 11 -->
+
 <!-- marginal: 22/08/2025 11:08 PM -->
 
 <!-- page 12 -->
@@ -446,6 +458,8 @@ to exercise the duties and powers of a controlling officer under this Act;
 
 (v) any revenue or returns derived from any investments of any fund under subparagraphs (a)(i) to (a)(iv); or
 
+<!-- marginal: WJW25/0723 BI.indd 13 -->
+
 <!-- marginal: 22/08/2025 11:08 PM -->
 
 <!-- page 14 -->
@@ -494,11 +508,13 @@ and includes any person or body of persons appointed or authorized under any wri
 
 (2) Any reference to “State financial authority” in this Act shall be construed as a reference to “State financial authority” within the meaning of section 3 of the Financial Procedure Act 1957.
 
+<!-- marginal: WJW25/0723 BI.indd 15 -->
+
 <!-- marginal: 22/08/2025 11:08 PM -->
 
 <!-- page 16 -->
 
-## Part II
+## PART II
 
 ## ADMINISTRATION OF GOVERNMENT PROCUREMENT
 
@@ -539,6 +555,8 @@ and includes any person or body of persons appointed or authorized under any wri
 (g) to specify the extent to which the duties and powers conferred or imposed upon him under this Act may be exercised or performed on his behalf by a procurement officer or procurement committee, as the case may be, in accordance with this Act;
 
 (h) to establish a review panel for the handling of complaints relating to Government procurement administered, conducted or implemented by the procuring entity within his purview; and
+
+<!-- marginal: WJW25/0723 BI.indd 17 -->
 
 <!-- marginal: 22/08/2025 11:08 PM -->
 
@@ -591,6 +609,8 @@ as procurement officers for the purposes of this Act.
 10. (1) Subject to subsection (2), an approval for a Government procurement under this Act may be given by—
 
 (a) the Minister or, in relation to a State, the Menteri Besar or Chief Minister or any other authority as may be determined by the State Government, as the case may be;
+
+<!-- marginal: WJW25/0723 BI.indd 19 -->
 
 <!-- marginal: 22/08/2025 11:08 PM -->
 
@@ -650,6 +670,8 @@ as procurement officers for the purposes of this Act.
 
 (c) where the member having an interest is the chairman of the procurement board, shall remove himself and be replaced by an alternative chairman as prescribed.
 
+<!-- marginal: WJW25/0723 BI.indd 21 -->
+
 <!-- marginal: 22/08/2025 11:08 PM -->
 
 <!-- page 22 -->
@@ -706,13 +728,15 @@ to consider the Government procurement in accordance with this Act and submit a 
 
 (3) After considering the recommendation submitted under subsection (2), the Minister or, in relation to a State, Menteri Besar or Chief Minister or any other authority as may be determined by the State Government, as the case may be, may concur with the recommendation or may make a different decision as he thinks fit.
 
+<!-- marginal: WJW25/0723 BI.indd 23 -->
+
 <!-- marginal: 22/08/2025 11:08 PM -->
 
 <!-- page 24 -->
 
 (4) Any decision made by the Minister or, in relation to a State, Menteri Besar or Chief Minister or any other authority as may be determined by the State Government, as the case may be, is final and shall be implemented accordingly.
 
-## Part IV
+## PART IV
 
 ## REGISTRATION OF SUPPLIERS AND CONTRACTORS
 
@@ -761,6 +785,8 @@ to consider the Government procurement in accordance with this Act and submit a 
 16. (1) The Registrar may issue guidelines as the Registrar thinks necessary or expedient for the implementation of his duties and powers under this Act.
 
 (2) The guidelines issued under this section shall be complied with by all registered persons.
+
+<!-- marginal: WJW25/0723 BI.indd 25 -->
 
 <!-- marginal: 22/08/2025 11:08 PM -->
 
@@ -826,6 +852,8 @@ and shall issue a certificate of registration in such form as may be determined 
 
 (12) The Registrar may at any time vary or revoke the conditions imposed on a renewed registration under subsection (11).
 
+<!-- marginal: WJW25/0723 BI.indd 27 -->
+
 <!-- marginal: 22/08/2025 11:08 PM -->
 
 <!-- page 28 -->
@@ -877,6 +905,8 @@ and shall issue a certificate of registration in such form as may be determined 
 (iii) had a receiver, a receiver and manager, or an equivalent person appointed within or outside Malaysia, or in respect of any property of the applicant; and
 
 (iv) has, whether within or outside Malaysia, entered into a compromise or scheme of arrangement with its creditors, being a compromise or scheme of arrangement that is still in operation.
+
+<!-- marginal: WJW25/0723 BI.indd 29 -->
 
 <!-- marginal: 22/08/2025 11:08 PM -->
 
@@ -931,6 +961,8 @@ and shall issue a certificate of registration in such form as may be determined 
 (5) The Registrar shall not suspend or revoke any registration without giving the registered person an opportunity to be heard.
 
 (6) Where a registration is revoked, all fees paid shall not be refunded.
+
+<!-- marginal: WJW25/0723 BI.indd 31 -->
 
 <!-- marginal: 22/08/2025 11:08 PM -->
 
@@ -988,6 +1020,8 @@ and shall issue a certificate of registration in such form as may be determined 
 
 (d) any action taken by the Registrar or the Secretary General to the Treasury under this Act.
 
+<!-- marginal: WJW25/0723 BI.indd 33 -->
+
 <!-- marginal: 22/08/2025 11:08 PM -->
 
 <!-- page 34 -->
@@ -1022,7 +1056,7 @@ and shall issue a certificate of registration in such form as may be determined 
 
 <!-- page 35 -->
 
-## Part V
+## PART V
 
 ## CONDUCT OF PROCUREMENT
 
@@ -1045,6 +1079,8 @@ and shall issue a certificate of registration in such form as may be determined 
 ### Provisions for implementing international obligations
 
 31. The Minister may prescribe the methods and procedures for Government procurement as may be required or necessary for implementing obligations arising from international agreements to which Malaysia is a party.
+
+<!-- marginal: WJW25/0723 BI.indd 35 -->
 
 <!-- marginal: 22/08/2025 11:08 PM -->
 
@@ -1082,7 +1118,7 @@ and shall issue a certificate of registration in such form as may be determined 
 
 36. The Minister may prescribe for the use of any computerized system for the administration and conduct of Government procurement under this Act.
 
-## Part VI
+## PART VI
 
 ## INTEGRITY AND REPORTING
 
@@ -1103,6 +1139,8 @@ and shall issue a certificate of registration in such form as may be determined 
 (b) in the case of a partnership, all the partners in the partnership; and
 
 (c) in the case of a co-operative, any person holding the key responsibility in the management of the co-operative.
+
+<!-- marginal: WJW25/0723 BI.indd 37 -->
 
 <!-- marginal: 22/08/2025 11:08 PM -->
 
@@ -1162,6 +1200,8 @@ and shall issue a certificate of registration in such form as may be determined 
 
 (a) “active procurement” means the period from the date an approval to commence a Government procurement is given by a controlling officer until the date the letter of acceptance is signed by parties;
 
+<!-- marginal: WJW25/0723 BI.indd 39 -->
+
 <!-- marginal: 22/08/2025 11:08 PM -->
 
 <!-- page 40 -->
@@ -1212,6 +1252,8 @@ and shall issue a certificate of registration in such form as may be determined 
 
 (3) Notwithstanding subsection (2), the controlling officer shall be accountable for his responsibilities under subsection (1).
 
+<!-- marginal: WJW25/0723 BI.indd 41 -->
+
 <!-- marginal: 22/08/2025 11:08 PM -->
 
 <!-- page 42 -->
@@ -1253,6 +1295,8 @@ and shall issue a certificate of registration in such form as may be determined 
 ### Authorization of public officers
 
 45. (1) The Secretary General to the Treasury or a State financial authority, as the case may be, may, in writing, authorize any public officer under its purview to exercise the powers of investigation and enforcement under this Act in respect of Government procurement.
+
+<!-- marginal: WJW25/0723 BI.indd 43 -->
 
 <!-- marginal: 22/08/2025 11:08 PM -->
 
@@ -1296,6 +1340,8 @@ the commission of an offence in relation to any Government procurement under thi
 
 (6) If, by reason of its nature, size or amount, it is not practicable to remove any record, book, account, document, computerized data or other thing or any matter or thing that is the subject matter of Government procurement being investigated seized under this section, the authorized officer who effected the seizure shall, by any means, seal such record, book, account, document, computerized data or other thing or any matter or thing that is the subject matter of Government procurement being investigated in the premises or container in which it is found.
 
+<!-- marginal: WJW25/0723 BI.indd 45 -->
+
 <!-- marginal: 22/08/2025 11:08 PM -->
 
 <!-- page 46 -->
@@ -1330,6 +1376,8 @@ the commission of an offence in relation to any Government procurement under thi
 
 52. (1) Where any record, book, account, document, computerized data or other thing or any matter or thing that is the subject matter of Government procurement being investigated has been seized under this Act, the authorized officer who effected the seizure, may at any time after that release the record, book, account, document, computerized data or other thing or any matter or thing that is the subject matter of Government procurement being investigated seized to the person as he determines to be lawfully entitled to the record, book, account, document, computerized data or other thing or any matter or thing that is the subject matter of Government procurement being investigated seized if he is satisfied that the record, book, account, document, computerized data or other thing or any matter or thing that is the subject matter of Government procurement being investigated seized is not liable to forfeiture under this Act and is not otherwise required for the purpose of any proceedings under this Act, or for the purpose of any prosecution under any other written law, and in such event neither the officer effecting the seizure, nor the Government or any person acting on behalf of the Government shall be liable to any proceedings by any person if the seizure and the release of the record, book, account, document, computerized data or other thing or any matter or thing that is the subject matter of Government procurement being investigated seized had been effected in good faith.
 
+<!-- marginal: WJW25/0723 BI.indd 47 -->
+
 <!-- marginal: 22/08/2025 11:08 PM -->
 
 <!-- page 48 -->
@@ -1357,6 +1405,8 @@ the commission of an offence in relation to any Government procurement under thi
 (7) If it is proved that an offence under this Act has been committed and that the record, book, account, document, computerized data or other thing or any matter or thing that is the subject matter of Government procurement being investigated referred to in subsection (6) was the subject matter of or was used in the commission of such offence, the Magistrate shall order the record, book, account, document, computerized data or other thing or any matter or thing that is the subject matter of Government procurement being investigated to be forfeited, and shall, in the absence of such proof, order its release.
 
 (8) Any record, book, account, document, computerized data or other thing or any matter or thing that is the subject matter of Government procurement being investigated forfeited or deemed to be forfeited shall be delivered to the authorized officer and shall be disposed of in such manner as the authorized officer thinks fit.
+
+<!-- marginal: WJW25/0723 BI.indd 49 -->
 
 <!-- marginal: 22/08/2025 11:08 PM -->
 
@@ -1399,6 +1449,8 @@ the commission of an offence in relation to any Government procurement under thi
 ### Admissibility of statement in evidence
 
 58. (1) If any person is charged with an offence under this Act, any statement, whether the statement amounts to a confession or not or whether it is oral or in writing, made at any time, whether before or after the person is charged and whether in the course of an investigation under this Act or not and whether or not wholly or partly in answer to questions, by that person to or in the hearing of an authorized officer and whether or not interpreted to him by another officer or other person, shall be admissible in evidence at his trial and, if the person charged tenders himself as witness, any such statement may be used in cross-examination and for the purpose of impeaching his credit.
+
+<!-- marginal: WJW25/0723 BI.indd 51 -->
 
 <!-- marginal: 22/08/2025 11:08 PM -->
 
@@ -1447,6 +1499,8 @@ commits an offence.
 (b) sends or attempts to send or conspires with any other person to remove from its premises or send out of Malaysia,
 
 any record, book, account, document, computerized data or other thing or any matter or thing that is the subject matter of Government procurement being investigated kept or maintained with intent to defraud the Treasury or State financial authority, as the case may be, the Registrar or any procuring entity, or to prevent, delay or obstruct the carrying out of an investigation or the exercise of any power by the Treasury or State financial authority, as the case may be, or the Registrar under this Act commits an offence.
+
+<!-- marginal: WJW25/0723 BI.indd 53 -->
 
 <!-- marginal: 22/08/2025 11:08 PM -->
 
@@ -1510,6 +1564,8 @@ any record, book, account, document, computerized data or other thing or any mat
 
 (v) public administration.
 
+<!-- marginal: WJW25/0723 BI.indd 55 -->
+
 <!-- marginal: 22/08/2025 11:08 PM -->
 
 <!-- page 56 -->
@@ -1567,6 +1623,8 @@ any record, book, account, document, computerized data or other thing or any mat
 (j) his performance has been unsatisfactory for a significant period of time; or
 
 (k) he fails to carry out his obligations under section 73;
+
+<!-- marginal: WJW25/0723 BI.indd 57 -->
 
 <!-- marginal: 22/08/2025 11:08 PM -->
 
@@ -1632,6 +1690,8 @@ any record, book, account, document, computerized data or other thing or any mat
 
 (2) The notice of appeal shall be made in writing within fourteen days from the date of the decision of the review panel and the appellant shall give a copy of the notice to the relevant review panel.
 
+<!-- marginal: WJW25/0723 BI.indd 59 -->
+
 <!-- marginal: 22/08/2025 11:08 PM -->
 
 <!-- page 60 -->
@@ -1682,6 +1742,8 @@ any record, book, account, document, computerized data or other thing or any mat
 
 (a) to summon parties to the proceedings or any other person to attend before it to give evidence in respect of an appeal;
 
+<!-- marginal: WJW25/0723 BI.indd 61 -->
+
 <!-- marginal: 22/08/2025 11:08 PM -->
 
 <!-- page 62 -->
@@ -1729,6 +1791,8 @@ any record, book, account, document, computerized data or other thing or any mat
 (a) invalidate the decision of the Appeal Tribunal, unless all parties agree to be bound by the decision; and
 
 (b) subject the Chairman or member of the Appeal Tribunal to the revocation of his appointment under subsection 64(2).
+
+<!-- marginal: WJW25/0723 BI.indd 63 -->
 
 <!-- marginal: 22/08/2025 11:08 PM -->
 
@@ -1781,6 +1845,8 @@ any record, book, account, document, computerized data or other thing or any mat
 (d) a person authorized to act for and on behalf of the Appeal Tribunal,
 
 for any act or omission done in good faith in the performance of its or his functions and the exercise of its or his powers under this Act.
+
+<!-- marginal: WJW25/0723 BI.indd 65 -->
 
 <!-- marginal: 22/08/2025 11:08 PM -->
 
@@ -1840,6 +1906,8 @@ for any act or omission done in good faith in the performance of its or his func
 
 (a) any forged, altered or counterfeited document; or
 
+<!-- marginal: WJW25/0723 BI.indd 67 -->
+
 <!-- marginal: 22/08/2025 11:08 PM -->
 
 <!-- page 68 -->
@@ -1881,6 +1949,8 @@ that person shall be liable to the same punishment or penalty for every such act
 85. (1) The Secretary General to the Treasury, Registrar or State financial authority, as the case may be, may impose administrative penalty on any person for any non-compliance with any instructions, circulars or guidelines issued under this Act or any contravention of any regulations made under this Act.
 
 (2) The Secretary General to the Treasury, Registrar or State financial authority, as the case may be, shall, before making a decision to impose an administrative penalty on any person, serve on him a written notice calling on him to show cause, within fourteen days from the date of the written notice, why the administrative penalty should not be imposed on him.
+
+<!-- marginal: WJW25/0723 BI.indd 69 -->
 
 <!-- marginal: 22/08/2025 11:08 PM -->
 
@@ -1925,6 +1995,8 @@ that person shall be liable to the same punishment or penalty for every such act
 (a) in the case of an individual, to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding three years or to both; or
 
 (b) in the case of a company, partnership, co-operative society or professional body, to a fine not exceeding five hundred thousand ringgit.
+
+<!-- marginal: WJW25/0723 BI.indd 71 -->
 
 <!-- marginal: 22/08/2025 11:08 PM -->
 
@@ -1984,6 +2056,8 @@ that person shall be liable to the same punishment or penalty for every such act
 
 (v) the form and manner of contract between procuring entity and registered person;
 
+<!-- marginal: WJW25/0723 BI.indd 73 -->
+
 <!-- marginal: 22/08/2025 11:08 PM -->
 
 <!-- page 74 -->
@@ -2020,6 +2094,8 @@ that person shall be liable to the same punishment or penalty for every such act
 
 (m) any other matters required by this Act to be prescribed.
 
+<!-- marginal: WJW25/0723 BI.indd 74 -->
+
 <!-- marginal: 22/08/2025 11:08 PM -->
 
 <!-- page 75 -->
@@ -2044,6 +2120,8 @@ that person shall be liable to the same punishment or penalty for every such act
 
 93. (1) Any person who is registered, for the purpose of Government procument, as a supplier of goods or services or contractor for works with the Ministry of Finance or any authority authorized by the Ministry of Finance immediately before the coming into operation of this Act shall be deemed to be registered under this Act until the expiry of that registration, except in the case of a society registered under the Societies Act 1966 where the registration is deemed to be revoked six months after the coming into operation of this Act.
 
+<!-- marginal: WJW25/0723 BI.indd 75 -->
+
 <!-- marginal: 22/08/2025 11:08 PM -->
 
 <!-- page 76 -->
@@ -2066,7 +2144,7 @@ that person shall be liable to the same punishment or penalty for every such act
 
 (8) Any exemptions given by the Treasury pursuant to any instructions or circulars issued by the Treasury under the Financial Procedure Act 1957 on matters relating to Government procurement prior to the date of coming into operation of this Act shall, on the date of coming into operation of this Act, be deemed to be revoked.
 
-## First Schedule
+## FIRST SCHEDULE
 
 [Section 10]
 
@@ -2112,19 +2190,31 @@ procurement contract or total value for a year
 
 a procurement contract or total value for a year
 
+<!-- marginal: WJW25/0723 BI.indd 77 -->
+
 <!-- marginal: 22/08/2025 11:08 PM -->
 
 <!-- page 78 -->
 
-## Second Schedule
+## SECOND SCHEDULE
 
 [Section 11]
 
 ## MEMBERS OF PROCUREMENT BOARD
 
-No. Procuring entity Members of procurement board
+<!-- marginal: No. -->
 
-1. Ministry/Ministry or (1) Controlling officer or any public officer department of a State authorized by the controlling officer to act on his behalf, who shall be the chairman;
+<!-- marginal: Procuring entity -->
+
+Members of procurement board
+
+1. Ministry/Ministry or
+
+(1) Controlling officer or any public officer
+
+<!-- marginal: department of a State -->
+
+authorized by the controlling officer to act on his behalf, who shall be the chairman;
 
 (2) Secretary General to the Treasury or any public officer of the Treasury as nominated by the Secretary General to the Treasury or, in relation to a State, the State financial authority or any public officer as nominated by the State financial authority;
 
@@ -2132,7 +2222,11 @@ No. Procuring entity Members of procurement board
 
 (4) Subject to the approval of the Minister or, the Menteri Besar or Chief Minister, as the case may be, an additional member from a Ministry or ministry or department of a State, as the case may be.
 
-2. Ministry of Finance (1) Secretary General to the Treasury or any public officer of the Treasury as nominated by the Secretary General to the Treasury to act on his behalf, who shall be the Chairman;
+2.
+
+<!-- marginal: Ministry of Finance -->
+
+(1) Secretary General to the Treasury or any public officer of the Treasury as nominated by the Secretary General to the Treasury to act on his behalf, who shall be the Chairman;
 
 (2) Undersecretary of Government Procurement Division of the Ministry of Finance or a representative;
 
@@ -2140,7 +2234,7 @@ No. Procuring entity Members of procurement board
 
 (4) Director General of Public Works Department or a representative.
 
-<!-- marginal: 22/08/2025 11:08 PM -->
+<!-- marginal: WJW25/0723 BI.indd 78 -->
 
 <!-- page 79 -->
 
@@ -2165,6 +2259,8 @@ This Bill (“the proposed Act”) seeks to provide for the duties, accountabili
 4. Clause 2 seeks to provide for the application of the proposed Act to persons who administer, conduct or implement Government procurement as well as persons who participates in Government procurement. “Government procurement” is defined under clause 5 to mean any procurement for the supply of goods or services or for works funded by the allocation of funds by the Federal Government or State Government, whether in total or in part, or through the use of assets owned by the Federal Government or State Government.
 
 5. Clause 3 seeks to provide for the non-application of the proposed Act to three categories of activities. First, any procurement or acquisition of fiscal agency or depository services, liquidation and management services for regulated financial institutions or services related to the sale, redemption and distribution of public debt. Second, any appointment on contract basis by the Federation or any State for the delivery of public service. Third, any procurement for providing international assistance, funded by international organization or foreign grants or conducted under an international agreement relating to the stationing of troops or relating to the joint implementation by the signatory.
+
+<!-- marginal: WJW25/0723 BI.indd 79 -->
 
 <!-- marginal: 22/08/2025 11:08 PM -->
 
@@ -2226,6 +2322,8 @@ Subclause 16(3) seeks to provide the Registrar with the power to issue written d
 
 Subclause 18(4) seeks to empower the Registrar to approve any application for registration if he is satisfied that the applicant is a fit and proper person, has fulfilled the requirements and pre-conditions of registration and has made a disclosure of interest in accordance with subclause 37(2).
 
+<!-- marginal: WJW25/0723 BI.indd 81 -->
+
 <!-- marginal: 22/08/2025 11:08 PM -->
 
 <!-- page 82 -->
@@ -2258,7 +2356,7 @@ Subclause 21(3) seeks to provide for the grounds to revoke a registration, which
 
 <!-- page 83 -->
 
-## Part V
+## PART V
 
 33. Part V of the proposed Act seeks to provide for the conduct of procurement.
 
@@ -2279,6 +2377,8 @@ Subclause 28(2) seeks to empower the Minister to prescribe other methods of proc
 40. Clause 35 seeks to prohibit the transfer, assignment or novation of a grant or contract awarded under the proposed Act without the approval of the controlling officer responsible for the Government procurement. A contravention of this clause is an offence punishable with a fine of not less than three times the value of the grant or contract or to one million ringgit, whichever is higher, or to imprisonment for a term not exceeding five years or to both.
 
 41. Clause 36 seeks to empower the Minister to prescribe the use of a computerized system for the administration and conduct of Government procurement.
+
+<!-- marginal: WJW25/0723 BI.indd 83 -->
 
 <!-- marginal: 22/08/2025 11:08 PM -->
 
@@ -2335,6 +2435,8 @@ Subclause 43(2) seeks to empower the Treasury or State financial authority, as t
 56. Clause 49 seeks to provide that a warrant issued under the proposed Act is valid and enforceable notwithstanding any defect, mistake or omission in the search warrant or in the application for such warrant.
 
 57. Clause 50 seeks to provide that an authorized officer conducting a search under the proposed Act shall be given access to computerized data, including the password, encryption code, decryption code, software or hardware required during an investigation into the computerized data.
+
+<!-- marginal: WJW25/0723 BI.indd 85 -->
 
 <!-- marginal: 22/08/2025 11:08 PM -->
 
@@ -2394,6 +2496,8 @@ Subclause 64(2) seeks to provide for the grounds of revocation of appointment of
 
 75. Clause 66 seeks to provide for the quorum in a proceeding by the Appeal Tribunal.
 
+<!-- marginal: WJW25/0723 BI.indd 87 -->
+
 <!-- marginal: 22/08/2025 11:08 PM -->
 
 <!-- page 88 -->
@@ -2446,6 +2550,8 @@ Subclause 80(5) deals with the effects of a decision by the Appeal Tribunal to s
 
 93. Clauses 83 and 84 deal with offences by a body corporate and liability of employee or agent, respectively.
 
+<!-- marginal: WJW25/0723 BI.indd 89 -->
+
 <!-- marginal: 22/08/2025 11:08 PM -->
 
 <!-- page 90 -->
@@ -2462,7 +2568,7 @@ Subclause 85(3) seeks to empower the Secretary General to the Treasury, Registra
 
 97. Clause 88 seeks to provide for the general penalty for contravention of any provision of the proposed Act.
 
-## Part XII
+## PART XII
 
 98. Part XII deals with general provisions.
 

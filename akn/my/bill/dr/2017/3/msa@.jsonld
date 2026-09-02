@@ -1,0 +1,854 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-3-2017",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_20"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Perdagangan Strategik (Pindaan) 2017"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_10__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 21 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan menggantikan perkataan “dihukum dengan pemenjaraan selama tempoh tidak kurang daripada sepuluh tahun atau dengan denda tidak kurang daripada sepuluh juta ringgit atau dengan kedua-duanya, dan dalam hal suatu pertubuhan perbadanan, dihukum dengan denda minimum sebanyak dua puluh juta ringgit” dengan perkataan “dihukum dengan pemenjaraan selama tempoh tidak melebihi sepuluh tahun atau dengan denda tidak melebihi sepuluh juta ringgit atau dengan kedua- duanya, dan dalam hal suatu pertubuhan perbadanan, dihukum dengan denda tidak melebihi dua puluh juta ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4), dengan menggantikan perkataan “dihukum dengan pemenjaraan selama tempoh tidak kurang daripada sepuluh tahun atau dengan denda tidak kurang daripada sepuluh juta ringgit atau dengan kedua- duanya, dan dalam hal suatu pertubuhan perbadanan, dihukum dengan denda minimum sebanyak dua puluh juta ringgit” dengan perkataan “dihukum dengan pemenjaraan selama tempoh tidak melebihi sepuluh tahun atau dengan denda tidak melebihi sepuluh juta ringgit atau dengan kedua-duanya, dan dalam hal suatu pertubuhan perbadanan, dihukum dengan denda tidak melebihi dua puluh juta ringgit”. Pindaan seksyen 23"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 23(2) Akta ibu dipinda dengan menggantikan perkataan “denda minimum sebanyak” dengan perkataan “denda tidak melebihi”. Pindaan seksyen 24"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 24(4) Akta ibu dipinda dengan menggantikan perkataan “denda minimum sebanyak” dengan perkataan “denda tidak melebihi”. Seksyen baharu 25a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan sebelum seksyen 26 seksyen yang berikut: “Pegawai diberi kuasa 25a. Pegawai yang berikut hendaklah menjadi pegawai diberi kuasa bagi maksud Akta ini dan boleh menjalankan semua kuasa penguatkuasaan: (a) mana-mana pegawai kastam; (b) mana-mana pegawai polis; (c) mana-mana pegawai Agensi Penguatkuasaan Maritim Malaysia; (d) mana-mana pegawai Suruhanjaya Komunikasi dan Multimedia Malaysia; (e) mana-mana pegawai Lembaga Perlesenan Tenaga Atom; (f) mana-mana pegawai Bahagian Perkhidmatan Farmasi, Kementerian Kesihatan; (g) mana-mana pegawai Bank Negara Malaysia; (h) mana-mana pegawai Suruhanjaya Sekuriti Malaysia; (i) mana-mana pegawai Lembaga Perkhidmatan Kewangan Labuan; dan (j) mana-mana pegawai lain yang ditentukan oleh Pengawal.”. Pindaan seksyen 33"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 33(1) Akta ibu dipinda dengan menggantikan perkataan “dihukum dengan pemenjaraan selama tempoh tidak kurang daripada tiga tahun atau dengan denda tidak kurang daripada satu juta ringgit atau dengan kedua-duanya” dengan perkataan “dihukum dengan pemenjaraan selama tempoh tidak melebihi tiga tahun atau dengan denda tidak melebihi satu juta ringgit atau dengan kedua-duanya”. Pindaan seksyen 40"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_15__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 40 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “denda minimum sebanyak” dengan perkataan “denda tidak melebihi”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “denda minimum sebanyak” dengan perkataan “denda tidak melebihi”. Pindaan seksyen 41"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_16__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 41 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “memerintahkan pelupusan” perkataan “barang,”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “benda lain yang di dalamnya” perkataan “barang,”. Pindaan seksyen 45"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_17__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_17__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 45 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_17__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “berkenaan dengan mana-mana” perkataan “barang,”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “benda lain yang di dalamnya” perkataan “barang,”. Seksyen baharu 50a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 50 seksyen yang berikut: “Pengkompaunan kesalahan 50a. (1) Menteri boleh, dengan keizinan Pendakwa Raya, membuat peraturan-peraturan bagi menetapkan— (a) mana-mana kesalahan di bawah Akta ini dan apa-apa peraturan-peraturan yang dibuat di bawah Akta yang boleh dikompaun; (b) kriteria bagi mengkompaun kesalahan; dan (c) kaedah dan tatacara mengkompaun kesalahan. (2) Pegawai diberi kuasa boleh, dengan keizinan bertulis Pendakwa Raya, mengkompaun apa-apa kesalahan yang dilakukan oleh mana-mana orang di bawah Akta ini dan yang ditetapkan sebagai satu kesalahan boleh dikompaun dengan membuat suatu tawaran bertulis kepada orang yang disyaki telah melakukan kesalahan itu untuk mengkompaun kesalahan itu apabila dibayar kepada pegawai diberi kuasa suatu amaun yang tidak melebihi lima puluh peratus amaun denda maksimum bagi kesalahan itu dalam masa yang dinyatakan dalam tawaran bertulisnya. (3) Suatu tawaran di bawah subseksyen (2) boleh dibuat pada bila-bila masa selepas kesalahan itu dilakukan tetapi sebelum apa-apa pendakwaan baginya dimulakan. (4) Jika amaun yang dinyatakan dalam tawaran itu tidak dibayar dalam masa yang dinyatakan dalam tawaran itu atau dalam apa-apa masa lanjutan yang diberikan oleh pegawai diberi kuasa, pendakwaan bagi kesalahan itu boleh dimulakan pada bila-bila masa selepas itu terhadap orang yang kepadanya tawaran itu dibuat. (5) Jika suatu kesalahan telah dikompaun di bawah subseksyen (2), tiada pendakwaan boleh dimulakan berkenaan dengan kesalahan itu terhadap orang yang kepadanya tawaran untuk mengkompaun itu dibuat, dan mana-mana barang, barang strategik dan barang tidak tersenarai berserta apa- apa bekas, bungkusan, pengangkutan dan benda lain yang di dalamnya barang, barang strategik dan barang tidak tersenarai itu distorkan, disimpan atau dijumpai, rekod, buku, akaun, dokumen dan data berkomputer yang disita berkaitan kesalahan itu boleh dilepaskan atau dilupuskan oleh Pegawal mengikut seksyen 41, tertakluk kepada apa-apa terma yang difikirkan patut olehnya. (6) Semua jumlah wang yang diterima oleh pegawai diberi kuasa di bawah seksyen ini hendaklah dibayar ke dalam dan menjadi sebahagian daripada Kumpulan Wang Disatukan Persekutuan.”. Pindaan seksyen 55"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 55(2)(e) Akta ibu dipinda dengan menggantikan perkataan “pernyataan pengguna akhir” dengan perkataan “pernyataan kegunaan akhir”. Kecualian dan peralihan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Perdagangan Strategik (Pindaan) 2017."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Perdagangan Strategik 2010 [Akta 708], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_20__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_20__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_20__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_20__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_20__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa pendaftaran, permit, garis panduan, notis, perintah, arahan, kelulusan, keputusan atau tindakan lain yang diberikan, dilakukan atau dibuat sebelum tarikh permulaan kuat kuasa Akta ini hendaklah disifatkan telah diberikan, dilakukan atau dibuat di bawah Akta ini dan hendaklah terus berkuat kuasa dan berkesan sepenuhnya berhubung dengan orang yang baginya ia terpakai sehingga tamat tempoh, dibatalkan atau dipinda."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_20__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa tindakan atau prosiding yang bermula atau belum selesai sebaik sebelum tarikh permulaan kuat kuasa Akta ini hendaklah, selepas tarikh permulaan kuat kuasa Akta ini, diteruskan seolah-olah Akta ibu tidak dipinda oleh Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_20__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika pada tarikh permulaan kuat kuasa Akta ini, permohonan bagi permit atau permit khas di bawah seksyen 14 Akta ibu yang masih belum selesai pada pihak Pihak Berkuasa yang berkenaan, peruntukan Akta ibu yang berhubungan dengan permohonan permit atau permit khas sebagaimana yang dipinda oleh Akta ini hendaklah terpakai."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_20__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika pada tarikh permulaan kuat kuasa Akta ini, permohonan bagi pendaftaran untuk menjalankan pembrokeran barang strategik di bawah seksyen 19 Akta ibu yang masih belum selesai pada pihak Pihak Berkuasa yang berkenaan, peruntukan Akta ibu yang berhubungan dengan takrif pembrokeran dan ketidakpakaian seksyen 11 berkenaan dengan penyediaan perkhidmatan sampingan yang berhubungan dengan barang strategik sebagaimana dipinda oleh Akta ini hendaklah terpakai."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan takrif “pegawai diberi kuasa” dengan takrif yang berikut: ‘ “pegawai diberi kuasa” ertinya mana-mana pegawai yang dinyatakan dalam seksyen 25a;’; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “pembrokeran”, dengan menggantikan perenggan (a) dan (b) dengan perenggan yang berikut: “(a) merundingkan atau mengaturkan pembelian, penjualan atau pembekalan barang dari satu negara asing ke negara asing yang lain; atau (b) membeli, menjual atau membekalkan barang sedemikian dari satu negara asing ke negara asing yang lain;”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 9 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_a__subpara_i__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_a__subpara_i__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_a__subpara_i__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_a__subpara_i",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (i), dengan menggantikan subsubperenggan (B) dengan subsubperenggan yang berikut: “(B) dalam apa-apa hal lain, dihukum dengan pemenjaraan selama tempoh tidak melebihi sepuluh tahun atau dengan denda tidak melebihi sepuluh juta ringgit atau dengan kedua-duanya, dan dalam hal suatu pertubuhan perbadanan, dihukum dengan denda tidak melebihi dua puluh juta ringgit; atau”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_a__subpara_i__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_a__subpara_i",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (ii), dengan menggantikan perkataan “dihukum dengan pemenjaraan selama tempoh tidak kurang daripada lima tahun atau dengan denda tidak kurang daripada lima juta ringgit atau dengan kedua-duanya, dan dalam hal suatu pertubuhan perbadanan, dihukum dengan denda minimum sebanyak sepuluh juta ringgit” dengan perkataan “dihukum dengan pemenjaraan selama tempoh tidak melebihi lima tahun atau dengan denda tidak melebihi lima juta ringgit atau dengan kedua-duanya, dan dalam hal suatu pertubuhan perbadanan, dihukum dengan denda tidak melebihi sepuluh juta ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_a__subpara_ii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_a__subpara_ii__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_a__subpara_ii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_a__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (i), dengan menggantikan perkataan “dihukum dengan pemenjaraan selama tempoh tidak kurang daripada sepuluh tahun atau dengan denda tidak kurang daripada sepuluh juta ringgit atau dengan kedua-duanya, dan dalam hal suatu pertubuhan perbadanan, dihukum dengan denda minimum sebanyak dua puluh juta ringgit” dengan perkataan “dihukum dengan pemenjaraan selama tempoh tidak melebihi sepuluh tahun atau dengan denda tidak melebihi sepuluh juta ringgit atau dengan kedua-duanya, dan dalam hal suatu pertubuhan perbadanan, dihukum dengan denda tidak melebihi dua puluh juta ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_a__subpara_ii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_a__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (ii), dengan menggantikan perkataan “dihukum dengan pemenjaraan selama tempoh tidak kurang daripada lima tahun atau dengan denda tidak kurang daripada lima juta ringgit atau dengan kedua-duanya, dan dalam hal suatu pertubuhan perbadanan, dihukum dengan denda minimum sebanyak sepuluh juta ringgit” dengan perkataan “dihukum dengan pemenjaraan selama tempoh tidak melebihi lima tahun atau dengan denda tidak melebihi lima juta ringgit atau dengan kedua-duanya, dan dalam hal suatu pertubuhan perbadanan, dihukum dengan denda tidak melebihi sepuluh juta ringgit”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (5)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_b__subpara_i__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_b__subpara_i__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_b__subpara_i__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_b__subpara_i",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (i), dengan menggantikan subsubperenggan (B) dengan subsubperenggan yang berikut: “(B) dalam apa-apa hal lain, dihukum dengan pemenjaraan selama tempoh tidak melebihi sepuluh tahun atau dengan denda tidak melebihi sepuluh juta ringgit atau dengan kedua-duanya, dan dalam hal suatu pertubuhan perbadanan, dihukum dengan denda tidak melebihi dua puluh juta ringgit; atau”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_b__subpara_i__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_b__subpara_i",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (ii), dengan menggantikan perkataan “dihukum dengan pemenjaraan selama tempoh tidak kurang daripada lima tahun atau dengan denda tidak kurang daripada lima juta ringgit atau dengan kedua-duanya, dan dalam hal suatu pertubuhan perbadanan, dihukum dengan denda minimum sebanyak sepuluh juta ringgit” dengan perkatan “dihukum dengan pemenjaraan selama tempoh tidak melebihi lima tahun atau dengan denda tidak melebihi lima juta ringgit atau dengan kedua-duanya, dan dalam hal suatu pertubuhan perbadanan, dihukum dengan denda tidak melebihi sepuluh juta ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_b__subpara_ii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_b__subpara_ii__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_b__subpara_ii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_b__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (i), dengan menggantikan perkataan “dihukum dengan pemenjaraan selama tempoh tidak kurang daripada sepuluh tahun atau dengan denda tidak kurang daripada sepuluh juta ringgit atau dengan kedua-duanya, dan dalam suatu hal pertubuhan perbadanan, dihukum dengan denda minimum sebanyak dua puluh juta ringgit” dengan perkataan “dihukum dengan pemenjaraan selama tempoh tidak melebihi sepuluh tahun atau dengan denda tidak melebihi sepuluh juta ringgit atau dengan kedua-duanya, dan dalam hal suatu pertubuhan perbadanan, dihukum dengan denda tidak melebihi dua puluh juta ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_b__subpara_ii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_b__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (ii), dengan menggantikan perkataan “dihukum dengan pemenjaraan selama tempoh tidak kurang daripada lima tahun atau dengan denda tidak kurang daripada lima juta ringgit atau dengan kedua-duanya, dan dalam hal suatu pertubuhan perbadanan, dihukum dengan denda minimum sebanyak sepuluh juta ringgit” dengan perkataan “dihukum dengan pemenjaraan selama tempoh tidak melebihi lima tahun atau dengan denda tidak melebihi lima juta ringgit atau dengan kedua-duanya, dan dalam hal suatu pertubuhan perbadanan, dihukum dengan denda tidak melebihi sepuluh juta ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (6)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_c__subpara_i__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_c__subpara_i__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_c__subpara_i__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_c__subpara_i",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (i), dengan menggantikan subsubperenggan (B) dengan subsubperenggan yang berikut: “(B) dalam apa-apa hal lain, dihukum dengan pemenjaraan selama tempoh tidak melebihi sepuluh tahun atau dengan denda tidak melebihi sepuluh juta ringgit atau dengan kedua-duanya, dan dalam hal suatu pertubuhan perbadanan, dihukum dengan denda tidak melebihi dua puluh juta ringgit; atau”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_c__subpara_i__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_c__subpara_i",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (ii), dengan menggantikan perkataan“dihukum dengan pemenjaraan selama tempoh tidak kurang daripada lima tahun atau dengan denda tidak kurang daripada lima juta ringgit atau dengan kedua-duanya, dan dalam hal suatu pertubuhan perbadanan, dihukum dengan denda minimum sebanyak sepuluh juta ringgit” dengan perkataan “dihukum dengan pemenjaraan selama tempoh tidak melebihi lima tahun atau dengan denda tidak melebihi lima juta ringgit atau dengan kedua-duanya, dan dalam hal suatu pertubuhan perbadanan, dihukum dengan denda tidak melebihi sepuluh juta ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_c__subpara_ii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_c__subpara_ii__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_c__subpara_ii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_c__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (i), dengan menggantikan perkataan “dihukum dengan pemenjaraan selama tempoh tidak kurang daripada sepuluh tahun atau dengan denda tidak kurang daripada sepuluh juta ringgit atau dengan kedua-duanya, dan dalam hal suatu pertubuhan perbadanan, dihukum dengan denda minimum sebanyak dua puluh juta ringgit” dengan perkataan “dihukum dengan pemenjaraan selama tempoh tidak melebihi sepuluh tahun atau dengan denda tidak melebihi sepuluh juta ringgit atau dengan kedua-duanya, dan dalam hal suatu pertubuhan perbadanan, dihukum dengan denda tidak melebihi dua puluh juta ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_c__subpara_ii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_3__para_c__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperengggan (ii), dengan menggantikan perkataan “dihukum dengan pemenjaraan selama tempoh tidak kurang daripada lima tahun atau dengan denda tidak kurang daripada lima juta ringgit atau dengan kedua-duanya, dan dalam hal suatu pertubuhan perbadanan, dihukum dengan denda minimum sebanyak sepuluh juta ringgit” dengan perkataan “dihukum dengan pemenjaraan selama tempoh tidak melebihi lima tahun atau dengan denda tidak melebihi lima juta ringgit atau dengan kedua-duanya, dan dalam hal suatu pertubuhan perbadanan, dihukum dengan denda tidak melebihi sepuluh juta ringgit”. Pindaan seksyen 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 10(2) Akta ibu dipinda dengan menggantikan perenggan (b) dengan perenggan yang berikut: “(b) dalam apa-apa hal lain, dihukum dengan pemenjaraan selama tempoh tidak melebihi sepuluh tahun atau dengan denda tidak melebihi sepuluh juta ringgit atau dengan kedua-duanya, dan dalam hal suatu pertubuhan perbadanan, dihukum dengan denda tidak melebihi dua puluh juta ringgit.”. Pindaan seksyen 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 11 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_5__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_5__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_5__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_5__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan menggantikan subperenggan (ii) dengan subperenggan yang berikut: “(ii) dalam apa-apa hal lain, dihukum dengan pemenjaraan selama tempoh tidak melebihi sepuluh tahun atau dengan denda tidak melebihi sepuluh juta ringgit atau dengan kedua-duanya, dan dalam hal suatu pertubuhan perbadanan, dihukum dengan denda tidak melebihi dua puluh juta ringgit; atau”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_5__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_5__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (b) dengan perenggan yang berikut: “(b) berhubung dengan barang strategik selain senjata atau bahan yang berkaitan, dihukum dengan pemenjaraan selama tempoh tidak melebihi lima tahun atau dengan denda tidak melebihi lima juta ringgit atau dengan kedua duanya, dan dalam hal suatu pertubuhan perbadanan, dihukum dengan denda tidak melebihi sepuluh juta ringgit.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: “(4) Berhubung dengan barang strategik, subseksyen (1) tidak terpakai bagi mana-mana orang yang terlibat semata-mata dalam penyediaan perkhidmatan sampingan yang berikut: (a) pengangkutan; (b) perkhidmatan kewangan; (c) insurans atau insurans semula; (d) iklan umum; atau (e) apa-apa perkhidmatan sampingan lain yang ditentukan oleh Pengawal.”. Pindaan seksyen 12"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_6__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_6__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 12 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “untuk mengeksport barang tidak tersenarai itu sekurang-kurangnya tiga puluh hari sebelum pengeksportan itu” dengan perkataan “untuk mengeksport, memindahkan atau membawa dalam transit barang tidak tersenarai itu sekurang-kurangnya tiga puluh hari sebelum pengeksportan, pemindahan atau pembawaan dalam transit itu”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “sama ada untuk membenarkan pengeksportan itu diteruskan atau tidak” dengan perkataan “sama ada untuk membenarkan pengeksportan, pemindahan atau pembawaan dalam transit itu diteruskan atau tidak”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan menggantikan perkataan “pengeksportan itu” dengan perkataan “pengeksportan, pemindahan atau pembawaan dalam transit itu”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_6__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_6__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_6__para_d__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_6__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_6__para_d__subpara_i__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_6__para_d__subpara_i__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_6__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_6__para_d__subpara_i__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_6__para_d__subpara_i",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (i), dengan menggantikan subsubperenggan (B) dengan subsubperenggan yang berikut: “(B) dalam apa-apa hal lain, dihukum dengan pemenjaraan selama tempoh tidak melebihi sepuluh tahun atau dengan denda tidak melebihi sepuluh juta ringgit atau dengan kedua-duanya, dan dalam hal suatu pertubuhan perbadanan, dihukum dengan denda tidak melebihi dua puluh juta ringgit; atau”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_6__para_d__subpara_i__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_6__para_d__subpara_i",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (ii), dengan menggantikan perkataan “dihukum dengan pemenjaraan selama tempoh tidak kurang daripada lima tahun atau dengan denda tidak kurang daripada lima juta ringgit atau dengan kedua-duanya, dan dalam hal suatu pertubuhan perbadanan, dihukum dengan denda minimum sebanyak sepuluh juta ringgit” dengan perkataan “dihukum dengan pemenjaraan selama tempoh tidak melebihi lima tahun atau dengan denda tidak melebihi lima juta ringgit atau dengan kedua-duanya, dan dalam hal suatu pertubuhan perbadanan, dihukum dengan denda tidak melebihi sepuluh juta ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_6__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_6__para_d__subpara_ii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_6__para_d__subpara_ii__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_6__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_6__para_d__subpara_ii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_6__para_d__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (i), dengan menggantikan perkataan “dihukum dengan pemenjaraan selama tempoh tidak kurang daripada sepuluh tahun atau dengan denda tidak kurang daripada sepuluh juta ringgit atau dengan kedua-duanya, dan dalam hal suatu pertubuhan perbadanan, dihukum dengan denda minimum sebanyak dua puluh juta ringgit” dengan perkataan “dihukum dengan pemenjaraan selama tempoh tidak melebihi sepuluh tahun atau dengan denda tidak melebihi sepuluh juta ringgit atau dengan kedua-duanya, dan dalam hal suatu pertubuhan perbadanan, dihukum dengan denda tidak melebihi dua puluh juta ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_6__para_d__subpara_ii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_6__para_d__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (ii), dengan menggantikan perkataan “dihukum dengan pemenjaraan selama tempoh tidak kurang daripada lima tahun atau dengan denda tidak kurang daripada lima juta ringgit atau dengan kedua-duanya, dan dalam hal suatu pertubuhan perbadanan, dihukum dengan denda minimum sebanyak sepuluh juta ringgit” dengan perkataan “dihukum dengan pemenjaraan selama tempoh tidak melebihi lima tahun atau dengan denda tidak melebihi lima juta ringgit atau dengan kedua-duanya, dan dalam hal suatu pertubuhan perbadanan, dihukum dengan denda tidak melebihi sepuluh juta ringgit”. Seksyen baharu 12a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 12 seksyen yang berikut: “Anggapan tentang eksport 12a. (1) Berhubung dengan eksport, apa-apa barang, barang strategik atau barang tidak tersenarai hendaklah disifatkan dibawa atau menyebabkan dibawa keluar dari Malaysia jika— (a) barang itu telah dilepaskan oleh pegawai kastam yang hak di stesen kastam terakhir dalam laluannya keluar dari Malaysia; (b) barang itu telah dimuatkan ke dalam suatu pengangkutan yang hampir berlepas dari suatu pelabuhan atau tempat di Malaysia; atau (c) barang itu telah dilepaskan oleh pegawai kastam yang hak di depoh pelepasan dalam negeri atau di stesen kastam dalam negeri dalam laluannya keluar dari Malaysia melalui suatu pelabuhan atau lapangan terbang kastam. (2) Dalam seksyen ini, “lapangan terbang kastam”, “pelabuhan kastam”, “depoh pelepasan dalam negeri” dan “pegawai kastam yang hak” mempunyai erti yang sama yang diberikan kepadanya dalam Akta Kastam 1967 [Akta 235].”. Pindaan seksyen 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 14 Akta ibu dipinda dengan menggantikan subseksyen (2) dengan subseksyen yang berikut: “(2) Pihak Berkuasa yang berkenaan boleh menghendaki pemohon yang membuat permohonan di bawah subseksyen (1) untuk mengemukakan pernyataan kegunaan akhir.”. Pindaan seksyen 18"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/3/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 18(2) Akta ibu dipinda dengan menggantikan perkataan “dihukum dengan pemenjaraan selama tempoh tidak kurang daripada tiga tahun atau dengan denda tidak kurang daripada tiga juta ringgit atau dengan kedua-duanya, dan dalam hal suatu pertubuhan perbadanan, dihukum dengan denda minimum sebanyak lima juta ringgit” dengan perkataan “dihukum dengan pemenjaraan selama tempoh tidak melebihi tiga tahun atau dengan denda tidak melebihi tiga juta ringgit atau dengan kedua-duanya, dan dalam hal suatu pertubuhan perbadanan, dihukum dengan denda tidak melebihi lima juta ringgit”. Pindaan seksyen 21"
+      }
+    }
+  ]
+}

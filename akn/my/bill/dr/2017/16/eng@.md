@@ -60,7 +60,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 6. The principal Act is amended by inserting after Part IV the following part:
 
-“Part IVa
+## “PART IVA
 
 ## LICENSING OF INTERMEDIATION BUSINESS
 

@@ -12,7 +12,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Tajuk ringkas dan permulaan kuat kuasa
 
-1. (1) Akta ini bolehlah dinamakan Akta Saraan Hakim (Pindaan) 2005.
+1. (1) Akta ini bolehlah dinamakan Akta Saraan Hakim (Pindaan)
+
+2005.
 
 (2) Akta ini disifatkan telah mula berkuat kuasa pada 21 Mac 2005.
 
@@ -50,7 +52,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 Rang Undang-Undang ini bertujuan untuk meminda Akta Saraan Hakim 1971 ("Akta 45") berbangkit daripada pindaan yang dibuat kepada Fasal (1) Perkara 125 Perlembagaan Persekutuan yang telah menaikkan umur persaraan Hakim daripada enam puluh lima tahun kepada enam puluh enam tahun. Pindaan yang dicadangkan adalah kepada takrif "persaraan" dalam seksyen 1A dan kepada seksyen 8 Akta 45 sebagaimana yang dinyatakan masing-masing dalam fasal 2 dan 3. Rang Undang-Undang ini diberikan kuat kuasa ke belakang kepada tarikh pindaan kepada Perkara 125 mula berkuat kuasa.
 
-Bagi mengelakkan keraguan, fasal 4 memperuntukkan pengekalan hak kepada pencen dan faedah lain di bawah Akta 45 bagi Hakim yang memilih untuk bersara pada umur enam puluh lima tahun. Fasal 5 bertujuan untuk mengesahkan pemberian pencen dan faedah lain yang diberikan kepada Hakim yang tempoh jawatannya dilanjutkan kepada apa-apa tempoh yang tidak kemudian daripada enam bulan selepas dia mencapai umur enam puluh lima tahun menurut kuasa Perkara 125 Perlembagaan Persekutuan.
+Bagi mengelakkan keraguan, fasal 4 memperuntukkan pengekalan hak kepada pencen dan faedah lain di bawah Akta 45 bagi Hakim yang memilih untuk bersara pada umur enam puluh lima tahun. Fasal 5 bertujuan untuk mengesahkan pemberian pencen dan faedah lain yang diberikan kepada Hakim yang tempoh jawatannya dilanjutkan kepada apa-apa tempoh yang tidak kemudian daripada enam bulan selepas dia mencapai umur enam puluh lima tahun menurut kuasa
+
+## Perkara 125 Perlembagaan Persekutuan.
 
 ## IMPLIKASI KEWANGAN
 

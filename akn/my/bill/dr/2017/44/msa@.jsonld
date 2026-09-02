@@ -1,0 +1,629 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-44-2017",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_13"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Industri Pelancongan (Pindaan) 2017"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 34 Akta ibu dipinda dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(3) Apa-apa peraturan-peraturan yang dibuat di bawah seksyen ini boleh menetapkan apa-apa perbuatan yang melanggar peraturan-peraturan sebagai suatu kesalahan dan boleh menetapkan penalti denda tidak melebihi satu ratus ribu ringgit atau pemenjaraan selama tempoh tidak melebihi lima tahun atau kedua-duanya bagi kesalahan itu.”. Pindaan seksyen 37"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 37 Akta ibu dipinda dengan menggantikan perkataan “lima ribu” dengan perkataan “lima puluh ribu”. Pindaan seksyen 39"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 39(1) Akta ibu dipinda dengan memasukkan selepas perkataan “Pesuruhjaya boleh” perkataan “, dengan keizinan bertulis Pendakwa Raya,”. Penggantian seksyen 49"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 49 dengan seksyen yang berikut: “Pendakwaan 49. Tiada pendakwaan berkenaan dengan suatu kesalahan di bawah Akta ini boleh dimulakan kecuali oleh, atau dengan keizinan bertulis, Pendakwa Raya.”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Industri Pelancongan (Pindaan) 2017."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Industri Pelancongan 1992 [Akta 482], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 2, dalam takrif “premis penginapan”, dengan menggantikan perkataan “dan rumah pemalaman,” dengan perkataan “, rumah pemalaman, dan struktur lain sama ada kekal atau sementara,”. Pindaan seksyen 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 5(3) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “lima puluh ribu” dengan perkataan “lima ratus ribu”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “lima tahun” dengan perkataan “sepuluh tahun”. Pindaan seksyen 8"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_i"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 8 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan menggantikan perkataan “Pembatalan” dengan perkataan “Penggantungan atau pembatalan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan memasukkan selepas perkataan “Pesuruhjaya boleh” perkataan “menggantung atau”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “Sebelum” perkataan “menggantung atau”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “patut” perkataan “digantung atau”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan memasukkan selepas perkataan “untuk” perkataan “menggantung atau”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_e__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_e__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_e__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_e__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_e",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “Pembatalan” dengan perkataan “Penggantungan atau pembatalan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_e__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_e__subpara_ii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_e__subpara_ii__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_e",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_e__subpara_ii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_e__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “terhadap” perkataan “penggantungan atau”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_e__subpara_ii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_e__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “notis” perkataan “penggantungan atau notis”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_e__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_e__subpara_iii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_e__subpara_iii__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_e",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_e__subpara_iii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_e__subpara_iii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “terhadap” perkataan “penggantungan atau”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_e__subpara_iii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_e__subpara_iii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “apabila” perkataan “penggantungan atau”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_f__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_f__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_f__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (5)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_f__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_f",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “terhadap” perkataan “penggantungan atau”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_f__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_f",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “lesennya” perkataan “digantung atau”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_f__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_f",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “dan” perkataan “penggantungan atau”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_g__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_g__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_g__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (7)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_g__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_g",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “Jika” perkataan “penggantungan atau”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_g__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_g",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “menyebabkan” perkataan “penggantungan atau”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_g__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_g",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “Inggeris” perkataan “atau media elektronik, sebagaimana yang difikirkan patut oleh Pesuruhjaya,”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (8)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_i__subpara_ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “notis” perkataan “penggantungan atau notis”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_i__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_4__para_i",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “keesahan” perkataan “penggantungan atau”. Pindaan seksyen 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 9(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan menggantikan perkataan “pembatalan” dengan perkataan “penggantungan atau pembatalan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “notis keengganan” perkataan “, penggantungan”. Pindaan seksyen 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 10 Akta ibu dipinda dengan memotong subseksyen (3). Pindaan seksyen 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_7__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 11 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan memasukkan selepas perkataan “Kesan” perkataan “penggantungan,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: “(1a) Jika penggantungan sesuatu lesen di bawah seksyen 8 telah mula berkuat kuasa, maka pengusahaan pelancongan berlesen itu tidak boleh mengurusniagakan apa-apa perniagaan baharu dalam tempoh penggantungan itu.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_7__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_7__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_7__para_c__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_7__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_7__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “subseksyen (1)” perkataan “atau (1a)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_7__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_7__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “lima puluh ribu” dengan perkataan “lima ratus ribu”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_7__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_7__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “lima tahun” dengan perkataan “sepuluh tahun”. Pindaan seksyen 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 15(3) Akta ibu dipinda dengan menggantikan perkataan “dua puluh ribu” dengan perkataan “lima puluh ribu”. Pindaan seksyen 32"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_9__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 32 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (3); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/44/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (4) subseksyen yang berikut: “(5) Mana-mana orang yang melanggar subseksyen (1) adalah melakukan suatu kesalahan di bawah Akta ini.”. Pindaan seksyen 34"
+      }
+    }
+  ]
+}

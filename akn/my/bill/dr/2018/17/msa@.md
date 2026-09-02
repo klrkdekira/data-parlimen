@@ -370,7 +370,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 47. Akta ibu dipinda dengan menggantikan Bahagian VIII dengan Bahagian yang berikut:
 
-“Bahagian VIII
+## “BAHAGIAN VIII
 
 ## RAYUAN
 

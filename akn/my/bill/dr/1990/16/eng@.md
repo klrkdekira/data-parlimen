@@ -8,19 +8,37 @@ An Act to amend the Copyright Act 1987. [ ]
 
 BE IT ENACTED by the Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong with the advice and consent of the Dewan Negara and Dewan Rakyat in Parliament assembled, and by the authority of the same, as follows:
 
-Short title
+<!-- marginal: Short title -->
 
-1. (1) This Act may be cited as the Copyright (Amendment) and com- Act 1990, mencement.
+1. (1) This Act may be cited as the Copyright (Amendment)
+
+<!-- marginal: and com- -->
+
+Act 1990,
+
+<!-- marginal: mencement. -->
 
 (2) Except for sections 2, 3 (a), 3 (c), 3 (e), 4, 5 (a), 10 (a), 15, 17, 18, 20, 21 and 22, this Act shall come into force on the 1st October 1990.
 
 (3) Sections 2,3 (a), 3 (c), 3 (e), 4,5 (a), 10 (a}, 15,17,18, 20, 21 and 22 of this Act shall be deemed to have come into force on the 1st December 1987.
 
-Substitution
+<!-- marginal: Substitution -->
 
-2. The Copyright Act 1987, which in this Act is referred of section 2. to as the "principal Act", is amended by substituting for Act 332 . section 2 the following:
+2. The Copyright Act 1987, which in this Act is referred
 
-2. (1) Subject to this section and section 59A "Extent of application. and regulations made under section 59A, this Act shall apply in relation to works made before the commencement of this Act as it applies in relation to works made after the commencement of this Act:
+<!-- marginal: of section 2. -->
+
+to as the "principal Act", is amended by substituting for
+
+<!-- marginal: Act 332 . -->
+
+section 2 the following:
+
+2. (1) Subject to this section and section 59A "Extent of application. and regulations made under section 59A, this Act shall apply in relation to works made before the commencement of this Act as it applies
+
+<!-- marginal: in -->
+
+relation to works made after the commencement of this Act:
 
 Provided that this section shall not be con- strued as reviving any copyrights which had expired before the commencement of this Act.
 
@@ -30,9 +48,11 @@ Provided that this section shall not be con- strued as reviving any copyrights w
 
 the commencement of this Act shall be taken to constitute an infringement of those copyrights. (3) For the purposes of this section, a work the making of which extended over a period of time shall not be deemed to have been made before the commencement of this Act unless the making of the work was completed before such commencement.''.
 
-Amendment
+<!-- marginal: Amendment -->
 
-3. Section 3 of the prinicipal Act is amended— of section 3.
+3. Section 3 of the prinicipal Act is amended—
+
+<!-- marginal: of section 3. -->
 
 (a) by inserting, immediately after the words "or models" appearing in paragraph (d) of
 
@@ -40,7 +60,9 @@ Amendment
 
 definition of "artistic work", the words "of buildings";
 
-(b) by deleting the definition of "communication to the public"; (c) by inserting, immediately after the definition of the word "copyright", the following new definition: ' "derivative works" means the works mentioned in paragraphs (a) and (b) of subsection (1) of section 8; ';
+(b) by deleting the definition of "communication to the public";
+
+(c) by inserting, immediately after the definition of the word "copyright", the following new definition: ' "derivative works" means the works mentioned in paragraphs (a) and (b) of subsection (1) of section 8; ';
 
 (d) by inserting, immediately after the words "copy- right in the work" appearing in the definition of "infringing copy", the words "or, in the case of any article imported into Malaysia without the consent or licence of the owner of the copyright, the making of which was carried out without the consent of the owner of the copyright"; and
 
@@ -48,9 +70,13 @@ definition of "artistic work", the words "of buildings";
 
 but does not include official texts of the Government or statutory bodies of a legislative or regulatory nature, or judicial decisions;".
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. Subsection (1) of section 8 of the principal Act is amended of section 8. by substituting for the words "literary, musical or artistic works" appearing in paragraphs (a) and (b) the words "works eligible for copyright".
+4. Subsection (1) of section 8 of the principal Act is amended
+
+<!-- marginal: of section 8. -->
+
+by substituting for the words "literary, musical or artistic works" appearing in paragraphs (a) and (b) the words "works eligible for copyright".
 
 <!-- page 3 -->
 
@@ -72,11 +98,7 @@ Amendment
 
 Provided that if such reproduction is made public it is accompanied by an acknowledge- ment of the title of the work and. its authorship, except where the work is incidentally included in a broadcast.
 
-(5) The Government, the National Archives, or any State Archives, the National Library, or any State library, or any public libraries and educational, scientific or professional insti- tutions as the Minister may by order prescribe, may reproduce the typographical arrangement of a published edition without infringing
-
-<!-- marginal: the -->
-
-copyright subsisting by virtue of this section if such reproduction is in the public interest and is compatible with fair dealing and the provisions of any regulations.".
+(5) The Government, the National Archives, or any State Archives, the National Library, or any State library, or any public libraries and educational, scientific or professional insti- tutions as the Minister may by order prescribe, may reproduce the typographical arrangement of a published edition without infringing the copyright subsisting by virtue of this section if such reproduction is in the public interest and is compatible with fair dealing and the provisions of any regulations.".
 
 6. (1) Subsection (1) of section 13 of the principal Act is
 
@@ -100,11 +122,7 @@ amended— '
 
 (2) Subsection (2) of section 13 of the principal Act is amended—
 
-(a) by inserting, immediately after
-
-<!-- marginal: the word -->
-
-"criticism" appearing in paragraph (a), the word ", review";
+(a) by inserting, immediately after the word "criticism" appearing in paragraph (a), the word ", review";
 
 (b) by substituting for the words "incidentally in- cluded in a broadcast" appearing in paragraph (a) the words "in connection with the doing of any of such acts for the purposes of non-profit research, private study and the reporting of current events by means of a sound recording, film or broadcast";
 
@@ -146,7 +164,11 @@ sound recording or a film included in the broadcast insofar as it consists of so
 
 "(3) For the purposes of subsection (2) (l), "a legislative body" means the Parliament of Malaysia or, in relation to a State, the authority having power under the Constitution of that State to make laws for the State, as the case may be.".
 
-7. Section 15 is amended— Amendment of section 15.
+7. Section 15 is amended—
+
+<!-- marginal: Amendment -->
+
+<!-- marginal: of section 15. -->
 
 (a) by substituting for the word "communication" appearing in subsection (1) the words "performance, showing or playing"; and
 
@@ -154,11 +176,19 @@ sound recording or a film included in the broadcast insofar as it consists of so
 
 ### (ggg),".
 
-Deletion of
+<!-- marginal: Deletion of -->
 
-8. The principal Act is amended by deleting section 24. section 24.
+8. The principal Act is amended by deleting section 24.
 
-9. Section 36 of the principal Act is amended by sub- Amendment of section 36. stituting for subsection (2) the following subsection (2):
+<!-- marginal: section 24. -->
+
+9. Section 36 of the principal Act is amended by sub-
+
+<!-- marginal: Amendment -->
+
+<!-- marginal: of section 36. -->
+
+stituting for subsection (2) the following subsection (2):
 
 "(2) Copyright is infringed by any person who, without the consent or licence of the owner of the copyright, imports an article into Malaysia for the purpose of—
 
@@ -254,23 +284,63 @@ amended—
 
 <!-- page 10 -->
 
-15. The principal Act is amended by substituting for Substitution of section 49. section 49 the following:
+15. The principal Act is amended by substituting for
+
+<!-- marginal: Substitution -->
+
+<!-- marginal: of section 49. -->
+
+section 49 the following:
 
 "Warrant 49. A warrant issued under this Act shall be valid admissible and enforceable notwithstanding any defect, notwithstan- mistake or omission in the warrant or in the ding defects, etc. application for such warrant and any copy, contrivance, article, vehicle, book or document seized under such warrant shall be admissible in evidence in any proceedings under this Act.".
 
-Amendment 16. Section 54 of the principal Act is amended by inserting, of section 54. immediately after the word "article," wherever it appears in that section, the word "vehicle,".
+<!-- marginal: Amendment -->
 
-Amendment 17. Subsection (1) of section 55 of the principal Act is of section 55. amended by substituting for the words "of infringing any copyright" the words "to be infringing copies".
+16. Section 54 of the principal Act is amended by inserting,
 
-Amendment 18. Section 56 of the principal Act is amended by sub- of section 56. stituting for the word "practical" appearing in subsection (3) the word "material".
+<!-- marginal: of section 54. -->
 
-Amendment 19. Subsection (2) of section 58 of the principal Act is of section 58. amended by substituting for the words "communicate in public" appearing in paragraphs (a) and (b) the words "perform, show or play in public".
+immediately after the word "article," wherever it appears in that section, the word "vehicle,".
 
-Substitution 20. The principal Act is amended by substituting for section of section 59. 59 the following:
+<!-- marginal: Amendment -->
+
+17. Subsection (1) of section 55 of the principal Act is
+
+<!-- marginal: of section 55. -->
+
+amended by substituting for the words "of infringing any copyright" the words "to be infringing copies".
+
+<!-- marginal: Amendment -->
+
+18. Section 56 of the principal Act is amended by sub-
+
+<!-- marginal: of section 56. -->
+
+stituting for the word "practical" appearing in subsection
+
+(3) the word "material".
+
+<!-- marginal: Amendment -->
+
+19. Subsection (2) of section 58 of the principal Act is
+
+<!-- marginal: of section 58. -->
+
+amended by substituting for the words "communicate in public" appearing in paragraphs (a) and (b) the words "perform, show or play in public".
+
+<!-- marginal: Substitution -->
+
+20. The principal Act is amended by substituting for section
+
+<!-- marginal: of section 59. -->
+
+59 the following:
 
 "Regulations. 59. The Minister may make regulations for the carrying out of the provisions of this Act.".
 
-21. The principal Act is amended by inserting, immediately New section
+21. The principal Act is amended by inserting, immediately
+
+<!-- marginal: New section -->
 
 59A. after section 59, the following new section 59A:
 
@@ -288,11 +358,7 @@ to which Malaysia is also a party or a member, so as to secure that those provis
 
 (d) apply in relation to broadcasts transmitted from that specified country as they apply in relation to broadcasts transmitted from Malaysia;
 
-(e) apply in relation to works of architecture erected in that specified country or any other artistic works incorporated
-
-<!-- marginal: in -->
-
-buildings located in that specified country as they apply in relation to works of architecture erected in Malaysia or any other artistic works incorporated in buildings located in Malaysia;
+(e) apply in relation to works of architecture erected in that specified country or any other artistic works incorporated in buildings located in that specified country as they apply in relation to works of architecture erected in Malaysia or any other artistic works incorporated in buildings located in Malaysia;
 
 (f) apply in relation to every work eligible for copyright if the work is made in that specified country as they apply in relation to every work eligible for copyright if the work is made in Malaysia; and
 

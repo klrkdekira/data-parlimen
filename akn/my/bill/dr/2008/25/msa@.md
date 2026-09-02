@@ -62,7 +62,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 7. Akta ibu dipinda dengan menggantikan Jadual Keempat dengan jadual yang berikut:
 
-“Jadual Keempat
+## “JADUAL KEEMPAT
 
 [Subseksyen 15b(3)]
 

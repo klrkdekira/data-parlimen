@@ -46,11 +46,7 @@ perkataan-perkataan "DAN TABUNG BEKAS
 
 4. (1) Pertukaran nama Akta ini tidaklah—
 
-(a) menyentuh sebutan mengenai Tabung Angkatan Tentera dalam mana-mana undang- undang bertulis atau dalam apa-apa suratcara, suratikatan, hakmilik, dokumen, bon, perjanjian dan perkiraan pengusahaan yang wujud sebelum sahaja Akta
-
-<!-- marginal: ini mula -->
-
-berkuatkuasa;
+(a) menyentuh sebutan mengenai Tabung Angkatan Tentera dalam mana-mana undang- undang bertulis atau dalam apa-apa suratcara, suratikatan, hakmilik, dokumen, bon, perjanjian dan perkiraan pengusahaan yang wujud sebelum sahaja Akta ini mula berkuatkuasa;
 
 (b) menyentuh apa-apa hak, keistimewaan, tanggungan, kewajipan atau obligasi Lembaga Tabung Angkatan Tentera, atau menjadikan cacat apa-apa prosiding undang-undang oleh atau terhadapnya; dan apa-apa prosiding undang-undang yang boleh diteruskan atau dimulakan oleh atau terhadapnya sebelum Akta ini mula berkuatkuasa boleh diteruskan atau dimulakan sedemikian.
 
@@ -60,9 +56,7 @@ berkuatkuasa;
 
 5. Seksyen 2 Akta ibu adalah dipinda—
 
-(a) dengan memasukkan
-
-<!-- marginal: selepas -->
+(a) dengan memasukkan selepas
 
 <!-- marginal: takrif -->
 
@@ -108,11 +102,7 @@ berkuatkuasa;
 
 (a) dengan menggantikan subsekysen (1) dengan subseksyen yang berikut:
 
-"(1) Adalah menjadi tugas Lembaga untuk mentadbir dan mengurus Tabung Angkatan Tentera dan Tabung Bekas Perajurit mengikut apa-apa cara yang akan memajukan kepentingan
-
-<!-- marginal: pencarum- -->
-
-pencarum dan juga personel akan bersara dan personel bersara yang berkenaan dan membentuk dasar-dasar berkaitan dengan mana-mana daripada tugas-tugasnya dan melakukan apa-apa perkara lain yang boleh dilakukan di bawah Akta ini."; dan
+"(1) Adalah menjadi tugas Lembaga untuk mentadbir dan mengurus Tabung Angkatan Tentera dan Tabung Bekas Perajurit mengikut apa-apa cara yang akan memajukan kepentingan pencarum- pencarum dan juga personel akan bersara dan personel bersara yang berkenaan dan membentuk dasar-dasar berkaitan dengan mana-mana daripada tugas-tugasnya dan melakukan apa-apa perkara lain yang boleh dilakukan di bawah Akta ini."; dan
 
 (b) dengan menggantikan perkataan-perkataan "itu segala bayaran dan perbelanjaan yang dilakukan sedemikian" dalam subseksyen (3) dengan perkataan-perkataan "Angkatan Tentera atau Tabung Bekas Perajurit itu segala bayaran dan perbelanjaan yang dilakukan masing- masingnya di bawah seksyen 3 atau 3A".
 
@@ -162,6 +152,4 @@ Rang Undang-Undang ini bertujuan meminda Akta Tabung Angkatan Tentera 1973 ("Akt
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya belum dapat ditentukan sekarang ini.
-
-<!-- marginal: [PN. (U2) 1802.] -->
+Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya belum dapat ditentukan sekarang ini. [PN. (U2) 1802.]

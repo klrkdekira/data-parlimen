@@ -44,19 +44,27 @@ pergigian institusi pendidikan tinggi di Malaysia yang akan dilantik oleh Merite
 
 (iii) dengan memasukkan selepas perenggan
 
-(e) perenggan yang berikut: "(ea) enam orang doktor pergigian yang akan dilantik
+(e) perenggan yang berikut: "(ea) enam orang doktor pergigian yang akan dilantik oleh Menteri;";
 
-<!-- marginal: oleh -->
+(b) dalam subseksyen (2), (5) dan (6) dengan memasukkan selepas perkataan "subseksyen
 
-Menteri;";
+(1)(e)" perkataan "atau (ea)";
 
-(b) dalam subseksyen (2), (5) dan (6) dengan memasukkan selepas perkataan "subseksyen (1)(e)" perkataan "atau (ea)";
+(c) dalam subseksyen (7)—
 
-(c) dalam subseksyen (7)— (i) dengan menggantikan noktah bertindih dengan noktah; dan (ii) dengan memotong proviso;
+(i) dengan menggantikan noktah bertindih dengan noktah; dan
+
+(ii) dengan memotong proviso;
 
 (d) dengan memotong subseksyen (12);
 
-(e) dalam subseksyen (13)— (i) dengan memotong perkataan "atau" di hujung perenggan (a); (ii) dalam perenggan (b) dengan menggantikan noktah dengan perkataan "; atau"; dan (iii) dengan memasukkan selepas perenggan
+(e) dalam subseksyen (13)—
+
+(i) dengan memotong perkataan "atau" di hujung perenggan (a);
+
+(ii) dalam perenggan (b) dengan menggantikan noktah dengan perkataan "; atau"; dan
+
+(iii) dengan memasukkan selepas perenggan
 
 (b) perenggan yang berikut: "(c) jika pada bila-bila masa namanya telah dipotong dari Daftar.";
 
@@ -92,9 +100,11 @@ berkenaan dengan mana-mana pengamal yang adalah seorang ahli Majlis, pengamal it
 
 (19) Mana-mana ahli Majlis yang hendak dihidupkan semula menurut subseksyen (18) hendaklah, jika penghidupan semula itu akan berkuatkuasa sebelum tamatnya tempoh jawatannya, dihidupkan semula untuk memegang jawatan bagi bahagian tempoh jawatannya yang belum tamat.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-4. Subseksyen 17(1) Akta ibu adalah dipinda— seksyen 17
+4. Subseksyen 17(1) Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 17 -->
 
 (a) dengan menggantikan koma di hujung perenggan
 
@@ -104,9 +114,11 @@ Pindaan
 
 "(c) didapati oleh panel kajian semula perubatan, yang hendaklah terdiri daripada dua orang pengamal perubatan dan seorang doktor pergigian yang dilantik oleh Majlis, selepas menjalankan penyiasatan yang sepatutnya sebagai tak layak untuk melaksanakan kewajipan- kewajipan profesionalnya oleh sebab keadaan mental atau fizikalnya,".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-5. Seksyen 23 Akta ibu adalah dipinda— seksyen 23.
+5. Seksyen 23 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 23. -->
 
 (a) dalam nota birai, dengan memotong perkataan "orang yang menjadi pesakit otak";
 
@@ -136,19 +148,27 @@ orang itu hendaklah dengan itu terhenti daripada didaftarkan sedemikian, dan sua
 
 <!-- page 6 -->
 
-7. Subseksyen 42(1) Akta ibu adalah dipinda— Pindaan seksyen 42.
+7. Subseksyen 42(1) Akta ibu adalah dipinda—
+
+<!-- marginal: Pindaan -->
+
+<!-- marginal: seksyen 42. -->
 
 (a) dalam perenggan (a) dengan menggantikan perkataan "satu" dengan perkataan "sepuluh"; dan
 
 (b) dalam perenggan (b) dengan menggantikan perkataan "dua" dan "enam bulan" masing- masingnya dengan perkataan "dua puluh" dan "tiga tahun".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
 8. Subperenggan 2(3) Jadual Pertama kepada Akta ibu
 
 ## Jadual
 
-adalah dipinda dengan menggantikan perkataan "tujuh" Pertama. dengan perkataan "sepuluh".
+adalah dipinda dengan menggantikan perkataan "tujuh"
+
+<!-- marginal: Pertama. -->
+
+dengan perkataan "sepuluh".
 
 ## HURAIAN
 

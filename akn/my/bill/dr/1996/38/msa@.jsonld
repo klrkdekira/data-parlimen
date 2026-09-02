@@ -1,0 +1,501 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-38-1996",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Keselamatan Sosial Pekerja (Pindaan) 1996"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 71 Akta ibu adalah dipinda dengan memotong"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perkataan \"dan\" di hujung perenggan (viii) dan memasukkan selepas itu perenggan yang berikut: \"(viiia) memberikan pinjaman atau biasiswa kepada anak tanggungan seseorang orang berinsurans sebagaimana yang dinyatakan di bawah seksyen 57A; dan\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Perenggan 75A(2)(c) Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memotong perkataan \"sebagai Timbalan Pengerusi\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 75B Akta ibu adalah dipotong."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 93 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan perkataan \"enam bulan\" dan \"dua ribu\" masing-masingnya dengan perkataan \"dua tahun\" dan \"sepuluh ribu\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 94 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan perkataan \"enam bulan\" dan \"dua ribu\" masing-masingnya dengan perkataan \"dua tahun\" dan \"sepuluh ribu\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 105(2) Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memotong perkataan \"dan\" di hujung perenggan (xxxi) dan memasukkan selepas itu perenggan yang berikut: \"(xxxia) pengenaan apa-apa fee atau caj bagi pemberian apa-apa maklumat atau dokumen yang berada dalam jagaan Pertubuhan; dan\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_16__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 110(2) Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"boleh dihukum, apabila disabitkan, mengikut sebagaimana diperuntukkan dalam Bab X Kanun Keseksaan\" dengan perkataan \"boleh dihukum penjara selama tempoh yang boleh sampai dua tahun, atau denda tidak melebihi sepuluh ribu ringgit, atau kedua- duanya\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong rujukan birai kepada Kanun Keseksaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jadual Keenam Akta ibu adalah dipinda dalam"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Keselamatan Sosial Pekerja (Pindaan) 1996."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini hendaklah mula berkuatkuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Keselamatan Sosial Pekerja 1969, yang disebut"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "\"Akta ibu\" dalam Akta ini, adalah dipinda dalam subseksyen 2(1 A) dengan menggantikan perkataan \"Lembaga yang dilantik\" dengan perkataan \"Lembaga Pertubuhan Keselamatan Sosial yang ditubuhkan\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 31 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan noktah dengan noktah bertindih dan memasukkan selepas itu proviso yang berikut: \"Dengan syarat bahawa larangan dalam seksyen ini tidaklah terpakai bagi apa-apa tuntutan yang berbangkit daripada kemalangan kenderaan motor jika majikan atau pengkhidmat majikan adalah dikehendaki diinsuranskan terhadap Risiko-Risiko Pihak Ketiga di bawah Bahagian IV Akta Pengangkutan Jalan 1987.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 42 Akta ibu adalah dipotong."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Bahagian III Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memasukkan selepas seksyen 57 seksyen yang berikut: \" 57A. Faedah pendidikan dalam bentuk pinjaman atau biasiswa boleh diadakan bagi anak tanggungan seseorang orang berinsurans yang— (a) mati akibat suatu bencana kerja; (b) mati semasa menerima pencen ilat; (c) mati sebelum mencapai umur lima puluh lima tahun tetapi telah genap bekerja sepanjang tempoh kelayakan atau suatu tempoh kelayakan yang dikurangkan sebagaimana yang dinyatakan di bawah seksyen 17A; (d) menerima pencen ilat; atau (e) menerima bayaran-bayaran berkala faedah hilang upaya yang kekal, mengikut terma dan syarat yang disifatkan oleh Pertubuhan patut dikenakan.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 59 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memasukkan selepas subseksyen (2) subseksyen yang berikut: \"(2A) Jika bagi apa-apa tempoh Ketua Pengarah tiada buat sementara dalam Malaysia atau menjadi tak upaya buat sementara kerana sakit, atau kerana apa-apa sebab lain tidak dapat melaksanakan kewajipan-kewajipannya, atau jika jawatan Ketua Pengarah menjadi kosong, Menteri hendaklah melantik salah seorang daripada Timbalan Ketua Pengarah untuk melaksanakan kewajipan-kewajipan Ketua Pengarah dalam tempoh itu.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_7__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_7__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_7__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_7__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_7__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 59B Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota birai, dengan menggantikan perkataan \"Perlantikan Lembaga.\" dengan perkataan \"Penubuhan Lembaga.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1) dengan menggantikan perkataan \"Lembaga\" dengan perkataan \"lembaga yang hendaklah dikenali sebagai Lembaga Pertubuhan Keselamatan Sosial\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_7__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_7__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_7__para_c__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_7__para_c__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_7__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_7__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (a) dengan perenggan yang berikut: \"(a) seorang Pengerusi yang hendaklah dilantik oleh Menteri;\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_7__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_7__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b) dengan memotong perkataan \"sebagai Timbalan Pengerusi\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_7__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_7__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (c) perenggan yang berikut: \"(ca) seorang pegawai mewakili Kementerian yang bertanggung- jawab bagi sumber manusia; (cb) seorang pegawai mewakili Kementerian yang bertanggung- jawab bagi kesihatan;\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_7__para_c__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_7__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah di hujung perenggan (e) dengan koma bernoktah dan memasukkan selepas itu perenggan yang berikut: \"(f) tiga orang yang mempunyai pengalaman dalam perkara- perkara keselamatan sosial yang hendaklah dilantik oleh Merited.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_7__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4) dengan menggantikan perkataan \"(d) dan (e)\" dengan perkataan \"(a), (d), (e) dan (f)\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_7__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam proviso kepada subseksyen (5) dengan menggantikan perkataan \"(d) dan (e)\" dengan perkataan \"(a), (d), (e) dan (f)\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_7__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (6); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_7__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (7) subseksyen yang berikut: \"(8) Menteri boleh bagi setiap ahli yang dilantik di bawah subseksyen (2) (d) dan (e) melantik seseorang menjadi ahli silih ganti untuk menghadiri mesyuarat Lembaga menggantikan ahli itu apabila ahli itu tidak dapat hadir kerana sakit, tak berupaya atau apa-apa sebab lain: Dengan syarat bahawa pelantikan ahli silih ganti itu hendaklah dirundingkan dengan pertubuhan yang mewakili majikan atau orang berinsurans, mengikut mana-mana yang berkenaan, sebagaimana yang difikirkan patut oleh Menteri. (9) Apabila menghadiri mesyuarat Lembaga, seseorang ahli silih ganti hendaklah bagi semua maksud disifatkan sebagai seorang ahli Lembaga. (10) Seseorang ahli silih ganti hendaklah, melainkan jika dia terlebih dahulu berhenti daripada menjadi ahli atau pelantikannya terlebih dahulu dibatalkan, terhenti menjadi ahli silih ganti apabila ahli yang dia ialah ahli silih gantinya tidak lagi menjadi ahli Lembaga.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_8__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_8__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 59c Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota birai, dengan menggantikan perkataan \"Timbalan Pengerusi bertindak sebagai Pengerusi.\" dengan perkataan \"Menteri hendaklah melantik mana-mana orang untuk bertindak sebagai Pengerusi.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1) dengan menggantikan perkataan \"Timbalan Pengerusi hendaklah\" di mana-mana jua terdapat dalamnya dengan perkataan \"Menteri hendaklah melantik mana- mana orang untuk\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_8__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_8__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_8__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_8__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_8__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan \"Timbalan Pengerusi hendaklah\" dengan perkataan \"Menteri hendaklah melantik mana-mana orang untuk\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_8__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_8__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong proviso."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 59E(2) Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan perkataan \"(2)(d) dan (2)(e)\" dengan perkataan \"(2)(a), (2)(d), (2)(e) dan (2)(f)\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/38/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perenggan 1— (a) dalam subperenggan (2) dengan menggantikan perkataan \"Timbalan Pengerusi\" dengan perkataan \"mana-mana orang yang dilantik oleh Menteri untuk bertindak sebagai Pengerusi\"; dan (b) dalam subperenggan (3) dengan menggantikan perkataan \"Timbalan Pengerusi\" dengan perkataan \"mana-mana orang yang dilantik oleh Menteri untuk bertindak sebagai Pengerusi\"."
+      }
+    }
+  ]
+}

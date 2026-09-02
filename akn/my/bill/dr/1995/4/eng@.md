@@ -60,17 +60,33 @@ substituting for the word "section" the words "sections 13B,".
 
 (c) in the marginal note, by substituting for the word "Authority" the words "Badges and authority".
 
-New
+<!-- marginal: New -->
 
-6. The principal Act is amended by inserting after section section 9A. 9 the following section:
+6. The principal Act is amended by inserting after section
+
+<!-- marginal: section 9A. -->
+
+9 the following section:
 
 "Unlawful 9A. Any person, not being an officer of customs, use, who unlawfully wears, uses, possesses or possession, etc. of displays otherwise than in the course of a stage uniform, play or other theatrical performance, any etc. prescribed uniform or badge or authority card, or any dress having the appearance of or bearing the distinctive marks of such uniform shall be guilty of an offence under this Act.".
 
-Deletion of
+<!-- marginal: Deletion of -->
 
-7. Section 11 of the principal Act is amended by deleting subsection subsection (6). 11(6).
+7. Section 11 of the principal Act is amended by deleting
 
-8. The principal Act is amended by substituting for Amendment of section subsection 13(1) the following subsection:
+<!-- marginal: subsection -->
+
+subsection (6).
+
+<!-- marginal: 11(6). -->
+
+8. The principal Act is amended by substituting for
+
+<!-- marginal: Amendment -->
+
+<!-- marginal: of section -->
+
+subsection 13(1) the following subsection:
 
 13. 13. (1) The proper officer of customs may, in "Classifi- cation and respect of any dutiable or uncustomed goods,— valuation by proper
 
@@ -120,15 +136,21 @@ Recovery 22B. Without prejudice to any other remedy, of customs any customs duty
 
 ## BILL
 
-Amendment
+<!-- marginal: Amendment -->
 
-11. Section 129 of the principal Act is amended by of section inserting after the words "or other person entitled thereto"
+11. Section 129 of the principal Act is amended by
+
+<!-- marginal: of section -->
+
+inserting after the words "or other person entitled thereto"
 
 129. the words "on payment of such amount and".
 
-Amendment
+<!-- marginal: Amendment -->
 
-12. Section 131 of the principal Act is amended— of section
+12. Section 131 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 131.
 
@@ -138,9 +160,11 @@ Amendment
 
 " (2A) The Director General may compound an offence under paragraph (a), (b), (c), (d) or (e) of subsection (1) of section 135 by accepting from the person reasonably suspected of having committed such offence a sum of money which shall be a sum not less than two times and not more than ten times the customs duty.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-13. Section 138 of the principal Act is amended— of section
+13. Section 138 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 138.
 

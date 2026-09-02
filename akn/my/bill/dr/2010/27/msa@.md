@@ -92,19 +92,11 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (xv) dengan memotong takrif “pemproses kayu”;
 
-(xvi) dengan memasukkan selepas
-
-<!-- marginal: takrif -->
-
-“pemeringkat” takrif yang berikut:
+(xvi) dengan memasukkan selepas takrif “pemeringkat” takrif yang berikut:
 
 ‘ “pemproses” ertinya seseorang yang menjalankan perniagaan mengering tanur atau mengawet kayu;’;
 
-(xvii) dengan memasukkan selepas
-
-<!-- marginal: takrif -->
-
-“pengeksport” takrif yang berikut:
+(xvii) dengan memasukkan selepas takrif “pengeksport” takrif yang berikut:
 
 ‘ “pengendali” ertinya seseorang yang memegang suatu perakuan kelayakan yang sah yang dikeluarkan oleh Lembaga untuk mengendalikan loji mengawet kayu, loji mengering tanur kayu atau kedua-duanya;’;
 
@@ -118,11 +110,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (Pemerbadanan) (Pindaan)
 
-(xx) dengan memasukkan selepas
-
-<!-- marginal: takrif -->
-
-“pengusahahasilan” takrif yang berikut:
+(xx) dengan memasukkan selepas takrif “pengusahahasilan” takrif yang berikut:
 
 ‘ “pengimport” ertinya seseorang yang mengimport kayu;’;
 
@@ -376,7 +364,7 @@ melainkan jika dia telah didaftarkan mengikut Akta ini.
 
 <!-- page 14 -->
 
-### Pindaan seksyen 19
+<!-- marginal: Pindaan seksyen 19 -->
 
 13. Seksyen 19 Akta ibu dipinda—
 
@@ -394,7 +382,9 @@ melainkan jika dia telah didaftarkan mengikut Akta ini.
 
 (iv) dalam perenggan (e), dengan memotong perkataan “di bawah seksyen 21”; dan
 
-(b) dengan menggantikan subseksyen (3) dengan subseksyen yang berikut:
+(b) dengan menggantikan subseksyen (3) dengan subseksyen
+
+<!-- marginal: yang berikut: -->
 
 “(3) Kumpulan Wang hendaklah dibelanjakan bagi maksud yang berikut:
 
@@ -478,7 +468,7 @@ melainkan jika dia telah didaftarkan mengikut Akta ini.
 
 <!-- page 18 -->
 
-“bahagian IVa
+## “BAHAGIAN IVA
 
 ## KUASA YANG BERHUBUNGAN DENGAN
 
@@ -802,7 +792,7 @@ orang yang menanam, mengeluarkan, menjual atau yang memiliki kayu itu atau ejen 
 
 ### 27h dan 27I
 
-18. Akta ibu dipinda dengan memotong seksyen 27, 27a, 27b, 27c, 27d, 27e, 27f, 27g, 27h dan 27i.
+18. Akta ibu dipinda dengan memotong seksyen 27, 27a, 27b, 27C, 27D, 27E, 27F, 27G, 27H DAN 27I.
 
 ### Pindaan seksyen 27j
 
@@ -1012,15 +1002,13 @@ buku, rekod, dokumen atau benda lain yang disita berkaitan dengan kesalahan itu 
 
 (Pemerbadanan) (Pindaan)
 
-“jadual Pertama [seksyen 2]
+## “JADUAL PERTAMA
+
+[seksyen 2]
 
 ## TAKRIF KAYU
 
-Keluaran Kayu Pengharmonian Sistem
-
-<!-- marginal: Pemerihalan dan -->
-
-Pengekodan Komoditi
+Keluaran Kayu Pengharmonian Sistem Pemerihalan dan Pengekodan Komoditi
 
 Tumbuhan dan bahagian tumbuhan daripada 1211.90 200, 1211.90 300, jenis yang digunakan terutamanya dalam 1211.90 900 proses membuat minyak wangi atau farmasi berasaskan kayu Gaharu (Aquilaria spp.) atau kayu Cendana
 
@@ -1104,13 +1092,15 @@ Bangunan pasang siap, diperbuat daripada 9406.00 200 kayu ”.
 
 <!-- page 46 -->
 
-“jadual k etiga
+## “JADUAL K ETIGA
 
 [seksyen 2 dan subseksyen 5(1)]
 
 ## PERSATUAN-PERSATUAN YANG DIIKTIRAF
 
-Nama Bilangan Wakil
+Nama
+
+<!-- marginal: Bilangan Wakil -->
 
 Persatuan Pekilang Panel Malaysia (MPMA)
 
@@ -1142,7 +1132,7 @@ Majlis Perindustrian Perabot Malaysia (MFIC)
 
 35. Akta ibu dipinda dengan memasukkan selepas Jadual Ketiga Jadual yang berikut:
 
-“jadual k eemPat
+## “JADUAL K EEMPAT
 
 [subseksyen 12(4a)]
 

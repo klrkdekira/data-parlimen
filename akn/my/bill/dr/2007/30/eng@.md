@@ -66,7 +66,11 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (ii) by substituting for the full stop in subparagraph (vii) the words "; or"; and
 
-(c) by inserting after paragraph (b) the following paragraph:
+(c) by inserting after paragraph (b) the
+
+<!-- marginal: following -->
+
+paragraph:
 
 "(c) upon the amalgamation of the trade union under subsection 34(4) or the dissolution of the trade union under section 42.".
 
@@ -242,4 +246,4 @@ Subclause 9(b) seeks to remove the requirement of at least one year of employmen
 
 This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained.
 
-[PN(U2)2526]
+<!-- marginal: [PN(U2)2526] -->

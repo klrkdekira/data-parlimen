@@ -1,0 +1,2454 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-38-2015",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VII"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Majlis Keselamatan Negara 2015"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERMULAAN Tajuk ringkas dan permulaan kuat kuasa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_14"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "MAJLIS KESELAMATAN NEGARA Penubuhan Majlis Keselamatan Negara"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_17"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "KEWAJIPAN KETUA PENGARAH KESELAMATAN NEGARA DAN ENTITI KERAJAAN Pelantikan Ketua Pengarah Keselamatan Negara dan pegawai"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_15__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_15__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_15__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perdana Menteri hendaklah, atas syor Ketua Setiausaha Negara, melantik seseorang dalam kalangan pegawai awam untuk menjadi Ketua Pengarah Keselamatan Negara."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Maka hendaklah dilantik Timbalan-timbalan Ketua Pengarah Keselamatan Negara dan apa-apa bilangan pegawai dan pekhidmat lain dalam kalangan pegawai awam yang difikirkan perlu atau suai manfaat bagi maksud menjalankan dan menguatkuasakan peruntukan Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_15__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah hendaklah bertanggungjawab kepada Majlis dalam melaksanakan kewajipannya di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_15__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Timbalan-timbalan Ketua Pengarah dan mana-mana pegawai dan pekhidmat lain yang disebut dalam subseksyen (2) hendaklah tertakluk kepada arahan dan penyeliaan am Ketua Pengarah. Kewajipan dan kuasa Ketua Pengarah"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_16__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_16__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_16__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_16__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah hendaklah mempunyai apa-apa kewajipan dan kuasa sebagaimana yang dikenakan ke atasnya atau diberikan kepadanya oleh Majlis."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_16__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_16__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_16__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_16__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_16__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_16__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_16__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_16__subsec_2__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tanpa menjejaskan keluasan subseksyen (1), Ketua Pengarah hendaklah mempunyai kewajipan yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_16__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_16__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk melaksanakan dasar dan langkah strategik mengenai keselamatan negara yang dirumuskan oleh Majlis;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_16__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_16__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menyelaras dan memantau pelaksanaan dasar dan langkah strategik mengenai keselamatan negara oleh Entiti Kerajaan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_16__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_16__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menasihati dan membuat syor kepada Majlis mengenai langkah strategik yang berkenaan dengan keselamatan negara;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_16__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_16__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengumpul, menilai, menghubungkaitkan dan menyelaras maklumat dan risikan daripada semua Entiti Kerajaan, dan untuk menyebarkan maklumat dan risikan itu kepada Entiti Kerajaan sebagaimana yang perlu demi kepentingan keselamatan negara;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_16__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_16__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menyelia dan memantau pelaksanaan perisytiharan kawasan keselamatan dan apa-apa perintah eksekutif yang dikeluarkan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_16__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_16__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengeluarkan arahan kepada Entiti Kerajaan mengenai langkah-langkah keselamatan negara; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_16__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_16__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk melaksanakan apa-apa kewajipan lain sebagaimana yang diarahkan oleh Majlis."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_16__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun subseksyen (2), fungsi penyeliaan dan pemantauan yang diberikan kepada Ketua Pengarah tidak meliputi kawalan operasi Pasukan Keselamatan. Kewajipan Entiti Kerajaan berhubung dengan maklumat atau risikan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_17__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_17__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_17__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Demi kepentingan keselamatan negara, Entiti Kerajaan hendaklah dengan serta-merta melaporkan kepada Majlis melalui Ketua Pengarah apa-apa maklumat atau risikan yang menjejaskan atau berkemungkinan menjejaskan keselamatan negara berserta penilaian kebolehpercayaan maklumat atau risikan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila diarahkan oleh Majlis, mana-mana Entiti Kerajaan atau mana-mana orang hendaklah dengan serta-merta menjadikan tersedia apa-apa maklumat atau risikan dalam milikannya yang berhubungan dengan keselamatan negara kepada Majlis melalui Ketua Pengarah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_17__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud seksyen ini, Majlis boleh mengeluarkan arahan untuk memudahkan perkongsian maklumat dan risikan antara Entiti Kerajaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Majlis boleh mengundang mana-mana orang yang bukan anggota Majlis untuk menghadiri mesyuaratnya bagi menasihati Majlis mengenai apa-apa perkara yang sedang dibincangkan. Tatacara"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada Akta ini, Majlis boleh menentukan tatacaranya sendiri. Majlis boleh menubuhkan jawatankuasa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_12__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_12__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_12__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_12__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_12__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_12__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Majlis boleh menubuhkan apa-apa jawatankuasa yang difikirkannya perlu atau suai manfaat untuk membantunya dalam melaksanakan fungsinya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Majlis boleh melantik mana-mana orang untuk menjadi anggota mana-mana jawatankuasa yang ditubuhkan di bawah subseksyen (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_12__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Majlis boleh melantik mana-mana anggotanya atau mana-mana orang lain untuk menjadi pengerusi jawatankuasa yang ditubuhkan di bawah seksyen ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_12__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa hendaklah tertakluk kepada dan bertindak mengikut apa-apa arahan yang diberikan oleh Majlis."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_12__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa hendaklah bermesyuarat seberapa kerap yang perlu pada masa dan di tempat yang ditentukan oleh pengerusi jawatankuasa itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_12__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa boleh mengawal selia tatacaranya sendiri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_12__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa boleh mengundang mana-mana orang lain untuk menghadiri mana-mana mesyuarat jawatankuasa bagi maksud menasihati jawatankuasa itu mengenai apa-apa perkara yang sedang dibincangkan. Setiausaha Majlis"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_13__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_13__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah hendaklah menjadi Setiausaha Majlis."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_13__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_13__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Setiausaha hendaklah bertanggungjawab—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_13__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bagi keseluruhan pentadbiran dan pengurusan fungsi dan hal ehwal harian Majlis; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_13__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bagi penjalanan apa-apa kewajipan lain sebagaimana yang diarahkan oleh Majlis."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_13__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Setiausaha hendaklah, dalam menjalankan tanggungjawabnya, bertindak di bawah arahan Majlis. Dana"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kerajaan hendaklah mengadakan dana yang mencukupi bagi Majlis setiap tahun untuk membolehkan Majlis melaksanakan fungsinya di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_3__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu majlis dengan nama “Majlis Keselamatan Negara” ditubuhkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Majlis hendaklah menjadi pihak berkuasa pusat bagi Kerajaan untuk mempertimbangkan perkara berkenaan dengan keselamatan negara. Fungsi Majlis"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_4__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_4__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Majlis hendaklah mempunyai fungsi yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk merumuskan dasar dan langkah strategik mengenai keselamatan negara, termasuklah kedaulatan, integriti wilayah, pertahanan, kestabilan sosio-politik, kestabilan ekonomi, sumber strategik, perpaduan negara dan kepentingan lain yang berhubung dengan keselamatan negara;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk memantau pelaksanaan dasar dan langkah strategik mengenai keselamatan negara;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk memberi nasihat mengenai perisytiharan kawasan keselamatan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_4__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk melaksanakan apa-apa fungsi lain yang berhubung dengan keselamatan negara bagi pelaksanaan yang wajar Akta ini. Kuasa Majlis"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun mana-mana undang-undang bertulis yang lain, Majlis hendaklah mempunyai kuasa untuk melakukan segala benda yang perlu atau suai manfaat bagi atau yang berkaitan dengan pelaksanaan fungsinya termasuklah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengawal dan menyelaras Entiti Kerajaan dalam operasi yang berkenaan dengan keselamatan negara; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengeluarkan arahan kepada mana-mana Entiti Kerajaan dalam perkara yang berkenaan dengan keselamatan negara. Keanggotaan Majlis"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_6__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_6__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_6__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_6__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_6__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_6__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Majlis hendaklah terdiri daripada anggota yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perdana Menteri sebagai Pengerusi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Timbalan Perdana Menteri sebagai Timbalan Pengerusi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri yang dipertanggungkan dengan tanggungjawab bagi pertahanan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_6__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri yang dipertanggungkan dengan tanggungjawab bagi hal ehwal dalam negeri;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_6__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri yang dipertanggungkan dengan tanggungjawab bagi komunikasi dan multimedia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_6__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Setiausaha Negara;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_6__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Panglima Angkatan Tentera; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_6__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Polis Negara. Mesyuarat"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_7__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Majlis hendaklah mengadakan mesyuaratnya seberapa kerap yang perlu tetapi tidak kurang daripada sekali dalam setiap tiga bulan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mesyuarat hendaklah diadakan pada masa dan di tempat yang ditentukan oleh Pengerusi. Tatacara mesyuarat"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_8__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_8__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengerusi hendaklah mempengerusikan semua mesyuarat Majlis."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika Pengerusi tidak hadir pada mana-mana mesyuarat Majlis, dia boleh melantik Timbalan Pengerusi atau, dalam ketidakhadiran Timbalan Pengerusi, seorang anggota Majlis, untuk menggantikannya sebagai pengerusi mesyuarat itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_8__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kuorum Majlis ialah lima. Penjalanan sementara fungsi Pengerusi"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_9__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_9__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_9__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_9__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Timbalan Pengerusi hendaklah bertindak sebagai Pengerusi selama tempoh—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_9__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jawatan Pengerusi kosong;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_9__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengerusi tidak hadir bertugas atau tidak ada di Malaysia; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_9__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengerusi, kerana apa-apa sebab lain, tidak dapat menjalankan fungsinya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Timbalan Pengerusi hendaklah, dalam tempoh dia menjalankan fungsi Pengerusi di bawah seksyen ini, disifatkan sebagai Pengerusi. Majlis boleh mengundang orang lain untuk menghadiri mesyuarat"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_21"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERISYTIHARAN KAWASAN KESELAMATAN Perisytiharan kawasan keselamatan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_18__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_18__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_18__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_18__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_18__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_18__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika Majlis menasihati Perdana Menteri bahawa keselamatan di dalam mana-mana kawasan di Malaysia diganggu atau diancam dengan serius oleh mana-mana orang, perkara atau benda yang menyebabkan atau berkemungkinan untuk menyebabkan bahaya yang serius kepada orang ramai, atau bahaya yang serius kepada wilayah, ekonomi, infastruktur utama negara Malaysia atau apa-apa kepentingan Malaysia yang lain, dan menghendaki tindak balas negara dengan serta-merta, Perdana Menteri boleh, jika difikirkannya perlu demi kepentingan keselamatan negara, mengisytiharkan secara bertulis kawasan itu sebagai kawasan keselamatan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_18__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_18__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu perisytiharan yang dibuat di bawah subseksyen (1) hendaklah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_18__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "terpakai hanya bagi apa-apa kawasan keselamatan yang dinyatakan dalam perisytiharan itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_18__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "terhenti berkuat kuasa apabila habis tempoh yang dinyatakan dalam subseksyen (3) atau apabila habis tempoh pembaharuan yang dinyatakan dalam subseksyen (4), atau mengikut subseksyen (6)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_18__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu perisytiharan yang dibuat di bawah subseksyen (1) hendaklah, tetapi tanpa menjejaskan apa-apa jua yang dibuat sebelum itu menurut kuasa perisytiharan itu, terhenti berkuat kuasa apabila habis tempoh enam bulan dari tarikh perisytiharan itu mula berkuat kuasa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_18__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun subseksyen (3), suatu perisytiharan yang berkuat kuasa boleh diperbaharui oleh Perdana Menteri dari semasa ke semasa bagi apa-apa tempoh, yang tidak melebihi enam bulan pada sesuatu masa, sebagaimana yang dinyatakan dalam perisytiharan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_18__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu perisytiharan yang dibuat di bawah subseksyen (1) dan pembaharuan perisytiharan yang dibuat di bawah subseksyen (4) hendaklah disiarkan mengikut apa-apa cara yang difikirkan perlu oleh Perdana Menteri bagi memberitahu orang awam mengenai perisytiharan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_18__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu perisytiharan yang dibuat di bawah subseksyen (1) dan pembaharuan perisytiharan yang dibuat di bawah subseksyen (4) hendaklah disiarkan dalam Warta dan dibentangkan di Parlimen dengan seberapa segera yang mungkin setelah ia dibuat, dan jika resolusi diluluskan oleh kedua-dua Majlis Parlimen yang membatalkan perisytiharan itu, ia hendaklah terhenti berkuat kuasa, walau apa pun subseksyen (3) dan (4), tetapi tanpa menjejaskan apa-apa jua yang telah dilakukan sebelum itu menurut kuasa perisytiharan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_18__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun apa-apa jua dalam subseksyen (2), (3), (4) atau (6), Perdana Menteri boleh, pada bila-bila masa, membatalkan perisytiharan itu. Perintah eksekutif Majlis"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_19__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_19__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_19__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila suatu perisytiharan dibuat di bawah seksyen 18, Majlis boleh mengeluarkan suatu perintah eksekutif kepada Pengarah Operasi atau mana-mana Entiti Kerajaan sebagaimana yang difikirkan perlu oleh Majlis berhubung dengan kawasan keselamatan itu demi kepentingan keselamatan negara."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perintah eksekutif yang dikeluarkan oleh Majlis boleh termasuk pengerahan tugas mana-mana Pasukan Keselamatan atau mana-mana Entiti Kerajaan lain yang berkaitan ke kawasan keselamatan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_19__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Majlis boleh meminda, menggantikan atau membatalkan perintah eksekutif yang dikeluarkan di bawah subseksyen (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_19__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perintah eksekutif hendaklah terus berkuat kuasa sehingga ia dibatalkan oleh Majlis tetapi walaupun begitu ia hendaklah terhenti berkuat kuasa jika perisytiharan yang dibuat di bawah seksyen 18 terhenti berkuat kuasa atau dibatalkan. Pengarah Operasi"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_20__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_20__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_20__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Majlis hendaklah melantik seorang Pengarah Operasi untuk menjadi orang yang bertanggungjawab bagi operasi di dalam suatu kawasan keselamatan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_20__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengarah Operasi hendaklah bertanggungjawab kepada Majlis. Kewajipan dan kuasa Pengarah Operasi"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_21__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_21__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_21__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_21__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_21__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_21__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_21__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_21__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_21__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_21__subsec_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengarah Operasi hendaklah mempunyai kewajipan yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_21__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menyediakan pelan strategik bagi pengerahan tugas Pasukan Keselamatan ke kawasan keselamatan dan untuk memberikan arahan strategik kepada Pasukan Keselamatan itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_21__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mewujudkan perintah bersepadu bagi Pasukan Keselamatan di dalam kawasan keselamatan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_21__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menyelia, mengawal dan menyelaras pengerahan tugas Pasukan Keselamatan ke kawasan keselamatan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_21__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk melaksanakan apa-apa fungsi lain sebagaimana yang diarahkan oleh Majlis."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_21__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengarah Operasi hendaklah mempunyai kuasa untuk membuat segala benda yang perlu atau suai manfaat bagi atau yang berkaitan dengan pelaksanaan kewajipannya di dalam kawasan keselamatan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_21__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_21__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_21__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Demi kepentingan keselamatan negara, Pengarah Operasi boleh berhubungan dengan kawasan keselamatan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_21__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_21__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menubuhkan suatu jawatankuasa yang difikirkannya perlu atau suai manfaat untuk membantunya dalam menjalankan kewajipannya; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_21__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_21__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mengeluarkan arahan kepada mana-mana Entiti Kerajaan yang dikerah tugas ke kawasan keselamatan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_21__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa yang ditubuhkan di bawah perenggan (3)(a) hendaklah bertanggungjawab kepada Pengarah Operasi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_21__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Entiti Kerajaan yang kepadanya arahan yang disebut dalam perenggan (3)(b) telah dikeluarkan hendaklah mematuhi arahan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Majlis Keselamatan Negara 2015."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Perdana Menteri melalui pemberitahuan dalam Warta. Tafsiran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I__cl_2__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I__cl_2__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "“angkatan tentera” mempunyai erti yang diberikan kepadanya dalam Akta Angkatan Tentera 1972 [Akta 77]; “benda berbahaya” termasuklah senjata api, amunisi, bahan letupan, senjata atau apa-apa benda lain yang semunasabahnya mungkin digunakan untuk menyebabkan kerosakan serius kepada harta, atau kematian atau kecederaan serius kepada seseorang; “Entiti Kerajaan” termasuklah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I__cl_2__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I__cl_2__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I__cl_2__list_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I__cl_2__list_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I__cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I__cl_2__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I__cl_2__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana kementerian, jabatan, pejabat, agensi, pihak berkuasa, suruhanjaya, jawatankuasa, lembaga atau majlis bagi Kerajaan Persekutuan, atau bagi mana-mana Kerajaan Negeri, yang ditubuhkan di bawah mana-mana undang-undang bertulis atau selainnya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I__cl_2__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I__cl_2__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana pihak berkuasa tempatan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I__cl_2__list_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I__cl_2__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pasukan Keselamatan; “kawasan keselamatan” ertinya mana-mana kawasan yang diisytiharkan oleh Perdana Menteri di bawah seksyen 18; “Ketua Pengarah” ertinya Ketua Pengarah Keselamatan Negara yang dilantik di bawah seksyen 15; “Majlis” ertinya Majlis Keselamatan Negara yang ditubuhkan di bawah seksyen 3; “Pasukan Keselamatan” ertinya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I__cl_2__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I__cl_2__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I__cl_2__list_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I__cl_2__list_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I__cl_2__list_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I__cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I__cl_2__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I__cl_2__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Polis Diraja Malaysia, Sukarelawan Simpanan Polis Diraja Malaysia dan Polis Bantuan yang disebut dalam Akta Polis 1967 [Akta 344];"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I__cl_2__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I__cl_2__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "angkatan tentera;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I__cl_2__list_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I__cl_2__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana angkatan yang merupakan angkatan pelawat bagi maksud Bahagian I Akta Angkatan Pelawat 1960 [Akta 432]; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I__cl_2__list_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_I__cl_2__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Agensi Penguatkuasaan Maritim Malaysia yang ditubuhkan di bawah Akta Agensi Penguatkuasaan Maritim Malaysia 2004 [Akta 633]; “Pengarah Operasi” ertinya mana-mana orang yang dilantik oleh Majlis di bawah seksyen 20; “Pengerusi” ertinya Pengerusi Majlis yang disebut dalam seksyen 6; “perisytiharan” ertinya perisytiharan kawasan keselamatan yang dibuat di bawah seksyen 18."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_36"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "KUASA KHAS PENGARAH OPERASI DAN PASUKAN KESELAMATAN YANG DIKERAH TUGAS KE KAWASAN KESELAMATAN Penahanan masuk dan pemindahan orang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_42"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "AM Obligasi kerahsiaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VII",
+      "@type": "akn:part",
+      "eli:number": "VII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VII__cl_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VII__cl_44"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "KECUALIAN Majlis Keselamatan Negara yang sedia ada"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VII__cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VII__cl_43__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VII__cl_43__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VII__cl_43__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VII__cl_43",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa perbuatan yang dilakukan atau tindakan yang diambil sebelum permulaan kuat kuasa Akta ini oleh Majlis Keselamatan Negara yang sedia ada yang ditubuhkan oleh Kerajaan Persekutuan hendaklah disifatkan telah dilakukan atau diambil di bawah Akta ini dan boleh diteruskan dengan sewajarnya oleh Majlis."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VII__cl_43__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VII__cl_43",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa arahan, perintah atau keputusan yang dibuat oleh Majlis Keselamatan Negara yang sedia ada dan berkuat kuasa sebaik sebelum permulaan kuat kuasa Akta ini hendaklah, apabila Akta ini mula berkuat kuasa, setakat yang ia selaras dengan Akta ini terus berkuat kuasa sehingga ia dibatalkan oleh Majlis. Jawatankuasa yang sedia ada"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VII__cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua jawatankuasa yang ditubuhkan di bawah Majlis Keselamatan Negara yang sedia ada dan berkuat kuasa sebaik sebelum permulaan kuat kuasa Akta ini hendaklah, apabila Akta ini mula berkuat kuasa, terus berkuat kuasa sehingga dibubarkan oleh Majlis."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_37__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_37__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_37__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_37__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_37__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_37",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kecuali bagi apa-apa maksud Akta ini atau bagi maksud mana-mana prosiding sivil atau jenayah di bawah mana-mana undang-undang bertulis atau jika selainnya dibenarkan oleh Majlis—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_37__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_37__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tiada seorang pun anggota Majlis atau jawatankuasa atau mana-mana orang yang menghadiri mana-mana mesyuarat Majlis atau jawatankuasa, sama ada semasa atau selepas tempoh jawatan atau penggajiannya, boleh menzahirkan apa-apa maklumat yang diperoleh olehnya semasa menjalankan kewajipannya; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_37__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_37__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tiada seorang lain pun yang dengan apa-apa cara mempunyai akses kepada apa-apa maklumat atau dokumen yang berhubungan dengan hal ehwal Majlis boleh menzahirkan maklumat atau dokumen itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_37__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_37",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, dipenjarakan selama tempoh tidak melebihi dua tahun atau didenda tidak melebihi satu ratus ribu ringgit atau kedua-duanya. Perlindungan terhadap guaman dan prosiding undang-undang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada tindakan, guaman, pendakwaan atau apa-apa prosiding lain boleh diambil atau dibawa, dimulakan atau dikekalkan dalam mana-mana mahkamah terhadap Majlis, mana-mana jawatankuasa, mana-mana anggota Majlis atau jawatankuasa, Pengarah Operasi, atau mana-mana anggota Pasukan Keselamatan atau kakitangan Entiti Kerajaan yang lain berkenaan dengan apa-apa perbuatan, kecuaian atau keingkaran yang dilakukan atau ditinggalkan olehnya dengan suci hati, atas sifat yang sedemikian. Pekhidmat awam"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiap-tiap anggota Majlis atau jawatankuasa, Pengarah Operasi, atau tiap-tiap anggota Pasukan Keselamatan atau kakitangan Entiti Kerajaan yang lain semasa menunaikan kewajipannya atau melaksanakan fungsinya di bawah Akta ini atas sifat yang sedemikian hendaklah disifatkan sebagai pekhidmat awam mengikut pengertian Kanun Keseksaan [Akta 574]. Akta Perlindungan Pihak Berkuasa Awam 1948"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Perlindungan Pihak Berkuasa Awam 1948 [Akta 198] hendaklah terpakai bagi apa-apa tindakan, guaman, pendakwaan atau prosiding terhadap Majlis, mana-mana jawatankuasa, mana-mana anggota Majlis atau jawatankuasa, Pengarah Operasi, atau mana-mana anggota Pasukan Keselamatan atau kakitangan Entiti Kerajaan yang lain berkenaan dengan apa-apa perbuatan atau benda yang dibuat atau dilakukan olehnya atas sifat sedemikian. Pendakwaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada pendakwaan bagi sesuatu kesalahan di bawah Akta ini boleh dimulakan kecuali oleh, atau dengan keizinan bertulis, Pendakwa Raya. Peraturan-peraturan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_42__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_42__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_42__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_42__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_42",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perdana Menteri boleh membuat peraturan-peraturan bagi maksud menjalankan atau menguatkuasakan peruntukan Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_42__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_42__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_42__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_42__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_42__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_42",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tanpa menjejaskan keluasan subseksyen (1), Perdana Menteri boleh membuat peraturan-peraturan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_42__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_42__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengawal pergerakan orang, kenderaan, vesel, pesawat udara dan pengangkut di dalam mana-mana kawasan keselamatan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_42__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_42__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menetapkan apa-apa tindakan dan aktiviti yang dilarang semasa tempoh perisytiharan yang dibuat di bawah seksyen 18;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_42__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_42__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menetapkan tatacara bagi pengambilmilikan tanah, bangunan dan harta alih yang lain, dan tatacara bagi permintaan untuk menggunakan sumber di dalam mana-mana kawasan keselamatan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_42__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_42__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menetapkan tatacara bagi pemusnahan bangunan dan struktur yang lain di dalam mana-mana kawasan keselamatan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_42__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_VI__cl_42",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Peraturan-peraturan yang dibuat di bawah Akta ini boleh mengadakan peruntukan bagi apa-apa tindakan atau peninggalan yang melanggar peraturan-peraturan itu menjadi suatu kesalahan dan boleh mengadakan peruntukan bagi penalti denda tidak melebihi satu ratus ribu ringgit atau pemenjaraan selama tempoh tidak melebihi lima tahun atau kedua-duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_22__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_22__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_22__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_22__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengarah Operasi boleh, melalui perintah bertulis, menahan masuk mana-mana orang ke kawasan keselamatan atau mana-mana bahagian kawasan keselamatan bagi suatu tempoh sebagaimana yang dinyatakan dalam perintah itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_22__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengarah Operasi boleh, melalui perintah bertulis, memindahkan mana-mana orang atau kumpulan orang dari kawasan keselamatan atau mana-mana bahagian kawasan keselamatan, dan menempatkan semula orang itu atau kumpulan orang itu ke suatu kawasan sebagaimana yang ditentukan oleh Pengarah Operasi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_22__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang tidak mematuhi perintah di bawah subseksyen (1) atau (2) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya. Perintah berkurung"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_23__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_23__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_23__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_23__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengarah Operasi boleh, secara bertulis, memerintahkan semua orang di dalam kawasan keselamatan atau mana-mana bahagian kawasan keselamatan untuk berada di dalam tempat kediaman atau bangunan antara apa-apa waktu yang ditentukan dalam perintah itu melainkan jika dia memiliki suatu permit bertulis bagi maksud itu yang dikeluarkan oleh Pengarah Operasi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_23__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_23__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_23__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_23__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada perintah di bawah seksyen ini terpakai bagi—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_23__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Yang di-Pertuan Agong, Raja atau Yang di-Pertua Negeri;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_23__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana anggota Pasukan Keselamatan atau kakitangan Entiti Kerajaan yang lain apabila bertindak dalam menjalankan tugasnya di dalam kawasan keselamatan; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_23__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana orang atau golongan orang yang dikecualikan daripada perintah itu oleh Pengarah Operasi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_23__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang tidak mematuhi perintah di bawah subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya. Kuasa untuk mengawal pergerakan, jalan, dsb."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_24__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_24__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_24__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_24__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_24__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_24__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_24__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengarah Operasi boleh mengarahkan mana-mana anggota Pasukan Keselamatan di dalam kawasan keselamatan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_24__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_24__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengawal pergerakan mana-mana orang atau mana-mana kenderaan, vesel, pesawat udara atau pengangkut keluar masuk kawasan keselamatan, termasuklah untuk memberikan arahan untuk meninggalkan kawasan keselamatan dan untuk tidak membenarkan kemasukan ke kawasan keselamatan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_24__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_24__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengawal atau melarang penggunaan mana-mana jalan atau laluan air di dalam, atau ruang udara di atas, mana-mana kawasan keselamatan oleh mana-mana orang atau mana-mana kenderaan, vesel, pesawat udara atau pengangkut; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_24__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_24__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menutup mana-mana jalan atau laluan air di dalam kawasan keselamatan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_24__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika anggota Pasukan Keselamatan di dalam kawasan keselamatan atas alasan yang munasabah mempercayai bahawa terdapat benda berbahaya di dalam atau di atas mana-mana kenderaan, vesel, pesawat udara atau pengangkut di dalam kawasan keselamatan itu, anggota Pasukan Keselamatan itu boleh melakukan apa-apa jua yang perlu untuk memberhentikan kenderaan, vesel, pesawat udara atau pengangkut itu termasuklah mendirikan rintangan atau struktur lain."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_24__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika anggota Pasukan Keselamatan itu memberhentikan kenderaan, vesel, pesawat udara atau pengangkut, anggota Pasukan Keselamatan itu tidak boleh menahannya lebih lama daripada yang munasabah dan perlu untuk memeriksanya dan apa-apa jua yang dijumpai di dalam atau di atasnya. Kuasa menangkap"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana anggota Pasukan Keselamatan boleh, tanpa waran, menangkap mana-mana orang yang didapati melakukan, didakwa telah melakukan atau semunasabahnya disyaki telah melakukan apa-apa kesalahan di bawah mana-mana undang-undang bertulis di dalam kawasan keselamatan. Kuasa untuk memeriksa dan menyita"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_26__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_26__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_26__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana anggota Pasukan Keselamatan boleh, tanpa waran dan dengan atau tanpa bantuan, memberhentikan dan memeriksa mana-mana individu, kenderaan, vesel, pesawat udara atau pengangkut di dalam kawasan keselamatan jika dia mengesyaki bahawa apa-apa artikel atau benda yang menjadi keterangan mengenai pelakuan suatu kesalahan terhadap mana- mana undang-undang bertulis mungkin dijumpai pada individu itu atau di dalam kenderaan, vesel, pesawat udara atau pengangkut itu, dan boleh menyita apa-apa artikel atau benda yang dijumpai sedemikian."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_26__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana anggota Pasukan Keselamatan boleh, tanpa waran, memasuki dan menggeledah mana-mana premis atau tempat jika dia mengesyaki bahawa apa-apa artikel atau benda yang menjadi keterangan mengenai pelakuan suatu kesalahan terhadap mana-mana undang-undang bertulis mungkin dijumpai di premis atau tempat itu, dan boleh menyita apa-apa artikel atau benda yang dijumpai sedemikian. Kuasa untuk menggeledah premis bagi benda berbahaya"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_27__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_27__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_27__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_27__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_27__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_27__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_27__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_27__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika mana-mana anggota Pasukan Keselamatan atas alasan yang munasabah mempercayai bahawa—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_27__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "terdapat benda berbahaya di dalam mana-mana premis di dalam kawasan keselamatan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_27__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_27__subsec_1__para_b__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_27__subsec_1__para_b__subpara_B",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_27__subsec_1__para_b__subpara_C"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "adalah perlu atas dasar keterdesakan untuk menjadikan benda berbahaya itu selamat atau untuk menghalang ia digunakan, anggota Pasukan Keselamatan itu boleh—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_27__subsec_1__para_b__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_27__subsec_1__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memasuki dan menggeledah premis itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_27__subsec_1__para_b__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_27__subsec_1__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menyita apa-apa jua yang dijumpai di premis itu semasa penggeledahan itu yang dipercayai oleh anggota Pasukan Keselamatan itu atas alasan yang munasabah sebagai suatu benda berbahaya; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_27__subsec_1__para_b__subpara_C",
+      "@type": "akn:subparagraph",
+      "eli:number": "C",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_27__subsec_1__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memeriksa mana-mana orang yang berada di atau dekat dengan premis di mana pemeriksaan itu dijalankan dan menyita apa-apa benda berbahaya yang dijumpai pada orang itu yang dipercayai oleh anggota yang memeriksa itu atas alasan yang munasabah mempunyai benda berbahaya dalam milikannya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_27__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_27__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_27__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika mana-mana anggota Pasukan Keselamatan menyita suatu benda berbahaya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_27__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "anggota Pasukan Keselamatan itu boleh mengambil apa-apa tindakan yang munasabah dan perlu untuk menjadikan benda berbahaya itu selamat atau untuk menghalang ia digunakan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_27__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "anggota Pasukan Keselamatan itu hendaklah menyediakan suatu senarai benda berbahaya yang disita dan menandatangani senarai itu, dan hendaklah dengan secepat yang dapat dilaksanakan menyerahkan suatu salinan senarai benda berbahaya yang disita itu kepada penghuni premis yang telah digeledah, atau kepada ejennya atau pekhidmatnya di premis itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_27__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika anggota Pasukan Keselamatan atas alasan yang munasabah mempercayai bahawa benda berbahaya itu telah digunakan atau selainnya terlibat dalam pelakuan suatu kesalahan terhadap mana-mana undang-undang bertulis, anggota Pasukan Keselamatan itu hendaklah, dengan secepat yang dapat dilaksanakan, menyerahkan benda berbahaya itu kepada pegawai yang bertanggungjawab bagi balai polis yang terdekat."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_27__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika anggota Pasukan Keselamatan atas alasan yang munasabah mempercayai bahawa benda berbahaya itu tidak digunakan atau selainnya tidak terlibat dalam pelakuan suatu kesalahan terhadap mana-mana undang-undang bertulis, anggota Pasukan Keselamatan itu hendaklah, jika boleh dilaksanakan sedemikian, memulangkan benda berbahaya itu kepada penghuni premis yang telah digeledah, atau kepada ejennya atau pekhidmatnya di premis itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_27__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika anggota Pasukan Keselamatan menyita benda berbahaya daripada seseorang dan atas alasan yang munasabah mempercayai bahawa orang itu telah menggunakan benda itu dalam melakukan suatu kesalahan terhadap mana-mana undang-undang bertulis, anggota Pasukan Keselamatan itu boleh menahan orang itu bagi maksud meletakkannya di bawah jagaan seorang pegawai polis pada seawal waktu yang boleh dilaksanakan. Kuasa untuk memeriksa orang bagi benda berbahaya"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_28__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_28__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika mana-mana anggota Pasukan Keselamatan di dalam kawasan keselamatan atas alasan yang munasabah mempercayai bahawa seseorang di dalam kawasan itu mempunyai benda berbahaya dalam milikannya, anggota Pasukan Keselamatan itu boleh—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_28__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memeriksa orang itu bagi benda berbahaya itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_28__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menyita apa-apa benda berbahaya yang dijumpai dalam pemeriksaan itu. Kuasa untuk menyita kenderaan, vesel, pesawat udara atau pengangkut"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana anggota Pasukan Keselamatan boleh menyita apa-apa kenderaan, vesel, pesawat udara atau pengangkut di dalam kawasan keselamatan jika dia mengesyaki bahawa kenderaan, vesel, pesawat udara atau pengangkut itu berkemungkinan mempunyai kaitan dengan pelakuan suatu kesalahan di bawah mana-mana undang-undang bertulis. Kuasa untuk mengambil milikan sementara tanah, bangunan atau harta alih"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30__subsec_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30__subsec_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30__subsec_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30__subsec_11"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengarah Operasi atau mana-mana orang yang diberi kuasa oleh Pengarah Operasi boleh, jika didapatinya perlu atau suai manfaat untuk berbuat demikian demi kepentingan keselamatan negara, atau untuk mengadakan tempat tinggal bagi mana-mana Pasukan Keselamatan, mengambil milikan sementara mana-mana tanah, mana-mana bangunan atau bahagian sesuatu bangunan, atau mana-mana harta alih di dalam mana-mana kawasan keselamatan dan boleh memberikan apa-apa arahan yang didapatinya perlu atau suai manfaat berkaitan dengan pengambilmilikan tanah, bangunan atau harta alih itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30__subsec_10",
+      "@type": "akn:subsection",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah hendaklah, selepas mempertimbangkan syor jawatankuasa penasihat itu, memberikan apa-apa arahan sebagaimana yang difikirkannya patut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30__subsec_11",
+      "@type": "akn:subsection",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika mana-mana tanah, bangunan atau harta alih di dalam mana-mana kawasan keselamatan diambil milikan di bawah subseksyen (1) atau Ketua Pengarah memberikan arahan di bawah subseksyen (10) kepada Pengarah Operasi atau mana-mana orang yang diberi kuasa oleh Pengarah Operasi untuk mengambil milikan sementara mana-mana tanah, bangunan atau harta alih di dalam kawasan keselamatan, pampasan hendaklah dibayar kepada orang yang terkilan itu. Permintaan bagi penggunaan sumber"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana anggota Pasukan Keselamatan boleh mengambil apa-apa langkah dan menggunakan apa-apa kekerasan yang didapatinya adalah semunasabahnya perlu bagi memastikan pematuhan arahan yang diberikan kepada mana-mana orang di bawah subseksyen (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semasa mana-mana tanah, bangunan atau harta alih berada dalam milikan sementara Pengarah Operasi atau mana-mana orang yang diberi kuasa oleh Pengarah Operasi di bawah seksyen ini, tanah, bangunan atau harta alih itu boleh, walau apa pun sekatan yang dikenakan ke atas penggunaannya (sama ada melalui mana-mana undang-undang bertulis atau surat cara lain atau selainnya), digunakan oleh, atau di bawah kuasa, Pengarah Operasi atau mana-mana orang yang diberi kuasa oleh Pengarah Operasi bagi maksud sedemikian, dan mengikut apa-apa cara, yang difikirkan suai manfaat oleh Pengarah Operasi atau mana-mana orang yang diberi kuasa oleh Pengarah Operasi demi kepentingan keselamatan negara atau untuk mengadakan tempat tinggal bagi mana-mana Pasukan Keselamatan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30__subsec_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengarah Operasi atau mana-mana orang yang diberi kuasa oleh Pengarah Operasi, setakat yang didapatinya perlu atau suai manfaat berkaitan dengan pengambilmilikan sementara atau penggunaan sementara tanah, bangunan atau harta alih itu menurut subseksyen (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "boleh melakukan, atau memberi orang yang menggunakan tanah, bangunan atau harta alih itu kuasa untuk melakukan, berhubung dengan tanah, bangunan atau harta alih itu, apa-apa jua yang mana-mana orang yang mempunyai kepentingan mengenai tanah, bangunan atau harta alih itu berhak melakukannya menurut kuasa kepentingan itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "boleh melalui perintah mengadakan peruntukan bagi melarang atau mengehadkan penggunaan hak lalu-lalang ke atas tanah atau bangunan itu, dan hak lain yang berhubungan dengannya yang dinikmati oleh mana-mana orang, sama ada menurut kepentingan mengenai tanah atau bangunan itu atau selainnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pemunya atau penghuni mana-mana tanah, bangunan atau harta alih hendaklah, jika diminta oleh atau bagi pihak Pengarah Operasi atau mana-mana orang yang diberi kuasa oleh Pengarah Operasi untuk berbuat demikian, memberikan kepada mana-mana pihak berkuasa atau orang yang dinyatakan dalam permintaan itu apa-apa maklumat yang berada dalam milikannya yang berhubungan dengan tanah, bangunan atau harta alih itu, yang merupakan maklumat yang boleh dengan semunasabahnya diminta daripadanya berkaitan dengan pelaksanaan seksyen ini, sebagaimana yang dinyatakan sedemikian."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang terkilan oleh sebab pengambilmilikan mana-mana tanah, bangunan atau harta alih di bawah seksyen ini boleh, dalam tempoh empat belas hari selepas milikan diambil, memberikan notis bantahannya terhadap pengambilmilikan itu kepada suatu jawatankuasa penasihat yang dilantik di bawah subseksyen (7)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa penasihat yang disebut dalam subseksyen (6) hendaklah terdiri daripada orang yang dilantik oleh Ketua Pengarah dan jawatankuasa itu boleh membuat kaedah-kaedah bagi penjalanan prosidingnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengerusi jawatankuasa penasihat yang kepadanya notis itu telah diberikan di bawah subseksyen (6) oleh orang yang terkilan hendaklah memberitahu Pengarah Operasi atau mana-mana orang yang diberi kuasa oleh Pengarah Operasi yang telah mengambil milikan tanah, bangunan atau harta alih itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30__subsec_9",
+      "@type": "akn:subsection",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa penasihat hendaklah mempertimbangkan bantahan yang dibuat oleh orang yang terkilan itu di bawah subseksyen (6) dan apa-apa alasan yang mungkin dikemukakan terhadap bantahan itu oleh Pengarah Operasi atau mana-mana orang yang diberi kuasa oleh Pengarah Operasi yang telah mengambil milikan tanah, bangunan atau harta alih itu dan hendaklah mengemukakan syornya kepada Ketua Pengarah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_31__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_31__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_31__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_31__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika Pengarah Operasi atau mana-mana orang yang diberi kuasa oleh Pengarah Operasi mendapati bahawa apa-apa sumber dikehendaki untuk memelihara keselamatan negara di dalam kawasan keselamatan, Pengarah Operasi atau mana-mana orang yang diberi kuasa oleh Pengarah Operasi boleh meminta supaya sumber itu digunakan bagi maksud itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_31__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pampasan hendaklah dibayar kepada orang yang sumbernya diminta di bawah seksyen ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_31__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud seksyen ini, “sumber” termasuklah utiliti dan aset. Pampasan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika mana-mana tanah, bangunan atau harta alih diambil milikan di bawah seksyen 30, atau sumber diminta untuk digunakan di bawah seksyen 31, pampasan berkenaan dengan pemilikan atau penggunaan itu hendaklah ditaksirkan oleh Ketua Pengarah. Kuasa untuk memerintahkan pemusnahan bangunan tertentu yang tidak dihuni"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_33__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_33__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_33__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_33__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_33__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_33__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_33__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika di dalam mana-mana kawasan keselamatan mana-mana bangunan atau struktur ditinggalkan tanpa berpenghuni oleh sebab kuat kuasa mana-mana perintah yang dibuat di bawah Bahagian ini, Pengarah Operasi atau mana-mana orang yang diberi kuasa oleh Pengarah Operasi boleh jika dia mendapati—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_33__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_33__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ada kemungkinan bahawa bangunan atau struktur itu akan, jika dikekalkan, digunakan oleh orang yang berniat, atau hampir, untuk bertindak atau telah baru-baru ini bertindak dengan cara yang memudaratkan keselamatan negara atau oleh mana-mana orang lain yang mungkin akan melindungi mana-mana orang demikian; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_33__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_33__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "adalah tidak praktik untuk menghalang penggunaan sedemikian dengan apa-apa cara yang lain, memusnahkan atau membenarkan pemusnahan bangunan atau struktur itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_33__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_33__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_33__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pampasan hendaklah dibayar kepada mana-mana orang yang terkilan berkenaan dengan pemusnahan mana-mana bangunan atau struktur di bawah seksyen ini jika orang yang terkilan itu memuaskan hati Ketua Pengarah bahawa—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_33__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_33__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bangunan atau struktur itu telah didirikan oleh atau dengan persetujuan orang yang berhak menurut undang-undang ke atas tanah yang di atasnya bangunan atau struktur itu didirikan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_33__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_33__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bangunan atau struktur itu tidak boleh dilucuthakkan di bawah mana-mana undang-undang bertulis."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_33__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pampasan boleh dibayar kepada orang yang terkilan berhubung dengan mana-mana bangunan atau struktur yang didirikan oleh atau dengan persetujuan orang yang berhak menurut undang-undang ke atas tanah yang di atasnya bangunan atau struktur itu didirikan, walaupun bangunan atau struktur itu boleh dilucuthakkan di bawah mana-mana undang-undang bertulis, jika orang yang terkilan itu memuaskan hati Ketua Pengarah bahawa bangunan atau struktur itu telah digunakan oleh orang yang berniat, atau hampir, untuk bertindak atau telah baru-baru ini bertindak, dengan cara yang memudaratkan keselamatan negara atau bahawa orang itu dilindungi atau telah dilindungi oleh pekhidmat atau ejennya, mengikut mana-mana yang berkenaan, tanpa pengetahuan atau persetujuannya, dan bahawa dia telah menjalankan segala usaha yang wajar untuk menghalang bangunan atau struktur itu daripada digunakan sedemikian atau pelindungan orang itu, mengikut mana-mana yang berkenaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_33__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa pampasan yang kena dibayar di bawah seksyen ini hendaklah sebagaimana yang ditaksirkan oleh Ketua Pengarah. Penggunaan kekerasan yang munasabah dan perlu"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_34__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_34__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_34__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_34",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana anggota Pasukan Keselamatan di dalam kawasan keselamatan boleh menggunakan apa-apa kekerasan terhadap orang dan benda setakat yang munasabah dan perlu dalam hal keadaan itu untuk memelihara keselamatan negara."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_34__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_34__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_34__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_34",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Penggunaan apa-apa kekerasan terhadap seseorang tidak boleh—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_34__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_34__subsec_2__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_34__subsec_2__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_34__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "termasuk apa-apa jua yang berkemungkinan akan menyebabkan kematian, atau kemudaratan badan yang teruk kepada, orang itu melainkan jika anggota Pasukan Keselamatan itu atas alasan yang munasabah mempercayai bahawa mengambil tindakan sedemikian disifatkan perlu—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_34__subsec_2__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_34__subsec_2__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk melindungi nyawa, atau menghalang kecederaan serius kepada, seseorang yang lain, termasuklah anggota itu; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_34__subsec_2__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_34__subsec_2__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk melindungi kawasan keselamatan itu atau mana-mana bahagian kawasan keselamatan itu terhadap ancaman serangan bersenjata; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_34__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_34__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menyebabkan orang itu dihina lebih teruk daripada yang munasabah dan perlu dalam hal keadaan itu. Kuasa untuk mengetepikan inkues, dsb."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_35__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_35__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun apa-apa jua yang berlawanan dalam mana-mana undang-undang bertulis, di dalam kawasan keselamatan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_35__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_35",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seseorang Majistret atau koroner boleh mengetepikan pengadaan siasatan kematian atau inkues ke atas mayat mana-mana anggota Pasukan Keselamatan yang bertugas; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_35__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_35",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika Majistret atau koroner yang bertanggungjawab bagi pengadaan siasatan kematian atau inkues ke atas mayat mana-mana orang berpuas hati bahawa orang itu telah terbunuh di dalam kawasan keselamatan akibat operasi yang dijalankan oleh Pasukan Keselamatan bagi maksud menguatkuasakan mana-mana undang-undang bertulis, Majistret atau koroner itu, mengikut mana-mana yang berkenaan, boleh mengetepikan pengadaan siasatan kematian atau inkues ke atas mayat orang itu. Penyerahan orang yang ditangkap dan benda yang disita kepada polis"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V__cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/38/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang ditangkap dan diletakkan dalam jagaan di bawah Akta ini dan apa-apa benda yang disita hendaklah diserahkan kepada pegawai yang bertanggungjawab bagi balai polis yang terdekat tanpa kelengahan yang tidak perlu, berserta dengan laporan mengenai hal keadaan yang menyebabkan penangkapan atau penyitaan itu."
+      }
+    }
+  ]
+}

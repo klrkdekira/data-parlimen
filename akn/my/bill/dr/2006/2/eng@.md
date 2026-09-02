@@ -14,13 +14,25 @@
 
 ## THE BOARD
 
-3. Establishment of the Board 4. Common seal of the Board 5. Members of the Board 6. Tenure of office 7. Revocation and resignation 8. Vacation of office 9. Chief Executive Officer 10. Committees 11. Disclosure of interest 12. Appointment of officers and servants of the Board 13. Power of the Minister to give directions and request information
+3. Establishment of the Board 4. Common seal of the Board 5. Members of the Board 6. Tenure of office 7. Revocation and resignation 8. Vacation of office 9. Chief Executive Officer
+
+10. Committees
+
+11. Disclosure of interest
+
+12. Appointment of officers and servants of the Board
+
+13. Power of the Minister to give directions and request information
 
 ## PART III
 
 ## OBJECTIVES, FUNCTIONS AND POWERS OF THE BOARD
 
-14. Objectives of the Board 15. Functions of the Board 16. Powers of the Board
+14. Objectives of the Board
+
+15. Functions of the Board
+
+16. Powers of the Board
 
 ## PART IV
 
@@ -30,19 +42,37 @@
 
 <!-- page 2 -->
 
-18. Expenditure to be charged on the Fund 19. Reserve Fund 20. Preparation of budget 21. Accounts and reports
+18. Expenditure to be charged on the Fund
+
+19. Reserve Fund
+
+20. Preparation of budget
+
+21. Accounts and reports
 
 ## PART V
 
 ## OFFENCES AND PENALTIES
 
-22. False information 23. Penalty for attempting to obtain money or benefits by false or misleading statement or document 24. Repayment 25. Offence by body corporate
+22. False information
+
+23. Penalty for attempting to obtain money or benefits by false or misleading statement or document
+
+24. Repayment
+
+25. Offence by body corporate
 
 ## PART VI
 
 ## MISCELLANEOUS
 
-26. Public servants 27. Duty to maintain secrecy 28. Protection of officers 29. Power to make regulations
+26. Public servants
+
+27. Duty to maintain secrecy
+
+28. Protection of officers
+
+29. Power to make regulations
 
 ## SCHEDULE
 
@@ -596,4 +626,4 @@ The Malaysian Health Promotion Board Act 2006 ("the Act") proposed by this Bill 
 
 This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained.
 
-[PN(U2)2491]
+<!-- marginal: [PN(U2)2491] -->

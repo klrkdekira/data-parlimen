@@ -1038,19 +1038,11 @@ and such penalties, costs, fees, charges, taxes and debts shall be a charge upon
 
 (a) in the case of receivership of a limited liability partnership, the provisions of Part VIII (in so far as they relate to a company limited by shares) of the Companies Act 1965 shall apply; and
 
-(b) in the case of winding-up of a limited liability partnership by the Court, the provisions of Divisions 2 and 4 of
-
-## Part X (in so far as they relate to a company limited by
-
-shares) of the Companies Act 1965 and the Companies (Winding-up) Rules 1972 [P.U. (A) 289/1972] shall apply.
+(b) in the case of winding-up of a limited liability partnership by the Court, the provisions of Divisions 2 and 4 of Part X (in so far as they relate to a company limited by shares) of the Companies Act 1965 and the Companies (Winding-up) Rules 1972 [P.U. (A) 289/1972] shall apply.
 
 <!-- page 37 -->
 
-(2) The application of Part VIII and Divisions 2 and 4 of
-
-## Part X (in so far as they relate to a company limited by shares) of
-
-the Companies Act 1965, and the Companies (Winding-up) Rules 1972 under subsection (1) shall be subject to such modifications and adaptations as may be necessary, and in particular the following modifications:
+(2) The application of Part VIII and Divisions 2 and 4 of Part X (in so far as they relate to a company limited by shares) of the Companies Act 1965, and the Companies (Winding-up) Rules 1972 under subsection (1) shall be subject to such modifications and adaptations as may be necessary, and in particular the following modifications:
 
 (a) references to a “company” shall be taken as references to a limited liability partnership;
 
@@ -1710,15 +1702,31 @@ if the act was done in good faith and in a reasonable belief that it was necessa
 
 ## PROFESSIONAL PRACTICE
 
-Professional Governing law Governing body practice
+Professional Governing law
+
+<!-- marginal: Governing body -->
+
+practice
 
 1. Chartered Accountants Act 1967 Malaysian Institute of accountant [Act 94] Accountants
 
 2. Advocate (i) Legal Profession (i) Malaysian Bar and Act 1976 solicitor [Act 166]
 
-(ii) Advocates (ii) Sabah Law Ordinance of Sabah Association [Sabah Cap. 2]
+(ii) Advocates (ii) Sabah Law Ordinance of Sabah
 
-(iii) Advocates (iii) Advocates’ Ordinance of Association of Sarawak Sarawak [Sarawak Cap. 110]
+<!-- marginal: Association -->
+
+[Sabah Cap. 2]
+
+(iii) Advocates (iii) Advocates’ Ordinance of
+
+<!-- marginal: Association of -->
+
+Sarawak
+
+<!-- marginal: Sarawak -->
+
+[Sarawak Cap. 110]
 
 3. Secretary Companies Act 1965
 

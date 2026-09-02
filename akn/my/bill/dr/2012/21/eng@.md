@@ -4,13 +4,13 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Interpretation
 
-## Part II
+## PART II
 
 ## ESTABLISHMENT AND APPOINTMENT OF MALAYSIA
 
@@ -18,21 +18,33 @@
 
 3. Establishment of Malaysia Volunteers Corps 4. Appointment of Director General, Deputy Director General and other officers
 
-## Part III
+## PART III
 
 ## DUTIES AND POWERS OF RELA
 
 5. Duties of RELA 6. Power to control and divert motor vehicle
 
-## Part IV
+## PART IV
 
 ## MEMBER OF RELA AND ENROLMENT
 
-7. Enrolment as member of RELA 8. Certificate of appointment 9. Period of membership 10. Training 11. Leave for training 12. Prohibition of dismissal of employees by reason of training 13. Resignation of membership 14. Termination of membership 15. Allowances
+7. Enrolment as member of RELA 8. Certificate of appointment 9. Period of membership
+
+10. Training
+
+11. Leave for training
+
+12. Prohibition of dismissal of employees by reason of training
+
+13. Resignation of membership
+
+14. Termination of membership
+
+15. Allowances
 
 <!-- page 2 -->
 
-## Part V
+## PART V
 
 ## OFFENCES
 
@@ -42,7 +54,7 @@
 
 18. Personation
 
-## Part VI
+## PART VI
 
 ## GENERAL
 
@@ -66,7 +78,7 @@
 
 28. Savings provision
 
-## Schedule
+## SCHEDULE
 
 <!-- page 3 -->
 
@@ -78,7 +90,7 @@ An Act to provide for the establishment, duties and powers of the Malaysia Volun
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -110,7 +122,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 “traffic warden” has the same meaning assigned to it in section 2 of the Road Transport Act.
 
-## Part II
+## PART II
 
 ## ESTABLISHMENT AND APPOINTMENT OF MALAYSIA
 
@@ -136,7 +148,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (4) The Director General may in writing, subject to such conditions, limitations or restrictions as he thinks fit to impose, delegate all or any of his powers or functions under this Act to a Deputy Director General of RELA or to an officer of RELA.
 
-## Part III
+## PART III
 
 ## DUTIES AND POWERS OF RELA
 
@@ -166,7 +178,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (2) In exercising the powers under subsection (1), the officer and member of RELA shall be under the command of the police officer or traffic warden, as the case may be, who is present at the place.
 
-## Part IV
+## PART IV
 
 ## MEMBER OF RELA AND ENROLMENT
 
@@ -250,7 +262,7 @@ commits an offence and shall, on conviction, be liable to a fine not exceeding s
 
 15. A member of RELA who is on duty shall be paid such allowances as the Minister may determine after consultation with the Minister of Finance.
 
-## Part V
+## PART V
 
 ## OFFENCES
 
@@ -280,7 +292,7 @@ commits an offence and shall, on conviction, be liable to a fine not exceeding s
 
 commits an offence and shall, on conviction, be liable to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding three years or to both.
 
-## Part VI
+## PART VI
 
 ## GENERAL
 
@@ -352,7 +364,7 @@ commits an offence and shall, on conviction, be liable to a fine not exceeding f
 
 <!-- page 13 -->
 
-## Schedule
+## SCHEDULE
 
 [Section 22]
 
@@ -372,7 +384,7 @@ The proposed Malaysia Volunteers Corps Bill 2012 (“the proposed Act”) seeks 
 
 <!-- page 14 -->
 
-## Part I
+## PART I
 
 2. Part I deals with preliminary matters.
 
@@ -380,7 +392,7 @@ The proposed Malaysia Volunteers Corps Bill 2012 (“the proposed Act”) seeks 
 
 4. Clause 2 contains the definitions of certain words used in the proposed Act.
 
-## Part II
+## PART II
 
 5. Part II contains provisions relating to the establishment and appointment of the Malaysia Volunteers Corps (RELA).
 
@@ -388,7 +400,7 @@ The proposed Malaysia Volunteers Corps Bill 2012 (“the proposed Act”) seeks 
 
 7. Clause 4 provides for the appointment of the Director General, Deputies Director General and other officers of RELA.
 
-## Part III
+## PART III
 
 8. Part III of the proposed Act deals with the duties and powers of RELA.
 
@@ -396,7 +408,7 @@ The proposed Malaysia Volunteers Corps Bill 2012 (“the proposed Act”) seeks 
 
 10. Clause 6 empowers officers and members of RELA to control and divert motor vehicles.
 
-## Part IV
+## PART IV
 
 11. Part IV of the proposed Act deals with members of RELA and enrolment.
 
@@ -420,7 +432,7 @@ The proposed Malaysia Volunteers Corps Bill 2012 (“the proposed Act”) seeks 
 
 20. Clause 15 empowers the Minister to determine the allowances to be paid to members of RELA.
 
-## Part V
+## PART V
 
 21. Part V of the proposed Act consists of provisions dealing with offences.
 
@@ -428,7 +440,7 @@ The proposed Malaysia Volunteers Corps Bill 2012 (“the proposed Act”) seeks 
 
 23. Clause 18 deals with the offence of personation.
 
-## Part VI
+## PART VI
 
 24. Part VI of the proposed Act consists of general provisions.
 

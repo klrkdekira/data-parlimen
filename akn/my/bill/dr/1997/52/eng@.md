@@ -48,23 +48,37 @@ pression under section 2 of the Act 498. curities Commission Act 1993;'.
 
 <!-- page 2 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-3. Section 14 of the principal Act is amended by of section 14. substituting for subsection (5) the following subsection:
+3. Section 14 of the principal Act is amended by
+
+<!-- marginal: of section 14. -->
+
+substituting for subsection (5) the following subsection:
 
 "(5) Where a stock exchange has prescribed a security under subsection (1) to be deposited with a central depository, the prescription shall apply to any additional listing of such security and all other types of security issued by the same issuer for listing on the stock exchange and the provisions of subsections (1) and (2) shall not apply in respect of such additional listing and listing of other types of security.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. Section 22 of the principal Act is amended in sub- of section 22. section (1) by substituting for the words " and the provisions of this section," the words ", the provisions of this section and any rules of a central depository,".
+4. Section 22 of the principal Act is amended in sub-
 
-Amendment of
+<!-- marginal: of section 22. -->
 
-5. Section 34 of the principal Act is amended in sub- section 34. section (1) by substituting for the words "by written notice, require a" the words "in the manner prescribed by rules of a central depository, require the".
+section (1) by substituting for the words " and the provisions of this section," the words ", the provisions of this section and any rules of a central depository,".
 
-Amendment of
+<!-- marginal: Amendment of -->
 
-6. Section 35 of the principal Act is amended— section 35.
+5. Section 34 of the principal Act is amended in sub-
+
+<!-- marginal: section 34. -->
+
+section (1) by substituting for the words "by written notice, require a" the words "in the manner prescribed by rules of a central depository, require the".
+
+<!-- marginal: Amendment of -->
+
+6. Section 35 of the principal Act is amended—
+
+<!-- marginal: section 35. -->
 
 (a) by substituting for subsection (1) the following subsection:
 
@@ -84,49 +98,9 @@ Act 125. visions of the Companies Act 1965, a depositor of any deposited securit
 
 (c) a holder registered—
 
-(i) in the register of
+(i) in the register of interest holders maintained by a management company under the Companies Act 125. Act 1965; or
 
-<!-- marginal: interest holders -->
-
-<!-- marginal: maintained by -->
-
-<!-- marginal: a management -->
-
-<!-- marginal: company under -->
-
-<!-- marginal: the Companies -->
-
-Act 125.
-
-<!-- marginal: Act 1965; or -->
-
-(ii) in the register
-
-<!-- marginal: of -->
-
-<!-- marginal: unitholders -->
-
-<!-- marginal: maintained by -->
-
-<!-- marginal: a management -->
-
-<!-- marginal: company under -->
-
-P.U. (A)
-
-<!-- marginal: the Securities -->
-
-439/96.
-
-<!-- marginal: Commission -->
-
-<!-- marginal: (Unit -->
-
-<!-- marginal: Trust -->
-
-<!-- marginal: Scheme) Regu- -->
-
-<!-- marginal: lations 1996, -->
+(ii) in the register of unitholders maintained by a management company under P.U. (A) the Securities 439/96. Commission (Unit Trust Scheme) Regu- lations 1996,
 
 instead of the central depository, or its nominee company, in whose name the deposited security is registered."; and
 
@@ -142,27 +116,31 @@ Bill
 
 (b) a register of debenture holders
 
-### Act 125.
+<!-- marginal: Act 125. -->
 
 maintained under Section 70 of the Companies Act 1965;
 
 (c) a register of interest holders main- tained under section 92 of the Com-
 
-### Act 125.
+<!-- marginal: Act 125. -->
 
 panies Act 1965; or
 
 (d) a register of unit holders maintained
 
-### P.U. (A)
+<!-- marginal: P.U. (A) -->
 
 under regulation 34 of the Securities
 
-### 439/96.
+<!-- marginal: 439/96. -->
 
 Commission (Unit Trust Scheme) Regulations 1996.".
 
-Amendment 7. Section 38 of the principal Act is amended— of section 38.
+<!-- marginal: Amendment -->
+
+7. Section 38 of the principal Act is amended—
+
+<!-- marginal: of section 38. -->
 
 (a) by substituting for subsection (1) the following subsection:
 
@@ -184,11 +162,7 @@ the issuer or the offerer shall notify the central depository of the names of th
 
 "(3) For the purposes of this section—
 
-(a) "entitled persons" means persons who have been
-
-<!-- marginal: allocated -->
-
-securities by an offeror in an offer for sale; and
+(a) "entitled persons" means persons who have been allocated securities by an offeror in an offer for sale; and
 
 (b) "offeror", in relation to any security, means the owner of the security.".
 
@@ -200,7 +174,13 @@ securities by an offeror in an offer for sale; and
 
 inserting after section 41 the following section:
 
-Notice of 4lA. No notice of any trust, expressed, implied trust. or constructive, shall be receivable by the central depository and the central depository or anything done by the central depository in relation to deposited securities shall not be affected by notice of any such trust.".
+<!-- marginal: Notice of -->
+
+4lA. No notice of any trust, expressed, implied
+
+<!-- marginal: trust. -->
+
+or constructive, shall be receivable by the central depository and the central depository or anything done by the central depository in relation to deposited securities shall not be affected by notice of any such trust.".
 
 <!-- marginal: Amendment -->
 
@@ -220,17 +200,27 @@ substituting for subsection (2) the following subsection:
 
 section 61 the following section:
 
-Commis- 6lA. (1) Notwithstanding the provisions of sion may any written law— be repre- sented by
+<!-- marginal: Commis- -->
 
-(a) in any civil proceedings by or against officer in civil the Commission; or proceedings.
+6lA. (1) Notwithstanding the provisions of
 
-(b) in any other civil proceedings in which the Commission
+<!-- marginal: sion may -->
 
-<!-- marginal: is -->
+any written law—
 
-<!-- marginal: required or -->
+<!-- marginal: be repre- -->
 
-permitted by the court to be represented, or to be heard, or is otherwise entitled to be represented or to be heard,
+<!-- marginal: sented by -->
+
+(a) in any civil proceedings by or against
+
+<!-- marginal: officer -->
+
+<!-- marginal: in civil -->
+
+the Commission; or proceedings.
+
+(b) in any other civil proceedings in which the Commission is required or permitted by the court to be represented, or to be heard, or is otherwise entitled to be represented or to be heard,
 
 <!-- page 6 -->
 
@@ -272,6 +262,4 @@ This clause also seeks to insert a new definition of "unit trust scheme" into se
 
 ## IMPLICATIONS
 
-This Bill will not involve the Government in any extra financial expenditure.
-
-<!-- marginal: [PN. (U2) 1974.] -->
+This Bill will not involve the Government in any extra financial expenditure. [PN. (U2) 1974.]

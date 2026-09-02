@@ -290,7 +290,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/42/eng@/~cl_13",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (3)— Amendment of section 48a"
+        "@value": "in subsection (3)—"
       }
     },
     {
@@ -310,7 +310,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/42/eng@/~cl_13__para_c",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for the words “or aircraft” the words “, aircraft or train”."
+        "@value": "by substituting for the words “or aircraft” the words “, aircraft or train”. Amendment of section 48a"
       }
     },
     {

@@ -1,0 +1,1501 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-44-1996",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_IV"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Financial Reporting Bill 1996"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_18"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "THE FINANCIAL REPORTING FOUNDATION AND THE MALAYSIAN ACCOUNTING STANDARDS BOARD"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_26"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "FINANCE"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_19__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_19__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_19__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "There is hereby established, for the purposes of this Act, a fund to be administered by the Foundation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_19__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_19__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_19__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_19__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Fund shall consist of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_19__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_19__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "such sums as may be provided from time to time for the purposes of this Act by Parliament;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_19__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_19__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "such contributions as may be made by any person including industry groups and corporations;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_19__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_19__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "such fees or other charges as may be paid to the Foundation or the Board; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_19__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_19__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all other sums or property which may in any manner become payable to the Foundation or the Board or vested in the Foundation in respect of any matter incidental to its functions and powers."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_19__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_19__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_19__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_19__subsec_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Foundation may delegate its function under subsection (1) to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_19__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_19__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any committee set up by the Foundation;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_19__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_19__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Board; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_19__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_19__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any officer of the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_19__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any delegation under subsection (3) shall not prevent the concurrent performance by the Foundation of the Foundation's function so delegated."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_20__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_20__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_20__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_20__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Fund shall be expended for the purpose of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_20__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "paying any expenditure lawfully incurred by the Foundation or the Board including fees and costs, legal or otherwise, and the remuneration of officers and servants employed by the Foundation, including the granting of loans, superannuation allowances or gratuities;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_20__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "paying any other expenses, costs or expenditure properly incurred or accepted by the Foundation or the Board in the performance of its functions or the exercise of its powers under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_20__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "purchasing or hiring equipment, machinery and any other materials, acquiring land and erecting buildings and carrying out any other works and undertakings of the Foundation or the Board in the performance of its functions or the exercise of its powers under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_20__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "generally, paying any expenses for carrying into effect the provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The financial year of the Foundation shall begin on"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "the first day of January and end on the thirty-first day of December in each year."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The moneys of the Fund shall, in so far as they are not required to be expended by the Foundation under this Act, be invested in such manner as may be deemed suitable by the Foundation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Foundation shall, as soon as practicable after"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "the end of each financial year, prepare a report on the activities of both the Foundation and the Board during that financial year and send a copy of the report to the Minister who shall cause a copy thereof to be laid before both Houses of Parliament."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_24__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_24__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_24__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_24__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Foundation shall cause proper accounts of the Fund to be kept and shall, as soon as practicable after the end of each financial year, cause to be prepared for that financial year a statement of accounts of the Foundation which shall include a balance sheet, a statement of income and expenditure and a cash flow statement."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_24__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Foundation shall cause its statement of accounts to be audited by such auditors as it may appoint."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_24__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Foundation shall as soon as practicable send a copy of the audited statement of accounts together with a copy of the auditor's report thereon to the Minister who shall cause a copy thereof to be laid before both Houses of Parliament."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Statutory Bodies (Accounts and Annual Reports)"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Act 1980 shall not apply to the Foundation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_III",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Foundation may from time to time, with the"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "approval of the Minister, borrow, at such rate of interest and for such period and upon such terms as to the time and method of repayment and otherwise as the Minister may approve, any sums required by the Foundation for meeting any of its or the Board's obligations or performing any of its or the Board's functions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_10__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_10__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_10__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Any person—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "who is of unsound mind or is otherwise incapable of performing his duties;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "who has been convicted and sentenced to imprisonment for a term of not less than one year;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_10__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "who has been convicted of an offence involving fraud, dishonesty, or moral turpitude; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_10__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "who is a bankrupt, shall be disqualified from being appointed as a member of the Foundation or the Board, or if he is a member of the Foundation or the Board shall cease to be such a member."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Members of the Foundation and the Board and"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "advisors to the Board shall not be entitled to any remuneration but may be paid such honorarium and travelling and subsistence allowances as the Minister may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subject to sections 10, 13 and 14, a member of"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Foundation or the Board other than an ex-officio member shall hold office for a term not exceeding three years and shall be eligible for re-appointment for one successive term only."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_13__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_13__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_13__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Foundation or the Board may at any time resign his office by written notice addressed to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_13__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Minister, in the case of the Chairman; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_13__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chairman, in the case of any other member."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may at any time revoke, without assigning any reason therefor, the appointment of a member of the Foundation or the Board if he thinks it is expedient to do so."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_14__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Foundation or the Board ceases to hold office upon his death."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_14__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_14__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Foundation or the Board shall be deemed to have vacated his office upon his failure to attend three consecutive meetings of the Foundation or the Board without leave of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_14__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_14__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Minister, in the case of the Chairman; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_14__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_14__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chairman, in the case of any other member."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_15__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may give to the Foundation or the Board directions of a general nature which are consistent with the provisions of this Act as to the performance of the functions and exercise of the powers of the Foundation or the Board and the Foundation or the Board, as the case may be, shall give effect to those directions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Foundation and the Board shall furnish the Minister with such information relating to their activities as he may, from time to time, require."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Foundation and the Board shall have such powers"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "and shall perform such duties as are conferred or imposed by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_17__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_17__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Foundation may, either generally or in any particular matter, engage, on such terms and conditions of engagement as the Foundation may determine from, time to time, any person to render such assistance as the Foundation or the Board may require or specify in connection with the performance of the functions of the Foundation or the Board, as the case may be, under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Foundation shall, on the recommendation of the Board, appoint a Technical Director whose functions and duties shall include assisting the Board in the day to day administration of the Board and in the performance of its functions under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_18__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Foundation may from time to time employ persons who shall be paid such remuneration and allowances and shall hold their employment on such other terms and conditions as the Foundation may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Foundation may make arrangements for the payment to its officers and servants, including a Technical Director, appointed under subsection 17(2), and their dependants of such retirement benefits, gratuities or other allowances as the Foundation may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "There is hereby established a body corporate by the"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "name of the \"Financial Reporting Foundation\" with perpetual succession and a common seal, which may sue and be sued in its name and, subject to and for the purposes of this Act, may enter into contracts and may acquire, purchase, take, hold and enjoy movable and immovable property of every description and may convey, assign, surrender, yield up, charge, mortgage, demise, reassign, transfer or otherwise dispose of, or deal with, any movable or immovable property or any interest therein vested in the Foundation upon such terms as it deems fit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_4__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_4__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_4__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_4__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_4__subsec_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The functions of the Foundation shall be—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_4__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to provide its views to the Board on any matter which the Board seeks to undertake or implement in relation to the Board's functions under section 7;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_4__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to review the performance of the Board;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_4__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to be responsible for all financing arrangements for the operations of the Board, including approving the budget of the Board; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_4__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to perform such other function as the Minister may prescribe by order published in the Gazette,"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Foundation shall not, by virtue of or in connection with its power of approval over the budget of the Board under subsection (1), direct the Board to undertake or omit to undertake any particular project or activity or otherwise affect the exercise of the Board's power or the performance of the Boards's functions under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_5__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_5__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_5__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_5__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_5__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_5__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_5__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_5__subsec_1__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_5__subsec_1__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Foundation shall consist of the following members who shall be appointed by the Minister:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_5__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Secretary General of the Treasury or his representative;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_5__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Governor of the Central Bank or his representative;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_5__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chairman of the Securities Commission or his representative;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_5__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Registrar of Companies or his representative;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_5__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Executive Chairman of the Kuala Lumpur Stock Exchange or his representative;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_5__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the President of the Malaysian Institute of Accountants;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_5__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chairman of the Board;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_5__subsec_1__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "twelve other members of whom— (i) five shall be principal officers of public listed companies; (ii) four shall be public accountants each of whom shall be a partner with not less than ten years of experience in an accounting firm; (iii) one shall be an advocate and solicitor who is a partner with not less than ten years of experience in a legal firm; and (iv) two other persons with the relevant experience and background."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall appoint a Chairman of the Foundation from amongst the persons referred to in subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_6__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chairman of the Foundation and eight other members shall form the quorum at all meetings of the Foundation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Foundation shall have power to determine the conduct of its proceedings."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_1__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_1__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "There is hereby established a body by the name of the \"Malaysian Accounting Standards Board\" whose functions shall be—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to issue new accounting standards as approved accounting standards;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to review, revise or adopt as approved accounting standards existing accounting standards;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to issue statements of principles for financial reporting;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to sponsor or undertake development of possible accounting standards;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to conduct such public consultation as may be necessary in order to determine the contents of accounting concepts, principles and standards;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to develop a conceptual framework for the purpose of evaluating proposed accounting standards;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to make such changes to the form and content of proposed accounting standards as it considers necessary; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_1__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to perform such other function as the Minister may prescribe by order published in the Gazette."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall, in relation to its functions under paragraph (l))(a), (1)(b), (1)(c) or (1)(g), seek the views of the Foundation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Approved accounting standards issued or adopted under subsection (1) may be expressed to apply in relation to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any published accounts of a commercial, industrial or business enterprise in Malaysia and of overseas subsidiaries and associated corporations where those accounts are to be incorporated in consolidated accounts in Malaysia; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_3__para_b__subpara_aa",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_3__para_b__subpara_bb"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "accounting periods or interim accounting periods; and may—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_3__para_b__subpara_aa",
+      "@type": "akn:subparagraph",
+      "eli:number": "aa",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_3__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "have general or specific application;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_3__para_b__subpara_bb",
+      "@type": "akn:subparagraph",
+      "eli:number": "bb",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_3__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "differ according to differences in time or circumstance."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purpose of paragraph (3)(a)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "\"subsidiary\" has the meaning assigned thereto under section 5 of the Companies Act 1965; Act 125. and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_7__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "\"associated corporation\" means a corporation where not less than thirty per centum and not more than fifty per centum of that corporation's shares are held by another corporation, the first mentioned corporation thereby being an associated corporation of the other corporation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to subsection (2), the Board shall consist of the following members who shall be appointed by the Minister:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a Chairman;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Accountant General; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8__subsec_1__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8__subsec_1__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8__subsec_1__para_c__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8__subsec_1__para_c__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "six other members who possess knowledge and experience in matters of financial accounting and reporting and in one or more of the following fields:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8__subsec_1__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8__subsec_1__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "accountancy;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8__subsec_1__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8__subsec_1__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "law;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8__subsec_1__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8__subsec_1__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "business;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8__subsec_1__para_c__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8__subsec_1__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "finance."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "At least five of the members appointed under subsection (1) shall be members of the Malaysian Institute of Accountants."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8__subsec_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may appoint three advisors to the Board to represent—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Securities Commission;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Central Bank of Malaysia; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Registrar of Companies."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The advisors to be appointed under subsection (3) shall be appointed from amongst persons who possess knowledge and experience in the field of accountancy, law, business or finance."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An advisor appointed under subsection (3) shall, unless he sooner resigns or his appointment is sooner revoked, hold office for such term as the Minister may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_9__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_9__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_9__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_9__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall meet as often as may be necessary for the performance of its functions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Six members of the Board shall form the quorum at all meetings of the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The advisors to the Board shall have the right to attend meetings of the Board but shall not have a right to vote."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_9__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A question arising at any meeting of the Board shall be determined by not less than six votes of the members present and voting."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_9__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall have power to determine the conduct of its proceedings."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_9__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may invite any person to attend any meeting or deliberation of the Board for the purpose of obtaining views on any matter under discussion, but any person so attending shall have no right to vote at the meeting or deliberation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_IV__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_IV__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_IV__cl_29"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "GENERAL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_IV__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Where financial statements are required to be prepared"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "or lodged under any law administered by the Securities Commission, the Central Bank or the Registrar of Companies, and approved accounting standards have been issued or adopted by the Board under subsection 7(1), such financial statements shall be deemed not to have complied with the requirement of such law unless they have been prepared and are kept in accordance with the approved accounting standards."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_IV__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Except for any of the purposes of this Act or for"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "the purpose of any civil or criminal proceedings under any written law or for the purpose of assisting any authority or agency in the performance or exercise of its functions or power under any written law in Malaysia, the Foundation and the Board shall take all reasonable measures to protect from unauthorised use or disclosure any information given to the Foundation or the Board in confidence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_IV__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Minister may make such regulations as may be"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "expedient or necessary for carrying out or giving effect to the provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Financial Reporting Act 1996."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall come into force on such date as the Minister may, by notification in the Gazette appoint, and the Minister may appoint different dates for the coming into force of different provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/44/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "\"accounting standards\" means statements of standard accounting practices used for the preparation of financial statements; \"approved accounting standards\" means accounting standards which are issued or approved by the Board under subsection 7(1); \"Board\" means the Malaysian Accounting Standards Board established under section 7; \"Central Bank\" means the Central Bank of Malaysia established under the Central Bank of Malaysia Act 1958; \"Foundation\" means the Financial Reporting Foundation established under section 3; \"Fund\" means the Fund established under subsection 19(1); \"Malaysian Institute of Accountants\" means the body established under section 3 of the Accountants Act 1967; \"Minister\" means the Minister for the time being charged with the responsibility for finance; \"principal officer\", in relation to a public listed company, means a person by whatever name called who is responsible for the conduct of the business and administration of the public listed company, and includes a non-executive chairman of the public listed company; \"Registrar of Companies\" means the Registrar of Companies appointed under the Companies Act 1965; \"Securities Commission\" means the Securities Commission established under the Securities Commission Act 1993."
+      }
+    }
+  ]
+}

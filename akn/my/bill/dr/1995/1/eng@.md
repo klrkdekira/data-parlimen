@@ -72,105 +72,19 @@ for or not fully provided for by the Supply Act 1995.
 
 FlRST SCHEDULE (Section 2)
 
-Purpose Title
-
-<!-- marginal: Appropriation -->
-
-<!-- marginal: to purpose -->
+Purpose Title Appropriation to purpose
 
 <!-- marginal: RM -->
 
-B. 1 Parliament
-
-<!-- marginal: 1,930,000 -->
-
-B. 4 Election Commission
-
-<!-- marginal: 6,200,000 -->
-
-B. 7 Prime Minister's Department
-
-<!-- marginal: 35,698,225 -->
-
-B. 14 Ministry of Housing and Local
-
-<!-- marginal: 1,513,000 -->
-
-Government B. 15 Town and Country Planning
+B. 1 Parliament 1,930,000 B. 4 Election Commission 6,200,000 B. 7 Prime Minister's Department 35,698,225 B. 14 Ministry of Housing and Local 1,513,000 Government B. 15 Town and Country Planning
 
 <!-- marginal: 584,096 -->
 
-Department B. 16 Fire Services Department
-
-<!-- marginal: 2,936,067 -->
-
-B. 19 Ministry of Agriculture
+Department B. 16 Fire Services Department 2,936,067 B. 19 Ministry of Agriculture
 
 <!-- marginal: 416,400 -->
 
-B. 22 Ministry of Culture, Arts and
-
-<!-- marginal: 6,544,600 -->
-
-Tourism B. 25 Ministry of Defence
-
-<!-- marginal: 163,385,544 -->
-
-B. 26 Ministry of Education
-
-<!-- marginal: 111,917,693 -->
-
-B. 28 Treasury
-
-<!-- marginal: 7,650,000 -->
-
-B. 30 Contribution to Statutory Funds
-
-<!-- marginal: 14,000,000,000 -->
-
-B. 31 Royal Customs and Excise
-
-<!-- marginal: 10,565,328 -->
-
-Department B. 32 Inland Revenue Department
-
-<!-- marginal: 1,650,000 -->
-
-B. 33 Valuation and Property Services
-
-<!-- marginal: 724,627 -->
-
-Department B. 34 Ministry of Health
-
-<!-- marginal: 118,477,800 -->
-
-B. 36 Royal Malaysia Police
-
-<!-- marginal: 143,4)7,024 -->
-
-B. 37 Immigration Department
-
-<!-- marginal: 5,280,500 -->
-
-B. 40 Prisons Department
-
-<!-- marginal: 813,042 -->
-
-B. 42 Ministry of National Unity and
-
-<!-- marginal: 2,900.000 -->
-
-Social Development B. 43 Ministry of Law
-
-<!-- marginal: 12,872,800 -->
-
-B. 47 Ministry of Transport
-
-<!-- marginal: 22,000,000 -->
-
-B. 52 Ministry of Works
-
-<!-- marginal: 150,000.000 -->
+B. 22 Ministry of Culture, Arts and 6,544,600 Tourism B. 25 Ministry of Defence 163,385,544 B. 26 Ministry of Education 111,917,693 B. 28 Treasury 7,650,000 B. 30 Contribution to Statutory Funds 14,000,000,000 B. 31 Royal Customs and Excise 10,565,328 Department B. 32 Inland Revenue Department 1,650,000 B. 33 Valuation and Property Services 724,627 Department B. 34 Ministry of Health 118,477,800 B. 36 Royal Malaysia Police 143,4)7,024 B. 37 Immigration Department 5,280,500 B. 40 Prisons Department 813,042 B. 42 Ministry of National Unity and 2,900.000 Social Development B. 43 Ministry of Law 12,872,800 B. 47 Ministry of Transport 22,000,000 B. 52 Ministry of Works 150,000.000
 
 ## TOTAL
 
@@ -186,61 +100,15 @@ B. 52 Ministry of Works
 
 (Section 3)
 
-Purpose Title
-
-<!-- marginal: Appropriation -->
-
-<!-- marginal: to purpose -->
+Purpose Title Appropriation to purpose
 
 <!-- marginal: RM -->
 
-B. 4 Election Commission
-
-<!-- marginal: 36,500,00 -->
-
-B. 7 Prime Minister's Department
-
-<!-- marginal: 140.000,000 -->
-
-B. 17 Ministry of Youth and Sports
-
-<!-- marginal: 29,910,000 -->
-
-B. 18 Ministry of Primary Industries
-
-<!-- marginal: 15,000,000 -->
-
-B. 25 Ministry of Defence
-
-<!-- marginal: 147,563,000 -->
-
-B. 26 Ministry of Education
-
-<!-- marginal: 35,000,000 -->
-
-B. 29 Treasury General Services
-
-<!-- marginal: 27,362,700 -->
-
-B. 34 Ministry of Health
-
-<!-- marginal: 64,000,000 -->
-
-B. 36 Royal Malaysia Police
-
-<!-- marginal: 31,830,000 -->
-
-B. 44 Ministry of Information
-
-<!-- marginal: 16,716,050 -->
-
-<!-- marginal: 600,000,000 -->
-
-B. 52 Ministry of Works
+B. 4 Election Commission 36,500,00 B. 7 Prime Minister's Department 140.000,000 B. 17 Ministry of Youth and Sports 29,910,000 B. 18 Ministry of Primary Industries 15,000,000 B. 25 Ministry of Defence 147,563,000 B. 26 Ministry of Education 35,000,000 B. 29 Treasury General Services 27,362,700 B. 34 Ministry of Health 64,000,000 B. 36 Royal Malaysia Police 31,830,000 B. 44 Ministry of Information 16,716,050 600,000,000 B. 52 Ministry of Works
 
 ## TOTAL
 
-<!-- marginal: 1,143,881,750 -->
+1,143,881,750
 
 ## EXPLANATORY STATEMENT
 
@@ -250,6 +118,4 @@ The object of this Bill is to give statutory authority for certain additional pa
 
 ## IMPLICATION
 
-This Bill will involve the Government in extra financial expenditure.
-
-<!-- marginal: [PN. (U2) 1878.] -->
+This Bill will involve the Government in extra financial expenditure. [PN. (U2) 1878.]

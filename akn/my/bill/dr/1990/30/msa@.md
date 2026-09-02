@@ -14,11 +14,7 @@ D.R. 30/90
 
 ## PERMULAAN
 
-1. Tajuk ringkas dan mula berkuatkuasa.
-
-2. Tafsiran.
-
-3. Fungsi, kuasa dan kewajipan Bank.
+1. Tajuk ringkas dan mula berkuatkuasa. 2. Tafsiran. 3. Fungsi, kuasa dan kewajipan Bank.
 
 ## BAHAGIAN
 
@@ -26,17 +22,7 @@ II
 
 ## PELESENAN BANK-BANK LUAR PESISIR
 
-4. Perniagaan bank luar pesisir hendaklah dijalankan hanya di bawah lesen.
-
-5. Pengemukaan permohonan untuk lesen kepada Bank.
-
-6. Pemberian atau keengganan memberi lesen oleh Menteri.
-
-7. Kehendak bagi penggunaan, dan sekatan alas penggunaan, perkataan-perkataan "bank luar pesisir", dll.
-
-8. Pembatalan lesen.
-
-9. Penyerahan balik lesen.
+4. Perniagaan bank luar pesisir hendaklah dijalankan hanya di bawah lesen. 5. Pengemukaan permohonan untuk lesen kepada Bank. 6. Pemberian atau keengganan memberi lesen oleh Menteri. 7. Kehendak bagi penggunaan, dan sekatan alas penggunaan, perkataan-perkataan "bank luar pesisir", dll. 8. Pembatalan lesen. 9. Penyerahan balik lesen.
 
 10. Bank luar pesisir berlesen hendaklah menghentikan perniagaan bank luar pesisir apabila lesen dibatalkan atau diserahkan balik .
 
@@ -54,7 +40,19 @@ III
 
 ## KEWAJIPAN-KEWAJIPAN BANK LUAR PESISIR BERLESEN
 
-14. Pejabat-pejabat dan subsidiari-subsidiari. 15. Larangan ke atas akaun tertentu. 16. Perlantikan dan tugas-tugas juruaudit. 17. Penyata-penyata kewangan hendaklah dikemukakan kepada Bank. 18. Statistik dan maklumat hendaklah dikemukakan kepada Bank. 19. Fee lesen. 20. Urusniaga dalam matawang Malaysia adalah dilarang.
+14. Pejabat-pejabat dan subsidiari-subsidiari.
+
+15. Larangan ke atas akaun tertentu.
+
+16. Perlantikan dan tugas-tugas juruaudit.
+
+17. Penyata-penyata kewangan hendaklah dikemukakan kepada Bank.
+
+18. Statistik dan maklumat hendaklah dikemukakan kepada Bank.
+
+19. Fee lesen.
+
+20. Urusniaga dalam matawang Malaysia adalah dilarang.
 
 ## BAHAGIAN
 
@@ -62,13 +60,33 @@ IV
 
 ## KERAHSIAAN
 
-21. Sekatan penyiasatan secara khusus mengenai hal-ehwal pelangggan tertentu. 22. Kerahsiaan. 23. Penentusahan pengemukaan bank luar pesisir berlesen.
+21. Sekatan penyiasatan secara khusus mengenai hal-ehwal pelangggan tertentu.
+
+22. Kerahsiaan.
+
+23. Penentusahan pengemukaan bank luar pesisir berlesen.
 
 ## BAHAGIAN V
 
 ## PERUNTUKAN-PERUNTUKAN AM
 
-24. Penalti am. 25. Kuasa untuk mengkompaun kesalahan-kesalahan. 26. Tanggungrugi. 27. Peraturan-peraturan. 28. Pemakaian Akta Syarikat Luar Pesisir 1990 dan Akta Syarikat 1965. 29. Pemakaian Akta Kawalan Pertukaran 1953. 30. Akta Bank dan Institusi-institusi Kewangan 1989 dan Akta Bank Islam 1983 tidaklah terpakai. 31. Kuasa Menteri untuk mengecualikan. 32. Bayaran daripada akaun simati.
+24. Penalti am.
+
+25. Kuasa untuk mengkompaun kesalahan-kesalahan.
+
+26. Tanggungrugi.
+
+27. Peraturan-peraturan.
+
+28. Pemakaian Akta Syarikat Luar Pesisir 1990 dan Akta Syarikat 1965.
+
+29. Pemakaian Akta Kawalan Pertukaran 1953.
+
+30. Akta Bank dan Institusi-institusi Kewangan 1989 dan Akta Bank Islam 1983 tidaklah terpakai.
+
+31. Kuasa Menteri untuk mengecualikan.
+
+32. Bayaran daripada akaun simati.
 
 ## JADUAL.
 
@@ -120,9 +138,21 @@ oleh Ordinan Bank Negara Malaysia 1958;
 
 "bank luar pesisir Malaysia berlesen" ertinya suatu bank luar pesisir berlesen yang adalah pejabat, atau sub- sidiari, sebuah bank Malaysia;
 
-"bank Malaysia" ertinya bank berlesen sebagaimana Akta 372. ditakrifkan di dalam Akta Bank dan Institusi-Institusi Kewangan 1989 atau bank Islam sebagaimana ditakrifkan Akta 276 di dalam Akta Bank Islam 1983;
+"bank Malaysia" ertinya bank berlesen sebagaimana
 
-"berkaitan", berhubungan dengan suatu perbadanan, Akta ertinya berkaitan mengikut pengertian seksyen 4 Akta Syarikat Luar Pesisir 1990;
+<!-- marginal: Akta 372. -->
+
+ditakrifkan di dalam Akta Bank dan Institusi-Institusi Kewangan 1989 atau bank Islam sebagaimana ditakrifkan
+
+<!-- marginal: Akta 276 -->
+
+di dalam Akta Bank Islam 1983;
+
+"berkaitan", berhubungan dengan suatu perbadanan,
+
+<!-- marginal: Akta -->
+
+ertinya berkaitan mengikut pengertian seksyen 4 Akta Syarikat Luar Pesisir 1990;
 
 "ditentukan", jika tiada cara disebutkan, ertinya di- tentukan dari semasa ke semasa secara bertulis, dan suatu kuasa untuk menentukan termasuklah kuasa untuk menentukan cara berlainan bagi orang-orang yang berlainan;
 
@@ -298,7 +328,9 @@ bagi setiap satu daripada tiga tahun kewangan sebelum sahaja tarikh permohonan i
 
 (ff) suatu pernyataan mengenai nama, alamat, kelayakan, pengalaman bekerja dan kedudukan yang dicadangkan bagi kesemua pengarah dan pegawai yang akan bertanggungjawab bagi pengurusan perniagaan bank luar pesisir pemohoh dalam Wilayah Persekutuan Labuan.
 
-(3) Sesuatu permohonan di bawah subseksyen ('!) oleh—
+(3) Sesuatu permohonan di bawah subseksyen ('!)
+
+<!-- marginal: oleh— -->
 
 (a) mana-mana orang bagi pihak suatu syarikat luar pesisir yang dicadangkan diperbadankan di bawah Akta Syarikat Luar Pesisir 1990; atau
 
@@ -326,9 +358,19 @@ bagi maksud tunggal dan eksklusif menjalankan perniagaan bank luar pesisir, hend
 
 bagi setiap satu daripada tiga tahun kewangan sebeJum sahaja tarikh permohonan itu;
 
-(cc) satu pernyataan mengenai yang berikut: (i) nama, tempat dan tarikh, establismen yang dicadangkan bagi syarikat luar pesisir yang dicadangkan, atau establishmen syarikat asing, mengikut mana-mana yang ber- kenaan; (ii) perniagaan utama yang dicadangkan dan tempat utama perniagaan yang dicadangkan bagi syarikat luar pesisir yang dicadangkan atau perniagaan utama dan tempat utama perniagaan syarikat asing, mengikut mana- mana yang berkenaan;
+(cc) satu pernyataan mengenai yang berikut:
 
-(iii) nama dan alamat, pengarah-pengarah yang dicadangkan bagi syarikat luar pesisir yang dicadangkan atau, pengarah-pengarah syarikat asing, mengikut mana-mana yang berkenaan; dan (iv) nama dan alamat, peserta-peserta yang dicadangkan bagi syarikat luar pesisir yang dicadangkan atau, peserta-peserta syarikat asing, yang setiap seorangnya akan memegang sepuluh peratus atau lebih dari- pada modal berbayar syarikat luar pesisir yang dicadangkan atau syarikat asing, mengikut mana-mana yang berkenaan; (dd) (i) dalam hal syarikat luar pesisir yang dicadangkan, suatu jaminan yang didapati, dan suatu akujanji yang diberikan, oleh peserta-pesertanya yang dicadangkan bahawa mereka akan menyebabkan syarikat yang dicadangkan itu, setelah diper- badankan, mendapatkan suatu jaminan dan memberikan suatu akujanji sebagaimana yang disebutkan dalam subseksyen (2) (ee); atau
+(i) nama, tempat dan tarikh, establismen yang dicadangkan bagi syarikat luar pesisir yang dicadangkan, atau establishmen syarikat asing, mengikut mana-mana yang ber- kenaan;
+
+(ii) perniagaan utama yang dicadangkan dan tempat utama perniagaan yang dicadangkan bagi syarikat luar pesisir yang dicadangkan atau perniagaan utama dan tempat utama perniagaan syarikat asing, mengikut mana- mana yang berkenaan;
+
+(iii) nama dan alamat, pengarah-pengarah yang dicadangkan bagi syarikat luar pesisir yang dicadangkan atau, pengarah-pengarah syarikat asing, mengikut mana-mana yang berkenaan; dan
+
+(iv) nama dan alamat, peserta-peserta yang dicadangkan bagi syarikat luar pesisir yang dicadangkan atau, peserta-peserta syarikat asing, yang setiap seorangnya akan memegang sepuluh peratus atau lebih dari- pada modal berbayar syarikat luar pesisir yang dicadangkan atau syarikat asing, mengikut mana-mana yang berkenaan;
+
+(dd)
+
+(i) dalam hal syarikat luar pesisir yang dicadangkan, suatu jaminan yang didapati, dan suatu akujanji yang diberikan, oleh peserta-pesertanya yang dicadangkan bahawa mereka akan menyebabkan syarikat yang dicadangkan itu, setelah diper- badankan, mendapatkan suatu jaminan dan memberikan suatu akujanji sebagaimana yang disebutkan dalam subseksyen (2) (ee); atau
 
 <!-- page 12 -->
 
@@ -336,7 +378,27 @@ bagi setiap satu daripada tiga tahun kewangan sebeJum sahaja tarikh permohonan i
 
 (4) Bank boleh, pada bila-bila masa selepas menerima suatu permohonan di bawah seksyen ini dan sebelum ianya diputuskan oleh Menteri, secara lisan atau bertulis menghendaki pemohon untuk memberikan secara lisan atau bertulis maklumat tambahan atau memberikan apa- apa dokumen tambahan sebagaimana yang difikirkan perlu oleh Bank bagi maksud-maksud menentukan kesesuaian pemohon untuk mendapatkan lesen itu.
 
-Pemberian 6. (1) Bank hendaklah, apabila suatu permohonan telah atau dibuat dengan sempurnanya mengikut seksyen 5 dan keengganan memberi selepas diberi segala maklumat dan dokumen sebagaimana lesen oleh yang dikehendaki di bawah seksyen tersebut, memper- Menteri. timbangkan permohonan itu dan membuat suatu syor kepada Menteri sama ada lesen patut diberi atau tidak. (2) Apabila menerima suatu permohonan dan syor Bank di bawah subseksyen (1), Menteri boleh memberi atau enggan memberi lesen. (3) Suatu lesen yang diberi kepada mana-mana pemohon di bawah subseksyen (2) hendaklah diberikan suatu nombor lesen yang mana hendaklah berbeza dan berlainan daripada nombor-nombor lesen yang diberikan kepada bank luar pesisir yang lain. (4) Bank hendaklah tanpa kelengahan memberitahu pemohon secara bertulis mengenai pemberian atau keengganan memberi lesen itu dan, jika Menteri memberi- kan lesen, nombor lesen tersebut.
+<!-- marginal: Pemberian -->
+
+6. (1) Bank hendaklah, apabila suatu permohonan telah
+
+<!-- marginal: atau -->
+
+dibuat dengan sempurnanya mengikut seksyen 5 dan
+
+<!-- marginal: keengganan -->
+
+<!-- marginal: memberi -->
+
+selepas diberi segala maklumat dan dokumen sebagaimana
+
+<!-- marginal: lesen oleh -->
+
+yang dikehendaki di bawah seksyen tersebut, memper-
+
+<!-- marginal: Menteri. -->
+
+timbangkan permohonan itu dan membuat suatu syor kepada Menteri sama ada lesen patut diberi atau tidak. (2) Apabila menerima suatu permohonan dan syor Bank di bawah subseksyen (1), Menteri boleh memberi atau enggan memberi lesen. (3) Suatu lesen yang diberi kepada mana-mana pemohon di bawah subseksyen (2) hendaklah diberikan suatu nombor lesen yang mana hendaklah berbeza dan berlainan daripada nombor-nombor lesen yang diberikan kepada bank luar pesisir yang lain. (4) Bank hendaklah tanpa kelengahan memberitahu pemohon secara bertulis mengenai pemberian atau keengganan memberi lesen itu dan, jika Menteri memberi- kan lesen, nombor lesen tersebut.
 
 <!-- page 13 -->
 
@@ -394,7 +456,13 @@ luar pesisir berlesen".
 
 perkataan-perkataan itu dalam apa-apa bahasa yang boleh ditafsirkan sebagai menunjukkan penjalanan perniagaan bank luar pesisir oleh orang tersebut.
 
-Pembatalan 8. (1) Menteri boleh, atas syor Bank, membatalkan lesen lesen. mana-mana bank luar pesisir jika—
+<!-- marginal: Pembatalan -->
+
+8. (1) Menteri boleh, atas syor Bank, membatalkan lesen
+
+<!-- marginal: lesen. -->
+
+mana-mana bank luar pesisir jika—
 
 (a) bank luar pesisir berlesen itu telah melanggar mana-mana peruntukan lesennya atau dokumen konstituennya atau mana-mana peruntukan Akta ini atau mana-mana peruntukan mana-mana undang-undang bertulis walaupun tidak ada pendakwaan bagi suatu kesalahan berkenaan dengan pelanggaran tersebut;
 
@@ -404,7 +472,13 @@ Pembatalan 8. (1) Menteri boleh, atas syor Bank, membatalkan lesen lesen. mana-m
 
 (2) Pembatalan lesen di bawah seksyen ini hendaklah berkuatkuasa pada tarikh keputusan Menteri disampaikan kepada bank luar pesisir berlesen itu.
 
-Penyerahan 9. (1) Tertakluk kepada seksyen ini, bank luar pesisir balik lesen. berlesen boleh menyerahkan balik lesennya.
+<!-- marginal: Penyerahan -->
+
+9. (1) Tertakluk kepada seksyen ini, bank luar pesisir
+
+<!-- marginal: balik lesen. -->
+
+berlesen boleh menyerahkan balik lesennya.
 
 (2) Mana-mana bank luar pesisir berlesen yang berniat untuk menyerahkan balik lesennya hendaklah terlebih dahulu mendapatkan kelulusan Bank.
 
@@ -520,17 +594,51 @@ ubahsuaian dibuat kepada dokumen konstituennya, mem- beri kepada Bank butir-buti
 
 (3) Tiada mana-mana bank luar pesisir berlesen boleh membuat apa-apa pindaan atau ubahsuaian kepada dokumen konstituennya yang mana adalah bertentangan dengan mana-mana undang-undang bertulis.
 
-Bank 13. Bank hendaklah pada tiap-tiap tahun tidak lewat dari- hendaklah pada 31 haribulan Januari setiap tahun menyiarkan suatu menyiarkan senarai kesemua bank luar pesisir berlesen yang ada pada senarai bank luar pesisir 31 haribulan Disember tahun sebelumnya dan nombor- berlesen. nombor lesen mereka dalam Warta, dan jika apa-apa lesen dikeluarkan, dibatalkan atau diserah balik selepas penyiaran sedemikian, Bank hendaklah menyebabkan disiarkan dalam Warta, secepat mungkin yang praktik, suatu senarai tersemak kesemua bank luar pesisir berlesen yang ada dan nombor-nombor lesen mereka.
+<!-- marginal: Bank -->
+
+13. Bank hendaklah pada tiap-tiap tahun tidak lewat dari-
+
+<!-- marginal: hendaklah -->
+
+pada 31 haribulan Januari setiap tahun menyiarkan suatu
+
+<!-- marginal: menyiarkan -->
+
+senarai kesemua bank luar pesisir berlesen yang ada pada
+
+<!-- marginal: senarai bank -->
+
+<!-- marginal: luar pesisir -->
+
+31 haribulan Disember tahun sebelumnya dan nombor-
+
+<!-- marginal: berlesen. -->
+
+nombor lesen mereka dalam Warta, dan jika apa-apa lesen dikeluarkan, dibatalkan atau diserah balik selepas penyiaran sedemikian, Bank hendaklah menyebabkan disiarkan dalam Warta, secepat mungkin yang praktik, suatu senarai tersemak kesemua bank luar pesisir berlesen yang ada dan nombor-nombor lesen mereka.
 
 ## BAHAGIAN
 
-<!-- marginal: III -->
+III
 
 ## KEWAJIPAN-KEWAJIPAN BANK LUAR PESISIR
 
 ## BERLESEN
 
-Pejabat- 14. (1) Sesuatu bank luarpesisirberlesen tidaklah boleh pejabat dan menjalankan perniagaan bank luar pesisir dalam, daripada subsidiari- atau melalui mana-mana tempat dalam Malaysia selain subsidiari. daripada Wilayah Persekutuan Labuan.
+<!-- marginal: Pejabat- -->
+
+14. (1) Sesuatu bank luarpesisirberlesen tidaklah boleh
+
+<!-- marginal: pejabat dan -->
+
+menjalankan perniagaan bank luar pesisir dalam, daripada
+
+<!-- marginal: subsidiari- -->
+
+atau melalui mana-mana tempat dalam Malaysia selain
+
+<!-- marginal: subsidiari. -->
+
+daripada Wilayah Persekutuan Labuan.
 
 (2) Sesuatu bank luar pesisir berlesen yang mana adalah suatu syarikat luar pesisir tidaklah boleh membuka apa-apa pejabat atau memperolehi atau menubuhkan apa- apa subsidiari dalam Malaysia selain daripada Wilayah Persekutuan Labuan.
 
@@ -582,11 +690,55 @@ lesen hendaklah melantik seorang juruaudit diluluskan setiap tahun sebelum suatu
 
 di bawah Akta Syarikat Luar Pesisir 1990 dan terdapat dalam senarai juruaudit yang di- senggarakan oleh Bank di bawah perenggan (a).
 
-Penyata- 17. (1) Dalam masa tiga bulan selepas penutupan setiap penyata tahun kewangan sesuatu bank luar pesisir berlesen atau kewangan hendaklah apa-apa tempoh lanjut sebagaimana yang diluluskan oleh dikemukakan Bank, bank luar pesisir berlesen hendaklah kepada mengemukakan kepada Bank, berkenaan dengan Bank. keseluruhan operasinya dalam, dari dan melalui Wilayah Persekutuan Labuan, dua salinan bagi setiap satu penyata tahunannya yang beraudit terakhir sekali, akaun untung rugi, penyata yang menyatakan sumber-sumber, peng- untukan dan penggunaan wangnya dan laporan juruaudit di bawah seksyen 16 (2).
+<!-- marginal: Penyata- -->
+
+17. (1) Dalam masa tiga bulan selepas penutupan setiap
+
+<!-- marginal: penyata -->
+
+tahun kewangan sesuatu bank luar pesisir berlesen atau
+
+<!-- marginal: kewangan -->
+
+<!-- marginal: hendaklah -->
+
+apa-apa tempoh lanjut sebagaimana yang diluluskan oleh
+
+<!-- marginal: dikemukakan -->
+
+Bank, bank luar pesisir berlesen hendaklah
+
+<!-- marginal: kepada -->
+
+mengemukakan kepada Bank, berkenaan dengan
+
+<!-- marginal: Bank. -->
+
+keseluruhan operasinya dalam, dari dan melalui Wilayah Persekutuan Labuan, dua salinan bagi setiap satu penyata tahunannya yang beraudit terakhir sekali, akaun untung rugi, penyata yang menyatakan sumber-sumber, peng- untukan dan penggunaan wangnya dan laporan juruaudit di bawah seksyen 16 (2).
 
 (2) Suatu bank luar pesisir berlesen hendaklah mengemukakan kepada Bank empat salinan bagi setiap satu dokumen yang dinyatakan di dalam subseksyen (1) sebagaimana yang diluluskan mengikut dokumen konstituennya oleh peserta-pesertanya dalam masa empat belas hari daripada kelulusan tersebut.
 
-Statistik dan 18. (1) Tiap-tiap bank luar pesisir berlesen hendaklah, maklumat atas permintaan, mengemukakan kepada Bank suatu hendaklah dikemukakan pernyataan yang menunjukkan aset dan liabiliti bank luar kepada pesisir berlesen berhubung dengan perniagaan bank luar Bank. pesisirnya dalam Wilayah Persekutuan Labuan.
+<!-- marginal: Statistik dan -->
+
+18. (1) Tiap-tiap bank luar pesisir berlesen hendaklah,
+
+<!-- marginal: maklumat -->
+
+atas permintaan, mengemukakan kepada Bank suatu
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: dikemukakan -->
+
+pernyataan yang menunjukkan aset dan liabiliti bank luar
+
+<!-- marginal: kepada -->
+
+pesisir berlesen berhubung dengan perniagaan bank luar
+
+<!-- marginal: Bank. -->
+
+pesisirnya dalam Wilayah Persekutuan Labuan.
 
 (2) Apa-apa maklumat yang diterima daripada suatu bank luar pesisir berlesen di bawah seksyen ini hendaklah menjadi rahsia di antara bank luar pesisir berlesen itu dan Bank.
 
@@ -642,13 +794,39 @@ suatu perbuatan yang berlanggaran dengan subseksyen (1) adalah melakukan suatu k
 
 ## BAHAGIAN
 
-<!-- marginal: IV -->
+IV
 
 ## KERAHSIAAN
 
-Sekatan
+<!-- marginal: Sekatan -->
 
-21. Tiada apa-apa pun dalam Akta ini boleh membenar- penyiasatan kan Menteri untuk mengarahkan Bank, atau membenar- secara khusus kan Bank, supaya menyiasat secara khusus identiti, akaun mengenai dan hal-ehwal mana-mana pelanggan tertentu mana-mana hal-ehwal pelanggan bank luar pesisir berlesen. tertentu. Kerahsiaan. 22. (1) Tiada pengarah atau pegawai mana-mana bank luar pesisir berlesen, sama ada sepanjang tempoh jawatan- nya, atau sepanjang tempoh pekerjaaannya, atau selepas itu, dan tiada seorang pun termasuk Bank, pengarah- pengarah atau pegawai-pegawainya yang kerana apa-apa sebab, mempunyai akses kepada apa-apa rekod, buku, daftar, surat-menyurat, dokumen lain atau apa-apa jua pun bahan, yang berhubungan dengan hal-ehwal atau akaun mana-mana pelanggan tertentu bank luar pesisir berlesen itu, boleh mendedahkan, kepada mana-mana orang, atau membuat suatu rekod bagi mana-mana orang, apa-apa maklumat atau apa-apa jua pun dokumen yang ber- hubungan dengan hal-ehwal atau akaun pelanggan bank luar pesisir itu.
+21. Tiada apa-apa pun dalam Akta ini boleh membenar-
+
+<!-- marginal: penyiasatan -->
+
+kan Menteri untuk mengarahkan Bank, atau membenar-
+
+<!-- marginal: secara -->
+
+<!-- marginal: khusus -->
+
+kan Bank, supaya menyiasat secara khusus identiti, akaun
+
+<!-- marginal: mengenai -->
+
+dan hal-ehwal mana-mana pelanggan tertentu mana-mana
+
+<!-- marginal: hal-ehwal -->
+
+<!-- marginal: pelanggan -->
+
+bank luar pesisir berlesen.
+
+<!-- marginal: tertentu. -->
+
+<!-- marginal: Kerahsiaan. -->
+
+22. (1) Tiada pengarah atau pegawai mana-mana bank luar pesisir berlesen, sama ada sepanjang tempoh jawatan- nya, atau sepanjang tempoh pekerjaaannya, atau selepas itu, dan tiada seorang pun termasuk Bank, pengarah- pengarah atau pegawai-pegawainya yang kerana apa-apa sebab, mempunyai akses kepada apa-apa rekod, buku, daftar, surat-menyurat, dokumen lain atau apa-apa jua pun bahan, yang berhubungan dengan hal-ehwal atau akaun mana-mana pelanggan tertentu bank luar pesisir berlesen itu, boleh mendedahkan, kepada mana-mana orang, atau membuat suatu rekod bagi mana-mana orang, apa-apa maklumat atau apa-apa jua pun dokumen yang ber- hubungan dengan hal-ehwal atau akaun pelanggan bank luar pesisir itu.
 
 (2) Tiada seorang pun yang mempunyai apa-apa maklumat atau dokumen yang pada pengetahuannya telah didedahkan melalui pelanggaran subseksyen (1) boleh, dalam apa-apa cara jua pun mendedahkannya kepada mana-mana orang lain.
 
@@ -700,9 +878,27 @@ menentusahkan pengemukaan bank luar pesisir itu di bawah seksyen 17 dan 18: Deng
 
 ## PERUNTUKAN-PERUNTUKAN AM
 
-Penalti am. 24. (1) Mana-mana orang yang melanggar mana-mana peruntukan Akta ini adalah melakukan suatu kesalahan. (2) Seseorang yang melakukan suatu kesalahan di bawah seksyen 4, 7(3), 10, 15, 22(1) atau 22(2) apabila disabitkan boleh dipenjara bagi tempoh tidak melebihi lima tahun atau didenda tidak melebihi sepuluh juta ringgit atau kedua-duanya, dan dalam hal suatu kesalahan yang berterusan, hendaklah, sebagai tambahan, dikenakan denda harian tidak melebihi sepuluh ribu ringgit bagi tiap-tiap hari yang kesalahan itu dilakukan. (3) Seseorang yang melakukan suatu kesalahan yang baginya tiada penalti diperuntukkan dengan nyata di dalam Akta ini boleh, apabila disabitkan, dipenjara bagi tempoh tidak melebihi tiga tahun atau didenda tidak melebihi lima juta ringgit atau kedua-duanya, dan dalam hal suatu kesalahan yang berterusan, hendaklah, sebagai tambahan, dikenakan denda harian tidak melebihi lima ribu ringgit bagi tiap-tiap hari yang kesalahan itu di- lakukan.
+<!-- marginal: Penalti am. -->
 
-Kuasa untuk 25. (1) Gabenor boleh, dengan persetujuan Menteri, mengkom- dalam hal di mana difikirkannya layak dan patut untuk paun kesalahan- berbuat demikian, mengkompaunkan apa-apa kesalahan kesalahan. yang dilakukan oleh mana-mana orang yang boleh dihukum di bawah Akta ini, dengan membuat suatu tawaran bertulis kepada orang itu untuk mengkompaunkan kesalahan itu dengan membayar kepada Gabenor, dalam masa yang boleh ditentukan dalam tawaran itu, apa-apa jumlah wang, sebagaimana yang boleh ditentukan, yang tidaklah boleh melebihi lima puluh peratus daripada amaun denda maksimum yang boleh dikenakan kepada orang itu jika dia telah disabitkan atas kesalahan itu.
+24. (1) Mana-mana orang yang melanggar mana-mana peruntukan Akta ini adalah melakukan suatu kesalahan. (2) Seseorang yang melakukan suatu kesalahan di bawah seksyen 4, 7(3), 10, 15, 22(1) atau 22(2) apabila disabitkan boleh dipenjara bagi tempoh tidak melebihi lima tahun atau didenda tidak melebihi sepuluh juta ringgit atau kedua-duanya, dan dalam hal suatu kesalahan yang berterusan, hendaklah, sebagai tambahan, dikenakan denda harian tidak melebihi sepuluh ribu ringgit bagi tiap-tiap hari yang kesalahan itu dilakukan. (3) Seseorang yang melakukan suatu kesalahan yang baginya tiada penalti diperuntukkan dengan nyata di dalam Akta ini boleh, apabila disabitkan, dipenjara bagi tempoh tidak melebihi tiga tahun atau didenda tidak melebihi lima juta ringgit atau kedua-duanya, dan dalam hal suatu kesalahan yang berterusan, hendaklah, sebagai tambahan, dikenakan denda harian tidak melebihi lima ribu ringgit bagi tiap-tiap hari yang kesalahan itu di- lakukan.
+
+<!-- marginal: Kuasa untuk -->
+
+25. (1) Gabenor boleh, dengan persetujuan Menteri,
+
+<!-- marginal: mengkom- -->
+
+dalam hal di mana difikirkannya layak dan patut untuk
+
+<!-- marginal: paun -->
+
+<!-- marginal: kesalahan- -->
+
+berbuat demikian, mengkompaunkan apa-apa kesalahan
+
+<!-- marginal: kesalahan. -->
+
+yang dilakukan oleh mana-mana orang yang boleh dihukum di bawah Akta ini, dengan membuat suatu tawaran bertulis kepada orang itu untuk mengkompaunkan kesalahan itu dengan membayar kepada Gabenor, dalam masa yang boleh ditentukan dalam tawaran itu, apa-apa jumlah wang, sebagaimana yang boleh ditentukan, yang tidaklah boleh melebihi lima puluh peratus daripada amaun denda maksimum yang boleh dikenakan kepada orang itu jika dia telah disabitkan atas kesalahan itu.
 
 <!-- page 23 -->
 
@@ -734,15 +930,59 @@ peraturan yang perlu atau suaimanfaat untuk memberi kesan penuh kepada peruntuka
 
 untuk menjalankan atau mencapai tujuan-tujuan dan maksud-maksud Akta ini atau mana-mana peruntukan Akta ini, atau untuk melaksanakan peruntukan- peruntukan Akta ini dengan lebih lanjut, lebih baik atau lebih mudah, termasuk peraturan-peraturan bagi mengawal pemberian kemudahan kredit oleh bank luar pesisir Malaysia berlesen kepada satu orang atau pengarah-pengarahnya, pegawai-pegawai atau orang lain yang bersekutu dengan pengarah-pengarah atau pegawai- pegawai tersebut.
 
-Pemakaian 28. (1) Sebagai tambahan kepada Akta ini, Akta Syarikat Akta Syari- Luar Pesisir 1990 hendaklah terpakai kepada suatu bank kat Luar Pesisir 1990 luar pesisir yang adalah suatu syarikat luar pesisir atau dan Akta syarikat luar pesisir asing, dan Akta Syarikat 1965 Syari- hendaklah terpakai kepada suatu bank luar pesisir yang kat 1965. Akta 125. adalah suatu pejabat bagi suatu bank Malaysia yang di- tubuhkan di bawah Akta itu.
+<!-- marginal: Pemakaian -->
+
+28. (1) Sebagai tambahan kepada Akta ini, Akta Syarikat
+
+<!-- marginal: Akta Syari- -->
+
+Luar Pesisir 1990 hendaklah terpakai kepada suatu bank
+
+<!-- marginal: kat Luar -->
+
+<!-- marginal: Pesisir 1990 -->
+
+luar pesisir yang adalah suatu syarikat luar pesisir atau
+
+<!-- marginal: dan Akta -->
+
+syarikat luar pesisir asing, dan Akta Syarikat 1965
+
+<!-- marginal: Syari- -->
+
+hendaklah terpakai kepada suatu bank luar pesisir yang
+
+<!-- marginal: kat 1965. -->
+
+<!-- marginal: Akta 125. -->
+
+adalah suatu pejabat bagi suatu bank Malaysia yang di- tubuhkan di bawah Akta itu.
 
 (2) Jika terdapat percanggahan atau ketakkonsistenan di antara peruntukan-peruntukan Akta ini dan Akta-Akta lain yang disebut dalam subseksyen (1) dalam pemakaian- nya masing-masing bagi bank luar pesisir, peruntukan- peruntukan Akta ini hendaklah terpakai.
 
 (3) Jika apa-apa kesulitan atau keraguan berbangkit dalam pemakaian subseksyen (1) berhubungan dengan mana-mana bank luar pesisir berlesen tertentu, atau apa- apa perkara atau hal keadaan tertentu, atau pada amnya, Menteri boleh, apabila kesulitan atau keraguan itu di- rujukkan kepadanya oleh Bank, menyelesaikannya melalui suatu arahan bertulis.
 
-Pemakaian -
+<!-- marginal: Pemakaian - -->
 
-29. (1) Tertakluk kepada subseksyen (2) tiada apa-apa Akta pun dalam Akta ini boleh menyentuh peruntukan- Kawalan Pertukaran peruntukan Akta Kawalan Pertukaran 1953, dan dalam 1953 pemakaian mana-mana peruntukan Akta ini, bagi mana- Akta 17. mana orang atau bank luar pesisir berlesen, maka peruntukan itu hendaklah dipakai tertakluk kepada peruntukan-peruntukan Akta tersebut.
+29. (1) Tertakluk kepada subseksyen (2) tiada apa-apa
+
+<!-- marginal: Akta -->
+
+pun dalam Akta ini boleh menyentuh peruntukan-
+
+<!-- marginal: Kawalan -->
+
+<!-- marginal: Pertukaran -->
+
+peruntukan Akta Kawalan Pertukaran 1953, dan dalam
+
+<!-- marginal: 1953 -->
+
+pemakaian mana-mana peruntukan Akta ini, bagi mana-
+
+<!-- marginal: Akta 17. -->
+
+mana orang atau bank luar pesisir berlesen, maka peruntukan itu hendaklah dipakai tertakluk kepada peruntukan-peruntukan Akta tersebut.
 
 (2) Jika terdapat apa-apa percanggahan atau ketak- konsistenan di antara mana-mana peruntukan Akta ini dan
 
@@ -828,109 +1068,45 @@ suatu bank luar pesisir berlesen boleh, tanpa pengemukaan surat kuasa probet ata
 
 ## MAKNA PENGARAH
 
-Ruang Pertama Ruang Kedua
+<!-- marginal: Ruang Pertama -->
 
-<!-- marginal: Ruang Ketiga -->
+Ruang Kedua Ruang Ketiga Ruang Keempat
 
-<!-- marginal: Ruang Keempat -->
+<!-- marginal: (orang) -->
 
-(orang) (pengarah)
+(pengarah) (penubuhan) (peserta)
 
-<!-- marginal: (penubuhan) -->
+<!-- marginal: Perbadanan -->
 
-<!-- marginal: (peserta) -->
+Seseorang yang pemerbadanan pemegang syer berkedudukan sebagai pengarah perbadanan, dengan apa jua nama dipanggil, dan termasuklah seseorang yang menurut arahan atau petunjuknya pengarah-pengarah perbadanan biasa bertindak, dan pengarah giliran atau ganti
 
-Perbadanan Seseorang yang
+<!-- marginal: Persatuan -->
 
-<!-- marginal: pemerbadanan -->
-
-<!-- marginal: pemegang syer -->
-
-berkedudukan sebagai pengarah perbadanan, dengan apa jua nama dipanggil, dan termasuklah seseorang yang menurut arahan atau petunjuknya pengarah-pengarah perbadanan biasa bertindak, dan pengarah giliran atau ganti
-
-Persatuan Ahli lembaga atau didaftarkan,
-
-<!-- marginal: ahli -->
-
-koperasi badan pengelola
-
-<!-- marginal: diperbadankan -->
-
-lain persatuan
-
-<!-- marginal: atau sebaliknya -->
-
-koperasi tersebut, ujud dengan sah walau apa jua
-
-<!-- marginal: sebagai persatuan -->
-
-nama diberi
+Ahli lembaga atau didaftarkan, ahli
 
 <!-- marginal: koperasi -->
 
-Badan berkanun Ahli lembaga,
+badan pengelola diperbadankan lain persatuan atau sebaliknya koperasi tersebut, ujud dengan sah walau apa jua sebagai persatuan nama diberi koperasi
 
-<!-- marginal: kewujudannya -->
+Badan berkanun Ahli lembaga, kewujudannya pemegang syer jawatankuasa, di bawah undang- atau, jika badan majlis atau badan undang yang berkanun itu tiada pengelola lain menubuh, syer modal, badan berkanun melantik atau seseorang yang itu walau apa jua mengandunginya keseluruhannya, nama diberi berasingan atau atau bersama dengan orang lain memiliki badan berkanun itu
 
-<!-- marginal: pemegang syer -->
+<!-- marginal: Pekongsian -->
 
-jawatankuasa,
+rakan kongsi pembentukannya rakan kongsi
 
-<!-- marginal: di bawah undang- atau, jika badan -->
+<!-- marginal: Perniagaan -->
 
-majlis atau badan undang yang
+pemilik tunggal jika pendaftaran pemilik tunggal
 
-<!-- marginal: berkanun itu tiada -->
+<!-- marginal: tunggal -->
 
-pengelola lain
-
-<!-- marginal: menubuh, -->
-
-<!-- marginal: syer modal, -->
-
-badan berkanun melantik atau
-
-<!-- marginal: seseorang yang -->
-
-itu walau apa jua mengandunginya keseluruhannya, nama diberi
-
-<!-- marginal: berasingan atau -->
-
-<!-- marginal: atau bersama -->
-
-<!-- marginal: dengan orang lain -->
-
-<!-- marginal: memiliki badan -->
-
-<!-- marginal: berkanun itu -->
-
-Pekongsian rakan kongsi
-
-<!-- marginal: pembentukannya rakan kongsi -->
-
-Perniagaan pemilik tunggal
-
-<!-- marginal: jika pendaftaran pemilik tunggal -->
-
-tunggal
-
-<!-- marginal: atau bentuk pera- -->
-
-<!-- marginal: kaman atau peng- -->
-
-<!-- marginal: iktirafan lain dike- -->
-
-<!-- marginal: hendaki sebelum -->
-
-<!-- marginal: aktiviti atau per- -->
-
-<!-- marginal: niagaan boleh -->
-
-<!-- marginal: dengan sah di- -->
+atau bentuk pera- kaman atau peng- iktirafan lain dike- hendaki sebelum aktiviti atau per- niagaan boleh dengan sah di-
 
 <!-- page 27 -->
 
-Ruang Pertama Ruang Kedua Ruang Ketiga Ruang Keempat (orang) (mengarah) (penubuhan) (peserta)
+Ruang Pertama Ruang Kedua Ruang Ketiga Ruang Keempat (orang) (mengarah) (penubuhan)
+
+<!-- marginal: (peserta) -->
 
 mulakan. adalah pendaftaran perakaman atau pengiktirafan undang-undang di bawah undang- undang yang terpakai
 
@@ -968,7 +1144,11 @@ Fasal 2 (2) menjelaskan jika mana-mana orang dikehendaki mengemukakan memberi at
 
 <!-- page 29 -->
 
-5. Fasal 4 melarang mana-mana orang daripada menjalankan perniagaan bank luar pesisir melainkan orang itu adalah suatu syarikat luar pesisir atau suatu syarikat luar pesisir asing yang ditubuhkan atau didaharkan, mengikut mana yang berkenaan, di bawah Akta Syarikat Luar Pesisir 1990 yang dicadangkan itu, atau suatu bank Malaysia, dan memegang surat lesen yang diberikan di bawah Fasal 6 (2) untuk menjalankan perniagaan bank luar pesisir. 6. Fasal 5 menyatakan prosidur bagi permohonan untuk suatu lesen bank luar pesisir dan dokumen-dokumen termasuklah penyata- penyata kewangan yang hendak dikemukakan bersama-sama per- mohonan itu. Pemohon adalah juga dikehendaki mendapatkan suatu jaminan dan hendaklah memberi suatu akujanji untuk memenuhi obligasi-obligasi kewangan yang dikenakan di bawah Rang Undang- Undang ini dan menjelaskan tanggungan-tanggungannya berkenaan dengan perniagaannya dalam Wilayah Persekutuan Labuan dan tidak akan menukar peserta-pesertanya yang memegang sepuluh peratus dari modal berbayarnya, atau lebih tanpa kelulusan bank. Fasal 5 (4) membolehkan Bank mendapatkan maklumat atau dokumen-dokumen tambahan sebagaimana ia kehendaki bagi tujuan menentukan kesesuaian pemohon untuk lesen itu. 7. Fasal 6 (2) memberi kuasa kepada Menteri. selepas menimbang- kan permohonan itu dan syor Bank mengenainya di bawah Fasal 6 (1) untuk sama ada memberi atau enggan memberi lesen itu. Bank adalah dikehendaki dengan segera memberitahu pemohon secara bertulis sama ada permohonannyg. dibenarkan ataupun ditolak. Apa-apa lesen yang diberikan kepada pemohon di bawah fasal 6 (2) adalah ditegah daripada dipindahmilik kepada orang lain. Setiap lesen yang diberi kepada mana-mana pemohon di bawah Fasal 6 (2) hendaklah diberi- kan nombor lesen yang tertentu dan, di bawah fasal 6 (4), Bank adalah dikehendaki dengan segera memberitahu setiap pemohon, yang mana permohonan untuk lesennya diluluskan, nombor lesennya. Fasal 6 (5) menyatakan lesen yang diberi kepada pemohon yang belum memper- badankan syarikatnya atau mendaftarkan'syarikatnya di bawah Akta Syarikat Luar Pesisir 1990 dicadangkan itu, akan hanya berkuatkuasa pada tarikh syarikat itu diperbadankan atau didaftarkan. 8. Fasal 7 (I) dan (2) menghendaki bank luar pesisir berlesen melekatkan atau mengecat dengan jelas di pejabat-pejabatnya dan juga mencetak dengan terang di atas kertasnya dan iklannya namanya, perkataan-perkataan "bank luar pesisir berlesen" dan nombor lesennya. Fasal 7 (3) melarang penggunaan ungkapan "bank luar pesisir" atau terbitan-terbitannya dalam apa-apa bahasa oleh seseorang yang bukan bank luar pesisir berlesen. 9. Fasal 8 menyatakan alasan-alasan bagi pembatalan lesen. Ini termasuklah, antara lain, pelanggaran mana-mana undang-undang bertulis, pemberian apa-apa maklumat palsu atau mengelirukan ber- hubungan dengan suatu permohonan untuk suatu lesen dan kegagalan untuk memenuhi apa-apa jaminan atau akujanji yang diberi ber- hubung dengan permohonan untuk lesen tersebut.
+5. Fasal 4 melarang mana-mana orang daripada menjalankan perniagaan bank luar pesisir melainkan orang itu adalah suatu syarikat luar pesisir atau suatu syarikat luar pesisir asing yang ditubuhkan atau didaharkan, mengikut mana yang berkenaan, di bawah Akta Syarikat Luar Pesisir 1990 yang dicadangkan itu, atau suatu bank Malaysia, dan memegang surat lesen yang diberikan di bawah Fasal 6 (2) untuk menjalankan perniagaan bank luar pesisir.
+
+6. Fasal 5 menyatakan prosidur bagi permohonan untuk suatu lesen bank luar pesisir dan dokumen-dokumen termasuklah penyata- penyata kewangan yang hendak dikemukakan bersama-sama per- mohonan itu. Pemohon adalah juga dikehendaki mendapatkan suatu jaminan dan hendaklah memberi suatu akujanji untuk memenuhi obligasi-obligasi kewangan yang dikenakan di bawah Rang Undang- Undang ini dan menjelaskan tanggungan-tanggungannya berkenaan dengan perniagaannya dalam Wilayah Persekutuan Labuan dan tidak akan menukar peserta-pesertanya yang memegang sepuluh peratus dari modal berbayarnya, atau lebih tanpa kelulusan bank. Fasal 5 (4) membolehkan Bank mendapatkan maklumat atau dokumen-dokumen tambahan sebagaimana ia kehendaki bagi tujuan menentukan kesesuaian pemohon untuk lesen itu.
+
+7. Fasal 6 (2) memberi kuasa kepada Menteri. selepas menimbang- kan permohonan itu dan syor Bank mengenainya di bawah Fasal 6 (1) untuk sama ada memberi atau enggan memberi lesen itu. Bank adalah dikehendaki dengan segera memberitahu pemohon secara bertulis sama ada permohonannyg. dibenarkan ataupun ditolak. Apa-apa lesen yang diberikan kepada pemohon di bawah fasal 6 (2) adalah ditegah daripada dipindahmilik kepada orang lain. Setiap lesen yang diberi kepada mana-mana pemohon di bawah Fasal 6 (2) hendaklah diberi- kan nombor lesen yang tertentu dan, di bawah fasal 6 (4), Bank adalah dikehendaki dengan segera memberitahu setiap pemohon, yang mana permohonan untuk lesennya diluluskan, nombor lesennya. Fasal 6 (5) menyatakan lesen yang diberi kepada pemohon yang belum memper- badankan syarikatnya atau mendaftarkan'syarikatnya di bawah Akta Syarikat Luar Pesisir 1990 dicadangkan itu, akan hanya berkuatkuasa pada tarikh syarikat itu diperbadankan atau didaftarkan. 8. Fasal 7 (I) dan (2) menghendaki bank luar pesisir berlesen melekatkan atau mengecat dengan jelas di pejabat-pejabatnya dan juga mencetak dengan terang di atas kertasnya dan iklannya namanya, perkataan-perkataan "bank luar pesisir berlesen" dan nombor lesennya. Fasal 7 (3) melarang penggunaan ungkapan "bank luar pesisir" atau terbitan-terbitannya dalam apa-apa bahasa oleh seseorang yang bukan bank luar pesisir berlesen. 9. Fasal 8 menyatakan alasan-alasan bagi pembatalan lesen. Ini termasuklah, antara lain, pelanggaran mana-mana undang-undang bertulis, pemberian apa-apa maklumat palsu atau mengelirukan ber- hubungan dengan suatu permohonan untuk suatu lesen dan kegagalan untuk memenuhi apa-apa jaminan atau akujanji yang diberi ber- hubung dengan permohonan untuk lesen tersebut.
 
 <!-- page 30 -->
 
@@ -1002,13 +1182,11 @@ ke atas akaun-akaunnya. mengulas mengenai sistem perakaunan dan kawalannya dan m
 
 <!-- page 32 -->
 
-dipenjara bagi tempoh tidak melebihi sepuluh tahun atau didenda tidak melebehi lima juta ringgit atau kedua-duanya sekali. 22. Fasal 21 menyekat Menteri daripada mengarah Bank, dan bank itu sendiri daripada, menyiasat secara khusus mengenai identiti, akaun dan hal ehwal mana-mana pelanggan tertentu mana-mana bank luar pesisir berlesen.
+dipenjara bagi tempoh tidak melebihi sepuluh tahun atau didenda tidak melebehi lima juta ringgit atau kedua-duanya sekali.
 
-23. Fasal 22 memperuntukkan mengenai kerahsiaan bank, khususnya bagi penyenggaraan kerahsiaan maklumat berhubungan dengan hal ehwal atau akaun mana-mana pelanggan tertentu bank luar pesisir berlesen dan melarang pendedahan maklumat sedemikian oleh pengarah-pengarah dan pegawai-pegawai bank luar pesisir dan oleh mana-mana orang, termasuklah Bank Negara Malaysia dan pengarah- pengarahnya dan pegawai-pegawainya, yang untuk apa-apa sebab pun mempunyai akses kepada mana-mana rekod, buku, daftar atau surat menyurat pelanggan itu.
+22. Fasal 21 menyekat Menteri daripada mengarah Bank, dan bank itu sendiri daripada, menyiasat secara khusus mengenai identiti, akaun dan hal ehwal mana-mana pelanggan tertentu mana-mana bank luar pesisir berlesen.
 
-<!-- marginal: la juga melarang mana-mana orang -->
-
-yang memiliki apa-apa maklumat atau dokumen dengan menyalahi fasal 22 (1) daripada mendedahkan selanjutnya maklumat atau dokumen tersebut kepada mana-mana orang. Larangan tersebut, walau bagaimanapun tidaklah terpakai berhubungan dengan pendedahan apa-apa maklumat atau dokumen di bawah suatu perintah Mahkamah Tinggi dalam keadaan-keadaan yang dinyatakan di dalam fasal ini. Tambahan lagi, peruntukan Akta Bank Banker (Keterangan) 1949, kecuali seksyen 7, adalah masih terpakai kepada bank-bank luar pesisir berlesen. 24. Fasal 23 memberi kuasa kepada Bank untuk memeriksa, di bawah keadaan kerahsiaan, buku-buku dan dokumen-dokumen lain bank luar pesisir untuk menentusahkan pengemukaan-pengemukaan yang dibuat di bawah fasal 17 dan 18. Proviso kepada fasal ini menjelaskan bahawa kuasa untuk memeriksa buku-buku dan dokumen-dokumen di bawah fasal ini tidaklah membenarkan Bank menyiasat secara khusus mengenai identiti, akaun atau hal ehwal mana-mana pelanggan tertentu bank luar pesisir.
+23. Fasal 22 memperuntukkan mengenai kerahsiaan bank, khususnya bagi penyenggaraan kerahsiaan maklumat berhubungan dengan hal ehwal atau akaun mana-mana pelanggan tertentu bank luar pesisir berlesen dan melarang pendedahan maklumat sedemikian oleh pengarah-pengarah dan pegawai-pegawai bank luar pesisir dan oleh mana-mana orang, termasuklah Bank Negara Malaysia dan pengarah- pengarahnya dan pegawai-pegawainya, yang untuk apa-apa sebab pun mempunyai akses kepada mana-mana rekod, buku, daftar atau surat menyurat pelanggan itu. la juga melarang mana-mana orang yang memiliki apa-apa maklumat atau dokumen dengan menyalahi fasal 22 (1) daripada mendedahkan selanjutnya maklumat atau dokumen tersebut kepada mana-mana orang. Larangan tersebut, walau bagaimanapun tidaklah terpakai berhubungan dengan pendedahan apa-apa maklumat atau dokumen di bawah suatu perintah Mahkamah Tinggi dalam keadaan-keadaan yang dinyatakan di dalam fasal ini. Tambahan lagi, peruntukan Akta Bank Banker (Keterangan) 1949, kecuali seksyen 7, adalah masih terpakai kepada bank-bank luar pesisir berlesen. 24. Fasal 23 memberi kuasa kepada Bank untuk memeriksa, di bawah keadaan kerahsiaan, buku-buku dan dokumen-dokumen lain bank luar pesisir untuk menentusahkan pengemukaan-pengemukaan yang dibuat di bawah fasal 17 dan 18. Proviso kepada fasal ini menjelaskan bahawa kuasa untuk memeriksa buku-buku dan dokumen-dokumen di bawah fasal ini tidaklah membenarkan Bank menyiasat secara khusus mengenai identiti, akaun atau hal ehwal mana-mana pelanggan tertentu bank luar pesisir.
 
 25. Fasal 24 (1) menjadikan apa-apa pelanggaran mana-mana peruntukan Rang Undang-Undang ini suatu kesalahan jenayah. Fasal 24 (2) memperuntukkan hukuman bagi kesalahan-kesalahan yang lebih serius di bawah Rang Undang-Undang ini, khususnya, pelanggaran fasal 4, 10, 15, 22 (1) dan fasal 22 (2), iaitu suatu tempoh penjaraan tidak melebihi lima tahun atau suatu denda tidak melebihi sepuluh juta ringgit atau kedua-duanya, dan dalam hal kesalahan yang berterusan, tambahan denda harian sepuluh ribu ringgit bagi tiap-tiap hari kesalahan itu terus dilakukan. Bagi kesalahan-kesalahan lain di bawah Rang Undang-Undang ini fasal 24
 

@@ -6,7 +6,7 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -16,7 +16,7 @@
 
 3. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## JABATAN STATISTIK MALAYSIA
 
@@ -26,7 +26,7 @@
 
 6. Pewakilan kuasa
 
-## Bahagian III
+## BAHAGIAN III
 
 ## MAJLIS STATISTIK NEGARA
 
@@ -42,7 +42,7 @@
 
 <!-- page 2 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PENGUMPULAN, PENERBITAN DAN KOMUNIKASI DATA
 
@@ -52,7 +52,7 @@
 
 14. Penerbitan dan komunikasi data dan statistik
 
-## Bahagian V
+## BAHAGIAN V
 
 AM
 
@@ -68,7 +68,7 @@ AM
 
 20. Pendakwaan
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PEMANSUHAN
 
@@ -84,7 +84,7 @@ Suatu Akta untuk mengadakan peruntukan bagi fungsi Jabatan Statistik Malaysia, p
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -128,7 +128,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 5 -->
 
-## Bahagian II
+## BAHAGIAN II
 
 ## JABATAN STATISTIK MALAYSIA
 
@@ -184,7 +184,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (2) Pewakilan mana-mana kuasa di bawah seksyen ini tidak menghalang Ketua Perangkawan daripada menjalankan kuasa yang diwakilkan itu.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## MAJLIS STATISTIK NEGARA
 
@@ -260,7 +260,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 10 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PENGUMPULAN, PENERBITAN DAN KOMUNIKASI DATA
 
@@ -298,7 +298,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (4) Mana-mana orang yang melanggar subseksyen (1) melakukan kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit.
 
-## Bahagian V
+## BAHAGIAN V
 
 AM
 
@@ -354,7 +354,7 @@ lain Jabatan Statistik Malaysia, semasa atau selepas tempoh jawatan atau penggaj
 
 20. Tiada pendakwaan bagi sesuatu kesalahan di bawah Akta ini boleh dimulakan tanpa keizinan secara bertulis Pendakwa Raya.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PEMANSUHAN
 
@@ -376,7 +376,7 @@ lain Jabatan Statistik Malaysia, semasa atau selepas tempoh jawatan atau penggaj
 
 Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan peruntukan bagi fungsi Jabatan Statistik Malaysia, penubuhan Majlis Statistik Negara, perkara yang berkaitan dengan data dan statistik dan perkara lain yang berkaitan.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I Akta yang dicadangkan memperkatakan perkara permulaan.
 
@@ -386,7 +386,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan 
 
 5. Fasal 3 mengandungi takrif bagi perkataan dan ungkapan tertentu yang digunakan dalam Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 6. Bahagian II Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan Jabatan Statistik Malaysia.
 
@@ -396,7 +396,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan 
 
 9. Fasal 6 bertujuan untuk membolehkan Ketua Perangkawan untuk mewakilkan kuasanya kepada mana-mana Timbalan Ketua Perangkawan atau pegawai Jabatan Statistik Malaysia.
 
-## Bahagian III
+## BAHAGIAN III
 
 10. Bahagian III Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan Majlis Statistik Negara (“Majlis”).
 
@@ -412,7 +412,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan 
 
 15. Fasal 11 bertujuan untuk memberi Majlis kuasa untuk menubuhkan jawatankuasa dan untuk mengadakan peruntukan yang berhubungan dengannya.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 16. Bahagian IV Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan pengumpulan, penerbitan dan komunikasi data.
 
@@ -422,7 +422,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan 
 
 19. Fasal 14 bertujuan untuk mengadakan peruntukan bagi kehendak bagi penerbitan dan komunikasi data atau statistik. Fasal ini juga memperuntukkan bahawa permohonan bagi data atau statistik boleh dibuat dalam bentuk dan mengikut cara yang ditentukan oleh Ketua Perangkawan dan fi yang ditetapkan hendaklah dibayar.
 
-## Bahagian V
+## BAHAGIAN V
 
 20. Bahagian V Akta yang dicadangkan memperkatakan peruntukan am.
 
@@ -440,7 +440,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan 
 
 26. Fasal 20 bertujuan untuk memperuntukkan bahawa tiada pendakwaan boleh dimulakan bagi mana-mana kesalahan di bawah Akta yang dicadangkan tanpa keizinan bertulis Pendakwa Raya.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 27. Bahagian VI Akta yang dicadangkan memperkatakan peruntukan pemansuhan.
 

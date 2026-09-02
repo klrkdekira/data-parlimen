@@ -1,0 +1,2335 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-25-2025",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~art_74",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Pembaharuan Semula Bandar 2025"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~art_74",
+      "@type": "akn:article",
+      "eli:number": "74",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Fasal (4) Perkara 76 dan Fasal (3) Perkara 80"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perlembagaan Persekutuan, DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERMULAAN Tajuk ringkas, pemakaian dan permulaan kuat kuasa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_15"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PENTADBIRAN Jawatankuasa Eksekutif Persekutuan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_23"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PEMBAHARUAN SEMULA BANDAR Projek pembaharuan semula bandar"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_16__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_16__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud Akta ini, suatu projek pembaharuan semula bandar terdiri daripada yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "projek pembangunan semula bandar;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "projek penjanaan semula bandar;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_16__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "projek penyegaran semula bandar. Penggal 1 Pembangunan semula bandar dan penjanaan semula bandar Kehendak projek pembaharuan semula bandar"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_17__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_17__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_17__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_17__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_17__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_17__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_17__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud menjalankan suatu projek pembaharuan semula bandar di dalam suatu kawasan pembaharuan semula bandar, pemaju diluluskan hendaklah mematuhi kehendak yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_17__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk berunding dengan orang berkepentingan yang disebut dalam subseksyen 19(3);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mendapatkan persetujuan mengikut ambang persetujuan yang disebut dalam seksyen 19;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_17__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mendapatkan suatu laporan pemeriksaan visual oleh Jurutera Profesional dengan Perakuan Amalan berkenaan dengan pemeriksaan secara berkala di bawah Akta Jalan, Parit dan Bangunan 1974 [Akta 133];"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_17__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika suatu bangunan ialah bangunan terbengkalai, untuk memastikan suatu perakuan kelayakan menduduki atau perakuan penyiapan dan pematuhan tidak dikeluarkan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_17__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika suatu bangunan ialah bangunan terbiar, untuk memastikan sama ada bangunan itu diduduki, atau suatu perakuan kelayakan menduduki atau perakuan penyiapan dan pematuhan telah dikeluarkan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_17__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika suatu bangunan ialah bangunan yang disalah urus oleh perbadanan pengurusan yang mengakibatkan kemerosotan, untuk mengenal pasti kemerosotan struktur atau infrastruktur bangunan itu; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_17__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengenal pasti sama ada suatu bangunan menyebabkan kacau ganggu kepada penduduk umumnya. Laporan cadangan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_18__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_18__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika Jawatankuasa Eksekutif Negeri meminta Jawatankuasa Eksekutif Persekutuan untuk menjalankan projek pembaharuan semula bandar di mana-mana Negeri, Setiausaha Jawatankuasa Eksekutif Persekutuan hendaklah menyediakan suatu laporan cadangan bagi maksud menjalankan suatu projek pembaharuan semula bandar dalam bentuk dan mengikut cara sebagaimana yang ditentukan oleh Jawatankuasa Eksekutif Persekutuan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Setiausaha Jawatankuasa Eksekutif Persekutuan hendaklah mengemukakan laporan cadangan di bawah subseksyen (1) kepada Jawatankuasa Eksekutif Persekutuan untuk pertimbangannya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_18__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika Jawatankuasa Eksekutif Persekutuan bersetuju untuk menjalankan suatu projek pembaharuan semula bandar di Negeri itu, Jawatankuasa Eksekutif Persekutuan hendaklah memberikan arahan kepada badan yang dilantik di bawah seksyen 8 untuk mengeluarkan suatu dokumen cadangan kepada mana-mana pemaju yang layak. Ambang persetujuan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_19__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_19__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_19__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_19__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud menjalankan suatu projek pembaharuan semula bandar, ambang persetujuan adalah seperti yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_19__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_19__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika pemilik memohon secara sukarela kepada Jawatankuasa Eksekutif Persekutuan atau Jawatankuasa Eksekutif Negeri untuk menjalankan suatu projek pembaharuan semula bandar, ambang persetujuan hendaklah persetujuan sebulat suara; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_19__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_19__subsec_1__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_19__subsec_1__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_19__subsec_1__para_b__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_19__subsec_1__para_b__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_19__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika suatu projek pembaharuan semula bandar dijalankan oleh Jawatankuasa Eksekutif Persekutuan atau Jawatankuasa Eksekutif Negeri—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_19__subsec_1__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_19__subsec_1__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bagi suatu bangunan yang tiga puluh tahun atau kurang, ambang persetujuan hendaklah lapan puluh peratus;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_19__subsec_1__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_19__subsec_1__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bagi suatu bangunan yang lebih daripada tiga puluh tahun, ambang persetujuan hendaklah tujuh puluh lima peratus;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_19__subsec_1__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_19__subsec_1__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bagi suatu bangunan yang ditinggalkan, ambang persetujuan hendaklah lima puluh satu peratus; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_19__subsec_1__para_b__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_19__subsec_1__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bagi suatu bangunan yang suatu laporan pemeriksaan visual telah dikeluarkan oleh Jurutera Profesional dengan Perakuan Amalan di bawah perenggan 17(c), ambang persetujuan hendaklah lima puluh satu peratus."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud subperenggan (1)(b)(i) dan (ii), pengiraan tahun bagi suatu bangunan hendaklah ditentukan dari tarikh perakuan kelayakan menduduki atau perakuan penyiapan dan pematuhan di bawah Akta Jalan, Parit dan Bangunan 1974 dikeluarkan, mengikut mana-mana yang berkenaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_19__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud perenggan (1)(b), pemaju diluluskan hendaklah berunding dengan orang yang berkepentingan untuk mencapai ambang persetujuan dan perundingan itu hendaklah melibatkan pihak berkuasa tempatan dan badan yang dilantik oleh Jawatankuasa Eksekutif Persekutuan di bawah subseksyen 8(1) atau Jawatankuasa Eksekutif Negeri di bawah subseksyen 14(1), mengikut cara sebagaimana yang ditetapkan. Pemaju yang layak, dsb."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_20__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_20__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_20__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_20__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_20__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_20__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_20__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa Eksekutif Persekutuan boleh menentukan pemaju yang layak untuk menjalankan suatu projek pembaharuan semula bandar di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_20__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Setiausaha Jawatankuasa Eksekutif Persekutuan hendaklah menyimpan dan menyenggara suatu daftar pemaju yang layak di bawah subseksyen (1) dalam bentuk dan mengikut cara sebagaimana yang ditentukan oleh Jawatankuasa Eksekutif Persekutuan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_20__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pemaju yang layak yang disebut dalam subseksyen (1) boleh memohon untuk menyertai suatu projek pembaharuan semula bandar kepada Jawatankuasa Eksekutif Persekutuan atau Jawatankuasa Eksekutif Negeri, mengikut mana-mana yang berkenaan, dalam bentuk dan mengikut cara sebagaimana yang ditentukan oleh Jawatankuasa Eksekutif Persekutuan atau Jawatankuasa Eksekutif Negeri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_20__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_20__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_20__subsec_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_20__subsec_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Permohonan di bawah subseksyen (3) hendaklah disertakan dengan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_20__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_20__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu laporan kebolehlaksanaan projek;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_20__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_20__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu pelan perniagaan dalam tempoh tiga bulan dari tarikh dokumen cadangan dikeluarkan di bawah subseksyen 8(2), 14(2) atau 18(3); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_20__subsec_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_20__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "fi yang ditetapkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_20__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_20__subsec_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_20__subsec_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila permohonan di bawah subseksyen (3) diterima, Jawatankuasa Eksekutif Persekutuan atau Jawatankuasa Eksekutif Negeri boleh—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_20__subsec_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_20__subsec_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "meluluskan permohonan itu dan mengeluarkan surat kelulusan kepada pemaju diluluskan tertakluk kepada apa-apa terma dan syarat sebagaimana yang difikirkan patut oleh Jawatankuasa Eksekutif Persekutuan atau Jawatankuasa Eksekutif Negeri; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_20__subsec_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_20__subsec_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menolak permohonan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_20__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud subseksyen (5), Jawatankuasa Eksekutif Negeri hendaklah meminta daripada Jawatankuasa Eksekutif Persekutuan nasihatnya sebelum meluluskan permohonan itu. Perisytiharan kawasan pembaharuan semula bandar"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_21__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_21__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_21__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_21__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_21__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_21__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_21__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_21__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud suatu projek pembaharuan semula bandar di Wilayah-Wilayah Persekutuan Kuala Lumpur, Putrajaya dan Labuan, Menteri Wilayah Persekutuan boleh, melalui pemberitahuan dalam Warta, mengisytiharkan mana-mana kawasan sebagai suatu kawasan pembaharuan semula bandar."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_21__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud suatu projek pembaharuan semula bandar di Negeri, Pihak Berkuasa Negeri boleh, melalui pemberitahuan dalam Warta Negeri, mengisytiharkan mana-mana kawasan sebagai suatu kawasan pembaharuan semula bandar."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_21__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud suatu projek pembaharuan semula bandar di Negeri yang dijalankan oleh Jawatankuasa Eksekutif Persekutuan, Menteri boleh, melalui pemberitahuan dalam Warta, mengisytiharkan mana-mana kawasan sebagai suatu kawasan pembaharuan semula bandar."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_21__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada seksyen 19, apabila suatu kawasan diisytiharkan sebagai kawasan pembaharuan semula bandar, pemaju diluluskan hendaklah memindah milik atau mengambil milik mana-mana tanah diberi hakmilik yang terletak di dalam kawasan pembaharuan semula bandar melalui pembelian atau pengambilan paksa di bawah Akta Pengambilan Tanah 1960 [Akta 486]."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_21__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila perisytiharan suatu kawasan sebagai kawasan pembaharuan semula bandar di bawah subseksyen (1), (2) atau (3), pemaju diluluskan hendaklah memulakan projek pembaharuan semula bandar dalam tempoh dua puluh empat bulan dari tarikh perisytiharan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_21__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pemaju diluluskan boleh membuat suatu permohonan bagi pelanjutan masa bagi tempoh dua puluh empat bulan yang disebut dalam subseksyen (5) kepada Jawatankuasa Eksekutif Persekutuan atau Jawatankuasa Eksekutif Negeri, mengikut mana-mana yang berkenaan, mengikut cara sebagaimana yang ditetapkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_21__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa Eksekutif Persekutuan atau Jawatankuasa Eksekutif Negeri boleh melanjutkan tempoh yang disebut dalam subseksyen (5) sebagaimana yang difikirkannya patut dan sesuai. Penggal 2 Penyegaran semula bandar Ketidakpakaian Bahagian atau Penggal"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Peruntukan Bahagian II, Penggal I Bahagian III dan Bahagian IV tidak terpakai bagi projek penyegaran semula bandar. Projek penyegaran semula bandar"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_23__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_23__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_23__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_23__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_23__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_23__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud suatu projek penyegaran semula bandar, pihak berkuasa tempatan boleh menyampaikan suatu notis niat bagi pemulaan projek penyegaran semula bandar kepada mana-mana orang yang berkepentingan sebagaimana yang difikirkan suai manfaat oleh pihak berkuasa tempatan untuk menjalankan suatu projek penyegaran semula bandar."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_23__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila notis niat bagi pemulaan projek penyegaran semula bandar di bawah subseksyen (1) diterima, orang yang berkepentingan boleh hadir bagi perundingan dengan pihak berkuasa tempatan dalam tempoh masa sebagaimana yang dinyatakan dalam notis niat bagi pemulaan projek penyegaran semula bandar itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_23__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Selepas perundingan yang disebut dalam subseksyen (2) dimuktamadkan, orang yang berkepentingan itu boleh bersetuju atau enggan bersetuju dengan pemulaan projek penyegaran semula bandar itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_23__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pihak berkuasa tempatan tidak boleh menjalankan suatu projek penyegaran semula bandar tanpa persetujuan orang yang berkepentingan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_23__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_III__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perbelanjaan dan kos dalam menjalankan projek penyegaran semula bandar di bawah subseksyen (1) hendaklah dipersetujui antara pihak berkuasa tempatan dengan orang yang berkepentingan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu jawatankuasa dengan nama “Jawatankuasa Eksekutif Negeri” ditubuhkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2__para_l",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2__para_m",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2__para_n"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa Eksekutif Negeri hendaklah terdiri daripada anggota yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri Besar atau Ketua Menteri sebagai Pengerusi Jawatankuasa Eksekutif Negeri;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seorang anggota Majlis Mesyuarat Kerajaan Negeri yang dilantik oleh Pihak Berkuasa Negeri sebagai Timbalan Pengerusi Jawatankuasa Eksekutif Negeri;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tidak lebih daripada tiga orang anggota yang hendaklah dilantik oleh Pihak Berkuasa Negeri dalam kalangan anggota Majlis Mesyuarat Kerajaan Negeri;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Setiausaha Kerajaan Negeri;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengarah Perancangan Bandar dan Desa Negeri sebagai Setiausaha Jawatankuasa Eksekutif Negeri;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Yang di-Pertua, Datuk Bandar atau Pengerusi bagi pihak berkuasa tempatan yang menyertai suatu projek pembaharuan semula bandar;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seorang anggota yang bertanggungjawab bagi perkara perumahan di Negeri itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pegawai Kewangan Negeri;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Polis Negeri atau wakilnya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Penasihat Undang-Undang Negeri;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengarah Unit Perancang Ekonomi Negeri atau wakilnya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seorang wakil badan yang dilantik di bawah subseksyen 14(1);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2__para_m",
+      "@type": "akn:paragraph",
+      "eli:number": "m",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seorang wakil daripada mana-mana agensi Kerajaan sebagaimana yang ditentukan oleh Pengerusi Jawatankuasa Eksekutif Negeri; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2__para_n",
+      "@type": "akn:paragraph",
+      "eli:number": "n",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tidak lebih daripada dua orang anggota lain yang mempunyai pengetahuan dan pengalaman dalam apa-apa bidang yang berkaitan dengan pembaharuan semula bandar. Fungsi Jawatankuasa Eksekutif Negeri"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_11__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_11__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_11__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_11__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_11__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_11__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_11__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_11__subsec_1__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa Eksekutif Negeri hendaklah mempunyai fungsi yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_11__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk memperakukan cadangan projek pembaharuan semula bandar yang diterima daripada pemaju yang layak;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_11__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk meluluskan suatu kawasan pembaharuan semula bandar bagi maksud perisytiharan kawasan pembaharuan semula bandar setelah mendapat nasihat Jawatankuasa Eksekutif Persekutuan di bawah perenggan 6(1)(a);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_11__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menyelia laporan kemajuan projek pembaharuan semula bandar di Negeri secara berkala;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_11__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mencadangkan kepada Pihak Berkuasa Negeri suatu insentif yang boleh diberikan kepada mana-mana orang yang berkepentingan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_11__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk meluluskan pemaju yang layak untuk menjalankan suatu projek pembaharuan semula bandar di Negeri; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_11__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk melaksanakan apa-apa fungsi lain yang berhubungan dengan pembaharuan semula bandar bagi pelaksanaan yang wajar Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud pelaksanaan projek pembaharuan semula bandar yang dijalankan di Negeri, Jawatankuasa Eksekutif Negeri boleh mengarahkan pemaju diluluskan untuk menyediakan laporan kemajuan projek pembaharuan semula bandar."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_11__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa Eksekutif Negeri boleh menubuhkan apa-apa jawatankuasa kecil sebagaimana yang difikirkan perlu dan suai manfaat oleh Jawatankuasa Eksekutif Negeri dalam melaksanakan fungsinya. Mesyuarat Jawatankuasa Eksekutif Negeri"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_12__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_12__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa Eksekutif Negeri hendaklah mengadakan mesyuaratnya sekurang-kurangnya dua kali setahun dan mesyuarat hendaklah diadakan pada masa dan tempat sebagaimana yang ditentukan oleh Pengerusi Jawatankuasa Eksekutif Negeri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengerusi Jawatankuasa Eksekutif Negeri hendaklah mempengerusikan semua mesyuarat Jawatankuasa Eksekutif Negeri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_12__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa Eksekutif Negeri hendaklah menyebabkan minit semua mesyuaratnya disenggarakan dan disimpan dalam bentuk yang sepatutnya. Kewajipan Jawatankuasa Eksekutif Negeri untuk berunding"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa Eksekutif Negeri hendaklah berunding dengan Jawatankuasa Eksekutif Persekutuan mengenai projek pembaharuan semula bandar yang dijalankan di Negeri termasuk pemaju diluluskan di bawah perenggan 20(5)(a). Jawatankuasa Eksekutif Negeri boleh melantik badan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_14__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_14__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa Eksekutif Negeri boleh melantik suatu badan sebagaimana yang difikirkannya perlu dan suai manfaat untuk mengawasi pelaksanaan projek pembaharuan semula bandar."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Badan yang dilantik di bawah subseksyen (1) hendaklah mengeluarkan suatu dokumen cadangan kepada mana-mana pemaju yang layak mengikut arahan Jawatankuasa Eksekutif Negeri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_14__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Badan yang dilantik di bawah subseksyen (1) hendaklah melaksanakan apa-apa kewajipan lain sebagaimana yang diarahkan oleh Jawatankuasa Eksekutif Negeri. Setiausaha Jawatankuasa Eksekutif Negeri"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_15__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_15__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud menjalankan suatu projek pembaharuan semula bandar di Negeri, Setiausaha Jawatankuasa Eksekutif Negeri hendaklah menyediakan suatu laporan cadangan dalam bentuk dan mengikut cara sebagaimana yang ditentukan oleh Jawatankuasa Eksekutif Negeri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Laporan cadangan yang disediakan oleh Setiausaha Jawatankuasa Eksekutif Negeri yang telah diluluskan oleh Jawatankuasa Eksekutif Negeri hendaklah dikemukakan kepada Jawatankuasa Eksekutif Persekutuan untuk mendapatkan nasihatnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_15__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Setiausaha Jawatankuasa Eksekutif Negeri hendaklah menyediakan suatu laporan kemajuan projek pembaharuan semula bandar yang dijalankan di Negeri sebagaimana yang diarahkan oleh Jawatankuasa Eksekutif Persekutuan di bawah subseksyen 6(3)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu jawatankuasa dengan nama “Jawatankuasa Eksekutif Persekutuan” ditubuhkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2__para_l",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2__para_m"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa Eksekutif Persekutuan hendaklah terdiri daripada anggota yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri sebagai Pengerusi Jawatankuasa Eksekutif Persekutuan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seorang anggota Majlis Mesyuarat Kerajaan Negeri bagi tiap-tiap Negeri yang bertanggungjawab bagi dan portfolionya adalah berkaitan dengan perancangan bandar dan desa;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Setiausaha Kementerian Perumahan dan Kerajaan Tempatan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah Perancangan Bandar dan Desa sebagai Setiausaha Jawatankuasa Eksekutif Persekutuan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah Tanah dan Galian Persekutuan atau wakilnya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Setiausaha Perbendaharaan atau wakilnya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Polis Negara atau wakilnya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Yang di-Pertua, Datuk Bandar atau Pengerusi bagi pihak berkuasa tempatan yang menyertai suatu projek pembaharuan semula bandar;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tidak lebih daripada tiga orang anggota yang hendaklah dilantik oleh Menteri dalam kalangan penjawat awam;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengarah Unit Perancang Ekonomi Negeri bagi Negeri yang menyertai suatu projek pembaharuan semula bandar;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengarah Tanah dan Galian Negeri bagi Negeri yang menyertai suatu projek pembaharuan semula bandar;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seorang wakil badan yang dilantik di bawah subseksyen 8(1) atau 14(1); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2__para_m",
+      "@type": "akn:paragraph",
+      "eli:number": "m",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tidak lebih daripada dua orang anggota lain yang mempunyai pengetahuan dan pengalaman dalam apa-apa bidang yang berkaitan dengan pembaharuan semula bandar. Fungsi Jawatankuasa Eksekutif Persekutuan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6__subsec_1__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6__subsec_1__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa Eksekutif Persekutuan hendaklah mempunyai fungsi yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menasihati Jawatankuasa Eksekutif Negeri mengenai perisytiharan kawasan pembaharuan semula bandar yang disebut dalam seksyen 21;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menasihati Jawatankuasa Eksekutif Negeri mengenai kebolehlaksanaan projek pembaharuan semula bandar;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menyelia laporan kemajuan projek pembaharuan semula bandar secara berkala;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk memperakukan mana-mana pemaju diluluskan dan orang yang berkepentingan untuk menerima insentif sebagaimana yang ditetapkan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk melindungi kepentingan orang yang berkepentingan di bawah Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk meluluskan pemaju yang layak untuk menjalankan suatu projek pembaharuan semula bandar;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menasihati Jawatankuasa Eksekutif Negeri mengenai projek pembaharuan semula bandar termasuk pemaju yang layak; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6__subsec_1__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk melaksanakan apa-apa fungsi lain yang berhubungan dengan pembaharuan semula bandar bagi pelaksanaan yang wajar Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud pelaksanaan suatu projek pembaharuan semula bandar yang dijalankan di Wilayah-Wilayah Persekutuan Kuala Lumpur, Putrajaya dan Labuan, Jawatankuasa Eksekutif Persekutuan boleh mengarahkan pemaju diluluskan untuk menyediakan laporan kemajuan projek pembaharuan semula bandar itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud pelaksanaan suatu projek pembaharuan semula bandar yang dijalankan di Negeri, Jawatankuasa Eksekutif Persekutuan boleh mengarahkan Setiausaha Jawatankuasa Eksekutif Negeri untuk menyediakan laporan kemajuan projek pembaharuan semula bandar di Negeri itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila diminta oleh Jawatankuasa Eksekutif Negeri untuk menjalankan suatu projek pembaharuan semula bandar di Negeri, Jawatankuasa Eksekutif Persekutuan boleh mengarahkan pemaju diluluskan untuk menyediakan laporan kemajuan projek pembaharuan semula bandar itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa Eksekutif Persekutuan boleh menubuhkan apa-apa jawatankuasa kecil sebagaimana yang difikirkan perlu dan suai manfaat oleh Jawatankuasa Eksekutif Persekutuan dalam melaksanakan fungsinya. Mesyuarat Jawatankuasa Eksekutif Persekutuan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_7__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_7__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa Eksekutif Persekutuan hendaklah mengadakan mesyuaratnya sekurang-kurangnya dua kali setahun dan mesyuarat hendaklah diadakan pada masa dan tempat sebagaimana yang ditentukan oleh Pengerusi Jawatankuasa Eksekutif Persekutuan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengerusi Jawatankuasa Eksekutif Persekutuan hendaklah mempengerusikan semua mesyuarat Jawatankuasa Eksekutif Persekutuan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_7__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa Eksekutif Persekutuan hendaklah menyebabkan minit semua mesyuaratnya disenggarakan dan disimpan dalam bentuk yang sepatutnya. Jawatankuasa Eksekutif Persekutuan boleh melantik badan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_8__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa Eksekutif Persekutuan boleh melantik suatu badan sebagaimana yang difikirkannya perlu dan suai manfaat untuk mengawasi pelaksanaan projek pembaharuan semula bandar."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Badan yang dilantik di bawah subseksyen (1) hendaklah mengeluarkan suatu dokumen cadangan sebagaimana yang ditetapkan kepada mana-mana pemaju yang layak mengikut arahan Jawatankuasa Eksekutif Persekutuan. Setiausaha Jawatankuasa Eksekutif Persekutuan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_9__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud menjalankan suatu projek pembaharuan semula bandar di Wilayah-Wilayah Persekutuan Kuala Lumpur, Putrajaya dan Labuan, Setiausaha Jawatankuasa Eksekutif Persekutuan hendaklah menyediakan suatu laporan cadangan dalam bentuk dan mengikut cara sebagaimana yang ditentukan oleh Jawatankuasa Eksekutif Persekutuan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Setiausaha Jawatankuasa Eksekutif Persekutuan hendaklah mengemukakan laporan cadangan di bawah subseksyen (1) kepada Jawatankuasa Eksekutif Persekutuan untuk pertimbangannya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Setiausaha Jawatankuasa Eksekutif Persekutuan hendaklah menyimpan dan menyenggara suatu daftar pemaju yang layak sebagaimana yang dikehendaki di bawah subseksyen 20(2). Jawatankuasa Eksekutif Negeri"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_28"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERLINDUNGAN KEPENTINGAN Perlindungan orang yang berkepentingan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_24__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_24__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_24__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa Eksekutif Persekutuan atau Jawatankuasa Eksekutif Negeri hendaklah memastikan bahawa orang yang berkepentingan yang telah bersetuju untuk menyertai suatu projek pembaharuan semula bandar—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_24__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "telah menerima suatu tawaran faedah yang tidak kurang baiknya daripada tawaran faedah yang kepadanya dia ditawarkan sebelum projek pembaharuan semula bandar itu dijalankan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_24__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "telah ditawarkan untuk tinggal di dalam kawasan pembaharuan semula bandar melainkan jika orang yang berkepentingan itu memutuskan selainnya; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_24__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dimaklumkan mengenai kemajuan projek pembaharuan semula bandar apabila diminta. Jawatankuasa Pengantaraan Pembaharuan Semula Bandar Persekutuan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_25__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_25__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_25__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_25__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_25__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_25__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Hendaklah ada suatu Jawatankuasa Pengantaraan Pembaharuan Semula Bandar Persekutuan bagi maksud melindungi kepentingan orang yang berkepentingan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_25__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_25__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_25__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud suatu projek pembaharuan semula bandar yang dijalankan oleh Jawatankuasa Eksekutif Persekutuan, Jawatankuasa Pengantaraan Pembaharuan Semula Bandar Persekutuan hendaklah terdiri daripada anggota yang berikut yang dilantik oleh Jawatankuasa Eksekutif Persekutuan:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_25__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_25__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dua orang anggota Lembaga Perancang Bandar Malaysia; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_25__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_25__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tidak kurang daripada tiga orang anggota yang mempunyai pengetahuan dan pengalaman dalam bidang yang berhubungan dengan undang-undang, pengurusan projek, sosiologi atau ekonomi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_25__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_25__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_25__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang anggota Jawatankuasa Pengantaraan Pembaharuan Semula Bandar Persekutuan hendaklah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_25__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_25__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memegang jawatan selama tempoh tidak melebihi tiga tahun; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_25__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_25__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "layak untuk dilantik semula apabila habis tempoh jawatannya tetapi tidak boleh dilantik melebihi dua penggal berturut-turut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_25__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa Pengantaraan Pembaharuan Semula Bandar Persekutuan hendaklah menjalankan pengantaraan sebagaimana yang ditetapkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_25__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang anggota Jawatankuasa Pengantaraan Pembaharuan Semula Bandar Persekutuan hendaklah dibayar apa-apa elaun sebagaimana yang ditentukan oleh Menteri selepas berunding dengan Menteri Kewangan. Penzahiran kepentingan Jawatankuasa Pengantaraan Pembaharuan Semula Bandar Persekutuan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_26__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_26__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_26__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_26__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang anggota Jawatankuasa Pengantaraan Pembaharuan Semula Bandar Persekutuan hendaklah menzahirkan, secepat yang dapat dilaksanakan, apa-apa kepentingan kepada Jawatankuasa Eksekutif Persekutuan, sama ada substansial atau tidak, yang mungkin bercanggah dengan kewajipan anggota itu sebagai anggota Jawatankuasa Pengantaraan Pembaharuan Semula Bandar Persekutuan dalam suatu projek pembaharuan semula bandar."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_26__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud subseksyen (1), jika seseorang anggota mempunyai kepentingan dalam suatu projek pembaharuan semula bandar yang dijalankan oleh Jawatankuasa Eksekutif Persekutuan, anggota itu tidak boleh hadir atau mengambil bahagian dalam pengantaraan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_26__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_26__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_26__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika seseorang anggota Jawatankuasa Pengantaraan Pembaharuan Semula Bandar Persekutuan tidak menzahirkan kepentingannya dalam suatu projek pembaharuan semula bandar—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_26__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_26__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "anggota itu hendaklah tertakluk kepada pemberhentian keanggotaan sebagaimana yang ditentukan oleh Jawatankuasa Eksekutif Persekutuan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_26__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_26__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa Eksekutif Persekutuan boleh melantik seorang yang lain untuk mengisi kekosongan itu dan mana-mana orang yang dilantik sedemikian hendaklah memegang jawatan bagi baki tempoh itu. Jawatankuasa Pengantaraan Pembaharuan Semula Bandar Negeri"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_27__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_27__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_27__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_27__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_27__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_27__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Hendaklah ada suatu Jawatankuasa Pengantaraan Pembaharuan Semula Bandar Negeri bagi maksud melindungi kepentingan orang yang berkepentingan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_27__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_27__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_27__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud suatu projek pembaharuan semula bandar yang dijalankan oleh Jawatankuasa Eksekutif Negeri, Jawatankuasa Pengantaraan Pembaharuan Semula Bandar Negeri hendaklah terdiri daripada anggota yang berikut yang dilantik oleh Jawatankuasa Eksekutif Negeri:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_27__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dua orang anggota Lembaga Perancang Bandar Malaysia selain anggota yang dilantik dalam Jawatankuasa Pengantaraan Pembaharuan Semula Bandar Persekutuan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_27__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tidak kurang daripada tiga orang anggota yang mempunyai pengetahuan dan pengalaman dalam bidang yang berhubungan dengan undang-undang, pengurusan projek, sosiologi atau ekonomi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_27__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_27__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_27__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang anggota Jawatankuasa Pengantaraan Pembaharuan Semula Bandar Negeri hendaklah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_27__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_27__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memegang jawatan selama tempoh tidak melebihi tiga tahun; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_27__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_27__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "layak untuk dilantik semula apabila habis tempoh jawatannya tetapi tidak boleh dilantik melebihi dua penggal berturut-turut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_27__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa Pengantaraan Pembaharuan Semula Bandar Negeri hendaklah menjalankan pengantaraan sebagaimana yang ditetapkan dalam Warta Negeri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_27__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang anggota Jawatankuasa Pengantaraan Pembaharuan Semula Bandar Negeri hendaklah dibayar apa-apa elaun sebagaimana yang ditentukan oleh Pihak Berkuasa Negeri. Penzahiran kepentingan Jawatankuasa Pengantaraan Pembaharuan Semula Bandar Negeri"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_28__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_28__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_28__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_28__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang anggota Jawatankuasa Pengantaraan Pembaharuan Semula Bandar Negeri hendaklah menzahirkan, secepat yang dapat dilaksanakan, apa-apa kepentingan kepada Jawatankuasa Eksekutif Negeri, sama ada substansial atau tidak, yang mungkin bercanggah dengan kewajipan anggota itu sebagai anggota Jawatankuasa Pengantaraan Pembaharuan Semula Bandar Negeri dalam suatu projek pembaharuan semula bandar."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_28__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud subseksyen (1), jika seseorang anggota mempunyai kepentingan dalam suatu projek pembaharuan semula bandar yang dijalankan oleh Jawatankuasa Eksekutif Negeri, anggota itu tidak boleh hadir atau mengambil bahagian dalam pengantaraan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_28__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_28__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_28__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika seseorang anggota Jawatankuasa Pengantaraan Pembaharuan Semula Bandar Negeri tidak menzahirkan kepentingannya dalam suatu projek pembaharuan semula bandar—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_28__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_28__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "anggota itu hendaklah tertakluk kepada pemberhentian keanggotaan sebagaimana yang ditentukan oleh Jawatankuasa Eksekutif Negeri; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_28__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_IV__cl_28__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa Eksekutif Negeri boleh melantik seorang yang lain untuk mengisi kekosongan itu dan mana-mana orang yang dilantik sedemikian hendaklah memegang jawatan bagi baki tempoh itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_1__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Pembaharuan Semula Bandar 2025."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini hendaklah terpakai bagi Semenanjung Malaysia dan Wilayah Persekutuan Labuan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_1__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_1__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_1__subsec_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta dan Menteri boleh menetapkan tarikh yang berlainan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_1__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_1__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bagi permulaan kuat kuasa Akta ini di bahagian-bahagian yang berlainan di Semenanjung Malaysia dan Wilayah Persekutuan Labuan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_1__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_1__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bagi permulaan kuat kuasa peruntukan yang berlainan Akta ini; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_1__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_1__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bagi permulaan kuat kuasa peruntukan yang berlainan Akta ini di bahagian-bahagian yang berlainan di Semenanjung Malaysia dan Wilayah Persekutuan Labuan. Ketidakpakaian Akta"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini tidak terpakai bagi tapak warisan di bawah Akta Warisan Kebangsaan 2005 [Akta 645]. Pentafsiran Akta"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini hendaklah dibaca bersama-sama undang-undang bertulis yang berkaitan berhubung dengan perancangan bandar dan desa, tanah, perumahan dan kerajaan tempatan. Tafsiran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_4__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_4__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "“ambang persetujuan” ertinya suatu ambang persetujuan oleh orang yang berkepentingan untuk menyertai suatu projek pembaharuan semula bandar di bawah seksyen 19; “bangunan” ertinya apa-apa rumah, pondok, bangsal atau kepungan beratap, sama ada digunakan bagi kediaman manusia atau selainnya, dan apa-apa dinding, pagar, pelantar, pementasan, pintu pagar, tiang, pilar, paling, bingkai, dinding adang, tempat lancar, limbungan, dermaga, tembok sambut, jeti, pentas mendarat atau jambatan, atau apa-apa binaan tupang atau asas yang bersambung pada rumah, pondok, bangsal atau kepungan beratap; “ditetapkan” ertinya ditetapkan melalui kaedah-kaedah yang dibuat di bawah Akta ini; “insentif” ertinya suatu faedah atau hadiah yang diberikan kepada mana-mana orang yang berkepentingan oleh Kerajaan Persekutuan atau Pihak Berkuasa Negeri dalam bentuk hasil cukai atau bukan cukai; “Jawatankuasa Eksekutif Negeri” ertinya Jawatankuasa Eksekutif Negeri yang ditubuhkan di bawah seksyen 10; “Jawatankuasa Eksekutif Persekutuan’’ ertinya Jawatankuasa Eksekutif Persekutuan yang ditubuhkan di bawah seksyen 5; “Jurutera Profesional dengan Perakuan Amalan” mempunyai erti yang diberikan kepadanya dalam Akta Pendaftaran Jurutera 1967 [Akta 138]; “kacau ganggu” mempunyai erti yang diberikan kepadanya dalam Akta Kerajaan Tempatan 1976 [Akta 171]; “kawasan pembaharuan semula bandar” ertinya suatu kawasan atau tapak yang dikenal pasti bagi pembaharuan semula bandar dalam suatu rancangan pemajuan; “Menteri” ertinya Menteri yang dipertanggungkan dengan tanggungjawab bagi pengawalan dan pengawasan pembaharuan semula bandar; “orang yang berkepentingan” ertinya pemilik, pemaju, pemegang amanah, pelikuidasi, wakil di sisi undang-undang, atau pentadbir atau wasi jika pemilik itu mati; “pemaju diluluskan” ertinya seseorang pemaju yang layak yang diluluskan oleh Jawatankuasa Eksekutif Persekutuan atau Jawatankuasa Eksekutif Negeri untuk menjalankan suatu projek pembaharuan semula bandar; “pemaju yang layak” ertinya mana-mana orang atau kumpulan orang yang mengambil bahagian dalam atau menjalankan perniagaan memajukan tanah atau bangunan, menyediakan wang bagi kemajuan tanah atau bangunan, atau membeli tanah atau bangunan; “pembangunan semula bandar” ertinya pembangunan yang dibuat untuk mengubah keadaan fizikal tapak sedia ada yang termasuklah merobohkan bangunan, membersihkan tapak, mendirikan bangunan, dan menambah baik kemudahan infrastruktur dan utiliti; “pemilik” ertinya mana-mana orang atau badan yang didaftarkan sebagai pemilik mana-mana bangunan atau tanah yang diberi milik; “Pengerusi Jawatankuasa Eksekutif Negeri” ertinya Pengerusi Jawatankuasa Eksekutif Negeri yang disebut dalam perenggan 10(2)(a); “Pengerusi Jawatankuasa Eksekutif Persekutuan” ertinya Pengerusi Jawatankuasa Eksekutif Persekutuan yang disebut dalam perenggan 5(2)(a); “penjanaan semula bandar” ertinya penjanaan semula suatu kawasan atau bangunan termasuk bangunan yang terbiar, usang atau terbengkalai dengan membaik pulih bangunan yang sedia ada, menaik taraf kemudahan infrastruktur atau utiliti, dan pelandskapan; “penyegaran semula bandar” termasuklah memulihkan suatu kawasan atau bangunan dengan menaik taraf, mencantikkan atau pelandskapan, atau menukar fungsi kawasan atau bangunan itu; “Pihak Berkuasa Negeri” ertinya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_4__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_4__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_4__list_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_4"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_4__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_4__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "berhubung dengan Negeri-Negeri Semenanjung Malaysia, Raja dalam Mesyuarat atau Gabenor dalam Mesyuarat sesuatu Negeri dan termasuklah di Negeri Sembilan, Yang di-Pertuan Besar yang bertindak bagi pihak dirinya sendiri dan Pembesar Memerintah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_4__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_4__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "berhubung dengan Wilayah-Wilayah Persekutuan Kuala Lumpur, Putrajaya dan Labuan, Menteri yang dipertanggungkan dengan tanggungjawab bagi kerajaan tempatan; “pihak berkuasa tempatan” ertinya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_4__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_4__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_4__list_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_4__list_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_4__list_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_4"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_4__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_4__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana pihak berkuasa tempatan yang ditubuhkan di bawah Akta Kerajaan Tempatan 1976;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_4__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_4__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "berhubung dengan Wilayah Persekutuan Kuala Lumpur, Datuk Bandar Kuala Lumpur yang dilantik di bawah seksyen 4 Akta Ibu Kota Persekutuan 1960 [Akta 190];"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_4__list_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_4__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "berhubung dengan Wilayah Persekutuan Putrajaya, Perbadanan Putrajaya yang ditubuhkan di bawah Akta Perbadanan Putrajaya 1995 [Akta 536]; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_4__list_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_I__cl_4__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "berhubung dengan Wilayah Persekutuan Labuan, Perbadanan Labuan yang ditubuhkan di bawah Akta Perbadanan Labuan 2001 [Akta 609]; “rancangan pemajuan” mempunyai erti yang diberikan kepadanya dalam Akta Perancangan Bandar dan Desa 1976 [Akta 172] dan Akta (Perancangan) Wilayah Persekutuan 1982 [Akta 267]; “tanah” mempunyai erti yang diberikan kepadanya dalam Kanun Tanah Negara [Akta 828]; “Setiausaha Jawatankuasa Eksekutif Negeri” ertinya Setiausaha Jawatankuasa Eksekutif Negeri yang disebut dalam seksyen 15; “Setiausaha Jawatankuasa Eksekutif Persekutuan” ertinya Setiausaha Jawatankuasa Eksekutif Persekutuan yang disebut dalam seksyen 9."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V__cl_31"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "AM Kuasa untuk membuat kaedah-kaedah"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V__cl_29__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V__cl_29__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V__cl_29__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V__cl_29__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh membuat kaedah-kaedah bagi maksud pelaksanaan peruntukan Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V__cl_29__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V__cl_29__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V__cl_29__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V__cl_29__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V__cl_29__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V__cl_29__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V__cl_29__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V__cl_29__subsec_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V__cl_29__subsec_2__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tanpa menjejaskan keluasan subseksyen (1), kaedah-kaedah boleh dibuat bagi maksud yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V__cl_29__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V__cl_29__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menetapkan apa-apa perkara yang berhubungan dengan insentif kepada pemaju diluluskan dan mana-mana orang yang berkepentingan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V__cl_29__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V__cl_29__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menetapkan apa-apa perkara yang berhubungan dengan dokumen cadangan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V__cl_29__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V__cl_29__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menetapkan apa-apa perkara bagi mendapatkan persetujuan sebulat suara;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V__cl_29__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V__cl_29__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menetapkan cara perundingan untuk mencapai ambang persetujuan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V__cl_29__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V__cl_29__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menetapkan fi yang kena dibayar di bawah Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V__cl_29__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V__cl_29__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menetapkan cara yang berhubungan dengan pelanjutan masa untuk memulakan suatu projek pembaharuan semula bandar;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V__cl_29__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V__cl_29__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menetapkan apa-apa perkara yang berhubungan dengan pengantaraan di bawah Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V__cl_29__subsec_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V__cl_29__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengadakan peruntukan bagi apa-apa perkara lain yang dikehendaki untuk ditetapkan oleh Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V__cl_29__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pihak Berkuasa Negeri boleh membuat kaedah-kaedah bagi maksud melaksanakan atau menguatkuasakan peruntukan Akta ini. Pekhidmat awam"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana pegawai bagi suatu badan yang dilantik oleh Jawatankuasa Eksekutif Persekutuan atau Jawatankuasa Eksekutif Negeri semasa menunaikan kewajipannya atau melaksanakan fungsinya di bawah Akta ini atas sifat yang sedemikian hendaklah disifatkan sebagai pekhidmat awam mengikut pengertian Kanun Keseksaan [Akta 574]. Akta Perlindungan Pihak Berkuasa Awam 1948"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Perlindungan Pihak Berkuasa Awam 1948 [Akta 198] hendaklah terpakai bagi apa-apa tindakan, guaman, pendakwaan atau prosiding terhadap mana-mana anggota Jawatankuasa Eksekutif Persekutuan atau Jawatankuasa Eksekutif Negeri, atau mana-mana pegawai bagi suatu badan yang dilantik oleh Jawatankuasa Eksekutif Persekutuan atau Jawatankuasa Eksekutif Negeri, berkenaan dengan apa-apa perbuatan atau benda yang dibuat atau dilakukan olehnya atas sifat yang sedemikian."
+      }
+    }
+  ]
+}

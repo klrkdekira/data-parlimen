@@ -10,9 +10,7 @@ BE IT ENACTED by the Seri Paduka Baginda Yang di-Pertuan Agong with the advice a
 
 <!-- marginal: Short title. -->
 
-1. This Act may be cited as the Rubber Industry Smallholders Development Authority (Amendment) Act
-
-1996.
+1. This Act may be cited as the Rubber Industry Smallholders Development Authority (Amendment) Act 1996.
 
 <!-- marginal: Amendment -->
 
@@ -34,11 +32,35 @@ the "principal Act", is amended in section 2 by substituting for subsection (1) 
 
 "Director General" means the Director General of the Authority appointed under section 11."
 
-New sections
+<!-- marginal: New sections -->
 
-2. The principal Act is amended by inserting after section 11B, 11C, 11A the following sections: 11D, 11E, 1 1F, 1 1G, 1 1H, 1 1I, 1 1J Establish-
+2. The principal Act is amended by inserting after section
 
-11B. (1) There shall be established a Personnel and 11K. ment of Committee which shall consist of the following Personnel Committee. members:
+<!-- marginal: 11B, 11C, -->
+
+11A the following sections:
+
+<!-- marginal: 11D, 11E, -->
+
+<!-- marginal: 1 1F, 1 1G, -->
+
+<!-- marginal: 1 1H, 1 1I, 1 1J -->
+
+<!-- marginal: Establish- -->
+
+11B. (1) There shall be established a Personnel
+
+<!-- marginal: and 11K. -->
+
+<!-- marginal: ment of -->
+
+Committee which shall consist of the following
+
+<!-- marginal: Personnel -->
+
+<!-- marginal: Committee. -->
+
+members:
 
 (a) the Director General of the Authority who shall be the chairman of the Committee and having a casting vote; and
 
@@ -46,9 +68,21 @@ New sections
 
 (2) The Personnel Committee shall be responsible for matters relating to management, service and human resource development of the Authority, and for that purpose shall have jurisdiction and shall exercise its powers over all officers and servants of the Authority, other than the Director General, in all matters relating to the appointment, promotion and termination of service of such officers and servants in accordance with any regulations made by the Authority in respect thereof.
 
-Establish-
+<!-- marginal: Establish- -->
 
-11C. (1) There shall be established a Personnel ment of Appeal Committee which shall consist of the Personnel Appeal following members: Committee
+11C. (1) There shall be established a Personnel
+
+<!-- marginal: ment of -->
+
+Appeal Committee which shall consist of the
+
+<!-- marginal: Personnel -->
+
+<!-- marginal: Appeal -->
+
+following members:
+
+<!-- marginal: Committee -->
 
 (a) the Chairman of the Authority who shall be the chairman of the Personnel Appeal Committee and having a casting vote; and
 
@@ -64,7 +98,13 @@ Establish-
 
 (4) The decision of the Personnel Appeal Committee shall be final.
 
-Disciplinary 11D. (1) The Authority shall have disciplinary committees. authority over all its officers and servants and shall exercise disciplinary control in respect of all such persons in accordance with this Act and any regulations made under section 11F.
+<!-- marginal: Disciplinary -->
+
+11D. (1) The Authority shall have disciplinary
+
+<!-- marginal: committees. -->
+
+authority over all its officers and servants and shall exercise disciplinary control in respect of all such persons in accordance with this Act and any regulations made under section 11F.
 
 (2) For the purposes of this section—
 
@@ -88,9 +128,21 @@ Disciplinary 11D. (1) The Authority shall have disciplinary committees. authorit
 
 (5) In the exercise of its disciplinary functions and powers, a disciplinary committee referred to under subsection (2) shall have the power to take disciplinary action and impose any disciplinary punishment or any combination of two or more of disciplinary punishments as may be provided for under any regulations that may be made under section 11F.
 
-Appeal
+<!-- marginal: Appeal -->
 
-11E. (1) A decision of the disciplinary against committee under section 11D(2)(a) shall be decision of disciplinary appealable to the Minister. committee.
+11E. (1) A decision of the disciplinary
+
+<!-- marginal: against -->
+
+committee under section 11D(2)(a) shall be
+
+<!-- marginal: decision of -->
+
+<!-- marginal: disciplinary -->
+
+appealable to the Minister.
+
+<!-- marginal: committee. -->
 
 <!-- page 5 -->
 
@@ -106,11 +158,21 @@ Appeal
 
 (4) When the Disciplinary Appeal Committee considers an appeal under subsection (2), a member of the disciplinary committee against whose decision the appeal is made who is also a member of the Authority shall not be present or in any way participate in any proceedings relating to that appeal,
 
-(5) The decision of the Minister or the Disciplinary Appeal Committee under subsection
+(5) The decision of the Minister or the Disciplinary Appeal Committee under subsection (3) shall be final and conclusive.
 
-(3) shall be final and conclusive.
+<!-- marginal: Power -->
 
-Power 11F. (1) The Authority may, with the approval to make of the Minister, make such regulations as it disciplinary regulations. deems necessary or expedient to provide for the discipline of the Director General, officers and servants of the Authority.
+11F. (1) The Authority may, with the approval
+
+<!-- marginal: to make -->
+
+of the Minister, make such regulations as it
+
+<!-- marginal: disciplinary -->
+
+<!-- marginal: regulations. -->
+
+deems necessary or expedient to provide for the discipline of the Director General, officers and servants of the Authority.
 
 <!-- page 6 -->
 
@@ -138,7 +200,17 @@ security of Malaysia or any part thereof, prevention of crime, preventive detent
 
 (3) For the avoidance of doubt, "officer" in this section includes the Director General.
 
-Imposition 11G. (1) A person who is or was in the of sur- employment of the Authority may be surcharged charge. if it appears to the Authority that the person—
+<!-- marginal: Imposition -->
+
+11G. (1) A person who is or was in the
+
+<!-- marginal: of sur- -->
+
+employment of the Authority may be surcharged
+
+<!-- marginal: charge. -->
+
+if it appears to the Authority that the person—
 
 (a) has failed to collect money owing to the Authority for the collection of which he is or was responsible;
 
@@ -160,13 +232,29 @@ Imposition 11G. (1) A person who is or was in the of sur- employment of the Auth
 
 (b) in the case of subsections (1)(d) and (e), surcharge against the person, such sum as the Authority may think fit.
 
-Notification
+<!-- marginal: Notification -->
 
-11H. The Authority shall notify the person of sur- surcharged in respect of any surcharge made charge. under section l lG(3).
+11H. The Authority shall notify the person
 
-Withdrawal
+<!-- marginal: of sur- -->
 
-11I. Notwithstanding sections 11G(3) and 11H, of sur- the Authority may at any time withdraw any charge. surcharge in respect of which a satisfactory explanation has been received or if it otherwise appears that no surcharge should have been made, and the Authority shall forthwith notify the person surcharged of the withdrawal.
+surcharged in respect of any surcharge made
+
+<!-- marginal: charge. -->
+
+under section l lG(3).
+
+<!-- marginal: Withdrawal -->
+
+11I. Notwithstanding sections 11G(3) and 11H,
+
+<!-- marginal: of sur- -->
+
+the Authority may at any time withdraw any
+
+<!-- marginal: charge. -->
+
+surcharge in respect of which a satisfactory explanation has been received or if it otherwise appears that no surcharge should have been made, and the Authority shall forthwith notify the person surcharged of the withdrawal.
 
 <!-- page 9 -->
 

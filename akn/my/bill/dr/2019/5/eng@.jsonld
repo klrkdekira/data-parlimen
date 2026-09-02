@@ -273,7 +273,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/eng@/~cl_5",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (12)— New section 27a"
+        "@value": "in subsection (12)—"
       }
     },
     {
@@ -293,7 +293,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/eng@/~cl_5__para_e",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for the words “subsection (9)” wherever appearing the words “subsection (8)”."
+        "@value": "by substituting for the words “subsection (9)” wherever appearing the words “subsection (8)”. New section 27a"
       }
     },
     {

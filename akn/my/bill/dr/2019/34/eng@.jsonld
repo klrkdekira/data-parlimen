@@ -1,0 +1,847 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-34-2019",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_27"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Franchise (Amendment) Bill 2019"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_10__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_10__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 11 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the words “disclosure documents” the words “supporting documents for the registration of franchise”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_10__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_10__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_10__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_10__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the word “disclosure”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_10__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_10__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “(a)” the words “, (b), (c), (d)”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_10__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by inserting after the word “Registrar” the words “together with the prescribed fee”. Amendment of section 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_11__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_11__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_11__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_11__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 14 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by inserting after the words “franchise broker” the words “or franchise consultant”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for paragraph (a) the following paragraph: “(a) by submitting the application in such form as may be determined by the Registrar together with the prescribed fee; and”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_11__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (3) the following subsection: “(3 a) Upon approving the application under subsection (1), the Registrar may require the applicant to pay such amount of fee as may be prescribed.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_11__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsections (5a) and (5b); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_11__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (6) the following subsection: “(7) Any franchise broker or franchise consultant who fails to comply with subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit, and for a second or subsequent offence, to a fine not exceeding twenty-five thousand ringgit.”. New sections 14a and 14b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 14 the following sections: “Renewal of registration of franchise broker or franchise consultant 14a. (1) A franchise broker who is still carrying on his business as a franchise broker or a franchise consultant who is still providing his services as a franchise consultant shall apply to the Registrar for renewal of his registration as a franchise broker or franchise consultant, as the case may be, in such form as may be determined by the Registrar together with the prescribed fee within thirty days from the expiration date of such registration. (2) An approval for the application made under subsection (1) may be subject to such conditions as the Registrar may impose. (3) Upon approving the application under subsection (1), the Registrar may require the applicant to pay such amount of fee as may be prescribed. (4) Subsection 14(5) shall apply to the period of effectiveness of the registration of a franchise broker or franchise consultant which was renewed under this section. (5) Any franchise broker or franchise consultant who fails to comply with subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit, and for a second or subsequent offence, to a fine not exceeding twenty-five thousand ringgit. Display of registration of franchise broker or franchise consultant 14b. (1) A franchise broker or franchise consultant shall at all times display the registration of franchise broker or franchise consultant, as the case may be, in a conspicuous position at a place where the franchise broker carries on his business or franchise consultant provides his services. (2) Any franchise broker or franchise consultant who fails to comply with this section commits an offence.”. Amendment of section 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_13__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 15 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by deleting the word “disclosure” wherever appearing; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words “section 7” the words “sections 7 and 11”. Amendment of section 18"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_14__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_14__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 18 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for paragraph (l) the following paragraph: “(l) the term of the franchise, and the terms of renewal and extension of the franchise agreement; and”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (3); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_14__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (6), by substituting for the words “subsection (5)” the words “this section”. Amendment of section 22"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 22(2) of the principal Act is amended by substituting for the words “separate account” the words “separate bank account”. Amendment of section 24"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 24 of the principal Act is amended by deleting the words “or service mark” wherever appearing including in the shoulder note. Amendment of section 32"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 32(a) of the principal Act is amended by substituting for the words “substantially the same business” the words “similar business”. Amendment of section 37"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_18__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 37(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “who,” the words “in relation to an offer to sell a franchise or during the sale of a franchise,”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c), by deleting the words “in relation to an offer to sell or a sale of a franchise,”. Amendment of section 42"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 42(2) of the principal Act is amended by substituting for the word “Minister” the word “Registrar”. Amendment of section 43"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Franchise (Amendment) Act 2019."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. General amendment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Franchise Act 1998 [Act 590], which is referred to as the “principal Act” in this Act, is amended in the national language text—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_20__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_20__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_20__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 43 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_20__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: “(1) An authorized officer may investigate the commission of any offence under this Act.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_20__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words “a franchisor, franchise broker or franchisee” the words “any person”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_20__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the words “[Act 594]” the words “[Act 593]”. Amendment of section 44"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 44(4) of the principal Act is amended by inserting after the words “mark,” the words “signboard,”. New section 44a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 44 the following section: “Search warrant valid notwithstanding defects 44a. A search warrant issued under this Act shall be valid and enforceable notwithstanding any defect, mistake or omission in the search warrant or in the application for such search warrant and any book, account, document, computerized data, mark, signboard, card, letter, pamphlet, device or thing seized under such search warrant shall be admissible as evidence in any proceedings under this Act.”. New sections 48a, 48b, 48c and 48d"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 48 the following sections: “Forfeiture of seized book, etc. 48a. (1) Any book, account, document, computerized data, mark, signboard, card, letter, pamphlet, device or thing seized under this Act shall be liable to forfeiture. (2) An order for the forfeiture or for the release of any book, account, document, computerized data, mark, signboard, card, letter, pamphlet, device or thing seized under this Act shall be made by the court before which the prosecution with regard thereto has been held and an order for the forfeiture of the book, account, document, computerized data, mark, signboard, card, letter, pamphlet, device or thing shall be made if it is proved to the satisfaction of the court that an offence under this Act has been committed and that the book, account, document, computerized data, mark, signboard, card, letter, pamphlet, device or thing was the subject matter of or was used in the commission of the offence notwithstanding that no person may have been convicted of the offence. (3) If there is no prosecution with regard to any book, account, document, computerized data, mark, signboard, card, letter, pamphlet, device or thing seized under this Act, such book, account, document, computerized data, mark, signboard, card, letter, pamphlet, device or thing shall be taken and deemed to be forfeited at the expiration of one calendar month from the date it was seized unless a claim to it is made before that date in the manner set out in subsections (4), (5) and (6). (4) Any person asserting that he is the owner of such book, account, document, computerized data, mark, signboard, card, letter, pamphlet, device or thing referred to in subsection (3) and that it is not liable to forfeiture may personally or by his agent authorized in writing give written notice to an authorized officer of his claim. (5) On receipt of such notice under subsection (4), the authorized officer shall refer the claim to the Registrar who may direct that such book, account, document, computerized data, mark, signboard, card, letter, pamphlet, device or thing be released or forfeited, or may direct the authorized officer to refer the matter to a court for decision. (6) The court to which the matter is referred shall issue a summons requiring the person asserting that he is the owner of the book, account, document, computerized data, mark, signboard, card, letter, pamphlet, device or thing and the person from whom it was seized to appear before the court and upon his appearance or default to appear, due service of the summons being proved, the court shall proceed to the examination of the matter and on proof that an offence under this Act has been committed and that such book, account, document, computerized data, mark, signboard, card, letter, pamphlet, device or thing was the subject matter or was used in the commission of such offence, shall order the same to be forfeited or may, in the absence of such proof, order its release to the person entitled to it. (7) Any book, account, document, computerized data, mark, signboard, card, letter, pamphlet, device or thing forfeited or deemed to be forfeited shall be delivered to the authorized officer who shall dispose of it in accordance with the directions of the Registrar. (8) Where any book, account, document, computerized data, mark, signboard, card, letter, pamphlet, device or thing seized under this Act is of a perishable nature or where the custody of such book, account, document, computerized data, mark, signboard, card, letter, pamphlet, device or thing involves unreasonable expense and inconvenience, such book, account, document, computerized data, mark, signboard, card, letter, pamphlet, device or thing may be sold by the authorized officer at anytime and the proceeds of the sale held by the authorized officer to abide by the result of any prosecution or claim under this section, or be disposed of in accordance with the provisions of this section. Release of things seized 48b. (1) If any book, account, document, computerized data, mark, signboard, card, letter, pamphlet, device or thing has been seized under this Act, the authorized officer who effected the seizure may release the book, account, document, computerized data, mark, signboard, card, letter, pamphlet, device or thing to the person that he determines to be lawfully entitled to it, if he is satisfied that the book, account, document, computerized data, mark, signboard, card, letter, pamphlet, device or thing is not otherwise required for the purpose of any proceedings under this Act, or for the purpose of any prosecution under any other written laws, and in such event the authorized officer effecting the seizure, the Government, the Registrar or any person acting on behalf of the Government or the Registrar shall not be liable to any proceedings by any person if the seizure and the release of the book, account, document, computerized data, mark, signboard, card, letter, pamphlet, device or thing had been effected in good faith. (2) A record in writing shall be made by the authorized officer effecting the release of anything under subsection (1) specifying in detail the circumstances of and the reason for the release, and he shall send a copy of such record to the Public Prosecutor within seven days of the release. No cost or damages arising from seizure to be recoverable 48c. No person shall, in any proceedings before any court in respect of any book, account, document, computerized data, mark, signboard, card, letter, pamphlet, device or thing seized in the exercise or the purported exercise of any power conferred under this Act, be entitled to the costs of such proceedings or to any damages or other relief unless such seizure was made without reasonable cause. Reward for information 48d. In the case of a conviction involving a fine, the court imposing the fine may, on the application of the prosecuting officer, direct the payment of any part of the fine in such proportion as the court thinks fit but in any case not exceeding one half of such fine to the person who gave the information leading to the conviction.”. Amendment of section 54"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_24__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_24__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 54 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_24__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words “submit an application to the Registrar” the words “apply to the Registrar by submitting an application in such form as may be determined by the Registrar together with the prescribed fee”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_24__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (3) the following subsection: “(4) Upon approving the application under subsection (1), the Registrar may require the applicant to pay such amount of fee as may be prescribed.”. Amendment of section 60"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 60(1) of the principal Act is amended by substituting for paragraph (c) the following paragraph: “(c) prescribing the fees payable under this Act, and the manner for collecting and disbursing such fees;”. Validation and indemnity"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_26__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_26__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_26__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_26__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_26__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_26__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding the absence of any provision on the requirement to pay fees to the Registrar except under subsection 8(3) of the principal Act, the following fees which were charged and collected during the period from 8 October 1999 to the day preceding the commencement date of this Act shall be deemed to have been validly charged and collected:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_26__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_26__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "filing fee for amendment of documents under section 11 of the principal Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_26__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_26__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "processing fee for the registration of a franchise broker or franchise consultant under section 14 of the principal Act; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_26__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_26__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "processing fee for an application for sale of a franchise by a foreigner in Malaysia or to any Malaysian citizen under section 54 of the principal Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_26__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No action or legal proceeding shall be brought, instituted or maintained against the Government or any officer of the Government or any person acting under them in respect of any fee which was charged and collected during the period referred to in subsection (1), and if any such action or legal proceeding has been brought, instituted or maintained, it shall be discharged and made void and no refund in respect of the fees charged and collected as stated in this Act shall be made. Saving and transitional"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_27__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_27__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_27__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_27__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any application by a franchisor to register his franchise, or any application by a foreign person to sell a franchise in Malaysia or to a Malaysian citizen that is pending before the coming into operation of this Act shall be dealt with in accordance with the principal Act as amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_27__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any registration of a franchise approved under the principal Act before the coming into operation of this Act shall, on the date of coming into operation of this Act, continue to be effective for such period of effectiveness as prescribed under section 10 of the principal Act as amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_27__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any foreign person who has obtained an approval to sell a franchise in Malaysia or to any Malaysian citizen under section 54 of the principal Act before the date of coming into operation of this Act shall, on the date of coming into operation of this Act, be deemed to have registered his franchise under section 6 of the principal Act as amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “pemberi francais” wherever appearing including in the shoulder notes the word “francaisor”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “pemegang francais” wherever appearing including in the shoulder notes the word “francaisi”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “pemegang subfrancais” wherever appearing the word “subfrancaisi”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “perunding francais” wherever appearing the words “konsultan francais”. Amendment of section 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_3__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 4 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, by inserting after the definition of “francais” the following definitions: ‘ “francaisi” ertinya seseorang yang kepadanya francais diberikan dan termasuk, melainkan jika dinyatakan selainnya dalam Akta ini— (a) francaisi induk berkenaan dengan hubungannya dengan francaisor; dan (b) subfrancaisi berkenaan dengan hubungannya dengan francaisi induk; “francaisi induk” ertinya seseorang yang diberi hak oleh francaisor untuk mensubfrancaiskan kepada orang lain, atas perbelanjaannya sendiri, francais kepunyaan francaisor itu; “francaisor” ertinya seseorang yang memberikan francais kepada francaisi dan termasuk francaisi induk berkenaan dengan hubungannya dengan subfrancaisi, melainkan jika dinyatakan selainnya dalam Akta ini;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, by inserting after the definition of “iklan” the following definition: ‘ “konsultan francais” ertinya seseorang yang memberikan nasihat dan perkhidmatan konsultasi kepada orang lain mengenai pendaftaran perniagaan francais dan pematuhan kepada undang-undang yang berhubungan dengannya;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, by deleting the definitions of “pemberi francais”, “pemegang francais”, “pemegang francais induk” and “perunding francais”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “regulations” the following definitions: ‘ “subfranchise” means a franchise granted by a master franchisee to a subfranchisee for business purposes under this Act; “subfranchisee” means a subfranchise holder;’. Amendment of section 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 6 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by inserting after the word “franchisor” the words “or a foreign person who has obtained an approval to sell a franchise in Malaysia or to any Malaysian citizen under section 54”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by inserting after the word “franchisor” the words “or foreign person”. Amendment of section 6a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_5__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 6a of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words “by using the prescribed application form” the words “by submitting the application in such form as may be determined by the Registrar together with the prescribed fee”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsection: “(2 a) Upon approving the application under subsection (1), the Registrar may require the applicant to pay such amount of fee as may be prescribed.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (3) the following subsection: “(4) Any franchisee who fails to comply with this section commits an offence.”. Amendment of section 6b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 6b the following section: “Registration of franchisee 6b. (1) A franchisee who has been granted a franchise from a local franchisor or local master franchisee shall register the franchise with the Registrar by submitting an application for registration to the Registrar in such form as may be determined by the Registrar together with the prescribed fee within fourteen days from the date of signing of the agreement between the franchisor and franchisee. (2) Any franchisee who fails to comply with subsection (1) commits an offence.”. Amendment of section 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 7(1) of the principal Act is amended by substituting for the words “the prescribed form together with” the words “such form as may be determined by the Registrar together with the prescribed fee and”. Substitution of section 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 10 the following section: “Period of effectiveness 10. (1) The registration of a franchise shall continue to be effective for a period as may be prescribed. (2) Notwithstanding subsection (1), the Registrar may at any time issue a written order to the franchisor to suspend, terminate or cancel the registration of the franchise under this Act.”. New sections 10a and 10b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/34/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 10 the following sections: “Renewal of registration of franchise 10a. (1) A franchisor may apply to the Registrar for renewal of the registration of franchise by submitting the application in such form as may be determined by the Registrar together with the prescribed fee within thirty days from the expiration date of such registration. (2) An approval for the application made under subsection (1) may be subject to such conditions as the Registrar may impose. (3) Upon approving the application under subsection (1), the Registrar may require the applicant to pay such amount of fee as may be prescribed. (4) Section 10 shall apply to the period of effectiveness of the registration of franchise which was renewed under this section. Display of registration of franchise 10b. (1) A franchisor or franchisee shall at all times display the registration of franchise in a conspicuous position at the place where the franchisor or franchisee carries on his business. (2) Any franchisor or franchisee who fails to comply with subsection (1) commits an offence.”. Amendment of section 11"
+      }
+    }
+  ]
+}

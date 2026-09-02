@@ -52,11 +52,7 @@ Tambahan (1996) 1996.
 
 (Seksyen 2)
 
-Maksud Tajuk
-
-<!-- marginal: Pemntukan -->
-
-<!-- marginal: kepada Maksud -->
+Maksud Tajuk Pemntukan kepada Maksud
 
 <!-- marginal: RM -->
 
@@ -68,11 +64,7 @@ B. 6 Suruhanjaya Perkhidmatan
 
 <!-- marginal: 600,000 -->
 
-Pendidikan B. 7 Jabatan Perdana Menteri
-
-<!-- marginal: 30,000,000 -->
-
-B. 9 Jabatan Perangkaan
+Pendidikan B. 7 Jabatan Perdana Menteri 30,000,000 B. 9 Jabatan Perangkaan
 
 <!-- marginal: 7,292,000 -->
 
@@ -88,19 +80,11 @@ B. 15 Jabatan Perancangan Bandar
 
 <!-- marginal: 1,528,600 -->
 
-dan Desa B. 16 Jabatan Perkhidmatan Bomba
-
-<!-- marginal: 24,386,100 -->
-
-B. 18 Kementerian Perusahaan Utama
+dan Desa B. 16 Jabatan Perkhidmatan Bomba 24,386,100 B. 18 Kementerian Perusahaan Utama
 
 <!-- marginal: 4,987,200 -->
 
-B. 19 Kementerian Pertanian
-
-<!-- marginal: 77,079,300 -->
-
-B. 23 Jabatan Arkib Negara
+B. 19 Kementerian Pertanian 77,079,300 B. 23 Jabatan Arkib Negara
 
 <!-- marginal: 899,900 -->
 
@@ -108,27 +92,7 @@ B. 24 Jabatan Muzium dan Antikuiti
 
 <!-- marginal: 624,200 -->
 
-B. 26 Kementerian Pendidikan
-
-<!-- marginal: 299,362,000 -->
-
-B. 28 Perbendaharaan
-
-<!-- marginal: 14,523,700 -->
-
-B. 29 Perkhidmatan Am Perbendaharaan
-
-<!-- marginal: 300,000,000 -->
-
-B. 30 Peruntukan kepada Kumpulan
-
-<!-- marginal: 20,000,000 -->
-
-Wang Terkanun B. 31 Jabatan Kastam dan Eksais Diraja
-
-<!-- marginal: 28,412,500 -->
-
-B. 32 Jabatan Hasil Dalam Negeri
+B. 26 Kementerian Pendidikan 299,362,000 B. 28 Perbendaharaan 14,523,700 B. 29 Perkhidmatan Am Perbendaharaan 300,000,000 B. 30 Peruntukan kepada Kumpulan 20,000,000 Wang Terkanun B. 31 Jabatan Kastam dan Eksais Diraja 28,412,500 B. 32 Jabatan Hasil Dalam Negeri
 
 <!-- marginal: 8,708,000 -->
 
@@ -136,19 +100,11 @@ B. 33 Jabatan Penilaian dan Perkhidmatan
 
 <!-- marginal: 5,809,600 -->
 
-Harta B. 34 Kementerian Kesihatan
-
-<!-- marginal: 264,219,000 -->
-
-B. 35 Kementerian Dalam Negeri
+Harta B. 34 Kementerian Kesihatan 264,219,000 B. 35 Kementerian Dalam Negeri
 
 <!-- marginal: 3,366,700 -->
 
-B. 36 Polis Diraja Malaysia
-
-<!-- marginal: 243,600,000 -->
-
-B. 37 Jabatan Imigresen
+B. 36 Polis Diraja Malaysia 243,600,000 B. 37 Jabatan Imigresen
 
 <!-- marginal: 9,370,000 -->
 
@@ -156,11 +112,7 @@ B. 39 Jabatan Pendaftaran Negara
 
 <!-- marginal: 7,145,700 -->
 
-B.40 Jabatan Penjara
-
-<!-- marginal: 29,865,700 -->
-
-B. 42 Kementerian Perpaduan Negara
+B.40 Jabatan Penjara 29,865,700 B. 42 Kementerian Perpaduan Negara
 
 <!-- marginal: 5,500,000 -->
 
@@ -178,7 +130,7 @@ Tajuk
 
 <!-- marginal: Peruntukan -->
 
-<!-- marginal: kepada Maksud -->
+kepada Maksud
 
 <!-- marginal: RM -->
 
@@ -202,10 +154,8 @@ Koperasi
 
 ## JUMLAH
 
-<!-- marginal: 1,571,984,155 -->
+1,571,984,155
 
 ## HURAIAN
 
-Tujuan Rang Undang-Undang ini ialah untuk memberikan kuasaberkanun supaya beberapa pembayaran tambahan tertentu dibuat untuk perkhidmatan-perkhidmatan awampersekutuan dalam tahun 1996 melebihi perbelanjaan yang dibenarkan oleh Akta Perbekalan 1996 dan Akta Perbekalan Tambahan (1996) 1996.
-
-<!-- marginal: [PN. (U2) 1961.] -->
+Tujuan Rang Undang-Undang ini ialah untuk memberikan kuasaberkanun supaya beberapa pembayaran tambahan tertentu dibuat untuk perkhidmatan-perkhidmatan awampersekutuan dalam tahun 1996 melebihi perbelanjaan yang dibenarkan oleh Akta Perbekalan 1996 dan Akta Perbekalan Tambahan (1996) 1996. [PN. (U2) 1961.]

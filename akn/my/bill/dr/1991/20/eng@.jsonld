@@ -97,7 +97,6 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/20/eng@/~cl_4",
       "@type": "akn:clause",
       "eli:number": "4",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/20/eng@/~cl_4__para_c",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/20/eng@",
       "schema:name": {
         "@language": "en",
@@ -105,17 +104,7 @@
       },
       "schema:text": {
         "@language": "en",
-        "@value": "in Clause (1), by substituting for the words \"paragraphs"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/20/eng@/~cl_4__para_c",
-      "@type": "akn:paragraph",
-      "eli:number": "c",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/20/eng@/~cl_4",
-      "schema:text": {
-        "@language": "en",
-        "@value": ", (e) and (f)\" the words \"paragraphs (c) and (f)\". 2 BILL"
+        "@value": "in Clause (1), by substituting for the words \"paragraphs (c), (e) and (f)\" the words \"paragraphs (c) and (f)\". 2 BILL"
       }
     }
   ]

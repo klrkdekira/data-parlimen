@@ -62,9 +62,7 @@ daripada” dengan perkataan “daripada mempunyai bidang kuasa eksklusif atas p
 
 (i) dengan memasukkan selepas perkataan “membubarkan perkahwinan itu” perkataan “atau pada bila-bila masa,”; dan
 
-(ii) dengan memasukkan selepas perkataan “jika ada,” perkataan “di bawah Bahagian VII dan
-
-## Bahagian VIII”; dan
+(ii) dengan memasukkan selepas perkataan “jika ada,” perkataan “di bawah Bahagian VII dan Bahagian VIII”; dan
 
 (c) dalam subseksyen (3), dengan menggantikan perkataan “di bawah seksyen ini” dengan perkataan “jika satu pihak telah masuk Islam”.
 

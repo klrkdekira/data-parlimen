@@ -24,7 +24,7 @@
 
 9. Power to make regulations
 
-## Schedule
+## SCHEDULE
 
 <!-- page 3 -->
 
@@ -124,7 +124,7 @@ NOW, THEREFORE, IT IS ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 7 -->
 
-## Schedule
+## SCHEDULE
 
 [Section 3]
 
@@ -132,17 +132,17 @@ NOW, THEREFORE, IT IS ENACTED by the Parliament of Malaysia as follows:
 
 ## LAW IN MALAYSIA
 
-## Chapter IX
+## CHAPTER IX
 
 ## STATUS, IMMUNITIES, PRIVILEGES AND EXEMPTIONS
 
-### Article 44 Purposes of Chapter
+## Article 44 Purposes of Chapter
 
 1. To enable the Bank to fulfill its purpose and carry out the functions entrusted to it, the status, immunities, privileges and exemptions set forth in this Chapter shall be accorded to the Bank in the territory of each member.
 
 2. Each member shall promptly take such action as is necessary to make effective in its own territory the provisions set forth in this Chapter and shall inform the Bank of the action which it has taken.
 
-### Article 45 Status of the Bank
+## Article 45 Status of the Bank
 
 The Bank shall possess full juridical personality and, in particular, the full legal capacity:
 
@@ -154,7 +154,7 @@ The Bank shall possess full juridical personality and, in particular, the full l
 
 (iv) to take such other action as may be necessary or useful for its purpose and activities.
 
-### Article 46
+## Article 46
 
 ### Immunity from Judicial Proceedings
 
@@ -168,7 +168,7 @@ a member. Members shall have recourse to such special procedures for the settlem
 
 3. Property and assets of the Bank shall, wheresoever located and by whomsoever held, be immune from all forms of seizure, attachment or execution before the delivery of final judgment against the Bank.
 
-### Article 47
+## Article 47
 
 ### Immunity of Assets and Archives
 
@@ -176,15 +176,15 @@ a member. Members shall have recourse to such special procedures for the settlem
 
 2. The archives of the Bank, and, in general, all documents belonging to it, or held by it, shall be inviolable, wheresoever located and by whomsoever held.
 
-### Article 48 Freedom of Assets from Restrictions
+## Article 48 Freedom of Assets from Restrictions
 
 To the extent necessary to carry out the purpose and functions of the Bank effectively, and subject to the provisions of this Agreement, all property and assets of the Bank shall be free from restrictions, regulations, controls and moratoria of any nature.
 
-### Article 49 Privilege for Communications
+## Article 49 Privilege for Communications
 
 Official communications of the Bank shall be accorded by each member the same treatment that it accords to the official communications of any other member.
 
-### Article 50
+## Article 50
 
 ### Immunities and Privileges of Officers and Employees
 
@@ -198,7 +198,7 @@ All Governors, Directors, Alternates, the President, Vice-Presidents and other o
 
 (iii) shall be granted the same treatment in respect of travelling facilities as is accorded by members to representatives, officials and employees of comparable rank of other members.
 
-### Article 51 Exemption from Taxation
+## Article 51 Exemption from Taxation
 
 1. The Bank, its assets, property, income and its operations and transactions pursuant to this Agreement, shall be exempt from all taxation and from all customs duties. The Bank shall also be exempt from any obligation for the payment, withholding or collection of any tax or duty.
 

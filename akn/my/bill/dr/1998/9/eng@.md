@@ -50,21 +50,41 @@ the words "on the recommendation of the Chief Justice".
 
 <!-- page 2 -->
 
-Amendment 5. Section 44 of the principal Act is amended by of section 44. substituting for subsection (3) the following subsection:
+<!-- marginal: Amendment -->
+
+5. Section 44 of the principal Act is amended by
+
+<!-- marginal: of section 44. -->
+
+substituting for subsection (3) the following subsection:
 
 "(3) Every order made under subsection (1) may, upon application by the aggrieved party made within ten days after the order is served, be affirmed, yaried or discharged by the Court.".
 
-Amendment 6. Section 78 of the principal Act is amended— of section 78.
+<!-- marginal: Amendment -->
+
+6. Section 78 of the principal Act is amended—
+
+<!-- marginal: of section 78. -->
 
 (a) in subsection (1), by deleting the words ", if the parties consent,"; and
 
 (b) by deleting subsection (3).
 
-Amendment 7. Section 80 of the principal Act is amended by of section 80. substituting for subsection (3) the following subsection:
+<!-- marginal: Amendment -->
+
+7. Section 80 of the principal Act is amended by
+
+<!-- marginal: of section 80. -->
+
+substituting for subsection (3) the following subsection:
 
 "(3) Every order made under subsection (1) may, upon application by the aggrieved party made within ten days after the order is served, be affirmed, varied or discharged by the Court.".
 
-Amendment 8. (1) Section 96 of the principal Act is amended— of section 96.
+<!-- marginal: Amendment -->
+
+8. (1) Section 96 of the principal Act is amended—
+
+<!-- marginal: of section 96. -->
 
 (a) by deleting the words "granted in accordance with section 97"; and
 
@@ -132,6 +152,4 @@ application for leave to appeal can be heard by a single Judge, three such appli
 
 ## IMPLICATIONS
 
-This Bill will not involve the Government in any extra financial expenditure.
-
-<!-- marginal: [PN.(U2)2083.] -->
+This Bill will not involve the Government in any extra financial expenditure. [PN.(U2)2083.]

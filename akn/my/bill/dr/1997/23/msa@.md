@@ -68,7 +68,7 @@ di-Pertuan Agong melalui pemberitahuan dalam Warta.
 
 (3) Walau apa pun subseksyen (2), jika mana-mana Negeri lain membuat permintaan kepada Kerajaan Persekutuan supaya pemakaian Akta ini diperluas kepadanya, Yang di-Pertuan Agong boleh melalui perintah yang disiarkan dalam Warta memperluas pemakaian Akta ini kepada Negeri itu.
 
-Tafsiran.
+<!-- marginal: Tafsiran. -->
 
 2. Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—
 
@@ -82,9 +82,17 @@ Tafsiran.
 
 "Suruhanjaya" ertinya Suruhanjaya Perkhidmatan Awam yang ditubuhkan di bawah Perkara 139 Perlembagaan Persekutuan.
 
-Penubuhan
+<!-- marginal: Penubuhan -->
 
-3. (1) Maka hendaklah ditubuhkan suatu perkhidmatan perkhidmatan bersama bagi Pegawai-Pegawai Hal-Ehwal Islam untuk bersama. kegunaan bersama Persekutuan dan Negeri-Negeri yang hendaklah dikenali sebagai Perkhidmatan Bersama bagi Pegawai Hal-Ehwal Islam.
+3. (1) Maka hendaklah ditubuhkan suatu perkhidmatan
+
+<!-- marginal: perkhidmatan -->
+
+bersama bagi Pegawai-Pegawai Hal-Ehwal Islam untuk
+
+<!-- marginal: bersama. -->
+
+kegunaan bersama Persekutuan dan Negeri-Negeri yang hendaklah dikenali sebagai Perkhidmatan Bersama bagi Pegawai Hal-Ehwal Islam.
 
 (2) Perkhidmatan bersama hendaklah terdiri daripada—
 
@@ -140,17 +148,29 @@ maka perkadaran saraannya, jika ada, yang kena dibayar oleh Persekutuan dan Nege
 
 oleh setiap Negeri yang berkenaan, hendaklah ditentukan dengan persetujuan atau, jika tidak ada persetujuan, oleh Suruhanjaya.
 
-Pegawai
+<!-- marginal: Pegawai -->
 
-7. (1) Kerajaan Persekutuan hendaklah, pada tarikh Akta yang sedia ini mula berkuatkuasa, menerima ke dalam perkhidmatan ada. bersama tiap-tiap orang yang sebelum sahaja tarikh itu ialah seorang pegawai, sama ada dalam perkhidmatan awam am Persekutuan atau dalam perkhidmatan awam suatu Negeri, yang diambil kerja di bawah Skim Perkhidmatan Pegawai Hal-Ehwal Islam di bawah Sistem Saraan Baru dan yang telah diberi opsyen oleh Kerajaan Persekutuan dan telah memilih untuk memasuki perkhidmatan bersama.
+7. (1) Kerajaan Persekutuan hendaklah, pada tarikh Akta
+
+<!-- marginal: yang sedia -->
+
+ini mula berkuatkuasa, menerima ke dalam perkhidmatan
+
+<!-- marginal: ada. -->
+
+bersama tiap-tiap orang yang sebelum sahaja tarikh itu ialah seorang pegawai, sama ada dalam perkhidmatan awam am Persekutuan atau dalam perkhidmatan awam suatu Negeri, yang diambil kerja di bawah Skim Perkhidmatan Pegawai Hal-Ehwal Islam di bawah Sistem Saraan Baru dan yang telah diberi opsyen oleh Kerajaan Persekutuan dan telah memilih untuk memasuki perkhidmatan bersama.
 
 (2) Tiap-tiap orang yang memilih di bawah subseksyen
 
 (1) hendaklah diambil kerja dalam perkhidmatan bersama atas terma dan syarat perkhidmatan yang tidak kurang baiknya daripada terma dan syarat perkhidmatan yang dia berhak kepadanya sebelum sahaja tarikh yang disebut dalam subseksyen itu.
 
-Peraturan-
+<!-- marginal: Peraturan- -->
 
-8. Yang di-Pertuan Agong boleh membuat peraturan- peraturan. peraturan yang suaimanfaat atau perlu bagi melaksanakan peruntukan Akta ini dengan lebih baik.
+8. Yang di-Pertuan Agong boleh membuat peraturan-
+
+<!-- marginal: peraturan. -->
+
+peraturan yang suaimanfaat atau perlu bagi melaksanakan peruntukan Akta ini dengan lebih baik.
 
 ## HURAIAN
 

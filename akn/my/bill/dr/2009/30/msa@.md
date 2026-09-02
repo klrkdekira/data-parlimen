@@ -28,7 +28,15 @@
 
 ## TAWARAN
 
-8. Tawaran atau pelawaan yang menghendaki kelulusan Lembaga 9. Pernyataan palsu atau yang mengelirukan 10. Iklan 11. Pendaftaran prospektus 12. Dokumen yang mengandungi tawaran sekuriti hendaklah dibuat melalui syarikat amanah Labuan atau pemegang lesen bank dan hendaklah disifatkan sebagai prospektus 13. Persetujuan pakar terhadap pengeluaran prospektus yang mengandungi pernyataan olehnya
+8. Tawaran atau pelawaan yang menghendaki kelulusan Lembaga 9. Pernyataan palsu atau yang mengelirukan
+
+10. Iklan
+
+11. Pendaftaran prospektus
+
+12. Dokumen yang mengandungi tawaran sekuriti hendaklah dibuat melalui syarikat amanah Labuan atau pemegang lesen bank dan hendaklah disifatkan sebagai prospektus
+
+13. Persetujuan pakar terhadap pengeluaran prospektus yang mengandungi pernyataan olehnya
 
 <!-- page 2 -->
 
@@ -84,13 +92,31 @@
 
 <!-- page 3 -->
 
-29. Dana persendirian hendaklah menyerahkan memorandum maklumat atau apa-apa dokumen tawaran yang lain 30. Pengetepian liabiliti kerana kesilapan atau peninggalan dalam memorandum maklumat atau apa-apa dokumen tawaran yang lain
+29. Dana persendirian hendaklah menyerahkan memorandum maklumat atau apa-apa dokumen tawaran yang lain
+
+30. Pengetepian liabiliti kerana kesilapan atau peninggalan dalam memorandum maklumat atau apa-apa dokumen tawaran yang lain
 
 ## SUBPENGGAL 2
 
 ## DANA AWAM
 
-31. Dana awam hendaklah didaftarkan 32. Permohonan oleh dana awam 33. Kuasa untuk membenarkan atau enggan membenarkan pendaftaran dana awam 34. Tatacara pendaftaran 35. Prospektus yang berhubungan dengan dana awam 36. Hak pelabur 37. Batasan 38. Perakuan pematuhan 39. Dana awam asing boleh diuruskan atau ditadbirkan di Labuan
+31. Dana awam hendaklah didaftarkan
+
+32. Permohonan oleh dana awam
+
+33. Kuasa untuk membenarkan atau enggan membenarkan pendaftaran dana awam
+
+34. Tatacara pendaftaran
+
+35. Prospektus yang berhubungan dengan dana awam
+
+36. Hak pelabur
+
+37. Batasan
+
+38. Perakuan pematuhan
+
+39. Dana awam asing boleh diuruskan atau ditadbirkan di Labuan
 
 ## PENGGAL 3
 
@@ -100,7 +126,15 @@
 
 ## PENGURUS DANA DAN PENTADBIR DANA
 
-40. Pelesenan pengurus dana 41. Pelesenan pentadbir dana 42. Permohonan bagi lesen pengurus dana 43. Permohonan bagi lesen pentadbir dana 44. Kuasa untuk memberikan atau enggan memberikan lesen
+40. Pelesenan pengurus dana
+
+41. Pelesenan pentadbir dana
+
+42. Permohonan bagi lesen pengurus dana
+
+43. Permohonan bagi lesen pentadbir dana
+
+44. Kuasa untuk memberikan atau enggan memberikan lesen
 
 ## SUBPENGGAL 2
 
@@ -174,19 +208,41 @@
 
 ## PERMULAAN
 
-59. Tafsiran 60. Lesen dikehendaki untuk menjalankan perniagaan syarikat amanah di Labuan 61. Pendaftaran syarikat amanah 62. Terma dan syarat lesen 63. Penerusan sementara bagi penggulungan
+59. Tafsiran
+
+60. Lesen dikehendaki untuk menjalankan perniagaan syarikat amanah di Labuan
+
+61. Pendaftaran syarikat amanah
+
+62. Terma dan syarat lesen
+
+63. Penerusan sementara bagi penggulungan
 
 ## PENGGAL 2
 
 ## KUASA SYARIKAT AMANAH LABUAN
 
-64. Penzahiran kepentingan berhubung dengan syarikat amanah Labuan 65. Kuasa syarikat amanah Labuan untuk bertindak sebagai wasi 66. Kuasa syarikat amanah Labuan untuk bertindak sebagai pentadbir 67. Kuasa tambahan syarikat amanah Labuan 68. Kuasa syarikat amanah Labuan untuk bertindak sebagai pemegang amanah tunggal 69. Kuasa syarikat amanah Labuan untuk bertindak sebagai pemegang amanah bersama dengan pemegang amanah lain 70. Pewakilan kepada syarikat amanah Labuan
+64. Penzahiran kepentingan berhubung dengan syarikat amanah Labuan
+
+65. Kuasa syarikat amanah Labuan untuk bertindak sebagai wasi
+
+66. Kuasa syarikat amanah Labuan untuk bertindak sebagai pentadbir
+
+67. Kuasa tambahan syarikat amanah Labuan
+
+68. Kuasa syarikat amanah Labuan untuk bertindak sebagai pemegang amanah tunggal
+
+69. Kuasa syarikat amanah Labuan untuk bertindak sebagai pemegang amanah bersama dengan pemegang amanah lain
+
+70. Pewakilan kepada syarikat amanah Labuan
 
 ## PENGGAL 3
 
 ## SYARIKAT AMANAH DIURUS LABUAN
 
-71. Pelesenan syarikat amanah diurus Labuan 72. Terma dan syarat lesen sebagai syarikat amanah diurus Labuan
+71. Pelesenan syarikat amanah diurus Labuan
+
+72. Terma dan syarat lesen sebagai syarikat amanah diurus Labuan
 
 <!-- page 6 -->
 
@@ -242,13 +298,33 @@
 
 <!-- page 7 -->
 
-88. Permohonan bagi lesen untuk menjalankan perniagaan perbankan Labuan 89. Permohonan bagi lesen untuk menjalankan perniagaan perbankan pelaburan Labuan 90. Permohonan bagi lesen untuk menjalankan perniagaan kewangan Labuan 91. Maklumat tambahan 92. Pemberian lesen oleh Lembaga 93. Kehendak untuk menggunakan, dan sekatan mengenai penggunaan, perkataan “bank Labuan berlesen”, dsb. 94. Pengekalan nisbah kecukupan modal 95. Pindaan atau pengubahan dokumen konstituen pemegang lesen bank 96. Lembaga hendaklah menyiarkan senarai bank Labuan dan bank pelaburan Labuan
+88. Permohonan bagi lesen untuk menjalankan perniagaan perbankan Labuan
+
+89. Permohonan bagi lesen untuk menjalankan perniagaan perbankan pelaburan Labuan
+
+90. Permohonan bagi lesen untuk menjalankan perniagaan kewangan Labuan
+
+91. Maklumat tambahan
+
+92. Pemberian lesen oleh Lembaga
+
+93. Kehendak untuk menggunakan, dan sekatan mengenai penggunaan, perkataan “bank Labuan berlesen”, dsb.
+
+94. Pengekalan nisbah kecukupan modal
+
+95. Pindaan atau pengubahan dokumen konstituen pemegang lesen bank
+
+96. Lembaga hendaklah menyiarkan senarai bank Labuan dan bank pelaburan Labuan
 
 ## PENGGAL 3
 
 ## KEWAJIPAN PEMEGANG LESEN BANK
 
-97. Pejabat dan subsidiari 98. Larangan mengenai akaun tertentu 99. Penyata kewangan, statistik dan maklumat hendaklah dikemukakan kepada Lembaga
+97. Pejabat dan subsidiari
+
+98. Larangan mengenai akaun tertentu
+
+99. Penyata kewangan, statistik dan maklumat hendaklah dikemukakan kepada Lembaga
 
 ## PENGGAL 4
 
@@ -332,7 +408,13 @@
 
 <!-- page 9 -->
 
-124. Pembayaran wang polisi jika tidak ada penamaan 125. Pembayaran kepada orang yang tidak berwibawa untuk berkontrak 126. Pembahagian wang polisi dalam perjalanan biasa pentadbiran 127. Penggal ini mengatasi polisi dan mana-mana undang-undang bertulis yang lain
+124. Pembayaran wang polisi jika tidak ada penamaan
+
+125. Pembayaran kepada orang yang tidak berwibawa untuk berkontrak
+
+126. Pembahagian wang polisi dalam perjalanan biasa pentadbiran
+
+127. Penggal ini mengatasi polisi dan mana-mana undang-undang bertulis yang lain
 
 ## PENGGAL 5
 
@@ -348,7 +430,13 @@
 
 ## PERMULAAN
 
-129. Tafsiran 130. Daftar syarikat pengurusan 131. Permohonan bagi lesen 132. Pemberian lesen
+129. Tafsiran
+
+130. Daftar syarikat pengurusan
+
+131. Permohonan bagi lesen
+
+132. Pemberian lesen
 
 ## BAHAGIAN IX
 
@@ -364,7 +452,11 @@
 
 ## BURSA
 
-134. Penubuhan bursa 135. Undang-undang kecil bursa 136. Kaedah-kaedah bursa
+134. Penubuhan bursa
+
+135. Undang-undang kecil bursa
+
+136. Kaedah-kaedah bursa
 
 <!-- page 10 -->
 
@@ -430,7 +522,13 @@
 
 <!-- page 11 -->
 
-162. Pindaan kepada perlembagaan organisasi kawal selia sendiri 163. Perlindungan bagi organisasi kawal selia sendiri 164. Penyata kewangan organisasi kawal selia sendiri 165. Kuasa Lembaga berkenaan dengan organisasi kawal selia sendiri
+162. Pindaan kepada perlembagaan organisasi kawal selia sendiri
+
+163. Perlindungan bagi organisasi kawal selia sendiri
+
+164. Penyata kewangan organisasi kawal selia sendiri
+
+165. Kuasa Lembaga berkenaan dengan organisasi kawal selia sendiri
 
 ## BAHAGIAN XI
 
@@ -446,13 +544,43 @@
 
 ## PEMBATALAN DAN PENYERAHAN BALIK
 
-167. Pembatalan persetujuan, lesen atau pendaftaran 168. Tatacara pembatalan 169. Penyerahan balik lesen atau pendaftaran 170. Akibat pembatalan atau penyerahan balik lesen
+167. Pembatalan persetujuan, lesen atau pendaftaran
+
+168. Tatacara pembatalan
+
+169. Penyerahan balik lesen atau pendaftaran
+
+170. Akibat pembatalan atau penyerahan balik lesen
 
 ## PENGGAL 3
 
 AM
 
-171. Sistem pembayaran 172. Pemindahan perniagaan 173. Audit dalaman 174. Juruaudit luar 175. Akaun dan rekod 176. Wang atau harta lain daripada aktiviti yang menyalahi undang-undang 177. Pemeriksaan dan penelitian buku dan dokumen entiti berlesen 178. Kerahsiaan 179. Terjemahan 180. Pemakaian Akta Lembaga Perkhidmatan Kewangan Labuan 1996 181. Pemakaian Akta Perkhidmatan Kewangan dan Sekuriti Islam Labuan 2009 182. Pemakaian Akta Kawalan Pertukaran 1953 183. Pemakaian Akta Pasaran Modal dan Perkhidmatan 2007
+171. Sistem pembayaran
+
+172. Pemindahan perniagaan
+
+173. Audit dalaman
+
+174. Juruaudit luar
+
+175. Akaun dan rekod
+
+176. Wang atau harta lain daripada aktiviti yang menyalahi undang-undang
+
+177. Pemeriksaan dan penelitian buku dan dokumen entiti berlesen
+
+178. Kerahsiaan
+
+179. Terjemahan
+
+180. Pemakaian Akta Lembaga Perkhidmatan Kewangan Labuan 1996
+
+181. Pemakaian Akta Perkhidmatan Kewangan dan Sekuriti Islam Labuan 2009
+
+182. Pemakaian Akta Kawalan Pertukaran 1953
+
+183. Pemakaian Akta Pasaran Modal dan Perkhidmatan 2007
 
 <!-- page 12 -->
 
@@ -954,9 +1082,13 @@ dan bilangan orang yang kepadanya tawaran atau pelawaan itu disampaikan tidak me
 
 <!-- page 32 -->
 
-(3) Lembaga tidak boleh mendaftarkan salinan mana-mana prospektus—
+(3) Lembaga tidak boleh mendaftarkan salinan mana-mana
 
-(a) jika prospektus itu mengandungi apa-apa pernyataan atau perkara yang pada pendapatnya adalah mengelirukan dari segi bentuk dan konteks pernyataan itu dimasukkan; dan
+<!-- marginal: prospektus— -->
+
+(a) jika prospektus itu mengandungi apa-apa pernyataan atau perkara yang pada pendapatnya adalah mengelirukan dari segi bentuk dan konteks pernyataan itu dimasukkan;
+
+<!-- marginal: dan -->
 
 (b) melainkan jika—
 
@@ -968,9 +1100,7 @@ dan bilangan orang yang kepadanya tawaran atau pelawaan itu disampaikan tidak me
 
 (aa) dalam hal suatu prospektus yang berhubungan dengan dana awam—
 
-(i) suatu perakuan daripada seorang pakar yang memperakukan bahawa prospektus itu mematuhi kehendak
-
-## Bahagian III; dan
+(i) suatu perakuan daripada seorang pakar yang memperakukan bahawa prospektus itu mematuhi kehendak Bahagian III; dan
 
 (ii) jika semua atau mana-mana bahagian prospektus itu tidak dalam bahasa kebangsaan atau bahasa Inggeris, suatu terjemahan prospektus itu atau sebahagian prospektus itu dalam bahasa kebangsaan atau bahasa Inggeris, yang ditentusahkan mengikut cara yang memuaskan hati Lembaga;
 
@@ -1520,11 +1650,7 @@ dan syarikat penjamin itu hendaklah memberikan maklumat itu kepada syarikat pemi
 
 35. (1) Tiada dana awam berdaftar boleh, di dalam atau di luar Labuan, membuat suatu tawaran sekuriti melainkan jika sebelum tawaran itu dibuat, dana awam berdaftar itu telah menyerahkan suatu prospektus kepada Lembaga mengikut kehendak prospektus di bawah seksyen 11.
 
-(2) Bagi mengelak keraguan, liabiliti sivil dan jenayah bagi pernyataan silap dalam prospektus yang diperuntukkan di bawah
-
-## Bahagian II hendaklah terpakai juga bagi prospektus yang diserahkan
-
-di bawah seksyen ini.
+(2) Bagi mengelak keraguan, liabiliti sivil dan jenayah bagi pernyataan silap dalam prospektus yang diperuntukkan di bawah Bahagian II hendaklah terpakai juga bagi prospektus yang diserahkan di bawah seksyen ini.
 
 <!-- page 60 -->
 
@@ -1608,9 +1734,7 @@ mengikut mana-mana yang lebih awal.
 
 (c) pemegang lesen sekuriti di bawah Bahagian IV;
 
-(d) syarikat pengurusan yang dilesenkan di bawah
-
-## Bahagian VIII; dan
+(d) syarikat pengurusan yang dilesenkan di bawah Bahagian VIII; dan
 
 (e) orang yang masih dan terus menjadi pentadbir dana yang berkelayakan dan diberi kuasa bagi dana bersama di bawah undang-undang mana-mana negara atau bidang kuasa diiktiraf dan telah menerima kebenaran bertulis Lembaga untuk menjalankan perniagaan sebagai pentadbir dana bagi dana awam.
 
@@ -2166,7 +2290,19 @@ dalam masa tujuh hari dari tarikh berkuatkuasanya perubahan atau pertukaran yang
 
 <!-- page 83 -->
 
-(b) seseorang ialah orang berkaitan berkenaan dengan mana- mana perhubungan yang berikut: (i) isteri atau suaminya; (ii) anak-anaknya dan isteri atau suami mereka; (iii) ibu bapanya, termasuk ibu bapa tiri; (iv) datuk atau neneknya dan datuk atau nenek isteri atau suaminya; (v) ibu bapa mertuanya, termasuk ibu bapa mertua tiri; (vi) adik lelaki atau abang, adik lelaki atau abang tirinya, adik perempuan atau kakaknya, adik perempuan atau kakak tirinya dan isteri atau suami mereka; (vii) adik lelaki atau abang isteri atau suaminya, adik lelaki atau abang tiri isteri atau suaminya, adik perempuan atau kakak isteri atau suaminya, adik perempuan atau kakak tiri isteri atau suaminya dan isteri atau suami dan anak-anak mereka; (viii) adik lelaki atau abang ibu bapanya, adik lelaki atau abang tiri ibu bapanya, adik perempuan atau kakak ibu bapanya, adik perempuan atau kakak tiri ibu bapanya dan isteri atau suami mereka; (ix) anak-anak adik lelaki atau abang, adik lelaki atau abang tiri, adik perempuan atau kakak atau adik perempuan atau kakak tiri ibu bapanya, yang ada atau pada masa hadapan, termasuk anak tiri dan isteri atau suami mereka; dan (x) anak-anak adik lelaki atau abangnya, adik lelaki atau abang tirinya, adik perempuan atau kakaknya, adik perempuan atau kakak tirinya, yang ada atau pada masa hadapan, termasuk anak tiri dan isteri atau suami mereka;
+(b) seseorang ialah orang berkaitan berkenaan dengan mana- mana perhubungan yang berikut: (i) isteri atau suaminya; (ii) anak-anaknya dan isteri atau suami mereka;
+
+(iii) ibu bapanya, termasuk ibu bapa tiri;
+
+(iv) datuk atau neneknya dan datuk atau nenek isteri atau suaminya; (v) ibu bapa mertuanya, termasuk ibu bapa mertua tiri;
+
+(vi) adik lelaki atau abang, adik lelaki atau abang tirinya, adik perempuan atau kakaknya, adik perempuan atau kakak tirinya dan isteri atau suami mereka;
+
+(vii) adik lelaki atau abang isteri atau suaminya, adik lelaki atau abang tiri isteri atau suaminya, adik perempuan atau kakak isteri atau suaminya, adik perempuan atau kakak tiri isteri atau suaminya dan isteri atau suami dan anak-anak mereka;
+
+(viii) adik lelaki atau abang ibu bapanya, adik lelaki atau abang tiri ibu bapanya, adik perempuan atau kakak ibu bapanya, adik perempuan atau kakak tiri ibu bapanya dan isteri atau suami mereka;
+
+(ix) anak-anak adik lelaki atau abang, adik lelaki atau abang tiri, adik perempuan atau kakak atau adik perempuan atau kakak tiri ibu bapanya, yang ada atau pada masa hadapan, termasuk anak tiri dan isteri atau suami mereka; dan (x) anak-anak adik lelaki atau abangnya, adik lelaki atau abang tirinya, adik perempuan atau kakaknya, adik perempuan atau kakak tirinya, yang ada atau pada masa hadapan, termasuk anak tiri dan isteri atau suami mereka;
 
 (c) bagi mana-mana hubungan yang dinyatakan dalam perenggan (b) yang boleh wujud dengan sepemendaan atau perhubungan sedarah, hubungan sama itu boleh wujud dengan pengangkutan.
 
@@ -2532,7 +2668,9 @@ bentuk yang boleh diterima oleh Lembaga, dan jaminan serta aku janji itu hendakl
 
 (iii) tiap-tiap pengarah atau pegawai prinsipal pemohon yang bertanggungjawab bagi pengurusan perniagaan perbankan Labuan pemohon hendaklah orang yang layak dan sesuai dan pelantikan pengarah atau pegawai prinsipal itu hendaklah dibuat hanya selepas berunding dengan Lembaga.
 
-(3) Sesuatu permohonan bagi lesen untuk menjalankan perniagaan perbankan Labuan oleh suatu syarikat Labuan yang dicadangkan yang hendak diperbadankan di bawah Akta Syarikat Labuan 1990 (“syarikat Labuan dicadangkan”) hendaklah disertai dengan yang berikut:
+(3) Sesuatu permohonan bagi lesen untuk menjalankan perniagaan perbankan Labuan oleh suatu syarikat Labuan yang dicadangkan yang hendak diperbadankan di bawah Akta Syarikat Labuan 1990 (“syarikat Labuan dicadangkan”) hendaklah disertai dengan yang
+
+<!-- marginal: berikut: -->
 
 (a) dokumen konstituennya yang dicadangkan yang disahkan dengan sewajarnya oleh mana-mana pegawainya mengikut apa-apa cara yang boleh diterima oleh Lembaga;
 
@@ -4064,11 +4202,7 @@ dia hendaklah dengan serta-merta melaporkan perkara itu secara bertulis kepada L
 
 (v) entiti berlesen itu telah dengan disedarinya dan dengan sengaja membekalkan maklumat yang palsu, mengelirukan atau tidak tepat atau tidak menzahirkan maklumat yang dikehendaki di bawah Akta ini;
 
-(vi) entiti berlesen itu menjalankan perniagaan mengikut cara yang Lembaga dengan munasabah mempercayai akan memudaratkan kepentingan, dalam hal entiti berlesen di bawah
-
-## Bahagian III, pelabur dana bersama, atau kepentingan
-
-awam;
+(vi) entiti berlesen itu menjalankan perniagaan mengikut cara yang Lembaga dengan munasabah mempercayai akan memudaratkan kepentingan, dalam hal entiti berlesen di bawah Bahagian III, pelabur dana bersama, atau kepentingan awam;
 
 (vii) entiti berlesen itu diisytiharkan bankrap atau telah digulungkan atau selainnya dibubarkan;
 
@@ -4288,11 +4422,7 @@ luar Malaysia di mana harta atau perniagaan itu berada, atau jika tiada perkiraa
 
 (a) telah berlaku suatu pelanggaran peruntukan mana-mana Bahagian Akta ini atau bahawa suatu kesalahan di bawah mana-mana undang-undang bertulis telah dilakukan oleh entiti berlesen itu atau mana-mana pekerjanya; atau
 
-(b) apa-apa ketidakteraturan yang menjejaskan kepentingan pemunya polisi, dalam hal suatu entiti berlesen di bawah
-
-## Bahagian V, atau pemiutang entiti berlesen itu, atau
-
-apa-apa ketidakteraturan lain, telah berlaku.
+(b) apa-apa ketidakteraturan yang menjejaskan kepentingan pemunya polisi, dalam hal suatu entiti berlesen di bawah Bahagian V, atau pemiutang entiti berlesen itu, atau apa-apa ketidakteraturan lain, telah berlaku.
 
 <!-- page 175 -->
 
@@ -4734,149 +4864,129 @@ sebelum tarikh kuat kuasa itu, hendaklah, jika terdapat peruntukan yang bersamaa
 
 [subseksyen 2(1); takrif “pengarah”]
 
-Ruang Pertama Ruang Kedua Ruang Ketiga
+<!-- marginal: Ruang Pertama -->
 
-<!-- marginal: Ruang Keempat -->
+Ruang Kedua Ruang Ketiga Ruang Keempat
 
-(orang) (pengarah) (ditubuhkan)
+<!-- marginal: (orang) -->
 
-<!-- marginal: (peserta) -->
+(pengarah) (ditubuhkan) (peserta)
 
-diperbadankan
+diperbadankan pemegang syer
 
-<!-- marginal: pemegang syer -->
+<!-- marginal: Perbadanan -->
 
-Perbadanan seseorang yang memegang jawatan pengarah perbadanan itu, tidak kira apa jua namanya dipanggil, dan termasuklah seseorang yang mengikut arahan atau petunjuknya pengarah perbadanan itu biasanya bertindak dan seorang pengarah silih ganti atau gantian
+seseorang yang memegang jawatan pengarah perbadanan itu, tidak kira apa jua namanya dipanggil, dan termasuklah seseorang yang mengikut arahan atau petunjuknya pengarah perbadanan itu biasanya bertindak dan seorang pengarah silih ganti atau gantian
 
-<!-- marginal: anggota -->
+anggota didaftarkan,
 
-didaftarkan, Koperasi seorang anggota lembaga diperbadankan atau badan pengelola atau selainnya lain koperasi itu, tidak wujud di sisi kira apa jua namanya undang-undang dipanggil sebagai suatu koperasi
+<!-- marginal: Koperasi -->
 
-Badan seorang anggota kewujudannya di
+seorang anggota lembaga diperbadankan atau badan pengelola atau selainnya lain koperasi itu, tidak wujud di sisi kira apa jua namanya undang-undang dipanggil sebagai suatu koperasi
 
-<!-- marginal: pemegang -->
+<!-- marginal: Badan -->
 
-berkanun lembaga, jawatankuasa, bawah undang-
+seorang anggota kewujudannya di pemegang
 
-<!-- marginal: syer atau, jika -->
+<!-- marginal: berkanun -->
 
-majlis atau badan undang yang
-
-<!-- marginal: badan berkanun -->
-
-pengelola lain badan menubuhkan,
-
-<!-- marginal: itu -->
-
-<!-- marginal: tidak -->
-
-berkanun itu, tidak melantik atau
-
-<!-- marginal: mempunyai -->
-
-kira apa jua namanya membentuknya
-
-<!-- marginal: modal syer, -->
-
-dipanggil
-
-<!-- marginal: seseorang -->
-
-<!-- marginal: yang secara -->
-
-<!-- marginal: keseluruhan, -->
-
-<!-- marginal: berasingan -->
-
-<!-- marginal: atau bersesama -->
-
-<!-- marginal: dengan orang -->
-
-<!-- marginal: lain -->
+lembaga, jawatankuasa, bawah undang- syer atau, jika majlis atau badan undang yang badan berkanun pengelola lain badan menubuhkan, itu tidak berkanun itu, tidak melantik atau mempunyai kira apa jua namanya membentuknya modal syer, dipanggil seseorang yang secara keseluruhan, berasingan atau bersesama dengan orang lain
 
 <!-- marginal: yang -->
 
-<!-- marginal: memiliki badan -->
+memiliki badan berkanun itu
 
-<!-- marginal: berkanun itu -->
+<!-- marginal: Perkongsian -->
 
-Perkongsian pekongsi pembentukannya
-
-<!-- marginal: pekongsi -->
+pekongsi pembentukannya pekongsi
 
 <!-- page 196 -->
 
-Ruang Pertama Ruang Kedua Ruang Ketiga
+<!-- marginal: Ruang Pertama -->
 
-<!-- marginal: Ruang Keempat -->
+Ruang Kedua Ruang Ketiga Ruang Keempat
 
-(orang) (pengarah) (ditubuhkan)
+<!-- marginal: (orang) -->
 
-<!-- marginal: (peserta) -->
+(pengarah) (ditubuhkan) (peserta)
 
-<!-- marginal: pekongsi -->
+pekongsi
 
-Perkongsian pekongsi am (atau orang pembentukannya terhad yang memegang peranan atau
+<!-- marginal: Perkongsian -->
 
-<!-- marginal: jika -->
-
-yang serupa) pendaftaran atau bentuk perekodan atau pengiktirafan lain dikehendaki sebelum aktiviti atau perniagaan boleh dimulakan menurut undang-undang, pendaftaran, perekodan atau pengiktirafan undang- undangnya di bawah undang- undang yang terpakai
-
-pembentukannya Perkongsian pekongsi ditetapkan
-
-<!-- marginal: pekongsi -->
-
-atau
-
-<!-- marginal: jika -->
-
-liabiliti terhad (atau orang yang
+pekongsi am (atau orang pembentukannya
 
 <!-- marginal: terhad -->
 
-pendaftaran memegang peranan yang atau bentuk serupa) perekodan atau pengiktirafan lain dikehendaki sebelum aktiviti atau perniagaan boleh dimulakan menurut undang-undang, pendaftaran, perekodan atau pengiktirafan undang- undangnya di bawah undang- undang yang terpakai
+yang memegang peranan atau jika yang serupa) pendaftaran atau bentuk perekodan atau pengiktirafan lain dikehendaki sebelum aktiviti atau perniagaan boleh dimulakan menurut undang-undang, pendaftaran, perekodan atau pengiktirafan undang- undangnya di bawah undang- undang yang terpakai
+
+pembentukannya
+
+<!-- marginal: Perkongsian -->
+
+pekongsi ditetapkan pekongsi atau jika
+
+<!-- marginal: liabiliti terhad -->
+
+(atau orang yang terhad pendaftaran memegang peranan yang atau bentuk serupa) perekodan atau pengiktirafan lain dikehendaki sebelum aktiviti atau perniagaan boleh dimulakan menurut undang-undang, pendaftaran, perekodan atau pengiktirafan undang- undangnya di bawah undang- undang yang terpakai
 
 <!-- page 197 -->
 
-Ruang Pertama Ruang Kedua Ruang Ketiga
+<!-- marginal: Ruang Pertama -->
 
-<!-- marginal: Ruang Keempat -->
+Ruang Kedua Ruang Ketiga Ruang Keempat
 
-(orang) (pengarah) (ditubuhkan)
+<!-- marginal: (orang) -->
 
-<!-- marginal: (peserta) -->
+(pengarah) (ditubuhkan) (peserta)
 
-<!-- marginal: pemunya -->
+pemunya
 
-Pemunyaan pemunya tunggal jika pendaftaran
+<!-- marginal: Pemunyaan -->
+
+pemunya tunggal jika pendaftaran tunggal
 
 <!-- marginal: tunggal -->
 
-tunggal atau bentuk perekodan atau pengiktirafan lain dikehendaki sebelum aktiviti atau perniagaan boleh dimulakan menurut undang-undang, pendaftaran, perekodan atau pengiktirafan undang- undangnya di bawah undang- undang yang terpakai
+atau bentuk perekodan atau pengiktirafan lain dikehendaki sebelum aktiviti atau perniagaan boleh dimulakan menurut undang-undang, pendaftaran, perekodan atau pengiktirafan undang- undangnya di bawah undang- undang yang terpakai
 
-<!-- marginal: anggota bagi -->
+anggota bagi jika pendaftaran mana-mana orang yang
 
-jika pendaftaran mana-mana orang yang Mana-mana
+<!-- marginal: Mana-mana -->
 
-<!-- marginal: badan, persatuan -->
+badan, persatuan atau bentuk mempunyai arahan
 
-atau bentuk mempunyai arahan badan,
+<!-- marginal: badan, -->
 
-<!-- marginal: atau kumpulan -->
+atau kumpulan perekodan atau atau kawalan ke atas
 
-perekodan atau atau kawalan ke atas persatuan atau
+<!-- marginal: persatuan atau -->
 
-<!-- marginal: itu, tidak kira -->
+itu, tidak kira pengiktirafan pengurusan hal-ehwal
 
-pengiktirafan pengurusan hal-ehwal kumpulan
+<!-- marginal: kumpulan -->
 
-<!-- marginal: apa jua namanya -->
+apa jua namanya lain dikehendaki atau perniagaannya
 
-lain dikehendaki atau perniagaannya orang lain
+<!-- marginal: orang lain -->
 
-<!-- marginal: disebut -->
+disebut sebelum aktiviti
 
-sebelum aktiviti sama ada atau perniagaan diperbadankan boleh dimulakan atau tidak menurut diperbadankan undang-undang, pendaftaran, perekodan atau pengiktirafan undang- undangnya di bawah undang- undang yang terpakai
+<!-- marginal: sama ada -->
+
+atau perniagaan
+
+<!-- marginal: diperbadankan -->
+
+boleh dimulakan
+
+<!-- marginal: atau tidak -->
+
+menurut
+
+<!-- marginal: diperbadankan -->
+
+undang-undang, pendaftaran, perekodan atau pengiktirafan undang- undangnya di bawah undang- undang yang terpakai
 
 <!-- page 198 -->
 

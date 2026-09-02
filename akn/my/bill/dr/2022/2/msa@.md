@@ -354,7 +354,7 @@ prescription in a manner so as to permanently attach to the prescription, his na
 
 (c) dengan memotong subseksyen (3), (4), (5), (6), (7), (8), (9) dan (10).
 
-### Seksyen baharu 31a, 31b, 31c, 31d, 31e dan 31f
+## SEKSYEN BAHARU 31A, 31B, 31C, 31D, 31E DAN 31F
 
 19. Akta ibu dipinda dengan memasukkan selepas seksyen 31 seksyen yang berikut:
 

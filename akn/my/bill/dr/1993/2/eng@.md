@@ -66,31 +66,31 @@ Criminal Procedure Code.
 
 (5) Any regulations made under section 15 shall unless expressly excluded therein apply to members of the security force established under this section.".
 
-### Amendment
+<!-- marginal: Amendment -->
 
 4. The principal Act is amended by substituting for
 
-### of section 24.
+<!-- marginal: of section 24. -->
 
 section 24(5) the following new section 24(5):
 
 "(5) The Commission may give loans to its officers and servants for such purpose as may be approved by the Commission and on such terms and conditions as the Commission thinks fit.".
 
-### Amendment
+<!-- marginal: Amendment -->
 
 5. Section 25 of the principal Act is amended by
 
-### of section 25,
+<!-- marginal: of section 25, -->
 
 inserting after subsection (3) the following new subsection (3A):
 
 "(3A) The Commission may dispose of any capital asset or any asset kept in the store which is no longer required by the Commission.".
 
-### Amendment
+<!-- marginal: Amendment -->
 
 6. The principal Act is amended by substituting for
 
-### of section 3 1.
+<!-- marginal: of section 3 1. -->
 
 section 31(2) the following new section 31(2):
 
@@ -182,23 +182,37 @@ subsection (1) the Commission may expend such moneys as are necessary.
 
 Commission or to operate or maintain a port or the transportation of goods through the port; or
 
-(b) the development, operation or main- tenance outside the port of marinas and other properties necessary for the furtherance of any duty of the Commission.".
+(b) the development, operation or main- tenance outside the port of marinas and other properties necessary for the furtherance of any duty of
 
-Amendment
+<!-- marginal: the -->
 
-13. Section 60(5) of the principal Act is amended by of section 60 substituting for the words "five hundred dollars" the words "one thousand ringgit".
+Commission.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-14. Section 64 of the principal Act is amended— of section 64
+13. Section 60(5) of the principal Act is amended by
+
+<!-- marginal: of section 60 -->
+
+substituting for the words "five hundred dollars" the words "one thousand ringgit".
+
+<!-- marginal: Amendment -->
+
+14. Section 64 of the principal Act is amended—
+
+<!-- marginal: of section 64 -->
 
 (a) by deleting the words "or Her Britannic Majesty" in the marginal note; and
 
 (b) by deleting the words "or of Her Britannic Majesty" in the section.
 
-New section!
+<!-- marginal: New section! -->
 
-15. The principal Act is amended by inserting after 70CA and section 70c the following new sections 70cA and 70cb:
+15. The principal Act is amended by inserting after
+
+<!-- marginal: 70CA and -->
+
+section 70c the following new sections 70cA and 70cb:
 
 70CB. Power of 70cA. (1) Notwithstanding anything to the Pilotage contrary in this Act the Commission may, if it Committee to license considers expedient, authorise the Pilotage employees Committee to issue a licence to any employee of a licensed of a licensed operator to pilot vessels in a operator. pilotage district of the Commission subject to such terms and conditions as the Commission thinks fit: Provided that no such licence shall be issued to any such employee unless the Pilotage Committee has examined the employee and be satisfied as to the employee's general fitness and competency, including his physical fitness to act as a pilot for the licensed operator.
 
@@ -286,15 +300,23 @@ words "five thousand ringgit".
 
 ## BILL
 
-Amendment
+<!-- marginal: Amendment -->
 
-21. Section 82 of the principal Act is amended by of section 82. substituting for the words "five hundred dollars" the words "two thousand ringgit".
+21. Section 82 of the principal Act is amended by
 
-Amendment
+<!-- marginal: of section 82. -->
 
-22. Section 83 of the principal Act is amended by of section 83. substituting for the words "five hundred dollars" in subsections (2) and (4) the words "two thousand ringgit".
+substituting for the words "five hundred dollars" the words "two thousand ringgit".
 
-New section
+<!-- marginal: Amendment -->
+
+22. Section 83 of the principal Act is amended by
+
+<!-- marginal: of section 83. -->
+
+substituting for the words "five hundred dollars" in subsections (2) and (4) the words "two thousand ringgit".
+
+<!-- marginal: New section -->
 
 23. The principal Act is amended by inserting after
 
@@ -302,23 +324,29 @@ New section
 
 86A. Any person who hinders or obstructs any member, officer or servant of the Commission in the performance or execution of his duty or in carrying out anything which he is empowered or required to do by virtue of or in consequence of this Act shall be guilty of an offence under this Act and shall, on conviction, be liable to a fine not exceeding one thousand ringgit or to imprisonment for a term not exceeding six months or to both.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-24. Section 87(2) of the principal Act is amended by of section 87. substituting for the words "one thousand dollars" the words "two thousand ringgit".
+24. Section 87(2) of the principal Act is amended by
 
-Amendment
+<!-- marginal: of section 87. -->
 
-25. Section 88 of the principal Act is amended by of section 88. substituting for the words "one thousand dollars" the words "two thousand ringgit".
+substituting for the words "one thousand dollars" the words "two thousand ringgit".
 
-New section
+<!-- marginal: Amendment -->
+
+25. Section 88 of the principal Act is amended by
+
+<!-- marginal: of section 88. -->
+
+substituting for the words "one thousand dollars" the words "two thousand ringgit".
+
+<!-- marginal: New section -->
 
 26. The principal Act is amended by inserting after
 
 88A. section 88 the following new section 88A:
 
-Penalty
-
-88A. Any person who makes any statement for giving which is false in any material particular in any false statement. return, claim, application, declaration or other document which is requested or authorised to be made by or under the provisions of this Act or of any by-laws made thereunder shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding five thousand ringgit."
+Penalty 88A. Any person who makes any statement for giving which is false in any material particular in any false statement. return, claim, application, declaration or other document which is requested or authorised to be made by or under the provisions of this Act or of any by-laws made thereunder shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding five thousand ringgit."
 
 <!-- page 7 -->
 
@@ -328,43 +356,155 @@ Penalty
 
 <!-- marginal: New sections -->
 
-27. The principal Act is amended by
-
-<!-- marginal: inserting -->
+27. The principal Act is amended by inserting
 
 <!-- marginal: 89A and 89B. -->
 
 after section 89 the following new sections 89A and 89B:
 
-Commis- 89A. (1) When any person without lawful sion to excuse refuses or neglects to obey any direction recover expenses lawfully given under this Act or any by-laws incurred made thereunder, the Commission may, for act done irrespective of whether any proceedings have pursuant been instituted against or any punishment to a lawful imposed on such person for the refusal or direction. neglect, do or cause to be done all such acts as are in its opinion reasonable or necessary for the purpose of carrying out such direction.
+<!-- marginal: Commis- -->
+
+89A. (1) When any person without lawful
+
+<!-- marginal: sion to -->
+
+excuse refuses or neglects to obey any direction
+
+<!-- marginal: recover -->
+
+<!-- marginal: expenses -->
+
+lawfully given under this Act or any by-laws
+
+<!-- marginal: incurred -->
+
+made thereunder, the Commission may,
+
+<!-- marginal: for act -->
+
+<!-- marginal: done -->
+
+irrespective of whether any proceedings have
+
+<!-- marginal: pursuant -->
+
+been instituted against or any punishment
+
+<!-- marginal: to a -->
+
+<!-- marginal: lawful -->
+
+imposed on such person for the refusal or
+
+<!-- marginal: direction. -->
+
+neglect, do or cause to be done all such acts as are in its opinion reasonable or necessary for the purpose of carrying out such direction.
 
 (2) The powers conferred by subsection (1) include the power to hire and employ such persons as are necessary and proper for making good whatever loss or damage that has been caused by any refusal or neglect of the person to whom the direction has been given.
 
-(3) Any expenses incurred in the exercise of the powers conferred under subsection (1) or (2) shall be recoverable from the person to whom the direction had been given as a civil debt.
+(3) Any expenses incurred in the exercise of the powers conferred under subsection (1) or
 
-Offence 89B. Where an offence under this Act or under committed any of the regulations or by-laws made by a body corporate: thereunder is committed by a body corporate officers (whether or not the body corporate has been deemed to be guilty. prosecuted), every director, secretary or manager of the body corporate shall be deemed to be guilty of the offence unless he proves that the offence was committed without his consent or connivance and that he exercised all due diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances of the case.
+(2) shall be recoverable from the person to whom the direction had been given as a civil debt.
+
+<!-- marginal: Offence -->
+
+89B. Where an offence under this Act or under
+
+<!-- marginal: committed -->
+
+any of the regulations or by-laws made
+
+<!-- marginal: by a body -->
+
+<!-- marginal: corporate: -->
+
+thereunder is committed by a body corporate
+
+<!-- marginal: officers -->
+
+(whether or not the body corporate has been
+
+<!-- marginal: deemed to -->
+
+<!-- marginal: be guilty. -->
+
+prosecuted), every director, secretary or manager of the body corporate shall be deemed to be guilty of the offence unless he proves that the offence was committed without his consent or connivance and that he exercised all due diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances of the case.
 
 <!-- page 8 -->
 
-### 8
+<!-- marginal: 8 -->
 
 ## BILL
 
-New sections
+<!-- marginal: New sections -->
 
-28. The principal Act is amended by inserting after 90A and 90B. section 90 the following new sections 90A and 90B:
+28. The principal Act is amended by inserting after
 
-Power to 90A. (1) The General Manager or such person board as may be authorised by him may board any vessel and seize. . vessel within the port whenever he suspects that an offence under this Act or any by-laws made thereunder has been or is about to be committed on board such vessel or whenever he considers it necessary to do so in the discharge of his duties under this Act or any by-laws made thereunder.
+<!-- marginal: 90A and 90B. -->
+
+section 90 the following new sections 90A and 90B:
+
+<!-- marginal: Power to -->
+
+90A. (1) The General Manager or such person
+
+<!-- marginal: board -->
+
+as may be authorised by him may board any
+
+<!-- marginal: vessel -->
+
+<!-- marginal: and seize. -->
+
+. vessel within the port whenever he suspects that an offence under this Act or any by-laws made thereunder has been or is about to be committed on board such vessel or whenever he considers it necessary to do so in the discharge of his duties under this Act or any by-laws made thereunder.
 
 (2) The General Manager or such person as may be authorised by him may, in exercising his powers and carrying out his duties under subsection (1), seize any article, document or thing which he has reasonable grounds for believing has been used for the commission of, or is the subject matter of, or is required for the purpose of investigation and prosecution of, an offence under this Act or any by-laws made thereunder,
 
 (3) Any master of such vessel who wilfully delays, fails to comply with any order lawfully given, withholds any information or obstructs in any manner whatsoever the General Manager or such person as may be authorised by him pursuant to subsection (1) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding one thousand ringgit.
 
-Power of 90B. (1) In the event of fire breaking out on General . board any vessel in the port, the General Manager or authorised Manager or any person authorised by him may person proceed to board the vessel with such persons to order and assistance as may seem fit to him and may scuttling or removal give such orders to the master of the vessel as of vessel are necessary for scuttling the vessel or for in case of fire. removing that vessel or any other vessel, and he may take such other measures as are necessary and proper for the protection of life or property.
+<!-- marginal: Power of -->
+
+90B. (1) In the event of fire breaking out on
+
+<!-- marginal: General -->
+
+. board any vessel in the port, the General
+
+<!-- marginal: Manager or -->
+
+<!-- marginal: authorised -->
+
+Manager or any person authorised by him may
+
+<!-- marginal: person -->
+
+proceed to board the vessel with such persons
+
+<!-- marginal: to order -->
+
+and assistance as may seem fit to him and may
+
+<!-- marginal: scuttling -->
+
+<!-- marginal: or removal -->
+
+give such orders to the master of the vessel as
+
+<!-- marginal: of vessel -->
+
+are necessary for scuttling the vessel or for
+
+<!-- marginal: in case -->
+
+<!-- marginal: of fire. -->
+
+removing that vessel or any other vessel, and he may take such other measures as are necessary and proper for the protection of life or property.
 
 <!-- page 9 -->
 
-(2) If the orders given pursuant to subsection (1) are not carried out forthwith by the master of the vessel, the General Manager or the person authorised by him may himself proceed to carry the orders into effect.
+(2) If the orders given pursuant to subsection
+
+(1) are not carried out forthwith by the master of the vessel, the General Manager or the person authorised by him may himself proceed to carry the orders into effect.
 
 (3) Any expenses incurred in the exercise of the powers conferred by subsections (1) and (2) shall be recoverable from the master or the owner of the vessel concerned as a civil debt.".
 
@@ -404,13 +544,17 @@ Power of 90B. (1) In the event of fire breaking out on General . board any vesse
 
 <!-- page 10 -->
 
-### 10
+<!-- marginal: 10 -->
 
 ## BILL
 
-Amendment
+<!-- marginal: Amendment -->
 
-31. Section 92c of the principal Act is amended— of section 92c.
+31. Section 92c of the principal Act is amended—
+
+<!-- marginal: of section -->
+
+<!-- marginal: 92c. -->
 
 (a) by substituting for the words ", either within or without the districts for which he is licensed," in subsection (1) the words "or any person licensed under section 70CA(l)"; and
 
@@ -418,9 +562,11 @@ Amendment
 
 "(4) Any person licensed under section 70cA(l) who commits an offence under this section, or procures, aids, abets or connives at the commission of any such offence shall, on conviction, be liable to suspension or revocation of the licence.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-32. Section 92D of the principal Act is amended— of section
+32. Section 92D of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 92D.
 
@@ -430,17 +576,53 @@ Amendment
 
 "Provided that no person licensed under section 70CA(l) shall be dismissed by the Commission.".
 
-Substitution
+<!-- marginal: Substitution -->
 
-33. The principal Act is amended by substituting for of section section 92E the following new section 92E: 92e.
+33. The principal Act is amended by substituting for
 
-Failure to 92E. (1) The master, owner or agent of a vessel employ navigating in circumstances in which the vessel Commis- sion pilot is required by the Commission under section or licensed 70B to be under pilotage who does not employ pilot under certain a Commission pilot or a person licensed under circum- section 70cA(1) for such purpose shall be guilty stances. of an offence under this Act and shall, on conviction, be liable to a fine not exceeding five thousand ringgit.
+<!-- marginal: of section -->
+
+section 92E the following new section 92E:
+
+<!-- marginal: 92e. -->
+
+<!-- marginal: Failure to -->
+
+92E. (1) The master, owner or agent of a vessel
+
+<!-- marginal: employ -->
+
+navigating in circumstances in which the vessel
+
+<!-- marginal: Commis- -->
+
+<!-- marginal: sion pilot -->
+
+is required by the Commission under section
+
+<!-- marginal: or licensed -->
+
+70B to be under pilotage who does not employ
+
+<!-- marginal: pilot under -->
+
+<!-- marginal: certain -->
+
+a Commission pilot or a person licensed under
+
+<!-- marginal: circum- -->
+
+section 70cA(1) for such purpose shall be guilty
+
+<!-- marginal: stances. -->
+
+of an offence under this Act and shall, on conviction, be liable to a fine not exceeding five thousand ringgit.
 
 <!-- page 11 -->
 
 ## PENANG PORT COMMISSION (AMENDMENT)
 
-<!-- marginal: 11 -->
+11
 
 (2) Upon being found guilty of any offence under subsection (1), the Court before which the master, owner or agent of the vessel is found guilty shall order such master, owner or agent to pay to the Commission the amount certified by the accountant of the Commission to be the amount of dues and rates which would have been payable to the Commission if the vessel has been under pilotage as required by this Act and such amount shall be recoverable in the same manner as a fine.".
 
@@ -464,7 +646,17 @@ regulations or by-laws made thereunder".
 
 section 101 the following new section 10lA:
 
-Power to 101A. (1) The Minister may by order to be compound published in the Gazette prescribe any offence offence. against the provisions of this Act or of any regulations or by-laws made thereunder as an offence which may be compounded by the Commission.
+<!-- marginal: Power to -->
+
+101A. (1) The Minister may by order to be
+
+<!-- marginal: compound -->
+
+published in the Gazette prescribe any offence
+
+<!-- marginal: offence. -->
+
+against the provisions of this Act or of any regulations or by-laws made thereunder as an offence which may be compounded by the Commission.
 
 (2) The General Manager may in his discretion compound such offence prescribed under subsection (1) by accepting from the person reasonably suspected of having committed any such offence a sum of money not exceeding five hundred ringgit.
 

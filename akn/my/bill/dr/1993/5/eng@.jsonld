@@ -28,7 +28,7 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/eng@/~cl_1",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/eng@/~cl_2",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/eng@/~cl_3",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/eng@/~sched_1"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/eng@/~cl_4"
       ],
       "schema:name": {
         "@language": "en",
@@ -96,7 +96,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/eng@/~cl_2",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after Clause (3A) the following new \"(3B) Where an amendment to Article 46 or a law enacted by the Legislative Assembly of a State referred to in paragraph (i) of Clause (3A) comes into force after the lapse of eight years from the date of completion of the last review under Clause (2) and the Election Commission are of the opinion that it is necessary to undertake a review under Clause (2), the Election Commission shall not undertake a review under paragraph (i) of Clause (3A) but shall instead undertake a 2 BILL review under Clause (2) and in conducting such review shall take into account any area which is affected in consequence of the amendment or the law referred to in paragraph (i) of Clause (3A).\". Amendment"
+        "@value": "by inserting after Clause (3A) the following new \"(3B) Where an amendment to Article 46 or a law enacted by the Legislative Assembly of a State referred to in paragraph (i) of Clause (3A) comes into force after the lapse of eight years from the date of completion of the last review under Clause (2) and the Election Commission are of the opinion that it is necessary to undertake a review under Clause (2), the Election Commission shall not undertake a review under paragraph (i) of Clause (3A) but shall instead undertake a 2 BILL review under Clause (2) and in conducting such review shall take into account any area which is affected in consequence of the amendment or the law referred to in paragraph (i) of Clause (3A).\"."
       }
     },
     {
@@ -104,55 +104,48 @@
       "@type": "akn:clause",
       "eli:number": "3",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Eighth Schedule to the Federal Constitution is"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "The Eighth Schedule to the Federal Constitution is of Eighth amended by inserting after the words \"section 1(2),\" in"
+        "@value": "amended by inserting after the words \"section 1(2),\" in Schedule. section 22 the words \"section 1A,\"."
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/eng@/~sched_1",
-      "@type": "akn:schedule",
-      "eli:number": "1",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/eng@/~sched_1__para_4",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/eng@",
-      "schema:text": {
-        "@language": "en",
-        "@value": "section 22 the words \"section 1A,\". Amendment"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/eng@/~sched_1__para_4",
-      "@type": "akn:paragraph",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/eng@/~cl_4",
+      "@type": "akn:clause",
       "eli:number": "4",
       "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/eng@/~sched_1__para_4__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/eng@/~sched_1__para_4__para_b"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/eng@/~cl_4__para_b"
       ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/eng@/~sched_1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/eng@",
       "schema:name": {
         "@language": "en",
         "@value": "The Constitution (Amendment) Act 1992"
       },
       "schema:text": {
         "@language": "en",
-        "@value": "ofActA837 amended—"
+        "@value": "amended—"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/eng@/~sched_1__para_4__para_a",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/eng@/~cl_4__para_a",
       "@type": "akn:paragraph",
       "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/eng@/~sched_1__para_4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/eng@/~cl_4",
       "schema:text": {
         "@language": "en",
         "@value": "by repealing section 3 as if it had not been part of the Act; and"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/eng@/~sched_1__para_4__para_b",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/eng@/~cl_4__para_b",
       "@type": "akn:paragraph",
       "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/eng@/~sched_1__para_4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/eng@/~cl_4",
       "schema:text": {
         "@language": "en",
         "@value": "in section 4, by deleting the words \"following the review undertaken pursuant to Clause (3A) of Article 113 of the Federal Constitution and the said Thirteenth Schedule\"."

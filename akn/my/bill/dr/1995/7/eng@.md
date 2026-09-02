@@ -44,21 +44,39 @@ Act 1967;';
 
 ' "proper officer of the Authority" means any officer of the Authority acting in the fulfilment of his duties under the Act, whether such duties are assigned to him specially or generally, or expressly or by implication;'.
 
-Amendment
+<!-- marginal: Amendment -->
 
-3. Subsection 17(1) of the principal Act is amended by of subsection deleting the word "industrial" appearing before the word 17(1). "zone".
+3. Subsection 17(1) of the principal Act is amended by
 
-Amendment
+<!-- marginal: of subsection -->
 
-4. Section 42 of the principal Act is amended by of section renumbering it as subsection (1) of that section and by
+deleting the word "industrial" appearing before the word
+
+<!-- marginal: 17(1). -->
+
+"zone".
+
+<!-- marginal: Amendment -->
+
+4. Section 42 of the principal Act is amended by
+
+<!-- marginal: of section -->
+
+renumbering it as subsection (1) of that section and by
 
 42. inserting after the renumbered subsection (1) the following subsection:
 
 "(2) Any ship to ship transfer within the port limits of a free zone shall be deemed to have been done within such zone.".
 
-New sections
+<!-- marginal: New sections -->
 
-5. The principal Act is amended by inserting after section 42A, 42B 42 the following sections: and 42c.
+5. The principal Act is amended by inserting after section
+
+<!-- marginal: 42A, 42B -->
+
+42 the following sections:
+
+<!-- marginal: and 42c. -->
 
 42A. (1) No goods shall be brought into, or be loaded or water-borne to be loaded to be taken into and from a out from, any free zone by sea— free zone by sea.
 

@@ -1,0 +1,2022 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-10-1995",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Perbadanan Pembangunan Industri Kecil dan Sederhana 1995"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERMULAAN"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_11"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERBADANAN"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_17"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "FUNGSI DAN KUASA PERBADANAN"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_12__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_12__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_12__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_12__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_12__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_12__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_12__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_12__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_12__para_j"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perbadanan hendaklah mempunyai fungsi yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menggalak dan menyelaras pembangunan industri kecil dan sederhana di Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menjalankan kajian-kajian yang berkaitan dengan pembangunan sektor industri kecil dan sederhana;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_12__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menjalankan aktiviti promosi di dalam negeri bagi menggalakkan pertumbuhan industri kecil dan sederhana di dalam negara;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_12__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menubuhkan pengkalan data yang komprehensif dan sistemmaklumatbagi program- program pembangunan industri kecil dan sederhana;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_12__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menjadi pusat pengumpulan, rujukan dan penyebaran maklumat berhubung dengan industri kecil dan sederhana;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_12__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menyediakan sokongan teknikal dan khidmat nasihat pengurusan dengan kerjasama agensi- agensi lain yang terlibat dalam pembangunan industri kecil dan sederhana;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_12__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menggalakkan kerjasama di kalangan industri kecil dan sederhana melalui pencantuman perniagaan, kerjasama teknikal, penubuhan tabung bersama atau perusahaan kerjasama dan pembelian peralatan gunasama;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_12__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menggalakkan perhubungan industri dengan industri besar;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_12__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menggalakkan pembangunan sumber manusia di sektor industri kecil dan sederhana; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_12__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk melakukan apa-apa jua perkara lain yang bersampingan dengan atau berbangkit daripada pelaksanaan fungsinya dari semasa ke semasa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_13__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_13__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_13__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_13__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_13__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_13__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Perbadanan hendaklah mempunyai kuasa untuk"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "melaksanakan segala perkara yang semunasabahnya perlu, atau yang suaimanfaat bagi, atau yang bersampingan untuk pelaksanaan fungsinya di bawah Akta ini, dan khususnya, tetapi tanpa menjejaskan keluasan yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengadakan dan menyelenggara pejabat cawangan dengan kelulusan Menteri;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk melantik agen atau mendapatkan khidmat luar untuk menjalankan fungsi Perbadanan di bawah Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_13__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mewujudkan pengkalan data dan sistem maklumat yang komprehensif berkaitan dengan program pembangunan industri kecil dan sederhana; DAN SEDERHANA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_13__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengambil dan memegang modal dalam mana-mana syarikat dengan kelulusan Menteri;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_13__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengelolakan aktiviti promosi industri kecil dan sederhana seperti penyertaan dalam pameran perdagangan, seminar dan persidangan dalam dan luar negeri;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_13__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menerbit atau menaja penerbitan berkala, risalah dan pengeluaran bahan maklumat di dalam apa-apa media; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_13__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengenakan bayaran bagi penggunaan mana-mana kemudahan atau perkhidmatan yang disediakan oleh Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Perbadanan boleh, dari semasa ke semasa meminjam"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam apa-apa bentuk, atas apa-apa kadar bunga dan bagi apa-apa tempoh dan atas apa-apa terma tentang masa dan cara pembayaran balik dan selainnya sebagaimana yang diluluskan oleh Menteri, dengan persetujuan Menteri Kewangan, apa-apa jumlah wang yang diperlukan oleh Perbadanan bagi menjelaskan mana-mana obligasinya atau bagi melaksanakan mana-mana fungsinya atau bagi menjalankan mana-mana kuasanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Perbadanan boleh mengguna-khidmat dan membayar"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ejen dan penasihat teknik, dan mana-mana orang lain yang disifatkan perlu untuk menjalankan apa-apa urusan atau melakukan apa-apa perbuatan yang dikehendaki dijalankan atau dilakukan pada melaksanakan fungsi-fungsinya atau menjalankan kuasanya bagi melaksanakan maksud Akta ini dengan lebih baik."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_16__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_16__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_16__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perbadanan boleh, tertakluk kepada apa-apa terma dan syarat, had atau sekatan, sebagaimana yang disifatkan sesuai dikenakan, mewakilkan kepada Pengerusi, atau kepada Ketua Pegawai Eksekutif, atau kepada mana-mana anggota Perbadanan, kuasa dan kewibawaan untuk menjalankan atau melaksanakan bagi pihaknya kuasa atau fungsinya di bawah Akta ini sebagaimana yang ditentukan olehnya, kecuali kuasa untuk membuat peraturan-peraturan di bawah seksyen 32; dan apa-apa kuasa atau fungsi sedemikian yang dijalankan atau dilaksanakan oleh Pengerusi, atau Ketua Pegawai Eksekutif, atau anggota lain Perbadanan itu, mengikut mana-mana yang berkenaan, hendaklah disifatkan sebagai telah dijalankan oleh dan bagi pihak Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_16__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tanpa menyentuh keluasan subseksyen (1) dan peruntukan lain Akta ini, Perbadanan boleh mewakilkan sama ada kepada Pengerusi atau kepada Ketua Pegawai Eksekutif kuasa untuk membenarkan perbelanjaan daripada Kumpulan Wang atau mana-mana wang lain yang diletakhakkan pada atau yang di bawah kawalan Perbadanan sehingga had yang hendaklah dinyatakan oleh Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_17__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_17__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_17__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_17__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_17__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perbadanan boleh melantik jawatankuasa bagi apa-apa maksud yang berbangkit daripada atau berkaitan dengan apa-apa fungsi dan kuasanya; mana-mana jawatankuasa yang dilantik hendaklah mengandungi sekurang-kurangnya seorang anggota Perbadanan dan bolehlah dilantik ke jawatankuasa itu, mana-mana orang lain yang difikirkan sesuai oleh Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa yang dilantik hendaklah mengawalselia prosedurnya sendiri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_17__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana jawatankuasa yang dilantik itu hendaklah mematuhi apa-apa arahan yang diberikan kepadanya oleh Perbadanan dari semasa ke semasa dan Perbadanan boleh pada bila-bila masa memberhentikan atau mengubah keanggotaan mana-mana jawatankuasa yang dilantik itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_17__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa boleh menjemput mana-mana orang yang, pada pendapatnya mempunyai pengetahuan khusus untuk kebaikannya, untuk menghadiri mana-mana mesyuarat jawatankuasa dan orang yang dijemput itu tidak berhak mengundi dalam mana-mana mesyuarat berkenaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_17__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa hendaklah melaporkan syornya kepada Perbadanan. PERBADANAN PEMBANGUNAN INDUSTRI KECIL 11 DAN SEDERHANA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Apabila mana-mana orang terhenti daripada menjadi"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "anggota Perbadanan oleh sebab peruntukan Akta ini, Menteri boleh melantik orang lain untuk mengisi kekosongan itu bagi baki tempoh anggota itu dilantik."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Maka hendaklah dibayar kepada anggota-anggota dan anggota silih ganti Perbadanan apa-apa elaun sebagaimana yang ditentukan oleh Menteri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Maka adalah dengan ini ditubuhkan suatu pertubuhan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang dikenali sebagai \"Perbadanan Pembangunan Industri Kecil dan Sederhana\" yang kekal turun-temurun dan mempunyai suatu meterai biasa, yang boleh mendakwa dan didakwa atas nama perbadanannya dan, tertakluk kepada dan bagi maksud Akta ini, boleh membuat kontrak dan boleh memperolehi, membeli, mengambil, memegang dan menikmati apa-apa jenis harta alih dan harta tak alih dan boleh memindahkan, menyerahhakkan, menyerahkan balik, memulangkan, menggadaikan, menggadai-janji, mendemis, menyerahhakkan semula, memindahmilikkan atau dengan apa-apa cara lain meJupuskan, atau membuat apa-apa urusan mengenai, apa-apa harta alih atau harta tak alih atau apa-apa kepentingan di dalamnya yang terletakhak pada Perbadanan, mengikut apa-apa terma dan syarat sebagaimana yang difikirkannya patut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_4__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_4__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_4__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_4__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_4__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_4__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_4__subsec_1__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perbadanan hendaklah terdiri daripada anggota berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_4__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seorang Pengerusi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_4__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seorang Timbalan Pengerusi yang hendaklah seorang wakil Kementerian Perdagangan Antarabangsa dan Industri;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_4__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seorang wakil Kementerian Kewangan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_4__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seorang wakil Unit Perancang Ekonomi, Jabatan Perdana Menteri; DAN SEDERHANA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_4__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pegawai Eksekutif Perbadanan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_4__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana anggota lain, yang tidak melebihi enam orang, sebagaimana yang ditentukan oleh Menteri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Anggota Perbadanan hendaklah dilantik oleh Menteri dan tertakluk kepada seksyen 5 dan 6, hendaklah, melainkan jika mereka meletakkan jawatan terlebih dahulu atau perlantikan mereka dibatalkan terlebih dahulu, memegang jawatan tertakluk kepada apa-apa terma dan syarat sebagaimana yang ditentukan oleh Menteri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Peruntukan Jadual hendaklah terpakai kepada Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada seksyen 6, anggota Perbadanan selain"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "daripada Ketua Pegawai Eksekutif hendaklah memegang jawatan selama tempoh yang tidak melebihi tiga tahun sebagaimana yang ditentukan oleh Menteri pada masa perlantikan mereka dan adalah layak untuk dilantik semula."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_6__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh pada bila-bila masa membatalkan perlantikan mana-mana anggota Perbadanan tanpa memberi apa-apa sebab."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang anggota Perbadanan boleh pada bila-bila masa meletakkan jawatannya dengan memberikan notis bertulis kepada Menteri,"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_7__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh melantik mana-mana anggota Perbadanan untuk menjalankan fungsi Pengerusi semasa apa-apa tempoh yang Pengerusi oleh kerana apa-apa jua sebab tidak dapat menjalankan fungsi-fungsinya atau semasa apa-apa tempoh kekosongan dalam jawatan Pengerusi; dan anggota sedemikian hendaklah, semasa tempoh yang dia menjalankan fungsi Pengerusi di bawah subseksyen ini, disifatkan sebagai Pengerusi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sehingga suatu perlantikan dibuat di bawah subseksyen (1) atau jika tiada perlantikan sedemikian dibuat, anggota yang dilantik di bawah perenggan 4(l) (b) hendaklah menjalankan fungsi Pengerusi dan disifatkan sebagai Pengerusi Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_8__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_8__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh, berkenaan dengan setiap anggota Perbadanan yang dilantik di bawah perenggan 4(1)(b), (c) dan (d), melantik seorang menjadi anggota silih ganti untuk menghadiri mesyuarat Perbadanan sebagai ganti anggota itu, sekiranya anggota itu tidak dapat hadir kerana apa-apa jua sebab."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila menghadiri mesyuarat Perbadanan, seseorang anggota silih ganti hendaklah bagi semua maksud disifatkan sebagai seorang anggota Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_8__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang anggota silih ganti hendaklah, melainkan jika dia meletakkan jawatan terlebih dahulu atau perlantikannya dibatalkan terlebih dahulu, terhenti daripada menjadi anggota silih ganti sekiranya anggota yang baginya dia menjadi anggota silih ganti terhenti daripada menjadi anggota Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_9__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_9__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_9__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_9__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_9__subsec_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang anggota Perbadanan hilang kelayakan dan perlantikannya sebagai anggota sedemikian hendaklah terbatal sekiranya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_9__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_9__subsec_1__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_9__subsec_1__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "telah dibuktikan terhadapnya, atau dia telah disabitkan atas, sesuatu pertuduhan berkenaan dengan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_9__subsec_1__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_9__subsec_1__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu kesalahan yang melibatkan fraud, kecurangan atau keburukan akhlak; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_9__subsec_1__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_9__subsec_1__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa kesalahan lain yang boleh dihukum dengan pemenjaraan (sama ada pemenjaraan sahaja atau sebagai tambahan kepada atau sebagai ganti denda) selama lebih daripada dua tahun;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_9__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dia menjadi bankrap atau telah membuat perkiraan dengan pemiutangnya; DAN SEDERHANA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_9__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dia telah didapati atau diisytiharkan sebagai tak sempurna akal atau selainnya tak berupaya melaksanakan tugas atau menguruskan hal- ehwalnya; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_9__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pada tiga kali mesyuarat Perbadanan berturut- turut, tanpa kebenaran bertulis Menteri, dia telah tidak hadir juga tidak diwakili oleh anggota silih ganti, jika ada, yang dilantik berkenaan dengannya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Peruntukan subseksyen (1), selain daripada perenggan (d), hendaklah dipakai mutatis-mutandis kepada ahli silih ganti."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERUNTUKAN KEWANGAN"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_18__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_18__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud Akta ini, Perbadanan hendaklah menubuhkan, mentadbirkan dan mengawal suatu kumpulan wang yang dikenali sebagai \"Kumpulan Wang Pembangunan Industri Kecil dan Sederhana\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_18__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_18__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_18__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_18__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_18__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_18__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_18__subsec_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_18__subsec_2__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Maka hendaklah dibayar ke dalam Kumpulan Wang itu—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_18__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "wang pelancaran penubuhan Kumpulan Wang pemberian Kerajaan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_18__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa jumlah wang yang diperuntukkan dari semasa ke semasa oleh Kerajaan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_18__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa jumlah wang yang dipinjam oleh Perbadanan di bawah seksyen 14;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_18__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa jumlah wang diperuntukkan dari semasa ke semasa kepada Perbadanan daripada kumpulan wang pinjaman;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_18__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "semua wang yang didapati oleh Perbadanan bagi perkhidmatan yang disediakan atau pengendalian apa-apa projek, skim atau enterpris;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_18__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "semua derma dan sumbangan yang diterima dari dalam atau luar Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_18__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "semua wang yang didapati atau berbangkit daripada apa-apa harta, pelaburan, gadai-janji, gadaian atau debentur yang diperolehi oleh atau terletakhak pada Perbadanan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_18__subsec_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "semua wang yang mungkin dengan apa-apa cara menjadi kena dibayar kepada atau terletakhak pada Perbadanan berkenaan dengan apa-apa perkara yang bersampingan dengan fungsi dan kuasanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_18__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam seksyen ini dan seksyen 20, ungkapan \"kumpulan wang pinjaman\" ertinya apa-apa jumlah wang yang boleh diadakan dari semasa ke semasa bagi Kerajaan sebagai pinjaman."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_19__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_19__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_19__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_19__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_19__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_19__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Kumpulan Wang hendaklah dibelanjakan untuk—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pembayaran apa-apa perbelanjaan yang dilakukan dengan sah oleh Perbadanan, saraan bagi pegawai dan pengkhidmat yang dilantik dan diguna-khidmat oleh Perbadanan, termasuklah elaun persaraan, pencen atau ganjaran;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_19__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bayaran apa-apa caj atas apa-apa amaun yang diperuntukkan kepada Perbadanan daripada kumpulan wang pinjaman;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_19__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membayar apa-apa kos atau perbelanjaan lain yang dilakukan dengan sepatutnya oleh Perbadanan pada menjalankan kuasa-kuasanya atau melaksanakan fungsi-fungsinya termasuk fee dan kos bagi perkhidmatan profesional kepada Perbadanan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_19__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membayar balik apa-apa wang yang dipinjam di bawah Akta ini dan bunga yang kena dibayar atasnya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_19__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pemberian pinjaman kepada pegawai dan pengkhidmat Perbadanan bagi maksud yang diluluskan oleh Menteri; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_19__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pada amnya, membayar apa-apa perbelanjaan bagi melaksanakan peruntukan Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Maka adalah menjadi tugas Perbadanan untuk"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memelihara Kumpulan Wang dengan menjalankan kuasa dan melaksanakan fungsinya untuk memastikan supaya jumlah hasil Perbadanan, tertakluk kepada apa-apa arahan yang diberikan oleh Menteri di bawah seksyen 34, adalah mencukupi untuk membayar semua jumlah wang yang boleh dipertanggungkan dengan sepatutnya kepada akaun hasilnya, termasuklah susut nilai dan bunga atas modal, dari setahun ke setahun. DAN SEDERHANA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Perbadanan boleh, dengan kelulusan Menteri"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menempatkan Kumpulan Wang sebagai deposit dengan sebuah bank di Malaysia atau melaburkan dalam sekuriti Kerajaan atau apa-apa sekuriti yang diluluskan oleh Menteri dengan persetujuan Menteri Kewangan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_22__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_22__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_22__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_22__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perbelanjaan Perbadanan hingga sebanyak yang dibenarkan oleh Menteri bagi mana-mana satu tahun hendakJah dibayar daripada Kumpulan Wang."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_22__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sebelum permulaan bulan September setiap tahun, Perbadanan hendaklah mengemukakan kepada Menteri suatu anggaran perbelanjaan (termasuklah perbelanjaan bagi projek pembangunan) bagi tahun berikutnya dalam apa-apa bentuk dan mengandungi apa-apa butir sebagaimana yang diarahkan oleh Menteri; dan sebelum permulaan tahun yang berikutnya Menteri hendaklah memberitahu Perbadanan amaun yang dibenarkan bagi perbelanjaan pada amnya atau amaun yang dibenarkan bagi setiap jenis perbelanjaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_22__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perbadanan boleh pada bila-bila masa menge- mukakan kepada Menteri suatu anggaran tambahan bagi mana-mana satu tahun dan Menteri boleh membenarkan kesemua atau mana-mana bahagian daripada perbelanjaan tambahan yang termasuk dalam anggaran tambahan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Peruntukan Akta Badan Berkanun (Akaun dan Laporan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tahunan) 1980 hendaklah terpakai bagi Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24__subsec_1__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang yang sedang atau telah bekerja dengan Perbadanan boleh disurcaj sekiranya ternyata kepada Perbadanan bahawa orang tersebut—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "telah gagal mengutip apa-apa wang yang terhutang pada Perbadanan yang pemungutannya adalah atau telah menjadi tanggungjawabnya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "adalah atau telah bertanggungjawab atas apa- apa pembayaran wang yang tidak sepatutnya daripada Perbadanan atau atas apa-apa pembayaran wang Perbadanan yang tidak diluluskan dengan sewajarnya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "adalah atau telah bertanggungjawab secara langsung atau tak langsung, atas apa-apa kekurangan pada atau atas pemusnahan, apa-apa wang, setem, sekuriti, storan atau harta lain Perbadanan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sebagai, atau yang pernah menjadi pegawai perakaunan, gagal atau telah gagal menyimpan akaun atau rekod yang sepatutnya; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "telah gagal untuk membuat apa-apa bayaran, atau telah bertanggungjawab atas apa-apa kelambatan dalam pembayaran, wang daripada Kumpulan Wang kepada mana-mana orang yang kepadanya bayaran itu kena dibuat di bawah mana-mana undang-undang atau di bawah mana- mana kontrak, perjanjian atau perkiraan yang dibuat di antara orang itu dengan Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perbadanan hendaklah, sebelum orang itu disurcaj menyampaikan kepadanya, suatu notis bertulis memintanya menunjuk sebab mengapa beliau tidak patut disurcaj."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sekiranya satu penjelasan yang memuaskan tidak diterima dalam masa empat belas hari dari tarikh penyampaian notis yang disebutkan dahulu, Perbadanan boleh—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "di dalam hal perenggan ( l )( a ), (b) dan (c), mensurcajkan sejumlah wang terhadap orang tersebut yang tidak melebihi amaun yang tidak dikutip, atau bayaran yang tidak sepatutnya dibuat atau kekurangan dalam, atau kerugian kepada harta yang musnah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "di dalam hal perenggan ( 1 )( d) dan ( e ), mensurcajkan apa-apa jumlah wang terhadap orang tersebut sebagaimana yang difikirkan patut oleh Perbadanan. DAN SEDERHANA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pegawai Eksekutif hendaklah memberitahu orang yang disurcaj berkenaan dengan apa-apa surcaj yang dibuat di bawah subseksyen (3)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun peruntukan subseksyen (3) dan (4), Perbadanan boleh pada bila-bila masa menarik balik apa- apa surcaj jika ternyata bahawa tiada surcaj patut dibuat, dan Ketua Pegawai Eksekutif hendaklah dengan serta- merta memberitahu orang yang disurcaj tentang penarikan balik itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24__subsec_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24__subsec_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Amaun apa-apa surcaj yang dibuat di bawah subseksyen (3) dan tidak ditarik balik di bawah subseksyen (5) hendaklah menjadi hutang yang kena dibayar kepada Perbadanan daripada orang yang terhadapnya surcaj itu dibuat dan boleh didakwa dan didapatkan kembali dalam mana-mana mahkamah atas guaman oleh Perbadanan dan boleh juga jika diarahkan sedemikian oleh Perbadanan didapatkan kembali melalui potongan daripada—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24__subsec_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24__subsec_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "gaji orang yang disurcajkan; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24__subsec_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_IV__cl_24__subsec_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pencen orang yang disurcajkan, dengan ansuran bulanan yang sama banyak tidak melebihi satu perempat daripada jumlah gaji atau pencen bulanan orang itu, mengikut mana-mana yang berkenaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Perbadanan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pembangunan Industri Kecil dan Sederhana 1995 dan hendaklah mula berkuatkuasa pada suatu tarikh sebagaimana yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "\"industri kecil dan sederhana\" ertinya suatu syarikat yang terlibat di dalam aktiviti perkilangan dan aktiviti berkaitan yang diisytiharkan, dari semasa ke semasa, oleh Menteri dalam perintah statutori yang disiarkan dalam Warta; \"Kumpulan Wang\" ertinya Kumpulan Wang Pembangunan Industri Kecil dan Sederhana yang ditubuhkan di bawah seksyen 19; \"Menteri\" ertinya Menteri yang bertanggungjawab mengenai perdagangan antarabangsa dan industri; \"Perbadanan\" ertinya Perbadanan Pembangunan Industri Kecil dan Sederhana yang ditubuhkan di bawah seksyen 3; \"aktiviti pengilangan\" hendaklah mempunyai erti yang diberikan kepadanya di bawah Akta Penyelarasan Perindustrian 1975; \"syarikat\" ertinya suatu syarikat yang ditubuhkan di bawah Akta Syarikat 1965 dan termasuk sesuatu perniagaan yang didaftar di bawah Akta Pendaftaran Perniagaan 1956."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__chp_45"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PENTADBIRAN"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_34"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "AM"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh, selepas berunding dengan Perbadanan, membuat apa-apa peraturan yang suaimanfaat atau perlu bagi melaksanakan maksud dan peruntukan Akta ini dengan teratur dan berkesan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tanpa menjejaskan keluasan yang berikut, peraturan sedemikian boleh dibuat bagi—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mengenakan fee dalam kes tertentu yang ditentukan oleh Perbadanan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tujuan elaun yang perlu dibayar kepada mana- mana ahli dan ahli ganti Perbadanan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menetapkan tanggungjawab, kelakuan dan kawalan pegawai dan pengkhidmat Perbadanan; PERBADANAN PEMBANGUNAN INDUSTRI KECIL 19 DAN SEDERHANA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "atau berkenaan dengan saraan, elaun dan syarat perkhidmatan pegawai dan pengkhidmat Perbadanan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bayaran pencen, elaun atau ganjaran kepada pegawai dan pengkhidmat Perbadanan kerana pesaraan mereka atau selainnya pemberhentian mereka dari memegang jawatan sebagai pegawai atau pengkhidmat sedemikian;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "cara bagaimana terma-terma dan syarat-syarat pinjaman boleh diberikan kepada pegawai dan pengkhidmat Perbadanan di bawah perenggan 20(f) dan maksud-maksudnya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2__para_g__subpara_iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tatatertib pegawai dan pengkhidmat Perbadanan yang boleh meliputi— (i) peruntukan bagi penahanan kerja dengan pengurangan gaji atau saraan lain, atau bagi penggantungan kerja tanpa gaji atau saraan lain, seseorang pegawai atau pengkhidmat Perbadanan semasa menanti prosiding tatatertib selesai; (ii) pengwujudan apa-apa kesalahan tatatertib dan mengadakan peruntukan bagi apa-apa hukuman tatatertib sebagaimana yang difikirkan sesuai oleh Perbadanan, dan hukuman yang diperuntukkan boleh meliputi pembuangan kerja atau penurunan pangkat; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2__para_g__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2__para_g__subpara_iii__subpara_aa",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2__para_g__subpara_iii__subpara_bb",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2__para_g__subpara_iii__subpara_cc",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2__para_g__subpara_iii__subpara_dd"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2__para_g",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "prosidur bagi prosiding tatatertib yang hendaklah memperuntukkan supaya pegawai atau pengkhidmat Perbadanan yang terhadapnya prosiding tatatertib diambil, peluang untuk membela diri terhadap tuduhan tatatertib terhadapnya itu sebelum satu keputusan dibuat oleh pihakberkuasa tatatertib, kecuali di dalam kes berikut jika:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2__para_g__subpara_iii__subpara_aa",
+      "@type": "akn:subparagraph",
+      "eli:number": "aa",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2__para_g__subpara_iii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seseorang pegawai atau pengkhidmat Perbadanan dibuang kerja atau diturunkan pangkat kerana kelakuan berkenaan dengan mana satu pertuduhan jenayah telah dibuktikan terhadapnya; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2__para_g__subpara_iii__subpara_bb",
+      "@type": "akn:subparagraph",
+      "eli:number": "bb",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2__para_g__subpara_iii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perbadanan berpuas hati bahawa kerana sesuatu sebab yang hendaklah direkodkan secara bertulis, tidaklah semunasabahnya praktik melak- sanakan kehendak subperenggan ini; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2__para_g__subpara_iii__subpara_cc",
+      "@type": "akn:subparagraph",
+      "eli:number": "cc",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2__para_g__subpara_iii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri berpuashati bahawa bagi kepentingan keselamatan Persekutuan atau mana-mana bahagiannya tidaklah suaimanfaat melaksanakan kehendak subperenggan ini; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2__para_g__subpara_iii__subpara_dd",
+      "@type": "akn:subparagraph",
+      "eli:number": "dd",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2__para_g__subpara_iii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa perintah pengawasan, kediaman terhad, buang negeri atau deportasi telah dibuat ke atas seseorang pegawai atau pengkhidmat Perbadanan atau jika apa-apa bentuk sekatan atau pengawasan dengan bon atau selainnya telah dikenakan ke atas seorang pegawai atau pengkhidmat Perbadanan, di bawah mana-mana undang-undang yang berhubungan dengan keselamatan Persekutuan atau mana-mana bahagiannya, pencegahan jenayah, tahanan pencegahan, kediaman terhad, buang negeri, imigeresen, atau perlindungan bagi wanita dan gadis; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_32__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menetapkan apa-apa jua perkara yang di bawah Akta ini boleh ditetapkan oleh Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_33__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_33__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_33__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perbadanan hendaklah memberi Menteri, apa- apa penyata, laporan, akaun dan maklumat berkenaan dengan harta dan aktiviti Perbadanan sebagaimana yang dikehendaki atau diarahkan oleh Menteri dari semasa ke semasa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_33__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tanpa menjejaskan keluasan peruntukan subseksyen (1), Perbadanan hendaklah, dengan seberapa segera yang praktik selepas akhir setiap tahun kewangan, menyebabkan dibuat dan dihantar kepada Menteri suatu laporan yang DAN SEDERHANA memperkatakan aktiviti Perbadanan sepanjang tahun kewangan yang sebelumnya dan laporan itu hendaklah dalam bentuk serta hendaklah mengandungi apa-apa maklumat yang berhubungan dengan prosiding dan dasar Perbadanan sebagaimana yang dinyatakan dari semasa ke semasa oleh Menteri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_VI",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Menteri boleh memberikan kepada Perbadanan apa-"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa arahan yang bersifat am, yang tidak tak konsisten dengan peruntukan Akta ini mengenai pelaksanaan fungsi dan penjalanan kuasa Perbadanan dan Perbadanan hendaklah melaksanakan arahan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__chp_45",
+      "@type": "akn:chapter",
+      "eli:number": "45",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Keseksaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Menteri boleh melantik seorang Ketua Pegawai"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Eksekutif di atas terma dan syarat sebagaimana yang ditentukan oleh Menteri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Maka hendaklah dibayar kepada Ketua Pegawai"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Eksekutif saraan sebagaimana yang ditentukan oleh Menteri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Ketua Pegawai Eksekutif adalah bertanggungjawab"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kepada Perbadanan untuk memastikan pentadbiran dan pengurusan fungsi-fungsi dan hal-ehwal Perbadanan yang teratur bersesuaian dengan dasar Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_28__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_28__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_28__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada subseksyen (2) dan apa-apa peraturan yang dibuat di bawah perenggan 33(2)(c), (d) dan (e), Perbadanan boleh dari semasa ke semasa, melantik sekian bilangan pegawai dan pengkhidmat sebagaimana yang difikirkannya wajar dan perlu dan atas apa-apa terma dan syarat yang difikirkan sesuai, bagi menjalankan maksud- maksud Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_28__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun peruntukan subseksyen (1), Perbadanan tidak boleh menubuhkan atau mengubahsuai apa-apa jawatan atau skim perkhidmatan untuk pegawai dan pengkhidmat Perbadanan, termasuk terma dan syarat- syarat perkhidmatan dan gaji, apa-apa skim pencen, dan apa-apa skim yang berhubungan dengan elaun dan saraan lain, tanpa kelulusan Kementerian Kewangan dan Jabatan Perkhidmatan Awam terlebih dahulu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_29__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_29__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_29__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_29__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_29__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_29__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_29__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_29__subsec_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_29__subsec_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_29__subsec_10"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_29__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_29__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_29__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perbadanan hendaklah menubuhkan Lembaga Tatatertib Perbadanan yang hendaklah dianggotai oleh—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_29__subsec_10",
+      "@type": "akn:subsection",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Keputusan Perbadanan atas rayuan tersebut adalah muktamad dan konklusif."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_29__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dua orang ahli yang dilantik oleh dan daripada anggota Perbadanan dan seorang daripadanya hendaklah dilantik sebagai Pengerusi; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_29__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pegawai Eksekutif."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_29__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Lembaga Tatatertib Perbadanan yang ditubuhkan di bawah subseksyen (1) hendaklah menjadi pihak berkuasa tatatertib berkenaan dengan tiap-tiap pegawai dan pengkhidmat Perbadanan selain daripada Ketua Pegawai Eksekutif."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_29__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pegawai Eksekutif tidak boleh menjadi anggota Jawatankuasa Tatatertib di dalam sebarang perbicaraan yang mana beliau adalah merupakan pengadu; tempat beliau hendaklah diambil oleh ahli yang akan dilantik dari kalangan anggota Perbadanan. PERBADANAN PEMBANGUNAN INDUSTRI KECIL 17 DAN SEDERHANA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_29__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam melaksanakan fungsi dan kuasa tatatertib, Lembaga Tatatertib mempunyai kuasa untuk mengenakan hukuman y ang diperuntukkan di bawah mana-mana peraturan yang boleh dibuat di bawah seksyen 32."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_29__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tatacara untuk prosiding tatatertib hendaklah mengikut peraturan yang dibuat di bawah seksyen 32."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_29__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Lembaga Tatatertib boleh, tertakluk kepada subseksyen (7), mewakilkan mana-mana fungsi tatatertib dan kuasa kepada mana-mana jawatankuasa pegawai atau pengkhidmat Perbadanan, dikenali sebagai Jawatankuasa Tatatertib, yang berkaitan dengan mana-mana pegawai atau pengkhidmat Perbadanan yang berkenaan, atau yang berkaitan dengan mana-mana kelas atau kategori pegawai atau pengkhidmat Perbadanan, dan jawatankuasa yang diperwakilkan dengan fungsi dan, kuasa hendaklah menjalankan melaksanakan atau dibuat di bawah arahan dan kawalan Lembaga Tatatertib yang hendaklah mempunyai kuasa untuk menyemak semula, membatalkan atau mengubah mana-mana keputusan atau rumusan jawatankuasa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_29__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Penurunan kuasa tidak boleh dibuat di bawah subseksyen (6) untuk membolehkan seorang pegawai atau pengkhidmat Perbadanan untuk menjadi ahli mana-mana Jawatankuasa Tatatertib yang boleh menjalankan mana- mana tindakan tatatertib ke atas seorang pegawai atau pengkhidmat yang lebih kanan dari segi jawatannya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_29__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana pegawai atau pengkhidmat Per- badanan yang tidak puashati dengan keputusan Lembaga Tatatertib atau mana-mana Jawatankuasa Tatatertib yang diwakilkan dengan fungsi dan kuasa di bawah subseksyen (6) boleh, dalam tempoh empat belas (14) hari merayu secara bertulis terhadap keputusan itu kepada Perbadanan yang mana Perbadanan selanjutnya akan mengesahkan, mengakaskan atau memberi apa-apa arahan yang sewajarnya ke atas perkara berkenaan yang difikirkan sesuai dan berpatutan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_29__subsec_9",
+      "@type": "akn:subsection",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila Perbadanan menimbangkan apa-apa rayuan di bawah subseksyen (8), hendaklah tiada anggota Lembaga Tatatertib atau Jawatankuasa Tatatertib, mengikut mana- mana yang berkenaan, hadir dalam prosiding berhubung dengan rayuan terhadap siapa rayuan itu dibuat."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Perlindungan Pihak Berkuasa Awam 1948"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "hendaklah terpakai bagi apa-apa tindakan guaman, pendakwaan atau prosiding terhadap Perbadanan atau terhadap mana-mana anggota, pegawai, pengkhidmat atau ejen Perbadanan berkenaan dengan apa-apa perbuatan, keabaian atau keingkaran yang dibuat atau dilakukan olehnya atas sifat yang sedemikian itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~part_V",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Semua anggota, pegawai dan pengkhidmat Perbadanan,"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "semasa melaksanakan fungsi mereka sebagai anggota, pegawai dan pengkhidmat Perbadanan, hendaklah disifatkan sebagai pengkhidmat awam mengikut pengertian Kanun"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "(Seksyen 4(3))"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_1__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kuorum bagi sesuatu mesyuarat Perbadanan adalah empat orang."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika mengenai apa-apa persoalan yang hendak diputuskan oleh Perbadanan terdapat bilangan undi yang sama banyak Pengerusi hendaklah mempunyai undi pemutus sebagai tambahan kepada undi biasanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada subperenggan (1) dan (2) Perbadanan hendaklah mengawalselia prosidur sendiri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_2__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_2__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_2__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_2__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_2__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perbadanan hendaklah mempunyai suatu meterai biasa yang mengandungi apa-apa tanda yang diluluskan oleh Perbadanan dan meterai itu boleh dari semasa ke semasa dipecahkan, ditukar, diubah atau dibuat baharu sebagaimana yang dif ikirkan patut oleh Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Meterai Perbadanan hendaklah disahkan oleh Pengerusi atau seorang anggota Perbadanan yang lain dan semua suratikatan, dokumen dan suratcara lain yang berupa sebagai telah dimeteraikan dengan meterai itu, disahkan sebagaimana yang disebutkan terdahulu, hendaklah sehingga dibuktikan sebaliknya, disifatkan telah disempurnakan dengan sah: Dengan syarat bahawa apa-apa dokumen atau suratcara yang jika disempurnakan oleh seseorang yang bukan suatu pertubuhan perbadanan tidak akan dikehendaki dimeteraikan boleh disempurnakan oleh Perbadanan mengikut cara yang serupa; dan mana-mana dokumen atau suratcara itu boleh disempurnakan bagi pihak Perbadanan oleh mana-mana pegawai atau pengkhidmat Perbadanan yang diberikuasa secara am atau khas oleh Perbadanan bagi maksud itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_2__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sehingga suatu meterai diadakan oleh Perbadanan, suatu cop yang mengandungi perkataan \"Perbadanan Pembangunan Industri Kecil dan Sederhana\" boleh digunakan dan hendaklah disifatkan sebagai meterai biasa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_2__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Meterai biasa itu hendaklah disimpan dalam jagaan Pengerusi atau mana-mana orang yang diberi kuasa oleh Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_2__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Meterai biasa Perbadanan hendaklah diberi pengiktirafan rasmi dan kehakiman."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_3__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perbadanan hendaklah menyebabkan minit kesemua mesyuaratnya disenggara dan disimpan dalam bentuk yang sepatutnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa minit yang dibuat mengenai mesyuarat Perbadanan, jika ditandatangani sewajarnya. hendaklah diterima sebagai keterangan dalam segala prosiding undang-undang tanpa bukti selanjutnya dan tiap-tiap mesyuarat Perbadanan yang minit berkenaan dengan prosidingnya telah dibuat sedemikian hendaklah disifatkan telah dipanggil dan diadakan dengan sewajarnya dan semua anggota dalam mesyuarat itu layak dengan sewajarnya untuk bertindak."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_4",
+      "@type": "akn:paragraph",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Tiada apa-apa perbuatan yang dilakukan atau prosiding yang"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "diambil di bawah Akta ini boleh dipersoalkan atas alasan bahawa apa- apa—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kekosongan dalam keanggotaan, atau ada apa-apa kecacatan dalam penubuhan Perbadanan, atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "peninggalan, kecacatan atau ketakteraturan yang tidak menyentuh merit kes itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1__para_5",
+      "@type": "akn:paragraph",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/10/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seseorang anggota Perbadanan yang, sama ada secara langsung"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "atau tak langsung mempunyai, apa-apa kepentingan dalam mana- mana syarikat atau pengusahaan, yang dengannya Perbadanan bercadang hendak membuat apa-apa kontrak atau yang mempunyai sama ada secara langsung atau secara tak langsung apa-apa kepentingan dalam apa-apa kontrak seperti itu atau dalam apa-apa perkara yang sedang dibincangkan oleh Perbadanan hendaklah menzahirkan hakikat dan jenis kepentingan itu kepada Perbadanan dan penzahiran itu hendaklah direkodkan dalam minit mesyuarat Perbadanan dan anggota itu hendaklah keluar daripada mana-mana perbincangan atau keputusan Perbadanan yang berhubungan dengan kontrak atau perkara itu."
+      }
+    }
+  ]
+}

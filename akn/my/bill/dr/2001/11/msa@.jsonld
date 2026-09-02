@@ -209,21 +209,14 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_5",
       "@type": "akn:clause",
       "eli:number": "5",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_5__subsec_2A",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@",
       "schema:name": {
         "@language": "ms",
         "@value": "Seksyen 36 Akta ibu dipinda dengan memotong subseksyen"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_5__subsec_2A",
-      "@type": "akn:subsection",
-      "eli:number": "2A",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_5",
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "dan (2B). Seksyen baru 39A"
+        "@value": "(2A) dan (2B). Seksyen baru 39A"
       }
     },
     {

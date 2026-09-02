@@ -1,0 +1,855 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-28-2012",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_27"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Francais (Pindaan) 2012"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_10__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_10__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 14 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “broker francais” di mana-mana jua terdapat perkataan “atau perunding francais”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (5), dengan menggantikan perkataan “satu tahun” dengan perkataan “dua tahun”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_10__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (5) subseksyen yang berikut: “(5a) Broker francais atau perunding francais hendaklah memohon untuk membaharui pendaftaran dalam tempoh tiga puluh hari dari tarikh tamat pendaftaran. (5b) Mana-mana broker francais atau perunding francais yang gagal mematuhi subseksyen (5a) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi sepuluh ribu ringgit, dan bagi kesalahan yang kedua atau yang berikutnya, didenda tidak melebihi dua puluh lima ribu ringgit.”. Pindaan seksyen 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_11__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 15 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_11__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_11__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_11__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_11__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “dokumen penzahiran” perkataan “termasuk pindaan kepada dokumen penzahiran yang diluluskan di bawah seksyen 11”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_11__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_11__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “dengan pemberi francais itu” perkataan “atau selepas dokumen penzahiran yang diluluskan oleh Pendaftar di bawah seksyen 11, mengikut mana- mana yang berkenaan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_11__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_11__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_11__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_11__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “penzahiran”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_11__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_11__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “Pendaftar” perkataan “di bawah seksyen 7”. Pindaan seksyen 16"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_12__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_12__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 16 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “(1) Pemberi francais hendaklah, dalam tempoh enam bulan dari penghujung setiap tahun kewangan perniagaan francais, mengemukakan laporan kepada Pendaftar dalam borang yang ditetapkan.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (3)(b), dengan menggantikan perkataan “, melarang atau menolak penjualan atau” dengan perkataan “atau membatalkan kelulusan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_12__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: “(4) Mana-mana orang yang gagal mematuhi seksyen ini melakukan suatu kesalahan.”. Pindaan seksyen 19"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 19 Akta ibu dipinda dengan memasukkan selepas perkataan “bertulis” perkataan “dalam dokumen penzahiran”. Pindaan seksyen 20"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 20 Akta ibu dipinda dengan menggantikan perkataan “melanggar Akta ini” dengan perkataan “menjadi suatu kesalahan di bawah Akta ini”. Pindaan seksyen 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_15__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 26 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “pemegang francais dan pekerja-pekerjanya” dengan perkataan “pemegang francais, termasuk pengarah, suami atau isteri dan keluarga terdekat pengarah itu, dan pekerjanya”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “Pemegang francais dan pekerjanya” dengan perkataan “Pemegang francais, termasuk pengarah, suami atau isteri dan keluarga terdekat pengarah itu, dan pekerjanya”. Pindaan seksyen 27"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_16__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 27 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “pemegang francais dan pekerja-pekerjanya” dengan perkataan “pemegang francais, termasuk pengarah, suami atau isteri dan keluarga terdekat pengarah itu, dan pekerjanya”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “Pemegang francais dan pekerjanya” dengan perkataan “Pemegang francais, termasuk pengarah, suami atau isteri dan keluarga terdekat pengarah itu, dan pekerjanya”. Pindaan seksyen 28"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 28(1) Akta ibu dipinda dengan memasukkan selepas perkataan “mengikat” perkataan “pemberi francais atau”. Pindaan seksyen 29"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 29 Akta ibu dipinda dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(3) Pemegang francais hendaklah menjalankan perniagaan berasingan daripada pemberi francais, dan hubungan pemegang francais dengan pemberi francais tidak pada bila-bila masa dianggap sebagai perkongsian, kontrak perkhidmatan atau agensi.”. Pindaan seksyen 31"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_19__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_19__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_19__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 31 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan memasukkan selepas perkataan “pemberi francais” perkataan “atau pemegang francais”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_19__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (2)(a) dan (2)(b), dengan memasukkan selepas perkataan “kegagalan” perkataan “pemberi francais atau”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_19__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_19__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_19__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_19__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_19__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “apabila” perkataan “pemberi francais atau”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_19__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_19__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (a) perenggan yang berikut: “ (aa) menjadi muflis atau tidak solven;”. Pindaan seksyen 34"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Francais (Pindaan) 2012."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan seksyen 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Francais 1998 [Akta 590], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 3—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 34 Akta ibu dipinda dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “(1) Pemegang francais boleh, mengikut pilihannya, memohon untuk melanjutkan tempoh francais dengan memberi notis bertulis kepada pemberi francais tidak kurang daripada enam bulan sebelum tamatnya tempoh francais itu.”. Pindaan seksyen 37"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_21__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_21__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 37 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_21__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_21__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_21__list_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_21"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_21__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_21__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan seksyen sedia ada sebagai subseksyen (1);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_21__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_21__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan memasukkan selepas perkataan “melakukan suatu kesalahan” perkataan “dan boleh, apabila disabitkan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_21__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_21__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_21__list_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_21__list_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_21"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_21__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_21__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika orang itu suatu pertubuhan perbadanan, didenda tidak melebihi dua ratus lima puluh ribu ringgit, dan bagi kesalahan yang kedua atau yang berikutnya, didenda tidak melebihi lima ratus ribu ringgit; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_21__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_21__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika orang itu bukan suatu pertubuhan perbadanan, didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya, dan bagi kesalahan yang kedua atau yang berikutnya, didenda tidak melebihi dua ratus lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_21__list_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_21__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1), subseksyen yang berikut: “(2) Subseksyen (1) hendaklah juga terpakai kepada broker francais atau perunding francais.”. Seksyen baru 37a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 37 seksyen yang berikut: Kesalahan bagi mengemukakan diri sebagai francais “ 37a. Seseorang yang menganggap atau menggunakan berhubung dengan perniagaannya, terma “francais” atau apa-apa terbitannya atau apa-apa jua perkataan lain yang menunjukkan perjalanan perniagaan francais, termasuklah penggunaan perkataan “francais” atau apa-apa singkatan dengannya sebagai sebahagian daripada nama atau tajuk dalam dokumen, perjanjian, buku, iklan atau penerbitan, tanpa kelulusan pendaftaran oleh Pendaftar di bawah seksyen 8 melakukan suatu kesalahan dan boleh, apabila disabitkan— (a) jika orang itu suatu pertubuhan perbadanan, didenda tidak melebihi dua ratus lima puluh ribu ringgit, dan bagi kesalahan yang kedua atau yang berikutnya, didenda tidak melebihi lima ratus ribu ringgit; atau (b) jika orang itu bukan suatu pertubuhan perbadanan, didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya, dan bagi kesalahan yang kedua atau yang berikutnya, didenda tidak melebihi dua ratus lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua- duanya.”. Pindaan seksyen 38"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 38 Akta ibu dipinda dengan memotong perkataan “dan, apabila disabitkan, boleh didenda tidak melebihi dua ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya”. Pindaan seksyen 39"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_24__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_24__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 39 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_24__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perenggan (a) dan (b) dengan perenggan yang berikut: “ (a) jika orang itu suatu pertubuhan perbadanan, didenda tidak kurang daripada sepuluh ribu ringgit dan tidak lebih daripada lima puluh ribu ringgit, dan bagi kesalahan yang kedua atau yang berikutnya, didenda tidak kurang daripada dua puluh ribu ringgit dan tidak lebih daripada satu ratus ribu ringgit; atau (b) jika orang itu bukan suatu pertubuhan perbadanan, didenda tidak kurang daripada lima ribu ringgit dan tidak lebih daripada dua puluh lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan, dan bagi kesalahan yang kedua atau yang berikutnya, didenda tidak kurang daripada sepuluh ribu ringgit dan tidak lebih daripada lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_24__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “kesalahan pertama” dengan perkataan “kesalahan di bawah seksyen ini”. Pemotongan seksyen 55"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 55. Pemotongan seksyen 57"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 57. Pindaan seksyen 60"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_27__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_27__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 60(2) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_27__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “sepuluh” dengan perkataan “lima puluh”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_27__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “lima tahun” dengan perkataan “satu tahun”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan memasukkan selepas perkataan “penjualan” perkataan “dan operasi”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_2__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_2__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_2__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_2__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “Penjualan” perkataan “dan operasi”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_2__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_2__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (a)(ii), dengan memasukkan selepas perkataan “di dalam” perkataan “atau di luar”. Pindaan seksyen 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 4 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_3__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_3__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_3__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “francais”—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_3__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_3__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c), dengan memasukkan selepas perkataan “sistem francais;” perkataan “dan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_3__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_3__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perenggan (d) dan (f); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_3__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_3__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “; dan” di hujung perenggan (e) dengan noktah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “perjanjian francais” takrif yang berikut: ‘ “perunding francais” ertinya seseorang yang memberi nasihat dan perkhidmatan perundingan kepada seseorang lain mengenai pendaftaran perniagaan francais dan pematuhan kepada undang-undang yang berhubung dengannya;’. Penggantian seksyen 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 6 dengan seksyen yang berikut: Pendaftaran pemberi francais “ 6. (1) Seseorang pemberi francais hendaklah mendaftarkan francaisnya dengan Pendaftar sebelum dia boleh menjalankan perniagaan francais atau membuat tawaran untuk menjual francais kepada mana-mana orang. (2) Mana-mana pemberi francais yang gagal mematuhi seksyen ini, melainkan dikecualikan oleh Menteri di bawah seksyen 58, melakukan suatu kesalahan dan boleh, apabila disabitkan— (a) jika orang itu ialah suatu pertubuhan perbadanan, didenda tidak melebihi dua ratus lima puluh ribu ringgit, dan bagi kesalahan yang kedua atau yang berikutnya, didenda tidak melebihi lima ratus ribu ringgit; atau (b) jika orang itu bukan suatu pertubuhan perbadanan, didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya, dan bagi kesalahan yang kedua atau yang berikutnya, didenda tidak melebihi dua ratus lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua- duanya.”. Seksyen baru 6a dan 6b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 6 seksyen yang berikut: Pendaftaran pemegang francais pemberi francais asing “ 6a. (1) Sebelum memulakan perniagaan francais, seseorang pemegang francais yang kepadanya francais diberikan daripada seseorang pemberi francais asing hendaklah memohon untuk mendaftarkan francais itu kepada Pendaftar dengan menggunakan borang permohonan yang ditetapkan dan permohonan itu hendaklah tertakluk kepada kelulusan Pendaftar. (2) Pendaftar boleh mengenakan apa-apa syarat bagi kelulusan pendaftaran francais yang disebut dalam subseksyen (1). (3) Jika seseorang pemegang francais telah mendapat kelulusan daripada pemberi francais asing untuk menjual francais itu, pemegang francais hendaklah mendaftarkan kelulusan itu. Pendaftaran pemegang francais 6b. Pemegang francais yang kepadanya francais diberikan daripada pemberi francais tempatan atau pemegang francais induk tempatan hendaklah mendaftarkan francais itu kepada Pendaftar dengan menggunakan borang pendaftaran yang ditetapkan dalam tempoh empat belas hari dari tarikh menandatangani perjanjian antara pemberi francais dengan pemegang francais.”. Pindaan seksyen 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 10 dengan seksyen yang berikut: “ Tempoh berkuat kuasa 10. Pendaftaran sesuatu francais hendaklah terus berkuat kuasa melainkan Pendaftar mengeluarkan suatu perintah bertulis kepada pemberi francais, untuk menggantung, menamatkan atau membatalkan kelulusan pendaftaran francais di bawah Akta ini.”. Pindaan seksyen 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 11 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan memasukkan selepas perkataan “hendaklah” perkataan “, dengan kelulusan Pendaftar,”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: “(4) Mana-mana orang yang gagal mematuhi seksyen ini melakukan suatu kesalahan.”. Pindaan seksyen 12"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 12(1) Akta ibu dipinda dengan menggantikan perkataan “, melarang atau menolak penjualan atau” dengan perkataan “atau membatalkan kelulusan”. Pindaan seksyen 13"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 13 Akta ibu dipinda dengan menggantikan subseksyen (2) dengan subseksyen yang berikut: “(2) Pendaftar hendaklah membatalkan pendaftaran francais daripada daftar jika dia berpuas hati bahawa— (a) pemberi francais gagal untuk menyerahkan laporan tahunannya kepada Pendaftar sebagaimana yang ditentukan di bawah seksyen 16 bagi tempoh lima tahun berterusan; (b) pemberi francais adalah tidak solven; atau (c) pemberi francais tidak lagi memberi hak di bawah francais.”. Pindaan seksyen 14"
+      }
+    }
+  ]
+}

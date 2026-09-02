@@ -4,17 +4,17 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## ChApTER I
+## CHAPTER I
 
-pRELIMINARY
+## PRELIMINARY
 
 1. Short title
 
 2. Amendment of Acts
 
-## ChApTER II
+## CHAPTER II
 
-AMENDMENTS TO ThE INCOME TAX ACT 1967
+## AMENDMENTS TO THE INCOME TAX ACT 1967
 
 3. Commencement of amendments to the Income Tax Act 1967
 
@@ -48,9 +48,9 @@ AMENDMENTS TO ThE INCOME TAX ACT 1967
 
 <!-- page 2 -->
 
-## ChApTER III
+## CHAPTER III
 
-AMENDMENTS TO ThE REAL pROpERTY GAINS TAX ACT 1976
+## AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976
 
 18. Commencement of amendments to the Real Property Gains Tax Act 1976
 
@@ -62,9 +62,9 @@ AMENDMENTS TO ThE REAL pROpERTY GAINS TAX ACT 1976
 
 22. Amendment of section 21
 
-## ChApTER IV
+## CHAPTER IV
 
-AMENDMENTS TO ThE STAMp ACT 1949
+## AMENDMENTS TO THE STAMP ACT 1949
 
 23. Commencement of amendments to the Stamp Act 1949
 
@@ -76,7 +76,7 @@ AMENDMENTS TO ThE STAMp ACT 1949
 
 27. Amendment of First Schedule
 
-## ChApTER V
+## CHAPTER V
 
 ## AMENDMENT TO THE PETROLEUM (INCOME TAX) ACT 1967
 
@@ -84,7 +84,7 @@ AMENDMENTS TO ThE STAMp ACT 1949
 
 29. Amendment of First Schedule
 
-## ChApTER VI
+## CHAPTER VI
 
 ## AMENDMENT TO THE FINANCE ACT 2012
 
@@ -92,7 +92,7 @@ AMENDMENTS TO ThE STAMp ACT 1949
 
 31. Amendment of section 3
 
-## ChApTER VII
+## CHAPTER VII
 
 ## AMENDMENT TO THE FINANCE (NO. 2) ACT 2023
 
@@ -110,7 +110,7 @@ An Act to amend the Income Tax Act 1967, the Real Property Gains Tax Act 1976, t
 
 ENACTED by the Parliament of Malaysia pursuant to Article 68 of the Federal Constitution as follows:
 
-## ChApTER I
+## CHAPTER I
 
 ## PRELIMINARY
 
@@ -124,7 +124,7 @@ ENACTED by the Parliament of Malaysia pursuant to Article 68 of the Federal Cons
 
 <!-- page 4 -->
 
-## ChApTER II
+## CHAPTER II
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
@@ -422,9 +422,7 @@ upon paying, crediting or distributing the dividend, furnish the shareholders wi
 
 ### Amendment of Schedule 1
 
-16. Schedule 1 to the principal Act is amended by inserting after
-
-## Part XXI the following part:
+16. Schedule 1 to the principal Act is amended by inserting after Part XXI the following part:
 
 “pART XXII
 
@@ -446,7 +444,7 @@ upon paying, crediting or distributing the dividend, furnish the shareholders wi
 
 “(2) Any dividend paid, credited or distributed to an individual, whether in monetary form or otherwise, amounting to one hundred thousand ringgit or less where the company paying such dividend is not entitled to deduct tax under this Act and any deduction in relation to such dividend shall be disregarded for the purpose of ascertaining the chargeable income of the individual.”.
 
-## ChApTER III
+## CHAPTER III
 
 ## AMENDMENTS TO THE REAL PROPERTY GAINS
 
@@ -522,7 +520,7 @@ Provided that—
 
 (b) the Director General may, in his discretion, for any good cause shown, remit the whole or any part of any increase in the tax payable under this subsection.”.
 
-## ChApTER IV
+## CHAPTER IV
 
 ## AMENDMENTS TO THE STAMP ACT 1949
 
@@ -596,7 +594,9 @@ in connection with or in relation to duty, may at any time make an assessment in
 
 (a) by substituting for item 12 the following item:
 
-Item Description of Instrument Proper Stamp Duty
+Item Description of Instrument
+
+<!-- marginal: Proper Stamp Duty -->
 
 ## “12 ASSIGNMENT:
 
@@ -684,17 +684,13 @@ calculated exceeding
 
 <!-- marginal: indefinite -->
 
-for a whole
-
-<!-- marginal: three -->
+for a whole three
 
 <!-- marginal: exceeding -->
 
 <!-- marginal: period -->
 
-year—
-
-<!-- marginal: years -->
+year— years
 
 <!-- marginal: five years -->
 
@@ -734,7 +730,7 @@ Exemption
 
 For the sole purposes of appointment or authorizing any person to vote as proxy at a meeting of a Company or Association”.
 
-## ChApTER V
+## CHAPTER V
 
 ## AMENDMENT TO THE PETROLEUM (INCOME TAX)
 
@@ -754,7 +750,7 @@ ACT 1967
 
 <!-- page 25 -->
 
-## ChApTER VI
+## CHAPTER VI
 
 ## AMENDMENT TO THE FINANCE ACT 2012
 
@@ -766,7 +762,7 @@ ACT 1967
 
 31. The Finance Act 2012 is amended in subsection 3(4) by substituting for the words “until the year of assessment 2025” the words “until the year of assessment 2030”.
 
-## ChApTER VII
+## CHAPTER VII
 
 ## AMENDMENT TO THE FINANCE (NO. 2) ACT 2023
 
@@ -980,7 +976,7 @@ This Bill seeks to amend the Income Tax Act 1967 (“Act 53”), the Real Proper
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
-## Chapter II of this Bill seeks to amend the Income Tax Act 1967.
+Chapter II of this Bill seeks to amend the Income Tax Act 1967.
 
 2. Clause 4 seeks to introduce a new paragraph 6(1)(r) into Act 53 to provide that income tax shall be charged on the dividend income of an individual who is a shareholder of a company, either through direct shareholding or through a nominee where such income is deemed to be derived from Malaysia by virtue of section 14 of Act 53, at the rate specified under Part XXII of Schedule 1 to Act 53.
 
@@ -1112,7 +1108,7 @@ These amendments have effect for the year of assessment 2025 and subsequent year
 
 ## AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976
 
-## Chapter III of this Bill seeks to amend the Real Property Gains Tax Act 1976.
+Chapter III of this Bill seeks to amend the Real Property Gains Tax Act 1976.
 
 16. Clause 19 seeks to amend section 3 of Act 169.
 
@@ -1146,7 +1142,7 @@ These amendments come into operation on 1 January 2025.
 
 ## AMENDMENTS TO THE STAMP ACT 1949
 
-## Chapter IV of this Bill seeks to amend the Stamp Act 1949.
+Chapter IV of this Bill seeks to amend the Stamp Act 1949.
 
 20. Clause 24 seeks to amend section 20A of Act 378 to impose ad valorem duty on the exchange of real property as a conveyance on sale irrespective of whether the exchange involves a consideration. The proposed amendment also provides that the exchange of real property between certain parties will not be subject to ad valorem duty.
 
@@ -1192,7 +1188,7 @@ These amendments come into operation on 1 January 2025.
 
 ## AMENDMENT TO THE PETROLEUM (INCOME TAX) ACT 1967
 
-## Chapter V of this Bill seeks to amend the Petroleum (Income Tax) Act 1967.
+Chapter V of this Bill seeks to amend the Petroleum (Income Tax) Act 1967.
 
 24. Clause 29 seeks to substitute subparagraph 3A(4) of the First Schedule to Act 543 to clarify that any amount deducted in relation to the first-mentioned chargeable person shall be disregarded for the purpose of ascertaining the adjusted income of the first-mentioned chargeable person since the qualifying exploration expenditure exceeds the gross income of the second-mentioned chargeable person, the excess of the expenditure shall only be allowed to be deducted from the gross income of that second-mentioned chargeable person for the subsequent years of assessment.
 
@@ -1200,7 +1196,7 @@ This amendment comes into operation on the coming into operation of this Act.
 
 ## AMENDMENT TO THE FINANCE ACT 2012
 
-## Chapter VI of this Bill seeks to amend the Finance Act 2012.
+Chapter VI of this Bill seeks to amend the Finance Act 2012.
 
 25. Clause 31 seeks to amend subsection 3(4) of Act 742 to extend the period of deduction by an individual for premium payments for deferred annuities and contributions made to private retirement schemes until the year of assessment 2030.
 
@@ -1210,7 +1206,7 @@ This amendment comes into operation on the coming into operation of this Act.
 
 ## AMENDMENT TO THE FINANCE (NO. 2) ACT 2023
 
-## Chapter VII of this Bill seeks to amend the Finance (No. 2) Act 2023.
+Chapter VII of this Bill seeks to amend the Finance (No. 2) Act 2023.
 
 26. Clause 33 seeks to amend section 30 of Act 851, which seeks to amend the provisions of Act 53.
 

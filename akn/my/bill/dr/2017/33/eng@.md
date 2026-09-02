@@ -22,11 +22,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 2 -->
 
-(b) by substituting for the words “on the petition of one party to a marriage where the other party has converted to Islam, and such decree shall, notwithstanding any other written law to the contrary, be valid against the party to the marriage who has so converted to Islam” the words “or other orders under Part VII and
-
-## Part VIII on a petition for divorce under section 53
-
-where one party converts to Islam after the filing of the petition or after the pronouncement of a decree, or a petition for divorce under either section 51, 52 or 53 on the petition of either party or both parties to a marriage where one party has converted to Islam, and such decree and orders made shall, notwithstanding any other written law to the contrary, be valid against the party to the marriage who has so converted to Islam”.
+(b) by substituting for the words “on the petition of one party to a marriage where the other party has converted to Islam, and such decree shall, notwithstanding any other written law to the contrary, be valid against the party to the marriage who has so converted to Islam” the words “or other orders under Part VII and Part VIII on a petition for divorce under section 53 where one party converts to Islam after the filing of the petition or after the pronouncement of a decree, or a petition for divorce under either section 51, 52 or 53 on the petition of either party or both parties to a marriage where one party has converted to Islam, and such decree and orders made shall, notwithstanding any other written law to the contrary, be valid against the party to the marriage who has so converted to Islam”.
 
 ### Amendment of section 12
 

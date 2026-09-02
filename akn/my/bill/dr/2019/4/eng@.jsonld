@@ -320,7 +320,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_2",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (1)— ‘ “owner” in relation to goods, includes any person being or holding himself out to be the owner, importer, exporter, consignee, agent or person in possession of, or beneficially interested in, or having any control of, or power of disposition over, the goods; “Pangkor” shall have the same meaning assigned to it under section 163q of the Customs Act 1967;’; and"
+        "@value": "in subsection (1)—"
       }
     },
     {
@@ -340,7 +340,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_2__para_a",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after the definition of “operation” the following definitions:"
+        "@value": "by inserting after the definition of “operation” the following definitions: ‘ “owner” in relation to goods, includes any person being or holding himself out to be the owner, importer, exporter, consignee, agent or person in possession of, or beneficially interested in, or having any control of, or power of disposition over, the goods; “Pangkor” shall have the same meaning assigned to it under section 163q of the Customs Act 1967;’; and"
       }
     },
     {

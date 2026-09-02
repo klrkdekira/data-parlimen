@@ -84,7 +84,9 @@ mana-mana undang-undang bertulis hendaklah diselaraskan mengikut subseksyen 3(1)
 
 (b) dalam hal penerima yang menerima pencen terbitan atau elaun persaraan terbitan pada atau selepas 2 Januari 2012, ialah amaun pencen terbitan atau elaun persaraan terbitan yang diberikan kepada penerima.
 
-(1B) Penyelarasan yang disebut dalam subseksyen (1) adalah tertakluk kepada apa-apa peratusan kenaikan yang lebih tinggi yang dibuat di bawah subseksyen 3(2).”; dan
+(1B) Penyelarasan yang disebut dalam subseksyen
+
+(1) adalah tertakluk kepada apa-apa peratusan kenaikan yang lebih tinggi yang dibuat di bawah subseksyen 3(2).”; dan
 
 (c) dalam subseksyen (2), (3) dan (5), dengan menggantikan perkataan “Jadual Kedua” di mana-mana jua terdapat dengan perkataan “subseksyen 3(1)”.
 
@@ -132,7 +134,9 @@ subseksyen 3(1) ialah amaun pencen terbitan atau elaun persaraan terbitan yang t
 
 10. (1) Jika pencen orang tanggungan diberikan di bawah mana-mana undang-undang bertulis, maka pencen orang tanggungan itu hendaklah diselaraskan mengikut subseksyen 3(1) tetapi faktor yang terpakai hendaklah faktor yang terpakai di bawah undang-undang bertulis itu.
 
-(2) Jika faktor yang disebut dalam subseksyen (1) berubah mengikut kelayakan orang tanggungan itu sebagaimana yang ditetapkan di bawah undang-undang bertulis itu, pencen orang tanggungan hendaklah diselaraskan berdasarkan gaji isyarat sebagaimana yang ditentukan di bawah subseksyen (3) dengan menggunakan faktor baru yang terpakai di bawah undang-undang bertulis itu.
+(2) Jika faktor yang disebut dalam subseksyen (1) berubah mengikut kelayakan orang tanggungan itu sebagaimana yang ditetapkan di bawah undang-undang bertulis itu, pencen orang tanggungan hendaklah diselaraskan berdasarkan gaji isyarat sebagaimana yang ditentukan di bawah subseksyen
+
+(3) dengan menggunakan faktor baru yang terpakai di bawah undang-undang bertulis itu.
 
 (3) Gaji isyarat—
 

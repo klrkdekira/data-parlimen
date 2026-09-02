@@ -18,7 +18,25 @@ II
 
 ## LEMBAGA AHLI GEOLOGI
 
-3. Penubuhan Lembaga 4. Fungsi dan kuasa Lembaga 5. Meterai perbadanan 6. Keanggotaan Lembaga 7. Tatacara Lembaga 8. Tempoh jawatan 9. Elaun 10. Pembatalan pelantikan dan peletakan jawatan 11. Pengosongan jawatan 12. Pelantikan pengganti bagi anggota 13. Penjalanan sementara fungsi Pengerusi 14. Jawatankuasa 15. Anggota Lembaga tidak menanggung liabiliti 16. Pemakaian Akta Perlindungan Pihak Berkuasa Awam 1948 17. Anggota, dsb., disifatkan sebagai pekhidmat awam 18. Penyata, laporan, akaun dan maklumat
+3. Penubuhan Lembaga 4. Fungsi dan kuasa Lembaga 5. Meterai perbadanan 6. Keanggotaan Lembaga 7. Tatacara Lembaga 8. Tempoh jawatan 9. Elaun
+
+10. Pembatalan pelantikan dan peletakan jawatan
+
+11. Pengosongan jawatan
+
+12. Pelantikan pengganti bagi anggota
+
+13. Penjalanan sementara fungsi Pengerusi
+
+14. Jawatankuasa
+
+15. Anggota Lembaga tidak menanggung liabiliti
+
+16. Pemakaian Akta Perlindungan Pihak Berkuasa Awam 1948
+
+17. Anggota, dsb., disifatkan sebagai pekhidmat awam
+
+18. Penyata, laporan, akaun dan maklumat
 
 <!-- page 2 -->
 
@@ -82,7 +100,11 @@ IV
 
 <!-- marginal: 3 -->
 
-Ahli Geologi 4 1. Penalti am 42. Persubahatan dan percubaan boleh dihukum sebagai kesalahan 4 3. Kesalahan oleh pekongsi, ejen atau pekerja 44. Pemulaan pendakwaan 4 5. Bidang kuasa untuk membicarakan kesalahan 4 6. Perlindungan Lembaga, dsb.
+Ahli Geologi 4 1. Penalti am
+
+42. Persubahatan dan percubaan boleh dihukum sebagai kesalahan 4 3. Kesalahan oleh pekongsi, ejen atau pekerja
+
+44. Pemulaan pendakwaan 4 5. Bidang kuasa untuk membicarakan kesalahan 4 6. Perlindungan Lembaga, dsb.
 
 ## BAHAGIAN VI
 
@@ -144,7 +166,11 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 "Inspektor" ertinya seseorang pegawai yang dilantik di bawah subseksyen 37(1);
 
-"Institut" ertinya Institut Geologi Malaysia yang ditubuhkan di bawah Akta Pertubuhan 1966 [Akta 335] dan termasuk mana-mana institut, badan atau pertubuhan yang menggantikannya yang diluluskan oleh Menteri;
+"Institut" ertinya Institut Geologi Malaysia yang ditubuhkan di bawah Akta Pertubuhan 1966 [Akta 335] dan
+
+<!-- marginal: termasuk -->
+
+mana-mana institut, badan atau pertubuhan yang menggantikannya yang diluluskan oleh Menteri;
 
 "jawatankuasa" ertinya sesuatu jawatankuasa yang ditubuhkan di bawah seksyen 14;
 
@@ -544,11 +570,7 @@ Ahli Geologi
 
 (ii) telah memperoleh pengalaman amali yang diluluskan oleh Lembaga dan telah lulus peperiksaan yang ditentukan oleh Lembaga di bawah subseksyen (2);
 
-(b) mana-mana orang yang walaupun
-
-<!-- marginal: tidak memegang -->
-
-kelayakan yang dikehendaki oleh Lembaga di bawah subseksyen (1) —
+(b) mana-mana orang yang walaupun tidak memegang kelayakan yang dikehendaki oleh Lembaga di bawah subseksyen (1) —
 
 (i) memegang ijazah dalam bidang geologi yang tidak diluluskan oleh Lembaga;
 

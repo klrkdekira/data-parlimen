@@ -52,9 +52,11 @@ referred to as the "Ordinance", is amended—
 
 (c) by inserting after the definition of "sanitary conventence" the following new definitions: "sewage" has the same meaning assigned to it under the Sewerage Services Act 1993; "sewerage system" has the same meaning assigned to it under the Sewerage Services Act 1993;'
 
-Amendment
+<!-- marginal: Amendment -->
 
-3. Section 111 of the Ordinance is amended— of section
+3. Section 111 of the Ordinance is amended—
+
+<!-- marginal: of section -->
 
 111.
 
@@ -62,9 +64,11 @@ Amendment
 
 (b) by inserting after the word "effluent" the words "other than sewage".
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. Section 112 of the Ordinance is amended— of section
+4. Section 112 of the Ordinance is amended—
+
+<!-- marginal: of section -->
 
 112.
 
@@ -76,9 +80,11 @@ Amendment
 
 (d) by deleting the words "such sewage disposal or" in subsection (3).
 
-Amendment
+<!-- marginal: Amendment -->
 
-5. Section 116 of the Ordinance is amended— of section
+5. Section 116 of the Ordinance is amended—
+
+<!-- marginal: of section -->
 
 116.
 
@@ -86,9 +92,11 @@ Amendment
 
 (b) by deleting the words "public and private sewers and" in the section.
 
-Amendment
+<!-- marginal: Amendment -->
 
-6. Section 117 of the Ordinance is amended— of section
+6. Section 117 of the Ordinance is amended—
+
+<!-- marginal: of section -->
 
 117.
 
@@ -156,9 +164,11 @@ Buildings 121 A. No person shall erect a building or any not to be extension of 
 
 <!-- page 4 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-11. Section 122 of the Ordinance is amended— of section
+11. Section 122 of the Ordinance is amended—
+
+<!-- marginal: of section -->
 
 122.
 
@@ -166,9 +176,11 @@ Amendment
 
 (b) by deleting the words "private sewer" and "private sewer or" wherever appearing in the section.
 
-Amendment
+<!-- marginal: Amendment -->
 
-12. Section 123 ofthe Ordinance is amended— of section
+12. Section 123 ofthe Ordinance is amended—
+
+<!-- marginal: of section -->
 
 123.
 
@@ -178,13 +190,21 @@ Amendment
 
 Provided that any works to be carried out to abate such nuisance in respect of the sewerage system shall be in accordance with the rules, regulations and by-laws made pursuant to the Act Sewerage Services Act 1993.".
 
-Deletion of
+<!-- marginal: Deletion of -->
 
-13. The Ordinance is amended by deleting sections 125 sections 125 and 128. and 128.
+13. The Ordinance is amended by deleting sections 125
 
-Amendment
+<!-- marginal: sections 125 -->
 
-14. Section 130 of the Ordinance is amended— of section
+and 128.
+
+<!-- marginal: and 128. -->
+
+<!-- marginal: Amendment -->
+
+14. Section 130 of the Ordinance is amended—
+
+<!-- marginal: of section -->
 
 130.
 
@@ -192,19 +212,23 @@ Amendment
 
 (b) by deleting the words "and night soil" in paragraph (d) of subsection (1).
 
-Amendment
+<!-- marginal: Amendment -->
 
-15. Section 131 of the Ordinance is amended by deleting of section the words ", cesspools, septic tanks, sewers" and "or night
+15. Section 131 of the Ordinance is amended by deleting
+
+<!-- marginal: of section -->
+
+the words ", cesspools, septic tanks, sewers" and "or night
 
 131. soil".
 
-Amendment
+<!-- marginal: Amendment -->
 
-16. Section 132 of the Ordinance is amended— of section
+16. Section 132 of the Ordinance is amended—
 
-132.
+<!-- marginal: of section -->
 
-(a) by deleting paragraphs (f), (g)', (h), (i) and (j); and
+132. (a) by deleting paragraphs (f), (g)', (h), (i) and (j); and
 
 (b) by deleting the words "private sewers and" in paragraph (k).
 

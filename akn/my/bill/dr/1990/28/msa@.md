@@ -52,9 +52,7 @@ D.R. 28/90
 
 ## PERMULAAN
 
-1. Tajuk ringkas dan mula berkuatkuasa. 2. Tafsiran. 3. Takrif subsidiari dan syarikat pemegang.
-
-4. Syarikat-syarikat berkaitan, 5. Tak terpakainya Akta Syarikat 1965. 6. Larangan ke atas pemegangan sy er dalam syarikat luar pesisir. 7. Maksud yang dibenarkan bagi pemerbadanan.
+1. Tajuk ringkas dan mula berkuatkuasa. 2. Tafsiran. 3. Takrif subsidiari dan syarikat pemegang. 4. Syarikat-syarikat berkaitan, 5. Tak terpakainya Akta Syarikat 1965. 6. Larangan ke atas pemegangan sy er dalam syarikat luar pesisir. 7. Maksud yang dibenarkan bagi pemerbadanan.
 
 ## BAHAGIAN
 
@@ -200,33 +198,13 @@ IV
 
 57. Kuasa menerbitkan debentur.
 
-58. Syarikat luar pesisir hendaklah menyenggara daftar pemegang debentur.
-
-59. Debentur-debentur berkekalan.
-
-60. Penerbitan semula debentur-debentur telah ditebus.
-
-61. Pemegang amanah bagi pemegang-pemegang debentur.
-
-62. Kewajipan-kewajipan pemegang amanah.
-
-63. Obligasi-obligasi pengarah syarikat peminjaim.
-
-64. Obligasi syarikat penggerenti untuk member i maklumat.
-
-65. Pinjaman dan deposit-deposit hendaklah diba;yar balik dengan serta-merta atas kejadian-kejadian tertentu.
+58. Syarikat luar pesisir hendaklah menyenggara daftar pemegang debentur. 59. Debentur-debentur berkekalan. 60. Penerbitan semula debentur-debentur telah ditebus. 61. Pemegang amanah bagi pemegang-pemegang debentur. 62. Kewajipan-kewajipan pemegang amanah. 63. Obligasi-obligasi pengarah syarikat peminjaim. 64. Obligasi syarikat penggerenti untuk member i maklumat. 65. Pinjaman dan deposit-deposit hendaklah diba;yar balik dengan serta-merta atas kejadian-kejadian tertentu.
 
 ## PENGGAL 5
 
 ## KEPENTINGAN-KEPENTINGAN SELAIN DARIPADA SYER, DEBENTUR, DSB.
 
-66. Tafsiran.
-
-67. Suratikatan-suratikatan diluluskan.
-
-68. Kelulusan suratikatan-suratikatan.
-
-69. Kepentingan-kepentingan hendaklah diterbitke in oleh syarikat luar pesisir atau syarikat luar pesisir asing sah aja.
+66. Tafsiran. 67. Suratikatan-suratikatan diluluskan. 68. Kelulusan suratikatan-suratikatan. 69. Kepentingan-kepentingan hendaklah diterbitke in oleh syarikat luar pesisir atau syarikat luar pesisir asing sah aja.
 
 <!-- page 6 -->
 
@@ -250,23 +228,13 @@ IV
 
 77. Menomborkan syer-syer.
 
-78. Perakuan hendaklah menjadi keterangan mengenai hakmilik.
-
-79. Syarikat luar pesisir boleh mempunyai meterai syer.
-
-80. Suratcara pemindahan dan pemindahan oleh wakil diri.
-
-81. Kewajipan-kewajipan syarikat luar pesisir mengenai pengeluaran perakuan.
+78. Perakuan hendaklah menjadi keterangan mengenai hakmilik. 79. Syarikat luar pesisir boleh mempunyai meterai syer. 80. Suratcara pemindahan dan pemindahan oleh wakil diri. 81. Kewajipan-kewajipan syarikat luar pesisir mengenai pengeluaran perakuan.
 
 ## PENGGAL 7
 
 ## DAFTAR GADAIAN
 
-82. Tak terpakainya Bahagian.
-
-83. Daftar gadaian.
-
-84. Notis mengenai pewujudan dan penyelesaian gadaian.
+82. Tak terpakainya Bahagian. 83. Daftar gadaian. 84. Notis mengenai pewujudan dan penyelesaian gadaian.
 
 ## BAHAGIAN V
 
@@ -276,9 +244,7 @@ IV
 
 ## PEJABAT DAN NAMA
 
-85. Pejabat berdaftar syarikat luar pesisir.
-
-86. Nama hendaklah dipamerkan di semua pejabat dan terdapat pada meterai, surat, dsb.
+85. Pejabat berdaftar syarikat luar pesisir. 86. Nama hendaklah dipamerkan di semua pejabat dan terdapat pada meterai, surat, dsb.
 
 ## PENGGAL 2
 
@@ -286,35 +252,17 @@ IV
 
 87. Pengarah-pengarah.
 
-88. Persetujuan untuk bertindak sebagai pengarah.
-
-89. Keesahan tindakan-tindakan pengarah.
-
-90. Kuasa Pendaftar untuk menghalang orang-orang daripada menguruskan syarikat luar pesisir.
-
-91. Penzahiran kepentingan-kepentingan dalam kontrak, harta, jawatan, dll.
-
-92. Tugas dan liabiliti pegawai-pegawai.
+88. Persetujuan untuk bertindak sebagai pengarah. 89. Keesahan tindakan-tindakan pengarah. 90. Kuasa Pendaftar untuk menghalang orang-orang daripada menguruskan syarikat luar pesisir. 91. Penzahiran kepentingan-kepentingan dalam kontrak, harta, jawatan, dll. 92. Tugas dan liabiliti pegawai-pegawai.
 
 <!-- page 7 -->
 
-93. Setiausaha.
-
-94. Daftar pengarah-pengarah dan setiausaha-setiausaha.
+93. Setiausaha. 94. Daftar pengarah-pengarah dan setiausaha-setiausaha.
 
 ## PENGGAL3
 
 ## MBSYUARAT DAN PROSIDING
 
-95. Mesyuarat anggota-anggota.
-
-96. Notis mesyuarat anggola-anggota.
-
-97. Kuorum, Pengerusi, pengundian dsb., di mesyuarat.
-
-98. Pengundian oleh anggota-anggota.
-
-99. Tindakan melalui persetujuan anggota-anggota.
+95. Mesyuarat anggota-anggota. 96. Notis mesyuarat anggola-anggota. 97. Kuorum, Pengerusi, pengundian dsb., di mesyuarat. 98. Pengundian oleh anggota-anggota. 99. Tindakan melalui persetujuan anggota-anggota.
 
 100. Kuasa Mahkamah untuk memerintahkan mesyuarat dipanggil.
 
@@ -348,25 +296,13 @@ IV
 
 ## AKAUN-AKAUN
 
-110: Akaun-akaun hendaklah disimpan.
-
-111. Akaun-akaun yang diaudit hendaklah dibentangkan di mesyuarat.
-
-112. Akaun-akaun yang diaudit hendaklah dihantar kepada anggota-anggota.
+110: Akaun-akaun hendaklah disimpan. 111. Akaun-akaun yang diaudit hendaklah dibentangkan di mesyuarat. 112. Akaun-akaun yang diaudit hendaklah dihantar kepada anggota-anggota.
 
 ## PENGGAL2
 
 ## AUDIT
 
-113. Juruaudit hendaklah dilantik.
-
-114. Pemberhentian dan perletakan jawatan juruaudit-jumaudit.
-
-115. Saraan juruaudit.
-
-116. Juruaudit boleh menghadiri mesyuarat-mesyuarat.
-
-117. Hak-hak dan kewajipan-kewajipan juruaudit.
+113. Juruaudit hendaklah dilantik. 114. Pemberhentian dan perletakan jawatan juruaudit-jumaudit. 115. Saraan juruaudit. 116. Juruaudit boleh menghadiri mesyuarat-mesyuarat. 117. Hak-hak dan kewajipan-kewajipan juruaudit.
 
 <!-- page 8 -->
 
@@ -445,6 +381,8 @@ IX
 <!-- page 9 -->
 
 ## SYARIKAT LUAR PESISIR 7
+
+<!-- marginal: Fasal -->
 
 147. Pelaburan dalam syarikat domestik.
 
@@ -558,13 +496,19 @@ tetapi tidaklah termasuk—
 
 (b) berhubungan dengan mana-mana orang lain, seseorang yang telah menubuhkan suatu tempat perniagaan, dan beroperasi, di Malaysia,
 
-dan termasuklah seseorang yang diisytiharkan sebagai Akta 17. pemastautin menurut seksyen 43 Akta Kawalan Pertukaran Wang 1953;
+dan termasuklah seseorang yang diisytiharkan sebagai
+
+<!-- marginal: Akta 17. -->
+
+pemastautin menurut seksyen 43 Akta Kawalan Pertukaran Wang 1953;
 
 "penaja", berhubungan dengan sesuatu prospektus yang dikeluarkan oleh atau berkaitan dengan sesuatu syarikat luar pesisir, ertinya seorang penaja syarikat itu yang menjadi pihak dalam penyediaan prospektus atau mana- mana bahagiannya yang relevan, tetapi tidaklah termasuk mana-mana orang yang semata-mata bertindak atas sifat profesionalnya atau atas sifatnya sebagai penasihat;
 
 "pencarum", berhubungan dengan sesuatu syarikat luar pesisir, ertinya seseorang yang bertanggungan mencarum kepada aset-aset syarikat sekiranya ia digulungkan, dan termasuklah pemegang syer-syer berbayar penuh dalam syarikat itu dan, sebelum penentuan muktamad orang- orang yang menjadi pencarum, termasuklah mana-mana orang yang dikatakan sebagai seorang pencarum;
 
-Akta 125. "Pendaftar" ertinya Pendaftar Syarikat di bawah Akta Syarikat 1965, dan termasuklah mana-mana Pendaftar Rantau, Timbalan Pendaftar, atau Penolong Pendaftar, Syarikat;
+<!-- marginal: Akta 125. -->
+
+"Pendaftar" ertinya Pendaftar Syarikat di bawah Akta Syarikat 1965, dan termasuklah mana-mana Pendaftar Rantau, Timbalan Pendaftar, atau Penolong Pendaftar, Syarikat;
 
 "pengarah" ertinya mana-mana orang, tidak kira dengan apa jua namanya disebut, yang memegang jawatan pengarah sesuatu syarikat luar pesisir atau syarikat luar pesisir asing, dan termasuklah seseorang yang mengikut arahan-arahan atau petunjuk-petunjuknya pengarah- pengarah syarikat itu lazimnya bertindak dan seorang pengarah gilir atau ganti;
 
@@ -670,11 +614,7 @@ bagi faedahnya oleh perbadanan yang satu lagi itu; atau
 
 (i) oleh mana-mana orang sebagai penama bagi perbadanan yang satu lagi itu (kecuali jika perbadanan yang satu lagi itu hanya bersangkut-paut atas sifat pemegang amanah atau fidusiari); atau
 
-(ii) oleh, atau oleh penama bagi, sesuatu subsidiari perbadanan yang satu lagi itu, yang bukannya suatu subsidiari yang hanya bersangkut-paut atas
-
-<!-- marginal: sifat -->
-
-pemegang amanah atau fidusiari,
+(ii) oleh, atau oleh penama bagi, sesuatu subsidiari perbadanan yang satu lagi itu, yang bukannya suatu subsidiari yang hanya bersangkut-paut atas sifat pemegang amanah atau fidusiari,
 
 hendaklah dikira sebagai dipegang atau boleh dijalankan oleh perbadanan yang satu lagi itu;
 
@@ -684,7 +624,11 @@ hendaklah dikira sebagai dipegang atau boleh dijalankan oleh perbadanan yang sat
 
 <!-- page 18 -->
 
-(yang tidak dipegang atau tidak boleh dijalankan sebagaimana yang disebut dalam perenggan (c)) hendaklah dikira sebagai tidak dipegang atau tidak boleh dijalankan oleh perbadanan yang satu lagi itu jika perniagaan biasa perbadanan yang satu lagi itu atau subsidiarinya, mengikut mana-mana yang berkenaan, termasuk pemberian pinjaman wang dan syer-syer itu adalah dipegang atau kuasa itu boleh dijalankan sebagaimana yang disebut terdahulu hanya sebagai cagaran bagi maksud-maksud sesuatu transaksi yang dibuat dalam penjalanan biasa perniagaan itu.
+(yang tidak dipegang atau tidak boleh dijalankan sebagaimana yang disebut dalam perenggan (c)) hendaklah dikira sebagai tidak dipegang atau tidak boleh dijalankan oleh perbadanan yang satu lagi itu jika perniagaan biasa perbadanan yang satu lagi itu atau subsidiarinya, mengikut mana-mana yang berkenaan,
+
+<!-- marginal: termasuk -->
+
+pemberian pinjaman wang dan syer-syer itu adalah dipegang atau kuasa itu boleh dijalankan sebagaimana yang disebut terdahulu hanya sebagai cagaran bagi maksud-maksud sesuatu transaksi yang dibuat dalam penjalanan biasa perniagaan itu.
 
 (4) Sesuatu sebutan dalam Akta ini mengenai syarikat pemegang sesuatu perbadanan hendaklah dibaca sebagai sebutan mengenai suatu perbadanan yang perbadanan yang terakhir disebut itu menjadi subsidiarinya.
 
@@ -744,11 +688,29 @@ luar pesisir, tetapi sesuatu syarikat amanah yang
 
 merupakan syarikat domestik hanya boleh memegang syer-syer itu sebagai pemegang amanah atau penama:
 
-Dengan syarat bahawa sesuatu syarikat yang diperbadankan atau didaftarkan di bawah Akta Syarikat Akta 1965 boleh, jika dibenarkan oleh Akta Bank Luar Pesisir 1990 atau Akta Insurans Luar Pesisir 1990 untuk Akla menubuhkan subsidiari di Labuan, memegang syer-syer dalam subsidiari itu.
+Dengan syarat bahawa sesuatu syarikat yang diperbadankan atau didaftarkan di bawah Akta Syarikat
 
-Maksud yang
+<!-- marginal: Akta -->
 
-7. (1) Tertakluk kepada subseksyen (2), sesuatu syarikat dibenarkan luar pesisir boleh diperbadankan bagi apa-apa maksud bagi pemerbadanan. yang sah, dan boleh menjalankan dalam, dari atau melalui Labuan apa-apa perniagaan yang boleh dijalankan dengan sahnya di Malaysia, tetapi ia tidak boleh menjalankan perniagaan bank atau insurans atau apa-apa perniagaan yang serupa melainkan jika ia dilesenkan untuk berbuat demikian di bawah undang-undang yang sedang berkuatkuasa di Malaysia.
+1965 boleh, jika dibenarkan oleh Akta Bank Luar Pesisir 1990 atau Akta Insurans Luar Pesisir 1990 untuk
+
+<!-- marginal: Akla -->
+
+menubuhkan subsidiari di Labuan, memegang syer-syer dalam subsidiari itu.
+
+<!-- marginal: Maksud yang -->
+
+7. (1) Tertakluk kepada subseksyen (2), sesuatu syarikat
+
+<!-- marginal: dibenarkan -->
+
+luar pesisir boleh diperbadankan bagi apa-apa maksud
+
+<!-- marginal: bagi -->
+
+<!-- marginal: pemerbadanan. -->
+
+yang sah, dan boleh menjalankan dalam, dari atau melalui Labuan apa-apa perniagaan yang boleh dijalankan dengan sahnya di Malaysia, tetapi ia tidak boleh menjalankan perniagaan bank atau insurans atau apa-apa perniagaan yang serupa melainkan jika ia dilesenkan untuk berbuat demikian di bawah undang-undang yang sedang berkuatkuasa di Malaysia.
 
 (2) Sesuatu syarikat luar pesisir hendaklah hanya menjalankan perniagaan dalam, dari atau melalui Labuan.
 
@@ -856,9 +818,17 @@ difikirkannya patut dikenakan, Pendaftar boleh meluluskan mana-mana orang menjad
 
 (5) Seseorang juruaudit diluluskan hendaklah membayar kepada Pendaftar apa-apa fee tahunan sebagaimana yang ditetapkan.
 
-Juruaudit-
+<!-- marginal: Juruaudit- -->
 
-11. (1) Seseorang tidak boleh dengan disedarinya juruaudit bersetuju untuk dilantik, dan tidak boleh dengan syarikat. disedarinya bertindak, sebagai juruaudit bagi mana-mana syarikat luar pesisir di bawah Akta ini dan tidak boleh menyediakan untuk atau bagi pihak syarikat itu apa-apa laporan yang dikehendaki oleh Akta ini supaya disediakan oleh seseorang juruaudit diluluskan—
+11. (1) Seseorang tidak boleh dengan disedarinya
+
+<!-- marginal: juruaudit -->
+
+bersetuju untuk dilantik, dan tidak boleh dengan
+
+<!-- marginal: syarikat. -->
+
+disedarinya bertindak, sebagai juruaudit bagi mana-mana syarikat luar pesisir di bawah Akta ini dan tidak boleh menyediakan untuk atau bagi pihak syarikat itu apa-apa laporan yang dikehendaki oleh Akta ini supaya disediakan oleh seseorang juruaudit diluluskan—
 
 (a) jika dia bukannya seorang juruaudit diluluskan;
 
@@ -916,9 +886,13 @@ amaun yang melebihi lima ribu dolar atau suatu amaun yang setara dalam apa-apa m
 
 (5) Jika seorang pelikuidasi diluluskan dilantik sebagai pelikuidasi sesuatu syarikat luar pesisir, sama ada oleh Mahkamah atau dalam suatu penggulungan sukarela, dia hendaklah dengan serta-merta memberitahu Pendaftar secara bertulis mengenai apa-apa kepentingan yang dipunyainya dalam syarikat luar pesisir itu sebagai pegawai, majikan atau pekerja syarikat luar pesisir itu atau sebagai pekongsi, majikan atau pekerja seseorang pegawai syarikat luar pesisir itu, dan apa-apa kepentingan yang dipunyai oleh syarikat yang berkaitan dengannya dalam syarikat luar pesisir itu.
 
-Daftar-
+<!-- marginal: Daftar- -->
 
-13. (1) Pendaftar hendaklah, tertakluk kepada Akta ini, daftar. menyimpan apa-apa daftar yang difikirkannya perlu mengikut apa-apa bentuk yang difikirkannya patut.
+13. (1) Pendaftar hendaklah, tertakluk kepada Akta ini,
+
+<!-- marginal: daftar. -->
+
+menyimpan apa-apa daftar yang difikirkannya perlu mengikut apa-apa bentuk yang difikirkannya patut.
 
 (2) Mana-mana pegawai, anggota, pemegang debentur, pengarah atau pelikuidasi sesuatu syarikat luar pesisir atau syarikat luar pesisir asing atau mana-mana orang lain yang mempunyai kebenaran bertulis pegawai, anggota, pemegang debentur, pengarah atau pelikuidasi tersebut atau yang dapat menunjukkan kepada Pendaftar bahawa dia mempunyai sebab yang baik. Untuk berbuat demikian, boleh, tertakluk kepada Akta ini dan apabila dibayar fee yang ditetapkan—
 
@@ -1000,7 +974,11 @@ tidak membaiki keingkaran itu dalam masa tiga puluh hari selepas disampaikan kep
 
 <!-- page 29 -->
 
-difailkan selama tidak kurang daripada tujuh tahun atau apa-apa dokumen yang mewujudkan atau membuktikan sesuatu gadaian atau penyelesaian penuh atau sebahagian sesuatu gadaian jika memorandum penyelesaian gadaian itu telah didaftarkan selama tidak kurang daripada tujuh tahun; atau
+difailkan selama tidak kurang daripada tujuh tahun atau apa-apa dokumen yang mewujudkan atau membuktikan sesuatu gadaian atau penyelesaian penuh atau sebahagian sesuatu gadaian
+
+<!-- marginal: jika -->
+
+memorandum penyelesaian gadaian itu telah didaftarkan selama tidak kurang daripada tujuh tahun; atau
 
 (iii) apa-apa dokumen lain (selain daripada memorandum dan perkara-perkara atau apa-apa dokumen lain yang menyen- tuhnya) yang telah diserahkan, difailkan atau didaftarkan selama tidak kurang daripada lima belas tahun;
 
@@ -1018,9 +996,13 @@ III
 
 ## PEMERBADANAN
 
-Pembemukan
+<!-- marginal: Pembemukan -->
 
-14. (1) Tertakluk kepada Akta ini, sesuatu syarikat syarikat. amanah atau mana-mana orang lain boleh, dengan menurunkan tandatangannya pada suatu memorandum dan mematuhi kehendak-kehendak mengenai pendaftaran, membentuk suatu syarikat luar pesisir bagi apa-apa maksud yang sah.
+14. (1) Tertakluk kepada Akta ini, sesuatu syarikat
+
+<!-- marginal: syarikat. -->
+
+amanah atau mana-mana orang lain boleh, dengan menurunkan tandatangannya pada suatu memorandum dan mematuhi kehendak-kehendak mengenai pendaftaran, membentuk suatu syarikat luar pesisir bagi apa-apa maksud yang sah.
 
 (2) Jika penandatangan sesuatu memorandum adalah suatu perbadanan atau syarikat amanah, memorandum itu boleh ditandatangani oleh perbadanan atau syarikat amanah itu, mengikut mana yang berkenaan, di bawah meterainya atau oleh seseorang yang telah diberikuasa dengan sempurnanya bagi pihaknya.
 
@@ -1028,9 +1010,17 @@ Pembemukan
 
 (3) Tiap-tiap syarikat luar pesisir hendaklah suatu syarikat yang terhad mengikut syer.
 
-pendaftaran
+<!-- marginal: pendaftaran -->
 
-15. (1) Seseorang yang berhasrat hendak mem- dan perbadankan sesuatu syarikat luar pesisir hendaklah pemerbadanan. menyerahkan kepada Pendaftar memorandum dan perkara-perkara syarikat yang dicadangkan itu dan dokumen-dokumen lain yang dikehendaki supaya diserahkan oleh atau di bawah Akta ini, dan Pendaftar, apabila dibayar fee yang ditetapkan hendaklah, tertakluk kepada Akta ini, mendaftarkan syarikat itu dengan mendaftarkan memorandum dan perkara-perkara.
+15. (1) Seseorang yang berhasrat hendak mem-
+
+<!-- marginal: dan -->
+
+perbadankan sesuatu syarikat luar pesisir hendaklah
+
+<!-- marginal: pemerbadanan. -->
+
+menyerahkan kepada Pendaftar memorandum dan perkara-perkara syarikat yang dicadangkan itu dan dokumen-dokumen lain yang dikehendaki supaya diserahkan oleh atau di bawah Akta ini, dan Pendaftar, apabila dibayar fee yang ditetapkan hendaklah, tertakluk kepada Akta ini, mendaftarkan syarikat itu dengan mendaftarkan memorandum dan perkara-perkara.
 
 (2) Pendaftar boleh menghendaki suatu akuan berkanun yang dibuat oleh seseorang pegawai supaya diserahkan dengan menyatakan bahawa kesemua atau mana-mana kehendak Akta ini telah dipatuhi, dan Pendaftar boleh menerima akuan sedemikian sebagai keterangan yang mencukupi bagi pematuhan.
 
@@ -1044,11 +1034,37 @@ pendaftaran
 
 (6) Sesuatu syarikat luar pesisir yang diperbadankan hendaklah membayar apa-apa fee tahunan sebagaimana yang ditetapkan, tidak lewat daripada tiga puluh hari dari setiap ulangtahun tarikh pemerbadanannya.
 
-(7) Tiap-tiap penandatangan memorandum hendaklah disifatkan telah bersetuju menjadi anggota sesuatu syarikat luar pesisir dan, apabila syarikat itu diperbadankan, hendaklah dicatatkan sebagai seorang anggota di dalam daftar anggota-anggotanya berkenaan dengan syer-syer yang dipohon beli untuk atau olehnya dalam memorandum itu, dan semua orang lain yang bersetuju menjadi anggota sesuatu syarikat dan yang namanya dicatatkan di dalam daftar anggota-anggota hendaklah menjadi anggota syarikat itu.
+(7) Tiap-tiap penandatangan memorandum hendaklah disifatkan telah bersetuju menjadi anggota sesuatu syarikat luar pesisir dan, apabila syarikat
 
-Permohonan
+<!-- marginal: itu -->
 
-16. (1) Tertakluk kepada seksyen 7, sesuatu syarikat bagi asing yang diperbadankan di bawah undang-undang mana- pendaftaran syarikat mana negara selain daripada Malaysia, atau mana-mana asing sebagai bidang kuasa dalam negara tersebut, boleh, jika terus wujud dibenarkan demikian oleh undang-undang negara atau di Labuan. bidang kuasa itu, memohon kepada Pendaftar untuk didaftarkan sebagai terus wujud di Labuan seolah-olah ia telah diperbadankan di bawah Akta ini.
+diperbadankan, hendaklah dicatatkan sebagai seorang anggota di dalam daftar anggota-anggotanya berkenaan dengan syer-syer yang dipohon beli untuk atau olehnya dalam memorandum itu, dan semua orang lain yang bersetuju menjadi anggota sesuatu syarikat dan yang namanya dicatatkan di dalam daftar anggota-anggota hendaklah menjadi anggota syarikat itu.
+
+<!-- marginal: Permohonan -->
+
+16. (1) Tertakluk kepada seksyen 7, sesuatu syarikat
+
+<!-- marginal: bagi -->
+
+asing yang diperbadankan di bawah undang-undang mana-
+
+<!-- marginal: pendaftaran -->
+
+<!-- marginal: syarikat -->
+
+mana negara selain daripada Malaysia, atau mana-mana
+
+<!-- marginal: asing sebagai -->
+
+bidang kuasa dalam negara tersebut, boleh, jika
+
+<!-- marginal: terus wujud -->
+
+dibenarkan demikian oleh undang-undang negara atau
+
+<!-- marginal: di Labuan. -->
+
+bidang kuasa itu, memohon kepada Pendaftar untuk didaftarkan sebagai terus wujud di Labuan seolah-olah ia telah diperbadankan di bawah Akta ini.
 
 (2) Apabila permohonan dibuat di bawah subseksyen
 
@@ -1090,15 +1106,35 @@ memorandum persatuannya, hendaklah di- sifatkan sebagai perkara-perkara persatua
 
 dan memorandum dan perkara-perkara yang disifatkan itu hendaklah mengikat syarikat itu dan anggota- anggotanya dengan sewajarnya.
 
-Kelulusan
+<!-- marginal: Kelulusan -->
 
-17. (1) Sesuatu syarikat asing boleh, sebelum memohon terdahulu untuk didaftarkan di bawah seksyen 16, meminta supaya pada prinsipnya. pendaftaran itu diluluskan pada prinsipnya dan apabila permintaan itu dibuat dan dibayar fee yang ditetapkan, Pendaftar boleh, jika dia berpuas hati bahawa syarikat itu layak untuk didaftarkan di bawah seksyen 16, menge- luarkan suatu perakuan mengesahkan kelulusannya bagi syarikat itu didaftarkan demikian tertakluk kepada suatu permohonan di bawah seksyen 16 dibuat dalam tempoh dua belas bulan dari tarikh perakuan itu.
+17. (1) Sesuatu syarikat asing boleh, sebelum memohon
+
+<!-- marginal: terdahulu -->
+
+untuk didaftarkan di bawah seksyen 16, meminta supaya
+
+<!-- marginal: pada -->
+
+<!-- marginal: prinsipnya. -->
+
+pendaftaran itu diluluskan pada prinsipnya dan apabila permintaan itu dibuat dan dibayar fee yang ditetapkan, Pendaftar boleh, jika dia berpuas hati bahawa syarikat itu layak untuk didaftarkan di bawah seksyen 16, menge- luarkan suatu perakuan mengesahkan kelulusannya bagi syarikat itu didaftarkan demikian tertakluk kepada suatu permohonan di bawah seksyen 16 dibuat dalam tempoh dua belas bulan dari tarikh perakuan itu.
 
 (2) Perakuan kelulusan yang diberi oleh Pendaftar di bawah subseksyen (1) tidaklah melepaskan syarikat asing yang dikeluarkan perakuan itu daripada mematuhi peruntukan-peruntukan seksyen 16 dalam permohonan pendaftaran yang berikutnya.
 
-Kehendak-
+<!-- marginal: Kehendak- -->
 
-18. (1) Memorandum tiap-tiap syarikat luar pesisir kehendak hendaklah bercetak dan dibahagikan menjadi perenggan- mengenai memorandum. perenggan bernombor dan bertarikh dan hendaklah menyatakan yang berikut:
+18. (1) Memorandum tiap-tiap syarikat luar pesisir
+
+<!-- marginal: kehendak -->
+
+hendaklah bercetak dan dibahagikan menjadi perenggan-
+
+<!-- marginal: mengenai -->
+
+<!-- marginal: memorandum. -->
+
+perenggan bernombor dan bertarikh dan hendaklah menyatakan yang berikut:
 
 (a) nama syarikat itu;
 
@@ -1154,9 +1190,19 @@ atau, jika syarikat itu telah menerbitkan debentur-debentur bercagarkan gadaian 
 
 (3) Jika perbuatan, pemindahhakan atau pemindah- milikan tak dibenarkan yang hendak ditahan dalam mana- mana presiding di bawah subseksyen (2) (a) sedang dilaksanakan atau dibuat atau hendak dilaksanakan atau dibuat menurut apa-apa kontrak yang syarikat luar pesisir itu menjadi pihak, Mahkamah boleh, jika kesemua pihak dalam kontrak itu adalah pihak-pihak dalam presiding itu dan jika disifatkan adil dan saksama oleh Mahkamah, mengetepikan dan menahan pelaksanaan kontrak itu dan boleh memberikan kepada syarikat itu atau kepada pihak- pihak lain dalam kontrak itu, mengikut kehendak keadaan, pampasan bagi kerugian atau kerosakan yang ditanggung oleh mana-mana daripada mereka yang berbangkit daripada pengetepian dan penahanan pelaksanaan kontrak itu, tetapi keuntungan-keuntungan dijangkakan yang akan terbit daripada pelaksanaan kontrak itu tidak boleh diawardkan oleh Mahkamah sebagai suatu kerugian atau kerosakan yang ditanggung.
 
-Nama-nama
+<!-- marginal: Nama-nama -->
 
-21. (1) Kecuali dengan persetujuan Menteri, sesuatu syarikat syarikat luar pesisir tidak boleh didaftarkan dengan suatu luar pesisir. nama yang, pada pendapat Pendaftar, adalah tak diingini atau adalah nama, atau termasuk nama, daripada jenis yang Pendaftar selainnya enggan menerima bagi pendaftaran.
+21. (1) Kecuali dengan persetujuan Menteri, sesuatu
+
+<!-- marginal: syarikat -->
+
+syarikat luar pesisir tidak boleh didaftarkan dengan suatu
+
+<!-- marginal: luar -->
+
+<!-- marginal: pesisir. -->
+
+nama yang, pada pendapat Pendaftar, adalah tak diingini atau adalah nama, atau termasuk nama, daripada jenis yang Pendaftar selainnya enggan menerima bagi pendaftaran.
 
 <!-- page 36 -->
 
@@ -1168,7 +1214,11 @@ Nama-nama
 
 (c) perkataan "Limited" atau singkatan "Ltd.";
 
-(d) perkataan-perkataan "Public Limited Company" atau singkatan "P.L.C.";
+(d) perkataan-perkataan "Public
+
+<!-- marginal: Limited -->
+
+Company" atau singkatan "P.L.C.";
 
 (e) perkataan-perkataan "Societe Anonyme" atau "Sociedad Anonima" atau singkatan "S.A."; atau
 
@@ -1194,9 +1244,13 @@ luar pesisir itu boleh didaftarkan tanpa melanggar subseksyen (1), dia hendaklah
 
 (7) Perizaban sesuatu nama di bawah seksyen ini berkenaan dengan suatu syarikat luar pesisir yang dicadangkan atau syarikat luar pesisir tidaklah dengan sendirinya memberikan kepada syarikat yang dicadang- kan atau syarikat itu hak untuk didaftarkan dengan nama itu, sama ada pada asalnya atau atas pertukaran nama.
 
-Pertukaran
+<!-- marginal: Pertukaran -->
 
-22. (1) Sesuatu syarikat luar pesisir boleh, melalui nama. ketetapan khas, membuat ketetapan bahawa namanya patut ditukar kepada suatu nama yang dengannya syarikat itu boleh didaftarkan tanpa melanggar seksyen 21 (1).
+22. (1) Sesuatu syarikat luar pesisir boleh, melalui
+
+<!-- marginal: nama. -->
+
+ketetapan khas, membuat ketetapan bahawa namanya patut ditukar kepada suatu nama yang dengannya syarikat itu boleh didaftarkan tanpa melanggar seksyen 21 (1).
 
 (2) Jika Pendaftar meluluskan nama yang syarikat itu telah membuat ketetapan sebagai patut menjadi nama barunya, dia hendaklah, apabila dibayar fee yang ditetapkan, mengeluarkan suatu perakuan pemerbadanan syarikat itu di bawah nama barunya dan apabila dikeluarkan perakuan pemerbadanan itu, pertukaran nama itu hendaklah berkuatkuasa.
 
@@ -1256,7 +1310,23 @@ menambah memorandum atau perkara-perkaranya.
 
 memorandum atau perkara-perakara itu dan hendaklah tertakluk, mengikut cara yang sama, kepada pengubahan melalui ketetapan khas.
 
-25. (1) Sesuatu syarikat luar pesisir hendaklah, apabila Salinan- salinan dikehendaki oleh mana-mana anggota, member! memorandum kepadanya suatu salinan memorandum dan perkara- dan perkara- perkara. perkara (jika ada) apabila anggota itu membayar suatu amaun yang ditentukan oleh pengarah-pengarah sebagai semunasabahnya perlu bagi menanggung kos penyediaan dan pemberian itu.
+25. (1) Sesuatu syarikat luar pesisir hendaklah, apabila
+
+<!-- marginal: Salinan- -->
+
+<!-- marginal: salinan -->
+
+dikehendaki oleh mana-mana anggota, member!
+
+<!-- marginal: memorandum -->
+
+kepadanya suatu salinan memorandum dan perkara-
+
+<!-- marginal: dan perkara- -->
+
+<!-- marginal: perkara. -->
+
+perkara (jika ada) apabila anggota itu membayar suatu amaun yang ditentukan oleh pengarah-pengarah sebagai semunasabahnya perlu bagi menanggung kos penyediaan dan pemberian itu.
 
 (2) Jika suatu perubahan dibuat dalam memorandum atau perkara-perkara sesuatu syarikat luar pesisir, suatu salinan memorandum atau perkara-perkara itu tidaklah boleh dikeluarkan oleh syarikat itu selepas tarikh pengubahan melainkan jika—
 
@@ -1268,9 +1338,17 @@ memorandum atau perkara-perakara itu dan hendaklah tertakluk, mengikut cara yang
 
 Penalti: Satu ribu ringgit.
 
-Transaksi
+<!-- marginal: Transaksi -->
 
-26. (1) Kontrak-kontrak bagi pihak sesuatu syarikat luar dan pesisir boleh dibuat seperti berikut: penubuhan cawangan.
+26. (1) Kontrak-kontrak bagi pihak sesuatu syarikat luar
+
+<!-- marginal: dan -->
+
+pesisir boleh dibuat seperti berikut:
+
+<!-- marginal: penubuhan -->
+
+<!-- marginal: cawangan. -->
 
 (a) suatu kontrak yang, jika dibuat di antara orang- orang persendirian, adalah dikehendaki oleh undang.-undang dibuat secara bertulis di .bawah meterai, boleh dibuat bagi pihak syarikat itu secara bertulis di bawah meterai biasa syarikat itu;
 
@@ -1302,7 +1380,33 @@ menubuhkan suatu cawangan di mana-mana bahagian Malaysia di luar Labuan.
 
 (8) Suratcara-suratcara yang dibuat atau disahkan di bawah atau dengan menggunakan mana-mana meterai cawangan sesuatu syarikat luar pesisir hendaklah sama berkesannya seolah-olah meterai biasa syarikat itu telah dicapkan padanya; dan tarikh bila dan tempat di mana meterai cawangan itu dicapkan pada mana-mana suratcara hendaklah ditunjukkan pada suratcara itu.
 
-Larangan 27. (1) Tertakluk kepada subseksyen (2), jika pada bila- terhadap bila masa sesuatu syarikat luar pesisir tiada anggota dan penjalanan perniagaan menjalankan perniagaan selama lebih daripada enam apabila bulan semasa ia tiada anggota itu, tiap-tiap pegawai, syarikat luar pesisir tiada pengkhidmat, pekerja atau ejen syarikat itu pada tempoh anggota. yang ia menjalankan perniagaan selepas enam bulan itu
+<!-- marginal: Larangan -->
+
+27. (1) Tertakluk kepada subseksyen (2), jika pada bila-
+
+<!-- marginal: terhadap -->
+
+bila masa sesuatu syarikat luar pesisir tiada anggota dan
+
+<!-- marginal: penjalanan -->
+
+<!-- marginal: perniagaan -->
+
+menjalankan perniagaan selama lebih daripada enam
+
+<!-- marginal: apabila -->
+
+bulan semasa ia tiada anggota itu, tiap-tiap pegawai,
+
+<!-- marginal: syarikat luar -->
+
+<!-- marginal: pesisir tiada -->
+
+pengkhidmat, pekerja atau ejen syarikat itu pada tempoh
+
+<!-- marginal: anggota. -->
+
+yang ia menjalankan perniagaan selepas enam bulan itu
 
 <!-- page 42 -->
 
@@ -1356,9 +1460,17 @@ melainkan mengikut Bahagian ini.
 
 dan jumlah bilangan orang yang disampaikan pelawaan atau tawaran itu tidak melebihi dua puluh.
 
-Pelawaan
+<!-- marginal: Pelawaan -->
 
-29. (1) Mana-mana syarikat luar pesisir atau syarikat kepada luar pesisir asing, atau mana-mana pegawai, pengarah, awam. ejen atau mana-mana orang yang lain bagi pihak syarikat itu yang—
+29. (1) Mana-mana syarikat luar pesisir atau syarikat
+
+<!-- marginal: kepada -->
+
+luar pesisir asing, atau mana-mana pegawai, pengarah,
+
+<!-- marginal: awam. -->
+
+ejen atau mana-mana orang yang lain bagi pihak syarikat itu yang—
 
 (a) mengeluarkan suatu pelawaan atau membahagi- bahagikan borang permohonan kepada awam atau kepada orang raniai untuk memohon beli syer-syer atau debentur-debentur dalam syarikat itu; atau
 
@@ -1414,11 +1526,49 @@ Penalti: Penjara selama lima tahun atau tiga puluh ribu ringgit atau kedua-duany
 
 <!-- page 45 -->
 
-Pelawaan
+<!-- marginal: Pelawaan -->
 
-31. (1) Suatu pelawaan kepada awam untuk men- kepada depositkan wang dengan atau memberi pinjaman wang awam untuk memberi kepada sesuatu syarikat luar pesisir atau syarikat luar pinjaman pesisir asing tidak boleh dikeluarkan, diedarkan atau wang kepada atau men- dibahagi-bahagikan oleh syarikat itu atau oleh mana- depositkan mana orang lain melainkan jika-— wang dengan suatu syarikat
+31. (1) Suatu pelawaan kepada awam untuk men-
 
-(a) suatu prospektus yang berhubungan dengan luar pesisir atau syarikat pelawaan itu telah didaftarkan oleh Pendaftar; luar pesisir ising.
+<!-- marginal: kepada -->
+
+depositkan wang dengan atau memberi pinjaman wang
+
+<!-- marginal: awam untuk -->
+
+<!-- marginal: memberi -->
+
+kepada sesuatu syarikat luar pesisir atau syarikat luar
+
+<!-- marginal: pinjaman -->
+
+pesisir asing tidak boleh dikeluarkan, diedarkan atau
+
+<!-- marginal: wang kepada -->
+
+<!-- marginal: atau men- -->
+
+dibahagi-bahagikan oleh syarikat itu atau oleh mana-
+
+<!-- marginal: depositkan -->
+
+mana orang lain melainkan jika-—
+
+<!-- marginal: wang dengan -->
+
+<!-- marginal: suatu syarikat -->
+
+(a) suatu prospektus yang berhubungan dengan
+
+<!-- marginal: luar pesisir -->
+
+<!-- marginal: atau syarikat -->
+
+pelawaan itu telah didaftarkan oleh Pendaftar;
+
+<!-- marginal: luar pesisir -->
+
+<!-- marginal: ising. -->
 
 (b) prospektus itu mengandungi suatu akujanji oleh syarikat itu bahawa ia akan, dalam masa dua bulan selepas penerimaan apa-apa wang sebagai suatu deposit atau pinjaman daripada mana- mana orang sebagai sambutan kepada pelawaan itu, mengeluarkan kepada orang itu suatu dokumen yang mengakuterima, membuktikan atau merupakan suatu pengakuan keterhutangan syarikat itu berkenaan dengan deposit atau pinjaman itu; dan
 
@@ -1460,11 +1610,41 @@ Penalti: Penjara selama lima tahun atau tiga puluh ribu ringgit atau kedua-duany
 
 yang diterbitkan oleh syarikat itu atas atau tertakluk kepada terma-terma dan syarat-syarat yang terkandung dalam suatu suratikatan amanah yang disebutkan atau dikenalpasti dalam perakuan itu, hendaklah disifatkan sebagai suatu dokumen yang membuktikan keterhutangan syarikat itu berkenaan dengan deposit atau pinjaman itu.
 
-Kelulusan
+<!-- marginal: Kelulusan -->
 
-32. (1) Sehingga peraturan-peraturan berkenaan dengan Pendaftar, pengeluaran prospektus-prospektus dibuat, tiada atau pematuhan prospektus boleh dikeluarkan melainkan jika ia telah peraturan- diluluskan tentang bentuk dan kandungannya oleh peraturan, Pendaftar. berkenaan dengan pengeluaran (2) Apabila peraturan-peraturan yang berhubungan prospektus. dengan pengeluaran prospektus dibuat, sesuatu prospektus hendaklah hanya dikeluarkan mengikut peruntukan peraturan-peraturan itu.
+32. (1) Sehingga peraturan-peraturan berkenaan dengan
 
-Iklan.
+<!-- marginal: Pendaftar, -->
+
+pengeluaran prospektus-prospektus dibuat, tiada
+
+<!-- marginal: atau -->
+
+<!-- marginal: pematuhan -->
+
+prospektus boleh dikeluarkan melainkan jika ia telah
+
+<!-- marginal: peraturan- -->
+
+diluluskan tentang bentuk dan kandungannya oleh
+
+<!-- marginal: peraturan, -->
+
+Pendaftar.
+
+<!-- marginal: berkenaan -->
+
+<!-- marginal: dengan -->
+
+<!-- marginal: pengeluaran -->
+
+(2) Apabila peraturan-peraturan yang berhubungan
+
+<!-- marginal: prospektus. -->
+
+dengan pengeluaran prospektus dibuat, sesuatu prospektus hendaklah hanya dikeluarkan mengikut peruntukan peraturan-peraturan itu.
+
+<!-- marginal: Iklan. -->
 
 33. (1) Tiada iklan yang menawarkan atau meminta perhatian terhadap suatu tawaran atau tawaran yang dicadangkan bagi, syer-syer dalam atau debentur- debentur bagi sesuatu syarikat luar pesisir atau syarikat luar pesisir asing atau syarikat luar pesisir yang dicadangkan kepada awam untuk dipohon beli atau dibeli boleh disiarkan di Labuan atau di tempat-tempat lain melainkan jika ia telah diluluskan oleh Pendaftar; dan tiap-tiap iklan itu mesti mengandungi makluman bahawa pemastautin-pemastautin Malaysia adalah tidak layak menerima tawaran itu.
 
@@ -1512,9 +1692,13 @@ sebagaimana yang dizahirkan dalam prospektus melainkan jika syarikat itu telah m
 
 <!-- page 49 -->
 
-Pendaftaran
+<!-- marginal: Pendaftaran -->
 
-35. (1) Sesuatu prospektus tidak boleh dikeluarkan, prospektus. diedarkan atau dibahagi-bahagikan oleh mana-mana orang melainkan jika suatu salinan prospektus itu telah terlebih dahulu didaftarkan oleh Pendaftar.
+35. (1) Sesuatu prospektus tidak boleh dikeluarkan,
+
+<!-- marginal: prospektus. -->
+
+diedarkan atau dibahagi-bahagikan oleh mana-mana orang melainkan jika suatu salinan prospektus itu telah terlebih dahulu didaftarkan oleh Pendaftar.
 
 (2) Pendaftar tidak boleh mendaftarkan suatu salinan mana-mana prospektus jika ia mengandungi apa-apa pernyataan atau perkara yang pada pendapatnya adalah mengelirukan dari segi bentuk dan konteks ianya dimasukkan dan melainkan jika—
 
@@ -1554,7 +1738,11 @@ atau debentur syarikat itu dengan tujuan menawarkan
 
 <!-- marginal: prospektus. -->
 
-kesemua atau mana-mana daripadanya untuk jualan kepada awam, tawaran kepada awam itu hendaklah dibuat melalui suatu syarikat amanah dan apa-apa dokumen yang melaluinya tawaran untuk jualan kepada awam dibuat hendaklah bagi semua maksud disifatkan sebagai suatu prospektus yang dikeluarkan oleh syarikat itu, dan semua undang-undang bertulis dan rukun undang-undang mengenai kandungan-kandungan prospektus dan mengenai liabiliti berkenaan dengan iklan-iklan dan pernyataan dan ketakzahiran dalam prospektus- prospektus, atau selainnya yang berhubungan dengan prospektus-prospektus, hendaklah terpakai dan mem- punyai kuatkuasa sewajarnya seolah-olah syer-syer atau debentur-debentur itu telah ditawarkan kepada awam dan seolah-olah .orang-orang yang menerima tawaran berkenaan dengan apa-apa syer atau debentur adalah pemohon-pemohon belinya tetapi tanpa menjejaskan liabiliti (jika ada) orang-orang yang membuat tawaran itu, berkenaan dengan pernyataan atau ketakzahiran dalam dokumen itu atau selainnya.
+kesemua atau mana-mana daripadanya untuk jualan kepada awam, tawaran kepada awam itu hendaklah dibuat melalui suatu syarikat amanah dan apa-apa dokumen yang melaluinya tawaran untuk jualan kepada awam dibuat hendaklah bagi semua maksud disifatkan sebagai suatu prospektus yang dikeluarkan oleh syarikat itu, dan semua undang-undang bertulis dan rukun undang-undang mengenai kandungan-kandungan prospektus dan mengenai liabiliti berkenaan dengan iklan-iklan dan pernyataan dan ketakzahiran dalam prospektus- prospektus, atau selainnya yang berhubungan dengan prospektus-prospektus, hendaklah terpakai dan mem- punyai kuatkuasa sewajarnya seolah-olah syer-syer atau debentur-debentur itu telah ditawarkan kepada awam dan seolah-olah .orang-orang yang menerima
+
+<!-- marginal: tawaran -->
+
+berkenaan dengan apa-apa syer atau debentur adalah pemohon-pemohon belinya tetapi tanpa menjejaskan liabiliti (jika ada) orang-orang yang membuat tawaran itu, berkenaan dengan pernyataan atau ketakzahiran dalam dokumen itu atau selainnya.
 
 (2) Bagi maksud-maksud Akta ini, melainkan jika sebaliknya dibuktikan maka, hendaklah menjadi keterangan bahawa suatu pengumpukan, atau suatu perjanjian untuk mengumpukkan, syer-syer atau debentur-debentur telah dibuat oleh suatu syarikat luar pesisir atau syarikat luar pesisir asing dengan tujuan menawarkan syer-syer atau debentur-debentur untuk jualan kepada awam jika ditunjukkan—
 
@@ -1702,9 +1890,27 @@ pengarah-pengarah syarikat itu, kecuali mana-mana pengarah yang dengan tiada pen
 
 ## RANG UNDANG-UNDANG
 
-Liabiliti
+<!-- marginal: Liabiliti -->
 
-39. (1) Jika dalam mana-mana prospektus, atau dalam jenayah mana-mana iklan daripada jenis yang tersebut dalam kerana pernyataan seksyen 33 (1), terdapat suatu pernyataan yang tidak benar silap dalam atau ketakzahiran sengaja, mana-mana orang yang prospektus. membenarkan atau menyebabkan pengeluaran prospektus atau iklan itu adalah melakukan suatu kesalahan terhadap Akta ini melainkan jika dia membuktikan bahawa pernyataan atau ketakzahiran itu adalah tidak material atau bahawa dia mempunyai alasan yang munasabah untuk mempercayai dan telah mernpercayai, sehingga ke masa pengeluaran prospektus itu, bahawa pernyataan itu adalah benar atau ketakzahiran itu adalah tak material.
+39. (1) Jika dalam mana-mana prospektus, atau dalam
+
+<!-- marginal: jenayah -->
+
+mana-mana iklan daripada jenis yang tersebut dalam
+
+<!-- marginal: kerana -->
+
+<!-- marginal: pernyataan -->
+
+seksyen 33 (1), terdapat suatu pernyataan yang tidak benar
+
+<!-- marginal: silap dalam -->
+
+atau ketakzahiran sengaja, mana-mana orang yang
+
+<!-- marginal: prospektus. -->
+
+membenarkan atau menyebabkan pengeluaran prospektus atau iklan itu adalah melakukan suatu kesalahan terhadap Akta ini melainkan jika dia membuktikan bahawa pernyataan atau ketakzahiran itu adalah tidak material atau bahawa dia mempunyai alasan yang munasabah untuk mempercayai dan telah mernpercayai, sehingga ke masa pengeluaran prospektus itu, bahawa pernyataan itu adalah benar atau ketakzahiran itu adalah tak material.
 
 Penalti: Penjara selama lima tahun atau tiga puluh ribu ringgit atau kedua-duanya.
 
@@ -1714,9 +1920,27 @@ Penalti: Penjara selama lima tahun atau tiga puluh ribu ringgit atau kedua-duany
 
 ## SEKATAN-SEKATAN KE ATAS PENGUMPUKAN
 
-Syarikat
+<!-- marginal: Syarikat -->
 
-40. (1) Tiada pengumpukan boleh dibuat mengenai amanah mana-mana syer sesuatu syarikat luar pesisir yang sebagai ejen dalam ditawarkan kepada awam melainkan jika syer-syer itu tawaran telah ditawarkan kepada awam melalui sesuatu syarikat awam. amanah.
+40. (1) Tiada pengumpukan boleh dibuat mengenai
+
+<!-- marginal: amanah -->
+
+mana-mana syer sesuatu syarikat luar pesisir yang
+
+<!-- marginal: sebagai -->
+
+<!-- marginal: ejen dalam -->
+
+ditawarkan kepada awam melainkan jika syer-syer itu
+
+<!-- marginal: tawaran -->
+
+telah ditawarkan kepada awam melalui sesuatu syarikat
+
+<!-- marginal: awam. -->
+
+amanah.
 
 (2) Sesuatu syarikat amanah hendaklah menjadi ejen kepada syarikat luar pesisir yang menawarkan syer-syer kepada awam melalui syarikat amanah itu untuk menerima permohonan-permohonan bagi pengumpukan syer-syer dan hendaklah diperihalkan seperti itu dalam prospektus.
 
@@ -1772,9 +1996,33 @@ tetapi jika suatu cek bagi jumlah wang yang kena dibayar itu telah diterima oleh
 
 Penalti: Penjara selarna tiga tahun atau sepuluh ribu ringgit atau kedua-duanya.
 
-Wang
+<!-- marginal: Wang -->
 
-42. (1) Tertakluk kepada seksyen 40 (3) dan (4) dan permohonan seksyen 41 (1), semua wang permohonan dan wang lain hendaklah dipegang yang dibayar sebelum pengumpukan oleh mana-mana . atas amanah pemohon bagi tawaran syer-syer atau debentur-debentur sehingga pengumpukan kepada awam oleh sesuatu syarikat luar pesisir, hendaklah, dibuat. sehingga pengumpukan syer-syer atau debentur-debentur itu dibuat, dipegang atas amanah bagi pemohon itu dan wang itu hendaklah dibayar ke dalam dan disimpan dalam suatu akaun amanah yang berasingan, sementara menunggu pengumpukan, di suatu bank perdagangan yang diluluskan oleh Pendaftar secara bertulis.
+42. (1) Tertakluk kepada seksyen 40 (3) dan (4) dan
+
+<!-- marginal: permohonan -->
+
+seksyen 41 (1), semua wang permohonan dan wang lain
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: dipegang -->
+
+yang dibayar sebelum pengumpukan oleh mana-mana .
+
+<!-- marginal: atas amanah -->
+
+pemohon bagi tawaran syer-syer atau debentur-debentur
+
+<!-- marginal: sehingga -->
+
+<!-- marginal: pengumpukan -->
+
+kepada awam oleh sesuatu syarikat luar pesisir, hendaklah,
+
+<!-- marginal: dibuat. -->
+
+sehingga pengumpukan syer-syer atau debentur-debentur itu dibuat, dipegang atas amanah bagi pemohon itu dan wang itu hendaklah dibayar ke dalam dan disimpan dalam suatu akaun amanah yang berasingan, sementara menunggu pengumpukan, di suatu bank perdagangan yang diluluskan oleh Pendaftar secara bertulis.
 
 (2) Jika berlaku keingkaran pada mematuhi seksyen ini tiap-tiap pegawai yang ingkar yang dengan disedarinya dan dengan sengaja membenarkan atau mengizinkan keingkaran itu adalah melakukan suatu kesalahan terhadap Akta ini.
 
@@ -1826,13 +2074,27 @@ Penalti: Satu ribu ringgit. Penalti ingkar.
 
 ## RANG UNDANG-UNDANG
 
-(c) membayar dividen-dividen mengikut kadar amaun yang dibayar atas setiap syer jika suatu amaun yang lebih besar dibayar atas beberapa syer daripada syer-syer yang lain. Liabiliti
+(c) membayar dividen-dividen mengikut kadar amaun yang dibayar atas setiap syer jika suatu amaun yang lebih besar dibayar atas beberapa syer daripada syer-syer yang lain.
 
-45. Sesuatu syarikat luar pesisir boleh, melalui ketetapan rizab. khas, menentukan bahawa mana-mana bahagian modal syer tak dipanggil bagi syarikat itu tidak boleh dipanggil kecuali sekiranya syarikat itu digulung, tetapi tiada ketetapan sedemikian boleh menjejaskan hak-hak yang diperolehi oleh mana-mana orang sebelum ketetapan itu diluluskan.
+<!-- marginal: Liabiliti -->
 
-Akaun
+45. Sesuatu syarikat luar pesisir boleh, melalui ketetapan
 
-46. (1) Jika sesuatu syarikat luar pesisir yang tidak premium dilesenkan menurut peruntukan-peruntukan Akta Bank syer. Luar Pesisir 1990 menerbitkan syer dengan harga premium, sama ada bagi wang tunai atau selainnya, suatu jumlah wang yang sama banyak dengan amaun atau nilai agregat bagi premium atas syer-syer tersebut hendaklah dipindahkan ke dalam suatu akaun yang dinamakan "akaun premium syer", dan peruntukan-peruntukan Akta ini yang berhubungan dengan pengurangan modal syer sesuatu syarikat luar pesisir hendaklah, kecuali sebagaimana yang diperuntukkan dalam seksyen ini, terpakai seolah-olah akaun premium syer itu adalah modal syer berbayar syarikat itu.
+<!-- marginal: rizab. -->
+
+khas, menentukan bahawa mana-mana bahagian modal syer tak dipanggil bagi syarikat itu tidak boleh dipanggil kecuali sekiranya syarikat itu digulung, tetapi tiada ketetapan sedemikian boleh menjejaskan hak-hak yang diperolehi oleh mana-mana orang sebelum ketetapan itu diluluskan.
+
+<!-- marginal: Akaun -->
+
+46. (1) Jika sesuatu syarikat luar pesisir yang tidak
+
+<!-- marginal: premium -->
+
+dilesenkan menurut peruntukan-peruntukan Akta Bank
+
+<!-- marginal: syer. -->
+
+Luar Pesisir 1990 menerbitkan syer dengan harga premium, sama ada bagi wang tunai atau selainnya, suatu jumlah wang yang sama banyak dengan amaun atau nilai agregat bagi premium atas syer-syer tersebut hendaklah dipindahkan ke dalam suatu akaun yang dinamakan "akaun premium syer", dan peruntukan-peruntukan Akta ini yang berhubungan dengan pengurangan modal syer sesuatu syarikat luar pesisir hendaklah, kecuali sebagaimana yang diperuntukkan dalam seksyen ini, terpakai seolah-olah akaun premium syer itu adalah modal syer berbayar syarikat itu.
 
 (2) Jika aset-aset diperolehi melalui penerbitan syer- syer sesuatu syarikat luar pesisir dan tiada balasan direkodkan, aset-aset yang diperolehi demikian hendaklah dinilai, dan jika nilai aset-aset itu melebihi nilai tara syer- syer tersebut, perbezaan di antara nilai tara syer itu dengan nilai aset-aset yang diperolehi ,demikian hendaklah dipindahkan ke dalam akaun premium syer.
 
@@ -1852,7 +2114,11 @@ Akaun
 
 (a) akujanji yang menjadi balasan itu telah dilaksanakan; atau
 
-(b) aset yang menjadi balasan itu telah dipindahkan kepada syarikat; dan aset-aset hendaklah dianggap dipindahkan kepada sesuatu syarikat— (i) dalam hal barang-barang, apabila pemunyaan atau hak kepunyaan barang- barang itu berpindah kepada syarikat itu atau apabila ia dihantarserah kepadanya; (ii) dalam hal suratcara boleh niaga, apabila syarikat itu menjadi berhak untuk menguatkuasakan segala hak yang termaktub di dalamnya atas namanya sendiri tanpa persetujuan mana-mana orang lain; dan (iii) dalam mana-mana hal lain, apabila pemunyaan atau hak yang kurang yang dipersetujui untuk diletakhakkan kepada syarikat itu telah diletakhakkan dengan sahnya kepada syarikat itu.
+(b) aset yang menjadi balasan itu telah dipindahkan kepada syarikat; dan aset-aset hendaklah dianggap dipindahkan kepada
+
+<!-- marginal: sesuatu -->
+
+syarikat— (i) dalam hal barang-barang, apabila pemunyaan atau hak kepunyaan barang- barang itu berpindah kepada syarikat itu atau apabila ia dihantarserah kepadanya; (ii) dalam hal suratcara boleh niaga, apabila syarikat itu menjadi berhak untuk menguatkuasakan segala hak yang termaktub di dalamnya atas namanya sendiri tanpa persetujuan mana-mana orang lain; dan (iii) dalam mana-mana hal lain, apabila pemunyaan atau hak yang kurang yang dipersetujui untuk diletakhakkan kepada syarikat itu telah diletakhakkan dengan sahnya kepada syarikat itu.
 
 <!-- marginal: Kuasa -->
 
@@ -1876,9 +2142,27 @@ yang dinyatakan dalam memorandumnya, yang boleh dibahagikan kepada satu kelas at
 
 (2) Perkara-perkara boleh membataskan atau menidakkan hak-hak pengundian, atau memperuntukkan hak-hak pengundian khas, bagi syer-syer daripada apa- apa kelas atau syer-syer dalam apa-apa kelas setakat yang tidak tak konsisten dengan peruntukan-peruntukan Akta ini atau peraturan-peraturan.
 
-Syarikat
+<!-- marginal: Syarikat -->
 
-48. (1) Sesuatu syarikat luar pesisir boleh memberi luar pesisir bantuan kewangan, sama ada secara langsung atau tak mengurus- niagakan langsung, bagi maksud atau berkaitan dengan pembelian syer-syernya syer-syernya sendiri atau syer mana-mana subsidiarinya sendiri, dll atau syarikat pemegang—
+48. (1) Sesuatu syarikat luar pesisir boleh memberi
+
+<!-- marginal: luar pesisir -->
+
+bantuan kewangan, sama ada secara langsung atau tak
+
+<!-- marginal: mengurus- -->
+
+<!-- marginal: niagakan -->
+
+langsung, bagi maksud atau berkaitan dengan pembelian
+
+<!-- marginal: syer-syernya -->
+
+syer-syernya sendiri atau syer mana-mana subsidiarinya
+
+<!-- marginal: sendiri, dll -->
+
+atau syarikat pemegang—
 
 (a) dalam penjalanan biasa perniagaannya, jika pemberian pinjaman wang adalah sebahagian daripada perniagaan biasa syarikat luar pesisir itu;
 
@@ -1936,9 +2220,21 @@ semula, selain daripada syer boleh tebus yang telah ditebus atau dibeli, dan dal
 
 Pendaftar dalam masa tiga puluh hari dari tarikh pengkenselan itu.
 
-Menerbitkan
+<!-- marginal: Menerbitkan -->
 
-50. (1) Tertakluk kepada seksyen ini, sesuatu syarikat syer-syer . dengan luar pesisir boleh menerbitkan dengan diskaun syer-syer diskaun. syarikat itu daripada kelas yang telah pun diterbitkan.
+50. (1) Tertakluk kepada seksyen ini, sesuatu syarikat
+
+<!-- marginal: syer-syer -->
+
+.
+
+<!-- marginal: dengan -->
+
+luar pesisir boleh menerbitkan dengan diskaun syer-syer
+
+<!-- marginal: diskaun. -->
+
+syarikat itu daripada kelas yang telah pun diterbitkan.
 
 (2) Tiada syer boleh diterbitkan dengan diskaun tanpa terlebih dahulu mendapatkan kelulusan bertulis Pendaftar.
 
@@ -1950,9 +2246,13 @@ Menerbitkan
 
 (6) Jika sesuatu permohonan sedemikian dibuat, Pendaftar boleh, jika, memandangkan kepada hal keadaan kes itu dan apa-apa bantahan, difikirkannya patut berbuat demikian, meluluskan penerbitan itu atas apa-apa terma dan syarat yang difikirkannya patut.
 
-Pengubahan
+<!-- marginal: Pengubahan -->
 
-51. (1) Sesuatu syarikat luar pesisir boleh, melalui modal syer. ketetapan khas, mengubah syarat-syarat memorandum
+51. (1) Sesuatu syarikat luar pesisir boleh, melalui
+
+<!-- marginal: modal syer. -->
+
+ketetapan khas, mengubah syarat-syarat memorandum
 
 <!-- page 66 -->
 
@@ -1982,7 +2282,23 @@ dan perkara-perkaranya mengikut mana-mana satu atau lebih daripada cara-cara yan
 
 Penalti: Satu ribu ringgit. Penalti ingkar.
 
-Pengesahan 52. Jika sesuatu syarikat luar pesisir telah berupa syer-syer yang menerbitkan atau mengumpukkan syer-syer, dan diterbitkan dengan tak penerbitan atau pengumpukan syer-syer itu adalah tak sepatutnya. sah disebabkan oleh mana-mana peruntukan Akta ini atau oleh memorandum atau perkara-perkara syarikat itu atau selainnya, atau terma-terma penerbitan
+<!-- marginal: Pengesahan -->
+
+52. Jika sesuatu syarikat luar pesisir telah berupa
+
+<!-- marginal: syer-syer yang -->
+
+menerbitkan atau mengumpukkan syer-syer, dan
+
+<!-- marginal: diterbitkan -->
+
+<!-- marginal: dengan tak -->
+
+penerbitan atau pengumpukan syer-syer itu adalah tak
+
+<!-- marginal: sepatutnya. -->
+
+sah disebabkan oleh mana-mana peruntukan Akta ini atau oleh memorandum atau perkara-perkara syarikat itu atau selainnya, atau terma-terma penerbitan
 
 <!-- marginal: atau -->
 
@@ -1992,9 +2308,19 @@ pengumpukan itu adalah tak konsisten dengan atau tak dibenarkan oleh mana-mana p
 
 pengumpukannya, atau kedua-duanya, tertakluk kepada apa-apa syarat, jika ada, yang dikenakannya, dan apabila perintah sedemikian dibuat dan suatu salinan pejabat perintah itu diserahkan oleh syarikat itu atau oleh pemegang, pemegang gadai-janji atau pemiutang tersebut kepada Pendaftar, syer-syer itu hendaklah disifatkan telah diterbitkan atau diumpukkan secara sah atas terma-terma penerbitan atau pengumpukannya sebagaimana yang diubahsuai oleh syarat-syarat, jika ada, yang dikenakan oleh Mahkamah.
 
-Ketetapan
+<!-- marginal: Ketetapan -->
 
-53. (1) Tertakluk kepada pengesahan Mahkamah, khas bagi sesuatu syarikat luar pesisir boleh, jika dibenarkan pengurangan modal syer. demikian oleh perkara-perkaranya, melalui ketetapan khas mengurangkan modal syernya mengikut apa-apa cara dan khususnya, tanpa menghadkan keluasan makna yang disebut di atas, boleh—
+53. (1) Tertakluk kepada pengesahan Mahkamah,
+
+<!-- marginal: khas bagi -->
+
+sesuatu syarikat luar pesisir boleh, jika dibenarkan
+
+<!-- marginal: pengurangan -->
+
+<!-- marginal: modal syer. -->
+
+demikian oleh perkara-perkaranya, melalui ketetapan khas mengurangkan modal syernya mengikut apa-apa cara dan khususnya, tanpa menghadkan keluasan makna yang disebut di atas, boleh—
 
 (a) menghapuskan atau mengurangkan liabiliti ke atas mana-mana syernya berkenaan dengan modal syer yang tak berbayar;
 
@@ -2030,23 +2356,31 @@ dijelaskan atau belum diputuskan tidak bersetuju dengan pengurangan itu, Mahkama
 
 (4) Mahkamah, jika berpuas hati mengenai tiap-tiap pemiutang yang berhak membantah di bawah subseksyen
 
-(2), bahawa sama ada persetujuannya terhadap pengurangan itu telah diperolehi, atau hutang atau tuntutannya telah dijelaskan atau telah diputuskan atau telah dijamin, boleh membuat suatu perintah yang mengesahkan pengurangan itu atas apa-apa terma dan syarat yang difikirkannya patut, dan boleh menghendaki syarikat luar pesisir itu menyiarkan sebagaimana yang diarahkan oleh Mahkamah sebab-sebab bagi pengurangan itu atau apa-apa maklumat lain yang difikirkan suaimanfaat oleh Mahkamah, dan, jika Mahkamah memikirkan patut, sebab-sebab yang membawa kepada pengurangan itu.
+(2), bahawa sama ada persetujuannya
+
+<!-- marginal: terhadap -->
+
+pengurangan itu telah diperolehi, atau hutang atau tuntutannya telah dijelaskan atau telah diputuskan atau telah dijamin, boleh membuat suatu perintah yang mengesahkan pengurangan itu atas apa-apa terma dan syarat yang difikirkannya patut, dan boleh menghendaki syarikat luar pesisir itu menyiarkan sebagaimana yang diarahkan oleh Mahkamah sebab-sebab bagi pengurangan itu atau apa-apa maklumat lain yang difikirkan suaimanfaat oleh Mahkamah, dan, jika Mahkamah memikirkan patut, sebab-sebab yang membawa kepada pengurangan itu.
 
 <!-- page 70 -->
 
-(5) Sesuatu perintah yang dibuat di bawah subseksyen (4) hendaklah menunjukkan amaun modal syer syarikat luar pesisir itu sebagaimana yang diubah oleh perintah itu, bilangan syer yang syer-syer itu hendak dibahagi- bahagikan dan amaun setiap syer dan amaun, jika ada, pada tarikh perintah itu, yang disifatkan berbayar atas setiap syer.
+(5) Sesuatu perintah yang dibuat di bawah subseksyen
+
+(4) hendaklah menunjukkan amaun modal syer syarikat luar pesisir itu sebagaimana yang diubah oleh perintah itu, bilangan syer yang syer-syer itu hendak dibahagi- bahagikan dan amaun setiap syer dan amaun, jika ada, pada tarikh perintah itu, yang disifatkan berbayar atas setiap syer.
 
 (6) Apabila salinan pejabat perintah itu diserahkan kepada Pendaftar, ketetapan bagi pengurangan modal syer sebagaimana yang disahkan oleh perintah yang diserahkan demikian hendaklah berkuatkuasa.
 
 (7) Perakuan Pendaftar hendaklah menjadi keterangan konklusif bahawa segala kehendak Akta ini mengenai pengurangan modal syer telah dipatuhi dan bahawa modal syer sesuatu syarikat luar pesisir adalah sebagaimana yang dinyatakan dalam perintah itu.
 
-(8) Apabila salinan perintah itu diserahkan, butir-butir yang ditunjukkan dalam perintah itu menurut subseksyen (5) hendaklah disifatkan menggantikan butir-butir yang bersamaan dalam memorandum, dan penggantian sedemikian dan apa-apa penambahan yang diperintahkan oleh Mahkamah supaya dibuat pada nama syarikat luar pesisir itu hendaklah (dalam hal apa-apa penambahan kepada nama, selama tempoh yang dinyatakan dalam perintah Mahkamah itu) disifatkan sebagai pengubahan memorandum bagi maksud-maksud Akta ini.
+(8) Apabila salinan perintah itu diserahkan, butir-butir yang ditunjukkan dalam perintah itu menurut subseksyen
+
+(5) hendaklah disifatkan menggantikan butir-butir yang bersamaan dalam memorandum, dan penggantian sedemikian dan apa-apa penambahan yang diperintahkan oleh Mahkamah supaya dibuat pada nama syarikat luar pesisir itu hendaklah (dalam hal apa-apa penambahan kepada nama, selama tempoh yang dinyatakan dalam perintah Mahkamah itu) disifatkan sebagai pengubahan memorandum bagi maksud-maksud Akta ini.
 
 (9) Seseorang anggota, yang dahulu atau yang ada sekarang, tidaklah bertanggungan berkenaan dengan mana-mana syer terhadap apa-apa panggilan atau caruman yang amaunnya melebihi perbezaan di antara amaun syer yang ditetapkan oleh perintah itu dengan amaun yang dibayar, atau amaun yang dikurangkan yang disifatkan telah dibayar atas syer itu, mengikut mana-mana yang berkenaan, tetapi jika mana-mana pemiutang yang berhak membantah pengurangan itu, disebabkan kejahilannya tentang prosiding bagi pengurangan itu, atau tentang jenis dan kesan prosiding itu terhadap tuntutannya, tidak dica- tatkan di senarai pemiutang-pemiutang, dan selepas pengurangan itu syarikat luar pesisir itu tidak dapat, mengikut pengertian peruntukan-peruntukan Akta ini
 
 <!-- page 71 -->
 
-70
+<!-- marginal: 70 -->
 
 ## RANG UNDANG-UNDANG
 
@@ -2056,7 +2390,9 @@ mengenai penggulungan oleh Mahkamah, membayar amaun hutang atau tuntutannya—
 
 (b) jika syarikat luar pesisir itu digulung, Mahkamah, atas permohonan mana-mana pemiutang itu dan apabila terbukti kejahilannya mengenai presiding bagi pengurangan atau mengenai jenis dan kesan prosiding itu terhadap tuntutannya, boleh menetapkan suatu senarai orang yang bertanggungan menyumbang, dan membuat serta, menguatkuasakan panggilan- panggilan dan perintah-perintah ke atas pencarum yang ditetapkan di senarai itu, seolah- olah mereka adalah pencarum biasa dalam sesuatu penggulungan,
 
-tetapi tiada apa-apa jua dalam subseksyen ini boleh menyentuh hak pencarum-pencarum itu sesama mereka sendiri.
+tetapi tiada apa-apa jua dalam subseksyen ini boleh menyentuh hak pencarum-pencarum itu sesama mereka
+
+<!-- marginal: sendiri. -->
 
 (10) Mana-mana pegawai syarikat luar pesisir yang—
 
@@ -2196,9 +2532,27 @@ syarikat itu, dan jika debentur itu diterbitkan oleh cawangan sesuatu syarikat, 
 
 (b) menetapkan terma-terma dan syarat-syarat atau kejadian atau kejadian-kejadian atas mana penukaran hendak atau boleh dilakukan.
 
-Syarikat
+<!-- marginal: Syarikat -->
 
-58. (1) Tertakluk kepada peruntukan-peruntukan luar pesisir seksyen ini, tiap-tiap syarikat luar pesisir yang hendaklah menyenggara menerbitkan debentur-debentur hendaklah menyimpan daftar dan menyenggarakan di pejabat berdaftarnya di Labuan— pemegang debentur.
+58. (1) Tertakluk kepada peruntukan-peruntukan
+
+<!-- marginal: luar pesisir -->
+
+seksyen ini, tiap-tiap syarikat luar pesisir yang
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: menyenggara -->
+
+menerbitkan debentur-debentur hendaklah menyimpan
+
+<!-- marginal: daftar -->
+
+dan menyenggarakan di pejabat berdaftarnya di Labuan—
+
+<!-- marginal: pemegang -->
+
+<!-- marginal: debentur. -->
 
 (a) suatu daftar pemegang-pemegang debentur itu; dan
 
@@ -2240,19 +2594,29 @@ debentur, tidaklah menjadi tak sah semata-mata oleh sebab debentur itu dijadikan
 
 ## RANG UNDANG-UNDANG
 
-hanya apabila berlakunya sesuatu kontingensi, walau bagaimana remot sekalipun, atau apabila habisnya se- suatu tempoh, walau bagaimana panjang sekalipun, walau apa pun rukun undang-undang atau ekuiti yang berlawanan. Penerbitan
+hanya apabila berlakunya sesuatu kontingensi, walau bagaimana remot sekalipun, atau apabila habisnya se- suatu tempoh, walau bagaimana panjang sekalipun, walau apa pun rukun undang-undang atau ekuiti yang berlawanan.
 
-60. (1) Jika sesuatu syarikat luar pesisir telah menebus semula mana-mana debentur— debentur- debentur
+<!-- marginal: Penerbitan -->
 
-(a) melainkan jika apa-apa peruntukan yang telah ditebus. berlawanan, sama ada nyata atau tersirat, terkandung dalam apa-apa kontrak yang dibuat oleh syarikat itu; atau
+60. (1) Jika sesuatu syarikat luar pesisir telah menebus
+
+<!-- marginal: semula -->
+
+mana-mana debentur—
+
+<!-- marginal: debentur- -->
+
+<!-- marginal: debentur -->
+
+(a) melainkan jika apa-apa peruntukan yang
+
+<!-- marginal: telah ditebus. -->
+
+berlawanan, sama ada nyata atau tersirat, terkandung dalam apa-apa kontrak yang dibuat oleh syarikat itu; atau
 
 (b) melainkan jika syarikat itu telah, dengan meluluskan suatu ketetapan bagi maksud itu atau dengan apa-apa perbuatan lain, menyatakan niatnya supaya debentur-debentur itu di- kenselkan,
 
-syarikat itu hendaklah mempunyai kuasa untuk menerbitkan semula debentur-debentur itu, sama ada dengan menerbitkan semula debentur-debentur yang sama atau dengan menerbitkan debentur-debentur lain bagi menggantikannya, tetapi penerbitan semula sesuatu debentur atau penerbitan sesuatu debentur bagi menggantikan yang lain di bawah subseksyen ini tidaklah boleh diambil kira sebagai penerbitan sesuatu debentur baru bagi maksud apa-apa peruntukan yang membatas- kan amaun atau bilangan debentur-debentur yang boleh diterbitkan oleh syarikat itu.
-
-(2) Apabila debentur telah ditebus diterbitkan semula, orang yang berhak terhadap debentur itu hendaklah mempunyai, dan hendaklah disifatkan sentiasa telah mempunyai, prioriti-prioriti yang sama seolah-olah debentur itu tidak pernah ditebus.
-
-(3) Jika sesuatu syarikat luar pesisir telah men- depositkan mana-mana debenturnya bagi mendapatkan pendahuluan bagi akaun semasa atau selainnya, debentur- debentur itu tidaklah boleh disifatkan telah ditebus semata-mata oleh sebab akaun syarikat itu telah tidak lagi dalam debit semasa debentur-debentur itu masih didepositkan demikian.
+syarikat itu hendaklah mempunyai kuasa untuk menerbitkan semula debentur-debentur itu, sama ada dengan menerbitkan semula debentur-debentur yang sama atau dengan menerbitkan debentur-debentur lain bagi menggantikannya, tetapi penerbitan semula sesuatu debentur atau penerbitan sesuatu debentur bagi menggantikan yang lain di bawah subseksyen ini tidaklah boleh diambil kira sebagai penerbitan sesuatu debentur baru bagi maksud apa-apa peruntukan yang membatas- kan amaun atau bilangan debentur-debentur yang boleh diterbitkan oleh syarikat itu. (2) Apabila debentur telah ditebus diterbitkan semula, orang yang berhak terhadap debentur itu hendaklah mempunyai, dan hendaklah disifatkan sentiasa telah mempunyai, prioriti-prioriti yang sama seolah-olah debentur itu tidak pernah ditebus. (3) Jika sesuatu syarikat luar pesisir telah men- depositkan mana-mana debenturnya bagi mendapatkan pendahuluan bagi akaun semasa atau selainnya, debentur- debentur itu tidaklah boleh disifatkan telah ditebus semata-mata oleh sebab akaun syarikat itu telah tidak lagi dalam debit semasa debentur-debentur itu masih didepositkan demikian.
 
 <!-- page 78 -->
 
@@ -2302,17 +2666,17 @@ debentur—
 
 <!-- page 79 -->
 
-78
+<!-- marginal: 78 -->
 
 ## RANG UNDANG-UNDANG
 
 telah melakukan apa-apa pelanggaran waad- waad, terma-terma dan peruntukan-peruntukan debentur atau suratikatan amanah;
 
-(d) kecuali jika ia berpuas hati bahawa pelanggaran waad-waad, terma-terma dan peruntukan- peruntukan debentur atau suratikatan amanah itu tidak akan memudaratkan secara material cagaran (jika ada) bagi debentur-debentur atau kepentingan-kepentingan pemegang-pemegang debentur, hendaklah mengambil segala langkah dan melakukan semua perkara yang
+(d) kecuali jika ia berpuas hati bahawa pelanggaran waad-waad, terma-terma dan peruntukan- peruntukan debentur atau suratikatan amanah itu tidak akan memudaratkan secara material cagaran (jika ada) bagi debentur-debentur atau kepentingan-kepentingan pemegang-pemegang debentur, hendaklah mengambil segala langkah dan melakukan semua perkara yang ia diberikuasa untuk melakukan bagi menye- babkan syarikat peminjam itu dan mana-mana syarikat penggerentinya meremedikan apa-apa pelanggaran waad-waad, terma-terma dan peruntukan-peruntukan tersebut;
 
-<!-- marginal: ia -->
+(e) jika syarikat peminjam atau mana-mana syarikat penggerentinya gagal, apabila dikehendaki oleh syarikat amanah itu, meremedikan apa-apa pelanggaran waad-waad, terma-terma dan peruntukan-peruntukan debentur atau surat- ikatan amanah itu, hendaklah membentangkan perkara itu di mesyuarat pemegang-pemegang debentur, mengemukakan apa-apa cadangan bagi melindungi pelaburan mereka sebagaimana yang difikirkan perlu dan sesuai oleh syarikat amanah itu dan mendapatkan arahan pe-megang- pemegang berhubungan dengannya; dan
 
-diberikuasa untuk melakukan bagi menye- babkan syarikat peminjam itu dan mana-mana syarikat penggerentinya meremedikan apa-apa pelanggaran waad-waad, terma-terma dan peruntukan-peruntukan tersebut; (e) jika syarikat peminjam atau mana-mana syarikat penggerentinya gagal, apabila dikehendaki oleh syarikat amanah itu, meremedikan apa-apa pelanggaran waad-waad, terma-terma dan peruntukan-peruntukan debentur atau surat- ikatan amanah itu, hendaklah membentangkan perkara itu di mesyuarat pemegang-pemegang debentur, mengemukakan apa-apa cadangan bagi melindungi pelaburan mereka sebagaimana yang difikirkan perlu dan sesuai oleh syarikat amanah itu dan mendapatkan arahan pe-megang- pemegang berhubungan dengannya; dan (f) jika syarikat peminjam mengemukakan kepada pemegang-pemegang itu suatu kompromi atau perkiraan, hendaklah memberikan kepada pemegang-pemegang itu suatu pernyataan yang menerangkan kesan kompromi atau perkiraan itu dan, jika difikirkannya patut, mengesyorkan kepada mereka suatu penjalanan tindakan yang sesuai untuk diambil oleh mereka berhubungan dengannya.
+(f) jika syarikat peminjam mengemukakan kepada pemegang-pemegang itu suatu kompromi atau perkiraan, hendaklah memberikan kepada pemegang-pemegang itu suatu pernyataan yang menerangkan kesan kompromi atau perkiraan itu dan, jika difikirkannya patut, mengesyorkan kepada mereka suatu penjalanan tindakan yang sesuai untuk diambil oleh mereka berhubungan dengannya.
 
 (2) Jika, selepas siasatan wajar, syarikat amanah yang bertindak sebagai pemegang amanah bagi pemegang- pemegang debentur pada bila-bila masa berpendapat bahawa aset-aset syarikat peminjam dan aset-aset mana-
 
@@ -2354,9 +2718,7 @@ tetapi pada membuat apa-apa perintah sedemikian Mahkamah hendaklah mengambil per
 
 ## SYAR1KAT LUAR PESISIR 81
 
-(5) Mahkamah boleh mengubah atau membatalkan apa-apa perintah yang dibuat di bawah subseksyen (4) sebagaimana yang difikirkannya patut.
-
-(6) Sesuatu syarikat amanah, pada membuat apa-apa permohonan kepada Pendaftar atau Mahkamah, hendaklah mengambil perhatian akan bentuk dan jenis cagaran yang diberi semasa debentur-debentur itu ditawarkan kepada awam, dan, jika tiada cagaran diberikan, hendaklah mengambil perhatian akan kedudukan pemegang- pemegang debentur sebagai pemiutang-pemiutang tak bercagar bagi syarikat peminjam itu.
+(5) Mahkamah boleh mengubah atau membatalkan apa-apa perintah yang dibuat di bawah subseksyen (4) sebagaimana yang difikirkannya patut. (6) Sesuatu syarikat amanah, pada membuat apa-apa permohonan kepada Pendaftar atau Mahkamah, hendaklah mengambil perhatian akan bentuk dan jenis cagaran yang diberi semasa debentur-debentur itu ditawarkan kepada awam, dan, jika tiada cagaran diberikan, hendaklah mengambil perhatian akan kedudukan pemegang- pemegang debentur sebagai pemiutang-pemiutang tak bercagar bagi syarikat peminjam itu.
 
 (7) Sesuatu syarikat amanah boleh bergantung kepada apa-apa perakuan atau laporan yang diberikan atau pernyataan yang dibuat oleh mana-mana penguambela, juruaudit atau pegawai syarikat peminjam atau syarikat penggerenti jika ia mempunyai alasan-alasan yang munasabah bagi mempercayai bahawa peguambela, juruaudit atau pegawai itu adalah kompeten untuk memberi atau membuat perakuan, laporan atau pernyataan itu.
 
@@ -2420,9 +2782,7 @@ dibuat, butir-butir mengenai apa-apa gadaian yang diwujudkan oleh syarikat itu a
 
 <!-- page 86 -->
 
-subseksyen (4) jika, dengan persetujuan syarikat amanah yang bertindak sebagai pemegang amanah bagi pemegang-pemegang debentur syarikat peminjam itu, telah diserahkan kepada Pendaftar dan syarikat amanah itu salinan-salinan diperakui bagi akaun keuntungan dan kerugian dan kunci kira-kira yang diserahkan demikian.
-
-(6) Jika pengarah-pengarah sesuatu syarikat peminjam tidak menyerahkan kepada syarikat amanah yang bertindak sebagai pemegang amanah bagi pemegang- pemegang debentur syarikat itu suatu laporan se- bagaimana yang dikehendaki oleh subseksyen (1), atau jika pengarah-pengarah sesuatu syarikat peminjam atau pengarah-pengarah sesuatu syarikat penggerenti tidak menyerahkan kepada Pendaftar dan syarikat amanah akaun keuntungan dan kerugian, pernyataan terperinci dan kunci kira-kira sebagaimana yang dikehendaki oleh subseksyen (4) dalam masa yang ditetapkan itu, syarikat amanah itu hendaklah, dengan seberapa cepat mungkin, menyerahkan notis mengenai fakta itu kepada Pendaftar.
+subseksyen (4) jika, dengan persetujuan syarikat amanah yang bertindak sebagai pemegang amanah bagi pemegang-pemegang debentur syarikat peminjam itu, telah diserahkan kepada Pendaftar dan syarikat amanah itu salinan-salinan diperakui bagi akaun keuntungan dan kerugian dan kunci kira-kira yang diserahkan demikian. (6) Jika pengarah-pengarah sesuatu syarikat peminjam tidak menyerahkan kepada syarikat amanah yang bertindak sebagai pemegang amanah bagi pemegang- pemegang debentur syarikat itu suatu laporan se- bagaimana yang dikehendaki oleh subseksyen (1), atau jika pengarah-pengarah sesuatu syarikat peminjam atau pengarah-pengarah sesuatu syarikat penggerenti tidak menyerahkan kepada Pendaftar dan syarikat amanah akaun keuntungan dan kerugian, pernyataan terperinci dan kunci kira-kira sebagaimana yang dikehendaki oleh subseksyen (4) dalam masa yang ditetapkan itu, syarikat amanah itu hendaklah, dengan seberapa cepat mungkin, menyerahkan notis mengenai fakta itu kepada Pendaftar.
 
 <!-- marginal: Obligasi -->
 
@@ -2452,7 +2812,41 @@ Penalti: Sepuluh ribu ringgit. Penalti ingkar.
 
 <!-- page 87 -->
 
-Pinjaman 65. ( I) Jika dalam mana-mana prospektus yang dan deposit- dikeluarkan berkaitan dengan suatu pelawaan kepada deposit hendaklah awam supaya memohon beli atau membeli debentur- dibayar balik debentur sesuatu syarikat luar pesisir terdapat suatu dengan serta- pernyataan mengenai apa-apa maksud atau projek tertentu merta atas kejadian- yang baginya wang yang diterima oleh syarikat itu sebagai kejadian sambutan kepada pelawaan itu akan digunakan, syarikat tertentu. itu hendaklah dari semasa ke semasa membuat laporan- laporan kepada syarikat amanah yang bertindak sebagai pemegang amanah bagi pemegang-pemegang debentur syarikat itu mengenai kemajuan yang telah dibuat bagi mencapai maksud itu atau menyempurnakan projek itu.
+<!-- marginal: Pinjaman -->
+
+65. ( I) Jika dalam mana-mana prospektus yang
+
+<!-- marginal: dan deposit- -->
+
+dikeluarkan berkaitan dengan suatu pelawaan kepada
+
+<!-- marginal: deposit -->
+
+<!-- marginal: hendaklah -->
+
+awam supaya memohon beli atau membeli debentur-
+
+<!-- marginal: dibayar balik -->
+
+debentur sesuatu syarikat luar pesisir terdapat suatu
+
+<!-- marginal: dengan serta- -->
+
+pernyataan mengenai apa-apa maksud atau projek tertentu
+
+<!-- marginal: merta atas -->
+
+<!-- marginal: kejadian- -->
+
+yang baginya wang yang diterima oleh syarikat itu sebagai
+
+<!-- marginal: kejadian -->
+
+sambutan kepada pelawaan itu akan digunakan, syarikat
+
+<!-- marginal: tertentu. -->
+
+itu hendaklah dari semasa ke semasa membuat laporan- laporan kepada syarikat amanah yang bertindak sebagai pemegang amanah bagi pemegang-pemegang debentur syarikat itu mengenai kemajuan yang telah dibuat bagi mencapai maksud itu atau menyempurnakan projek itu.
 
 (2) Setiap laporan itu hendaklah dimasukkan ke dalam laporan yang dikehendaki diberi kepada syarikat amanah di bawah seksyen 63 (1).
 
@@ -2500,9 +2894,17 @@ maksud atau projek itu dalam masa yang dinyatakan dalam prospektus atau dalam se
 
 "syarikat pengurusan", berhubungan dengan apa-apa kepentingan yang diterbitkan atau apa-apa suratikatan yang berhubungan dengan apa-apa kepentingan yang diterbitkan atau dicadang hendak. diterbitkan, ertinya sesuatu syarikat yang olehnya atau bagi pihaknya kepentingan-kepentingan itu telah diterbitkan atau dicadang hendak diterbitkan, dan termasuklah mana-mana orang yang pada masa ini menjalankan fungsi-fungsi syarikat pengurusan itu.
 
-Suratikatan-
+<!-- marginal: Suratikatan- -->
 
-67. Bagi maksud-maksud Penggal ini, sesuatu surat- suratikatan ikatan hendaklah menjadi suatu suratikatan diluluskan diluluskan. jika—
+67. Bagi maksud-maksud Penggal ini, sesuatu surat-
+
+<!-- marginal: suratikatan -->
+
+ikatan hendaklah menjadi suatu suratikatan diluluskan
+
+<!-- marginal: diluluskan. -->
+
+jika—
 
 (a) Pendaftar telah memberikan kelulusannya bagi suratikatan itu di bawah Penggal ini; dan
 
@@ -2532,15 +2934,67 @@ pemegang amanah atau wakil bagi pemegang-pemegang kepentingan yang diterbitkan a
 
 <!-- page 91 -->
 
-Kepentingan-
+<!-- marginal: Kepentingan- -->
 
-69. Tiada seorang pun, kecuali suatu syarikat luar pesisir kepentingan atau syarikat luar pesisir asing atau ejen sesuatu syarikat hendaklah diterbitkan sedemikian yang diberikuasa bagi maksud itu di bawah oleh syarikat meterai syarikat itu, boleh menerbitkan atau menawarkan luar pesisir kepada awam untuk dipohon beli atau dibeli, atau boleh atau syarikat luar pesisir mempelawa orang ramai memohon beli atau membeli, asing sahaja. apa-apa kepentingan.
+69. Tiada seorang pun, kecuali suatu syarikat luar pesisir
 
-Pernyataan
+<!-- marginal: kepentingan -->
 
-70. Sebelum sesuatu syarikat luar pesisir atau syarikat hendaklah luar pesisir asing atau ejen sesuatu syarikat sedemikian dikeluarkan. menerbitkan atau menawarkan kepada awam untuk dipohon beli atau dibeli, atau mempelawa orang ramai memohon beli atau membeli, apa-apa kepentingan, syarikat itu hendaklah mengeluarkan, atau menyebabkan dikeluarkan, suatu pernyataan bertulis berkaitan dengannya, yang mana pernyataan itu hendaklah bagi segala maksud disifatkan sebagai suatu prospektus yang dikeluarkan oleh sesuatu syarikat, dan kesemua peruntukan Akta ini dan rukun undang-undang yang berhubungan dengan prospektus atau dengan tawaran atau cadangan tawaran kepada awam akan syer-syer untuk dipohon beli atau dibeli hendaklah, dengan apa-apa penyesuaian yang perlu, terpakai dan mempunyai kuatkuasa sewajarnya seolah-olah kepentingan itu adalah syer-syer yang ditawarkan atau dicadang hendak ditawarkan kepada awam untuk dipohon beli atau dibeli, dan seolah-olah orang-orang yang menerima apa-apa tawaran atau pelawaan berkenaan dengan atau yang memohon beli atau membeli apa-apa kepentingan sedemikian adalah pemohon beli syer-syer. Tiada
+atau syarikat luar pesisir asing atau ejen sesuatu syarikat
 
-71. (1) Tiada seorang pun boleh menerbitkan atau penerbitan menawarkan kepada awam untuk dipohon beli atau tanpa dibeli, atau mempelawa orang ramai memohon beli atau suratikatan diluluskan. membeli, apa-apa kepentingan melainkan jika, pada masa penerbitan, tawaran atau pelawaan itu, ada berkuatkuasa, berhubungan dengan kepentingan itu, suatu suratikatan yang adalah suratikatan diluluskan.
+<!-- marginal: hendaklah -->
+
+<!-- marginal: diterbitkan -->
+
+sedemikian yang diberikuasa bagi maksud itu di bawah
+
+<!-- marginal: oleh syarikat -->
+
+meterai syarikat itu, boleh menerbitkan atau menawarkan
+
+<!-- marginal: luar pesisir -->
+
+kepada awam untuk dipohon beli atau dibeli, atau boleh
+
+<!-- marginal: atau syarikat -->
+
+<!-- marginal: luar pesisir -->
+
+mempelawa orang ramai memohon beli atau membeli,
+
+<!-- marginal: asing sahaja. -->
+
+apa-apa kepentingan.
+
+<!-- marginal: Pernyataan -->
+
+70. Sebelum sesuatu syarikat luar pesisir atau syarikat
+
+<!-- marginal: hendaklah -->
+
+luar pesisir asing atau ejen sesuatu syarikat sedemikian
+
+<!-- marginal: dikeluarkan. -->
+
+menerbitkan atau menawarkan kepada awam untuk dipohon beli atau dibeli, atau mempelawa orang ramai memohon beli atau membeli, apa-apa kepentingan, syarikat itu hendaklah mengeluarkan, atau menyebabkan dikeluarkan, suatu pernyataan bertulis berkaitan dengannya, yang mana pernyataan itu hendaklah bagi segala maksud disifatkan sebagai suatu prospektus yang dikeluarkan oleh sesuatu syarikat, dan kesemua peruntukan Akta ini dan rukun undang-undang yang berhubungan dengan prospektus atau dengan tawaran atau cadangan tawaran kepada awam akan syer-syer untuk dipohon beli atau dibeli hendaklah, dengan apa-apa penyesuaian yang perlu, terpakai dan mempunyai kuatkuasa sewajarnya seolah-olah kepentingan itu adalah syer-syer yang ditawarkan atau dicadang hendak ditawarkan kepada awam untuk dipohon beli atau dibeli, dan seolah-olah orang-orang yang menerima apa-apa tawaran atau pelawaan berkenaan dengan atau yang memohon beli atau membeli apa-apa kepentingan sedemikian adalah pemohon beli syer-syer.
+
+<!-- marginal: Tiada -->
+
+71. (1) Tiada seorang pun boleh menerbitkan atau
+
+<!-- marginal: penerbitan -->
+
+menawarkan kepada awam untuk dipohon beli atau
+
+<!-- marginal: tanpa -->
+
+dibeli, atau mempelawa orang ramai memohon beli atau
+
+<!-- marginal: suratikatan -->
+
+<!-- marginal: diluluskan. -->
+
+membeli, apa-apa kepentingan melainkan jika, pada masa penerbitan, tawaran atau pelawaan itu, ada berkuatkuasa, berhubungan dengan kepentingan itu, suatu suratikatan yang adalah suratikatan diluluskan.
 
 (2) Seseorang tidak boleh, dalam mana-mana suratikatan, prospektus, pernyataan, iklan atau dokumen lain yang berhubungan dengan apa-apa kepentingan, membuat apa-apa sebutan mengenai kelulusan sesuatu suratikatan atau seseorang pemegang amanah atau wakil yang diberikan di bawah Penggal ini.
 
@@ -2562,13 +3016,7 @@ syarikat itu, menyimpan suatu daftar pemegang- pemegang kepentingan di bawah sur
 
 (a) nama dan alamat pemegang-pemegang itu;
 
-(b) takat pegangan setiap pemegang dan, jika kepentingannya terdiri daripada suatu ke- pentingan tertentu mengenai apa-apa harta, suatu perihalan mengenai harta itu serta tempat letaknya yang cukup bagi mengenalpasti harta itu;
-
-(c) tarikh nama setiap orang dicatatkan di dalam daftar itu sebagai seorang pemegang; dan
-
-(d) tarikh mana-mana orang terhenti menjadi seorang pemegang.
-
-(2) Penggal 4 Bahagian V hendaklah, setakat yang berkenaan dan dengan apa-apa penyesuaian yang perlu, terpakai bagi dan berhubungan dengan daftar itu.
+(b) takat pegangan setiap pemegang dan, jika kepentingannya terdiri daripada suatu ke- pentingan tertentu mengenai apa-apa harta, suatu perihalan mengenai harta itu serta tempat letaknya yang cukup bagi mengenalpasti harta itu; (c) tarikh nama setiap orang dicatatkan di dalam daftar itu sebagai seorang pemegang; dan (d) tarikh mana-mana orang terhenti menjadi seorang pemegang. (2) Penggal 4 Bahagian V hendaklah, setakat yang berkenaan dan dengan apa-apa penyesuaian yang perlu, terpakai bagi dan berhubungan dengan daftar itu.
 
 <!-- marginal: Penalti -->
 
@@ -2656,9 +3104,13 @@ kepentingan yang dimaksudkan oleh sesuatu suratikatan sedemikian, hendaklah tak 
 
 ## RANG UNDANG-UNDANG
 
-Menomborkan
+<!-- marginal: Menomborkan -->
 
-77. (1) Setiap syer dalam sesuatu syarikat luar pesisir syer-syer. hendaklah dikenali dengan nombornya yang tersendiri.
+77. (1) Setiap syer dalam sesuatu syarikat luar pesisir
+
+<!-- marginal: syer-syer. -->
+
+hendaklah dikenali dengan nombornya yang tersendiri.
 
 (2) Walau apa pun subseksyen (1)—
 
@@ -2666,9 +3118,27 @@ Menomborkan
 
 (b) jika kesemua syer terbitan dalam sesuatu syarikat luar pesisir adalah terbukti dengan perakuan-perakuan mengikut seksyen 78 dan setiap perakuan itu dikenali dengan nombornya yang tersendiri dan nombor itu direkodkan dalam daftar anggota-anggota, tiada mana-mana syer itu perlu mempunyai suatu nombor pengenalan.
 
-Perakuan
+<!-- marginal: Perakuan -->
 
-78. (1) Sesuatu perakuan, di bawah meterai suatu hendaklah syarikat luar pesisir atau mana-mana cawangannya, yang menjadi keterangan menyatakan apa-apa syer yang dipegang oleh seseorang mengenai anggota hendaklah menjadi keterangan prima facie hakmilik. mengenai hakmiliknya terhadap syer-syer itu.
+78. (1) Sesuatu perakuan, di bawah meterai suatu
+
+<!-- marginal: hendaklah -->
+
+syarikat luar pesisir atau mana-mana cawangannya, yang
+
+<!-- marginal: menjadi -->
+
+<!-- marginal: keterangan -->
+
+menyatakan apa-apa syer yang dipegang oleh seseorang
+
+<!-- marginal: mengenai -->
+
+anggota hendaklah menjadi keterangan prima facie
+
+<!-- marginal: hakmilik. -->
+
+mengenai hakmiliknya terhadap syer-syer itu.
 
 (2) Tiap-tiap perakuan syer hendaklah di bawah meterai syarikat luar pesisir itu atau cawangannya dan hendaklah menyatakan—
 
@@ -2730,9 +3200,7 @@ subseksyen ini tidaklah menjejaskan apa-apa kuasa untuk mendaftarkan sebagai seo
 
 (2) Sesuatu pemindahan syer, debentur atau kepentingan lain si mati yang dibuat oleh wakil dirinya hendaklah, walaupun wakil diri itu sendiri bukannya anggota syarikat itu, sama sahnya seolah-olah dia telah menjadi anggota sedemikian pada masa penyempurnaan suratcara pemindahan itu.
 
-(3) Pengemukaan kepada sesuatu syarikat luar pesisir apa-apa dokumen yang menurut undang-undang adalah keterangan yang mencukupi bahawa probet wasiat, atau surat kuasa mentadbir harta pusaka, si mati telah diberikan kepada seseorang hendaklah diterima oleh syarikat itu, walau apa pun apa-apa jua dalam perkara-perkaranya, sebagai keterangan yang mencukupi mengenai pemberian itu.
-
-(4) Dalam seksyen ini "suratcara pemindahan" ter- masuklah suatu permohonan bertulis bagi memindahkan
+(3) Pengemukaan kepada sesuatu syarikat luar pesisir apa-apa dokumen yang menurut undang-undang adalah keterangan yang mencukupi bahawa probet wasiat, atau surat kuasa mentadbir harta pusaka, si mati telah diberikan kepada seseorang hendaklah diterima oleh syarikat itu, walau apa pun apa-apa jua dalam perkara-perkaranya, sebagai keterangan yang mencukupi mengenai pemberian itu. (4) Dalam seksyen ini "suratcara pemindahan" ter- masuklah suatu permohonan bertulis bagi memindahkan
 
 <!-- page 97 -->
 
@@ -2742,9 +3210,29 @@ subseksyen ini tidaklah menjejaskan apa-apa kuasa untuk mendaftarkan sebagai seo
 
 syer, debentur atau kepentingan lain kepada seorang wakil diri.
 
-Kewajipan-
+<!-- marginal: Kewajipan- -->
 
-81. (1) Tiap-tiap syarikat luar pesisir hendaklah, dalam kewajipan masa dua bulan selepas pengumpukan mana-mana syer syarikat luar pesisir atau debenturnya, dan dalam masa satu bulan selepas mengenai tarikh yang sesuatu pemindahan (selain daripada pengeluaran perakuan. pemindahan yang syarikat itu, kerana apa-apa sebab, berhak menolak untuk didaftarkan dan tidak men- daftarkan) mana-mana syer atau debenturnya diserahkan kepada syarikat itu, melengkapkan dan menyediakan untuk dihantarserahkan kesemua perakuan dan debentur berkenaan yang berkaitan dengan pengumpukan atau pemindahan itu, melainkan jika syarat-syarat penefbitan syer atau debentur itu memperuntukkan selainnya.
+81. (1) Tiap-tiap syarikat luar pesisir hendaklah, dalam
+
+<!-- marginal: kewajipan -->
+
+masa dua bulan selepas pengumpukan mana-mana syer
+
+<!-- marginal: syarikat -->
+
+<!-- marginal: luar pesisir -->
+
+atau debenturnya, dan dalam masa satu bulan selepas
+
+<!-- marginal: mengenai -->
+
+tarikh yang sesuatu pemindahan (selain daripada
+
+<!-- marginal: pengeluaran -->
+
+<!-- marginal: perakuan. -->
+
+pemindahan yang syarikat itu, kerana apa-apa sebab, berhak menolak untuk didaftarkan dan tidak men- daftarkan) mana-mana syer atau debenturnya diserahkan kepada syarikat itu, melengkapkan dan menyediakan untuk dihantarserahkan kesemua perakuan dan debentur berkenaan yang berkaitan dengan pengumpukan atau pemindahan itu, melainkan jika syarat-syarat penefbitan syer atau debentur itu memperuntukkan selainnya.
 
 (2) Jika berlaku keingkaran pada mematuhi seksyen ini, syarikat luar pesisir itu dan tiap-tiap pegawai syarikat itu yang ingkar adalah melakukan suatu kesalahan terhadap Akta ini. Penalti: Satu ribu ringgit. Penalti ingkar,
 
@@ -2754,9 +3242,17 @@ Kewajipan-
 
 ## DAFTAR GADAIAN
 
-Tak ter-
+<!-- marginal: Tak ter- -->
 
-82. Tiada apa-apa jua dalam Penggal ini terpakai bagi pakainya gadaian yang diwujudkan oleh syarikat luar pesisir asing Penggal. ke atas harta di luar Malaysia.
+82. Tiada apa-apa jua dalam Penggal ini terpakai bagi
+
+<!-- marginal: pakainya -->
+
+gadaian yang diwujudkan oleh syarikat luar pesisir asing
+
+<!-- marginal: Penggal. -->
+
+ke atas harta di luar Malaysia.
 
 <!-- page 98 -->
 
@@ -2820,7 +3316,19 @@ Penalti: Dua ribu ringgit. Penalti ingkar.
 
 ## PEJABAT DAN NAMA
 
-Pejabat 85. (1) Tiap-tiap syarikat luar pesisir hendaklah pada berdaftar setiap masa mempunyai suatu pejabat berdaftar di Labuan, syarikat luar pesisir yang mana pejabat itu hendaklah pejabat utama suatu syarikat am an ah.
+<!-- marginal: Pejabat -->
+
+85. (1) Tiap-tiap syarikat luar pesisir hendaklah pada
+
+<!-- marginal: berdaftar -->
+
+setiap masa mempunyai suatu pejabat berdaftar di Labuan,
+
+<!-- marginal: syarikat -->
+
+<!-- marginal: luar pesisir -->
+
+yang mana pejabat itu hendaklah pejabat utama suatu syarikat am an ah.
 
 (2) Notis mengenai tempat letaknya'pejabat berdaftar sesuatu syarikat luar pesisir hendaklah diberi mengikut bentuk yang ditetapkan kepada Pendaftar dalam masa empat belas hari selepas tarikh pemerbadanan syarikat itu.
 
@@ -2892,9 +3400,13 @@ Penalti: Satu ribu ringgit. Penalti ingkar.
 
 ## PENGARAH-PENGARAH DAN PEGAWAI-PEGAWAI
 
-Pengarah-
+<!-- marginal: Pengarah- -->
 
-87. (1) Tiap-tiap syarikat luar pesisir hendaklah pengarah. mempunyai sekurang-kurangnya seorang pengarah yang boleh menjadi pengarah pemastautin.
+87. (1) Tiap-tiap syarikat luar pesisir hendaklah
+
+<!-- marginal: pengarah. -->
+
+mempunyai sekurang-kurangnya seorang pengarah yang boleh menjadi pengarah pemastautin.
 
 (2) Tiada seorang pun, selain daripada seorang pegawai syarikat amanah yang disediakan bagi perlantikan itu oleh syarikat amanah itu, boleh bertindak atau dilantik sebagai seorang pengarah pemastautin suatu syarikat luar pesisir.
 
@@ -2924,13 +3436,37 @@ dipraktikkan oleh syarikat itu atau oleh mana-mana anggotanya atau mana-mana pen
 
 (11) Walau apa pun apa-apa peruntukan lain Akta ini atau apa-apa peraturan yang sebaliknya, dan melainkan jika yang selainnya diperuntukkan dalam perkara-perkara suatu syarikat luar pesisir, seorang pengarah pemastautin tidaklah boleh dikenakan apa-apa penalti yang diperuntukkan di bawah Akta ini bagi apa-apa kerugian yang disebabkan kepada atau ditang'gung oleh mana-mana orang walau bagaimana jua pun kerugian itu berbangkit, selain daripada oleh sebab perbuatan salah-laku yang sengaja, keingkaran sengaja atau keabaian sengaja pengarah pemastautin itu.
 
-Persetujuan
+<!-- marginal: Persetujuan -->
 
-88. Seseorang tidak boleh dilantik atau dinamakan untuk sebagai seorang pengarah atau pengarah dicadangkan bertindak sebagai dalam perkara-perkara suatu syarikat luar pesisir atau pengarah suatu prospektus, melainkan jika sebelum pendaftaran perkara-perkara atau pengeluaran prospektus itu, orang itu telah dengan sendirinya atau melalui ejennya yang diberikuasa secara bertulis bagi maksud itu, me- nandatangani dan menyebabkan diserahkan kepada Pendaftar, suatu persetujuan bertulis untuk bertindak sebagai seorang pengarah.
+88. Seseorang tidak boleh dilantik atau dinamakan
 
-Keesahan
+<!-- marginal: untuk -->
 
-89. Tindakan-tindakan seorang pengarah suatu syarikat tindakan- luar pesisir adalah sah walau apa pun kecacatan yang tindakan pengarah. didapati dalam perlantikan atau kelayakannya.
+sebagai seorang pengarah atau pengarah dicadangkan
+
+<!-- marginal: bertindak -->
+
+<!-- marginal: sebagai -->
+
+dalam perkara-perkara suatu syarikat luar pesisir atau
+
+<!-- marginal: pengarah -->
+
+suatu prospektus, melainkan jika sebelum pendaftaran perkara-perkara atau pengeluaran prospektus itu, orang itu telah dengan sendirinya atau melalui ejennya yang diberikuasa secara bertulis bagi maksud itu, me- nandatangani dan menyebabkan diserahkan kepada Pendaftar, suatu persetujuan bertulis untuk bertindak sebagai seorang pengarah.
+
+<!-- marginal: Keesahan -->
+
+89. Tindakan-tindakan seorang pengarah suatu syarikat
+
+<!-- marginal: tindakan- -->
+
+luar pesisir adalah sah walau apa pun kecacatan yang
+
+<!-- marginal: tindakan -->
+
+<!-- marginal: pengarah. -->
+
+didapati dalam perlantikan atau kelayakannya.
 
 <!-- page 104 -->
 
@@ -3046,9 +3582,19 @@ melibatkan kewajipan atau kepentingan yang ber- canggahan dengan kewajipan atau 
 
 Dengan syarat bahawa subseksyen ini tidaklah terpakai bagi seorang pengarah pemastautin melainkan jika perkara-perkara syarikat memperuntukkan sebaliknya.
 
-Tugas dan
+<!-- marginal: Tugas dan -->
 
-92. (1) Tiap-tiap pegawai suatu syarikat luar pesisir liabiliti hendaklah, pada setiap masa, bertindak dengan jujur dan pegawai- pegawai. menggunakan usaha yang munasabah dalam menunai- kan tugas-tugas jawatannya.
+92. (1) Tiap-tiap pegawai suatu syarikat luar pesisir
+
+<!-- marginal: liabiliti -->
+
+hendaklah, pada setiap masa, bertindak dengan jujur dan
+
+<!-- marginal: pegawai- -->
+
+<!-- marginal: pegawai. -->
+
+menggunakan usaha yang munasabah dalam menunai- kan tugas-tugas jawatannya.
 
 (2) Seorang pegawai suatu syarikat luar pesisir tidak boleh menggunakan secara tidak patut apa-apa maklumat yang diperolehi oleh sebab jawatannya untuk mendapatkan, sama ada secara langsung atau tak langsung, apa-apa faedah bagi dirinya atau bagi mana-mana orang lain atau untuk menyebabkan kemudaratan kepada syarikat itu.
 
@@ -3060,7 +3606,7 @@ Tugas dan
 
 (4) Seksyen ini adalah sebagai tambahan kepada dan tidaklah mengurangkan mana-mana undang-undang bertulis atau rukun undang-undang lain berhubungan dengan tugas-tugas atau liabiliti pengarah-pengarah atau pegawai-pegawai sesuatu syarikat.
 
-Setiausaha.
+<!-- marginal: Setiausaha. -->
 
 93. (1) Tiap-tiap syarikat luar pesisir hendaklah melantik seorang setiausaha atau lebih yang sekurang- kurangnya seorang hendaklah menjadi setiausaha pemastautin.
 
@@ -3072,7 +3618,11 @@ Setiausaha.
 
 (3) Tertakluk kepada subseksyen (4), setiausaha pemastautin suatu syarikat luar pesisir hendaklah bertanggungjawab bagi pematuhan kehendakrkehendak Akta ini oleh syarikat itu berhubungan dengan penyerahan semua dokumen kepada Pendaftar dan penyenggaraan rekod-rekod syarikat di pejabat berdaftar syarikat itu dan bagi menguruskan komunikasi yang disampaikan ke atas syarikat itu di pejabat berdaftarnya.
 
-(4) Walau apa pun apa-apa peruntukan lain Akta ini yang berlawanan, setiausaha pemastautin tidak boleh dikenakan apa-apa penalti yang diperuntukkan dalam Akta ini sebagai seorang pegawai syarikat kecuali bagi apa-apa yang dilakukan atau tidak dilakukan olehnya dalam menjalankan tugas-tugas jawatannya, dan setiausaha pemastautin itu tidak boleh juga ber- tanggungan bagi apa-apa kerugian yang disebabkan kepada atau ditanggung oleh mana-mana orang, walau bagaimana jua pun ianya berbangkit, selain daripada dengan sebab perbuatan salah-laku yang sengaja, keingkaran sengaja atau keabaian sengaja.
+(4) Walau apa pun apa-apa peruntukan lain Akta ini yang berlawanan, setiausaha pemastautin tidak boleh dikenakan apa-apa penalti yang diperuntukkan dalam Akta ini sebagai seorang pegawai syarikat kecuali bagi apa-apa yang dilakukan atau tidak dilakukan olehnya dalam menjalankan tugas-tugas jawatannya, dan setiausaha pemastautin itu tidak boleh
+
+<!-- marginal: juga ber- -->
+
+tanggungan bagi apa-apa kerugian yang disebabkan kepada atau ditanggung oleh mana-mana orang, walau bagaimana jua pun ianya berbangkit, selain daripada dengan sebab perbuatan salah-laku yang sengaja, keingkaran sengaja atau keabaian sengaja.
 
 (5) Suatu syarikat luar pesisir hendaklah dengan serta merta membayar apa-apa kos, caj dan perbelanjaan yang ditanggung oleh setiausaha pemastautin berkenaan dengan apa-apa yang dilakukan olehnya bagi pihak syarikat itu di bawah Akta ini.
 
@@ -3176,11 +3726,25 @@ suatu syarikat luar pesisir boleh memanggil mesyuarat anggota-anggota syarikat i
 
 (c) jika dua daripada mereka atau lebih hadir dengan sendirinya atau melalui proksi, mereka hendaklah mengundi sebagai satu.
 
-Notis
+<!-- marginal: Notis -->
 
-96. (1) Tertakluk kepada apa-apa kehendak untuk mesyuarat memberi notis yang lebih panjang dalam memorandum anggota- anggota. atau perkara-perkara, pengarah-pengarah hendaklah memberi tidak kurang daripada tujuh hari notis mesyuarat kepada orang-orang yang, pada tarikh notis itu diberi, ternyata sebagai anggota-anggota dalam daftar anggota- anggota yang disebutkan dalam seksyen 105 dan yang berhak mengundi di mesyuarat itu.
+96. (1) Tertakluk kepada apa-apa kehendak untuk
 
-(2) Walau apa pun subseksyen (1), tetapi tertakluk kepada apa-apa batasan dalam memorandum atau
+<!-- marginal: mesyuarat -->
+
+memberi notis yang lebih panjang dalam memorandum
+
+<!-- marginal: anggota- -->
+
+<!-- marginal: anggota. -->
+
+atau perkara-perkara, pengarah-pengarah hendaklah memberi tidak kurang daripada tujuh hari notis mesyuarat kepada orang-orang yang, pada tarikh notis itu diberi, ternyata sebagai anggota-anggota dalam daftar anggota- anggota yang disebutkan dalam seksyen 105 dan yang berhak mengundi di mesyuarat itu.
+
+(2) Walau apa pun subseksyen (1), tetapi
+
+<!-- marginal: tertakluk -->
+
+kepada apa-apa batasan dalam memorandum atau
 
 <!-- page 112 -->
 
@@ -3294,15 +3858,37 @@ suatu tindakan yang boleh diambil oleh anggota-anggota
 
 <!-- page 115 -->
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-100. (1) Jika kerana apa-apa sebab, adalah tidak praktik Mahkamah untuk memanggil suatu mesyuarat mengikut apa-apa cara untuk memerintah- yang mesyuarat-mesyuarat boleh dipanggil atau untuk kan mesyuarat menjalankan mesyuarat itu mengikut cara yang ditetapkan dipanggil. oleh perkara-perkara atau Akta ini, Mahkamah boleh, sama ada atas usulnya sendiri atau atas permohonan mana-mana pengarah atau mana-mana anggota yang berhak mengundi di mesyuarat itu atau atas permohonan wakil" diri mana-mana anggota itu, memerintahkan supaya suatu mesyuarat dipanggil, diadakan dan dijalankan mengikut cara yang difikirkannya patut, dan Mahkamah boleh memberi apa-apa arahan sampingan atau berbangkit yang difikirkannya suaimanfaat.
+100. (1) Jika kerana apa-apa sebab, adalah tidak praktik
+
+<!-- marginal: Mahkamah -->
+
+untuk memanggil suatu mesyuarat mengikut apa-apa cara
+
+<!-- marginal: untuk -->
+
+<!-- marginal: memerintah- -->
+
+yang mesyuarat-mesyuarat boleh dipanggil atau untuk
+
+<!-- marginal: kan mesyuarat -->
+
+menjalankan mesyuarat itu mengikut cara yang ditetapkan
+
+<!-- marginal: dipanggil. -->
+
+oleh perkara-perkara atau Akta ini, Mahkamah boleh, sama ada atas usulnya sendiri atau atas permohonan mana-mana pengarah atau mana-mana anggota yang berhak mengundi di mesyuarat itu atau atas permohonan wakil" diri mana-mana anggota itu, memerintahkan supaya suatu mesyuarat dipanggil, diadakan dan dijalankan mengikut cara yang difikirkannya patut, dan Mahkamah boleh memberi apa-apa arahan sampingan atau berbangkit yang difikirkannya suaimanfaat.
 
 (2) Suatu mesyuarat yang dipanggil, diadakan dan dijalankan menurut apa-apa arahan yang dibuat menurut seksyen ini hendaklah, bagi semua maksud, disifatkan sebagai -suatu mesyuarat yang telah dipanggil, diadakan dari dijalankan sewajarnya.
 
-Ketetapan
+<!-- marginal: Ketetapan -->
 
-101. (1) Suatu ketetapan hendaklah menjadi suatu khas. ketetapan khas apabila ketetapan itu telah diluluskan oleh suatu majoriti yang tidak kurang daripada tiga perempat daripada anggota-anggota, yang berhak berbuat demikian, mengundi dengan sendirinya atau, jika proksi dibenarkan, melalui proksi, di suatu mesyuarat anggota- anggota yang notis tidak kurang daripada dua puluh satu hari yang menyatakan niat hendak mencadangkan ketetapan itu sebagai suatu ketetapan khas telah diberi- kan dengan sewajarnya.
+101. (1) Suatu ketetapan hendaklah menjadi suatu
+
+<!-- marginal: khas. -->
+
+ketetapan khas apabila ketetapan itu telah diluluskan oleh suatu majoriti yang tidak kurang daripada tiga perempat daripada anggota-anggota, yang berhak berbuat demikian, mengundi dengan sendirinya atau, jika proksi dibenarkan, melalui proksi, di suatu mesyuarat anggota- anggota yang notis tidak kurang daripada dua puluh satu hari yang menyatakan niat hendak mencadangkan ketetapan itu sebagai suatu ketetapan khas telah diberi- kan dengan sewajarnya.
 
 (2) Walau apa pun subseksyen (1), jika adalah dipersetujui oleh sebilangan majoriti anggota yang mempunyai hak mengundi di mesyuarat itu, ia itu suatu majoriti yang bersama-sama memegang pada agregatnya tidak kurang daripada tujuh puluh lima peratus jumlah undi anggota-anggota yang berhak mengundi, suatu ketetapan bolehlah dicadangkan dan diluluskan sebagai suatu ketetapan khas di suatu mesyuarat yang notis tidak kurang daripada dua puluh satu hari telah diberikan.
 
@@ -3406,9 +3992,11 @@ menyimpan suatu daftar anggota-anggota dan menca-
 
 tatkan di dalamnya—
 
-(a) nama, kerakyatan dan alamat, dan apa-apa maklumat dan butir-butir lain yang relevan anggota-anggota, dan suatu pernyataan mengenai syer-syer yang dipegang oleh setiap anggota, dengan membezakan setiap syer melalui nombornya (jika ada) atau melalui nombor (jika ada) perakuan yang membuktikan pemegangan anggota itu dan mengenai amaun yang dibayar atau yang dipersetujui untuk dianggap telah dibayar ke atas syer-syer setiap anggota;
+(a) nama, kerakyatan dan alamat, dan apa-apa maklumat dan butir-butir lain yang
 
-(b) tarikh yang nama setiap orang telah, dicatatkan di dalam daftar sebagai seorang anggota;
+<!-- marginal: relevan -->
+
+anggota-anggota, dan suatu pernyataan mengenai syer-syer yang dipegang oleh setiap anggota, dengan membezakan setiap syer melalui nombornya (jika ada) atau melalui nombor (jika ada) perakuan yang membuktikan pemegangan anggota itu dan mengenai amaun yang dibayar atau yang dipersetujui untuk dianggap telah dibayar ke atas syer-syer setiap anggota; (b) tarikh yang nama setiap orang telah, dicatatkan di dalam daftar sebagai seorang anggota;
 
 (c) tarikh yang mana-mana orang yang terhenti menjadi anggota dalam masa tujuh tahun yang dahulu telah terhenti menjadi anggota sedemikian; dan
 
@@ -3424,21 +4012,53 @@ dimasukkan di dalamnya sebagaimana yang dikehendaki atau dibenarkan oleh Akta in
 
 Penalti: Dua ribu ringgit. Penalti ingkar.
 
-Di mana
+<!-- marginal: Di mana -->
 
-106. (1) Melainkan jika Pendaftar mengarahkan daftar selainnya, daftar anggota-anggota suatu syarikat luar hendak disimpan. pesisir hendaklah disimpan di pejabat berdaftar syarikat itu dan hendaklah terbuka untuk diperiksa oleh mana- mana anggota tanpa caj.
+106. (1) Melainkan jika Pendaftar mengarahkan
+
+<!-- marginal: daftar -->
+
+selainnya, daftar anggota-anggota suatu syarikat luar
+
+<!-- marginal: hendak -->
+
+<!-- marginal: disimpan. -->
+
+pesisir hendaklah disimpan di pejabat berdaftar syarikat itu dan hendaklah terbuka untuk diperiksa oleh mana- mana anggota tanpa caj.
 
 (2) Tiap-tiap syarikat luar pesisir hendaklah, dalam masa dua hari selepas daftar itu mula-mula disimpan di suatu tempat selain daripada pejabat berdaftar syarikat itu, menyerahkan kepada Pendaftar, notis mengenai tempat di mana daftar itu disimpan dan syarikat itu hendaklah, dalam masa empat belas hari selepas apa-apa pertukaran tempat di mana daftar itu disimpan, menyerahkan kepada Pendaftar notis mengenai pertukaran itu.
 
-Akibat-
+<!-- marginal: Akibat- -->
 
-107. Jika daftar anggota-anggota disimpan di tempat akibat selain daripada pejabat berdaftar syarikat luar pesisir dan keingkaran oleh ejen. oleh sebab apa-apa keingkaran orang yang ber- tanggungjawab ke atas pejabat itu syarikat itu gagal mematuhi seksyen 106 atau apa-apa kehendak lain Akta ini mengenai pengemukaan daftar itu, orang itu bolehlah dikenakah penalti yang sama seolah-olah dia adalah seorang pegawai syarikat yang ingkar itu.
+107. Jika daftar anggota-anggota disimpan di tempat
 
-Kuasa
+<!-- marginal: akibat -->
 
-108. (1) Jika, berhubungan dengan suatu syarikat luar Mahkamah pesisir— untuk membetulkan
+selain daripada pejabat berdaftar syarikat luar pesisir dan
 
-(a) nama mana-mana orang adalah, tanpa sebab daftar. yang mencukupi, dicatatkan di dalam atau di
+<!-- marginal: keingkaran -->
+
+<!-- marginal: oleh ejen. -->
+
+oleh sebab apa-apa keingkaran orang yang ber- tanggungjawab ke atas pejabat itu syarikat itu gagal mematuhi seksyen 106 atau apa-apa kehendak lain Akta ini mengenai pengemukaan daftar itu, orang itu bolehlah dikenakah penalti yang sama seolah-olah dia adalah seorang pegawai syarikat yang ingkar itu.
+
+<!-- marginal: Kuasa -->
+
+108. (1) Jika, berhubungan dengan suatu syarikat luar
+
+<!-- marginal: Mahkamah -->
+
+pesisir—
+
+<!-- marginal: untuk -->
+
+<!-- marginal: membetulkan -->
+
+(a) nama mana-mana orang adalah, tanpa sebab
+
+<!-- marginal: daftar. -->
+
+yang mencukupi, dicatatkan di dalam atau di
 
 (b) berlaku keingkaran atau terjadi kelengahan yang tak berpatutan dalam mencatatkan ke dalam daftar itu, fakta mengenai mana-mana orang yang telah terhenti menjadi seorang anggota,
 
@@ -3530,31 +4150,71 @@ rekod-rekod lain yang sempurna yang akan menghuraikan dengan secukupnya transaks
 
 <!-- page 123 -->
 
-bahawa maklumat yang diperolehi oleh juruaudit itu semasa pemeriksaannya tidak akan didedahkan olehnya kecuali kepada pengarah itu.
+bahawa maklumat yang diperolehi oleh juruaudit itu semasa pemeriksaannya tidak akan didedahkan olehnya kecuali kepada pengarah itu. (5) Mana-mana pengarah suatu syarikat luar pesisir yang gagal untuk mengambil semua langkah yang munasabah untuk menjamin syarikat itu mematuhi kehendak-kehendak seksyen ini dan seksyen 112 dan 113, atau seorang pengarah pemastautin yang dengan tindakan sengajanya telah menyebabkan apa-apa keingkaran oleh syarikat itu di bawah seksyen-seksyen tersebut, adalah melakukan suatu kesalahan terhadap Akta ini.
 
-(5) Mana-mana pengarah suatu syarikat luar pesisir yang gagal untuk mengambil semua langkah yang munasabah untuk menjamin syarikat itu mematuhi kehendak-kehendak seksyen ini dan seksyen 112 dan 113, atau seorang pengarah pemastautin yang dengan tindakan sengajanya telah menyebabkan apa-apa keingkaran oleh syarikat itu di bawah seksyen-seksyen tersebut, adalah melakukan suatu kesalahan terhadap Akta ini.
+<!-- marginal: Akaun-akaun -->
 
-Akaun-akaun
+111. (1) Pengarah-pengarah suatu syarikat luar pesisir
 
-111. (1) Pengarah-pengarah suatu syarikat luar pesisir teraudit hendaklah menyebabkan akaun-akaun teraudit syarikat hendaklah dibentangkan dibentangkan di hadapan syarikat di suatu mesyuarat di mesyuarat. anggota-anggota tidak lebih daripada sembilan bulan selepas tarikh setakat mana akaun-akaun teraudit itu dibuat.
+<!-- marginal: teraudit -->
 
-(2) Suatu salinan akaun-akaun teraudit yang di- bentangkan di mesyuarat anggota-anggota hendaklah diserahkan kepada Pendaftar dalam masa satu bulan daripada tarikh ia dibentangkan.
+hendaklah menyebabkan akaun-akaun teraudit syarikat
 
-(3) Jika keingkaran berlaku pada mematuhi seksyen ini, syarikat luar pesisir itu dan tiap-tiap pegawai syarikat itu adalah melakukan suatu kesalahan terhadap Akta ini.
+<!-- marginal: hendaklah -->
+
+<!-- marginal: dibentangkan -->
+
+dibentangkan di hadapan syarikat di suatu mesyuarat
+
+<!-- marginal: di mesyuarat. -->
+
+anggota-anggota tidak lebih daripada sembilan bulan selepas tarikh setakat mana akaun-akaun teraudit itu dibuat.
+
+(2) Suatu salinan akaun-akaun teraudit yang di- bentangkan di mesyuarat anggota-anggota hendaklah diserahkan kepada Pendaftar dalam masa satu bulan daripada tarikh ia dibentangkan. (3) Jika keingkaran berlaku pada mematuhi seksyen ini, syarikat luar pesisir itu dan tiap-tiap pegawai syarikat itu adalah melakukan suatu kesalahan terhadap Akta ini.
 
 Penalti: Sepuluh ribu ringgit. Penalti ingkar.
 
-Akaun-akaun
+<!-- marginal: Akaun-akaun -->
 
-112. Suatu salinan tiap-tiap akaun yang teraudit yang teraudit hendak dibentangkan di hadapan suatu syarikat luar pesisir hendaklah dihantar di suatu mesyuarat anggota-anggotanya berserta suatu kepada salinan laporan juruaudit ke atas' akaun-akaun itu anggota- hendaklah, tidak kurang daripada empat belas hari anggota. sebelum tarikh mesyuarat itu, dihantar kepada semua anggota syarikat itu.
+112. Suatu salinan tiap-tiap akaun yang teraudit yang
+
+<!-- marginal: teraudit -->
+
+hendak dibentangkan di hadapan suatu syarikat luar pesisir
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: dihantar -->
+
+di suatu mesyuarat anggota-anggotanya berserta suatu
+
+<!-- marginal: kepada -->
+
+salinan laporan juruaudit ke atas' akaun-akaun itu
+
+<!-- marginal: anggota- -->
+
+hendaklah, tidak kurang daripada empat belas hari
+
+<!-- marginal: anggota. -->
+
+sebelum tarikh mesyuarat itu, dihantar kepada semua anggota syarikat itu.
 
 ## PENGGAL 2
 
 ## AUDIT
 
-Juruaudit
+<!-- marginal: Juruaudit -->
 
-113. (1) Pengarah-pengarah suatu syarikat luar pesisir, hendaklah dalam masa sembilan puluh hari ianya diperbadankan, dilantik. hendaklah melantik seseorang atau orang-orang sebagai juruaudit atau juruaudit-juruaudit syarikat itu.
+113. (1) Pengarah-pengarah suatu syarikat luar pesisir,
+
+<!-- marginal: hendaklah -->
+
+dalam masa sembilan puluh hari ianya diperbadankan,
+
+<!-- marginal: dilantik. -->
+
+hendaklah melantik seseorang atau orang-orang sebagai juruaudit atau juruaudit-juruaudit syarikat itu.
 
 <!-- page 124 -->
 
@@ -3576,9 +4236,7 @@ telah diberi kepada juruaudit dan Pendaftar, tetapi tidak
 
 <!-- marginal: juruaudit. -->
 
-sebaliknya, memberhentikan seorang juruaudit daripada jawatannya, tetapi hendaklah di mesyuarat di mana juruaudit itu diberhentikan atau di suatu mesyuarat anggota-anggota, yang diadakan dalam masa sebulan kemudiannya, melantik seorang juruaudit diluluskan untuk mengambil tempat juruaudit yang diberhentikan itu.
-
-(2) Seorang juruaudit suatu syarikat luar pesisir boleh, jika dia bukannya juruaudit tunggal, meletakkan jawatannya pada bila-bila masa tetapi seorang juruaudit tunggal suatu syarikat luar pesisir boleh meletakkan jawatannya di suatu mesyuarat anggota-anggota,sahaja.
+sebaliknya, memberhentikan seorang juruaudit daripada jawatannya, tetapi hendaklah di mesyuarat di mana juruaudit itu diberhentikan atau di suatu mesyuarat anggota-anggota, yang diadakan dalam masa sebulan kemudiannya, melantik seorang juruaudit diluluskan untuk mengambil tempat juruaudit yang diberhentikan itu. (2) Seorang juruaudit suatu syarikat luar pesisir boleh, jika dia bukannya juruaudit tunggal, meletakkan jawatannya pada bila-bila masa tetapi seorang juruaudit tunggal suatu syarikat luar pesisir boleh meletakkan jawatannya di suatu mesyuarat anggota-anggota,sahaja.
 
 (3) Jika seorang juruaudit memberi notis bertulis kepada pengarah-pengarah suatu syarikat luar pesisir bahawa dia berhasrat untuk meletakkan jawatannya, pengarah-pengarah hendaklah, dengan seberapa segera yang praktik, memanggil suatu mesyuarat anggota- anggota syarikat itu bagi maksud melantik seorang juruaudit bagi menggantikan juruaudit yang berhasrat untuk meletakkan jawatannya, dari apabila juruaudit yang lain telah dilantik, perletakan jawatannya itu akan berkuatkuasa,
 
@@ -3594,13 +4252,39 @@ syarikat luar pesisir boleh ditetapkan oleh pengarah- pengarah syarikat itu mela
 
 <!-- page 125 -->
 
-Juruaudit
+<!-- marginal: Juruaudit -->
 
-116. Seorang juruaudit suatu syarikat luar pesisir boleh bolehlah menghadiri dan bercakap di semua mesyuarat menghadiri mesyuarat- anggota-anggota syarikat itu. mesyuarat.
+116. Seorang juruaudit suatu syarikat luar pesisir
 
-Hak-hak
+<!-- marginal: boleh -->
 
-117. (1) Tiap-tiap juruaudit suatu syarikat luar pesisir dan hendaklah melaporkan kepada anggota-anggota syarikat kewajipan- kewajipan itu sama ada, pada pendapatnya, akaun-akaun syarikat itu juruaudit. telah disediakan dengan sempurna supaya memberi gambaran yang tepat dan adil mengenai hal ehwal syarikat itu.
+bolehlah menghadiri dan bercakap di semua mesyuarat
+
+<!-- marginal: menghadiri -->
+
+<!-- marginal: mesyuarat- -->
+
+anggota-anggota syarikat itu.
+
+<!-- marginal: mesyuarat. -->
+
+<!-- marginal: Hak-hak -->
+
+117. (1) Tiap-tiap juruaudit suatu syarikat luar pesisir
+
+<!-- marginal: dan -->
+
+hendaklah melaporkan kepada anggota-anggota syarikat
+
+<!-- marginal: kewajipan- -->
+
+<!-- marginal: kewajipan -->
+
+itu sama ada, pada pendapatnya, akaun-akaun syarikat itu
+
+<!-- marginal: juruaudit. -->
+
+telah disediakan dengan sempurna supaya memberi gambaran yang tepat dan adil mengenai hal ehwal syarikat itu.
 
 (2) Tiap-tiap juruaudit suatu syarikat luar pesisir adalah berhak untuk dikemukakan kepadanya suatu salinan memorandum dan perkara-perkara syarikat itu dan hendaklah membiasakan dirinya dengan terma-terma dan syarat-syarat yang terkandung di dalamnya.
 
@@ -3608,7 +4292,7 @@ Hak-hak
 
 ## PERKIRAAN DAN PEMBENTUKAN SEMULA
 
-Perkiraan.
+<!-- marginal: Perkiraan. -->
 
 118. (1) Dalam seksyen ini "perkiraan" ertinya—
 
@@ -3670,9 +4354,25 @@ membuat permohonan kepada Mahkamah untuk mendapatkan kelulusan bagi perkiraan ya
 
 (11) Suatu perkiraan hendaklah berkuatkuasa dari tarikh artikel-artikel perkiraan itu didaftarkan oleh Pendaftar atau pada apa-apa tarikh kemudian daripada itu, yang tidak melebihi tiga puluh hari dari tarikh artikel- artikel perkiraan itu didaftarkan dengan Pendaftar sebagaimana dinyatakan dalam artikel-artikel perkiraan itu.
 
-Peraturan-
+<!-- marginal: Peraturan- -->
 
-119. Menteri boleh membuat peraturan-peraturan bagi peraturan pengawasan dan kawalan transaksi-transaksi peng- berkenaan dengan ambilalihan dan penyatuan. pengambil- alihan dan penyatuan.
+119. Menteri boleh membuat peraturan-peraturan bagi
+
+<!-- marginal: peraturan -->
+
+pengawasan dan kawalan transaksi-transaksi peng-
+
+<!-- marginal: berkenaan -->
+
+<!-- marginal: dengan -->
+
+ambilalihan dan penyatuan.
+
+<!-- marginal: pengambil- -->
+
+<!-- marginal: alihan dan -->
+
+<!-- marginal: penyatuan. -->
 
 <!-- page 128 -->
 
@@ -3712,11 +4412,23 @@ pemindahan, urusan, perjanjian atau opsyen itu orang awam boleh mem- perolehi ke
 
 (b) menjalankan transaksi-transaksi yang tak disolisit yang diselesaikan dalam masa tiga puluh satu hari, yang bukannya satu daripada sebilangan transaksi yang serupa yang diulangi lebih daripada dua kali.
 
-Pendaftaran
+<!-- marginal: Pendaftaran -->
 
-121. (1) Suatu syarikat' luar pesisir tidak boleh syarikat luar tnempunyai suatu tempat perniagaan di Labuan atau pesisir asing. menjalankan perniagaan di Labuan melainkan jika ianya iidaftarkan sebagai suatu syarikat luar pesisir asing di bawah Bahagian ini, dan suatu syarikat luar pesisir yang bertindak, dan tiap-tiap pegawai syarikat itu yang membenarkan syarikat itu bertindak berlanggaran dengan subseksyen ini adalah melakukan suatu kesalahan terhadap Akta ini.
+121. (1) Suatu syarikat' luar pesisir tidak boleh
 
-(2) Tiap-tiap syarikat luar pesisir, sebelum menubuhkan tempat perniagaan, atau menjalankan perniagaan, di Labuan, hendaklah menyerahkan kepada Pendaftar bagi pendaftaran—
+<!-- marginal: syarikat luar -->
+
+tnempunyai suatu tempat perniagaan di Labuan atau
+
+<!-- marginal: pesisir asing. -->
+
+menjalankan perniagaan di Labuan melainkan jika ianya iidaftarkan sebagai suatu syarikat luar pesisir asing di bawah Bahagian ini, dan suatu syarikat luar pesisir yang bertindak, dan tiap-tiap pegawai syarikat itu yang membenarkan syarikat itu bertindak berlanggaran dengan subseksyen ini adalah melakukan suatu kesalahan terhadap Akta ini.
+
+(2) Tiap-tiap syarikat luar pesisir,
+
+<!-- marginal: sebelum -->
+
+menubuhkan tempat perniagaan, atau menjalankan perniagaan, di Labuan, hendaklah menyerahkan kepada Pendaftar bagi pendaftaran—
 
 (a) suatu salinan diperakui perakuan pemer- badanannya atau pendaftarannya di tempat ianya diperbadankan atau di tempat asalnya, atau suatu dokumen yang mempunyai kesan yang sama;
 
@@ -3748,13 +4460,41 @@ dan Pendaftar bolehlah, apabila dibayar fee yang ditetapkan, dan tertakluk kepad
 
 (5) Suatu syarikat luar pesisir asing hendaklah membayar fee tahunan dalam apa-apa amaun sebagaimana ditetapkan tidak lewat daripada tiga puluh hari dari setiap ulangtahun tarikh pendaftaran syarikat itu.
 
-Larangan
+<!-- marginal: Larangan -->
 
-122. (1) Suatu syarikat luar pesisir asing tidak boleh dan sekatan menjalankan di Labuan apa-apa perniagaan yang suatu ke atas syarikat luar syarikat luar pesisir dilarang menjalankan. pesisir asing. (2) Menteri boleh, melalui notis yang disiarkan dalam Warta, memerintahkan supaya mana-mana syarikat luar pesisir asing disekatkan daripada menjalankan di Labuan apa-apa perniagaan yang dinyatakan dan boleh, melalui notis yang disiarkan dalam Warta, mengenakan syarat- syarat ke atas apa-apa perniagaan dinyatakan yang boleh dijalankan oleh suatu syarikat luar pesisir asing di Labuan.
+122. (1) Suatu syarikat luar pesisir asing tidak boleh
 
-Pejabat
+<!-- marginal: dan sekatan -->
 
-123. (1) Tiap-tiap syarikat luar pesisir asing hendaklah, berdaftar pada bila-bila masa, mempunyai pejabat berdaftarnya di syarikat luar pesisir Labuan, dan pejabat itu hendaklah pejabat utama suatu asing. syarikat am amanah.
+menjalankan di Labuan apa-apa perniagaan yang suatu
+
+<!-- marginal: ke atas -->
+
+<!-- marginal: syarikat luar -->
+
+syarikat luar pesisir dilarang menjalankan.
+
+<!-- marginal: pesisir asing. -->
+
+(2) Menteri boleh, melalui notis yang disiarkan dalam Warta, memerintahkan supaya mana-mana syarikat luar pesisir asing disekatkan daripada menjalankan di Labuan apa-apa perniagaan yang dinyatakan dan boleh, melalui notis yang disiarkan dalam Warta, mengenakan syarat- syarat ke atas apa-apa perniagaan dinyatakan yang boleh dijalankan oleh suatu syarikat luar pesisir asing di Labuan.
+
+<!-- marginal: Pejabat -->
+
+123. (1) Tiap-tiap syarikat luar pesisir asing hendaklah,
+
+<!-- marginal: berdaftar -->
+
+pada bila-bila masa, mempunyai pejabat berdaftarnya di
+
+<!-- marginal: syarikat -->
+
+<!-- marginal: luar pesisir -->
+
+Labuan, dan pejabat itu hendaklah pejabat utama suatu
+
+<!-- marginal: asing. -->
+
+syarikat am amanah.
 
 (2) Notis dalam borang ditetapkan mengenai tempat letak pejabat berdaftar dan apa-apa pertukaran tempat itu hendaklah diserahkan kepada Pendaftar dalam masa satu bulan selepas tarikh pendaftaran syarikat luar pesisir asing itu atau dalam masa satu bulan daripada pertukaran itu, mengikut mana-mana yang berkenaan.
 
@@ -3806,9 +4546,19 @@ yang diserahkan kepada Pendaftar;
 
 (5) Jika suatu syarikat luar pesisir asing yang tidak mempunyai suatu modal syer menambah bilangan anggota-anggotanya sehingga melebihi bilangan yang didaftarkan, syarikat itu hendaklah, dalam masa tiga puluh hari selepas pertambahan itu ditetapkan atau berlaku, menyerahkan kepada Pendaftar notis mengenai pertambahan itu.
 
-Penyampaian
+<!-- marginal: Penyampaian -->
 
-125. Apa-apa. proses atau dokumen yang dikehendaki ke atas disampaikan ke atas sesuatu syarikat luar pesisir asing syarikat luar pesisir asing. adalah disampaikan dengan secukupnya jika proses atau dokumen itu dialamatkan kepada syarikat luar pesisir asing itu dan ditinggalkan di pejabat berdaftarnya di Labuan atau diposkan kepada pejabat berdaftarnya di Labuan tetapi—
+125. Apa-apa. proses atau dokumen yang dikehendaki
+
+<!-- marginal: ke atas -->
+
+disampaikan ke atas sesuatu syarikat luar pesisir asing
+
+<!-- marginal: syarikat luar -->
+
+<!-- marginal: pesisir asing. -->
+
+adalah disampaikan dengan secukupnya jika proses atau dokumen itu dialamatkan kepada syarikat luar pesisir asing itu dan ditinggalkan di pejabat berdaftarnya di Labuan atau diposkan kepada pejabat berdaftarnya di Labuan tetapi—
 
 (a) jika mana-mana syarikat sedemikian ingkar untuk menfailkan dengan Pendaftar nama dan alamat pejabat berdaftar yang dibenarkan menerima penyampaian proses atau notis bagi pihak syarikat itu;
 
@@ -3816,9 +4566,15 @@ Penyampaian
 
 (c) jika kerana apa-apa sebab lain penyampaian proses atau notis tidak boleh disempurnakan, dokumen itu bolehlah disampaikan ke atas syarikat'itu dengan meninggalkannya di, atau menghantarkannya kepada, mana-mana tempat perniagaan di Labuan yang ditubuhkan oleh syarikat itu, atau, jika tiada tempat perniagaan sedemikian telah ditubuhkan, dokumen itu bolehlah diserahkan ke atas syarikat itu melalui pos berdaftar di mana-mana tempat perniagaan syarikat itu di negara syarikat itu diperbadankan.
 
-Pemberhentian
+<!-- marginal: Pemberhentian -->
 
-126. Jika" suatu syarikat luar pesisir asing berhenti perniagaan daripada mempunyai tempat perniagaan atau menjalan- di Labuan.
+126. Jika" suatu syarikat luar pesisir asing berhenti
+
+<!-- marginal: perniagaan -->
+
+daripada mempunyai tempat perniagaan atau menjalan-
+
+<!-- marginal: di Labuan. -->
 
 <!-- page 134 -->
 
@@ -3876,7 +4632,11 @@ dibentuk atau diperbadankan, pelikuidasi yang dilantik oleh Pendaftar hendaklah�
 
 (a) membayar kepada Pendaftar semua penalti, kos, fee dan caj yang kena dibayar dan terhutang;
 
-(b) membayar amaun semua cukai yang kena Akta dibayar di bawah Akta Cukai Aktiviti Perniagaan Luar-Pesisir Labuan 1990; dan
+(b) membayar amaun semua cukai yang kena
+
+<!-- marginal: Akta -->
+
+dibayar di bawah Akta Cukai Aktiviti Perniagaan Luar-Pesisir Labuan 1990; dan
 
 (c) membayar kepada mana-mana orang yang bermastautin di Labuan apa-apa hutang yang bona fide ditanggung oleh suatu syarikat luar pesisir asing berkenaan dengan pembekalan khidmat kepada atau untuk syarikat luar pesisir asing itu, amaun hutang itu,
 
@@ -3884,9 +4644,17 @@ dan penalti, kos, fee, caj, cukai dan hutang sedemikian hendaklah menjadi suatu 
 
 (4) Peruntukan-peruntukan Bahagian X Akta Syarikat 1965 yang berhubungan dengan pemotongan nama-nama syarikat yang tak berfungsi daripada daftar hendaklah terpakai mutatis mutandis kepada suatu syarikat luar pesisir asing.
 
-Nama-nama
+<!-- marginal: Nama-nama -->
 
-128. (1) Kecuali dengan persetujuan Menteri, suatu syarikat luar syarikat luar pesisir asing tidak boleh didaftarkan dengan pesisir asing. nama yang pada pendapat Pendaftar adalah nama yang tak diingini atau adalah nama atau termasuk suatu nama yang daripada jenis yang Pendaftar selainnya enggan untuk menerima bagi pendaftaran.
+128. (1) Kecuali dengan persetujuan Menteri, suatu
+
+<!-- marginal: syarikat luar -->
+
+syarikat luar pesisir asing tidak boleh didaftarkan dengan
+
+<!-- marginal: pesisir asing. -->
+
+nama yang pada pendapat Pendaftar adalah nama yang tak diingini atau adalah nama atau termasuk suatu nama yang daripada jenis yang Pendaftar selainnya enggan untuk menerima bagi pendaftaran.
 
 (2) Jika suatu syarikat luar pesisir telah didaftarkan, sama ada secara tersilap atau selainnya, dengan suatu nama yang dengannya ia tidak patut didaftarkan, Pendaftar boleh, selepas memberi notis tiga puluh hari kepada syarikat luar pesisir asing itu, menghendaki syarikat itu menukar namanya, memotong syarikat itu daripada daftar apabila syarikat itu ingkar mematuhi kehendak Pendaftar.
 
@@ -3980,7 +4748,7 @@ IX
 
 <!-- marginal: dan peng- -->
 
-## Bahagian X (setakat mana ianya berhubungan dengan
+Bahagian X (setakat mana ianya berhubungan dengan
 
 <!-- marginal: gulungan. -->
 
@@ -3992,17 +4760,35 @@ IX
 
 suatu syarikat yang dihadkan oleh syer) Akta Syarikat 1965 adalah terpakai bagi penerimaan dan penggulungan sesuatu syarikat luar pesisir, tertakluk kepada apa-apa pengubahsuaian dan penyesuaian sebagaimana yang perlu, dan khususnya sebutan "syarikat" hendaklah dikira sebagai sebutan mengenai syarikat luar pesisir.
 
-P.U
+<!-- marginal: P.U -->
 
-(A) (2) Kaedah-Kaedah Syarikat (Penggulungan) 1972 289/72. adalah juga terpakai bagi penggulungan sesuatu syarikat luar pesisir, tertakluk kepada apa-apa pengubahsuaian dan penyesuaian yang perlu dan khususnya sebutan "syarikat" hendaklah dikira sebagai sebutan mengenai syarikat luar pesisir.
+(A) (2) Kaedah-Kaedah Syarikat (Penggulungan) 1972
 
-Penyampaian
+<!-- marginal: 289/72. -->
 
-132. Apa-apa dokumen bolehlah disampaikan ke atas dokumen suatu syarikat luar pesisir atau syarikat luar pesisir asing ke atas syarikat. dengan meninggalkannya, atau menghantarkannya melalui pos kepada, pejabat berdaftar syarikat itu.
+adalah juga terpakai bagi penggulungan sesuatu syarikat luar pesisir, tertakluk kepada apa-apa pengubahsuaian dan penyesuaian yang perlu dan khususnya sebutan "syarikat" hendaklah dikira sebagai sebutan mengenai syarikat luar pesisir.
 
-Pemindahan
+<!-- marginal: Penyampaian -->
 
-133. (1) Suatu syarikat luar pesisir boleh, apabila ke Labuan. mendapat kelulusan Pendaftar dan dalam masa dua bulan dari tarikh kelulusan itu didapati, memohon kepada pegawai yang hak negara lain atau pegawai yang hak bidang kuasa dalam negara itu, yang menurut undang- undangnya, pemindahan sedemikian dibenarkan, bagi suatu suratcara untuk memindahkan syarikat itu seolah- olah syarikat itu telah diperbadankan di bawah undang- undang negara atau bidang kuasa lain itu, dan pada tarikh suratcara pemindahan itu, syarikat itu hendaklah, tertakluk kepada peruntukan-peruntukan seksyen ini, menjadi suatu syarikat di bawah undang-undang negara atau bidang kuasa itu dan yang didomisilkan di negara atau bidang kuasa itu.
+132. Apa-apa dokumen bolehlah disampaikan ke atas
+
+<!-- marginal: dokumen -->
+
+suatu syarikat luar pesisir atau syarikat luar pesisir asing
+
+<!-- marginal: ke atas -->
+
+<!-- marginal: syarikat. -->
+
+dengan meninggalkannya, atau menghantarkannya melalui pos kepada, pejabat berdaftar syarikat itu.
+
+<!-- marginal: Pemindahan -->
+
+133. (1) Suatu syarikat luar pesisir boleh, apabila
+
+<!-- marginal: ke Labuan. -->
+
+mendapat kelulusan Pendaftar dan dalam masa dua bulan dari tarikh kelulusan itu didapati, memohon kepada pegawai yang hak negara lain atau pegawai yang hak bidang kuasa dalam negara itu, yang menurut undang- undangnya, pemindahan sedemikian dibenarkan, bagi suatu suratcara untuk memindahkan syarikat itu seolah- olah syarikat itu telah diperbadankan di bawah undang- undang negara atau bidang kuasa lain itu, dan pada tarikh suratcara pemindahan itu, syarikat itu hendaklah, tertakluk kepada peruntukan-peruntukan seksyen ini, menjadi suatu syarikat di bawah undang-undang negara atau bidang kuasa itu dan yang didomisilkan di negara atau bidang kuasa itu.
 
 (2) Suatu syarikat luar pesisir tidak boleh memohon kepada Pendaftar bagi kelulusan di bawah subseksyen (1) melainkan jika—
 
@@ -4048,9 +4834,15 @@ Dengan syarat bahawa tiada apa-apa dalam subseksyen ini boleh mengambil atau men
 
 (b) syarikat itu bolehlah digulung menurut peruntukan-peruntukan Akta ini seolah-olah syarikat itu masih didaftarkan di bawah Akta ini.
 
-Kos prosiding
+<!-- marginal: Kos prosiding -->
 
-134. Mahkamah boleh, berkenaan dengan apa-apa di hadapan prosiding di hadapannya di bawah Akta ini mengarahkan, Mahkamah.
+134. Mahkamah boleh, berkenaan dengan apa-apa
+
+<!-- marginal: di hadapan -->
+
+prosiding di hadapannya di bawah Akta ini mengarahkan,
+
+<!-- marginal: Mahkamah. -->
 
 <!-- page 140 -->
 
@@ -4090,9 +4882,17 @@ berdaftar bagi suatu tempoh yang tidak kurang daripada' sepuluh tahun, syarikat 
 
 ## RANG UNDANG-UNDANG
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-137. (1) Dalam apa-apa prosiding bagi kecuaian, memben keingkaran, kemungkiran kewajipan, atau pecah amanah relief. terhadap seseorang yang baginya seksyen ini terpakai, jika ternyata kepada Mahkamah yang di hadapannya prosiding diambil bahawa orang itu adalah atau boleh ber- tanggungan berkenaan dengan kecuaian, keingkaran, kemungkiran kewajipan atau pecah amanah itu, tetapi orang itu telah bertindak dengan jujur dan munasabah dan bahawa, dengan mengambil kira semua hal keadaan kes itu, termasuk hal-hal keadaan yang berkaitan dengan perlantikan orang itu, adalah adil orang itu dimaafkan bagi kecuaian, keingkaran atau kemungkiran atau pecah amanah itu, Mahkamah boleh melepaskan orang itu daripada tanggungannya, sama ada sepenuhnya atau sebahagiannya, atas apa-apa terma sebagaimana yang difikirkan patut oleh Mahkamah.
+137. (1) Dalam apa-apa prosiding bagi kecuaian,
+
+<!-- marginal: memben -->
+
+keingkaran, kemungkiran kewajipan, atau pecah amanah
+
+<!-- marginal: relief. -->
+
+terhadap seseorang yang baginya seksyen ini terpakai, jika ternyata kepada Mahkamah yang di hadapannya prosiding diambil bahawa orang itu adalah atau boleh ber- tanggungan berkenaan dengan kecuaian, keingkaran, kemungkiran kewajipan atau pecah amanah itu, tetapi orang itu telah bertindak dengan jujur dan munasabah dan bahawa, dengan mengambil kira semua hal keadaan kes itu, termasuk hal-hal keadaan yang berkaitan dengan perlantikan orang itu, adalah adil orang itu dimaafkan bagi kecuaian, keingkaran atau kemungkiran atau pecah amanah itu, Mahkamah boleh melepaskan orang itu daripada tanggungannya, sama ada sepenuhnya atau sebahagiannya, atas apa-apa terma sebagaimana yang difikirkan patut oleh Mahkamah.
 
 (2) Jika mana-mana orang yang baginya seksyen ini terpakai mempunyai sebab untuk menyangka bahawa apa- apa tuntutan akan atau mungkin dibuat terhadapnya berkenaan dengan apa-apa kecuaian, keingkaran, kemungkiran kewajipan atau pecah amanah, orang itu boleh memohon kepada Mahkamah untuk mendapatkan relief, dan Mahkamah itu hendaklah mempunyai semua kuasa untuk memberi relief kepada orang itu di bawah seksyen ini sebagaimana yang Mahkamah itu mempunyai kuasa sekiranya Mahkamah itu adalah Mahkamah yang di hadapannya prosiding terhadap orang itu bagi kecuaian, keingkaran, kemungkiran kewajipan atau pecah amanah telah dibawa.
 
@@ -4174,11 +4974,35 @@ kepada Pendaftar apa-apa suratcara, perakuan, kontrak atau dokumen atau suatu sa
 
 <!-- page 145 -->
 
-Dividen hanya 140. Tiada dividen boleh dibayar kepada mana-mana boleh dibayar pemegang syer mana-mana syarikat luar pesisir kecuali daripada keuntungan. daripada keuntungan.
+<!-- marginal: Dividen hanya -->
 
-Penggunaan 141. Tiap-tiap orang yang menjalankan perniagaan di perkataan Labuan di bawah apa-apa nama atau gelaran yang "corporation" dsb. mengandungi perkataan atau perkataan-perkataan "Berhad", "Corporation", "Incorporated", "Limited", "Societe Anonyme" atau "Socieded Anonima" atau apa- apa perkataan atau perkataan-perkataan lain dalam bahasa kebangsaan mana-mana negara yang memberi maksud suatu syarikat saham bersama yang dihadkan oleh syer, atau apa-apa singkatan perkataan-perkataan tersebut, melainkan jika orang itu adalah syarikat luar pesisir atau syarikat luar pesisir asing yang diwujudkan, di- perbadankan atau didaftarkan sewajarnya di bawah Akta ini, atau adalah syarikat domestik atau badan diper- badankan, adalah melakukan kesalahan terhadap Akta ini.
+140. Tiada dividen boleh dibayar kepada mana-mana
 
-Penalti am.
+<!-- marginal: boleh dibayar -->
+
+pemegang syer mana-mana syarikat luar pesisir kecuali
+
+<!-- marginal: daripada -->
+
+<!-- marginal: keuntungan. -->
+
+daripada keuntungan.
+
+<!-- marginal: Penggunaan -->
+
+141. Tiap-tiap orang yang menjalankan perniagaan di
+
+<!-- marginal: perkataan -->
+
+Labuan di bawah apa-apa nama atau gelaran yang
+
+<!-- marginal: "corporation" -->
+
+<!-- marginal: dsb. -->
+
+mengandungi perkataan atau perkataan-perkataan "Berhad", "Corporation", "Incorporated", "Limited", "Societe Anonyme" atau "Socieded Anonima" atau apa- apa perkataan atau perkataan-perkataan lain dalam bahasa kebangsaan mana-mana negara yang memberi maksud suatu syarikat saham bersama yang dihadkan oleh syer, atau apa-apa singkatan perkataan-perkataan tersebut, melainkan jika orang itu adalah syarikat luar pesisir atau syarikat luar pesisir asing yang diwujudkan, di- perbadankan atau didaftarkan sewajarnya di bawah Akta ini, atau adalah syarikat domestik atau badan diper- badankan, adalah melakukan kesalahan terhadap Akta ini.
+
+<!-- marginal: Penalti am. -->
 
 142. (1) Seseorang yang—
 
@@ -4278,7 +5102,7 @@ dalam Warta—
 
 (2) Arahan yang dibuat di bawah seksyen ini boleh dibatalkan atau diubah oleh Menteri.
 
-Kerahsiaan.
+<!-- marginal: Kerahsiaan. -->
 
 149. (1) Semua prosiding (selain daripada prosiding jenayah) yang berhubungan dengan mana-mana syarikat luar pesisir atau syarikat luarpesisir asing yang dimulakan di mana-mana Mahkamah, sama ada di bawah peruntukan- peruntukan Akta ini atau semata-mata bagi maksud menentukan hak-hak atau obligasi-obligasi pegawai- pegawai, anggota-anggota atau pemegang-pemegang debentur, dan apa-apa rayuan ke atas prosiding itu, hendaklah, melainkan Mahkamah memerintahkan sebaliknya, didengar in camera dan tiada detail prosiding itu boleh disiarkan oleh mana-mana orang tanpa kebenaran Mahkamah.
 
@@ -4418,9 +5242,7 @@ pemerbadanan dan tiap-tiap syarikat luar pesisir yang diperbadankan, adalah suat
 
 ## BAHAGIAN
 
-IV
-
-14. Bahagian IV berhubungan dengan terbitan syer-syer dan debentur-debentur, dan daftar gadaian. Bahagian ini dibahagikan kepada tujuh penggal.
+IV 14. Bahagian IV berhubungan dengan terbitan syer-syer dan debentur-debentur, dan daftar gadaian. Bahagian ini dibahagikan kepada tujuh penggal.
 
 <!-- page 155 -->
 
@@ -4446,9 +5268,7 @@ kepada suatu syarikat luar pesisir untuk menerbit berbagai kelas syer dan nilai 
 
 ## RANG UNDANG-UNDANG
 
-semula dengan serta merta jika ia tidak digunakan bagi maksud yang ditujukan.
-
-19. Penggal 5 berhubungan dengan kepentingan-kepentingan lain dalam suatu syarikat luar pesisir selain daripada syer dan debentur. Fasal 66 adalah fasal tafsiran. Fasal 67 menghendaki suatu suratikatan diluluskan oleh Pendaftar sebelum ia disifatkan sebagai suatu suratikatan diluluskan bagi maksud-maksud Penggal itu. Fasal 68 memberikuasa kepada Pendaftar untuk meluluskan suatu suratikatan di bawah syarat-syarat tertentu yang dinyatakan. Fasal 69 melarang mana-mana orang, selain daripada suatu syarikat luar pesisir atau suatu syarikat luar pesisir asing atau ejennya, daripada membuat apa-apa pelawaan kepada awam untuk memohon beli atau membeli apa-apa kepentingan. Fasal 70 menghendaki suatu syarikat luar pesisir atau suatu syarikat luar pesisir asing mengeluarkan suatu pernyataan sebelum apa-apa pelawaan kepentingan dibuat kepada awam. Fasal 71 melarang penerbitan, atau pelawaan untuk memohon- beli atau membeli, suatu kepentingan dalam suatu syarikat luar pesisir tanpa suatu suratikatan diluluskan. Fasal 72 menghendaki syarikat pengurusan menyenggara suatu daftar pemegang-pemegang kepentingan yang mengandungi butir-butir yang dinyatakan di dalamnya. Fasal 73 memperuntukkan penalti-penalti bagi kegagalan mematuhi peruntukan-peruntukan Penggal ini. Fasal 74 memberikuasa kepada suatu syarikat amanah untuk memanggil suatu mesyuarat pemegang-pemegang kepentingan bagi maksud-maksud penggulungan jika mengikut pendapatnya syarikat pengurusan telah berhenti menjalankan perniagaan atau telah, sehingga menjejaskan pemegang-pemegang kepentingan, gagal mematuhi suratikatan itu. Fasal 75 bertujuan mentaksahkan apa-apa peruntukan yang mengecualikan seseorang pemegang amanah atau wakil daripada tanggungan terhadap pecah amanah.
+semula dengan serta merta jika ia tidak digunakan bagi maksud yang ditujukan. 19. Penggal 5 berhubungan dengan kepentingan-kepentingan lain dalam suatu syarikat luar pesisir selain daripada syer dan debentur. Fasal 66 adalah fasal tafsiran. Fasal 67 menghendaki suatu suratikatan diluluskan oleh Pendaftar sebelum ia disifatkan sebagai suatu suratikatan diluluskan bagi maksud-maksud Penggal itu. Fasal 68 memberikuasa kepada Pendaftar untuk meluluskan suatu suratikatan di bawah syarat-syarat tertentu yang dinyatakan. Fasal 69 melarang mana-mana orang, selain daripada suatu syarikat luar pesisir atau suatu syarikat luar pesisir asing atau ejennya, daripada membuat apa-apa pelawaan kepada awam untuk memohon beli atau membeli apa-apa kepentingan. Fasal 70 menghendaki suatu syarikat luar pesisir atau suatu syarikat luar pesisir asing mengeluarkan suatu pernyataan sebelum apa-apa pelawaan kepentingan dibuat kepada awam. Fasal 71 melarang penerbitan, atau pelawaan untuk memohon- beli atau membeli, suatu kepentingan dalam suatu syarikat luar pesisir tanpa suatu suratikatan diluluskan. Fasal 72 menghendaki syarikat pengurusan menyenggara suatu daftar pemegang-pemegang kepentingan yang mengandungi butir-butir yang dinyatakan di dalamnya. Fasal 73 memperuntukkan penalti-penalti bagi kegagalan mematuhi peruntukan-peruntukan Penggal ini. Fasal 74 memberikuasa kepada suatu syarikat amanah untuk memanggil suatu mesyuarat pemegang-pemegang kepentingan bagi maksud-maksud penggulungan jika mengikut pendapatnya syarikat pengurusan telah berhenti menjalankan perniagaan atau telah, sehingga menjejaskan pemegang-pemegang kepentingan, gagal mematuhi suratikatan itu. Fasal 75 bertujuan mentaksahkan apa-apa peruntukan yang mengecualikan seseorang pemegang amanah atau wakil daripada tanggungan terhadap pecah amanah.
 
 20. Penggal 6 berhubungan dengan hakmilik dan pemindahan. Fasal 76 menyatakan jenis syer yang diterbitkan oleh suatu syarikat luar pesisir. Fasal 77 menghendaki setiap syer suatu syarikat luar pesisir mempunyai suatu nombor yang tersendiri yang mana ia boleh dibezakan. Walau bagaimanapun penomboran itu boleh dikecualikan dalam hal-keadaan tertentu sebagaimana yang diperuntukkan dalam fasal tersebut. Fasal 78 adalah berkenaan dengan nilai keterangan dan bentuk-bentuk perakuan syer. Fasal 79 membenarkan suatu syarikat luar pesisir mempunyai suatu meterai syer bagi maksud- maksud perakuan syernya. Fasal 80 menghalang suatu syarikat luar pesisir daripada mendaftar suatu pemindahan syer atau debentur melainkan suatu suratcara pemindahan yang sewajarnya telah diserahkan kepada syarikat. Fasal itu juga membenarkan pemindahan syer atau debentur oleh wakil-wakil persendirian. Fasal 81 menghendaki suatu syarikat luar pesisir mengeluarkan perakuan syer dalam tempoh dua bulan selepas pengumpukannya dan untuk menyempurnakan apa-apa pemindahan syer dalam tempoh satu bulan.
 

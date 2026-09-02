@@ -1918,157 +1918,217 @@ Family Scientific Name
 
 ## CLASS MAMMALIA (MAMMALS)
 
-Cercopithecidae Presbytis melalophos Banded-leaf Monkey (Old world monkeys) Trachypithecus cristatus Silvered-leaf Monkey Trachypithecus obscurus Dusky-leaf Monkey Cervidae Muntiacus muntjak Barking Deer (Deer, guemals, muntjacs, Rusa unicolor Sambar Deer pudus) Hystricidae Atherurus macrourus Brush-tailed Porcupine (Crested porcupine) Hystrix brachyura Malayan Porcupine Pteropodidae Pteropus hypomelanus Island Flying Fox (Fruit bats, flying foxes) Pteropus vampyrus Malayan Flying Fox Suidae Sus scrofa Wild Pig (Babirusa, pygmy hog) Tragulidae Tragulus javanicus Lesser Mouse Deer (Mouse-deer) Tragulus napu Large Mouse Deer Viverridae Paradoxurus hermaphroditus Common Palm Civet (Binturong, civets,linsang, Viverra tangalunga Malay Civet otter civet, palm civet)
+Cercopithecidae Presbytis melalophos
+
+<!-- marginal: Banded-leaf Monkey -->
+
+(Old world monkeys) Trachypithecus cristatus
+
+<!-- marginal: Silvered-leaf Monkey -->
+
+Trachypithecus obscurus
+
+<!-- marginal: Dusky-leaf Monkey -->
+
+Cervidae Muntiacus muntjak
+
+<!-- marginal: Barking Deer -->
+
+(Deer, guemals, muntjacs, Rusa unicolor
+
+<!-- marginal: Sambar Deer -->
+
+pudus) Hystricidae Atherurus macrourus
+
+<!-- marginal: Brush-tailed Porcupine -->
+
+(Crested porcupine) Hystrix brachyura
+
+<!-- marginal: Malayan Porcupine -->
+
+Pteropodidae Pteropus hypomelanus
+
+<!-- marginal: Island Flying Fox -->
+
+(Fruit bats, flying foxes) Pteropus vampyrus
+
+<!-- marginal: Malayan Flying Fox -->
+
+Suidae Sus scrofa
+
+<!-- marginal: Wild Pig -->
+
+(Babirusa, pygmy hog) Tragulidae Tragulus javanicus
+
+<!-- marginal: Lesser Mouse Deer -->
+
+(Mouse-deer) Tragulus napu
+
+<!-- marginal: Large Mouse Deer -->
+
+Viverridae Paradoxurus hermaphroditus
+
+<!-- marginal: Common Palm Civet -->
+
+(Binturong, civets,linsang, Viverra tangalunga
+
+<!-- marginal: Malay Civet -->
+
+otter civet, palm civet)
 
 ## CLASS AVES (BIRDS)
 
-Charadriidae Charadrius asiaticus Eastern Dotteral (Plovers) Columbidae Chalcophaps indica Emerald Dove (Doves, pigeons) Treron olax Little Green Pigeon Treron vernans Pink-necked Green Pigeon Dromadidae Dromas ardeola Crab Plover (Crab plover) Phasianidae Coturnix chinensis Painted Quail (Grouse, guineafowl, Gallus gallus Red Jungle Fowl partridges, pheasants, tragopans) Rallidae Amaurornis phoenicurus White-breasted Waterhen
+Charadriidae Charadrius asiaticus
 
-(Rail) Poliolimnas cinereus White-browed Rail Turdidae Caladris minutillus Long-toed Stint (Thrushes) Capella gallinago Common Snipe Capella nemoricola Wood Snipe Glaveola pratincola Collared Pratincole
+<!-- marginal: Eastern Dotteral -->
+
+(Plovers) Columbidae Chalcophaps indica
+
+<!-- marginal: Emerald Dove -->
+
+(Doves, pigeons) Treron olax
+
+<!-- marginal: Little Green Pigeon -->
+
+Treron vernans
+
+<!-- marginal: Pink-necked Green Pigeon -->
+
+Dromadidae Dromas ardeola
+
+<!-- marginal: Crab Plover -->
+
+(Crab plover) Phasianidae Coturnix chinensis
+
+<!-- marginal: Painted Quail -->
+
+(Grouse, guineafowl, Gallus gallus
+
+<!-- marginal: Red Jungle Fowl -->
+
+partridges, pheasants, tragopans) Rallidae Amaurornis phoenicurus
+
+<!-- marginal: White-breasted Waterhen -->
+
+(Rail) Poliolimnas cinereus
+
+<!-- marginal: White-browed Rail -->
+
+Turdidae Caladris minutillus
+
+<!-- marginal: Long-toed Stint -->
+
+(Thrushes) Capella gallinago
+
+<!-- marginal: Common Snipe -->
+
+Capella nemoricola
+
+<!-- marginal: Wood Snipe -->
+
+Glaveola pratincola
+
+<!-- marginal: Collared Pratincole -->
 
 <!-- page 67 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
-
-Heteroscelus incanus
-
-<!-- marginal: Wandering Tattler -->
-
-Sphenurus seimundi
-
-<!-- marginal: Seimund’s Pintail Pigeon -->
+Scientific Name Common Name Heteroscelus incanus Wandering Tattler Sphenurus seimundi Seimund’s Pintail Pigeon
 
 ## PART 2
 
 ## (OTHER)
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
+Scientific Name Common Name
 
 ## CLASS MAMMALIA (MAMMALS)
 
-Aotidae Aotus spp.
+<!-- marginal: Aotidae -->
 
-<!-- marginal: Night monkeys -->
+Aotus spp. Night monkeys
 
-(Night monkeys) Atelidae Alouatta spp. (except the
+<!-- marginal: (Night monkeys) -->
 
-<!-- marginal: Howling Monkey -->
+<!-- marginal: Atelidae -->
 
-(Howling Monkey, Spider species included in the Second Monkey, Woolly Monkey)
+Alouatta spp. (except the Howling Monkey
+
+<!-- marginal: (Howling Monkey, Spider -->
+
+species included in the Second
+
+<!-- marginal: Monkey, Woolly Monkey) -->
 
 ## Schedule)
 
-Ateles spp. (except the
-
-<!-- marginal: Spider Monkey -->
-
-subspecies included in the
+Ateles spp. (except the Spider Monkey subspecies included in the
 
 ## Second Schedule)
 
-Lagothrix spp.
+Lagothrix spp. Woolly Monkey
 
-<!-- marginal: Woolly Monkey -->
+<!-- marginal: Bovidae -->
 
-Bovidae Ammotragus lervia
+Ammotragus lervia Barbary Sheep
 
-<!-- marginal: Barbary Sheep -->
+<!-- marginal: (Antelopes, cattle, duikers, -->
 
-(Antelopes, cattle, duikers, Antilope cervicapra
+Antilope cervicapra Blackbuck
 
-<!-- marginal: Blackbuck -->
+<!-- marginal: gazelles, goats, sheep) -->
 
-gazelles, goats, sheep) Bison bison athabascae
-
-<!-- marginal: Wood Bison -->
-
-Bubalus arnee
-
-<!-- marginal: Wild Asiatic Buffalo -->
-
-Budorcas taxicolor
-
-<!-- marginal: Takin -->
-
-Cephalophus brookei
-
-<!-- marginal: Duiker -->
-
-Cephalophus dorsalis
-
-<!-- marginal: Bay Duiker -->
-
-Cephalophus ogilbyi
-
-<!-- marginal: Ogilby’s Duiker -->
-
-Cephalophus silvicultor
-
-<!-- marginal: Yellow-backed Duiker -->
-
-Cephalophus zebra
-
-<!-- marginal: Banded Duiker -->
-
-Damaliscus pygargus pygargus Bontebok Gazella dorcas
-
-<!-- marginal: Dorcas Gazelle -->
-
-Kobus leche
-
-<!-- marginal: Lechwe -->
-
-Ovis ammon (except the
-
-<!-- marginal: Argali -->
-
-subspecies included in the
+Bison bison athabascae Wood Bison Bubalus arnee Wild Asiatic Buffalo Budorcas taxicolor Takin Cephalophus brookei Duiker Cephalophus dorsalis Bay Duiker Cephalophus ogilbyi Ogilby’s Duiker Cephalophus silvicultor Yellow-backed Duiker Cephalophus zebra Banded Duiker Damaliscus pygargus pygargus Bontebok Gazella dorcas Dorcas Gazelle Kobus leche Lechwe Ovis ammon (except the Argali subspecies included in the
 
 ## Second Schedule)
 
-Ovis canadensis (only the
-
-<!-- marginal: Bighorn Sheep -->
-
-population of Mexico) Ovis vignei (except the
-
-<!-- marginal: Red Sheep -->
-
-subspecies included in the
+Ovis canadensis (only the Bighorn Sheep population of Mexico) Ovis vignei (except the Red Sheep subspecies included in the
 
 ## Second Schedule)
 
-Philantomba monticola
-
-<!-- marginal: Blue Duiker -->
-
-Saiga borealis
-
-<!-- marginal: Mongolian Saiga -->
-
-Saiga tatarica
-
-<!-- marginal: Saiga Antelope -->
-
-Tetracerus quadricornis
-
-<!-- marginal: Four-horned Antelope -->
+Philantomba monticola Blue Duiker Saiga borealis Mongolian Saiga Saiga tatarica Saiga Antelope Tetracerus quadricornis Four-horned Antelope
 
 <!-- page 68 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
+Scientific Name Common Name
 
-Bradypodidae Bradypus variegatus Brown-Throated Sloth (Three-toed sloth) Camelidae Lama glama guanicoe Guanaco (Guanaco, vicugna ) Vicugna vicugna (only Vicugna the populations of Argentina,Bolivia, Chile and Peru ) Canidae Canis aureus Common Jackal (Bush dog, foxes, wolves) Canis lupus (except the Common Wolf populations of Bhutan, India, Nepal and Pakistan included in
+<!-- marginal: Bradypodidae -->
+
+Bradypus variegatus Brown-Throated Sloth
+
+<!-- marginal: (Three-toed sloth) -->
+
+<!-- marginal: Camelidae -->
+
+Lama glama guanicoe Guanaco
+
+<!-- marginal: (Guanaco, vicugna ) -->
+
+Vicugna vicugna (only Vicugna the populations of Argentina,Bolivia, Chile and Peru )
+
+<!-- marginal: Canidae -->
+
+Canis aureus Common Jackal
+
+<!-- marginal: (Bush dog, foxes, wolves) -->
+
+Canis lupus (except the Common Wolf populations of Bhutan, India, Nepal and Pakistan included in
 
 ## Second Schedule)
 
-Cerdocyon thous Forest Fox Chrysocyon brachyurus Maned Wolf Lycalopex culpaeus Red Fox Lycalopex griseus Argentine Grey Fox Lycalopex gymnocercus Azara’s Zorro Vulpes bengalensis Bengal Fox Vulpes cana Afghan Fox Vulpes vulpes griffithii Red Fox Vulpes vulpes montana Red Fox Vulpes vulpes pusilla Red Fox Vulpes zerda Fennec Fox Cebidae Callithrix spp. (except the Marmosets (New world monkeys) species included in the Second
+Cerdocyon thous Forest Fox Chrysocyon brachyurus Maned Wolf Lycalopex culpaeus Red Fox Lycalopex griseus Argentine Grey Fox Lycalopex gymnocercus Azara’s Zorro Vulpes bengalensis Bengal Fox Vulpes cana Afghan Fox Vulpes vulpes griffithii Red Fox Vulpes vulpes montana Red Fox Vulpes vulpes pusilla Red Fox Vulpes zerda Fennec Fox
+
+<!-- marginal: Cebidae -->
+
+Callithrix spp. (except the Marmosets
+
+<!-- marginal: (New world monkeys) -->
+
+species included in the Second
 
 ## Schedule)
 
@@ -2080,7 +2140,13 @@ Saimiri spp. (except the Squirrel Monkeys species included in the the
 
 ## Second Schedule)
 
-Cercopithecidae Macaca fascicularis Long-tailed Macaque (Old world monkeys) Macaca nemestrina Pig-tailed Macaque Allenopithecus nigroviridis Allen’s Swamp Monkey Cercocebus spp. (except the Mangabey species included in the the
+<!-- marginal: Cercopithecidae -->
+
+Macaca fascicularis Long-tailed Macaque
+
+<!-- marginal: (Old world monkeys) -->
+
+Macaca nemestrina Pig-tailed Macaque Allenopithecus nigroviridis Allen’s Swamp Monkey Cercocebus spp. (except the Mangabey species included in the the
 
 ## Second Schedule)
 
@@ -2242,35 +2308,135 @@ Family Scientific Name
 
 <!-- marginal: Common Name -->
 
-Eupleridae Cryptoprocta ferox Fosa (Fosa, Mongoose, Civet) Eupleres goudotii Malagasy Mongoose Fossa fossana Malagasy Civet Caracal Felidae Caracal caracal ( except (Wild Cats) Asian population included in the Second Schedule) Felidae spp. Cats Felis spp. (except the species Cats included in the Second
+Eupleridae Cryptoprocta ferox
+
+<!-- marginal: Fosa -->
+
+(Fosa, Mongoose, Civet) Eupleres goudotii
+
+<!-- marginal: Malagasy Mongoose -->
+
+Fossa fossana
+
+<!-- marginal: Malagasy Civet -->
+
+<!-- marginal: Caracal -->
+
+Felidae Caracal caracal ( except (Wild Cats) Asian population included in the Second Schedule) Felidae spp.
+
+<!-- marginal: Cats -->
+
+Felis spp. (except the species
+
+<!-- marginal: Cats -->
+
+included in the Second
 
 ## Schedule)
 
-Leptailurus serval Serval Leopardus spp. (except the Wild cat species included in the Second
+Leptailurus serval
+
+<!-- marginal: Serval -->
+
+Leopardus spp. (except the
+
+<!-- marginal: Wild cat -->
+
+species included in the Second
 
 ## Schedule)
 
-Lynx spp. (except the species Lynx included in the Second
+Lynx spp. (except the species
+
+<!-- marginal: Lynx -->
+
+included in the Second
 
 ## Schedule)
 
-Prionailurus spp. ( except the Cats species included in the Second
+Prionailurus spp. ( except the
+
+<!-- marginal: Cats -->
+
+species included in the Second
 
 ## Schedule)
 
-Profelis aurata African Golden Cat Puma concolor (except the Puma subspecies included in the
+Profelis aurata
+
+<!-- marginal: African Golden Cat -->
+
+Puma concolor (except the
+
+<!-- marginal: Puma -->
+
+subspecies included in the
 
 ## Second Schedule)
 
-Panthera leo (except the Lion subspecies included in the
+Panthera leo (except the
+
+<!-- marginal: Lion -->
+
+subspecies included in the
 
 ## Second Schedule)
 
-Puma yagouaroundi (except Eyra Cat the population of Central and North America included in the
+Puma yagouaroundi (except
+
+<!-- marginal: Eyra Cat -->
+
+the population of Central and North America included in the
 
 ## Second Schedule)
 
-Galagidae Euoticus elegantulus Elegant Galago (Galagos) Euoticus pallidus Northern Needle-clawed Bushbaby Galago spp. Bushbabies Otolemur spp. Bushbabies Herpestidae (Mongooses) Herpestes fuscus Indian Brown Mongoose Herpestes smithii Ruddy Mongoose Herpestes vitticollis Stripe-necked Mongoose Hippopotamidae Hexaprotodon liberiensis Pygmy Hippopotamus (Hippopotamuses) Hippopotamus amphibius Large Hippo Hyaenidae Proteles cristata Aardwolf (Aardwolf) Porcupine Hystricidae Hystrix spp. (only the (Crested porcupine) population of Ghana and Denmark)
+Galagidae Euoticus elegantulus
+
+<!-- marginal: Elegant Galago -->
+
+(Galagos) Euoticus pallidus
+
+<!-- marginal: Northern Needle-clawed -->
+
+<!-- marginal: Bushbaby -->
+
+Galago spp.
+
+<!-- marginal: Bushbabies -->
+
+Otolemur spp.
+
+<!-- marginal: Bushbabies -->
+
+Herpestidae (Mongooses) Herpestes fuscus
+
+<!-- marginal: Indian Brown Mongoose -->
+
+Herpestes smithii
+
+<!-- marginal: Ruddy Mongoose -->
+
+Herpestes vitticollis
+
+<!-- marginal: Stripe-necked Mongoose -->
+
+Hippopotamidae Hexaprotodon liberiensis
+
+<!-- marginal: Pygmy Hippopotamus -->
+
+(Hippopotamuses) Hippopotamus amphibius
+
+<!-- marginal: Large Hippo -->
+
+Hyaenidae Proteles cristata
+
+<!-- marginal: Aardwolf -->
+
+(Aardwolf)
+
+<!-- marginal: Porcupine -->
+
+Hystricidae Hystrix spp. (only the (Crested porcupine) population of Ghana and Denmark)
 
 <!-- page 71 -->
 
@@ -2422,25 +2588,137 @@ Family Scientific Name
 
 <!-- marginal: Common Name -->
 
-Bassariscus sumichrasti Cacomistle Nasua narica Northern Coati Nasua nasua solitaria South Brazilian Coati Potos flavus Kinkajou Pteropodidae Acerodon spp. (except the Flying-foxes (Fruit bats, flying foxes) species included in the Second
+Bassariscus sumichrasti
+
+<!-- marginal: Cacomistle -->
+
+Nasua narica
+
+<!-- marginal: Northern Coati -->
+
+Nasua nasua solitaria
+
+<!-- marginal: South Brazilian Coati -->
+
+Potos flavus
+
+<!-- marginal: Kinkajou -->
+
+Pteropodidae Acerodon spp. (except the
+
+<!-- marginal: Flying-foxes -->
+
+(Fruit bats, flying foxes) species included in the Second
 
 ## Schedule)
 
-Pteropus spp.(except the Flying-foxes species included in the Second
+Pteropus spp.(except the
+
+<!-- marginal: Flying-foxes -->
+
+species included in the Second
 
 ## Schedule)
 
-Ptilocercidae Ptilocercus lowii Pen-tailed Tree Shrew (Tree shrew) Rhinocerotidae Ceratotherium simum Square-lipped Rhinoceros (Rhinoceroses) (except subspecies and the populations of South Africa and Swaziland; all other populations are included in the
+Ptilocercidae Ptilocercus lowii
+
+<!-- marginal: Pen-tailed Tree Shrew -->
+
+(Tree shrew) Rhinocerotidae Ceratotherium simum
+
+<!-- marginal: Square-lipped Rhinoceros -->
+
+(Rhinoceroses) (except subspecies and the populations of South Africa and Swaziland; all other populations are included in the
 
 ## Second Schedule)
 
-Sciuridae Epixerus ebii Ebian’s Palm Squirrel (Ground squirrels, tree Marmota caudata Long-tailed Marmot squirrels) Marmota himalayana Himalayan Marmot Ratufa spp. (except the Giant Squirrels species included in the Second
+Sciuridae Epixerus ebii
+
+<!-- marginal: Ebian’s Palm Squirrel -->
+
+(Ground squirrels, tree Marmota caudata
+
+<!-- marginal: Long-tailed Marmot -->
+
+squirrels) Marmota himalayana
+
+<!-- marginal: Himalayan Marmot -->
+
+Ratufa spp. (except the
+
+<!-- marginal: Giant Squirrels -->
+
+species included in the Second
 
 ## Schedule)
 
-Sciurus deppei Deppe’s Squirrel Soricidae Chimarrogale platycephala Flat-headed Water Shrew (Shrews) Talpidae Talpa micrura Himalayan Mole
+Sciurus deppei
 
-(Mole) Tachyglossidae (Echidnas) Zaglossus spp. Long-nosed Echidnas Tarsiidae Tarsius spp. Tarsiers (Tarsiers) Tayassuidae (Peccaries) Pecari tajacu (except the Collared Peccary populations of Mexico and the United States of America) Tayassu pecari White-lipped Peccary Tayassuidae spp. Peccary Tupaiidae Dendrogale melanura Bornean Smooth-tailed (Tree shrews) Treeshrew Tupaia dorsalis Striped Treeshrew Tupaia glis Malaysian Tree Shrew Tupaia gracilis Slender Treeshrew Tupaia longipes Bornean Treeshrew Tupaia montana Mountain Treeshrew Tupaia minor Lesser Treeshrew Tupaia picta Painted Treeshrew
+<!-- marginal: Deppe’s Squirrel -->
+
+Soricidae Chimarrogale platycephala
+
+<!-- marginal: Flat-headed Water Shrew -->
+
+(Shrews) Talpidae Talpa micrura
+
+<!-- marginal: Himalayan Mole -->
+
+(Mole) Tachyglossidae (Echidnas) Zaglossus spp.
+
+<!-- marginal: Long-nosed Echidnas -->
+
+Tarsiidae Tarsius spp.
+
+<!-- marginal: Tarsiers -->
+
+(Tarsiers) Tayassuidae (Peccaries) Pecari tajacu (except the
+
+<!-- marginal: Collared Peccary -->
+
+populations of Mexico and the United States of America) Tayassu pecari
+
+<!-- marginal: White-lipped Peccary -->
+
+Tayassuidae spp.
+
+<!-- marginal: Peccary -->
+
+Tupaiidae Dendrogale melanura
+
+<!-- marginal: Bornean Smooth-tailed -->
+
+(Tree shrews)
+
+<!-- marginal: Treeshrew -->
+
+Tupaia dorsalis
+
+<!-- marginal: Striped Treeshrew -->
+
+Tupaia glis
+
+<!-- marginal: Malaysian Tree Shrew -->
+
+Tupaia gracilis
+
+<!-- marginal: Slender Treeshrew -->
+
+Tupaia longipes
+
+<!-- marginal: Bornean Treeshrew -->
+
+Tupaia montana
+
+<!-- marginal: Mountain Treeshrew -->
+
+Tupaia minor
+
+<!-- marginal: Lesser Treeshrew -->
+
+Tupaia picta
+
+<!-- marginal: Painted Treeshrew -->
 
 <!-- page 73 -->
 
@@ -2590,167 +2868,251 @@ Family Scientific Name
 
 <!-- marginal: Common Name -->
 
-Ciconiidae Ciconia nigra Black Stork (Storks) Columbidae Gallicolumba luzonica Bleeding-heart Dove (Doves, pigeons) Goura spp. Crowned Pigeons Nesoenas mayeri Pink Pigeon Cotingidae Cephalopterus ornatus Amazonian Umbrellabird (Cotingas) Cephalopterus penduliger Long-wattled Umbrellabird Rupicola spp. Cocks-of-the- Rock Cracidae (Chachalacas, Crax alberti Albert’s Currasow currassows, guans) Crax daubentoni Daubenton’s Currasow Crax globulosa Wattled Currasow Crax rubra Globose Currasow Ortalis vetula Chalaca Pauxi pauxi Helmeted Currasow Penelope purpurascens Crested Guan Penelopina nigra Black Chachalaca Emberizidae (Cardinals, Gubernatrix cristata Yellow Cardinal tanagers) Paroaria capitata Yellow-billed Cardinal Paroaria coronata Red-crested Cardinal Tangara fastuosa Seven-colored Tanager Estrildidae Lonchura fuscans Dusky Munia (Mannikins, waxbills, Lonchura leucogastra White-bellied Munia munia) Lonchura maja White-headed Munia Lonchura malcca Black-headed Munia Lonchura oryzivora Java Sparrow Lonchura punctulata Scaly-breasted Munia Lonchura striata White-rumped Munia Amandava formosa Green Avadavat Poephila cincta cincta Southern Black-throated Finch Fringillidae Carduelis yarrellii Yellow-faced Siskin (Finches) Serinus gularis Streaky-headed seed-eater Serinus leucopygus White-rumped seed-eater Serinus mozambicus Yellow-fronted canary Glareolidae Glareola pratincola Collared Pratincole (Crab plover, pratincoles, coursers) Gruidae Balearica spp. Crowned-Cranes (Cranes) Grus spp.(except the species Cranes included in the Second
+Ciconiidae Ciconia nigra
+
+<!-- marginal: Black Stork -->
+
+(Storks) Columbidae Gallicolumba luzonica
+
+<!-- marginal: Bleeding-heart Dove -->
+
+(Doves, pigeons) Goura spp.
+
+<!-- marginal: Crowned Pigeons -->
+
+Nesoenas mayeri
+
+<!-- marginal: Pink Pigeon -->
+
+Cotingidae Cephalopterus ornatus
+
+<!-- marginal: Amazonian Umbrellabird -->
+
+(Cotingas) Cephalopterus penduliger
+
+<!-- marginal: Long-wattled Umbrellabird -->
+
+Rupicola spp.
+
+<!-- marginal: Cocks-of-the- Rock -->
+
+Cracidae (Chachalacas, Crax alberti
+
+<!-- marginal: Albert’s Currasow -->
+
+currassows, guans) Crax daubentoni
+
+<!-- marginal: Daubenton’s Currasow -->
+
+Crax globulosa
+
+<!-- marginal: Wattled Currasow -->
+
+Crax rubra
+
+<!-- marginal: Globose Currasow -->
+
+Ortalis vetula
+
+<!-- marginal: Chalaca -->
+
+Pauxi pauxi
+
+<!-- marginal: Helmeted Currasow -->
+
+Penelope purpurascens
+
+<!-- marginal: Crested Guan -->
+
+Penelopina nigra
+
+<!-- marginal: Black Chachalaca -->
+
+Emberizidae (Cardinals, Gubernatrix cristata
+
+<!-- marginal: Yellow Cardinal -->
+
+tanagers) Paroaria capitata
+
+<!-- marginal: Yellow-billed Cardinal -->
+
+Paroaria coronata
+
+<!-- marginal: Red-crested Cardinal -->
+
+Tangara fastuosa
+
+<!-- marginal: Seven-colored Tanager -->
+
+Estrildidae Lonchura fuscans
+
+<!-- marginal: Dusky Munia -->
+
+(Mannikins, waxbills, Lonchura leucogastra
+
+<!-- marginal: White-bellied Munia -->
+
+munia) Lonchura maja
+
+<!-- marginal: White-headed Munia -->
+
+Lonchura malcca
+
+<!-- marginal: Black-headed Munia -->
+
+Lonchura oryzivora
+
+<!-- marginal: Java Sparrow -->
+
+Lonchura punctulata
+
+<!-- marginal: Scaly-breasted Munia -->
+
+Lonchura striata
+
+<!-- marginal: White-rumped Munia -->
+
+Amandava formosa
+
+<!-- marginal: Green Avadavat -->
+
+Poephila cincta cincta
+
+<!-- marginal: Southern Black-throated -->
+
+<!-- marginal: Finch -->
+
+Fringillidae Carduelis yarrellii
+
+<!-- marginal: Yellow-faced Siskin -->
+
+(Finches) Serinus gularis
+
+<!-- marginal: Streaky-headed seed-eater -->
+
+Serinus leucopygus
+
+<!-- marginal: White-rumped seed-eater -->
+
+Serinus mozambicus
+
+<!-- marginal: Yellow-fronted canary -->
+
+Glareolidae Glareola pratincola
+
+<!-- marginal: Collared Pratincole -->
+
+(Crab plover, pratincoles, coursers) Gruidae Balearica spp.
+
+<!-- marginal: Crowned-Cranes -->
+
+(Cranes) Grus spp.(except the species
+
+<!-- marginal: Cranes -->
+
+included in the Second
 
 ## Schedule)
 
 <!-- page 75 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
+Scientific Name Common Name
 
-Loriidae Chalcopsitta spp.
+<!-- marginal: Loriidae -->
 
-<!-- marginal: Lory -->
+Chalcopsitta spp. Lory
 
-(Lories, lorikeets) Charmosyna spp.
+<!-- marginal: (Lories, lorikeets) -->
 
-<!-- marginal: Lorikeet -->
-
-Eos spp. (except the species
-
-<!-- marginal: Red Lory -->
-
-included in the Second
+Charmosyna spp. Lorikeet Eos spp. (except the species Red Lory included in the Second
 
 ## Schedule)
 
-Glossopsitta spp.
-
-<!-- marginal: Lorikeet -->
-
-Lorius spp.
-
-<!-- marginal: Naped lory -->
-
-Neopsittacus musschenbroekii
-
-<!-- marginal: Yellow-billed Lorikeet -->
-
-Neopsittacus pullicauda
-
-<!-- marginal: Emerald Lorikeet -->
-
-Oreopsittacus arfaki
-
-<!-- marginal: Plum-faced Lorikeet -->
-
-Phigys solitarius
-
-<!-- marginal: Collared Lory -->
-
-Pseudeos fuscata
-
-<!-- marginal: Dusky Lory -->
-
-Psitteuteles spp.
-
-<!-- marginal: Lorikeet -->
-
-Trichoglossus spp. Vini spp. (except the species
-
-<!-- marginal: Lorikeet -->
-
-included in the Second
+Glossopsitta spp. Lorikeet Lorius spp. Naped lory Neopsittacus musschenbroekii Yellow-billed Lorikeet Neopsittacus pullicauda Emerald Lorikeet Oreopsittacus arfaki Plum-faced Lorikeet Phigys solitarius Collared Lory Pseudeos fuscata Dusky Lory Psitteuteles spp. Lorikeet Trichoglossus spp. Vini spp. (except the species Lorikeet included in the Second
 
 ## Schedule)
 
-Muscicapidae Acrocephalus rodericanus
+<!-- marginal: Muscicapidae -->
 
-<!-- marginal: Rodrigues Brush-Warbler -->
+Acrocephalus rodericanus Rodrigues Brush-Warbler
 
-(Old world flycatchers) Cyornis ruckii
+<!-- marginal: (Old world flycatchers) -->
 
-<!-- marginal: Rueck’s Blue-Flycatcher -->
+Cyornis ruckii Rueck’s Blue-Flycatcher Garrulax canorus Hwamei Leiothrix argentauris Silver-eared Mesia Leiothrix lutea Red-billed Leiothrix Liocichla omeiensis Emei Shan Liocichla Terpsiphone bourbonnensis Mascarene Paradise- Flycatcher
 
-Garrulax canorus
+<!-- marginal: Musophagidae (Turacos) -->
 
-<!-- marginal: Hwamei -->
+Tauraco porphyeolophus Purple-crested Turaco Tauraco spp. Turacos
 
-Leiothrix argentauris
+<!-- marginal: Otididae -->
 
-<!-- marginal: Silver-eared Mesia -->
+Otididae spp.
 
-Leiothrix lutea
+<!-- marginal: (Bustards) -->
 
-<!-- marginal: Red-billed Leiothrix -->
-
-Liocichla omeiensis
-
-<!-- marginal: Emei Shan Liocichla -->
-
-Terpsiphone bourbonnensis
-
-<!-- marginal: Mascarene Paradise- -->
-
-<!-- marginal: Flycatcher -->
-
-Musophagidae (Turacos) Tauraco porphyeolophus
-
-<!-- marginal: Purple-crested Turaco -->
-
-Tauraco spp.
-
-<!-- marginal: Turacos -->
-
-Otididae Otididae spp. (Bustards) Ardeotis spp. (except the
-
-<!-- marginal: Bustards -->
-
-species included in the Second
+Ardeotis spp. (except the Bustards species included in the Second
 
 ## Schedule)
 
-Eupodotis spp. (except the
-
-<!-- marginal: Bustards -->
-
-species included in the Second
+Eupodotis spp. (except the Bustards species included in the Second
 
 ## Schedule)
 
-Neotis spp.
+Neotis spp. Bustards Otis tarda Great Bustard Tetrax tetrax Little Bustard
 
-<!-- marginal: Bustards -->
+<!-- marginal: Paradisaeidae -->
 
-Otis tarda
+Astrapia spp. Astrapias
 
-<!-- marginal: Great Bustard -->
+<!-- marginal: (Birds of paradise) -->
 
-Tetrax tetrax
-
-<!-- marginal: Little Bustard -->
-
-Paradisaeidae Astrapia spp.
-
-<!-- marginal: Astrapias -->
-
-(Birds of paradise) Cicinnurus spp.
-
-<!-- marginal: Bird of Paradise -->
-
-Cnemophilus spp.
-
-<!-- marginal: Bird of Paradise -->
-
-Epimachus spp.
-
-<!-- marginal: Sicklebill -->
-
-Loboparadisea sericea
-
-<!-- marginal: Wattle-billed Bird of -->
-
-<!-- marginal: Paradise -->
+Cicinnurus spp. Bird of Paradise Cnemophilus spp. Bird of Paradise Epimachus spp. Sicklebill Loboparadisea sericea Wattle-billed Bird of Paradise
 
 <!-- page 76 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
+Scientific Name Common Name Lophorina superba Superb Bird of Paradise Lycocorax pyrrhopterus Paradise-Crow Macgregoria pulchra Macgregor’s Bird of Paradise Manucodia spp. Manucodes Melampitta spp. Melampittas Paradigalla spp. Paradigallas Paradisaea spp. Birds of Paradise Parotia spp. Parotia Pteridophora alberti King of Saxony Bird of Paradise Ptiloris spp. Riflebirds Seleucidis melanoleuca Twelve-wired Bird of Paradise Semioptera wallacii Standard-wing Bird of Paradise
 
-Lophorina superba Superb Bird of Paradise Lycocorax pyrrhopterus Paradise-Crow Macgregoria pulchra Macgregor’s Bird of Paradise Manucodia spp. Manucodes Melampitta spp. Melampittas Paradigalla spp. Paradigallas Paradisaea spp. Birds of Paradise Parotia spp. Parotia Pteridophora alberti King of Saxony Bird of Paradise Ptiloris spp. Riflebirds Seleucidis melanoleuca Twelve-wired Bird of Paradise Semioptera wallacii Standard-wing Bird of Paradise Phasianidae Arborophila orientalis Bar-backed Partridge (Grouse, guineafowl, Gallus sonneratii Grey Junglefowl partridges, pheasants, tragopans) Ithaginis cruentus Blood Pheasant Meleagris ocellata Ocellated Turkey Polyplectron bicalcaratum Common Peacock Pheasant Polyplectron germaini Germain’s Peacock Pheasant Tragopan satyra Crimson Horned Pheasant Phoenicopteridae Phoenicopterus spp. Flamingos (Flamingos) Ploceidae Ploceus philippinus Baya Weaver (Weavers, whydahs) Psittacidae Loriculus galgulus Blue-crowned Hanging (Amazon, macaws, Parrot parakeets, parrots) Agapornis spp. (except the Lovebirds species included in the Second
+<!-- marginal: Phasianidae -->
+
+Arborophila orientalis Bar-backed Partridge
+
+<!-- marginal: (Grouse, guineafowl, -->
+
+Gallus sonneratii Grey Junglefowl
+
+<!-- marginal: partridges, pheasants, -->
+
+<!-- marginal: tragopans) -->
+
+Ithaginis cruentus Blood Pheasant Meleagris ocellata Ocellated Turkey Polyplectron bicalcaratum Common Peacock Pheasant Polyplectron germaini Germain’s Peacock Pheasant Tragopan satyra Crimson Horned Pheasant
+
+<!-- marginal: Phoenicopteridae -->
+
+Phoenicopterus spp. Flamingos
+
+<!-- marginal: (Flamingos) -->
+
+<!-- marginal: Ploceidae -->
+
+Ploceus philippinus Baya Weaver
+
+<!-- marginal: (Weavers, whydahs) -->
+
+<!-- marginal: Psittacidae -->
+
+Loriculus galgulus Blue-crowned Hanging
+
+<!-- marginal: (Amazon, macaws, -->
+
+Parrot
+
+<!-- marginal: parakeets, parrots) -->
+
+Agapornis spp. (except the Lovebirds species included in the Second
 
 ## Schedule)
 
@@ -2766,143 +3128,31 @@ Aratinga spp. Conure Barnardius zonarius Australian Ringneck Bolbopsittacus lunu
 
 <!-- page 77 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
-
-Bolborhynchus spp. Brotogeris spp. Coracopsis spp. Cyanoliseus spp.
-
-<!-- marginal: Burrowing Parakeet -->
-
-Cyanoramphus spp. (except the
-
-<!-- marginal: Parakeet -->
-
-species included in the Second
+Scientific Name Common Name Bolborhynchus spp. Brotogeris spp. Coracopsis spp. Cyanoliseus spp. Burrowing Parakeet Cyanoramphus spp. (except the Parakeet species included in the Second
 
 ## Schedule)
 
-Cyclopsitta spp. (except the
-
-<!-- marginal: Parrot -->
-
-species included in the Second
+Cyclopsitta spp. (except the Parrot species included in the Second
 
 ## Schedule)
 
-Deroptyus accipitrinus
-
-<!-- marginal: Hawk-headed Parrot -->
-
-Diopsittaca nobilis
-
-<!-- marginal: Hahn’s Macaw -->
-
-Eclectus roratus
-
-<!-- marginal: Electus Parrot -->
-
-Enicognathus spp.
-
-<!-- marginal: Slender-billed Parakeet -->
-
-Forpus spp.
-
-<!-- marginal: Parrotlet -->
-
-Geoffroyus spp.
-
-<!-- marginal: Lorito -->
-
-Graydidascalus brachyurus
-
-<!-- marginal: Short-tailed Parrot -->
-
-Hapalopsittaca spp. Lathamus discolor
-
-<!-- marginal: Swift Parrot -->
-
-Leptosittaca branickii
-
-<!-- marginal: Golden-plumed Conure -->
-
-Loriculus spp.
-
-<!-- marginal: Hanging Parrot -->
-
-Micropsitta spp.
-
-<!-- marginal: Pygmy Parrot -->
-
-Myiopsitta spp. Nandayus nenday
-
-<!-- marginal: Black-headed Conure -->
-
-Nannopsittaca dachilleae
-
-<!-- marginal: Amazonian Parakeet -->
-
-Nannopsittaca panychlora
-
-<!-- marginal: Tepui Parakeet -->
-
-Neophema spp. (except the
-
-<!-- marginal: Parrot -->
-
-species included in the Second
+Deroptyus accipitrinus Hawk-headed Parrot Diopsittaca nobilis Hahn’s Macaw Eclectus roratus Electus Parrot Enicognathus spp. Slender-billed Parakeet Forpus spp. Parrotlet Geoffroyus spp. Lorito Graydidascalus brachyurus Short-tailed Parrot Hapalopsittaca spp. Lathamus discolor Swift Parrot Leptosittaca branickii Golden-plumed Conure Loriculus spp. Hanging Parrot Micropsitta spp. Pygmy Parrot Myiopsitta spp. Nandayus nenday Black-headed Conure Nannopsittaca dachilleae Amazonian Parakeet Nannopsittaca panychlora Tepui Parakeet Neophema spp. (except the Parrot species included in the Second
 
 ## Schedule)
 
-Neopsephotus bourkii
-
-<!-- marginal: Bourke’s Parrot -->
-
-Nestor meridionalis
-
-<!-- marginal: Kaka -->
-
-Nestor notabilis
-
-<!-- marginal: Kea -->
-
-Northiella haematogaster
-
-<!-- marginal: Blue Bonnet -->
-
-Orthopsittaca manilata
-
-<!-- marginal: Red-bellied Macaw -->
-
-Pionites leucogaster
-
-<!-- marginal: White-bellied Parrot -->
-
-Pionites melanocephala
-
-<!-- marginal: Black-headed Parrot -->
-
-Pionopsitta spp. (except the
-
-<!-- marginal: Parrot -->
-
-species included in the Second
+Neopsephotus bourkii Bourke’s Parrot Nestor meridionalis Kaka Nestor notabilis Kea Northiella haematogaster Blue Bonnet Orthopsittaca manilata Red-bellied Macaw Pionites leucogaster White-bellied Parrot Pionites melanocephala Black-headed Parrot Pionopsitta spp. (except the Parrot species included in the Second
 
 ## Schedule)
 
-Pionus spp. Platycercus spp.
-
-<!-- marginal: Rossela -->
-
-Poicephalus spp.
+Pionus spp. Platycercus spp. Rossela Poicephalus spp.
 
 <!-- page 78 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
-
-Polytelis spp. Primolus auricollis Golden-collared Macaw Prioniturus spp. Prosopeia spp. Psephotus spp. (except the Parrot species included in the Second
+Scientific Name Common Name Polytelis spp. Primolus auricollis Golden-collared Macaw Prioniturus spp. Prosopeia spp. Psephotus spp. (except the Parrot species included in the Second
 
 ## Schedule)
 
@@ -2914,137 +3164,57 @@ Psittaculirostris spp. Psittacus erithacus Grey Parrot Psittinus cyanurus Blue-r
 
 ## Schedule)
 
-Tanygnathus spp. Parrot Touit spp. Triclaria malachitacea Blue-bellied Parrot Pycnonotidae Pycnonotus jocosus Red-whiskered Bulbul (Bulbul) Ramphastidae (Toucans) Baillonius bailloni Saffron Toucanet Pteroglossus aracari Black-necked Aracari Pteroglossus castanotis Chestnut-eared Aracari Pteroglossus viridis Green Aracari Ramphastos dicolorus Red-breasted Toucan Ramphastos sulfuratus Keel-billed Toucan Ramphastos toco Toco Toucan Ramphastos tucanus Red-billed Toucan Ramphastos vitellinus Channel-billed Toucan Selenidera maculirostris Spot-billed Toucanet Rheidae Pterocnemia pennata pennata Darwin’s Rhea (Rheas) Rhea americana Common Rhea Spheniscidae (Penguins) Spheniscus demersus African Penguin Sturnidae Gracula religiosa Hill Myna (Mynahs) Threskiornithidae (Ibises, Eudocimus ruber Scarlet Ibis spoonbills)
+Tanygnathus spp. Parrot Touit spp. Triclaria malachitacea Blue-bellied Parrot
+
+<!-- marginal: Pycnonotidae -->
+
+Pycnonotus jocosus Red-whiskered Bulbul
+
+<!-- marginal: (Bulbul) -->
+
+<!-- marginal: Ramphastidae (Toucans) -->
+
+Baillonius bailloni Saffron Toucanet Pteroglossus aracari Black-necked Aracari Pteroglossus castanotis Chestnut-eared Aracari Pteroglossus viridis Green Aracari Ramphastos dicolorus Red-breasted Toucan Ramphastos sulfuratus Keel-billed Toucan Ramphastos toco Toco Toucan Ramphastos tucanus Red-billed Toucan Ramphastos vitellinus Channel-billed Toucan Selenidera maculirostris Spot-billed Toucanet
+
+<!-- marginal: Rheidae -->
+
+Pterocnemia pennata pennata Darwin’s Rhea
+
+<!-- marginal: (Rheas) -->
+
+Rhea americana Common Rhea
+
+<!-- marginal: Spheniscidae (Penguins) -->
+
+Spheniscus demersus African Penguin
+
+<!-- marginal: Sturnidae -->
+
+Gracula religiosa Hill Myna
+
+<!-- marginal: (Mynahs) -->
+
+<!-- marginal: Threskiornithidae (Ibises, -->
+
+Eudocimus ruber Scarlet Ibis
+
+<!-- marginal: spoonbills) -->
 
 <!-- page 79 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
+Scientific Name Common Name Geronticus calvus Bald Ibis Platalea leucorodia Spoonbill
 
-Geronticus calvus
+<!-- marginal: Trochilidae (Hummingbirds) -->
 
-<!-- marginal: Bald Ibis -->
-
-Platalea leucorodia
-
-<!-- marginal: Spoonbill -->
-
-Trochilidae (Hummingbirds) Abeillia abeillei
-
-<!-- marginal: Emerald-chinned -->
-
-<!-- marginal: Hummingbird -->
-
-Adelomyia melanogenys
-
-<!-- marginal: Speckled Hummingbird -->
-
-Aglaeactis spp.
-
-<!-- marginal: Sunbeams -->
-
-Aglaiocercus spp. Amazilia spp. Androdon aequatorialis
-
-<!-- marginal: Tooth-billed Hummingbird -->
-
-Anopetia gounellei
-
-<!-- marginal: Broad-tipped Hermit -->
-
-Anthocephala floriceps
-
-<!-- marginal: Blossomcrown -->
-
-Anthracothorax spp. Archilochus alexandri
-
-<!-- marginal: Black-chinned -->
-
-<!-- marginal: Hummingbird -->
-
-Archilochus colubris
-
-<!-- marginal: Ruby-throated -->
-
-<!-- marginal: Hummingbird -->
-
-Atthis ellioti
-
-<!-- marginal: Wine-throated -->
-
-<!-- marginal: Hummingbird -->
-
-Atthis heloisa
-
-<!-- marginal: Bumblebee Hummingbird -->
-
-Augastes spp. Basilinna leucotis
-
-<!-- marginal: White-eared Hummingbird -->
-
-Basilinna xantusii
-
-<!-- marginal: Black-fronted Hummingbird -->
-
-Boissonneaua spp
-
-<!-- marginal: Coronets -->
-
-Calliphlox spp.
-
-<!-- marginal: Woodstars -->
-
-Calothorax lucifer
-
-<!-- marginal: Lucifer Hummingbird -->
-
-Calothorax pulcher
-
-<!-- marginal: Beautiful Hummingbird -->
-
-Calypte spp. Campylopterus spp. Chaetocercus spp.
-
-<!-- marginal: Woodstars -->
-
-Chalcostigma spp.
-
-<!-- marginal: Thornbills -->
-
-Chalybura spp. Chlorostilbon spp. Chrysolampis mosquitus
-
-<!-- marginal: Ruby-topaz Hummingbird -->
-
-Chrysuronia oenone
-
-<!-- marginal: Golden-tailed Sapphire -->
-
-Clytolaema rubricauda
-
-<!-- marginal: Brazilian Ruby -->
-
-Coeligena spp.
-
-<!-- marginal: Starfrontlet -->
-
-Colibri spp. Cyanophaia bicolor
-
-<!-- marginal: Blue-headed Hummingbird -->
-
-Cynanthus spp. Damophila julie
-
-<!-- marginal: Violet-bellied Hummingbird -->
-
-Discosura spp.
-
-<!-- marginal: Thorntails -->
+Abeillia abeillei Emerald-chinned Hummingbird Adelomyia melanogenys Speckled Hummingbird Aglaeactis spp. Sunbeams Aglaiocercus spp. Amazilia spp. Androdon aequatorialis Tooth-billed Hummingbird Anopetia gounellei Broad-tipped Hermit Anthocephala floriceps Blossomcrown Anthracothorax spp. Archilochus alexandri Black-chinned Hummingbird Archilochus colubris Ruby-throated Hummingbird Atthis ellioti Wine-throated Hummingbird Atthis heloisa Bumblebee Hummingbird Augastes spp. Basilinna leucotis White-eared Hummingbird Basilinna xantusii Black-fronted Hummingbird Boissonneaua spp Coronets Calliphlox spp. Woodstars Calothorax lucifer Lucifer Hummingbird Calothorax pulcher Beautiful Hummingbird Calypte spp. Campylopterus spp. Chaetocercus spp. Woodstars Chalcostigma spp. Thornbills Chalybura spp. Chlorostilbon spp. Chrysolampis mosquitus Ruby-topaz Hummingbird Chrysuronia oenone Golden-tailed Sapphire Clytolaema rubricauda Brazilian Ruby Coeligena spp. Starfrontlet Colibri spp. Cyanophaia bicolor Blue-headed Hummingbird Cynanthus spp. Damophila julie Violet-bellied Hummingbird Discosura spp. Thorntails
 
 <!-- page 80 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
-
-Doricha spp. Sheartails Doryfera spp. Lancebills Elvira spp. Ensifera ensifera Sword-billed Hummingbird Eriocnemis spp. Pufflegs Eugenes fulgens Magnificent Hummingbird Eulampis spp. Caribs Eupherusa spp. Eutoxeres spp. Sicklebills Florisuga spp. Jacobins Glaucis spp. (except the Hermits species included in the Second
+Scientific Name Common Name Doricha spp. Sheartails Doryfera spp. Lancebills Elvira spp. Ensifera ensifera Sword-billed Hummingbird Eriocnemis spp. Pufflegs Eugenes fulgens Magnificent Hummingbird Eulampis spp. Caribs Eupherusa spp. Eutoxeres spp. Sicklebills Florisuga spp. Jacobins Glaucis spp. (except the Hermits species included in the Second
 
 ## Schedule)
 
@@ -3052,165 +3222,53 @@ Goethalsia bella Rufous-cheeked Hummingbird Goldmania violiceps Violet-capped Hu
 
 <!-- page 81 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
+Scientific Name Common Name Myrtis spp. Ocreatus underwoodii Booted Raquet-tail Opisthoprora euryptera Mountain Avocetbill Oreonympha nobilis Bearded Mountaineer Oreotrochilus spp. Hillstars Orthorhyncus cristatus Antillean Crested Hummingbird Oxypogon guerinii Bearded Helmetcrest Panterpe insignis Fiery-throated Hummingbird Patagona gigas Giant Hummingbird Phaethornis spp. Hermits Phlogophilus spp. Piedtails Polyonymus caroli Bronze-tailed Comet Polytmus spp. Goldenthroats Pterophanes cyanopterus Great Sapphirewing Ramphodon naevius Saw-billed Hermit Ramphomicron spp. Thornbills Rhodopis vesper Oasis Hummingbird Sappho sparganura Red-tailded Comet Hummingbird Selasphorus spp. Sephanoides spp. Firecrown Stellula calliope Calliope Hummingbird Stephanoxis lalandi Plovercrest Sternoclyta cyanopectus Violet-chested Hummingbird Taphrolesbia griseiventris Grey-bellied Comet Thalurania spp. Woodnymphs Thaumastura cora Peruvian Sheartail Threnetes spp. Barbthroat Tilmatura dupontii Sparkling-tailded Barbthroat Topaza pella Crimson Topaz Trochilus spp. Streamertails Urochroa bougueri White-tailed Hillstar Urosticte spp. Whitetips
 
-Myrtis spp. Ocreatus underwoodii
+<!-- marginal: Turdidae -->
 
-<!-- marginal: Booted Raquet-tail -->
+Copsychus malabaricus Common Shama
 
-Opisthoprora euryptera
+<!-- marginal: (Thrushes) -->
 
-<!-- marginal: Mountain Avocetbill -->
+Copsychus saularis Oriental Magpie Robin Calidris minutillus Long-toed Stint
 
-Oreonympha nobilis
+<!-- marginal: Zosteropidae -->
 
-<!-- marginal: Bearded Mountaineer -->
+Zosterops palpebrosa Oriental White-eyes
 
-Oreotrochilus spp.
-
-<!-- marginal: Hillstars -->
-
-Orthorhyncus cristatus
-
-<!-- marginal: Antillean Crested -->
-
-<!-- marginal: Hummingbird -->
-
-Oxypogon guerinii
-
-<!-- marginal: Bearded Helmetcrest -->
-
-Panterpe insignis
-
-<!-- marginal: Fiery-throated -->
-
-<!-- marginal: Hummingbird -->
-
-Patagona gigas
-
-<!-- marginal: Giant Hummingbird -->
-
-Phaethornis spp.
-
-<!-- marginal: Hermits -->
-
-Phlogophilus spp.
-
-<!-- marginal: Piedtails -->
-
-Polyonymus caroli
-
-<!-- marginal: Bronze-tailed Comet -->
-
-Polytmus spp.
-
-<!-- marginal: Goldenthroats -->
-
-Pterophanes cyanopterus
-
-<!-- marginal: Great Sapphirewing -->
-
-Ramphodon naevius
-
-<!-- marginal: Saw-billed Hermit -->
-
-Ramphomicron spp.
-
-<!-- marginal: Thornbills -->
-
-Rhodopis vesper
-
-<!-- marginal: Oasis Hummingbird -->
-
-Sappho sparganura
-
-<!-- marginal: Red-tailded Comet -->
-
-<!-- marginal: Hummingbird -->
-
-Selasphorus spp. Sephanoides spp.
-
-<!-- marginal: Firecrown -->
-
-Stellula calliope
-
-<!-- marginal: Calliope Hummingbird -->
-
-Stephanoxis lalandi
-
-<!-- marginal: Plovercrest -->
-
-Sternoclyta cyanopectus
-
-<!-- marginal: Violet-chested -->
-
-<!-- marginal: Hummingbird -->
-
-Taphrolesbia griseiventris
-
-<!-- marginal: Grey-bellied Comet -->
-
-Thalurania spp.
-
-<!-- marginal: Woodnymphs -->
-
-Thaumastura cora
-
-<!-- marginal: Peruvian Sheartail -->
-
-Threnetes spp.
-
-<!-- marginal: Barbthroat -->
-
-Tilmatura dupontii
-
-<!-- marginal: Sparkling-tailded Barbthroat -->
-
-Topaza pella
-
-<!-- marginal: Crimson Topaz -->
-
-Trochilus spp.
-
-<!-- marginal: Streamertails -->
-
-Urochroa bougueri
-
-<!-- marginal: White-tailed Hillstar -->
-
-Urosticte spp.
-
-<!-- marginal: Whitetips -->
-
-Turdidae Copsychus malabaricus
-
-<!-- marginal: Common Shama -->
-
-(Thrushes) Copsychus saularis
-
-<!-- marginal: Oriental Magpie Robin -->
-
-Calidris minutillus
-
-<!-- marginal: Long-toed Stint -->
-
-Zosteropidae Zosterops palpebrosa
-
-<!-- marginal: Oriental White-eyes -->
-
-(White-eye)
+<!-- marginal: (White-eye) -->
 
 <!-- page 82 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
+Scientific Name Common Name
 
 ## CLASS REPTILIA (REPTILES)
 
-Acrochordidae Acrochordus javanicus Elephant-trunk Snake (File snake) Agamidae Acanthosaura armata Horned Tree Lizard (Agamas, mastigures) Acanthosaura crucigera Cross-bearing Tree Lizard Aphaniotus fuscus Earless Lizard Calotes emma emma Forest Crested Calotes versicolor Garden Fence Lizard Draco blanfordii Blanford’s Gliding Lizard Draco maculatus Spotted Gliding Lizard Draco melanopogon Black-bearded Gliding Lizard Draco quinquefasciatus Five-banded Gliding Lizard Draco volans Common Gliding Lizard Gonocephalus abbotti Doria’s Anglehead Lizard Gonocephalus bellii Bell’s Anglehead Lizard Gonocephalus chamaeleontinus Chameleon Anglehead Lizard Gonocephalus grandis Great anglehead lizard Gonocephalus liogaster Comb crested forest lizard Gonocephalus robinsonii Robinson’s Crested Lizard Leiolepis triploida Malayan Butterfly Lizard Leiolepis belliana Common Butterfly Lizard Uromastyx spp. Spiny-tailed lizards Alligatoridae Alligator mississipiensis American Alligator (Alligators, caimans) Caiman crocodilus (except Brown Caiman the subspecies included in the
+<!-- marginal: Acrochordidae -->
+
+Acrochordus javanicus Elephant-trunk Snake
+
+<!-- marginal: (File snake) -->
+
+<!-- marginal: Agamidae -->
+
+Acanthosaura armata Horned Tree Lizard
+
+<!-- marginal: (Agamas, mastigures) -->
+
+Acanthosaura crucigera Cross-bearing Tree Lizard Aphaniotus fuscus Earless Lizard Calotes emma emma Forest Crested Calotes versicolor Garden Fence Lizard Draco blanfordii Blanford’s Gliding Lizard Draco maculatus Spotted Gliding Lizard Draco melanopogon Black-bearded Gliding Lizard Draco quinquefasciatus Five-banded Gliding Lizard Draco volans Common Gliding Lizard Gonocephalus abbotti Doria’s Anglehead Lizard Gonocephalus bellii Bell’s Anglehead Lizard Gonocephalus chamaeleontinus Chameleon Anglehead Lizard Gonocephalus grandis Great anglehead lizard Gonocephalus liogaster Comb crested forest lizard Gonocephalus robinsonii Robinson’s Crested Lizard Leiolepis triploida Malayan Butterfly Lizard Leiolepis belliana Common Butterfly Lizard Uromastyx spp. Spiny-tailed lizards
+
+<!-- marginal: Alligatoridae -->
+
+Alligator mississipiensis American Alligator
+
+<!-- marginal: (Alligators, caimans) -->
+
+Caiman crocodilus (except Brown Caiman the subspecies included in the
 
 ## Second Schedule)
 
@@ -3222,7 +3280,13 @@ Melanosuchus niger (only Black Caiman the population of Brazil and Ecuador; othe
 
 ## Schedule)
 
-Paleosuchus palpebrosus Cuvier’s Smooth-fronted Caiman Paleosuchus trigonatus Schneider’s Smooth-fronted Caiman Aniliidae Cylindrophis ruffus Red-tailed Pipe Snake (False coral snake)
+Paleosuchus palpebrosus Cuvier’s Smooth-fronted Caiman Paleosuchus trigonatus Schneider’s Smooth-fronted Caiman
+
+<!-- marginal: Aniliidae -->
+
+Cylindrophis ruffus Red-tailed Pipe Snake
+
+<!-- marginal: (False coral snake) -->
 
 <!-- page 83 -->
 
@@ -3232,7 +3296,9 @@ Family Scientific Name
 
 <!-- marginal: Boas -->
 
-Boa spp. (except the Boidae subspecies included in the (Boas)
+Boa spp. (except the Boidae subspecies included in the
+
+(Boas)
 
 ## Second Schedule)
 
@@ -3356,299 +3422,121 @@ Asthenodipsas laevis
 
 <!-- page 84 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
-
-Boiga cyanea Green Cat Snake Boiga cynodon Dog-toothed Cat Snake Boiga dendrophila melanota Mangrove Snake Boiga drapiezii White Spotted Cat Snake Boiga jaspidae Jasper Cat Snake Boiga multomaculata Marble Cat Snake Boiga nigriceps Black-headed Cat Snake Chrysopelea paradisi Paradise Tree Snake Chrysopelea ornata Golden Tree Snake Chrysopelea pelias Twin-barred Tree Snake Elaphe flavolineata Common Malayan Racer Elaphe porphyracea Red Mountain Racer Elaphe prasina Green Tree Racer Elaphe radiate Copperhead Racer Elaphe taeniura ridleyi Cave Dwelling Snake Enhydris bocourti Bocourt’s Water Snake Enhydris enhydris Rainbow Water Snake Gonyosoma oxycephalum Red-tailed Rat Snake Homalopsis buccata Puff-face Water Snake Liopeltis tricolor Malayan Ringneck Lycodon effraenis Scarce Wolf Snake Lycodon subcintus Malayan Banded Wolf Snake Macrocalamus lateralis Malayan Mountain Reed Snake Macrocalamus tweedie Tweedie’s Mountain Reed Snake Macropisthodon rhodomelas Blue-necked Keelback Pareas carinatus Keeled Slug Snake Pareas margaritophorus White-spotted Pareas vertebralis Southern Mountain Slug Snake Pseudoxenodon macrops Big-eyed Mountain Keelback Ptyas carinatus Keeled Rat Snake Ptyas fuscus White-bellied Rat Snake Ptyas mucosus Common Rat Snake Ptyas korros Indo-chinese Rat Snake Rhabdophis chrysargus Speckle-bellied Keelback Rhabdophis conspicillatus Rhabdophis subminiatus Red-necked Keelback
+Scientific Name Common Name Boiga cyanea Green Cat Snake Boiga cynodon Dog-toothed Cat Snake Boiga dendrophila melanota Mangrove Snake Boiga drapiezii White Spotted Cat Snake Boiga jaspidae Jasper Cat Snake Boiga multomaculata Marble Cat Snake Boiga nigriceps Black-headed Cat Snake Chrysopelea paradisi Paradise Tree Snake Chrysopelea ornata Golden Tree Snake Chrysopelea pelias Twin-barred Tree Snake Elaphe flavolineata Common Malayan Racer Elaphe porphyracea Red Mountain Racer Elaphe prasina Green Tree Racer Elaphe radiate Copperhead Racer Elaphe taeniura ridleyi Cave Dwelling Snake Enhydris bocourti Bocourt’s Water Snake Enhydris enhydris Rainbow Water Snake Gonyosoma oxycephalum Red-tailed Rat Snake Homalopsis buccata Puff-face Water Snake Liopeltis tricolor Malayan Ringneck Lycodon effraenis Scarce Wolf Snake Lycodon subcintus Malayan Banded Wolf Snake Macrocalamus lateralis Malayan Mountain Reed Snake Macrocalamus tweedie Tweedie’s Mountain Reed Snake Macropisthodon rhodomelas Blue-necked Keelback Pareas carinatus Keeled Slug Snake Pareas margaritophorus White-spotted Pareas vertebralis Southern Mountain Slug Snake Pseudoxenodon macrops Big-eyed Mountain Keelback Ptyas carinatus Keeled Rat Snake Ptyas fuscus White-bellied Rat Snake Ptyas mucosus Common Rat Snake Ptyas korros Indo-chinese Rat Snake Rhabdophis chrysargus Speckle-bellied Keelback Rhabdophis conspicillatus Rhabdophis subminiatus Red-necked Keelback
 
 <!-- page 85 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
+Scientific Name Common Name Sibynophis collaris Common Blackhead Sibynophis melanocephalus Malayan Many-toothed Snake Atretium schistosum Olivaceous Keelback Cerberus rhynchops Bockadam Clelia clelia Mussurana Cyclagras gigas Brazilian Smooth Snake Elachistodon westermanni Indian Egg-eater Ptyas mucosus Oriental Rat Snake Xenochrophis piscator Asiatic Water Snake
 
-Sibynophis collaris
+<!-- marginal: Cordylidae -->
 
-<!-- marginal: Common Blackhead -->
+Cordylus spp. Crag Lizards
 
-Sibynophis melanocephalus
+<!-- marginal: (Spiny-tailed lizards) -->
 
-<!-- marginal: Malayan Many-toothed -->
-
-<!-- marginal: Snake -->
-
-Atretium schistosum
-
-<!-- marginal: Olivaceous Keelback -->
-
-Cerberus rhynchops
-
-<!-- marginal: Bockadam -->
-
-Clelia clelia
-
-<!-- marginal: Mussurana -->
-
-Cyclagras gigas
-
-<!-- marginal: Brazilian Smooth Snake -->
-
-Elachistodon westermanni
-
-<!-- marginal: Indian Egg-eater -->
-
-Ptyas mucosus
-
-<!-- marginal: Oriental Rat Snake -->
-
-Xenochrophis piscator
-
-<!-- marginal: Asiatic Water Snake -->
-
-Cordylidae Cordylus spp.
-
-<!-- marginal: Crag Lizards -->
-
-(Spiny-tailed lizards) Crocodylus porosus (except
-
-<!-- marginal: Estuarine Crocodile -->
-
-the species in the Second
+Crocodylus porosus (except Estuarine Crocodile the species in the Second
 
 ## Schedule)
 
-Crocodylus acutus (except
-
-<!-- marginal: American Crocodile -->
-
-the species in the Second
+Crocodylus acutus (except American Crocodile the species in the Second
 
 ## Schedule)
 
-Crocodylus johnsoni
-
-<!-- marginal: Australian Freshwater -->
-
-<!-- marginal: Crocodile -->
-
-Crocodylus niloticus (except
-
-<!-- marginal: Nile Crocodile -->
-
-the species in the Second
+Crocodylus johnsoni Australian Freshwater Crocodile Crocodylus niloticus (except Nile Crocodile the species in the Second
 
 ## Schedule)
 
-Crocodylus novaeguineae
+Crocodylus novaeguineae New Guinea Crocodile
 
-<!-- marginal: New Guinea Crocodile -->
+<!-- marginal: Dibamidae -->
 
-Dibamidae Dibamus booliati Dibamus tiomanensis Dermatemydidae (Central Dermatemys mawii
+Dibamus booliati Dibamus tiomanensis
 
-<!-- marginal: Central American River -->
+<!-- marginal: Dermatemydidae (Central -->
 
-American river turtle)
+Dermatemys mawii Central American River
 
-<!-- marginal: Turtle -->
+<!-- marginal: American river turtle) -->
 
-Elapidae Bungarus candidus
+Turtle
 
-<!-- marginal: Malayan Krait -->
+<!-- marginal: Elapidae -->
 
-(Cobras, coral snakes) Bungarus fasciatus
+Bungarus candidus Malayan Krait
 
-<!-- marginal: Banded Krait -->
+<!-- marginal: (Cobras, coral snakes) -->
 
-Bungarus flaviceps
-
-<!-- marginal: Red headed Krait -->
-
-Calliophis maculiceps
-
-<!-- marginal: Small-spotted Coral Snake -->
-
-Callophis gracilis
-
-<!-- marginal: Spotted Coral Snake -->
-
-Maticora bivirgata
-
-<!-- marginal: Blue Long-Glanded -->
-
-Maticora intestinalis
-
-<!-- marginal: Banded Malayan Coral -->
-
-<!-- marginal: Snake -->
-
-Maticora maculiceps Naja kaouthia
-
-<!-- marginal: Monocellate Cobra -->
-
-Naja naja
-
-<!-- marginal: Common Cobra -->
-
-Naja sumatrana
-
-<!-- marginal: Equatorial Spitting Cobra -->
-
-Ophiophagus hannah
-
-<!-- marginal: King Cobra -->
-
-Hoplocephalus bungaroides
-
-<!-- marginal: Broad-headed Snake -->
-
-Naja atra
-
-<!-- marginal: Chinese Cobra -->
+Bungarus fasciatus Banded Krait Bungarus flaviceps Red headed Krait Calliophis maculiceps Small-spotted Coral Snake Callophis gracilis Spotted Coral Snake Maticora bivirgata Blue Long-Glanded Maticora intestinalis Banded Malayan Coral Snake Maticora maculiceps Naja kaouthia Monocellate Cobra Naja naja Common Cobra Naja sumatrana Equatorial Spitting Cobra Ophiophagus hannah King Cobra Hoplocephalus bungaroides Broad-headed Snake Naja atra Chinese Cobra
 
 <!-- page 86 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
+Scientific Name Common Name Naja mandalayensis Cobra Naja oxiana Central Asian Cobra Naja philippinensis North Philippine Spitting Cobra Naja sagittifera Andaman Cobra Naja samarensis Peter`s Cobra Naja siamensis Indochinese Cobra Naja sputatrix Indonesian Cobra Micrurus diastema Atlantic Coral Snake Micrurus nigrocinctus Black-banded Coral Snake
 
-Naja mandalayensis Cobra Naja oxiana Central Asian Cobra Naja philippinensis North Philippine Spitting Cobra Naja sagittifera Andaman Cobra Naja samarensis Peter`s Cobra Naja siamensis Indochinese Cobra Naja sputatrix Indonesian Cobra Micrurus diastema Atlantic Coral Snake Micrurus nigrocinctus Black-banded Coral Snake Gekkonidae Aeluroscalabotes felinus Cat-eyed Gecko (Geckos) Cnemaspis nigridius Dark Round-eyed Gecko Cyrtodactylus brevipalmatus Web-footed Slender-toed Gecko Cyrtodactylus consobrinus Banded Slender-toed Cyrtodactylus peguensis Leopard Gecko Cyrtodactylus pulchellus Banded Gecko Cyrtodactylus quadrivirgatus Marble Slender-toed Gekko gecko Tockay Hoplodactylus spp. Sticky-toed Geckos Naultinus spp. New Zealand Tree Geckos Phelsuma spp. Day Geckos Uroplatus spp. Flat-tailed Geckos Geomydidae Callagur borneoensis Painted Batagur (Box turtles, freshwater Cuora amboinensis Malaysian Box Turtle turtles), Cyclemys dentata Asian Leaf Tortoise Malayems subtrijuga Rice-field Terrapin Orlitia bornensis Malaysia Giant Tortoise Cuora spp. Box Turtle Geoemyda spengleri Black-breasted Leaf Turtle Glytemy mulenbergii Wood Turtle Graptemys spp. Map Turtles Heosemys depressa Arakan Forest Turtle Heosemys grandis Giant Asian Pond Turtle Heosemys spinosa Spiny Terrapin
+<!-- marginal: Gekkonidae -->
+
+Aeluroscalabotes felinus Cat-eyed Gecko
+
+<!-- marginal: (Geckos) -->
+
+Cnemaspis nigridius Dark Round-eyed Gecko Cyrtodactylus brevipalmatus Web-footed Slender-toed Gecko Cyrtodactylus consobrinus Banded Slender-toed Cyrtodactylus peguensis Leopard Gecko Cyrtodactylus pulchellus Banded Gecko Cyrtodactylus quadrivirgatus Marble Slender-toed Gekko gecko Tockay Hoplodactylus spp. Sticky-toed Geckos Naultinus spp. New Zealand Tree Geckos Phelsuma spp. Day Geckos Uroplatus spp. Flat-tailed Geckos
+
+<!-- marginal: Geomydidae -->
+
+Callagur borneoensis Painted Batagur
+
+<!-- marginal: (Box turtles, freshwater -->
+
+Cuora amboinensis Malaysian Box Turtle
+
+<!-- marginal: turtles), -->
+
+Cyclemys dentata Asian Leaf Tortoise Malayems subtrijuga Rice-field Terrapin Orlitia bornensis Malaysia Giant Tortoise Cuora spp. Box Turtle Geoemyda spengleri Black-breasted Leaf Turtle Glytemy mulenbergii Wood Turtle Graptemys spp. Map Turtles Heosemys depressa Arakan Forest Turtle Heosemys grandis Giant Asian Pond Turtle Heosemys spinosa Spiny Terrapin
 
 <!-- page 87 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
-
-Hieremys annandalii
-
-<!-- marginal: Yellow -headed Temple -->
-
-<!-- marginal: Turtle -->
-
-Kachuga spp.(except the
-
-<!-- marginal: Roofed Turtle -->
-
-species included in the Second
+Scientific Name Common Name Hieremys annandalii Yellow -headed Temple Turtle Kachuga spp.(except the Roofed Turtle species included in the Second
 
 ## Schedule)
 
-Leucocephalon yuwonoi
-
-<!-- marginal: Sulawesi Forest turtle -->
-
-Mauremys annamensis
-
-<!-- marginal: Annam Leaf Turtle -->
-
-Mauremys iversoni
-
-<!-- marginal: Fujian Pond Turtle -->
-
-Mauremys macrocephala
-
-<!-- marginal: Big-headed Pond Turtle -->
-
-Mauremys mutica
-
-<!-- marginal: Yellow Pond Turtle -->
-
-Mauremys nigricans
-
-<!-- marginal: Red-necked Pond Turtle -->
-
-Mauremys pritchardi
-
-<!-- marginal: Pritchard’s Pond Turtle -->
-
-Mauremys reevesii
-
-<!-- marginal: Reeves’s Turtle -->
-
-Mauremys sinensis
-
-<!-- marginal: Chinese Stripe-necked -->
-
-<!-- marginal: Turtle -->
-
-Notochelys platynota
-
-<!-- marginal: Malayan Flat-shelled Turtle -->
-
-Ocadia glyphistoma
-
-<!-- marginal: Notch-mouthed Stripe- -->
-
-<!-- marginal: necked Turtle -->
-
-Ocadia philippeni
-
-<!-- marginal: Philippen’s Stripe-necked -->
-
-<!-- marginal: Turtle -->
-
-Sacalia bealei
-
-<!-- marginal: Beal’s Eyed Turtle -->
-
-Sacalia pseudocellata
-
-<!-- marginal: Chinese False-eyed Turtle -->
-
-Sacalia quadriocellata
-
-<!-- marginal: Four-eyed Turtle -->
-
-Siebenrockiella crassicollis
-
-<!-- marginal: Black Marsh Turtle -->
-
-Sibenrockiella leytensis
-
-<!-- marginal: Leyte Pond Turtle -->
-
-Terrapene spp. (except the
-
-<!-- marginal: American Box Turtle -->
-
-species included in the Second
+Leucocephalon yuwonoi Sulawesi Forest turtle Mauremys annamensis Annam Leaf Turtle Mauremys iversoni Fujian Pond Turtle Mauremys macrocephala Big-headed Pond Turtle Mauremys mutica Yellow Pond Turtle Mauremys nigricans Red-necked Pond Turtle Mauremys pritchardi Pritchard’s Pond Turtle Mauremys reevesii Reeves’s Turtle Mauremys sinensis Chinese Stripe-necked Turtle Notochelys platynota Malayan Flat-shelled Turtle Ocadia glyphistoma Notch-mouthed Stripe- necked Turtle Ocadia philippeni Philippen’s Stripe-necked Turtle Sacalia bealei Beal’s Eyed Turtle Sacalia pseudocellata Chinese False-eyed Turtle Sacalia quadriocellata Four-eyed Turtle Siebenrockiella crassicollis Black Marsh Turtle Sibenrockiella leytensis Leyte Pond Turtle Terrapene spp. (except the American Box Turtle species included in the Second
 
 ## Schedule)
 
-Helodermatidae (Beaded Heloderma spp.
+<!-- marginal: Helodermatidae (Beaded -->
 
-<!-- marginal: Poisonous lizards -->
+Heloderma spp. Poisonous lizards
 
-lizard, gila monster) Iguanidae Amblyrhynchus cristatus
+<!-- marginal: lizard, gila monster) -->
 
-<!-- marginal: Galapagos Marine Iguana -->
+<!-- marginal: Iguanidae -->
 
-(Iguanas) Conolophus spp.
+Amblyrhynchus cristatus Galapagos Marine Iguana
 
-<!-- marginal: Land iguanas -->
+<!-- marginal: (Iguanas) -->
 
-Iguana spp.
+Conolophus spp. Land iguanas Iguana spp. Iguanas Phrynosoma coronatum Coast Horned Lizard
 
-<!-- marginal: Iguanas -->
+<!-- marginal: Lacertidae -->
 
-Phrynosoma coronatum
+Podarcis lilfordi Balearic Lizard
 
-<!-- marginal: Coast Horned Lizard -->
+<!-- marginal: (Lizards) -->
 
-Lacertidae Podarcis lilfordi
+Podarcis pityusensis Ibiza Wall Lizard
 
-<!-- marginal: Balearic Lizard -->
+<!-- marginal: Loxocemidae (Mexican -->
 
-(Lizards) Podarcis pityusensis
+Loxocemus spp. Burrowing Python
 
-<!-- marginal: Ibiza Wall Lizard -->
-
-Loxocemidae (Mexican Loxocemus spp.
-
-<!-- marginal: Burrowing Python -->
-
-Dwarf Boa)
+<!-- marginal: Dwarf Boa) -->
 
 <!-- page 88 -->
 
@@ -3656,161 +3544,177 @@ Family Scientific Name
 
 <!-- marginal: Common Name -->
 
-Erymnochelys Madagascar Big-headed Pelomedusidae madagascariensis Turtle (Afro-American side necked turtles) Peltocephalus dumeriliana Big-headed Amazon River Turtle Podocnemis spp. South American River Turtle Platysternidae Platysternon megacephalum Big-headed Turtle (Big-headed turtle) Pythonidae Python reticulatus Reticulated Python (Pythons) Antaresia spp. Apodora papuana Papuan Python Aspidites spp. Bothrochilus boa Barred Python Leiopython albertisii White-lipped Python Liasis spp. Morelia spp Python spp. (except the Pythons species included in the Second
+Erymnochelys
 
-## Schedule)
+<!-- marginal: Madagascar Big-headed -->
 
-Scincidae Corucia zebrata Prehensile-tailed Skink (Skink) Sphenomorphus praesignis Blotched Forest Skink Sphenomorphus stellatus Starry Forest Skink Teiidae Crocodilurus amazonicus Crocodile Tegu (Caiman lizards, tegu Dracaena spp. Caiman Lizards lizards) Tupinambis spp. Tegu Lizards Testudinidae (Tortoises) Indotestudo elongata Yellow-headed Tortoise Manouria emys Brown Asian Giant Tortoise Manouria impressa Impressed Tortoise Chersina angulata Angulated Tortoise Geochelone spp.(except the Tortoise species included in the Second
-
-## Schedule)
-
-Gopherus spp. (except the Tortoise species included in the Second
-
-## Schedule)
-
-Homopus spp. Indotestudo spp. Kinixys spp. Malacochersus tornieri African Pancake Tortoise Manouria spp. Tortoise Psammobates spp. (except the Tortoise species included in the Second
-
-## Schedule)
-
-Testudo spp. (except the Tortoise species included in the Second
-
-## Schedule)
-
-<!-- page 89 -->
-
-Family Scientific Name
-
-<!-- marginal: Common Name -->
-
-Trionychidae (Softshell Amyda cartilaginea
-
-<!-- marginal: Asiatic Soft-shelled Turtle -->
-
-turtles, terrapins) Chitra chitra
-
-<!-- marginal: Striped Giant Soft-shelled -->
+Pelomedusidae madagascariensis
 
 <!-- marginal: Turtle -->
 
-Dogania subplana
+(Afro-American side necked turtles) Peltocephalus dumeriliana
 
-<!-- marginal: Malayan Soft-shelled -->
-
-<!-- marginal: Tortoise -->
-
-Pelochelys cantorii
-
-<!-- marginal: Malayan Soft-shelled -->
-
-<!-- marginal: Tortoise -->
-
-Chitra spp.
-
-<!-- marginal: Narrow-headed Soft-shelled -->
-
-<!-- marginal: Turtles -->
-
-Lissemys punctata
-
-<!-- marginal: Spotted Turtle -->
-
-Palea steindachner
-
-<!-- marginal: Wattle-necked Soft-shelled -->
+<!-- marginal: Big-headed Amazon River -->
 
 <!-- marginal: Turtle -->
 
-Pelochelys spp.
+Podocnemis spp.
 
-<!-- marginal: Giants Soft-shelled Turtles -->
+<!-- marginal: South American River Turtle -->
 
-Pelodiscus axenaria
+Platysternidae Platysternon megacephalum
 
-<!-- marginal: Chinese Soft-shelled Turtle -->
+<!-- marginal: Big-headed Turtle -->
 
-Pelodiscus maackii Pelodiscus parviformis Rafetus swinhoei Tropidophiidae Exilibao placata
+(Big-headed turtle) Pythonidae Python reticulatus
 
-<!-- marginal: Oaxacan Dwarf Boa -->
+<!-- marginal: Reticulated Python -->
 
-(Wood boas) Trachyboa spp.
+(Pythons) Antaresia spp. Apodora papuana
 
-<!-- marginal: Eyelash Boas -->
+<!-- marginal: Papuan Python -->
 
-Tropidophis spp.
+Aspidites spp. Bothrochilus boa
 
-<!-- marginal: Dwarf Boas -->
+<!-- marginal: Barred Python -->
 
-Ungaliophis spp. Uromasticidae (Butterfly Leiolepis belliana
+Leiopython albertisii
 
-<!-- marginal: Common Butterfly Lizard -->
+<!-- marginal: White-lipped Python -->
 
-lizard) Varanidae Varanus salvator
+Liasis spp. Morelia spp Python spp. (except the
 
-<!-- marginal: Water monitor -->
-
-(Monitor lizards) Varanus spp. (except the
-
-<!-- marginal: Monitor Lizards -->
+<!-- marginal: Pythons -->
 
 species included in the Second
 
 ## Schedule)
 
-Viperidae Calloselasma rhodostoma
+Scincidae Corucia zebrata
 
-<!-- marginal: Malayan Pit Viper -->
+<!-- marginal: Prehensile-tailed Skink -->
 
-(Vipers) Ovophis monticola convictus
+(Skink) Sphenomorphus praesignis
 
-<!-- marginal: Mountain Pit Viper -->
+<!-- marginal: Blotched Forest Skink -->
 
-Popeia bunianae
+Sphenomorphus stellatus
 
-<!-- marginal: Tioman Pit Viper -->
+<!-- marginal: Starry Forest Skink -->
 
-Trimeresurus albolabris
+Teiidae Crocodilurus amazonicus
 
-<!-- marginal: White-lipped Pit Viper -->
+<!-- marginal: Crocodile Tegu -->
 
-albolabris Trimeresurus borneensis
+(Caiman lizards, tegu Dracaena spp.
 
-<!-- marginal: Bamboo Pit Viper -->
+<!-- marginal: Caiman Lizards -->
 
-Trimeresurus hageni
+lizards) Tupinambis spp.
 
-<!-- marginal: Indonesian Pit Viper -->
+<!-- marginal: Tegu Lizards -->
 
-Trimeresurus popeiorum
+Testudinidae (Tortoises) Indotestudo elongata
 
-<!-- marginal: Pope’s Pit Viper -->
+<!-- marginal: Yellow-headed Tortoise -->
 
-Trimeresurus puniceus
+Manouria emys
 
-<!-- marginal: Bornean Pit Viper -->
+<!-- marginal: Brown Asian Giant Tortoise -->
 
-Trimeresurus
+Manouria impressa
 
-<!-- marginal: Mangrove Pit Viper -->
+<!-- marginal: Impressed Tortoise -->
 
-purpureomaculatus Trimeresurus sumatranus
+Chersina angulata
 
-<!-- marginal: Sumatran Pit Viper -->
+<!-- marginal: Angulated Tortoise -->
 
-Tropidolaemus wagleri
+Geochelone spp.(except the
 
-<!-- marginal: Wagler’s Pit Viper -->
+<!-- marginal: Tortoise -->
 
-Crotalus durissus
+species included in the Second
 
-<!-- marginal: Cascabel Pit Viper -->
+## Schedule)
 
-Daboia russelii
+Gopherus spp. (except the
 
-<!-- marginal: Russell’s Viper -->
+<!-- marginal: Tortoise -->
 
-Vipera wagneri
+species included in the Second
 
-<!-- marginal: Wagner’s Viper -->
+## Schedule)
+
+Homopus spp. Indotestudo spp. Kinixys spp. Malacochersus tornieri
+
+<!-- marginal: African Pancake Tortoise -->
+
+Manouria spp.
+
+<!-- marginal: Tortoise -->
+
+Psammobates spp. (except the
+
+<!-- marginal: Tortoise -->
+
+species included in the Second
+
+## Schedule)
+
+Testudo spp. (except the
+
+<!-- marginal: Tortoise -->
+
+species included in the Second
+
+## Schedule)
+
+<!-- page 89 -->
+
+<!-- marginal: Family -->
+
+Scientific Name Common Name
+
+<!-- marginal: Trionychidae (Softshell -->
+
+Amyda cartilaginea Asiatic Soft-shelled Turtle
+
+<!-- marginal: turtles, terrapins) -->
+
+Chitra chitra Striped Giant Soft-shelled Turtle Dogania subplana Malayan Soft-shelled Tortoise Pelochelys cantorii Malayan Soft-shelled Tortoise Chitra spp. Narrow-headed Soft-shelled Turtles Lissemys punctata Spotted Turtle Palea steindachner Wattle-necked Soft-shelled Turtle Pelochelys spp. Giants Soft-shelled Turtles Pelodiscus axenaria Chinese Soft-shelled Turtle Pelodiscus maackii Pelodiscus parviformis Rafetus swinhoei
+
+<!-- marginal: Tropidophiidae -->
+
+Exilibao placata Oaxacan Dwarf Boa
+
+<!-- marginal: (Wood boas) -->
+
+Trachyboa spp. Eyelash Boas Tropidophis spp. Dwarf Boas Ungaliophis spp.
+
+<!-- marginal: Uromasticidae (Butterfly -->
+
+Leiolepis belliana Common Butterfly Lizard
+
+<!-- marginal: lizard) -->
+
+<!-- marginal: Varanidae -->
+
+Varanus salvator Water monitor
+
+<!-- marginal: (Monitor lizards) -->
+
+Varanus spp. (except the Monitor Lizards species included in the Second
+
+## Schedule)
+
+<!-- marginal: Viperidae -->
+
+Calloselasma rhodostoma Malayan Pit Viper
+
+<!-- marginal: (Vipers) -->
+
+Ovophis monticola convictus Mountain Pit Viper Popeia bunianae Tioman Pit Viper Trimeresurus albolabris White-lipped Pit Viper albolabris Trimeresurus borneensis Bamboo Pit Viper Trimeresurus hageni Indonesian Pit Viper Trimeresurus popeiorum Pope’s Pit Viper Trimeresurus puniceus Bornean Pit Viper Trimeresurus Mangrove Pit Viper purpureomaculatus Trimeresurus sumatranus Sumatran Pit Viper Tropidolaemus wagleri Wagler’s Pit Viper Crotalus durissus Cascabel Pit Viper Daboia russelii Russell’s Viper Vipera wagneri Wagner’s Viper
 
 <!-- page 90 -->
 
@@ -3818,13 +3722,145 @@ Family Scientific Name
 
 <!-- marginal: Common Name -->
 
-Xenopeltidae Xenopeltis unicolor Sunbeam Snake (Snake) Xenosauridae (Chinese Shinisaurus crocodilurus Chinese Crocodile Lizard crocodile lizard)
+Xenopeltidae Xenopeltis unicolor
+
+<!-- marginal: Sunbeam Snake -->
+
+(Snake) Xenosauridae (Chinese Shinisaurus crocodilurus
+
+<!-- marginal: Chinese Crocodile Lizard -->
+
+crocodile lizard)
 
 ## CLASS AMPHIBIA (AMPHIBIANS)
 
-Ambystomidae Ambystoma dumerilii Lake Patzcuaro Salamander (Salamander, Axolotls) Ambystoma mexicanum Axolotl Bufonidae Ansonia leptopus Brown Slender Toad (Toads) Ansonia penangensis Penang Stream Toad Ansonia tiomanica Tioman Slender Toad Bufo kumquat Peat Swamp Toad Kalophrynus palmatissimus Black-spotted Narrow- mouthed Frog Dendrobatidae Dendrobates spp. Poison Frogs (Poison frogs) Epipedobates spp. Poison Frogs Minyobates spp. Poison Frogs Phyllobates spp. Poison Frogs Mantellidae (Mantellas) Mantella spp. Golden Frogs
+Ambystomidae Ambystoma dumerilii
 
-Megophryidae Megophrys nasuta Bornean Horned Frog (Toad frogs) Xenophrys aceras Perak Spadefoot Toad Xenophrys longipes Long-legged Horned Frog Microhylidae Kalophrynus palmatissimus Black-spotted Narrow- (Red rain frog, tomato mouthed Frog frog) Kalophrynus robinson Scaphiophryne gottlebei Red Rain Frog Myobatrachidae (Gastric Rheobatrachus spp. Gastric-brooding Frogs brooding frog) Rhacophoridae Nyctixalus pictus Cinnamon Frog (Old world tree frogs) Polypedates colletti Collett’s Tree Frog Rhacophorus nigropalmatus Wallace’s Flying Frog Rhacophorus pardalis Harlequin Tree Frog Rhacophorus prominanus Malayan Flying Frog Rhacophorus reinwardtii Reinwardt’s Tree Frog Ranidae Amalops larutensis Larut Cascade Frog (Frogs) Limnonectes blythii Blyth’s River Frog Limnonectes malesianus Peat Swamp Frog Limnonectes nitidus Brightness Frog Limnonectes paramacrodon Lesser Swamp Frog Limnonectes tweediei Tweedie’s Frog Rana banjarana
+<!-- marginal: Lake Patzcuaro Salamander -->
+
+(Salamander, Axolotls) Ambystoma mexicanum
+
+<!-- marginal: Axolotl -->
+
+Bufonidae Ansonia leptopus
+
+<!-- marginal: Brown Slender Toad -->
+
+(Toads) Ansonia penangensis
+
+<!-- marginal: Penang Stream Toad -->
+
+Ansonia tiomanica
+
+<!-- marginal: Tioman Slender Toad -->
+
+Bufo kumquat
+
+<!-- marginal: Peat Swamp Toad -->
+
+Kalophrynus palmatissimus
+
+<!-- marginal: Black-spotted Narrow- -->
+
+<!-- marginal: mouthed Frog -->
+
+Dendrobatidae Dendrobates spp.
+
+<!-- marginal: Poison Frogs -->
+
+(Poison frogs) Epipedobates spp.
+
+<!-- marginal: Poison Frogs -->
+
+Minyobates spp.
+
+<!-- marginal: Poison Frogs -->
+
+Phyllobates spp.
+
+<!-- marginal: Poison Frogs -->
+
+Mantellidae (Mantellas) Mantella spp.
+
+<!-- marginal: Golden Frogs -->
+
+Megophryidae Megophrys nasuta
+
+<!-- marginal: Bornean Horned Frog -->
+
+(Toad frogs) Xenophrys aceras
+
+<!-- marginal: Perak Spadefoot Toad -->
+
+Xenophrys longipes
+
+<!-- marginal: Long-legged Horned Frog -->
+
+Microhylidae Kalophrynus palmatissimus
+
+<!-- marginal: Black-spotted Narrow- -->
+
+(Red rain frog, tomato
+
+<!-- marginal: mouthed Frog -->
+
+frog) Kalophrynus robinson Scaphiophryne gottlebei
+
+<!-- marginal: Red Rain Frog -->
+
+Myobatrachidae (Gastric Rheobatrachus spp.
+
+<!-- marginal: Gastric-brooding Frogs -->
+
+brooding frog) Rhacophoridae Nyctixalus pictus
+
+<!-- marginal: Cinnamon Frog -->
+
+(Old world tree frogs) Polypedates colletti
+
+<!-- marginal: Collett’s Tree Frog -->
+
+Rhacophorus nigropalmatus
+
+<!-- marginal: Wallace’s Flying Frog -->
+
+Rhacophorus pardalis
+
+<!-- marginal: Harlequin Tree Frog -->
+
+Rhacophorus prominanus
+
+<!-- marginal: Malayan Flying Frog -->
+
+Rhacophorus reinwardtii
+
+<!-- marginal: Reinwardt’s Tree Frog -->
+
+Ranidae Amalops larutensis
+
+<!-- marginal: Larut Cascade Frog -->
+
+(Frogs) Limnonectes blythii
+
+<!-- marginal: Blyth’s River Frog -->
+
+Limnonectes malesianus
+
+<!-- marginal: Peat Swamp Frog -->
+
+Limnonectes nitidus
+
+<!-- marginal: Brightness Frog -->
+
+Limnonectes paramacrodon
+
+<!-- marginal: Lesser Swamp Frog -->
+
+Limnonectes tweediei
+
+<!-- marginal: Tweedie’s Frog -->
+
+Rana banjarana
 
 <!-- page 91 -->
 
@@ -3946,19 +3982,137 @@ Family Scientific Name
 
 <!-- marginal: Common Name -->
 
-Lucanidae Colophon spp. Cape Stag Beetles (Cape stag beetles) Mantidae Deroplatys spp. Mantid (Praying mantid) Nymphalidae (Butterflies) Agatasa calydonia Glorios Begum Charaxes spp. Rajah Butterfly Danaus affins Tiger Butterfly Enispe intermedia Saytrid Butterfly Idea leuconoe Paper Kite Polyura eudamippus Great Nawab Polyura schreiber Nawab Zeuxidia aurelius Satyrid Butterfly Enispe intermedia Satyrid Butterfly Kallima paralekta Indian Leaf Prothoe franck Nyamphalid Butterfly Papilionidae Chilasa agestor Mime Butterfly (Birdwing butterflies, Gryllacris spp. Giant Cricket swallowtail butterflies) Lamproptera curius White Dragontail Lamproptera meges Green Dragontail Ornithoptera spp. (except Birdwing species listed in the Second
+Lucanidae Colophon spp.
+
+<!-- marginal: Cape Stag Beetles -->
+
+(Cape stag beetles) Mantidae Deroplatys spp.
+
+<!-- marginal: Mantid -->
+
+(Praying mantid) Nymphalidae (Butterflies) Agatasa calydonia
+
+<!-- marginal: Glorios Begum -->
+
+Charaxes spp.
+
+<!-- marginal: Rajah Butterfly -->
+
+Danaus affins
+
+<!-- marginal: Tiger Butterfly -->
+
+Enispe intermedia
+
+<!-- marginal: Saytrid Butterfly -->
+
+Idea leuconoe
+
+<!-- marginal: Paper Kite -->
+
+Polyura eudamippus
+
+<!-- marginal: Great Nawab -->
+
+Polyura schreiber
+
+<!-- marginal: Nawab -->
+
+Zeuxidia aurelius
+
+<!-- marginal: Satyrid Butterfly -->
+
+Enispe intermedia
+
+<!-- marginal: Satyrid Butterfly -->
+
+Kallima paralekta
+
+<!-- marginal: Indian Leaf -->
+
+Prothoe franck
+
+<!-- marginal: Nyamphalid Butterfly -->
+
+Papilionidae Chilasa agestor
+
+<!-- marginal: Mime Butterfly -->
+
+(Birdwing butterflies, Gryllacris spp.
+
+<!-- marginal: Giant Cricket -->
+
+swallowtail butterflies) Lamproptera curius
+
+<!-- marginal: White Dragontail -->
+
+Lamproptera meges
+
+<!-- marginal: Green Dragontail -->
+
+Ornithoptera spp. (except
+
+<!-- marginal: Birdwing -->
+
+species listed in the Second
 
 ## Schedule)
 
-Papilio mahadeva Burmese Raven Papilio palinurus Banded Peacock Parnassius apollo Apollo Butterfly Teinopalpus spp. Kaiserihinds Trogonoptera spp. Birdwing Butterflies Troides spp. Birdwing Butterflies Atrophaneura jophon Sri Lanka Rose Atrophaneura pandiyana Bhutanitis spp. Bhutan Swallowtails Phyllidae Phyllium giganteum Leaf Insect (Leaf insects) Phyllium pulchifolium Leaf Insect
+Papilio mahadeva
+
+<!-- marginal: Burmese Raven -->
+
+Papilio palinurus
+
+<!-- marginal: Banded Peacock -->
+
+Parnassius apollo
+
+<!-- marginal: Apollo Butterfly -->
+
+Teinopalpus spp.
+
+<!-- marginal: Kaiserihinds -->
+
+Trogonoptera spp.
+
+<!-- marginal: Birdwing Butterflies -->
+
+Troides spp.
+
+<!-- marginal: Birdwing Butterflies -->
+
+Atrophaneura jophon
+
+<!-- marginal: Sri Lanka Rose -->
+
+Atrophaneura pandiyana Bhutanitis spp.
+
+<!-- marginal: Bhutan Swallowtails -->
+
+Phyllidae Phyllium giganteum
+
+<!-- marginal: Leaf Insect -->
+
+(Leaf insects) Phyllium pulchifolium
+
+<!-- marginal: Leaf Insect -->
 
 ## CLASS HIRUDINOIDEA (LEECHES)
 
-Hirudinidae Hirudo medicinalis Medicinal Leech (Medicinal leech)
+Hirudinidae Hirudo medicinalis
+
+<!-- marginal: Medicinal Leech -->
+
+(Medicinal leech)
 
 ## CLASS GASTROPODA (SNAILS AND CONCHES)
 
-Camaenidae Papustyla pulcherrima Emerald Green Snail (Green tree snail)
+Camaenidae Papustyla pulcherrima
+
+<!-- marginal: Emerald Green Snail -->
+
+(Green tree snail)
 
 <!-- page 93 -->
 
@@ -4046,169 +4200,57 @@ Bovidae Bos gaurus
 
 <!-- page 94 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
+Scientific Name Common Name Bos javanicus Banteng Capricornis sumatraensis Mainland Serow Addax nasomaculatus Addax Bos mutus Wild Yak Bos sauveli Kouprey Bubalus depressicornis Anoa Bubalus mindorensis Tamaraw Bubalus quarlesi Mountain Anoa Capra falconeri Markhor Capricornis spp. Serow Cephalophus jentinki Jentink’s Duiker Gazella cuvieri Cuvier’s Gazelle Gazella leptoceros Sand Gazelle Hippotragus niger variani Giant Sable Antelope Naemorhedus baileyi Red Goral Naemorhedus caudatus Chinese Goral Naemorhedus goral Himalayan Goral Naemorhedus griseus South China Goral Nanger dama Addra Gazelle Oryx dammah Sahara Oryx Oryx leucoryx Arabian Oryx Ovis ammon hodgsonii Great Tibetan Sheep Ovis ammon nigrimontana Asian Wild Sheep Ovis orientalis ophion Cyprian Wild Sheep Ovis vignei vignei Ladakh Urial Pantholops hodgsonii Chiru Pseudoryx nghetinhensis Saola Rupicapra pyrenaica ornata Pyrenean Chamois
 
-Bos javanicus Banteng Capricornis sumatraensis Mainland Serow Addax nasomaculatus Addax Bos mutus Wild Yak Bos sauveli Kouprey Bubalus depressicornis Anoa Bubalus mindorensis Tamaraw Bubalus quarlesi Mountain Anoa Capra falconeri Markhor Capricornis spp. Serow Cephalophus jentinki Jentink’s Duiker Gazella cuvieri Cuvier’s Gazelle Gazella leptoceros Sand Gazelle Hippotragus niger variani Giant Sable Antelope Naemorhedus baileyi Red Goral Naemorhedus caudatus Chinese Goral Naemorhedus goral Himalayan Goral Naemorhedus griseus South China Goral Nanger dama Addra Gazelle Oryx dammah Sahara Oryx Oryx leucoryx Arabian Oryx Ovis ammon hodgsonii Great Tibetan Sheep Ovis ammon nigrimontana Asian Wild Sheep Ovis orientalis ophion Cyprian Wild Sheep Ovis vignei vignei Ladakh Urial Pantholops hodgsonii Chiru Pseudoryx nghetinhensis Saola Rupicapra pyrenaica ornata Pyrenean Chamois Canidae Cuon alpinus Asiatic Wild Dog (Bush dog, foxes, wolves) Canis lupus Common Wolf Speothos venaticus Bush Dog Cebidae Callimico goeldii Goeldi’s Marmoset (Marmosets, tamarins) Callithrix aurita Buffy-tufted-ear Marmoset Callithrix flaviceps Buffy-headed Marmoset Leontopithecus spp. Lion tamarins Saguinus bicolor Bare-faced Tamarin Saguinus geoffroyi Cotton-top Marmoset Saguinus leucopus White-footed Tamarin Saguinus martinsi Martin’s Bare-faced Tamarin
+<!-- marginal: Canidae -->
+
+Cuon alpinus Asiatic Wild Dog
+
+<!-- marginal: (Bush dog, foxes, wolves) -->
+
+Canis lupus Common Wolf Speothos venaticus Bush Dog
+
+<!-- marginal: Cebidae -->
+
+Callimico goeldii Goeldi’s Marmoset
+
+<!-- marginal: (Marmosets, tamarins) -->
+
+Callithrix aurita Buffy-tufted-ear Marmoset Callithrix flaviceps Buffy-headed Marmoset Leontopithecus spp. Lion tamarins Saguinus bicolor Bare-faced Tamarin Saguinus geoffroyi Cotton-top Marmoset Saguinus leucopus White-footed Tamarin Saguinus martinsi Martin’s Bare-faced Tamarin
 
 <!-- page 95 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
+Scientific Name Common Name Saguinus oedipus Cotton-headed Tamarin Saimiri oerstedii Central American Squirrel Monkey
 
-Saguinus oedipus
+<!-- marginal: Cercopithecidae -->
 
-<!-- marginal: Cotton-headed Tamarin -->
+Macaca arctoides Stump-tailed Macaque
 
-Saimiri oerstedii
+<!-- marginal: (Old world monkeys) -->
 
-<!-- marginal: Central American Squirrel -->
+Nasalis larvatus Proboscis Monkey Cercocebus galeritus Tana River Mangabey Cercopithecus diana Diana Guenon Cercopithecus roloway Roloway Monkey Macaca silenus Lion-tailed Macaque Mandrillus leucophaeus Drill Mandrillus sphinx Mandrill Nasalis spp. Long-nosed Monkey Piliocolobus kirkii Kirk’s Colobus Piliocolobus rufomitratus Tana River Red Colobus Presbytis potenziani Long-tailed Langur Pygathrix spp. Snub-nosed Monkeys Rhinopithecus avunculus Tonkin Snub-nosed Monkey Rhinopithecus bieti Yunnan Snub-nosed Monkey Rhinopithecus brelichi Brelich’s Snub-nosed Monkey Semnopithecus spp. Grey Langur Trachypithecus geei Golden Langur Trachypithecus pileatus Bonneted Langur Trachypithecus shortridgei Shortridge’s Langur
 
-<!-- marginal: Monkey -->
+<!-- marginal: Cervidae -->
 
-Cercopithecidae Macaca arctoides
+Axis calamianensis Calamian Deer
 
-<!-- marginal: Stump-tailed Macaque -->
+<!-- marginal: (Deer, guemals, -->
 
-(Old world monkeys) Nasalis larvatus
+Axis kuhlii Bawean Deer
 
-<!-- marginal: Proboscis Monkey -->
+<!-- marginal: muntjacs, pudus) -->
 
-Cercocebus galeritus
+Axis porcinus annamiticus Ganges Hog Deer Blastocerus dichotomus Marsh Deer Cervus elaphus hanglu Red Deer Dama dama mesopotamica Persian Fallow Deer Hippocamelus spp. Huemuls Muntiacus crinifrons Black Muntjac Muntiacus vuquanghensis Giant Muntjac Ozotoceros bezoarticus Pampas Deer Pudu puda Chilean Pudu Rucervus duvaucelii Swamp Deer Rucervus eldii Brow-antlered Deer
 
-<!-- marginal: Tana River Mangabey -->
+<!-- marginal: Chaeropodidae -->
 
-Cercopithecus diana
+Chaeropus ecaudatus Pig-footed Bandicoot
 
-<!-- marginal: Diana Guenon -->
-
-Cercopithecus roloway
-
-<!-- marginal: Roloway Monkey -->
-
-Macaca silenus
-
-<!-- marginal: Lion-tailed Macaque -->
-
-Mandrillus leucophaeus
-
-<!-- marginal: Drill -->
-
-Mandrillus sphinx
-
-<!-- marginal: Mandrill -->
-
-Nasalis spp.
-
-<!-- marginal: Long-nosed Monkey -->
-
-Piliocolobus kirkii
-
-<!-- marginal: Kirk’s Colobus -->
-
-Piliocolobus rufomitratus
-
-<!-- marginal: Tana River Red Colobus -->
-
-Presbytis potenziani
-
-<!-- marginal: Long-tailed Langur -->
-
-Pygathrix spp.
-
-<!-- marginal: Snub-nosed Monkeys -->
-
-Rhinopithecus avunculus
-
-<!-- marginal: Tonkin Snub-nosed Monkey -->
-
-Rhinopithecus bieti
-
-<!-- marginal: Yunnan Snub-nosed -->
-
-<!-- marginal: Monkey -->
-
-Rhinopithecus brelichi
-
-<!-- marginal: Brelich’s Snub-nosed -->
-
-<!-- marginal: Monkey -->
-
-Semnopithecus spp.
-
-<!-- marginal: Grey Langur -->
-
-Trachypithecus geei
-
-<!-- marginal: Golden Langur -->
-
-Trachypithecus pileatus
-
-<!-- marginal: Bonneted Langur -->
-
-Trachypithecus shortridgei
-
-<!-- marginal: Shortridge’s Langur -->
-
-Cervidae Axis calamianensis
-
-<!-- marginal: Calamian Deer -->
-
-(Deer, guemals, Axis kuhlii
-
-<!-- marginal: Bawean Deer -->
-
-muntjacs, pudus) Axis porcinus annamiticus
-
-<!-- marginal: Ganges Hog Deer -->
-
-Blastocerus dichotomus
-
-<!-- marginal: Marsh Deer -->
-
-Cervus elaphus hanglu
-
-<!-- marginal: Red Deer -->
-
-Dama dama mesopotamica
-
-<!-- marginal: Persian Fallow Deer -->
-
-Hippocamelus spp.
-
-<!-- marginal: Huemuls -->
-
-Muntiacus crinifrons
-
-<!-- marginal: Black Muntjac -->
-
-Muntiacus vuquanghensis
-
-<!-- marginal: Giant Muntjac -->
-
-Ozotoceros bezoarticus
-
-<!-- marginal: Pampas Deer -->
-
-Pudu puda
-
-<!-- marginal: Chilean Pudu -->
-
-Rucervus duvaucelii
-
-<!-- marginal: Swamp Deer -->
-
-Rucervus eldii
-
-<!-- marginal: Brow-antlered Deer -->
-
-Chaeropodidae Chaeropus ecaudatus
-
-<!-- marginal: Pig-footed Bandicoot -->
-
-(Bandicoots)
+<!-- marginal: (Bandicoots) -->
 
 <!-- page 96 -->
 
@@ -4216,163 +4258,187 @@ Family Scientific Name
 
 <!-- marginal: Common Name -->
 
-Cheirogaleidae Allocebus trichotis Hairy-eared Dwarf Lemur (Dwarf lemurs) Cheirogaleus spp. Dwarf Lemur Microcebus spp. Mouse Lemur Mirza coquereli Coquerel’s Dwarf Lemur Phaner spp. Fork-marked Lemur Chinchillidae (Chinchillas) Chinchilla spp. Chinchillas Cynocephalidae Galeopterus variegatus Malayan Flying Lemur (Flying lemurs) Dasypodidae (Armadillos) Priodontes maximus Giant Armadillo Dasyuridae Sminthopsis longicaudata Long-tailed Dunnart (Dunnarts) Sminthopsis psammophila Sandhill Dunnart Daubentoniidae Daubentonia madagascariensis Aye-aye (Aye-aye) Elephantidae Elephas maximus Asian Elephant (Elephants) Loxodonta africana African Elephant Equidae Equus africanus African Ass (Horses, wild asses, Equus grevyi Grevy’s Zebra zebras) Equus hemionus hemionus Mongolian Wild Ass Equus hemionus khur Indian Wild Ass Equus przewalskii Mongolian Wild Horse Equus zebra zebra Cape Mountain Zebra Felidae Catopuma badia Bay Cat
+Cheirogaleidae Allocebus trichotis
 
-(Cats) Catopuma temminckii Asian Golden Cat Neofelis nebulosa Clouded Leopard Panthera pardus Leopard Panthera tigris Tiger Pardofelis marmorata Marbled Cat Prionailurus bengalensis Leopard Cat Prionailurus planiceps Flat-headed Cat Acinonyx jubatus Cheetah Caracal caracal (Asian Caracal population, other than populations included in the
+<!-- marginal: Hairy-eared Dwarf Lemur -->
+
+(Dwarf lemurs) Cheirogaleus spp.
+
+<!-- marginal: Dwarf Lemur -->
+
+Microcebus spp.
+
+<!-- marginal: Mouse Lemur -->
+
+Mirza coquereli
+
+<!-- marginal: Coquerel’s Dwarf Lemur -->
+
+Phaner spp.
+
+<!-- marginal: Fork-marked Lemur -->
+
+Chinchillidae (Chinchillas) Chinchilla spp.
+
+<!-- marginal: Chinchillas -->
+
+Cynocephalidae Galeopterus variegatus
+
+<!-- marginal: Malayan Flying Lemur -->
+
+(Flying lemurs) Dasypodidae (Armadillos) Priodontes maximus
+
+<!-- marginal: Giant Armadillo -->
+
+Dasyuridae Sminthopsis longicaudata
+
+<!-- marginal: Long-tailed Dunnart -->
+
+(Dunnarts) Sminthopsis psammophila
+
+<!-- marginal: Sandhill Dunnart -->
+
+Daubentoniidae Daubentonia madagascariensis
+
+<!-- marginal: Aye-aye -->
+
+(Aye-aye) Elephantidae Elephas maximus
+
+<!-- marginal: Asian Elephant -->
+
+(Elephants) Loxodonta africana
+
+<!-- marginal: African Elephant -->
+
+Equidae Equus africanus
+
+<!-- marginal: African Ass -->
+
+(Horses, wild asses, Equus grevyi
+
+<!-- marginal: Grevy’s Zebra -->
+
+zebras) Equus hemionus hemionus
+
+<!-- marginal: Mongolian Wild Ass -->
+
+Equus hemionus khur
+
+<!-- marginal: Indian Wild Ass -->
+
+Equus przewalskii
+
+<!-- marginal: Mongolian Wild Horse -->
+
+Equus zebra zebra
+
+<!-- marginal: Cape Mountain Zebra -->
+
+Felidae Catopuma badia
+
+<!-- marginal: Bay Cat -->
+
+(Cats) Catopuma temminckii
+
+<!-- marginal: Asian Golden Cat -->
+
+Neofelis nebulosa
+
+<!-- marginal: Clouded Leopard -->
+
+Panthera pardus
+
+<!-- marginal: Leopard -->
+
+Panthera tigris
+
+<!-- marginal: Tiger -->
+
+Pardofelis marmorata
+
+<!-- marginal: Marbled Cat -->
+
+Prionailurus bengalensis
+
+<!-- marginal: Leopard Cat -->
+
+Prionailurus planiceps
+
+<!-- marginal: Flat-headed Cat -->
+
+Acinonyx jubatus
+
+<!-- marginal: Cheetah -->
+
+Caracal caracal (Asian
+
+<!-- marginal: Caracal -->
+
+population, other than populations included in the
 
 ## First Schedule)
 
-Felis nigripes Black-footed Cat Leopardus geoffroyi Geoffroy’s Cat Leopardus jacobita Andean Cat Leopardus pardalis Ocelot Leopardus tigrinus Little Spotted Cat Leopardus wiedii Margay
+Felis nigripes
+
+<!-- marginal: Black-footed Cat -->
+
+Leopardus geoffroyi
+
+<!-- marginal: Geoffroy’s Cat -->
+
+Leopardus jacobita
+
+<!-- marginal: Andean Cat -->
+
+Leopardus pardalis
+
+<!-- marginal: Ocelot -->
+
+Leopardus tigrinus
+
+<!-- marginal: Little Spotted Cat -->
+
+Leopardus wiedii
+
+<!-- marginal: Margay -->
 
 <!-- page 97 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
-
-Lynx pardinus
-
-<!-- marginal: Iberian Lynx -->
-
-Panthera leo persica
-
-<!-- marginal: Asiatic Lion -->
-
-Panthera onca
-
-<!-- marginal: Jaguar -->
-
-Prionailurus rubiginosus
-
-<!-- marginal: Rusty-spotted Cat -->
-
-Prionailurus viverrinus
-
-<!-- marginal: Fishing Cat -->
-
-Puma concolor coryi
-
-<!-- marginal: Florida Cougar -->
-
-Puma concolor costaricensis
-
-<!-- marginal: Central American Puma -->
-
-Puma concolor couguar
-
-<!-- marginal: Eastern Cougar -->
-
-Puma yagouaroundi (only
-
-<!-- marginal: Eyra Cat -->
-
-population of North and Central America, other than populations included in the
+Scientific Name Common Name Lynx pardinus Iberian Lynx Panthera leo persica Asiatic Lion Panthera onca Jaguar Prionailurus rubiginosus Rusty-spotted Cat Prionailurus viverrinus Fishing Cat Puma concolor coryi Florida Cougar Puma concolor costaricensis Central American Puma Puma concolor couguar Eastern Cougar Puma yagouaroundi (only Eyra Cat population of North and Central America, other than populations included in the
 
 ## First Schedule)
 
-Uncia uncia
+Uncia uncia Snow Leopard
 
-<!-- marginal: Snow Leopard -->
+<!-- marginal: Herpestidae (Mongooses) -->
 
-Herpestidae (Mongooses) Herpestes brachyurus
+Herpestes brachyurus Short-tailed Mongoose Herpestes edwardsii Indian Grey Mongoose Herpestes javanicus Small Asian Mongoose Herpestes urva Crab-eating Mongoose
 
-<!-- marginal: Short-tailed Mongoose -->
+<!-- marginal: Heteromyidae -->
 
-Herpestes edwardsii
+Dipodomys elator Texas Kangaroo Rat
 
-<!-- marginal: Indian Grey Mongoose -->
+<!-- marginal: (Kangaroo rat) -->
 
-Herpestes javanicus
+Dipodomys gravipes San Quintin Kangaroo Rat Dipodomys ingens Giant Kangaroo Rat Dipodomys insularis San Jose Island Kangaroo Rat Dipodomys margaritae Margarita Island Kangaroo Rat Dipodomys nitratoides San Joaquin Kangaroo Rat Dipodomys spectabilis Banner-tailed Kangaroo Rat Dipodomys stephensi Stephen’s Kangaroo Rat
 
-<!-- marginal: Small Asian Mongoose -->
+<!-- marginal: Hominidae (Chimpanzees, -->
 
-Herpestes urva
+Pongo pygmaeus Bornean Orang Utan
 
-<!-- marginal: Crab-eating Mongoose -->
+<!-- marginal: gorilla, orang utan) -->
 
-Heteromyidae Dipodomys elator
+Gorilla beringei Eastern Gorilla Gorilla gorilla Gorilla Pan spp. Chimpanzees Pongo abelii Sumatran Orang Utan
 
-<!-- marginal: Texas Kangaroo Rat -->
+<!-- marginal: Hylobatidae -->
 
-(Kangaroo rat) Dipodomys gravipes
+Hylobates agilis Agile Gibbon
 
-<!-- marginal: San Quintin Kangaroo Rat -->
+<!-- marginal: (Gibbons) -->
 
-Dipodomys ingens
-
-<!-- marginal: Giant Kangaroo Rat -->
-
-Dipodomys insularis
-
-<!-- marginal: San Jose Island Kangaroo -->
-
-<!-- marginal: Rat -->
-
-Dipodomys margaritae
-
-<!-- marginal: Margarita Island Kangaroo -->
-
-<!-- marginal: Rat -->
-
-Dipodomys nitratoides
-
-<!-- marginal: San Joaquin Kangaroo Rat -->
-
-Dipodomys spectabilis
-
-<!-- marginal: Banner-tailed Kangaroo Rat -->
-
-Dipodomys stephensi
-
-<!-- marginal: Stephen’s Kangaroo Rat -->
-
-Hominidae (Chimpanzees, Pongo pygmaeus
-
-<!-- marginal: Bornean Orang Utan -->
-
-gorilla, orang utan) Gorilla beringei
-
-<!-- marginal: Eastern Gorilla -->
-
-Gorilla gorilla
-
-<!-- marginal: Gorilla -->
-
-Pan spp.
-
-<!-- marginal: Chimpanzees -->
-
-Pongo abelii
-
-<!-- marginal: Sumatran Orang Utan -->
-
-Hylobatidae Hylobates agilis
-
-<!-- marginal: Agile Gibbon -->
-
-(Gibbons) Hylobates lar
-
-<!-- marginal: White-handed Gibbon -->
-
-Hylobates muelleri
-
-<!-- marginal: Borneon Gibbon -->
-
-Symphalangus syndactylus
-
-<!-- marginal: Siamang -->
-
-Bunopithecus hoolock
-
-<!-- marginal: Hoolock Gibbon -->
-
-Hylobates spp.
-
-<!-- marginal: Gibbons -->
-
-Nomascus spp.
-
-<!-- marginal: Gibbon -->
+Hylobates lar White-handed Gibbon Hylobates muelleri Borneon Gibbon Symphalangus syndactylus Siamang Bunopithecus hoolock Hoolock Gibbon Hylobates spp. Gibbons Nomascus spp. Gibbon
 
 <!-- page 98 -->
 
@@ -4380,11 +4446,141 @@ Family Scientific Name
 
 <!-- marginal: Common Name -->
 
-Hystricidae Trichys fasciculate Long-tailed Porcupine (Crested porcupine) Indriidae Avahi laniger Eastern Woolly Lemur (Avahi, indris, Avahi occidentalis Western Avahi sifakas, woolly lemurs) Avahi unicolor Unicoloured Avahi Indri indri Indris Propithecus spp. Sifakas Lemuridae Eulemur spp. Lemurs (Large lemurs) Hapalemur spp. Lemurs Lemur spp. Lemurs Lemuridae spp. Lemur Prolemur simus Greater Bamboo Lemur Varecia rubra Red Ruffed Lemur Varecia variegata Ruffed Lemur Lepilemuridae Lepilemur spp. Sportive Lemurs (Sportive Megaladapidae spp. Sportive Lemurs lemurs) Leporidae Caprolagus hispidus Assam Rabbit (Hispid hare, volcano rabbit) Romerolagus diazi Volcano Rabbit Lorisidae Nycticebus coucang Slow Loris (Loris) Nycticebus bengalensis Bengal Slow Loris Nycticebus pygmaeus Lesser Slow Loris Nycticebus spp. Slow Loris Macropodidae (Kangaroos, Dendrolagus spp. Tree Kangaroos wallabies) Lagorchestes hirsutus Rufous Hare-wallaby Lagostrophus fasciatus Banded Hare-wallaby Onychogalea fraenata Bridled Nailtail Wallaby Onychogalea lunata Crescent Nailtail Wallaby Manidae (Pangolins) Manis javanica Malayan Pangolin Manis spp. Pangolin Moschidae Moschus spp. (only Musk Deer (Musk deer) populations of Afghanistan, Bhutan, India, Myanmar, Nepal and Pakistan, other than populations included in the
+Hystricidae Trichys fasciculate
+
+<!-- marginal: Long-tailed Porcupine -->
+
+(Crested porcupine) Indriidae Avahi laniger
+
+<!-- marginal: Eastern Woolly Lemur -->
+
+(Avahi, indris, Avahi occidentalis
+
+<!-- marginal: Western Avahi -->
+
+sifakas, woolly lemurs) Avahi unicolor
+
+<!-- marginal: Unicoloured Avahi -->
+
+Indri indri
+
+<!-- marginal: Indris -->
+
+Propithecus spp.
+
+<!-- marginal: Sifakas -->
+
+Lemuridae Eulemur spp.
+
+<!-- marginal: Lemurs -->
+
+(Large lemurs) Hapalemur spp.
+
+<!-- marginal: Lemurs -->
+
+Lemur spp.
+
+<!-- marginal: Lemurs -->
+
+Lemuridae spp.
+
+<!-- marginal: Lemur -->
+
+Prolemur simus
+
+<!-- marginal: Greater Bamboo Lemur -->
+
+Varecia rubra
+
+<!-- marginal: Red Ruffed Lemur -->
+
+Varecia variegata
+
+<!-- marginal: Ruffed Lemur -->
+
+Lepilemuridae Lepilemur spp.
+
+<!-- marginal: Sportive Lemurs -->
+
+(Sportive Megaladapidae spp.
+
+<!-- marginal: Sportive Lemurs -->
+
+lemurs) Leporidae Caprolagus hispidus
+
+<!-- marginal: Assam Rabbit -->
+
+(Hispid hare, volcano rabbit) Romerolagus diazi
+
+<!-- marginal: Volcano Rabbit -->
+
+Lorisidae Nycticebus coucang
+
+<!-- marginal: Slow Loris -->
+
+(Loris) Nycticebus bengalensis
+
+<!-- marginal: Bengal Slow Loris -->
+
+Nycticebus pygmaeus
+
+<!-- marginal: Lesser Slow Loris -->
+
+Nycticebus spp.
+
+<!-- marginal: Slow Loris -->
+
+Macropodidae (Kangaroos, Dendrolagus spp.
+
+<!-- marginal: Tree Kangaroos -->
+
+wallabies) Lagorchestes hirsutus
+
+<!-- marginal: Rufous Hare-wallaby -->
+
+Lagostrophus fasciatus
+
+<!-- marginal: Banded Hare-wallaby -->
+
+Onychogalea fraenata
+
+<!-- marginal: Bridled Nailtail Wallaby -->
+
+Onychogalea lunata
+
+<!-- marginal: Crescent Nailtail Wallaby -->
+
+Manidae (Pangolins) Manis javanica
+
+<!-- marginal: Malayan Pangolin -->
+
+Manis spp.
+
+<!-- marginal: Pangolin -->
+
+Moschidae Moschus spp. (only
+
+<!-- marginal: Musk Deer -->
+
+(Musk deer) populations of Afghanistan, Bhutan, India, Myanmar, Nepal and Pakistan, other than populations included in the
 
 ## First Schedule)
 
-Muridae Leporillus conditor Greater Stick-nest Rat (Mice, rats) Pseudomys fieldi praeconis Alice Springs Mouse Xeromys myoides False Swamp Rat Zyzomys pedunculatus Central Rock Rat
+Muridae Leporillus conditor
+
+<!-- marginal: Greater Stick-nest Rat -->
+
+(Mice, rats) Pseudomys fieldi praeconis
+
+<!-- marginal: Alice Springs Mouse -->
+
+Xeromys myoides
+
+<!-- marginal: False Swamp Rat -->
+
+Zyzomys pedunculatus
+
+<!-- marginal: Central Rock Rat -->
 
 <!-- page 99 -->
 
@@ -4540,1005 +4736,455 @@ Africa and Swaziland included in the First Schedule)
 
 <!-- page 100 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
+Scientific Name Common Name Ceratotherum simum cottoni Northern Square-lipped Rhinoceros Diceros bicornis Black Rhinoceros Rhinocerotidae spp. Rhinoceros Rhinoceros unicornis Great Indian Rhinoceros
 
-Ceratotherum simum cottoni Northern Square-lipped Rhinoceros Diceros bicornis Black Rhinoceros Rhinocerotidae spp. Rhinoceros Rhinoceros unicornis Great Indian Rhinoceros Sciuridae Aeromys tephromelas Large Black Flying Squirrel (Ground squirrels, tree Callosciurus prevostii Prevost’s Squirrel squirrels) Hylopetes lepidus Grey-cheeked Flying Squirrel Hylopetes spadiceus Red-cheeked Flying Squirrel Iomys horsfieldii Horsfield’s Flying Squirrel Petaurillus kinlochii Selangor Pygmy Flying Squirrel Petaurista elegans Spotted Giant Flying Squirrel Petaurista petaurista Red Giant Flying Squirrel Petinomys genibarbis Whiskered Flying Squirrel Petinomys setosus Temminck’s Flying Squirrel Petinomys vordermanni Vordermann’s Flying Squirrel Pteromyscus pulverulentus Smoky Flying Squirrel Ratufa affinis Cream-coloured Giant Squirrel Ratufa bicolor Black Giant Squirrel Cynomys mexicanus Prairie Dog Suidae Sus barbatus Bearded Pig (Babirusa, pygmy Babyrousa babyrussa Babiroussa hog) Babyrousa bolabatuensis Bola Batu Babirusa Babyrousa celebensis North Sulawesi Babirusa Babyrousa togeanensis Malenge Babirusa Sus salvanius Pygmy Hog Tapiridae Tapirus indicus Asian Tapir (Tapirs) Tapirus bairdii Baird’s Tapir Tapirus pinchaque Andean Tapir Tapirus terrestris Lowland Tapir Tayassuidae Catagonus wagneri Chacoan Peccary (Peccaries) Thylacinidae Thylacinus cynocephalus Tasmanian Tiger (Tasmanian wolf, thylacine) Thylacomyidae Macrotis lagotis Bilby (Bilby) Macrotis leucura Lesser Bilby
+<!-- marginal: Sciuridae -->
+
+Aeromys tephromelas Large Black Flying Squirrel
+
+<!-- marginal: (Ground squirrels, tree -->
+
+Callosciurus prevostii Prevost’s Squirrel
+
+<!-- marginal: squirrels) -->
+
+Hylopetes lepidus Grey-cheeked Flying Squirrel Hylopetes spadiceus Red-cheeked Flying Squirrel Iomys horsfieldii Horsfield’s Flying Squirrel Petaurillus kinlochii Selangor Pygmy Flying Squirrel Petaurista elegans Spotted Giant Flying Squirrel Petaurista petaurista Red Giant Flying Squirrel Petinomys genibarbis Whiskered Flying Squirrel Petinomys setosus Temminck’s Flying Squirrel Petinomys vordermanni Vordermann’s Flying Squirrel Pteromyscus pulverulentus Smoky Flying Squirrel Ratufa affinis Cream-coloured Giant Squirrel Ratufa bicolor Black Giant Squirrel Cynomys mexicanus Prairie Dog
+
+<!-- marginal: Suidae -->
+
+Sus barbatus Bearded Pig
+
+<!-- marginal: (Babirusa, pygmy -->
+
+Babyrousa babyrussa Babiroussa
+
+<!-- marginal: hog) -->
+
+Babyrousa bolabatuensis Bola Batu Babirusa Babyrousa celebensis North Sulawesi Babirusa Babyrousa togeanensis Malenge Babirusa Sus salvanius Pygmy Hog
+
+<!-- marginal: Tapiridae -->
+
+Tapirus indicus Asian Tapir
+
+<!-- marginal: (Tapirs) -->
+
+Tapirus bairdii Baird’s Tapir Tapirus pinchaque Andean Tapir Tapirus terrestris Lowland Tapir
+
+<!-- marginal: Tayassuidae -->
+
+Catagonus wagneri Chacoan Peccary
+
+<!-- marginal: (Peccaries) -->
+
+<!-- marginal: Thylacinidae -->
+
+Thylacinus cynocephalus Tasmanian Tiger
+
+<!-- marginal: (Tasmanian wolf, thylacine) -->
+
+<!-- marginal: Thylacomyidae -->
+
+Macrotis lagotis Bilby
+
+<!-- marginal: (Bilby) -->
+
+Macrotis leucura Lesser Bilby
 
 <!-- page 101 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
+Scientific Name Common Name
 
-Ursidae Helarctos malayanus
+<!-- marginal: Ursidae -->
 
-<!-- marginal: Malayan Sun Bear -->
+Helarctos malayanus Malayan Sun Bear
 
-(Bears, pandas) Ailuropoda melanoleuca
+<!-- marginal: (Bears, pandas) -->
 
-<!-- marginal: Giant Panda -->
-
-Melursus ursinus
-
-<!-- marginal: Sloth Bear -->
-
-Tremarctos ornatus
-
-<!-- marginal: Andean Bear -->
-
-Ursus arctos (only the
-
-<!-- marginal: Brown Bear -->
-
-populations of Bhutan, China, Mexico and Mongolia other than populations in the First
+Ailuropoda melanoleuca Giant Panda Melursus ursinus Sloth Bear Tremarctos ornatus Andean Bear Ursus arctos (only the Brown Bear populations of Bhutan, China, Mexico and Mongolia other than populations in the First
 
 ## Schedule)
 
-Ursus arctos isabellinus
+Ursus arctos isabellinus Himalayan Brown Bear Ursus thibetanus Asian Black Bear Ursus maritimus Polar Bear
 
-<!-- marginal: Himalayan Brown Bear -->
+<!-- marginal: Viverridae -->
 
-Ursus thibetanus
+Arctictis binturong Binturong
 
-<!-- marginal: Asian Black Bear -->
+<!-- marginal: (Otter civet, -->
 
-Ursus maritimus
+Arctogalidia trivirgata Small-toothed Palm Civet
 
-<!-- marginal: Polar Bear -->
+<!-- marginal: binturong, civets, -->
 
-Viverridae Arctictis binturong
+<!-- marginal: linsang, palm civet) -->
 
-<!-- marginal: Binturong -->
+Cynogale bennettii Otter civet Hemigalus derbyanus Banded Musang Paguma larvata Masked Palm Civet Prionodon linsang Banded Linsang Prionodon pardicolor Spotted Linsang Viverra zibetha Large Indian Civet
 
-(Otter civet, Arctogalidia trivirgata
+<!-- marginal: Vombatidae -->
 
-<!-- marginal: Small-toothed Palm Civet -->
+Lasiorhinus krefftii Northern Hairy-nosed
 
-binturong, civets, linsang, palm civet) Cynogale bennettii
+<!-- marginal: (Northern hairy-nosed -->
 
-<!-- marginal: Otter civet -->
+Wombat
 
-Hemigalus derbyanus
-
-<!-- marginal: Banded Musang -->
-
-Paguma larvata
-
-<!-- marginal: Masked Palm Civet -->
-
-Prionodon linsang
-
-<!-- marginal: Banded Linsang -->
-
-Prionodon pardicolor
-
-<!-- marginal: Spotted Linsang -->
-
-Viverra zibetha
-
-<!-- marginal: Large Indian Civet -->
-
-Vombatidae Lasiorhinus krefftii
-
-<!-- marginal: Northern Hairy-nosed -->
-
-(Northern hairy-nosed
-
-<!-- marginal: Wombat -->
-
-wombat)
+<!-- marginal: wombat) -->
 
 ## CLASS AVES (BIRDS)
 
-Accipitridae Accipiter badius
+<!-- marginal: Accipitridae -->
 
-<!-- marginal: Shikra Goshawk -->
+Accipiter badius Shikra Goshawk
 
-(Hawks, Eagles) Accipiter gularis
+<!-- marginal: (Hawks, Eagles) -->
 
-<!-- marginal: Japanese Sparrowhawk -->
-
-Accipiter soloensis
-
-<!-- marginal: Chinese Goshawk -->
-
-Accipiter trivirgatus
-
-<!-- marginal: Crested Goshawk -->
-
-Accipiter virgatus
-
-<!-- marginal: Besra -->
-
-Aegypius monachus
-
-<!-- marginal: Cinereous Vulture -->
-
-Aquila clanga
-
-<!-- marginal: Greater Spotted Eagle -->
-
-Aquila heliaca
-
-<!-- marginal: Imperial Eagle -->
-
-Aquila nipalensis
-
-<!-- marginal: Steppe Eagle -->
-
-Aviceda jerdoni
-
-<!-- marginal: Jerdon’s Baza -->
-
-Aviceda leuphotes
-
-<!-- marginal: Black Baza -->
-
-Butastur indicus
-
-<!-- marginal: Grey-faced Buzzard Eagle -->
-
-Buteo buteo
-
-<!-- marginal: Common Buzzard -->
-
-Circaetus gallicus
-
-<!-- marginal: Short-toed Eagle -->
-
-Circus aeruginosus
-
-<!-- marginal: Western Marsh Harrier -->
-
-Circus cyaneus
-
-<!-- marginal: Northern harrier -->
+Accipiter gularis Japanese Sparrowhawk Accipiter soloensis Chinese Goshawk Accipiter trivirgatus Crested Goshawk Accipiter virgatus Besra Aegypius monachus Cinereous Vulture Aquila clanga Greater Spotted Eagle Aquila heliaca Imperial Eagle Aquila nipalensis Steppe Eagle Aviceda jerdoni Jerdon’s Baza Aviceda leuphotes Black Baza Butastur indicus Grey-faced Buzzard Eagle Buteo buteo Common Buzzard Circaetus gallicus Short-toed Eagle Circus aeruginosus Western Marsh Harrier Circus cyaneus Northern harrier
 
 <!-- page 102 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
-
-Circus melanoeucos Pied Harrier Circus spilonotus Eastern Marsh Harrier Elanus caerulens Black-shouldered Kite Gyps bengalensis White-rumped Vulture Gyps himalayansis Himalayan Griffon Gyps indicus Long-billed Vulture Haliaeetus leucogaster White-bellied Sea-eagle Haliastur indus Brahminy Kite Hiraaetus kieneri Rufous-bellied Hawk-eagle Hiraaetus pennatus Booted Hawk-eagle Ichthyophaga humilis Lesser Fish Eagle Ichthyophaga ichthyaetus Grey-headed Fish Eagle Ictinaetus malayensis Black Eagle Machearhamphus alcinus Bat Hawk Milvus migrans Black-eared Kite Pernis ptylorhynchus Crested Honey Buzzard Sarcogyps calvus Red-Headed Vulture Spilornis cheela Serpent Eagle Spilornis kinabaluensis Mountain Serpent-eagle Spizaetus alboniger Blythe’s Hawk-eagle Spizaetus cirrhatus Changeable Hawk-eagle Spizaetus nanus Wallace’s Hawk-eagle Spizaetus nipalensis Mountain Hawk-eagle Accipiter spp. Goshawk Aegypius monachus Black Vulture Aquila adalberti Adalbert’s Eagle Aquila spp. Eagles Asturina nitida Grey-lined Hawk Aviceda spp. Cuckoo-hawks Busarellus nigricollis Black-collared Hawk Butastur spp. Buzzard Buteo spp. Common Buzzard Buteogallus spp. Great Black-hawks Chelictinia riocourii African Swallow-tailed Kite Chondrohierax spp. Kite Chondrohierax uncinatus Cuban Hook-billed Kite wilsonii Circaetus spp. Snake Eagles Circus spp. Harriers Dryotriorchis spectabilis African Serpent-eagle
+Scientific Name Common Name Circus melanoeucos Pied Harrier Circus spilonotus Eastern Marsh Harrier Elanus caerulens Black-shouldered Kite Gyps bengalensis White-rumped Vulture Gyps himalayansis Himalayan Griffon Gyps indicus Long-billed Vulture Haliaeetus leucogaster White-bellied Sea-eagle Haliastur indus Brahminy Kite Hiraaetus kieneri Rufous-bellied Hawk-eagle Hiraaetus pennatus Booted Hawk-eagle Ichthyophaga humilis Lesser Fish Eagle Ichthyophaga ichthyaetus Grey-headed Fish Eagle Ictinaetus malayensis Black Eagle Machearhamphus alcinus Bat Hawk Milvus migrans Black-eared Kite Pernis ptylorhynchus Crested Honey Buzzard Sarcogyps calvus Red-Headed Vulture Spilornis cheela Serpent Eagle Spilornis kinabaluensis Mountain Serpent-eagle Spizaetus alboniger Blythe’s Hawk-eagle Spizaetus cirrhatus Changeable Hawk-eagle Spizaetus nanus Wallace’s Hawk-eagle Spizaetus nipalensis Mountain Hawk-eagle Accipiter spp. Goshawk Aegypius monachus Black Vulture Aquila adalberti Adalbert’s Eagle Aquila spp. Eagles Asturina nitida Grey-lined Hawk Aviceda spp. Cuckoo-hawks Busarellus nigricollis Black-collared Hawk Butastur spp. Buzzard Buteo spp. Common Buzzard Buteogallus spp. Great Black-hawks Chelictinia riocourii African Swallow-tailed Kite Chondrohierax spp. Kite Chondrohierax uncinatus Cuban Hook-billed Kite wilsonii Circaetus spp. Snake Eagles Circus spp. Harriers Dryotriorchis spectabilis African Serpent-eagle
 
 <!-- page 103 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
-
-Elanoides forficatus
-
-<!-- marginal: Swallow-tailed Kite -->
-
-Elanus spp.
-
-<!-- marginal: Kite -->
-
-Erythrotriorchis buergersi
-
-<!-- marginal: Chestnut-shouldered Hawk -->
-
-Erythrotriorchis radiatus
-
-<!-- marginal: Red Goshawk -->
-
-Eutriorchis astur
-
-<!-- marginal: Madagascar Serpent-eagle -->
-
-Gampsonyx swainsonii
-
-<!-- marginal: Pearl Kite -->
-
-Geranoaetus melanoleucus
-
-<!-- marginal: Black-chested Buzzard- -->
-
-<!-- marginal: eagle -->
-
-Geranospiza caerulescens
-
-<!-- marginal: Crane Hawk -->
-
-Gypaetus barbatus
-
-<!-- marginal: Bearded Vulture -->
-
-Gypohierax angolensis
-
-<!-- marginal: Vulturine Fish-eagle -->
-
-Gyps spp.
-
-<!-- marginal: Vultures -->
-
-Haliaeetus albicilla
-
-<!-- marginal: Grey Sea-eagle -->
-
-Haliaeetus spp.
-
-<!-- marginal: Sea-eagle -->
-
-Haliastur sphenurus
-
-<!-- marginal: Whistling Eagle -->
-
-Hamirostra melanosternon
-
-<!-- marginal: Black-breasted Buzzard -->
-
-<!-- marginal: Kite -->
-
-Harpagus bidentatus
-
-<!-- marginal: Black-breasted Buzzard -->
-
-<!-- marginal: Kite -->
-
-Harpagus diodon
-
-<!-- marginal: Rufous-thighed Kite -->
-
-Harpia harpyja
-
-<!-- marginal: Harpy Eagle -->
-
-Harpyhaliaetus spp.
-
-<!-- marginal: Eagles -->
-
-Henicopernis infuscatus
-
-<!-- marginal: Black Honey-buzzard -->
-
-Henicopernis longicauda
-
-<!-- marginal: Long-tailed Honey-buzzard -->
-
-Hieraaetus spp.
-
-<!-- marginal: Hawk-eagles -->
-
-Ictnia mississippiensis
-
-<!-- marginal: Mississippi Kite -->
-
-Ictnia plumbea
-
-<!-- marginal: Plumbeous Kite -->
-
-Kaupifalco monogrammicus
-
-<!-- marginal: Lizard Buzzard -->
-
-Leptodon cayanensis
-
-<!-- marginal: Grey-headed Kite -->
-
-Leucopternis spp.
-
-<!-- marginal: Hawks -->
-
-Lophaetus occipitalis
-
-<!-- marginal: Long-crested Eagle -->
-
-Lophoictinia isura
-
-<!-- marginal: Square-tailed Kite -->
-
-Megatriorchis doriae
-
-<!-- marginal: Doria’s Goshawk -->
-
-Melierax spp.
-
-<!-- marginal: Goshawk -->
-
-Milvus spp.
-
-<!-- marginal: Kite -->
-
-Morphnus guianensis
-
-<!-- marginal: Crested Eagle -->
-
-Necrosyrtes monachus
-
-<!-- marginal: Hooded Vulture -->
-
-Neophron percnopterus
-
-<!-- marginal: Egyptian Vulture -->
-
-Oroaetus isidori
-
-<!-- marginal: Black and Chestnut Eagle -->
-
-Parabuteo unicinctus
-
-<!-- marginal: Bay-winged Hawk -->
-
-Pernis spp.
-
-<!-- marginal: Buzzard -->
+Scientific Name Common Name Elanoides forficatus Swallow-tailed Kite Elanus spp. Kite Erythrotriorchis buergersi Chestnut-shouldered Hawk Erythrotriorchis radiatus Red Goshawk Eutriorchis astur Madagascar Serpent-eagle Gampsonyx swainsonii Pearl Kite Geranoaetus melanoleucus Black-chested Buzzard- eagle Geranospiza caerulescens Crane Hawk Gypaetus barbatus Bearded Vulture Gypohierax angolensis Vulturine Fish-eagle Gyps spp. Vultures Haliaeetus albicilla Grey Sea-eagle Haliaeetus spp. Sea-eagle Haliastur sphenurus Whistling Eagle Hamirostra melanosternon Black-breasted Buzzard Kite Harpagus bidentatus Black-breasted Buzzard Kite Harpagus diodon Rufous-thighed Kite Harpia harpyja Harpy Eagle Harpyhaliaetus spp. Eagles Henicopernis infuscatus Black Honey-buzzard Henicopernis longicauda Long-tailed Honey-buzzard Hieraaetus spp. Hawk-eagles Ictnia mississippiensis Mississippi Kite Ictnia plumbea Plumbeous Kite Kaupifalco monogrammicus Lizard Buzzard Leptodon cayanensis Grey-headed Kite Leucopternis spp. Hawks Lophaetus occipitalis Long-crested Eagle Lophoictinia isura Square-tailed Kite Megatriorchis doriae Doria’s Goshawk Melierax spp. Goshawk Milvus spp. Kite Morphnus guianensis Crested Eagle Necrosyrtes monachus Hooded Vulture Neophron percnopterus Egyptian Vulture Oroaetus isidori Black and Chestnut Eagle Parabuteo unicinctus Bay-winged Hawk Pernis spp. Buzzard
 
 <!-- page 104 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
+Scientific Name Common Name Pithecophaga jefferyi Great Philippine Eagle Polemaetus bellicosus Martial Eagle Polyboroides radiatus Madagascar Gymnogene Polyboroides typus African Gymnogene Rostrhamus hamatus Slender-billed Kite Rostrhamus sociabilis Snail Kite Spilornis spp. Eagle Spizaetus spp. Hawk-eagle Stephanoaetus coronatus African Crowned Eagle Terathopius ecaudatus Bateleur Eagle Torgos tracheliotus Lappet-faced Vulture Trigonoceps occipitalis White-headed Vulture Urotriorchis macrourus African Long-tailed Hawk
 
-Pithecophaga jefferyi Great Philippine Eagle Polemaetus bellicosus Martial Eagle Polyboroides radiatus Madagascar Gymnogene Polyboroides typus African Gymnogene Rostrhamus hamatus Slender-billed Kite Rostrhamus sociabilis Snail Kite Spilornis spp. Eagle Spizaetus spp. Hawk-eagle Stephanoaetus coronatus African Crowned Eagle Terathopius ecaudatus Bateleur Eagle Torgos tracheliotus Lappet-faced Vulture Trigonoceps occipitalis White-headed Vulture Urotriorchis macrourus African Long-tailed Hawk Alaudidae Alauda gulgula Oriental Skylark (Skylark) Alcedinidae Alcedo atthis Common kingfisher (Alcedinid Alcedo euryzona Blue-banded Kinfisher Kingfishers) Alcedo meninting Blue-eared Kingfisher Ceyx erithacus Oriental Dwarf Kingfisher Pelargopsis amauroptera Brown-winged Kingfisher Pelargopsis capensis Stork-billed Kingfisher Halcyon coromanda Ruddy Kingfisher Halcyon pileata Black-capped Kingfisher Halcyon smyrnensis White-throated Kingfisher Lacedo pulchella Banded Kingfisher Halcyon chloris Collared Kingfisher Todiramphus sanctus Sacred Kingfisher Actenoides concretus Rufous-collored Kingfisher Anatidae Anas acuta Northern Pintail (Duck, Geese, Anas clypeata Shoveller Swans) Anas crecca Common Teal Anas penelope Eurasian Wigeon Anas platyrhynchos Mallard Anas querquedula Garganey Teal Aythya fuligula Tufted duck Cairina scutulata White-winged Wood Duck Dendrocygna arcuata Wandering Whistling Duck Dendrocygna javanica Indian Whistling Duck Nettapus coromandelianus Cotton Teal Anas aucklandica Brown Teal
+<!-- marginal: Alaudidae -->
+
+Alauda gulgula Oriental Skylark
+
+<!-- marginal: (Skylark) -->
+
+<!-- marginal: Alcedinidae -->
+
+Alcedo atthis Common kingfisher
+
+<!-- marginal: (Alcedinid -->
+
+Alcedo euryzona Blue-banded Kinfisher
+
+<!-- marginal: Kingfishers) -->
+
+Alcedo meninting Blue-eared Kingfisher Ceyx erithacus Oriental Dwarf Kingfisher Pelargopsis amauroptera Brown-winged Kingfisher Pelargopsis capensis Stork-billed Kingfisher Halcyon coromanda Ruddy Kingfisher Halcyon pileata Black-capped Kingfisher Halcyon smyrnensis White-throated Kingfisher Lacedo pulchella Banded Kingfisher Halcyon chloris Collared Kingfisher Todiramphus sanctus Sacred Kingfisher Actenoides concretus Rufous-collored Kingfisher
+
+<!-- marginal: Anatidae -->
+
+Anas acuta Northern Pintail
+
+<!-- marginal: (Duck, Geese, -->
+
+Anas clypeata Shoveller
+
+<!-- marginal: Swans) -->
+
+Anas crecca Common Teal Anas penelope Eurasian Wigeon Anas platyrhynchos Mallard Anas querquedula Garganey Teal Aythya fuligula Tufted duck Cairina scutulata White-winged Wood Duck Dendrocygna arcuata Wandering Whistling Duck Dendrocygna javanica Indian Whistling Duck Nettapus coromandelianus Cotton Teal Anas aucklandica Brown Teal
 
 <!-- page 105 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
+Scientific Name Common Name Anas laysanensis Laysan Duck Anas oustaleti Marianas Island Duck Branta canadensis leucopareia Aleutian Canada Goose Branta sandvicensis Hawaiian Goose Rhodonessa caryophyllacea Pink-headed Duck
 
-Anas laysanensis
+<!-- marginal: Anhingidae -->
 
-<!-- marginal: Laysan Duck -->
+Anhinga melanogaster Oriental Darter
 
-Anas oustaleti
+<!-- marginal: (Darters) -->
 
-<!-- marginal: Marianas Island Duck -->
+<!-- marginal: Apodidae -->
 
-Branta canadensis leucopareia
+Aerodramus brevirosrtris Himalayan Swiftlet
 
-<!-- marginal: Aleutian Canada Goose -->
+<!-- marginal: (Typical Swifts) -->
 
-Branta sandvicensis
+Aerodramus salanganus Mossy-nest Swiftlet Apus affinis House Swift Apus pacificus Fork-tailed Swift Cypsiurus balasiensis Asian Palm Swift Hirundapus caudacutus White-throated Needletail Hirundapus cochinchinensis White-vented Needletail Hirundapus giganteus Brown Neddletail Hydrochous gigas Waterfall Swiftlet Raphidura leucopygialis Silver-rumped Needletail
 
-<!-- marginal: Hawaiian Goose -->
+<!-- marginal: Ardeidae -->
 
-Rhodonessa caryophyllacea
+Ardea cinerea Grey Heron
 
-<!-- marginal: Pink-headed Duck -->
+<!-- marginal: (Egrets, Herons) -->
 
-Anhingidae Anhinga melanogaster
+Ardea purpurea Purple Heron Ardea sumatrana Dusky-grey Heron Ardeola bacchus Chinese Pond Heron Ardeola grayii Indian Pond Heron Ardeola speciosa Javan Pond Heron Botaurus stellaris Great Bittern Bubulcus ibis Cattle Egret Casmerodius albus Great Egret Egretta eulophotes Chinese Egret Egretta garzetta Little Egret Egretta sacra Reef Egret Gorsachius melanolophus Tiger Bittern Ixorbrychus cinnamomeus Cinnamom Bittern Ixorbrychus eurhythmus Schrenck’s Bittern Ixorbrychus flavicollis Black Bittern Ixorbrychus sinensis Chinese Little Bittern Mesophoyx intermedia Intermediate Egret Nycticorax caledonicus Rufous Night-Heron Nycticorax nycticorax Black-crowned Night Heron
 
-<!-- marginal: Oriental Darter -->
+<!-- marginal: Atrichornithidae -->
 
-(Darters) Apodidae Aerodramus brevirosrtris
+Atrichornis clamosus Noisy Scrub-bird
 
-<!-- marginal: Himalayan Swiftlet -->
+<!-- marginal: (Scrub-bird) -->
 
-(Typical Swifts) Aerodramus salanganus
+<!-- marginal: Batrachostomidae -->
 
-<!-- marginal: Mossy-nest Swiftlet -->
+Batrachostomus auritus Large Frogmouth
 
-Apus affinis
-
-<!-- marginal: House Swift -->
-
-Apus pacificus
-
-<!-- marginal: Fork-tailed Swift -->
-
-Cypsiurus balasiensis
-
-<!-- marginal: Asian Palm Swift -->
-
-Hirundapus caudacutus
-
-<!-- marginal: White-throated Needletail -->
-
-Hirundapus cochinchinensis
-
-<!-- marginal: White-vented Needletail -->
-
-Hirundapus giganteus
-
-<!-- marginal: Brown Neddletail -->
-
-Hydrochous gigas
-
-<!-- marginal: Waterfall Swiftlet -->
-
-Raphidura leucopygialis
-
-<!-- marginal: Silver-rumped Needletail -->
-
-Ardeidae Ardea cinerea
-
-<!-- marginal: Grey Heron -->
-
-(Egrets, Herons) Ardea purpurea
-
-<!-- marginal: Purple Heron -->
-
-Ardea sumatrana
-
-<!-- marginal: Dusky-grey Heron -->
-
-Ardeola bacchus
-
-<!-- marginal: Chinese Pond Heron -->
-
-Ardeola grayii
-
-<!-- marginal: Indian Pond Heron -->
-
-Ardeola speciosa
-
-<!-- marginal: Javan Pond Heron -->
-
-Botaurus stellaris
-
-<!-- marginal: Great Bittern -->
-
-Bubulcus ibis
-
-<!-- marginal: Cattle Egret -->
-
-Casmerodius albus
-
-<!-- marginal: Great Egret -->
-
-Egretta eulophotes
-
-<!-- marginal: Chinese Egret -->
-
-Egretta garzetta
-
-<!-- marginal: Little Egret -->
-
-Egretta sacra
-
-<!-- marginal: Reef Egret -->
-
-Gorsachius melanolophus
-
-<!-- marginal: Tiger Bittern -->
-
-Ixorbrychus cinnamomeus
-
-<!-- marginal: Cinnamom Bittern -->
-
-Ixorbrychus eurhythmus
-
-<!-- marginal: Schrenck’s Bittern -->
-
-Ixorbrychus flavicollis
-
-<!-- marginal: Black Bittern -->
-
-Ixorbrychus sinensis
-
-<!-- marginal: Chinese Little Bittern -->
-
-Mesophoyx intermedia
-
-<!-- marginal: Intermediate Egret -->
-
-Nycticorax caledonicus
-
-<!-- marginal: Rufous Night-Heron -->
-
-Nycticorax nycticorax
-
-<!-- marginal: Black-crowned Night Heron -->
-
-Atrichornithidae Atrichornis clamosus
-
-<!-- marginal: Noisy Scrub-bird -->
-
-(Scrub-bird) Batrachostomidae Batrachostomus auritus
-
-<!-- marginal: Large Frogmouth -->
-
-(Frogmouth)
+<!-- marginal: (Frogmouth) -->
 
 <!-- page 106 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
+Scientific Name Common Name Batrachostomus cornutus Sunda Frogmouth Batrachostomus harterti Dulit Frogmouth Batrachostomus javensis Javan Frogmouth Batrachostomus poliolophus Short-tailed Frogmouth Batrachostomus stellatus Gould’s Frogmouth
 
-Batrachostomus cornutus Sunda Frogmouth Batrachostomus harterti Dulit Frogmouth Batrachostomus javensis Javan Frogmouth Batrachostomus poliolophus Short-tailed Frogmouth Batrachostomus stellatus Gould’s Frogmouth Bucerotidae Aceros corrugatus Wrinkled Hornbill (Hornbills) Aceros undulatus Wreathed Hornbill Anorrhinus galeritus Bushy-crested Hornbill Anthracoceros albirostris Oriental Pied Hornbill Anthracoceros coronatus Pied Hornbill Anthracoceros malayanus Black Horbill Buceros bicornis Great Hornbill Buceros rhinoceros Rhinoceros Hornbill Buceros vigil Helmeted Hornbill Berenicornis comatus White-crowned Hornbill Rhynoplax vigil Helmeted Hornbill Rhyticeros subruficollis Plain Pouched Hornbill Aceros nipalensis Rufous-cheeked Hornbill Aceros spp. Hornbill Anorrhinus spp. Hornbill Anthracoceros convexus Southern Pied Hornbill Anthracoceros spp. Hornbill Buceros spp. Hornbill Penelopides spp. Tarictic hornbill Burhinidae Esacus magnirostris Beach Thick-knee (Thick-knee) Cacatuidae Cacatua goffini Goffin’s Cockatoo (Cockatoos) Cacatua haematuropygia Philippine Cockatoo Cacatua moluccensis Moluccan Cockatoo Cacatua sulphurea Yellow-crested Cockatoo Probosciger aterrimus Palm Cockatoo Campephagidae Coracina fimbriata Lesser Cuckoo Shrike (Cuckooshrikes) Coracina javensis Javan Cuckoo Shrike Coracina larvata Sunda Cuckoo-shrike Coracina striata Bar-tailed Cuckoo Shrike Hemipus hirundinaceus Black-winged Flycatcher Shrike Hemipus picatus Bar-winged Flycatcher Shrike Lalage nigra Pied Triller Pericrocotus divaricatus Ashy Minivet
+<!-- marginal: Bucerotidae -->
+
+Aceros corrugatus Wrinkled Hornbill
+
+<!-- marginal: (Hornbills) -->
+
+Aceros undulatus Wreathed Hornbill Anorrhinus galeritus Bushy-crested Hornbill Anthracoceros albirostris Oriental Pied Hornbill Anthracoceros coronatus Pied Hornbill Anthracoceros malayanus Black Horbill Buceros bicornis Great Hornbill Buceros rhinoceros Rhinoceros Hornbill Buceros vigil Helmeted Hornbill Berenicornis comatus White-crowned Hornbill Rhynoplax vigil Helmeted Hornbill Rhyticeros subruficollis Plain Pouched Hornbill Aceros nipalensis Rufous-cheeked Hornbill Aceros spp. Hornbill Anorrhinus spp. Hornbill Anthracoceros convexus Southern Pied Hornbill Anthracoceros spp. Hornbill Buceros spp. Hornbill Penelopides spp. Tarictic hornbill
+
+<!-- marginal: Burhinidae -->
+
+Esacus magnirostris Beach Thick-knee
+
+<!-- marginal: (Thick-knee) -->
+
+<!-- marginal: Cacatuidae -->
+
+Cacatua goffini Goffin’s Cockatoo
+
+<!-- marginal: (Cockatoos) -->
+
+Cacatua haematuropygia Philippine Cockatoo Cacatua moluccensis Moluccan Cockatoo Cacatua sulphurea Yellow-crested Cockatoo Probosciger aterrimus Palm Cockatoo
+
+<!-- marginal: Campephagidae -->
+
+Coracina fimbriata Lesser Cuckoo Shrike
+
+<!-- marginal: (Cuckooshrikes) -->
+
+Coracina javensis Javan Cuckoo Shrike Coracina larvata Sunda Cuckoo-shrike Coracina striata Bar-tailed Cuckoo Shrike Hemipus hirundinaceus Black-winged Flycatcher Shrike Hemipus picatus Bar-winged Flycatcher Shrike Lalage nigra Pied Triller Pericrocotus divaricatus Ashy Minivet
 
 <!-- page 107 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
+Scientific Name Common Name Pericrocotus flammeus Scarlet Minivet Pericrocotus igneus Fiery Minivet Pericrocotus solaris Grey-chinned Minivet Tephrodornis gularis Large Wood Shrike
 
-Pericrocotus flammeus
+<!-- marginal: Caprimulgidae -->
 
-<!-- marginal: Scarlet Minivet -->
+Caprimulgus affinis Savanah Nightjar
 
-Pericrocotus igneus
+<!-- marginal: (Nighthawks/Nightjars) -->
 
-<!-- marginal: Fiery Minivet -->
+Caprimulgus concretus Bonarparte’s Nightjar Caprimulgus indicus Grey Nighjar Caprimulgus macrurus Large-tail Nightjar Eurostopodus temminckii Malaysian Eared Nightjar Eurostopodus macrotis Giant Eared Nightjar
 
-Pericrocotus solaris
+<!-- marginal: Cathartidae -->
 
-<!-- marginal: Grey-chinned Minivet -->
+Gymnogyps californianus California Condor
 
-Tephrodornis gularis
+<!-- marginal: (New world -->
 
-<!-- marginal: Large Wood Shrike -->
+Vultur gryphus Andean Condor
 
-Caprimulgidae Caprimulgus affinis
+<!-- marginal: vultures) -->
 
-<!-- marginal: Savanah Nightjar -->
+<!-- marginal: Charadriidae -->
 
-(Nighthawks/Nightjars) Caprimulgus concretus
+Charadrius alexandrius Kentish Plover
 
-<!-- marginal: Bonarparte’s Nightjar -->
+<!-- marginal: (Plovers) -->
 
-Caprimulgus indicus
+Charadrius dubius Little-ringed Plover Charadrius hiaticula Common Ringed Plover Charadrius leschenaultii Greater Sand Plover Charadrius mongolus Mongolian Plover Charadrius peronii Malaysian Plover Charadrius placidus Long-billed Plover Charadrius veredus Oriental Plover Pluvialis fulva Pacific Golden Plover Pluvialis squatarola Grey Plover Vanellus cinereus Grey-headed lapwing Vanellus indicus Red-wattled Lapwing Vanellus malabaricus Yellow-wattled Lapwing
 
-<!-- marginal: Grey Nighjar -->
+<!-- marginal: Chloropseidae (Leafbirds) -->
 
-Caprimulgus macrurus
+Aegithina lafresnayei Great Iora Aegithina tiphia Common Iora Aegithina viridissima Green Lora Chloropsis cochinchinensis Blue-winged Leafbird Chloropsis cyanopogon Lesser Green Leafbird Chloropsis hardwickii Orange-bellied Leafbird Chloropsis kinabaluensis Kinabalu Leafbird Chloropsis sonnerati Greater Green Leafbird
 
-<!-- marginal: Large-tail Nightjar -->
+<!-- marginal: Ciconiidae -->
 
-Eurostopodus temminckii
+Ciconia boyciana Japanese White Stork
 
-<!-- marginal: Malaysian Eared Nightjar -->
+<!-- marginal: (Storks) -->
 
-Eurostopodus macrotis
-
-<!-- marginal: Giant Eared Nightjar -->
-
-Cathartidae Gymnogyps californianus
-
-<!-- marginal: California Condor -->
-
-(New world Vultur gryphus
-
-<!-- marginal: Andean Condor -->
-
-vultures) Charadriidae Charadrius alexandrius
-
-<!-- marginal: Kentish Plover -->
-
-(Plovers) Charadrius dubius
-
-<!-- marginal: Little-ringed Plover -->
-
-Charadrius hiaticula
-
-<!-- marginal: Common Ringed Plover -->
-
-Charadrius leschenaultii
-
-<!-- marginal: Greater Sand Plover -->
-
-Charadrius mongolus
-
-<!-- marginal: Mongolian Plover -->
-
-Charadrius peronii
-
-<!-- marginal: Malaysian Plover -->
-
-Charadrius placidus
-
-<!-- marginal: Long-billed Plover -->
-
-Charadrius veredus
-
-<!-- marginal: Oriental Plover -->
-
-Pluvialis fulva
-
-<!-- marginal: Pacific Golden Plover -->
-
-Pluvialis squatarola
-
-<!-- marginal: Grey Plover -->
-
-Vanellus cinereus
-
-<!-- marginal: Grey-headed lapwing -->
-
-Vanellus indicus
-
-<!-- marginal: Red-wattled Lapwing -->
-
-Vanellus malabaricus
-
-<!-- marginal: Yellow-wattled Lapwing -->
-
-Chloropseidae (Leafbirds) Aegithina lafresnayei
-
-<!-- marginal: Great Iora -->
-
-Aegithina tiphia
-
-<!-- marginal: Common Iora -->
-
-Aegithina viridissima
-
-<!-- marginal: Green Lora -->
-
-Chloropsis cochinchinensis
-
-<!-- marginal: Blue-winged Leafbird -->
-
-Chloropsis cyanopogon
-
-<!-- marginal: Lesser Green Leafbird -->
-
-Chloropsis hardwickii
-
-<!-- marginal: Orange-bellied Leafbird -->
-
-Chloropsis kinabaluensis
-
-<!-- marginal: Kinabalu Leafbird -->
-
-Chloropsis sonnerati
-
-<!-- marginal: Greater Green Leafbird -->
-
-Ciconiidae Ciconia boyciana
-
-<!-- marginal: Japanese White Stork -->
-
-(Storks) Ciconia episcopus
-
-<!-- marginal: White-necked Stork -->
-
-Ciconia stormi
-
-<!-- marginal: Storm’s Stork -->
-
-Leptoptilus javanicus
-
-<!-- marginal: Lesser Adjutant stork -->
-
-Mycteria cinerea
-
-<!-- marginal: Milky Stork -->
-
-Mycteria leucocephala
-
-<!-- marginal: Painted Stork -->
-
-Jabiru mycteria
-
-<!-- marginal: Jabiru -->
+Ciconia episcopus White-necked Stork Ciconia stormi Storm’s Stork Leptoptilus javanicus Lesser Adjutant stork Mycteria cinerea Milky Stork Mycteria leucocephala Painted Stork Jabiru mycteria Jabiru
 
 <!-- page 108 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
+Scientific Name Common Name
 
-Columbidae Caloenas nicobarica Nicobar Dove (Doves, Pigeons) Columba argentina Silvery Pigeon Ducula anea Green Imperial Pigeon Ducula badia Mountain Imperial Pigeon Ducula bicolor Pied Imperial Pigeon Ducula pickeringii Grey Imperial Pigeon Macropygia amboinensis Ruddy Cuckoo Dove Macropygia ruficeps Little Cuckoo Dove Macropygia unchall Barred Cuckoo Dove Ptilinopus jambu Jambu Fruit Dove Ptilinopus melanospila Black-naped Fruit Dove Streptopelia bitorquata Island Collared Dove Streptopelia tranquebarica Red Turtle Dove Treron bicincta Orange-breasted Green Pigeon Treron capellei Large Green Pigeon Treron curvirostra Thick-billed Green Pigeon Treron fulvicollis Cinnamon-headed Green Pigeon Treron seimundi Yellow-vented Green Pigeon Treron sphenura Wedge-tailed Green Pigeon Ducula mindorensis Mindoro Imperial-Pigeon Coraciidae Coracias benghalensis Indian Roller (Roller, Dollarbird) Eurystomus orientalis Dollarbird Corvidae Cissa chinensis Common Green Magpie (Quail-thrushes, Cissa thalassina Short-tailed Green Magpie Whipbirds, Apostle Bird) Crypsirina temia Racquet-tailed Treepie Dendrocitta cinerascens Borneon Treepie Platylophus galericulatus Crested Jay Platysmurus leucopterus Black Magpie Cotingidae Cotinga maculata Banded Cotinga (Cotingas) Xipholena atropurpurea White-winged Cotinga Cracidae Crax blumenbachii Red-billed Curassow (Chachalacas, Mitu mitu Alagoas Curassow Currassows, Guans) Oreophasis derbianus Lord Derby’s Mountain Pheasant Penelope albipennis White-winged Guan Pipile jacutinga Black-fronted Curassow Pipile pipile Trinidad Piping-Guan
+<!-- marginal: Columbidae -->
+
+Caloenas nicobarica Nicobar Dove
+
+<!-- marginal: (Doves, Pigeons) -->
+
+Columba argentina Silvery Pigeon Ducula anea Green Imperial Pigeon Ducula badia Mountain Imperial Pigeon Ducula bicolor Pied Imperial Pigeon Ducula pickeringii Grey Imperial Pigeon Macropygia amboinensis Ruddy Cuckoo Dove Macropygia ruficeps Little Cuckoo Dove Macropygia unchall Barred Cuckoo Dove Ptilinopus jambu Jambu Fruit Dove Ptilinopus melanospila Black-naped Fruit Dove Streptopelia bitorquata Island Collared Dove Streptopelia tranquebarica Red Turtle Dove Treron bicincta Orange-breasted Green Pigeon Treron capellei Large Green Pigeon Treron curvirostra Thick-billed Green Pigeon Treron fulvicollis Cinnamon-headed Green Pigeon Treron seimundi Yellow-vented Green Pigeon Treron sphenura Wedge-tailed Green Pigeon Ducula mindorensis Mindoro Imperial-Pigeon
+
+<!-- marginal: Coraciidae -->
+
+Coracias benghalensis Indian Roller
+
+<!-- marginal: (Roller, Dollarbird) -->
+
+Eurystomus orientalis Dollarbird
+
+<!-- marginal: Corvidae -->
+
+Cissa chinensis Common Green Magpie
+
+<!-- marginal: (Quail-thrushes, -->
+
+Cissa thalassina Short-tailed Green Magpie
+
+<!-- marginal: Whipbirds, Apostle Bird) -->
+
+Crypsirina temia Racquet-tailed Treepie Dendrocitta cinerascens Borneon Treepie Platylophus galericulatus Crested Jay Platysmurus leucopterus Black Magpie
+
+<!-- marginal: Cotingidae -->
+
+Cotinga maculata Banded Cotinga
+
+<!-- marginal: (Cotingas) -->
+
+Xipholena atropurpurea White-winged Cotinga
+
+<!-- marginal: Cracidae -->
+
+Crax blumenbachii Red-billed Curassow
+
+<!-- marginal: (Chachalacas, -->
+
+Mitu mitu Alagoas Curassow
+
+<!-- marginal: Currassows, Guans) -->
+
+Oreophasis derbianus Lord Derby’s Mountain Pheasant Penelope albipennis White-winged Guan Pipile jacutinga Black-fronted Curassow Pipile pipile Trinidad Piping-Guan
 
 <!-- page 109 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
+Scientific Name Common Name
 
-Cuculidae Cacomantis merulinus
+<!-- marginal: Cuculidae -->
 
-<!-- marginal: Plaintive Cuckoo -->
+Cacomantis merulinus Plaintive Cuckoo
 
-(Cuckoos) Cacomantis sepulcralis
+<!-- marginal: (Cuckoos) -->
 
-<!-- marginal: Rusty-breasted Cuckoo -->
+Cacomantis sepulcralis Rusty-breasted Cuckoo Cacomantis sonneratti Banded-bay Cuckoo Carpococcyx radiatus Borneon Ground Cuckoo Centropus bengalensis Lesser Coucal Centropus rectunguis Short-toed Coucal Centropus sinensis Greater Coucal Chrysococcyx basalis Horsfield’s Bronze Cuckoo Chrysococcyx maculatus Asian Emerald Cuckoo Chrysococcyx minutillus Little Bronze Cuckoo Chrysococcyx russatus Gould’s Bronze Cuckoo Chrysococcyx xanthorhychus Violet Cuckoo Clamator coromandus Chestnut-winged Cuckoo Cuculus merulinus Plaintive Cuckoo Cuculus micropterus Indian Cuckoo Cuculus saturatus Oriental Cuckoo Eudynamys scolopacea Common Coel Hierococcyx fugax Malaysian Hawk Cuckoo Hierococcyx hyperythrus Northern Hawk Cuckoo Hierococcyx nisicolor Hodgson’s Hawk Cuckoo Hierococcyx sparveriodes Large Hawk Cuckoo Hierococcyx vagans Moustached Hawk Cuckoo Phaenicophaeus chlorophaeus Raffles Malkoha Phaenicophaeus curvirostris Chestnut-breasted Malkoha Phaenicophaeus diardi Black-bellied Malkoha Phaenicophaeus javanicus Red-billed Malkoha Phaenicophaeus sumatranus Chestnut-bellied Malkoha Phaenicophaeus tristis Green-billed Malkoha Surniculus lugubris Drongo Cuckoo
 
-Cacomantis sonneratti
+<!-- marginal: Dicaeidae (Flowerpeckers) -->
 
-<!-- marginal: Banded-bay Cuckoo -->
-
-Carpococcyx radiatus
-
-<!-- marginal: Borneon Ground Cuckoo -->
-
-Centropus bengalensis
-
-<!-- marginal: Lesser Coucal -->
-
-Centropus rectunguis
-
-<!-- marginal: Short-toed Coucal -->
-
-Centropus sinensis
-
-<!-- marginal: Greater Coucal -->
-
-Chrysococcyx basalis
-
-<!-- marginal: Horsfield’s Bronze Cuckoo -->
-
-Chrysococcyx maculatus
-
-<!-- marginal: Asian Emerald Cuckoo -->
-
-Chrysococcyx minutillus
-
-<!-- marginal: Little Bronze Cuckoo -->
-
-Chrysococcyx russatus
-
-<!-- marginal: Gould’s Bronze Cuckoo -->
-
-Chrysococcyx xanthorhychus
-
-<!-- marginal: Violet Cuckoo -->
-
-Clamator coromandus
-
-<!-- marginal: Chestnut-winged Cuckoo -->
-
-Cuculus merulinus
-
-<!-- marginal: Plaintive Cuckoo -->
-
-Cuculus micropterus
-
-<!-- marginal: Indian Cuckoo -->
-
-Cuculus saturatus
-
-<!-- marginal: Oriental Cuckoo -->
-
-Eudynamys scolopacea
-
-<!-- marginal: Common Coel -->
-
-Hierococcyx fugax
-
-<!-- marginal: Malaysian Hawk Cuckoo -->
-
-Hierococcyx hyperythrus
-
-<!-- marginal: Northern Hawk Cuckoo -->
-
-Hierococcyx nisicolor
-
-<!-- marginal: Hodgson’s Hawk Cuckoo -->
-
-Hierococcyx sparveriodes
-
-<!-- marginal: Large Hawk Cuckoo -->
-
-Hierococcyx vagans
-
-<!-- marginal: Moustached Hawk Cuckoo -->
-
-Phaenicophaeus chlorophaeus
-
-<!-- marginal: Raffles Malkoha -->
-
-Phaenicophaeus curvirostris
-
-<!-- marginal: Chestnut-breasted Malkoha -->
-
-Phaenicophaeus diardi
-
-<!-- marginal: Black-bellied Malkoha -->
-
-Phaenicophaeus javanicus
-
-<!-- marginal: Red-billed Malkoha -->
-
-Phaenicophaeus sumatranus
-
-<!-- marginal: Chestnut-bellied Malkoha -->
-
-Phaenicophaeus tristis
-
-<!-- marginal: Green-billed Malkoha -->
-
-Surniculus lugubris
-
-<!-- marginal: Drongo Cuckoo -->
-
-Dicaeidae (Flowerpeckers) Dicaeum agile
-
-<!-- marginal: Thicked-billed -->
-
-<!-- marginal: Flowerpecker -->
-
-Dicaeum chrysorrheum
-
-<!-- marginal: Yellow- vented -->
-
-<!-- marginal: Flowerpecker -->
-
-Dicaeum concolor
-
-<!-- marginal: Plain Flowerpecker -->
-
-Dicaeum cruentatum
-
-<!-- marginal: Scarlet-backed -->
-
-<!-- marginal: Flowerpecker -->
-
-Dicaeum everetti
-
-<!-- marginal: Brown-backed -->
-
-<!-- marginal: Flowerpecker -->
-
-Dicaeum ignipectus
-
-<!-- marginal: Buff-bellied Flowerpecker -->
-
-Dicaeum monticolum
-
-<!-- marginal: Black-side Flowerpecker -->
+Dicaeum agile Thicked-billed Flowerpecker Dicaeum chrysorrheum Yellow- vented Flowerpecker Dicaeum concolor Plain Flowerpecker Dicaeum cruentatum Scarlet-backed Flowerpecker Dicaeum everetti Brown-backed Flowerpecker Dicaeum ignipectus Buff-bellied Flowerpecker Dicaeum monticolum Black-side Flowerpecker
 
 <!-- page 110 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
+Scientific Name Common Name Dicaeum trigonostigma Orange-bellied Flowerpecker Prionochilus maculatus Yellow-breasted Flowerpacker Prionochilus percussus Crimson-breasted Flowerpacker Prionochilus thoracicus Scarlet-breasted Flowerpacker Prionochilus xanthopygius Yellow-breasted Flowerpacker
 
-Dicaeum trigonostigma Orange-bellied Flowerpecker Prionochilus maculatus Yellow-breasted Flowerpacker Prionochilus percussus Crimson-breasted Flowerpacker Prionochilus thoracicus Scarlet-breasted Flowerpacker Prionochilus xanthopygius Yellow-breasted Flowerpacker Dicruridae Dicrurus aeneus Bronzed Drongo (Drongos) Dicrurus annectans Crow-billed Drongo Dicrurus hottentottus Spangled Drongo Dicrurus leucophaeus Ashy Drongo Dicrurus macrocercus Black Drongo Dicrurus paradiseus Greater Racquet-tailed Drongo Dicrurus remifer Lesser Racquet-tailed Drongo Diomedeidae Diomedea albatrus Short-tailed Albatross (Albatross) Dromadidae Dromas ardeola Crab Plover (Plover) Emberizidae Emberiza aureola Yellow-breasted Bunting (Cardinals, Emberiza fucata Chestnut-eared Bunting Tanagers) Emberiza melanocephala Black-headed Bunting Emberiza pusilla Little Bunting Eurylaimidae Calyptomena hosei Hose’s Broadbill (Broadbills) Calyptomena viridis Green broadbill Calyptomena whiteheadi Whitehead’s Broadbill Corydon sumatranus Dusky Broadbill) Cymbirhynchus macrorhynchos Black and Red Broadbill Eurylaimus javanicus Banded Broadbill Eurylaimus ochromalus Black and Yellow Broadbill Psarisomus dalhousiae Long-tailed broadbill Serilophus lunatus Silver-breasted Broadbill Falconidae Falco amurensis Amur Falcon (Falcons) Falco peregrinus Duck Hawk Falco severus Oriental Hobby Falco subbuteo Eurasian Hobby Falco tinnuculus Eurasian Kestrel Caracara lutosa Guadalupe Caracara Caracara plancus Common Caracara
+<!-- marginal: Dicruridae -->
+
+Dicrurus aeneus Bronzed Drongo
+
+<!-- marginal: (Drongos) -->
+
+Dicrurus annectans Crow-billed Drongo Dicrurus hottentottus Spangled Drongo Dicrurus leucophaeus Ashy Drongo Dicrurus macrocercus Black Drongo Dicrurus paradiseus Greater Racquet-tailed Drongo Dicrurus remifer Lesser Racquet-tailed Drongo
+
+<!-- marginal: Diomedeidae -->
+
+Diomedea albatrus Short-tailed Albatross
+
+<!-- marginal: (Albatross) -->
+
+<!-- marginal: Dromadidae -->
+
+Dromas ardeola Crab Plover
+
+<!-- marginal: (Plover) -->
+
+<!-- marginal: Emberizidae -->
+
+Emberiza aureola Yellow-breasted Bunting
+
+<!-- marginal: (Cardinals, -->
+
+Emberiza fucata Chestnut-eared Bunting
+
+<!-- marginal: Tanagers) -->
+
+Emberiza melanocephala Black-headed Bunting Emberiza pusilla Little Bunting
+
+<!-- marginal: Eurylaimidae -->
+
+Calyptomena hosei Hose’s Broadbill
+
+<!-- marginal: (Broadbills) -->
+
+Calyptomena viridis Green broadbill Calyptomena whiteheadi Whitehead’s Broadbill Corydon sumatranus Dusky Broadbill) Cymbirhynchus macrorhynchos Black and Red Broadbill Eurylaimus javanicus Banded Broadbill Eurylaimus ochromalus Black and Yellow Broadbill Psarisomus dalhousiae Long-tailed broadbill Serilophus lunatus Silver-breasted Broadbill
+
+<!-- marginal: Falconidae -->
+
+Falco amurensis Amur Falcon
+
+<!-- marginal: (Falcons) -->
+
+Falco peregrinus Duck Hawk Falco severus Oriental Hobby Falco subbuteo Eurasian Hobby Falco tinnuculus Eurasian Kestrel Caracara lutosa Guadalupe Caracara Caracara plancus Common Caracara
 
 <!-- page 111 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
+Scientific Name Common Name Daptrius ater Black Caracara Falco araea Seychelles Kestrel Falco jugger Laggar Falcon Falco newtoni Madagascar Kestrel Falco pelegrinoides Barbary Falcon Falco punctatus Mauritius Kestrel Falco rusticolus Gyrfalcon Falco spp. Hawk Herpetotheres cachinnans Laughing Falcon Ibycter americanus Red-throated Caracara Micrastur spp. Forest Falcons Microchierax fringillarius Black-thighed Falconet Microhierax latifrons White-fronted Falconet Microhierax spp. Falconet Milvago chimachima Yellow-Headed Caracara Milvago chimango Chimango Caracara Phalcoboenus spp. Caracara Polihierax insignis Fielden’s Falconet Polihierax semitorquatus African Pygmy Falcon Spiziapteryx circumcinctus Spot-winged Falcon
 
-Daptrius ater
+<!-- marginal: Fregatidae -->
 
-<!-- marginal: Black Caracara -->
+Fregata andrewsi Andrews’ Frigatebird
 
-Falco araea
+<!-- marginal: (Frigatebird) -->
 
-<!-- marginal: Seychelles Kestrel -->
+Fregata ariel Lesser Frigatebird Fregata minor Great Frigatebird
 
-Falco jugger
+<!-- marginal: Fringillidae -->
 
-<!-- marginal: Laggar Falcon -->
+Carduelis cucullata Red Siskin
 
-Falco newtoni
+<!-- marginal: (Finches) -->
 
-<!-- marginal: Madagascar Kestrel -->
+<!-- marginal: Glareolidae -->
 
-Falco pelegrinoides
+Glareola maldivarum Oriental Pratincole
 
-<!-- marginal: Barbary Falcon -->
+<!-- marginal: (Coursers, Pranticoles) -->
 
-Falco punctatus
+Stiltia isabella Australian Pranticole
 
-<!-- marginal: Mauritius Kestrel -->
+<!-- marginal: Gruidae -->
 
-Falco rusticolus
+Grus antigone Sarus Crane
 
-<!-- marginal: Gyrfalcon -->
+<!-- marginal: (Cranes) -->
 
-Falco spp.
+Grus americana Whooping Crane Grus canadensis nesiotes Cuban Sandhill Crane Grus canadensis pulla Mississippi Sandhill Crane Grus japonensis Red-crowned Crane Grus leucogeranus Siberian White Crane Grus monacha Hooded Crane Grus nigricollis Black-necked Crane Grus vipio White-necked Crane
 
-<!-- marginal: Hawk -->
+<!-- marginal: Haematopodidae -->
 
-Herpetotheres cachinnans
+Haematopus ostralegus Common Oystercatcher
 
-<!-- marginal: Laughing Falcon -->
+<!-- marginal: (Oystercatchers) -->
 
-Ibycter americanus
+<!-- marginal: Heliornithidae -->
 
-<!-- marginal: Red-throated Caracara -->
+Heliopais personata Masked Finfoot
 
-Micrastur spp.
-
-<!-- marginal: Forest Falcons -->
-
-Microchierax fringillarius
-
-<!-- marginal: Black-thighed Falconet -->
-
-Microhierax latifrons
-
-<!-- marginal: White-fronted Falconet -->
-
-Microhierax spp.
-
-<!-- marginal: Falconet -->
-
-Milvago chimachima
-
-<!-- marginal: Yellow-Headed Caracara -->
-
-Milvago chimango
-
-<!-- marginal: Chimango Caracara -->
-
-Phalcoboenus spp.
-
-<!-- marginal: Caracara -->
-
-Polihierax insignis
-
-<!-- marginal: Fielden’s Falconet -->
-
-Polihierax semitorquatus
-
-<!-- marginal: African Pygmy Falcon -->
-
-Spiziapteryx circumcinctus
-
-<!-- marginal: Spot-winged Falcon -->
-
-Fregatidae Fregata andrewsi
-
-<!-- marginal: Andrews’ Frigatebird -->
-
-(Frigatebird) Fregata ariel
-
-<!-- marginal: Lesser Frigatebird -->
-
-Fregata minor
-
-<!-- marginal: Great Frigatebird -->
-
-Fringillidae Carduelis cucullata
-
-<!-- marginal: Red Siskin -->
-
-(Finches) Glareolidae Glareola maldivarum
-
-<!-- marginal: Oriental Pratincole -->
-
-(Coursers, Pranticoles) Stiltia isabella
-
-<!-- marginal: Australian Pranticole -->
-
-Gruidae Grus antigone
-
-<!-- marginal: Sarus Crane -->
-
-(Cranes) Grus americana
-
-<!-- marginal: Whooping Crane -->
-
-Grus canadensis nesiotes
-
-<!-- marginal: Cuban Sandhill Crane -->
-
-Grus canadensis pulla
-
-<!-- marginal: Mississippi Sandhill Crane -->
-
-Grus japonensis
-
-<!-- marginal: Red-crowned Crane -->
-
-Grus leucogeranus
-
-<!-- marginal: Siberian White Crane -->
-
-Grus monacha
-
-<!-- marginal: Hooded Crane -->
-
-Grus nigricollis
-
-<!-- marginal: Black-necked Crane -->
-
-Grus vipio
-
-<!-- marginal: White-necked Crane -->
-
-Haematopodidae Haematopus ostralegus
-
-<!-- marginal: Common Oystercatcher -->
-
-(Oystercatchers) Heliornithidae Heliopais personata
-
-<!-- marginal: Masked Finfoot -->
-
-(Limpkin, Finfoot)
+<!-- marginal: (Limpkin, Finfoot) -->
 
 <!-- page 112 -->
 
@@ -5546,9 +5192,157 @@ Family Scientific Name
 
 <!-- marginal: Common Name -->
 
-Hemiprocnidae Hemiprocne longipennis Grey-rumped Treeswift (Tree-swifts) Hemiprocne comata Whiskered Treeswift Hydrobatidae Oceanites oceanicus Wilson’s Storm Petrel (Storm-petrels) Oceonodroma monorhis Swinhoe’s Storm Petrel Hirundinidae Delichon dasypus Asian House Martin (Martin) Hirundo concolor Dusky Crag Martin Hirundo daurica Red-rumped Swallow Hirundo rustica Barn Swallow Hirundo striolata Striated Swallow Hirundo tahitica Pacific Swallow Riparia riparia Sand Martin Pseudochelidon sirintarae White-eyed River Martin Icteridae Agelaius flavus Saffron-cowled Blackbird (Blackbird) Indicatoridae (Honeyguide) Indicator archipelagicus Malaysian Honeyguide Irenidae Irena puella Asian Fairy Bluebird (Leafbirds, Ioras, Fairy- bluebird) Jacanidae Hydrophasianus chirurgus Pheasant-tailed Jacana (Jacanas) Metopodius indicus Bronze-winged Jacana Laniidae Lanius cristatus Brown Shrike (True Shrikes) Lanius schach Long-tailed Shrike Lanius tigrinus Tiger Shrike Laridae Anous minutus White Capped Noddy
+Hemiprocnidae Hemiprocne longipennis
 
-(Gull) Anous stolidus Brown Noddy Chlidonias hybridus Whiskered Tern Chlidonias leucopterus White-winged Tern Gelochelidon nilotica Gull-billed Tern Hydroprogne caspia Caspian Tern Larus brunnicephalus Brown-headed Gull Larus ridibundus Black-headed Gull Sterna albifrons Little Tern Sterna anaethetus Bridled Tern Sterna bengalensis Lesser Crested Tern Sterna bergii Great Crested Tern Sterna bernsteini Chinese Crested Tern Sterna dougallii Roseate Tern Sterna fuscata Sooty Tern Sterna hirundo Common Tern Sterna sumatrana Black-naped Tern Larus relictus Relict Gull
+<!-- marginal: Grey-rumped Treeswift -->
+
+(Tree-swifts) Hemiprocne comata
+
+<!-- marginal: Whiskered Treeswift -->
+
+Hydrobatidae Oceanites oceanicus
+
+<!-- marginal: Wilson’s Storm Petrel -->
+
+(Storm-petrels) Oceonodroma monorhis
+
+<!-- marginal: Swinhoe’s Storm Petrel -->
+
+Hirundinidae Delichon dasypus
+
+<!-- marginal: Asian House Martin -->
+
+(Martin) Hirundo concolor
+
+<!-- marginal: Dusky Crag Martin -->
+
+Hirundo daurica
+
+<!-- marginal: Red-rumped Swallow -->
+
+Hirundo rustica
+
+<!-- marginal: Barn Swallow -->
+
+Hirundo striolata
+
+<!-- marginal: Striated Swallow -->
+
+Hirundo tahitica
+
+<!-- marginal: Pacific Swallow -->
+
+Riparia riparia
+
+<!-- marginal: Sand Martin -->
+
+Pseudochelidon sirintarae
+
+<!-- marginal: White-eyed River Martin -->
+
+Icteridae Agelaius flavus
+
+<!-- marginal: Saffron-cowled Blackbird -->
+
+(Blackbird) Indicatoridae (Honeyguide) Indicator archipelagicus
+
+<!-- marginal: Malaysian Honeyguide -->
+
+Irenidae Irena puella
+
+<!-- marginal: Asian Fairy Bluebird -->
+
+(Leafbirds, Ioras, Fairy- bluebird) Jacanidae Hydrophasianus chirurgus
+
+<!-- marginal: Pheasant-tailed Jacana -->
+
+(Jacanas) Metopodius indicus
+
+<!-- marginal: Bronze-winged Jacana -->
+
+Laniidae Lanius cristatus
+
+<!-- marginal: Brown Shrike -->
+
+(True Shrikes) Lanius schach
+
+<!-- marginal: Long-tailed Shrike -->
+
+Lanius tigrinus
+
+<!-- marginal: Tiger Shrike -->
+
+Laridae Anous minutus
+
+<!-- marginal: White Capped Noddy -->
+
+(Gull) Anous stolidus
+
+<!-- marginal: Brown Noddy -->
+
+Chlidonias hybridus
+
+<!-- marginal: Whiskered Tern -->
+
+Chlidonias leucopterus
+
+<!-- marginal: White-winged Tern -->
+
+Gelochelidon nilotica
+
+<!-- marginal: Gull-billed Tern -->
+
+Hydroprogne caspia
+
+<!-- marginal: Caspian Tern -->
+
+Larus brunnicephalus
+
+<!-- marginal: Brown-headed Gull -->
+
+Larus ridibundus
+
+<!-- marginal: Black-headed Gull -->
+
+Sterna albifrons
+
+<!-- marginal: Little Tern -->
+
+Sterna anaethetus
+
+<!-- marginal: Bridled Tern -->
+
+Sterna bengalensis
+
+<!-- marginal: Lesser Crested Tern -->
+
+Sterna bergii
+
+<!-- marginal: Great Crested Tern -->
+
+Sterna bernsteini
+
+<!-- marginal: Chinese Crested Tern -->
+
+Sterna dougallii
+
+<!-- marginal: Roseate Tern -->
+
+Sterna fuscata
+
+<!-- marginal: Sooty Tern -->
+
+Sterna hirundo
+
+<!-- marginal: Common Tern -->
+
+Sterna sumatrana
+
+<!-- marginal: Black-naped Tern -->
+
+Larus relictus
+
+<!-- marginal: Relict Gull -->
 
 <!-- page 113 -->
 
@@ -5714,11 +5508,21 @@ Cyornis concreta
 
 <!-- page 114 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
+Scientific Name Common Name Cyornis ruberculoides Blue-throated Flycatcher Cyornis rufigastra Mangrove Blue Flycatcher Cyornis superbus Bornean Blue Flycatcher Cyornis tickelliae Tickell’s Blue Flycatcher Cyornis turcosa Malaysian Blue Flycatcher Cyornis unicolor Pale Blue Flycatcher Eumyias indigo Indigo Flycatcher Eumyias thalassina Verditer Flycatcher Ficedula dumetoria Rufous-chested Flycatcher Ficedula hyperythra Snowy-browed Flycatcher Ficedula mugimaki Mugimaki Flycatcher Ficedula narcissina Narcissus Flycatcher Ficedula parva Red-throated Flycatcher Ficedula solitaria Rufous-browed Flycatcher Ficedula westermanni Little Pied Flycatcher Ficedula zanthopygia Yellow-rumped Flycatcher Muscicapa dauurica Asian Brown Flycatcher Muscicapa ferruginea Ferruginous Flycatcher Muscicapa griseisticta Grey-streaked Flycatcher Muscicapa sibirica Dark-sided Flycatcher Muscicapa wiliamsoni Brown-streaked Flycatcher Muscicapella hodgsoni Pygmy Blue Flycatcher Niltava grandis Large Niltava Niltava sumatrana Rufous-vented Niltava Rhynomyias brunneata Brown-chested Jungle Flycatcher) Rhynomyias gularis Eye-browed Jungle Flycatcher Rhynomyias olivacea Fulvous-chested Jungle Flycatcher Rhynomyias ruficauda Rufous-tailed Jungle Flycatcher Rhynomyias umbratilis Grey-chested Jungle Flycatcher Dasyornis broadbenti litoralis Lesser Rufous Bristlebird Dasyornis longirostris Long-billed Bristlebird Picathartes gymnocephalus Bare-headed Rockfowl Picathartes oreas Grey-necked Picathartes
 
-Cyornis ruberculoides Blue-throated Flycatcher Cyornis rufigastra Mangrove Blue Flycatcher Cyornis superbus Bornean Blue Flycatcher Cyornis tickelliae Tickell’s Blue Flycatcher Cyornis turcosa Malaysian Blue Flycatcher Cyornis unicolor Pale Blue Flycatcher Eumyias indigo Indigo Flycatcher Eumyias thalassina Verditer Flycatcher Ficedula dumetoria Rufous-chested Flycatcher Ficedula hyperythra Snowy-browed Flycatcher Ficedula mugimaki Mugimaki Flycatcher Ficedula narcissina Narcissus Flycatcher Ficedula parva Red-throated Flycatcher Ficedula solitaria Rufous-browed Flycatcher Ficedula westermanni Little Pied Flycatcher Ficedula zanthopygia Yellow-rumped Flycatcher Muscicapa dauurica Asian Brown Flycatcher Muscicapa ferruginea Ferruginous Flycatcher Muscicapa griseisticta Grey-streaked Flycatcher Muscicapa sibirica Dark-sided Flycatcher Muscicapa wiliamsoni Brown-streaked Flycatcher Muscicapella hodgsoni Pygmy Blue Flycatcher Niltava grandis Large Niltava Niltava sumatrana Rufous-vented Niltava Rhynomyias brunneata Brown-chested Jungle Flycatcher) Rhynomyias gularis Eye-browed Jungle Flycatcher Rhynomyias olivacea Fulvous-chested Jungle Flycatcher Rhynomyias ruficauda Rufous-tailed Jungle Flycatcher Rhynomyias umbratilis Grey-chested Jungle Flycatcher Dasyornis broadbenti litoralis Lesser Rufous Bristlebird Dasyornis longirostris Long-billed Bristlebird Picathartes gymnocephalus Bare-headed Rockfowl Picathartes oreas Grey-necked Picathartes Nectarinidae Aethopyga saturata Black-throated Sunbird (Flowerpeckers, Sunbirds, Aethopyga siparaja Crimson Sunbird Spiderhunters) Aethopyga temminckii Scarlet Sunbird
+<!-- marginal: Nectarinidae -->
+
+Aethopyga saturata Black-throated Sunbird
+
+<!-- marginal: (Flowerpeckers, Sunbirds, -->
+
+Aethopyga siparaja Crimson Sunbird
+
+<!-- marginal: Spiderhunters) -->
+
+Aethopyga temminckii Scarlet Sunbird
 
 <!-- page 115 -->
 
@@ -5874,1003 +5678,375 @@ Pelecanus crispus
 
 <!-- page 116 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
+Scientific Name Common Name
 
-Phalacrocoracidae Phalachrocorax carbo Great Commorant (Cormorants) Phalachrocorax niger Little Commorant Phalaropodidae (Phalaropes) Phalaropus fulicaria Red Phalarope Phalaropus lobatus Red-necked Phalarope Phasianidae Arborophila campbelli Malaysian Hill-Partridge (Grouse, guineafowl, Arborophila charltonii Chestnut-necklace Partridge partridges,pheasants, tragopans) Arborophila hyperythra Red-breasted Partridge Argusianus argus Great Argus Caloperdix oculea Ferruginous Wood Partridge Haematortyx sanguiniceps Crimson-headed Partridge Lophura bulweri Bulwer’s Pheasant Lophura erythropthalma Crestless Fire-backed Pheasant Lophura ignita Crested Firebacked Melanoperdix nigra Black-wood Partridge Pavo muticus Green Peafowl Polyplectron inopinatum Rothschild’s Peacock Pheasant Polyplectron malacense Malaysian’s Peacock Pheasant Polyplectron schleiermacheri Borneon Peacock Pheasant Rheinardia ocellata Crested Argus Rhizothera dulitensis Dulit partridge Rhizothera longirostris Long Billed Partridge Rollulus rouloul Roulroul Catreus wallichii Chir Pheasant Colinus virginianus ridgwayi Masked Bobwhite Crossoptilon crossoptilon White Eared-Pheasant Crossoptilon harmani Tibetan Eared-Pheasant Crossoptilon mantchuricum Brown Eared-Pheasant Lophophorus impejanus Himalayan Monal Lophophorus lhuysii Chinese Impeyan Lophophorus sclateri Crestless Monal Lophura edwardsi Edwards’s Pheasant Lophura imperialis Imperial Pheasant Lophura swinhoii Swinhoe’s Pheasant Polyplectron emphanum Palawan Peacock-Pheasant Syrmaticus ellioti Elliot’s Pheasant Syrmaticus humiae Hume’s Pheasant Syrmaticus mikado Mikado Pheasant Tetraogallus caspius Caspian Snowcock
+<!-- marginal: Phalacrocoracidae -->
+
+Phalachrocorax carbo Great Commorant
+
+<!-- marginal: (Cormorants) -->
+
+Phalachrocorax niger Little Commorant
+
+<!-- marginal: Phalaropodidae (Phalaropes) -->
+
+Phalaropus fulicaria Red Phalarope Phalaropus lobatus Red-necked Phalarope
+
+<!-- marginal: Phasianidae -->
+
+Arborophila campbelli Malaysian Hill-Partridge
+
+<!-- marginal: (Grouse, guineafowl, -->
+
+Arborophila charltonii Chestnut-necklace Partridge
+
+<!-- marginal: partridges,pheasants, -->
+
+<!-- marginal: tragopans) -->
+
+Arborophila hyperythra Red-breasted Partridge Argusianus argus Great Argus Caloperdix oculea Ferruginous Wood Partridge Haematortyx sanguiniceps Crimson-headed Partridge Lophura bulweri Bulwer’s Pheasant Lophura erythropthalma Crestless Fire-backed Pheasant Lophura ignita Crested Firebacked Melanoperdix nigra Black-wood Partridge Pavo muticus Green Peafowl Polyplectron inopinatum Rothschild’s Peacock Pheasant Polyplectron malacense Malaysian’s Peacock Pheasant Polyplectron schleiermacheri Borneon Peacock Pheasant Rheinardia ocellata Crested Argus Rhizothera dulitensis Dulit partridge Rhizothera longirostris Long Billed Partridge Rollulus rouloul Roulroul Catreus wallichii Chir Pheasant Colinus virginianus ridgwayi Masked Bobwhite Crossoptilon crossoptilon White Eared-Pheasant Crossoptilon harmani Tibetan Eared-Pheasant Crossoptilon mantchuricum Brown Eared-Pheasant Lophophorus impejanus Himalayan Monal Lophophorus lhuysii Chinese Impeyan Lophophorus sclateri Crestless Monal Lophura edwardsi Edwards’s Pheasant Lophura imperialis Imperial Pheasant Lophura swinhoii Swinhoe’s Pheasant Polyplectron emphanum Palawan Peacock-Pheasant Syrmaticus ellioti Elliot’s Pheasant Syrmaticus humiae Hume’s Pheasant Syrmaticus mikado Mikado Pheasant Tetraogallus caspius Caspian Snowcock
 
 <!-- page 117 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
+Scientific Name Common Name Tetraogallus tibetanus Tibetan Snowcock Tragopan blythii Blyth’s Tragopan Tragopan caboti Cabot’s Tragopan Tragopan melanocephalus Western Tragopan Tympanuchus cupido attwateri Attwater’s Prairie-chicken
 
-Tetraogallus tibetanus
+<!-- marginal: Picidae -->
 
-<!-- marginal: Tibetan Snowcock -->
+Blythipicus pyrrhotis Bay Woodpecker
 
-Tragopan blythii
+<!-- marginal: (Woodpeckers) -->
 
-<!-- marginal: Blyth’s Tragopan -->
+Blythipicus rubiginosus Maroon Woodpecker Celeus brachyurus Rufous Woodpecker Chrysocolaptes lucidus Golden-backed Woodpecker Dendrocopus canicapillus Grey-capped Woodpecker Dendrocopus moluccensis Malaysian Pygmy Pied Woodpecker Dinopium javanense Common Flameback Dinopium rafflesii Olive-backed Three-toed Woodpecker Dryocopus javensis White-bellied Woodpecker Gecinulus viridis Bamboo Woodpecker Hemicircus concretus Grey and Buff Woodpecker Meiglyptes tristis Buff-rumped Woodpecker Meiglyptes tukki Buff-necked Woodpecker Mulleripicus pulverulentus Great Slaty Woodpecker Picumnus innominatus Speckled Piculet Picus canus Grey-headed Woodpecker Picus chlorolophus Lesser Yellownape Woodpecker Picus flavinucha Greater Yellownape Picus mentalis Chequer-throated Yellownape Picus miniaceus Banded Yellownape Picus puniceus Crimson-winged Woodpecker Picus viridanus Streak-brested Woodpecker Picus vittatus Laced Woodpecker Reinwardtipicus validus Orange-backed Woodpecker Sasia abnormis Rufous Piculet Campephilus imperialis Imperial Woodpecker Dryocopus javensis richardsi Tristram’s Woodpecker
 
-Tragopan caboti
+<!-- marginal: Pittidae -->
 
-<!-- marginal: Cabot’s Tragopan -->
+Pitta arquata Blue-banded Pitta
 
-Tragopan melanocephalus
+<!-- marginal: (Pittas) -->
 
-<!-- marginal: Western Tragopan -->
-
-Tympanuchus cupido attwateri
-
-<!-- marginal: Attwater’s Prairie-chicken -->
-
-Picidae Blythipicus pyrrhotis
-
-<!-- marginal: Bay Woodpecker -->
-
-(Woodpeckers) Blythipicus rubiginosus
-
-<!-- marginal: Maroon Woodpecker -->
-
-Celeus brachyurus
-
-<!-- marginal: Rufous Woodpecker -->
-
-Chrysocolaptes lucidus
-
-<!-- marginal: Golden-backed Woodpecker -->
-
-Dendrocopus canicapillus
-
-<!-- marginal: Grey-capped Woodpecker -->
-
-Dendrocopus moluccensis
-
-<!-- marginal: Malaysian Pygmy Pied -->
-
-<!-- marginal: Woodpecker -->
-
-Dinopium javanense
-
-<!-- marginal: Common Flameback -->
-
-Dinopium rafflesii
-
-<!-- marginal: Olive-backed Three-toed -->
-
-<!-- marginal: Woodpecker -->
-
-Dryocopus javensis
-
-<!-- marginal: White-bellied Woodpecker -->
-
-Gecinulus viridis
-
-<!-- marginal: Bamboo Woodpecker -->
-
-Hemicircus concretus
-
-<!-- marginal: Grey and Buff Woodpecker -->
-
-Meiglyptes tristis
-
-<!-- marginal: Buff-rumped Woodpecker -->
-
-Meiglyptes tukki
-
-<!-- marginal: Buff-necked Woodpecker -->
-
-Mulleripicus pulverulentus
-
-<!-- marginal: Great Slaty Woodpecker -->
-
-Picumnus innominatus
-
-<!-- marginal: Speckled Piculet -->
-
-Picus canus
-
-<!-- marginal: Grey-headed Woodpecker -->
-
-Picus chlorolophus
-
-<!-- marginal: Lesser Yellownape -->
-
-<!-- marginal: Woodpecker -->
-
-Picus flavinucha
-
-<!-- marginal: Greater Yellownape -->
-
-Picus mentalis
-
-<!-- marginal: Chequer-throated -->
-
-<!-- marginal: Yellownape -->
-
-Picus miniaceus
-
-<!-- marginal: Banded Yellownape -->
-
-Picus puniceus
-
-<!-- marginal: Crimson-winged -->
-
-<!-- marginal: Woodpecker -->
-
-Picus viridanus
-
-<!-- marginal: Streak-brested Woodpecker -->
-
-Picus vittatus
-
-<!-- marginal: Laced Woodpecker -->
-
-Reinwardtipicus validus
-
-<!-- marginal: Orange-backed Woodpecker -->
-
-Sasia abnormis
-
-<!-- marginal: Rufous Piculet -->
-
-Campephilus imperialis
-
-<!-- marginal: Imperial Woodpecker -->
-
-Dryocopus javensis richardsi
-
-<!-- marginal: Tristram’s Woodpecker -->
-
-Pittidae Pitta arquata
-
-<!-- marginal: Blue-banded Pitta -->
-
-(Pittas) Pitta baudii
-
-<!-- marginal: Blue-headed Pitta -->
-
-Pitta caerulea
-
-<!-- marginal: Giant Pitta -->
-
-Pitta granatina
-
-<!-- marginal: Garnet Pitta -->
+Pitta baudii Blue-headed Pitta Pitta caerulea Giant Pitta Pitta granatina Garnet Pitta
 
 <!-- page 118 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
+Scientific Name Common Name Pitta guajana Blue-tailed Pitta Pitta megarhyncha Mangrove Pitta) Pitta moluccensis Blue-winged Pitta Pitta nympha Fairy Pitta Pitta oatesi Rusty-naped Pitta Pitta sordida Hooded Pitta Pitta ussheri Black-and-Crimson Pitta Pitta gurneyi Black-breasted Pitta Pitta kochi Koch’s Pitta
 
-Pitta guajana Blue-tailed Pitta Pitta megarhyncha Mangrove Pitta) Pitta moluccensis Blue-winged Pitta Pitta nympha Fairy Pitta Pitta oatesi Rusty-naped Pitta Pitta sordida Hooded Pitta Pitta ussheri Black-and-Crimson Pitta Pitta gurneyi Black-breasted Pitta Pitta kochi Koch’s Pitta Podicipedidae Podilymbus gigas Atitlan Grebe (Grebe) Podiceps ruficollis Little Grebe Tachybaptus ruficollis Little Grebe Procellariidae Bulweria bulwerii Bulwer’s Petrel (Petrels, Shearwaters, Calonectris leucomelas Streaked Shearwater Diving-petrel, Albatrosses, Storm-petrels) Puffinus pacificus Wedge-tailed Shearwater Psittacidae Psittacula longicauda Long-tailed Parakeet (Amazon, Macaws, Psittinus cyanurus Blue-rumped Parrot Parakeets, Parrots) Tanygnathus lucionensis Blue-naped Parrot Amazona arausiaca Red-necked Amazon Amazona barbadensis Yellow shouldered Amazon Amazona brasiliensis Red-tailed Parrot Amazona finschi Lilac-crowned Parrot Amazona guildingii Saint Vincent Parrot Amazona imperialis Imperial Parrot) Amazona leucocephala Bahamas Parrot Amazona ochrocephala Yellow-naped Parrot auropalliata Amazona ochrocephala Yellow-crowned Amazon belizensis Amazona ochrocephala caribaea Amazona ochrocephala oratrix Yellow-headed Parrot Amazona ochrocephala parvipes Amazona ochrocephala tresmariae Amazona pretrei Red-spectacled Parrot Amazona rhodocorytha Red-browed Parrot Amazona tucumana Tucuman Parrot Amazona versicolor Saint Lucia Parrot Amazona vinacea Vinaceous Parrot
+<!-- marginal: Podicipedidae -->
+
+Podilymbus gigas Atitlan Grebe
+
+<!-- marginal: (Grebe) -->
+
+Podiceps ruficollis Little Grebe Tachybaptus ruficollis Little Grebe
+
+<!-- marginal: Procellariidae -->
+
+Bulweria bulwerii Bulwer’s Petrel
+
+<!-- marginal: (Petrels, Shearwaters, -->
+
+Calonectris leucomelas Streaked Shearwater
+
+<!-- marginal: Diving-petrel, Albatrosses, -->
+
+<!-- marginal: Storm-petrels) -->
+
+Puffinus pacificus Wedge-tailed Shearwater
+
+<!-- marginal: Psittacidae -->
+
+Psittacula longicauda Long-tailed Parakeet
+
+<!-- marginal: (Amazon, Macaws, -->
+
+Psittinus cyanurus Blue-rumped Parrot
+
+<!-- marginal: Parakeets, Parrots) -->
+
+Tanygnathus lucionensis Blue-naped Parrot Amazona arausiaca Red-necked Amazon Amazona barbadensis Yellow shouldered Amazon Amazona brasiliensis Red-tailed Parrot Amazona finschi Lilac-crowned Parrot Amazona guildingii Saint Vincent Parrot Amazona imperialis Imperial Parrot) Amazona leucocephala Bahamas Parrot Amazona ochrocephala Yellow-naped Parrot auropalliata Amazona ochrocephala Yellow-crowned Amazon belizensis Amazona ochrocephala caribaea Amazona ochrocephala oratrix Yellow-headed Parrot Amazona ochrocephala parvipes Amazona ochrocephala tresmariae Amazona pretrei Red-spectacled Parrot Amazona rhodocorytha Red-browed Parrot Amazona tucumana Tucuman Parrot Amazona versicolor Saint Lucia Parrot Amazona vinacea Vinaceous Parrot
 
 <!-- page 119 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
+Scientific Name Common Name Amazona viridigenalis Green-cheeked Parrot Amazona vittata Puerto Rican Parrot Anodorhynchus spp. Blue Macaws Ara ambigua Great Green Macaw Ara glaucogularis Blue-throated Macaw Ara macao Punaara Ara militaris Military Macaw Ara rubrogenys Red-fronted Macaw Cyanopsitta spixii Little Blue Macaw Cyanoramphus forbesi Forbes’s Parakeet Cyanoramphus novaezelandiae Red-fronted Parakeet Cyclopsitta diophthalma coxeni Coxen’s Two-eyed Fig Parrot Eunymphicus cornutus Horned Parakeet Geopsittacus occidentalis Night Parrot Guarouba guarouba Golden Parakeet Neophema chrysogaster Orange-bellied Parrot Ognorhynchus icterotis Yellow-eared Parrot Pezoporus wallicus Ground Parakeet Pionopsitta pileata Red-capped Parrot Propyrrhura couloni Blue-headed Macaw Propyrrhura maracana Blue-winged Macaw Psephotus chrysopterygius Golden-shouldered Parrot Psephotus dissimilis Hooded Parrot Psephotus pulcherrimus Paradise Parrot Psittacula cyanurus Blue-rumped Parrot Psittacula echo Mauritius Parakeet) Pyrrhura cruentata Blue-throated Parakeet Rhynchopsitta spp. Parrot Strigops habroptilus Owl Parrot
 
-Amazona viridigenalis
+<!-- marginal: Pycnonotidae -->
 
-<!-- marginal: Green-cheeked Parrot -->
+Alophoixus bres Grey-cheeked Bulbul
 
-Amazona vittata
+<!-- marginal: (Bulbul) -->
 
-<!-- marginal: Puerto Rican Parrot -->
-
-Anodorhynchus spp.
-
-<!-- marginal: Blue Macaws -->
-
-Ara ambigua
-
-<!-- marginal: Great Green Macaw -->
-
-Ara glaucogularis
-
-<!-- marginal: Blue-throated Macaw -->
-
-Ara macao
-
-<!-- marginal: Punaara -->
-
-Ara militaris
-
-<!-- marginal: Military Macaw -->
-
-Ara rubrogenys
-
-<!-- marginal: Red-fronted Macaw -->
-
-Cyanopsitta spixii
-
-<!-- marginal: Little Blue Macaw -->
-
-Cyanoramphus forbesi
-
-<!-- marginal: Forbes’s Parakeet -->
-
-Cyanoramphus novaezelandiae
-
-<!-- marginal: Red-fronted Parakeet -->
-
-Cyclopsitta diophthalma coxeni Coxen’s Two-eyed Fig
-
-<!-- marginal: Parrot -->
-
-Eunymphicus cornutus
-
-<!-- marginal: Horned Parakeet -->
-
-Geopsittacus occidentalis
-
-<!-- marginal: Night Parrot -->
-
-Guarouba guarouba
-
-<!-- marginal: Golden Parakeet -->
-
-Neophema chrysogaster
-
-<!-- marginal: Orange-bellied Parrot -->
-
-Ognorhynchus icterotis
-
-<!-- marginal: Yellow-eared Parrot -->
-
-Pezoporus wallicus
-
-<!-- marginal: Ground Parakeet -->
-
-Pionopsitta pileata
-
-<!-- marginal: Red-capped Parrot -->
-
-Propyrrhura couloni
-
-<!-- marginal: Blue-headed Macaw -->
-
-Propyrrhura maracana
-
-<!-- marginal: Blue-winged Macaw -->
-
-Psephotus chrysopterygius
-
-<!-- marginal: Golden-shouldered Parrot -->
-
-Psephotus dissimilis
-
-<!-- marginal: Hooded Parrot -->
-
-Psephotus pulcherrimus
-
-<!-- marginal: Paradise Parrot -->
-
-Psittacula cyanurus
-
-<!-- marginal: Blue-rumped Parrot -->
-
-Psittacula echo
-
-<!-- marginal: Mauritius Parakeet) -->
-
-Pyrrhura cruentata
-
-<!-- marginal: Blue-throated Parakeet -->
-
-Rhynchopsitta spp.
-
-<!-- marginal: Parrot -->
-
-Strigops habroptilus
-
-<!-- marginal: Owl Parrot -->
-
-Pycnonotidae Alophoixus bres
-
-<!-- marginal: Grey-cheeked Bulbul -->
-
-(Bulbul) Alophoixus finschi
-
-<!-- marginal: Finsch’s Bulbul -->
-
-Alophoixus ochraceus
-
-<!-- marginal: Ochraceus Bulbul -->
-
-Alophoixus phaeocephalus
-
-<!-- marginal: Yellow-bellied Bulbul -->
-
-Hemixos flavala
-
-<!-- marginal: Ashy Bulbul -->
-
-Hypsipetes mcclellandii
-
-<!-- marginal: Mountain Bulbul -->
-
-Iole olivacea
-
-<!-- marginal: Buff-vented Bulbul -->
-
-Ixos malaccensis
-
-<!-- marginal: Streked Bulbul -->
-
-Pycnonotus atriceps
-
-<!-- marginal: Black-headed Bulbul -->
-
-Pycnonotus blanfordi
-
-<!-- marginal: Streak-eared Bulbul -->
+Alophoixus finschi Finsch’s Bulbul Alophoixus ochraceus Ochraceus Bulbul Alophoixus phaeocephalus Yellow-bellied Bulbul Hemixos flavala Ashy Bulbul Hypsipetes mcclellandii Mountain Bulbul Iole olivacea Buff-vented Bulbul Ixos malaccensis Streked Bulbul Pycnonotus atriceps Black-headed Bulbul Pycnonotus blanfordi Streak-eared Bulbul
 
 <!-- page 120 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
+Scientific Name Common Name Pycnonotus brunneus Red-eyed Bulbul Pycnonotus cyaniventris Grey-bellied Bulbul Pycnonotus erythrophthalmos Spectacled Bulbul Pycnonotus eutilotus Puff-backed Bulbul Pycnonotus finlaysoni Stripe-throated Bulbul Pycnonotus flavescens Flavescent Bulbul Pycnonotus melanicterus Black-crested Bulbul Pycnonotus melanoleucos Black-and white Bulbul Pycnonotus plumosus Olive-winged Bulbul Pycnonotus simplex Cream-vented Bulbul Pycnonotus squamatus Scaly-breasted Bulbul Pycnonotus zeylanicus Yellow-crowned Bulbul Setornis criniger Hook-billed Bulbul Tricholestes criniger Hairy-backed Bulbul
 
-Pycnonotus brunneus Red-eyed Bulbul Pycnonotus cyaniventris Grey-bellied Bulbul Pycnonotus erythrophthalmos Spectacled Bulbul Pycnonotus eutilotus Puff-backed Bulbul Pycnonotus finlaysoni Stripe-throated Bulbul Pycnonotus flavescens Flavescent Bulbul Pycnonotus melanicterus Black-crested Bulbul Pycnonotus melanoleucos Black-and white Bulbul Pycnonotus plumosus Olive-winged Bulbul Pycnonotus simplex Cream-vented Bulbul Pycnonotus squamatus Scaly-breasted Bulbul Pycnonotus zeylanicus Yellow-crowned Bulbul Setornis criniger Hook-billed Bulbul Tricholestes criniger Hairy-backed Bulbul Rallidae Fulica atra Common Coot
+<!-- marginal: Rallidae -->
 
-(Rail) Gallicrex cinerea Watercock) Gallinula chloropus Common Moorhen Gallirallus striatus Slaty-breasted Rail Porphyrio porphyrio Purple Swamphen Porzana cinerea White-browed Crake Porzana fusca Ruddy-breasted Crake Porzana paykullii Band-bellied Crake Porzana pusilla Baillon’s Crake Rallina eurizonoides Slaty-legged Crake Rallina fasciata Red-legged Crake Rallus aquaticus Water Rail Gallirallus sylvestris Lord Howe Island Rail Recurvirostridae Himantopus himantopus Black-winged Stilt Rheidae Pterocnemia pennata (Except Darwin’s Rhea (Rheas) Pterocnemia pennata pennata in First Schedule) Rhipiduridae Rhipidura albicolis White-throated Fantail Rhipidura javanica Pied Fantail Rhipidura perlata Spotted Fantail Rhynochetidae Rhynochetos jubatus Kagu
+Fulica atra Common Coot
 
-(Kagu) Rostratulidae (Paintedsnipe) Rostratula benghalensis Greater Paintedsnipe Scolopacidae Actitis hypoleucos Common Sandpiper (Curlews, greenshanks) Arenaria interpres Ruddy Turnstone Calidris acuminata Sharp-tailed Sandpiper
+(Rail) Gallicrex cinerea Watercock) Gallinula chloropus Common Moorhen Gallirallus striatus Slaty-breasted Rail Porphyrio porphyrio Purple Swamphen Porzana cinerea White-browed Crake Porzana fusca Ruddy-breasted Crake Porzana paykullii Band-bellied Crake Porzana pusilla Baillon’s Crake Rallina eurizonoides Slaty-legged Crake Rallina fasciata Red-legged Crake Rallus aquaticus Water Rail Gallirallus sylvestris Lord Howe Island Rail
+
+<!-- marginal: Recurvirostridae -->
+
+Himantopus himantopus Black-winged Stilt
+
+<!-- marginal: Rheidae -->
+
+Pterocnemia pennata (Except Darwin’s Rhea
+
+<!-- marginal: (Rheas) -->
+
+Pterocnemia pennata pennata in First Schedule)
+
+<!-- marginal: Rhipiduridae -->
+
+Rhipidura albicolis White-throated Fantail Rhipidura javanica Pied Fantail Rhipidura perlata Spotted Fantail
+
+<!-- marginal: Rhynochetidae -->
+
+Rhynochetos jubatus Kagu
+
+(Kagu)
+
+<!-- marginal: Rostratulidae (Paintedsnipe) -->
+
+Rostratula benghalensis Greater Paintedsnipe
+
+<!-- marginal: Scolopacidae -->
+
+Actitis hypoleucos Common Sandpiper
+
+<!-- marginal: (Curlews, greenshanks) -->
+
+Arenaria interpres Ruddy Turnstone Calidris acuminata Sharp-tailed Sandpiper
 
 <!-- page 121 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
+Scientific Name Common Name Calidris alpina Dunlin Calidris canutus Red Knot Calidris ferruginea Curlew Sandpiper Calidris minuta Little Stinct Calidris ruficollis Rufous-necked Stinct Calidris subminuta Long-toed Stinct Calidris temminckii Temminck’s Stinct Calidris tenuirostris Great Knot Crocethia alba Sanderling Eurynorhynchus pymaeus Spoon-billed Sandpiper Gallinago gallinago Common Snipe Gallinago megala Swinhoe’s Snipe Gallinago stenura Pintail Snipe Heteroscelus brevipes Grey-tailed Tattler Limicola falcinellus Broad-billed Sandpiper Limnodromus scolopaceus Long-billed Dowitcher Limnodromus semipalmatus Asian Dowitcher Limosa lapponica Bar-tailed Godwit Limosa limosa Black-tailed Godwit Numenius arquata Eurasian Curlew Numenius madagascariensis Far Eastern Curlew Numenius minutus Little Curlew Numenius phaeopus Whimbrel Philomachus pugnax Ruff Scolopax rusticola Eurasian Woodcock Tringa erythropus Spotted Redshank Tringa glareola Wood Sandpiper Tringa guttifer Nordmann’s Greenshank Tringa nebularia Common Greenshank Tringa ochropus Green Sandpiper Tringa stagnalitis Marsh Sandpiper Tringa totanus Common Redshank Xenus cinereus Terek Sandpiper Numenius borealis Eskimo Curlew Numenius tenuirostris Slender-billed Curlew
 
-Calidris alpina
+<!-- marginal: Sittidae -->
 
-<!-- marginal: Dunlin -->
+Sitta azurea Blue Nuthatch
 
-Calidris canutus
+<!-- marginal: (Nuthatchers, Wallcreeper) -->
 
-<!-- marginal: Red Knot -->
+Sitta frontalis Velvet-fronted Nuthatch
 
-Calidris ferruginea
+<!-- marginal: Spheniscidae -->
 
-<!-- marginal: Curlew Sandpiper -->
+Spheniscus humboldti Peruvian Penguin
 
-Calidris minuta
-
-<!-- marginal: Little Stinct -->
-
-Calidris ruficollis
-
-<!-- marginal: Rufous-necked Stinct -->
-
-Calidris subminuta
-
-<!-- marginal: Long-toed Stinct -->
-
-Calidris temminckii
-
-<!-- marginal: Temminck’s Stinct -->
-
-Calidris tenuirostris
-
-<!-- marginal: Great Knot -->
-
-Crocethia alba
-
-<!-- marginal: Sanderling -->
-
-Eurynorhynchus pymaeus
-
-<!-- marginal: Spoon-billed Sandpiper -->
-
-Gallinago gallinago
-
-<!-- marginal: Common Snipe -->
-
-Gallinago megala
-
-<!-- marginal: Swinhoe’s Snipe -->
-
-Gallinago stenura
-
-<!-- marginal: Pintail Snipe -->
-
-Heteroscelus brevipes
-
-<!-- marginal: Grey-tailed Tattler -->
-
-Limicola falcinellus
-
-<!-- marginal: Broad-billed Sandpiper -->
-
-Limnodromus scolopaceus
-
-<!-- marginal: Long-billed Dowitcher -->
-
-Limnodromus semipalmatus
-
-<!-- marginal: Asian Dowitcher -->
-
-Limosa lapponica
-
-<!-- marginal: Bar-tailed Godwit -->
-
-Limosa limosa
-
-<!-- marginal: Black-tailed Godwit -->
-
-Numenius arquata
-
-<!-- marginal: Eurasian Curlew -->
-
-Numenius madagascariensis
-
-<!-- marginal: Far Eastern Curlew -->
-
-Numenius minutus
-
-<!-- marginal: Little Curlew -->
-
-Numenius phaeopus
-
-<!-- marginal: Whimbrel -->
-
-Philomachus pugnax
-
-<!-- marginal: Ruff -->
-
-Scolopax rusticola
-
-<!-- marginal: Eurasian Woodcock -->
-
-Tringa erythropus
-
-<!-- marginal: Spotted Redshank -->
-
-Tringa glareola
-
-<!-- marginal: Wood Sandpiper -->
-
-Tringa guttifer
-
-<!-- marginal: Nordmann’s Greenshank -->
-
-Tringa nebularia
-
-<!-- marginal: Common Greenshank -->
-
-Tringa ochropus
-
-<!-- marginal: Green Sandpiper -->
-
-Tringa stagnalitis
-
-<!-- marginal: Marsh Sandpiper -->
-
-Tringa totanus
-
-<!-- marginal: Common Redshank -->
-
-Xenus cinereus
-
-<!-- marginal: Terek Sandpiper -->
-
-Numenius borealis
-
-<!-- marginal: Eskimo Curlew -->
-
-Numenius tenuirostris
-
-<!-- marginal: Slender-billed Curlew -->
-
-Sittidae Sitta azurea
-
-<!-- marginal: Blue Nuthatch -->
-
-(Nuthatchers, Wallcreeper) Sitta frontalis
-
-<!-- marginal: Velvet-fronted Nuthatch -->
-
-Spheniscidae Spheniscus humboldti
-
-<!-- marginal: Peruvian Penguin -->
-
-(Penguins)
+<!-- marginal: (Penguins) -->
 
 <!-- page 122 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
+Scientific Name Common Name
 
-Stercorariidae Stercorarius longicaudus Long-tailed Jaeger (Jaeger) Stercorarius parasiticus Parasitic Jaeger Stercorarius pomarinus Pomarine Jaeger Strigidae Asio flammeus Short-eared Owl
+<!-- marginal: Stercorariidae -->
+
+Stercorarius longicaudus Long-tailed Jaeger
+
+<!-- marginal: (Jaeger) -->
+
+Stercorarius parasiticus Parasitic Jaeger Stercorarius pomarinus Pomarine Jaeger
+
+<!-- marginal: Strigidae -->
+
+Asio flammeus Short-eared Owl
 
 (Owls) Bubo coromandus Dusky Eagle Owl Bubo sumatranus Barred Eagle-Owl Glaucidium brodiei Collared Owlet Ketupa ketupu Buffy Fish Owl Ketupa zeylonensis Brown Fish Owl Ninox scutulata Brown Boobook Otus bakkamoena Collared Scops Owl Otus brookei Rajah’s Scops Owl Otus mantananensis Mantanani Scops Owl Otus rufescens Reddish Scops Owl Otus sagittatus White-fronted Scops Owl Otus spilocephalus Mountain Scops Owl Strix leptogrammica Brown Wood Owl Strix seloputo Spotted Wood Owl Aegolius spp. Owl Asio spp. Owl Athene blewitti Forest Little Owl Athene spp. Owl Bubo spp. Eagle Owls Glaucidium spp. Pygmy Owls Jubula lettii Maned Owl Ketupa spp. Owl Lophostrix cristata Crested Owl Micrathe whitneyi Elf Owl Mimizuku gurneyi Mindanao Eagle-Owl Nesasio solomonensis Fearful Owl Ninox novaeseelandiae Norfolk Island Boobook undulata Owl Ninox spp. Owl Ninox squamipila natalis Christmas Hawk-Owl Nyctea scandiaca Snowy Owl Otus spp. Owl Otus sunia Oriental Scops Owl Pseudoscops grammic Jamaican Owl Pulsatrix spp. Owl Sceloglaux albifacies Laughing Owl
 
 <!-- page 123 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
+Scientific Name Common Name Scotopelia spp. Fishing owls Strix spp. Owl Surnia ulula Hawk Owl Uroglaux dimorpha Papuan Boobook Xenoglaux loweryi Long-whiskered Owlet
 
-Scotopelia spp.
+<!-- marginal: Struthionidae -->
 
-<!-- marginal: Fishing owls -->
+Struthio camelus Ostrich
 
-Strix spp.
+<!-- marginal: (Ostrich) -->
 
-<!-- marginal: Owl -->
+<!-- marginal: Sturnidae -->
 
-Surnia ulula
+Acridotheres cristatellus Crested Myna
 
-<!-- marginal: Hawk Owl -->
+<!-- marginal: (Mynahs, starlings) -->
 
-Uroglaux dimorpha
+Ampliceps coronatus Gold-crested Myna Leucopsar rothschildi Bali Myna
 
-<!-- marginal: Papuan Boobook -->
+<!-- marginal: Sulidae -->
 
-Xenoglaux loweryi
+Papasula abbotti Abbott’s Booby
 
-<!-- marginal: Long-whiskered Owlet -->
+<!-- marginal: (Booby) -->
 
-Struthionidae Struthio camelus
+Sula dactylatra Masked Booby Sula leucogaster Brown Bobby Sula sula Red-footed Bobby
 
-<!-- marginal: Ostrich -->
+<!-- marginal: Sylviidae -->
 
-(Ostrich) Sturnidae Acridotheres cristatellus
+Abroscopus superciliaris Yellow-bellied Warbler
 
-<!-- marginal: Crested Myna -->
+<!-- marginal: (Leaf –warblers, -->
 
-(Mynahs, starlings) Ampliceps coronatus
+Acrocephalus aedon Thick-billied Reed-Warbler
 
-<!-- marginal: Gold-crested Myna -->
+<!-- marginal: Grass –warblers, -->
 
-Leucopsar rothschildi
+<!-- marginal: Laughingthrushes, babblers) -->
 
-<!-- marginal: Bali Myna -->
-
-Sulidae Papasula abbotti
-
-<!-- marginal: Abbott’s Booby -->
-
-(Booby) Sula dactylatra
-
-<!-- marginal: Masked Booby -->
-
-Sula leucogaster
-
-<!-- marginal: Brown Bobby -->
-
-Sula sula
-
-<!-- marginal: Red-footed Bobby -->
-
-Sylviidae Abroscopus superciliaris
-
-<!-- marginal: Yellow-bellied Warbler -->
-
-(Leaf –warblers, Acrocephalus aedon
-
-<!-- marginal: Thick-billied Reed-Warbler -->
-
-Grass –warblers, Laughingthrushes, babblers) Acrocephalus bistrigiceps
-
-<!-- marginal: Black-browed Reed-Warbler -->
-
-Acrocephalus orientalis
-
-<!-- marginal: Oriental/Great Reed- -->
-
-<!-- marginal: Warbler -->
-
-Acrocephalus stentoreous
-
-<!-- marginal: Clamourus Reed-Warbler -->
-
-Bradypterus accentor
-
-<!-- marginal: Friendly Warbler -->
-
-Cettia vulcania
-
-<!-- marginal: Sunda Bush Warbler -->
-
-Cisticola juncidis
-
-<!-- marginal: Zitting Cisticola -->
-
-Locustella certhiola
-
-<!-- marginal: Pallas’s Warbler -->
-
-Locustella lanceolata
-
-<!-- marginal: Lanceolated Warbler -->
-
-Locustella ochotensis
-
-<!-- marginal: Middendorff”s Warbler -->
-
-Megalurus palustris
-
-<!-- marginal: Striated Warbler -->
-
-Orthotomus astrogularis
-
-<!-- marginal: Darked-necked Tailor Bird -->
-
-Orthotomus cuculatus
-
-<!-- marginal: Mountain Tailor Bird -->
-
-Orthotomus sericeus
-
-<!-- marginal: Rufous Tailor Bird -->
-
-Orthotomus sepium
-
-<!-- marginal: Ashy Tailor Bird -->
-
-Orthotomus sutorius
-
-<!-- marginal: Common Tailor Bird -->
-
-Phylloscopus borealis
-
-<!-- marginal: Arctic Warbler -->
-
-Phylloscopus coronatus
-
-<!-- marginal: Eastern Crowned Warbler -->
-
-Phylloscopus fuscatus
-
-<!-- marginal: Dusky Warbler -->
-
-Phylloscopus inornatus
-
-<!-- marginal: Inornate Warbler -->
-
-Phylloscopus plumbeitarsus
-
-<!-- marginal: Two-barred Warbler -->
-
-Phylloscopus tenellipes
-
-<!-- marginal: Pale-legged Leaf warbler -->
-
-Phylloscopus trivirgatus
-
-<!-- marginal: Mountain Leaf Warbler -->
-
-Prinia atrogularis
-
-<!-- marginal: Hill Prinia -->
+Acrocephalus bistrigiceps Black-browed Reed-Warbler Acrocephalus orientalis Oriental/Great Reed- Warbler Acrocephalus stentoreous Clamourus Reed-Warbler Bradypterus accentor Friendly Warbler Cettia vulcania Sunda Bush Warbler Cisticola juncidis Zitting Cisticola Locustella certhiola Pallas’s Warbler Locustella lanceolata Lanceolated Warbler Locustella ochotensis Middendorff”s Warbler Megalurus palustris Striated Warbler Orthotomus astrogularis Darked-necked Tailor Bird Orthotomus cuculatus Mountain Tailor Bird Orthotomus sericeus Rufous Tailor Bird Orthotomus sepium Ashy Tailor Bird Orthotomus sutorius Common Tailor Bird Phylloscopus borealis Arctic Warbler Phylloscopus coronatus Eastern Crowned Warbler Phylloscopus fuscatus Dusky Warbler Phylloscopus inornatus Inornate Warbler Phylloscopus plumbeitarsus Two-barred Warbler Phylloscopus tenellipes Pale-legged Leaf warbler Phylloscopus trivirgatus Mountain Leaf Warbler Prinia atrogularis Hill Prinia
 
 <!-- page 124 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
+Scientific Name Common Name Prinia flaviventris Yellow-bellied Prinia Prinia rufescens Rufescens Prinia Seicercus burkii Golden-spactacled Warbler Seicercus castaniceps Chestnut-crowned Warbler Seicercus montis Yellow-breasted Warbler Urosphena whiteheadi Bornean Subtail
 
-Prinia flaviventris Yellow-bellied Prinia Prinia rufescens Rufescens Prinia Seicercus burkii Golden-spactacled Warbler Seicercus castaniceps Chestnut-crowned Warbler Seicercus montis Yellow-breasted Warbler Urosphena whiteheadi Bornean Subtail Threskiornithidae Geronticus eremita Bald Ibis (Ibises, spoonbills) Nipponia nippon Crested Ibis Plegadis falcinellus Glossy Ibis Pseudibis davisoni White-shouldered Ibis Threskiornis melanocephalus Black-headed Ibis Timaliidae Alcippe brunneicauda Brown Fulvetta (Babblers) Alcippe castaneceps Rufous-winged Fulvetta Alcippe peracensis Mountain Fulvetta Cutia nipalensis Cutia Eupetes macrocerus Malaysian Rail Babbler Gampsorhynchus rufulus White-hooded Babbler Garrulax erythrocepahalus Chestnut- crowned Laughingthrush Garrulax lugubris Black Laughingthrush Garrulax mitratus Chestnut-capped Laughingthrus Garrulax pelliatus Sunda Laughingthrush Heterophasia picaoides Long-tailed Sibia Kenopia striata Striped Wren-Babbler Leiothrix argentaurus Silver-eared Mesia Macronous gularis Striped Tit-Babbler Macronous ptilosus Fluffy-backed Tit-Babbler Malacocincla abbotti Abbot’s Babbler Malacocincla malaccensis Short-tailed Babbler Malacocincla sepiarium Horsfield’s Babbler Malacopteron affine Sooty-capped Babbler Malacopteron albogulare Grey-breasted Babbler Malacopteron cinereum Scaly-crowned Babbler Malacopteron magnirostre Moustached Babbler Malacopteron magnum Rufous-crowned Babbler Minla cyanouroptera Blue-winged Minla Minla strigula Chestnut-tailed Minla Napothera atrigularis Black-throated Wren- Babbler Napothera brevicaudata Streaked Wren-Babbler
+<!-- marginal: Threskiornithidae -->
+
+Geronticus eremita Bald Ibis
+
+<!-- marginal: (Ibises, spoonbills) -->
+
+Nipponia nippon Crested Ibis Plegadis falcinellus Glossy Ibis Pseudibis davisoni White-shouldered Ibis Threskiornis melanocephalus Black-headed Ibis
+
+<!-- marginal: Timaliidae -->
+
+Alcippe brunneicauda Brown Fulvetta
+
+<!-- marginal: (Babblers) -->
+
+Alcippe castaneceps Rufous-winged Fulvetta Alcippe peracensis Mountain Fulvetta Cutia nipalensis Cutia Eupetes macrocerus Malaysian Rail Babbler Gampsorhynchus rufulus White-hooded Babbler Garrulax erythrocepahalus Chestnut- crowned Laughingthrush Garrulax lugubris Black Laughingthrush Garrulax mitratus Chestnut-capped Laughingthrus Garrulax pelliatus Sunda Laughingthrush Heterophasia picaoides Long-tailed Sibia Kenopia striata Striped Wren-Babbler Leiothrix argentaurus Silver-eared Mesia Macronous gularis Striped Tit-Babbler Macronous ptilosus Fluffy-backed Tit-Babbler Malacocincla abbotti Abbot’s Babbler Malacocincla malaccensis Short-tailed Babbler Malacocincla sepiarium Horsfield’s Babbler Malacopteron affine Sooty-capped Babbler Malacopteron albogulare Grey-breasted Babbler Malacopteron cinereum Scaly-crowned Babbler Malacopteron magnirostre Moustached Babbler Malacopteron magnum Rufous-crowned Babbler Minla cyanouroptera Blue-winged Minla Minla strigula Chestnut-tailed Minla Napothera atrigularis Black-throated Wren- Babbler Napothera brevicaudata Streaked Wren-Babbler
 
 <!-- page 125 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
+Scientific Name Common Name Napothera crassa Mountain Wren-Babbler Napothera epilepidota Eye-browed Wren-Babbler Napothera macrodactyla Large-wren Babbler Napothera marmorata Marbled-wren Babbler Pellorneum capistratum Black-capped Babbler Pellorneum pyrrogenys Temminck’s Babbler Pellorneum ruficeps Puff-throated Babbler Pnoepyga pusilla Pygmy Wren-Babbler Pomatorhinus hypoleucos Large-Scimitar Babbler Pomatorhinus montanus Chestnut-backed Scimitar Babbler Pteruthius flaviscapis White-browed Shrike Babbler Pteruthius melanotis Black-eared Shrike Babbler Ptilocichla leucogrammica Borneon Wren-Babbler Stachyris chrysea Golden Babbler Stachyris erythroptera Chestnut-winged Babbler Stachyris leucotis White-necked Babbler Stachyris maculata Chestnut-rumped Babbler Stachyris nigriceps Grey-throated Babbler Stachyris nigricollis Black-throated Babbler Stachyris poliocephala Grey-headed Babbler Stachyris rufifrons Rufous-fronted Babbler Trichastoma bicolour Ferruginous Babbler Trichastoma rostratum White-chested Babbler Trichastoma tickelli Buff-breasted Babbler Yuhina everetti Chestnut-crested Yuhina Yuhina zantholeuca White-bellied Yuhina
 
-Napothera crassa
+<!-- marginal: Tinamidae -->
 
-<!-- marginal: Mountain Wren-Babbler -->
+Tinamus solitarius Solitary Tinamou
 
-Napothera epilepidota
+<!-- marginal: (Tinamou) -->
 
-<!-- marginal: Eye-browed Wren-Babbler -->
+Trochilidae (Hummingbirds) Glaucis dohrnii Hook-billed Hermit
 
-Napothera macrodactyla
+<!-- marginal: Trogonidae -->
 
-<!-- marginal: Large-wren Babbler -->
+Harpactes diardii Diard’s Trogon
 
-Napothera marmorata
+<!-- marginal: (Quetzal) -->
 
-<!-- marginal: Marbled-wren Babbler -->
+Harpactes duvaucelii Scarlet-rumped Trogon Harpactes erythrocephalus Red-headed Trogon Harpactes kasumba Red-naped Trogon Harpactes oreskios Orange-breasted Trogon Harpactes orrhophaeus Cinnamon–rumped Trogon Harpactes whiteheadi Whitehead’s Trogon Pharomachrus mocinno Magnificent Quetzal
 
-Pellorneum capistratum
+<!-- marginal: Turdidae -->
 
-<!-- marginal: Black-capped Babbler -->
+Brachypteryx leucophrys Lesser Shortwing
 
-Pellorneum pyrrogenys
-
-<!-- marginal: Temminck’s Babbler -->
-
-Pellorneum ruficeps
-
-<!-- marginal: Puff-throated Babbler -->
-
-Pnoepyga pusilla
-
-<!-- marginal: Pygmy Wren-Babbler -->
-
-Pomatorhinus hypoleucos
-
-<!-- marginal: Large-Scimitar Babbler -->
-
-Pomatorhinus montanus
-
-<!-- marginal: Chestnut-backed Scimitar -->
-
-<!-- marginal: Babbler -->
-
-Pteruthius flaviscapis
-
-<!-- marginal: White-browed Shrike -->
-
-<!-- marginal: Babbler -->
-
-Pteruthius melanotis
-
-<!-- marginal: Black-eared Shrike Babbler -->
-
-Ptilocichla leucogrammica
-
-<!-- marginal: Borneon Wren-Babbler -->
-
-Stachyris chrysea
-
-<!-- marginal: Golden Babbler -->
-
-Stachyris erythroptera
-
-<!-- marginal: Chestnut-winged Babbler -->
-
-Stachyris leucotis
-
-<!-- marginal: White-necked Babbler -->
-
-Stachyris maculata
-
-<!-- marginal: Chestnut-rumped Babbler -->
-
-Stachyris nigriceps
-
-<!-- marginal: Grey-throated Babbler -->
-
-Stachyris nigricollis
-
-<!-- marginal: Black-throated Babbler -->
-
-Stachyris poliocephala
-
-<!-- marginal: Grey-headed Babbler -->
-
-Stachyris rufifrons
-
-<!-- marginal: Rufous-fronted Babbler -->
-
-Trichastoma bicolour
-
-<!-- marginal: Ferruginous Babbler -->
-
-Trichastoma rostratum
-
-<!-- marginal: White-chested Babbler -->
-
-Trichastoma tickelli
-
-<!-- marginal: Buff-breasted Babbler -->
-
-Yuhina everetti
-
-<!-- marginal: Chestnut-crested Yuhina -->
-
-Yuhina zantholeuca
-
-<!-- marginal: White-bellied Yuhina -->
-
-Tinamidae Tinamus solitarius
-
-<!-- marginal: Solitary Tinamou -->
-
-(Tinamou) Trochilidae (Hummingbirds) Glaucis dohrnii
-
-<!-- marginal: Hook-billed Hermit -->
-
-Trogonidae Harpactes diardii
-
-<!-- marginal: Diard’s Trogon -->
-
-(Quetzal) Harpactes duvaucelii
-
-<!-- marginal: Scarlet-rumped Trogon -->
-
-Harpactes erythrocephalus
-
-<!-- marginal: Red-headed Trogon -->
-
-Harpactes kasumba
-
-<!-- marginal: Red-naped Trogon -->
-
-Harpactes oreskios
-
-<!-- marginal: Orange-breasted Trogon -->
-
-Harpactes orrhophaeus
-
-<!-- marginal: Cinnamon–rumped Trogon -->
-
-Harpactes whiteheadi
-
-<!-- marginal: Whitehead’s Trogon -->
-
-Pharomachrus mocinno
-
-<!-- marginal: Magnificent Quetzal -->
-
-Turdidae Brachypteryx leucophrys
-
-<!-- marginal: Lesser Shortwing -->
-
-(Thrushes)
+<!-- marginal: (Thrushes) -->
 
 <!-- page 126 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
+Scientific Name Common Name Brachypteryx montana White-browed Shortwing Chlamydochaera jefferyi Fruit Hunter Copsycus stricklandii White-crowned Shama Enicurus leschenaulti White-crowned Forktail Enicurus ruficapillus Chestnut-naped Forktail Enicurus schistaceus Slaty-backed Forktailed Luscinia calliope Siberian Rubythroat Luscinia cyane Siberian Blue Robin Luscinia ruficeps Rufous-headed Robin Monticola gularis White-throated Rock Thrush Monticola solitarius Blue Rock Thrush Myiomela leucura White-tailed Robin Myophonus robinsoni Malayan Whistling Thrush Myophonus caeruleus Blue Whistling Thrush Myophonus glaucinus Sunda Whistling Thrush Oenanthe oenanthe Northen Wheatear Saxicola caprata Pied Bushcat Saxicola torquata Common Stonechat Tarsiger cyanurus Orange-flanked Bush Robin Trighixos pyrropyga Rufous-tailed Shama Turdus obscurus Eye-browed Thrush Turdus poliocephalus Island Thrush Zoothera citrina Orange-headed Thrush Zoothera dauma Scaly Thrush Zoothera everetti Everett’s Thrush Zoothera interpres Chestnut-capped Thrush Zoothera sibirica Siberian Thrush
 
-Brachypteryx montana White-browed Shortwing Chlamydochaera jefferyi Fruit Hunter Copsycus stricklandii White-crowned Shama Enicurus leschenaulti White-crowned Forktail Enicurus ruficapillus Chestnut-naped Forktail Enicurus schistaceus Slaty-backed Forktailed Luscinia calliope Siberian Rubythroat Luscinia cyane Siberian Blue Robin Luscinia ruficeps Rufous-headed Robin Monticola gularis White-throated Rock Thrush Monticola solitarius Blue Rock Thrush Myiomela leucura White-tailed Robin Myophonus robinsoni Malayan Whistling Thrush Myophonus caeruleus Blue Whistling Thrush Myophonus glaucinus Sunda Whistling Thrush Oenanthe oenanthe Northen Wheatear Saxicola caprata Pied Bushcat Saxicola torquata Common Stonechat Tarsiger cyanurus Orange-flanked Bush Robin Trighixos pyrropyga Rufous-tailed Shama Turdus obscurus Eye-browed Thrush Turdus poliocephalus Island Thrush Zoothera citrina Orange-headed Thrush Zoothera dauma Scaly Thrush Zoothera everetti Everett’s Thrush Zoothera interpres Chestnut-capped Thrush Zoothera sibirica Siberian Thrush Turnicidae Turnix suscitator Barred Buttonquail (Buttonquails) Tytonidae Tyto alba Barn Owl (Barn owl) Phodilus badius Oriental Bay Owl Tyto capensis Grass Owl Phodilus prigoginei African Bay Owl Tyto soumagnei Madagascar Owl Tyto spp. Owl Upupidae Upupa epops Hoopoe Zosteropidae Zosterops albogularis White-chested White-eye (White-eye) Zosterops everetti Everett’s White-eye
+<!-- marginal: Turnicidae -->
+
+Turnix suscitator Barred Buttonquail
+
+<!-- marginal: (Buttonquails) -->
+
+<!-- marginal: Tytonidae -->
+
+Tyto alba Barn Owl
+
+<!-- marginal: (Barn owl) -->
+
+Phodilus badius Oriental Bay Owl Tyto capensis Grass Owl Phodilus prigoginei African Bay Owl Tyto soumagnei Madagascar Owl Tyto spp. Owl
+
+<!-- marginal: Upupidae -->
+
+Upupa epops Hoopoe
+
+<!-- marginal: Zosteropidae -->
+
+Zosterops albogularis White-chested White-eye
+
+<!-- marginal: (White-eye) -->
+
+Zosterops everetti Everett’s White-eye
 
 <!-- page 127 -->
 
-Family Scientific Name
+<!-- marginal: Family -->
 
-<!-- marginal: Common Name -->
+Scientific Name Common Name
 
 ## CLASS REPTILIA (REPTILES)
 
-Alligatoridae Alligator sinensis
+<!-- marginal: Alligatoridae -->
 
-<!-- marginal: China Alligator -->
+Alligator sinensis China Alligator
 
-(Alligators, caimans) Caiman crocodilus
+<!-- marginal: (Alligators, caimans) -->
 
-<!-- marginal: Apaporis River Caiman -->
-
-apaporiensis Caiman latirostris (except
-
-<!-- marginal: Broad-snouted Caiman -->
-
-population of Argentina included in the First Schedule) Melanosuchus niger (except
-
-<!-- marginal: Black Caiman -->
-
-population of Brazil and Ecuador included in First
+Caiman crocodilus Apaporis River Caiman apaporiensis Caiman latirostris (except Broad-snouted Caiman population of Argentina included in the First Schedule) Melanosuchus niger (except Black Caiman population of Brazil and Ecuador included in First
 
 ## Schedule)
 
-Boidae Acrantophis spp.
+<!-- marginal: Boidae -->
 
-<!-- marginal: Madagascar Ground Boa -->
+Acrantophis spp. Madagascar Ground Boa
 
-(Boas) Boa constrictor occidentalis
+(Boas) Boa constrictor occidentalis Argentine Boa Constrictor Epicrates inornatus Yellow Tree Boa Epicrates monensis Mona Island Boa Epicrates subflavus Jamaican Boa Sanzinia madagascariensis Madagascar Tree Boa
 
-<!-- marginal: Argentine Boa Constrictor -->
+<!-- marginal: Bolyeriidae -->
 
-Epicrates inornatus
+Bolyeria multocarinata Round Island Burrowing
 
-<!-- marginal: Yellow Tree Boa -->
+<!-- marginal: (Round Island boas) -->
 
-Epicrates monensis
+Boa Casarea dussumieri Round Island Keel-scaled Boa
 
-<!-- marginal: Mona Island Boa -->
+<!-- marginal: Chamaeleonidae -->
 
-Epicrates subflavus
+Brookesia perarmata Armoured Leaf Chameleon
 
-<!-- marginal: Jamaican Boa -->
+<!-- marginal: (Chameleons) -->
 
-Sanzinia madagascariensis
+<!-- marginal: Chelidae -->
 
-<!-- marginal: Madagascar Tree Boa -->
+Chelodina mccordi Roti Island Snake-necked
 
-Bolyeriidae Bolyeria multocarinata
+<!-- marginal: (Austro-American side- -->
 
-<!-- marginal: Round Island Burrowing -->
+Turtle
 
-(Round Island boas)
+<!-- marginal: necked turtles -->
 
-<!-- marginal: Boa -->
+Chelodina parkeri Parker’s Snake-necked Turtle Chelodina pritchardi Pritchard’s Snake-necked Turtle Pseudemydura umbrina Western Swamp Turtle
 
-Casarea dussumieri
+<!-- marginal: Crocodylidae (Crocodiles) -->
 
-<!-- marginal: Round Island Keel-scaled -->
-
-<!-- marginal: Boa -->
-
-Chamaeleonidae Brookesia perarmata
-
-<!-- marginal: Armoured Leaf Chameleon -->
-
-(Chameleons) Chelidae Chelodina mccordi
-
-<!-- marginal: Roti Island Snake-necked -->
-
-(Austro-American side-
-
-<!-- marginal: Turtle -->
-
-necked turtles Chelodina parkeri
-
-<!-- marginal: Parker’s Snake-necked -->
-
-<!-- marginal: Turtle -->
-
-Chelodina pritchardi
-
-<!-- marginal: Pritchard’s Snake-necked -->
-
-<!-- marginal: Turtle -->
-
-Pseudemydura umbrina
-
-<!-- marginal: Western Swamp Turtle -->
-
-Crocodylidae (Crocodiles) Crocodylus porosus
-
-<!-- marginal: Estuarine Crocodile -->
-
-Tomistoma schlegelii
-
-<!-- marginal: False Gavial -->
-
-Crocodylus acutus
-
-<!-- marginal: American Crocodile -->
-
-Crocodylus cataphractus
-
-<!-- marginal: African Slender-snouted -->
-
-<!-- marginal: Crocodile -->
-
-Crocodylus intermedius
-
-<!-- marginal: Orinoco Crocodile -->
-
-Crocodylus mindorensis
-
-<!-- marginal: Philippine Crocodile -->
-
-Crocodylus moreletii
-
-<!-- marginal: Morelet’s Crocodile -->
-
-Crocodylus niloticus
-
-<!-- marginal: Nile Crocodile -->
-
-Crocodylus palustris
-
-<!-- marginal: Marsh Crocodile -->
-
-Crocodylus rhombifer
-
-<!-- marginal: Cuban Crocodile -->
-
-Crocodylus siamensis
-
-<!-- marginal: Siamese Crocodile -->
-
-Osteolaemus tetraspis
-
-<!-- marginal: African Dwarf Crocodile -->
+Crocodylus porosus Estuarine Crocodile Tomistoma schlegelii False Gavial Crocodylus acutus American Crocodile Crocodylus cataphractus African Slender-snouted Crocodile Crocodylus intermedius Orinoco Crocodile Crocodylus mindorensis Philippine Crocodile Crocodylus moreletii Morelet’s Crocodile Crocodylus niloticus Nile Crocodile Crocodylus palustris Marsh Crocodile Crocodylus rhombifer Cuban Crocodile Crocodylus siamensis Siamese Crocodile Osteolaemus tetraspis African Dwarf Crocodile
 
 <!-- page 128 -->
 
@@ -6878,7 +6054,149 @@ Family Scientific Name
 
 <!-- marginal: Common Name -->
 
-Emydidae Batagur baska Common Batagur (Box turtles, freshwater Clemmys muhlenbergi Bog Turtle turtles) Geoclemys hamiltonii Black Pond Turtle Kachuga tecta Dura Turtle Melanochelys tricarinata Three-keeled Land Tortoise Morenia ocellata Bengal Eyed Terrapin Terrapene coahuila Aquatic Box Turtle Gavialidae Gavialis gangeticus Gavial (Gavial) Iguanidae Brachylophus spp. Fijian iguanas (Iguanas) Cyclura spp. Ground iguanas Sauromalus varius Piebald Chuckwalla Lacertidae Gallotia simonyi Hierro Giant Lizard (Lizards) Pythonidae Python brongersmai Blood Python (Pythons) Python molurus molurus Indian Python Sphenodontidae (Tuatara) Sphenodon spp. Tuataras Testudinidae Geochelone nigra Galapagos Giant Tortoise (Tortoises) Geochelone radiata Radiated Tortoise Geochelone yniphora Madagascar Tortoise Gopherus flavomarginatus Bolson Tortoise Psammobates geometricus Geometric Tortoise Pyxis arachnoides Spider Tortoise Pyxis planicauda Flat-backed Spider Tortoise Testudo kleinmanni Egyptian Tortoise Testudo werneri Negev Tortoise Trionychidae Apalone ater Cuatro Cienegas Softshell (Softshell turtles, terrapins) Aspideretes gangeticus Indian Softshell Turtle Aspideretes hurum Peacock Soft-shell Turtle Aspideretes nigricans Black Softshell Turtle Varanidae Varanus bengalensis Bengal Black Lizard (Monitor lizards) Varanus rudicollis Harlequin Monitor Varanus dumerilli Dumerl’s Monitor Varanus flavescens Yellow Monitor Varanus griseus Desert Monitor Varanus komodoensis Komodo Monitor Varanus nebulosus Clouded Monitor Viperidae (Vipers) Vipera ursinii Meadow Viper
+Emydidae Batagur baska
+
+<!-- marginal: Common Batagur -->
+
+(Box turtles, freshwater Clemmys muhlenbergi
+
+<!-- marginal: Bog Turtle -->
+
+turtles) Geoclemys hamiltonii
+
+<!-- marginal: Black Pond Turtle -->
+
+Kachuga tecta
+
+<!-- marginal: Dura Turtle -->
+
+Melanochelys tricarinata
+
+<!-- marginal: Three-keeled Land Tortoise -->
+
+Morenia ocellata
+
+<!-- marginal: Bengal Eyed Terrapin -->
+
+Terrapene coahuila
+
+<!-- marginal: Aquatic Box Turtle -->
+
+Gavialidae Gavialis gangeticus
+
+<!-- marginal: Gavial -->
+
+(Gavial) Iguanidae Brachylophus spp.
+
+<!-- marginal: Fijian iguanas -->
+
+(Iguanas) Cyclura spp.
+
+<!-- marginal: Ground iguanas -->
+
+Sauromalus varius
+
+<!-- marginal: Piebald Chuckwalla -->
+
+Lacertidae Gallotia simonyi
+
+<!-- marginal: Hierro Giant Lizard -->
+
+(Lizards) Pythonidae Python brongersmai
+
+<!-- marginal: Blood Python -->
+
+(Pythons) Python molurus molurus
+
+<!-- marginal: Indian Python -->
+
+Sphenodontidae (Tuatara) Sphenodon spp.
+
+<!-- marginal: Tuataras -->
+
+Testudinidae Geochelone nigra
+
+<!-- marginal: Galapagos Giant Tortoise -->
+
+(Tortoises) Geochelone radiata
+
+<!-- marginal: Radiated Tortoise -->
+
+Geochelone yniphora
+
+<!-- marginal: Madagascar Tortoise -->
+
+Gopherus flavomarginatus
+
+<!-- marginal: Bolson Tortoise -->
+
+Psammobates geometricus
+
+<!-- marginal: Geometric Tortoise -->
+
+Pyxis arachnoides
+
+<!-- marginal: Spider Tortoise -->
+
+Pyxis planicauda
+
+<!-- marginal: Flat-backed Spider Tortoise -->
+
+Testudo kleinmanni
+
+<!-- marginal: Egyptian Tortoise -->
+
+Testudo werneri
+
+<!-- marginal: Negev Tortoise -->
+
+Trionychidae Apalone ater
+
+<!-- marginal: Cuatro Cienegas Softshell -->
+
+(Softshell turtles, terrapins) Aspideretes gangeticus
+
+<!-- marginal: Indian Softshell Turtle -->
+
+Aspideretes hurum
+
+<!-- marginal: Peacock Soft-shell Turtle -->
+
+Aspideretes nigricans
+
+<!-- marginal: Black Softshell Turtle -->
+
+Varanidae Varanus bengalensis
+
+<!-- marginal: Bengal Black Lizard -->
+
+(Monitor lizards) Varanus rudicollis
+
+<!-- marginal: Harlequin Monitor -->
+
+Varanus dumerilli
+
+<!-- marginal: Dumerl’s Monitor -->
+
+Varanus flavescens
+
+<!-- marginal: Yellow Monitor -->
+
+Varanus griseus
+
+<!-- marginal: Desert Monitor -->
+
+Varanus komodoensis
+
+<!-- marginal: Komodo Monitor -->
+
+Varanus nebulosus
+
+<!-- marginal: Clouded Monitor -->
+
+Viperidae (Vipers) Vipera ursinii
+
+<!-- marginal: Meadow Viper -->
 
 <!-- page 129 -->
 
@@ -6986,9 +6304,7 @@ Clouded Leopard–Neofelis nebulosa–Harimau Dahan: shall be deemed to be immat
 
 Flat-headed Cat–Prionailurus planiceps–Kucing Hutan: shall be deemed to be immature if the length of head and body is less than 46.5 cm and length of tail is less than 12.8 cm.
 
-Serow–Capricornis sumatraensis–Kambing Gurun, Kambing Bukit, Kambing Hutan: shall be deemed to be immature if the length of head and body is less than 140 cm, height at shoulder is less than 85 cm, length of tail is less than
-
-11.5 cm and the horn measured at the outer curve is less than 12.7 cm.
+Serow–Capricornis sumatraensis–Kambing Gurun, Kambing Bukit, Kambing Hutan: shall be deemed to be immature if the length of head and body is less than 140 cm, height at shoulder is less than 85 cm, length of tail is less than 11.5 cm and the horn measured at the outer curve is less than 12.7 cm.
 
 Pangolin, Scaly Anteater–Manis javanica–Tenggiling: shall be deemed to be immature if the length of head and body is less than 42.5 cm and length of tail is less than 34 cm.
 
@@ -7136,13 +6452,9 @@ Clause 8 seeks to allow an officer to carry arms while on duty.
 
 ## PART III
 
-4.
+4. Part III of the proposed Act deals with the licensing requirements, etc.
 
-## Part III of the proposed Act deals with the licensing requirements, etc.
-
-## Chapter 1 of this Part specifically sets out provisions relating to requirement
-
-of licence, permit or special permit for certain activities. A licence is necessary for an activity which relates to any protected wildlife. A permit is needed for zoo, circus or wildlife exhibition operation, commercial captive breeding and research or study on any protected wildlife. On the other hand, a special permit is necessary for an activity which relates to any totally protected wildlife and hunting during a close season.
+Chapter 1 of this Part specifically sets out provisions relating to requirement of licence, permit or special permit for certain activities. A licence is necessary for an activity which relates to any protected wildlife. A permit is needed for zoo, circus or wildlife exhibition operation, commercial captive breeding and research or study on any protected wildlife. On the other hand, a special permit is necessary for an activity which relates to any totally protected wildlife and hunting during a close season.
 
 <!-- page 135 -->
 
@@ -7152,9 +6464,7 @@ Clause 10 contains provisions on the requirement of a permit for certain activit
 
 Clause 11 contains provision on the requirement of a special permit for certain activity.
 
-## Chapter 2 of this Part specifically sets out the provisions in relation to the
-
-application of licence, permit or special permit, the granting, suspending and revoking thereof, etc..
+Chapter 2 of this Part specifically sets out the provisions in relation to the application of licence, permit or special permit, the granting, suspending and revoking thereof, etc..
 
 Clause 12 provides that a person applying for a licence or permit must submit the application to a licensing officer.
 
@@ -7186,7 +6496,7 @@ Clause 24 provides that any licence, permit or special permit which is granted i
 
 Clause 25 seeks to allow an applicant to appeal against any decision of the licensing officer to the Minister.
 
-## Chapter 3 of this Part contains with miscellaneous provisions..
+Chapter 3 of this Part contains with miscellaneous provisions..
 
 Clause 26 seeks to provide that a licence to hunt any protected wildlife or a special permit to hunt any totally protected wildlife by means of shooting shall only be granted if the applicant holds an arms licence under the Arms Act 1960. The arms licence shall be produced when applying for the licence or special permit.
 
@@ -7212,11 +6522,7 @@ Clause 35 seeks to empower the Director General, with the approval of the Minist
 
 ## PART IV
 
-5.
-
-## Part IV of the proposed Act deals with the duties and obligations imposed
-
-on the licensed hunter.
+5. Part IV of the proposed Act deals with the duties and obligations imposed on the licensed hunter.
 
 Clause 36 sets out the duties of a licensed hunter to record certain information in his licence. This provision also applies to a holder of a special permit who hunts any totally protected wildlife . Clauses 37 and 38 require a licensed dealer and licensed taxidermist to keep and maintain a record which consists of certain information.
 
@@ -7238,11 +6544,7 @@ Clause 46 requires a holder of a licence, permit or special permit to obtain an 
 
 ## PART V
 
-6.
-
-## Part V of the proposed Act contains provisions relating to wildlife reserves
-
-and wildlife sanctuaries.
+6. Part V of the proposed Act contains provisions relating to wildlife reserves and wildlife sanctuaries.
 
 Clause 47 empowers the State Authority to declare any State land to be a wildlife reserve or wildlife sanctuary after consultation with the Minister.
 
@@ -7254,11 +6556,7 @@ Clause 49 seeks to prohibit certain acts in a wildlife reserve or wildlife sanct
 
 ## PART VI
 
-7.
-
-## Part VI of the proposed Act contains general exceptions and
-
-presumptions.
+7. Part VI of the proposed Act contains general exceptions and presumptions.
 
 Clause 50 provides that for the purposes of protection, management and sustainable use of certain wildlife species, the Director General or any officer authorized by him may hunt, keep, breed, import, export, sell or purchase any species of wildlife.
 
@@ -7284,35 +6582,19 @@ Clause 59 provides that where the Director General or any person certified in wr
 
 ## PART VII
 
-8.
+8. Part VII of the proposed Act contains provisions relating to offences and penalties.
 
-## Part VII of the proposed Act contains provisions relating to offences
+Chapter 1 of this Part, which contains clauses 60 to 65, deals with offences relating to licence such as hunting or keeping any protected wildlife without a licence and carrying on business as a dealer or a taxidermist without a licence.
 
-and penalties.
+Chapter 2 of this Part, which contains clauses 66 and 67, deals with offences relating to permit such as operating a zoo, circus or wildlife exhibition or commercial captive breeding without a permit.
 
-## Chapter 1 of this Part, which contains clauses 60 to 65, deals with offences
+Chapter 3 of this Part, which contains clauses 68 to 73, deals with offences relating to special permit such as hunting or keeping any totally protected wildlife, immature totally protected wildlife or female of totally protected wildlife, out carrying on research or study on any totally protected wildlife, without a special permit.
 
-relating to licence such as hunting or keeping any protected wildlife without a licence and carrying on business as a dealer or a taxidermist without a licence.
-
-## Chapter 2 of this Part, which contains clauses 66 and 67, deals with offences
-
-relating to permit such as operating a zoo, circus or wildlife exhibition or commercial captive breeding without a permit.
-
-## Chapter 3 of this Part, which contains clauses 68 to 73, deals with offences
-
-relating to special permit such as hunting or keeping any totally protected wildlife, immature totally protected wildlife or female of totally protected wildlife, out carrying on research or study on any totally protected wildlife, without a special permit.
-
-## Chapter 4 of this Part, which contains clauses 74 to 88, deals with
-
-miscellaneous offences such as hunting wildlife in wildlife reserves, hunting wildlife during prohibited hours or close season, hunting wildlife with poison and cruelty to wildlife.
+Chapter 4 of this Part, which contains clauses 74 to 88, deals with miscellaneous offences such as hunting wildlife in wildlife reserves, hunting wildlife during prohibited hours or close season, hunting wildlife with poison and cruelty to wildlife.
 
 ## PART VIII
 
-9.
-
-## Part VIII of the proposed Act contains provisions relating to
-
-enforcement.
+9. Part VIII of the proposed Act contains provisions relating to enforcement.
 
 Clause 89 seeks to make all offences under the proposed Act as seizable offences.
 

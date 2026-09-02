@@ -10,13 +10,19 @@
 
 ## PRELIMINARY
 
-1. Short title and commencement 2. Interpretation
+1. Short title and commencement
+
+2. Interpretation
 
 ## PART II
 
 ## ADMINISTRATION OF ACT
 
-3. Appointment of Director General, Deputy Director General and Directors 4. Appointment of Registrar, Deputy Registrar, Assistant Registrars, officers and other servants 5. Powers of Registrar
+3. Appointment of Director General, Deputy Director General and Directors
+
+4. Appointment of Registrar, Deputy Registrar, Assistant Registrars, officers and other servants
+
+5. Powers of Registrar
 
 6. Power of delegation
 
@@ -30,13 +36,17 @@ Registration
 
 7. Application for registration
 
-8. Power of Registrar to call for information 9. Registration and refusal to register 10. Certificate of registration
+8. Power of Registrar to call for information 9. Registration and refusal to register
+
+10. Certificate of registration
 
 <!-- page 2 -->
 
 ## Chapter 2
 
-Provisions applicable to registered youth societies 11. Provisions applicable to registered youth societies
+Provisions applicable to registered youth societies
+
+11. Provisions applicable to registered youth societies
 
 12. Head of youth societies
 
@@ -44,13 +54,19 @@ Provisions applicable to registered youth societies 11. Provisions applicable to
 
 14. Representations
 
-15. Condition to cessation of disqualification 16. Inspection of documents and evidentiary value of copies certified by Registrar
+15. Condition to cessation of disqualification
+
+16. Inspection of documents and evidentiary value of copies certified by Registrar
 
 17. Change of name, place of business and rules of registered youth society
 
-18. Branch of a youth society 19. Liability of registered youth society in respect of contracts entered into by branch
+18. Branch of a youth society
 
-20. Cancellation and suspension 21. Power of Registrar to make certain orders in respect of registered youth societies
+19. Liability of registered youth society in respect of contracts entered into by branch
+
+20. Cancellation and suspension
+
+21. Power of Registrar to make certain orders in respect of registered youth societies
 
 22. Information to be furnished by registered youth societies
 
@@ -60,7 +76,9 @@ Provisions applicable to registered youth societies 11. Provisions applicable to
 
 25. Consequence of order of the Minister under section 33, refusal of the Registrar to register a youth society under section 9 and cancellation of registration of a youth society under section 20
 
-26. Application of section 25 to unlawful branch of registered youth societies 27. Vesting of property of a youth society whose registration has been cancelled in a new registered youth society
+26. Application of section 25 to unlawful branch of registered youth societies
+
+27. Vesting of property of a youth society whose registration has been cancelled in a new registered youth society
 
 ## Chapter 3
 
@@ -74,7 +92,9 @@ Disputes and Dispute Resolution Panel
 
 ## Chapter 4
 
-Appeals 30. Appeals
+Appeals
+
+30. Appeals
 
 ## Chapter 5
 
@@ -124,19 +144,57 @@ Youth Societies and Youth Development
 
 ## Chapter 2
 
-Board of Directors of Malaysian Institute For Research In Youth Development 59. The Board of Directors 60. Membership of the Board 61. Powers and functions of the Board 62. Tenure of office 63. Revocation of appointment and resignation 64. Vacation of office 65. Delegation of functions and powers of the Board 66. Committees of the Board 67. Remuneration and allowances 68. Power of Minister to give directions 69. Validity of an act and proceedings
+Board of Directors of Malaysian Institute For Research In Youth Development
+
+59. The Board of Directors
+
+60. Membership of the Board
+
+61. Powers and functions of the Board
+
+62. Tenure of office
+
+63. Revocation of appointment and resignation
+
+64. Vacation of office
+
+65. Delegation of functions and powers of the Board
+
+66. Committees of the Board
+
+67. Remuneration and allowances
+
+68. Power of Minister to give directions
+
+69. Validity of an act and proceedings
 
 ## Chapter 3
 
 Provisions relating to employees
 
-70. Chief Executive Officer 71. Appointment of officers
+70. Chief Executive Officer
+
+71. Appointment of officers
 
 ## Chapter 4
 
 Finance
 
-72. Establishment of Fund 73. Expenditure to be charged on Fund 74. Expenditure and preparation of estimates 75. Conservation of Fund 76. Power to invest 77. Accounts and reports 78. Financial procedure 79. Financial year
+72. Establishment of Fund
+
+73. Expenditure to be charged on Fund
+
+74. Expenditure and preparation of estimates
+
+75. Conservation of Fund
+
+76. Power to invest
+
+77. Accounts and reports
+
+78. Financial procedure
+
+79. Financial year
 
 <!-- page 5 -->
 
@@ -154,9 +212,21 @@ Finance
 
 84. Penalty for inciting, etc., a person to become a member of an unlawful youth society
 
-85. Penalty for procuring subscription or aid for an unlawful youth society 86. Penalty for publishing, etc., propaganda of an unlawful youth society
+85. Penalty for procuring subscription or aid for an unlawful youth society
 
-87. Penalty for acting on behalf of or representing an unlawful youth society 88. Penalty against office-bearer of a youth society whose registration has been cancelled 89. Usage of flags, symbols, emblems, badges or other insignia of youth societies 90. Liability of office-bearer in respect of offences by youth society 91. Youth society using a triad ritual to be deemed an unlawful youth society 92. Penalty for misuse of money or property of a registered youth society
+86. Penalty for publishing, etc., propaganda of an unlawful youth society
+
+87. Penalty for acting on behalf of or representing an unlawful youth society
+
+88. Penalty against office-bearer of a youth society whose registration has been cancelled
+
+89. Usage of flags, symbols, emblems, badges or other insignia of youth societies
+
+90. Liability of office-bearer in respect of offences by youth society
+
+91. Youth society using a triad ritual to be deemed an unlawful youth society
+
+92. Penalty for misuse of money or property of a registered youth society
 
 93. Penalty for displaying or using certificate of registration which has been cancelled
 
@@ -182,13 +252,57 @@ Finance
 
 ## ENFORCEMENT AND INVESTIGATION
 
-102. Enforcement officers 103. Powers of enforcement officers 104. Disclosure of authorisation card 105. Power of inspection 106. Disclosure of document, etc. 107. Seizure of document, etc. 108. Application for search warrant 109. Power of Magistrate to issue search warrant 110. Power to enter premises without warrant or notice 111. Search and seizure without warrant 112. Power to seal
+102. Enforcement officers
+
+103. Powers of enforcement officers
+
+104. Disclosure of authorisation card
+
+105. Power of inspection
+
+106. Disclosure of document, etc.
+
+107. Seizure of document, etc.
+
+108. Application for search warrant
+
+109. Power of Magistrate to issue search warrant
+
+110. Power to enter premises without warrant or notice
+
+111. Search and seizure without warrant
+
+112. Power to seal
 
 ## PART X
 
 ## MISCELLANEOUS
 
-113. Public servant 114. Public Authorities Protection Act 1948 115. Obligation of secrecy 116. Representation in civil proceedings 117. Prosecution 118. Protection 119. Non entitlement to cost of proceedings, damages or other reliefs, etc. 120. Amendment of Schedules 121. Regulations 122. General offences 123. General powers of Minister 124. Transitional provisions 125. Prevention of anomalies
+113. Public servant
+
+114. Public Authorities Protection Act 1948
+
+115. Obligation of secrecy
+
+116. Representation in civil proceedings
+
+117. Prosecution
+
+118. Protection
+
+119. Non entitlement to cost of proceedings, damages or other reliefs, etc.
+
+120. Amendment of Schedules
+
+121. Regulations
+
+122. General offences
+
+123. General powers of Minister
+
+124. Transitional provisions
+
+125. Prevention of anomalies
 
 ## FIRST SCHEDULE SECOND
 
@@ -420,7 +534,9 @@ Provisions applicable to registered youth societies
 
 (c) a youth society may sue or be sued in the name of such one of its members as shall be declared to the Registrar and registered by him as the public officer of the youth society for that purpose, and, if no such person is registered, it shall be competent for any person having a claim or demand against the youth society to sue the youth society in the name of any office-bearer of the youth society;
 
-(d) no suit or proceedings by or against any youth society in any civil court shall abate or discontinue by reason of the person, by or against whom the suit or proceedings has been brought or continued, dying or ceasing to fill the character in the name whereof he has sued or been sued, but the same suit or proceedings shall be continued in the name of or against, the successor of, that person; (e) (i) no judgment in any such suit against any youth society shall be put into force against the person or property of the person sued but against the property of the youth society; (ii) the application for execution shall set forth the judgment, the fact of the party against whom it has been recovered having sued or having been sued, as the case may be, on behalf of the youth society, and shall require to have the judgment enforced against the property of the youth society;
+(d) no suit or proceedings by or against any youth society in any civil court shall abate or discontinue by reason of the person, by or against whom the suit or proceedings has been brought or continued, dying or ceasing to fill the character in the name whereof he has sued or been sued, but the same suit or proceedings shall be continued in the name of or against, the successor of, that person;
+
+(e) (i) no judgment in any such suit against any youth society shall be put into force against the person or property of the person sued but against the property of the youth society; (ii) the application for execution shall set forth the judgment, the fact of the party against whom it has been recovered having sued or having been sued, as the case may be, on behalf of the youth society, and shall require to have the judgment enforced against the property of the youth society;
 
 (f) any member who — (i) fails to pay a subscription which, according to the rules of the youth society to which he belongs, he is bound to pay; (ii) owes money to the youth society;
 
@@ -618,7 +734,9 @@ Provided that a branch shall in any case be deemed to be under the control and r
 
 <!-- page 24 -->
 
-(iv) that the registered youth society has wilfully contravened any provision of this Act or of any regulations made thereunder or of any of its rules or that any members of the registered youth society have habitually contravened the provision of subsection 4(1) of the Sedition Act 1948 [Act 15] by any acts or utterances to which paragraph 3(1)(/) of that Act applies; (v) that the registered youth society has ceased to exist; (vi) that the registered youth society has failed to comply with an order made by the Registrar under section 21; (vii) that the registered youth society has failed to comply with the provisions of section 31; or (viii) that the registered youth society has contravened the provisions of section 91; and
+(iv) that the registered youth society has wilfully contravened any provision of this Act or of any regulations made thereunder or of any of its rules or that any members of the registered youth society have habitually contravened the provision of subsection 4(1) of the Sedition Act 1948 [Act 15] by any acts or utterances to which paragraph 3(1)(/) of that Act applies; (v) that the registered youth society has ceased to exist; (vi) that the registered youth society has failed to comply with an order made by the Registrar under section 21; (vii) that the registered youth society has failed to comply with the provisions of section 31; or
+
+(viii) that the registered youth society has contravened the provisions of section 91; and
 
 (d) upon the registered youth society becoming unlawful under subsection 23(6) for failure to furnish written information.
 
@@ -726,7 +844,9 @@ Provided that the Registrar may at his discretion, on application made to him an
 
 (3) For the purpose of this section, "duly audited" means audited by an auditor approved by the Registrar, and the Registrar may give such approval and the auditor so approved shall make a report on the accounts examined by him in such form as the Registrar may require.
 
-(4) Where the particulars required to be furnished under subsection (1) are not furnished within the time stated in the notice, or any extension allowed by the Registrar, the Registrar may make a provisional order for the dissolution of the youth society.
+(4) Where the particulars required to be furnished under subsection
+
+(1) are not furnished within the time stated in the notice, or any extension allowed by the Registrar, the Registrar may make a provisional order for the dissolution of the youth society.
 
 <!-- page 29 -->
 
@@ -848,7 +968,9 @@ apply to the High Court for an order for vesting all the assets, debts and liabi
 
 (6) Any person who was a lawful member of the old youth society immediately before the cancellation of its registration and who is not a member of the new youth society who does not object to the application of the Director General of Insolvency shall be discharged from all debts and liabilities of the old youth society and all its branches upon the making of the order sought by the Director General of Insolvency.
 
-(7) Upon a vesting order being made by the Court under subsection (3), all the property comprised therein shall vest accordingly in the new youth society without any further conveyance, transfer or assignment.
+(7) Upon a vesting order being made by the Court under subsection
+
+(3), all the property comprised therein shall vest accordingly in the new youth society without any further conveyance, transfer or assignment.
 
 (8) It shall be lawful for the Director General of Insolvency to do or take such action as may be necessary to manage any property or discharge the debts and liabilities of the old youth society although an application under subsection (2) is pending in the court.
 
@@ -1244,11 +1366,7 @@ development;
 
 (g) to carry out educational and awareness programmes for the promotion of youth development;
 
-(h) to cooperate, coordinate and participate
-
-<!-- marginal: in youth -->
-
-development programmes or activities related to research organized by national or international organizations; and
+(h) to cooperate, coordinate and participate in youth development programmes or activities related to research organized by national or international organizations; and
 
 (i) to do such other things as it deems fit to enable it to perform its functions effectively or which are incidental to the performance of its functions.
 

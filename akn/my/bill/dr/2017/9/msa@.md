@@ -30,7 +30,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 3. Akta ibu dipinda dengan memasukkan selepas Bahagian IIIa Bahagian yang berikut:
 
-“Bahagian iiiB
+## “BAHAGIAN IIIB
 
 ## URUS NIAGA JUALAN KREDIT
 
@@ -106,7 +106,9 @@ yang diberikan atas penyelesaian awal pembayaran amaun keseluruhan yang belum di
 
 (6) Pernyataan bertulis yang disebut dalam subseksyen (1) dan (5) hendaklah diserahkan dengan menghantarserahkan pernyataan bertulis itu sendiri kepada bakal pembeli atau mana-mana orang yang bertindak bagi pihaknya yang hendaklah mengaku terima pernyataan bertulis itu.
 
-(7) Mana-mana bakal pembeli yang telah diserahkan dengan pernyataan bertulis yang disebut dalam subseksyen (1) atau (5) tiada apa-apa obligasi untuk membuat apa-apa perjanjian jualan kredit, dan tiada bayaran atau balasan lain yang boleh dikehendaki daripadanya berkenaan dengan penyediaan atau penyerahan pernyataan bertulis itu.
+(7) Mana-mana bakal pembeli yang telah diserahkan dengan pernyataan bertulis yang disebut dalam subseksyen (1) atau
+
+(5) tiada apa-apa obligasi untuk membuat apa-apa perjanjian jualan kredit, dan tiada bayaran atau balasan lain yang boleh dikehendaki daripadanya berkenaan dengan penyediaan atau penyerahan pernyataan bertulis itu.
 
 (8) Tiada perjanjian jualan kredit boleh dibuat dalam tempoh sepuluh hari bekerja selepas penyerahan pernyataan bertulis di bawah subseksyen (5).
 
@@ -134,7 +136,9 @@ walaupun perjanjian jualan kredit itu adalah tidak sah, melakukan suatu kesalaha
 
 <!-- page 7 -->
 
-(14) Pemberi kemudahan kredit yang membuat suatu perjanjian jualan kredit dengan melanggar subseksyen (1), (5), (6), (8) atau (9), walaupun perjanjian jualan kredit itu adalah tidak sah, melakukan suatu kesalahan.
+(14) Pemberi kemudahan kredit yang membuat suatu perjanjian jualan kredit dengan melanggar subseksyen (1),
+
+(5), (6), (8) atau (9), walaupun perjanjian jualan kredit itu adalah tidak sah, melakukan suatu kesalahan.
 
 (15) Pemberi kemudahan kredit yang gagal mematuhi subseksyen (3), (4) atau (10) melakukan suatu kesalahan.
 

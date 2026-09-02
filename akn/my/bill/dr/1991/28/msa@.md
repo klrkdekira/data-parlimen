@@ -12,17 +12,21 @@
 
 ## PUBLISHED BY AUTHORITY
 
-Bil. 35 TAM BAH
+<!-- marginal: Bil. 35 -->
+
+TAM BAH
 
 <!-- marginal: AN -->
 
-No. 22 31hb
+<!-- marginal: No. 22 -->
+
+31hb
 
 ### Oktober
 
 ### 1991
 
-<!-- marginal: No -->
+### No
 
 <!-- marginal: 9 -->
 
@@ -96,9 +100,25 @@ Sosial Pekerja (Pindaan) 1991.
 
 <!-- page 4 -->
 
-Pindaan 2. Tajuk panjang Akta Keselamatan Sosial Pekerja tajuk 1969, yang disebut "Akta ibu" dalam Akta ini, adalah panjang. Akta 4. dipinda dengan menggantikan perkataan-perkataan "faedah" tertentu bagi pekerja2 sa-kira-nya ilat dan mendapat benchana kerja termasok penyakit2 khidmat" dengan perkataan-perkataan "keselamatan sosial dalam kontingensi-kontingensi yang tertentu".
+<!-- marginal: Pindaan -->
 
-Pindaan 3. Seksyen 2 Akta ibu adalah dipinda— seksyen 2.
+2. Tajuk panjang Akta Keselamatan Sosial Pekerja
+
+<!-- marginal: tajuk -->
+
+1969, yang disebut "Akta ibu" dalam Akta ini, adalah
+
+<!-- marginal: panjang. -->
+
+<!-- marginal: Akta 4. -->
+
+dipinda dengan menggantikan perkataan-perkataan "faedah" tertentu bagi pekerja2 sa-kira-nya ilat dan mendapat benchana kerja termasok penyakit2 khidmat" dengan perkataan-perkataan "keselamatan sosial dalam kontingensi-kontingensi yang tertentu".
+
+<!-- marginal: Pindaan -->
+
+3. Seksyen 2 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 2. -->
 
 (a) dengan menggantikan perenggan (b) subseksyen (3) dengan yang berikut:
 
@@ -114,83 +134,73 @@ berkahwin tetapi belum dewasa, atau jika menjadi balu tetapi belum dewasa; (ii) 
 
 <!-- page 5 -->
 
-(c) dengan memasukkan, selepas sahaja subseksyen (6), subseksyen baru (6A) yang berikut:
+(c) dengan memasukkan, selepas sahaja subseksyen
 
-"(6A) "Kumpulan Wang"
+(6), subseksyen baru (6A) yang berikut:
 
-<!-- marginal: ertinya -->
+"(6A) "Kumpulan Wang" ertinya Kumpulan Wang Keselamatan Sosial yang ditubuhkan di bawah seksyen 68;".
 
-Kumpulan Wang Keselamatan Sosial yang ditubuhkan di bawah seksyen 68;".
+Pindaan
 
-<!-- marginal: Pindaan -->
-
-4. Seksyen 3 Akta ibu adalah dipinda—
-
-<!-- marginal: seksyen 3. -->
+4. Seksyen 3 Akta ibu adalah dipinda— seksyen 3.
 
 (a) dalam subseksyen (1)—
 
-(i) dengan menggantikan
-
-<!-- marginal: perkataan- -->
-
-perkataan "selain daripada perusahaan- perusahaan yang menggaji kurang daripada lima orang:" dengan perkataan- perkataan "yang mempunyai seorang pekerja atau lebih."; dan
+(i) dengan menggantikan perkataan- perkataan "selain daripada perusahaan- perusahaan yang menggaji kurang daripada lima orang:" dengan perkataan- perkataan "yang mempunyai seorang pekerja atau lebih."; dan
 
 (ii) dengan memotong proviso; dan
 
 (b) dengan menggantikan perkataan "orang" dan "seseorang" dalam subseksyen (2) masing- masingnya dengan perkataan "pekerja" dan "mana-mana pekerja".
 
-<!-- marginal: Pindaan -->
+Pindaan
 
-5. Seksyen 6 Akta ibu adalah dipinda—
-
-<!-- marginal: seksyen 6. -->
+5. Seksyen 6 Akta ibu adalah dipinda— seksyen 6.
 
 (a) dengan menggantikan subseksyen (2) dengan yang berikut:
 
 "(2) Caruman itu hendaklah dibahagi kepada dua jenis yang berikut, iaitu:
 
-(a) caruman jenis pertama, yang merupakan caruman yang kena dibayar oleh atau bagi pihak pekerja yang diinsuranskan
+(a) caruman jenis pertama, yang merupakan caruman yang kena dibayar oleh atau bagi pihak pekerja yang diinsuranskan terhadap kontingensi-kontingensi keilatan dan bencana kerja; dan
 
-<!-- marginal: terhadap -->
-
-kontingensi-kontingensi keilatan dan bencana kerja; dan
-
-(b) caruman jenis
-
-<!-- marginal: kedua, -->
-
-<!-- marginal: yang -->
-
-merupakan caruman yang kena dibayar oleh atau bagi pihak pekerja yang diinsuranskan hanya terhadap kontingensi bencana kerja.";
+(b) caruman jenis kedua, yang merupakan caruman yang kena dibayar oleh atau bagi pihak pekerja yang diinsuranskan hanya terhadap kontingensi bencana kerja.";
 
 <!-- page 6 -->
 
 (b) dalam subseksyen (4)—
 
-(i) dengan menggantikan
+(i) dengan menggantikan perkataan- perkataan "jenis pertama dan jenis kedua" dengan perkataan-perkataan "jenis pertama"; dan
 
-<!-- marginal: perkataan- -->
-
-perkataan "jenis pertama dan jenis kedua" dengan perkataan-perkataan "jenis pertama"; dan
-
-(ii) dengan menggantikan
-
-<!-- marginal: ,perkataan- -->
-
-perkataan "Bahagian 1 dan 2" dengan perkataan-perkataan "Bahagian I"; dan
+(ii) dengan menggantikan ,perkataan- perkataan "Bahagian 1 dan 2" dengan perkataan-perkataan "Bahagian I"; dan
 
 (c) dengan menggantikan perkataan "ketiga" dalam subseksyen (5) dengan perkataan "kedua".
 
-Pindaan 6. Seksyen 9A Akta ibu adalah dipinda— seksyen 9A.
+<!-- marginal: Pindaan -->
+
+6. Seksyen 9A Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 9A. -->
 
 (a) dengan memotong perkataan-perkataan "yang kena diinsurans" di mana-mana jua ia terdapat dalam seksyen itu; dan
 
-(b) dengan memasukkan, selepas sahaja perkataan- perkataan "mendapat balik" dalam proviso, perkataan-perkataan "daripada gaji yang kena dibayar walau apa pun proviso kepada subseksyen (2) seksyen 7". 7. Akta ibu adalah dipinda dengan memasukkan, baru 9B. selepas sahaja seksyen 9A, seksyen baru 9s yang berikut:
+(b) dengan memasukkan, selepas sahaja perkataan- perkataan "mendapat balik" dalam proviso, perkataan-perkataan "daripada gaji yang kena dibayar walau apa pun proviso kepada subseksyen (2) seksyen 7".
+
+<!-- marginal: Seksyen -->
+
+7. Akta ibu adalah dipinda dengan memasukkan,
+
+<!-- marginal: baru 9B. -->
+
+selepas sahaja seksyen 9A, seksyen baru 9s yang berikut:
 
 "Pengesahan 9s. Apa-apa caruman yang dipungut oleh caruman Pertubuhan bagi seseorang pekerja yang tidak yang dipungut. didaftarkan bagi maksud-maksud insurans di bawah Akta ini bagi apa-apa tempoh sebelum Ihb Julai 1987 adalah dengan ini disahkan dan diisytiharkan sebagai telah dipungut secara sah di sisi undang-undang.".
 
-Pindaan 8. Seksyen 12 Akta ibu adalah dipinda dengan seksyen 12. menggantikan perkataan-perkataan "mana2 kawasan tempatan" dalam subseksyen (1) dengan perkataan- perkataan "kawasan atau kawasan-kawasan".
+<!-- marginal: Pindaan -->
+
+8. Seksyen 12 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 12. -->
+
+menggantikan perkataan-perkataan "mana2 kawasan tempatan" dalam subseksyen (1) dengan perkataan- perkataan "kawasan atau kawasan-kawasan".
 
 <!-- page 7 -->
 
@@ -260,23 +270,31 @@ perenggan
 
 (b) dalam subseksyen (3), dengan menggantikan perkataan-perkataan "tiga puluh enam" dengan perkataan-perkataan "dua puluh empat".
 
-Pemotongan
+<!-- marginal: Pemotongan -->
 
-13. Akta ibu adalah dipinda dengan memotong seksyen seksyen 18.
+13. Akta ibu adalah dipinda dengan memotong seksyen
+
+<!-- marginal: seksyen 18. -->
 
 18.
 
-Penggantian
+<!-- marginal: Penggantian -->
 
-14. Akta ibu adalah dipinda dengan menggantikan seksyen 19. seksyen 19 dengan yang berikut:
+14. Akta ibu adalah dipinda dengan menggantikan
+
+<!-- marginal: seksyen 19. -->
+
+seksyen 19 dengan yang berikut:
 
 "Pembayaran i!9. (1) Pencen ilat heridaklah terakru mulai pencen dari hari orang berinsurans itu memberikan ilat. notis keilatan mengikut peraturan-peraturan dan hendaklah terhenti pada hari berikutan hari keilatannya terhenti atau pada hari pesara itu mati.
 
 (2) Bagi maksud seksyen ini, kadar harian pencen ilat hendaklah merupakan amaun kadar bulanan pencen ilat yang dibayar atau kena dibayar kepada orang berinsurans, dibahagikan dengan bilangan hari dalam bulan pencen itu terakru atau keilatan itu terhenti atau pesara itu mati.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-15. Seksyen 20 Akta ibu adalah dipinda— seksyen 20.
+15. Seksyen 20 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 20. -->
 
 (a) dalam perenggan (a) subseksyen (1), dengan menggantikan perkataan-perkataan "tiga puloh enam" dengan perkataan-perkataan "dua puluh empat"; dan
 
@@ -284,11 +302,7 @@ Pindaan
 
 (b) dalam subseksyen (2)—
 
-(i) dengan menggantikan
-
-<!-- marginal: perkataan- -->
-
-perkataan "tiga puloh enam" dalam perenggan
+(i) dengan menggantikan perkataan- perkataan "tiga puloh enam" dalam perenggan
 
 (a) dengan perkataan- perkataan "dua puluh empat"; dan
 
@@ -296,7 +310,7 @@ perkataan "tiga puloh enam" dalam perenggan
 
 "Dengan syarat bahawa gaji bulanan purata minimum ialah tiga ratus empat puluh dua ringgit dan lapan puluh enam sen tertakluk kepada apa-apa amaun yang ditetapkan oleh Menteri dari semasa ke semasa melalui peraturan- peraturan.".
 
-<!-- marginal: Pindaan` -->
+Pindaan`
 
 16. Seksyen 20A Akta ibu adalah dipinda dalam subseksyen (2)—
 
@@ -304,15 +318,27 @@ perkataan "tiga puloh enam" dalam perenggan
 
 (b) dengan menggantikan perkataan-perkataan 'subperenggan (b) dan (c) takrif "orang tanggungan" * dengan perkataan-perkataan 'perenggan (b) takrif "orang tanggungan" '.
 
-<!-- marginal: Penggantian -->
+Penggantian
 
-17. Akta ibu adalah dipinda dengan menggantikan
+17. Akta ibu adalah dipinda dengan menggantikan seksyen 24. seksyen 24 dengan yang berikut:
 
-<!-- marginal: seksyen 24. -->
+24. (1) Sesuatu kemalangan yang berlaku
 
-seksyen 24 dengan yang berikut:
+<!-- marginal: "Kemala- -->
 
-24. (1) Sesuatu kemalangan yang berlaku "Kemala- ngan kepada seseorang orang berinsurans hendaklah semasa disifatkan terbit daripada dan dalam masa dalam perjalanan. menjalankan pekerjaannya jika kemalangan itu berlaku semasa orang berinsurans itu—
+<!-- marginal: ngan -->
+
+kepada seseorang orang berinsurans hendaklah
+
+<!-- marginal: semasa -->
+
+disifatkan terbit daripada dan dalam masa
+
+<!-- marginal: dalam -->
+
+<!-- marginal: perjalanan. -->
+
+menjalankan pekerjaannya jika kemalangan itu berlaku semasa orang berinsurans itu—
 
 (a) dalam perjalanan mengikut laluan di antara tempat kediamannya atau tempat tinggalnya dengan tempat kerjanya;
 
@@ -322,19 +348,27 @@ seksyen 24 dengan yang berikut:
 
 (c) dalam perjalanan di antara tempat kerjanya dengan tempat dia pergi makan dalam masa rehat yang dibenarkan.
 
-(2) Jika kemalangan di bawah subseksyen (1) berlaku dalam masa apa-apa perhentian, atau apa-apa lencongan, perjalanan orang berinsurans itu yang dibuat bagi mana-mana maksud yang dinyatakan dalam subseksyen yang sama, kemalangan itu tidaklah disifatkan terbit daripada dan dalam masa menjalankan pekerjaannya.".
+(2) Jika kemalangan di bawah subseksyen
 
-Pindaan
+(1) berlaku dalam masa apa-apa perhentian, atau apa-apa lencongan, perjalanan orang berinsurans itu yang dibuat bagi mana-mana maksud yang dinyatakan dalam subseksyen yang sama, kemalangan itu tidaklah disifatkan terbit daripada dan dalam masa menjalankan pekerjaannya.".
 
-18. Seksyen 26 Akta ibu adalah dipinda dalam sub- seksyen 26. seksyen (2)—
+<!-- marginal: Pindaan -->
+
+18. Seksyen 26 Akta ibu adalah dipinda dalam sub-
+
+<!-- marginal: seksyen 26. -->
+
+seksyen (2)—
 
 (a) dengan memasukkan, selepas sahaja perkataan- perkataan "hendak-lah di-bayar kapada", perkataan-perkataan "ibu yang menjadi balu dan"; dan
 
 (b) dengan menggantikan perkataan-perkataan "perenggan (b) dan (c)" dengan perkataan- perkataan "perenggan (b)".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-19. Seksyen 29 Akta ibu adalah dipinda— seksyen 29.
+19. Seksyen 29 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 29. -->
 
 (a) dalam subseksyen (3)—
 
@@ -348,11 +382,7 @@ Pindaan
 
 <!-- page 11 -->
 
-(iii) dengan memasukkan, selepas sahaja perkataan "kematiannya"
-
-<!-- marginal: dalam -->
-
-perenggan (b), perkataan-perkataan ", dengan syarat bahawa jumlah bilangan caruman bulanan yang dibayar dalam tempoh tersebut hendaklah sekurang- kurangnya dua puluh empat"; dan
+(iii) dengan memasukkan, selepas sahaja perkataan "kematiannya" dalam perenggan (b), perkataan-perkataan ", dengan syarat bahawa jumlah bilangan caruman bulanan yang dibayar dalam tempoh tersebut hendaklah sekurang- kurangnya dua puluh empat"; dan
 
 (b) dalam subseksyen (4), dengan memasukkan, selepas sahaja perkataan "kematiannya", perkataan-perkataan ", dengan syarat bahawa jumlah bilangan caruman bulanan yang dibayar dalam tempoh tersebut hendaklah sekurang- kurangnya dua puluh empat".
 
@@ -362,7 +392,25 @@ perenggan (b), perkataan-perkataan ", dengan syarat bahawa jumlah bilangan carum
 
 <!-- marginal: seksyen 31. -->
 
-seksyen 31 dengan yang berikut: "Liabiliti 31. Seseorang orang berinsurans atau orang- majikan orang tanggungannya tidaklah berhak dan menerima atau mendapat daripada majikan pengkhid- matnya. orang berinsurans itu, atau daripada mana- mana orang lain yang merupakan pengkhidmat majikan itu, apa-apa pampasan atau gantirugi di bawah mana-mana undang-undang lain yang sedang berkuatkuasa berkenaan dengan bencana kerja yang berlaku padanya sewaktu menjadi seorang pekerja di bawah Akta ini.".
+seksyen 31 dengan yang berikut:
+
+<!-- marginal: "Liabiliti -->
+
+31. Seseorang orang berinsurans atau orang-
+
+<!-- marginal: majikan -->
+
+orang tanggungannya tidaklah berhak
+
+<!-- marginal: dan -->
+
+menerima atau mendapat daripada majikan
+
+<!-- marginal: pengkhid- -->
+
+<!-- marginal: matnya. -->
+
+orang berinsurans itu, atau daripada mana- mana orang lain yang merupakan pengkhidmat majikan itu, apa-apa pampasan atau gantirugi di bawah mana-mana undang-undang lain yang sedang berkuatkuasa berkenaan dengan bencana kerja yang berlaku padanya sewaktu menjadi seorang pekerja di bawah Akta ini.".
 
 <!-- marginal: Seksyen baru -->
 
@@ -370,35 +418,61 @@ seksyen 31 dengan yang berikut: "Liabiliti 31. Seseorang orang berinsurans atau 
 
 <!-- marginal: 33A. -->
 
-selepas sahaja seksyen 33, seksyen baru 33A yang berikut: "Orang 33A. Jika seseorang orang berinsurans, yang berinsurans telah mengemukakan notis keilatannya atau mati sebelum permohonannya untuk dirujukkan kepada pemeriksaan lembaga perubatan untuk menentukan soal lembaga hilang upaya mengikut peraturan-peraturan, perubatan. mati sebelum diperiksa oleh
+selepas sahaja seksyen 33, seksyen baru 33A yang
+
+<!-- marginal: berikut: -->
+
+<!-- marginal: "Orang -->
+
+33A. Jika seseorang orang berinsurans, yang
+
+<!-- marginal: berinsurans -->
+
+telah mengemukakan notis keilatannya atau
+
+<!-- marginal: mati -->
+
+<!-- marginal: sebelum -->
+
+permohonannya untuk dirujukkan kepada
+
+<!-- marginal: pemeriksaan -->
+
+lembaga perubatan untuk menentukan soal
 
 <!-- marginal: lembaga -->
 
-perubatan, Pertubuhan boleh menurut budi bicaranya, tertakluk kepada
+hilang upaya mengikut peraturan-peraturan,
 
-<!-- marginal: apa-apa -->
+<!-- marginal: perubatan. -->
 
-keterangan perubatan yang
-
-<!-- marginal: ada yang -->
-
-memuaskan hatinya, merujukkan hal itu kepada lembaga perubatan untuk menentukan soal keilatan atau soal hilang upaya, mengikut mana-mana yang berkenaan.".
+mati sebelum diperiksa oleh lembaga perubatan, Pertubuhan boleh menurut budi bicaranya, tertakluk kepada apa-apa keterangan perubatan yang ada yang memuaskan hatinya, merujukkan hal itu kepada lembaga perubatan untuk menentukan soal keilatan atau soal hilang upaya, mengikut mana-mana yang berkenaan.".
 
 <!-- page 12 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-22. Seksyen 57 Akta ibu adalah dipinda dengan seksyen 57. memotong perkataan-perkataan ", jika ia di-kehendaki pergi ka-luar tempat kediaman-nya," dalam subseksyen
+22. Seksyen 57 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 57. -->
+
+memotong perkataan-perkataan ", jika ia di-kehendaki pergi ka-luar tempat kediaman-nya," dalam subseksyen
 
 (4).
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-23. Teks Bahasa Malaysia Akta ibu adalah dipinda seksyen 59fl. dengan menggantikan perkataan "pekerja-pekerja" dalam perenggan (d) subseksyen (2) seksyen 59s dengan perkataan "majikan-majikan".
+23. Teks Bahasa Malaysia Akta ibu adalah dipinda
 
-Pindaan
+<!-- marginal: seksyen 59fl. -->
 
-24. Seksyen 59i Akta ibu adalah dipinda— seksyen 59i.
+dengan menggantikan perkataan "pekerja-pekerja" dalam perenggan (d) subseksyen (2) seksyen 59s dengan perkataan "majikan-majikan".
+
+<!-- marginal: Pindaan -->
+
+24. Seksyen 59i Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 59i. -->
 
 (a) dengan memotong nombor subseksyen "(1)"; dan
 
@@ -408,9 +482,13 @@ Pindaan
 
 Kumpulanwang Bencana Kerja" dengan perkataan-perkataan "Kumpulan Wang Keselamatan Sosial".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-25. Seksyen 59N Akta ibu adalah dipinda dengan meng- seksyen 59N. gantikan subseksyen (1) dengan yang berikut:
+25. Seksyen 59N Akta ibu adalah dipinda dengan meng-
+
+<!-- marginal: seksyen 59N. -->
+
+gantikan subseksyen (1) dengan yang berikut:
 
 "(1) Tertakluk kepada mana-mana peruntukan lain dalam Akta ini dan dalam kaedah-kaedah kakitangan, Ketua Pengarah hendaklah menyelesaikan semua soal yang berhubungan dengan perkhidmatan (selain daripada soal perlantikan, penggantungan, kenaikan pangkat dan pemecatan), gaji, keistimewaan dan elaun pegawai-pegawai dan pengkhidmat-pengkhidmat Pertubuhan:
 
@@ -420,7 +498,7 @@ Dengan syarat bahawa dalam hal pegawai- pegawai dan pengkhidmat-pengkhidmat yang
 
 ## KESELAMATAN SOSIAL PEKERJA (PINDAAN)
 
-<!-- marginal: 1 1 -->
+### 1 1
 
 <!-- marginal: Seksyen baru -->
 
@@ -436,7 +514,17 @@ selepas sahaja seksyen 59p, seksyen baru 59Q, 59R, 59s,
 
 <!-- marginal: dan 59w. -->
 
-"Jawatan- 59q. Maka hendaklah ada suatu Jawatankuasa kuasa Tatatertib yang hendaklah terdiri daripada tiga Tatatertib. orang anggota yang berikut:
+<!-- marginal: "Jawatan- -->
+
+59q. Maka hendaklah ada suatu Jawatankuasa
+
+<!-- marginal: kuasa -->
+
+Tatatertib yang hendaklah terdiri daripada tiga
+
+<!-- marginal: Tatatertib. -->
+
+orang anggota yang berikut:
 
 (a) dua orang anggota yang akan dilantik oleh dan daripada kalangan anggota Lembaga (selain daripada Pengerusi Lembaga), salah seorang daripadanya hendaklah dilantik menjadi pengerusi; dan
 
@@ -444,63 +532,55 @@ selepas sahaja seksyen 59p, seksyen baru 59Q, 59R, 59s,
 
 Dengan syarat bahawa Ketua Pengarah atau Timbalan Ketua Pengarah, mengikut mana yang berkenaan, tidaklah boleh menjadi ahli Jawatankuasa Tatatertib dalam mana- mana presiding yang di hadapannya di mana dia adalah pengadu, dalam hal yang sedemikian tempatnya hendaklah diambil oleh seorang ahli yang hendaklah dilantik oleh dan dari kalangan ahli-ahli Lembaga.
 
-Tatatertib 59n. (1) Pihak berkuasa tatatertib berkenaan pegawai. dengan tiap-tiap pegawai dan pengkhidmat Pertubuhan, selain daripada Ketua Pengarah dan Timbalan Ketua Pengarah, hendaklah Jawatankuasa Tatatertib yang ditubuhkan di bawah seksyen 59Q.
+<!-- marginal: Tatatertib -->
+
+59n. (1) Pihak berkuasa tatatertib berkenaan
+
+<!-- marginal: pegawai. -->
+
+dengan tiap-tiap pegawai dan pengkhidmat Pertubuhan, selain daripada Ketua Pengarah dan Timbalan Ketua Pengarah, hendaklah Jawatankuasa Tatatertib yang ditubuhkan di bawah seksyen 59Q.
 
 (2) Pada menjalankan fungsi, kuasa atau tugas tatatertibnya, Jawatankuasa Tatatertib hendaklah mempunyai kuasa untuk mengambil tindakan tatatertib dan mengenakan hukuman tatatertib yang diperuntukkan melalui mana- mana kaedah yang boleh dibuat di bawah seksyen 59T.
 
 <!-- page 14 -->
 
-(3) Jawatankuasa Tatatertib
-
-<!-- marginal: boleh, -->
-
-tertakluk kepada subseksyen (4), mewakilkan mana-mana fungsi, kuasa
-
-<!-- marginal: atau -->
-
-<!-- marginal: tugas -->
-
-tatatertibnya kepada mana-mana pegawai atau pengkhidmat Pertubuhan, atau kepada mana- mana Jawatankuasa pegawai atau pengkhidmat Pertubuhan, berkenaan dengan mana-mana pegawai atau pengkhidmat tertentu Pertubuhan atau berkenaan dengan mana-mana kelas atau kategori pegawai atau
-
-<!-- marginal: pengkhidmat -->
-
-Pertubuhan, dan pegawai atau pengkhidmat atau Jawatankuasa yang diwakilkan dengan fungsi, kuasa atau tugas
-
-<!-- marginal: tatatertib -->
-
-<!-- marginal: itu -->
-
-hendaklah melaksanakan, menjalankan atau menunaikan fungsi, kuasa atau tugas tatatertib itu di bawah arahan dan kawalan Jawatankuasa Tatatertib yang hendaklah mempunyai kuasa untuk mengkaji semula, menghapuskan atau mengubah apa-apa keputusan atau dapatan pegawai atau pengkhidmat, atau Jawatankuasa itu.
+(3) Jawatankuasa Tatatertib boleh, tertakluk kepada subseksyen (4), mewakilkan mana-mana fungsi, kuasa atau tugas tatatertibnya kepada mana-mana pegawai atau pengkhidmat Pertubuhan, atau kepada mana- mana Jawatankuasa pegawai atau pengkhidmat Pertubuhan, berkenaan dengan mana-mana pegawai atau pengkhidmat tertentu Pertubuhan atau berkenaan dengan mana-mana kelas atau kategori pegawai atau pengkhidmat Pertubuhan, dan pegawai atau pengkhidmat atau Jawatankuasa yang diwakilkan dengan fungsi, kuasa atau tugas tatatertib itu hendaklah melaksanakan, menjalankan atau menunaikan fungsi, kuasa atau tugas tatatertib itu di bawah arahan dan kawalan Jawatankuasa Tatatertib yang hendaklah mempunyai kuasa untuk mengkaji semula, menghapuskan atau mengubah apa-apa keputusan atau dapatan pegawai atau pengkhidmat, atau Jawatankuasa itu.
 
 (4) Tiada perwakilan boleh dibuat di bawah subseksyen (3) untuk membolehkan seseorang pegawai atau pengkhidmat Pertubuhan menjalankan apa-apa kuasa tatatertib atau menjadi anggota sesuatu Jawatankuasa yang boleh menjalankan apa-apa kuasa tatatertib ke atas seseorang pegawai atau pengkhidmat yang berpangkat lebih tinggi daripadanya.
 
-(5) Mana-mana pegawai atau pengkhidmat Pertubuhan yang tidak berpuas hati dengan keputusan Jawatankuasa Tatatertib atau mana- mana orang atau Jawatankuasa yang diwakilkan dengan fur.gsi, kuasa atau tugas tatatertib di bawah subseksyen (3) boleh, dalam masa empat belas hari, merayu secara bertulis terhadap keputusan
-
-<!-- marginal: itu kepada -->
-
-Lembaga Rayuan Tatatertib yang boleh memberikan apa-apa keputusan ke atasnya sebagaimana yang difikirkannya patut.
+(5) Mana-mana pegawai atau pengkhidmat Pertubuhan yang tidak berpuas hati dengan keputusan Jawatankuasa Tatatertib atau mana- mana orang atau Jawatankuasa yang diwakilkan dengan fur.gsi, kuasa atau tugas tatatertib di bawah subseksyen (3) boleh, dalam masa empat belas hari, merayu secara bertulis terhadap keputusan itu kepada Lembaga Rayuan Tatatertib yang boleh memberikan apa-apa keputusan ke atasnya sebagaimana yang difikirkannya patut.
 
 <!-- page 15 -->
 
-59s. (1) Maka hendaklah ditubuhkan suatu Lembaga Rayuan Tatatertib
-
-<!-- marginal: yang -->
-
-keanggotaannya adalah seperti yang berikut:
+59s. (1) Maka hendaklah ditubuhkan suatu Lembaga Rayuan Tatatertib yang keanggotaannya adalah seperti yang berikut:
 
 (a) Pengerusi Lembaga, sebagai Pengerusi; dan
 
-(b) anggota-anggota Lembaga,
+(b) anggota-anggota Lembaga, tidak termasuk anggota-anggota yang menganggotai Jawatankuasa Tatatertib.
 
-<!-- marginal: tidak -->
+(2) Keputusan Lembaga Rayuan Tatatertib adalah muktamad.
 
-termasuk anggota-anggota
+<!-- marginal: Kuasa -->
 
-<!-- marginal: yang -->
+59r. (1) Lembaga boleh, dengan kelulusan
 
-menganggotai Jawatankuasa Tatatertib.
+<!-- marginal: uutuk -->
 
-(2) Keputusan Lembaga Rayuan Tatatertib adalah muktamad. Kuasa 59r. (1) Lembaga boleh, dengan kelulusan uutuk Menteri, membuat apa-apa kaedah tatatertib membuat kaedah- sebagaimana yang difikirkannya perlu atau kaedah suaimanfaat bagi mengadakan peruntukan tatatertib. tentang tatatertib pegawai-pegawai dan pengkhidmat-pengkhidmat Pertubuhan,
+Menteri, membuat apa-apa kaedah tatatertib
+
+<!-- marginal: membuat -->
+
+<!-- marginal: kaedah- -->
+
+sebagaimana yang difikirkannya perlu atau
+
+<!-- marginal: kaedah -->
+
+suaimanfaat bagi mengadakan peruntukan
+
+<!-- marginal: tatatertib. -->
+
+tentang tatatertib pegawai-pegawai dan pengkhidmat-pengkhidmat Pertubuhan,
 
 (2) Kaedah-kaedah tatatertib yang dibuat oleh Lembaga di bawah seksyen ini boleh mengandungi—
 
@@ -514,17 +594,15 @@ menganggotai Jawatankuasa Tatatertib.
 
 ## RANG UNDANG-UNDANG
 
-Pengenaan 59u. (1) Jika Lembaga berpuas hati bahawa surcaj. mana-mana orang yang sedang atau pernah berkhidmat dengan Pertubuhan—
+<!-- marginal: Pengenaan -->
 
-(a) bertanggungjawab atau
+59u. (1) Jika Lembaga berpuas hati bahawa
 
-<!-- marginal: telah -->
+<!-- marginal: surcaj. -->
 
-bertanggungjawab bagi apa-apa pembayaran wang dengan
+mana-mana orang yang sedang atau pernah berkhidmat dengan Pertubuhan—
 
-<!-- marginal: tak -->
-
-sepatutnya daripada Kumpulan Wang atau bagi apa-apa pembayaran wang itu yang tidak disokong dengan sewajarnya;
+(a) bertanggungjawab atau telah bertanggungjawab bagi apa-apa pembayaran wang dengan tak sepatutnya daripada Kumpulan Wang atau bagi apa-apa pembayaran wang itu yang tidak disokong dengan sewajarnya;
 
 (b) bertanggungjawab atau telah ber- tanggungjawab bagi apa-apa ke- kurangan dalam, atau bagi kemusnahan pada, apa-apa wang, setem-setem, sekuriti-sekuriti, stor-stor atau lain- lain harta Pertubuhan;
 
@@ -536,11 +614,7 @@ dan jika penjelasan yang memuaskan tidak dikemukakan kepada Lembaga dalam tempoh
 
 <!-- page 17 -->
 
-membuat pembayaran, maka Lembaga boleh mengenakan surcaj terhadap orang tersebut sejumlah wang yang tidak melebihi amaun itu bagi mana-mana amaun yang tidak dipungut, mana-mana pembayaran, kekurangan, atau kerugian atau nilai harta yang dimusnahkan tersebut, mengikut mana yang berkenaan; dan berkenaan dengan kegagalan untuk menyimpan akaun-akaun atau rekod-rekod
-
-<!-- marginal: yang -->
-
-sepatutnya, atau kegagalan untuk membuat pembayaran, atau kelengahan dalam membuat pembayaran, Lembaga boleh mengenakan surcaj terhadap orang tersebut sesuatu jumlah wang sebagaimana yang difikirkan patut oleh Pertubuhan,
+membuat pembayaran, maka Lembaga boleh mengenakan surcaj terhadap orang tersebut sejumlah wang yang tidak melebihi amaun itu bagi mana-mana amaun yang tidak dipungut, mana-mana pembayaran, kekurangan, atau kerugian atau nilai harta yang dimusnahkan tersebut, mengikut mana yang berkenaan; dan berkenaan dengan kegagalan untuk menyimpan akaun-akaun atau rekod-rekod yang sepatutnya, atau kegagalan untuk membuat pembayaran, atau kelengahan dalam membuat pembayaran, Lembaga boleh mengenakan surcaj terhadap orang tersebut sesuatu jumlah wang sebagaimana yang difikirkan patut oleh Pertubuhan,
 
 (2) Lembaga hendaklah menyebabkan Ketua Pengarah diberitahu tentang apa-apa surcaj yang dibuat di bawah subseksyen (1) dan Ketua Pengarah hendaklah sesudah itu memberitahu orang yang disurcaj itu.
 
@@ -558,11 +632,39 @@ sepatutnya, atau kegagalan untuk membuat pembayaran, atau kelengahan dalam membu
 
 secara ansuran bulanan yang setara yang tidak melebihi satu-perempat daripada jumlah gaji atau pencen bulanan orang tersebut, mengikut mana yang berkenaan.
 
-Penubuhan 59v. (1) Maka hendaklah ditubuhkan suatu Lembaga Lembaga Kenaikan Pangkat berkenaan dengan Kenaikan Pangkat setiap kategori pegawai dan pengkhidmat sebagaimana yang dinyatakan dalam ruangan pertama Jadual Kesepuluh, yang terdiri daripada anggota-anggota yang dinyatakan dalam ruangan kedua Jadual yang sama.
+<!-- marginal: Penubuhan -->
+
+59v. (1) Maka hendaklah ditubuhkan suatu
+
+<!-- marginal: Lembaga -->
+
+Lembaga Kenaikan Pangkat berkenaan dengan
+
+<!-- marginal: Kenaikan -->
+
+<!-- marginal: Pangkat -->
+
+setiap kategori pegawai dan pengkhidmat sebagaimana yang dinyatakan dalam ruangan pertama Jadual Kesepuluh, yang terdiri daripada anggota-anggota yang dinyatakan dalam ruangan kedua Jadual yang sama.
 
 (2) Lembaga Kenaikan Pangkat yang relevan hendaklah mempunyai bidang kuasa dan hendaklah menjalankan fungsi-fungsinya dalam semua perkara yang berhubungan dengan kenaikan pangkat berkenaan dengan semua pegawai dan pengkhidmat Pertubuhan dalam kategori yang dinyatakan dalam ruangan pertama Jadual Kesepuluh.
 
-Penubuhan 59w. (1) Maka hendaklah ditubuhkan suatu Lembaga Lembaga Rayuan Kenaikan Pangkat berkenaan Rayuan Kenaikan dengan setiap kategori pegawai dan Pangkat. pengkhidmat sebagaimana yang dinyatakan dalam ruangan pertama Jadual Kesepuluh yang terdiri daripada anggota-anggota yang dinyatakan dalam ruangan ketiga Jadual yang sama.
+<!-- marginal: Penubuhan -->
+
+59w. (1) Maka hendaklah ditubuhkan suatu
+
+<!-- marginal: Lembaga -->
+
+Lembaga Rayuan Kenaikan Pangkat berkenaan
+
+<!-- marginal: Rayuan -->
+
+<!-- marginal: Kenaikan -->
+
+dengan setiap kategori pegawai dan
+
+<!-- marginal: Pangkat. -->
+
+pengkhidmat sebagaimana yang dinyatakan dalam ruangan pertama Jadual Kesepuluh yang terdiri daripada anggota-anggota yang dinyatakan dalam ruangan ketiga Jadual yang sama.
 
 (2) Lembaga Rayuan Kenaikan Pangkat hendaklah mempunyai bidang kuasa dan hendaklah menjalankan fungsi-fungsinya berkenaan dengan apa-apa rayuan terhadap apa-apa keputusan Lembaga Kenaikan Pangkat berhubungan dengan seseorang pegawai atau pengkhidmat yang ke atasnya Lembaga Kenaikan Pangkat mempunyai bidang kuasa.
 
@@ -584,7 +686,19 @@ Penubuhan 59w. (1) Maka hendaklah ditubuhkan suatu Lembaga Lembaga Rayuan Kenaik
 
 seksyen 68 dengan yang berikut:
 
-"Kumpulan 68. Maka hendaklah ditubuhkan di bawah Wang Akta ini Kumpulan Wang Keselamatan Sosial Keselamatan Sosial. yang ke dalamnya hendaklah dibayar—
+<!-- marginal: "Kumpulan -->
+
+68. Maka hendaklah ditubuhkan di bawah
+
+<!-- marginal: Wang -->
+
+Akta ini Kumpulan Wang Keselamatan Sosial
+
+<!-- marginal: Keselamatan -->
+
+<!-- marginal: Sosial. -->
+
+yang ke dalamnya hendaklah dibayar—
 
 (a) caruman-caruman yang kena dibayar oleh atau berkenaan dengan orang- orang berinsurans;
 
@@ -602,19 +716,29 @@ seksyen 68 dengan yang berikut:
 
 (g) apa-apa wang lain yang kena dibayar kepada Pertubuhan.".
 
-Penggantian
+<!-- marginal: Penggantian -->
 
-28. Akta ibu adalah dipinda dengan menggantikan seksyen 69. seksyen 69 dengan yang berikut:
+28. Akta ibu adalah dipinda dengan menggantikan
 
-"Pentadbiran 69. (1) Kumpulan Wang Keselamatan Sosial Kumpulan hendaklah dipegang dan ditadbirkan oleh Wang. Pertubuhan bagi maksud-maksud Akta ini.
+<!-- marginal: seksyen 69. -->
+
+seksyen 69 dengan yang berikut:
+
+<!-- marginal: "Pentadbiran -->
+
+69. (1) Kumpulan Wang Keselamatan Sosial
+
+<!-- marginal: Kumpulan -->
+
+hendaklah dipegang dan ditadbirkan oleh
+
+<!-- marginal: Wang. -->
+
+Pertubuhan bagi maksud-maksud Akta ini.
 
 (2) Semua wang yang terakru atau kena dibayar kepada Kumpulan Wang tersebut hendaklah dibayar ke dalam mana-mana bank sebagaimana yang dibenarkan oleh Lembaga:
 
-Dengan syarat bahawa Lembaga boleh membenarkan pejabat-pejabat pos
-
-<!-- marginal: juga -->
-
-menerima, bagi pihak Pertubuhan, semua wang yang terakru atau kena dibayar kepada Kumpulan Wang yang disebutkan dalam seksyen 68 tertakluk kepada apa-apa terma dan syarat sebagaimana yang boleh ditetapkan dalam peraturan-peraturan.".
+Dengan syarat bahawa Lembaga boleh membenarkan pejabat-pejabat pos juga menerima, bagi pihak Pertubuhan, semua wang yang terakru atau kena dibayar kepada Kumpulan Wang yang disebutkan dalam seksyen 68 tertakluk kepada apa-apa terma dan syarat sebagaimana yang boleh ditetapkan dalam peraturan-peraturan.".
 
 <!-- page 21 -->
 
@@ -640,9 +764,7 @@ menggantikan perkataan-perkataan "Kumpulan-wang Penchen Hat Keselamatan Sosial d
 
 pegawai" dalam perenggan
 
-<!-- marginal: (a) dengan -->
-
-perkataan-perkataan "kumpulan wang faedah, kebajikan dan rekreasi pegawai-pegawai".
+(a) dengan perkataan-perkataan "kumpulan wang faedah, kebajikan dan rekreasi pegawai-pegawai".
 
 <!-- marginal: Seksyen -->
 
@@ -664,7 +786,7 @@ memasukkan, selepas sahaja perkataan "Pertubuhan" dalam perenggan (c) subseksyen
 
 <!-- page 22 -->
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
 33. Akta ibu adalah dipinda dengan memasukkan,
 
@@ -674,9 +796,13 @@ Seksyen baru
 
 (2) Jika jawatan Pengerusi menjadi kosong, Timbalan Pengerusi hendaklah melaksanakan kewajipan-kewajipan Pengerusi sehingga masa kekosongan itu diisi.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-34. Seksyen 83 Akta ibu adalah dipinda dengan seksyen 83. memasukkan, selepas sahaja subseksyen (5), subseksyen baru (6), (7) dan (8) yang berikut:
+34. Seksyen 83 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 83. -->
+
+memasukkan, selepas sahaja subseksyen (5), subseksyen baru (6), (7) dan (8) yang berikut:
 
 "(6) Menteri boleh menamakan seorang anggota silih ganti berkenaan dengan setiap anggota Lembaga yang dinamakan di bawah subseksyen (5) untuk menghadiri apa-apa presiding Lembaga bila- mana anggota itu tidak dapat menghadiri presiding itu kerana sakit, tak berupaya atau kerana apa-apa sebab lain:
 
@@ -720,25 +846,41 @@ memasukkan, selepas sahaja subseksyen (1), subseksyen baru (2) yang berikut:
 
 <!-- page 24 -->
 
-Penggantian
+<!-- marginal: Penggantian -->
 
-37. Akta ibu adalah dipinda dengan menggantikan seksyen 96. seksyen 96 dengan yang berikut:
+37. Akta ibu adalah dipinda dengan menggantikan
+
+<!-- marginal: seksyen 96. -->
+
+seksyen 96 dengan yang berikut:
 
 "Orang 96. (1) Seseorang orang berinsurans tidak berinsurans dibenarkan menerima, bagi tempoh yang sama tidak berhad dan berkenaan dengan hilang upaya yang mendapat sama, pencen ilat dan faedah hilang upaya lebih daripada kekal. satu faedah. (2) Jika seseorang orang berinsurans berhak mendapat kedua-dua faedah, dia boleh memilih faedah yang akan diterimanya bagi tempoh itu.".
 
-Penggantian
+<!-- marginal: Penggantian -->
 
-38. Akta ibu adalah dipinda dengan menggantikan seksyen 96A. seksyen 96A dengan yang berikut:
+38. Akta ibu adalah dipinda dengan menggantikan
+
+<!-- marginal: seksyen 96A. -->
+
+seksyen 96A dengan yang berikut:
 
 "Orang 96A. (1) Seseorang orang tanggungan tidak tanggungan dibenarkan menerima, bagi tempoh yang sama tidak berhak dan berkenaan dengan orang berinsurans yang mendapat sama, pencen penakat dan faedah orang pencen penakat tanggungan. dan faedah orang tanggungan (2) Jika orang tanggungan berhak kepada kedua- duanya pencen penakat dan faedah orang tanggungan bagi kedua-duanya, dia boleh memilih untuk tempoh yang sama. menerima faedah yang kena dibayar pada kadar yang lebih tinggi.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-39. Seksyen 100 Akta ibu adalah dipinda dengan seksyen 100. memasukkan, selepas sahaja perkataan-perkataan "pehak-berkuasa tempatan", perkataan-perkataan "atau pihak berkuasa berkanun".
+39. Seksyen 100 Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 100. -->
 
-40. Seksyen 105 Akta ibu adalah dipinda dengan seksyen 105. menggantikan perkataan-perkataan "Kumpulanwang Pencen Ilat dan Kumpulanwang Bencana Kerja" dalam perenggan (xxxi) subseksyen (2) dengan perkataan- perkataan "Kumpulan Wang Keselamatan Sosial".
+memasukkan, selepas sahaja perkataan-perkataan "pehak-berkuasa tempatan", perkataan-perkataan "atau pihak berkuasa berkanun".
+
+<!-- marginal: Pindaan -->
+
+40. Seksyen 105 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 105. -->
+
+menggantikan perkataan-perkataan "Kumpulanwang Pencen Ilat dan Kumpulanwang Bencana Kerja" dalam perenggan (xxxi) subseksyen (2) dengan perkataan- perkataan "Kumpulan Wang Keselamatan Sosial".
 
 <!-- page 25 -->
 
@@ -762,37 +904,53 @@ Pindaan
 
 selepas sahaja seksyen 110, seksyen baru 111 dan 112 yang berikut:
 
-"Pertubuhan 111. (1) Dalam semua perkara mengenai benirusan faedah-faedah di bawah Akta ini, Pertubuhan dengan orang boleh berurusan secara langsung dengan orang yang berinsurans atau orang-orang tanggungannya, diberikuasa. atau seorang pegawai kesatuan sekerja berdaftar yang diberikuasa secara bertulis oleh orang berinsurans itu
+"Pertubuhan 111. (1) Dalam semua perkara mengenai
 
-<!-- marginal: atau -->
+<!-- marginal: benirusan -->
+
+faedah-faedah di bawah Akta ini, Pertubuhan
+
+<!-- marginal: dengan -->
 
 <!-- marginal: orang -->
 
-tanggungannya, atau seorang pengamal undang-undang yang mewakili
+boleh berurusan secara langsung dengan orang
 
-<!-- marginal: orang -->
+<!-- marginal: yang -->
 
-berinsurans itu atau
-
-<!-- marginal: orang-orang -->
-
-tanggungannya.
+berinsurans atau orang-orang tanggungannya, diberikuasa. atau seorang pegawai kesatuan sekerja berdaftar yang diberikuasa secara bertulis oleh orang berinsurans itu atau orang tanggungannya, atau seorang pengamal undang-undang yang mewakili orang berinsurans itu atau orang-orang tanggungannya.
 
 (2) Pertubuhan boleh enggan melayani apa- apa representasi yang dibuat oleh mana-mana orang lain.
 
-Faedah 112. (1) Jika seseorang mengalami hilang bagi dua upaya kekal akibat daripada dua kemalangan kemalangan atau lebih yang berturut-turut, dia tidaklah atau lebih yang ber- pada tempoh yang sama berhak menerima turut-turut. faedah hilang upaya bagi hilang upaya kekal yang lebih daripada kadar harian bagi hilang upaya langsung yang kekal.
+<!-- marginal: Faedah -->
+
+112. (1) Jika seseorang mengalami hilang
+
+<!-- marginal: bagi dua -->
+
+upaya kekal akibat daripada dua kemalangan kemalangan atau lebih yang berturut-turut, dia tidaklah
+
+<!-- marginal: atau lebih -->
+
+<!-- marginal: yang ber- -->
+
+pada tempoh yang sama berhak menerima
+
+<!-- marginal: turut-turut. -->
+
+faedah hilang upaya bagi hilang upaya kekal yang lebih daripada kadar harian bagi hilang upaya langsung yang kekal.
 
 <!-- page 26 -->
 
 (2) Menteri boleh membuat peraturan- peraturan bagi mengadakan peruntukan untuk menyelaraskan faedah hilang upaya yang kena dibayar berkenaan dengan kemalangan yang berturut-turut atau syarat-syarat bagi penerimaan faedah itu dalam mana-mana hal jika faedah hilang upaya itu telah digantikan dengan bayaran sekaligus.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
 43. Jadual Pertama kepada Akta ibu adalah dipinda—
 
 ## Jadual
 
-Pertama.
+<!-- marginal: Pertama. -->
 
 (a) dalam perenggan (1)—
 
@@ -806,13 +964,13 @@ Pertama.
 
 (b) dengan memotong perenggan (9), (10) dan (11).
 
-Pindaan
+<!-- marginal: Pindaan -->
 
 44. Jadual Ketiga kepada Akta ibu adalah dipinda—
 
 ## Jadual
 
-Ketiga.
+<!-- marginal: Ketiga. -->
 
 (a) dengan menggantikan perkataan-perkataan "Pertama, Kedua dan Ketiga" dalam perenggan 1 dengan perkataan-perkataan "Pertama dan Kedua";
 
@@ -830,77 +988,27 @@ Ketiga.
 
 (d) dengan memasukkan, selepas sahaja butiran 14 dalam perenggan 2, butiran baru 15, 16, 17, 18, 19, 20, 21, 22, 23 dan 24 yang berikut:
 
-"15. Apabila gaji $18.35
+"15. Apabila gaji $18.35 $5.25 $23.60 melebihi $1,000 tetapi tidak melebihi $1,100
 
-<!-- marginal: $5.25 -->
+16. Apabila gaji $20.15 $5.75 $25.90 melebihi $1,100 tetapi tidak melebihi $1,200
 
-<!-- marginal: $23.60 -->
+17. Apabila gaji $21.85 $6.25 $28.10 melebihi $1,200 tetapi tidak melebihi $1,300
 
-melebihi $1,000 tetapi tidak melebihi $1,100
+18. Apabila gaji $23.65 $6.75 $30.40 melebihi $1,300 tetapi tidak melebihi $1,400
 
-16. Apabila gaji $20.15
-
-<!-- marginal: $5.75 -->
-
-<!-- marginal: $25.90 -->
-
-melebihi $1,100 tetapi tidak melebihi $1,200
-
-17. Apabila gaji $21.85
-
-<!-- marginal: $6.25 -->
-
-<!-- marginal: $28.10 -->
-
-melebihi $1,200 tetapi tidak melebihi $1,300
-
-18. Apabila gaji $23.65
-
-<!-- marginal: $6.75 -->
-
-<!-- marginal: $30.40 -->
-
-melebihi $1,300 tetapi tidak melebihi $1,400
-
-19. Apabila gaji $25.35
-
-<!-- marginal: $7.25 -->
-
-<!-- marginal: $32.60 -->
-
-melebihi $1,400 tetapi tidak melebihi $1,500
+19. Apabila gaji $25.35 $7.25 $32.60 melebihi $1,400 tetapi tidak melebihi $1,500
 
 <!-- page 28 -->
 
-20. Apabila gaji $27.15 $7.75
+20. Apabila gaji $27.15 $7.75 $34.90 melebihi $1,500 tetapi tidak melebihi $1,600
 
-<!-- marginal: $34.90 -->
+21. Apabila gaji $28.85 $8.25 $37.10 melebihi $1.600 tetapi tidak melebihi $1,700
 
-melebihi $1,500 tetapi tidak melebihi $1,600
+22. Apabila gaji $30.65 $8.75 $39.40 melebihi $1,700 telapi tidak melebihi $1,800
 
-21. Apabila gaji $28.85 $8.25
+23. Apabila gaji $32.35 $9.25 $41.60 melebihi $1,800 tetapi tidak melebihi $1,900
 
-<!-- marginal: $37.10 -->
-
-melebihi $1.600 tetapi tidak melebihi $1,700
-
-22. Apabila gaji $30.65 $8.75
-
-<!-- marginal: $39.40 -->
-
-melebihi $1,700 telapi tidak melebihi $1,800
-
-23. Apabila gaji $32.35 $9.25
-
-<!-- marginal: $41.60 -->
-
-melebihi $1,800 tetapi tidak melebihi $1,900
-
-24. Apabila gaji $34.15 $9.75
-
-<!-- marginal: $43.90"; -->
-
-melebihi $1,900
+24. Apabila gaji $34.15 $9.75 $43.90"; melebihi $1,900
 
 (e) dengan memotong perenggan 3;
 
@@ -946,11 +1054,7 @@ melebihi $1,900
 
 (c) dengan memasukkan, selepas sahaja butiran 14 dalam perenggan 4, butiran-butiran baru 15, 16, 17, 18, 19, 20, 21, 22, 23 dan 24 yang berikut:
 
-"15. Apabila gaji $23.60
-
-<!-- marginal: $13.10 $1,050 -->
-
-melebihi $1,000 tetapi tidak melebihi $1,100
+"15. Apabila gaji $23.60 $13.10 $1,050 melebihi $1,000 tetapi tidak melebihi $1,100
 
 <!-- page 30 -->
 
@@ -972,13 +1076,15 @@ melebihi $1,000 tetapi tidak melebihi $1,100
 
 24. Apabila gaji $43.90 $24.40 $1,950". melebihi $1,900
 
-Pindaan
+<!-- marginal: Pindaan -->
 
 46. Jadual Ketujuh kepada Akta ibu adalah dipinda
 
 ## Jadual
 
-dalam perenggan 1— Ketujuh.
+dalam perenggan 1—
+
+<!-- marginal: Ketujuh. -->
 
 (a) dengan memotong subperenggan (f) dan (j); dan
 
@@ -996,11 +1102,7 @@ dalam perenggan 1— Ketujuh.
 
 (a) dengan menggantikan perkataan-perkataan "tiga puluh enam" dalam perenggan 2 dan subperenggan 1 perenggan 4 dengan perkataan- perkataan "dua puluh empat"; dan
 
-(b) dengan menggantikan proviso
-
-<!-- marginal: kepada -->
-
-subperenggan (1) perenggan 4 dengan yang berikut:
+(b) dengan menggantikan proviso kepada subperenggan (1) perenggan 4 dengan yang berikut:
 
 "Dengan syarat bahawa gaji bulanan purata minimum ialah tiga ratus empat puluh dua ringgit dan Japan puluh enam sen tertakluk kepada apa-apa amaun yang ditetapkan oleh Menteri dari semasa ke semasa melalui peraturan-peraturan.",
 
@@ -1022,19 +1124,27 @@ Kesepuluh yang berikut:
 
 ## LEMBAGA RAYUAN KENAIKAN PANGKAT
 
-(Seksyen 59v dan 59w) Kategori
+(Seksyen 59v dan 59w)
+
+<!-- marginal: Kategori -->
 
 ### Lembaga Kenaikan
 
 ### Lembaga Rayuan
 
-### Pegawai
+<!-- marginal: Pegawai -->
 
 Pangkat
 
 ### Kenaikan Pangkat
 
-1. Perkhidmatan Tiga orang anggota Lembaga Pengerusi Lembaga dalam Kumpulan termasuk Ketua Pengarah, ..... ... Pengerusi "A" salah seorang daripadanya Anggoia-anggota dilantik oleh Lembaga Lembaga menjadi Pengerusi ......... Anggota-anggota 2. Perkhidmatan Keiua Pengarah atau Pengerusi Jawatankuasa dalam Kumpulan wakilnya ...... Pengerusi Perjawatan ... Pengerusi "B" & "C" Ketua Bahagian atau Anggota-anggota Cawangan Pertubuhan Jawalankuasa yang dilantik oleh Perjawatan Ketua Pengarah ....... Anggota-anggota ......... Anggota Ketua Penolong Setiausaha Kementerian yang bertang- gungjawab bagi buruh dan dilantik oleh Ketua Setiausaha Kementerian yang sama .......Anggota
+1. Perkhidmatan Tiga orang anggota Lembaga Pengerusi Lembaga dalam Kumpulan termasuk Ketua Pengarah, ..... ... Pengerusi
+
+<!-- marginal: "A" -->
+
+salah seorang daripadanya Anggoia-anggota dilantik oleh Lembaga Lembaga menjadi Pengerusi ......... Anggota-anggota
+
+2. Perkhidmatan Keiua Pengarah atau Pengerusi Jawatankuasa dalam Kumpulan wakilnya ...... Pengerusi Perjawatan ... Pengerusi "B" & "C" Ketua Bahagian atau Anggota-anggota Cawangan Pertubuhan Jawalankuasa yang dilantik oleh Perjawatan Ketua Pengarah ....... Anggota-anggota ......... Anggota Ketua Penolong Setiausaha Kementerian yang bertang- gungjawab bagi buruh dan dilantik oleh Ketua Setiausaha Kementerian yang sama .......Anggota
 
 <!-- page 32 -->
 

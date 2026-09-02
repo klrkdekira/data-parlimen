@@ -8,27 +8,43 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran 3. Ketidakpakaian
 
-## Bahagian II
+## BAHAGIAN II
 
 ## LEMBAGA TEKNOLOGIS MALAYSIA
 
-4. Penubuhan Lembaga Teknologis Malaysia 5. Fungsi Lembaga 6. Kuasa Lembaga 7. Pewakilan fungsi dan kuasa Lembaga 8. Keanggotaan Lembaga 9. Meterai perbadanan 10. Tempoh jawatan 11. Elaun 12. Pembatalan pelantikan dan peletakan jawatan 13. Pengosongan jawatan 14.
+4. Penubuhan Lembaga Teknologis Malaysia 5. Fungsi Lembaga 6. Kuasa Lembaga 7. Pewakilan fungsi dan kuasa Lembaga 8. Keanggotaan Lembaga 9. Meterai perbadanan
+
+10. Tempoh jawatan
+
+11. Elaun
+
+12. Pembatalan pelantikan dan peletakan jawatan
+
+13. Pengosongan jawatan
+
+14.
 
 ## Jadual
 
 15. Penzahiran kepentingan
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PENDAFTARAN TEKNOLOGIS DAN JURUTEKNIK
 
-16. Perkhidmatan teknikal dan perkhidmatan teknologi 17. Daftar 18. Pelantikan dan kewajipan Pendaftar 19. Teknologis Profesional
+16. Perkhidmatan teknikal dan perkhidmatan teknologi
+
+17. Daftar
+
+18. Pelantikan dan kewajipan Pendaftar
+
+19. Teknologis Profesional
 
 <!-- page 2 -->
 
@@ -46,7 +62,7 @@
 
 26. Pemberitahuan pertukaran alamat
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PENGGANTUNGAN, PEMBATALAN PENDAFTARAN, DSB.
 
@@ -58,7 +74,7 @@
 
 30. Kemasukan semula
 
-## Bahagian V
+## BAHAGIAN V
 
 ## KEWANGAN
 
@@ -82,7 +98,7 @@
 
 40. Akaun dan laporan
 
-## Bahagian VI
+## BAHAGIAN VI
 
 AM
 
@@ -96,7 +112,7 @@ AM
 
 44. Rayuan 45. Jawatankuasa Penyiasat dan kuasanya 46. Penalti kerana memperoleh pendaftaran dengan dakwaan palsu, dsb. 47. Indemniti 48. Pekhidmat awam 49. Obligasi kerahsiaan 50. Kuasa untuk membuat peraturan-peraturan
 
-## Jadual
+## JADUAL
 
 <!-- page 5 -->
 
@@ -106,7 +122,7 @@ Suatu Akta untuk mengadakan peruntukan bagi penubuhan Lembaga Teknologis Malaysi
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -154,7 +170,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (2) Walau apa pun subseksyen (1), peruntukan Akta ini tidak terpakai bagi profesional yang berdaftar di bawah mana-mana undang-undang bertulis lain yang berkuat kuasa pada masa Akta ini berkuat kuasa yang berhubungan dengan pendaftaran profesional.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## LEMBAGA TEKNOLOGIS MALAYSIA
 
@@ -398,7 +414,7 @@ apabila perkara itu dibincangkan atau diputuskan.
 
 (e) mana-mana perbadanan mengikut pengertian Akta Syarikat 1965 [Akta 125], yang anggota itu atau mana-mana penamanya atau seseorang anggota keluarganya ialah seorang pengarah atau mempunyai pemegangan syer yang substansial dalam perbadanan itu.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PENDAFTARAN TEKNOLOGIS DAN JURUTEKNIK
 
@@ -562,7 +578,7 @@ boleh memohon untuk didaftarkan sebagai Juruteknik Bertauliah.
 
 26. Tiap-tiap orang berdaftar hendaklah memberitahu secara bertulis kepada Pendaftar mengenai apa-apa pertukaran alamatnya.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PENGGANTUNGAN, PEMBATALAN PENDAFTARAN, DSB.
 
@@ -638,7 +654,7 @@ boleh memohon untuk didaftarkan sebagai Juruteknik Bertauliah.
 
 (2) Selepas perintah kemasukan semula dibuat, Pendaftar hendaklah mengeluarkan suatu perakuan pendaftaran kepada orang berdaftar.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## KEWANGAN
 
@@ -728,7 +744,7 @@ bahawa jumlah hasil Lembaga mencukupi untuk membayar semua jumlah wang yang bole
 
 (3) Akta Badan Berkanun (Akaun dan Laporan Tahunan) 1980 [Akta 240] hendaklah terpakai bagi Lembaga.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 AM
 
@@ -858,7 +874,7 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi 
 
 (2) Peraturan-Peraturan yang dibuat di bawah seksyen ini boleh termasuk peruntukan bagi menetapkan fi atau caj bagi apa-apa perkhidmatan yang disediakan dalam pelaksanaan fungsi Lembaga.
 
-## Jadual
+## JADUAL
 
 [Seksyen 14]
 
@@ -918,7 +934,7 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi 
 
 Akta Teknologis dan Juruteknik 2014 (“Akta”) sebagaimana yang dicadangkan oleh Rang Undang-Undang ini bertujuan untuk menubuhkan suatu pertubuhan perbadanan dengan nama “Lembaga Teknologis Malaysia” (“Lembaga”) untuk mengadakan peruntukan bagi pendaftaran teknologis dan juruteknik dan bagi perkara yang berkaitan.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I Akta memperkatakan perkara permulaan.
 
@@ -928,7 +944,7 @@ Fasal 2 mengandungi takrif perkataan dan ungkapan tertentu yang digunakan dalam 
 
 Fasal 3 menyatakan bahawa peruntukan Akta ini hendaklah menjadi tambahan kepada, dan tidak mengurangkan, peruntukan mana-mana undang- undang bertulis lain yang berhubungan dengan pendaftaran profesional.
 
-## Bahagian II
+## BAHAGIAN II
 
 3. Bahagian II mengandungi peruntukan yang berhubungan dengan penubuhan Lembaga.
 
@@ -956,7 +972,7 @@ Fasal 14 mengadakan peruntukan bagi tatacara yang hendaklah dipatuhi oleh anggot
 
 Fasal 15 menghendaki seseorang anggota Lembaga dan anggota majlis atau jawatankuasa yang ditubuhkan oleh Lembaga untuk menzahirkan kepentingannya dalam mana-mana perkara yang sedang dibincangkan oleh Lembaga, majlis atau jawatankuasa.
 
-## Bahagian III
+## BAHAGIAN III
 
 4. Bahagian III mengandungi peruntukan yang berhubungan dengan pendaftaran teknologis dan juruteknik.
 
@@ -984,7 +1000,7 @@ Fasal 25 mengadakan peruntukan bagi pembaharuan pendaftaran Teknologis Profesion
 
 Fasal 26 menghendaki orang berdaftar untuk memberitahu Pendaftar mengenai apa-apa pertukaran alamatnya.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 5. Bahagian IV mengandungi peruntukan yang berhubungan dengan penggantungan dan pembatalan pendaftaran, pemotongan daripada dan kemasukan semula ke dalam Daftar.
 
@@ -996,7 +1012,7 @@ Fasal 29 mengadakan peruntukan bagi penyerahan balik perakuan pendaftaran yang d
 
 Fasal 30 mengadakan peruntukan bagi kemasukan semula orang berdaftar ke dalam Daftar.
 
-## Bahagian V
+## BAHAGIAN V
 
 6. Bahagian V mengandungi peruntukan kewangan.
 
@@ -1022,7 +1038,7 @@ Fasal 39 menyatakan bahawa tahun kewangan Lembaga hendaklah bermula pada 1 Janua
 
 Fasal 40 menghendaki Lembaga untuk menyimpan akaun Kumpulan Wang dan laporan aktiviti Lembaga yang sepatutnya. Lembaga dikehendaki untuk mengemukakan penyata akaun dan penyata aktiviti untuk disahkan oleh Ketua Audit Negara dan suatu salinan Laporan Ketua Audit Negara bagi tahun kewangan hendaklah dihantar kepada Menteri yang kemudiannya akan menyebabkan penyata dan laporan itu dibentangkan di hadapan kedua-dua Dewan Parlimen. Fasal ini juga memperuntukkan bahawa Akta Badan Berkanun (Akaun dan Laporan Tahunan) 1980 [Akta 240] hendaklah terpakai bagi Lembaga.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 7. Bahagian VI mengandungi peruntukan am.
 

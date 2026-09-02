@@ -1,0 +1,211 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-32-1993",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@/~cl_6"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Perihal Dagangan (Pindaan) 1993"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Perihal Dagangan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "(Pindaan) 1993 dan hendaklah mula berkuatkuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Perihal Dagangan 1972, yang disebut \"Akta"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ibu\" dalam Akta ini, adalah dipinda dalam teks bahasa kebangsaan dengan menggantikan \"penunjokan\" dan \"penunjukan\" di mana jua terdapat dengan perkataan \"petunjuk\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 2 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif \"kapal\" takrif yang berikut: \"logam berharga\" ertinya emas, perak atau platinum dalam bentuk tulen atau aloi emas, perak atau platinum;'; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah pada penghujung takrif \"premis\" dengan koma bertitik dan memasukkan, selepas takrif itu, takrif yang berikut: ' \"standard ketulenan\", berhubung dengan artikel yang dibuat daripada logam berharga, ertinya bilangan bahagian mengikut berat emas, perak atau platinum tulen dalam seribu bahagian mengikut berat logam berharga;."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 4(1) Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan perenggan (e) dengan perenggan yang \"(e) standard ketulenan artikel-artikel yang dibuat daripada logam berharga;\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@/~cl_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@/~cl_5__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@/~cl_5__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seksyen 21 seksyen yang berikut: 2lA. (1) Pengawal atau Timbalan Pengawal boleh mengkompaun apa-apa kesalahan di bawah Akta ini atau mana-mana peraturan yang dibuat di bawahnya yang ditetapkan sebagai kesalahan boleh kompaun dengan membuat suatu tawaran bertulis, kepada orang yang disyaki dengan munasabahnya telah melakukan kesalahan itu, untuk meng- kompaunkan kesalahan itu apabila dibayar kepada Pengawal atau Timbalan Pengawal apa-apa jumlah wang dalam masa yang dinyatakan dalam tawaran itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@/~cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sesuatu tawaran di bawah seksyen kecil (1) boleh dibuat pada bila-bila masa selepas kesalahan itu dilakukan, tetapi sebelum apa- apa pendakwaan baginya dimulakan, dan jika amaun yang ditentukan dalam tawaran itu tidak dibayar dalam masa yang ditentukan dalam tawaran itu atau dalam apa-apa tempoh lanjutan yang diberikan oleh Pengawal atau Timbalan Pengawal, pendakwaan bagi kesalahan itu boleh dimulakan pada bila-bila masa selepas itu terhadap orang yang kepadanya tawaran itu dibuat. PERIHAL DAGANGAN (PINDAAN) 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@/~cl_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika sesuatu kesalahan telah dikompaun- kan di bawah seksyen kecil (1), tiada pendakwaan boleh selepas itu dimulakan berkenaan dengan kesalahan itu terhadap orang yang kepadanya tawaran untuk meng- kompaunkan kesalahan itu dibuat dan jika apa- apa barang atau dokumen telah diambil milik di bawah Akta ini atau mana-mana peraturan yang dibuat di bawahnya barang-barang atau dokumen itu boleh dilepaskan, tertakluk kepada apa-apa syarat yang dikenakan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@/~cl_5__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kuasa untuk mengkompaun kesalahan di bawah seksyen kecil (1) hendaklah dijalan- kan oleh Pengawal atau Timbalan Pengawal sendiri.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@/~cl_6__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 38A Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (b) perenggan yang berikut: \"(ba) menetapkan fee yang dikehendaki dikenakan berkenaan dengan penggunaan apa-apa perbahasaan atau petunjuk yang digunakan dalam perjalanan sesuatu perdagangan atau perniagaan berhubungan dengan harga barang-barang atau bayaran atau kadar bagi perkhidmatan, tempat tinggal atau kemudahan;\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah di penghujung perenggan (d) dengan koma bertitik; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (d) perenggan yang berikut: \"(e) menetapkan standard ketulenan artikel-artikel yang dibuat daripada logam berharga dan mengawalselia atau mengawal penggunaan apa-apa perbahasaan atau petunjuk yang digunakan dalam perjalanan sesuatu perdagangan atau perniagaan ber- hubung dengan standard ketulenan sedemikian; (f) menetapkan kesalahan-kesalahan di bawah Akta ini atau peraturan- peraturan yang dibuat di bawahnya yang boleh dikompaun, kompaun itu dan prosedur yang hendak diikuti dalam mengkompaunkan kesalahan-kesalahan.\"."
+      }
+    }
+  ]
+}

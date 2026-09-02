@@ -10,7 +10,9 @@
 
 ## PRELIMINARY
 
-1. Short title and commencement. 2. Interpretation.
+1. Short title and commencement.
+
+2. Interpretation.
 
 ## PART II
 
@@ -18,7 +20,15 @@
 
 ## IN OPERATING COMPANY
 
-3. Vesting provisions. 4. Initial Government holding in the operating company. 5. Government investment in securities of the operating company. 6. Appointment of Government representatives on the board of the operating company. 7. Financial structure of the operating company.
+3. Vesting provisions.
+
+4. Initial Government holding in the operating company.
+
+5. Government investment in securities of the operating company.
+
+6. Appointment of Government representatives on the board of the operating company.
+
+7. Financial structure of the operating company.
 
 ## PART
 
@@ -76,7 +86,11 @@ Commissioner Act 1957;
 
 "Minister" means the Minister for the time being charged with the responsibility for civil aviation;
 
-"operating company" means the company nominated and licensed under subsection 2 4 A ( l) of the Civil Act 3. Aviation Act 1969;
+"operating company" means the company nominated and licensed under subsection 2 4 A ( l) of the Civil
+
+<!-- marginal: Act 3. -->
+
+Aviation Act 1969;
 
 "property" includes all property, movable or immovable, and all estates, interests, easements and rights, whether equitable or legal, in, to or out of property, choses-in-action, money and goodwill; and "vested" in relation to property includes rights to property which are future or contingent and rights in reversion and remainder;
 
@@ -92,7 +106,13 @@ II
 
 ## IN OPERATING COMPANY
 
-Vesting 3. (1) Subject to this Act, the Minister may, from time to provisions. time, by order published in the Gazette, appoint a vesting date and on such date all property, rights or liabilities of the Government of Malaysia relating to civil aviation specified by the Minister in such order shall by virtue of this Act be transferred to and vested in the operating company without any conveyance, assignment or transfer whatever.
+<!-- marginal: Vesting -->
+
+3. (1) Subject to this Act, the Minister may, from time to
+
+<!-- marginal: provisions. -->
+
+time, by order published in the Gazette, appoint a vesting date and on such date all property, rights or liabilities of the Government of Malaysia relating to civil aviation specified by the Minister in such order shall by virtue of this Act be transferred to and vested in the operating company without any conveyance, assignment or transfer whatever.
 
 (2) Every property vested by subsection (1) in the operating company shall be so vested in the company for the like title, estate or interest and on the like tenure as the same was vested or held immediately before the vesting date.
 
@@ -116,7 +136,9 @@ the company or the Government of Malaysia to give notice to the person bound by 
 
 company, the provisions in Part Thirty of the National Land Code shall, for the purpose of effecting the registration of such vesting, apply to the operating company as if it were a public authority.
 
-(8) On and after the vesting date, any agreement relating to any property, rights and liabilities transferred to and vested in the operating company under subsection (1) to which the Government of Malaysia was a party immediately before the vesting date, whether in writing or not, and whether or not of such a nature that rights and liabilities thereunder could be assigned by the Government of Malaysia, shall have effect as if the company had been a party to the agreement.
+(8) On and after the vesting date, any agreement relating to any property, rights and liabilities transferred to and vested in the operating company under subsection
+
+(1) to which the Government of Malaysia was a party immediately before the vesting date, whether in writing or not, and whether or not of such a nature that rights and liabilities thereunder could be assigned by the Government of Malaysia, shall have effect as if the company had been a party to the agreement.
 
 <!-- marginal: Initial -->
 
@@ -142,21 +164,47 @@ section 3, the company shall issue such securities of the company as the Ministe
 
 (a) shall be of such nominal value as the the Minister of Finance may direct; and
 
-(b) shall be issued as fully paid and treated for the Act 125. purposes of the Companies Act 1965 as if they had been paid up by virtue of the payment to the operating company of their nominal value.
+(b) shall be issued as fully paid and treated for the
+
+<!-- marginal: Act 125. -->
+
+purposes of the Companies Act 1965 as if they had been paid up by virtue of the payment to the operating company of their nominal value.
 
 (4) The Minister of Finance may, after consultation with the Minister, dispose of any securities issued or of any rights to securities initially allotted to the Corporation in pursuance of this section.
 
 (5) Any dividends or other sums received by the Corporation in right of, on the disposal of or otherwise in connection with any securities or rights acquired by virtue of this section shall be paid into the Consolidated Fund.
 
-Government 5. (1) The Minister of Finance may, after consultation investment with the Minister, at any time, acquire— in securities of the
+<!-- marginal: Government -->
 
-(a) securities of the operating company or of any operating company. subsidiary of the operating company; or
+5. (1) The Minister of Finance may, after consultation
+
+<!-- marginal: investment -->
+
+with the Minister, at any time, acquire—
+
+<!-- marginal: in securities -->
+
+<!-- marginal: of the -->
+
+(a) securities of the operating company or of any
+
+<!-- marginal: operating -->
+
+<!-- marginal: company. -->
+
+subsidiary of the operating company; or
 
 (b) rights to subscribe for any such securities.
 
 (2) The Minister of Finance may, after consultation with the Minister, dispose of any securities or rights acquired under this section.
 
-(3) Any expenses incurred by the Corporation in consequence of the provisions of this section shall be treated as investments and be authorised under Act 61. subparagraph 8 (3) (a) (iv) of the Financial Procedure Act 1957.
+(3) Any expenses incurred by the Corporation in consequence of the provisions of this section shall be treated as investments and be authorised under
+
+<!-- marginal: Act 61. -->
+
+subparagraph 8 (3) (a) (iv) of the Financial Procedure Act
+
+1957.
 
 <!-- page 7 -->
 
@@ -208,7 +256,23 @@ be directors on the board of the company.
 
 (5) Nothing in this section shall be construed so as to affect any power, right or privilege which may be conferred on the Government of Malaysia by the constituent documents of the operating company.
 
-Financial 7. (1) If the Minister of Finance, after consultation with structure the Minister, so directs at any time before the operating of the operating company ceases to be wholly owned by the Government of company. Malaysia, such sum, not exceeding the accumulated realised profits of the company, as may be specified in the direction shall be carried by the company to a reserve, which in this section is referred to as "the statutory reserve".
+<!-- marginal: Financial -->
+
+7. (1) If the Minister of Finance, after consultation with
+
+<!-- marginal: structure -->
+
+the Minister, so directs at any time before the operating
+
+<!-- marginal: of the -->
+
+<!-- marginal: operating -->
+
+company ceases to be wholly owned by the Government of
+
+<!-- marginal: company. -->
+
+Malaysia, such sum, not exceeding the accumulated realised profits of the company, as may be specified in the direction shall be carried by the company to a reserve, which in this section is referred to as "the statutory reserve".
 
 (2) The statutory reserve may only be applied by the operating company in paying up unissued shares of the company to be alloted to members of the company as fully- paid bonus shares.
 
@@ -220,7 +284,9 @@ Financial 7. (1) If the Minister of Finance, after consultation with structure t
 
 ## PROVISIONS RELATING TO STAFF
 
-Staff. 8. (1) The operating company shall accept into its employment on a date to be appointed by the Minister by notification in the Gazette every person who immediately before that date is a member of the staff of the Department of Civil Aviation, Malaysia and who was given an option by the Government of Malaysia and has opted to serve as an employee of such company.
+<!-- marginal: Staff. -->
+
+8. (1) The operating company shall accept into its employment on a date to be appointed by the Minister by notification in the Gazette every person who immediately before that date is a member of the staff of the Department of Civil Aviation, Malaysia and who was given an option by the Government of Malaysia and has opted to serve as an employee of such company.
 
 <!-- page 9 -->
 

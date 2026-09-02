@@ -16,7 +16,29 @@
 
 ## PINDAAN KEPADA AKTA CUKAI PENDAPATAN 1967
 
-3. Permulaan kuat kuasa pindaan kepada Akta Cukai Pendapatan 1967 4. Pindaan seksyen 2 5. Pindaan seksyen 4A 6. Pindaan seksyen 12 7. Pindaan seksyen 34 8. Pindaan seksyen 34A 9. Pindaan seksyen 39 10. Peruntukan khas yang berhubungan dengan seksyen 43 11. Pindaan seksyen 44 12. Pindaan seksyen 44A 13. Peruntukan khas yang berhubungan dengan seksyen 44A 14. Pindaan seksyen 46 15. Pindaan seksyen 49 16. Pindaan seksyen 60 17. Pindaan seksyen 60A 18. Pindaan seksyen 60AA 19. Pindaan seksyen 60b 20. Pindaan seksyen 140A
+3. Permulaan kuat kuasa pindaan kepada Akta Cukai Pendapatan 1967 4. Pindaan seksyen 2 5. Pindaan seksyen 4A 6. Pindaan seksyen 12 7. Pindaan seksyen 34 8. Pindaan seksyen 34A 9. Pindaan seksyen 39
+
+10. Peruntukan khas yang berhubungan dengan seksyen 43
+
+11. Pindaan seksyen 44
+
+12. Pindaan seksyen 44A
+
+13. Peruntukan khas yang berhubungan dengan seksyen 44A
+
+14. Pindaan seksyen 46
+
+15. Pindaan seksyen 49
+
+16. Pindaan seksyen 60
+
+17. Pindaan seksyen 60A
+
+18. Pindaan seksyen 60AA
+
+19. Pindaan seksyen 60b
+
+20. Pindaan seksyen 140A
 
 <!-- page 10 -->
 
@@ -40,7 +62,7 @@
 
 30. Peruntukan khas yang berhubungan dengan perenggan 5A Jadual 7b
 
-## bAb III
+## BAB III
 
 ## PINDAAN KEPADA AKTA PENGGALAKAN PELABURAN 1986
 
@@ -84,21 +106,57 @@
 
 <!-- page 11 -->
 
-50. Pindaan seksyen 29F 51. Peruntukan khas yang berhubungan dengan seksyen 29F 52. Pindaan seksyen 29g 53. Peruntukan khas yang berhubungan dengan seksyen 29g 54. Pindaan seksyen 29h 55. Peruntukan khas yang berhubungan dengan seksyen 29h 56. Pindaan seksyen 29j 57. Pindaan seksyen 29k 58. Pindaan seksyen 29L 59. Pindaan seksyen 29N 60. Pindaan seksyen 29o 61. Peruntukan khas yang berhubungan dengan seksyen 29j, 29k, 29L, 29N dan 29o 62. Pindaan seksyen 30A
+50. Pindaan seksyen 29F
 
-## bAb IV
+51. Peruntukan khas yang berhubungan dengan seksyen 29F
+
+52. Pindaan seksyen 29g
+
+53. Peruntukan khas yang berhubungan dengan seksyen 29g
+
+54. Pindaan seksyen 29h
+
+55. Peruntukan khas yang berhubungan dengan seksyen 29h
+
+56. Pindaan seksyen 29j
+
+57. Pindaan seksyen 29k
+
+58. Pindaan seksyen 29L
+
+59. Pindaan seksyen 29N
+
+60. Pindaan seksyen 29o
+
+61. Peruntukan khas yang berhubungan dengan seksyen 29j, 29k, 29L, 29N dan 29o
+
+62. Pindaan seksyen 30A
+
+## BAB IV
 
 ## PINDAAN KEPADA AKTA SETEM 1949
 
-63. Permulaan kuat kuasa pindaan kepada Akta Setem 1949 64. Pindaan seksyen 2 65. Pindaan seksyen 9 66. Pindaan seksyen 15 67. Pindaan seksyen 15A 68. Pindaan Jadual Pertama
+63. Permulaan kuat kuasa pindaan kepada Akta Setem 1949
 
-## bAb V
+64. Pindaan seksyen 2
+
+65. Pindaan seksyen 9
+
+66. Pindaan seksyen 15
+
+67. Pindaan seksyen 15A
+
+68. Pindaan Jadual Pertama
+
+## BAB V
 
 ## PINDAAN KEPADA AKTA CUKAI KEUNTUNGAN HARTA TANAH 1976
 
-69. Permulaan kuat kuasa pindaan kepada Akta Cukai Keuntungan Harta Tanah 1976 70. Pindaan Jadual 5
+69. Permulaan kuat kuasa pindaan kepada Akta Cukai Keuntungan Harta Tanah 1976
 
-## bAb VI
+70. Pindaan Jadual 5
+
+## BAB VI
 
 ## PINDAAN KEPADA AKTA CUKAI AKTIVITI PERNIAGAAN LABUAN 1990
 
@@ -128,7 +186,7 @@
 
 82. Pindaan seksyen 25
 
-## bAb VII
+## BAB VII
 
 ## PINDAAN KEPADA AKTA CUKAI PERKHIDMATAN 2018
 
@@ -602,7 +660,7 @@ Notwithstanding Part I and Part II, income tax shall be charged on the chargeabl
 
 (d) dengan menggantikan Bahagian XII dengan Bahagian yang berikut:
 
-“PArt XII
+## “PART XII
 
 Notwithstanding Part I and Part II, income tax shall be charged on the chargeable income of a family fund referred to in section 60 A A, other than income arising from a family re-takaful business of a resident or non-resident operator at the rate of .. .. .. .. .. .. ..8 per cent.”.
 
@@ -698,7 +756,7 @@ mentioned year of assessment”), shall only be given to that person in accordan
 
 <!-- page 34 -->
 
-## bAb III
+## BAB III
 
 ## PINDAAN KEPADA AKTA PENGGALAKAN PELABURAN 1986
 
@@ -1016,9 +1074,13 @@ hendaklah hanya diberikan kepada syarikat itu mengikut subseksyen (4) bagi tempo
 
 ### Peruntukan khas yang berhubungan dengan seksyen 29j, 29k,
 
-### 29l, 29n dan 29o
+## 29L, 29N DAN 29O
 
-61. Walau apa pun subseksyen 29j(4), 29k(4), 29L(2), (3), (4), (5) dan (6), 29N(4) dan 29o(6) dan (7) Akta ibu dan subseksyen 29j(4), 29k(4), 29L(2), (3), (4), (5) dan (6), 29N(4) dan 29o(6) dan (7) sebagaimana yang dipinda masing-masing oleh seksyen 56, 57, 58, 59 dan 60 Akta ini, mana-mana amaun elaun yang tidak boleh diberikan di bawah subseksyen 29j(4), 29k(4), 29L(2), (3), (4), (5) dan (6), 29N(4) dan 29o(6) dan (7) sebelum permulaan kuat kuasa seksyen 56, 57, 58, 59 dan 60 Akta ini bagi tahun taksiran yang berkaitan dengan tempoh asas apabila tempoh lima tahun atau sepuluh tahun, mana-mana yang berkenaan, yang dinyatakan dalam perenggan 29j(3)(b), 29k(3)(b), subperenggan 29L(2)(a)(ii), 29N(3)(b) atau 29o(3)(b) berakhir—
+61. Walau apa pun subseksyen 29j(4), 29k(4), 29L(2), (3),
+
+(4), (5) dan (6), 29N(4) dan 29o(6) dan (7) Akta ibu dan subseksyen 29j(4), 29k(4), 29L(2), (3), (4), (5) dan (6), 29N(4) dan 29o(6) dan (7) sebagaimana yang dipinda masing-masing oleh seksyen 56, 57, 58, 59 dan 60 Akta ini, mana-mana amaun elaun yang tidak boleh diberikan di bawah subseksyen 29j(4), 29k(4), 29L(2), (3),
+
+(4), (5) dan (6), 29N(4) dan 29o(6) dan (7) sebelum permulaan kuat kuasa seksyen 56, 57, 58, 59 dan 60 Akta ini bagi tahun taksiran yang berkaitan dengan tempoh asas apabila tempoh lima tahun atau sepuluh tahun, mana-mana yang berkenaan, yang dinyatakan dalam perenggan 29j(3)(b), 29k(3)(b), subperenggan 29L(2)(a)(ii), 29N(3)(b) atau 29o(3)(b) berakhir—
 
 (a) hendaklah hanya diberikan kepada syarikat itu mengikut subseksyen 29j(4), 29k(4), 29L(2), (3), (4), (5) dan (6), 29N(4) dan 29o(6) dan (7) Akta ibu, seolah-olah Akta ibu tidak dipinda, bagi tempoh tujuh tahun taksiran berturut-turut dan tempoh itu bermula sebaik selepas tahun taksiran 2018; dan
 
@@ -1030,7 +1092,7 @@ hendaklah hanya diberikan kepada syarikat itu mengikut subseksyen (4) bagi tempo
 
 <!-- page 50 -->
 
-## bAb IV
+## BAB IV
 
 ## PINDAAN KEPADA AKTA SETEM 1949
 
@@ -1148,43 +1210,19 @@ hendaklah hanya diberikan kepada syarikat itu mengikut subseksyen (4) bagi tempo
 
 <!-- marginal: ad -->
 
-<!-- marginal: The -->
+The
 
 <!-- marginal: same -->
 
-certain period so that
-
-<!-- marginal: valorem -->
+certain period so that valorem
 
 <!-- marginal: duty -->
 
-the total amount to be
-
-<!-- marginal: as a charge or -->
-
-ultimately payable can
-
-<!-- marginal: mortgage for such -->
-
-be ascertained
-
-<!-- marginal: total amount. -->
+the total amount to be as a charge or ultimately payable can mortgage for such be ascertained total amount.
 
 (b) for the term of life or any other indefinite period—
 
-for every RM100
-
-<!-- marginal: RM1.00 -->
-
-and also for any fractional part of RM100 of
-
-<!-- marginal: the -->
-
-annuity or
-
-<!-- marginal: sum -->
-
-periodically
+for every RM100 RM1.00 and also for any fractional part of RM100 of the annuity or sum periodically
 
 <!-- marginal: ”; dan -->
 
@@ -1212,7 +1250,7 @@ payable
 
 (e) dengan memotong butiran 53.
 
-## bAb V
+## BAB V
 
 ## PINDAAN KEPADA AKTA CUKAI KEUNTUNGAN HARTA
 
@@ -1236,7 +1274,7 @@ payable
 
 (c) dalam Bahagian III, dalam ruang “Kadar cukai” dalam butiran 2, dengan menggantikan perkataan “5 peratus” dengan “10 peratus”.
 
-## bAb VI
+## BAB VI
 
 ## PINDAAN KEPADA AKTA CUKAI AKTIVITI PERNIAGAAN
 
@@ -1642,7 +1680,7 @@ Pindaan ini berkuat kuasa bagi tahun taksiran 2019 dan tahun-tahun taksiran yang
 
 komitmen Malaysia di bawah Forum OECD mengenai Harmful Tax Practices
 
-## (FHTP).
+(FHTP).
 
 Pindaan ini berkuat kuasa bagi tahun taksiran 2019 dan tahun-tahun taksiran yang berikutnya.
 

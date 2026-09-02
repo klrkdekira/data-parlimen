@@ -1,0 +1,320 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-62-2024",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_8"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "BERNAMA (Amendment) Bill 2024"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the BERNAMA (Amendment) Act 2024."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The BERNAMA Act 1967 [Act 780], which is referred to as the “principal Act” in this Act, is amended in section 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, in the definition of “Lembaga”, by substituting for the full stop at the end of the definition a semicolon; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “Board” the following definition: ‘ “media organization” means any entity carrying on activity of dissemination of news or news material through newspapers, publications, radio, television, or any other forms of mass communication, including electronic or digital platforms;’. Amendment of section 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 7 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (2)(c), by substituting for the words “proprietors of newspapers in Malaysia who” the words “media organizations in Malaysia which”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4), by substituting for the words “proprietors of newspapers in Malaysia who” the words “media organizations in Malaysia which”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (5), by substituting for the words “proprietors of newspapers in Malaysia who” the words “media organizations in Malaysia which”. Amendment of section 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 10(b) of the principal Act is amended by substituting for the words “newspaper, radio or television subscriber” the word “subscriber”. Amendment of section 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 11(1)(c) of the principal Act is amended by substituting for the words “newspapers in Malaysia” the words “media organizations in Malaysia which are subscribers to BERNAMA”. Substitution of section 21"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 21 the following section: “Subscribers 21. The following classes of subscribers are entitled to enter into arrangements to have the services of BERNAMA: (a) media organizations; and (b) any institution, body, organization, individual or any other subscribers, as may be authorized by the Board.”. Amendment of section 25"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 25 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words “newspapers who” the words “media organizations which”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the word “newspaper” the words “media organization”. Amendment of Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_8__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Schedule to the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_8__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_8__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_8__para_a__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_8__para_a__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Part I—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_8__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_8__para_a__subpara_i__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_8__para_a__subpara_i__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_8__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 1—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_8__para_a__subpara_i__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_8__para_a__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subparagraph (2) the following subparagraph: “(2) The members of the Board representing the media organizations shall hold office as representatives of their media organizations.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_8__para_a__subpara_i__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_8__para_a__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subparagraph (3) the following subparagraph: “(3) Four members of the Board representing the Government of Malaysia shall be the representatives from the Ministry charged with the responsibility for communications and the Ministry charged with the responsibility for foreign affairs.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_8__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_8__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsubparagraph 3(2)(a) the following subsubparagraph: “(a) a member representing a media organization, such member of the Board shall vacate his office if he ceases to be associated with the media organization which he has represented, or on the media organization he has represented ceasing to be a subscriber to BERNAMA; and”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_8__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_8__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subparagraph 4(1) the following subparagraph: “(1) The following procedures shall be adopted for filing vacancies in the Board arising from any of the reasons enumerated in paragraph 3: (a) in the case of a member representing the media organization, the appointment for the purpose of filling any vacancy shall be made on the recommendation of the media organization whose representative has vacated his post; and (b) in the case of a vacancy arising through a media organization whose representative is represented on the Board ceasing to be a subscriber to BERNAMA, the remaining media organizations which are subscribers to BERNAMA shall make a recommendation Yang di-Pertuan Agong.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_8__para_a__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_8__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph 5(4), by substituting for the words “proprietors of newspapers” the words “media organizations”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Part II, in subparagraph 3(2), by substituting for the words “ a newspaper, radio or television subscriber” the words “a subscriber”."
+      }
+    }
+  ]
+}

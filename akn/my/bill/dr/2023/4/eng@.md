@@ -4,13 +4,13 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Chapter I
+## CHAPTER I
 
 ## PRELIMINARY
 
 1. Short title 2. Amendment of Acts
 
-## Chapter II
+## CHAPTER II
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
@@ -34,15 +34,15 @@
 
 <!-- page 6 -->
 
-## Chapter III
+## CHAPTER III
 
-aMeNdMeNt tO the reaL prOpertY GaINS taX aCt 1976
+## AMENDMENT TO THE REAL PROPERTY GAINS TAX ACT 1976
 
 18. Commencement of amendment to the Real Property Gains Tax Act 1976
 
 19. Amendment of Schedule 2
 
-## Chapter IV
+## CHAPTER IV
 
 ## AMENDMENT TO THE STAMP ACT 1949
 
@@ -50,7 +50,7 @@ aMeNdMeNt tO the reaL prOpertY GaINS taX aCt 1976
 
 21. Amendment of First Schedule
 
-## Chapter V
+## CHAPTER V
 
 ## AMENDMENTS TO THE PETROLEUM (INCOME TAX) ACT 1967
 
@@ -76,7 +76,7 @@ An Act to amend the Income Tax Act 1967, the Real Property Gains Tax Act 1976, t
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Chapter I
+## CHAPTER I
 
 ## PRELIMINARY
 
@@ -90,7 +90,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 8 -->
 
-## Chapter II
+## CHAPTER II
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
@@ -130,13 +130,7 @@ basis year by that individual on his child who at any time in that basis year is
 
 Provided that—
 
-(a) the claim is evidenced by a receipt and certification issued by the medical practitioner
-
-<!-- marginal: that -->
-
-<!-- marginal: the -->
-
-assessment for the purpose of diagnosis was provided to the child and that the child is diagnosed with learning disability;
+(a) the claim is evidenced by a receipt and certification issued by the medical practitioner that the assessment for the purpose of diagnosis was provided to the child and that the child is diagnosed with learning disability;
 
 (b) the claim is evidenced by a receipt and certification issued by the allied health practitioner that the early intervention programme or rehabilitation treatment was provided to the child;
 
@@ -154,11 +148,7 @@ assessment for the purpose of diagnosis was provided to the child and that the c
 
 (v) down syndrome; and
 
-(vi) specific
-
-<!-- marginal: learning -->
-
-disability;
+(vi) specific learning disability;
 
 (d) the assessment for the purpose of diagnosis, early intervention programme and rehabilitation treatment are provided in Malaysia;
 
@@ -300,47 +290,13 @@ For every ringgit of the next 20,000
 
 <!-- page 15 -->
 
-For every ringgit of the next 30,000
-
-<!-- marginal: 19 per cent -->
-
-For every ringgit of the next 300,000
-
-<!-- marginal: 25 per cent -->
-
-For every ringgit of the next 200,000
-
-<!-- marginal: 26 per cent -->
-
-For every ringgit of the next 1,400,000
-
-<!-- marginal: 28 per cent -->
-
-For every ringgit exceeding 2,000,000
-
-<!-- marginal: 30 per cent”; -->
+For every ringgit of the next 30,000 19 per cent For every ringgit of the next 300,000 25 per cent For every ringgit of the next 200,000 26 per cent For every ringgit of the next 1,400,000 28 per cent For every ringgit exceeding 2,000,000 30 per cent”;
 
 (b) in paragraph 2a, by substituting for the chargeable income and rates of income tax the following chargeable income and rates of income tax:
 
-RM
+RM Rate of “Chargeable income income tax
 
-<!-- marginal: Rate of -->
-
-“Chargeable income
-
-<!-- marginal: income tax -->
-
-For every ringgit of the first 150,000
-
-<!-- marginal: 15 per cent -->
-
-For every ringgit of the next 450,000
-
-<!-- marginal: 17 per cent -->
-
-For every ringgit exceeding 600,000
-
-<!-- marginal: 24 per cent”; -->
+For every ringgit of the first 150,000 15 per cent For every ringgit of the next 450,000 17 per cent For every ringgit exceeding 600,000 24 per cent”;
 
 (c) in paragraph 2b—
 
@@ -360,21 +316,9 @@ RM
 
 <!-- marginal: Rate of -->
 
-“Chargeable income
+“Chargeable income income tax
 
-<!-- marginal: income tax -->
-
-For every ringgit of the first 150,000
-
-<!-- marginal: 15 per cent -->
-
-For every ringgit of the next 450,000
-
-<!-- marginal: 17 per cent -->
-
-For every ringgit exceeding 600,000
-
-<!-- marginal: 24 per cent”; -->
+For every ringgit of the first 150,000 15 per cent For every ringgit of the next 450,000 17 per cent For every ringgit exceeding 600,000 24 per cent”;
 
 (e) in paragraph 2e—
 
@@ -402,7 +346,7 @@ For every ringgit exceeding 600,000
 
 “(2) Notwithstanding subparagraph (1), the Minister may prescribe any other assets as assets which are excluded from the definition of “plant”.”.
 
-## Chapter III
+## CHAPTER III
 
 ## AMENDMENT TO THE REAL PROPERTY GAINS TAX ACT 1976
 
@@ -436,7 +380,7 @@ For every ringgit exceeding 600,000
 
 (b) in subparagraph 19(5), by inserting after the words “by the spouse” the words “or former spouse”.
 
-## Chapter IV
+## CHAPTER IV
 
 ## AMENDMENT TO THE STAMP ACT 1949
 
@@ -458,7 +402,7 @@ For every ringgit exceeding 600,000
 
 (c) in subitem 32(c), by inserting before the words “, pursuant to a factoring agreement” the words “or any statutory body, agency of the Government or of the State Government, or any company in which the Government or the State Government has interest, which provides financing to a small and medium enterprise”.
 
-## Chapter V
+## CHAPTER V
 
 ## AMENDMENTS TO THE PETROLEUM (INCOME TAX) ACT 1967
 
@@ -528,7 +472,7 @@ This Bill seeks to amend the Income Tax Act 1967 (“Act 53”), the Real Proper
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
-## Chapter II of this Bill seeks to amend the Income Tax Act 1967.
+Chapter II of this Bill seeks to amend the Income Tax Act 1967.
 
 2. Clause 4 seeks to amend section 46 of Act 53.
 
@@ -648,13 +592,17 @@ This amendment has effect for the year of assessment 2023 and subsequent years o
 
 ## AMENDMENT TO THE REAL PROPERTY GAINS TAX ACT 1976
 
-## Chapter III of this Bill seeks to amend the Real Property Gains Tax
-
-Act 1976.
+Chapter III of this Bill seeks to amend the Real Property Gains Tax Act 1976.
 
 16. Clause 19 seeks to amend paragraph 3 of Schedule 2 to Act 169.
 
-Subsubparagraph 19(a)(i)(B) seeks t o introduce new subsubsubparagraph 3(1)(b)(ia) into Act 169 to provide for the transfer of assets between former spouses pursuant to an order of any court in consequence of the dissolution or annulment of their marriage as one of the transactions in which disposal price of a chargeable asset is deemed equal to the acquisition price of the asset.
+Subsubparagraph 19(a)(i)(B) seeks
+
+<!-- marginal: t o -->
+
+<!-- marginal: introduce new -->
+
+subsubsubparagraph 3(1)(b)(ia) into Act 169 to provide for the transfer of assets between former spouses pursuant to an order of any court in consequence of the dissolution or annulment of their marriage as one of the transactions in which disposal price of a chargeable asset is deemed equal to the acquisition price of the asset.
 
 Subsubparagraph 19(a)(i)(C) seeks to amend subsubsubparagraph 3(1)(b)(ii) of Act 169 to provide that, in regard to the transfer of asset owned by a person mentioned in subsubsubparagraph 3(1)(b)(ii) of Act 169 to a company where the disposal price of a chargeable asset is deemed equal to the acquisition price of the asset in respect of the transaction, the company shall be incorporated in Malaysia.
 
@@ -662,7 +610,7 @@ These amendments come into operation on the coming into operation of this Act.
 
 ## AMENDMENT TO THE STAMP ACT 1949
 
-## Chapter IV of this Bill seeks to amend the Stamp Act 1949.
+Chapter IV of this Bill seeks to amend the Stamp Act 1949.
 
 17. Clause 21 seeks to amend the First Schedule to Act 378.
 
@@ -680,7 +628,7 @@ These amendments come into operation on the coming into operation of this Act.
 
 ## AMENDMENTS TO THE PETROLEUM (INCOME TAX) ACT 1967
 
-## Chapter V of this Bill seeks to amend the Petroleum (Income Tax) Act 1967.
+Chapter V of this Bill seeks to amend the Petroleum (Income Tax) Act 1967.
 
 18. Clause 23 seeks to amend section 30 of Act 543 to introduce a new subsection 30(1a) into Act 543 to provide that a chargeable person shall furnish its return under section 30 of Act 543 on an electronic medium or by way of an electronic transmission.
 

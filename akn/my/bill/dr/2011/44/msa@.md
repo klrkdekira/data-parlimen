@@ -18,7 +18,29 @@
 
 ## ADJUDIKASI PERTIKAIAN PEMBAYARAN
 
-5. Tuntutan pembayaran 6. Respons pembayaran 7. Hak untuk merujukkan pertikaian kepada adjudikasi 8. Pemulaan adjudikasi 9. Tuntutan adjudikasi 10. Respons adjudikasi 11. Jawapan adjudikasi 12. Adjudikasi dan keputusan 13. Kesan keputusan adjudikasi 14. Penyatuan prosiding adjudikasi 15. Keputusan adjudikasi yang diperoleh secara tidak wajar 16. Penggantungan keputusan adjudikasi 17. Penarikan balik dan permulaan semula prosiding adjudikasi 18. Kos prosiding adjudikasi 19. Fi dan perbelanjaan adjudikator, dsb. 20. Kerahsiaan adjudikasi
+5. Tuntutan pembayaran 6. Respons pembayaran 7. Hak untuk merujukkan pertikaian kepada adjudikasi 8. Pemulaan adjudikasi 9. Tuntutan adjudikasi
+
+10. Respons adjudikasi
+
+11. Jawapan adjudikasi
+
+12. Adjudikasi dan keputusan
+
+13. Kesan keputusan adjudikasi
+
+14. Penyatuan prosiding adjudikasi
+
+15. Keputusan adjudikasi yang diperoleh secara tidak wajar
+
+16. Penggantungan keputusan adjudikasi
+
+17. Penarikan balik dan permulaan semula prosiding adjudikasi
+
+18. Kos prosiding adjudikasi
+
+19. Fi dan perbelanjaan adjudikator, dsb.
+
+20. Kerahsiaan adjudikasi
 
 <!-- page 2 -->
 

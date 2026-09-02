@@ -54,17 +54,37 @@ is amended in section 3—
 
 <!-- page 2 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. Section 6 of the principal Act is amended— of section 6.
+4. Section 6 of the principal Act is amended—
+
+<!-- marginal: of section 6. -->
 
 (a) in subsection (1)— (i) in paragraph (a) by inserting after the word "thousand" the words "one hundred and fifty"; (ii) in paragraph (b) by substituting for the words "five hundred" the words "six hundred and fifty"; (iii) in paragraph (c) by substituting for the words "and fifty" the words "two hundred"; (iv) in paragraph (d) by inserting after the word "thousand" the words "one hundred and fifty"; and (v) in paragraph (e) by substituting for the words "two hundred and fifty" the words "four hundred"; and
 
 (b) in subsections (3) and (4) by inserting after the word "hundred" the words "and ninety".
 
-Payment of
+<!-- marginal: Payment of -->
 
-5. Notwithstanding section 7 of the principal Act, all salaries and salaries and allowances specified in the amendments to allowances notwith- the principal Act in sections 2, 3 and 4 and payable shall standing commence from 1 January 1995 or from the date of section 7. appointment or election, whichever is the later, of the Members of Parliament, the President or Deputy President of the Senate, the Speaker or Deputy Speaker of the House of Representatives, the Members of the Administration, the Leader or Deputy Leader of the House of Representatives or the Leader of the Opposition, as the case may be.
+5. Notwithstanding section 7 of the principal Act, all
+
+<!-- marginal: salaries and -->
+
+salaries and allowances specified in the amendments to
+
+<!-- marginal: allowances -->
+
+<!-- marginal: notwith- -->
+
+the principal Act in sections 2, 3 and 4 and payable shall
+
+<!-- marginal: standing -->
+
+commence from 1 January 1995 or from the date of
+
+<!-- marginal: section 7. -->
+
+appointment or election, whichever is the later, of the Members of Parliament, the President or Deputy President of the Senate, the Speaker or Deputy Speaker of the House of Representatives, the Members of the Administration, the Leader or Deputy Leader of the House of Representatives or the Leader of the Opposition, as the case may be.
 
 ## EXPLANATORY STATEMENT
 

@@ -92,7 +92,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/eng@/~cl_2",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (1)— \"(b) to collect and collate— (i) such information as the Director General thinks necessary to assist officers and valuers in the making of valuation; and ( i i) such information as the Director General thinks necessary on all or any property-related matters;\"; \"(bb) to provide information and advice to the Government and any State Government or any person on property-related matters; (bc) to provide education services, training services, research services and other services that are related to the functions of the Director General under this Act to the Government and any State Government or any person; and\";"
+        "@value": "in subsection (1)—"
       }
     },
     {
@@ -102,7 +102,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/eng@/~cl_2__para_a",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for paragraph (b) the following paragraph:"
+        "@value": "by substituting for paragraph (b) the following paragraph: \"(b) to collect and collate— (i) such information as the Director General thinks necessary to assist officers and valuers in the making of valuation; and ( i i) such information as the Director General thinks necessary on all or any property-related matters;\";"
       }
     },
     {
@@ -122,7 +122,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/eng@/~cl_2__para_a",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after paragraph (ba) the following paragraphs:"
+        "@value": "by inserting after paragraph (ba) the following paragraphs: \"(bb) to provide information and advice to the Government and any State Government or any person on property-related matters; (bc) to provide education services, training services, research services and other services that are related to the functions of the Director General under this Act to the Government and any State Government or any person; and\";"
       }
     },
     {

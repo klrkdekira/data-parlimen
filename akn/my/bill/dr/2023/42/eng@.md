@@ -6,35 +6,43 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Interpretation
 
-## Part II
+## PART II
 
 ## REGISTRATION
 
 3. Requirement for registration of tobacco product, etc. 4. Application for registration 5. Cancellation of registration 6. Register of tobacco product, etc.
 
-## Part III
+## PART III
 
 ## ADVERTISEMENT, PROMOTION AND SPONSORSHIP
 
 7. Prohibition on advertisement of tobacco product, etc. 8. Prohibition on advertisement of imitation of tobacco product, etc. 9. Prohibition on promotion or sponsorship of tobacco product, etc.
 
-## Part IV
+## PART IV
 
 ## CONTROL OF SALE
 
-10. Prohibition of sale of tobacco product, etc. 11. Prohibition of sale of imitation of tobacco product, etc. 12. Prohibition of tobacco product, etc., as a gift or prize 13. Prohibition of sale of tobacco product, etc., to minor
+10. Prohibition of sale of tobacco product, etc.
+
+11. Prohibition of sale of imitation of tobacco product, etc.
+
+12. Prohibition of tobacco product, etc., as a gift or prize
+
+13. Prohibition of sale of tobacco product, etc., to minor
+
+<!-- marginal: WJW23/1210 BI.indd 1 -->
 
 <!-- marginal: 24/11/2023 10:00 PM -->
 
 <!-- page 2 -->
 
-## Part V
+## PART V
 
 ## CONTROL OF PRICE, PACKAGING, LABELLING, MANUFACTURING, ETC.
 
@@ -42,7 +50,7 @@
 
 15. Packaging and labelling
 
-## Part VI
+## PART VI
 
 ## PROHIBITION OF SMOKING
 
@@ -52,7 +60,7 @@
 
 18. Duty of proprietor of the building, etc.
 
-## Part VII
+## PART VII
 
 ## LIABILITY OF MANUFACTURER, IMPORTER OR DISTRIBUTOR
 
@@ -72,7 +80,7 @@
 
 24. Appointment of authorized officers
 
-## Part IX
+## PART IX
 
 ## ENFORCEMENT
 
@@ -88,19 +96,61 @@
 
 <!-- page 3 -->
 
-29. Presumption 30. Power to open packages and examine tobacco product, etc. 31. Power to stop, search and seize conveyance 32. Search and seizure with warrant 33. Search and seizure without warrant 34. Access to recorded information, computerized data, etc. 35. Seizure of things, etc. 36. List of things seized 37. Temporary return of conveyance, etc. 38. Cost of holding seized tobacco product, etc. 39. Power to require attendance of person acquainted with case 40. Examination of person acquainted with case
+29. Presumption
 
-## Part X
+30. Power to open packages and examine tobacco product, etc.
+
+31. Power to stop, search and seize conveyance
+
+32. Search and seizure with warrant
+
+33. Search and seizure without warrant
+
+34. Access to recorded information, computerized data, etc.
+
+35. Seizure of things, etc.
+
+36. List of things seized
+
+37. Temporary return of conveyance, etc.
+
+38. Cost of holding seized tobacco product, etc.
+
+39. Power to require attendance of person acquainted with case
+
+40. Examination of person acquainted with case
+
+## PART X
 
 ## TRIALS AND PROCEEDINGS
 
-41. Prosecution 42. Advance notice of expert evidence in court 43. Jurisdiction to try offences 44. Protection of informer 45. Evidence of agent provocateur admissible 46. Non-disclosure of information 47. Power to order appearance in court
+41. Prosecution
 
-## Part XI
+42. Advance notice of expert evidence in court
+
+43. Jurisdiction to try offences
+
+44. Protection of informer
+
+45. Evidence of agent provocateur admissible
+
+46. Non-disclosure of information
+
+47. Power to order appearance in court
+
+## PART XI
 
 ## GENERAL
 
-48. Compounding of offences 49. Offence by body corporate 50. Protection against suit and legal proceedings 51. Indemnity
+48. Compounding of offences
+
+49. Offence by body corporate
+
+50. Protection against suit and legal proceedings
+
+51. Indemnity
+
+<!-- marginal: WJW23/1210 BI.indd 3 -->
 
 <!-- marginal: 24/11/2023 10:00 PM -->
 
@@ -110,7 +160,7 @@
 
 53. Power to make regulations
 
-## Part XII
+## PART XII
 
 ## TRANSITIONAL
 
@@ -128,7 +178,7 @@ An Act to provide for matters relating to the registration, advertisement, contr
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -137,6 +187,8 @@ ENACTED by the Parliament of Malaysia as follows:
 1. (1) This Act may be cited as the Control of Smoking Products For Public Health Act 2023.
 
 (2) This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette.
+
+<!-- marginal: WJW23/1210 BI.indd 5 -->
 
 <!-- marginal: 24/11/2023 10:00 PM -->
 
@@ -194,6 +246,8 @@ ENACTED by the Parliament of Malaysia as follows:
 
 “body corporate” means a company, limited liability partnership, firm or other body of persons;
 
+<!-- marginal: WJW23/1210 BI.indd 7 -->
+
 <!-- marginal: 24/11/2023 10:00 PM -->
 
 <!-- page 8 -->
@@ -212,7 +266,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (2) For the purposes of this Act, a reference to “smoking products” shall be construed as a reference to tobacco products, smoking substances or substitute tobacco products.
 
-## Part II
+## PART II
 
 ## REGISTRATION
 
@@ -245,6 +299,8 @@ ENACTED by the Parliament of Malaysia as follows:
 (2) The application made under subsection (1) may be withdrawn at any time by the applicant prior to any approval by the Director General.
 
 (3) Every application under subsection (1) shall be accompanied by the fee as prescribed and any document or information as determined by the Director General.
+
+<!-- marginal: WJW23/1210 BI.indd 9 -->
 
 <!-- marginal: 24/11/2023 10:00 PM -->
 
@@ -284,7 +340,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (2) The register shall be kept in any manner and shall contain any particulars as determined by the Director General.
 
-## Part III
+## PART III
 
 ## ADVERTISEMENT, PROMOTION AND SPONSORSHIP
 
@@ -297,6 +353,8 @@ ENACTED by the Parliament of Malaysia as follows:
 (b) contains any brand name or trademark relating to any tobacco product, smoking substance or substitute tobacco product;
 
 (c) contains any offer or invitation to purchase any tobacco product, smoking substance or substitute tobacco product;
+
+<!-- marginal: WJW23/1210 BI.indd 11 -->
 
 <!-- marginal: 24/11/2023 10:00 PM -->
 
@@ -321,6 +379,8 @@ ENACTED by the Parliament of Malaysia as follows:
 (i) for the first offence, be liable to a fine not less than twenty thousand ringgit and not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding two years or to both; and
 
 (ii) for the second or subsequent offence, be liable to a fine not less than fifty thousand ringgit and not exceeding three hundred thousand ringgit or to imprisonment for a term not exceeding three years or to both.
+
+<!-- marginal: WJW23/1210 BI.indd 12 -->
 
 <!-- marginal: 24/11/2023 10:00 PM -->
 
@@ -349,6 +409,8 @@ ENACTED by the Parliament of Malaysia as follows:
 (i) for the first offence, be liable to a fine not less than ten thousand ringgit and not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding one year or to both; and
 
 (ii) for the second or subsequent offence, be liable to a fine not less than thirty thousand ringgit and not exceeding two hundred thousand ringgit or to imprisonment for a term not exceeding two years or to both.
+
+<!-- marginal: WJW23/1210 BI.indd 13 -->
 
 <!-- marginal: 24/11/2023 10:00 PM -->
 
@@ -384,7 +446,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (ii) for the second or subsequent offence, be liable to a fine not less than fifty thousand ringgit and not exceeding three hundred thousand ringgit or to imprisonment for a term not exceeding three years or to both.
 
-## Part IV
+## PART IV
 
 ## CONTROL OF SALE
 
@@ -405,6 +467,8 @@ ENACTED by the Parliament of Malaysia as follows:
 (i) for the first offence, be liable to a fine not less than twenty thousand ringgit and not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding two years or to both; and
 
 (ii) for the second or subsequent offence, be liable to a fine not less than fifty thousand ringgit and not exceeding three hundred thousand ringgit or to imprisonment for a term not exceeding three years or to both.
+
+<!-- marginal: WJW23/1210 BI.indd 15 -->
 
 <!-- marginal: 24/11/2023 10:00 PM -->
 
@@ -458,6 +522,8 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (ii) for the second or subsequent offence, be liable to a fine not less than fifty thousand ringgit and not exceeding three hundred thousand ringgit or to imprisonment for a term not exceeding three years or to both.
 
+<!-- marginal: WJW23/1210 BI.indd 17 -->
+
 <!-- marginal: 24/11/2023 10:00 PM -->
 
 <!-- page 18 -->
@@ -488,7 +554,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 19 -->
 
-## Part V
+## PART V
 
 ## CONTROL OF PRICE, PACKAGING, LABELLING,
 
@@ -515,6 +581,8 @@ ENACTED by the Parliament of Malaysia as follows:
 (b) where the person is a body corporate—
 
 (i) for the first offence, be liable to a fine not less than twenty thousand ringgit and not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding two years or to both; and
+
+<!-- marginal: WJW23/1210 BI.indd 19 -->
 
 <!-- marginal: 24/11/2023 10:00 PM -->
 
@@ -544,7 +612,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 21 -->
 
-## Part VI
+## PART VI
 
 ## PROHIBITION OF SMOKING
 
@@ -570,6 +638,8 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (b) shall not provide any smoking equipment or facilities or any method intended to encourage any person to smoke; and
 
+<!-- marginal: WJW23/1210 BI.indd 21 -->
+
 <!-- marginal: 24/11/2023 10:00 PM -->
 
 <!-- page 22 -->
@@ -578,7 +648,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (2) Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding five thousand ringgit.
 
-## Part VII
+## PART VII
 
 ## LIABILITY OF MANUFACTURER, IMPORTER OR DISTRIBUTOR
 
@@ -622,6 +692,8 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (i) for the first offence, be liable to a fine not less than twenty thousand ringgit and not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding two years or to both; and
 
+<!-- marginal: WJW23/1210 BI.indd 23 -->
+
 <!-- marginal: 24/11/2023 10:00 PM -->
 
 <!-- page 24 -->
@@ -654,7 +726,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 25 -->
 
-## Part IX
+## PART IX
 
 ## ENFORCEMENT
 
@@ -673,6 +745,8 @@ ENACTED by the Parliament of Malaysia as follows:
 (c) collecting any sample of tobacco product, smoking substance or substitute tobacco product; or
 
 (d) examining and seizing any document found in any premises where the authorized officer believes that document contains any information in relation to any tobacco product, smoking substance or substitute tobacco product or imitation of any tobacco product, smoking substance or substitute tobacco product.
+
+<!-- marginal: WJW23/1210 BI.indd 25 -->
 
 <!-- marginal: 24/11/2023 10:00 PM -->
 
@@ -703,6 +777,8 @@ ENACTED by the Parliament of Malaysia as follows:
 ### Power to open packages and examine tobacco product, etc.
 
 30. For the purposes of this Act, an authorized officer may open, at a place where the authorized officer reasonably believes is used or may be used for the purpose of manufacturing, packaging, storage, delivery, distribution or sale of a tobacco product, smoking substance or substitute tobacco product, or the imitation of a tobacco product, smoking substance or substitute tobacco product, any baggage, package, or any other container and may examine any tobacco product, smoking substance or substitute tobacco product or imitation of tobacco product, smoking substance or substitute tobacco product contain therein, and for the purposes of such examination bring the same goods to the office of the authorized officer.
+
+<!-- marginal: WJW23/1210 BI.indd 27 -->
 
 <!-- marginal: 24/11/2023 10:00 PM -->
 
@@ -752,6 +828,8 @@ the commission of an offence under this Act or any regulations made under this A
 
 (c) detain any person found in the premises until the search is completed.
 
+<!-- marginal: WJW23/1210 BI.indd 29 -->
+
 <!-- marginal: 24/11/2023 10:00 PM -->
 
 <!-- page 30 -->
@@ -798,6 +876,8 @@ to provide him with such reasonable assistance as he may require for the purpose
 
 (3) The authorized officer may make copies of or take extracts from the recorded information or computerized data, if he deems it necessary.
 
+<!-- marginal: WJW23/1210 BI.indd 31 -->
+
 <!-- marginal: 24/11/2023 10:00 PM -->
 
 <!-- page 32 -->
@@ -836,6 +916,8 @@ to provide him with such reasonable assistance as he may require for the purpose
 
 38. (1) Where any tobacco product, smoking substance, substitute tobacco product, or imitation of any tobacco product, smoking substance or substitute tobacco product, conveyance, machinery, equipment or article seized or surrendered under this Act is held in the custody of the authorized officer pending completion of any proceedings in respect of an offence under this Act, the cost of holding it in custody shall be recoverable as a civil debt due to the Government.
 
+<!-- marginal: WJW23/1210 BI.indd 33 -->
+
 <!-- marginal: 24/11/2023 10:00 PM -->
 
 <!-- page 34 -->
@@ -868,7 +950,7 @@ to provide him with such reasonable assistance as he may require for the purpose
 
 (b) the person has been given an opportunity to make any correction he may wish.
 
-## Part X
+## PART X
 
 ## TRIALS AND PROCEEDINGS
 
@@ -883,6 +965,8 @@ to provide him with such reasonable assistance as he may require for the purpose
 ### Jurisdiction to try offences
 
 43. Notwithstanding any written law to the contrary, a court of a First Class Magistrate shall have jurisdiction to try any offence under this Act and to impose punishment under this Act for any such offence.
+
+<!-- marginal: WJW23/1210 BI.indd 35 -->
 
 <!-- marginal: 24/11/2023 10:00 PM -->
 
@@ -922,7 +1006,7 @@ to provide him with such reasonable assistance as he may require for the purpose
 
 (3) The notice under subsection (1) shall be as prescribed.
 
-## Part XI
+## PART XI
 
 ## GENERAL
 
@@ -933,6 +1017,8 @@ to provide him with such reasonable assistance as he may require for the purpose
 (a) any offence under this Act or any regulations made under this Act as an offence which may be compounded; and
 
 (b) the method and procedure for compounding such offence.
+
+<!-- marginal: WJW23/1210 BI.indd 37 -->
 
 <!-- marginal: 24/11/2023 10:00 PM -->
 
@@ -977,6 +1063,8 @@ purporting to act in the capacity or was in any manner or to any extent responsi
 (b) by that person’s agent when acting on behalf of that person; or
 
 (c) by the employee of that person’s agent when acting in the course of his employment by the person’s agent or otherwise on behalf of the person’s agent acting on behalf of that person.
+
+<!-- marginal: WJW23/1210 BI.indd 39 -->
 
 <!-- marginal: 24/11/2023 10:00 PM -->
 
@@ -1030,13 +1118,15 @@ purporting to act in the capacity or was in any manner or to any extent responsi
 
 (k) any other matters required by this Act to be prescribed.
 
+<!-- marginal: WJW23/1210 BI.indd 41 -->
+
 <!-- marginal: 24/11/2023 10:00 PM -->
 
 <!-- page 42 -->
 
 (3) Any regulations made under subsection (1) may prescribe any act or omission in contravention of the regulations to be an offence and may prescribe penalties of a fine not exceeding two hundred thousand ringgit or to imprisonment for a term not exceeding ten years or to both for the offence.
 
-## Part XII
+## PART XII
 
 ## TRANSITIONAL
 
@@ -1050,7 +1140,7 @@ purporting to act in the capacity or was in any manner or to any extent responsi
 
 The Control of Smoking Products For Public Health Bill 2023 (“the proposed Act”) seeks to provide for matters relating to the registration, advertisement, control of the sale and purchase of a tobacco product, smoking substance and substitute tobacco product.
 
-## Part I
+## PART I
 
 2. Part I of the proposed Act deals with preliminary matters.
 
@@ -1062,7 +1152,7 @@ The Control of Smoking Products For Public Health Bill 2023 (“the proposed Act
 
 <!-- page 43 -->
 
-## Part II
+## PART II
 
 5. Part II of the proposed Act deals with provisions relating to the registration, cancellation and suspension of registration of any tobacco product, smoking substance or substitute tobacco product under the proposed Act.
 
@@ -1074,7 +1164,7 @@ The Control of Smoking Products For Public Health Bill 2023 (“the proposed Act
 
 9. Clause 6 seeks to provide that the Director General shall keep and maintain registers of tobacco products, smoking substances and substitute tobacco products registered under clause 4.
 
-## Part III
+## PART III
 
 10. Part III of the proposed Act deals with the prohibition of any advertisement, promotion and sponsorship of a tobacco product, smoking substance or substitute tobacco product and its imitation.
 
@@ -1084,11 +1174,13 @@ The Control of Smoking Products For Public Health Bill 2023 (“the proposed Act
 
 13. Clause 9 seeks to prohibit any promotion or sponsorship of any tobacco product, smoking substance or substitute tobacco product which is intended or likely to encourage any person to smoke or to be promoted as a quit smoking product. Any person who fails to comply with this clause commits an offence.
 
-## Part IV
+## PART IV
 
 14. Part IV of the proposed Act deals with control of sale of any tobacco product, smoking substance or substitute tobacco product and its imitation.
 
 15. Clause 10 seeks to prohibit any person from selling or displaying for sale any tobacco product, smoking substance or substitute tobacco product, unless the sale or display for sale comply with the requirement as prescribed in the regulations. Any person who fails to comply with this clause commits an offence.
+
+<!-- marginal: WJW23/1210 BI.indd 43 -->
 
 <!-- marginal: 24/11/2023 10:00 PM -->
 
@@ -1100,7 +1192,7 @@ The Control of Smoking Products For Public Health Bill 2023 (“the proposed Act
 
 18. Clause 13 seeks to prohibit the sale of any tobacco product, smoking substance or substitute tobacco product to any person who is a minor. This clause also prohibits a minor from purchasing any tobacco product, smoking substance or substitute tobacco product. Any person who fails to comply with this clause commits an offence.
 
-## Part V
+## PART V
 
 19. Part V of the proposed Act deals with control of price, packaging, labelling, manufacturing, importation or distribution of any tobacco product, smoking substance or substitute tobacco product.
 
@@ -1108,7 +1200,7 @@ The Control of Smoking Products For Public Health Bill 2023 (“the proposed Act
 
 21. Clause 15 seeks to provide that the packaging and labelling of any tobacco product, smoking substance or substitute tobacco product shall be in accordance with the requirement as prescribed. Any person who fails to comply with this clause commits an offence.
 
-## Part VI
+## PART VI
 
 22. Part VI of the proposed Act deals with provisions relating to prohibition on smoking.
 
@@ -1122,7 +1214,7 @@ The Control of Smoking Products For Public Health Bill 2023 (“the proposed Act
 
 <!-- page 45 -->
 
-## Part VII
+## PART VII
 
 26. Part VII of the proposed Act deals with the liability of the manufacturer, importer or distributor.
 
@@ -1142,9 +1234,11 @@ The Control of Smoking Products For Public Health Bill 2023 (“the proposed Act
 
 33. Clause 24 seeks to empower the Minister to appoint any person to be an authorized officer for the purposes of this Act.
 
-## Part IX
+## PART IX
 
 34. Part IX of the proposed Act deals with provisions relating to enforcement.
+
+<!-- marginal: WJW23/1210 BI.indd 45 -->
 
 <!-- marginal: 24/11/2023 10:00 PM -->
 
@@ -1186,13 +1280,15 @@ The Control of Smoking Products For Public Health Bill 2023 (“the proposed Act
 
 50. Clause 40 seeks to empower an authorized officer to examine orally any person supposed to be acquainted with the facts and circumstances of the case.
 
-## Part X
+## PART X
 
 51. Part X of the proposed Act deals with manner relating to trials and proceedings.
 
 52. Clause 41 seeks to provide that prosecution under this Act or any regulations made under this Act shall be instituted with the consent in writing of the Public Prosecutor.
 
 53. Clause 42 seeks to provide that if expert evidence is intended to be adduced by a person charged, the prosecution shall be notified by notice in writing within a period of ten clear days before the trial.
+
+<!-- marginal: WJW23/1210 BI.indd 47 -->
 
 <!-- marginal: 24/11/2023 10:00 PM -->
 
@@ -1208,7 +1304,7 @@ The Control of Smoking Products For Public Health Bill 2023 (“the proposed Act
 
 58. Clause 47 seeks to empower the Director General or any authorized officer to serve upon any person who commits an offence under this Act a notice ordering that person to appear before a magistrates’ court.
 
-## Part XI
+## PART XI
 
 59. Part XI of the proposed Act deals with general provisions.
 
@@ -1224,7 +1320,7 @@ The Control of Smoking Products For Public Health Bill 2023 (“the proposed Act
 
 65. Clause 53 seeks to empower the Minister to make regulations for the purposes of the proposed Act.
 
-## Part XII
+## PART XII
 
 66. Clause 54 of Part XII deals with transitional provision.
 

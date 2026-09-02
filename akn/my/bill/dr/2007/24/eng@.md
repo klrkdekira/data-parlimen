@@ -14,17 +14,35 @@
 
 ## MALAYSIAN QUALIFICATIONS AGENCY
 
-4. Establishment of the Agency 5. Common seal 6. Functions of the Agency 7. Powers of the Agency 8. Directions by Minister 9. Committees on accreditation 10. Returns, reports, accounts and information
+4. Establishment of the Agency 5. Common seal 6. Functions of the Agency 7. Powers of the Agency 8. Directions by Minister 9. Committees on accreditation
+
+10. Returns, reports, accounts and information
 
 ## PART III
 
 ## COUNCIL OF MALAYSIAN QUALIFICATIONS AGENCY
 
-11. Council of Malaysian Qualifications Agency 12. Functions of the Council 13. Temporary exercise of functions of the Chairman 14. Tenure of office 15. Allowances 16. Revocation of appointment and resignation 17. Vacation of office 18. Filling of vacancies
+11. Council of Malaysian Qualifications Agency
+
+12. Functions of the Council
+
+13. Temporary exercise of functions of the Chairman
+
+14. Tenure of office
+
+15. Allowances
+
+16. Revocation of appointment and resignation
+
+17. Vacation of office
+
+18. Filling of vacancies
 
 <!-- page 2 -->
 
-19. Secretary 20. Committees
+19. Secretary
+
+20. Committees
 
 ## PART IV
 
@@ -32,7 +50,17 @@
 
 21. Appointment of Chief Executive Officer
 
-22. Appointment of employees 23. Conditions of service 24. Loans, scholarships and advances 25. Payment of retirement benefit, etc. 26. Application of Statutory Bodies (Discipline and Surcharge) Act 2000 27. Agency may adopt regulations, etc.
+22. Appointment of employees
+
+23. Conditions of service
+
+24. Loans, scholarships and advances
+
+25. Payment of retirement benefit, etc.
+
+26. Application of Statutory Bodies (Discipline and Surcharge) Act 2000
+
+27. Agency may adopt regulations, etc.
 
 ## PART V
 
@@ -40,13 +68,27 @@
 
 28. Malaysian Qualifications Agency Fund
 
-29. Expenditure to be charged on Fund 30. Conservation of Fund 31. Expenditure and preparation of estimates 32. Power to borrow 33. Investment 34. Accounts and reports
+29. Expenditure to be charged on Fund
+
+30. Conservation of Fund
+
+31. Expenditure and preparation of estimates
+
+32. Power to borrow
+
+33. Investment
+
+34. Accounts and reports
 
 ## PART VI
 
 ## MALAYSIAN QUALIFICATIONS FRAMEWORK
 
-35. The Framework 36. Objectives of the Framework 37. Compliance with the Framework
+35. The Framework
+
+36. Objectives of the Framework
+
+37. Compliance with the Framework
 
 <!-- page 3 -->
 
@@ -54,7 +96,19 @@
 
 ## PROVISIONAL ACCREDITATION
 
-38. Application for provisional accreditation 39. Power to grant or refuse application 40. Certificate of provisional accreditation 41. Power to impose conditions 42. Revocation of provisional accreditation 43. Provisional accreditation of professional programme or professional qualification 44. Provisional accreditation of skills training programme or skills training qualification
+38. Application for provisional accreditation
+
+39. Power to grant or refuse application
+
+40. Certificate of provisional accreditation
+
+41. Power to impose conditions
+
+42. Revocation of provisional accreditation
+
+43. Provisional accreditation of professional programme or professional qualification
+
+44. Provisional accreditation of skills training programme or skills training qualification
 
 ## PART VIII
 
@@ -64,7 +118,13 @@
 
 Programmes and qualifications under the Malaysian Qualifications Framework
 
-45. Application for accreditation 46. Power to grant or refuse accreditation 47. Certificate of accreditation 48. Power to impose conditions
+45. Application for accreditation
+
+46. Power to grant or refuse accreditation
+
+47. Certificate of accreditation
+
+48. Power to impose conditions
 
 49. Revocation of accreditation
 
@@ -82,7 +142,15 @@ Professional programmes and professional qualifications
 
 Foreign programmes and qualifications
 
-56. Application for accreditation 57. Power to grant or refuse accreditation 58. Certificate of accreditation 59. Power to impose conditions 60. Revocation of accreditation
+56. Application for accreditation
+
+57. Power to grant or refuse accreditation
+
+58. Certificate of accreditation
+
+59. Power to impose conditions
+
+60. Revocation of accreditation
 
 ## Chapter 4
 
@@ -90,7 +158,11 @@ Self-accrediting higher education providers
 
 61. Application for self-accreditation status on invitation
 
-62. Registering programmes or qualifications 63. Certificate of self-accreditation and certificate of accreditation 64. Revocation of self-accreditation status or cancellation of registration
+62. Registering programmes or qualifications
+
+63. Certificate of self-accreditation and certificate of accreditation
+
+64. Revocation of self-accreditation status or cancellation of registration
 
 ## Chapter 5
 
@@ -98,13 +170,25 @@ Skills training programmes and qualifications
 
 65. Application for accreditation
 
-66. Power to grant or refuse accreditation 67. Certificate of accreditation 68. Power to impose conditions 69. Revocation of accreditation 70. Registering accredited skills training programmes and qualifications 71. Cancellation of registration
+66. Power to grant or refuse accreditation
+
+67. Certificate of accreditation
+
+68. Power to impose conditions
+
+69. Revocation of accreditation
+
+70. Registering accredited skills training programmes and qualifications
+
+71. Cancellation of registration
 
 ## Chapter 6
 
 Programmes and qualifications of a branch campus
 
-72. Registration of accredited programmes or qualifications of a branch campus 73. Cancellation of registration
+72. Registration of accredited programmes or qualifications of a branch campus
+
+73. Cancellation of registration
 
 <!-- page 5 -->
 
@@ -144,19 +228,13 @@ Prior learning and credit transfer
 
 ## APPEALS
 
-82. Appeal
-
-83. Power of Minister or Appellate Committee on appeals
-
-84. Decision of Minister or Appellate Committee on appeals
+82. Appeal 83. Power of Minister or Appellate Committee on appeals 84. Decision of Minister or Appellate Committee on appeals
 
 ## PART XIII
 
 ## ENFORCEMENT AND INVESTIGATION
 
-85. Authorized officer
-
-86. Powers of authorized officer
+85. Authorized officer 86. Powers of authorized officer
 
 <!-- page 6 -->
 
@@ -166,13 +244,37 @@ Prior learning and credit transfer
 
 ## OFFENCES AND PENALTIES
 
-95. Interpretation 96. Enrolment of students for a programme claimed to be accredited 97. Prohibition on advertisement, etc. 98. Offences and penalties relating to higher education qualifications 99. Offences and penalties relating to applications made under the Act 100. Offences and penalties relating to certificate 101. Offences relating to inspection, enforcement and investigation
+95. Interpretation 96. Enrolment of students for a programme claimed to be accredited 97. Prohibition on advertisement, etc. 98. Offences and penalties relating to higher education qualifications 99. Offences and penalties relating to applications made under the Act
+
+100. Offences and penalties relating to certificate
+
+101. Offences relating to inspection, enforcement and investigation
 
 ## PART XV
 
 ## MISCELLANEOUS
 
-102. Institution of prosecution 103. Jurisdiction of Court of First Class Magistrate 104. Offences by body corporate, etc. 105. Compounding of offences 106. General penalty 107. Penalty in the case of a continuing offence 108. Presumption 109. Public servant 110. Protection against suit and legal proceedings 111. Public Authorities Protection Act 1948 112. Obligations of secrecy
+102. Institution of prosecution
+
+103. Jurisdiction of Court of First Class Magistrate
+
+104. Offences by body corporate, etc.
+
+105. Compounding of offences
+
+106. General penalty
+
+107. Penalty in the case of a continuing offence
+
+108. Presumption
+
+109. Public servant
+
+110. Protection against suit and legal proceedings
+
+111. Public Authorities Protection Act 1948
+
+112. Obligations of secrecy
 
 <!-- page 7 -->
 
@@ -418,11 +520,7 @@ Executive Officer, and shall be authenticated by either the Chief Executive Offi
 
 9. (1) The Agency shall from time to time establish accreditation committees for the purposes of—
 
-(a) receiving institutional audit reports and recommendations on the applications made for provisional accreditation under
-
-## Part VII or accreditation of programmes or qualifications
-
-under Part VIII from the institutional audit committees established under section 80;
+(a) receiving institutional audit reports and recommendations on the applications made for provisional accreditation under Part VII or accreditation of programmes or qualifications under Part VIII from the institutional audit committees established under section 80;
 
 (b) evaluating and analysing provisional accreditation reports or accreditation of programmes or qualifications reports; and
 

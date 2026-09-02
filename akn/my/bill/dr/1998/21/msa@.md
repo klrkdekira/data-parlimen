@@ -14,13 +14,7 @@ I
 
 ## PERMULAAN
 
-1. Tajuk ringkas.
-
-2. Mula berkuat kuasa,
-
-3. Pemakaian.
-
-4. Tafsiran.
+1. Tajuk ringkas. 2. Mula berkuat kuasa, 3. Pemakaian. 4. Tafsiran.
 
 ## BAHAGJAN
 
@@ -30,15 +24,7 @@ II
 
 DSB.
 
-5. Pelantikan Pendaftar, Timbalan Pendaftar, dsb.
-
-6. Pendaftaran.
-
-7. Permohonan bagi pendaftaran.
-
-8. Kelulusan atau penolakan permohonan bagi pendaftaran.
-
-9. Tarikh pendaftaran francais mula berkuat kuasa.
+5. Pelantikan Pendaftar, Timbalan Pendaftar, dsb. 6. Pendaftaran. 7. Permohonan bagi pendaftaran. 8. Kelulusan atau penolakan permohonan bagi pendaftaran. 9. Tarikh pendaftaran francais mula berkuat kuasa.
 
 10. Tempoh berkuat kuasa.
 
@@ -94,25 +80,13 @@ IV
 
 ## PERJANJIAN FRANCAIS
 
-29. Kelakuan pihak.
-
-30. Kewajipan pemberi francais dan pemegang francais.
-
-31. Penamatan perjanjian francais.
-
-32. Tidak membaharui perjanjian francais.
-
-33. Penamatan awal tempoh francais.
-
-34. Pelanjutan tempoh francais.
+29. Kelakuan pihak. 30. Kewajipan pemberi francais dan pemegang francais. 31. Penamatan perjanjian francais. 32. Tidak membaharui perjanjian francais. 33. Penamatan awal tempoh francais. 34. Pelanjutan tempoh francais.
 
 ## BAHAGIAN V
 
 ## LEMBAGA PENASIHAT FRANCAIS
 
-35. Lembaga Penasihat Francais.
-
-36. Fungsi Lembaga Penasihat Francais.
+35. Lembaga Penasihat Francais. 36. Fungsi Lembaga Penasihat Francais.
 
 <!-- page 3 -->
 
@@ -174,9 +148,7 @@ IV
 
 59. Pelindungan pegawai.
 
-60. Peraturan-peraturan.
-
-61. Kecualian dan peralihan.
+60. Peraturan-peraturan. 61. Kecualian dan peralihan.
 
 <!-- page 5 -->
 
@@ -236,7 +208,7 @@ oleh Menteri melalui pemberitahuan dalam Warta.
 
 ### hendaklah terpakai.
 
-### Tafsiran.
+<!-- marginal: Tafsiran. -->
 
 4. Dalam Akta
 
@@ -388,9 +360,17 @@ pengertian Kanun Keseksaan.
 
 (2) Seseorang yang tidak mematuhi seksyen ini adalah melakukan suatu kesalahan melainkan jika dia telah dikecualikan oleh Menteri di bawah seksyen 58 daripada kehendak untuk mendaftar di bawah seksyen ini.
 
-Permohonan
+<!-- marginal: Permohonan -->
 
-7. (1) Pemberi francais hendaklah membuat permohonan bagi untuk mendaftarkan francaisnya dengan mengemukakan pendaftaran. permohonan kepada Pendaftar dalam borang yang ditetapkan berserta dengan—
+7. (1) Pemberi francais hendaklah membuat permohonan
+
+<!-- marginal: bagi -->
+
+untuk mendaftarkan francaisnya dengan mengemukakan
+
+<!-- marginal: pendaftaran. -->
+
+permohonan kepada Pendaftar dalam borang yang ditetapkan berserta dengan—
 
 (a) dokumen penzahiran yang lengkap dengan kesemua butir yang perlu telah diisi;
 
@@ -472,21 +452,55 @@ Pendaftar dan tarikh itu hendaklah selepas tarikh pemfailan kesemua maklumat ata
 
 <!-- page 12 -->
 
-Tempoh
+<!-- marginal: Tempoh -->
 
-10. Pendaftaran sesuatu francais hendaklah terus berkuat berkuat kuasa melainkan jika Pendaftar mengeluarkan suatu perintah kuasa. yang dibuat melalui notis bertulis kepada pemohon atau pemberi francais untuk menggantung, menamatkan, melarang atau menolak penjualan atau pendaftaran francais di bawah Akta ini.
+10. Pendaftaran sesuatu francais hendaklah terus berkuat
 
-Pindaan pada
+<!-- marginal: berkuat -->
 
-11. (1) Jika terdapat apa-apa perubahan matan dalam dokumen dokumen penzahiran yang disebut dalam perenggan 7(1)(a) penzahiran. dan (f), pemohon atau pengarah atau pengurusnya hendaklah meminda dokumen itu mengikut bentuk yang ditetapkan.
+kuasa melainkan jika Pendaftar mengeluarkan suatu perintah
+
+<!-- marginal: kuasa. -->
+
+yang dibuat melalui notis bertulis kepada pemohon atau pemberi francais untuk menggantung, menamatkan, melarang atau menolak penjualan atau pendaftaran francais di bawah Akta ini.
+
+<!-- marginal: Pindaan pada -->
+
+11. (1) Jika terdapat apa-apa perubahan matan dalam
+
+<!-- marginal: dokumen -->
+
+dokumen penzahiran yang disebut dalam perenggan 7(1)(a)
+
+<!-- marginal: penzahiran. -->
+
+dan (f), pemohon atau pengarah atau pengurusnya hendaklah meminda dokumen itu mengikut bentuk yang ditetapkan.
 
 (2) Dokumen dalam subseksyen (1) hendaklah difailkan dengan Pendaftar.
 
 (3) Pendaftar boleh, pada bila-bila masa, menghendaki maklumat tambahan mengenai pindaan yang dibuat di bawah seksyen ini.
 
-Notis tentang
+<!-- marginal: Notis tentang -->
 
-12. (1) Tertakluk kepada seksyen 13, jika Pendaftar peng- bercadang untuk menggantung, menamatkan, melarang gantungan, penamatan, atau menolak penjualan atau pendaitaran sesuatu francais, dsb. dia hendaklah memberi pemohon atau pemberi francais pendaftaran. notis bertulis tentang niatnya untuk berbuat demikian, dengan menyatakan jenis tindakan yang dicadangkan dan alasan yang berdasarkannya dia bercadang untuk mengambil tindakan itu, dan dia hendaklah memberi pemohon atau pemberi francais itu peluang untuk membuat representasi bertulis tentang perkara itu dalam tempoh empat belas hari dari tarikh penyampaian notis itu.
+12. (1) Tertakluk kepada seksyen 13, jika Pendaftar
+
+<!-- marginal: peng- -->
+
+bercadang untuk menggantung, menamatkan, melarang
+
+<!-- marginal: gantungan, -->
+
+<!-- marginal: penamatan, -->
+
+atau menolak penjualan atau pendaitaran sesuatu francais,
+
+<!-- marginal: dsb. -->
+
+dia hendaklah memberi pemohon atau pemberi francais
+
+<!-- marginal: pendaftaran. -->
+
+notis bertulis tentang niatnya untuk berbuat demikian, dengan menyatakan jenis tindakan yang dicadangkan dan alasan yang berdasarkannya dia bercadang untuk mengambil tindakan itu, dan dia hendaklah memberi pemohon atau pemberi francais itu peluang untuk membuat representasi bertulis tentang perkara itu dalam tempoh empat belas hari dari tarikh penyampaian notis itu.
 
 (2) Setelah habis tempoh empat belas hari yang disebut dalam subseksyen (1) dan setelah menimbangkan apa- apa representasi yang dibuat oleh pemohon atau pemberi francais di bawah subseksyen itu, Pendaftar hendaklah memutuskan sama ada akan meneruskan tindakan yang dicadangkan atau tidak mengambil tindakan selanjutnya.
 
@@ -534,17 +548,25 @@ dengan Pendaftar mengikut cara yang berikut:
 
 <!-- page 14 -->
 
-Amalan
+<!-- marginal: Amalan -->
 
-15. (1) Pemberi francais hendaklah mengemukakan wajib. perjanjian francais dan dokumen penzahiran kepada seseorang pemegang francais sekurang-kurangnya sepuluh hari sebelum pemegang francais itu menandatangani perjanjian dengan pemberi francais itu.
+15. (1) Pemberi francais hendaklah mengemukakan
+
+<!-- marginal: wajib. -->
+
+perjanjian francais dan dokumen penzahiran kepada seseorang pemegang francais sekurang-kurangnya sepuluh hari sebelum pemegang francais itu menandatangani perjanjian dengan pemberi francais itu.
 
 (2) Dokumen penzahiran dalam subseksyen (1) hendaklah dokumen yang sama yang diserahkan kepada Pendaftar.
 
 (3) Seseorang yang tidak mematuhi seksyen ini adalah melakukan suatu kesalahan.
 
-Laporan
+<!-- marginal: Laporan -->
 
-16. (1) Setiap tahun pemberi francais hendaklah, dalam tahunan. masa tiga puluh hari dari tarikh ulang tahun pendaftaran, mengemukakan laporan kepada Pendaftar dalam bentuk yang ditetapkan.
+16. (1) Setiap tahun pemberi francais hendaklah, dalam
+
+<!-- marginal: tahunan. -->
+
+masa tiga puluh hari dari tarikh ulang tahun pendaftaran, mengemukakan laporan kepada Pendaftar dalam bentuk yang ditetapkan.
 
 (2) Laporan itu hendaklah mengandungi dokumen penzahiran yang telah dikemaskinikan.
 
@@ -554,9 +576,19 @@ Laporan
 
 (b) mengeluarkan suatu perintah untuk menggantung, menamatkan, melarang atau menolak penjualan atau pendaftaran francais demi kepentingan awam atau bagi maksud melindungi bakal pemegang francais sehingga apa-apa kekurangan yang dinyatakan oleh Pendaftar telah dibetulkan.
 
-Rayuan
+<!-- marginal: Rayuan -->
 
-17. (1) Seseorang yang terkilan dengan apa-apa keputusan terhadap Pendaftar di bawah Bahagian ini boleh merayu kepada keputusan Pendaftar. Menteri mengikut cara yang ditetapkan dalam tempoh satu bulan dari tarikh keputusan itu diberitahukan kepada orang itu.
+17. (1) Seseorang yang terkilan dengan apa-apa keputusan
+
+<!-- marginal: terhadap -->
+
+Pendaftar di bawah Bahagian ini boleh merayu kepada
+
+<!-- marginal: keputusan -->
+
+<!-- marginal: Pendaftar. -->
+
+Menteri mengikut cara yang ditetapkan dalam tempoh satu bulan dari tarikh keputusan itu diberitahukan kepada orang itu.
 
 <!-- page 15 -->
 
@@ -616,13 +648,29 @@ bertulis.
 
 (6) Seseorang yang tidak mematuhi subseksyen (5) adalah melakukan suatu kesalahan.
 
-Pembayaran
+<!-- marginal: Pembayaran -->
 
-19. Jika pemberi francais menghendaki pemegang francais fi trancais, membuat apa-apa bayaran sebelum menandatangani dsh. perjanjian francais, termasuklah bayaran yang merupakan sebahagian daripada fi francais, pemberi francais hendaklah menyatakan secara bertulis maksud bayaran itu dan syarat- syarat bagi penggunaan dan pembayaran balik wang itu.
+19. Jika pemberi francais menghendaki pemegang francais
 
-Larangan
+<!-- marginal: fi trancais, -->
 
-20. Francais menjadi tidak adil dan melanggar Akta ini terhadap jika mana-mana pemberi francais mendiskriminasi dengan diskriminasi. cara yang tidak munasabah dan dengan ketara antara pemegang-pemegang francais yang mengendalikan francais
+membuat apa-apa bayaran sebelum menandatangani
+
+<!-- marginal: dsh. -->
+
+perjanjian francais, termasuklah bayaran yang merupakan sebahagian daripada fi francais, pemberi francais hendaklah menyatakan secara bertulis maksud bayaran itu dan syarat- syarat bagi penggunaan dan pembayaran balik wang itu.
+
+<!-- marginal: Larangan -->
+
+20. Francais menjadi tidak adil dan melanggar Akta ini
+
+<!-- marginal: terhadap -->
+
+jika mana-mana pemberi francais mendiskriminasi dengan
+
+<!-- marginal: diskriminasi. -->
+
+cara yang tidak munasabah dan dengan ketara antara pemegang-pemegang francais yang mengendalikan francais
 
 <!-- page 17 -->
 
@@ -676,23 +724,49 @@ promosi sesuatu francais hendaklah menubuhkan Kumpulan Wang Promosi ("Kumpulan W
 
 (5) Seseorang yang tidak mematuhi seksyen ini adalah melakukan kesalahan.
 
-Fi promosi,
+<!-- marginal: Fi promosi, -->
 
-23. (1) Jika seseorang penerima francais dikehendaki dsb. membuat apa-apa bayaran bagi maksud promosi atau membayar fi promosi kepada pemberi francais, bayaran itu hendaklah pada kadar yang diperuntukkan dalam dokumen penzahiran.
+23. (1) Jika seseorang penerima francais dikehendaki
+
+<!-- marginal: dsb. -->
+
+membuat apa-apa bayaran bagi maksud promosi atau membayar fi promosi kepada pemberi francais, bayaran itu hendaklah pada kadar yang diperuntukkan dalam dokumen penzahiran.
 
 (2) Bayaran yang dikehendaki dibuat di bawah subseksyen (1) hendaklah dimasukkan ke dalam Kumpulan Wang.
 
-Pendaftaran
+<!-- marginal: Pendaftaran -->
 
-24. Pemberi francais adalah dikehendaki mendaftarkan cap dagangan cap dagangannya atau cap perkhidmatannya yang berkaitan atau cap dengan francaisnya mengikut Akta Cap Dagangan 1976 perkhidmatan. Akta 175. (jika boleh didaftarkan di bawah Akta itu) sebelum memohon pendaftaran francaisnya di bawah seksyen 7.
+24. Pemberi francais adalah dikehendaki mendaftarkan
 
-Tempoh
+<!-- marginal: cap dagangan -->
 
-25. Tempoh francais tidak boleh kurang daripada lima francais. tahun.
+cap dagangannya atau cap perkhidmatannya yang berkaitan
 
-Maklumat
+<!-- marginal: atau cap -->
 
-26. (1) Pemegang francais hendaklah memberikanjaminan rahsia. bertulis kepada pemberi francais bahawa pemegang francais dan pekerja-pekerjanya tidak akan menzahirkan kepada mana-mana orang apa-apa maklumat yang terkandung dalam manual pengendalian atau yang diperoleh semasa
+dengan francaisnya mengikut Akta Cap Dagangan 1976
+
+<!-- marginal: perkhidmatan. -->
+
+<!-- marginal: Akta 175. -->
+
+(jika boleh didaftarkan di bawah Akta itu) sebelum memohon pendaftaran francaisnya di bawah seksyen 7.
+
+<!-- marginal: Tempoh -->
+
+25. Tempoh francais tidak boleh kurang daripada lima
+
+<!-- marginal: francais. -->
+
+tahun.
+
+<!-- marginal: Maklumat -->
+
+26. (1) Pemegang francais hendaklah memberikanjaminan
+
+<!-- marginal: rahsia. -->
+
+bertulis kepada pemberi francais bahawa pemegang francais dan pekerja-pekerjanya tidak akan menzahirkan kepada mana-mana orang apa-apa maklumat yang terkandung dalam manual pengendalian atau yang diperoleh semasa
 
 <!-- page 19 -->
 
@@ -740,9 +814,13 @@ IV
 
 ## PERJANJIAN PRANCAIS
 
-Kelakuan
+<!-- marginal: Kelakuan -->
 
-29. (1) Pemberi francais dan pemegang francais hendaklah pihak. bertindak dengan jujur dan sah di sisi undang-undang dan hendaklah berusaha untuk meneruskan amalan perniagaan francais yang terbaik mengikut masa dan tempat.
+29. (1) Pemberi francais dan pemegang francais hendaklah
+
+<!-- marginal: pihak. -->
+
+bertindak dengan jujur dan sah di sisi undang-undang dan hendaklah berusaha untuk meneruskan amalan perniagaan francais yang terbaik mengikut masa dan tempat.
 
 (2) Pemberi francais dan pemegang francais semasa mereka berurusan antara satu sama lain hendaklah mengelakkan kelakuan yang berikut:
 
@@ -752,9 +830,23 @@ Kelakuan
 
 (c) kelakuan yang tidak dengan munasabahnya perlu bagi melindungi kepentingan perniagaan pemberi francais, pemegang francais atau sistem francais yang sah.
 
-Kewajipan
+<!-- marginal: Kewajipan -->
 
-30. (1) Pemberi francais hendaklah memberikan notis pemberi bertulis mengenai kemungkiran kontrak oleh pemegang francais dan pemegang francais dan memberikan pemegang francais masa untuk trancais. memulihkan kemungkiran itu.
+30. (1) Pemberi francais hendaklah memberikan notis
+
+<!-- marginal: pemberi -->
+
+bertulis mengenai kemungkiran kontrak oleh pemegang
+
+<!-- marginal: francais dan -->
+
+<!-- marginal: pemegang -->
+
+francais dan memberikan pemegang francais masa untuk
+
+<!-- marginal: trancais. -->
+
+memulihkan kemungkiran itu.
 
 (2) Pemegang francais hendaklah membayar fi francais, royalti, fi promosi atau apa-apa bayaran lain yang diperuntukkan dalam perjanjian francais.
 
@@ -820,17 +912,33 @@ pemberi francais dengan pemegang francais setelah mengambil kira pengurangan nil
 
 (b) pemegang francais itu tidak diberi notis bertulis tentang niat pemberi francais untuk tidak membaharui perjanjian francais sekurang- kurangnya enam bulan sebelum tarikh habis tempoh perjanjian francais itu.
 
-Penamatan
+<!-- marginal: Penamatan -->
 
-33. Walau apa pun seksyen 25, tempoh francais boleh awal tempoh ditamatkan sebelum habis tempoh minimum lima tahun francais. dalam hal keadaan yang berikut:
+33. Walau apa pun seksyen 25, tempoh francais boleh
+
+<!-- marginal: awal tempoh -->
+
+ditamatkan sebelum habis tempoh minimum lima tahun
+
+<!-- marginal: francais. -->
+
+dalam hal keadaan yang berikut:
 
 (a) jika kedua-dua pihak dalam perjanjian itu bersetuju dengan penamatan; atau
 
 (b) jika mahkamah memutuskan bahawa terdapat syarat-syarat tertentu dalam perjanjian francais itu yang mewajarkan perjanjian itu ditamatkan lebih awal daripada tempoh minimum.
 
-Pelanjutan
+<!-- marginal: Pelanjutan -->
 
-34. (1) Pada bila-bila masa sebelum habis tempoh tempoh francais, pemegang francais hendaklah mengikut pilihannya francais. memberikan notis bertulis kepada pemberi francais untuk melanjutkan tempoh francais itu.
+34. (1) Pada bila-bila masa sebelum habis tempoh
+
+<!-- marginal: tempoh -->
+
+francais, pemegang francais hendaklah mengikut pilihannya
+
+<!-- marginal: francais. -->
+
+memberikan notis bertulis kepada pemberi francais untuk melanjutkan tempoh francais itu.
 
 (2) Kecuali apabila pemegang francais telah memungkiri terma-terma perjanjian francais yang sebelumnya, pemberi francais hendaklah melanjutkan tempoh francais itu kepada suatu tempoh lain jika pemegang francais telah memohon pelanjutan tempoh itu mengikut subseksyen (1).
 
@@ -854,7 +962,9 @@ Prancais.
 
 (2) Lembaga Penasihat Francais hendaklah terdiri daripada orang, yang bilangannya tidak melebihi lima belas orang, yang boleh dilantik oleh Menteri dari semasa ke semasa.
 
-(3) Anggota-anggota yang dilantik di bawah subseksyen (1) hendaklah orang yang mempunyai pengetahuan dan pengalaman yang luas dalam perkara-perkara yang berhubungan dengan francais.
+(3) Anggota-anggota yang dilantik di bawah subseksyen
+
+(1) hendaklah orang yang mempunyai pengetahuan dan pengalaman yang luas dalam perkara-perkara yang berhubungan dengan francais.
 
 (4) Anggota-anggota Lembaga Penasihat Francais boleh menerima apa-apa saraan yang ditetapkan bagi perkhidmatan mereka,
 
@@ -900,9 +1010,11 @@ langsung—
 
 adalah melakukan suatu kesalahan.
 
-Menghalang
+<!-- marginal: Menghalang -->
 
-38. Seseorang yang— pegawai.
+38. Seseorang yang—
+
+<!-- marginal: pegawai. -->
 
 (a) menghalang mana-mana orang yang dilantik di bawah Akta ini yang bertindak menurut Akta ini;
 
@@ -912,7 +1024,7 @@ Menghalang
 
 adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi dua ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya.
 
-Penalti am.
+<!-- marginal: Penalti am. -->
 
 39. (1) Mana-mana orang yang melakukan kesalahan di bawah Akta ini yang baginya tiada penalti diperuntukkan secara nyata, boleh apabila disabitkan—
 
@@ -982,9 +1094,13 @@ kepada Pendaftar sejumlah wang yang tidak melebihi lima puluh peratus jumlah mak
 
 ## PENGUATKUASAAN
 
-Pegawai
+<!-- marginal: Pegawai -->
 
-42. (1) Menteri boleh, secara bertulis, memberi kuasa diberi kuasa. Pendaftar atau mana-mana Timbalan Pendaftar, Penolong Pendaftar atau pegawai awam untuk menjalankan kuasa penguatkuasaan di bawah Akta ini.
+42. (1) Menteri boleh, secara bertulis, memberi kuasa
+
+<!-- marginal: diberi kuasa. -->
+
+Pendaftar atau mana-mana Timbalan Pendaftar, Penolong Pendaftar atau pegawai awam untuk menjalankan kuasa penguatkuasaan di bawah Akta ini.
 
 (2) Pada menjalankan mana-mana kuasa penguatkuasaan di bawah Akta ini, seseorang pegawai diberi kuasa hendaklah apabila diminta mengemukakan kepada orang yang terhadapnya dia bertindak kad kuasa yang ditandatangani Menteri dan yang dikeluarkan kepadanya.
 
@@ -1116,9 +1232,19 @@ tentang hal keadaan kes itu, dan orang itu hendaklah hadir apabila dikehendaki s
 
 (2) Jika orang itu tidak hadir sebagaimana yang dikehendaki, pegawai diberi kuasa itu boleh melaporkan ketidakhadiran itu kepada Majistret yang hendaklah mengeluarkan waran untuk memastikan kehadiran orang itu,
 
-Pemeriksaan
+<!-- marginal: Pemeriksaan -->
 
-50. (1) Seseorang pegawai diberi kuasa yang membuat orang yang penyiasatan di bawah Akta ini boleh memeriksa secara tahu tentang kes. lisan seseorang yang dijangka tahu akan fakta dan hal keadaan kes itu.
+50. (1) Seseorang pegawai diberi kuasa yang membuat
+
+<!-- marginal: orang yang -->
+
+penyiasatan di bawah Akta ini boleh memeriksa secara
+
+<!-- marginal: tahu tentang -->
+
+<!-- marginal: kes. -->
+
+lisan seseorang yang dijangka tahu akan fakta dan hal keadaan kes itu.
 
 (2) Orang itu adalah terikat di sisi undang-undang untuk menjawab kesemua soalan berhubung dengan kes itu yang dikemukakan kepadanya oleh pegawai diberi kuasa itu, tetapi orang itu boleh enggan menjawab apa-apa soalan yang jawapannya cenderung untuk mendedahkannya kepada pertuduhan jenayah atau penalti atau pelucuthakan.
 
@@ -1128,9 +1254,13 @@ Pemeriksaan
 
 (5) Sesuatu pernyataan yang dibuat oleh seseorang di bawah seksyen ini hendaklah, seboleh-bolehnya, diubah ke dalam bentuk bertulis dan ditandatangani oleh orang yang membuatnya atau ditandakan dengan cap ibu jarinya selepas pernyataan itu dibacakan kepadanya dalam bahasa dia membuatnya dan selepas dia telah diberi peluang untuk membuat apa-apa pembetulan yang dia mahu.
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-51. Seseorang pegawai diberi kuasa hendaklah, bagi tambahan. maksud melaksanakan Akta ini, mempunyai kuasa untuk melakukan semua atau mana-mana daripada yang berikut:
+51. Seseorang pegawai diberi kuasa hendaklah, bagi
+
+<!-- marginal: tambahan. -->
+
+maksud melaksanakan Akta ini, mempunyai kuasa untuk melakukan semua atau mana-mana daripada yang berikut:
 
 (a) menghendaki pengemukaan rekod, akaun, data terkomputer dan dokumen yang disimpan oleh pemberi francais, broker francais atau pemegang
 
@@ -1216,11 +1346,23 @@ permohonan yang ditetapkan.
 
 (2) Pendaftar boleh mengenakan syarat-syarat atas pendaftaran pemegang francais yang disebut dalam subseksyen (1).
 
-Pemeriksaan
+<!-- marginal: Pemeriksaan -->
 
-56. Pendaftar boleh membenarkan pemeriksaan awam awam mana-mana dokumen penzahiran yang difailkan kepada dokumen Pendaftarmelainkan jika, pada pendapatnya, pemeriksaan penzahiran. itu boleh mendatangkan mudarat kepada pemberi francais atau pemegang francais atau mana-mana orang yang terlibat dalam perniagaan francais yang berhubungan dengan pemeriksaan itu atau pemeriksaan itu tidak perlu atau sesuai demi kepentingan awam.
+56. Pendaftar boleh membenarkan pemeriksaan awam
 
-Iklan.
+<!-- marginal: awam -->
+
+mana-mana dokumen penzahiran yang difailkan kepada
+
+<!-- marginal: dokumen -->
+
+Pendaftarmelainkan jika, pada pendapatnya, pemeriksaan
+
+<!-- marginal: penzahiran. -->
+
+itu boleh mendatangkan mudarat kepada pemberi francais atau pemegang francais atau mana-mana orang yang terlibat dalam perniagaan francais yang berhubungan dengan pemeriksaan itu atau pemeriksaan itu tidak perlu atau sesuai demi kepentingan awam.
+
+<!-- marginal: Iklan. -->
 
 57. (1) Mana-mana orang yang berhasrat untuk menerbitkan, mengedarkan atau menggunakan apa-apa iklan yang menawarkan untuk menjual atau membeli francais di bawah Akta ini hendaklah memfailkan dengan Pendaftar satu salinan asal iklan itu sekurang-kurangnya lima hari sebelum penerbitan, pengeluaran atau penggunaan yang pertama iklan itu atau apa-apa tempoh yang lebih singkat yang diluluskan oleh Pendaftar, atau melainkan jika iklan itu telah dikecualikan oleh Pendaftar daripada seksyen ini.
 
@@ -1228,13 +1370,25 @@ Iklan.
 
 (3) Seseorang yang tidak mematuhi subseksyen (1) adalah melakukan suatu kesalahan.
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-58. Menteri boleh, melalui perintah yang disiarkan dalam mengecuali- Warta, mengecualikan, tertakluk kepada apa-apa syarat kan. yang difikirkan sesuai untuk dikenakan, mana-mana orang atau kelas orang atau perniagaan atau industri daripada kesemua atau mana-mana peruntukan Akta ini.
+58. Menteri boleh, melalui perintah yang disiarkan dalam
 
-Pelindungan
+<!-- marginal: mengecuali- -->
 
-59. Tiada tindakan atau pendakwaan boleh dibawa, pegawai. dimulakan atau disenggara dalam mana-mana mahkamah terhadap—
+Warta, mengecualikan, tertakluk kepada apa-apa syarat
+
+<!-- marginal: kan. -->
+
+yang difikirkan sesuai untuk dikenakan, mana-mana orang atau kelas orang atau perniagaan atau industri daripada kesemua atau mana-mana peruntukan Akta ini.
+
+<!-- marginal: Pelindungan -->
+
+59. Tiada tindakan atau pendakwaan boleh dibawa,
+
+<!-- marginal: pegawai. -->
+
+dimulakan atau disenggara dalam mana-mana mahkamah terhadap—
 
 (a) Pendaftar, Timbalan Pendaftar, Penolong Pendaftar atau mana-mana pegawai yang diberi kuasa sewajarnya di bawah Akta ini bagi atau
 
@@ -1274,9 +1428,17 @@ semua atau mana-mana maksud yang berikut:
 
 (1) boleh menetapkan apa-apa perbuatan yang melanggar peraturan-peraturan itu sebagai suatu kesalahan dan boleh menetapkan penalti denda tidak melebihi sepuluh ribu ringgit atau pemenjaraan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
 
-Kecualian
+<!-- marginal: Kecualian -->
 
-61. Pemberi francais atau broker francais yang telah dan memberikan atau menjual di dalam atau di luar Malaysia peralihan. francais kepada penerima francais sebelum Akta ini mula berkuat kuasa hendaklah, tidak lewat daripada dua belas bulan dari permulaan kuat kuasa itu, mendaftarkan francaisnya dengan Pendaftar mengikut tatacara dan kehendak yang ditetapkan di bawah Akta ini.
+61. Pemberi francais atau broker francais yang telah
+
+<!-- marginal: dan -->
+
+memberikan atau menjual di dalam atau di luar Malaysia
+
+<!-- marginal: peralihan. -->
+
+francais kepada penerima francais sebelum Akta ini mula berkuat kuasa hendaklah, tidak lewat daripada dua belas bulan dari permulaan kuat kuasa itu, mendaftarkan francaisnya dengan Pendaftar mengikut tatacara dan kehendak yang ditetapkan di bawah Akta ini.
 
 ## HURAIAN
 

@@ -4,7 +4,9 @@
 
 intituled
 
-An Act to amend the Development Financial Institutions Act 2002. [ ]
+An Act to amend the Development Financial Institutions Act
+
+2002. [ ]
 
 ENACTED by the Parliament of Malaysia as follows:
 
@@ -170,7 +172,9 @@ in Malaysia or in any country, territory or place outside Malaysia, shall be tre
 
 “(vi) a person who owns or controls twenty per cent or more of the voting shares of a corporation falling within subparagraph (i) and any relative of such person, or any related trusts together with one or more persons falling within subparagraph (i).”; and
 
-(d) by inserting after subsection (4) the following subsection:
+(d) by inserting after subsection (4) the following
+
+<!-- marginal: subsection: -->
 
 “(5) Any reference in this Act to the power of the Minister or the Bank to impose or specify conditions
 
@@ -542,7 +546,7 @@ conviction be liable to imprisonment for a term not exceeding one year or to a f
 
 31. The principal Act is amended by inserting after section 33 the following Part:
 
-“Part IIIa
+## “PART IIIA
 
 ## ISLAMIC FINANCIAL BUSINESS
 
@@ -588,7 +592,9 @@ provided that the prescribed institution obtains the prior written approval of t
 
 (3) A prescribed institution which has obtained an approval of the Bank under paragraph (1)(b) shall not carry on its entire business or activity in accordance with Shariah unless such prescribed institution obtains the prior written approval of the Bank under paragraph (1)(a).
 
-(4) Any prescribed institution that contravenes subsection (1) or (3) commits an offence and shall on conviction be liable to imprisonment for a term not exceeding ten years or to a fine not exceeding fifty million ringgit or to both.
+(4) Any prescribed institution that contravenes subsection
+
+(1) or (3) commits an offence and shall on conviction be liable to imprisonment for a term not exceeding ten years or to a fine not exceeding fifty million ringgit or to both.
 
 ### Requirement on prescribed institution approved under
 
@@ -636,7 +642,9 @@ Shariah compliance
 
 <!-- page 24 -->
 
-(5) Any prescribed institution that contravenes subsection (1) or (3) commits an offence and shall on conviction be liable to imprisonment for a term not exceeding eight years or to a fine not exceeding twenty-five million ringgit or to both.
+(5) Any prescribed institution that contravenes subsection
+
+(1) or (3) commits an offence and shall on conviction be liable to imprisonment for a term not exceeding eight years or to a fine not exceeding twenty-five million ringgit or to both.
 
 ### Power of the Bank to specify standards on Shariah
 
@@ -890,7 +898,7 @@ and the remuneration and expenses relating to such appointment shall be borne by
 
 41. The principal Act is amended by inserting after section 42 the following Part:
 
-“Part IVa
+## “PART IVA
 
 ## BUSINESS CONDUCT AND CONSUMER PROTECTION
 
@@ -1062,7 +1070,9 @@ and the remuneration and expenses relating to such appointment shall be borne by
 
 (i) by substituting for the word “otherwise” the words “if the Bank is of the opinion”;
 
-(ii) by deleting the word “or” at the end of paragraph (b);
+(ii) by deleting the word “or” at the end of paragraph
+
+(b);
 
 (iii) by substituting for paragraph (c) the following paragraph: “
 
@@ -1306,7 +1316,9 @@ any course of conduct, that is unsafe or unsound or has failed to commit an act 
 
 (e) by inserting after subsection (3) the following subsection:
 
-“(4) Any person who refuses to allow the Bank to take possession of the document, title, security, cash, apparatus, equipment or machinery under subsection (3), commits an offence and shall on conviction be liable to imprisonment for a term not exceeding eight years or to a fine not exceeding twenty-five million ringgit or to both.”.
+“(4) Any person who refuses to allow the Bank to take possession of the document, title, security, cash, apparatus, equipment or machinery under subsection
+
+(3), commits an offence and shall on conviction be liable to imprisonment for a term not exceeding eight years or to a fine not exceeding twenty-five million ringgit or to both.”.
 
 ### Amendment of section 85
 
@@ -1678,7 +1690,7 @@ whichever occurs earlier.
 
 93. The principal Act is amended by inserting after section 106 the following Parts:
 
-“Part VIIIa
+## “PART VIIIA
 
 ADMINISTRATIvE ACTION
 
@@ -1806,7 +1818,7 @@ an action under subsection (3) can be taken against the body corporate or uninco
 
 (3) The Monetary Penalty Review Committee may decide to confirm the decision of the Bank or require the Bank to reconsider and reach a decision in accordance with the findings of the Committee.
 
-Part VIIIb
+## PART VIIIB
 
 CIvIL ACTIONS
 
@@ -1822,7 +1834,7 @@ CIvIL ACTIONS
 
 (d) any standards, condition, restriction, specification or requirement under this Act; or
 
-(e) any action taken by the Bank under subsection 106a(3),
+(e) any action taken by the Bank under subsection 106A(3),
 
 the Bank may institute civil proceedings in the court seeking any order specified under subsection 106f(1) against that person whether or not that person has been charged with an offence in respect of the contravention or breach or whether or not a contravention or breach has been proved in a prosecution.
 
@@ -2024,7 +2036,7 @@ to the High Court for an order under subsection (4) by way of originating summon
 
 98. Subsection 113(1) of the principal Act is amended by deleting the words “, including the daily fine, if any, in the case of a continuing offence,”.
 
-### New sections 114a, 114b, 114c and 114d
+## NEW SECTIONS 114A, 114B, 114C AND 114D
 
 99. The principal Act is amended by inserting after section 114 the following sections:
 
@@ -2312,7 +2324,9 @@ corresponds with sections 33e and 42c of the principal Act as introduced in this
 
 <!-- page 88 -->
 
-“Second Schedule [Subsection 42d(1)]
+## “SECOND SCHEDULE
+
+[Subsection 42d(1)]
 
 ## LIST OF PROHIBITED BUSINESS CONDUCT
 
@@ -2334,7 +2348,7 @@ corresponds with sections 33e and 42c of the principal Act as introduced in this
 
 6. Colluding with any other person to fix or control the features or terms of any financial service or product to the detriment of any financial consumer.
 
-## thIrd Schedule
+## THIRD SCHEDULE
 
 [Paragraph 106a(3)(b)]
 
@@ -2456,7 +2470,7 @@ subsection 34(1) or (2)
 
 <!-- page 91 -->
 
-## fourth Schedule
+## FOURTH SCHEDULE
 
 [Section 120]
 
@@ -2470,13 +2484,21 @@ Purposes for or circumstances in Persons to whom customer’s which customer’s
 
 <!-- marginal: disclosed -->
 
-1. Documents or information which is Any person permitted by the customer permitted in writing by the customer, or, as the case may be, the executor, the executor or administrator of the administrator or legal personal customer, or in the case of a customer representative. who is incapacitated, any other legal personal representative. 2. In connection with an application Any person whom a prescribed for a Faraid certificate, grant of institution in good faith believes probate, letters of administration or is entitled to obtain a Faraid a distribution order under the Small certificate, the grant of probate, letters Estates (Distribution) Act 1955 [Act 98] of administration or a distribution in respect of a deceased customer’s order. estate. 3. In a case where the customer is All persons to whom the disclosure declared bankrupt, is being or has been is necessary in connection with wound up or dissolved in Malaysia the bankruptcy or winding up or or in any country, territory or place dissolution. outside Malaysia. 4. Any criminal proceedings or civil All persons to whom the disclosure proceedings between a prescribed is necessary for the purpose of institution and— the criminal proceedings or civil proceedings.
+1. Documents or information which is Any person permitted by the customer permitted in writing by the customer, or, as the case may be, the executor, the executor or administrator of the administrator or legal personal customer, or in the case of a customer representative. who is incapacitated, any other legal personal representative.
+
+2. In connection with an application Any person whom a prescribed for a Faraid certificate, grant of institution in good faith believes probate, letters of administration or is entitled to obtain a Faraid a distribution order under the Small certificate, the grant of probate, letters Estates (Distribution) Act 1955 [Act 98] of administration or a distribution in respect of a deceased customer’s order. estate.
+
+3. In a case where the customer is All persons to whom the disclosure declared bankrupt, is being or has been is necessary in connection with wound up or dissolved in Malaysia the bankruptcy or winding up or or in any country, territory or place dissolution. outside Malaysia.
+
+4. Any criminal proceedings or civil All persons to whom the disclosure proceedings between a prescribed is necessary for the purpose of institution and— the criminal proceedings or civil proceedings.
 
 (a) its customer, his surety or guarantor relating to the customer’s transaction;
 
 (b) two or more parties making adverse claims to money in a customer’s account where the prescribed institution seeks relief by way of interpleader; or
 
-(c) one or more parties in respect of property in or over which some right or interest has been conferred on the prescribed institution. 5. Compliance by a prescribed All persons to whom the disclosure institution which has been served a is required to be made under the garnishee order attaching moneys in garnishee order. the account of a customer.
+(c) one or more parties in respect of property in or over which some right or interest has been conferred on the prescribed institution.
+
+5. Compliance by a prescribed All persons to whom the disclosure institution which has been served a is required to be made under the garnishee order attaching moneys in garnishee order. the account of a customer.
 
 <!-- page 92 -->
 
@@ -2522,7 +2544,9 @@ This Bill (“the proposed Act”) seeks to amend the Development Financial Inst
 
 9. Clause 8 seeks to introduce a new section 6a into Act 618 to require a chairman, director, Chief Executive Officer or senior officer of a prescribed institution to comply with the criteria set out in the First Schedule.
 
-10. Clauses 9, 11, 12, 14, 17, 24, 25, 26, 28, 29, 30, 34, 35, 36, 37, 40, 42, 45, 55, 56, 57, 58, 59, 60, 61, 63, 64, 66, 67, 68, 95 and 103 seek to delete subsections 7(2), 10(2), 11(2), (4), and (6), 13(2), 16(6), 26(3), 27(2) and (4), 28(2), 31(2) and (7), 32(2) and (5), 33(3), 36(3), 37(2) and (5), 38(2), 39(5), 42(2) and (4), 44(5), 48(2), 63(2), 64(2) and (6), 65(2), 69(2), 70(2), 71(2), 72(2), 73(2) and (5), 74(2), 76(2) and (7), 77(2), 78(2), section 107 and subsection 116(3) of Act 618 and clauses 42, 43, 44, 46, 49, 53, 54, 59, and 85 seek to amend subsections 44(2), 46(3), 47(2), 49(3), 53(2), 59(2) and (6), 62(2) and 95(3) of Act 618 respectively following the removal of the criminal penalty for these sections due to the introduction of the new Part vIIIa and Part vIIIb that empowers the Bank to take administrative action and civil action.
+10. Clauses 9, 11, 12, 14, 17, 24, 25, 26, 28, 29, 30, 34, 35, 36, 37, 40, 42, 45, 55, 56, 57, 58, 59, 60, 61, 63, 64, 66, 67, 68, 95 and 103 seek to delete subsections 7(2), 10(2), 11(2), (4), and (6), 13(2), 16(6), 26(3), 27(2) and
+
+(4), 28(2), 31(2) and (7), 32(2) and (5), 33(3), 36(3), 37(2) and (5), 38(2), 39(5), 42(2) and (4), 44(5), 48(2), 63(2), 64(2) and (6), 65(2), 69(2), 70(2), 71(2), 72(2), 73(2) and (5), 74(2), 76(2) and (7), 77(2), 78(2), section 107 and subsection 116(3) of Act 618 and clauses 42, 43, 44, 46, 49, 53, 54, 59, and 85 seek to amend subsections 44(2), 46(3), 47(2), 49(3), 53(2), 59(2) and (6), 62(2) and 95(3) of Act 618 respectively following the removal of the criminal penalty for these sections due to the introduction of the new Part vIIIa and Part vIIIb that empowers the Bank to take administrative action and civil action.
 
 11. Clause 10 seeks to amend section 8 of Act 618 to require any chairman, director, Chief Executive Officer or senior officer of a prescribed institution to immediately cease to hold office and cease to act in such capacity if he is disqualified under subsection 7(1) or if he no longer complies with any of the criteria set out in the First Schedule. The clause further provides that the
 
@@ -2638,11 +2662,7 @@ The new Part VIIIb (sections 106e to 106l) seeks to empower the Bank to institut
 
 48. Clause 107 seeks to substitute for section 126 of Act 618 a new section 126 which provides that the Bank may issue guidance consisting of such information, advice or recommendation as the Bank considers appropriate.
 
-49. Clause 108 seeks to substitute for section 127 of Act 618 a new section 127 which provides that nothing in Act 618 shall affect or derogate from Division 2, Part XIv of the Financial Services Act 2013, or Division 2,
-
-## Part Xv of the Islamic Financial Services Act 2013, and the application of the
-
-provisions in Act 618 shall be subject to provisions in those Divisions, and in the event of any conflict or inconsistency, the provisions in those Divisions shall prevail over the provisions in Act 618.
+49. Clause 108 seeks to substitute for section 127 of Act 618 a new section 127 which provides that nothing in Act 618 shall affect or derogate from Division 2, Part XIv of the Financial Services Act 2013, or Division 2, Part Xv of the Islamic Financial Services Act 2013, and the application of the provisions in Act 618 shall be subject to provisions in those Divisions, and in the event of any conflict or inconsistency, the provisions in those Divisions shall prevail over the provisions in Act 618.
 
 50. Clause 109 seeks to delete section 129 of Act 618 following the introduction of the new section 33a into Act 618 on Islamic financial business.
 

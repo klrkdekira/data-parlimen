@@ -8,17 +8,25 @@ An Act to amend the Malaysian Examinations Council Act 1980. [ ]
 
 BE IT ENACTED by the Seri Paduka Baginda Yang di-Pertuan Agong with the advice and consent of the Dewan Negara and Dewan Rakyat in Parliament assembled, and by the authority of the same, as follows:
 
-Short title.
+<!-- marginal: Short title. -->
 
 1. This Act may be cited as the Malaysian Examinations Council (Amendment) Act 1997.
 
-Amendment
+<!-- marginal: Amendment -->
 
-2. The Malaysian Examinations Council Act 1980, which of section 2. in this Act is referred to as the "principal Act", is amended Act 225. in section 2 by inserting after the definition of "Council" the following definition:
+2. The Malaysian Examinations Council Act 1980, which
+
+<!-- marginal: of section 2. -->
+
+in this Act is referred to as the "principal Act", is amended
+
+<!-- marginal: Act 225. -->
+
+in section 2 by inserting after the definition of "Council" the following definition:
 
 ' "Fund" means the Fund established by section 17;'.
 
-New Part
+<!-- marginal: New Part -->
 
 3. The principal Act is amended by inserting after Part III the following Part:
 
@@ -26,9 +34,7 @@ New Part
 
 ## DISCIPLINE
 
-Disciplinary
-
-16A. (1) The Council shall have disciplinary committees. authority over all its officers and servants and shall exercise disciplinary control in respect of all such persons in accordance with this Act and any regulations made under section 16D.
+Disciplinary 16A. (1) The Council shall have disciplinary committees. authority over all its officers and servants and shall exercise disciplinary control in respect of all such persons in accordance with this Act and any regulations made under section 16D.
 
 <!-- page 2 -->
 
@@ -58,9 +64,21 @@ Disciplinary
 
 (2) shall have the power to take disciplinary action and impose any disciplinary punishment or any combination of two or more disciplinary punishments as may be provided for under any regulations made under section 16D.
 
-Appeal
+<!-- marginal: Appeal -->
 
-16B. (1) A decision of the disciplinary committee against under section 1 6A( 2 )( a) shall be appealable to decision of disciplinary the Minister. committee.
+16B. (1) A decision of the disciplinary committee
+
+<!-- marginal: against -->
+
+under section 1 6A( 2 )( a) shall be appealable to
+
+<!-- marginal: decision of -->
+
+<!-- marginal: disciplinary -->
+
+the Minister.
+
+<!-- marginal: committee. -->
 
 (2) A decision of any disciplinary committee under section 16A(2)(b) shall be appealable to the Disciplinary Appeal Board established under section 16c.
 
@@ -68,7 +86,19 @@ Appeal
 
 (4) The decision of the Minister or the Disciplinary Appeal Board under subsection (3) shall be final.
 
-Establishment 16c. (1) There shall be a Disciplinary Appeal of Board of the Council which shall consist of the Disciplinary Appeal following members: Board.
+Establishment 16c. (1) There shall be a Disciplinary Appeal
+
+<!-- marginal: of -->
+
+Board of the Council which shall consist of the
+
+<!-- marginal: Disciplinary -->
+
+<!-- marginal: Appeal -->
+
+following members:
+
+<!-- marginal: Board. -->
 
 (a) the Chairman of the Council, who shall be the chairman of the Disciplinary Appeal Board and who shall have the casting vote; and
 
@@ -80,9 +110,19 @@ Bill
 
 (2) When the Disciplinary Appeal Board considers an appeal made under section ,16B, a member of the disciplinary committee against whose decision the appeal is made who is also a member of the Council shall not be present or in any way participate in any proceedings relating to that appeal.
 
-Power to
+<!-- marginal: Power to -->
 
-16D. (1) The Council, with the approval of the make Minister, may make regulations to provide for disciplinary regulations. the discipline of its officers and servants.
+16D. (1) The Council, with the approval of the
+
+<!-- marginal: make -->
+
+Minister, may make regulations to provide for
+
+<!-- marginal: disciplinary -->
+
+<!-- marginal: regulations. -->
+
+the discipline of its officers and servants.
 
 (2) The disciplinary regulations made under this section—
 
@@ -122,9 +162,17 @@ of misconduct in respect of which a criminal charge has been proved against him;
 
 (ii) where an order of detention or restriction has been made in respect of or imposed on the officer or servant.
 
-Imposition
+<!-- marginal: Imposition -->
 
-16E. (1) A person who is or was in the of employment of the Council may be surcharged surcharge if it appears to the Council that the person—
+16E. (1) A person who is or was in the
+
+<!-- marginal: of -->
+
+employment of the Council may be surcharged
+
+<!-- marginal: surcharge -->
+
+if it appears to the Council that the person—
 
 (a) has failed to collect moneys owing to the Council for the collection of which he is or was responsible;
 
@@ -162,7 +210,11 @@ by equal monthly instalments not exceeding one- fourth of the total monthly sala
 
 <!-- page 8 -->
 
-(7) For the purposes of subsection ( 1 )( d ), "accounting officer" includes every officer and servant who is charged with—
+(7) For the purposes of subsection
+
+<!-- marginal: ( 1 )( d ), -->
+
+"accounting officer" includes every officer and servant who is charged with—
 
 (a) the duty of collecting, receiving or accounting for, or who in fact collects, receives or accounts for, any moneys of the Fund;
 
@@ -170,9 +222,7 @@ by equal monthly instalments not exceeding one- fourth of the total monthly sala
 
 (c) the receipt, custody or disposal of, or the accounting for, any stores or property of the Council or who in fact receives, holds, disposes or accounts for such stores or property.
 
-Council may
-
-16F. In the making of any regulations under adopt this Part, the Council, with the approval of the regulations. etc. Minister, may adopt with such modifications as it deems fit, any regulations, rules, policies, circulars and directives enacted or issued by the Federal Government.".
+Council may 16F. In the making of any regulations under adopt this Part, the Council, with the approval of the regulations. etc. Minister, may adopt with such modifications as it deems fit, any regulations, rules, policies, circulars and directives enacted or issued by the Federal Government.".
 
 ## EXPLANATORY STATEMENT
 

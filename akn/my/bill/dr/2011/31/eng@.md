@@ -4,7 +4,9 @@
 
 intituled
 
-An Act to amend the Inland Revenue Board of Malaysia Act 1995. [ ]
+An Act to amend the Inland Revenue Board of Malaysia Act
+
+1995. [ ]
 
 ENACTED by the Parliament of Malaysia as follows:
 

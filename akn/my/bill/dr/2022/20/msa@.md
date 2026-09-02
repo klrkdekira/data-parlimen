@@ -8,29 +8,37 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian i
+## BAHAGIAN I
 
-PERMULaan
+## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Pemakaian 3. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PENTADBIRAN SKIM KESELAMATAN SOSIAL SURI RUMAH
 
 4. Pentadbiran Skim Keselamatan Sosial Suri Rumah 5. Ketua Pengarah 6. Kuasa Pertubuhan untuk memegang harta, dsb. 7. Penjalanan fungsi dan kuasa Pertubuhan
 
-## Bahagian III
+## BAHAGIAN III
 
 ## JAWATANKUASA
 
-8. Jawatankuasa Keselamatan Sosial Suri Rumah 9. Penubuhan jawatankuasa 10. Ketidaklayakan pelantikan sebagai anggota Jawatankuasa Keselamatan Sosial Suri Rumah atau jawatankuasa 11. Pemberhentian keanggotaan Jawatankuasa Keselamatan Sosial Suri Rumah atau jawatankuasa 12. Penzahiran kepentingan
+8. Jawatankuasa Keselamatan Sosial Suri Rumah 9. Penubuhan jawatankuasa
+
+10. Ketidaklayakan pelantikan sebagai anggota Jawatankuasa Keselamatan Sosial Suri Rumah atau jawatankuasa
+
+11. Pemberhentian keanggotaan Jawatankuasa Keselamatan Sosial Suri Rumah atau jawatankuasa
+
+12. Penzahiran kepentingan
+
+<!-- marginal: WJW22/0653 BM Teks.indd 1 -->
 
 <!-- marginal: 7/15/22 8:29 AM -->
 
 <!-- page 2 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PELAKSANAAN, PENDAFTARAN DAN CARUMAN
 
@@ -48,7 +56,7 @@ PERMULaan
 
 19. Kuasa untuk melantik ejen
 
-## Bahagian V
+## BAHAGIAN V
 
 ## FAEDAH
 
@@ -98,25 +106,69 @@ PERMULaan
 
 <!-- page 3 -->
 
-41. Penerima faedah untuk mematuhi syarat 42. Kewajipan melapor perubahan keadaan, dsb. 43. Hak Pertubuhan untuk mendapatkan balik faedah atau wang 44. Suri rumah berinsurans yang mempunyai lebih daripada satu caruman 45. Suri rumah berinsurans yang berhak kepada faedah hilang upaya dan keilatan
+41. Penerima faedah untuk mematuhi syarat
 
-## Bahagian VI
+42. Kewajipan melapor perubahan keadaan, dsb.
+
+43. Hak Pertubuhan untuk mendapatkan balik faedah atau wang
+
+44. Suri rumah berinsurans yang mempunyai lebih daripada satu caruman
+
+45. Suri rumah berinsurans yang berhak kepada faedah hilang upaya dan keilatan
+
+## BAHAGIAN VI
 
 ## PENENTUAN, SEMAKAN SEMULA DAN RAYUAN
 
-46. Penentuan persoalan mengenai keilatan atau hilang upaya kekal 47. Rujukan kepada penilai perubatan dan rayuan kepada Jemaah Doktor Rayuan 48. Orang yang menuntut faedah tidak berupaya diperiksa oleh penilai perubatan atau Jemaah Doktor Rayuan 49. Semakan semula penentuan oleh penilai perubatan atau Jemaah Doktor Rayuan 50. Semakan semula elaun keuzuran 51. Penggantungan dan pemberhentian elaun keuzuran
+46. Penentuan persoalan mengenai keilatan atau hilang upaya kekal
 
-## Bahagian VII
+47. Rujukan kepada penilai perubatan dan rayuan kepada Jemaah Doktor Rayuan
+
+48. Orang yang menuntut faedah tidak berupaya diperiksa oleh penilai perubatan atau Jemaah Doktor Rayuan
+
+49. Semakan semula penentuan oleh penilai perubatan atau Jemaah Doktor Rayuan
+
+50. Semakan semula elaun keuzuran
+
+51. Penggantungan dan pemberhentian elaun keuzuran
+
+## BAHAGIAN VII
 
 ## PERUNTUKAN KEWANGAN
 
-52. Kumpulan Wang Keselamatan Sosial Suri Rumah 53. Perbelanjaan yang hendaklah dipertanggungkan pada Kumpulan Wang 54. Perbelanjaan bagi pentadbiran 55. Kuasa untuk menerima pemberian, derma, dsb. 56. Kuasa untuk melabur 57. Kuasa untuk meminjam 58. Anggaran tahunan 59. Akaun dan laporan 60. Audit 61. Laporan tahunan 62. Laporan tahunan dan akaun teraudit hendaklah dibentangkan 63. Penilaian aset dan liabiliti 64. Pengenaan surcaj
+52. Kumpulan Wang Keselamatan Sosial Suri Rumah
+
+53. Perbelanjaan yang hendaklah dipertanggungkan pada Kumpulan Wang
+
+54. Perbelanjaan bagi pentadbiran
+
+55. Kuasa untuk menerima pemberian, derma, dsb.
+
+56. Kuasa untuk melabur
+
+57. Kuasa untuk meminjam
+
+58. Anggaran tahunan
+
+59. Akaun dan laporan
+
+60. Audit
+
+61. Laporan tahunan
+
+62. Laporan tahunan dan akaun teraudit hendaklah dibentangkan
+
+63. Penilaian aset dan liabiliti
+
+64. Pengenaan surcaj
+
+<!-- marginal: WJW22/0653 BM Teks.indd 3 -->
 
 <!-- marginal: 7/15/22 8:29 AM -->
 
 <!-- page 4 -->
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## TRIBUNAL KESELAMATAN SOSIAL SURI RUMAH
 
@@ -140,7 +192,7 @@ PERMULaan
 
 74. Penggantungan bayaran sementara menunggu rayuan
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## PENGUATKUASAAN DAN PENYIASATAN
 
@@ -150,7 +202,7 @@ PERMULaan
 
 77. Menghalang, dsb., Ketua Pengarah, Timbalan Ketua Pengarah atau Pemeriksa
 
-## Bahagian X
+## BAHAGIAN X
 
 ## KESALAHAN DAN PENALTI
 
@@ -170,27 +222,55 @@ PERMULaan
 
 <!-- page 5 -->
 
-## Bahagian XI
+## BAHAGIAN XI
 
 AM
 
-84. Pelantikan ejen pemungut 85. Mengguna khidmat juruaudit, aktuari, dsb. 86. Ketua Pengarah, Timbalan Ketua Pengarah, Pemeriksa, dan pegawai dan pekhidmat Pertubuhan berhak menerima gaji, elaun, dsb. 87. Pekhidmat awam 88. Kuasa Pertubuhan untuk menubuhkan atau mengambil alih syarikat 89. Kuasa untuk mengecualikan 90. Pelupusan dokumen selepas lebih daripada tiga tahun 91. Kuasa untuk meminda Jadual 92. Kuasa untuk membuat peraturan-peraturan 93. Syor Jawatankuasa untuk menyemak semula Skim 94. Pertubuhan boleh berurusan dengan orang yang diberi kuasa 95. Pengemukaan dokumen secara elektronik 96. Penubuhan dan penyenggaraan hospital, dsb. 97. Kuasa untuk bekerjasama dengan institusi yang sedia ada atau menggalakkan langkah untuk kesihatan, kebajikan, dsb., suri rumah berinsurans
+84. Pelantikan ejen pemungut
 
-## JadUaL PERtaMa
+85. Mengguna khidmat juruaudit, aktuari, dsb.
 
-## JadUaL KEdUa
+86. Ketua Pengarah, Timbalan Ketua Pengarah, Pemeriksa, dan pegawai dan pekhidmat Pertubuhan berhak menerima gaji, elaun, dsb.
 
-## JadUaL KEtiga
+87. Pekhidmat awam
 
-## JadUaL KEEMPat
+88. Kuasa Pertubuhan untuk menubuhkan atau mengambil alih syarikat
 
-## JadUaL KELiMa
+89. Kuasa untuk mengecualikan
 
-## JadUaL KEEnaM
+90. Pelupusan dokumen selepas lebih daripada tiga tahun
 
-## JadUaL KEtUJUh
+91. Kuasa untuk meminda Jadual
 
-## JadUaL KELaPan
+92. Kuasa untuk membuat peraturan-peraturan
+
+93. Syor Jawatankuasa untuk menyemak semula Skim
+
+94. Pertubuhan boleh berurusan dengan orang yang diberi kuasa
+
+95. Pengemukaan dokumen secara elektronik
+
+96. Penubuhan dan penyenggaraan hospital, dsb.
+
+97. Kuasa untuk bekerjasama dengan institusi yang sedia ada atau menggalakkan langkah untuk kesihatan, kebajikan, dsb., suri rumah berinsurans
+
+## JADUAL PERTAMA
+
+## JADUAL KEDUA
+
+## JADUAL KETIGA
+
+## JADUAL KEEMPAT
+
+## JADUAL KELIMA
+
+## JADUAL KEENAM
+
+## JADUAL KETUJUH
+
+## JADUAL KELAPAN
+
+<!-- marginal: WJW22/0653 BM Teks.indd 5 -->
 
 <!-- marginal: 7/15/22 8:29 AM -->
 
@@ -208,7 +288,7 @@ Suatu Akta untuk mengadakan peruntukan bagi keselamatan sosial bagi suri rumah b
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -221,6 +301,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 ### Pemakaian
 
 2. (1) Akta ini hendaklah terpakai bagi mana-mana suri rumah yang merupakan warganegara atau pemastautin tetap Malaysia yang berdaftar di bawah seksyen 14.
+
+<!-- marginal: WJW22/0653 BM Teks.indd 7 -->
 
 <!-- marginal: 7/15/22 8:29 AM -->
 
@@ -282,6 +364,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 “penilai perubatan” ertinya penilai perubatan yang dilantik di bawah peraturan-peraturan yang dibuat di bawah Akta ini;
 
+<!-- marginal: WJW22/0653 BM Teks.indd 9 -->
+
 <!-- marginal: 7/15/22 8:29 AM -->
 
 <!-- page 10 -->
@@ -318,7 +402,7 @@ dibayar olehnya di bawah Akta ini dengan bulan sebaik sebelum bulan dia mengemuk
 
 “Tribunal” ertinya Tribunal Keselamatan Sosial Suri Rumah yang ditubuhkan di bawah seksyen 65.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PENTADBIRAN SKIM KESELAMATAN SOSIAL SURI RUMAH
 
@@ -366,7 +450,7 @@ dibayar olehnya di bawah Akta ini dengan bulan sebaik sebelum bulan dia mengemuk
 
 <!-- page 13 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 ## JAWATANKUASA
 
@@ -484,7 +568,7 @@ dibayar olehnya di bawah Akta ini dengan bulan sebaik sebelum bulan dia mengemuk
 
 12. Jika mana-mana anggota Jawatankuasa, atau jawatankuasa yang ditubuhkan di bawah seksyen 9, mempunyai apa-apa kepentingan langsung atau tidak langsung dalam apa-apa perkara yang sedang dipertimbangkan oleh Jawatankuasa atau jawatankuasa yang ditubuhkan di bawah seksyen 9, mengikut mana-mana yang berkenaan, dia hendaklah dengan serta-merta mengisytiharkan kepada Pengerusi Jawatankuasa atau jawatankuasa yang sewajarnya jenis dan takat kepentingannya dalam perkara itu dan anggota itu tidak boleh hadir atau mengambil bahagian dalam apa-apa perbincangan atau keputusan Jawatankuasa atau jawatankuasa yang ditubuhkan di bawah seksyen 9, mengikut mana-mana yang berkenaan, tentang perkara itu.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PELAKSANAAN, PENDAFTARAN DAN CARUMAN
 
@@ -582,7 +666,7 @@ dibayar olehnya di bawah Akta ini dengan bulan sebaik sebelum bulan dia mengemuk
 
 (3) Mana-mana ejen yang melanggar subseksyen (2) melakukan suatu kesalahan dan hendaklah, apabila disabitkan, didenda tidak melebihi sepuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## FAEDAH
 
@@ -916,7 +1000,7 @@ suri rumah berinsurans itu atau orang tanggungannya berhak untuk menerima hanya 
 
 45. Jika suri rumah berinsurans berhak kepada kedua-dua faedah hilang upaya dan keilatan disebabkan oleh hilang upaya yang sama di bawah Akta ini, dia berhak untuk menerima hanya satu faedah di bawah Akta ini mengikut cara sebagaimana yang ditetapkan.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PENENTUAN, SEMAKAN SEMULA DAN RAYUAN
 
@@ -1006,7 +1090,7 @@ Dengan syarat bahawa dia tidak boleh dikehendaki untuk menjalani apa-apa pembeda
 
 <!-- page 39 -->
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PERUNTUKAN KEWANGAN
 
@@ -1046,7 +1130,9 @@ Dengan syarat bahawa dia tidak boleh dikehendaki untuk menjalani apa-apa pembeda
 
 ### Kumpulan Wang
 
-53. Kumpulan Wang hendaklah dibelanjakan bagi maksud yang berikut:
+53. Kumpulan Wang hendaklah dibelanjakan bagi maksud yang
+
+<!-- marginal: berikut: -->
 
 (a) bayaran faedah dan pemberian rawatan dan layanan perubatan kepada suri rumah berinsurans atau orang tanggungannya;
 
@@ -1059,6 +1145,8 @@ Dengan syarat bahawa dia tidak boleh dikehendaki untuk menjalani apa-apa pembeda
 (e) bayaran belanja atau kos yang ditanggung oleh Pertubuhan berhubung dengan Tribunal, Jemaah Doktor Rayuan, penilai perubatan dan ejen bagi maksud Akta ini;
 
 (f) bayaran belanja atau wang yang dikehendaki untuk menunaikan apa-apa penghakiman, keputusan atau award oleh mana-mana mahkamah atau tribunal terhadap Pertubuhan, Pengerusi Lembaga atau Jawatankuasa atau jawatankuasa, Ketua Pengarah, Timbalan Ketua Pengarah, mana-mana anggota Lembaga atau jawatankuasa, Pemeriksa, dan pegawai dan pekhidmat Pertubuhan berkenaan dengan
+
+<!-- marginal: WJW22/0653 BM Teks.indd 40 -->
 
 <!-- marginal: 7/15/22 8:29 AM -->
 
@@ -1226,7 +1314,7 @@ pemberian pinjaman dan pendahuluan, dan perbelanjaan berkenaan dengan pejabat da
 
 dengan ansuran bulanan yang sama banyak yang tidak melebihi satu per empat daripada jumlah gaji atau pencen bulanan orang itu, mengikut mana-mana yang berkenaan.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## TRIBUNAL KESELAMATAN SOSIAL SURI RUMAH
 
@@ -1360,7 +1448,7 @@ dengan ansuran bulanan yang sama banyak yang tidak melebihi satu per empat darip
 
 74. Jika Pertubuhan telah membuat suatu rayuan terhadap suatu perintah Tribunal, Tribunal boleh, dan jika diarahkan oleh Mahkamah Tinggi hendaklah, sementara menunggu keputusan rayuan itu, menahan perintah yang terhadapnya rayuan dibuat yang berhubungan dengan bayaran apa-apa jumlah wang.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## PENGUATKUASAAN DAN PENYIASATAN
 
@@ -1416,7 +1504,7 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi 
 
 <!-- page 56 -->
 
-## Bahagian X
+## BAHAGIAN X
 
 ## KESALAHAN DAN PENALTI
 
@@ -1492,7 +1580,7 @@ yang dinyatakan dalam tawaran bertulis itu, atau apa-apa tempoh lanjutan sebagai
 
 (5) Semua jumlah wang yang diterima oleh Ketua Pengarah di bawah seksyen ini hendaklah dibayar ke dalam dan menjadi sebahagian daripada Kumpulan Wang.
 
-## Bahagian XI
+## BAHAGIAN XI
 
 AM
 
@@ -1610,6 +1698,8 @@ daripada mana-mana peruntukan Akta ini atau mana-mana peraturan-peraturan yang d
 
 (x) cara atau penentuan kelayakan bagi faedah yang suri rumah berinsurans berhak di bawah Akta Keselamatan Sosial Pekerja 1969, Akta Keselamatan Sosial Pekerjaan Sendiri 2017 [Akta 789] dan Akta ini;
 
+<!-- marginal: WJW22/0653 BM Teks.indd 63 -->
+
 <!-- marginal: 7/15/22 8:29 AM -->
 
 <!-- page 64 -->
@@ -1690,7 +1780,7 @@ daripada mana-mana peruntukan Akta ini atau mana-mana peraturan-peraturan yang d
 
 <!-- page 67 -->
 
-## JadUaL PERtaMa
+## JADUAL PERTAMA
 
 [Subseksyen 2(2)]
 
@@ -1698,89 +1788,67 @@ daripada mana-mana peruntukan Akta ini atau mana-mana peraturan-peraturan yang d
 
 2. Suri rumah yang telah mencapai umur lima puluh empat tahun dan yang berkenaan dengannya tiada caruman telah kena dibayar di bawah Akta ini sebelum dia mencapai umur lima puluh empat tahun.
 
-## JadUaL KEdUa
+## JADUAL KEDUA
 
 [Seksyen 25 dan 26]
 
-Bil. Jenis Bencana
-
-<!-- marginal: Peratus -->
+Bil. Jenis Bencana Peratus
 
 <!-- marginal: Amaun -->
 
-<!-- marginal: Kehilangan -->
+Kehilangan
 
 <!-- marginal: Maksimum -->
 
-<!-- marginal: Kebolehan -->
+Kebolehan
 
 <!-- marginal: bagi -->
 
-<!-- marginal: Keupayaan -->
+Keupayaan
 
 <!-- marginal: Bayaran -->
 
 <!-- marginal: Sekali Gus -->
 
-1. Hilang kedua-dua tangan atau pengudungan
-
-<!-- marginal: 100 -->
+1. Hilang kedua-dua tangan atau pengudungan 100
 
 <!-- marginal: RM30,000 -->
 
-di anggota atas 2. Hilang sebelah tangan dan sebelah kaki
-
-<!-- marginal: 100 -->
+di anggota atas 2. Hilang sebelah tangan dan sebelah kaki 100
 
 <!-- marginal: RM30,000 -->
 
-(buku lali ke bawah) 3. Pengudungan dua anggota di betis atau
-
-<!-- marginal: 100 -->
+(buku lali ke bawah) 3. Pengudungan dua anggota di betis atau 100
 
 <!-- marginal: RM30,000 -->
 
-paha, atau pengudungan di betis atau paha di sebelah kaki dan hilang kaki (buku lali ke bawah) yang lagi satu 4. Hilang penglihatan sehingga pihak menuntut
-
-<!-- marginal: 100 -->
+paha, atau pengudungan di betis atau paha di sebelah kaki dan hilang kaki (buku lali ke bawah) yang lagi satu 4. Hilang penglihatan sehingga pihak menuntut 100
 
 <!-- marginal: RM30,000 -->
 
-tidak dapat membuat apa-apa pekerjaan yang memerlukan penglihatan 5. Cacat parah pada muka
-
-<!-- marginal: 100 -->
+tidak dapat membuat apa-apa pekerjaan yang memerlukan penglihatan 5. Cacat parah pada muka 100
 
 <!-- marginal: RM30,000 -->
 
-6. Pekak tuli
-
-<!-- marginal: 100 -->
+6. Pekak tuli 100
 
 <!-- marginal: RM30,000 -->
 
 Pengudungan—anggota atas (mana-mana satu tangan)
 
-7. Pengudungan di sendi bahu
-
-<!-- marginal: 90 -->
+7. Pengudungan di sendi bahu 90
 
 <!-- marginal: RM27,000 -->
 
-8. Pengudungan di pangkal lengan dengan
-
-<!-- marginal: 80 -->
+8. Pengudungan di pangkal lengan dengan 80
 
 <!-- marginal: RM24,000 -->
 
-kudungnya kurang dari 8” dari hujung permatang belikat 9. Pengudungan di bawah 8” dari hujung
-
-<!-- marginal: 70 -->
+kudungnya kurang dari 8” dari hujung permatang belikat 9. Pengudungan di bawah 8” dari hujung 70
 
 <!-- marginal: RM21,000 -->
 
-permatang belikat hingga kurang daripada 4½” di bawah hujung siku 10. Hilang sebelah tangan atau ibu jari dan
-
-<!-- marginal: 60 -->
+permatang belikat hingga kurang daripada 4½” di bawah hujung siku 10. Hilang sebelah tangan atau ibu jari dan 60
 
 <!-- marginal: RM18,000 -->
 
@@ -1838,23 +1906,33 @@ Pengudungan—anggota bawah
 
 <!-- marginal: RM27,000 -->
 
-kudung menyangga badan 18. Pengudungan di kedua-dua kaki (buku lali 80
+kudung menyangga badan
+
+18. Pengudungan di kedua-dua kaki (buku lali 80
 
 <!-- marginal: RM24,000 -->
 
-ke bawah) lebih ke pangkal dari sendi tulang tapak kaki-jari kaki 19. Hilang semua jari kedua-dua kaki di sendi 40
+ke bawah) lebih ke pangkal dari sendi tulang tapak kaki-jari kaki
+
+19. Hilang semua jari kedua-dua kaki di sendi 40
 
 <!-- marginal: RM12,000 -->
 
-tulang tapak kaki-jari kaki 20. Hilang semua jari kedua-dua kaki lebih ke 30
+tulang tapak kaki-jari kaki
+
+20. Hilang semua jari kedua-dua kaki lebih ke 30
 
 <!-- marginal: RM9,000 -->
 
-pangkal dari sendi ruas pangkal-tengah jari 21. Hilang semua jari kedua-dua kaki lebih ke 20
+pangkal dari sendi ruas pangkal-tengah jari
+
+21. Hilang semua jari kedua-dua kaki lebih ke 20
 
 <!-- marginal: RM6,000 -->
 
-hujung dari sendi ruas pangkal-tengah jari 22. Pengudungan di sendi pangkal paha 90
+hujung dari sendi ruas pangkal-tengah jari
+
+22. Pengudungan di sendi pangkal paha 90
 
 <!-- marginal: RM27,000 -->
 
@@ -1862,15 +1940,21 @@ hujung dari sendi ruas pangkal-tengah jari 22. Pengudungan di sendi pangkal paha
 
 <!-- marginal: RM24,000 -->
 
-paha dengan kudungnya tidak lebih daripada 5” panjang diukur dari hujung bonggol besar tulang paha 24. Pengudungan di bawah sendi pangkal paha 70
+paha dengan kudungnya tidak lebih daripada 5” panjang diukur dari hujung bonggol besar tulang paha
+
+24. Pengudungan di bawah sendi pangkal paha 70
 
 <!-- marginal: RM21,000 -->
 
-dengan kudungnya lebih daripada 5” panjang diukur dari hujung bonggol besar tetapi tidak lebih ke hujung dari tengah paha 25. Pengudungan di bawah tengah paha tidak 60
+dengan kudungnya lebih daripada 5” panjang diukur dari hujung bonggol besar tetapi tidak lebih ke hujung dari tengah paha
+
+25. Pengudungan di bawah tengah paha tidak 60
 
 <!-- marginal: RM18,000 -->
 
-lebih daripada 3½” di bawah lutut 26. Pengudungan di bawah lutut dengan 50
+lebih daripada 3½” di bawah lutut
+
+26. Pengudungan di bawah lutut dengan 50
 
 <!-- marginal: RM15,000 -->
 
@@ -1880,67 +1964,61 @@ kudungnya lebih daripada 3½” tetapi tidak lebih daripada 5”
 
 <!-- page 69 -->
 
-Bil. Jenis Bencana
-
-<!-- marginal: Peratus -->
+Bil. Jenis Bencana Peratus
 
 <!-- marginal: Amaun -->
 
-<!-- marginal: Kehilangan -->
+Kehilangan
 
 <!-- marginal: Maksimum -->
 
-<!-- marginal: Kebolehan -->
+Kebolehan
 
 <!-- marginal: bagi -->
 
-<!-- marginal: Keupayaan -->
+Keupayaan
 
 <!-- marginal: Bayaran -->
 
 <!-- marginal: Sekali Gus -->
 
-27. Pengudungan di bawah lutut dengan
-
-<!-- marginal: 40 -->
+27. Pengudungan di bawah lutut dengan 40
 
 <!-- marginal: RM12,000 -->
 
-kudungnya lebih daripada 5” 28. Pengudungan sebelah kaki mengakibatkan
+kudungnya lebih daripada 5”
 
-<!-- marginal: 30 -->
-
-<!-- marginal: RM9,000 -->
-
-kudung menyangga badan 29. Pengudungan di sebelah kaki (buku lali ke
-
-<!-- marginal: 30 -->
+28. Pengudungan sebelah kaki mengakibatkan 30
 
 <!-- marginal: RM9,000 -->
 
-bawah) lebih ke pangkal dari sendi tulang tapak kaki-jari kaki 30. Hilang semua jari sebelah kaki di sendi
+kudung menyangga badan
 
-<!-- marginal: 20 -->
+29. Pengudungan di sebelah kaki (buku lali ke 30
+
+<!-- marginal: RM9,000 -->
+
+bawah) lebih ke pangkal dari sendi tulang tapak kaki-jari kaki
+
+30. Hilang semua jari sebelah kaki di sendi 20
 
 <!-- marginal: RM6,000 -->
 
 tulang tapak kaki-jari kaki Bencana lain
 
-31. Hilang sebelah mata, tanpa kesulitan, mata
-
-<!-- marginal: 40 -->
+31. Hilang sebelah mata, tanpa kesulitan, mata 40
 
 <!-- marginal: RM12,000 -->
 
-yang sebelah lagi itu dalam keadaan biasa 32. Hilang penglihatan sebelah mata tanpa
+yang sebelah lagi itu dalam keadaan biasa
 
-<!-- marginal: 30 -->
+32. Hilang penglihatan sebelah mata tanpa 30
 
 <!-- marginal: RM9,000 -->
 
-kesulitan atau cacat biji mata, mata yang sebelah lagi itu dalam keadaan biasa 33. Hilang pendengaran langsung yang kekal
+kesulitan atau cacat biji mata, mata yang sebelah lagi itu dalam keadaan biasa
 
-<!-- marginal: 20 -->
+33. Hilang pendengaran langsung yang kekal 20
 
 <!-- marginal: RM6,000 -->
 
@@ -1948,57 +2026,43 @@ di sebelah telinga Hilang— A—Jari tangan sebelah kanan atau kiri
 
 Jari telunjuk
 
-34. Seluruh
-
-<!-- marginal: 14 -->
+34. Seluruh 14
 
 <!-- marginal: RM4,200 -->
 
-35. Dua ruas
-
-<!-- marginal: 11 -->
+35. Dua ruas 11
 
 <!-- marginal: RM3,300 -->
 
-36. Satu ruas
-
-<!-- marginal: 9 -->
+36. Satu ruas 9
 
 <!-- marginal: RM2,700 -->
 
-37. Pengudungan tetak hujung jari tanpa hilang
-
-<!-- marginal: 5 -->
+37. Pengudungan tetak hujung jari tanpa hilang 5
 
 <!-- marginal: RM1,500 -->
 
 tulang Jari hantu
 
-38. Seluruh
-
-<!-- marginal: 12 -->
+38. Seluruh 12
 
 <!-- marginal: RM3,600 -->
 
-39. Dua ruas
-
-<!-- marginal: 9 -->
+39. Dua ruas 9
 
 <!-- marginal: RM2,700 -->
 
-40. Satu ruas
-
-<!-- marginal: 7 -->
+40. Satu ruas 7
 
 <!-- marginal: RM2,100 -->
 
-41. Pengudungan tetak hujung jari tanpa hilang
-
-<!-- marginal: 4 -->
+41. Pengudungan tetak hujung jari tanpa hilang 4
 
 <!-- marginal: RM1,200 -->
 
 tulang
+
+<!-- marginal: WJW22/0653 BM Teks.indd 69 -->
 
 <!-- marginal: 7/15/22 8:29 AM -->
 
@@ -2106,7 +2170,7 @@ tulang
 
 2. Bagi maksud penentuan suatu hilang upaya kekal, Jadual ini hendaklah dibaca bersama dengan garis panduan Penilaian Kecacatan dan Ketidakupayaan yang dikeluarkan oleh Pertubuhan.
 
-## JadUaL KEtiga
+## JADUAL KETIGA
 
 [Seksyen 15 dan 35]
 
@@ -2114,17 +2178,13 @@ tulang
 
 Kadar bayaran caruman yang dibayar terlebih dahulu adalah berdasarkan amaun pendapatan bulanan anggapan bagi suri rumah dan hendaklah dikira dengan rujukan kepada dua belas bulan dan dibayar pada kadar yang berikut:
 
-Bil. Pendapatan Bulanan Anggapan
-
-<!-- marginal: Caruman bagi Dua Belas -->
-
-<!-- marginal: Bulan setiap Suri Rumah -->
+Bil. Pendapatan Bulanan Anggapan Caruman bagi Dua Belas Bulan setiap Suri Rumah
 
 1. RM600
 
 <!-- marginal: RM120 -->
 
-## JadUaL KEEMPat
+## JADUAL KEEMPAT
 
 [Seksyen 31 dan 36]
 
@@ -2150,7 +2210,7 @@ Dengan syarat selanjutnya bahawa kadar harian pencen penakat bagi tiap-tiap anak
 
 4. Jika seorang suri rumah berinsurans yang sedang menerima elaum keuzuran, atau jika seorang suri rumah berinsurans yang belum mencapai umur lima puluh lima tahun tetapi dalam tempoh pelindungan, mati atau jika suri rumah berinsurans mati disebabkan oleh bencana domestik yang dihidap dalam tempoh caruman, dan tidak meninggalkan duda atau anak, pencen penakat hendaklah kena dibayar kepada ibu atau bapa, suatu amaun bersamaan dengan empat per sepuluh daripada kadar harian pencen penakat, dan sekiranya terdapat dua atau lebih ibu bapa, amaun yang kena dibayar hendaklah dibahagikan sama banyak antara mereka.
 
-## JadUaL KELiMa
+## JADUAL KELIMA
 
 [Subseksyen 22(3)]
 
@@ -2158,7 +2218,7 @@ Dengan syarat selanjutnya bahawa kadar harian pencen penakat bagi tiap-tiap anak
 
 Dua ratus ringgit setiap bulan sehingga dia mencapai umur lima puluh lima tahun atau mati, mana-mana yang lebih awal.
 
-## JadUaL KEEnaM
+## JADUAL KEENAM
 
 [Seksyen 29]
 
@@ -2170,7 +2230,7 @@ Bayaran sekali dua ribu ringgit.
 
 <!-- page 73 -->
 
-## JadUaL KEtUJUh
+## JADUAL KETUJUH
 
 [Seksyen 30]
 
@@ -2178,7 +2238,7 @@ Bayaran sekali dua ribu ringgit.
 
 Dua ratus dan lima puluh ringgit setiap bulan sehingga suri rumah diperakukan tidak lagi mempunyai takat ketidakupayaan yang melayakkan dia untuk menerima elaun layanan sentiasa oleh penilai perubatan atau Jemaah Doktor Rayuan atau sehingga suri rumah itu mencapai umur lima puluh lima tahun atau mati, mengikut mana-mana yang lebih awal.
 
-## JadUaL KELaPan
+## JADUAL KELAPAN
 
 [Seksyen 37]
 
@@ -2190,7 +2250,7 @@ Amaun maksimum yang dibelanjakan bagi pemulihan jasmani ialah lima puluh ribu ri
 
 Akta Keselamatan Sosial Suri Rumah 2022 yang dicadangkan (“Akta yang dicadangkan”) bertujuan untuk mengadakan peruntukan bagi keselamatan sosial kepada suri rumah berinsurans dalam bentuk faedah tertentu, bagi meningkatkan kesihatan, keselamatan, kebajikan dan kesejahteraan suri rumah, dan untuk mengadakan peruntukan bagi perkara-perkara yang berkaitan dengannya.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I Akta yang dicadangkan memperkatakan tentang perkara permulaan.
 
@@ -2204,7 +2264,7 @@ Akta Keselamatan Sosial Suri Rumah 2022 yang dicadangkan (“Akta yang dicadangk
 
 <!-- page 74 -->
 
-## Bahagian II
+## BAHAGIAN II
 
 6. Bahagian II Akta yang dicadangkan memperkatakan tentang peruntukan berhubung dengan pentadbiran Skim Keselamatan Sosial Suri Rumah (“Skim”).
 
@@ -2216,7 +2276,7 @@ Akta Keselamatan Sosial Suri Rumah 2022 yang dicadangkan (“Akta yang dicadangk
 
 10. Fasal 7 bertujuan untuk memberi Ketua Pengarah kuasa untuk menjalankan semua fungsi termasuk kuasa Pertubuhan dan Ketua Pengarah boleh mewakilkan kuasa dan fungsinya kepada Timbalan Ketua Pengarah, Pemeriksa, atau pegawai dan pekhidmat Pertubuhan.
 
-## Bahagian III
+## BAHAGIAN III
 
 11. Bahagian III Akta yang dicadangkan memperkatakan tentang penubuhan Jawatankuasa Keselamatan Sosial Suri Rumah (“Jawatankuasa”) dan mana-mana jawatankuasa lain.
 
@@ -2234,7 +2294,7 @@ Akta Keselamatan Sosial Suri Rumah 2022 yang dicadangkan (“Akta yang dicadangk
 
 16. Fasal 12 bertujuan untuk mengadakan peruntukan bagi penzahiran kepentingan mana-mana anggota Jawatankuasa atau mana-mana jawatankuasa yang ditubuhkan di bawah fasal 9 jika dia mempunyai apa-apa kepentingan langsung atau tidak langsung dalam apa-apa perkara yang sedang dipertimbangkan oleh Jawatankuasa atau mana-mana jawatankuasa.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 17. Bahagian IV Akta yang dicadangkan memperkatakan tentang peruntukan berkenaan dengan pelaksanaan, pendaftaran dan caruman.
 
@@ -2270,7 +2330,7 @@ Subfasal 15(13) bertujuan untuk mengadakan peruntukan bagi kesalahan kepada maji
 
 24. Fasal 19 bertujuan untuk memberi Pertubuhan kuasa untuk melantik ejen untuk memungut dan menerima bayaran caruman bagi pihak Pertubuhan. Fasal ini juga mengenakan kewajipan ke atas ejen yang dilantik untuk memaklumkan kepada Pertubuhan waktu dan tarikh sebenar bayaran caruman dibuat oleh atau bagi pihak suri rumah berinsurans dan kegagalan untuk berbuat demikian mengakibatkan suatu kesalahan.
 
-## Bahagian V
+## BAHAGIAN V
 
 25. Bahagian V Akta yang dicadangkan memperkatakan tentang peruntukan faedah yang kena dibayar di bawah Akta yang dicadangkan dan kelayakan seseorang kepada faedah itu.
 
@@ -2338,7 +2398,7 @@ Subfasal 15(13) bertujuan untuk mengadakan peruntukan bagi kesalahan kepada maji
 
 51. Fasal 45 memperkatakan tentang suatu situasi yang suri rumah berinsurans berhak kepada kedua-dua faedah hilang upaya dan keilatan disebabkan oleh hilang upaya yang sama di bawah Akta yang dicadangkan, suri rumah berinsurans berhak untuk menerima hanya satu faedah di bawah Akta yang dicadangkan mengikut cara sebagaimana yang ditetapkan.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 52. Bahagian VI Akta yang dicadangkan memperkatakan tentang penentuan persoalan hilang upaya kekal dan keilatan oleh penilai perubatan dan peruntukan semakan semula dan rayuan kepada penilai perubatan dan Jemaah Doktor Rayuan.
 
@@ -2362,7 +2422,7 @@ Subfasal 49(3) dan (5) selanjutnya bertujuan untuk memperuntukkan bahawa penilai
 
 58. Fasal 51 bertujuan untuk mengadakan peruntukan bagi keadaan di mana Pertubuhan boleh mengantung dan menghentikan bayaran elaun keuzuran yang diterima oleh suri rumah yang berinsurans.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 59. Bahagian VII Akta yang dicadangkan memperkatakan tentang peruntukan kewangan.
 
@@ -2396,7 +2456,7 @@ Subfasal 49(3) dan (5) selanjutnya bertujuan untuk memperuntukkan bahawa penilai
 
 72. Fasal 64 bertujuan untuk membenarkan Pertubuhan untuk mengenakan surcaj atas mana-mana orang yang sedang atau pernah bekerja dengan Pertubuhan bagi sebab-sebab tertentu.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 73. Bahagian VIII Akta yang dicadangkan memperkatakan tentang Tribunal Keselamatan Sosial Suri Rumah (“Tribunal”).
 
@@ -2426,7 +2486,7 @@ Pengerusi Tribunal kuasa untuk memindahkan apa-apa perkara yang belum selesai di
 
 83. Fasal 74 bertujuan untuk memberi Tribunal kuasa untuk menahan perintah yang terhadapnya dirayu yang berhubungan dengan pembayaran apa-apa jumlah wang sementara menunggu rayuan di Mahkamah Tinggi.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 84. Bahagian IX Akta yang dicadangkan memperkatakan tentang peruntukan yang berhubungan dengan penguatkuasaan dan penyiasatan.
 
@@ -2440,7 +2500,7 @@ Pengerusi Tribunal kuasa untuk memindahkan apa-apa perkara yang belum selesai di
 
 87. Fasal 77 bertujuan untuk memperuntukkan bahawa mana-mana orang yang tidak mematuhi apa-apa arahan yang diberikan oleh, atau dengan apa-apa cara mengamang, menggalang atau menghalang Ketua Pengarah, Timbalan Ketua Pengarah atau Pemeriksa semasa menjalankan kuasa mereka melakukan suatu kesalahan.
 
-## Bahagian X
+## BAHAGIAN X
 
 88. Bahagian X Akta yang dicadangkan memperkatakan tentang peruntukan yang berhubungan dengan kesalahan dan penalti.
 
@@ -2460,7 +2520,7 @@ Pengerusi Tribunal kuasa untuk memindahkan apa-apa perkara yang belum selesai di
 
 94. Fasal 83 bertujuan untuk memberi Menteri kuasa dengan kelulusan Pendakwa Raya untuk membuat peraturan-peraturan yang menetapkan mana-mana kesalahan di bawah Akta yang dicadangkan atau mana-mana peraturan-peraturan yang dibuat di bawah Akta yang dicadangkan boleh dikompaun serta kaedah dan tatacara bagi mengkompaun kesalahan itu. Fasal ini juga bertujuan untuk memberi pegawai Pertubuhan yang diberi kuasa untuk melaksanakan pengkompaunan kesalahan-kesalahan itu dengan keizinan secara bertulis Pendakwa Raya.
 
-## Bahagian XI
+## BAHAGIAN XI
 
 95. Bahagian XI Akta yang dicadangkan mengandungi peruntukan am.
 

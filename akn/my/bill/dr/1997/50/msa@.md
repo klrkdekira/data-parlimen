@@ -58,9 +58,23 @@ Saudagar (Pindaan) 1997.
 
 in the same manner as they apply to a Malaysian ship, its owner and its certificate of registry.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Ordinan adalah dipinda dengan menggantikan seksyen seksyen 65A. 65A dengan seksyen yang berikut: n Inter- 65A. In this Part, unless the context otherwise pretation. requires, "domestic shipping" means the use of a ship—
+3. Ordinan adalah dipinda dengan menggantikan seksyen
+
+<!-- marginal: seksyen 65A. -->
+
+65A dengan seksyen yang berikut:
+
+<!-- marginal: n -->
+
+<!-- marginal: Inter- -->
+
+65A. In this Part, unless the context otherwise
+
+<!-- marginal: pretation. -->
+
+requires, "domestic shipping" means the use of a ship—
 
 (a) to provide services, other than fishing, in the Federation waters or the exclusive economic zone; or
 
@@ -88,13 +102,61 @@ Bahagian IIB Bahagian yang berikut:
 
 ## SHIP REGISTRY
 
-Interpretation 66. (1) In this Part, unless the context and otherwise requires, "age" in relation to a ship, application. means the difference between the year in which the ship was built and the year in which it is registered as a Malaysian ship.
+<!-- marginal: Interpretation -->
+
+66. (1) In this Part, unless the context
+
+<!-- marginal: and -->
+
+otherwise requires, "age" in relation to a ship,
+
+<!-- marginal: application. -->
+
+means the difference between the year in which the ship was built and the year in which it is registered as a Malaysian ship.
 
 (2) The provisions of Part HA shall apply to ships registered under this Part, in so far as they are consistent with this Part.
 
-Port of the 66A. The Minister may declare any port or place Malaysia in Malaysia to be the port of the Malaysia International ship International ship registry. registry.
+<!-- marginal: Port of the -->
 
-Qualification 66B. (1) Notwithstanding section 11, the to register Registrar General may register a ship as a ship in the Malaysian ship under this Part, irrespective of Malaysia International where the ship was built, if it is owned by a ship corporation that satisfies the following registry. requirements:
+66A. The Minister may declare any port or place
+
+<!-- marginal: Malaysia -->
+
+in Malaysia to be the port of the Malaysia
+
+<!-- marginal: International -->
+
+<!-- marginal: ship -->
+
+International ship registry.
+
+<!-- marginal: registry. -->
+
+<!-- marginal: Qualification -->
+
+66B. (1) Notwithstanding section 11, the
+
+<!-- marginal: to register -->
+
+Registrar General may register a ship as a
+
+<!-- marginal: ship in the -->
+
+Malaysian ship under this Part, irrespective of
+
+<!-- marginal: Malaysia -->
+
+<!-- marginal: International -->
+
+where the ship was built, if it is owned by a
+
+<!-- marginal: ship -->
+
+corporation that satisfies the following
+
+<!-- marginal: registry. -->
+
+requirements:
 
 (a) the corporation is incorporated in Malaysia;
 
@@ -106,13 +168,25 @@ Qualification 66B. (1) Notwithstanding section 11, the to register Registrar Gen
 
 <!-- page 4 -->
 
-Rang Undang-Undang 4
+Rang Undang-Undang
+
+<!-- marginal: 4 -->
 
 (3) The Minister may, if he thinks fit, prescribe other requirements in addition to the requirements stipulated in subsection (1).
 
 (4) A ship shall cease to be registered under this Part if any of the requirements in this section are no longer fulfilled.
 
-Appointment 66c. (1) The owner of a ship shall, before of a ship applying for a ship to be registered under this manager. Part, appoint a ship manager.
+<!-- marginal: Appointment -->
+
+66c. (1) The owner of a ship shall, before
+
+<!-- marginal: of a ship -->
+
+applying for a ship to be registered under this
+
+<!-- marginal: manager. -->
+
+Part, appoint a ship manager.
 
 (2) A ship manager appointed under this section shall be—
 
@@ -130,11 +204,29 @@ Appointment 66c. (1) The owner of a ship shall, before of a ship applying for a 
 
 <!-- page 5 -->
 
-Paid-up 66D. (1) A ship shall not be registered under capital for this Part unless the corporation has a minimum corporate ownership. paid-up capital of ten per cent of the value of the ship or one million ringgit, whichever is higher.
+<!-- marginal: Paid-up -->
+
+66D. (1) A ship shall not be registered under
+
+<!-- marginal: capital for -->
+
+this Part unless the corporation has a minimum
+
+<!-- marginal: corporate -->
+
+<!-- marginal: ownership. -->
+
+paid-up capital of ten per cent of the value of the ship or one million ringgit, whichever is higher.
 
 (2) Subsection (1) shall apply only to the first ship registered by the corporation.
 
-Registration 66E. (1) No ship shall be registered under this of ship. Part unless—
+<!-- marginal: Registration -->
+
+66E. (1) No ship shall be registered under this
+
+<!-- marginal: of ship. -->
+
+Part unless—
 
 (a) it is fitted with mechanical means of propulsion;
 
@@ -148,11 +240,27 @@ Registration 66E. (1) No ship shall be registered under this of ship. Part unles
 
 (2) The Minister may exempt any ship from any requirements of this section on such terms and conditions as he may deem fit.
 
-Initial 66F. (1) An initial registration
+<!-- marginal: Initial -->
 
-<!-- marginal: fee as -->
+66F. (1) An initial registration fee as
 
-registration prescribed in the Thirteenth Schedule and an fee and annual annual tonnage fee of 30 sen per gross tonnage tonnage shall be payable in respect of every ship fee. registered under this Part.
+<!-- marginal: registration -->
+
+prescribed in the Thirteenth Schedule and an
+
+<!-- marginal: fee and -->
+
+<!-- marginal: annual -->
+
+annual tonnage fee of 30 sen per gross tonnage
+
+<!-- marginal: tonnage -->
+
+shall be payable in respect of every ship
+
+<!-- marginal: fee. -->
+
+registered under this Part.
 
 (2) The annual tonnage fee shall be paid by the owner of a ship at the time of the initial registration or renewal of registration of the ship and thereafter annually on or before the anniversary date of the initial registration or renewal of registration, as the case may be.
 
@@ -160,13 +268,27 @@ registration prescribed in the Thirteenth Schedule and an fee and annual annual 
 
 (3) All unpaid registration fees and annual tonnage fees due to the Registrar General shall constitute a maritime lien on the ship, subject only to liens for wages and salaries.
 
-Offence. 66G. Any owner of a ship or ship manager who fails to comply with this Part shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit.".
+<!-- marginal: Offence. -->
 
-Pindaan
+66G. Any owner of a ship or ship manager who fails to comply with this Part shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit.".
 
-5. Ordinan adalah dipinda dengan menggantikan seksyen 473A dengan seksyen yang berikut:
+<!-- marginal: Pindaan -->
 
-473A. u Inter- 473A. For the purposes of sections 474 to 485— pretation
+5. Ordinan adalah dipinda dengan menggantikan seksyen
+
+<!-- marginal: seksyen -->
+
+473A dengan seksyen yang berikut:
+
+473A.
+
+<!-- marginal: u -->
+
+<!-- marginal: Inter- -->
+
+473A. For the purposes of sections 474 to 485—
+
+<!-- marginal: pretation -->
 
 "boat" means any vessel below 500 gross tonnage plying—
 

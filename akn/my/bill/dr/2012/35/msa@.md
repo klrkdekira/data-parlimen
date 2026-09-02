@@ -558,51 +558,33 @@ Provided that the Director General may under special circumstances allow extensi
 
 “1. Except where paragraphs 1A, 2, 2A and 3 provide otherwise, income tax shall be charged for a year of assessment upon the chargeable income of every person at the following rates:
 
-Chargeable Income
-
-<!-- marginal: RM -->
+Chargeable Income RM
 
 <!-- marginal: Rate of Income Tax -->
 
-For every ringgit of the ﬁ rst
-
-<!-- marginal: 5,000 -->
+For every ringgit of the ﬁ rst 5,000
 
 <!-- marginal: 0 per cent -->
 
-For every ringgit of the next
-
-<!-- marginal: 15,000 -->
+For every ringgit of the next 15,000
 
 <!-- marginal: 2 per cent -->
 
-For every ringgit of the next
-
-<!-- marginal: 15,000 -->
+For every ringgit of the next 15,000
 
 <!-- marginal: 6 per cent -->
 
 <!-- page 20 -->
 
-Chargeable Income RM
+Chargeable Income RM Rate of Income Tax
 
-<!-- marginal: Rate of Income Tax -->
+For every ringgit of the next 15,000 11 per cent
 
-For every ringgit of the next 15,000
+For every ringgit of the next 20,000 19 per cent
 
-<!-- marginal: 11 per cent -->
+For every ringgit of the next 30,000 24 per cent
 
-For every ringgit of the next 20,000
-
-<!-- marginal: 19 per cent -->
-
-For every ringgit of the next 30,000
-
-<!-- marginal: 24 per cent -->
-
-For every ringgit exceeding 100,000
-
-<!-- marginal: 26 per cent”; -->
+For every ringgit exceeding 100,000 26 per cent”;
 
 (b) dalam perenggan 2—
 
@@ -616,17 +598,11 @@ For every ringgit exceeding 100,000
 
 “2D. Subject to paragraphs 2E, 2F and 3, income tax shall be charged for a year of assessment on the chargeable income of a limited liability partnership resident in Malaysia which has a total contribution of capital (whether in cash or in kind) of two million five hundred thousand ringgit and less at the beginning of the basis period for a year of assessment at the following rates:
 
-Chargeable Income RM
+Chargeable Income RM Rate of Income Tax
 
-<!-- marginal: Rate of Income Tax -->
+For every ringgit of the ﬁ rst 500,000 20 per cent
 
-For every ringgit of the ﬁ rst 500,000
-
-<!-- marginal: 20 per cent -->
-
-For every ringgit exceeding 500,000
-
-<!-- marginal: 25 per cent -->
+For every ringgit exceeding 500,000 25 per cent
 
 2E. The provisions of paragraph 2D shall not apply to a limited liability partnership referred to in that paragraph if more than—
 
@@ -646,59 +622,23 @@ For every ringgit exceeding 500,000
 
 Notwithstanding Part I, income tax shall be charged for a year of assessment upon the chargeable income of every co-operative society at the following rates:
 
-Chargeable Income
+Chargeable Income RM Rate of Income Tax
 
-<!-- marginal: RM -->
+For every ringgit of the ﬁ rst 30,000 0 per cent
 
-<!-- marginal: Rate of Income Tax -->
+For every ringgit of the next 30,000 5 per cent
 
-For every ringgit of the ﬁ rst
+For every ringgit of the next 40,000 10 per cent
 
-<!-- marginal: 30,000 -->
+For every ringgit of the next 50,000 15 per cent
 
-<!-- marginal: 0 per cent -->
+For every ringgit of the next 100,000 20 per cent
 
-For every ringgit of the next
+For every ringgit of the next 250,000 22 per cent
 
-<!-- marginal: 30,000 -->
+For every ringgit of the next 250,000 24 per cent
 
-<!-- marginal: 5 per cent -->
-
-For every ringgit of the next
-
-<!-- marginal: 40,000 -->
-
-<!-- marginal: 10 per cent -->
-
-For every ringgit of the next
-
-<!-- marginal: 50,000 -->
-
-<!-- marginal: 15 per cent -->
-
-For every ringgit of the next
-
-<!-- marginal: 100,000 -->
-
-<!-- marginal: 20 per cent -->
-
-For every ringgit of the next
-
-<!-- marginal: 250,000 -->
-
-<!-- marginal: 22 per cent -->
-
-For every ringgit of the next
-
-<!-- marginal: 250,000 -->
-
-<!-- marginal: 24 per cent -->
-
-For every ringgit exceeding
-
-<!-- marginal: 750,000 -->
-
-<!-- marginal: 25 per cent -->
+For every ringgit exceeding 750,000 25 per cent
 
 <!-- marginal: ”; dan -->
 
@@ -1394,7 +1334,9 @@ Bab ini mula berkuatkuasa apabila mula berkuat kuasanya Akta ini.
 
 39. Fasal 43 bertujuan untuk meminda seksyen 9 Akta 378. Dengan pindaan ini, kuasa untuk mengkompaun duti ke atas surat cara yang tertentu diperluas kepada Suruhanjaya Syarikat Malaysia dan Tenaga Nasional Berhad.
 
-40. Fasal 44 bertujuan untuk memperkenal seksyen baru 60A ke dalam Akta 378. Dengan pindaan ini, suatu penalti boleh dikenakan ke atas mana-mana orang yang diberi kuasa di bawah seksyen 8 Akta bagi kegagalan untuk memfrang suatu surat cara dalam tempoh tiga puluh hari daripada tarikh surat cara itu disempurnakan.
+40. Fasal 44 bertujuan untuk memperkenal seksyen baru 60A ke dalam Akta
+
+378. Dengan pindaan ini, suatu penalti boleh dikenakan ke atas mana-mana orang yang diberi kuasa di bawah seksyen 8 Akta bagi kegagalan untuk memfrang suatu surat cara dalam tempoh tiga puluh hari daripada tarikh surat cara itu disempurnakan.
 
 <!-- page 48 -->
 

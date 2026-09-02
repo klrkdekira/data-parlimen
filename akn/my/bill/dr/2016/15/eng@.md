@@ -322,21 +322,13 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (a) in subsection (1)—
 
-(i) b y substituting for
-
-<!-- marginal: the words -->
-
-“Superintendent-Registrar or any other officer duly authorized in writing” the words “the Superintendent-Registrar or the Registrar”; and
+(i) b y substituting for the words “Superintendent-Registrar or any other officer duly authorized in writing” the words “the Superintendent-Registrar or the Registrar”; and
 
 (ii) by substituting for the words “sections 12, 15, 21, 27, subsections 32(3) and (4)” the words “this Act”;
 
 (b) in subsection (2)—
 
-(i) b y substituting for
-
-<!-- marginal: the words -->
-
-“Superintendent-Registrar or such authorized officer” the words “the Superintendent-Registrar or the Registrar”;
+(i) b y substituting for the words “Superintendent-Registrar or such authorized officer” the words “the Superintendent-Registrar or the Registrar”;
 
 (ii) in paragraph (b), by substituting for the full stop at the end of the paragraph the words “; or”; and
 

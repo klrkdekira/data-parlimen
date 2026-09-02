@@ -4,17 +4,41 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## ChApTER I
+## CHAPTER I
 
 ## PRELIMINARY
 
 1. Short title 2. Amendment of Acts
 
-## ChApTER II
+## CHAPTER II
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
-3. Commencement of amendments to the Income Tax Act 1967 4. Amendment of section 5 5. Amendment of section 6 6. New section 6d 7. Amendment of section 34 8. Amendment of section 34A 9. Amendment of section 34b 10. Amendment of section 39 11. Amendment of section 44 12. Amendment of section 44A 13. Amendment of section 45A 14. Amendment of section 46 15. Amendment of section 47 16. New section 65b 17. Amendment of section 77A 18. Amendment of section 83 19. Amendment of section 103 20. New section 103b 21. Amendment of section 104
+3. Commencement of amendments to the Income Tax Act 1967 4. Amendment of section 5 5. Amendment of section 6 6. New section 6d 7. Amendment of section 34 8. Amendment of section 34A 9. Amendment of section 34b
+
+10. Amendment of section 39
+
+11. Amendment of section 44
+
+12. Amendment of section 44A
+
+13. Amendment of section 45A
+
+14. Amendment of section 46
+
+15. Amendment of section 47
+
+16. New section 65b
+
+17. Amendment of section 77A
+
+18. Amendment of section 83
+
+19. Amendment of section 103
+
+20. New section 103b
+
+21. Amendment of section 104
 
 <!-- page 2 -->
 
@@ -36,7 +60,7 @@
 
 30. Amendment of Schedule 7A
 
-## ChApTER III
+## CHAPTER III
 
 ## AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976
 
@@ -56,7 +80,7 @@
 
 38. Amendment of Schedule 5
 
-## ChApTER IV
+## CHAPTER IV
 
 ## AMENDMENTS TO THE STAMP ACT 1949
 
@@ -78,29 +102,57 @@
 
 <!-- page 3 -->
 
-47. Amendment of section 74A 48. Amendment of section 80 49. New section 80b 50. Amendment of section 82
+47. Amendment of section 74A
 
-## ChApTER V
+48. Amendment of section 80
+
+49. New section 80b
+
+50. Amendment of section 82
+
+## CHAPTER V
 
 ## AMENDMENTS TO THE PETROLEUM (INCOME TAX) ACT 1967
 
-51. Commencement of amendments to the Petroleum (Income Tax) Act 1967 52. New section 48A 53. Amendment of section 49 54. New section 71b
+51. Commencement of amendments to the Petroleum (Income Tax) Act 1967
 
-## ChApTER VI
+52. New section 48A
+
+53. Amendment of section 49
+
+54. New section 71b
+
+## CHAPTER VI
 
 ## AMENDMENTS TO THE LABUAN BUSINESS ACTIVITY TAX ACT 1990
 
-55. Commencement of amendments to the Labuan Business Activity Tax Act 1990 56. Amendment of section 2b 57. Amendment of section 3A 58. Amendment of section 6d 59. Amendment of section 13A 60. New section 13b 61. Amendment of section 20 62. Amendment of section 24
+55. Commencement of amendments to the Labuan Business Activity Tax Act 1990
 
-## ChApTER VII
+56. Amendment of section 2b
+
+57. Amendment of section 3A
+
+58. Amendment of section 6d
+
+59. Amendment of section 13A
+
+60. New section 13b
+
+61. Amendment of section 20
+
+62. Amendment of section 24
+
+## CHAPTER VII
 
 ## AMENDMENT TO THE FINANCE ACT 2012
 
-63. Commencement of amendment to the Finance Act 2012 64. Amendment of section 3
+63. Commencement of amendment to the Finance Act 2012
+
+64. Amendment of section 3
 
 <!-- page 4 -->
 
-## ChApTER VIII
+## CHAPTER VIII
 
 ## AMENDMENT TO THE FINANCE ACT 2018
 
@@ -118,7 +170,7 @@ An Act to amend the Income Tax Act 1967, the Real Property Gains Tax Act 1976, t
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## ChApTER I
+## CHAPTER I
 
 ## PRELIMINARY
 
@@ -132,7 +184,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 6 -->
 
-## ChApTER II
+## CHAPTER II
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
@@ -308,29 +360,21 @@ and the total deduction under this paragraph shall be subject to a maximum amoun
 
 “(d) for the purposes of subparagraph (iii), the vaccinations which qualify for deduction are for:
 
-<!-- marginal: (i) pneumococcal; -->
+(i) pneumococcal;
 
-<!-- marginal: (ii) human papillomavirus -->
+(ii) human papillomavirus (HPV);
 
-<!-- marginal: (HPV); -->
+(iii) influenza;
 
-<!-- marginal: (iii) influenza; -->
+(iv) rotavirus;
 
-<!-- marginal: (iv) rotavirus; -->
+(v) varicella;
 
-<!-- marginal: (v) varicella; -->
+(vi) meningococcal;
 
-<!-- marginal: (vi) meningococcal; -->
+(vii) TDAP combination (tetanus-diphtheria- acellular-pertussis); and
 
-(vii) TDAP combination
-
-<!-- marginal: (tetanus-diphtheria- -->
-
-<!-- marginal: acellular-pertussis); and -->
-
-(viii) Coronavirus Disease
-
-<!-- marginal: 2019 (COVID-19);”; -->
+(viii) Coronavirus Disease 2019 (COVID-19);”;
 
 (iv) in paragraph (h)—
 
@@ -614,7 +658,7 @@ In this Schedule, “plant” means an apparatus used by a person for carrying o
 
 (ii) by substituting for the words “year of assessment 2018” the words “year of assessment 2022”.
 
-## ChApTER III
+## CHAPTER III
 
 ## AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976
 
@@ -710,7 +754,7 @@ In this Schedule, “plant” means an apparatus used by a person for carrying o
 
 38. Schedule 5 to the principal Act is amended in Part II by inserting after the words “or a trustee of a trust” the words “or society registered under the Societies Act 1966 [Act 335]”.
 
-## ChApTER IV
+## CHAPTER IV
 
 ## AMENDMENTS TO THE STAMP ACT 1949
 
@@ -842,7 +886,7 @@ In this Schedule, “plant” means an apparatus used by a person for carrying o
 
 “(ab) to prescribe the means of digital stamping to be used under this Act for the payment of stamp duty, to provide for matters relating to the issuance and validity of the digital stamping;”.
 
-## ChApTER V
+## CHAPTER V
 
 ## AMENDMENTS TO THE PETROLEUM (INCOME TAX) ACT 1967
 
@@ -882,7 +926,7 @@ In this Schedule, “plant” means an apparatus used by a person for carrying o
 
 <!-- page 36 -->
 
-## ChApTER VI
+## CHAPTER VI
 
 ## AMENDMENTS TO THE LABUAN BUSINESS ACTIVITY
 
@@ -976,7 +1020,7 @@ as prescribed by the Minister by regulations made under this Act.”; and
 
 62. Subsection 24(1) of the principal Act is amended by inserting after the words “section 22 or 23” the words “, or any regulations made pursuant to subsection 21(1)”.
 
-## ChApTER VII
+## CHAPTER VII
 
 ## AMENDMENT TO THE FINANCE ACT 2012
 
@@ -988,7 +1032,7 @@ as prescribed by the Minister by regulations made under this Act.”; and
 
 64. The Finance Act 2012 is amended in subsection 3(4) by inserting after the word “2021” the words “and in respect of paragraph 10(c) in relation to paragraph 49(1d)(b) of the Income Tax Act 1967 until the year of assessment 2025”.
 
-## ChApTER VIII
+## CHAPTER VIII
 
 ## AMENDMENT TO THE FINANCE ACT 2018
 
@@ -1008,7 +1052,7 @@ This Bill seeks to amend the Income Tax Act 1967 (“Act 53”), the Real Proper
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
-## Chapter II of this Bill seeks to amend the Income Tax Act 1967.
+Chapter II of this Bill seeks to amend the Income Tax Act 1967.
 
 2. Clause 4 seeks to amend subsection 5(1A) of Act 53 to provide that any amount or income received by a person which is subject to deduction of tax under section 109d of Act 53 shall be disregarded for the purpose of ascertaining his chargeable income. Currently, only the amount or income which is subject to deduction of tax under section 109C, 109E or 109G of Act 53 is disregarded for the purpose of ascertaining the chargeable income.
 
@@ -1196,7 +1240,7 @@ This amendment has effect for the years of assessment 2020, 2021 and 2022.
 
 ## AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976
 
-## Chapter III of this Bill seeks to amend the Real Property Gains Tax Act 1976.
+Chapter III of this Bill seeks to amend the Real Property Gains Tax Act 1976.
 
 26. Clause 32 seeks to introduce new subsection 14(5A) into Act 169. The proposed amendment seeks to empower the Director General, on any good cause, to remit all or any part of the sum imposed on any person because the acquirer fails to retain and remit the sum required under section 21b of Act 169 due to an incorrect or wrong notification by that person.
 
@@ -1208,9 +1252,7 @@ This amendment comes into operation on 1 January 2021.
 
 This amendment comes into operation on 1 January 2021.
 
-28. Clause 34 seeks to amend section 21b of Act 169 to clarify that the acquirer shall retain the whole of the money or a sum not exceeding seven per cent of the total value of the consideration if the disposer is under
-
-## Part III of Schedule 5 to Act 169.
+28. Clause 34 seeks to amend section 21b of Act 169 to clarify that the acquirer shall retain the whole of the money or a sum not exceeding seven per cent of the total value of the consideration if the disposer is under Part III of Schedule 5 to Act 169.
 
 This amendment comes into operation on on 1 January 2021.
 
@@ -1238,7 +1280,7 @@ This amendment comes into operation on 1 January 2021.
 
 ## AMENDMENTS TO THE STAMP ACT 1949
 
-## Chapter IV of this Bill seeks to amend the Stamp Act 1949.
+Chapter IV of this Bill seeks to amend the Stamp Act 1949.
 
 33. Clause 40 seeks to substitute the definition of “duly stamped” in section 2 of Act 378.
 
@@ -1286,7 +1328,7 @@ This amendment comes into operation on 1 January 2021.
 
 ## AMENDMENTS TO THE PETROLEUM (INCOME TAX) ACT 1967
 
-## Chapter V of this Bill seeks to amend the Petroleum (Income Tax) Act 1967.
+Chapter V of this Bill seeks to amend the Petroleum (Income Tax) Act 1967.
 
 42. Clause 52 seeks to introduce new section 48A into Act 543 to provide that institution of any proceedings under any other written law against the Government or the Director General shall not relieve any person from liability for the payment of any tax, debt or other sum under Part VIII of Act 543.
 
@@ -1298,9 +1340,7 @@ This amendment comes into operation on 1 January 2021.
 
 ## AMENDMENTS TO THE LABUAN BUSINESS ACTIVITY TAX ACT 1990
 
-## Chapter VI of this Bill seeks to amend the Labuan Business Activity Tax
-
-Act 1990.
+Chapter VI of this Bill seeks to amend the Labuan Business Activity Tax Act 1990.
 
 44. Clause 56 seeks to amend section 2b of Act 445.
 
@@ -1346,7 +1386,7 @@ This amendment comes into operation on 1 January 2021.
 
 ## AMENDMENT TO THE FINANCE ACT 2012
 
-## Chapter VII of this Bill seeks to amend the Finance Act 2012.
+Chapter VII of this Bill seeks to amend the Finance Act 2012.
 
 51. Clause 64 seeks to amend subsection 3(4) of Act 742 to provide for an extension of time from the year of assessment 2022 until the year of assessment 2025 for an amount of deduction by an individual for a contribution made to a private retirement scheme approved by the Securities Commission.
 
@@ -1354,7 +1394,7 @@ This amendment comes into operation on the coming into operation of this Act.
 
 ## AMENDMENT TO THE FINANCE ACT 2018
 
-## Chapter VIII of this Bill seeks to amend the Finance Act 2018.
+Chapter VIII of this Bill seeks to amend the Finance Act 2018.
 
 52. Clause 66 seeks to amend subsection 3(3) of Act 812 to provide for an extension of time from the year of assessment 2021 until the year of assessment 2022 for an amount of deduction deposited by an individual for his child into the Skim Simpanan Pendidikan Nasional account.
 

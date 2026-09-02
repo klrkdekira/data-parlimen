@@ -14,7 +14,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (2) This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette.
 
-### New sections 507b, 507c, 507d, 507e, 507f and 507g
+## NEW SECTIONS 507B, 507C, 507D, 507E, 507F AND 507G
 
 2. The Penal Code [Act 574] is amended by inserting after section 507a the following sections:
 

@@ -188,4 +188,4 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Paten 1983 ("Akta 291").
 
 Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
 
-[PN(U2)250S]
+<!-- marginal: [PN(U2)250S] -->

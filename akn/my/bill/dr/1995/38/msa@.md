@@ -14,9 +14,17 @@ Suatu Akta untuk meminda Akta Perindustrian Sekuriti 1983 dan untuk mengadakan p
 
 oleh Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan Dewan Negara dan Dewan Rakyat yang bersidang dalam Parlimen, dan dengan kuasa daripadanya, seperti berikut:
 
-Tajuk
+<!-- marginal: Tajuk -->
 
-1. (1) Akta ini bolehlah dinamakan Akta Perindustrian ringkas dan Sekuriti (Pindaan) 1995. mula berkuatkuasa.
+1. (1) Akta ini bolehlah dinamakan Akta Perindustrian
+
+<!-- marginal: ringkas dan -->
+
+Sekuriti (Pindaan) 1995.
+
+<!-- marginal: mula -->
+
+<!-- marginal: berkuatkuasa. -->
 
 (2) Akta ini hendaklah mula berkuatkuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
 
@@ -28,13 +36,23 @@ Tajuk
 
 <!-- page 2 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-2. Akta Perindustrian Sekuriti 1983, yang disebut "Akta seksyen 1. ibu" dalam Akta ini, adalah dipinda dalam seksyen 1 Akta 280. dengan memotong subseksyen (2).
+2. Akta Perindustrian Sekuriti 1983, yang disebut "Akta
 
-Pindaan
+<!-- marginal: seksyen 1. -->
 
-3. Subseksyen 2(1) Akta ibu adalah dipinda— seksyen 2.
+ibu" dalam Akta ini, adalah dipinda dalam seksyen 1
+
+<!-- marginal: Akta 280. -->
+
+dengan memotong subseksyen (2).
+
+<!-- marginal: Pindaan -->
+
+3. Subseksyen 2(1) Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 2. -->
 
 (a) dalam takrif "akaun amanah" dengan memasukkan selepas perkataan "seksyen 44" perkataan "atau 47C";
 
@@ -50,7 +68,15 @@ Pindaan
 
 (a) memperolehi, melupuskan, melanggan atau mengunderait sekuriti; atau
 
-(b) membuat atau menawarkan untuk membuat dengan mana-mana orang, atau mendorong atau cuba mendorong mana- mana orang supaya membuat atau menamakan untuk membuat— (i) apa-apa perjanjian bagi atau dengan tujuan hendak memperolehi, melupuskan, melanggan, atau mengunderait sekuriti; atau (ii) apa-apa perjanjian selain daripada suatu kontrak niaga hadapan, yang maksud atau maksud yang diakui baginya
+(b) membuat atau menawarkan untuk membuat dengan mana-mana orang, atau mendorong atau cuba mendorong mana- mana orang supaya membuat atau menamakan untuk membuat— (i) apa-apa perjanjian bagi atau dengan tujuan
+
+<!-- marginal: hendak -->
+
+memperolehi, melupuskan, melanggan, atau mengunderait sekuriti; atau (ii) apa-apa perjanjian
+
+<!-- marginal: selain -->
+
+daripada suatu kontrak niaga hadapan, yang maksud atau maksud yang diakui baginya
 
 <!-- page 3 -->
 
@@ -70,17 +96,29 @@ ialah untuk mendapatkan suatu keuntungan bagi mana-mana pihak daripada hasil sek
 
 (e) dengan memasukkan selepas takrif "bursa saham" takrif yang berikut:
 
-' "depositori pusat" ertinya suatu depositori pusat yang telah diluluskan oleh Menteri di Akta 453. bawah subseksyen (1) seksyen 5 Akta Perindustrian Sekuriti (Depositori Pusat) 1991;
+' "depositori pusat" ertinya suatu depositori pusat yang telah diluluskan oleh Menteri di
+
+<!-- marginal: Akta 453. -->
+
+bawah subseksyen (1) seksyen 5 Akta Perindustrian Sekuriti (Depositori Pusat) 1991;
 
 "ditetapkan" ertinya ditetapkan oleh Menteri melalui atau di bawah Akta ini atau di bawah mana-mana peraturan yang dibuat di bawah Akta ini, dan jika tiada cara disebutkan ertinya ditetapkan dari semasa ke semasa melalui perintah yang disiarkan dalam Warta, dan kuasa untuk menetapkan termasuklah kuasa untuk menetapkan secara berlainan bagi orang, sekuriti atau transaksi yang berlainan, atau kelas, kategori atau perihalan orang, sekuriti atau transaksi yang berlainan;
 
-"dokumen" mempunyai erti yang sama sebagaimana yang diberikan kepada ungkapan Akta 56 tersebut dalam Akta Keterangan 1950;';
+"dokumen" mempunyai erti yang sama sebagaimana yang diberikan kepada ungkapan
+
+<!-- marginal: Akta 56 -->
+
+tersebut dalam Akta Keterangan 1950;';
 
 <!-- page 4 -->
 
 (f) dengan memasukkan selepas takrif "ejen" takrif yang berikut:
 
-' "institusi berlesen" mempunyai erti yang sama sebagaimana yang diberikan kepada ungkapan tersebut dalam Akta Bank dan Akta 372. Institusi-Institusi Kewangan 1989;';
+' "institusi berlesen" mempunyai erti yang sama sebagaimana yang diberikan kepada ungkapan tersebut dalam Akta Bank dan
+
+<!-- marginal: Akta 372. -->
+
+Institusi-Institusi Kewangan 1989;';
 
 (g) dengan menggantikan takrif "kaedah-kaedah" dengan takrif yang berikut:
 
@@ -110,7 +148,11 @@ atau wajar bagi pengendalian dan pengurusan sepatutnya dan efisien bursa saham i
 
 ## RANG UNDANG-UNDANG
 
-"kontrak niaga hadapan" mempunyai erti yang sama sebagaimana yang diberikan kepada Akta 499. ungkapan itu dalam Akta Perindustrian Niaga Hadapan 1993;
+"kontrak niaga hadapan" mempunyai erti yang sama sebagaimana yang diberikan kepada
+
+<!-- marginal: Akta 499. -->
+
+ungkapan itu dalam Akta Perindustrian Niaga Hadapan 1993;
 
 "lembaga" , berhubungan dengan sesuatu perbadanan, ertinya lembaga pengarah, jawatankuasa pengurusan atau pihak berkuasa pentadbir lain perbadanan itu;';
 
@@ -160,7 +202,11 @@ suatu pasaran saham terkecuali di bawah perenggan (a) subseksyen (2) seksyen 7;'
 
 tetapi ungkapan itu tidaklah termasuk—';
 
-(ii) dengan menomborkan semula perenggan (a), (b), (c), (d), (e), (f) dan (g) masing- masingnya sebagai perenggan (c), (d), (e), (f), (g), (h) dan (i);
+(ii) dengan menomborkan semula perenggan
+
+(a), (b), (c), (d), (e), (f) dan (g) masing- masingnya sebagai perenggan (c), (d),
+
+(e), (f), (g), (h) dan (i);
 
 (iii) dengan memotong perkataan "atau" di hujung perenggan (h);
 
@@ -208,7 +254,9 @@ dan Ordinan Mesin Cetak 1962 Sarawak" dengan perkataan "Akta Mesin Cetak dan Pen
 
 (p) dengan memasukkan selepas takrif "perbadanan" takrif yang berikut:
 
-' "perbadanan yang berhubungan" , berhubung dengan sesuatu perbadanan, ertinya sesuatu perbadanan yang berhubungan dengan perbadanan yang pertama disebut menurut kuasa seksyen 6 Akta Syarikat 1965; Akta 125.
+' "perbadanan yang berhubungan" , berhubung dengan sesuatu perbadanan, ertinya sesuatu perbadanan yang berhubungan dengan perbadanan yang pertama disebut menurut kuasa seksyen 6 Akta Syarikat 1965;
+
+<!-- marginal: Akta 125. -->
 
 ' "perkhidmatan maklumat" ertinya—
 
@@ -232,13 +280,25 @@ dan Ordinan Mesin Cetak 1962 Sarawak" dengan perkataan "Akta Mesin Cetak dan Pen
 
 "pusat penjelasan diiktirafkan" ertinya sesuatu pusat penjelasan yang diisytiharkan sebagai suatu pusat penjelasan diiktirafkan di bawah subseksyen (1) seksyen 8A;
 
-"rekod perakaunan" mempunyai erti yang sama sebagaimana yang diberikan kepada Akta 125 ungkapan itu dalam Akta Syarikat 1965;';
+"rekod perakaunan" mempunyai erti yang sama sebagaimana yang diberikan kepada
+
+<!-- marginal: Akta 125 -->
+
+ungkapan itu dalam Akta Syarikat 1965;';
 
 (q) dengan memotong takrif "pihak berkuasa yang relevan";
 
 (r) dengan memasukkan selepas takrif "syarikat anggota" takrif yang berikut:
 
-' "undang-undang sekuriti" ertinya Akta ini, Akta Perindustrian Sekuriti (Depositori Pusat) Akta 453. 1991, Akta Suruhanjaya Sekuriti 1993 dan Akta 498. melainkan jika dinyatakan dengan nyata selainnya, termasuklah mana-mana peraturan, kaedah, perintah, pemberitahuan atau perundangan subsidiari lain yang dibuat di bawah undang-undang itu;';
+' "undang-undang sekuriti" ertinya Akta ini, Akta Perindustrian Sekuriti (Depositori Pusat)
+
+<!-- marginal: Akta 453. -->
+
+1991, Akta Suruhanjaya Sekuriti 1993 dan
+
+<!-- marginal: Akta 498. -->
+
+melainkan jika dinyatakan dengan nyata selainnya, termasuklah mana-mana peraturan, kaedah, perintah, pemberitahuan atau perundangan subsidiari lain yang dibuat di bawah undang-undang itu;';
 
 (s) dengan memotong takrif "urusan";
 
@@ -264,35 +324,45 @@ dan Ordinan Mesin Cetak 1962 Sarawak" dengan perkataan "Akta Mesin Cetak dan Pen
 
 oleh, atau bertindak bagi atau melalui perkiraan dengan, seseorang peniaga, yang bukan merupakan seorang peniaga terkecuali, seorang pengurus kumpulan wang berlesen atau seorang pengurus kumpulan wang terkecuali, dan melaksanakan untuk peniaga itu mana-mana fungsi seorang peniaga selain daripada kerja yang biasanya dilaksanakan oleh akauntan, kerani atau juruwang;'.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-4. Perenggan 3(1)(d) Akta ibu adalah dipinda dengan seksyen 3. memasukkan sebelum perenggan (iii) perenggan yang berikut:
+4. Perenggan 3(1)(d) Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 3. -->
+
+memasukkan sebelum perenggan (iii) perenggan yang berikut:
 
 "(i) seseorang yang berniaga sekuriti sebagai tuan punya tunggal atau secara perkongsian dengan orang lagi satu itu;
 
 (ii) tertakluk kepada seksyen (2), seseorang yang menjadi pekongsi orang lagi satu itu selain daripada disebabkan oleh dia berniaga sekuriti secara perkongsian dengan orang lagi satu itu;".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-5. Subseksyen 4(5) Akta ibu adalah dipinda— seksyen 4.
+5. Subseksyen 4(5) Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 4. -->
 
 (a) dengan memasukkan selepas perkataan "kepentingan" perkataan "dalam sekuriti"; dan
 
 (b) dalam perenggan (c) dengan memasukkan selepas perkataan "hak" di mana-mana jua terdapat perkataan "atau kuasa".
 
-Pindaan tajuk
+<!-- marginal: Pindaan tajuk -->
 
 6. Akta ibu adalah dipinda dengan menggantikan tajuk
 
 ## Bahagian III.
 
-## Bahagian III dengan tajuk yang berikut:
+Bahagian III dengan tajuk yang berikut:
 
 ## "BURSA SAHAM DAN PUSAT PENJELASAN".
 
-Penggantian
+<!-- marginal: Penggantian -->
 
-7. Akta ibu adalah dipinda dengan menggantikan seksyen 7. seksyen 7 dengan seksyen yang berikut:
+7. Akta ibu adalah dipinda dengan menggantikan
+
+<!-- marginal: seksyen 7. -->
+
+seksyen 7 dengan seksyen yang berikut:
 
 "Penubuhan 7. (1) Seseorang tidak boleh menubuhkan, pasaran mengendalikan atau menyenggarakan, atau saham. membantu menubuhkan, mengendalikan atau
 
@@ -312,13 +382,31 @@ menyenggarakan, atau mengemukakan dirinya sebagai mengadakan, mengendalikan atau
 
 <!-- page 14 -->
 
-(3) Seseorang yang melanggar subseksyen (1) adalah melakukan suatu kesalahan dan apabila disabitkan boleh dikenakan denda tidak lebih daripada satu juta ringgit atau penjara selama tempoh tidak lebih daripada sepuluh tahun atau kedua-duanya.".
+(3) Seseorang yang melanggar subseksyen
 
-Seksyen baru
+(1) adalah melakukan suatu kesalahan dan apabila disabitkan boleh dikenakan denda tidak lebih daripada satu juta ringgit atau penjara selama tempoh tidak lebih daripada sepuluh tahun atau kedua-duanya.".
 
-8. Akta ibu adalah dipinda dengan memasukkan selepas 8A dan 8B. seksyen 8 seksyen yang berikut:
+<!-- marginal: Seksyen baru -->
 
-"Pusat 8A. (1) Jika Suruhanjaya berpuas hati bahawa penjelasan adalah wajar berbuat demikian demi kepentingan diiktiraf- kan. awam, atau bagi pengawalseliaan sepatutnya perkhidmatan bagi penjelasan dan penyelesaian transaksi dalam sekuriti, ia boleh, dengan kelulusan Menteri, melalui perintah yang disiarkan dalam Warta, mengisytiharkan sesuatu pusat penjelasan sebagai suatu pusat penjelasan diiktirafkan bagi maksud Akta ini tertakluk kepada apa-apa syarat yang difikirkan sesuai oleh Suruhanjaya.
+8. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: 8A dan 8B. -->
+
+seksyen 8 seksyen yang berikut:
+
+<!-- marginal: "Pusat -->
+
+8A. (1) Jika Suruhanjaya berpuas hati bahawa
+
+<!-- marginal: penjelasan -->
+
+adalah wajar berbuat demikian demi kepentingan
+
+<!-- marginal: diiktiraf- -->
+
+<!-- marginal: kan. -->
+
+awam, atau bagi pengawalseliaan sepatutnya perkhidmatan bagi penjelasan dan penyelesaian transaksi dalam sekuriti, ia boleh, dengan kelulusan Menteri, melalui perintah yang disiarkan dalam Warta, mengisytiharkan sesuatu pusat penjelasan sebagai suatu pusat penjelasan diiktirafkan bagi maksud Akta ini tertakluk kepada apa-apa syarat yang difikirkan sesuai oleh Suruhanjaya.
 
 (2) Jika Suruhanjaya membuat perisytiharan di bawah subseksyen (1) berkenaan dengan sesuatu pusat penjelasan,—
 
@@ -326,7 +414,27 @@ Seksyen baru
 
 (b) kaedah-kaedah pusat penjelasan yang berkuatkuasa sebelum perisytiharan itu hendaklah terus berkuatkuasa melainkan jika dinyatakan selainnya, atau sehingga apa-apa masa sebagaimana yang dinyata- kan, dalam notis yang disebut dalam perenggan (a).
 
-Penarikan 8B. (1) Tertakluk kepada subseksyen (2) dan balik (3), Suruhanjaya boleh, dengan kelulusan pengikti- Menteri, melalui notis yang disiarkan dalam rafan pusat Warta, menarik balik pengiktirafan yang penjelasan. diberikan di bawah subseksyen (1) seksyen 8A
+<!-- marginal: Penarikan -->
+
+8B. (1) Tertakluk kepada subseksyen (2) dan
+
+<!-- marginal: balik -->
+
+(3), Suruhanjaya boleh, dengan kelulusan
+
+<!-- marginal: pengikti- -->
+
+Menteri, melalui notis yang disiarkan dalam
+
+<!-- marginal: rafan -->
+
+<!-- marginal: pusat -->
+
+Warta, menarik balik pengiktirafan yang
+
+<!-- marginal: penjelasan. -->
+
+diberikan di bawah subseksyen (1) seksyen 8A
 
 <!-- page 15 -->
 
@@ -344,21 +452,55 @@ kepada sesuatu pusat penjelasan jika pusat penjelasan itu melanggar suatu undang
 
 (4) Jika Suruhanjaya berpuas hati dengan pernyataan bertulis pusat penjelasan itu, Suruhanjaya tidak boleh menarik balik pengiktirafan yang diberikan di bawah subseksyen (1) seksyen 8A.
 
-(5) Jika pengiktirafan sesuatu pusat penjelasan ditarik balik di bawah subseksyen
-
-(1), Suruhanjaya hendaklah, dengan seberapa segera yang praktik, memberitahu bursa saham secara bertulis tentang penarikan balik pengiktirafan itu dan mengarahkan bursa saham itu untuk mengambil apa-apa tindakan yang
+(5) Jika pengiktirafan sesuatu pusat penjelasan ditarik balik di bawah subseksyen (1), Suruhanjaya hendaklah, dengan seberapa segera yang praktik, memberitahu bursa saham secara bertulis tentang penarikan balik pengiktirafan itu dan mengarahkan bursa saham itu untuk mengambil apa-apa tindakan yang
 
 <!-- page 16 -->
 
 dinyatakan dalam notis itu termasuk suatu arahan kepada bursa saham itu bahawa segala perdagangan yang dilaksanakan di bursa saham itu tidak boleh dijelaskan oleh pusat penjelasan itu.".
 
-Penggantian
+<!-- marginal: Penggantian -->
 
-9. Akta ibu adalah dipinda dengan menggantikan seksyen seksyen 9. 9 dengan seksyen yang berikut:
+9. Akta ibu adalah dipinda dengan menggantikan seksyen
 
-"Suruhan-
+<!-- marginal: seksyen 9. -->
 
-9. (1) Tiada pindaan kepada kaedah-kaedah jaya bursa saham boleh berkuatkuasa melainkan jika hendaklah melulus- ia diluluskan secara bertulis oleh Suruhanjaya kan di bawah subseksyen (3). pindaan kepada kaedah- (2) Jika sesuatu bursa saham bercadang kaedah membuat apa-apa pindaan kepada kaedah- bursa saham. kaedahnya, bursa saham itu hendaklah mengemukakan kepada Suruhanjaya—
+9 dengan seksyen yang berikut:
+
+<!-- marginal: "Suruhan- -->
+
+9. (1) Tiada pindaan kepada kaedah-kaedah
+
+<!-- marginal: jaya -->
+
+bursa saham boleh berkuatkuasa melainkan jika
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: melulus- -->
+
+ia diluluskan secara bertulis oleh Suruhanjaya
+
+<!-- marginal: kan -->
+
+di bawah subseksyen (3).
+
+<!-- marginal: pindaan -->
+
+<!-- marginal: kepada -->
+
+<!-- marginal: kaedah- -->
+
+(2) Jika sesuatu bursa saham bercadang
+
+<!-- marginal: kaedah -->
+
+membuat apa-apa pindaan kepada kaedah-
+
+<!-- marginal: bursa -->
+
+<!-- marginal: saham. -->
+
+kaedahnya, bursa saham itu hendaklah mengemukakan kepada Suruhanjaya—
 
 (a) teks pindaan yang dicadangkan; dan
 
@@ -384,15 +526,59 @@ Dengan syarat bahawa subseksyen ini tidak boleh berkuatkuasa sehingga suatu temp
 
 <!-- page 18 -->
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
-10. Akta ibu adalah dipinda dengan memasukkan selepas 9A, 9B dan seksyen 9 seksyen yang berikut:
+10. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: 9A, 9B dan -->
+
+seksyen 9 seksyen yang berikut:
 
 9C.
 
-"Suruhan-
+<!-- marginal: "Suruhan- -->
 
-9A. (1) Tiada pindaan kepada kaedah-kaedah jaya pusat penjelasan diiktirafkan boleh berkuatkuasa hendaklah melulus- melainkan jika ia diluluskan secara bertulis oleh kan Suruhanjaya di bawah subseksyen (3). pindaan kepada kaedah- (2) Jika suatu pusat penjelasan diiktirafkan kaedah bercadang membuat apa-apa pindaan kepada pusat penjelasan kaedah-kaedahnya, pusat penjelasan diiktirafkan diiktiraf- itu hendaklah mengemukakan kepada kan. Suruhanjaya—
+9A. (1) Tiada pindaan kepada kaedah-kaedah
+
+<!-- marginal: jaya -->
+
+pusat penjelasan diiktirafkan boleh berkuatkuasa
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: melulus- -->
+
+melainkan jika ia diluluskan secara bertulis oleh
+
+<!-- marginal: kan -->
+
+Suruhanjaya di bawah subseksyen (3).
+
+<!-- marginal: pindaan -->
+
+<!-- marginal: kepada -->
+
+<!-- marginal: kaedah- -->
+
+(2) Jika suatu pusat penjelasan diiktirafkan
+
+<!-- marginal: kaedah -->
+
+bercadang membuat apa-apa pindaan kepada
+
+<!-- marginal: pusat -->
+
+<!-- marginal: penjelasan -->
+
+kaedah-kaedahnya, pusat penjelasan diiktirafkan
+
+<!-- marginal: diiktiraf- -->
+
+itu hendaklah mengemukakan kepada
+
+<!-- marginal: kan. -->
+
+Suruhanjaya—
 
 (a) teks pindaan yang dicadangkan; dan
 
@@ -424,9 +610,17 @@ Dengan syarat bahawa subseksyen ini tidak boleh berkuatkuasa sehingga suatu masa
 
 ## RANG UNDANG-UNDANG
 
-Kewajipan
+<!-- marginal: Kewajipan -->
 
-9B. (1) Maka adalah menjadi kewajipan bursa bursa saham untuk memastikan, setakat yang saham semunasabahnya praktik, suatu pasaran yang teratur dan saksama dalam sekuriti yang diperdagangkan melalui kemudahan- kemudahannya.
+9B. (1) Maka adalah menjadi kewajipan bursa
+
+<!-- marginal: bursa -->
+
+saham untuk memastikan, setakat yang
+
+<!-- marginal: saham -->
+
+semunasabahnya praktik, suatu pasaran yang teratur dan saksama dalam sekuriti yang diperdagangkan melalui kemudahan- kemudahannya.
 
 (2) Pada melaksanakan kewajipannya di bawah subseksyen (1), bursa saham hendaklah—
 
@@ -466,9 +660,23 @@ Kewajipan
 
 (c) sistem yang diautomatikkan dengan kapasiti yang mencukupi, perkiraan dan kemudahan keselamatan untuk menghadapi kecemasan.
 
-Penutupan
+<!-- marginal: Penutupan -->
 
-9C. (1) Menteri boleh mengarahkan suatu bursa bursa saham supaya menutup sesuatu pasaran saham semasa saham bursa saham itu selama tempoh tidak darurat. melebihi lima hari berurusan jika Menteri berpendapat bahawa suatu pasaran yang teratur dan saksama bagi perdagangan dalam sekuriti di pasaran saham itu sedang atau mungkin akan terhalang kerana—
+9C. (1) Menteri boleh mengarahkan suatu
+
+<!-- marginal: bursa -->
+
+bursa saham supaya menutup sesuatu pasaran
+
+<!-- marginal: saham -->
+
+<!-- marginal: semasa -->
+
+saham bursa saham itu selama tempoh tidak
+
+<!-- marginal: darurat. -->
+
+melebihi lima hari berurusan jika Menteri berpendapat bahawa suatu pasaran yang teratur dan saksama bagi perdagangan dalam sekuriti di pasaran saham itu sedang atau mungkin akan terhalang kerana—
 
 (a) darurat atau malapetaka alam telah berlaku di Malaysia; atau
 
@@ -488,13 +696,63 @@ Penutupan
 
 "pasaran saksama" termasuklah tetapi tidak terhad kepada sesuatu pasaran yang mencerminkan daya penawaran dan permintaan.".
 
-Penggantian
+<!-- marginal: Penggantian -->
 
-11. Akta ibu adalah dipinda dengan menggantikan seksyen 10 seksyen 10 dan 11 dengan seksyen yang berikut: dan 11.
+11. Akta ibu adalah dipinda dengan menggantikan
 
-"Bursa
+<!-- marginal: seksyen 10 -->
 
-10. (1) Sesuatu bursa saham atau pusat saham dan penjelasan diiktirafkan hendaklah memberikan pusat penjelasan apa-apa bantuan kepada Suruhanjaya, atau diiktiraf- kepada seseorang yang bertindak bagi pihak atau kan hendaklah dengan kuasa Suruhanjaya yang semunasabahnya memberi- dikehendaki oleh Suruhanjaya atau orang itu kan bantuan termasuk memberikan apa-apa penyata, dan kepada pemberian apa-apa maklumat yang berhubungan Suruhan- dengan pengendalian bursa saham atau pusat jaya atau Pendaftar. penjelasan diiktirafkan atau berkenaan dengan apa-apa perniagaan sekuriti atau apa-apa maklumat lain yang dikehendaki oleh Suruhanjaya atau orang itu bagi pentadbiran sewajarnya undang-undang sekuriti.
+seksyen 10 dan 11 dengan seksyen yang berikut:
+
+<!-- marginal: dan 11. -->
+
+<!-- marginal: "Bursa -->
+
+10. (1) Sesuatu bursa saham atau pusat
+
+<!-- marginal: saham dan -->
+
+penjelasan diiktirafkan hendaklah memberikan
+
+<!-- marginal: pusat -->
+
+<!-- marginal: penjelasan -->
+
+apa-apa bantuan kepada Suruhanjaya, atau
+
+<!-- marginal: diiktiraf- -->
+
+kepada seseorang yang bertindak bagi pihak atau
+
+<!-- marginal: kan -->
+
+<!-- marginal: hendaklah -->
+
+dengan kuasa Suruhanjaya yang semunasabahnya
+
+<!-- marginal: memberi- -->
+
+dikehendaki oleh Suruhanjaya atau orang itu
+
+<!-- marginal: kan -->
+
+<!-- marginal: bantuan -->
+
+termasuk memberikan apa-apa penyata, dan
+
+<!-- marginal: kepada -->
+
+pemberian apa-apa maklumat yang berhubungan
+
+<!-- marginal: Suruhan- -->
+
+dengan pengendalian bursa saham atau pusat
+
+<!-- marginal: jaya atau -->
+
+<!-- marginal: Pendaftar. -->
+
+penjelasan diiktirafkan atau berkenaan dengan apa-apa perniagaan sekuriti atau apa-apa maklumat lain yang dikehendaki oleh Suruhanjaya atau orang itu bagi pentadbiran sewajarnya undang-undang sekuriti.
 
 (2) Sesuatu bursa saham atau pusat penjelasan diiktirafkan hendaklah memberikan apa-apa bantuan kepada Pendaftar yang semunasabahnya dikehendaki oleh Pendaftar termasuk memberikan apa-apa penyata, dan pemberian apa-apa maklumat yang berhubungan dengan pengendalian bursa saham atau pusat penjelasan diiktirafkan atau berkenaan dengan apa-apa perniagaan sekuriti atau apa-apa maklumat lain yang dikehendaki oleh Pendaftar bagi melaksanakan fungsinya atau menunaikan kewajipannya di bawah Akta ini.
 
@@ -510,9 +768,61 @@ Penggantian
 
 <!-- page 25 -->
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-11. (1) Jika mana-mana orang yang di bawah berkenaan suatu obligasi untuk mematuhi, menuruti, dengan pematuhan menguatkuasakan atau memberi kesan kepada dan mana-mana kaedah bursa saham atau pusat penguat- penjelasan diiktirafkan tidak mematuhi, menuruti, kuasaan kaedah- menguatkuasakan atau memberi kesan kepada kaedah atau mana-mana kaedah sedemikian ("orang yang kehendak penyenaraian ingkar"), bursa saham atau pusat penjelasan bursa diiktirafkan itu boleh mengambil apa-apa saham atau pusat tindakan terhadap orang yang ingkar mengikut penjelasan kaedah-kaedah bursa saham atau pusat penjelasan diiktirafkan. diiktirafkan itu, mengikut mana-mana yang berkenaan.
+11. (1) Jika mana-mana orang yang di bawah
+
+<!-- marginal: berkenaan -->
+
+suatu obligasi untuk mematuhi, menuruti,
+
+<!-- marginal: dengan -->
+
+<!-- marginal: pematuhan -->
+
+menguatkuasakan atau memberi kesan kepada
+
+<!-- marginal: dan -->
+
+mana-mana kaedah bursa saham atau pusat
+
+<!-- marginal: penguat- -->
+
+penjelasan diiktirafkan tidak mematuhi, menuruti,
+
+<!-- marginal: kuasaan -->
+
+<!-- marginal: kaedah- -->
+
+menguatkuasakan atau memberi kesan kepada
+
+<!-- marginal: kaedah atau -->
+
+mana-mana kaedah sedemikian ("orang yang
+
+<!-- marginal: kehendak -->
+
+<!-- marginal: penyenaraian -->
+
+ingkar"), bursa saham atau pusat penjelasan
+
+<!-- marginal: bursa -->
+
+diiktirafkan itu boleh mengambil apa-apa
+
+<!-- marginal: saham atau -->
+
+<!-- marginal: pusat -->
+
+tindakan terhadap orang yang ingkar mengikut
+
+<!-- marginal: penjelasan -->
+
+kaedah-kaedah bursa saham atau pusat penjelasan
+
+<!-- marginal: diiktirafkan. -->
+
+diiktirafkan itu, mengikut mana-mana yang berkenaan.
 
 (2) Tanpa menjejaskan subseksyen (1), jika mana-mana orang yang di bawah suatu obligasi untuk mematuhi, menuruti, menguatkuasakan atau memberi kesan kepada kehendak penyenaraian sesuatu bursa saham tidak mematuhi, menuruti, menguatkuasakan atau memberi kesan kepada mana-mana kaedah sedemikian ("orang yang ingkar"), bursa saham itu boleh, sebagai tambahan kepada atau sebagai ganti apa-apa tindakan yang boleh diambil olehnya di bawah kehendak penyenaraian, mengambil mana-mana satu atau lebih daripada tindakan yang berikut:
 
@@ -586,11 +896,51 @@ Dengan syarat bahawa suatu bursa saham atau pusat penjelasan diiktirafkan tidak 
 
 (c) menggantikan tindakan Suruhanjaya dengan mana-mana tindakan lain yang disebut dalam subseksyen (2).".
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
-12. Akta ibu adalah dipinda dengan memasukkan selepas 11A dan 11B. seksyen 11 seksyen yang berikut:
+12. Akta ibu adalah dipinda dengan memasukkan selepas
 
-"Kuasa 1 1A. (1) Jika Suruhanjaya berpuas hati Suruhan- bahawa adalah demi kepentingan awam, atau jaya untuk adalah wajar berbuat demikian untuk meng- perlindungan pelabur, untuk melarang halang perdagangan sekuriti yang tertentu atau sesuatu perda- gangan kelas sekuriti yang tertentu yang diadakan oleh sekuriti sesuatu perbadanan di pasaran saham suatu bursa yang tertentu. saham, Suruhanjaya boleh memberikan notis bertulis kepada bursa saham menyatakan bahawa ia berpuas hati sedemikian dan menyatakan sebab-sebab bagi pendapat itu dan tarikh bursa saham itu hendaklah memberikan kuatkuasa kepada notis itu.
+<!-- marginal: 11A dan 11B. -->
+
+seksyen 11 seksyen yang berikut:
+
+<!-- marginal: "Kuasa -->
+
+1 1A. (1) Jika Suruhanjaya berpuas hati
+
+<!-- marginal: Suruhan- -->
+
+bahawa adalah demi kepentingan awam, atau
+
+<!-- marginal: jaya -->
+
+<!-- marginal: untuk -->
+
+adalah wajar berbuat demikian untuk
+
+<!-- marginal: meng- -->
+
+perlindungan pelabur, untuk melarang
+
+<!-- marginal: halang -->
+
+perdagangan sekuriti yang tertentu atau sesuatu
+
+<!-- marginal: perda- -->
+
+<!-- marginal: gangan -->
+
+kelas sekuriti yang tertentu yang diadakan oleh
+
+<!-- marginal: sekuriti -->
+
+sesuatu perbadanan di pasaran saham suatu bursa
+
+<!-- marginal: yang -->
+
+<!-- marginal: tertentu. -->
+
+saham, Suruhanjaya boleh memberikan notis bertulis kepada bursa saham menyatakan bahawa ia berpuas hati sedemikian dan menyatakan sebab-sebab bagi pendapat itu dan tarikh bursa saham itu hendaklah memberikan kuatkuasa kepada notis itu.
 
 (2) Jika Suruhanjaya memberikan notis kepada sesuatu bursa saham di bawah subseksyen
 
@@ -622,7 +972,49 @@ yang menyatakan sebab-sebab pemberian notis itu; dan
 
 <!-- page 30 -->
 
-Perintah 11 B. (1) Tanpa menjejaskan seksyen 9 C penggan- atau 11A, jika Menteri berpuas hati bahawa tungan berhubungan demi kepentingan awam, atau adalah wajar dengan berbuat sedemikian untuk perlindungan pelabur bursa saham, atau bagi pengawalseliaan sewajarnya bursa pusat saham, pusat penjelasan diiktirafkan atau penjelasan diiktirafkan depositori pusat, Menteri boleh, atas syor atau Suruhanjaya, membuat suatu perintah ("perintah depositori pusat. penggantungan") berhubungan dengan semua atau mana-mana yang berikut:
+<!-- marginal: Perintah -->
+
+11 B. (1) Tanpa menjejaskan seksyen 9 C
+
+<!-- marginal: penggan- -->
+
+atau 11A, jika Menteri berpuas hati bahawa
+
+<!-- marginal: tungan -->
+
+<!-- marginal: berhubungan -->
+
+demi kepentingan awam, atau adalah wajar
+
+<!-- marginal: dengan -->
+
+berbuat sedemikian untuk perlindungan pelabur
+
+<!-- marginal: bursa -->
+
+<!-- marginal: saham, -->
+
+atau bagi pengawalseliaan sewajarnya bursa
+
+<!-- marginal: pusat -->
+
+saham, pusat penjelasan diiktirafkan atau
+
+<!-- marginal: penjelasan -->
+
+<!-- marginal: diiktirafkan -->
+
+depositori pusat, Menteri boleh, atas syor
+
+<!-- marginal: atau -->
+
+Suruhanjaya, membuat suatu perintah ("perintah
+
+<!-- marginal: depositori -->
+
+<!-- marginal: pusat. -->
+
+penggantungan") berhubungan dengan semua atau mana-mana yang berikut:
 
 (a) fungsi lembaga bursa saham, pusat penjelasan diiktirafkan atau depositori pusat, atau mana-mana anggota lembaganya;
 
@@ -666,13 +1058,23 @@ bagi apa-apa tempoh selanjutnya yang setiap satunya tidak melebihi tiga bulan.
 
 (9) Bagi maksud seksyen ini, "pegawai utama" termasuklah seseorang, dengan nama apa jua disebut, yang sama ada secara individu atau bersesama dengan seorang atau lebih orang lain, bertanggungjawab bagi penjalanan urusan dan pentadbiran bursa saham, pusat penjelasan diiktirafkan atau depositori pusat.".
 
-Penggantian
+<!-- marginal: Penggantian -->
 
-13. Akta ibu adalah dipinda dengan menggantikan seksyen 13. seksyen 13 dengan seksyen yang berikut:
+13. Akta ibu adalah dipinda dengan menggantikan
 
-"Lesen
+<!-- marginal: seksyen 13. -->
 
-13. Seseorang tidak boleh bertindak sebagai wakil seorang wakil peniaga melainkan jika— peniaga.
+seksyen 13 dengan seksyen yang berikut:
+
+<!-- marginal: "Lesen -->
+
+13. Seseorang tidak boleh bertindak sebagai
+
+<!-- marginal: wakil -->
+
+seorang wakil peniaga melainkan jika—
+
+<!-- marginal: peniaga. -->
 
 (a) peniaga itu memegang suatu lesen peniaga di bawah Bahagian ini; dan
 
@@ -680,19 +1082,47 @@ Penggantian
 
 (b) orang itu memegang suatu lesen wakil peniaga di bawah Bahagian ini.".
 
-Penggantian
+<!-- marginal: Penggantian -->
 
-14. Akta ibu adalah dipinda dengan menggantikan seksyen 15 seksyen 15 dan 15A dengan seksyen yang berikut: dan 15A.
+14. Akta ibu adalah dipinda dengan menggantikan
 
-"Lesen
+<!-- marginal: seksyen 15 -->
 
-15. Seseorang tidak boleh bertindak sebagai wakil seorang wakil pelaburan seseorang penasihat pelaburan. pelaburan melainkan jika—
+seksyen 15 dan 15A dengan seksyen yang berikut:
+
+<!-- marginal: dan 15A. -->
+
+<!-- marginal: "Lesen -->
+
+15. Seseorang tidak boleh bertindak sebagai
+
+<!-- marginal: wakil -->
+
+seorang wakil pelaburan seseorang penasihat
+
+<!-- marginal: pelaburan. -->
+
+pelaburan melainkan jika—
 
 (a) penasihat pelaburan itu memegang suatu lesen penasihat pelaburan di bawah Bahagian ini; dan
 
 (b) orang itu memegang suatu lesen wakil pelaburan di bawah Bahagian ini.
 
-Lesen 1 5A. (1) Seseorang tidak boleh bertindak pengurus sebagai seorang pengurus kumpulan wang atau kumpulan mengemukakan dirinya sebagai seorang pengurus wang. kumpulan wang melainkan jika dia ialah pemegang lesen pengurus kumpulan wang di bawah Bahagian ini.
+<!-- marginal: Lesen -->
+
+1 5A. (1) Seseorang tidak boleh bertindak
+
+<!-- marginal: pengurus -->
+
+sebagai seorang pengurus kumpulan wang atau
+
+<!-- marginal: kumpulan -->
+
+mengemukakan dirinya sebagai seorang pengurus
+
+<!-- marginal: wang. -->
+
+kumpulan wang melainkan jika dia ialah pemegang lesen pengurus kumpulan wang di bawah Bahagian ini.
 
 (2) Peruntukan subseksyen (1) tidak terpakai bagi—
 
@@ -700,9 +1130,7 @@ Lesen 1 5A. (1) Seseorang tidak boleh bertindak pengurus sebagai seorang penguru
 
 (b) mana-mana perbadanan berkanun awam yang ditubuhkan di bawah mana-mana undang-undang bertulis; dan
 
-(c) mana-mana orang yang diisytiharkan sebagai peniaga terkecuali oleh Menteri di bawah perenggan (d) dalam takrif "peniaga terkecuali" dalam subseksyen
-
-(1) seksyen 2 bagi maksud menguruskan suatu portfolio sekuriti bagi pihak orang lain; atau
+(c) mana-mana orang yang diisytiharkan sebagai peniaga terkecuali oleh Menteri di bawah perenggan (d) dalam takrif "peniaga terkecuali" dalam subseksyen (1) seksyen 2 bagi maksud menguruskan suatu portfolio sekuriti bagi pihak orang lain; atau
 
 (d) mana-mana orang atau kelas orang yang diisytiharkan sebagai pengurus kumpulan wang terkecuali oleh Menteri melalui perintah yang disiarkan dalam Warta,
 
@@ -710,23 +1138,55 @@ Lesen 1 5A. (1) Seseorang tidak boleh bertindak pengurus sebagai seorang penguru
 
 tertakluk kepada apa-apa syarat, batasan atau sekatan sebagaimana yang boleh dinyatakan oleh Menteri, atas syor Suruhanjaya, dalam perintah itu.".
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
-15. Akta ibu adalah dipinda dengan memasukkan selepas 15B dan 15C. seksyen 15A seksyen yang berikut:
+15. Akta ibu adalah dipinda dengan memasukkan selepas
 
-"Lesen 15B. Seseorang tidak boleh bertindak sebagai wakil seorang wakil pengurus kumpulan wang pengurus kumpulan melainkan jika— wang.
+<!-- marginal: 15B dan 15C. -->
+
+seksyen 15A seksyen yang berikut:
+
+<!-- marginal: "Lesen -->
+
+15B. Seseorang tidak boleh bertindak sebagai
+
+<!-- marginal: wakil -->
+
+seorang wakil pengurus kumpulan wang
+
+<!-- marginal: pengurus -->
+
+<!-- marginal: kumpulan -->
+
+melainkan jika—
+
+<!-- marginal: wang. -->
 
 (a) pengurus kumpulan wang itu memegang suatu lesen pengurus kumpulan wang; dan
 
 (b) orang itu memegang suatu lesen wakil pengurus kumpulan wang di bawah Bahagian ini.
 
-Pelanggaran 15C. Seseorang yang melanggar seksyen 12, seksyen 12, 13, 14, 15, 15A atau 15B adalah melakukan 13, 14, 15, 15A atau suatu kesalahan dan apabila disabitkan
+<!-- marginal: Pelanggaran -->
+
+15C. Seseorang yang melanggar seksyen 12,
+
+<!-- marginal: seksyen 12, -->
+
+13, 14, 15, 15A atau 15B adalah melakukan
+
+<!-- marginal: 13, 14, 15, -->
+
+<!-- marginal: 15A atau -->
+
+suatu kesalahan dan apabila disabitkan
 
 15B. boleh dikenakan denda tidak lebih daripada satu juta ringgit atau penjara selama tempoh tidak lebih daripada sepuluh tahun atau kedua- duanya.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-16. Seksyen 16 Akta itu adalah dipinda— seksyen 16.
+16. Seksyen 16 Akta itu adalah dipinda—
+
+<!-- marginal: seksyen 16. -->
 
 (a) dengan menggantikan perkataan "Pegawai Pelesen" di mana-mana jua terdapat dengan perkataan "Suruhanjaya"; dan
 
@@ -736,17 +1196,41 @@ Pindaan
 
 <!-- page 35 -->
 
-Penggantian
+<!-- marginal: Penggantian -->
 
-17. Akta ibu adalah dipinda dengan menggantikan seksyen 17. seksyen 17 dengan seksyen yang berikut:
+17. Akta ibu adalah dipinda dengan menggantikan
 
-"Alasan
+<!-- marginal: seksyen 17. -->
 
-17. (1) Suruhanjaya boleh menolak sesuatu kerana permohonan yang dibuat di bawah seksyen 16 enggan jika— memberi atau
+seksyen 17 dengan seksyen yang berikut:
 
-(a) permohonan itu tidak dibuat mengikut mem- baharui subseksyen (1) seksyen 16 atau maklumat lesen. tidak dibekalkan mengikut subseksyen
+<!-- marginal: "Alasan -->
 
-(2) seksyen 16;
+17. (1) Suruhanjaya boleh menolak sesuatu
+
+<!-- marginal: kerana -->
+
+permohonan yang dibuat di bawah seksyen 16
+
+<!-- marginal: enggan -->
+
+jika—
+
+<!-- marginal: memberi -->
+
+<!-- marginal: atau -->
+
+(a) permohonan itu tidak dibuat mengikut
+
+<!-- marginal: mem- -->
+
+<!-- marginal: baharui -->
+
+subseksyen (1) seksyen 16 atau maklumat
+
+<!-- marginal: lesen. -->
+
+tidak dibekalkan mengikut subseksyen (2) seksyen 16;
 
 (b) pemohon tidak mematuhi mana-mana kehendak lain Akta ini atau mana-mana peraturan yang dibuat di bawah Akta ini yang berhubungan dengan permohonan itu;
 
@@ -758,9 +1242,51 @@ Penggantian
 
 (3) Menteri boleh dari semasa ke semasa, atas syor Suruhanjaya, meminda Jadual melalui perintah yang disiarkan dalam Warta".
 
-18. Akta ibu adalah dipinda dengan memasukkan selepas baru 17A. seksyen 17 seksyen yang berikut; "Orang
+<!-- marginal: Seksyen -->
 
-17A. (1) Seseorang orang berlesen hendaklah, berlesen sebaik sahaja berlakunya sesuatu kejadian yang hendaklah memberi- menjadi alasan yang berdasarkannya Suruhanjaya tahu boleh membatalkan suatu lesen di bawah seksyen Suruhan- 27, memberi Suruhanjaya notis bertulis jaya mengenai menyatakan butir-butir kejadian itu. kejadian yang meng- hilangkan kelayakan.
+18. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru 17A. -->
+
+seksyen 17 seksyen yang berikut;
+
+<!-- marginal: "Orang -->
+
+17A. (1) Seseorang orang berlesen hendaklah,
+
+<!-- marginal: berlesen -->
+
+sebaik sahaja berlakunya sesuatu kejadian yang
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: memberi- -->
+
+menjadi alasan yang berdasarkannya Suruhanjaya
+
+<!-- marginal: tahu -->
+
+boleh membatalkan suatu lesen di bawah seksyen
+
+<!-- marginal: Suruhan- -->
+
+27, memberi Suruhanjaya notis bertulis
+
+<!-- marginal: jaya -->
+
+<!-- marginal: mengenai -->
+
+menyatakan butir-butir kejadian itu.
+
+<!-- marginal: kejadian -->
+
+<!-- marginal: yang -->
+
+<!-- marginal: meng- -->
+
+<!-- marginal: hilangkan -->
+
+<!-- marginal: kelayakan. -->
 
 <!-- page 36 -->
 
@@ -772,13 +1298,31 @@ Penggantian
 
 (3) Seseorang yang tidak mematuhi subseksyen (1) adalah melakukan suatu kesalahan.".
 
-Penggantian
+<!-- marginal: Penggantian -->
 
-19. Akta ibu adalah dipinda dengan menggantikan seksyen 18 seksyen 18 dan 19 dengan seksyen yang berikut; dan 19. "Pemberian
+19. Akta ibu adalah dipinda dengan menggantikan
 
-18. (1) Suruhanjaya boleh— atau pem-
+<!-- marginal: seksyen 18 -->
 
-(a) atas suatu permohonan untuk baharuan lesen. mendapatkan pemberian atau pembaharuan suatu lesen peniaga setelah dibuat dengan sewajarnya mengikut seksyen 16 dan setelah diberikan segala maklumat dan dokumen yang dikehendakinya di bawah seksyen itu, dengan persetujuan Menteri, memberi atau membaharui suatu lesen tertakluk kepada apa-apa syarat atau sekatan yang difikirkannya patut; atau
+seksyen 18 dan 19 dengan seksyen yang berikut;
+
+<!-- marginal: dan 19. -->
+
+<!-- marginal: "Pemberian -->
+
+18. (1) Suruhanjaya boleh—
+
+<!-- marginal: atau -->
+
+<!-- marginal: pem- -->
+
+(a) atas suatu permohonan untuk
+
+<!-- marginal: baharuan -->
+
+<!-- marginal: lesen. -->
+
+mendapatkan pemberian atau pembaharuan suatu lesen peniaga setelah dibuat dengan sewajarnya mengikut seksyen 16 dan setelah diberikan segala maklumat dan dokumen yang dikehendakinya di bawah seksyen itu, dengan persetujuan Menteri, memberi atau membaharui suatu lesen tertakluk kepada apa-apa syarat atau sekatan yang difikirkannya patut; atau
 
 (b) atas suatu permohonan untuk mendapatkan pemberian atau pembaharuan—
 
@@ -798,15 +1342,41 @@ setelah dibuat dengan sewajarnya mengikut seksyen 16 dan setelah diberikan segal
 
 (2) Seseorang yang melanggar atau tidak mematuhi apa-apa syarat, atau sekatan dalam, sesuatu lesen adalah melakukan suatu kesalahan.
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-19. (1) Pemegang lesen wakil boleh membuat Suruhan- permohonan kepada Suruhanjaya mengikut jaya untuk mengubah bentuk dan cara yang ditetapkan untuk lesen mengubahkan nama pemegang lesen peniaga, dalam hal keadaan lesen pengurus kumpulan wang atau lesen tertentu. penasihat pelaburan, mengikut mana-mana yang berkenaan, yang bagi pihaknya dia boleh bertindak.
+19. (1) Pemegang lesen wakil boleh membuat
+
+<!-- marginal: Suruhan- -->
+
+permohonan kepada Suruhanjaya mengikut
+
+<!-- marginal: jaya untuk -->
+
+<!-- marginal: mengubah -->
+
+bentuk dan cara yang ditetapkan untuk
+
+<!-- marginal: lesen -->
+
+mengubahkan nama pemegang lesen peniaga,
+
+<!-- marginal: dalam hal -->
+
+<!-- marginal: keadaan -->
+
+lesen pengurus kumpulan wang atau lesen
+
+<!-- marginal: tertentu. -->
+
+penasihat pelaburan, mengikut mana-mana yang berkenaan, yang bagi pihaknya dia boleh bertindak.
 
 (2) Jika suatu permohonan dibuat dengan sewajarnya di bawah subseksyen (1) Suruhanjaya boleh, jika Suruhanjaya berpuas hati bahawa pemohon itu telah memenuhi kehendak seksyen 16 dan tidak wujud hal keadaan yang diperihalkan dalam subseksyen (1) seksyen 17, mengubah lesen itu dengan mengubahkan nama dan alamat peniaga, pengurus kumpulan wang atau penasihat pelaburan yang dinyatakan dalam lesen itu.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-20. Seksyen 20 Akta ibu adalah dipinda— seksyen 20.
+20. Seksyen 20 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 20. -->
 
 (a) dengan menggantikan nota birai dengan nota birai yang berikut: "Kuasa Suruhanjaya menyiasat transaksi syer.";
 
@@ -816,37 +1386,123 @@ Pindaan
 
 (c) dalam subsekyen (2) dengan menggantikan perkataan "Pegawai Pelesen" dengan perkataan "Suruhanjaya"; dan
 
-(d) dalam subseksyen (3)— (i) dengan menggantikan perkataan "Pegawai Pelesen" dengan perkataan "Suruhanjaya";
+(d) dalam subseksyen (3)— (i) dengan menggantikan perkataan "Pegawai Pelesen" dengan perkataan "Suruhanjaya"; (ii) dalam teks bahasa Inggeris dengan menggantikan perkataan "for renewal of a licence" dengan perkataan "for the renewal of a licence,"; (iii) dalam teks bahasa Inggeris dengan menggantikan perkataan "cancelled" dengan perkataan "revoked"; dan (iv) dengan memasukkan selepas perkataan "permohonan pertama mendapatkan" perkataan "pemberian".
 
-(ii) dalam teks bahasa Inggeris dengan menggantikan perkataan "for renewal of a licence" dengan perkataan "for the renewal of a licence,";
+<!-- marginal: Seksyen -->
 
-(iii) dalam teks bahasa Inggeris dengan menggantikan perkataan "cancelled" dengan perkataan "revoked"; dan
+21. Akta ibu adalah dipinda dengan memasukkan selepas
 
-(iv) dengan memasukkan selepas perkataan "permohonan pertama mendapatkan" perkataan "pemberian".
+<!-- marginal: baru 20A. -->
 
-21. Akta ibu adalah dipinda dengan memasukkan selepas baru 20A. seksyen 20 seksyen yang berikut: "Kehendak
+seksyen 20 seksyen yang berikut:
 
-20A. Tiada orang berlesen boleh menjalankan kewangan urusan yang berkenaan dengannya ia dilesenkan minimum. tanpa kebenaran bertulis Suruhanjaya jika ia tidak memenuhi kehendak kewangan minimum
+<!-- marginal: "Kehendak -->
+
+20A. Tiada orang berlesen boleh menjalankan
+
+<!-- marginal: kewangan -->
+
+urusan yang berkenaan dengannya ia dilesenkan
+
+<!-- marginal: minimum. -->
+
+tanpa kebenaran bertulis Suruhanjaya jika ia tidak memenuhi kehendak kewangan minimum
 
 <!-- page 39 -->
 
 sebagaimana yang ditetapkan oleh peraturan- peraturan yang dibuat di bawah Akta ini atau sebagaimana yang diperuntukkan dalam mana- mana kaedah bursa saham.".
 
-Penggantian
+<!-- marginal: Penggantian -->
 
-22. Akta ibu adalah dipinda dengan menggantikan seksyen 21. seksyen 21 dengan seksyen yang berikut; "Kuasa
+22. Akta ibu adalah dipinda dengan menggantikan
 
-21. (1) Tanpa menjejaskan subseksyen (1) Suruhan- seksyen 18, Suruhanjaya boleh mengenakan apa- jaya apa syarat atau sekatan lain pada mana-mana untuk mengena- lesen yang difikirkannya patut semasa lesen itu kan syarat berkuatkuasa: atau sekatan Dengan syarat bahawa dalam hal suatu lesen pada lesen. peniaga, apa-apa syarat atau sekatan hanya boleh dikenakan pada lesen itu dengan persetujuan Menteri: Dan dengan syarat selanjutnya bahawa jika syarat atau sekatan yang dikenakan mungkin akan menjejaskan kepentingan orang berlesen, Suruhanjaya hendaklah memberi orang berlesen itu peluang untuk didengar.
+<!-- marginal: seksyen 21. -->
 
-(2) Apa-apa syarat atau sekatan yang dikenakan di bawah subseksyen (1) hendaklah disifatkan sebagai syarat atau sekatan yang dikenakan dengan sah di bawah subseksyen (1) seksyen 18.".
+seksyen 21 dengan seksyen yang berikut;
 
-Penggantian
+<!-- marginal: "Kuasa -->
 
-23. Akta ibu adalah dipinda dengan menggantikan seksyen 23. seksyen 23 dengan seksyen yang berikut: "Deposit
+21. (1) Tanpa menjejaskan subseksyen (1)
 
-23. (1) Kecuali dalam hal seseorang peniaga hendaklah yang merupakan syarikat anggota, Suruhanjaya diserah tidak boleh memberikan atau membaharui simpan berkenaan sesuatu lesen peniaga atau pengurus kumpulan dengan wang melainkan jika ada diserah simpan dengan lesen peniaga Suruhanjaya, pada masa permohonan untuk atau mendapatkan lesen itu, suatu deposit sejumlah pengurus satu ratus ribu ringgit, atau apa-apa jumlah wang kumpulan wang. yang lebih besar sebagaimana yang ditentukan oleh Menteri supaya diserah simpan berkenaan dengan lesen itu.
+<!-- marginal: Suruhan- -->
 
-(2) Deposit yang dikehendaki oleh subseksyen (1) hendaklah dibuat dengan wang tunai atau dalam apa-apa bentuk sebagaimana
+seksyen 18, Suruhanjaya boleh mengenakan apa-
+
+<!-- marginal: jaya -->
+
+apa syarat atau sekatan lain pada mana-mana
+
+<!-- marginal: untuk -->
+
+<!-- marginal: mengena- -->
+
+lesen yang difikirkannya patut semasa lesen itu
+
+<!-- marginal: kan syarat -->
+
+berkuatkuasa:
+
+<!-- marginal: atau -->
+
+<!-- marginal: sekatan -->
+
+Dengan syarat bahawa dalam hal suatu lesen
+
+<!-- marginal: pada -->
+
+<!-- marginal: lesen. -->
+
+peniaga, apa-apa syarat atau sekatan hanya boleh dikenakan pada lesen itu dengan persetujuan Menteri: Dan dengan syarat selanjutnya bahawa jika syarat atau sekatan yang dikenakan mungkin akan menjejaskan kepentingan orang berlesen, Suruhanjaya hendaklah memberi orang berlesen itu peluang untuk didengar. (2) Apa-apa syarat atau sekatan yang dikenakan di bawah subseksyen (1) hendaklah disifatkan sebagai syarat atau sekatan yang dikenakan dengan sah di bawah subseksyen (1) seksyen 18.".
+
+<!-- marginal: Penggantian -->
+
+23. Akta ibu adalah dipinda dengan menggantikan
+
+<!-- marginal: seksyen 23. -->
+
+seksyen 23 dengan seksyen yang berikut:
+
+<!-- marginal: "Deposit -->
+
+23. (1) Kecuali dalam hal seseorang peniaga
+
+<!-- marginal: hendaklah -->
+
+yang merupakan syarikat anggota, Suruhanjaya
+
+<!-- marginal: diserah -->
+
+tidak boleh memberikan atau membaharui
+
+<!-- marginal: simpan -->
+
+<!-- marginal: berkenaan -->
+
+sesuatu lesen peniaga atau pengurus kumpulan
+
+<!-- marginal: dengan -->
+
+wang melainkan jika ada diserah simpan dengan
+
+<!-- marginal: lesen -->
+
+<!-- marginal: peniaga -->
+
+Suruhanjaya, pada masa permohonan untuk
+
+<!-- marginal: atau -->
+
+mendapatkan lesen itu, suatu deposit sejumlah
+
+<!-- marginal: pengurus -->
+
+satu ratus ribu ringgit, atau apa-apa jumlah wang
+
+<!-- marginal: kumpulan -->
+
+<!-- marginal: wang. -->
+
+yang lebih besar sebagaimana yang ditentukan oleh Menteri supaya diserah simpan berkenaan dengan lesen itu. (2) Deposit yang dikehendaki oleh subseksyen (1) hendaklah dibuat dengan wang tunai atau dalam apa-apa bentuk sebagaimana
 
 <!-- page 40 -->
 
@@ -854,15 +1510,15 @@ yang dibenarkan oleh Suruhanjaya dalam apa- apa hal yang tertentu.
 
 (3) Suatu deposit yang diserah simpan di bawah subseksyen (1) hendaklah digunakan oleh Suruhanjaya tertakluk kepada dan mengikut peraturan-peraturan yang dibuat di bawah Akta ini.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-24. Seksyen 25 Akta ibu adalah dipinda— seksyen 25.
+24. Seksyen 25 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 25. -->
 
 (a) dengan menomborkan semula perenggan (b),
 
-(c) dan (d) masing-masingnya sebagai perenggan
-
-(c), (d) dan (e);
+(c) dan (d) masing-masingnya sebagai perenggan (c), (d) dan (e);
 
 (b) dengan memasukkan selepas perenggan (a) perenggan yang berikut:
 
@@ -910,11 +1566,27 @@ Pindaan
 
 <!-- page 42 -->
 
-Penggantian
+<!-- marginal: Penggantian -->
 
-26. Akta ibu adalah dipinda dengan menggantikan seksyen 27 seksyen 27 dan 28 dengan seksyen yang berikut: dan 28. "Pembatalan
+26. Akta ibu adalah dipinda dengan menggantikan
 
-27. (1) Sesuatu lesen hendaklah disifatkan dan peng- telah dibatalkan— gantungan lesen.
+<!-- marginal: seksyen 27 -->
+
+seksyen 27 dan 28 dengan seksyen yang berikut:
+
+<!-- marginal: dan 28. -->
+
+<!-- marginal: "Pembatalan -->
+
+27. (1) Sesuatu lesen hendaklah disifatkan
+
+<!-- marginal: dan peng- -->
+
+telah dibatalkan—
+
+<!-- marginal: gantungan -->
+
+<!-- marginal: lesen. -->
 
 (a) dalam hal seseorang individu,—
 
@@ -924,13 +1596,29 @@ Penggantian
 
 (b) dalam hal suatu perbadanan, jika perbadanan itu telah digulung.
 
-(2) Suruhanjaya boleh membatalkan suatu lesen—
+(2) Suruhanjaya boleh membatalkan suatu
 
-(a) dalam hal seseorang orang berlesen yang merupakan seorang individu— (i) atas apa-apa alasan yang berdasarkannya Suruhanjaya boleh enggan memberikan atau membaharui suatu lesen di bawah seksyen 17; (ii) jika suatu levi pelaksanaan yang dikenakan berkenaan dengan orang berlesen itu tidak disempurnakan; (iii) jika orang berlesen berhenti menjalankan urusan yang mengenainya dia dilesenkan bagi suatu tempoh tiga bulan berturut- turut; (iv) jika, dalam hal seorang wakil, lesen peniaga, pengurus kumpulan wang atau penasihat pelaburan yang berhubungan dengannya lesen itu telah diberikan, dibatalkan; (v) jika Suruhanjaya mempunyai sebab untuk mempercayai bahawa orang
+<!-- marginal: lesen— -->
+
+(a) dalam hal seseorang orang berlesen yang merupakan seorang individu—
+
+(i) atas apa-apa alasan yang berdasarkannya Suruhanjaya boleh enggan memberikan atau membaharui suatu lesen di bawah seksyen 17;
+
+(ii) jika suatu levi pelaksanaan yang dikenakan berkenaan dengan orang berlesen itu tidak disempurnakan;
+
+(iii) jika orang berlesen berhenti menjalankan urusan yang mengenainya dia dilesenkan bagi suatu tempoh tiga bulan berturut- turut;
+
+(iv) jika, dalam hal seorang wakil, lesen peniaga, pengurus kumpulan wang atau penasihat pelaburan yang berhubungan dengannya lesen itu telah diberikan, dibatalkan;
+
+(v) jika Suruhanjaya mempunyai sebab untuk mempercayai bahawa orang
 
 <!-- page 43 -->
 
-berlesen atau mana-mana wakilnya tidak melaksanakan kewajipannya dengan cekap, jujur atau adil; (vi) jika orang berlesen melanggar atau tidak mematuhi apa-apa kaedah bursa saham, pusat penjelasan diiktirafkan atau depositori pusat yang mengikatnya; atau (vii) jika orang berlesen melanggar atau tidak mematuhi apa-apa syarat atau sekatan yang terpakai berkenaan dengan lesen itu atau mana-mana peruntukan lain Akta ini;
+berlesen atau mana-mana wakilnya tidak melaksanakan kewajipannya dengan cekap, jujur atau adil;
+
+(vi) jika orang berlesen melanggar atau tidak mematuhi apa-apa kaedah bursa saham, pusat penjelasan diiktirafkan atau depositori pusat yang mengikatnya; atau
+
+(vii) jika orang berlesen melanggar atau tidak mematuhi apa-apa syarat atau sekatan yang terpakai berkenaan dengan lesen itu atau mana-mana peruntukan lain Akta ini;
 
 (b) dalam hal—
 
@@ -976,7 +1664,7 @@ Dengan syarat bahawa dalam hal suatu lesen peniaga, lesen itu hanya boleh digant
 
 (b) menyentuh apa-apa hak, obligasi atau tanggungan di bawah apa-apa perjanjian, transaksi atau perkiraan.
 
-Rayuan.
+<!-- marginal: Rayuan. -->
 
 28. (1) Seseorang, selain daripada seorang peniaga berlesen, yang terkilan dengan mana- mana keputusan Suruhanjaya di bawah seksyen 17 atau 27 boleh merayu kepada Menteri dalam masa empat belas hari selepas keputusan Suruhanjaya.
 
@@ -996,11 +1684,25 @@ Rayuan.
 
 (3) adalah muktamad.".
 
-27. Akta ibu adalah dipinda dengan memasukkan selepas baru 28A. seksyen 28 seksyen yang berikut:
+<!-- marginal: Seksyen -->
 
-"Penye-
+27. Akta ibu adalah dipinda dengan memasukkan selepas
 
-28A. (1) Tertakluk kepada subseksyen (2), rahan seseorang orang berlesen boleh menyerahkan lesen. lesennya dengan menghantarkannya kepada Suruhanjaya bersama suatu notis bertulis mengenai penyerahannya.
+<!-- marginal: baru 28A. -->
+
+seksyen 28 seksyen yang berikut:
+
+<!-- marginal: "Penye- -->
+
+28A. (1) Tertakluk kepada subseksyen (2),
+
+<!-- marginal: rahan -->
+
+seseorang orang berlesen boleh menyerahkan
+
+<!-- marginal: lesen. -->
+
+lesennya dengan menghantarkannya kepada Suruhanjaya bersama suatu notis bertulis mengenai penyerahannya.
 
 (2) Penyerahan sesuatu lesen tidak akan mula berkuatkuasa sehingga Suruhanjaya berpuas hati bahawa perkiraan yang mencukupi telah dibuat bagi memenuhi segala tanggungan dan obligasi orang berlesen itu yang belum selesai pada masa notis penyerahan itu diberikan oleh orang berlesen itu.
 
@@ -1010,9 +1712,11 @@ Rayuan.
 
 yang praktik suatu notis mengenai tiap-tiap penyerahan lesen di bawah subseksyen (1), tetapi apa-apa kelengahan dalam menyiarkan notis sedemikian atau kegagalan untuk menyiarkannya tidaklah menyentuh kesahan penyerahan itu."
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-28. Seksyen 29 Akta ibu adalah dipinda— seksyen 29.
+28. Seksyen 29 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 29. -->
 
 (a) dalam subseksyen (1)—
 
@@ -1040,25 +1744,31 @@ Pindaan
 
 (3) Dalam Bahagian ini, sebutan mengenai sekuriti ialah sebutan mengenai sekuriti sesuatu perbadanan atau mengenai sekuriti yang disebutharga atau diniagakan di suatu bursa saham di Malaysia, mengikut kehendak keadaan.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-29. Seksyen 30 Akta ibu adalah dipinda— seksyen 30.
+29. Seksyen 30 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 30. -->
 
 (a) dalam subseksyen (2) dengan menggantikan perkataan "dinamakannya dalam permohonannya untuk sesuatu lesen" dengan perkataan "boleh dinamakan oleh orang yang disebut dalam subseksyen (1) bagi maksud Bahagian ini dengan syarat bahawa orang itu hendaklah memberitahu Suruhanjaya secara bertulis selepas mula menyimpan daftar itu"; dan
 
 (b) dalam subseksyen (3) dengan menggantikan perkataan "selepas kepentingan itu diperolehi" dengan perkataan "dari masa yang dia semunasabahnya disifatkan menyedari tentang perolehan itu".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-30. Seksyen 31 Akta ibu adalah dipinda— seksyen 31.
+30. Seksyen 31 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 31. -->
 
 (a) dalam nota birai dengan menggantikan perkataan "Pegawai Pelesen" dengan perkataan "Suruhanjaya"; dan
 
 (b) dalam subseksyen (1) dan (4) dengan menggantikan perkataan "Pegawai Pelesen" dengan perkataan "Suruhanjaya".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-31. Subseksyen 32(1) Akta ibu adalah dipinda— seksyen 32.
+31. Subseksyen 32(1) Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 32. -->
 
 (a) dengan menggantikan perkataan "seksyen 30 dan 31" dengan perkataan "seksyen 30 atau 31"; dan
 
@@ -1066,27 +1776,33 @@ Pindaan
 
 <!-- page 49 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-32. Subseksyen 37(1) Akta ibu adalah dipinda dengan seksyen 37 menggantikan perkataan "Pegawai Pelesen" dengan perkataan "Suruhanjaya".
+32. Subseksyen 37(1) Akta ibu adalah dipinda dengan
 
-Penggantian
+<!-- marginal: seksyen 37 -->
 
-33. Akta ibu adalah dipinda dengan menggantikan seksyen 38. seksyen 38 dengan seksyen yang berikut:
+menggantikan perkataan "Pegawai Pelesen" dengan perkataan "Suruhanjaya".
 
-"Penge-
+<!-- marginal: Penggantian -->
 
-38. (1) Menteri boleh membuat peraturan- luaran peraturan bagi mengadakan peruntukan mengenai nota kontrak. dan berkenaan dengan pemberian nota kontrak oleh peniaga dan pengurus kumpulan wang bagi transaksi yang dibuat oleh mereka, atau mengikut budi bicara mereka, bagi pihak orang lain . berkenaan dengan sesuatu transaksi pembelian atau penjualan sekuriti.
+33. Akta ibu adalah dipinda dengan menggantikan
 
-(2) Seseorang peniaga atau pengurus kumpulan wang yang disebut dalam subseksyen
+<!-- marginal: seksyen 38. -->
 
-(1) hendaklah mematuhi kehendak mana-mana peraturan yang dibuat di bawah subseksyen (1).
+seksyen 38 dengan seksyen yang berikut:
+
+"Penge- 38. (1) Menteri boleh membuat peraturan- luaran peraturan bagi mengadakan peruntukan mengenai nota kontrak. dan berkenaan dengan pemberian nota kontrak oleh peniaga dan pengurus kumpulan wang bagi transaksi yang dibuat oleh mereka, atau mengikut budi bicara mereka, bagi pihak orang lain . berkenaan dengan sesuatu transaksi pembelian atau penjualan sekuriti.
+
+(2) Seseorang peniaga atau pengurus kumpulan wang yang disebut dalam subseksyen (1) hendaklah mematuhi kehendak mana-mana peraturan yang dibuat di bawah subseksyen (1).
 
 (3) Seseorang peniaga atau pengurus kumpulan wang yang melanggar atau tidak mematuhi mana-mana kehendak peraturan yang dibuat di bawah subseksyen (1) adalah melakukan suatu kesalahan dan apabila sabitkan boleh dikenakan denda tidak lebih daripada satu juta ringgit atau penjara selama tempoh tidak lebih daripada sepuluh tahun atau kedua- duanya.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-34. Seksyen 39 Akta ibu adalah dipinda— seksyen 39.
+34. Seksyen 39 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 39. -->
 
 (a) dalam subseksyen (1)—
 
@@ -1098,7 +1814,11 @@ Pindaan
 
 (b) dengan memasukkan selepas subseksyen (5) subseksyen yang berikut:
 
-" (5A) Bagi maksud subseksyen (5), "underait" termasuklah "pengunderaitan kecil";
+" (5A) Bagi maksud subseksyen
+
+<!-- marginal: (5), -->
+
+"underait" termasuklah "pengunderaitan kecil";
 
 (c) dalam subseksyen (6)—
 
@@ -1108,9 +1828,7 @@ Pindaan
 
 (d) dengan menggantikan subseksyen (7) dengan subseksyen yang berikut:
 
-" (7) Jika seseorang yang merupakan seorang peniaga, pengurus kumpulan wang, penasihat pelaburan, wakil peniaga, wakil pengurus kumpulan wang atau wakil pelaburan menghantar kepada seseorang suatu pekeliling atau perhubungan lain atau suatu tawaran atau syor bertulis yang baginya subseksyen (1),
-
-(4) atau (5) terpakai, orang yang pertama disebut hendaklah menyimpan suatu salinan pekeliling atau perhubungan lain itu, atau suatu tawaran atau syor bertulis, yang ditandatangan sewajarnya oleh orang berkenaan, selama tempoh tujuh tahun.";
+" (7) Jika seseorang yang merupakan seorang peniaga, pengurus kumpulan wang, penasihat pelaburan, wakil peniaga, wakil pengurus kumpulan wang atau wakil pelaburan menghantar kepada seseorang suatu pekeliling atau perhubungan lain atau suatu tawaran atau syor bertulis yang baginya subseksyen (1), (4) atau (5) terpakai, orang yang pertama disebut hendaklah menyimpan suatu salinan pekeliling atau perhubungan lain itu, atau suatu tawaran atau syor bertulis, yang ditandatangan sewajarnya oleh orang berkenaan, selama tempoh tujuh tahun.";
 
 (e) dengan memotong subseksyen (8) dan (9); dan
 
@@ -1120,9 +1838,11 @@ Pindaan
 
 <!-- page 51 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-35. Seksyen 40 Akta ibu adalah dipinda— seksyen 40.
+35. Seksyen 40 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 40. -->
 
 (a) dalam subseksyen (5) dengan memasukkan selepas perkataan "anggota" perkataan "syarikat"; dan
 
@@ -1134,13 +1854,27 @@ Pindaan
 
 (iii) dengan menggantikan perkataan "jika seseorang peniaga tidak" dengan perkataan "jika peniaga itu tidak".
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
-36. Akta ibu adalah dipinda dengan memasukkan selepas 40A, 40B dan seksyen 40 seksyen yang berikut: 40C
+36. Akta ibu adalah dipinda dengan memasukkan selepas
 
-"Syor
+<!-- marginal: 40A, 40B dan -->
 
-40A. (1) Seseorang penasihat tidak boleh oleh membuat sesuatu syor berkenaan dengan sekuriti penasihat. atau suatu kelas sekuriti kepada seseorang yang semunasabahnya boleh dijangkakan akan bergantung kepada syor itu tanpa mempunyai asas yang munasabah untuk membuat syor itu kepada orang itu.
+seksyen 40 seksyen yang berikut:
+
+<!-- marginal: 40C -->
+
+<!-- marginal: "Syor -->
+
+40A. (1) Seseorang penasihat tidak boleh
+
+<!-- marginal: oleh -->
+
+membuat sesuatu syor berkenaan dengan sekuriti
+
+<!-- marginal: penasihat. -->
+
+atau suatu kelas sekuriti kepada seseorang yang semunasabahnya boleh dijangkakan akan bergantung kepada syor itu tanpa mempunyai asas yang munasabah untuk membuat syor itu kepada orang itu.
 
 (2) Bagi maksud subseksyen (1), seseorang penasihat tidak mempunyai suatu asas yang munasabah untuk membuat syor kepada seseorang melainkan jika—
 
@@ -1182,17 +1916,69 @@ munasabah dalam hal keadaan itu boleh dijangkakan akan melakukan atau meninggalk
 
 (b) sebutan mengenai pembuatan sesuatu syor ialah sebutan mengenai pembuatan sesuatu syor sama ada secara nyata atau secara tersirat.
 
-Kewajipan
+<!-- marginal: Kewajipan -->
 
-40B. (1) Seseorang peniaga, pengurus untuk kumpulan wang atau penasihat pelaburan memberi Suruhan- hendaklah memberikan apa-apa penyata dan jaya apa- menyediakan apa-apa maklumat yang apa penyata berhubungan dengan urusannya sebagaimana dan yang dikehendaki oleh Suruhanjaya. maklumat yang dikehen-
+40B. (1) Seseorang peniaga, pengurus
 
-(2) Suruhanjaya boleh menetapkan yang apa- daki oleh apa maklumat yang dikehendaki di bawah Suruhan- subseksyen (1) hendaklah dikemukakan dalam jaya. apa-apa tempoh, pada apa-apa lat tempoh, mengikut apa-apa cara atau dalam apa-apa bentuk yang dinyatakan oleh Suruhanjaya.
+<!-- marginal: untuk -->
+
+kumpulan wang atau penasihat pelaburan
+
+<!-- marginal: memberi -->
+
+<!-- marginal: Suruhan- -->
+
+hendaklah memberikan apa-apa penyata dan
+
+<!-- marginal: jaya apa- -->
+
+menyediakan apa-apa maklumat yang
+
+<!-- marginal: apa -->
+
+<!-- marginal: penyata -->
+
+berhubungan dengan urusannya sebagaimana
+
+<!-- marginal: dan -->
+
+yang dikehendaki oleh Suruhanjaya.
+
+<!-- marginal: maklumat -->
+
+<!-- marginal: yang -->
+
+<!-- marginal: dikehen- -->
+
+(2) Suruhanjaya boleh menetapkan yang apa-
+
+<!-- marginal: daki oleh -->
+
+apa maklumat yang dikehendaki di bawah
+
+<!-- marginal: Suruhan- -->
+
+subseksyen (1) hendaklah dikemukakan dalam
+
+<!-- marginal: jaya. -->
+
+apa-apa tempoh, pada apa-apa lat tempoh, mengikut apa-apa cara atau dalam apa-apa bentuk yang dinyatakan oleh Suruhanjaya.
 
 <!-- page 54 -->
 
-Obligasi
+<!-- marginal: Obligasi -->
 
-40C. (1) Sebagai tambahan kepada kehendak tambahan yang dikenakan ke atas berlesen di bawah Akta orang berlesen. ini, Suruhanjaya boleh mengenakan—
+40C. (1) Sebagai tambahan kepada kehendak
+
+<!-- marginal: tambahan -->
+
+yang dikenakan ke atas berlesen di bawah Akta
+
+<!-- marginal: orang -->
+
+<!-- marginal: berlesen. -->
+
+ini, Suruhanjaya boleh mengenakan—
 
 (a) dalam hal orang berlesen pada amnya, atau mana-mana kelas orang berlesen, melalui peraturan- peraturan yang dibuat di bawah Akta ini; atau
 
@@ -1200,9 +1986,15 @@ Obligasi
 
 (2) Seseorang orang berlesen tidak boleh gagal mematuhi kehendak yang dikenakan di bawah subseksyen (1).".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-37. Seksyen 41 Akta ibu adalah dipinda dengan seksyen 41. menggantikan perenggan (4)(c) dengan perenggan yang berikut:
+37. Seksyen 41 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 41. -->
+
+menggantikan perenggan (4)(c) dengan perenggan yang
+
+<!-- marginal: berikut: -->
 
 "(c) penjualan sekuriti-sekuriti jika—
 
@@ -1214,33 +2006,53 @@ Pindaan
 
 (iii) pada masa penjualan itu, orang yang menjual sekuriti-sekuriti itu, atau mana- mana orang yang bagi pihaknya orang yang pertama disebut menjualkan sekuriti- sekuriti itu bukan merupakan seorang sekutu, berhubungan dengan penjualan itu, pertubuhan perbadanan yang mengeluarkan atau mengadakan sekuriti-sekuriti itu.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-38. Tajuk Bahagian VII Akta ibu adalah dipinda dengan tajuk memasukkan selepas perkataan "AKAUN DAN AUDIT" Bahagian VII. perkataan yang berikut:
+38. Tajuk Bahagian VII Akta ibu adalah dipinda dengan
+
+<!-- marginal: tajuk -->
+
+memasukkan selepas perkataan "AKAUN DAN AUDIT"
+
+<!-- marginal: Bahagian -->
+
+<!-- marginal: VII. -->
+
+perkataan yang berikut:
 
 ## "PENGGAL 1
 
 Akaun—Peniaga".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-39. Seksyen 42 Akta ibu adalah dipinda— seksyen 42.
+39. Seksyen 42 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 42. -->
 
 (a) dalam nota birai dengan menggantikan perkataan "Bahagian" dengan perkataan "Penggal"; dan
 
 (b) dengan menggantikan perkataan "Bahagian" dengan perkataan "Penggal".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-40. Seksyen 43 Akta ibu adalah dipinda— seksyen 43.
+40. Seksyen 43 Akta ibu adalah dipinda—
 
-(a) dalam teks bahasa Inggeris dalam subseksyen
+<!-- marginal: seksyen 43. -->
 
-(1) dan (2) dengan memasukkan selepas perkataan "accounting" perkataan "records"; dan
+(a) dalam teks bahasa Inggeris dalam subseksyen (1) dan (2) dengan memasukkan selepas perkataan "accounting" perkataan "records"; dan
 
 (b) dengan menggantikan subseksyen (3), (4), (5) dan (6) dengan subseksyen yang berikut:
 
-"(3) Tanpa menjejaskan keluasan subseksyen (1), seseorang peniaga hendaklah—
+"(3) Tanpa menjejaskan
+
+<!-- marginal: keluasan -->
+
+subseksyen (1), seseorang
+
+<!-- marginal: peniaga -->
+
+hendaklah—
 
 (a) menyimpan atau menyebabkan disimpan akaun-akaun dan rekod-rekod dengan cukup terperinci untuk menunjukkan butir-butir mengenai— (i) semua wang yang diterima atau dibayar oleh peniaga, termasuk wang dibayar ke dalam, atau pembayaran daripada, suatu akaun amanah;
 
@@ -1300,9 +2112,11 @@ dengan suatu pihak ketiga sebagai jaminan bagi pinjaman atau pendahuluan yang di
 
 (b) dengan niat hendak menipu, melanggar atau tidak mematuhi mana-mana peruntukan ini adalah melakukan suatu kesalahan dan apabila disabitkan boleh dikenakan denda tidak lebih daripada tiga juta ringgit atau penjara selama tempoh tidak lebih daripada sepuluh tahun atau kedua- duanya.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-41. Subseksyen 44(1) Akta ibu adalah dipinda— seksyen 44.
+41. Subseksyen 44(1) Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 44. -->
 
 (a) dengan menggantikan perkataan "bank atau bank- bank di Malaysia" dengan perkataan "institusi berlesen";
 
@@ -1310,33 +2124,81 @@ Pindaan
 
 (c) dalam perenggan (b) dengan menggantikan perkataan "dalam tempoh lima hari perniagaan bank selepas diterima amaun-amaun itu" dengan perkataan "tidak lewat daripada hari perniagaan bank berikutnya yang padanya ia diterima oleh peniaga itu".
 
-42. Akta ibu adalah dipinda dengan memasukkan selepas baru 44A. seksyen 44 seksyen yang berikut:
+<!-- marginal: Seksyen -->
 
-"Harta
+42. Akta ibu adalah dipinda dengan memasukkan selepas
 
-44A. (1) Seseorang peniaga hendaklah selain menguruskan apa-apa harta, selain daripada daripada wang, yang diterima, dipegang atau didepositkan wang yang dengan peniaga itu dalam menjalankan urusannya diterima oleh dan yang mengenainya ia hendaklah memberikan peniaga. penjelasan kepada orang lain, mengikut apa- apa cara yang ditetapkan dalam peraturan- peraturan yang dibuat di bawah Akta ini.
+<!-- marginal: baru 44A. -->
+
+seksyen 44 seksyen yang berikut:
+
+<!-- marginal: "Harta -->
+
+44A. (1) Seseorang peniaga hendaklah
+
+<!-- marginal: selain -->
+
+menguruskan apa-apa harta, selain daripada
+
+<!-- marginal: daripada -->
+
+wang, yang diterima, dipegang atau didepositkan
+
+<!-- marginal: wang -->
+
+<!-- marginal: yang -->
+
+dengan peniaga itu dalam menjalankan urusannya
+
+<!-- marginal: diterima -->
+
+<!-- marginal: oleh -->
+
+dan yang mengenainya ia hendaklah memberikan
+
+<!-- marginal: peniaga. -->
+
+penjelasan kepada orang lain, mengikut apa- apa cara yang ditetapkan dalam peraturan- peraturan yang dibuat di bawah Akta ini.
 
 <!-- page 60 -->
 
 (2) Seseorang peniaga yang melanggar atau tidak mematuhi peraturan-peraturan yang dibuat bagi maksud subseksyen (1) adalah melakukan suatu kesalahan."
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-43. Seksyen 45 Akta ibu adalah dipinda dengan seksyen 45. menggantikan perenggan (a) dan (b) dengan perenggan yang berikut: "(a) kepada, atau mengikut arahan bertulis, seseorang yang berhak kepada wang itu;
+43. Seksyen 45 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 45. -->
+
+menggantikan perenggan (a) dan (b) dengan perenggan yang berikut: "(a) kepada, atau mengikut arahan bertulis, seseorang yang berhak kepada wang itu;
 
 (b) membayar caj pembrokeran dan caj sepatutnya yang lain; atau".
 
-44. Akta ibu adalah dipinda dengan memasukkan selepas bru 45A seksyen 45 seksyen yang berikut: "Peniaga 45A. (1) Seseorang peniaga hendaklah hendaklah membekali, apabila diminta, kepada kliennya membekal- atau mana-mana orang yang diberikuasa oleh kan salinan klien itu, salinan segala catatan dalam bukunya catatan yang berhubungan dengan apa-apa transaksi yang dalam buku. dijalankan bagi pihak klien itu dan peniaga itu berhak mengenakan suatu caj yang munasabah baginya.
+<!-- marginal: Seksyen -->
+
+44. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: bru 45A -->
+
+seksyen 45 seksyen yang berikut: "Peniaga 45A. (1) Seseorang peniaga hendaklah hendaklah membekali, apabila diminta, kepada kliennya membekal- atau mana-mana orang yang diberikuasa oleh kan salinan klien itu, salinan segala catatan dalam bukunya catatan yang berhubungan dengan apa-apa transaksi yang dalam buku. dijalankan bagi pihak klien itu dan peniaga itu berhak mengenakan suatu caj yang munasabah baginya.
 
 (2) Seseorang yang disebut dalam subseksyen (1) berhak pada bila-bila masa tanpa bayaran sama ada sendiri atau melalui ejennya memeriksa mana-mana nota kpntrak atau baucar yang berhubungan dengan transaksi tersebut.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-45. Seksyen 46 Akta ibu adalah dipinda dengan seksyen 46. menggantikan perkataan "Bahagian" dengan perkataan "Penggal".
+45. Seksyen 46 Akta ibu adalah dipinda dengan
 
-Penggal
+<!-- marginal: seksyen 46. -->
 
-46. Akta ibu adalah dipinda dengan memasukkan selepas baru 2. seksyen 47 Penggal yang berikut:
+menggantikan perkataan "Bahagian" dengan perkataan "Penggal".
+
+<!-- marginal: Penggal -->
+
+46. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru 2. -->
+
+seksyen 47 Penggal yang berikut:
 
 ## "PENGGAL 2
 
@@ -1348,11 +2210,35 @@ Pemakaian 47A. (1) Penggal ini adalah terpakai bagi dan Penggal. berhubungan den
 
 (2) Tiada apa-apa jua dalam subseksyen (1) boleh terpakai bagi sesuatu perbadanan yang menguruskan suatu portfolio sekuriti semata- mata untuk atau bagi pihak mana-mana perbadanannya yang berhubungan, dengan syarat bahawa sekuriti perbadanan yang kedua disebut yang diuruskan oleh perbadanan yang pertama disebut bukan merupakan sekuriti yang dipegang sebagai amanah atau bagi pihak atau dipunyai secara benefisial oleh mana-mana orang lain, atau disebabkan oleh apa-apa kontrak pelaburan yang dibuat oleh perbadanan yang kedua disebut untuk membayar hutang seseorang pengurus kumpulan wang.
 
-(3) Bagi maksud seksyen ini "kontrak pelaburan" mempunyai erti yang sama sebagaimana yang diberikan kepada ungkapan Akta 125 itu dalam subseksyen (1) seksyen 84 Akta Syarikat 1965.
+(3) Bagi maksud seksyen ini "kontrak pelaburan" mempunyai erti yang sama sebagaimana yang diberikan kepada ungkapan
 
-Akaun
+<!-- marginal: Akta 125 -->
 
-47B. (1) Seseorang pengurus kumpulan wang hendaklah hendaklah menyimpan atau menyebabkan disimpan oleh disimpan apa-apa rekod perakaunan dan rekod- pengurus rekod lain yang akan menjelaskan dengan kumpulan wang. secukupnya transaksi dan kedudukan kewangan urusannya dan membolehkan akaun-akaun untung rugi dan kunci kira-kira yang benar dan saksama disediakan dari semasa ke semasa, dan hendaklah menyebabkan rekod-rekod itu disimpan mengikut apa-apa bentuk dan cara sebagaimana yang ditetapkan untuk membolehkannya diaudit dengan mudah dan sepatutnya.
+itu dalam subseksyen (1) seksyen 84 Akta Syarikat 1965.
+
+<!-- marginal: Akaun -->
+
+47B. (1) Seseorang pengurus kumpulan wang
+
+<!-- marginal: hendaklah -->
+
+hendaklah menyimpan atau menyebabkan
+
+<!-- marginal: disimpan -->
+
+<!-- marginal: oleh -->
+
+disimpan apa-apa rekod perakaunan dan rekod-
+
+<!-- marginal: pengurus -->
+
+rekod lain yang akan menjelaskan dengan
+
+<!-- marginal: kumpulan -->
+
+<!-- marginal: wang. -->
+
+secukupnya transaksi dan kedudukan kewangan urusannya dan membolehkan akaun-akaun untung rugi dan kunci kira-kira yang benar dan saksama disediakan dari semasa ke semasa, dan hendaklah menyebabkan rekod-rekod itu disimpan mengikut apa-apa bentuk dan cara sebagaimana yang ditetapkan untuk membolehkannya diaudit dengan mudah dan sepatutnya.
 
 (2) Tanpa menjejaskan keluasan subseksyen
 
@@ -1362,9 +2248,19 @@ Akaun
 
 (3) Seseorang pengurus kumpulan wang yang melanggar seksyen ini adalah melakukan satu kesalahan.
 
-Pengen-
+<!-- marginal: Pengen- -->
 
-47C. (1) Seseorang pengurus kumpulan wang dalian hendaklah menyenggarakan suatu akaun amanah akaun amanah bagi segala wang dan harta kliennya dan hendaklah membuat perkiraan untuk mendapatkan seorang penjaga untuk menyenggarakan akaun amanah itu.
+47C. (1) Seseorang pengurus kumpulan wang
+
+<!-- marginal: dalian -->
+
+hendaklah menyenggarakan suatu akaun amanah
+
+<!-- marginal: akaun -->
+
+<!-- marginal: amanah -->
+
+bagi segala wang dan harta kliennya dan hendaklah membuat perkiraan untuk mendapatkan seorang penjaga untuk menyenggarakan akaun amanah itu.
 
 (2) Suruhanjaya boleh, jika difikirkannya patut berbuat sedemikian, mengecualikan seseorang pengurus kumpulan wang daripada keperluan di bawah subseksyen (1) untuk mendapatkan seorang penjaga untuk menyenggarakan akaun amanah itu dan membenarkan mana-mana orang lain untuk menyenggarakan akaun amanah itu.
 
@@ -1412,9 +2308,13 @@ akaun amanah kecuali bagi maksud membuat pembayaran—
 
 dan dalam tajuknya mengandungi perkataan "Akaun Amanah/Klien".
 
-Wang
+<!-- marginal: Wang -->
 
-47D. (1) Seseorang pengurus kumpulan wang klien. tidak boleh berniaga sekuriti untuk atau bagi pihak seseorang klien melainkan jika, setakat yang dia menerima wang atau harta klien itu,—
+47D. (1) Seseorang pengurus kumpulan wang
+
+<!-- marginal: klien. -->
+
+tidak boleh berniaga sekuriti untuk atau bagi pihak seseorang klien melainkan jika, setakat yang dia menerima wang atau harta klien itu,—
 
 (a) dia berbuat demikian atas dasar yang ia hendaklah digunakan semata-mata bagi tujuan tertentu yang dipersetujui apabila atau sebelum dia menerima wang atau harta itu;
 
@@ -1428,25 +2328,57 @@ Wang
 
 (3) Dalam seksyen ini, "wang atau harta klien ertinya wang yang diterima atau diterima simpan oleh seseorang pengurus kumpulan wang, atau harta yang didepositkan dengan seseorang pengurus kumpulan wang, dalam menjalankan urusannya sedemikian yang mengenainya dia hendaklah memberikan penjelasan kepada klien itu, dan termasuklah wang yang diterima atau harta yang didepositkan dengan atau dipegang oleh seseorang penjaga atau oleh mana-mana orang yang dibenarkan oleh Suruhanjaya di bawah subseksyen (2) seksyen 47C yang mengenainya ia hendaklah memberikan penjelasan atau menghantar-serahkan kepada klien itu.
 
-Hak men-
+<!-- marginal: Hak men- -->
 
-47E. (1) Seseorang pengurus kumpulan wang dapatkan hendaklah membekali, apabila diminta, kliennya salinan catatan atau mana-mana orang yang diberikuasa oleh buku. klien itu, salinan segala catatan dalam bukunya memeriksa nota yang berhubungan dengan apa-apa transaksi. kontrak, dsb.
+47E. (1) Seseorang pengurus kumpulan wang
+
+<!-- marginal: dapatkan -->
+
+hendaklah membekali, apabila diminta, kliennya
+
+<!-- marginal: salinan -->
+
+<!-- marginal: catatan -->
+
+atau mana-mana orang yang diberikuasa oleh
+
+<!-- marginal: buku. -->
+
+klien itu, salinan segala catatan dalam bukunya
+
+<!-- marginal: memeriksa -->
+
+<!-- marginal: nota -->
+
+yang berhubungan dengan apa-apa transaksi.
+
+<!-- marginal: kontrak, -->
+
+<!-- marginal: dsb. -->
 
 <!-- page 66 -->
 
 (2) Seseorang yang disebut dalam subseksyen (1) berhak tanpa bayaran sama ada sendiri atau melalui ejennya memeriksa nota kontrak atau baucar yang berhubungan dengan transaksi tersebut.".
 
-Penggal 3
+<!-- marginal: Penggal 3 -->
 
-47. Akta ibu adalah dipinda dengan memasukkan selepas baru. seksyen 47E tajuk yang berikut:
+47. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru. -->
+
+seksyen 47E tajuk yang berikut:
 
 ## "PENGGAL 3
 
 Audit".
 
-Penggantian
+<!-- marginal: Penggantian -->
 
-48. Akta ibu adalah dipinda dengan menggantikan seksyen 48. seksyen 48 dengan seksyen yang berikut:
+48. Akta ibu adalah dipinda dengan menggantikan
+
+<!-- marginal: seksyen 48. -->
+
+seksyen 48 dengan seksyen yang berikut:
 
 "Perlan- 48. (1) Penggal ini adalah terpakai bagi urusan tikan seseorang peniaga, seseorang pengurus kumpulan juruaudit. wang, suatu bursa saham dan suatu pusat penjelasan diiktirafkan.
 
@@ -1470,19 +2402,71 @@ Akta 125. (3) Walau apa pun peruntukan Akta Syarikat 1965, seseorang orang yang 
 
 (6) Walau apa pun apa-apa peruntukan lain Akta ini, Suruhanjaya boleh pada bila-bila masa memecat seseorang juruaudit yang dilantik oleh seseorang orang yang relevan jika Suruhanjaya tidak berpuashati dengan cara juruaudit itu melaksanakan kewajipannya.".
 
-49. Akta ibu adalah dipinda dengan memasukkan selepas baru 48A. seksyen 48 seksyen yang berikut;
+<!-- marginal: Seksyen -->
 
-"Sekutu
+49. Akta ibu adalah dipinda dengan memasukkan selepas
 
-48A. Seseorang yang relevan tidak boleh tidak melantik seseorang sekutu bagi seorang yang boleh dilantik relevan itu sebagai juruaudit bagi apa-apa sebagai akaunnya.". juruaudit.
+<!-- marginal: baru 48A. -->
 
-Penggantian
+seksyen 48 seksyen yang berikut;
 
-50. Akta ibu adalah dipinda dengan menggantikan seksyen 49 seksyen 49 dan 50 dengan seksyen yang berikut: dan 50.
+<!-- marginal: "Sekutu -->
 
-"Orang
+48A. Seseorang yang relevan tidak boleh
 
-49. (1) Seseorang orang yang relevan hendaklah yang dalam masa tiga bulan selepas berakhirnya setiap relevan tahun kewangan, atau apa-apa tempoh hendaklah menyerah- selanjutnya yang dibenarkan oleh Suruhanjaya simpan di bawah subseksyen (2), menyerah-simpan laporan juruaudit. kepada Suruhanjaya dan Pendaftar, laporan juruaudit yang mengandungi maklumat mengenai apa-apa perkara sebagaimana yang ditetapkan.
+<!-- marginal: tidak -->
+
+melantik seseorang sekutu bagi seorang yang
+
+<!-- marginal: boleh -->
+
+<!-- marginal: dilantik -->
+
+relevan itu sebagai juruaudit bagi apa-apa
+
+<!-- marginal: sebagai -->
+
+akaunnya.".
+
+<!-- marginal: juruaudit. -->
+
+<!-- marginal: Penggantian -->
+
+50. Akta ibu adalah dipinda dengan menggantikan
+
+<!-- marginal: seksyen 49 -->
+
+seksyen 49 dan 50 dengan seksyen yang berikut:
+
+<!-- marginal: dan 50. -->
+
+<!-- marginal: "Orang -->
+
+49. (1) Seseorang orang yang relevan hendaklah
+
+<!-- marginal: yang -->
+
+dalam masa tiga bulan selepas berakhirnya setiap
+
+<!-- marginal: relevan -->
+
+tahun kewangan, atau apa-apa tempoh
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: menyerah- -->
+
+selanjutnya yang dibenarkan oleh Suruhanjaya
+
+<!-- marginal: simpan -->
+
+di bawah subseksyen (2), menyerah-simpan
+
+<!-- marginal: laporan -->
+
+<!-- marginal: juruaudit. -->
+
+kepada Suruhanjaya dan Pendaftar, laporan juruaudit yang mengandungi maklumat mengenai apa-apa perkara sebagaimana yang ditetapkan.
 
 <!-- page 68 -->
 
@@ -1490,11 +2474,19 @@ Penggantian
 
 (3) Seseorang orang yang relevan yang melanggar atau tidak mematuhi subseksyen (1) adalah melakukan suatu kesalahan dan apabila disabitkan boleh dikenakan denda tidak lebih daripada satu juta ringgit atau penjara selama tempoh tidak lebih daripada tiga tahun atau kedua-duanya.
 
-(4) Bagi maksud subseksyen (1), "tahun kewangan", berhubungan dengan seseorang orang yang relevan, ertinya tahun kewangan Akta 125. perbadanan itu mengikut pengertian Akta Syarikat 1965.
+(4) Bagi maksud subseksyen (1), "tahun kewangan", berhubungan dengan seseorang orang yang relevan, ertinya tahun kewangan
 
-Kewajipan
+<!-- marginal: Akta 125. -->
 
-50. (1) Jika, semasa melaksanakan kewajipan juruaudit. sebagai juruaudit bagi seseorang orang yang relevan, seseorang juruaudit menyedari—
+perbadanan itu mengikut pengertian Akta Syarikat 1965.
+
+<!-- marginal: Kewajipan -->
+
+50. (1) Jika, semasa melaksanakan kewajipan
+
+<!-- marginal: juruaudit. -->
+
+sebagai juruaudit bagi seseorang orang yang relevan, seseorang juruaudit menyedari—
 
 (a) apa-apa perkara yang pada pendapatnya boleh menjadi suatu pelanggaran mana- mana peruntukan undang-undang sekuriti;
 
@@ -1534,11 +2526,15 @@ juruaudit hendaklah dengan serta-merta melaporkan perkara itu kepada—
 
 dan Suruhanjaya boleh menetapkan masa yang dalam tempoh itu apa-apa kehendak yang disebut terdahulu hendaklah dipatuhi oleh juruaudit dan boleh menetapkan saraan yang hendaklah dibayar oleh orang yang relevan itu kepada juruaudit berkenaan.
 
-(4) Juruaudit itu hendaklah mematuhi apa- apa kehendak Suruhanjaya di bawah subseksyen (3) dan orang yang relevan itu hendaklah memberi juruaudit itu saraan berkenaan dengan penunaian olehnya segala atau mana-mana kewajipan tambahan itu.".
+(4) Juruaudit itu hendaklah mematuhi apa- apa kehendak Suruhanjaya di bawah subseksyen
 
-Pindaan
+(3) dan orang yang relevan itu hendaklah memberi juruaudit itu saraan berkenaan dengan penunaian olehnya segala atau mana-mana kewajipan tambahan itu.".
 
-51. Seksyen 51 Akta ibu adalah dipinda— seksyen 51.
+<!-- marginal: Pindaan -->
+
+51. Seksyen 51 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 51. -->
 
 (a) dengan menggantikan nota birai dengan nota birai yang berikut:
 
@@ -1560,9 +2556,11 @@ boleh diperolehinya; atau dia berkebolehan mendapatnya; atau
 
 (b) memastikan bahawa segala maklumat yang diberikan kepada juruaudit, termasuk maklumat yang diberikan di bawah perenggan (a), bukannya palsu atau mengelirukan dalam apa-apa butir yang material.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-52. Seksyen 52 Akta ibu adalah dipinda— seksyen 52.
+52. Seksyen 52 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 52. -->
 
 (a) dengan menggantikan subseksyen (1) dengan subseksyen yang berikut:
 
@@ -1580,35 +2578,73 @@ Suruhanjaya boleh, jika Suruhanjaya berpuas hati bahawa adalah demi kepentingan 
 
 (c) dalam subseksyen (3) dengan menggantikan perkataan "peniaga atau pihak berkuasa yang relevan" dengan perkataan "orang yang relevan".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-53. Seksyen 53 Akta ibu adalah dipinda dalam sub- seksyen 53. seksyen (1), (2) dan perenggan (4)(b) dengan menggantikan perkataan "peniaga" di mana-mana jua terdapat dengan perkataan "orang yang relevan".
+53. Seksyen 53 Akta ibu adalah dipinda dalam sub-
 
-Pindaan
+<!-- marginal: seksyen 53. -->
 
-54. Seksyen 55 Akta ibu adalah dipinda dengan seksyen 55. menggantikan perkataan "peniaga" di mana-mana jua terdapat dengan perkataan "orang yang relevan".
+seksyen (1), (2) dan perenggan (4)(b) dengan menggantikan perkataan "peniaga" di mana-mana jua terdapat dengan perkataan "orang yang relevan".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-55. Seksyen 57 Akta ibu adalah dipinda dengan seksyen 57. menggantikan perkataan "peniaga" di mana-mana jua terdapat dengan perkataan "orang yang relevan".
+54. Seksyen 55 Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 55. -->
 
-56. Subseksyen 58(1) Akta ibu adalah dipinda dengan seksyen 58. menggantikan perkataan "peniaga" di mana-mana jua terdapat dengan perkataan "orang yang relevan".
+menggantikan perkataan "peniaga" di mana-mana jua terdapat dengan perkataan "orang yang relevan".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-57. Seksyen 59 Akta ibu adalah dipinda dengan seksyen 59. menggantikan perkataan "anggota" dengan perkataan "syarikat anggota".
+55. Seksyen 57 Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 57. -->
 
-58. Akta ibu adalah dipinda dalam Bahagian VIII dengan tajuk menggantikan tajuk "TABUNG KESETIAAN" dengan Bahagian tajuk "TABUNG PAMPASAN".
+menggantikan perkataan "peniaga" di mana-mana jua terdapat dengan perkataan "orang yang relevan".
 
-## VIII.
+<!-- marginal: Pindaan -->
 
-Penggantian
+56. Subseksyen 58(1) Akta ibu adalah dipinda dengan
 
-59. Akta ibu adalah dipinda dengan menggantikan seksyen 60, seksyen 60, 61, 62, 63 dan 64 dengan seksyen yang 61, 62, 63 dan 64. berikut;
+<!-- marginal: seksyen 58. -->
+
+menggantikan perkataan "peniaga" di mana-mana jua terdapat dengan perkataan "orang yang relevan".
+
+<!-- marginal: Pindaan -->
+
+57. Seksyen 59 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 59. -->
+
+menggantikan perkataan "anggota" dengan perkataan "syarikat anggota".
+
+<!-- marginal: Pindaan -->
+
+58. Akta ibu adalah dipinda dalam Bahagian VIII dengan
+
+<!-- marginal: tajuk -->
+
+menggantikan tajuk "TABUNG KESETIAAN" dengan
+
+<!-- marginal: Bahagian -->
+
+tajuk "TABUNG PAMPASAN".
+
+<!-- marginal: VIII. -->
+
+<!-- marginal: Penggantian -->
+
+59. Akta ibu adalah dipinda dengan menggantikan
+
+<!-- marginal: seksyen 60, -->
+
+seksyen 60, 61, 62, 63 dan 64 dengan seksyen yang
+
+<!-- marginal: 61, 62, 63 -->
+
+<!-- marginal: dan 64. -->
+
+berikut;
 
 "Tafsiran. 60. Dalam Bahagian ini, melainkan jika konteksnya atau hal perkaranya menghendaki makna yang lain—
 
@@ -1618,15 +2654,31 @@ Penggantian
 
 "bursa saham yang relevan" berhubungan dengan tabung pampasan ertinya bursa saham yang menubuhkan tabung pampasan di bawah seksyen 61.
 
-Penubuhan
+<!-- marginal: Penubuhan -->
 
-61. (1) Sesuatu bursa saham hendaklah tabung menubuh dan menyenggarakan suatu tabung pampasan. pampasan yang hendaklah ditadbirkan di bawah Bahagian ini.
+61. (1) Sesuatu bursa saham hendaklah
+
+<!-- marginal: tabung -->
+
+menubuh dan menyenggarakan suatu tabung
+
+<!-- marginal: pampasan. -->
+
+pampasan yang hendaklah ditadbirkan di bawah Bahagian ini.
 
 (2) Aset tabung pampasan hendaklah menjadi harta bursa saham yang relevan tetapi bursa saham yang relevan itu hendaklah menyimpan aset itu berasingan daripada segala hartanya yang lain dan hendaklah memegang aset itu sebagai amanah bagi maksud yang dinyatakan dalam peraturan-peraturan yang dibuat di bawah Akta ini.
 
-Wang yang
+<!-- marginal: Wang yang -->
 
-62. Tabung pampasan sesuatu bursa saham yang menjadi relevan hendaklah terdiri daripada: tabung pampasan.
+62. Tabung pampasan sesuatu bursa saham yang
+
+<!-- marginal: menjadi -->
+
+relevan hendaklah terdiri daripada:
+
+<!-- marginal: tabung -->
+
+<!-- marginal: pampasan. -->
 
 (a) apa-apa wang yang dibayar ke dalam kredit tabung pampasan oleh bursa saham yang relevan semasa penubuhan tabung pampasan itu;
 
@@ -1644,15 +2696,41 @@ Wang yang
 
 (g) semua wang lain yang dibayar dengan sah ke dalam tabung pampasan.
 
-Tabung
+<!-- marginal: Tabung -->
 
-63. (1) Semua wang yang menjadi sebahagian hendaklah daripada tabung pampasan asesuatu bursa saham di simpan dalam yang relevan hendaklah, sementara menunggu akaun penggunaannya mengikut Bahagian ini dan berasingan. peraturan-peraturan yang dibuat di bawah Akta ini, dibayar atau dipindahkan ke dalam suatu akaun amanah berasingan oleh bursa saham yang relevan itu.
+63. (1) Semua wang yang menjadi sebahagian
+
+<!-- marginal: hendaklah -->
+
+daripada tabung pampasan asesuatu bursa saham
+
+<!-- marginal: di simpan -->
+
+<!-- marginal: dalam -->
+
+yang relevan hendaklah, sementara menunggu
+
+<!-- marginal: akaun -->
+
+penggunaannya mengikut Bahagian ini dan
+
+<!-- marginal: berasingan. -->
+
+peraturan-peraturan yang dibuat di bawah Akta ini, dibayar atau dipindahkan ke dalam suatu akaun amanah berasingan oleh bursa saham yang relevan itu.
 
 (2) Sesuatu akaun amanah yang disebut dalam subseksyen (1) boleh dibuka dengan satu institusi berlesen atau lebih.
 
-Pernbayaran
+<!-- marginal: Pernbayaran -->
 
-64. Tertakluk kepada Bahagian ini, maka dari tabung hendaklah dibayar daripada tabung pampasan pampasan. sesuatu bursa saham yang relevan mengikut apa- apa susunan sebagaimana yang difikirkan patut oleh syarikat bursa yang relevan—
+64. Tertakluk kepada Bahagian ini, maka
+
+<!-- marginal: dari tabung -->
+
+hendaklah dibayar daripada tabung pampasan
+
+<!-- marginal: pampasan. -->
+
+sesuatu bursa saham yang relevan mengikut apa- apa susunan sebagaimana yang difikirkan patut oleh syarikat bursa yang relevan—
 
 (a) amaun segala tuntutan, termasuk kos, yang dibenarkan oleh bursa saham yang relevan atau dibuktikan terhadap tabung pampasan di bawah Bahagian ini;
 
@@ -1666,9 +2744,11 @@ Pernbayaran
 
 (e) semua wang lain yang kena dibayar daripada tabung pampasan menurut peruntukan Akta ini.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-60. Seksyen 65 Akta ibu adalah dipinda— seksyen 65.
+60. Seksyen 65 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 65. -->
 
 (a) dalam nota birai dengan memasukkan perkataan "pampasan" selepas perkataan "tabung";
 
@@ -1678,27 +2758,99 @@ Pindaan
 
 (ii) dengan menggantikan perkataan "kesetiaannya" dengan perkataan "pampasan".
 
-Penggantian
+<!-- marginal: Penggantian -->
 
-61. Akta ibu adalah dipinda dengan menggantikan seksyen 66, seksyen 66, 67, 68 dan 69 dengan seksyen yang berikut: 67, 68 dan "Bursa
+61. Akta ibu adalah dipinda dengan menggantikan
 
-66. (1) Suruhanjaya boleh, setelah berunding saham dengan sesuatu bursa saham yang relevan dan yang relevan dengan kelulusan daripada Menteri, menghendaki dikehendaki bursa saham yang relevan membayar sebahagian membayar sebahagian daripada pendapatan bersihnya bagi mana-mana daripada tahun kewangan yang tertentu ke dalam tabung pendapatan bersih ke pampasan. dalam tabung pampasan.
+<!-- marginal: seksyen 66, -->
+
+seksyen 66, 67, 68 dan 69 dengan seksyen yang berikut:
+
+<!-- marginal: 67, 68 dan -->
+
+<!-- marginal: "Bursa -->
+
+66. (1) Suruhanjaya boleh, setelah berunding
+
+<!-- marginal: saham -->
+
+dengan sesuatu bursa saham yang relevan dan
+
+<!-- marginal: yang -->
+
+<!-- marginal: relevan -->
+
+dengan kelulusan daripada Menteri, menghendaki
+
+<!-- marginal: dikehendaki -->
+
+bursa saham yang relevan membayar sebahagian
+
+<!-- marginal: membayar -->
+
+<!-- marginal: sebahagian -->
+
+daripada pendapatan bersihnya bagi mana-mana
+
+<!-- marginal: daripada -->
+
+tahun kewangan yang tertentu ke dalam tabung
+
+<!-- marginal: pendapatan -->
+
+<!-- marginal: bersih ke -->
+
+pampasan.
+
+<!-- marginal: dalam -->
+
+<!-- marginal: tabung -->
+
+<!-- marginal: pampasan. -->
 
 <!-- page 76 -->
 
 (2) Jika Suruhanjaya menghendaki sesuatu bursa saham yang relevan membuat suatu pembayaran bawah subseksyen (1), ia hendaklah memberikan notis secara bertulis kepada bursa saham yang relevan itu dan bursa saham yang relevan itu hendaklah mematuhi kehendak itu pada atau sebelum tarikh yang dinyatakan dalam notis bertulis itu.
 
-Caruman
+<!-- marginal: Caruman -->
 
-67. (1) Sesuatu syarikat anggota tabung kepada pampasan hendaklah, apabila dilesenkan di tabung pampasan bawah Akta ini, membayar kepada bursa saham yang relevan sebanyak tiga puluh ribu ringgit sebagai caruman kepada tabung pampasan dan hendaklah selepas itu pada atau sebelum tiga puluh satu haribulan Disember membayar kepada bursa saham yang relevan sebanyak sepuluh ribu ringgit sebagai caruman kepada tabung pampasan.
+67. (1) Sesuatu syarikat anggota tabung
+
+<!-- marginal: kepada -->
+
+pampasan hendaklah, apabila dilesenkan di
+
+<!-- marginal: tabung -->
+
+<!-- marginal: pampasan -->
+
+bawah Akta ini, membayar kepada bursa saham yang relevan sebanyak tiga puluh ribu ringgit sebagai caruman kepada tabung pampasan dan hendaklah selepas itu pada atau sebelum tiga puluh satu haribulan Disember membayar kepada bursa saham yang relevan sebanyak sepuluh ribu ringgit sebagai caruman kepada tabung pampasan.
 
 (2) Segala caruman yang dibuat di bawah seksyen ini tidak boleh dibayar balik.
 
 (3) Walau apa pun apa-apa dalam seksyen ini, bursa saham yang relevan boleh, dari semasa ke semasa dengan kelulusan Suruhanjaya, mengubah amaun dan cara caruman dibayar oleh Syarikat anggota kepada tabung pampasan.
 
-Peruntukan
+<!-- marginal: Peruntukan -->
 
-68. (1) Jika amaun kredit dalam tabung jika tabung pampasan melebihi lima puluh juta ringgit, atau pampasan melebihi apa-apa jumlah yang lebih besar sebagaimana lima puluh yang ditentukan oleh Suruhanjaya setelah juta ringgit. berunding dengan bursa saham yang relevan, tiap-tiap syarikat anggota bursa saham yang relevan itu yang telah membuat lima puluh caruman tahunan, atau apa-apa bilangan yang lebih besar sebagaimana yang ditentukan oleh Suruhanjaya setelah berbincang dengan bursa saham yang relevan, kepada tabung pampasan, dan yang berkenaan dengannya tiada pembayaran daripada tabung pampasan telah dibuat atau,
+68. (1) Jika amaun kredit dalam tabung
+
+<!-- marginal: jika tabung -->
+
+pampasan melebihi lima puluh juta ringgit, atau
+
+<!-- marginal: pampasan -->
+
+<!-- marginal: melebihi -->
+
+apa-apa jumlah yang lebih besar sebagaimana
+
+<!-- marginal: lima puluh -->
+
+yang ditentukan oleh Suruhanjaya setelah
+
+<!-- marginal: juta ringgit. -->
+
+berunding dengan bursa saham yang relevan, tiap-tiap syarikat anggota bursa saham yang relevan itu yang telah membuat lima puluh caruman tahunan, atau apa-apa bilangan yang lebih besar sebagaimana yang ditentukan oleh Suruhanjaya setelah berbincang dengan bursa saham yang relevan, kepada tabung pampasan, dan yang berkenaan dengannya tiada pembayaran daripada tabung pampasan telah dibuat atau,
 
 <!-- page 77 -->
 
@@ -1706,15 +2858,35 @@ jika apa-apa pembayaran telah dibuat, tabung pampasan itu telah dibayar ganti se
 
 (2) Jika sesuatu tabung pampasan, atas apa- apa sebab, berada di bawah jumlah sepuluh juta ringgit, atau apa-apa jumlah lain sebagaimana yang ditentukan oleh Suruhanjaya setelah berunding dengan bursa saham yang relevan, bursa saham yang relevan boleh, dengan kelulusan Suruhanjaya, menghendaki sesuatu syarikat anggota bursa saham yang relevan yang telah dibebaskan dan dilepaskan daripada kehendak membuat caruman tahunan di bawah subseksyen (1), setakat yang difikirkannya perlu, untuk membayar caruman tahunan di bawah seksyen 67.
 
-Levi
+<!-- marginal: Levi -->
 
-69. (1) Jika pada bila-bila masa tabung sebagai pampasan tidak cukup untuk menjelaskan liabiliti tambahan kepada bursa saham yang relevan yang pada masa itu caruman ditentukan berhubungan dengannya, bursa saham tahunan. yang relevan itu boleh mengenakan ke atas tiap- tiap syarikat anggota yang kena mencarum kepada tabung pampasan itu suatu levi sebanyak sesuatu amaun yang ditentukan oleh Menteri sebagai berpatutan, sebagai pampasan yang munasabah terhadap liabiliti itu, untuk dibayar kepada tabung pampasan itu.
+69. (1) Jika pada bila-bila masa tabung
+
+<!-- marginal: sebagai -->
+
+pampasan tidak cukup untuk menjelaskan liabiliti
+
+<!-- marginal: tambahan -->
+
+<!-- marginal: kepada -->
+
+bursa saham yang relevan yang pada masa itu
+
+<!-- marginal: caruman -->
+
+ditentukan berhubungan dengannya, bursa saham
+
+<!-- marginal: tahunan. -->
+
+yang relevan itu boleh mengenakan ke atas tiap- tiap syarikat anggota yang kena mencarum kepada tabung pampasan itu suatu levi sebanyak sesuatu amaun yang ditentukan oleh Menteri sebagai berpatutan, sebagai pampasan yang munasabah terhadap liabiliti itu, untuk dibayar kepada tabung pampasan itu.
 
 (2) Amaun levi itu hendaklah dibayar dalam masa dan mengikut cara yang dinyatakan oleh bursa saham yang relevan sama ada pada amnya atau berhubungan dengan mana-mana hal tertentu.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-62. Seksyen 70 Akta ibu adalah dipinda— seksyen 70
+62. Seksyen 70 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 70 -->
 
 (a) dalam nota birai dengan memasukkan selepas perkataan "tabung" perkataan "pampasan"; dan
 
@@ -1722,21 +2894,45 @@ Pindaan
 
 (b) dengan menggantikan perkataan "kesetiaan" dan "kesetiaannya" dengan perkataan "pampasan"
 
-Penggantian
+<!-- marginal: Penggantian -->
 
-63. Akta ibu adalah dipinda dengan menggantikan seksyen 71 seksyen 71 dan 72 dengan seksyen yang berikut: dan 72.
+63. Akta ibu adalah dipinda dengan menggantikan
 
-"Pelaburan
+<!-- marginal: seksyen 71 -->
 
-71. Sesuatu bursa saham yang relevan boleh wang melabur wang yang menjadi sebahagian daripada tabung pampasan. . tabung pampasannya dan bagi tidak diperlukan dengan segera bagi apa-apa maksud lain di bawah Bahagian ini—
+seksyen 71 dan 72 dengan seksyen yang berikut:
+
+<!-- marginal: dan 72. -->
+
+<!-- marginal: "Pelaburan -->
+
+71. Sesuatu bursa saham yang relevan boleh
+
+<!-- marginal: wang -->
+
+melabur wang yang menjadi sebahagian daripada
+
+<!-- marginal: tabung -->
+
+<!-- marginal: pampasan. -->
+
+. tabung pampasannya dan bagi tidak diperlukan dengan segera bagi apa-apa maksud lain di bawah Bahagian ini—
 
 (a) sebagai simpanan tetap dengan sesuatu institusi berlesen; atau
 
 (b) dalam sekuriti-sekuriti yang dalamnya pemegang-pemegang amanah dibenarkan oleh undang-undang melabur wang amanah.
 
-Penggunaan
+<!-- marginal: Penggunaan -->
 
-72. (1) Tertakluk kepada Bahagian ini, jika tabung seseorang ("orang yang menanggung kerugian") pampasan. menanggung kerugian wang pada suatu masa yang tertentu disebabkan—
+72. (1) Tertakluk kepada Bahagian ini, jika
+
+<!-- marginal: tabung -->
+
+seseorang ("orang yang menanggung kerugian")
+
+<!-- marginal: pampasan. -->
+
+menanggung kerugian wang pada suatu masa yang tertentu disebabkan—
 
 (a) penggelapan, atau disebabkan salah guna wang atau harta lain secara fraud, oleh seorang pengarah, pegawai, pekerja atau wakil peniaga berlesen yang pada masa itu ialah suatu syarikat anggota;
 
@@ -1778,13 +2974,23 @@ tidaklah boleh melebihi amaun yang dinyatakan atau dihitung mengikut Bahagian in
 
 <!-- page 81 -->
 
-Pemotongan
+<!-- marginal: Pemotongan -->
 
-64. Akta ibu adalah dipinda dengan memotong seksyen seksyen 73, 73, 75, 76 dan 77. 75, 76 dan 77.
+64. Akta ibu adalah dipinda dengan memotong seksyen
 
-Pindaan
+<!-- marginal: seksyen 73, -->
 
-65. Seksyen 78 Akta ibu adalah dipinda— seksyen 78.
+73, 75, 76 dan 77.
+
+<!-- marginal: 75, 76 dan -->
+
+<!-- marginal: 77. -->
+
+<!-- marginal: Pindaan -->
+
+65. Seksyen 78 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 78. -->
 
 (a) dalam nota birai dengan menggantikan perkataan "jawatankuasa" dengan perkataan "bursa saham yang relevan";
 
@@ -1792,15 +2998,65 @@ Pindaan
 
 (c) dengan memasukkan selepas perkataan "berkenaan dengan sesuatu penggelapan" perkataan "atau salah guna wang atau harta secara fraud".
 
-Penggantian
+<!-- marginal: Penggantian -->
 
-66. Akta ibu adalah dipinda dengan menggantikan seksyen 79 seksyen 79 dan 80 dengan seksyen yang berikut: dan 80.
+66. Akta ibu adalah dipinda dengan menggantikan
 
-"Pensubro-
+<!-- marginal: seksyen 79 -->
 
-79. Jika sesuatu bursa saham yang relevan gasian membuat sesuatu pembayaran daripada tabung bursa saham pampasan berkenaan dengan sesuatu tuntutan yang pampasan di bawah Bahagian ini,— relevan mengenai
+seksyen 79 dan 80 dengan seksyen yang berikut:
 
-(a) bursa saham yang relevan itu hendaklah hak dan remedi disubrogasi setakat pembayaran itu pihak mengenai semua hak dan remedi pihak menuntut apabila menuntut itu berkenaan dengan kerugian pembayaran yang ditanggung oleh pihak menuntut; dibuat daripada dan tabung pampasan.
+<!-- marginal: dan 80. -->
+
+<!-- marginal: "Pensubro- -->
+
+79. Jika sesuatu bursa saham yang relevan
+
+<!-- marginal: gasian -->
+
+membuat sesuatu pembayaran daripada tabung
+
+<!-- marginal: bursa -->
+
+<!-- marginal: saham -->
+
+pampasan berkenaan dengan sesuatu tuntutan
+
+<!-- marginal: yang -->
+
+pampasan di bawah Bahagian ini,—
+
+<!-- marginal: relevan -->
+
+<!-- marginal: mengenai -->
+
+(a) bursa saham yang relevan itu hendaklah
+
+<!-- marginal: hak dan -->
+
+<!-- marginal: remedi -->
+
+disubrogasi setakat pembayaran itu
+
+<!-- marginal: pihak -->
+
+mengenai semua hak dan remedi pihak
+
+<!-- marginal: menuntut -->
+
+<!-- marginal: apabila -->
+
+menuntut itu berkenaan dengan kerugian pembayaran yang ditanggung oleh pihak menuntut;
+
+<!-- marginal: dibuat -->
+
+<!-- marginal: daripada -->
+
+dan
+
+<!-- marginal: tabung -->
+
+<!-- marginal: pampasan. -->
 
 (b) pihak menuntut itu tidaklah boleh membuat apa-apa tuntutan atau mempunyai hak di bawah apa-apa prosiding kebangkrapan atau undang- undang atau selainnya—
 
@@ -1812,25 +3068,71 @@ Penggantian
 
 (ii) jika kerugian itu disebabkan oleh sesuatu tindakan atau peninggalan seorang pengarah, pegawai, wakil atau pekerja sesuatu syarikat anggota, untuk menerima berkenaan dengan kerugian apa- apa jumlah wang,
 
-sehingga bursa saham yang relevan itu telah dibayar ganti amaun sepenuhnya pembayaran yang dibuat olehnya daripada tabung pampasan
+sehingga bursa saham yang relevan itu telah dibayar ganti amaun sepenuhnya pembayaran yang dibuat olehnya daripada tabung pampasan itu, termasuk apa-apa bunga yang dibayar.
 
-<!-- marginal: itu, -->
+<!-- marginal: Pembayaran -->
 
-termasuk apa-apa bunga yang dibayar.
+80. Tiada wang atau harta lain kepunyaan
 
-Pembayaran 80. Tiada wang atau harta lain kepunyaan tuntutan sesuatu bursa saham yang tabung relevan, selain hanya dari tabung daripada tabung pampasannya, boleh digunakan pampasan. untuk membayar apa-apa tuntutan bawah Bahagian ini.".
+<!-- marginal: tuntutan -->
 
-Pemotongan
+sesuatu bursa saham yang tabung relevan, selain
 
-67. Akta ibu adalah dipinda dengan memotong seksyen seksyen 81.
+<!-- marginal: hanya dari -->
+
+<!-- marginal: tabung -->
+
+daripada tabung pampasannya, boleh digunakan
+
+<!-- marginal: pampasan. -->
+
+untuk membayar apa-apa tuntutan bawah Bahagian ini.".
+
+<!-- marginal: Pemotongan -->
+
+67. Akta ibu adalah dipinda dengan memotong seksyen
+
+<!-- marginal: seksyen 81. -->
 
 81.
 
-Penggantian
+<!-- marginal: Penggantian -->
 
-68. Akta ibu adalah dipinda dengan menggantikan seksyen 82 seksyen 82 dan 83 dengan seksyen yang berikut: dan 83.
+68. Akta ibu adalah dipinda dengan menggantikan
 
-"Kuasa 82. (1) Sesuatu bursa saham yang relevan bursa boleh membuat suatu kontrak dengan sesuatu saham yang perniagaan insurans berdaftar di Malaysia yang relevan di bawahnya bursa saham yang relevan itu akan membuat kontrak diinsuranskan atau ditanggung rugi setakat dan insurans. mengikut cara yang diperuntukkan oleh kontrak itu terhadap liabiliti berkenaan dengan tuntutan di bawah Bahagian ini atau mana-mana peraturan yang dibuat di bawah Akta ini.
+<!-- marginal: seksyen 82 -->
+
+seksyen 82 dan 83 dengan seksyen yang berikut:
+
+<!-- marginal: dan 83. -->
+
+<!-- marginal: "Kuasa -->
+
+82. (1) Sesuatu bursa saham yang relevan
+
+<!-- marginal: bursa -->
+
+boleh membuat suatu kontrak dengan sesuatu
+
+<!-- marginal: saham -->
+
+<!-- marginal: yang -->
+
+perniagaan insurans berdaftar di Malaysia yang
+
+<!-- marginal: relevan -->
+
+di bawahnya bursa saham yang relevan itu akan
+
+<!-- marginal: membuat -->
+
+<!-- marginal: kontrak -->
+
+diinsuranskan atau ditanggung rugi setakat dan
+
+<!-- marginal: insurans. -->
+
+mengikut cara yang diperuntukkan oleh kontrak itu terhadap liabiliti berkenaan dengan tuntutan di bawah Bahagian ini atau mana-mana peraturan yang dibuat di bawah Akta ini.
 
 (2) Sesuatu kontrak di bawah subseksyen (1) boleh dibuat berhubungan dengan syarikat anggota pada amnya, atau berhubungan dengan sesuatu syarikat anggota tertentu yang dinamakan dalam kontrak itu, atau berhubungan dengan
 
@@ -1840,31 +3142,87 @@ syarikat anggota pada amnya dengan mengecualikan syarikat anggota tertentu yang 
 
 (3) Sesuatu tindakan tidak boleh diambil terhadap sesuatu bursa saham yang relevan atau terhadap mana-mana anggota atau pekerja, atau terhadap mana-mana jawatankuasa atau jawatankuasa kecil bursa saham yang relevan, mengikut mana-mana yang berkenaan, disebabkan kecederaan yang dikatakan ditanggung oleh suatu syarikat anggota bursa saham yang relevan oleh sebab sesuatu pernyataan yang disiarkan dengan suci hati yang menyatakan bahawa sesuatu kontrak yang dibuat di bawah seksyen ini terpakai atau tidak terpakai berkenaan dengan syarikat anggota itu.
 
-Penggunaan
+<!-- marginal: Penggunaan -->
 
-83. Seseorang pihak yang menuntut terhadap wang suatu tabung pampasan sesuatu bursa saham yang insurans. relevan tidak mempunyai—
+83. Seseorang pihak yang menuntut terhadap
+
+<!-- marginal: wang -->
+
+suatu tabung pampasan sesuatu bursa saham yang
+
+<!-- marginal: insurans. -->
+
+relevan tidak mempunyai—
 
 (a) suatu hak tindakan terhadap seseorang yang dengannya sesuatu kontrak insurans atau tanggung rugi dibuat di bawah Bahagian ini berhubungan sesuatu kontrak sedemikian; atau
 
 (b) suatu hak atau tuntutan berkenaan dengan wang yang dibayar oleh penanggung insurans mengikut sesuatu kontrak sedemikian.".
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
-69. Akta ibu adalah dipinda dengan memasukkan selepas 83A dan 83B. seksyen 82 seksyen yang berikut:
+69. Akta ibu adalah dipinda dengan memasukkan selepas
 
-"Wang
+<!-- marginal: 83A dan 83B. -->
 
-83A. Sekiranya sesuatu bursa saham yang dalam relevan sedang digulung di bawah Akta Syarikat tabung pampasan 1965, bursa saham yang relevan itu hendaklah, jika bursa selepas menjelaskan segala liabiliti yang belum saham dijelaskan daripada tabung pampasannya, yang relevan menjadikan tersedia untuk pelikuidasi bursa digulung. saham yang relevan itu baki amaun yang ada Akta 125 dalam tabung pampasan yang hendaklah menjadi
+seksyen 82 seksyen yang berikut:
+
+<!-- marginal: "Wang -->
+
+83A. Sekiranya sesuatu bursa saham yang
+
+<!-- marginal: dalam -->
+
+relevan sedang digulung di bawah Akta Syarikat
+
+<!-- marginal: tabung -->
+
+<!-- marginal: pampasan -->
+
+1965, bursa saham yang relevan itu hendaklah,
+
+<!-- marginal: jika bursa -->
+
+selepas menjelaskan segala liabiliti yang belum
+
+<!-- marginal: saham -->
+
+dijelaskan daripada tabung pampasannya,
+
+<!-- marginal: yang -->
+
+<!-- marginal: relevan -->
+
+menjadikan tersedia untuk pelikuidasi bursa
+
+<!-- marginal: digulung. -->
+
+saham yang relevan itu baki amaun yang ada
+
+<!-- marginal: Akta 125 -->
+
+dalam tabung pampasan yang hendaklah menjadi
 
 <!-- page 84 -->
 
 sebahagian daripada aset bursa saham yang relevan itu dan tersedia untuk pelikuidasi untuk dibahagikan mengikut Akta Syarikat 1965.
 
-Peraturan-
+<!-- marginal: Peraturan- -->
 
-83B. (1) Menteri boleh melalui peraturan- peraturan peraturan menetapkan— berkenaan tabung
+83B. (1) Menteri boleh melalui peraturan-
 
-(a) berkenaan dengan suatu tabling pampasan pampasan. sesuatu bursa saham yang relevan—
+<!-- marginal: peraturan -->
+
+peraturan menetapkan—
+
+<!-- marginal: berkenaan -->
+
+<!-- marginal: tabung -->
+
+(a) berkenaan dengan suatu tabling pampasan
+
+<!-- marginal: pampasan. -->
+
+sesuatu bursa saham yang relevan—
 
 (i) kuasa Suruhanjaya itu berhubungan dengan tabung pampasan itu;
 
@@ -1888,13 +3246,19 @@ Peraturan-
 
 <!-- page 85 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-70. Seksyen 94A Akta ibu adalah dipinda dengan seksyen 94A. memasukkan sebelum perkataan "Pendaftar" di mana- mana jua terdapat perkataan "Suruhanjaya atau".
+70. Seksyen 94A Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 94A. -->
 
-71. Seksyen 95 Akta ibu adalah dipinda— seksyen 95.
+memasukkan sebelum perkataan "Pendaftar" di mana- mana jua terdapat perkataan "Suruhanjaya atau".
+
+<!-- marginal: Pindaan -->
+
+71. Seksyen 95 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 95. -->
 
 (a) dalam perenggan (1) (a)—
 
@@ -1908,15 +3272,17 @@ Pindaan
 
 (x) dengan memasukkan selepas perkataan "peniaga" perkataan ", pengurus kumpulan wang"; dan
 
-(b) dalam teks bahasa Inggeris dalam perenggan
+(b) dalam teks bahasa Inggeris dalam perenggan (8) (a) dengan menggantikan perkataan "breakopen" dengan perkataan "break open".
 
-(8) (a) dengan menggantikan perkataan "breakopen" dengan perkataan "break open".
+<!-- marginal: Seksyen -->
 
-72. Akta ibu adalah dipinda dengan memasukkan selepas baru 95A. seksyen 95 seksyen yang berikut:
+72. Akta ibu adalah dipinda dengan memasukkan selepas
 
-"Kuasa
+<!-- marginal: baru 95A. -->
 
-95A. (1) Jika di bawah mana-mana peruntukan untuk Akta ini— menetap- kan bentuk
+seksyen 95 seksyen yang berikut:
+
+"Kuasa 95A. (1) Jika di bawah mana-mana peruntukan untuk Akta ini— menetap- kan bentuk
 
 (a) mana-mana orang dikehendaki; atau dan cara maklumat,
 
@@ -1938,13 +3304,19 @@ apa-apa bentuk atau cara dan dalam apa-apa tempoh atau apa-apa lat tempoh sebaga
 
 atas apa-apa bahan, material, benda atau barang.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-73. Subseksyen 96(3) Akta ibu adalah dipinda dengan seksyen 96. memasukkan selepas perkataan "merintangi" perkataan "Suruhanjaya atau".
+73. Subseksyen 96(3) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 96. -->
 
-74. Seksyen 98 Akta ibu adalah dipinda— seksyen 98.
+memasukkan selepas perkataan "merintangi" perkataan "Suruhanjaya atau".
+
+<!-- marginal: Pindaan -->
+
+74. Seksyen 98 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 98. -->
 
 (a) dengan memasukkan sebelum perkataan "Pendaftar" di mana-mana jua terdapat perkataan "Suruhanjaya atau";
 
@@ -1962,7 +3334,9 @@ Pindaan
 
 (a) dengan memasukkan selepas perkataan "Jika" perkataan "Suruhanjaya atau";
 
-(b) dengan menggantikan perkataan "dia boleh" dengan perkataan "Suruhanjaya atau Pendaftar, mengikut mana-mana yang berkenaan, boleh"; dan
+(b) dengan menggantikan perkataan "dia boleh" dengan perkataan "Suruhanjaya atau Pendaftar, mengikut mana-mana yang berkenaan, boleh";
+
+<!-- marginal: dan -->
 
 (c) dengan menggantikan perkataan "difikirkannya" dengan perkataan "difikirkan oleh Suruhanjaya atau Pendaftar".
 
@@ -1996,7 +3370,11 @@ Pindaan
 
 "(fa) jika seseorang telah menolak atau gagal, sedang enggan atau gagal, atau bercadang untuk menolak atau menggagalkan, melakukan apa-apa perbuatan atau benda yang dia dikehendaki melakukan di bawah Akta ini, suatu perintah yang menghendaki orang itu membuat perbuatan atau benda sedemikian;";
 
-(b) dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: " (2A) Jika suatu permohonan dibuat kepada Mahkamah Tinggi bagi suatu perintah di bawah perenggan (fa) subseksyen (1), Mahkamah Tinggi boleh memberikan perintah itu—
+(b) dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: "
+
+(2A) Jika suatu permohonan dibuat kepada Mahkamah Tinggi bagi suatu perintah di bawah perenggan (fa) subseksyen (1), Mahkamah Tinggi boleh memberikan perintah
+
+<!-- marginal: itu— -->
 
 (a) jika Mahkamah Tinggi berpuas hati bahawa orang itu telah menolak atau gagal untuk melakukan perbuatan atau benda yang dikehendaki itu, sama ada atau tidak Mahkamah Tinggi mendapati bahawa orang itu berniat untuk menolak atau menggagalkan lagi, atau terus menolak atau menggagalkan, untuk melakukan perbuatan atau benda yang dikehendaki itu; atau
 
@@ -2024,13 +3402,35 @@ melakukan perbuatan atau benda itu dan sama ada atau tidak terdapat risiko keros
 
 <!-- page 90 -->
 
-Penggantian
+<!-- marginal: Penggantian -->
 
-77. Akta ibu adalah dipinda dengan menggantikan seksyen 120. seksyen 120 dengan seksyen yang berikut:
+77. Akta ibu adalah dipinda dengan menggantikan
 
-"Larangan
+<!-- marginal: seksyen 120. -->
 
-120. (1) Seseorang yang bukan seorang mengenai broker saham, anggota sesuatu bursa saham atau peng- gunaan suatu syarikat anggota tidak boleh mengambil gelaran atau menggunakan atau secara inferens menerima tertentu. pakai nama, gelaran atau perihalan "broker saham", "anggota sesuatu bursa saham" atau "syarikat anggota", atau mengambil atau menggunakan atau melekatkan atau mem- pamerkan di mana-mana tempat apa-apa nama, gelaran atau perihalan yang menyerupai atau diniatkan untuk mewujudkan kepercayaan bahawa orang itu ialah seorang broker saham, anggota bursa saham atau syarikat anggota.
+seksyen 120 dengan seksyen yang berikut:
+
+<!-- marginal: "Larangan -->
+
+120. (1) Seseorang yang bukan seorang
+
+<!-- marginal: mengenai -->
+
+broker saham, anggota sesuatu bursa saham atau
+
+<!-- marginal: peng- -->
+
+<!-- marginal: gunaan -->
+
+suatu syarikat anggota tidak boleh mengambil
+
+<!-- marginal: gelaran -->
+
+atau menggunakan atau secara inferens menerima
+
+<!-- marginal: tertentu. -->
+
+pakai nama, gelaran atau perihalan "broker saham", "anggota sesuatu bursa saham" atau "syarikat anggota", atau mengambil atau menggunakan atau melekatkan atau mem- pamerkan di mana-mana tempat apa-apa nama, gelaran atau perihalan yang menyerupai atau diniatkan untuk mewujudkan kepercayaan bahawa orang itu ialah seorang broker saham, anggota bursa saham atau syarikat anggota.
 
 (2) Melainkan jika Suruhanjaya membenarkan, seseorang selainnya yang bukan suatu bursa saham tidak boleh mengambil atau menggunakan atau secara inferens menerima pakai nama, gelaran atau perihalan "bursa saham", "pasaran saham" atau "pasaran perdagangan sekuriti", atau mengambil atau menggunakan atau melekatkan atau mempamerkan di mana-mana tempat apa-apa nama, gelaran atau perihalan yang menyerupai atau diniatkan untuk mewujudkan kepercayaan bahawa orang itu ialah suatu bursa saham.
 
@@ -2046,9 +3446,11 @@ Penggantian
 
 <!-- page 92 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-78. Seksyen 121 Akta ibu adalah dipinda— seksyen 121.
+78. Seksyen 121 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 121. -->
 
 (a) dalam nota birai dengan memasukkan selepas perkataan "peniaga" perkataan "atau pengurus kumpulan wang";
 
@@ -2066,15 +3468,23 @@ Pindaan
 
 (f) dalam subseksyen (4) dengan memasukkan selepas perkataan "peniaga" perkataan "atau pengurus kumpulan wang".
 
-79. Akta ibu adalah dipinda dengan memasukkan selepas baru 121A. seksyen 121 seksyen yang berikut:
+<!-- marginal: Seksyen -->
+
+79. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru 121A. -->
+
+seksyen 121 seksyen yang berikut:
 
 "Keputusan 121A. Kecuali sebagaimana yang diperuntukkan Menteri selainnya dalam Akta ini, mana-mana keputusan adalah muktamad. Menteri yang dibuat di bawah Akta ini, sama ada suatu keputusan asal olehnya atau satu keputusan atas rayuan kepadanya daripada sesuatu keputusan Suruhanjaya adalah muktamad.".
 
 <!-- page 93 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-80. Seksyen 122 Akta ibu adalah dipinda— seksyen 122.
+80. Seksyen 122 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 122. -->
 
 (a) dalam subseksyen (1) dengan menggantikan perkataan "pegawai eksekutif atau setiausaha" dengan perkataan "ketua pegawai eksekutif, pegawai atau wakil";
 
@@ -2104,9 +3514,33 @@ dilantik secara sah untuk menjawat atau diberikuasa sewajarnya untuk memangku ja
 
 (iii) seseorang yang menurut arahan atau petunjuknya anggota lembaga perbadanan lazimnya bertindak.".
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
-81. Akta ibu adalah dipinda dengan memasukkan selepas 122A,122B seksyen 122 seksyen yang berikut: dan 122C. "Pemalsuan 122A. Seseorang pengarah, pengurus, pegawai, rekod oleh pemegang amanah, juruaudit, pekerja atau ejen pengarah, sesuatu bursa saham, pusat penjelasan pekerja dan ejen. diiktirafkan, peniaga, pengurus kumpulan wang atau penasihat pelaburan yang—
+81. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: 122A,122B -->
+
+seksyen 122 seksyen yang berikut:
+
+<!-- marginal: dan 122C. -->
+
+<!-- marginal: "Pemalsuan -->
+
+122A. Seseorang pengarah, pengurus, pegawai,
+
+<!-- marginal: rekod oleh -->
+
+pemegang amanah, juruaudit, pekerja atau ejen
+
+<!-- marginal: pengarah, -->
+
+sesuatu bursa saham, pusat penjelasan
+
+<!-- marginal: pekerja -->
+
+<!-- marginal: dan ejen. -->
+
+diiktirafkan, peniaga, pengurus kumpulan wang atau penasihat pelaburan yang—
 
 (a) dengan sengaja membuat, atau menyebabkan dibuat, sesuatu catatan palsu dalam mana-mana buku atau rekod atau mana-mana laporan, slip, dokumen atau pernyataan urusan, hal ehwal transaksi, syarat, aset atau akaun bursa saham pusat penjelasan diiktirafkan, peniaga, pengurus kumpulan wang atau penasihat pelaburan;
 
@@ -2118,9 +3552,37 @@ Seksyen baru
 
 adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak lebih daripada tiga juta ringgit atau dipenjarakan selama tempoh tidak lebih daripada sepuluh tahun atau kedua- duanya.
 
-Laporan
+<!-- marginal: Laporan -->
 
-122B. Seseorang yang dengan niat untuk palsu kepada memperdaya, membuat atau memberi, atau sedar Suruhan- jaya, bursa dan sengaja memberikuasa atau membenarkan saham atau dibuat atau diberi, apa-apa pernyataan palsu atau pusat pen- jelasan mengelirukan kepada Suruhanjaya, suatu bursa diiktiraf- saham atau suatu pusat penjelasan diiktirafkan kan. berhubungan dengan—
+122B. Seseorang yang dengan niat untuk
+
+<!-- marginal: palsu kepada -->
+
+memperdaya, membuat atau memberi, atau sedar
+
+<!-- marginal: Suruhan- -->
+
+<!-- marginal: jaya, bursa -->
+
+dan sengaja memberikuasa atau membenarkan
+
+<!-- marginal: saham atau -->
+
+dibuat atau diberi, apa-apa pernyataan palsu atau
+
+<!-- marginal: pusat pen- -->
+
+<!-- marginal: jelasan -->
+
+mengelirukan kepada Suruhanjaya, suatu bursa
+
+<!-- marginal: diiktiraf- -->
+
+saham atau suatu pusat penjelasan diiktirafkan
+
+<!-- marginal: kan. -->
+
+berhubungan dengan—
 
 (a) berniaga dalam sekuriti;
 
@@ -2134,9 +3596,19 @@ Laporan
 
 adalah melakukan satu kesalahan dan apabila disabitkan boleh didenda tidak lebih daripada tiga juta ringgit atau dipenjarakan selama tempoh tidak lebih daripada sepuluh tahun atau kedua- duanya.
 
-Percubaan, 122C. Seseorang yang— persuba- hatan dan
+<!-- marginal: Percubaan, -->
 
-(a) cuba melakukan apa-apa kesalahan di komplot. bawah Akta ini;
+122C. Seseorang yang—
+
+<!-- marginal: persuba- -->
+
+<!-- marginal: hatan dan -->
+
+(a) cuba melakukan apa-apa kesalahan di
+
+<!-- marginal: komplot. -->
+
+bawah Akta ini;
 
 (b) melakukan apa-apa tindakan bagi melanjutkan pelakuan apa-apa kesalahan di bawah Akta ini; atau
 
@@ -2148,29 +3620,77 @@ apa kesalahan di bawah Akta ini, sama ada atau tidak kesalahan dilakukan akibat 
 
 adalah melakukan suatu kesalahan dan boleh dikenakan penalti untuk kesalahan sedemikian.".
 
-Penggantian
+<!-- marginal: Penggantian -->
 
-82. Akta ibu adalah dipinda dengan menggantikan seksyen 123 seksyen 123 dan 124 dengan seksyen berikut: dan 124.
+82. Akta ibu adalah dipinda dengan menggantikan
 
-"Penalti 123. (1) Seseorang yang melanggar atau gagal am. mematuhi suatu kehendak atau peruntukan Akta ini melakukan suatu kesalahan di bawah Akta ini dan, jika tiada penalti diperuntukkan secara nyata, apabila disabitkan boleh didenda tidak lebih daripada lima ratus ribu ringgit atau dipenjarakan selama tempoh tidak lebih daripada lima tahun atau kedua-duanya.
+<!-- marginal: seksyen 123 -->
+
+seksyen 123 dan 124 dengan seksyen berikut:
+
+<!-- marginal: dan 124. -->
+
+<!-- marginal: "Penalti -->
+
+123. (1) Seseorang yang melanggar atau gagal
+
+<!-- marginal: am. -->
+
+mematuhi suatu kehendak atau peruntukan Akta ini melakukan suatu kesalahan di bawah Akta ini dan, jika tiada penalti diperuntukkan secara nyata, apabila disabitkan boleh didenda tidak lebih daripada lima ratus ribu ringgit atau dipenjarakan selama tempoh tidak lebih daripada lima tahun atau kedua-duanya.
 
 <!-- page 97 -->
 
 (2) Dalam hal suatu kesalahan berterusan pesalah, sebagai tambahan kepada penalti di bawah subseksyen (1), boleh dikenakan denda tidak lebih daripada lima ribu ringgit bagi tiap- tiap hari atau sebahagian daripada sehari selama mana kesalahan tersebut berterusan setelah disabitkan.
 
-Meng-
+<!-- marginal: Meng- -->
 
-124. (1) Pengerusi Suruhanjaya, boleh, dengan kompaun kebenaran bertulis Pendakwa Raya, kesalahan. mengkompaun apa-apa kesalahan yang dilakukan oleh mana-mana orang di bawah Bahagian IV, V atau VII atau apa-apa peraturan yang dibuat di bawahnya, dengan menerima daripada orang yang secara munasabah telah melakukan kesalahan sedemikian satu jumlah wang yang tidak melebihi denda maksimum, (termasuk denda harian dalam hal kesalahan yang berterusan, jika ada) bagi kesalahan tersebut.
+124. (1) Pengerusi Suruhanjaya, boleh, dengan
+
+<!-- marginal: kompaun -->
+
+kebenaran bertulis Pendakwa Raya,
+
+<!-- marginal: kesalahan. -->
+
+mengkompaun apa-apa kesalahan yang dilakukan oleh mana-mana orang di bawah Bahagian IV, V atau VII atau apa-apa peraturan yang dibuat di bawahnya, dengan menerima daripada orang yang secara munasabah telah melakukan kesalahan sedemikian satu jumlah wang yang tidak melebihi denda maksimum, (termasuk denda harian dalam hal kesalahan yang berterusan, jika ada) bagi kesalahan tersebut.
 
 (2) Semasa menerima bayaran di bawah subseksyen (1), tiada prosiding lanjut boleh diambil terhadap orang itu berkenaan dengan kesalahan itu dan jika milikan apa-apa buku, rekod atau dokumen lain atau apa-apa benda lain, telah diambil, buku, rekod, dokumen atau benda itu boleh dilepaskan tertakluk kepada apa- apa syarat yang dikenakan mengikut syarat-syarat pengkompaunan.
 
 (3) Segala wang yang diterima oleh Suruhanjaya di bawah seksyen ini hendaklah dibayar ke dalam dan menjadi sebahagian daripada Kumpulan Wang Persekutuan Disatukan.".
 
-83. Akta ibu adalah dipinda dengan memasukkan selepas baru 126B. seksyen 126A seksyen yang berikut: "Prosiding
+<!-- marginal: Seksyen -->
 
-126B. (1) Bagi maksud seksyen ini— pusat penjelasan "Kaedah-kaedah keingkaran", berhubungan diiktirafkan dengan pusat penjelasan diiktirafkan, ertinya dalam hal peserta kaedah-kaedah yang dibuat di bawah subseksyen menjadi
+83. Akta ibu adalah dipinda dengan memasukkan selepas
 
-(2); tak solven.
+<!-- marginal: baru 126B. -->
+
+seksyen 126A seksyen yang berikut:
+
+<!-- marginal: "Prosiding -->
+
+126B. (1) Bagi maksud seksyen ini—
+
+<!-- marginal: pusat -->
+
+<!-- marginal: penjelasan -->
+
+"Kaedah-kaedah keingkaran", berhubungan
+
+<!-- marginal: diiktirafkan -->
+
+dengan pusat penjelasan diiktirafkan, ertinya
+
+<!-- marginal: dalam hal -->
+
+<!-- marginal: peserta -->
+
+kaedah-kaedah yang dibuat di bawah subseksyen
+
+<!-- marginal: menjadi -->
+
+(2);
+
+<!-- marginal: tak solven. -->
 
 <!-- page 98 -->
 
@@ -2190,7 +3710,11 @@ Meng-
 
 tindakan sedemikian adalah tak konsisten dengan undang-undang berkaitan dengan pembahagian aset seseorarig semasa ketaksolvenan, kebankrapan atau penggulungan, atau semasa perlantikan penerima atas aset orang sedemikian.
 
-(5) Tertakluk kepada subseksyen (6) dan (7), dalam keadaan suatu kemungkiran atau ketaksolvenan suatu peserta suatu pusat penjelasan diiktirafkan yang juga suatu ejen depositori diberikuasa, seorang ejen depositori diberikuasa atau seorang pendeposit Akta 453. (sebagaimana yang ditakrifkan dalam Akta Perindustrian Sekuriti (Depositori Pusat) 1991), apa-apa pemindahan sekuriti daripada akaun sekuriti peserta sedemikian yang dilaksanakan oleh atau melalui depositori pusat sehingga tarikh penggulungan atau petisyen kebankrapan, mengikut mana-mana yang berkenaan, hendaklah berkuatkuasa, walaupun, pemindahan sedemikian adalah tidak sah atas alasan bahawa ia tak konsisten dengan undang-undangnya berkaitan dengan pembahagian aset seseorang semasa ketaksolvenan, kebankrapan atau penggulungan, atau semasa perlantikan penerima terhadap aset orang sedemikian. . .
+(5) Tertakluk kepada subseksyen (6) dan (7), dalam keadaan suatu kemungkiran atau ketaksolvenan suatu peserta suatu pusat penjelasan diiktirafkan yang juga suatu ejen depositori diberikuasa, seorang ejen depositori diberikuasa atau seorang pendeposit
+
+<!-- marginal: Akta 453. -->
+
+(sebagaimana yang ditakrifkan dalam Akta Perindustrian Sekuriti (Depositori Pusat) 1991), apa-apa pemindahan sekuriti daripada akaun sekuriti peserta sedemikian yang dilaksanakan oleh atau melalui depositori pusat sehingga tarikh penggulungan atau petisyen kebankrapan, mengikut mana-mana yang berkenaan, hendaklah berkuatkuasa, walaupun, pemindahan sedemikian adalah tidak sah atas alasan bahawa ia tak konsisten dengan undang-undangnya berkaitan dengan pembahagian aset seseorang semasa ketaksolvenan, kebankrapan atau penggulungan, atau semasa perlantikan penerima terhadap aset orang sedemikian. . .
 
 (6) Subseksyen (5) hendaklah terpakai hanya berkaitan dengan pemindahan yang dilaksanakan oleh depositori pusat berbangkit disebabkan oleh, atau untuk memberi kesan kepada, penyelesaian kontrak pasaran tersebut.
 
@@ -2198,13 +3722,21 @@ tindakan sedemikian adalah tak konsisten dengan undang-undang berkaitan dengan p
 
 <!-- page 100 -->
 
-Penggantian
+<!-- marginal: Penggantian -->
 
-84. Akta ibu adalah dipinda dengan menggantikan seksyen 127. seksyen 127 dengan seksyen yang berikut:
+84. Akta ibu adalah dipinda dengan menggantikan
 
-"Peraturan-
+<!-- marginal: seksyen 127. -->
 
-127. (1) Menteri boleh membuat apa-apa peraturan. peraturan yang—
+seksyen 127 dengan seksyen yang berikut:
+
+<!-- marginal: "Peraturan- -->
+
+127. (1) Menteri boleh membuat apa-apa
+
+<!-- marginal: peraturan. -->
+
+peraturan yang—
 
 (a) diperlukan atau dibenarkan oleh Akta ini untuk ditetapkan melalui peraturan- peraturan;
 
@@ -2256,7 +3788,11 @@ Penggantian
 
 (p) untuk menyediakan bagi dibekalkan kepada Suruhanjaya—
 
-(i) apa-apa maklumat yang seseorang yang kepadanya seksyen 69C dan Akta 125 69D Akta Syarikat 1965 terpakai atau mana-mana orang lain yang dikehendaki membekalkan;
+(i) apa-apa maklumat yang seseorang yang kepadanya seksyen 69C dan
+
+<!-- marginal: Akta 125 -->
+
+69D Akta Syarikat 1965 terpakai atau mana-mana orang lain yang dikehendaki membekalkan;
 
 (ii) apa-apa notis yang seseorang yang kepadanya seksyen 69E, 69F atau 69G Akta itu terpakai dikehendaki memberikan;
 
@@ -2304,7 +3840,11 @@ hendaklah hanya berkuatkuasa setakat yang tidak tak konsistan dengan peraturan y
 
 ## Jadual
 
-85. Akta ibu adalah dipinda dengan memasukkan selepas baru. seksyen 134 Jadual yang berikut:
+85. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru. -->
+
+seksyen 134 Jadual yang berikut:
 
 ## "JADUAL
 
@@ -2346,9 +3886,19 @@ Struktur pegangan syer
 
 4. Struktur pegangan syer peniaga, pengurus kumpulan wang atau penasihat pelaburan, mengikut mana-mana yang berkenaan, adalah menurut polisi ekonomi Malaysia.".
 
-Peruntukan
+<!-- marginal: Peruntukan -->
 
-86. (1) Bagi maksud seksyen ini dan seksyen 87 kecualian dan 88— dan peralihan am. "tarikh berkuatkuasa" ertinya tarikh atau tarikh-tarikh relevan, mengikut mana yang berkenaan, yang ditentukan oleh Menteri di bawah seksyen 1 Akta;
+86. (1) Bagi maksud seksyen ini dan seksyen 87
+
+<!-- marginal: kecualian -->
+
+dan 88—
+
+<!-- marginal: dan peralihan -->
+
+<!-- marginal: am. -->
+
+"tarikh berkuatkuasa" ertinya tarikh atau tarikh-tarikh relevan, mengikut mana yang berkenaan, yang ditentukan oleh Menteri di bawah seksyen 1 Akta;
 
 <!-- page 108 -->
 
@@ -2364,9 +3914,17 @@ Peruntukan
 
 <!-- page 109 -->
 
-Peruntukan
+<!-- marginal: Peruntukan -->
 
-87. (1) Tanpa menghadkan makna seksyen 86, kecualian peruntukan yang berikut hendaklah terpakai. dan peralihan spesifik.
+87. (1) Tanpa menghadkan makna seksyen 86,
+
+<!-- marginal: kecualian -->
+
+peruntukan yang berikut hendaklah terpakai.
+
+<!-- marginal: dan peralihan -->
+
+<!-- marginal: spesifik. -->
 
 (2) Jika—
 
@@ -2428,9 +3986,13 @@ pada mula berkuatkuasanya Akta ini hendaklah disifatkan sebagai telah dibuat den
 
 (15) Suatu tawaran yang dibuat kepada seseorang oleh Pegawai Pelesen di bawah subseksyen 124(1) Akta ibu yang belum diterima sebelum mula berkuatkuasanya Akta ini hendaklah disifatkan sebagai telah dengan wajarnya dibuat oleh Suruhanjaya di bawah subseksyen 124(1) Akta ibu sebagaimana dipinda oleh Akta ini.
 
-Mencegah
+<!-- marginal: Mencegah -->
 
-88. Jika apa-apa kesusahan timbul berkenaan dengan anomali. peruntukan yang diperkenalkan atau dipinda oleh Akta ini atau peruntukan kecualian dan peralihan dalam seksyen 87 dan 88, Menteri boleh, melalui perintah yang disiarkan dalam Warta, membuat ubahsuaian dalam peruntukan itu yang mana pada pandangannya perlu untuk mencegah anomali:
+88. Jika apa-apa kesusahan timbul berkenaan dengan
+
+<!-- marginal: anomali. -->
+
+peruntukan yang diperkenalkan atau dipinda oleh Akta ini atau peruntukan kecualian dan peralihan dalam seksyen 87 dan 88, Menteri boleh, melalui perintah yang disiarkan dalam Warta, membuat ubahsuaian dalam peruntukan itu yang mana pada pandangannya perlu untuk mencegah anomali:
 
 Dengan syarat bahawa Menteri tidaklah boleh menjalankan kuasa yang diberikan oleh seksyen ini selepas luputnya dua tahun dari tarikh mula berkuatkuasanya Akta ini.
 

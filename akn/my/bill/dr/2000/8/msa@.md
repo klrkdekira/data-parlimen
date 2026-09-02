@@ -6,6 +6,8 @@
 
 ## ·PERMULAAN
 
+<!-- marginal: Fasal -->
+
 1. Tajuk ringkas
 
 2. Pindaan Akta
@@ -80,9 +82,7 @@ Permulaan kuat kuasa pindaan kepada Akta Cukai Pendapatan
 
 ### 1967
 
-3.
-
-(1) Pindaan dalam seksyen 5, 6, 7, 8, 11, 12 dan 15 hendaklah berkuat kuasa bagi tahun taksiran 2000 berkenaan dengan tempoh asas yang berakhir pada tahun 2000 (berasaskan tahun semasa) dan tahun-tahun taksiran yang berikutnya.
+3. (1) Pindaan dalam seksyen 5, 6, 7, 8, 11, 12 dan 15 hendaklah berkuat kuasa bagi tahun taksiran 2000 berkenaan dengan tempoh asas yang berakhir pada tahun 2000 (berasaskan tahun semasa) dan tahun-tahun taksiran yang berikutnya.
 
 (2) Pindaan dalam seksyen 4, 9, 10 dan 14 hendaklah mula berkuat kuasa apabila Akta ini mula berkuat kuasa.
 
@@ -134,7 +134,11 @@ Kewangan
 
 (d) dengan memasukkan selepas subseksyen (IB) subseksyen yang berikut:
 
-"(1 e) In the case of an individual resident for the ~.,. basis year for a year of assessment who in that basis r~ year has utilized any amount standing to his credit in the Employees Provident Fund to purchase an insurance policy determined by the Employees Provident Fund Board, there shall be allowed for
+"(1 e) In the case of an individual resident for the ~.,. basis year for a year of assessment who in that basis
+
+<!-- marginal: r~ -->
+
+year has utilized any amount standing to his credit in the Employees Provident Fund to purchase an insurance policy determined by the Employees Provident Fund Board, there shall be allowed for
 
 <!-- marginal: that year of -->
 
@@ -142,7 +146,9 @@ assessment a deduction of one thousand ringgit and where section 50(2) applies t
 
 Provided that where the wife has no total income the total deduction under this subsection shall not exceed one thousand ringgit."; dan
 
-(e) dalam subseksyen (3), dengan menggantikan perkataan 'this section "insurance" and "deferred annuity", in relation to an individual claiming a deduction under subsection (1),' dengan perkataan 'relation to an individual claiming a deduction under subsection (1), "insurance" and "deferred annuity" '.
+(e) dalam subseksyen (3), dengan menggantikan perkataan 'this section "insurance" and "deferred annuity", in relation to an individual claiming a deduction under subsection
+
+(1),' dengan perkataan 'relation to an individual claiming a deduction under subsection (1), "insurance" and "deferred annuity" '.
 
 <!-- page 6 -->
 
@@ -152,7 +158,27 @@ Penggantian seksyen 50
 
 7. Akta ibu dipinda dengan menggantikan seksyen 50 dengan seksyen yang berikut:
 
-"Application 50. (1) Where an individual who is resident for the of section basis year for a year of assessment has a wife living 49 where husband together with him at any time in that basis year, and and wife they did not in that basis year- are living together.
+<!-- marginal: "Application -->
+
+50. (1) Where an individual who is resident for the
+
+<!-- marginal: of section -->
+
+basis year for a year of assessment has a wife living
+
+<!-- marginal: 49 where -->
+
+<!-- marginal: husband -->
+
+together with him at any time in that basis year, and
+
+<!-- marginal: and wife -->
+
+they did not in that basis year-
+
+<!-- marginal: are living -->
+
+<!-- marginal: together. -->
 
 (a) cease to live together; or
 
@@ -298,31 +324,23 @@ Kewangan
 
 <!-- marginal: Rate of Income -->
 
-<!-- marginal: RM -->
+RM
 
 <!-- marginal: Tax -->
 
-For every ringgit of the
-
-<!-- marginal: 10,000 -->
+For every ringgit of the 10,000
 
 <!-- marginal: o per cent -->
 
-first
-
-<!-- marginal: 10,000 -->
+first 10,000
 
 <!-- marginal: 1 per cent -->
 
-For every ringgit of the next For every ringgit of the
-
-<!-- marginal: 10,000 -->
+For every ringgit of the next For every ringgit of the 10,000
 
 <!-- marginal: 4 per cent -->
 
-next
-
-<!-- marginal: 10,000 -->
+next 10,000
 
 <!-- marginal: 7 per cent -->
 
@@ -330,19 +348,11 @@ For every ringgit of the next For every ringgit of the
 
 <!-- marginal: 10 per cent -->
 
-<!-- marginal: 10,000 -->
-
-next
-
-<!-- marginal: 25,000 -->
+10,000 next 25,000
 
 <!-- marginal: 13 per cent -->
 
-For every ringgit of the next
-
-<!-- marginal: 25,000 -->
-
-For every ringgit of the
+For every ringgit of the next 25,000 For every ringgit of the
 
 <!-- marginal: 17 per cent -->
 
@@ -350,13 +360,7 @@ next For every ringgit of the
 
 <!-- marginal: 21 per cent -->
 
-<!-- marginal: 50,000 -->
-
-next
-
-<!-- marginal: 100,000 -->
-
-For every ringgit of the
+50,000 next 100,000 For every ringgit of the
 
 <!-- marginal: 24 per cent -->
 
@@ -364,11 +368,7 @@ next For every ringgit of the
 
 <!-- marginal: 27 per cent -->
 
-<!-- marginal: 250,000 -->
-
-next For every ringgit exceeding
-
-<!-- marginal: 500,000 -->
+250,000 next For every ringgit exceeding 500,000
 
 <!-- marginal: 29 per cent". -->
 
@@ -446,7 +446,9 @@ Rang Undang-Undang
 
 Permulaan kuat kuasa pindaan kepada Akta Petroleum (Cukai Pendapatan) 1967
 
-(1) Kecuali perenggan 18(a), 18(b), 18(c) dan 18(d), pindaan 16. dalam seksyen 17 dan 18 hendaklah berkuat kuasa bagi tahun taksiran 2000 dan tahun-tahun taksiran yang berikutnya.
+(1) Kecuali perenggan 18(a), 18(b), 18(c) dan 18(d), pindaan
+
+16. dalam seksyen 17 dan 18 hendaklah berkuat kuasa bagi tahun taksiran 2000 dan tahun-tahun taksiran yang berikutnya.
 
 (2) Pindaan dalam perenggan 18(a), 18(b), 18(c) dan 18(d) hendaklah disifatkan berkuat kuasa bagi tahun taksiran 1996 dan tahun-tahun taksiran yang berikutnya.
 

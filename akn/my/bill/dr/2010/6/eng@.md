@@ -14,13 +14,31 @@
 
 ## ESTABLISHMENT OF THE COMPETITION COMMISSION
 
-3. Establishment of the Commission 4. Common seal 5. Constitution of the Commission 6. Application of Schedule 7. Statutory declaration by members of the Commission 8. Approval to hold other office 9. Tenure of office 10. Remuneration and allowances 11. Revocation of appointment and resignation 12. Vacation of office 13. Temporary exercise of functions of the Chairman 14. Establishment of Committees 15. Disclosure of interest
+3. Establishment of the Commission 4. Common seal 5. Constitution of the Commission 6. Application of Schedule 7. Statutory declaration by members of the Commission 8. Approval to hold other office 9. Tenure of office
+
+10. Remuneration and allowances
+
+11. Revocation of appointment and resignation
+
+12. Vacation of office
+
+13. Temporary exercise of functions of the Chairman
+
+14. Establishment of Committees
+
+15. Disclosure of interest
 
 ## PART III
 
 ## FUNCTIONS AND POWERS OF THE COMMISSION
 
-16. Functions of the Commission 17. Powers of the Commission 18. Direction by Minister 19. Returns, reports, accounts and information
+16. Functions of the Commission
+
+17. Powers of the Commission
+
+18. Direction by Minister
+
+19. Returns, reports, accounts and information
 
 <!-- page 2 -->
 

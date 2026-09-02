@@ -44,9 +44,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ### Substitution of section 44
 
-4. The principal Act is amended by substituting for section 44 the following section: " Remit-
-
-44. (1) In addition to section 43, an employer or any tance of other person may at any time, with the consent of the funds in connection employee, remit to the Board— with retirement.
+4. The principal Act is amended by substituting for section 44 the following section: " Remit- 44. (1) In addition to section 43, an employer or any tance of other person may at any time, with the consent of the funds in connection employee, remit to the Board— with retirement.
 
 (a) any funds being retirement benefits of the employee; or
 
@@ -110,9 +108,31 @@ Board, by order published in the Gazette, add to, vary or modify the purposes fo
 
 the following section:
 
-6. The principal Act is amended by inserting after section 54B " Withdrawal 54c. (1) Subject to section 56, the Board may authorize by a member of the Fund who is a pensionable employee pensionable employees. and who has not attained the age of fifty-five years and is still employed with the Government of Malaysia, any State Government or any statutory or local authority to withdraw all sums of money standing to his credit upon such terms and conditions as may be prescribed by the Board.
+6. The principal Act is amended by inserting after section 54B "
 
-(2) Notwithstanding subsection (1), the Board may authorize a member of the Fund who is a pensionable employee and who has not attained the age of fifty-five years to withdraw all or part of the sums of money standing to his credit upon any terms and conditions as may be prescribed by the Board if the Board is satisfied that the member of the Fund has been required to retire or has opted for retirement under sections 10, 11, 12 and 12A Act 227 of the Pensions Act 1980 or sections 10, 11, 12 and 13 Act 239. of the Statutory and Local Authorities Pensions Act 1980.
+<!-- marginal: Withdrawal -->
+
+54c. (1) Subject to section 56, the Board may authorize
+
+<!-- marginal: by -->
+
+a member of the Fund who is a pensionable employee
+
+<!-- marginal: pensionable -->
+
+<!-- marginal: employees. -->
+
+and who has not attained the age of fifty-five years and is still employed with the Government of Malaysia, any State Government or any statutory or local authority to withdraw all sums of money standing to his credit upon such terms and conditions as may be prescribed by the Board.
+
+(2) Notwithstanding subsection (1), the Board may authorize a member of the Fund who is a pensionable employee and who has not attained the age of fifty-five years to withdraw all or part of the sums of money standing to his credit upon any terms and conditions as may be prescribed by the Board if the Board is satisfied that the member of the Fund has been required to retire or has opted for retirement under sections 10, 11, 12 and 12A
+
+<!-- marginal: Act 227 -->
+
+of the Pensions Act 1980 or sections 10, 11, 12 and 13
+
+<!-- marginal: Act 239. -->
+
+of the Statutory and Local Authorities Pensions Act 1980.
 
 (3) When a member of the Fund has made a withdrawal under subsection (1) or (2), the member of the Fund shall not be treated as an employee under this Act unless the member of the Fund has not attained the age of fifty-five years and is employed by an employer other than the Government of Malaysia, any State Government or any statutory or local authority.
 
@@ -168,4 +188,6 @@ Employees Provident Fund (Amendment) 7
 
 ## IMPLICATIONS
 
-This Bill will not involve the Government in any extra financial expenditure. LPN(U2)2242]
+This Bill will not involve the Government in any extra financial expenditure.
+
+<!-- marginal: LPN(U2)2242] -->

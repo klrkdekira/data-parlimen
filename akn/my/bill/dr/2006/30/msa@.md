@@ -110,7 +110,9 @@ atau bahawa jaminan telah dikemukakan bagi pembayarannya, maka pernyataan atau p
 
 ### Pindaan seksyen 32
 
-9. Seksyen 32 Akta ibu dipinda dengan menggantikan subseksyen (2) dengan subseksyen yang berikut: ■ -
+9. Seksyen 32 Akta ibu dipinda dengan menggantikan subseksyen
+
+(2) dengan subseksyen yang berikut: ■ -
 
 ### " (2) Semasa ketiadaan Pengerusi atas apa-apa sebab,
 

@@ -4,25 +4,35 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Interpretation 3. Prescription by Minister of additional business or activity 4. Prescription by Bank of additional agreement, dealing or transaction, or person 5. Classification of, and construction of references to, takaful business
 
-## Part II
+## PART II
 
 ## REGULATORY OBJECTIVES AND POWERS AND FUNCTIONS OF BANK
 
 6. Regulatory objectives 7. Powers and functions of Bank
 
-## Part III
+## PART III
 
 ## AUTHORIZATION
 
 Division 1 Authorized business
 
-8. Authorized business to be carried on by authorized person 9. Application for authorization 10. Grant of licence by Minister 11. Approval by Bank 12. Requirements on minimum capital funds or surplus of assets over liabilities 13. Additional conditions of licence or approval 14. Persons approved under Financial Services Act 2012 to carry on Islamic financial business
+8. Authorized business to be carried on by authorized person 9. Application for authorization
+
+10. Grant of licence by Minister
+
+11. Approval by Bank
+
+12. Requirements on minimum capital funds or surplus of assets over liabilities
+
+13. Additional conditions of licence or approval
+
+14. Persons approved under Financial Services Act 2012 to carry on Islamic financial business
 
 <!-- page 2 -->
 
@@ -58,7 +68,7 @@ Division 5 General matters
 
 26. Acting on behalf of unlicensed person
 
-## Part IV
+## PART IV
 
 ## SHARIAH REQUIREMENTS
 
@@ -72,23 +82,51 @@ Division 1 Shariah compliance
 
 <!-- page 3 -->
 
-Division 2 Shariah governance 30. Establishment of Shariah committee 31. Appointment of Shariah committee member 32. Duties of Shariah committee and its members 33. Cessation as member of Shariah committee 34. Notice of cessation as member of Shariah committee 35. Information to be provided to Shariah committee 36. Qualified privilege and duty of confidentiality
+Division 2 Shariah governance
+
+30. Establishment of Shariah committee
+
+31. Appointment of Shariah committee member
+
+32. Duties of Shariah committee and its members
+
+33. Cessation as member of Shariah committee
+
+34. Notice of cessation as member of Shariah committee
+
+35. Information to be provided to Shariah committee
+
+36. Qualified privilege and duty of confidentiality
 
 Division 3 Audit on Shariah compliance
 
-37. Appointment of person by institution to conduct audit on Shariah compliance 38. Appointment of person by Bank to conduct audit on Shariah compliance
+37. Appointment of person by institution to conduct audit on Shariah compliance
 
-## Part V
+38. Appointment of person by Bank to conduct audit on Shariah compliance
+
+## PART V
 
 ## PAYMENT SYSTEMS
 
 Division 1 Designation of payment systems and Islamic payment instruments
 
-39. Designation and revocation of designation of payment systems 40. Operator of designated payment system 41. Designation of Islamic payment instruments
+39. Designation and revocation of designation of payment systems
+
+40. Operator of designated payment system
+
+41. Designation of Islamic payment instruments
 
 Division 2 Requirements for operation of payment systems and issuance of designated Islamic payment instruments
 
-42. Application of this Act on payment systems 43. Power of Bank to specify standards for payment systems 44. Direction to participants of designated payment system 45. Operational arrangements 46. Power of Bank to inspect
+42. Application of this Act on payment systems
+
+43. Power of Bank to specify standards for payment systems
+
+44. Direction to participants of designated payment system
+
+45. Operational arrangements
+
+46. Power of Bank to inspect
 
 <!-- page 4 -->
 
@@ -112,7 +150,7 @@ Division 3 Finality of payment and netting arrangement
 
 55. Requirement to notify in event of insolvency, etc.
 
-## Part VI
+## PART VI
 
 ## PRUDENTIAL REQUIREMENTS
 
@@ -146,19 +184,55 @@ Division 2 Corporate governance
 
 <!-- page 5 -->
 
-68. Disqualifications 69. Fit and proper requirements 70. Cessation from office 71. Notice of cessation from office
+68. Disqualifications
+
+69. Fit and proper requirements
+
+70. Cessation from office
+
+71. Notice of cessation from office
 
 Division 3 Transparency requirements
 
-72. Interpretation 73. Maintenance of accounting records and information 74. Compliance with approved accounting standards 75. Publication of financial statements
+72. Interpretation
+
+73. Maintenance of accounting records and information
+
+74. Compliance with approved accounting standards
+
+75. Publication of financial statements
 
 Division 4 Auditors
 
-76. Appointment of auditor by institution 77. Appointment of auditor by Bank 78. Duties of auditor 79. Notice of cessation as auditor 80. Information to be provided to auditor 81. Reporting obligations of auditor 82. Qualified privilege and duty of confidentiality
+76. Appointment of auditor by institution
+
+77. Appointment of auditor by Bank
+
+78. Duties of auditor
+
+79. Notice of cessation as auditor
+
+80. Information to be provided to auditor
+
+81. Reporting obligations of auditor
+
+82. Qualified privilege and duty of confidentiality
 
 Division 5 Appointed actuaries
 
-83. Appointment of actuary by licensed takaful operator 84. Appointment of actuary by Bank 85. Duties of appointed actuary 86. Cessation as appointed actuary 87. Notice of cessation as appointed actuary 88. Information to be provided to appointed actuary 89. Qualified privilege and duty of confidentiality
+83. Appointment of actuary by licensed takaful operator
+
+84. Appointment of actuary by Bank
+
+85. Duties of appointed actuary
+
+86. Cessation as appointed actuary
+
+87. Notice of cessation as appointed actuary
+
+88. Information to be provided to appointed actuary
+
+89. Qualified privilege and duty of confidentiality
 
 <!-- page 6 -->
 
@@ -214,17 +288,51 @@ Division 2 Action by Bank in event of breach
 
 Division 3 Interest in shares of approved person
 
-108. Interpretation 109. Acquisition of interest in shares of approved person
+108. Interpretation
+
+109. Acquisition of interest in shares of approved person
 
 Division 4 Transfer of business, reconstruction or amalgamation of licensed person
 
-110. Interpretation 111. Approval required for reconstruction or amalgamation of licensed person 112. Approval required for business transfer scheme 113. Notification of business transfer scheme 114. Application to High Court for confirmation of business transfer scheme 115. Bank to be party to proceedings 116. Orders sought by transferor and transferee 117. Publication of court order under section 114 118. Reimbursement of Bank’s expenses 119. Prohibition of payment out of takaful fund
+110. Interpretation
+
+111. Approval required for reconstruction or amalgamation of licensed person
+
+112. Approval required for business transfer scheme
+
+113. Notification of business transfer scheme
+
+114. Application to High Court for confirmation of business transfer scheme
+
+115. Bank to be party to proceedings
+
+116. Orders sought by transferor and transferee
+
+117. Publication of court order under section 114
+
+118. Reimbursement of Bank’s expenses
+
+119. Prohibition of payment out of takaful fund
 
 ## Part VIII
 
 ## FINANCIAL GROUPS
 
-120. Purpose of this Part 121. Disapplication of sections 122 and 123 to licensed persons, and licensed persons and financial holding companies under Financial Services Act 2012 122. Application to be financial holding company 123. Power of Bank to require submission of application 124. Approval of application as financial holding company under section 122 or 123 125. Bank may approve more than one financial holding company 126. Business of financial holding company 127. Prudential requirements on financial holding company and subsidiaries
+120. Purpose of this Part
+
+121. Disapplication of sections 122 and 123 to licensed persons, and licensed persons and financial holding companies under Financial Services Act 2012
+
+122. Application to be financial holding company
+
+123. Power of Bank to require submission of application
+
+124. Approval of application as financial holding company under section 122 or 123
+
+125. Bank may approve more than one financial holding company
+
+126. Business of financial holding company
+
+127. Prudential requirements on financial holding company and subsidiaries
 
 <!-- page 8 -->
 
@@ -238,7 +346,7 @@ Division 4 Transfer of business, reconstruction or amalgamation of licensed pers
 
 132. Power to remove director or chief executive officer of financial holding company
 
-## Part IX
+## PART IX
 
 ## BUSINESS CONDUCT AND CONSUMER PROTECTION
 
@@ -272,29 +380,57 @@ Division 4 Information and secrecy
 
 <!-- page 9 -->
 
-144. Restriction on inquiring specifically into affairs of particular customer 145. Secrecy 146. Permitted disclosures
+144. Restriction on inquiring specifically into affairs of particular customer
+
+145. Secrecy
+
+146. Permitted disclosures
 
 Division 5 Restrictions relating to consumer protection
 
-147. Application of this Division 148. Islamic deposit 149. Restriction on accepting Islamic deposits 150. Advertisements for Islamic deposits 151. Restriction on use of certain words
+147. Application of this Division
 
-## Part X
+148. Islamic deposit
+
+149. Restriction on accepting Islamic deposits
+
+150. Advertisements for Islamic deposits
+
+151. Restriction on use of certain words
+
+## PART X
 
 ## ISLAMIC MONEY MARKET AND ISLAMIC FOREIGN EXCHANGE MARKET
 
-152. Power of Bank to specify standards or issue codes 153. Prohibited conduct in Islamic money market and Islamic foreign exchange market 154. Arrangement with relevant supervisory authority
+152. Power of Bank to specify standards or issue codes
 
-## Part XI
+153. Prohibited conduct in Islamic money market and Islamic foreign exchange market
+
+154. Arrangement with relevant supervisory authority
+
+## PART XI
 
 ## SUBMISSION OF DOCUMENT OR INFORMATION
 
-155. Submission of document or information to Bank 156. Submission of statistical information, etc. 157. Secrecy requirements under sections 155 and 156 not to apply
+155. Submission of document or information to Bank
 
-## Part XII
+156. Submission of statistical information, etc.
+
+157. Secrecy requirements under sections 155 and 156 not to apply
+
+## PART XII
 
 ## EXAMINATION
 
-158. Examination of authorized person, etc. 159. Duty to provide access to, and produce documents, information, etc. 160. Examination of other persons 161. Appearance before Bank 162. Examination or assessment by auditor or actuary, etc.
+158. Examination of authorized person, etc.
+
+159. Duty to provide access to, and produce documents, information, etc.
+
+160. Examination of other persons
+
+161. Appearance before Bank
+
+162. Examination or assessment by auditor or actuary, etc.
 
 <!-- page 10 -->
 
@@ -320,7 +456,7 @@ Division 5 Restrictions relating to consumer protection
 
 171. Additional provisions relating to paragraph 168(2)(b)
 
-## Part XIV
+## PART XIV
 
 ## INTERVENTION AND REMEDIAL ACTION
 
@@ -346,27 +482,59 @@ Subdivision 2 - Assumption of control
 
 <!-- page 11 -->
 
-179. Power to assume control 180. Effect of assumption of control 181. Information and facilities 182. Additional provisions relating to assumption of control
+179. Power to assume control
+
+180. Effect of assumption of control
+
+181. Information and facilities
+
+182. Additional provisions relating to assumption of control
 
 Subdivision 3 - Power to appoint receiver and manager
 
-183. Interpretation 184. Appointment of receiver and manager by Bank 185. Appointment of receiver and manager by persons other than Bank 186. Provisions in relation to appointment of receiver and manager
+183. Interpretation
+
+184. Appointment of receiver and manager by Bank
+
+185. Appointment of receiver and manager by persons other than Bank
+
+186. Provisions in relation to appointment of receiver and manager
 
 Subdivision 4 - Compulsory transfer of business, assets or liabilities
 
-187. Interpretation 188. Order for compulsory transfer of business, assets or liabilities 189. Additional provisions relating to compulsory transfer 190. Continuity obligations
+187. Interpretation
+
+188. Order for compulsory transfer of business, assets or liabilities
+
+189. Additional provisions relating to compulsory transfer
+
+190. Continuity obligations
 
 Subdivision 5 - Provisions relating to bridge institution
 
-191. Designation of bridge institution 192. Publication of notice 193. Bridge institution authorized to carry on business 194. Bridge institution not liable for past obligations in respect of officers 195. Stay in respect of bridge institution 196. Financial assistance to bridge institution
+191. Designation of bridge institution
+
+192. Publication of notice
+
+193. Bridge institution authorized to carry on business
+
+194. Bridge institution not liable for past obligations in respect of officers
+
+195. Stay in respect of bridge institution
+
+196. Financial assistance to bridge institution
 
 Subdivision 6 - Restructuring of share capital
 
-197. Interpretation 198. Power to reduce share capital of institution
+197. Interpretation
+
+198. Power to reduce share capital of institution
 
 Subdivision 7 - Financial assistance
 
-199. Interpretation 200. Liquidity or financial assistance to institution
+199. Interpretation
+
+200. Liquidity or financial assistance to institution
 
 <!-- page 12 -->
 
@@ -422,31 +590,55 @@ Division 4 General provisions in relation to actions taken by Bank
 
 <!-- page 13 -->
 
-220. Qualified financial agreement 221. Assessor Committee
+220. Qualified financial agreement
 
-## Part XV
+221. Assessor Committee
+
+## PART XV
 
 ## OTHER POWERS OF BANK
 
 Division 1 Regulation of prescribed Islamic financial institutions
 
-222. Interpretation 223. Power of Minister to prescribe Islamic financial institutions
+222. Interpretation
+
+223. Power of Minister to prescribe Islamic financial institutions
 
 Division 2 International and domestic transactions
 
-224. Interpretation 225. Measures relating to international and domestic transactions 226. Power of Bank to impose levies or charges 227. Power of Bank, with approval of Minister, to issue directions
+224. Interpretation
+
+225. Measures relating to international and domestic transactions
+
+226. Power of Bank to impose levies or charges
+
+227. Power of Bank, with approval of Minister, to issue directions
 
 Division 3 Holidays for licensed person
 
 228. Power of Minister to declare holiday for licensed person
 
-## Part XVI
+## PART XVI
 
 ## ENFORCEMENT AND PENALTIES
 
 Division 1 Investigation powers
 
-229. Investigation by Bank 230. Appointment of investigating officer 231. Powers of investigating officer 232. Powers of entry, search and seizure with warrant 233. Powers of entry, search and seizure without warrant 234. List of seized property, etc. 235. Release of seized property, etc. 236. Search of person
+229. Investigation by Bank
+
+230. Appointment of investigating officer
+
+231. Powers of investigating officer
+
+232. Powers of entry, search and seizure with warrant
+
+233. Powers of entry, search and seizure without warrant
+
+234. List of seized property, etc.
+
+235. Release of seized property, etc.
+
+236. Search of person
 
 <!-- page 14 -->
 
@@ -506,23 +698,61 @@ Division 4 Criminal offences
 
 <!-- page 15 -->
 
-261. Offence by employees, etc. 262. Seizable offence 263. Duty of investigating officer to make over arrested person to police 264. Power to compound 265. Attempts, abetments and conspiracies 266. Prosecution
+261. Offence by employees, etc.
+
+262. Seizable offence
+
+263. Duty of investigating officer to make over arrested person to police
+
+264. Power to compound
+
+265. Attempts, abetments and conspiracies
+
+266. Prosecution
 
 Division 5 General matters
 
-267. Protection in relation to disclosure of information to Bank 268. Evidential provision 269. Power of Bank to publish information
+267. Protection in relation to disclosure of information to Bank
+
+268. Evidential provision
+
+269. Power of Bank to publish information
 
 ## Part XVII
 
 ## GENERAL PROVISIONS
 
-270. Enforceable undertakings 271. Regulations 272. Provisions relating to approvals, consents, specifications, notices, requirements, directions, standards, codes or measures 273. Opportunity to make representations 274. Exemptions 275. Power of Minister to amend Schedule 276. Decision of Minister to be final 277. Power of Bank to issue guidance 278. Protection against suits and legal proceedings 279. Application of Companies Act 1965 280. Application of certain provisions of Act to Labuan entities 281. Breach or contravention not to affect contract, agreement or arrangement
+270. Enforceable undertakings
+
+271. Regulations
+
+272. Provisions relating to approvals, consents, specifications, notices, requirements, directions, standards, codes or measures
+
+273. Opportunity to make representations
+
+274. Exemptions
+
+275. Power of Minister to amend Schedule
+
+276. Decision of Minister to be final
+
+277. Power of Bank to issue guidance
+
+278. Protection against suits and legal proceedings
+
+279. Application of Companies Act 1965
+
+280. Application of certain provisions of Act to Labuan entities
+
+281. Breach or contravention not to affect contract, agreement or arrangement
 
 ## Part XVIII
 
 ## REPEAL, SAVINGS AND TRANSITIONAL
 
-282. Repeal 283. Savings and transitional
+282. Repeal
+
+283. Savings and transitional
 
 <!-- page 16 -->
 
@@ -542,13 +772,37 @@ Division 5 General matters
 
 291. Savings in respect of Islamic deposits accepted by co-operative societies
 
-## Schedule 1
+## SCHEDULE 1
 
-S chedule 2 S chedule 3 S chedule 4 S chedule 5 S chedule 6
+## S CHEDULE 2
 
-## Schedule 7
+## S CHEDULE 3
 
-S chedule 8 S chedule 9 S chedule 10 S chedule 11 S chedule 12 S chedule 13 S chedule 14 S chedule 15 S chedule 16
+## S CHEDULE 4
+
+## S CHEDULE 5
+
+## S CHEDULE 6
+
+## SCHEDULE 7
+
+## S CHEDULE 8
+
+## S CHEDULE 9
+
+## S CHEDULE 10
+
+## S CHEDULE 11
+
+## S CHEDULE 12
+
+## S CHEDULE 13
+
+## S CHEDULE 14
+
+## S CHEDULE 15
+
+## S CHEDULE 16
 
 <!-- page 17 -->
 
@@ -560,7 +814,7 @@ An Act to provide for the regulation and supervision of Islamic financial instit
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -1078,13 +1332,17 @@ Control
 
 (iii) is a person in accordance with whose directions, instructions or wishes the directors, chief executive officer or senior officers of the licensed person or corporation are accustomed or under obligation, whether formal or informal, to act,
 
-and the phrase “controlled” or “controller” shall be construed accordingly.
+and the phrase “controlled” or “controller” shall be construed
+
+<!-- marginal: accordingly. -->
 
 Acting in concert
 
 (4) For the purposes of this Act—
 
-(a) “persons acting in concert” means persons who, pursuant to an agreement, arrangement or understanding, co-operate to—
+(a) “persons acting in concert” means persons who, pursuant to an agreement, arrangement or understanding, co-operate
+
+<!-- marginal: to— -->
 
 (i) acquire jointly or severally interests in the shares of a corporation for the purpose of obtaining or consolidating control of that corporation; or
 
@@ -1234,7 +1492,7 @@ but, subject to paragraph (c), does not include the carrying on of such activity
 
 <!-- page 43 -->
 
-## Part II
+## PART II
 
 ## REGULATORY OBJECTIVES AND POWERS AND
 
@@ -1278,7 +1536,7 @@ but, subject to paragraph (c), does not include the carrying on of such activity
 
 as may be specified by the Bank.
 
-## Part III
+## PART III
 
 ## AUTHORIZATION
 
@@ -1510,11 +1768,7 @@ regardless that there has been no prosecution or other action in respect of such
 
 <!-- page 53 -->
 
-(g) the Bank, pursuant to the exercise of its powers under
-
-## Part XIV relating to such person, has substantially
-
-completed all the transfer of business, assets or liabilities of the person;
+(g) the Bank, pursuant to the exercise of its powers under Part XIV relating to such person, has substantially completed all the transfer of business, assets or liabilities of the person;
 
 (h) the person has been wound-up or otherwise dissolved; or
 
@@ -1652,7 +1906,7 @@ of such amount, or calculated at such rate or in such manner as set out in the r
 
 <!-- page 58 -->
 
-## Part IV
+## PART IV
 
 ## SHARIAH REQUIREMENTS
 
@@ -1850,7 +2104,7 @@ and the remuneration and expenses relating to such appointment shall be borne by
 
 (3) A person appointed under subsection (1) shall not be liable for a breach of duty of confidentiality between such person and the institution in respect of matters reported to the Bank pursuant to an audit on Shariah compliance under this section.
 
-## Part V
+## PART V
 
 ## PAYMENT SYSTEMS
 
@@ -2108,7 +2362,7 @@ such participant shall immediately notify the operator who shall notify the othe
 
 (3) Any person who contravenes subsection (1) or (2) commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding eight years or to a fine not exceeding twenty-five million ringgit or to both.
 
-## Part VI
+## PART VI
 
 ## PRUDENTIAL REQUIREMENTS
 
@@ -2654,7 +2908,7 @@ without the prior written approval of the Bank.
 
 (2) The Bank may specify what constitutes “material interest” for the purposes of paragraph (1)(b).
 
-## Part VII
+## PART VII
 
 ## OWNERSHIP, CONTROL AND TRANSFER OF BUSINESS
 
@@ -3226,7 +3480,7 @@ or issued by the Bank under any provision of this Act applied to it under this s
 
 (3) Notwithstanding anything contained in any contract of service or any other agreement relating to his appointment, the removal of the director or chief executive officer under subsection (1) shall not entitle him to claim any compensation for such removal.
 
-## Part IX
+## PART IX
 
 ## BUSINESS CONDUCT AND CONSUMER PROTECTION
 
@@ -3586,7 +3840,7 @@ capable of being construed as indicating thecarrying on of any of the authorized
 
 (3) Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding eight years or to a fine not exceeding twenty- five million ringgit or to both.
 
-## Part X
+## PART X
 
 ISLAMIC MONEy MARKET AND ISLAMIC FOREIGN EXCHANGE
 
@@ -3654,7 +3908,7 @@ any conduct set out in subsection (1).
 
 (2) For the purposes of this section, “relevant supervisory authorities” means any authority, body or agency in Malaysia other than the Bank which is responsible for the supervision or oversight of the capital market, or capital market intermediaries or capital market participants.
 
-## Part XI
+## PART XI
 
 ## SUBMISSION OF DOCUMENT OR INFORMATION
 
@@ -3736,7 +3990,7 @@ by such person or in such manner as may be specified by the Bank, including an a
 
 (d) for the purposes of prosecuting any person for any offence under any written law.
 
-## Part XII
+## PART XII
 
 ## EXAMINATION
 
@@ -3964,7 +4218,7 @@ if the Bank considers it necessary that the document or information be disclosed
 
 (3) Where a member of the licensed person does not subscribe to the shares or other capital instruments within the period specified in the notice given by the licensed person pursuant to subsection (2), the Bank may issue a further direction pursuant to subsection 168(1) to the licensed person requiring the licensed person to allot the shares or other capital instruments to a person determined by the Bank.
 
-## Part XIV
+## PART XIV
 
 ## INTERVENTION AND REMEDIAL ACTION
 
@@ -4650,7 +4904,7 @@ may, within twenty-one days from the date of such sale, disposal or transfer, ap
 
 (9) A decision of the Assessor Committee is final and binding on the parties to the appeal.
 
-## Part XV
+## PART XV
 
 ## OTHER POWERS OF BANK
 
@@ -4714,7 +4968,9 @@ if such person, in the opinion of the Bank, poses or is likely to pose a risk to
 
 (b) on the recommendation by the Bank, in any other case.
 
-(6) A prescribed Islamic financial institution which contravenes any provision of this Act or any standards, notice, direction, condition, specification or requirement specified or issued by the Bank under any provision of this Act applied to it under subsection (1) commits an offence under such provision and shall be liable to the same penalty applicable to a licensed person convicted of an offence under such provision and if no offence is provided for such contravention, the prescribed Islamic financial institution commits a breach and the Bank may take an action under paragraph 245(3)(b) in addition to other enforcement actions that the Bank is empowered to take under this Act.
+(6) A prescribed Islamic financial institution which contravenes any provision of this Act or any standards, notice, direction, condition, specification or requirement specified or issued by the Bank under any provision of this Act applied to it under subsection
+
+(1) commits an offence under such provision and shall be liable to the same penalty applicable to a licensed person convicted of an offence under such provision and if no offence is provided for such contravention, the prescribed Islamic financial institution commits a breach and the Bank may take an action under paragraph 245(3)(b) in addition to other enforcement actions that the Bank is empowered to take under this Act.
 
 (7) This section shall not apply to—
 
@@ -4866,7 +5122,9 @@ International and domestic transactions
 
 (9) Except for paragraph 7 in Schedule 14, any person who contravenes subsection (2) or fails to comply with any requirement, restriction or condition imposed under a written approval granted under subsection (2) or any direction issued under subsection (6) commits an offence under this Act and shall, on conviction, be liable to imprisonment for a term not exceeding ten years or to a fine not exceeding fifty million ringgit or to both.
 
-(10) Any ringgit, foreign currency, gold, other precious metals, Islamic security or Islamic financial instrument or any other article which is subject to a prohibition under subsection (2) in respect of the transactions in paragraph 7 of Schedule 14 shall be deemed to be prohibited goods under the Customs Act 1967 [Act 235] and any person who fails to comply with such prohibition or any requirement, restriction or condition imposed under a written approval granted under subsection (2) commits an offence under that Act and shall, on conviction, be liable to the penalty provided in that Act.
+(10) Any ringgit, foreign currency, gold, other precious metals, Islamic security or Islamic financial instrument or any other article which is subject to a prohibition under subsection
+
+(2) in respect of the transactions in paragraph 7 of Schedule 14 shall be deemed to be prohibited goods under the Customs Act 1967 [Act 235] and any person who fails to comply with such prohibition or any requirement, restriction or condition imposed under a written approval granted under subsection (2) commits an offence under that Act and shall, on conviction, be liable to the penalty provided in that Act.
 
 ### Power of Bank to impose levies or charges
 
@@ -4924,7 +5182,7 @@ and the obligation to make the payment or to do the act shall be deemed to be an
 
 (b) affect any right, obligation or liability arising under such agreement, transaction or arrangement.
 
-## Part XVI
+## PART XVI
 
 ## ENFORCEMENT AND PENALTIES
 
@@ -5990,13 +6248,13 @@ under and in accordance with this Act, and any right or liability under the tran
 
 <!-- page 230 -->
 
-## Schedule 1
+## SCHEDULE 1
 
 [Subsection 2(1), sections 10 and 11]
 
 ## APPROVED BUSINESS
 
-## Part 1
+## PART 1
 
 Businesses which require approval
 
@@ -6012,7 +6270,7 @@ Businesses which require approval
 
 4. Islamic financial advisory business.
 
-## Part 2
+## PART 2
 
 Persons who do not require approval for Islamic financial advisory business
 
@@ -6022,13 +6280,13 @@ Persons who do not require approval for Islamic financial advisory business
 
 7. A company registered under the Trust Companies Act 1949 [Act 100].
 
-## Schedule 2
+## SCHEDULE 2
 
 [Paragraphs 2(1)(iv) and 148(iv)]
 
 ## OTHER EXCLUSIONS FROM DEFINITION OF “ISLAMIC DEPOSIT”
 
-## Part 1
+## PART 1
 
 Money paid by any person to—
 
@@ -6052,9 +6310,7 @@ Money paid by any person to—
 
 (h) another person, in relation to any issue of, offer for subscription or purchase of, or invitation to subscribe for or purchase, Islamic securities in accordance with the Capital Markets and Services Act 2007;
 
-(i) another person who issues or offers to the public for subscription or purchase, or invites the public to subscribe for or purchase, any interest under an approved deed in accordance with Division 5 of
-
-## Part IV of the Companies Act 1965;
+(i) another person who issues or offers to the public for subscription or purchase, or invites the public to subscribe for or purchase, any interest under an approved deed in accordance with Division 5 of Part IV of the Companies Act 1965;
 
 (j) an approved issuer of a designated Islamic payment instrument, or an approved issuer of a designated payment instrument approved under subsection 15(1) of the Financial Services Act 2012, issuing electronic money in the course of carrying on its authorized business;
 
@@ -6062,7 +6318,7 @@ Money paid by any person to—
 
 (l) another person, where both persons are individuals, in the course of customary, social, friendly or family relationship and the total number of such individuals who make the payments to the other person does not at any time exceed ten.
 
-## Part 2
+## PART 2
 
 Money paid to any person, other than a licensed Islamic bank, by—
 
@@ -6088,11 +6344,11 @@ Money paid to any person, other than a licensed Islamic bank, by—
 
 (j) its related or associate corporations.
 
-## Part 3
+## PART 3
 
 Money paid by a licensed Islamic bank, to any person in the course of buying or borrowing Islamic securities from that person where the Islamic securities will be repurchased or returned as part of the same transaction.
 
-## Schedule 3
+## SCHEDULE 3
 
 [Subsection 2(1)]
 
@@ -6116,11 +6372,7 @@ Money paid by a licensed Islamic bank, to any person in the course of buying or 
 
 3. The effective interest in shares of a person in a body corporate X in the series of body corporates referred to in paragraph 2 shall be derived by multiplying the percentage of his direct interest in the first level body corporate in the series and the direct interest of each subsequent level body corporate down to the direct interest in shares held by the preceding body corporate, in that body corporate X as follows:
 
-EFx = DI1 x DI2 x
-
-<!-- marginal: DI3 -->
-
-...
+EFx = DI1 x DI2 x DI3 ...
 
 <!-- marginal: x -->
 
@@ -6196,7 +6448,7 @@ holds, or any two or more of the persons mentioned in paragraphs (a), (b) and (c
 
 13. Paragraphs 8 to 12 shall not by any implication limit the generality of paragraph 7.
 
-## Schedule 4
+## SCHEDULE 4
 
 [Paragraph 5(5)(c)]
 
@@ -6218,7 +6470,7 @@ holds, or any two or more of the persons mentioned in paragraphs (a), (b) and (c
 
 <!-- page 236 -->
 
-## Schedule 5
+## SCHEDULE 5
 
 [Sections 10 and 11]
 
@@ -6226,7 +6478,7 @@ holds, or any two or more of the persons mentioned in paragraphs (a), (b) and (c
 
 ## UNDER SECTION 10 OR APPROVAL UNDER SECTION 11
 
-## Part 1
+## PART 1
 
 1. The aims and operation of the business which is desired to be carried on by the person to be authorized will not involve any element which is contrary to Shariah.
 
@@ -6252,13 +6504,13 @@ holds, or any two or more of the persons mentioned in paragraphs (a), (b) and (c
 
 (d) the degree and significance of participation of Malaysians in the financial sector.
 
-## Part 2
+## PART 2
 
 9. Whether the nature, scale and activities of the corporate group of the applicant applying for a licence will impede the effective regulation and supervision of the person to be licensed, including having regard to the nature and degree of regulation and supervision of any financial institution within that corporate group.
 
 <!-- page 237 -->
 
-## Schedule 6
+## SCHEDULE 6
 
 [Subsections 102(2), 103(1) and 124(2)]
 
@@ -6284,7 +6536,7 @@ FACTORS FOR CONSIDERATION IN ASSESSING SHAREHOLDER SUITABILITy
 
 (d) the degree and significance of participation of Malaysians in the financial sector.
 
-## Schedule 7
+## SCHEDULE 7
 
 [Subsection 136(1)]
 
@@ -6310,7 +6562,7 @@ FACTORS FOR CONSIDERATION IN ASSESSING SHAREHOLDER SUITABILITy
 
 6. Colluding with any other person to fix or control the features or terms of any financial service or product to the detriment of any financial consumer, except for any tariff or takaful contribution rates or takaful certificate terms which have been approved by the Bank.
 
-## Schedule 8
+## SCHEDULE 8
 
 [Section 140]
 
@@ -6340,7 +6592,9 @@ Paragraph 1. Misstatement of age 2. Objection to family takaful certificate 3. P
 
 (4) Where the period of coverage of a family takaful certificate is calculated by reference to the age of the person covered, and such age is not the true age of the person covered as shown by the proof, the licensed family takaful operator may instead of, or in addition to, effecting subparagraph (2) or (3) as the case may be, vary the family takaful certificate by changing its period of coverage to the period that would have been the period of coverage if the family takaful certificate had been based on the true age of the person covered.
 
-(5) Nothing in this paragraph shall prevent the licensed family takaful operator from calling for proof of age at any time and no family takaful certificate shall be deemed to be disputed merely because the terms of the family takaful certificate are adjusted in accordance with subparagraph (2), (3) or (4).
+(5) Nothing in this paragraph shall prevent the licensed family takaful operator from calling for proof of age at any time and no family takaful certificate shall be deemed to be disputed merely because the terms of the family takaful certificate are adjusted in accordance with subparagraph (2),
+
+(3) or (4).
 
 <!-- page 240 -->
 
@@ -6564,7 +6818,7 @@ and is as competent in all respects to have and exercise the powers and privileg
 
 12. A licensed general takaful operator shall pay directly to a takaful participant any refund of takaful contribution in relation to a takaful certificate which may become due to the takaful participant for any reason including the cancellation of the takaful certificate or alteration in its terms and conditions and such refund shall under no circumstances be paid or credited to any takaful agent.
 
-## Schedule 9
+## SCHEDULE 9
 
 [Section 141]
 
@@ -6572,7 +6826,7 @@ and is as competent in all respects to have and exercise the powers and privileg
 
 ## AND REMEDIES FOR MISREPRESENTATIONS
 
-## Part 1
+## PART 1
 
 Preliminary
 
@@ -6594,7 +6848,7 @@ Pre-contractual disclosure and representations
 
 12. Knowledge of, and statement by takaful agent
 
-## Part 3
+## PART 3
 
 Non-contestability and remedies for misrepresentations
 
@@ -6618,7 +6872,7 @@ Division 3 – Modifications for group takaful certificates
 
 19. Modifications for group takaful certificates
 
-## Part 1
+## PART 1
 
 Preliminary
 
@@ -6654,7 +6908,7 @@ Preliminary
 
 (3) This paragraph does not apply in relation to a contract for the settlement of a claim arising under a consumer takaful contract.
 
-## Part 2
+## PART 2
 
 Pre-contractual disclosure and representations
 
@@ -6820,7 +7074,7 @@ Pre-contractual disclosure and representations
 
 (b) where a person has ceased to be a takaful agent of a licensed takaful operator and the licensed takaful operator has taken all reasonable steps to inform, or bring to the knowledge of takaful participants of the fact of such cessation.
 
-## Part 3
+## PART 3
 
 Non-contestability and remedies for misrepresentations Division 1—Non-contestability
 
@@ -6906,7 +7160,7 @@ Division 3 Modifications for group takaful certificates
 
 (d) in respect of the cover for the person covered, the right to terminate his cover wherever referred to in Division 2, shall be that of the group takaful participant.
 
-## Schedule 10
+## SCHEDULE 10
 
 [Section 142]
 
@@ -7072,15 +7326,13 @@ the person named therein as the lawful executor or administrator provided that t
 
 <!-- page 265 -->
 
-## Schedule 11
+## SCHEDULE 11
 
 [Subsection 146(1)]
 
 ## PERMITTED DISCLOSURES
 
-First column
-
-<!-- marginal: Second column -->
+First column Second column
 
 Purposes for or circumstances Persons to whom documents or in which customer documents or information may be disclosed information may be disclosed
 
@@ -7118,13 +7370,13 @@ Purposes for or circumstances Persons to whom documents or in which customer doc
 
 <!-- page 267 -->
 
-First column
-
-<!-- marginal: Second column -->
+First column Second column
 
 Purposes for or circumstances Persons to whom documents or in which customer documents or information may be disclosed information may be disclosed
 
-11. Disclosure of credit information Any officer of credit reporting agency of a customer to a credit reporting authorized to receive the documents agency registered under the Credit or information. Reporting Agencies Act 2010 [Act 710] for purposes of carrying on credit reporting business as defined in the Credit Reporting Agencies Act 2010.
+11. Disclosure of credit information Any officer of credit reporting agency of a customer to a credit reporting authorized to receive the documents agency registered under the Credit or information. Reporting Agencies Act 2010 [Act 710] for purposes of carrying on credit reporting business as defined in the Credit Reporting Agencies Act
+
+2010.
 
 12. Performance of any supervisory Any officer of the relevant authority functions, exercise any of supervisory authorized to receive the documents powers or discharge any of supervisory or information. duties by a relevant authority outside Malaysia which exercises functions corresponding to those of the Bank under this Act.
 
@@ -7150,19 +7402,19 @@ Purposes for or circumstances Persons to whom documents or in which customer doc
 
 17. An Islamic financial institution Any officer of another Islamic financial has reason to suspect that an offence institution or the relevant associations under any written law has been, is of Islamic financial institutions being or may be committed. authorized to receive the documents or information.
 
-## Schedule 12
+## SCHEDULE 12
 
 [Subsection 151(2)]
 
 ## RESTRICTION ON USE OF CERTAIN WORDS
 
-## Part 1
+## PART 1
 
 Islamic bank
 
 1. An association of licensed Islamic banks or association of employees of any such licensed Islamic banks.
 
-## Part 2
+## PART 2
 
 Takaful, Islamic insurance or Islamic assurance
 
@@ -7172,7 +7424,7 @@ Takaful, Islamic insurance or Islamic assurance
 
 4. A takaful agent registered with any association of licensed takaful operators.
 
-## Part 3
+## PART 3
 
 Islamic financial adviser
 
@@ -7192,7 +7444,7 @@ Islamic financial adviser
 
 11. An association of approved financial advisers or association of employees of any such approved persons.
 
-## Schedule 13
+## SCHEDULE 13
 
 [Subsection 189(1)]
 
@@ -7212,7 +7464,7 @@ The Third Schedule of the Central Bank of Malaysia Act 2009 shall apply in relat
 
 6. Paragraph 5 of the Third Schedule is not applicable for the purposes of this subdivision.
 
-## Schedule 14
+## SCHEDULE 14
 
 [Subsection 225(2)]
 
@@ -7284,7 +7536,7 @@ other than—
 
 9. The doing or refraining from doing any act by any person in Malaysia, who has a right to receive an amount of ringgit or foreign currency, which would to lead or result in the delay or the non-receipt of the amount, in whole or in part.
 
-## Schedule 15
+## SCHEDULE 15
 
 [Paragraph 245(3)(b)]
 
@@ -7294,11 +7546,143 @@ A monetary penalty may be imposed in respect of a breach or non-compliance compl
 
 <!-- page 272 -->
 
-9. subsection 35(1) or (2); 10. subsection 37(1) or (2); 11. subsection 38(2); 12. subsection 43(2); 13. section 44; 14. subsection 45(1), (2) or (3); 15. subsection 58(1) or (2); 16. subsection 59(1); 17. subsection 60(1); 18. section 61; 19. subsection 63(1), (2), (3) or (4); 20. subsection 64(1), (2) or (3); 21. subsection 65(1), (2) or (3); 22. paragraph 66(1)(a), (b) or (d); 23. subsection 67(1), (2), (3) or (4); 24. subsection 68(2); 25. subsection 69(1); 26. subsection 70(1) or (2); 27. section 71; 28. section 73; 29. subsection 74(1); 30. subsection 75(1) or (2); 31. subsection 76(1), (2) or (3); 32. subsection 78(1) or (3); 33. section 79; 34. section 80; 35. section 81; 36. subsection 83(1), (2), (3), or (4); 37. section 85; 38. paragraph 86(c); 39. subsection 87(1) or (2); 40. section 88; 41. section 90; 42. section 91; 43. subsection 92(1) or (3);
+9. subsection 35(1) or (2);
+
+10. subsection 37(1) or (2);
+
+11. subsection 38(2);
+
+12. subsection 43(2);
+
+13. section 44;
+
+14. subsection 45(1), (2) or (3);
+
+15. subsection 58(1) or (2);
+
+16. subsection 59(1);
+
+17. subsection 60(1);
+
+18. section 61;
+
+19. subsection 63(1), (2), (3) or (4);
+
+20. subsection 64(1), (2) or (3);
+
+21. subsection 65(1), (2) or (3);
+
+22. paragraph 66(1)(a), (b) or (d);
+
+23. subsection 67(1), (2), (3) or (4);
+
+24. subsection 68(2);
+
+25. subsection 69(1);
+
+26. subsection 70(1) or (2);
+
+27. section 71;
+
+28. section 73;
+
+29. subsection 74(1);
+
+30. subsection 75(1) or (2);
+
+31. subsection 76(1), (2) or (3);
+
+32. subsection 78(1) or (3);
+
+33. section 79;
+
+34. section 80;
+
+35. section 81;
+
+36. subsection 83(1), (2), (3), or (4);
+
+37. section 85;
+
+38. paragraph 86(c);
+
+39. subsection 87(1) or (2);
+
+40. section 88;
+
+41. section 90;
+
+42. section 91;
+
+43. subsection 92(1) or (3);
 
 <!-- page 273 -->
 
-44. subsection 93(1); 45. section 94; 46. section 95; 47. subsection 96(1); 48. subsection 97(1); 49. subsection 99(1) or (2); 50. subsection 100(1); 51. section 101; 52. subsection 102(3), (7) or (10); 53. subsection 103(2); 54. subsection 104(1); 55. subsection 105(1); 56. subsection 106(6); 57. subsection 109(1), (2), (4), (5) or (6); 58. section 111; 59. subsection 112(1), (2), (3) or (6); 60. subsection 113(1) or (2); 61. subsection 115(1); 62. subsection 117(1) or (2); 63. section 119; 64. subsection 122(1) or (3); 65. section 123; 66. subsection 124(1), (3) or (4); 67. subsection 126(1) or (2); 68. subsection 127(4); 69. subsection 135(1); 70. subsection 137(1); 71. subsection 138(4); 72. subsection 139(1) or (3); 73. subsection 152(4); 74. subsection 155(1) or (2), paragraph 155(3)(b), or subsection 155(4) or (6); 75. subsection 156(1); 76. subsection 162(1);
+44. subsection 93(1);
+
+45. section 94;
+
+46. section 95;
+
+47. subsection 96(1);
+
+48. subsection 97(1);
+
+49. subsection 99(1) or (2);
+
+50. subsection 100(1);
+
+51. section 101;
+
+52. subsection 102(3), (7) or (10);
+
+53. subsection 103(2);
+
+54. subsection 104(1);
+
+55. subsection 105(1);
+
+56. subsection 106(6);
+
+57. subsection 109(1), (2), (4), (5) or (6);
+
+58. section 111;
+
+59. subsection 112(1), (2), (3) or (6);
+
+60. subsection 113(1) or (2);
+
+61. subsection 115(1);
+
+62. subsection 117(1) or (2);
+
+63. section 119;
+
+64. subsection 122(1) or (3);
+
+65. section 123;
+
+66. subsection 124(1), (3) or (4);
+
+67. subsection 126(1) or (2);
+
+68. subsection 127(4);
+
+69. subsection 135(1);
+
+70. subsection 137(1);
+
+71. subsection 138(4);
+
+72. subsection 139(1) or (3);
+
+73. subsection 152(4);
+
+74. subsection 155(1) or (2), paragraph 155(3)(b), or subsection 155(4) or (6);
+
+75. subsection 156(1);
+
+76. subsection 162(1);
 
 <!-- page 274 -->
 
@@ -7312,7 +7696,7 @@ subsection 228(2);
 
 81. any requirement imposed on a licensed takaful operator in Schedules 8, 9 and 10, except for paragraph 11 of Schedule 9.
 
-## Schedule 16
+## SCHEDULE 16
 
 [Section 283]
 
@@ -7340,7 +7724,7 @@ subsection 228(2);
 
 This Bill (“the proposed Act”) seeks to consolidate the Islamic Banking Act 1983 [Act 276] and the Takaful Act 1984 [Act 312] and to provide for matters incidental thereto and connected therewith.
 
-## Part I
+## PART I
 
 2. Part I seeks to provide for preliminary matters.
 
@@ -7356,7 +7740,7 @@ Clause 4 seeks to empower the Bank, with the concurrence of the Minister, to pre
 
 Clause 5 seeks to provide for the classification of takaful business into family takaful business and general takaful business. This clause also seeks to provide what would constitute the carrying on of takaful business as well as empowers the Minister, on the recommendation of the Bank, to prescribe a business or activity as takaful business and that the businesses set out in Schedule 4 are not to be treated as takaful business for the purpose of the proposed Act.
 
-## Part II
+## PART II
 
 3. Part II contains provisions relating to the regulatory objectives of the proposed Act.
 
@@ -7364,7 +7748,7 @@ Clause 6 seeks to state the principal regulatory objectives of the proposed Act 
 
 Clause 7 seeks to provide that the Bank shall exercise its powers and perform its functions in a way which it considers most appropriate provided for it by the proposed Act. This clause also seeks to empower the Bank to authorize its Deputy Governor, an officer of the Bank or any other person to exercise its powers or perform its functions under the proposed Act. Additionally, the Bank shall keep the Minister informed on matters relating to the exercise of its powers and performance of its functions under the proposed Act.
 
-## Part III
+## PART III
 
 4. Part III contains provisions relating to the authorization of licensed and approved businesses.
 
@@ -7422,7 +7806,7 @@ Clause 25 seeks to prohibit any person from holding himself out as an authorized
 
 Clause 26 seeks to prohibit any person from acting on behalf of a foreign institution or any unlicensed person in relation to carrying on of any licensed businesses or acceptance of Islamic deposits unless the Bank approves otherwise.
 
-## Part IV
+## PART IV
 
 5. Part IV contains provisions relating to requirements on compliance with Shariah.
 
@@ -7462,7 +7846,7 @@ Clause 37 empowers the Bank to require an institution to appoint any person as t
 
 Clause 38 empowers the Bank to appoint for an institution any person to conduct an audit on Shariah compliance on that institution and the remuneration and expenses of that person shall be borne by the institution.
 
-## Part V
+## PART V
 
 6. Part V contains provisions relating to payment systems.
 
@@ -7518,13 +7902,9 @@ Clause 54 seeks to prevent a court from giving effect to an insolvency order of 
 
 Clause 55 seeks to require an operator of a certified designated payment system to notify the participants of the certified designated payment system if it is insolvent, likely to become insolvent, has become or is likely to become unable to meet any or all of his obligations or has suspended payments or compounded with his creditors. This clause also seeks to require a participant of a certified designated payment system to notify the operator of the certified designated payment system if he is insolvent, likely to become insolvent, has become or is likely to become unable to meet any or all of his obligations or has suspended payments or compounded with his creditors and the operator shall notify the other participants.
 
-## Part VI
+## PART VI
 
-7.
-
-## Part VI contains provisions relating to prudential requirements,
-
-appointment of auditors and actuaries and establishment of subsidiaries.
+7. Part VI contains provisions relating to prudential requirements, appointment of auditors and actuaries and establishment of subsidiaries.
 
 Clause 56 provides that the term “institution” for the purposes of Divisions 1, 2, 3 and 4 of this Part refers to an authorized person and operator of a designated payment system.
 
@@ -7640,7 +8020,7 @@ Division 7
 
 Clause 97 prohibits an authorized person from establishing or acquiring any subsidiary in or outside Malaysia or from acquiring or holding any material interest in any corporation unless such person has obtained the prior written approval of the Bank. The Bank is empowered to specify what constitute “material interest” for the purpose of this clause.
 
-## Part VII
+## PART VII
 
 8. Part VII deals with ownership, control and business transfer scheme of a licensed person and certain approved person.
 
@@ -7768,7 +8148,7 @@ Clause 131 are additional provisions flowing from paragraph 128(3)(e) which set 
 
 Clause 132 seeks to empower the Bank to remove a director or chief executive officer of a financial holding company if certain circumstances are triggered.
 
-## Part IX
+## PART IX
 
 10. Part IX deals with requirements and prohibitions in relation to business conduct and consumer protection.
 
@@ -7826,7 +8206,7 @@ Clause 150 seeks to restrict any person, except for a licensed Islamic bank to i
 
 Clause 151 seeks to restrict any person from using certain words such as “Islamic bank”, “takaful”, “Islamic insurance”, etc. or any derivative of these words or any words in any language, where the use of such words are capable of being construed as indicating the carrying on of an authorized business, or making any representation to such effect except with the prior written approval of the Bank. This clause also provides for the restriction not to apply in certain cases.
 
-## Part X
+## PART X
 
 11. Part X deals with requirements and prohibited conduct in the Islamic money market and Islamic foreign exchange market.
 
@@ -7836,13 +8216,9 @@ Clause 153 seeks to prohibit any person from engaging in prohibited conduct such
 
 Clause 154 seeks to empower the Bank to enter into arrangements with relevant supervisory authorities to coordinate regulation of financial instrument in the Islamic money market.
 
-## Part XI
+## PART XI
 
-12.
-
-## Part XI seeks to make provisions on the submission of document or
-
-information to the Bank.
+12. Part XI seeks to make provisions on the submission of document or information to the Bank.
 
 Clause 155 imposes an obligation on any person, including those listed in the clause, who is required under the proposed Act or any written law to submit to the Bank any document or information, to submit such document or information to the Bank. This clause also empowers the Bank to require any person, including those listed in the clause, to submit to it any document or information which the Bank requires for the exercise of its powers or performance of its functions under the proposed Act or any written law.
 
@@ -7852,7 +8228,7 @@ Clause 157 sets out certain exceptions to the secrecy requirements stipulated in
 
 <!-- page 296 -->
 
-## Part XII
+## PART XII
 
 13. Part XII seeks to make provisions with regard to the examination of authorized persons, operators of a designated payment system and others.
 
@@ -7892,7 +8268,7 @@ Clause 170 provides for the penalty to be imposed on an institution, its directo
 
 Clause 171 are additional provisions flowing from paragraph 168(2)(b) which set out the procedures in relation to a direction issued to a licensed person to increase its capital.
 
-## Part XIV
+## PART XIV
 
 15. Part XIV sets out the intervention and remedial action that may be taken by the Bank.
 
@@ -8036,7 +8412,7 @@ Clause 220 sets out the situation where the rights of parties under qualified fi
 
 Clause 221 sets out provisions relating to the Assessor Committee including when an appeal may be made to the Assessor Committee and the process of the appeal.
 
-## Part XV
+## PART XV
 
 16. Part XV deals with provisions relating to other powers of the Bank.
 
@@ -8064,7 +8440,7 @@ Division 3
 
 Clause 228 seeks to empower the Minister, on the recommendation of the Bank to declare any day to be a holiday for all or any class, category or description of licensed persons, including their offices, whether throughout or in any part of Malaysia.
 
-## Part XVI
+## PART XVI
 
 17. Part XVI seeks to make provisions in relation to enforcement actions by the Bank, the Bank’s investigation powers, the Bank’s powers to take administrative and civil actions, criminal offences and general matters.
 

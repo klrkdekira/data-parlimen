@@ -196,7 +196,7 @@ Pekerja (Pindaan)
 
 13. Akta ibu dipinda dengan memasukkan selepas seksyen 24 Bahagian yang berikut:
 
-“Bahagian IIIa
+## “BAHAGIAN IIIA
 
 ## PENGINAPAN
 

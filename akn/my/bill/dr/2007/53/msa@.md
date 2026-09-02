@@ -350,13 +350,21 @@ seragam yang hendaklah diterima pakai oleh Entiti Kerajaan bagi Wilayah Ekonomi 
 
 <!-- page 12 -->
 
-(d) untuk membangunkan, menggalakkan, mengesyorkan, memudahkan, menguruskan, menyelaraskan dan mengusahakan inisiatif pembangunan sosial yang bertujuan untuk mengurangkan kemiskinan dan ketaksamaan pendapatan di dalam Wilayah Ekonomi Koridor Utara;
+(d) untuk membangunkan, menggalakkan, mengesyorkan, memudahkan, menguruskan, menyelaraskan
+
+<!-- marginal: dan -->
+
+mengusahakan inisiatif pembangunan sosial yang bertujuan untuk mengurangkan kemiskinan dan ketaksamaan pendapatan di dalam Wilayah Ekonomi Koridor Utara;
 
 (e) untuk menghendaki —
 
 (i) semua Entiti Kerajaan yang berkaitan untuk memberikan apa-apa bantuan dan mengemukakan apa-apa maklumat yang ada dalam milik mereka sebagaimana yang dikehendaki oleh Pihak Berkuasa untuk membolehkan Pihak Berkuasa menjalankan fungsinya di bawah Akta ini;
 
-(ii) semua Entiti Kerajaan, syarikat dan perbadanan, dan badan dan orang lain, sama ada tempatan atau asing, yang bertanggungjawab bagi atau terlibat dalam menjalankan atau berniat untuk menjalankan pembangunan di dalam Wilayah Ekonomi Koridor Utara untuk mengemukakan laporan, yang mengandungi apa-apa butir dan maklumat sebagaimana yang ditetapkan oleh Pihak Berkuasa, berkenaan dengan aktiviti mereka atau aktiviti yang dicadangkan oleh mereka;
+(ii) semua Entiti Kerajaan, syarikat dan perbadanan, dan badan dan orang lain, sama ada tempatan atau asing, yang bertanggungjawab bagi atau terlibat dalam menjalankan atau berniat untuk menjalankan pembangunan di dalam Wilayah Ekonomi Koridor Utara untuk mengemukakan laporan,
+
+<!-- marginal: yang -->
+
+mengandungi apa-apa butir dan maklumat sebagaimana yang ditetapkan oleh Pihak Berkuasa, berkenaan dengan aktiviti mereka atau aktiviti yang dicadangkan oleh mereka;
 
 (f) untuk menyelaraskan dan membantu Entiti Kerajaan yang berkaitan dalam mengkaji semula dan menilai pembangunan, termasuklah pembangunan sektor pertanian, pembuatan dan perkhidmatan, infrastruktur dan kemudahan awam di dalam Wilayah Ekonomi Koridor Utara;
 
@@ -480,9 +488,7 @@ Dengan syarat bahawa akaun bagi wang itu hendaklah disimpan berasingan dan terpi
 
 ### Penzahiran kepentingan
 
-14.
-
-(1) Mana-mana anggota Pihak Berkuasa atau sesuatu jawatankuasa yang mempunyai atau memperoleh suatu kepentingan langsung atau tidak langsung dengan sendiri, menerusi seseorang anggota keluarganya atau sekutunya berhubung dengan apa-apa perkara yang dibincangkan oleh Pihak Berkuasa atau jawatankuasa yang berkaitan hendaklah menzahirkan kepada Pihak Berkuasa atau jawatankuasa yang berkaitan, mengikut mana-mana yang berkenaan, hakikat kepentingannya dan jenis kepentingan itu.
+14. (1) Mana-mana anggota Pihak Berkuasa atau sesuatu jawatankuasa yang mempunyai atau memperoleh suatu kepentingan langsung atau tidak langsung dengan sendiri, menerusi seseorang anggota keluarganya atau sekutunya berhubung dengan apa-apa perkara yang dibincangkan oleh Pihak Berkuasa atau jawatankuasa yang berkaitan hendaklah menzahirkan kepada Pihak Berkuasa atau jawatankuasa yang berkaitan, mengikut mana-mana yang berkenaan, hakikat kepentingannya dan jenis kepentingan itu.
 
 (2) Penzahiran di bawah subseksyen (1) hendaklah direkodkan dalam minit mesyuarat Pihak Berkuasa atau jawatankuasa yang berkaitan, mengikut mana-mana yang berkenaan, yang dalamnya perkara itu dibincangkan dan, selepas penzahiran itu, anggota itu —
 
@@ -646,7 +652,7 @@ apabila perkara itu dibincangkan atau diputuskan.
 
 ### Pengambilan khidmat pegawai dan pekhidmat
 
-### lain Pihak
+<!-- marginal: lain Pihak -->
 
 ### Berkuasa
 
@@ -660,7 +666,11 @@ apabila perkara itu dibincangkan atau diputuskan.
 
 21. Pihak Berkuasa boleh memberikan —
 
-(a) bayaran faedah persaraan, ganjaran dan elaun lain sebagaimana yang ditentukan oleh Pihak Berkuasa kepada pegawai dan pekhidmat Pihak Berkuasa;
+(a) bayaran faedah persaraan, ganjaran dan elaun
+
+<!-- marginal: lain -->
+
+sebagaimana yang ditentukan oleh Pihak Berkuasa kepada pegawai dan pekhidmat Pihak Berkuasa;
 
 (b) subsidi, pemberian, kemudahan pembiayaan atau kredit, dengan atau tanpa bunga, bagi maksud pembelian rumah atau kenderaan, dan pembiayaan atau pinjaman ihsan yang lain, kepada anggota, pegawai dan pekhidmat Pihak Berkuasa;
 
@@ -772,7 +782,11 @@ atas apa-apa terma dan syarat sebagaimana yang ditentukan oleh Pihak Berkuasa.
 
 (bb) penyediaan dan pengurusan suatu sistem pengangkutan awam yang bersepadu, terselaras dan saling bersambung, yang hendaklah selaras dengan keseluruhan rangka kerja, wawasan, objektif dan strategi yang disebut dalam perenggan (a); dan
 
-(c) boleh merumuskan, dengan terperinci sebagaimana yang difikirkan sesuai oleh Pihak Berkuasa, cadangan, dasar dan strateginya yang boleh terpakai bagi kawasan di sekeliling Wilayah Ekonomi Koridor Utara di dalam Negeri Perak setakat yang cadangan, dasar dan strategi itu semunasabahnya dikehendaki untuk mencapai cadangan yang disebut dalam perenggan (a) dan (b); dan tanpa menjejaskan keluasan peruntukan yang terdahulu, cadangan, dasar dan strategi yang boleh terpakai bagi kawasan di sekeliling Wilayah Ekonomi Koridor Utara di dalam Negeri Perak boleh termasuk perkara yang berhubungan dengan keselamatan, perlindungan dan pembaikan alam sekitar dan pemeliharaan sumber semula jadi.
+(c) boleh merumuskan, dengan terperinci sebagaimana yang difikirkan sesuai oleh Pihak Berkuasa, cadangan, dasar dan strateginya yang boleh terpakai bagi kawasan di sekeliling Wilayah Ekonomi Koridor Utara di dalam Negeri Perak setakat yang cadangan, dasar dan strategi
+
+<!-- marginal: itu -->
+
+semunasabahnya dikehendaki untuk mencapai cadangan yang disebut dalam perenggan (a) dan (b); dan tanpa menjejaskan keluasan peruntukan yang terdahulu, cadangan, dasar dan strategi yang boleh terpakai bagi kawasan di sekeliling Wilayah Ekonomi Koridor Utara di dalam Negeri Perak boleh termasuk perkara yang berhubungan dengan keselamatan, perlindungan dan pembaikan alam sekitar dan pemeliharaan sumber semula jadi.
 
 (3) Draf Rancangan Pembangunan WEKU hendaklah mengandungi, atau disertai dengan, apa-apa peta, gambar rajah, ilustrasi, laporan, lukisan, model dan bahan perihalan sebagaimana yang difikirkan sesuai oleh Pihak Berkuasa bagi maksud menjejaskan atau menerangkan cadangan dalam draf Rancangan WEKU, atau sebagaimana yang dalam apa-apa hal tertentu dinyatakan dalam arahan yang diberikan oleh Kerajaan Negeri; dan peta, gambar rajah, ilustrasi, laporan, lukisan, model dan bahan perihalan itu hendaklah dikira sebagai menjadi sebahagian daripada Rancangan Pembangunan WEKU.
 
@@ -788,7 +802,11 @@ atas apa-apa terma dan syarat sebagaimana yang ditentukan oleh Pihak Berkuasa.
 
 (i) apa-apa maklumat dan pertimbangan lain yang pada pendapatnya berkaitan:
 
-(ii) apa-apa maklumat atau pertimbangan lain yang Kerajaan Negeri yang berkaitan boleh mengarahkannya untuk mengambil kira bagi mana- mana cadangan berhubung dengan Negeri yang berkaitan;
+(ii) apa-apa maklumat atau pertimbangan lain yang Kerajaan Negeri yang berkaitan
+
+<!-- marginal: boleh -->
+
+mengarahkannya untuk mengambil kira bagi mana- mana cadangan berhubung dengan Negeri yang berkaitan;
 
 (iii) dasar negara, apabila berkaitan; dan
 
@@ -846,7 +864,11 @@ tempatan dalam bahasa Inggeris, bersama dengan tanda yang dengannya Rancangan Pe
 
 ### Pembangunan strategik yang ditetapkan
 
-27. (1) Pihak Berkuasa boleh menetapkan apa-apa pembangunan atau mana-mana kawasan atau kawasan-kawasan di dalam mana- mana Negeri di dalam Wilayah Ekonomi Koridor Utara yang mungkin mempunyai kesan ekonomi yang penting kepada Wilayah Ekonomi Koridor Utara masing-masing sebagai suatu pembangunan strategik yang ditetapkan atau kawasan pembangunan strategik yang ditetapkan, dengan syarat bahawa mana-mana penetapan pembangunan atau kawasan itu di dalam mana-mana Negeri hanya boleh dibuat dengan persetujuan Kerajaan Negeri bagi Negeri itu.
+27. (1) Pihak Berkuasa boleh menetapkan apa-apa pembangunan atau mana-mana kawasan atau kawasan-kawasan di dalam mana- mana Negeri di dalam Wilayah Ekonomi Koridor Utara yang mungkin mempunyai kesan ekonomi yang penting kepada Wilayah Ekonomi Koridor Utara masing-masing sebagai suatu pembangunan strategik yang ditetapkan atau kawasan pembangunan strategik yang ditetapkan, dengan syarat bahawa mana-mana
+
+<!-- marginal: penetapan -->
+
+pembangunan atau kawasan itu di dalam mana-mana Negeri hanya boleh dibuat dengan persetujuan Kerajaan Negeri bagi Negeri itu.
 
 (2) Mana-mana orang atau Entiti Kerajaan yang berniat untuk menjalankan —
 
@@ -870,7 +892,11 @@ hendaklah terlebih dahulu merujukkan cadangan pembangunan itu kepada Pihak Berku
 
 28. (1) Pihak Berkuasa hendaklah, dalam menyelaraskan pelaksanaan aktiviti yang dijalankan oleh Entiti Kerajaan di dalam Wilayah Ekonomi Koridor Utara—
 
-(a) bertindak sebagai ejen penyelaras utama atau ejen yang diberi kuasa bagi pihak Entiti Kerajaan yang berkaitan berhubung dengan penerimaan, pemprosesan dan perihal mempercepat Kelulusan dan tindakan pentadbiran yang diperlukan berhubung dengan permohonan untuk mendapatkan Kelulusan yang berkenaan dengannya Pihak Berkuasa telah membuat suatu perjanjian atau perkiraan di bawah seksyen 29; dan
+(a) bertindak sebagai ejen penyelaras utama atau ejen yang diberi kuasa bagi pihak Entiti Kerajaan yang berkaitan berhubung dengan penerimaan, pemprosesan dan perihal mempercepat Kelulusan dan tindakan pentadbiran yang diperlukan berhubung dengan permohonan
+
+<!-- marginal: untuk -->
+
+mendapatkan Kelulusan yang berkenaan dengannya Pihak Berkuasa telah membuat suatu perjanjian atau perkiraan di bawah seksyen 29; dan
 
 (b) memberikan perkhidmatan pentadbiran dan bantuan kepada setiap Pihak Berkuasa Negeri berhubung dengan perkara- perkara yang berkaitan dengan tanah di dalam Wilayah Ekonomi Koridor Utara.
 
@@ -942,7 +968,11 @@ hendaklah terlebih dahulu merujukkan cadangan pembangunan itu kepada Pihak Berku
 
 <!-- page 36 -->
 
-(i) semua jumlah wang atau harta lain, selain jumlah wang yang disebut dalam perenggan 28(2)(b), yang mengikut apa-apa cara menjadi kena dibayar kepada atau terletak hak pada Pihak Berkuasa berkenaan dengan apa-apa perkara yang bersampingan dengan fungsi, kuasa dan kewajipannya; dan
+(i) semua jumlah wang atau harta lain, selain jumlah wang yang disebut dalam perenggan 28(2)(b), yang mengikut apa-apa cara menjadi kena dibayar kepada atau terletak hak pada Pihak Berkuasa berkenaan dengan apa-apa perkara yang bersampingan dengan fungsi, kuasa
+
+<!-- marginal: dan -->
+
+kewajipannya; dan
 
 (j) semua wang lain yang diterima dengan sah oleh Pihak Berkuasa.
 
@@ -1036,7 +1066,11 @@ AM
 
 ### Kuasa untuk mengambil khidmat
 
-41. Pihak Berkuasa boleh mengambil khidmat, melantik dan membayar ejen, kontraktor dan penasihat teknikal, termasuk peguam bela dan peguam cara, jurubank, broker saham, juru ukur, penilai dan orang lain, untuk menjalankan apa-apa urusan, untuk menjalankan apa-apa projek, skim atau perusahaan, atau untuk melakukan apa-apa perbuatan yang dikehendaki dijalankan atau dilakukan dalam melaksanakan fungsinya, menjalankan kuasanya atau menunaikan kewajipannya atau bagi melaksanakan maksud Akta ini dengan lebih baik.
+41. Pihak Berkuasa boleh mengambil khidmat, melantik dan membayar ejen, kontraktor dan penasihat teknikal,
+
+<!-- marginal: termasuk -->
+
+peguam bela dan peguam cara, jurubank, broker saham, juru ukur, penilai dan orang lain, untuk menjalankan apa-apa urusan, untuk menjalankan apa-apa projek, skim atau perusahaan, atau untuk melakukan apa-apa perbuatan yang dikehendaki dijalankan atau dilakukan dalam melaksanakan fungsinya, menjalankan kuasanya atau menunaikan kewajipannya atau bagi melaksanakan maksud Akta ini dengan lebih baik.
 
 <!-- page 40 -->
 
@@ -1046,7 +1080,7 @@ AM
 
 ### Kesalahan kerana memberikan maklumat palsu
 
-### atau
+<!-- marginal: atau -->
 
 ### mengelirukan
 
@@ -1166,7 +1200,11 @@ berkenaan dengan apa-apa perbuatan, keabaian, keingkaran atau peninggalan yang d
 
 (ii) mana-mana projek yang dicadangkan bagi mana-mana orang yang berkenaan dengannya kelulusan atau award sedang dinantikan pada tarikh permulaan kuat kuasa Akta ini.
 
-(2) Pelaksanaan atau pelaksanaan berterusan mana-mana projek, atau kelulusan atau award bagi mana-mana projek yang dicadangkan yang sedang dinantikan, kecuali mana-mana projek yang dicadangkan yang berhubungan dengannya suatu arahan telah dibuat oleh Perdana Menteri dalam subperenggan (1)(a)(ii), tidaklah tersentuh oleh permulaan kuat kuasa Akta ini dan bagi maksud sedemikian ia hendaklah diperlakukan seolah-olah Akta ini telah tidak diperbuat.
+(2) Pelaksanaan atau pelaksanaan berterusan mana-mana projek, atau kelulusan atau award bagi mana-mana projek yang dicadangkan yang sedang dinantikan, kecuali mana-mana projek yang dicadangkan yang berhubungan dengannya suatu arahan telah dibuat oleh Perdana Menteri dalam subperenggan (1)(a)(ii),
+
+<!-- marginal: tidaklah -->
+
+tersentuh oleh permulaan kuat kuasa Akta ini dan bagi maksud sedemikian ia hendaklah diperlakukan seolah-olah Akta ini telah tidak diperbuat.
 
 ## JADUAL
 
@@ -1388,4 +1426,6 @@ peruntukan bagi penyelarasan antara agensi kerajaan supaya dapat memajukan perda
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya belum dapat ditentukan sekarang ini. [PN(U2)2613]
+Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya belum dapat ditentukan sekarang ini.
+
+<!-- marginal: [PN(U2)2613] -->

@@ -16,13 +16,21 @@ Suatu Akta untuk meminda Akta (Memperbadankan) Majlis Daya Pengeluaran Negara 19
 
 UNDANG oleh Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan Dewan Negara dan Dewan Rakyat yang bersidang dalam Parlimen, dan dengan kuasa daripadanya, seperti berikut:
 
-Tajuk
+<!-- marginal: Tajuk -->
 
-1. Akta ini bolehlah dinamakan Akta (Mem-
+1. Akta ini bolehlah dinamakan Akta
+
+<!-- marginal: (Mem- -->
 
 <!-- marginal: ringkas -->
 
-perbadankan) Majlis Daya Pengeluaran Negara dan mula (Pindaan) 1990 dan hendaklah mula berkuatkuasa pada berkuat-
+perbadankan) Majlis Daya Pengeluaran Negara
+
+<!-- marginal: dan mula -->
+
+(Pindaan) 1990 dan hendaklah mula berkuatkuasa pada
+
+<!-- marginal: berkuat- -->
 
 <!-- marginal: kuasa. -->
 
@@ -76,7 +84,11 @@ perkataan-perkataan "Majlis Daya Pengeluaran
 
 <!-- marginal: 19/66. -->
 
-Negara" atau "Majlis" di mana-mana jua terdapat masing-masingnya dengan perkataan-perkataan "Perbadanan Produktiviti Negara" atau "Perbadanan".
+Negara" atau "Majlis" di mana-mana jua terdapat masing-masingnya dengan perkataan-perkataan "Perbadanan Produktiviti Negara"
+
+<!-- marginal: atau -->
+
+"Perbadanan".
 
 <!-- page 2 -->
 
@@ -86,7 +98,13 @@ Negara" atau "Majlis" di mana-mana jua terdapat masing-masingnya dengan perkataa
 
 (4) Pertukaran nama yang diperuntukkan oleh subseksyen (1) dan (2) tidaklah menyentuh mana-mana hak atau obligasi Majlis atau mencacatkan apa-apa prosiding undang-undang oleh atau terhadapnya; dan mana-mana prosiding undang-undang yang boleh diteruskan atau dimulakan oleh atau terhadapnya sebelum mula berkuatkuasanya Akta ini bolehlah diteruskan atau dimulakan di bawah nama barunya.
 
-Pindaan 3. Akta ibu adalah dipinda dengan menggantikan seksyen seksyen 2. 2 dengan yang berikut:
+<!-- marginal: Pindaan -->
+
+3. Akta ibu adalah dipinda dengan menggantikan seksyen
+
+<!-- marginal: seksyen 2. -->
+
+2 dengan yang berikut:
 
 "Tafsiran. 2. Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—
 
@@ -94,7 +112,13 @@ Pindaan 3. Akta ibu adalah dipinda dengan menggantikan seksyen seksyen 2. 2 deng
 
 "Perbadanan" ertinya Perbadanan Pro- duktiviti Negara yang ditubuhkan di bawah seksyen 3 (1).".
 
-Pindaan 4. Seksyen 3 Akta ibu adalah dipinda— seksyen 3. fa) dengan menggantikan perkataan-perkataan "Kementerian Perdagangan dan Perindustrian" dalam perenggan (c) subseksyen (3) dengan perkataan-perkataan "Kementerian Perdagangan Antarabangsa dan Industri yang hendaklah menjadi Timbalan Pengerusi";
+<!-- marginal: Pindaan -->
+
+4. Seksyen 3 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 3. -->
+
+fa) dengan menggantikan perkataan-perkataan "Kementerian Perdagangan dan Perindustrian" dalam perenggan (c) subseksyen (3) dengan perkataan-perkataan "Kementerian Perdagangan Antarabangsa dan Industri yang hendaklah menjadi Timbalan Pengerusi";
 
 (b) dengan menggantikan perkataan-perkataan "Kementerian Buroh dan Tenaga Rakyat" dalam perenggan (e) subseksyen (3) dengan perkataan- perkataan "Kementerian Sumber Manusia";
 
@@ -118,13 +142,15 @@ PENGELUARAN NEGARA (PtNDAAN)
 
 (e) dengan menggantikan subseksyen (5) dengan yang berikut:
 
-"(5) Ahli-ahli yang tersebut dalam subseksyen (3) boleh melantik daripada kalangan mereka Pengerusi sementara untuk mempengerusikan apa-apa mesyuarat Perbadanan semasa Pengerusi atau Timbalan Pengerusi tidak berupaya bagi sementara kerana sakit atau tidak ada bagi sementara dalam Malaysia.";
+"(5) Ahli-ahli yang tersebut dalam subseksyen (3) boleh melantik daripada kalangan mereka Pengerusi sementara untuk mempengerusikan apa-apa mesyuarat Perbadanan semasa Pengerusi
+
+<!-- marginal: atau -->
+
+Timbalan Pengerusi tidak berupaya bagi sementara kerana sakit atau tidak ada bagi sementara dalam Malaysia.";
 
 (f) dengan memasukkan, selepas sahaja per- kataan "tempoh" yang mula-mula terdapat dalam subseksyen (6), perkataan-perkataan "yang tidak melebihi tiga tahun";
 
-(g) dengan memotong proviso kepada subseksyen
-
-(6); dan
+(g) dengan memotong proviso kepada subseksyen (6); dan
 
 (h) dengan menggantikan noktah bertindih yang terdapat di akhir subseksyen (6) dengan noktah.
 
@@ -132,37 +158,37 @@ PENGELUARAN NEGARA (PtNDAAN)
 
 ## RANG UNDANG-UNDANG
 
-5. Akta ibu adalah dipinda dengan memasukkan, bam 3A. selepas sahaja seksyen 3, seksyen baru 3A yang berikut:
+<!-- marginal: Seksyen -->
 
-"Ahli-ahli 3A. (1) Menteri hendaklah,
+5. Akta ibu adalah dipinda dengan memasukkan,
 
-<!-- marginal: berkenaan -->
+<!-- marginal: bam 3A. -->
 
-silih ganti. dengan setiap ahli Perbadanan yang dinyatakan dalam seksyen 3 (3) (c) hingga (g), melantik satu orang daripada Kementerian atau jabatan yang sama dengan ahli itu menjadi ahli silih ganti untuk menghadiri mesyuarat-mesyuarat Perbadanan, meng- gantikan ahli itu, yang tidak dapat di- hadiri oleh ahli itu kerana apa-apa sebab.
+selepas sahaja seksyen 3, seksyen baru 3A yang berikut:
 
-(2) Apabila menghadiri
+<!-- marginal: "Ahli-ahli -->
 
-<!-- marginal: mesyuarat- -->
+3A. (1) Menteri hendaklah, berkenaan
 
-mesyuarat Perbadanan, ahli
+<!-- marginal: silih ganti. -->
 
-<!-- marginal: silih ganti -->
+dengan setiap ahli Perbadanan yang dinyatakan dalam seksyen 3 (3) (c) hingga (g), melantik satu orang daripada Kementerian atau jabatan yang sama dengan ahli itu menjadi ahli silih ganti untuk menghadiri mesyuarat-mesyuarat Perbadanan, meng- gantikan ahli itu, yang tidak dapat di- hadiri oleh ahli itu kerana apa-apa sebab.
 
-hendaklah disifatkan sebagai ahli Perbadanan bagi segala maksud.
+(2) Apabila menghadiri mesyuarat- mesyuarat Perbadanan, ahli silih ganti hendaklah disifatkan sebagai ahli Perbadanan bagi segala maksud.
 
 (3) Ahli silih ganti hendaklah berhenti daripada menjadi ahli silih ganti, melainkan jika dia menghentikan keahliannya terlebih dahulu, atau perlantikannya dibatalkan terlebih dahulu, apabila ahli yang baginya dia menjadi ahli silih ganti berhenti menjadi ahli.".
 
-Pindaan 6. Seksyen 5 Akta ibu adalah dipinda— seksyen 5.
+<!-- marginal: Pindaan -->
+
+6. Seksyen 5 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 5. -->
 
 (a) dengan menggantikan subseksyen (1) dan nota birai kepada seksyen 5 dengan yang berikut:
 
 "Perlantikan 5. (1) Perbadanan— Lembaga Pengurusan
 
-(a) hendaklah, dengan persetu- dan pegawai- juan Menteri, melantik se- pegawai lain. orang pegawai eksekutif yang akan menjadi
-
-<!-- marginal: Ketua -->
-
-Pengarah;
+(a) hendaklah, dengan persetu- dan pegawai- juan Menteri, melantik se- pegawai lain. orang pegawai eksekutif yang akan menjadi Ketua Pengarah;
 
 <!-- page 5 -->
 
@@ -204,21 +230,21 @@ sebagai anggota Lembaga Pengu- rusan yang hendaklah bertanggung- jawab bagi pent
 
 ### dan
 
-<!-- marginal: pengadaan -->
+### pengadaan
 
 ### peruntukan mengenai huku-
 
 ### man-hukuman
 
-<!-- marginal: tatatertib -->
+### tatatertib
 
-<!-- marginal: se- -->
+### se-
 
 ### bagaimana
 
 ### yang
 
-<!-- marginal: difikirkan -->
+### difikirkan
 
 ### sesuai oleh Perbadanan, dan
 
@@ -236,21 +262,21 @@ sebagai anggota Lembaga Pengu- rusan yang hendaklah bertanggung- jawab bagi pent
 
 ### berikan peluang bagi
 
-<!-- marginal: rep- -->
+### rep-
 
 ### resentasi
 
 ### dibuat
 
-<!-- marginal: oleh -->
+### oleh
 
-<!-- marginal: pe- -->
+### pe-
 
 ### gawai atau kakitangan yang
 
 ### terhadapnya prosiding
 
-<!-- marginal: tata- -->
+### tata-
 
 ### tertib
 
@@ -264,41 +290,47 @@ sebagai anggota Lembaga Pengu- rusan yang hendaklah bertanggung- jawab bagi pent
 
 ### tatatertib
 
-<!-- marginal: yang -->
+### yang
 
 ### akan dikenakan terhadap pe-
 
 ### gawai atau kakitangan itu.".
 
-### 7. Akta ibu adalah dipinda dengan memasukkan,
+<!-- marginal: Seksyen -->
 
-baru 5A
+7. Akta ibu adalah dipinda dengan memasukkan,
+
+<!-- marginal: baru 5A -->
 
 ### selepas sahaja seksyen 5, seksyen baru 5A dan 5B yang
 
-dan 5B.
+<!-- marginal: dan 5B. -->
 
-### berikut:
+<!-- marginal: berikut: -->
 
-"Tatatertib
+<!-- marginal: "Tatatertib -->
 
-### 5A. (1) Maka
+5A. (1) Maka
 
 ### hendaklah
 
-<!-- marginal: ada -->
+### ada
 
-<!-- marginal: suatu -->
+### suatu
 
-pegawai-
+<!-- marginal: pegawai- -->
 
 ### Jawatankuasa Tatatertib Perbadanan yang
 
-pegawai
+<!-- marginal: pegawai -->
 
 ### hendaklah terdiri daripada—
 
-dan kakitangan- kakitangan.
+<!-- marginal: dan -->
+
+<!-- marginal: kakitangan- -->
+
+<!-- marginal: kakitangan. -->
 
 (a) dua orang ahli yang hendaklah dipilih
 
@@ -308,11 +340,11 @@ dan kakitangan- kakitangan.
 
 ### seorang
 
-<!-- marginal: daripadanya -->
+### daripadanya
 
 ### hendaklah dipilih sebagai pengerusi;
 
-dan
+<!-- marginal: dan -->
 
 (b) Ketua Pengarah yang dilantik di bawah
 
@@ -346,11 +378,31 @@ mempunyai kuasa untuk mengkaji semula, membatalkan atau mengubah mana-mana keput
 
 (9) Keputusan Perbadanan atas rayuan itu adalah muktamad.
 
-Perbadanan 5B. (1) Perbadanan boleh melantik jawatan- boleh kuasa-jawatankuasa bagi apa-apa maksud melantik yang berbangkit daripada atau berkaitan jawatan- kuasa- dengan mana-mana kuasa, kewajipan atau jawatan- kerjanya di bawah Akta ini; mana-mana kuasa. jawatankuasa yang dilantik
+<!-- marginal: Perbadanan -->
 
-<!-- marginal: sedemikian -->
+5B. (1) Perbadanan boleh melantik jawatan-
 
-hendaklah termasuk tidak kurang daripada seorang ahli Perbadanan dan bolehlah dilantik untuk menganggotai jawatankuasa itu orang- orang lain sebagaimana yang difikirkan patut oleh Perbadanan.
+<!-- marginal: boleh -->
+
+kuasa-jawatankuasa bagi apa-apa maksud
+
+<!-- marginal: melantik -->
+
+yang berbangkit daripada atau berkaitan
+
+<!-- marginal: jawatan- -->
+
+<!-- marginal: kuasa- -->
+
+dengan mana-mana kuasa, kewajipan atau
+
+<!-- marginal: jawatan- -->
+
+kerjanya di bawah Akta ini; mana-mana
+
+<!-- marginal: kuasa. -->
+
+jawatankuasa yang dilantik sedemikian hendaklah termasuk tidak kurang daripada seorang ahli Perbadanan dan bolehlah dilantik untuk menganggotai jawatankuasa itu orang- orang lain sebagaimana yang difikirkan patut oleh Perbadanan.
 
 (2) Jawatankuasa yang dilantik sedemi- kian hendaklah mengawalselia prosedurnya sendiri.
 
@@ -368,13 +420,19 @@ hendaklah termasuk tidak kurang daripada seorang ahli Perbadanan dan bolehlah di
 
 (6) Jawatankuasa itu hendaklah melapor- kan syor-syornya kepada Perbadanan.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-8. Akta ibu adalah dipinda dengan menggantikan seksyen 7. seksyen 7 dengan yang berikut:
+8. Akta ibu adalah dipinda dengan menggantikan
 
-"Kerja-kerja
+<!-- marginal: seksyen 7. -->
 
-7. Kerja-kerja Perbadanan adalah— Perbadanan.
+seksyen 7 dengan yang berikut:
+
+<!-- marginal: "Kerja-kerja -->
+
+7. Kerja-kerja Perbadanan adalah—
+
+<!-- marginal: Perbadanan. -->
 
 (a) menerajui penggalakan dan penye- baran maklumat dan isu-isu yang ber- hubungan dengan produktiviti;
 
@@ -390,11 +448,7 @@ Pindaan
 
 (e) menasihati dan menyelaraskan pelak- sanaan program-program dan aktiviti- aktiviti yang berhubungan dengan produktiviti dan mutu;
 
-(f) menilai dan memperakui program- program penyeliaan dan
-
-<!-- marginal: latihan -->
-
-pengurusan, program-program keusa- hawanan, dan program-program pro- duktiviti dan pengurusan mutu yang dijalankan oleh sektor swasta bagi orang awam;
+(f) menilai dan memperakui program- program penyeliaan dan latihan pengurusan, program-program keusa- hawanan, dan program-program pro- duktiviti dan pengurusan mutu yang dijalankan oleh sektor swasta bagi orang awam;
 
 (g) menjalankan latihan atau program- program lain yang berhubungan dengan produktiviti, mutu, pengurusan dan keusahawanan;
 
@@ -402,11 +456,7 @@ pengurusan, program-program keusa- hawanan, dan program-program pro- duktiviti d
 
 (i) mengumpul, mengeluarkan dan me- nerbitkan maklumat mengenai produk- tiviti, mutu, pengurusan, keusahawan- an dan hal-hal perkara lain yang ber- hubungan;
 
-(j) menjalankan usaha-usaha perniagaan bagi maksud menunaikan
-
-<!-- marginal: kerja- -->
-
-kerjanya di bawah Akta ini dengan kelulusan Menteri;
+(j) menjalankan usaha-usaha perniagaan bagi maksud menunaikan kerja- kerjanya di bawah Akta ini dengan kelulusan Menteri;
 
 (k) memberikan laporan tiap-tiap tahun kepada Menteri mengenai kemajuan dan masalah-masalah meningkatkan produktiviti dalam perdagangan dan industri dalam negara dan membuat syor-syor mengenai cara bagaimana masalah-masalah itu boleh diuruskan; dan
 
@@ -418,13 +468,37 @@ kerjanya di bawah Akta ini dengan kelulusan Menteri;
 
 (I) membuat semua perkara dan benda yang bersampingan dengan atau ber- bangkit daripada penunaian kerja- kerjanya di bawah Akta ini.".
 
-9. Akta ibu adalah dipinda dengan memasukkan, baru 7A selepas sahaja seksyen 7, seksyen baru 7A dan 7B yang dan 7B. berikut:
+<!-- marginal: Seksyen -->
 
-"Kuasa
+9. Akta ibu adalah dipinda dengan memasukkan,
 
-7A. Perbadanan boleh menggunakhidmat dan untuk membayar penasihat-penasihat teknik, mengguna- termasuklah peguambela-peguambela dan khidmat ejen-ejen. peguamcara-peguamcara, jurubank-jurubank atau orang-orang lain, untuk menjalankan apa-apa urusan atau untuk membuat apa-apa perbuatan yang dikehendaki dijalankan atau dilakukan dalam. penyempurnaan kewajipan- kewajipannya atau bagi menjalankan maksud-maksud Akta dengan lebih baik.
+<!-- marginal: baru 7A -->
 
-Panel-panel
+selepas sahaja seksyen 7, seksyen baru 7A dan 7B yang
+
+<!-- marginal: dan 7B. -->
+
+<!-- marginal: berikut: -->
+
+<!-- marginal: "Kuasa -->
+
+7A. Perbadanan boleh menggunakhidmat dan
+
+<!-- marginal: untuk -->
+
+membayar penasihat-penasihat teknik,
+
+<!-- marginal: mengguna- -->
+
+termasuklah peguambela-peguambela dan
+
+<!-- marginal: khidmat -->
+
+<!-- marginal: ejen-ejen. -->
+
+peguamcara-peguamcara, jurubank-jurubank atau orang-orang lain, untuk menjalankan apa-apa urusan atau untuk membuat apa-apa perbuatan yang dikehendaki dijalankan atau dilakukan dalam. penyempurnaan kewajipan- kewajipannya atau bagi menjalankan maksud-maksud Akta dengan lebih baik.
+
+<!-- marginal: Panel-panel -->
 
 7B. (1) Menteri boleh dari semasa ke semasa perundingan. menubuhkan satu atau lebih panel per- undingan.
 
@@ -456,29 +530,35 @@ tidak lebih daripada lima orang wakil daripada persatuan-persatuan
 
 mewakili pekerja-pekerja.
 
-(4) Menteri boleh, sebagai
+(4) Menteri boleh, sebagai tambahan kepada ahli-ahli yang dinyatakan dalam subseksyen (3), melantik mana-mana ahli atau ahli-ahli lain daripada kalangan orang- orang yang memiliki pengetahuan khas dalam bidang-bidang tertentu.".
 
-<!-- marginal: tambahan -->
+<!-- marginal: Pindaan -->
 
-kepada ahli-ahli yang dinyatakan dalam subseksyen (3), melantik mana-mana ahli atau ahli-ahli lain daripada kalangan orang- orang yang memiliki pengetahuan khas dalam bidang-bidang tertentu.".
+10. Seksyen 9 Akta ibu adalah dipinda—
 
-Pindaan
-
-10. Seksyen 9 Akta ibu adalah dipinda— seksyen 9.
+<!-- marginal: seksyen 9. -->
 
 (a) dengan memasukkan, selepas sahaja per- kataan "bayaran", koma dan perkataan- perkataan "komisen-komisen atau apa-apa balasan lain"; dan
 
 (b) dengan menggantikan perkataan-perkataan "oleh Pusat" dengan perkataan "olehnya".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-11. Seksyen 10 Akta ibu adalah dipinda— seksyen 10.
+11. Seksyen 10 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 10. -->
 
 (a) dengan menggantikan perkataan-perkataan "Pusat Daya Pengeluaran Negara" dalam subseksyen (1) dengan perkataan-perkataan "Perbadanan Produktiviti Negara"; dan
 
 (b) dengan memotong perkataan-perkataan "atau kapada Pusat" dalam perenggan (h) sub- seksyen (2).
 
-Pindaan 12. Seksyen 14 Akta ibu adalah dipinda dengan seksyen 14. menggantikan perkataan "Pusat" dalam subseksyen (1) dengan perkataan "Perbadanan".
+<!-- marginal: Pindaan -->
+
+12. Seksyen 14 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 14. -->
+
+menggantikan perkataan "Pusat" dalam subseksyen (1) dengan perkataan "Perbadanan".
 
 <!-- page 13 -->
 
@@ -486,21 +566,35 @@ Pindaan 12. Seksyen 14 Akta ibu adalah dipinda dengan seksyen 14. menggantikan p
 
 ## PENGELUARAN NEGARA (PINDAAN)
 
-13. Akta ibu adalah dipinda dengan memasukkan, bam MA. selepas sahaja seksyen 14, seksyen bam 14A yang berikut:
+<!-- marginal: Seksyen -->
 
-"Akta
+13. Akta ibu adalah dipinda dengan memasukkan,
 
-14A. Akta Badan Berkanun (Akaun dan Badan Laporan Tahunan) 1980 hendaklah terpakai Berkanun bagi Perbadanan.". (Akaun dan Laporan Tahunan) 1980 terpakai. Akta 240.
+<!-- marginal: bam MA. -->
 
-Pindaan
+selepas sahaja seksyen 14, seksyen bam 14A yang berikut:
 
-14. Seksyen 17 Akta ibu adalah dipinda— seksyen 17.
+"Akta 14A. Akta Badan Berkanun (Akaun dan Badan Laporan Tahunan) 1980 hendaklah terpakai Berkanun bagi Perbadanan.". (Akaun dan Laporan Tahunan) 1980 terpakai. Akta 240.
+
+<!-- marginal: Pindaan -->
+
+14. Seksyen 17 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 17. -->
 
 (a) dengan memasukkan, selepas sahaja per- kataan "ahli" dalam subseksyen (1), koma dan perkataan-perkataan "pegawai-pegawai dan kakitangan";
 
 (b) dengan memotong perkataan-perkataan "dan pegawai2 dan kakitangan Pusat," dalam subseksyen (1);
 
-(c) dengan memasukkan, selepas sahaja perkataan "ahli" dalam subseksyen (2), perkataan-perkataan "atau pegawai atau kakitangan"; dan
+(c) dengan memasukkan, selepas
+
+<!-- marginal: sahaja -->
+
+perkataan "ahli" dalam subseksyen
+
+<!-- marginal: (2), -->
+
+perkataan-perkataan "atau pegawai atau kakitangan"; dan
 
 (d) dengan memotong perkataan-perkataan ", atau pegawai atau kakitangan Pusat" dalam subseksyen (2).
 
@@ -552,8 +646,14 @@ memperuntukkan bahawa Akta Badan Berkanun (Akaun dan Laporan Tahunan) 1980 henda
 
 ## PENGELUARAN NEGARA (PINDAAN)
 
-12, Pindaan-pindaan lain yang dicadangkan kepada Akta yang tidak disebut secara khusus adalah pindaan-pindaan sampingan atau kecil.
+12, Pindaan-pindaan lain yang dicadangkan kepada Akta yang tidak disebut secara khusus adalah pindaan-pindaan sampingan
+
+<!-- marginal: atau kecil. -->
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya belum dapat ditentukan pada masa ini. [PN. (U2) 1564.]
+Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya belum dapat
+
+<!-- marginal: ditentukan pada masa ini. -->
+
+[PN. (U2) 1564.]

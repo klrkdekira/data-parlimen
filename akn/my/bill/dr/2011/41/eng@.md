@@ -10,7 +10,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ### Short title, commencement and application
 
-1. (1) This Act may be cited as the Evidence (Amendment) Act 2011.
+1. (1) This Act may be cited as the Evidence (Amendment) Act
+
+2011.
 
 (2) Section 2 comes into operation on the same date the Criminal Procedure Code (Amendment) Act 2010 [Act A1378] comes into operation.
 
@@ -32,7 +34,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 3. The principal Act is amended by inserting after section 90c in Chapter V the following Chapter:
 
-“chapter Va
+## “CHAPTER VA
 
 ## ADMISSIBILITY OF EVIDENCE OBTAINED UNDER MUTUAL
 

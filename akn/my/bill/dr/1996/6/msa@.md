@@ -98,15 +98,21 @@ selepas subseksyen (4) subseksyen yang berikut:
 
 <!-- page 4 -->
 
-(7) Bagi maksud seksyen ini, "mana-mana undang- undang bertulis berhubungan dengan rekabentuk perindustrian" termasuklah: Akta 214
+(7) Bagi maksud seksyen ini, "mana-mana undang- undang bertulis berhubungan dengan rekabentuk perindustrian" termasuklah:
 
-(a) Akta Rekabentuk United Kingdom (Perlindungan) 1949; Sabah
+<!-- marginal: Akta 214 -->
+
+(a) Akta Rekabentuk United Kingdom (Perlindungan) 1949;
+
+<!-- marginal: Sabah -->
 
 (b) Ordinan Rekabentuk United Kingdom
 
 ## Bab 152.
 
-(Perlindungan) Sabah; dan Sarawak
+(Perlindungan) Sabah; dan
+
+<!-- marginal: Sarawak -->
 
 (c) Ordinan Rekabentuk (United Kingdom)
 
@@ -114,11 +120,27 @@ selepas subseksyen (4) subseksyen yang berikut:
 
 Sarawak.".
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
-4. Akta ibu adalah dipinda dengan memasukkan selepas 13A, 13B dan seksyen 13 seksyen yang berikut: 13c.
+4. Akta ibu adalah dipinda dengan memasukkan selepas
 
-"Dokumen 13A. (1) Adalah tidak menjadi suatu pelanggaran rekabentuk apa-apa hakcipta dalam suatu dokumen rekabentuk dan model. atau model yang merekodkan atau yang mengandungi rekabentuk bagi apa-apa jua selain daripada suatu karya seni atau rupataip—
+<!-- marginal: 13A, 13B dan -->
+
+seksyen 13 seksyen yang berikut:
+
+<!-- marginal: 13c. -->
+
+<!-- marginal: "Dokumen -->
+
+13A. (1) Adalah tidak menjadi suatu pelanggaran
+
+<!-- marginal: rekabentuk -->
+
+apa-apa hakcipta dalam suatu dokumen rekabentuk
+
+<!-- marginal: dan model. -->
+
+atau model yang merekodkan atau yang mengandungi rekabentuk bagi apa-apa jua selain daripada suatu karya seni atau rupataip—
 
 (a) untuk membuat suatu barang mengikut rekabentuk itu, atau untuk meniru atau untuk mengeluarkan semula suatu barang yang dibuat mengikut rekabentuk itu; atau
 
@@ -132,9 +154,31 @@ Seksyen baru
 
 <!-- page 5 -->
 
-Kesan 13B. (1) Seksyen ini terpakai jika suatu karya seni peng- telah dieksploitkan, melalui atau dengan lesen eksploitan rekabentuk daripada tuan punya hakcipta, dengan — yang diterbitkan
+<!-- marginal: Kesan -->
 
-(a) membuat, melalui proses atau cara daripada karya seni. perindustrian, barang yang patut dikira bagi maksud seksyen ini dan seksyen 13A dan 13c sebagai salinan karya itu; dan
+13B. (1) Seksyen ini terpakai jika suatu karya seni
+
+<!-- marginal: peng- -->
+
+telah dieksploitkan, melalui atau dengan lesen
+
+<!-- marginal: eksploitan -->
+
+<!-- marginal: rekabentuk -->
+
+daripada tuan punya hakcipta, dengan —
+
+<!-- marginal: yang -->
+
+<!-- marginal: diterbitkan -->
+
+(a) membuat, melalui proses atau cara
+
+<!-- marginal: daripada -->
+
+<!-- marginal: karya seni. -->
+
+perindustrian, barang yang patut dikira bagi maksud seksyen ini dan seksyen 13A dan 13c sebagai salinan karya itu; dan
 
 (b) memasarkan barang itu di Malaysia atau di tempat lain.
 
@@ -160,9 +204,33 @@ Kesan 13B. (1) Seksyen ini terpakai jika suatu karya seni peng- telah dieksploit
 
 (b) sebutan mengenai pemasaran sesuatu barang hendaklah ditafsirkan sebagai sebutan mengenai penjualan atau penyewaan atau penawaran atau pendedahan bagi penjualan atau sewaan barang itu.
 
-Perkara 13c. (1) Hakcipta dalam suatu karya seni tidak yang di- dilanggar oleh apa-apa jua yang dilakukan — lakukan dengan bergantung pada
+<!-- marginal: Perkara -->
 
-(a) menurut suatu penyerahhakan atau lesen pendaftaran rekabentuk. yang dibuat atau diberi oleh seseorang yang didaftarkan di bawah Akta Rekabentuk 12,13 & 14 Geo. VI c.88. Berdaftar 1949 United Kingdom atau di bawah mana-mana undang-undang bertulis yang dikuatkuasakan di Malaysia pada masa material sebagai empunya atau tuan punya rekabentuk yang bersamaan; dan
+13c. (1) Hakcipta dalam suatu karya seni tidak
+
+<!-- marginal: yang di- -->
+
+dilanggar oleh apa-apa jua yang dilakukan —
+
+<!-- marginal: lakukan -->
+
+<!-- marginal: dengan -->
+
+<!-- marginal: bergantung -->
+
+<!-- marginal: pada -->
+
+(a) menurut suatu penyerahhakan atau lesen
+
+<!-- marginal: pendaftaran -->
+
+<!-- marginal: rekabentuk. -->
+
+yang dibuat atau diberi oleh seseorang yang didaftarkan di bawah Akta Rekabentuk
+
+<!-- marginal: 12,13 & 14 -->
+
+Geo. VI c.88. Berdaftar 1949 United Kingdom atau di bawah mana-mana undang-undang bertulis yang dikuatkuasakan di Malaysia pada masa material sebagai empunya atau tuan punya rekabentuk yang bersamaan; dan
 
 (b) dengan suci hati dengan bergantung pada pendaftaran itu dan tanpa notis mengenai apa-apa prosiding untuk membatalkan pendaftaran itu atau untuk membetulkan catatan yang relevan dalam daftar rekabentuk,
 
@@ -192,9 +260,11 @@ Sarawak
 
 Sarawak.".
 
-Bahagian bam
+<!-- marginal: Bahagian bam -->
 
-5. Akta ibu adalah dipinda dengan memasukkan selepas IVA.
+5. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: IVA. -->
 
 ## Bahagian IV Bahagian yang berikut:
 
@@ -206,9 +276,7 @@ IVA
 
 ## PELESENAN HAKCIPTA
 
-Skim
-
-27A. Seksyen 27B hingga 27G hendaklah terpakai pelesenan kepada — yang kepadanya seksyen 27B
+Skim 27A. Seksyen 27B hingga 27G hendaklah terpakai pelesenan kepada — yang kepadanya seksyen 27B
 
 (a) skim pelesenan yang dikendalikan oleh hingga 27 G badan-badan pelesenan berhubungan terpakai. dengan hakcipta dalam karya-karya sastera atau muzik, setakat yang ia berhubungan dengan lesen bagi —
 
@@ -236,9 +304,31 @@ Skim
 
 dan dalam seksyen-seksyen itu, "skim pelesenan" ertinya suatu skim pelesenan daripada mana-mana perihalan itu.
 
-Rujukan
+<!-- marginal: Rujukan -->
 
-27B. (1) Terma suatu skim pelesenan yang skim dicadangkan untuk dikendalikan oleh suatu badan pelesenan pelesenan boleh dirujukkan kepada Tribunal oleh yang dicadangkan mana-mana pertubuhan yang mendakwa bahawa ia kepada mewakili orang yang mendakwa bahawa dia Tribunal. menghendaki lesen dalam hal suatu perihalan yang kepadanya skim pelesenan itu terpakai, sama ada secara am atau berhubungan dengan mana-mana perihalan hal.
+27B. (1) Terma suatu skim pelesenan yang
+
+<!-- marginal: skim -->
+
+dicadangkan untuk dikendalikan oleh suatu badan
+
+<!-- marginal: pelesenan -->
+
+pelesenan boleh dirujukkan kepada Tribunal oleh
+
+<!-- marginal: yang -->
+
+<!-- marginal: dicadangkan -->
+
+mana-mana pertubuhan yang mendakwa bahawa ia
+
+<!-- marginal: kepada -->
+
+mewakili orang yang mendakwa bahawa dia
+
+<!-- marginal: Tribunal. -->
+
+menghendaki lesen dalam hal suatu perihalan yang kepadanya skim pelesenan itu terpakai, sama ada secara am atau berhubungan dengan mana-mana perihalan hal.
 
 (2) Tribunal hendaklah pertamanya memutuskan sama ada untuk melayan rujukan itu, dan boleh menolaknya atas alasan bahawa rujukan itu adalah terlalu awal.
 
@@ -248,7 +338,21 @@ Rujukan
 
 <!-- page 9 -->
 
-Rujukan 27c. (1) Jika semasa skim pelesenan dikendalikan skim pertikaian berbangkit antara pengendali skim pelesenan pelesenan itu dan — kepada Tribunal.
+<!-- marginal: Rujukan -->
+
+27c. (1) Jika semasa skim pelesenan dikendalikan
+
+<!-- marginal: skim -->
+
+pertikaian berbangkit antara pengendali skim
+
+<!-- marginal: pelesenan -->
+
+pelesenan itu dan —
+
+<!-- marginal: kepada -->
+
+<!-- marginal: Tribunal. -->
 
 (a) seseorang yang mendakwa bahawa dia menghendaki suatu lesen dalam hal suatu perihalan yang kepadanya skim pelesenan itu terpakai; atau
 
@@ -262,9 +366,27 @@ orang atau pertubuhan itu boleh merujukkan skim pelesenan itu kepada Tribunal se
 
 (4) Suatu perintah di bawah subseksyen (3) bolehlah dibuat supaya berkuatkuasa tanpa ditetapkan masanya atau bagi apa-apa tempoh yang ditentukan oleh Tribunal.
 
-Rujukan
+<!-- marginal: Rujukan -->
 
-27D. (1) Jika Tribunal telah atas suatu rujukan lanjut terdahulu skim pelesenan di bawah seksyen 27B skim pelesenan atau 27c atau di bawah seksyen ini membuat suatu kepada perintah berkenaan dengan skim pelesenan itu, Tribunal. maka, semasa perintah itu tetap berkuatkuasa —
+27D. (1) Jika Tribunal telah atas suatu rujukan
+
+<!-- marginal: lanjut -->
+
+terdahulu skim pelesenan di bawah seksyen 27B
+
+<!-- marginal: skim -->
+
+<!-- marginal: pelesenan -->
+
+atau 27c atau di bawah seksyen ini membuat suatu
+
+<!-- marginal: kepada -->
+
+perintah berkenaan dengan skim pelesenan itu,
+
+<!-- marginal: Tribunal. -->
+
+maka, semasa perintah itu tetap berkuatkuasa —
 
 (a) pengendali skim pelesenan itu;
 
@@ -290,11 +412,33 @@ boleh sekali lagi merujukkan skim pelesenan itu kepada Tribunal setakat yang ia 
 
 (5) Suatu perintah di bawah subseksyen (4) bolehlah dibuat supaya berkuatkuasa tanpa ditetapkan masanya atau bagi apa-apa tempoh yang ditentukan oleh Tribunal.
 
-Permohonan
+<!-- marginal: Permohonan -->
 
-27E. (1) Seseorang yang mendakwa, dalam suatu bagi hal yang dirangkumi oleh suatu skim pelesenan, pemberian lesen bahawa pengendali skim pelesenan itu— berkaitan dengan
+27E. (1) Seseorang yang mendakwa, dalam suatu
 
-(a) enggan memberi lesen kepadanya atau skim memperolehi pemberian lesen kepadanya pelesenan. mengikut skim pelesenan itu; atau
+<!-- marginal: bagi -->
+
+hal yang dirangkumi oleh suatu skim pelesenan,
+
+<!-- marginal: pemberian -->
+
+<!-- marginal: lesen -->
+
+bahawa pengendali skim pelesenan itu—
+
+<!-- marginal: berkaitan -->
+
+<!-- marginal: dengan -->
+
+(a) enggan memberi lesen kepadanya atau
+
+<!-- marginal: skim -->
+
+memperolehi pemberian lesen kepadanya
+
+<!-- marginal: pelesenan. -->
+
+mengikut skim pelesenan itu; atau
 
 <!-- page 11 -->
 
@@ -328,9 +472,35 @@ yang mengisytiharkan bahawa, berkenaan dengan perkara yang dinyatakan dalam peri
 
 (5) Suatu perintah di bawah subseksyen (4) bolehlah dibuat supaya berkuatkuasa tanpa ditetapkan masanya atau bagi apa-apa tempoh yang ditentukan oleh Tribunal.
 
-Permohonan
+<!-- marginal: Permohonan -->
 
-27F. (1) JikaTribunal telah membuat suatu perintah bagi di bawah seksyen 27E bahawa seseorang berhak kajian mendapat lesen di bawah suatu skim pelesenan, semula perintah pengendali skim pelesenan itu atau pemohon asal tentang boleh memohon kepada Tribunal untuk mengkaji hak untuk mendapat semula perintahnya. lesen.
+27F. (1) JikaTribunal telah membuat suatu perintah
+
+<!-- marginal: bagi -->
+
+di bawah seksyen 27E bahawa seseorang berhak
+
+<!-- marginal: kajian -->
+
+mendapat lesen di bawah suatu skim pelesenan,
+
+<!-- marginal: semula -->
+
+<!-- marginal: perintah -->
+
+pengendali skim pelesenan itu atau pemohon asal
+
+<!-- marginal: tentang -->
+
+boleh memohon kepada Tribunal untuk mengkaji
+
+<!-- marginal: hak untuk -->
+
+<!-- marginal: mendapat -->
+
+semula perintahnya.
+
+<!-- marginal: lesen. -->
 
 (2) Suatu permohonan tidak boleh dibuat, kecuali dengan kebenaran khas Tribunal,—
 
@@ -342,9 +512,27 @@ Permohonan
 
 <!-- page 13 -->
 
-Kesan
+<!-- marginal: Kesan -->
 
-27G. (1) Suatu skim pelesenan yang telah disahkan perintah atau diubah oleh Tribunal di bawah seksyen 27B, Tribunal tentang 27c atau 27D hendaklah berkuatkuasa atau, mengikut skim mana-mana yang berkenaan, tetap berkuatkuasa, pelesenan. setakat yang ia berhubungan dengan perihalan hal yang berkenaan dengannya perintah itu dibuat, selagi perintah itu tetap berkuatkuasa.
+27G. (1) Suatu skim pelesenan yang telah disahkan
+
+<!-- marginal: perintah -->
+
+atau diubah oleh Tribunal di bawah seksyen 27B,
+
+<!-- marginal: Tribunal -->
+
+<!-- marginal: tentang -->
+
+27c atau 27D hendaklah berkuatkuasa atau, mengikut
+
+<!-- marginal: skim -->
+
+mana-mana yang berkenaan, tetap berkuatkuasa,
+
+<!-- marginal: pelesenan. -->
+
+setakat yang ia berhubungan dengan perihalan hal yang berkenaan dengannya perintah itu dibuat, selagi perintah itu tetap berkuatkuasa.
 
 (2) Semasa perintah itu berkuatkuasa seseorang, yang dalam hal suatu kelas yang kepadanya perintah itu terpakai, hendaklah—
 
@@ -376,9 +564,25 @@ berkenaan dengan caj yang telah dibayar atau yang kena dibayar; dan
 
 berada dalam kedudukan yang sama berkaitan dengan pelanggaran hakcipta seolah-olah dia telah pada segala masa material menjadi pemegang lesen yang diberi oleh tuan punya hakcipta yang berkenaan atas terma-terma yang dinyatakan dalam perintah itu.
 
-Lesen
+<!-- marginal: Lesen -->
 
-27H. Seksyen 27I hingga 27L hendaklah terpakai yang kepada- kepada perihalan lesen yang berikut yang diberi nya seksyen 27I oleh badan pelesenan selain daripada menurut skim hingga 21L pelesenan: terpakai.
+27H. Seksyen 27I hingga 27L hendaklah terpakai
+
+<!-- marginal: yang kepada- -->
+
+kepada perihalan lesen yang berikut yang diberi
+
+<!-- marginal: nya -->
+
+<!-- marginal: seksyen 27I -->
+
+oleh badan pelesenan selain daripada menurut skim
+
+<!-- marginal: hingga 21L -->
+
+pelesenan:
+
+<!-- marginal: terpakai. -->
 
 (a) lesen berhubungan dengan hakcipta dalam karya-karya sastera atau muzik yang merangkumi karya-karya lebih daripada seorang pencipta, setakat yang ia membenarkan—
 
@@ -404,9 +608,27 @@ Lesen
 
 dan dalam seksyen-seksyen itu, "lesen" ertinya suatu lesen daripada mana-mana perihalan itu.
 
-Rujukan
+<!-- marginal: Rujukan -->
 
-27I. (1) Terma yang atasnya badan pelesenan kepada bercadang untuk memberi lesen boleh dirujukkan Tribunal tentang kepada Tribunal oleh bakal pemegang lesen. terma lesen yang dicadangkan. (2) Tribunal hendaklah pertamanya memutuskan sama ada untuk melayan rujukan itu, dan boleh menolaknya atas alasan bahawa rujukan itu adalah terlalu awal.
+27I. (1) Terma yang atasnya badan pelesenan
+
+<!-- marginal: kepada -->
+
+bercadang untuk memberi lesen boleh dirujukkan
+
+<!-- marginal: Tribunal -->
+
+<!-- marginal: tentang -->
+
+kepada Tribunal oleh bakal pemegang lesen.
+
+<!-- marginal: terma lesen -->
+
+<!-- marginal: yang -->
+
+<!-- marginal: dicadangkan. -->
+
+(2) Tribunal hendaklah pertamanya memutuskan sama ada untuk melayan rujukan itu, dan boleh menolaknya atas alasan bahawa rujukan itu adalah terlalu awal.
 
 (3) Jika Tribunal memutuskan untuk melayan rujukan itu, ia hendaklah menimbangkan terma- terma lesen yang dicadangkan dan membuat apa- apa perintah, sama ada yang mengesahkan atau yang mengubah terma-terma itu, yang ditentukan sebagai munasabah dalam hal keadaan itu oleh Tribunal.
 
@@ -416,9 +638,29 @@ Rujukan
 
 (4) Suatu perintah di bawah subseksyen (3) bolehlah dibuat supaya berkuatkuasa tanpa ditetapkan masanya atau bagi apa-apa tempoh yang ditentukan oleh Tribunal.
 
-Rujukan
+<!-- marginal: Rujukan -->
 
-27J. (1) Seseorang pemegang lesen di bawah suatu kepada lesen yang akan habis tempoh, melalui peluputan Tribunal tentang masa atau hasil notis yang diberikan oleh badan lesen yang pelesenan, boleh memohon kepada Tribunal atas akan habis tempoh. alasan bahawa adalah tak munasabah dalam hal keadaan itu bahawa lesen itu patut terhenti berkuatkuasa.
+27J. (1) Seseorang pemegang lesen di bawah suatu
+
+<!-- marginal: kepada -->
+
+lesen yang akan habis tempoh, melalui peluputan
+
+<!-- marginal: Tribunal -->
+
+<!-- marginal: tentang -->
+
+masa atau hasil notis yang diberikan oleh badan
+
+<!-- marginal: lesen yang -->
+
+pelesenan, boleh memohon kepada Tribunal atas
+
+<!-- marginal: akan habis -->
+
+<!-- marginal: tempoh. -->
+
+alasan bahawa adalah tak munasabah dalam hal keadaan itu bahawa lesen itu patut terhenti berkuatkuasa.
 
 (2) Suatu permohonan sedemikian tidak boleh dibuat sehingga tiga bulan terakhir sebelum lesen itu akan habis tempoh.
 
@@ -428,9 +670,27 @@ Rujukan
 
 (5) Suatu perintah di bawah subseksyen (4) bolehlah dibuat supaya berkuatkuasa tanpa ditetapkan masanya atau bagi apa-apa tempoh yang ditentukan oleh Tribunal.
 
-Permohonan
+<!-- marginal: Permohonan -->
 
-27K. (1) Jika Tribunal telah membuat suatu bagi kajian perintah di bawah seksyen 27I atau 27J, badan semula perintah pelesenan atau orang yang berhak mendapat faedah tentang perintah itu boleh memohon kepada Tribunal untuk lesen. mengkaji semula perintahnya.
+27K. (1) Jika Tribunal telah membuat suatu
+
+<!-- marginal: bagi kajian -->
+
+perintah di bawah seksyen 27I atau 27J, badan
+
+<!-- marginal: semula -->
+
+<!-- marginal: perintah -->
+
+pelesenan atau orang yang berhak mendapat faedah
+
+<!-- marginal: tentang -->
+
+perintah itu boleh memohon kepada Tribunal untuk
+
+<!-- marginal: lesen. -->
+
+mengkaji semula perintahnya.
 
 <!-- page 17 -->
 
@@ -442,9 +702,23 @@ Permohonan
 
 (3) Tribunal hendaklah atas suatu permohonan bagi kajian semula mengesahkan atau mengubah perintahnya sebagaimana yang ditentukan sebagai munasabah dalam hal keadaan itu oleh Tribunal.
 
-Kesan
+<!-- marginal: Kesan -->
 
-27L. (1) Jika Tribunal telahmembuat suatu perintah perintah di bawah seksyen 27I atau 27J dan perintah itu tetap Tribunal tentang berkuatkuasa, orang yang berhak mendapat faedah lesen. perintah itu hendaklah, jika dia—
+27L. (1) Jika Tribunal telahmembuat suatu perintah
+
+<!-- marginal: perintah -->
+
+di bawah seksyen 27I atau 27J dan perintah itu tetap
+
+<!-- marginal: Tribunal -->
+
+<!-- marginal: tentang -->
+
+berkuatkuasa, orang yang berhak mendapat faedah
+
+<!-- marginal: lesen. -->
+
+perintah itu hendaklah, jika dia—
 
 (a) membayar kepada badan pelesenan itu apa- apa caj yang kena dibayar mengikut perintah itu atau, jika amaun itu tidak dapat ditentukan, memberikan akujanji kepada pengendali itu untuk membayar caj itu apabila ditentukan; dan
 
@@ -468,9 +742,11 @@ berada dalam kedudukan yang sama berkaitan dengan pelanggaran hakcipta seolah-ol
 
 (b) sebutan dalam perenggan (a) subseksyen (1) mengenai caj yang kena dibayar mengikut perintah itu hendaklah ditafsirkan, jika perintah itu diubah oleh suatu perintah kemudian, sebagai sebutan mengenai caj yang kena dibayar sedemikian menurut kuasa perintah yang kemudian itu.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-6. Seksyen 29 Akta ibu adalah dipinda— seksyen 29.
+6. Seksyen 29 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 29. -->
 
 (a) dengan menggantikan subseksyen (1) dengan subseksyen yang berikut:
 
@@ -490,9 +766,11 @@ Pindaan
 
 " (7) Maka hendaklah ada seorang Setiausaha kepada Tribunal dan mana-mana pegawai lain yang perlu untuk membantu Tribunal, yang hendaklah dilantik oleh Menteri.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-7. Seksyen 30 Akta ibu adalah dipinda— seksyen 30.
+7. Seksyen 30 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 30. -->
 
 (a) dalam subseksyen (1)—
 
@@ -512,13 +790,35 @@ dan Tribunal hendaklah, bagi maksud prosiding itu, disifatkan sebagai dianggotai
 
 (7) Dalam mana-mana hal yang disebut dalam subseksyen (6) jika anggota yang tidak dapat meneruskan prosiding ialah pengerusi prosiding itu, maka Menteri hendaklah melantik daripada kalangan anggota yang tinggal seorang pengerusi baru bagi maksud prosiding yang diteruskan itu.".
 
-Seksyen bam
+<!-- marginal: Seksyen bam -->
 
 8. Akta ibu adalah dipinda dengan memasukkan selepas
 
 30A. seksyen 30 seksyen yang berikut:
 
-"Rujukan 30A. (1) Tribunal boleh atas usulnya sendiri, atau persoalan hendaklah atas permintaan sesuatu pihak, undang- undang merujukkan persoalan undang-undang yang kepada berbangkit dalam presiding yang diselesaikan di Mahkamah Tinggi. hadapannya untuk ditentukan oleh Mahkamah Tinggi.
+<!-- marginal: "Rujukan -->
+
+30A. (1) Tribunal boleh atas usulnya sendiri, atau
+
+<!-- marginal: persoalan -->
+
+hendaklah atas permintaan sesuatu pihak,
+
+<!-- marginal: undang- -->
+
+<!-- marginal: undang -->
+
+merujukkan persoalan undang-undang yang
+
+<!-- marginal: kepada -->
+
+berbangkit dalam presiding yang diselesaikan di
+
+<!-- marginal: Mahkamah -->
+
+<!-- marginal: Tinggi. -->
+
+hadapannya untuk ditentukan oleh Mahkamah Tinggi.
 
 (2) Suatu permintaan di bawah subseksyen (1) hendaklah dibuat secara bertulis dalam tempoh empat belas hari dari tarikh yang padanya keputusan itu dibuat.
 
@@ -536,15 +836,31 @@ suatu rayuan kepada Mahkamah Tinggi terhadap keputusan Tribunal, dan dengan itu 
 
 (7) Bagi maksud seksyen ini, persoalan undang- undang tidaklah termasuk persoalan sama ada terdapat keterangan yang mencukupi untuk menjustifikasikan dapatan fakta oleh Tribunal.".
 
-Pemotongan
+<!-- marginal: Pemotongan -->
 
-9. Akta ibu adalah dipinda dengan memotong seksyen 32. seksyen 32.
+9. Akta ibu adalah dipinda dengan memotong seksyen 32.
 
-Seksyen baru
+<!-- marginal: seksyen 32. -->
 
-10. Akta ibu adalah dipinda dengan memasukkan selepas 41A. seksyen 41 seksyen yang berikut:
+<!-- marginal: Seksyen baru -->
 
-"Pengkom- 41 A. (1) Pengawal atau Timbalan Pengawal boleh paunan mengkompaunkan apa-apa kesalahan di bawah Akta kesalahan. ini atau perundangan subsidiari yang dibuat di bawahnya yang ditetapkan sebagai suatu kesalahan yang boleh dikompaun dengan menerima daripada orang yang disyaki secara munasabah telah melakukan kesalahan itu suatu jumlah wang yang tidak melebihi jumlah yang ditetapkan.
+10. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: 41A. -->
+
+seksyen 41 seksyen yang berikut:
+
+<!-- marginal: "Pengkom- -->
+
+41 A. (1) Pengawal atau Timbalan Pengawal boleh
+
+<!-- marginal: paunan -->
+
+mengkompaunkan apa-apa kesalahan di bawah Akta
+
+<!-- marginal: kesalahan. -->
+
+ini atau perundangan subsidiari yang dibuat di bawahnya yang ditetapkan sebagai suatu kesalahan yang boleh dikompaun dengan menerima daripada orang yang disyaki secara munasabah telah melakukan kesalahan itu suatu jumlah wang yang tidak melebihi jumlah yang ditetapkan.
 
 (2) Setelah menerima bayaran di bawah subseksyen (1), tiada prosiding lanjut boleh diambil terhadap orang itu berkenaan dengan kesalahan itu dan jika milikan apa-apa barang telah diambil, barang itu boleh dilepaskan, tertakluk kepada apa- apa syarat yang dikenakan mengikut syarat-syarat pengkompaunan itu.
 
@@ -552,11 +868,17 @@ Seksyen baru
 
 (3) Kuasa mengkompaunkan kesalahan di bawah subseksyen (1) hendaklah dijalankan oleh Pengawal atau Timbalan Pengawal sendiri.".
 
-Pemotongan
+<!-- marginal: Pemotongan -->
 
-11. Akta ibu adalah dipinda dengan memotong seksyen 58. seksyen 58. Peralihan dan
+11. Akta ibu adalah dipinda dengan memotong seksyen 58.
 
-12. Tiada apa-apa dalam Akta ini boleh menyentuh— kecualian.
+<!-- marginal: seksyen 58. -->
+
+<!-- marginal: Peralihan dan -->
+
+12. Tiada apa-apa dalam Akta ini boleh menyentuh—
+
+<!-- marginal: kecualian. -->
 
 (a) prosiding yang dimulakan di bawah seksyen 58 Akta ibu sebelum tarikh mula berkuatkuasanya Akta ini dan yang belum selesai sebelum sahaja tarikh mula berkuatkuasanya Akta ini; dan
 

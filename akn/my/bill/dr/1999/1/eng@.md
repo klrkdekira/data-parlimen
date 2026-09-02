@@ -30,19 +30,41 @@ Bill
 
 Title
 
-### Amount
+<!-- marginal: Amount -->
 
 <!-- marginal: (RM) -->
 
-B. 16 Fire and Rescue Department 4,568,230 B. 20 Ministry of International Trade and 3,746,400 Industry B. 29 Treasury General Services 206,420,560 B. 30 Contribution to Statutory Funds 9,409,450,403 B. 32 Inland Revenue Department
+B. 16 Fire and Rescue Department
+
+<!-- marginal: 4,568,230 -->
+
+B. 20 Ministry of International Trade and
+
+<!-- marginal: 3,746,400 -->
+
+Industry B. 29 Treasury General Services
+
+<!-- marginal: 206,420,560 -->
+
+B. 30 Contribution to Statutory Funds
+
+<!-- marginal: 9,409,450,403 -->
+
+B. 32 Inland Revenue Department
 
 <!-- marginal: 421,862 -->
 
-B. 40 Prison Department 1,641,163 B. 51 Ministry of Foreign Affairs 33,502,298
+B. 40 Prison Department
+
+<!-- marginal: 1,641,163 -->
+
+B. 51 Ministry of Foreign Affairs
+
+<!-- marginal: 33,502,298 -->
 
 ## TOTAL
 
-9,659,750,916
+<!-- marginal: 9,659,750,916 -->
 
 ## SECOND SCHEDULE
 
@@ -50,16 +72,22 @@ Purpose
 
 ### Title
 
-Amount
+<!-- marginal: Amount -->
 
 <!-- marginal: (RM) -->
 
-B. 49 Ministry of Energy, Communication 60,000,000 and Multimedia
+B. 49 Ministry of Energy, Communication
+
+<!-- marginal: 60,000,000 -->
+
+and Multimedia
 
 ## TOTAL
 
-60,000,000
+<!-- marginal: 60,000,000 -->
 
 ## EXPLANATORY STATEMENT
 
-The Bill seeks to provide for the issue from the Consolidated Fund of a sum of nine billion seven hundred and nineteen million seven hundred and fifty thousand nine hundred and sixteen ringgit (RM9,719,750,916) out of which a sum of nine billion six hundred and fifty-nine million seven hundred and fifty thousand nine hundred and sixteen ringgit (RM9,659,750,916) is for the services and purposes as specified in the First Schedule for the year 1998 and a sum of sixty million ringgit (RM60,000,000) for the service and purpose as specified in the Second Schedule for the year 1999. [PN(U2)2130]
+The Bill seeks to provide for the issue from the Consolidated Fund of a sum of nine billion seven hundred and nineteen million seven hundred and fifty thousand nine hundred and sixteen ringgit (RM9,719,750,916) out of which a sum of nine billion six hundred and fifty-nine million seven hundred and fifty thousand nine hundred and sixteen ringgit (RM9,659,750,916) is for the services and purposes as specified in the First Schedule for the year 1998 and a sum of sixty million ringgit (RM60,000,000) for the service and purpose as specified in the Second Schedule for the year 1999.
+
+<!-- marginal: [PN(U2)2130] -->

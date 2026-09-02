@@ -79,7 +79,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@/~cl_3",
       "@type": "akn:clause",
       "eli:number": "3",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@/~cl_3__para_a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@/~cl_3__para_b"
+      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@",
       "schema:name": {
         "@language": "ms",
@@ -93,14 +96,27 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@/~cl_3",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan butiran 55 dengan butiran yang berikut: Gaji Bulanan Caruman Caruman Majikan Pekerja 55.Apabila gaji RM10.10 RM10.10 RM20.20 “ melebihi RM5,000 tetapi tidak melebihi RM5,100 (b) dengan memasukkan selepas butiran 55 butiran yang berikut: Gaji Bulanan Caruman Caruman Majikan Pekerja 56.Apabila gaji RM10.30 RM10.30 RM20.60 “ melebihi RM5,100 tetapi tidak melebihi RM5,200 57.Apabila gaji RM10.50 RM10.50 RM21.00 melebihi RM5,200 tetapi tidak melebihi RM5,300 58.Apabila gaji RM10.70 RM10.70 RM21.40 melebihi RM5,300 tetapi tidak melebihi RM5,400 59.Apabila gaji RM10.90 RM10.90 RM21.80 melebihi RM5,400 tetapi tidak melebihi RM5,500 60.Apabila gaji RM11.10 RM11.10 RM22.20 melebihi RM5,500 tetapi tidak melebihi RM5,600 61.Apabila gaji RM11.30 RM11.30 RM22.60 melebihi RM5,600 tetapi tidak melebihi RM5,700 Gaji Bulanan Caruman Caruman Majikan Pekerja 62.Apabila gaji RM11.50 RM11.50 RM23.00 melebihi RM5,700 tetapi tidak melebihi RM5,800 63.Apabila gaji RM11.70 RM11.70 RM23.40 melebihi RM5,800 tetapi tidak melebihi RM5,900 64.Apabila gaji RM11.90 RM11.90 RM23.80 melebihi RM5,900 tetapi tidak melebihi RM6,000 65.Apabila gaji RM11.90 RM11.90 RM23.80 ”. melebihi RM6,000 Pindaan Jadual Ketiga"
+        "@value": "dengan menggantikan butiran 55 dengan butiran yang berikut: Gaji Bulanan Caruman Caruman Jumlah Majikan Pekerja 55.Apabila gaji RM10.10 RM10.10 RM20.20 “ melebihi RM5,000 tetapi tidak melebihi RM5,100"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas butiran 55 butiran yang berikut: Gaji Bulanan Caruman Caruman Jumlah Majikan Pekerja 56.Apabila gaji RM10.30 RM10.30 RM20.60 “ melebihi RM5,100 tetapi tidak melebihi RM5,200 57.Apabila gaji RM10.50 RM10.50 RM21.00 melebihi RM5,200 tetapi tidak melebihi RM5,300 58.Apabila gaji RM10.70 RM10.70 RM21.40 melebihi RM5,300 tetapi tidak melebihi RM5,400 59.Apabila gaji RM10.90 RM10.90 RM21.80 melebihi RM5,400 tetapi tidak melebihi RM5,500 60.Apabila gaji RM11.10 RM11.10 RM22.20 melebihi RM5,500 tetapi tidak melebihi RM5,600 61.Apabila gaji RM11.30 RM11.30 RM22.60 melebihi RM5,600 tetapi tidak melebihi RM5,700 Gaji Bulanan Caruman Caruman Jumlah Majikan Pekerja 62.Apabila gaji RM11.50 RM11.50 RM23.00 melebihi RM5,700 tetapi tidak melebihi RM5,800 63.Apabila gaji RM11.70 RM11.70 RM23.40 melebihi RM5,800 tetapi tidak melebihi RM5,900 64.Apabila gaji RM11.90 RM11.90 RM23.80 melebihi RM5,900 tetapi tidak melebihi RM6,000 65.Apabila gaji RM11.90 RM11.90 RM23.80 ”. melebihi RM6,000 Pindaan Jadual Ketiga"
       }
     },
     {
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@/~cl_4",
       "@type": "akn:clause",
       "eli:number": "4",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@/~cl_4__para_a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@/~cl_4__para_b"
+      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@",
       "schema:name": {
         "@language": "ms",
@@ -114,7 +130,17 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@/~cl_4",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan butiran 55 dengan butiran yang berikut: Gaji bulanan sebenar bagi bulan itu caruman 55. Apabila gaji melebihi RM5,000 RM20.20 “ tetapi tidak melebihi RM5,100 (b) dengan memasukkan selepas butiran 55 butiran yang berikut: Gaji bulanan sebenar bagi bulan itu caruman 56. Apabila gaji melebihi RM5,100 “ tetapi tidak melebihi RM5,200 Gaji bulanan sebenar Jumlah bagi bulan itu caruman 57. Apabila gaji melebihi RM5,200 RM21.00 tetapi tidak melebihi RM5,300 58. Apabila gaji melebihi RM5,300 RM21.40 tetapi tidak melebihi RM5,400 59. Apabila gaji melebihi RM5,400 RM21.80 tetapi tidak melebihi RM5,500 60. Apabila gaji melebihi RM5,500 RM22.20 tetapi tidak melebihi RM5,600 61. Apabila gaji melebihi RM5,600 RM22.60 tetapi tidak melebihi RM5,700 62. Apabila gaji melebihi RM5,700 RM23.00 tetapi tidak melebihi RM5,800 63. Apabila gaji melebihi RM5,800 RM23.40 tetapi tidak melebihi RM5,900 64. Apabila gaji melebihi RM5,900 RM23.80 tetapi tidak melebihi RM6,000 65. Apabila gaji melebihi RM6,000 RM23.80 ”."
+        "@value": "dengan menggantikan butiran 55 dengan butiran yang berikut: Gaji bulanan sebenar Jumlah Gaji bulanan bagi bulan itu caruman anggapan yang bersamaan bagi bulan 55. Apabila gaji melebihi RM5,000 RM20.20 RM5,050 “ tetapi tidak melebihi RM5,100"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas butiran 55 butiran yang berikut: Gaji bulanan sebenar Jumlah Gaji bulanan bagi bulan itu caruman anggapan bersamaan bagi bulan 56. Apabila gaji melebihi RM5,100 RM20.60 RM5,150 “ tetapi tidak melebihi RM5,200 Gaji bulanan sebenar bagi bulan itu caruman 57. Apabila gaji melebihi RM5,200 tetapi tidak melebihi RM5,300 58. Apabila gaji melebihi RM5,300 tetapi tidak melebihi RM5,400 59. Apabila gaji melebihi RM5,400 tetapi tidak melebihi RM5,500 60. Apabila gaji melebihi RM5,500 tetapi tidak melebihi RM5,600 61. Apabila gaji melebihi RM5,600 tetapi tidak melebihi RM5,700 62. Apabila gaji melebihi RM5,700 tetapi tidak melebihi RM5,800 63. Apabila gaji melebihi RM5,800 tetapi tidak melebihi RM5,900 64. Apabila gaji melebihi RM5,900 tetapi tidak melebihi RM6,000 65. Apabila gaji melebihi RM6,000 ”."
       }
     }
   ]

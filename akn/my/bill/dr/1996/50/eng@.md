@@ -38,11 +38,39 @@ III
 
 ## OF ARREST, ESCAPE AND RE-ARREST
 
-10. Arrest; how made. 1 ). Search of place entered by person sought to be arrested. 12. Search of persons in place searched under warrant. 13. Power to break open any place for purposes of liberation.
+10. Arrest; how made. 1 ). Search of place entered by person sought to be arrested.
+
+12. Search of persons in place searched under warrant.
+
+13. Power to break open any place for purposes of liberation.
 
 <!-- page 2 -->
 
-14. No unnecessary restraint and mode of searching a person. 15. Search of persons arrested. 16. Power to seize offensive weapons. 17. Search of persons for name and address. 18. Arrest without warrant. 19. Refusal to give name and residence. 20. Persons arrested by Pegawai Masjid: how to be dealt with. 21. Pursuit of offenders. 22. How person arrested is to be dealt with and detention for more than twenty-four hours. 23. Release of person arrested. 24. Offence committed in the presence of a Judge. 25. Arrest by or in the presence of a Judge. 26. Power to pursue and re-arrest. 27. Provisions of sections 11 and 13 to apply to arrest under section 26.
+14. No unnecessary restraint and mode of searching a person.
+
+15. Search of persons arrested.
+
+16. Power to seize offensive weapons.
+
+17. Search of persons for name and address.
+
+18. Arrest without warrant. 19. Refusal to give name and residence.
+
+20. Persons arrested by Pegawai Masjid: how to be dealt with.
+
+21. Pursuit of offenders.
+
+22. How person arrested is to be dealt with and detention for more than twenty-four hours.
+
+23. Release of person arrested.
+
+24. Offence committed in the presence of a Judge.
+
+25. Arrest by or in the presence of a Judge.
+
+26. Power to pursue and re-arrest.
+
+27. Provisions of sections 11 and 13 to apply to arrest under section 26.
 
 ## CHAPTER 3
 
@@ -50,15 +78,39 @@ III
 
 Summons
 
-28. Form of summons and service. 29. Summons: how served. 30. Procedure when personal service cannot be effected. 31. Proof of service.
+28. Form of summons and service.
 
-32. Form of warrant of arrest. 33. Court may direct by indorsement on warrant security to be taken. 34. Warrants: to whom directed. 35. Notification of substance of warrant. 36. Person arrested to be brought before the Court without delay. 37. Procedure on arrest of person against whom warrant is issued.
+29. Summons: how served.
+
+30. Procedure when personal service cannot be effected.
+
+31. Proof of service.
+
+32. Form of warrant of arrest.
+
+33. Court may direct by indorsement on warrant security to be taken.
+
+34. Warrants: to whom directed.
+
+35. Notification of substance of warrant.
+
+36. Person arrested to be brought before the Court without delay.
+
+37. Procedure on arrest of person against whom warrant is issued.
 
 <!-- page 3 -->
 
 (Federal Territories)
 
-Other Rules regarding Summonses to Appear and Warrants of Arrest 38. Issue of warrant in lieu of or in addition to summons. 39. Summonses to appear and warrants of arrest may be executed in any part of Malaysia. 40. Power to take bond for appearance. 41. Arrest on breach of bond for appearance.
+Other Rules regarding Summonses to Appear and Warrants of Arrest
+
+38. Issue of warrant in lieu of or in addition to summons.
+
+39. Summonses to appear and warrants of arrest may be executed in any part of Malaysia.
+
+40. Power to take bond for appearance.
+
+41. Arrest on breach of bond for appearance.
 
 ## CHAPTER 4
 
@@ -68,9 +120,31 @@ Other Rules regarding Summonses to Appear and Warrants of Arrest 38. Issue of wa
 
 ## PERSONS WRONGFULLY CONFINED
 
-42. Summons to produce document or other things. 43. Provisions of sections 28 to 31 to apply.
+42. Summons to produce document or other things.
 
-Search Warrants 44. When search warrant may be issued. 45. Power to restrict search warrant. 46. Judge may issue warrant authorizing search for evidence of offence. 47. Form of search warrant. 48. Search for persons wrongfully confined. 49. Persons in charge of closed places to allow search. 50. Judge issuing search warrant may attend at its execution. 51. Judge may direct search in his presence. 52. List of all things seized to be made and signed. 53. Occupant to be present at search.
+43. Provisions of sections 28 to 31 to apply.
+
+Search Warrants
+
+44. When search warrant may be issued.
+
+45. Power to restrict search warrant.
+
+46. Judge may issue warrant authorizing search for evidence of offence.
+
+47. Form of search warrant.
+
+48. Search for persons wrongfully confined.
+
+49. Persons in charge of closed places to allow search.
+
+50. Judge issuing search warrant may attend at its execution.
+
+51. Judge may direct search in his presence.
+
+52. List of all things seized to be made and signed.
+
+53. Occupant to be present at search.
 
 ## PART
 
@@ -84,7 +158,17 @@ IV
 
 <!-- page 4 -->
 
-61. No inducement to be offerred. 62. Power to record statements and confessions. 63. Search by Religious Enforcement Officer. 64. Religious Enforcement Officer may require bond for appearance of complainant and witnesses. 65. Diary of proceedings in investigation. 66. Report of Religious Enforcement Officer.
+61. No inducement to be offerred.
+
+62. Power to record statements and confessions.
+
+63. Search by Religious Enforcement Officer.
+
+64. Religious Enforcement Officer may require bond for appearance of complainant and witnesses.
+
+65. Diary of proceedings in investigation.
+
+66. Report of Religious Enforcement Officer.
 
 ## PART V
 
@@ -96,21 +180,45 @@ I
 
 ## OF THE JURISDICTION OF COURTS IN TRIALS
 
-67. Ordinary place of trial. 68. Accused triable in place where act is done or where consequence ensues. 69. Place of trial where act is an offence by reason of relation to other offence. 70. Where scene of offence is uncertain. 71. When doubt arises, Chief Syariah Judge to decide.
+67. Ordinary place of trial.
 
-Conditions Requisite for Initiation of Proceedings 72. Cognizance of offences by Judge. 73. Sanction to prosecute from Chief Syariah Prosecutor.
+68. Accused triable in place where act is done or where consequence ensues.
+
+69. Place of trial where act is an offence by reason of relation to other offence.
+
+70. Where scene of offence is uncertain.
+
+71. When doubt arises, Chief Syariah Judge to decide.
+
+Conditions Requisite for Initiation of Proceedings
+
+72. Cognizance of offences by Judge.
+
+73. Sanction to prosecute from Chief Syariah Prosecutor.
 
 ## CHAPTER 2
 
 ## OF COMPLAINTS TO JUDGE
 
-74. Examination of complainant. 75. Postponement of issue of process. 76. Dismissal of complaint. 77. Issue of process.
+74. Examination of complainant.
+
+75. Postponement of issue of process.
+
+76. Dismissal of complaint.
+
+77. Issue of process.
 
 ## CHAPTER 3
 
 ## OF THE CHARGE
 
-78. Form of charge. 79. Particulars as to time, place and person. 80. When manner of committing offence must be stated. 81. Sense of words used in charge to describe offence.
+78. Form of charge.
+
+79. Particulars as to time, place and person.
+
+80. When manner of committing offence must be stated.
+
+81. Sense of words used in charge to describe offence.
 
 <!-- page 5 -->
 
@@ -120,17 +228,35 @@ Conditions Requisite for Initiation of Proceedings 72. Cognizance of offences by
 
 ## OF TRIALS
 
-96. Procedure in trials. 97. Power to discharge conditionally or unconditionally. 98. Addresses. 99. Power to award compensation. 100. Particulars to be recorded. 101. Transfer of cases.
+96. Procedure in trials. 97. Power to discharge conditionally or unconditionally. 98. Addresses. 99. Power to award compensation.
+
+100. Particulars to be recorded.
+
+101. Transfer of cases.
 
 ## CHAPTER 5
 
 ## GENERAL PROVISIONS AS TO TRIALS
 
-102 Procedure where there are previous convictions. 103. Prosecutor may decline to prosecute further at any stage. 104. Right of accused to be defended. 105. Court may put questions to accused. 106. Case for prosecution to be explained by Court to undefended accused.
+102 Procedure where there are previous convictions.
+
+103. Prosecutor may decline to prosecute further at any stage.
+
+104. Right of accused to be defended.
+
+105. Court may put questions to accused.
+
+106. Case for prosecution to be explained by Court to undefended accused.
 
 <!-- page 6 -->
 
-6 Bill 107 Power to postpone or adjourn proceedings. 108. Change of Judge during hearing. 109. Detention of offenders attending in Court. 110. Weekly or public holiday.
+6 Bill 107 Power to postpone or adjourn proceedings.
+
+108. Change of Judge during hearing.
+
+109. Detention of offenders attending in Court.
+
+110. Weekly or public holiday.
 
 ## CHAPTER 6
 
@@ -138,19 +264,35 @@ Conditions Requisite for Initiation of Proceedings 72. Cognizance of offences by
 
 ## EVIDENCE IN TRIALS
 
-1 1 1. Evidence to he taken in the presence of the accused. 1 12. Recording of evidence. 1 13. Record in all cases. 114. Mode of recording evidence. 1 15. Interpretation of evidence to accused. 1 16. Remarks as to demeanour of witness. 117. Other persons may be authorized to take down notes of evidence.
+1 1 1. Evidence to he taken in the presence of the accused. 1 12. Recording of evidence. 1 13. Record in all cases.
+
+114. Mode of recording evidence. 1 15. Interpretation of evidence to accused. 1 16. Remarks as to demeanour of witness.
+
+117. Other persons may be authorized to take down notes of evidence.
 
 ## CHAPTER 7
 
 ## OK THE JUDGMENT
 
-118, Mode of delivering judgment. 119. Judgment to be explained to accused and copy supplied. 120. Judgment to be filed with record.
+118, Mode of delivering judgment.
+
+119. Judgment to be explained to accused and copy supplied.
+
+120. Judgment to be filed with record.
 
 ## CHAPTER 8
 
 ## OF SENTENCES AND THE CARRYING OUT THEREOF
 
-1 2 1. Provisions as to execution of sentences of imprisonment. 122. Provisions as to sentences of fine. 123. Suspension of execution in certain cases. 124. Warrant: by whom issuable. 125. Sentence of whipping. , 126. Time of executing sentence of whipping. 127. Commencement of sentence of imprisonment on prisoner already undergoing imprisonment. 128. Youthful offenders. 129. First offenders. 130. Conditions of bonds. 131. Return of warrant.
+1 2 1. Provisions as to execution of sentences of imprisonment.
+
+122. Provisions as to sentences of fine.
+
+123. Suspension of execution in certain cases.
+
+124. Warrant: by whom issuable.
+
+125. Sentence of whipping. , 126. Time of executing sentence of whipping. 127. Commencement of sentence of imprisonment on prisoner already undergoing imprisonment. 128. Youthful offenders. 129. First offenders. 130. Conditions of bonds. 131. Return of warrant.
 
 <!-- page 7 -->
 
@@ -180,7 +322,25 @@ Syariah Criminal Procedure 7 (Federal Territories)
 
 ## OF APPEALS TO THE SYARIAH HIGH COURT
 
-136. When plea of guilty limits right of appeal. 137. Appeal against acquittal. 138. Procedure for appeal. 139. Transmission of appeal record. 140. Appeal specially allowed in certain cases. 141. Stay of execution pending appeal. 142. Setting down appeals on list. 143. Procedure at hearing. 144. Non-appearance of respondent. 145. Arrest of respondent in certain cases. 146. Decision on appeal. 147. Order to take further evidence. 148. Judgment. 149. Certificate and consequence of judgment. 150. Death of parties to appeal. 151. Costs.
+136. When plea of guilty limits right of appeal. 137. Appeal against acquittal. 138. Procedure for appeal. 139. Transmission of appeal record. 140. Appeal specially allowed in certain cases. 141. Stay of execution pending appeal. 142. Setting down appeals on list.
+
+143. Procedure at hearing.
+
+144. Non-appearance of respondent.
+
+145. Arrest of respondent in certain cases.
+
+146. Decision on appeal.
+
+147. Order to take further evidence.
+
+148. Judgment.
+
+149. Certificate and consequence of judgment.
+
+150. Death of parties to appeal.
+
+151. Costs.
 
 <!-- page 8 -->
 
@@ -188,7 +348,27 @@ Syariah Criminal Procedure 7 (Federal Territories)
 
 ## OF APPEALS TO THE SYARIAH APPEAL COURT
 
-152. Jurisdiction of the Syariah Appeal Court. 153. Notice of appeal. 154. Records of proceedings. 155. Petition of appeal. 156. Procedure where appellant in prison. 157. Transmission of records to Syariah Appeal Court. 158. Appeals out of time and formal defects. 159. On appeal against acquittal, accused may be arrested 160. Appeal not to operate as stay of execution. 161. Notice of time and place of hearing. 162. Powers of Syariah Appeal Court. 163. Additional evidence. 164. Judgment. 165. Judgment or order to be certified to trial Court. 166. Point reserved on trial for Syariah Appeal Court. 167. References to Syariah Appeal Court on appeal from a Syariah Subordinate Court.
+152. Jurisdiction of the Syariah Appeal Court.
+
+153. Notice of appeal.
+
+154. Records of proceedings.
+
+155. Petition of appeal.
+
+156. Procedure where appellant in prison.
+
+157. Transmission of records to Syariah Appeal Court.
+
+158. Appeals out of time and formal defects.
+
+159. On appeal against acquittal, accused may be arrested
+
+160. Appeal not to operate as stay of execution.
+
+161. Notice of time and place of hearing.
+
+162. Powers of Syariah Appeal Court. 163. Additional evidence. 164. Judgment. 165. Judgment or order to be certified to trial Court. 166. Point reserved on trial for Syariah Appeal Court. 167. References to Syariah Appeal Court on appeal from a Syariah Subordinate Court.
 
 ## CHAPTER 3
 
@@ -206,7 +386,13 @@ Syariah Criminal Procedure 7 (Federal Territories)
 
 <!-- page 9 -->
 
-(Federal Territories) 177. Refusal to give evidence. 178. Appeal. 179. Judge not to try certain offences committed before himself.
+(Federal Territories)
+
+177. Refusal to give evidence.
+
+178. Appeal.
+
+179. Judge not to try certain offences committed before himself.
 
 ## PART VII
 
@@ -222,13 +408,31 @@ Syariah Criminal Procedure 7 (Federal Territories)
 
 ## OF PROSECUTION
 
-181. Chief Syariah Prosecutor. 182. Chief Syariah Prosecutor to appear personally. 183. Prosecution. 184. Employment of Peguam Syarie.
+181. Chief Syariah Prosecutor.
+
+182. Chief Syariah Prosecutor to appear personally.
+
+183. Prosecution.
+
+184. Employment of Peguam Syarie.
 
 ## CHAPTER 3
 
 ## OF BAIL
 
-185. When person may be released on bail. 186. Amount of bond. 187. Bond to be executed. 188. When person to be released. 189. When warrant of arrest may be issued against person bailed. 190. Sureties may apply to have bond discharged. 191. Appeal.
+185. When person may be released on bail.
+
+186. Amount of bond.
+
+187. Bond to be executed.
+
+188. When person to be released.
+
+189. When warrant of arrest may be issued against person bailed.
+
+190. Sureties may apply to have bond discharged.
+
+191. Appeal.
 
 ## CHAPTER 4
 
@@ -238,7 +442,43 @@ Syariah Criminal Procedure 7 (Federal Territories)
 
 <!-- page 10 -->
 
-Syariah Criminal Procedure 11 (Federal Territories) 214. Refusing oath when duly required to take oath by a religious officer. 215. Refusing to answer a religious officer authorized to question. 216. Refusing to sign statement. 217. Intentional insult or interruption to a religious officer sitting in any stage of a judicial proceeding. 218. Sworn affidavit. 219. Power of Court to summon and examine persons. 220. Order for payment of compensation. 221. Provisions as to compensation. 222. Copies of proceedings. 223. Person released on bail to give address for service. 224. Compensation where charge is groundless. 225. Judge not to act where interested. 226. Evidence. 227. Forms. 228. Application of fines. 229. Rules. 230. Islamic Law. 231. Cessation of application of the Enactment.
+Syariah Criminal Procedure 11 (Federal Territories)
+
+214. Refusing oath when duly required to take oath by a religious officer.
+
+215. Refusing to answer a religious officer authorized to question.
+
+216. Refusing to sign statement.
+
+217. Intentional insult or interruption to a religious officer sitting in any stage of a judicial proceeding.
+
+218. Sworn affidavit.
+
+219. Power of Court to summon and examine persons.
+
+220. Order for payment of compensation.
+
+221. Provisions as to compensation.
+
+222. Copies of proceedings.
+
+223. Person released on bail to give address for service.
+
+224. Compensation where charge is groundless.
+
+225. Judge not to act where interested.
+
+226. Evidence.
+
+227. Forms.
+
+228. Application of fines.
+
+229. Rules.
+
+230. Islamic Law.
+
+231. Cessation of application of the Enactment.
 
 ## SCHEDULE
 
@@ -294,11 +534,51 @@ Procedure (Federal Territories) Act 1996.
 
 "Court" or "Syariah Court" has the meaning assigned thereto in the Administration Act;
 
-Sel En 3/52 "Enactment" means the Administration of Muslim Law Enactment 1952 of the State of Selangor—
+<!-- marginal: Sel En 3/52 -->
 
-(a) in relation to the Federal Territory of Kuala P.U (A) 44/74 Lumpur, as modified by the Federal Territory PU (A) (Modification of Administration of Muslim 390/81 Law Enactment) Orders 1974, 1981 and 1988 PU. (A) 263/88 made pursuant to subsection 6(4) of the Constitution (Amendment) (No. 2) Act 1973 Act A206 and in force in the Federal Territory of Kuala Lumpur by virtue of subsection 6(1) of the Act Act A576 and Administration of Muslim Law (Amendment) Act 1984; and
+"Enactment" means the Administration of Muslim Law Enactment 1952 of the State of Selangor—
 
-(b) in relation to the Federal Territory of Labuan, PU. (A) as modified and extended by the Federal Territory 352/85 of Labuan (Modification and Extension of Administration of Muslim Law Enactment) Order 1985 made pursuant to section 7 of Act A585. the Constitution (Amendment) (No. 2) Act 1984;
+(a) in relation to the Federal Territory of Kuala
+
+<!-- marginal: P.U (A) 44/74 -->
+
+Lumpur, as modified by the Federal Territory
+
+<!-- marginal: PU (A) -->
+
+(Modification of Administration of Muslim
+
+<!-- marginal: 390/81 -->
+
+Law Enactment) Orders 1974, 1981 and 1988
+
+<!-- marginal: PU. (A) -->
+
+<!-- marginal: 263/88 -->
+
+made pursuant to subsection 6(4) of the Constitution (Amendment) (No. 2) Act 1973
+
+<!-- marginal: Act A206 -->
+
+and in force in the Federal Territory of Kuala Lumpur by virtue of subsection 6(1) of the Act
+
+<!-- marginal: Act A576 -->
+
+and Administration of Muslim Law (Amendment) Act 1984; and
+
+(b) in relation to the Federal Territory of Labuan,
+
+<!-- marginal: PU. (A) -->
+
+as modified and extended by the Federal Territory
+
+<!-- marginal: 352/85 -->
+
+of Labuan (Modification and Extension of Administration of Muslim Law Enactment) Order 1985 made pursuant to section 7 of
+
+<!-- marginal: Act A585. -->
+
+the Constitution (Amendment) (No. 2) Act 1984;
 
 "Federal Territories" means the Federal Territories of Kuala Lumpur and Labuan;
 
@@ -346,7 +626,11 @@ not herein defined but defined in the Interpretation Acts 1948 and 1967 shall ha
 
 have jurisdiction to give the definitions of such word, expression and term.
 
-3. All offences over which the Court has jurisdiction shall he inquired into and tried according to the provisions the Court in this Act.
+3. All offences over which the Court has jurisdiction shall he inquired into and tried according to the provisions
+
+<!-- marginal: the Court -->
+
+in this Act.
 
 II
 
@@ -358,15 +642,27 @@ II
 
 4. The Courts for the administration of Syariah criminal justice in the Federal Territories shall be those constituted under the Administration Act.
 
-Courts to
+<!-- marginal: Courts to -->
 
-5. Subject to section 6, the place in which any Court be open is held for the purpose of trying any offence shall be an open and public Court to which the public generally may have access.
+5. Subject to section 6, the place in which any Court
 
-Exclusion of
+<!-- marginal: be open -->
 
-6. A Judge hearing any matter or proceedings may on public in special grounds of public policy or expediency in his certain cases discretion exclude the public at any stage of the hearing from the Court but he shall record in every such case at the time on the record of the proceedings the grounds upon which such order is made.
+is held for the purpose of trying any offence shall be an open and public Court to which the public generally may have access.
 
-Criminal
+<!-- marginal: Exclusion of -->
+
+6. A Judge hearing any matter or proceedings may on
+
+<!-- marginal: public in -->
+
+special grounds of public policy or expediency in his
+
+<!-- marginal: certain cases -->
+
+discretion exclude the public at any stage of the hearing from the Court but he shall record in every such case at the time on the record of the proceedings the grounds upon which such order is made.
+
+<!-- marginal: Criminal -->
 
 7. Subject to this Act, every Judge shall have cognizance of and power and authority to—
 
@@ -460,11 +756,47 @@ Officer, police officer or other person making the arrest shall actually touch o
 
 (3) Nothing in this section gives a right to cause the death of any person.
 
-11. ( 1) If any person acting under a warrant of arrest, Search of place entered or any Religious Enforcement Officer or police officer by person having authority to arrest, has reason to believe that any sought to be arrested. person to be arrested has entered into or is within any place, the person residing in or in charge of such place shall, on demand of the person acting under the warrant or such Religious Enforcement officer or police officer, allow him free ingress thereto and afford all reasonable facilities for a search therein.
+11. ( 1) If any person acting under a warrant of arrest,
+
+<!-- marginal: Search of -->
+
+<!-- marginal: place entered -->
+
+or any Religious Enforcement Officer or police officer
+
+<!-- marginal: by person -->
+
+having authority to arrest, has reason to believe that any
+
+<!-- marginal: sought to be -->
+
+<!-- marginal: arrested. -->
+
+person to be arrested has entered into or is within any place, the person residing in or in charge of such place shall, on demand of the person acting under the warrant or such Religious Enforcement officer or police officer, allow him free ingress thereto and afford all reasonable facilities for a search therein.
 
 (2) If ingress to such place cannot be obtained under subsection (1), it shall be lawful, in any case for a person acting under a warrant and in any case in which a warrant may be issued but cannot be obtained without affording the person to be arrested an opportunity to escape, for such Religious Enforcement Officer or police officer to enter such place and search therein, and, in order to effect an entrance into such place, to break open any outer or inner door or window of any place whether that of the person to be arrested or of any other person if, after notification of his authority and purpose and demand of admittance duly made, he cannot otherwise obtain admittance.
 
-12. Whenever a search for any thing is or is about to Search of persons in be lawfully made in any place in respect of any offence, place searched all persons found therein may be lawfully detained until under the search is completed, and they may, if the thing sought warrant is in its nature capable of being concealed upon the person, be searched for it by or in the presence of a Religious Enforcement Officer or a police officer not below the rank of Inspector.
+12. Whenever a search for any thing is or is about to
+
+<!-- marginal: Search of -->
+
+<!-- marginal: persons in -->
+
+be lawfully made in any place in respect of any offence,
+
+<!-- marginal: place -->
+
+<!-- marginal: searched -->
+
+all persons found therein may be lawfully detained until
+
+<!-- marginal: under -->
+
+the search is completed, and they may, if the thing sought
+
+<!-- marginal: warrant -->
+
+is in its nature capable of being concealed upon the person, be searched for it by or in the presence of a Religious Enforcement Officer or a police officer not below the rank of Inspector.
 
 <!-- page 18 -->
 
@@ -538,13 +870,31 @@ person arrested any offensive weapon which he has about his person and shall del
 
 <!-- page 19 -->
 
-Search of
+<!-- marginal: Search of -->
 
-17. Every person lawfully in custody, who by reason of persons for incapacity from intoxication, illness, mental disorder or name and address infancy is unable to give a reasonable account of himself, may be searched for the purpose of ascertaining his name and place of residence.
+17. Every person lawfully in custody, who by reason of
 
-Arrest
+<!-- marginal: persons for -->
 
-18. Without prejudice to the provisions of any other without written law, any Religious Enforcement Officer, police warrant officer or Pegawai Masjid may, without an order from a Judge and without a warrant, arrest—
+incapacity from intoxication, illness, mental disorder or
+
+<!-- marginal: name and -->
+
+<!-- marginal: address -->
+
+infancy is unable to give a reasonable account of himself, may be searched for the purpose of ascertaining his name and place of residence.
+
+<!-- marginal: Arrest -->
+
+18. Without prejudice to the provisions of any other
+
+<!-- marginal: without -->
+
+written law, any Religious Enforcement Officer, police
+
+<!-- marginal: warrant -->
+
+officer or Pegawai Masjid may, without an order from a Judge and without a warrant, arrest—
 
 (a) any person who has been concerned in any seizable offence in the Federal Territories or against whom a reasonable complaint has been made or credible information has been received or a reasonable suspicion exists that he has been so concerned;
 
@@ -552,19 +902,37 @@ Arrest
 
 (c) any person against whom a warrant issued under this Act is still in force, although such warrant is not in his possession.
 
-Refusal to
+<!-- marginal: Refusal -->
 
-19. (1) When any person in the presence of a Religious give name Enforcement Officer or police officer commits or is accused and residence of committing a non-seizable offence and refuses, on the demand of such officer, to give his name and residence or gives a name or residence which such officer has reason to believe to be false, he may be arrested by such officer in order that his name and residence may be ascertained, and he shall, within twenty-four hours of the arrest, exclusive of the time necessary for the journey from the place of arrest, be taken before the nearest Judge of the Syariah Subordinate Court unless before that time his true name and residence are ascertained in which case such person shall be forthwith released on his executing a bond for his appearance before a Judge if so required.
+to
+
+19. (1) When any person in the presence of a Religious
+
+<!-- marginal: give name -->
+
+Enforcement Officer or police officer commits or is accused
+
+<!-- marginal: and -->
+
+<!-- marginal: residence -->
+
+of committing a non-seizable offence and refuses, on the demand of such officer, to give his name and residence or gives a name or residence which such officer has reason to believe to be false, he may be arrested by such officer in order that his name and residence may be ascertained, and he shall, within twenty-four hours of the arrest, exclusive of the time necessary for the journey from the place of arrest, be taken before the nearest Judge of the Syariah Subordinate Court unless before that time his true name and residence are ascertained in which case such person shall be forthwith released on his executing a bond for his appearance before a Judge if so required.
 
 <!-- page 20 -->
 
-196. Record of evidence in absence of accused. 197. Notice to be given of defence of alibi.
+196. Record of evidence in absence of accused.
+
+197. Notice to be given of defence of alibi.
 
 ## CHAPTER 5
 
 ## PROVISIONS AS TO BONDS
 
-198. Deposit instead of bond. 199. Procedure on forfeiture of bond. 200. Appeal from orders.
+198. Deposit instead of bond.
+
+199. Procedure on forfeiture of bond.
+
+200. Appeal from orders.
 
 ## CHAPTER 6
 
@@ -572,25 +940,43 @@ Refusal to
 
 ## THE SUBJECT OF OFFENCES
 
-201. Court shall consider manner of disposal of exhibits. 202. Order for disposal of property regarding which offence committed.
+201. Court shall consider manner of disposal of exhibits.
+
+202. Order for disposal of property regarding which offence committed.
 
 ## CHAPTER 7
 
 ## OF THE TRANSFER OF CRIMINAL CASES
 
-203. Power of the Judge of Syariah High Court to transfer cases. 204. Application for transfer to be supported by affidavit.
+203. Power of the Judge of Syariah High Court to transfer cases.
+
+204. Application for transfer to be supported by affidavit.
 
 ## CHAPTER 8
 
 ## OF IRREGULARITIES IN PROCEEDINGS
 
-205. Proceedings in wrong place, etc. 206. Omission to frame charge. 207. Irregularities not to vitiate proceedings.
+205. Proceedings in wrong place, etc.
+
+206. Omission to frame charge.
+
+207. Irregularities not to vitiate proceedings.
 
 ## PART VIII
 
 ## GENERAL
 
-208. Definition. 209. Protection of officers. 210. Contempt of Court. 211. False information, evidence or admission. 212. Religious officer disobeying a direction of the law, with the intent to cause injury to any person. 213. Omission to produce, etc. a document to a religious officer by person legally bound to produce, etc. such document.
+208. Definition.
+
+209. Protection of officers.
+
+210. Contempt of Court.
+
+211. False information, evidence or admission.
+
+212. Religious officer disobeying a direction of the law, with the intent to cause injury to any person.
+
+213. Omission to produce, etc. a document to a religious officer by person legally bound to produce, etc. such document.
 
 <!-- page 21 -->
 
@@ -676,25 +1062,81 @@ Court.
 
 (5) If the case against the accused is adjourned, the accused shall, unless he is released on bail, be remanded in prison or police custody under a remand warrant issued by a Judge in Form 1 of the Schedule.
 
-Release of
+<!-- marginal: Release of -->
 
-23. No person who has been arrested by a Religious person Enforcement Officer or police officer under this Act shall arrested be released except on bond or bail or under the order in writing of a Judge or Chief Religious Enforcement Officer or of a police officer not below the rank of Inspector.
+23. No person who has been arrested by a Religious
 
-Offence
+<!-- marginal: person -->
 
-24. When any offence is committed in the presence of committed a Judge within the local limits of his jurisdiction, he may in the presence himself arrest or authorize any person to arrest the offender of a Judge and may thereupon, subject to the provisions of this Act as to bail, commit the offender to custody.
+Enforcement Officer or police officer under this Act shall
 
-Arrest by
+<!-- marginal: arrested -->
 
-25. Any Judge may at any time arrest or authorize the or in the arrest in his presence within the local limits of his presence of a Judge. jurisdiction of any person for whose arrest he is competent to issue a warrant.
+be released except on bond or bail or under the order in writing of a Judge or Chief Religious Enforcement Officer or of a police officer not below the rank of Inspector.
 
-Power to
+<!-- marginal: Offence -->
 
-26. If a person in lawful custody escapes or is rescued, pursue and the person from whose custody he escaped or was rescued re-arrest. may immediately pursue and arrest him in any place, either within or without the jurisdiction where he was so in custody, and deal with such person as he might have done on the original arrest.
+24. When any offence is committed in the presence of
 
-Provisions
+<!-- marginal: committed -->
 
-27. The provisions of of sections 11 and 13 10 apply to arrest officer having authority to arrest. under section 26
+a Judge within the local limits of his jurisdiction, he may
+
+<!-- marginal: in the -->
+
+<!-- marginal: presence -->
+
+himself arrest or authorize any person to arrest the offender
+
+<!-- marginal: of a Judge -->
+
+and may thereupon, subject to the provisions of this Act as to bail, commit the offender to custody.
+
+<!-- marginal: Arrest by -->
+
+25. Any Judge may at any time arrest or authorize the
+
+<!-- marginal: or in -->
+
+<!-- marginal: the -->
+
+arrest in his presence within the local limits of his
+
+<!-- marginal: presence -->
+
+<!-- marginal: of a Judge. -->
+
+jurisdiction of any person for whose arrest he is competent to issue a warrant.
+
+<!-- marginal: Power to -->
+
+26. If a person in lawful custody escapes or is rescued,
+
+<!-- marginal: pursue and -->
+
+the person from whose custody he escaped or was rescued
+
+<!-- marginal: re-arrest. -->
+
+may immediately pursue and arrest him in any place, either within or without the jurisdiction where he was so in custody, and deal with such person as he might have done on the original arrest.
+
+<!-- marginal: Provisions -->
+
+27. The provisions of
+
+<!-- marginal: of sections -->
+
+<!-- marginal: 11 and 13 -->
+
+<!-- marginal: 10 apply -->
+
+<!-- marginal: to arrest -->
+
+officer having authority to arrest.
+
+<!-- marginal: under -->
+
+<!-- marginal: section 26 -->
 
 <!-- page 23 -->
 
@@ -768,15 +1210,41 @@ affidavit of such service purporting to be made before a Registrar shall be admi
 
 Warrant of Arrest
 
-Form of
+<!-- marginal: Form of -->
 
-32. ( 1) Every warrant of arrest issued by a Court warrant of under this Act shall be in Form 3 of the Schedule and arrest. signed by the Judge and shall bear the seal of the Court.
+32. ( 1) Every warrant of arrest issued by a Court
+
+<!-- marginal: warrant of -->
+
+under this Act shall be in Form 3 of the Schedule and
+
+<!-- marginal: arrest. -->
+
+signed by the Judge and shall bear the seal of the Court.
 
 (2) Every such warrant shall remain in force until it is cancelled by the Court which issued it or until it is executed.
 
-Court may
+<!-- marginal: Court may -->
 
-33. (1) Any Court issuing a warrant for the arrest of any direct by person may, in its discretion, direct by indorsement on indorsement on warrant the warrant that if such person executes a bond with security to sufficient sureties for his attendance before the Court at be taken a specified time and thereafter until otherwise directed by the Court, the officer to whom the warrant is directed shall take such security and shall release such person from custody.
+33. (1) Any Court issuing a warrant for the arrest of any
+
+<!-- marginal: direct by -->
+
+person may, in its discretion, direct by indorsement on
+
+<!-- marginal: indorsement -->
+
+<!-- marginal: on warrant -->
+
+the warrant that if such person executes a bond with
+
+<!-- marginal: security to -->
+
+sufficient sureties for his attendance before the Court at
+
+<!-- marginal: be taken -->
+
+a specified time and thereafter until otherwise directed by the Court, the officer to whom the warrant is directed shall take such security and shall release such person from custody.
 
 (2) The indorsement shall state—
 
@@ -788,9 +1256,17 @@ Court may
 
 (3) Whenever security is taken under this section, the officer to whom the warrant is directed shall forward the bond to the Court.
 
-Warrants,
+<!-- marginal: Warrants, -->
 
-34. (1) A warrant of arrest shall ordinarily be directed to whom to the Chief Religious Enforcement Officer and all other directed. Religious Enforcement Officers, and any such officer may execute such warrant in any part of the Federal Territories.
+34. (1) A warrant of arrest shall ordinarily be directed
+
+<!-- marginal: to whom -->
+
+to the Chief Religious Enforcement Officer and all other
+
+<!-- marginal: directed. -->
+
+Religious Enforcement Officers, and any such officer may execute such warrant in any part of the Federal Territories.
 
 (2) The Court issuing a warrant may direct it to the Inspector General of Police and all other police officers in the Federal Territories or any person by name, not being a Religious Enforcement Officer or police officer,
 
@@ -864,27 +1340,85 @@ Judge of a Syariah Subordinate Court.
 
 <!-- page 26 -->
 
-Other Rules regarding Summonses to Appear and Warrants of Arrest Issue of
+Other Rules regarding Summonses to Appear and Warrants of Arrest
 
-38. A Court may, in any case in which it is empowered warrant in to issue a summons for the appearance of any person, lieu of or in addition to issue, after recording its reason in writing, a warrant for summons. his arrest—
+<!-- marginal: Issue of -->
+
+38. A Court may, in any case in which it is empowered
+
+<!-- marginal: warrant in -->
+
+to issue a summons for the appearance of any person,
+
+<!-- marginal: lieu of or in -->
+
+<!-- marginal: addition to -->
+
+issue, after recording its reason in writing, a warrant for
+
+<!-- marginal: summons. -->
+
+his arrest—
 
 (a) if, either before the issue of summons or after the issue of the summons but before the time fixed for his appearance, the Court has reason to believe that he has absconded or will not obey the summons; or
 
 (b) if at such time he fails to appear and the summons is proved to have been duly served in time to admit of his appearing in accordance therewith and no reasonable excuse is offered for such failure.
 
-Summonses
+<!-- marginal: Summonses -->
 
-39. (1) All summonses to appear and warrants of arrest to appear issued by a Court may be served or executed, as the case and warrants of arrest may be, in any part of Malaysia; but no such summons may be shall be served outside the local limits of the jurisdiction executed in of the Court issuing it unless the summons is indorsed any part of Malaysia by such Court with the words "For service out of the jurisdiction".
+39. (1) All summonses to appear and warrants of arrest
+
+<!-- marginal: to appear -->
+
+issued by a Court may be served or executed, as the case
+
+<!-- marginal: and warrants -->
+
+<!-- marginal: of arrest -->
+
+may be, in any part of Malaysia; but no such summons
+
+<!-- marginal: may be -->
+
+shall be served outside the local limits of the jurisdiction
+
+<!-- marginal: executed in -->
+
+of the Court issuing it unless the summons is indorsed
+
+<!-- marginal: any part of -->
+
+<!-- marginal: Malaysia -->
+
+by such Court with the words "For service out of the jurisdiction".
 
 (2) No summons shall be indorsed by a Court issuing it with the words "For service out of the jurisdiction" unless the Court is satisfied that there are special grounds for allowing such service, which grounds shall be recorded before the summons is so indorsed.
 
-Power to
+<!-- marginal: Power to -->
 
-40. When any person for whose appearance or arrest take bond for any Court is empowered to issue a summons or warrant appearance. is present in that Court, the Court may require such person to execute a bond with sureties for his appearance in that Court.
+40. When any person for whose appearance or arrest
 
-Arrest on
+<!-- marginal: take bond for -->
 
-41. When any person who is bound by any bond under breach of this Act to appear before a Court does not so appear, bond for appearance. the Court may issue a warrant directing that such person be arrested and produced before it.
+any Court is empowered to issue a summons or warrant
+
+<!-- marginal: appearance. -->
+
+is present in that Court, the Court may require such person to execute a bond with sureties for his appearance in that Court.
+
+<!-- marginal: Arrest on -->
+
+41. When any person who is bound by any bond under
+
+<!-- marginal: breach of -->
+
+this Act to appear before a Court does not so appear,
+
+<!-- marginal: bond for -->
+
+<!-- marginal: appearance. -->
+
+the Court may issue a warrant directing that such person be arrested and produced before it.
 
 <!-- page 27 -->
 
@@ -968,13 +1502,41 @@ the Court may issue a search warrant and the person to whom such warrant is dire
 
 (3) The Court issuing a search warrant may direct it to the Inspector General of Police and to other police officers to be designated by name therein, and all or any of such police officers may execute such warrant.
 
-Power to
+<!-- marginal: Power to -->
 
-45. The Court may, if it thinks fit, specify in the search restrict warrant the particular place or part thereof to which only search warrant the search or inspection shall extend, and the person charged with the execution of such warrant shall then search or inspect only the place or that part so specified.
+45. The Court may, if it thinks fit, specify in the search
 
-Judge may
+<!-- marginal: restrict -->
 
-46. If a Judge, upon information and after such inquiry issue warrant as he thinks necessary, has reason to believe that any authorizing search for thing upon, by or in respect of which an offence has been evidence committed, or any evidence or thing which is necessary of offence to the conduct of an investigation into any offence, may be found in any place, he may, by warrant, authorize the person to whom it is directed to enter, with such assistance as may be required, and search the place for any such evidence or thing and, if any thing searched for is found, to seize it and bring it before the Judge issuing the warrant or some other Judge to be dealt with in accordance with law.
+warrant the particular place or part thereof to which only
+
+<!-- marginal: search -->
+
+<!-- marginal: warrant -->
+
+the search or inspection shall extend, and the person charged with the execution of such warrant shall then search or inspect only the place or that part so specified.
+
+<!-- marginal: Judge may -->
+
+46. If a Judge, upon information and after such inquiry
+
+<!-- marginal: issue warrant -->
+
+as he thinks necessary, has reason to believe that any
+
+<!-- marginal: authorizing -->
+
+<!-- marginal: search for -->
+
+thing upon, by or in respect of which an offence has been
+
+<!-- marginal: evidence -->
+
+committed, or any evidence or thing which is necessary
+
+<!-- marginal: of offence -->
+
+to the conduct of an investigation into any offence, may be found in any place, he may, by warrant, authorize the person to whom it is directed to enter, with such assistance as may be required, and search the place for any such evidence or thing and, if any thing searched for is found, to seize it and bring it before the Judge issuing the warrant or some other Judge to be dealt with in accordance with law.
 
 <!-- page 29 -->
 
@@ -1080,9 +1642,17 @@ are respectively found shall be prepared by the officer or other person making t
 
 <!-- page 30 -->
 
-Occupant to
+<!-- marginal: Occupant to -->
 
-53. The occupant of the place searched, or some other be present person in his behalf, shall in every instance be permitted at search to attend during the search, and a copy of the list prepared and signed under section 52 shall be delivered to such occupant or person at his request.
+53. The occupant of the place searched, or some other
+
+<!-- marginal: be present -->
+
+person in his behalf, shall in every instance be permitted
+
+<!-- marginal: at search -->
+
+to attend during the search, and a copy of the list prepared and signed under section 52 shall be delivered to such occupant or person at his request.
 
 ## PART
 
@@ -1092,13 +1662,13 @@ IV
 
 ## OFFICERS AND THEIR POWERS TO INVESTIGATE
 
-Information
+<!-- marginal: Information -->
 
 54. ( 1) Every information relating to the commission of an offence, if given orally to a Religious Enforcement Officer, shall be reduced into writing by him or under his direction and be read over to the informant.
 
 (2) Every such information shall be entered in Form 5 of the Schedule to be kept by such officer, who shall append to such entry the date and hour on which such information was given, and whether given in writing or reduced into writing as provided in subsection (1) shall be signed by the person giving it.
 
-Procedure
+<!-- marginal: Procedure -->
 
 55. ( 1) When the information referred to in section 54 relates to the commission of a non-seizable offence, the officer to whom it was given shall refer the informant to a Judge of a Syariah Subordinate Court.
 
@@ -1106,9 +1676,23 @@ Procedure
 
 (3) Any Religious Enforcement Officer receiving such order may exercise the powers in respect of the investigation given under this Chapter except the power to arrest without warrant.
 
-Admission
+<!-- marginal: Admission -->
 
-56. In any proceeding under this Act, a copy of any of certified entry relating to an information reduced into writing under copy of information section 54 and purported to be certified to be a true copy as evidence by a Religious Enforcement Officer shall be admitted as evidence of the contents of the original and of the time, place and manner in which the information was so recorded.
+56. In any proceeding under this Act, a copy of any
+
+<!-- marginal: of certified -->
+
+entry relating to an information reduced into writing under
+
+<!-- marginal: copy of -->
+
+<!-- marginal: information -->
+
+section 54 and purported to be certified to be a true copy
+
+<!-- marginal: as evidence -->
+
+by a Religious Enforcement Officer shall be admitted as evidence of the contents of the original and of the time, place and manner in which the information was so recorded.
 
 <!-- page 31 -->
 
@@ -1164,9 +1748,23 @@ require the attendance before himself of any person being within the Federal Ter
 
 warrant to secure the attendance of such person as required by the Religious Enforcement Officer.
 
-Examination
+<!-- marginal: Examination -->
 
-59. (1) A Religious Enforcement Officer making an of witnesses investigation under this Chapter may examine orally any by Religious Enforcement person supposed to be acquainted with the facts and Officer circumstances of the case and shall reduce into writing any statement made by the person so examined.
+59. (1) A Religious Enforcement Officer making an
+
+<!-- marginal: of witnesses -->
+
+investigation under this Chapter may examine orally any
+
+<!-- marginal: by Religious -->
+
+<!-- marginal: Enforcement -->
+
+person supposed to be acquainted with the facts and
+
+<!-- marginal: Officer -->
+
+circumstances of the case and shall reduce into writing any statement made by the person so examined.
 
 (2) Such person shall be legally bound to answer all questions relating to such case put to him by such officer.
 
@@ -1176,9 +1774,25 @@ Examination
 
 (5) A statement made by any person under this section shall, whenever possible, be reduced into writing and signed by the person making it or affixed with his thumb- print in the presence of two witnesses, as the case may be, after it has been read to him in the language in which he made it and after he has been given an opportunity to make any corrections he may wish.
 
-Statements
+<!-- marginal: Statements -->
 
-60. (1) No statement made by any person to a Religious to Religious Enforcement Officer in the course of an investigation Enforcement Officer not under this Chapter shall, save as herein provided, be used to be admitted as evidence. in evidence.
+60. (1) No statement made by any person to a Religious
+
+<!-- marginal: to Religious -->
+
+Enforcement Officer in the course of an investigation
+
+<!-- marginal: Enforcement -->
+
+<!-- marginal: Officer not -->
+
+under this Chapter shall, save as herein provided, be used
+
+<!-- marginal: to be admitted -->
+
+as evidence.
+
+<!-- marginal: in evidence. -->
 
 (2) When any witness is called for the prosecution or for the defence, other than the accused, the Court shall on the request of the accused or the Syariah Prosecutor refer to any statement made by such witness to a Religious Enforcement Officer in the course of an investigation under this Chapter, and may then, if the Court thinks it expedient in the interest of justice, direct the accused to be furnished with a copy thereof, and such statement may be used to impeach the credit of such witness.
 
@@ -1250,17 +1864,55 @@ such officer may search or cause a search to be made for the document or other t
 
 (4) The provisions of this Act as to search warrants shall, so far as may be, apply to a search made under this section.
 
-Religious
+<!-- marginal: Religious -->
 
-64. (1) If upon an investigation made under this Chapter, Enforcement Officer may it appears to the officer making such investigation that require there is sufficient evidence or reasonable ground of bond for appearance suspicion to justify the commencement or continuance of of criminal proceedings against any person, such officer complainant and shall require the complainant, if any, and so many of the witnesses. persons who appear to such officer to be acquainted with the circumstances of the case, as he thinks necessary, to execute a bond to appear before a Court therein named and give evidence in the matter of the charge against the accused.
+64. (1) If upon an investigation made under this Chapter,
+
+<!-- marginal: Enforcement -->
+
+<!-- marginal: Officer may -->
+
+it appears to the officer making such investigation that
+
+<!-- marginal: require -->
+
+there is sufficient evidence or reasonable ground of
+
+<!-- marginal: bond for -->
+
+<!-- marginal: appearance -->
+
+suspicion to justify the commencement or continuance
+
+<!-- marginal: of -->
+
+of criminal proceedings against any person, such officer
+
+<!-- marginal: complainant -->
+
+<!-- marginal: and -->
+
+shall require the complainant, if any, and so many of the
+
+<!-- marginal: witnesses. -->
+
+persons who appear to such officer to be acquainted with the circumstances of the case, as he thinks necessary, to execute a bond to appear before a Court therein named and give evidence in the matter of the charge against the accused.
 
 (2) The officer in whose presence the bond is executed shall send it to the Court.
 
 (3) If any complainant or witness refuses to execute such bond, such officer shall report such refusal to the Court which may thereupon, in its discretion, issue a summons or warrant to secure the attendance of such complainant or witness before itself to give evidence in the matter of the charge against the accused.
 
-Diary of
+<!-- marginal: Diary of -->
 
-65. (1) Every Religious Enforcement Officer making proceedings in an investigation under this Chapter shall, day by day, investigation
+65. (1) Every Religious Enforcement Officer making
+
+<!-- marginal: proceedings -->
+
+<!-- marginal: in -->
+
+an investigation under this Chapter shall, day by day,
+
+<!-- marginal: investigation -->
 
 <!-- page 35 -->
 
@@ -1312,21 +1964,73 @@ is completed the officer making the investigation shall, unless the offence is o
 
 ## OF THE JURISDICTION OF COURTS IN TRIALS
 
-Ordinary
+<!-- marginal: Ordinary -->
 
-67. Every offence shall ordinarily be tried by a Court place of within the local limits of whose jurisdiction it was trial. committed.
+67. Every offence shall ordinarily be tried by a Court
 
-Accused
+<!-- marginal: place of -->
 
-68. When a person is accused of the commission of any triable in offence by reason of anything which has been done or place where act is done of any consequence which has ensued, such offence may or where be tried by a Court within the local limits of whose consequence ensues. jurisdiction any such thing has been done or any such consequence has ensued.
+within the local limits of whose jurisdiction it was
 
-Place of
+<!-- marginal: trial. -->
 
-69. When an act is an offence by reason of its relation trial where to any other act which is also an offence or which would act is an offence by be an offence if the doer were capable of committing reason of an offence, a charge of the first-mentioned offence may relation to other offence be tried by a Court within the local limits of whose jurisdiction either act was done. Illustration—A charge of abetment may be tried either by the Court within the local limits of whose jurisdiction the abetment was committed or by the Court within the local limits of whose jurisdiction the offence abetted was committed.
+committed.
 
-Where scene
+<!-- marginal: Accused -->
 
-70. Where— of offence is uncertain.
+68. When a person is accused of the commission of any
+
+<!-- marginal: triable in -->
+
+offence by reason of anything which has been done or
+
+<!-- marginal: place where -->
+
+<!-- marginal: act is done -->
+
+of any consequence which has ensued, such offence may
+
+<!-- marginal: or where -->
+
+be tried by a Court within the local limits of whose
+
+<!-- marginal: consequence -->
+
+<!-- marginal: ensues. -->
+
+jurisdiction any such thing has been done or any such consequence has ensued.
+
+<!-- marginal: Place of -->
+
+69. When an act is an offence by reason of its relation
+
+<!-- marginal: trial where -->
+
+to any other act which is also an offence or which would
+
+<!-- marginal: act is an -->
+
+<!-- marginal: offence by -->
+
+be an offence if the doer were capable of committing
+
+<!-- marginal: reason of -->
+
+an offence, a charge of the first-mentioned offence may
+
+<!-- marginal: relation to -->
+
+<!-- marginal: other offence -->
+
+be tried by a Court within the local limits of whose jurisdiction either act was done. Illustration—A charge of abetment may be tried either by the Court within the local limits of whose jurisdiction the abetment was committed or by the Court within the local limits of whose jurisdiction the offence abetted was committed.
+
+<!-- marginal: Where scene -->
+
+70. Where—
+
+<!-- marginal: of offence -->
+
+<!-- marginal: is uncertain. -->
 
 (a) it is uncertain in which of several local areas an offence was committed;
 
@@ -1426,27 +2130,47 @@ upon oath as in Form 6 of the Schedule, and the substance of the examination sha
 
 <!-- page 38 -->
 
-Postponement
+<!-- marginal: Postponement -->
 
-75. If the Judge has reasonable doubt as to the truth of of issue of a complaint of an offence of which he is authorized to process take cognizance he may, when the complainant has been examined, record his reason for doubting the truth of the complaint and may then postpone the issue of process for compelling the attendance of the person complained against and either inquire into the case himself or direct a Religious Enforcement Officer to make inquiries for the purpose of ascertaining the truth or falsehood of the complaint and report to him the result of such inquiries.
+75. If the Judge has reasonable doubt as to the truth of
 
-Dismissal of
+<!-- marginal: of issue of -->
 
-76. (1) The Judge before whom a complaint is made complaint may dismiss the complaint if, after examining the complainant and recording his examination and considering the result of the inquiry, if any, made under section 75, there is in his judgment no sufficient ground for proceeding.
+a complaint of an offence of which he is authorized to
+
+<!-- marginal: process -->
+
+take cognizance he may, when the complainant has been examined, record his reason for doubting the truth of the complaint and may then postpone the issue of process for compelling the attendance of the person complained against and either inquire into the case himself or direct a Religious Enforcement Officer to make inquiries for the purpose of ascertaining the truth or falsehood of the complaint and report to him the result of such inquiries.
+
+<!-- marginal: Dismissal of -->
+
+76. (1) The Judge before whom a complaint is made
+
+<!-- marginal: complaint -->
+
+may dismiss the complaint if, after examining the complainant and recording his examination and considering the result of the inquiry, if any, made under section 75, there is in his judgment no sufficient ground for proceeding.
 
 (2) The Judge who dismisses the complaint shall record his reasons for so doing.
 
-Issue of
+<!-- marginal: Issue of -->
 
-77. If in the opinion of a Judge taking cognizance of process. an offence there is sufficient ground for proceeding, he shall issue a summons for the attendance of the accused.
+77. If in the opinion of a Judge taking cognizance of
+
+<!-- marginal: process. -->
+
+an offence there is sufficient ground for proceeding, he shall issue a summons for the attendance of the accused.
 
 ## CHAPTER 3
 
 ## OF THE CHARGE
 
-Form of
+<!-- marginal: Form of -->
 
-78. (1) Every charge under this Act shall state the offence charge. with which the accused is charged.
+78. (1) Every charge under this Act shall state the offence
+
+<!-- marginal: charge. -->
+
+with which the accused is charged.
 
 (2) If the law which creates the offence gives it any specific name, the offence may be described in the charge by that name only.
 
@@ -1560,19 +2284,115 @@ he is ready to be tried on such amended or added charge.
 
 (2) If the accused declares that he is not ready, the Court shall duly consider the reasons he may give and if proceeding immediately with the trial is, in the opinion of the Court, not likely to prejudice the accused in his defence or the Prosecutor in the conduct of the case, the Court may, in its discretion, after such amendment or addition has been framed or made, proceed with the trial as if the amended or added charge had been the original charge.
 
-85. If the amended or added charge is such that proceeding When new trial may be immediately with the trial is likely, in the opinion of the directed or Court, to prejudice the accused or the Prosecutor, as trial adjourned. mentioned in section 84, the Court may either direct a new trial or adjourn the trial for such period as may be necessary.
+85. If the amended or added charge is such that proceeding
 
-Stay of
+<!-- marginal: When new -->
 
-86. If the offence stated in the amended or added charge proceedings is one for the prosecution of which previous sanction is if prosecution necessary, the case shall not be proceeded with until such of offence in amended sanction is obtained, unless sanction has been already charge obtained for a prosecution on the same facts as those on requires previous which the amended or added charged is founded. sanction.
+<!-- marginal: trial may be -->
 
-Recall of
+immediately with the trial is likely, in the opinion of the
 
-87. Whenever a charge is amended or added by the witnesses Court after the commencement of the trial, the Prosecutor when charge and the accused shall be allowed to recall or re-summon amended or added. and examine, with reference to such amendment or addition, any witness who may have been examined, and may also call for any further evidence which may be material.
+<!-- marginal: directed or -->
 
-88. For every distinct offence of which any person is Separate charges accused there shall be a separate charge, and every such for charge shall be tried separately except in the cases distinct offences. mentioned in sections 89, 90, 91 and 95.
+Court, to prejudice the accused or the Prosecutor, as
 
-89. (1) When a person is accused of committing offences Three offences of the same kind within a period of twelve months from of same kind the date such offence was first committed, whether in within twelve months may respect of the same person or not, he may be charged be charged with and tried at one trial for any number of them not together exceeding three.
+<!-- marginal: trial -->
+
+<!-- marginal: adjourned. -->
+
+mentioned in section 84, the Court may either direct a new trial or adjourn the trial for such period as may be necessary.
+
+<!-- marginal: Stay of -->
+
+86. If the offence stated in the amended or added charge
+
+<!-- marginal: proceedings -->
+
+is one for the prosecution of which previous sanction is
+
+<!-- marginal: if prosecution -->
+
+necessary, the case shall not be proceeded with until such
+
+<!-- marginal: of offence -->
+
+<!-- marginal: in amended -->
+
+sanction is obtained, unless sanction has been already
+
+<!-- marginal: charge -->
+
+obtained for a prosecution on the same facts as those on
+
+<!-- marginal: requires -->
+
+<!-- marginal: previous -->
+
+which the amended or added charged is founded.
+
+<!-- marginal: sanction. -->
+
+<!-- marginal: Recall of -->
+
+87. Whenever a charge is amended or added by the
+
+<!-- marginal: witnesses -->
+
+Court after the commencement of the trial, the Prosecutor
+
+<!-- marginal: when charge -->
+
+and the accused shall be allowed to recall or re-summon
+
+<!-- marginal: amended or -->
+
+<!-- marginal: added. -->
+
+and examine, with reference to such amendment or addition, any witness who may have been examined, and may also call for any further evidence which may be material.
+
+88. For every distinct offence of which any person is
+
+<!-- marginal: Separate -->
+
+<!-- marginal: charges -->
+
+accused there shall be a separate charge, and every such
+
+<!-- marginal: for -->
+
+charge shall be tried separately except in the cases
+
+<!-- marginal: distinct -->
+
+<!-- marginal: offences. -->
+
+mentioned in sections 89, 90, 91 and 95.
+
+89. (1) When a person is accused of committing offences
+
+<!-- marginal: Three -->
+
+<!-- marginal: offences -->
+
+of the same kind within a period of twelve months from
+
+<!-- marginal: of same kind -->
+
+the date such offence was first committed, whether in
+
+<!-- marginal: within twelve -->
+
+<!-- marginal: months may -->
+
+respect of the same person or not, he may be charged
+
+<!-- marginal: be charged -->
+
+with and tried at one trial for any number of them not
+
+<!-- marginal: together -->
+
+exceeding three.
 
 <!-- page 41 -->
 
@@ -1658,23 +2478,57 @@ offence, although the attempt is not separately charged.
 
 <!-- page 42 -->
 
-When
+<!-- marginal: When -->
 
-94. ( 1) When a person is charged w i th an offence offence consisting of several particulars, a combination of some proved is included in only of which constitutes a lesser offence, and such offence combination is proved but the remaining particulars are charged not proved, he may be convicted of the lesser offence though he was not charged with it.
+94. ( 1) When a person is charged w i th an offence
+
+<!-- marginal: offence -->
+
+consisting of several particulars, a combination of some
+
+<!-- marginal: proved is -->
+
+<!-- marginal: included in -->
+
+only of which constitutes a lesser offence, and such
+
+<!-- marginal: offence -->
+
+combination is proved but the remaining particulars are
+
+<!-- marginal: charged -->
+
+not proved, he may be convicted of the lesser offence though he was not charged with it.
 
 (2) When a person is charged with an offence and facts are proved which reduce it to a lesser offence, he may be convicted of the lesser offence although he is not charged with it.
 
-When persons
+<!-- marginal: When persons -->
 
-95. When more than one person are accused of the same may be offence or of different offences committed in the same charged transaction, or when one person is accused of committing jointly an offence and another of abetment of or attempt to commit the same offence, they may be charged and tried together or separately as the Court thinks fit.
+95. When more than one person are accused of the same
+
+<!-- marginal: may be -->
+
+offence or of different offences committed in the same
+
+<!-- marginal: charged -->
+
+transaction, or when one person is accused of committing
+
+<!-- marginal: jointly -->
+
+an offence and another of abetment of or attempt to commit the same offence, they may be charged and tried together or separately as the Court thinks fit.
 
 ## CHAPTER 4
 
 ## OF TRIALS
 
-Procedure in
+<!-- marginal: Procedure in -->
 
-96. The following procedure shall be observed by Judges trials in trials:
+96. The following procedure shall be observed by Judges
+
+<!-- marginal: trials -->
+
+in trials:
 
 (a) when the accused appears or is brought before the Court, a charge containing the particulars of the offence of which he is accused shall be framed, read and explained to him, and he shall be asked whether he is guilty of the offence charged or claims to be tried;
 
@@ -1714,9 +2568,21 @@ Provided that before a plea of guilty is recorded, the Court shall ascertain tha
 
 (n) when the proceedings have been instituted upon the complaint of some person upon oath under section 74 and upon any day fixed for the hearing of the case the complainant is absent, the Court may, in its discretion, notwithstanding anything contained in this section, dicharge the accused.
 
-Power to
+<!-- marginal: Power to -->
 
-97. (1) Notwithstanding anything contained in section discharge 96, the Court shall have the powers contained in this conditionally or unconditionally.
+97. (1) Notwithstanding anything contained in section
+
+<!-- marginal: discharge -->
+
+96, the Court shall have the powers contained in this
+
+<!-- marginal: conditionally -->
+
+<!-- marginal: or -->
+
+<!-- marginal: section. -->
+
+<!-- marginal: unconditionally. -->
 
 <!-- page 45 -->
 
@@ -1746,7 +2612,7 @@ power to sentence him, be brought before a Judge who may—
 
 (6) The offender, when so remanded, may be committed to prison and the warrant of remand shall order that he shall be brought before the Court before which he was bound to appear for judgment or to answer as to his conduct since his release.
 
-Addresses
+<!-- marginal: Addresses -->
 
 98. In trials under this Chapter—
 
@@ -1756,9 +2622,17 @@ Addresses
 
 (c) the officer conducting the prosecution shall have the right of reply on the whole case when the accused has adduced evidence.
 
-Power to
+<!-- marginal: Power to -->
 
-99. If in any case the Court acquits the accused and is award of the opinion that the complaint, information or charge compensation was frivolous or vexatious it may, in its discretion, either on the application of the accused or on its own motion, order the complainant or the person on whose information the complaint or charge was made to pay to the accused, or to each or any of the accused where there are more than one, such compensation, not exceeding one thousand ringgit, as the Court thinks fit:
+99. If in any case the Court acquits the accused and is
+
+<!-- marginal: award -->
+
+of the opinion that the complaint, information or charge
+
+<!-- marginal: compensation -->
+
+was frivolous or vexatious it may, in its discretion, either on the application of the accused or on its own motion, order the complainant or the person on whose information the complaint or charge was made to pay to the accused, or to each or any of the accused where there are more than one, such compensation, not exceeding one thousand ringgit, as the Court thinks fit:
 
 <!-- page 47 -->
 
@@ -1894,13 +2768,27 @@ the accused upon the charge; and thereupon all proceedings on such charge agains
 
 (2) Such discharge shall not amount to an acquittal unless the Court so directs.
 
-Right of
+<!-- marginal: Right of -->
 
-104. Every person accused before any Court may of accused to right be defended by a Peguam Syarie. be defended
+104. Every person accused before any Court may of
 
-Court may
+<!-- marginal: accused to -->
 
-105. (1) For the purpose of enabling the accused to put questions explain any circumstances appearing in the evidence against to accused him, the Court may at any stage of a trial, without previously warning the accused, put such questions to him as the Court considers necessary.
+right be defended by a Peguam Syarie.
+
+<!-- marginal: be defended -->
+
+<!-- marginal: Court may -->
+
+105. (1) For the purpose of enabling the accused to
+
+<!-- marginal: put questions -->
+
+explain any circumstances appearing in the evidence against
+
+<!-- marginal: to accused -->
+
+him, the Court may at any stage of a trial, without previously warning the accused, put such questions to him as the Court considers necessary.
 
 (2) The answers given by the accused may be taken into consideration in such trial and put in evidence for or against him in any trial for any other offence which such answers may tend to show he has committed.
 
@@ -1972,9 +2860,17 @@ Explanation—If sufficient evidence has been obtained to raise a suspicion that
 
 <!-- page 52 -->
 
-Change of
+<!-- marginal: Change of -->
 
-108. Whenever any Judge, after having heard and recorded Judge during the whole or any part of the evidence in a trial, ceases hearing to exercise jurisdiction therein and is succeeded by another Judge who has and who exercises such jurisdiction, the Judge so succeeding may act on the evidence so recorded by his predecessor, or partly recorded by his predecessor and partly recorded by himself, or he may re-summon the witnesses and recommence the trial:
+108. Whenever any Judge, after having heard and recorded
+
+<!-- marginal: Judge during -->
+
+the whole or any part of the evidence in a trial, ceases
+
+<!-- marginal: hearing -->
+
+to exercise jurisdiction therein and is succeeded by another Judge who has and who exercises such jurisdiction, the Judge so succeeding may act on the evidence so recorded by his predecessor, or partly recorded by his predecessor and partly recorded by himself, or he may re-summon the witnesses and recommence the trial:
 
 Provided that—
 
@@ -1982,15 +2878,33 @@ Provided that—
 
 (b) the appropriate appeal Court may, whether there be an appeal or not, set aside any conviction had on evidence not wholly recorded by the Judge before whom the conviction was had, if such Court is of the opinion that the accused has been materially prejudiced thereby, and may order a new trial.
 
-Detention of
+<!-- marginal: Detention of -->
 
-109. ( 1) Any person attending a Court, although not offenders under arrest or upon a summons, may be detained by attending in Court. such Court for the purpose of examination for any offence of which such Court can take cognizance and which, from the evidence, he may appear to have committed, and may be proceeded against as though he had been arrested or summoned.
+109. ( 1) Any person attending a Court, although not
+
+<!-- marginal: offenders -->
+
+under arrest or upon a summons, may be detained by
+
+<!-- marginal: attending in -->
+
+<!-- marginal: Court. -->
+
+such Court for the purpose of examination for any offence of which such Court can take cognizance and which, from the evidence, he may appear to have committed, and may be proceeded against as though he had been arrested or summoned.
 
 (2) When the detention takes place after a trial has begun, the proceedings in respect of such person shall be commenced fresh and the witnesses re-heard.
 
-Weekly or
+<!-- marginal: Weekly or -->
 
-110. No proceeding of any Court shall be invalid by public reason of its happening on a weekly holiday or public holiday holiday.
+110. No proceeding of any Court shall be invalid by
+
+<!-- marginal: public -->
+
+reason of its happening on a weekly holiday or public
+
+<!-- marginal: holiday -->
+
+holiday.
 
 <!-- page 53 -->
 
@@ -2100,15 +3014,43 @@ Judge himself, and such note shall form part of the record.
 
 ## OF THE JUDGMENT
 
-Mode of
+<!-- marginal: Mode of -->
 
-118. The judgment in every trial in any Court shall be delivering pronounced in open Court, either immediately or at some judgment subsequent time of which due notice shall be given to the parties or their Peguam Syarie, and the accused shall, if in custody, be brought up or, if not in custody, be required to attend to hear judgment delivered.
+118. The judgment in every trial in any Court shall be
 
-Judgment to
+<!-- marginal: delivering -->
 
-119. The judgment shall be explained to the accused and be explained on his application a copy of the judgment shall be given to accused and copy to him free of cost. supplied Judgment to
+pronounced in open Court, either immediately or at some
 
-120. The original judgment shall be entered on, and if be filed with written filed with, the record of proceedings. record
+<!-- marginal: judgment -->
+
+subsequent time of which due notice shall be given to the parties or their Peguam Syarie, and the accused shall, if in custody, be brought up or, if not in custody, be required to attend to hear judgment delivered.
+
+<!-- marginal: Judgment to -->
+
+119. The judgment shall be explained to the accused and
+
+<!-- marginal: be explained -->
+
+on his application a copy of the judgment shall be given
+
+<!-- marginal: to accused -->
+
+<!-- marginal: and copy -->
+
+to him free of cost.
+
+<!-- marginal: supplied -->
+
+<!-- marginal: Judgment to -->
+
+120. The original judgment shall be entered on, and if
+
+<!-- marginal: be filed with -->
+
+written filed with, the record of proceedings.
+
+<!-- marginal: record -->
 
 ## CHAPTER 8
 
@@ -2116,11 +3058,23 @@ Judgment to
 
 ## OUT THEREOF
 
-Provisions as
+<!-- marginal: Provisions as -->
 
-121. With regard to sentences of imprisonment, the to execution following provisions shall be followed: of sentences of
+121. With regard to sentences of imprisonment, the
 
-(a) where the accused is sentenced to imprisonment, imprisonment the Court passing the sentence shall forthwith forward a warrant to the prison in which he is to be confined and, unless the accused is already confined in such prison, shall forward him in the custody of the police or Religious Enforcement Officer to such prison with the warrant;
+<!-- marginal: to execution -->
+
+following provisions shall be followed:
+
+<!-- marginal: of sentences -->
+
+<!-- marginal: of -->
+
+(a) where the accused is sentenced to imprisonment,
+
+<!-- marginal: imprisonment -->
+
+the Court passing the sentence shall forthwith forward a warrant to the prison in which he is to be confined and, unless the accused is already confined in such prison, shall forward him in the custody of the police or Religious Enforcement Officer to such prison with the warrant;
 
 (b) every warrant for the execution of a sentence of imprisonment shall be directed to the officer in charge of the prison or other place in which the prisoner is or is to be confined;
 
@@ -2164,7 +3118,9 @@ does not exceed the maximum six months term of im- prisonment
 
 <!-- page 56 -->
 
-56 Bill
+<!-- marginal: 56 -->
+
+Bill
 
 exceeds six six months months but does not exceed two years
 
@@ -2182,11 +3138,7 @@ exceeds five six months; hundred ringgit
 
 (c) the imprisonment which is imposed in default of payment of a fine shall terminate whenever that fine is either paid or levied by process of law;
 
-(d) if, before the expiration of the time of imprisonment fixed in default of payment of a fine, such a proportion of the fine be paid or levied that the time of imprisonment suffered in default of payment is not less than proportional to the part of the fine still unpaid,
-
-<!-- marginal: the -->
-
-imprisonment shall terminate;
+(d) if, before the expiration of the time of imprisonment fixed in default of payment of a fine, such a proportion of the fine be paid or levied that the time of imprisonment suffered in default of payment is not less than proportional to the part of the fine still unpaid, the imprisonment shall terminate;
 
 <!-- page 57 -->
 
@@ -2232,7 +3184,9 @@ shall be applicable when the accused is sentenced to whipping.
 
 <!-- page 58 -->
 
-58 Bill
+<!-- marginal: 58 -->
+
+Bill
 
 (3) The following provisions shall be followed when executing the sentence of whipping, that is—
 
@@ -2336,9 +3290,13 @@ any Court of any offence punishable by fine or imprisonment, such Court shall in
 
 Provided that no parent or guardian shall be fined without his having had an opportunity of being heard and, if he desires it, of adducing evidence in his defence.
 
-First
+<!-- marginal: First -->
 
-129. (1) When any person not being a youthful offender offenders. has been convicted of any offence punishable with imprisonment before any Court, if it appears to such Court that regard being had to the character, antecedents, age, health or mental condition of the offender or to the trivial nature of the offence or to any extenuating circumstances under which the offence was committed it is expedient that the offender be released on probation of good conduct, the Court may, instead of sentencing him at once to any punishment, direct that he be released on his entering into a bond with sureties and during such period as the Court may direct to appear and receive judgment if and when called upon and in the meantime be of good behaviour.
+129. (1) When any person not being a youthful offender
+
+<!-- marginal: offenders. -->
+
+has been convicted of any offence punishable with imprisonment before any Court, if it appears to such Court that regard being had to the character, antecedents, age, health or mental condition of the offender or to the trivial nature of the offence or to any extenuating circumstances under which the offence was committed it is expedient that the offender be released on probation of good conduct, the Court may, instead of sentencing him at once to any punishment, direct that he be released on his entering into a bond with sureties and during such period as the Court may direct to appear and receive judgment if and when called upon and in the meantime be of good behaviour.
 
 <!-- page 61 -->
 
@@ -2366,9 +3324,13 @@ a bond with sureties, and in such bond the person executing it binds himself to 
 
 <!-- page 62 -->
 
-Return of
+<!-- marginal: Return of -->
 
-131. When a sentence has been fully executed, the officer warrant executing it shall return the warrant to the Court from which it was issued with an indorsement under his hand certifying the manner in which the sentence has been executed.
+131. When a sentence has been fully executed, the officer
+
+<!-- marginal: warrant -->
+
+executing it shall return the warrant to the Court from which it was issued with an indorsement under his hand certifying the manner in which the sentence has been executed.
 
 ## CHAPTER 9
 
@@ -2376,17 +3338,35 @@ Return of
 
 ## COMMUTATIONS OF SENTENCES
 
-Power to
+<!-- marginal: Power to -->
 
-132. (1) When any person has been sentenced for an suspend or offence, the Yang di-Pertuan Agong on the advice of the remit sentences Mufti may at any time, without conditions, or with such conditions which the person sentenced accepts, suspend or remit the whole or any part of the sentence.
+132. (1) When any person has been sentenced for an
+
+<!-- marginal: suspend or -->
+
+offence, the Yang di-Pertuan Agong on the advice of the
+
+<!-- marginal: remit -->
+
+<!-- marginal: sentences -->
+
+Mufti may at any time, without conditions, or with such conditions which the person sentenced accepts, suspend or remit the whole or any part of the sentence.
 
 (2) Whenever an application is made to the Yang di- Pertuan Agong for the suspension or remission of a sentence, the Yang di-Pertuan Agong may require the convicting Judge to state his opinion as to whether the application should be granted or refused and such Judge shall state his opinion accordingly.
 
 (3) If any condition on which a sentence has been suspended or remitted is, in the opinion of the Yang di- Pertuan Agong, not fulfilled, the Yang di-Pertuan Agong may cancel such suspension or remission; whereupon the person in whose favour the sentence has been suspended or remitted may, if at large, be arrested by any police officer or Religious Enforcement Officer without warrant and remanded by a Judge to undergo the unexpired portion of the sentence.
 
-Power to
+<!-- marginal: Power to -->
 
-133. The Yang di-Pertuan Agong on the advice of the commute Mufti may, without the consent of the person sentenced, punishment commute any one of the following sentences for any other mentioned after it, namely—
+133. The Yang di-Pertuan Agong on the advice of the
+
+<!-- marginal: commute -->
+
+Mufti may, without the consent of the person sentenced,
+
+<!-- marginal: punishment -->
+
+commute any one of the following sentences for any other mentioned after it, namely—
 
 (a) whipping;
 
@@ -2428,7 +3408,9 @@ or acquittal remains in force, be liable to be tried again
 
 <!-- marginal: offence -->
 
-for the same offence nor on the same facts for any other offence for which a different charge from the one made against him might have been made under section 91 or for which he might have been convicted under section 92.
+for the same offence nor on the same facts for any other offence for which a different charge from the one made against him might have been made under section 91 or for which he might have been convicted under section
+
+92.
 
 (2) A person acquitted or convicted of any offence may afterwards be tried for any distinct offence for which a separate charge might have been made against him on the former trial under subsection 90(1).
 
@@ -2464,17 +3446,39 @@ that the accused by virtue of section 134 is not liable to be tried.
 
 ## OF APPEALS TO THE SYARIAH HIGH COURT
 
-When plea
+<!-- marginal: When plea -->
 
-136. When an accused person has pleaded guilty and of guilty been convicted by a Judge on such plea, there shall be limits right of appeal no appeal except as to the extent or legality of the sentence.
+136. When an accused person has pleaded guilty and
 
-Appeal
+<!-- marginal: of guilty -->
 
-137. When an accused person has been acquitted by a against Judge, there shall be no appeal except by, or with the acquittal sanction in writing of, the Chief Syariah Prosecutor.
+been convicted by a Judge on such plea, there shall be
 
-Procedure
+<!-- marginal: limits right -->
 
-138. (1) Subject to sections 136 and 137, any person for appeal who is dissatisfied with any judgment, sentence or order pronounced by any Syariah Subordinate Court in a criminal case or matter to which he is a party, may prefer an appeal to the Syariah High Court against such judgment, sentence or order in respect of any error in law or in fact or on the ground of the alleged excessive severity or of the alleged inadequacy of any sentence, by lodging, within fourteen days from the time of such judgment, sentence or order being passed or made, with the Assistant Registrar of such Syariah Subordinate Court a notice of appeal in five copies addressed to the Syariah High Court.
+<!-- marginal: of appeal -->
+
+no appeal except as to the extent or legality of the sentence.
+
+<!-- marginal: Appeal -->
+
+137. When an accused person has been acquitted by a
+
+<!-- marginal: against -->
+
+Judge, there shall be no appeal except by, or with the
+
+<!-- marginal: acquittal -->
+
+sanction in writing of, the Chief Syariah Prosecutor.
+
+<!-- marginal: Procedure -->
+
+138. (1) Subject to sections 136 and 137, any person
+
+<!-- marginal: for appeal -->
+
+who is dissatisfied with any judgment, sentence or order pronounced by any Syariah Subordinate Court in a criminal case or matter to which he is a party, may prefer an appeal to the Syariah High Court against such judgment, sentence or order in respect of any error in law or in fact or on the ground of the alleged excessive severity or of the alleged inadequacy of any sentence, by lodging, within fourteen days from the time of such judgment, sentence or order being passed or made, with the Assistant Registrar of such Syariah Subordinate Court a notice of appeal in five copies addressed to the Syariah High Court.
 
 (2) Every notice of appeal shall contain an address at which any notice or document connected with the appeal may be served upon the appellant or upon his Peguam Syarie.
 
@@ -2506,21 +3510,55 @@ whichever period shall be the longer.
 
 (9) If a petition of appeal is not lodged within the time prescribed by this section, the appeal shall be deemed to have been withdrawn and the trial Court shall enforce its sentence or order if any stay of execution has not been granted, but nothing herein contained shall be deemed to limit or restrict the power conferred upon the Judge by section 140.
 
-Transmission
+<!-- marginal: Transmission -->
 
-139. When the appellant has complied with section 138, of appeal the Court appealed from shall transmit to the Syariah record High Court and to the Chief Syariah Prosecutor and to the appellant or his Peguam Syarie a signed copy of the record of the proceedings and of the grounds of the decision together with a copy of the notice and of the petition of appeal.
+139. When the appellant has complied with section 138,
 
-Appeal
+<!-- marginal: of appeal -->
 
-140. The Judge of the Syariah High Court may, on the specially application of any person desirous of appealing who may allowed in certain cases be debarred from so doing upon the ground of his not having observed some formality or some requirement of this Act, permit an appeal upon such terms and with such directions to the Syariah Subordinate Court and to the parties as such Judge shall consider desirable, in order that substantial justice may be done in the matter, and may, for the purpose, enlarge any period of time prescribed by subsection 138(1) or (4).
+the Court appealed from shall transmit to the Syariah
 
-Stay of
+<!-- marginal: record -->
 
-141. Except in the case of sentence of whipping, the execution execution of which shall be stayed pending appeal, no pending appeal appeal shall operate as a stay of execution, but the Court appealed from or the Syariah High Court may stay execution on any judgment, order, conviction or sentence pending appeal, on such terms as to security for the payment of any money or the performance or non-performance of any act or the suffering of any punishment ordered by or in such judgment, order, conviction or sentence as to the Court appealed from or the Syariah High Court may seem reasonable.
+High Court and to the Chief Syariah Prosecutor and to the appellant or his Peguam Syarie a signed copy of the record of the proceedings and of the grounds of the decision together with a copy of the notice and of the petition of appeal.
 
-Selling d o wn
+<!-- marginal: Appeal -->
 
-142. ( 1) On receipt of the documents mentioned in section appeals on 139, the Registrar of the Syariah High Court shall number list
+140. The Judge of the Syariah High Court may, on the
+
+<!-- marginal: specially -->
+
+application of any person desirous of appealing who may
+
+<!-- marginal: allowed in -->
+
+<!-- marginal: certain cases -->
+
+be debarred from so doing upon the ground of his not having observed some formality or some requirement of this Act, permit an appeal upon such terms and with such directions to the Syariah Subordinate Court and to the parties as such Judge shall consider desirable, in order that substantial justice may be done in the matter, and may, for the purpose, enlarge any period of time prescribed by subsection 138(1) or (4).
+
+<!-- marginal: Stay of -->
+
+141. Except in the case of sentence of whipping, the
+
+<!-- marginal: execution -->
+
+execution of which shall be stayed pending appeal, no
+
+<!-- marginal: pending -->
+
+<!-- marginal: appeal -->
+
+appeal shall operate as a stay of execution, but the Court appealed from or the Syariah High Court may stay execution on any judgment, order, conviction or sentence pending appeal, on such terms as to security for the payment of any money or the performance or non-performance of any act or the suffering of any punishment ordered by or in such judgment, order, conviction or sentence as to the Court appealed from or the Syariah High Court may seem reasonable.
+
+<!-- marginal: Selling d o wn -->
+
+142. ( 1) On receipt of the documents mentioned in section
+
+<!-- marginal: appeals on -->
+
+139, the Registrar of the Syariah High Court shall number
+
+<!-- marginal: list -->
 
 <!-- page 67 -->
 
@@ -2578,9 +3616,13 @@ directing that the accused be arrested and brought before him, and may admit him
 
 <!-- page 68 -->
 
-Decision
+<!-- marginal: Decision -->
 
-146. At the hearing of the appeal the Syariah High Court on appeal may, if it considers that there is no sufficient ground for interfering, dismiss the appeal or may—
+146. At the hearing of the appeal the Syariah High Court
+
+<!-- marginal: on appeal -->
+
+may, if it considers that there is no sufficient ground for interfering, dismiss the appeal or may—
 
 (a) in an appeal from an order of acquittal, reverse such order and direct that the accused be re- tried, or find him guilty and pass sentence on him according to law;
 
@@ -2588,19 +3630,37 @@ Decision
 
 (c) in an appeal from any other order, alter or reverse such order.
 
-Order to
+<!-- marginal: Order to -->
 
-147. ( 1) In dealing with any appeal under this Chapter, take further the Syariah High Court, if it thinks additional evidence evidence to be necessary, may either take such evidence itself or direct it to be taken by the Syariah Subordinate Court.
+147. ( 1) In dealing with any appeal under this Chapter,
+
+<!-- marginal: take further -->
+
+the Syariah High Court, if it thinks additional evidence
+
+<!-- marginal: evidence -->
+
+to be necessary, may either take such evidence itself or direct it to be taken by the Syariah Subordinate Court.
 
 (2) When the additional evidence is taken by the Syariah Subordinate Court, it shall certify such evidence to the Syariah High Court which shall thereupon, as soon as may be, proceed to dispose of the appeal.
 
 (3) Unless the Syariah High Court otherwise directs, the accused or his Peguam Syarie shall be present when the additional evidence is taken.
 
-Judgment 148- At the end of the hearing of the appeal, the Syariah High Court shall, either at once or later on a date appointed for the purposes of which notice shall be given to the parties, deliver judgment in open Court.
+<!-- marginal: Judgment -->
 
-Certificate
+148- At the end of the hearing of the appeal, the Syariah High Court shall, either at once or later on a date appointed for the purposes of which notice shall be given to the parties, deliver judgment in open Court.
 
-149. ( 1) Whenever a case is decided on appeal by the and Syariah High Court under this Chapter, it shall certify consequence of judgment
+<!-- marginal: Certificate -->
+
+149. ( 1) Whenever a case is decided on appeal by the
+
+<!-- marginal: and -->
+
+Syariah High Court under this Chapter, it shall certify
+
+<!-- marginal: consequence -->
+
+<!-- marginal: of judgment -->
 
 <!-- page 69 -->
 
@@ -2666,21 +3726,33 @@ against any decision made by the Syariah High Court in the exercise of its origi
 
 (5) The Syariah Appeal Court shall also have jurisdiction to hear and determine matters brought before it in accordance with section 166 or 167.
 
-Notice of
+<!-- marginal: Notice of -->
 
-153. ( 1) Every appeal shall be by notice in writing which appeal. shall be filed with the Registrar of the Syariah High Court, at the place where the decision appealed against was given, within fourteen days after the date of the decision.
+153. ( 1) Every appeal shall be by notice in writing which
+
+<!-- marginal: appeal. -->
+
+shall be filed with the Registrar of the Syariah High Court, at the place where the decision appealed against was given, within fourteen days after the date of the decision.
 
 (2) Every notice of appeal shall state shortly the substance of the judgment appealed against, shall contain an address at which any notice or document connected with the appeal may be served upon the appellant or upon his Peguam Syarie, and, except where the notice of appeal is given orally under section 156, shall be signed by the appellant or his Peguam Syarie.
 
-Records of
+<!-- marginal: Records of -->
 
-154. ( 1) When a notice of appeal has been filed, the proceedings Judge by whom the decision was given shall, if he has not written his judgment, record in writing the grounds of his decision, and the written judgment or grounds of decision shall form part of the record of the proceedings.
+154. ( 1) When a notice of appeal has been filed, the
+
+<!-- marginal: proceedings -->
+
+Judge by whom the decision was given shall, if he has not written his judgment, record in writing the grounds of his decision, and the written judgment or grounds of decision shall form part of the record of the proceedings.
 
 (2) As soon as possible after notice of appeal has been filed, the Registrar shall cause to be served on the appellant or his Peguam Syarie a copy of such record of the proceedings.
 
-Petition
+<!-- marginal: Petition -->
 
-155. ( 1) Within ten days after the date of service of the of appeal record referred to in subsection 154(2), the appellant shall file with the Registrar of the Syariah High Court
+155. ( 1) Within ten days after the date of service of the
+
+<!-- marginal: of appeal -->
+
+record referred to in subsection 154(2), the appellant shall file with the Registrar of the Syariah High Court
 
 <!-- page 71 -->
 
@@ -2736,17 +3808,55 @@ copies of the record of the proceedings of the case, together with four copies o
 
 72 Bill
 
-Appeals nut
+<!-- marginal: Appeals nut -->
 
-158. The Syariah Appeal Court may in its discretion, of time and on the application of any person desirous of appealing formal defects who may be debarred from so doing by reason of his not having observed some formality or some requirement of this Act, permit an appeal upon such terms and with such directions as it may consider desirable in order that substantial justice may be done in the matter, and may, for the purpose, enlarge any period of time prescribed by section 153 or 155.
+158. The Syariah Appeal Court may in its discretion,
 
-On appeal
+<!-- marginal: of time and -->
 
-159. Where an appeal is presented against an acquittal, against the Syariah Appeal Court may issue a warrant directing acquittal, accused the accused to be arrested and brought before it and may may be remand him to prison pending the disposal of the appeal arrested or admit him to bail.
+on the application of any person desirous of appealing
 
-Appeal not
+<!-- marginal: formal -->
 
-160. ( 1) Except in the cases mentioned in subsection (3) to operate and section 159, no appeal shall operate as a stay of as stay of execution execution but the trial Court or the Syariah Appeal Court may stay execution of any judgment, order, conviction, or sentence pending appeal on such terms as to security for the payment of any money or the performance or non- performance of any act or the suffering of any punishment ordered by or in the judgment, order, conviction or sentence as to the Court may seem reasonable.
+<!-- marginal: defects -->
+
+who may be debarred from so doing by reason of his not having observed some formality or some requirement of this Act, permit an appeal upon such terms and with such directions as it may consider desirable in order that substantial justice may be done in the matter, and may, for the purpose, enlarge any period of time prescribed by section 153 or 155.
+
+<!-- marginal: On appeal -->
+
+159. Where an appeal is presented against an acquittal,
+
+<!-- marginal: against -->
+
+the Syariah Appeal Court may issue a warrant directing
+
+<!-- marginal: acquittal, -->
+
+<!-- marginal: accused -->
+
+the accused to be arrested and brought before it and may
+
+<!-- marginal: may be -->
+
+remand him to prison pending the disposal of the appeal
+
+<!-- marginal: arrested -->
+
+or admit him to bail.
+
+<!-- marginal: Appeal not -->
+
+160. ( 1) Except in the cases mentioned in subsection (3)
+
+<!-- marginal: to operate -->
+
+and section 159, no appeal shall operate as a stay of
+
+<!-- marginal: as stay of -->
+
+<!-- marginal: execution -->
+
+execution but the trial Court or the Syariah Appeal Court may stay execution of any judgment, order, conviction, or sentence pending appeal on such terms as to security for the payment of any money or the performance or non- performance of any act or the suffering of any punishment ordered by or in the judgment, order, conviction or sentence as to the Court may seem reasonable.
 
 (2) If the appellant is ultimately sentenced to imprisonment, the time during which the execution of the sentence was stayed shall be excluded in computing the term of his sentence unless the Syariah Appeal Court otherwise orders.
 
@@ -2808,7 +3918,7 @@ the Syariah Appeal Court may, if it thinks additional evidence to be necessary, 
 
 <!-- page 74 -->
 
-Judgment
+<!-- marginal: Judgment -->
 
 164. ( 1) At the end of the hearing of any appeal, the Syariah Appeal Court shall, either at once or later on a date appointed for the purpose of which notice shall be given to the parties, deliver judgment in open Court.
 
@@ -2816,17 +3926,45 @@ Judgment
 
 (3) The judgment of any member of the Syariah Appeal Court who is absent may be read by any other Judge.
 
-Judgment or
+<!-- marginal: Judgment or -->
 
-165. (1) Whenever a case is decided on appeal, the Syariah order to be Appeal Court shall certify its judgment or order to the certified 10 trial Court trial Court.
+165. (1) Whenever a case is decided on appeal, the Syariah
+
+<!-- marginal: order to be -->
+
+Appeal Court shall certify its judgment or order to the
+
+<!-- marginal: certified 10 -->
+
+<!-- marginal: trial Court -->
+
+trial Court.
 
 (2) The trial Court shall thereupon make such orders as are conformable to the judgment or order of the Syariah Appeal Court and, if necessary, the record shall be amended in accordance therewith.
 
 (3) Upon the withdrawal or discontinuance of any appeal, the Chief Registrar of the Syariah Appeal Court shall notify the trial Court accordingly and, if any stay of execution has been granted, the sentence or order of the trial Court shall forthwith be enforced, but nothing in this subsection shall be deemed to limit or restrict the power of extending time conferred upon the Syariah Appeal Court by section 158.
 
-Point
+<!-- marginal: Point -->
 
-166. (1) When any person has in a trial before the Syariah reserved on High Court in the exercise of its original criminal trial for Syariah jurisdiction, been convicted of an offence, the Judge may, Appeal if he thinks fit, reserve for the decision of the Syariah Court Appeal Court any question of law which has arisen in the course of the trial of that person and the determination of which would affect the event of the trial.
+166. (1) When any person has in a trial before the Syariah
+
+<!-- marginal: reserved on -->
+
+High Court in the exercise of its original criminal
+
+<!-- marginal: trial for -->
+
+<!-- marginal: Syariah -->
+
+jurisdiction, been convicted of an offence, the Judge may,
+
+<!-- marginal: Appeal -->
+
+if he thinks fit, reserve for the decision of the Syariah
+
+<!-- marginal: Court -->
+
+Appeal Court any question of law which has arisen in the course of the trial of that person and the determination of which would affect the event of the trial.
 
 (2) The person so convicted shall thereupon be remanded to prison or, if the Judge thinks fit, be admitted to bail.
 
@@ -2882,19 +4020,35 @@ interest which has arisen in the course of the appeal and the determination of w
 
 ## OF REVISION
 
-Power to
+<!-- marginal: Power to -->
 
-168. (1) Where any Judge of the Syariah Subordinate revise Court after delivering his decision is of the opinion that his decision is in error, he may refer his decision to the Syariah High Court for revision; and any Judge of the Syariah High Court may similarly do so, to the Syariah Appeal Court.
+168. (1) Where any Judge of the Syariah Subordinate
+
+<!-- marginal: revise -->
+
+Court after delivering his decision is of the opinion that his decision is in error, he may refer his decision to the Syariah High Court for revision; and any Judge of the Syariah High Court may similarly do so, to the Syariah Appeal Court.
 
 (2) Notwithstanding subsection (1), the Syariah High Court may call for and examine the records of any proceedings before a Syariah Subordinate Court for the purpose of satisfying itself as to the correctness, legality or propriety of any finding, sentence or order recorded or passed and as to any regularity of any proceedings of such Court; and the Syariah Appeal Court shall likewise have such revisionary jurisdiction in respect of any proceedings or matter before a Syariah High Court.
 
-Power to
+<!-- marginal: Power to -->
 
-169. On examining any record under section 168, the order further Court exercising such revisionary jurisdiction may direct enquiry. the relevant Court to make, and that Court shall make, such further enquiry as may be directed.
+169. On examining any record under section 168, the
 
-Power on
+<!-- marginal: order further -->
 
-170. ( 1) Where in the exercise of its revisionary revision. jurisdiction, the Court called for the record of the proceedings or such record is referred to it, the Court may exercise any of the powers conferred by sections 141, 145, 146 and 147.
+Court exercising such revisionary jurisdiction may direct
+
+<!-- marginal: enquiry. -->
+
+the relevant Court to make, and that Court shall make, such further enquiry as may be directed.
+
+<!-- marginal: Power on -->
+
+170. ( 1) Where in the exercise of its revisionary
+
+<!-- marginal: revision. -->
+
+jurisdiction, the Court called for the record of the proceedings or such record is referred to it, the Court may exercise any of the powers conferred by sections 141, 145, 146 and 147.
 
 (2) No order under this section shall be made to the prejudice of the accused unless he has had an opportunity of being heard, either personally or by Peguam Syarie, in his own defence.
 
@@ -2962,19 +4116,41 @@ made by the offender as well as the finding and sentence.
 
 <!-- page 78 -->
 
-Alternative
+<!-- marginal: Alternative -->
 
-175. If the Court, in any case, considers that a person procedure accused of any of the offences referred to in section 173 and committed in its view or presence may be better dealt with by ordinary process of law, such Court, after recording the facts constituting the offence and the statement of the accused, may direct the accused to be prosecuted, and may require security to be given for the appearance of such accused person before a Judge or, if sufficient security is not given, may forward such person under custody to another Judge for trial.
+175. If the Court, in any case, considers that a person
 
-Power 10
+<!-- marginal: procedure -->
 
-176. When any Court has, under section 173, adjudged remit an offender to punishment for refusing or omitting to do punishment. anything which he was lawfully required to do or for any intentional interruption or insult, the Court may, in its discretion, discharge the offender or remit the punishment on his submission to the order or requisition of such Court or an apology being made to its satisfaction.
+accused of any of the offences referred to in section 173 and committed in its view or presence may be better dealt with by ordinary process of law, such Court, after recording the facts constituting the offence and the statement of the accused, may direct the accused to be prosecuted, and may require security to be given for the appearance of such accused person before a Judge or, if sufficient security is not given, may forward such person under custody to another Judge for trial.
 
-Refusal lo
+<!-- marginal: Power 10 -->
 
-177. If any witness before a Court refuses to give evidence give or answer such questions as are put to him or to produce evidence. any document in his possession or power which the Court requires him to produce, and does not offer any reasonable excuse for such refusal, such Court may, for reasons to be recorded in writing, sentence him to imprisonment for any term not exceeding seven days, unless in the meantime such person consents to give evidence or to be examined and to answer such questions or to produce the document; but if his persisting in his refusal, he may be dealt with according to section 173 or section 175 notwithstanding any sentence he may have undergone under this section.
+176. When any Court has, under section 173, adjudged
 
-Appeal
+<!-- marginal: remit -->
+
+an offender to punishment for refusing or omitting to do
+
+<!-- marginal: punishment. -->
+
+anything which he was lawfully required to do or for any intentional interruption or insult, the Court may, in its discretion, discharge the offender or remit the punishment on his submission to the order or requisition of such Court or an apology being made to its satisfaction.
+
+<!-- marginal: Refusal -->
+
+lo
+
+177. If any witness before a Court refuses to give evidence
+
+<!-- marginal: give -->
+
+or answer such questions as are put to him or to produce
+
+<!-- marginal: evidence. -->
+
+any document in his possession or power which the Court requires him to produce, and does not offer any reasonable excuse for such refusal, such Court may, for reasons to be recorded in writing, sentence him to imprisonment for any term not exceeding seven days, unless in the meantime such person consents to give evidence or to be examined and to answer such questions or to produce the document; but if his persisting in his refusal, he may be dealt with according to section 173 or section 175 notwithstanding any sentence he may have undergone under this section.
+
+<!-- marginal: Appeal -->
 
 178. (1) All sentences passed under this Chapter shall be appealable to the Syariah High Court, in the case of sentences passed by the Syariah Subordinate Court, and to the Syariah Appeal Court, in the case of sentences passed by the Syariah High Court.
 
@@ -3056,7 +4232,11 @@ unsoundness.
 
 (5) The Syariah Prosecutor may at any stage of any proceedings prior to the trial, order that any accused person whom he suspects to be of unsound mind be sent to a mental hospital for observation for a period not exceeding one month; and the Medical Superintendent of such mental hospital shall keep such person under observation during such period and before the expiry of such period shall certify under his hand to the Syariah Prosecutor his opinion as to the state of mind of such person; and if the Medical Superintendent is unable within such period to form any definite conclusion, he shall so certify to the Syariah Prosecutor and the Syariah Prosecutor may order such person to be detained in such mental hospital for a further period not exceeding two months.
 
-(6) The Medical, Superintendent of a mental hospital Ord 31/52 may, notwithstanding anything in the Mental Disorders Ordinance 1952, detain any accused person in respect of whom an order has been made under subsection (5) for a period not exceeding the period specified in such order.
+(6) The Medical, Superintendent of a mental hospital
+
+<!-- marginal: Ord 31/52 -->
+
+may, notwithstanding anything in the Mental Disorders Ordinance 1952, detain any accused person in respect of whom an order has been made under subsection (5) for a period not exceeding the period specified in such order.
 
 (7) If the Medical Superintendent certifies that the accused person is of sound mind and capable of making his defence, the Judge shall proceed with the trial.
 
@@ -3142,23 +4322,49 @@ conduct any prosecution, or to appear on any appeal on behalf of the Chief Syari
 
 ## OF BAIL
 
-When person
+<!-- marginal: When person -->
 
-185. When any person is arrested or detained without may be warrant by a Religious Enforcement Officer or police released on bail, officer or appears or is brought before a Court and is prepared at any time while in the custody of such officer or at any stage of the proceedings before such Court to give bail, such person shall be released on bail by a Religious Enforcement Officer or police officer in charge of a police station or by any police officer not below the rank of Inspector or by such Court.
+185. When any person is arrested or detained without
 
-Amount of
+<!-- marginal: may be -->
 
-186. (1) The amount of every bond executed under this bond. Chapter shall be fixed with due regard to the circumstances of the case as being sufficient to secure the attendance of the person arrested, but shall not be excessive.
+warrant by a Religious Enforcement Officer or police
+
+<!-- marginal: released on -->
+
+<!-- marginal: bail, -->
+
+officer or appears or is brought before a Court and is prepared at any time while in the custody of such officer or at any stage of the proceedings before such Court to give bail, such person shall be released on bail by a Religious Enforcement Officer or police officer in charge of a police station or by any police officer not below the rank of Inspector or by such Court.
+
+<!-- marginal: Amount of -->
+
+186. (1) The amount of every bond executed under this
+
+<!-- marginal: bond. -->
+
+Chapter shall be fixed with due regard to the circumstances of the case as being sufficient to secure the attendance of the person arrested, but shall not be excessive.
 
 (2) The Syariah High Court may, in any case, whether there be an appeal on conviction or not, direct that any person be admitted to bail or that the bail required by a Religious Enforcement Officer or police officer.or Syariah Subordinate Court be reduced or increased.
 
-Bond to be
+<!-- marginal: Bond to be -->
 
-187. Before any person is released on bail, a bond for executed such sum of money as the Religious Enforcement Officer or police officer or Court, as the case may be, thinks sufficient shall be executed by one or more sufficient sureties, conditioned that such person shall attend at the time and place mentioned in the bond, and shall continue so to attend until otherwise directed by the Religious Enforcement Officer or police officer or Court, as the case may be.
+187. Before any person is released on bail, a bond for
 
-When person
+<!-- marginal: executed -->
 
-188. ( 1) As soon as the bond has been executed, the to be person shall be released and if he is in prison, the Court released admitting him to bail shall issue an order of release to the officer in charge of the prison, and such officer, on receipt of the order, shall release him.
+such sum of money as the Religious Enforcement Officer or police officer or Court, as the case may be, thinks sufficient shall be executed by one or more sufficient sureties, conditioned that such person shall attend at the time and place mentioned in the bond, and shall continue so to attend until otherwise directed by the Religious Enforcement Officer or police officer or Court, as the case may be.
+
+<!-- marginal: When person -->
+
+188. ( 1) As soon as the bond has been executed, the
+
+<!-- marginal: to be -->
+
+person shall be released and if he is in prison, the Court
+
+<!-- marginal: released -->
+
+admitting him to bail shall issue an order of release to the officer in charge of the prison, and such officer, on receipt of the order, shall release him.
 
 <!-- page 83 -->
 
@@ -3168,9 +4374,7 @@ When person
 
 <!-- marginal: When -->
 
-### 189.
-
-If, through mistake, fraud or otherwise, insufficient
+189. If, through mistake, fraud or otherwise, insufficient
 
 <!-- marginal: warrant of -->
 
@@ -3228,17 +4432,55 @@ as it relates to the applicants.
 
 ## SPECIAL PROVISIONS RELATING TO EVIDENCE
 
-Procedure
+<!-- marginal: Procedure -->
 
-192. (1) Whenever it appears to a Judge that any person when person able to give material evidence either for the prosecution able to give material or defence in relation to a seizable offence, is so dangerously evidence is ill that it is not practicable to take his evidence according dangerously ill to the usual course of law, that Judge may take the deposition of such person provided such reasonable notice as the case admits has been given to the Prosecutor and the accused of the intention to take it and of the time and place at which the Judge intends to take it.
+192. (1) Whenever it appears to a Judge that any person
+
+<!-- marginal: when person -->
+
+able to give material evidence either for the prosecution
+
+<!-- marginal: able to give -->
+
+<!-- marginal: material -->
+
+or defence in relation to a seizable offence, is so dangerously
+
+<!-- marginal: evidence is -->
+
+ill that it is not practicable to take his evidence according
+
+<!-- marginal: dangerously -->
+
+<!-- marginal: ill -->
+
+to the usual course of law, that Judge may take the deposition of such person provided such reasonable notice as the case admits has been given to the Prosecutor and the accused of the intention to take it and of the time and place at which the Judge intends to take it.
 
 (2) If the accused is in custody, a Judge may order the officer in charge of the prison to convey him to the place at the time notified and that officer shall convey him accordingly.
 
 (3) When it is proved at the trial of the accused for any offence to which such deposition relates that the deponent is dead or that for any sufficient cause his attendance cannot be procured, the deposition may be read either for or against the accused, notwithstanding his absence when it was taken, if it is certified under the hand of the Judge who took it and the contrary is not proved, or if it is shown by extrinsic evidence that the deponent was at the time of his examination dangerously ill as mentioned in subsection (1) and that the deposition was duly taken at the place and time notified and that reasonable notice of the intention to take it was given to the person against whom it is tendered in evidence, so that he or his Peguam Syarie might have been present and might have had, if he had chosen to be present, full opportunity of cross-examination.
 
-When person
+<!-- marginal: When person -->
 
-193. Whenever it is proved to the satisfaction of a Judge bound to that any witness bound to give evidence upon the trial give evidence intends to of any seizable offence intends to leave Malaysia and leave that the ends of justice would be probably defeated if Malaysia. such person were not present at the trial to give evidence, he may, upon the application of the Chief Syariah Prosecutor or accused and upon due provision being made for his maintenance and for compensating him for his detention
+193. Whenever it is proved to the satisfaction of a Judge
+
+<!-- marginal: bound to -->
+
+that any witness bound to give evidence upon the trial
+
+<!-- marginal: give evidence -->
+
+<!-- marginal: intends to -->
+
+of any seizable offence intends to leave Malaysia and
+
+<!-- marginal: leave -->
+
+that the ends of justice would be probably defeated if
+
+<!-- marginal: Malaysia. -->
+
+such person were not present at the trial to give evidence, he may, upon the application of the Chief Syariah Prosecutor or accused and upon due provision being made for his maintenance and for compensating him for his detention
 
 <!-- page 85 -->
 
@@ -3284,9 +4526,25 @@ Provided that in any case in which a Syariah Prosecutor intends to give in evide
 
 ( 3) The person referred to in subsection (2) and the Registrar of Criminals are by this Act bound to state the truth in reports made under their hands.
 
-How
+<!-- marginal: How -->
 
-195. (1) In any trial or other proceedings under this Act, previous a previous conviction or acquittal may be proved in addition conviction or acquittal to any other mode provided by any law for the time being may he in force— proved
+195. (1) In any trial or other proceedings under this Act,
+
+<!-- marginal: previous -->
+
+a previous conviction or acquittal may be proved in addition
+
+<!-- marginal: conviction -->
+
+<!-- marginal: or acquittal -->
+
+to any other mode provided by any law for the time being
+
+<!-- marginal: may he -->
+
+in force—
+
+<!-- marginal: proved -->
 
 (a) by an extract of the sentence or order certified under the hand of the officer having the custody of the records of the Court in any State in Malaysia in which such conviction or acquittal was decided; or
 
@@ -3298,9 +4556,19 @@ together with, in each of such cases, evidence as to the identity of the accused
 
 (3) Every Court shall presume to be genuine every document purporting to be a certificate of conviction and purporting to be signed by the officer in charge of any prison in Malaysia, and shall also presume that the officer by whom such document purports to be signed was when he signed it the officer in charge of the prison mentioned in such document.
 
-Record of
+<!-- marginal: Record of -->
 
-196. (1) If it is proved that an accused person has absented evidence in himself so that there is no immediate prospect of arresting absence of accused him, the Court competent to try such person for the offence complained of may, in his absence, examine the witnesses,
+196. (1) If it is proved that an accused person has absented
+
+<!-- marginal: evidence in -->
+
+himself so that there is no immediate prospect of arresting
+
+<!-- marginal: absence of -->
+
+<!-- marginal: accused -->
+
+him, the Court competent to try such person for the offence complained of may, in his absence, examine the witnesses,
 
 <!-- page 87 -->
 
@@ -3370,9 +4638,13 @@ bound by such bond to pay the penalty thereof or to show cause why it should not
 
 (4) Nothing in this section shall be deemed to prevent the penalty, or any portion thereof, of any bond under this Act being recovered under the provisions of the law relating to civil procedure for the time being in force.
 
-Appeal from
+<!-- marginal: Appeal from -->
 
-200. All orders made under section 199 by the Syariah orders Subordinate Court shall be appealable to the Syariah High Court, and to the Syariah Appeal Court in the case of orders made by the Syariah High Court.
+200. All orders made under section 199 by the Syariah
+
+<!-- marginal: orders -->
+
+Subordinate Court shall be appealable to the Syariah High Court, and to the Syariah Appeal Court in the case of orders made by the Syariah High Court.
 
 ## CHAPTER 6
 
@@ -3380,9 +4652,23 @@ Appeal from
 
 ## THE SUBJECT OF OFFENCES
 
-Court shall
+<!-- marginal: Court shall -->
 
-201. (1) At the conclusion of any proceedings under consider this Act, the Court shall consider in what manner the manner of disposal of exhibits shall be disposed of and may make any order exhibits for that purpose.
+201. (1) At the conclusion of any proceedings under
+
+<!-- marginal: consider -->
+
+this Act, the Court shall consider in what manner the
+
+<!-- marginal: manner of -->
+
+<!-- marginal: disposal of -->
+
+exhibits shall be disposed of and may make any order
+
+<!-- marginal: exhibits -->
+
+for that purpose.
 
 (2) If the Court makes no order as to the disposal of the exhibits, they shall be handed to the Prosecutor in charge of the proceedings and may be dealt with by the Prosecutor in accordance with the provisions of this Chapter as if the Court had made an order or orders to that effect.
 
@@ -3426,11 +4712,25 @@ Court, the Court may make such order as it thinks fit for the custody or disposa
 
 ## OF THE TRANSFER OF CRIMINAL CASES
 
-Power of the
+<!-- marginal: Power of the -->
 
-203. Whenever it is made to appear to the Judge of the Judge of Syariah High Court— Syariah High Court to transfer
+203. Whenever it is made to appear to the Judge of the
 
-(a) that a fair and impartial trial cannot be had in cases. any Syariah Subordinate Court;
+<!-- marginal: Judge of -->
+
+Syariah High Court—
+
+<!-- marginal: Syariah High -->
+
+<!-- marginal: Court to -->
+
+<!-- marginal: transfer -->
+
+(a) that a fair and impartial trial cannot be had in
+
+<!-- marginal: cases. -->
+
+any Syariah Subordinate Court;
 
 (b) that some question of law of unusual difficulty is likely to arise;
 
@@ -3446,9 +4746,23 @@ the Judge may order—
 
 (bb) that an accused person be tried in another Syariah Subordinate Court.
 
-Application
+<!-- marginal: Application -->
 
-204. (1) Every application for the exercise of the power for transfer conferred by section 203 shall be made by motion which to be supported by shall be supported by affidavit. affidavit. (2) Every such application shall be made before the trial of the offence has been concluded.
+204. (1) Every application for the exercise of the power
+
+<!-- marginal: for transfer -->
+
+conferred by section 203 shall be made by motion which
+
+<!-- marginal: to be -->
+
+<!-- marginal: supported by -->
+
+shall be supported by affidavit.
+
+<!-- marginal: affidavit. -->
+
+(2) Every such application shall be made before the trial of the offence has been concluded.
 
 (3) Every accused person making any such application shall give to the Chief Syariah Prosecutor notice in writing of the application, together with a copy of the grounds on which it is made, and no order shall be made on the merits of the application unless at least twenty-four hours have elapsed between the giving of such notice and the hearing of the application.
 
@@ -3632,9 +4946,13 @@ imprisonment for a term not exceeding one year or to both.
 
 <!-- page 94 -->
 
-Sworn
+<!-- marginal: Sworn -->
 
-218. (1) Subject to any rules made by the Court, any affidavit affidavit may be used in a Court if it is sworn under an oath—
+218. (1) Subject to any rules made by the Court, any
+
+<!-- marginal: affidavit -->
+
+affidavit may be used in a Court if it is sworn under an oath—
 
 (a) in Malaysia, before any Judge, Kadi, or Registrar;
 
@@ -3644,15 +4962,39 @@ Sworn
 
 (2) The Court shall take judicial notice of the seal or signature of any Judge, Kadi, Registrar or consular officer written or named in any affidavit.
 
-Power of
+<!-- marginal: Power of -->
 
-219. Any Court may, at any stage of any trial or other Court lo proceedings under this Act, summon any person as a summon and examine witness, or examine any person in attendance though not persons. summoned as a witness, or recall and re-examine any person already examined, and the Court shall summon and examine or recall and re-examine any such person if his evidence appears to be essential to the just decision of the case.
+219. Any Court may, at any stage of any trial or other
 
-Order for
+<!-- marginal: Court lo -->
 
-220. (1) The Court before which a person is convicted payment of of any offence may order for the payment by him of a compensation. sum to be fixed by the Court by way of compensation to any person, or to the representatives of any person, injured in respect of his body, character or property by the offence for which the conviction is had.
+proceedings under this Act, summon any person as a
 
-(2) The Court shall specify the person to whom any sum in respect of compensation as mentioned in subsection (1) is to be paid and section 221 shall be applicable to any order made under this section.
+<!-- marginal: summon and -->
+
+<!-- marginal: examine -->
+
+witness, or examine any person in attendance though not
+
+<!-- marginal: persons. -->
+
+summoned as a witness, or recall and re-examine any person already examined, and the Court shall summon and examine or recall and re-examine any such person if his evidence appears to be essential to the just decision of the case.
+
+<!-- marginal: Order for -->
+
+220. (1) The Court before which a person is convicted
+
+<!-- marginal: payment of -->
+
+of any offence may order for the payment by him of a
+
+<!-- marginal: compensation. -->
+
+sum to be fixed by the Court by way of compensation to any person, or to the representatives of any person, injured in respect of his body, character or property by the offence for which the conviction is had.
+
+(2) The Court shall specify the person to whom any sum in respect of compensation as mentioned in subsection
+
+(1) is to be paid and section 221 shall be applicable to any order made under this section.
 
 (3) To the extent of the amount which has been paid to a person or to the representatives of a person, under an order for compensation, any claim of such person or representatives for damages sustained by reason of the
 
@@ -3698,29 +5040,67 @@ affected by a judgment or order passed or made by a Court desires to have a copy
 
 (2) An application for a copy of the record may be made at any time by the Prosecutor by whom no fee shall be payable.
 
-Person
+<!-- marginal: Person -->
 
-223. When any person is released on bail, he shall give released to the Court or officer taking such bail an address at on bail to give which service upon him of all notices and process may address for be made, and in any case where such person cannot be service found, or for other reasons such service on him cannot be effected, any notice or prdcess left for such person at such address shall be deemed to have been duly served upon him.
+223. When any person is released on bail, he shall give
 
-Compensation
+<!-- marginal: released -->
 
-224. Whenever any person causes a Religious Enforcement where Officer or a police officer to arrest another person, if it charge is groundless appears to the Judge who takes cognizance of the case that there was no sufficient ground for causing such arrest, the Judge may award such compensation, not exceeding one hundred ringgit, to be paid by the person so causing the arrest to each person so arrested for his loss of time and any expenses incurred by him in the matter as the Judge shall think fit.
+to the Court or officer taking such bail an address at
 
-Judge not
+<!-- marginal: on bail -->
 
-225. No Judge shall try any case to or in which he is to act where a party or personally interested. interested
+<!-- marginal: to give -->
 
-Evidence
+which service upon him of all notices and process may
+
+<!-- marginal: address for -->
+
+be made, and in any case where such person cannot be
+
+<!-- marginal: service -->
+
+found, or for other reasons such service on him cannot be effected, any notice or prdcess left for such person at such address shall be deemed to have been duly served upon him.
+
+<!-- marginal: Compensation -->
+
+224. Whenever any person causes a Religious Enforcement
+
+<!-- marginal: where -->
+
+Officer or a police officer to arrest another person, if it
+
+<!-- marginal: charge is -->
+
+<!-- marginal: groundless -->
+
+appears to the Judge who takes cognizance of the case that there was no sufficient ground for causing such arrest, the Judge may award such compensation, not exceeding one hundred ringgit, to be paid by the person so causing the arrest to each person so arrested for his loss of time and any expenses incurred by him in the matter as the Judge shall think fit.
+
+<!-- marginal: Judge not -->
+
+225. No Judge shall try any case to or in which he is
+
+<!-- marginal: to act where -->
+
+a party or personally interested.
+
+<!-- marginal: interested -->
+
+<!-- marginal: Evidence -->
 
 226. In any proceedings under this Act, the Court shall observe all provisions of Islamic Law relating to number, status or quality of witness or evidence required to prove any fact.
 
-Forms
+<!-- marginal: Forms -->
 
 227. The forms set out in the Schedule, with such variation as the circumstances of each case require, may be used for the respective purposes therein mentioned.
 
-Application
+<!-- marginal: Application -->
 
-228. The Court imposing any fine under the authority of fines of any law for the time being in force may award any portion thereof to an informer.
+228. The Court imposing any fine under the authority
+
+<!-- marginal: of fines -->
+
+of any law for the time being in force may award any portion thereof to an informer.
 
 <!-- page 97 -->
 

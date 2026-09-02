@@ -787,7 +787,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/eng@/~cl_33",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (1)— “(e) by serving the notice in the form of an electronic message through an information processing system as determined by the Director General.”; and"
+        "@value": "in subsection (1)—"
       }
     },
     {
@@ -817,7 +817,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/eng@/~cl_33__para_a",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after paragraph (d) the following paragraph:"
+        "@value": "by inserting after paragraph (d) the following paragraph: “(e) by serving the notice in the form of an electronic message through an information processing system as determined by the Director General.”; and"
       }
     },
     {
@@ -970,7 +970,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/eng@/~cl_38",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (2)— “(f) to regulate the performance of functions of a road transport officer by the person authorized under subsection (1) and to prescribe any penalty for non-compliance with any conditions imposed under subsection (1).”;"
+        "@value": "in subsection (2)—"
       }
     },
     {
@@ -1010,7 +1010,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/eng@/~cl_38__para_c",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after paragraph (e) the following paragraph:"
+        "@value": "by inserting after paragraph (e) the following paragraph: “(f) to regulate the performance of functions of a road transport officer by the person authorized under subsection (1) and to prescribe any penalty for non-compliance with any conditions imposed under subsection (1).”;"
       }
     },
     {
@@ -1286,7 +1286,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/eng@/~cl_9",
       "schema:text": {
         "@language": "en",
-        "@value": "in paragraph (d)— Amendment of section 20"
+        "@value": "in paragraph (d)—"
       }
     },
     {
@@ -1306,7 +1306,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/eng@/~cl_9__para_c",
       "schema:text": {
         "@language": "en",
-        "@value": "by deleting the proviso."
+        "@value": "by deleting the proviso. Amendment of section 20"
       }
     }
   ]

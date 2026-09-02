@@ -306,7 +306,9 @@ Komunikasi dan Multimedia (Pindaan) 9
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya tidak dapat ditentukan sekarang ini. [PN(U2)2325]
+Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya tidak dapat ditentukan sekarang ini.
+
+<!-- marginal: [PN(U2)2325] -->
 
 <!-- page 11 -->
 
@@ -560,4 +562,6 @@ Communications and Multimedia (Amendment) 9
 
 ## FINANCIAL IMPLICATIONS
 
-This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained. [PN(U2)2325]
+This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained.
+
+<!-- marginal: [PN(U2)2325] -->

@@ -4,11 +4,11 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 pRELIMINARY 1. Short title and commencement 2. Interpretation
 
-## Part II
+## PART II
 
 FEEd-IN TARIFF SYSTEM 3. Establishment of feed-in tariff system 4. Eligibility for participation in feed-in tariff system 5. Application for feed-in approval 6. Additional information or documents 7. Grant or refusal of feed-in approval 8. Conditions of feed-in approval 9. power to impose additional conditions and to vary or revoke conditions
 
@@ -16,7 +16,7 @@ FEEd-IN TARIFF SYSTEM 3. Establishment of feed-in tariff system 4. Eligibility f
 
 11. Appeal
 
-## Part III
+## PART III
 
 CONNECTION, pURChASE ANd dISTRIBUTION OF RENEWABLE ENERGY
 
@@ -28,7 +28,7 @@ CONNECTION, pURChASE ANd dISTRIBUTION OF RENEWABLE ENERGY
 
 15. Technical and operational requirements
 
-## Part IV
+## PART IV
 
 FEEd-IN TARIFF
 
@@ -48,7 +48,7 @@ FEEd-IN TARIFF
 
 22. dishonest use of resources to generate electricity
 
-## Part V
+## PART V
 
 RENEWABLE ENERGY FUNd
 
@@ -62,7 +62,7 @@ RENEWABLE ENERGY FUNd
 
 27. Accounts
 
-## Part VI
+## PART VI
 
 INFORMATION GAThERING pOWERS
 
@@ -82,7 +82,7 @@ INFORMATION GAThERING pOWERS
 
 35. Offence for non-compliance
 
-## Part VII
+## PART VII
 
 ## ENFORCEMENT
 
@@ -128,7 +128,7 @@ INFORMATION GAThERING pOWERS
 
 55. Offences by body corporate
 
-## Part VIII
+## PART VIII
 
 ## GENERAL
 
@@ -148,13 +148,15 @@ INFORMATION GAThERING pOWERS
 
 63. power of Minister to amend Schedule
 
-## Part IX
+## PART IX
 
 SAvINGS ANd TRANSITIONAL
 
 64. Existing renewable energy generators
 
-65. Existing licences S chedule
+65. Existing licences
+
+## S CHEDULE
 
 <!-- page 5 -->
 
@@ -162,7 +164,7 @@ SAvINGS ANd TRANSITIONAL
 
 intituled An Act to provide for the establishment and implementation of a special tariff system to catalyse the generation of renewable energy and to provide for related matters. [ ] ENACTED by the parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 pRELIMINARY
 
@@ -192,7 +194,7 @@ pRELIMINARY
 
 “Commission” means the Energy Commission established under the Energy Commission Act 2001 [Act 610]; “supply line” has the meaning assigned to it in section 2 of the Electricity Supply Act 1990; “feed-in tariff” means the special tariff payable to feed-in approval holders in consideration for renewable energy generated and sold to a distribution licensee as specified in the third column of the Schedule; “feed-in tariff commencement date” means, in relation to a feed-in approval holder, the date on which the renewable energy installation first generates renewable energy for commercial sale pursuant to the renewable energy power purchase agreement which has become effective in accordance with section 12; “effective period” means, in relation to a feed-in approval holder, the period commencing from the feed-in tariff commencement date as specified in the fourth column of the Schedule; “renewable energy” means electricity generated or produced from renewable resources.
 
-## Part II
+## PART II
 
 FEEd-IN TARIFF SYSTEM
 
@@ -234,23 +236,15 @@ FEEd-IN TARIFF SYSTEM
 
 <!-- page 10 -->
 
-(3) The Authority may allow an application under subsection (1) to be furnished by an electronic medium or by way of an electronic transmission.
-
-(4) For the purposes of subsection (3), the conditions and specifications under which an application is to be furnished shall be as determined by the Authority.
+(3) The Authority may allow an application under subsection (1) to be furnished by an electronic medium or by way of an electronic transmission. (4) For the purposes of subsection (3), the conditions and specifications under which an application is to be furnished shall be as determined by the Authority.
 
 ### Additional information or documents
 
-6. (1) The Authority may, at any time after the receipt of an application for a feed-in approval under section 5, request the eligible producer to give to the Authority, within the period specified in the request, additional information or documents relating to the application.
-
-(2) If any additional information or document required under subsection (1) is not provided by the eligible producer within the period specified in the request or any extended time granted by the Authority, the application shall be deemed to have been withdrawn and shall not be further proceeded with, but without affecting the right of the eligible producer to make a fresh application.
+6. (1) The Authority may, at any time after the receipt of an application for a feed-in approval under section 5, request the eligible producer to give to the Authority, within the period specified in the request, additional information or documents relating to the application. (2) If any additional information or document required under subsection (1) is not provided by the eligible producer within the period specified in the request or any extended time granted by the Authority, the application shall be deemed to have been withdrawn and shall not be further proceeded with, but without affecting the right of the eligible producer to make a fresh application.
 
 ### Grant or refusal of feed-in approval
 
-7. (1) The Authority may, after considering an application for a feed-in approval under section 5 and the additional information or documents provided under section 6, approve or refuse the application.
-
-(2) The Authority shall communicate its decision under subsection (1) to the eligible producer and the relevant distribution licensee by written notice as soon as practicable.
-
-(3) The written notice by the Authority under subsection (2) shall specify—
+7. (1) The Authority may, after considering an application for a feed-in approval under section 5 and the additional information or documents provided under section 6, approve or refuse the application. (2) The Authority shall communicate its decision under subsection (1) to the eligible producer and the relevant distribution licensee by written notice as soon as practicable. (3) The written notice by the Authority under subsection (2) shall specify—
 
 (a) in the case where the application is approved, the fact of such approval and the conditions imposed under section 8; and
 
@@ -286,11 +280,7 @@ FEEd-IN TARIFF SYSTEM
 
 <!-- page 12 -->
 
-(b) an opportunity to make written submissions within a period specified in the written notice which shall not be less than thirty days.
-
-(3) After the expiry of the period specified in the notice, the Authority shall, after considering any written submission made by the feed-in approval holder, decide whether to impose the additional conditions, to vary or revoke any existing conditions or to take no further action.
-
-(4) The Authority shall give the feed-in approval holder a written notice of the Authority’s decision under subsection (3) as soon as practicable and the decision shall take effect on a date to be specified in the written notice.
+(b) an opportunity to make written submissions within a period specified in the written notice which shall not be less than thirty days. (3) After the expiry of the period specified in the notice, the Authority shall, after considering any written submission made by the feed-in approval holder, decide whether to impose the additional conditions, to vary or revoke any existing conditions or to take no further action. (4) The Authority shall give the feed-in approval holder a written notice of the Authority’s decision under subsection (3) as soon as practicable and the decision shall take effect on a date to be specified in the written notice.
 
 ### Revocation of feed-in approval
 
@@ -326,13 +316,9 @@ FEEd-IN TARIFF SYSTEM
 
 <!-- page 14 -->
 
-or revoking any conditions imposed on a feed-in approval under section 9 or in revoking a feed-in approval under section 10 may, within thirty days of the decision being notified to him, appeal to the Minister in the prescribed manner.
+or revoking any conditions imposed on a feed-in approval under section 9 or in revoking a feed-in approval under section 10 may, within thirty days of the decision being notified to him, appeal to the Minister in the prescribed manner. (2) The Minister may, after considering the appeal under subsection (1), confirm, reverse or vary the decision of the Authority. (3) The decision of the Minister under subsection (2) shall be final and binding.
 
-(2) The Minister may, after considering the appeal under subsection (1), confirm, reverse or vary the decision of the Authority.
-
-(3) The decision of the Minister under subsection (2) shall be final and binding.
-
-## Part III
+## PART III
 
 CONNECTION, pURChASE ANd dISTRIBUTION OF RENEWABLE
 
@@ -340,9 +326,7 @@ CONNECTION, pURChASE ANd dISTRIBUTION OF RENEWABLE
 
 ### Renewable energy power purchase agreement
 
-12. (1) Upon receipt of the written notice by the Authority under subsection 7(2) that an application from a feed-in approval holder has been approved, the distribution licensee shall, within such period as may be prescribed by the Authority, enter into a renewable energy power purchase agreement with the feed-in approval holder.
-
-(2) Notwithstanding subsection (1), the distribution licensee shall not be obliged to enter into the renewable energy power purchase agreement with the feed-in approval holder if—
+12. (1) Upon receipt of the written notice by the Authority under subsection 7(2) that an application from a feed-in approval holder has been approved, the distribution licensee shall, within such period as may be prescribed by the Authority, enter into a renewable energy power purchase agreement with the feed-in approval holder. (2) Notwithstanding subsection (1), the distribution licensee shall not be obliged to enter into the renewable energy power purchase agreement with the feed-in approval holder if—
 
 (a) the feed-in approval holder refuses to enter into the agreement; or
 
@@ -358,17 +342,11 @@ CONNECTION, pURChASE ANd dISTRIBUTION OF RENEWABLE
 
 <!-- page 16 -->
 
-(3) The location of the applicable supply line connection point shall be determined by the distribution licensee, without prejudice to section 15.
-
-(4) A distribution licensee who contravenes subsection (2) commits an offence and shall, on conviction, be liable to a fine not exceeding one million ringgit.
+(3) The location of the applicable supply line connection point shall be determined by the distribution licensee, without prejudice to section 15. (4) A distribution licensee who contravenes subsection (2) commits an offence and shall, on conviction, be liable to a fine not exceeding one million ringgit.
 
 ### Priority of purchase and distribution
 
-14. (1) Where a renewable energy installation has been connected to a supply line connection point under subsection 13(2), a distribution licensee shall, as priority over the electricity generated from resources other than renewable resources, purchase and distribute through the supply line the entire available quantity of renewable energy generated by a renewable energy installation owned by a feed-in approval holder unless exempted under subsection (2).
-
-(2) The Authority may exempt a distribution licensee from compliance with subsection (1) for such periods and under such circumstances as the Authority thinks fit having regard to public safety and private safety.
-
-(3) A person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding one million ringgit.
+14. (1) Where a renewable energy installation has been connected to a supply line connection point under subsection 13(2), a distribution licensee shall, as priority over the electricity generated from resources other than renewable resources, purchase and distribute through the supply line the entire available quantity of renewable energy generated by a renewable energy installation owned by a feed-in approval holder unless exempted under subsection (2). (2) The Authority may exempt a distribution licensee from compliance with subsection (1) for such periods and under such circumstances as the Authority thinks fit having regard to public safety and private safety. (3) A person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding one million ringgit.
 
 ### Technical and operational requirements
 
@@ -384,7 +362,7 @@ CONNECTION, pURChASE ANd dISTRIBUTION OF RENEWABLE
 
 <!-- page 17 -->
 
-## Part IV
+## PART IV
 
 FEEd-IN TARIFF
 
@@ -412,15 +390,7 @@ FEEd-IN TARIFF
 
 (d) the efficiency of renewable energy installations utilising each particular renewable resource based on prevailing technology; and
 
-(e) any other factor deemed relevant by the Authority.
-
-(3) Upon completion of the review under subsection (1), the Authority shall submit a report of the review to the Minister with or without recommendations for adjustments to the degression rates.
-
-(4) The Minister may, after considering the recommendations for adjustment to the degression rates made by the Authority under subsection (3), approve or refuse such recommendations.
-
-(5) If the Minister approves the recommendation made by the Authority under subsection (4), he shall as soon as practicable, revise the degression rates.
-
-(6) The revised degression rates shall not apply to feed-in approval holders existing before the revised degression rates come into effect.
+(e) any other factor deemed relevant by the Authority. (3) Upon completion of the review under subsection (1), the Authority shall submit a report of the review to the Minister with or without recommendations for adjustments to the degression rates. (4) The Minister may, after considering the recommendations for adjustment to the degression rates made by the Authority under subsection (3), approve or refuse such recommendations. (5) If the Minister approves the recommendation made by the Authority under subsection (4), he shall as soon as practicable, revise the degression rates. (6) The revised degression rates shall not apply to feed-in approval holders existing before the revised degression rates come into effect.
 
 ### Recovery of moneys from Renewable Energy Fund
 
@@ -452,21 +422,15 @@ FEEd-IN TARIFF
 
 ### Dishonest use of resources to generate electricity
 
-22. (1) Any person who in any manner dishonestly generates electricity from a renewable energy installation by using resources other than the renewable resource specified in the feed-in approval applicable to that renewable energy installation in order to receive the payment or higher payment of feed-in tariffs from the distribution licensee commits an offence and shall, on conviction, be liable to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding five years or to both.
-
-(2) A written statement by an officer of the Authority or any person authorized by the Authority specifying—
+22. (1) Any person who in any manner dishonestly generates electricity from a renewable energy installation by using resources other than the renewable resource specified in the feed-in approval applicable to that renewable energy installation in order to receive the payment or higher payment of feed-in tariffs from the distribution licensee commits an offence and shall, on conviction, be liable to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding five years or to both. (2) A written statement by an officer of the Authority or any person authorized by the Authority specifying—
 
 (a) the amount of loss to the Fund resulting from the payment or higher payment of feed-in tariff under subsection (1); and
 
-(b) the person liable for such amount of loss, shall be prima facie evidence of the amount of loss to the Fund and the person liable for such amount of loss.
-
-(3) The Authority shall require the person referred to in subsection (1) to pay to the Authority the amount of loss to the Fund resulting from the payment or higher payment of feed-in tariffs to that person under subsection (1).
-
-(4) The amount stated in the written statement under subsection (2) which is not paid shall be treated as a civil debt due to the Authority by such person and shall be recoverable by civil action in court.
+(b) the person liable for such amount of loss, shall be prima facie evidence of the amount of loss to the Fund and the person liable for such amount of loss. (3) The Authority shall require the person referred to in subsection (1) to pay to the Authority the amount of loss to the Fund resulting from the payment or higher payment of feed-in tariffs to that person under subsection (1). (4) The amount stated in the written statement under subsection (2) which is not paid shall be treated as a civil debt due to the Authority by such person and shall be recoverable by civil action in court.
 
 <!-- page 21 -->
 
-## Part V
+## PART V
 
 RENEWABLE ENERGY FUNd
 
@@ -492,13 +456,7 @@ RENEWABLE ENERGY FUNd
 
 <!-- page 22 -->
 
-shall be prima facie evidence of the unpaid portion of the tariffs due to the Fund and the distribution licensee liable for the unpaid portion of the tariffs.
-
-(4) The Authority shall require the distribution licensee to pay the unpaid portion of the tariffs due to the Fund under subsection (1) to the Authority.
-
-(5) The amount stated in the written statement under subsection (3) which is not paid shall be treated as a civil debt due to the Authority by such person and shall be recoverable by civil action in court.
-
-(6) Upon the recommendation of the Authority, the Minister may by order published in the Gazette revoke the requirement made under subsection (1) if he is satisfied that there are sufficient moneys in the Fund to meet the purposes of this Act.
+shall be prima facie evidence of the unpaid portion of the tariffs due to the Fund and the distribution licensee liable for the unpaid portion of the tariffs. (4) The Authority shall require the distribution licensee to pay the unpaid portion of the tariffs due to the Fund under subsection (1) to the Authority. (5) The amount stated in the written statement under subsection (3) which is not paid shall be treated as a civil debt due to the Authority by such person and shall be recoverable by civil action in court. (6) Upon the recommendation of the Authority, the Minister may by order published in the Gazette revoke the requirement made under subsection (1) if he is satisfied that there are sufficient moneys in the Fund to meet the purposes of this Act.
 
 ### Expenditure to be charged on Renewable Energy Fund
 
@@ -510,9 +468,7 @@ shall be prima facie evidence of the unpaid portion of the tariffs due to the Fu
 
 ### Investment
 
-26. (1) The moneys from the Fund shall, in so far as they are not required or immediately required to be expended by the Authority under this Act, be invested in such manner as the Minister may approve with the concurrence of the Minister of Finance.
-
-(2) The Authority shall open and maintain an account or accounts to hold moneys in the Fund with such bank or banks in Malaysia as it thinks fit, after consulting the Minister and the Minister of Finance, and every such account shall be operated in such manner as may be authorized by the Authority.
+26. (1) The moneys from the Fund shall, in so far as they are not required or immediately required to be expended by the Authority under this Act, be invested in such manner as the Minister may approve with the concurrence of the Minister of Finance. (2) The Authority shall open and maintain an account or accounts to hold moneys in the Fund with such bank or banks in Malaysia as it thinks fit, after consulting the Minister and the Minister of Finance, and every such account shall be operated in such manner as may be authorized by the Authority.
 
 <!-- page 23 -->
 
@@ -524,7 +480,7 @@ shall be prima facie evidence of the unpaid portion of the tariffs due to the Fu
 
 (b) a statement of its activities in respect of the Fund. (2) The Authority shall, as soon as possible, send a copy of the statement of accounts certified by the auditors and a copy of the auditors’ report to the Minister who shall cause them to be laid before both houses of parliament.
 
-## Part VI
+## PART VI
 
 INFORMATION GAThERING pOWERS
 
@@ -576,23 +532,15 @@ and produce any documents, whether in physical form or in electronic media, in t
 
 ### Access to records
 
-32. (1) A person shall, if at any time requested by the Authority by notice in writing, allow the Authority, its authorized officer or appointed auditor access to his or its records for the purposes of carrying out any of the Authority’s functions or powers under this Act or its subsidiary legislation.
-
-(2) A person who fails to comply with the written notice under subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding two hundred thousand ringgit.
+32. (1) A person shall, if at any time requested by the Authority by notice in writing, allow the Authority, its authorized officer or appointed auditor access to his or its records for the purposes of carrying out any of the Authority’s functions or powers under this Act or its subsidiary legislation. (2) A person who fails to comply with the written notice under subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding two hundred thousand ringgit.
 
 ### Record of information
 
-33. (1) The Authority shall maintain a record of all information or documents received pursuant to the orders given under subsection 29(1).
-
-(2) A record maintained under subsection (1) may be made available to the public.
+33. (1) The Authority shall maintain a record of all information or documents received pursuant to the orders given under subsection 29(1). (2) A record maintained under subsection (1) may be made available to the public.
 
 ### Publication of information
 
-34. (1) The Authority may publish any information received by it in the course of exercising its functions and powers under this part.
-
-(2) The Authority shall consider the commercial interest of the parties to whom the information relates before publishing such information.
-
-(3) The Authority shall not publish any information or any part of any information disclosed to it if the publication—
+34. (1) The Authority may publish any information received by it in the course of exercising its functions and powers under this part. (2) The Authority shall consider the commercial interest of the parties to whom the information relates before publishing such information. (3) The Authority shall not publish any information or any part of any information disclosed to it if the publication—
 
 (a) is likely to prejudice the fair trial of a person; or
 
@@ -604,7 +552,7 @@ and produce any documents, whether in physical form or in electronic media, in t
 
 35. A person who fails to comply with an order of the Authority in accordance with this part commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding six months or to both.
 
-## Part VII
+## PART VII
 
 ## ENFORCEMENT
 
@@ -620,15 +568,11 @@ and produce any documents, whether in physical form or in electronic media, in t
 
 ### Power of investigation
 
-38. (1) An authorized officer may investigate the activities of a feed-in approval holder, distribution licensee or other person in relation to the commission of an offence under this Act or its subsidiary legislation.
-
-(2) In any case relating to the commission of an offence under this Act or its subsidiary legislation, any authorized officer carrying out an investigation may exercise all or any of the powers in relation to police investigation, except the power to arrest without warrant, given by the Criminal procedure Code [Act 593].
+38. (1) An authorized officer may investigate the activities of a feed-in approval holder, distribution licensee or other person in relation to the commission of an offence under this Act or its subsidiary legislation. (2) In any case relating to the commission of an offence under this Act or its subsidiary legislation, any authorized officer carrying out an investigation may exercise all or any of the powers in relation to police investigation, except the power to arrest without warrant, given by the Criminal procedure Code [Act 593].
 
 ### Search and seizure with warrant
 
-39. (1) If it appears to a Magistrate, upon written information on oath from the authorized officer and after such inquiry as he considers necessary, that there is reasonable cause to believe that an offence under this Act or its subsidiary legislation is being or has been committed on any premises, so that any evidence or thing which is necessary to the conduct of an investigation into an offence may be found in any premises, the Magistrate may issue a warrant authorizing any authorized officer named in the warrant to enter the premises at any reasonable time by day or by night, with or without assistance and if need be by force and there to search for and seize any such evidence or thing, provided that nothing shall authorize any court other than the high Court to grant a warrant to search for a postal article, telegram or other document in the custody of the postal or telegraph authorities.
-
-(2) Without affecting the generality of subsection (1), the warrant issued by the Magistrate may authorize the search and seizure of—
+39. (1) If it appears to a Magistrate, upon written information on oath from the authorized officer and after such inquiry as he considers necessary, that there is reasonable cause to believe that an offence under this Act or its subsidiary legislation is being or has been committed on any premises, so that any evidence or thing which is necessary to the conduct of an investigation into an offence may be found in any premises, the Magistrate may issue a warrant authorizing any authorized officer named in the warrant to enter the premises at any reasonable time by day or by night, with or without assistance and if need be by force and there to search for and seize any such evidence or thing, provided that nothing shall authorize any court other than the high Court to grant a warrant to search for a postal article, telegram or other document in the custody of the postal or telegraph authorities. (2) Without affecting the generality of subsection (1), the warrant issued by the Magistrate may authorize the search and seizure of—
 
 (a) copies of any books, account or other documents, including computerized data, which contain or are reasonably suspected to contain information as to any offence so suspected to have been committed; or
 
@@ -648,9 +592,7 @@ exercise in, upon and in respect of the premises all the powers referred to in s
 
 ### Access to computerized data
 
-41. (1) An authorized officer conducting a search under section 39 or 40 shall be given access to computerized data whether stored in a computer or otherwise.
-
-(2) For the purposes of this section, “access”—
+41. (1) An authorized officer conducting a search under section 39 or 40 shall be given access to computerized data whether stored in a computer or otherwise. (2) For the purposes of this section, “access”—
 
 (a) includes being provided with the necessary password, encryption code, decryption code, software or hardware and any other means required to enable comprehension of computerized data; and
 
@@ -662,9 +604,7 @@ exercise in, upon and in respect of the premises all the powers referred to in s
 
 ### List of things seized
 
-43. (1) Except as provided in subsection (2), where any equipment, instrument, material, book, record, account, document or thing is seized under this part, the seizing officer shall as soon as practicable prepare a list of the things seized and of the places in which they are respectively found and deliver a copy of the list signed by him to the occupier of the premises which has been searched, or to his agent or servant, at the premises.
-
-(2) Where the premises are unoccupied, the seizing officer shall whenever possible post a list of the things seized conspicuously on the premises.
+43. (1) Except as provided in subsection (2), where any equipment, instrument, material, book, record, account, document or thing is seized under this part, the seizing officer shall as soon as practicable prepare a list of the things seized and of the places in which they are respectively found and deliver a copy of the list signed by him to the occupier of the premises which has been searched, or to his agent or servant, at the premises. (2) Where the premises are unoccupied, the seizing officer shall whenever possible post a list of the things seized conspicuously on the premises.
 
 <!-- page 31 -->
 
@@ -680,15 +620,7 @@ exercise in, upon and in respect of the premises all the powers referred to in s
 
 ### Examination of person acquainted with case
 
-46. (1) An authorized officer making an investigation under this Act or its subsidiary legislation may examine orally any person supposed to be acquainted with the facts and circumstances of the case.
-
-(2) The person examined under subsection (1) shall be legally bound to answer all questions relating to such case put to him by the authorized officer, but such person may refuse to answer any question the answer to which would have a tendency to expose him to a criminal charge or penalty or forfeiture.
-
-(3) A person making a statement under this section shall be legally bound to state the truth, whether or not such statement is made wholly or partly in answer to the questions.
-
-(4) An authorized officer examining a person under subsection (1) shall first inform the person of the provisions of subsections (2) and (3).
-
-(5) A statement made by any person under this section shall, wherever possible, be reduced into writing and signed by the person making it or affixed with his thumbprint, as the case may be—
+46. (1) An authorized officer making an investigation under this Act or its subsidiary legislation may examine orally any person supposed to be acquainted with the facts and circumstances of the case. (2) The person examined under subsection (1) shall be legally bound to answer all questions relating to such case put to him by the authorized officer, but such person may refuse to answer any question the answer to which would have a tendency to expose him to a criminal charge or penalty or forfeiture. (3) A person making a statement under this section shall be legally bound to state the truth, whether or not such statement is made wholly or partly in answer to the questions. (4) An authorized officer examining a person under subsection (1) shall first inform the person of the provisions of subsections (2) and (3). (5) A statement made by any person under this section shall, wherever possible, be reduced into writing and signed by the person making it or affixed with his thumbprint, as the case may be—
 
 (a) after it has been read to him in the language in which he made it; and
 
@@ -752,11 +684,7 @@ commits an offence and shall, on conviction, be liable to a fine not exceeding t
 
 <!-- page 36 -->
 
-time as the Authority may grant, prosecution for the offence may be instituted at any time after that against the person to whom the offer was made.
-
-(4) Where an offence has been compounded under subsection (2), no prosecution shall be instituted in respect of the offence against the person to whom the offer to compound was made, and any equipment, instrument, material, book, record, account, document or thing seized under this Act or its subsidiary legislation in connection with the offence may be released by the Authority, subject to such terms and conditions as it thinks fit to impose in accordance with the conditions of the compound.
-
-(5) All sums of money received by the Authority under this section shall be paid into the Federal Consolidated Fund.
+time as the Authority may grant, prosecution for the offence may be instituted at any time after that against the person to whom the offer was made. (4) Where an offence has been compounded under subsection (2), no prosecution shall be instituted in respect of the offence against the person to whom the offer to compound was made, and any equipment, instrument, material, book, record, account, document or thing seized under this Act or its subsidiary legislation in connection with the offence may be released by the Authority, subject to such terms and conditions as it thinks fit to impose in accordance with the conditions of the compound. (5) All sums of money received by the Authority under this section shall be paid into the Federal Consolidated Fund.
 
 ### Prosecution
 
@@ -780,7 +708,7 @@ time as the Authority may grant, prosecution for the offence may be instituted a
 
 (c) by the employee of the agent in the course of his employment by the agent or otherwise on behalf of the agent acting on behalf of that person.
 
-## Part VIII
+## PART VIII
 
 ## GENERAL
 
@@ -806,9 +734,7 @@ time as the Authority may grant, prosecution for the offence may be instituted a
 
 (f) any deficiencies in the scope or operation of this Act and its subsidiary legislation; and
 
-(g) other matters the Minister thinks necessary.
-
-(4) The Authority shall publish the report in a manner it deems appropriate as soon as practicable following the date on which the Authority submits the report to the Minister.
+(g) other matters the Minister thinks necessary. (4) The Authority shall publish the report in a manner it deems appropriate as soon as practicable following the date on which the Authority submits the report to the Minister.
 
 ### Compliance with all other laws
 
@@ -816,9 +742,7 @@ time as the Authority may grant, prosecution for the offence may be instituted a
 
 ### Directions by the Authority
 
-58. (1) The Authority may from time to time issue directions in writing to any person about the compliance or non-compliance of any conditions of the feed-in approval, including the remedying of a breach of a feed-in approval condition or the provisions of this Act or its subsidiary legislation.
-
-(2) prior to making a direction under subsection (1), the Authority shall issue a notice in writing to the person specifying the nature of the required compliance.
+58. (1) The Authority may from time to time issue directions in writing to any person about the compliance or non-compliance of any conditions of the feed-in approval, including the remedying of a breach of a feed-in approval condition or the provisions of this Act or its subsidiary legislation. (2) prior to making a direction under subsection (1), the Authority shall issue a notice in writing to the person specifying the nature of the required compliance.
 
 <!-- page 39 -->
 
@@ -876,7 +800,7 @@ time as the Authority may grant, prosecution for the offence may be instituted a
 
 63. The Minister may, by order published in the Gazette, amend the Schedule.
 
-## Part IX
+## PART IX
 
 SAvINGS ANd TRANSITIONAL
 
@@ -890,11 +814,7 @@ prior to the coming into operation of this Act shall have the option of either�
 
 (a) applying to participate in the feed-in-tariff system, terminating any such prior agreement with the distribution licensee with the consent of the distribution licensee and entering into a renewable energy power purchase agreement prescribed under this Act; or
 
-(b) continuing under his or its existing agreement with the distribution licensee and not participating in the feed-in tariff system.
-
-(2) Sections 5, 6, 7, 8, 9, 10 and 11 shall apply mutatis mutandis where an eligible producer referred to in subsection (1) has opted to participate in the feed-in tariff system.
-
-(3) Upon the grant of a feed-in approval to an eligible producer referred to in subsection (1), parts III and Iv shall apply mutatis mutandis to the feed-in approval holder except that the effective period applicable to such feed-in approval holder shall be reduced by a period equivalent to the period during which his or its renewable energy installation had generated electricity for commercial sale to the distribution licensee prior to the grant of the feed-in approval.
+(b) continuing under his or its existing agreement with the distribution licensee and not participating in the feed-in tariff system. (2) Sections 5, 6, 7, 8, 9, 10 and 11 shall apply mutatis mutandis where an eligible producer referred to in subsection (1) has opted to participate in the feed-in tariff system. (3) Upon the grant of a feed-in approval to an eligible producer referred to in subsection (1), parts III and Iv shall apply mutatis mutandis to the feed-in approval holder except that the effective period applicable to such feed-in approval holder shall be reduced by a period equivalent to the period during which his or its renewable energy installation had generated electricity for commercial sale to the distribution licensee prior to the grant of the feed-in approval.
 
 ### Existing licences
 
@@ -1220,37 +1140,19 @@ L
 
 ### c
 
-A U N
-
-<!-- marginal: f -->
-
-f
-
-<!-- marginal: f -->
+A U N f f f
 
 ### e
 
-<!-- marginal: f -->
-
-f N
-
-<!-- marginal: f -->
-
-<!-- marginal: o -->
-
-<!-- marginal: i -->
+f f N f o i
 
 ### t
 
-i
-
-<!-- marginal: i -->
-
-<!-- marginal: t -->
+i i t
 
 ### )
 
-<!-- marginal: r -->
+r
 
 ### r
 
@@ -1260,43 +1162,29 @@ A
 
 ### n
 
-r
-
-<!-- marginal: r -->
+r r
 
 ### r
 
-<!-- marginal: a -->
+a
 
 ### e
 
 ### r
 
-<!-- marginal: n -->
-
-a
-
-<!-- marginal: a -->
-
-<!-- marginal: t -->
-
-t
+n a a t t
 
 ### u
 
 ### m
 
-<!-- marginal: t -->
-
-d
-
-<!-- marginal: o -->
+t d o
 
 ### p
 
 ### f
 
-<!-- marginal: i -->
+i
 
 ### o
 
@@ -1304,21 +1192,17 @@ d
 
 ### u
 
-<!-- marginal: n -->
-
-<!-- marginal: t -->
-
-N n
+n t N n
 
 ### t
 
-<!-- marginal: n -->
+n
 
 ### i
 
 ### l
 
-<!-- marginal: i -->
+i
 
 <!-- marginal: 2 -->
 
@@ -1326,17 +1210,13 @@ N n
 
 <!-- marginal: 8 -->
 
-<!-- marginal: i -->
-
-i
+i i
 
 ### i
 
 ### h
 
-<!-- marginal: i -->
-
--
+i -
 
 ### r
 
@@ -1356,7 +1236,7 @@ e
 
 <!-- marginal: 0 -->
 
-<!-- marginal: d -->
+d
 
 ### g
 
@@ -1366,19 +1246,15 @@ t
 
 <!-- marginal: t -->
 
-. . .
-
-<!-- marginal: d -->
+. . . d
 
 ### a
 
-d 3 3 2
-
-<!-- marginal: d -->
+d 3 3 2 d
 
 ### t
 
-<!-- marginal: d -->
+d
 
 ### g
 
@@ -1390,7 +1266,7 @@ d 3 3 2
 
 <!-- marginal: a -->
 
-<!-- marginal: e -->
+e
 
 <!-- marginal: 0 -->
 
@@ -1398,29 +1274,21 @@ d 3 3 2
 
 <!-- marginal: 0 -->
 
-e d
-
-<!-- marginal: e -->
+e d e
 
 ### a
 
-<!-- marginal: a -->
-
-r
+a r
 
 <!-- marginal: r -->
 
 ### n
 
-<!-- marginal: e -->
-
-0 0 0 e
-
-<!-- marginal: e -->
+e 0 0 0 e e
 
 ### i
 
-<!-- marginal: f -->
+f
 
 ### d
 
@@ -1428,9 +1296,7 @@ O
 
 ### n
 
-f + + +
-
-<!-- marginal: f -->
+f + + + f
 
 ### i
 
@@ -1438,33 +1304,27 @@ I
 
 ### w
 
-<!-- marginal: n -->
+n
 
 ### r
 
 ### r
 
-<!-- marginal: i -->
+i
 
 ### -
 
-<!-- marginal: s -->
+s
 
 ### i
 
 ### o
 
-c R
-
-<!-- marginal: c -->
+c R c
 
 ### l
 
-i
-
-<!-- marginal: u -->
-
-<!-- marginal: i -->
+i u i
 
 ### d
 
@@ -1472,9 +1332,7 @@ i
 
 ### h
 
-<!-- marginal: e -->
-
-E
+e E
 
 ### i
 
@@ -1482,15 +1340,11 @@ s
 
 ### i
 
-<!-- marginal: s -->
-
-<!-- marginal: t -->
+s t
 
 ### e
 
-<!-- marginal: n -->
-
-p
+n p
 
 ### (
 
@@ -1498,35 +1352,23 @@ p
 
 ### T
 
-a
-
-<!-- marginal: a -->
+a a
 
 ### e
 
-<!-- marginal: a -->
-
-<!-- marginal: o -->
-
-<!-- marginal: r -->
-
-<!-- marginal: b -->
-
-B E
+a o r b B E
 
 ### F
 
-<!-- marginal: B -->
-
-v I ) T e 2
+B v I ) T E 2
 
 ### n
 
-C l
+C L
 
 ### o
 
-E n u
+E n U
 
 ### i
 
@@ -1534,15 +1376,11 @@ F
 
 ### t
 
-o d F d i
+o D F d i
 
 ### a
 
-e
-
-<!-- marginal: r -->
-
-t
+E r t
 
 <!-- marginal: s -->
 
@@ -1552,9 +1390,7 @@ e E g
 
 ### l
 
-<!-- marginal: o -->
-
-h l c
+o H l c
 
 <!-- marginal: a -->
 
@@ -1566,7 +1402,7 @@ l , g n
 
 ### a
 
-c e
+C e
 
 <!-- marginal: g -->
 
@@ -1574,23 +1410,19 @@ i
 
 <!-- marginal: a -->
 
-<!-- marginal: e -->
-
-<!-- marginal: a -->
-
-a S
+e a a S
 
 ### t
 
 <!-- marginal: e -->
 
-n t ( S
+n t (
+
+<!-- marginal: S -->
 
 <!-- marginal: c -->
 
-S i d
-
-<!-- marginal: n -->
+S i d n
 
 ### s
 
@@ -1606,17 +1438,13 @@ s (
 
 <!-- marginal: r -->
 
-d u
-
-<!-- marginal: o -->
+d u o
 
 <!-- marginal: r -->
 
 ### n
 
-<!-- marginal: o -->
-
-T
+o T
 
 <!-- marginal: e -->
 
@@ -1626,17 +1454,13 @@ n l
 
 ### i
 
-<!-- marginal: t -->
+t
 
 <!-- marginal: l -->
 
 <!-- marginal: u -->
 
-u i c A
-
-<!-- marginal: y -->
-
-l
+u i c A y l
 
 <!-- marginal: c -->
 
@@ -1646,17 +1470,11 @@ l
 
 ### y
 
-<!-- marginal: n -->
-
-c n
+n c n
 
 <!-- marginal: e -->
 
-n
-
-<!-- marginal: n -->
-
-R
+n n R
 
 <!-- marginal: s -->
 
@@ -1666,19 +1484,15 @@ i
 
 ### g
 
-<!-- marginal: o -->
+o
 
 <!-- marginal: m -->
 
-a
-
-<!-- marginal: a -->
-
-n
+a a n
 
 <!-- marginal: l -->
 
-<!-- marginal: i -->
+i
 
 <!-- marginal: e -->
 
@@ -1688,17 +1502,11 @@ i F
 
 <!-- marginal: e -->
 
-<!-- marginal: t -->
-
-d
+t d
 
 <!-- marginal: e -->
 
-g
-
-<!-- marginal: g -->
-
-<!-- marginal: i -->
+g g i
 
 ### e
 
@@ -1716,45 +1524,31 @@ I
 
 <!-- marginal: s -->
 
-n
-
-<!-- marginal: n -->
+n n
 
 <!-- marginal: t -->
 
-<!-- marginal: d -->
+d
 
 ### n
 
 <!-- marginal: f -->
 
-s a i
-
-<!-- marginal: i -->
-
-n
+s a i i n
 
 <!-- marginal: i -->
 
 <!-- marginal: a -->
 
-R t
-
-<!-- marginal: d -->
+R t d
 
 ### e
 
-a v
-
-<!-- marginal: v -->
-
-t
+a v v t
 
 <!-- marginal: s -->
 
-<!-- marginal: a -->
-
-o
+a o
 
 <!-- marginal: r -->
 
@@ -1762,11 +1556,7 @@ A
 
 <!-- marginal: w -->
 
-a
-
-<!-- marginal: a -->
-
-a
+a a a
 
 ### e
 
@@ -1784,23 +1574,13 @@ T
 
 ### l
 
-<!-- marginal: n -->
-
-h
-
-<!-- marginal: h -->
-
-t
+n h h t
 
 <!-- marginal: y -->
 
 <!-- marginal: s -->
 
-w
-
-<!-- marginal: i -->
-
-p
+w i p
 
 ### b
 
@@ -1812,17 +1592,13 @@ p
 
 ### m
 
-a N n
-
-<!-- marginal: n -->
-
-p u
+a N n n p u
 
 ### a
 
 <!-- marginal: e -->
 
-<!-- marginal: a -->
+a
 
 <!-- marginal: o -->
 
@@ -1834,13 +1610,7 @@ g
 
 ### u
 
-<!-- marginal: i -->
-
-o
-
-<!-- marginal: o -->
-
-u
+i o o u
 
 <!-- marginal: r -->
 
@@ -1850,13 +1620,7 @@ u
 
 ### l
 
-i
-
-<!-- marginal: i -->
-
-d
-
-<!-- marginal: r -->
+i i d r
 
 ### w
 
@@ -1864,9 +1628,7 @@ e
 
 <!-- marginal: u -->
 
-t
-
-<!-- marginal: t -->
+t t
 
 <!-- marginal: e -->
 
@@ -1876,7 +1638,7 @@ d
 
 ### o
 
-<!-- marginal: e -->
+e
 
 ### e
 
@@ -1884,11 +1646,7 @@ d n
 
 <!-- marginal: t -->
 
-% a
-
-<!-- marginal: a -->
-
-<!-- marginal: t -->
+% a a t
 
 <!-- marginal: g -->
 
@@ -1898,13 +1656,7 @@ E m a
 
 <!-- marginal: c -->
 
-l
-
-<!-- marginal: l -->
-
-n
-
-<!-- marginal: i -->
+l l n i
 
 ### n
 
@@ -1914,15 +1666,11 @@ n
 
 <!-- marginal: a -->
 
-l
-
-<!-- marginal: l -->
+l l
 
 <!-- marginal: h -->
 
-E
-
-<!-- marginal: r -->
+E r
 
 <!-- marginal: a -->
 
@@ -1932,17 +1680,13 @@ a ,
 
 <!-- marginal: 4 -->
 
-4 a
-
-<!-- marginal: a -->
+4 a a
 
 <!-- marginal: c -->
 
 <!-- marginal: f -->
 
-<!-- marginal: c -->
-
-F s
+c F s
 
 ### r
 
@@ -1952,11 +1696,7 @@ F s
 
 ### d
 
-t
-
-<!-- marginal: t -->
-
-t
+t t t
 
 <!-- marginal: e -->
 
@@ -1964,9 +1704,7 @@ t
 
 <!-- marginal: u -->
 
-s g s
-
-<!-- marginal: s -->
+s g s s
 
 <!-- marginal: e -->
 
@@ -1976,7 +1714,7 @@ s g s
 
 ### n
 
-<!-- marginal: g -->
+g
 
 <!-- marginal: y -->
 
@@ -1990,15 +1728,11 @@ t
 
 <!-- marginal: s -->
 
-S a n n
-
-<!-- marginal: n -->
-
-t
+S a n n n t
 
 ### o
 
-<!-- marginal: n -->
+n
 
 <!-- marginal: g -->
 
@@ -2006,9 +1740,7 @@ i
 
 <!-- marginal: e -->
 
-i
-
-<!-- marginal: i -->
+i i
 
 <!-- marginal: a -->
 
@@ -2016,11 +1748,7 @@ i
 
 <!-- marginal: o -->
 
-a
-
-<!-- marginal: i -->
-
-E
+a i E
 
 <!-- marginal: r -->
 
@@ -2044,9 +1772,7 @@ d
 
 ### e
 
-C y
-
-<!-- marginal: y -->
+C y y
 
 <!-- marginal: i -->
 
@@ -2054,11 +1780,7 @@ C y
 
 ### y
 
-a w
-
-<!-- marginal: w -->
-
-u
+a w w u
 
 <!-- marginal: a -->
 
@@ -2070,11 +1792,7 @@ s s
 
 <!-- marginal: l -->
 
-g
-
-<!-- marginal: g -->
-
-l
+g g l
 
 <!-- marginal: g -->
 
@@ -2082,11 +1800,7 @@ R
 
 ### S
 
-a g
-
-<!-- marginal: o -->
-
-t t
+a g o t t
 
 ### i
 
@@ -2094,15 +1808,11 @@ t t
 
 <!-- marginal: y -->
 
-r
-
-<!-- marginal: r -->
+r r
 
 <!-- marginal: f -->
 
-<!-- marginal: l -->
-
-c t t
+l c t t
 
 <!-- marginal: n -->
 
@@ -2114,13 +1824,7 @@ e
 
 <!-- marginal: l -->
 
-g U
-
-<!-- marginal: l -->
-
-e
-
-<!-- marginal: e -->
+g U l e e
 
 <!-- marginal: fi -->
 
@@ -2136,15 +1840,7 @@ a a n
 
 ### a
 
-e
-
-<!-- marginal: o -->
-
-i O n
-
-<!-- marginal: n -->
-
-m
+e o i O n n m
 
 <!-- marginal: a -->
 
@@ -2154,15 +1850,13 @@ m
 
 ### u
 
-<!-- marginal: f -->
+f
 
 <!-- marginal: s -->
 
 <!-- marginal: y -->
 
-w w S e
-
-<!-- marginal: e -->
+w w S e e
 
 <!-- marginal: c -->
 
@@ -2184,19 +1878,13 @@ d :
 
 <!-- marginal: t -->
 
-E
-
-<!-- marginal: e -->
+E e
 
 <!-- marginal: o -->
 
 <!-- marginal: a -->
 
-f e
-
-<!-- marginal: e -->
-
-n
+f e e n
 
 <!-- marginal: g -->
 
@@ -2210,13 +1898,7 @@ n
 
 ### f
 
-l
-
-<!-- marginal: l -->
-
-<!-- marginal: h -->
-
-R o
+l l h R o
 
 <!-- marginal: e -->
 
@@ -2224,9 +1906,7 @@ a
 
 <!-- marginal: e -->
 
-<!-- marginal: t -->
-
-e e
+t e e
 
 <!-- marginal: f -->
 
@@ -2236,19 +1916,13 @@ e e
 
 ### o
 
-b
-
-<!-- marginal: b -->
-
-e e
+b b e e
 
 <!-- marginal: i -->
 
 <!-- marginal: n -->
 
-y
-
-<!-- marginal: f -->
+y f
 
 <!-- marginal: i -->
 
@@ -2260,11 +1934,7 @@ E
 
 <!-- marginal: o -->
 
-a
-
-<!-- marginal: a -->
-
-o
+a a o
 
 <!-- marginal: c -->
 
@@ -2272,9 +1942,7 @@ v v m m t t
 
 ### n
 
-:
-
-<!-- marginal: o -->
+: o
 
 <!-- marginal: g -->
 
@@ -2288,11 +1956,7 @@ L i o o
 
 <!-- marginal: e -->
 
-w
-
-<!-- marginal: w -->
-
-<!-- marginal: e -->
+w w e
 
 ### o
 
@@ -2312,15 +1976,7 @@ B p
 
 ### i
 
-b b e
-
-<!-- marginal: e -->
-
-<!-- marginal: e -->
-
-<!-- marginal: v -->
-
-a 1 3
+b b e e e v a 1 3
 
 <!-- marginal: e -->
 
@@ -2328,9 +1984,7 @@ a 1 3
 
 ### t
 
-<!-- marginal: r -->
-
-u a a
+r u a a
 
 <!-- marginal: u -->
 
@@ -2338,31 +1992,15 @@ u a a
 
 <!-- marginal: u -->
 
-A n
-
-<!-- marginal: n -->
-
-<!-- marginal: o -->
-
-p
-
-<!-- marginal: o -->
+A n n o p o
 
 ### p
 
-e
-
-<!-- marginal: e -->
-
-) )
+e e ) )
 
 ### i
 
-a
-
-<!-- marginal: b -->
-
-) ) W i
+a b ) ) W i
 
 <!-- marginal: i -->
 
@@ -2372,15 +2010,7 @@ a
 
 ### r
 
-R c
-
-<!-- marginal: R -->
-
-<!-- marginal: m -->
-
-<!-- marginal: a -->
-
-i
+R c R m a i
 
 <!-- marginal: i -->
 
@@ -2406,9 +2036,7 @@ i
 
 ### e
 
-E ) ) R a
-
-<!-- marginal: b -->
+E ) ) R a b
 
 ### D
 
@@ -2484,87 +2112,79 @@ B
 
 <!-- page 44 -->
 
-### n
+<!-- marginal: n -->
 
-### n
+<!-- marginal: n -->
 
-### m
+<!-- marginal: m -->
 
-### l
+<!-- marginal: l -->
 
-### o
+<!-- marginal: o -->
 
-### u
+<!-- marginal: u -->
 
-### i
+<!-- marginal: i -->
 
-### a
+<!-- marginal: a -->
 
-### l
+<!-- marginal: l -->
 
-### s
+<!-- marginal: s -->
 
-### e
+<!-- marginal: e -->
 
 % % % % % % %
 
-### u
+<!-- marginal: u -->
 
-### o
+<!-- marginal: o -->
 
-### s
+<!-- marginal: s -->
 
-### t
+<!-- marginal: t -->
 
-### n
+<!-- marginal: n -->
 
-### e
+<!-- marginal: e -->
 
-5 5 5 5
-
-<!-- marginal: 5 -->
-
-<!-- marginal: 5 -->
+5 5 5 5 5 5
 
 <!-- marginal: 8 -->
 
-### a
+<!-- marginal: a -->
 
-### C
+<!-- marginal: C -->
 
 . . . . . . .
 
-### r
+<!-- marginal: r -->
 
-### r
+<!-- marginal: r -->
 
-### n
+<!-- marginal: n -->
 
-0 0 0 0
-
-<!-- marginal: 0 -->
-
-<!-- marginal: 0 -->
+0 0 0 0 0 0
 
 <!-- marginal: 1 -->
 
-### g
+<!-- marginal: g -->
 
-### h
+<!-- marginal: h -->
 
-### A
+<!-- marginal: A -->
 
-### t
+<!-- marginal: t -->
 
-### e
+<!-- marginal: e -->
 
-### f
+<!-- marginal: f -->
 
-### d
+<!-- marginal: d -->
 
-### i
+<!-- marginal: i -->
 
-### F
+<!-- marginal: F -->
 
 ### )
 
@@ -2572,199 +2192,171 @@ B
 
 ### t
 
-### m
+<!-- marginal: m -->
 
-### f
-
-### a
-
-### d
-
-### f
-
-### n
-
-### o
-
-### i
-
-### d
-
-### o
-
-### r
-
-### r
-
-### i
-
-### m
-
-### f
-
-### t
-
-### r
+<!-- marginal: f -->
 
 ### a
 
-### u
+<!-- marginal: d -->
 
-s s s s
+<!-- marginal: f -->
 
-<!-- marginal: s -->
+<!-- marginal: n -->
 
-<!-- marginal: s -->
+<!-- marginal: o -->
 
-<!-- marginal: s -->
+<!-- marginal: i -->
+
+### d
+
+<!-- marginal: o -->
+
+<!-- marginal: r -->
+
+<!-- marginal: r -->
+
+<!-- marginal: i -->
+
+<!-- marginal: m -->
+
+<!-- marginal: f -->
 
 ### t
 
-### n
-
-### g
-
-### e
-
-### l
-
-r r r r
-
 <!-- marginal: r -->
-
-<!-- marginal: r -->
-
-<!-- marginal: r -->
-
-### e
-
-### n
-
-### p
-
-### o
-
-a a a a
 
 <!-- marginal: a -->
 
-<!-- marginal: a -->
+<!-- marginal: u -->
 
-<!-- marginal: a -->
+s s s s s s
+
+<!-- marginal: s -->
+
+<!-- marginal: t -->
 
 ### n
 
-### i
-
-### i
-
-e e e e
+<!-- marginal: g -->
 
 <!-- marginal: e -->
 
-<!-- marginal: e -->
+<!-- marginal: l -->
+
+r r r r r r
+
+<!-- marginal: r -->
+
+### e
+
+<!-- marginal: n -->
+
+<!-- marginal: p -->
+
+<!-- marginal: o -->
+
+a a a a a a
+
+<!-- marginal: a -->
+
+<!-- marginal: n -->
+
+<!-- marginal: i -->
+
+<!-- marginal: i -->
+
+e e e e e e
 
 <!-- marginal: e -->
 
 ### m
 
-### e
+<!-- marginal: e -->
 
-### c
+<!-- marginal: c -->
 
-### C
+<!-- marginal: C -->
 
 ### -
 
-y y y y
-
-<!-- marginal: y -->
-
-<!-- marginal: y -->
+y y y y y y
 
 <!-- marginal: y -->
 
 ### e
 
-### v
+<!-- marginal: v -->
+
+<!-- marginal: n -->
+
+<!-- marginal: d -->
+
+<!-- marginal: i -->
+
+<!-- marginal: h -->
+
+### c
+
+<!-- marginal: e -->
+
+<!-- marginal: e -->
+
+6 6 6 6 6 6
+
+<!-- marginal: 6 -->
+
+<!-- marginal: t -->
+
+<!-- marginal: t -->
 
 ### n
 
-### d
+<!-- marginal: e -->
 
-### i
+<!-- marginal: c -->
 
-### h
-
-### c
-
-### e
-
-### e
-
-6 6 6 6
-
-<!-- marginal: 6 -->
-
-<!-- marginal: 6 -->
-
-<!-- marginal: 6 -->
-
-### t
-
-### t
-
-### n
-
-### e
-
-### c
-
-1 1 1 1
+1 1 1 1 1 1
 
 <!-- marginal: 1 -->
 
-<!-- marginal: 1 -->
+<!-- marginal: r -->
 
-<!-- marginal: 1 -->
+<!-- marginal: f -->
 
-### r
-
-### f
-
-### m
+<!-- marginal: m -->
 
 ### e
 
-### e
+<!-- marginal: e -->
 
-### u
+<!-- marginal: u -->
 
-### f
+<!-- marginal: f -->
 
-### e
+<!-- marginal: e -->
 
-### f
+<!-- marginal: f -->
 
-### o
+<!-- marginal: o -->
 
-### m
-
-### m
-
-### h
-
-### o
-
-### F
-
-### E
-
-### t
+<!-- marginal: m -->
 
 ### m
 
-### c
+<!-- marginal: h -->
+
+<!-- marginal: o -->
+
+<!-- marginal: F -->
+
+<!-- marginal: E -->
+
+<!-- marginal: t -->
+
+### m
+
+<!-- marginal: c -->
 
 ### (
 
@@ -2774,11 +2366,11 @@ y y y y
 
 f f f
 
-### e
+<!-- marginal: e -->
 
 f f f o i
 
-### t
+<!-- marginal: t -->
 
 i i t
 
@@ -2786,11 +2378,11 @@ i i t
 
 r
 
-### r
+<!-- marginal: r -->
 
-### a
+<!-- marginal: a -->
 
-### n
+<!-- marginal: n -->
 
 r r
 
@@ -2798,79 +2390,71 @@ r r
 
 a
 
-### e
+<!-- marginal: e -->
 
-### r
+<!-- marginal: r -->
 
 n a a t t
 
 ### u
 
-### m
+<!-- marginal: m -->
 
 t o
 
-### p
+<!-- marginal: p -->
 
-### f
+<!-- marginal: f -->
 
 i
 
 ### o
 
-### f
+<!-- marginal: f -->
 
-### u
+<!-- marginal: u -->
 
 n t n
 
-### t
+<!-- marginal: t -->
 
 n
 
-### i
+<!-- marginal: i -->
 
-### l
+<!-- marginal: l -->
 
-i 2
-
-<!-- marginal: 1 -->
-
-<!-- marginal: 1 -->
+i 2 1 1
 
 <!-- marginal: 0 -->
 
 i i
 
-### i
+<!-- marginal: i -->
 
 ### h
 
 i -
 
-### r
+<!-- marginal: r -->
 
 - 1 9 7
 
-### o
+<!-- marginal: o -->
 
-e e - 0
-
-<!-- marginal: 0 -->
-
-<!-- marginal: 0 -->
+e e - 0 0 0
 
 <!-- marginal: 1 -->
 
 d
 
-### g
+<!-- marginal: g -->
 
 ### t
 
 t t . . . . d
 
-### a
+<!-- marginal: a -->
 
 d 3 2 2 d
 
@@ -2878,17 +2462,13 @@ d 3 2 2 d
 
 d
 
-### g
+<!-- marginal: g -->
 
-### C
+<!-- marginal: C -->
 
-### t
+<!-- marginal: t -->
 
-. . . a a e 0
-
-<!-- marginal: 0 -->
-
-<!-- marginal: 0 -->
+. . . a a e 0 0 0
 
 <!-- marginal: 0 -->
 
@@ -2898,29 +2478,29 @@ e e
 
 a r r
 
-### n
+<!-- marginal: n -->
 
 e 0 0 0 e e
 
-### i
+<!-- marginal: i -->
 
 f
 
-### d
+<!-- marginal: d -->
 
-### n
+<!-- marginal: n -->
 
 f + + + + f
 
-### i
+<!-- marginal: i -->
 
 ### w
 
 n
 
-### r
+<!-- marginal: r -->
 
-### r
+<!-- marginal: r -->
 
 i
 
@@ -2928,7 +2508,7 @@ i
 
 s
 
-### i
+<!-- marginal: i -->
 
 ### o
 
@@ -2938,11 +2518,11 @@ c c
 
 i u i
 
-### d
+<!-- marginal: d -->
 
-### n
+<!-- marginal: n -->
 
-### h
+<!-- marginal: h -->
 
 e
 
@@ -2950,11 +2530,11 @@ e
 
 s
 
-### i
+<!-- marginal: i -->
 
 s t
 
-### e
+<!-- marginal: e -->
 
 n
 
@@ -2962,1295 +2542,1225 @@ n
 
 ### k
 
-### T
+<!-- marginal: T -->
 
 a a
 
-### e
+<!-- marginal: e -->
 
 a o r b B
 
-### F
+<!-- marginal: F -->
 
 B
 
-### n
-
-<!-- marginal: s -->
-
-### o
-
-### i
-
-<!-- marginal: m -->
-
-### t
-
-d
-
-<!-- marginal: e -->
-
-### a
-
-r
-
-<!-- marginal: t -->
-
-### l
-
-e g g
-
-### l
-
-o l
-
-<!-- marginal: s -->
-
-) l n n
-
-### a
-
-<!-- marginal: y -->
-
-i i e a a
-
-<!-- marginal: e -->
-
-### t
-
-<!-- marginal: s -->
-
-t ( d d n
-
-### s
-
-<!-- marginal: c -->
-
-<!-- marginal: d -->
+<!-- marginal: n -->
 
 s
 
-<!-- marginal: r -->
+<!-- marginal: o -->
 
-u u
+<!-- marginal: i -->
 
-<!-- marginal: g -->
+m
 
-o
+<!-- marginal: t -->
 
-### n
+d e
 
-o
+<!-- marginal: a -->
+
+r t
+
+<!-- marginal: l -->
+
+e g g
+
+<!-- marginal: l -->
+
+o l s ) l n n
+
+<!-- marginal: a -->
+
+y i i e a a
 
 <!-- marginal: e -->
 
-n l l
+<!-- marginal: t -->
 
-### i
+s t ( d d n
+
+<!-- marginal: s -->
+
+<!-- marginal: c -->
+
+d s
+
+<!-- marginal: r -->
+
+u u g o
+
+<!-- marginal: n -->
+
+o e n l l
+
+<!-- marginal: i -->
 
 t
 
 <!-- marginal: u -->
 
-<!-- marginal: l -->
-
-<!-- marginal: n -->
-
-i c c y
-
-<!-- marginal: i -->
+l n i c c y i
 
 <!-- marginal: o -->
 
-<!-- marginal: b -->
+b t
 
-<!-- marginal: t -->
-
-### y
+<!-- marginal: y -->
 
 n n n n n
 
 <!-- marginal: s -->
 
-i i
-
-<!-- marginal: a -->
-
-### g
-
-o
-
-<!-- marginal: m -->
-
-a a %
-
-<!-- marginal: l -->
-
-<!-- marginal: r -->
-
-i
-
-### r
-
-<!-- marginal: e -->
-
-t
-
-<!-- marginal: 4 -->
-
-d d
-
-<!-- marginal: e -->
-
-<!-- marginal: e -->
-
-g g i
-
-### e
-
-<!-- marginal: s -->
-
-s
-
-<!-- marginal: 1 -->
-
-n n
-
-<!-- marginal: u -->
-
-<!-- marginal: n -->
-
-<!-- marginal: s -->
-
-n n t d
-
-### n
-
-<!-- marginal: f -->
-
-a a
-
-<!-- marginal: e -->
-
-i i t
-
-<!-- marginal: a -->
-
-<!-- marginal: e -->
-
-d
-
-### e
-
-a
+i i a
 
 <!-- marginal: g -->
 
-v v
+o m a a %
 
-<!-- marginal: s -->
+<!-- marginal: l -->
 
-<!-- marginal: v -->
-
-a o o
+r i
 
 <!-- marginal: r -->
 
-a a
+e t 4 d d
+
+<!-- marginal: e -->
+
+e g g i
+
+<!-- marginal: e -->
+
+s s 1 n n
+
+<!-- marginal: u -->
+
+n s n n t d
+
+<!-- marginal: n -->
+
+<!-- marginal: f -->
+
+a a e i i t a e d
+
+<!-- marginal: e -->
+
+a g v v
+
+<!-- marginal: s -->
+
+v a o o r a a
 
 <!-- marginal: a -->
 
-### e
+<!-- marginal: e -->
 
-t t y
+t t y o w o y
 
-<!-- marginal: o -->
+<!-- marginal: n -->
 
-w
+<!-- marginal: l -->
 
-<!-- marginal: o -->
-
-<!-- marginal: y -->
-
-### n
-
-### l
-
-n h h
-
-<!-- marginal: t -->
-
-a g
+n h h t a g
 
 <!-- marginal: e -->
+
+b i p p i
 
 <!-- marginal: b -->
 
-i p p
-
-<!-- marginal: i -->
-
-### b
-
 <!-- marginal: t -->
-
-<!-- marginal: d -->
-
-### m
-
-<!-- marginal: a -->
-
-g o n n u u
-
-<!-- marginal: c -->
-
-### a
-
-<!-- marginal: s -->
-
-l
-
-<!-- marginal: e -->
-
-a
-
-<!-- marginal: i -->
-
-e
-
-### u
-
-i
-
-<!-- marginal: f -->
-
-o o
-
-<!-- marginal: r -->
-
-<!-- marginal: a -->
-
-<!-- marginal: r -->
-
-o
-
-### l
-
-i i d d r
-
-### w
-
-<!-- marginal: t -->
-
-<!-- marginal: o -->
-
-<!-- marginal: u -->
-
-t t m n
-
-### o
-
-e
-
-### e
-
-<!-- marginal: w -->
-
-n n
-
-<!-- marginal: t -->
-
-<!-- marginal: c -->
-
-<!-- marginal: y -->
-
-a a t h a a
-
-<!-- marginal: y -->
-
-<!-- marginal: c -->
-
-l l
-
-<!-- marginal: e -->
-
-i
-
-### n
-
-0
-
-### C
-
-<!-- marginal: g -->
-
-<!-- marginal: d -->
-
-l l
-
-<!-- marginal: l -->
-
-c r
-
-<!-- marginal: c -->
-
-<!-- marginal: a -->
-
-, ,
-
-### e
-
-<!-- marginal: i -->
-
-1
-
-<!-- marginal: o -->
-
-a a
-
-<!-- marginal: f -->
-
-<!-- marginal: e -->
-
-e
-
-<!-- marginal: l -->
-
-c s s
-
-<!-- marginal: n -->
-
-### r
-
-<!-- marginal: l -->
-
-### d
-
-t t t t t
-
-<!-- marginal: u -->
-
-<!-- marginal: o -->
-
-<!-- marginal: e -->
-
-g s s t t
-
-<!-- marginal: o -->
-
-<!-- marginal: d -->
-
-### n
-
-g
-
-<!-- marginal: i -->
-
-### g
-
-<!-- marginal: s -->
-
-<!-- marginal: n -->
-
-n a a n n n
-
-<!-- marginal: n -->
-
-<!-- marginal: e -->
-
-### o
-
-n
-
-<!-- marginal: c -->
-
-i i i
-
-<!-- marginal: a -->
-
-### n
-
-<!-- marginal: l -->
-
-o
-
-<!-- marginal: s -->
-
-i
-
-<!-- marginal: h -->
-
-### c
-
-### i
-
-w w i
-
-<!-- marginal: fi -->
 
 d
 
-<!-- marginal: a -->
+<!-- marginal: m -->
+
+a g o n n u u c
 
 <!-- marginal: a -->
+
+<!-- marginal: s -->
+
+l e a i e
+
+<!-- marginal: u -->
+
+i f o o r
+
+<!-- marginal: a -->
+
+r o
+
+<!-- marginal: l -->
+
+i i d d r
+
+<!-- marginal: w -->
+
+t o u t t m n
+
+<!-- marginal: o -->
+
+e
+
+<!-- marginal: e -->
+
+<!-- marginal: w -->
+
+n n t c y a a t h a a y c l l e i
+
+<!-- marginal: n -->
+
+0
+
+<!-- marginal: C -->
+
+g
+
+<!-- marginal: d -->
+
+l l l c r c a , ,
+
+<!-- marginal: e -->
+
+<!-- marginal: i -->
+
+1 o a a f e e
+
+<!-- marginal: l -->
+
+c s s n
+
+<!-- marginal: r -->
+
+l
+
+<!-- marginal: d -->
+
+t t t t t u
+
+<!-- marginal: o -->
+
+e g s s t t o d
+
+<!-- marginal: n -->
+
+g i
+
+<!-- marginal: g -->
+
+<!-- marginal: s -->
+
+n n a a n n n n e
+
+<!-- marginal: o -->
+
+n c i i i a
+
+<!-- marginal: n -->
+
+<!-- marginal: l -->
+
+o s i h
 
 <!-- marginal: c -->
 
-t
+<!-- marginal: i -->
 
-### e
+w w i fi d
 
-y y
+<!-- marginal: a -->
 
-<!-- marginal: f -->
+a c t
 
-<!-- marginal: m -->
+<!-- marginal: e -->
 
-### y
+y y f m
+
+<!-- marginal: y -->
 
 a a w u
 
 <!-- marginal: p -->
 
-<!-- marginal: b -->
+b e s s
 
-<!-- marginal: e -->
+<!-- marginal: f -->
 
-s s
-
-### f
-
-a
-
-<!-- marginal: e -->
-
-g g l
+a e g g l
 
 <!-- marginal: i -->
 
-### S
+<!-- marginal: S -->
 
-g g o
+g g o t t t
 
-<!-- marginal: t -->
+<!-- marginal: i -->
 
-t t
+- y r r c l c t t
 
-### i
-
--
-
-<!-- marginal: y -->
-
-r r c l c t t
-
-### l
+<!-- marginal: l -->
 
 <!-- marginal: c -->
 
-<!-- marginal: l -->
-
-e e
-
-<!-- marginal: l -->
-
-l
+l e e l l
 
 <!-- marginal: i -->
 
-e e
+e e l l a a fi n n
 
-<!-- marginal: l -->
+<!-- marginal: a -->
 
-<!-- marginal: l -->
-
-a a fi
+m i o i a
 
 <!-- marginal: n -->
 
-n
-
-### a
-
-<!-- marginal: m -->
-
-i o i
-
-<!-- marginal: a -->
-
-<!-- marginal: n -->
-
-n n m m
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-<!-- marginal: o -->
-
-### u
-
-f
-
-<!-- marginal: r -->
-
-s w w e e
-
-<!-- marginal: i -->
-
-<!-- marginal: c -->
+n n m m a a o
 
 <!-- marginal: u -->
 
-<!-- marginal: e -->
+f r s w w e e i c
 
-d :
+<!-- marginal: u -->
 
-<!-- marginal: t -->
+e d : t e a 0 0 a a
 
-<!-- marginal: e -->
+<!-- marginal: q -->
 
-a 0 0 a a
-
-### q
-
-<!-- marginal: t -->
-
-e
-
-<!-- marginal: o -->
-
-f e e
-
-<!-- marginal: a -->
-
-n
-
-<!-- marginal: v -->
-
-g
-
-<!-- marginal: s -->
-
-<!-- marginal: l -->
+t e o f e e a n v g s l
 
 <!-- marginal: m -->
 
 1 2 g g
 
-### f
+<!-- marginal: f -->
 
-l l h o
-
-<!-- marginal: c -->
-
-a t e e
-
-<!-- marginal: o -->
-
-f
+l l h o c a t e e o f f f
 
 <!-- marginal: f -->
 
-<!-- marginal: f -->
+<!-- marginal: o -->
 
-<!-- marginal: f -->
-
-### o
-
-b b e e
-
-<!-- marginal: fi -->
-
-y f o
+b b e e fi y f o o o
 
 <!-- marginal: o -->
 
-<!-- marginal: o -->
+a a o i v v h m m t t
+
+<!-- marginal: n -->
+
+: t o s i o o e e e
+
+<!-- marginal: e -->
+
+i w w e
 
 <!-- marginal: o -->
 
-a a o
+0 0 a c p s s s
+
+<!-- marginal: s -->
 
 <!-- marginal: i -->
 
-v v
-
-<!-- marginal: h -->
-
-m m t t
-
-### n
-
-:
+b b e e e v a 2 3 w g
 
 <!-- marginal: t -->
 
-o
-
-<!-- marginal: s -->
-
-i o o e
-
-<!-- marginal: e -->
-
-<!-- marginal: e -->
-
-<!-- marginal: e -->
-
-<!-- marginal: i -->
-
-w w e
-
-### o
-
-0 0
-
-<!-- marginal: a -->
-
-c p s
-
-<!-- marginal: s -->
-
-<!-- marginal: s -->
-
-<!-- marginal: s -->
-
-### i
-
-b b e e e v a 2 3
-
-<!-- marginal: w -->
-
-<!-- marginal: g -->
-
-### t
-
-r u a a u
-
-<!-- marginal: u -->
-
-<!-- marginal: u -->
+r u a a u u u
 
 <!-- marginal: u -->
 
 n n o p o
 
-### p
+<!-- marginal: p -->
 
 e e ) ) )
 
-### i
-
-a b ) ) i
-
 <!-- marginal: i -->
 
-) ) i
+a b ) ) i i ) ) i i
 
-<!-- marginal: i -->
-
-### r
+<!-- marginal: r -->
 
 R c R m a
 
 <!-- marginal: v -->
 
-i
+i i i i i i
 
 <!-- marginal: i -->
 
-i i i
+i i ( (
 
-<!-- marginal: i -->
-
-<!-- marginal: i -->
-
-i
-
-<!-- marginal: i -->
-
-( (
-
-### c
+<!-- marginal: c -->
 
 ( ( ( ( (
 
-### s
+<!-- marginal: s -->
 
-### e
+<!-- marginal: e -->
 
 ) ) a b
 
-### D
+<!-- marginal: D -->
 
 ( (
 
-### n
+<!-- marginal: n -->
 
-### e
+<!-- marginal: e -->
 
-### l
+<!-- marginal: l -->
 
-### e
+<!-- marginal: e -->
 
-### m
+<!-- marginal: m -->
 
-### b
+<!-- marginal: b -->
 
-### c
+<!-- marginal: c -->
 
-### u
+<!-- marginal: u -->
 
-### a
+<!-- marginal: a -->
 
-### r
+<!-- marginal: r -->
 
-### l
-
-s
-
-### o
-
-### u
+<!-- marginal: l -->
 
 s
 
-### w
+<!-- marginal: o -->
+
+<!-- marginal: u -->
+
+s
+
+<!-- marginal: w -->
 
 a
 
-### o
+<!-- marginal: o -->
 
-### e
+<!-- marginal: e -->
 
-### C
+<!-- marginal: C -->
 
-### s
+<!-- marginal: s -->
 
-### n
+<!-- marginal: n -->
 
 m
 
-### t
+<!-- marginal: t -->
 
-### e
+<!-- marginal: e -->
 
-### e
+<!-- marginal: e -->
 
-### s
+<!-- marginal: s -->
 
 o
 
-### r
+<!-- marginal: r -->
 
 i
 
-### r
+<!-- marginal: r -->
 
-### R
+<!-- marginal: R -->
 
-### i
+<!-- marginal: i -->
 
 B
 
-### F
+<!-- marginal: F -->
 
 <!-- page 45 -->
 
-% % % % % % % % 0 0 0 0
+% % % % % % % % 0 0 0 0 0 0 . . . . . .
 
 <!-- marginal: 0 -->
 
 <!-- marginal: 0 -->
 
-. . . . . . 0 0 8 8 8 8
+8 8 8 8 8 8
 
-<!-- marginal: 8 -->
+<!-- marginal: s -->
 
-<!-- marginal: 8 -->
+<!-- marginal: s -->
 
 s s s s s s
 
-<!-- marginal: s -->
+<!-- marginal: r -->
 
-<!-- marginal: s -->
+<!-- marginal: r -->
 
 r r r r r r
 
-<!-- marginal: r -->
+<!-- marginal: a -->
 
-<!-- marginal: r -->
+<!-- marginal: a -->
 
 a a a a a a
 
-<!-- marginal: a -->
+<!-- marginal: e -->
 
-<!-- marginal: a -->
+<!-- marginal: e -->
 
 e e e e e e
 
-<!-- marginal: e -->
+<!-- marginal: y -->
 
-<!-- marginal: e -->
+<!-- marginal: y -->
 
 y y y y y y
 
-<!-- marginal: y -->
+<!-- marginal: 1 -->
 
-<!-- marginal: y -->
+<!-- marginal: 1 -->
 
 1 1 1 1 1 1
 
-<!-- marginal: 1 -->
+<!-- marginal: 2 -->
 
-<!-- marginal: 1 -->
+<!-- marginal: 2 -->
 
-2 2 2 2 2 2
+2 2 2 2 2 2 f f i r a t n i
+
+<!-- marginal: 4 -->
+
+<!-- marginal: 3 -->
+
+- 3 0 8 4 5 5 e
 
 <!-- marginal: 2 -->
 
 <!-- marginal: 2 -->
 
-f f i r a t n i 4 3 - 3 0 8 4
-
-<!-- marginal: 5 -->
-
-<!-- marginal: 5 -->
-
-e 2 2 t d 2 2 1 1
-
-<!-- marginal: 9 -->
-
-<!-- marginal: 8 -->
-
-. . . . . . . . a e 0 0 r 1 1 1 1
+t d 2 2 1 1 9 8 . . . . . . . . a e
 
 <!-- marginal: 0 -->
 
 <!-- marginal: 0 -->
 
-e f c i s a B g n i d d e
+r 1 1 1 1 0 0 e f c i s a B
 
 <!-- marginal: g -->
 
-u l l l
-
 <!-- marginal: n -->
-
-g g
 
 <!-- marginal: i -->
 
-c a
-
-<!-- marginal: g -->
-
-g n n t d d
+d
 
 <!-- marginal: d -->
 
-n i i
-
-<!-- marginal: n -->
-
-s i n e e
-
-<!-- marginal: i -->
+e g
 
 <!-- marginal: u -->
 
-i d d l l n
+l
 
 <!-- marginal: l -->
 
-<!-- marginal: d -->
-
-l l i d d u u
+l n g g i
 
 <!-- marginal: c -->
 
-a a l l
+a g g n n t
 
-<!-- marginal: u -->
+<!-- marginal: d -->
 
-s n u t t
+<!-- marginal: d -->
+
+d
+
+<!-- marginal: n -->
+
+i i n s
+
+<!-- marginal: i -->
+
+n
+
+<!-- marginal: e -->
+
+<!-- marginal: e -->
+
+i u i d d
 
 <!-- marginal: l -->
 
-<!-- marginal: n -->
+<!-- marginal: l -->
 
-t n c c l a
+n l d
 
-<!-- marginal: i -->
+<!-- marginal: l -->
 
-s s t
+<!-- marginal: l -->
 
-<!-- marginal: c -->
-
-a c n n a n n i i
-
-<!-- marginal: n -->
-
-o
+i
 
 <!-- marginal: d -->
 
-i i n
-
-<!-- marginal: i -->
-
-g t i w
-
-<!-- marginal: n -->
-
-d d n n n
-
-<!-- marginal: d -->
-
-a
+d u u c
 
 <!-- marginal: a -->
 
-i p d n n a a
+<!-- marginal: a -->
+
+l l u
+
+<!-- marginal: s -->
 
 <!-- marginal: n -->
 
-g v u s a a n
+u
+
+<!-- marginal: t -->
+
+<!-- marginal: t -->
+
+l n
+
+<!-- marginal: t -->
+
+n c c l
+
+<!-- marginal: a -->
+
+i
+
+<!-- marginal: s -->
+
+<!-- marginal: s -->
+
+<!-- marginal: t -->
+
+c a c n n
+
+<!-- marginal: a -->
+
+<!-- marginal: n -->
+
+<!-- marginal: n -->
+
+i i n
 
 <!-- marginal: o -->
+
+d
+
+<!-- marginal: i -->
+
+<!-- marginal: i -->
+
+n i g
+
+<!-- marginal: t -->
+
+i
+
+<!-- marginal: w -->
+
+n d d n
+
+<!-- marginal: n -->
+
+<!-- marginal: n -->
+
+d
+
+<!-- marginal: a -->
+
+a i
+
+<!-- marginal: p -->
+
+d n n
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+n
+
+<!-- marginal: g -->
+
+v
+
+<!-- marginal: u -->
+
+s a a n o t a
+
+<!-- marginal: e -->
+
+a t
+
+<!-- marginal: g -->
+
+<!-- marginal: g -->
+
+a t
+
+<!-- marginal: d -->
+
+o o h
+
+<!-- marginal: n -->
+
+<!-- marginal: n -->
+
+a t t o
+
+<!-- marginal: m -->
+
+p
+
+<!-- marginal: i -->
+
+<!-- marginal: i -->
+
+<!-- marginal: n -->
+
+o t t n
+
+<!-- marginal: a -->
+
+u
+
+<!-- marginal: v -->
+
+<!-- marginal: v -->
+
+w p p
+
+<!-- marginal: 0 -->
+
+p o
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+, o p u u
+
+<!-- marginal: 1 -->
+
+i d l
+
+<!-- marginal: s -->
+
+u
+
+<!-- marginal: h -->
+
+<!-- marginal: h -->
+
+t i u
+
+<!-- marginal: t -->
+
+n d d
+
+<!-- marginal: g -->
+
+<!-- marginal: t -->
+
+a k d a
+
+<!-- marginal: n -->
+
+<!-- marginal: n -->
+
+l d n n
+
+<!-- marginal: a -->
+
+<!-- marginal: n -->
+
+l n
+
+<!-- marginal: i -->
+
+,
+
+<!-- marginal: o -->
+
+<!-- marginal: o -->
+
+a a 4 n a
+
+<!-- marginal: i -->
+
+<!-- marginal: i -->
+
+a s
+
+<!-- marginal: w -->
+
+<!-- marginal: d -->
+
+t
+
+<!-- marginal: t -->
+
+<!-- marginal: t -->
+
+a , , t
+
+<!-- marginal: a -->
+
+, g s t
+
+<!-- marginal: u -->
+
+s s
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+, t
+
+<!-- marginal: l -->
+
+t t
+
+<!-- marginal: l -->
+
+<!-- marginal: l -->
+
+<!-- marginal: g -->
+
+a n n t s t t
+
+<!-- marginal: l -->
+
+<!-- marginal: l -->
+
+i
+
+<!-- marginal: c -->
+
+i t
+
+<!-- marginal: e -->
+
+a a a
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+t w d
+
+<!-- marginal: n -->
+
+<!-- marginal: t -->
+
+<!-- marginal: t -->
+
+y
+
+<!-- marginal: i -->
+
+a a
+
+<!-- marginal: m -->
+
+w u
+
+<!-- marginal: s -->
+
+<!-- marginal: s -->
+
+w w s s g l a g t t
+
+<!-- marginal: n -->
+
+<!-- marginal: n -->
+
+w o o
+
+<!-- marginal: d -->
+
+r
+
+<!-- marginal: 0 -->
+
+c t t
+
+<!-- marginal: i -->
+
+<!-- marginal: i -->
+
+s s l l e g t o e
+
+<!-- marginal: n -->
+
+t t i i
+
+<!-- marginal: 1 -->
+
+a a n t l e t t
+
+<!-- marginal: a -->
+
+i
+
+<!-- marginal: y -->
+
+<!-- marginal: y -->
+
+n i k k m a a a
+
+<!-- marginal: e -->
+
+w w e
+
+<!-- marginal: g -->
+
+<!-- marginal: g -->
+
+k m
+
+<!-- marginal: o -->
+
+d :
+
+<!-- marginal: v -->
+
+4 2 0
+
+<!-- marginal: r -->
+
+<!-- marginal: r -->
+
+a a w
+
+<!-- marginal: t -->
+
+w w f e n
+
+<!-- marginal: e -->
+
+<!-- marginal: e -->
+
+<!-- marginal: o -->
+
+4 2 7 1 1 a g g l o o o a
+
+<!-- marginal: p -->
+
+s
+
+<!-- marginal: n -->
+
+<!-- marginal: n -->
+
+l l e e
+
+<!-- marginal: b -->
+
+g b e e e e e t i i
+
+<!-- marginal: e -->
+
+<!-- marginal: e -->
+
+<!-- marginal: u -->
+
+<!-- marginal: a -->
+
+e y t a o v v v v v k k m m t t a
+
+<!-- marginal: f -->
+
+<!-- marginal: f -->
+
+i
+
+<!-- marginal: e -->
+
+<!-- marginal: e -->
+
+o o o o o m w
+
+<!-- marginal: l -->
+
+<!-- marginal: l -->
+
+4 2 0 0 c
+
+<!-- marginal: o -->
+
+<!-- marginal: o -->
+
+p w b b b b b e
+
+<!-- marginal: b -->
+
+<!-- marginal: b -->
+
+a 2 7 1 1 3 a u a a a a a n
+
+<!-- marginal: y -->
+
+<!-- marginal: y -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+p
+
+<!-- marginal: t -->
+
+<!-- marginal: t -->
+
+g e )
+
+<!-- marginal: i -->
+
+<!-- marginal: i -->
+
+) ) a ) )
+
+<!-- marginal: w -->
+
+<!-- marginal: w -->
+
+e i ) i i
+
+<!-- marginal: c -->
+
+<!-- marginal: c -->
+
+R c v i i v
+
+<!-- marginal: e -->
+
+<!-- marginal: e -->
+
+i i v i (
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+( ( m ( ( (
+
+<!-- marginal: n -->
+
+<!-- marginal: n -->
+
+<!-- marginal: p -->
+
+<!-- marginal: p -->
+
+<!-- marginal: e -->
+
+<!-- marginal: e -->
+
+0
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+)
+
+<!-- marginal: R -->
+
+<!-- marginal: c -->
+
+<!-- marginal: R -->
+
+<!-- marginal: c -->
+
+3 a ( c
+
+<!-- marginal: r -->
+
+i
+
+<!-- marginal: e -->
+
+a t
+
+<!-- marginal: w -->
+
+l
+
+<!-- marginal: o -->
+
+o
+
+<!-- marginal: p -->
+
+v
+
+<!-- marginal: l -->
+
+<!-- marginal: o -->
+
+<!-- marginal: l -->
+
+r o
+
+<!-- marginal: r -->
 
 t
 
 <!-- marginal: a -->
 
-e a
-
-<!-- marginal: t -->
-
-g g a t d o o h n n a t t
-
-<!-- marginal: o -->
-
-m
-
-<!-- marginal: p -->
-
-i i n o
-
-<!-- marginal: t -->
-
-t n a
-
-<!-- marginal: u -->
-
-v v w p p 0
-
-<!-- marginal: p -->
-
-o a a , o p u u 1 i
+a l
 
 <!-- marginal: d -->
 
-l s
-
-<!-- marginal: u -->
-
-h h t i u t
-
-<!-- marginal: n -->
-
-d d g t a k
-
-<!-- marginal: d -->
-
-<!-- marginal: a -->
-
-n n l d n n a n l
-
-<!-- marginal: n -->
-
-i , o o a a 4 n a i i
-
-<!-- marginal: a -->
-
-<!-- marginal: s -->
-
-w d t t t a , ,
-
-<!-- marginal: t -->
-
-a , g s
-
-<!-- marginal: t -->
-
-u s s a a ,
-
-<!-- marginal: t -->
-
-l t t l l g
-
-<!-- marginal: a -->
-
-n n
-
-<!-- marginal: t -->
-
-s t t l l i c i t e
-
-<!-- marginal: a -->
-
-a a a a t
-
-<!-- marginal: w -->
-
-d n t t y i a
-
-<!-- marginal: a -->
-
-m
-
-<!-- marginal: w -->
-
-u s s w w
-
-<!-- marginal: s -->
-
-<!-- marginal: s -->
-
-g l
-
-<!-- marginal: a -->
-
-<!-- marginal: g -->
-
-<!-- marginal: t -->
-
-<!-- marginal: t -->
-
-n n w o o d r 0 c
-
-<!-- marginal: t -->
-
-<!-- marginal: t -->
-
-i i s s l l
-
-<!-- marginal: e -->
-
-<!-- marginal: g -->
-
-t o e n t t i i 1
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-n t l
-
-<!-- marginal: e -->
-
-t t a i y y n i k k
+o
 
 <!-- marginal: m -->
 
-a a a e
+o
 
-<!-- marginal: w -->
+<!-- marginal: y -->
 
-<!-- marginal: w -->
+h
 
-e g g k
+<!-- marginal: S -->
 
-<!-- marginal: m -->
+<!-- marginal: h -->
 
-o d : v 4 2
-
-<!-- marginal: 0 -->
-
-r r
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-w t w w f e n e e o 4 2 7
-
-<!-- marginal: 1 -->
-
-<!-- marginal: 1 -->
-
-a
-
-<!-- marginal: g -->
-
-<!-- marginal: g -->
-
-l o o o a p s n n l l
-
-<!-- marginal: e -->
-
-<!-- marginal: e -->
-
-b g b e e e
-
-<!-- marginal: e -->
-
-<!-- marginal: e -->
-
-t i i e e u a e y t a o v v v
-
-<!-- marginal: v -->
-
-<!-- marginal: v -->
-
-k k
-
-<!-- marginal: m -->
-
-<!-- marginal: m -->
-
-t t a f f i e e o o o
-
-<!-- marginal: o -->
-
-<!-- marginal: o -->
-
-m w l l 4 2
-
-<!-- marginal: 0 -->
-
-<!-- marginal: 0 -->
-
-c o o p w b b b
-
-<!-- marginal: b -->
-
-<!-- marginal: b -->
-
-e b b a 2 7 1
-
-<!-- marginal: 1 -->
-
-<!-- marginal: 3 -->
-
-a u a a a
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-n y y a a p t t g e ) i i ) ) a ) ) w w e i )
-
-<!-- marginal: i -->
-
-i c c R c v i i
-
-<!-- marginal: v -->
-
-e e i i
-
-<!-- marginal: v -->
-
-i ( a a ( ( m ( ( ( n n p p e e 0 a a ) R c R c 3 a ( c r i e a t w l o o p v l o l r o r t a a l d o m o y h S h S p
+S p
 
 <!-- page 46 -->
 
 t g
 
-### n
+<!-- marginal: n -->
 
 g
 
-### n
+<!-- marginal: n -->
 
-### m
+<!-- marginal: m -->
 
 n
 
-### l
+<!-- marginal: l -->
 
-### o
+<!-- marginal: o -->
 
 i
 
-### u
+<!-- marginal: u -->
 
-### i
+<!-- marginal: i -->
 
-### a
+<!-- marginal: a -->
 
 r
 
-### l
+<!-- marginal: l -->
 
 .
 
-### s
+<!-- marginal: s -->
 
-### e
+<!-- marginal: e -->
 
 l % % % %
 
-### u
+<!-- marginal: u -->
 
-### o
+<!-- marginal: o -->
 
-### s
+<!-- marginal: s -->
 
-### t
+<!-- marginal: t -->
 
 n a i
 
-### n
+<!-- marginal: n -->
 
-### e
+<!-- marginal: e -->
 
-0 0 0 0
+<!-- marginal: 0 -->
 
-### a
+<!-- marginal: 0 -->
 
-### C
+<!-- marginal: 0 -->
+
+<!-- marginal: 0 -->
+
+<!-- marginal: a -->
+
+<!-- marginal: C -->
 
 . . . .
 
-### r
+<!-- marginal: r -->
 
-### r
+<!-- marginal: r -->
 
-### n
+<!-- marginal: n -->
 
-m e 8 8 8 8 i
+m e
 
-### g
+<!-- marginal: 8 -->
 
-### h
+<!-- marginal: 8 -->
+
+<!-- marginal: 8 -->
+
+<!-- marginal: 8 -->
+
+i
+
+<!-- marginal: g -->
+
+<!-- marginal: h -->
 
 c
 
-### A
+<!-- marginal: A -->
 
 c
 
-### t
+<!-- marginal: t -->
 
-### e
+<!-- marginal: e -->
 
 a
 
-### f
+<!-- marginal: f -->
 
 e
 
-### d
+<!-- marginal: d -->
 
 l
 
-### i
+<!-- marginal: i -->
 
 d p
 
-### F
+<!-- marginal: F -->
 
 l h a t r
 
@@ -4258,731 +3768,1469 @@ l h a t r
 
 m u
 
-### e
+<!-- marginal: e -->
 
 i
 
-### t
+<!-- marginal: t -->
 
 o c
 
-### m
+<!-- marginal: m -->
 
-### f
+<!-- marginal: f -->
 
 f
 
-### a
+<!-- marginal: a -->
 
-### d
+<!-- marginal: d -->
 
-### f
+<!-- marginal: f -->
 
-### n
+<!-- marginal: n -->
 
 e
 
-### o
+<!-- marginal: o -->
 
-### i
+<!-- marginal: i -->
 
-### d
+<!-- marginal: d -->
 
-### o
+<!-- marginal: o -->
 
-### r
+<!-- marginal: r -->
 
 d e
 
-### r
+<!-- marginal: r -->
 
-### i
+<!-- marginal: i -->
 
-### m
+<!-- marginal: m -->
 
-### f
+<!-- marginal: f -->
 
-### t
+<!-- marginal: t -->
 
-### r
-
-h
-
-### a
+<!-- marginal: r -->
 
 h
 
-### u
+<!-- marginal: a -->
 
-t s s s s
+h
 
-### t
-
-### n
-
-### g
-
-### e
+<!-- marginal: u -->
 
 t
 
-### l
+<!-- marginal: s -->
 
-r r r r
+<!-- marginal: s -->
 
-### e
+<!-- marginal: s -->
+
+<!-- marginal: s -->
+
+<!-- marginal: t -->
+
+<!-- marginal: n -->
+
+<!-- marginal: g -->
+
+<!-- marginal: e -->
+
+t
+
+<!-- marginal: l -->
+
+<!-- marginal: r -->
+
+<!-- marginal: r -->
+
+<!-- marginal: r -->
+
+<!-- marginal: r -->
+
+<!-- marginal: e -->
 
 r
 
-### n
+<!-- marginal: n -->
 
-### p
+<!-- marginal: p -->
 
-### o
-
-f a a a a
-
-### n
-
-### i
-
-u
-
-### i
-
-e e e e o
-
-### m
-
-### e
-
-### c
-
-### C
-
-### -
-
-o y y y y
-
-### e
-
-### v
+<!-- marginal: o -->
 
 f
 
-### n
+<!-- marginal: a -->
 
-### d
+<!-- marginal: a -->
 
-### i
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: n -->
+
+<!-- marginal: i -->
+
+u
+
+<!-- marginal: i -->
+
+<!-- marginal: e -->
+
+<!-- marginal: e -->
+
+<!-- marginal: e -->
+
+<!-- marginal: e -->
+
+o
+
+<!-- marginal: m -->
+
+<!-- marginal: e -->
+
+<!-- marginal: c -->
+
+<!-- marginal: C -->
+
+### -
+
+o
+
+<!-- marginal: y -->
+
+<!-- marginal: y -->
+
+<!-- marginal: y -->
+
+<!-- marginal: y -->
+
+<!-- marginal: e -->
+
+<!-- marginal: v -->
+
+f
+
+<!-- marginal: n -->
+
+<!-- marginal: d -->
+
+<!-- marginal: i -->
 
 p
 
-### h
+<!-- marginal: h -->
 
-### c
+<!-- marginal: c -->
 
-### e
+<!-- marginal: e -->
 
-### e
+<!-- marginal: e -->
 
-1 1 1 1
+<!-- marginal: 1 -->
 
-### t
+<!-- marginal: 1 -->
 
-### t
+<!-- marginal: 1 -->
+
+<!-- marginal: 1 -->
+
+<!-- marginal: t -->
+
+<!-- marginal: t -->
 
 e u
 
-### n
+<!-- marginal: n -->
 
-### e
+<!-- marginal: e -->
 
-### c
+<!-- marginal: c -->
 
-2 2 2 2
+<!-- marginal: 2 -->
 
-### r
+<!-- marginal: 2 -->
+
+<!-- marginal: 2 -->
+
+<!-- marginal: 2 -->
+
+<!-- marginal: r -->
 
 h
 
-### f
+<!-- marginal: f -->
 
-### m
+<!-- marginal: m -->
 
-### e
+<!-- marginal: e -->
 
-### e
+<!-- marginal: e -->
 
 t
 
-### u
+<!-- marginal: u -->
 
 g
 
-### f
+<!-- marginal: f -->
 
-### e
+<!-- marginal: e -->
 
-### f
+<!-- marginal: f -->
 
-### o
+<!-- marginal: o -->
 
-### m
+<!-- marginal: m -->
 
-### m
+<!-- marginal: m -->
 
 n o
 
-### h
+<!-- marginal: h -->
 
 i
 
-### o
+<!-- marginal: o -->
 
 t
 
-### F
+<!-- marginal: F -->
 
-### E
+<!-- marginal: E -->
 
-### t
+<!-- marginal: t -->
 
-### m
+<!-- marginal: m -->
 
 d
 
-### c
+<!-- marginal: c -->
 
 ### (
 
 d
 
-### o
+<!-- marginal: o -->
 
 n
 
-### c
+<!-- marginal: c -->
 
-e u d o n r f u f
+e u d o n r
 
-### e
-
-f f o a i
-
-### t
-
-o i t
-
-### )
-
-r r
-
-### r
-
-### a
-
-### n
-
-r
-
-### r
-
-n a
-
-### e
-
-### r
-
-n a t i e
-
-### u
-
-### m
-
-t o
-
-### p
-
-### f
-
-i b
-
-### o
-
-### f
-
-t
-
-### u
-
-n t
-
-### t
-
-n
-
-### i
-
-### l
-
-l i 6 5 3 1 i l
-
-### i
-
-### h
-
-i -
-
-### r
-
-l
-
-### o
-
-e u - 2 2 0 0 d
-
-### g
-
-### t
-
-t . . . . d
-
-### a
-
-a s d
-
-### t
-
-d
-
-### g
-
-### C
-
-### t
-
-a e 0 0 0 0 e h e
-
-### a
-
-a r
-
-### n
-
-e r s e
-
-### i
-
-f
-
-### d
-
-### n
-
-+ + + + f
-
-### i
-
-### w
-
-n
-
-### r
-
-### r
-
-l e i
-
-### -
-
-s
-
-### i
-
-l
-
-### o
-
-l c
-
-### l
-
-u i
-
-### d
-
-a
-
-### n
-
-### h
-
-e
-
-### i
+<!-- marginal: f -->
 
 u
 
-### i
+<!-- marginal: f -->
 
-s t
+<!-- marginal: e -->
 
-### e
+<!-- marginal: f -->
 
-n h
+<!-- marginal: f -->
+
+<!-- marginal: o -->
+
+a
+
+<!-- marginal: i -->
+
+<!-- marginal: t -->
+
+o
+
+<!-- marginal: i -->
+
+<!-- marginal: t -->
+
+### )
+
+<!-- marginal: r -->
+
+r
+
+<!-- marginal: r -->
+
+<!-- marginal: a -->
+
+<!-- marginal: n -->
+
+<!-- marginal: r -->
+
+<!-- marginal: r -->
+
+n
+
+<!-- marginal: a -->
+
+<!-- marginal: e -->
+
+<!-- marginal: r -->
+
+<!-- marginal: n -->
+
+<!-- marginal: a -->
+
+<!-- marginal: t -->
+
+i e
+
+<!-- marginal: u -->
+
+<!-- marginal: m -->
+
+<!-- marginal: t -->
+
+<!-- marginal: o -->
+
+<!-- marginal: p -->
+
+<!-- marginal: f -->
+
+<!-- marginal: i -->
+
+b
+
+<!-- marginal: o -->
+
+<!-- marginal: f -->
+
+t
+
+<!-- marginal: u -->
+
+<!-- marginal: n -->
+
+<!-- marginal: t -->
+
+<!-- marginal: t -->
+
+<!-- marginal: n -->
+
+<!-- marginal: i -->
+
+<!-- marginal: l -->
+
+l
+
+<!-- marginal: i -->
+
+<!-- marginal: 6 -->
+
+<!-- marginal: 5 -->
+
+<!-- marginal: 3 -->
+
+<!-- marginal: 1 -->
+
+<!-- marginal: i -->
+
+l
+
+<!-- marginal: i -->
+
+<!-- marginal: h -->
+
+<!-- marginal: i -->
+
+-
+
+<!-- marginal: r -->
+
+l
+
+<!-- marginal: o -->
+
+<!-- marginal: e -->
+
+u -
+
+<!-- marginal: 2 -->
+
+<!-- marginal: 2 -->
+
+<!-- marginal: 0 -->
+
+<!-- marginal: 0 -->
+
+<!-- marginal: d -->
+
+<!-- marginal: g -->
+
+<!-- marginal: t -->
+
+<!-- marginal: t -->
+
+. . . .
+
+<!-- marginal: d -->
+
+<!-- marginal: a -->
+
+a s
+
+<!-- marginal: d -->
+
+<!-- marginal: t -->
+
+<!-- marginal: d -->
+
+<!-- marginal: g -->
+
+<!-- marginal: C -->
+
+<!-- marginal: t -->
+
+<!-- marginal: a -->
+
+<!-- marginal: e -->
+
+<!-- marginal: 0 -->
+
+<!-- marginal: 0 -->
+
+<!-- marginal: 0 -->
+
+<!-- marginal: 0 -->
+
+e h
+
+<!-- marginal: e -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: r -->
+
+<!-- marginal: n -->
+
+<!-- marginal: e -->
+
+r s
+
+<!-- marginal: e -->
+
+<!-- marginal: i -->
+
+<!-- marginal: f -->
+
+<!-- marginal: d -->
+
+<!-- marginal: n -->
+
++ + + +
+
+<!-- marginal: f -->
+
+<!-- marginal: i -->
+
+<!-- marginal: w -->
+
+<!-- marginal: n -->
+
+<!-- marginal: r -->
+
+<!-- marginal: r -->
+
+l e
+
+<!-- marginal: i -->
+
+### -
+
+<!-- marginal: s -->
+
+<!-- marginal: i -->
+
+l
+
+<!-- marginal: o -->
+
+l
+
+<!-- marginal: c -->
+
+<!-- marginal: l -->
+
+<!-- marginal: u -->
+
+<!-- marginal: i -->
+
+<!-- marginal: d -->
+
+a
+
+<!-- marginal: n -->
+
+<!-- marginal: h -->
+
+<!-- marginal: e -->
+
+<!-- marginal: i -->
+
+u
+
+<!-- marginal: i -->
+
+<!-- marginal: s -->
+
+<!-- marginal: t -->
+
+<!-- marginal: e -->
+
+<!-- marginal: n -->
+
+h
 
 ### (
 
 d
 
-### k
+<!-- marginal: k -->
 
-### T
+<!-- marginal: T -->
 
-a
+<!-- marginal: a -->
 
-### e
+<!-- marginal: e -->
 
-a o s e r b
+<!-- marginal: a -->
 
-### F
+<!-- marginal: o -->
 
-B h e c c S a l
+s e
 
-### n
+<!-- marginal: r -->
+
+<!-- marginal: b -->
+
+<!-- marginal: F -->
+
+<!-- marginal: B -->
+
+h e c c S a l
+
+<!-- marginal: n -->
 
 s p i
 
-### o
+<!-- marginal: o -->
 
-### i
+<!-- marginal: i -->
 
 h l
 
-### t
+<!-- marginal: t -->
 
-r r t a
+<!-- marginal: r -->
 
-### a
+<!-- marginal: r -->
 
-a a r
+t a
 
-### l
+<!-- marginal: a -->
 
-r l l
+<!-- marginal: a -->
 
-### l
+<!-- marginal: a -->
 
-o m e ) o o i
+<!-- marginal: r -->
 
-### a
-
-s s e a d
-
-### t
-
-g c ( n
-
-### s
-
-n e n d d i o u
-
-### n
-
-o e e d
-
-### i
-
-t l l d l y s b b i h
-
-### y
-
-n e n t u t
-
-### g
-
-o m m a f i b a
-
-### r
-
-i e e t r f g i
-
-### e
-
-s s r s s n d f
-
-### n
-
-o i e a a f d
-
-### e
-
-i s v h a r r r t a
-
-### e
-
-g o o
-
-### n
-
-### l
-
-a n h n t i i
-
-### b
-
-n d d
-
-### m
-
-i n d
-
-### a
-
-n e e a l
-
-### u
-
-i i o r r i
-
-### l
-
-i e r -
-
-### w
-
-s u u t u l r
-
-### o
-
-e
-
-### e
-
-t t d a t a b o c c l i e
-
-### n
-
-i
-
-### C
-
-s l r r a a
-
-### e
-
-e n e m a f f c i e f
-
-### r
-
-l
-
-### d
-
-t t u u s u l r s
-
-### n
-
-g a
-
-### g
-
-n n n a d o n
-
-### o
-
-n i a a
-
-### n
-
-i m n o
-
-### c
-
-### i
-
-o i i e
-
-### e
-
-y m m
-
-### y
-
-t w f g m
-
-### f
-
-v g
-
-### S
-
-a o
-
-### i
-
-n i y y r l e l
-
-### l
-
-i c l l f l l e i l l h
-
-### a
-
-d a o a t l n a a t f t
-
-### u
-
-i f s e s c c l o s e u d
-
-### q
-
-e n o o o r r e i b l l n
-
-### f
-
-l e h e v u t t a t f f r
-
-### o
-
-s s b o r c t f a a o o a u s e
-
-### n
-
-: u o o g n v e e e e w r e
-
-### o
-
-i h t s s s s
-
-### i
-
-n o e e f v s p i i
-
-### t
-
-r u u u u n t o o
-
-### p
-
-a e a ) )
-
-### i
-
-b ) i ) l i
-
-### r
-
-R m a v i i i d i u i (
-
-### c
-
-( ( ( c n
-
-### s
-
-l a
-
-### e
-
-) a b
-
-### D
-
-r c ( u e o t a
-
-### n
-
-h
-
-### e
-
-i
-
-### l
-
-t
-
-### e
-
-d
-
-### m
-
-t
-
-### b
-
-### c
-
-e
-
-### u
-
-a
-
-### a
-
-### r
-
-### l
-
-m
-
-### o
-
-### u
-
-w
-
-### w
+<!-- marginal: l -->
 
 r
 
-### o
+<!-- marginal: l -->
 
-### e
+<!-- marginal: l -->
 
-o e
+<!-- marginal: l -->
 
-### C
+<!-- marginal: o -->
 
-l
+m e )
 
-### s
+<!-- marginal: o -->
+
+<!-- marginal: o -->
+
+i
+
+<!-- marginal: a -->
+
+<!-- marginal: s -->
+
+<!-- marginal: s -->
+
+<!-- marginal: e -->
+
+<!-- marginal: a -->
+
+d
+
+<!-- marginal: t -->
+
+<!-- marginal: g -->
+
+c (
+
+<!-- marginal: n -->
+
+<!-- marginal: s -->
+
+n e
+
+<!-- marginal: n -->
+
+<!-- marginal: d -->
+
+<!-- marginal: d -->
+
+<!-- marginal: i -->
+
+<!-- marginal: o -->
+
+u
+
+<!-- marginal: n -->
+
+<!-- marginal: o -->
+
+<!-- marginal: e -->
+
+<!-- marginal: e -->
+
+d
+
+<!-- marginal: i -->
+
+<!-- marginal: t -->
+
+<!-- marginal: l -->
+
+<!-- marginal: l -->
+
+<!-- marginal: d -->
+
+<!-- marginal: l -->
+
+<!-- marginal: y -->
+
+s
+
+<!-- marginal: b -->
+
+<!-- marginal: b -->
+
+<!-- marginal: i -->
+
+h
+
+<!-- marginal: y -->
+
+<!-- marginal: n -->
+
+e
+
+<!-- marginal: n -->
 
 t
 
-### n
+<!-- marginal: u -->
+
+t
+
+<!-- marginal: g -->
+
+<!-- marginal: o -->
+
+<!-- marginal: m -->
+
+<!-- marginal: m -->
+
+<!-- marginal: a -->
+
+f
+
+<!-- marginal: i -->
+
+<!-- marginal: b -->
+
+a
+
+<!-- marginal: r -->
 
 i
 
-### t
+<!-- marginal: e -->
 
-### e
+<!-- marginal: e -->
+
+<!-- marginal: t -->
+
+r f
+
+<!-- marginal: g -->
+
+<!-- marginal: i -->
+
+<!-- marginal: e -->
+
+<!-- marginal: s -->
+
+<!-- marginal: s -->
+
+<!-- marginal: r -->
+
+<!-- marginal: s -->
+
+<!-- marginal: s -->
+
+<!-- marginal: n -->
+
+<!-- marginal: d -->
+
+f
+
+<!-- marginal: n -->
+
+<!-- marginal: o -->
+
+<!-- marginal: i -->
+
+e
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+f
+
+<!-- marginal: d -->
+
+<!-- marginal: e -->
+
+i
+
+<!-- marginal: s -->
+
+<!-- marginal: v -->
+
+h
+
+<!-- marginal: a -->
+
+<!-- marginal: r -->
+
+<!-- marginal: r -->
+
+r t
+
+<!-- marginal: a -->
+
+<!-- marginal: e -->
+
+<!-- marginal: g -->
+
+<!-- marginal: o -->
+
+<!-- marginal: o -->
+
+<!-- marginal: n -->
+
+<!-- marginal: l -->
+
+a
+
+<!-- marginal: n -->
+
+<!-- marginal: h -->
+
+<!-- marginal: n -->
+
+t
+
+<!-- marginal: i -->
+
+<!-- marginal: i -->
+
+<!-- marginal: b -->
 
 n
 
-### e
+<!-- marginal: d -->
 
-### s
+<!-- marginal: d -->
 
-k
-
-### r
+<!-- marginal: m -->
 
 i
 
-### r
+<!-- marginal: n -->
 
-### R
+<!-- marginal: d -->
 
-### i
+<!-- marginal: a -->
+
+n
+
+<!-- marginal: e -->
+
+<!-- marginal: e -->
+
+<!-- marginal: a -->
+
+<!-- marginal: l -->
+
+<!-- marginal: u -->
+
+i
+
+<!-- marginal: i -->
+
+<!-- marginal: o -->
+
+<!-- marginal: r -->
+
+<!-- marginal: r -->
+
+<!-- marginal: i -->
+
+<!-- marginal: l -->
+
+<!-- marginal: i -->
+
+e
+
+<!-- marginal: r -->
+
+-
+
+<!-- marginal: w -->
+
+<!-- marginal: s -->
+
+<!-- marginal: u -->
+
+<!-- marginal: u -->
+
+<!-- marginal: t -->
+
+<!-- marginal: u -->
+
+<!-- marginal: l -->
+
+r
+
+<!-- marginal: o -->
+
+<!-- marginal: e -->
+
+<!-- marginal: e -->
+
+<!-- marginal: t -->
+
+<!-- marginal: t -->
+
+d
+
+<!-- marginal: a -->
+
+<!-- marginal: t -->
+
+<!-- marginal: a -->
+
+<!-- marginal: b -->
+
+o
+
+<!-- marginal: c -->
+
+<!-- marginal: c -->
+
+<!-- marginal: l -->
+
+<!-- marginal: i -->
+
+e
+
+<!-- marginal: n -->
+
+<!-- marginal: i -->
+
+<!-- marginal: C -->
+
+<!-- marginal: s -->
+
+<!-- marginal: l -->
+
+<!-- marginal: r -->
+
+<!-- marginal: r -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: e -->
+
+e
+
+<!-- marginal: n -->
+
+<!-- marginal: e -->
+
+m
+
+<!-- marginal: a -->
+
+<!-- marginal: f -->
+
+<!-- marginal: f -->
+
+<!-- marginal: c -->
+
+<!-- marginal: i -->
+
+<!-- marginal: e -->
+
+f
+
+<!-- marginal: r -->
+
+<!-- marginal: l -->
+
+<!-- marginal: d -->
+
+<!-- marginal: t -->
+
+<!-- marginal: t -->
+
+<!-- marginal: u -->
+
+<!-- marginal: u -->
+
+<!-- marginal: s -->
+
+<!-- marginal: u -->
+
+l r
+
+<!-- marginal: s -->
+
+<!-- marginal: n -->
+
+<!-- marginal: g -->
+
+<!-- marginal: a -->
+
+<!-- marginal: g -->
+
+<!-- marginal: n -->
+
+<!-- marginal: n -->
+
+<!-- marginal: n -->
+
+a
+
+<!-- marginal: d -->
+
+o
+
+<!-- marginal: n -->
+
+<!-- marginal: o -->
+
+<!-- marginal: n -->
+
+<!-- marginal: i -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: n -->
+
+<!-- marginal: i -->
+
+<!-- marginal: m -->
+
+n
+
+<!-- marginal: o -->
+
+<!-- marginal: c -->
+
+<!-- marginal: i -->
+
+<!-- marginal: o -->
+
+i
+
+<!-- marginal: i -->
+
+e
+
+<!-- marginal: e -->
+
+<!-- marginal: y -->
+
+<!-- marginal: m -->
+
+<!-- marginal: m -->
+
+<!-- marginal: y -->
+
+<!-- marginal: t -->
+
+<!-- marginal: w -->
+
+f
+
+<!-- marginal: g -->
+
+<!-- marginal: m -->
+
+<!-- marginal: f -->
+
+v
+
+<!-- marginal: g -->
+
+<!-- marginal: S -->
+
+<!-- marginal: a -->
+
+<!-- marginal: o -->
+
+<!-- marginal: i -->
+
+<!-- marginal: n -->
+
+i
+
+<!-- marginal: y -->
+
+<!-- marginal: y -->
+
+<!-- marginal: r -->
+
+<!-- marginal: l -->
+
+e
+
+<!-- marginal: l -->
+
+<!-- marginal: l -->
+
+<!-- marginal: i -->
+
+<!-- marginal: c -->
+
+<!-- marginal: l -->
+
+<!-- marginal: l -->
+
+f
+
+<!-- marginal: l -->
+
+<!-- marginal: l -->
+
+<!-- marginal: e -->
+
+<!-- marginal: i -->
+
+<!-- marginal: l -->
+
+<!-- marginal: l -->
+
+h
+
+<!-- marginal: a -->
+
+<!-- marginal: d -->
+
+<!-- marginal: a -->
+
+<!-- marginal: o -->
+
+<!-- marginal: a -->
+
+t
+
+<!-- marginal: l -->
+
+<!-- marginal: n -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: t -->
+
+f
+
+<!-- marginal: t -->
+
+<!-- marginal: u -->
+
+<!-- marginal: i -->
+
+<!-- marginal: f -->
+
+<!-- marginal: s -->
+
+<!-- marginal: e -->
+
+<!-- marginal: s -->
+
+<!-- marginal: c -->
+
+<!-- marginal: c -->
+
+<!-- marginal: l -->
+
+o s
+
+<!-- marginal: e -->
+
+<!-- marginal: u -->
+
+d
+
+<!-- marginal: q -->
+
+<!-- marginal: e -->
+
+<!-- marginal: n -->
+
+<!-- marginal: o -->
+
+<!-- marginal: o -->
+
+<!-- marginal: o -->
+
+r
+
+<!-- marginal: r -->
+
+<!-- marginal: e -->
+
+<!-- marginal: i -->
+
+<!-- marginal: b -->
+
+<!-- marginal: l -->
+
+<!-- marginal: l -->
+
+n
+
+<!-- marginal: f -->
+
+<!-- marginal: l -->
+
+e
+
+<!-- marginal: h -->
+
+e
+
+<!-- marginal: v -->
+
+<!-- marginal: u -->
+
+t
+
+<!-- marginal: t -->
+
+a
+
+<!-- marginal: t -->
+
+<!-- marginal: f -->
+
+<!-- marginal: f -->
+
+r
+
+<!-- marginal: o -->
+
+<!-- marginal: s -->
+
+<!-- marginal: s -->
+
+<!-- marginal: b -->
+
+<!-- marginal: o -->
+
+r
+
+<!-- marginal: c -->
+
+<!-- marginal: t -->
+
+<!-- marginal: f -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: o -->
+
+<!-- marginal: o -->
+
+<!-- marginal: a -->
+
+u s e
+
+<!-- marginal: n -->
+
+:
+
+<!-- marginal: u -->
+
+<!-- marginal: o -->
+
+<!-- marginal: o -->
+
+g n v
+
+<!-- marginal: e -->
+
+<!-- marginal: e -->
+
+<!-- marginal: e -->
+
+<!-- marginal: e -->
+
+<!-- marginal: w -->
+
+<!-- marginal: r -->
+
+<!-- marginal: e -->
+
+<!-- marginal: o -->
+
+i
+
+<!-- marginal: h -->
+
+<!-- marginal: t -->
+
+<!-- marginal: s -->
+
+<!-- marginal: s -->
+
+<!-- marginal: s -->
+
+<!-- marginal: s -->
+
+<!-- marginal: i -->
+
+n o
+
+<!-- marginal: e -->
+
+<!-- marginal: e -->
+
+f
+
+<!-- marginal: v -->
+
+<!-- marginal: s -->
+
+<!-- marginal: p -->
+
+i i
+
+<!-- marginal: t -->
+
+<!-- marginal: r -->
+
+<!-- marginal: u -->
+
+<!-- marginal: u -->
+
+<!-- marginal: u -->
+
+<!-- marginal: u -->
+
+<!-- marginal: n -->
+
+t
+
+<!-- marginal: o -->
+
+<!-- marginal: o -->
+
+<!-- marginal: p -->
+
+a
+
+<!-- marginal: e -->
+
+a ) )
+
+<!-- marginal: i -->
+
+<!-- marginal: b -->
+
+)
+
+<!-- marginal: i -->
+
+) l
+
+<!-- marginal: i -->
+
+<!-- marginal: r -->
+
+<!-- marginal: R -->
+
+<!-- marginal: m -->
+
+<!-- marginal: a -->
+
+<!-- marginal: v -->
+
+<!-- marginal: i -->
+
+<!-- marginal: i -->
+
+<!-- marginal: i -->
+
+d
+
+<!-- marginal: i -->
+
+u
+
+<!-- marginal: i -->
+
+(
+
+<!-- marginal: c -->
+
+( ( ( c n
+
+<!-- marginal: s -->
+
+l a
+
+<!-- marginal: e -->
+
+) a
+
+<!-- marginal: b -->
+
+<!-- marginal: D -->
+
+r c ( u e o t a
+
+<!-- marginal: n -->
+
+h
+
+<!-- marginal: e -->
+
+i
+
+<!-- marginal: l -->
+
+t
+
+<!-- marginal: e -->
+
+d
+
+<!-- marginal: m -->
+
+t
+
+<!-- marginal: b -->
+
+<!-- marginal: c -->
+
+e
+
+<!-- marginal: u -->
+
+a
+
+<!-- marginal: a -->
+
+<!-- marginal: r -->
+
+<!-- marginal: l -->
+
+m
+
+<!-- marginal: o -->
+
+<!-- marginal: u -->
+
+w
+
+<!-- marginal: w -->
+
+r
+
+<!-- marginal: o -->
+
+<!-- marginal: e -->
+
+o e
+
+<!-- marginal: C -->
+
+l
+
+<!-- marginal: s -->
+
+t
+
+<!-- marginal: n -->
+
+i
+
+<!-- marginal: t -->
+
+<!-- marginal: e -->
+
+n
+
+<!-- marginal: e -->
+
+<!-- marginal: s -->
+
+k
+
+<!-- marginal: r -->
+
+i
+
+<!-- marginal: r -->
+
+<!-- marginal: R -->
+
+<!-- marginal: i -->
 
 l r l e
 
-### F
+<!-- marginal: F -->
 
 A p
 
@@ -4990,7 +5238,7 @@ A p
 
 EXpLANATORY STATEMENT The Renewable Energy Bill 2010 (“the proposed Act”) seeks to provide for the establishment and implementation of a special tariff system to catalyse the generation of renewable energy, and for related matters.
 
-## Part I
+## PART I
 
 2. part I deals with preliminary matters.
 
@@ -4998,7 +5246,7 @@ EXpLANATORY STATEMENT The Renewable Energy Bill 2010 (“the proposed Act”) se
 
 4. Clause 2 contains the definitions of certain words and expressions used in the proposed Act.
 
-## Part II
+## PART II
 
 5. part II provides for the establishment of the feed-in tariff system and for related matters.
 
@@ -5022,7 +5270,7 @@ EXpLANATORY STATEMENT The Renewable Energy Bill 2010 (“the proposed Act”) se
 
 14. Clause 11 seeks to allow any person who is aggrieved by the decision of the Authority under clauses 7, 9 and 10 to make an appeal to the Minister whose decision shall be final.
 
-## Part III
+## PART III
 
 15. part III deals with the renewable energy power purchase agreement, and the connection to supply line connection points and priority of the purchase and distribution by distribution licensees for renewable energy generated by renewable energy installations.
 
@@ -5036,7 +5284,7 @@ EXpLANATORY STATEMENT The Renewable Energy Bill 2010 (“the proposed Act”) se
 
 19. Clause 15 seeks to empower the Authority, with the concurrence of the Energy Commission, to prescribe rules governing technical and operational requirements to be complied with by distribution licensees and feed-in approval holders in the implementation of part III of the proposed Act.
 
-## Part IV
+## PART IV
 
 20. part Iv deals with the provisions relating to the feed-in tariff to be paid to feed-in approval holders, degression rates and review of feed-in tariff, and grid parity of renewable energy installations.
 
@@ -5056,7 +5304,7 @@ EXpLANATORY STATEMENT The Renewable Energy Bill 2010 (“the proposed Act”) se
 
 27. Subclause 22(1) seeks to make it an offence for a person to dishonestly generate electricity from a renewable energy installation by using resources other than the renewable resource specified in the feed-in approval applicable to that renewable energy installation in order to receive the payment or higher payment of feed-in tariffs. The person who commits this offence shall, on conviction, be liable to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding five years or to both. Subclause 22(3) empowers the Authority to require the person to pay for the loss to the Fund resulting from the payment or higher payment of feed-in tariffs in subclause 22(1) which if remains unpaid shall be treated as civil debt due to the Authority.
 
-## Part V
+## PART V
 
 28. part v provides for the establishment of the Renewable Energy Fund and related matters.
 
@@ -5070,7 +5318,7 @@ EXpLANATORY STATEMENT The Renewable Energy Bill 2010 (“the proposed Act”) se
 
 33. Clause 27 requires the Authority to cause proper accounts of the Fund and proper reports of its activities in respect of the Fund to be kept and to submit the accounts and auditor’s report to the Minister who shall cause the accounts and auditor’s report to be laid before both houses of parliament.
 
-## Part VI
+## PART VI
 
 34. part vI deals with information-gathering powers of the Authority.
 
@@ -5092,7 +5340,7 @@ EXpLANATORY STATEMENT The Renewable Energy Bill 2010 (“the proposed Act”) se
 
 42. Clause 35 provides that a person who fails to comply with an order of the Authority in accordance with part vI commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding six months or to both.
 
-## Part VII
+## PART VII
 
 43. part vII deals with enforcement provisions.
 
@@ -5134,7 +5382,7 @@ EXpLANATORY STATEMENT The Renewable Energy Bill 2010 (“the proposed Act”) se
 
 61. Clause 55 deals with provisions relating to offences committed under the proposed Act by a body corporate.
 
-## Part VIII
+## PART VIII
 
 62. part vIII deals with general provisions.
 
@@ -5156,7 +5404,7 @@ EXpLANATORY STATEMENT The Renewable Energy Bill 2010 (“the proposed Act”) se
 
 69. Clause 63 seeks to allow the Minister to amend the Schedule by an order to be published in the Gazette.
 
-## Part IX
+## PART IX
 
 70. part IX deals with savings and transitional provisions.
 

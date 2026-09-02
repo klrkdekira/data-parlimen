@@ -46,9 +46,47 @@ menggantikannya dengan yang berikut:
 
 <!-- page 2 -->
 
-4. Akta ibu adalah dipinda dengan memasukkan,selepas bam 28A, seksyen 28, seksyen baru 28A, 28B, 28c, 28D, 28E, 28F dan 28B, 28c,
+<!-- marginal: Seksyen -->
 
-28D. 28b, 28c yang berikut: 28F dan 28G; "Action by 28A. (1) Where upon receiving information Director from the insurer pursuant to section 28, or after General in respect an inspection under section 18, or after an of insurer investigation under section 27, or otherwise, the m certain Director General is satisfied that an insurer— circum- stances.
+4. Akta ibu adalah dipinda dengan memasukkan,selepas
+
+<!-- marginal: bam 28A, -->
+
+seksyen 28, seksyen baru 28A, 28B, 28c, 28D, 28E, 28F dan
+
+<!-- marginal: 28B, 28c, -->
+
+28D. 28b, 28c yang berikut:
+
+<!-- marginal: 28F dan -->
+
+<!-- marginal: 28G; -->
+
+<!-- marginal: "Action by -->
+
+28A. (1) Where upon receiving information
+
+<!-- marginal: Director -->
+
+from the insurer pursuant to section 28, or after
+
+<!-- marginal: General -->
+
+<!-- marginal: in respect -->
+
+an inspection under section 18, or after an
+
+<!-- marginal: of insurer -->
+
+investigation under section 27, or otherwise, the
+
+<!-- marginal: m certain -->
+
+Director General is satisfied that an insurer—
+
+<!-- marginal: circum- -->
+
+<!-- marginal: stances. -->
 
 (a) is carrying on its business in a manner detrimental to the interests of its policy owners, or its creditors, or the public generally;
 
@@ -70,19 +108,19 @@ the Director General may, by order in writing, exercise any one or more of the f
 
 (v) appoint a person to advise the insurer in relation to the proper conduct of its business; or
 
-(vi) terminate any contract, agreement or arrangement entered into by the insurer with any person for such person to provide the insurer with consultancy
+(vi) terminate any contract, agreement or arrangement entered into by the insurer with any person for such person to provide the insurer with consultancy or management services of any description:
 
-<!-- marginal: or -->
+Provided that the powers of the Director General under paragraphs (ii), (iii), (iv), (v) and
 
-management services of any description:
+(vi) shall be exercised only with the prior approval of the Minister.
 
-Provided that the powers of the Director General under paragraphs (ii), (iii), (iv), (v) and (vi) shall be exercised only with the prior approval of the Minister.
+(2) The Director General may, instead of exercising any of his powers under subsection
 
-(2) The Director General may, instead of exercising any of his powers under subsection (l)(i), (l)(ii), (l)(iii), (1)(iv), (l)(v) or (l)(vi), recommend to the Minister to provide, and the
+(l)(i), (l)(ii), (l)(iii), (1)(iv), (l)(v) or (l)(vi), recommend to the Minister to provide, and the
 
 <!-- page 4 -->
 
-4
+<!-- marginal: 4 -->
 
 ## RANG UNDANG-UNDANG
 
@@ -104,7 +142,23 @@ making representations in respect of the proposed order: Provided that if in the
 
 (5) An order of the Director General made under subsection (1), or by virtue of subsection (3), or an order of the Minister made under subsection (2), or by virtue of subsection (3), may at any time be revoked by an order similarly made by the Director General, or by the Minister, as the case may be.
 
-Provisions 28B, (1) A person appointed by the Director in relation General under section 28A(l)(iii), 28A(l)(iv), to appoint- ment under 28A(l)(v) or 28A(2)(a) shall be appointed for section 28A. such period as may be determined by the Director General, and the appointment may, upon expiry of the initial period, be extended for such further period as may be determined by the Director General: Provided that the Director General may revoke such person's appointment at any time without giving any notice or assigning any reason therefor.
+<!-- marginal: Provisions -->
+
+28B, (1) A person appointed by the Director
+
+<!-- marginal: in relation -->
+
+General under section 28A(l)(iii), 28A(l)(iv),
+
+<!-- marginal: to appoint- -->
+
+<!-- marginal: ment under -->
+
+28A(l)(v) or 28A(2)(a) shall be appointed for
+
+<!-- marginal: section 28A. -->
+
+such period as may be determined by the Director General, and the appointment may, upon expiry of the initial period, be extended for such further period as may be determined by the Director General: Provided that the Director General may revoke such person's appointment at any time without giving any notice or assigning any reason therefor.
 
 <!-- page 6 -->
 
@@ -118,11 +172,57 @@ Provisions 28B, (1) A person appointed by the Director in relation General under
 
 28A.(2)(b), all proper costs, charges and expenses, including the remuneration, of such receiver or manager shall be payable out of the assets of the insurer in priority to all other claims.
 
-Provisions 28c. (1) Any employee removed
+<!-- marginal: Provisions -->
 
-<!-- marginal: from -->
+28c. (1) Any employee removed from
 
-m relation employment or any director removed from office to removal from office under section 28A(l)(iii) or 28A(l)(iv), or any under person in respect of whom a contract, agreement or arrangement has been terminated under 2 8 A ( l ) ( i i i) or section 28A(l)(vi) shall cease to be employed or 2 8 A ( l ) ( i v ), to hold the office from which he is removed, or or termination continue to provide services in respect of which of contract, the contract, agreement or arrangement is etc., under terminated, with effect from the date set out in 28A(1 )(vi). the order, and shall not thereafter be employed in any capacity, hold any office or provide any services whatsoever in the insurer or, in any manner, whether directly or indirectly, be concerned with, or take part or engage in, any activity, affairs or business of or in relation to that insurer.
+<!-- marginal: m relation -->
+
+employment or any director removed from office
+
+<!-- marginal: to removal -->
+
+<!-- marginal: from office -->
+
+under section 28A(l)(iii) or 28A(l)(iv), or any
+
+<!-- marginal: under -->
+
+person in respect of whom a contract, agreement
+
+<!-- marginal: section -->
+
+or arrangement has been terminated under
+
+<!-- marginal: 2 8 A ( l ) ( i i i) -->
+
+<!-- marginal: or -->
+
+section 28A(l)(vi) shall cease to be employed or
+
+<!-- marginal: 2 8 A ( l ) ( i v ), -->
+
+to hold the office from which he is removed, or
+
+<!-- marginal: or -->
+
+<!-- marginal: termination -->
+
+continue to provide services in respect of which
+
+<!-- marginal: of contract, -->
+
+the contract, agreement or arrangement is
+
+<!-- marginal: etc., under -->
+
+<!-- marginal: section -->
+
+terminated, with effect from the date set out in
+
+<!-- marginal: 28A(1 )(vi). -->
+
+the order, and shall not thereafter be employed in any capacity, hold any office or provide any services whatsoever in the insurer or, in any manner, whether directly or indirectly, be concerned with, or take part or engage in, any activity, affairs or business of or in relation to that insurer.
 
 (2) The removal of an employee or a director under section 28A(l)(iii) or 28A(1)(iv) or the termination of a contract, agreement or arrangement under section 28A(l)(vi), shall be lawful and valid notwithstanding anything
 
@@ -130,9 +230,31 @@ m relation employment or any director removed from office to removal from office
 
 contained in any contract of service, or in any other contract, agreement or arrangement, whether express or implied, whether individual or collective, and whether or not made or provided for under any written law, and a person so removed from office or a person in respect of whom a contract, agreement or arrangement is so terminated, shall not be entitled to claim any compensation for the loss of office or the termination of the contract, agreement or arrangement.
 
-Provisions
+<!-- marginal: Provisions -->
 
-28D. (1) Where control of an insurer has been relating to assumed in pursuance of an order under section assumption of control 28A(2)(a), the insurer and its directors and under employees shall submit its property, business and affairs to such control, and shall provide the 28A(2)fa). Director General and, if the control is assumed by a person appointed by the Director General (hereinafter in this Part referred to as "the appointed person"), also to such appointed person, all such facilities as may be required to carry on the business and affairs of the insurer.
+28D. (1) Where control of an insurer has been
+
+<!-- marginal: relating to -->
+
+assumed in pursuance of an order under section
+
+<!-- marginal: assumption -->
+
+<!-- marginal: of control -->
+
+28A(2)(a), the insurer and its directors and
+
+<!-- marginal: under -->
+
+employees shall submit its property, business
+
+<!-- marginal: section -->
+
+and affairs to such control, and shall provide the
+
+<!-- marginal: 28A(2)fa). -->
+
+Director General and, if the control is assumed by a person appointed by the Director General (hereinafter in this Part referred to as "the appointed person"), also to such appointed person, all such facilities as may be required to carry on the business and affairs of the insurer.
 
 (2) The Director General or the appointed person, as the case may be, shall remain in control of the property, business and affairs of the insurer concerned, and carry on the business and affairs of that insurer in the name and on behalf of that insurer, as provided in the order referred to in subsection (1) until such time as the said order is revoked.
 
@@ -146,11 +268,47 @@ whether such powers are exercisable by resolution, special resolution, or in any
 
 (5) For the avoidance of doubt, it is hereby declared that an order under section 28A(2)(a) shall not have the effect of conferring on, or vesting in, the Director General, or the appointed person, as the case may be, any title to, or any beneficial interest in, any property of the insurer to which the order relates.
 
-Power to 28E. (1) Notwithstanding anything in any reduce share written law, or in the memorandum of capital and to cancel association or articles of association or other shares of constituent documents of an insurer, where the insurer Director General, or the appointed person, has, which is subject to pursuant to an order under section 28A(2)(a), an order assumed control of the insurer and the paid-up under capital of such insurer is lost or unrepresented by 28A(2)(a). available assets, the Director General or the appointed person, as the case may be, may apply to the High Court for an order to reduce the share capital of such insurer by cancelling any portion of its paid-up capital which is
+<!-- marginal: Power to -->
 
-<!-- marginal: lost or -->
+28E. (1) Notwithstanding anything in any
 
-unrepresented by available assets.
+<!-- marginal: reduce share -->
+
+written law, or in the memorandum of
+
+<!-- marginal: capital and -->
+
+<!-- marginal: to cancel -->
+
+association or articles of association or other
+
+<!-- marginal: shares of -->
+
+constituent documents of an insurer, where the
+
+<!-- marginal: insurer -->
+
+Director General, or the appointed person, has,
+
+<!-- marginal: which is -->
+
+<!-- marginal: subject to -->
+
+pursuant to an order under section 28A(2)(a),
+
+<!-- marginal: an order -->
+
+assumed control of the insurer and the paid-up
+
+<!-- marginal: under -->
+
+<!-- marginal: section -->
+
+capital of such insurer is lost or unrepresented by
+
+<!-- marginal: 28A(2)(a). -->
+
+available assets, the Director General or the appointed person, as the case may be, may apply to the High Court for an order to reduce the share capital of such insurer by cancelling any portion of its paid-up capital which is lost or unrepresented by available assets.
 
 <!-- page 9 -->
 
@@ -164,13 +322,19 @@ also order that such shares for which payment has not been made be cancelled acc
 
 (3) Where the share capital of an insurer is reduced, or any of its shares cancelled, under subsection (2), the Director General, or the appointed person, as the case may be, may cause the memorandum of association or articles of association or other constituent documents of the insurer to be altered accordingly,
 
-(4) The powers conferred on the Director General and the appointed person under the foregoing provisions of this section shall be in addition to any powers exercisable under section A ct 125, 64(1) of the Companies Act 1965, and where an application is made to the High Court under subsection (1)—
+(4) The powers conferred on the Director General and the appointed person under the foregoing provisions of this section shall be in addition to any powers exercisable under section
+
+<!-- marginal: A ct 125, -->
+
+64(1) of the Companies Act 1965, and where an application is made to the High Court under subsection (1)—
 
 (a) the High Court may exercise any of the powers conferred on it under section 64 of the Companies Act 1965 in relation to an application for confirmation referred to therein; and
 
 (b) subsections (9) and (10) of the said section 64 shall apply in relation thereto.
 
-Moratorium. 28p. (1) The Minister may, on the recommen- dation of the Director General, if he considers it
+<!-- marginal: Moratorium. -->
+
+28p. (1) The Minister may, on the recommen- dation of the Director General, if he considers it
 
 <!-- page 10 -->
 
@@ -182,11 +346,7 @@ to be in the interests of the policy owners of an insurer, by order published in
 
 (c) authorise the Director General to apply to the High Court for an order staying for a period not exceeding six months the commencement or continuance of all, or any class, category or description of, actions and proceedings of a civil nature by or against the insurer with respect to all business, or any class, category or description of business, of the insurer, except actions and proceedings arising out of any policy of insurance;
 
-(d) provide for all such matters of an incidental, ancillary or consequential nature, or for which it may be otherwise necessary or expedient to provide, in order to give effect to the matters under the foregoing paragraphs,
-
-<!-- marginal: including -->
-
-provisions for the taking into the custody or control of the Director General of property, books, documents or effects of the insurer.
+(d) provide for all such matters of an incidental, ancillary or consequential nature, or for which it may be otherwise necessary or expedient to provide, in order to give effect to the matters under the foregoing paragraphs, including provisions for the taking into the custody or control of the Director General of property, books, documents or effects of the insurer.
 
 (2) An order under subsection (1) may, from time to time, be amended, varied or replaced by a further order under subsection (1).
 
@@ -196,9 +356,19 @@ provisions for the taking into the custody or control of the Director General of
 
 (4) An order under subsection (1), or by virtue of subsection (2), may at any time be revoked by the Minister by an order made on the recommendation of the Director General, and any such order may contain all such orders, directions or provisions of an incidental, ancillary or consequential nature as may be deemed necessary by the Minister,
 
-Offences 28G. Any person who contravenes— in relation to sections
+<!-- marginal: Offences -->
 
-(a) any provision of section 28; 28, 28A and 28F.
+28G. Any person who contravenes—
+
+<!-- marginal: in relation -->
+
+<!-- marginal: to sections -->
+
+(a) any provision of section 28;
+
+<!-- marginal: 28, 28A -->
+
+<!-- marginal: and 28F. -->
 
 (b) any requirement of an order in writing under section 28A(l)(i);
 
@@ -212,9 +382,11 @@ fine not exceeding five thousand ringgit for every day during which the offence 
 
 Provided that where the person found guilty of such offence is a body corporate, the aforesaid punishment of imprisonment shall not apply to the body corporate.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-5. Seksyen 30 Akta ibu adalah dipinda— seksyen 30.
+5. Seksyen 30 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 30. -->
 
 (a) dengan menggantikan nota birainya dengan nota birai yang berikut:
 
@@ -222,7 +394,9 @@ Pindaan
 
 (b) dengan memotong subseksyen (1);
 
-(c) dengan menggantikan subseksyen (2), (3) dan (4) dengan yang berikut:
+(c) dengan menggantikan subseksyen (2), (3) dan
+
+(4) dengan yang berikut:
 
 "(2) Notwithstanding anything contained in section 218 of the Companies Act 1965, where a petition for the winding up of an insurer is presented to the Court by the Director General under section 28A(2)(c), the Court may order the winding up of the insurer, and the provisions of Part X of the Companies Act 1965 shall apply in so far as they are not inconsistent with this Act.
 
@@ -310,13 +484,9 @@ Seksyen 28E
 
 itu, dan subseksyen (9) dan (10) seksyen 64 Akta tersebut hendaklah terpakai berhubungan dengan permohonan yang dibuat kepada Mahkamah Tinggi di bawah seksyen ini oleh Ketua Pengarah, atau oleh orang yang dilantik untuk mengambil alih kawalan, mengikut mana-mana yang berkenaan.
 
-Seksyen 28E
+Seksyen 28E 10. Seksyen baru 28p member! Menteri, kuasa untuk melarang penanggung insurans daripada menjalankan kesemua atau mana- mana bahagian perniagaannya, atau melarang penanggung insurans daripada melakukan atau melaksanakan apa-apa perbuatan atau fungsi yang berkaitan dengan kesemua atau mana-mana bahagian perniagaannya, atau untuk memberikuasa Ketua Pengarah memohon kepada Mahkamah Tinggi bagi mendapatkan suatu perintah untuk menangguhkan permulaan atau penerusan semua atau apa-apa golongan, kategori atau perihalan tindakan atau prosiding yang bersifat sivil oleh atau terhadap penanggung insurans itu berkenaan dengan kesemua perniagaan, atau apa-apa golongan, kategori atau perihalan perniagaan, penanggung insurans itu selama suatu tempoh yang tidak melebihi enam bulan, kecuali tindakan-tindakan dan presiding yang berbangkit daripada apa-apa polisi insurans. Sebelum suatu perintah seperti yang disebutkan terdahulu dibuat, penanggung insurans mestilah diberi peluang yang munasabah untuk membuat representasi-representasi, tetapi jika apa-apa kelengahan akan memudaratkan kepentingan-kepentingan pemunya-pemunya polisi. perintah itu boleh dibuat dahulu dan peluang untuk membuat representasi-representasi diberikan selepas sahaja perintah itu dibuat. Berbangkit daripada apa-apa representasi yang sedemikian, perintah itu boleh, atas syor Ketua Pengarah, disahkan, dipinda, diubah, digantikan atau dibatalkan oleh Menteri.
 
-10. Seksyen baru 28p member! Menteri, kuasa untuk melarang penanggung insurans daripada menjalankan kesemua atau mana- mana bahagian perniagaannya, atau melarang penanggung insurans daripada melakukan atau melaksanakan apa-apa perbuatan atau fungsi yang berkaitan dengan kesemua atau mana-mana bahagian perniagaannya, atau untuk memberikuasa Ketua Pengarah memohon kepada Mahkamah Tinggi bagi mendapatkan suatu perintah untuk menangguhkan permulaan atau penerusan semua atau apa-apa golongan, kategori atau perihalan tindakan atau prosiding yang bersifat sivil oleh atau terhadap penanggung insurans itu berkenaan dengan kesemua perniagaan, atau apa-apa golongan, kategori atau perihalan perniagaan, penanggung insurans itu selama suatu tempoh yang tidak melebihi enam bulan, kecuali tindakan-tindakan dan presiding yang berbangkit daripada apa-apa polisi insurans. Sebelum suatu perintah seperti yang disebutkan terdahulu dibuat, penanggung insurans mestilah diberi peluang yang munasabah untuk membuat representasi-representasi, tetapi jika apa-apa kelengahan akan memudaratkan kepentingan-kepentingan pemunya-pemunya polisi. perintah itu boleh dibuat dahulu dan peluang untuk membuat representasi-representasi diberikan selepas sahaja perintah itu dibuat. Berbangkit daripada apa-apa representasi yang sedemikian, perintah itu boleh, atas syor Ketua Pengarah, disahkan, dipinda, diubah, digantikan atau dibatalkan oleh Menteri.
-
-Seksyen 28G
-
-11. Seksyen baru 28G membuat peruntukan bagi kesalahan- kesalahan yang berbangkit di bawah seksyen baru 28,28A dan 28F dan penalti pemenjaraan selama lima tahun, atau denda sebanyak lima juta ringgit. atau kedua-duanya, dan, sebagai tambahan. denda harian sebanyak lima ribu ringgit bagi tiap-tiap hari kesalahan itu berterusan.
+Seksyen 28G 11. Seksyen baru 28G membuat peruntukan bagi kesalahan- kesalahan yang berbangkit di bawah seksyen baru 28,28A dan 28F dan penalti pemenjaraan selama lima tahun, atau denda sebanyak lima juta ringgit. atau kedua-duanya, dan, sebagai tambahan. denda harian sebanyak lima ribu ringgit bagi tiap-tiap hari kesalahan itu berterusan.
 
 12. Fasal 5 dan 6 membuat pindaan-pindaan berbangkit kepada seksyen 30 dan 35.
 

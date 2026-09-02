@@ -16,7 +16,11 @@ Naskhah Sahih—Bahasa Malaysia
 
 5. Peminjaman oleh pihak berkuasa berkanun daripada Tabung. 6. Penggunaan wang pinjaman oleh pihak berkuasa berkanun.
 
-7. Kuasa Kerajaan untuk menjamin pinjaman oleh Tabung kepada pihak-pihak berkuasa berkanun. 8. Sekatan ke atas kuasa-kuasa meminjam bagi pihak berkuasa berkanun selagi jaminan masih belum selesai. 9. Kuasa-kuasa yang boleh dijalankan oleh Kerajaan jika berlaku atau dijangkakan berlaku keingkaran oleh pihak berkuasa berkanun. 10. Pihak berkuasa berkanun hendaklah membayar balik kepada Kerajaan jumlah wang yang dibayar di bawah jaminan. 11. Timbangtara.
+7. Kuasa Kerajaan untuk menjamin pinjaman oleh Tabung kepada pihak-pihak berkuasa berkanun. 8. Sekatan ke atas kuasa-kuasa meminjam bagi pihak berkuasa berkanun selagi jaminan masih belum selesai. 9. Kuasa-kuasa yang boleh dijalankan oleh Kerajaan jika berlaku atau dijangkakan berlaku keingkaran oleh pihak berkuasa berkanun.
+
+10. Pihak berkuasa berkanun hendaklah membayar balik kepada Kerajaan jumlah wang yang dibayar di bawah jaminan.
+
+11. Timbangtara.
 
 12. Pelaksanaan obligasi di bawah perjanjian.
 
@@ -54,7 +58,9 @@ oleh Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong dengan nasih
 
 2. (1) Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—
 
-"Kumpulan Wang Disatukan" ertinya Kumpulan Wang Persekutuan Disatukan yang ditubuhkan di bawah Perkara 97 Perlembagaan Persekutuan;
+"Kumpulan Wang Disatukan" ertinya Kumpulan Wang Persekutuan Disatukan yang ditubuhkan di bawah
+
+## Perkara 97 Perlembagaan Persekutuan;
 
 "Menteri" ertinya Menteri yang sedang diper- tanggungkan dengan tanggungjawab bagi kewangan;
 
@@ -66,9 +72,29 @@ bertulis dan menjalankan kuasa-kuasa yang terletak pada pertubuhan tersebut oleh
 
 "Tabung" ertinya Tabung Antarabangsa bagi Pembangunan Pertanian.
 
-Kuasa 3. (1) Tertakluk kepada peruntukan-peruntukan Kerajaan untuk Perlembagaan Persekutuan dan Akta ini, Kerajaan boleh meminjam danpada mengikut apa-apa cara dan atas apa-apa terma dan Tabung. tertakluk kepada apa-apa syarat sebagaimana yang dipersetujui di antara Kerajaan dengan Tabung meminjain daripada Tabung dari semasa ke semasa apa- apa jumlah wang yang dikehendaki oleh Kerajaan.
+<!-- marginal: Kuasa -->
 
-(2) Semua wang yang dipinjam oleh Kerajaan di bawah subseksyen (1) hendaklah dibayar ke dalam Kumpulan Wang Pembangunan dan hendaklah, walau Akta 70. apa pun seksyen 3 Akta Kumpulan Wang Pembangunan 1966, digunakan dan adalah dengan ini diperuntukkan bagi maksud-maksud yang baginya wang itu dipinjam:
+3. (1) Tertakluk kepada peruntukan-peruntukan
+
+<!-- marginal: Kerajaan untuk -->
+
+Perlembagaan Persekutuan dan Akta ini, Kerajaan boleh
+
+<!-- marginal: meminjam -->
+
+<!-- marginal: danpada -->
+
+mengikut apa-apa cara dan atas apa-apa terma dan
+
+<!-- marginal: Tabung. -->
+
+tertakluk kepada apa-apa syarat sebagaimana yang dipersetujui di antara Kerajaan dengan Tabung meminjain daripada Tabung dari semasa ke semasa apa- apa jumlah wang yang dikehendaki oleh Kerajaan.
+
+(2) Semua wang yang dipinjam oleh Kerajaan di bawah subseksyen (1) hendaklah dibayar ke dalam Kumpulan Wang Pembangunan dan hendaklah, walau
+
+<!-- marginal: Akta 70. -->
+
+apa pun seksyen 3 Akta Kumpulan Wang Pembangunan 1966, digunakan dan adalah dengan ini diperuntukkan bagi maksud-maksud yang baginya wang itu dipinjam:
 
 Dengan syarat bahawa jika mana-mana bahagian wang itu tidak dapat digunakan bagi maksud-maksud yang disebut terdahulu bahagian itu bolehlah digunakan bagi apa-apa maksud lain yang diluluskan oleh Menteri dan Tabung.
 
@@ -132,17 +158,53 @@ berkanun tersebut oleh mana-mana undang-undang bertulis lain.
 
 (5) Walau apa pun apa-apa jua yang terkandung dalam mana-mana undang-undang bertulis sesuatu pihak berkuasa berkanun boleh mengeluarkan apa-apa bon, nota janji hutang dan suratcara-suratcara lain atas apa- apa terma dan syarat sebagaimana yang perlu bagi maksud melaksanakan apa-apa perjanjian yang boleh dibuat olehnya dengan Tabung berkenaan dengan apa- apa peminjaman di bawah subseksyen (1).
 
-Penggunaan
+<!-- marginal: Penggunaan -->
 
-6. Semua wang yang dipinjam oleh pihak berkuasa wang berkanun di bawah seksyen 5(1) hendaklah digunakan pmjaman oleh pihak berkuasa oleh pihak berkuasa berkanun itu bagi maksud-maksud berkanun. yang baginya wang itu dipinjam:
+6. Semua wang yang dipinjam oleh pihak berkuasa
+
+<!-- marginal: wang -->
+
+berkanun di bawah seksyen 5(1) hendaklah digunakan
+
+<!-- marginal: pmjaman oleh -->
+
+<!-- marginal: pihak berkuasa -->
+
+oleh pihak berkuasa berkanun itu bagi maksud-maksud
+
+<!-- marginal: berkanun. -->
+
+yang baginya wang itu dipinjam:
 
 Dengan syarat bahawa jika apa-apa bahagian wang itu tidak boleh digunakan bagi maksud-maksud yang disebut terdahulu bahagian itu bolehlah digunakan oleh pihak berkuasa berkanun itu bagi apa-apa maksud lain yang diluluskan oleh Menteri dan Tabung.
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-7. (1) Kerajaan boleh mengikut apa-apa cara dan atas Kerajaan untuk apa-apa terma dan tertakluk kepada apa-apa syarat menjamin sebagaimana yang dipersetujui di antaranya dengan pinjaman oleh Tabung kepada Tabung— pihak-pihak berkuasa
+7. (1) Kerajaan boleh mengikut apa-apa cara dan atas
 
-(a) menjamin penunaian oleh sesuatu pihak berkanun. berkuasa berkanun akan obligasinya di bawah apa-apa perjanjian yang dibuat oleh pihak berkuasa berkanun itu dengan Tabung berkenaan dengan apa-apa peminjaman di
+<!-- marginal: Kerajaan untuk -->
+
+apa-apa terma dan tertakluk kepada apa-apa syarat
+
+<!-- marginal: menjamin -->
+
+sebagaimana yang dipersetujui di antaranya dengan
+
+<!-- marginal: pinjaman oleh -->
+
+<!-- marginal: Tabung kepada -->
+
+Tabung—
+
+<!-- marginal: pihak-pihak -->
+
+<!-- marginal: berkuasa -->
+
+(a) menjamin penunaian oleh sesuatu pihak
+
+<!-- marginal: berkanun. -->
+
+berkuasa berkanun akan obligasinya di bawah apa-apa perjanjian yang dibuat oleh pihak berkuasa berkanun itu dengan Tabung berkenaan dengan apa-apa peminjaman di
 
 <!-- page 6 -->
 
@@ -236,11 +298,47 @@ Yang di-Pertuan Agong boleh, melalui perintah, memberi atau memberi kuasa mana-m
 
 (2) Pihak berkuasa berkanun itu hendaklah,walau apa pun apa-apa jua yang terkandung dalam undang-undang bertulis yang menurutnya ia ditubuhkan, mematuhi apa- apa arahan yang diberi oleh atau di bawah mana-mana perintah sedemikian.
 
-(3) Tiada apa-apa jua dalam seksyen ini boleh menyentuh atau mengurangkan apa-apa kuasa lain yang diberi oleh undang-undang bertulis kepada Yang di- Pertuan Agong atau mana-mana Menteri atau pegawai awam berkenaan dengan pihak berkuasa berkanun itu.
+(3) Tiada apa-apa jua dalam seksyen
 
-Pihak berkuasa
+<!-- marginal: ini boleh -->
 
-10. (1) Jika apa-apa wang dibayar daripada Kumpulan berkanun Wang Disatukan berkenaan dengan apa-apa liabiliti hendaklah membayar yang ditanggung oleh Kerajaan di bawah suatu jaminan balik kepada atau akujanji lain yang diberi pada menjalankan kuasa- Kerajaan kuasa yang diberi oleh seksyen 7(1), maka pihak jumlah wang yang dibayar berkuasa berkanun itu hendaklah membayar balik di bawah jumlah wang itu (berserta dengan bunga atasnya jaminan. mengikut kadar yang sama seperti yang kena dibayar atas pinjaman di bawah perjanjian oleh pihak berkuasa berkanun itu dan Tabung) kepada Kumpulan Wang Disatukan mengikut apa-apa cara dan pada bila-bila masa atau dengan apa-apa ansuran sebagaimana yang diarahkan oleh Menteri.
+menyentuh atau mengurangkan apa-apa kuasa lain yang diberi oleh undang-undang bertulis kepada Yang di- Pertuan Agong atau mana-mana Menteri atau pegawai awam berkenaan dengan pihak berkuasa berkanun itu.
+
+<!-- marginal: Pihak berkuasa -->
+
+10. (1) Jika apa-apa wang dibayar daripada Kumpulan
+
+<!-- marginal: berkanun -->
+
+Wang Disatukan berkenaan dengan apa-apa liabiliti
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: membayar -->
+
+yang ditanggung oleh Kerajaan di bawah suatu jaminan
+
+<!-- marginal: balik kepada -->
+
+atau akujanji lain yang diberi pada menjalankan kuasa-
+
+<!-- marginal: Kerajaan -->
+
+kuasa yang diberi oleh seksyen 7(1), maka pihak
+
+<!-- marginal: jumlah wang -->
+
+<!-- marginal: yang dibayar -->
+
+berkuasa berkanun itu hendaklah membayar balik
+
+<!-- marginal: di bawah -->
+
+jumlah wang itu (berserta dengan bunga atasnya
+
+<!-- marginal: jaminan. -->
+
+mengikut kadar yang sama seperti yang kena dibayar atas pinjaman di bawah perjanjian oleh pihak berkuasa berkanun itu dan Tabung) kepada Kumpulan Wang Disatukan mengikut apa-apa cara dan pada bila-bila masa atau dengan apa-apa ansuran sebagaimana yang diarahkan oleh Menteri.
 
 <!-- page 8 -->
 
@@ -248,11 +346,23 @@ atau akujanji yang diberi berkenaan dengan mana-mana perjanjian, bon, nota janji
 
 (2) Tanpa menjejaskan keluasan subseksyen (1)—
 
-(a) Menteri boleh, melalui perintah yang disiarkan dalam Warta, memperuntukkan bahawa apa- apa cukai atau duti yang masing-masing kena dibayar di bawah Akta Cukai Pendapatan Akta 53. 1967, atau Akta Setem 1949, hendaklah Akta 59 diremitkan jika remitan itu perlu bagi melaksanakan sepenuhnya dan secukupnya mana-mana perjanjian, bon, nota janji hutang, suratcara atau jaminan tersebut;
+(a) Menteri boleh, melalui perintah yang disiarkan dalam Warta, memperuntukkan bahawa apa- apa cukai atau duti yang masing-masing kena dibayar di bawah Akta Cukai Pendapatan
 
-Akta 17.
+<!-- marginal: Akta 53. -->
 
-(b) tiada apa-apa jua dalam Akta Kawalan Pertukaran 1953 terpakai bagi apa-apa urusan yang dikehendaki bagi melaksanakan pembayaran dengan apa-apa mata wang bagi apa-apa jumlah wang mengikut terma apa-apa perjanjian, suratcara, bon atau jaminan sedemikian dalam apa-apa mata wang.
+1967, atau Akta Setem 1949, hendaklah
+
+<!-- marginal: Akta 59 -->
+
+diremitkan jika remitan itu perlu bagi melaksanakan sepenuhnya dan secukupnya mana-mana perjanjian, bon, nota janji hutang, suratcara atau jaminan tersebut;
+
+<!-- marginal: Akta 17. -->
+
+(b) tiada apa-apa jua dalam Akta Kawalan Pertukaran 1953 terpakai bagi apa-apa urusan yang dikehendaki bagi melaksanakan pembayaran dengan apa-apa mata wang bagi apa-apa jumlah wang mengikut terma apa-apa perjanjian, suratcara, bon atau
+
+<!-- marginal: jaminan -->
+
+sedemikian dalam apa-apa mata wang.
 
 (3) Kerajaan atau mana-mana agensinya atau mana- mana pihak berkuasa berkanun atau Bank Negara Malaysia tidak boleh, kecuali sebagaimana yang dipersetujui selainnya di antara Menteri dengan Tabung, mewujudkan apa-apa lien ke atas mana-mana asetnya sebagai cagaran bagi apa-apa hutang luar negeri melainkan jika diperuntukkan dengan nyata bahawa lien itu akan ipso facto secara sama dan dengan mengikut kadar menjamin pembayaran—
 
@@ -290,7 +400,11 @@ Rang Undang-Undang ini bertujuan memperbuat undang-undang bagi tujuan membolehka
 
 Ia juga mengadakan peruntukan menghendaki apa-apa perjanjian pinjaman di antara Kerajaan dengan Tabung dibuat di atas nama Kerajaan Malaysia dan boleh ditandatangani bagi pihak Kerajaan oleh Menteri atau oleh sesiapa sahaja yang diberikuasa oleh Menteri. la juga memerlukan segala perjanjian pinjaman yang dibuat dengan Tabung dibentangkan di hadapan Dewan Rakyat.
 
-5. Fasal 4 memberi kuasa kepada Kerajaan untuk mengeluarkan bon. nota janji hutang atau suratcara-suratcara lain untuk melaksanakan terma-terma perjanjian dengan Tabung.
+5. Fasal 4 memberi kuasa kepada Kerajaan untuk mengeluarkan bon. nota janji hutang atau suratcara-suratcara
+
+<!-- marginal: lain untuk -->
+
+melaksanakan terma-terma perjanjian dengan Tabung.
 
 6. Fasal 5 memberi kuasa kepada pihak berkuasa berkanun untuk meminjam daripada Tabung dengan terlebih dahulu mendapat kelulusan secara bertulis daripada Menteri. la juga membuat peruntukan bagi pihak berkuasa berkanun menggadaikan segala harta bagi menjamin wang yang terhutang kepada Tabung dan juga mengeluarkan bon, nota janji hutang dan suratcara bagi melaksanakan perjanjian yang dibuat dengan Tabung.
 

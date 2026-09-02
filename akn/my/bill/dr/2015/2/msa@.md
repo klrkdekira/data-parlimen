@@ -8,13 +8,13 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PENUBUHAN LEMBAGA PEMBIAYAAN PERUMAHAN SEKTOR AWAM
 
@@ -38,7 +38,7 @@
 
 <!-- page 2 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PEKERJA LEMBAGA
 
@@ -48,7 +48,7 @@
 
 20. Syarat-syarat perkhidmatan, kelakuan dan tatatertib
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## KEMUDAHAN PEMBIAYAAN PERUMAHAN SEKTOR AWAM
 
@@ -62,7 +62,7 @@
 
 25. Lembaga hendaklah bertanggungjawab bagi memungut dan mendapatkan bayaran balik kemudahan pembiayaan perumahan sektor awam
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PERUNTUKAN KEWANGAN
 
@@ -78,7 +78,7 @@
 
 31. Tatacara kewangan
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## KUASA TAMBAHAN LEMBAGA
 
@@ -90,7 +90,7 @@
 
 <!-- page 3 -->
 
-## Bahagian VII
+## BAHAGIAN VII
 
 AM
 
@@ -112,7 +112,7 @@ AM
 
 43. Kuasa untuk membuat peraturan-peraturan
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## PEMANSUHAN, KECUALIAN DAN PERALIHAN
 
@@ -132,7 +132,7 @@ Suatu Akta untuk menubuhkan dan memperbadankan Lembaga Pembiayaan Perumahan Sekt
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -184,7 +184,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 “Pengerusi” ertinya Pengerusi Lembaga yang dilantik di bawah perenggan 8(1)(a) dan termasuklah Timbalan Pengerusi apabila dia menjalankan fungsi Pengerusi.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PENUBUHAN LEMBAGA PEMBIAYAAN PERUMAHAN
 
@@ -474,7 +474,7 @@ peletakhakan yang dibuat di bawah subseksyen (1).
 
 <!-- page 19 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PEKERJA LEMBAGA
 
@@ -562,7 +562,7 @@ seseorang pekerja Lembaga sementara menunggu prosiding tatatertib selesai.
 
 (6) Peraturan-peraturan yang ditetapkan di bawah seksyen ini hendaklah, dalam menetapkan tatacara untuk prosiding tatatertib, memberi pekerja Lembaga yang prosiding tatatertib diambil terhadapnya peluang untuk membuat representasi sebelum suatu keputusan dibuat oleh jawatankuasa tatatertib mengenai pertuduhan tatatertib yang dibuat terhadap pekerja itu.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## KEMUDAHAN PEMBIAYAAN PERUMAHAN SEKTOR AWAM
 
@@ -706,7 +706,7 @@ dan meremit amaun yang dipotong itu kepada Lembaga.
 
 (8) Lembaga tidak boleh mengenakan apa-apa faedah atau caj tambahan terhadap orang yang layak yang diluluskan bagi apa- apa kelewatan yang disebabkan oleh majikan untuk membuat potongan di bawah subseksyen (3) dan (6).
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PERUNTUKAN KEWANGAN
 
@@ -794,7 +794,7 @@ atau apa-apa hak atau kepentingan yang diperoleh atau berbangkit daripada pember
 
 <!-- page 32 -->
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## KUASA TAMBAHAN LEMBAGA
 
@@ -830,7 +830,7 @@ atau apa-apa hak atau kepentingan yang diperoleh atau berbangkit daripada pember
 
 34. Lembaga boleh, dengan kelulusan Menteri, menubuhkan atau mendapatkan apa-apa perbadanan yang ditubuhkan di bawah Akta Syarikat 1965 [Akta 125] dan Akta Syarikat Amanah 1949 [Akta 100] yang perlu bagi maksud mendapatkan dana, dengan syarat bahawa perbadanan yang ditubuhkan atau didapatkan oleh Lembaga sedemikian dilarang daripada menubuhkan subsidiari perbadanan.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 AM
 
@@ -900,7 +900,7 @@ mana-mana orang yang diberi kuasa oleh Lembaga bagi maksud itu boleh, bagi pihak
 
 43. Menteri boleh, dengan syor Lembaga, membuat peraturan- peraturan sebagaimana yang perlu atau suai manfaat bagi maksud menjalankan peruntukan Akta ini.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## PEMANSUHAN, KECUALIAN DAN PERALIHAN
 
@@ -938,7 +938,7 @@ Akta Lembaga Pembiayaan Perumahan Sektor Awam 2015 yang dicadangkan (“Akta yan
 
 <!-- page 38 -->
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I Akta yang dicadangkan memperkatakan perkara permulaan.
 
@@ -946,7 +946,7 @@ Fasal 1 mengandungi tajuk ringkas Akta yang dicadangkan dan memberi Menteri kuas
 
 Fasal 2 mengandungi takrif perkataan dan ungkapan tertentu yang digunakan dalam Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 3. Bahagian II Akta yang dicadangkan mengandungi peruntukan yang berhubungan dengan penubuhan Lembaga termasuk fungsi dan kuasanya.
 
@@ -982,7 +982,7 @@ Fasal 16 mengandungi peruntukan yang menghendaki anggota Lembaga atau mana-mana 
 
 Fasal 17 bertujuan untuk mengadakan peruntukan bahawa tiada perbuatan yang dilakukan atau prosiding yang dijalankan di bawah Akta yang dicadangkan boleh dipersoal atas alasan bahawa terdapat apa-apa kekosongan dalam keanggotaan atau terdapat apa-apa kecacatan dalam penubuhan Lembaga atau jawatankuasa, atau terdapat apa-apa peninggalan, kecacatan atau ketidakteraturan yang tidak menyentuh merit kes itu.
 
-## Bahagian III
+## BAHAGIAN III
 
 4. Bahagian III Akta yang dicadangkan memperkatakan pekerja Lembaga.
 
@@ -996,7 +996,7 @@ Fasal 19 memberi Lembaga kuasa untuk mengambil kerja apa-apa bilangan pekerja se
 
 Fasal 20 membenarkan Lembaga untuk menentukan syarat perkhidmatan pekerjanya dan mengadakan peruntukan bahawa Lembaga hendaklah mempunyai kuasa dan kawalan tatatertib terhadap pekerjanya. Bagi maksud ini, Lembaga boleh menetapkan peraturan-peraturan untuk mengadakan peruntukan mengenai kelakuan dan tatatertib pekerjanya.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 5. Bahagian IV Akta yang dicadangkan memperkatakan kemudahan pembiayaan perumahan sektor awam.
 
@@ -1014,7 +1014,7 @@ Fasal 25 bertujuan untuk mengadakan peruntukan mengenai tanggungjawab Lembaga un
 
 balik kemudahan pembiayaan perumahan sektor awam melalui potongan gaji, pencen dan faedah persaraan dengan memberikan notis secara bertulis mengenai pemotongan itu kepada majikan orang yang layak yang diluluskan. Hendaklah menjadi kewajipan majikan orang yang layak yang diluluskan yang diberikan notis untuk memotong apa-apa amaun wang sebagaimana yang dimaklumkan oleh Lembaga, daripada gaji atau pencen orang yang layak yang diluluskan. Bagi maksud mendapatkan bayaran balik kemudahan pembiayaan perumahan sektor awam, bayaran balik itu hendaklah mendapat hak keutamaan daripada apa-apa potongan lain tetapi sebaik selepas potongan untuk apa-apa hutang yang kena dibayar dan terhutang oleh orang yang layak yang diluluskan kepada Kerajaan Persekutuan dan Kerajaan Negeri, amaun cukai yang ditaksir di bawah mana-mana undang-undang bertulis dan semua amaun yang kena dibayar berkenaan dengan caruman yang kena dibayar di bawah mana-mana undang-undang bertulis yang berhubungan dengan persaraan atau kumpulan wang simpanan pekerja atau di bawah mana-mana skim persaraan atau faedah persaraan yang merupakan suatu skim yang diluluskan di bawah undang-undang persekutuan yang berhubungan dengan cukai pendapatan.
 
-## Bahagian V
+## BAHAGIAN V
 
 6. Bahagian V Akta yang dicadangkan memperkatakan peruntukan kewangan.
 
@@ -1032,7 +1032,7 @@ Fasal 31 bertujuan untuk mengadakan peruntukan bahawa Lembaga hendaklah menentuk
 
 <!-- page 42 -->
 
-## Bahagian VI
+## BAHAGIAN VI
 
 7. Bahagian VI Akta yang dicadangkan memperkatakan kuasa tambahan Lembaga.
 
@@ -1042,7 +1042,7 @@ Fasal 33 membenarkan Lembaga untuk melabur dengan kebenaran Menteri.
 
 Fasal 34 membenarkan Lembaga, dengan kelulusan Menteri, untuk menubuhkan dan mendapatkan apa-apa perbadanan yang ditubuhkan di bawah Akta Syarikat 1965 [Akta 125] dan Akta Syarikat Amanah 1949 [Akta 100] yang perlu bagi maksud mendapatkan dana, dengan syarat bahawa perbadanan yang ditubuhkan atau didapatkan oleh Lembaga dilarang daripada menubuhkan subsidiari perbadanan.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 8. Bahagian VII Akta yang dicadangkan memperkatakan peruntukan am.
 
@@ -1066,7 +1066,7 @@ Fasal 42 bertujuan untuk mengadakan peruntukan mengenai kesahan perbuatan yang d
 
 Fasal 43 bertujuan untuk mengadakan peruntukan mengenai kuasa untuk membuat peraturan-peraturan.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 9. Bahagian VIII Akta yang dicadangkan mengadakan peruntukan pemansuhan, kecualian dan peralihan.
 

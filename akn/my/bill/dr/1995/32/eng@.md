@@ -34,13 +34,19 @@ to as the "principal Act", is amended in section 4—
 
 ' "unanimous resolution" means a resolution which is passed at a duly convened general meeting of a management corporation of which at least twenty one days' notice specifying the proposed resolution has been given and against which no vote is cast.'.
 
-Amendment
+<!-- marginal: Amendment -->
 
-3. Subsection 6(1) of the principal Act is amended by of section 6 substituting for the words ", but only into parcels to be held as accessory parcels" the words "into parcels to be held'under strata titles or into accessory parcels".
+3. Subsection 6(1) of the principal Act is amended by
 
-Amendment
+<!-- marginal: of section 6 -->
 
-4. Section 7 of the principal Act is amended— of section 7
+substituting for the words ", but only into parcels to be held as accessory parcels" the words "into parcels to be held'under strata titles or into accessory parcels".
+
+<!-- marginal: Amendment -->
+
+4. Section 7 of the principal Act is amended—
+
+<!-- marginal: of section 7 -->
 
 (a) by renumbering the existing section as subsection (l);and
 
@@ -50,9 +56,11 @@ Amendment
 
 (3) For the purposes of subsections (1) and (2), an application may be made notwithstanding that the building has not yet been certified by the local authority to be fit for occupation or use.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-5. Section 9 of the principal Act is amended— of section 9.
+5. Section 9 of the principal Act is amended—
+
+<!-- marginal: of section 9. -->
 
 (a) in subsection (1)—
 
@@ -76,7 +84,11 @@ Amendment
 
 <!-- marginal: of section 10. -->
 
-(a) in subsection (1)— (i) by inserting after the word "building" the words "and any approved amendments thereto" in subparagraph (b)(i); and (ii) by inserting after paragraph (ca) the following paragraph: "(cb) in a case where the land is held under qualified title as specified in subsection (2) of section 7, the certified plan of the land as approved by the Director of Survey, to be submitted in triplicate;";
+(a) in subsection (1)—
+
+(i) by inserting after the word "building" the words "and any approved amendments thereto" in subparagraph (b)(i); and
+
+(ii) by inserting after paragraph (ca) the following paragraph: "(cb) in a case where the land is held under qualified title as specified in subsection (2) of section 7, the certified plan of the land as approved by the Director of Survey, to be submitted in triplicate;";
 
 (b) by substituting for subsection (8) the following subsection:
 
@@ -98,21 +110,35 @@ Amendment
 
 (b) where the building has not yet been certified fit for occupation or use, the . certificate has since been obtained and has been submitted by the applicant.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-7. Section 10A of the principal Act is amended— of section
+7. Section 10A of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 10A.
 
 (a) by substituting for the full stop at the end of subsection (1) a colon; and
 
-(b) by inserting after subsection (1) the following proviso: "Provided that no building or buildings having only one storey shall be included in the application for the issuance of a provisional strata title or titles for the provisional block or blocks.".
+(b) by inserting after subsection (1) the following
 
-Amendment
+<!-- marginal: proviso: -->
 
-8. Section 13 of the principal Act is amended— of section 13.
+"Provided that no building or buildings having only one storey shall be included in the application for the issuance of a provisional strata title or titles for the provisional block or blocks.".
 
-(a) in subsection (2)— (i) by deleting the word "and" at the end of paragraph (a); (ii) by substituting for the full stop at the end of paragraph (b) the words "; and"; and (iii) by inserting after paragraph (b) the following paragraph:
+<!-- marginal: Amendment -->
+
+8. Section 13 of the principal Act is amended—
+
+<!-- marginal: of section 13. -->
+
+(a) in subsection (2)—
+
+(i) by deleting the word "and" at the end of paragraph (a);
+
+(ii) by substituting for the full stop at the end of paragraph (b) the words "; and"; and
+
+(iii) by inserting after paragraph (b) the following paragraph:
 
 <!-- page 5 -->
 

@@ -111,7 +111,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/33/msa@/~cl_3",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perkataan \"the Banking and Financial Institutions Act 1989\" perkataan \"and the Money-Changing Act 1997,\". Pmdaan"
+        "@value": "dengan memasukkan selepas perkataan \"the Banking and Financial Institutions Act 1989\" perkataan \"and the Money-Changing Act 1997,\"."
       }
     },
     {
@@ -123,9 +123,9 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/33/msa@/~cl_4__para_b"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/33/msa@",
-      "schema:text": {
+      "schema:name": {
         "@language": "ms",
-        "@value": "Perenggan 34(1)(b) Akta ibu adalah dipinda — seksyen 34."
+        "@value": "Perenggan 34(1)(b) Akta ibu adalah dipinda —"
       }
     },
     {
@@ -145,7 +145,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/33/msa@/~cl_4",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perkataan \"Banking and Financial Institutions Act 1989\" perkataan \"and the Money-Changing Act 1997\". Pindaan"
+        "@value": "dengan memasukkan selepas perkataan \"Banking and Financial Institutions Act 1989\" perkataan \"and the Money-Changing Act 1997\"."
       }
     },
     {
@@ -157,9 +157,9 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/33/msa@/~cl_5__para_b"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/33/msa@",
-      "schema:text": {
+      "schema:name": {
         "@language": "ms",
-        "@value": "Subperenggan 37(l)(e)(ii) Akta ibu adalah dipinda — seksyen 37."
+        "@value": "Subperenggan 37(l)(e)(ii) Akta ibu adalah dipinda —"
       }
     },
     {

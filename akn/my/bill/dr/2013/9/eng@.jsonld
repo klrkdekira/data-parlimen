@@ -1,0 +1,601 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-9-2013",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_33"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Penal Code (Amendment) Bill 2013"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Penal Code (Amendment) Act 2013. New sections 52a and 52b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Code is amended in section 176 by inserting after the words “may extend to two thousand ringgit or with both” the words “and in relation to offences under Chapter VIb, with imprisonment for a term which may extend to seven years, or with fine, or with both”. New section 203a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Code is amended by inserting after section 203 the following section: “Disclosure of information 203a. (1) Whoever discloses any information or matter which has been obtained by him in the performance of his duties or the exercise of his functions under any written law shall be punished with fine of not more than one million ringgit, or with imprisonment for a term which may extend to one year, or with both. (2) Whoever has any information or matter which to his knowledge has been disclosed in contravention of subsection (1) who discloses that information or matter to any other person shall be punished with fine of not more than one million ringgit, or with imprisonment for a term which may extend to one year, or with both.”. Amendment of section 223"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_12__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_12__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Code is amended in section 223—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by inserting after the word “servant” the words “and facilitating or enabling any terrorist act, etc.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing section as subsection (1); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_12__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the renumbered subsection (1) the following subsection: “(2) Whoever commits an offence under subsection (1) to facilitate or enable any terrorist act or organized criminal activity shall be punished with imprisonment for a term of twice as long as the maximum term for which he would have been liable on conviction for that offence, and shall also be liable to whipping.”. Amendment of section 320"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Code is amended in paragraph 320(h), by substituting for the words “twenty days” the words “ten days”. Amendment of section 322"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Code is amended in section 322 in the illustration, by substituting for the words “twenty days” the words “ten days”. Amendment of section 324"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_15__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Code is amended in section 324—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “cause death,” the words “or any scheduled weapon as specified under the Corrosive and Explosive Substances and Offensive Weapons Act 1958,”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “three years” the words “ten years”. Amendment of section 326"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Code is amended in section 326 by inserting after the words “cause death,” the words “or any scheduled weapon as specified under the Corrosive and Explosive Substances and Offensive Weapons Act 1958,”. New section 326a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Code is amended by inserting after section 326 the following section: “Punishment for causing hurt by spouse 326a. Whoever, during the subsistence of a valid marriage, causes hurt to his spouse and commits an offence under section 323, 324, 325, 326, 334 or 335 shall be punished with imprisonment for a term of twice as long as the maximum term for which he would have been liable on conviction for that offence under the relevant section.”. New section 352a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Code is amended by inserting after section 352 the following section: “Punishment for using criminal force by spouse 352a. Whoever, during the subsistence of a valid marriage, assaults or uses criminal force on his spouse shall be punished with imprisonment for a term which may extend to six months, or with fine which may extend to two thousand ringgit, or with both.”. New section 375b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Code is amended by inserting after section 375a the following section: “Gang rape 375b. Whoever commits gang rape shall be punished with imprisonment for a term of not less than ten years and not more than thirty years. Explanation – Where a woman is raped by one or more in a group of persons acting in furtherance of their common intention, each of the persons shall be deemed to have committed gang rape within the meaning of this section.”. Amendment of section 376"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Penal Code [Act 574], which is referred to as the “Code” in this Act, is amended by inserting after section 52 the following sections: ‘ “Non-serious offence” 52a. The words “non-serious offence” denote an offence punishable with imprisonment for a term of not more than ten years. “Serious offence” 52b. The words “serious offence” denote an offence punishable with imprisonment for a term of ten years or more.’. New section 75a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_20__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_20__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_20__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_20__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Code is amended in subsection 376(2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_20__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the word “or” at the end of paragraph (f);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_20__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the comma at the end of paragraph (g) a semi colon;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_20__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (g) the following paragraphs: “ (h) when by reason or on occasion of the rape, the woman becomes insane; (i) when he knows that he is afflicted with the Human Immuno-Deficiency Virus (HIV)/Acquired Immune Deficiency Syndrome (AIDS) or any other sexually transmissible disease and the virus or disease is or may be transmitted to the woman; (j) when by reason or on occasion of the rape, the woman commits suicide; or (k) when he knew of the mental disability, emotional disorder or physical handicap of the woman at the time of the commission of the crime,”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_20__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “five years” the words “ten years”. Amendment of section 376b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Code is amended in subsection 376b(1) by substituting for the words “not less than six years and not more than twenty years” the words “not less than ten years and not more than thirty years”. Amendment of section 377ca"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Code is amended in section 377ca by substituting for the words “which may extend to twenty years” the words “of not less than five years and not more than thirty years”. Amendment of section 377e"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Code is amended in section 377e by substituting for the words “which may extend to five years” the words “of not less than three years and not more than fifteen years”. New section 411a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Code is amended by inserting after section 411 the following section: “Receiving benefit derived from criminal activities of organized criminal group 411a. (1) Whoever receives from an organized criminal group a benefit that is derived from the criminal activities of the organized criminal group shall be punished with imprisonment for a term which may extend to six years if the person— (a) knows that it is an organized criminal group; and (b) knows or is reckless as to whether the benefit is derived from criminal activities of the organized criminal group. (2) For the purpose of this section, a benefit derived from the criminal activities of an organized criminal group is a benefit derived or realized or substantially derived or realized directly or indirectly from criminal activities of an organized criminal group.”. Amendment of section 426"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Code is amended in section 426 by substituting for the words “three months” the words “five years”. Amendment of section 427"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Code is amended in section 427 by substituting for the words “which may extend to two years” the words “of not less than one year and not more than five years”. Amendment of section 428"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_27__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_27__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Code is amended in section 428—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_27__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words “of the value of five ringgit or upwards”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_27__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “two years” the words “three years”. Deletion of section 429"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Code is amended by deleting section 429. Amendment of section 430"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Code is amended in section 430 by substituting for the words “which may extend to five years” the words “of not less than five years and not more than thirty years”. Amendment of section 430a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Code is amended by inserting after section 75 the following"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "“Punishment of mandatory imprisonment for persons convicted of multiple serious offences 75a. Whoever, having been convicted at least two times of a serious offence and was punished with at least two years of imprisonment for each of those convictions, shall be punished with mandatory imprisonment for the third and subsequent offences and the term of imprisonment shall not be less than double the term of the longer term of imprisonment imposed for the previous convictions.”. Amendment of section 107"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_30__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_30__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_30__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Code is amended in section 430a—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_30__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the words “railway engine, train, etc.” the words “any public transportation”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_30__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “or” appearing before the word “truck” a comma; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_30__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “truck” the words “or any form of public transportation”. Amendment of section 435"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Code is amended in section 435 by substituting for the words “seven years” the words “fourteen years”. Amendment of section 436"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Code is amended in section 436 by inserting after the words “custody of property” the words “or any government facility”. New section 440a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Code is amended by inserting after section 440 the following section: “Vandalism 440a. Whoever without the written authority of the Government or of any statutory body in the case of public property, or without the written consent of the owner or occupier in the case of private property— (a) writes, draws, sprays, paints, marks, scribbles, scratches or inscribes on any public property or private property any word, slogan, caricature, drawing, mark, symbol or other thing; (b) affixes, posts-up, exhibits or displays on any public property or private property any poster, placard, advertisement, bill, notice, paper or other document; or (c) hangs, fastens, suspends, hoists, affixes, exhibits or displays on or from any public property or private property any flag, bunting, standard, banner or the like with any word, slogan, caricature, drawing, mark, symbol or other thing, commits “vandalism” and shall be punished with imprisonment for a term which may extend to three years.”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Code is amended in section 107 by inserting after Explanation 2 the following explanation and illustration: “Explanation 3 - Whoever masterminds the doing of an act is said to command the doing of that act. ILLUSTRATION A, the head of an organized criminal group B, masterminds C and D to kidnap E. A is guilty of abetment.”. New section 121e"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Code is amended by inserting after section 121d the following section: “Destruction, etc. of national emblem 121e. (1) Whoever mutilates, defaces, physically defiles, burns, maintains on the floor or ground, tramples on, desecrates, destroys, insults or questions with the intention of dishonouring any national emblem or flag of a foreign nation shall be punished with imprisonment for a term of not less than five years and not more than fifteen years, and shall also be liable to fine. (2) Whoever uses, recognizes or promotes the use of any flag that purports to represent Malaysia other than the flag specified as the Malaysian flag under the Schedule to the Emblems and Names (Prevention of Improper Use) Act 1963 [Act 414], or any State in Malaysia other than the flag provided for under the relevant legislation of each State, shall be punished with imprisonment for a term of not less than five years and not more than fifteen years, and shall also be liable to fine. (3) For the purpose of this section, “national emblem” has the meaning assigned under the National Emblems (Control of Display) Act 1949 [Act 193].”. New section 130qa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Code is amended by inserting after section 130q the following section: “Accepting gratification to facilitate or enable terrorist acts 130qa. Whoever accepts gratification to facilitate or enable the commission of any terrorist act shall be punished— (a) if the act results in death, with death; and (b) in any other case, with imprisonment for a term of not less than seven years but not exceeding thirty years, and shall also be liable to fine.”. Amendment of section 130u"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Code is amended in section 130u by deleting the definition of “serious offence”. Amendment of section 130v"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_8__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_8__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Code is amended in section 130v—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing section as subsection (1);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words “which may extend to five years” the words “of not less than five years and not more than twenty years”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_8__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the renumbered subsection (1) the following subsection: “(2) Until the contrary is proved, a person shall be presumed to be a member of an organized criminal group where— (a) such person can be identified as belonging to an organized criminal group; or (b) such person is found with a scheduled weapon as specified under the Corrosive and Explosive Substances and Offensive Weapons Act 1958 [Act 357].”. New sections 130x, 130y, 130z, 130za, 130zb and 130zc"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2013/9/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Code is amended by inserting after section 130w the following sections: “Harbouring member of an organized criminal group 130x. Whoever harbours, or prevents, hinders or interferes with the arrest of a member of an organized criminal group shall be punished with imprisonment for a term which may extend to five years, and shall also be liable to fine. Consorting with an organized criminal group 130y. Whoever without reasonable excuse, consorts with a member of an organized criminal group shall be punished with imprisonment for a term of not less than five years and not more than twenty years, and shall also be liable to fine. Recruiting persons to be members of an organized criminal group 130z. Whoever knowingly recruits, or agrees to recruit, another person to be a member of an organized criminal group shall be punished with imprisonment for a term which may extend to ten years, and shall also be liable to fine. Participation in an organized criminal group 130za. Whoever participates in an organized criminal group— (a) knowing or having reason to believe that it is an organized criminal group; and (b) knowing, or having reason to believe that, or being reckless as to whether, his participation in that group contributes to the occurrence of any criminal activity, shall be punished with imprisonment for a term which may extend to ten years, and shall also be liable to fine. Accepting gratification to facilitate or enable organized criminal activity 130zb. Whoever accepts gratification to facilitate or enable any organized criminal activity shall be punished— (a) if the act results in death, with death; and (b) in any other case, with imprisonment for a term of not less than seven years but not exceeding thirty years, and shall also be liable to fine. Enhanced penalties for offences committed by an organized criminal group or member of an organized criminal group 130zc. (1) Any organized criminal group or a member of an organized criminal group convicted of any serious offence under this Code or under any written law shall be punished with imprisonment for a term of twice as long as the maximum term for which he would have been liable on conviction for that offence, and shall also be liable to whipping. (2) Any organized criminal group or a member of an organized criminal group convicted of any non-serious offence under this Code or under any written law shall be punished with imprisonment for a term of not less than two years and not more than twice as long as the maximum term for which he would have been liable on conviction for that offence, and shall also be liable to whipping.”. Amendment of section 176"
+      }
+    }
+  ]
+}

@@ -22,7 +22,11 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (a) trading, under a discretionary authority or otherwise granted under an agreement with any other person or persons, in futures contracts for the benefit of such other person who is a party or persons who are parties to the agreement, on the basis that any money, property or interest acquired by such party or parties to such agreement may not be used or employed in common with any money, property or interest of any other person under like circumstances;
 
-(b) offering to any person for subscription, or inviting any person to subscribe for interests to which Division 5 of Part IV Act 125. of the Companies Act 1965 applies where any of the money raised is intended to be applied in relation to trading in futures contracts; or
+(b) offering to any person for subscription, or inviting any person to subscribe for interests to which Division 5 of Part IV
+
+<!-- marginal: Act 125. -->
+
+of the Companies Act 1965 applies where any of the money raised is intended to be applied in relation to trading in futures contracts; or
 
 (c) offering to any person for subscription, or inviting any person to subscribe for interests entitling such person to participate as a beneficiary under a trust in profits or income which comprise or include profits or income arising from trading in futures contracts, but does not include an act that a person does—
 
@@ -30,11 +34,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (bb) as employee or agent of, or otherwise on behalf of, on account of, or for the benefit of, the other person; and
 
-(cc) in connection with a futures
-
-<!-- marginal: fund -->
-
-management business carried on by the other person;'.
+(cc) in connection with a futures fund management business carried on by the other person;'.
 
 <!-- page 3 -->
 
@@ -156,7 +156,9 @@ New sections 52c, 52D, 52E, 52F and 52G
 
 (b) any other institution appointed or authorised by the client of a futures fund manager;
 
-"trust account" means a current, deposit or property account which contains in its title the words "Trust Account/Clients" maintained in accordance with section 52D.
+"trust account" means a current, deposit or property account which contains in its title the words "Trust Account/Clients" maintained in accordance with section
+
+52D.
 
 52D. (1) Subject to section 52G, a futures fund manager shall open a trust account for his client's money or property and shall make arrangements for a custodian to maintain such trust account.
 

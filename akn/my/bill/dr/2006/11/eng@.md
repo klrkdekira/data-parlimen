@@ -334,7 +334,7 @@ Provided that the Chief Judge may, after consultation with the Bar Council, exte
 
 ### Provided that the number of members from paragraph
 
-### (3)(c) may be increased accordingly if the provisions
+(3)(c) may be increased accordingly if the provisions
 
 ### of subsection (4A) or (4c) applies in order to maintain
 
@@ -588,7 +588,9 @@ appointed from the Diciplinary Committee Panel.
 
 <!-- page 20 -->
 
-(2) For the purposes of any investigation under subsection (1) the Disciplinary Committee may —
+(2) For the purposes of any investigation under subsection
+
+(1) the Disciplinary Committee may —
 
 (a) require the production for inspection by the Disciplinary Committee of any book, document or paper which may relate to or be connected with the subject matter of the investigation and may require any person to give information in relation to such book, document or paper;
 

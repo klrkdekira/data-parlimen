@@ -234,9 +234,7 @@ pendawaian persendirian, kontraktor elektrik, kontraktor perkhidmatan elektrik, 
 
 8. Seksyen 8 Akta ibu dipinda—
 
-(a) dengan memotong perkataan “atau” di hujung perenggan
-
-(c);
+(a) dengan memotong perkataan “atau” di hujung perenggan (c);
 
 (b) dengan memasukkan selepas perenggan (c) perenggan yang berikut: “
 
@@ -604,7 +602,7 @@ dan
 
 26. Akta ibu dipinda dengan memasukkan selepas seksyen 33 Bahagian yang berikut:
 
-“bahagian VIIa
+## “BAHAGIAN VIIA
 
 ## KESELAMATAN PEPASANGAN DAN KELENGKAPAN
 
@@ -894,7 +892,7 @@ dalam masa yang dinyatakan dalam tawaran itu, atau apa- apa pelanjutan masa yang
 
 33. Akta ibu dipinda dengan memasukkan selepas seksyen 44a Bahagian yang berikut:
 
-“bahagian IXa
+## “BAHAGIAN IXA
 
 ## KUMPULAN WANG INDUSTRI ELEKTRIK
 
@@ -1002,7 +1000,7 @@ melakukan suatu kesalahan.
 
 37. Subseksyen 48(1) Akta ibu dipinda dengan memasukkan selepas perkataan “di bawah Akta ini” perkataan “, yang diperuntukkan dalam kod yang berkaitan yang dikeluarkan di bawah Akta ini”.
 
-### Seksyen baru 50a, 50b, 50c, 50d, 50e dan 50f
+## SEKSYEN BARU 50A, 50B, 50C, 50D, 50E DAN 50F
 
 38. Akta ibu dipinda dengan memasukkan selepas seksyen 50 seksyen yang berikut:
 
@@ -1222,9 +1220,7 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Bekalan Elektrik 1990 (“Ak
 
 4. Fasal 3 bertujuan untuk meminda seksyen 2 Akta 447 untuk memasukkan takrif baru dan meminda takrif yang sedia ada dalam Akta 447. Antara takrif baru yang dimasukkan ialah—
 
-(a) “komunikasi” merujuk kepada talian bekalan elektrik yang boleh digunakan bagi maksud komunikasi. Ini untuk membenarkan talian bekalan elektrik digunakan bagi maksud komunikasi sebagai contoh Jalur Lebar pada Talian Kuasa (BPL) atau Komunikasi Talian Kuasa
-
-(PLC). Pada masa ini Akta ini melarang talian bekalan elektrik daripada digunakan bagi isyarat atau komunikasi;
+(a) “komunikasi” merujuk kepada talian bekalan elektrik yang boleh digunakan bagi maksud komunikasi. Ini untuk membenarkan talian bekalan elektrik digunakan bagi maksud komunikasi sebagai contoh Jalur Lebar pada Talian Kuasa (BPL) atau Komunikasi Talian Kuasa (PLC). Pada masa ini Akta ini melarang talian bekalan elektrik daripada digunakan bagi isyarat atau komunikasi;
 
 (b) “mengasingkan” merujuk kepada pengasingan kedudukan dan fungsi Pengendali Sistem dan Pembeli Tunggal daripada pemegang lesen bagi persaingan dan ketelusan yang berkesan. Ini bagi memastikan bahawa Pembeli Tunggal dan Pengendali Sistem bertindak secara bebas;
 

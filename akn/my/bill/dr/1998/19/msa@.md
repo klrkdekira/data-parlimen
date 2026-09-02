@@ -52,9 +52,13 @@ adalah dipinda dalam subseksyen 2(1) dalam takrif "perkhidmatan kewangan luar pe
 
 (f) mana-mana orang di bawah mana-mana undang-undang sebagaimana yang ditetapkan oleh Menteri dalam Warta, atas syor Lembaga.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Seksyen 4 Akta ibu adalah dipinda dengan seksyen 4. memasukkan selepas subseksyen (3) subseksyen yang berikut:
+3. Seksyen 4 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 4. -->
+
+memasukkan selepas subseksyen (3) subseksyen yang berikut:
 
 "(4) Lembaga boleh, dengan kelulusan bertulis Menteri, menubuhkan atau mengambil bahagian dalam mana-mana pertubuhan perbadanan—
 
@@ -98,17 +102,31 @@ Pesisir Labuan (Pindaan)
 
 seksyen 18 seksyen yang berikut:
 
-Penubuhan
+<!-- marginal: Penubuhan -->
 
-18A. (1) Lembaga boleh, dengan kelulusan tabung bertulis Menteri, dengan menggunakan wang kebajikan Lembaga, menubuhkan dan menyenggara suatu kakitangan. akaun amanah yang dikenali sebagai "Tabung Kebajikan Kakitangan Lembaga Perkhidmatan Kewangan Luar Pesisir Labuan" bagi faedah pegawai dan pekerjanya termasuk tanggungan mereka.
+18A. (1) Lembaga boleh, dengan kelulusan
+
+<!-- marginal: tabung -->
+
+bertulis Menteri, dengan menggunakan wang
+
+<!-- marginal: kebajikan -->
+
+Lembaga, menubuhkan dan menyenggara suatu
+
+<!-- marginal: kakitangan. -->
+
+akaun amanah yang dikenali sebagai "Tabung Kebajikan Kakitangan Lembaga Perkhidmatan Kewangan Luar Pesisir Labuan" bagi faedah pegawai dan pekerjanya termasuk tanggungan mereka.
 
 <!-- page 4 -->
 
 (2) Tabung Kebajikan Kakitangan Lembaga Perkhidmatan Kewangan Luar Pesisir Labuan hendaklah digunakan bagi maksud yang sesuai dengan kebajikan pegawai dan pekerja Lembaga, termasuk tanggungan mereka, sebagaimana yang dari semasa ke semasa diperuntukkan dalam arahan-arahan amanah yang dikeluarkan oleh Lembaga dengan kelulusan Menteri, dan arahan- arahan tersebut boleh memperuntukkan cara dan tatacara bagi pembuatan pemberian, pinjaman atau bayaran lain daripada Tabung itu.".
 
-Bahagian
+<!-- marginal: Bahagian -->
 
-5. Akta ibu adalah dipinda dengan memasukkan selepas baru 11A.
+5. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru 11A. -->
 
 ## Bahagian II Bahagian yang berikut:
 
@@ -116,15 +134,29 @@ Bahagian
 
 ## PENYERAHAN DAN PEMELIHARAAN MAKLUMAT
 
-Tafsiran
+<!-- marginal: Tafsiran -->
 
-28A. Dalam Bahagian ini, melainkan jika berhubung konteksnya menghendaki makna yang lain— dengan
+28A. Dalam Bahagian ini, melainkan jika
+
+<!-- marginal: berhubung -->
+
+konteksnya menghendaki makna yang lain—
+
+<!-- marginal: dengan -->
 
 ## Bahagian 11A.
 
-"agensi penguat kuasa undang-undang tempatan" ertinya Polis Diraja Malaysia seperti Akta 344. yang ditafsirkan dalam Akta Polis 1967;
+"agensi penguat kuasa undang-undang tempatan" ertinya Polis Diraja Malaysia seperti
 
-"bank luar pesisir berlesen" mempunyai erti Akta 443. yang diberikan kepadanya dalam Akta Bank Luar Pesisir 1990;
+<!-- marginal: Akta 344. -->
+
+yang ditafsirkan dalam Akta Polis 1967;
+
+"bank luar pesisir berlesen" mempunyai erti
+
+<!-- marginal: Akta 443. -->
+
+yang diberikan kepadanya dalam Akta Bank Luar Pesisir 1990;
 
 "institusi kewangan" ertinya sesuatu bank luar pesisir berlesen, pemegang lesen, syarikat amanah atau pengurus kumpulan wang;
 
@@ -140,25 +172,33 @@ Pesisir Labuan (Pindaan)
 
 perkhidmatan kewangan luar pesisir, jika kesalahan itu boleh dihukum dengan hukuman pemenjaraan;
 
-Akta 574.
+<!-- marginal: Akta 574. -->
 
 (b) Kanun Keseksaan;
 
-Akta 234.
+<!-- marginal: Akta 234. -->
 
 (c) Akta Dadah Berbahaya 1952;
 
-Akta 340.
+<!-- marginal: Akta 340. -->
 
 (d) Akta Dadah Berbahaya (Perlucuthakan Harta) 1988; atau
 
-### Akta 365.
+<!-- marginal: Akta 365. -->
 
 (e) Akta Penculikan 1961;
 
-"pemegang lesen" mempunyai erti yang Akla 444. diberikan kepadanya dalam Akta Insurans Luar Pesisir 1990;
+"pemegang lesen" mempunyai erti yang
 
-"pengurus kumpulan wang" ertinya seseorang Akta 579. pengurus seperti yang ditafsirkan dalam Akta Perindustrian Sekuriti Luar Pesisir Labuan 1998;
+<!-- marginal: Akla 444. -->
+
+diberikan kepadanya dalam Akta Insurans Luar Pesisir 1990;
+
+"pengurus kumpulan wang" ertinya seseorang
+
+<!-- marginal: Akta 579. -->
+
+pengurus seperti yang ditafsirkan dalam Akta Perindustrian Sekuriti Luar Pesisir Labuan 1998;
 
 "penyimpan" ertinya mana-mana orang yang. telah meletakkan simpanan atau menyimpan sejumlah wang dalam bank luar pesisir berlesen;
 
@@ -166,23 +206,29 @@ Akta 340.
 
 "pihak berkuasa kewangan negara asal" mempunyai erti yang diberikan kepadanya dalam
 
-### Akta 443.
+<!-- marginal: Akta 443. -->
 
 Akta Bank Luar Pesisir 1990, dan terrnasuk Bank;
 
 "pihak berkuasa pengawalseliaan tempatan" ertinya mana-mana badan atau pihak berkuasa yang bertanggungjawab untuk mengawal selia seseorang pemegang lesen dalam mana-mana negara;
 
-"syarikat amanah" mempunyai erti yang diberikan kepadanya dalam Akta Syarikat Akta 442. Amanah Labuan 1990.
+"syarikat amanah" mempunyai erti yang diberikan kepadanya dalam Akta Syarikat
+
+<!-- marginal: Akta 442. -->
+
+Amanah Labuan 1990.
 
 <!-- page 6 -->
 
-Penyerahan
+<!-- marginal: Penyerahan -->
 
-28B. (1) Lembaga boleh, dalam menjalankan maklumat. fungsi pengawasannya di bawah Akta ini atau di bawah mana-mana undang-undang lain yang berhubungan dengan perkhidmatan kewangan luar pesisir, menghendaki mana-mana institusi kewangan atau mana-mana perbadanan yang ada kaitan dengan mana-mana institusi kewangan supaya menyerahkan kepada Lembaga apa-apa maklumat yang disifatkan oleh Lembaga perlu atau suaimanfaat bagi pelaksanaan fungsi pengawasan itu, tetapi Lembaga tidak boleh menghendaki apa-apa maklumat yang mendedahkan hal ehwal, identiti atau akaun seseorang pelanggan mana-mana institusi atau perbadanan sedemikian.
+28B. (1) Lembaga boleh, dalam menjalankan
 
-(2) Lembaga boleh mendedahkan apa-apa maklumat yang diserahkan di bawah subseksyen
+<!-- marginal: maklumat. -->
 
-(1)-
+fungsi pengawasannya di bawah Akta ini atau di bawah mana-mana undang-undang lain yang berhubungan dengan perkhidmatan kewangan luar pesisir, menghendaki mana-mana institusi kewangan atau mana-mana perbadanan yang ada kaitan dengan mana-mana institusi kewangan supaya menyerahkan kepada Lembaga apa-apa maklumat yang disifatkan oleh Lembaga perlu atau suaimanfaat bagi pelaksanaan fungsi pengawasan itu, tetapi Lembaga tidak boleh menghendaki apa-apa maklumat yang mendedahkan hal ehwal, identiti atau akaun seseorang pelanggan mana-mana institusi atau perbadanan sedemikian.
+
+(2) Lembaga boleh mendedahkan apa-apa maklumat yang diserahkan di bawah subseksyen (1)-
 
 (a) kepada mana-mana orang dalam cara digabungkan atau dikumpulkan sekiranya difikirkannya patut untuk berbuat demikian tetapi pendedahan itu hendaklah terbatas kepada mana-mana maklumat yang tidak berkaitan dengan sesuatu institusi individu; atau
 
@@ -258,15 +304,39 @@ atau dokumen yang pada pengetahuannya telah didedahkan dengan melanggar subseksy
 
 (11) Mana-mana orang yang tidak merahsiakan maklumat sebagaimana yang dikehendaki di bawah subseksyen (6) adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua- duanya.
 
-Pemerik- 28c. (1) Ketua Pengarah atau mana-mana orang saan. yang diberi kuasa oleh Lembaga boleh memeriksa dan menyiasat, tertakluk kepada syarat kerahsiaan, mana-mana institusi kewangan atau mana-mana perbadanan yang berkaitan dengan mana-mana institusi kewangan bagi maksud menentusahkan maklumat yang diserahkan di bawah subseksyen 28B(1), (3) dan
+<!-- marginal: Pemerik- -->
+
+28c. (1) Ketua Pengarah atau mana-mana orang
+
+<!-- marginal: saan. -->
+
+yang diberi kuasa oleh Lembaga boleh memeriksa dan menyiasat, tertakluk kepada syarat kerahsiaan, mana-mana institusi kewangan atau mana-mana perbadanan yang berkaitan dengan mana-mana institusi kewangan bagi maksud menentusahkan maklumat yang diserahkan di bawah subseksyen 28B(1), (3) dan
 
 (4).
 
 (2) Jika terdapat percanggahan antara peruntukan seksyen ini dengan peruntukan mana- mana undang-undang lain yang berhubungan dengan perkhidmatan kewangan luar pesisir, peruntukan seksyen ini hendaklah mengatasi.
 
-Pelantikan
+<!-- marginal: Pelantikan -->
 
-28D. (1) Bagi maksud menjalankan penyiasatan pegawai apa-apa kesalahan di bawah Akta ini atau di penyiasat, kuasa, bawah mana-mana undang-undang lain yang fungsi dan berhubungan dengan perkhidmatan kewangan kewajipan. luar pesisir, Lembaga boleh melantik, melalui surat cara bertulis, mana-mana pegawai atau pekerja Lembaga atau mana-mana orang lain yang sesuai untuk menjadi pegawai penyiasat.
+28D. (1) Bagi maksud menjalankan penyiasatan
+
+<!-- marginal: pegawai -->
+
+apa-apa kesalahan di bawah Akta ini atau di
+
+<!-- marginal: penyiasat, -->
+
+<!-- marginal: kuasa, -->
+
+bawah mana-mana undang-undang lain yang
+
+<!-- marginal: fungsi dan -->
+
+berhubungan dengan perkhidmatan kewangan
+
+<!-- marginal: kewajipan. -->
+
+luar pesisir, Lembaga boleh melantik, melalui surat cara bertulis, mana-mana pegawai atau pekerja Lembaga atau mana-mana orang lain yang sesuai untuk menjadi pegawai penyiasat.
 
 (2) Tertakluk kepada subseksyen (3), seseorang pegawai penyiasat yang dilantik di bawah subseksyen (1) hendaklah mempunyai semua kuasa, fungsi dan kewajipan yang
 
@@ -296,9 +366,11 @@ mengendalikan sumpah atau ikrar terhadap orang yang disiasat.
 
 (6) Mana-mana orang yang menghalang mana-mana pegawai penyiasat daripada menjalankan kewajipannya di bawah Akta ini adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua- duanya.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-6. Subseksyen 29(2) Akta ibu adalah dipinda— seksyen 29.
+6. Subseksyen 29(2) Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 29. -->
 
 (a) dalam perenggan (d)—
 
@@ -312,15 +384,33 @@ Pindaan
 
 (ii) dengan memasukkan selepas perkataan "undang-undang" perkataan "lain yang".
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
 7. Akta ibu adalah dipinda dengan memasukkan selepas
 
 32A. seksyen 32 seksyen yang berikut:
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-32A. Walau apa pun mana-mana peruntukan di untuk bawah mana-mana undang-undang lain yang mengena- kan dan berhubungan dengan perkhidmatan kewangan memungut luar pesisir, Lembaga boleh, dengan kelulusan fi. Menteri, melalui perintah yang disiarkan dalam Warta, mengenakan dan memungut apa-apa fi bagi apa-apa perkhidmatan yang diberikan oleh atau bagi pihak Lembaga di bawah Akta ini atau mana-mana undang-undang lain yang berhubungan dengan perkhidmatan kewangan luar pesisir dan bagi pemberian atau pengeluaran
+32A. Walau apa pun mana-mana peruntukan di
+
+<!-- marginal: untuk -->
+
+bawah mana-mana undang-undang lain yang
+
+<!-- marginal: mengena- -->
+
+<!-- marginal: kan dan -->
+
+berhubungan dengan perkhidmatan kewangan
+
+<!-- marginal: memungut -->
+
+luar pesisir, Lembaga boleh, dengan kelulusan
+
+<!-- marginal: fi. -->
+
+Menteri, melalui perintah yang disiarkan dalam Warta, mengenakan dan memungut apa-apa fi bagi apa-apa perkhidmatan yang diberikan oleh atau bagi pihak Lembaga di bawah Akta ini atau mana-mana undang-undang lain yang berhubungan dengan perkhidmatan kewangan luar pesisir dan bagi pemberian atau pengeluaran
 
 <!-- page 13 -->
 
@@ -358,9 +448,17 @@ mana-mana ahli, pegawai atau pekerja Lembaga yang telah diterima masuk sebagai p
 
 <!-- page 14 -->
 
-Peng-
+<!-- marginal: Peng- -->
 
-36B. (1) Ketua Pengarah boleh, dengan kompaunan persetujuan bertulis Pendakwa Raya, dalam kesalahan. sesuatu kes jika dia berfikir sesuai dan layak berbuat demikian, mengkompaunkan apa-apa kesalahan yang dilakukan oleh mana-mana orang yang boleh dihukum di bawah Akta ini dengan membuat suatu tawaran bertulis kepada orang itu untuk mengkompaunkan kesalahan itu apabila dibayar kepada Ketua Pengarah, dalam masa yang ditentukan dalam tawaran itu, suatu amaun yang tidak melebihi lima puluh peratus daripada amaun denda maksimum yang boleh dikenakan ke atas orang itu jika dia disabitkan atas kesalahan itu.
+36B. (1) Ketua Pengarah boleh, dengan
+
+<!-- marginal: kompaunan -->
+
+persetujuan bertulis Pendakwa Raya, dalam
+
+<!-- marginal: kesalahan. -->
+
+sesuatu kes jika dia berfikir sesuai dan layak berbuat demikian, mengkompaunkan apa-apa kesalahan yang dilakukan oleh mana-mana orang yang boleh dihukum di bawah Akta ini dengan membuat suatu tawaran bertulis kepada orang itu untuk mengkompaunkan kesalahan itu apabila dibayar kepada Ketua Pengarah, dalam masa yang ditentukan dalam tawaran itu, suatu amaun yang tidak melebihi lima puluh peratus daripada amaun denda maksimum yang boleh dikenakan ke atas orang itu jika dia disabitkan atas kesalahan itu.
 
 (2), Sesuatu tawaran di bawah subseksyen (1) boleh dibuat pada bila-bila masa selepas kesalahan itu dilakukan, tetapi sebelum apa- apa pendakwaan baginya dimulakan.
 
@@ -368,13 +466,33 @@ Peng-
 
 (4) Jika sesuatu kesalahan telah di- kompaunkan di bawah subseksyen (1), tiada pendakwaan boleh selepas itu dimulakan berkenaan dengan kesalahan itu terhadap orang yang kepadanya tawaran untuk meng- kompaunkan kesalahan itu dibuat.
 
-Tanggungan 36c. Jika mana-mana kesalahan terhadap mana- pengarah, mana peruntukan Akta ini telah dilakukan oleh pegawai, pengawal, mana-mana institusi kewangan luar pesisir, dsb. mana-mana orang yang pada masa pelakuan kesalahan itu adalah seorang pengarah, pegawai, atau pengawal, dalam institusi kewangan luar pesisir itu atau berupa sebagai bertindak dalam
+<!-- marginal: Tanggungan -->
+
+36c. Jika mana-mana kesalahan terhadap mana-
+
+<!-- marginal: pengarah, -->
+
+mana peruntukan Akta ini telah dilakukan oleh
+
+<!-- marginal: pegawai, -->
+
+<!-- marginal: pengawal, -->
+
+mana-mana institusi kewangan luar pesisir,
+
+<!-- marginal: dsb. -->
+
+mana-mana orang yang pada masa pelakuan kesalahan itu adalah seorang pengarah, pegawai, atau pengawal, dalam institusi kewangan luar pesisir itu atau berupa sebagai bertindak dalam
 
 <!-- page 15 -->
 
 Pesisir Labuan (Pindaan)
 
-mana-mana sifat sedemikian, atau telah dengan apa-apa cara sehingga apa-apa takat bertanggungjawab tentang pengurusan mana- mana hal ehwal institusi kewangan luar pesisir itu, atau telah membantu dalam pengurusan sedemikian adalah melakukan kesalahan itu melainkan jika dia membuktikan bahawa kesalahan itu telah dilakukan tanpa dipersetujui atau dibiarkan olehnya dan bahawa dia telah menjalankan segala usaha untuk mencegah pelakuan kesalahan itu sebagaimana yang patut dijalankan olehnya, dengan memberikan perhatian kepada jenis fungsinya atas sifat itu dan segala hal keadaan.".
+mana-mana sifat sedemikian, atau telah dengan apa-apa cara sehingga apa-apa
+
+<!-- marginal: takat -->
+
+bertanggungjawab tentang pengurusan mana- mana hal ehwal institusi kewangan luar pesisir itu, atau telah membantu dalam pengurusan sedemikian adalah melakukan kesalahan itu melainkan jika dia membuktikan bahawa kesalahan itu telah dilakukan tanpa dipersetujui atau dibiarkan olehnya dan bahawa dia telah menjalankan segala usaha untuk mencegah pelakuan kesalahan itu sebagaimana yang patut dijalankan olehnya, dengan memberikan perhatian kepada jenis fungsinya atas sifat itu dan segala hal keadaan.".
 
 ## HURAIAN
 

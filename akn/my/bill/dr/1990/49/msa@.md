@@ -14,7 +14,7 @@
 
 34
 
-## TAMBAHAN
+<!-- marginal: TAMBAHAN -->
 
 26 27hb Disember 1990 No.8
 
@@ -42,11 +42,21 @@ Suatu Akta bagi menubuhkan Kumpulan Wang Amanah Pencen dan bagi membuat peruntuk
 
 oleh Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan Dewan Negara dan Dewan Rakyat yang bersidang dalam Parlimen, dan dengan kuasa daripadanya, seperti berikut:
 
-Tajuk
+<!-- marginal: Tajuk -->
 
-1. Akta ini bolehlah dinamakan Akta Kumpulan Wang ringkas Amanah Pencen 1990 dan hendaklah mula berkuatkuasa dan mula berkuatkuasa. pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
+1. Akta ini bolehlah dinamakan Akta Kumpulan Wang
 
-Tafsiran.
+<!-- marginal: ringkas -->
+
+Amanah Pencen 1990 dan hendaklah mula berkuatkuasa
+
+<!-- marginal: dan mula -->
+
+<!-- marginal: berkuatkuasa. -->
+
+pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
+
+<!-- marginal: Tafsiran. -->
 
 2. Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—
 
@@ -54,7 +64,11 @@ Tafsiran.
 
 "Majlis" ertinya Majlis Kumpulan Wang Amanah Pencen yang ditubuhkan di bawah seksyen 4;
 
-"Menteri" ertinya Menteri yang sedang dipertanggungkan dengan tanggungjawab bagi kewangan;
+"Menteri" ertinya Menteri yang
+
+<!-- marginal: sedang -->
+
+dipertanggungkan dengan tanggungjawab bagi kewangan;
 
 "Panel" ertinya Panel Pelaburan Kumpulan Wang Amanah Pencen yang ditubuhkan di bawah seksyen 5;
 
@@ -64,17 +78,45 @@ Tafsiran.
 
 "sekuriti" termasuklah saham, wang, syer dan bon, dan debentur dan lain-lain suratcara yang mewujudkan atau membuktikan suatu gadaian atau lien pada aset.
 
-Kumpulan
+<!-- marginal: Kumpulan -->
 
-3. (1) Maka adalah dengan ini ditubuhkan suatu Wang kumpulan wang yang dikenali sebagai Kumpulan Wang Amanah Pencen. Amanah Pencen yang hendaklah dinyatakan dalam dan Akta 61. dimasukkan ke dalam Jadual Kedua kepada Akta Prosedur Kewangan 1957.
+3. (1) Maka adalah dengan ini ditubuhkan suatu
+
+<!-- marginal: Wang -->
+
+kumpulan wang yang dikenali sebagai Kumpulan Wang
+
+<!-- marginal: Amanah -->
+
+<!-- marginal: Pencen. -->
+
+Amanah Pencen yang hendaklah dinyatakan dalam dan
+
+<!-- marginal: Akta 61. -->
+
+dimasukkan ke dalam Jadual Kedua kepada Akta Prosedur Kewangan 1957.
 
 (2) Kumpulan Wang hendaklah ditadbirkan oleh Majlis Kumpulan Wang Amanah Pencen.
 
 (3) Akauntan Negara Malaysia hendaklah ber- tanggungjawab atas pentadbiran dan pengurusan hari ke hari hal-ehwal Kumpulan Wang.
 
-Majlis
+<!-- marginal: Majlis -->
 
-4. (1) Maka adalah dengan ini ditubuhkan suatu Majlis Kumpulan pemegang amanah yang dikenali sebagai Majlis Wang Amanah Kumpulan Wane Amanah Pencen. Pencen. (2) Pemegang-pemegang amanah hendaklah dilantik oleh Menteri dan hendaklah terdiri daripada—
+4. (1) Maka adalah dengan ini ditubuhkan suatu Majlis
+
+<!-- marginal: Kumpulan -->
+
+pemegang amanah yang dikenali sebagai Majlis
+
+<!-- marginal: Wang -->
+
+<!-- marginal: Amanah -->
+
+Kumpulan Wane Amanah Pencen.
+
+<!-- marginal: Pencen. -->
+
+(2) Pemegang-pemegang amanah hendaklah dilantik oleh Menteri dan hendaklah terdiri daripada—
 
 (a) seorang Pengerusi yang hendaklah merupakan Ketua Setiausaha Kementerian Kewangan;
 
@@ -98,9 +140,17 @@ Majlis
 
 sebagaimana yang ditetapkan dari masa ke semasa oleh Menteri dan boleh melalui suratcara bertulis mewakilkan kepada mana-mana orang segala atau mana-mana kuasa dan tugas itu.
 
-Penubuhan
+<!-- marginal: Penubuhan -->
 
-5. (1) Maka hendaklah ditubuhkan suatu Panel Pelaburan Panel yang bertanggungjawab bagi perkara-perkara berhubung Pelaburan. dengan pelaburan aset-aset Kumpulan Wang itu di mana ia adalah bertanggungjawab kepada Menteri.
+5. (1) Maka hendaklah ditubuhkan suatu Panel Pelaburan
+
+<!-- marginal: Panel -->
+
+yang bertanggungjawab bagi perkara-perkara berhubung
+
+<!-- marginal: Pelaburan. -->
+
+dengan pelaburan aset-aset Kumpulan Wang itu di mana ia adalah bertanggungjawab kepada Menteri.
 
 (2) Panel Pelaburan hendaklah terdiri daripada—
 
@@ -112,21 +162,55 @@ Penubuhan
 
 (d) tiga orang anggota lain yang berpengalaman dalam perniagaan atau kewangan yang dilantik oleh Menteri.
 
-Peruntukan
+<!-- marginal: Peruntukan -->
 
 6. Peruntukan-peruntukan Jadual Pertama hendaklah
 
 ## Jadual
 
-berkuatkuasa berkenaan dengan Majlis dan Panel Pertama terpakai. Pelaburan.
+berkuatkuasa berkenaan dengan Majlis dan Panel
 
-Perkhidmat
+<!-- marginal: Pertama -->
 
-7. Semua anggota Majlis dan Panel Pelaburan hendaklah awam. disifatkan sebagai perkhidmat awam dalam erti Kanun F.M.S. Cap.45. Keseksaan.
+<!-- marginal: terpakai. -->
 
-Wang-wang
+Pelaburan.
 
-8. Walau apa pun peruntukan-peruntukan yang relevan yang dike- dalam Akta Prosedur Kewangan 1957, maka hendaklah hendaki dibayar dari semasa ke semasa ke dalam Kumpulan dibayar ke dalam Wang— Kumpulan Wang.
+<!-- marginal: Perkhidmat -->
+
+7. Semua anggota Majlis dan Panel Pelaburan hendaklah
+
+<!-- marginal: awam. -->
+
+disifatkan sebagai perkhidmat awam dalam erti Kanun
+
+<!-- marginal: F.M.S. -->
+
+<!-- marginal: Cap.45. -->
+
+Keseksaan.
+
+<!-- marginal: Wang-wang -->
+
+8. Walau apa pun peruntukan-peruntukan yang relevan
+
+<!-- marginal: yang dike- -->
+
+dalam Akta Prosedur Kewangan 1957, maka hendaklah
+
+<!-- marginal: hendaki -->
+
+dibayar dari semasa ke semasa ke dalam Kumpulan
+
+<!-- marginal: dibayar ke -->
+
+<!-- marginal: dalam -->
+
+Wang—
+
+<!-- marginal: Kumpulan -->
+
+<!-- marginal: Wang. -->
 
 (a) wang yang diuntukkan daripada Kumpulan Wang Persekutuan Disatukan kepada dan bagi maksud- maksud Kumpulan Wang;
 
@@ -136,21 +220,45 @@ Wang-wang
 
 ## RANG UNDANG-UNDANG
 
-Akta Kumpulan Wang di bawah seksyen 56 Akta Kumpulan Wang Simpanan Pekerja 1990;
+<!-- marginal: Akta -->
 
-(c) segala caruman bulanan yang dibuat oleh majikan dan pertubuhan kepada Kumpulan Wang Akta 239. Disatukan di bawah seksyen 8 Akta Pencen Pihak- Pihak Berkuasa Berkanun dan Tempatan 1980;
+Kumpulan Wang di bawah seksyen 56 Akta Kumpulan Wang Simpanan Pekerja 1990;
+
+(c) segala caruman bulanan yang dibuat oleh majikan dan pertubuhan kepada Kumpulan Wang
+
+<!-- marginal: Akta 239. -->
+
+Disatukan di bawah seksyen 8 Akta Pencen Pihak- Pihak Berkuasa Berkanun dan Tempatan 1980;
 
 (d) segala wang yang didapati atau terbit daripada apa-apa pelaburan Kumpulan Wang; dan
 
 (e) segala wang daripada apa-apa sumber lain yang diluluskan oleh Menteri.
 
-Penggunaan
+<!-- marginal: Penggunaan -->
 
-9. Menteri boleh, dari masa ke semasa, membenarkan wang wang yang ada dalam kredit Kumpulan Wang, selepas Kumpulan Wang. tarikh mula berkuatkuasanya Akta ini, digunakan bagi memenuhi, sama ada sepenuh atau sebahagiannya, kos pembayaran pencen, ganjaran atau lain-lain faedah yang diberikan di bawah mana-mana undang-undang bertulis kepada pegawai-pegawai perkhidmatan awam dan pekerja-pekerja Pihak-pihak berkuasa berkanun dan tempatan.
+9. Menteri boleh, dari masa ke semasa, membenarkan
 
-Pelaburan
+<!-- marginal: wang -->
 
-10. (1) Panel boleh melaburkan wang yang ada dalam wang kredit Kumpulan Wang— Kumpulan Wang.
+wang yang ada dalam kredit Kumpulan Wang, selepas
+
+<!-- marginal: Kumpulan -->
+
+<!-- marginal: Wang. -->
+
+tarikh mula berkuatkuasanya Akta ini, digunakan bagi memenuhi, sama ada sepenuh atau sebahagiannya, kos pembayaran pencen, ganjaran atau lain-lain faedah yang diberikan di bawah mana-mana undang-undang bertulis kepada pegawai-pegawai perkhidmatan awam dan pekerja-pekerja Pihak-pihak berkuasa berkanun dan tempatan.
+
+<!-- marginal: Pelaburan -->
+
+10. (1) Panel boleh melaburkan wang yang ada dalam
+
+<!-- marginal: wang -->
+
+kredit Kumpulan Wang—
+
+<!-- marginal: Kumpulan -->
+
+<!-- marginal: Wang. -->
 
 (a) sebagai deposit di mana-mana bank, di dalam atau di luar Malaysia, dalam apa-apa matawang termasuk ringgit;
 
@@ -176,23 +284,49 @@ Pelaburan
 
 (4) Pelaburan-pelaburan yang disebut dalam perenggan (1) (e) tidaklah boleh pada bila-bila masa melebihi lima peratus daripada aset boleh lupus Kumpulan Wang.
 
-Fee
+<!-- marginal: Fee -->
 
-11. Apa-apa kos, perbelanjaan atau lain-lain pembayaran pentadbiran. yang secara langsung boleh dikaitkan dengan pentadbiran Kumpulan Wang hendaklah dipertanggungkan kepada Kumpulan Wang.
+11. Apa-apa kos, perbelanjaan atau lain-lain pembayaran
 
-Kuasa
+<!-- marginal: pentadbiran. -->
 
-12. (1) Menteri boleh memberi kepada Majlis apa-apa Menteri arahan bersifat am yang tidak tak konsisten dengan berhubungan dengan peruntukan-peruntukan Akta ini yang ada hubungan Majlis. dengan penjalanan dan pelaksanaan fungsi-fungsinya dan Majlis hendaklah melaksanakan segala arahan itu.
+yang secara langsung boleh dikaitkan dengan pentadbiran Kumpulan Wang hendaklah dipertanggungkan kepada Kumpulan Wang.
+
+<!-- marginal: Kuasa -->
+
+12. (1) Menteri boleh memberi kepada Majlis apa-apa
+
+<!-- marginal: Menteri -->
+
+arahan bersifat am yang tidak tak konsisten dengan
+
+<!-- marginal: berhubungan -->
+
+<!-- marginal: dengan -->
+
+peruntukan-peruntukan Akta ini yang ada hubungan
+
+<!-- marginal: Majlis. -->
+
+dengan penjalanan dan pelaksanaan fungsi-fungsinya dan Majlis hendaklah melaksanakan segala arahan itu.
 
 (2) Majlis hendaklah memberi kepada Menteri apa-apa penyata, akaun dan lain-lain maklumat berkenaan dengan aset dan aktiviti Kumpulan Wang sebagaimana yang dikehendakinya dari semasa ke semasa.
 
-Tahun
+<!-- marginal: Tahun -->
 
-13. Bagi maksud-maksud Akta ini, tahun kewangan kewangan. Kumpulan Wang hendaklah bermula pada 1hb Januari dan berakhir pada 31hb Disember bagi setiap tahun.
+13. Bagi maksud-maksud Akta ini, tahun kewangan
 
-Akaun dan
+<!-- marginal: kewangan. -->
 
-14. (1) Majlis hendaklah menyimpan atau menyebabkan audit. disimpan akaun dan lain-lain rekod yang sempurna berkenaan dengan perjalanan Kumpulan Wang dan hendaklah menyediakan penyata-penyata akaun berkenaan dengan setiap tahun kewangan.
+Kumpulan Wang hendaklah bermula pada 1hb Januari dan berakhir pada 31hb Disember bagi setiap tahun.
+
+<!-- marginal: Akaun dan -->
+
+14. (1) Majlis hendaklah menyimpan atau menyebabkan
+
+<!-- marginal: audit. -->
+
+disimpan akaun dan lain-lain rekod yang sempurna berkenaan dengan perjalanan Kumpulan Wang dan hendaklah menyediakan penyata-penyata akaun berkenaan dengan setiap tahun kewangan.
 
 <!-- page 7 -->
 
@@ -202,25 +336,89 @@ Akaun dan
 
 (3) Pada akhir setiap tahun kewangan dan sebaik sahaja akaun Kumpulan Wang telah diauditkan, Majlis hendaklah menyebabkan satu salinan penyata akaun itu dikemukakan kepada Menteri, berserta dengan satu salinan pemerhatian yang dibuat oleh Ketua Audit Negara atas mana-mana penyata akaun atau atas akaun-akaun amnya.
 
-Laporan
+<!-- marginal: Laporan -->
 
-15. Majlis hendaklah, tidak lewat daripada tiga puluh tahunan. haribulan April dalam setiap tahun, menyebabkan dibuat dan dikemukakan kepada Menteri suatu laporan mengenai pelaburan-pelaburan Kumpulan Wang di sepanjang tahun kewangan yang terdahulu dan mengandungi apa-apa maklumat yang berhubungan dengan prosiding dan polisi Majlis sebagaimana yang diarahkan oleh Menteri dari semasa ke semasa.
+15. Majlis hendaklah, tidak lewat daripada tiga puluh
 
-Akaun teraudit
+<!-- marginal: tahunan. -->
 
-16. Menteri hendaklah menyebabkan satu salinan akaun dan laporan teraudit tahunan di bawah sekysen 12 dan laporan tahunan tahunan hendaklah di bawah seksyen 13 yang diterima olehnya dibentangkan dibentangkan dalam setiap Majlis Parlimen. dalam Parlimen. Kuasa
+haribulan April dalam setiap tahun, menyebabkan dibuat dan dikemukakan kepada Menteri suatu laporan mengenai pelaburan-pelaburan Kumpulan Wang di sepanjang tahun kewangan yang terdahulu dan mengandungi apa-apa maklumat yang berhubungan dengan prosiding dan polisi Majlis sebagaimana yang diarahkan oleh Menteri dari semasa ke semasa.
 
-17. Menteri boleh membuat peraturan-peraturan bagi membuat melaksanakan dengan lebih baik lagi peruntukan- peraturan- peraturan. peruntukan Akta ini.
+<!-- marginal: Akaun teraudit -->
 
-Peruntukan-
+16. Menteri hendaklah menyebabkan satu salinan akaun
 
-18. Kecuali sebagaimana yang diperuntukkan selainnya peruntukan dalam Akta ini, peruntukan-peruntukan Akta Prosedur Akta Prosedur Kewangan Kewangan 1957 dan peraturan-peraturan yang dibuat dan 1957 hendak- arahan-arahan yang dikeluarkan di bawahnya hendaklah lah terpakai. terpakai bagi Kumpulan Wang.
+<!-- marginal: dan laporan -->
+
+teraudit tahunan di bawah sekysen 12 dan laporan tahunan
+
+<!-- marginal: tahunan -->
+
+<!-- marginal: hendaklah -->
+
+di bawah seksyen 13 yang diterima olehnya dibentangkan
+
+<!-- marginal: dibentangkan -->
+
+dalam setiap Majlis Parlimen.
+
+<!-- marginal: dalam -->
+
+<!-- marginal: Parlimen. -->
+
+<!-- marginal: Kuasa -->
+
+17. Menteri boleh membuat peraturan-peraturan bagi
+
+<!-- marginal: membuat -->
+
+melaksanakan dengan lebih baik lagi peruntukan-
+
+<!-- marginal: peraturan- -->
+
+<!-- marginal: peraturan. -->
+
+peruntukan Akta ini.
+
+<!-- marginal: Peruntukan- -->
+
+18. Kecuali sebagaimana yang diperuntukkan selainnya
+
+<!-- marginal: peruntukan -->
+
+dalam Akta ini, peruntukan-peruntukan Akta Prosedur
+
+<!-- marginal: Akta Prosedur -->
+
+<!-- marginal: Kewangan -->
+
+Kewangan 1957 dan peraturan-peraturan yang dibuat dan
+
+<!-- marginal: 1957 hendak- -->
+
+arahan-arahan yang dikeluarkan di bawahnya hendaklah
+
+<!-- marginal: lah terpakai. -->
+
+terpakai bagi Kumpulan Wang.
 
 ## JADUAL PERTAMA
 
-[Seksyen 6] Perlantikan,
+[Seksyen 6]
 
-14. (1) Tertakluk kepada apa-apa syarat yang dinyatakan dalam pembatalan suratcara perlantikannya, seseorang anggota Majlis dan Panel dan perletakan jawatan. Pelaburan, hendaklah memegang jawatan selama tempoh yang tidak melebihi tiga tahun dan adalah layak dilantik semula.
+<!-- marginal: Perlantikan, -->
+
+14. (1) Tertakluk kepada apa-apa syarat yang dinyatakan dalam
+
+<!-- marginal: pembatalan -->
+
+suratcara perlantikannya, seseorang anggota Majlis dan Panel
+
+<!-- marginal: dan perletakan -->
+
+<!-- marginal: jawatan. -->
+
+Pelaburan, hendaklah memegang jawatan selama tempoh yang tidak melebihi tiga tahun dan adalah layak dilantik semula.
 
 <!-- page 8 -->
 
@@ -230,19 +428,17 @@ Peruntukan-
 
 (4) Tiap-tiap anggota hendaklah menumpukan masa kepada urusan Majlis dan Panel Pelaburan sebanyak yang perlu bagi menunaikan kewajipan-kewajipannya dengan berkesan.
 
-Pengosongan
+<!-- marginal: Pengosongan -->
 
-2. (1) Jawatan seseorang anggota Majlis dan Panel Pelaburan jawatan. hendaklah menjadi kosong—
+2. (1) Jawatan seseorang anggota Majlis dan Panel Pelaburan
+
+<!-- marginal: jawatan. -->
+
+hendaklah menjadi kosong—
 
 (a) jika dia mati;
 
-(b) jika telah dibuktikan terhadapnya, atau jika dia telah disabitkan atas, sesuatu pertuduhan berkenaan dengan—
-
-(i) kesalahan yang melibatkan fraud, kecurangan atau keburukan akhlak;
-
-(ii) kesalahan di bawah mana-mana undang-undang yang berhubungan dengan rasuah; atau
-
-(iii) apa-apa kesalahan lain yang boleh dihukum dengan pemenjaraan (sama ada pemenjaraan sahaja atau sebagai tambahan kepada denda atau sebagai ganti dendal selama lebih daripada dua tahun:
+(b) jika telah dibuktikan terhadapnya, atau jika dia telah disabitkan atas, sesuatu pertuduhan berkenaan dengan— (i) kesalahan yang melibatkan fraud, kecurangan atau keburukan akhlak; (ii) kesalahan di bawah mana-mana undang-undang yang berhubungan dengan rasuah; atau (iii) apa-apa kesalahan lain yang boleh dihukum dengan pemenjaraan (sama ada pemenjaraan sahaja atau sebagai tambahan kepada denda atau sebagai ganti dendal selama lebih daripada dua tahun:
 
 (c) jika dia menjadi bankrap;
 
@@ -256,15 +452,17 @@ Pengosongan
 
 (2) Jika mana-mana orang terhenti menjadi anggota oleh sebab mana-mana peruntukan Akta ini, seorang lain hendaklah dilantik untuk menggantikannya mengikut peruntukan-peruntukan yang berkenaan.
 
-Saraan atau
+<!-- marginal: Saraan atau -->
 
-3. Maka hendaklah dibayar kepada anggota-anggota Majlis dan elaun Panel pelaburan apa-apa saraan atau elaun sebagaimana yang ditentukan oleh Menteri.
+3. Maka hendaklah dibayar kepada anggota-anggota Majlis dan
 
-Mesyuarat.
+<!-- marginal: elaun -->
 
-4. (1) Majlis dan Panel Pelaburan hendaklah bermesyuarat sebagaimana dan apabila dikehendaki.
+Panel pelaburan apa-apa saraan atau elaun sebagaimana yang ditentukan oleh Menteri.
 
-(2) Pengerusi dan dua orang anggota lain Majlis atau Panel Pelaburan adalah mencukupi koram di sesuatu mesyuarat Majlis atau Panel Pelaburan itu.
+<!-- marginal: Mesyuarat. -->
+
+4. (1) Majlis dan Panel Pelaburan hendaklah bermesyuarat sebagaimana dan apabila dikehendaki. (2) Pengerusi dan dua orang anggota lain Majlis atau Panel Pelaburan adalah mencukupi koram di sesuatu mesyuarat Majlis atau Panel Pelaburan itu.
 
 <!-- page 9 -->
 
@@ -272,15 +470,39 @@ Mesyuarat.
 
 (3) Tertakluk kepada peruntukan-peruntukan Akta ini, Majlis dan Panel Pelaburan hendaklah menetapkan prosedurnya sendiri.
 
-Panel
+<!-- marginal: Panel -->
 
-5. Panel Pelaburan boleh meminta mana-mana orang (yang bukan Pelaburan anggota Panel Pelaburan) menghadiri mana-mana mesyuarat atau boleh mengundang perbincangan Panel Pelaburan bagi maksud menasihatinya tentang orang lain mengadakan apa-apa perkara yang dibincangkan, tetapi mana-mana orang yang mesyuarat. hadir sedemikian tidak berhak mengundi dalam mesyuarat atau perbincangan itu.
+5. Panel Pelaburan boleh meminta mana-mana orang (yang bukan
 
-Penzahiran
+<!-- marginal: Pelaburan -->
 
-6. Jika seseorang anggota Majlis dan Panel Pelaburan ada kepentingan mempunyai apa-apa kepentingan kewangan dalam sesuatu skim, projek atau enterprais yang diusahakan atau disyorkan oleh Majlis dan Panel Pelaburan, anggota itu hendaklah dengan serta merta menyatakan kepada Menteri, secara bertulis bentuk dan takat kepentingannya dalam skim, projek atau enterprais itu dan apa-apa perubahan yang kemudiannya mengenai bentuk dan takat kepentingannya itu.
+anggota Panel Pelaburan) menghadiri mana-mana mesyuarat atau
 
-Minit.
+<!-- marginal: boleh -->
+
+<!-- marginal: mengundang -->
+
+perbincangan Panel Pelaburan bagi maksud menasihatinya tentang
+
+<!-- marginal: orang lain -->
+
+<!-- marginal: mengadakan -->
+
+apa-apa perkara yang dibincangkan, tetapi mana-mana orang yang
+
+<!-- marginal: mesyuarat. -->
+
+hadir sedemikian tidak berhak mengundi dalam mesyuarat atau perbincangan itu.
+
+<!-- marginal: Penzahiran -->
+
+6. Jika seseorang anggota Majlis dan Panel Pelaburan ada
+
+<!-- marginal: kepentingan -->
+
+mempunyai apa-apa kepentingan kewangan dalam sesuatu skim, projek atau enterprais yang diusahakan atau disyorkan oleh Majlis dan Panel Pelaburan, anggota itu hendaklah dengan serta merta menyatakan kepada Menteri, secara bertulis bentuk dan takat kepentingannya dalam skim, projek atau enterprais itu dan apa-apa perubahan yang kemudiannya mengenai bentuk dan takat kepentingannya itu.
+
+<!-- marginal: Minit. -->
 
 7. Majlis dan Panel Pelaburan hendaklah menyebabkan minit segala mesyuaratnya disenggara dan disimpan dalam bentuk yang sepatutnya.
 

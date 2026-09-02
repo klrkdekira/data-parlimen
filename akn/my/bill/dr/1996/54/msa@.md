@@ -40,7 +40,11 @@ luar pesisir" perkataan "atau perniagaan bank pelaburan luar pesisir, mengikut m
 
 (c) dengan memasukkan selepas takrif "bank Malaysia" takrif yang berikut:
 
-' "Bank Negara Malaysia" ertinya Bank Negara Malaysia yang Akta 519. ditubuhkan di bawah Akta Bank Negara Malaysia 1958;';
+' "Bank Negara Malaysia" ertinya Bank Negara Malaysia
+
+<!-- marginal: yang -->
+
+Akta 519. ditubuhkan di bawah Akta Bank Negara Malaysia 1958;';
 
 (d) dengan memasukkan selepas takrif "berkaitan" takrif yang berikut:
 
@@ -64,37 +68,17 @@ luar pesisir" perkataan "atau perniagaan bank pelaburan luar pesisir, mengikut m
 
 (b) perniagaan bank pelaburan luar pesisir;
 
-(c) perniagaan bank Islam, tertakluk kepada apa-apa terma dan syarat sebagaimana yang
+(c) perniagaan bank Islam, tertakluk kepada apa-apa terma dan syarat sebagaimana yang boleh ditentukan oleh Bank;
 
-<!-- marginal: boleh -->
+(d) perniagaan kredit bangunan, perniagaan tanda kredit, perniagaan pembiayaan pem- bangunan, perniagaan pemajakan atau perniagaan pemfaktoran; atau
 
-ditentukan oleh Bank;
-
-(d) perniagaan kredit bangunan, perniagaan tanda
-
-<!-- marginal: kredit, -->
-
-perniagaan pembiayaan pem- bangunan, perniagaan pemajakan atau perniagaan pemfaktoran; atau
-
-(e) apa-apa perniagaan
-
-<!-- marginal: lain -->
-
-sebagaimana yang
-
-<!-- marginal: boleh -->
-
-ditentukan oleh Bank dengan kelulusan Menteri,
+(e) apa-apa perniagaan lain sebagaimana yang boleh ditentukan oleh Bank dengan kelulusan Menteri,
 
 dalam apa-apa matawang selain daripada matawang Malaysia;';
 
 (g) dengan memasukkan selepas takrif "perbadanan" takrif yang berikut:
 
-' "perniagaan bank
-
-<!-- marginal: Islam" -->
-
-mempunyai erti yang diberikan
+' "perniagaan bank Islam" mempunyai erti yang diberikan
 
 ### Akta 276.
 
@@ -118,7 +102,11 @@ atau pembuatan dan pengurusan pelaburan bagi pihak mana-mana orang;
 
 dalam apa-apa matawang selain daripada matawang Malaysia;';
 
-"perniagaan kredit bangunan" mempunyai erti yang diberikan Akta 372. kepadanya dalam Akta Bank dan Institusi-Institusi Kewangan 1989;
+"perniagaan kredit bangunan" mempunyai erti yang diberikan
+
+<!-- marginal: Akta 372. -->
+
+kepadanya dalam Akta Bank dan Institusi-Institusi Kewangan 1989;
 
 "perniagaan pemajakan" mempunyai erti yang diberikan kepadanya dalam Akta Bank dan Institusi-Institusi Kewangan 1989;
 
@@ -130,9 +118,7 @@ dalam apa-apa matawang selain daripada matawang Malaysia;';
 
 <!-- page 5 -->
 
-Bank Luar Pesisir (Pindaan)
-
-<!-- marginal: 5 -->
+Bank Luar Pesisir (Pindaan) 5
 
 (i) dengan memasukkan selepas takrif "peserta" takrif yang berikut:
 
@@ -174,17 +160,21 @@ Bank Luar Pesisir (Pindaan)
 
 (c) dalam subperenggan menggantikan perkataan "suatu jaminan yang didapatkan, dan suatu akujanji yang diberikan," dengan perkataan "suatu akujanji yang diberikan".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-5. Seksyen 17 Akta ibu adalah dipinda— seksyen 17.
+5. Seksyen 17 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 17. -->
 
 (a) dalam subseksyen (1) dengan menggantikan perkataan "dua" dengan perkataan "empat"; dan
 
 (b) dengan memotong subseksyen (2).
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-6. Seksyen 18 Akta ibu adalah dipinda— seksyen 18.
+6. Seksyen 18 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 18. -->
 
 (a) dengan menggantikan subseksyen (1) dengan subseksyen yang berikut:
 
@@ -214,9 +204,13 @@ Bank Luar Pesisir (Pindaan) 7
 
 8 Rang Undang-Undang
 
-Penggantian
+<!-- marginal: Penggantian -->
 
-7. Akta ibu adalah dipinda dengan menggantikan seksyen seksyen 23 23 dengan seksyen yang berikut:
+7. Akta ibu adalah dipinda dengan menggantikan seksyen
+
+<!-- marginal: seksyen 23 -->
+
+23 dengan seksyen yang berikut:
 
 "Penentu- 40. (1) Bank atau pihak berkuasa kewangan sahan negara asal, jika diluluskan sedemikian oleh Bank penge- mukaan boleh dari semasa ke semasa memeriksa dan bank luar meneliti, di bawah syarat kerahsiaan, buku atau pesisir berlesen. dokumen, akaun dan transaksi lain mana-mana bank luar pesisir berlesen dan mana-mana pejabat di luar Malaysia sesuatu bank luar pesisir berlesen untuk maksud menentusahkan pengemukaan oleh bank luar pesisir berlesen itu di bawah seksyen 17 dan 18.
 
@@ -224,13 +218,25 @@ Penggantian
 
 (3) Tiada apa-apa jua dalam seksyen ini boleh membenarkan Bank, atau pihak berkuasa kewangan negara asal, menyiasat secara khusus identiti, akaun atau hal-ehwal mana-mana pelanggan tertentu bank luar pesisir berlesen itu.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-8. Subseksyen 25(4) Akta ibu adalah dipinda dengan seksyen 25. menggantikan perkataan "Kumpulan Wang Disatukan Persekutuan" dengan perkataan "Kumpulan Wang yang Akta 545. ditubuhkan di bawah seksyen 29 Akta Lembaga Perkhidmatan Kewangan Luar Pesisir Labuan 1996".
+8. Subseksyen 25(4) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 25. -->
 
-9. Subseksyen 26(2) Akta ibu adalah dipinda dengan seksyen 26. menggantikan perkataan "Timbalan Gabenor, pengarah dan mana-mana" dengan perkataan "Ketua Pengarah, dan mana-mana anggota, pegawai dan".
+menggantikan perkataan "Kumpulan Wang Disatukan Persekutuan" dengan perkataan "Kumpulan Wang yang
+
+<!-- marginal: Akta 545. -->
+
+ditubuhkan di bawah seksyen 29 Akta Lembaga Perkhidmatan Kewangan Luar Pesisir Labuan 1996".
+
+<!-- marginal: Pindaan -->
+
+9. Subseksyen 26(2) Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 26. -->
+
+menggantikan perkataan "Timbalan Gabenor, pengarah dan mana-mana" dengan perkataan "Ketua Pengarah, dan mana-mana anggota, pegawai dan".
 
 <!-- page 9 -->
 
@@ -248,7 +254,13 @@ seksyen 32 seksyen yang berikut:
 
 <!-- marginal: dan 35. -->
 
-"Peniaga 33. (1) Peruntukan-peruntukan— terkecuali. Akta 280.
+<!-- marginal: "Peniaga -->
+
+33. (1) Peruntukan-peruntukan—
+
+<!-- marginal: terkecuali. -->
+
+<!-- marginal: Akta 280. -->
 
 (a) subseksyen 12(1) Akta Perindustrian Sekuriti 1983 yang menghendaki seseorang yang menjalankan urusan berniaga sekuriti atau mengemukakan dirinya sebagai berniaga sekuriti supaya memegang suatu lesen peniaga di bawah
 
@@ -268,15 +280,63 @@ berniaga sekuriti.
 
 (2) Bagi mengelakkan apa-apa keraguan, adalah dengan ini diisytiharkan bahawa sesuatu bank luar pesisir berlesen adalah peniaga terkecuali di bawah Akta Perindustrian Sekuriti 1983.
 
-Akta 34. Peruntukan-peruntukan Akta Perindustrian Perindus- Sekuriti 1983 tidaklah terpakai bagi sesuatu trian Sekuriti transaksi yang melibatkan bank luar pesisir 1983 tidak berlesen yang berniaga sekuriti dengan atau terpakai dalam memberikan nasihat tentang sekuriti kepada atau keadaan laporan tentang sekuriti bagi bukan pemastautin tertentu. dan, dalam hal pemastautin, jika izin bertulis Bank Negara Malaysia telah diperolehi untuk
+<!-- marginal: Akta -->
+
+34. Peruntukan-peruntukan Akta Perindustrian
+
+<!-- marginal: Perindus- -->
+
+Sekuriti 1983 tidaklah terpakai bagi sesuatu
+
+<!-- marginal: trian -->
+
+<!-- marginal: Sekuriti -->
+
+transaksi yang melibatkan bank luar pesisir
+
+<!-- marginal: 1983 tidak -->
+
+berlesen yang berniaga sekuriti dengan atau
+
+<!-- marginal: terpakai -->
+
+<!-- marginal: dalam -->
+
+memberikan nasihat tentang sekuriti kepada atau
+
+<!-- marginal: keadaan -->
+
+laporan tentang sekuriti bagi bukan pemastautin
+
+<!-- marginal: tertentu. -->
+
+dan, dalam hal pemastautin, jika izin bertulis Bank Negara Malaysia telah diperolehi untuk
 
 <!-- page 10 -->
 
-Rang Undang-Undang 10
+Rang Undang-Undang
+
+<!-- marginal: 10 -->
 
 memperdapat pembiayaan atau untuk meminjam daripada sumber-sumber di luar Malaysia atau dari bank luar pesisir berlesen.
 
-Audit 35. (1) Sesuatu bank luar pesisir berlesen dalaman hendaklah melaksanakan suatu audit dalaman dan juruaudit ke atas buku dan dan operasinya sebagaimana dalaman. yang boleh ditentukan oleh Bank dari semasa ke semasa.
+<!-- marginal: Audit -->
+
+35. (1) Sesuatu bank luar pesisir berlesen
+
+<!-- marginal: dalaman -->
+
+hendaklah melaksanakan suatu audit dalaman
+
+<!-- marginal: dan -->
+
+<!-- marginal: juruaudit -->
+
+ke atas buku dan dan operasinya sebagaimana
+
+<!-- marginal: dalaman. -->
+
+yang boleh ditentukan oleh Bank dari semasa ke semasa.
 
 (2) Bagi maksud seksyen ini, audit dalaman sesuatu bank luar pesisir berlesen hendaklah dijalankan oleh pegawai diberikuasa—
 

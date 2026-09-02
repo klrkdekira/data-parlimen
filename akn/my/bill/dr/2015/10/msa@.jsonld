@@ -1,0 +1,2335 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-10-2015",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-undang Pencegahan Keganasan 2015"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERMULAAN Tajuk ringkas dan permulaan kuat kuasa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "KUASA PENANGKAPAN DAN REMAN Penangkapan dan pengemukaan di hadapan Majistret"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_12"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "SIASATAN Lembaga Pencegahan Keganasan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10__subsec_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila mana-mana orang dibawa di hadapan seorang Pegawai Siasatan di bawah seksyen 5, Pegawai Siasatan itu hendaklah menyiasat dan melapor secara bertulis kepada Lembaga sama ada terdapat alasan yang munasabah bagi mempercayai bahawa orang itu terlibat dengan perbuatan melakukan atau menyokong perbuatan keganasan yang melibatkan organisasi pengganas tersenarai di sesuatu negara asing atau di mana-mana bahagian sesuatu negara asing."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Siasatan yang diadakan di bawah subseksyen (1) hendaklah diadakan dengan cara dan mengikut tatacara yang diarahkan oleh Lembaga."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10__subsec_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10__subsec_3__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10__subsec_3__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pegawai Siasatan boleh, bagi maksud mana-mana siasatan di bawah Akta ini—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mendapatkan dan menerima segala keterangan, dalam apa-apa bentuk dan sama ada keterangan itu boleh diterima atau tidak boleh diterima di bawah mana-mana undang-undang bertulis yang sedang berkuat kuasa yang berhubungan dengan keterangan atau tatacara jenayah, yang difikirkannya perlu atau wajar;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memanggil dan memeriksa saksi atas sumpah atau ikrar, dan boleh bagi maksud itu mengendalikan apa-apa sumpah atau ikrar;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menghendaki pengemukaan apa-apa dokumen atau benda lain yang pada pendapatnya berkaitan dengan siasatan itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10__subsec_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika didapatinya perlu demi kepentingan awam atau untuk melindungi saksi atau keluarganya atau rakannya, menerima keterangan tanpa kehadiran orang yang menjadi subjek siasatan itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10__subsec_3__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memberi apa-apa arahan yang perlu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud perenggan (3)(d), jika apa-apa keterangan diterima tanpa kehadiran orang yang menjadi subjek siasatan itu, Pegawai Siasatan hendaklah memberitahu orang itu mengenai isi keterangan itu, setakat yang didapatinya selaras dengan kepentingan awam atau keperluan untuk melindungi saksi atau keluarganya atau rakannya untuk berbuat sedemikian, dan hendaklah dalam tiap- tiap kes sedemikian memasukkan dalam mana-mana laporan yang dibuat di bawah perenggan 12(2)(a) suatu pernyataan mengenai hal keadaan yang keterangan itu telah diterima."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang dipanggil sebagai saksi di bawah subseksyen (3) yang tanpa alasan yang munasabah tidak hadir pada masa dan di tempat yang disebut dalam saman itu atau yang, setelah hadir, enggan menjawab mana-mana soalan yang dikemukakan kepadanya dengan sah atau mengemukakan apa-apa dokumen atau benda yang ada dalam kuasanya untuk dikemukakan, melakukan suatu kesalahan dan hendaklah dihukum dengan pemenjaraan selama tempoh tidak melebihi enam bulan atau denda tidak melebihi dua ribu ringgit atau kedua-duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Orang yang menjadi subjek siasatan itu dan saksi dalam suatu siasatan tidak boleh diwakili oleh peguam bela dan peguam cara dalam siasatan itu kecuali apabila keterangannya sendiri sedang diambil dan direkodkan oleh Pegawai Siasatan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pendakwa Raya boleh hadir dalam sesuatu siasatan untuk membantu Pegawai Siasatan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh melalui peraturan-peraturan menetapkan elaun yang kena dibayar kepada saksi yang dipanggil di bawah subseksyen (3). Akses oleh Pegawai Siasatan kepada orang tahanan atau banduan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_11__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_11__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_11__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun mana-mana undang-undang bertulis yang lain, seseorang Pegawai Siasatan yang menjalankan suatu siasatan di bawah Akta ini hendaklah dibenarkan mempunyai akses kepada mana-mana orang yang dia mempunyai sebab untuk mempercayai ada kaitan dengan atau mempunyai apa-apa keterangan mengenai mana-mana kesalahan yang orang itu—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_11__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sedang ditahan di bawah mana-mana undang-undang bertulis yang lain; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_11__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "berada dalam kurungan di penjara, sama ada disabitkan atau tidak."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada apa jua dalam seksyen ini boleh memberi kuasa subjek siasatan atau peguam bela dan peguam caranya atau wakilnya, jika ada, hadir di tempat tahanan atau penjara. Laporan Pegawai Siasatan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_12__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pegawai Siasatan hendaklah mengemukakan laporannya secara bertulis kepada Lembaga dalam tempoh yang ditetapkan oleh Menteri melalui peraturan-peraturan yang dibuat di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_12__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_12__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila laporan di bawah subseksyen (1) diterima—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_12__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_12__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika Lembaga bersetuju dengan Pegawai Siasatan bahawa terdapat alasan yang munasabah untuk mempercayai bahawa orang yang menjadi subjek siasatan terlibat dengan perbuatan melakukan atau menyokong perbuatan keganasan yang melibatkan organisasi pengganas tersenarai di sesuatu negara asing atau di mana-mana bahagian sesuatu negara asing, Lembaga hendaklah meneruskan tindakan di bawah seksyen 13;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_12__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_12__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika Lembaga bersetuju dengan Pegawai Siasatan bahawa tidak ada alasan yang munasabah untuk mempercayai bahawa orang yang menjadi subjek siasatan terlibat dengan perbuatan melakukan atau menyokong perbuatan keganasan yang melibatkan organisasi pengganas tersenarai di sesuatu negara asing atau di mana-mana bahagian sesuatu negara asing, Lembaga hendaklah dengan segera mengarahkan mana-mana orang yang mempunyai jagaan ke atas orang itu, dalam masa dua puluh empat jam dari penerimaan arahan itu, untuk membawa orang itu di hadapan Hakim Mahkamah Sesyen, yang hendaklah dengan itu melepaskan perintah reman yang dibuat di bawah seksyen 4 dan, jika tidak ada alasan lain yang berdasarkannya orang itu ditahan dengan sah, hendaklah memerintahkan pelepasannya dengan serta-merta."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_8__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_8__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_8__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_8__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_8__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_8__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_8__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_8__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_8__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu Lembaga Pencegahan Keganasan ditubuhkan yang terdiri daripada anggota yang berikut yang dilantik oleh Yang di-Pertuan Agong:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_8__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seorang Pengerusi, yang hendaklah seseorang yang berkelayakan undang-undang dengan pengalaman sekurang-kurangnya lima belas tahun dalam bidang undang-undang;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_8__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seorang Timbalan Pengerusi; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_8__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tidak kurang daripada tiga dan tidak lebih daripada enam anggota lain."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiap-tiap anggota Lembaga hendaklah, melainkan jika dia meletakkan jawatan terlebih dahulu, memegang jawatan selama suatu tempoh yang tidak melebihi tiga tahun dan layak untuk dilantik semula sekali sahaja selama tempoh tiga tahun lagi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_8__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiap-tiap anggota Lembaga boleh pada bila-bila masa meletakkan jawatannya dengan memberikan notis bertulis kepada Yang di-Pertuan Agong."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_8__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pelantikan mana-mana anggota Lembaga boleh pada bila- bila masa dibatalkan oleh Yang di-Pertuan Agong."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_8__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kuorum bagi mana-mana persidangan Lembaga adalah tiga anggota."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_8__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada Akta ini, Lembaga hendaklah menentukan tatacaranya sendiri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_8__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiap-tiap anggota Lembaga hendaklah disifatkan sebagai seorang pekhidmat awam mengikut pengertian Kanun Keseksaan. Pelantikan Pegawai Siasatan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_9__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh secara bertulis melantik mana-mana orang mengikut nama atau jawatan, dan sama ada secara am atau bagi mana-mana kes tertentu, sebagai Pegawai Siasatan bagi maksud Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada seorang pun pegawai polis boleh dilantik sebagai Pegawai Siasatan. Kewajipan dan kuasa Pegawai Siasatan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_3__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_3__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang pegawai polis boleh tanpa waran menangkap mana-mana orang jika dia mempunyai sebab untuk mempercayai bahawa terdapat alasan yang menjustifikasikan siasatan diadakan mengenai kes orang itu di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila seseorang ditangkap di bawah subseksyen (1), kes itu hendaklah dirujuk oleh pegawai polis kepada Pendakwa Raya untuk mendapatkan arahan tidak lewat daripada tujuh hari dari tarikh penangkapan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang ditangkap di bawah subseksyen (1) hendaklah, melainkan jika dilepaskan terlebih dahulu, dibawa tanpa kelengahan yang tidak munasabah, dan dalam mana-mana hal dalam masa dua puluh empat jam (tidak termasuk masa bagi apa-apa perjalanan yang perlu) di hadapan seorang Majistret."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_3__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_3__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_3__subsec_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pegawai polis yang membuat penyiasatan berkaitan dengan seseorang yang ditangkap di bawah seksyen ini hendaklah menyebabkan supaya suatu salinan laporan lengkap penyiasatan itu dikemukakan kepada—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_3__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_3__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pegawai Siasatan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_3__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_3__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Lembaga, dalam apa-apa tempoh yang ditetapkan oleh Menteri melalui peraturan-peraturan yang dibuat di bawah Akta ini. Tatacara di hadapan Majistret"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila mana-mana orang dibawa di hadapan seorang Majistret di bawah subseksyen 3(3), Majistret hendaklah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "atas pengemukaan pernyataan bertulis yang ditandatangani oleh seorang pegawai polis yang berpangkat tidak rendah daripada Inspektor yang menyatakan bahawa terdapat alasan untuk mempercayai bahawa nama orang yang terlibat dengan perbuatan melakukan atau menyokong perbuatan keganasan yang melibatkan organisasi pengganas tersenarai di sesuatu negara asing atau di mana-mana bahagian sesuatu negara asing patut dicatatkan dalam Daftar, mereman orang itu dalam jagaan polis selama tempoh dua puluh satu hari; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika tiada pernyataan sedemikian dikemukakan, dan tiada alasan lain bagi menahan orang itu dengan sah, mengarahkan pelepasannya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang direman di bawah perenggan (1)(a) hendaklah, melainkan jika dilepaskan terlebih dahulu, pada atau sebelum habis tempoh remannya, dibawa di hadapan seorang Majistret, yang hendaklah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_2__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_2__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "atas pengemukaan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_2__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_2__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu pernyataan bertulis yang ditandatangani oleh Pendakwa Raya yang menyatakan bahawa pada pendapatnya terdapat keterangan yang mencukupi untuk menjustifikasikan suatu siasatan diadakan di bawah seksyen 10; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_2__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_2__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu pernyataan bertulis yang ditandatangani oleh seorang pegawai polis yang berpangkat tidak rendah daripada Penolong Penguasa yang menyatakan bahawa terdapat tujuan untuk mengadakan suatu siasatan mengenai kes orang itu di bawah seksyen 10, memerintahkan orang itu direman dalam jagaan selama tempoh tiga puluh lapan hari; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika tiada pernyataan sedemikian dikemukakan, dan tiada alasan lain bagi menahan orang itu dengan sah, mengarahkan pelepasannya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada seorang pun boleh ditangkap dan ditahan di bawah seksyen ini semata-mata atas kepercayaan politiknya atau aktiviti politiknya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kecuali sebagaimana yang diperuntukkan dalam subseksyen 10(6), peruntukan seksyen 28a Kanun Tatacara Jenayah hendaklah terpakai bagi mana-mana orang yang direman di bawah seksyen 4."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pendakwa Raya boleh hadir dalam mana-mana permohonan yang dibuat di bawah seksyen ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_6__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud seksyen ini, “kepercayaan politik atau aktiviti politik” ertinya penglibatan dalam aktiviti yang sah di sisi undang- undang melalui—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_6__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_6__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pernyataan pendapat atau pengambilan tindakan yang dibuat mengikut rukun sesuatu parti politik yang pada masa yang berkaitan itu berdaftar di bawah Akta Pertubuhan 1966 [Akta 335] yang terbukti melalui—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_6__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_6__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "keanggotaan atau sumbangan kepada parti itu; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_6__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_6__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penyertaan terbuka dan aktif dalam hal ehwal parti itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pernyataan pendapat yang ditujukan terhadap mana-mana kerajaan di dalam Malaysia; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_4__subsec_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pengambilan tindakan yang ditujukan terhadap mana-mana kerajaan di dalam Malaysia. Orang dalam jagaan hendaklah dibawa di hadapan Pegawai Siasatan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiap-tiap orang yang direman dalam jagaan di bawah seksyen 4 hendaklah, jika tidak dilepaskan terlebih dahulu, seberapa segera yang boleh dibawa di hadapan seorang Pegawai Siasatan. Pelepasan orang yang direman dalam jagaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_6__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_6__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_6__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_6__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang direman dalam jagaan di bawah seksyen 4 boleh pada bila-bila masa dibawa di hadapan seorang Hakim Mahkamah Sesyen yang, jika tiada alasan lain bagi menahan orang itu dengan sah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_6__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "hendaklah mengarahkan pelepasannya jika dikemukakan kepada Hakim Mahkamah Sesyen itu suatu pernyataan bertulis yang ditandatangani oleh seorang pegawai polis yang berpangkat tidak rendah daripada Penolong Penguasa yang menyatakan bahawa tidak terdapat tujuan untuk meneruskan suatu siasatan mengenai kes orang itu di bawah seksyen 10; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_6__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_6__subsec_1__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_6__subsec_1__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam mana-mana hal lain, atas permohonan seorang pegawai polis, boleh mengarahkan pelepasannya tertakluk kepada—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_6__subsec_1__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_6__subsec_1__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pelaksanaan suatu bon oleh orang itu, dengan atau tanpa penjamin, bagi kehadirannya dengan sewajarnya di tempat atau tempat-tempat dan pada masa atau masa-masa dan dalam tempoh yang tidak melebihi lima puluh sembilan hari sebagaimana yang diarahkan oleh Hakim Mahkamah Sesyen; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_6__subsec_1__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_6__subsec_1__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pengawasan polis selama apa-apa tempoh yang tidak melebihi lima puluh sembilan hari sebagaimana yang diarahkan oleh Hakim Mahkamah Sesyen."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika seseorang dilepaskan di bawah perenggan (1)(b), suatu peranti pengawasan elektronik hendaklah dipasang pada orang itu mengikut subseksyen (3) dan (4)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika pegawai polis itu bertujuan untuk melepaskan orang itu di bawah perenggan (1)(b) dan memasang suatu peranti pengawasan elektronik pada orang itu apabila orang itu dilepaskan, dia hendaklah mengemukakan suatu laporan kepada Pendakwa Raya sebelum permohonan di bawah perenggan (1)(b) dibuat."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_6__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila laporan di bawah subseksyen (3) diterima, Pendakwa Raya boleh memohon kepada Hakim Mahkamah Sesyen untuk orang itu dipasang dengan suatu peranti pengawasan elektronik mengikut seksyen 7 selama tempoh pelepasannya sebagaimana yang dibenarkan di bawah perenggan (1)(b). Tatacara khas yang berhubungan dengan peranti pengawasan elektronik"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_7__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_7__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_7__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_7__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_7__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_7__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_7__subsec_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila permohonan oleh Pendakwa Raya dibuat di bawah seksyen 6, Hakim Mahkamah Sesyen hendaklah memerintahkan supaya orang itu dipasang dengan suatu peranti pengawasan elektronik selama tempoh yang ditentukan oleh Hakim Mahkamah Sesyen itu tetapi tempoh itu tidak boleh melebihi tempoh pelepasannya sebagaimana yang dibenarkan di bawah perenggan 6(1)(b)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Hakim Mahkamah Sesyen hendaklah menjelaskan pengendalian peranti pengawasan elektronik serta terma dan syarat peranti pengawasan elektronik itu kepada orang itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_7__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Orang itu hendaklah menandatangani suatu borang yang dinyatakan dalam Jadual dan mendepositkan borang itu dengan Hakim Mahkamah Sesyen itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_7__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Orang itu hendaklah dipasang dengan peranti pengawasan elektronik oleh seorang pegawai polis."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_7__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Orang itu hendaklah mematuhi semua terma dan syarat peranti pengawasan elektronik dan hendaklah melaporkan diri di balai polis yang terdekat pada masa yang dinyatakan dalam borang itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_7__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang tidak mematuhi terma dan syarat di bawah subseksyen (5) melakukan suatu kesalahan dan hendaklah dihukum dengan pemenjaraan selama tempoh tidak melebihi tiga tahun."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_7__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang mengganggu, atau merosakkan, peranti pengawasan elektronik melakukan suatu kesalahan dan hendaklah dihukum dengan pemenjaraan selama tempoh tidak melebihi tiga tahun dan orang itu boleh dipertanggungkan untuk membayar bagi apa-apa kerosakan kepada peranti pengawasan elektronik itu yang berbangkit daripada perbuatannya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_7__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila habis tempoh yang disebut dalam subseksyen (1), orang itu hendaklah melaporkan diri di balai polis yang terdekat untuk membuka peranti pengawasan elektronik itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_28"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERINTAH TAHANAN DAN SEKATAN Kuasa untuk memerintahkan tahanan dan sekatan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "(1) Bilamana Lembaga, selepas menimbangkan— (a) laporan lengkap penyiasatan yang dikemukakan di bawah subseksyen 3(4); dan (b) laporan Pegawai Siasatan yang dikemukakan di bawah seksyen 12, berpuas hati berkenaan dengan mana-mana orang bahawa orang itu telah atau sedang terlibat dengan perbuatan melakukan atau menyokong perbuatan keganasan yang melibatkan organisasi pengganas tersenarai di sesuatu negara asing atau di mana-mana bahagian sesuatu negara asing, Lembaga boleh, jika Lembaga berpuas hati bahawa adalah perlu demi kepentingan keselamatan Malaysia atau mana-mana bahagian Malaysia yang orang itu ditahan, melalui perintah (“perintah tahanan”) mengarahkan supaya orang itu ditahan selama tempoh yang tidak melebihi dua tahun. (2) Tiap-tiap orang yang ditahan menurut suatu perintah tahanan hendaklah ditahan di mana-mana tempat (“tempat tahanan”) yang diarahkan oleh Lembaga dan mengikut apa-apa arahan yang dikeluarkan oleh Lembaga dan mana-mana peraturan yang dibuat di bawah seksyen 34. (3) Jika Lembaga berpuas hati bahawa bagi maksud yang disebut dalam subseksyen (1) adalah perlu supaya kawalan dan pengawasan dibuat ke atas mana-mana orang atau bahawa sekatan dan syarat patut dikenakan ke atas orang itu berkenaan dengan aktivitinya, kebebasannya bergerak atau tempat kediamannya atau tempat kerjanya, tetapi tidak perlu menahan orang itu bagi maksud itu, Lembaga boleh melalui perintah (“perintah sekatan”) mengarahkan supaya orang yang dinamakan dalam perintah itu (“orang sekatan”) hendaklah tertakluk kepada pengawasan polis selama apa-apa tempoh yang tidak melebihi lima tahun pada sesuatu masa dan boleh mengenakan semua atau mana-mana daripada sekatan dan syarat yang berikut: (a) dia dikehendaki bermastautin di dalam had mana-mana Negeri, daerah, mukim, bandar atau kampung yang dinyatakan dalam perintah itu; (b) dia tidak dibenarkan berpindah tempat bermastautinnya ke mana-mana Negeri, daerah, mukim, bandar atau kampung yang lain, mengikut mana-mana yang berkenaan, tanpa kebenaran bertulis Lembaga; (c) kecuali setakat yang diperuntukkan selainnya oleh perintah itu, dia tidak boleh meninggalkan Negeri, daerah, mukim, bandar atau kampung yang di dalamnya dia bermastautin tanpa kebenaran bertulis daripada Ketua Polis Negeri yang berkenaan; (d) dia hendaklah pada setiap masa memberitahu Ketua Polis Daerah di mana dia bermastautin mengenai rumah atau tempat di mana dia bermastautin; (e) dia hendaklah, pada masa atau masa-masa yang dinyatakan dalam perintah itu, menghadirkan dirinya di balai polis yang terdekat; (f) dia hendaklah berada di dalam rumah, atau di dalam kawasan yang ditakrifkan dalam perintah itu, pada masa yang dinyatakan dalam perintah itu, melainkan jika dia memperoleh kebenaran khas selainnya daripada Ketua Polis Daerah; (g) kecuali setakat yang diperuntukkan selainnya oleh perintah itu, dia tidak dibenarkan untuk memasuki mana-mana Negeri, daerah, mukim, bandar atau kampung yang dinyatakan dalam perintah itu; (h) dia hendaklah hanya menggunakan kelengkapan dan kemudahan komunikasi yang diisytiharkan pada dan diluluskan oleh Ketua Polis Negeri mana-mana Negeri yang berkenaan; (i) kecuali setakat yang diperuntukkan selainnya oleh perintah itu, dia tidak boleh membuat capaian internet; (j) dia hendaklah menjaga keamanan dan berkelakuan baik; (k) dia hendaklah mengikat suatu bon, dengan atau tanpa penjamin sebagaimana yang diarahkan oleh Lembaga dan bagi suatu amaun yang dinyatakan dalam perintah itu, bagi pematuhannya yang sewajarnya dengan sekatan dan syarat yang dikenakan ke atasnya oleh perintah itu; (l) dia hendaklah dipasang dengan suatu peranti pengawasan elektronik. (4) Lembaga boleh, melalui perintah bertulis yang disampaikan kepada orang yang tertakluk kepada suatu perintah sekatan, mengubah, mengkansel atau menambah kepada mana-mana sekatan dan syarat yang dikenakan di bawah subseksyen (3). (5) Mana-mana orang sekatan yang tidak mematuhi mana-mana sekatan atau syarat yang dikenakan ke atasnya di bawah seksyen ini melakukan suatu kesalahan dan hendaklah dihukum dengan pemenjaraan selama tempoh yang tidak melebihi sepuluh tahun dan tidak kurang daripada dua tahun. (6) Mana-mana orang yang berkomplot dengan, bersubahat atau membantu mana-mana orang sekatan untuk melanggar mana- mana sekatan atau syarat di bawah seksyen ini melakukan suatu kesalahan dan hendaklah dihukum dengan pemenjaraan selama tempoh yang tidak melebihi sepuluh tahun dan tidak kurang daripada dua tahun. (7) Seksyen 173a dan 294 Kanun Tatacara Jenayah tidak terpakai berkenaan dengan kesalahan di bawah subseksyen (5) dan (6). (8) Hukuman yang dikenakan di bawah subseksyen (5) dan apa-apa tempoh pemenjaraan yang dikenakan di bawah mana- mana undang-undang bertulis tidak boleh dipertimbangkan bagi maksud tempoh pengawasan yang dikenakan di bawah subsekyen (3) dan tempoh pengawasan itu hendaklah diteruskan dari tarikh tamat hukuman pemenjaraan yang dikenakan. (9) Suatu salinan tiap-tiap perintah tahanan yang dibuat oleh Lembaga di bawah subseksyen (1) hendaklah disampaikan kepada orang yang kepadanya perintah itu berkaitan seberapa segera yang boleh selepas perintah itu dibuat, dan tiap-tiap orang sedemikian adalah berhak membuat representasi kepada suatu Lembaga Penasihat yang ditubuhkan di bawah Fasal (2) Perkara 151 Perlembagaan Persekutuan mengikut tatacara yang ditetapkan. (10) Arahan Lembaga di bawah subseksyen (1) hendaklah tertakluk kepada kajian semula oleh Mahkamah Tinggi. Kesahan perintah tahanan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_14__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada perintah tahanan boleh menjadi tidak sah atau tidak berkuat kuasa oleh sebab—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_14__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_14__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_14__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "orang yang terhadapnya perintah tahanan itu dimaksudkan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_14__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_14__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "telah sebaik sebelum perintah tahanan itu dibuat ditahan di mana-mana tempat selain tempat tahanan yang disebut dalam subseksyen 13(2);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_14__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_14__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "terus ditahan sebaik selepas perintah tahanan itu dibuat di tempat yang dia telah ditahan di bawah seksyen 3 sebelum dia dipindahkan ke suatu tempat tahanan yang disebut dalam subseksyen 13(2); atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_14__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_14__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "telah semasa jangka masa perintah tahanan itu berada dalam perjalanan dalam jagaan polis atau dalam apa-apa jagaan lain ke suatu tempat tahanan yang disebut dalam subseksyen 13(2); atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perintah tahanan itu telah disampaikan kepadanya di mana- mana tempat selain tempat tahanan yang disebut dalam subseksyen 13(2), atau terdapat apa-apa kecacatan yang berhubungan dengan penyampaian perintah tahanan itu kepadanya. Penggantungan perintah tahanan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_15__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_15__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_15__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Lembaga boleh, pada bila-bila masa, mengarahkan supaya kuat kuasa mana-mana perintah tahanan di bawah subseksyen 13(1) digantung tertakluk kepada pengenaan semua atau mana-mana daripada sekatan dan syarat di bawah subseksyen 13(3)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika suatu perintah tahanan digantung di bawah subseksyen (1), subseksyen 13(3) hendaklah berkuat kuasa seolah-olah sekatan dan syarat yang berdasarkannya perintah tahanan itu digantung adalah sekatan dan syarat yang dikenakan oleh suatu perintah sekatan yang dibuat di bawah subseksyen 13(3)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_15__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_15__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_15__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Lembaga boleh membatalkan penggantungan mana-mana perintah tahanan jika Lembaga berpuas hati bahawa—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_15__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_15__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "orang yang terhadapnya perintah tahanan itu dibuat tidak mematuhi mana-mana sekatan atau syarat yang dikenakan ke atasnya; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_15__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_15__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "adalah perlu demi ketenteraman awam atau keselamatan awam untuk penggantungan itu dibatalkan, dan dalam mana-mana hal sedemikian pembatalan penggantungan itu hendaklah menjadi kuasa yang mencukupi bagi mana-mana pegawai polis untuk menangkap semula tanpa waran orang yang terhadapnya perintah tahanan itu telah dibuat, dan orang itu hendaklah seberapa cepat yang dapat dilaksanakan dikembalikan ke tempat tahanannya yang terdahulu atau, jika diarahkan sedemikian oleh Lembaga, dihantar ke suatu tempat tahanan yang lain."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_15__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Penggantungan mana-mana perintah tahanan di bawah seksyen ini hendaklah, tertakluk kepada subseksyen 13(4) sebagaimana yang terpakai oleh subseksyen (2) dan tertakluk juga kepada subseksyen (3), terus berkuat kuasa bagi bahagian tempoh perintah itu yang belum tamat yang dinyatakan di bawah subseksyen 13(1). Kesan atas tempoh pemenjaraan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_16__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jika seseorang—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang sedang menjalani tahanan di bawah subseksyen 13(1) dihukum dengan apa-apa tempoh pemenjaraan di bawah Akta ini atau mana-mana undang-undang bertulis yang lain; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "telah dilanjutkan tempoh tahanannya di bawah subseksyen 17(1) semasa dia sedang menjalani mana-mana tempoh pemenjaraan itu, tahanan atau tahanan lanjut itu hendaklah disifatkan telah dijalani serentak dengan tempoh pemenjaraan itu, dan jika setelah tempoh pemenjaraan itu selesai, masih ada mana-mana bahagian tempoh tahanan atau tempoh tahanan lanjut yang belum tamat, dia hendaklah ditahan bagi bahagian tempoh yang belum tamat itu. Kuasa Lembaga untuk melanjutkan perintah tahanan, perintah sekatan atau perintah tahanan yang digantung"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_17__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_17__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_17__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_17__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_17__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_17__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_17__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_17__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Lembaga boleh pada bila-bila masa sebelum habis tempoh masa—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_17__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_17__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sesuatu perintah tahanan yang dibuat di bawah subseksyen 13(1);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_17__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_17__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sesuatu perintah sekatan yang dibuat di bawah subseksyen 13(3); atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_17__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_17__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sesuatu perintah tahanan yang digantung di bawah subseksyen 15(1) (“perintah tahanan yang digantung”), mengarahkan supaya tempoh masa perintah itu dilanjutkan selama suatu tempoh selanjutnya, yang tidak melebihi dua tahun bagi suatu perintah tahanan atau lima tahun bagi suatu perintah sekatan, sebagaimana yang dinyatakan oleh Lembaga, bermula sebaik sahaja tempoh masa semasanya pada waktu itu habis tempoh."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_17__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_17__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_17__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika Lembaga mengarahkan supaya tempoh masa sesuatu perintah tahanan, perintah sekatan atau perintah tahanan yang digantung dilanjutkan di bawah subseksyen (1), Lembaga hendaklah menyatakan dalam arahan itu alasan bagi perlanjutan itu dan menyatakan sama ada alasan itu—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_17__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_17__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sama dengan alasan yang atasnya perintah itu dibuat pada asalnya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_17__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_17__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "berlainan daripada alasan yang atasnya perintah itu dibuat pada asalnya; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_17__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_17__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sebahagiannya adalah alasan yang sama dan sebahagiannya adalah alasan yang berlainan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_17__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika tempoh masa sesuatu perintah tahanan yang digantung dilanjutkan di bawah subseksyen (1), tempoh masa arahan bagi penggantungannya di bawah subseksyen 15(1) hendaklah disifatkan telah dilanjutkan selama tempoh masa perlanjutan perintah tahanan yang digantung itu bersama dengan sekatan dan syarat yang dikenakan berkenaan dengan penggantungan itu, tertakluk, jika Lembaga mengarahkan sedemikian, kepada kehendak bahawa orang yang terhadapnya perintah tahanan itu dibuat hendaklah mengikat suatu bon baru sebagaimana yang diperuntukkan dalam perenggan 13(3)(k), dan seksyen 15 hendaklah terpakai bagi penggantungan yang dilanjutkan itu mengikut cara yang sama sebagaimana yang ia terpakai bagi suatu penggantungan asal di bawah subseksyen 15(1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_17__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika arahan di bawah subseksyen (1) bagi perlanjutan tempoh masa sesuatu perintah tahanan atau sesuatu perintah tahanan yang digantung adalah atas alasan yang termasuk di bawah perenggan (2)(b) atau (c), subseksyen 13(9) hendaklah terpakai bagi arahan itu seolah-olah arahan itu adalah suatu perintah tahanan yang baru."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_17__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tempoh masa sesuatu perintah tahanan, perintah sekatan atau perintah tahanan yang digantung yang dilanjutkan di bawah subseksyen (1) boleh dilanjutkan seterusnya dari semasa ke semasa bagi tempoh lanjutan yang tidak melebihi dua tahun pada sesuatu masa, dan peruntukan seksyen ini hendaklah terpakai mutatis mutandis berhubung dengan setiap perlanjutan sedemikian. Kuasa Lembaga untuk membatalkan perintah tahanan, perintah sekatan, perintah tahanan yang digantung atau arahan bagi perlanjutan mana-mana perintah sedemikian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_18__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun apa-apa yang terkandung dalam Akta ini, Lembaga boleh pada bila-bila masa membatalkan mana-mana perintah tahanan yang dibuat di bawah subseksyen 13(1) atau mana-mana perintah sekatan yang dibuat di bawah subseksyen 13(3) atau mana-mana perintah tahanan yang digantung atau mana-mana arahan di bawah subseksyen 17(1) bagi perlanjutan tempoh masa mana-mana perintah sedemikian, jika didapatinya adil atau patut untuk berbuat demikian."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana pembatalan di bawah subseksyen (1) tidaklah menjejaskan kesahan perintah atau arahan itu sebelum pembatalannya atau apa-apa jua yang dilakukan di bawahnya, atau kuasa Lembaga untuk membuat perintah tahanan baru di bawah subseksyen 13(1) atau perintah sekatan baru di bawah subseksyen 13(3) atau memberi arahan baru di bawah subseksyen 17(1) berkenaan dengan orang yang terhadapnya perintah atau arahan yang dibatalkan itu telah dibuat atau diberikan. Kajian semula kehakiman atas tindakan atau keputusan Lembaga"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_19__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada apa-apa kajian semula kehakiman dalam mana- mana mahkamah mengenai, dan tiada mahkamah mempunyai atau boleh menjalankan apa-apa bidang kuasa berkenaan dengan, apa-apa tindakan yang dilakukan atau keputusan yang dibuat oleh Lembaga pada menjalankan kuasa budi bicaranya mengikut Akta ini, kecuali mengenai apa-apa persoalan tentang pematuhan apa- apa kehendak tatacara dalam Akta ini yang mentadbir tindakan atau keputusan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_19__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_19__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_19__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_19__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, “kajian semula kehakiman” termasuklah prosiding yang dimulakan dengan cara—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_19__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_19__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "permohonan untuk mendapatkan apa-apa perintah prerogatif mandamus, larangan dan certiorari;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_19__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_19__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "permohonan untuk mendapatkan deklarasi atau injunksi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_19__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_19__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "writ habeas corpus; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_19__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_19__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa guaman, tindakan atau prosiding undang-undang lain yang berhubungan dengan atau yang berbangkit daripada apa-apa tindakan yang dilakukan atau keputusan yang dibuat oleh Lembaga mengikut Akta ini. Kuasa untuk memerintahkan pemindahan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_20__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_20__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_20__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Lembaga boleh dengan perintah mengarahkan pemindahan mana-mana orang yang ditahan di bawah subseksyen 13(1), atau di bawah subseksyen 17(1), dari mana-mana tempat tahanan ke suatu tempat tahanan yang lain yang dinyatakan dalam perintah itu, untuk ditahan di tempat itu bagi seluruh atau mana-mana bahagian tempoh yang telah diperintahkan supaya orang itu ditahan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_20__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang sedang dipindahkan di bawah subseksyen (1) hendaklah disifatkan berada dalam jagaan yang sah. Kuasa untuk memerintahkan pengemukaan orang tahanan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_21__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_21__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_21__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_21__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila dibuktikan hingga memuaskan hatinya bahawa kehadiran di mana-mana tempat mana-mana orang yang ditahan di bawah subseksyen 13(1) atau 17(1), atau yang dalam jagaan sah polis atau yang dikurung dalam mana-mana penjara sama ada di bawah subseksyen 13(1), subseksyen 17(1) atau di bawah suatu perintah mana-mana mahkamah atau walau dengan apa cara pun selainnya, dan walau apa pun apa-apa perintah mana-mana mahkamah atau apa-apa jua pun pihak berkuasa lain, dikehendaki demi kepentingan keadilan, atau bagi maksud apa-apa siasatan awam atau siasatan lain, atau demi kepentingan negara, atau demi kepentingan orang yang ditahan, yang berada dalam jagaan atau yang dikurung, Komisioner Jeneral Penjara jika orang itu ditahan di tempat tahanan atau penjara, atau Ketua Polis Negara jika orang itu berada dalam jagaan sah polis, boleh memerintahkan supaya orang itu dibawa ke tempat itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_21__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang sedang dibawa ke mana-mana tempat di bawah subseksyen (1) dan semasa berada di tempat itu hendaklah diletakkan dalam jagaan sebagaimana yang diarahkan oleh Komisioner Jeneral Penjara atau Ketua Polis Negara, mengikut mana-mana yang berkenaan, dan semasa berada dalam jagaan itu hendaklah disifatkan berada dalam jagaan yang sah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_21__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam seksyen ini, “Komisioner Jeneral Penjara” mempunyai erti yang sama yang diberikan kepadanya oleh subseksyen 2(1) Akta Penjara 1995 [Akta 537]. Pendaftaran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_22__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_22__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_22__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_22__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_22__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pendaftar hendaklah menyimpan suatu Daftar bagi maksud Akta ini, yang di dalamnya hendaklah dicatatkan nama tiap-tiap orang sekatan dan tiap-tiap orang yang berkenaan dengannya suatu perintah tahanan sedang berkuat kuasa (sama ada digantung di bawah seksyen 15 atau tidak), berserta dengan apa-apa butir mengenai mana-mana orang itu yang ditetapkan; dan apabila nama dan butir-butir mana-mana orang itu telah dicatatkan dalam Daftar orang itu hendaklah menjadi “orang berdaftar” bagi maksud Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_22__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_22__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_22__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana pegawai polis yang berpangkat tidak rendah daripada Inspektor boleh—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_22__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_22__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "melawat mana-mana tempat yang disebut dalam subseksyen 13(2) bagi maksud mengambil cap jari dan gambar foto mana-mana orang yang ditahan di dalamnya dan memperoleh apa-apa butir lain mengenai mana-mana orang itu yang ditetapkan atau yang perlu bagi melaksanakan pendaftaran orang itu di bawah subseksyen (1);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_22__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_22__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "melalui notis bertulis mengarahkan supaya mana-mana orang sekatan hadir di hadapannya, pada masa dan di tempat yang dinyatakan di dalam notis itu, bagi maksud mengambil cap jari dan gambar foto orang itu dan memperoleh apa-apa butir lain mengenai mana-mana orang itu yang ditetapkan atau yang perlu bagi melaksanakan pendaftaran orang itu di bawah subseksyen (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_22__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang, apabila dikehendaki oleh seorang pegawai polis yang berpangkat tidak rendah daripada Inspektor supaya memberikan butir-butir yang disebut dalam perenggan (2)(a) atau (b), enggan memberikan mana-mana butir itu atau memberikan apa-apa butir yang dia tahu atau mempunyai sebab untuk mempercayai adalah palsu, melakukan suatu kesalahan dan hendaklah dihukum dengan denda yang tidak melebihi sepuluh ribu ringgit atau dengan pemenjaraan selama tempoh yang tidak melebihi tiga tahun atau kedua-duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_22__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika mana-mana orang tidak hadir sebagaimana yang diarahkan di bawah perenggan (2)(b), pegawai polis yang mengeluarkan notis itu boleh menyebabkan dia ditangkap tanpa waran oleh mana-mana pegawai polis dan dibawa ke hadapannya bagi maksud yang dinyatakan dalam subseksyen itu. Penghapusan nama daripada Daftar"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_23__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_23__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_23__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bilamana sesuatu perintah di bawah subseksyen 13(1) atau 13(3), atau sesuatu arahan di bawah subseksyen 17(1), habis tempoh atau dibatalkan sedemikian yang orang yang berkenaan dengannya perintah itu dibuat tidak lagi tertakluk kepada apa- apa jua sekatan atau syarat, Pendaftar hendaklah dengan segera menghapuskan nama orang itu dan semua catatan mengenainya daripada Daftar."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_23__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Lembaga boleh pada bila-bila masa menurut budi bicaranya mengarahkan Pendaftar menghapuskan nama mana-mana orang daripada Daftar, dan selepas penghapusan nama itu orang itu hendaklah terhenti menjadi orang berdaftar, melainkan jika namanya dicatatkan semula kemudiannya dalam Daftar mengikut seksyen 22. Orang berdaftar tidak boleh bergaul dengan orang berdaftar lain"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_24__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_24__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_24__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada seorang pun orang berdaftar boleh bergaul dengan atau secara lazimnya berkawan dengan mana-mana orang berdaftar lain tanpa kebenaran Ketua Polis Daerah di mana dia bermastautin, melainkan jika dia membuktikan bahawa dia tidak tahu dan tidak mempunyai sebab untuk mengesyaki bahawa orang lain itu ialah orang berdaftar."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_24__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang melanggar peruntukan seksyen ini melakukan suatu kesalahan dan hendaklah dihukum dengan pemenjaraan selama tempoh yang tidak melebihi lima belas tahun dan tidak kurang daripada lima tahun. Penalti satu kali ganda"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang berdaftar yang disabitkan dengan mana- mana kesalahan yang dilakukan selepas tarikh namanya dicatatkan dalam Daftar di bawah mana-mana undang-undang bertulis boleh dikenakan pemenjaraan selama tempoh satu kali ganda tempoh maksimum yang boleh dikenakan ke atasnya apabila disabitkan bagi kesalahan itu, dan juga sebatan. Merayau di tempat awam, dsb."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_26__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_26__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_26__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Mana-mana orang berdaftar yang—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_26__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dijumpai antara masa matahari terbenam dan matahari terbit selalu berada atau merayau-rayau di atau dekat mana-mana tempat awam atau di atau berhampiran mana-mana tempat hiburan awam;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_26__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pada bila-bila masa dijumpai bersama dengan dua orang berdaftar atau lebih; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_26__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pada bila-bila masa dijumpai di atau berhampiran dengan mana-mana tempat di mana apa-apa perbuatan ganas atau pecah keamanan dilakukan atau baru sahaja dilakukan, dan tidak dapat memberikan penjelasan yang memuaskan tentang kehadirannya di tempat atau pada masa itu atau bersama dengan orang itu melakukan suatu kesalahan dan hendaklah dihukum dengan pemenjaraan selama tempoh yang tidak melebihi lima tahun atau denda yang tidak melebihi sepuluh ribu ringgit atau kedua-duanya. Perlindungan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_27__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_27__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_27__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang dengan diketahuinya melindungi atau menyembunyikan mana-mana orang yang memasuki mana- mana Negeri, daerah, mukim, bandar atau kampung berlanggaran dengan mana-mana perintah di bawah seksyen 13 melakukan suatu kesalahan dan hendaklah dihukum dengan pemenjaraan selama tempoh yang tidak melebihi lima tahun atau denda yang tidak melebihi sepuluh ribu ringgit atau kedua-duanya: dengan syarat bahawa subseksyen ini tidak terpakai dalam hal seseorang isteri yang melindungi atau menyembunyikan suaminya atau seseorang suami yang melindungi atau menyembunyikan isterinya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_27__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang menyedari kehadiran mana-mana orang dalam mana-mana Negeri, daerah, mukim, bandar atau kampung, yang bukannya suami atau isteri orang yang pertama disebut itu, yang telah diperintahkan supaya tidak memasuki Negeri, daerah, mukim, bandar atau kampung itu atau yang telah diperintahkan untuk bermastautin di mana-mana Negeri, daerah, mukim, bandar atau kampung lain, dan dengan menyedari juga pembuatan perintah itu, hendaklah jika tidak ada alasan yang munasabah, yang bukti mengenainya terletak padanya, dengan segera memberi maklumat mengenainya kepada pegawai polis atau Majistret yang terdekat, dan jika dia ingkar berbuat demikian melakukan suatu kesalahan dan hendaklah dihukum dengan pemenjaraan selama tempoh yang tidak melebihi tiga tahun atau denda yang tidak melebihi lima ribu ringgit atau kedua-duanya. Kecualian berkenaan dengan pendakwaan orang yang ditahan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Penahanan mana-mana orang di bawah Bahagian ini tidaklah menjejaskan pembawaan apa-apa prosiding jenayah terhadap orang itu, sama ada semasa atau selepas tempoh tahanannya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Pencegahan Keganasan 2015."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Tafsiran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_I__cl_2__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_I__cl_2__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_I__cl_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain— “daerah, mukim, bandar atau kampung” ertinya tanah yang termasuk di dalam mana-mana daerah, mukim, bandar atau kampung di bawah peruntukan mana-mana undang-undang yang sedang berkuat kuasa yang berhubungan dengan tanah; “Daftar” ertinya daftar yang disimpan oleh Pendaftar di bawah seksyen 22; “Lembaga” ertinya Lembaga Pencegahan Keganasan yang ditubuhkan di bawah seksyen 8; “Menteri” ertinya Menteri yang dipertanggungkan dengan tanggungjawab bagi hal ehwal dalam negeri; “orang berdaftar” ertinya seseorang yang namanya telah dicatatkan dalam Daftar; “organisasi pengganas tersenarai” ertinya mana-mana entiti ditentukan yang diisytiharkan di bawah seksyen 66B dan 66c Akta Pencegahan Pengubahan Wang Haram, Pencegahan Pembiayaan Keganasan dan Hasil daripada Aktiviti Haram 2001 [Akta 613]; “Pegawai Siasatan” ertinya seorang pegawai yang dilantik oleh Menteri di bawah seksyen 9; “Pendaftar” ertinya Pendaftar Penjenayah yang dilantik di bawah seksyen 3 Akta Pendaftaran Penjenayah dan Orang yang Tidak Diingini 1969 [Akta 7]; “perbuatan keganasan” mempunyai erti yang sama yang diberikan kepadanya oleh Kanun Keseksaan [Akta 574]."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_I__cl_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sebutan mengenai pengawasan polis hendaklah ditafsirkan sebagai sebutan mengenai obligasi yang dikenakan atas orang yang tertakluk kepada pengawasan polis di bawah seksyen 296 Kanun Tatacara Jenayah [Akta 593]."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_35"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "AM Kuasa polis untuk menyiasat"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_29__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_29__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_29__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila seseorang pegawai polis berpangkat tidak rendah daripada Inspektor mempunyai sebab untuk mempercayai bahawa terdapat alasan yang menjustifikasikan siasatan diadakan mengenai kes mana-mana orang di bawah Akta ini, pegawai polis itu atau mana-mana pegawai polis yang berpangkat lebih rendah daripadanya dan bertindak di bawah arahannya boleh menyiasat fakta dan hal keadaan kes itu setakat yang fakta dan hal keadaan itu berkaitan dengan mana-mana prosiding berkenaan dengan orang itu di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_29__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam membuat apa-apa penyiasatan di bawah subseksyen (1), seseorang pegawai polis boleh menjalankan semua atau mana- mana kuasa berhubung dengan penyiasatan polis dalam apa-apa kes boleh tangkap yang diberi kepadanya oleh undang-undang yang sedang berkuat kuasa yang berhubungan dengan tatacara jenayah. Penangkapan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang pegawai polis boleh tanpa waran menangkap mana-mana orang jika pegawai polis itu mempunyai sebab untuk mempercayai bahawa orang itu telah melakukan suatu kesalahan terhadap seksyen 24, 26 atau 27 dan tiap-tiap kesalahan sedemikian adalah boleh ditangkap dan tidak boleh dijamin bagi maksud Kanun Tatacara Jenayah. Pengambilan gambar foto dan cap jari"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_31__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_31__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_31__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_31__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang pegawai polis boleh mengambil atau menyebabkan supaya diambil gambar foto dan cap jari mana-mana orang yang ditangkap di bawah subseksyen 3(1), atau yang namanya dikehendaki dicatatkan dalam Daftar di bawah seksyen 22, dan hendaklah menghantar gambar foto dan cap jari itu kepada Pendaftar untuk pengenalpastian dan laporan; dan tiap-tiap orang sedemikian adalah terikat di sisi undang-undang supaya patuh kepada pengambilan gambar foto dan cap jarinya, dan boleh dipaksa bagi maksud itu dengan menggunakan kekerasan jika perlu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_31__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang, semasa terikat di sisi undang-undang di bawah subseksyen (1) supaya patuh kepada pengambilan gambar fotonya atau cap jarinya, enggan atau tidak patuh kepadanya apabila diminta melakukan suatu kesalahan dan hendaklah dihukum dengan pemenjaraan selama tempoh yang tidak melebihi enam bulan atau denda tidak melebihi dua ribu ringgit atau kedua-duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_31__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_31__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_31__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bilamana—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_31__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_31__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana orang yang gambar foto dan cap jarinya telah diambil di bawah seksyen ini dilepaskan di bawah seksyen 4, 6 atau 12; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_31__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_31__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "nama mana-mana orang dihapuskan daripada Daftar di bawah seksyen 23, pegawai yang bertanggungjawab bagi kes itu hendaklah dengan segera memberitahu Pendaftar mengenai pelepasan atau penghapusan itu, dan Pendaftar hendaklah, atas permohonan orang itu, menghantar serah kepada orang itu lembaran yang di atasnya cap jarinya telah dibuat, berserta negatif dan semua salinan apa-apa gambar foto orang itu yang telah diambil dan dihantar kepada Pendaftar di bawah seksyen ini. Penzahiran maklumat"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_32__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_32__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada apa jua dalam Akta ini atau dalam mana-mana peraturan yang dibuat di bawah Akta ini boleh menghendaki Lembaga, mana-mana anggota Lembaga, mana-mana Pegawai Siasatan atau mana-mana pekhidmat awam untuk menzahirkan fakta atau mengemukakan dokumen yang didapatinya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_32__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_32",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bertentangan dengan kepentingan awam untuk dizahirkan atau dikemukakan; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_32__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_32",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "akan menjejaskan perlindungan seseorang saksi atau keluarganya atau rakannya. Kuasa untuk meminda Jadual"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh, melalui perintah yang disiarkan dalam Warta, meminda Jadual. Peraturan-peraturan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_34__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_34__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_34__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_34",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh membuat peraturan-peraturan bagi melaksanakan maksud Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_34__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_34__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_34__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_34__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_34__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_34__subsec_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_34",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tanpa menjejaskan keluasan kuasa yang diberi oleh subseksyen (1), peraturan-peraturan itu boleh—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_34__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_34__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menetapkan bentuk Daftar, dan apa-apa borang lain yang perlu atau wajar untuk digunakan berkaitan dengan perkara yang diperkatakan dalam Akta ini atau dalam mana-mana peraturan yang dibuat di bawah Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_34__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_34__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menghendaki semua atau mana-mana golongan orang berdaftar membawa kad pengenalan, membuat peruntukan mengenai bentuk, pengeluaran, pengemukaan, pemeriksaan, pembatalan, pengubahan, pengendorsan dan penggantian kad itu, dan penggantian kad pengenalan itu dengan kad pengenalan yang dikeluarkan kepada orang itu di bawah mana-mana undang-undang bertulis lain, dan bagi semua perkara lain yang perlu atau wajar berkaitan dengan kad itu atau pembawaan kad itu atau penguatkuasaan peraturan-peraturan itu, termasuk penetapan penalti yang tidak melebihi denda lima ribu ringgit atau pemenjaraan selama tempoh tiga tahun atau kedua-duanya berkenaan dengan mana-mana kesalahan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_34__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_34__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membuat peruntukan mengenai pentadbiran dan pengurusan Lembaga, termasuk peruntukan mengenai latihan bagi anggota Lembaga;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_34__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_34__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membuat peruntukan mengenai penyelenggaraan dan pengurusan tempat tahanan dan mengenai disiplin dan perlakuan terhadap orang yang ditahan di tempat tahanan dan peraturan-peraturan yang berlainan boleh dibuat bagi tempat tahanan yang berlainan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_34__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_34__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memperuntukkan bagi apa-apa perkara lain yang dikehendaki atau dibenarkan untuk ditetapkan di bawah Akta ini. Kecualian dan peralihan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_35__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_35__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_35__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_35__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_35",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini tidak menjejaskan mana-mana perintah pengawasan atau perintah tahanan yang dikeluarkan di bawah Akta Pencegahan Jenayah 1959 [Akta 297] berhubung dengan mana-mana orang yang telah terlibat dengan perbuatan melakukan atau menyokong perbuatan keganasan yang melibatkan organisasi pengganas tersenarai di sesuatu negara asing atau di mana-mana bahagian sesuatu negara asing sebelum tarikh Akta ini mula berkuat kuasa dan orang sedemikian hendaklah terus tertakluk kepada perintah pengawasan atau perintah tahanan itu, mengikut mana-mana yang berkenaan, selagi perintah pengawasan atau perintah tahanan itu berkuat kuasa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_35__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_35",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini tidak menjejaskan mana-mana siasatan yang dimulakan di bawah Akta Pencegahan Jenayah 1959 berhubung dengan mana-mana orang yang telah terlibat dengan perbuatan melakukan atau menyokong perbuatan keganasan yang melibatkan organisasi pengganas tersenarai di sesuatu negara asing atau di mana-mana bahagian sesuatu negara asing yang belum selesai pada tarikh Akta ini mula berkuat kuasa dan siasatan itu hendaklah diteruskan sehingga ia diselesaikan di bawah Akta itu seolah-olah Akta ini tidak diperbuat dan jika diputuskan bahawa suatu perintah pengawasan atau perintah tahanan hendak dikeluarkan, perintah pengawasan atau perintah tahanan itu hendaklah dikeluarkan di bawah Akta itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_35__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~part_V__cl_35",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini tidak menjejaskan mana-mana prosiding yang dimulakan di bawah atau menurut Akta Pencegahan Jenayah 1959 berhubung dengan mana-mana orang yang telah terlibat dengan perbuatan melakukan atau menyokong perbuatan keganasan yang melibatkan organisasi pengganas tersenarai di sesuatu negara asing atau di mana-mana bahagian sesuatu negara asing yang belum selesai pada tarikh Akta ini mula berkuat kuasa dan prosiding itu hendaklah diteruskan sehingga ia diselesaikan di bawah Akta itu seolah-olah Akta ini tidak diperbuat dan selepas itu, jika apa- apa tindakan dikehendaki berhubung dengan sesuatu perintah pengawasan atau sesuatu perintah tahanan yang dikeluarkan di bawah Akta itu yang menjadi hal perkara prosiding itu, tindakan itu hendaklah diambil di bawah Akta itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_9"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "[Seksyen 7] BORANG PERANTI PENGAWASAN ELEKTRONIK DALAM MAHKAMAH SESYEN DI ….……. DALAM NEGERI …………."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Nama: ………………………………………………………………………...."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "No. Kes: ………………………………………................………………....."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "No. Kad Pengenalan: …………………………………………......……......."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_4",
+      "@type": "akn:paragraph",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Alamat: ..................................................................................................... ................................................................................................................... ..................................................................................................................."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_5",
+      "@type": "akn:paragraph",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "No. Telefon: ….........................................................................................."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_6",
+      "@type": "akn:paragraph",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Anggota keluarga untuk dihubungi: .......................................................... ..................................................................................................................."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_7",
+      "@type": "akn:paragraph",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tempoh peranti pengawasan elektronik (“peranti”) dipasang: .................."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_8",
+      "@type": "akn:paragraph",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_8__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_8__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_8__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_8__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_8__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_8__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_8__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_8__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_8__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_8__para_k"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Terma-terma dan syarat-syarat:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk melaporkan diri di balai polis yang terdekat pada/bagi tiap-tiap ...................…;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memahami bahawa semua pergerakan akan dijejaki dan disimpan sebagai rekod rasmi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_8__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bersetuju untuk dikehendaki untuk melaporkan diri bagi pemeriksaan kelengkapan peranti jika perlu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_8__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk memberitahu pegawai polis jika terdapat apa-apa pertukaran alamat;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_8__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk membenarkan pemeriksaan peranti oleh pegawai polis;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_8__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk melaporkan diri di balai polis yang terdekat bagi peranti itu dibuka;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_8__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk memulangkan semua kelengkapan peranti kepada pegawai polis;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_8__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mematuhi tatacara yang dikehendaki oleh pegawai polis;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_8__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menyenggara peranti sebagaimana yang diarahkan oleh pegawai polis;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_8__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mematuhi apa-apa arahan pegawai polis;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_8__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mematuhi apa-apa syarat lain yang ditentukan oleh mahkamah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1__para_9",
+      "@type": "akn:paragraph",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/10/msa@/~sched_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketidakpatuhan terma-terma dan syarat-syarat ini merupakan suatu kesalahan di bawah subseksyen 7(6) Akta Pencegahan Keganasan 2015. Saya dengan ini bersetuju dan akan mematuhi terma-terma dan syarat-syarat sebagaimana yang dinyatakan dalam Borang ini. …………………………………… ( )"
+      }
+    }
+  ]
+}

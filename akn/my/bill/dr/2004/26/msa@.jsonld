@@ -1,0 +1,433 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-26-2004",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6B",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_11"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-undang Sewa Beli (Pindaan) 2004"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_1__subsec_2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "( 1 ) Akta ini bolehlah dinamakan Akta Sewa Beli (Pindaan)"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "2004."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 39 Akta ibu dipinda dengan memasukkan selepas perkataan \"opposite the alteration or additional matter\" perkataan \"or, the hirer or his agent has consented to the alteration or the additional matter by signing an agreement supplemental to the hire-purchase agreement\". Seksyen baru 57A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 57 seksyen yang berikut: \"Power to amend Schedules 57A. (1) The Minister may by order published in the Gazette amend the Schedules to this Act. Sewa Beli (Pindaan) (2) Hire-purchase agreements entered into prior to any amendment, or variation of, deletion from, or addition to, any Schedule to this Act shall not be affected by such amendment, variation, deletion or addition and the Act shall continue to apply or not to apply, as the case may be, to such hire-purchase agreements.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan seksyen 1"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Sewa Beli 1967 [Akta 212], yang disebut \"Akta ibu\" dalam Akta ini, dipinda dalam seksyen 1 dengan memotong subseksyen (3) dan proviso kepada subseksyen itu. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 2 Akta ibu dipinda dengan memasukkan selepas takrif \"action\" takrif yang berikut: ' \"base lending rate\" means the minimum interest rate based on owner's cost of funds and other administrative costs;'. 2 Rang Undang-Undang Pindaan seksyen 4c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 4c Akta ibu dipinda dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: \"(1A) Paragraph (l)(d) shall not apply where in the hire-purchase agreement the terms charges are at a variable rate. (1B) Where in a hire-purchase agreement the terms charges are at a variable rate, the following items shall be specified in the hire-purchase agreement based on the terms charges calculated in accordance with the base lending rate applicable at the time the hire-purchase agreement is entered into: (a) the number of instalments to be paid under the agreement by the hirer; (b) the amount of each of these instalments; (c) the annual percentage rate of terms charges which shall be calculated in accordance with the formula set out in the Seventh Schedule; and (d) the balance originally payable under the agreement.\". Bahagian baru IIA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas Bahagian II Bahagian yang berikut: \"PART IIA OPTION TO HIRER Option to hirer"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 14 Akta ibu dipinda dengan menggantikan subseksyen (2) dengan subseksyen yang berikut: \"(2) For the purposes of subsection (1)— (a) where in the hire-purchase agreement the terms charges are at a fixed rate, the net balance due is the balance originally payable under the agreement less— (i) any amounts (other than the deposit) paid or provided by or on behalf of the hirer under the agreement; (ii) the statutory rebate for terms charges; and (iii) if the hirer requires any contract of insurance to be cancelled, the statutory rebate for insurance; or Rang Undang-Undang (b) where in the hire-purchase agreement the terms charges are at a variable rate, the net balance due is the outstanding amount financed and terms charges accrued and calculated up to the next due date of payment less, if the hirer requires any contract of insurance to be cancelled, the statutory rebate for insurance.\". Pindaan seksyen 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6A",
+      "@type": "akn:clause",
+      "eli:number": "6A",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6A__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6A__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6A__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6A",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "An owner shall provide an option to the hirer for the terms charges under a hire-purchase agreement to be at a fixed rate or at a variable rate."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6A__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6A",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "A variable rate of terms charges shall be quoted at a margin percentage above the base lending rate. Right of owner to revise the base lending rate"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6B",
+      "@type": "akn:clause",
+      "eli:number": "6B",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6B__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6B__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6B__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6B__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6B",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Where in the hire-purchase agreement the terms charges are at a variable rate, the owner may revise the base lending rate at any time during the continuance of the agreement. Sewa Beli (Pindaan)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6B__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6B",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Where the owner has revised the base lending rate, the rate and total amount of terms charges and the amount of each instalment or the number of instalments under the hire-purchase agreement shall be revised accordingly."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6B__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6B__subsec_3__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6B__subsec_3__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6B",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Where the owner has revised the base lending rate, he shall serve a notice to hirer specifying the following:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6B__subsec_3__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6B__subsec_3__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6B__subsec_3__list_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6B__subsec_3__list_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6B__subsec_3__list_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6B__subsec_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6B__subsec_3__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6B__subsec_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "the revised base lending rate;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6B__subsec_3__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6B__subsec_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "the revised rate of terms charges;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6B__subsec_3__list_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6B__subsec_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "the revised total amount of terms charges; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6B__subsec_3__list_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6B__subsec_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "the revised amount of instalments or the revised number of instalments, as the case may be. Right of hirer where the base lending rate is revised 6c. Where the owner has revised the base lending rate, the hirer may opt whether—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6B__subsec_3__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6B__subsec_3__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6B__subsec_3__list_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6B__subsec_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6B__subsec_3__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6B__subsec_3__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "to retain the existing number of instalments and vary the amount of instalments; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6B__subsec_3__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_6B__subsec_3__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "to retain the existing amount of instalments and vary the number of instalments.\". Pindaan seksyen 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_7__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_7__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 15(6) Akta ibu dipinda dengan menggantikan perenggan (a) dengan perenggan yang berikut: '(a) \"balance outstanding under the hire-purchase agreement\" means—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "the amount paid by or on behalf of the hirer excluding deposit;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "statutory rebate for terms charges; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_7__para_c__subpara_ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "statutory rebate for insurance, if any; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_7__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_7__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "where in the hire-purchase agreement the terms charges are at a variable rate, the outstanding amount financed and terms charges accrued and calculated up to the next due date of payment less statutory rebate for insurance, if any;'. Pindaan seksyen 18"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_7__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "where in the hire-purchase agreement the terms charges are at a fixed rate, the total sum payable by the hirer to complete the purchase of goods to which the agreement relates and the amount derived from interest on overdue instalments which has yet to be paid less—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_8__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_8__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_8__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 18 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subperenggan (l)(b)(i) dengan subperenggan yang berikut: \"(i) where in the hire-purchase agreement the terms charges are at a fixed rate, if the value of the goods at the time of the owner so taking possession of the goods— (A) is less than the net amount payable but the total of that value and the amount paid or Sewa Beli (Pindaan) 5 provided, whether by cash or other consideration, by or on behalf of the hirer under the agreement exceeds the net amount payable, the difference between that total and the net amount payable; or (B) is equal to or greater than the net amount payable, the total of that value and the amount paid or provided, whether by cash or other consideration, by or on behalf of the hirer under the agreement, less the net amount payable; or\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subperenggan (l)(b)(ii) dengan subperenggan yang berikut: \"(ii) where in the hire-purchase agreement the terms charges are at a variable rate and the value of the goods at the time of the owner so taking possession of the goods is equal to or greater than the balance outstanding under the hire-purchase agreement, the difference between the value of the goods and the balance outstanding under the hire purchase agreement.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_8__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (2) dengan subseksyen yang berikut: \"(2) Where the owner takes possession of any goods comprised in a hire-purchase agreement, the owner is not entitled to recover— (a) where in the hire-purchase agreement the terms charges are at a fixed rate, any sum (whether under a judgment or order or otherwise) exceeding the net amount payable in respect of the goods obtained by adding— (i) the value of the goods at the time of the owner so taking possession of the goods; and (ii) the amount paid or provided, whether by cash or other consideration, by or on behalf of the hirer under the agreement; or 6 Rang Undang-Undang (b) where in the hire-purchase agreement the terms charges are at a variable rate, any sum (whether under a judgment or order or otherwise) which exceeds the balance outstanding under the hire-purchase agreement.\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_8__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3)— (i) dalam perenggan (a), dengan memotong perkataan \"and\" di hujung perenggan itu; dan (ii) dengan memasukkan selepas perenggan (a) perenggan yang berikut: \"(aa) the balance outstanding under the hire-purchase agreement is the outstanding amount financed and terms charges accrued and calculated up to the time of the owner taking possession of the goods less the statutory rebates for insurance; and\". Pindaan seksyen 34"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/26/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 34(c) Akta ibu dipinda dengan memasukkan selepas perkataan \"per annum\" perkataan \"under a hire-purchase agreement which provides for terms charges at a fixed rate or, two per centum above the prevailing rate of terms charges, under a hire-purchase agreement which provides for terms charges at a variable rate,\". Pindaan seksyen 39"
+      }
+    }
+  ]
+}

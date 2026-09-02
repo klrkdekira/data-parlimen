@@ -32,7 +32,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 5. The principal Act is amended by inserting after Part XI the following part:
 
-“Part XIa
+## “PART XIA
 
 ## ADDITIONAL MODIFICATIONS TO THE HOUSING
 
@@ -180,7 +180,7 @@ Control of Infectious Diseases Act 1988 to control or prevent the spread of COVI
 
 (2) For the purposes of subsection (1), “enhanced movement control order” refers to directions given by an authorized officer under subsection 11(3) of the Prevention and Control of Infectious Diseases Act 1988.
 
-Part XIIIb
+## PART XIIIB
 
 ## MODIFICATIONS TO THE SARAWAK LABOUR ORDINANCE
 

@@ -44,7 +44,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 4. Akta ibu dipinda dengan memasukkan selepas Bahagian III Bahagian yang berikut:
 
-“Bahagian IIIa
+## “BAHAGIAN IIIA
 
 ## LEMBAGA PEMANTAUAN AUDIT
 
@@ -640,7 +640,7 @@ tidak boleh menzahirkan apa-apa maklumat yang telah diperolehnya semasa menjalan
 
 7. Akta ibu dipinda dengan memasukkan selepas seksyen 166 Jadual yang berikut:
 
-“Jadual 1
+## “JADUAL 1
 
 [Seksyen 31a]
 
@@ -660,7 +660,7 @@ tidak boleh menzahirkan apa-apa maklumat yang telah diperolehnya semasa menjalan
 
 (h) mana-mana orang lain sebagaimana yang ditetapkan oleh Menteri melalui perintah yang disiarkan dalam Warta.
 
-## Jadual 2
+## JADUAL 2
 
 [Seksyen 31d]
 
@@ -686,13 +686,7 @@ tidak boleh menzahirkan apa-apa maklumat yang telah diperolehnya semasa menjalan
 
 (a) dia mati;
 
-(b) telah dibuktikan terhadapnya, atau dia telah disabitkan atas, suatu pertuduhan berkenaan dengan— (i) apa-apa kesalahan yang melibatkan fraud atau kecurangan;
-
-(ii) suatu kesalahan di bawah mana-mana undang-undang yang berhubungan dengan rasuah;
-
-(iii) apa-apa kesalahan lain yang boleh dihukum dengan pemenjaraan (sama ada pemenjaraan sahaja atau sebagai tambahan kepada denda atau sebagai ganti denda) selama lebih daripada dua tahun; atau
-
-(iv) suatu kesalahan di bawah seksyen 31g;
+(b) telah dibuktikan terhadapnya, atau dia telah disabitkan atas, suatu pertuduhan berkenaan dengan— (i) apa-apa kesalahan yang melibatkan fraud atau kecurangan; (ii) suatu kesalahan di bawah mana-mana undang-undang yang berhubungan dengan rasuah; (iii) apa-apa kesalahan lain yang boleh dihukum dengan pemenjaraan (sama ada pemenjaraan sahaja atau sebagai tambahan kepada denda atau sebagai ganti denda) selama lebih daripada dua tahun; atau (iv) suatu kesalahan di bawah seksyen 31g;
 
 (c) dia menjadi bankrap;
 

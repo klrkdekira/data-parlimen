@@ -84,11 +84,7 @@ Kerja (Pindaan)
 
 6. Seksyen 601 Akta ibu dipinda dengan memasukkan selepas subseksyen (2) subseksyen yang berikut:
 
-"(3) For the purpose of this section,
-
-<!-- marginal: the Director General -->
-
-may, on application made to him in writing by an employer, approve in writing any incentive payment scheme as an approved incentive payment scheme.".
+"(3) For the purpose of this section, the Director General may, on application made to him in writing by an employer, approve in writing any incentive payment scheme as an approved incentive payment scheme.".
 
 ### Pindaan seksyen 63
 

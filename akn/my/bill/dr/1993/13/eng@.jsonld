@@ -72,7 +72,7 @@
       },
       "schema:text": {
         "@language": "en",
-        "@value": "121 the following new section 12lA: Buildings 121 A. No person shall erect a building or any not to be extension of a building over any sewer unless he erected over shall have obtained the consent of the Director sewers. General and shall have complied with any requirements which may be attached by the Director General to his consent.\". Amendment"
+        "@value": "121 the following new section 12lA: Buildings 121 A. No person shall erect a building or any not to be extension of a building over any sewer unless he erected over shall have obtained the consent of the Director sewers. General and shall have complied with any requirements which may be attached by the Director General to his consent.\"."
       }
     },
     {
@@ -86,7 +86,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/13/eng@",
       "schema:name": {
         "@language": "en",
-        "@value": "Section 122 of the Ordinance is amended— of section"
+        "@value": "Section 122 of the Ordinance is amended—"
       },
       "schema:text": {
         "@language": "en",
@@ -110,7 +110,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/13/eng@/~cl_11",
       "schema:text": {
         "@language": "en",
-        "@value": "by deleting the words \"private sewer\" and \"private sewer or\" wherever appearing in the section. Amendment"
+        "@value": "by deleting the words \"private sewer\" and \"private sewer or\" wherever appearing in the section."
       }
     },
     {
@@ -124,7 +124,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/13/eng@",
       "schema:name": {
         "@language": "en",
-        "@value": "Section 123 ofthe Ordinance is amended— of section"
+        "@value": "Section 123 ofthe Ordinance is amended—"
       },
       "schema:text": {
         "@language": "en",
@@ -148,7 +148,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/13/eng@/~cl_12",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for the full stop at the end of section 123 a colon and inserting thereafter the following proviso: Provided that any works to be carried out to abate such nuisance in respect of the sewerage system shall be in accordance with the rules, regulations and by-laws made pursuant to the Act Sewerage Services Act 1993.\". Deletion of"
+        "@value": "by substituting for the full stop at the end of section 123 a colon and inserting thereafter the following proviso: Provided that any works to be carried out to abate such nuisance in respect of the sewerage system shall be in accordance with the rules, regulations and by-laws made pursuant to the Act Sewerage Services Act 1993.\"."
       }
     },
     {
@@ -156,9 +156,13 @@
       "@type": "akn:clause",
       "eli:number": "13",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/13/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Ordinance is amended by deleting sections 125"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "The Ordinance is amended by deleting sections 125 sections 125 and 128. and 128. Amendment"
+        "@value": "and 128."
       }
     },
     {
@@ -172,7 +176,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/13/eng@",
       "schema:name": {
         "@language": "en",
-        "@value": "Section 130 of the Ordinance is amended— of section"
+        "@value": "Section 130 of the Ordinance is amended—"
       },
       "schema:text": {
         "@language": "en",
@@ -196,7 +200,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/13/eng@/~cl_14",
       "schema:text": {
         "@language": "en",
-        "@value": "by deleting the words \"and night soil\" in paragraph (d) of subsection (1). Amendment"
+        "@value": "by deleting the words \"and night soil\" in paragraph (d) of subsection (1)."
       }
     },
     {
@@ -204,37 +208,28 @@
       "@type": "akn:clause",
       "eli:number": "15",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/13/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 131 of the Ordinance is amended by deleting"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Section 131 of the Ordinance is amended by deleting of section the words \", cesspools, septic tanks, sewers\" and \"or night 131. soil\". Amendment"
+        "@value": "the words \", cesspools, septic tanks, sewers\" and \"or night 131. soil\"."
       }
     },
     {
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/13/eng@/~cl_16",
       "@type": "akn:clause",
       "eli:number": "16",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/13/eng@/~cl_16__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/13/eng@/~cl_16__para_b"
-      ],
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/13/eng@/~cl_16__para_b",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/13/eng@",
       "schema:name": {
         "@language": "en",
-        "@value": "Section 132 of the Ordinance is amended— of section"
+        "@value": "Section 132 of the Ordinance is amended—"
       },
       "schema:text": {
         "@language": "en",
-        "@value": "132."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/13/eng@/~cl_16__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/13/eng@/~cl_16",
-      "schema:text": {
-        "@language": "en",
-        "@value": "by deleting paragraphs (f), (g)', (h), (i) and (j); and"
+        "@value": "132. (a) by deleting paragraphs (f), (g)', (h), (i) and (j); and"
       }
     },
     {
@@ -293,7 +288,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/13/eng@/~cl_2",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after the definition of \"sanitary conventence\" the following new definitions: \"sewage\" has the same meaning assigned to it under the Sewerage Services Act 1993; \"sewerage system\" has the same meaning assigned to it under the Sewerage Services Act 1993;' Amendment"
+        "@value": "by inserting after the definition of \"sanitary conventence\" the following new definitions: \"sewage\" has the same meaning assigned to it under the Sewerage Services Act 1993; \"sewerage system\" has the same meaning assigned to it under the Sewerage Services Act 1993;'"
       }
     },
     {
@@ -307,7 +302,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/13/eng@",
       "schema:name": {
         "@language": "en",
-        "@value": "Section 111 of the Ordinance is amended— of section"
+        "@value": "Section 111 of the Ordinance is amended—"
       },
       "schema:text": {
         "@language": "en",
@@ -331,7 +326,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/13/eng@/~cl_3",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after the word \"effluent\" the words \"other than sewage\". Amendment"
+        "@value": "by inserting after the word \"effluent\" the words \"other than sewage\"."
       }
     },
     {
@@ -347,7 +342,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/13/eng@",
       "schema:name": {
         "@language": "en",
-        "@value": "Section 112 of the Ordinance is amended— of section"
+        "@value": "Section 112 of the Ordinance is amended—"
       },
       "schema:text": {
         "@language": "en",
@@ -391,7 +386,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/13/eng@/~cl_4",
       "schema:text": {
         "@language": "en",
-        "@value": "by deleting the words \"such sewage disposal or\" in subsection (3). Amendment"
+        "@value": "by deleting the words \"such sewage disposal or\" in subsection (3)."
       }
     },
     {
@@ -405,7 +400,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/13/eng@",
       "schema:name": {
         "@language": "en",
-        "@value": "Section 116 of the Ordinance is amended— of section"
+        "@value": "Section 116 of the Ordinance is amended—"
       },
       "schema:text": {
         "@language": "en",
@@ -429,7 +424,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/13/eng@/~cl_5",
       "schema:text": {
         "@language": "en",
-        "@value": "by deleting the words \"public and private sewers and\" in the section. Amendment"
+        "@value": "by deleting the words \"public and private sewers and\" in the section."
       }
     },
     {
@@ -444,7 +439,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/13/eng@",
       "schema:name": {
         "@language": "en",
-        "@value": "Section 117 of the Ordinance is amended— of section"
+        "@value": "Section 117 of the Ordinance is amended—"
       },
       "schema:text": {
         "@language": "en",

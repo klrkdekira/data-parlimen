@@ -10,15 +10,7 @@ D.R. 17/99
 
 ## SUSUNAN FASAL
 
-1. Tajuk ringkas
-
-2. Tafsiran
-
-3. Pemakaian
-
-4. Percanggahan atau ketidakselarasan
-
-5. Kelulusan Menteri dan Menteri Kewangan
+1. Tajuk ringkas 2. Tafsiran 3. Pemakaian 4. Percanggahan atau ketidakselarasan 5. Kelulusan Menteri dan Menteri Kewangan
 
 <!-- page 3 -->
 

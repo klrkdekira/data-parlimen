@@ -52,15 +52,27 @@ oleh Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan De
 
 <!-- page 4 -->
 
-"bidan berdaftar" ertinya mana-mana orang yang Akta 436. didaftarkan di bawah Akta Bidan 1966;
+"bidan berdaftar" ertinya mana-mana orang yang
 
-"jururawat berdaftar" ertinya mana-mana orang yang Akta 14. didaftarkan di bawah Akta Jururawat 1950;
+<!-- marginal: Akta 436. -->
+
+didaftarkan di bawah Akta Bidan 1966;
+
+"jururawat berdaftar" ertinya mana-mana orang yang
+
+<!-- marginal: Akta 14. -->
+
+didaftarkan di bawah Akta Jururawat 1950;
 
 "Ketua Pengarah" ertinya Ketua Pengarah Kesihatan, Malaysia;
 
 "Majlis" ertinya Majlis Perubatan Malaysia yang ditubuhkan di bawah seksyen 3 Akta Perubatan;
 
-"pembantu perubatan berdaftar" ertinya mana-mana Akta 180. orang yang didaftarkan di bawah Akta Pembantu Perubatan (Pendaftaran) 1977;
+"pembantu perubatan berdaftar" ertinya mana-mana
+
+<!-- marginal: Akta 180. -->
+
+orang yang didaftarkan di bawah Akta Pembantu Perubatan (Pendaftaran) 1977;
 
 "pengamal perubatan berdaftar penuh" ertinya mana- mana orang yang didaftarkan penuh di bawah seksyen 14 Akta Perubatan;
 
@@ -68,11 +80,19 @@ oleh Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan De
 
 "teleperubatan" ertinya amalan perubatan dengan menggunakan komunikasi audio, visual dan data.
 
-Orang-orang
+<!-- marginal: Orang-orang -->
 
-3. (1) Tiada seorang pun, selain— yang boleh mengamalkan
+3. (1) Tiada seorang pun, selain—
 
-(a) pengamal perubatan berdaftar penuh yang teleperubatan. memegang suatu perakuan amalan yang sah; atau
+<!-- marginal: yang boleh -->
+
+<!-- marginal: mengamalkan -->
+
+(a) pengamal perubatan berdaftar penuh yang
+
+<!-- marginal: teleperubatan. -->
+
+memegang suatu perakuan amalan yang sah; atau
 
 (b) pengamal perubatan yang didaftarkan atau dilesenkan di luar Malaysia dan— (i) memegang perakuan untuk mengamalkan teleperubatan yang dikeluarkan oleh Majlis; dan (ii) mengamalkan teleperubatan dari luar Malaysia melalui seorang pengamal perubatan berdaftar penuh yang memegang perakuan amalan yang sah,
 
@@ -114,7 +134,13 @@ pengamal perubatan yang didaftarkan atau dilesenkan di luar Malaysia melalui seo
 
 (5) Mana-mana orang yang terkilan dengan keengganan Majlis untuk mengeluarkan suatu perakuan untuk mengamalkan teleperubatan atau dengan pembatalan sesuatu perakuan untuk mengamalkan teleperubatan boleh merayu kepada Menteri dan keputusan Menteri adalah muktamad.
 
-5. (1) Sebelum seseorang pengamal perubatan berdaftar Persetujuan pesakit. penuh mengamalkan teleperubatan berhubungan dengan seseorang pesakit, pengamal perubatan berdaftar penuh itu hendaklah mendapatkan persetujuan bertulis pesakit itu.
+5. (1) Sebelum seseorang pengamal perubatan berdaftar
+
+<!-- marginal: Persetujuan -->
+
+<!-- marginal: pesakit. -->
+
+penuh mengamalkan teleperubatan berhubungan dengan seseorang pesakit, pengamal perubatan berdaftar penuh itu hendaklah mendapatkan persetujuan bertulis pesakit itu.
 
 (2) Persetujuan yang diberikan oleh seseorang pesakit di bawah subseksyen (1) tidaklah sah bagi maksud subseksyen itu melainkan jika pengamal perubatan berdaftar penuh itu sudah, sebelum persetujuan itu diberikan, memaklumkan pesakit itu—
 
@@ -150,7 +176,9 @@ disebarkan kepada mana-mana penyelidik atau mana-mana orang lain tanpa persetuju
 
 <!-- page 8 -->
 
-8 Rang Undang-Undang
+<!-- marginal: 8 -->
+
+Rang Undang-Undang
 
 (b) untuk mengadakan peruntukan bagi jaminan mutu dan kawalan mutu boleh terima berkenaan dengan perkhidmatan teleperubatan;
 

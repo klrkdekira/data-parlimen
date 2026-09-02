@@ -126,7 +126,7 @@ kesalahan dan boleh, apabila disabitkan, dipenjarakan selama tempoh tidak melebi
 
 8. Akta ibu dipinda dengan memasukkan selepas Bahagian Va bahagian yang berikut:
 
-“Bahagian VB
+## “BAHAGIAN VB
 
 ## PEMILIHAN OLEH AHLI KUMPULAN WANG UNTUK
 
@@ -182,7 +182,9 @@ Jika caruman di bawah seksyen 53d telah dipindahkan secara silap, Lembaga boleh 
 
 11. Akta ibu dipinda dengan memasukkan selepas Jadual Ketujuh jadual yang berikut:
 
-“Jadual Kelapan [Seksyen 53d dan 53e]
+## “JADUAL KELAPAN
+
+[Seksyen 53d dan 53e]
 
 ## PEMILIHAN OLEH AHLI KUMPULAN WANG UNTUK MEMINDAHKAN
 
@@ -206,13 +208,23 @@ ke dalam akaun ahli Kumpulan Wang yang lain yang merupakan isteri atau isteri-is
 
 <!-- marginal: (3) -->
 
-Kriteria ahli Kriteria ahli Kadar caruman Kumpulan Wang Kumpulan Wang
+Kriteria ahli Kriteria ahli
+
+<!-- marginal: Kadar caruman -->
+
+Kumpulan Wang Kumpulan Wang
 
 <!-- marginal: yang akan -->
 
-yang memilih yang menerima dipindahkan untuk memindahkan caruman yang carumannya dipindahkan
+yang memilih yang menerima
 
-Ahli Kumpulan Wang Ahli Kumpulan 2%
+<!-- marginal: dipindahkan -->
+
+untuk memindahkan caruman yang carumannya dipindahkan
+
+Ahli Kumpulan Wang Ahli Kumpulan
+
+<!-- marginal: 2% -->
 
 <!-- marginal: caruman -->
 
@@ -220,7 +232,9 @@ itu— Wang itu
 
 <!-- marginal: x pekerja -->
 
-merupakan 11% ahli
+merupakan
+
+<!-- marginal: 11% ahli -->
 
 (a) merupakan warganegara
 
@@ -248,7 +262,23 @@ Malaysia; dan
 
 <!-- marginal: caruman itu -->
 
-(b) menerima caruman Jumlah caruman yang majikan secara termasuk wang sen bulanan hendaklah digenapkan kepada ringgit yang ”. berikutnya
+(b) menerima caruman
+
+<!-- marginal: Jumlah caruman yang -->
+
+majikan secara
+
+<!-- marginal: termasuk wang sen -->
+
+bulanan
+
+<!-- marginal: hendaklah digenapkan -->
+
+<!-- marginal: kepada ringgit yang -->
+
+”.
+
+<!-- marginal: berikutnya -->
 
 ## HURAIAN
 

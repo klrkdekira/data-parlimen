@@ -8,13 +8,13 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## KUMPULAN WANG AMANAH NEGARA DAN TADBIR URUSNYA
 
@@ -26,7 +26,13 @@ Kumpulan Wang Amanah Negara
 
 Penggal 2 Kumpulan Wang Amanah Negara (Diperbadankan)
 
-8. Penubuhan Kumpulan Wang Amanah Negara (Diperbadankan) 9. Fungsi dan kuasa Kumpulan Wang Amanah Negara (Diperbadankan) 10. Meterai perbadanan 11. Lembaga Kumpulan Wang Amanah Negara (Diperbadankan) 12. Kewajipan dan kuasa Lembaga
+8. Penubuhan Kumpulan Wang Amanah Negara (Diperbadankan) 9. Fungsi dan kuasa Kumpulan Wang Amanah Negara (Diperbadankan)
+
+10. Meterai perbadanan
+
+11. Lembaga Kumpulan Wang Amanah Negara (Diperbadankan)
+
+12. Kewajipan dan kuasa Lembaga
 
 <!-- page 2 -->
 
@@ -52,7 +58,7 @@ Penggal 2 Kumpulan Wang Amanah Negara (Diperbadankan)
 
 23. Pemakaian Akta Perlindungan Pihak Berkuasa Awam 1948
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PENGGUNAAN KUMPULAN WANG
 
@@ -62,7 +68,7 @@ Penggal 2 Kumpulan Wang Amanah Negara (Diperbadankan)
 
 26. Permohonan bagi pengeluaran daripada Kumpulan Wang
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PELABURAN KUMPULAN WANG
 
@@ -72,7 +78,7 @@ Penggal 2 Kumpulan Wang Amanah Negara (Diperbadankan)
 
 29. Pelantikan pengurus dana luar
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PELBAGAI
 
@@ -90,11 +96,27 @@ Penggal 2 Kumpulan Wang Amanah Negara (Diperbadankan)
 
 <!-- page 3 -->
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PEMANSUHAN, KECUALIAN DAN PERALIHAN
 
-36. Pemansuhan Akta Kumpulan Wang Amanah Negara 1988 37. Penerusan undang-undang, dsb. 38. Anggota Panel Kumpulan Wang Amanah Negara disifatkan dilantik sebagai anggota Lembaga 39. Pemindahan kuasa, dsb. 40. Pemindahan aset dan harta 41. Kontrak sedia ada, dsb. 42. Penerusan kewajipan dan tanggungjawab Bank Negara Malaysia 43. Penerusan prosiding sivil dan jenayah 44. Pemindahan Kumpulan Wang
+36. Pemansuhan Akta Kumpulan Wang Amanah Negara 1988
+
+37. Penerusan undang-undang, dsb.
+
+38. Anggota Panel Kumpulan Wang Amanah Negara disifatkan dilantik sebagai anggota Lembaga
+
+39. Pemindahan kuasa, dsb.
+
+40. Pemindahan aset dan harta
+
+41. Kontrak sedia ada, dsb.
+
+42. Penerusan kewajipan dan tanggungjawab Bank Negara Malaysia
+
+43. Penerusan prosiding sivil dan jenayah
+
+44. Pemindahan Kumpulan Wang
 
 <!-- page 5 -->
 
@@ -104,7 +126,7 @@ Suatu Akta bagi menubuhkan Kumpulan Wang Amanah Negara, untuk memperbadankan Kum
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -132,7 +154,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 “sumber menyusut” ertinya minyak mentah, bijih mineral, bijih besi atau apa-apa sumber asli lain yang mudah susut.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## KUMPULAN WANG AMANAH NEGARA DAN TADBIR URUSNYA
 
@@ -386,7 +408,7 @@ Kumpulan Wang Amanah Negara (Diperbadankan)
 
 23. Akta Perlindungan Pihak Berkuasa Awam 1948 [Akta 198] hendaklah terpakai bagi apa-apa tindakan, guaman, pendakwaan atau prosiding terhadap Lembaga, anggota Lembaga, jawatankuasa, anggota jawatankuasa, mana-mana pegawai, mana-mana pekhidmat atau mana-mana orang lain yang bertindak di bawah arahan Lembaga berkenaan dengan apa-apa perbuatan, pengabaian atau keingkaran yang dibuat atau dilakukan olehnya dengan suci hati atau apa-apa peninggalan olehnya dengan suci hati atas sifat sedemikian.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PENGGUNAAN KUMPULAN WANG
 
@@ -432,7 +454,7 @@ Kumpulan Wang Amanah Negara (Diperbadankan)
 
 <!-- page 19 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PELABURAN KUMPULAN WANG
 
@@ -494,7 +516,7 @@ dan termasuklah apa-apa hak, opsyen atau kepentingan yang berkenaan dengannya.
 
 29. Lembaga boleh, atas syor pengurus dana utama, melantik pengurus dana luar untuk melaburkan Kumpulan Wang mengikut Akta ini atau peraturan-peraturan yang dibuat di bawah Akta ini atau mana-mana garis panduan yang dikeluarkan di bawah Akta ini.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PELBAGAI
 
@@ -550,7 +572,7 @@ dan termasuklah apa-apa hak, opsyen atau kepentingan yang berkenaan dengannya.
 
 (3) Mana-mana orang yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PEMANSUHAN, KECUALIAN DAN PERALIHAN
 
@@ -630,7 +652,7 @@ Akta yang dicadangkan juga bertujuan untuk memperkenalkan pembaharuan Kumpulan W
 
 (c) menubuhkan Lembaga Kumpulan Wang Amanah Negara (Diperbadankan) (“Lembaga”) dengan kewajipan dan kuasa yang jelas dan mengukuhkan fungsinya berkenaan dengan pelaburan Kumpulan Wang.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I Akta yang dicadangkan memperkatakan perkara permulaan.
 
@@ -638,7 +660,7 @@ Akta yang dicadangkan juga bertujuan untuk memperkenalkan pembaharuan Kumpulan W
 
 4. Fasal 2 mengandungi takrif perkataan dan ungkapan tertentu yang digunakan dalam Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 5. Bahagian II Akta yang dicadangkan memperkatakan Kumpulan Wang Amanah Negara dan tadbir urusnya dan mengandungi dua puluh satu peruntukan yang dibahagikan kepada dua Penggal.
 
@@ -710,7 +732,7 @@ Subfasal 19(4) mengekalkan kesahan keputusan Lembaga atau jawatankuasa walaupun 
 
 28. Fasal 23 bertujuan untuk memperuntukkan bahawa Akta Perlindungan Pihak Berkuasa Awam 1948 [Akta 198] terpakai bagi apa-apa tindakan, guaman, pendakwaan atau prosiding terhadap Lembaga, mana-mana anggota Lembaga, jawatankuasa, mana-mana anggota jawatankuasa, mana-mana pegawai atau pekhidmat atau mana-mana orang lain yang bertindak di bawah arahan Lembaga berkenaan dengan apa-apa perbuatan, pengabaian atau keingkaran yang dibuat atau dilakukan, atau apa-apa peninggalan, olehnya dengan suci hati.
 
-## Bahagian III
+## BAHAGIAN III
 
 29. Bahagian III Akta yang dicadangkan bertujuan untuk mengadakan peruntukan bagi penggunaan Kumpulan Wang.
 
@@ -730,7 +752,7 @@ Subfasal 26(2) bertujuan untuk memperuntukkan alasan bagi penolakan suatu permoh
 
 Subfasal 26(3) menghendaki penerima pendanaan untuk mengemukakan laporan kepada Menteri dengan menyatakan penggunaannya dan takat bagi maksud pendanaan yang dihasratkan yang telah tercapai.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 33. Bahagian IV Akta yang dicadangkan memperkatakan pelaburan Kumpulan Wang.
 
@@ -746,7 +768,7 @@ Subfasal 27(3) dan (4) memperuntukkan bahawa SAA hendaklah diluluskan oleh Mente
 
 36. Fasal 29 bertujuan untuk memberi Lembaga kuasa untuk melantik pengurus dana luar atas syor pengurus dana utama. Pengurus dana utama mempunyai tanggungjawab secara menyeluruh untuk pelaburan Kumpulan Wang, manakala pengurus dana luar akan menjadi firma pengurusan dana profesional yang dilantik untuk menguruskan suatu bahagian khusus portfolio dalam Kumpulan Wang.
 
-## Bahagian V
+## BAHAGIAN V
 
 37. Bahagian V Akta yang dicadangkan memperkatakan peruntukan pelbagai.
 
@@ -764,7 +786,7 @@ Subfasal 27(3) dan (4) memperuntukkan bahawa SAA hendaklah diluluskan oleh Mente
 
 43. Fasal 35 bertujuan untuk mengenakan obligasi kerahsiaan ke atas anggota Lembaga atau jawatankuasanya, pegawai atau pekhidmat Kumpulan Wang Amanah Negara (Diperbadankan), dan orang lain yang mempunyai akses kepada maklumat yang berhubungan dengan hal ehwal Kumpulan Wang Amanah Negara (Diperbadankan) semasa menjalankan kewajipan mereka, yang pelanggarannya merupakan suatu kesalahan.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 44. Bahagian VI memperkatakan pemansuhan, kecualian dan peralihan yang berbangkit daripada pemansuhan Akta Kumpulan Wang Amanah Negara 1988.
 

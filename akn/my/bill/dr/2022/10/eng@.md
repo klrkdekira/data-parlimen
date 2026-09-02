@@ -78,63 +78,23 @@ wages exceed RM4,200 but not RM4,300
 
 <!-- page 3 -->
 
-Monthly Employer’s
+Monthly Employer’s Employee’s Total Wages Contribution Contribution
 
-<!-- marginal: Employee’s -->
+48. When RM76.15 RM21.75 RM97.90 wages exceed RM4,300 but not RM4,400
 
-<!-- marginal: Total -->
+49. When RM77.85 RM22.25 RM100.10 wages exceed RM4,400 but not RM4,500
 
-Wages Contribution
+50. When RM79.65 RM22.75 RM102.40 wages exceed RM4,500 but not RM4,600
 
-<!-- marginal: Contribution -->
+51. When RM81.35 RM23.25 RM104.60 wages exceed RM4,600 but not RM4,700
 
-48. When RM76.15
+52. When RM83.15 RM23.75 RM106.90 wages exceed RM4,700 but not RM4,800
 
-<!-- marginal: RM21.75 RM97.90 -->
+53. When RM84.85 RM24.25 RM109.10 wages exceed RM4,800 but not RM4,900
 
-wages exceed RM4,300 but not RM4,400
+54. When RM86.65 RM24.75 RM111.40 wages exceed RM4,900 but not RM5,000
 
-49. When RM77.85
-
-<!-- marginal: RM22.25 RM100.10 -->
-
-wages exceed RM4,400 but not RM4,500
-
-50. When RM79.65
-
-<!-- marginal: RM22.75 RM102.40 -->
-
-wages exceed RM4,500 but not RM4,600
-
-51. When RM81.35
-
-<!-- marginal: RM23.25 RM104.60 -->
-
-wages exceed RM4,600 but not RM4,700
-
-52. When RM83.15
-
-<!-- marginal: RM23.75 RM106.90 -->
-
-wages exceed RM4,700 but not RM4,800
-
-53. When RM84.85
-
-<!-- marginal: RM24.25 RM109.10 -->
-
-wages exceed RM4,800 but not RM4,900
-
-54. When RM86.65
-
-<!-- marginal: RM24.75 RM111.40 -->
-
-wages exceed RM4,900 but not RM5,000
-
-55. When RM86.65
-
-<!-- marginal: RM24.75 RM111.40”; and -->
-
-wages exceed RM5,000
+55. When RM86.65 RM24.75 RM111.40”; and wages exceed RM5,000
 
 <!-- page 4 -->
 
@@ -142,87 +102,39 @@ wages exceed RM5,000
 
 (i) by substituting for item 45 the following item:
 
-Monthly Wages
+Monthly Wages Employer’s Contribution
 
-<!-- marginal: Employer’s -->
-
-<!-- marginal: Contribution -->
-
-“45. When wages exceed RM4,000
-
-<!-- marginal: RM50.60”; and -->
-
-but not RM4,100
+“45. When wages exceed RM4,000 RM50.60”; and but not RM4,100
 
 (ii) by inserting after item 45 the following items:
 
-Monthly Wages
+Monthly Wages Employer’s Contribution
 
-<!-- marginal: Employer’s -->
+“46. When wages exceed RM4,100 RM51.90 but not RM4,200
 
-<!-- marginal: Contribution -->
+47. When wages exceed RM4,200 RM53.10 but not RM4,300
 
-“46. When wages exceed RM4,100
+48. When wages exceed RM4,300 RM54.40 but not RM4,400
 
-<!-- marginal: RM51.90 -->
+49. When wages exceed RM4,400 RM55.60 but not RM4,500
 
-but not RM4,200
+50. When wages exceed RM4,500 RM56.90 but not RM4,600
 
-47. When wages exceed RM4,200
+51. When wages exceed RM4,600 RM58.10 but not RM4,700
 
-<!-- marginal: RM53.10 -->
+52. When wages exceed RM4,700 RM59.40 but not RM4,800
 
-but not RM4,300
+53. When wages exceed RM4,800 RM60.60 but not RM4,900
 
-48. When wages exceed RM4,300
+54. When wages exceed RM4,900 RM61.90 but not RM5,000
 
-<!-- marginal: RM54.40 -->
-
-but not RM4,400
-
-49. When wages exceed RM4,400
-
-<!-- marginal: RM55.60 -->
-
-but not RM4,500
-
-50. When wages exceed RM4,500
-
-<!-- marginal: RM56.90 -->
-
-but not RM4,600
-
-51. When wages exceed RM4,600
-
-<!-- marginal: RM58.10 -->
-
-but not RM4,700
-
-52. When wages exceed RM4,700
-
-<!-- marginal: RM59.40 -->
-
-but not RM4,800
-
-53. When wages exceed RM4,800
-
-<!-- marginal: RM60.60 -->
-
-but not RM4,900
-
-54. When wages exceed RM4,900
-
-<!-- marginal: RM61.90 -->
-
-but not RM5,000
-
-55. When wages exceed RM5,000
-
-<!-- marginal: RM61.90”. -->
+55. When wages exceed RM5,000 RM61.90”.
 
 ### Amendment of Fourth Schedule
 
-4. The Fourth Schedule to the principal Act is amended in paragraph 4—
+4. The Fourth Schedule to the principal Act is amended in
+
+<!-- marginal: paragraph 4— -->
 
 (a) in item 35, in the column of “First Category”, by substituting for the words “RM68.40” the words “RM68.60”;
 
@@ -232,15 +144,11 @@ but not RM5,000
 
 (c) by substituting for item 45 the following item:
 
-Actual monthly First
-
-<!-- marginal: Second -->
+Actual monthly First Second
 
 <!-- marginal: Corresponding -->
 
-wage of the Category
-
-<!-- marginal: Category -->
+wage of the Category Category
 
 <!-- marginal: assumed -->
 
@@ -258,15 +166,11 @@ exceed RM4,000 but not RM4,100
 
 (d) by inserting after item 45 the following items:
 
-Actual monthly First
-
-<!-- marginal: Second -->
+Actual monthly First Second
 
 <!-- marginal: Corresponding -->
 
-wage of the Category
-
-<!-- marginal: Category -->
+wage of the Category Category
 
 <!-- marginal: assumed -->
 

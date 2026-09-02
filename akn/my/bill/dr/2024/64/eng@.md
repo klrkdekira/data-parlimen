@@ -806,7 +806,7 @@ activity financing offence, the Public Prosecutor may apply to a judge of the Hi
 
 45. The principal Act is amended by inserting after Part VIa the following part:
 
-“Part VIb
+## “PART VIB
 
 ## SUPPRESSION OF RESTRICTED ACTIVITY FINANCING
 
@@ -912,7 +912,7 @@ paragraph (2)(a), (b) or (c), the notice or order shall be served by affixing th
 
 <!-- page 37 -->
 
-### New sections 83a, 83b, 83c, 83d and 83e
+## NEW SECTIONS 83A, 83B, 83C, 83D AND 83E
 
 49. The principal Act is amended by inserting after section 83 the following sections:
 

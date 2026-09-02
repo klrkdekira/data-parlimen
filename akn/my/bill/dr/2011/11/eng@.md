@@ -18,101 +18,129 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 2 -->
 
-## Schedule
+## SCHEDULE
 
-Purpose Title
+<!-- marginal: Purpose -->
+
+Title
 
 <!-- marginal: Amount -->
 
 <!-- marginal: (RM) -->
 
-B. 1 Parliament
+<!-- marginal: B. 1 -->
+
+Parliament
 
 <!-- marginal: 11,305,000 -->
 
-B. 6 Prime Minister’s Department
+<!-- marginal: B. 6 -->
 
-<!-- marginal: 317,383,200 -->
+Prime Minister’s Department 317,383,200
 
-B. 8 Attorney General’s Chambers
+<!-- marginal: B. 8 -->
+
+Attorney General’s Chambers
 
 <!-- marginal: 1,000,000 -->
 
-B. 11 Treasury General Services
+<!-- marginal: B. 11 -->
 
-<!-- marginal: 6,000,000,000 -->
+Treasury General Services 6,000,000,000
 
-B. 13 Ministry of Foreign Affairs
+<!-- marginal: B. 13 -->
+
+Ministry of Foreign Affairs
 
 <!-- marginal: 27,980,000 -->
 
-B. 20 Ministry of Plantation Industries and
+<!-- marginal: B. 20 -->
 
-<!-- marginal: 786,200,000 -->
+Ministry of Plantation Industries and 786,200,000 Commodities
 
-Commodities B. 21 Ministry of Agriculture and Agro-based
+<!-- marginal: B. 21 -->
 
-<!-- marginal: 1,383,802,500 -->
+Ministry of Agriculture and Agro-based 1,383,802,500 Industry
 
-Industry B. 22 Ministry of Rural and Regional Development
+<!-- marginal: B. 22 -->
 
-<!-- marginal: 213,300,000 -->
+Ministry of Rural and Regional Development 213,300,000
 
-B. 23 Ministry of Natural Resources and
+<!-- marginal: B. 23 -->
+
+Ministry of Natural Resources and
 
 <!-- marginal: 38,500,000 -->
 
-Environment B. 24 Ministry of International Trade and Industry
+Environment
+
+<!-- marginal: B. 24 -->
+
+Ministry of International Trade and Industry
 
 <!-- marginal: 13,123,000 -->
 
-B. 27 Ministry of Works
+<!-- marginal: B. 27 -->
 
-<!-- marginal: 100,000,000 -->
+Ministry of Works 100,000,000
 
-B. 28 Ministry of Transport
+<!-- marginal: B. 28 -->
 
-<!-- marginal: 198,740,000 -->
+Ministry of Transport 198,740,000
 
-B. 30 Ministry of Science, Technology and
+<!-- marginal: B. 30 -->
+
+Ministry of Science, Technology and
 
 <!-- marginal: 7,730,000 -->
 
-Innovations B. 32 Ministry of the Federal Territories and Urban
+Innovations
+
+<!-- marginal: B. 32 -->
+
+Ministry of the Federal Territories and Urban
 
 <!-- marginal: 15,000,000 -->
 
-Wellbeing B. 41 Ministry of Education
+Wellbeing
 
-<!-- marginal: 1,540,369,000 -->
+<!-- marginal: B. 41 -->
 
-B. 42 Ministry of Health
+Ministry of Education 1,540,369,000
 
-<!-- marginal: 1,037,800,000 -->
+<!-- marginal: B. 42 -->
 
-B. 43 Ministry of Housing and Local Government
+Ministry of Health 1,037,800,000
 
-<!-- marginal: 442,149,000 -->
+<!-- marginal: B. 43 -->
 
-B. 47 Ministry of Information, Communication and
+Ministry of Housing and Local Government 442,149,000
+
+<!-- marginal: B. 47 -->
+
+Ministry of Information, Communication and
 
 <!-- marginal: 70,283,700 -->
 
-Culture B. 48 Ministry of Women, Family and Community
+Culture
 
-<!-- marginal: 458,750,000 -->
+<!-- marginal: B. 48 -->
 
-Development B. 60 Ministry of Defence
+Ministry of Women, Family and Community 458,750,000 Development
 
-<!-- marginal: 493,297,600 -->
+<!-- marginal: B. 60 -->
 
-B. 62 Ministry of Home Affairs
+Ministry of Defence 493,297,600
+
+<!-- marginal: B. 62 -->
+
+Ministry of Home Affairs
 
 <!-- marginal: 30,000,000 -->
 
-ToTal
+## TOTAL
 
-<!-- marginal: 13,186,713,000 -->
+13,186,713,000
 
 <!-- page 3 -->
 

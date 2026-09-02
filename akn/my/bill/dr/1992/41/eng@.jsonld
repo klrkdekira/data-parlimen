@@ -1,0 +1,584 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-41-1992",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~part_VII"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Medical (Amendment) Bill 1992"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Medical (Amendment) Act 1992."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_10__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_10__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_10__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding the amendments in paragraph (b) of section 3 and paragraphs (a), (c), (f) and (g) of section 4, the provisions of paragraph (b) of subsection (1) of section 12 and the provisions of subsections (1), (3), (7) and (8) of section 13 of the principal Act shall continue to apply to a person who, immediately before the coming into force of this Act—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_10__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_10__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "holds a qualification referred to in subparagraph (ii) of paragraph (a) of subsection (1) of the said section 12 and has made an application to sit or resit for the examination prescribed under paragraph (aa) of subsection (1) of that section; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_10__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_10__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "is undergoing a period of service in a medical capacity under subsection (3) of section 13, as if the amendments made to the said provisions in sections 12 and 13 had not been made. MEDICAL (AMENDMENT)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding the amendments in paragraphs (b), (d), (e) and (h) of section 4, the provisions of subsections (2), (4), (5) and (9) of section 13 of the principal Act shall continue to apply to a person who, immediately before the coming into force of this Act, has been engaged in employment in a resident medical capacity under subsection (2) of the said section 13 as if the amendments made to the said provisions in section 13 had not been made."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Part VII. Part VII the following Part VII:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_2__subsec_17"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 3 of the Medical Act 1971, which in this Act"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "is referred to as the \"principal Act\", is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_2__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_2__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (13)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_2__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the word \"or\" at the end of paragraph (a)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_2__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the full stop at the end of paragraph (b) the word \"; or\", and by inserting immediately after paragraph (b) the following new paragraph (c): \"(c) if his name has at any time been struck off from the Register.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting immediately after subsection (13) the following new subsection (13A): \"(13A) A practitioner whose name has been suspended from the Register, or who has been reprimanded under section 30 shall BILL not be eligible to be nominated and appointed or elected or appointed, as the case may be, under the provisions of any of the paragraphs (b) to (g) of subsection (1)— (a) in the case of a suspension, for a period of six years after the expiration of such suspension; or (b) in the case of a reprimand, for a period of six years from the date of such reprimand.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting immediately after subsection (14) the following new subsections (15), (16) and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_2__subsec_17",
+      "@type": "akn:subsection",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": ": \"(15) (a) Where the Council in the exercise of its disciplinary jurisdiction under the Act— (i) appoints a committee to conduct a preliminary investigation; or (ii) holds a disciplinary inquiry, in respect of any practitioner who is a member of the Council, such practitioner shall be suspended. Such suspension shall in the case of a preliminary investigation take effect from the date of commencement of the investigation, or in the case of a disciplinary inquiry, with effect from the date of institution of the inquiry. (b) Where at the conclusion of a preliminary investigation the Council determines that a disciplinary inquiry should be held the period of suspension of a member shall continue until the conclusion of the disciplinary inquiry. (16) Any member of the Council who has been suspended under paragraph (a) or (b) of subsection (15) shall forthwith be reinstated MEDICAL (AMENDMENT) as such member if at the conclusion of the preliminary investigation or the disciplinary inquiry, as the case may be, the Council finds that no case has been made out in respect of the member. (17) Any member of the Council who is to be reinstated pursuant to subsection (16) shall, if the reinstatement is to take effect before the expiration of his term of office, be reinstated to hold office for the unexpired portion of his term of office.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 12 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"; and\" at the end of subparagraph (i) of paragraph (b) of subsection (1) a full stop; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subparagraph (ii) of paragraph (b) of subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_4__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_4__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_4__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_4__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_4__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_4__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 13 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"and, if applicable, subsection (3)\" appearing in subsection (1);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"six months of such period shall be spent in a resident surgical post and six months in a resident medical post, with time spent in midwifery being counted either as time spent in medicine or as time spent in surgery, as the provisionally registered person may elect, for a period not exceeding six months\" appearing in subsection (2) the words \"four months of such period shall be spent in a resident surgical post, four months in a resident medical post and four months in a resident obstetrical and gynaecological post\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (3);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_4__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"midwifery\" in subsection (4) the words \"obstetrics and gynaecology\"; B I LL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_4__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (5);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_4__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"subsections (2) and (3) respectively\" appearing in paragraph (a) of subsection (7) the words \"subsection (2)\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_4__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"and service under subsection (3)\" appearing in subsection (8); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_4__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"midwifery\" in subsection (9) the words \"obstetrics and gynaecology\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 19. of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the comma appearing at the end of paragraph (b) of subsection (1) the word \"; or\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting immediately after paragraph (b) of subsection (1) the following new paragraph (c) \"(c) after due inquiry by a medical review panel, which shall consist of not less than three medical practitioners appointed by the Council, been found to be unfit to perform his professional duties by reason of his mental or physical condition,\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_6__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 24 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"of person becoming a mental patient\" appearing in the marginal note thereof;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following new subsection (1): \"(1) Where— (a) the Registrar is satisfied that any person who is registered under this Act is admitted to or confined in a mental hospital under the provisions of any law; MEDICAL (AMENDMENT) (b) any person who is registered under this Act has been certified by a medical review panel, which shall consist of not less than three medical practitioners appointed by the Council, to be unfit to perform his professional duty by reason of his mental or physical condition, he shall thereupon cease to be so registered, and an endorsement shall accordingly be made against his name in the Register.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"mental condition\" appearing in subsection (2) the words \"mental or physical condition, as the case may be,\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "immediately after section 34B the following new section 34c. (1) The Director General may authorise in writing any medical practitioner who is fully registered under section 14 and not being a medical practitioner in the public service to undertake any of the following functions, that is— (a) investigation, examination, treatment or management of any patient; or (b) perform an autopsy or post-mortem investigation of any deceased person, in any hospital, clinic or health centre or in any other similar institution. (2) A medical practitioner who is so authorised under subsection (1) to perform any of the functions referred to in paragraphs (a) and (b) thereof shall be deemed to be a Government Medical Officer for the purposes of the Criminal Procedure Code and any other relevant laws in Malaysia.\". BILL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_8__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection (1) of section 35 of the principal Act is"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"one\" appearing in paragraph (a) the word \"two\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"two\" and the words \"six months\" appearing in paragraph (b) the word \"five\" and the words \"two years\" respectively."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_9__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 37 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text only, by substituting for the words \"apa-apa syarat sebagaimana yang diarahkan oleh Majlis\" in subsection (1) the words \"apa-apa terma dan syarat sebagaimana yang diarahkan oleh Majlis\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_9__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_9__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the proviso to subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_9__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_9__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"; and\" appearing at the end of paragraph (a) a full stop; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_9__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~cl_9__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting paragraph (b)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~part_VII",
+      "@type": "akn:part",
+      "eli:number": "VII",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~part_VII__cl_12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "SUPPLEMENTARY PROVISIONS FOR NATIONAL PURPOSES Purpose, 39, (1) It is hereby declared that this Part is commence- enacted for national purposes. ment and duration of this Part. (2) This Part shall cease to be in force if Parliament, by resolution passed by each of the House of Parliament and published in the Gazette, provide that this Part shall no longer continue to remain in force. Notice to 40. (1) Every person who obtains fully registration under this Act shall be liable registered person to immediately upon being fully registered or at serve in a any time thereafter to be served with a written medical capacity m notice issued by or on behalf of the Director the public General requiring such person to assume services. appointment in a medical capacity in such post in such public service and on such date, as may, in each of these respects, be specified in the notice. B I LL (2) A person served with a notice under subsection (1) shall comply with such notice and if he fails to do so he shall be guilty of an offence under this Act. (3) Immediately upon a charge under subsection (2) or under section 41 being proved in court against any person, the registration of such person under section 14 shall be deemed to be revoked, and the Registrar shall accordingly strike off from the Register the name of such person. (4) (a) Where the name of a person is struck off from the Register under subsection (3), it shall not be restored on the Register except upon a direction given by the Minister, and the Minister may give such direction upon an application in writing being made to him by the person whose name has been struck off from the Register. (b) Any direction so given may be made subject to the fulfilment of such terms and conditions as the Minister may deem fit to impose, and such terms and conditions requiring such person to serve in a medical capacity to the satisfaction of the Director General for a continuous total period of not less than three years in such post or posts in such one or more of the public services as may from tirne to time be determined by the Director General in his discretion. (c) While such person is fulfilling the terms and conditions imposed under this subsection he shall be deemed to be fully registered so far as is necessary to fulfil the terms and conditions imposed under this subsection and for such other purposes as the Minister may direct, but no further; and upon fulfilment of the terms and conditions imposed under this subsection he shall be entitled to a certificate issued by the Director General as evidence thereof. MEDICAL (AMENDMENT) (5) The decision of the Minister upon an application made to him under subsection (4) for the restoration of a name upon the Register shall be final and shall not be questioned or reviewed in any court whatsoever. (6) Where a notice under subsection (1) has been served on any person liable to be served therewith, the Director General may at any time cancel the notice and, if he thinks fit, cause to be served on him a further notice under subsection (1). 41. A person who commences to serve in a post in a public service in pursuance of a notice issued under subsection (1) of section 40, shall continue to serve in the said post or in such other subsequent post or posts in the same or such other public service as may from time to time be determined by the Director General in his discretion for a continuous total period of not less than three years to the satisfaction of the Director General and if he fails to do so he shall be guilty of an offence under this Act. 42. (1) The Minister may, by order published in the Gazette— (a) in respect of any particular person; (b) generally in respect of any class of persons during such period as he may specify; (c) generally in respect of all persons during such period as he may specify. grant such reduction as he may consider appropriate or complete exemption from the period of service required under section 41. (2) The Minister may, upon application being made to him in writing by any person liable to undergo the period of service required under section 41, grant to such person postponement from commencing such service for such period as he may consider appropriate if he is satisfied that it would be just and reasonable to do so. (3) The decision of the Minister upon an application made to him under subsection (2) shall be final and shall not be questioned or reviewed in any court whatsoever. Minister 43. The Minister may make rules for carrying may make into effect the object and purposes of this Part. rules. Saving. 44. (1) Anything done under the provisions of section 40, 41, 42 or 43 of the Emergency (Essential Powers) Ordinance No. 65, 1971 shall be deemed to have been done under the provisions of section 40, 41, 42 or 43, respectively, of this Act and shall, accordingly continue to operate and have effect under such respective sections of this Act. (2) The provisions of subsections (4) and (5) of section 37 shall apply to this Part and in such application they shall be construed as being in amplification of subsection (1) of this (3) Nothing in subsection (1) shall have the effect of rendering any person liable to any penalty in respect of any omission to comply with, or in respect of any act done contrary to the provisions of, subsection (2) of section 40 and section 41.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~part_VII__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~part_VII__cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~part_VII__cl_12__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~part_VII__cl_12__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~part_VII__cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~part_VII__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Sections 39, 40, 41, 42, 43 and 44 of the principal Act shall be deemed to all intents and purposes to have been in force during the period commencing with effect from the 1st October 1986 until the date of the publication in the Gazette of this Act (hereinafter referred to as \"the transitional period\")."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~part_VII__cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~part_VII__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every act or thing done or notice issued by the Director General during the transitional period that would have been valid if the provisions of the existing section 40 had been in force at the time when it was done or issued, is hereby validated and declared to have been validly done or issued, by the Director General. MEDICAL (AMENDMENT)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~part_VII__cl_12__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/41/eng@/~part_VII__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection (1) shall not have the effect of rendering any person liable to any penalty in respect of any omission to comply with, or in respect of any act done contrary to, the provision of the existing subsection (1) of section 40 and section 41 of the principal Act."
+      }
+    }
+  ]
+}

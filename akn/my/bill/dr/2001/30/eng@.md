@@ -10,7 +10,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ### Short title and commencement
 
-1. (1) This Act may be cited as the Patents (Amendment) Act 2001.
+1. (1) This Act may be cited as the Patents (Amendment) Act
+
+2001.
 
 (2) This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette.
 

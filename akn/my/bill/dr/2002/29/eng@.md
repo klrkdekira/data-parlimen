@@ -26,26 +26,54 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ## SCHEDULE
 
-Purpose Title Amount (RM) B. 7 Prime Minister's Department 128,340,000
+Purpose Title
 
-B. 19 Ministry of Agriculture 20,000,000
+<!-- marginal: Amount -->
 
-B. 21 Ministry of Domestic Trade and Consumer 13,280,000 Affairs
+<!-- marginal: (RM) -->
 
-B. 28 Treasury 4,975,500
+B. 7 Prime Minister's Department
 
-B. 30 Contribution to Statutory Funds 8,632,630
+<!-- marginal: 128,340,000 -->
 
-B. 35 Ministry of Home Affairs 34,184,900
+B. 19 Ministry of Agriculture
 
-B. 38 Ministry of Transport 21,290,800
+<!-- marginal: 20,000,000 -->
 
-B. 42 Ministry of National Unity and Social 85,100,000 Development
+B. 21 Ministry of Domestic Trade and Consumer
+
+<!-- marginal: 13,280,000 -->
+
+Affairs
+
+B. 28 Treasury
+
+<!-- marginal: 4,975,500 -->
+
+B. 30 Contribution to Statutory Funds
+
+<!-- marginal: 8,632,630 -->
+
+B. 35 Ministry of Home Affairs
+
+<!-- marginal: 34,184,900 -->
+
+B. 38 Ministry of Transport
+
+<!-- marginal: 21,290,800 -->
+
+B. 42 Ministry of National Unity and Social
+
+<!-- marginal: 85,100,000 -->
+
+Development
 
 ## TOTAL
 
-315,803,830
+<!-- marginal: 315,803,830 -->
 
 ## EXPLANATORY STATEMENT
 
-This Bill seeks to provide for the issue from the Consolidated Fund of a sum of three hundred and fifteen million eight hundred and three thousand eight hundred and thirty ringgit (RM315,803,830) for the services and purposes as specified in the Schedule for the year 2002. [PN(U2)2206]
+This Bill seeks to provide for the issue from the Consolidated Fund of a sum of three hundred and fifteen million eight hundred and three thousand eight hundred and thirty ringgit (RM315,803,830) for the services and purposes as specified in the Schedule for the year 2002.
+
+<!-- marginal: [PN(U2)2206] -->

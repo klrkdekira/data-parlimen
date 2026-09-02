@@ -46,17 +46,9 @@ Rang Undang-Undang
 
 ' "industri dalam negeri" ertinya—
 
-(a) pengeluar dalam negeri
+(a) pengeluar dalam negeri secara keseluruhannya bagi keluaran serupa;
 
-<!-- marginal: secara -->
-
-keseluruhannya bagi keluaran serupa;
-
-(b) pengeluar dalam negeri
-
-<!-- marginal: yang -->
-
-pengeluaran kolektifnya bagi keluaran serupa merupakan bahagian yang terbesar daripada jumlah pengeluaran dalam negeri keluaran serupa itu; atau
+(b) pengeluar dalam negeri yang pengeluaran kolektifnya bagi keluaran serupa merupakan bahagian yang terbesar daripada jumlah pengeluaran dalam negeri keluaran serupa itu; atau
 
 (c) jika berkenaan, pengeluar serantau keluaran serupa:
 
@@ -86,11 +78,7 @@ Rang Undang-Undang
 
 (vii) dengan memasukkan selepas takrif "Menteri" takrif yang berikut:
 
-' "negara" termasuklah kesatuan kastam atau wilayah kastam yang mempunyai autonomi penuh dalam menjalankan
-
-<!-- marginal: hubungan -->
-
-perdagangan luarnya dan perkara-perkara lain yang diperuntukkan dalam Perjanjian Pertubuhan Perdagangan Sedunia;';
+' "negara" termasuklah kesatuan kastam atau wilayah kastam yang mempunyai autonomi penuh dalam menjalankan hubungan perdagangan luarnya dan perkara-perkara lain yang diperuntukkan dalam Perjanjian Pertubuhan Perdagangan Sedunia;';
 
 (viii) dengan menggantikan takrif "negara berekonomi bukan pasaran" dengan takrif yang berikut:
 
@@ -144,11 +132,7 @@ Rang Undang-Undang
 
 ' "sedikit sahaja"—
 
-(a) berhubung dengan tindakan duti timbal balas, dalam hal Anggota negara membangun, ertinya
-
-<!-- marginal: jumlah -->
-
-pengimportan dagangan subjek, yang sebenar atau mungkin, dari suatu Anggota negara membangun tertentu ke dalam Malaysia menyumbang kurang daripada empat peratus daripada jumlah pengimportan keluaran serupa melainkan jika Anggota-Anggota negara membangun yang secara individu menyumbang kurang daripada empat peratus daripada pengimportan keluaran serupa ke dalam Malaysia secara keseluruhannya menyumbang lebih daripada sembilan peratus daripada jumlah pengimportan keluaran serupa ke dalam Malaysia; dan
+(a) berhubung dengan tindakan duti timbal balas, dalam hal Anggota negara membangun, ertinya jumlah pengimportan dagangan subjek, yang sebenar atau mungkin, dari suatu Anggota negara membangun tertentu ke dalam Malaysia menyumbang kurang daripada empat peratus daripada jumlah pengimportan keluaran serupa melainkan jika Anggota-Anggota negara membangun yang secara individu menyumbang kurang daripada empat peratus daripada pengimportan keluaran serupa ke dalam Malaysia secara keseluruhannya menyumbang lebih daripada sembilan peratus daripada jumlah pengimportan keluaran serupa ke dalam Malaysia; dan
 
 (b) berhubung dengan tindakan duti anti- lambakan ertinya jumlah pengimportan dagangan subjek, yang sebenar atau mungkin, dari suatu negara tertentu ke dalam Malaysia menyumbang kurang daripada tiga peratus daripada jumlah pengimportan keluaran serupa melainkan jika negara-negara yang secara individu menyumbang kurang daripada tiga peratus daripada pengimportan keluaran serupa ke dalam
 
@@ -168,11 +152,7 @@ Malaysia secara keseluruhannya menyumbang lebih daripada tujuh peratus daripada 
 
 (i) dengan menggantikan perkataan "melainkan jika" dengan perkataan "dengan syarat bahawa";
 
-(ii) dengan memasukkan selepas
-
-<!-- marginal: perkataan -->
-
-"mempercayai" perkataan "atau mengesyaki"; dan
+(ii) dengan memasukkan selepas perkataan "mempercayai" perkataan "atau mengesyaki"; dan
 
 (iii) dengan menggantikan perkataan "pihak-pihak berkaitan itu tidak akan" dengan perkataan "kesan perhubungan itu ialah untuk menyebabkan pihak yang berkenaan".
 
@@ -184,7 +164,9 @@ Malaysia secara keseluruhannya menyumbang lebih daripada tujuh peratus daripada 
 
 ## SUBSIDI
 
-subsidi. 2A. Bagi maksud Akta ini, "subsidi", berhubung dengan dagangan yang diimport ke dalam Malaysia, ertinya—
+<!-- marginal: subsidi. -->
+
+2A. Bagi maksud Akta ini, "subsidi", berhubung dengan dagangan yang diimport ke dalam Malaysia, ertinya—
 
 (a) suatu sumbangan kewangan oleh kerajaan atau perbadanan awam, atau oleh perbadanan swasta yang diamanahkan atau diarahkan oleh kerajaan atau perbadanan awam supaya menjalankan suatu fungsi kerajaan, yang dibuat berkaitan dengan pengeluaran, pengilangan atau pengeksportan
 
@@ -200,21 +182,9 @@ dagangan itu dan yang melibatkan satu atau lebih daripada satu daripada yang ber
 
 (iii) penyetujuterimaan liabiliti perusahaan itu, yang sebenar atau mungkin, oleh kerajaan atau perbadanan awam atau perbadanan swasta itu;
 
-(iv) pelepasan, atau perbuatan tidak memungut, hasil (selain pengecualian
+(iv) pelepasan, atau perbuatan tidak memungut, hasil (selain pengecualian atau pengurangan yang dibenarkan) yang kena dibayar kepada kerajaan atau perbadanan awam atau perbadanan swasta itu oleh perusahaan itu;
 
-<!-- marginal: atau -->
-
-pengurangan yang dibenarkan) yang kena dibayar kepada kerajaan atau perbadanan awam atau perbadanan swasta itu oleh perusahaan itu;
-
-(v) penyediaan barang-barang
-
-<!-- marginal: atau -->
-
-perkhidmatan oleh kerajaan
-
-<!-- marginal: atau -->
-
-perbadanan awam atau perbadanan swasta itu untuk perusahaan itu selain infrastruktur am;
+(v) penyediaan barang-barang atau perkhidmatan oleh kerajaan atau perbadanan awam atau perbadanan swasta itu untuk perusahaan itu selain infrastruktur am;
 
 (vi) pembelian barang-barang yang disediakan oleh perusahaan itu oleh kerajaan atau perbadanan awam atau perbadanan swasta itu;
 
@@ -302,7 +272,9 @@ Rang Undang-Undang
 
 bagi pemulaan penyiasatan sedemikian jika Kerajaan mempunyai keterangan yang mencukupi mengenai setiap perkara yang dinyatakan dalam subseksyen (2).
 
-(7) Jika Kerajaan memutuskan untuk memulakan suatu penyiasatan di bawah subseksyen (1) atau subseksyen (6), Kerajaan hendaklah memberitahu
+(7) Jika Kerajaan memutuskan untuk memulakan suatu penyiasatan di bawah subseksyen (1) atau subseksyen
+
+(6), Kerajaan hendaklah memberitahu
 
 <!-- marginal: pihak -->
 
@@ -352,7 +324,7 @@ Rang Undang-Undang
 
 (7) Dalam hal apabila kemudaratan diancam oleh dagangan subjek, pengenaan langkah-langkah timbal balas hendaklah dipertimbangkan dan diputuskan dengan perhatian khas.".
 
-### Pindaan seksyen 8
+<!-- marginal: Pindaan seksyen 8 -->
 
 8. Seksyen 8 Akta ibu dipinda—
 
@@ -366,11 +338,7 @@ Rang Undang-Undang
 
 (ii) dagangan subjek, menerusi kesan subsidi, sedang mengancam untuk menyebabkan kemudaratan material kepada industri dalam negeri di Malaysia yang mengeluarkan keluaran serupa; atau
 
-(iii) dagangan subjek, menerusi kesan subsidi, sedang menyebabkan kerencatan material penubuhan industri
-
-<!-- marginal: sedemikian di -->
-
-Malaysia."; dan
+(iii) dagangan subjek, menerusi kesan subsidi, sedang menyebabkan kerencatan material penubuhan industri sedemikian di Malaysia."; dan
 
 (b) dalam subseksyen (3)—
 
@@ -398,11 +366,7 @@ Duti Timbal Balas dan Anti-Lambakan (Pindaan)
 
 (ii) dagangan subjek, menerusi kesan subsidi, sedang mengancam untuk menyebabkan kemudaratan material kepada industri dalam negeri di Malaysia yang mengeluarkan keluaran serupa; atau
 
-(iii) dagangan subjek, menerusi kesan subsidi, sedang menyebabkan kerencatan material penubuhan industri
-
-<!-- marginal: sedemikian di -->
-
-Malaysia.";
+(iii) dagangan subjek, menerusi kesan subsidi, sedang menyebabkan kerencatan material penubuhan industri sedemikian di Malaysia.";
 
 (b) dengan menggantikan subseksyen (2) dengan subseksyen yang berikut:
 
@@ -438,13 +402,7 @@ Rang Undang-Undang
 
 Duti Timbal Balas dan Anti-Lambakan (Pindaan)
 
-(ii) dengan memasukkan
-
-<!-- marginal: selepas -->
-
-<!-- marginal: perkataan -->
-
-"mensubsidikan dagangan subjek" perkataan "yang menyebabkan kemudaratan"; dan
+(ii) dengan memasukkan selepas perkataan "mensubsidikan dagangan subjek" perkataan "yang menyebabkan kemudaratan"; dan
 
 (i) dengan memasukkan selepas subseksyen (8) subseksyen yang berikut:
 
@@ -550,11 +508,7 @@ Pindaan seksyen 13
 
 (ii) dalam perenggan (c)—
 
-(A) dengan menggantikan
-
-<!-- marginal: perkataan -->
-
-"diubahsuai" dengan perkataan "diubah"; dan
+(A) dengan menggantikan perkataan "diubahsuai" dengan perkataan "diubah"; dan
 
 (B) dengan memotong perkataan "atau" di hujung perenggan itu;
 
@@ -602,9 +556,13 @@ Dengan syarat bahawa tempoh yang dinyatakan dalam subseksyen (6) telah luput sej
 
 14. Akta ibu dipinda dengan memasukkan selepas seksyen 13 seksyen yang berikut:
 
-"Kajian
+<!-- marginal: "Kajian -->
 
-13A. (1) Tanpa menjejaskan seksyen 13, seseorang pengimport boleh meminta pembayaran balik duti timbal bank. balas yang telah dibayar jika pengimport itu dapat menunjukkan bahawa amaun subsidi yang boleh ditimbal balas yang berasaskannya duti timbal balas telah dikenakan telah sama ada dihapuskan atau dikurangkan ke suatu tahap yang lebih rendah daripada tahap duti timbal balas yang sedang berkuat kuasa.
+13A. (1) Tanpa menjejaskan seksyen 13, seseorang pengimport boleh meminta pembayaran balik duti timbal
+
+<!-- marginal: bank. -->
+
+balas yang telah dibayar jika pengimport itu dapat menunjukkan bahawa amaun subsidi yang boleh ditimbal balas yang berasaskannya duti timbal balas telah dikenakan telah sama ada dihapuskan atau dikurangkan ke suatu tahap yang lebih rendah daripada tahap duti timbal balas yang sedang berkuat kuasa.
 
 (2) Sesuatu permintaan bagi kajian semula pembayaran balik hendaklah dikemukakan secara bertulis kepada Kerajaan dan hendaklah mengandungi—
 
@@ -688,11 +646,7 @@ Duti Timbal Balas dan Anti-Lambakan (Pindaan)
 
 Rang Undang-Undang
 
-(5) Bagi maksud seksyen
-
-<!-- marginal: ini, amaun bagi -->
-
-perbelanjaan penjualan, perbelanjaan pentadbiran dan perbelanjaan am lain dan bagi keuntungan hendaklah diasaskan pada maklumat sebenar berkaitan dengan pengeluaran dan penjualan dalam perjalanan biasa perdagangan keluaran serupa oleh pengeksport atau pengeluar yang sedang disiasat.
+(5) Bagi maksud seksyen ini, amaun bagi perbelanjaan penjualan, perbelanjaan pentadbiran dan perbelanjaan am lain dan bagi keuntungan hendaklah diasaskan pada maklumat sebenar berkaitan dengan pengeluaran dan penjualan dalam perjalanan biasa perdagangan keluaran serupa oleh pengeksport atau pengeluar yang sedang disiasat.
 
 (6) Jika amaun yang disebut dalam subseksyen (5) tidak dapat ditentukan atas asas yang dinyatakan dalam subseksyen itu, amaun itu boleh ditentukan atas mana- mana daripada asas yang berikut:
 
@@ -762,7 +716,9 @@ Duti Timbal Balas dan Anti-Lambakan (Pindaan)
 
 (2) Suatu petisyen di bawah subseksyen (1) hendaklah mengandungi apa-apa maklumat yang ditetapkan dan hendaklah termasuk keterangan yang mencukupi mengenai lambakan dan kemudaratan dan hubungan bersebab antara pengimportan dagangan subjek dengan kemudaratan yang dikatakan.
 
-(3) Setelah petisyen di bawah subseksyen (1) diterima tetapi sebelum tindakan diteruskan di bawah subseksyen (4), Kerajaan hendaklah memberitahu kerajaan negara pengeksport mengenai penerimaan petisyen itu.
+(3) Setelah petisyen di bawah subseksyen (1) diterima tetapi sebelum tindakan diteruskan di bawah subseksyen
+
+(4), Kerajaan hendaklah memberitahu kerajaan negara pengeksport mengenai penerimaan petisyen itu.
 
 (4) Kerajaan hendaklah, dalam tempoh yang ditetapkan, memeriksa petisyen itu dan maklumat dan keterangan lain yang ada untuk menentukan sama ada—
 
@@ -788,7 +744,9 @@ lambakan, seperti tetapi tidak terhad kepada hal apabila margin lambakan adalah 
 
 (7) Walau apa pun subseksyen (1) Kerajaan boleh, dalam hal keadaan khas, memulakan suatu penyiasatan duti anti-lambakan atas kehendaknya sendiri tanpa menerima petisyen bertulis oleh atau bagi pihak industri dalam negeri bagi pemulaan penyiasatan sedemikian jika Kerajaan mempunyai keterangan yang mencukupi mengenai setiap perkara yang dinyatakan dalam subseksyen (2).
 
-(8) Jika Kerajaan memutuskan untuk memulakan suatu penyiasatan di bawah subseksyen (1) atau subseksyen (7), Kerajaan hendaklah memberitahu pihak berkepentingan yang berkenaan dan menyiarkan notis pemulaan penyiasatan.
+(8) Jika Kerajaan memutuskan untuk memulakan suatu penyiasatan di bawah subseksyen (1) atau subseksyen
+
+(7), Kerajaan hendaklah memberitahu pihak berkepentingan yang berkenaan dan menyiarkan notis pemulaan penyiasatan.
 
 (9) Keterangan mengenai lambakan dan kemudaratan kedua-duanya hendaklah dipertimbangkan serentak dalam keputusan sama ada untuk memulakan suatu penyiasatan dan selepas itu sepanjang perjalanan penyiasatan itu, bermula pada suatu tarikh yang tidak lewat daripada tarikh terawal langkah-langkah sementara boleh dikenakan.
 
@@ -834,13 +792,7 @@ Rang Undang-Undang
 
 (ii) dagangan subjek, menerusi kesan lambakan, sedang mengancam untuk menyebabkan kemudaratan material kepada industri dalam negeri di Malaysia yang mengeluarkan keluaran serupa; atau
 
-(iii) dagangan subjek, menerusi kesan lambakan, sedang menyebabkan kerencatan material penubuhan
-
-<!-- marginal: industri -->
-
-<!-- marginal: sedemikian di -->
-
-Malaysia."; dan
+(iii) dagangan subjek, menerusi kesan lambakan, sedang menyebabkan kerencatan material penubuhan industri sedemikian di Malaysia."; dan
 
 (b) dalam subseksyen (3)—
 
@@ -868,11 +820,7 @@ Duti Timbal Balas dan Anti-Lambakan (Pindaan)
 
 (ii) dagangan subjek, menerusi kesan lambakan, sedang mengancam untuk menyebabkan kemudaratan material kepada industri dalam negeri di Malaysia yang mengeluarkan keluaran serupa; atau
 
-(iii) dagangan subjek, menerusi kesan lambakan, sedang menyebabkan kerencatan material penubuhan industri
-
-<!-- marginal: sedemikian di -->
-
-Malaysia.";
+(iii) dagangan subjek, menerusi kesan lambakan, sedang menyebabkan kerencatan material penubuhan industri sedemikian di Malaysia.";
 
 (b) dengan menggantikan subseksyen (2) dengan subseksyen yang berikut:
 
@@ -904,11 +852,7 @@ Rang Undang-Undang
 
 (i) dengan menggantikan perkataan "atas asas syarikat spesifik, jika praktik, dan" dengan perkataan "dalam setiap hal"; dan
 
-(ii) dengan memasukkan
-
-<!-- marginal: selepas perkataan -->
-
-"melambakkan dagangan subjek" perkataan "yang menyebabkan kemudaratan"; dan
+(ii) dengan memasukkan selepas perkataan "melambakkan dagangan subjek" perkataan "yang menyebabkan kemudaratan"; dan
 
 (i) dengan memasukkan selepas subseksyen (8) subseksyen yang berikut:
 
@@ -928,11 +872,7 @@ Duti Timbal Balas dan Anti-Lambakan (Pindaan)
 
 (c) dengan memasukkan selepas perenggan (b) perenggan yang berikut:
 
-"(c) Kerajaan berpuas hati bahawa tidak ada keterangan yang mencukupi mengenai
-
-<!-- marginal: lambakan atau -->
-
-kemudaratan untuk mewajarkan penerusan penyiasatan itu;
+"(c) Kerajaan berpuas hati bahawa tidak ada keterangan yang mencukupi mengenai lambakan atau kemudaratan untuk mewajarkan penerusan penyiasatan itu;
 
 (d) margin lambakan adalah de minimis atau jumlah pengimportan dagangan subjek, yang sebenar atau mungkin, atau kemudaratan, adalah sedikit sahaja; atau
 
@@ -1104,13 +1044,17 @@ Kerajaan hendaklah membayar balik apa-apa amaun duti anti-lambakan yang dipungut
 
 (5) Sesuatu dapatan dalam kajian semula pembayaran balik itu bahawa tiada duti anti-lambakan sepatutnya telah dikenakan tidaklah sendiri menghendaki Kerajaan supaya menamatkan duti anti-lambakan muktamad itu.
 
-### Kajian
+<!-- marginal: Kajian -->
 
 28B. (1) Seseorang pengeksport atau pengeluar yang
 
-### semula
+<!-- marginal: semula -->
 
-pengeksportan dagangan subjeknya tertakluk kepada duti dipercepat. anti-lambakan muktamad tetapi yang tidak mengeksportkan dagangan subjek ke Malaysia sepanjang tempoh penyiasatan berhak mendapat kajian semula dipercepat supaya Kerajaan
+pengeksportan dagangan subjeknya tertakluk kepada duti
+
+<!-- marginal: dipercepat. -->
+
+anti-lambakan muktamad tetapi yang tidak mengeksportkan dagangan subjek ke Malaysia sepanjang tempoh penyiasatan berhak mendapat kajian semula dipercepat supaya Kerajaan
 
 <!-- page 41 -->
 
@@ -1126,9 +1070,25 @@ boleh dengan serta-merta mewujudkan kadar duti anti- lambakan individu bagi peng
 
 29. Akta ibu dipinda dengan menggantikan seksyen 29 dengan seksyen yang berikut:
 
-Tindakan
+<!-- marginal: Tindakan -->
 
-29. (1) Kerajaan boleh memulakan penyiasatan duti anti- anti- lambakan bagi pihak negara ketiga apabila permintaan lambakan bertulis bagi tindakan anti-lambakan diterima daripada bagi pihak negara kerajaan negara ketiga. ketiga.
+29. (1) Kerajaan boleh memulakan penyiasatan duti anti-
+
+<!-- marginal: anti- -->
+
+lambakan bagi pihak negara ketiga apabila permintaan
+
+<!-- marginal: lambakan -->
+
+bertulis bagi tindakan anti-lambakan diterima daripada
+
+<!-- marginal: bagi pihak -->
+
+<!-- marginal: negara -->
+
+kerajaan negara ketiga.
+
+<!-- marginal: ketiga. -->
 
 (2) Permintaan yang disebut dalam subseksyen (1) hendaklah disokong dengan maklumat harga untuk menunjukkan bahawa pengimportan itu dilambakkan dan dengan maklumat terperinci untuk menunjukkan bahawa lambakan yang dikatakan itu sedang menyebabkan kemudaratan kepada industri dalam negeri yang berkenaan di negara ketiga itu.
 
@@ -1176,7 +1136,17 @@ Duti Timbal Balas dan Anti-Lambakan (Pindaan)
 
 33. Akta ibu dipinda dengan menggantikan seksyen 35 dengan seksyen yang berikut:
 
-Penaksiran 35. (1) Jika pengimportan dagangan subjek dari lebih secara daripada satu negara adalah secara serentak tertakluk kepada terkumpul. penyiasatan duti timbal balas atau anti-lambakan, Kerajaan boleh menaksirkan kesan pengimportan itu secara terkumpul.
+<!-- marginal: Penaksiran -->
+
+35. (1) Jika pengimportan dagangan subjek dari lebih
+
+<!-- marginal: secara -->
+
+daripada satu negara adalah secara serentak tertakluk kepada
+
+<!-- marginal: terkumpul. -->
+
+penyiasatan duti timbal balas atau anti-lambakan, Kerajaan boleh menaksirkan kesan pengimportan itu secara terkumpul.
 
 (2) Subseksyen (1) hendaklah terpakai hanya jika Kerajaan menentukan—
 
@@ -1194,7 +1164,37 @@ Rang Undang-Undang
 
 34. Akta ibu dipinda dengan menggantikan seksyen 38 dengan seksyen yang berikut:
 
-"Notis 38. (1) Kerajaan hendaklah memberikan sesalinan notis mengenai mengenai maklumat yang dikehendakinya daripada maklumat dan Anggota-Anggota dan semua pihak berkepentingan yang peluang keluarannya merupakan perkara penyiasatan di bawah untuk Akta ini kepada Anggota-Anggota dan pihak berkepen- mengemu- kakan tingan itu dan hendaklah memberi Anggota-Anggota dan keterangan. pihak berkepentingan itu peluang dalam tempoh yang ditetapkan untuk mengemukakan secara bertulis segala keterangan yang pada pertimbangannya berkenaan mengenai penyiasatan itu.
+<!-- marginal: "Notis -->
+
+38. (1) Kerajaan hendaklah memberikan sesalinan notis
+
+<!-- marginal: mengenai -->
+
+mengenai maklumat yang dikehendakinya daripada
+
+<!-- marginal: maklumat -->
+
+<!-- marginal: dan -->
+
+Anggota-Anggota dan semua pihak berkepentingan yang
+
+<!-- marginal: peluang -->
+
+keluarannya merupakan perkara penyiasatan di bawah
+
+<!-- marginal: untuk -->
+
+Akta ini kepada Anggota-Anggota dan pihak berkepen-
+
+<!-- marginal: mengemu- -->
+
+<!-- marginal: kakan -->
+
+tingan itu dan hendaklah memberi Anggota-Anggota dan
+
+<!-- marginal: keterangan. -->
+
+pihak berkepentingan itu peluang dalam tempoh yang ditetapkan untuk mengemukakan secara bertulis segala keterangan yang pada pertimbangannya berkenaan mengenai penyiasatan itu.
 
 (2) Sebaik sahaja penyiasatan dimulakan, Kerajaan hendaklah memberikan teks penuh petisyen bertulis yang diterima di bawah subseksyen 4(1) atau 20(1), mengikut mana-mana yang berkenaan, kepada pengeksport yang diketahui dan Anggota pengeksport dan hendaklah menyediakannya, apabila diminta, untuk pihak berkepentingan lain yang terlibat, dengan memberikan perhatian wajar kepada perlindungan bagi maklumat sulit.
 

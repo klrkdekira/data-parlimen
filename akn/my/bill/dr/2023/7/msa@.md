@@ -8,17 +8,35 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Pindaan Akta
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PINDAAN KEPADA KANUN KESEKSAAN
 
-3. Pindaan seksyen 115 4. Pindaan seksyen 118 5. Pindaan seksyen 119 6. Pindaan seksyen 121 7. Pindaan seksyen 121a 8. Pindaan seksyen 121B 9. Pindaan seksyen 122 10. Pindaan seksyen 124k 11. Pindaan seksyen 124m 12. Pindaan seksyen 125 13. Pindaan seksyen 125a 14. Pindaan seksyen 128 15. Pindaan seksyen 130 16. Pindaan seksyen 130a 17. Pindaan seksyen 130B 18. Pindaan seksyen 130c
+3. Pindaan seksyen 115 4. Pindaan seksyen 118 5. Pindaan seksyen 119 6. Pindaan seksyen 121 7. Pindaan seksyen 121a 8. Pindaan seksyen 121B 9. Pindaan seksyen 122
+
+10. Pindaan seksyen 124k
+
+11. Pindaan seksyen 124m
+
+12. Pindaan seksyen 125
+
+13. Pindaan seksyen 125a
+
+14. Pindaan seksyen 128
+
+15. Pindaan seksyen 130
+
+16. Pindaan seksyen 130a
+
+17. Pindaan seksyen 130B
+
+18. Pindaan seksyen 130c
 
 <!-- page 2 -->
 
@@ -64,7 +82,7 @@
 
 39. Peralihan
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PINDAAN KEPADA AKTA SENJATA API (PENALTI LEBIH BERAT) 1971
 
@@ -84,35 +102,57 @@
 
 <!-- page 3 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PINDAAN KEPADA AKTA SENJATA 1960
 
-47. Pindaan seksyen 2 48. Pindaan seksyen 14 49. Pindaan seksyen 32 50. Pemotongan seksyen 46 51. Peralihan
+47. Pindaan seksyen 2
 
-## Bahagian V
+48. Pindaan seksyen 14
+
+49. Pindaan seksyen 32
+
+50. Pemotongan seksyen 46
+
+51. Peralihan
+
+## BAHAGIAN V
 
 ## PINDAAN KEPADA AKTA PENCULIKAN 1961
 
-52. Pindaan seksyen 3 53. Peralihan
+52. Pindaan seksyen 3
 
-## Bahagian VI
+53. Peralihan
+
+## BAHAGIAN VI
 
 ## PINDAAN KEPADA AKTA DADAH BERBAHAYA 1952
 
-54. Pindaan seksyen 39B 55. Peralihan
+54. Pindaan seksyen 39B
 
-## Bahagian VII
+55. Peralihan
+
+## BAHAGIAN VII
 
 ## PINDAAN KEPADA AKTA PERDAGANGAN STRATEGIK 2010
 
-56. Pindaan seksyen 9 57. Pindaan seksyen 10 58. Pindaan seksyen 11 59. Pindaan seksyen 12 60. Peralihan
+56. Pindaan seksyen 9
 
-## Bahagian VIII
+57. Pindaan seksyen 10
+
+58. Pindaan seksyen 11
+
+59. Pindaan seksyen 12
+
+60. Peralihan
+
+## BAHAGIAN VIII
 
 ## PINDAAN KEPADA KANUN TATACARA JENAYAH
 
-61. Pindaan seksyen 15 62. Pindaan seksyen 172d
+61. Pindaan seksyen 15
+
+62. Pindaan seksyen 172d
 
 <!-- page 4 -->
 
@@ -132,7 +172,7 @@ Suatu Akta untuk meminda Kanun Keseksaan, Akta Senjata Api (Penalti Lebih Berat)
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -148,7 +188,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 2. Kanun Keseksaan [Akta 574], Akta Senjata Api (Penalti Lebih Berat) 1971 [Akta 37], Akta Senjata 1960 [Akta 206], Akta Penculikan 1961 [Akta 365], Akta Dadah Berbahaya 1952 [Akta 234], Akta Perdagangan Strategik 2010 [Akta 708] dan Kanun Tatacara Jenayah [Akta 593] dipinda mengikut cara yang dinyatakan masing-masing dalam Bahagian II, III, IV, V, VI, VII dan VIII.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PINDAAN KEPADA KANUN KESEKSAAN
 
@@ -312,7 +352,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 39. Apabila Akta ini mula berkuat kuasa, jika seseorang disabitkan oleh mana-mana mahkamah kerana melakukan suatu kesalahan di bawah seksyen 121, 121a, 302 atau 364 atau perenggan 130c(1)(a), 130i(a), 130n(a), 130o(1)(aa), 130qa(a), 130zB(a) atau 374a(a) Kanun, orang itu, sama ada dalam suatu perbicaraan atau rayuan, hendaklah dihukum mengikut peruntukan Kanun sebagaimana yang dipinda oleh Akta ini walaupun kesalahan itu dilakukan sebelum tarikh permulaan kuat kuasa Akta ini.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PINDAAN KEPADA AKTA SENJATA API
 
@@ -352,7 +392,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 14 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PINDAAN KEPADA AKTA SENJATA 1960
 
@@ -392,7 +432,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 51. Apabila Akta ini mula berkuat kuasa, jika seseorang disabitkan oleh mana-mana mahkamah kerana melakukan suatu kesalahan di bawah perenggan 14(1)(a) Akta ibu, orang itu, sama ada dalam suatu perbicaraan atau rayuan, hendaklah dihukum mengikut peruntukan Akta ibu sebagaimana yang dipinda oleh Akta ini walaupun kesalahan itu dilakukan sebelum tarikh permulaan kuat kuasa Akta ini.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PINDAAN KEPADA AKTA PENCULIKAN 1961
 
@@ -406,7 +446,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 16 -->
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PINDAAN KEPADA AKTA DADAH BERBAHAYA 1952
 
@@ -422,7 +462,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 55. Apabila Akta ini mula berkuat kuasa, jika seseorang disabitkan oleh mana-mana mahkamah kerana melakukan suatu kesalahan di bawah seksyen 39B Akta ibu, orang itu, sama ada dalam suatu perbicaraan atau rayuan, hendaklah dihukum mengikut peruntukan Akta ibu sebagaimana yang dipinda oleh Akta ini walaupun kesalahan itu dilakukan sebelum tarikh permulaan kuat kuasa Akta ini.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PINDAAN KEPADA AKTA PERDAGANGAN STRATEGIK 2010
 
@@ -456,7 +496,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 18 -->
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## PINDAAN KEPADA KANUN TATACARA JENAYAH
 
@@ -568,17 +608,17 @@ perkataan “Death or imprisonment for a term of not less than thirty years but 
 
 Rang Undang-Undang Pemansuhan Hukuman Mati Mandatori 2023 (“Akta yang dicadangkan”) bertujuan untuk memansuhkan hukuman mati mandatori, untuk mengubah hukuman pemenjaraan sepanjang hayat dan sebatan, dan untuk mengadakan peruntukan bagi perkara yang berhubungan dengannya dengan meminda Kanun Keseksaan (“Akta 574”), Akta Senjata Api (Penalti Lebih Berat) 1971 (“Akta 37”), Akta Senjata 1960 (“Akta 206”), Akta Penculikan 1961 (“Akta 365”), Akta Dadah Berbahaya 1952 (“Akta 234”), Akta Perdagangan Strategik 2010 (“Akta 708”) dan Kanun Tatacara Jenayah (“Akta 593”) selaras dengan dasar Kerajaan untuk memansuhkan hukuman mati mandatori dalam semua perundangan.
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
-## Bahagian I Akta yang dicadangkan memperkatakan tentang perkara permulaan.
+Bahagian I Akta yang dicadangkan memperkatakan tentang perkara permulaan.
 
 2. Fasal 1 mengandungi tajuk ringkas Akta yang dicadangkan dan kuasa Menteri untuk menetapkan tarikh permulaan kuat kuasa Akta yang dicadangkan.
 
 3. Fasal 2 mengandungi senarai Akta yang dipinda di bawah Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PINDAAN KEPADA KANUN KESEKSAAN
 
@@ -608,13 +648,11 @@ menyediakan atau mengumpulkan harta untuk perbuatan pengganas di bawah seksyen 1
 
 12. Fasal 39 bertujuan untuk mengadakan peruntukan peralihan yang berhubungan dengan mana-mana orang yang telah melakukan kesalahan di bawah seksyen 121, 121a, 302 atau 364 atau perenggan 130c(1)(a), 130i(a), 130n(a), 130o(1)(aa), 130qa(a), 130zB(a) atau 374a(a) Akta 574 sebelum tarikh permulaan kuat kuasa Akta ini.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PINDAAN KEPADA AKTA SENJATA API (PENALTI LEBIH BERAT) 1971
 
-## Bahagian III Akta yang dicadangkan memperkatakan pindaan kepada
-
-Akta Senjata Api (Penalti Lebih Berat) 1971.
+Bahagian III Akta yang dicadangkan memperkatakan pindaan kepada Akta Senjata Api (Penalti Lebih Berat) 1971.
 
 13. Fasal 40 bertujuan untuk meminda subseksyen 2(1) Akta 37 untuk memotong takrif “pemenjaraan seumur hidup”.
 
@@ -630,13 +668,11 @@ Akta Senjata Api (Penalti Lebih Berat) 1971.
 
 18. Fasal 46 bertujuan untuk mengadakan peruntukan peralihan yang berhubungan dengan mana-mana orang yang telah melakukan kesalahan di bawah seksyen 3, 3a atau 7 Akta 37 sebelum tarikh permulaan kuat kuasa Akta ini.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PINDAAN KEPADA AKTA SENJATA 1960
 
-## Bahagian IV Akta yang dicadangkan memperkatakan pindaan kepada
-
-Akta Senjata 1960.
+Bahagian IV Akta yang dicadangkan memperkatakan pindaan kepada Akta Senjata 1960.
 
 19. Fasal 47 bertujuan untuk meminda subseksyen 2(1) Akta 206 untuk memotong takrif “pemenjaraan seumur hidup”.
 
@@ -648,25 +684,21 @@ Akta Senjata 1960.
 
 <!-- page 27 -->
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PINDAAN KEPADA AKTA PENCULIKAN 1961
 
-## Bahagian V Akta yang dicadangkan memperkatakan pindaan kepada
-
-Akta Penculikan 1961.
+Bahagian V Akta yang dicadangkan memperkatakan pindaan kepada Akta Penculikan 1961.
 
 23. Fasal 52 bertujuan untuk meminda seksyen 3 Akta 365 untuk mengubah hukuman bagi kesalahan pemelarian, penahanan salah atau pengurungan salah untuk tebusan dengan, antara lain, memansuhkan hukuman mati.
 
 24. Fasal 53 bertujuan untuk mengadakan peruntukan mengenai peralihan yang berhubungan dengan mana-mana orang yang melakukan kesalahan di bawah seksyen 3 Akta 365 sebelum tarikh permulaan kuat kuasa Akta ini.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PINDAAN KEPADA AKTA DADAH BERBAHAYA 1952
 
-## Bahagian VI Akta yang dicadangkan memperkatakan pindaan kepada
-
-Akta Dadah Berbahaya 1952.
+Bahagian VI Akta yang dicadangkan memperkatakan pindaan kepada Akta Dadah Berbahaya 1952.
 
 25. Fasal 54 bertujuan untuk meminda seksyen 39B Akta 234.
 
@@ -676,13 +708,11 @@ Subfasal 54(b) bertujuan untuk memotong subseksyen 39B(2a) dan (2B) Akta 234 unt
 
 26. Fasal 55 bertujuan untuk mengadakan peruntukan mengenai peralihan yang berhubungan dengan mana-mana orang yang melakukan kesalahan di bawah seksyen 39B Akta 234 sebelum tarikh permulaan kuat kuasa Akta ini.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PINDAAN KEPADA AKTA PERDAGANGAN STRATEGIK 2010
 
-## Bahagian VII Akta yang dicadangkan memperkatakan pindaan kepada
-
-Akta Perdagangan Strategik 2010.
+Bahagian VII Akta yang dicadangkan memperkatakan pindaan kepada Akta Perdagangan Strategik 2010.
 
 27. Fasal 56, 57, 58 dan 59 bertujuan untuk meminda subsubperenggan 9(4)(a)(i)(A), subsubperenggan 9(5)(a)(i)(A), subsubperenggan 9(6)(a)(i)(A), perenggan 10(2)(a), subperenggan 11(2)(a)(i) dan subsubperenggan 12(4)(a)(i)(A) Akta 708 untuk menggantikan hukuman pemenjaraan selama hayat dengan hukuman pemenjaraan bagi tempoh tidak kurang daripada tiga puluh tahun tetapi tidak melebihi empat puluh tahun.
 
@@ -690,13 +720,11 @@ Akta Perdagangan Strategik 2010.
 
 28. Fasal 60 bertujuan untuk mengadakan peruntukan mengenai peralihan berhubungan dengan mana-mana orang yang telah melakukan kesalahan di bawah subsubperenggan 9(4)(a)(i)(A), subsubperenggan 9(5)(a)(i)(A), subsubperenggan 9(6)(a)(i)(A), perenggan 10(2)(a), subperenggan 11(2)(a)(i) atau subsubperenggan 12(4)(a)(i)(A) Akta 708 sebelum tarikh permulaan kuat kuasa Akta ini.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## PINDAAN KEPADA KANUN TATACARA JENAYAH
 
-## Bahagian VIII Akta yang dicadangkan memperkatakan pindaan kepada
-
-Kanun Tatacara Jenayah berbangkit daripada pindaan yang dibuat kepada Akta 574 untuk, antara lain, memansuhkan hukuman mati mandatori.
+Bahagian VIII Akta yang dicadangkan memperkatakan pindaan kepada Kanun Tatacara Jenayah berbangkit daripada pindaan yang dibuat kepada Akta 574 untuk, antara lain, memansuhkan hukuman mati mandatori.
 
 29. Fasal 61 bertujuan untuk meminda subseksyen 15(3) Akta 593 untuk memperuntukkan bahawa tiada apa-apa dalam seksyen 15 Akta 593 memberikan hak, kepada pegawai polis atau mana-mana orang lain, semasa membuat tangkapan untuk menyebabkan kematian seseorang yang tidak dituduh dengan kesalahan yang membawa hukuman mati atau pemenjaraan bagi tempoh tidak kurang daripada tiga puluh tahun tetapi tidak melebihi empat puluh tahun.
 

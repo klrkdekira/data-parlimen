@@ -20,29 +20,63 @@
 
 ## ADMINISTRATION
 
-8. Registrar, Deputy Registrars and Assistant Registrars 9. Geographical indications offices 10. Register of Geographical Indications
+8. Registrar, Deputy Registrars and Assistant Registrars 9. Geographical indications offices
+
+10. Register of Geographical Indications
 
 ## PART IV
 
 ## REGISTRATION OF GEOGRAPHICAL INDICATIONS
 
-II. Persons who may apply for registration 12. Application for registration 13. Application for registration to be advertised
+II. Persons who may apply for registration
+
+12. Application for registration
+
+13. Application for registration to be advertised
 
 <!-- page 2 -->
 
-Bill 2 14. Opposition to application for registration 15. Reply by applicant Filingof documentary evidence in support 16. 17. Failure to file documentary evidence 18. Appeal to Court 19. Registration of geographical indication 20. Presumption where geographical indication is registered 21. Right of use
+Bill 2
+
+14. Opposition to application for registration
+
+15. Reply by applicant Filingof documentary evidence in support
+
+16.
+
+17. Failure to file documentary evidence
+
+18. Appeal to Court
+
+19. Registration of geographical indication
+
+20. Presumption where geographical indication is registered
+
+21. Right of use
 
 ## PART V
 
 ## OTHER POWERS OF THE REGISTRAR
 
-22. Cancellation and rectification of registration 23. Correction of errors 24. Extension of time 25. Power to award costs 26. Security for costs
+22. Cancellation and rectification of registration
+
+23. Correction of errors
+
+24. Extension of time
+
+25. Power to award costs
+
+26. Security for costs
 
 ## PART VI
 
 ## SPECIAL PROVISIONS
 
-27. Extent of application 28. Exception for prior use 29. Exception for use of personal name
+27. Extent of application
+
+28. Exception for prior use
+
+29. Exception for use of personal name
 
 ## PART Vll
 
@@ -70,7 +104,11 @@ ENACTED by the Parliament of Malaysia as follows:
 
 Short title and commencement
 
-(l) This Act may be cited as the Geographical Indications Act 1. 2000.
+(l) This Act may be cited as the Geographical Indications Act
+
+1.
+
+2000.
 
 (2) This Act shall come into operation on a date to be appointed by the Minister by notification in the Gazette.
 
@@ -188,7 +226,9 @@ Geographical Indications
 
 Homonymous geographical indications for wines
 
-(l) 7. In the case of homonymous geographical indications for wines, protection shall be accorded to each indication.
+(l)
+
+7. In the case of homonymous geographical indications for wines, protection shall be accorded to each indication.
 
 (2) The Registrar, in cases of bona fide concurrent use of homonymous geographical indications, shall determine the practical conditions under which the homonymous geographical indications in question will be differentiated from each other,
 
@@ -226,9 +266,7 @@ filed at any branch office of the Central Geographical Indications Office and su
 
 (I) The Registrar shall keep and maintain a register called
 
-### 10.
-
-the Register of Geographical Indications in which all particulars as the Registrar deems appropriate shall be recorded.
+10. the Register of Geographical Indications in which all particulars as the Registrar deems appropriate shall be recorded.
 
 (2) The Register shall be kept in such form and on such material as may be prescribed.
 
@@ -244,9 +282,7 @@ the Register of Geographical Indications in which all particulars as the Registr
 
 (I) The following persons shall be entitled to file an application
 
-### 11.
-
-for registration of a geographical indication:
+11. for registration of a geographical indication:
 
 (a) a person who is carrying on an activity as a producer in the geographical area specified in the application with respect to the goods specified in the application. and includes a group or groups of such person;
 
@@ -512,7 +548,9 @@ Geographical Indications
 
 ### .Regulations
 
-32. (I) Subject to the provisions of this Act, the Minister may make regulations for the purpose of carrying into effect the provisions of this Act.
+32.
+
+(I) Subject to the provisions of this Act, the Minister may make regulations for the purpose of carrying into effect the provisions of this Act.
 
 (2) In particular and without prejudice to the generality of subsection (I), regulations made under this section may provide for all or any of the following:
 
@@ -576,9 +614,7 @@ of a competitor;
 
 in Malaysia, in line with Malaysia's obligations under the Agreement on Trade Related Aspects of Intellectual Property Rights (TRIPS). TRIPS is an integral part of the Final Act of the Uruguay Round of the General Agreement of Tariffs and Trade (GATT) of which Malaysia is a signatory.
 
-2.
-
-## Part I contains preliminary provisions.
+2. Part I contains preliminary provisions.
 
 Clause 1 provides for the short title and seeks to empower the Minister to appoint the date of coming into operation of the proposed Act.
 
@@ -688,11 +724,7 @@ Clause 26 provides that the Registrar may require any person who gives a notice 
 
 as abandoned.
 
-7.
-
-## Part VI deals with special provisions relating to the application of the
-
-proposed Act.
+7. Part VI deals with special provisions relating to the application of the proposed Act.
 
 Clause 27 contains provisions relating to the application of the proposed Act
 
@@ -706,11 +738,7 @@ Clause 28 seeks to safeguard the prior use of a particular geographical indicati
 
 Clause 29 seeks to protect the right of use by any person of a personal name except where the name is used in such a manner to mislead the public.
 
-8.
-
-## Part VII deals with miscellaneous provisions such as the power to appeal
-
-against the decision of the Registrar and the power of the Minister to make regulations for the purpose of carrying into effect the provisions of the proposed Act.
+8. Part VII deals with miscellaneous provisions such as the power to appeal against the decision of the Registrar and the power of the Minister to make regulations for the purpose of carrying into effect the provisions of the proposed Act.
 
 ## FINANCIAL IMPLICATIONS
 

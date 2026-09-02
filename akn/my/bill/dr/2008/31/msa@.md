@@ -6,7 +6,7 @@ Rang Undang-Undang PERLIndUngan SaKSI 2008
 
 SUSUnan FaSaL
 
-## Bahagian I
+## BAHAGIAN I
 
 PERMULaan
 
@@ -14,7 +14,7 @@ PERMULaan
 
 2. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 PROgRaM PERLIndUngan SaKSI
 
@@ -42,7 +42,7 @@ PROgRaM PERLIndUngan SaKSI
 
 <!-- page 2 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 HaK, OBLIgaSI, KETIdaKdEdaHan dan PEnaMaTan
 
@@ -52,7 +52,7 @@ HaK, OBLIgaSI, KETIdaKdEdaHan dan PEnaMaTan
 
 16. Penamatan perlindungan dan bantuan
 
-## Bahagian IV
+## BAHAGIAN IV
 
 aM
 
@@ -92,13 +92,15 @@ Suatu akta untuk mewujudkan suatu program bagi perlindungan saksi dan bagi perka
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 PERMULaan
 
 ### Tajuk ringkas dan permulaan kuat kuasa
 
-1. (1) akta ini bolehlah dinamakan akta Perlindungan Saksi 2008.
+1. (1) akta ini bolehlah dinamakan akta Perlindungan Saksi
+
+2008.
 
 (2) akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
 
@@ -142,7 +144,7 @@ PERMULaan
 
 (e) seseorang yang, kerana hubungan atau perkaitannya dengan mana-mana orang yang disebut dalam perenggan (a) hingga (d), mungkin menghendaki perlindungan atau bantuan di bawah Program.
 
-## Bahagian II
+## BAHAGIAN II
 
 PROgRaM PERLIndUngan SaKSI
 
@@ -366,7 +368,7 @@ PROgRaM PERLIndUngan SaKSI
 
 (6) Ketua Pengarah boleh membenarkan pegawainya menggunakan nama samaran dalam menjalankan kewajipan mereka berhubung dengan Program dan untuk membawa dokumen yang menyokong nama samaran itu.
 
-## Bahagian III
+## BAHAGIAN III
 
 HaK, OBLIgaSI, KETIdaKdEdaHan dan PEnaMaTan
 
@@ -452,7 +454,7 @@ Ketua Pengarah hendaklah memberikan notis secara bertulis kepada peserta itu.
 
 (b) memberitahu perkhidmatan awam atau pihak berkuasa awam yang berkaitan mengenai penamatan itu.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 aM
 

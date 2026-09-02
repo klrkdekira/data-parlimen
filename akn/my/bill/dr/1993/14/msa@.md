@@ -58,13 +58,21 @@ Tempatan) 1984, yang disebut "Ordinan" dalam Akta ini, adalah dipinda—
 
 ## RANG UNDANG-UNDANG
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Seksyen 83 Ordinan adalah dipinda dengan memotong seksyen 83. perenggan (b).
+3. Seksyen 83 Ordinan adalah dipinda dengan memotong
 
-Pindaan
+<!-- marginal: seksyen 83. -->
 
-4. Subseksyen 97(1) Ordinan adalah dipinda dengan seksyen 97. memotong perkataan "sewerage".
+perenggan (b).
+
+<!-- marginal: Pindaan -->
+
+4. Subseksyen 97(1) Ordinan adalah dipinda dengan
+
+<!-- marginal: seksyen 97. -->
+
+memotong perkataan "sewerage".
 
 ## HURAIAN
 

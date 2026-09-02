@@ -56,27 +56,63 @@ for Agricultural Development Act 1991.
 
 <!-- page 4 -->
 
-Authorization
+<!-- marginal: Authorization -->
 
-3. The Yang di-Pertuan Agong may, by instrument of Signature under his hand, empower such person as may be named of Agreement. in such instrument, on behalf of the Government of Malaysia—
+3. The Yang di-Pertuan Agong may, by instrument
+
+<!-- marginal: of Signature -->
+
+under his hand, empower such person as may be named
+
+<!-- marginal: of Agreement. -->
+
+in such instrument, on behalf of the Government of Malaysia—
 
 (a) to sign the Agreement; and
 
 (b) to deposit with the Fund an instrument of acceptance of the Agreement setting forth that the Government of Malaysia has accepted the Agreement in accordance with its law and has taken all steps necessary to enable the Government of Malaysia to carry out all of its obligations under the Agreement.
 
-Contribution
+<!-- marginal: Contribution -->
 
-4. (1) There shall be charged on the Consolidated Fund to Fund. such part of the contribution of Malaysia to the Fund pursuant to section 3 of Article 4 of the Agreement as may, in accordance with section 5 of Article 4 of the Agreement, be payable in freely convertible currency or in Malaysian currency.
+4. (1) There shall be charged on the Consolidated Fund
+
+<!-- marginal: to Fund. -->
+
+such part of the contribution of Malaysia to the Fund pursuant to section 3 of Article 4 of the Agreement as may, in accordance with section 5 of Article 4 of the Agreement, be payable in freely convertible currency or in Malaysian currency.
 
 (2) Subject to section 5, there shall be charged on the Consolidated Fund such part of any increase in the contribution of Malaysia to the Fund as may, pursuant to section 4 of Article 4 of the Agreement, be payable in freely convertible currency or in Malaysian currency.
 
-Approval of
+<!-- marginal: Approval of -->
 
-5. Whenever any increase in the contribution of Dewan Rakyat Malaysia to the Fund is authorized pursuant to section for additional contribution to 4 of Article 4 of the Agreement, no amount shall Fund. be contributed in respect thereof except with the prior approval, signified by resolution, of the Dewan Rakyat.
+5. Whenever any increase in the contribution of
 
-Issue of non-
+<!-- marginal: Dewan Rakyat -->
 
-6. The Minister of Finance may, on behalf of the negotiable and Government, create and issue to the Fund, in such non-interest bearing notes. form as he thinks fit, any such non-negotiable and non-interest bearing notes or similar obligations as the Fund may—
+Malaysia to the Fund is authorized pursuant to section
+
+<!-- marginal: for additional -->
+
+<!-- marginal: contribution to -->
+
+4 of Article 4 of the Agreement, no amount shall
+
+<!-- marginal: Fund. -->
+
+be contributed in respect thereof except with the prior approval, signified by resolution, of the Dewan Rakyat.
+
+<!-- marginal: Issue of non- -->
+
+6. The Minister of Finance may, on behalf of the
+
+<!-- marginal: negotiable and -->
+
+Government, create and issue to the Fund, in such
+
+<!-- marginal: non-interest -->
+
+<!-- marginal: bearing notes. -->
+
+form as he thinks fit, any such non-negotiable and non-interest bearing notes or similar obligations as the Fund may—
 
 (a) accept from the Government in place of any Malaysian currency paid or payable by the
 

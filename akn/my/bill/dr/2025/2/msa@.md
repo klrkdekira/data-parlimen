@@ -274,7 +274,7 @@ itu difikirkan perlu oleh Ketua Pengarah kerana wujudnya potensi bahaya atau ris
 
 11. Akta ibu dipinda dengan memasukkan selepas Bahagian V bahagian yang berikut:
 
-“bahagian Va
+## “BAHAGIAN VA
 
 ## PERUNDING KESELAMATAN KEBAKARAN,
 
@@ -410,7 +410,7 @@ itu difikirkan perlu oleh Ketua Pengarah kerana wujudnya potensi bahaya atau ris
 
 36j. Mana-mana orang yang terkilan dengan keputusan Pengawal yang dibuat di bawah Bahagian ini boleh, dalam masa empat belas hari selepas dimaklumkan secara bertulis mengenai keputusan itu, merayu kepada Ketua Pengarah terhadap keputusan itu mengikut cara sebagaimana yang ditentukan oleh Ketua Pengarah dan keputusan Ketua Pengarah adalah muktamad.
 
-bahagian Vb
+## BAHAGIAN VB
 
 ## KELENGKAPAN MENENTANG KEBAKARAN
 

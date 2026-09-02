@@ -1,0 +1,1147 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-18-2011",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_34"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Securities Commission (Amendment) Bill 2011"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_10__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 31L(4) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “The Audit Oversight Board shall” the words “The Commission shall”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “a balance sheet” the words “the statement of accounts”. Amendment of Division 4 of Part IIIA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended in the subheading of Division 4 of Part IIIA by inserting after the word “Registration” the words “or Recognition”. Amendment of section 31N"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_12__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 31N of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by inserting after the word “registration” the words “or recognition”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by inserting after the word “registered” the words “as a registered auditor or recognised as a recognised auditor”. Amendment of section 31O"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_13__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_13__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_13__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_13__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 31O of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the words “registration and renewal of registration” the words “registration, renewal of registration and recognition”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: “ (1) For the purposes of this Act, an application for— (a) registration or renewal of registration as a registered auditor; or (b) recognition as a recognised auditor, shall be made to the Audit Oversight Board.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_13__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (3) the following subsection: “ (3) Subject to section 31P, the Audit Oversight Board may— (a) approve or refuse the registration of an applicant as a registered auditor or the renewal of registration of a registered auditor; or (b) approve or refuse the grant of recognition of an applicant as a recognised auditor.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_13__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (4) the following subsection: “ (4) The Audit Oversight Board may, upon the— (a) registration of an applicant as a registered auditor; (b) renewal of registration of a registered auditor; or (c) grant of recognition of an applicant as a recognised auditor, impose such conditions as it deems necessary or expedient and from time to time amend any such conditions or impose new or additional conditions.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_13__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (5), by substituting for the words “of the registration or renewal of registration,” the words “imposed under subsection (4),”. Amendment of section 31P"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_14__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_14__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_14__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_14__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 31P of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the words “register or renew registration” the words “register, renew registration or grant recognition”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_14__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_14__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)−"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_14__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_14__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “an auditor” the words “a registered auditor”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_14__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_14__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “the auditor” the words “the registered auditor”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_14__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: “ (1A) The Audit Oversight Board may refuse to recognise an applicant as a recognised auditor if the Audit Oversight Board is satisfied that the applicant— (a) falls within paragraph (1)(b), (c), (d) or (f); (b) has been subject to any sanction imposed by any relevant foreign authority; (c) has not been approved by a relevant foreign authority to prepare audited financial statements; or (d) is not supervised by a relevant foreign authority.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_14__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (2) the following subsection: “ (2) Where the Audit Oversight Board refuses— (a) the registration of an applicant as a registered auditor; (b) the renewal of registration of a registered auditor; or (c) to grant recognition of an applicant as a recognised auditor, the Audit Oversight Board shall give the applicant or the registered auditor an opportunity to be heard by serving a written notice on the applicant or the registered auditor stating the grounds for such refusal.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_14__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (3). Amendment of section 31Q"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_15__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_15__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_15__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_15__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 31Q of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the words “revoke and suspend registration” the words “revoke, withdraw or suspend registration or recognition”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: “ (1) The Audit Oversight Board may, at any time— (a) revoke or suspend the registration; or (b) withdraw or suspend the recognition, of an auditor if— (A) there exists a ground on which the Audit Oversight Board may refuse an application under subsection 31P(1) or (1A); or (B) the auditor contravenes any terms or conditions imposed by the Audit Oversight Board in respect of his registration or recognition under this Part.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_15__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (3) the following subsection: “ (3) Where the Audit Oversight Board intends to— (a) revoke or suspend the registration; or (b) withdraw or suspend the recognition, under subsection (1) or (2), it shall give the auditor an opportunity to be heard by serving a written notice to the auditor concerned stating the grounds for such revocation, suspension or withdrawal.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_15__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (4); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_15__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (5) the following subsection: “ (5) For the purposes of this Part, an auditor whose registration has been revoked or suspended or whose recognition has been withdrawn or suspended, as the case may be, shall be deemed not to be registered or recognized as an auditor from the date the revocation, withdrawal or suspension takes effect or any other date as may be specified by the Audit Oversight Board.”. Amendment of section 31R"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 31R of the principal Act is amended by substituting for the words “31P(1) or 31Q(1)” the words “31P(1) or (1A), or paragraph 31Q(1)(bb)”. Amendment of section 31S"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 31S(2) of the principal Act is amended by substituting for the words “an auditor” the words “a registered auditor”. Amendment of section 31T"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 31T(2) of the principal Act is amended by inserting after the word “registered” the words “or recognised”. Amendment of section 31W"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 31W(1) of the principal Act is amended by deleting the words “, after conducting inspections under section 31V,”. Amendment of section 31X"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Securities Commission (Amendment) Act 2011."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_1__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_1__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette, and the Minister may appoint different dates for the coming into operation of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_1__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_1__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "different provisions of this Act; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_1__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_1__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all or different provisions of this Act in respect of different classes or categories of persons or securities. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_2__para_a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Securities Commission Act 1993 [Act 498], which is referred to as the “principal Act” in this Act, is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 31X(10) of the principal Act is amended by inserting after the words “subsection (8)” the words “or (9)”. Amendment of section 31Y"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 31Y of the principal Act is amended by substituting for the words “subsidiaries or associates of” the words “subsidiaries, associates or any other entities whose financial statements are consolidated into”. Deletion of section 31ZA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 31ZA. Amendment of section 31ZB"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_23__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_23__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 31ZB of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_23__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by inserting after the words “subsection 31P(1)” the words “or (1A)”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_23__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (5), by inserting after the words “subsection 31P(1)” the words “or (1A)”. Amendment of section 31ZD"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 31ZD of the principal Act is amended by substituting for subsection (2) the following subsection: “ (2) Notwithstanding sections 31V and 31w, the Audit Oversight Board may, with regard to a recognised auditor, request for assistance from a relevant foreign authority to conduct inspection or inquire into the conduct of a recognised auditor to assess— (a) the degree of compliance with auditing and ethical standards adopted by the relevant foreign authority by the recognised auditor; and (b) the quality of audit reports prepared by the recognised auditor relating to audited financial statements.”. Amendment of section 126"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_25__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_25__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_25__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 126(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_25__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (d) the following paragraph: “ (d) a derivatives exchange;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_25__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the full stop at the end of paragraph (e) a semicolon; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_25__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (e) the following paragraphs: “ (f) a registered person other than registered persons specified in Part 1 of Schedule 4 to the Capital Markets and Services Act 2007; and (g) any other person engaging in regulated activities or providing capital market services as may be specified by the Commission.”. Amendment of section 134"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_26__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_26__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 134 of the principal Act in amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_26__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (3A) the following subsection: “ (3A) In an examination of a person under subsection (1), an Investigating Officer of the Commission or Investigating Officers of the Commission examining the person may do any one or both of the following: (a) give directions about who may be present during the examination, or during any part of it; (b) record the examination or any part of it by audio or visual recording or a combination of both.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_26__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (9), by inserting after the word “subsection” the words “(6) or”. Amendment of section 146"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_27__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_27__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 146 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_27__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: “ (1) Except as otherwise provided in the securities laws, any person who is aggrieved by the decision of the Commission may appeal to the Commission to review its own decision.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_27__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_27__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_27__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_27__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_27__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “application” the word “appeal”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_27__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_27__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “made” the words “in writing”. Amendment of section 147"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 147 the following section: “Decision of Minister or Commission to be final 147. Except as otherwise provided in the securities laws— (a) any decision made by the Minister under the securities laws, whether an original decision by him or a decision on appeal to him from a decision of the Commission; or (b) any decision by the Commission under the securities laws made pursuant to an appeal to review its original decision, shall be final.”. Amendment of section 150A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_29__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_29__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 150A of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_29__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (4) the following subsection: “ (4) The oral evidence referred to in subsection (1) shall be admissible as prima facie evidence if a person authorised by the foreign supervisory authority— (a) records the oral evidence whether in writing, by means of audio or visual recording or a combination of both, affirms in an affidavit that the oral evidence so recorded was recorded from a person acquainted with the circumstances of the case and the recording of the oral evidence was made in accordance with the laws enforced or administered by the foreign supervisory authority; or (b) obtains an affidavit which is affirmed by a person acquainted with the circumstances of the case.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_29__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (5), by inserting after the word “sworn” the words “or affirmed”. New section 150B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_2__para_a__subpara_i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection 2(1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_2__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “Deputy Chief Executive” the following definitions: ‘ “derivatives” has the meaning assigned to it in the Capital Markets and Services Act ‘ “derivatives exchange” has the meaning assigned to it in the Capital Markets and Services Act 2007;’; and ‘ “derivatives market” has the meaning assigned to it in the Capital Markets and Services Act 2007;’; (ii) by deleting the definition of “futures contract”; (iii) by deleting the definition of “futures exchange”; (iv) by deleting the definition of “futures market”; and (v) in the definition of “unit trust scheme”, by substituting for the words “futures contracts” the word “derivatives”; and (b) by deleting subsection 2(2). Amendment of section 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3__para_l"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 15(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 150A the following section: “Admissibility of statements and documents of persons who are dead or cannot be traced, etc. 150B. Notwithstanding any written law to the contrary, in any proceedings against any person for an offence under the securities laws— (a) any statement made by any person to an Investigating Officer of the Commission in the course of an investigation under the securities laws; and (b) any document, or copy of any document, seized from any person by an Investigating Officer of the Commission in the exercise of his powers under or by virtue of the securities laws, shall be admissible in evidence in any proceedings before any court, where the person who made the statement or document or the copy of the document, or the person from whom the document was seized, is dead, or cannot be traced or found, or has become incapable of giving evidence, or whose attendance cannot be procured without an amount of delay or expense which appears to the court unreasonable.”. Amendment of section 152A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_31__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_31__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_31__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 152A of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_31__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the word “or” at the end of subparagraph (f)(ii);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_31__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (f) the following paragraphs: “(fa) any action taken under section 125 of the Capital Markets and Services Act 2007; (fb) any action taken under section 220 of the Capital Markets and Services Act 2007; or”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_31__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (g), by substituting for the words “a futures exchange” the words “a derivatives exchange”. Amendment of section 159"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 159 the following section: “159. (1) The Commission may, with the approval of the Minister, make regulations as may be necessary or expedient for— (a) giving full effect to the provisions of the securities laws; (b) carrying out or achieving the objects and purposes of the securities laws; or (c) the further, better or convenient implementation of the provisions of the securities laws. (2) Without prejudice to the generality of subsection (1), regulations may be made for the disapplication of any of the provisions of the securities laws on any specified person or to any person who is a member of a specified class of persons, subject to any terms and conditions prescribed.”. New section 159A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 159 the following section: “Power to amend schedules 159A. (1) The Minister may, on the recommendation of the Commission, by order published in the Gazette, vary, delete, add to, substitute for, or otherwise amend any of the schedules in this Act. (2) The Minister in varying, deleting, adding or substituting any of the schedules referred to in subsection (1) may impose such terms and conditions as he thinks necessary. (3) In making the order under subsection (1), the Minister shall have regard to the interests of the public.”. Amendment of Schedule 1"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Schedule 1 to the principal Act is amended in paragraph (g) by substituting for the words “trading in futures contracts” the words “dealing in derivatives”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by substituting for the word “futures” the word “derivatives”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by substituting for the words “futures contracts” the word “derivatives”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (e) the following paragraph: “(e) to promote and regulate all matters relating to fund management, including unit trust schemes;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (g), by substituting for the word “futures” the word “derivatives”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (i), by substituting for the words “trading in futures contracts, and the provision of investment advice or other services relating to securities or futures contracts” the words “dealing in derivatives, and the provision of investment advice or other services relating to securities or derivatives”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (j), by substituting for the words “futures contracts” the word “derivatives”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (k), by substituting for the word “futures” the word “derivatives”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (l), by substituting for the word “futures” the word “derivatives”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (m) the following paragraph: “(m) to license, register, authorise and supervise all persons engaging in regulated activities or providing capital market services as may be provided for under any securities law;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (n), by substituting for the words “futures industries; and” the words “derivatives industries;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3__para_k__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3__para_k__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (o)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3__para_k__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3__para_k",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “register” the words “or recognise”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3__para_k__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3__para_k",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the full stop at the end of the paragraph a semicolon; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (o) the following paragraphs: “(p) to take all reasonable measures to monitor, mitigate and manage systemic risks arising from the securities and derivatives markets; (q) to promote and regulate corporate governance and approved accounting standards of listed corporations; and (r) to set and approve standards for professional qualification for the securities and derivatives markets.”. Amendment of section 22A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 22A of the principal Act is amended by substituting for the words “and futures” the word “derivatives”. Amendment of section 24"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_5__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 24 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (2) the following subsection: “ (2) In the case of every derivative effected on a derivatives market of a derivative exchange, both persons on each side of the order in relation to the derivative shall be liable to pay to the Commission a levy of such amount as may be specified by order of the Minister to be published in the Gazette; and different amounts may be specified in respect of different types or classes of derivatives or different classes or categories of persons in respect of derivatives.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2A), by substituting for the words “futures contract” the word “derivative”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (6). Amendment of section 31A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_6__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_6__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 31A of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “auditor” the following definition: ‘ “auditor” means an individual auditor or audit firm registered or recognised under section 31O as a registered auditor or a recognised auditor of a public interest entity;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “public interest entity” the following definitions: ‘ “recognised auditor” means a foreign individual auditor or foreign audit firm recognised under section 31O as an auditor of a public interest entity;’; and ‘ “registered auditor” means an individual auditor or audit firm registered under section 31O as an auditor of a public interest entity;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “relevant authorities”, by substituting for the full stop at the end of the paragraph a semicolon; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_6__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “relevant authorities” the following definition: ‘ “relevant foreign authority” means a foreign authority which exercises the functions corresponding to the Audit Oversight Board as specified in section 31B.’. Amendment of section 31C"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 31C of the principal Act is amended by inserting after subsection (6) the following subsection: “ (7) The executive chairman shall be entrusted with the day-to-day administration of the Audit Oversight Board.”. Amendment of section 31E"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 31E(1)(b) of the principal Act is amended by inserting after the word “register” the words “or recognise”. New section 31EA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 31E the following section: “Audit Oversight Board may establish committees 31EA. (1) The Audit Oversight Board may establish such committees as it considers necessary or expedient to assist in the performance of its responsibilities as specified under subsection 31E(1). (2) The Audit Oversight Board may appoint any person to be a member of a committee. (3) A committee established under this section may elect any of its members to be chairman and may regulate its own procedures and, in the performance of its responsibilities, shall be subject to and act in accordance with any direction given to the committee by the Audit Oversight Board. (4) Meetings of a committee shall be held at such times and places as the chairman of the committee may determine. (5) A committee may invite any person who is not a member to attend any meeting of the committee for the purpose of advising it on any matter under discussion but that person is not entitle to vote at the meeting. (6) Members of a committee or any person invited under subsection (5) to attend any meeting of a committee may be paid such allowances and other expenses as the Audit Oversight Board may determine. (7) A member of a committee shall hold office for such term as may be specified in his instrument of appointment and is eligible for reappointment. (8) The Audit Oversight Board may at any time revoke the appointment of any member of a committee. (9) A member of a committee may at any time resign his office by a written notice addressed to the executive chairman of the Audit Oversight Board. (10) A committee shall cause— (a) minutes of all its meetings to be maintained and kept in proper form; and (b) copies of the minutes of all its meetings to be submitted to the Audit Oversight Board as soon as practicable. (11) Any minutes made of a meeting of a committee shall, if duly signed, be admissible in evidence in all legal proceedings without further proof. (12) Every meeting of a committee in respect of the proceedings of which minutes have been made in accordance with subsections (10) and (11) shall be deemed to have been duly convened and held and all members of the committee have been duly qualified to act. (13) A member of the committee who having directly or indirectly, by himself or a member of his family, any interest in any matter under discussion by the committee shall disclose to the committee the fact and nature of his interest. (14) A disclosure under subsection (13) shall be recorded in the minutes of the committee, and after the disclosure, the member having an interest in the matter— (a) shall not take part nor be present in any deliberation or decision of the committee; and (b) shall be disregarded for the purpose of constituting a quorum of the committee relating to the matter. (15) Notwithstanding subsections (13) and (14), no act or proceedings of the committee shall be invalidated on the ground that any member of the committee has contravened the provisions of those subsections.”. Amendment of section 31L"
+      }
+    }
+  ]
+}

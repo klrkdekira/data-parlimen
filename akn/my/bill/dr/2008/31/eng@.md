@@ -4,27 +4,39 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Interpretation
 
-## Part II
+## PART II
 
 ## WITNESS PROTECTION PROGRAMME
 
-3. Establishment 4. Appointment 5. Functions 6. Duty to provide assistance 7. Application for inclusion in the Programme 8. Witness to disclose certain matters 9. Factors to be considered 10. Inclusion in the Programme 11. Register of Participants 12. Access to Register 13. Action where a witness is included in the Programme
+3. Establishment 4. Appointment 5. Functions 6. Duty to provide assistance 7. Application for inclusion in the Programme 8. Witness to disclose certain matters 9. Factors to be considered
 
-## Part III
+10. Inclusion in the Programme
+
+11. Register of Participants
+
+12. Access to Register
+
+13. Action where a witness is included in the Programme
+
+## PART III
 
 ## RIGHTS, OBLIGATIONS, NON-DISCLOSURE AND TERMINATION
 
-14. Dealing with outstanding rights and obligations of participant 15. Non-disclosure of original identity of participant 16. Termination of protection and assistance
+14. Dealing with outstanding rights and obligations of participant
+
+15. Non-disclosure of original identity of participant
+
+16. Termination of protection and assistance
 
 <!-- page 2 -->
 
-## Part IV
+## PART IV
 
 ## GENERAL
 
@@ -66,13 +78,15 @@ An Act to establish a programme for the protection of witnesses and for other ma
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 ### Short title and commencement
 
-1. (1) This Act may be cited as the Witness Protection Act 2008.
+1. (1) This Act may be cited as the Witness Protection Act
+
+2008.
 
 (2) This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette.
 
@@ -114,7 +128,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 5 -->
 
-## Part II
+## PART II
 
 ## WITNESS PROTECTION PROGRAMME
 
@@ -336,7 +350,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (6) The Director General may permit his officer to use assumed names in carrying out their duties in relation to the Programme and to carry documentation supporting those assumed names.
 
-## Part III
+## PART III
 
 ## RIGHTS, OBLIGATIONS, NON-DISCLOSURE AND TERMINATION
 
@@ -422,7 +436,7 @@ the Director General shall give notice in writing to the participant.
 
 (b) notify the relevant public services and public authorities of the termination.
 
-## Part IV
+## PART IV
 
 ## GENERAL
 

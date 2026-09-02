@@ -42,9 +42,7 @@ III
 
 7. Permohonan bagi mendapatkan lesen untuk menjalankan aktiviti-aktiviti berhubungan dengan insurans luar pesisir.
 
-8. Syor Bank mengenai permohonan bagi mendapatkan lesen.
-
-9. Pemberian lesen.
+8. Syor Bank mengenai permohonan bagi mendapatkan lesen. 9. Pemberian lesen.
 
 10. Penyiaran senarai semua pemegang lesen.
 
@@ -110,6 +108,8 @@ AM
 
 3
 
+<!-- marginal: Fasal -->
+
 30. Kuasa Gabenor untuk mengkompaun kesalahan-kesalahan.
 
 31. Kuasa untuk memberikan pengecualian.
@@ -142,11 +142,21 @@ UNDANG oleh Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong denga
 
 ## PERMULAAN
 
-Tajuk
+<!-- marginal: Tajuk -->
 
-1. Akta ini bolehlah dinamakan Akta Insurans Luar ringkas dan Pesisir 1990 dan hendaklah mula berkuatkuasa pada tarikh mula berkuasa. yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
+1. Akta ini bolehlah dinamakan Akta Insurans Luar
 
-Tafsiran.
+<!-- marginal: ringkas dan -->
+
+Pesisir 1990 dan hendaklah mula berkuatkuasa pada tarikh
+
+<!-- marginal: mula -->
+
+<!-- marginal: berkuasa. -->
+
+yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
+
+<!-- marginal: Tafsiran. -->
 
 2. (1) Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—
 
@@ -170,7 +180,11 @@ Tafsiran.
 
 (f) mana-mana badan, persatuan atau kumpulan orang yang lain, sama ada diperbadankan atau tak diperbadankan, ertinya mana-mana orang yang mempunyai apa-apa kepentingan pemunyaan dalam badan, persatuan atau kumpulan orang itu;
 
-"Bank" ertinya Bank Negara Malaysia yang ditubuhkan Ord. 61/58. oleh Ordinan Bank Negara Malaysia 1958;
+"Bank" ertinya Bank Negara Malaysia yang ditubuhkan
+
+<!-- marginal: Ord. 61/58. -->
+
+oleh Ordinan Bank Negara Malaysia 1958;
 
 "broker insurans luar pesisir" ertinya seseorang yang mengaturkan—
 
@@ -186,7 +200,7 @@ Tafsiran.
 
 ## INSURANS LUAR PESIS5R
 
-7
+<!-- marginal: 7 -->
 
 kaedah-kaedah dan undang-undang kecil, perjanjian perkongsian, atau suratcara lain, yang di bawahnya atau melaluinya seseorang itu ditubuhkan dan skop fungsi- fungsi, perniagaan, kuasa-kuasa dan kewajipan- kewajipan orang itu dinyatakan, sama ada terkandung dalam satu dokumen atau lebih;
 
@@ -222,9 +236,17 @@ seorang juruaudit syarikat diluluskan di bawah Akta Syarikat Luar Pesisir 1990, 
 
 (a) warganegara Malaysia yang bermastautin di Malaysia;
 
-(b) pemegang permit masuk di bawah Akta Imigresen Akta 155. 1959/63 yang bermastautin dengan sah di Malaysia; atau
+(b) pemegang permit masuk di bawah Akta Imigresen
 
-(c) suatu perbadanan yang ditubuhkan di bawah undang-undang Malaysia, selain daripada Akta Syarikat Luar Pesisir 1990, atau ditubuhkan Akta 125. sebagai syarikat asing di bawah Akta Syarikat 1965;
+<!-- marginal: Akta 155. -->
+
+1959/63 yang bermastautin dengan sah di Malaysia; atau
+
+(c) suatu perbadanan yang ditubuhkan di bawah undang-undang Malaysia, selain daripada Akta Syarikat Luar Pesisir 1990, atau ditubuhkan
+
+<!-- marginal: Akta 125. -->
+
+sebagai syarikat asing di bawah Akta Syarikat 1965;
 
 "pemegang lesen" ertinya mana-mana orang yang dilesenkan di bawah subseksyen (1) seksyen 9;
 
@@ -248,7 +270,7 @@ seorang juruaudit syarikat diluluskan di bawah Akta Syarikat Luar Pesisir 1990, 
 
 ## INSURANS LUAR PESISIR
 
-9
+<!-- marginal: 9 -->
 
 "pendapatan premium bersih", berhubungan dengan sesuatu tahun kewangan, ertinya premium yang akan di- terima di bawah kontrak-kontrak insurans atau insurans semula selepas ditolak apa-apa premium yang kena di- bayar bagi insurans-insurans semula yang diaturkan berkenaan dengan kontrak-kontrak insurans atau insurans semula itu;
 
@@ -334,7 +356,11 @@ dan termasuklah perniagaan insurans semula;
 
 "perniagaan insurans nyawa" ertinya perniagaan insurans yang berkaitan dengan apa-apa polisi yang dengannya pembayaran wang polisi diinsuranskan berasaskan kematian atau berlakunya apa-apa kontin- gensi yang bergantung pada tamatnya atau berterusan- nya nyawa manusia, dan termasuklah apa-apa perluasan perlindungan sampingan dan insurans semula perniagaan sedemikian;
 
-"perniagaan insurans semula" ertinya suatu perniagaan yang dengannya penanggung insurans semula menanggung sebahagian daripada liabiliti di bawah kontrak insurans asal penanggung insurans yang lain atau penanggung insurans semula yang lain;
+"perniagaan insurans semula" ertinya suatu perniagaan yang dengannya penanggung insurans
+
+<!-- marginal: semula -->
+
+menanggung sebahagian daripada liabiliti di bawah kontrak insurans asal penanggung insurans yang lain atau penanggung insurans semula yang lain;
 
 "polisi" ertinya polisi insurans dan termasuklah apa- apa kontrak insurans bertulis, sama ada atau tidak ter- kandung dalam atau didalilkan dengan suatu suratcara dalam bentuk polisi insurans; dan apa-apa sebutan mengenai polisi penanggung insurans termasuklah sebutan mengenai mana-mana polisi yang berkenaan dengannya penanggung insurans itu mempunyai apa-apa liabiliti, sama ada polisi itu telah dikeluarkan oleh penanggung insurans itu atau liabiliti itu telah dipindah- kan kepada penanggung insurans itu daripada penanggung insurans yang lain;
 
@@ -370,15 +396,43 @@ II
 
 ## PENTADBIRAN AKTA
 
-Fungsi-
+<!-- marginal: Fungsi- -->
 
-3. (1) Bank hendaklah mempunyai segala fungsi dan fungsi, kuasa yang diberikan kepada, dan kewajipan yang dikena- kuasa-kuasa dan kan atas Bank oleh Akta ini. kewajipan- kewajipan (2) Bank boleh memberikuasa atau mengarahkan Bank. mana-mana pegawai Bank melaksanakan mana-mana fungsi, menjalankan mana-mana kuasa, atau menunaikan mana-mana kewajipan Bank di bawah Akta ini.
+3. (1) Bank hendaklah mempunyai segala fungsi dan
+
+<!-- marginal: fungsi, -->
+
+kuasa yang diberikan kepada, dan kewajipan yang dikena-
+
+<!-- marginal: kuasa-kuasa -->
+
+<!-- marginal: dan -->
+
+kan atas Bank oleh Akta ini.
+
+<!-- marginal: kewajipan- -->
+
+<!-- marginal: kewajipan -->
+
+(2) Bank boleh memberikuasa atau mengarahkan
+
+<!-- marginal: Bank. -->
+
+mana-mana pegawai Bank melaksanakan mana-mana fungsi, menjalankan mana-mana kuasa, atau menunaikan mana-mana kewajipan Bank di bawah Akta ini.
 
 (3) Bank boleh, samaada secara am atau dalam mana- mana hal tertentu, melantik mana-mana orang yang bukan pegawai Bank untuk memberikan apa-apa bantuan yang ditentukan olehBank pada melaksanakan fungsi-fungsi, menjalankan kuasa-kuasa atau menunaikan kewajipan- kewajipan Bank di bawah Akta ini, atau untuk melak- sanakan fungsi-fungsi, menjalankan kuasa-kuasa, atau menunaikan kewajipan-kewajipan sedemikian bagi pihak dan atas nama Bank.
 
-Kerahsiaan
+<!-- marginal: Kerahsiaan -->
 
-4. Kecuali bagi maksud-maksud pelaksanaan fungsi- di pihak fungsi, penjalanan kuasa-kuasa atau penunaian Bank. kewajipan-kewajipan Bank di bawah Akta ini atau apabila dikehendaki secara sah oleh mana-mana mahkamah supaya berbuat demikian, Bank atau mana-mana pegawai atau wakil Bank tidak boleh mendedahkan apa-apa maklumat yang berhubungan dengan mana-mana per- mohonan oleh mana-mana orang di bawah peruntukan- peruntukan Akta ini atau yang berhubungan dengan hal- ehwal orang itu yang telah diperolehi oleh Bank atau pegawai atau wakil itu semasa melaksanakan fungsi- fungsi, menjalankan kuasa-kuasa atau menunaikan kewajipan-kewajipan Bank di bawah Akta ini.
+4. Kecuali bagi maksud-maksud pelaksanaan fungsi-
+
+<!-- marginal: di pihak -->
+
+fungsi, penjalanan kuasa-kuasa atau penunaian
+
+<!-- marginal: Bank. -->
+
+kewajipan-kewajipan Bank di bawah Akta ini atau apabila dikehendaki secara sah oleh mana-mana mahkamah supaya berbuat demikian, Bank atau mana-mana pegawai atau wakil Bank tidak boleh mendedahkan apa-apa maklumat yang berhubungan dengan mana-mana per- mohonan oleh mana-mana orang di bawah peruntukan- peruntukan Akta ini atau yang berhubungan dengan hal- ehwal orang itu yang telah diperolehi oleh Bank atau pegawai atau wakil itu semasa melaksanakan fungsi- fungsi, menjalankan kuasa-kuasa atau menunaikan kewajipan-kewajipan Bank di bawah Akta ini.
 
 <!-- page 15 -->
 
@@ -460,9 +514,11 @@ luar pesisir atau syarikat luar pesisir asing atau
 
 cawangan suatu penanggung insurans Malaysia;
 
-(b) wang kerja pemohon—
+(b) wang kerja pemohon— (i) dalam hal apabila pemohon bercadang hendak menjalankan sama ada perniagaan insurans nyawa atau perniagaan insurans am, atau kedua-duanya, ialah
 
-(i) dalam hal apabila pemohon bercadang hendak menjalankan sama ada perniagaan insurans nyawa atau perniagaan insurans am, atau kedua-duanya, ialah sekurang- kurangnya tujuh juta lima ratus ribu ringgit atau yang setara dengannya dalam mana- mana mata wang asing;
+<!-- marginal: sekurang- -->
+
+kurangnya tujuh juta lima ratus ribu ringgit atau yang setara dengannya dalam mana- mana mata wang asing;
 
 (ii) dalam hal apabila pemohon bercadang hendak menjalankan perniagaan insurans
 
@@ -494,23 +550,13 @@ pemohon memberikan jaminan yang mencukupi atas terma-terma dan syarat-syarat yan
 
 (d) menyatakan rancangan-rancangan perniagaan pemohon; dan
 
-(e) disertai dengan—
-
-(i) satu salinan—
-
-(A) dokumen konstituen pemohon, yang disahkan dengan sewajarnya oleh seorang pengarah atau pegawai pemohon;
-
-(B) ketetapan-ketetapan lembaga dan mesyuarat agung pemohon, jika ada, yang disahkan dengan sewajarnya oleh seorang pengarah atau pegawai pemohon, yang memberikuasa pemohon memohon lesen;
-
-(C) perakuan pemerbadanan atau pendaf- taran pemohon, mengikut mana-mana yang berkenaan, yang diperakui oleh pihak berkuasa pendaftaran yang relevan di tempat pemohon ditubuh- kan atau berasal;
+(e) disertai dengan— (i) satu salinan— (A) dokumen konstituen pemohon, yang disahkan dengan sewajarnya oleh seorang pengarah atau pegawai pemohon; (B) ketetapan-ketetapan lembaga dan mesyuarat agung pemohon, jika ada, yang disahkan dengan sewajarnya oleh seorang pengarah atau pegawai pemohon, yang memberikuasa pemohon memohon lesen; (C) perakuan pemerbadanan atau pendaf- taran pemohon, mengikut mana-mana yang berkenaan, yang diperakui oleh pihak berkuasa pendaftaran yang relevan di tempat pemohon ditubuh- kan atau berasal;
 
 (ii) satu salinan akaun tahunan teraudit pemohon bagi tiga tahun yang berturut-turut sebelum sahaja permohonan itu dibuat, jika ber- kenaan;
 
 <!-- page 18 -->
 
-(iii) suatu pernyataan tentang— (A) nama, tempat dan tarikh penubuhan pemohon; (B) nama, alamat, kelayakan dan pengala- man pengarah-pengarah dan pegawai- pegawai yang bertanggung-jawab bagi pengurusan keseluruhan hal-ehwal pemohon; dan (C) nama dan alamat setiap anggota yang memegang sepuluh peratus atau lebih syer mengundi pemohon; dan
-
-(iv) suatu akuan oleh pemohon tentang keju- juran pengarah-pengarah dan pegawai- pegawai pemohon yang akan mengambil bahagian dalam pengurusan penanggung insurans luar pesisir yang dicadangkan itu.
+(iii) suatu pernyataan tentang— (A) nama, tempat dan tarikh penubuhan pemohon; (B) nama, alamat, kelayakan dan pengala- man pengarah-pengarah dan pegawai- pegawai yang bertanggung-jawab bagi pengurusan keseluruhan hal-ehwal pemohon; dan (C) nama dan alamat setiap anggota yang memegang sepuluh peratus atau lebih syer mengundi pemohon; dan (iv) suatu akuan oleh pemohon tentang keju- juran pengarah-pengarah dan pegawai- pegawai pemohon yang akan mengambil bahagian dalam pengurusan penanggung insurans luar pesisir yang dicadangkan itu.
 
 (4) Bank boleh menghendaki apa-apa maklumat atau dokumen lain daripada pemohon sebagaimana yang di- tentukan oleh Bank bagi maksud membuat keputusan tentang permohonan itu.
 
@@ -518,9 +564,43 @@ pemohon memberikan jaminan yang mencukupi atas terma-terma dan syarat-syarat yan
 
 (6) Sesuatu permohonan di bawah seksyen ini boleh dibuat berhubungan dengan seseorang yang belum lagi ditubuhkan di bawah Akta Syarikat Luar Pesisir 1990 tetapi akan ditubuhkan sedemikian sekiranya orang itu mendapat lesen, dan dalam hal yang demikian kehendak- kehendak subseksyen (1) boleh diubah oleh Bank sebagaimana yang difikirkannya patut.
 
-7. (1) Tiap-tiap pemohon bagi mendapatkan lesen untuk Permohonan bagi men- menjalankan perniagaan sebagai pengurus insurans luar dapatkan pesisir, pengurus pengunderaitan luar pesisir atau broker lesen untuk menjalankan insurans luar pesisir hendaklah memuaskan hati Menteri afctiviti- bahawa— aktiviti berhubungan
+7. (1) Tiap-tiap pemohon bagi mendapatkan lesen untuk
 
-(a) pengawal, pengarah dan ketua pegawai eksekutif dengan insurans luar pemohon ialah orang-orang yang layak dan pesisir. sesuai; dan
+<!-- marginal: Permohonan -->
+
+<!-- marginal: bagi men- -->
+
+menjalankan perniagaan sebagai pengurus insurans luar
+
+<!-- marginal: dapatkan -->
+
+pesisir, pengurus pengunderaitan luar pesisir atau broker
+
+<!-- marginal: lesen untuk -->
+
+<!-- marginal: menjalankan -->
+
+insurans luar pesisir hendaklah memuaskan hati Menteri
+
+<!-- marginal: afctiviti- -->
+
+bahawa—
+
+<!-- marginal: aktiviti -->
+
+<!-- marginal: berhubungan -->
+
+(a) pengawal, pengarah dan ketua pegawai eksekutif
+
+<!-- marginal: dengan -->
+
+<!-- marginal: insurans luar -->
+
+pemohon ialah orang-orang yang layak dan
+
+<!-- marginal: pesisir. -->
+
+sesuai; dan
 
 <!-- page 19 -->
 
@@ -572,13 +652,31 @@ mendapatkan lesen, dan syor Bank di bawah seksyen 8, Menteri boleh memberikan le
 
 (2) Jika Menteri enggan memberikan lesen, Bank hendaklah dengan segera memberitahu pemohon secara bertulis tentang keengganan Menteri itu dan tidaklah dikehendaki memberikan apa-apa sebab bagi keengganan itu kepada pemohon.
 
-Penyiaran
+<!-- marginal: Penyiaran -->
 
-10. Bank hendaklah menyebabkan supaya disiarkan senarai dalam Warta tidak lewat daripada 31hb Mac setiap tahun semua suatu senarai, dalam apa-apa bentuk yang diputuskan oleh pemegang lesen. Bank, semua pemegang lesen yang lesen-lesen mereka sah pada 31hb Disernber tahun yang sebelumnya.
+10. Bank hendaklah menyebabkan supaya disiarkan
 
-Pembatalan
+<!-- marginal: senarai -->
 
-11. (1) Menteri boleh, atas syor Bank, membatalkan lesen. mana-mana lesen jika dia berpuas hati bahawa—
+dalam Warta tidak lewat daripada 31hb Mac setiap tahun
+
+<!-- marginal: semua -->
+
+suatu senarai, dalam apa-apa bentuk yang diputuskan oleh
+
+<!-- marginal: pemegang -->
+
+<!-- marginal: lesen. -->
+
+Bank, semua pemegang lesen yang lesen-lesen mereka sah pada 31hb Disernber tahun yang sebelumnya.
+
+<!-- marginal: Pembatalan -->
+
+11. (1) Menteri boleh, atas syor Bank, membatalkan
+
+<!-- marginal: lesen. -->
+
+mana-mana lesen jika dia berpuas hati bahawa—
 
 (a) pemegang lesen itu telah melanggar mana-mana syarat yang dikenakan dibawah lesen, dokumen- dokumen konstituen pemegang lesen itu atau mana-mana peruntukan Akta ini; atau
 
@@ -598,17 +696,39 @@ Pembatalan
 
 menyiarkan notis itu tidaklah dengan apa-apa jua cara menyentuh keesahan pembatalan itu.
 
-Penyerahan
+<!-- marginal: Penyerahan -->
 
-12. (1) Pemegang lesen boleh menyerahkan balik lesen- balik lesen. nya dengan menghantar lesen itu kepada Bank dengan notis bertulis tentang penyerahan lesen itu.
+12. (1) Pemegang lesen boleh menyerahkan balik lesen-
+
+<!-- marginal: balik lesen. -->
+
+nya dengan menghantar lesen itu kepada Bank dengan notis bertulis tentang penyerahan lesen itu.
 
 (2) Penyerahan balik sesuatu lesen di bawah sub- seksyen (1) hendaklah mula berkuatkuasa pada tarikh Bank menerima lesen itu.
 
 (3) Bank hendaklah, dengan seberapa segera yang praktik, menyiarkan suatu notis dalam Warta tentang tiap-tiap penyerahan balik lesen di bawah seksyen ini, tetapi apa-apa kelengahan menyiarkan notis itu atau kegagalan menyiarkan notis itu tidaklah dengan apa-apa jua cara menyentuh keesahan penyerahan balik itu.
 
-Akibat-
+<!-- marginal: Akibat- -->
 
-13. (1) Jika pembatalan sesuatu lesen di bawah seksyen akibat 11 atau penyerahan balik sesuatu lesen di bawah seksyen pembatalan atau 12 telah mula berkuatkuasa, pemegang lesen itu penyerahan hendaklah. dari tarikh pembatalan atau penyerahan balik balik lesen. itu mula berkuatkuasa, berhenti mengurusniagakan apa- apa perniagaan selanjutnya.
+13. (1) Jika pembatalan sesuatu lesen di bawah seksyen
+
+<!-- marginal: akibat -->
+
+11 atau penyerahan balik sesuatu lesen di bawah seksyen
+
+<!-- marginal: pembatalan -->
+
+<!-- marginal: atau -->
+
+12 telah mula berkuatkuasa, pemegang lesen itu
+
+<!-- marginal: penyerahan -->
+
+hendaklah. dari tarikh pembatalan atau penyerahan balik
+
+<!-- marginal: balik lesen. -->
+
+itu mula berkuatkuasa, berhenti mengurusniagakan apa- apa perniagaan selanjutnya.
 
 (2) Walau apa pun subseksyen (1), jika pemegang lesen terus wujud sebagai suatu perbadanan selepas pembatalan lesennya mula berkuatkuasa, Menteri boleh, atas syor Bank, membenarkan, secara bertulis, pemegang lesen itu terus mengurusniagakan aktiviti-aktiviti perniagaannya sehingga takat dan selama tempoh yang ditentukan oleh Menteri dalam kebenaran itu bagi maksud-maksud penggulungan hal-ehwalnya atau bagi maksud-maksud menienuhi tuntutan-tuntutan pemunya- pemunya polisinya, pelanggan-pelanggan lainnya atau pemiutang-pemiutangnya.
 
@@ -616,17 +736,31 @@ Akibat-
 
 <!-- page 22 -->
 
-Pemberi-
+<!-- marginal: Pemberi- -->
 
-14. (1) Tiap-tiap penanggung insurans luar pesisir yang tahuan ialah suatu syarikat luar pesisir hendaklah, sebelum perubahan maklumat. membuat apa-apa pindaan atau perubahan kepada mana- mana dokumen konstituennya, atau sebelum apa-apa per- tukaran pengawal, pengarah atau ketua pegawai eksekutifnya, memberi Bank butir-butir bertulis tentang apa-apa pindaan, perubahan atau pertukaran yang di- cadangkan itu, untuk kelulusan Bank.
+14. (1) Tiap-tiap penanggung insurans luar pesisir yang
+
+<!-- marginal: tahuan -->
+
+ialah suatu syarikat luar pesisir hendaklah, sebelum
+
+<!-- marginal: perubahan -->
+
+<!-- marginal: maklumat. -->
+
+membuat apa-apa pindaan atau perubahan kepada mana- mana dokumen konstituennya, atau sebelum apa-apa per- tukaran pengawal, pengarah atau ketua pegawai eksekutifnya, memberi Bank butir-butir bertulis tentang apa-apa pindaan, perubahan atau pertukaran yang di- cadangkan itu, untuk kelulusan Bank.
 
 (2) Tiap-tiap penanggung insurans luar pesisir yang ialah suatu syarikat luar pesisir asing atau cawangan suatu penanggung insurans Malaysia hendaklah, sebelum membuat apa-apa pindaan atau perubahan kepada mana- mana dokumen konstituennya, atau sebelum apa-apa per- tukaran pengawalnya, pengarahnya atau ketua pegawai eksekutifnya, memberitahu Bank, secara bertulis, tentang apa-apa pindaan, perubahan atau pertukaran itu.
 
 (3) Tiap-tiap pemegang lesen hendaklah dengan segera memberitahu Bank tentang apa-apa pindaan atau perubahan kepada apa-apa maklumat yang telah diberi- kan kepada Bank berkaitan dengan permohonan bagi mendapatkan lesen itu.
 
-Fee lesen
+<!-- marginal: Fee lesen -->
 
-15. Tiap-tiap pemegang lesen hendaklah, pada atau tahunan. sebelum tiap-tiap 15 haribulan Januari dalam tempoh sah lesennya, membayar kepada Bank fee lesen tahunan sebagaimana yang ditetapkan dalam Jadual Kedua ber- kenaan dengan setiap lesen yang dipegang.
+15. Tiap-tiap pemegang lesen hendaklah, pada atau
+
+<!-- marginal: tahunan. -->
+
+sebelum tiap-tiap 15 haribulan Januari dalam tempoh sah lesennya, membayar kepada Bank fee lesen tahunan sebagaimana yang ditetapkan dalam Jadual Kedua ber- kenaan dengan setiap lesen yang dipegang.
 
 ## BAHAGIAN
 
@@ -638,9 +772,15 @@ IV
 
 ## SEKATAN ATAS PEMEGANG-PEMEGANG LESEN
 
-Pelantikan
+<!-- marginal: Pelantikan -->
 
-16. (1) Tiap-tiap pemegang lesen hendaklah melantik juruaudit seorang juruaudit bagi maksud-maksud Akta ini. dan aktuan.
+16. (1) Tiap-tiap pemegang lesen hendaklah melantik
+
+<!-- marginal: juruaudit -->
+
+seorang juruaudit bagi maksud-maksud Akta ini.
+
+<!-- marginal: dan aktuan. -->
 
 (2) Tiap-tiap penanggung insurans luar pesisir yang menjalankan perniagaan insurans nyawa hendaklah melantik seorang aktuari bagi maksud-maksud Akta ini.
 
@@ -676,17 +816,49 @@ pesisir itu ialah sebutan tentang yang lebih tinggi di antara—
 
 (5) Margin kesolvenan dalam hal pemegang lesen yang menjalankan perniagaan insurans kaptif luar pesisir ialah wang kerjanya.
 
-Akaun
+<!-- marginal: Akaun -->
 
-18. (1) Tiap-tiap penanggung insurans luar pesisir berasingan hendaklahmenyimpanakaun-akaun dan wang berkenaan hendaklah disimpan dengan perniagaan insurans luar pesisirnya berasingan oleh daripada wangnya yang lain. penanggung insurans luar
+18. (1) Tiap-tiap penanggung insurans luar pesisir
 
-(2) Tiap-tiap penanggung insurans luar pesisir yang pesisir. menjalankan kedua-duanya perniagaan insurans nyawa dan perniagaan insurans am hendaklah menyimpan akaun- akaun dan wang berkenaan dengan perniagaan insurans nyawanya berasingan daripada akaun-akaun dan wang berkenaan dengan perniagaan insurans amnya.
+<!-- marginal: berasingan -->
+
+hendaklahmenyimpanakaun-akaun dan wang berkenaan
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: disimpan -->
+
+dengan perniagaan insurans luar pesisirnya berasingan
+
+<!-- marginal: oleh -->
+
+daripada wangnya yang lain.
+
+<!-- marginal: penanggung -->
+
+<!-- marginal: insurans luar -->
+
+(2) Tiap-tiap penanggung insurans luar pesisir yang
+
+<!-- marginal: pesisir. -->
+
+menjalankan kedua-duanya perniagaan insurans nyawa dan perniagaan insurans am hendaklah menyimpan akaun- akaun dan wang berkenaan dengan perniagaan insurans nyawanya berasingan daripada akaun-akaun dan wang berkenaan dengan perniagaan insurans amnya.
 
 (3) Tiap-tiap penanggung insurans luar pesisir yang ialah cawangan suatu penanggung insurans Malaysia hendaklah menyimpan akaun-akaun berkenaan dengan perniagaan insurans luar pesisirnya berasingan daripada akaun-akaun berkenaan dengan perniagaan insurans domestiknya yang dijalankan di Wilayah Persekutuan Labuan.
 
-Pengemukaan
+<!-- marginal: Pengemukaan -->
 
-19. (1) Tiap-tiap penanggung insurans luar pesisir penyata- hendaklah, dalam masaenambulan selepas berakhirnya penyata kewangan. setiap tahun kewangan atau apa-apa tempoh selanjutnya yang diluluskanolehBank, mengemukakan kepada Bank, berkenaan dengan keseluruhan pengendalian insurans luar pesisirnya yang dijalankan di atau dari Wilayah Persekutuan Labuan, empat salinan masing-masing bagi
+19. (1) Tiap-tiap penanggung insurans luar pesisir
+
+<!-- marginal: penyata- -->
+
+hendaklah, dalam masaenambulan selepas berakhirnya
+
+<!-- marginal: penyata -->
+
+<!-- marginal: kewangan. -->
+
+setiap tahun kewangan atau apa-apa tempoh selanjutnya yang diluluskanolehBank, mengemukakan kepada Bank, berkenaan dengan keseluruhan pengendalian insurans luar pesisirnya yang dijalankan di atau dari Wilayah Persekutuan Labuan, empat salinan masing-masing bagi
 
 <!-- page 25 -->
 
@@ -698,11 +870,25 @@ kunci kira-kira tahunan terauditnya, akaun untung ruginya, akaun hasilnya dan, b
 
 (4) Tiap-tiap pengurus insurans luar pesisir berlesen, pengurus pengunderaitan luar pesisir berlesen dan broker insurans luar pesisir berlesen hendaklah, dalam masa enam bulan selepas berakhirnya setiap tahun kewangan atau apa-apa tempoh selanjutnya yang diluluskan oleh Bank, mengemukakan empat salinan masing-masing bagi kunci kira-kira tahunan teraudit dan akaun untung ruginya kepada Bank.
 
-Subsidiari-
+<!-- marginal: Subsidiari- -->
 
-20. (1) Tanpa terlebih dahulu meridapat izin bertulis subsidiari Bank— dan pejabat- pejabat
+20. (1) Tanpa terlebih dahulu meridapat izin bertulis
 
-(a) tiada pemegang lesen boleh membuka apa-apa pemegang lesen pejabat atau memperoleh atau menubuhkan apa- apa subsidiari di Malaysia;
+<!-- marginal: subsidiari -->
+
+Bank—
+
+<!-- marginal: dan pejabat- -->
+
+<!-- marginal: pejabat -->
+
+(a) tiada pemegang lesen boleh membuka apa-apa
+
+<!-- marginal: pemegang -->
+
+<!-- marginal: lesen -->
+
+pejabat atau memperoleh atau menubuhkan apa- apa subsidiari di Malaysia;
 
 (b) tiada penanggung insurans luar pesisir Malaysia boleh membuka apa-apa pejabat atau memperoleh atau menubuhkan apa-apa subsidiari di luar Malaysia.
 
@@ -710,35 +896,149 @@ Subsidiari-
 
 (2) Tiada penanggung insurans luar pesisir boleh menjalankan perniagaan insurans luar pesisir di atau dari mana-mana tempat di Malaysia selain daripada Wilayah Persekutuan Labuan.
 
-Sekatan atus
+<!-- marginal: Sekatan atus -->
 
-21. (1) Tiada penanggung insurans luar pesisir boleh perniagaan menjalankan apa-apa aktiviti perniagaan di Wilayah oleh penanggung Persekutuan Labuan atau di tempat lain dari pejabatnya di insurans Wilayah Persekutuan Labuan selain daripada perniagaan luar pesisir. insurans luar pesisirnya atau aktiviti-aktiviti perniagaan yang berkaitan dengan atau bagi maksud-maksud perniagaan insurans luar pesisir itu.
+21. (1) Tiada penanggung insurans luar pesisir boleh
+
+<!-- marginal: perniagaan -->
+
+menjalankan apa-apa aktiviti perniagaan di Wilayah
+
+<!-- marginal: oleh -->
+
+<!-- marginal: penanggung -->
+
+Persekutuan Labuan atau di tempat lain dari pejabatnya di
+
+<!-- marginal: insurans -->
+
+Wilayah Persekutuan Labuan selain daripada perniagaan
+
+<!-- marginal: luar pesisir. -->
+
+insurans luar pesisirnya atau aktiviti-aktiviti perniagaan yang berkaitan dengan atau bagi maksud-maksud perniagaan insurans luar pesisir itu.
 
 (2) Walau apa pun takrif "perniagaan insurans luar pesisir" dan walau apa pun subseksyen (1), sesuatu penanggung insurans luar pesisir boleh menjalankan insurans semula perniagaan insurans domestik, termasuk insurans semula perniagaan insurans domestik yang di- urusniagakan dalam mata wang Malaysia.
 
 (3) Tiada penanggung insurans luar pesisir boleh bertindak bagi pihak penanggung insurans luar pesisir yang lain sebagai pengurus insurans luar pesisir atau pengurus pengunderaitan luar pesisir melainkan jika penanggung insurans luar pesisir yang mula-mula disebut itu telah diberi lesen untuk menjalankan perniagan sebagai pengurus insurans luar pesisir atau pengurus pengunde- raitan luar pesisir, mengikut mana-mana yang ber- kenaan.
 
-Sekatan-
+<!-- marginal: Sekatan- -->
 
-22. (1) Tiada pengurus insurans luar pesisir berlesen sekatan atas boleh memberikan apa-apa khidmat selain daripada dan kewajipan- khidmat-khidmat pentadbiran dan tiada pengurus kewajipan pengunderaitan luar pesisir berlesen boleh memberikan pengurus insurans luar apa-apa khidmat selain daripada khidmat-khidmat pesisir, pengunderaitan. pengurus pengunde-
+22. (1) Tiada pengurus insurans luar pesisir berlesen
 
-(2) Tiadapengurusinsuransluarpesisir berlesen boleh raitan luar pesisir. dan memberikan khidmat-khidmat pentadbiran dan tiada broker pengurus pengunderaitan luar pesisir berlesen boleh insurans luar pesisir. memberikan khidmat-khidmat pengunderaitan di atau dari Wilayah Persekutuan Labuan kepada mana-mana orang yang tidak dilesenkan di bawah Akta ini atau kepada mana-mana perniagaan yang dijalankan oleh sesuatu
+<!-- marginal: sekatan atas -->
+
+boleh memberikan apa-apa khidmat selain daripada
+
+<!-- marginal: dan -->
+
+<!-- marginal: kewajipan- -->
+
+khidmat-khidmat pentadbiran dan tiada pengurus
+
+<!-- marginal: kewajipan -->
+
+pengunderaitan luar pesisir berlesen boleh memberikan
+
+<!-- marginal: pengurus -->
+
+<!-- marginal: insurans luar -->
+
+apa-apa khidmat selain daripada khidmat-khidmat
+
+<!-- marginal: pesisir, -->
+
+pengunderaitan.
+
+<!-- marginal: pengurus -->
+
+<!-- marginal: pengunde- -->
+
+(2) Tiadapengurusinsuransluarpesisir berlesen boleh
+
+<!-- marginal: raitan luar -->
+
+<!-- marginal: pesisir. dan -->
+
+memberikan khidmat-khidmat pentadbiran dan tiada
+
+<!-- marginal: broker -->
+
+pengurus pengunderaitan luar pesisir berlesen boleh
+
+<!-- marginal: insurans luar -->
+
+<!-- marginal: pesisir. -->
+
+memberikan khidmat-khidmat pengunderaitan di atau dari Wilayah Persekutuan Labuan kepada mana-mana orang yang tidak dilesenkan di bawah Akta ini atau kepada mana-mana perniagaan yang dijalankan oleh sesuatu
 
 <!-- page 27 -->
 
-penanggung insurans yang didaftarkan di bawah Akta Akta 89. Insurans 1963.
+penanggung insurans yang didaftarkan di bawah Akta
+
+<!-- marginal: Akta 89. -->
+
+Insurans 1963.
 
 (3) Tiada broker insurans luar pesisir berlesen boleh bertindak sebagai broker berkenaan dengan perniagaan insurans domestik, tetapi seseorang broker insurans luar pesisir berlesen boleh mengendalikan insurans semula perniagaan insurans domestik, termasuk insurans semula perniagaan insurans domestik yang diurusniagakan dalam mata wang Malaysia.
 
 (4) Tiap-tiap pengurus insurans luar pesisir berlesen atau pengurus pengunderaitan luar pesisir berlesen yang bertindak bagi pihak sesuatu penanggung insurans luar pesisir hendaklah menyenggara wangnya berasingan daripada wang penanggung insurans luar pesisir iiu dan tidak boleh menggunakan wang penanggung insurans luar pesisir itu untuk membayar apa-apa perbelanjaannya atau liabilitinya selain daripada yang berkenaan dengan per- niagaan insurans luar pesisir itu.
 
-Senarai
+<!-- marginal: Senarai -->
 
-23. Tiap-tiap pengurus insurans luarpesisir berlesen dan penanggung pengurus pengunderaitan luar pesisir berlesen hendaklah, insurans luar pesisir dalam masa tiga puluh hari dari berakhirnya tahun hendaklah kewangannya, mengemukakan kepada Bank, dalam dibenkan bentuk dan mengikut cara yang ditentukan oleh Bank, oleh pengurus suatu senarai semua penanggung insurans luar pesisir insurans luar yang diberi khidmat-khidmat pentadbiran oleh pengurus pesisir dan pengurus insurans luar pesisir berlesen itu atau yang diberi khidmat- pengun- khidmat pengunderaitan oleh pengurus pengunderaitan deraitan luar pesisir. luar pesisir berlesen itu.
+23. Tiap-tiap pengurus insurans luarpesisir berlesen dan
 
-Perjalanan
+<!-- marginal: penanggung -->
 
-24. (1) Tiap-tiap penanggung insurans luar pesisir perniagaan. hendaklah—
+pengurus pengunderaitan luar pesisir berlesen hendaklah,
+
+<!-- marginal: insurans luar -->
+
+<!-- marginal: pesisir -->
+
+dalam masa tiga puluh hari dari berakhirnya tahun
+
+<!-- marginal: hendaklah -->
+
+kewangannya, mengemukakan kepada Bank, dalam
+
+<!-- marginal: dibenkan -->
+
+bentuk dan mengikut cara yang ditentukan oleh Bank,
+
+<!-- marginal: oleh -->
+
+<!-- marginal: pengurus -->
+
+suatu senarai semua penanggung insurans luar pesisir
+
+<!-- marginal: insurans luar -->
+
+yang diberi khidmat-khidmat pentadbiran oleh pengurus
+
+<!-- marginal: pesisir dan -->
+
+<!-- marginal: pengurus -->
+
+insurans luar pesisir berlesen itu atau yang diberi khidmat-
+
+<!-- marginal: pengun- -->
+
+khidmat pengunderaitan oleh pengurus pengunderaitan
+
+<!-- marginal: deraitan luar -->
+
+<!-- marginal: pesisir. -->
+
+luar pesisir berlesen itu.
+
+<!-- marginal: Perjalanan -->
+
+24. (1) Tiap-tiap penanggung insurans luar pesisir
+
+<!-- marginal: perniagaan. -->
+
+hendaklah—
 
 (a) menjalankan perniagaannya dengan tekun dan cermat mengikut prinsip-prinsip insurans yang bijaksana;
 
@@ -758,17 +1058,41 @@ Perjalanan
 
 pesisirnya.
 
-(3) Peruntukan-peruntukan perenggan (a), (b) dan (e) subseksyen (1) dan peruntukan-peruntukan subseksyen (2) hendaklah terpakai mutatis mutandis bagi pengurus insurans luar pesisir berlesen, pengurus pengunderaitan luar pesisir berlesen dan broker insurans luar pesisir berlesen.
+(3) Peruntukan-peruntukan perenggan (a), (b) dan (e) subseksyen (1) dan peruntukan-peruntukan subseksyen
 
-Kerahsiaan 25. Tiada pengarah atau pegawai seseorang pemegang di pihak lesen boleh mendedahkan kepada mana-mana orang, atau pemegang lesen. membuat catatan untuk mana-mana orang akan, apa-apa maklumat atau dokumen yang berhubungan dengan hal- ehwal atau akaun mana-mana pemunya polisi kecuali apabila dikehendaki secara sah supaya berbuat demikian di bawah Akta ini atau oleh mana-mana mahkamah, atau dengan izin pemunya polisi atau wakil dirinya, atau dalam urusan peletakan perniagaan insurans semula.
+(2) hendaklah terpakai mutatis mutandis bagi pengurus insurans luar pesisir berlesen, pengurus pengunderaitan luar pesisir berlesen dan broker insurans luar pesisir berlesen.
+
+<!-- marginal: Kerahsiaan -->
+
+25. Tiada pengarah atau pegawai seseorang pemegang
+
+<!-- marginal: di pihak -->
+
+lesen boleh mendedahkan kepada mana-mana orang, atau
+
+<!-- marginal: pemegang -->
+
+<!-- marginal: lesen. -->
+
+membuat catatan untuk mana-mana orang akan, apa-apa maklumat atau dokumen yang berhubungan dengan hal- ehwal atau akaun mana-mana pemunya polisi kecuali apabila dikehendaki secara sah supaya berbuat demikian di bawah Akta ini atau oleh mana-mana mahkamah, atau dengan izin pemunya polisi atau wakil dirinya, atau dalam urusan peletakan perniagaan insurans semula.
 
 ## BAHAGIAN V
 
 ## PEMINDAHAN DAN PENGGULUNGAN
 
-Pemmdahan
+<!-- marginal: Pemmdahan -->
 
-26. (1) Keseluruhan atau mana-mana bahagian per- permagaan niagaan insurans luar pesisir sesuatu penanggung insurans luar pesisir. insurans semula (kemudian daripada ini disebut "pemindah") boleh dipindahkan kepada suatu penanggung
+26. (1) Keseluruhan atau mana-mana bahagian per-
+
+<!-- marginal: permagaan -->
+
+niagaan insurans luar pesisir sesuatu penanggung
+
+<!-- marginal: insurans luar -->
+
+<!-- marginal: pesisir. -->
+
+insurans semula (kemudian daripada ini disebut "pemindah") boleh dipindahkan kepada suatu penanggung
 
 <!-- page 29 -->
 
@@ -808,11 +1132,15 @@ insurans yang lain (kemudian daripada ini disebut "penerima pindahan") jika pemi
 
 ## INSURANS LUAR PESISIR
 
-31
+<!-- marginal: 31 -->
 
 masa sebelum Mahkamah Tinggi mengesahkan skim itu.
 
-(6) Bankboleh menyebabkan satu laporan tentang skim itu dibuat oleh seorang aktuari yang bebas daripada pihak- pihak kepada skim itu dan, jika ia berbuat demikian, hendaklah menyebabkan satu salinan laporan itu di- hantar kepada setiap pihak itu.
+(6) Bankboleh menyebabkan satu laporan tentang skim itu dibuat oleh seorang aktuari yang bebas daripada pihak- pihak kepada skim itu dan, jika ia berbuat demikian, hendaklah menyebabkan satu salinan laporan
+
+<!-- marginal: itu di- -->
+
+hantar kepada setiap pihak itu.
 
 (7) Salinan-salinan apa-apa skim dan apa-apa laporan yang tersebut dalam subseksyen (5) dan (6), atau ring- kasannya yang diluluskan oleh Bank, hendaklah, kecuali setakat yang diarahkan selainnya oleh Mahkamah Tinggi atas permohonan yang dibuat bagi maksud itu, dihantar oleh setiap pihak kepada skim itu kepada pemunya- pemunya polisinya yang tersentuh oleh skim itu.
 
@@ -846,15 +1174,23 @@ Dengan syarat bahawa jika Mahkarnah Tinggi telah membuat apa-apa perintah tentan
 
 (16) Dalam seksyen ini, "pihak-pihak kepada skim" ertinya pemindah dan penerima pindahan, dan "pihak kepada skim" hendaklah ditafsirkan sewajarnya.
 
-Penggu-
+<!-- marginal: Penggu- -->
 
-27. (1) Bank hendaklah menjadi pihak kepada apa-apa lungan petisyen bagi penggulungan mana-mana penanggung penanggung insurans luar insurans luar pesisir. pesisir.
+27. (1) Bank hendaklah menjadi pihak kepada apa-apa
 
-(2) Bank boleh mengemukakan petisyen bagi penggulungan sesuatu penanggung insurans luar pesisir atau perniagaan insurans luar pesisirnya di Wilayah Persekutuan Labuan atas alasan ketakdayaannya menunaikan apa-apa liabilitinya atau apabila ia menggan- tung pembayaran kepada pemiutang-pemiutangnya.
+<!-- marginal: lungan -->
 
-(3) Bagi maksud-maksud subseksyen (1) dan (2), mahkamah hendaklah mengambil perhatian tentang kepentingan pemunya-pemunya polisi, pelanggan- pelanggan lain dan pemiutang-pemiutang penanggung insurans luar pesisir itu.
+petisyen bagi penggulungan mana-mana penanggung
 
-(4) Dalam mana-mana penggulungan sesuatu pe- nanggung insurans luar pesisir, atau apabila sesuatu penanggung insurans luar pesisir menjadi tak solven, hendaklah dibayar daripada aset-aset dalam kumpulan wang insurans atau wang lain penanggung insurans luar pesisir itu terlebih dahulu sebelum segala hutang tak bercagar lain—
+<!-- marginal: penanggung -->
+
+<!-- marginal: insurans luar -->
+
+insurans luar pesisir.
+
+<!-- marginal: pesisir. -->
+
+(2) Bank boleh mengemukakan petisyen bagi penggulungan sesuatu penanggung insurans luar pesisir atau perniagaan insurans luar pesisirnya di Wilayah Persekutuan Labuan atas alasan ketakdayaannya menunaikan apa-apa liabilitinya atau apabila ia menggan- tung pembayaran kepada pemiutang-pemiutangnya. (3) Bagi maksud-maksud subseksyen (1) dan (2), mahkamah hendaklah mengambil perhatian tentang kepentingan pemunya-pemunya polisi, pelanggan- pelanggan lain dan pemiutang-pemiutang penanggung insurans luar pesisir itu. (4) Dalam mana-mana penggulungan sesuatu pe- nanggung insurans luar pesisir, atau apabila sesuatu penanggung insurans luar pesisir menjadi tak solven, hendaklah dibayar daripada aset-aset dalam kumpulan wang insurans atau wang lain penanggung insurans luar pesisir itu terlebih dahulu sebelum segala hutang tak bercagar lain—
 
 (a) pertamanya, kos-kos dan perbelanjaan- perbelanjaan penggulungan, termasuk kos-kos pelikuidasi atau penerima;
 
@@ -886,9 +1222,27 @@ boleh digunakan telah ditunaikan sepenuhnya, amaun yang dikehendaki untuk mencuk
 
 AM
 
-Maklumat
+<!-- marginal: Maklumat -->
 
-28. (1) Jika Bank mempunyai sebab untuk percaya lanjut atau bahawa mana-mana pemegang lesen telah melanggar penjelasan boleh mana-mana peruntukan Akta ini atau mana-mana syarat dikehendaki yang dikenakan atas pemegang lesen itu, Bank boleh, oleh Bank. dengan kebenaran bertulis Gabenor, meminta supaya apa- apa maklumat atau penjelasan diberikan kepadanya dalam masa yang ditentukan.
+28. (1) Jika Bank mempunyai sebab untuk percaya
+
+<!-- marginal: lanjut atau -->
+
+bahawa mana-mana pemegang lesen telah melanggar
+
+<!-- marginal: penjelasan -->
+
+<!-- marginal: boleh -->
+
+mana-mana peruntukan Akta ini atau mana-mana syarat
+
+<!-- marginal: dikehendaki -->
+
+yang dikenakan atas pemegang lesen itu, Bank boleh,
+
+<!-- marginal: oleh Bank. -->
+
+dengan kebenaran bertulis Gabenor, meminta supaya apa- apa maklumat atau penjelasan diberikan kepadanya dalam masa yang ditentukan.
 
 (2) Jika, apabila apa-apa maklumat atau penjelasan yang diberikan kepada Bank di bawah subseksyen (1) itu diteliti, didapati perlu berbuat demikian, Bank boleh memberikuasa seorang pegawai atau melantik seorang wakil Bank untuk memeriksa akaun-akaun, buku-buku dan rekod-rekod lain pemegang lesen itu di pejabat pemegang lesen itu di Wilayah Persekutuan Labuan.
 
@@ -898,43 +1252,99 @@ Maklumat
 
 atau pengurus pengunderaitan luar pesisir berlesen yang bertindak bagi pihak sesuatu penanggung insurans luar pesisir, hendaklah memberikan kerjasama dan bantuan kepada Bank untuk memudahkan apa-apa pemeriksaan yang dijalankan di bawah subseksyen (2).
 
-Kesalahan-
+<!-- marginal: Kesalahan- -->
 
-29. Mana-mana orang yang— kesalahan dan
+29. Mana-mana orang yang—
 
-(a) melanggar— penalti- penalti. (i) mana-mana peruntukan Akta ini; atau
+<!-- marginal: kesalahan -->
+
+<!-- marginal: dan -->
+
+(a) melanggar—
+
+<!-- marginal: penalti- -->
+
+<!-- marginal: penalti. -->
+
+(i) mana-mana peruntukan Akta ini; atau
 
 (ii) apa-apa penentuan atau kehendak yang di- buat, atau apa-apa perintah secara bertulis, arahan, suruhan, atau notis yang diberikan, atau apa-apa had, terma, syarat atau sekatan yang dikenakan, pada menjalankan mana- mana kuasa yang diberikan di bawah, menurut, atau menurut kuasa, mana-mana peruntukan Akta ini; atau
 
 (h) sebagai seorang yang dikehendaki oleh atau di bawah Akta ini supaya memberikan apa-apa maklumat, dokumen atau akuan, memberikan apa-apa maklumat, dokumen atau akuan yang dia tahu atau ada sebab untuk percaya adalah palsu atau mengelirukan,
 
-adalah melakukan suatu kesalahan dan boleh, apabila disabitkan, dipenjarakan tidak melebihi tiga tahun atau didenda tidak melebihi lima ratus ribu ringgit atau kedua-duanya, dan dalam hal suatu kesalahan berterusan, boleh, sebagai tambahan, didenda tidak melebihi lima ribu ringgit bagi setiap hari kesalahan itu
+adalah melakukan suatu kesalahan dan boleh, apabila disabitkan, dipenjarakan tidak melebihi tiga tahun atau didenda tidak melebihi lima ratus ribu ringgit atau kedua-duanya, dan dalam hal suatu kesalahan berterusan, boleh, sebagai tambahan, didenda tidak melebihi lima ribu ringgit bagi setiap hari kesalahan
+
+<!-- marginal: itu -->
 
 <!-- marginal: terus -->
 
 dilakukan.
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-30. (1) Gabenor boleh, dengan persetujuan Menteri, Gabenor dalam sesuatu kes jika difikirkannya patut dan sesuai untuk mengkom- berbuat demikian, mengkompaun apa-apa kesalahan yang paun dilakukan oleh mana-mana orang di bawah seksyen 29, kesalahan- kesalahan. dengan membuat suatu tawaran bertulis kepada orang itu untuk mengkompaun kesalahan itu dengan membayar kepada Gabenor dalam masa yang ditentukan dalam tawaran itu, apa-apa jumlah wang yang ditentukan dalam tawaran itu,yang tidakbolehmelebihilimapuluh peratus
+30. (1) Gabenor boleh, dengan persetujuan Menteri,
+
+<!-- marginal: Gabenor -->
+
+dalam sesuatu kes jika difikirkannya patut dan sesuai
+
+<!-- marginal: untuk -->
+
+<!-- marginal: mengkom- -->
+
+berbuat demikian, mengkompaun apa-apa kesalahan yang
+
+<!-- marginal: paun -->
+
+dilakukan oleh mana-mana orang di bawah seksyen 29,
+
+<!-- marginal: kesalahan- -->
+
+<!-- marginal: kesalahan. -->
+
+dengan membuat suatu tawaran bertulis kepada orang itu untuk mengkompaun kesalahan itu dengan membayar kepada Gabenor dalam masa yang ditentukan dalam tawaran itu, apa-apa jumlah wang yang ditentukan dalam tawaran itu,yang tidakbolehmelebihilimapuluh peratus
 
 <!-- page 37 -->
 
 daripada amaun denda maksimum (termasuklah denda harian, jika ada, dalam hal kesalahan berterusan) yang boleh dikenakan atas orang itu sekiranya dia telah disabitkan atas kesalahan itu.
 
-(2) Apa-apa wang yang dibayar kepada Gabenor menurut peruntukan-peruntukan subseksyen (1) hendaklah dibayar kepada dan menjadi sebahagian daripada Kumpulan Wang Disatukan Persekutuan.
+(2) Apa-apa wang yang dibayar kepada Gabenor menurut peruntukan-peruntukan subseksyen
+
+<!-- marginal: (1) -->
+
+hendaklah dibayar kepada dan menjadi sebahagian daripada Kumpulan Wang Disatukan Persekutuan.
 
 (3) Sesuatu tawaran di bawah subseksyen (l)boleh dibuat pada bila-bila masa selepas kesalahan itu dilakukan tetapi sebelum apa-apa pendakwaan baginya dimulakan, dan jika amaun yang ditentukan dalam tawaran itu tidak dibayar dalam masa yang ditentukan dalam tawaran itu, atau apa-apa tempoh masa yang lebih lanjut yang diberi- kan oleh Gabenor, pendakwaan bagi kesalahan itu boleh dimulakan pada bila-bila masa selepas itu terhadap orang yang kepadanya tawaran itu dibuat.
 
 (4) Jika sesuatu kesalahan telah dikompaun di bawah subseksyen (1), tiada pendakwaan boleh selepas itu di- mulakan berkenaan dengan kesalahan itu terhadap orang yang kepadanya tawaran untuk mengkompaun kesalahan itu dibuat.
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-31. Menteri boleh, atas syor Bank, apabila permohonan memberikan secara bertulis dibuat oleh pemohon lesen atau pemegang penge- cualian. lesen, dan apabila berpuas hati bahawa wajar berbuat demikian demi kepentingan perniagaan insurans luar pesisir di Malaysia, mengecualikan pemohon atau pemegang lesen itu daripada mana-mana peruntukan Akta ini dan boleh, pada memberikan pengecualian itu, mengenakan apa-apa terma dan syarat yang difikirkan- nya patut.
+31. Menteri boleh, atas syor Bank, apabila permohonan
 
-Kuasa untuk
+<!-- marginal: memberikan -->
 
-32. Menteri boleh, atas syor Bank, membuat peraturan- membuat peraturan bagi melaksanakan maksud-maksud dan peraturan- peraturan peruntukan-peruntukan Akta ini dan, tanpa menjejaskan keluasan yang tersebut di atas, boleh membuat peraturan- peraturan yang—
+secara bertulis dibuat oleh pemohon lesen atau pemegang
+
+<!-- marginal: penge- -->
+
+<!-- marginal: cualian. -->
+
+lesen, dan apabila berpuas hati bahawa wajar berbuat demikian demi kepentingan perniagaan insurans luar pesisir di Malaysia, mengecualikan pemohon atau pemegang lesen itu daripada mana-mana peruntukan Akta ini dan boleh, pada memberikan pengecualian itu, mengenakan apa-apa terma dan syarat yang difikirkan- nya patut.
+
+<!-- marginal: Kuasa untuk -->
+
+32. Menteri boleh, atas syor Bank, membuat peraturan-
+
+<!-- marginal: membuat -->
+
+peraturan bagi melaksanakan maksud-maksud dan
+
+<!-- marginal: peraturan- -->
+
+<!-- marginal: peraturan -->
+
+peruntukan-peruntukan Akta ini dan, tanpa menjejaskan keluasan yang tersebut di atas, boleh membuat peraturan- peraturan yang—
 
 (a) menetapkan apa-apa jua yang dikehendaki oleh Akta ini supaya ditetapkan;
 
@@ -944,21 +1354,55 @@ Kuasa untuk
 
 (c) menetapkan borang-borang yang hendaklah digunakan bagi mana-mana maksud Akta ini.
 
-Tanggung
+<!-- marginal: Tanggung -->
 
-33. (1) Kerajaan Malaysia, Bank, pegawai-pegawai mgi. Kerajaan Malaysia dan pegawai-pegawai Bank tidaklah boleh dikenakan apa-apa tindakan, tuntutan atau desakan oleh atau liabiliti terhadap mana-mana orang berkenaan dengan apa-apa jua yang dilakukan atau tidak dilakukan dengan suci hati menurut atau dalam pelaksanaan atau pelaksanaan yang dimaksudkan, atau berkaitan dengan pelaksanaan atau pelaksanaan yang dimaksudkan, mana- mana kuasa yang diberikan oleh Akta ini.
+33. (1) Kerajaan Malaysia, Bank, pegawai-pegawai
+
+<!-- marginal: mgi. -->
+
+Kerajaan Malaysia dan pegawai-pegawai Bank tidaklah boleh dikenakan apa-apa tindakan, tuntutan atau desakan oleh atau liabiliti terhadap mana-mana orang berkenaan dengan apa-apa jua yang dilakukan atau tidak dilakukan dengan suci hati menurut atau dalam pelaksanaan atau pelaksanaan yang dimaksudkan, atau berkaitan dengan pelaksanaan atau pelaksanaan yang dimaksudkan, mana- mana kuasa yang diberikan oleh Akta ini.
 
 (2) Bagi maksud-maksud seksyen ini, "pegawai- pegawai Kerajaan Malaysia" termasuklah Menteri dan mana-mana pegawai awam dan "pegawai-pegawai Bank" termasuklah Gabenor dan Timbalan Gabenor dan mana- mana pengarah Bank,
 
-Tak terpakai -
+<!-- marginal: Tak terpakai - -->
 
-34. Tiada pemegang lesen boleh, berkenaan dengan nya Akta apa-apa perniagaan yang dijalankan oleh pemegang Insurans I963dan lesen itu, menjadi tertakluk kepada mana-mana Akta Tafakul peruntukan Akta Insurans 1963 atau Akta Takaful 1984
+34. Tiada pemegang lesen boleh, berkenaan dengan
 
-1984. Akta 89. atau mana-mana pemerbuatan semula Akta-Akta itu. Akta 312.
+<!-- marginal: nya Akta -->
 
-Pemakaian
+apa-apa perniagaan yang dijalankan oleh pemegang
 
-35. (1) Sebagai tambahan kepada peruntukan- Akta Syarikat peruntukan Akta ini— Luar Pesisir I990dan Akta Syarikat 1965.
+<!-- marginal: Insurans -->
+
+<!-- marginal: I963dan -->
+
+lesen itu, menjadi tertakluk kepada mana-mana
+
+<!-- marginal: Akta Tafakul -->
+
+peruntukan Akta Insurans 1963 atau Akta Takaful 1984
+
+1984.
+
+<!-- marginal: Akta 89. -->
+
+atau mana-mana pemerbuatan semula Akta-Akta itu.
+
+<!-- marginal: Akta 312. -->
+
+<!-- marginal: Pemakaian -->
+
+35. (1) Sebagai tambahan kepada peruntukan-
+
+<!-- marginal: Akta Syarikat -->
+
+peruntukan Akta ini—
+
+<!-- marginal: Luar Pesisir -->
+
+<!-- marginal: I990dan Akta -->
+
+<!-- marginal: Syarikat 1965. -->
 
 (a) Akta Syarikat Luar Pesisir 1990 hendaklah terpakai bagi pemegang lesen yang ialah syarikat luar pesisir atau syarikat luar pesisir asing; dan
 
@@ -970,9 +1414,27 @@ Pemakaian
 
 disebut dalam subseksyen (1) dengan Akta ini dalam pemakaiannya masing-masing bagi pemegang lesen, peruntukan-peruntukan Akta ini hendaklah rnengatasi peruntukan-peruntukan Akta-Akta itu.
 
-Pemakaian
+<!-- marginal: Pemakaian -->
 
-36. Tiada apa-apa jua yang terkandung dalam Akta ini Akta boleh dengan apa-apa jua cara menyentuh, atau Kawalan Pertukaran mengurangkan, peruntukan-peruntukan Akta Kawalan Wang 1953. Pertukaran Wang 1953, dan dalain pemakaian mana-mana Akta 17. peruntukan Akta ini bagi mana-mana orang, peruntukan itu hendaklah terpakai tertakluk kepada peruntukan- peruntukan Akta itu dan, sekiranya ada apa-apa percanggahan atau ketakkonsistenan di antara mana- mana peruntukan Akta ini dengan Akta itu, peruntukan Akta itu hendaklah mengatasi peruntukan Akta ini.
+36. Tiada apa-apa jua yang terkandung dalam Akta ini
+
+<!-- marginal: Akta -->
+
+boleh dengan apa-apa jua cara menyentuh, atau
+
+<!-- marginal: Kawalan -->
+
+<!-- marginal: Pertukaran -->
+
+mengurangkan, peruntukan-peruntukan Akta Kawalan
+
+<!-- marginal: Wang 1953. -->
+
+Pertukaran Wang 1953, dan dalain pemakaian mana-mana
+
+<!-- marginal: Akta 17. -->
+
+peruntukan Akta ini bagi mana-mana orang, peruntukan itu hendaklah terpakai tertakluk kepada peruntukan- peruntukan Akta itu dan, sekiranya ada apa-apa percanggahan atau ketakkonsistenan di antara mana- mana peruntukan Akta ini dengan Akta itu, peruntukan Akta itu hendaklah mengatasi peruntukan Akta ini.
 
 ## JADUAL PERTAMA
 
@@ -992,15 +1454,7 @@ The Institute of Actaaries di England The Paculty of Actuaries di Scotland The S
 
 (Seksyen 15)
 
-Penanggung insurans luar pesisir yang rnenjalankan—
-
-(i) perniagaan insurans am Ringgit 30,000
-
-(ii) perniagaan insurans nyawa Ringgit 30,000
-
-(iii) perniagaan insurans nyawa dan am Ringgit 60,000
-
-(iv) perniagaan insurans kaptif Ringgit 10,000 Pengurus insurans luar pesisir Ringgit 5,000 Pengurus pengunderaitan luar pesisir Ringgit 5,000 Broker insurans luar pesisir Ringgit 5,000
+Penanggung insurans luar pesisir yang rnenjalankan— (i) perniagaan insurans am Ringgit 30,000 (ii) perniagaan insurans nyawa Ringgit 30,000 (iii) perniagaan insurans nyawa dan am Ringgit 60,000 (iv) perniagaan insurans kaptif Ringgit 10,000 Pengurus insurans luar pesisir Ringgit 5,000 Pengurus pengunderaitan luar pesisir Ringgit 5,000 Broker insurans luar pesisir Ringgit 5,000
 
 <!-- page 40 -->
 
@@ -1040,7 +1494,15 @@ Fasal 15 bertujuan menghendaki tiap-tiap pemegang lesen mem- bayar fee tahunan k
 
 5. Bahagian IV Rang Undang-Undang memperkatakan kehendak- kehendak kewangan dan kewajipan-kewajipan pemegang-pemegang lesen serta juga sekatan-sekatan atas pemegang-pemegang lesen.
 
-Fasal 16 bertujuan menghendaki tiap-tiap pemegang lesen melantik seorang juruaudit. la juga menghendaki tiap-tiap penanggung insurans luar pesisir melantik seorang aktuari, sebagai tambahan kepada juruaudit, berhubungan dengan perniagaan insurans nyawanya.
+Fasal 16 bertujuan menghendaki tiap-tiap pemegang
+
+<!-- marginal: lesen -->
+
+melantik seorang juruaudit. la juga menghendaki
+
+<!-- marginal: tiap-tiap -->
+
+penanggung insurans luar pesisir melantik seorang aktuari, sebagai tambahan kepada juruaudit, berhubungan dengan perniagaan insurans nyawanya.
 
 Fasal 17 bertujuan menghendaki tiap-tiap penanggung insurans luar pesisir menyenggara suatu margin kesolvenan tertentu.
 
@@ -1064,7 +1526,11 @@ Fasal 25 bertujuan melarang pengarah-pengarah dan pegawai- pegawai pemegang lese
 
 6. Bahagian V memperkatakan pemindahan perniagaan insurans luar pesisir dan penggulungan penanggung insurans luar pesisir.
 
-fasal 26 bertujuan membenarkan penanggung insurans luar pesisir memindahkan perniagaan insurans luar pesisirnya kepada penanggung insurans yang lain. Bagaimanapun, pemindahan sedemikian hanya boleh dilaksanakan melalui suatu skim yang di- luluskan oleh Bank dan disahkan oleh Mahkamah Tinggi.
+fasal 26 bertujuan membenarkan penanggung insurans
+
+<!-- marginal: luar -->
+
+pesisir memindahkan perniagaan insurans luar pesisirnya kepada penanggung insurans yang lain. Bagaimanapun, pemindahan sedemikian hanya boleh dilaksanakan melalui suatu skim yang di- luluskan oleh Bank dan disahkan oleh Mahkamah Tinggi.
 
 Fasal 27 memperkatakan penggulungan penanggung insurans luar pesisir dan perkara-perkara yang berhubungan dengannya.
 

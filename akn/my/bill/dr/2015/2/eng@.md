@@ -6,7 +6,7 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -14,7 +14,7 @@
 
 2. Interpretation
 
-## Part II
+## PART II
 
 ## ESTABLISHMENT OF PUBLIC SECTOR HOME FINANCING BOARD
 
@@ -50,7 +50,7 @@
 
 <!-- page 2 -->
 
-## Part III
+## PART III
 
 ## EMPLOYEES OF THE BOARD
 
@@ -60,7 +60,7 @@
 
 20. Conditions of service, conduct and discipline
 
-## Part IV
+## PART IV
 
 ## PUBLIC SECTOR HOME FINANCING FACILITY
 
@@ -74,7 +74,7 @@
 
 25. Board to be responsible for collection and recovery of repayment of public sector home financing facility
 
-## Part V
+## PART V
 
 ## FINANCIAL PROVISIONS
 
@@ -90,7 +90,7 @@
 
 31. Financial procedure
 
-## Part VI
+## PART VI
 
 ## ADDITIONAL POWERS OF THE BOARD
 
@@ -102,9 +102,9 @@
 
 <!-- page 3 -->
 
-## Part VII
+## PART VII
 
-GENEraL
+## GENERAL
 
 35. Delegation of powers
 
@@ -124,7 +124,7 @@ GENEraL
 
 43. Power to make regulations
 
-## Part VIII
+## PART VIII
 
 ## REPEAL, SAVINGS AND TRANSITIONAL
 
@@ -146,9 +146,9 @@ An Act to establish and incorporate the Public Sector Home Financing Board, to p
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
-PrELIMINarY
+## PRELIMINARY
 
 ### Short title and commencement
 
@@ -198,7 +198,7 @@ PrELIMINarY
 
 “Chairman” means the Chairman of the Board appointed under paragraph 8(1)(a) and includes the Deputy Chairman when he exercises the functions of the Chairman.
 
-## Part II
+## PART II
 
 ## ESTABLISHMENT OF PUBLIC SECTOR HOME
 
@@ -482,7 +482,7 @@ the vesting effected under subsection (1).
 
 (b) any omission, defect or irregularity not affecting the merits of the case.
 
-## Part III
+## PART III
 
 ## EMPLOYEES OF THE BOARD
 
@@ -570,7 +570,7 @@ of an employee of the Board during the pendency of the disciplinary proceedings.
 
 (6) The regulations prescribed under this section shall, in prescribing the procedure for disciplinary proceedings, provide for an opportunity for representations to be made by the employee of the Board against whom the disciplinary proceedings are taken before a decision is arrived at by the disciplinary committee on such disciplinary charge laid against such employee.
 
-## Part IV
+## PART IV
 
 ## PUBLIC SECTOR HOME FINANCING FACILITY
 
@@ -702,7 +702,7 @@ and to remit the amount so deducted to the Board.
 
 (8) The Board shall not impose any additional interest or charges on the approved eligible person for any delay caused by the employer to make the deductions under subsections (3) and (6).
 
-## Part V
+## PART V
 
 ## FINANCIAL PROVISIONS
 
@@ -786,7 +786,7 @@ which any public sector home financing facility, or any right or interest derive
 
 31. Subject to section 30, the Board shall determine its own financial procedure and may adopt with such modifications as it deems fit any regulations, rules, policies, circulars and directives made or issued by the Government on financial procedure.
 
-## Part VI
+## PART VI
 
 ## ADDITIONAL POWERS OF THE BOARD
 
@@ -824,7 +824,7 @@ which any public sector home financing facility, or any right or interest derive
 
 <!-- page 32 -->
 
-## Part VII
+## PART VII
 
 ## GENERAL
 
@@ -926,7 +926,7 @@ any person authorized by the Board for that purpose may, on behalf of the Board,
 
 The proposed Public Sector Home Financing Board Act 2015 (“the proposed Act”) seeks to provide for the establishment of a body corporate by the name of “Public Sector Home Financing Board” (“the Board”), to provide for its functions and powers, and for matters connected therewith. The proposed Act repeals the Housing Loans Fund Act 1971 [Act 42]. The Board will take over the functions of the Housing Loan Division of the Ministry of Finance.
 
-## Part I
+## PART I
 
 2. Part I of the proposed Act deals with preliminary matters.
 
@@ -934,7 +934,7 @@ C lause 1 contains the short title of the proposed Act and empowers the Minister
 
 Clause 2 contains the definition of certain words and expressions used in the proposed Act.
 
-## Part II
+## PART II
 
 3. Part II of the proposed Act contains provisions relating to the establishment of the Board including its functions and powers.
 
@@ -970,7 +970,7 @@ Clause 16 contains provision requiring a member of the Board or any committee or
 
 Clause 17 seeks to provide that no act done or proceedings taken under the proposed Act shall be questioned on the ground of any vacancy in the membership of, or any defect in the constitution of, the Board or committee, or any omission, defect or irregularity not affecting the merits of the case.
 
-## Part III
+## PART III
 
 4. Part III of the proposed Act deals with the employees of the Board.
 
@@ -980,7 +980,7 @@ Clause 19 empowers the Board to employ such numbers of employees as the Board de
 
 Clause 20 allows the Board to determine the conditions of service of its employees and provides that the Board shall have disciplinary authority and control over its employees. For this purpose, the Board may prescribe regulations to provide for the conduct and discipline of its employees.
 
-## Part IV
+## PART IV
 
 5. Part IV of the proposed Act deals with the public sector home financing facility.
 
@@ -996,7 +996,7 @@ Clause 24 seeks to provide for the duty of the Board to keep and maintain record
 
 Clause 25 seeks to provide for the responsibility of the Board for the collection and recovery of repayment of the public sector home financing facility. The Board may collect and recover the repayment of the public sector home financing facility by way of deduction of salary, pension or other retirement benefits by giving a notice in writing of such deduction to the employer of the approved eligible person. It shall be the duty of the employer of the approved eligible person to whom the notice is given to deduct such amount of moneys as notified by the Board, from the salary or pension of the approved eligible person. For the purpose of recovery of repayment of the public sector home financing facility, the repayment shall be entitled to a right of priority over any other deductions but immediately after any deduction for any debt due and owing by the approved eligible persons to the Federal Government and State Government, the amount of taxes assessed under any written law and all amounts due in respect of contributions payable under any written law relating to employees superannuation or provident funds or under any scheme of superannuation or retirement benefit which is an approved scheme under the federal law relating to income tax.
 
-## Part V
+## PART V
 
 6. Part V of the proposed Act deals with the financial provisions.
 
@@ -1014,7 +1014,7 @@ Clause 31 seeks to provide that the Board shall determine its own financial proc
 
 <!-- page 40 -->
 
-## Part VI
+## PART VI
 
 7. Part VI of the proposed Act deals with additional powers of the Board.
 
@@ -1024,7 +1024,7 @@ Clause 33 allows the Board to invest with the approval of the Minister.
 
 Clause 34 allows the Board, with the approval of the Minister, to establish and acquire any corporation established under the Companies Act 1965 [Act 125] and the Trust Companies Act 1949 [Act 100] necessary for the purposes of raising of fund, provided that the corporation so established or acquired by the Board is prohibited from establishing subsidiary corporations.
 
-## Part VII
+## PART VII
 
 8. Part VII of the proposed Act provides for general provisions.
 

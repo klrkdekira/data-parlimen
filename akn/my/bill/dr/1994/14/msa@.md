@@ -28,23 +28,37 @@ oleh Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan De
 
 atau selepas menimbangkan nasihat, Yang di-Pertuan Agong hendaklah menerima dan bertindak mengikut nasihat itu.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-5. Perkara 43A Perlembagaan Persekutuan adalah dipinda Perkara 43 A. dalam Fasal (3) dengan menggantikan perkataan "Fasal
+5. Perkara 43A Perlembagaan Persekutuan adalah dipinda
+
+## Perkara 43 A.
+
+dalam Fasal (3) dengan menggantikan perkataan "Fasal
 
 (5), (6) dan (8)" dengan perkataan "Fasal (5) dan (6)".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-6. Perkara 55 Perlembagaan Persekutuan adalah dipinda Perkara 55 dengan memotong Fasal (6).
+6. Perkara 55 Perlembagaan Persekutuan adalah dipinda
 
-Pindaan
+## Perkara 55
 
-7. Perkara 65 Perlembagaan Persekutuan adalah dipinda Perkara 65. dalam Fasal (3) dengan menggantikan perkataan "Agung" dengan perkataan "Persekutuan".
+dengan memotong Fasal (6).
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-8. Perkara 66 Perlembagaan Persekutuan adalah dipinda— Perkara 66.
+7. Perkara 65 Perlembagaan Persekutuan adalah dipinda
+
+## Perkara 65.
+
+dalam Fasal (3) dengan menggantikan perkataan "Agung" dengan perkataan "Persekutuan".
+
+<!-- marginal: Pindaan -->
+
+8. Perkara 66 Perlembagaan Persekutuan adalah dipinda—
+
+## Perkara 66.
 
 (a) dengan menggantikan Fasal (4) dan (4A) dengan Fasal yang berikut: "(4) Yang di-Pertuan Agong hendaklah dalam masa tiga puluh hari selepas sesuatu Rang Undang-Undang dikemukakan kepada baginda memperkenankan Rang Undang- Undang itu dengan menyebabkan Rang Undang-Undang itu dicapkan dengan Mohor Besar. (4A) Jika sesuatu Rang Undang-Undang tidak diperkenankan oleh Yang di-Pertuan Agong dalam masa yang ditentukan dalam Fasal (4), Rang Undang-Undang itu hendaklah menjadi undang-undang apabila habis masa yang ditentukan dalam Fasal itu mengikut cara yang sama seolah-olah baginda telah memperkenankannya.";
 
@@ -52,9 +66,13 @@ Pindaan
 
 (c) dalam Fasal (5), dengan menggantikan perkataan "Fasal (4B)" dengan perkataan "Fasal (4A)".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-9. Perkara 80 Perlembagaan Persekutuan adalah dipinda Perkara 80. dalam Fasal (6) dengan menggantikan perkataan "Ketua Hakim Negara Mahkamah Agung" dengan perkataan "Hakim Besar Mahkamah Persekutuan".
+9. Perkara 80 Perlembagaan Persekutuan adalah dipinda
+
+## Perkara 80.
+
+dalam Fasal (6) dengan menggantikan perkataan "Ketua Hakim Negara Mahkamah Agung" dengan perkataan "Hakim Besar Mahkamah Persekutuan".
 
 <!-- page 3 -->
 
@@ -64,7 +82,7 @@ Pindaan
 
 10. Perkara 87 Perlembagaan Persekutuan adalah
 
-<!-- marginal: Perkara 87 -->
+## Perkara 87
 
 dipinda—
 
@@ -76,7 +94,7 @@ dipinda—
 
 11. Perkara 105 Perlembagaan Persekutuan adalah dipinda
 
-<!-- marginal: Perkara 105 -->
+## Perkara 105
 
 dalam Fasal (3) dengan menggantikan perkataan "Agung" dengan perkataan "Persekutuan".
 
@@ -84,7 +102,7 @@ dalam Fasal (3) dengan menggantikan perkataan "Agung" dengan perkataan "Persekut
 
 12. Perkara 114 Perlembagaan Persekutuan adalah dipinda
 
-<!-- marginal: Perkara 114. -->
+## Perkara 114.
 
 dalam Fasal (3) dengan menggantikan perkataan "Agung" dengan perkataan "Persekutuan".
 
@@ -92,7 +110,7 @@ dalam Fasal (3) dengan menggantikan perkataan "Agung" dengan perkataan "Persekut
 
 13. Perkara 121 Perlembagaan Persekutuan adalah
 
-<!-- marginal: Perkara 121. -->
+## Perkara 121.
 
 dipinda—
 
@@ -110,15 +128,21 @@ keputusan-keputusan Mahkamah Tinggi yang diberikan oleh pendaftar atau pegawai l
 
 (b) apa-apa bidang kuasa lain sebagaimana yang diberikan melalui atau di bawah undang-undang persekutuan.";
 
-(c) dalam Fasal (2)— (i) dengan menggantikan perkataan "Mahkamah Agung" dengan perkataan "Mahkamah Persekutuan"; dan
+(c) dalam Fasal (2)—
+
+(i) dengan menggantikan perkataan "Mahkamah Agung" dengan perkataan "Mahkamah Persekutuan"; dan
 
 (ii) dengan menggantikan perenggan (a) dengan perenggan yang berikut: "(a) bidang kuasa untuk memutuskan rayuan terhadap keputusan-keputusan Mahkamah Rayuan, Mahkamah Tinggi atau seseorang hakimnya;"; dan
 
 (d) dalam Fasal (4), dengan menggantikan perkataan "Borneo" dan "Hakim Besar" masing-masingnya dengan perkataan "Sabah dan Sarawak" dan "Ketua Hakim".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-14. Perkara 122 Perlembagaan Persekutuan adalah Perkara 122. dipinda—
+14. Perkara 122 Perlembagaan Persekutuan adalah
+
+## Perkara 122.
+
+<!-- marginal: dipinda— -->
 
 (a) dalam nota birai, dengan menggantikan perkataan "Agung" dengan perkataan "Persekutuan";
 
@@ -156,7 +180,19 @@ menggantikan Perkara 122A dengan Perkara yang berikut:
 
 <!-- marginal: 122A. -->
 
-Keanggo- 122A. (1) Mahkamah Rayuan hendaklah terdiri taan daripada seorang pengerusi (yang digelar Mahkamah Rayuan. "Presiden Mahkamah Rayuan") dan, sehingga diperuntukkan selainnya melalui perintah oleh Yang di-Pertuan Agong, sepuluh hakim lain.
+<!-- marginal: Keanggo- -->
+
+122A. (1) Mahkamah Rayuan hendaklah terdiri
+
+<!-- marginal: taan -->
+
+daripada seorang pengerusi (yang digelar
+
+<!-- marginal: Mahkamah -->
+
+<!-- marginal: Rayuan. -->
+
+"Presiden Mahkamah Rayuan") dan, sehingga diperuntukkan selainnya melalui perintah oleh Yang di-Pertuan Agong, sepuluh hakim lain.
 
 (2) Seseorang hakim Mahkamah Tinggi boleh bersidang sebagai Hakim Mahkamah Rayuan jika Presiden Mahkamah Rayuan berpendapat bahawa kepentingan keadilan menghendaki yang sedemikian, dan hakim itu hendaklah dinamakan bagi maksud itu (mengikut kehendak keadaan) oleh Presiden Mahkamah Rayuan selepas berunding dengan Ketua Hakim Mahkamah Tinggi itu.".
 
@@ -164,11 +200,29 @@ Keanggo- 122A. (1) Mahkamah Rayuan hendaklah terdiri taan daripada seorang penge
 
 ## RANG UNDANG-UNDANG
 
-Perkara baru
+<!-- marginal: Perkara baru -->
 
-16. Perlembagaan Persekutuan adalah dipinda dengan 122AA dan memasukkan selepas Perkara 122A Perkara yang berikut:
+16. Perlembagaan Persekutuan adalah dipinda dengan
 
-122AB. Keanggo- 122AA. (1) Setiap Mahkamah Tinggi taan hendaklah terdiri daripada seorang Ketua Hakim Mahkamah Tinggi. dan tidak kurang daripada empat orang hakim yang lain; tetapi bilangan hakim yang lain itu tidaklah boleh, sehingga diperuntukkan selainnya melalui perintah oleh Yang di-Pertuan Agong, melebihi—
+<!-- marginal: 122AA dan -->
+
+memasukkan selepas Perkara 122A Perkara yang berikut:
+
+122AB.
+
+<!-- marginal: Keanggo- -->
+
+122AA. (1) Setiap Mahkamah Tinggi
+
+<!-- marginal: taan -->
+
+hendaklah terdiri daripada seorang Ketua Hakim
+
+<!-- marginal: Mahkamah -->
+
+<!-- marginal: Tinggi. -->
+
+dan tidak kurang daripada empat orang hakim yang lain; tetapi bilangan hakim yang lain itu tidaklah boleh, sehingga diperuntukkan selainnya melalui perintah oleh Yang di-Pertuan Agong, melebihi—
 
 (a) empat puluh tujuh, di Mahkamah Tinggi di Malaya; dan
 
@@ -202,7 +256,7 @@ Perkara baru
 
 17. Perkara 122B Perlembagaan Persekutuan adalah
 
-<!-- marginal: Perkara 122B. -->
+## Perkara 122B.
 
 ### dipinda—
 
@@ -272,13 +326,21 @@ dan";
 
 (g) dalam Fasal (6)—
 
-(i) dengan menggantikan perkataan "Mahkamah Agung" dengan perkataan "Mahkamah Persekutuan, Mahkamah Rayuan"; dan
+(i) dengan menggantikan
+
+<!-- marginal: perkataan -->
+
+"Mahkamah Agung" dengan perkataan "Mahkamah Persekutuan, Mahkamah Rayuan"; dan
 
 (ii) dengan menggantikan perkataan "Ketua Hakim Negara" dengan perkataan "Ketua Hakim".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-18. Perkara 122c Perlembagaan Persekutuan adalah Perkara 122c. dipinda dengan menggantikan perkataan "Hakim Besar", "Ketua Hakim Negara Mahkamah Agung" dan "Hakim- Hakim Besar" di mana-mana jua terdapat dengan perkataan "Ketua Hakim", "Hakim Besar Mahkamah Persekutuan" dan "Ketua-Ketua Hakim".
+18. Perkara 122c Perlembagaan Persekutuan adalah
+
+## Perkara 122c.
+
+dipinda dengan menggantikan perkataan "Hakim Besar", "Ketua Hakim Negara Mahkamah Agung" dan "Hakim- Hakim Besar" di mana-mana jua terdapat dengan perkataan "Ketua Hakim", "Hakim Besar Mahkamah Persekutuan" dan "Ketua-Ketua Hakim".
 
 <!-- page 9 -->
 
@@ -288,7 +350,7 @@ Pindaan
 
 19. Perkara 123 Perlembagaan Persekutuan adalah
 
-<!-- marginal: Perkara 123. -->
+## Perkara 123.
 
 dipinda—
 
@@ -300,7 +362,7 @@ dipinda—
 
 20. Perkara 124 Perlembagaan Persekutuan adalah
 
-<!-- marginal: Perkara 124. -->
+## Perkara 124.
 
 dipinda—
 
@@ -322,17 +384,27 @@ dipinda—
 
 ( i i) dengan menggantikan perkataan "Hakim Besar" di mana-mana jua terdapat dengan perkataan "Ketua Hakim".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-21. Perkara 125 Perlcmbagaan Persekutuan adalah Perkara 125. dipinda—
+21. Perkara 125 Perlcmbagaan Persekutuan adalah
+
+## Perkara 125.
+
+<!-- marginal: dipinda— -->
 
 (a) dalam Fasal (1) dan (2), dcngan menggantikan perkataan "Agung" dengan perkataan "Persekutuan";
 
-(b) dalam Fasal (3)— (i) dengan menggantikan perkataan "Ketua Hakim Ncgara" dan "Agung" masing- masingnya dengan perkataan "Hakim Besar" dan "Persekutuan"; dan (ii) dcngan menggantikan perkataan "berperangai buruk atau" dengan perkataan "apa-apa pelanggaran mana-mana peruntukan kod etika yang ditetapkan di bawah Fasal (3A) atau atas alasan";
+(b) dalam Fasal (3)—
+
+(i) dengan menggantikan perkataan "Ketua Hakim Ncgara" dan "Agung" masing- masingnya dengan perkataan "Hakim Besar" dan "Persekutuan"; dan
+
+(ii) dcngan menggantikan perkataan "berperangai buruk atau" dengan perkataan "apa-apa pelanggaran mana-mana peruntukan kod etika yang ditetapkan di bawah Fasal (3A) atau atas alasan";
 
 (c) dengan memasukkan selepas Fasal (3) Fasal yang berikut: "(3A) Yang di-Pertuan Agong atas syor Hakim Besar, Presiden Mahkamah Rayuan dan Ketua Hakim Mahkamah-Mahkamah Tinggi, boleh, selepas berunding dengan Perdana Menteri, menetapkan secara bertulis suatu kod etika yang hendaklah dipatuhi oleh tiap-tiap hakim Mahkamah Persekutuan.";
 
-(d) dalam Fasal (4)— (i) dengan menggantikan perkataan "Mahkamah Agung" dengan pcrkataan "Mahkamah Persekutuan, Mahkamah Rayuan"; dan
+(d) dalam Fasal (4)—
+
+(i) dengan menggantikan perkataan "Mahkamah Agung" dengan pcrkataan "Mahkamah Persekutuan, Mahkamah Rayuan"; dan
 
 <!-- page 11 -->
 
@@ -352,9 +424,9 @@ Pindaan
 
 22. Perkara 125A Perlembagaan Persekutuan adalah
 
-<!-- marginal: Perkara 125A. -->
+## Perkara 125A.
 
-dipinda—
+<!-- marginal: dipinda— -->
 
 (a) dengan menggantikan nota birai dengan nota birai yang berikut: "Penjalanan kuasa oleh hakim-hakim."; dan
 
@@ -366,21 +438,33 @@ dipinda—
 
 (a) perenggan yang berikut: "(aa) Presiden Mahkamah Rayuan dan seseorang hakim Mahkamah Rayuan boleh menjalankan semua atau mana-mana kuasa hakim Mahkamah Tinggi; dan"; dan (iii) dalam perenggan (b), dengan meng- gantikan perkataan "Borneo" dengan perkataan "Sabah dan Sarawak".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-23. Perkara 126 Perlembagaan Persekutuan adalah Perkara 126. dipinda—
+23. Perkara 126 Perlembagaan Persekutuan adalah
+
+## Perkara 126.
+
+dipinda—
 
 (a) dengan menggantikan nota birai dengan nota birai yang berikut: "Kuasa menghukum kerana penghinaan."; dan
 
 (b) dengan menggantikan perkataan "Mahkamah Agung" dengan perkataan "Mahkamah Persekutuan, Mahkamah Rayuan".
 
-### Pindaan
+<!-- marginal: Pindaan -->
 
-24. Perkara 127 Perlembagaan Persekutuan adalah dipinda Perkara 127. dengan menggantikan perkataan "Mahkamah Agung" dengan perkataan " Mahkamah Persekutuan, Mahkamah Rayuan".
+24. Perkara 127 Perlembagaan Persekutuan adalah dipinda
 
-Pindaan
+## Perkara 127.
 
-25. Perkara 128 Perlembagaan Persekutuan adalah Perkara 128. dipinda—
+dengan menggantikan perkataan "Mahkamah Agung" dengan perkataan " Mahkamah Persekutuan, Mahkamah Rayuan".
+
+<!-- marginal: Pindaan -->
+
+25. Perkara 128 Perlembagaan Persekutuan adalah
+
+## Perkara 128.
+
+dipinda—
 
 (a) dalam Fasal (1) dan (2), dengan menggantikan perkataan "Agung" di mana-mana jua terdapat dengan perkataan "Persekutuan"; dan
 
@@ -394,7 +478,7 @@ Pindaan
 
 26. Perkara 130 Perlembagaan Persekutuan adalah dipinda
 
-<!-- marginal: Perkara 130. -->
+## Perkara 130.
 
 dengan menggantikan perkataan "Agung" dalam nota birai dan di mana-mana jua terdapat dengan perkataan "Persekutuan".
 
@@ -402,7 +486,7 @@ dengan menggantikan perkataan "Agung" dalam nota birai dan di mana-mana jua terd
 
 27. Perkara 13 1A Perlembagaan Persekutuan adalah
 
-<!-- marginal: Perkara 131A. -->
+## Perkara 131A.
 
 dipinda—
 
@@ -418,21 +502,43 @@ dipinda—
 
 (iii) dengan menggantikan perkataan "Agung" dengan perkataan "Persekutuan".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-28. Perkara 132 Perlembagaan Persekutuan adalah Perkara 132. dipinda—
+28. Perkara 132 Perlembagaan Persekutuan adalah
 
-(a) dalam Fasal (1), dengan memotong perenggan (e);
+## Perkara 132.
+
+dipinda—
+
+(a) dalam Fasal (1), dengan memotong perenggan
+
+(e);
 
 (b) dalam Fasal (2A), dengan memotong abjad dan tanda baca "(e),"; dan
 
 (c) dalam Fasal (3), dengan menggantikan perkataan "Mahkamah Agung" dalam perenggan (c) dengan perkataan "Mahkamah Persekutuan, Mahkamah Rayuan".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-29. Perlembagaan Persekutuan adalah dipinda dengan Perkara 134. menggantikan Perkara 134 dengan Perkara yang berikut:
+29. Perlembagaan Persekutuan adalah dipinda dengan
 
-Pemin- 134. (1) Persekutuan boleh, atas permintaan jaman sesuatu Negeri, pihak berkuasa tempatan, atau pegawai- pegawai. pihak berkuasa berkanun atau mana-mana organisasi, di dalam atau di luar Malaysia, meminjamkan mana-mana anggota perkhidmatan awamnya kepada perkhidmatan Negeri itu, pihak berkuasa atau organisasi, mengikut mana-mana yang berkenaan; dan sesuatu Negeri boleh, atas permintaan Persekutuan, suatu Negeri lain, suatu pihak berkuasa tempatan atau suatu pihak berkuasa berkanun atau mana-mana organisasi, di dalam atau di luar Malaysia, meminjamkan mana-mana anggota perkhidmatan awamnya sendiri kepada perkhidmatan Persekutuan, Negeri lain, pihak berkuasa atau organisasi, mengikut mana-mana yang berkenaan.
+## Perkara 134.
+
+menggantikan Perkara 134 dengan Perkara yang berikut:
+
+<!-- marginal: Pemin- -->
+
+134. (1) Persekutuan boleh, atas permintaan
+
+<!-- marginal: jaman -->
+
+sesuatu Negeri, pihak berkuasa tempatan, atau
+
+<!-- marginal: pegawai- -->
+
+<!-- marginal: pegawai. -->
+
+pihak berkuasa berkanun atau mana-mana organisasi, di dalam atau di luar Malaysia, meminjamkan mana-mana anggota perkhidmatan awamnya kepada perkhidmatan Negeri itu, pihak berkuasa atau organisasi, mengikut mana-mana yang berkenaan; dan sesuatu Negeri boleh, atas permintaan Persekutuan, suatu Negeri lain, suatu pihak berkuasa tempatan atau suatu pihak berkuasa berkanun atau mana-mana organisasi, di dalam atau di luar Malaysia, meminjamkan mana-mana anggota perkhidmatan awamnya sendiri kepada perkhidmatan Persekutuan, Negeri lain, pihak berkuasa atau organisasi, mengikut mana-mana yang berkenaan.
 
 (2) Seseorang yang dipinjamkan di bawah Perkara ini hendaklah tetap menjadi anggota perkhidmatan yang dianggotainya, tetapi saraannya hendaklah dibayar oleh Persekutuan, Negeri, pihak berkuasa atau organisasi, mengikut mana-mana yang berkenaan, yang kepada perkhidmatannya dia dipinjamkan.".
 
@@ -452,7 +558,7 @@ Pemin- 134. (1) Persekutuan boleh, atas permintaan jaman sesuatu Negeri, pihak b
 
 31. Perkara 139 Perlembagaan Persekutuan adalah dipinda
 
-<!-- marginal: Perkara 139. -->
+## Perkara 139.
 
 dalam Pasal (1) dengan menggantikan perkataan "perenggan (c), (e) dan (f)" dengan perkataan "perenggan (c) dan (f)".
 
@@ -460,7 +566,7 @@ dalam Pasal (1) dengan menggantikan perkataan "perenggan (c), (e) dan (f)" denga
 
 32. Perkara 142 Perlembagaan Persekutuan adalah
 
-<!-- marginal: Perkara 142. -->
+## Perkara 142.
 
 dipinda—
 
@@ -472,7 +578,7 @@ dipinda—
 
 33. Perkara 143 Perlembagaan Persekutuan adalah dipinda
 
-<!-- marginal: Perkara 143. -->
+## Perkara 143.
 
 dalam Fasal (1) dengan menggantikan perkataan "Agung" dalam perenggan (c) dengan perkataan "Persekutuan".
 
@@ -480,7 +586,7 @@ dalam Fasal (1) dengan menggantikan perkataan "Agung" dalam perenggan (c) dengan
 
 34. Perkara 145 Perlembagaan Persekutuan adalah dipinda
 
-<!-- marginal: Perkara 145. -->
+## Perkara 145.
 
 dalam Fasal (1) dan (6) dengan menggantikan perkataan "Agung" dengan perkataan "Persekutuan".
 
@@ -488,7 +594,7 @@ dalam Fasal (1) dan (6) dengan menggantikan perkataan "Agung" dengan perkataan "
 
 35. Perkara 148 Perlembagaan Persekutuan adalah dipinda
 
-<!-- marginal: Perkara 148. -->
+## Perkara 148.
 
 dalam Fasal (2) dengan menggantikan perkataan "Mahkamah Agung" dengan perkataan "Mahkamah Persekutuan, Mahkamah Rayuan".
 
@@ -496,7 +602,7 @@ dalam Fasal (2) dengan menggantikan perkataan "Mahkamah Agung" dengan perkataan 
 
 36. Perkara 151 Perlembagaan Persekutuan adalah dipinda
 
-<!-- marginal: Perkara 151. -->
+## Perkara 151.
 
 dalam Fasal (2) dengan menggantikan perkataan "Mahkamah Agung" pada kali pertama ianya terdapat dengan perkataan "Mahkamah Persekutuan, Mahkamah Rayuan",
 
@@ -504,13 +610,21 @@ dalam Fasal (2) dengan menggantikan perkataan "Mahkamah Agung" pada kali pertama
 
 ## RANG UNDANG-UNDANG
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-37. Perkara 152 Perlembagaan Persekutuan adalah dipinda Perkara 152. dalam Fasal (4) dengan menggantikan perkataan "Mahkamah Agung" dengan perkataan "Mahkamah Persekutuan, Mahkamah Rayuan".
+37. Perkara 152 Perlembagaan Persekutuan adalah dipinda
 
-### Pindaan
+## Perkara 152.
 
-38. Perkara 160 Perlembagaan Persekutuan adalah dipinda Perkara 160. dalam Fasal (2)—
+dalam Fasal (4) dengan menggantikan perkataan "Mahkamah Agung" dengan perkataan "Mahkamah Persekutuan, Mahkamah Rayuan".
+
+<!-- marginal: Pindaan -->
+
+38. Perkara 160 Perlembagaan Persekutuan adalah dipinda
+
+## Perkara 160.
+
+dalam Fasal (2)—
 
 (a) dalam takrif "Jawatan berpendapatan", dengan menggantikan perkataan "Mahkamah Agung" dalam perenggan
 
@@ -518,11 +632,11 @@ Pindaan
 
 (b) dalam takrif "Pihak berkuasa awam", dengan menggantikan perkataan "Mahkamah Agung" dengan perkataan "Mahkamah Persekutuan, Mahkamah Rayuan".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
 39. Perkara 161 Perlembagaan Persekutuan adalah dipinda
 
-### Perkara 161.
+## Perkara 161.
 
 dalam perenggan (b) Fasal (2), Fasal (3) dan (4)—
 
@@ -530,17 +644,25 @@ dalam perenggan (b) Fasal (2), Fasal (3) dan (4)—
 
 (b) dengan menggantikan perkataan "Mahkamah Agung" di mana-mana jua terdapat dengan perkataan "Mahkamah Persekutuan atau Mahkamah Rayuan".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-40. Perkara 161B Perlembagaan Persekutuan adalah Perkara 161B. dipinda dalam Fasal (2)—
+40. Perkara 161B Perlembagaan Persekutuan adalah
+
+## Perkara 161B.
+
+dipinda dalam Fasal (2)—
 
 (a) dengan menggantikan perkataan "Mahkamah Agung" dengan perkataan "Mahkamah Persekutuan atau Mahkamah Rayuan"; dan
 
 (b) dengan menggantikan perkataan "Borneo" di mana-mana jua terdapat dengan perkataan "Sabah dah Sarawak".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-41. Perkara 161E Perlembagaan Persekutuan adalah Perkara 161E. dipinda dalam Fasal (2) dengan menggantikan perkataan "Borneo" dalam perenggan (b) dengan perkataan "Sabah dan Sarawak".
+41. Perkara 161E Perlembagaan Persekutuan adalah
+
+## Perkara 161E.
+
+dipinda dalam Fasal (2) dengan menggantikan perkataan "Borneo" dalam perenggan (b) dengan perkataan "Sabah dan Sarawak".
 
 <!-- page 17 -->
 
@@ -550,7 +672,7 @@ Pindaan
 
 42. Perkara 182 Perlembagaan Persekutuan adalah
 
-<!-- marginal: Perkara 182. -->
+## Perkara 182.
 
 dipinda—
 
@@ -598,17 +720,25 @@ adalah dipinda—
 
 (2B) Jika sesuatu Rang Undang- Undang tidak diperkenankan oleh Raja dalam masa yang ditentukan dalam subseksyen (2A), Rang Undang-Undang itu hendaklah menjadi undang-undang apabila habis masa yang ditentukan dalam subseksyen itu mengikut cara yang sama seolah-olah baginda telah memperkenankannya."; dan
 
-(ii) dalam subseksyen (3), dengan menggantikan perkataan "Raja," dengan perkataan "Raja atau sebagaimana yang diperuntukkan dalam subseksyen (2B)"; dan
+(ii) dalam subseksyen (3),
+
+<!-- marginal: dengan -->
+
+menggantikan perkataan "Raja," dengan perkataan "Raja atau sebagaimana yang diperuntukkan dalam subseksyen (2B)"; dan
 
 (c) dalam seksyen 19D, dengan menggantikan perkataan "Hakim Besar" dalam perenggan (1) dengan perkataan "Ketua Hakim".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
 45. Jadual Kesembilan kepada Perlembagaan Persekutuan
 
 ## Jadual
 
-adalah dipinda dalam Senarai Persekutuan (Senarai 1) Kesembilan dengan memasukkan selepas butiran 25 butiran yang berikut:
+adalah dipinda dalam Senarai Persekutuan (Senarai 1)
+
+<!-- marginal: Kesembilan -->
+
+dengan memasukkan selepas butiran 25 butiran yang berikut:
 
 "25A. Pelancongan.".
 
@@ -654,9 +784,7 @@ Di bawah Fasal baru (10), Presiden Mahkamah Rayuan dan Ketua- Ketua Hakim Mahkam
 
 8. Fasal 29 Rang Undang-Undang ini bertujuan meminda Perkara 134 Perlembagaan untuk meluaskan skop Perkara itu untuk meliputi peminjaman pegawai-pegawai kepada pihak berkuasa tempatan atau pihak berkuasa berkanun atau kepada sesuatu organisasi di dalam atau di luar Malaysia.
 
-9. Fasal 44 Rang Undang-Undang ini bertujuan meminda Jadual Kelapan kepada Perlembagaan untuk memasukkan peruntukan yang serupa seperti pindaan yang dicadangkan kepada Perkara 40 dan
-
-66.
+9. Fasal 44 Rang Undang-Undang ini bertujuan meminda Jadual Kelapan kepada Perlembagaan untuk memasukkan peruntukan yang serupa seperti pindaan yang dicadangkan kepada Perkara 40 dan 66.
 
 <!-- page 21 -->
 
@@ -710,11 +838,15 @@ memotong perkataan 'dan "Hakim Besar" masing-masingnya' dan perkataan 'dan
 
 fasal yang berikut:
 
-'Pindaan 14. Perkara 122 Perlembagaan
+'Pindaan 14. Perkara 122
+
+<!-- marginal: Perlembagaan -->
 
 <!-- marginal: Persekutuan -->
 
-Perkara 122. adalah dipinda -
+## Perkara 122.
+
+adalah dipinda -
 
 (a) dalam nota birai, dengan menggantikan
 
@@ -758,7 +890,9 @@ Mahkamah persekutuan"; dan
 
 (ii) dengan menggantikan perkataan
 
-"Agung" dengan
+"Agung"
+
+<!-- marginal: dengan -->
 
 <!-- marginal: perkataan -->
 
@@ -778,7 +912,9 @@ Presiden Mahkamah Rayuan"; dan
 
 (ii) dengan menggantikan perkataan
 
-"Agung" dengan
+"Agung"
+
+<!-- marginal: dengan -->
 
 <!-- marginal: perkataan -->
 
@@ -810,11 +946,15 @@ Hakim Negara".
 
 fasal yang berikut:
 
-Pindaan 17. Perkara 122B Perlembagaan
+Pindaan 17. Perkara 122B
+
+<!-- marginal: Perlembagaan -->
 
 <!-- marginal: Persekutuan -->
 
-Perkara 122B. adalah dipinda -
+## Perkara 122B.
+
+adalah dipinda -
 
 (a) dalam nota birai, dengan menggantikan
 
@@ -828,7 +968,7 @@ Rayuan dan";
 
 Fasal yang berikut:
 
-" (1) Ketua Hakim Negara
+<!-- marginal: " (1) Ketua Hakim Negara -->
 
 Mahkamah Persekutuan, Presiden
 
@@ -872,11 +1012,7 @@ Fasal yang berikut:
 
 "(4) Sebelum memberi nasihatnya
 
-di bawah Fasal
-
-<!-- marginal: (1) -->
-
-<!-- marginal: tentang -->
+di bawah Fasal (1) tentang
 
 perlantikan seseorang hakim selain
 
@@ -898,13 +1034,9 @@ Presiden Mahkamah Rayuan
 
 <!-- marginal: j i ka -->
 
-perlantikan
+perlantikan itu bagi Mahkamah
 
-<!-- marginal: itu bagi Mahkamah -->
-
-Rayuan dan,
-
-<!-- marginal: jika perlantikan itu -->
+Rayuan dan, jika perlantikan itu
 
 bagi mana-mana satu Mahkamah Tinggi,
 
@@ -928,9 +1060,15 @@ Rayuan".
 
 9. Rang Undang-Undang adalah dipinda dengan menggantikan fasal 18 dengan
 
-fasal yang berikut:
+<!-- marginal: fasal yang berikut: -->
 
-18. Perkara 122C Perlembagaan Persekutuan adalah 'Pindaan Perkara 122C. dipinda dengan. menggantikan perkataan "Ketua Hakim
+18. Perkara 122C Perlembagaan Persekutuan adalah
+
+<!-- marginal: 'Pindaan -->
+
+## Perkara 122C.
+
+dipinda dengan. menggantikan perkataan "Ketua Hakim
 
 Negara Mahkamah Agung" dengan perkataan "Ketua
 
@@ -940,13 +1078,17 @@ Hakim Negara Mahkamah Persekutuan".
 
 10. Rang Undang-Undang adalah dipinda dengan menggantikan fasal 20 dengan
 
-fasal yang berikut:
+<!-- marginal: fasal yang berikut: -->
 
-20. Perkara 124 Perlembagaan
+20. Perkara 124 Perlembagaan Persekutuan
 
-<!-- marginal: Persekutuan -->
+<!-- marginal: 'Pindaan -->
 
-'Pindaan Perkara 124. adalah dipinda -
+## Perkara 124.
+
+<!-- marginal: adalah -->
+
+dipinda -
 
 (a) dalam Fasal (1), dengan menggantikan
 
@@ -960,9 +1102,7 @@ Negara Mahkamah Persekutuan";
 
 Fasal yang berikut:
 
-"(2) Hakim
-
-<!-- marginal: Hahkamah -->
+"(2) Hakim Hahkamah
 
 Persekutuan, Mahkamah Rayuan atau
 
@@ -972,17 +1112,9 @@ Ketua Hakim Negara Hahkamah
 
 Persekutuan. sebelum menjalankan
 
-fungsi-fungsi
+fungsi-fungsi seorang hakim
 
-<!-- marginal: seorang -->
-
-<!-- marginal: hakim -->
-
-hendaklah
-
-<!-- marginal: mengangkat -->
-
-<!-- marginal: dan -->
+hendaklah mengangkat dan
 
 menandatangani sumpah jawatan dan
 
@@ -990,9 +1122,7 @@ taat setia yang dinyatakan dalam
 
 Jadual keenam berhubungan dengan
 
-kewajipan-kewajipan
-
-<!-- marginal: kehakimannya -->
+kewajipan-kewajipan kehakimannya
 
 dalam apa-apa jua jawatan.";
 
@@ -1008,9 +1138,7 @@ sebagai hakim Mahkamah Agung";
 
 (d) dalam Fasal ( 4 ), dengan menggantikan
 
-perkataan "Agung" di mana-mana
-
-<!-- marginal: jua -->
+perkataan "Agung" di mana-mana jua
 
 terdapat dengan perkataan "Persekutuan";
 
@@ -1024,9 +1152,17 @@ selepas perkataan "hakim" perkataan
 
 11. Rang Undang-Undang adalah dipinda dengan menggantikan fasal 21 dengan
 
-fasal yang berikut:
+<!-- marginal: fasal yang berikut: -->
 
-21. Perkara 125 Perlembagaan Persekutuan adalah 'Pindaan Perkara 125. dipinda -
+21.
+
+## Perkara 125 Perlembagaan Persekutuan adalah
+
+<!-- marginal: 'Pindaan -->
+
+## Perkara 125.
+
+dipinda -
 
 (a) dalam Fasal (1) dan ( 2 ), dengan
 
@@ -1084,13 +1220,9 @@ Mahkamah Persekutuan.";
 
 (i) dengan menggantikan perkataan
 
-"Mahkamah Agung"
+"Mahkamah Agung" dengan
 
-<!-- marginal: dengan -->
-
-perkataan
-
-<!-- marginal: "Mahkamah -->
+perkataan "Mahkamah
 
 Persekutuan, Mahkamah Rayuan";
 
@@ -1102,11 +1234,7 @@ dan
 
 Agung" dengan perkataan "Ketua
 
-Hakim
-
-<!-- marginal: Negara -->
-
-<!-- marginal: Mahkamah -->
+Hakim Negara Mahkamah
 
 Persekutuan, Presiden";
 
@@ -1140,9 +1268,7 @@ terpakai bagi seseorang hakim
 
 Mahkamah Persekutuan. kecuali bahawa
 
-sebelum menggantung
-
-<!-- marginal: jawatan -->
+sebelum menggantung jawatan
 
 seseorang hakim Mahkamah Rayuan atau
 
@@ -1158,9 +1284,7 @@ Agong hendaklah berunding dengan
 
 Presiden Mahkamah Rayuan atau Bakim
 
-Besar Mahkamah Tinggi
-
-<!-- marginal: itu dan -->
+Besar Mahkamah Tinggi itu dan
 
 bukannya Ketua Hakim Negara Mahkamah
 
@@ -1192,7 +1316,11 @@ Negara".
 
 fasal yang berikut:
 
-'Pindaan 27. Perkara 131A Perlembagaan Persekutuan adalah Perkara 131A. dipinda -
+'Pindaan 27. Perkara 131A Perlembagaan Persekutuan adalah
+
+## Perkara 131A.
+
+dipinda -
 
 (a) dalam nota birai, dengan memasukkan
 
@@ -1206,7 +1334,7 @@ Negara" perkataan ", Presiden";
 
 (i) dengan menggantikan perkataan
 
-"Ketua Hakim Negara Hahkamah
+<!-- marginal: "Ketua Hakim Negara Hahkamah -->
 
 Agung" dengan perkataan "Ketua
 
@@ -1224,47 +1352,47 @@ Besar Mahkamah Tinggi"; dan
 
 (ii) dengan menggantikan perkataan
 
-"lain" dan "Agung" masing-
+<!-- marginal: "lain" dan "Agung" masing- -->
 
 <!-- page 35 -->
 
-masingnya dengan perkataan
+<!-- marginal: masingnya dengan perkataan -->
 
-"seorang" dan "Persekutuan";
+<!-- marginal: "seorang" dan "Persekutuan"; -->
 
-dan
+<!-- marginal: dan -->
 
 (c) dalan Fasal (2) -
 
 (i) dengan memasukkan selepas
 
-perkataan "fungsi-fungsi" pada
+<!-- marginal: perkataan "fungsi-fungsi" pada -->
 
-kali pertama
+<!-- marginal: kali pertama -->
 
 <!-- marginal: ia -->
 
 <!-- marginal: terdapat -->
 
-perkataan "Presiden Mahkamah
+<!-- marginal: perkataan "Presiden Mahkamah -->
 
-Rayuan atau";
+<!-- marginal: Rayuan atau"; -->
 
 (ii) dengan menggantikan perkataan
 
-"mahkamah itu" dengan perkataan
+<!-- marginal: "mahkamah itu" dengan perkataan -->
 
-"mahkamah Rayuan atau Mahkamah
+<!-- marginal: "mahkamah Rayuan atau Mahkamah -->
 
-Tinggi, mengikut mana-mana yang
+<!-- marginal: Tinggi, mengikut mana-mana yang -->
 
 berkenaan"; dan
 
 (iii) dengan aenggantikan perkataan
 
-"Agung" dengan perkataan
+<!-- marginal: "Agung" dengan perkataan -->
 
-"Persekutuan".
+<!-- marginal: "Persekutuan". -->
 
 14. Fasal 30 Rang Undang-Undang adalah dipinda dalam perenggan (a) dengan
 
@@ -1276,11 +1404,15 @@ menggantikan perkataan "Hakim Besar" dengan perkataan "Ketua Hakim Negara".
 
 fasal yang berikut:
 
-'Pindaan 42. Perkara 182 Perlembagaan
+'Pindaan 42. Perkara 182
+
+<!-- marginal: Perlembagaan -->
 
 <!-- marginal: Persekutuan -->
 
-Perkara 182. adalah dipinda -
+## Perkara 182.
+
+adalah dipinda -
 
 (a) dalam Fasal (1), dengan menggantikan
 
@@ -1364,6 +1496,6 @@ Mahkamah Persekutuan dan Hakim Besar Mahkamah Tinggi.
 
 Jabatan Peguam Negara
 
-## MAIAYSIA.
+<!-- marginal: MAIAYSIA. -->
 
 6 Mei 1994.

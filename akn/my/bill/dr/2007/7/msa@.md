@@ -22,17 +22,45 @@ D.R. 7/2007
 
 7. Fungsi dan kuasa Majlis 8. Kuasa Menteri untuk memberikan arahan 9. Mesyuarat Majlis
 
-10. Penubuhan Jawatankuasa 11. Setiausaha Majlis dan pegawai-pegawai lain
+10. Penubuhan Jawatankuasa
+
+11. Setiausaha Majlis dan pegawai-pegawai lain
 
 ## BAHAGIAN III
 
 ## KESALAHAN PEMERDAGANGAN ORANG, KEKEBALAN, DSB.
 
-12. Kesalahan pemerdagangan orang 13. Kesalahan pemerdagangan orang dengan cara ancaman, kekerasan, dsb. 14. Kesalahan pemerdagangan kanak-kanak
+12. Kesalahan pemerdagangan orang
+
+13. Kesalahan pemerdagangan orang dengan cara ancaman, kekerasan, dsb.
+
+14. Kesalahan pemerdagangan kanak-kanak
 
 <!-- page 2 -->
 
-15. Kesalahan mendapatkan keuntungan daripada eksploitasi orang yang diperdagangkan 16. Kerelaan orang yang diperdagangkan tidak relevan 17. Kelakuan seksual lampau tidak relevan 18. Dokumen perjalanan atau pengenalan diri fraud 19. Merekrut orang 20. Menyediakan kemudahan bagi membantu pemerdagangan orang 21. Menyediakan perkhidmatan bagi maksud pemerdagangan orang 22. Melindungi orang 23. Obligasi pemunya, operator atau nakhoda pengangkut 24. Peninggalan sengaja untuk memberi maklumat 25. Kekebalan daripada pendakwaan jenayah 26. Perlindungan pemberi maklumat
+15. Kesalahan mendapatkan keuntungan daripada eksploitasi orang yang diperdagangkan
+
+16. Kerelaan orang yang diperdagangkan tidak relevan
+
+17. Kelakuan seksual lampau tidak relevan
+
+18. Dokumen perjalanan atau pengenalan diri fraud
+
+19. Merekrut orang
+
+20. Menyediakan kemudahan bagi membantu pemerdagangan orang
+
+21. Menyediakan perkhidmatan bagi maksud pemerdagangan orang
+
+22. Melindungi orang
+
+23. Obligasi pemunya, operator atau nakhoda pengangkut
+
+24. Peninggalan sengaja untuk memberi maklumat
+
+25. Kekebalan daripada pendakwaan jenayah
+
+26. Perlindungan pemberi maklumat
 
 ## BAHAGIAN IV
 
@@ -40,7 +68,27 @@ D.R. 7/2007
 
 27. Pegawai penguat kuasa
 
-28. Kuasa penyiasatan 29. Kuasa penangkapan 30. Penggeledahan dan penyitaan dengan waran 31. Penggeledahan dan penyitaan tanpa waran 32. Capaian kepada data berkomputer 33. Senarai benda yang disita 34. Kuasa untuk memeriksa orang 35. Kebolehterimaan pernyataan 36. Pelucuthakan pengangkut, harta alih, dsb. 37. Kos memegang pengangkut, harta alih, dsb., yang disita 38. Tiada kos atau ganti rugi yang berbangkit daripada kemasukan, penggeledahan atau penyitaan boleh didapatkan
+28. Kuasa penyiasatan
+
+29. Kuasa penangkapan
+
+30. Penggeledahan dan penyitaan dengan waran
+
+31. Penggeledahan dan penyitaan tanpa waran
+
+32. Capaian kepada data berkomputer
+
+33. Senarai benda yang disita
+
+34. Kuasa untuk memeriksa orang
+
+35. Kebolehterimaan pernyataan
+
+36. Pelucuthakan pengangkut, harta alih, dsb.
+
+37. Kos memegang pengangkut, harta alih, dsb., yang disita
+
+38. Tiada kos atau ganti rugi yang berbangkit daripada kemasukan, penggeledahan atau penyitaan boleh didapatkan
 
 39. Halangan 40. Pemberian maklumat 41. Pemulaan pendakwaan
 
@@ -52,13 +100,55 @@ D.R. 7/2007
 
 ## DIPERDAGANGKAN
 
-42. Tempat perlindungan 43. Pelantikan Pegawai Pelindung 44. Mengambil orang ke dalam jagaan sementara 45. Orang dalam jagaan sementara yang memerlukan pemeriksaan atau rawatan perubatan 46. Pemeriksaan dan rawatan perubatan 47. Kebenaran untuk dimasukkan ke hospital 48. Kawalan ke atas orang yang dimasukkan ke hospital 49. Langkah yang perlu diambil selepas pemeriksaan atau rawatan perubatan 50. Tiada liabiliti ditanggung kerana memberikan kebenaran 51. Penyiasatan, siasatan dan Perintah Perlindungan 52. Perakaman keterangan orang yang diperdagangkan 53. Permohonan oleh ibu atau bapa, penjaga atau saudara 54. Pelepasan orang yang diperdagangkan 55. Orang yang diperdagangkan yang melarikan diri atau dipindahkan dari tempat perlindungan 56. Kesalahan memindahkan atau membantu orang yang diperdagangkan melarikan diri dari tempat perlindungan 57. Kuasa Menteri untuk memindahkan orang yang diperdagangkan dari satu tempat perlindungan ke tempat perlindungan yang lain
+42. Tempat perlindungan
+
+43. Pelantikan Pegawai Pelindung
+
+44. Mengambil orang ke dalam jagaan sementara
+
+45. Orang dalam jagaan sementara yang memerlukan pemeriksaan atau rawatan perubatan
+
+46. Pemeriksaan dan rawatan perubatan
+
+47. Kebenaran untuk dimasukkan ke hospital
+
+48. Kawalan ke atas orang yang dimasukkan ke hospital
+
+49. Langkah yang perlu diambil selepas pemeriksaan atau rawatan perubatan
+
+50. Tiada liabiliti ditanggung kerana memberikan kebenaran
+
+51. Penyiasatan, siasatan dan Perintah Perlindungan
+
+52. Perakaman keterangan orang yang diperdagangkan
+
+53. Permohonan oleh ibu atau bapa, penjaga atau saudara
+
+54. Pelepasan orang yang diperdagangkan
+
+55. Orang yang diperdagangkan yang melarikan diri atau dipindahkan dari tempat perlindungan
+
+56. Kesalahan memindahkan atau membantu orang yang diperdagangkan melarikan diri dari tempat perlindungan
+
+57. Kuasa Menteri untuk memindahkan orang yang diperdagangkan dari satu tempat perlindungan ke tempat perlindungan yang lain
 
 ## BAHAGIAN VI
 
 ## PELBAGAI
 
-58. Sekatan ke atas laporan dan penyiaran media 59. Keterangan agent provocateur boleh diterima 60. Kebolehterimaan keterangan dokumentar 61. Kebolehterimaan terjemahan dokumen 62. Tanggung rugi 63. Penalti am 64. Kesalahan oleh pertubuhan perbadanan
+58. Sekatan ke atas laporan dan penyiaran media
+
+59. Keterangan agent provocateur boleh diterima
+
+60. Kebolehterimaan keterangan dokumentar
+
+61. Kebolehterimaan terjemahan dokumen
+
+62. Tanggung rugi
+
+63. Penalti am
+
+64. Kesalahan oleh pertubuhan perbadanan
 
 <!-- page 4 -->
 
@@ -846,7 +936,9 @@ tidaklah menanggung apa-apa liabiliti di sisi undang-undang hanya oleh sebab ses
 
 <!-- page 34 -->
 
-(2) Tiada apa-apa jua yang terkandung dalam subseksyen (1) melepaskan seseorang pegawai perubatan daripada liabiliti berkenaan dengan pemeriksaan atau rawatan orang yang diambi! ke dalam jagaan sementara di bawah subseksyen 44(1), yang Iiabilitinya itu dia akan tertakluk sekiranya pemeriksaan atau rawatan itu dijalankan atau diberikan dengan keizinan ibu atau bapa atau penjaga orang itu atau orang yang mempunyai kuasa untuk mengizinkan pemeriksaan atau rawatan itu.
+(2) Tiada apa-apa jua yang terkandung dalam subseksyen
+
+(1) melepaskan seseorang pegawai perubatan daripada liabiliti berkenaan dengan pemeriksaan atau rawatan orang yang diambi! ke dalam jagaan sementara di bawah subseksyen 44(1), yang Iiabilitinya itu dia akan tertakluk sekiranya pemeriksaan atau rawatan itu dijalankan atau diberikan dengan keizinan ibu atau bapa atau penjaga orang itu atau orang yang mempunyai kuasa untuk mengizinkan pemeriksaan atau rawatan itu.
 
 ### Penyiasatan, siasatan dan Perintah Perlindungan
 
@@ -890,7 +982,9 @@ itu ditempatkan, menghendakinya untuk mengemukakan orang yang diperdagangkan itu
 
 (3) Majistret hendaklah merakamkan keterangan orang yang diperdagangkan itu dan menyelesaikan perakaman itu dalam masa tujuh hari dari tarikh pengemukaan orang yang diperdagangkan itu ke hadapannya.
 
-(4) Semasa perakaman keterangan orang yang diperdagangkan itu, dia hendaklah diperiksa mengikut peruntukan Akta Keterangan 1950.
+(4) Semasa perakaman keterangan orang yang diperdagangkan itu, dia hendaklah diperiksa mengikut peruntukan Akta Keterangan
+
+1950.
 
 (5) Majistret hendaklah menyebabkan keterangan yang diambil dijadlkan dalam bentuk bertulis dan, pada akhir tulisan itu, hendaklah menandatangani keterangan itu.
 
@@ -988,9 +1082,7 @@ melakukan suatu kesalahan.
 
 (a) apa-apa langkah yang diambil berhubung dengan orang yang diperdagangkan dalam mana-mana presiding sama ada pada peringkat sebelum perbicaraan, perbicaraan atau selepas perbicaraan;
 
-(b) mana-mana orang yang diperdagangkan yang berkenaan dengannya jagaan atau perlindungan diberikan di bawah
-
-## Bahagian V; atau
+(b) mana-mana orang yang diperdagangkan yang berkenaan dengannya jagaan atau perlindungan diberikan di bawah Bahagian V; atau
 
 (c) apa-apa perkara lain di bawah Akta ini,
 

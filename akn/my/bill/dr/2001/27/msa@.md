@@ -172,11 +172,7 @@ of prostitution, etc." dengan perkataan "Exploiting any person for purposes of p
 
 (b) dengan memasukkan, selepas butiran yang berkaitan dengan seksyen 372 Kanun Keseksaan, butiran yang berikut di bawah ruangan masing-masing:
 
-"372A Persons living on do do. do do
-
-<!-- marginal: do -->
-
-or trading in prostitution 372B Soliciting for do. do do. do. Imprisonment for purposes of one year, or fine, prostitution or both",
+"372A Persons living on do do. do do do or trading in prostitution 372B Soliciting for do. do do. do. Imprisonment for purposes of one year, or fine, prostitution or both",
 
 (c) dalam butiran yang berkaitan dengan seksyen 373 Kanun Keseksaan —
 

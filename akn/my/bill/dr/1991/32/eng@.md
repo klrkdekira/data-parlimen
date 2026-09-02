@@ -8,23 +8,13 @@
 
 ## PRELIMINARY
 
-1. Short title and application.
-
-2. Order of the Minister.
-
-3. Special direction of the Minister applying this Act where no order has been made under section 2.
-
-4. Direction of the Minister to apply procedure in section 20,-
-
-5. Interpretation.
+1. Short title and application. 2. Order of the Minister. 3. Special direction of the Minister applying this Act where no order has been made under section 2. 4. Direction of the Minister to apply procedure in section 20,- 5. Interpretation.
 
 ## PART II
 
 ## EXTRADITION OFFENCE
 
-6. Extradition offence.
-
-7. Law of a country.
+6. Extradition offence. 7. Law of a country.
 
 ## PART
 
@@ -32,9 +22,7 @@ III
 
 ## RETURN OF FUG1TIVE CRIMINALS
 
-8. Restrictions on return of fugitive criminals.
-
-9. Exceptions to political offences.
+8. Restrictions on return of fugitive criminals. 9. Exceptions to political offences.
 
 10. When consent of the Minister is necessary.
 
@@ -120,7 +108,9 @@ III
 
 ## HABEAS CORPUS AND REVIEW
 
-36. Application for habeas corpus. 37. Review by High Court.
+36. Application for habeas corpus.
+
+37. Review by High Court.
 
 ## PART
 
@@ -128,7 +118,33 @@ IX
 
 ## MISCELLANEOUS
 
-38. Country includes colonies, dependencies, protectorates, vessels or aircraft. 39. Liability of fugitive criminal to be arrested and returned. 40. Minister may direct detention of fugitive criminal on transit. 41. Appearance on behalf of the Public Prosecutor. 42. Jurisdiction as to offences committed at sea or in air. 43. Discharge of fugitive criminal if not returned within three months. 44. Provisions in the Criminal Procedure Code when applicable. 45. Property found on fugitive criminal. 46. Forms. 47. Power of Minister to discharge any fugitive criminal in custody. 48. Simultaneous requisitions. 49. Discretion in respect of return of certain fugitive criminals. 50. Taking of evidence for purpose of criminal matters pending in a country. 51. Witnesses to attend and give evidence, etc. 52- Taking of evidence for purpose of return of fugitive criminals to Malaysia. 53. Rules.
+38. Country includes colonies, dependencies, protectorates, vessels or aircraft.
+
+39. Liability of fugitive criminal to be arrested and returned.
+
+40. Minister may direct detention of fugitive criminal on transit.
+
+41. Appearance on behalf of the Public Prosecutor.
+
+42. Jurisdiction as to offences committed at sea or in air.
+
+43. Discharge of fugitive criminal if not returned within three months.
+
+44. Provisions in the Criminal Procedure Code when applicable.
+
+45. Property found on fugitive criminal.
+
+46. Forms.
+
+47. Power of Minister to discharge any fugitive criminal in custody.
+
+48. Simultaneous requisitions.
+
+49. Discretion in respect of return of certain fugitive criminals. 50. Taking of evidence for purpose of criminal matters pending in a country.
+
+51. Witnesses to attend and give evidence, etc. 52- Taking of evidence for purpose of return of fugitive criminals to Malaysia.
+
+53. Rules.
 
 ## PART X
 
@@ -188,15 +204,53 @@ embodying the terms of such arrangement, direct that the provisions of this Act 
 
 (4) An order made under this section shall be conclusive evidence that the arrangement therein referred to complies with the provisions of this Act, and that this Act applies in the case of the country mentioned in the order, and the validity of such order shall not be questioned in any legal proceedings whatsoever.
 
-Special
+<!-- marginal: Special -->
 
-3. Where a country in respect of which no order has direction of been made under section 2 makes a request for the the Minister applying this extradition thereto of a fugitive criminal, the Minister Act where no may personally, if he deems it fit to do so, give a special order has direction in writing that the provisions of this Act shall been made under section apply to that country in relation to the extradition
+3. Where a country in respect of which no order has
+
+<!-- marginal: direction of -->
+
+been made under section 2 makes a request for the
+
+<!-- marginal: the Minister -->
+
+<!-- marginal: applying this -->
+
+extradition thereto of a fugitive criminal, the Minister
+
+<!-- marginal: Act where no -->
+
+may personally, if he deems it fit to do so, give a special
+
+<!-- marginal: order has -->
+
+direction in writing that the provisions of this Act shall
+
+<!-- marginal: been made -->
+
+<!-- marginal: under section -->
+
+apply to that country in relation to the extradition
 
 2. thereto of that particular fugitive criminal.
 
-Direction of
+<!-- marginal: Direction of -->
 
-4. Where the binding arrangement which has been the Minister entered into between Malaysia and any country for the to apply procedure in extradition of fugitive criminals contains a provision for section 20. the prima facie requirement to be dispensed with either generally or in relation to a class or classes of offences, the Minister may give a direction in writing that the procedure specified in section 20 shall apply to such cases.
+4. Where the binding arrangement which has been
+
+<!-- marginal: the Minister -->
+
+entered into between Malaysia and any country for the
+
+<!-- marginal: to apply -->
+
+<!-- marginal: procedure in -->
+
+extradition of fugitive criminals contains a provision for
+
+<!-- marginal: section 20. -->
+
+the prima facie requirement to be dispensed with either generally or in relation to a class or classes of offences, the Minister may give a direction in writing that the procedure specified in section 20 shall apply to such cases.
 
 <!-- page 7 -->
 
@@ -236,9 +290,13 @@ Diplomatic and Consular Privileges Ordinance 1957;
 
 ## EXTRADITION OFFENCE
 
-Extradition
+<!-- marginal: Extradition -->
 
-6. (1) A fugitive criminal shall only be returned for an offence. extradition offence.
+6. (1) A fugitive criminal shall only be returned for an
+
+<!-- marginal: offence. -->
+
+extradition offence.
 
 (2) For the purposes of this Act, an extradition offence is an offence, however described, including fiscal offences—
 
@@ -248,17 +306,29 @@ Extradition
 
 (3) An offence shall also be an extradition offence if it consists of an attempt or a conspiracy to commit, or an abetment of the commission of, any offence described in subsection (2).
 
-Law of a
+<!-- marginal: Law of a -->
 
-7. A reference in this Act to a law of a country includes country. a reference to a law of, or in force in, a part of that country.
+7. A reference in this Act to a law of a country includes
+
+<!-- marginal: country. -->
+
+a reference to a law of, or in force in, a part of that country.
 
 ## PART III
 
 ## RETURN OF FUGITIVE CRIMINALS
 
-Restrictions
+<!-- marginal: Restrictions -->
 
-8. A fugitive criminal shall not be surrendered to a on return of country seeking his return— fugitive criminals.
+8. A fugitive criminal shall not be surrendered to a
+
+<!-- marginal: on return of -->
+
+country seeking his return—
+
+<!-- marginal: fugitive -->
+
+<!-- marginal: criminals. -->
 
 (a) if the offence in respect of which his return is sought is of a political character or he proves to the satisfaction of the Sessions Court before which he is brought or of the Minister that the
 
@@ -278,9 +348,17 @@ warrant for his return has in fact been made with a view to try or punish him fo
 
 <!-- page 10 -->
 
-Exceptions to
+<!-- marginal: Exceptions to -->
 
-9. (I) For the purposes of paragraph 8(a), any of the political following offences shall not be held to be offences of offences. a political character in relation to a country which has made corresponding provisions in its laws:
+9. (I) For the purposes of paragraph 8(a), any of the
+
+<!-- marginal: political -->
+
+following offences shall not be held to be offences of
+
+<!-- marginal: offences. -->
+
+a political character in relation to a country which has made corresponding provisions in its laws:
 
 (a) murder or other wilful crime against the person of a Head of State or a member of the Head of State's immediate family;
 
@@ -288,9 +366,19 @@ Exceptions to
 
 (c) any attempt, abetment or a conspiracy to commit any of the foregoing offences.
 
-When consent
+<!-- marginal: When consent -->
 
-10. (1) Where a fugitive criminal has been returned to of the a country and the country concerned intends to try him Minister is necessary. for an extradition offence committed prior to his return other than that for which he was extradited, or to extradite him to another country for trial or punishment for any other offence, it shall make a request for the consent of the Minister through its diplomatic representative and such request shall be accompanied by all relevant information and documents in respect thereof.
+10. (1) Where a fugitive criminal has been returned to
+
+<!-- marginal: of the -->
+
+a country and the country concerned intends to try him
+
+<!-- marginal: Minister is -->
+
+<!-- marginal: necessary. -->
+
+for an extradition offence committed prior to his return other than that for which he was extradited, or to extradite him to another country for trial or punishment for any other offence, it shall make a request for the consent of the Minister through its diplomatic representative and such request shall be accompanied by all relevant information and documents in respect thereof.
 
 (2) The Minister may call for any additional information or documents as he may require in order that he may be satisfied that the request for his consent under subsection (1) is consistent with the provisions of this Act.
 
@@ -350,31 +438,73 @@ together in each case with particulars of the fugitive criminal whose return is 
 
 <!-- page 12 -->
 
-Issue of
+<!-- marginal: Issue of -->
 
-13. (1) Where a fugitive criminal is in or suspected of warrants by being in or on the way to Malaysia, the Magistrate— Magistrate.
+13. (1) Where a fugitive criminal is in or suspected of
+
+<!-- marginal: warrants by -->
+
+being in or on the way to Malaysia, the Magistrate—
+
+<!-- marginal: Magistrate. -->
 
 (a) shall, on receipt of an order made under subsection 12(3), issue a warrant for the apprehension of such fugitive criminal; or
 
 (b) may, where no order has been made under subsection 12(3), issue a provisional warrant for the apprehension of such fugitive criminal on such information and evidence and under such circumstances as would, in his opinion, justify the issue of a warrant if the offence had been committed or the fugitive criminal convicted in Malaysia.
 
-(2) For the purposes of paragraph (1)(b), information contained in an international notice issued by the International Criminal Police Organisation (INTERPOL) in respect of a fugitive criminal may be considered by the Magistrate in deciding whether a provisional warrant should be issued for
+(2) For the purposes of paragraph (1)(b), information contained in an international notice issued by the International Criminal Police Organisation (INTERPOL) in respect of a fugitive criminal may be considered by the Magistrate in deciding whether a provisional warrant should be issued
+
+<!-- marginal: for -->
 
 <!-- marginal: the -->
 
 apprehension of a fugitive criminal.
 
-Magistrate to
+<!-- marginal: Magistrate to -->
 
-14. (1) A Magistrate issuing a provisional warrant shall report issue forthwith send a report of the issue together with the of provisional warrant to information or evidence or certified copy thereof to the Minister. Minister.
+14. (1) A Magistrate issuing a provisional warrant shall
+
+<!-- marginal: report issue -->
+
+forthwith send a report of the issue together with the
+
+<!-- marginal: of provisional -->
+
+<!-- marginal: warrant to -->
+
+information or evidence or certified copy thereof to the
+
+<!-- marginal: Minister. -->
+
+Minister.
 
 (2) The Minister may, if he thinks fit, order the warrant to be cancelled and the person who has been apprehended on the warrant to be discharged.
 
-Procedure in
+<!-- marginal: Procedure in -->
 
-15. A fugitive criminal who, is apprehended on a respect of a warrant issued under paragraph I3(1)(a) shall be fugitive criminal brought before any Magistrate who shall order— apprehended on a warrant
+15. A fugitive criminal who, is apprehended on a
 
-(a) that the case be transmitted to the Sessions issued under Court; and paragraph 13
+<!-- marginal: respect of a -->
+
+warrant issued under paragraph I3(1)(a) shall be
+
+<!-- marginal: fugitive -->
+
+<!-- marginal: criminal -->
+
+brought before any Magistrate who shall order—
+
+<!-- marginal: apprehended -->
+
+<!-- marginal: on a warrant -->
+
+(a) that the case be transmitted to the Sessions
+
+<!-- marginal: issued under -->
+
+Court; and
+
+<!-- marginal: paragraph 13 -->
 
 (1) W.
 
@@ -462,11 +592,37 @@ Court; and
 
 <!-- page 14 -->
 
-18. A Sessions Court shall have the powers and Powers and jurisdiction jurisdiction to inquire into an extradition matter brought of Sessions before it in accordance with the procedure specified Court. under this Act.
+18. A Sessions Court shall have the powers and
 
-Procedure
+<!-- marginal: Powers and -->
 
-19. (1) Where the fugitive criminal is brought before before the Sessions Court, the Sessions Court shall receive any Sessions evidence tendered by or on behalf of the fugitive Court. criminal to show—
+<!-- marginal: jurisdiction -->
+
+jurisdiction to inquire into an extradition matter brought
+
+<!-- marginal: of Sessions -->
+
+before it in accordance with the procedure specified
+
+<!-- marginal: Court. -->
+
+under this Act.
+
+<!-- marginal: Procedure -->
+
+19. (1) Where the fugitive criminal is brought before
+
+<!-- marginal: before -->
+
+the Sessions Court, the Sessions Court shall receive any
+
+<!-- marginal: Sessions -->
+
+evidence tendered by or on behalf of the fugitive
+
+<!-- marginal: Court. -->
+
+criminal to show—
 
 (a) that he did not do or omit to do the act alleged to have been done or omitted by him;
 
@@ -574,7 +730,23 @@ to order the fugitive criminal to be surrendered to such person as may in his op
 
 (3) It shall be lawful for any person to whom such warrant is directed and for the person so authorised as aforesaid to receive, hold in custody and convey, within the jurisdiction of the country which made the requisition for his return, the fugitive criminal and if the fugitive criminal escapes out of any custody to which he may be surrendered in pursuance of such warrant, it shall be lawful to retake him in the same manner as any person accused of any crime against the laws of Malaysia may be retaken upon an escape.
 
-Waiver of 22. (1) When the fugitive criminal is brought before committal the Sessions Court he may inform the Court that he proceedings consents to a waiver of the committal proceedings by fugitive criminal. before the Court and the Court shall—
+<!-- marginal: Waiver of -->
+
+22. (1) When the fugitive criminal is brought before
+
+<!-- marginal: committal -->
+
+the Sessions Court he may inform the Court that he
+
+<!-- marginal: proceedings -->
+
+consents to a waiver of the committal proceedings
+
+<!-- marginal: by fugitive -->
+
+<!-- marginal: criminal. -->
+
+before the Court and the Court shall—
 
 (a) ascertain whether the consent
 
@@ -640,11 +812,79 @@ and if in every case the warrant, depositions, statement, copies, certificates a
 
 ## DARUSSALAM AND THE REPUBLIC OF SINGAPORE
 
-Application 25. (1) This Part applies in relation to Brunei to Brunei Darussalam and the Republic of Singapore. Darussalam and Singapore. (2) In this Part, "offence" means a seizable offence or an offence punishable, on conviction, with imprisonment for a term exceeding six months under the laws of Brunei Darussalam or the Republic of Singapore.
+<!-- marginal: Application -->
 
-Endorsement 26. Where, under the provisions of any law in force in of warrant Brunei Darussalam or the Republic of Singapore, a issued in judicial authority has issued a warrant authorising the Brunei Darussalam arrest of a person accused or convicted of an offence or Singapore. and that person is or is believed to be in Malaysia, a Magistrate in Malaysia may, if satisfied that the warrant was duly issued in Brunei Darussalam or Singapore, endorse the warrant, and the warrant may then be executed on that person as if it were a warrant lawfully issued in Malaysia under the provisions of the Criminal F.M.S. Cap. 6. Procedure Code.
+25. (1) This Part applies in relation to Brunei
 
-Warrant 27. Where, under the provisions of any law in force in executed in Brunei Darussalam or the Republic of Singapore Brunei corresponding to section 26, a warrant issued by a Darussalam or Singapore Magistrate or a Magistrate's Court in Malaysia has been deemed to be endorsed by a Magistrate in Brunei Darussalam or the validly executed in Republic of Singapore and executed on the person Malaysia. named in the warrant, the warrant shall for the purposes of this Act be deemed to have been as validly executed as if the execution had been effected in Malaysia.
+<!-- marginal: to Brunei -->
+
+Darussalam and the Republic of Singapore.
+
+<!-- marginal: Darussalam -->
+
+<!-- marginal: and -->
+
+<!-- marginal: Singapore. -->
+
+(2) In this Part, "offence" means a seizable offence or an offence punishable, on conviction, with imprisonment for a term exceeding six months under the laws of Brunei Darussalam or the Republic of Singapore.
+
+<!-- marginal: Endorsement -->
+
+26. Where, under the provisions of any law in force in
+
+<!-- marginal: of warrant -->
+
+Brunei Darussalam or the Republic of Singapore, a
+
+<!-- marginal: issued in -->
+
+judicial authority has issued a warrant authorising the
+
+<!-- marginal: Brunei -->
+
+<!-- marginal: Darussalam -->
+
+arrest of a person accused or convicted of an offence
+
+<!-- marginal: or Singapore. -->
+
+and that person is or is believed to be in Malaysia, a Magistrate in Malaysia may, if satisfied that the warrant was duly issued in Brunei Darussalam or Singapore, endorse the warrant, and the warrant may then be executed on that person as if it were a warrant lawfully issued in Malaysia under the provisions of the Criminal
+
+<!-- marginal: F.M.S. Cap. 6. -->
+
+Procedure Code.
+
+<!-- marginal: Warrant -->
+
+27. Where, under the provisions of any law in force in
+
+<!-- marginal: executed in -->
+
+Brunei Darussalam or the Republic of Singapore
+
+<!-- marginal: Brunei -->
+
+corresponding to section 26, a warrant issued by a
+
+<!-- marginal: Darussalam -->
+
+<!-- marginal: or Singapore -->
+
+Magistrate or a Magistrate's Court in Malaysia has been
+
+<!-- marginal: deemed to be -->
+
+endorsed by a Magistrate in Brunei Darussalam or the
+
+<!-- marginal: validly -->
+
+<!-- marginal: executed in -->
+
+Republic of Singapore and executed on the person
+
+<!-- marginal: Malaysia. -->
+
+named in the warrant, the warrant shall for the purposes of this Act be deemed to have been as validly executed as if the execution had been effected in Malaysia.
 
 <!-- page 21 -->
 
@@ -698,13 +938,57 @@ a fugitive criminal who is serving a sentence or sentences of imprisonment in re
 
 (4) Notwithstanding anything in any written law, the Minister, upon being satisfied that the requirements of subsection (2) have been met, may, by order under his hand and seal, authorise that the fugitive criminal be removed from his place of imprisonment and brought before the Sessions Court for an inquiry under section 19.
 
-Fugitive
+<!-- marginal: Fugitive -->
 
-30. (1) Where, while the fugitive criminal is in a criminal country pursuant to a warrant issued under paragraph ceases to be 2l(2)(a), he ceases to be liable to serve the sentence or liable to serve the sentence sentences of imprisonment in Malaysia, the Minister in Malaysia, shall inform that country that the undertakings referred time spent in custody in to in paragraphs 29(2)(a) and (b) are no longer required connection to be complied with. with issue of temporary surrender (2) Any time spent by the fugitive criminal in custody warrant. in connection with the warrant issued under paragraph 2l(2)(a) (including time spent in custody outside Malaysia) shall be counted as time served towards the sentence or sentences of imprisonment referred to in subsection 29(1).
+30. (1) Where, while the fugitive criminal is in a
 
-Issue of
+<!-- marginal: criminal -->
 
-31. Where— warrant by Minister.
+country pursuant to a warrant issued under paragraph
+
+<!-- marginal: ceases to be -->
+
+2l(2)(a), he ceases to be liable to serve the sentence or
+
+<!-- marginal: liable to serve -->
+
+<!-- marginal: the sentence -->
+
+sentences of imprisonment in Malaysia, the Minister
+
+<!-- marginal: in Malaysia, -->
+
+shall inform that country that the undertakings referred
+
+<!-- marginal: time spent in -->
+
+<!-- marginal: custody in -->
+
+to in paragraphs 29(2)(a) and (b) are no longer required
+
+<!-- marginal: connection -->
+
+to be complied with.
+
+<!-- marginal: with issue of -->
+
+<!-- marginal: temporary -->
+
+<!-- marginal: surrender -->
+
+(2) Any time spent by the fugitive criminal in custody
+
+<!-- marginal: warrant. -->
+
+in connection with the warrant issued under paragraph 2l(2)(a) (including time spent in custody outside Malaysia) shall be counted as time served towards the sentence or sentences of imprisonment referred to in subsection 29(1).
+
+<!-- marginal: Issue of -->
+
+31. Where—
+
+<!-- marginal: warrant by -->
+
+<!-- marginal: Minister. -->
 
 (a) a fugitive criminal is returned to a country under a temporary surrender warrant and thereafter returned to Malaysia in pursuance of the undertakings referred to in subsection 29(2); and
 
@@ -790,9 +1074,19 @@ as the case may be; or
 
 (b) be extradited by Malaysia to another country for trial or punishment for any extradition offence that is alleged to have been committed, or was committed, before the return of the person to Malaysia unless, where so required by the country that returned the person to Malaysia, that country's consent has been obtained.
 
-Persons
+<!-- marginal: Persons -->
 
-35. (1) Where a person who is serving a sentence of temporarily imprisonment in respect of an offence in any country is returned to returned by that country to Malaysia, the person— Malaysia.
+35. (1) Where a person who is serving a sentence of
+
+<!-- marginal: temporarily -->
+
+imprisonment in respect of an offence in any country is
+
+<!-- marginal: returned to -->
+
+returned by that country to Malaysia, the person—
+
+<!-- marginal: Malaysia. -->
 
 (a) shall, while travelling to and from, and while in Malaysia, be kept in custody as the Minister orders in writing and the Minister may make such an order notwithstanding anything in any written law to the contrary; and
 
@@ -810,9 +1104,21 @@ the Minister shall revoke such order.
 
 ## HABEAS CORPUS AND REVIEW
 
-Application
+<!-- marginal: Application -->
 
-36. A fugitive criminal who is committed to prison for habeas under this Act may apply to the High Court for a writ corpus. of habeas corpus in accordance with the procedure as F.M.S. Cap. 6. provided in the Criminal Procedure Code.
+36. A fugitive criminal who is committed to prison
+
+<!-- marginal: for habeas -->
+
+under this Act may apply to the High Court for a writ
+
+<!-- marginal: corpus. -->
+
+of habeas corpus in accordance with the procedure as
+
+<!-- marginal: F.M.S. Cap. 6. -->
+
+provided in the Criminal Procedure Code.
 
 <!-- page 25 -->
 
@@ -946,23 +1252,39 @@ delivered up with the fugitive criminal on his return, subject to—
 
 (2) Everything mentioned in subsection (1) may be delivered even when the extradition of the fugitive criminal cannot be effected due to his death, disappearance or escape subject to the conditions mentioned in that subsection.
 
-Forms.
+<!-- marginal: Forms. -->
 
 46. The Forms set out in the Schedule may be used in the matters to which such Forms refer.
 
-Power of
+<!-- marginal: Power of -->
 
-47. If it appears to the Minister that by reason of— Minister to discharge any
+47. If it appears to the Minister that by reason of—
 
-(a) the trivial nature of the case; or fugitive criminal in
+<!-- marginal: Minister to -->
 
-(b) the application for the return of a fugitive custody. criminal not being made in good faith or in the interests of justice or being made for political reasons.
+<!-- marginal: discharge any -->
+
+(a) the trivial nature of the case; or
+
+<!-- marginal: fugitive -->
+
+<!-- marginal: criminal in -->
+
+(b) the application for the return of a fugitive
+
+<!-- marginal: custody. -->
+
+criminal not being made in good faith or in the interests of justice or being made for political reasons.
 
 or for any other reason, it would, having regard to all the circumstances, be unjust or oppressive to return the fugitive criminal, he may, by order, at any time, stay any proceedings under this Act and direct any warrant issued or endorsed under this Act to be revoked and the person for whose arrest the warrant has been issued to be discharged.
 
-Simultaneous
+<!-- marginal: Simultaneous -->
 
-48. (1) If requisitions for the return of a fugitive requisitions criminal are received from more than one country, the Minister may, having regard to the circumstances of the case, return the fugitive criminal to such country as he thinks fit.
+48. (1) If requisitions for the return of a fugitive
+
+<!-- marginal: requisitions -->
+
+criminal are received from more than one country, the Minister may, having regard to the circumstances of the case, return the fugitive criminal to such country as he thinks fit.
 
 <!-- page 29 -->
 
@@ -1026,13 +1348,45 @@ or Tribunal in any country.
 
 (4) This section shall not apply in the case of any criminal matter of a political character.
 
-Witnesses to
+<!-- marginal: Witnesses to -->
 
-51. Any person may be compelled for the purposes of attend and section 50 to attend and give evidence and answer give evidence, etc. questions and produce documents in like manner and subject to the like conditions as he may be so compelled for the purposes of a preliminary enquiry into the case of a person accused of an offence triable by the High Court, and every such person shall in respect of all evidence and answers given by him be legally bound to state the truth.
+51. Any person may be compelled for the purposes of
 
-Taking of
+<!-- marginal: attend and -->
 
-52. (1) Where a warrant has been issued in Malaysia evidence for for the apprehension of a person and he is, or is purpose of suspected of being, in another country, the Minister may return of fugitive by order in writing authorise a Magistrate to take criminals to evidence in Malaysia for transmission to the country Malaysia. concerned for use in any proceedings in that country for the return of that person to Malaysia.
+section 50 to attend and give evidence and answer
+
+<!-- marginal: give -->
+
+<!-- marginal: evidence, etc. -->
+
+questions and produce documents in like manner and subject to the like conditions as he may be so compelled for the purposes of a preliminary enquiry into the case of a person accused of an offence triable by the High Court, and every such person shall in respect of all evidence and answers given by him be legally bound to state the truth.
+
+<!-- marginal: Taking of -->
+
+52. (1) Where a warrant has been issued in Malaysia
+
+<!-- marginal: evidence for -->
+
+for the apprehension of a person and he is, or is
+
+<!-- marginal: purpose of -->
+
+suspected of being, in another country, the Minister may
+
+<!-- marginal: return of -->
+
+<!-- marginal: fugitive -->
+
+by order in writing authorise a Magistrate to take
+
+<!-- marginal: criminals to -->
+
+evidence in Malaysia for transmission to the country
+
+<!-- marginal: Malaysia. -->
+
+concerned for use in any proceedings in that country for the return of that person to Malaysia.
 
 (2) Upon receipt of the order, the Magistrate shall—
 
@@ -1044,7 +1398,7 @@ Taking of
 
 (3) The person against whom the warrant of arrest has been issued under subsection (1) is not entitled to make any representation or cause any representation to be made in the proceeding under subsection (2).
 
-Rules.
+<!-- marginal: Rules. -->
 
 53. (1) The Minister may make rules generally for carrying this Act into effect, and, in particular and without prejudice to the generality of the foregoing, such rules may provide for—
 

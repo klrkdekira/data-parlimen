@@ -4,7 +4,7 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -12,7 +12,7 @@
 
 2. Interpretation
 
-## Part II
+## PART II
 
 ## MUFTI AND DEPUTY MUFTI
 
@@ -24,7 +24,7 @@
 
 6. Vacation of office
 
-## Part III
+## PART III
 
 ## FATWA COMMITTEE
 
@@ -34,7 +34,7 @@
 
 9. Revocation of appointment and resignation of office
 
-## Part IV
+## PART IV
 
 ## ISSUANCE OF FATWA
 
@@ -54,7 +54,7 @@
 
 16. Guide for issuing fatwa
 
-## Part V
+## PART V
 
 ## DETERMINATION OF QIBLA DIRECTION
 
@@ -62,7 +62,7 @@
 
 18. Offences
 
-## Part VI
+## PART VI
 
 ## FALAK SYARIE COMMITTEE
 
@@ -72,7 +72,7 @@
 
 21. Revocation of appointment and resignation of office
 
-## Part VII
+## PART VII
 
 ## RUKYAH HILAL COMMITTEE
 
@@ -100,7 +100,7 @@
 
 <!-- page 3 -->
 
-## Part IX
+## PART IX
 
 ## MISCELLANEOUS
 
@@ -118,11 +118,11 @@
 
 36. Power to amend Schedules
 
-## First schedule
+## FIRST SCHEDULE
 
-## second schedule
+## SECOND SCHEDULE
 
-## third schedule
+## THIRD SCHEDULE
 
 <!-- page 5 -->
 
@@ -136,7 +136,7 @@ WHEREAS Parliament may make laws regarding the government and administration of 
 
 NOW, THEREFORE, pursuant to Clause (1) of Article 74 of the Federal Constitution, IT IS ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -180,7 +180,7 @@ NOW, THEREFORE, pursuant to Clause (1) of Article 74 of the Federal Constitution
 
 ## First Schedule.
 
-## Part II
+## PART II
 
 ## MUFTI AND DEPUTY MUFTI
 
@@ -234,7 +234,7 @@ NOW, THEREFORE, pursuant to Clause (1) of Article 74 of the Federal Constitution
 
 <!-- page 9 -->
 
-## Part III
+## PART III
 
 ## FATWA COMMITTEE
 
@@ -286,7 +286,7 @@ NOW, THEREFORE, pursuant to Clause (1) of Article 74 of the Federal Constitution
 
 (2) The members of the Fatwa Committee appointed under paragraph 7(2)(g) may, at any time, resign by giving a notice in writing to the Yang di-Pertuan Agong through the Mufti.
 
-## Part IV
+## PART IV
 
 ## ISSUANCE OF FATWA
 
@@ -372,7 +372,7 @@ and the Fatwa Committee agrees with the opinion issued by the Muzakarah Committe
 
 <!-- page 14 -->
 
-## Part V
+## PART V
 
 ## DETERMINATION OF QIBLA DIRECTION
 
@@ -404,7 +404,7 @@ commits an offence and shall, on conviction, be liable to a fine not exceeding f
 
 (2) The Syariah Court shall have jurisdiction to try offences under this section.
 
-## Part VI
+## PART VI
 
 ## FALAK SYARIE COMMITTEE
 
@@ -466,7 +466,7 @@ commits an offence and shall, on conviction, be liable to a fine not exceeding f
 
 (2) The members of the Falak Syarie Committee appointed under paragraph 19(2)(i) may, at any time, resign by giving a notice in writing to the Mufti.
 
-## Part VII
+## PART VII
 
 ## RUKYAH HILAL COMMITTEE
 
@@ -600,7 +600,7 @@ commits an offence and shall, on conviction, be liable to a fine not exceeding f
 
 (6) The akidah consultant may determine his own procedure based on the guidelines as may be determined by the Mufti.
 
-## Part IX
+## PART IX
 
 ## MISCELLANEOUS
 
@@ -686,9 +686,17 @@ amend the First, Second and Third Schedules.
 
 [Subseksyen 2(2)] [Subseksyen 2(2)]
 
-## First schedule
+## FIRST SCHEDULE
 
-[Subsection 2(2)] qaul muktamad - دﻣﺗﻌﻣ لوﻗ qaul muktamad - دﻣﺗﻌﻣ لوﻗ - qaul muktamad
+[Subsection 2(2)] qaul muktamad -
+
+<!-- marginal: دﻣﺗﻌﻣ لوﻗ -->
+
+qaul muktamad -
+
+<!-- marginal: دﻣﺗﻌﻣ لوﻗ -->
+
+- qaul muktamad
 
 sighah -
 
@@ -736,13 +744,11 @@ Jawatan seseorang anggota Jawatankuasa
 
 perenggan 7(2)(a), 19(2)(i), 22(2)(f) dan 26(2)(c) hendaklah menjadi kosong jika— perenggan 7(2)(a), 19(2)(i), 22(2)(f) dan 26(2)(c) hendaklah menjadi kosong jika—
 
-dia meninggal dunia;
+dia meninggal dunia; (a) dia meninggal dunia; (a)
 
-(a) dia meninggal dunia;
+telah dibuktikan terhadapnya,
 
-(a)
-
-telah dibuktikan terhadapnya, atau
+<!-- marginal: atau -->
 
 <!-- marginal: dia -->
 
@@ -752,7 +758,9 @@ telah dibuktikan terhadapnya, atau
 
 <!-- marginal: atas -->
 
-(b) telah dibuktikan terhadapnya, atau
+(b) telah dibuktikan terhadapnya,
+
+<!-- marginal: atau -->
 
 <!-- marginal: dia -->
 
@@ -772,7 +780,7 @@ dia menjadi seorang bankrap yang belum dilepaskan; dia menjadi seorang bankrap y
 
 <!-- page 24 -->
 
-## second schedule
+## SECOND SCHEDULE
 
 [Subsections 7(5), 19(5), 22(5) and 26(4)]
 
@@ -834,7 +842,7 @@ dia menjadi seorang bankrap yang belum dilepaskan; dia menjadi seorang bankrap y
 
 <!-- page 26 -->
 
-## third schedule
+## THIRD SCHEDULE
 
 [Paragraph 23(b) dan subsection 25(1)]
 
@@ -854,7 +862,7 @@ dia menjadi seorang bankrap yang belum dilepaskan; dia menjadi seorang bankrap y
 
 The Mufti (Federal Territories) Bill 2024 (the “proposed Act”) seeks to provide for matters relating to the Mufti, the determination of matters concerning the Islamic law and doctrine and related matters.
 
-## Part I
+## PART I
 
 2. Part I of the proposed Act deals with preliminary provisions.
 
@@ -862,7 +870,7 @@ The Mufti (Federal Territories) Bill 2024 (the “proposed Act”) seeks to prov
 
 4. Clause 2 contains the definitions of certain words and expressions used in the proposed Act.
 
-## Part II
+## PART II
 
 5. Part II of the proposed Act deals with provisions relating to the Mufti and the Deputy Mufti.
 
@@ -876,7 +884,7 @@ The Mufti (Federal Territories) Bill 2024 (the “proposed Act”) seeks to prov
 
 9. Clause 6 seeks to provide for the vacation of the office of the Mufti and the Deputy Mufti.
 
-## Part III
+## PART III
 
 10. Part III of the proposed Act deals with the establishment and function of Fatwa Committee of the Federal Territories.
 
@@ -886,7 +894,7 @@ The Mufti (Federal Territories) Bill 2024 (the “proposed Act”) seeks to prov
 
 13. Clause 9 seeks to provide for the revocation of appointment and resignation of members of the Fatwa Committee.
 
-## Part IV
+## PART IV
 
 14. Part IV of the proposed Act contains provisions relating to the issuance of fatwa.
 
@@ -906,7 +914,7 @@ The Mufti (Federal Territories) Bill 2024 (the “proposed Act”) seeks to prov
 
 <!-- page 28 -->
 
-## Part V
+## PART V
 
 22. Part V of the proposed Act deals with the determination of the qibla direction, offences and penalties.
 
@@ -914,7 +922,7 @@ The Mufti (Federal Territories) Bill 2024 (the “proposed Act”) seeks to prov
 
 24. Clause 18 seeks to make it an offence for any person who issues a certificate of verification of the qibla direction without the permission of the Mufti, determines, reviews or verifies the qibla direction without the permission of the Mufti and deliberately alters the qibla direction which has been verified by the Mufti.
 
-## Part VI
+## PART VI
 
 25. Part VI of the proposed Act deals with the establishment and functions of the Falak Syarie Committee of the Federal Territories.
 
@@ -924,7 +932,7 @@ The Mufti (Federal Territories) Bill 2024 (the “proposed Act”) seeks to prov
 
 28. Clause 21 seeks to provide for the revocation of appointment and resignation of members of the Falak Syarie Committee.
 
-## Part VII
+## PART VII
 
 29. Part VII of the proposed Act deals with the establishment and function of the Rukyah Hilal Committee of the Federal Territories.
 
@@ -936,7 +944,7 @@ The Mufti (Federal Territories) Bill 2024 (the “proposed Act”) seeks to prov
 
 33. Clause 25 seeks to provide for the manner of determining the beginning of the month of Ramadan, Syawal and Zulhijah.
 
-## Part VIII
+## PART VIII
 
 34. Part VIII of the proposed Act deals with the establishment and functions of the Islamic Religious Teaching Supervision Committee of the Federal Territories and akidah consultant.
 
@@ -950,7 +958,7 @@ The Mufti (Federal Territories) Bill 2024 (the “proposed Act”) seeks to prov
 
 38. Clause 29 seeks to empower the Mufti to appoint any person who is fit and proper from among Muslims as an akidah consultant. This clause also seeks to provide for the functions of the akidah consultant.
 
-## Part IX
+## PART IX
 
 39. Part IX of the proposed Act deals with miscellaneous provisions.
 

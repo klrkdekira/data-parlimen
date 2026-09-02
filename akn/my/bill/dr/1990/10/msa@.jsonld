@@ -30,7 +30,7 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/msa@/~cl_3",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/msa@/~cl_4",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/msa@/~cl_5",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/msa@/~art_151",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/msa@/~sched_1"
       ],
       "schema:name": {
@@ -39,13 +39,38 @@
       }
     },
     {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/msa@/~art_151",
+      "@type": "akn:article",
+      "eli:number": "151",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/msa@/~art_151__cl_6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dipinda dengan menggantikan Fasal (2) dengan yang berikut: \"(2) Sesuatu lembaga penasihat yang di- tubuhkan bagi maksud-maksud Perkara hendaklah terdiri daripada seorang pengerusi, yang hendaklah dilantik oleh Yang di-Pertuan Agong dan yang menjadi atau pernah menjadi, atau yang layak menjadi, hakim Mahkamah Agung atau Mahkamah Tinggi, atau yang menjadi seorang hakim Mahkamah Besar sebelum Hari Malaysia, dan dua orang anggota lain yang hendaklah dilantik oleh Yang di-Pertuan Agong.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/msa@/~art_151__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/msa@/~art_151",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 6 Jadual Kelapan kepada Perlembagaan"
+      }
+    },
+    {
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/msa@/~cl_1",
       "@type": "akn:clause",
       "eli:number": "1",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Perlembagaan"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ini bolehlah dinamakan Akta Perlembagaan ringkas. Persekutuan (Pindaan) 1990. Pindaan"
+        "@value": "Persekutuan (Pindaan) 1990."
       }
     },
     {
@@ -53,9 +78,13 @@
       "@type": "akn:clause",
       "eli:number": "2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Perkara 48 Perlembagaan Persekutuan adalah"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Perkara 48 Perlembagaan Persekutuan adalah Perkara 48. dipinda dengan memasukkan, selepas sahaja Fasal (5), Fasal baru (6) yang berikut: \"(6) Seseorang yang meletakkan keahliannya dalam Dewan Rakyat hendaklah, bagi tempoh lima tahun bermula dari tarikh perletakan keahliannya berkuatkuasa, hilang kelayakan untuk menjadi ahli Dewan Rakyat.\". Pindaan"
+        "@value": "Perkara 48. dipinda dengan memasukkan, selepas sahaja Fasal (5), Fasal baru (6) yang berikut: \"(6) Seseorang yang meletakkan keahliannya dalam Dewan Rakyat hendaklah, bagi tempoh lima tahun bermula dari tarikh perletakan keahliannya berkuatkuasa, hilang kelayakan untuk menjadi ahli Dewan Rakyat.\"."
       }
     },
     {
@@ -63,9 +92,13 @@
       "@type": "akn:clause",
       "eli:number": "3",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Perkara 139 Perlembagaan Persekutuan adalah"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Perkara 139 Perlembagaan Persekutuan adalah Perkara 139. dipinda, dalam Fasal (4), dengan menggantikan perkataan-perkataan \"tetapi tidak lebih daripada tiga puluh orang anggota lain\" dengan perkataan-perkataan \"anggota lain; tetapi bilangan anggota lain itu tidaklah boleh, sehingga diperuntukkan selainnya melalui perintah oleh Yang di-Pertuan Agong, melebihi tiga puluh orang\"."
+        "@value": "Perkara 139. dipinda, dalam Fasal (4), dengan menggantikan perkataan-perkataan \"tetapi tidak lebih daripada tiga puluh orang anggota lain\" dengan perkataan-perkataan \"anggota lain; tetapi bilangan anggota lain itu tidaklah boleh, sehingga diperuntukkan selainnya melalui perintah oleh Yang di-Pertuan Agong, melebihi tiga puluh orang\"."
       }
     },
     {
@@ -73,9 +106,13 @@
       "@type": "akn:clause",
       "eli:number": "4",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Perkara 141A Perlembagaan Persekutuan adalah"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Perkara 141A Perlembagaan Persekutuan adalah Pindaan Perkara dipinda, dalam Fasal (2), dengan menggantikan 141A. perkataan-perkataan \"tetapi tidak lebih daripada lapan orang anggota lain\" dengan perkataan-perkataan \"anggota lain; tetapi bilangan anggota lain itu tidaklah boleh, sehingga diperuntukkan selainnya melalui perintah oleh Yang di-Pertuan Agong, melebihi lapan orang\". Pindaan"
+        "@value": "dipinda, dalam Fasal (2), dengan menggantikan 141A. perkataan-perkataan \"tetapi tidak lebih daripada lapan orang anggota lain\" dengan perkataan-perkataan \"anggota lain; tetapi bilangan anggota lain itu tidaklah boleh, sehingga diperuntukkan selainnya melalui perintah oleh Yang di-Pertuan Agong, melebihi lapan orang\"."
       }
     },
     {
@@ -83,19 +120,9 @@
       "@type": "akn:clause",
       "eli:number": "5",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/msa@",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Perkara 151 Perlembagaan Persekutuan adalah Perkara 151 dipinda dengan menggantikan Fasal (2) dengan yang berikut: \"(2) Sesuatu lembaga penasihat yang di- tubuhkan bagi maksud-maksud Perkara hendaklah terdiri daripada seorang pengerusi, yang hendaklah dilantik oleh Yang di-Pertuan Agong dan yang menjadi atau pernah menjadi, atau yang layak menjadi, hakim Mahkamah Agung atau Mahkamah Tinggi, atau yang menjadi seorang hakim Mahkamah Besar sebelum Hari Malaysia, dan dua orang anggota lain yang hendaklah dilantik oleh Yang di-Pertuan Agong.\". Pindaan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/msa@/~cl_6",
-      "@type": "akn:clause",
-      "eli:number": "6",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/msa@",
       "schema:name": {
         "@language": "ms",
-        "@value": "Seksyen 6 Jadual Kelapan kepada Perlembagaan"
+        "@value": "Perkara 151 Perlembagaan Persekutuan adalah"
       }
     },
     {
@@ -105,7 +132,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Persekutan adalah dipinda dengan memasukkan, Kelapan. selepas sahaja subseksyen (4), subseksyen baru (5) yang berikut: \"(5) Seseorang yang meletakkan keahliannya dalam Dewan Undangan Negeri ini atau mana- mana Negeri lain hendaklah, bagi tempoh lima tahun bermula dari tarikh perletakan keahlian- nya berkuatkuasa, hilang kelayakan untuk menjadi ahli Dewan Undangan Negeri ini.\"."
+        "@value": "Persekutan adalah dipinda dengan memasukkan, selepas sahaja subseksyen (4), subseksyen baru (5) yang berikut: \"(5) Seseorang yang meletakkan keahliannya dalam Dewan Undangan Negeri ini atau mana- mana Negeri lain hendaklah, bagi tempoh lima tahun bermula dari tarikh perletakan keahlian- nya berkuatkuasa, hilang kelayakan untuk menjadi ahli Dewan Undangan Negeri ini.\"."
       }
     }
   ]

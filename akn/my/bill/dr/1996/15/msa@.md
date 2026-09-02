@@ -22,7 +22,23 @@ II
 
 ## PENUBUHAN LEMBAGA
 
-3. Lembaga dan objektifnya. 4. Fungsi dan kuasa Lembaga. 5. Keanggotaan Lembaga. 6. Tempoh jawatan. 7. Anggota silih ganti. 8. Penjalanan sementara fungsi Pengerusi. 9. Pembatalan dan peletakan jawatan. 10. Pengosongan jawatan. 11. Ketakbertanggungan anggota Lembaga. 12. Akta Perlindungan Pihak Berkuasa Awam 1948. 13. Pengkhidmat awam. 14. Kuasa Menteri untuk memberikan arahan. 15. Penyata, laporan, akaun dan maklumat. 16. Pewakilan fungsi, kuasa atau kewajipan Lembaga. 17. Lembaga boleh menubuhkan jawatankuasa.
+3. Lembaga dan objektifnya. 4. Fungsi dan kuasa Lembaga. 5. Keanggotaan Lembaga. 6. Tempoh jawatan. 7. Anggota silih ganti. 8. Penjalanan sementara fungsi Pengerusi. 9. Pembatalan dan peletakan jawatan.
+
+10. Pengosongan jawatan.
+
+11. Ketakbertanggungan anggota Lembaga.
+
+12. Akta Perlindungan Pihak Berkuasa Awam 1948.
+
+13. Pengkhidmat awam.
+
+14. Kuasa Menteri untuk memberikan arahan.
+
+15. Penyata, laporan, akaun dan maklumat.
+
+16. Pewakilan fungsi, kuasa atau kewajipan Lembaga.
+
+17. Lembaga boleh menubuhkan jawatankuasa.
 
 <!-- page 2 -->
 
@@ -94,19 +110,59 @@ IV
 
 ## KUASA-KUASA DAN FUNGSI-FUNGSI LAIN LEMBAGA
 
-41. Kuasa untuk meminjam. 42. Pelaburan. 43. Kuasa untuk mengambil kerja ejen, dsb. 44. Kuasa untuk memberikan pinjaman. 45. Kuasa untuk menubuhkan perbadanan.
+41. Kuasa untuk meminjam.
+
+42. Pelaburan.
+
+43. Kuasa untuk mengambil kerja ejen, dsb.
+
+44. Kuasa untuk memberikan pinjaman.
+
+45. Kuasa untuk menubuhkan perbadanan.
 
 ## BAHAGIAN VII
 
 ## PENGUATKUASAAN
 
-46. Pemberian kuasa kepada pegawai. 47. Kuasa penyiasatan. 48. Penggeledahan dengan waran. 49. Senarai benda disita. 50. Perlucuthakan getah, dsb. yang disita. 51. Harta dalam getah, dsb. yang dilucuthak. 52. Kos memegang getah, dsb. yang disita. 53. Tiada kos atau ganti-rugi yang berbangkit daripada penyitaan boleh diperdapatkan. 54. Halangan pegawai diberikuasa.
+46. Pemberian kuasa kepada pegawai.
+
+47. Kuasa penyiasatan.
+
+48. Penggeledahan dengan waran.
+
+49. Senarai benda disita.
+
+50. Perlucuthakan getah, dsb. yang disita.
+
+51. Harta dalam getah, dsb. yang dilucuthak.
+
+52. Kos memegang getah, dsb. yang disita.
+
+53. Tiada kos atau ganti-rugi yang berbangkit daripada penyitaan boleh diperdapatkan.
+
+54. Halangan pegawai diberikuasa.
 
 ## BAHAGIAN VIII
 
 AM
 
-55. Pengawalseliaan industri getah. 56. Penalti am. 57. Pengkompaunan kesalahan. 58. Permulaan dan penjalanan pendakwaan. 59. Bidang kuasa membicarakan kesalahan. 60. Perlindungan pegawai. 61. Kuasa untuk mengecualikan. 62. Peraturan-peraturan. 63. Pengesahan perbuatan yang dilakukan dengan menjangkakan Akta.
+55. Pengawalseliaan industri getah.
+
+56. Penalti am.
+
+57. Pengkompaunan kesalahan.
+
+58. Permulaan dan penjalanan pendakwaan.
+
+59. Bidang kuasa membicarakan kesalahan.
+
+60. Perlindungan pegawai.
+
+61. Kuasa untuk mengecualikan.
+
+62. Peraturan-peraturan.
+
+63. Pengesahan perbuatan yang dilakukan dengan menjangkakan Akta.
 
 <!-- page 4 -->
 
@@ -178,7 +234,7 @@ Getah Malaysia (Perbadanan) 1996.
 
 ### Malaysia Barat, Sabah dan Sarawak.
 
-Tafsiran.
+<!-- marginal: Tafsiran. -->
 
 2. Dalam Akta ini, melainkan jika konteksnya
 
@@ -290,9 +346,13 @@ atau apa-apa kepentingan mengenainya yang terletakhak pada Lembaga, atas apa-apa
 
 (3) Peruntukan Jadual Pertama hendaklah terpakai bagi Lembaga.
 
-Fungsi dan
+<!-- marginal: Fungsi dan -->
 
-4. (1) Fungsi Lembaga adalah— kuasa Lembaga.
+4. (1) Fungsi Lembaga adalah—
+
+<!-- marginal: kuasa -->
+
+<!-- marginal: Lembaga. -->
 
 (a) untuk melaksanakan dasar dan program pembangunan untuk memastikan pembangunan industri getah Malaysia;
 
@@ -306,11 +366,7 @@ Fungsi dan
 
 (f) untuk membangunkan, memindahkan, mengeksploitasikan dan memajukan dapatan penyelidikan;
 
-(g) untuk mengadakan perkhidmatan
-
-<!-- marginal: teknikal, -->
-
-penasihat dan perunding bagi industri getah;
+(g) untuk mengadakan perkhidmatan teknikal, penasihat dan perunding bagi industri getah;
 
 (h) untuk mentadbir dan menguruskan Kumpulan Wang;
 
@@ -336,11 +392,7 @@ penasihat dan perunding bagi industri getah;
 
 (c) untuk menjalankan segala aktiviti, khususnya aktiviti-aktiviti yang bersifat komersil yang penjalanannya didapati oleh Lembaga adalah perlu, berfaedah atau sesuai bagi atau berkaitan dengan pelaksanaan fungsi-fungsinya;
 
-(d) untuk mengenakan fee atau apa-apa caj lain yang difikirkannya patut bagi penggunaan apa- apa kemudahan berhubungan
-
-<!-- marginal: dengan -->
-
-penyelidikan, penyiasatan, pengujian, nasihat teknikal atau apa-apa perkhidmatan lain yang diberikan oleh Lembaga;
+(d) untuk mengenakan fee atau apa-apa caj lain yang difikirkannya patut bagi penggunaan apa- apa kemudahan berhubungan dengan penyelidikan, penyiasatan, pengujian, nasihat teknikal atau apa-apa perkhidmatan lain yang diberikan oleh Lembaga;
 
 (e) untuk memperolehi melalui pembelian, bailmen, permohonan atau selainnya, apa-apa hak, keistimewaan atau lesen yang difikirkannya perlu bagi pelaksanaan fungsinya;
 
@@ -358,9 +410,13 @@ penyelidikan, penyiasatan, pengujian, nasihat teknikal atau apa-apa perkhidmatan
 
 (k) untuk melakukan apa-apa benda lain yang difikirkannya patut untuk membolehkannya melaksanakan fungsi dan kuasanya dengan berkesan atau yang bersampingan dengan pelaksanaan fungsinya.
 
-Keanggotaan
+<!-- marginal: Keanggotaan -->
 
-5. (1) Lembaga hendaklah terdiri daripada anggota yang Lembaga. berikut yang hendaklah dilantik oleh Menteri:
+5. (1) Lembaga hendaklah terdiri daripada anggota yang
+
+<!-- marginal: Lembaga. -->
+
+berikut yang hendaklah dilantik oleh Menteri:
 
 (a) seorang Pengerusi;
 
@@ -416,23 +472,49 @@ yang dilantik di bawah perenggan 5(1)(b) hingga (k), melantik seorang anggota si
 
 <!-- page 12 -->
 
-Penjalanan
+<!-- marginal: Penjalanan -->
 
-8. (1) Jika Pengerusi atas apa-apa sebab tidak dapat sementara melaksanakan fungsi Pengerusi atau semasa apa-apa fungsi Pengerusi. tempoh kekosongan jawatan Pengerusi, Menteri boleh melantik mana-mana anggota Lembaga selain daripada Ketua Pengarah untuk melaksanakan fungsi Pengerusi.
+8. (1) Jika Pengerusi atas apa-apa sebab tidak dapat
 
-(2) Sehingga suatu perlantikan di bawah subseksyen (1) dibuat atau jika tiada perlantikan sedemikian atau jika Pengerusi tidak hadir pada mana-mana mesyuarat Lembaga, anggota yang dilantik di bawah perenggan 5(1)(b) hendaklah melaksanakan fungsi Pengerusi.
+<!-- marginal: sementara -->
+
+melaksanakan fungsi Pengerusi atau semasa apa-apa
+
+<!-- marginal: fungsi -->
+
+<!-- marginal: Pengerusi. -->
+
+tempoh kekosongan jawatan Pengerusi, Menteri boleh melantik mana-mana anggota Lembaga selain daripada Ketua Pengarah untuk melaksanakan fungsi Pengerusi.
+
+(2) Sehingga suatu perlantikan di bawah subseksyen
+
+(1) dibuat atau jika tiada perlantikan sedemikian atau jika Pengerusi tidak hadir pada mana-mana mesyuarat Lembaga, anggota yang dilantik di bawah perenggan 5(1)(b) hendaklah melaksanakan fungsi Pengerusi.
 
 (3) Seseorang anggota yang dilantik di bawah subseksyen (1) atau (2), mengikut mana-mana yang berkenaan, hendaklah, semasa tempoh yang dalamnya dia melaksanakan fungsi Pengerusi di bawah seksyen ini disifatkan sebagai Pengerusi.
 
-Pembatalan
+<!-- marginal: Pembatalan -->
 
-9. (1) Perlantikan mana-mana anggota boleh pada bila- dan bila masa dibatalkan oleh Menteri tanpa memberikan peletakan jawatan. apa-apa sebab baginya.
+9. (1) Perlantikan mana-mana anggota boleh pada bila-
+
+<!-- marginal: dan -->
+
+bila masa dibatalkan oleh Menteri tanpa memberikan
+
+<!-- marginal: peletakan -->
+
+<!-- marginal: jawatan. -->
+
+apa-apa sebab baginya.
 
 (2) Seseorang anggota boleh pada bila-bila masa meletakkan jawatannya dengan notis bertulis yang ditujukan kepada Menteri.
 
-Pengosongan
+<!-- marginal: Pengosongan -->
 
-10. (1) Jawatan seseorang anggota Lembaga hendaklah jawatan. menjadi kosong—
+10. (1) Jawatan seseorang anggota Lembaga hendaklah
+
+<!-- marginal: jawatan. -->
+
+menjadi kosong—
 
 (a) jika dia mati;
 
@@ -506,19 +588,55 @@ pengertian Kanun Keseksaan.
 
 <!-- page 14 -->
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-14. (1) Lembaga hendaklah bertanggungjawab kepada Menteri Menteri. untuk memberikan arahan. (2) Menteri boleh memberikan arahan-arahan yang tidak tak konsisten dengan Akta ini dan Lembaga hendaklah, dengan seberapa segera yang mungkin, melaksanakan arahan sedemikian.
+14. (1) Lembaga hendaklah bertanggungjawab kepada
 
-Penyata,
+<!-- marginal: Menteri -->
 
-15. (1) Lembaga hendaklah memberi Menteri, dan mana- laporan, mana pihak berkuasa awam sebagaimana yang diarahkan akaun dan maklumat. oleh Menteri, apa-apa penyata, laporan, akaun dan maklumat mengenai harta dan aktiviti-aktivitinya sebagaimana yang dikehendaki atau diarahkan oleh Menteri.
+Menteri.
+
+<!-- marginal: untuk -->
+
+<!-- marginal: memberikan -->
+
+<!-- marginal: arahan. -->
+
+(2) Menteri boleh memberikan arahan-arahan yang tidak tak konsisten dengan Akta ini dan Lembaga hendaklah, dengan seberapa segera yang mungkin, melaksanakan arahan sedemikian.
+
+<!-- marginal: Penyata, -->
+
+15. (1) Lembaga hendaklah memberi Menteri, dan mana-
+
+<!-- marginal: laporan, -->
+
+mana pihak berkuasa awam sebagaimana yang diarahkan
+
+<!-- marginal: akaun dan -->
+
+<!-- marginal: maklumat. -->
+
+oleh Menteri, apa-apa penyata, laporan, akaun dan maklumat mengenai harta dan aktiviti-aktivitinya sebagaimana yang dikehendaki atau diarahkan oleh Menteri.
 
 (2) Tanpa menjejaskan keluasan subseksyen (1), Lembaga hendaklah, dengan seberapa segera yang praktik selepas berakhirnya setiap tahun kewangan, menyebabkan supaya dibuat dan dihantar kepada Menteri dan, jika diarahkan sedemikian oleh Menteri, kepada mana-mana pihak berkuasa awam yang lain, suatu laporan yang memperkatakan aktiviti-aktiviti Lembaga sepanjang tahun kewangan yang sebelumnya dan laporan itu hendaklah dalam apa-apa bentuk dan hendaklah mengandungi apa- apa maklumat yang berhubungan dengan presiding dan dasar Lembaga sebagaimana yang ditentukan oleh Menteri.
 
-Pewakilan
+<!-- marginal: Pewakilan -->
 
-16. (1) Lembaga boleh, tertakluk kepada apa-apa syarat, fungsi, had atau sekatan yang difikirkannya patut dikenakan, kuasa atau kewajipan mewakilkan mana-mana fungsi, kuasa atau kewajipannya, Lembaga. kecuali kuasa untuk meminjam wang, memberikan pinjaman, menubuhkan perbadanan atau membuat peraturan-peraturan, kepada—
+16. (1) Lembaga boleh, tertakluk kepada apa-apa syarat,
+
+<!-- marginal: fungsi, -->
+
+had atau sekatan yang difikirkannya patut dikenakan,
+
+<!-- marginal: kuasa atau -->
+
+<!-- marginal: kewajipan -->
+
+mewakilkan mana-mana fungsi, kuasa atau kewajipannya,
+
+<!-- marginal: Lembaga. -->
+
+kecuali kuasa untuk meminjam wang, memberikan pinjaman, menubuhkan perbadanan atau membuat peraturan-peraturan, kepada—
 
 (a) mana-mana anggota Lembaga;
 
@@ -540,7 +658,9 @@ dan mana-mana fungsi, kuasa atau kewajipan yang diwakilkan sedemikian boleh dila
 
 <!-- marginal: Lembaga -->
 
-17. (1) Lembaga boleh menubuhkan apa-apa
+17. (1) Lembaga boleh menubuhkan
+
+<!-- marginal: apa-apa -->
 
 <!-- marginal: boleh -->
 
@@ -584,9 +704,17 @@ III
 
 ## LEMBAGA
 
-Perlantikan
+<!-- marginal: Perlantikan -->
 
-18. (1) Menteri hendaklah melantik seorang Ketua Ketua Pengarah Lembaga atas apa-apa terma dan syarat yang Pengarah. ditentukan oleh Menteri.
+18. (1) Menteri hendaklah melantik seorang Ketua
+
+<!-- marginal: Ketua -->
+
+Pengarah Lembaga atas apa-apa terma dan syarat yang
+
+<!-- marginal: Pengarah. -->
+
+ditentukan oleh Menteri.
 
 (2) Lembaga hendaklah meletakhakkan pada Ketua Pengarah apa-apa kuasa dan hendaklah mengenakan ke atasnya apa-apa kewajipan yang ditentukan oleh Lembaga.
 
@@ -624,9 +752,15 @@ bagi kelulusan Lembaga;
 
 <!-- page 18 -->
 
-Perlantikan
+<!-- marginal: Perlantikan -->
 
-19. (1) Tertakluk kepada apa-apa peraturan yang dibuat pegawai dan di bawah subseksyen (3), Lembaga boleh— pengkhidmat.
+19. (1) Tertakluk kepada apa-apa peraturan yang dibuat
+
+<!-- marginal: pegawai dan -->
+
+di bawah subseksyen (3), Lembaga boleh—
+
+<!-- marginal: pengkhidmat. -->
 
 (a) dengan kelulusan Menteri, melantik sekian bilangan Timbalan Ketua Pengarah;
 
@@ -640,17 +774,51 @@ atas apa-apa terma dan syarat yang difikirkannya wajar.
 
 (4) Perlantikan Ketua Pengarah dan Timbalan Ketua Pengarah hendaklah disiarkan dalam Warta.
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-20. Lembaga boleh memberikan pinjaman dan membuat memberikan pendahuluan kepada pegawai dan pengkhidmatnya atas pinjaman dan membuat apa-apa terma dan syarat yang ditentukan oleh Lembaga. pendahuluan kepada pegawai dan pengkhidmat. Pewakilan
+20. Lembaga boleh memberikan pinjaman dan membuat
 
-21. (1) Ketua Pengarah boleh secara bertulis mewakilkan kewajipan mana-mana fungsi, kuasa atau kewajipan yang diberikan Ketua Pengarah. kepadanya di bawah Akta ini kepada mana-mana pegawai Lembaga, tertakluk kepada apa-apa terma dan syarat yang difikirkannya patut.
+<!-- marginal: memberikan -->
+
+pendahuluan kepada pegawai dan pengkhidmatnya atas
+
+<!-- marginal: pinjaman dan -->
+
+<!-- marginal: membuat -->
+
+apa-apa terma dan syarat yang ditentukan oleh Lembaga.
+
+<!-- marginal: pendahuluan -->
+
+<!-- marginal: kepada -->
+
+<!-- marginal: pegawai dan -->
+
+<!-- marginal: pengkhidmat. -->
+
+<!-- marginal: Pewakilan -->
+
+21. (1) Ketua Pengarah boleh secara bertulis mewakilkan
+
+<!-- marginal: kewajipan -->
+
+mana-mana fungsi, kuasa atau kewajipan yang diberikan
+
+<!-- marginal: Ketua -->
+
+<!-- marginal: Pengarah. -->
+
+kepadanya di bawah Akta ini kepada mana-mana pegawai Lembaga, tertakluk kepada apa-apa terma dan syarat yang difikirkannya patut.
 
 (2) Pewakilan di bawah seksyen ini tidaklah menghalang Ketua Pengarah sendiri daripada melaksanakan atau menjalankan mana-mana fungsi, kuasa atau kewajipan yang diwakilkan sedemikian pada bila-bila masa.
 
-Jawatankuasa
+<!-- marginal: Jawatankuasa -->
 
-22. (1) Lembaga hendaklah mempunyai kuasa tatatertib tatatertib. ke atas semua pegawai dan pengkhidmatnya dan hendaklah menjalankan kawalan tatatertib berkenaan dengan semua
+22. (1) Lembaga hendaklah mempunyai kuasa tatatertib
+
+<!-- marginal: tatatertib. -->
+
+ke atas semua pegawai dan pengkhidmatnya dan hendaklah menjalankan kawalan tatatertib berkenaan dengan semua
 
 <!-- page 19 -->
 
@@ -686,9 +854,21 @@ mengambil tindakan tatatertib dan mengenakan apa-apa hukuman tatatertib atau apa
 
 24.
 
-Rayuan
+<!-- marginal: Rayuan -->
 
-23. (1) Sesuatu keputusan jawatankuasa tatatertib yang terhadap ditubuhkan di bawah perenggan 22(2)(a) bolehlah dirayu keputusan jawatankuasa kepada Menteri. tatatertib.
+23. (1) Sesuatu keputusan jawatankuasa tatatertib yang
+
+<!-- marginal: terhadap -->
+
+ditubuhkan di bawah perenggan 22(2)(a) bolehlah dirayu
+
+<!-- marginal: keputusan -->
+
+<!-- marginal: jawatankuasa -->
+
+kepada Menteri.
+
+<!-- marginal: tatatertib. -->
 
 (2) Sesuatu keputusan jawatankuasa tatatertib yang ditubuhkan di bawah perenggan 22(2)(b) bolehlah dirayu kepada Lembaga Rayuan Tatatertib yang hendaklah terdiri daripada anggota yang berikut:
 
@@ -728,7 +908,11 @@ tatatertib pegawai dan pengkhidmat Lembaga.
 
 (b) boleh mengadakan peruntukan bagi hukuman tatatertib yang difikirkan sesuai oleh Lembaga, dan hukuman itu boleh meliputi amaran, denda, pelucuthakan emolumen, penangguhan pergerakan gaji, pengurangan gaji, penurunan pangkat dan buang kerja;
 
-(c) hendaklah memberikan kepada orang yang terhadapnya prosiding tatatertib itu diambil peluang membuat representasi terhadap pertuduhan tatatertib yang dibuat terhadapnya sebelum keputusan dicapai oleh jawatankuasa tatatertib kecuali dalam hal-hal yang berikut: (i) jika seseorang pegawai atau pengkhidmat Lembaga dibuang kerja atau diturunkan pangkat atas alasan kelakuan yang berkenaan dengannya suatu pertuduhan jenayah telah dibuktikan terhadapnya; (ii) jika Lembaga, atas syor Menteri yang dipertanggungkan dengan tanggungjawab bagi hal-ehwal dalam negeri, berpuas hati bahawa demi kepentingan keselamatan Malaysia atau mana-mana bahagiannya adalah tidak suaimanfaat untuk menjalankan kehendak perenggan ini; atau
+(c) hendaklah memberikan kepada orang yang terhadapnya prosiding tatatertib itu diambil peluang membuat representasi
+
+<!-- marginal: terhadap -->
+
+pertuduhan tatatertib yang dibuat terhadapnya sebelum keputusan dicapai oleh jawatankuasa tatatertib kecuali dalam hal-hal yang berikut: (i) jika seseorang pegawai atau pengkhidmat Lembaga dibuang kerja atau diturunkan pangkat atas alasan kelakuan yang berkenaan dengannya suatu pertuduhan jenayah telah dibuktikan terhadapnya; (ii) jika Lembaga, atas syor Menteri yang dipertanggungkan dengan tanggungjawab bagi hal-ehwal dalam negeri, berpuas hati bahawa demi kepentingan keselamatan Malaysia atau mana-mana bahagiannya adalah tidak suaimanfaat untuk menjalankan kehendak perenggan ini; atau
 
 (iii) jika telah dibuat terhadap seseorang pegawai atau pengkhidmat Lembaga apa- apa perintah tahanan, pengawasan, kediaman terhad, buang negeri atau deportasi, atau jika telah dikenakan
 
@@ -742,15 +926,15 @@ pengawasan dengan bon atau selainnya, di bawah mana-mana undang-undang berhubung
 
 (d) boleh mengadakan peruntukan bagi penahanan kerja dengan pengurangan emolumen pegawai atau pengkhidmat Lembaga sementara menanti selesainya prosiding jenayah terhadapnya atau presiding tatatertib terhadapnya dengan tujuan membuang kerja atau menurunkan pangkatnya; dan
 
-(e) boleh mengadakan peruntukan
+(e) boleh mengadakan peruntukan bagi penggantungan tanpa emolumen seseorang pegawai atau pengkhidmat Lembaga jika pegawai atau pengkhidmat itu telah disabitkan oleh mana- mana mahkamah jenayah atau jika suatu perintah tahanan atau sekatan telah dibuat berkenaan dengan atau dikenakan terhadap pegawai atau pengkhidmat itu.
 
-<!-- marginal: bagi -->
+<!-- marginal: Pengenaan -->
 
-penggantungan tanpa emolumen seseorang pegawai atau pengkhidmat Lembaga jika pegawai atau pengkhidmat itu telah disabitkan oleh mana- mana mahkamah jenayah atau jika suatu perintah tahanan atau sekatan telah dibuat berkenaan dengan atau dikenakan terhadap pegawai atau pengkhidmat itu.
+25. (1) Seseorang yang sedang atau pernah bekerja
 
-Pengenaan
+<!-- marginal: surcaj. -->
 
-25. (1) Seseorang yang sedang atau pernah bekerja surcaj. dengan Lembaga boleh disurcaj jika ternyata kepada Lembaga bahawa orang itu—
+dengan Lembaga boleh disurcaj jika ternyata kepada Lembaga bahawa orang itu—
 
 (a) tidak memungut apa-apa wang yang terhutang kepada Lembaga yang pemungutannya menjadi tanggungjawabnya;
 
@@ -790,9 +974,13 @@ Lembaga boleh pada bila-bila masa menarik balik apa- apa surcaj yang berkenaan d
 
 <!-- page 24 -->
 
-Mendapatkan
+<!-- marginal: Mendapatkan -->
 
-28. Amaun apa-apa surcaj yang dikenakan di bawah surcaj. subseksyen 25(3) dan tidak ditarik balik di bawah seksyen 27 hendaklah menjadi hutang yang kena dibayar kepada Lembaga daripada orang yang terhadapnya surcaj itu dikenakan dan boleh didakwa dan diperdapatkan di dalam mana-mana mahkamah atas guaman Lembaga dan boleh juga, jika diarahkan sedemikian oleh Lembaga, diperdapatkan melalui potongan—
+28. Amaun apa-apa surcaj yang dikenakan di bawah
+
+<!-- marginal: surcaj. -->
+
+subseksyen 25(3) dan tidak ditarik balik di bawah seksyen 27 hendaklah menjadi hutang yang kena dibayar kepada Lembaga daripada orang yang terhadapnya surcaj itu dikenakan dan boleh didakwa dan diperdapatkan di dalam mana-mana mahkamah atas guaman Lembaga dan boleh juga, jika diarahkan sedemikian oleh Lembaga, diperdapatkan melalui potongan—
 
 (a) daripada gaji orang yang disurcajkan; atau
 
@@ -800,9 +988,19 @@ Mendapatkan
 
 dengan ansuran bulanan yang sama banyak yang tidak melebihi satu perempat daripada jumlah gaji atau pencen bulanan, mengikut mana-mana yang berkenaan, orang itu.
 
-Keanggotaan
+<!-- marginal: Keanggotaan -->
 
-29. Dalam apa-apa tindakan surcaj terhadap Ketua Lembaga Pengarah, keanggotaan Lembaga bagi maksud seksyen dalam kes khas. 25 hingga 28 tidaklah termasuk Ketua Pengarah.
+29. Dalam apa-apa tindakan surcaj terhadap Ketua
+
+<!-- marginal: Lembaga -->
+
+Pengarah, keanggotaan Lembaga bagi maksud seksyen
+
+<!-- marginal: dalam kes -->
+
+<!-- marginal: khas. -->
+
+25 hingga 28 tidaklah termasuk Ketua Pengarah.
 
 ## BAHAGIAN
 
@@ -810,15 +1008,31 @@ IV
 
 ## PENYELIDIKAN DAN KEMAJUAN
 
-Penubuhan
+<!-- marginal: Penubuhan -->
 
-30. (1) Lembaga boleh menubuhkan dan menguruskan pusat pusat penyelidikan bagi maksud penyelidikan dalam dan penyelidikan. penyiasatan segala masalah dan perkara yang berhubungan dengan getah, keluaran getah dan industri getah.
+30. (1) Lembaga boleh menubuhkan dan menguruskan
 
-(2) Institut Penyelidikan Getah Malaysia yang Akta 407. ditubuhkan di bawah Akta Institut Penyelidikan Getah Malaysia 1966 hendaklah ditubuhkan semula, dikawal dan diuruskan sebagaimana yang diperuntukkan di bawah Akta ini dan hendaklah disifatkan sebagai suatu pusat penyelidikan yang ditubuhkan di bawah Akta ini.
+<!-- marginal: pusat -->
 
-Fungsi dan
+pusat penyelidikan bagi maksud penyelidikan dalam dan
 
-31. (1) Fungsi pusat penyelidikan adalah — kuasa pusat penyelidikan.
+<!-- marginal: penyelidikan. -->
+
+penyiasatan segala masalah dan perkara yang berhubungan dengan getah, keluaran getah dan industri getah.
+
+(2) Institut Penyelidikan Getah Malaysia yang
+
+<!-- marginal: Akta 407. -->
+
+ditubuhkan di bawah Akta Institut Penyelidikan Getah Malaysia 1966 hendaklah ditubuhkan semula, dikawal dan diuruskan sebagaimana yang diperuntukkan di bawah Akta ini dan hendaklah disifatkan sebagai suatu pusat penyelidikan yang ditubuhkan di bawah Akta ini.
+
+<!-- marginal: Fungsi dan -->
+
+31. (1) Fungsi pusat penyelidikan adalah —
+
+<!-- marginal: kuasa pusat -->
+
+<!-- marginal: penyelidikan. -->
 
 (a) untuk menjalankan aktiviti penyelidikan dan kemajuan getah; dan
 
@@ -968,19 +1182,41 @@ berhubungan dengan industri getah yang ditentukan oleh Menteri;
 
 (n) pada amnya, membayar apa-apa perbelanjaan bagi melaksanakan peruntukan-peruntukan Akta ini.
 
-Pemeliharaan
+<!-- marginal: Pemeliharaan -->
 
-36. Maka adalah menjadi kewajipan Lembaga memelihara Kumpulan Kumpulan Wang dengan melaksanakan fungsinya dan Wang. menjalankan kuasanya di bawah Akta ini dengan sedemikian cara supaya pasti bahawa jumlah hasil Lembaga cukup untuk membayar semua jumlah wang
+36. Maka adalah menjadi kewajipan Lembaga memelihara
+
+<!-- marginal: Kumpulan -->
+
+Kumpulan Wang dengan melaksanakan fungsinya dan
+
+<!-- marginal: Wang. -->
+
+menjalankan kuasanya di bawah Akta ini dengan sedemikian cara supaya pasti bahawa jumlah hasil Lembaga cukup untuk membayar semua jumlah wang
 
 <!-- marginal: yang -->
 
 dipertanggungkan sepatutnya kepada akaun hasilnya termasuk susut nilai dan bunga atas modal, dari setahun ke setahun.
 
-Ses atas
+<!-- marginal: Ses atas -->
 
-37. (1) Menteri boleh, setelah berunding dengan Menteri getah dan Kewangan, membuat perintah bagi pengenaan, pengubahan keluaran getah. atau pembatalan ses atas getah dan keluaran getah yang dikeluarkan di atau dieksport dari Malaysia dan perintah itu boleh menentukan jenis, amaun dan kadar ses itu dan cara pungutan ses itu.
+37. (1) Menteri boleh, setelah berunding dengan Menteri
 
-(2) Kecuali setakat yang diperuntukkan selainnya dalam mana-mana perintah sedemikian, ses itu hendaklah disifatkan bagi maksud pungutan dan penguatkuasaan pungutannya sebagai suatu duti kastam yang dikenakan Akta 235. di bawah Akta Kastam 1967.
+<!-- marginal: getah dan -->
+
+Kewangan, membuat perintah bagi pengenaan, pengubahan
+
+<!-- marginal: keluaran -->
+
+<!-- marginal: getah. -->
+
+atau pembatalan ses atas getah dan keluaran getah yang dikeluarkan di atau dieksport dari Malaysia dan perintah itu boleh menentukan jenis, amaun dan kadar ses itu dan cara pungutan ses itu.
+
+(2) Kecuali setakat yang diperuntukkan selainnya dalam mana-mana perintah sedemikian, ses itu hendaklah disifatkan bagi maksud pungutan dan penguatkuasaan pungutannya sebagai suatu duti kastam yang dikenakan
+
+<!-- marginal: Akta 235. -->
+
+di bawah Akta Kastam 1967.
 
 (3) Perintah yang dibuat di bawah seksyen ini boleh menetapkan amaun, kadar dan cara pungutan yang berlainan bagi jenis atau gred getah dan keluaran getah yang berlainan.
 
@@ -1028,21 +1264,39 @@ tahun hendaklah dibayar daripada Kumpulan Wang.
 
 keseluruhan atau mana-mana bahagian perbelanjaan tambahan yang termasuk dalamnya.
 
-Akta Badan
+<!-- marginal: Akta Badan -->
 
-40. Akta Badan Berkanun (Akaun dan Laporan Tahunan) Berkanun 1980 adalah terpakai bagi Lembaga dan mana-mana (Akaun dan Laporan perbadanan yang ditubuhkan di bawah Akta ini. Tahunan)
+40. Akta Badan Berkanun (Akaun dan Laporan Tahunan)
 
-1980. Akta 240
+<!-- marginal: Berkanun -->
+
+1980 adalah terpakai bagi Lembaga dan mana-mana
+
+<!-- marginal: (Akaun dan -->
+
+<!-- marginal: Laporan -->
+
+perbadanan yang ditubuhkan di bawah Akta ini.
+
+<!-- marginal: Tahunan) -->
+
+1980.
+
+<!-- marginal: Akta 240 -->
 
 ## BAHAGIAN VI
 
 ## KUASA-KUASA DAN FUNGSI-FUNGSI LAIN LEMBAGA
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-41. Lembaga boleh, dengan kelulusan Menteri setelah meminjam. berunding dengan Menteri Kewangan, meminjam, pada apa-apa kadar bunga dan bagi apa-apa tempoh dan atas apa-apa terma tentang masa dan kaedah pembayaran balik dan selainnya sebagaimana yang diluluskan oleh Menteri setelah berunding dengan Menteri Kewangan, apa-apa jumlah wang yang diperlukan oleh Lembaga bagi memenuhi mana-mana obligasinya atau bagi menunaikan mana-mana kewajipannya.
+41. Lembaga boleh, dengan kelulusan Menteri setelah
 
-Pelaburan.
+<!-- marginal: meminjam. -->
+
+berunding dengan Menteri Kewangan, meminjam, pada apa-apa kadar bunga dan bagi apa-apa tempoh dan atas apa-apa terma tentang masa dan kaedah pembayaran balik dan selainnya sebagaimana yang diluluskan oleh Menteri setelah berunding dengan Menteri Kewangan, apa-apa jumlah wang yang diperlukan oleh Lembaga bagi memenuhi mana-mana obligasinya atau bagi menunaikan mana-mana kewajipannya.
+
+<!-- marginal: Pelaburan. -->
 
 42. (1) Wang Lembaga hendaklah, setakat yang ia tidak dikehendaki untuk dibelanjakan oleh Lembaga di bawah Akta ini, dilaburkan mengikut apa-apa cara yang diluluskan oleh Menteri setelah berunding dengan Menteri Kewangan.
 
@@ -1112,13 +1366,25 @@ pangkatnya tidak rendah daripada Penolong Pegawai Penguatkuasa untuk menjalankan
 
 (2) Seseorang pegawai yang diberikuasa di bawah subseksyen (1) apabila bertindak di bawah Akta ini hendaklah, apabila diminta, mengisytiharkan jawatannya, dan mengemukakan kepada orang yang terhadapnya dia bertindak atau yang daripadanya dia menghendaki apa- apa maklumat kad kuasa yang diarahkan oleh Ketua Pengarah supaya dibawa oleh pegawai itu.
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-47. Seseorang pegawai diberikuasa hendaklah mempunyai penyiasatan. kuasa menyiasat pelakuan apa-apa kesalahan di bawah Akta ini.
+47. Seseorang pegawai diberikuasa hendaklah mempunyai
 
-Penggeledahan
+<!-- marginal: penyiasatan. -->
 
-48. (1) Jika Majistret mendapati atas maklumat bertulis dengan bersumpah dan selepas apa-apa penyiasatan yang waran. difikirkannya perlu bahawa terdapat sebab yang munasabah untuk mempercayai bahawa dalam mana-mana premis terdapat atau telah berlaku apa-apa pelanggaran Akta ini, Majistret itu boleh mengeluarkan suatu waran memberikuasa mana-mana pegawai diberikuasa yang dinamakan di dalamnya, pada bila-bila masa yang munasabah sama ada pada waktu siang atau malam dan dengan atau tanpa bantuan, memasuki premis itu, jika perlu dengan kekerasan, dan di sana—
+kuasa menyiasat pelakuan apa-apa kesalahan di bawah Akta ini.
+
+<!-- marginal: Penggeledahan -->
+
+48. (1) Jika Majistret mendapati atas maklumat bertulis
+
+<!-- marginal: dengan -->
+
+bersumpah dan selepas apa-apa penyiasatan yang
+
+<!-- marginal: waran. -->
+
+difikirkannya perlu bahawa terdapat sebab yang munasabah untuk mempercayai bahawa dalam mana-mana premis terdapat atau telah berlaku apa-apa pelanggaran Akta ini, Majistret itu boleh mengeluarkan suatu waran memberikuasa mana-mana pegawai diberikuasa yang dinamakan di dalamnya, pada bila-bila masa yang munasabah sama ada pada waktu siang atau malam dan dengan atau tanpa bantuan, memasuki premis itu, jika perlu dengan kekerasan, dan di sana—
 
 (a) menggeledah dan menyita apa-apa getah, keluaran getah, benda, buku, dokumen atau artikel lain yang dipercayai dengan munasabah membekalkan keterangan mengenai pelanggaran Akta ini;
 
@@ -1158,15 +1424,25 @@ subseksyen (2), jika apa-apa getah, keluaran getah, benda, buku, dokumen atau ar
 
 <!-- page 34 -->
 
-Perlucuthakan
+<!-- marginal: Perlucuthakan -->
 
-50. (1) Apa-apa getah, keluaran getah, benda, buku, getah, dsb. dokumen atau artikel lain yang disita pada menjalankan yang disita. mana-mana kuasa yang diberikan di bawah Akta ini boleh dilucuthak,
+50. (1) Apa-apa getah, keluaran getah, benda, buku,
+
+<!-- marginal: getah, dsb. -->
+
+dokumen atau artikel lain yang disita pada menjalankan
+
+<!-- marginal: yang disita. -->
+
+mana-mana kuasa yang diberikan di bawah Akta ini boleh dilucuthak,
 
 (2) Perintah bagi perlucuthakan atau bagi pelepasan apa-apa getah, keluaran getah, benda, buku, dokumen atau artikel lain yang disita pada menjalankan mana- mana kuasa yang diberikan di bawah Akta ini hendaklah dibuat oleh mahkamah yang di hadapannya pendakwaan berkenaannya dijalankan dan perintah bagi perlucuthakan getah, keluaran getah, benda, buku, dokumen atau artikel lain itu hendaklah dibuat jika dibuktikan dengan memuaskan hati mahkamah bahawa suatu kesalahan di bawah Akta ini telah dilakukan dan bahawa getah, keluaran getah, benda, buku, dokumen atau artikel lain itu adalah hal perkara atau telah digunakan dalam pelakuan kesalahan itu, walaupun tiada seorang pun disabitkan atas kesalahan itu.
 
 (3) Jika tidak ada pendakwaan berkenaan dengan apa- apa getah, keluaran getah, benda, buku, dokumen atau artikel lain yang disita pada menjalankan mana-mana kuasa yang diberikan di bawah Akta ini, getah, keluaran getah, benda, buku, dokumen atau artikel lain itu hendaklah diambil dan disifatkan dilucuthakkan apabila habis tempoh satu bulan kalendar dari tarikh penyampaian suatu notis ke alamat terakhir diketahui orang yang daripadanya getah, keluaran getah, benda, buku, dokumen atau artikel lain itu disita yang menyatakan bahawa tidak ada pendakwaan berkenaan dengan getah, keluaran getah, benda, buku, dokumen atau artikel lain itu, melainkan jika sebelum tarikh itu suatu tuntutan baginya dibuat mengikut cara yang dinyatakan dalam subseksyen (4), (5) dan (6).
 
-(4) Mana-mana orang yang menegaskan bahawa dia adalah pemunya getah, keluaran getah, benda, buku, dokumen atau artikel lain yang disebut dalam subseksyen (3) dan bahawa ia tidak boleh dilucuthak boleh secara sendiri atau melalui ejennya yang diberikuasa secara bertulis memberikan notis bertulis kepada pegawai diberikuasa yang memegang getah, keluaran getah, benda, buku, dokumen atau artikel lain itu bahawa dia menuntutnya.
+(4) Mana-mana orang yang menegaskan bahawa dia adalah pemunya getah, keluaran getah, benda, buku, dokumen atau artikel lain yang disebut dalam subseksyen
+
+(3) dan bahawa ia tidak boleh dilucuthak boleh secara sendiri atau melalui ejennya yang diberikuasa secara bertulis memberikan notis bertulis kepada pegawai diberikuasa yang memegang getah, keluaran getah, benda, buku, dokumen atau artikel lain itu bahawa dia menuntutnya.
 
 <!-- page 35 -->
 
@@ -1182,31 +1458,93 @@ Perlucuthakan
 
 <!-- page 36 -->
 
-Harta dalam
+<!-- marginal: Harta dalam -->
 
-51. Apa-apa getah, keluaran getah atau hasil jualannya, getah, dsb. benda, buku, dokumen atau artikel lain yang dilucuthakkan, yang dilucuthak. atau yang diambil dan disifatkan sebagai dilucuthakkan, di bawah Bahagian ini hendaklah menjadi harta Lembaga.
+51. Apa-apa getah, keluaran getah atau hasil jualannya,
 
-Kos
+<!-- marginal: getah, dsb. -->
 
-52. Jika apa-apa getah, keluaran getah, benda, buku, memegang dokumen atau artikel lain yang disita di bawah Akta ini getah, dsb. yang disita. dipegang dalam jagaan Kerajaan sementara menunggu penyelesaian apa-apa prosiding berkenaan dengan kesalahan di bawah Akta ini, kos bagi memegang benda itu dalam jagaan hendaklah, dalam hal mana-mana orang yang didapati bersalah atas sesuatu kesalahan, menjadi hutang yang kena dibayar kepada Kerajaan oleh orang itu dan hendaklah boleh diperdapatkan dengan sewajarnya.
+benda, buku, dokumen atau artikel lain yang dilucuthakkan,
 
-Tiada kos
+<!-- marginal: yang -->
 
-53. Tiada seorang pun boleh, dalam apa-apa prosiding atau ganti- di hadapan mana-mana mahkamah berkenaan dengan rugi yang berbangkit penyitaan apa-apa getah, keluaran getah, benda, buku, daripada dokumen atau artikel lain yang disita pada menjalankan penyitaan atau yang dikatakan pada menjalankan mana-mana kuasa boleh diperdapatkan. yang diberikan di bawah Akta ini, berhak kepada kos prosiding itu atau kepada apa-apa ganti-rugi atau relif lain melainkan jika penyitaan itu dibuat tanpa sebab yang munasabah.
+<!-- marginal: dilucuthak. -->
 
-Halangan
+atau yang diambil dan disifatkan sebagai dilucuthakkan, di bawah Bahagian ini hendaklah menjadi harta Lembaga.
 
-54. Mana-mana orang yang menghalang, merintangi, pegawai menyerang atau mengganggu mana-mana pegawai diberikuasa. diberikuasa dalam pelaksanaan fungsinya di bawah Akta ini adalah melakukan suatu kesalahan.
+<!-- marginal: Kos -->
+
+52. Jika apa-apa getah, keluaran getah, benda, buku,
+
+<!-- marginal: memegang -->
+
+dokumen atau artikel lain yang disita di bawah Akta ini
+
+<!-- marginal: getah, dsb. -->
+
+<!-- marginal: yang disita. -->
+
+dipegang dalam jagaan Kerajaan sementara menunggu penyelesaian apa-apa prosiding berkenaan dengan kesalahan di bawah Akta ini, kos bagi memegang benda itu dalam jagaan hendaklah, dalam hal mana-mana orang yang didapati bersalah atas sesuatu kesalahan, menjadi hutang yang kena dibayar kepada Kerajaan oleh orang itu dan hendaklah boleh diperdapatkan dengan sewajarnya.
+
+<!-- marginal: Tiada kos -->
+
+53. Tiada seorang pun boleh, dalam apa-apa prosiding
+
+<!-- marginal: atau ganti- -->
+
+di hadapan mana-mana mahkamah berkenaan dengan
+
+<!-- marginal: rugi yang -->
+
+<!-- marginal: berbangkit -->
+
+penyitaan apa-apa getah, keluaran getah, benda, buku,
+
+<!-- marginal: daripada -->
+
+dokumen atau artikel lain yang disita pada menjalankan
+
+<!-- marginal: penyitaan -->
+
+atau yang dikatakan pada menjalankan mana-mana kuasa
+
+<!-- marginal: boleh -->
+
+<!-- marginal: diperdapatkan. -->
+
+yang diberikan di bawah Akta ini, berhak kepada kos prosiding itu atau kepada apa-apa ganti-rugi atau relif lain melainkan jika penyitaan itu dibuat tanpa sebab yang munasabah.
+
+<!-- marginal: Halangan -->
+
+54. Mana-mana orang yang menghalang, merintangi,
+
+<!-- marginal: pegawai -->
+
+menyerang atau mengganggu mana-mana pegawai
+
+<!-- marginal: diberikuasa. -->
+
+diberikuasa dalam pelaksanaan fungsinya di bawah Akta ini adalah melakukan suatu kesalahan.
 
 ## BAHAGIAN VIII
 
 AM
 
-Pengawal-
+<!-- marginal: Pengawal- -->
 
-55. Industri getah Malaysia hendaklah dikawalselia seliaan mengikut peraturan-peraturan yang dibuat di bawah Akta industri getah. ini.
+55. Industri getah Malaysia hendaklah dikawalselia
 
-Penalti am.
+<!-- marginal: seliaan -->
+
+mengikut peraturan-peraturan yang dibuat di bawah Akta
+
+<!-- marginal: industri -->
+
+<!-- marginal: getah. -->
+
+ini.
+
+<!-- marginal: Penalti am. -->
 
 56. Mana-mana orang yang melakukan suatu kesalahan di bawah Akta ini yang baginya tiada penalti diperuntukkan secara nyata, apabila disabitkan, boleh dikenakan denda tidak melebihi tiga puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua- duanya.
 
@@ -1258,23 +1596,35 @@ Pertama hendaklah mempunyai bidang kuasa membicarakan apa-apa kesalahan di bawah
 
 <!-- page 38 -->
 
-Perlindungan
+<!-- marginal: Perlindungan -->
 
-60. Tiada tindakan atau pendakwaan boleh dibawa, pegawai. dimulakan atau disenggarakan dalam mana-mana mahkamah terhadap—
+60. Tiada tindakan atau pendakwaan boleh dibawa,
+
+<!-- marginal: pegawai. -->
+
+dimulakan atau disenggarakan dalam mana-mana mahkamah terhadap—
 
 (a) Ketua Pengarah, Timbalan Ketua Pengarah, atau mana-mana pegawai lain yang dilantik dengari sewajarnya di bawah Akta ini bagi atau atas atau berkenaan dengan apa-apa perbuatan yang diarahkan atau yang dilakukan bagi maksud melaksanakan Akta ini; dan
 
 (b) mana-mana orang lain bagi atau atas atau berkenaan dengan apa-apa perbuatan yang dilakukan atau dikatakan dilakukan olehnya di bawah perintah, arahan atau suruhan Ketua Pengarah, Timbalan Ketua Pengarah atau mana- mana pegawai lain yang dilantik dengan sewajarnya di bawah Akta ini jika perbuatan itu dilakukan dengan suci hati dan dengan mempercayai dengan munasabah bahawa ia perlu bagi maksud yang diniatkan dicapai olehnya.
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-61. (1) Menteri boleh melalui perintah yang disiarkan mengecualikan. dalam Warta mengecualikan mana-mana orang atau kelas orang atau apa-apa getah, keluaran getah, bahan penanaman getah atau benda lain atau kelas getah, keluaran getah, bahan penanaman getah atau benda lain, daripada sernua atau mana-mana peruntukan Akta ini.
+61. (1) Menteri boleh melalui perintah yang disiarkan
+
+<!-- marginal: mengecualikan. -->
+
+dalam Warta mengecualikan mana-mana orang atau kelas orang atau apa-apa getah, keluaran getah, bahan penanaman getah atau benda lain atau kelas getah, keluaran getah, bahan penanaman getah atau benda lain, daripada sernua atau mana-mana peruntukan Akta ini.
 
 (2) Menteri boleh mengenakan apa-apa terma dan syarat yang difikirkannya patut atas apa-apa pengecualian di bawah subseksyen (1).
 
-Peraturan-
+<!-- marginal: Peraturan- -->
 
-62. (1) Menteri boleh membuat peraturan-peraturan bagi peraturan. semua atau mana-mana maksud yang berikut:
+62. (1) Menteri boleh membuat peraturan-peraturan bagi
+
+<!-- marginal: peraturan. -->
+
+semua atau mana-mana maksud yang berikut:
 
 (a) menetapkan cara memohon lesen, perakuan, permit dan kelulusan di bawah Akta ini, butir- butir yang hendaklah dikemukakan oleh pemohon, cara melesenkan dan memperakukan, fee yang kena dibayar mengenainya, syarat atau sekatan yang hendaklah dikenakan dan borang atau borang-borang bagi lesen, perakuan, permit dan kelulusan;
 
@@ -1336,17 +1686,53 @@ IX
 
 ## PEMANSUHAN, KECUALIAN DAN PERALIHAN
 
-Pemansuhan
+<!-- marginal: Pemansuhan -->
 
-64. Akta Kumpulan Wang Penyelidikan dan Kemajuan dan Getah Malaysia 1958, Akta Institut Penyelidikan Getah pembubaran. Akta 401. Malaysia 1966, Akta Lembaga Pasaran dan Pelesen Akta 407. Getah Malaysia 1972, Akta Pengawalan Perkapalan dan Akta 84. Akta 526. Pembungkusan Getah 1949 dan Akta Pendaftaran Eksport Akta 475. Getah 1966 ("Akta dimansuhkan") adalah dimansuhkan dan Lembaga Penyelidikan dan Kemajuan Getah Malaysia, Lembaga Institut Penyelidikan Getah Malaysia dan Lembaga Pasaran dan Pelesen Getah Malaysia ("Lembaga dibubarkan") dan Institut Penyelidikan Getah Malaysia ("Institut dibubarkan") adalah dibubarkan.
+64. Akta Kumpulan Wang Penyelidikan dan Kemajuan
 
-Pemindahan
+<!-- marginal: dan -->
 
-65. Kuasa, hak, keistimewaan, liabiliti, obligasi dan kuasa, dsb. kewajipan yang sebelum tarikh ditetapkan merupakan kuasa, hak, keistimewaan, liabiliti, obligasi dan kewajipan Lembaga dibubarkan dan Institut dibubarkan hendaklah dari tarikh itu turun kepada Lembaga.
+Getah Malaysia 1958, Akta Institut Penyelidikan Getah
 
-Pemindah-
+<!-- marginal: pembubaran. -->
 
-66. (1) Segala tanah yang sebelum tarikh ditetapkan milikan terletakhak pada, atau disimpan di bawah mana-mana harta. undang-undang bertulis yang berhubungan dengan tanah bagi maksud, Lembaga dibubarkan dan Institut dibubarkan hendaklah pada tarikh itu diletakhakkan pada atau disifatkan sebagai disimpan bagi maksud Lembaga.
+<!-- marginal: Akta 401. -->
+
+Malaysia 1966, Akta Lembaga Pasaran dan Pelesen
+
+<!-- marginal: Akta 407. -->
+
+Getah Malaysia 1972, Akta Pengawalan Perkapalan dan
+
+<!-- marginal: Akta 84. -->
+
+<!-- marginal: Akta 526. -->
+
+Pembungkusan Getah 1949 dan Akta Pendaftaran Eksport
+
+<!-- marginal: Akta 475. -->
+
+Getah 1966 ("Akta dimansuhkan") adalah dimansuhkan dan Lembaga Penyelidikan dan Kemajuan Getah Malaysia, Lembaga Institut Penyelidikan Getah Malaysia dan Lembaga Pasaran dan Pelesen Getah Malaysia ("Lembaga dibubarkan") dan Institut Penyelidikan Getah Malaysia ("Institut dibubarkan") adalah dibubarkan.
+
+<!-- marginal: Pemindahan -->
+
+65. Kuasa, hak, keistimewaan, liabiliti, obligasi dan
+
+<!-- marginal: kuasa, dsb. -->
+
+kewajipan yang sebelum tarikh ditetapkan merupakan kuasa, hak, keistimewaan, liabiliti, obligasi dan kewajipan Lembaga dibubarkan dan Institut dibubarkan hendaklah dari tarikh itu turun kepada Lembaga.
+
+<!-- marginal: Pemindah- -->
+
+66. (1) Segala tanah yang sebelum tarikh ditetapkan
+
+<!-- marginal: milikan -->
+
+terletakhak pada, atau disimpan di bawah mana-mana
+
+<!-- marginal: harta. -->
+
+undang-undang bertulis yang berhubungan dengan tanah bagi maksud, Lembaga dibubarkan dan Institut dibubarkan hendaklah pada tarikh itu diletakhakkan pada atau disifatkan sebagai disimpan bagi maksud Lembaga.
 
 <!-- page 41 -->
 
@@ -1400,15 +1786,35 @@ mana-mana jawatankuasa yang dilantik di bawah Akta dimansuhkan yang memegang jaw
 
 (3) Walau apa pun seksyen 64, Lembaga dibubarkan hendaklah terus wujud bagi maksud subseksyen (2).
 
-Penerusan
+<!-- marginal: Penerusan -->
 
-70. Orang yang pada tarikh ditetapkan diambil kerja pegawai dan sebagai pegawai dan pengkhidmat Lembaga dibubarkan pengkhidmat. atau Institut dibubarkan, mengikut mana-mana yang berkenaan, di bawah Akta dimansuhkan hendaklah terus menjadi pegawai dan pengkhidmat Lembaga di bawah Akta ini seolah-olah orang itu telah dilantik di bawah subseksyen 19(1) Akta ini atas terma dan syarat yang sama bagi tempoh yang akan habis tempoh pada tarikh yang padanya perlantikannya di bawah Akta dimansuhkan sepatutnya habis tempoh.
+70. Orang yang pada tarikh ditetapkan diambil kerja
 
-Kecualian
+<!-- marginal: pegawai dan -->
 
-71. (1) Walau apa pun pemansuhan di bawah seksyen bagi 64 atau apa-apa peruntukan Akta ini yang berlawanan— perakuan, lesen dan
+sebagai pegawai dan pengkhidmat Lembaga dibubarkan
 
-(a) tiap-tiap orang yang, sebelum tarikh ditetapkan, daftar. memegang perakuan pendaftaran eksport yang sah yang dikeluarkan kepadanya di bawah Akta dimansuhkan hendaklah disifatkan sebagai didaftarkan di bawah Akta ini sebagai pengeksport sehingga tarikh habis tempoh perakuan itu dan tertakluk kepada terma dan syarat yang dikenakan di bawahnya;
+<!-- marginal: pengkhidmat. -->
+
+atau Institut dibubarkan, mengikut mana-mana yang berkenaan, di bawah Akta dimansuhkan hendaklah terus menjadi pegawai dan pengkhidmat Lembaga di bawah Akta ini seolah-olah orang itu telah dilantik di bawah subseksyen 19(1) Akta ini atas terma dan syarat yang sama bagi tempoh yang akan habis tempoh pada tarikh yang padanya perlantikannya di bawah Akta dimansuhkan sepatutnya habis tempoh.
+
+<!-- marginal: Kecualian -->
+
+71. (1) Walau apa pun pemansuhan di bawah seksyen
+
+<!-- marginal: bagi -->
+
+64 atau apa-apa peruntukan Akta ini yang berlawanan—
+
+<!-- marginal: perakuan, -->
+
+<!-- marginal: lesen dan -->
+
+(a) tiap-tiap orang yang, sebelum tarikh ditetapkan,
+
+<!-- marginal: daftar. -->
+
+memegang perakuan pendaftaran eksport yang sah yang dikeluarkan kepadanya di bawah Akta dimansuhkan hendaklah disifatkan sebagai didaftarkan di bawah Akta ini sebagai pengeksport sehingga tarikh habis tempoh perakuan itu dan tertakluk kepada terma dan syarat yang dikenakan di bawahnya;
 
 (b) tiap-tiap orang yang, sebelum tarikh ditetapkan, memegang perakuan yang sah untuk membungkus atau mengkapalkan getah untuk dieksportkan yang dikeluarkan kepadanya di bawah Akta dimansuhkan hendaklah disifatkan sebagai didaftarkan di bawah Akta ini sebagai pembungkus atau pengeksport, mengikut mana- mana yang berkenaan, sehingga tarikh habis tempoh perakuan itu dan tertakluk kepada terma dan syarat yang dikenakan di bawahnya;
 
@@ -1422,25 +1828,53 @@ mana-mana yang berkenaan, sehingga tarikh habis tempoh lesen itu dan tertakluk k
 
 (2) Tiap-tiap perakuan atau lesen yang menurut kuasanya seseorang disifatkan di bawah subseksyen (1) sebagai didaftarkan atau dilesenkan di bawah Akta ini hendaklah disifatkan sebagai dikeluarkan di bawah Akta ini; dan Lembaga boleh mengubah terma dan syarat yang dikenakan di bawah perakuan atau lesen itu bagi maksud menyelaraskannya dengan dasar Lembaga mengenai pengenaan syarat dan sekatan atas pendaftaran dan pelesenan di bawah Akta ini.
 
-(3) Peruntukan Akta ini yang berhubungan dengan pembatalan pendaftaran dan lesen hendaklah terpakai kepada semua orang yang disifatkan di bawah subseksyen (1) sebagai didaftarkan atau dilesenkan di bawah Akta ini.
+(3) Peruntukan Akta ini yang berhubungan dengan pembatalan pendaftaran dan lesen hendaklah terpakai kepada semua orang yang disifatkan di bawah subseksyen
 
-(4) Jika seseorang yang disifatkan sebagai didaftarkan atau dilesenkan di bawah Akta ini di bawah subseksyen (1) berhasrat didaftarkan atau dilesenkan di bawah Akta ini sebagai pengeksport, pembungkus, pengapal, penggred atau peniaga, mengikut mana-mana yang berkenaan, selepas habis tempoh yang baginya dia disifatkan didaftarkan atau dilesenkan di bawah Akta ini, dia boleh memohon kepada Lembaga untuk didaftarkan atau untuk diberikan lesen atau permit mengikut peraturan-peraturan yang dibuat di bawah Akta ini, walau apa pun apa-apa yang berlawanan, dan permohonannya hendaklah dibuat dan dianggap sebagai suatu permohonan baru dan bukan sebagai suatu permohonan bagi pembaharuan pendaftaran, lesen atau permit.
+(1) sebagai didaftarkan atau dilesenkan di bawah Akta ini.
+
+(4) Jika seseorang yang disifatkan sebagai didaftarkan atau dilesenkan di bawah Akta ini di bawah subseksyen
+
+(1) berhasrat didaftarkan atau dilesenkan di bawah Akta ini sebagai pengeksport, pembungkus, pengapal, penggred atau peniaga, mengikut mana-mana yang berkenaan, selepas habis tempoh yang baginya dia disifatkan didaftarkan atau dilesenkan di bawah Akta ini, dia boleh memohon kepada Lembaga untuk didaftarkan atau untuk diberikan lesen atau permit mengikut peraturan-peraturan yang dibuat di bawah Akta ini, walau apa pun apa-apa yang berlawanan, dan permohonannya hendaklah dibuat dan dianggap sebagai suatu permohonan baru dan bukan sebagai suatu permohonan bagi pembaharuan pendaftaran, lesen atau permit.
 
 <!-- page 44 -->
 
 (5) Semua daftar yang disimpan dan disenggarakan di bawah Akta dimansuhkan hendaklah disifatkan sebagai daftar yang disimpan dan disenggarakan di bawah Akta ini dan hendaklah disifatkan sebagai sebahagian daripadanya.
 
-Penerusan
+<!-- marginal: Penerusan -->
 
-72. (1) Segala permohonan, kelulusan atau keputusan, permohonan atas rayuan atau sebaliknya, yang belum diselesaikan dsb. yang belum oleh Lembaga dibubarkan atau Institut dibubarkan di selesai. bawah Akta dimansuhkan hendaklah pada tarikh ditetapkan diuruskan oleh Lembaga di bawah Akta ini.
+72. (1) Segala permohonan, kelulusan atau keputusan,
+
+<!-- marginal: permohonan -->
+
+atas rayuan atau sebaliknya, yang belum diselesaikan
+
+<!-- marginal: dsb. yang -->
+
+<!-- marginal: belum -->
+
+oleh Lembaga dibubarkan atau Institut dibubarkan di
+
+<!-- marginal: selesai. -->
+
+bawah Akta dimansuhkan hendaklah pada tarikh ditetapkan diuruskan oleh Lembaga di bawah Akta ini.
 
 (2) Segala permohonan, kelulusan atau keputusan, atas rayuan atau sebaliknya, yang belum diselesaikan oleh Menteri di bawah Akta dimansuhkan hendaklah pada tarikh ditetapkan diuruskan oleh Menteri di bawah Akta ini.
 
 (3) Segala suratcara, perakuan atau dokumen yang diserah-simpan dengan Lembaga dibubarkan atau Institut dibubarkan di bawah Akta dimansuhkan sebelum tarikh ditetapkan hendaklah pada tarikh ditetapkan diserah- simpan dengan Lembaga.
 
-Penerusan
+<!-- marginal: Penerusan -->
 
-73. (1) Tiada apa-apa pemansuhan di bawah seksyen prosiding 64 mahupun apa-apa jua yang terkandung dalam Akta ini sivil dan jenayah. boleh menjejaskan liabiliti mana-mana orang untuk didakwa atau dihukum bagi kesalahan yang dilakukan di bawah Akta dimansuhkan sebelum tarikh ditetapkan, atau apa- apa prosiding yang dibawa sebelum tarikh itu berkenaan dengan kesalahan sedemikian.
+73. (1) Tiada apa-apa pemansuhan di bawah seksyen
+
+<!-- marginal: prosiding -->
+
+64 mahupun apa-apa jua yang terkandung dalam Akta ini
+
+<!-- marginal: sivil dan -->
+
+<!-- marginal: jenayah. -->
+
+boleh menjejaskan liabiliti mana-mana orang untuk didakwa atau dihukum bagi kesalahan yang dilakukan di bawah Akta dimansuhkan sebelum tarikh ditetapkan, atau apa- apa prosiding yang dibawa sebelum tarikh itu berkenaan dengan kesalahan sedemikian.
 
 (2) Apa-apa prosiding, sama ada sivil atau jenayah, atau kausa tindakan yang belum selesai atau yang wujud sebelum tarikh ditetapkan oleh atau terhadap Lembaga dibubarkan atau Institut dibubarkan atau mana-mana orang yang bertindak bagi pihak Lembaga dibubarkan atau Institut dibubarkan boleh diteruskan atau dimulakan oleh atau terhadap Lembaga sebagaimana yang ia boleh diteruskan atau dimulakan oleh atau terhadap Lembaga dibubarkan, Institut dibubarkan atau orang sedemikian jika Akta ini tidak diperbuat.
 
@@ -1506,13 +1940,33 @@ Lembaga, pada bila-bila masa yang difikirkannya perlu atau suaimanfaat untuk ber
 
 (6) Jika atas suatu persoalan untuk ditentukan oleh Lembaga terdapat persamaan undi, Pengerusi hendaklah mempunyai undi pemutus,
 
-Elaun. 2. Anggota Lembaga hendaklah dibayar apa-apa elaun yang ditentukan oleh Menteri.
+<!-- marginal: Elaun. -->
 
-Lembaga boleh 3. (1) Lembaga boleh mengundang mana-mana orang menghadiri mengundang mesyuarat atau pertimbangtelitian Lembaga bagi maksud menasihatinya orang lain menghadiri tentang apa-apa perkara yang dibincangkan, tetapi orang itu tidaklah mesyuarat. berhak mengundi pada mesyuarat atau pertimbangtelitian itu.
+2. Anggota Lembaga hendaklah dibayar apa-apa elaun yang ditentukan oleh Menteri.
+
+<!-- marginal: Lembaga boleh -->
+
+3. (1) Lembaga boleh mengundang mana-mana orang menghadiri
+
+<!-- marginal: mengundang -->
+
+mesyuarat atau pertimbangtelitian Lembaga bagi maksud menasihatinya
+
+<!-- marginal: orang lain -->
+
+<!-- marginal: menghadiri -->
+
+tentang apa-apa perkara yang dibincangkan, tetapi orang itu tidaklah
+
+<!-- marginal: mesyuarat. -->
+
+berhak mengundi pada mesyuarat atau pertimbangtelitian itu.
 
 (2) Seseorang yang diundang di bawah subperenggan (1) boleh dibayar apa-apa fee yang ditentukan oleh Lembaga.
 
-Meterai biasa. 4. (1) Lembaga hendaklah mempunyai suatu meterai biasa yang mengandungi apa-apa peranti yang diluluskan oleh Lembaga dan meterai itu boleh dipecahkan, ditukar, diubah atau dibuat baharu sebagaimana yang difikirkan patut oleh Lembaga.
+<!-- marginal: Meterai biasa. -->
+
+4. (1) Lembaga hendaklah mempunyai suatu meterai biasa yang mengandungi apa-apa peranti yang diluluskan oleh Lembaga dan meterai itu boleh dipecahkan, ditukar, diubah atau dibuat baharu sebagaimana yang difikirkan patut oleh Lembaga.
 
 (2) Sehingga suatu meterai diadakan oleh Lembaga, suatu cap yang mengandungi perkataan "Malaysian Rubber Board" atau "Lembaga Getah Malaysia" boleh digunakan dan hendaklah disifatkan sebagai meterai biasa Lembaga.
 
@@ -1520,7 +1974,13 @@ Meterai biasa. 4. (1) Lembaga hendaklah mempunyai suatu meterai biasa yang menga
 
 (4) Meterai biasa Lembaga hendaklah diberika'n pengiktirafan rasmi dan kehakiman.
 
-Penzahiran 5. Seseorang anggota Lembaga yang, secara langsung atau secara kepentingan. tak langsung, mempunyai sendiri atau melalui pekongsinya, apa-apa kepentingan dalam mana-mana syarikat atau perusahaan yang dengannya Lembaga bercadang hendak membuat apa-apa kontrak atau yang mempunyai apa-apa kepentingan dalam mana-mana kontrak itu atau
+<!-- marginal: Penzahiran -->
+
+5. Seseorang anggota Lembaga yang, secara langsung atau secara
+
+<!-- marginal: kepentingan. -->
+
+tak langsung, mempunyai sendiri atau melalui pekongsinya, apa-apa kepentingan dalam mana-mana syarikat atau perusahaan yang dengannya Lembaga bercadang hendak membuat apa-apa kontrak atau yang mempunyai apa-apa kepentingan dalam mana-mana kontrak itu atau
 
 <!-- page 47 -->
 
@@ -1614,21 +2074,75 @@ berkenaan dengan perbadanan itu yang menentukan—
 
 (d) hubungan antara perbadanan itu dengan Lembaga dan hak pengawalan Lembaga ke atas perbadanan itu.
 
-Batasan kuasa 2. Tiada apa-apa dalam perenggan 1 boleh disifatkan memberikuasa menubuhkan Lembaga membuat peraturan-peraturan bagi apa-apa maksud atau perbadanan. tujuan yang lebih luas skopnya daripada maksud atau tujuan yang baginya Lembaga ditubuhkan atau memberi mana-mana perbadanan apa-apa hak, kewajipan, kuasa atau fungsi yang tidak termasuk dalam hak, kewajipan, kuasa atau fungsi Lembaga di bawah Akta ini.
+<!-- marginal: Batasan kuasa -->
 
-Kuatkuasa 3. Tertakluk kepada peruntukan Akta ini dan mana-mana peraturan peraturan- yang dibuat di bawah seksyen 62, apa-apa peraturan yang dibuat di peraturan. bawah perenggan 1 hendaklah mengikat perbadanan yang berkenaan dengannya peraturan-peraturan itu dibuat dan hendaklah mempunyai kuatkuasa bagi segala maksud seolah-olah peraturan-peraturan itu telah diperbuat dalam Akta ini.
+2. Tiada apa-apa dalam perenggan 1 boleh disifatkan memberikuasa
 
-Pindaan 4. Lembaga boleh pada bila-bila masa meminda, membatalkan atau peraturan- membuat tambahan kepada mana-mana peraturan yang dibuat di peraturan bawah perenggan 1 berkenaan dengan mana-mana perbadanan.
+<!-- marginal: menubuhkan -->
 
-Daftar 5. Lembaga hendaklah menyimpan suatu daftar dalam bentuk yang perbadanan ditetapkan mengenai semua perbadanan yang ditubuhkan olehnya di bawah seksyen 45 dan daftar itu, berserta dengan salinan segala peraturan yang dibuat di bawah perenggan 1 dan 4, adalah terbuka untuk pemeriksaan awam di tempat atau tempat-tempat dan pada bila-bila masa yang ditetapkan olehnya.
+Lembaga membuat peraturan-peraturan bagi apa-apa maksud atau
 
-Penggulungan. 6. (1) Lembaga boleh, dengan kelulusan Menteri, melalui perintah yang disiarkan dalam Warta, mengarahkan supaya mana-mana perbadanan yang ditubuhkan olehnya digulung dan dibubarkan.
+<!-- marginal: perbadanan. -->
+
+tujuan yang lebih luas skopnya daripada maksud atau tujuan yang baginya Lembaga ditubuhkan atau memberi mana-mana perbadanan apa-apa hak, kewajipan, kuasa atau fungsi yang tidak termasuk dalam hak, kewajipan, kuasa atau fungsi Lembaga di bawah Akta ini.
+
+<!-- marginal: Kuatkuasa -->
+
+3. Tertakluk kepada peruntukan Akta ini dan mana-mana peraturan
+
+<!-- marginal: peraturan- -->
+
+yang dibuat di bawah seksyen 62, apa-apa peraturan yang dibuat di
+
+<!-- marginal: peraturan. -->
+
+bawah perenggan 1 hendaklah mengikat perbadanan yang berkenaan dengannya peraturan-peraturan itu dibuat dan hendaklah mempunyai kuatkuasa bagi segala maksud seolah-olah peraturan-peraturan itu telah diperbuat dalam Akta ini.
+
+<!-- marginal: Pindaan -->
+
+4. Lembaga boleh pada bila-bila masa meminda, membatalkan atau
+
+<!-- marginal: peraturan- -->
+
+membuat tambahan kepada mana-mana peraturan yang dibuat di
+
+<!-- marginal: peraturan -->
+
+bawah perenggan 1 berkenaan dengan mana-mana perbadanan.
+
+<!-- marginal: Daftar -->
+
+5. Lembaga hendaklah menyimpan suatu daftar dalam bentuk yang
+
+<!-- marginal: perbadanan -->
+
+ditetapkan mengenai semua perbadanan yang ditubuhkan olehnya di bawah seksyen 45 dan daftar itu, berserta dengan salinan segala peraturan yang dibuat di bawah perenggan 1 dan 4, adalah terbuka untuk pemeriksaan awam di tempat atau tempat-tempat dan pada bila-bila masa yang ditetapkan olehnya.
+
+<!-- marginal: Penggulungan. -->
+
+6. (1) Lembaga boleh, dengan kelulusan Menteri, melalui perintah yang disiarkan dalam Warta, mengarahkan supaya mana-mana perbadanan yang ditubuhkan olehnya digulung dan dibubarkan.
 
 (2) Apabila mana-mana perbadanan dibubarkan di bawah perenggan ini, aset perbadanan itu hendaklah berpindah kepada dan terletakhak pada Lembaga setelah segala liabilitinya ditunaikan.
 
 (3) Penggulungan sesuatu perbadanan di bawah perenggan ini hendaklah dijalankan mengikut cara yang ditetapkan oleh Lembaga.
 
-Perbadanan 7. Tiap-tiap perbadanan yang ditubuhkan di bawah seksyen 45 hendaklah adalah menjadi suatu pertubuhan perbadanan dengan apa-apa nama menjadi pertubuhan yang diberikan oleh Lembaga dan hendaklah kekal turun-temurun perbadanan. dan mempunyai suatu meterai biasa dan boleh mendakwa dan didakwa atas nama itu dan, bagi maksud melaksanakan projek, skim atau perusahaan yang baginya ia telah ditubuhkan, boleh membuat kontrak, dan boleh memegang dan membuat apa-apa urusan berkenaan
+<!-- marginal: Perbadanan -->
+
+7. Tiap-tiap perbadanan yang ditubuhkan di bawah seksyen 45
+
+<!-- marginal: hendaklah -->
+
+adalah menjadi suatu pertubuhan perbadanan dengan apa-apa nama
+
+<!-- marginal: menjadi -->
+
+<!-- marginal: pertubuhan -->
+
+yang diberikan oleh Lembaga dan hendaklah kekal turun-temurun
+
+<!-- marginal: perbadanan. -->
+
+dan mempunyai suatu meterai biasa dan boleh mendakwa dan didakwa atas nama itu dan, bagi maksud melaksanakan projek, skim atau perusahaan yang baginya ia telah ditubuhkan, boleh membuat kontrak, dan boleh memegang dan membuat apa-apa urusan berkenaan
 
 <!-- page 49 -->
 

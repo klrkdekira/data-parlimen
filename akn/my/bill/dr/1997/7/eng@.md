@@ -52,29 +52,65 @@ Tenggara established under the Lembaga Kemajuan Johor Tenggara Act 1972;
 
 <!-- page 4 -->
 
-Repeal and
+<!-- marginal: Repeal and -->
 
-3. The Lembaga Kemajuan Johor Tenggara Act 1972 is dissolution. repealed and the Lembaga established thereunder is dissolved.
+3. The Lembaga Kemajuan Johor Tenggara Act 1972 is
 
-Transfer of 4, All powers, rights, privileges, duties, liabilities and powers, obligations which immediately before the appointed date rights, etc. were those of the Lembaga shall, as from that date, devolve on the Government.
+<!-- marginal: dissolution. -->
 
-Transfer of
+repealed and the Lembaga established thereunder is dissolved.
 
-5. (1) All lands which immediately before the appointed property. date were vested in the Lembaga shall, on the appointed date, vest in the Federal Lands Commissioner for the purposes of the Government.
+<!-- marginal: Transfer of -->
+
+4, All powers, rights, privileges, duties, liabilities and
+
+<!-- marginal: powers, -->
+
+obligations which immediately before the appointed date
+
+<!-- marginal: rights, etc. -->
+
+were those of the Lembaga shall, as from that date, devolve on the Government.
+
+<!-- marginal: Transfer of -->
+
+5. (1) All lands which immediately before the appointed
+
+<!-- marginal: property. -->
+
+date were vested in the Lembaga shall, on the appointed date, vest in the Federal Lands Commissioner for the purposes of the Government.
 
 (2) All properties and assets other than land which immediately before the appointed date were vested in the Lembaga or in any person on its behalf shall, on that date, vest in the Government.
 
-Transfer
+<!-- marginal: Transfer -->
 
-6. All moneys standing in, or due to be paid to, the of funds. Lembaga shall, on the appointed date, be transferred to, and vest in the Government.
+6. All moneys standing in, or due to be paid to, the
 
-Existing
+<!-- marginal: of funds. -->
 
-7. All deeds, bonds, agreements, instruments and working contracts, etc. arrangements subsisting immediately before the appointed date and affecting any of the property transferred under section 5 shall be full force and effect against or in favour of the Government and enforceable as fully and effectually as if, instead of the Lembaga or any person acting on its behalf, the Government had been named therein or had been a party thereto.
+Lembaga shall, on the appointed date, be transferred to, and vest in the Government.
 
-Continuance
+<!-- marginal: Existing -->
 
-8. (1) The repeal of the Lembaga Kemajuan Johor of criminal Tenggara Act 1972 shall not affect any person's liability and civil proceedings. to be prosecuted or punished for offences committed under the repealed Act before the appointed date, or any proceedings brought or sentence imposed before that date in respect of such offence.
+7. All deeds, bonds, agreements, instruments and working
+
+<!-- marginal: contracts, etc. -->
+
+arrangements subsisting immediately before the appointed date and affecting any of the property transferred under section 5 shall be full force and effect against or in favour of the Government and enforceable as fully and effectually as if, instead of the Lembaga or any person acting on its behalf, the Government had been named therein or had been a party thereto.
+
+<!-- marginal: Continuance -->
+
+8. (1) The repeal of the Lembaga Kemajuan Johor
+
+<!-- marginal: of criminal -->
+
+Tenggara Act 1972 shall not affect any person's liability
+
+<!-- marginal: and civil -->
+
+<!-- marginal: proceedings. -->
+
+to be prosecuted or punished for offences committed under the repealed Act before the appointed date, or any proceedings brought or sentence imposed before that date in respect of such offence.
 
 <!-- page 5 -->
 

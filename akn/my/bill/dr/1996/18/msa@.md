@@ -38,7 +38,13 @@ dengan memasukkan selepas subseksyen (1) subseksyen yang berikut:
 
 <!-- page 2 -->
 
-3. Seksyen 2 Akta ibu adalah dipinda dengan Pindaan seksyen 2. memasukkan selepas takrif "Kastam" takrif yang berikut:
+3. Seksyen 2 Akta ibu adalah dipinda dengan
+
+<!-- marginal: Pindaan -->
+
+<!-- marginal: seksyen 2. -->
+
+memasukkan selepas takrif "Kastam" takrif yang berikut:
 
 ' "Kawasan Pembangunan Bersama" mem- punyai erti yane diberikan kepadanya dalam Akta 440. seksyen 2 Akta Pihak Berkuasa Bersama Malaysia-Thailand 1990;'.
 

@@ -18,13 +18,23 @@
 
 ## COMMISSION OF MALAYSIA
 
-3. Establishment of the Commission 4. Functions and powers of the Commission 5. Members of the Commission and term of office 6. Chairman and Vice-Chairman 7. Meetings of the Commission 8. Remuneration 9. Vacation of office 10. Disqualification 11. Resignation
+3. Establishment of the Commission 4. Functions and powers of the Commission 5. Members of the Commission and term of office 6. Chairman and Vice-Chairman 7. Meetings of the Commission 8. Remuneration 9. Vacation of office
+
+10. Disqualification
+
+11. Resignation
 
 ## PART III
 
 ## POWERS OF INQUIRY OF THE COMMISSION
 
-12. Commission may inquire on own motion or on complaint 13. Procedure where infringement is not disclosed or is disclosed 14. Powers relating to inquiries 15. Evidence before the Commission
+12. Commission may inquire on own motion or on complaint
+
+13. Procedure where infringement is not disclosed or is disclosed
+
+14. Powers relating to inquiries
+
+15. Evidence before the Commission
 
 <!-- page 2 -->
 
@@ -66,9 +76,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 "Government" means the Government of Malaysia;
 
-"human rights" refers to fundamental liberties as enshrined in
-
-## Part II of the Federal Constitution;
+"human rights" refers to fundamental liberties as enshrined in Part II of the Federal Constitution;
 
 <!-- page 4 -->
 
@@ -208,7 +216,7 @@ C d) to visit places of detention in accordance with procedures as prescribed by
 
 ## PART
 
-<!-- marginal: III -->
+III
 
 ## POWERS OF INQUIRY OF THE COMMISSION
 
@@ -436,7 +444,7 @@ Clause 23 seeks to confer on the Commission disciplinary control over its office
 
 ## FINANCIAL
 
-<!-- marginal: IMPLICATIONS -->
+## IMPLICATIONS
 
 This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained.
 

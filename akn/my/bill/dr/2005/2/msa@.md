@@ -12,7 +12,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Tajuk ringkas
 
-1. Akta ini bolehlah dinamakan Akta Pelaburan Kerajaan (Pindaan) 2005.
+1. Akta ini bolehlah dinamakan Akta Pelaburan Kerajaan (Pindaan)
+
+2005.
 
 ### Pindaan tajuk panjang
 

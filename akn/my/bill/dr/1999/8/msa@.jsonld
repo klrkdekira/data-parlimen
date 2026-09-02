@@ -376,35 +376,11 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/8/msa@/~cl_9",
       "@type": "akn:clause",
       "eli:number": "9",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/8/msa@/~cl_9__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/8/msa@/~cl_9__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/8/msa@/~cl_9__subsec_2"
-      ],
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/8/msa@/~cl_9__subsec_2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/8/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan menggantikan seksyen 42 dengan seksyen yang berikut: 42. (1) Tiap-tiap notis atau dokumen lain yang dikehendaki oleh Akta ini supaya disampaikan kepada mana-mana orang boleh disampaikan—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/8/msa@/~cl_9__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/8/msa@/~cl_9",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "ke diri orang itu; atau"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/8/msa@/~cl_9__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/8/msa@/~cl_9",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dengan menghantarnya kepada orang itu melalui pos berdaftar."
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 42 dengan seksyen yang berikut: 42. (1) Tiap-tiap notis atau dokumen lain yang dikehendaki oleh Akta ini supaya disampaikan kepada mana-mana orang boleh disampaikan— (a) ke diri orang itu; atau (b) dengan menghantarnya kepada orang itu melalui pos berdaftar."
       }
     },
     {

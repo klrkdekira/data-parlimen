@@ -90,7 +90,19 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 6. Ordinan dipinda dengan memasukkan selepas seksyen 10 seksyen yang berikut:
 
-“Licensing 10a. (1) Except in relation to ports where a port of service or port authority has been established by law, the authority undertakings. for ports shall be the Director of Marine.
+<!-- marginal: “Licensing -->
+
+10a. (1) Except in relation to ports where a port
+
+<!-- marginal: of service -->
+
+<!-- marginal: or port -->
+
+authority has been established by law, the authority
+
+<!-- marginal: undertakings. -->
+
+for ports shall be the Director of Marine.
 
 (2) The Director of Marine may issue a licence to any person to provide service undertakings or port undertakings under this Ordinance.
 
@@ -180,15 +192,27 @@ provided that nothing in this subsection shall prejudice the operation of that p
 
 Registry
 
-Registrar
+<!-- marginal: Registrar -->
 
-12. (1) The Director of Marine may appoint a public and Deputy officer to be the Registrar of Ships and such number Registrar. of public officers to be the Deputy Registrar of Ships.
+12. (1) The Director of Marine may appoint a public
+
+<!-- marginal: and Deputy -->
+
+officer to be the Registrar of Ships and such number
+
+<!-- marginal: Registrar. -->
+
+of public officers to be the Deputy Registrar of Ships.
 
 (2) The Deputy Registrar of Ships shall, subject to the control of the Registrar of Ships, perform the functions of the Registrar of Ships and have all the powers of the Registrar of Ships under this Part.
 
-Functions
+<!-- marginal: Functions -->
 
-13. (1) The functions of the Registrar are— and powers of Registrar.
+13. (1) The functions of the Registrar are—
+
+<!-- marginal: and powers -->
+
+<!-- marginal: of Registrar. -->
 
 (a) to maintain the Register;
 
@@ -204,7 +228,7 @@ Functions
 
 <!-- page 8 -->
 
-Register.
+<!-- marginal: Register. -->
 
 14. (1) The Registrar shall maintain a Malaysia Ship Register and a Malaysia International Ship Register.
 
@@ -218,29 +242,51 @@ Register.
 
 (3) The Registrar shall maintain the Register in both physical or electronic form as may be determined by the Director of Marine.
 
-Rectification
+<!-- marginal: Rectification -->
 
-15. The Registrar may rectify the Register if a of Register. clerical error has occurred and sufficient evidence is produced to satisfy him that the entry is incorrect, and on making the rectification he may, if necessary, issue a new certificate of registry.
+15. The Registrar may rectify the Register if a
+
+<!-- marginal: of Register. -->
+
+clerical error has occurred and sufficient evidence is produced to satisfy him that the entry is incorrect, and on making the rectification he may, if necessary, issue a new certificate of registry.
 
 Instructions. 16. The Director of Marine may issue instructions in writing which shall be consistent with this Ordinance to the Registrar if the Director of Marine thinks necessary or expedient for the better carrying out of the provisions of this Part.
 
-Ship
+<!-- marginal: Ship -->
 
-17. The Director of Marine may establish a ship registration registration office and such number of branch offices office. of the ship registration office as he thinks necessary.
+17. The Director of Marine may establish a ship
+
+<!-- marginal: registration -->
+
+registration office and such number of branch offices
+
+<!-- marginal: office. -->
+
+of the ship registration office as he thinks necessary.
 
 Registration of Ships
 
-Ship must be
+<!-- marginal: Ship must be -->
 
-18. (1) Subject to this Ordinance or any other written registered. law, no ship shall be within Malaysian waters or the exclusive economic zone unless the ship is registered in Malaysia as a Malaysian ship or registered in any other country.
+18. (1) Subject to this Ordinance or any other written
+
+<!-- marginal: registered. -->
+
+law, no ship shall be within Malaysian waters or the exclusive economic zone unless the ship is registered in Malaysia as a Malaysian ship or registered in any other country.
 
 <!-- page 9 -->
 
 (2) The owner or master of a ship who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding two years or to both.
 
-Qualification
+<!-- marginal: Qualification -->
 
-19. A person is qualified to own a Malaysian ship— to own Malaysian ship.
+19. A person is qualified to own a Malaysian ship—
+
+<!-- marginal: to own -->
+
+<!-- marginal: Malaysian -->
+
+<!-- marginal: ship. -->
 
 (a) to be registered under the Malaysia Ship Register if the person is—
 
@@ -258,9 +304,21 @@ Qualification
 
 (c) to be registered under the Malaysia Ship Register or Malaysia International Ship Register if the person is the charterer of a ship under bareboat charter terms.
 
-Application
+<!-- marginal: Application -->
 
-20. (1) An application for registration as a Malaysian and ship under the Malaysia Ship Register or Malaysia requirements for International Ship Register— registration.
+20. (1) An application for registration as a Malaysian
+
+<!-- marginal: and -->
+
+ship under the Malaysia Ship Register or Malaysia
+
+<!-- marginal: requirements -->
+
+<!-- marginal: for -->
+
+International Ship Register—
+
+<!-- marginal: registration. -->
 
 (a) shall be made to the Registrar in the form as may be determined by the Director of Marine;
 
@@ -314,9 +372,17 @@ and the non-Malaysian citizen or body corporate shall ensure that, so long as th
 
 <!-- page 12 -->
 
-Survey and
+<!-- marginal: Survey and -->
 
-21. (1) Before the registration of a ship as a Malaysian measurement ship the owner shall cause the ship to be surveyed of ship. and measured by a Surveyor of Ships and the tonnage ascertained in accordance with any regulations made under this Part.
+21. (1) Before the registration of a ship as a Malaysian
+
+<!-- marginal: measurement -->
+
+ship the owner shall cause the ship to be surveyed
+
+<!-- marginal: of ship. -->
+
+and measured by a Surveyor of Ships and the tonnage ascertained in accordance with any regulations made under this Part.
 
 (2) The Surveyor of Ships shall grant a certificate specifying the ship’s tonnage and build and such other particulars descriptive of the identity of the ship as may be required by the Registrar.
 
@@ -342,9 +408,13 @@ Ship’s name. 22. (1) The Registrar may require that the proposed name for a sh
 
 <!-- page 13 -->
 
-Marking of
+<!-- marginal: Marking of -->
 
-23. (1) A ship shall, before it is registered, be marked ship. permanently and conspicuously to the satisfaction of the Registrar in accordance with any regulations made under this Part.
+23. (1) A ship shall, before it is registered, be marked
+
+<!-- marginal: ship. -->
+
+permanently and conspicuously to the satisfaction of the Registrar in accordance with any regulations made under this Part.
 
 (2) The markings on a ship shall be permanently maintained, and no alteration shall be made to them except where any of the particulars denoted by the markings are altered in the manner as provided in the regulations made under this Part.
 
@@ -364,13 +434,39 @@ any marking required by this section or the regulations made under this Part com
 
 <!-- page 14 -->
 
-Additional
+<!-- marginal: Additional -->
 
-24. Upon receipt of an application for registration of information a ship as a Malaysian ship, the Registrar may and documents require the applicant to furnish additional information and inspection or documents relating to the ship and the Registrar of ship. may go on board the ship to inspect the ship and any documents relating to the ship.
+24. Upon receipt of an application for registration of
 
-Registration
+<!-- marginal: information -->
 
-25. (1) If the Registrar is satisfied that the requirements and refusal relating to registration of a ship as a Malaysian ship to register. have been fulfilled, the Registrar shall register the ship and enter the particulars in the Malaysia Ship Register or Malaysia International Ship Register, as the case may be.
+a ship as a Malaysian ship, the Registrar may
+
+<!-- marginal: and -->
+
+<!-- marginal: documents -->
+
+require the applicant to furnish additional information
+
+<!-- marginal: and inspection -->
+
+or documents relating to the ship and the Registrar
+
+<!-- marginal: of ship. -->
+
+may go on board the ship to inspect the ship and any documents relating to the ship.
+
+<!-- marginal: Registration -->
+
+25. (1) If the Registrar is satisfied that the requirements
+
+<!-- marginal: and refusal -->
+
+relating to registration of a ship as a Malaysian ship
+
+<!-- marginal: to register. -->
+
+have been fulfilled, the Registrar shall register the ship and enter the particulars in the Malaysia Ship Register or Malaysia International Ship Register, as the case may be.
 
 (2) Notwithstanding subsection (1), the Registrar shall not—
 
@@ -382,23 +478,35 @@ Registration
 
 (4) If the Registrar refuses to register a ship as a Malaysian ship, he shall serve a notice on the applicant within fourteen working days from the date of application stating the refusal and the grounds of such refusal.
 
-Provisional
+<!-- marginal: Provisional -->
 
-26. (1) Notwithstanding subsection 25(3), the registration. Registrar may, subject to conditions and restrictions as may be determined by the Director of Marine, provisionally register a ship as a Malaysian ship and issue a provisional certificate of registry.
+26. (1) Notwithstanding subsection 25(3), the
+
+<!-- marginal: registration. -->
+
+Registrar may, subject to conditions and restrictions as may be determined by the Director of Marine, provisionally register a ship as a Malaysian ship and issue a provisional certificate of registry.
 
 <!-- page 15 -->
 
 (2) A provisional certificate of registry issued by the Registrar shall have the same effect as a certificate of registry and the provisions of this Part relating to certificate of registry shall apply to the provisional certificate of registry.
 
-Prohibition of
+<!-- marginal: Prohibition of -->
 
-27. (1) Notwithstanding subsections 25(1) and 26(1), registration. the Minister may, by a certificate issued to the Registrar, prohibit the registration of a ship as a Malaysian ship under this Part if he is satisfied that such registration will be prejudicial to the national interest.
+27. (1) Notwithstanding subsections 25(1) and 26(1),
+
+<!-- marginal: registration. -->
+
+the Minister may, by a certificate issued to the Registrar, prohibit the registration of a ship as a Malaysian ship under this Part if he is satisfied that such registration will be prejudicial to the national interest.
 
 (2) The certificate issued under subsection (1) shall be admissible in evidence and shall constitute prima facie proof of the facts set out in the certificate without proof of the signature of the Minister to such certificate.
 
-Certificate of
+<!-- marginal: Certificate of -->
 
-28. (1) Upon registration of a ship as a Malaysian registry. ship, the Registrar shall, on payment of the prescribed registration fee, annual tonnage fee and any other fee, issue a certificate of registry or, in the case of a bareboat chartered-in ship, a certificate of bareboat charter registry.
+28. (1) Upon registration of a ship as a Malaysian
+
+<!-- marginal: registry. -->
+
+ship, the Registrar shall, on payment of the prescribed registration fee, annual tonnage fee and any other fee, issue a certificate of registry or, in the case of a bareboat chartered-in ship, a certificate of bareboat charter registry.
 
 (2) A certificate of registry shall be valid for a period as may be determined by the Registrar and may be renewed.
 
@@ -410,37 +518,79 @@ Certificate of
 
 <!-- page 16 -->
 
-Duty to
+<!-- marginal: Duty to -->
 
-29. (1) The master or owner of a ship which has inform change been registered as a Malaysian ship shall inform the of particulars after Registrar of any changes to the particulars relating registration. to the ship to be updated in the Register.
+29. (1) The master or owner of a ship which has
+
+<!-- marginal: inform change -->
+
+been registered as a Malaysian ship shall inform the
+
+<!-- marginal: of particulars -->
+
+<!-- marginal: after -->
+
+Registrar of any changes to the particulars relating
+
+<!-- marginal: registration. -->
+
+to the ship to be updated in the Register.
 
 (2) The master or owner of a Malaysian ship who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding two years or to both.
 
-Custody of
+<!-- marginal: Custody of -->
 
-30. (1) A certificate of registry shall be used only certificate of for the lawful navigation of a ship, and shall not be registry. subject to detention to secure any civil right or claim.
+30. (1) A certificate of registry shall be used only
+
+<!-- marginal: certificate of -->
+
+for the lawful navigation of a ship, and shall not be
+
+<!-- marginal: registry. -->
+
+subject to detention to secure any civil right or claim.
 
 (2) Where any person, whether interested in the ship or not, refuses on request to deliver up the certificate of registry when in his possession or under his control to the person entitled to the custody of the certificate for the purposes of the lawful navigation of the ship, or to the Registrar, any authorized officer, officer of customs, or other person entitled by law to require such delivery, any Magistrate may summon the person so refusing to appear before him, and to be summarily examined before him, unless it is proved to the satisfaction of the Magistrate that there was reasonable cause for such refusal, that person commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding two years or to both.
 
-Issuance
+<!-- marginal: Issuance -->
 
-31. (1) The Registrar may, on payment of prescribed of new fee, issue a new certificate of registry in lieu of the certificate of registry. original if the certificate of registry is mislaid, lost, defaced or destroyed.
+31. (1) The Registrar may, on payment of prescribed
+
+<!-- marginal: of new -->
+
+fee, issue a new certificate of registry in lieu of the
+
+<!-- marginal: certificate of -->
+
+<!-- marginal: registry. -->
+
+original if the certificate of registry is mislaid, lost, defaced or destroyed.
 
 (2) If a new certificate of registry is issued under subsection (1), the original certificate of registry shall be deemed to have been revoked.
 
 <!-- page 17 -->
 
-Suspension of
+<!-- marginal: Suspension of -->
 
-32. The Registrar may suspend the registration of a registration. Malaysian ship—
+32. The Registrar may suspend the registration of a
+
+<!-- marginal: registration. -->
+
+Malaysian ship—
 
 (a) on the application of the owner; or
 
 (b) if the ship is taken in war or hostilities, as a result of which the owner or bareboat charterer has lost control over the operation of the ship.
 
-Termination
+<!-- marginal: Termination -->
 
-33. The Registrar may terminate the registration of of a Malaysian ship— registration.
+33. The Registrar may terminate the registration of
+
+<!-- marginal: of -->
+
+a Malaysian ship—
+
+<!-- marginal: registration. -->
 
 (a) on the application of the owner;
 
@@ -454,11 +604,7 @@ Termination
 
 (iii) the primary registry in respect of the ship is closed or annulled; or
 
-(iv) the consent
-
-<!-- marginal: referred -->
-
-<!-- marginal: t o -->
+(iv) the consent referred t o
 
 <!-- marginal: i n -->
 
@@ -482,9 +628,13 @@ paragraph 20(5)(c) is revoked or withdrawn;
 
 (h) if a representative person ceases to be appointed in relation to the ship.
 
-Deletion from
+<!-- marginal: Deletion from -->
 
-34. (1) The Registrar may delete a Malaysian ship Register. from the Register—
+34. (1) The Registrar may delete a Malaysian ship
+
+<!-- marginal: Register. -->
+
+from the Register—
 
 (a) on an application by the owner; or
 
@@ -492,9 +642,15 @@ Deletion from
 
 (2) If an encumbrance has been registered on the ship, the Registrar shall notify the circumstances of the case to the holder of the rights, and the deletion from the Register shall not affect the encumbrance whatsoever and all its priorities shall remain.
 
-Revocation
+<!-- marginal: Revocation -->
 
-35. (1) The Registrar may revoke a certificate of of certificate registry of a Malaysian ship— of registry.
+35. (1) The Registrar may revoke a certificate of
+
+<!-- marginal: of certificate -->
+
+registry of a Malaysian ship—
+
+<!-- marginal: of registry. -->
 
 (a) when the registration of the ship is suspended; or
 
@@ -508,19 +664,59 @@ Revocation
 
 (4) An owner or master who fails to surrender the certificate of registry or continues to use the certificate of registry upon its revocation, commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding two years or to both.
 
-Notice of
+<!-- marginal: Notice of -->
 
-36. Where a bareboat chartered ship is registered or registration, suspension where its registration is terminated or suspended, the and Director of Marine shall notify the authority in the revocation to primary country of primary registry, of the particulars of the registry. registration, termination or suspension.
+36. Where a bareboat chartered ship is registered or
 
-Rights of
+<!-- marginal: registration, -->
 
-37. (1) Subject to any rights appearing in the Register owner of Malaysian to be vested in any person, the owner of a Malaysian ship. ship has the right to dispose of the ship and give effectual receipts for any money paid or advanced by way of consideration in respect of the disposal.
+<!-- marginal: suspension -->
+
+where its registration is terminated or suspended, the
+
+<!-- marginal: and -->
+
+Director of Marine shall notify the authority in the
+
+<!-- marginal: revocation -->
+
+<!-- marginal: to primary -->
+
+country of primary registry, of the particulars of the
+
+<!-- marginal: registry. -->
+
+registration, termination or suspension.
+
+<!-- marginal: Rights of -->
+
+37. (1) Subject to any rights appearing in the Register
+
+<!-- marginal: owner of -->
+
+<!-- marginal: Malaysian -->
+
+to be vested in any person, the owner of a Malaysian
+
+<!-- marginal: ship. -->
+
+ship has the right to dispose of the ship and give effectual receipts for any money paid or advanced by way of consideration in respect of the disposal.
 
 (2) Notwithstanding subsection (1), any interests arising under contract or other equitable interests may be enforced by or against the owners and mortgagees of ships in respect of their interest in the ship in the same manner as in respect of any personal property.
 
-Malaysian
+<!-- marginal: Malaysian -->
 
-38. (1) The Registrar may, subject to such conditions ship on as may be determined by the Director of Marine, give bareboat chartered-out. consent to the owner of a Malaysian ship to register the ship as a bareboat charter in another country, where such ship shall be referred to as a “bareboat chartered-out ship”.
+38. (1) The Registrar may, subject to such conditions
+
+<!-- marginal: ship on -->
+
+as may be determined by the Director of Marine, give
+
+<!-- marginal: bareboat -->
+
+<!-- marginal: chartered-out. -->
+
+consent to the owner of a Malaysian ship to register the ship as a bareboat charter in another country, where such ship shall be referred to as a “bareboat chartered-out ship”.
 
 (2) Notwithstanding subsection (1), the Minister may disallow any Malaysian ship to be bareboat chartered-out for any reason and duration as he thinks fit.
 
@@ -532,9 +728,15 @@ Malaysian
 
 Transfers, transmission and mortgage
 
-Transfer of
+<!-- marginal: Transfer of -->
 
-39. (1) Any transfer of a registered Malaysian ship Malaysian or share therein shall be effected by a bill of sale. ship.
+39. (1) Any transfer of a registered Malaysian ship
+
+<!-- marginal: Malaysian -->
+
+or share therein shall be effected by a bill of sale.
+
+<!-- marginal: ship. -->
 
 (2) Where any registered Malaysian ship or a share therein has been transferred in accordance with subsection (1), the transferee shall not be registered as owner of the ship unless—
 
@@ -544,9 +746,19 @@ Transfer of
 
 (3) Where an application under subsection (2) is granted by the Registrar, he shall register the bill of sale.
 
-Transmission
+<!-- marginal: Transmission -->
 
-40. (1) Where the shares in a registered ship is of shares in transmitted to any person by any lawful means other Malaysian ship. than the transfer under section 39, that person shall not be registered as the owner of the ship unless—
+40. (1) Where the shares in a registered ship is
+
+<!-- marginal: of shares in -->
+
+transmitted to any person by any lawful means other
+
+<!-- marginal: Malaysian -->
+
+<!-- marginal: ship. -->
+
+than the transfer under section 39, that person shall not be registered as the owner of the ship unless—
 
 (a) he has made an application to the Registrar; and
 
@@ -556,9 +768,23 @@ Transmission
 
 <!-- page 21 -->
 
-Transmission
+<!-- marginal: Transmission -->
 
-41. (1) Where shares in a registered ship are of shares in registered transmitted to any person by any lawful means other ship by order than a transfer under section 39, but as a result of of Court. which the ship is no longer owned by a person who is qualified to own a Malaysian ship, the Court may, on application by or on behalf of that person, order the sale of the shares so transmitted and direct that the proceeds of sale after deducting the expenses of the sale shall be paid to that person or otherwise as the Court may direct.
+41. (1) Where shares in a registered ship are
+
+<!-- marginal: of shares in -->
+
+<!-- marginal: registered -->
+
+transmitted to any person by any lawful means other
+
+<!-- marginal: ship by order -->
+
+than a transfer under section 39, but as a result of
+
+<!-- marginal: of Court. -->
+
+which the ship is no longer owned by a person who is qualified to own a Malaysian ship, the Court may, on application by or on behalf of that person, order the sale of the shares so transmitted and direct that the proceeds of sale after deducting the expenses of the sale shall be paid to that person or otherwise as the Court may direct.
 
 (2) The Court may require any evidence in support of the application as it thinks fit, and may make the order for sale on any terms and conditions it thinks just, or may refuse to make the order and generally may act as it thinks fit.
 
@@ -566,9 +792,19 @@ Transmission
 
 (4) The shares transmitted under subsection (1) shall be liable to forfeiture if such an application is not made within the time allowed by or under subsection (3) or the Court refuses an order for sale under subsection (2).
 
-Court order
+<!-- marginal: Court order -->
 
-42. (1) Where the Court, whether in pursuance of on the sale section 41 or otherwise, orders the sale of a ship or of registered ship. shares in the ship, the order of the Court shall contain a declaration vesting in some named person the right to transfer the property in the ship.
+42. (1) Where the Court, whether in pursuance of
+
+<!-- marginal: on the sale -->
+
+section 41 or otherwise, orders the sale of a ship or
+
+<!-- marginal: of registered -->
+
+<!-- marginal: ship. -->
+
+shares in the ship, the order of the Court shall contain a declaration vesting in some named person the right to transfer the property in the ship.
 
 (2) The person so named shall be entitled to transfer the property in the ship in the same manner and to the same extent as if he were the registered owner of the ship.
 
@@ -576,71 +812,155 @@ Court order
 
 (3) The Registrar shall deal with any application relating to the transfer of the property in the ship made by the person so named as if that person were the registered owner of the ship.
 
-The Court
+<!-- marginal: The Court -->
 
-43. The Court may, if it thinks fit and without may prohibit dealing with prejudice to the exercise of any other power, on the registered application of any interested person make an order ship. prohibiting for a specified time any dealing with a registered ship.
+43. The Court may, if it thinks fit and without
 
-Mortgage of
+<!-- marginal: may prohibit -->
 
-44. (1) A registered ship, other than a bareboat registered ship. chartered-in ship, may be made a security for the repayment of a loan or the discharge of any other obligation.
+<!-- marginal: dealing with -->
+
+prejudice to the exercise of any other power, on the
+
+<!-- marginal: registered -->
+
+application of any interested person make an order
+
+<!-- marginal: ship. -->
+
+prohibiting for a specified time any dealing with a registered ship.
+
+<!-- marginal: Mortgage of -->
+
+44. (1) A registered ship, other than a bareboat
+
+<!-- marginal: registered -->
+
+<!-- marginal: ship. -->
+
+chartered-in ship, may be made a security for the repayment of a loan or the discharge of any other obligation.
 
 (2) The instrument creating any such security referred to in this Part as a mortgage shall be in the form as may be determined by the Director of Marine.
 
 (3) Where a mortgage executed in accordance with subsection (2) is produced to the Registrar, he shall register the mortgage in the order in which it is produced to the Registrar for the purpose of registration.
 
-Priority of
+<!-- marginal: Priority of -->
 
-45. Where two or more mortgages are registered in registered mortgages. respect of the same ship, the priority of the mortgagees between themselves shall be determined by the order in which the mortgages were registered and not by reference to any other matter.
+45. Where two or more mortgages are registered in
 
-Registered
+<!-- marginal: registered -->
 
-46. (1) Subject to subsection (2), every registered mortgagee’s power of sale. mortgagee shall have power, if the mortgage money or any part of it is due, to sell the ship and to give effectual receipts for the purchase money.
+<!-- marginal: mortgages. -->
+
+respect of the same ship, the priority of the mortgagees between themselves shall be determined by the order in which the mortgages were registered and not by reference to any other matter.
+
+<!-- marginal: Registered -->
+
+46. (1) Subject to subsection (2), every registered
+
+<!-- marginal: mortgagee’s -->
+
+<!-- marginal: power of sale. -->
+
+mortgagee shall have power, if the mortgage money or any part of it is due, to sell the ship and to give effectual receipts for the purchase money.
 
 (2) Where two or more mortgagees are registered in respect of the same ship, a subsequent mortgagee shall not, except under an order of the Court, sell the ship without the concurrence of every prior mortgagee.
 
 <!-- page 23 -->
 
-Assignment
+<!-- marginal: Assignment -->
 
-47. (1) A registered mortgage of a ship or share may of registered be assigned to any person and the deed affecting the mortgage or share. assignment shall be in the form as may be determined by the Director of Marine.
+47. (1) A registered mortgage of a ship or share may
+
+<!-- marginal: of registered -->
+
+be assigned to any person and the deed affecting the
+
+<!-- marginal: mortgage or -->
+
+<!-- marginal: share. -->
+
+assignment shall be in the form as may be determined by the Director of Marine.
 
 (2) On production of the deed of assignment to the Registrar, he shall record in the Register the name of the assignee of the mortgage and certify the entry on the deed of assignment.
 
 (3) The assignee shall have the same right of preference as the assignor.
 
-Protection
+<!-- marginal: Protection -->
 
-48. Where a ship is subject to a registered mortgage— of registered mortgagors.
+48. Where a ship is subject to a registered mortgage—
+
+<!-- marginal: of registered -->
+
+<!-- marginal: mortgagors. -->
 
 (a) except so far as may be necessary for making the ship available as a security for the mortgage debt, the mortgagee shall not by reason of the mortgage be treated as owner of the ship; and
 
 (b) the mortgagor shall be treated as not having ceased to be owner of the ship.
 
-Transmission
+<!-- marginal: Transmission -->
 
-49. Where the interest of a mortgagee in a registered of mortgage mortgage is transmitted to any person by any lawful by operation of law. means other than by an assignment under section 47, the Registrar shall on production of the evidence to the satisfaction of the Registrar, cause the name of that person to be entered in the Register as mortgagee of that ship.
+49. Where the interest of a mortgagee in a registered
 
-Discharge
+<!-- marginal: of mortgage -->
 
-50. Where a registered mortgage has been discharged, of registered the Registrar shall, on production of the mortgage deed mortgage. and such evidence of the discharge of the mortgage, cause an entry to be made in the Register to the effect that the mortgage has been discharged.
+mortgage is transmitted to any person by any lawful
 
-Protection of
+<!-- marginal: by operation -->
 
-51. Where the registration of any ship has been undischarged terminated under this Ordinance, the termination of mortgage. that registration shall not affect any entry made in the Register so far as relating to any undischarged mortgage of that ship or of any share in it.
+<!-- marginal: of law. -->
+
+means other than by an assignment under section 47, the Registrar shall on production of the evidence to the satisfaction of the Registrar, cause the name of that person to be entered in the Register as mortgagee of that ship.
+
+<!-- marginal: Discharge -->
+
+50. Where a registered mortgage has been discharged,
+
+<!-- marginal: of registered -->
+
+the Registrar shall, on production of the mortgage deed
+
+<!-- marginal: mortgage. -->
+
+and such evidence of the discharge of the mortgage, cause an entry to be made in the Register to the effect that the mortgage has been discharged.
+
+<!-- marginal: Protection of -->
+
+51. Where the registration of any ship has been
+
+<!-- marginal: undischarged -->
+
+terminated under this Ordinance, the termination of
+
+<!-- marginal: mortgage. -->
+
+that registration shall not affect any entry made in the Register so far as relating to any undischarged mortgage of that ship or of any share in it.
 
 <!-- page 24 -->
 
-Mortgage not
+<!-- marginal: Mortgage not -->
 
-52. A registered mortgage of a ship or share in affected by a ship shall not be affected by the mortgagor having bankruptcy. been adjudicated bankrupt after the date of registration of the mortgage, notwithstanding the ship or share is in the possession of the mortgagor at the date of adjudication and the mortgagee shall have preference over any rights, claim or interest in the ship or share of any creditor, trustee or assignee.
+52. A registered mortgage of a ship or share in
 
-Non-
+<!-- marginal: affected by -->
 
-53. Sections 39 to 52 shall not apply to a bareboat application. chartered-in ship and any matters or questions corresponding to those for which the provisions apply shall be determined by reference to the law of the country of primary registry.
+a ship shall not be affected by the mortgagor having
+
+<!-- marginal: bankruptcy. -->
+
+been adjudicated bankrupt after the date of registration of the mortgage, notwithstanding the ship or share is in the possession of the mortgagor at the date of adjudication and the mortgagee shall have preference over any rights, claim or interest in the ship or share of any creditor, trustee or assignee.
+
+<!-- marginal: Non- -->
+
+53. Sections 39 to 52 shall not apply to a bareboat
+
+<!-- marginal: application. -->
+
+chartered-in ship and any matters or questions corresponding to those for which the provisions apply shall be determined by reference to the law of the country of primary registry.
 
 Licensing of ships
 
-Licensing.
+<!-- marginal: Licensing. -->
 
 54. (1) Except for a ship exempted under section 55, any ship below fifteen net tonnage in any part of Malaysian waters for any of the following purposes:
 
@@ -680,9 +1000,15 @@ shall obtain a licence under this Part.
 
 (k) port services.
 
-Exemption
+<!-- marginal: Exemption -->
 
-55. The following ships are exempted from the from requirement for licence under section 54: licensing.
+55. The following ships are exempted from the
+
+<!-- marginal: from -->
+
+requirement for licence under section 54:
+
+<!-- marginal: licensing. -->
 
 (a) any ship, including a fishing vessel, registered under this Ordinance or any other written laws in Malaysia;
 
@@ -698,15 +1024,27 @@ Exemption
 
 (g) any class or description of ship specified by the Minister by order published in the Gazette.
 
-Licensing
+<!-- marginal: Licensing -->
 
-56. The Director of Marine may appoint any public officer. officer as a licensing officer to perform the functions in connection with licensing of ships under this Part.
+56. The Director of Marine may appoint any public
+
+<!-- marginal: officer. -->
+
+officer as a licensing officer to perform the functions in connection with licensing of ships under this Part.
 
 <!-- page 26 -->
 
-Application
+<!-- marginal: Application -->
 
-57. (1) An application for a licence under this Part and shall be made to the licensing officer— requirements for a licence.
+57. (1) An application for a licence under this Part
+
+<!-- marginal: and -->
+
+shall be made to the licensing officer—
+
+<!-- marginal: requirements -->
+
+<!-- marginal: for a licence. -->
 
 (a) in the form and manner as may be determined by the Director of Marine; and
 
@@ -714,13 +1052,41 @@ Application
 
 (2) In addition to subsection (1), the applicant shall ensure that steps are taken to comply with the requirements for survey and measurement of ship, ship’s name and marking of ship as stipulated in sections 21, 22 and 23 or in the regulations made under this Part.
 
-Additional
+<!-- marginal: Additional -->
 
-58. Upon receipt of an application for a licence under information section 57, the licensing officer may require the applicant and documents to furnish additional information or documents relating and inspection to the ship and the licensing officer may go on board of ship. the ship to inspect the ship and any documents relating to the ship.
+58. Upon receipt of an application for a licence under
 
-Issuance of
+<!-- marginal: information -->
 
-59. (1) If the licensing officer is satisfied that the licence and requirements for a licence have been fulfilled, the refusal to issue licence. licensing officer shall, upon payment of the prescribed fee, issue a licence to the applicant.
+section 57, the licensing officer may require the applicant
+
+<!-- marginal: and -->
+
+<!-- marginal: documents -->
+
+to furnish additional information or documents relating
+
+<!-- marginal: and inspection -->
+
+to the ship and the licensing officer may go on board
+
+<!-- marginal: of ship. -->
+
+the ship to inspect the ship and any documents relating to the ship.
+
+<!-- marginal: Issuance of -->
+
+59. (1) If the licensing officer is satisfied that the
+
+<!-- marginal: licence and -->
+
+requirements for a licence have been fulfilled, the
+
+<!-- marginal: refusal to -->
+
+<!-- marginal: issue licence. -->
+
+licensing officer shall, upon payment of the prescribed fee, issue a licence to the applicant.
 
 (2) The Director of Marine may determine the terms and conditions to be attached to a licence issued under subsection (1).
 
@@ -732,19 +1098,51 @@ Issuance of
 
 <!-- page 27 -->
 
-Record of
+<!-- marginal: Record of -->
 
-60. (1) Upon issuance of licence, the licensing licences. officer shall enter the particulars of the licence into the record of licences.
+60. (1) Upon issuance of licence, the licensing
+
+<!-- marginal: licences. -->
+
+officer shall enter the particulars of the licence into the record of licences.
 
 (2) The licensing officer shall maintain in both physical and electronic form the record of licences as may be determined by the Director of Marine.
 
-Custody of
+<!-- marginal: Custody of -->
 
-61. The owner of a ship licensed under section 59 licence. shall cause the licence to be kept at all times on board the ship in custody of the person in charge of the ship.
+61. The owner of a ship licensed under section 59
 
-Ships
+<!-- marginal: licence. -->
 
-62. (1) A ship licensed under this Part shall not licensed under this proceed beyond the coastal waters of a State in which Part shall the licence is issued. not proceed beyond coastal (2) Notwithstanding subsection (1), such ship may waters of State. proceed beyond the coastal waters of a State up to the outer limits of the Malaysian waters if—
+shall cause the licence to be kept at all times on board the ship in custody of the person in charge of the ship.
+
+<!-- marginal: Ships -->
+
+62. (1) A ship licensed under this Part shall not
+
+<!-- marginal: licensed -->
+
+<!-- marginal: under this -->
+
+proceed beyond the coastal waters of a State in which
+
+<!-- marginal: Part shall -->
+
+the licence is issued.
+
+<!-- marginal: not proceed -->
+
+<!-- marginal: beyond -->
+
+<!-- marginal: coastal -->
+
+(2) Notwithstanding subsection (1), such ship may
+
+<!-- marginal: waters of -->
+
+<!-- marginal: State. -->
+
+proceed beyond the coastal waters of a State up to the outer limits of the Malaysian waters if—
 
 (a) it is expressly allowed in the terms of the licence;
 
@@ -754,9 +1152,19 @@ Ships
 
 (3) For the purpose of this section, “coastal waters” means part of the sea adjacent to the coast of a State not exceeding three nautical miles measured from the low-water line.
 
-Offences
+<!-- marginal: Offences -->
 
-63. Any person who uses a ship or causes or permits relating to unlicensed a ship to be used for a purpose other than the purpose ship. for which it is licensed or contrary to the conditions of the licence commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding two years or to both.
+63. Any person who uses a ship or causes or permits
+
+<!-- marginal: relating to -->
+
+<!-- marginal: unlicensed -->
+
+a ship to be used for a purpose other than the purpose
+
+<!-- marginal: ship. -->
+
+for which it is licensed or contrary to the conditions of the licence commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding two years or to both.
 
 <!-- page 28 -->
 
@@ -768,9 +1176,13 @@ Interpretation. 64. For the purposes of sections 65 to 68f—
 
 “Fund” means the Malaysia Shipping Development Fund established under section 65.
 
-Establishment
+<!-- marginal: Establishment -->
 
-65. (1) A fund to be known as the “Malaysia of the Fund. Shipping Development Fund” is established and shall be controlled and administered by the Committee.
+65. (1) A fund to be known as the “Malaysia
+
+<!-- marginal: of the Fund. -->
+
+Shipping Development Fund” is established and shall be controlled and administered by the Committee.
 
 (2) The Fund shall consist of the annual tonnage fees collected under this Part.
 
@@ -792,9 +1204,15 @@ Establishment
 
 (5) The moneys of the Fund, in so far as they are not immediately required to be expended by the Committee under this Part, shall be invested in such manner as the Minister may, with the concurrence of the Minister of Finance, approve.
 
-Establishment
+<!-- marginal: Establishment -->
 
-66. (1) A Committee to be known as the “Malaysia of the Shipping Development Fund Committee” is established. Committee.
+66. (1) A Committee to be known as the “Malaysia
+
+<!-- marginal: of the -->
+
+Shipping Development Fund Committee” is established.
+
+<!-- marginal: Committee. -->
 
 (2) The Committee shall consist of the following members to be appointed by the Minister by notification in the Gazette:
 
@@ -822,13 +1240,29 @@ Establishment
 
 (6) An alternate member shall, unless he sooner resigns or his appointment is sooner revoked, cease to be an alternate member when the member in respect of whom he is an alternate member to ceases to be a member of the Committee.
 
-Functions
+<!-- marginal: Functions -->
 
-67. The functions of the Committee shall be to of the control and administer the moneys of the Fund for Committee. the improvement of the shipping industry and for purposes ancillary thereto.
+67. The functions of the Committee shall be to
 
-Disclosure
+<!-- marginal: of the -->
 
-68. (1) A member of the Committee appointed under of financial paragraph 66b(2)(g) who acquires any financial interest interest. after his appointment in any undertaking relating to the shipping industry shall within fourteen days after so doing, or if he does not know of the financial interest within fourteen days after it comes to his knowledge, give notice in writing to the Minister specifying the financial interest so acquired; and the Minister may if he thinks fit revoke the appointment of that member.
+control and administer the moneys of the Fund for
+
+<!-- marginal: Committee. -->
+
+the improvement of the shipping industry and for purposes ancillary thereto.
+
+<!-- marginal: Disclosure -->
+
+68. (1) A member of the Committee appointed under
+
+<!-- marginal: of financial -->
+
+paragraph 66b(2)(g) who acquires any financial interest
+
+<!-- marginal: interest. -->
+
+after his appointment in any undertaking relating to the shipping industry shall within fourteen days after so doing, or if he does not know of the financial interest within fourteen days after it comes to his knowledge, give notice in writing to the Minister specifying the financial interest so acquired; and the Minister may if he thinks fit revoke the appointment of that member.
 
 (2) Where a corporation has an interest in the shipping industry, a member of the Committee shall be deemed to have a financial interest in that corporation if—
 
@@ -840,7 +1274,23 @@ Disclosure
 
 <!-- page 31 -->
 
-Financial 68a. (1) Any financial interest of a spouse or a interest of child of a member of the Committee in the position spouse or child of to benefit from the Fund shall be deemed to be a member. financial interest of the member of the Committee.
+<!-- marginal: Financial -->
+
+68a. (1) Any financial interest of a spouse or a
+
+<!-- marginal: interest of -->
+
+child of a member of the Committee in the position
+
+<!-- marginal: spouse or -->
+
+<!-- marginal: child of -->
+
+to benefit from the Fund shall be deemed to be a
+
+<!-- marginal: member. -->
+
+financial interest of the member of the Committee.
 
 (2) A member of the Committee shall, within fourteen days of his spouse or child acquiring any such financial interest, notify the Committee in writing of such acquisition and if he fails to do so he commits an offence and shall, on conviction, be liable to a fine not exceeding twenty-five thousand ringgit or to imprisonment for a term not exceeding one year or to both.
 
@@ -852,11 +1302,35 @@ Financial 68a. (1) Any financial interest of a spouse or a interest of child of 
 
 (c) the fact that the financial interest is, or is capable of being made subject to restraint and restriction.
 
-Register of 68b. The Committee shall keep and maintain or cause members’ to be kept and maintained a register of members’ financial interest. financial interest and within fourteen days of receiving information regarding such interest, shall cause to be entered in the register that information and the date of entry corresponding to the member’s name.
+<!-- marginal: Register of -->
 
-Report of 68c. The Committee shall, not later than 30 June activities to of each year, cause to be made and transmitted to the Minister. the Minister a report dealing with the activities of the Committee during the preceding year, and may contain such information as the Minister may from time to time require.
+68b. The Committee shall keep and maintain or cause
 
-Audit. 68d. (1) The accounts of the Fund shall be audited annually by the Auditor-General and the provisions of the Audit Act 1957 [Act 62] shall apply.
+<!-- marginal: members’ -->
+
+to be kept and maintained a register of members’
+
+<!-- marginal: financial -->
+
+<!-- marginal: interest. -->
+
+financial interest and within fourteen days of receiving information regarding such interest, shall cause to be entered in the register that information and the date of entry corresponding to the member’s name.
+
+<!-- marginal: Report of -->
+
+68c. The Committee shall, not later than 30 June
+
+<!-- marginal: activities to -->
+
+of each year, cause to be made and transmitted to
+
+<!-- marginal: the Minister. -->
+
+the Minister a report dealing with the activities of the Committee during the preceding year, and may contain such information as the Minister may from time to time require.
+
+<!-- marginal: Audit. -->
+
+68d. (1) The accounts of the Fund shall be audited annually by the Auditor-General and the provisions of the Audit Act 1957 [Act 62] shall apply.
 
 <!-- page 32 -->
 
@@ -866,11 +1340,23 @@ Audit. 68d. (1) The accounts of the Fund shall be audited annually by the Audito
 
 Regulations. 68e. The Minister may make such regulations as may be necessary or expedient and for giving full effect to the provisions relating to the Fund.
 
-Issuance of 68f. The Minister may issue general directions to directions. the Committee which shall be consistent with this Ordinance and the Committee shall comply with such directions.
+<!-- marginal: Issuance of -->
+
+68f. The Minister may issue general directions to
+
+<!-- marginal: directions. -->
+
+the Committee which shall be consistent with this Ordinance and the Committee shall comply with such directions.
 
 Authorized officer
 
-Authorized 68g. (1) The Director of Marine may appoint any public officer. officer as authorized officer to conduct investigation or inspection to verify the compliance or non-compliance of any requirements under this Part, Part IIa or any regulations made under this Part or Part IIa.
+<!-- marginal: Authorized -->
+
+68g. (1) The Director of Marine may appoint any public
+
+<!-- marginal: officer. -->
+
+officer as authorized officer to conduct investigation or inspection to verify the compliance or non-compliance of any requirements under this Part, Part IIa or any regulations made under this Part or Part IIa.
 
 (2) For the purpose of any such inspection or investigation, the authorized officer shall have the powers conferred to an Inspector under this Ordinance.
 
@@ -880,7 +1366,15 @@ Authorized 68g. (1) The Director of Marine may appoint any public officer. offic
 
 Miscellaneous
 
-Electronic 68h. (1) The Director of Marine may provide a service filing of documents. for the electronic filing of any document required by this Ordinance or regulations made under it to be submitted to the Registrar or licensing officer.
+<!-- marginal: Electronic -->
+
+68h. (1) The Director of Marine may provide a service
+
+<!-- marginal: filing of -->
+
+<!-- marginal: documents. -->
+
+for the electronic filing of any document required by this Ordinance or regulations made under it to be submitted to the Registrar or licensing officer.
 
 (2) A person who intends to use the service provided under subsection (1) shall become a subscriber to the service by paying the prescribed fee and complying with such terms and conditions as may be determined by the Director of Marine.
 
@@ -896,15 +1390,33 @@ Electronic 68h. (1) The Director of Marine may provide a service filing of docum
 
 (7) Where a document is electronically filed with the Registrar or licensing officer, the Registrar or licensing officer shall not be liable for any loss or damage suffered by any person by reason of any error or omission of whatever nature or however arising appearing in any document obtained by any person under the service referred to in subsection (1), if such error or omission was made in good faith and in the ordinary course of the discharge of the duties of the Registrar or licensing officer or occurred or arose as a result of any defect or breakdown in the service or in the equipment used for the provision of the service.
 
-National
+<!-- marginal: National -->
 
-68I. (1) Subject to subsection (3), every registered colours and Malaysian ship shall fly the red ensign, without any other colours allowed. defacement or modification, which shall be the proper national colours for a registered Malaysian ship.
+68I. (1) Subject to subsection (3), every registered
+
+<!-- marginal: colours and -->
+
+Malaysian ship shall fly the red ensign, without any
+
+<!-- marginal: other colours -->
+
+<!-- marginal: allowed. -->
+
+defacement or modification, which shall be the proper national colours for a registered Malaysian ship.
 
 (2) The Director of Marine shall determine the colours for ships owned by the Government or in the service of the Government.
 
 (3) Notwithstanding subsection (1), any colour allowed to be worn in accordance with a warrant from the Yang di-Pertuan Agong shall also be the proper national colours for a registered Malaysian ship.
 
-Penalty for 68j. (1) If— carrying improper colour.
+<!-- marginal: Penalty for -->
+
+68j. (1) If—
+
+<!-- marginal: carrying -->
+
+<!-- marginal: improper -->
+
+<!-- marginal: colour. -->
 
 (a) any distinctive national colours, other than the red ensign and any proper national colour allowed to be worn under subsection 68I;
 
@@ -930,7 +1442,17 @@ may go on board the ship and seize the colour or pennant.
 
 (3) Any colour or pennant seized under subsection (2) shall be forfeited by the Government.
 
-Duty to 68k. (1) A registered Malaysian ship shall hoist the show red ensign— Malaysian ensign.
+<!-- marginal: Duty to -->
+
+68k. (1) A registered Malaysian ship shall hoist the
+
+<!-- marginal: show -->
+
+red ensign—
+
+<!-- marginal: Malaysian -->
+
+<!-- marginal: ensign. -->
 
 (a) on a signal, instruction or order being made to the ship by any ship of the Royal Malaysian Navy, including any ship under the command of a commissioned naval officer, or any ship or aircraft owned by the Government;
 
@@ -942,7 +1464,27 @@ Duty to 68k. (1) A registered Malaysian ship shall hoist the show red ensign— 
 
 <!-- page 36 -->
 
-Offences 68l. (1) If the master or owner of a ship which is not relating to a Malaysian ship does anything, or permits anything assuming Malaysian to be done, for the purpose of causing the ship to character of assume the character of a Malaysian ship then, except ship. as provided under subsections (3) and (4), the ship shall be liable to forfeiture and the master and owner of the ship commit an offence.
+<!-- marginal: Offences -->
+
+68l. (1) If the master or owner of a ship which is not
+
+<!-- marginal: relating to -->
+
+a Malaysian ship does anything, or permits anything
+
+<!-- marginal: assuming -->
+
+<!-- marginal: Malaysian -->
+
+to be done, for the purpose of causing the ship to
+
+<!-- marginal: character of -->
+
+assume the character of a Malaysian ship then, except
+
+<!-- marginal: ship. -->
+
+as provided under subsections (3) and (4), the ship shall be liable to forfeiture and the master and owner of the ship commit an offence.
 
 (2) If the master or owner of a Malaysian ship does anything, or permits anything to be done, for the purpose of concealing the Malaysian nationality of the ship, the ship shall be liable to forfeiture and the master and owner of the ship commit an offence.
 
@@ -952,13 +1494,41 @@ Offences 68l. (1) If the master or owner of a ship which is not relating to a Ma
 
 (5) Any person who commits an offence under this section shall, on conviction, be liable to a fine not exceeding five hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both.
 
-Duty to 68m. (1) The master shall, prior to proceeding to the declare sea from any port or place in Malaysia, declare to national character of a port officer the name of the country to which he ship. claims that the ship belongs.
+<!-- marginal: Duty to -->
+
+68m. (1) The master shall, prior to proceeding to the
+
+<!-- marginal: declare -->
+
+sea from any port or place in Malaysia, declare to
+
+<!-- marginal: national -->
+
+<!-- marginal: character of -->
+
+a port officer the name of the country to which he
+
+<!-- marginal: ship. -->
+
+claims that the ship belongs.
 
 (2) If a ship proceeds or attempts to proceed to the sea without the declaration as required under subsection (1), the master commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding two years or to both and the ship may be detained until the declaration is made.
 
 <!-- page 37 -->
 
-Taking 68n. (1) Where a ship which is forfeited or detained detained ship on a voyage under section 68l or 68m proceeds or attempts to proceed or excursion. to the sea before it is released from detention by the Director of Marine, the master and the owner of the ship or bareboat charterer commits an offence and shall, on conviction, be liable to a fine not exceeding two million ringgit or to imprisonment for a term not exceeding three years or to both.
+<!-- marginal: Taking -->
+
+68n. (1) Where a ship which is forfeited or detained
+
+<!-- marginal: detained ship -->
+
+<!-- marginal: on a voyage -->
+
+under section 68l or 68m proceeds or attempts to proceed
+
+<!-- marginal: or excursion. -->
+
+to the sea before it is released from detention by the Director of Marine, the master and the owner of the ship or bareboat charterer commits an offence and shall, on conviction, be liable to a fine not exceeding two million ringgit or to imprisonment for a term not exceeding three years or to both.
 
 (2) Where a ship—
 
@@ -970,7 +1540,23 @@ the master and the owner of the ship or bareboat charterer each commit an offenc
 
 (3) The master and the owner of the ship or the bareboat charterer shall jointly and severally be liable to pay all expenses incidental to the taking of the public officer or the person acting on behalf of the public officer on the voyage and for securing his return to the port he was taken from in Malaysia, and all such expenses shall be a debt due to the government and may be recovered in the same manner as a fine.
 
-Offences 68o. (1) If at any time there occurs, in relation to relating to Malaysian a registered Malaysian ship, any change affecting ship the status of ownership and the qualification to be ownership. owner of a Malaysian ship, the owner of the ship shall, within thirty days after the change occurs, notify the Registrar of that change.
+<!-- marginal: Offences -->
+
+68o. (1) If at any time there occurs, in relation to
+
+<!-- marginal: relating to -->
+
+<!-- marginal: Malaysian -->
+
+a registered Malaysian ship, any change affecting
+
+<!-- marginal: ship -->
+
+the status of ownership and the qualification to be
+
+<!-- marginal: ownership. -->
+
+owner of a Malaysian ship, the owner of the ship shall, within thirty days after the change occurs, notify the Registrar of that change.
 
 <!-- page 38 -->
 
@@ -978,9 +1564,19 @@ Offences 68o. (1) If at any time there occurs, in relation to relating to Malays
 
 (3) Any owner who fails to comply with subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding two years or to both.
 
-False 68p. Any person who— declaration or
+<!-- marginal: False -->
 
-(a) makes any false or misleading statements or information. furnishes any false or misleading information to the Registrar, licensing officer or authorized officer pursuant to a requirement to make any statement or furnish any information, whether in an application or otherwise, as specified under this Part; or
+68p. Any person who—
+
+<!-- marginal: declaration -->
+
+<!-- marginal: or -->
+
+(a) makes any false or misleading statements or
+
+<!-- marginal: information. -->
+
+furnishes any false or misleading information to the Registrar, licensing officer or authorized officer pursuant to a requirement to make any statement or furnish any information, whether in an application or otherwise, as specified under this Part; or
 
 (b) makes any false declaration or produces any forged certificate,
 
@@ -1022,7 +1618,7 @@ Regulations. 68q. (1) The Minister may make regulations as may be necessary or e
 
 <!-- page 40 -->
 
-Part IIa
+## PART IIA
 
 ## DOMESTIC SHIPPING
 
@@ -1042,25 +1638,85 @@ Interpretation. 68r. In this Part, unless the context otherwise requires—
 
 “licence” means a domestic shipping licence.
 
-Prohibition 68s. (1) No ship other than a registered Malaysian on non- ship may engage in domestic shipping. Malaysian ships engaging (2) The master or owner of a ship who contravenes in domestic subsection (1) commits an offence and shall, shipping. on conviction, be liable to a fine not exceeding two hundred and fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both.
+<!-- marginal: Prohibition -->
 
-Licence for 68t. (1) No ship shall engage in domestic shipping domestic without a licence issued under this Part. shipping.
+68s. (1) No ship other than a registered Malaysian
+
+<!-- marginal: on non- -->
+
+ship may engage in domestic shipping.
+
+<!-- marginal: Malaysian -->
+
+<!-- marginal: ships -->
+
+<!-- marginal: engaging -->
+
+(2) The master or owner of a ship who contravenes
+
+<!-- marginal: in domestic -->
+
+subsection (1) commits an offence and shall,
+
+<!-- marginal: shipping. -->
+
+on conviction, be liable to a fine not exceeding two hundred and fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both.
+
+<!-- marginal: Licence for -->
+
+68t. (1) No ship shall engage in domestic shipping
+
+<!-- marginal: domestic -->
+
+without a licence issued under this Part.
+
+<!-- marginal: shipping. -->
 
 (2) The owner or master of a ship who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding two years or to both.
 
 <!-- page 41 -->
 
-Exemption. 68u. A Malaysian ship of less than fifteen net tonnage is exempted from the provisions of this Part.
+<!-- marginal: Exemption. -->
 
-Permission 68v. The Minister may, subject to such conditions and to engage restrictions as he may determine, permit any class of in domestic shipping. ships other than ships referred to under section 68u to engage in domestic shipping
+68u. A Malaysian ship of less than fifteen net tonnage is exempted from the provisions of this Part.
 
-Application 68w. (1) An application for a licence under this Part and issuance shall be made to the domestic shipping officer in the of licence. form and manner as may be prescribed.
+<!-- marginal: Permission -->
+
+68v. The Minister may, subject to such conditions and
+
+<!-- marginal: to engage -->
+
+restrictions as he may determine, permit any class of
+
+<!-- marginal: in domestic -->
+
+<!-- marginal: shipping. -->
+
+ships other than ships referred to under section 68u to engage in domestic shipping
+
+<!-- marginal: Application -->
+
+68w. (1) An application for a licence under this Part
+
+<!-- marginal: and issuance -->
+
+shall be made to the domestic shipping officer in the
+
+<!-- marginal: of licence. -->
+
+form and manner as may be prescribed.
 
 (2) The domestic shipping officer may refuse to determine an application made otherwise than in accordance with this Part.
 
 (3) A licence issued shall be for such duration and subject to such conditions as the domestic shipping officer considers necessary.
 
-Furnishing of 68x. The domestic shipping officer may, by notice, information. require the owner or master of any ship in respect of which a licence is issued or is to be issued to furnish within the period specified in the notice information on—
+<!-- marginal: Furnishing of -->
+
+68x. The domestic shipping officer may, by notice,
+
+<!-- marginal: information. -->
+
+require the owner or master of any ship in respect of which a licence is issued or is to be issued to furnish within the period specified in the notice information on—
 
 (a) the classes of passengers or goods which the ship is capable of carrying or has carried during any specified period;
 
@@ -1070,7 +1726,13 @@ Furnishing of 68x. The domestic shipping officer may, by notice, information. re
 
 (d) any other relevant matter.
 
-Revocation of 68y. (1) Subject to subsection (2), a domestic shipping licence. officer may revoke any licence if he is satisfied that the licensee, his servant or agent has—
+<!-- marginal: Revocation of -->
+
+68y. (1) Subject to subsection (2), a domestic shipping
+
+<!-- marginal: licence. -->
+
+officer may revoke any licence if he is satisfied that the licensee, his servant or agent has—
 
 (a) contravened any of the provisions of this Ordinance; or
 
@@ -1082,9 +1744,23 @@ Revocation of 68y. (1) Subject to subsection (2), a domestic shipping licence. o
 
 (3) If a licensing officer revokes a licence under this section, the licensee shall surrender the licence to the domestic shipping officer within fourteen days of the notice of revocation, and if the licensee without lawful excuse fails to do so, he commits an offence and shall, on conviction, be liable to a fine not exceeding twenty-five thousand ringgit or to imprisonment for a term not exceeding one year or to both.
 
-Appeal. 68z. Any person aggrieved by the decision of the domestic shipping officer to refuse to issue or revoke a licence may, within fourteen days of the decision being made known to him in writing, appeal to the Board whose decision shall be final.
+<!-- marginal: Appeal. -->
 
-Power of 68 a a. (1) For the purpose of ensuring that the authorized provisions of this Part are complied with, the Director officer to board ship. of Marine or any authorized officer may go on board any ship in Malaysian waters or the exclusive economic zone and—
+68z. Any person aggrieved by the decision of the domestic shipping officer to refuse to issue or revoke a licence may, within fourteen days of the decision being made known to him in writing, appeal to the Board whose decision shall be final.
+
+<!-- marginal: Power of -->
+
+68 a a. (1) For the purpose of ensuring that the
+
+<!-- marginal: authorized -->
+
+provisions of this Part are complied with, the Director
+
+<!-- marginal: officer to -->
+
+<!-- marginal: board ship. -->
+
+of Marine or any authorized officer may go on board any ship in Malaysian waters or the exclusive economic zone and—
 
 (a) require the master or owner of the ship to give such information relating to the ship, its cargo, stores, crew, passengers or voyage as he may consider necessary; and
 
@@ -1104,15 +1780,45 @@ Power of 68 a a. (1) For the purpose of ensuring that the authorized provisions 
 
 commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding two years or to both.
 
-Power to 68ab. (1) The Director of Marine or any authorized detain ships. officer may detain any ship if he has reasonable cause to suspect that there has been a contravention of section 68s or 68t.
+<!-- marginal: Power to -->
+
+68ab. (1) The Director of Marine or any authorized
+
+<!-- marginal: detain ships. -->
+
+officer may detain any ship if he has reasonable cause to suspect that there has been a contravention of section 68s or 68t.
 
 (2) Any ship that has been detained under subsection (1) may be released upon the deposit of a financial security with the Director of Marine for an amount to be determined by him.
 
-Register of 68ac. A domestic shipping officer shall keep or cause domestic to be kept a register of domestic shipping licences shipping licences. into which he shall enter particulars of licences that have been approved.
+<!-- marginal: Register of -->
+
+68ac. A domestic shipping officer shall keep or cause
+
+<!-- marginal: domestic -->
+
+to be kept a register of domestic shipping licences
+
+<!-- marginal: shipping -->
+
+<!-- marginal: licences. -->
+
+into which he shall enter particulars of licences that have been approved.
 
 Domestic Shipping Licensing Board
 
-Establishment 68ad. (1) There is established a board to be called and the “Domestic Shipping Licensing Board”. composition of the Board. (2) The Board shall consist of the following members to be appointed by the Minister:
+<!-- marginal: Establishment -->
+
+68ad. (1) There is established a board to be called
+
+<!-- marginal: and -->
+
+the “Domestic Shipping Licensing Board”.
+
+<!-- marginal: composition -->
+
+<!-- marginal: of the Board. -->
+
+(2) The Board shall consist of the following members to be appointed by the Minister:
 
 (a) the Secretary-General of the Ministry of Transport who shall be the Chairman;
 
@@ -1146,7 +1852,11 @@ Establishment 68ad. (1) There is established a board to be called and the “Dom
 
 (11) All members of the Board shall be deemed to be public servants within the meaning of the Penal Code.
 
-Functions of 68ae. The functions of the Board shall be: the Board.
+<!-- marginal: Functions of -->
+
+68ae. The functions of the Board shall be:
+
+<!-- marginal: the Board. -->
 
 (a) to control matters relating to domestic shipping;
 
@@ -1154,11 +1864,33 @@ Functions of 68ae. The functions of the Board shall be: the Board.
 
 (c) to advise the Minister on matters relating to domestic shipping.
 
-Appointment 68af. (1) The Board may appoint such number of of domestic domestic shipping officers for the purposes of dealing shipping officers. with applications for the domestic shipping licences and all matters related to the domestic shipping licencing.
+<!-- marginal: Appointment -->
+
+68af. (1) The Board may appoint such number of
+
+<!-- marginal: of domestic -->
+
+domestic shipping officers for the purposes of dealing
+
+<!-- marginal: shipping -->
+
+<!-- marginal: officers. -->
+
+with applications for the domestic shipping licences and all matters related to the domestic shipping licencing.
 
 (2) Every domestic shipping officer shall comply with all directions issued by the Board in pursuance of paragraph 68ae(b).
 
-Disclosure 68ag. (1) A member of the Board appointed under of financial paragraph 68ad(2)(e) who acquires any financial interest interest. after his appointment in any undertaking providing domestic shipping shall within four weeks after so doing, or if he does not know of the financial interest within four weeks after it comes to his knowledge, give notice in writing to the Minister specifying the financial interest so acquired; and the Minister may if he thinks fit revoke the appointment of that member.
+<!-- marginal: Disclosure -->
+
+68ag. (1) A member of the Board appointed under
+
+<!-- marginal: of financial -->
+
+paragraph 68ad(2)(e) who acquires any financial interest
+
+<!-- marginal: interest. -->
+
+after his appointment in any undertaking providing domestic shipping shall within four weeks after so doing, or if he does not know of the financial interest within four weeks after it comes to his knowledge, give notice in writing to the Minister specifying the financial interest so acquired; and the Minister may if he thinks fit revoke the appointment of that member.
 
 <!-- page 46 -->
 
@@ -1170,7 +1902,23 @@ Disclosure 68ag. (1) A member of the Board appointed under of financial paragrap
 
 (c) that person or his associates, or that person and his associates are entitled to exercise or control the exercise of not less than one-tenth of the votes attached to the voting shares in the corporation.
 
-Financial 68ah. (1) Any financial interest in any undertaking interest of providing domestic shipping of the spouse, or a a spouse or child of a child under the age of majority of a member of the member. Board shall be deemed to be a financial interest of the member.
+<!-- marginal: Financial -->
+
+68ah. (1) Any financial interest in any undertaking
+
+<!-- marginal: interest of -->
+
+providing domestic shipping of the spouse, or a
+
+<!-- marginal: a spouse or -->
+
+<!-- marginal: child of a -->
+
+child under the age of majority of a member of the
+
+<!-- marginal: member. -->
+
+Board shall be deemed to be a financial interest of the member.
 
 (2) A member of the Board shall, within four weeks of his spouse or child under the age of majority acquiring any financial interest in an undertaking providing domestic shipping, notify the Minister in writing of such acquisition and if he fails to do so he commits an offence and shall, on conviction, be liable to a fine not exceeding twenty-five thousand ringgit or to imprisonment for a term not exceeding one year or to both.
 
@@ -1184,9 +1932,27 @@ Financial 68ah. (1) Any financial interest in any undertaking interest of provid
 
 <!-- page 47 -->
 
-Register 68aI. The Board shall keep and maintain or cause to of members’ be kept and maintained a register of members’ financial financial interest. interest in any undertaking providing domestic shipping; and within fourteen days of receiving information regarding such interest shall cause to be entered in the register that information and the date of entry against the member’s name.
+<!-- marginal: Register -->
 
-Annual 68aj. The Board shall not later than 30 June of each report. year cause to be made and transmitted to the Minister a report dealing with the activities of the Board during the preceding year, and may contain such information as the Minister may from time to time require.
+68aI. The Board shall keep and maintain or cause to
+
+<!-- marginal: of members’ -->
+
+be kept and maintained a register of members’ financial
+
+<!-- marginal: financial -->
+
+<!-- marginal: interest. -->
+
+interest in any undertaking providing domestic shipping; and within fourteen days of receiving information regarding such interest shall cause to be entered in the register that information and the date of entry against the member’s name.
+
+<!-- marginal: Annual -->
+
+68aj. The Board shall not later than 30 June of each
+
+<!-- marginal: report. -->
+
+year cause to be made and transmitted to the Minister a report dealing with the activities of the Board during the preceding year, and may contain such information as the Minister may from time to time require.
 
 Regulations. 68ak. The Minister may make regulations as may be necessary or expedient for giving effect to or for carrying out the provisions of this Part, and without prejudice to the generality of the foregoing provisions, the regulations may—
 
@@ -1236,11 +2002,7 @@ Minister 68al. The Minister may issue to the Board general may issue directions 
 
 (6) Semua lesen perkapalan domestik yang dikeluarkan di bawah Bahagian IIb Ordinan dan lesen bot yang dikeluarkan di bawah Bahagian XIII Ordinan sebelum tarikh permulaan kuat kuasa Akta ini hendaklah terus sah sehingga habis tempoh lesen itu seolah-olah Ordinan tidak dipinda oleh Akta ini.
 
-(7) Semua permohonan bagi lesen perkapalan domestik di bawah Bahagian IIb Ordinan dan lesen bot di bawah
-
-## Bahagian XIII Ordinan yang belum selesai sebelum tarikh
-
-permulaan kuat kuasa Akta ini hendaklah, pada tarikh permulaan kuat kuasa Akta ini, diuruskan oleh pegawai perkapalan domestik atau pegawai pelesenan di bawah peruntukan Ordinan sebagaimana yang dipinda oleh Akta ini.
+(7) Semua permohonan bagi lesen perkapalan domestik di bawah Bahagian IIb Ordinan dan lesen bot di bawah Bahagian XIII Ordinan yang belum selesai sebelum tarikh permulaan kuat kuasa Akta ini hendaklah, pada tarikh permulaan kuat kuasa Akta ini, diuruskan oleh pegawai perkapalan domestik atau pegawai pelesenan di bawah peruntukan Ordinan sebagaimana yang dipinda oleh Akta ini.
 
 (8) Semua kaedah-kaedah, peraturan-peraturan, perintah, arahan, pemberitahuan, pengecualian dan perundangan subsidiari lain, dengan cara apa sekalipun disebut, yang dibuat, diberikan atau dilakukan di bawah Ordinan sebelum tarikh permulaan kuat kuasa Akta ini hendaklah disifatkan telah dibuat, diberikan atau dilakukan di bawah peruntukan Ordinan sebagaimana yang dipinda oleh Akta ini, dan hendaklah, setakat yang ia selaras dengan Ordinan sebagaimana yang dipinda oleh Akta ini, terus kekal berkuat kuasa dan mempunyai kesan sepenuhnya sehingga ia dibatalkan.
 
@@ -1264,11 +2026,7 @@ Rang Undang-Undang ini bertujuan untuk meminda Ordinan Perkapalan Saudagar 1952 
 
 <!-- page 51 -->
 
-7. Fasal 7 bertujuan untuk menggantikan Bahagian IIa, IIb dan IIc Ordinan dengan Bahagian II dan IIa.
-
-## Bahagian II yang dicadangkan mengadakan peruntukan bagi pendaftaran
-
-dan pelesenan kapal yang terdiri daripada seksyen 11 hingga 68q. Seksyen 11 yang dicadangkan mengandungi takrif bagi perkataan dan frasa yang digunakan dalam Bahagian II yang dicadangkan. Seksyen 12 yang dicadangkan bertujuan untuk memberi Pengarah Laut kuasa untuk melantik Pendaftar dan Timbalan Pendaftar. Sebelum pindaan ini, Pendaftar dan Timbalan Pendaftar dikenali sebagai Ketua Pendaftar dan pendaftar. Seksyen 13 yang dicadangkan bertujuan untuk mengadakan peruntukan bagi fungsi dan kuasa Pendaftar. Seksyen 14 yang dicadangkan bertujuan untuk mengadakan peruntukan bagi Daftar Kapal Malaysia dan Daftar Kapal Antarabangsa Malaysia yang disenggara oleh Pendaftar. Daftar boleh diadakan dalam kedua-dua bentuk fizikal dan elektronik. Seksyen 15 yang dicadangkan bertujuan untuk memberi Pendaftar kuasa untuk membetulkan Daftar sekiranya kesilapan perkeranian berlaku dan Pendaftar boleh mengeluarkan perakuan pendaftaran baharu jika perlu. Seksyen 16 yang dicadangkan bertujuan untuk memberi Pengarah Laut kuasa untuk mengeluarkan arahan bertulis kepada Pendaftar bagi penjalanan yang lebih baik peruntukan Ordinan ini. Seksyen 17 yang dicadangkan bertujuan untuk mengadakan peruntukan bagi penubuhan pejabat pendaftaran kapal dan pejabat cawangannya. Seksyen 18 yang dicadangkan bertujuan untuk menghendaki kapal yang belayar di perairan Malaysia atau di zon ekonomi eksklusif untuk berdaftar sama ada di Malaysia atau di mana-mana negara lain dan memperuntukkan penalti bagi pelanggaran peruntukan yang dicadangkan itu. Seksyen 19 yang dicadangkan bertujuan untuk mengadakan peruntukan bagi kelayakan orang untuk memiliki kapal Malaysia. Seseorang yang layak untuk memiliki kapal Malaysia di bawah Daftar Kapal Malaysia mestilah seorang warganegara Malaysia atau, setakat yang ditentukan oleh Menteri, suatu pertubuhan perbadanan yang diperbadankan di Malaysia. Seseorang yang layak untuk memiliki kapal Malaysia di bawah Daftar Kapal Antarabangsa Malaysia mestilah seorang warganegara Malaysia atau suatu pertubuhan perbadanan yang diperbadankan di Malaysia. Walau bagaimanapun, seseorang yang bukan warganegara Malaysia atau suatu pertubuhan perbadanan yang diperbadankan di luar Malaysia boleh juga memiliki kapal Malaysia di bawah Daftar Kapal Antarabangsa Malaysia jika orang atau pertubuhan perbadanan itu melantik wakil di bawah subseksyen 20(3) yang dicadangkan. Wakil yang dilantik itu mestilah seorang warganegara Malaysia yang bermastautin tetap di Malaysia atau suatu pertubuhan perbadanan yang diperbadankan di Malaysia yang mempunyai tempat utama perniagaannya di Malaysia. Peruntukan bagi kehendak bagi pelantikan wakil menggantikan kehendak bagi pelantikan pengurus kapal di bawah seksyen 66c Ordinan. Seksyen 19 yang dicadangkan juga memperuntukkan bahawa kapal di bawah carter kapal kosong boleh didaftarkan di bawah Daftar Kapal Malaysia atau Daftar Kapal Antarabangsa Malaysia. Sebelum pindaan ini, tiada undang-undang di Malaysia bagi pendaftaran kapal di bawah carter kapal kosong.
+7. Fasal 7 bertujuan untuk menggantikan Bahagian IIa, IIb dan IIc Ordinan dengan Bahagian II dan IIa. Bahagian II yang dicadangkan mengadakan peruntukan bagi pendaftaran dan pelesenan kapal yang terdiri daripada seksyen 11 hingga 68q. Seksyen 11 yang dicadangkan mengandungi takrif bagi perkataan dan frasa yang digunakan dalam Bahagian II yang dicadangkan. Seksyen 12 yang dicadangkan bertujuan untuk memberi Pengarah Laut kuasa untuk melantik Pendaftar dan Timbalan Pendaftar. Sebelum pindaan ini, Pendaftar dan Timbalan Pendaftar dikenali sebagai Ketua Pendaftar dan pendaftar. Seksyen 13 yang dicadangkan bertujuan untuk mengadakan peruntukan bagi fungsi dan kuasa Pendaftar. Seksyen 14 yang dicadangkan bertujuan untuk mengadakan peruntukan bagi Daftar Kapal Malaysia dan Daftar Kapal Antarabangsa Malaysia yang disenggara oleh Pendaftar. Daftar boleh diadakan dalam kedua-dua bentuk fizikal dan elektronik. Seksyen 15 yang dicadangkan bertujuan untuk memberi Pendaftar kuasa untuk membetulkan Daftar sekiranya kesilapan perkeranian berlaku dan Pendaftar boleh mengeluarkan perakuan pendaftaran baharu jika perlu. Seksyen 16 yang dicadangkan bertujuan untuk memberi Pengarah Laut kuasa untuk mengeluarkan arahan bertulis kepada Pendaftar bagi penjalanan yang lebih baik peruntukan Ordinan ini. Seksyen 17 yang dicadangkan bertujuan untuk mengadakan peruntukan bagi penubuhan pejabat pendaftaran kapal dan pejabat cawangannya. Seksyen 18 yang dicadangkan bertujuan untuk menghendaki kapal yang belayar di perairan Malaysia atau di zon ekonomi eksklusif untuk berdaftar sama ada di Malaysia atau di mana-mana negara lain dan memperuntukkan penalti bagi pelanggaran peruntukan yang dicadangkan itu. Seksyen 19 yang dicadangkan bertujuan untuk mengadakan peruntukan bagi kelayakan orang untuk memiliki kapal Malaysia. Seseorang yang layak untuk memiliki kapal Malaysia di bawah Daftar Kapal Malaysia mestilah seorang warganegara Malaysia atau, setakat yang ditentukan oleh Menteri, suatu pertubuhan perbadanan yang diperbadankan di Malaysia. Seseorang yang layak untuk memiliki kapal Malaysia di bawah Daftar Kapal Antarabangsa Malaysia mestilah seorang warganegara Malaysia atau suatu pertubuhan perbadanan yang diperbadankan di Malaysia. Walau bagaimanapun, seseorang yang bukan warganegara Malaysia atau suatu pertubuhan perbadanan yang diperbadankan di luar Malaysia boleh juga memiliki kapal Malaysia di bawah Daftar Kapal Antarabangsa Malaysia jika orang atau pertubuhan perbadanan itu melantik wakil di bawah subseksyen 20(3) yang dicadangkan. Wakil yang dilantik itu mestilah seorang warganegara Malaysia yang bermastautin tetap di Malaysia atau suatu pertubuhan perbadanan yang diperbadankan di Malaysia yang mempunyai tempat utama perniagaannya di Malaysia. Peruntukan bagi kehendak bagi pelantikan wakil menggantikan kehendak bagi pelantikan pengurus kapal di bawah seksyen 66c Ordinan. Seksyen 19 yang dicadangkan juga memperuntukkan bahawa kapal di bawah carter kapal kosong boleh didaftarkan di bawah Daftar Kapal Malaysia atau Daftar Kapal Antarabangsa Malaysia. Sebelum pindaan ini, tiada undang-undang di Malaysia bagi pendaftaran kapal di bawah carter kapal kosong.
 
 <!-- page 52 -->
 
@@ -1346,9 +2104,7 @@ Seksyen 52 yang dicadangkan bertujuan untuk mengadakan peruntukan bagi perlindun
 
 Seksyen 53 yang dicadangkan bertujuan untuk mengadakan peruntukan bagi ketidakpakaian seksyen 39 hingga 52 bagi carter kapal kosong ke Malaysia dan bahawa apa-apa perkara atau persoalan yang berhubungan dengannya peruntukan itu terpakai hendaklah ditentukan dengan merujuk kepada undang-undang negara pendaftaran utama.
 
-Seksyen 54 yang dicadangkan bertujuan untuk mengenakan kehendak bagi lesen terhadap mana-mana kapal di bawah lima belas tanan bersih yang terlibat dalam perdagangan atau perniagaan, pengangkutan mana-mana orang selain bagi perdagangan atau perniagaan atau aktiviti sukan, santai atau rekreasi. Pada masa ini, kapal di bawah lima ratus tanan kasar di bawah
-
-## Bahagian XIII Ordinan dikehendaki untuk dilesenkan bagi aktiviti itu.
+Seksyen 54 yang dicadangkan bertujuan untuk mengenakan kehendak bagi lesen terhadap mana-mana kapal di bawah lima belas tanan bersih yang terlibat dalam perdagangan atau perniagaan, pengangkutan mana-mana orang selain bagi perdagangan atau perniagaan atau aktiviti sukan, santai atau rekreasi. Pada masa ini, kapal di bawah lima ratus tanan kasar di bawah Bahagian XIII Ordinan dikehendaki untuk dilesenkan bagi aktiviti itu.
 
 Seksyen 55 yang dicadangkan bertujuan untuk mengecualikan kapal daripada kehendak pelesenan di bawah seksyen 54 yang dicadangkan.
 

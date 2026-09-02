@@ -66,35 +66,21 @@ memasukkan, sebelum sahaja takrif "Merited", takrif baru yang berikut:
 
 antarabangsa, serantau dan kebangsaan, dalam apa-apa jua bentuk atau cara;'.
 
-Pindaan 4. Seksyen 3 Akta ibu adalah dipinda— seksyen 3.
+<!-- marginal: Pindaan -->
+
+4. Seksyen 3 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 3. -->
 
 (a) dengan menggantikan subseksyen (3) dengan yang berikut:
 
-"(3) Bernama hendaklah mempunyai hak eksklusif untuk menerima masuk ke dalam Persekutuan berita atau bahan berita daripada agensi berita luar negeri dan pertubuhan-pertubuhan lain yang berurusan dengan berita atau bahan berita, melalui apa-apa perkiraan seperti
+"(3) Bernama hendaklah mempunyai hak eksklusif untuk menerima masuk ke dalam Persekutuan berita atau bahan berita daripada agensi berita luar negeri dan pertubuhan-pertubuhan lain yang berurusan dengan berita atau bahan berita, melalui apa-apa perkiraan seperti langganan, pembayaran, pertukaran berita atau lain- lain cara."; dan
 
-<!-- marginal: langganan, -->
-
-pembayaran, pertukaran berita atau lain- lain cara."; dan
-
-(b) dengan memasukkan, selepas
-
-<!-- marginal: sahaja -->
-
-subseksyen (3), subseksyen baru (4) dan (5) yang berikut:
+(b) dengan memasukkan, selepas sahaja subseksyen (3), subseksyen baru (4) dan (5) yang berikut:
 
 "(4) Bernama hendaklah membuat perkiraan bagi membahagi-bahagikan berita atau bahan berita yang diterima menurut subseksyen (3) kepada pelanggan- pelanggan di Persekutuan, mengikut apa- apa terma dan syarat sebagaimana yang ditetapkan oleh Bernama.
 
-(5) Subseksyen (3) dan
-
-<!-- marginal: (4) -->
-
-<!-- marginal: tidak -->
-
-menjejaskan hak Jabatan
-
-<!-- marginal: yang -->
-
-bertanggungjawab bagi penyiaran, dan mana-mana pertubuhan yang diluluskan oleh Menteri dari semasa ke semasa, untuk menerima, tanpa apa-apa jua pun rujukan kepada Bernama, berita tampak dan bahan- bahan rancangan secara terus daripada mana-mana sumber di luar Persekutuan.".
+(5) Subseksyen (3) dan (4) tidak menjejaskan hak Jabatan yang bertanggungjawab bagi penyiaran, dan mana-mana pertubuhan yang diluluskan oleh Menteri dari semasa ke semasa, untuk menerima, tanpa apa-apa jua pun rujukan kepada Bernama, berita tampak dan bahan- bahan rancangan secara terus daripada mana-mana sumber di luar Persekutuan.".
 
 <!-- page 3 -->
 
@@ -110,7 +96,11 @@ selepas sahaja seksyen 3, seksyen baru 3A yang berikut:
 
 "Kuasa 3A. Bernama, dengan kelulusan Menteri dan membuat persetujuan Menteri Kewangan, boleh— apa-apa perkiraan
 
-(a) membuat apa-apa perkiraan untuk untuk berkongsi berkongsi keuntungan, menyatukan keuntungan kepentingan-kepentingan, berkerja- dsb. sama atau berusahasama dengan mana- mana orang atau kumpulan orang; atau
+(a) membuat apa-apa perkiraan untuk untuk berkongsi berkongsi keuntungan, menyatukan keuntungan kepentingan-kepentingan,
+
+<!-- marginal: berkerja- -->
+
+dsb. sama atau berusahasama dengan mana- mana orang atau kumpulan orang; atau
 
 (b) menubuhkan atau menggalakkan penubuhan dan pengembangan Aha 125. syarikat-syarikat di bawah Akta Syarikat 1965.".
 

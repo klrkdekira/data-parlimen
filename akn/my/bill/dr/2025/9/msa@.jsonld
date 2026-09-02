@@ -1,0 +1,985 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-9-2025",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_14"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Iltizam Kecekapan Perkhidmatan Kerajaan 2025"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_10__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_10__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_10__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_10__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_10__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua entiti Kerajaan hendaklah, dari semasa ke semasa sebagaimana yang ditentukan oleh Ketua Setiausaha Negara, mengemukakan laporan prestasi perkhidmatan kepada Ketua Setiausaha Negara."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Setiausaha Negara hendaklah menyebabkan laporan prestasi perkhidmatan yang dikemukakan oleh ketua entiti Kerajaan di bawah subseksyen (1) diperiksa, dinilai dan dipertimbangkan bagi penarafan mengikut kaedah penarafan yang diwujudkan di bawah seksyen 7."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_10__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud subseksyen (2), Menteri hendaklah, selepas berunding dengan Ketua Setiausaha Negara, melantik mana-mana orang dengan kelayakan yang sesuai untuk memeriksa dan menilai laporan prestasi perkhidmatan sesuatu entiti Kerajaan, dan orang itu hendaklah mengemukakan dapatannya kepada Ketua Setiausaha Negara."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_10__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Setelah menerima dapatan berkenaan dengan laporan prestasi perkhidmatan sesuatu entiti Kerajaan, Ketua Setiausaha Negara hendaklah meneliti dan menimbangkan dapatan itu dan memberikan suatu penarafan kepada entiti Kerajaan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_10__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana entiti Kerajaan yang mencapai suatu penarafan sebagaimana yang ditentukan oleh Ketua Setiausaha Negara boleh dipertimbangkan untuk menerima insentif dan pengiktirafan daripada Kerajaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_10__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_10__subsec_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_10__subsec_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun peruntukan Akta ini—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_10__subsec_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_10__subsec_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh menggunakan laporan prestasi perkhidmatan sesuatu entiti Kerajaan sebagai suatu kriteria bagi menentukan pemberian peruntukan kewangan Kerajaan kepada entiti Kerajaan itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_10__subsec_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_10__subsec_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh menyebabkan laporan prestasi perkhidmatan mana-mana entiti Kerajaan dibentangkan di Dewan Rakyat. Laporan prestasi perkhidmatan dan penarafan entiti Kerajaan Negeri"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_11__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_11__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_11__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_11__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_11__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun peruntukan Akta ini, Ketua Setiausaha Negara boleh menerima, menilai dan menimbangkan laporan prestasi perkhidmatan yang dikemukakan secara sukarela kepada Ketua Setiausaha Negara oleh mana-mana entiti Kerajaan Negeri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Setiausaha Negara hendaklah menyebabkan laporan prestasi perkhidmatan yang dikemukakan oleh ketua entiti Kerajaan Negeri di bawah subseksyen (1) diperiksa, dinilai dan dipertimbangkan bagi penarafan mengikut kaedah penarafan yang diwujudkan di bawah seksyen 7."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_11__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud subseksyen (2), Menteri hendaklah, selepas berunding dengan Ketua Setiausaha Negara, melantik mana-mana orang dengan kelayakan yang sesuai untuk memeriksa dan menilai laporan prestasi perkhidmatan sesuatu entiti Kerajaan Negeri, dan orang itu hendaklah mengemukakan dapatannya kepada Ketua Setiausaha Negara."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_11__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_11__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_11__subsec_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_11__subsec_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Setelah menerima dapatan berhubung dengan laporan prestasi perkhidmatan sesuatu entiti Kerajaan Negeri, Ketua Setiausaha Negara hendaklah meneliti dan menimbangkan dapatan itu dan boleh—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_11__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_11__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memberikan suatu penarafan kepada entiti Kerajaan Negeri itu mengikut kaedah penarafan yang diwujudkan di bawah seksyen 7;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_11__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_11__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menentukan insentif atau pengiktirafan yang boleh diberikan kepada entiti Kerajaan Negeri itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_11__subsec_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_11__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mengenakan apa-apa syarat bagi perbelanjaan apa-apa insentif yang diberikan kepada entiti Kerajaan Negeri itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_11__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun peruntukan Akta ini, Menteri boleh menggunakan laporan prestasi perkhidmatan entiti Kerajaan Negeri sebagai suatu kriteria untuk menentukan pemberian peruntukan kewangan Kerajaan kepada sesuatu entiti Kerajaan Negeri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_11__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_11__subsec_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_11__subsec_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_11__subsec_6__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud seksyen ini, “entiti Kerajaan Negeri” ertinya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_11__subsec_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_11__subsec_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana kementerian, jabatan, pejabat, pihak berkuasa atau agensi, bagi Kerajaan Negeri, atau apa-apa entiti lain dalam perkhidmatan Kerajaan Negeri;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_11__subsec_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_11__subsec_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana badan berkanun sesuatu Kerajaan Negeri yang ditubuhkan di bawah undang-undang Negeri; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_11__subsec_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_11__subsec_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana pihak berkuasa tempatan dalam sesuatu Negeri. Laporan Iltizam Kecekapan Perkhidmatan Kerajaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_12__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_12__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_12__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_12__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_12__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_12__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_12__subsec_1__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Setiausaha Negara hendaklah menyediakan suatu Laporan Iltizam Kecekapan Perkhidmatan Kerajaan setiap tiga tahun, yang hendaklah mengandungi maklumat yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_12__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_12__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "keberkesanan keseluruhan penyampaian perkhidmatan Kerajaan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_12__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_12__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "prestasi pengurangan beban kawal selia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_12__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_12__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "butiran penarafan entiti Kerajaan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_12__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_12__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "butiran insentif yang diberikan kepada entiti Kerajaan yang mencapai sasaran penarafan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_12__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_12__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "laporan prestasi perkhidmatan oleh entiti Kerajaan Negeri; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_12__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_12__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa maklumat lain yang berkaitan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah menyebabkan Laporan Iltizam Kecekapan Perkhidmatan Kerajaan yang dibuat di bawah subseksyen (1) dibentangkan di Dewan Rakyat dengan secepat yang dapat dilaksanakan. Pengecualian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_13__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_13__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_13__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh, selepas berunding dengan Ketua Setiausaha Negara, melalui perintah yang disiarkan dalam Warta, mengecualikan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_13__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_13__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana entiti Kerajaan atau mana-mana bahagian daripada mana-mana entiti Kerajaan; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_13__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_13__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana instrumen kawal selia atau mana-mana bahagian daripada instrumen kawal selia, daripada semua atau mana-mana peruntukan Akta ini tertakluk kepada apa-apa syarat sebagaimana yang dinyatakan oleh Menteri dalam perintah itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh, pada bila-bila masa melalui perintah yang disiarkan dalam Warta, membatalkan apa-apa perintah yang dibuat di bawah subseksyen (1) jika Menteri berpuas hati bahawa pengecualian itu sepatutnya tidak lagi diberikan. Arahan, pekeliling dan garis panduan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Setiausaha Negara boleh mengeluarkan apa-apa arahan, pekeliling atau garis panduan sebagaimana yang difikirkan suai manfaat atau perlu olehnya bagi melaksanakan peruntukan Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Iltizam Kecekapan Perkhidmatan Kerajaan 2025."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pemakaian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini hendaklah terpakai bagi Kerajaan dan entiti Kerajaan. Akta hendaklah dibaca bersama-sama undang-undang bertulis yang berkaitan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini hendaklah dibaca bersama-sama undang-undang bertulis yang berkaitan dan peruntukan Akta ini hendaklah menjadi tambahan kepada, dan tidak mengurangkan, peruntukan undang-undang bertulis yang berkaitan itu. Tafsiran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_4__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_4__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "“beban kawal selia” ertinya apa-apa kehendak kawal selia atau pentadbiran yang dikenakan melalui instrumen kawal selia terhadap individu atau perniagaan yang berlebihan, tidak relevan atau tidak cekap, atau mempunyai kesan yang memudaratkan; “entiti Kerajaan” ertinya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_4__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_4__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_4__list_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_4__list_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_4"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_4__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_4__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana kementerian, jabatan, pejabat, pihak berkuasa atau agensi, bagi Kerajaan, atau mana-mana entiti lain dalam perkhidmatan Kerajaan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_4__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_4__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana badan berkanun Kerajaan yang ditubuhkan di bawah suatu Akta Parlimen; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_4__list_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_4__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pihak berkuasa tempatan bagi Wilayah Persekutuan Kuala Lumpur, Labuan dan Putrajaya; “instrumen kawal selia” ertinya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_4__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_4__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_4__list_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_4"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_4__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_4__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa perundangan subsidiari yang dibuat di bawah Perlembagaan Persekutuan atau mana-mana Akta Parlimen; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_4__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_4__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa arahan, pekeliling, garis panduan, tatacara, proses kerja atau apa-apa bentuk instrumen pentadbiran yang lain yang dikeluarkan oleh sesuatu entiti Kerajaan; “ketua entiti Kerajaan” ertinya mana-mana pegawai yang bertanggungjawab bagi sesuatu entiti Kerajaan, termasuk mana-mana pegawai yang diberi kuasa secara bertulis oleh ketua entiti Kerajaan itu untuk bertindak bagi pihaknya; “Menteri” ertinya Perdana Menteri atau mana-mana Menteri yang ditetapkan oleh Perdana Menteri; “Prinsip Iltizam” ertinya Prinsip Iltizam yang dinyatakan di bawah seksyen 5. Prinsip Iltizam"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_5__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_5__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Penyampaian perkhidmatan Kerajaan hendaklah berdasarkan Prinsip Iltizam seperti yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kecekapan perkhidmatan, iaitu penyampaian perkhidmatan yang cekap, berkesan dan mudah dicapai;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tanggungjawab dalam tadbir urus, iaitu pengamalan budaya kerja beretika dan berprestasi tinggi di semua peringkat entiti Kerajaan dengan menerapkan akauntabiliti, integriti dan ketelusan dalam penyampaian perkhidmatan kepada individu dan perniagaan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "reformasi struktur, iaitu pelaksanaan perubahan dan penambahbaikan yang berterusan dalam entiti Kerajaan dan instrumen kawal selia untuk mengurangkan birokrasi dan untuk menyesuaikannya dengan kemajuan teknologi dan perubahan semasa; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_5__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tanggungjawab dalam keberkesanan kawal selia, iaitu tanggungjawab dalam mengurangkan beban kawal selia dengan berpandukan nilai kecekapan, keberkesanan dan keperluan. Pengurangan beban kawal selia"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_6__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_6__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_6__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_6__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Entiti Kerajaan hendaklah, pada tiap-tiap lat tempoh tiga tahun—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_6__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menyemak tatacara di bawah instrumen kawal selianya; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_6__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mengurangkan beban kawal selia sekurang-kurangnya dua puluh lima peratus."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Entiti Kerajaan hendaklah melaksanakan obligasi di bawah perenggan (1)(a) dan (b) untuk memastikan bahawa instrumen kawal selianya adalah cekap, berkesan dan perlu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada instrumen kawal selia baharu boleh berkuat kuasa melainkan jika sekurang-kurangnya satu instrumen kawal selia mengenai hal perkara yang sama, yang ditentukan mengikut cara sebagaimana yang dinyatakan dalam garis panduan yang dikeluarkan oleh Ketua Setiausaha Negara, dibatalkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_6__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh, selepas berunding dengan Ketua Setiausaha Negara, melalui perintah yang disiarkan dalam Warta, meminda lat tempoh di bawah subseksyen (1) atau peratusan pengurangan beban kawal selia di bawah perenggan (1)(b). Kaedah penarafan prestasi perkhidmatan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_7__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Setiausaha Negara hendaklah mewujudkan suatu kaedah penarafan yang selaras dengan Prinsip Iltizam untuk mengukur, menilai dan memantau kecekapan dan keberkesanan penyampaian perkhidmatan Kerajaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_7__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_7__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_7__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kaedah penarafan di bawah subseksyen (1) hendaklah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_7__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_7__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mengukur dan menilai prestasi perkhidmatan sesuatu entiti Kerajaan secara objektif dan telus;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_7__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_7__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggunakan kriteria yang jelas untuk mengukur dan menilai prestasi perkhidmatan sesuatu entiti Kerajaan yang merangkumi kecekapan dan keberkesanan penyampaian perkhidmatan dan pematuhan kepada Prinsip Iltizam; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_7__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_7__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memastikan hasil pengukuran dan penilaian boleh digunakan untuk menambah baik dan meningkatkan mutu perkhidmatan sesuatu entiti Kerajaan. Kewajipan dan kuasa Ketua Setiausaha Negara"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_8__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_8__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_8__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_8__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_8__subsec_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Setiausaha Negara hendaklah menjalankan kewajipan yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_8__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_8__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk merancang, melaksanakan dan memantau dasar berkaitan dengan Prinsip Iltizam;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_8__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_8__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk membuat syor kepada Menteri mengenai kaedah penilaian dan penarafan prestasi perkhidmatan sesuatu entiti Kerajaan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_8__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_8__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menasihati dan mengesyorkan kepada Menteri mengenai pelaksanaan Prinsip Iltizam dan apa-apa perkara lain yang berhubungan dengan Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_8__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_8__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk melakukan apa-apa perkara lain yang timbul atau berbangkit daripada peruntukan Akta ini yang selaras dengan maksud Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Setiausaha Negara hendaklah mempunyai semua kuasa yang perlu bagi, atau berkaitan dengan, atau semunasabahnya bersampingan dengan, penjalanan kewajipannya di bawah Akta ini. Kewajipan ketua entiti Kerajaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_9__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_9__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_9__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_9__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_9__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_9__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_9__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_9__subsec_1__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_9__subsec_1__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua entiti Kerajaan hendaklah menjalankan kewajipan yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_9__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_9__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk memastikan pengurusan dan perkhidmatan entiti Kerajaan di bawah seliaannya adalah selaras dengan maksud Akta ini dan Prinsip Iltizam, dan mematuhi dasar yang ditentukan dari semasa ke semasa;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_9__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_9__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk memastikan tadbir urus di semua peringkat entiti Kerajaan di bawah seliaannya dilaksanakan dengan dedikasi, integriti, akauntabiliti dan telus;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_9__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_9__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menyediakan rangka kerja reformasi struktur untuk mengurangkan beban kawal selia bersama-sama maklumat perancangan serta hala tuju bagi reformasi struktur;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_9__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_9__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk memantau pelaksanaan dasar dan arahan berhubung dengan Prinsip Iltizam di semua peringkat entiti Kerajaan di bawah seliaannya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_9__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_9__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menyelaras dan memantau prestasi perkhidmatan entiti Kerajaan di bawah seliaannya untuk mencapai penarafan yang disasarkan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_9__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_9__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menyediakan dan mengemukakan laporan prestasi perkhidmatan kepada Ketua Setiausaha Negara secara berkala bagi maksud penarafan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_9__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_9__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengemukakan apa-apa maklumat lain sebagaimana yang diarahkan oleh Ketua Setiausaha Negara;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_9__subsec_1__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_9__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menjalankan apa-apa kewajipan lain yang dikenakan terhadapnya di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/9/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua entiti Kerajaan hendaklah mempunyai semua kuasa yang perlu bagi, atau berkaitan dengan, atau semunasabahnya bersampingan dengan, penjalanan kewajipannya di bawah Akta ini. Laporan prestasi perkhidmatan dan penarafan entiti Kerajaan"
+      }
+    }
+  ]
+}

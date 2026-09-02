@@ -18,7 +18,25 @@
 
 4. Alternate members 5. Revocation of appointment 6. Cessation of membership 7. Meetings of Council 8. Secretary to the Council 9. Functions of the Council
 
-10. Council to be assisted by the Department 11. Establishment of committees 12. Delegation of functions and powers 13. Council to recommend changes to law 14. Responsibility of the Government 15. Responsibility of relevant ministries, etc. 16. Responsibility of the private sector and non-governmental organization 17. Follow up 18. Funds 19. Annual reports
+10. Council to be assisted by the Department
+
+11. Establishment of committees
+
+12. Delegation of functions and powers
+
+13. Council to recommend changes to law
+
+14. Responsibility of the Government
+
+15. Responsibility of relevant ministries, etc.
+
+16. Responsibility of the private sector and non-governmental organization
+
+17. Follow up
+
+18. Funds
+
+19. Annual reports
 
 <!-- page 2 -->
 
@@ -28,7 +46,17 @@
 
 ## REGISTRATION OF PERSONS WITH DISABILITIES
 
-20. Appointment and duties of Registrar General and Registrar 21. Register of Persons with Disabilities 22. Application for registration 23. Power of Registrar to call for additional document or information 24. Registration and refusal to register 25. Issuance of "Kad OKU"
+20. Appointment and duties of Registrar General and Registrar
+
+21. Register of Persons with Disabilities
+
+22. Application for registration
+
+23. Power of Registrar to call for additional document or information
+
+24. Registration and refusal to register
+
+25. Issuance of "Kad OKU"
 
 ## PART IV
 
@@ -40,13 +68,27 @@
 
 Accessibility
 
-26. Access to public facilities, amenities and services and buildings 27. Access to public transport facilities 28. Access to education 29. Access to employment 30. Access to information, communication and technology 31. Access to cultural life 32. Access to recreation, leisure and sport
+26. Access to public facilities, amenities and services and buildings
+
+27. Access to public transport facilities
+
+28. Access to education
+
+29. Access to employment
+
+30. Access to information, communication and technology
+
+31. Access to cultural life
+
+32. Access to recreation, leisure and sport
 
 ## Chapter 2 Habilitation and
 
 rehabilitation
 
-36. Habilitation and rehabilitation 36. In-home, residential and other community support services
+36. Habilitation and rehabilitation
+
+36. In-home, residential and other community support services
 
 ## Chapter 3
 
@@ -58,7 +100,9 @@ Health
 
 Persons with Disabilities
 
-36. Prevention of further occurrence of disabilities 37. Availability of health personnel
+36. Prevention of further occurrence of disabilities
+
+37. Availability of health personnel
 
 ## Chapter 4
 
@@ -80,7 +124,15 @@ Situations of risk and humanitarian emergencies
 
 41. Protection against suit and legal proceedings
 
-42. Public Authorities Protection Act 1948 43. Power to make regulations 44. Things done in anticipation of the enactment of this Act 45. Savings and transitional 46. Prevention of anomalies
+42. Public Authorities Protection Act 1948
+
+43. Power to make regulations
+
+44. Things done in anticipation of the enactment of this Act
+
+45. Savings and transitional
+
+46. Prevention of anomalies
 
 <!-- page 4 -->
 
@@ -374,7 +426,9 @@ accessibility or any other matter as it deems necessary or expedient.
 
 (b) may consult the private sector or any non-governmental organization as it deems necessary or expedient to do so.
 
-(3) In formulating its recommendation or proposal under subsection (1), the Council shall have regard to such policies, information and other considerations received during the consultation pursuant to subsection (2) that appear to it to be relevant.
+(3) In formulating its recommendation or proposal under subsection
+
+(1), the Council shall have regard to such policies, information and other considerations received during the consultation pursuant to subsection (2) that appear to it to be relevant.
 
 ### Responsibility of the Government
 
@@ -572,15 +626,7 @@ the most appropriate languages and modes and means of communication for the indi
 
 <!-- page 22 -->
 
-(2) The Government and the provider of
-
-<!-- marginal: information, -->
-
-communication and technology shall in order to enable persons with disabilities to have such access, provide the
-
-<!-- marginal: information, -->
-
-communication and technology in accessible formats and technologies appropriate to different kind of disabilities in a timely manner and without additional cost.
+(2) The Government and the provider of information, communication and technology shall in order to enable persons with disabilities to have such access, provide the information, communication and technology in accessible formats and technologies appropriate to different kind of disabilities in a timely manner and without additional cost.
 
 (3) The Government and the private sector shall accept and facilitate the use of Malaysia Sign Language, Braille, augmentative and alternative communication, and all other accessible means, modes and formats of communication of their choice by persons with disabilities in official transactions.
 

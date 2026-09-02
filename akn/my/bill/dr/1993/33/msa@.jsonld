@@ -88,7 +88,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@/~cl_2",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: \"(2) Bagi maksud subseksyen (1), jika seseorang Hakim— (a) telah, sebagaimana yang dikehendaki oleh Yang di-Pertuan Agong di bawah 8c, melepaskan jawatannya untuk berkhidmat dalam suatu jawatan yang lain selama apa- apa tempoh demi kepentingan negara; dan (b) selepas menamatkan tempoh per- khidmatannya dalam jawatan yang lain itu dilantik semula serta-merta untuk memegang jawatan Hakim, tempoh perkhidmatannya sebagai Hakim sebelum, dan tempoh dia berkhidmat dalam jawatan yang lain itu selepas, dia melepaskan jawatannya sebagai Hakim hendaklah dihitung sebagai tempoh perkhidmatan sebagai Hakim.\". Pindaan"
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: \"(2) Bagi maksud subseksyen (1), jika seseorang Hakim— (a) telah, sebagaimana yang dikehendaki oleh Yang di-Pertuan Agong di bawah 8c, melepaskan jawatannya untuk berkhidmat dalam suatu jawatan yang lain selama apa- apa tempoh demi kepentingan negara; dan (b) selepas menamatkan tempoh per- khidmatannya dalam jawatan yang lain itu dilantik semula serta-merta untuk memegang jawatan Hakim, tempoh perkhidmatannya sebagai Hakim sebelum, dan tempoh dia berkhidmat dalam jawatan yang lain itu selepas, dia melepaskan jawatannya sebagai Hakim hendaklah dihitung sebagai perkhidmatan sebagai Hakim.\"."
       }
     },
     {
@@ -102,7 +102,11 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@",
       "schema:name": {
         "@language": "ms",
-        "@value": "Seksyen SB Akta ibu adalah dipinda dalam seksyen 8B. subseksyen (1)—"
+        "@value": "Seksyen SB Akta ibu adalah dipinda dalam"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "subseksyen (1)—"
       }
     },
     {
@@ -130,9 +134,13 @@
       "@type": "akn:clause",
       "eli:number": "4",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas baru 8c seksyen 8B seksyen yang berikut: Pelepasan 8c. Seseorang Hakim Mahkamah Agung atau jawatan Mahkamah Tinggi yang belum mencapai umur demi enam puluh tahun boleh dikehendaki oleh kepen- tingan Yang di-Pertuan Agong supaya melepaskan negara jawatan Hakim untuk berkhidmat dalam suatu jawatan yang lain selama apa-apa tempoh demi kepentingan negara.\". Pindaan"
+        "@value": "seksyen 8B seksyen yang berikut: Pelepasan 8c. Seseorang Hakim Mahkamah Agung atau jawatan Mahkamah Tinggi yang belum mencapai umur demi enam puluh tahun boleh dikehendaki oleh kepen- tingan Yang di-Pertuan Agong supaya melepaskan negara jawatan Hakim untuk berkhidmat dalam suatu jawatan yang lain selama apa-apa tempoh demi kepentingan negara.\"."
       }
     },
     {
@@ -140,9 +148,13 @@
       "@type": "akn:clause",
       "eli:number": "5",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 12 Akta ibu adalah dipinda dengan"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Seksyen 12 Akta ibu adalah dipinda dengan seksyen 12. memasukkan selepas subseksyen (3o) subseksyen yang berikut: SARAAN HAKIM (PINDAAN) jawatan yang lain selama apa-apa tempoh demi kepentingan negara, dan masih berkhidmat dalam jawatan itu apabila dia mencapai umur lima puluh tahun.\"."
+        "@value": "memasukkan selepas subseksyen (3o) subseksyen yang berikut: SARAAN HAKIM (PINDAAN) jawatan yang lain selama apa-apa tempoh demi kepentingan negara, dan masih berkhidmat dalam jawatan itu apabila dia mencapai umur lima puluh tahun.\"."
       }
     },
     {

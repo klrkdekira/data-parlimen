@@ -16,7 +16,11 @@
 
 ## SHARIAH SUPERVISORY COUNCIL
 
-7. Establishment of the Shariah Supervisory Council 8. Functions of the Shariah Supervisory Council 9. Power to make rulings and give advice 10. Appointment of members to the Shariah Supervisory Council 11. Reference by court or arbitrator in making decision
+7. Establishment of the Shariah Supervisory Council 8. Functions of the Shariah Supervisory Council 9. Power to make rulings and give advice
+
+10. Appointment of members to the Shariah Supervisory Council
+
+11. Reference by court or arbitrator in making decision
 
 ## PART III
 
@@ -26,7 +30,13 @@
 
 Offer of securities
 
-12. Interpretation 13. Offers or invitations which require the approval of the Authority 14. False or misleading statements 15. Advertisements
+12. Interpretation
+
+13. Offers or invitations which require the approval of the Authority
+
+14. False or misleading statements
+
+15. Advertisements
 
 <!-- page 2 -->
 
@@ -98,19 +108,45 @@ Labuan Islamic Financial Services and Securities
 
 Islamic public fund
 
-36. Islamic public fund shall be registered 37. Application by Islamic public fund 38. Power to grant or refuse registration of Islamic public fund 39. Registration procedure 40. Prospectus relating to Islamic public fund 41. Investors’ rights 42. Limitation 43. Certificate of compliance 44. Foreign Islamic public fund may be managed or administered in Labuan
+36. Islamic public fund shall be registered
+
+37. Application by Islamic public fund
+
+38. Power to grant or refuse registration of Islamic public fund
+
+39. Registration procedure
+
+40. Prospectus relating to Islamic public fund
+
+41. Investors’ rights
+
+42. Limitation
+
+43. Certificate of compliance
+
+44. Foreign Islamic public fund may be managed or administered in Labuan
 
 ## Chapter 4
 
 Fund managers and fund administrators
 
-45. Fund manager or fund administrator of an Islamic public fund 46. Duties of a fund manager and fund administrator of an Islamic public fund 47. Duties of a fund manager and fund administrator under applicable law 48. Specific duties of a fund manager of an Islamic public fund 49 Duty to segregate client’s assets
+45. Fund manager or fund administrator of an Islamic public fund
+
+46. Duties of a fund manager and fund administrator of an Islamic public fund
+
+47. Duties of a fund manager and fund administrator under applicable law
+
+48. Specific duties of a fund manager of an Islamic public fund 49 Duty to segregate client’s assets
 
 ## Chapter 5
 
 Trustees or custodians
 
-50. Eligibility of a trustee or custodian of an Islamic public fund 51. Duties of a trustee or custodian and director under applicable law 52. Duty of a fund manager, custodian or trustee to be independent of each other
+50. Eligibility of a trustee or custodian of an Islamic public fund
+
+51. Duties of a trustee or custodian and director under applicable law
+
+52. Duty of a fund manager, custodian or trustee to be independent of each other
 
 <!-- page 4 -->
 
@@ -174,13 +210,31 @@ Labuan Islamic Financial Services and Securities
 
 <!-- marginal: 5 -->
 
-65. Application for licence to carry on Labuan Islamic financial business 66. Additional information 67. Grant of licence by the Authority 68. Requirement to use, and restriction on use of, the words “Labuan Islamic bank”, etc. 69. Maintenance of capital adequacy ratio 70. Amendment or alteration of constituent documents of Islamic bank licensee 71. Authority to publish list of Labuan Islamic bank licensee
+65. Application for licence to carry on Labuan Islamic financial business
+
+66. Additional information
+
+67. Grant of licence by the Authority
+
+68. Requirement to use, and restriction on use of, the words “Labuan Islamic bank”, etc.
+
+69. Maintenance of capital adequacy ratio
+
+70. Amendment or alteration of constituent documents of Islamic bank licensee
+
+71. Authority to publish list of Labuan Islamic bank licensee
 
 ## Chapter 3
 
 Duties of Islamic bank licensees
 
-72. Offices and subsidiaries 73. Prohibition of certain accounts 74. Financial statements, statistics and information to be submitted to the Authority 75. Payment from a deceased person’s account
+72. Offices and subsidiaries
+
+73. Prohibition of certain accounts
+
+74. Financial statements, statistics and information to be submitted to the Authority
+
+75. Payment from a deceased person’s account
 
 ## PART VII
 
@@ -188,13 +242,25 @@ Duties of Islamic bank licensees
 
 ## Chapter 1
 
-Preliminary 76. Interpretation
+Preliminary
+
+76. Interpretation
 
 ## Chapter 2
 
 Licensing
 
-77. Licensing of Labuan takaful business and Labuan takaful related activities 78. Application for takaful licence to carry on Labuan takaful business 79. Application for takaful licence to carry on Labuan takaful related activities 80. Grant of takaful licence 81. Publication of list of all Labuan takaful licensees 82. Continuing licensing requirements
+77. Licensing of Labuan takaful business and Labuan takaful related activities
+
+78. Application for takaful licence to carry on Labuan takaful business
+
+79. Application for takaful licence to carry on Labuan takaful related activities
+
+80. Grant of takaful licence
+
+81. Publication of list of all Labuan takaful licensees
+
+82. Continuing licensing requirements
 
 <!-- page 6 -->
 
@@ -266,13 +332,21 @@ Labuan Islamic Financial Services and Securities
 
 ## LABUAN ISLAMIC TRUSTS
 
-105. Establishment of Labuan Islamic trusts 106. Assets of Labuan Islamic trusts
+105. Establishment of Labuan Islamic trusts
+
+106. Assets of Labuan Islamic trusts
 
 ## PART IX
 
 ## LABUAN ISLAMIC FOUNDATION
 
-107. Establishment of Labuan Islamic foundation 108. Object and purpose 109. Charter 110. Assets
+107. Establishment of Labuan Islamic foundation
+
+108. Object and purpose
+
+109. Charter
+
+110. Assets
 
 ## PART X
 
@@ -280,13 +354,29 @@ Labuan Islamic Financial Services and Securities
 
 ## ISLAMIC LIMITED LIABILITY PARTNERSHIPS
 
-111. Establishment of Labuan Islamic limited partnership and Labuan Islamic limited liability partnership 112. Object and purpose
+111. Establishment of Labuan Islamic limited partnership and Labuan Islamic limited liability partnership
+
+112. Object and purpose
 
 ## PART XI
 
 ## ISLAMIC SELF-REGULATORY ORGANIZATIONS
 
-113. Declaration or recognition of an Islamic self-regulatory organization 114. Rules of an Islamic self-regulatory organization 115. Restriction on decision-making 116. Obligations of and in relation to officers of an Islamic self-regulatory organization 117. Powers to direct an Islamic self-regulatory organization 118. Termination of arrangements and revocation of declaration or recognition 119. Amendments to the constitution of an Islamic self-regulatory organization 120. Protection for an Islamic self-regulatory organization
+113. Declaration or recognition of an Islamic self-regulatory organization
+
+114. Rules of an Islamic self-regulatory organization
+
+115. Restriction on decision-making
+
+116. Obligations of and in relation to officers of an Islamic self-regulatory organization
+
+117. Powers to direct an Islamic self-regulatory organization
+
+118. Termination of arrangements and revocation of declaration or recognition
+
+119. Amendments to the constitution of an Islamic self-regulatory organization
+
+120. Protection for an Islamic self-regulatory organization
 
 <!-- page 8 -->
 
@@ -354,7 +444,35 @@ Labuan Islamic Financial Services and Securities
 
 <!-- marginal: 9 -->
 
-147. Protection against suit and legal proceedings 148. General penalty 149. Offence by body corporate 150. Annual and licence fees 151. Procedure where none laid down 152. Misrepresentation 153. Enforcement 154. Power to compound 155. Service of documents 156. Power of the Minister to make regulations 157. Power of the Minister to issue directions 158. Power of the Minister to amend Schedules 159. Power of the Minister to grant exemptions 160. Publication of notification, Gazette 161. Savings and transitional
+147. Protection against suit and legal proceedings
+
+148. General penalty
+
+149. Offence by body corporate
+
+150. Annual and licence fees
+
+151. Procedure where none laid down
+
+152. Misrepresentation
+
+153. Enforcement
+
+154. Power to compound
+
+155. Service of documents
+
+156. Power of the Minister to make regulations
+
+157. Power of the Minister to issue directions
+
+158. Power of the Minister to amend Schedules
+
+159. Power of the Minister to grant exemptions
+
+160. Publication of notification, Gazette
+
+161. Savings and transitional
 
 ## FIRST SCHEDULE
 
@@ -978,11 +1096,15 @@ Labuan Islamic Financial Services and Securities
 
 <!-- page 32 -->
 
-32 Bill
+<!-- marginal: 32 -->
+
+Bill
 
 (2) Notwithstanding subsection (1), the requirement under that subsection shall not apply if the offer or invitation is made pursuant to or in connection with an offer or invitation excluded under subsection 13(5).
 
-(3) The Authority shall not register a copy of any prospectus—
+(3) The Authority shall not register a copy of any
+
+<!-- marginal: prospectus— -->
 
 (a) if it contains any statement or matter which is in its opinion misleading in the form and context in which it is included; and
 
@@ -2188,7 +2310,9 @@ Labuan Islamic Financial Services and Securities
 
 <!-- page 76 -->
 
-76 Bill
+<!-- marginal: 76 -->
+
+Bill
 
 participants who each holds ten per centum or more of the paid-up capital of the applicant for each of the three financial years immediately preceding the date of application;
 
@@ -2240,7 +2364,9 @@ Labuan Islamic Financial Services and Securities
 
 <!-- page 78 -->
 
-78 Bill
+<!-- marginal: 78 -->
+
+Bill
 
 (d) a copy of the audited balance sheet of the applicant’s business for each of the three financial years immediately preceding the date of the application;
 
@@ -2606,9 +2732,7 @@ for the purpose of subsection (ii), save that with respect to applicants who app
 
 <!-- page 91 -->
 
-Labuan Islamic Financial Services and Securities
-
-<!-- marginal: 91 -->
+Labuan Islamic Financial Services and Securities 91
 
 (c) set out the types of Labuan takaful business, as the case may be, which are to be carried on under the takaful licence;
 
@@ -2638,7 +2762,9 @@ Labuan Islamic Financial Services and Securities
 
 <!-- page 92 -->
 
-92 Bill
+<!-- marginal: 92 -->
+
+Bill
 
 (iv) a declaration by the applicant on the probity of the applicant’s directors and officers who would be concerned in the management of the proposed Labuan takaful operator; and
 
@@ -2712,9 +2838,7 @@ Labuan Islamic Financial Services and Securities
 
 <!-- page 95 -->
 
-Labuan Islamic Financial Services and Securities
-
-<!-- marginal: 95 -->
+Labuan Islamic Financial Services and Securities 95
 
 the applicant, authorizing the applicant to apply for a takaful licence;
 
@@ -2738,7 +2862,9 @@ the applicant, authorizing the applicant to apply for a takaful licence;
 
 <!-- page 96 -->
 
-96 Bill
+<!-- marginal: 96 -->
+
+Bill
 
 applicant in respect of the business of a Labuan takaful manager, a Labuan takaful underwriting manager or a Labuan takaful broker, as the case may be, in such manner and such form as may be acceptable to the Authority, and such guarantee and undertaking shall provide, inter alia, that—
 
@@ -2750,7 +2876,9 @@ applicant in respect of the business of a Labuan takaful manager, a Labuan takaf
 
 (3) The Authority may require from the applicant such other information or documents as may be specified by the Authority for the purpose of determining the application.
 
-(4) The matters specified under subsection (2) may differ as between applicants, or different classes, categories or descriptions of applicants.
+(4) The matters specified under subsection (2) may differ as between applicants, or different classes, categories or descriptions
+
+<!-- marginal: of applicants. -->
 
 <!-- page 97 -->
 
@@ -3356,7 +3484,9 @@ he shall forthwith report in writing the matter to the Authority.
 
 ### organization
 
-122. For the purposes of this Part, the powers conferred to the Authority under section 117 shall apply equally with respect to any corporations or organizations declared or recognized by the Authority as an Islamic self-regulatory organization under section 113.
+122. For the purposes of this Part, the powers conferred to the Authority under section 117 shall apply equally with respect to any corporations or organizations declared or recognized by the Authority as an Islamic self-regulatory organization under section
+
+113.
 
 ## PART XII
 
@@ -3688,7 +3818,9 @@ Labuan Islamic Financial Services and Securities
 
 may in giving any authorization under this section, impose such restrictions, limitations, or conditions as it may deem fit.
 
-(4) Notwithstanding anything contained in any authorization given, or in any scheme or document approved, under subsection (3), any person authorized under that subsection shall comply with any regulations made under this Act relating to payment systems, and where there is any conflict or inconsistency between the terms of such authorization or anything in such scheme or in any such document and such regulations, the provisions of the regulations shall prevail and have full force and effect.
+(4) Notwithstanding anything contained in any authorization given, or in any scheme or document approved, under subsection
+
+(3), any person authorized under that subsection shall comply with any regulations made under this Act relating to payment systems, and where there is any conflict or inconsistency between the terms of such authorization or anything in such scheme or in any such document and such regulations, the provisions of the regulations shall prevail and have full force and effect.
 
 (5) While an authorization under subsection (3) is in force, the Authority may, from time to time, inspect the premises, equipment, machinery, books or other documents, accounts or transactions relating to the payment system.
 
@@ -3872,7 +4004,9 @@ Labuan Islamic Financial Services and Securities
 
 146. (1) No Islamic bank licensee shall, in respect of any business carried on by such licensee be subjected to any of the provisions of the Banking and Financial Institutions Act 1989 and the Islamic Banking Act 1983.
 
-(2) No takaful licensee shall, in respect of any business carried on by such licensee under Part VII, be subjected to any of the provisions of the Insurance Act 1996 and the Takaful Act 1984.
+(2) No takaful licensee shall, in respect of any business carried on by such licensee under Part VII, be subjected to any of the provisions of the Insurance Act 1996 and the Takaful Act
+
+1984.
 
 <!-- page 140 -->
 
@@ -4090,45 +4224,49 @@ Corporation a person incorporated a shareholder occupying the position of direct
 
 <!-- page 149 -->
 
-Labuan Islamic Financial Services and Securities
+Labuan Islamic Financial Services and Securities 149
 
-<!-- marginal: 149 -->
+<!-- marginal: First Column -->
 
-First Column Second Column Third Column
+Second Column Third Column Fourth Column
 
-<!-- marginal: Fourth Column -->
+<!-- marginal: (person) -->
 
-(person) (director) (established)
+(director) (established) (participant)
 
-<!-- marginal: (participant) -->
+<!-- marginal: Partnership -->
 
-Partnership a partner its formation
+a partner its formation a partner
 
-<!-- marginal: a partner -->
+a partner its formation
 
-<!-- marginal: a partner -->
+<!-- marginal: Limited -->
 
-its formation Limited the general or where partnership partner (or registration or person holding other form of such similar recording or role) recognition is required before activities or business can lawfully be commenced, its registration, recording or legal recognition under the law applicable
+the general or where
 
-Limited the designated its formation
+<!-- marginal: partnership -->
 
-<!-- marginal: a limited -->
+partner (or registration or person holding other form of such similar recording or role) recognition is required before activities or business can lawfully be commenced, its registration, recording or legal recognition under the law applicable
 
-liability partner (or or where
+<!-- marginal: Limited -->
 
-<!-- marginal: partner -->
+the designated its formation a limited
 
-partnership person holding registration or such similar other form of role) recording or recognition is required before activities or business can lawfully be commenced, its registration, recording or legal recognition under the law applicable
+<!-- marginal: liability -->
 
-Sole- the sole where
+partner (or or where partner
 
-<!-- marginal: the sole -->
+<!-- marginal: partnership -->
 
-proprietorship proprietor registration or
+person holding registration or such similar other form of role) recording or recognition is required before activities or business can lawfully be commenced, its registration, recording or legal recognition under the law applicable
 
-<!-- marginal: proprietor -->
+<!-- marginal: Sole- -->
 
-other form of recording or recognition is required before activities or
+the sole where the sole
+
+<!-- marginal: proprietorship -->
+
+proprietor registration or proprietor other form of recording or recognition is required before activities or
 
 <!-- page 150 -->
 
@@ -4466,7 +4604,9 @@ Labuan Islamic Financial Services and Securities
 
 95. Clause 94 sets out the power of a policy owner who has attained the age of eighteen years to make nominations of natural persons to receive policy monies payable upon his death.
 
-96. Clause 95 provides for the revocation of nominations made under clause 94.
+96. Clause 95 provides for the revocation of nominations made under clause
+
+94.
 
 97. Clause 96 seeks to provide for the manner in which policy monies shall be paid upon the death of a policy owner in accordance with the direction of the nomination made under clause 94.
 

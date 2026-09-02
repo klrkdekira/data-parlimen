@@ -20,13 +20,21 @@ Naskhah Sahih—Bab II, III, IV dan V —Bahasa Inggeris
 
 ## PINDAAN KEPADA AKTA CUKAI PENDAPATAN 1967
 
-3. Mula berkuatkuasanya pindaan kepada Akta Cukai Pendapatan 1967. 4. Pindaan seksyen 34. 5. Seksyen baru 60F. 6. Pindaan seksyen 108. 7. Pindaan seksyen 109. 8. Pindaan seksyen 110. 9. Pindaan Jadual 1. 10. Pindaan Jadual 6.
+3. Mula berkuatkuasanya pindaan kepada Akta Cukai Pendapatan 1967. 4. Pindaan seksyen 34. 5. Seksyen baru 60F. 6. Pindaan seksyen 108. 7. Pindaan seksyen 109. 8. Pindaan seksyen 110. 9. Pindaan Jadual 1.
+
+10. Pindaan Jadual 6.
 
 ## BAB III
 
 ## PINDAAN KEPADA AKTA SETEM 1949
 
-11. Mula berkuatkuasanya pindaan kepada Akta Setem 1949. 12. Pindaan seksyen 9. 13. Penggantian seksyen 12A. 14. Pindaan Jadual Pertama.
+11. Mula berkuatkuasanya pindaan kepada Akta Setem 1949.
+
+12. Pindaan seksyen 9.
+
+13. Penggantian seksyen 12A.
+
+14. Pindaan Jadual Pertama.
 
 <!-- page 2 -->
 
@@ -124,13 +132,21 @@ taksiran 1994 dan tahun-tahun taksiran yang berikutnya.
 
 <!-- page 4 -->
 
-(3) Seksyen 6( b) hendaklah disifatkan telah berkuatkuasa bagi tahun taksiran 1989.
+(3) Seksyen 6( b) hendaklah disifatkan
+
+<!-- marginal: telah -->
+
+berkuatkuasa bagi tahun taksiran 1989.
 
 (4) Seksyen 7 hendaklah disifatkan telah mula berkuatkuasa pada 30hb Oktober 1992.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-4. Seksyen 34 Akta Cukai Pendapatan 1967, yang seksyen 34. discbut "Akta ibu" dalam Bab ini, adalah dipinda, dalam subseksyen (6)—
+4. Seksyen 34 Akta Cukai Pendapatan 1967, yang
+
+<!-- marginal: seksyen 34. -->
+
+discbut "Akta ibu" dalam Bab ini, adalah dipinda, dalam subseksyen (6)—
 
 (a) dengan memotong perkataan "and" di hujung perenggan (d);
 
@@ -138,11 +154,29 @@ Pindaan
 
 (c) dengan memasukkan, selepas perenggan (e), perenggan yang bcrikut:
 
-"(f) an amount equal to the expenditure incurred by the relevant person in the relevant period in respect of translation into or publication in the national language of cultural, literary, professional, scientific or technical books approvcd by thc Dewan Bahasa dan Pustaka.".
+"(f) an amount equal to the expenditure incurred by the relevant person in the relevant period in respect of translation into or publication in the national language of cultural,
 
-5. Akta ibu adalah dipinda dengan memasukkan, baru 60E selepas seksyen 60E, seksyen yang bcrikut:
+<!-- marginal: literary, -->
 
-"Inves- 60F. ( 1) Where an investment holding ment company is residcnt for the hasis year for a holding company. year of assessmcnt there shall be deducted in arriving at t he total income before any deduction falling to be made under section 44(1 )(c) an amount in respcct of expenses incurred by that company in the basis pcriod for that year of assessment, which amount shall be determincd in accordance with the formula—
+professional, scientific or
+
+<!-- marginal: technical -->
+
+books approvcd by thc Dewan Bahasa dan Pustaka.".
+
+<!-- marginal: Seksyen -->
+
+5. Akta ibu adalah dipinda dengan memasukkan,
+
+<!-- marginal: baru 60E -->
+
+selepas seksyen 60E, seksyen yang bcrikut:
+
+"Inves- 60F. ( 1) Where an investment
+
+<!-- marginal: holding -->
+
+ment company is residcnt for the hasis year for a holding company. year of assessmcnt there shall be deducted in arriving at t he total income before any deduction falling to be made under section 44(1 )(c) an amount in respcct of expenses incurred by that company in the basis pcriod for that year of assessment, which amount shall be determincd in accordance with the formula—
 
 AxB 4C
 
@@ -152,35 +186,19 @@ AxB 4C
 
 (No.
 
-where A is the total of the permitted expenses incurred for that basis period reduced by any receipt of a similar kind;
+<!-- marginal: where A -->
 
-B is the gross income consisting of dividend, interest
+is the total of the permitted expenses incurred for that basis period reduced by any receipt of a similar kind;
 
-<!-- marginal: and -->
-
-<!-- marginal: rent -->
-
-chargeable to tax for that basis period; and
+B is the gross income consisting of dividend, interest and rent chargeable to tax for that basis period; and
 
 C is the aggregate of the gross income consisting of dividend (whether exempt or not), interest and rent, and gains made from the realisation of irvestments for that basis period:
 
 Provided that—
 
-(a) the amount of deduction to be made shall not exceed five per cent
+(a) the amount of deduction to be made shall not exceed five per cent of the gross income consisting of dividend, interest and rent for that basis period; and
 
-<!-- marginal: of -->
-
-<!-- marginal: the -->
-
-gross income consisting of dividend, interest and rent for that basis period; and
-
-(b) where, by reason of an absence or insufficiency of aggregate income for that year of assessment, effect cannot be given or cannot be given in f u ll
-
-<!-- marginal: to -->
-
-<!-- marginal: any -->
-
-deduction falling to be made to the investment holding company under this section for that year, that deduction which has not been so made shall not be made to the investment holding com- pany for any subsequent year of assessment.
+(b) where, by reason of an absence or insufficiency of aggregate income for that year of assessment, effect cannot be given or cannot be given in f u ll to any deduction falling to be made to the investment holding company under this section for that year, that deduction which has not been so made shall not be made to the investment holding com- pany for any subsequent year of assessment.
 
 <!-- page 6 -->
 
@@ -202,9 +220,11 @@ deduction falling to be made to the investment holding company under this sectio
 
 which are not deductible under section 33(1).".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-6. Seksyen 108 Akta ibu adalah dipinda— seksyen 108.
+6. Seksyen 108 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 108. -->
 
 (a) dengan memasukkan, selepas subseksyen (2A), subseksyen yang berikut:
 
@@ -212,9 +232,7 @@ Pindaan
 
 (a) the amount in fact paid or credited; or
 
-(b) where the dividend consists of property other than money,
-
-<!-- marginal: the -->
+(b) where the dividend consists of property other than money, the
 
 <!-- page 7 -->
 
@@ -252,7 +270,7 @@ memasukkan, selepas subseksyen (1A), subseksyen yang berikut:
 
 the basis year for the year of assessment 1993 has been-deducted at the rate of thirty-five per cent, the tax to be set off under subsection (1) shall be the sum deemed to be the tax deducted from such dividend under section 108(2B).".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
 9. Jadual 1 kepada Akta ibu adalah dipinda—
 
@@ -260,11 +278,7 @@ Pindaan
 
 (a) dengan menggantikan kadar-kadar dalam perenggan 1 Bahagian I dengan kadar-kadar yang berikut:
 
-"Chargeable Income
-
-<!-- marginal: Rate of -->
-
-Income Tax
+"Chargeable Income Rate of Income Tax
 
 For every ringgit of the first 2 per cent $2,500
 
@@ -292,75 +306,29 @@ For every ringgit exceeding 34 per cent $100,000
 
 (No.
 
-(c) dengan menggantikan kadar-kadar dalam
+(c) dengan menggantikan kadar-kadar dalam Bahagian IV dengan kadar-kadar yang berikut:
 
-## Bahagian IV dengan kadar-kadar yang berikut:
+Rate of "Chargeable Income Income Tax 2 per cent For every ringgit of the first $10,000
 
-<!-- marginal: Rate of -->
+For every ringgit of the next 4 per cent $10,000
 
-"Chargeable Income
+7 per cent For every ringgit of the next $10,000
 
-<!-- marginal: Income Tax -->
+For every ringgit of the next 10 per cent $10,000
 
-<!-- marginal: 2 per cent -->
+For every ringgit of the next 13 per cent $10.000
 
-For every ringgit of the first $10,000
+For every ringgit of the next 17 per cent $25,000
 
-For every ringgit of the next
+For every ringgit of the next 22 per cent $25,000
 
-<!-- marginal: 4 per cent -->
+For every ringgit of the next 26 per cent $50,000
 
-$10,000
+29 per cent For every ringgit of the next $100,000
 
-<!-- marginal: 7 per cent -->
+For every ringgit of the next 32 per cent $250,000
 
-For every ringgit of the next $10,000
-
-For every ringgit of the next
-
-<!-- marginal: 10 per cent -->
-
-$10,000
-
-For every ringgit of the next
-
-<!-- marginal: 13 per cent -->
-
-$10.000
-
-For every ringgit of the next
-
-<!-- marginal: 17 per cent -->
-
-$25,000
-
-For every ringgit of the next
-
-<!-- marginal: 22 per cent -->
-
-$25,000
-
-For every ringgit of the next
-
-<!-- marginal: 26 per cent -->
-
-$50,000
-
-<!-- marginal: 29 per cent -->
-
-For every ringgit of the next $100,000
-
-For every ringgit of the next
-
-<!-- marginal: 32 per cent -->
-
-$250,000
-
-For every ringgit exceeding
-
-<!-- marginal: 34 per cent -->
-
-$500,000
+For every ringgit exceeding 34 per cent $500,000
 
 <!-- marginal: Pindaan -->
 
@@ -384,13 +352,27 @@ $500,000
 
 ## PINDAAN KEPADA AKTA SETEM 1949
 
-Mula ber-
+<!-- marginal: Mula ber- -->
 
-11. Bab ini hendaklah mula berkuatkuasa pada kuatkuasanya 1hb Januari 1993. pindaan kepada Akta Setem 1949.
+11. Bab ini hendaklah mula berkuatkuasa pada
 
-Pindaan
+<!-- marginal: kuatkuasanya -->
 
-12. (1) Seksyen 9 Akta Setem 1949, yang disebut "Akta seksyen 9 ibu" dalam Bab ini, adalah dipinda, dalam subseksyen
+1hb Januari 1993.
+
+<!-- marginal: pindaan -->
+
+<!-- marginal: kepada Akta -->
+
+<!-- marginal: Setem 1949. -->
+
+<!-- marginal: Pindaan -->
+
+12. (1) Seksyen 9 Akta Setem 1949, yang disebut "Akta
+
+<!-- marginal: seksyen 9 -->
+
+ibu" dalam Bab ini, adalah dipinda, dalam subseksyen
 
 (1), dengan menggantikan perenggan (c) dengan perenggan yang berikut:
 
@@ -404,15 +386,33 @@ Pindaan
 
 (No.
 
-<!-- marginal: Penggantian -->
+Penggantian
 
-13. Akta ibu adalah dipinda dengan menggantikan
+13. Akta ibu adalah dipinda dengan menggantikan seksyen 12A. seksyen 12A dengan seksyen yang berikut:
 
-<!-- marginal: seksyen 12A. -->
+<!-- marginal: "Assess- -->
 
-seksyen 12A dengan seksyen yang berikut:
+12A. Where an instrument is chargeable with
 
-"Assess- 12A. Where an instrument is chargeable with ment of duty under Item 32(a) of the First Schedule, the the value of propeny date for determining the market value of any under property being transferred, settled or giited lransfer or settlement. shall be—
+<!-- marginal: ment of -->
+
+duty under Item 32(a) of the First Schedule, the
+
+<!-- marginal: the value -->
+
+<!-- marginal: of propeny -->
+
+date for determining the market value of any
+
+<!-- marginal: under -->
+
+property being transferred, settled or giited
+
+<!-- marginal: lransfer or -->
+
+<!-- marginal: settlement. -->
+
+shall be—
 
 (a) in the case of a settlement or gift, the date of execution of the instrument of trust or settlement or gift; or
 
@@ -426,11 +426,17 @@ seksyen 12A dengan seksyen yang berikut:
 
 <!-- page 12 -->
 
-Pindaan 14. Jadual Pertama kepada Akta ibu adalah dipinda
+<!-- marginal: Pindaan -->
+
+14. Jadual Pertama kepada Akta ibu adalah dipinda
 
 ## Jadual
 
-dengan menggantikan peruntukan-peruntukan dalam Pertama. rua.ng ketiga bagi Butiran 32(a) dengan peruntukan- peruntukan yang berikut:
+dengan menggantikan peruntukan-peruntukan dalam
+
+<!-- marginal: Pertama. -->
+
+rua.ng ketiga bagi Butiran 32(a) dengan peruntukan- peruntukan yang berikut:
 
 "For every $100 or fractional part of $100 of the amount of the money value of the consideration or the market value of the property, whichever is the greater—
 
@@ -440,23 +446,27 @@ dengan menggantikan peruntukan-peruntukan dalam Pertama. rua.ng ketiga bagi Buti
 
 (iii) $3.00 on any amount in excess of $500,000 but not exceeding $2,000,000;
 
-(iv) $4.00 on any amount
-
-<!-- marginal: in excess of -->
-
-$2,000,000.".
+(iv) $4.00 on any amount in excess of $2,000,000.".
 
 ## BAB IV
 
 ## PINDAAN KEPADA AKTA KEWANGAN 1991
 
-Pindaan 15. (1) Seksyen 3 Akta Kewangan 1991 adalah seksyen 3. dipinda—
+<!-- marginal: Pindaan -->
+
+15. (1) Seksyen 3 Akta Kewangan 1991 adalah
+
+<!-- marginal: seksyen 3. -->
+
+dipinda—
 
 (a) dengan memasukkan, selepas angka dan tanda baca "7," dalam subseksyen (1), angka dan tanda baca "8,"; dan
 
 (b) dengan memasukkan, selepas angka dan tanda baca "7," dalam subseksyen (3), angka dan tanda baca "8,".
 
-(2) Pindaan dalam perenggan (a) dan (b) subseksyen (1) hendaklah masing-masingnya berkuatkuasa bagi tahun taksiran 1991 and 1992.
+(2) Pindaan dalam perenggan (a) dan (b) subseksyen
+
+(1) hendaklah masing-masingnya berkuatkuasa bagi tahun taksiran 1991 and 1992.
 
 <!-- page 13 -->
 
@@ -552,6 +562,4 @@ selanjutnya bertujuan mengurangkan kadar cukai bagi koperasi dalam Bahagian IV J
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
-
-<!-- marginal: [PN. (U2) 1735.] -->
+Rang Undang-undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN. (U2) 1735.]

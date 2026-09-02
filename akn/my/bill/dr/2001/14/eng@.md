@@ -14,7 +14,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ### Short title
 
-1. This Act may be cited as the Free Zones (Amendment) Act 2001.
+1. This Act may be cited as the Free Zones (Amendment) Act
+
+2001.
 
 ### New section 23A
 

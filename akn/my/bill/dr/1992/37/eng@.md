@@ -4,9 +4,7 @@
 
 intituled
 
-An Act to amend the Petroleum (Safety Measures) Act
-
-1984. [ ]
+An Act to amend the Petroleum (Safety Measures) Act 1984. [ ]
 
 BE IT ENACTED by the Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong with the advice and consent of the Dewan Negara and Dewan Rakyat in Parliament assembled, and by the authority of the same, as follows:
 
@@ -38,9 +36,13 @@ by inserting, immediately after section 18, the following new section 18A:
 
 <!-- page 2 -->
 
-New
+<!-- marginal: New -->
 
-3. The principal Act is amended by inserting, section 27A. immediately after section 27, the following new section 27A:
+3. The principal Act is amended by inserting,
+
+<!-- marginal: section 27A. -->
+
+immediately after section 27, the following new section 27A:
 
 "Part VI not 27A. (1) This Part shall not apply to any applicable person who holds a licence under the Gas to licensee under Gas Supply Act 1992 for the supply of gas to Supply consumers through pipelines from the storage Act 1992. Act tank or cylinder specifically used
 
@@ -66,11 +68,7 @@ This Bill seeks to amend the Petroleum (Safety Measures) Act 1984 (hereinafter r
 
 be required to obtain another licence under the Act for the storage or handling of petroleum.
 
-With the introduction of the new section 27 A it will also mean that all the provisions on the storage and handling of petroleum in
-
-## Part VI in relation to the supply of gas to consumers through
-
-pipelines will be dealt with separately under the Gas Supply Act 1992 and the regulations to be made thereunder.
+With the introduction of the new section 27 A it will also mean that all the provisions on the storage and handling of petroleum in Part VI in relation to the supply of gas to consumers through pipelines will be dealt with separately under the Gas Supply Act 1992 and the regulations to be made thereunder.
 
 ## FINANCIAL
 

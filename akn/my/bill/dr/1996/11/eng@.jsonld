@@ -27,8 +27,7 @@
       "hasPart": [
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/11/eng@/~cl_1",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/11/eng@/~cl_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/11/eng@/~cl_3",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/11/eng@/~sched_1"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/11/eng@/~cl_3"
       ],
       "schema:name": {
         "@language": "en",
@@ -114,17 +113,7 @@
       },
       "schema:text": {
         "@language": "en",
-        "@value": "by section 2 of this Act, shall not affect the composition of the House of Representatives or any election to that House until the dissolution of Parliament occurring on or after the date of the coming into force of the Order made under section 12 of the Thirteenth Schedule to the Federal Constitution following the review undertaken"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/11/eng@/~sched_1",
-      "@type": "akn:schedule",
-      "eli:number": "1",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/11/eng@",
-      "schema:text": {
-        "@language": "en",
-        "@value": "pursuant to Clause (2) of Article 113 of the Federal Constitution and the said Thirteenth Schedule."
+        "@value": "by section 2 of this Act, shall not affect the composition of the House of Representatives or any election to that House until the dissolution of Parliament occurring on or after the date of the coming into force of the Order made under section 12 of the Thirteenth Schedule to the Federal Constitution following the review undertaken Schedule. pursuant to Clause (2) of Article 113 of the Federal Constitution and the said Thirteenth Schedule."
       }
     }
   ]

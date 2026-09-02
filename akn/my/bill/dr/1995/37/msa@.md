@@ -30,7 +30,13 @@ III
 
 ## KETUA PENGARAH JABATAN STANDARD
 
-9. Perlantikan Ketua Pengarah. 10. Kewajipan dan fungsi Ketua Pengarah. 11. Kuasa untuk mewakilkan. 12. Kuasa Menteri untuk memberikan arahan.
+9. Perlantikan Ketua Pengarah.
+
+10. Kewajipan dan fungsi Ketua Pengarah.
+
+11. Kuasa untuk mewakilkan.
+
+12. Kuasa Menteri untuk memberikan arahan.
 
 <!-- page 2 -->
 
@@ -50,7 +56,11 @@ IV
 
 ## STANDARD
 
-15. Penentuan standard. 16. Perakuan akreditasi dan pendaftaran. 17. Sekatan atas penggunaan perkataan. 18. Kesalahan pelbagai. 19. Kesalahan yang dilakukan oleh pertubuhan perbadanan. 20. Ciri-ciri komoditi, dsb., boleh ditetapkan dengan merujuk kepada penentuan standard. 21. Sebutan dan bukti penentuan.
+15. Penentuan standard. 16. Perakuan akreditasi dan pendaftaran. 17. Sekatan atas penggunaan perkataan. 18. Kesalahan pelbagai. 19. Kesalahan yang dilakukan oleh pertubuhan perbadanan.
+
+20. Ciri-ciri komoditi, dsb., boleh ditetapkan dengan merujuk kepada penentuan standard.
+
+21. Sebutan dan bukti penentuan.
 
 ## BAHAGIAN VI
 
@@ -62,7 +72,13 @@ AM
 
 ## PEMANSUHAN DAN PERUNTUKAN PERALIHAN
 
-23. Pemansuhan dan kecualian. 24. Penerusan prosiding jenayah dan sivil. 25. Kecualian bagi penentuan, tanda dan lesen. 26. Pencegahan anomali.
+23. Pemansuhan dan kecualian.
+
+24. Penerusan prosiding jenayah dan sivil.
+
+25. Kecualian bagi penentuan, tanda dan lesen.
+
+26. Pencegahan anomali.
 
 <!-- page 3 -->
 
@@ -114,7 +130,11 @@ Malaysia 1995 dan hendaklah terpakai di seluruh Malaysia.
 
 dan "terletakhak", berhubungan dengan harta, termasuklah hak kepada harta yang masa hadapan atau kontingen;
 
-"Institut" ertinya Institut Standard dan Penyelidikan Akta 157 Perindustrian Malaysia yang ditubuhkan di bawah Akta Institut Standard dan Penyelidikan Perindustrian Malaysia (Perbadanan) 1975;
+"Institut" ertinya Institut Standard dan Penyelidikan
+
+<!-- marginal: Akta 157 -->
+
+Perindustrian Malaysia yang ditubuhkan di bawah Akta Institut Standard dan Penyelidikan Perindustrian Malaysia (Perbadanan) 1975;
 
 "Ketua Pengarah" ertinya Ketua Pengarah Jabatan Standard yang dilantik di bawah seksyen 9;
 
@@ -154,13 +174,21 @@ proses, amalan atau perkhidmatan menepati kehendak tertentu; dan "pihak ketiga",
 
 "standard" ertinya sesuatu dokumen yang diluluskan oleh suatu badan yang diiktiraf, yang mengadakan peruntukan, bagi kegunaan biasa dan berulang, kaedah- kaedah, garis panduan atau ciri-ciri bagi keluaran atau proses dan kaedah pengeluaran yang berkaitan, yang pematuhannya adalah tidak mandatori; dan yang boleh juga termasuk atau memperkatakan semata-mata mengenai kehendak peristilahan, simbol, pembungkusan, penandaan atau pelabelan sebagaimana yang ia terpakai bagi sesuatu keluaran, proses atau kaedah pengeluaran;
 
-"syarikat pengganti" ertinya syarikat yang terhad oleh Akta 125. syer yang diperbadankan di bawah Akta Syarikat 1965 dan yang dinamakan oleh Menteri dalam perintah di bawah subseksyen 3(1) yang kepadanya harta, hak, liabiliti dan fungsi Institut dipindahkan dan terletakhak di bawah subseksyen 3(1);
+"syarikat pengganti" ertinya syarikat yang terhad oleh
+
+<!-- marginal: Akta 125. -->
+
+syer yang diperbadankan di bawah Akta Syarikat 1965 dan yang dinamakan oleh Menteri dalam perintah di bawah subseksyen 3(1) yang kepadanya harta, hak, liabiliti dan fungsi Institut dipindahkan dan terletakhak di bawah subseksyen 3(1);
 
 "tanda" termasuklah apa-apa peranti, jenama, tajuk, label, tiket, nama, tandatangan, perkataan, huruf, angka, dan apa-apa kombinasinya;
 
 "tanda ketepatan" ertinya tanda terpelihara, yang dipakai atau dikeluarkan di bawah kaedah-kaedah sesuatu sistem pemerakuan, yang menunjukkan bahawa keyakinan yang memadai diberikan bahawa komoditi, proses, amalan atau perkhidmatan yang relevan itu menepati standard yang tertentu atau dokumen normatif yang lain;
 
-"tanda standard" ertinya sesuatu tanda yang didaftarkan Akta 175. di bawah Akta Cap Dagangan 1976 sebagai cap dagangan perakuan;
+"tanda standard" ertinya sesuatu tanda yang didaftarkan
+
+<!-- marginal: Akta 175. -->
+
+di bawah Akta Cap Dagangan 1976 sebagai cap dagangan perakuan;
 
 <!-- page 7 -->
 
@@ -246,9 +274,33 @@ dan dikira bagi maksud Akta Syarikat 1965 seolah-olah ia telah dibayar menurut k
 
 <!-- page 10 -->
 
-Pelaburan
+<!-- marginal: Pelaburan -->
 
-5. (1) Penerbitan selanjutnya syer syarikat pengganti Kerajaan hanya boleh dibuat sebagaimana yang diarahkan oleh dalam penerbitan Menteri Kewangan, dari semasa ke semasa, selepas selanjutnya berunding dengan Menteri. syer syarikat pengganti. (2) Apa-apa perbelanjaan yang dilakukan oleh Menteri Kewangan berikutan dengan peruntukan seksyen ini hendaklah dikira sebagai pelaburan dan dibenarkan di Akta 61 bawah subperenggan 8(3)(a)(iv) Akta Prosedur Kewangan 1957.
+5. (1) Penerbitan selanjutnya syer syarikat pengganti
+
+<!-- marginal: Kerajaan -->
+
+hanya boleh dibuat sebagaimana yang diarahkan oleh
+
+<!-- marginal: dalam -->
+
+<!-- marginal: penerbitan -->
+
+Menteri Kewangan, dari semasa ke semasa, selepas
+
+<!-- marginal: selanjutnya -->
+
+berunding dengan Menteri.
+
+<!-- marginal: syer syarikat -->
+
+<!-- marginal: pengganti. -->
+
+(2) Apa-apa perbelanjaan yang dilakukan oleh Menteri Kewangan berikutan dengan peruntukan seksyen ini hendaklah dikira sebagai pelaburan dan dibenarkan di
+
+<!-- marginal: Akta 61 -->
+
+bawah subperenggan 8(3)(a)(iv) Akta Prosedur Kewangan 1957.
 
 (3) Apa-apa dividen atau jumlah wang lain yang diterima oleh Menteri Kewangan di bawah seksyen ini hendaklah dibayar ke dalam Kumpulan Wang Disatukan.
 
@@ -258,7 +310,7 @@ Pelaburan
 
 (b) diperakui oleh Perbendaharaan sebagai dilaksanakan melalui penerbitan syer yang dipohon beli oleh Menteri Kewangan di bawah subseksyen (1).
 
-Kakitangan.
+<!-- marginal: Kakitangan. -->
 
 6. (1) Syarikat pengganti hendaklah menyetujuterima untuk mengambil kerja, pada suatu tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta, tiap- tiap orang yang sebelum sahaja tarikh itu ialah anggota kakitangan Institut dan yang telah diberikan suatu pilihan oleh Institut dan telah memilih untuk berkhidmat sebagai pekerja syarikat itu.
 
@@ -334,17 +386,37 @@ III
 
 ## KETUA PENGARAH JABATAN STANDARD
 
-Perlantikan
+<!-- marginal: Perlantikan -->
 
-9. (1) Menteri hendaklah, dari semasa ke semasa, Ketua melalui pemberitahuan dalam Warta, melantik seorang Pengarah. pegawai awam untuk menjadi Ketua Pengarah Jabatan Standard bagi maksud menjalankan kewajipan dan fungsi yang diberikan kepadanya di bawah Akta ini.
+9. (1) Menteri hendaklah, dari semasa ke semasa,
+
+<!-- marginal: Ketua -->
+
+melalui pemberitahuan dalam Warta, melantik seorang
+
+<!-- marginal: Pengarah. -->
+
+pegawai awam untuk menjadi Ketua Pengarah Jabatan Standard bagi maksud menjalankan kewajipan dan fungsi yang diberikan kepadanya di bawah Akta ini.
 
 (2) Ketua Pengarah hendaklah memegang jawatan bagi apa-apa tempoh dan tertakluk kepada apa-apa syarat yang ditentukan oleh Menteri selepas berunding dengan Suruhanjaya Perkhidmatan Awam.
 
 (3) Ketua Pengarah hendaklah mempunyai meterai rasmi yang hendaklah disiarkan dalam Warta bagi pengesahan dokumen yang dikehendaki bagi maksud kewajipan dan fungsinya di bawah Akta ini.
 
-Kewajipan
+<!-- marginal: Kewajipan -->
 
-10. (1) Kewajipan dan fungsi Ketua Pengarah adalah dan fungsi untuk menggalakkan dan memajukan standard dan Ketua penstandardan penentuan sebagai cara memajukan ekonomi Pengarah. negara, memanfaatkan kesihatan, keselamatan dan kebajikan awam, membantu dan melindungi pengguna, memajukan kecekapan dan pembangunan industri, memudahkan perdagangan dalam negeri dan antarabangsa dan melanjutkan kerjasama antarabangsa berhubungan dengan standard,
+10. (1) Kewajipan dan fungsi Ketua Pengarah adalah
+
+<!-- marginal: dan fungsi -->
+
+untuk menggalakkan dan memajukan standard dan
+
+<!-- marginal: Ketua -->
+
+penstandardan penentuan sebagai cara memajukan ekonomi
+
+<!-- marginal: Pengarah. -->
+
+negara, memanfaatkan kesihatan, keselamatan dan kebajikan awam, membantu dan melindungi pengguna, memajukan kecekapan dan pembangunan industri, memudahkan perdagangan dalam negeri dan antarabangsa dan melanjutkan kerjasama antarabangsa berhubungan dengan standard,
 
 (2) Pada menunaikan kewajipan dan fungsinya di bawah subseksyen (1), Ketua Pengarah boleh—
 
@@ -382,15 +454,9 @@ di Malaysia dengan tujuan membangunkan standard dan kod umum dan untuk mewakili 
 
 <!-- marginal: dan -->
 
-menyenggarakan suatu
+menyenggarakan suatu daftar orang berkelayakan;
 
-<!-- marginal: daftar -->
-
-<!-- marginal: orang -->
-
-berkelayakan;
-
-Akta 175.
+<!-- marginal: Akta 175. -->
 
 (l) menetapkan dan mendaftarkan di bawah Akta Cap Dagangan 1976, tanda akreditasi Jabatan Standard sendiri;
 
@@ -410,11 +476,7 @@ antarabangsa;
 
 <!-- page 15 -->
 
-(r) melaksanakan apa-apa fungsi
-
-<!-- marginal: lain yang -->
-
-dikehendaki oleh Menteri,
+(r) melaksanakan apa-apa fungsi lain yang dikehendaki oleh Menteri,
 
 <!-- marginal: Kuasa untuk -->
 
@@ -548,9 +610,17 @@ Dengan syarat bahawa subseksyen ini tidak terpakai bagi penentuan standard semen
 
 (b) hakikat bahawa sesuatu penentuan telah diisytiharkan sebagai suatu penentuan standard atau bahawa sesuatu penentuan standard telah dipinda atau ditarik balik hendaklah menjadi keterangan yang mencukupi bahawa kehendak seksyen ini telah dipatuhi.
 
-Perakuan
+<!-- marginal: Perakuan -->
 
-16. (1) Mana-mana orang atau organisasi yang ingin akreditasi diakreditasikan atau didaftarkan sebagai— dan pendaftaran.
+16. (1) Mana-mana orang atau organisasi yang ingin
+
+<!-- marginal: akreditasi -->
+
+diakreditasikan atau didaftarkan sebagai—
+
+<!-- marginal: dan -->
+
+<!-- marginal: pendaftaran. -->
 
 (a) suatu organisasi penilaian ketepatan;
 
@@ -588,9 +658,17 @@ yang berhubungan dengan pengendalian yang berkenaan dengannya perakuan akreditas
 
 (7) Ketua Pengarah boleh pada bila-bila masa menggantung atau membatalkan sesuatu perakuan akreditasi atau pendaftaran yang diberikan di bawah seksyen ini jika, pada pendapatnya, mana-mana terma dan syarat yang berhubung kait dengan perakuan akreditasi atau pendaftaran itu telah dimungkiri, tetapi seseorang pemegang perakuan akreditasi atau pendaftaran yang perakuan akreditasinya atau perakuan pendaftarannya telah digantung atau dibatalkan oleh Ketua Pengarah boleh merayu kepada Menteri dan keputusan Menteri adalah muktamad.
 
-Sekatan atas
+<!-- marginal: Sekatan atas -->
 
-17. (1) Kecuali dengan persetujuan Menteri, tiada penggunaan kumpulan orang, diperbadankan atau selainnya, boleh perkataan. menjalankan fungsi yang baginya ia dibentuk di bawah suatu nama yang mengandungi perkataan "Standard Malaysia" atau apa-apa singkatannya atau apa-apa singkatannya yang mengelirukan atau apa-apa tanda Jabatan Standard atau apa-apa tanda yang menyerupainya.
+17. (1) Kecuali dengan persetujuan Menteri, tiada
+
+<!-- marginal: penggunaan -->
+
+kumpulan orang, diperbadankan atau selainnya, boleh
+
+<!-- marginal: perkataan. -->
+
+menjalankan fungsi yang baginya ia dibentuk di bawah suatu nama yang mengandungi perkataan "Standard Malaysia" atau apa-apa singkatannya atau apa-apa singkatannya yang mengelirukan atau apa-apa tanda Jabatan Standard atau apa-apa tanda yang menyerupainya.
 
 (2) Jika mana-mana undang-undang bertulis mengadakan peruntukan bagi pendaftaran mana-mana kumpulan orang, pihak berkuasa pendaftaran boleh enggan mendaftarkan jika pada pendapatnya penggunaan nama yang dengannya kumpulan orang itu ingin didaftarkan adalah dilarang di bawah subseksyen (1).
 
@@ -622,9 +700,27 @@ Sekatan atas
 
 adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi satu ratus ribu ringgit dan, dalam hal kesalahan yang berterusan, boleh dikenakan denda tambahan tidak melebihi satu ribu ringgit bagi tiap-tiap hari kesalahan itu diteruskan.
 
-Kesalahan
+<!-- marginal: Kesalahan -->
 
-19. Jika suatu kesalahan terhadap Akta ini telah dilakukan yang oleh suatu pertubuhan perbadanan, mana-mana orang yang dilakukan oleh pada masa kesalahan itu dilakukan ialah seorang pengarah, pertubuhan pengurus, setiausaha atau pegawai lain yang seumpamanya perbadanan. dalam pertubuhan perbadanan itu, atau yang berupa sebagai bertindak atas sifat sedemikian, hendaklah disifatkan telah melakukan kesalahan itu melainkan jika dia membuktikan bahawa kesalahan itu dilakukan tanpa persetujuan atau pembiarannya dan bahawa dia telah menjalankan segala usaha wajar untuk mencegah pelakuan kesalahan itu sebagaimana yang sepatutnya telah dijalankan olehnya memandangkan jenis fungsinya atas sifat itu dan memandangkan segala hal keadaan.
+19. Jika suatu kesalahan terhadap Akta ini telah dilakukan
+
+<!-- marginal: yang -->
+
+oleh suatu pertubuhan perbadanan, mana-mana orang yang
+
+<!-- marginal: dilakukan -->
+
+<!-- marginal: oleh -->
+
+pada masa kesalahan itu dilakukan ialah seorang pengarah,
+
+<!-- marginal: pertubuhan -->
+
+pengurus, setiausaha atau pegawai lain yang seumpamanya
+
+<!-- marginal: perbadanan. -->
+
+dalam pertubuhan perbadanan itu, atau yang berupa sebagai bertindak atas sifat sedemikian, hendaklah disifatkan telah melakukan kesalahan itu melainkan jika dia membuktikan bahawa kesalahan itu dilakukan tanpa persetujuan atau pembiarannya dan bahawa dia telah menjalankan segala usaha wajar untuk mencegah pelakuan kesalahan itu sebagaimana yang sepatutnya telah dijalankan olehnya memandangkan jenis fungsinya atas sifat itu dan memandangkan segala hal keadaan.
 
 <!-- page 23 -->
 
@@ -716,9 +812,19 @@ pendaftaran, menetapkan terma-terma dan syarat- syarat yang atasnya atau tertakl
 
 ## PEMANSUHAN DAN PERUNTUKAN PERALIHAN
 
-Pemasuhan
+<!-- marginal: Pemasuhan -->
 
-23. (1) Akta Institut Standard dan Penyelidikan dan Perindustrian Malaysia (Perbadanan) 1975 adalah kecualian. Akta 157 dimansuhkan.
+23. (1) Akta Institut Standard dan Penyelidikan
+
+<!-- marginal: dan -->
+
+Perindustrian Malaysia (Perbadanan) 1975 adalah
+
+<!-- marginal: kecualian. -->
+
+<!-- marginal: Akta 157 -->
+
+dimansuhkan.
 
 (2) Walau apa pun subseksyen (1), segala perundangan subsidiari yang dibuat di bawah atau mengikut Akta yang dimansuhkan hendaklah, setakat yang ia tidak tak konsisten dengan Akta ini, terus berkuatkuasa sehingga diubahsuaikan, dibatalkan atau digantikan oleh Akta ini.
 
@@ -778,9 +884,13 @@ berkuatkuasanya Akta ini hendaklah terus wujud sebagai penentuan standard yang d
 
 (3) Semua lesen untuk menggunakan tanda standard yang diberikan di bawah seksyen 30 Akta tersebut atau yang wujud menurut kuasa subseksyen 49(3) Akta tersebut dan yang wujud sebelum sahaja mula berkuatkuasanya Akta ini adalah tetap sah sehingga lesen itu habis tempoh atau dibatalkan di bawah Akta ini.
 
-Pencegahan
+<!-- marginal: Pencegahan -->
 
-26. (1) Jika timbul apa-apa kesulitan berkaitan dengan anomali. peruntukan peralihan yang terkandung dalam Bahagian ini, Menteri boleh, tertakluk kepada subseksyen (2), dengan perintah membuat apa-apa ubahsuaian dalamnya sebagaimana yang didapatinya perlu bagi mencegah anomali.
+26. (1) Jika timbul apa-apa kesulitan berkaitan dengan
+
+<!-- marginal: anomali. -->
+
+peruntukan peralihan yang terkandung dalam Bahagian ini, Menteri boleh, tertakluk kepada subseksyen (2), dengan perintah membuat apa-apa ubahsuaian dalamnya sebagaimana yang didapatinya perlu bagi mencegah anomali.
 
 (2) Menteri tidak boleh menjalankan kuasa yang diberikan oleh subseksyen (1) selepas habis tempoh dua tahun dari mula berkuatkuasanya Akta ini.
 

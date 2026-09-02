@@ -42,9 +42,13 @@
       "@type": "akn:clause",
       "eli:number": "1",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Trade Descriptions"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "This Act may be cited as the Trade Descriptions and com- (Amendment) Act 1993 and shall come into force on mencement. such date as the Minister may, by notification in the Gazette, appoint. General"
+        "@value": "(Amendment) Act 1993 and shall come into force on such date as the Minister may, by notification in the Gazette, appoint."
       }
     },
     {
@@ -52,9 +56,13 @@
       "@type": "akn:clause",
       "eli:number": "2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Trade Descriptions Act 1972, which in this Act"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "The Trade Descriptions Act 1972, which in this Act amendment. is referred to as the \"principal Act\", is amended in the Act 87 national language text by substituting for the words \"penunjokan\" and \"penunjukan\" wherever they may appear the word \"petunjuk\". Amendment"
+        "@value": "is referred to as the \"principal Act\", is amended in the national language text by substituting for the words \"penunjokan\" and \"penunjukan\" wherever they may appear the word \"petunjuk\"."
       }
     },
     {
@@ -68,7 +76,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/eng@",
       "schema:name": {
         "@language": "en",
-        "@value": "Section 2 of the principal Act is amended— of section 2"
+        "@value": "Section 2 of the principal Act is amended—"
       }
     },
     {
@@ -88,7 +96,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/eng@/~cl_3",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after the definition of \"ship\" the following definition: ' \"standard of fineness\", in relation to articles made of precious metals, means the number of parts by weight of fine gold, silver or platinum in one thousand parts by weight of precious metal;'. Amendment"
+        "@value": "by inserting after the definition of \"ship\" the following definition: ' \"standard of fineness\", in relation to articles made of precious metals, means the number of parts by weight of fine gold, silver or platinum in one thousand parts by weight of precious metal;'."
       }
     },
     {
@@ -96,9 +104,13 @@
       "@type": "akn:clause",
       "eli:number": "4",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 4(1) of the principal Act is amended by"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Subsection 4(1) of the principal Act is amended by of section 4. substituting for paragraph (e) the following paragraph: \"(e) the standard of fineness of articles made of precious metals;\". New section"
+        "@value": "substituting for paragraph (e) the following paragraph: \"(e) the standard of fineness of articles made of precious metals;\"."
       }
     },
     {
@@ -111,9 +123,13 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/eng@/~cl_5__subsec_4"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "The principal Act is amended by inserting after 2 l A. section 21 the following section: Com- 21 A. (1) The Controller or a Deputy pounding Controller may compound any offence under of offences. this Act or any regulations made thereunder which is prescribed to be a compoundable offence by making a written offer, to the person reasonably suspected of having committed such offence, to compound the offence upon payment to the Controller or Deputy Controller such sum of money within such time as may be specified in the offer."
+        "@value": "section 21 the following section: Com- 21 A. (1) The Controller or a Deputy pounding Controller may compound any offence under of offences. this Act or any regulations made thereunder which is prescribed to be a compoundable offence by making a written offer, to the person reasonably suspected of having committed such offence, to compound the offence upon payment to the Controller or Deputy Controller such sum of money within such time as may be specified in the offer."
       }
     },
     {
@@ -133,7 +149,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/eng@/~cl_5",
       "schema:text": {
         "@language": "en",
-        "@value": "Where an offence has been compounded under subsection (1), no prosecution shall thereafter be instituted against such person in respect of such offence and where possession has been taken of any goods or documents under this Act or any regulations made thereunder such goods or documents may be released, subject to such conditions as may be imposed. TRADE DESCRIPTIONS (AMENDMENT) 3"
+        "@value": "Where an offence has compounded under subsection prosecution shall thereafter be instituted against such person in respect of such offence and where possession has been taken of any goods or documents under this Act or any regulations made thereunder such goods or documents may be released, subject to such conditions as may be imposed. TRADE DESCRIPTIONS (AMENDMENT)"
       }
     },
     {
@@ -143,7 +159,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/eng@/~cl_5",
       "schema:text": {
         "@language": "en",
-        "@value": "The power to compound offences under subsection (1) shall be exercised by the Controller or the Deputy Controller personally.\". Amendment"
+        "@value": "The power to compound offences under subsection (1) shall be exercised by the Controller or the Deputy Controller personally.\"."
       }
     },
     {
@@ -156,9 +172,9 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/eng@/~cl_6__para_c"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/eng@",
-      "schema:text": {
+      "schema:name": {
         "@language": "en",
-        "@value": "Section 38A of the principal Act is amended— of section 38A."
+        "@value": "Section 38A of the principal Act is amended—"
       }
     },
     {
@@ -188,7 +204,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/32/eng@/~cl_6",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after paragraph (d) the following paragraphs: \"(e) prescribe the standard of fineness of articles made of precious metals and regulate or control the use of any expression or indication used in the course of trade or business in relation to such standard of fineness; (f) prescribe the offences under this Act or the regulations made thereunder which may be compounded, the amount of such compound and the procedure to be followed on compounding.\"."
+        "@value": "by inserting after paragraph (d) the following paragraphs: \"(e) prescribe the standard of fineness of articles made of precious metals and regulate or control the use of any expression or indication used in the course of trade or business in relation to such standard of fineness; (f) prescribe the offences under this Act or the regulations made thereunder which may be compounded, amount of such compound and the procedure to be followed compounding.\"."
       }
     }
   ]

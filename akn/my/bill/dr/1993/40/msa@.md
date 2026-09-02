@@ -46,21 +46,37 @@ memasukkan selepas subseksyen 2A(3) subseksyen yang berikut:
 
 performed and exercised for the purposes of this Act.".
 
-Pindaan 3. Seksyen 8 Akta ibu adalah dipinda— seksyen 8.
+<!-- marginal: Pindaan -->
 
-(a) dengan menggantikan noktah
+3. Seksyen 8 Akta ibu adalah dipinda—
 
-<!-- marginal: dalam -->
+<!-- marginal: seksyen 8. -->
 
-subseksyen (1) dengan noktah bertindih; dan
+(a) dengan menggantikan noktah dalam subseksyen (1) dengan noktah bertindih; dan
 
 (b) dengan memasukkan selepas subseksyen (1) proviso vane berikut:
 
 "Provided that where the complaint relates to the dismissal of a workman, the provisions of section 20 shall apply.".
 
-Pindaan 4. Akta ibu adalah dipinda dengan menggantikan seksyen 9 seksyen 9 dengan seksyen yang berikut:
+<!-- marginal: Pindaan -->
 
-Claim for 9. (1) Subject to section 9D(1), a trade union recog- of workmen may serve on an employer or on nition. a trade union of employers in writing in the prescribed form a claim for recognition in respect of the workmen or any class of workmen employed by the employer or by the members of the trade union of employers.
+4. Akta ibu adalah dipinda dengan menggantikan
+
+<!-- marginal: seksyen 9 -->
+
+seksyen 9 dengan seksyen yang berikut:
+
+<!-- marginal: Claim for -->
+
+9. (1) Subject to section 9D(1), a trade union
+
+<!-- marginal: recog- -->
+
+of workmen may serve on an employer or on
+
+<!-- marginal: nition. -->
+
+a trade union of employers in writing in the prescribed form a claim for recognition in respect of the workmen or any class of workmen employed by the employer or by the members of the trade union of employers.
 
 (2) An employer or a trade union of employers upon whom a claim for recognition has been served shall, within twenty-one days after the service of the claim—
 
@@ -68,11 +84,7 @@ Claim for 9. (1) Subject to section 9D(1), a trade union recog- of workmen may s
 
 (b) if recognition is not accorded, notify the trade union of workmen concerned in writing the grounds for not according recognition; or
 
-(c) subject to section 9A(2)(c), apply in writing to the Director General to ascertain the percentage of
-
-<!-- marginal: the -->
-
-workmen or class of workmen in respect of whom recognition is being sought who are members of, or who wish to be represented by, the trade
+(c) subject to section 9A(2)(c), apply in writing to the Director General to ascertain the percentage of the workmen or class of workmen in respect of whom recognition is being sought who are members of, or who wish to be represented by, the trade
 
 <!-- page 3 -->
 
@@ -92,9 +104,23 @@ seksyen 9 seksyen yang berikut:
 
 <!-- marginal: dan 9D -->
 
-Director 9A. (1) The Director General, upon receipt General of— to take steps to
+<!-- marginal: Director -->
 
-(a) an application under section 9(2)(c); or resolve matter.
+9A. (1) The Director General, upon receipt
+
+<!-- marginal: General -->
+
+of—
+
+<!-- marginal: to take -->
+
+<!-- marginal: steps to -->
+
+(a) an application under section 9(2)(c); or
+
+<!-- marginal: resolve -->
+
+<!-- marginal: matter. -->
 
 (b) a report under section 9(3),
 
@@ -104,11 +130,7 @@ may take such steps or make such enquiries as he may consider necessary or exped
 
 (a) shall have the power to require the trade union of workmen, the employer or the trade union of employers concerned to furnish such information as he may consider necessary or relevant within such period as he may specify;
 
-(b) may refer to the Director General of Trade Unions for his decision any question on the competence of the trade union of workman concerned
-
-<!-- marginal: to -->
-
-represent any workmen or class of workmen in respect of whom recogni- tion is sought to be accorded; and
+(b) may refer to the Director General of Trade Unions for his decision any question on the competence of the trade union of workman concerned to represent any workmen or class of workmen in respect of whom recogni- tion is sought to be accorded; and
 
 <!-- page 4 -->
 
@@ -118,9 +140,39 @@ represent any workmen or class of workmen in respect of whom recogni- tion is so
 
 (3) Where the Director General of Trade Unions decides that the trade union of workmen concerned is not competent to represent the workmen or class of workmen in respect of whom recognition is sought to be accorded, the matter shall be deemed to have been resolved under subsection (1).
 
-(4) The performance of the duties and functions by the Director General of Trade Unions under subsections (2)(b) and (c) shall be deemed to be a performance of his duties Act 262 and functions under the Trade Unions Act 1959.
+(4) The performance of the duties and functions by the Director General of Trade Unions under subsections (2)(b) and (c) shall be deemed to be a performance of his duties
 
-When 9B. (1) The Director General shall, upon recognition being informed of the result of the request deemed to be accorded made under section 9A(2)(c), communicate the or claim result to the employer or the trade union of therefor employers and the trade union of workmen. deemed resolved. (2) Where the result of the request made under section 9A(2)(c) shows that the majority of the workmen or class of workmen concerned were members of the trade union of workmen making the claim as at the date of claim, or the majority of the workmen or class of workmen wish to be represented by the trade union, the employer or the trade union of employers concerned shall be deemed to have accorded recognition to the trade union of workmen as from the date of claim.
+<!-- marginal: Act 262 -->
+
+and functions under the Trade Unions Act 1959.
+
+<!-- marginal: When -->
+
+9B. (1) The Director General shall, upon
+
+<!-- marginal: recognition -->
+
+being informed of the result of the request
+
+<!-- marginal: deemed to -->
+
+<!-- marginal: be accorded -->
+
+made under section 9A(2)(c), communicate the
+
+<!-- marginal: or claim -->
+
+result to the employer or the trade union of
+
+<!-- marginal: therefor -->
+
+employers and the trade union of workmen.
+
+<!-- marginal: deemed -->
+
+<!-- marginal: resolved. -->
+
+(2) Where the result of the request made under section 9A(2)(c) shows that the majority of the workmen or class of workmen concerned were members of the trade union of workmen making the claim as at the date of claim, or the majority of the workmen or class of workmen wish to be represented by the trade union, the employer or the trade union of employers concerned shall be deemed to have accorded recognition to the trade union of workmen as from the date of claim.
 
 <!-- page 5 -->
 
@@ -128,7 +180,27 @@ When 9B. (1) The Director General shall, upon recognition being informed of the 
 
 (3) Where the result of the request made under section 9A(2)(c) shows that the majority of the workmen or class of workmen concerned were not members of the trade union of workmen making the claim as at the date of claim, or the majority of the workmen or class of workmen do not wish to be represented by the trade union, it shall be deemed that the matter has been resolved under section 9A(1) with the trade union of workmen not being accorded recognition.
 
-Director 9c. (1) Where the trade union of workmen, General the employer or the trade union of employers to require attendance fails to furnish the information as may be at con- required by the Director General under section ference. 9A(2)(a), the Director General may, if he deems it necessary or expedient, direct either the trade union of workmen, the employer or the trade union of employers, or both to attend a conference and to furnish the information at the place and time as may be specified in the direction.
+<!-- marginal: Director -->
+
+9c. (1) Where the trade union of workmen,
+
+<!-- marginal: General -->
+
+the employer or the trade union of employers
+
+<!-- marginal: to require -->
+
+<!-- marginal: attendance -->
+
+fails to furnish the information as may be
+
+<!-- marginal: at con- -->
+
+required by the Director General under section
+
+<!-- marginal: ference. -->
+
+9A(2)(a), the Director General may, if he deems it necessary or expedient, direct either the trade union of workmen, the employer or the trade union of employers, or both to attend a conference and to furnish the information at the place and time as may be specified in the direction.
 
 (2) Where the trade union of workmen, the employer or the trade union of employers—
 
@@ -154,11 +226,27 @@ it shall be deemed that —
 
 (4) A decision of the Minister under subsection (3) shall be final and shall not be questioned in any court.
 
-Scope of 9D. (1) No trade union of workmen
+<!-- marginal: Scope of -->
 
-<!-- marginal: the -->
+9D. (1) No trade union of workmen the
 
-representa- majority of whose membership consists of tion and determina- workmen who are not employed in any of the tion of following capacities: employment capacity.
+<!-- marginal: representa- -->
+
+majority of whose membership consists of
+
+<!-- marginal: tion and -->
+
+<!-- marginal: determina- -->
+
+workmen who are not employed in any of the
+
+<!-- marginal: tion of -->
+
+following capacities:
+
+<!-- marginal: employment -->
+
+<!-- marginal: capacity. -->
 
 (a) managerial;
 
@@ -192,7 +280,55 @@ may seek recognition under section 9 or serve an invitation under section 13 in 
 
 seksyen 10 dengan seksyen yang berikut:
 
-"Prohibi- 10. (1) No workman shall go on strike or do tion anything which is rendered lawful by virtue of against the proviso to section 40(1) for whatever strike, lock-out, reason during the pendency of proceedings picketing under sections 9, 9A, 9B, 9c and 9D, or after and termi- the decision of the Minister made thereunder nation of by reason of any dissatisfaction with such service pending decision. recog- nition (2) No employer shall declare a lock-out or of a trade union. terminate the services of a workman once a trade union of workmen has served on the employer or a trade union of employers a claim for recognition under section 9 in respect of workmen or a class of workmen:
+<!-- marginal: "Prohibi- -->
+
+10. (1) No workman shall go on strike or do
+
+<!-- marginal: tion -->
+
+anything which is rendered lawful by virtue of
+
+<!-- marginal: against -->
+
+the proviso to section 40(1) for whatever
+
+<!-- marginal: strike, -->
+
+<!-- marginal: lock-out, -->
+
+reason during the pendency of proceedings
+
+<!-- marginal: picketing -->
+
+under sections 9, 9A, 9B, 9c and 9D, or after
+
+<!-- marginal: and -->
+
+<!-- marginal: termi- -->
+
+the decision of the Minister made thereunder
+
+<!-- marginal: nation of -->
+
+by reason of any dissatisfaction with such
+
+<!-- marginal: service -->
+
+<!-- marginal: pending -->
+
+decision.
+
+<!-- marginal: recog- -->
+
+<!-- marginal: nition -->
+
+(2) No employer shall declare a lock-out or
+
+<!-- marginal: of a trade -->
+
+<!-- marginal: union. -->
+
+terminate the services of a workman once a trade union of workmen has served on the employer or a trade union of employers a claim for recognition under section 9 in respect of workmen or a class of workmen:
 
 Provided that this restriction shall not apply—
 
@@ -220,9 +356,21 @@ retirement or the expiry of a fixed term contract or the non-confirmation of a p
 
 effected during the pendency of proceedings under sections 9, 9A, 9B, 9c and 9D or after the decision of the Minister made thereunder by reason only of any dissatisfaction with such decision.".
 
-7. Seksyen 11 Akta ibu adalah dipinda dengan Pindaan seksyen 11. menggantikan perkataan "whether by a decision of the Minister or otherwise" dengan perkataan "pursuant to a claim for recognition under section 9".
+7. Seksyen 11 Akta ibu adalah dipinda dengan
 
-8. Akta ibu adalah dipinda dengan memasukkan selepas baru 1 1 A. seksyen 11 seksyen yang berikut: Prohibition 1 1A. Where a claim for recognition by a trade against union in respect of workmen or a class of claim for recog- workmen has not been resolved, no other trade nition union of workmen shall make a claim for during pendency recognition under section 9 or shall be of exis- accorded recognition in respect of the same ting claim. workmen or class of workmen.".
+<!-- marginal: Pindaan -->
+
+<!-- marginal: seksyen 11. -->
+
+menggantikan perkataan "whether by a decision of the Minister or otherwise" dengan perkataan "pursuant to a claim for recognition under section 9".
+
+<!-- marginal: Seksyen -->
+
+8. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru 1 1 A. -->
+
+seksyen 11 seksyen yang berikut: Prohibition 1 1A. Where a claim for recognition by a trade against union in respect of workmen or a class of claim for recog- workmen has not been resolved, no other trade nition union of workmen shall make a claim for during pendency recognition under section 9 or shall be of exis- accorded recognition in respect of the same ting claim. workmen or class of workmen.".
 
 <!-- page 9 -->
 

@@ -40,15 +40,39 @@ and 1997) Act 1997.
 
 ## SCHEDULE
 
-(Section 2) Purpose Title Appropriation to Purpose (RM) B. 14 Ministry of Housing and 3,525,000 Local Government
+(Section 2) Purpose Title
 
-B. 22 Ministry of Culture, Arts 10,568,800 and Tourism
+<!-- marginal: Appropriation -->
 
-B. 30 Contribution to Statutory Funds 30,000,000
+<!-- marginal: to Purpose -->
 
-B. 32 Inland Revenue Department 30,000,000
+<!-- marginal: (RM) -->
 
-B. 42 Ministry of National Unity 5,000,000 and Social Development
+B. 14 Ministry of Housing and
+
+<!-- marginal: 3,525,000 -->
+
+Local Government
+
+B. 22 Ministry of Culture, Arts
+
+<!-- marginal: 10,568,800 -->
+
+and Tourism
+
+B. 30 Contribution to Statutory Funds
+
+<!-- marginal: 30,000,000 -->
+
+B. 32 Inland Revenue Department
+
+<!-- marginal: 30,000,000 -->
+
+B. 42 Ministry of National Unity
+
+<!-- marginal: 5,000,000 -->
+
+and Social Development
 
 B. 47 Ministry of Transport 167,102,000
 

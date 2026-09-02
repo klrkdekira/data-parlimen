@@ -66,7 +66,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 11. Akta ibu dipinda dengan memasukkan selepas seksyen 91z bahagian yang berikut:
 
-“bahagian XVe
+## “BAHAGIAN XVE
 
 ## PERUNTUKAN KHAS BERKENAAN DENGAN PULAU 1
 

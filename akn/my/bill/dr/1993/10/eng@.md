@@ -54,9 +54,11 @@ amended—
 
 (b) by inserting after the definition of "Secretary" the following new definition: "sewage" has the same meaning assigned to it under the Sewerage Act Services Act 1993;'.
 
-Amendment
+<!-- marginal: Amendment -->
 
-3. Section 72 of the principal Act is amended— of section 72.
+3. Section 72 of the principal Act is amended—
+
+<!-- marginal: of section 72. -->
 
 (a) by deleting the words "night-soil, slops," in paragraph (d)\
 
@@ -64,9 +66,11 @@ Amendment
 
 (c) by inserting after subsection (1) the following new subsection (2): "(2) For the purposes of sections 72 and 73, effluent shall not include sewage.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. Section 73 of the principal Act is amended— of section 73.
+4. Section 73 of the principal Act is amended—
+
+<!-- marginal: of section 73. -->
 
 (a) by deleting the words "night-soil, slops," in paragraph (a);
 
@@ -74,15 +78,17 @@ Amendment
 
 (c) by inserting after subsection (1) the following new subsection (2): "(2) Notwithstanding any other provision in this Act, a local authority shall not make, amend or revoke any by-laws in respect of sewage.".
 
-New section
+<!-- marginal: New section -->
 
 5. The principal Act is amended by substituting for
 
 128. section 128 the following: Further 128. In addition to the rates referred to in rates. section 127, the local authority may in like manner impose a drainage rate in accordance with section 132.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-6. Section 130 of the principal Act is amended— of section
+6. Section 130 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 130.
 

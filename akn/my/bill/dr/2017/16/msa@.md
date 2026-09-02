@@ -60,7 +60,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 6. Akta ibu dipinda dengan memasukkan selepas Bahagian IV bahagian yang berikut:
 
-“bahagian iVa
+## “BAHAGIAN IVA
 
 ## PELESENAN PERNIAGAAN PENGANTARAAN
 

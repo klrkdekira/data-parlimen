@@ -40,109 +40,163 @@ itu diperuntukkan bagi maksud-maksud yang dinyatakan dalam
 
 ## JADUAL
 
-Maksud Tajuk
+<!-- marginal: Maksud -->
+
+Tajuk
 
 <!-- marginal: Amaun -->
 
 <!-- marginal: (RM) -->
 
-B. 1 Parlimen
+<!-- marginal: B. 1 -->
+
+Parlimen
 
 <!-- marginal: 70,494,400 -->
 
-B. 2 Pejabat Penyimpan Mohor Besar Raja-Raja
+<!-- marginal: B. 2 -->
+
+Pejabat Penyimpan Mohor Besar Raja-Raja
 
 <!-- marginal: 1,959,000 -->
 
-B. 3 Jabatan Audit
+<!-- marginal: B. 3 -->
+
+Jabatan Audit
 
 <!-- marginal: 150,825,700 -->
 
-B. 4 Suruhanjaya Pilihan Raya
+<!-- marginal: B. 4 -->
+
+Suruhanjaya Pilihan Raya
 
 <!-- marginal: 39,375,900 -->
 
-B. 5 Suruhanjaya Perkhidmatan Awam
+<!-- marginal: B. 5 -->
+
+Suruhanjaya Perkhidmatan Awam
 
 <!-- marginal: 50,260,700 -->
 
-B. 6 Jabatan Perdana Menteri
+<!-- marginal: B. 6 -->
+
+Jabatan Perdana Menteri
 
 <!-- marginal: 3,661,392,300 -->
 
-B. 7 Jabatan Perkhidmatan Awam
+<!-- marginal: B. 7 -->
+
+Jabatan Perkhidmatan Awam
 
 <!-- marginal: 1,721,299,400 -->
 
-B. 8 Jabatan Peguam Negara
+<!-- marginal: B. 8 -->
+
+Jabatan Peguam Negara
 
 <!-- marginal: 139,377,600 -->
 
-B. 9 Badan Pencegah Rasuah
+<!-- marginal: B. 9 -->
+
+Badan Pencegah Rasuah
 
 <!-- marginal: 161,032,700 -->
 
-B. 10 Perbendaharaan
+<!-- marginal: B. 10 -->
+
+Perbendaharaan
 
 <!-- marginal: 2,223,388,600 -->
 
-B. 11 Perkhidmatan Am Perbendaharaan
+<!-- marginal: B. 11 -->
+
+Perkhidmatan Am Perbendaharaan
 
 <!-- marginal: 31,223,009,100 -->
 
-B. 12 Peruntukan kepada Kumpulan Wang Terkanun
+<!-- marginal: B. 12 -->
+
+Peruntukan kepada Kumpulan Wang Terkanun
 
 <!-- marginal: 4,408,600,100 -->
 
-B. 13 Kementerian Luar Negeri
+<!-- marginal: B. 13 -->
+
+Kementerian Luar Negeri
 
 <!-- marginal: 509,582,100 -->
 
-B. 20 Kementerian Perusahaan Perladangan dan Komoditi
+<!-- marginal: B. 20 -->
+
+Kementerian Perusahaan Perladangan dan Komoditi
 
 <!-- marginal: 1,444,259,900 -->
 
-B. 21 Kementerian Pertanian dan Industri Asas Tani
+<!-- marginal: B. 21 -->
+
+Kementerian Pertanian dan Industri Asas Tani
 
 <!-- marginal: 3,807,494,100 -->
 
-B. 22 Kementerian Kemajuan Luar Bandar dan Wilayah
+<!-- marginal: B. 22 -->
+
+Kementerian Kemajuan Luar Bandar dan Wilayah
 
 <!-- marginal: 1,041,195,600 -->
 
-B. 23 Kementerian Sumber Asli dan Alam Sekitar
+<!-- marginal: B. 23 -->
+
+Kementerian Sumber Asli dan Alam Sekitar
 
 <!-- marginal: 933,518,300 -->
 
-B. 24 Kementerian Perdagangan Antarabangsa dan Industri
+<!-- marginal: B. 24 -->
+
+Kementerian Perdagangan Antarabangsa dan Industri
 
 <!-- marginal: 464,850,000 -->
 
-B. 25 Kementerian Perdagangan Dalam Negeri dan Hal
+<!-- marginal: B. 25 -->
+
+Kementerian Perdagangan Dalam Negeri dan Hal
 
 <!-- marginal: 377,499,100 -->
 
-Ehwal Pengguna B. 26 Kementerian Pembangunan Usahawan dan Koperasi
+Ehwal Pengguna
+
+<!-- marginal: B. 26 -->
+
+Kementerian Pembangunan Usahawan dan Koperasi
 
 <!-- marginal: 2,342,153,400 -->
 
-B. 27 Kementerian Kerja Raya
+<!-- marginal: B. 27 -->
+
+Kementerian Kerja Raya
 
 <!-- marginal: 1,388,326,700 -->
 
-B. 28 Kementerian Pengangkutan
+<!-- marginal: B. 28 -->
+
+Kementerian Pengangkutan
 
 <!-- marginal: 876,398,500 -->
 
-B. 29 Kementerian Tenaga, Air dan Komunikasi
+<!-- marginal: B. 29 -->
+
+Kementerian Tenaga, Air dan Komunikasi
 
 <!-- marginal: 92,189,100 -->
 
-B. 30 Kementerian Sains, Teknologi dan Inovasi
+<!-- marginal: B. 30 -->
+
+Kementerian Sains, Teknologi dan Inovasi
 
 <!-- marginal: 814,923,700 -->
 
-B. 31 Kementerian Pelancongan
+<!-- marginal: B. 31 -->
+
+Kementerian Pelancongan
 
 <!-- marginal: 649,674,700 -->
 
@@ -446,7 +500,7 @@ Sektor pentadbiran am disediakan sebanyak RM2.12 bilion atau 3.9% daripada Angga
 
 ## YANG TERDAPAT DALAM ANGGARAN PERBELANJAAN TAHUN 2009
 
-## MAKSUD
+<!-- marginal: MAKSUD -->
 
 ## TAJUK
 
@@ -490,23 +544,33 @@ T.9 Suruhanjaya Perkhidmatan Awam
 
 <!-- marginal: 6,483,100 -->
 
-T.10 Suruhanjaya Perkhidmatan Pelajaran
+<!-- marginal: T.10 -->
+
+Suruhanjaya Perkhidmatan Pelajaran
 
 <!-- marginal: 5,395,300 -->
 
-T.11 Suruhanjaya Pasukan Polis
+<!-- marginal: T.11 -->
+
+Suruhanjaya Pasukan Polis
 
 <!-- marginal: 636,000 -->
 
-T.12 Perbendaharaan
+<!-- marginal: T.12 -->
+
+Perbendaharaan
 
 <!-- marginal: 3,483,568,200 -->
 
-T.13 Perbelanjaan Kerana Hutang Negara
+<!-- marginal: T.13 -->
+
+Perbelanjaan Kerana Hutang Negara
 
 <!-- marginal: 13,472,864,300 -->
 
-T.14 Pencen, Elaun Bersara dan Ganjaran
+<!-- marginal: T.14 -->
+
+Pencen, Elaun Bersara dan Ganjaran
 
 <!-- marginal: 7,147,157,900 -->
 
@@ -558,15 +622,21 @@ B.9 Badan Pencegah Rasuah
 
 <!-- marginal: 37,854,997,800 -->
 
-B.10 Perbendaharaan
+<!-- marginal: B.10 -->
+
+Perbendaharaan
 
 <!-- marginal: 2,223,388,600 -->
 
-B.11 Perkhidmatan Am Perbendaharaan
+<!-- marginal: B.11 -->
+
+Perkhidmatan Am Perbendaharaan
 
 <!-- marginal: 31,223,009,100 -->
 
-B.12 Peruntukan kepada Kumpulan Wang Terkanun
+<!-- marginal: B.12 -->
+
+Peruntukan kepada Kumpulan Wang Terkanun
 
 <!-- marginal: 4,408,600,100 -->
 
@@ -574,7 +644,9 @@ B.12 Peruntukan kepada Kumpulan Wang Terkanun
 
 <!-- marginal: 509,582,100 -->
 
-B.13 Kementerian Luar Negeri
+<!-- marginal: B.13 -->
+
+Kementerian Luar Negeri
 
 <!-- marginal: 509,582,100 -->
 
@@ -582,7 +654,9 @@ B.13 Kementerian Luar Negeri
 
 <!-- marginal: 1,444,259,900 -->
 
-B.20 Kementerian Perusahaan Perladangan dan Komoditi
+<!-- marginal: B.20 -->
+
+Kementerian Perusahaan Perladangan dan Komoditi
 
 <!-- marginal: 1,444,259,900 -->
 
@@ -590,7 +664,9 @@ B.20 Kementerian Perusahaan Perladangan dan Komoditi
 
 <!-- marginal: 3,807,494,100 -->
 
-B.21 Kementerian Pertanian dan Industri Asas Tani
+<!-- marginal: B.21 -->
+
+Kementerian Pertanian dan Industri Asas Tani
 
 <!-- marginal: 3,807,494,100 -->
 
@@ -598,7 +674,9 @@ B.21 Kementerian Pertanian dan Industri Asas Tani
 
 <!-- marginal: 1,041,195,600 -->
 
-B.22 Kementerian Kemajuan Luar Bandar dan Wilayah
+<!-- marginal: B.22 -->
+
+Kementerian Kemajuan Luar Bandar dan Wilayah
 
 <!-- marginal: 1,041,195,600 -->
 
@@ -612,7 +690,7 @@ B.22 Kementerian Kemajuan Luar Bandar dan Wilayah
 
 ## YANG TERDAPAT DALAM ANGGARAN PERBELANJAAN TAHUN 2009
 
-## MAKSUD
+<!-- marginal: MAKSUD -->
 
 ## TAJUK
 
@@ -624,7 +702,9 @@ B.22 Kementerian Kemajuan Luar Bandar dan Wilayah
 
 <!-- marginal: 933,518,300 -->
 
-B.23 Kementerian Sumber Asli dan Alam Sekitar
+<!-- marginal: B.23 -->
+
+Kementerian Sumber Asli dan Alam Sekitar
 
 <!-- marginal: 933,518,300 -->
 
@@ -634,7 +714,9 @@ B.23 Kementerian Sumber Asli dan Alam Sekitar
 
 ## DAN INDUSTRI
 
-B.24 Kementerian Perdagangan Antarabangsa dan Industri
+<!-- marginal: B.24 -->
+
+Kementerian Perdagangan Antarabangsa dan Industri
 
 <!-- marginal: 464,850,000 -->
 
@@ -644,7 +726,9 @@ B.24 Kementerian Perdagangan Antarabangsa dan Industri
 
 ## DAN HAL EHWAL PENGGUNA
 
-B.25 Kementerian Perdagangan Dalam Negeri dan
+<!-- marginal: B.25 -->
+
+Kementerian Perdagangan Dalam Negeri dan
 
 <!-- marginal: 377,499,100 -->
 
@@ -654,7 +738,9 @@ Hal Ehwal Pengguna
 
 <!-- marginal: 2,342,153,400 -->
 
-B.26 Kementerian Pembangunan Usahawan dan Koperasi
+<!-- marginal: B.26 -->
+
+Kementerian Pembangunan Usahawan dan Koperasi
 
 <!-- marginal: 2,342,153,400 -->
 
@@ -662,7 +748,9 @@ B.26 Kementerian Pembangunan Usahawan dan Koperasi
 
 <!-- marginal: 1,388,326,700 -->
 
-B.27 Kementerian Kerja Raya
+<!-- marginal: B.27 -->
+
+Kementerian Kerja Raya
 
 <!-- marginal: 1,388,326,700 -->
 
@@ -670,7 +758,9 @@ B.27 Kementerian Kerja Raya
 
 <!-- marginal: 876,398,500 -->
 
-B.28 Kementerian Pengangkutan
+<!-- marginal: B.28 -->
+
+Kementerian Pengangkutan
 
 <!-- marginal: 876,398,500 -->
 
@@ -678,7 +768,9 @@ B.28 Kementerian Pengangkutan
 
 <!-- marginal: 92,189,100 -->
 
-B.29 Kementerian Tenaga, Air dan Komunikasi
+<!-- marginal: B.29 -->
+
+Kementerian Tenaga, Air dan Komunikasi
 
 <!-- marginal: 92,189,100 -->
 
@@ -686,7 +778,9 @@ B.29 Kementerian Tenaga, Air dan Komunikasi
 
 <!-- marginal: 814,923,700 -->
 
-B.30 Kementerian Sains, Teknologi dan Inovasi
+<!-- marginal: B.30 -->
+
+Kementerian Sains, Teknologi dan Inovasi
 
 <!-- marginal: 814,923,700 -->
 
@@ -694,7 +788,9 @@ B.30 Kementerian Sains, Teknologi dan Inovasi
 
 <!-- marginal: 649,674,700 -->
 
-B.31 Kementerian Pelancongan
+<!-- marginal: B.31 -->
+
+Kementerian Pelancongan
 
 <!-- marginal: 649,674,700 -->
 
@@ -702,7 +798,9 @@ B.31 Kementerian Pelancongan
 
 <!-- marginal: 258,303,800 -->
 
-B.32 Kementerian Wilayah Persekutuan
+<!-- marginal: B.32 -->
+
+Kementerian Wilayah Persekutuan
 
 <!-- marginal: 258,303,800 -->
 
@@ -710,7 +808,9 @@ B.32 Kementerian Wilayah Persekutuan
 
 <!-- marginal: 16,904,400 -->
 
-B.40 Suruhanjaya Perkhidmatan Pelajaran
+<!-- marginal: B.40 -->
+
+Suruhanjaya Perkhidmatan Pelajaran
 
 <!-- marginal: 16,904,400 -->
 
@@ -718,7 +818,9 @@ B.40 Suruhanjaya Perkhidmatan Pelajaran
 
 <!-- marginal: 27,350,295,000 -->
 
-B.41 Kementerian Pelajaran
+<!-- marginal: B.41 -->
+
+Kementerian Pelajaran
 
 <!-- marginal: 27,350,295,000 -->
 
@@ -732,7 +834,7 @@ B.41 Kementerian Pelajaran
 
 ## YANG TERDAPAT DALAM ANGGARAN PERBELANJAAN TAHUN 2009
 
-## MAKSUD
+<!-- marginal: MAKSUD -->
 
 ## TAJUK
 
@@ -744,7 +846,9 @@ B.41 Kementerian Pelajaran
 
 <!-- marginal: 11,433,169,900 -->
 
-B.42 Kementerian Kesihatan
+<!-- marginal: B.42 -->
+
+Kementerian Kesihatan
 
 <!-- marginal: 11,433,169,900 -->
 
@@ -752,7 +856,9 @@ B.42 Kementerian Kesihatan
 
 <!-- marginal: 1,394,997,500 -->
 
-B.43 Kementerian Perumahan dan Kerajaan Tempatan
+<!-- marginal: B.43 -->
+
+Kementerian Perumahan dan Kerajaan Tempatan
 
 <!-- marginal: 1,394,997,500 -->
 
@@ -762,7 +868,9 @@ B.43 Kementerian Perumahan dan Kerajaan Tempatan
 
 ## DAN WARISAN
 
-B.44 Kementerian Perpaduan, Kebudayaan, Kesenian dan Warisan
+<!-- marginal: B.44 -->
+
+Kementerian Perpaduan, Kebudayaan, Kesenian dan Warisan
 
 <!-- marginal: 686,957,000 -->
 
@@ -770,7 +878,9 @@ B.44 Kementerian Perpaduan, Kebudayaan, Kesenian dan Warisan
 
 <!-- marginal: 408,841,400 -->
 
-B.45 Kementerian Belia dan Sukan
+<!-- marginal: B.45 -->
+
+Kementerian Belia dan Sukan
 
 <!-- marginal: 408,841,400 -->
 
@@ -778,7 +888,9 @@ B.45 Kementerian Belia dan Sukan
 
 <!-- marginal: 555,908,700 -->
 
-B.46 Kementerian Sumber Manusia
+<!-- marginal: B.46 -->
+
+Kementerian Sumber Manusia
 
 <!-- marginal: 555,908,700 -->
 
@@ -786,7 +898,9 @@ B.46 Kementerian Sumber Manusia
 
 <!-- marginal: 999,857,600 -->
 
-B.47 Kementerian Penerangan
+<!-- marginal: B.47 -->
+
+Kementerian Penerangan
 
 <!-- marginal: 999,857,600 -->
 
@@ -796,7 +910,9 @@ B.47 Kementerian Penerangan
 
 ## DAN MASYARAKAT
 
-B.48 Kementerian Pembangunan Wanita, Keluarga dan Masyarakat
+<!-- marginal: B.48 -->
+
+Kementerian Pembangunan Wanita, Keluarga dan Masyarakat
 
 <!-- marginal: 781,390,900 -->
 
@@ -804,7 +920,9 @@ B.48 Kementerian Pembangunan Wanita, Keluarga dan Masyarakat
 
 <!-- marginal: 9,682,119,800 -->
 
-B.49 Kementerian Pengajian Tinggi
+<!-- marginal: B.49 -->
+
+Kementerian Pengajian Tinggi
 
 <!-- marginal: 9,682,119,800 -->
 
@@ -812,7 +930,9 @@ B.49 Kementerian Pengajian Tinggi
 
 <!-- marginal: 10,650,504,000 -->
 
-B.60 Kementerian Pertahanan
+<!-- marginal: B.60 -->
+
+Kementerian Pertahanan
 
 <!-- marginal: 10,650,504,000 -->
 
@@ -820,7 +940,9 @@ B.60 Kementerian Pertahanan
 
 <!-- marginal: 7,149,051,600 -->
 
-B.62 Kementerian Dalam Negeri
+<!-- marginal: B.62 -->
+
+Kementerian Dalam Negeri
 
 <!-- marginal: 7,149,051,600 -->
 
@@ -844,7 +966,7 @@ B.62 Kementerian Dalam Negeri
 
 <!-- marginal: ANGGARAN 2009 -->
 
-## MAKSUD
+<!-- marginal: MAKSUD -->
 
 ## TAJUK
 
@@ -986,7 +1108,7 @@ P.26 Kementerian Pembangunan Usahawan dan Koperasi 1,112,527,800
 
 <!-- marginal: ANGGARAN 2009 -->
 
-## MAKSUD
+<!-- marginal: MAKSUD -->
 
 ## TAJUK
 
@@ -1122,7 +1244,7 @@ P.45 Kementerian Belia dan Sukan 746,064,800
 
 <!-- marginal: ANGGARAN 2009 -->
 
-## MAKSUD
+<!-- marginal: MAKSUD -->
 
 ## TAJUK
 
@@ -1244,7 +1366,7 @@ Sektor (RM juta) (RM juta)
 
 <!-- marginal: (5) -->
 
-### I.
+<!-- marginal: I. -->
 
 ## EKONOMI
 
@@ -1318,7 +1440,7 @@ Alam Sekitar 0.0 1,862.2 i.
 
 <!-- marginal: 35.3 -->
 
-### II.
+<!-- marginal: II. -->
 
 ## SOSIAL
 
@@ -1392,7 +1514,7 @@ Sektor (RM juta) (RM juta)
 
 Pembelian Tanah 0.0 3.5 h.
 
-### III.
+<!-- marginal: III. -->
 
 ## KESELAMATAN
 
@@ -1424,7 +1546,7 @@ Keselamatan Dalam Negeri 7,581.5 1,059.2 b.
 
 <!-- marginal: 7.0 -->
 
-### IV.
+<!-- marginal: IV. -->
 
 ## PENTADBIRAN AM
 
@@ -1462,7 +1584,7 @@ Pengubahsuaian
 
 <!-- marginal: 10.0 -->
 
-### V.
+<!-- marginal: V. -->
 
 ## TANGGUNGAN
 
@@ -1490,7 +1612,7 @@ Hutang Negara
 
 <!-- marginal: 16.1 -->
 
-### VI.
+<!-- marginal: VI. -->
 
 ## BAYARAN PINDAHAN
 
@@ -1522,19 +1644,25 @@ d. Bayaran Pindahan Lain 27,703.3 0.0
 
 <!-- page 23 -->
 
-Anggaran Anggaran
+Anggaran
+
+<!-- marginal: Anggaran -->
 
 <!-- marginal: Jumlah -->
 
 <!-- marginal: Peratus -->
 
-Mengurus Pembangunan
+Mengurus
+
+<!-- marginal: Pembangunan -->
 
 <!-- marginal: Anggaran -->
 
 <!-- marginal: Daripada -->
 
-Sektor (RM juta) (RM juta)
+Sektor (RM juta)
+
+<!-- marginal: (RM juta) -->
 
 <!-- marginal: (RM juta) -->
 
@@ -1546,7 +1674,7 @@ Sektor (RM juta) (RM juta)
 
 ## SIMPANAN LUAR
 
-### 2,000.0
+<!-- marginal: 2,000.0 -->
 
 <!-- marginal: 2,000.0 -->
 
@@ -1562,7 +1690,7 @@ Sektor (RM juta) (RM juta)
 
 ### 154,169.8
 
-### 53,729.1
+<!-- marginal: 53,729.1 -->
 
 CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifikasi yang lazim dipakai bagi perbelanjaan Kerajaan dan terdiri daripada pelbagai Maksud Perbelanjaan menyebabkan jumlah peruntukan yang ditunjukkan mungkin berbeza dengan jumlah peruntukan yang ditunjukkan di bawah Maksud-maksud Perbelanjaan bagi Kementerian/Jabatan yang terdapat dalam Buku Anggaran Perbelanjaan.
 
@@ -1572,7 +1700,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 ## ANGGARAN PERBELANJAAN MENGURUS (BEKALAN) DAN PEMBANGUNAN 2009
 
-## ANGGARAN PERBELANJAAN
+<!-- marginal: ANGGARAN PERBELANJAAN -->
 
 <!-- marginal: JUMLAH BESAR -->
 
@@ -1584,7 +1712,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 <!-- marginal: PEMBANGUNAN -->
 
-### (RM)
+<!-- marginal: (RM) -->
 
 <!-- marginal: (RM) -->
 
@@ -1594,7 +1722,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 ### B.1
 
-### 70,494,400
+<!-- marginal: 70,494,400 -->
 
 <!-- marginal: 70,494,400 -->
 
@@ -1602,7 +1730,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 ### B.2
 
-### 1,959,000
+<!-- marginal: 1,959,000 -->
 
 <!-- marginal: 1,959,000 -->
 
@@ -1612,7 +1740,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 ### B.3
 
-### 150,825,700
+<!-- marginal: 150,825,700 -->
 
 <!-- marginal: 150,825,700 -->
 
@@ -1620,7 +1748,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 ### B.4
 
-### 39,375,900
+<!-- marginal: 39,375,900 -->
 
 <!-- marginal: 39,375,900 -->
 
@@ -1628,7 +1756,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 ### B.5
 
-### 50,260,700
+<!-- marginal: 50,260,700 -->
 
 <!-- marginal: 50,260,700 -->
 
@@ -1636,7 +1764,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 ## JABATAN PERDANA MENTERI
 
-### 5,683,102,000
+<!-- marginal: 5,683,102,000 -->
 
 <!-- marginal: 10,338,847,000 -->
 
@@ -1646,7 +1774,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 ### B.6
 
-### 3,661,392,300
+<!-- marginal: 3,661,392,300 -->
 
 <!-- marginal: P.6 -->
 
@@ -1658,7 +1786,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 ### B.7
 
-### 1,721,299,400
+<!-- marginal: 1,721,299,400 -->
 
 <!-- marginal: P.7 -->
 
@@ -1670,7 +1798,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 ### B.8
 
-### 139,377,600
+<!-- marginal: 139,377,600 -->
 
 <!-- marginal: 139,377,600 -->
 
@@ -1678,13 +1806,13 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 ### B.9
 
-### 161,032,700
+<!-- marginal: 161,032,700 -->
 
 <!-- marginal: 161,032,700 -->
 
 <!-- page 25 -->
 
-## ANGGARAN PERBELANJAAN
+<!-- marginal: ANGGARAN PERBELANJAAN -->
 
 <!-- marginal: JUMLAH BESAR -->
 
@@ -1696,15 +1824,15 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 <!-- marginal: PEMBANGUNAN -->
 
-### (RM)
-
 <!-- marginal: (RM) -->
 
 <!-- marginal: (RM) -->
 
-7. KEMENTERIAN KEWANGAN
+<!-- marginal: (RM) -->
 
-### 37,854,997,800
+## 7. KEMENTERIAN KEWANGAN
+
+<!-- marginal: 37,854,997,800 -->
 
 <!-- marginal: 3,314,853,800 -->
 
@@ -1714,7 +1842,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 ### B.10
 
-### 2,223,388,600
+<!-- marginal: 2,223,388,600 -->
 
 <!-- marginal: P.10 -->
 
@@ -1726,7 +1854,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 ### B.11
 
-### 31,223,009,100
+<!-- marginal: 31,223,009,100 -->
 
 <!-- marginal: 31,223,009,100 -->
 
@@ -1734,7 +1862,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 ### B.12
 
-### 4,408,600,100
+<!-- marginal: 4,408,600,100 -->
 
 <!-- marginal: 4,408,600,100 -->
 
@@ -1746,11 +1874,11 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 <!-- marginal: 2,000,000,000 -->
 
-8. KEMENTERIAN LUAR NEGERI
+## 8. KEMENTERIAN LUAR NEGERI
 
 ### B.13
 
-### 509,582,100
+<!-- marginal: 509,582,100 -->
 
 <!-- marginal: P.13 -->
 
@@ -1758,11 +1886,11 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 <!-- marginal: 772,076,100 -->
 
-9. KEMENTERIAN PERUSAHAAN PERLADANGAN
+## 9. KEMENTERIAN PERUSAHAAN PERLADANGAN
 
 ### B.20
 
-### 1,444,259,900
+<!-- marginal: 1,444,259,900 -->
 
 <!-- marginal: P.20 -->
 
@@ -1776,7 +1904,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 ### B.21
 
-### 3,807,494,100
+<!-- marginal: 3,807,494,100 -->
 
 <!-- marginal: P.21 -->
 
@@ -1790,7 +1918,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 ### B.22
 
-### 1,041,195,600
+<!-- marginal: 1,041,195,600 -->
 
 <!-- marginal: P.22 -->
 
@@ -1804,7 +1932,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 ### B.23
 
-### 933,518,300
+<!-- marginal: 933,518,300 -->
 
 <!-- marginal: P.23 -->
 
@@ -1816,7 +1944,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 ### B.24
 
-### 464,850,000
+<!-- marginal: 464,850,000 -->
 
 <!-- marginal: P.24 -->
 
@@ -1828,7 +1956,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 <!-- page 26 -->
 
-## ANGGARAN PERBELANJAAN
+<!-- marginal: ANGGARAN PERBELANJAAN -->
 
 <!-- marginal: JUMLAH BESAR -->
 
@@ -1840,7 +1968,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 <!-- marginal: PEMBANGUNAN -->
 
-### (RM)
+<!-- marginal: (RM) -->
 
 <!-- marginal: (RM) -->
 
@@ -1850,7 +1978,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 ### B.25
 
-### 377,499,100
+<!-- marginal: 377,499,100 -->
 
 <!-- marginal: P.25 -->
 
@@ -1864,7 +1992,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 ### B.26
 
-### 2,342,153,400
+<!-- marginal: 2,342,153,400 -->
 
 <!-- marginal: P.26 -->
 
@@ -1878,7 +2006,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 ### B.27
 
-### 1,388,326,700
+<!-- marginal: 1,388,326,700 -->
 
 <!-- marginal: P.27 -->
 
@@ -1890,7 +2018,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 ### B.28
 
-### 876,398,500
+<!-- marginal: 876,398,500 -->
 
 <!-- marginal: P.28 -->
 
@@ -1902,7 +2030,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 ### B.29
 
-### 92,189,100
+<!-- marginal: 92,189,100 -->
 
 <!-- marginal: P.29 -->
 
@@ -1914,7 +2042,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 ### B.30
 
-### 814,923,700
+<!-- marginal: 814,923,700 -->
 
 <!-- marginal: P.30 -->
 
@@ -1926,7 +2054,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 ### B.31
 
-### 649,674,700
+<!-- marginal: 649,674,700 -->
 
 <!-- marginal: P.31 -->
 
@@ -1938,7 +2066,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 ### B.32
 
-### 258,303,800
+<!-- marginal: 258,303,800 -->
 
 <!-- marginal: P.32 -->
 
@@ -1950,7 +2078,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 ### B.40
 
-### 16,904,400
+<!-- marginal: 16,904,400 -->
 
 <!-- marginal: 16,904,400 -->
 
@@ -1958,7 +2086,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 ### B.41
 
-### 27,350,295,000
+<!-- marginal: 27,350,295,000 -->
 
 <!-- marginal: P.41 -->
 
@@ -1970,7 +2098,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 ### B.42
 
-### 11,433,169,900
+<!-- marginal: 11,433,169,900 -->
 
 <!-- marginal: P.42 -->
 
@@ -1982,7 +2110,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 ### B.43
 
-### 1,394,997,500
+<!-- marginal: 1,394,997,500 -->
 
 <!-- marginal: P.43 -->
 
@@ -1994,7 +2122,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 <!-- page 27 -->
 
-## ANGGARAN PERBELANJAAN
+<!-- marginal: ANGGARAN PERBELANJAAN -->
 
 <!-- marginal: JUMLAH BESAR -->
 
@@ -2006,7 +2134,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 <!-- marginal: PEMBANGUNAN -->
 
-### (RM)
+<!-- marginal: (RM) -->
 
 <!-- marginal: (RM) -->
 
@@ -2016,7 +2144,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 ### B.44
 
-### 686,957,000
+<!-- marginal: 686,957,000 -->
 
 <!-- marginal: P.44 -->
 
@@ -2030,7 +2158,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 ### B.45
 
-### 408,841,400
+<!-- marginal: 408,841,400 -->
 
 <!-- marginal: P.45 -->
 
@@ -2042,7 +2170,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 ### B.46
 
-### 555,908,700
+<!-- marginal: 555,908,700 -->
 
 <!-- marginal: P.46 -->
 
@@ -2054,7 +2182,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 ### B.47
 
-### 999,857,600
+<!-- marginal: 999,857,600 -->
 
 <!-- marginal: P.47 -->
 
@@ -2066,7 +2194,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 ### B.48
 
-### 781,390,900
+<!-- marginal: 781,390,900 -->
 
 <!-- marginal: P.48 -->
 
@@ -2080,7 +2208,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 ### B.49
 
-### 9,682,119,800
+<!-- marginal: 9,682,119,800 -->
 
 <!-- marginal: P.49 -->
 
@@ -2092,7 +2220,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 ### B.60
 
-### 10,650,504,000
+<!-- marginal: 10,650,504,000 -->
 
 <!-- marginal: P.60 -->
 
@@ -2104,7 +2232,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 ### B.62
 
-### 7,149,051,600
+<!-- marginal: 7,149,051,600 -->
 
 <!-- marginal: P.62 -->
 
@@ -2114,7 +2242,7 @@ CATATAN: Klasifikasi mengikut sektor dalam jadual di atas adalah menurut klasifi
 
 ## JUMLAH BESAR
 
-### 129,961,382,300
+<!-- marginal: 129,961,382,300 -->
 
 <!-- marginal: 53,729,145,000 -->
 

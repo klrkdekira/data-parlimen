@@ -28,9 +28,13 @@ III
 
 7. Amount of rental. 8. Non-payment or arrears of rental.
 
-9. Prohibition against recovery of premises. 10. De-control Tribunal.
+9. Prohibition against recovery of premises.
 
-11. Expiry of transitional period. 12. Rules.
+10. De-control Tribunal.
+
+11. Expiry of transitional period.
+
+12. Rules.
 
 ## SCHEDULE
 
@@ -70,15 +74,23 @@ NOW, THEREFORE, pursuant to Clause (4) of Article 76 of the Federal Constitution
 
 ## REPEAL
 
-Repeal of
+<!-- marginal: Repeal of -->
 
-2. The Control of Rent Act 1966, which in this Act is Act 363. referred to as "the Act", is repealed.
+2. The Control of Rent Act 1966, which in this Act is
 
-Cessation of
+<!-- marginal: Act 363. -->
 
-3. Upon the repeal of the Act under section 2, any tenancy tenancy. between a landlord and a tenant before the date of the repeal shall forthwith be deemed to have ceased.
+referred to as "the Act", is repealed.
 
-Savings.
+<!-- marginal: Cessation of -->
+
+3. Upon the repeal of the Act under section 2, any tenancy
+
+<!-- marginal: tenancy. -->
+
+between a landlord and a tenant before the date of the repeal shall forthwith be deemed to have ceased.
+
+<!-- marginal: Savings. -->
 
 4. The repeal of the Act under section 2 shall not affect any proceedings commenced before the repeal of the Act and still pending immediately prior to the repeal of the Act, or any orders, decisions or judgments made before the repeal of the Act, in respect of—
 
@@ -94,9 +106,13 @@ III
 
 ## TRANSITIONAL PROVISIONS
 
-Transitional
+<!-- marginal: Transitional -->
 
-5. (1) Subject to subsection (2), "transitional period" period. means the period commencing on 1 September 1997 and ending on 31 December 1999.
+5. (1) Subject to subsection (2), "transitional period"
+
+<!-- marginal: period. -->
+
+means the period commencing on 1 September 1997 and ending on 31 December 1999.
 
 (2) Notwithstanding subsection (1), the transitional period may cease to be in force earlier than 31 December 1999 in the Federal Territory of Kuala Lumpur or in any State or in such part or parts of the State on such date as the Minister, after consultation with the State Authority, may appoint in relation to that State or such part or pans of that State for the expiry of the transitional period by a notification in the Gazette.
 
@@ -150,11 +166,27 @@ landlord shall have the right to vacant possession of the premises from the tena
 
 (5) The recovery of vacant possession of premises under subsection (4) shall not prejudice the right of the landlord to recover any rental accrued and remaining unpaid as at the date of the expiry of the three-month period provided for in paragraph 11(3)(a).
 
-Prohibition 9. Except for the right to vacant possession of the against premises under section 8, no landlord is entitled to recover recovery of premises. vacant possession of the premises for any other reason during the transitional period.
+<!-- marginal: Prohibition -->
 
-De-control
+9. Except for the right to vacant possession of the
 
-10. (1) There shall be established a tribunal to be called Tribunal. the "De-control Tribunal" which shall have jurisdiction to hear and determine any dispute concerning—
+<!-- marginal: against -->
+
+premises under section 8, no landlord is entitled to recover
+
+<!-- marginal: recovery -->
+
+<!-- marginal: of premises. -->
+
+vacant possession of the premises for any other reason during the transitional period.
+
+<!-- marginal: De-control -->
+
+10. (1) There shall be established a tribunal to be called
+
+<!-- marginal: Tribunal. -->
+
+the "De-control Tribunal" which shall have jurisdiction to hear and determine any dispute concerning—
 
 (a) rentals due and owing to the landlord; and
 
@@ -166,9 +198,17 @@ De-control
 
 (4) The decision of the De-control Tribunal is final.
 
-Expiry of
+<!-- marginal: Expiry of -->
 
-11. (1) Upon the expiry of the transitional period under transitional subsection 5(1) or 5(2), as the case may be, all tenancies period. deemed to have been entered into between the landlords and tenants under subsection 6(1) shall cease to be in force and the landlords shall thereafter—
+11. (1) Upon the expiry of the transitional period under
+
+<!-- marginal: transitional -->
+
+subsection 5(1) or 5(2), as the case may be, all tenancies
+
+<!-- marginal: period. -->
+
+deemed to have been entered into between the landlords and tenants under subsection 6(1) shall cease to be in force and the landlords shall thereafter—
 
 (a) have the right to vacant possession of the premises from the tenants without payment of any compensation; and
 

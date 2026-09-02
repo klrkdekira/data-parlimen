@@ -338,7 +338,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 23. The principal Act is amended by inserting after Part Va the following Part:
 
-“Part Vb
+## “PART VB
 
 ## PROPERTY MANAGERS
 
@@ -392,11 +392,7 @@ the Register upon making an application to the Board and proving to its satisfac
 
 (8) In order to be satisfied with any of the matters mentioned in subsections (1), (4), (5), (6) and (7), the Board may call upon the applicant to submit to it such documents as it considers relevant.
 
-(9) A registered valuer, appraiser or estate agent permitted to carry on property management before the coming into force of this Part may, pending having his name entered under
-
-## Part IV of the Register as provided for under subsection (3)
-
-or (6), continue to engage in property management practice or business within the period referred to in subsection (7).
+(9) A registered valuer, appraiser or estate agent permitted to carry on property management before the coming into force of this Part may, pending having his name entered under Part IV of the Register as provided for under subsection (3) or (6), continue to engage in property management practice or business within the period referred to in subsection (7).
 
 <!-- page 15 -->
 
@@ -736,7 +732,9 @@ or (6), continue to engage in property management practice or business within th
 
 29. The principal Act is amended—
 
-(a) by renumbering the existing section 30a as section 30b; and
+(a) by renumbering the existing section 30a as section 30b;
+
+<!-- marginal: and -->
 
 <!-- page 28 -->
 
@@ -770,7 +768,7 @@ except that the power to arrest without a warrant under the Criminial Procedure 
 
 (a) by renumbering the existing section 30b as section 30c; and
 
-(b) in section 30c as renumbered, by substituting for the words “section 30a” wherever appearing the words “section 30b”.
+(b) in section 30c as renumbered, by substituting for the words “section 30a” wherever appearing the words “section 30B”.
 
 ### Amendment of section 30c
 
@@ -840,11 +838,7 @@ to require the three registered property managers appointed as members of the Bo
 
 12. Clause 12 seeks to amend section 16 of Act 242. Subclause 12(a) seeks to amend subsection 16(1a) of Act 242 to provide that the authority to practise as an individual registered property manager shall be subject to the condition that the practice is in accordance with section 23 of Act 242. Subclause 12(b) seeks to amend subsection 16(5) of Act 242 by allowing the Board to issue a duplicate authority to practise on application made by a registered property manager and upon satisfying certain other requirements. Subclause 12(c) seeks to amend subsection 16(7) of Act 242 to require a registered property manager who changes the employment to notify the Board in writing particulars relating to his former and new employer. The proposed amendment also requires a registered property manager to notify the Board in writing in the event of any changes made in the name, address, etc., of his practice, or the change in the registered property managers practising under his employment or the employment of his firm. Subclause 12(d) seeks to amend subsection 16(7b) of Act 242 to extend the application of paragraph 16(7)(a) of Act 242 to probationary property managers whereby any changes shall be entered in the Register of Probationers.
 
-13. Clause 13 seeks to amend section 17 of Act 242. Subclause 13(a) seeks to amend paragraph 17(1)(e) of Act 242 to require a person to also prove to the satisfaction of the Board that he is not under suspension from property management practice and his name is not cancelled from the Register as part of the requirements before he is entitled to have his name entered under
-
-## Part I or II of the Register. Subclause 13(b) seeks to amend subsection 17(1a)
-
-of Act 242 by allowing a person who is disqualified from property management practice to have his name entered under Part I of the Register as a valuer if the Board considers him fit to practise valuation.
+13. Clause 13 seeks to amend section 17 of Act 242. Subclause 13(a) seeks to amend paragraph 17(1)(e) of Act 242 to require a person to also prove to the satisfaction of the Board that he is not under suspension from property management practice and his name is not cancelled from the Register as part of the requirements before he is entitled to have his name entered under Part I or II of the Register. Subclause 13(b) seeks to amend subsection 17(1a) of Act 242 by allowing a person who is disqualified from property management practice to have his name entered under Part I of the Register as a valuer if the Board considers him fit to practise valuation.
 
 14. Clause 15 seeks to delete subsection 18(6) of Act 242 to liberalise the valuation practice by removing the requirement for a person to be a citizen or permanent resident of Malaysia to qualify for registration as a valuer or probationary valuer.
 

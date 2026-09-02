@@ -8,7 +8,7 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -20,7 +20,7 @@
 
 4. Reference to COVID-19
 
-## Part II
+## PART II
 
 ## INABILITY TO PERFORM CONTRACTUAL OBLIGATION
 
@@ -38,7 +38,7 @@
 
 ## SCHEDULE
 
-## Part III
+## PART III
 
 ## MODIFICATIONS TO THE LIMITATION ACT 1953
 
@@ -48,7 +48,7 @@
 
 <!-- page 2 -->
 
-## Part IV
+## PART IV
 
 ## MODIFICATIONS TO THE SABAH LIMITATION ORDINANCE
 
@@ -56,7 +56,7 @@
 
 14. Limitation period extended
 
-## Part V
+## PART V
 
 ## MODIFICATIONS TO THE SARAWAK LIMITATION ORDINANCE
 
@@ -64,7 +64,7 @@
 
 16. Limitation period extended
 
-## Part VI
+## PART VI
 
 ## MODIFICATIONS TO THE PUBLIC AUTHORITIES PROTECTION ACT 1948
 
@@ -72,7 +72,7 @@
 
 18. Limitation period in section 2 extended
 
-## Part VII
+## PART VII
 
 ## MODIFICATIONS TO THE INSOLVENCY ACT 1967
 
@@ -94,19 +94,29 @@
 
 <!-- page 3 -->
 
-## Part IX
+## PART IX
 
 ## MODIFICATIONS TO THE CONSUMER PROTECTION ACT 1999
 
-25. Commencement of modifications to the Consumer Protection Act 1999 26. Modification to section 24v 27. Saving 28. Modification to section 99
+25. Commencement of modifications to the Consumer Protection Act 1999
 
-## Part X
+26. Modification to section 24v
+
+27. Saving
+
+28. Modification to section 99
+
+## PART X
 
 ## MODIFICATION TO THE DISTRESS ACT 1951
 
-29. Commencement of modification to the Distress Act 1951 30. Modification to section 5 31. Saving
+29. Commencement of modification to the Distress Act 1951
 
-## Part XI
+30. Modification to section 5
+
+31. Saving
+
+## PART XI
 
 ## MODIFICATIONS TO THE HOUSING DEVELOPMENT
 
@@ -126,7 +136,7 @@
 
 38. Modification to section 16n
 
-## Part XII
+## PART XII
 
 ## MODIFICATIONS TO THE INDUSTRIAL RELATIONS ACT 1967
 
@@ -144,7 +154,7 @@
 
 42. Time period for renewal of licence under section 11
 
-## Part XIV
+## PART XIV
 
 ## MODIFICATIONS TO THE LAND PUBLIC TRANSPORT ACT 2010
 
@@ -154,7 +164,7 @@
 
 45. Modification to section 56
 
-## Part XV
+## PART XV
 
 ## MODIFICATIONS TO THE COMMERCIAL VEHICLES
 
@@ -166,7 +176,7 @@
 
 48. Modification to section 24
 
-## Part XVI
+## PART XVI
 
 ## MODIFICATIONS TO THE COURTS OF JUDICATURE ACT 1964
 
@@ -194,7 +204,7 @@
 
 55. Commencement of modification to the Subordinate Courts Rules Act 1955 56. Modification to section 3
 
-## Part XIX
+## PART XIX
 
 ## MISCELLANEOUS
 
@@ -210,7 +220,7 @@ An Act to provide for temporary measures to reduce the impact of Coronavirus Dis
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -240,7 +250,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 4. In this Act, any reference to “COVID-19” is a reference to “Coronavirus Disease 2019 (COVID-19)”.
 
-## Part II
+## PART II
 
 ## INABILITY TO PERFORM CONTRACTUAL OBLIGATION
 
@@ -312,7 +322,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 12 -->
 
-## Part III
+## PART III
 
 ## MODIFICATIONS TO THE LIMITATION ACT 1953
 
@@ -324,7 +334,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 12. Any limitation period specified in section 6 of the Limitation Act 1953 which expires during the period from 18 March 2020 to 31 August 2020 shall be extended to 31 December 2020.
 
-## Part IV
+## PART IV
 
 ## MODIFICATIONS TO THE SABAH LIMITATION ORDINANCE
 
@@ -338,7 +348,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 14. Any limitation period specified in paragraphs 1 to 4, subparagraph 5(a), paragraph 8, paragraphs 10 to 33, paragraphs 35 to 79, paragraphs 83 to 88, paragraphs 90 to 95 and paragraphs 98, 100, 106, 107, 111 and 113 in the Schedule to the Sabah Limitation Ordinance which expires during the period from 18 March 2020 to 31 August 2020 shall be extended to 31 December 2020.
 
-## Part V
+## PART V
 
 ## MODIFICATIONS TO THE SARAWAK LIMITATION ORDINANCE
 
@@ -354,7 +364,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 16. Any limitation period specified in paragraphs 1 to 4, subparagraph 5(a), paragraphs 8 to 29, paragraphs 31 and 32, paragraphs 34 to 78, paragraphs 82 to 94 and paragraphs 96, 98, 100, 106, 107, 111 and 113 in the Schedule to the Sarawak Limitation Ordinance which expires during the period from 18 March 2020 to 31 August 2020 shall be extended to 31 December 2020.
 
-## Part VI
+## PART VI
 
 ## MODIFICATIONS TO THE PUBLIC AUTHORITIES
 
@@ -370,7 +380,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 18. The limitation period specified in paragraph 2(a) of the Public Authorities Protection Act 1948 which expires during the period from 18 March 2020 to 31 August 2020 shall be extended to 31 December 2020.
 
-## Part VII
+## PART VII
 
 ## MODIFICATIONS TO THE INSOLVENCY ACT 1967
 
@@ -430,7 +440,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 24. Notwithstanding section 19, any owner who has exercised his power of taking possession of goods comprised in a hire-purchase agreement under section 16 of the Hire-Purchase Act 1967 before the date of publication of this Act, shall be deemed to have validly exercised such power of taking possession of such goods as if the Hire-Purchase Act 1967 had not been modified by this Act.
 
-## Part IX
+## PART IX
 
 ## MODIFICATIONS TO THE CONSUMER PROTECTION ACT 1999
 
@@ -478,7 +488,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 18 -->
 
-## Part X
+## PART X
 
 ## MODIFICATION TO THE DISTRESS ACT 1951
 
@@ -494,7 +504,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 31. Any execution of the warrant of distress for the recovery of rent due or payable to the landlord by a tenant of any premises that has been issued before the date of publication of this Act shall be dealt with under the Distress Act 1951 as if the Distress Act 1951 had not been modified by this Act.
 
-## Part XI
+## PART XI
 
 ## MODIFICATIONS TO THE HOUSING DEVELOPMENT
 
@@ -564,7 +574,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 38. Notwithstanding subsection 16n(2) of the Housing Development (Control and Licensing) Act 1966, if the limitation period for the homebuyer to file a claim has expired during the period from 18 March 2020 to 9 June 2020, the homebuyer is entitled to file the claim from 4 May 2020 to 31 December 2020 and the Tribunal for Homebuyer Claims shall have jurisdiction to hear such claim.
 
-## Part XII
+## PART XII
 
 ## MODIFICATIONS TO THE INDUSTRIAL RELATIONS ACT 1967
 
@@ -598,7 +608,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 42. The period from 18 March 2020 to 9 June 2020 shall be excluded from the calculation of the period for an application to renew a licence under subsection 11(1) of the Private Employment Agencies Act 1981.
 
-## Part XIV
+## PART XIV
 
 ## MODIFICATIONS TO THE LAND PUBLIC TRANSPORT ACT 2010
 
@@ -660,7 +670,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 25 -->
 
-## Part XV
+## PART XV
 
 ## MODIFICATIONS TO THE COMMERCIAL VEHICLES
 
@@ -720,7 +730,7 @@ exceeding twelve months the holder of a public service vehicle licence of a part
 
 (3) The Board may impose any conditions on the authorization granted under subsection (1).”.
 
-## Part XVI
+## PART XVI
 
 ## MODIFICATIONS TO THE COURTS OF JUDICATURE ACT 1964
 
@@ -796,7 +806,7 @@ exceeding twelve months the holder of a public service vehicle licence of a part
 
 “(7) The Chief Justice may, if the Chief Justice is of the opinion that the circumstances warrant and it is necessary in the interest of the dispensation of justice, public safety, public security, public health or propriety or for other sufficient reason to do so, modify any provision of the rules of court or suspend the application of such rules of court as is necessary for doing complete justice in any cause or matter pending before the Courts and to ensure that the administration of justice is carried out.”.
 
-## Part XIX
+## PART XIX
 
 ## MISCELLANEOUS
 
@@ -826,7 +836,7 @@ exceeding twelve months the holder of a public service vehicle licence of a part
 
 This Bill (“the proposed Act”) aims to support the Prihatin Rakyat Economic Stimulus Package, the Prihatin SME Economic Stimulus Package and the Short-Term Economic Recovery Plan announced by the Prime Minister on 27 March 2020, 6 April 2020 and 5 June 2020 respectively and to mitigate the financial and social impact due to the Coronavirus Disease 2019 (COVID-19). This Bill seeks to provide for temporary measures to reduce the impact of COVID-19 and to modify sixteen legislation namely the Limitation Act 1953, the Sabah Limitation Ordinance, the Sarawak Limitation Ordinance, the Public Authorities Protection Act 1948, the Insolvency Act 1967, the Hire-Purchase Act 1967, the Consumer Protection Act 1999, the Distress Act 1951, the Housing Development (Control and Licensing) Act 1966, the Industrial Relations Act 1967, the Private Employment Agencies Act 1981, the Land Public Transport Act 2010, the Commercial Vehicles Licensing Board Act 1987, the Courts of Judicature Act 1964, the Subordinate Courts Act 1948 and the Subordinate Courts Rules Act 1955.
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -836,7 +846,7 @@ This Bill (“the proposed Act”) aims to support the Prihatin Rakyat Economic 
 
 4. Clause 3 seeks to provide that the proposed Act shall prevail over any other written law in the event of any conflict or inconsistency.
 
-## Part II
+## PART II
 
 ## INABILITY TO PERFORM CONTRACTUAL OBLIGATION
 
@@ -858,7 +868,7 @@ Subclauses (3) to (5) seek to deal with the settlement of a dispute.
 
 10. The Schedule to this Part consists a list of categories of contracts under which the inability of one party to perform any contractual obligation shall not give rise to the other party to exercise his rights under the contract.
 
-## Part III
+## PART III
 
 ## MODIFICATIONS TO THE LIMITATION ACT 1953
 
@@ -866,7 +876,7 @@ Subclauses (3) to (5) seek to deal with the settlement of a dispute.
 
 12. Clause 12 seeks to extend the limitation period in section 6 of the Limitation Act 1953.
 
-## Part IV
+## PART IV
 
 ## MODIFICATIONS TO THE SABAH LIMITATION ORDINANCE
 
@@ -874,7 +884,7 @@ Subclauses (3) to (5) seek to deal with the settlement of a dispute.
 
 14. Clause 14 seeks to extend the limitation period in the relevant paragraphs of the Schedule to the Sabah Limitation Ordinance.
 
-## Part V
+## PART V
 
 ## MODIFICATIONS TO THE SARAWAK LIMITATION ORDINANCE
 
@@ -882,7 +892,7 @@ Subclauses (3) to (5) seek to deal with the settlement of a dispute.
 
 16. Clause 16 seeks to extend the limitation period in the relevant paragraphs of the Schedule to the Sarawak Limitation Ordinance.
 
-## Part VI
+## PART VI
 
 ## MODIFICATIONS TO THE PUBLIC AUTHORITIES PROTECTION ACT 1948
 
@@ -892,7 +902,7 @@ Subclauses (3) to (5) seek to deal with the settlement of a dispute.
 
 <!-- page 33 -->
 
-## Part VII
+## PART VII
 
 ## MODIFICATIONS TO THE INSOLVENCY ACT 1967
 
@@ -912,7 +922,7 @@ Subclauses (3) to (5) seek to deal with the settlement of a dispute.
 
 24. Clause 24 seeks to provide for saving provision.
 
-## Part IX
+## PART IX
 
 ## MODIFICATIONS TO THE CONSUMER PROTECTION ACT 1999
 
@@ -940,7 +950,7 @@ Subclause 26(2) seeks to provide that section 24v of the Consumer Protection Act
 
 28. Clause 28 seeks to extend the limitation period under subsection 99(2) of the Consumer Protection Act 1999.
 
-## Part X
+## PART X
 
 ## MODIFICATION TO THE DISTRESS ACT 1951
 
@@ -950,7 +960,7 @@ Subclause 26(2) seeks to provide that section 24v of the Consumer Protection Act
 
 31. Clause 31 seeks to provide for saving provision.
 
-## Part XI
+## PART XI
 
 ## MODIFICATIONS TO THE HOUSING DEVELOPMENT
 
@@ -984,7 +994,7 @@ Subclauses 36(2) and (3) seek to deal with the application for extension of the 
 
 37. Clause 38 seeks to modify the limitation period for the homebuyer to file a claim under subsection 16n(2) of the Housing Development (Control and Licensing) Act 1966.
 
-## Part XII
+## PART XII
 
 ## MODIFICATIONS TO THE INDUSTRIAL RELATIONS ACT 1967
 
@@ -1012,7 +1022,7 @@ Subclauses 36(2) and (3) seek to deal with the application for extension of the 
 
 44. Clause 45 seeks to substitute section 56 of the Land Public Transport Act 2010 to enable the Director General of Land Public Transport to authorize any licensed operator of goods vehicle to temporarily use the vehicle as a public service vehicle, tourism vehicle or goods vehicle of any other class.
 
-## Part XV
+## PART XV
 
 ## MODIFICATIONS TO THE COMMERCIAL VEHICLES LICENSING BOARD ACT 1987
 
@@ -1022,7 +1032,7 @@ Subclauses 36(2) and (3) seek to deal with the application for extension of the 
 
 47. Clause 48 seeks to substitute section 24 of the Commercial Vehicles Licensing Board Act 1987 to enable the Commercial Vehicles Licensing Board to authorize a holder of a carrier’s licence ‘C’ vehicle or ‘A’ vehicle to use the vehicle for the purpose of a public service vehicle or goods vehicle of any other class.
 
-## Part XVI
+## PART XVI
 
 ## MODIFICATIONS TO THE COURTS OF JUDICATURE ACT 1964
 
@@ -1056,7 +1066,7 @@ Subclause 51(c) seeks to introduce a new subsection (8) into section 17 of the C
 
 55. Clause 56 seeks to introduce a new subsection (7) into section 3 of the Subordinate Courts Rules Act 1955 to enable the Chief Justice to modify any provisions of the rules of court or to suspend the application of such rules as is necessary for doing complete justice in any cause or matter pending before the Court.
 
-## Part XIX
+## PART XIX
 
 ## MISCELLANEOUS
 

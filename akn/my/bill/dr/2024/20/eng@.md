@@ -82,11 +82,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 4 -->
 
-(b) in Form MS 5, by deleting
-
-<!-- marginal: the words -->
-
-“Before me, ......................….... Judge/Registrar”;
+(b) in Form MS 5, by deleting the words “Before me, ......................….... Judge/Registrar”;
 
 (c) in Form MS 24—
 

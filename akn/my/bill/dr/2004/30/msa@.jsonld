@@ -81,9 +81,13 @@
       "@type": "akn:clause",
       "eli:number": "3",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/30/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Perkara 125 Perlembagaan Persekutuan dipinda dalam Fasal"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Perkara 125 Perlembagaan Persekutuan dipinda dalam Fasal (1) dengan menggantikan perkataan \"enam puluh lima tahun\" di mana-mana jua terdapat dengan perkataan \"enam puluh enam tahun\". Pindaan Jadual Kesembilan"
+        "@value": "(1) dengan menggantikan perkataan \"enam puluh lima tahun\" di mana-mana jua terdapat dengan perkataan \"enam puluh enam tahun\". Pindaan Jadual Kesembilan"
       }
     },
     {
@@ -156,7 +160,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/30/msa@/~cl_5",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam Bahagian III— \"8. Terimaan berkenaan dengan air mentah.\"; dan"
+        "@value": "dalam Bahagian III—"
       }
     },
     {
@@ -176,7 +180,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/30/msa@/~cl_5__para_a",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan butiran 8 dengan butiran yang berikut:"
+        "@value": "dengan menggantikan butiran 8 dengan butiran yang berikut: \"8. Terimaan berkenaan dengan air mentah.\"; dan"
       }
     },
     {

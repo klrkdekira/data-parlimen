@@ -58,11 +58,7 @@ Akta Perbekalan Tambahan (1993) 1993.
 
 (Seksyen 2)
 
-Maksud Tajuk
-
-<!-- marginal: Peruntukan -->
-
-<!-- marginal: kepada maksud -->
+Maksud Tajuk Peruntukan kepada maksud
 
 <!-- marginal: RM -->
 
@@ -72,11 +68,7 @@ B. 1 Parlimen
 
 <!-- marginal: 5,691,300 -->
 
-B. 17 Kementerian Belia dan Sukan
-
-<!-- marginal: 28,953,200 -->
-
-B. 20 Kementerian Perdagangan Antarabangsa dan Industri B. 22 Kementerian Kebudayaan, Kesenian
+B. 17 Kementerian Belia dan Sukan 28,953,200 B. 20 Kementerian Perdagangan Antarabangsa dan Industri B. 22 Kementerian Kebudayaan, Kesenian
 
 <!-- marginal: 7,182,300 -->
 
@@ -88,15 +80,7 @@ B. 26 Kementerian Pendidikan
 
 <!-- marginal: 4,228,300 -->
 
-B. 29 Perkhidmatan Am Perbendaharaan
-
-<!-- marginal: 11,208,100 -->
-
-B. 43 Kementerian Undang-Undang
-
-<!-- marginal: 15,762,000 -->
-
-B. 47 Kementerian Pengangkutan B. 49 Kementerian Tenaga, Telekom
+B. 29 Perkhidmatan Am Perbendaharaan 11,208,100 B. 43 Kementerian Undang-Undang 15,762,000 B. 47 Kementerian Pengangkutan B. 49 Kementerian Tenaga, Telekom
 
 <!-- marginal: 6,472,300 -->
 
@@ -106,9 +90,7 @@ dan Pos
 
 B. 56 Kementerian Perpaduan Negara dan Pembangunan Masyarakat
 
-Jumlah . .
-
-<!-- marginal: 94,154,300 -->
+Jumlah . . 94,154,300
 
 ## HURAIAN
 
@@ -116,6 +98,4 @@ Tujuan Rang Undang-Undang ini ialah untuk memberikan kuasa berkanun supaya beber
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan.
-
-<!-- marginal: [PN. (U2) 1786.] -->
+Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan. [PN. (U2) 1786.]

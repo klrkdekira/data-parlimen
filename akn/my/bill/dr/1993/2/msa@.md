@@ -44,31 +44,33 @@ dipinda dengan memasukkan, selepas takrif perkataan "land", takrif baru yang ber
 
 <!-- page 2 -->
 
-2
+<!-- marginal: 2 -->
 
 ## RANG UNDANG-UNDANG
 
+<!-- marginal: Seksyen -->
+
 3. Akta ibu adalah dipinda dengan memasukkan,
 
-### baru 14A.
+<!-- marginal: baru 14A. -->
 
 selepas seksyen 14, seksyen baru 14A yang berikut:
 
-### "Establish-
+<!-- marginal: "Establish- -->
 
 14A. (1) The Commission may, with the
 
-### ment of
+<!-- marginal: ment of -->
 
 approval of the Minister, establish a security
 
-### a port
+<!-- marginal: a port -->
 
-### security
+<!-- marginal: security -->
 
 force for keeping order and security within the
 
-### force.
+<!-- marginal: force. -->
 
 area vested or deemed to be vested in, or in the possession or under the control of, the Commission.
 
@@ -76,25 +78,27 @@ area vested or deemed to be vested in, or in the possession or under the control
 
 (3) Notwithstanding any written law to the contrary, a member of the security force shall have the power to arrest without warrant any person found without lawful excuse within the area vested in, or in the possession or under the control of, the Commission.
 
-(4) Every person arrested pursuant to subsection (3) shall be taken to the nearest police station and produced before
+(4) Every person arrested pursuant to subsection (3) shall be taken to the nearest police station and produced before the Magistrate within twenty-four hours and shall thereafter be dealt with as provided by the
 
-<!-- marginal: the -->
-
-Magistrate within twenty-four hours and shall thereafter be dealt with as provided by the
-
-### FM.S.
+<!-- marginal: FM.S. -->
 
 Criminal Procedure Code.
 
-### Cap. 6.
+<!-- marginal: Cap. 6. -->
 
 (5) Any regulations made under section 15 shall unless expressly excluded therein apply to members of the security force established under this section.".
 
-### Pindaan
+<!-- marginal: Pindaan -->
 
-4. Akta ibu adalah dipinda dengan menggantikan seksyen 24(5) dengan seksyen 24(5) baru yang
+4. Akta ibu adalah dipinda dengan menggantikan
 
-24. berikut:
+<!-- marginal: seksyen -->
+
+seksyen 24(5) dengan seksyen 24(5) baru yang
+
+24.
+
+<!-- marginal: berikut: -->
 
 "(5) The Commission may give loans to its officers and servants for such purpose as may be approved by the Commission and on such terms and conditions as the Commission thinks fit.".
 
@@ -190,11 +194,21 @@ any debt due to the Commission which the Commission considers bad or irrecoverab
 
 <!-- page 4 -->
 
-Pemotongan
+<!-- marginal: Pemotongan -->
 
-11. Akta ibu adalah dipinda dengan memotong seksyen seksyen 49. 49 dan tajuk "Audit of Accounts".
+11. Akta ibu adalah dipinda dengan memotong seksyen
 
-12. Akta ibu adalah dipinda dengan memasukkan, baru 58A, selepas seksyen 58, seksyen baru 58A yang berikut:
+<!-- marginal: seksyen 49. -->
+
+49 dan tajuk "Audit of Accounts".
+
+<!-- marginal: Seksyen -->
+
+12. Akta ibu adalah dipinda dengan memasukkan,
+
+<!-- marginal: baru 58A, -->
+
+selepas seksyen 58, seksyen baru 58A yang berikut:
 
 Additional 58A, (1) In addition to the duties provided duties of under this Act, the Commission may, with the the Com- mission. approval of the Minister, operate any port- related activities.
 
@@ -218,13 +232,19 @@ maintenance outside the port of marinas and other properties necessary for the f
 
 Commission'.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-13. Seksyen 60(5) Akta ibu adalah dipinda dengan seksyen 60. menggantikan perkataan-perkataan "five hundred dollars" dengan perkataan-perkataan "one thousand ringgit".
+13. Seksyen 60(5) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 60. -->
 
-14. Seksyen 64 Akta ibu adalah dipinda- seksyen 64.
+menggantikan perkataan-perkataan "five hundred dollars" dengan perkataan-perkataan "one thousand ringgit".
+
+<!-- marginal: Pindaan -->
+
+14. Seksyen 64 Akta ibu adalah dipinda-
+
+<!-- marginal: seksyen 64. -->
 
 (a) dengan memotong perkataan-perkataan "or Her Britannic Majesty" dalam nota birai; dan
 
@@ -244,19 +264,51 @@ selepas seksyen 70C, seksyen baru 70CA dan 70CB yang
 
 <!-- marginal: dan 70CB. -->
 
-berikut:
+<!-- marginal: berikut: -->
 
-Power of 70CA. (1) Notwithstanding anything to the Pilotage contrary in this Act the Commission may, if it Committee to license considers expedient, authorise the Pilotage employees Committee to issue a licence to any employee of a licensed of a licensed operator to pilot vessels in a operator. pilotage district of the Commission subject to such terms and conditions as the Commission thinks fit:
+<!-- marginal: Power of -->
+
+70CA. (1) Notwithstanding anything to the
+
+<!-- marginal: Pilotage -->
+
+contrary in this Act the Commission may, if it Committee
+
+<!-- marginal: to license -->
+
+considers expedient, authorise the Pilotage employees Committee to issue a licence to any employee
+
+<!-- marginal: of a -->
+
+<!-- marginal: licensed -->
+
+of a licensed operator to pilot vessels in a
+
+<!-- marginal: operator. -->
+
+pilotage district of the Commission subject to such terms and conditions as the Commission thinks fit:
 
 Provided that no such licence shall be issued to any such employee unless the Pilotage Committee has examined the employee and be satisfied as to the employee's general fitness and competency, including his physical fitness to act as a pilot for the licensed operator,
 
 (2) A licence issued under subsection (1) shall cease to be valid if the employee to whom it was issued ceases to be employed by the licensed operator.
 
-Vessel 70CB. No vessel shall be piloted in a pilotage to be piloted by district by any person other than
+<!-- marginal: Vessel -->
 
-<!-- marginal: the -->
+70CB. No vessel shall be piloted in a pilotage
 
-Commission Commission pilot or a person licensed under pilot or licensed section 70CA(l).". person.
+<!-- marginal: to be -->
+
+<!-- marginal: piloted by -->
+
+district by any person other than the Commission Commission pilot or a person licensed under
+
+<!-- marginal: pilot or -->
+
+<!-- marginal: licensed -->
+
+section 70CA(l).".
+
+<!-- marginal: person. -->
 
 <!-- marginal: Pindaan -->
 
@@ -274,21 +326,21 @@ Commission Commission pilot or a person licensed under pilot or licensed section
 
 ## RANG UNDANG-UNDANG
 
-### Pindaan
+<!-- marginal: Pindaan -->
 
 17. Seksyen 70I Akta ibu adalah dipinda—
 
-### seksyen 70t.
+<!-- marginal: seksyen 70t. -->
 
 (a) dengan memasukkan, selepas perkataan- perkataan "a Commission pilot" dalam subseksyen (1), perkataan-perkataan "or a person licensed under section 70CA(l)"; dan
 
 (b) dengan menggantikan perkataan-perkataan "five hundred dollars" dalam subseksyen (3) dengan perkataan-perkataan "two thousand ringgit".
 
-### Pindaan
+<!-- marginal: Pindaan -->
 
 18. Seksyen 70J Akta ibu adalah dipinda—
 
-### seksyen 70J.
+<!-- marginal: seksyen 70J. -->
 
 (a) dengan memasukkan, selepas perkataan- perkataan "a Commission pilot" dalam subseksyen (1), perkataan-perkataan "or a person licensed under section 70CA(l)";
 
@@ -296,35 +348,35 @@ Commission Commission pilot or a person licensed under pilot or licensed section
 
 (c) dengan memasukkan, selepas perkataan- perkataan "Any Commission pilot" dalam subseksyen (3), perkataan-perkataan "or any person licensed under section 70cA(l)".
 
-### Pindaan
+<!-- marginal: Pindaan -->
 
 19. Seksyen 70M(1) Akta ibu adalah dipinda dengan
 
-### seksyen 70M.
+<!-- marginal: seksyen 70M. -->
 
 memasukkan, selepas perkataan-perkataan "under section", perkataan-perkataan "70CA(l) or".
 
-### Pindaan
+<!-- marginal: Pindaan -->
 
 20. Seksyen 70D(2) Akta ibu adalah dipinda dengan
 
-### seksyen 70o.
+<!-- marginal: seksyen 70o. -->
 
 menggantikan perkataan-perkataan "two thousand dollars" dengan perkataan-perkataan "five thousand ringgit".
 
-### Pindaan
+<!-- marginal: Pindaan -->
 
 21. Seksyen 82 Akta ibu adalah dipinda dengan
 
-### seksyen 82.
+<!-- marginal: seksyen 82. -->
 
 menggantikan perkataan-perkataan "five hundred dollars" dengan perkataan-perkataan "two thousand ringgit".
 
-### Pindaan
+<!-- marginal: Pindaan -->
 
 22. Seksyen 83 Akta ibu adalah dipinda dengan
 
-### seksyen 83.
+<!-- marginal: seksyen 83. -->
 
 menggantikan perkataan-perkataan "five hundred dollars" dalam subseksyen (2) dan (4) dengan perkataan- perkataan "two thousand ringgit".
 
@@ -386,7 +438,7 @@ berikut: Commis- 89A. (1) When any person without lawful sion to excuse refuses 
 
 <!-- page 8 -->
 
-### 8
+<!-- marginal: 8 -->
 
 ## RANG UNDANG-UNDANG
 
@@ -396,17 +448,63 @@ imposed on such person for the refusal or neglect, do or cause to be done all su
 
 (3) Any expenses incurred in the exercise of the powers conferred under subsection (1) or (2) shall be recoverable from the person to whom the direction had been given as a civil debt.
 
-Offence 89B. Where an offence under this Act or under committed any of the regulations or by laws made by a body corporate: thereunder is committed by a body corporate officers (whether or not the body corporate has been deemed to prosecuted), every director, secretary or be guilty. manager of the body corporate shall be deemed to be guilty of the offence unless he proves that the offence was committed without his consent or connivance and that he exercised all due diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances of the case.".
+<!-- marginal: Offence -->
 
-28. Akta ibu adalah dipinda dengan memasukkan, baru 90A selepas seksyen 90, seksyen baru 90A dan 90B yang dan 90B. berikut:
+89B. Where an offence under this Act or under
 
-Power to 90A. (1) The General Manager or such board person as may be authorised by him may board vessel and seize. any vessel within the port whenever he suspects that an offence under this Act or any by laws made thereunder has been or is about to be committed on board such vessel or
+<!-- marginal: committed -->
+
+any of the regulations or by laws made
+
+<!-- marginal: by a body -->
+
+<!-- marginal: corporate: -->
+
+thereunder is committed by a body corporate
+
+<!-- marginal: officers -->
+
+(whether or not the body corporate has been
+
+<!-- marginal: deemed to -->
+
+prosecuted), every director, secretary or
+
+<!-- marginal: be guilty. -->
+
+manager of the body corporate shall be deemed to be guilty of the offence unless he proves that the offence was committed without his consent or connivance and that he exercised all due diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances of the case.".
+
+<!-- marginal: Seksyen -->
+
+28. Akta ibu adalah dipinda dengan memasukkan,
+
+<!-- marginal: baru 90A -->
+
+selepas seksyen 90, seksyen baru 90A dan 90B yang
+
+<!-- marginal: dan 90B. -->
+
+<!-- marginal: berikut: -->
+
+<!-- marginal: Power to -->
+
+90A. (1) The General Manager or such
+
+<!-- marginal: board -->
+
+person as may be authorised by him may board
+
+<!-- marginal: vessel -->
+
+<!-- marginal: and seize. -->
+
+any vessel within the port whenever he suspects that an offence under this Act or any by laws made thereunder has been or is about to be committed on board such vessel or
 
 <!-- page 9 -->
 
 ## SURUHANJAYA PELABUHAN PULAU PINANG
 
-<!-- marginal: 9 -->
+### 9
 
 ## (PINDAAN)
 
@@ -416,55 +514,81 @@ whenever he considers it necessary to do so in the discharge of his duties under
 
 (3) Any master of such vessel who wilfully delays, fails to comply with any order lawfully given, withholds any information or obstructs in any manner whatsoever the General Manager or such person as may be authorised by him pursuant to subsection (1) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding one thousand ringgit.
 
-Power of 90B. (1) In the event of fire breaking out on General board any vessel in the port, the General Manager or authorised Manager or any person authorised by him may person to proceed to board the vessel with such persons order scuttling and assistance as may seem fit to him and may or removal give such orders to the master of the vessel as of vessel are necessary for scuttling the vessel or for in case of fire. removing that vessel or any other vessel, and he may take such other measures as are necessary and proper for the protection of life or property.
+<!-- marginal: Power of -->
 
-(2) If the orders given pursuant
+90B. (1) In the event of fire breaking out on
 
-<!-- marginal: to -->
+<!-- marginal: General -->
 
-subsection (1) are not carried out forthwith by the master of the vessel, the General Manager or the person authorised by him may himself proceed to carry the orders into effect.
+board any vessel in the port, the General
+
+<!-- marginal: Manager or -->
+
+<!-- marginal: authorised -->
+
+Manager or any person authorised by him may
+
+<!-- marginal: person to -->
+
+proceed to board the vessel with such persons
+
+<!-- marginal: order -->
+
+<!-- marginal: scuttling -->
+
+and assistance as may seem fit to him and may
+
+<!-- marginal: or removal -->
+
+give such orders to the master of the vessel as
+
+<!-- marginal: of vessel -->
+
+are necessary for scuttling the vessel or for
+
+<!-- marginal: in case -->
+
+<!-- marginal: of fire. -->
+
+removing that vessel or any other vessel, and he may take such other measures as are necessary and proper for the protection of life or property.
+
+(2) If the orders given pursuant to subsection (1) are not carried out forthwith by the master of the vessel, the General Manager or the person authorised by him may himself proceed to carry the orders into effect.
 
 <!-- page 10 -->
 
-### 10
+<!-- marginal: 10 -->
 
 ## RANG UNDANG-UNDANG
 
-(3) Any expenses incurred in the exercise of the powers conferred by subsections (1) and (2) shall be recoverable from the master or the owner of the vessel concerned as a civil debt.".
+(3) Any expenses incurred in the exercise of the powers conferred by subsections (1) and
 
-Pindaan 29. Seksyen 92A Akta ibu adalah dipinda- seksyen 92A.
+(2) shall be recoverable from the master or the owner of the vessel concerned as a civil debt.".
+
+<!-- marginal: Pindaan -->
+
+29. Seksyen 92A Akta ibu adalah dipinda-
+
+<!-- marginal: seksyen 92A. -->
 
 (a) dalam subseksyen ( 1 )-
 
 (i) dengan memasukkan, selepas perkataan- perkataan "not being a Commission pilot", perkataan-perkataan "or a person licensed under section 70cA(l)"; dan
 
-(ii) dengan menggantikan
-
-<!-- marginal: perkataan- -->
-
-perkataan "one thousand dollars" dengan perkataan-perkataan "two
-
-<!-- marginal: thousand -->
-
-ringgit"; dan
+(ii) dengan menggantikan perkataan- perkataan "one thousand dollars" dengan perkataan-perkataan "two thousand ringgit"; dan
 
 (b) dalam subseksyen (2)
 
 (i) dengan memasukkan, selepas perkataan- perkataan "not a Commission pilot", perkataan-perkataan "or a person licensed under section 70CA(l)"; dan
 
-(ii) dengan menggantikan perkataan- perkataan "one thousand dollars" dengan perkataan-perkataan "two
+(ii) dengan menggantikan perkataan- perkataan "one thousand dollars" dengan perkataan-perkataan "two thousand ringgit".
 
-<!-- marginal: thousand -->
+<!-- marginal: Pindaan -->
 
-ringgit".
+30. Seksyen 92B Akta ibu adalah dipinda—
 
-Pindaan 30. Seksyen 92B Akta ibu adalah dipinda— seksyen 92B.
+<!-- marginal: seksyen 92B. -->
 
-(a) dengan memasukkan, selepas perkataan- perkataan "Commission pilot"
-
-<!-- marginal: dalam -->
-
-subseksyen (1), perkataan-perkataan "or a person licensed under section 70cA(l)"; dan
+(a) dengan memasukkan, selepas perkataan- perkataan "Commission pilot" dalam subseksyen (1), perkataan-perkataan "or a person licensed under section 70cA(l)"; dan
 
 (b) dalam subseksyen (2)—
 
@@ -476,15 +600,7 @@ subseksyen (1), perkataan-perkataan "or a person licensed under section 70cA(l)"
 
 ## (PINDAAN)
 
-(ii) dengan menggantikan
-
-<!-- marginal: perkataan- -->
-
-perkataan "one hundred dollars" dengan perkataan-perkataan "five
-
-<!-- marginal: hundred -->
-
-ringgit".
+(ii) dengan menggantikan perkataan- perkataan "one hundred dollars" dengan perkataan-perkataan "five hundred ringgit".
 
 <!-- marginal: Pindaan -->
 
@@ -516,9 +632,31 @@ ringgit".
 
 <!-- marginal: seksyen 92E. -->
 
-seksyen 92e dengan seksyen 92E baru yang berikut: Failure to 92e. (1) The master, owner or agent of a employ vessel navigating in circumstances in which Commis- sion pilot the vessel is required by the Commission under or licensed pilot under section 70B to be under pilotage who does not certain employ a Commission pilot or a person circum- stances. licensed under section 70cA(l)
+seksyen 92e dengan seksyen 92E baru yang berikut:
 
-<!-- marginal: for such -->
+<!-- marginal: Failure to -->
+
+92e. (1) The master, owner or agent of a
+
+<!-- marginal: employ -->
+
+vessel navigating in circumstances in which
+
+<!-- marginal: Commis- -->
+
+<!-- marginal: sion pilot -->
+
+the vessel is required by the Commission under or licensed pilot under section 70B to be under pilotage who does not
+
+<!-- marginal: certain -->
+
+employ a Commission pilot or a person
+
+<!-- marginal: circum- -->
+
+<!-- marginal: stances. -->
+
+licensed under section 70cA(l) for such
 
 <!-- page 12 -->
 
@@ -530,15 +668,19 @@ purpose shall be guilty of an offence under this Act and shall, on conviction, b
 
 (2) Upon being found guilty of any offence under subsection (1), the Court before which the master, owner or agent of the vessel is found guilty shall order such master, owner or agent to pay to the Commission the amount certified by the accountant of the Commission to be the amount of dues and rates which would have been payable to the Commission if the vessel has been under pilotage as required by this Act and such amount shall be recoverable in the same manner as a fine.".
 
-### Pindaan
+<!-- marginal: Pindaan -->
 
 34. Seksyen 101 Akta ibu adalah dipinda dengan
 
-### seksyen 1 0 1.
+<!-- marginal: seksyen 1 0 1. -->
 
-memasukkan, selepas perkataan-perkataan "this Act", perkataan-perkataan "or the regulations or by-laws made thereunder". 35. Akta ibu adalah dipinda dengan memasukkan,
+memasukkan, selepas perkataan-perkataan "this Act", perkataan-perkataan "or the regulations or by-laws made thereunder".
 
-### baru 101 A.
+<!-- marginal: Seksyen -->
+
+35. Akta ibu adalah dipinda dengan memasukkan,
+
+<!-- marginal: baru 101 A. -->
 
 selepas seksyen 101, seksyen baru 10AA yang berikut:
 
@@ -570,11 +712,7 @@ Rang Undang-Undang ini bertujuan meminda Akta Suruhanjaya Pelabuhan Pulau Pinang
 
 2. Fasal 2 bertujuan meminda seksyen 2 Akta dan memasukkan suatu takrif baru mengenai "licensed operator".
 
-3. Fasal 3 bertujuan memasukkan seksyen baru 14A untuk mengadakan peruntukan bagi penubuhan
-
-<!-- marginal: suatu pasukan -->
-
-keselamatan pelabuhan.
+3. Fasal 3 bertujuan memasukkan seksyen baru 14A untuk mengadakan peruntukan bagi penubuhan suatu pasukan keselamatan pelabuhan.
 
 4. Fasal 4 bertujuan menggantikan seksyen 24(5) dengan seksyen 24{5) baru untuk membolehkan Suruhanjaya memberi berbagai jenis pinjaman kepada pegawai dan pengkhidmat Suruhanjaya bagi apa-apa maksud dan atas terma dan syarat sebagaimana yang difikirkan patut oleh Suruhanjaya.
 

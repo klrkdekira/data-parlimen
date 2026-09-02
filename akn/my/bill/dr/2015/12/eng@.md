@@ -12,7 +12,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ### Short title
 
-1. This Act may be cited as the Evidence (Amendment) Act 2015.
+1. This Act may be cited as the Evidence (Amendment) Act
+
+2015.
 
 ### New section 32a
 

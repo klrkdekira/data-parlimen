@@ -1,0 +1,278 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-7-1999",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_4"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Penilai, Pentaksir dan Ejen Harta-Tanah (Pindaan) 1999"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Penilai, Pentaksir dan Ejen Harta-Tanah (Pindaan) 1999."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini hendaklah mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan seksyen 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Penilai, Pentaksir dan Ejen Harta-Tanah 1981[Akta 242],"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang disebut \"Akta ibu\" dalam Akta ini, dipinda dalam seksyen 4—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_2__para_a__subpara_i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_2__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_2__para_a__subpara_i__subpara_iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (b) dengan perenggan yang berikut: \"(b) memungut dan menyusun kumpul— (i) apa-apa maklumat yang didapati perlu oleh Ketua Pengarah untuk membantu pegawai-pegawai dan penilai-penilai dalam membuat penilaian; dan Rang Undang-Undang ( i i) apa-apa maklumat yang didapati perlu oleh Ketua Pengarah mengenai segala atau apa-apa perkara yang berkaitan dengan harta;\"; ( i i) dengan memotong perkataan \"dan\" di hujung perenggan (ba) dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_2__para_a__subpara_i__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_2__para_a__subpara_i",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (ba) perenggan yang berikut: \"(bb) memberikan maklumat dan nasihat kepada Kerajaan dan mana-mana Kerajaan Negeri atau mana-mana orang mengenai perkara yang berkaitan dengan harta; (bc) mengadakan perkhidmatan pendidikan, perkhidmatan latihan, perkhidmatan penyelidikan dan perkhidmatan lain yang berhubung dengan fungsi Ketua Pengarah di bawah Akta ini kepada Kerajaan dan mana-mana Kerajaan Negeri atau mana- mana orang; dan\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (3) dengan subseksyen yang berikut: \"(3) Berkenaan dengan perenggan (b) dan (bb) subseksyen (1), Ketua Pengarah boleh, kecuali jika maklumat itu diklasifikasikan sebagai sulit oleh atau bagi pihak Kerajaan atau mana-mana Kerajaan Negeri, menurut budi bicaranya memberi mana-mana orang atau golongan orang apa-apa maklumat yang dipungut atau disusun kumpul olehnya apabila dibayar fi atau caj yang ditetapkan oleh Menteri.\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: \"(3A) Maklumat yang diberikan di bawah subseksyen (3) boleh termasuk— (a) butir-butir mengenai mana-mana penjualan atau pindah milik tanah, bangunan dan apa-apa kepentingan mengenainya; (Pindaan) (b) maklumat mengenai kedudukan perbekalan dan permintaan mengenai harta; (c) maklumat mengenai ketersediaan sumber pembiayaan bagi pembelian atau pemajuan harta; (d) maklumat mengenai pergerakan harga harta dan sewa harta; (e) maklumat mengenai pemajuan harta (termasuk kos pemajuan), pelaburan harta dan pengurusan harta dalam segala atau mana-mana sektor pasaran harta; dan (f) maklumat yang perlu bagi pemajuan indeks pasaran harta dan indeks kos.\". Pindaan seksyen 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 5 Akta ibu dipinda-"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_3__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_3__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_3__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)-"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_3__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_3__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan ( a ), dengan menggantikan perkataan \"apa-apa kerja yang dijalankan olehnya mengikut\" dengan perkataan \"menjalankan fungsi Ketua Pengarah di bawah\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_3__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_3__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan menggantikan perkataan \"kerjanya\" dengan perkataan \"fungsinya di bawah Akta ini\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_3__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_3__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c), dengan menggantikan perkataan \"kerja itu\" dengan perkataan \"menjalankan fungsinya di bawah Akta ini\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan \"kerjanya\" dengan perkataan \"fungsinya di bawah Akta Rang Undang-Undang Pindaan seksyen 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 6 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan \"mengenai kerjanya\" dengan perkataan \"untuk menjalankan fungsinya di bawah Akta ini\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (2) dengan subseksyen yang berikut: \"(2) Maklumat yang dikehendaki di bawah subseksyen ( I) hendaklah termasuk— (a) butir-butir mengenai penjualan, pembelian, keputusan lelong dan tender, penyewaan dan pemajakan; dan (b) apa-apa maklumat lain yang didapati perlu oleh Ketua Pengarah untuk menjalankan fungsinya di bawah Akta ini.\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_4__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_4__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_4__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_4__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"borang itu\" dengan perkataan \"maklumat yang dikehendaki\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_4__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/7/msa@/~cl_4__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"ia\" dengan perkataan \"orang itu adalah\"."
+      }
+    }
+  ]
+}

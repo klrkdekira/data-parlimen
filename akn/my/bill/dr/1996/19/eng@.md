@@ -52,13 +52,23 @@ different dates for the coming into force of the various provisions and such dat
 
 ' "Service Chief means the Chief of the Army, the Chief of the Navy or the Chief of the Air Porce, as the case may be;'.
 
-Amendment
+<!-- marginal: Amendment -->
 
-3. Subsection 3(5) of the principal Act is amended by of section 3. substituting for the words ", naval captain or group captain" the words "or its equivalent".
+3. Subsection 3(5) of the principal Act is amended by
 
-New sections
+<!-- marginal: of section 3. -->
 
-4. The principal Act is amended by inserting after section 5A, 5B, 5c 5 the following sections: and 5D.
+substituting for the words ", naval captain or group captain" the words "or its equivalent".
+
+<!-- marginal: New sections -->
+
+4. The principal Act is amended by inserting after section
+
+<!-- marginal: 5A, 5B, 5c -->
+
+5 the following sections:
+
+<!-- marginal: and 5D. -->
 
 "Service 5A. The Armed Porces Council may require an outside officer or serviceman to serve outside Malaysia. Malaysia.
 
@@ -74,7 +84,15 @@ Attachment 5B. (1) The Armed Porces Council may attach of officer temporarily an
 
 (b) of subsection (1) shall subject the officer or serviceman, as the case may be, to service law under this Act to such extent, and subject to such adaptation and modification as may be provided by or under any written law relating to the attachment of members of such forces in that country.
 
-Secondment 5c. The Armed Forces Council may second any of officer or officer or serviceman to the service of— serviceman.
+<!-- marginal: Secondment -->
+
+5c. The Armed Forces Council may second any
+
+<!-- marginal: of officer or -->
+
+officer or serviceman to the service of—
+
+<!-- marginal: serviceman. -->
 
 (a) a department of the Federal Government;
 
@@ -90,7 +108,13 @@ in or outside Malaysia:
 
 Provided that such officer or serviceman, as the case may be, shall remain a member of the regular forces but his remuneration shall be paid by that department of the Federal Government, the State, authority or organisation, as the case may be, to whose service he is seconded.
 
-Operational 5D. Sections 5A, 5B and 5c shall not apply in use. relation to the operational use of the officer or serviceman, as the case may be.".
+<!-- marginal: Operational -->
+
+5D. Sections 5A, 5B and 5c shall not apply in
+
+<!-- marginal: use. -->
+
+relation to the operational use of the officer or serviceman, as the case may be.".
 
 <!-- marginal: Amendment -->
 
@@ -100,15 +124,19 @@ Operational 5D. Sections 5A, 5B and 5c shall not apply in use. relation to the o
 
 (a) by renumbering it as subsection (1); and
 
-(b) by inserting after the renumbered subsection (1) the following subsections: " (2) Where the person granted a commission under subsection (1) is an officer in the volunteer forces, the Armed Forces Council may recognise the reckonable service, if any, of that officer, including his last rank and other matters connected therewith, as reckonable service.
+(b) by inserting after the renumbered subsection
+
+(1) the following subsections: " (2) Where the person granted a commission under subsection (1) is an officer in the volunteer forces, the Armed Forces Council may recognise the reckonable service, if any, of that officer, including his last rank and other matters connected therewith, as reckonable service.
 
 <!-- page 4 -->
 
 (3) For the purpose of subsection (2), section 15 shall apply.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-6. Section 10 of the principal Act is amended— of section 10.
+6. Section 10 of the principal Act is amended—
+
+<!-- marginal: of section 10. -->
 
 (a) by substituting for the marginal note the following marginal note:
 
@@ -116,7 +144,7 @@ Amendment
 
 (b) by substituting for the words "acting sub- lieutenant, midshipman, naval cadet, officer cadet or flight cadet" wherever appearing therein the words "midshipman or officer cadet".
 
-New section
+<!-- marginal: New section -->
 
 7. The principal Act is amended by inserting after section
 
@@ -124,13 +152,19 @@ New section
 
 "Officer 10A. Subject to any regulations made under this cadet may Part, an officer cadet, other than a serviceman purchase discharge. who has been appointed as an officer cadet, may, before the expiration of a period of three months beginning with the date of his appointment, apply to the competent authority for discharge and upon the consent of the Armed Forces Council and the payment of a sum not exceeding six months of his allowances as may be prescribed he shall be discharged with all convenient speed.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-8. Subsection 12(2) of the principal Act is amended by of section 12. substituting for the words ", lieutenant in the Navy and flight lieutenant in the Air Force" the words "or its equivalent in the Navy and the Air Force".
+8. Subsection 12(2) of the principal Act is amended by
 
-Amendment
+<!-- marginal: of section 12. -->
 
-9. Section 13 of the principal Act is amended— of section 13.
+substituting for the words ", lieutenant in the Navy and flight lieutenant in the Air Force" the words "or its equivalent in the Navy and the Air Force".
+
+<!-- marginal: Amendment -->
+
+9. Section 13 of the principal Act is amended—
+
+<!-- marginal: of section 13. -->
 
 (a) in the marginal note by inserting after the word "another" the words "or within the same Service";
 
@@ -184,19 +218,101 @@ Emergency issued by the Yang di-Pertuan Agong under Article 150 of the Federal C
 
 " (5) This section shall apply mutatis mutandis to a serviceman enlisted in the Navy and the Air Force.".
 
-New sections
+<!-- marginal: New sections -->
 
-13. The principal Act is amended by inserting after section 24A and 24B. 24 the following sections:
+13. The principal Act is amended by inserting after section
 
-"Non- 24A. Sections 24, 25 and 26 shall not apply to application a person enlisting in the regular forces on or of sections 24, 25 and after the appointed date. 26. Terms of 24B. (1) The term for which a person enlisting enlistment in the regular forces on or after the appointed of service- men en- date shall be such a term, beginning with the listing on date of his attestation, as is mentioned in the or after the following provisions of this section. appointed date. (2) Where the person enlisting has attained the age of eighteen years, the said term shall be a term of twelve years, being a term of full-time service.
+<!-- marginal: 24A and 24B. -->
+
+24 the following sections:
+
+<!-- marginal: "Non- -->
+
+24A. Sections 24, 25 and 26 shall not apply to
+
+<!-- marginal: application -->
+
+a person enlisting in the regular forces on or
+
+<!-- marginal: of sections -->
+
+<!-- marginal: 24, 25 and -->
+
+after the appointed date.
+
+26.
+
+<!-- marginal: Terms of -->
+
+24B. (1) The term for which a person enlisting
+
+<!-- marginal: enlistment -->
+
+in the regular forces on or after the appointed
+
+<!-- marginal: of service- -->
+
+<!-- marginal: men en- -->
+
+date shall be such a term, beginning with the
+
+<!-- marginal: listing on -->
+
+date of his attestation, as is mentioned in the
+
+<!-- marginal: or after -->
+
+<!-- marginal: the -->
+
+following provisions of this section.
+
+<!-- marginal: appointed -->
+
+<!-- marginal: date. -->
+
+(2) Where the person enlisting has attained the age of eighteen years, the said term shall be a term of twelve years, being a term of full-time service.
 
 (3) Where the person enlisting has not attained the age of eighteen years, the said term shall be a term ending with the expiration of twelve years, beginning with the date on which he attains such age, being a term of full-time service.".
 
-New section
+<!-- marginal: New section -->
 
-14. The principal Act is amended by inserting after section 25 A. 25 the following section:
+14. The principal Act is amended by inserting after section
 
-Extension 25A. (1) Subject to any regulations made under of service this Part, a person in full-time service and enlisting of service- on or after the appointed date may, on written men enlisting application made by him to the competent on or after authority and with the consent of that authority, the appointed be permitted to extend his term of full-time date. service from twelve to fifteen years:
+<!-- marginal: 25 A. -->
+
+25 the following section:
+
+<!-- marginal: Extension -->
+
+25A. (1) Subject to any regulations made under
+
+<!-- marginal: of service -->
+
+this Part, a person in full-time service and enlisting
+
+<!-- marginal: of service- -->
+
+on or after the appointed date may, on written
+
+<!-- marginal: men -->
+
+<!-- marginal: enlisting -->
+
+application made by him to the competent
+
+<!-- marginal: on or after -->
+
+authority and with the consent of that authority,
+
+<!-- marginal: the -->
+
+<!-- marginal: appointed -->
+
+be permitted to extend his term of full-time
+
+<!-- marginal: date. -->
+
+service from twelve to fifteen years:
 
 <!-- page 7 -->
 
@@ -220,7 +336,37 @@ may be required by the competent authority to undertake, in the prescribed form,
 
 <!-- marginal: 26c. -->
 
-"Re- 26A. (1) Subject to any regulations made under engagement this Part, any person in full-time service under of service- men section 24A or 25A enlisting on or after the enlisting appointed date may, if he so desires, apply to on or after the the competent authority and upon the approval appointed of the competent authority, be permitted to re- date. engage for such further period or periods in full-time service as will make up a total continuous period of twenty-one years of full- time service:
+<!-- marginal: "Re- -->
+
+26A. (1) Subject to any regulations made under
+
+<!-- marginal: engagement -->
+
+this Part, any person in full-time service under
+
+<!-- marginal: of service- -->
+
+<!-- marginal: men -->
+
+section 24A or 25A enlisting on or after the
+
+<!-- marginal: enlisting -->
+
+appointed date may, if he so desires, apply to
+
+<!-- marginal: on or -->
+
+<!-- marginal: after the -->
+
+the competent authority and upon the approval
+
+<!-- marginal: appointed -->
+
+of the competent authority, be permitted to re-
+
+<!-- marginal: date. -->
+
+engage for such further period or periods in full-time service as will make up a total continuous period of twenty-one years of full- time service:
 
 Provided that the application shall be made at least six months before the completion of his full-time service under section 24A or 25A.
 
@@ -232,17 +378,57 @@ Provided that the application shall be made at least six months before the compl
 
 Provided that the application shall be made at least six months before the completion of his period of full-time service of twenty-one years.
 
-No 26B. Subject to sections 27 and 30, no person extension shall have his period of full-time service extended or re- or be permitted to re-engage if the effect of engagement beyond such extension or re-engagement would be to fifty-five require him to serve beyond the age of fifty- years. five years.
+<!-- marginal: No -->
 
-Service in 26c. (1) A person whether in full-time service the reserve in the regular forces or in the reserve pursuant for to sections 24 to 26A and 27 shall upon his servicemen. discharge or completion of service in the reserve be transferred to the reserve for a period of five years commencing from the day following his discharge or completion of service in the reserve:
+26B. Subject to sections 27 and 30, no person
+
+<!-- marginal: extension -->
+
+shall have his period of full-time service extended
+
+<!-- marginal: or re- -->
+
+or be permitted to re-engage if the effect of
+
+<!-- marginal: engagement -->
+
+<!-- marginal: beyond -->
+
+such extension or re-engagement would be to
+
+<!-- marginal: fifty-five -->
+
+require him to serve beyond the age of fifty-
+
+<!-- marginal: years. -->
+
+five years.
+
+<!-- marginal: Service in -->
+
+26c. (1) A person whether in full-time service
+
+<!-- marginal: the reserve -->
+
+in the regular forces or in the reserve pursuant
+
+<!-- marginal: for -->
+
+to sections 24 to 26A and 27 shall upon his
+
+<!-- marginal: servicemen. -->
+
+discharge or completion of service in the reserve be transferred to the reserve for a period of five years commencing from the day following his discharge or completion of service in the reserve:
 
 Provided that no person shall be required to serve in the reserve after he has attained the age of fifty years.
 
 (2) The Armed Forces Council may in its discretion exempt any person or category of persons from such reserve service.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-16. Section 36 of the principal Act is amended— of section 36.
+16. Section 36 of the principal Act is amended—
+
+<!-- marginal: of section 36. -->
 
 (a) by inserting after the word "regulations" the words "including regulations providing for matters which may be issued by Perintah Majlis Angkatan Tentera"; and
 
@@ -300,11 +486,25 @@ substituting for the words "warrant officer, chief petty officer, non-commission
 
 (b) in subsection (5) by substituting for the words "chief petty officer, non-commissioned officer, petty officer" the words "non-commissioned officer".
 
-New sections
+<!-- marginal: New sections -->
 
-21. The principal Act is amended by inserting after section 94A, 94B, 94c 94 the following new sections: and 94D.
+21. The principal Act is amended by inserting after section
 
-"Chief 94A. (1) The Armed Forces Council shall appoint Provost a Chief Provost Marshal for all the three Services. Marshal.
+<!-- marginal: 94A, 94B, 94c -->
+
+94 the following new sections:
+
+<!-- marginal: and 94D. -->
+
+<!-- marginal: "Chief -->
+
+94A. (1) The Armed Forces Council shall appoint
+
+<!-- marginal: Provost -->
+
+a Chief Provost Marshal for all the three Services.
+
+<!-- marginal: Marshal. -->
 
 (2) The Chief Provost Marshal shall—
 
@@ -320,13 +520,51 @@ New sections
 
 to assist him in the exercise of his functions.
 
-Provost 94B. (1) The appropriate Service Chief may Marshal appoint a Provost Marshal and such number of and provost provost officers as he may consider necessary officers. for his Service.
+<!-- marginal: Provost -->
+
+94B. (1) The appropriate Service Chief may
+
+<!-- marginal: Marshal -->
+
+appoint a Provost Marshal and such number of
+
+<!-- marginal: and -->
+
+<!-- marginal: provost -->
+
+provost officers as he may consider necessary
+
+<!-- marginal: officers. -->
+
+for his Service.
 
 <!-- page 11 -->
 
 (2) The Provost Marshals and provost officers appointed under subsection (1) shall exercise the functions conferred by or under this Act, and in particular shall have lie power to investigate any offence under this Act
 
-Appointment 94c. Notwithstanding the provisions of sections or 94A and 94B, any member of the armed forces may authorisation be appointed or authorised by the competent of other investigating authority to investigate any offence under this Act. officers. Validation. 94D. A Provost Marshal, provost officer, investigating or authorised officer appointed or authorised before the coming into force of section 94B or 94c shall be deemed to have been appointed or authorised under section 94B or 94c, as the case may be, and any act or thing done by such persons before the coming into force of sections 94B and 94c that would have been lawful if those provisions had been in force at the time when the act or thing is done is hereby validated and declared to have been lawfully done.".
+<!-- marginal: Appointment -->
+
+94c. Notwithstanding the provisions of sections
+
+<!-- marginal: or -->
+
+94A and 94B, any member of the armed forces may
+
+<!-- marginal: authorisation -->
+
+be appointed or authorised by the competent
+
+<!-- marginal: of other -->
+
+<!-- marginal: investigating -->
+
+authority to investigate any offence under this Act.
+
+<!-- marginal: officers. -->
+
+<!-- marginal: Validation. -->
+
+94D. A Provost Marshal, provost officer, investigating or authorised officer appointed or authorised before the coming into force of section 94B or 94c shall be deemed to have been appointed or authorised under section 94B or 94c, as the case may be, and any act or thing done by such persons before the coming into force of sections 94B and 94c that would have been lawful if those provisions had been in force at the time when the act or thing is done is hereby validated and declared to have been lawfully done.".
 
 <!-- marginal: Amendment -->
 
@@ -364,29 +602,45 @@ Appointment 94c. Notwithstanding the provisions of sections or 94A and 94B, any 
 
 (ii) by deleting the words "or to assume an acting rank or rate lower than that held by him but higher than his permanent rank or rate"; and
 
-(g) in subsection (10) by substituting for the words ", naval captain or group captain" the words "or its equivalent". Amendment
+(g) in subsection (10) by substituting for the words ", naval captain or group captain" the words "or its equivalent".
 
-24. Subsection 98(1) of the principal Act is amended by of section 98. deleting the words ", an acting sub-lieutenant".
+<!-- marginal: Amendment -->
 
-Amendment
+24. Subsection 98(1) of the principal Act is amended by
 
-25. Subsection 100(1) of the principal Act is amended by of section substituting for the words "naval captain or group captain" the
+<!-- marginal: of section 98. -->
+
+deleting the words ", an acting sub-lieutenant".
+
+<!-- marginal: Amendment -->
+
+25. Subsection 100(1) of the principal Act is amended by
+
+<!-- marginal: of section -->
+
+substituting for the words "naval captain or group captain" the
 
 100. words "its equivalent".
 
-Amendment
+<!-- marginal: Amendment -->
 
-26. Subsection 101(2) of the principal Act is amended by of section substituting for the words ", naval captain or group captain"
+26. Subsection 101(2) of the principal Act is amended by
+
+<!-- marginal: of section -->
+
+substituting for the words ", naval captain or group captain"
 
 101. the words "or its equivalent".
 
-Amendment
+<!-- marginal: Amendment -->
 
 27. Subsection 104(2) of the principal Act
 
 <!-- marginal: is -->
 
-of section amended—
+<!-- marginal: of section -->
+
+amended—
 
 104.
 
@@ -440,31 +694,43 @@ amended—
 
 ## BILL
 
-Amendment
+<!-- marginal: Amendment -->
 
-30. Paragraph 1 1 1 ( 3 )( a) of the principal Act is of section amended by substituting for the words ", naval lieutenant
+30. Paragraph 1 1 1 ( 3 )( a) of the principal Act is
+
+<!-- marginal: of section -->
+
+amended by substituting for the words ", naval lieutenant
 
 111. or flight lieutenant" the words "or its equivalent".
 
-Amendment
+<!-- marginal: Amendment -->
 
-31. Subsection 129(1) of the principal Act is amended of section by substituting for the words ", naval captain or group
+31. Subsection 129(1) of the principal Act is amended
+
+<!-- marginal: of section -->
+
+by substituting for the words ", naval captain or group
 
 129. captain" the words "or its equivalent".
 
-Amendment
+<!-- marginal: Amendment -->
 
 32. Subsection 136(3) of the principal Act
 
 <!-- marginal: is -->
 
-of section amended by substituting for the words ", lieutenant
+<!-- marginal: of section -->
+
+amended by substituting for the words ", lieutenant
 
 136. commander or squadron leader" the words "or its equivalent".
 
-Amendment
+<!-- marginal: Amendment -->
 
-33. Section 144 of the principal Act is amended— of section
+33. Section 144 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 144.
 
@@ -554,9 +820,11 @@ by substituting for the words "petty officer" the words
 
 <!-- page 16 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-39. Section 184 of the principal Act is amended— of section
+39. Section 184 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 184.
 
@@ -564,19 +832,25 @@ Amendment
 
 (b) in subsection (4) by deleting the words 'and the expression "the appropriate Service Chief shall be construed to mean the Chief of General Staff in respect of a person serving in the Army, the Chief of Naval Staff in respect of a person serving in the Navy and the Chief of Air Staff in respect of a person serving in the Air Force.'.
 
-Amendment
+<!-- marginal: Amendment -->
 
 40. Subsection 187(1) of the principal Act
 
 <!-- marginal: is -->
 
-of section amended by inserting after the words "make
+<!-- marginal: of section -->
+
+amended by inserting after the words "make
 
 187. regulations" the words "including regulations providing for matters which may be issued by Perintah Majlis Angkatan Tentera".
 
-New sections
+<!-- marginal: New sections -->
 
-41. The principal Act is amended by inserting after section 187A and 187 the following sections:
+41. The principal Act is amended by inserting after section
+
+<!-- marginal: 187A and -->
+
+187 the following sections:
 
 187B.
 
@@ -622,41 +896,63 @@ Provided that the Armed Forces Council may in its discretion exempt any officer 
 
 <!-- page 18 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-44. Section 194 of the principal Act is amended by of section inserting before the words "with respect" the words
+44. Section 194 of the principal Act is amended by
+
+<!-- marginal: of section -->
+
+inserting before the words "with respect" the words
 
 194. "including regulations providing for matters which may be issued by Perintah Majlis Angkatan Tentera".
 
-Amendment
+<!-- marginal: Amendment -->
 
-45. Subsection 197(1) of the principal Act is amended of section by substituting for the words "Chief of the General Staff,
+45. Subsection 197(1) of the principal Act is amended
+
+<!-- marginal: of section -->
+
+by substituting for the words "Chief of the General Staff,
 
 197. "Chief of Naval Staff and "Chief of the Air Staff' the words "Chief of the Army", "Chief of the Navy" and "Chief of the Air Force" respectively.
 
-Amendment
+<!-- marginal: Amendment -->
 
-46. Section 201 of the principal Act is amended by of section inserting after subsection (3) the following subsection:
+46. Section 201 of the principal Act is amended by
+
+<!-- marginal: of section -->
+
+inserting after subsection (3) the following subsection:
 
 201.
 
 " (4) Every member of a volunteer force who has 'completed the training required under subsection (1) may be required to serve in the volunteer forces for such minimum period as may be prescribed by regulations made under section 207.".
 
-New section
+<!-- marginal: New section -->
 
-47. The principal Act is amended by inserting after section 201 A. 201 the following section:
+47. The principal Act is amended by inserting after section
+
+<!-- marginal: 201 A. -->
+
+201 the following section:
 
 "Parts II, 201A. To the extent that it is not inconsistent III and IV with the provisions of this Part, and for the to apply to volunteer expediency of service, the Armed Forces Council forces. may apply mutatis mutandis, any of the provisions of Parts II, III and IV other than sections 23 to 27 and sections 29 to 31 to the members of the volunteer forces.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-48. Subsection 206(1) of the principal Act is amended of section by inserting after the words "make rules" the words
+48. Subsection 206(1) of the principal Act is amended
+
+<!-- marginal: of section -->
+
+by inserting after the words "make rules" the words
 
 206. "including rules providing for matters which may be issued by Perintah Majlis Angkatan Tentera".
 
-Amendment
+<!-- marginal: Amendment -->
 
-49. Section 207 of the principal Act is amended— of section
+49. Section 207 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 207.
 
@@ -744,9 +1040,7 @@ This Bill seeks to amend the Armed Forces Act 1972 ("the Act").
 
 22. Clause 50 seeks to amend section 213 of the Act to enable the Regular Forces Reserve to use the existing structure and organisation of the regular forces for the purpose of service offences and punishment.
 
-23. Clause 51 seeks to repeal the Armed Forces (Amendment) Act
-
-1984.
+23. Clause 51 seeks to repeal the Armed Forces (Amendment) Act 1984.
 
 24. Other proposed amendments to the Act not specifically referred to are consequential in nature necessitated by the change in the structure of ranks in the Armed Forces as well as the nomenclature of some ranks.
 

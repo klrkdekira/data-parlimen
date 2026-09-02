@@ -67,9 +67,13 @@
       "@type": "akn:clause",
       "eli:number": "3",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/18/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 2 Akta ibu adalah dipinda dengan"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Seksyen 2 Akta ibu adalah dipinda dengan Pindaan seksyen 2. memasukkan selepas takrif \"Kastam\" takrif yang berikut: ' \"Kawasan Pembangunan Bersama\" mem- punyai erti yane diberikan kepadanya dalam Akta 440. seksyen 2 Akta Pihak Berkuasa Bersama Malaysia-Thailand 1990;'."
+        "@value": "memasukkan selepas takrif \"Kastam\" takrif yang berikut: ' \"Kawasan Pembangunan Bersama\" mem- punyai erti yane diberikan kepadanya dalam Akta 440. seksyen 2 Akta Pihak Berkuasa Bersama Malaysia-Thailand 1990;'."
       }
     }
   ]

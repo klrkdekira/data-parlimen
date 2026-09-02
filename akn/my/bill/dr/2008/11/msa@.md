@@ -48,7 +48,37 @@
 
 ## JADUAL
 
-Maksud Tajuk Amaun (RM) B. 6 Jabatan Perdana Menteri 173,210,000 B. 7 Jabatan Perkhidmatan Awam 101,000,000 B. 11 Perkhidmatan Am Perbendaharaan 15,000,000,000 B. 12 Perantukan kepada Kumpulan Wang Terkanun 300,000,000 B. 20 Kementerian Perusahaan Perladangan dan 438,000,000 Komoditi B. 21 Kementerian Pertanian dan Industri Asas Tani 2,906,200,000 B. 22 Kementerian Kemajuan Luar Bandar dan 20,000,000 Wilayah B. 23 Kementerian Sumber Asli dan Alam Sekitar 151,500,000 B. 25 Kementerian Perdagangan Dalam Negeri 276,900,000 dan Hal Ehwal Pengguna B. 28 Kementerian Pengangkutan 18,000,000 B. 31 Kementerian Pelancongan 167,000,000 B. 32 Kementerian Wilayah Persekutuan 2,151,000 B. 42 Kementerian Kesihatan 100,000,000 B. 44 Kementerian Perpaduan, Kebudayaan, 23,500,000 Kesenian dan Warisan B. 45 Kementerian Bella dan Sukan 39,000,000 B. 46 Kementerian Sumber Manusia 100,000,000 B. 48 Kementerian Pembangunan Wanita, 45,000,000 Keluarga dan Masyarakat B, 49 Kementerian Pengajian Tinggi 178,300,000 B. 62 Kementerian Dalam Negeri 113,918,997
+Maksud Tajuk
+
+<!-- marginal: Amaun -->
+
+<!-- marginal: (RM) -->
+
+B. 6 Jabatan Perdana Menteri 173,210,000 B. 7 Jabatan Perkhidmatan Awam 101,000,000 B. 11 Perkhidmatan Am Perbendaharaan 15,000,000,000 B. 12 Perantukan kepada Kumpulan Wang Terkanun 300,000,000 B. 20 Kementerian Perusahaan Perladangan dan 438,000,000 Komoditi B. 21 Kementerian Pertanian dan Industri Asas Tani 2,906,200,000 B. 22 Kementerian Kemajuan Luar Bandar dan
+
+<!-- marginal: 20,000,000 -->
+
+Wilayah B. 23 Kementerian Sumber Asli dan Alam Sekitar 151,500,000 B. 25 Kementerian Perdagangan Dalam Negeri 276,900,000 dan Hal Ehwal Pengguna B. 28 Kementerian Pengangkutan
+
+<!-- marginal: 18,000,000 -->
+
+B. 31 Kementerian Pelancongan 167,000,000 B. 32 Kementerian Wilayah Persekutuan
+
+<!-- marginal: 2,151,000 -->
+
+B. 42 Kementerian Kesihatan 100,000,000 B. 44 Kementerian Perpaduan, Kebudayaan,
+
+<!-- marginal: 23,500,000 -->
+
+Kesenian dan Warisan B. 45 Kementerian Bella dan Sukan
+
+<!-- marginal: 39,000,000 -->
+
+B. 46 Kementerian Sumber Manusia 100,000,000 B. 48 Kementerian Pembangunan Wanita,
+
+<!-- marginal: 45,000,000 -->
+
+Keluarga dan Masyarakat B, 49 Kementerian Pengajian Tinggi 178,300,000 B. 62 Kementerian Dalam Negeri 113,918,997
 
 ## JUMLAH
 
@@ -56,7 +86,9 @@ Maksud Tajuk Amaun (RM) B. 6 Jabatan Perdana Menteri 173,210,000 B. 7 Jabatan Pe
 
 ## HURAIAN
 
-Rang Undang-Undang ini bertujuan untuk mengadakan peruntukan bagi pengeluaran wang daripada Kumpulan Wang Disatukan sebanyak dua puluh billon satu ratus lima puluh tiga juta enam ratus tujuh puluh sembilan ribu sembilan ratus sembilan puluh tujuh ringgit (RM20,153,679,997) untuk perkhidmatan dan maksud yang dinyatakan dalam Jadual bagi tahun 2008. [PN(U2)2206]
+Rang Undang-Undang ini bertujuan untuk mengadakan peruntukan bagi pengeluaran wang daripada Kumpulan Wang Disatukan sebanyak dua puluh billon satu ratus lima puluh tiga juta enam ratus tujuh puluh sembilan ribu sembilan ratus sembilan puluh tujuh ringgit (RM20,153,679,997) untuk perkhidmatan dan maksud yang dinyatakan dalam Jadual bagi tahun 2008.
+
+<!-- marginal: [PN(U2)2206] -->
 
 <!-- page 3 -->
 
@@ -118,15 +150,27 @@ Muka surat ini sengaja dibiarkan kosong
 
 ## TAMBAHAN PERTAMA, 2008
 
-Perbelanjaan Perbelanjaan Anggaran Perbelanjaan 2008
+Perbelanjaan
+
+<!-- marginal: Perbelanjaan -->
+
+Anggaran Perbelanjaan 2008
 
 <!-- marginal: Jumlah RM -->
 
-Tanggungan RM Bekalan RM 23,224,011,000 105,575,140,000 Anggaran Tambahan Pertama, 2008
+Tanggungan RM
+
+<!-- marginal: Bekalan RM -->
+
+23,224,011,000
+
+<!-- marginal: 105,575,140,000 -->
+
+Anggaran Tambahan Pertama, 2008
 
 <!-- marginal: 128,799,151,000 -->
 
-20,153,679,997
+<!-- marginal: 20,153,679,997 -->
 
 <!-- marginal: 20,153,679,997 -->
 
@@ -142,7 +186,7 @@ Tanggungan RM Bekalan RM 23,224,011,000 105,575,140,000 Anggaran Tambahan Pertam
 
 ### 2008
 
-### RM20,153,679,997
+<!-- marginal: RM20,153,679,997 -->
 
 ### Pertama,
 
@@ -154,7 +198,9 @@ Muka surat ini sengaja dibiarkan kosong
 
 ## KANDUNGAN
 
-Maksud Tajuk
+<!-- marginal: Maksud -->
+
+Tajuk
 
 <!-- marginal: Muka surat -->
 
@@ -162,79 +208,123 @@ Maksud Tajuk
 
 ## TAMBAHAN PERTAMA, 2008
 
-B.06 Jabatan Perdana Menteri
+<!-- marginal: B.06 -->
+
+Jabatan Perdana Menteri
 
 <!-- marginal: 8 -->
 
-B.07 Jabatan Perkhidmatan Awam
+<!-- marginal: B.07 -->
+
+Jabatan Perkhidmatan Awam
 
 <!-- marginal: 8 -->
 
-B.11 Perkhidmatan Am Perbendaharaan
+<!-- marginal: B.11 -->
+
+Perkhidmatan Am Perbendaharaan
 
 <!-- marginal: 8 -->
 
-B.12 Peruntukan kepada Kumpulan Wang Terkanun
+<!-- marginal: B.12 -->
+
+Peruntukan kepada Kumpulan Wang Terkanun
 
 <!-- marginal: 8 -->
 
-B.20 Kementerian Perusahaan Perladangan dan Komoditi
+<!-- marginal: B.20 -->
+
+Kementerian Perusahaan Perladangan dan Komoditi
 
 <!-- marginal: 10 -->
 
-B.21 Kementerian Pertanian dan Industri Asas Tani
+<!-- marginal: B.21 -->
+
+Kementerian Pertanian dan Industri Asas Tani
 
 <!-- marginal: 10 -->
 
-B.22 Kementerian Kemajuan Luar Bandar dan Wilayah
+<!-- marginal: B.22 -->
+
+Kementerian Kemajuan Luar Bandar dan Wilayah
 
 <!-- marginal: 10 -->
 
-B.23 Kementerian Sumber Asli dan Alam Sekitar
+<!-- marginal: B.23 -->
+
+Kementerian Sumber Asli dan Alam Sekitar
 
 <!-- marginal: 10 -->
 
-B.25 Kementerian Perdagangan Dalam Negeri dan Hal
+<!-- marginal: B.25 -->
+
+Kementerian Perdagangan Dalam Negeri dan Hal
 
 <!-- marginal: 10 -->
 
-Ehwal Pengguna B.28 Kementerian Pengangkutan
+Ehwal Pengguna
+
+<!-- marginal: B.28 -->
+
+Kementerian Pengangkutan
 
 <!-- marginal: 12 -->
 
-B.31 Kementerian Pelancongan
+<!-- marginal: B.31 -->
+
+Kementerian Pelancongan
 
 <!-- marginal: 12 -->
 
-B.32 Kementerian Wilayah Persekutuan
+<!-- marginal: B.32 -->
+
+Kementerian Wilayah Persekutuan
 
 <!-- marginal: 12 -->
 
-B.42 Kementerian Kesihatan
+<!-- marginal: B.42 -->
+
+Kementerian Kesihatan
 
 <!-- marginal: 12 -->
 
-B.44 Kementerian Perpaduan, Kebudayaan, Kesenian dan
+<!-- marginal: B.44 -->
+
+Kementerian Perpaduan, Kebudayaan, Kesenian dan
 
 <!-- marginal: 14 -->
 
-Warisan B.45 Kementerian Belia dan Sukan
+Warisan
+
+<!-- marginal: B.45 -->
+
+Kementerian Belia dan Sukan
 
 <!-- marginal: 14 -->
 
-B.46 Kementerian Sumber Manusia
+<!-- marginal: B.46 -->
+
+Kementerian Sumber Manusia
 
 <!-- marginal: 14 -->
 
-B.48 Kementerian Pembangunan Wanita, Keluarga dan
+<!-- marginal: B.48 -->
+
+Kementerian Pembangunan Wanita, Keluarga dan
 
 <!-- marginal: 14 -->
 
-Masyarakat B.49 Kementerian Pengajian Tinggi
+Masyarakat
+
+<!-- marginal: B.49 -->
+
+Kementerian Pengajian Tinggi
 
 <!-- marginal: 16 -->
 
-B.62 Kementerian Dalam Negeri
+<!-- marginal: B.62 -->
+
+Kementerian Dalam Negeri
 
 <!-- marginal: 16 -->
 
@@ -242,7 +332,7 @@ B.62 Kementerian Dalam Negeri
 
 ## ANGGARAN PERBELAIUAAN
 
-## TAMBAHAN
+<!-- marginal: TAMBAHAN -->
 
 Butiran (1) Program/Aktiviti Kod Jenis Perbelanjaan (4) (ObjekAm) (2) (3)
 
@@ -252,11 +342,13 @@ Butiran (1) Program/Aktiviti Kod Jenis Perbelanjaan (4) (ObjekAm) (2) (3)
 
 ## MAKSUD B.6 - JABATAN PERDANA MENTERI
 
-010000
+<!-- marginal: 010000 -->
 
 ## PENTADBIRAN
 
-010100 - Pengurusan Perkhidmatan Dan Sumber 20000 Perkhidmatan dan Bekalan Manusia 40000 Pemberian dan Kenaan Bayaran Tetap 200000
+010100 - Pengurusan Perkhidmatan Dan Sumber 20000 Perkhidmatan dan Bekalan Manusia 40000 Pemberian dan Kenaan Bayaran Tetap
+
+<!-- marginal: 200000 -->
 
 ## JABATAN PERPADUAN NEGARA DAN
 
@@ -270,13 +362,15 @@ Butiran (1) Program/Aktiviti Kod Jenis Perbelanjaan (4) (ObjekAm) (2) (3)
 
 ## MAKSUD B.7 - JABATAN PERKHIDMATAN AWAM
 
-020000
+<!-- marginal: 020000 -->
 
 ## PROGRAM PEMBANGUNAN SUMBER
 
 ## MANUSIA SECTOR AWAM
 
-40000 Pemberian dan Kenaan Bayaran Tetap 020400 - Latihan 030000
+40000 Pemberian dan Kenaan Bayaran Tetap 020400 - Latihan
+
+<!-- marginal: 030000 -->
 
 ## PROGRAM OPERASI SUMBER MANUSIA
 
@@ -286,11 +380,11 @@ Butiran (1) Program/Aktiviti Kod Jenis Perbelanjaan (4) (ObjekAm) (2) (3)
 
 ## JUMLAH JABATAN PERKHIDMATAN
 
-## AWAM
+<!-- marginal: AWAM -->
 
 ### MAKSUD B.ll - PERKHIDMATAN AM PERBENDAHARAAN
 
-020000
+<!-- marginal: 020000 -->
 
 ## BAYARAN PINDAHAN DAN PEMBERIAN
 
@@ -306,7 +400,9 @@ Pemberian dan Kenaan Bayaran Tetap 020500 - Subsidi Gas Cecair (LPG), Diesel & P
 
 ## KUMPULAN WANG AMANAH BANTUAN
 
-050000 40000 Pemberian dan Kenaan Bayaran Tetap
+<!-- marginal: 050000 -->
+
+40000 Pemberian dan Kenaan Bayaran Tetap
 
 ## BENCANA NEGARA
 
@@ -316,63 +412,73 @@ Pemberian dan Kenaan Bayaran Tetap 020500 - Subsidi Gas Cecair (LPG), Diesel & P
 
 <!-- page 11 -->
 
-## MENGURUS
+<!-- marginal: MENGURUS -->
 
-## PERTAMA, 2008
+<!-- marginal: PERTAMA, 2008 -->
 
-Anggaran 2008 Tambahan Pertama 2008 Kenyataan Yang Diluluskan
+<!-- marginal: Anggaran 2008 -->
 
-### 345,536,300
+Tambahan Pertama 2008 Kenyataan
 
-### 44,110,000
+<!-- marginal: Yang Diluluskan -->
 
-### 1,009,300 108,500,000 152,610,000
+<!-- marginal: 345,536,300 -->
 
-720,000
+<!-- marginal: 44,110,000 -->
 
-### 55,119,200
+<!-- marginal: 1,009,300 108,500,000 152,610,000 -->
 
-### 720,000
+<!-- marginal: 720,000 -->
 
-### 36,074,200
+<!-- marginal: 55,119,200 -->
 
-### 720,000
+<!-- marginal: 720,000 -->
 
-### 100,000
+<!-- marginal: 36,074,200 -->
 
-### 9,000,000
+<!-- marginal: 720,000 -->
 
-### 17,281,600
+<!-- marginal: 100,000 -->
 
-### 9,200,000
+<!-- marginal: 9,000,000 -->
+
+<!-- marginal: 17,281,600 -->
+
+<!-- marginal: 9,200,000 -->
 
 ### -
 
-### 960,000
+<!-- marginal: 960,000 -->
 
-19,880,000 Pendahuluan Kumpulan Wang Luar Jangka 173,210,000 Waran Bil. 19/2008 : RM 108,500,000,16/2008 : RM44,U0,000 & 7/2008 : RM20,600,000
+<!-- marginal: 19,880,000 -->
 
-### 811,000,000
+Pendahuluan Kumpulan Wang Luar Jangka 173,210,000 Waran Bil. 19/2008 : RM 108,500,000,16/2008 : RM44,U0,000 & 7/2008 : RM20,600,000
 
-### 91,000,000
+<!-- marginal: 811,000,000 -->
 
-### 91,000,000
+<!-- marginal: 91,000,000 -->
 
-### 10,000,000
+<!-- marginal: 91,000,000 -->
 
-### 10,000,000
+<!-- marginal: 10,000,000 -->
 
-40,458,800 Pendahuluan Kumpulan Wang Luar Jangka 101,000,000 Waran Bil. 12/2008 : RM 10,000,000, a* : RM91,000,000
+<!-- marginal: 10,000,000 -->
 
-### 6,100,000,000 10,000,000,000 10,000,000,000
+<!-- marginal: 40,458,800 -->
 
-### 5,000,000,000 5,000,000,000
+Pendahuluan Kumpulan Wang Luar Jangka 101,000,000 Waran Bil. 12/2008 : RM 10,000,000, a* : RM91,000,000
+
+<!-- marginal: 6,100,000,000 10,000,000,000 10,000,000,000 -->
+
+<!-- marginal: 5,000,000,000 5,000,000,000 -->
 
 Pendahuluan Kumpulan Wang Luar Jangka 15,000,000,000 Waran Bil. 24/2008 : RM50,000,000, CL* : RM14,950«OOQ,000
 
-### 10
+<!-- marginal: 10 -->
 
-300,000,000 300,000,000 Pendahuluan Kumpulan Wang Luar Jangka 300,000,000 Waran Bil. 14/2008: RM200,000,000, CL* : RM100,000,000
+<!-- marginal: 300,000,000 300,000,000 -->
+
+Pendahuluan Kumpulan Wang Luar Jangka 300,000,000 Waran Bil. 14/2008: RM200,000,000, CL* : RM100,000,000
 
 ### 9
 
@@ -388,7 +494,7 @@ Butiran (1) Kod Program/Aktiviti 3enis Perbelanjaan (4) (Objek Am)
 
 ## PERLADANGAN DAN KOMODITI
 
-080000
+<!-- marginal: 080000 -->
 
 ## ONE OFF
 
@@ -402,11 +508,13 @@ Butiran (1) Kod Program/Aktiviti 3enis Perbelanjaan (4) (Objek Am)
 
 ## INDUSTRIASASTANI
 
-150000
+<!-- marginal: 150000 -->
 
 ## DASAR BARU
 
-151700 - Dasar Jamlnan Bekalan Makanan 40000 Pemberian dan Kenaan Bayaran Tetap 160000
+151700 - Dasar Jamlnan Bekalan Makanan 40000 Pemberian dan Kenaan Bayaran Tetap
+
+<!-- marginal: 160000 -->
 
 ## ONE OFF
 
@@ -420,7 +528,7 @@ Butiran (1) Kod Program/Aktiviti 3enis Perbelanjaan (4) (Objek Am)
 
 ## LUAR BANDAR DAN WILAYAH
 
-100000
+<!-- marginal: 100000 -->
 
 ## ONE OFF
 
@@ -428,13 +536,13 @@ Butiran (1) Kod Program/Aktiviti 3enis Perbelanjaan (4) (Objek Am)
 
 ## JUMLAH KEMENTERIAN LUAR BANDAR
 
-## DAN WILAYAH
+<!-- marginal: DAN WILAYAH -->
 
 ## MAKSUD B.23 • KEMENTERIAN SUMBER ASLI
 
 ## DAN ALAM SEKITAR
 
-080000
+<!-- marginal: 080000 -->
 
 ## PENGAIRAN DAN SALJRAN
 
@@ -448,7 +556,7 @@ Butiran (1) Kod Program/Aktiviti 3enis Perbelanjaan (4) (Objek Am)
 
 ## NEGERI DAN HAL EHWAL PENGGUNA
 
-060000
+<!-- marginal: 060000 -->
 
 ## "ONE-OFF"
 
@@ -466,45 +574,61 @@ Butiran (1) Kod Program/Aktiviti 3enis Perbelanjaan (4) (Objek Am)
 
 ## DALAM NEGERI DAN HAL EHWAL
 
-## PENGGUNA
+<!-- marginal: PENGGUNA -->
 
 <!-- page 13 -->
 
-## MENGURUS
+<!-- marginal: MENGURUS -->
 
 -
 
-## PERTAMA, 2008
+<!-- marginal: PERTAMA, 2008 -->
 
-Anggaran2008 Tambahan Pertama 2008 Kenyataan Yang Diluluskan 433,000,000 438,000,000 438,000,009 CL*: RM438,000,000
+<!-- marginal: Anggaran2008 -->
 
-### 2,500,000,000 2,500,000,000
+Tambahan Pertama 2008 Kenyataan
 
-### 406,200,000 406,200,000
+<!-- marginal: Yang Diluluskan -->
 
-Pendahuluan Kumpulan Wang Luar Jangka 2,906,200,000 Waran Bil. 23/2008 : RM100,000,000, a* : RM2,806,200,000 20,000,000 20,000,000 20,000,000 CL* : RM20,000,000
+<!-- marginal: 433,000,000 438,000,000 -->
 
-### 48,500,000
+438,000,009 CL*: RM438,000,000
 
-### 15,630,500
+<!-- marginal: 2,500,000,000 2,500,000,000 -->
 
-### 103,000,000
+<!-- marginal: 406,200,000 406,200,000 -->
 
-### 151,500,000
+Pendahuluan Kumpulan Wang Luar Jangka 2,906,200,000 Waran Bil. 23/2008 : RM100,000,000, a* : RM2,806,200,000
+
+<!-- marginal: 20,000,000 -->
+
+<!-- marginal: 20,000,000 -->
+
+20,000,000 CL* : RM20,000,000
+
+<!-- marginal: 48,500,000 -->
+
+<!-- marginal: 15,630,500 -->
+
+<!-- marginal: 103,000,000 -->
+
+<!-- marginal: 151,500,000 -->
 
 Pendahuluan Kumpulan Wang Luar Jangka 151,500,000 Waran Bil. 13/2008 : RM90,000,000, CL* : _________ RM61,500,000
 
-### 31,500,000
+<!-- marginal: 31,500,000 -->
 
-8,150,000
+<!-- marginal: 8,150,000 -->
 
-### 115,000,000
+<!-- marginal: 115,000,000 -->
 
-2,850,000
+<!-- marginal: 2,850,000 -->
 
-### 276,900,000
+<!-- marginal: 276,900,000 -->
 
-234,400,000 Pendahuluan Kumpulan Wang Luar Jangka 276,900,000 Waran Bil. 9/2008 : RM 10,000,000, a* : __________ 266,900,000
+<!-- marginal: 234,400,000 -->
+
+Pendahuluan Kumpulan Wang Luar Jangka 276,900,000 Waran Bil. 9/2008 : RM 10,000,000, a* : __________ 266,900,000
 
 ### It
 
@@ -512,15 +636,17 @@ Pendahuluan Kumpulan Wang Luar Jangka 151,500,000 Waran Bil. 13/2008 : RM90,000,
 
 ## ANGGARAN PERBELANMAN
 
-## TAMBAHAN
+<!-- marginal: TAMBAHAN -->
 
-Butiran (1) Kod Program/Aktiviti Jenis Perbelanjaan (4) (ObjekAm)
+<!-- marginal: Butiran (1) -->
+
+Kod Program/Aktiviti Jenis Perbelanjaan (4) (ObjekAm)
 
 ## MAKSUD B.28 - KEMENTERIAN PENGANGKUTAN
 
 ONE-OFF 100200 -
 
-### 100000
+<!-- marginal: 100000 -->
 
 Pengangkutan Udara 40000 Pemberian dan Kenaan Bayaran Tetap
 
@@ -532,7 +658,7 @@ Pengangkutan Udara 40000 Pemberian dan Kenaan Bayaran Tetap
 
 ## PENGURUSAN
 
-### 020000
+<!-- marginal: 020000 -->
 
 020500 - Bahagian Pentadbiran dan Kewangan Pemberian dan Kenaan Bayaran Tetap
 
@@ -540,7 +666,7 @@ Pengangkutan Udara 40000 Pemberian dan Kenaan Bayaran Tetap
 
 ## ONE OFF
 
-### 050000
+<!-- marginal: 050000 -->
 
 050500 - Kempen Malaysia Welcome The World & Perkhidmatan dan Bekalan Pemberian
 
@@ -558,7 +684,7 @@ Tahun Melawat Malaysia 07 dan Kenaan Bayaran Tetap
 
 ## PERSEKUTUAN
 
-010000
+<!-- marginal: 010000 -->
 
 ## PENGURUSAN KEMAJUAN DAN
 
@@ -568,11 +694,11 @@ Tahun Melawat Malaysia 07 dan Kenaan Bayaran Tetap
 
 ## JUMLAH KEMENTERIAN WILAYAH
 
-## PERSEKUTUAN
+<!-- marginal: PERSEKUTUAN -->
 
 ## MAKSUD B.42 - KEMENTERIAN KESIHATAN
 
-### 010000
+<!-- marginal: 010000 -->
 
 ## PENGURUSAN
 
@@ -580,105 +706,117 @@ Perkhidmatan dan Bekalan 010100 - Pengurusan Ibu Pejabat/Negeri 20000 Perkhidmat
 
 ## KESIHATAN AWAM
 
-020000 Perkhidmatan dan Bekalan 020300 - Kawalan Penyakit 20000 30000 Aset (Baru) Perkhidmatan dan Bekalan 020400 - Pendidikan Kesihatan 20000
+<!-- marginal: 020000 -->
+
+Perkhidmatan dan Bekalan 020300 - Kawalan Penyakit 20000 30000 Aset (Baru) Perkhidmatan dan Bekalan 020400 - Pendidikan Kesihatan 20000
 
 ## PERUBATAN
 
-030000 Perkhidmatan dan Bekalan 030100 - Pengurusan Perubatan Ibu Pejabat/Negeri 20000 032100 - Patologi 10000 Emolumen Perkhidmatan dan Bekalan 20000 30000 Aset (Baru) 20000 Perkhidmatan dan Bekalan 032200 - Farmasi dan Bekalan
+<!-- marginal: 030000 -->
+
+Perkhidmatan dan Bekalan 030100 - Pengurusan Perubatan Ibu Pejabat/Negeri 20000 032100 - Patologi 10000 Emolumen Perkhidmatan dan Bekalan 20000 30000 Aset (Baru) 20000 Perkhidmatan dan Bekalan 032200 - Farmasi dan Bekalan
 
 ## JUMLAH KEMENTERIAN KESIHATAN
 
 <!-- page 15 -->
 
-## MENGURUS
+<!-- marginal: MENGURUS -->
 
-## PERTAMA, 2008
+<!-- marginal: PERTAMA, 2008 -->
 
-Angqaran 2008 Tambahan Pertama 2008 Kenyataan Yang Diluluskan
+<!-- marginal: Angqaran 2008 -->
 
-### 18,000,000
+<!-- marginal: Tambahan Pertama 2008 -->
 
-### 18,000,000
+Kenyataan
 
-### 53,117,000
+<!-- marginal: Yang Diluluskan -->
+
+<!-- marginal: 18,000,000 -->
+
+<!-- marginal: 18,000,000 -->
+
+<!-- marginal: 53,117,000 -->
 
 in nm nan Pendahuluan Kumpulan Wang Luar Jangka HS,UUU,UUU WaranflHi n/2008 : RM18,000,000
 
-### 25,000,000
+<!-- marginal: 25,000,000 -->
 
-### 37,000,000
+<!-- marginal: 37,000,000 -->
 
-### 37,000,000
+<!-- marginal: 37,000,000 -->
 
-### 3,327,000
+<!-- marginal: 3,327,000 -->
 
-### 91,500,000
+<!-- marginal: 91,500,000 -->
 
-### 38,500,000
+<!-- marginal: 38,500,000 -->
 
-### 130,000,000
+<!-- marginal: 130,000,000 -->
 
 Pendahuluan Kumpulan Wang Luar Jangka 167,000,000 Waran HI. 15/2008 : RM 12,000,000, 3/2008 : __________ RM130,000,000 & 2/2008 : RM25,000,000
 
-### 2,151,000
+<!-- marginal: 2,151,000 -->
 
-### 2,151,000
+<!-- marginal: 2,151,000 -->
 
-12,880,000 Pendahuluan Kumpulan Wang Luar Jangka
+<!-- marginal: 12,880,000 -->
 
-### 2,900,000
+Pendahuluan Kumpulan Wang Luar Jangka
 
-### 99,400,000
+<!-- marginal: 2,900,000 -->
 
-### 2,900,000
+<!-- marginal: 99,400,000 -->
 
-### 10,000,000
+<!-- marginal: 2,900,000 -->
 
-### 41,047,000
+<!-- marginal: 10,000,000 -->
 
-### 10,000,000
+<!-- marginal: 41,047,000 -->
 
-### 219,219,000
+<!-- marginal: 10,000,000 -->
 
-### 4,000,000
+<!-- marginal: 219,219,000 -->
 
-### 7,500,000
+<!-- marginal: 4,000,000 -->
 
-### -
-
-### 3,500,000
-
-### 10,000,000
-
-### 49,920,000
-
-### 10,000,000
-
-### 10,000,000
-
-### 991,925,000
-
-### 10,000,000
-
-### 77,121,000
-
-### 500,000
-
-### 89,877,000
-
-### 2,500,000
-
-### 8,000,000
+<!-- marginal: 7,500,000 -->
 
 ### -
 
-### 5,000,000
+<!-- marginal: 3,500,000 -->
 
-### 51,600,000
+<!-- marginal: 10,000,000 -->
 
-### 677,325,000
+<!-- marginal: 49,920,000 -->
 
-### 51,600,000
+<!-- marginal: 10,000,000 -->
+
+<!-- marginal: 10,000,000 -->
+
+<!-- marginal: 991,925,000 -->
+
+<!-- marginal: 10,000,000 -->
+
+<!-- marginal: 77,121,000 -->
+
+<!-- marginal: 500,000 -->
+
+<!-- marginal: 89,877,000 -->
+
+<!-- marginal: 2,500,000 -->
+
+<!-- marginal: 8,000,000 -->
+
+### -
+
+<!-- marginal: 5,000,000 -->
+
+<!-- marginal: 51,600,000 -->
+
+<!-- marginal: 677,325,000 -->
+
+<!-- marginal: 51,600,000 -->
 
 inn nnn nm Pendahuluan Kumpulan Wang Luar Jangka iuu,uuu,uuu ^^ m j^oog . RMIOO,000,000
 
@@ -688,9 +826,11 @@ inn nnn nm Pendahuluan Kumpulan Wang Luar Jangka iuu,uuu,uuu ^^ m j^oog . RMIOO,
 
 ## ANGGARAN PERBELANJAAN
 
-## TAMBAHAN
+<!-- marginal: TAMBAHAN -->
 
-Butiran (1) Program/Aktiviti Kod Jenis Perbelanjaan (4) (Objek Am)
+<!-- marginal: Butiran (1) -->
+
+Program/Aktiviti Kod Jenis Perbelanjaan (4) (Objek Am)
 
 ## MAKSUD B.44 - KEMENTERIAN PERPADUAN,
 
@@ -698,23 +838,33 @@ Butiran (1) Program/Aktiviti Kod Jenis Perbelanjaan (4) (Objek Am)
 
 ## WARISAN
 
-030000
+<!-- marginal: 030000 -->
 
 ## KEBUDAYAAN
 
-030100 - Kebudayaan dan Kesenian 20000 Perkhidmatan dan Bekalan
+<!-- marginal: 030100 -->
+
+- Kebudayaan dan Kesenian 20000 Perkhidmatan dan Bekalan
 
 ## PERBADANAN KEMA3UAN KRAFTANGAN
 
-40000 Pemberian dan Kenaan Bayaran Tetap 090000
+40000 Pemberian dan Kenaan Bayaran Tetap
+
+<!-- marginal: 090000 -->
 
 ## MALAYSIA
 
-120000
+<!-- marginal: 120000 -->
 
 ## ONE OFF
 
-120300 - Harta Modal (Aset)/ Kenderaan 30000 Aset - Kempen Budi Bahasa 20000 120700 Perkhidmatan dan Bekalan
+<!-- marginal: 120300 -->
+
+- Harta Modal (Aset)/ Kenderaan 30000 Aset - Kempen Budi Bahasa 20000
+
+<!-- marginal: 120700 -->
+
+Perkhidmatan dan Bekalan
 
 (Baru) (Baru) 40000 Pemberian dan Kenaan Bayaran Tetap (Baru)
 
@@ -728,7 +878,7 @@ Butiran (1) Program/Aktiviti Kod Jenis Perbelanjaan (4) (Objek Am)
 
 ## PENGURUSAN
 
-### 010000
+<!-- marginal: 010000 -->
 
 Pemberian dan Kenaan Bayaran Tetap 010100 - Pengurusan Ibu Pejabat
 
@@ -742,7 +892,9 @@ Pemberian dan Kenaan Bayaran Tetap 010100 - Pengurusan Ibu Pejabat
 
 ## PERBADANAN TABUNG PEMBANGUNAN
 
-060000 40000 Pemberian dan Kenaan Bayaran Tetap
+<!-- marginal: 060000 -->
+
+40000 Pemberian dan Kenaan Bayaran Tetap
 
 ## KEMAHIRAN (PTPK)
 
@@ -756,7 +908,7 @@ Pemberian dan Kenaan Bayaran Tetap 010100 - Pengurusan Ibu Pejabat
 
 ## PENGURUSAN DAN PERANCANGAN
 
-### 010000
+<!-- marginal: 010000 -->
 
 ## DASAR
 
@@ -764,7 +916,9 @@ Pemberian dan Kenaan Bayaran Tetap 010100 - Pengurusan Ibu Pejabat
 
 ## KEBAJIKAN MASYARAKAT
 
-040000 041000 - Kurang Upaya 40000 Pemberian dan Kenaan Bayaran Tetap
+<!-- marginal: 040000 -->
+
+041000 - Kurang Upaya 40000 Pemberian dan Kenaan Bayaran Tetap
 
 ## JUMLAH KEMENTERIAN
 
@@ -774,61 +928,67 @@ Pemberian dan Kenaan Bayaran Tetap 010100 - Pengurusan Ibu Pejabat
 
 <!-- page 17 -->
 
-## MENGURUS
+<!-- marginal: MENGURUS -->
 
-## PEKTAMA 2008
+<!-- marginal: PEKTAMA 2008 -->
 
-Angqaran 2008 Tambahan Pertama 2008 Kenyataan Yang Diluluskan
+<!-- marginal: Angqaran 2008 -->
 
-### 20,715,400
+<!-- marginal: Tambahan Pertama 2008 -->
 
-### 4,000,000
+Kenyataan
 
-### 4,000,000
+<!-- marginal: Yang Diluluskan -->
 
-### 33,320,700
+<!-- marginal: 20,715,400 -->
 
-### 3,000,000
+<!-- marginal: 4,000,000 -->
 
-### 3,000,000
+<!-- marginal: 4,000,000 -->
 
-### 11,638,300
+<!-- marginal: 33,320,700 -->
 
-### 2,000,000
+<!-- marginal: 3,000,000 -->
 
-### 2,000,000
+<!-- marginal: 3,000,000 -->
 
-### 10,500,000
+<!-- marginal: 11,638,300 -->
 
-### 4,000,000
+<!-- marginal: 2,000,000 -->
 
-### 14,500,000
+<!-- marginal: 2,000,000 -->
+
+<!-- marginal: 10,500,000 -->
+
+<!-- marginal: 4,000,000 -->
+
+<!-- marginal: 14,500,000 -->
 
 Pendahuluan Kumpulan Wang Luar Jangka 23,500,000 Waran Bil. 6/2008 : RM 14,500,000, CL* : _________ RM9,000,000
 
-### 18,515,000
+<!-- marginal: 18,515,000 -->
 
-### 39,000,000
+<!-- marginal: 39,000,000 -->
 
-### 39,000,000
+<!-- marginal: 39,000,000 -->
 
 Pendahuluan Kumpulan Wang Luar Jangka
 
-### 17,260,000 100,000,000 100,000,000
+<!-- marginal: 17,260,000 100,000,000 100,000,000 -->
 
 innnnnnm Pendahuluan Kumpulan Wang Luar Jangka iuu,uuu, Waran BH. 1/2008 : RM100,000,000
 
-### 738,200
+<!-- marginal: 738,200 -->
 
-### 10,000,000
+<!-- marginal: 10,000,000 -->
 
-### 10,000,000
+<!-- marginal: 10,000,000 -->
 
-### 18,298,000
+<!-- marginal: 18,298,000 -->
 
-### 35,000,000
+<!-- marginal: 35,000,000 -->
 
-### 35,000,000
+<!-- marginal: 35,000,000 -->
 
 Pendahuluan Kumpulan Wang Luar Jangka 45,000,000 Waran Bil. 20/2008 : RM35,000,000 & 4/2008 : _________RM10,000,000
 
@@ -838,17 +998,19 @@ Pendahuluan Kumpulan Wang Luar Jangka 45,000,000 Waran Bil. 20/2008 : RM35,000,0
 
 ## _______ TAMBAHAN
 
-### Butiran (1)
+<!-- marginal: Butiran (1) -->
 
 Program/Aktiviti Kod 3enis Perbelanjaan (4) (ObjekAm)
 
 ## MAKSUD B.49 - KEMENTERIAN PEN6A3IAN TINGGI
 
-010000
+<!-- marginal: 010000 -->
 
 ## PENGURUSAN KEMENTERIAN
 
-40000 Pemberian dan Kenaan Bayaran Tetap 020000
+40000 Pemberian dan Kenaan Bayaran Tetap
+
+<!-- marginal: 020000 -->
 
 ## JABATAN PENGURUSAN INSTTTUSI
 
@@ -864,13 +1026,13 @@ Program/Aktiviti Kod 3enis Perbelanjaan (4) (ObjekAm)
 
 ## POUS DIRA3A MALAYSIA
 
-### 020000
+<!-- marginal: 020000 -->
 
 Perkhidmatan dan Bekalan 020100 Pengurusan Polls 20000
 
 ## "ONE-OFF"
 
-### 070000
+<!-- marginal: 070000 -->
 
 Perkhidmatan dan Bekalan 070300 Logistik(PDRM) 20000 10000 071200 Bertugas Di Luar Negara Emolumen fBaru) - Perkhidmatan dan Bekalan 20000 30000 Aset (Baru)
 
@@ -880,49 +1042,55 @@ Perkhidmatan dan Bekalan 070300 Logistik(PDRM) 20000 10000 071200 Bertugas Di Lu
 
 ## TERMASUK DALAM UNDANG-UNDANG
 
-## PERBEKALAN..
+<!-- marginal: PERBEKALAN.. -->
 
 ## JUMLAH YANG HENDAK DILULUSKAN
 
 <!-- page 19 -->
 
-## MENGURUS
+<!-- marginal: MENGURUS -->
 
-## PERTAMA, 2008
+<!-- marginal: PERTAMA, 2008 -->
 
-Anqqaran 2008 Tambahan Pertama 2008 Kenyataan Yang Diluluskan
+<!-- marginal: Anqqaran 2008 -->
 
-### 167,700,000 167,700,000
+<!-- marginal: Tambahan Pertama 2008 -->
 
-### 10,600,000
+Kenyataan
 
-### 10,600,000
+<!-- marginal: Yang Diluluskan -->
+
+<!-- marginal: 167,700,000 167,700,000 -->
+
+<!-- marginal: 10,600,000 -->
+
+<!-- marginal: 10,600,000 -->
 
 Pendahuluan Kumpulan Wang Luar Jangka 178,300,000 Waran Bil. 22/2008 : RM40,600,000, a* : _________ RM137,700,000
 
-### 625,800
+<!-- marginal: 625,800 -->
 
-### 210,141,300
+<!-- marginal: 210,141,300 -->
 
-### 625,800
+<!-- marginal: 625,800 -->
 
-### 75,000,000
+<!-- marginal: 75,000,000 -->
 
-### 5,273,900
+<!-- marginal: 5,273,900 -->
 
-### 75,000,000
+<!-- marginal: 75,000,000 -->
 
 ### -
 
-### 6,500,928
+<!-- marginal: 6,500,928 -->
 
-### 21,000,000
+<!-- marginal: 21,000,000 -->
 
-### 9,799,144
+<!-- marginal: 9,799,144 -->
 
-### 38,293,197
+<!-- marginal: 38,293,197 -->
 
-### 21,993,125
+<!-- marginal: 21,993,125 -->
 
 Pendahuluan Kumpulan Wang Luar Jangka 113,918,997 Waran Bil. 17/2008 : RM38,293,197,10/2008 : _________ RM625,800 & 8/2008 : RM75,000,000
 
@@ -956,15 +1124,13 @@ Pendahuluan Kumpulan Wang Luar Jangka 113,918,997 Waran Bil. 17/2008 : RM38,293,
 
 ## TAHUN 2008 BAGI KERAJAAN MALAYSIA
 
-Memorandum ini dikemukakan bersama-sama dengan Anggaran Perbelanjaan Mengurus Tambahan Pertama 2008 yang dibentangkan sebagai Kertas Perintah 11 Tahun 2008. Tambahan peruntukan sebanyak RM20,153,679,997 adalah dikehendaki untuk perbelanjaan tahun 2008 bagi Maksud-maksud yang tidak diperuntukkan atau yang tidak diperuntukkan dengan secukupnya dalam Anggaran Perbelanjaan Mengurus 2008 yang asal.
-
-2. Tambahan peruntukan sebanyak RM20,153,679,997 dibahagikan kepada perbelanjaan mengikut sektor utama dan sub-sektor seperti berikut:
+Memorandum ini dikemukakan bersama-sama dengan Anggaran Perbelanjaan Mengurus Tambahan Pertama 2008 yang dibentangkan sebagai Kertas Perintah 11 Tahun 2008. Tambahan peruntukan sebanyak RM20,153,679,997 adalah dikehendaki untuk perbelanjaan tahun 2008 bagi Maksud-maksud yang tidak diperuntukkan atau yang tidak diperuntukkan dengan secukupnya dalam Anggaran Perbelanjaan Mengurus 2008 yang asal. 2. Tambahan peruntukan sebanyak RM20,153,679,997 dibahagikan kepada perbelanjaan mengikut sektor utama dan sub-sektor seperti berikut:
 
 ### Sektor/Sub-sektor
 
 ### Anggaran
 
-### Peratus Daripada
+<!-- marginal: Peratus Daripada -->
 
 ### Tambahan
 
@@ -1004,7 +1170,7 @@ Jumlah Ekonomi
 
 ### Anggaran
 
-### Peratus Daripada
+<!-- marginal: Peratus Daripada -->
 
 ### Sektor/Sub-sektor
 
@@ -1130,9 +1296,7 @@ Jumlah Bayaran Pindahan
 
 ## MAKSUDB.6- JABATAN PERDANA MENTERI
 
-Tambahan sebanyak RM173,210,000 adalah dikehendaki untuk perbelanjaan seperti berikut: i. sebanyak RM108,500,000 adalah dikehendaki untuk membiayai perbelanjaan Pihak Berkuasa Wilayah Pembangunan Iskandar
-
-(IRDA), Majlis Pembangunan Wilayah Ekonomi Utara (NCIA) dan Majlis Pembangunan Wilayah Ekonomi Pantai Timur (ECERDC); ii. sebanyak RM44,110,000 untuk membiayai tahun pertama pelaksanaan Projek Managed Portal Services (MPS); dan iii. sebanyak RM20.600.000 untuk membiayai peluasan kawasan Rukun Tetangga dan Skim Rondaan Sukarela bagi tahun 2008. Jumlah ini telah didahulukan daripada Kumpulan Wang Luar Jangka. Sebarang penjimatan belum lagi dapat dikenal pasti pada masa itu.
+Tambahan sebanyak RM173,210,000 adalah dikehendaki untuk perbelanjaan seperti berikut: i. sebanyak RM108,500,000 adalah dikehendaki untuk membiayai perbelanjaan Pihak Berkuasa Wilayah Pembangunan Iskandar (IRDA), Majlis Pembangunan Wilayah Ekonomi Utara (NCIA) dan Majlis Pembangunan Wilayah Ekonomi Pantai Timur (ECERDC); ii. sebanyak RM44,110,000 untuk membiayai tahun pertama pelaksanaan Projek Managed Portal Services (MPS); dan iii. sebanyak RM20.600.000 untuk membiayai peluasan kawasan Rukun Tetangga dan Skim Rondaan Sukarela bagi tahun 2008. Jumlah ini telah didahulukan daripada Kumpulan Wang Luar Jangka. Sebarang penjimatan belum lagi dapat dikenal pasti pada masa itu.
 
 2.
 
@@ -1290,13 +1454,13 @@ vii. sebanyak RM7,700,000 adalah untuk menampung penambahan bahagian dan jawatan
 
 ### Peruntukan
 
-### Peruntukan
+<!-- marginal: Peruntukan -->
 
 <!-- marginal: Jumlah -->
 
 ### Tambahan
 
-### Tambahan
+<!-- marginal: Tambahan -->
 
 ### Asal 2008
 
@@ -1304,7 +1468,7 @@ vii. sebanyak RM7,700,000 adalah untuk menampung penambahan bahagian dan jawatan
 
 ### Dalam Jadual
 
-### Dalam Jadual
+<!-- marginal: Dalam Jadual -->
 
 ### (RM)
 
@@ -1314,155 +1478,233 @@ vii. sebanyak RM7,700,000 adalah untuk menampung penambahan bahagian dan jawatan
 
 ### Lepas (RM)
 
-### Ini (RM)
+<!-- marginal: Ini (RM) -->
 
 3.423,676,000
 
 <!-- marginal: 3,596,886,000 -->
 
-### B.6
+<!-- marginal: B.6 -->
 
 ### -
 
-Jabatan Perdana Menteri 173,210,000 1,324,909,000
+Jabatan Perdana Menteri
+
+<!-- marginal: 173,210,000 -->
+
+1,324,909,000
 
 <!-- marginal: 1,425,909,000 -->
 
-### B.7
+<!-- marginal: B.7 -->
 
 ### -
 
-Jabatan Perkhidmatan Awam 101,000,000 15,156,686,000
+Jabatan Perkhidmatan Awam
+
+<!-- marginal: 101,000,000 -->
+
+15,156,686,000
 
 <!-- marginal: 30,156,686,000 -->
 
-### B.11
+<!-- marginal: B.11 -->
 
 ### -
 
-Perkhidmatan Am Perbendaharaan 15,000,000,000 4,482,600,000
+Perkhidmatan Am Perbendaharaan
+
+<!-- marginal: 15,000,000,000 -->
+
+4,482,600,000
 
 <!-- marginal: 4,782,600,000 -->
 
 ### -
 
-B.12 Peruntukan kepada Kumpulan Wang Terkanun 300,000,000 218,169,000
+<!-- marginal: B.12 -->
+
+Peruntukan kepada Kumpulan Wang Terkanun
+
+<!-- marginal: 300,000,000 -->
+
+218,169,000
 
 <!-- marginal: 656,169,000 -->
 
 ### -
 
-B.20 438,000,000 Kementerian Perusahaan Perladangan dan Komoditi 2,172,363,000
+<!-- marginal: B.20 -->
+
+<!-- marginal: 438,000,000 -->
+
+Kementerian Perusahaan Perladangan dan Komoditi 2,172,363,000
 
 <!-- marginal: 5,078,563,000 -->
 
-### B.21
+<!-- marginal: B.21 -->
 
 ### -
 
-Kementerian Pertanian dan Industri Asas Tani 2,906,200,000 Kementerian Kemajuan Luar Bandar dan 1,009,980,000
+Kementerian Pertanian dan Industri Asas Tani
+
+<!-- marginal: 2,906,200,000 -->
+
+Kementerian Kemajuan Luar Bandar dan 1,009,980,000
 
 <!-- marginal: 1,029,980,000 -->
 
 ### -
 
-B.22 20,000,000 Wilayah 960,791,000
+<!-- marginal: B.22 -->
+
+<!-- marginal: 20,000,000 -->
+
+Wilayah 960,791,000
 
 <!-- marginal: 1,112,291,000 -->
 
-### B.23
+<!-- marginal: B.23 -->
 
 ### -
 
-Kementerian Sumber Asli Dan Alam Sekitar 151,500,000 403,903,000
+Kementerian Sumber Asli Dan Alam Sekitar
+
+<!-- marginal: 151,500,000 -->
+
+403,903,000
 
 <!-- marginal: 680,803,000 -->
 
 ### -
 
-B.25 276,900,000 Kementerian Perdagangan dalam Negeri dan Hal Ehwal Pengguna 876,408,000
+<!-- marginal: B.25 -->
+
+<!-- marginal: 276,900,000 -->
+
+Kementerian Perdagangan dalam Negeri dan Hal Ehwal Pengguna 876,408,000
 
 <!-- marginal: 894,408,000 -->
 
-### B.28
+<!-- marginal: B.28 -->
 
 ### -
 
-Kementerian Pengangkutan 18,000,000 626,554,000
+Kementerian Pengangkutan
+
+<!-- marginal: 18,000,000 -->
+
+626,554,000
 
 <!-- marginal: 793,554,000 -->
 
 ### -
 
-B.31 Kementerian Pelancongan 167,000,000 226,596,000
+<!-- marginal: B.31 -->
+
+Kementerian Pelancongan
+
+<!-- marginal: 167,000,000 -->
+
+226,596,000
 
 <!-- marginal: 228,747,000 -->
 
 ### -
 
-B.32 Kementerian Wilayah Persekutuan 2,151,000 10,679,587,000
+<!-- marginal: B.32 -->
+
+Kementerian Wilayah Persekutuan
+
+<!-- marginal: 2,151,000 -->
+
+10,679,587,000
 
 <!-- marginal: 10,779,587,000 -->
 
-### B.42
+<!-- marginal: B.42 -->
 
 ### -
 
-Kementerian Kesihatan 100,000,000 507,242,000
+Kementerian Kesihatan
+
+<!-- marginal: 100,000,000 -->
+
+507,242,000
 
 <!-- marginal: 530,742,000 -->
 
-### B.44
+<!-- marginal: B.44 -->
 
 ### -
 
-23,500,000 Kementerian Perpaduan, Kebudayaan, Kesenian dan Warisan 431,083,000
+<!-- marginal: 23,500,000 -->
+
+Kementerian Perpaduan, Kebudayaan, Kesenian dan Warisan 431,083,000
 
 <!-- marginal: 470,083,000 -->
 
-### B.45
+<!-- marginal: B.45 -->
 
 ### -
 
-Kementerian Belia dan Sukan 39,000,000 560,803,000
+Kementerian Belia dan Sukan
+
+<!-- marginal: 39,000,000 -->
+
+560,803,000
 
 <!-- marginal: 660,803,000 -->
 
-### B.46
+<!-- marginal: B.46 -->
 
 ### -
 
-Kementerian Sumber Manusia 100,000,000 663,960,000
+Kementerian Sumber Manusia
+
+<!-- marginal: 100,000,000 -->
+
+663,960,000
 
 <!-- marginal: 708,960,000 -->
 
 Kementerian Pembangunan Wanita, Keluarga
 
-### B.48
+<!-- marginal: B.48 -->
 
 ### -
 
-45,000,000 dan Masyarakat 8,813,600,000
+<!-- marginal: 45,000,000 -->
+
+dan Masyarakat 8,813,600,000
 
 <!-- marginal: 8,991,900,000 -->
 
-### B.49
+<!-- marginal: B.49 -->
 
 ### -
 
-Kementerian Pengajian Tinggi 178,300,000
+Kementerian Pengajian Tinggi
+
+<!-- marginal: 178,300,000 -->
 
 <!-- marginal: 7,030,918,997 -->
 
-B.62 Kementerian Dalam Negeri 113,918,997 6,917,000,000
+<!-- marginal: B.62 -->
+
+Kementerian Dalam Negeri
+
+<!-- marginal: 113,918,997 -->
+
+6,917,000,000
 
 ### Jumlah Perbelanjaan Bekalan
 
-### 20,153,679,997
+<!-- marginal: 20,153,679,997 -->
 
 ## JUMLAH ANGGARAN TAMBAHAN PERTAMA, 2008
 
-### 20,153,679,997
+<!-- marginal: 20,153,679,997 -->
 
 <!-- page 40 -->
 
@@ -1476,7 +1718,7 @@ B.62 Kementerian Dalam Negeri 113,918,997 6,917,000,000
 
 ## DAN JENIS PERBELANJAAN
 
-### (40000)
+<!-- marginal: (40000) -->
 
 <!-- marginal: Jumlah -->
 
@@ -1484,13 +1726,13 @@ B.62 Kementerian Dalam Negeri 113,918,997 6,917,000,000
 
 ### (20000)
 
-### (30000)
+<!-- marginal: (30000) -->
 
 <!-- marginal: (50000) -->
 
 ### Maksud Perbolanjaan
 
-### Pemberian Dan
+<!-- marginal: Pemberian Dan -->
 
 <!-- marginal: Peruntukan -->
 
@@ -1500,9 +1742,9 @@ B.62 Kementerian Dalam Negeri 113,918,997 6,917,000,000
 
 ### Emolumen
 
-### Aset
+<!-- marginal: Aset -->
 
-### Kenaan Bayaran
+<!-- marginal: Kenaan Bayaran -->
 
 <!-- marginal: Tambahan -->
 
@@ -1510,7 +1752,7 @@ B.62 Kementerian Dalam Negeri 113,918,997 6,917,000,000
 
 ### dan Bekalan
 
-### Tetap
+<!-- marginal: Tetap -->
 
 <!-- marginal: Lain -->
 
@@ -1518,9 +1760,9 @@ B.62 Kementerian Dalam Negeri 113,918,997 6,917,000,000
 
 ### (RM)
 
-### (RM)
+<!-- marginal: (RM) -->
 
-### (RM)
+<!-- marginal: (RM) -->
 
 <!-- marginal: (RM) -->
 
@@ -1528,7 +1770,11 @@ B.62 Kementerian Dalam Negeri 113,918,997 6,917,000,000
 
 <!-- marginal: 173,210,000 -->
 
-B.6 Jabatan Perdana Menteri 45,550,000 9,000,000 117,700,000
+B.6 Jabatan Perdana Menteri 45,550,000
+
+<!-- marginal: 9,000,000 -->
+
+<!-- marginal: 117,700,000 -->
 
 <!-- marginal: 960,000 -->
 
@@ -1538,23 +1784,37 @@ B.6 Jabatan Perdana Menteri 45,550,000 9,000,000 117,700,000
 
 <!-- marginal: 101,000,000 -->
 
-B.7 Jabatan Perkhidmatan Awam - 91,000.000 -
+B.7 Jabatan Perkhidmatan Awam -
+
+<!-- marginal: 91,000.000 -->
+
+-
 
 ### -
 
 <!-- marginal: 15.000,000,000 -->
 
-B.11 PerkhkJmatan Am Perbendaharaan - - 15,000,000,000 -
+B.11 PerkhkJmatan Am Perbendaharaan - -
+
+<!-- marginal: 15,000,000,000 -->
+
+-
 
 ### -
 
 <!-- marginal: 300,000.000 -->
 
-B.12 Peruntukan kepada Kumpulan Wang - - 300,000,000 -
+B.12 Peruntukan kepada Kumpulan Wang - -
+
+<!-- marginal: 300,000,000 -->
+
+-
 
 ### -
 
-Terkanun 438,000,000
+Terkanun
+
+<!-- marginal: 438,000,000 -->
 
 <!-- marginal: 438,000,000 -->
 
@@ -1562,7 +1822,9 @@ B.20 Kementerian Perusahaan Periadangan - - -
 
 ### -
 
-dan Komoditi 2,906,200,000
+dan Komoditi
+
+<!-- marginal: 2,906,200,000 -->
 
 <!-- marginal: 2,906.200,000 -->
 
@@ -1582,27 +1844,47 @@ dan Wilayah 48,500,000
 
 <!-- marginal: 151.500.000 -->
 
-B.23 Kementerian Sumber Asli Dan Alam 103,000,000 - -
+B.23 Kementerian Sumber Asli Dan Alam
+
+<!-- marginal: 103,000,000 -->
+
+- -
 
 ### -
 
-Sekitar 2,850,000
+Sekitar
+
+<!-- marginal: 2,850,000 -->
 
 <!-- marginal: 276.900,000 -->
 
-B.25 Kementerian Perdagangan dalam 31,500,000 8,150,000 234,400,000 - Negeri dan Hal Ehwal Pengguna
+B.25 Kementerian Perdagangan dalam 31,500,000 8,150,000
+
+<!-- marginal: 234,400,000 -->
+
+- Negeri dan Hal Ehwal Pengguna
 
 <!-- marginal: 18,000,000 -->
 
-B.28 Kementerian Pengangkutan - - - 18,000,000 -
+B.28 Kementerian Pengangkutan - - -
+
+<!-- marginal: 18,000,000 -->
+
+-
 
 <!-- marginal: 167,000,000 -->
 
-B.31 Kementerian Pelancongan - 91,500,000 - 75,500,000 - 2,151,000
+B.31 Kementerian Pelancongan - 91,500,000 -
+
+<!-- marginal: 75,500,000 -->
+
+- 2,151,000
 
 <!-- marginal: 2,151,000 -->
 
-B.32 Kementerian Wilayah Persekutuan - - - - 8,500,000
+B.32 Kementerian Wilayah Persekutuan - - - -
+
+<!-- marginal: 8,500,000 -->
 
 <!-- marginal: 100,000,000 -->
 
@@ -1610,27 +1892,53 @@ B.42 Kementerian Kesihatan 500,000 91,000,000 - -
 
 <!-- marginal: 23,500,000 -->
 
-B.44 Kementerian Perpaduan, Kebudayaan, - 14,500,000 2,000,000 7,000,000 - Kesenian dan Warisan
+B.44 Kementerian Perpaduan, Kebudayaan, - 14,500,000
+
+<!-- marginal: 2,000,000 -->
+
+<!-- marginal: 7,000,000 -->
+
+- Kesenian dan Warisan
 
 <!-- marginal: 39,000,000 -->
 
-B.45 Kementerian Belia dan Sukan - - - 39,000,000 -
+B.45 Kementerian Belia dan Sukan - - -
+
+<!-- marginal: 39,000,000 -->
+
+-
 
 <!-- marginal: 100,000.000 -->
 
-B.46 Kementerian Sumber Manusia - - - 100,000,000 -
+B.46 Kementerian Sumber Manusia - - -
+
+<!-- marginal: 100,000,000 -->
+
+-
 
 <!-- marginal: 45,000,000 -->
 
-B.48 Kementerian Pembangunan Wanita, - - - 45,000,000 - Keluarga dan Masyarakat
+B.48 Kementerian Pembangunan Wanita, - - -
+
+<!-- marginal: 45,000,000 -->
+
+- Keluarga dan Masyarakat
 
 <!-- marginal: 178,300,000 -->
 
-B.49 Kementerian Pengajian Tinggi - - - 178,300,000 -
+B.49 Kementerian Pengajian Tinggi - - -
+
+<!-- marginal: 178,300,000 -->
+
+-
 
 <!-- marginal: 113,918,997 -->
 
-B.62 Kementerian Dalam Negeri 6,500,928 85,424,944 21,993,125 - -
+B.62 Kementerian Dalam Negeri 6,500,928 85,424,944
+
+<!-- marginal: 21,993,125 -->
+
+- -
 
 <!-- marginal: 20,153,679,997 -->
 
@@ -1640,9 +1948,9 @@ B.62 Kementerian Dalam Negeri 6,500,928 85,424,944 21,993,125 - -
 
 ### 416,775,944
 
-### 147,343,125
+<!-- marginal: 147,343,125 -->
 
-### 19,550,100,000
+<!-- marginal: 19,550,100,000 -->
 
 <!-- marginal: 960,000 -->
 
@@ -1652,9 +1960,9 @@ B.62 Kementerian Dalam Negeri 6,500,928 85,424,944 21,993,125 - -
 
 ### 416,775,944
 
-### 147,343,125
+<!-- marginal: 147,343,125 -->
 
-### 19,550,100,000
+<!-- marginal: 19,550,100,000 -->
 
 <!-- marginal: 960,000 -->
 
@@ -1748,13 +2056,17 @@ B.62 Kementerian Dalam Negeri 6,500,928 85,424,944 21,993,125 - -
 
 <!-- marginal: JwtehPm*&n#m -->
 
-' ' ' ■ ' • ' mmmVtom Bum- .
+' ' ' ■ ' • '
+
+<!-- marginal: mmmVtom Bum- -->
+
+.
 
 <!-- marginal: RM -->
 
 ## MAKSUD B. 46 - KEMENTERIAN SUMBER
 
-1Tahun2008
+<!-- marginal: 1Tahun2008 -->
 
 ## MANUSIA
 
@@ -1772,7 +2084,7 @@ Tetap
 
 ## MAKSUD B.31 - KEMENTERIAN PELANCONGAN
 
-2Tahun2008
+<!-- marginal: 2Tahun2008 -->
 
 ## 020000 PENGURUSAN
 
@@ -1784,7 +2096,7 @@ Tetap
 
 ## MAKSUD B.31 - KEMENTERIAN PELANCONGAN
 
-3Tahun2008
+<!-- marginal: 3Tahun2008 -->
 
 ## 050000 ONE OFF
 
@@ -1800,7 +2112,7 @@ Pemberian dan Kenaan Bayaran 40000 Tahun Melawat Malaysia 07 Tetap (Baru)
 
 ## MAKSUD B.48 - KEMENTERIAN PEMBANGUNAN
 
-4Tahun2008
+<!-- marginal: 4Tahun2008 -->
 
 ## WANHAKELUARGADAN MASYARAKAT
 
@@ -1814,7 +2126,7 @@ Pemberian dan Kenaan Bayaran 40000 Tahun Melawat Malaysia 07 Tetap (Baru)
 
 ## MAKSUD B.32 - KEMENTERIAN WILAYAH
 
-5Tahun2008
+<!-- marginal: 5Tahun2008 -->
 
 ## PERSEKUTUAN
 
@@ -1830,7 +2142,7 @@ Pemberian dan Kenaan Bayaran 40000 Tahun Melawat Malaysia 07 Tetap (Baru)
 
 ## MAKSUD B.44 - KEMENTERIAN KEBUDAYAAN,
 
-6Tahun2008
+<!-- marginal: 6Tahun2008 -->
 
 ## PERPADUAN, KESEHAN DAN WARISAN
 
@@ -1866,7 +2178,7 @@ mekW
 
 <!-- marginal: RM -->
 
-7Tahun2008
+<!-- marginal: 7Tahun2008 -->
 
 ## MAKSUD B.06 • JABATAN PERDANA MENTERI
 
@@ -1900,7 +2212,7 @@ Perbelanjaan-perbelanjaan Lain 50000
 
 <!-- marginal: 20,600,000 -->
 
-8Tahun2008
+<!-- marginal: 8Tahun2008 -->
 
 ## MAKSUD B.62 - KEMENTERIAN DALAM NEGERI
 
@@ -1914,7 +2226,7 @@ Perbelanjaan-perbelanjaan Lain 50000
 
 <!-- marginal: 75,000,000 -->
 
-9Tahun2008
+<!-- marginal: 9Tahun2008 -->
 
 ## MAKSUD B.25 - KEMENTERIAN PERDAGANGAN
 
@@ -1938,7 +2250,7 @@ Kepenggunaan dan Bekalan 20000
 
 <!-- marginal: 10,000,000 -->
 
-10Tahun2008
+<!-- marginal: 10Tahun2008 -->
 
 ## MAKSUD B.62 ■ KEMENTERIAN DALAM NEGERI
 
@@ -1952,7 +2264,7 @@ Kepenggunaan dan Bekalan 20000
 
 <!-- marginal: 625,800 -->
 
-11Tahun2008
+<!-- marginal: 11Tahun2008 -->
 
 ## MAKSUD B.28 ■ KEMENTERIAN PENGANGKUTAN
 
@@ -1964,7 +2276,7 @@ Kepenggunaan dan Bekalan 20000
 
 <!-- marginal: 18,000,000 -->
 
-12Tahun2008
+<!-- marginal: 12Tahun2008 -->
 
 ### MAKSUD aO7 - JABATAN PERKHIDMATAN
 
@@ -1996,11 +2308,11 @@ Kepenggunaan dan Bekalan 20000
 
 <!-- marginal: JtmmP&Kkmian -->
 
-### ..:->=. .ji"
+<!-- marginal: ..:-)=. .ji" -->
 
 <!-- marginal: RM -->
 
-13Tahun2008
+<!-- marginal: 13Tahun2008 -->
 
 ## MAKSUD B.23 - KEMENTERIAN SUMBER ASU
 
@@ -2020,7 +2332,7 @@ Kepenggunaan dan Bekalan 20000
 
 <!-- marginal: 90,000,000 -->
 
-14Tahun2008
+<!-- marginal: 14Tahun2008 -->
 
 ### MAKSUD ai2 - PERUNTUKAN KEPADA
 
@@ -2040,7 +2352,7 @@ Tetap
 
 <!-- marginal: 200,000,000 -->
 
-15Tahun2008
+<!-- marginal: 15Tahun2008 -->
 
 ## MAKSUD B.31 - KEMENTERIAN PELANCONGAN
 
@@ -2052,7 +2364,7 @@ Tetap
 
 <!-- marginal: 12,000,000 -->
 
-16Tahun2008
+<!-- marginal: 16Tahun2008 -->
 
 ## MAKSUD B.06 - JABATAN PERDANA MENTERI
 
@@ -2068,7 +2380,7 @@ Tetap
 
 <!-- marginal: 44,110,000 -->
 
-17Tahun2008
+<!-- marginal: 17Tahun2008 -->
 
 ## MAKSUD B.62 - KEMENTERIAN DALAM NEGERI
 
@@ -2098,7 +2410,7 @@ Tetap
 
 <!-- marginal: 38,293,197 -->
 
-18Tahun2008
+<!-- marginal: 18Tahun2008 -->
 
 ## MAKSUD B.45 - KEMENTERIAN BELIA DAN
 
@@ -2118,7 +2430,7 @@ Tetap
 
 <!-- marginal: 39,000,000 -->
 
-19Tahun2008
+<!-- marginal: 19Tahun2008 -->
 
 ## MAKSUD B.06 - JABATAN PERDANA MENTERI
 
@@ -2148,7 +2460,7 @@ Sumber Manusia
 
 ## PERUNTUKAN KUMPULAN WANG YANG DILULUSKAN - RM 1,500,000,000
 
-### BtanganWamn Button
+<!-- marginal: BtanganWamn Button -->
 
 ### Jenn Pterteferpan
 
@@ -2162,7 +2474,7 @@ Sumber Manusia
 
 ## MAKSUD B.48 ■ KEMENTERIAN PEMBANGUNAN
 
-20Tahun2008
+<!-- marginal: 20Tahun2008 -->
 
 ## WANITA,KELUARGADAN MASYARAKAT
 
@@ -2176,7 +2488,7 @@ Sumber Manusia
 
 ## MAKSUD B.42 - KEMENTERIAN KE9HATAN
 
-21Tahun2O08
+<!-- marginal: 21Tahun2O08 -->
 
 ## 010000 PENGURUSAN
 
@@ -2228,7 +2540,7 @@ Aset 30000 (Baru)
 
 ## MAKSUD B.49 - KEMENTERIAN PENGAJIAN
 
-22Tahun2008
+<!-- marginal: 22Tahun2008 -->
 
 ## TINGGI
 
@@ -2250,7 +2562,7 @@ Aset 30000 (Baru)
 
 ## MAKSUD B.21 - KEMENTERIAN PERTANIAN DAN
 
-23Tahun2008
+<!-- marginal: 23Tahun2008 -->
 
 ## INDUSTRIASASTANI
 
@@ -2264,7 +2576,9 @@ Aset 30000 (Baru)
 
 ## MAKSUD B.11 - PERKHIDMATAN AM PERBENDAHARAAN
 
-24Tahun2008 020000
+<!-- marginal: 24Tahun2008 -->
+
+020000
 
 ## BAYARAN PINDAHAN DAN PEMBERIAN
 

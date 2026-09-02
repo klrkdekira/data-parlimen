@@ -8,13 +8,13 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Pemakaian 3. Pemakaian wilayah dan luar wilayah 4. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## JAWATANKUASA KESELAMATAN DALAM TALIAN
 
@@ -26,7 +26,7 @@
 
 12. Jawatankuasa boleh mengundang orang lain untuk menghadiri mesyuarat
 
-## Bahagian III
+## BAHAGIAN III
 
 ## KEWAJIPAN PEMBERI PERKHIDMATAN APLIKASI BERLESEN DAN
 
@@ -50,7 +50,7 @@
 
 20. Kewajipan untuk menyediakan Pelan Keselamatan dalam Talian
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PELAPORAN KANDUNGAN MEMUDARATKAN
 
@@ -74,7 +74,7 @@
 
 <!-- page 3 -->
 
-## Bahagian V
+## BAHAGIAN V
 
 ## KUASA SURUHANJAYA
 
@@ -90,7 +90,7 @@
 
 35. Kuasa Suruhanjaya hendaklah sebagai tambahan kepada kuasa di bawah Akta Komunikasi dan Multimedia 1998 dan Akta Suruhanjaya Komunikasi dan Multimedia Malaysia 1998
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## AKU JANJI DAN NOTIS KETIDAKPATUHAN
 
@@ -102,7 +102,7 @@
 
 39. Penalti kewangan bagi ketidakpatuhan kewajipan
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## TRIBUNAL RAYUAN KESELAMATAN DALAM TALIAN
 
@@ -132,7 +132,7 @@
 
 51. Setiausaha kepada Tribunal Rayuan Keselamatan dalam Talian
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## PENGUATKUASAAN
 
@@ -170,7 +170,7 @@
 
 68. Bidang kuasa untuk membicarakan kesalahan
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## PELBAGAI
 
@@ -208,9 +208,9 @@
 
 84. Penyampaian atau pemberitahuan suruhan bertulis, dsb.
 
-## Jadual Pertama
+## JADUAL PERTAMA
 
-## Jadual Kedua
+## JADUAL KEDUA
 
 <!-- page 7 -->
 
@@ -220,7 +220,7 @@ Suatu Akta untuk meningkatkan dan mengalakkan keselamatan dalam talian di Malays
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -316,7 +316,7 @@ dianggap sebagai suatu tempat di dalam had geografi Malaysia dan perairan wilaya
 
 <!-- page 11 -->
 
-## Bahagian II
+## BAHAGIAN II
 
 ## JAWATANKUASA KESELAMATAN DALAM TALIAN
 
@@ -456,7 +456,7 @@ dianggap sebagai suatu tempat di dalam had geografi Malaysia dan perairan wilaya
 
 <!-- page 16 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 ## KEWAJIPAN PEMBERI PERKHIDMATAN APLIKASI BERLESEN
 
@@ -562,7 +562,7 @@ kandungan berlesen itu membuktikan sehingga memuaskan Suruhanjaya bahawa langkah
 
 (5) Sesalinan Pelan Keselamatan dalam Talian yang disediakan di bawah subseksyen (1) hendaklah dikemukakan kepada Suruhanjaya.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PELAPORAN KANDUNGAN MEMUDARATKAN
 
@@ -762,7 +762,7 @@ berkenaan dengan kandungan yang sama yang pengguna itu percaya ialah kandungan m
 
 29. Jika pemberi perkhidmatan aplikasi berlesen atau pemberi perkhidmatan aplikasi kandungan berlesen membuat laporan kepada mana-mana agensi penguatkuasaan berhubung dengan kandungan yang menjadi hal perkara suatu laporan yang dibuat oleh seseorang pengguna kepada pemberi perkhidmatan aplikasi berlesen atau pemberi perkhidmatan aplikasi kandungan berlesen di bawah seksyen 21, pemberi perkhidmatan aplikasi berlesen atau pemberi perkhidmatan aplikasi kandungan berlesen tidak boleh menzahirkan kepada pengguna yang membuat laporan itu apa-apa maklumat yang berhubungan dengan laporan yang dibuat kepada agensi penguatkuasaan itu.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## KUASA SURUHANJAYA
 
@@ -888,7 +888,7 @@ yang berhubungan dengan pematuhannya dengan mana-mana peruntukan Akta ini kepada
 
 <!-- page 38 -->
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## AKU JANJI DAN NOTIS KETIDAKPATUHAN
 
@@ -946,7 +946,7 @@ yang berhubungan dengan pematuhannya dengan mana-mana peruntukan Akta ini kepada
 
 (3) Apa-apa penalti kewangan yang genap masa dan kena dibayar di bawah seksyen ini boleh didapatkan sebagai suatu hutang sivil yang kena dibayar kepada Suruhanjaya.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## TRIBUNAL RAYUAN KESELAMATAN DALAM TALIAN
 
@@ -1120,7 +1120,7 @@ boleh merayu terhadap suruhan bertulis, penentuan, arahan atau keputusan itu kep
 
 <!-- page 47 -->
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## PENGUATKUASAAN
 
@@ -1336,7 +1336,7 @@ melakukan suatu kesalahan dan apabila disabit kesalahan, boleh didenda tidak mel
 
 68. Walau apa pun mana-mana undang-undang bertulis yang bertentangan, Mahkamah Sesyen hendaklah mempunyai bidang kuasa untuk membicarakan mana-mana kesalahan di bawah Akta ini.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## PELBAGAI
 
@@ -1538,7 +1538,7 @@ bagi apa-apa perbuatan atau peninggalan yang dilakukan dengan suci hati dalam me
 
 (3) Jika seseorang telah memberikan persetujuannya bagi suatu suruhan bertulis, notis secara bertulis, arahan atau dokumen lain disampaikan atau diberitahukan kepadanya melalui perkhidmatan elektronik, suruhan bertulis, notis secara bertulis, arahan atau dokumen lain itu hendaklah disifatkan telah disampaikan atau diberitahu pada masa apabila notis elektronik itu dihantar ke akaunnya melalui perkhidmatan elektronik itu.
 
-## Jadual Pertama
+## JADUAL PERTAMA
 
 [Seksyen 4]
 
@@ -1572,7 +1572,7 @@ Nota:
 
 (c) Bagi maksud perenggan 9, kandungan yang mengalakkan kesedaran atau pendidikan yang berhubungan dengan penyalahgunaan dadah bukan merupakan kandungan yang menggalakkan penggunaan atau penjualan dadah berbahaya
 
-## Jadual Kedua
+## JADUAL KEDUA
 
 [Seksyen 4]
 
@@ -1586,7 +1586,7 @@ Nota:
 
 Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk meningkatkan dan menggalakkan keselamatan dalam talian di Malaysia dengan mengawal selia kandungan memudaratkan, menggariskan kewajipan dan obligasi pemberi perkhidmatan aplikasi, pemberi perkhidmatan aplikasi kandungan dan pemberi perkhidmatan rangkaian, dan untuk mengadakan peruntukan bagi perkara yang berkaitan. Akta yang dicadangkan yang terpakai bagi pemberi perkhidmatan aplikasi, pemberi perkhidmatan aplikasi kandungan dan pemberi perkhidmatan rangkaian yang dilesenkan di bawah Akta Komunikasi dan Multimedia 1998 [Akta 588] dan untuk dilaksanakan dan dikuatkuasakan oleh Suruhanjaya Komunikasi dan Multimedia Malaysia (“Suruhanjaya”) ini bermatlamat untuk mengurangkan kandungan memudaratkan yang terdapat dalam talian dan mengurangkan kesan buruknya yang mungkin berlaku.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I Akta yang dicadangkan memperkatakan tentang perkara permulaan.
 
@@ -1598,7 +1598,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk meningkatka
 
 6. Fasal 4 mengandungi takrif perkataan dan ungkapan tertentu yang digunakan dalam Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 7. Bahagian II Akta yang dicadangkan memperkatakan tentang penubuhan Jawatankuasa Keselamatan dalam Talian (“Jawatankuasa”).
 
@@ -1624,7 +1624,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk meningkatka
 
 15. Fasal 12 bertujuan untuk memperuntukkan bahawa Jawatankuasa boleh mengundang mana-mana orang untuk menghadiri mesyuaratnya bagi maksud memberikan pendapat kepada Jawatankuasa mengenai apa-apa perkara yang dibincangkan.
 
-## Bahagian III
+## BAHAGIAN III
 
 16. Bahagian III Akta yang dicadangkan memperkatakan tentang kewajipan pemberi perkhidmatan aplikasi berlesen dan pemberi perkhidmatan aplikasi kandungan berlesen.
 
@@ -1646,7 +1646,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk meningkatka
 
 24. Fasal 20 bertujuan untuk mengadakan peruntukan bagi kewajipan pemberi perkhidmatan aplikasi berlesen dan pemberi perkhidmatan aplikasi kandungan berlesen untuk menyediakan suatu Pelan Keselamatan dalam Talian mengenai pematuhan terhadap kewajipannya di bawah Bahagian III Akta yang dicadangkan. Pelan Keselamatan dalam Talian hendaklah dijadikan tersedia dalam perkhidmatannya dan hendaklah mudah diakses dan selalu dikemas kini. Suatu salinan Pelan Keselamatan dalam Talian hendaklah dikemukakan kepada Suruhanjaya.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 25. Bahagian IV Akta yang dicadangkan memperkatakan tentang pelaporan kandungan memudaratkan.
 
@@ -1672,7 +1672,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk meningkatka
 
 34. Fasal 29 bertujuan untuk memperuntukkan bahawa pemberi perkhidmatan aplikasi berlesen atau pemberi perkhidmatan aplikasi kandungan berlesen yang membuat laporan kepada mana-mana agensi penguatkuasaan berhubung dengan apa-apa kandungan yang menjadi hal perkara suatu laporan oleh pengguna di bawah fasal 21 tidak boleh menzahirkan kepada pengguna apa-apa maklumat yang berhubungan dengan laporan yang dibuat kepada agensi penguatkuasaan itu.
 
-## Bahagian V
+## BAHAGIAN V
 
 35. Bahagian V Akta yang dicadangkan memperkatakan tentang kuasa Suruhanjaya di bawah Akta yang dicadangkan.
 
@@ -1690,17 +1690,13 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk meningkatka
 
 41. Fasal 35 bertujuan untuk memperuntukkan bahawa fungsi dan kuasa Suruhanjaya di bawah Akta yang dicadangkan adalah sebagai tambahan kepada, dan tidak mengurangkan, fungsi dan kuasa Suruhanjaya di bawah Akta Komunikasi dan Multimedia 1998 dan Akta Suruhanjaya Komunikasi dan Multimedia Malaysia 1998 [Akta 589].
 
-## Bahagian VI
+## BAHAGIAN VI
 
 42. Bahagian VI Akta yang dicadangkan memperkatakan tentang aku janji oleh pemberi perkhidmatan aplikasi berlesen dan pemberi perkhidmatan aplikasi kandungan berlesen dan pengeluaran notis ketidakpatuhan oleh Suruhanjaya.
 
 43. Fasal 36 bertujuan untuk memperuntukkan bahawa pemberi perkhidmatan aplikasi berlesen atau pemberi perkhidmatan aplikasi kandungan berlesen boleh memberikan suatu aku janji kepada Suruhanjaya berkenaan dengan pematuhan apa-apa kewajipannya di bawah Bahagian III Akta yang dicadangkan sebelum suatu notis ketidakpatuhan dikeluarkan oleh Suruhanjaya di bawah fasal 37. Fasal ini tidak memperuntukkan apa-apa penalti bagi kegagalan untuk mematuhi aku janji itu bagi menggalakkan pematuhan pemberi perkhidmatan aplikasi berlesen atau pemberi perkhidmatan aplikasi kandungan berlesen dengan kewajipannya di bawah Bahagian III Akta yang dicadangkan.
 
-44. Fasal 37 bertujuan untuk mengadakan peruntukan bagi pengeluaran notis ketidakpatuhan oleh Suruhanjaya kepada pemberi perkhidmatan aplikasi berlesen atau pemberi perkhidmatan aplikasi kandungan berlesen jika Suruhanjaya mempunyai alasan yang munasabah untuk mempercayai bahawa pemberi perkhidmatan aplikasi berlesen atau pemberi perkhidmatan aplikasi kandungan berlesen telah tidak mematuhi mana-mana kewajipannya di bawah
-
-## Bahagian III Akta yang dicadangkan. Fasal ini juga bertujuan untuk mengadakan
-
-peruntukan bagi butir-butir untuk dimasukkan dalam notis ketidakpatuhan itu dan bagi tindakan untuk diambil oleh pemberi perkhidmatan aplikasi berlesen atau pemberi perkhidmatan aplikasi kandungan berlesen apabila menerima notis ketidakpatuhan itu.
+44. Fasal 37 bertujuan untuk mengadakan peruntukan bagi pengeluaran notis ketidakpatuhan oleh Suruhanjaya kepada pemberi perkhidmatan aplikasi berlesen atau pemberi perkhidmatan aplikasi kandungan berlesen jika Suruhanjaya mempunyai alasan yang munasabah untuk mempercayai bahawa pemberi perkhidmatan aplikasi berlesen atau pemberi perkhidmatan aplikasi kandungan berlesen telah tidak mematuhi mana-mana kewajipannya di bawah Bahagian III Akta yang dicadangkan. Fasal ini juga bertujuan untuk mengadakan peruntukan bagi butir-butir untuk dimasukkan dalam notis ketidakpatuhan itu dan bagi tindakan untuk diambil oleh pemberi perkhidmatan aplikasi berlesen atau pemberi perkhidmatan aplikasi kandungan berlesen apabila menerima notis ketidakpatuhan itu.
 
 45. Fasal 38 bertujuan untuk mengadakan peruntukan bagi kajian semula notis ketidakpatuhan oleh Suruhanjaya apabila menerima permohonan daripada pemberi perkhidmatan aplikasi berlesen atau pemberi perkhidmatan aplikasi kandungan berlesen yang disampaikan dengan notis ketidakpatuhan.
 
@@ -1708,7 +1704,7 @@ peruntukan bagi butir-butir untuk dimasukkan dalam notis ketidakpatuhan itu dan 
 
 46. Fasal 39 bertujuan untuk mengadakan peruntukan bagi kuasa Suruhanjaya untuk mengenakan penalti kewangan terhadap pemberi perkhidmatan aplikasi berlesen atau pemberi perkhidmatan aplikasi kandungan berlesen bagi apa-apa ketidakpatuhan dengan kewajipannya di bawah Bahagian III Akta yang dicadangkan. Fasal ini juga memperuntukkan bahawa mana-mana pemberi perkhidmatan aplikasi berlesen atau pemberi perkhidmatan aplikasi kandungan berlesen yang tidak mematuhi mana-mana kewajipannya di bawah Bahagian III Akta yang dicadangkan adalah bertanggungan untuk membayar kepada Suruhanjaya suatu penalti kewangan yang tidak melebihi sepuluh juta ringgit.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 47. Bahagian VII Akta yang dicadangkan memperkatakan tentang Tribunal Rayuan Keselamatan dalam Talian.
 
@@ -1738,7 +1734,7 @@ peruntukan bagi butir-butir untuk dimasukkan dalam notis ketidakpatuhan itu dan 
 
 59. Fasal 51 bertujuan untuk mengadakan peruntukan bagi penetapan seorang pegawai awam sebagai Setiausaha kepada Tribunal Rayuan Keselamatan dalam Talian bagi maksud membantu Tribunal Rayuan Keselamatan dalam Talian dalam menjalankan fungsinya di bawah Akta yang dicadangkan.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 60. Bahagian VIII Akta yang dicadangkan memperkatakan tentang peruntukan penguatkuasaan.
 
@@ -1778,7 +1774,7 @@ peruntukan bagi butir-butir untuk dimasukkan dalam notis ketidakpatuhan itu dan 
 
 77. Fasal 68 bertujuan untuk memperuntukkan bahawa Mahkamah Sesyen hendaklah mempunyai bidang kuasa untuk membicarakan suatu kesalahan di bawah Akta yang dicadangkan.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 78. Bahagian IX Akta yang dicadangkan mengandungi peruntukan pelbagai.
 

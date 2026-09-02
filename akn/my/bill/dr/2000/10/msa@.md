@@ -36,25 +36,55 @@ PENDAFfARAN PETUNJUK GEOGRAFI
 
 <!-- page 2 -->
 
-Rang Undang-Undang 2 Permohonan untuk mendapatkan pendaftaran hendaklah diiklankan 13. Bangkangan terhadap permohonan untuk mendapatkan pendaftaran 14. IS. Jawapan daripada pemohon 16. Pemfailan keterangan dokumentar sebagai sokongan 17. Kegagalan untuk memfailkan keterangan dokumentar 18. Rayuan kepada Mahkamah 19. Pendaftaran petunjuk geografi 20. Anggapan jika petunjuk geografi didaftarkan 21. Hak penggunaan
+Rang Undang-Undang 2 Permohonan untuk mendapatkan pendaftaran hendaklah diiklankan
+
+13. Bangkangan terhadap permohonan untuk mendapatkan pendaftaran
+
+14. IS. Jawapan daripada pemohon
+
+16. Pemfailan keterangan dokumentar sebagai sokongan
+
+17. Kegagalan untuk memfailkan keterangan dokumentar
+
+18. Rayuan kepada Mahkamah
+
+19. Pendaftaran petunjuk geografi
+
+20. Anggapan jika petunjuk geografi didaftarkan
+
+21. Hak penggunaan
 
 ## BAHAGIAN V
 
 ## KUASA-KUASA LAIN PENDAFTAR
 
-22. Pembatalan dan pembetulan pendaftaran 23. Pembetulan kesilapan 24. Pelanjutan masa 25. Kuasa umuk mengawardkan kos 26. Jaminan kos
+22. Pembatalan dan pembetulan pendaftaran
+
+23. Pembetulan kesilapan
+
+24. Pelanjutan masa
+
+25. Kuasa umuk mengawardkan kos
+
+26. Jaminan kos
 
 ## BAHAGIAN VI
 
 ## PERUNTUKAN KHAS
 
-27. Takat pemakaian 28. Kecualian kerana penggunaan terdahulu 29. Kecualian kerana penggunaan nama sendiri
+27. Takat pemakaian
+
+28. Kecualian kerana penggunaan terdahulu
+
+29. Kecualian kerana penggunaan nama sendiri
 
 ## BAHAGIAN VII
 
 ## PELBAGAI
 
-30. Tatacara rayuan 3 I. Keputusan Mahkamah adalah muktamad 32. Peraturan-peraturan
+30. Tatacara rayuan 3 I. Keputusan Mahkamah adalah muktamad
+
+32. Peraturan-peraturan
 
 ## JADUAL
 
@@ -356,9 +386,7 @@ Rang Undang-Undang 12
 
 (1)
 
-### 17.
-
-Jika pemohon gagal memfailkan keterangan dokumentar sebagaimana yang dikehendaki di bawah subseksyen 16(1). Pendaftar adalah berhak untuk menganggap permohonan untuk pendaftaran itu tidak lagi mahu diteruskan.
+17. Jika pemohon gagal memfailkan keterangan dokumentar sebagaimana yang dikehendaki di bawah subseksyen 16(1). Pendaftar adalah berhak untuk menganggap permohonan untuk pendaftaran itu tidak lagi mahu diteruskan.
 
 (2) Jika pembangkang gagal memfailkan keterangan dokumentar sebagaimana yang dikehendaki di bawah subseksyen 16(1), Pendaftar adalah berhak untuk menganggap bangkangan itu tidak lagi mahu diteruskan dan hendaklah mendaftarkan permohonan itu dan mengeluarkan suatu perakuan pendaftaran kepada pemohon dalam borang yang ditetapkan.
 
@@ -396,17 +424,13 @@ maka Pendaftar hendaklah mendaftarkan petunjuk geografi itu dan mengeluarkan sua
 
 ### Anggapan jika petunjuk geografi didaftarkan
 
-20.
-
-(I) Sesuatu petunjuk geografi yang didaftarkan di bawah Akta ini hendaklah, dalam mana-mana prosiding, membangkitkan suatu anggapan bahawa petunjuk itu ialah suatu petunjuk geografi mengikut pengertian seksyen 2.
+20. (I) Sesuatu petunjuk geografi yang didaftarkan di bawah Akta ini hendaklah, dalam mana-mana prosiding, membangkitkan suatu anggapan bahawa petunjuk itu ialah suatu petunjuk geografi mengikut pengertian seksyen 2.
 
 (2) Sesuatu perakuan pendaftaran yang dikeluarkan di bawah Akta ini hendaklah menjadi keteranganprimafacie mengenai fakta yang dinyatakan dalam perakuan itu dan mengenai kesahan pendaftaran itu.
 
 ### Hak penggunaan
 
-21.
-
-(I) Dalam hal petunjuk geografi yang berdaftar, hanya pengeluar yang menjalankan aktivitinya dalam kawasan geografi yang dinyatakan dalam Daftar hendaklah mempunyai hak untuk menggunakan suatu petunjuk geografi yang berdaftar dalam perjalanan perdagangan.
+21. (I) Dalam hal petunjuk geografi yang berdaftar, hanya pengeluar yang menjalankan aktivitinya dalam kawasan geografi yang dinyatakan dalam Daftar hendaklah mempunyai hak untuk menggunakan suatu petunjuk geografi yang berdaftar dalam perjalanan perdagangan.
 
 (2) Hak penggunaan itu hendaklah berkenaan dengan keluaran yang dinyatakan dalam Daftar mengikut kualiti, reputasi atau ciri yang dinyatakan dalam Daftar.
 
@@ -464,9 +488,7 @@ Kuasa untuk mengawardkan kos
 
 Jaminan kos
 
-(1) Pendaftar boleh menghendaki mana-mana orang yang
-
-26. memberikan notis bangkangan di bawah seksyen 14, atau seseorang yang memberikan jawapan kepada notis bangkangan di bawah seksyen 15, dan tidak bermastautin atau menjalankan perniagaan di Malaysia supaya memberikan jaminan kos bagi prosiding di hadapan Pendaftar berhubung dengan bangkangan atau permohonan itu.
+(1) Pendaftar boleh menghendaki mana-mana orang yang 26. memberikan notis bangkangan di bawah seksyen 14, atau seseorang yang memberikan jawapan kepada notis bangkangan di bawah seksyen 15, dan tidak bermastautin atau menjalankan perniagaan di Malaysia supaya memberikan jaminan kos bagi prosiding di hadapan Pendaftar berhubung dengan bangkangan atau permohonan itu.
 
 <!-- page 16 -->
 

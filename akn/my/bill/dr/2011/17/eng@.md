@@ -4,13 +4,13 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Interpretation
 
-## Part II
+## PART II
 
 ## NATIONAL WAGES CONSULTATIVE COUNCIL
 
@@ -40,7 +40,7 @@
 
 <!-- page 2 -->
 
-## Part III
+## PART III
 
 ## MINIMUM WAGES ORDER
 
@@ -54,7 +54,7 @@
 
 25. Council to review minimum wages order
 
-## Part IV
+## PART IV
 
 ## INVESTIGATION AND ENFORCEMENT
 
@@ -94,7 +94,7 @@
 
 <!-- page 3 -->
 
-## Part V
+## PART V
 
 ## OFFENCES AND PENALTIES
 
@@ -108,7 +108,7 @@
 
 47. Penalty in the case of a repeated offence
 
-## Part VI
+## PART VI
 
 ## GENERAL
 
@@ -150,7 +150,7 @@ An Act to establish a National Wages Consultative Council with the responsibilit
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -208,7 +208,7 @@ but does not include the person or class of persons to whom the minimum wages or
 
 “Secretary” means the Secretary of the Council appointed under section 5.
 
-## Part II
+## PART II
 
 ## NATIONAL WAGES CONSULTATIVE COUNCIL
 
@@ -430,7 +430,7 @@ but does not include the person or class of persons to whom the minimum wages or
 
 (b) any omission, defect or irregularity not affecting the merits of the case.
 
-## Part III
+## PART III
 
 ## MINIMUM WAGES ORDER
 
@@ -508,7 +508,7 @@ recommendation—
 
 (4) Where the Council is satisfied that any matter specified in the minimum wages order needs to be amended, sections 21, 22 and 23 shall apply.
 
-## Part IV
+## PART IV
 
 ## INVESTIGATION AND ENFORCEMENT
 
@@ -730,7 +730,7 @@ of any statement made by him to an enforcement officer in the course of an inves
 
 <!-- page 26 -->
 
-## Part V
+## PART V
 
 ## OFFENCES AND PENALTIES
 
@@ -768,7 +768,7 @@ of any statement made by him to an enforcement officer in the course of an inves
 
 47. Any person convicted of an offence under this Act shall, in the case of a repeated offence, be liable to a fine not exceeding twenty thousand ringgit or to imprisonment for a term not exceeding five years.
 
-## Part VI
+## PART VI
 
 ## GENERAL
 
@@ -924,7 +924,7 @@ At present, Act 195 is only applicable with respect to the minimum wages if the 
 
 The proposed Act also seeks to provide more enforcement powers to ensure compliance of the minimum wages order by employers in order to protect the interest of the employees to whom the minimum wages order is applicable.
 
-## Part I
+## PART I
 
 2. Part I deals with preliminary matters.
 
@@ -932,7 +932,7 @@ The proposed Act also seeks to provide more enforcement powers to ensure complia
 
 4. Clause 2 contains the definitions of certain expressions used in the proposed Act.
 
-## Part II
+## PART II
 
 5. Part II of the proposed Act which contains clauses 3 to 20 deals with the establishment and functions and powers of the Council.
 
@@ -976,7 +976,7 @@ The proposed Act also seeks to provide more enforcement powers to ensure complia
 
 <!-- page 35 -->
 
-## Part III
+## PART III
 
 24. Part III of the proposed Act which contains clauses 21 to 25 deals with the minimum wages order.
 
@@ -990,7 +990,7 @@ The proposed Act also seeks to provide more enforcement powers to ensure complia
 
 29. Clause 25 requires the Council to review the minimum wages order once in every two years.
 
-## Part IV
+## PART IV
 
 30. Part IV of the proposed Act which contains clauses 26 to 42 deals with investigation and enforcement provisions.
 
@@ -1026,7 +1026,7 @@ The proposed Act also seeks to provide more enforcement powers to ensure complia
 
 45. Clause 42 seeks to provide for the admissibility of documents. The enforcement officers may prepare a report which, among others, consists of the difference between the minimum wages rates as specified in the minimum wages order and the basic wages paid by an employer to an employee, including the outstanding differences. This report and any document indicating the payment of wages shall be prima facie evidence in any proceedings.
 
-## Part V
+## PART V
 
 46. Part V of the proposed Act which contains clauses 43 to 47 deals with offences and penalties.
 
@@ -1042,7 +1042,7 @@ The proposed Act also seeks to provide more enforcement powers to ensure complia
 
 51. Clause 47 provides for the penalty in the case of a repeated offence.
 
-## Part VI
+## PART VI
 
 52. Part VI of the Act which contains clauses 48 to 61 deals with general provisions.
 

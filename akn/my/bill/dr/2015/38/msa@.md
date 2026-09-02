@@ -8,29 +8,43 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## MAJLIS KESELAMATAN NEGARA
 
-3. Penubuhan Majlis Keselamatan Negara 4. Fungsi Majlis 5. Kuasa Majlis 6. Keanggotaan Majlis 7. Mesyuarat 8. Tatacara mesyuarat 9. Penjalanan sementara fungsi Pengerusi 10. Majlis boleh mengundang orang lain untuk menghadiri mesyuarat 11. Tatacara 12. Majlis boleh menubuhkan jawatankuasa 13. Setiausaha Majlis 14. Dana
+3. Penubuhan Majlis Keselamatan Negara 4. Fungsi Majlis 5. Kuasa Majlis 6. Keanggotaan Majlis 7. Mesyuarat 8. Tatacara mesyuarat 9. Penjalanan sementara fungsi Pengerusi
 
-## Bahagian III
+10. Majlis boleh mengundang orang lain untuk menghadiri mesyuarat
+
+11. Tatacara
+
+12. Majlis boleh menubuhkan jawatankuasa
+
+13. Setiausaha Majlis
+
+14. Dana
+
+## BAHAGIAN III
 
 ## KEWAJIPAN KETUA PENGARAH KESELAMATAN NEGARA
 
 ## DAN ENTITI KERAJAAN
 
-15. Pelantikan Ketua Pengarah Keselamatan Negara dan pegawai 16. Kewajipan dan kuasa Ketua Pengarah 17. Kewajipan Entiti Kerajaan berhubung dengan maklumat atau risikan
+15. Pelantikan Ketua Pengarah Keselamatan Negara dan pegawai
+
+16. Kewajipan dan kuasa Ketua Pengarah
+
+17. Kewajipan Entiti Kerajaan berhubung dengan maklumat atau risikan
 
 <!-- page 2 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PERISYTIHARAN KAWASAN KESELAMATAN
 
@@ -42,7 +56,7 @@
 
 21. Kewajipan dan kuasa Pengarah Operasi
 
-## Bahagian V
+## BAHAGIAN V
 
 ## KUASA KHAS PENGARAH OPERASI DAN PASUKAN KESELAMATAN
 
@@ -78,7 +92,7 @@
 
 36. Penyerahan orang yang ditangkap dan benda yang disita kepada polis
 
-## Bahagian VI
+## BAHAGIAN VI
 
 AM
 
@@ -94,7 +108,7 @@ AM
 
 41. Pendakwaan 42. Peraturan-peraturan
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## KECUALIAN
 
@@ -108,7 +122,7 @@ Suatu Akta untuk mengadakan peruntukan bagi penubuhan Majlis Keselamatan Negara,
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -160,7 +174,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 “perisytiharan” ertinya perisytiharan kawasan keselamatan yang dibuat di bawah seksyen 18.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## MAJLIS KESELAMATAN NEGARA
 
@@ -286,7 +300,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 14. Kerajaan hendaklah mengadakan dana yang mencukupi bagi Majlis setiap tahun untuk membolehkan Majlis melaksanakan fungsinya di bawah Akta ini.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## KEWAJIPAN KETUA PENGARAH KESELAMATAN NEGARA DAN
 
@@ -338,7 +352,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 13 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PERISYTIHARAN KAWASAN KESELAMATAN
 
@@ -408,7 +422,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 16 -->
 
-## Bahagian V
+## BAHAGIAN V
 
 ## KUASA KHAS PENGARAH OPERASI DAN PASUKAN
 
@@ -622,7 +636,7 @@ memusnahkan atau membenarkan pemusnahan bangunan atau struktur itu.
 
 36. Mana-mana orang yang ditangkap dan diletakkan dalam jagaan di bawah Akta ini dan apa-apa benda yang disita hendaklah diserahkan kepada pegawai yang bertanggungjawab bagi balai polis yang terdekat tanpa kelengahan yang tidak perlu, berserta dengan laporan mengenai hal keadaan yang menyebabkan penangkapan atau penyitaan itu.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 AM
 
@@ -672,7 +686,7 @@ AM
 
 (3) Peraturan-peraturan yang dibuat di bawah Akta ini boleh mengadakan peruntukan bagi apa-apa tindakan atau peninggalan yang melanggar peraturan-peraturan itu menjadi suatu kesalahan dan boleh mengadakan peruntukan bagi penalti denda tidak melebihi satu ratus ribu ringgit atau pemenjaraan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## KECUALIAN
 
@@ -692,7 +706,7 @@ AM
 
 Akta Majlis Keselamatan Negara 2015 yang dicadangkan ini (“Akta yang dicadangkan”) bertujuan untuk menubuhkan Majlis Keselamatan Negara dengan kuasa, antaranya, untuk mengawal dan menyelaras, dan untuk mengeluarkan arahan kepada, Entiti Kerajaan mengenai perkara yang berkaitan dengan keselamatan negara. Akta yang dicadangkan juga memberi Perdana Menteri kuasa, atas nasihat Majlis, untuk mengisytiharkan kawasan tertentu di Malaysia sebagai kawasan keselamatan. Kuasa khas diberikan kepada Pasukan Keselamatan di dalam kawasan keselamatan.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I memperkatakan perkara permulaan.
 
@@ -700,7 +714,7 @@ Akta Majlis Keselamatan Negara 2015 yang dicadangkan ini (“Akta yang dicadangk
 
 4. Fasal 2 mengandungi takrif perkataan tertentu yang digunakan dalam Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 5. Bahagian II mengandungi peruntukan yang berhubungan dengan penubuhan Majlis Keselamatan Negara, dan fungsi dan kuasanya.
 
@@ -730,7 +744,7 @@ Akta Majlis Keselamatan Negara 2015 yang dicadangkan ini (“Akta yang dicadangk
 
 17. Fasal 14 bertujuan untuk menghendaki Kerajaan untuk memperuntukkan dana tahunan yang mencukupi bagi Majlis untuk membolehkan Majlis melaksanakan fungsinya.
 
-## Bahagian III
+## BAHAGIAN III
 
 18. Bahagian III mengadakan peruntukan bagi pelantikan dan kewajipan Ketua Pengarah Keselamatan Negara dan pegawainya, dan kewajipan Entiti Kerajaan berhubung dengan maklumat dan risikan.
 
@@ -740,7 +754,7 @@ Akta Majlis Keselamatan Negara 2015 yang dicadangkan ini (“Akta yang dicadangk
 
 21. Fasal 17 bertujuan untuk mengenakan kewajipan ke atas Entiti Kerajaan untuk melaporkan dengan serta-merta kepada Majlis melalui Ketua Pengarah apa-apa maklumat atau risikan yang menjejaskan atau berkemungkinan menjejaskan keselamatan negara berserta penilaian kebolehpercayaan maklumat atau risikan itu. Fasal ini juga bertujuan untuk mengenakan kewajipan ke atas Entiti Kerajaan atau mana-mana orang, atas arahan Majlis, untuk dengan serta-merta menjadikan tersedia apa-apa maklumat atau risikan dalam milikannya yang berhubung dengan keselamatan negara kepada Majlis melalui Ketua Pengarah.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 22. Bahagian IV bertujuan untuk mengadakan peruntukan bagi perisytiharan kawasan keselamatan, dan pelantikan Pegarah Operasi dan kewajipan dan kuasanya.
 
@@ -756,7 +770,7 @@ bahaya yang serius kepada orang ramai, atau bahaya yang serius kepada wilayah, e
 
 26. Fasal 21 bertujuan untuk mengadakan peruntukan bagi kewajipan dan kuasa Pengarah Operasi.
 
-## Bahagian V
+## BAHAGIAN V
 
 27. Bahagian V memperkatakan kuasa khas Pengarah Operasi dan Pasukan Keselamatan yang dikerah tugas ke kawasan keselamatan.
 
@@ -802,7 +816,7 @@ orang itu telah terbunuh di dalam kawasan keselamatan akibat daripada operasi ya
 
 42. Fasal 36 bertujuan untuk menghendaki mana-mana orang yang ditangkap dan diletakkan dalam jagaan di bawah Akta yang dicadangkan dan apa-apa benda yang disita hendaklah diserahkan kepada pegawai yang bertanggungjawab bagi balai polis yang terdekat tanpa kelengahan yang tidak sepatutnya berserta dengan laporan hal keadaan yang menyebabkan penangkapan atau penyitaan itu.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 43. Bahagian VI memperkatakan peruntukan am.
 
@@ -818,7 +832,7 @@ orang itu telah terbunuh di dalam kawasan keselamatan akibat daripada operasi ya
 
 49. Fasal 42 bertujuan untuk memberi Perdana Menteri kuasa untuk membuat peraturan-peraturan di bawah Akta yang dicadangkan.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 50. Fasal 43 dan 44 bertujuan untuk mengadakan peruntukan kecualian yang berhubung dengan Majlis Keselamatan Negara yang sedia ada yang ditubuhkan oleh Kerajaan Persekutuan dan jawatankuasa yang sedia ada di bawah Majlis Keselamatan Negara yang sedia ada.
 

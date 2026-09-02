@@ -96,7 +96,9 @@ for the purposes of the securities laws.”; and
 
 (c) by substituting for subsection (3) the following subsection:
 
-“(3) In a prescription made under subsection (1) or (2) in respect of securities, derivatives, capital market products, Islamic securities, Islamic derivatives, or Islamic capital market products, the Minister may—
+“(3) In a prescription made under subsection (1) or
+
+(2) in respect of securities, derivatives, capital market products, Islamic securities, Islamic derivatives, or Islamic capital market products, the Minister may—
 
 (a) for the purposes of regulating the issue, offer for subscription or purchase, or the making of an invitation to subscribe for or purchase, any securities or Islamic securities, specify in the prescription any provision of this Act to apply to such securities or Islamic securities;
 
@@ -1096,11 +1098,7 @@ Subdivision 3 — Islamic Securities
 
 ### Application of Division 4 of Part VI of this Act
 
-316d. Any reference to the “borrower” in Division 4 of
-
-## Part VI of this Act shall be construed as a reference to an
-
-“issuer of sukuk” or “issuer of an Islamic structured product” for the purposes of the application of those provisions to sukuk or Islamic structured product.”.
+316d. Any reference to the “borrower” in Division 4 of Part VI of this Act shall be construed as a reference to an “issuer of sukuk” or “issuer of an Islamic structured product” for the purposes of the application of those provisions to sukuk or Islamic structured product.”.
 
 ### Amendment of section 319
 
@@ -1290,23 +1288,13 @@ This Bill seeks to amend the Capital Markets and Services Act 2007 (“Act 671�
 
 8. Clause 7 seeks to amend section 30 of Act 671 to enable the Commission to publish a suspension order in relation to an exchange, or the notice of the extension of such suspension order in at least one national language daily newspaper and one English language daily newspaper for the public’s information rather than by publishing it in the Gazette.
 
-9. Clause 8 seeks to delete Subdivision 3 of Division 2 of Part II of Act 671 as it has been moved to the new Subdivision 5a of Division 2 of
-
-## Part II in the Act.
+9. Clause 8 seeks to delete Subdivision 3 of Division 2 of Part II of Act 671 as it has been moved to the new Subdivision 5a of Division 2 of Part II in the Act.
 
 10. Clause 9 seeks to substitute Subdivision 4 of Division 2 of Part II of Act 671 to provide for a new regulatory framework for recognized market replacing the registered electronic facility. This Subdivision provides for the application of registration of a recognized market operator and the power of the Commission to withdraw a registration and to review the status of a recognized market.
 
-11. Clause 10 seeks to introduce a new Subdivision 5a into Division 2 of
+11. Clause 10 seeks to introduce a new Subdivision 5a into Division 2 of Part II of Act 671 which contains the provisions previously under the deleted Subdivision 3 of Division 2 of Part II. This Subdivision seeks to empower the Commission to transfer control and access of an exchange to a statutory manager as may be appointed by the Commission, for the purposes of managing systemic risk, public interest, etc., the power of the statutory managers and power of the Commission to impose an annual fee or any other fee payable by an exchange. This new subdivision will also provide for the non-application of the provisions in the Companies Act that prohibits the offering of private companies’ shares to the public, where the offering of the shares is made on a market regulated under the securities laws.
 
-## Part II of Act 671 which contains the provisions previously under the deleted
-
-Subdivision 3 of Division 2 of Part II. This Subdivision seeks to empower the Commission to transfer control and access of an exchange to a statutory manager as may be appointed by the Commission, for the purposes of managing systemic risk, public interest, etc., the power of the statutory managers and power of the Commission to impose an annual fee or any other fee payable by an exchange. This new subdivision will also provide for the non-application of the provisions in the Companies Act that prohibits the offering of private companies’ shares to the public, where the offering of the shares is made on a market regulated under the securities laws.
-
-12. Clause 11 seeks to introduce a new Subdivision 7 into Division 2 of
-
-## Part II of Act 671 to safeguard the enforceability of netting provisions for
-
-contracts traded on the exchange and contracts facilitated by the clearing house, which include securities borrowing and lending agreements. The new subdivision provides that any powers exercised by the Commission in relation
+12. Clause 11 seeks to introduce a new Subdivision 7 into Division 2 of Part II of Act 671 to safeguard the enforceability of netting provisions for contracts traded on the exchange and contracts facilitated by the clearing house, which include securities borrowing and lending agreements. The new subdivision provides that any powers exercised by the Commission in relation
 
 <!-- page 50 -->
 

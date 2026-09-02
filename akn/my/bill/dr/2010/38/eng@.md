@@ -104,9 +104,27 @@ Interpretation. 359. In this Part, unless the context otherwise requires—
 
 “salvor” in relation to a ship, means every person rendering services directly connected with salvage operations carried out in relation to that ship.
 
-Limitation
+<!-- marginal: Limitation -->
 
-360. (1) The Convention on Limitation of Liability of liability for Maritime Claims 1976 as amended by the Protocol of owners, salvors, etc., of 1996 to amend the Convention on Limitation of for maritime Liability for Maritime Claims 1976 (referred to as the claims. “Protocol of 1996”), and as set out in Part I of the Sixteenth Schedule (referred to in this Part and Part II of that Schedule as “the Convention”), shall have the force of law in Malaysia.
+360. (1) The Convention on Limitation of Liability
+
+<!-- marginal: of liability -->
+
+for Maritime Claims 1976 as amended by the Protocol
+
+<!-- marginal: of owners, -->
+
+<!-- marginal: salvors, etc., -->
+
+of 1996 to amend the Convention on Limitation of
+
+<!-- marginal: for maritime -->
+
+Liability for Maritime Claims 1976 (referred to as the
+
+<!-- marginal: claims. -->
+
+“Protocol of 1996”), and as set out in Part I of the Sixteenth Schedule (referred to in this Part and Part II of that Schedule as “the Convention”), shall have the force of law in Malaysia.
 
 (2) Part II of the Sixteenth Schedule shall have effect in connection with the Convention and subsection (1) shall have effect subject to the provisions of that Part.
 
@@ -128,9 +146,23 @@ Limitation
 
 (7) Notwithstanding the provisions of Articles 6 and 7 of Part I of the Sixteenth Schedule, the Minister may by order published in the Gazette provide specific provisions on the limitation of liability to ships which are intended for navigation on inland waterways and ships of less than 300 tons.
 
-Compulsory
+<!-- marginal: Compulsory -->
 
-361. (1) Any ship shall not enter or leave a port insurance in Malaysia, or any part of Malaysian waters or the or other financial exclusive economic zone, unless there is in force in security. respect of the ship a contract of insurance or other financial security satisfying the requirements of the Convention in respect of the limits of liability.
+361. (1) Any ship shall not enter or leave a port
+
+<!-- marginal: insurance -->
+
+in Malaysia, or any part of Malaysian waters or the
+
+<!-- marginal: or other -->
+
+<!-- marginal: financial -->
+
+exclusive economic zone, unless there is in force in
+
+<!-- marginal: security. -->
+
+respect of the ship a contract of insurance or other financial security satisfying the requirements of the Convention in respect of the limits of liability.
 
 <!-- page 6 -->
 
@@ -156,9 +188,13 @@ Compulsory
 
 <!-- page 7 -->
 
-Release of
+<!-- marginal: Release of -->
 
-362. Where the Court has found that a person who has ships, etc. incurred a liability under this Part is entitled to limit that liability under this Part and he has paid a sum or deposited a bank guarantee or security into the Court for a sum of not less than that amount—
+362. Where the Court has found that a person who has
+
+<!-- marginal: ships, etc. -->
+
+incurred a liability under this Part is entitled to limit that liability under this Part and he has paid a sum or deposited a bank guarantee or security into the Court for a sum of not less than that amount—
 
 (a) the Court shall order the release of any ship or other property arrested in connection with the claim in respect of that liability or any bail or other security given to avoid such arrest; and
 
@@ -166,15 +202,23 @@ Release of
 
 if the claimant has access to the Court and if the payment or the bank guarantee or security or such part thereof as corresponds to the claim will be actually available to the claimant.
 
-Proof of
+<!-- marginal: Proof of -->
 
-### 363.
+363. In any proceedings under this Part against
 
-In any proceedings under this Part against passengers on board ship. the owner of a ship with respect to loss of life, the passengers lists under Part IV of this Ordinance shall be received as evidence that the person upon whose death proceedings are taken under this Part was a passenger on board the ship at the time of death.
+<!-- marginal: passengers on -->
 
-Exclusion of
+<!-- marginal: board ship. -->
 
-364. The Minister may, by order published in the application. Gazette, pursuant to Article 18 of the Convention exclude—
+the owner of a ship with respect to loss of life, the passengers lists under Part IV of this Ordinance shall be received as evidence that the person upon whose death proceedings are taken under this Part was a passenger on board the ship at the time of death.
+
+<!-- marginal: Exclusion of -->
+
+364. The Minister may, by order published in the
+
+<!-- marginal: application. -->
+
+Gazette, pursuant to Article 18 of the Convention exclude—
 
 (a) the application of Article 2, paragraphs 1(d) and (e) of Part I of the Sixteenth Schedule; and
 
@@ -206,9 +250,13 @@ Compulsory
 
 7. The Ordinance is amended by substituting for section 381 the following section:
 
-“Removal
+<!-- marginal: “Removal -->
 
-381. (1) Where any ship is sunk, stranded or abandoned of wreck. in any port, navigable river, tidal waters or in any place within Malaysian waters in such manner as, in the opinion of the receiver, is a wreck that is or is likely to become a hazard to navigation or a public nuisance, or causes or is likely to cause inconvenience, or causes or is likely to cause harmful consequences to the marine environment, the owner shall, upon the direction of the receiver, locate, mark and remove the wreck and take measures to prevent pollution from the wreck.
+381. (1) Where any ship is sunk, stranded or abandoned
+
+<!-- marginal: of wreck. -->
+
+in any port, navigable river, tidal waters or in any place within Malaysian waters in such manner as, in the opinion of the receiver, is a wreck that is or is likely to become a hazard to navigation or a public nuisance, or causes or is likely to cause inconvenience, or causes or is likely to cause harmful consequences to the marine environment, the owner shall, upon the direction of the receiver, locate, mark and remove the wreck and take measures to prevent pollution from the wreck.
 
 (2) Notwithstanding subsection (1), the owner shall furnish financial security in such amount as determined by the receiver for the purpose of ensuring the performance of all actions which the owner undertakes in pursuance of subsection (1).
 
@@ -236,9 +284,19 @@ Compulsory
 
 8. The Ordinance is amended by inserting after section 381 the following section:
 
-“Compulsory
+<!-- marginal: “Compulsory -->
 
-381A. (1) The owner of any ship of 300 tons and insurance above that enters or leaves a port in Malaysia or any for removal of wreck. part of Malaysian waters shall maintain in respect of that ship a contract of insurance or other financial security in an amount equal to the amount calculated in accordance with Article 6, paragraph (1)(b) of Part I of the Sixteenth Schedule to cover the liability that may be incurred under section 381.
+381A. (1) The owner of any ship of 300 tons and
+
+<!-- marginal: insurance -->
+
+above that enters or leaves a port in Malaysia or any
+
+<!-- marginal: for removal -->
+
+<!-- marginal: of wreck. -->
+
+part of Malaysian waters shall maintain in respect of that ship a contract of insurance or other financial security in an amount equal to the amount calculated in accordance with Article 6, paragraph (1)(b) of Part I of the Sixteenth Schedule to cover the liability that may be incurred under section 381.
 
 (2) This section shall not apply to—
 
@@ -392,11 +450,13 @@ Compulsory
 
 ## CHAPTER I - THE RIGHT OF LIMITATION
 
-Article 1
+## Article 1
 
 Persons entitled to limit liability
 
-1. Shipowners and salvors, as hereinafter defined, may limit their liability in accordance with the rules of this Convention for claims set out in Article 2.
+1. Shipowners and salvors, as hereinafter defined, may limit their liability in accordance with the rules of this Convention for claims set out in
+
+## Article 2.
 
 2. The term “shipowner” shall mean the owner, charterer, manager and operator of a seagoing ship.
 
@@ -412,7 +472,7 @@ Persons entitled to limit liability
 
 7. The act of invoking limitation of liability shall not constitute an admission of liability.
 
-Article 2
+## Article 2
 
 Claims subject to limitation
 
@@ -434,7 +494,7 @@ Claims subject to limitation
 
 <!-- page 17 -->
 
-Article 3
+## Article 3
 
 Claims excepted from limitation
 
@@ -450,13 +510,13 @@ The rules of this Convention shall not apply to—
 
 (e) claims by servants of the shipowner or salvor whose duties are connected with the ship or the salvage operations, including claims of their heirs, dependants or other persons entitled to make such claims, if under the law governing the contract of service between the shipowner or salvor and such servants the shipowner or salvor is not entitled to limit his liability in respect of such claims, or if he is by such law only permitted to limit his liability to an amount greater than that provided for in Article 6.
 
-Article 4
+## Article 4
 
 Contract barring limitation
 
 A person liable shall not be entitled to limit his liability if it is proved that the loss resulted from his personal act or omission, committed with the intent to cause such loss, or recklessly and with knowledge that such loss would probably result.
 
-Article 5
+## Article 5
 
 Counterclaims
 
@@ -466,7 +526,7 @@ Where a person entitled to limitation of liability under the rules of this Conve
 
 ## CHAPTER II - LIMITS OF LIABILITY
 
-Article 6
+## Article 6
 
 The general limits
 
@@ -506,7 +566,7 @@ for each ton in excess of 70,000 tons, 200 Units of Account.
 
 <!-- page 19 -->
 
-Article 7
+## Article 7
 
 The limit for passenger claims
 
@@ -518,13 +578,13 @@ The limit for passenger claims
 
 (b) who, with the consent of the carrier, is accompanying a vehicle or live animals which are covered by a contract for the carriage of goods.
 
-Article 8
+## Article 8
 
 Unit of Account
 
 The Unit of Account referred to in Articles 6 and 7 is the special drawing right as defined by the International Monetary Fund. The amounts mentioned in Articles 6 and 7 shall be converted into the national currency of the State in which limitation is sought, according to the value of that currency at the date the limitation fund shall have been constituted, payment is made, or security is given which under the law of that State is equivalent to such payment.
 
-Article 9
+## Article 9
 
 Aggregation of claims
 
@@ -540,7 +600,7 @@ Aggregation of claims
 
 2. The limits of liability determined in accordance with Article 7 shall apply to the aggregate of all claims subject thereto which may arise on any distinct occasion against the person or persons mentioned in paragraph 2 of Article 1 in respect of the ship referred to in Article 7 and any person for whose act, neglect or default he or they are responsible.
 
-Article 10
+## Article 10
 
 Limitation of liability without constitution of a limitation fund
 
@@ -552,7 +612,7 @@ Limitation of liability without constitution of a limitation fund
 
 ## CHAPTER III - THE LIMITATION FUND
 
-Article 11
+## Article 11
 
 Constitution of the fund
 
@@ -564,7 +624,7 @@ Constitution of the fund
 
 <!-- page 21 -->
 
-Article 12
+## Article 12
 
 Distribution of the fund
 
@@ -576,7 +636,7 @@ Distribution of the fund
 
 4. Where the person liable or any other person establishes that he may be compelled to pay, at a later date, in whole or in part any such amount of compensation with regard to which such person would have enjoyed a right of subrogation pursuant to paragraphs 2 and 3 had the compensation been paid before the fund was distributed, the Court or other competent authority of the State where the fund has been constituted may order that a sufficient sum shall be provisionally set aside to enable such person at such later date to enforce his claim against the fund.
 
-Article 13
+## Article 13
 
 Bar to other actions
 
@@ -596,7 +656,7 @@ Bar to other actions
 
 3. The rules of paragraphs 1 and 2 shall apply only if the claimant may bring a claim against the limitation fund before the Court administering that fund and the fund is actually available and freely transferable in respect of that claim.
 
-Article 14
+## Article 14
 
 Governing law
 
@@ -604,7 +664,7 @@ Subject to the provisions of this Chapter the rules relating to the constitution
 
 ## CHAPTER IV - SCOPE OF APPLICATION
 
-Article 15
+## Article 15
 
 1. This Convention shall apply whenever any person referred to in Article 1 seeks to limit his liability before the Court of a State Party or seeks to procure the release of a ship or other property or the discharge of any security given within the jurisdiction of any such State.
 
@@ -748,11 +808,7 @@ This Bill seeks to amend the Merchant Shipping Ordinance 1952 (“Ordinance”) 
 
 15. Clause 33 seeks to introduce the new Sixteenth Schedule that sets out the provisions in the Convention on Limitation of Liability for Maritime Claims 1976 as amended by the Protocol of 1996 to amend the Convention on Limitation of Liability for Maritime Claims 1976.
 
-16. Clause 34 seeks to extend Parts III, IV, VI, VIII and IX of the Ordinance to Sabah and Sarawak in order to standardise the laws relating to masters and seamen, passenger ships, load line and loading and liability of shipowners for the whole of Malaysia. The equivalent provisions under the Merchant Shipping Ordinance 1960 of Sabah and the Merchant Shipping Ordinance 1960 of Sarawak are currently no longer utilised. This clause also seeks to extend
-
-## Part X of the Ordinance relating to wrecks and salvage to Sabah and Sarawak
-
-to ensure uniform laws in relation thereto for the whole of Malaysia.
+16. Clause 34 seeks to extend Parts III, IV, VI, VIII and IX of the Ordinance to Sabah and Sarawak in order to standardise the laws relating to masters and seamen, passenger ships, load line and loading and liability of shipowners for the whole of Malaysia. The equivalent provisions under the Merchant Shipping Ordinance 1960 of Sabah and the Merchant Shipping Ordinance 1960 of Sarawak are currently no longer utilised. This clause also seeks to extend Part X of the Ordinance relating to wrecks and salvage to Sabah and Sarawak to ensure uniform laws in relation thereto for the whole of Malaysia.
 
 17. Clauses 35 and 36 seek to repeal corresponding provisions in regulations made under the Merchant Shipping Ordinance 1960 of Sarawak, and to provide that Parts III, IV, VI, VIII, IX and X of the Ordinance shall prevail over inconsistent or contrary provisions in any other written laws.
 

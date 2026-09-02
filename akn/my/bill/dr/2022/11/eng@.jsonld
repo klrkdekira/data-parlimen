@@ -79,7 +79,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/11/eng@/~cl_3",
       "@type": "akn:clause",
       "eli:number": "3",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/11/eng@/~cl_3__para_a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/11/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/11/eng@/~cl_3__para_b"
+      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/11/eng@",
       "schema:name": {
         "@language": "en",
@@ -93,14 +96,27 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/11/eng@/~cl_3",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for item 45 the following item: Monthly Wages Employer’s Employee’s Contribution Contribution “45. When wages RM8.10 RM8.10 exceed RM4,000 but not exceed RM4,100 (b) by inserting after item 45 the following items: Monthly Wages Employer’s Employee’s Contribution Contribution “46. When wages RM8.30 RM8.30 exceed RM4,100 but not exceed RM4,200 47. When wages RM8.50 RM8.50 exceed RM4,200 but not exceed RM4,300 48. When wages RM8.70 RM8.70 exceed RM4,300 but not exceed RM4,400 49. When wages RM8.90 RM8.90 exceed RM4,400 but not exceed RM4,500 50. When wages RM9.10 RM9.10 exceed RM4,500 but not exceed RM4,600 51. When wages RM9.30 RM9.30 exceed RM4,600 but not exceed RM4,700 Monthly Wages Employer’s Contribution 52. When wages RM9.50 exceed RM4,700 but not exceed RM4,800 53. When wages RM9.70 exceed RM4,800 but not exceed RM4,900 54. When wages RM9.90 exceed RM4,900 but not exceed RM5,000 55. When wages RM9.90 exceed RM5,000 Amendment of Third Schedule"
+        "@value": "by substituting for item 45 the following item: Monthly Wages Employer’s Employee’s Contribution Contribution “45. When wages RM8.10 RM8.10 exceed RM4,000 but not exceed RM4,100"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/11/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/11/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after item 45 the following items: Monthly Wages Employer’s Employee’s Contribution Contribution “46. When wages RM8.30 RM8.30 exceed RM4,100 but not exceed RM4,200 47. When wages RM8.50 RM8.50 exceed RM4,200 but not exceed RM4,300 48. When wages RM8.70 RM8.70 exceed RM4,300 but not exceed RM4,400 49. When wages RM8.90 RM8.90 exceed RM4,400 but not exceed RM4,500 50. When wages RM9.10 RM9.10 exceed RM4,500 but not exceed RM4,600 51. When wages RM9.30 RM9.30 exceed RM4,600 but not exceed RM4,700 Monthly Wages Employer’s Employee’s Total Contribution Contribution 52. When wages RM9.50 RM9.50 RM19.00 exceed RM4,700 but not exceed RM4,800 53. When wages RM9.70 RM9.70 RM19.40 exceed RM4,800 but not exceed RM4,900 54. When wages RM9.90 RM9.90 RM19.80 exceed RM4,900 but not exceed RM5,000 55. When wages RM9.90 RM9.90 RM19.80”. exceed RM5,000 Amendment of Third Schedule"
       }
     },
     {
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/11/eng@/~cl_4",
       "@type": "akn:clause",
       "eli:number": "4",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/11/eng@/~cl_4__para_a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/11/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/11/eng@/~cl_4__para_b"
+      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/11/eng@",
       "schema:name": {
         "@language": "en",
@@ -114,7 +130,17 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/11/eng@/~cl_4",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for item 45 the following item: Actual monthly wages of the month “45. When wages exceed RM4,000 but not exceed RM4,100 (b) by inserting after item 45 the following items: Actual monthly wages of the month “46. When wages exceed RM4,100 but not exceed RM4,200 47. When wages exceed RM4,200 but not exceed RM4,300 48. When wages exceed RM4,300 but not exceed RM4,400 Actual monthly wages Total of the month contribution 49. When wages exceed RM4,400 RM17.80 but not exceed RM4,500 50. When wages exceed RM4,500 RM18.20 but not exceed RM4,600 51. When wages exceed RM4,600 RM18.60 but not exceed RM4,700 52. When wages exceed RM4,700 RM19.00 but not exceed RM4,800 53. When wages exceed RM4,800 RM19.40 but not exceed RM4,900 54. When wages exceed RM4,900 RM19.80 but not exceed RM5,000 55. When wages exceed RM5,000 RM19.80"
+        "@value": "by substituting for item 45 the following item: Actual monthly wages Total Corresponding of the month contribution assumed monthly wages for the month “45. When wages exceed RM4,000 RM16.20 RM4,050”; and but not exceed RM4,100"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/11/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/11/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after item 45 the following items: Actual monthly wages Total Corresponding of the month contribution assumed monthly wages for the month “46. When wages exceed RM4,100 RM16.60 RM4,150 but not exceed RM4,200 47. When wages exceed RM4,200 RM17.00 RM4,250 but not exceed RM4,300 48. When wages exceed RM4,300 RM17.40 RM4,350 but not exceed RM4,400 Actual monthly wages Total of the month contribution 49. When wages exceed RM4,400 RM17.80 but not exceed RM4,500 50. When wages exceed RM4,500 RM18.20 but not exceed RM4,600 51. When wages exceed RM4,600 RM18.60 but not exceed RM4,700 52. When wages exceed RM4,700 RM19.00 but not exceed RM4,800 53. When wages exceed RM4,800 RM19.40 but not exceed RM4,900 54. When wages exceed RM4,900 RM19.80 but not exceed RM5,000 55. When wages exceed RM5,000 RM19.80"
       }
     }
   ]

@@ -1,0 +1,286 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-32-1999",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_9"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Sales Tax (Amendment) Bill 1999"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Sales Tax (Amendment) Act 1999."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on 1 January 2000. Interpretation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "For the purpose of this Act, \"appointed date\" means 1 January"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "2000. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_3__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_3__list_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_3__list_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Sales Tax Act 1972 [Act 64), which in this Act is referred to as the \"principal Act\", is amended in section 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_3__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_3__list_1__para_a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_3__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_3__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of \"manufacture\" the following definition: 'manufacture\" means—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_3__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_3__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_3__list_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_3__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_3__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in relation to goods other than petroleum, the conversion by manual or mechanical means of organic or inorganic materials into a new product by changing the size, shape or nature of such materials and includes the assembly of parts into a piece of machinery or other products, but does not include the installation of machinery or equipment for the purpose of construction; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_3__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_3__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in relation to petroleum, compounding and includes the addition of any foreign substance;'; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_3__list_3",
+      "@type": "akn:list",
+      "eli:number": "3",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_3__list_3__para_b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_3__list_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_3__list_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"person\" the following definition: ' \"petroleum\" shall have the meaning assigned to it under section 2(1) of the Customs Act 1967;'. Substitution of section 16"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 16 the following section: 16. Subject to this Act, sales tax shall be levied— (a) on the sale value at the rate in force at the time at which the sales tax is due; or (b) on the quantity of goods sold, used or disposed of, or imported, at the rate in force at the time at which the sales tax is due.\". Amendment of section 17"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 17(1) of the principal Act is amended by inserting after the word \"sold\" the words \"as well as the quantities of goods sold\". Amendment of section 69"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 69(1) of the principal Act is amended by inserting after the words \"licensed manufacturer\" the words \"or importer\". Amendment of section 70"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 70(1) of the principal Act is amended by inserting"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "after the words \"licensed manufacturer\" wherever they appear the words \"or importer\". New Part XVIII"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after Part XVII the following Part: P A RT XVIII SPECIAL PROVISIONS DEALING WITH PETROLEUM 91. Subject to sections 92 to 95, this Act shall apply to petroleum. 92. Notwithstanding anything contrary contained in this Act, the Minister may by order, do any or all of the following: (a) specify a different period for sales tax to be due and payable in respect of petroleum; (b) specify a different taxable period in respect of petroleum; and (c) specify the conditions required to be complied with for the operation of the different due-and- payable periods of sales tax as well as different taxable periods. 93. Notwithstanding section 25, any person may obtain delivery of imported taxable petroleum from the control of Customs whether or not any part of or all of the sales tax on such goods have been paid. 94. Section 29 shall not apply to petroleum. 95. For the purpose of petroleum, Labuan and Langkawi shall be treated as being part of Malaysia and Parts I to XVIII shall apply in respect of petroleum manufactured in or imported into or exported from or transported to or from Labuan or Langkawi as if Parts XIV and XVII had not been enacted.\". Transitional"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_9__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_9__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_9__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act shall apply to petroleum—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_9__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_9__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "manufactured but not consumed or made use of or removed under section 28 of the Excise Act 1976 [Act 176]; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_9__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_9__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "imported and still warehoused under section 65 of the Customs Act 1967, immediately before the appointed date."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act shall not apply if, immediately before the appointed date, petroleum has been manufactured and consumed or made use of or removed under section 28 of the Excise Act 1976 but the excise duty in relation to the petroleum has not been paid, and in such event, the Excise Act 1976 shall apply."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/32/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person licensed under section 20 of the Excise Act 1976 to manufacture petroleum under that Act shall on the appointed date be deemed to be licensed under subsection 13(3) of the principal Act, and for this purpose the Director General as defined under the principal Act shall issue a licence to such person on the appointed date."
+      }
+    }
+  ]
+}

@@ -493,7 +493,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/eng@/~cl_28",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (4)— Deletion of sections 69b, 69c, 69d and 69e"
+        "@value": "in subsection (4)—"
       }
     },
     {
@@ -513,7 +513,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/eng@/~cl_28__para_b",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for the words “one hundred ringgit” the words “one thousand ringgit”."
+        "@value": "by substituting for the words “one hundred ringgit” the words “one thousand ringgit”. Deletion of sections 69b, 69c, 69d and 69e"
       }
     },
     {
@@ -521,9 +521,13 @@
       "@type": "akn:clause",
       "eli:number": "29",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting sections 69b, 69c,"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "The principal Act is amended by deleting sections 69b, 69c, 69d and 69e. New section 69f"
+        "@value": "69D AND 69E. New section 69f"
       }
     },
     {
@@ -685,7 +689,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/eng@/~cl_37",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (1)— Amendment of section 84"
+        "@value": "in subsection (1)—"
       }
     },
     {
@@ -705,7 +709,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/eng@/~cl_37__para_b",
       "schema:text": {
         "@language": "en",
-        "@value": "in paragraph (b) of the proviso, by substituting for the word “servant” the word “employee”."
+        "@value": "in paragraph (b) of the proviso, by substituting for the word “servant” the word “employee”. Amendment of section 84"
       }
     },
     {
@@ -1119,7 +1123,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/eng@/~cl_9",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (3)— “(aa) fails to make such contract or any other document relating to such contract available for inspection as required under subsection (1a); or”; and Deletion of Part VIII"
+        "@value": "in subsection (3)—"
       }
     },
     {
@@ -1139,7 +1143,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/eng@/~cl_9__para_b",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after paragraph (a) the following paragraph:"
+        "@value": "by inserting after paragraph (a) the following paragraph: “(aa) fails to make such contract or any other document relating to such contract available for inspection as required under subsection (1a); or”; and"
       }
     },
     {
@@ -1149,7 +1153,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/eng@/~cl_9__para_b",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for the word “ten” the word “fifty”."
+        "@value": "by substituting for the word “ten” the word “fifty”. Deletion of Part VIII"
       }
     }
   ]

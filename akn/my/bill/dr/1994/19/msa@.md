@@ -38,31 +38,53 @@ Wang Simpanan Keretapi Tanah Melayu (Pembubaran)
 
 <!-- page 2 -->
 
-Ord 21/1952. seksyen 3 Ordinan Kumpulan Wang Simpanan Keretapi Tanah Melayu 1952;
+<!-- marginal: Ord 21/1952. -->
+
+seksyen 3 Ordinan Kumpulan Wang Simpanan Keretapi Tanah Melayu 1952;
 
 "Lembaga" ertinya Lembaga pengurus yang ditubuhkan di bawah subseksyen 4(1) Ordinan Kumpulan Wang Simpanan Keretapi Tanah Melayu 1952;
 
 "Menteri" ertinya Menteri yang pada masa ini dipertanggungkan dengan tanggungjawab bagi pengangkutan.
 
-Pemansuhan
+<!-- marginal: Pemansuhan -->
 
-3. Ordinan Kumpulan Wang Simpanan Keretapi Tanah dan Melayu 1952 adalah dimansuhkan dan Kumpulan Wang pemoubaran. yang ditubuhkan di bawahnya adalah dibubarkan.
+3. Ordinan Kumpulan Wang Simpanan Keretapi Tanah
 
-Pemindahan
+<!-- marginal: dan -->
 
-4. Segala harta alih dan aset yang sebelum sahaja mula harta. berkuatkuasanya Akta ini telah terletakhak pada Kumpulan Wang atau pada mana-mana orang bagi pihaknya hendaklah, pada mula berkuatkuasanya Akta ini, dipindahkan kepada, dan diletakhakkan pada,
+Melayu 1952 adalah dimansuhkan dan Kumpulan Wang
+
+<!-- marginal: pemoubaran. -->
+
+yang ditubuhkan di bawahnya adalah dibubarkan.
+
+<!-- marginal: Pemindahan -->
+
+4. Segala harta alih dan aset yang sebelum sahaja mula
+
+<!-- marginal: harta. -->
+
+berkuatkuasanya Akta ini telah terletakhak pada Kumpulan Wang atau pada mana-mana orang bagi pihaknya hendaklah, pada mula berkuatkuasanya Akta ini, dipindahkan kepada, dan diletakhakkan pada,
 
 ## KTMB.
 
-Pemindahan
+<!-- marginal: Pemindahan -->
 
-5. Tertakluk kepada seksyen 7, semua wang yang ada wang. dalam Kumpulan Wang atau kena dibayar kepada Kumpulan Wang hendaklah, pada mula berkuatkuasanya Akta ini, dipindahkan kepada, dan diletakhakkan pada,
+5. Tertakluk kepada seksyen 7, semua wang yang ada
+
+<!-- marginal: wang. -->
+
+dalam Kumpulan Wang atau kena dibayar kepada Kumpulan Wang hendaklah, pada mula berkuatkuasanya Akta ini, dipindahkan kepada, dan diletakhakkan pada,
 
 ## KTMB.
 
-Kontrak yang
+<!-- marginal: Kontrak yang -->
 
-6. Segala suratikatan, bon, perjanjian, suratcara dan sedia ada. perkiraan kerja yang masih berkuatkuasa sebelum sahaja mula berkuatkuasanya Akta ini dan yang menyentuh apa- apa harta yang dipindahkan di bawah seksyen 4 dan 5, hendaklah mempunyai kuatkuasa dan kesan sepenuhnya terhadap atau untuk KTMB dan boleh dikuatkuasakan dengan sepenuhnya dan berkesan seolah-olah KTMB dan bukan Lembaga, Kumpulan Wang, Pentadbiran Keretapi Tanah Melayu itu, atau mana-mana orang atau badan yang bertindak bagi pihaknya, telah dinamakan di dalamnya atau telah menjadi suatu pihak kepadanya.
+6. Segala suratikatan, bon, perjanjian, suratcara dan
+
+<!-- marginal: sedia ada. -->
+
+perkiraan kerja yang masih berkuatkuasa sebelum sahaja mula berkuatkuasanya Akta ini dan yang menyentuh apa- apa harta yang dipindahkan di bawah seksyen 4 dan 5, hendaklah mempunyai kuatkuasa dan kesan sepenuhnya terhadap atau untuk KTMB dan boleh dikuatkuasakan dengan sepenuhnya dan berkesan seolah-olah KTMB dan bukan Lembaga, Kumpulan Wang, Pentadbiran Keretapi Tanah Melayu itu, atau mana-mana orang atau badan yang bertindak bagi pihaknya, telah dinamakan di dalamnya atau telah menjadi suatu pihak kepadanya.
 
 <!-- page 3 -->
 

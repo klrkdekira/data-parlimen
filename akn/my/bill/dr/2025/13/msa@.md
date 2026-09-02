@@ -32,7 +32,7 @@ MAKA, OLEH YANG DEMIKIAN, mengikut Fasal (1) Perkara 74 dan Fasal (2) Perkara 80
 
 3. Akta ibu dipinda dengan memasukkan selepas seksyen 77 bahagian yang berikut:
 
-“Bahagian VIIIa
+## “BAHAGIAN VIIIA
 
 ## LARANGAN TERHADAP PEMBUANGAN, DSB., SISA PEPEJAL
 

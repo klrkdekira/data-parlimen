@@ -34,7 +34,11 @@ dalam Akta ini, adalah dipinda dengan menggantikan
 
 subseksyen (1) seksyen 12 dengan yang berikut:
 
-"(1) Menteri Kewangan boleh melalui perintah yang disiarkan dalam Warta mengecualikan, tertakluk kepada apa-apa syarat yang difikirkannya patut dikenakan,—
+"(1) Menteri Kewangan boleh melalui perintah yang disiarkan dalam Warta mengecualikan,
+
+<!-- marginal: tertakluk -->
+
+kepada apa-apa syarat yang difikirkannya patut dikenakan,—
 
 (a) apa-apa kelas hiburan; dan
 

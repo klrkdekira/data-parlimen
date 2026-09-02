@@ -4,13 +4,13 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title, commencement and application 2. Upholding independence of judiciary 3. Interpretation
 
-## Part II
+## PART II
 
 ## ESTABLISHMENT OF THE JUDICIAL APPOINTMENTS COMMISSION
 
@@ -40,13 +40,13 @@
 
 <!-- page 2 -->
 
-## Part III
+## PART III
 
 ## FUNCTIONS AND POWERS OF THE COMMISSION
 
 21. Functions and powers of the Commission
 
-## Part IV
+## PART IV
 
 ## SELECTION TO THE OFFICE OF THE CHIEF JUSTICE OF THE FEDERAL COURT,
 
@@ -72,7 +72,7 @@
 
 29. Judicial commissioners may apply to be High Court judges
 
-## Part V
+## PART V
 
 ## GENERAL
 
@@ -390,7 +390,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 13 -->
 
-## Part III
+## PART III
 
 ## FUNCTIONS AND POWERS OF THE COMMISSION
 
@@ -412,7 +412,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (2) The Commission shall have all such powers as may be necessary for, or in connection with, or reasonably incidental to, the performance of its functions under this Act.
 
-## Part IV
+## PART IV
 
 ## SELECTION TO THE OFFICE OF THE CHIEF JUSTICE OF THE
 
@@ -502,7 +502,7 @@ for his consideration with respect to any vacancy to the office of the Chief Jus
 
 29. All judicial commissioners appointed before the coming into operation of this Act may file their applications with the Commission if they are desirous of being selected as High Court judges in accordance with the provisions of this Act within the time and manner specified by the Commission.
 
-## Part V
+## PART V
 
 ## GENERAL
 
@@ -560,7 +560,7 @@ This Bill seeks to provide for the establishment of the Judicial Appointments Co
 
 <!-- page 19 -->
 
-## Part I
+## PART I
 
 2. Part I of the proposed Act contains preliminary matters.
 
@@ -572,7 +572,7 @@ Clause 2 states the need to uphold the independence of the judiciary.
 
 Clause 3 contains the definitions of certain expressions used in the Act.
 
-## Part II
+## PART II
 
 3. Part II of the proposed Act contains provisions on the establishment of the Judicial Appointments Commission (“the Commission”).
 
@@ -602,7 +602,7 @@ Clause 18 seeks to enable the Commission to establish committees to assist in th
 
 Clauses 19 and 20 provide for the appointment of the Secretary, officers and servants of the Commission.
 
-## Part III
+## PART III
 
 4. Part III of the proposed Act contains provision relating to the functions and powers of the Commission.
 
@@ -620,7 +620,7 @@ Clause 21 sets out the functions of the Commission which are as follows:
 
 (f) to do such other things as it deems fit to enable it to perform its functions effectively or which are incidental to the performance of its functions under the proposed Act;
 
-## Part IV
+## PART IV
 
 5. Part IV of the proposed Act relates to the selection process.
 
@@ -642,7 +642,7 @@ Clause 28 states that the Prime Minister may tender his advice in accordance wit
 
 Clause 29 provides that judicial commissioners appointed before the coming into operation of the proposed Act may apply to be High Court judges.
 
-## Part V
+## PART V
 
 5. Part V of the proposed Act contains general provisions.
 

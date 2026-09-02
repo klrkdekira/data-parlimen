@@ -46,17 +46,21 @@ seksyen 1—
 
 dibelanjakan atau dilaburkan oleh Lembaga sebelum mula berkuatkuasanya Akta ini yang akan menjadi sah jika peruntukan-peruntukan Akta ini telah berkuatkuasa pada masa ia dilakukan adalah dengan ini disahkan dan diisytiharkan telah dilakukan atau dipungut, dibelanjakan atau dilaburkan olehnya secara sah.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Seksyen 27A Akta ibu adalah dipinda— seksyen 27A.
+3. Seksyen 27A Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 27A. -->
 
 (a) dalam subseksyen (1) dan (3) dengan menggantikan perkataan "1989" dengan perkataan "1990"; dan
 
 (b) dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: "(2A) Jika jawapan diterima daripada Lembaga mengenai memorandum yang dikemukakan di bawah subseksyen (1) menunjukkan keputusan Lembaga untuk tidak membenarkan perubahan kepada struktur caj yang sedia ada yang terdapat di dalam memorandum, mana- mana orang atau kumpulan orang yang terkilan dengan keputusan Lembaga boleh, dalam tempoh empat belas hari dari tarikh keputusan itu dibuat, merayu kepada Menteri dan keputusan Menteri itu adalah muktamad.".
 
-Bahagian
+<!-- marginal: Bahagian -->
 
-4. Akta ibu adalah dipinda dengan memasukkan selepas baru VIIA.
+4. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru VIIA. -->
 
 ## Bahagian VII Bahagian yang berikut:
 
@@ -78,11 +82,73 @@ Kuasa 66A. (1) Menteri boleh, melalui perintah yang Menteri disiarkan dalam Wart
 
 (3) Jika suatu perintah dibuat di bawah subseksyen (1), Lembaga hendaklah bagi segala maksud disifatkan sebagai lembaga pelabuhan berkenaan dengan pelabuhan yang disebutkan dalam perintah itu seolah-olah ia adalah suatu lembaga pelabuhan yang ditubuhkan berkenaan dengan pelabuhan itu di bawah Akta ini dan hendaklah dalam menjalankan fungsi-fungsinya digelar dengan nama yang diperuntukkan dalam perintah itu.
 
-Lembaga 66B. Lembaga dalam menjalankan fungsi- dalam fungsinya berkenaan dengan pelabuhan yang menjalankan fungsinya kepadanya fungsi-fungsi itu diperluaskan yang hendaklah menjalankannya seolah-olah ia suatu diperluaskan hendaklah lembaga pelabuhan yang bebas yang ditubuhkan disifatkan sebagai berkenaan dengan pelabuhan itu. lembaga pelabuhan yang bebas.
+<!-- marginal: Lembaga -->
 
-Kuasa 66c. Perintah Menteri di bawah seksyen 66A Menteri boleh mengandungi segala peruntukan yang membuat peruntukan dianggap oleh Menteri sebagai perlu untuk bagi membolehkan Lembaga menjalankan fungsi- Lembaga menjalankan fungsinya berhubungan dengan pelabuhan yang fungsinya. kepadanya fungsi-fungsi itu diperluaskan.
+66B. Lembaga dalam menjalankan fungsi-
 
-Tafsiran. 66D. Bagi maksud-maksud Bahagian ini, "pelabuhan" ertinya pelabuhan Persekutuan atau tempat yang diisytiharkan sebagai pelabuhan Persekutuan oleh undang-undang Persekutuan.".
+<!-- marginal: dalam -->
+
+fungsinya berkenaan dengan pelabuhan yang
+
+<!-- marginal: menjalankan -->
+
+<!-- marginal: fungsinya -->
+
+kepadanya fungsi-fungsi itu diperluaskan
+
+<!-- marginal: yang -->
+
+hendaklah menjalankannya seolah-olah ia suatu
+
+<!-- marginal: diperluaskan -->
+
+<!-- marginal: hendaklah -->
+
+lembaga pelabuhan yang bebas yang ditubuhkan
+
+<!-- marginal: disifatkan -->
+
+<!-- marginal: sebagai -->
+
+berkenaan dengan pelabuhan itu.
+
+<!-- marginal: lembaga -->
+
+<!-- marginal: pelabuhan -->
+
+<!-- marginal: yang bebas. -->
+
+<!-- marginal: Kuasa -->
+
+66c. Perintah Menteri di bawah seksyen 66A
+
+<!-- marginal: Menteri -->
+
+boleh mengandungi segala peruntukan yang
+
+<!-- marginal: membuat -->
+
+<!-- marginal: peruntukan -->
+
+dianggap oleh Menteri sebagai perlu untuk
+
+<!-- marginal: bagi -->
+
+membolehkan Lembaga menjalankan fungsi-
+
+<!-- marginal: Lembaga -->
+
+<!-- marginal: menjalankan -->
+
+fungsinya berhubungan dengan pelabuhan yang
+
+<!-- marginal: fungsinya. -->
+
+kepadanya fungsi-fungsi itu diperluaskan.
+
+<!-- marginal: Tafsiran. -->
+
+66D. Bagi maksud-maksud Bahagian ini, "pelabuhan" ertinya pelabuhan Persekutuan atau tempat yang diisytiharkan sebagai pelabuhan Persekutuan oleh undang-undang Persekutuan.".
 
 <!-- page 4 -->
 

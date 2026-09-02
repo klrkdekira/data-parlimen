@@ -153,21 +153,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_4",
       "@type": "akn:clause",
       "eli:number": "4",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_4__para_a",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Subseksyen 4(3) Akta ibu dipinda dengan menggantikan perkataan “mana-mana tempoh yang tersebut dalam subperenggan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_4__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_4",
-      "schema:text": {
-        "@language": "ms",
-        "@value": ", (b) atau (c) perenggan 1 Jadual Kedua” dengan perkataan “tempoh dua belas tahun setengah dari tarikh persaraan seseorang pegawai atau tarikh sebaik selepas tarikh kematian pegawai dalam perkhidmatan”. Pindaan seksyen 5"
+        "@value": "Subseksyen 4(3) Akta ibu dipinda dengan menggantikan perkataan “mana-mana tempoh yang tersebut dalam subperenggan (a), (b) atau (c) perenggan 1 Jadual Kedua” dengan perkataan “tempoh dua belas tahun setengah dari tarikh persaraan seseorang pegawai atau tarikh sebaik selepas tarikh kematian pegawai dalam perkhidmatan”. Pindaan seksyen 5"
       }
     },
     {
@@ -232,7 +221,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan menggantikan Jadual Kedua dengan jadual yang berikut: “Jadual Kedua [Seksyen 4 dan 5] Jenis Faedah 1. Pencen terbitan hendaklah dibayar atau adalah kena dibayar untuk seumur hidup— (a) dari tarikh yang sebaik selepas 1/600 x bilangan bulan perkhidmatan tarikh kematian pegawai yang boleh dimasukira (tertakluk dalam perkhidmatan pada kepada tidak lebih daripada 360 atau selepas 1 Julai 1980; bulan) x gaji bersamaan yang akhir atau diterima; tetapi amaun pencen terbitan, sebagaimana yang diselaraskan, yang (b) dari tarikh sebaik selepas dibayar atau kena dibayar apabila tarikh kematian pegawai dalam pegawai itu mati dalam perkhidmatan persaraan pada atau selepas tidaklah boleh kurang daripada 1/5 1 Julai 1980. daripada gaji bersamaan yang akhir diterima oleh pegawai itu. 2. Jika tiada pencen terbitan dibayar Diselaraskan berdasarkan formula atau kena dibayar di bawah perenggan yang sama seperti yang diperuntukkan 1, elaun persaraan terbitan hendaklah berkenaan dengan subperenggan (a) dibayar atau adalah kena dibayar dan (b) perenggan 1 tetapi terhad mengikut mana-mana hal keadaan kepada 3/4 daripada amaun yang yang tersebut dalam subperenggan ditentukan dalam tiap-tiap satu hal (a) atau (b) perenggan 1. itu.”. Pemotongan Jadual Ketiga"
+        "@value": "Akta ibu dipinda dengan menggantikan Jadual Kedua dengan jadual yang berikut: “JADUAL KEDUA [Seksyen 4 dan 5] Jenis Faedah 1. Pencen terbitan hendaklah dibayar atau adalah kena dibayar untuk seumur hidup— (a) dari tarikh yang sebaik selepas 1/600 x bilangan bulan perkhidmatan tarikh kematian pegawai yang boleh dimasukira (tertakluk dalam perkhidmatan pada kepada tidak lebih daripada 360 atau selepas 1 Julai 1980; bulan) x gaji bersamaan yang akhir atau diterima; tetapi amaun pencen terbitan, sebagaimana yang diselaraskan, yang (b) dari tarikh sebaik selepas dibayar atau kena dibayar apabila tarikh kematian pegawai dalam pegawai itu mati dalam perkhidmatan persaraan pada atau selepas tidaklah boleh kurang daripada 1/5 1 Julai 1980. daripada gaji bersamaan yang akhir diterima oleh pegawai itu. 2. Jika tiada pencen terbitan dibayar Diselaraskan berdasarkan formula atau kena dibayar di bawah perenggan yang sama seperti yang diperuntukkan 1, elaun persaraan terbitan hendaklah berkenaan dengan subperenggan (a) dibayar atau adalah kena dibayar dan (b) perenggan 1 tetapi terhad mengikut mana-mana hal keadaan kepada 3/4 daripada amaun yang yang tersebut dalam subperenggan ditentukan dalam tiap-tiap satu hal (a) atau (b) perenggan 1. itu.”. Pemotongan Jadual Ketiga"
       }
     },
     {

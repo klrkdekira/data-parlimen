@@ -8,13 +8,15 @@
 
 bernama
 
-Suatu Akta untuk meminda Akta Perhutanan Negara
-
-1984.
+Suatu Akta untuk meminda Akta Perhutanan Negara 1984.
 
 BAHAWASANYA adalah bermanfaat bagi maksud hanya untuk menentukan persamaan undang-undang bagi Negeri-Negeri di Malaysia untuk membuat undang- undang mengenai pentadbiran, pengurusan dan pemuliharaan hutan dan pembangunan perhutanan:
 
-OLEH YANG DEMIKIAN, menurut Fasal (1)(b) Perkara 76 Perlembagaan Persekutuan, MAKA INILAH DIPERBUAT UNDANG-UNDANG oleh Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan Dewan Negara dan Dewan Rakyat yang bersidang dalam Parlimen, dan dengan kuasa daripadanya, seperti berikut:
+OLEH YANG DEMIKIAN, menurut Fasal (1)(b)
+
+## Perkara 76 Perlembagaan Persekutuan, MAKA INILAH
+
+DIPERBUAT UNDANG-UNDANG oleh Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan Dewan Negara dan Dewan Rakyat yang bersidang dalam Parlimen, dan dengan kuasa daripadanya, seperti berikut:
 
 <!-- marginal: Tajuk -->
 
@@ -34,7 +36,21 @@ Negara (Pindaan) 1993.
 
 (3) Akta ini hendaklah mula berkuatkuasa bagi Wilayah Persekutuan Kuala Lumpur pada suatu tarikh sebagaimana ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
 
-2. Teks bahasa kebangsaan Akta Perhutanan Negara Pindaan am dalam teks 1984, yang disebut "Akta ibu" dalam Akta ini, adalah bahasa dipinda— kebangsaan Akta 313.
+2. Teks bahasa kebangsaan Akta Perhutanan Negara
+
+<!-- marginal: Pindaan am -->
+
+<!-- marginal: dalam teks -->
+
+1984, yang disebut "Akta ibu" dalam Akta ini, adalah
+
+<!-- marginal: bahasa -->
+
+dipinda—
+
+<!-- marginal: kebangsaan -->
+
+<!-- marginal: Akta 313. -->
 
 (a) dengan menggantikan perkataan "tahi kelawar", "mandu lilin" dan "kayu balak" dalam takrif "hasil hutan" masing-masingnya dengan perkataan "guano", "madu dan lilin" dan "kayu";
 
@@ -46,11 +62,7 @@ Negara (Pindaan) 1993.
 
 (e) dengan menggantikan perkataan "keadah" dalam takrif "tukar bentuk" dengan perkataan "kaedah";
 
-(f) dengan menggantikan perkataan "Pengarah Hutan Negeri", "Timbalan Pengarah Hutan Negeri", "Penolong Pengarah Hutan Negeri", "Ketua Pengarah Jabatan Hutan Persekutuan", "Jabatan Hutan Negeri" dan "Pejabat Hutan Negeri" di mana-mana jua terdapat di dalamnya masing-masingnya dengan perkataan "Pengarah Perhutanan Negeri", "Timbalan Pengarah Perhutanan Negeri", "Penolong Pengarah Perhutanan Negeri",
-
-<!-- marginal: "Ketua -->
-
-Pengarah Jabatan Perhutanan Persekutuan", "Jabatan Perhutanan Negeri" dan "Pejabat Perhutanan Negeri";
+(f) dengan menggantikan perkataan "Pengarah Hutan Negeri", "Timbalan Pengarah Hutan Negeri", "Penolong Pengarah Hutan Negeri", "Ketua Pengarah Jabatan Hutan Persekutuan", "Jabatan Hutan Negeri" dan "Pejabat Hutan Negeri" di mana-mana jua terdapat di dalamnya masing-masingnya dengan perkataan "Pengarah Perhutanan Negeri", "Timbalan Pengarah Perhutanan Negeri", "Penolong Pengarah Perhutanan Negeri", "Ketua Pengarah Jabatan Perhutanan Persekutuan", "Jabatan Perhutanan Negeri" dan "Pejabat Perhutanan Negeri";
 
 (g) dengan menggantikan perkataan "HASIL HUTAN UTAMA", "hasil hutan utama",
 
@@ -86,7 +98,11 @@ Pengarah Hutan Negeri, Timbalan Pengarah Hutan Negeri, Penolong Pengarah Hutan N
 
 (3) Segala tanggungan sedia ada yang ditanggung oleh atau bagi pihak atau bagi maksud-maksud Pengarah Hutan Negeri, Timbalan Pengarah Hutan Negeri, Penolong Pengarah Hutan Negeri, Ketua Pengarah Jabatan Hutan Persekutuan, Jabatan Hutan Negeri dan Pejabat Hutan Negeri, boleh dikuatkuasakan masing- masingnya terhadap Pengarah Perhutanan Negeri, Timbalan Pengarah Perhutanan Negeri, Penolong Pengarah Perhutanan Negeri, Ketua Pengarah Jabatan Perhutanan Persekutuan, Jabatan Perhutanan Negeri dan Pejabat Perhutanan Negeri, mengikut mana-mana yang berkenaan.
 
-4. Seksyen 2 Akta ibu adalah dipinda— Pindaan seksyen 2.
+4. Seksyen 2 Akta ibu adalah dipinda—
+
+<!-- marginal: Pindaan -->
+
+<!-- marginal: seksyen 2. -->
 
 (a) dengan memasukkan selepas takrif "alat pengangkutan" takrif baru yang berikut:
 
@@ -140,13 +156,19 @@ Dengan syarat bahawa sesuatu perwakilan kepada mana-mana anggota angkatan tenter
 
 Pengarah daripada menjalankan kuasa atau melaksanakan kewajipan itu sendiri jika dia mendapati adalah bermanfaat berbuat demikian.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-7. Seksyen 12 Akta ibu adalah dipinda dengan seksyen 12. memasukkan selepas perkataan "air" perkataan ", kepelbagaian hayat".
+7. Seksyen 12 Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 12. -->
 
-8. Seksyen 15 Akta ibu adalah dipinda— seksyen 15.
+memasukkan selepas perkataan "air" perkataan ", kepelbagaian hayat".
+
+<!-- marginal: Pindaan -->
+
+8. Seksyen 15 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 15. -->
 
 (a) dengan menggantikan perkataan "sepuluh ribu ringgit atau penjara selama tempoh tidak melebihi tiga tahun atau kedua-duanya denda dan penjara itu" dalam subseksyen (2) dengan perkataan "lima ratus ribu ringgit dan penjara selama tempoh tidak kurang daripada satu tahun tetapi tidak melebihi dua puluh tahun";
 
@@ -192,43 +214,49 @@ menggantikan perkataan "lima" dan "dua" masing- masingnya dengan perkataan "lima
 
 "(2A) Mana-mana orang yang disabitkan atas sesuatu kesalahan di bawah seksyen ini boleh, sebagai tambahan kepada apa-apa penalti yang dikenakan ke atas sabitan itu, diperintahkan membayar, berkenaan dengan apa-apa hasil hutan yang diambil secara menyalahi undang-undang, kepada Pihak Berkuasa Negeri—
 
-(a) sejumlah wang
+(a) sejumlah wang tidak melebihi sepuluh kali ganda royalti, premium dan ses;
 
-<!-- marginal: tidak melebihi -->
+(b) sejumlah wang tidak melebihi sepuluh kali ganda nilai hasil hutan itu; dan
 
-sepuluh kali ganda royalti, premium dan ses;
-
-(b) sejumlah wang
-
-<!-- marginal: tidak melebihi -->
-
-sepuluh kali ganda nilai hasil hutan itu; dan
-
-(c) apa-apa caj-caj
-
-<!-- marginal: lain yang kena -->
-
-dibayar,
+(c) apa-apa caj-caj lain yang kena dibayar,
 
 dan apa-apa jumlah wang yang diperintah- kan supaya dibayar itu boleh didapatkan kembali seolah-olah ianya suatu denda yang dikenakan sedemikian.".
 
 <!-- page 8 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-12. Subseksyen 47(4) Akta ibu adalah dipinda dengan seksyen 47. menggantikan perkataan "lima ratus" dan "bulan" masing-masingnya dengan perkataan "sepuluh ribu" dan "tahun".
+12. Subseksyen 47(4) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 47. -->
 
-13. Subseksyen 50(4) Akta ibu adalah dipinda dengan seksyen 50. menggantikan perkataan "dua ratus lima puluh" dengan perkataan"sepuluh ribu".
+menggantikan perkataan "lima ratus" dan "bulan" masing-masingnya dengan perkataan "sepuluh ribu" dan "tahun".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-14. Akta ibu adalah dipinda dengan menggantikan seksyen 66 perkataan "lima" dan "dua" yang terdapat dalam dan 67. subseksyen 66(4) dan 67(2) masing-masingnya dengan perkataan "lima puluh" dan "lima".
+13. Subseksyen 50(4) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 50. -->
 
-15. Seksyen 68 Akta ibu adalah dipinda— seksyen 68.
+menggantikan perkataan "dua ratus lima puluh" dengan perkataan"sepuluh ribu".
+
+<!-- marginal: Pindaan -->
+
+14. Akta ibu adalah dipinda dengan menggantikan
+
+<!-- marginal: seksyen 66 -->
+
+perkataan "lima" dan "dua" yang terdapat dalam
+
+<!-- marginal: dan 67. -->
+
+subseksyen 66(4) dan 67(2) masing-masingnya dengan perkataan "lima puluh" dan "lima".
+
+<!-- marginal: Pindaan -->
+
+15. Seksyen 68 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 68. -->
 
 (a) dengan menggantikan subseksyen (1) dengan subseksyen (1) dan (2) baru yang berikut: "(1) Tiada seorang pun boleh ada dalam milikannya, jagaannya atau kawalannya apa- apa hasil hutan melainkan jika dia memiliki suatu pas bagi pemindahan hasil hutan itu. (2) Pas pemindah itu hendaklah tersedia bagi pemeriksaan oleh mana-mana pegawai hutan.";
 
@@ -250,11 +278,41 @@ Pindaan
 
 seksyen 69 dengan seksyen 69 bam yang berikut:
 
-Operator 69. (1) Tiada seorang pun boleh terlibat loji dalam menukar mana-mana hasil hutan atau penukaran dikehen- ada dalam kawalannya atau jagaannya sesuatu daki mem- loji penukaran melainkan jika dia memiliki punyai pas suatu pas pemindah dan suatu rekod ukuran pemindah mengenali semua hasil hutan yang telah ditukar dan rekod atau sedang ditukar atau hampir hendak ditukar ukuran. atau berada di dalam atau sekitar
+<!-- marginal: Operator -->
+
+69. (1) Tiada seorang pun boleh terlibat
 
 <!-- marginal: loji -->
 
-penukaran atau premis lain di bawah jagaannya atau kawalannya.
+dalam menukar mana-mana hasil hutan atau
+
+<!-- marginal: penukaran -->
+
+<!-- marginal: dikehen- -->
+
+ada dalam kawalannya atau jagaannya sesuatu
+
+<!-- marginal: daki mem- -->
+
+loji penukaran melainkan jika dia memiliki
+
+<!-- marginal: punyai -->
+
+<!-- marginal: pas -->
+
+suatu pas pemindah dan suatu rekod ukuran
+
+<!-- marginal: pemindah -->
+
+mengenali semua hasil hutan yang telah ditukar
+
+<!-- marginal: dan rekod -->
+
+atau sedang ditukar atau hampir hendak ditukar
+
+<!-- marginal: ukuran. -->
+
+atau berada di dalam atau sekitar loji penukaran atau premis lain di bawah jagaannya atau kawalannya.
 
 (2) Pas pemindah itu hendaklah tersedia bagi pemeriksaan oleh mana-mana pegawai hutan.
 
@@ -266,7 +324,11 @@ penukaran atau premis lain di bawah jagaannya atau kawalannya.
 
 <!-- page 10 -->
 
-17. Seksyen 81 Akta ibu adalah dipinda— Pindaan seksyen 81.
+17. Seksyen 81 Akta ibu adalah dipinda—
+
+<!-- marginal: Pindaan -->
+
+<!-- marginal: seksyen 81. -->
 
 (a) dengan memotong perkataan "atau (c)" dan menggantikan perkataan "dua ratus" dengan perkataan "sepuluh ribu" dalam perenggan (2)(a);
 
@@ -284,17 +346,25 @@ menggantikan perkataan "dua" dan "satu" masing-masingnya dengan perkataan "lima 
 
 (e) dengan memasukkan sebelum perkataan "nilai" dalam perenggan (3)(a) perkataan "sepuluh kali ganda".
 
-Pindaan am.
+<!-- marginal: Pindaan am. -->
 
 18. Akta ibu adalah dipinda dengan menggantikan perkataan "dua" dan "satu" yang terdapat dalam subseksyen 82(2), 84(1), 96(2), 97(2) dan 98(2), seksyen 87, 100 dan 107 masing-masingnya dengan perkataan "lima puluh" dan "lima".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-19. Subseksyen 83(2) Akta ibu adalah dipinda dengan seksyen 83. menggantikan perkataan "satu" dan "enam bulan" masing-masingnya dengan perkataan "sepuluh" dan "tiga tahun".
+19. Subseksyen 83(2) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 83. -->
 
-20. Subseksyen 85(2) Akta ibu adalah dipinda dengan seksyen 85. menggantikan perkataan "lima ratus" dan "tiga bulan" masing-masingnya dengan perkataan "lima puluh ribu" dan "lima tahun".
+menggantikan perkataan "satu" dan "enam bulan" masing-masingnya dengan perkataan "sepuluh" dan "tiga tahun".
+
+<!-- marginal: Pindaan -->
+
+20. Subseksyen 85(2) Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 85. -->
+
+menggantikan perkataan "lima ratus" dan "tiga bulan" masing-masingnya dengan perkataan "lima puluh ribu" dan "lima tahun".
 
 <!-- page 11 -->
 
@@ -338,13 +408,29 @@ menggantikan subseksyen (2) dengan subseksyen (2) baru yang berikut:
 
 <!-- page 12 -->
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
-25. Akta ibu adalah dipinda dengan memasukkan 100A dan selepas seksyen 100 seksyen baru 100A dan lOOB yang lOOB berikut:
+25. Akta ibu adalah dipinda dengan memasukkan
 
-"Hadiah. 100A. Pengarah boleh memerintahkan supaya apa-apa hadiah sebagaimana yang disifat- kannya patut dibayar kepada mana-mana pegawai hutan atau orang lain bagi per- khidmatan yang diberi berhubungan dengan apa-apa kesalahan atau penyitaan yang dibuat di bawah Akta ini.
+<!-- marginal: 100A dan -->
 
-Perlin- lOOB (1) Kecuali sebagaimana diperuntuk- dungan kan kemudian daripada ini, tiada saksi dalam informer. mana-mana presiding sivil atau jenayah berkewajipan atau dibenarkan mendedah nama atau alamat informer atau isi dan jenis maklumat yang diterima daripadanya atau untuk menyatakan apa-apa perkara yang mungkin membawa dirinya diketahui.
+selepas seksyen 100 seksyen baru 100A dan lOOB yang
+
+<!-- marginal: lOOB -->
+
+<!-- marginal: berikut: -->
+
+<!-- marginal: "Hadiah. -->
+
+100A. Pengarah boleh memerintahkan supaya apa-apa hadiah sebagaimana yang disifat- kannya patut dibayar kepada mana-mana pegawai hutan atau orang lain bagi per- khidmatan yang diberi berhubungan dengan apa-apa kesalahan atau penyitaan yang dibuat di bawah Akta ini.
+
+<!-- marginal: Perlin- -->
+
+lOOB (1) Kecuali sebagaimana diperuntuk- dungan kan kemudian daripada ini, tiada saksi dalam
+
+<!-- marginal: informer. -->
+
+mana-mana presiding sivil atau jenayah berkewajipan atau dibenarkan mendedah nama atau alamat informer atau isi dan jenis maklumat yang diterima daripadanya atau untuk menyatakan apa-apa perkara yang mungkin membawa dirinya diketahui.
 
 (2) Jika apa-apa buku, dokumen atau surat- surat yang di bawah keterangan atau yang boleh diperiksa, dalam mana-mana presiding sivil atau jenayah, mengandungi apa-apa pencatatan yang menamakan atau mem- perihalkan informer atau yang mungkin membawa kepada dirinya diketahui, mahkamah hendaklah menyebabkan semua petikan tersebut disembunyikan daripada pandangan atau dipadamkan setakat mana ianya perlu untuk melindungi informer daripada diketahui.
 
@@ -362,7 +448,19 @@ keadilan tidak boleh dijalankan sepenuhnya antara pihak-pihak terhadap prosiding
 
 seksyen 101 dengan seksyen 101 baru yang berikut:
 
-"Peng- "peng- 101. (1) Tertakluk kepada subseksyen (2), kompaunan kompaunan pengarah boleh mengkompaunkan apa-apa kesalahan. kesalahan di bawah Akta ini kecuali apa-apa kesalahan di bawah seksyen 86 atau 107 dengan membuat suatu tawaran bertulis kepada orang itu untuk mengkompaunkan kesalahan itu apabila dibayar kepada Pengarah suatu amaun yang tidak melebihi denda maksimum bagi kesalahan itu dalam masa yang ditentukan dalam tawaran itu.
+<!-- marginal: "Peng- -->
+
+<!-- marginal: "peng- -->
+
+101. (1) Tertakluk kepada subseksyen (2),
+
+<!-- marginal: kompaunan -->
+
+kompaunan pengarah boleh mengkompaunkan apa-apa
+
+<!-- marginal: kesalahan. -->
+
+kesalahan di bawah Akta ini kecuali apa-apa kesalahan di bawah seksyen 86 atau 107 dengan membuat suatu tawaran bertulis kepada orang itu untuk mengkompaunkan kesalahan itu apabila dibayar kepada Pengarah suatu amaun yang tidak melebihi denda maksimum bagi kesalahan itu dalam masa yang ditentukan dalam tawaran itu.
 
 (2) Kesalahan yang boleh dikompaunkan di bawah subseksyen (1) hendaklah berkenaan dengan kesalahan yang dilakukan bagi kali pertama sahaja.
 
@@ -384,9 +482,11 @@ seksyen 101 dengan seksyen 101 baru yang berikut:
 
 (e) bahawa mana-mana orang yang didapati berada di dalam kawasan hutan simpanan kekal atau tanah Kerajaan yang memiliki apa-apa jentera, per- alatan atau alat pengangkutan sebagai- mana dinyatakan dalam Jadual Keenam bertujuan mengambil atau memindah- kan apa-apa hasil hutan.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-29. Seksyen 106 Akta ibu adalah dipinda— seksyen 106.
+29. Seksyen 106 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 106. -->
 
 (a) dengan memasukkan selepas perkataan "polis" dalam nota birai perkataan ", anggota angkatan tentera";
 
@@ -450,7 +550,13 @@ perenggan (e) Jadual Kedua dan perenggan (f) Jadual Ketiga dengan perkataan "Sem
 
 <!-- page 16 -->
 
-Jadual baru 35. Akta ibu adalah dipinda dengan memasukkan Keenam. selepas Jadual Kelima Jadual baru Keenam yang berikut:
+<!-- marginal: Jadual baru -->
+
+35. Akta ibu adalah dipinda dengan memasukkan
+
+<!-- marginal: Keenam. -->
+
+selepas Jadual Kelima Jadual baru Keenam yang berikut:
 
 ## JADUAL KEENAM
 

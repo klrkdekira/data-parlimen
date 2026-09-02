@@ -1109,10 +1109,56 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~sched_1",
       "@type": "akn:schedule",
       "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~sched_1__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~sched_1__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~sched_1__para_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~sched_1__para_4"
+      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "(Seksyen 2) Akta ini tidak terpakai bagi transaksi atau dokumen yang berikut: 1. Surat kuasa wakil 2. Pembentukan wasiat dan kodisil 3. Pembentukan amanah 4. Surat cara boleh niaga"
+        "@value": "(Seksyen 2) Akta ini tidak terpakai bagi transaksi atau dokumen yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~sched_1__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Surat kuasa wakil"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~sched_1__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Pembentukan wasiat dan kodisil"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~sched_1__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Pembentukan amanah"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~sched_1__para_4",
+      "@type": "akn:paragraph",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Surat cara boleh niaga"
       }
     }
   ]

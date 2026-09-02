@@ -640,7 +640,9 @@ in order to determine the transfer pricing methodology to be used in any future 
 
 ### Amendment of First Schedule
 
-43. Paragraph 3A of the First Schedule to the principal Act is amended—
+43. Paragraph 3A of the First Schedule to the principal Act is
+
+<!-- marginal: amended— -->
 
 (a) in subparagraph (1), by substituting for the proviso to that paragraph the following proviso:
 
@@ -770,7 +772,7 @@ It is to be noted that any reference in Act 53 and Act 378 to the “Banking and
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
-## Chapter II of this Bill seeks to amend the Income Tax Act 1967.
+Chapter II of this Bill seeks to amend the Income Tax Act 1967.
 
 1. Clause 4 seeks to amend section 2 of Act 53 to introduce three new definitions of “deferred annuity”, “permanent total disablement” and “serious disease” into Act 53 as a consequence of the amendment to paragraph 6(1)(l) of Act 53.
 
@@ -896,9 +898,7 @@ This amendment comes into operation on the coming into operation of this Act.
 
 ## AMENDMENTS TO THE STAMP ACT 1949
 
-## Chapter III of this Bill seeks to amend the Stamp Act 1949. This Chapter
-
-commences on the coming into operation of this Act.
+Chapter III of this Bill seeks to amend the Stamp Act 1949. This Chapter commences on the coming into operation of this Act.
 
 26. Clause 34 seeks to amend subsection 9(7) of Act 378 to provide that a person who is authorized by the Collector of Stamp Duty to compound duty on specific instruments must keep records in connection with the issue of such instruments for a period of seven years for purposes of inspection by the Collector.
 
@@ -906,7 +906,7 @@ commences on the coming into operation of this Act.
 
 ## AMENDMENTS TO THE PETROLEUM (INCOME TAX) ACT 1967
 
-## Chapter IV of this Bill seeks to amend the Petroleum (Income Tax) Act
+Chapter IV of this Bill seeks to amend the Petroleum (Income Tax) Act
 
 1967.
 
@@ -946,7 +946,7 @@ These amendments have effect for the year of assessment 2014 and subsequent year
 
 ## AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976
 
-## Chapter V of this Bill seeks to amend the Real Property Gains Tax Act
+Chapter V of this Bill seeks to amend the Real Property Gains Tax Act
 
 1976.
 
@@ -954,7 +954,9 @@ These amendments have effect for the year of assessment 2014 and subsequent year
 
 These amendments come into operation on the coming into operation of this Act.
 
-36. Clause 48 seeks to amend subsubparagraph 5(4)(b) of Schedule 1 of Act 169. With the amendment, any director and other person who is concerned in the management of the company’s business and, either on his own or with one or more associates within the meaning of subparagraph 5(5) of Schedule 1 of Act 169, is the owner or able directly through the medium of other companies or by any other indirect means to control, not less than twenty per cent of the ordinary share capital of the company shall be jointly and severally liable for the payment of tax during the period in which the tax is liable to be paid by the company.
+36. Clause 48 seeks to amend subsubparagraph 5(4)(b) of Schedule 1 of Act
+
+169. With the amendment, any director and other person who is concerned in the management of the company’s business and, either on his own or with one or more associates within the meaning of subparagraph 5(5) of Schedule 1 of Act 169, is the owner or able directly through the medium of other companies or by any other indirect means to control, not less than twenty per cent of the ordinary share capital of the company shall be jointly and severally liable for the payment of tax during the period in which the tax is liable to be paid by the company.
 
 This amendment comes into operation on the coming into operation of this Act.
 
@@ -968,7 +970,7 @@ This amendment comes into operation on 1 January 2014.
 
 ## TAX ACT 1990
 
-## Chapter VI of this Bill seeks to amend the Labuan Business Activity Tax Act
+Chapter VI of this Bill seeks to amend the Labuan Business Activity Tax Act
 
 1990. This Chapter commences on the coming into operation of this Act.
 

@@ -186,7 +186,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_4",
       "schema:text": {
         "@language": "en",
-        "@value": "in Clause (2)— “(aa) the Chief Judge of the High Court in Malaya; (ab) the Chief Judge of the High Court in Sabah and Sarawak;”; “(b) the Attorney General, provided that he is not a member of Parliament;”; “(ba) the Public Prosecutor; (bb) the Solicitor General; and”; and “(c) a member who shall be appointed by the Yang di-Pertuan Agong in his discretion, after consultation with the Chief Justice of the Federal Court, from among persons who are or have been or are qualified to be a judge of the Federal Court, Court of Appeal or a High Court.”. Amendment of Article 145"
+        "@value": "in Clause (2)—"
       }
     },
     {
@@ -196,7 +196,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_4__para_b",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after paragraph (a) the following paragraphs:"
+        "@value": "by inserting after paragraph (a) the following paragraphs: “(aa) the Chief Judge of the High Court in Malaya; (ab) the Chief Judge of the High Court in Sabah and Sarawak;”;"
       }
     },
     {
@@ -206,7 +206,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_4__para_b",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for paragraph (b) the following paragraph:"
+        "@value": "by substituting for paragraph (b) the following paragraph: “(b) the Attorney General, provided that he is not a member of Parliament;”;"
       }
     },
     {
@@ -216,7 +216,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_4__para_b",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after paragraph (b) the following paragraphs:"
+        "@value": "by inserting after paragraph (b) the following paragraphs: “(ba) the Public Prosecutor; (bb) the Solicitor General; and”; and"
       }
     },
     {
@@ -226,7 +226,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_4__para_b",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for paragraph (c) the following paragraph:"
+        "@value": "by substituting for paragraph (c) the following paragraph: “(c) a member who shall be appointed by the Yang di-Pertuan Agong in his discretion, after consultation with the Chief Justice of the Federal Court, from among persons who are or have been or are qualified to be a judge of the Federal Court, Court of Appeal or a High Court.”. Amendment of Article 145"
       }
     },
     {

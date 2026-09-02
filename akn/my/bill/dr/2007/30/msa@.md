@@ -16,7 +16,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Tajuk ringkas dan permulaan kuat kuasa
 
-1. (1) Akta ini bolehlah dinamakan Akta Kesatuan Sekerja (Pindaan) 2007.
+1. (1) Akta ini bolehlah dinamakan Akta Kesatuan Sekerja (Pindaan)
+
+2007.
 
 (2) Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta, dan Menteri boleh menetapkan tarikh yang berlainan bagi permulaan kuat kuasa peruntukan yang berlainan Akta ini.
 
@@ -192,7 +194,9 @@ fourteen days prior to such change".
 
 ### Pengesahan
 
-20. Sesuatu kesatuan sekerja yang keanggotaannya terdiri daripada pekerja yang diambil kerja di tempat urusan atau pekerjaan seseorang majikan, termasuk mana-mana bahagian atau cawangan tempat urusan atau pekerjaan itu dan yang telah didaftarkan sebelum 5 Mei 1989, yang merupakan tarikh istilah "establishment" sebagaimana yang ditakrifkan dalam seksyen 2 Akta ibu mula berkuat kuasa, hendaklah bagi segala maksud disifatkan sebagai telah didaftarkan secara sah dan menurut undang-undang dan terus wujud seolah-olah kesatuan sekerja itu telah didaftarkan di bawah Akta ibu pada 5 Mei 1989.
+20. Sesuatu kesatuan sekerja yang keanggotaannya terdiri daripada pekerja yang diambil kerja di tempat urusan atau pekerjaan seseorang majikan, termasuk mana-mana bahagian atau cawangan tempat urusan atau pekerjaan itu dan yang telah didaftarkan sebelum 5 Mei 1989, yang merupakan tarikh istilah "establishment" sebagaimana yang ditakrifkan dalam seksyen 2 Akta ibu mula berkuat kuasa, hendaklah bagi segala maksud disifatkan sebagai telah didaftarkan secara sah dan menurut undang-undang dan terus wujud seolah-olah kesatuan sekerja itu telah didaftarkan di bawah Akta ibu pada 5 Mei
+
+1989.
 
 ## HURAIAN
 

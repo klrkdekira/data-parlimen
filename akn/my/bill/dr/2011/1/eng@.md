@@ -4,19 +4,19 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Interpretation
 
-## Part II
+## PART II
 
 ## ESTABLISHMENT AND FUNCTIONS OF THE NATIONAL VETERANS COUNCIL
 
 3. National Veterans Council 4. Functions of the Council 5. Allowances 6. Council to be assisted by the Department
 
-## Part III
+## PART III
 
 ## REGISTRATION OF VETERANS
 
@@ -28,7 +28,7 @@
 
 12. Issuance of Veteran Card
 
-## Part IV
+## PART IV
 
 ## REGISTRATION AND SUPERVISION OF VETERANS ASSOCIATIONS
 
@@ -56,13 +56,13 @@
 
 23. Consequences of refusal, revocation or suspension of registration
 
-## Part V
+## PART V
 
 ## GENERAL
 
 24. Power to make regulations
 
-## Schedule
+## SCHEDULE
 
 <!-- page 3 -->
 
@@ -130,7 +130,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 5 -->
 
-## Part II
+## PART II
 
 ## ESTABLISHMENT AND FUNCTIONS OF THE NATIONAL VETERANS
 
@@ -188,7 +188,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 6. The Council shall be assisted by the Department in the performance of its functions and the exercise of its powers under this Act.
 
-## Part III
+## PART III
 
 ## REGISTRATION OF VETERANS
 
@@ -238,7 +238,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (3) Any person to whom a Kad Bekas Tentera has been issued by the Jabatan Arah Rekod dan Pencen Markas Angkatan Tentera Malaysia immediately before the coming into operation of this Act and deemed to be a veteran under subsection 11(4) shall be issued a Veteran Card under this Act.
 
-## Part IV
+## PART IV
 
 ## REGISTRATION AND SUPERVISION OF VETERANS ASSOCIATIONS
 
@@ -342,7 +342,7 @@ may, within thirty days from the date of the notification of the decision of the
 
 (b) such association shall not receive or continue to receive funding for veterans activity or any matter in connection with the interest, affairs or welfare of veterans from the Government or any statutory body.
 
-## Part V
+## PART V
 
 ## GENERAL
 
@@ -370,7 +370,7 @@ may, within thirty days from the date of the notification of the decision of the
 
 (h) any other matter which is required by this Act to be prescribed or which is necessary or expedient to be prescribed for carrying this Act into effect.
 
-## Schedule
+## SCHEDULE
 
 [Section 14]
 

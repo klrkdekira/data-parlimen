@@ -1,0 +1,2335 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-25-2025",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~art_74",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Urban Renewal Bill 2025"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~art_74",
+      "@type": "akn:article",
+      "eli:number": "74",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Clause (4) of Article 76 and Clause (3) of Article 80"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "of the Federal Constitution, IT IS ENACTED by the Parliament of Malaysia as follows:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY Short title, application and commencement"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_15"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ADMINISTRATION Federal Executive Committee"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_23"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "URBAN RENEWAL Urban renewal project"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_16__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_16__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of this Act, an urban renewal project consists of the following:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an urban redevelopment project;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an urban regeneration project;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_16__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an urban revitalization project. Division 1 Urban redevelopment and urban regeneration Requirement of urban renewal project"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_17__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_17__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_17__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_17__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_17__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_17__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_17__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purpose of carrying out an urban renewal project in an urban renewal area, an approved developer shall comply with the following requirements:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_17__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to consult with the interested person referred to in subsection 19(3);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to obtain consent in accordance with the consent threshold referred to in section 19;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_17__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to obtain a visual inspection report by a Professional Engineer with Practising Certificate in respect of periodical inspection under the Street, Drainage and Building Act 1974 [Act 133];"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_17__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where a building is an abandoned building, to ensure a certificate of fitness for occupation or certificate of completion and compliance has not been issued;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_17__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where a building is a neglected building, to ensure whether the building is occupied, or a certificate of fitness for occupation or certificate of completion and compliance has been issued;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_17__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where a building is a mismanaged building by the management corporation which causes deterioration, to identify the deterioration of the structure or infrastructure of the building; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_17__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to identify whether a building causes nuisance to the inhabitants at large. Proposal report"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_18__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_18__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the State Executive Committee requests the Federal Executive Committee to carry out the urban renewal project in any State, the Secretary of the Federal Executive Committee shall prepare a proposal report for the purpose of carrying out an urban renewal project in such form and manner as the Federal Executive Committee may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Secretary of the Federal Executive Committee shall submit the proposal report under subsection (1) to the Federal Executive Committee for its consideration."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_18__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the Federal Executive Committee agrees to carry out an urban renewal project in such State, the Federal Executive Committee shall give directions to the body appointed under section 8 to issue a proposal document to any qualifying developer. Consent threshold"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_19__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_19__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_19__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_19__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purpose of carrying out an urban renewal project, the consent threshold is as follows:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_19__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_19__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where the proprietor voluntarily apply to the Federal Executive Committee or the State Executive Committee to carry out an urban renewal project, the consent threshold shall be unanimous consent; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_19__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_19__subsec_1__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_19__subsec_1__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_19__subsec_1__para_b__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_19__subsec_1__para_b__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_19__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where an urban renewal project is carried out by the Federal Executive Committee or the State Executive Committee—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_19__subsec_1__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_19__subsec_1__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for a building which is thirty years of or less, the consent threshold shall be eighty per cent;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_19__subsec_1__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_19__subsec_1__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for a building which is more than thirty years, the consent threshold shall be seventy-five per cent;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_19__subsec_1__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_19__subsec_1__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for an abandoned building, the consent threshold shall be fifty-one per cent; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_19__subsec_1__para_b__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_19__subsec_1__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for a building which a visual inspection report has been issued by a Professional Engineer with Practising Certificate under paragraph 17(c), the consent threshold shall be fifty-one per cent."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of subparagraphs (1)(b)(i) and (ii), the calculation of years of a building shall be determined from the date of issuance of certificate of fitness for occupation or certificate of completion and compliance under the Street, Drainage and Building Act 1974, as the case may be."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_19__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of paragraph (1)(b), the approved developer shall consult the interested person to achieve consent threshold and the consultation shall involve the local authority and the body appointed by the Federal Executive Committee under subsection 8(1) or the State Executive Committee under subsection 14(1), in the manner as prescribed. Qualifying developer, etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_20__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_20__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_20__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_20__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_20__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_20__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_20__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Federal Executive Committee may determine a qualifying developer to carry out an urban renewal project under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_20__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Secretary of the Federal Executive Committee shall keep and maintain a register of qualifying developers under subsection (1) in such form and manner as determined by the Federal Executive Committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_20__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The qualifying developer referred to in subsection (1) may apply to participate in an urban renewal project to the Federal Executive Committee or the State Executive Committee, as the case may be, in such form and manner as the Federal Executive Committee or the State Executive Committee may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_20__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_20__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_20__subsec_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_20__subsec_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The application under subsection (3) shall be accompanied by—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_20__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_20__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a project viability report;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_20__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_20__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a business plan within three months from the date of issuance of the proposal document under subsection 8(2), 14(2) or 18(3); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_20__subsec_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_20__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the prescribed fees."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_20__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_20__subsec_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_20__subsec_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon receipt of the application under subsection (3), the Federal Executive Committee or the State Executive Committee may—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_20__subsec_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_20__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "approve the application and issue the approval letter to the approved developer subject to such terms and conditions as the Federal Executive Committee or the State Executive Committee thinks fit; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_20__subsec_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_20__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "refuse the application."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_20__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of subsection (5), the State Executive Committee shall request from the Federal Executive Committee its advice before the approval of the application. Declaration of urban renewal area"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_21__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_21__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_21__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_21__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_21__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_21__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_21__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_21__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of an urban renewal project in the Federal Territories of Kuala Lumpur, Putrajaya and Labuan, the Minister of Federal Territories may, by notification in the Gazette, declare any area as an urban renewal area."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_21__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of an urban renewal project in the State, the State Authority may, by notification in the State Gazette, declare any area as an urban renewal area."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_21__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of an urban renewal project in the State carried out by the Federal Executive Committee, the Minister may, by notification in the Gazette, declare any area as an urban renewal area."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_21__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to section 19, upon an area being declared as an urban renewal area, an approved developer shall transfer or acquire any alienated land situated within the urban renewal area by purchase or compulsory acquisition under the Land Acquisition Act 1960 [Act 486]."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_21__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon declaration of an area as an urban renewal area under subsection (1), (2) or (3), the approved developer shall commence the urban renewal project within the period of twenty-four months from the date of declaration."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_21__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The approved developer may make an application for an extension of time for the period of twenty-four months referred to in subsection (5) to the Federal Executive Committee or the State Executive Committee, as the case may be, in the manner as prescribed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_21__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Federal Executive Committee or the State Executive Committee may extend the period referred to in subsection (5) as it thinks fit and proper. Division 2 Urban revitalization Non-application of Part or Division"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The provisions of Part II, Division 1 of Part III and Part IV shall not apply to the urban revitalization project. Urban revitalization project"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_23__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_23__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_23__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_23__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_23__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_23__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of an urban revitalization project, the local authority may serve a notice of intention for initiation of urban revitalization project to any interested person as the local authority thinks expedient to carry out an urban revitalization project."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_23__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon receipt of the notice of intention for initiation of urban revitalization project under subsection (1), the interested person may attend for consultation with the local authority within a period of time as specified in the notice of intention for initiation of urban revitalization project."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_23__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon consultation referred to in subsection (2) is concluded, the interested person may consent or refuse to consent with the initiation of urban revitalization project."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_23__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The local authority shall not carry out the urban revitalization project without the consent of the interested person."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_23__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_III__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The expenses and cost in carrying out the urban revitalization project under subsection (1) shall be agreed upon between the local authority and the interested person."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A committee by the name of “State Executive Committee” is established."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2__para_l",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2__para_m",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2__para_n"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The State Executive Committee shall consist of the following members:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Menteri Besar or Chief Minister as a Chairman of the State Executive Committee;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "one member of the State Executive Council appointed by the State Authority as a Deputy Chairman of the State Executive Committee;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "not more than three members who shall be appointed by the State Authority among the members of the State Executive Council;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the State Secretary;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the State Director of Town and Country Planning as the Secretary of the State Executive Committee;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the President, Mayor or Chairman for the local authority which participates in an urban renewal project;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "one member who is responsible for housing matters in the State;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the State Financial Officer;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chief Police Officer of a State or his representative;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the State Legal Advisor;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Director of the State Economic Planning Unit or his representative;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "one representative of the body appointed under subsection 14(1);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2__para_m",
+      "@type": "akn:paragraph",
+      "eli:number": "m",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "one representative from any Government agency as determined by the Chairman of the State Executive Committee; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2__para_n",
+      "@type": "akn:paragraph",
+      "eli:number": "n",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "not more than two other members who have knowledge and experience in any field related to urban renewal. Functions of State Executive Committee"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_11__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_11__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_11__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_11__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_11__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_11__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_11__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_11__subsec_1__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The State Executive Committee shall have the following functions:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_11__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to certify the proposal of urban renewal project received from the qualifying developer;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_11__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to approve an urban renewal area for the purposes of declaration of the urban renewal area after obtaining the advice of the Federal Executive Committee under paragraph 6(1)(a);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_11__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to oversee the progress report for the urban renewal project in the State periodically;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_11__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to propose to the State Authority an incentive to be granted to any interested person;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_11__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to approve a qualifying developer to carry out an urban renewal project in the State; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_11__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to perform any other functions relating to urban renewal for the proper implementation of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of implementation of an urban renewal project carried out in the State, the State Executive Committee may direct the approved developer to prepare a progress report of the urban renewal project."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_11__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The State Executive Committee may establish any subcommittee as the State Executive Committee thinks necessary and expedient in the performance of its functions. Meetings of State Executive Committee"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_12__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_12__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The State Executive Committee shall convene its meeting at least twice a year and the meeting shall be held at the time and place as determined by the Chairman of the State Executive Committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chairman of the State Executive Committee shall preside at all meetings of the State Executive Committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_12__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The State Executive Committee shall cause minutes of all its meetings to be maintained and kept in a proper form. Duty of State Executive Committee to consult"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The State Executive Committee shall consult the Federal Executive Committee on urban renewal project carried out in the State including the approved developer under paragraph 20(5)(a). State Executive Committee may appoint body"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_14__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_14__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The State Executive Committee may appoint a body as it thinks necessary and expedient to supervise the execution of the urban renewal project."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The body appointed under subsection (1) shall issue a proposal document to any qualifying developer in accordance with the directions of the State Executive Committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_14__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The body appointed under subsection (1) shall perform such other duties as the State Executive Committee may direct. Secretary of State Executive Committee"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_15__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_15__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purpose of carrying out an urban renewal project in the State, the Secretary of the State Executive Committee shall prepare a proposal report in such form and manner as the State Executive Committee may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The proposal report prepared by the Secretary of the State Executive Committee which has been approved by the State Executive Committee shall be submitted to the Federal Executive Committee for its advice."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_15__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Secretary of the State Executive Committee shall prepare a progress report of the urban renewal project carried out in the State as directed by the Federal Executive Committee under subsection 6(3)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A committee by the name of “Federal Executive Committee” is established."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2__para_l",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2__para_m"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Federal Executive Committee shall consist of the following members:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Minister as the Chairman of the Federal Executive Committee;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "one member of the State Executive Council for each State who is responsible for and whose portfolio is related to town and country planning;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chief Secretary of the Ministry of Housing and Local Government;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Director General of Town and Country Planning as the Secretary of the Federal Executive Committee;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Director General of Federal Lands and Mines or his representative;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chief Secretary of Treasury or his representative;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Inspector General of Police or his representative;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the President, Mayor or Chairman for the local authority which participates in an urban renewal project;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "not more than three members who shall be appointed by the Minister from among public officers;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Director of the State Economic Planning Unit for the State which participates in an urban renewal project;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the State Director of Lands and Mines for the State which participates in an urban renewal project;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "one representative of the body appointed under subsection 8(1) or 14(1); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2__para_m",
+      "@type": "akn:paragraph",
+      "eli:number": "m",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "not more than two other members who have knowledge and experience in any field related to urban renewal. Functions of Federal Executive Committee"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6__subsec_1__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6__subsec_1__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Federal Executive Committee shall have the following functions:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to advise the State Executive Committee on the declaration of the urban renewal area referred to in section 21;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to advise the State Executive Committee on the viability of the urban renewal project;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to oversee the progress report of an urban renewal project periodically;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to certify any approved developer and interested person to receive the incentive as prescribed;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to protect the interest of the interested person under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to approve a qualifying developer to carry out an urban renewal project;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to advise the State Executive Committee on the urban renewal project including the qualifying developer; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6__subsec_1__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to perform any other functions relating to urban renewal for the proper implementation of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of implementation of an urban renewal project carried out in the Federal Territories of Kuala Lumpur, Putrajaya and Labuan, the Federal Executive Committee may direct the approved developer to prepare a progress report of the urban renewal project."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of implementation of an urban renewal project carried out in the State, the Federal Executive Committee may direct the Secretary of the State Executive Committee to prepare a progress report of the urban renewal project in the State."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon request by the State Executive Committee to carry out an urban renewal project in the State, the Federal Executive Committee may direct the approved developer to prepare a progress report of the urban renewal project."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Federal Executive Committee may establish any subcommittee as the Federal Executive Committee thinks necessary and expedient in the performance of its functions. Meetings of Federal Executive Committee"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_7__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_7__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Federal Executive Committee shall convene its meeting at least twice a year and the meeting shall be held at the time and place as determined by the Chairman of the Federal Executive Committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chairman of the Federal Executive Committee shall preside at all meetings of the Federal Executive Committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_7__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Federal Executive Committee shall cause minutes of all its meetings to be maintained and kept in a proper form. Federal Executive Committee may appoint body"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_8__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Federal Executive Committee may appoint a body as it thinks necessary and expedient to supervise the execution of the urban renewal project."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The body appointed under subsection (1) shall issue a proposal document as prescribed to any qualifying developer in accordance with the directions of the Federal Executive Committee. Secretary of Federal Executive Committee"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_9__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purpose of carrying out an urban renewal project in the Federal Territories of Kuala Lumpur, Putrajaya and Labuan, the Secretary of the Federal Executive Committee shall prepare a proposal report in such form and manner as the Federal Executive Committee may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Secretary of the Federal Executive Committee shall submit the proposal report under subsection (1) to the Federal Executive Committee for its consideration."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Secretary of the Federal Executive Committee shall keep and maintain a register of qualifying developers as required under subsection 20(2). State Executive Committee"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_28"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PROTECTION OF INTEREST Protection of interested person"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_24__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_24__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_24__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Federal Executive Committee or the State Executive Committee shall ensure that the interested person who has agreed to participate in an urban renewal project—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_24__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "has received an offer of benefit of not less favourable than the offer of benefit to which he was offered before the carrying out of the urban renewal project;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_24__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "has been offered to remain in the urban renewal area unless the interested person decides otherwise; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_24__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "being informed of the progress of the urban renewal project upon request. Federal Urban Renewal Mediation Committee"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_25__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_25__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_25__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_25__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_25__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_25__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "There shall be a Federal Urban Renewal Mediation Committee for the purpose of protecting the interest of interested person."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_25__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_25__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_25__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of an urban renewal project carried out by the Federal Executive Committee, the Federal Urban Renewal Mediation Committee shall consist of the following members appointed by the Federal Executive Committee:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_25__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_25__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "two members of the Board of Town Planners Malaysia; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_25__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_25__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "not less than three members who have knowledge and experience in the field relating to law, project management, sociology or economy."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_25__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_25__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_25__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Federal Urban Renewal Mediation Committee shall—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_25__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_25__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "hold office for a term not exceeding three years; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_25__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_25__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "be eligible for reappointment upon the expiry of his term of office but shall not be appointed for more than two consecutive terms."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_25__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Federal Urban Renewal Mediation Committee shall carry out the mediation as prescribed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_25__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Federal Urban Renewal Mediation Committee shall be paid such allowances as the Minister may determine after consultation with the Minister of Finance. Disclosure of interest of Federal Urban Renewal Mediation Committee"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_26__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_26__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_26__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_26__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Federal Urban Renewal Mediation Committee shall disclose, as soon as practicable, to the Federal Executive Committee any interest, whether substantial or not, which may conflict with the member’s duties as a member of the Federal Urban Renewal Mediation Committee in an urban renewal project."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_26__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of subsection (1), where a member has interest in an urban renewal project carried out by the Federal Executive Committee, the member shall not be present or take part in the mediation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_26__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_26__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_26__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where a member of the Federal Urban Renewal Mediation Committee fails to disclose his interest in an urban renewal project—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_26__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_26__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the member shall be subject to cessation of membership as determined by the Federal Executive Committee; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_26__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_26__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Federal Executive Committee may appoint another person to fill the vacancy and any person so appointed shall hold office for the remaining period. State Urban Renewal Mediation Committee"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_27__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_27__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_27__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_27__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_27__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_27__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "There shall be a State Urban Renewal Mediation Committee for the purpose of protecting the interest of interested person."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_27__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_27__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_27__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of an urban renewal project carried out by the State Executive Committee, the State Urban Renewal Mediation Committee shall consist of the following members appointed by the State Executive Committee:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_27__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "two members of the Board of Town Planners Malaysia other than the members appointed in the Federal Urban Renewal Mediation Committee; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_27__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "not less than three members who have knowledge and experience in the field relating to law, project management, sociology or economy."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_27__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_27__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_27__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the State Urban Renewal Mediation Committee shall—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_27__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_27__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "hold office for a term not exceeding three years; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_27__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_27__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "be eligible for reappointment upon the expiry of his term of office but shall not be appointed for more than two consecutive terms."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_27__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The State Urban Renewal Mediation Committee shall carry out the mediation as prescribed in the State Gazette."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_27__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the State Urban Renewal Mediation Committee shall be paid such allowances as the State Authority may determine. Disclosure of interest of State Urban Renewal Mediation Committee"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_28__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_28__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_28__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_28__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the State Urban Renewal Mediation Committee shall disclose, as soon as practicable, to the State Executive Committee any interest, whether substantial or not, which may conflict with the member’s duties as a member of the State Urban Renewal Mediation Committee in an urban renewal project."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_28__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of subsection (1), where a member has interest in an urban renewal project carried out by the State Executive Committee, the member shall not be present or take part in the mediation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_28__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_28__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_28__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where a member of the State Urban Renewal Mediation Committee fails to disclose his interest in an urban renewal project—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_28__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_28__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the member shall be subject to cessation of membership as determined by the State Executive Committee; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_28__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_IV__cl_28__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the State Executive Committee may appoint another person to fill the vacancy and any person so appointed shall hold office for the remaining period."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_1__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Urban Renewal Act 2025."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall apply to Peninsular Malaysia and the Federal Territory of Labuan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_1__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_1__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_1__subsec_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette and the Minister may appoint different dates—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_1__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_1__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for the coming into operation of this Act in different parts of Peninsular Malaysia and Federal Territory of Labuan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_1__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_1__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for the coming into operation of different provisions of this Act; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_1__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_1__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for the coming into operation of different provisions of this Act in different parts of Peninsular Malaysia and the Federal Territory of Labuan. Non-application of Act"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall not apply to the heritage site under the National Heritage Act 2005 [Act 645]. Construction of Act"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall be read together with the relevant written laws in relation to town and country planning, land, housing and local government. Interpretation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_4__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_4__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "“consent threshold” means a consent threshold by interested person to participate in an urban renewal project under section 19; “building” means any house, hut, shed or roofed enclosure, whether used for human habitation or otherwise, and any wall, fence, platform, staging, gate, post, pillar, paling, frame, hoarding, slip, dock, wharf, pier, jetty, landing-stage or bridge, or any structure support or foundation connected to the house, hut, shed or roofed enclosure; “prescribed” means prescribed by rules made under this Act; “incentive” means a benefit or reward given to any interested person by the Federal Government or the State Authority in the form of taxable or non-taxable revenue; “State Executive Committee” means the State Executive Committee established under section 10; “Federal Executive Committee’’ means the Federal Executive Committee established under section 5; “Professional Engineer with Practising Certificate” has the meaning assigned to it in the Registration of Engineers Act 1967 [Act 138]; “nuisance” has the meaning assigned to it in the Local Government Act 1976 [Act 171]; “urban renewal area” means an area or site identified for urban renewal in a development plan; “Minister” means the Minister charged with the responsibility of the control and supervision of urban renewal; “interested person” means a proprietor, developer, trustee, liquidator, legal representative, or administrator or executor if the proprietor is dead; “approved developer” means a qualifying developer approved by the Federal Executive Committee or the State Executive Committee to carry out an urban renewal project; “qualifying developer” means any person or body of persons who engages in or carries on the business of developing land or building, providing moneys for development of land or building, or purchasing land or building; “urban redevelopment” means a development made to change the physical condition of the existing sites which includes demolishing buildings, clearing of the sites, erecting buildings, and upgrading infrastructure and utility facilities; “proprietor” means any person or body registered as the proprietor of any building or alienated land; “Chairman of the State Executive Committee” means the Chairman of the State Executive Committee referred to in paragraph 10(2)(a); “Chairman of the Federal Executive Committee” means the Chairman of the Federal Executive Committee referred to in paragraph 5(2)(a); “urban regeneration” means a regeneration of an area or building including a building which is neglected, dilapidated or abandoned by repairing the existing building, upgrading the infrastructure or utility facilities, and landscaping; “urban revitalization” includes improving an area or building by upgrading, beautifying or landscaping, or changing the functions of the area or building; “State Authority” means—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_4__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_4__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_4__list_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_4"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_4__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_4__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in relation to the States of Peninsular Malaysia, the Ruler-in-Council or Governor-in-Council of a State and includes in Negeri Sembilan, the Yang di-Pertuan Besar acting on behalf of himself and the Ruling Chiefs; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_4__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_4__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in relation to the Federal Territories of Kuala Lumpur, Putrajaya and Labuan, the Minister charged with the responsibility for local government; “local authority” means—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_4__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_4__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_4__list_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_4__list_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_4__list_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_4"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_4__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_4__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any local authority established under the Local Government Act 1976;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_4__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_4__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in relation to the Federal Territory of Kuala Lumpur, the Commissioner of the City of Kuala Lumpur appointed under section 4 of the Federal Capital Act 1960 [Act 190];"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_4__list_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_4__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in relation to the Federal Territory of Putrajaya, the Perbadanan Putrajaya established under the Perbadanan Putrajaya Act 1995 [Act 536]; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_4__list_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_I__cl_4__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in relation to the Federal Territory of Labuan, the Perbadanan Labuan established under the Perbadanan Labuan Act 2001 [Act 609]; “development plan” has the meaning assigned to it in the Town and Country Planning Act 1976 [Act 172] and the Federal Territory (Planning) Act 1982 [Act 267]; “land” has the meaning assigned to it in the National Land Code [Act 828]; “Secretary of the State Executive Committee” means the Secretary of the State Executive Committee referred to in section 15; “Secretary of the Federal Executive Committee” means the Secretary of the Federal Executive Committee referred to in section 9."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V__cl_31"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "GENERAL Power to make rules"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V__cl_29__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V__cl_29__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V__cl_29__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V__cl_29__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may make rules for the purpose of carrying into effect the provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V__cl_29__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V__cl_29__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V__cl_29__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V__cl_29__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V__cl_29__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V__cl_29__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V__cl_29__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V__cl_29__subsec_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V__cl_29__subsec_2__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to the generality of subsection (1), rules may be made for the following purposes:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V__cl_29__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V__cl_29__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe any matter relating to incentives to an approved developer and any interested person;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V__cl_29__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V__cl_29__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe any matter relating to proposal document;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V__cl_29__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V__cl_29__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe any matter for obtaining unanimous consent;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V__cl_29__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V__cl_29__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe the manner of consultation to achieve consent threshold;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V__cl_29__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V__cl_29__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe the fees payable under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V__cl_29__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V__cl_29__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe the manner relating to extension of time to commence an urban renewal project;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V__cl_29__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V__cl_29__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe any matter relating to mediation under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V__cl_29__subsec_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V__cl_29__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to provide for any other matters required by this Act to be prescribed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V__cl_29__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The State Authority may make rules for the purpose of carrying out or giving effect to the provisions of this Act. Public servant"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any officer of a body appointed by the Federal Executive Committee or the State Executive Committee while discharging his duties or performing his functions under this Act in such capacity shall be deemed to be a public servant within the meaning of Penal Code [Act 574]. Public Authorities Protection Act 1948"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/25/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Public Authorities Protection Act 1948 [Act 198] shall apply to any action, suit, prosecution or proceedings against any member of the Federal Executive Committee or the State Executive Committee, or any officer of a body appointed by the Federal Executive Committee or the State Executive Committee, in respect of any act or thing done or committed by him in such capacity."
+      }
+    }
+  ]
+}

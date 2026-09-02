@@ -4,27 +4,43 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Interpretation
 
-## Part II
+## PART II
 
 ## THE CORPORATION
 
-3. Establishment of the Corporation 4. Common seal 5. Membership of the Corporation 6. First Schedule 7. Tenure of office 8. Remuneration and allowances 9. Revocation of appointment and resignation 10. Vacation of office 11. Temporary exercise of functions of the Chairman 12. Committees 13. Disclosure of interest
+3. Establishment of the Corporation 4. Common seal 5. Membership of the Corporation 6. First Schedule 7. Tenure of office 8. Remuneration and allowances 9. Revocation of appointment and resignation
 
-## Part III
+10. Vacation of office
+
+11. Temporary exercise of functions of the Chairman
+
+12. Committees
+
+13. Disclosure of interest
+
+## PART III
 
 ## FUNCTIONS AND POWERS OF THE CORPORATION
 
-14. Functions of the Corporation 15. Powers of the Corporation 16. Delegation of the Corporation’s functions and powers 17. Direction by Minister 18. Returns, reports, accounts and information
+14. Functions of the Corporation
+
+15. Powers of the Corporation
+
+16. Delegation of the Corporation’s functions and powers
+
+17. Direction by Minister
+
+18. Returns, reports, accounts and information
 
 <!-- page 2 -->
 
-## Part IV
+## PART IV
 
 ## ADVISORY COUNCIL
 
@@ -44,7 +60,7 @@
 
 26. Allowances
 
-## Part V
+## PART V
 
 ## EMPLOYEES OF THE CORPORATION
 
@@ -64,7 +80,7 @@
 
 34. Corporation may adopt regulations, etc.
 
-## Part VI
+## PART VI
 
 ## FINANCE
 
@@ -86,13 +102,39 @@
 
 <!-- page 3 -->
 
-43. Payment to the Federal Consolidated Fund 44. Limitation on contracts 45. Financial procedure 46. Financial year 47. Accounts and reports 48. Statutory Bodies (Accounts and Annual Reports) Act 1980
+43. Payment to the Federal Consolidated Fund
 
-## Part VII
+44. Limitation on contracts
+
+45. Financial procedure
+
+46. Financial year
+
+47. Accounts and reports
+
+48. Statutory Bodies (Accounts and Annual Reports) Act 1980
+
+## PART VII
 
 ## GENERAL
 
-49. Prosecution 50. Public servant 51. Public Authorities Protection Act 1948 52. Obligation of secrecy 53. Representation in civil proceedings 54. Power to establish companies 55. Power to make regulations F irst s chedule second s chedule
+49. Prosecution
+
+50. Public servant
+
+51. Public Authorities Protection Act 1948
+
+52. Obligation of secrecy
+
+53. Representation in civil proceedings
+
+54. Power to establish companies
+
+55. Power to make regulations
+
+## F IRST S CHEDULE
+
+## SECOND S CHEDULE
 
 <!-- page 5 -->
 
@@ -104,7 +146,7 @@ An Act to establish the Kampong Bharu Development Corporation, to make provision
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -144,7 +186,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 “appointed date” means the date appointed by the Minister under subsection 1(2).
 
-## Part II
+## PART II
 
 ## THE CORPORATION
 
@@ -348,7 +390,7 @@ when the matter is discussed or decided upon.
 
 (e) any corporation within the meaning of the Companies Act 1965 [Act 125], of which the member or any nominee of his or a member of the member’s family is a director or has a substantial shareholding in the corporation.
 
-## Part III
+## PART III
 
 ## FUNCTIONS AND POWERS OF THE CORPORATION
 
@@ -456,7 +498,7 @@ when the matter is discussed or decided upon.
 
 <!-- page 17 -->
 
-## Part IV
+## PART IV
 
 ## ADVISORY COUNCIL
 
@@ -548,7 +590,7 @@ when the matter is discussed or decided upon.
 
 <!-- page 20 -->
 
-## Part V
+## PART V
 
 ## EMPLOYEES OF THE CORPORATION
 
@@ -652,7 +694,7 @@ by equal monthly installments not exceeding one-fourth of the total monthly sala
 
 34. The Corporation may, with the approval of the Minister, adopt with such modifications as it deems fit any regulations, rules, policies, circulars and directives enacted or issued by the Federal Government in relation to any matter under this Part.
 
-## Part VI
+## PART VI
 
 ## FINANCE
 
@@ -772,7 +814,7 @@ by equal monthly installments not exceeding one-fourth of the total monthly sala
 
 <!-- page 28 -->
 
-## Part VII
+## PART VII
 
 ## GENERAL
 
@@ -830,7 +872,7 @@ any person authorized by the Corporation for that purpose may, on behalf of the 
 
 (c) providing for such other matters as are necessary for giving effect to the provisions of this Act.
 
-First s chedule
+## FIRST S CHEDULE
 
 [Section 6]
 
@@ -880,7 +922,7 @@ First s chedule
 
 8. The members of the Corporation shall devote such time to the business of the Corporation as is necessary to discharge their duties effectively.
 
-second s chedule
+## SECOND S CHEDULE
 
 [Subsection 20(3)]
 
@@ -930,7 +972,7 @@ second s chedule
 
 The proposed Kampong Bharu Development Corporation Act 2011 (“the proposed Act”) seeks to establish the Kampong Bharu Development Corporation with the responsibility to implement the policies, directions and strategies in relation to the development of Kampong Bharu development area, to promote, stimulate, encourage, facilitate and co-ordinate the development of Kampong Bharu development area and to provide for matters connected therewith.
 
-## Part I
+## PART I
 
 2. Part I deals with preliminary matters.
 
@@ -938,7 +980,7 @@ The proposed Kampong Bharu Development Corporation Act 2011 (“the proposed Act
 
 4. Clause 2 contains the definitions of certain words used in the proposed Act.
 
-## Part II
+## PART II
 
 5. Part II contains provisions relating to the establishment of the Kampong Bharu Development Corporation.
 
@@ -966,7 +1008,7 @@ The proposed Kampong Bharu Development Corporation Act 2011 (“the proposed Act
 
 16. Clause 13 requires a member of the Corporation or any committee established by the Corporation to disclose his interest in any matter under discussion by the Corporation or the committee. Non-disclosure is an offence and is subject to a penalty.
 
-## Part III
+## PART III
 
 17. Part III deals with functions and powers of the Corporation.
 
@@ -978,7 +1020,7 @@ The proposed Kampong Bharu Development Corporation Act 2011 (“the proposed Act
 
 21. Clause 18 places a duty on the Corporation to furnish certain returns, reports, accounts and information to the Minister or any public authority.
 
-## Part IV
+## PART IV
 
 22. Part IV which contains clauses 19 to 26, deals with the Advisory Council which is established under the proposed Act. The establishment of the Advisory Council is for the purpose of giving advice to the Corporations in order to have check and balance in the administration of the Corporation especially with regard to the interest of the Malays in Kampong Bharu.
 
@@ -1000,7 +1042,7 @@ The proposed Kampong Bharu Development Corporation Act 2011 (“the proposed Act
 
 30. Clause 26 provides for the payment of allowances to members of the Advisory Council.
 
-## Part V
+## PART V
 
 31. Part V deals with the employees of the Corporation.
 
@@ -1018,7 +1060,7 @@ The proposed Kampong Bharu Development Corporation Act 2011 (“the proposed Act
 
 38. Clause 34 seeks to allow the Corporation to adopt with such modifications as it deems fit, any regulations, rules, policies, circulars and directives enacted or issued by the Federal Government in relation to any matter under this Part.
 
-## Part VI
+## PART VI
 
 39. Part VI contains financial provisions.
 
@@ -1052,7 +1094,7 @@ The proposed Kampong Bharu Development Corporation Act 2011 (“the proposed Act
 
 53. Clause 48 provides that the Statutory Bodies (Accounts and Annual Reports) Act 1980 applies to the Corporation.
 
-## Part VII
+## PART VII
 
 54. Part VII contains general provisions.
 

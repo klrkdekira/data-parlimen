@@ -8,27 +8,13 @@
 
 ## PRELIMINARY
 
-1. Short title and commencement.
-
-2. Interpretation.
-
-3. Functions, powers and duties of the Bank.
+1. Short title and commencement. 2. Interpretation. 3. Functions, powers and duties of the Bank.
 
 ## PART II
 
 ## LICENSING OF OFFSHORE BANKS
 
-4. Offshore banking business to be carried on only under licence.
-
-5. Submission of application for licence to Bank.
-
-6. Grant or refusal of licence by Minister.
-
-7. Requirement to use, and restriction on use of, the words "off- shore bank", etc.
-
-8. Revocation of licence.
-
-9. Surrender of licence
+4. Offshore banking business to be carried on only under licence. 5. Submission of application for licence to Bank. 6. Grant or refusal of licence by Minister. 7. Requirement to use, and restriction on use of, the words "off- shore bank", etc. 8. Revocation of licence. 9. Surrender of licence
 
 10. Licensed offshore banks to stop carrying on offshore banking business on revocation or surrender of licence.
 
@@ -62,7 +48,11 @@
 
 ## SECRECY
 
-21. Restriction on inquiry specifically into affairs of particular customer. 22. Secrecy. 23. Verification of licensed offshore bank's submissions.
+21. Restriction on inquiry specifically into affairs of particular customer.
+
+22. Secrecy.
+
+23. Verification of licensed offshore bank's submissions.
 
 ## PART V
 
@@ -76,7 +66,7 @@
 
 ## A BILL
 
-3
+<!-- marginal: 3 -->
 
 intituled
 
@@ -88,21 +78,33 @@ BE IT ENACTED by the Dull Yang Maha Mulia Sen Paduka Baginda Yang di-Pertuan Ago
 
 ## PRELIMINARY
 
-Short title and
+<!-- marginal: Short title and -->
 
-1. This Act may be cited as the Offshore Banking Act 1990 commencement and shall come into force on such date as the Minister may, by notification in the Gazette, appoint,
+1. This Act may be cited as the Offshore Banking Act 1990
 
-Interpretation.
+<!-- marginal: commencement -->
+
+and shall come into force on such date as the Minister may, by notification in the Gazette, appoint,
+
+<!-- marginal: Interpretation. -->
 
 2. (1) In this Act, unless the context otherwise requires —
 
-"Bank" means the Central Bank of Malaysia established Ord. 61158. by the Central Bank of Malaysia Ordinance 1958;
+"Bank" means the Central Bank of Malaysia established
+
+<!-- marginal: Ord. 61158. -->
+
+by the Central Bank of Malaysia Ordinance 1958;
 
 "capital funds" means paid-up capital and reserves;
 
 "constituent documents", in relation to an applicant under section 5 or a licensed offshore bank, means the statute, charter, memorandum of association and articles of association, rules, by-laws, partnership agreement, or other instrument, under or by which the applicant or the licensed offshore bank is established and its governing and administrative structure and the scope of its functions, business, powers and duties are set out, whether contained in one or more documents;
 
-"corporation" has the meaning assigned to it in the Act , Offshore Companies Act 1990;
+"corporation" has the meaning assigned to it in the
+
+<!-- marginal: Act -->
+
+, Offshore Companies Act 1990;
 
 <!-- page 4 -->
 
@@ -130,7 +132,15 @@ Interpretation.
 
 "licensed offshore bank" means an offshore bank licensed under section 6 (2);
 
-"Malaysian bank" means a licensed bank as defined in the Act 372. Banking and Financial Institutions Act 1989 or an Islamic Act 276. bank as defined in the Islamic Banking Act 1983;
+"Malaysian bank" means a licensed bank as defined in the
+
+<!-- marginal: Act 372. -->
+
+Banking and Financial Institutions Act 1989 or an Islamic
+
+<!-- marginal: Act 276. -->
+
+bank as defined in the Islamic Banking Act 1983;
 
 "Minister" means the Minister for the time being charged with the responsibility for finance;
 
@@ -160,9 +170,19 @@ Interpretation.
 
 (2) Where any person is required by or under this Act to submit, produce or provide to the Bank any information, statistic, return or document, the Bank may specify that the same shall be submitted, produced or provided in such form and manner and within such period or at such intervals or times, not inconsistent with any provision of this Act or the regulation made thereunder, as the Bank may set out in the specification; and such person shall not submit, produce or provide as true or accurate any information, statistic, return or document which he knows, or has reason to believe, to be false, inaccurate or misleading.
 
-Functions,
+<!-- marginal: Functions, -->
 
-3. (1) The Bank shall have all the functions and powers powers and conferred, and the duties imposed, on it by this Act and the duties of the Bank. same shall not derogate from, and shall be without prejudice to, the functions, powers and duties conferred on the Bank under any other written law.
+3. (1) The Bank shall have all the functions and powers
+
+<!-- marginal: powers and -->
+
+conferred, and the duties imposed, on it by this Act and the
+
+<!-- marginal: duties of the -->
+
+<!-- marginal: Bank. -->
+
+same shall not derogate from, and shall be without prejudice to, the functions, powers and duties conferred on the Bank under any other written law.
 
 (2) The Bank may authorise any officer of the Bank to perform any of the functions, exercise any of the powers, or discharge any of the duties of the Bank under this Act.
 
@@ -170,19 +190,43 @@ Functions,
 
 ## LICENSING OF OFFSHORE BANKS
 
-Offshore
+<!-- marginal: Offshore -->
 
-4. No person shall carry on offshore banking business banking unless— business to be carried on
+4. No person shall carry on offshore banking business
 
-(a) it is an offshore company or a foreign offshore only under licence. company, established or registered for the sole and exclusive purpose of carrying on offshore banking business in the Federal Territory of Labuan; or
+<!-- marginal: banking -->
+
+unless—
+
+<!-- marginal: business to be -->
+
+<!-- marginal: carried on -->
+
+(a) it is an offshore company or a foreign offshore
+
+<!-- marginal: only under -->
+
+<!-- marginal: licence. -->
+
+company, established or registered for the sole and exclusive purpose of carrying on offshore banking business in the Federal Territory of Labuan; or
 
 (b) it is a Malaysian bank,
 
 and holds a valid licence to carry on such business.
 
-Submission of
+<!-- marginal: Submission of -->
 
-5. (1) An application for a licence to carry on offshore application for banking business shall be made in writing by or on behalf of licence to Bank. the applicant to the Minister by submitting the application to the Bank.
+5. (1) An application for a licence to carry on offshore
+
+<!-- marginal: application for -->
+
+banking business shall be made in writing by or on behalf of
+
+<!-- marginal: licence to -->
+
+<!-- marginal: Bank. -->
+
+the applicant to the Minister by submitting the application to the Bank.
 
 <!-- page 7 -->
 
@@ -206,9 +250,7 @@ shall, unless otherwise specified by the Bank, be accompanied with the following
 
 as the case may be;
 
-(cc)
-
-(i) where the applicant is a foreign offshore company or a Malaysian bank, a copy of the audited balance sheet of the applicant's business; or
+(cc) (i) where the applicant is a foreign offshore company or a Malaysian bank, a copy of the audited balance sheet of the applicant's business; or
 
 (ii) where the applicant is an offshore company which is a subsidiary of a holding company, a copy of the audited balance sheet of its holding company's business; or
 
@@ -250,9 +292,7 @@ chief executive officer shall only be made after consultation with the Bank; and
 
 for the sole and exclusive purpose of carrying on offshore banking business shall, unless otherwise specified by the Bank, be accompanied with the following:
 
-(aa)
-
-(i) in the case of an applicant under paragraph
+(aa) (i) in the case of an applicant under paragraph
 
 (a), the constituent documents under which it is to be established, duly authenticated in such manner as may be acceptable to the Bank by any of its proposed directors or officers; or
 
@@ -260,9 +300,7 @@ for the sole and exclusive purpose of carrying on offshore banking business shal
 
 (b), the constituent documents under which it is established, duly authenticated in such manner as may be acceptable to the Bank by any of its directors or officers;
 
-(bb)
-
-(i) in the case of an applicant under paragraph
+(bb) (i) in the case of an applicant under paragraph
 
 (a), a copy of the audited balance sheet of the business of its proposed participants who would each holds ten per centum or more of its paid-up capital; or
 
@@ -284,9 +322,13 @@ for each of the three financial years immediately preceding the date of the appl
 
 (iv) the names and addresses of, the proposed participants of the proposed offshore company or, the participants of the foreign company, who each would hold ten per centum or more of the paid-up capital of the proposed offshore company or foreign company, as the case may be;
 
-(dd) (i) in the case of a proposed offshore company, a guarantee secured, and an undertaking given, by its proposed participants that they would cause the proposed company, upon being incorporated, to secure a guarantee and give an undertaking as are referred to in subsection (2) (ee); or
+(dd)
 
-(ii) in the case of a foreign company, a guarantee secured, and an undertaking given, by the applicant as are referred to in subsection (2) (ee);and
+(i) in the case of a proposed offshore company, a guarantee secured, and an undertaking given, by its proposed participants that they would cause the proposed company, upon being incorporated, to secure a guarantee and give an undertaking as are referred to in subsection (2) (ee); or
+
+(ii) in the case of a foreign company, a guarantee secured, and an undertaking given, by the applicant as are referred to in subsection (2)
+
+(ee);and
 
 (ee) a statement on the names, addresses, qualifications, working experience and proposed
 
@@ -296,11 +338,25 @@ positions of, all proposed directors and officers of the proposed offshore compa
 
 (4) The Bank may, at any time after receiving an application under this section and before it is determined by the Minister, verbally or in writing require the applicant to provide verbally or in writing such additional information, or to provide such additional documents, as may be considered necessary by the Bank for the purposes of determining the suitability of the applicant for the licence.
 
-Grant or
+<!-- marginal: Grant or -->
 
-6. (1) The Bank shall, on an application having been duly refusal of made in accordance with section 5 and after being provided licence by Minister. with all such information and documents as it may require under that section, consider the application and make a recommendation to the Minister as to whether or not the licence should be granted.
+6. (1) The Bank shall, on an application having been duly
 
-(2) Upon receiving an application and the recommendation of the Bank under subsection (1), the Minister may grant the licence or refuse to grant the licence.
+<!-- marginal: refusal of -->
+
+made in accordance with section 5 and after being provided
+
+<!-- marginal: licence by -->
+
+<!-- marginal: Minister. -->
+
+with all such information and documents as it may require under that section, consider the application and make a recommendation to the Minister as to whether or not the licence should be granted.
+
+(2) Upon receiving an application and
+
+<!-- marginal: the -->
+
+recommendation of the Bank under subsection (1), the Minister may grant the licence or refuse to grant the licence.
 
 (3) A licence granted to any applicant under subsection
 
@@ -340,9 +396,13 @@ and the licence shall take effect upon such amendment, incorporation or registra
 
 (2) The revocation of licence under this section shall take effect on the date the decision of the Minister is communicated to the licensed offshore bank.
 
-Surrender of
+<!-- marginal: Surrender of -->
 
-9. (1) Subject to this section, a licensed offshore licence licence. bank may surrender its licence.
+9. (1) Subject to this section, a licensed offshore licence
+
+<!-- marginal: licence. -->
+
+bank may surrender its licence.
 
 (2) Any licensed offshore bank intending to surrender its licence shall seek the prior approval of the Bank.
 
@@ -354,25 +414,85 @@ Surrender of
 
 <!-- page 14 -->
 
-Licensed
+<!-- marginal: Licensed -->
 
-10. Where the revocation of a licence under section 8 or its offshore banks surrender under section 9 has taken effect, the offshore bank to stop carrying to which the licence was granted shall thereupon cease to on offshore banking carry on any offshore banking business: business on revocation or surrender of Provided that the Minister may, on the recommendation licence. of the Bank, authorise the offshore bank in writing to carry on such activities for such duration, as the Minister may specify in the authorisation, for the purpose of winding-up its affairs.
+10. Where the revocation of a licence under section 8 or its
 
-Minimum
+<!-- marginal: offshore banks -->
 
-11. No applicant shall be granted a licence under section 6 amount of
+surrender under section 9 has taken effect, the offshore bank
 
-(2) and no licensed offshore bank shall carry on offshore capital funds. banking business without the written consent of the Minister if its capital funds, unimpaired by losses, are less than ten million ringgit or its equivalent in any other currency.
+<!-- marginal: to stop carrying -->
 
-Amendment or
+to which the licence was granted shall thereupon cease to
 
-12. (1) Every licensed Malaysian offshore bank shall, alteration of prior to the making of any amendment or alteration to any of constituent its constituent documents, furnish to the Bank particulars in documents of licensed off- writing as to such proposed amendment or alteration for the shore banks. approval of the Bank.
+<!-- marginal: on offshore -->
+
+<!-- marginal: banking -->
+
+carry on any offshore banking business:
+
+<!-- marginal: business on -->
+
+<!-- marginal: revocation or -->
+
+<!-- marginal: surrender of -->
+
+Provided that the Minister may, on the recommendation
+
+<!-- marginal: licence. -->
+
+of the Bank, authorise the offshore bank in writing to carry on such activities for such duration, as the Minister may specify in the authorisation, for the purpose of winding-up its affairs.
+
+<!-- marginal: Minimum -->
+
+11. No applicant shall be granted a licence under section 6
+
+<!-- marginal: amount of -->
+
+(2) and no licensed offshore bank shall carry on offshore
+
+<!-- marginal: capital funds. -->
+
+banking business without the written consent of the Minister if its capital funds, unimpaired by losses, are less than ten million ringgit or its equivalent in any other currency.
+
+<!-- marginal: Amendment or -->
+
+12. (1) Every licensed Malaysian offshore bank shall,
+
+<!-- marginal: alteration of -->
+
+prior to the making of any amendment or alteration to any of
+
+<!-- marginal: constituent -->
+
+its constituent documents, furnish to the Bank particulars in
+
+<!-- marginal: documents of -->
+
+<!-- marginal: licensed off- -->
+
+writing as to such proposed amendment or alteration for the
+
+<!-- marginal: shore banks. -->
+
+approval of the Bank.
 
 (2) Every licensed offshore bank shall, within three months after the making of any amendment or alteration to its constituent documents, furnish to the Bank particulars in writing of such amendment or alteration duly authenticated in a manner acceptable to the Bank by a director of the licensed offshore bank.
 
 (3) No licensed offshore bank shall make any amendment or alteration to its constituent documents which is contrary to any written law.
 
-Bank to publish 13. The Bank shall publish annually not later than 31st list of licensed January of each year a list of all existing licensed offshore offshore banks. banks as at 31 st December of the preceding year and their licence numbers in the Gazette, and if any licence is issued, revoked or surrendered, subsequent to such publication, the Bank shall cause to be published in the Gazette as soon as practicable a revised list of all existing licensed offshore banks and their licence numbers.
+<!-- marginal: Bank to publish -->
+
+13. The Bank shall publish annually not later than 31st
+
+<!-- marginal: list of licensed -->
+
+January of each year a list of all existing licensed offshore
+
+<!-- marginal: offshore banks. -->
+
+banks as at 31 st December of the preceding year and their licence numbers in the Gazette, and if any licence is issued, revoked or surrendered, subsequent to such publication, the Bank shall cause to be published in the Gazette as soon as practicable a revised list of all existing licensed offshore banks and their licence numbers.
 
 <!-- page 15 -->
 
@@ -382,9 +502,13 @@ III
 
 ## DUTIES OF LICENSED OFFSHORE BANKS
 
-Offices and
+<!-- marginal: Offices and -->
 
-14. (1) A licensed offshore bank shall not carry on offshore subsidiaries. banking business in, from or through any place in Malaysia, other than the Federal Territory of Labuan.
+14. (1) A licensed offshore bank shall not carry on offshore
+
+<!-- marginal: subsidiaries. -->
+
+banking business in, from or through any place in Malaysia, other than the Federal Territory of Labuan.
 
 (2) A licensed offshore bank which is an offshore company shall not open any office, or acquire or establish any subsidiary, in Malaysia, other than in the Federal Territory of Labuan.
 
@@ -392,15 +516,23 @@ Offices and
 
 (4) A licensed offshore bank which is a foreign offshore company shall not open any office other than its principal place of business in the Federal Territory of Labuan without the prior written consent of the Bank.
 
-Prohibition of
+<!-- marginal: Prohibition of -->
 
-15. (1) No licensed offshore bank shall accept any money certain accounts. on deposit or loan which is repayable on demand by cheque, draft, order or any other instrument drawn by the depositor on the licensed offshore bank.
+15. (1) No licensed offshore bank shall accept any money
+
+<!-- marginal: certain accounts. -->
+
+on deposit or loan which is repayable on demand by cheque, draft, order or any other instrument drawn by the depositor on the licensed offshore bank.
 
 (2) No licensed offshore bank shall open an account for a customer whose identity is not known to the offshore bank.
 
-Appointment and
+<!-- marginal: Appointment and -->
 
-16. (1) Notwithstanding anything in any other written law, dudes of auditor. a licensed offshore bank shall appoint an approved auditor annually before such date as may be specified by the Bank.
+16. (1) Notwithstanding anything in any other written law,
+
+<!-- marginal: dudes of auditor. -->
+
+a licensed offshore bank shall appoint an approved auditor annually before such date as may be specified by the Bank.
 
 (2) An auditor appointed under subsection (1) shall carry out an audit of the accounts of the licensed offshore bank in respect of its business operations in, from and through the Federal Territory of Labuan and shall submit areport of such1 audit together with his comments on the accounting system and controls of the licensed offshore bank to the participants of the licensed offshore bank and to the Bank,
 
@@ -414,17 +546,37 @@ Appointment and
 
 (b) "approved auditor" means an auditor who is an approved company auditor under the Offshore Companies Act 1990 and appears on the list of auditors maintained by the Bank under paragraph (a).
 
-Financial
+<!-- marginal: Financial -->
 
-17. (1) Within three months after the close of each statements to financial year of a licensed offshore bank, or such further be submitted to Bank. period as the Bank may approve, a licensed offshore bank shall submit to the Bank, in respect of its entire business operations in, from and through the Federal Territory of Labuan, two copies each of its latest audited annual balance sheet, profit and loss account, a statement setting out the sources, allocation and utilization of its funds and the report of the auditor under section 16 (2).
+17. (1) Within three months after the close of each
+
+<!-- marginal: statements to -->
+
+financial year of a licensed offshore bank, or such further
+
+<!-- marginal: be submitted to -->
+
+<!-- marginal: Bank. -->
+
+period as the Bank may approve, a licensed offshore bank shall submit to the Bank, in respect of its entire business operations in, from and through the Federal Territory of Labuan, two copies each of its latest audited annual balance sheet, profit and loss account, a statement setting out the sources, allocation and utilization of its funds and the report of the auditor under section 16 (2).
 
 (2) A licensed offshore bank shall submit to the Bank four copies each of the documents mentioned in subsection
 
 (1) as approved in accordance with its constituent documents by its participants within fourteen days of such approval,
 
-Statistics and
+<!-- marginal: Statistics and -->
 
-18. (1) Every licensed offshore bank shall, on request, information to submit to the Bank a statement showing the assets and be submitted to Bank. liabilities of the licensed offshore bank in relation to its offshore banking business in the Federal Territory of Labuan.
+18. (1) Every licensed offshore bank shall, on request,
+
+<!-- marginal: information to -->
+
+submit to the Bank a statement showing the assets and
+
+<!-- marginal: be submitted -->
+
+<!-- marginal: to Bank. -->
+
+liabilities of the licensed offshore bank in relation to its offshore banking business in the Federal Territory of Labuan.
 
 (2) Any information received from a licensed offshore bank under this section shall be secret as between that licensed offshore bank and the Bank.
 
@@ -436,17 +588,29 @@ Provided that nothing in this subsection shall authorise the Bank to designate a
 
 (4) For the avoidance of doubt, it is declared that no provision in any written law relating to secrecy shall apply to any consolidated statement referred to in subsection (3).
 
-Licence fees
+<!-- marginal: Licence fees -->
 
 19. A licensed offshore bank shall pay such annual licence fee of such amount or calculated at such rate or in such manner as may be set out in regulations made under section
 
 27.
 
-Transactions in
+<!-- marginal: Transactions in -->
 
-20. (1) No licensed offshore bank shall transact any Malaysian business, or deal, in Malaysian currency. currency is prohibited.
+20. (1) No licensed offshore bank shall transact any
 
-(2) Notwithstanding subsection (1), a licensed offshore Act 17. bank may, subject to section 4 of the Exchange Control Act 1953 and any other provision thereof and any direction made thereunder, do the following;
+<!-- marginal: Malaysian -->
+
+business, or deal, in Malaysian currency.
+
+<!-- marginal: currency is -->
+
+<!-- marginal: prohibited. -->
+
+(2) Notwithstanding subsection (1), a licensed offshore
+
+<!-- marginal: Act 17. -->
+
+bank may, subject to section 4 of the Exchange Control Act 1953 and any other provision thereof and any direction made thereunder, do the following;
 
 (a) buy or sell foreign currency against Malaysian currency; and
 
@@ -462,9 +626,29 @@ Transactions in
 
 ## SECRECY
 
-Restriction on 21. Nothing in this Act shall authorise the Minister to direct inquiry speci- the Bank, or shall authorise the Bank, to inquire specifically fically into affairs of into the identity, accounts and affairs of any particular particular •customer of any licensed offshore bank. customer.
+<!-- marginal: Restriction on -->
 
-Secrecy. 22. (1) No director or officer of any licensed offshore bank, whether during his tenure of office or during his employment or thereafter, and no person, including the Bank, its directors or officers, who for any reason has access to any record, book, register, correspondence, or other document or material whatsoever relating to the affairs or account of any particular customer of the licensed offshore bank, shall disclose to any person, or make a record for any person of, any information or document whatsoever relating to the affairs or account of that customer of the licensed offshore bank.
+21. Nothing in this Act shall authorise the Minister to direct
+
+<!-- marginal: inquiry speci- -->
+
+the Bank, or shall authorise the Bank, to inquire specifically
+
+<!-- marginal: fically into -->
+
+<!-- marginal: affairs of -->
+
+into the identity, accounts and affairs of any particular
+
+<!-- marginal: particular -->
+
+•customer of any licensed offshore bank.
+
+<!-- marginal: customer. -->
+
+<!-- marginal: Secrecy. -->
+
+22. (1) No director or officer of any licensed offshore bank, whether during his tenure of office or during his employment or thereafter, and no person, including the Bank, its directors or officers, who for any reason has access to any record, book, register, correspondence, or other document or material whatsoever relating to the affairs or account of any particular customer of the licensed offshore bank, shall disclose to any person, or make a record for any person of, any information or document whatsoever relating to the affairs or account of that customer of the licensed offshore bank.
 
 (2) No person who has any information or document which to his knowledge has been disclosed in contravention of subsection (1) shall in any manner howsoever disclose the same to any other person.
 
@@ -476,7 +660,7 @@ Secrecy. 22. (1) No director or officer of any licensed offshore bank, whether d
 
 ## OFFSHORE BANKING
 
-19
+<!-- marginal: 19 -->
 
 where disclosure is required under an order of the High Court made upon the application—
 
@@ -488,19 +672,33 @@ where disclosure is required under an order of the High Court made upon the appl
 
 (i) supported by a certificate under the hand of the Minister certifying that he is satisfied that the disclosure is in the interest of the financial or economic well- being of Malaysia or any part thereof; or
 
-(ii) supported by a certificate under the hand of the Minister charged with the responsibility for internal security certifying that the disclosure is in the interest of the internal security of Malaysia or any part thereof.
+(ii) supported by a certificate under the hand of the Minister charged with
+
+<!-- marginal: the -->
+
+responsibility for internal security certifying that the disclosure is in the interest of the internal security of Malaysia or any part thereof.
 
 (5) Subject to subsection (6), nothing in this section shall limit any powers conferred upon the High Court or a judge
 
-### Act 33
+<!-- marginal: Act 33 -->
 
 thereof by the Bankers' Books (Evidence) Act 1949 or prohibit obedience to an order made under that Act.
 
 (6) Section 7 of the Bankers' Books (Evidence) Act 1949 shall not apply to licensed offshore banks, its directors or officers.
 
-Verification of
+<!-- marginal: Verification of -->
 
-23. The Bank may from time to time examine, under licensed off- conditions of secrecy, the books or other documents, shore bank's submissions. accounts and transactions of any licensed offshore bank and of any office outside Malaysia of a licensed Malaysian offshore bank for the purposes of verifying the submissions of such licensed offshore bank under sections 17 and 18:
+23. The Bank may from time to time examine, under
+
+<!-- marginal: licensed off- -->
+
+conditions of secrecy, the books or other documents,
+
+<!-- marginal: shore bank's -->
+
+<!-- marginal: submissions. -->
+
+accounts and transactions of any licensed offshore bank and of any office outside Malaysia of a licensed Malaysian offshore bank for the purposes of verifying the submissions of such licensed offshore bank under sections 17 and 18:
 
 Provided that nothing in this section shall authorise the Bank to inquire specifically into the identity, account or
 
@@ -512,13 +710,29 @@ affairs of any particular customer of the licensed offshore bank.
 
 ## GENERAL PROVISIONS
 
-General 24. (1) Any person who contravenes any provision of this penalty. Act shall be guilty of an offence.
+<!-- marginal: General -->
+
+24. (1) Any person who contravenes any provision of this
+
+<!-- marginal: penalty. -->
+
+Act shall be guilty of an offence.
 
 (2) A person who is guilty of an offence under section 4, 7 (3), 10, 15, 22 (1) or 22 (2) shall, on conviction, be liable to imprisonment for a term not exceeding five years or a fine not exceeding ten million ringgit or to both such imprisonment and fine, and in the case of a continuing offence, shall, in addition, be liable to a daily fine not exceeding ten thousand ringgit for each day the offence continues to be committed.
 
 (3) A person who is guilty of an offence for which no penalty is expressly provided in this Act shall, on conviction, be liable to imprisonment for a term not exceeding three years or a fine not exceeding five million ringgit or to both such imprisonment and fine, and in the case of a continuing offence, shall, in addition, be liable to a daily fine not exceeding five thousand ringgit for each day the offence continues to be committed.
 
-Power 25. (1) The Governor may, with the concurrence of the to compound Minister, in a case where he deems it fit and proper so to do, offences. compound any offence committed by any person which is punishable under this Act, by making a written offer to such person to compound the offence by paying to the Governor, within such time as may be specified in the offer, such sum of money, as may be so specified, which shall not exceed fifty per centum of the amount of the maximum fine to which that person would have been liable if he had been convicted of the offence.
+<!-- marginal: Power -->
+
+25. (1) The Governor may, with the concurrence of the
+
+<!-- marginal: to compound -->
+
+Minister, in a case where he deems it fit and proper so to do,
+
+<!-- marginal: offences. -->
+
+compound any offence committed by any person which is punishable under this Act, by making a written offer to such person to compound the offence by paying to the Governor, within such time as may be specified in the offer, such sum of money, as may be so specified, which shall not exceed fifty per centum of the amount of the maximum fine to which that person would have been liable if he had been convicted of the offence.
 
 (2) An offer under subsection (1) may be made at any time after the offence has been committed, but before any prosecution for it has been instituted, and where the amount specified in the offer is not paid within the time specified in the offer, or within such extended period as the Governor
 
@@ -526,27 +740,45 @@ Power 25. (1) The Governor may, with the concurrence of the to compound Minister
 
 ## OFFSHORE BANKING
 
-### 21
+<!-- marginal: 21 -->
 
-may grant, prosecution for the offence may be instituted at any time thereafter against the person to whom the offer was made.
+may grant, prosecution for the offence may be instituted at any time thereafter against the person to whom the offer was made. (3) Where an offence has been compounded under subsection (1), no prosecution shall thereafter be instituted in respect of such offence against the person to whom the offer to compound was made. (4) Any monies paid to the Governor pursuant to subsection (1) shall be paid into and form part of the Federal Consolidated Fund.
 
-(3) Where an offence has been compounded under subsection (1), no prosecution shall thereafter be instituted in respect of such offence against the person to whom the offer to compound was made.
-
-(4) Any monies paid to the Governor pursuant to subsection (1) shall be paid into and form part of the Federal Consolidated Fund.
-
-Indemnity.
+<!-- marginal: Indemnity. -->
 
 26. (1) The Government, the Bank, officers of the Government and officers of the Bank shall not be liable to any action, claim or demand by, nor shall be under any liability to, any person in respect of anything done or omitted to be done in good faith in pursuance of, or in execution of, or in connection with the execution or intended execution of, any power conferred by or under this Act.
 
 (2) For the purposes of this section "officers of the Government" includes the Minister and any public officer; and "officers of the Bank" includes the Governor, Deputy Governor, director and any employee of the Bank.
 
-Regulations.
+<!-- marginal: Regulations. -->
 
 27. The Minister may, on the recommendation of the Bank, make such regulations as may be necessary or expedient for giving full effect to the provisions of this Act, for the carrying out or achieving the objects and purposes of this Act or any provision thereof, or for the further, better or more convenient implementation of the provisions of this Act, including regulations to control the giving of any credit facility by a licensed Malaysian offshore bank to a single person or its directors, officers or other persons associated with such directors or officers.
 
-Application of
+<!-- marginal: Application of -->
 
-28. (1) In addition to this Act, the Offshore Companies Act Offshore 1990 shall apply to an offshore bank which is an offshore Companies Act 1990 and company or a foreign offshore company, and the Companies Companies Act Act 1965 shall apply to an offshore bank which is an office 1965. Aa of a Malaysian bank established under that Act, Act 125
+28. (1) In addition to this Act, the Offshore Companies Act
+
+<!-- marginal: Offshore -->
+
+1990 shall apply to an offshore bank which is an offshore
+
+<!-- marginal: Companies Act -->
+
+<!-- marginal: 1990 and -->
+
+company or a foreign offshore company, and the Companies
+
+<!-- marginal: Companies Act -->
+
+Act 1965 shall apply to an offshore bank which is an office
+
+<!-- marginal: 1965. -->
+
+<!-- marginal: Aa -->
+
+of a Malaysian bank established under that Act,
+
+<!-- marginal: Act 125 -->
 
 <!-- page 22 -->
 
@@ -554,25 +786,83 @@ Application of
 
 (3) Where any difficulty or doubt arises in the application of subsection (1) in relation to any particular licensed offshore bank, or any particular matter or circumstance, or generally, the Minister may, on the reference of the difficulty or doubt to him by the Bank, resolve the same by a direction in writing.
 
-29. (1) Subject to subsection (2), nothing in this Act shall Application of Exchange affect the provisions of the Exchange Control Act 1953, and Control Act in the application of any provision of this Act to any person
+29. (1) Subject to subsection (2), nothing in this Act shall
 
-1953. ' or licensed offshore bank, such provision shall apply subject Act 17. to the provisions of that Act.
+<!-- marginal: Application of -->
+
+<!-- marginal: Exchange -->
+
+affect the provisions of the Exchange Control Act 1953, and
+
+<!-- marginal: Control Act -->
+
+in the application of any provision of this Act to any person
+
+1953. ' or licensed offshore bank, such provision shall apply subject
+
+<!-- marginal: Act 17. -->
+
+to the provisions of that Act.
 
 (2) Where there is conflict or inconsistency between the provisions of this Act and the Exchange Control Act 1953, the provisions of that Act shall prevail.
 
-Banking and 30. The provisions of the Banking and Financial Financial Institutions Act 1989 and the Islamic Banking Act 1983 Institutions Act 1989 and the shall not apply to licensed offshore banks, including Islamic licensed offshore banks which are offices of Malaysian
+<!-- marginal: Banking and -->
 
-### banking Act
+30. The provisions of the Banking and Financial
 
-banks in the Federal Territory of Labuan. 1983 not to apply. Act 372. Act 276. 31. The Minister may, on the recommendation of the Bank Minister's power to and by a notice in writing, subject to any condition as he may exempt. impose, exempt any person from all or any of the provision of this Act.
+<!-- marginal: Financial -->
 
-### Payment from
+Institutions Act 1989 and the Islamic Banking Act 1983
 
-32. (1) Notwithstanding anything in any written law or a deceased rule of law, a licensed offshore bank may, without the
+<!-- marginal: Institutions Act -->
 
-### person's
+<!-- marginal: 1989 and the -->
 
-production of letters of probate or letters of administration, account pay any sum not exceeding the equivalent of five thousand ringgit standing to the credit of a deceased person to any person who produces satisfactory proof of—
+shall not apply to licensed offshore banks, including
+
+<!-- marginal: Islamic -->
+
+licensed offshore banks which are offices of Malaysian
+
+<!-- marginal: banking Act -->
+
+banks in the Federal Territory of Labuan.
+
+<!-- marginal: 1983 not to -->
+
+<!-- marginal: apply. -->
+
+<!-- marginal: Act 372. -->
+
+<!-- marginal: Act 276. -->
+
+31. The Minister may, on the recommendation of the Bank
+
+<!-- marginal: Minister's -->
+
+<!-- marginal: power to -->
+
+and by a notice in writing, subject to any condition as he may
+
+<!-- marginal: exempt. -->
+
+impose, exempt any person from all or any of the provision of this Act.
+
+<!-- marginal: Payment from -->
+
+32. (1) Notwithstanding anything in any written law or
+
+<!-- marginal: a deceased -->
+
+rule of law, a licensed offshore bank may, without the
+
+<!-- marginal: person's -->
+
+production of letters of probate or letters of administration,
+
+<!-- marginal: account -->
+
+pay any sum not exceeding the equivalent of five thousand ringgit standing to the credit of a deceased person to any person who produces satisfactory proof of—
 
 (a) the death of such deceased person; and
 
@@ -582,7 +872,7 @@ production of letters of probate or letters of administration, account pay any s
 
 ## OFFSHORE BANKING
 
-23
+<!-- marginal: 23 -->
 
 (2) A licensed offshore bank shall not make any payment under subsection (1) if it has received other claims to any money standing to the credit of the deceased person.
 
@@ -594,7 +884,9 @@ production of letters of probate or letters of administration, account pay any s
 
 ## MEANING OF DIRECTOR
 
-First Column Second Column Third Column Fourth Column (person) (director) (established) (participant)
+First Column Second Column Third Column Fourth Column (person) (director) (established)
+
+<!-- marginal: (participant) -->
 
 Corporation a person occupying incorporated a shareholder the position of director of the corporation, by whatever name called, and includes a person in accordance with whose directions or instructions the directors of the corporation are accustomed to act and an alternate or substitute director
 
@@ -608,7 +900,7 @@ Partnership a partner its formation a partner
 
 ## OFFSHORE BANKING
 
-25
+<!-- marginal: 25 -->
 
 proposed Offshore Companies Act 1990, the Companies Act 1965, the Exchange Control Act 1953 and the non-application of the Banking and Financial Institutions Act 1989 and the Islamic Banking Act 1983 to licensed offshore banks.
 
@@ -666,7 +958,7 @@ This Bill seeks to create a legal regime for offshore banking business to be con
 
 ## OFFSHORE BANKING
 
-27
+<!-- marginal: 27 -->
 
 12. Clause 11 prohibits a licence from being granted to an offshore bank if its paid-up capital and reserves are less than ten million ringgit. A licensed offshore bank, unless otherwise permitted by the Minister, is also prohibited from carrying on offshore banking business if its paid- up capital and reserves, unimpaired by losses, are less than ten million ringgit.
 

@@ -14,7 +14,17 @@
 
 ## RUKUN TETANGGA
 
-3. Appointment of Director General of Rukun Tetangga and other officers 4. Power to delegate 5. Designation of Rukun Tetangga Area 6. Area Centre 7. Appointment of Rukun Tetangga Area Committee 8. Functions and duties of Rukun Tetangga Area Committee 9. Revocation of appointment and resignation 10. Revocation of designation of Rukun Tetangga Area and dissolution of Rukun Tetangga Area Committee 11. Financial allocation or assistance to Rukun Tetangga Area Committee 12. Power to collect or receive money 13. Bank account 14. Establishment of Rukun Tetangga Coordinating and Advisory Committee
+3. Appointment of Director General of Rukun Tetangga and other officers 4. Power to delegate 5. Designation of Rukun Tetangga Area 6. Area Centre 7. Appointment of Rukun Tetangga Area Committee 8. Functions and duties of Rukun Tetangga Area Committee 9. Revocation of appointment and resignation
+
+10. Revocation of designation of Rukun Tetangga Area and dissolution of Rukun Tetangga Area Committee
+
+11. Financial allocation or assistance to Rukun Tetangga Area Committee
+
+12. Power to collect or receive money
+
+13. Bank account
+
+14. Establishment of Rukun Tetangga Coordinating and Advisory Committee
 
 <!-- page 2 -->
 

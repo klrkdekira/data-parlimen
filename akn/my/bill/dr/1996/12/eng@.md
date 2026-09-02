@@ -16,7 +16,13 @@
 
 ## THE LEMBAGA
 
-3. Establishment of the Lembaga. 4. Functions of the Lembaga. 5. Membership of the Lembaga. 6. Deputy Chairman, 7. Remuneration and allowances. 8. Committees. 9. Provisions relating to the Chairman, members of the Lembaga and committees. 10. Delegation of the functions of the Lembaga. 11. Power of Minister to give directions. 12. Returns, reports, accounts and information.
+3. Establishment of the Lembaga. 4. Functions of the Lembaga. 5. Membership of the Lembaga. 6. Deputy Chairman, 7. Remuneration and allowances. 8. Committees. 9. Provisions relating to the Chairman, members of the Lembaga and committees.
+
+10. Delegation of the functions of the Lembaga.
+
+11. Power of Minister to give directions.
+
+12. Returns, reports, accounts and information.
 
 ## PART
 
@@ -24,39 +30,121 @@ III
 
 ## CHIEF EXECUTIVE, OFFICERS, SERVANTS
 
-13. The Chairman as chief executive. 14. The Secretary. 15. Appointment of officers and servants of the Lembaga. 16. Regulations with respect to conditions of service.
+13. The Chairman as chief executive.
+
+14. The Secretary.
+
+15. Appointment of officers and servants of the Lembaga.
+
+16. Regulations with respect to conditions of service.
 
 <!-- page 2 -->
 
-17. Power to grant loans and make advances to officers and servants. 18. Payment of retirement benefits, gratuities and other allowances. 19. Prior approval of Treasury, Public Services Department, etc. to be obtained. 20. Discipline of officers and servants. 21. Disciplinary committees. 22. Appeal against decision of disciplinary committee. 23. Power to make disciplinary regulations. 24. Imposition of surcharge. 25. Show cause notice before surcharge. 26. Notification of surcharge. 27. Withdrawal of surcharge. 28. Recovery of surcharge. 29. Lembaga may adopt regulations, etc.
+17. Power to grant loans and make advances to officers and servants.
+
+18. Payment of retirement benefits, gratuities and other allowances.
+
+19. Prior approval of Treasury, Public Services Department, etc. to be obtained.
+
+20. Discipline of officers and servants.
+
+21. Disciplinary committees.
+
+22. Appeal against decision of disciplinary committee.
+
+23. Power to make disciplinary regulations.
+
+24. Imposition of surcharge.
+
+25. Show cause notice before surcharge.
+
+26. Notification of surcharge.
+
+27. Withdrawal of surcharge.
+
+28. Recovery of surcharge.
+
+29. Lembaga may adopt regulations, etc.
 
 ## PART IV
 
 ## FINANCIAL PROVISIONS
 
-30. The fund. 31. Expenditure to be charged on the fund. 32. Conservation of the fund. 33. Power to borrow. 34. Deposit and investment of the fund. 35. Expenditure and preparation of estimates. 36. Accounts and reports. 37. Statutory Bodies (Accounts and Annual Reports) Act 1980 to apply.
+30. The fund.
+
+31. Expenditure to be charged on the fund.
+
+32. Conservation of the fund.
+
+33. Power to borrow.
+
+34. Deposit and investment of the fund.
+
+35. Expenditure and preparation of estimates.
+
+36. Accounts and reports.
+
+37. Statutory Bodies (Accounts and Annual Reports) Act 1980 to apply.
 
 ## PART V
 
 ## ACCREDITATION
 
-38. Application for accreditation. 39. Power of the Lembaga to grant or refuse application.
+38. Application for accreditation.
+
+39. Power of the Lembaga to grant or refuse application.
 
 <!-- page 3 -->
 
-40. Power of the Lembaga to impose conditions, 41. Records and documents to be kept and produced. 42. Reassessment of certificates, diplomas and degrees. 43. Revocation of certificate of accreditation. 44. Register.
+40. Power of the Lembaga to impose conditions,
+
+41. Records and documents to be kept and produced.
+
+42. Reassessment of certificates, diplomas and degrees.
+
+43. Revocation of certificate of accreditation.
+
+44. Register.
 
 ## PART VI
 
 ## OFFENCES AND ENFORCEMENT
 
-45. Offences and penalties. 46. Presumption. 47. Liability of director of company, etc. for offences committed by private higher educational institution established by it, etc. 48. Interpretation of investigating officer. 49. Power of investigating officer. 50. Power to search and seize. 51. Search and seize without warrant. 52. Power to call for examination. 53. Power to compound. 54. Institution and conduct of prosecution. 55. No entitlement as to costs on proceedings, damages or other relief, etc.
+45. Offences and penalties.
+
+46. Presumption.
+
+47. Liability of director of company, etc. for offences committed by private higher educational institution established by it, etc.
+
+48. Interpretation of investigating officer.
+
+49. Power of investigating officer.
+
+50. Power to search and seize.
+
+51. Search and seize without warrant.
+
+52. Power to call for examination.
+
+53. Power to compound.
+
+54. Institution and conduct of prosecution.
+
+55. No entitlement as to costs on proceedings, damages or other relief, etc.
 
 ## PART VII
 
 ## GENERAL
 
-56. Power to make regulations. 57. Obligation of secrecy. 58. Public servants. 59. Public Authorities Protection Act 1948. 60. Things done in anticipation of the enactment of this Act.
+56. Power to make regulations.
+
+57. Obligation of secrecy.
+
+58. Public servants.
+
+59. Public Authorities Protection Act 1948.
+
+60. Things done in anticipation of the enactment of this Act.
 
 ## SCHEDULE
 
@@ -120,7 +208,11 @@ to be appointed by the Minister by notification in the Gazette, and the Minister
 
 "Minister" means the Minister charged with the responsibility for education;
 
-"private higher educational institution" means a private higher educational institution established or deemed to Act have been established under the Private Higher Educational Institutions Act 1996;
+"private higher educational institution" means a private higher educational institution established or deemed to
+
+<!-- marginal: Act -->
+
+have been established under the Private Higher Educational Institutions Act 1996;
 
 <!-- page 7 -->
 
@@ -168,7 +260,11 @@ vested in the Lembaga.
 
 (b) to set, monitor, review and oversee the standard and quality— (i) of courses of study; and (ii) for accreditation of certificates, diplomas and degrees;
 
-(c) to determine the level of achievement for the national language and the compulsory subjects Akta specified in the Private Higher Educational Institutions Act 1996 as prerequisites to the award of certificates, diplomas and degrees; and
+(c) to determine the level of achievement for the national language and the compulsory subjects
+
+<!-- marginal: Akta -->
+
+specified in the Private Higher Educational Institutions Act 1996 as prerequisites to the award of certificates, diplomas and degrees; and
 
 (d) to advise and make recommendations to the Minister for his approval of courses of study to be conducted by private higher educational institutions with regard to— (i) the suitability of arrangements relating to the educational facilities relevant to the courses of study; and (ii) the standard and quality assurance of the courses of study.
 
@@ -178,9 +274,15 @@ vested in the Lembaga.
 
 (b) to do such other things as the Lembaga considers fit to enable it to carry out its functions effectively.
 
-Membership
+<!-- marginal: Membership -->
 
-5. (1) The Lembaga shall consist of the following of the members: Lembaga.
+5. (1) The Lembaga shall consist of the following
+
+<!-- marginal: of the -->
+
+members:
+
+<!-- marginal: Lembaga. -->
 
 (a) a Chairman who shall be appointed by the Yang di-Pertuan Agong, upon the advice of the Minister; and
 
@@ -258,9 +360,33 @@ consultation with the Minister of Finance.
 
 (12) Members of a committee and any person invited under subsection (10) shall be paid such allowances and other expenses as the Lembaga may determine, after consultation with the Minister.
 
-Provisions
+<!-- marginal: Provisions -->
 
-9. (1) No person shall be appointed as the Chairman or relating to as a member of the Lembaga or as a member of a the Chairman, committee unless before such appointment such person members of makes a statutory declaration whether he has any interest, the Lembaga and financial or otherwise, in any undertaking involving private committees. higher educational institutions.
+9. (1) No person shall be appointed as the Chairman or
+
+<!-- marginal: relating to -->
+
+as a member of the Lembaga or as a member of a
+
+<!-- marginal: the -->
+
+<!-- marginal: Chairman, -->
+
+committee unless before such appointment such person
+
+<!-- marginal: members of -->
+
+makes a statutory declaration whether he has any interest,
+
+<!-- marginal: the Lembaga -->
+
+<!-- marginal: and -->
+
+financial or otherwise, in any undertaking involving private
+
+<!-- marginal: committees. -->
+
+higher educational institutions.
 
 (2) If the Chairman or a member of the Lembaga or a member of a committee acquires any interest, financial or otherwise, in any undertaking involving private higher educational institutions he shall, within two weeks after so doing, give notice in writing to the Minister specifying
 
@@ -322,11 +448,23 @@ Education Act 1996.
 
 <!-- page 12 -->
 
-Returns,
+<!-- marginal: Returns, -->
 
-12. (1) The Lembaga shall furnish to the Minister, and reports, such public authority as may be directed by the Minister, accounts and information. such returns, reports, accounts and information with respect to its property and activities as the Minister may, from time to time, require or direct.
+12. (1) The Lembaga shall furnish to the Minister, and
 
-(2) Without prejudice to the generality of subsection (1), the Lembaga shall, as soon as practicable after the end of each financial year, cause to be prepared and transmitted to the Minister, and if so directed by the Minister to any public authority, a report dealing with the activities of the Lembaga during the preceding financial year.
+<!-- marginal: reports, -->
+
+such public authority as may be directed by the Minister,
+
+<!-- marginal: accounts and -->
+
+<!-- marginal: information. -->
+
+such returns, reports, accounts and information with respect to its property and activities as the Minister may, from time to time, require or direct.
+
+(2) Without prejudice to the generality of subsection
+
+(1), the Lembaga shall, as soon as practicable after the end of each financial year, cause to be prepared and transmitted to the Minister, and if so directed by the Minister to any public authority, a report dealing with the activities of the Lembaga during the preceding financial year.
 
 (3) The report under subsection (2) shall be in such form and shall contain such information relating to the proceedings and policy of the Lembaga as the Minister may, from time to time, specify.
 
@@ -334,9 +472,19 @@ Returns,
 
 ## CHIEF EXECUTIVE, OFFICERS, SERVANTS
 
-The
+<!-- marginal: The -->
 
-13. (1) Without prejudice to the other provisions of Chairman as this Act, the Chairman shall also be the chief executive chief executive. of the Lembaga.
+13. (1) Without prejudice to the other provisions of
+
+<!-- marginal: Chairman as -->
+
+this Act, the Chairman shall also be the chief executive
+
+<!-- marginal: chief -->
+
+<!-- marginal: executive. -->
+
+of the Lembaga.
 
 (2) The Lembaga shall vest in the chief executive such power and impose upon him such duties as may be determined by the Lembaga.
 
@@ -392,21 +540,85 @@ for carrying out the purposes of this Act.
 
 <!-- page 14 -->
 
-Regulations 16. The Lembaga may, with the approval of the Minister, with respect make regulations with respect to the conditions of service to conditions of service. of its officers and servants.
+<!-- marginal: Regulations -->
 
-Power to
+16. The Lembaga may, with the approval of the Minister,
 
-17. The Lembaga may grant loans and make advances grant loans to its officers and servants for such purposes and on and make advances to such terms and conditions as the Lembaga may officers and determine. servants.
+<!-- marginal: with respect -->
 
-Payment of
+make regulations with respect to the conditions of service
 
-18. The Lembaga may make arrangements for the retirement payment to its officers and servants and their dependants benefits, gratuities and of such retirement benefits, gratuities and other allowances other as the Lembaga may determine. allowances.
+<!-- marginal: to conditions -->
 
-Prior
+<!-- marginal: of service. -->
 
-19. Notwithstanding the provisions of sections 15, 17 approval of and 18, the Lembaga shall not— Treasury, Public Services
+of its officers and servants.
 
-(a) establish or modify any post or scheme of service Department, for officers and servants of the Lembaga, etc to be obtained. including the terms and conditions of service and the salaries; and
+<!-- marginal: Power to -->
+
+17. The Lembaga may grant loans and make advances
+
+<!-- marginal: grant loans -->
+
+to its officers and servants for such purposes and on
+
+<!-- marginal: and make -->
+
+<!-- marginal: advances to -->
+
+such terms and conditions as the Lembaga may
+
+<!-- marginal: officers and -->
+
+determine.
+
+<!-- marginal: servants. -->
+
+<!-- marginal: Payment of -->
+
+18. The Lembaga may make arrangements for the
+
+<!-- marginal: retirement -->
+
+payment to its officers and servants and their dependants
+
+<!-- marginal: benefits, -->
+
+<!-- marginal: gratuities and -->
+
+of such retirement benefits, gratuities and other allowances
+
+<!-- marginal: other -->
+
+as the Lembaga may determine.
+
+<!-- marginal: allowances. -->
+
+<!-- marginal: Prior -->
+
+19. Notwithstanding the provisions of sections 15, 17
+
+<!-- marginal: approval of -->
+
+and 18, the Lembaga shall not—
+
+<!-- marginal: Treasury, -->
+
+<!-- marginal: Public -->
+
+<!-- marginal: Services -->
+
+(a) establish or modify any post or scheme of service
+
+<!-- marginal: Department, -->
+
+for officers and servants of the Lembaga,
+
+<!-- marginal: etc to be -->
+
+<!-- marginal: obtained. -->
+
+including the terms and conditions of service and the salaries; and
 
 (b) make arrangements for the officers and servants of the Lembaga with respect to—
 
@@ -416,9 +628,17 @@ Prior
 
 without the prior approval of the Treasury, Public Services Department or other relevant authorities, as the case may be.
 
-Discipline of
+<!-- marginal: Discipline of -->
 
-20. The Lembaga shall have disciplinary authority over officers and all its officers and servants and shall exercise servants. disciplinary control in respect of all such persons in accordance with this Act and any regulations made under section 23.
+20. The Lembaga shall have disciplinary authority over
+
+<!-- marginal: officers and -->
+
+all its officers and servants and shall exercise
+
+<!-- marginal: servants. -->
+
+disciplinary control in respect of all such persons in accordance with this Act and any regulations made under section 23.
 
 <!-- page 15 -->
 
@@ -448,9 +668,21 @@ committee of the Lembaga in respect of the Secretary consisting of—
 
 <!-- page 16 -->
 
-Appeal
+<!-- marginal: Appeal -->
 
-22. (1) A decision of the disciplinary committee against under subsection 21(1) shall be appealable to the decision of disciplinary Minister. committee.
+22. (1) A decision of the disciplinary committee
+
+<!-- marginal: against -->
+
+under subsection 21(1) shall be appealable to the
+
+<!-- marginal: decision of -->
+
+<!-- marginal: disciplinary -->
+
+Minister.
+
+<!-- marginal: committee. -->
 
 (2) A decision of the disciplinary committee under subsection 21(2) shall be appealable to the Disciplinary Appeal Board which shall consist of the following members:
 
@@ -464,9 +696,19 @@ Appeal
 
 (5) The decision of the Minister or the Disciplinary Appeal Board under subsection (3) shall be final.
 
-Power to
+<!-- marginal: Power to -->
 
-23. (1) The Lembaga may, with the approval of the make Minister, make regulations to provide for the discipline disciplinary regulations. of its officers and servants.
+23. (1) The Lembaga may, with the approval of the
+
+<!-- marginal: make -->
+
+Minister, make regulations to provide for the discipline
+
+<!-- marginal: disciplinary -->
+
+<!-- marginal: regulations. -->
+
+of its officers and servants.
 
 (2) The disciplinary regulations made under this section—
 
@@ -498,11 +740,7 @@ Power to
 
 (iii) where there has been—
 
-(A) made against an officer or servant of the Lembaga any order of detention, supervision, restricted residence, banishment
-
-<!-- marginal: or -->
-
-deportation; or
+(A) made against an officer or servant of the Lembaga any order of detention, supervision, restricted residence, banishment or deportation; or
 
 <!-- page 18 -->
 
@@ -518,9 +756,13 @@ under any law relating to the security of Malaysia or any part thereof, preventi
 
 (ii) where an order of detention or restriction has been made in respect of or imposed on the officer or servant.
 
-Imposition
+<!-- marginal: Imposition -->
 
-24. (1) A person who is or was in the employment of of surcharge. the Lembaga may be surcharged if it appears to the Lembaga that the person—
+24. (1) A person who is or was in the employment of
+
+<!-- marginal: of surcharge. -->
+
+the Lembaga may be surcharged if it appears to the Lembaga that the person—
 
 (a) has failed to collect money owing to the Lembaga for the collection of which he is or was responsible;
 
@@ -562,17 +804,29 @@ cause why he should not be surcharged.
 
 <!-- page 20 -->
 
-Notification
+<!-- marginal: Notification -->
 
-26. The Lembaga shall notify the person surcharged in of surcharge. respect of any surcharge made under section 24.
+26. The Lembaga shall notify the person surcharged in
 
-Withdrawal
+<!-- marginal: of surcharge. -->
 
-27. Notwithstanding sections 24 and 25, the Lembaga of surcharge. may at any time withdraw any surcharge in respect of which a satisfactory explanation has been received or if it otherwise appears that no surcharge should have been made, and the Lembaga shall forthwith notify the person surcharged of the withdrawal.
+respect of any surcharge made under section 24.
 
-Recovery of
+<!-- marginal: Withdrawal -->
 
-28. The amount of any surcharge made under section surcharge. 24 and not withdrawn under section 27 shall be a debt due to the Lembaga from the person surcharged and may be sued for and recovered in any court at the suit of the Lembaga and may also, if the Lembaga so directs, be recovered by deduction—
+27. Notwithstanding sections 24 and 25, the Lembaga
+
+<!-- marginal: of surcharge. -->
+
+may at any time withdraw any surcharge in respect of which a satisfactory explanation has been received or if it otherwise appears that no surcharge should have been made, and the Lembaga shall forthwith notify the person surcharged of the withdrawal.
+
+<!-- marginal: Recovery of -->
+
+28. The amount of any surcharge made under section
+
+<!-- marginal: surcharge. -->
+
+24 and not withdrawn under section 27 shall be a debt due to the Lembaga from the person surcharged and may be sued for and recovered in any court at the suit of the Lembaga and may also, if the Lembaga so directs, be recovered by deduction—
 
 (a) from the salary of the person surcharged; or
 
@@ -580,9 +834,21 @@ Recovery of
 
 by equal monthly instalments not exceeding one-fourth of the total monthly salary or pension, as the case may be, of that person.
 
-Lembaga may
+<!-- marginal: Lembaga may -->
 
-29. In making regulations under this Part, the Lembaga adopt may, with the approval of the Minister, adopt with such regulations, modifications any regulations, rules, policies, circulars etc. and directives enacted or issued by the Federal Government.
+29. In making regulations under this Part, the Lembaga
+
+<!-- marginal: adopt -->
+
+may, with the approval of the Minister, adopt with such
+
+<!-- marginal: regulations, -->
+
+modifications any regulations, rules, policies, circulars
+
+<!-- marginal: etc. -->
+
+and directives enacted or issued by the Federal Government.
 
 ## PART
 
@@ -590,7 +856,7 @@ IV
 
 ## FINANCIAL PROVISIONS
 
-The fund.
+<!-- marginal: The fund. -->
 
 30. (1) There is hereby established a fund for the purposes of this Act to be administered and controlled by the Lembaga.
 
@@ -634,23 +900,49 @@ The fund.
 
 <!-- page 22 -->
 
-Conservation
+<!-- marginal: Conservation -->
 
-32. It shall be the duty of the Lembaga to conserve the of the fund. fund by so performing its functions and exercising its powers under this Act as to secure that the total revenues of the Lembaga are sufficient to meet all sums properly chargeable to its revenue account, including depreciation and interest on capital, taking one year with another.
+32. It shall be the duty of the Lembaga to conserve the
 
-33. The Lembaga may, from time to time, borrow in Power to borrow. such form and at such rate of interest and for such period and upon such terms as to the time and method of repayment and otherwise, as the Minister, with the concurrence of the Minister of Finance, may approve, any money required by the Lembaga for meeting any of its obligations or discharging any of its functions or exercising any of its powers.
+<!-- marginal: of the fund. -->
 
-Deposit and
+fund by so performing its functions and exercising its powers under this Act as to secure that the total revenues of the Lembaga are sufficient to meet all sums properly chargeable to its revenue account, including depreciation and interest on capital, taking one year with another.
 
-34. The Lembaga may, with the approval of the investment of Minister— the fund.
+33. The Lembaga may, from time to time, borrow in
+
+<!-- marginal: Power to -->
+
+<!-- marginal: borrow. -->
+
+such form and at such rate of interest and for such period and upon such terms as to the time and method of repayment and otherwise, as the Minister, with the concurrence of the Minister of Finance, may approve, any money required by the Lembaga for meeting any of its obligations or discharging any of its functions or exercising any of its powers.
+
+<!-- marginal: Deposit and -->
+
+34. The Lembaga may, with the approval of the
+
+<!-- marginal: investment of -->
+
+Minister—
+
+<!-- marginal: the fund. -->
 
 (a) place the fund on deposit with a bank in Malaysia; and
 
 (b) invest in securities of the Government or such other securities as may be authorised by the Minister of Finance, such money of the fund as are not immediately required to be expended under this Act.
 
-Expenditure
+<!-- marginal: Expenditure -->
 
-35. (1) The expenditure of the Lembaga up to such and amount as may be authorised by the Minister for any preparation of estimates. one year shall be defrayed out of the fund.
+35. (1) The expenditure of the Lembaga up to such
+
+<!-- marginal: and -->
+
+amount as may be authorised by the Minister for any
+
+<!-- marginal: preparation -->
+
+<!-- marginal: of estimates. -->
+
+one year shall be defrayed out of the fund.
 
 (2) Before the beginning of September of each year, the Lembaga shall submit to the Minister an estimate of its expenditure (including those for research and development programmes) for the following year in such form and containing such particulars as the Minister may direct.
 
@@ -736,9 +1028,19 @@ as may be prescribed by the Lembaga.
 
 without prejudice to the right of the private higher educational institution to submit a fresh application.
 
-Power of the
+<!-- marginal: Power of the -->
 
-39. (1) After having considered an application under Lembaga to subsection 38(1), the Lembaga— grant or refuse application.
+39. (1) After having considered an application under
+
+<!-- marginal: Lembaga to -->
+
+subsection 38(1), the Lembaga—
+
+<!-- marginal: grant or -->
+
+<!-- marginal: refuse -->
+
+<!-- marginal: application. -->
 
 (a) may approve the application and grant a certificate of accreditation to the private higher educational institution upon payment of the prescribed fees;
 
@@ -804,9 +1106,17 @@ granted.
 
 <!-- page 26 -->
 
-Revocation of
+<!-- marginal: Revocation of -->
 
-43. (1) The Lembaga may, at any time, revoke the certificate of certificate of accreditation granted under paragraph 39(a) accreditation. or (b)—
+43. (1) The Lembaga may, at any time, revoke the
+
+<!-- marginal: certificate of -->
+
+certificate of accreditation granted under paragraph 39(a)
+
+<!-- marginal: accreditation. -->
+
+or (b)—
 
 (a) if in the opinion of the Lembaga, the private higher educational institution has failed to maintain the standard and quality required of it, upon reassessment of the certificate, diploma or degree awarded by the private higher educational institution in respect of which the certificate of accreditation has been granted;
 
@@ -874,7 +1184,7 @@ that person or that private higher educational institution shall be guilty of an
 
 (1) or (2), the person or private higher educational institution convicted for such offence shall be liable to a further fine not exceeding one thousand ringgit for every day on which the offence is continued.
 
-Presumption
+<!-- marginal: Presumption -->
 
 46. In any proceeding for an offence under this Act—
 
@@ -970,9 +1280,17 @@ Registrar appointed under the Private Higher Educational Institution Act 1996; a
 
 <!-- page 30 -->
 
-Power of
+<!-- marginal: Power of -->
 
-49. (1) An investigating officer shall have all the powers investigating necessary to carry out investigation of an offence under officer. this Act.
+49. (1) An investigating officer shall have all the powers
+
+<!-- marginal: investigating -->
+
+necessary to carry out investigation of an offence under
+
+<!-- marginal: officer. -->
+
+this Act.
 
 (2) An investigating officer carrying out an investigation under this Act may enter any place or building and may inspect, make copies of, take extracts from, remove and detain any book, minute book, register, document, material or article.
 
@@ -986,7 +1304,9 @@ Power of
 
 shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding one month, or to both.
 
-(5) An investigating officer may grant permission to any person to inspect the books, minute books, registers, documents, materials or articles detained and taken possession of by the investigating officer under subsection (2) if such person is entitled to inspect such books, minute books, registers, documents, materials or articles under this Act.
+(5) An investigating officer may grant permission to any person to inspect the books, minute books, registers, documents, materials or articles detained and taken possession of by the investigating officer under subsection
+
+(2) if such person is entitled to inspect such books, minute books, registers, documents, materials or articles under this Act.
 
 (6) This section shall not be construed as limiting or affecting any similar powers conferred on any person under any other written law.
 
@@ -1056,9 +1376,17 @@ warrant under section 50—
 
 he may exercise in, and in respect of, the premises all the powers referred to in section 50 in as full and ample a manner as if he were authorised to do so by a warrant issued under that section.
 
-Power to
+<!-- marginal: Power to -->
 
-52. (1) An investigating officer may, by notice in call for writing, require any person acquainted with the facts examination. and circumstances of a case to appear before him and to be examined orally and shall reduce into writing any statement made by the person so examined.
+52. (1) An investigating officer may, by notice in
+
+<!-- marginal: call for -->
+
+writing, require any person acquainted with the facts
+
+<!-- marginal: examination. -->
+
+and circumstances of a case to appear before him and to be examined orally and shall reduce into writing any statement made by the person so examined.
 
 (2) Such person shall be legally bound to answer the questions relating to such case put to him by the investigating officer and to state the truth, whether or not the statement is made wholly or partly in answer to questions, and shall not refuse to answer any question on the ground that it tends to incriminate him.
 
@@ -1116,9 +1444,17 @@ committed by a private higher educational institution or a person under this Act
 
 (6) Where the amount specified in the offer to compound is not paid within the time specified in the offer, or within such extended period as the Lembaga may grant, prosecution for the offence may be instituted at any time thereafter against the private higher educational institution or the person to whom the offer was made.
 
-Institution
+<!-- marginal: Institution -->
 
-54. (1) An investigating officer shall have the authority and conduct to appear in court— of prosecution.
+54. (1) An investigating officer shall have the authority
+
+<!-- marginal: and conduct -->
+
+to appear in court—
+
+<!-- marginal: of -->
+
+<!-- marginal: prosecution. -->
 
 (a) for the conduct of any prosecution in respect of an offence under this Act; or
 
@@ -1198,21 +1534,69 @@ necessary for the purpose of carrying out the provisions of this Act.
 
 (i) any other matter which is required by this Act to be prescribed or specified or which is necessary or expedient to be prescribed or specified for carrying this Act into effect.
 
-Obligation of
+<!-- marginal: Obligation of -->
 
-57. (1) Except for any of the purposes of this Act or secrecy. for the purposes of any civil or criminal proceedings under any written law, no member of the Lembaga, member of a committee, officer or servant of the Lembaga shall disclose any information which has been obtained by him in the course of his duties and which is not published in pursuance of this Act.
+57. (1) Except for any of the purposes of this Act or
+
+<!-- marginal: secrecy. -->
+
+for the purposes of any civil or criminal proceedings under any written law, no member of the Lembaga, member of a committee, officer or servant of the Lembaga shall disclose any information which has been obtained by him in the course of his duties and which is not published in pursuance of this Act.
 
 (2) Any person contravening subsection (1) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding one month, or to both.
 
-Public
+<!-- marginal: Public -->
 
-58. The Chairman, all members of the Lembaga and servants. members of any committee, the officers, servants and agents of the Lembaga, while discharging their duties as the Chairman or such members, officers, servants or agents shall be deemed to be public servants within the meaning F.M.S of the Penal Code. Cap. 45 Public
+58. The Chairman, all members of the Lembaga and
 
-59. The Public Authorities Protection Act 1948 shall Authorities apply to any action, suit, prosecution or proceedings against Protection the Lembaga, or against the Chairman, any member of Act 1948. Act 198. the Lembaga, any member of a committee, officer, servant or agent of the Lembaga in respect of any act, neglect or default done or committed by him in such capacity.
+<!-- marginal: servants. -->
 
-Things
+members of any committee, the officers, servants and agents of the Lembaga, while discharging their duties as the Chairman or such members, officers, servants or agents shall be deemed to be public servants within the meaning
 
-60. All things done by any person or authority on behalf done in of the Lembaga in the preparation of and towards the anticipation proper implementation of any of the provisions of this of the enactment of Act, and any expenditure incurred in relation thereto, in this Act. anticipation of the enactment of this Act shall be deemed to have been authorized by this Act, and all rights acquired or obligations incurred on behalf of the Lembaga from anything so done shall upon the coming into force of this Act be deemed to be the rights and obligations of the Lembaga.
+<!-- marginal: F.M.S -->
+
+of the Penal Code.
+
+<!-- marginal: Cap. 45 -->
+
+<!-- marginal: Public -->
+
+59. The Public Authorities Protection Act 1948 shall
+
+<!-- marginal: Authorities -->
+
+apply to any action, suit, prosecution or proceedings against
+
+<!-- marginal: Protection -->
+
+the Lembaga, or against the Chairman, any member of
+
+<!-- marginal: Act 1948. -->
+
+<!-- marginal: Act 198. -->
+
+the Lembaga, any member of a committee, officer, servant or agent of the Lembaga in respect of any act, neglect or default done or committed by him in such capacity.
+
+<!-- marginal: Things -->
+
+60. All things done by any person or authority on behalf
+
+<!-- marginal: done in -->
+
+of the Lembaga in the preparation of and towards the
+
+<!-- marginal: anticipation -->
+
+proper implementation of any of the provisions of this
+
+<!-- marginal: of the -->
+
+<!-- marginal: enactment of -->
+
+Act, and any expenditure incurred in relation thereto, in
+
+<!-- marginal: this Act. -->
+
+anticipation of the enactment of this Act shall be deemed to have been authorized by this Act, and all rights acquired or obligations incurred on behalf of the Lembaga from anything so done shall upon the coming into force of this Act be deemed to be the rights and obligations of the Lembaga.
 
 <!-- page 37 -->
 
@@ -1222,9 +1606,7 @@ Things
 
 <!-- marginal: Appointment, -->
 
-1.
-
-(1) Subject to such conditions as may be specified in his
+1. (1) Subject to such conditions as may be specified in his
 
 <!-- marginal: revocation and -->
 
@@ -1262,9 +1644,7 @@ effectively.
 
 <!-- marginal: Vacation of -->
 
-3.
-
-(1) The office of the Chairman or a member of the Lembaga
+3. (1) The office of the Chairman or a member of the Lembaga
 
 <!-- marginal: office -->
 
@@ -1290,17 +1670,31 @@ shall be vacated—
 
 (i) in the case of the Chairman, if his appointment is revoked by the Yang di-Pertuan Agong and in the case of a member of the Lembaga, if his appointment is revoked by the Minister.
 
-Meetings. 4. (1) The Lembaga shall meet as and when required to do so by the Chairman.
+<!-- marginal: Meetings. -->
+
+4. (1) The Lembaga shall meet as and when required to do so by the Chairman.
 
 (2) The Chairman, or the Deputy Chairman if he is presiding over that meeting, and five other members of the Lembaga shall form a quorum at any meeting of the Lembaga.
 
 (3) If on any question to be determined by the Lembaga there is an equality of votes, the Chairman, or the Deputy Chairman if he is presiding over that meeting, shall have a casting vote in addition to his deliberative vote.
 
-Lembaga may 5. (1) The Lembaga may invite any person to attend any meeting invite others to or deliberation of the Lembaga for the purpose of advising it on meetings. any matter under discussion, but any person so attending shall have no right to vote at the said meeting or deliberation.
+<!-- marginal: Lembaga may -->
+
+5. (1) The Lembaga may invite any person to attend any meeting
+
+<!-- marginal: invite others to -->
+
+or deliberation of the Lembaga for the purpose of advising it on
+
+<!-- marginal: meetings. -->
+
+any matter under discussion, but any person so attending shall have no right to vote at the said meeting or deliberation.
 
 (2) A person invited under subparagraph (1) shall be paid such allowances as may be determined by the Lembaga.
 
-Minutes 6. (1) The Secretary shall cause minutes of all the meetings of the Lembaga to be maintained and kept in a proper form.
+<!-- marginal: Minutes -->
+
+6. (1) The Secretary shall cause minutes of all the meetings of the Lembaga to be maintained and kept in a proper form.
 
 (2) Any minutes made of a meeting of the Lembaga shall, if duly signed, be admissible in evidence in all legal proceedings without further proof.
 
@@ -1362,7 +1756,7 @@ a device approved by the Lembaga.
 
 (8) The common seal of the Lembaga shall be officially and judicially noticed.
 
-Procedure.
+<!-- marginal: Procedure. -->
 
 10. Subject to this Act, the Lembaga shall, at its discretion, determine its own procedure.
 

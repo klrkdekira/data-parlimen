@@ -152,7 +152,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 9. Akta ibu dipinda dengan memasukkan selepas Bahagian III Bahagian yang berikut:
 
-“Bahagian IIIa
+## “BAHAGIAN IIIA
 
 ## FUNGSI DAN KUASA PENDAFTAR
 
@@ -172,7 +172,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 7 -->
 
-Bahagian IIIB
+## BAHAGIAN IIIB
 
 ## PENGELUARAN GARIS PANDUAN, NOTA AMALAN, DSB.
 
@@ -254,7 +254,7 @@ Bahagian IIIB
 
 (7) Tiada apa-apa jua dalam seksyen ini boleh menjejaskan perjalanan mana-mana seksyen yang mengenakan hukuman ke atas mana-mana orang berkenaan dengan apa-apa kegagalan di bawah subseksyen (1), mahupun apa-apa kuasa yang Suruhanjaya, Pendaftar, mana-mana orang lain atau Mahkamah ada di bawah Akta ini atau undang-undang yang dinyatakan dalam Jadual Pertama.
 
-## Bahagian IIIc
+## BAHAGIAN IIIC
 
 ## PELESENAN
 
@@ -340,7 +340,7 @@ Bahagian IIIB
 
 11. Akta ibu dipinda dengan memasukkan selepas Bahagian IV Bahagian yang berikut:
 
-“Bahagian IVa
+## “BAHAGIAN IVA
 
 ## PERUNTUKAN PENYIASATAN DAN PENGUATKUASAAN
 
@@ -648,7 +648,7 @@ boleh merayu kepada Menteri secara bertulis dalam masa tiga puluh hari selepas d
 
 17. Akta ibu dipinda dengan menggantikan Jadual Pertama dan Jadual Kedua dengan Jadual yang berikut:
 
-“Jadual Pertama
+## “JADUAL PERTAMA
 
 [Seksyen 11, 14, 17, 18, 20a, 20B, 20c, 20d, 20e, 20f, 20g, 20h, 20i, 22, 25, 27, 27B, 27c, 27d, 27h, 27J, 36, 37, 37a, 37B, 38B, 38c, 38e dan 40]
 
@@ -662,7 +662,7 @@ boleh merayu kepada Menteri secara bertulis dalam masa tiga puluh hari selepas d
 
 5. Akta Perkongsian Liabiliti Terhad 2012 [Akta 743]
 
-## Jadual Kedua
+## JADUAL KEDUA
 
 [Seksyen 37]
 

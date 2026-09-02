@@ -50,7 +50,27 @@ III
 
 ## CLINIC OR PRIVATE DENTAL CLINIC
 
-14. Application for a licence to operate or provide to be made within three years. 15. Application for licence to operate or provide. 16. Inspection of premises. 17. Refusal to process application for licence. 18. Reasons for refusal to issue or renew a licence to operate or provide. 19. Grant of or. refusal to grant licence. 20. Licence to specify type of private healthcare facility or service. 21. Separate licence for private healthcare facilities or services which are not physically, administratively or organisationally linked. 22. Duration and renewal of licence to operate or provide. 23. Licence to be exhibited. 24. Power to vary terms or conditions, or purpose of approval or licence.
+14. Application for a licence to operate or provide to be made within three years.
+
+15. Application for licence to operate or provide.
+
+16. Inspection of premises.
+
+17. Refusal to process application for licence.
+
+18. Reasons for refusal to issue or renew a licence to operate or provide.
+
+19. Grant of or. refusal to grant licence.
+
+20. Licence to specify type of private healthcare facility or service.
+
+21. Separate licence for private healthcare facilities or services which are not physically, administratively or organisationally linked.
+
+22. Duration and renewal of licence to operate or provide.
+
+23. Licence to be exhibited.
+
+24. Power to vary terms or conditions, or purpose of approval or licence.
 
 ## PART V
 
@@ -58,7 +78,17 @@ III
 
 ## AND A PRIVATE DENTAL CLINIC
 
-25. Application for registration. 26. Refusal to process application for registration. 27. Grant of certificate of registration. 28. Certificate of registration to be exhibited. 29. Power to vary terms or conditions of registration. 30. Separate registration.
+25. Application for registration.
+
+26. Refusal to process application for registration.
+
+27. Grant of certificate of registration.
+
+28. Certificate of registration to be exhibited.
+
+29. Power to vary terms or conditions of registration.
+
+30. Separate registration.
 
 <!-- page 3 -->
 
@@ -72,7 +102,21 @@ III
 
 ## PERSON IN CHARGE
 
-31. Responsibilities. 32. Person in charge. 33. Change of person in charge. 34. Personal care aide. 35. Policy statement. 36. Patient grievance mechanism. 37. Incident reporting. 38. Emergency treatment and services.
+31. Responsibilities.
+
+32. Person in charge.
+
+33. Change of person in charge.
+
+34. Personal care aide.
+
+35. Policy statement.
+
+36. Patient grievance mechanism.
+
+37. Incident reporting.
+
+38. Emergency treatment and services.
 
 ## PART VII
 
@@ -80,7 +124,13 @@ III
 
 ## LICENCE AND REGISTRATION
 
-39. Restriction on use of premises. 40. Prohibition on extension and alteration. 41. Transfer, etc. of approval, licence and certificate. 42. Registers.
+39. Restriction on use of premises.
+
+40. Prohibition on extension and alteration.
+
+41. Transfer, etc. of approval, licence and certificate.
+
+42. Registers.
 
 ## PART VIII
 
@@ -92,11 +142,25 @@ III
 
 ## OF REGISTRATION
 
-43. Show cause. 44. Grounds for suspension, etc. relating to administration of private Healthcare facility or service. 45. Grounds for suspension, revocation, refusal to renew licence, etc. relating to qualification of sole proprietor. 46. Grounds for suspension, revocation, or refusal to renew approval, licence or certificate of registration. 47. Additional grounds.
+43. Show cause.
+
+44. Grounds for suspension, etc. relating to administration of private Healthcare facility or service.
+
+45. Grounds for suspension, revocation, refusal to renew licence, etc. relating to qualification of sole proprietor.
+
+46. Grounds for suspension, revocation, or refusal to renew approval, licence or certificate of registration.
+
+47. Additional grounds.
 
 <!-- page 4 -->
 
-48. Representations. 49. Power of Director General to suspend, revoke, or refuse renewal. 50. Surrender of licence or certificate. 51. Cessation of operation.
+48. Representations.
+
+49. Power of Director General to suspend, revoke, or refuse renewal.
+
+50. Surrender of licence or certificate.
+
+51. Cessation of operation.
 
 ## PART IX
 
@@ -104,19 +168,37 @@ III
 
 ## FACILITIES OR SERVICES
 
-52. Order for temporary closure of private healthcare facilities or services. 53. Conditions for closure, selling or otherwise disposing of private healthcare facility or service.
+52. Order for temporary closure of private healthcare facilities or services.
+
+53. Conditions for closure, selling or otherwise disposing of private healthcare facility or service.
 
 ## PART X
 
 ## BLOOD BANK
 
-54. Interpretation. 55. Prohibition on supply of natural human blood and blood product. 56. Import and export of natural human blood and blood product. 57. Issue of certificate to import and export natural human blood and blood product. 58. Consent to test blood from donors.
+54. Interpretation.
+
+55. Prohibition on supply of natural human blood and blood product.
+
+56. Import and export of natural human blood and blood product.
+
+57. Issue of certificate to import and export natural human blood and blood product.
+
+58. Consent to test blood from donors.
 
 ## PART XI
 
 ## BLOOD TRANSFUSION SERVICES
 
-59. Storage facilities. 60. Minimum blood supply. 61. Maintain records of receipt and disposition of blood. 62. Transfusion reactions. 63. Recommendations to the Medical Advisory Committee.
+59. Storage facilities.
+
+60. Minimum blood supply.
+
+61. Maintain records of receipt and disposition of blood.
+
+62. Transfusion reactions.
+
+63. Recommendations to the Medical Advisory Committee.
 
 ## PART XII
 
@@ -190,13 +272,27 @@ III
 
 ## ENFORCEMENT
 
-87. Appointment of Inspectors. 88. Power of Inspector to enter and inspect. 89. Power to search and seize. 90. Search and seizure without warrant. 91. Power to seal. 92. Power to require information and examine persons. 93. Duty to assist Inspector. 94. Offences in relation to inspection. 95. List of things seized. 96. Forfeiture of things seized. 97. No person entitled to costs, etc. on seizure. 98. Production of official identification card or badge. 99. Compounding of offences. 100. Institution and conduct of prosecution.
+87. Appointment of Inspectors. 88. Power of Inspector to enter and inspect. 89. Power to search and seize. 90. Search and seizure without warrant. 91. Power to seal. 92. Power to require information and examine persons. 93. Duty to assist Inspector. 94. Offences in relation to inspection. 95. List of things seized. 96. Forfeiture of things seized. 97. No person entitled to costs, etc. on seizure. 98. Production of official identification card or badge. 99. Compounding of offences.
+
+100. Institution and conduct of prosecution.
 
 ## PART XVII
 
 ## POWER OF MINISTER
 
-101. Appeal. 102. Power of Minister to issue general directions. 103. Power of Minister to exempt. 104. Board of Visitors. 105. Social or welfare contribution. 106. Fee schedule. 107. Power to make regulations.
+101. Appeal.
+
+102. Power of Minister to issue general directions.
+
+103. Power of Minister to exempt.
+
+104. Board of Visitors.
+
+105. Social or welfare contribution.
+
+106. Fee schedule.
+
+107. Power to make regulations.
 
 <!-- page 7 -->
 
@@ -206,13 +302,39 @@ Private Healthcare Facilities and Services
 
 ## MISCELLANEOUS
 
-108. Advertisement. 109. National Register. 110. Service of notice. 111. Delegation by Director General. 112. Furnishing of information. 113. Officers deemed to be public servants. 114. Protection against suit and legal proceedings. 115. Confidentiality of information. 116. Private psychiatric hospital, psychiatric nursing home and community mental health centre. 117. General offence and penalty. 118. Contravention of subsidiary legislation.
+108. Advertisement.
+
+109. National Register.
+
+110. Service of notice.
+
+111. Delegation by Director General.
+
+112. Furnishing of information.
+
+113. Officers deemed to be public servants.
+
+114. Protection against suit and legal proceedings.
+
+115. Confidentiality of information.
+
+116. Private psychiatric hospital, psychiatric nursing home and community mental health centre.
+
+117. General offence and penalty.
+
+118. Contravention of subsidiary legislation.
 
 ## PART XIX
 
 ## SAVING AND TRANSITIONAL PROVISIONS
 
-119. Repeal. 120. Saving and transitional provisions relating to existing licensed private hospitals, maternity homes and nursing homes. 121. Power of Minister to make additional transitional provisions. 122. Saving and transitional provisions relating to existing private medical clinics and private dental clinics.
+119. Repeal.
+
+120. Saving and transitional provisions relating to existing licensed private hospitals, maternity homes and nursing homes.
+
+121. Power of Minister to make additional transitional provisions.
+
+122. Saving and transitional provisions relating to existing private medical clinics and private dental clinics.
 
 <!-- page 9 -->
 
@@ -246,15 +368,15 @@ force on a date to be appointed by the Minister by notification in the Gazette, 
 
 "approval to establish or maintain" means approval to establish or maintain a private healthcare facility or service other than a private medical clinic or a private dental clinic granted under paragraph 12(a);
 
-"Board of Management" means a board of trustees or directors, or any other governing body in whom the ultimate authority and responsibility for the conduct of the private healthcare facilities or services specified in
-
-## Part XIV are vested;
+"Board of Management" means a board of trustees or directors, or any other governing body in whom the ultimate authority and responsibility for the conduct of the private healthcare facilities or services specified in Part XIV are vested;
 
 <!-- page 10 -->
 
 "Board of Visitors" means the Board of Visitors established under section 104;
 
-"body corporate" means a body incorporated under Act
+"body corporate" means a body incorporated under
+
+<!-- marginal: Act -->
 
 125. the Companies Act 1965;
 
@@ -440,9 +562,27 @@ Registration. 4. (1) No person shall establish, maintain, operate or provide a p
 
 (2) Notwithstanding subsection (1), a private medical clinic or private dental clinic which forms part of the premises of a licensed private healthcare facility and to which the clinic is organisationally, administratively and physically linked shall not be required to be registered separately but shall comply with such standards and requirements as may be prescribed.
 
-Unlicensed 5. (1) A person who contravenes section 3 or section and 4 commits an offence and shall be liable, on conviction— unregistered private healthcare
+<!-- marginal: Unlicensed -->
 
-(a) in the case of an individual person— facility or service. (i) to a fine not exceeding three hundred thousand ringgit or to imprisonment for a term not exceeding six years or to both; and
+5. (1) A person who contravenes section 3 or section
+
+<!-- marginal: and -->
+
+4 commits an offence and shall be liable, on conviction—
+
+<!-- marginal: unregistered -->
+
+<!-- marginal: private -->
+
+<!-- marginal: healthcare -->
+
+(a) in the case of an individual person—
+
+<!-- marginal: facility or -->
+
+<!-- marginal: service. -->
+
+(i) to a fine not exceeding three hundred thousand ringgit or to imprisonment for a term not exceeding six years or to both; and
 
 <!-- page 17 -->
 
@@ -478,9 +618,29 @@ shall also be guilty of the offence and shall be liable, on conviction—
 
 ### Bill
 
-Approval and 6. (1) Approval to establish or maintain, or a licence licence may to operate or provide may only be issued to— be issued to a sole proprietor,
+<!-- marginal: Approval and -->
 
-(a) a sole proprietor who is a registered medical partnership practitioner; or body corporate.
+6. (1) Approval to establish or maintain, or a licence
+
+<!-- marginal: licence may -->
+
+to operate or provide may only be issued to—
+
+<!-- marginal: be issued to -->
+
+<!-- marginal: a sole -->
+
+<!-- marginal: proprietor, -->
+
+(a) a sole proprietor who is a registered medical
+
+<!-- marginal: partnership -->
+
+practitioner;
+
+<!-- marginal: or body -->
+
+<!-- marginal: corporate. -->
 
 (b) a partnership which consists of at least one partner who is a registered medical practitioner; or
 
@@ -490,9 +650,35 @@ Approval and 6. (1) Approval to establish or maintain, or a licence licence may 
 
 (3) Notwithstanding subsection (1), approval to establish or maintain or a licence to operate or provide a private maternity home may be issued to a registered midwife if contractual arrangements have been made for a registered medical practitioner to visit the patients in such home at such frequency as may be prescribed.
 
-(4) Notwithstanding subsection (1), approval to establish or maintain or a licence to operate or provide a private hospice or a private haemodialysis centre, on a voluntary or charitable basis, may be issued to a society Act 335. registered under the Societies Act 1966.
+(4) Notwithstanding subsection (1), approval to establish or maintain or a licence to operate or provide a private hospice or a private haemodialysis centre, on a voluntary or charitable basis, may be issued to a society
 
-Certificate of 7. (1) A certificate of registration to establish, maintain, registration operate or provide a private medical clinic may only be to operate private issued to a registered medical practitioner. medical and private dental clinic. (2) A certificate of registration to establish, maintain, operate or provide a private dental clinic may only be issued to a registered dental practitioner or a body corporate described in section 28 of the Dental Act 1971. Act 51.
+<!-- marginal: Act 335. -->
+
+registered under the Societies Act 1966.
+
+<!-- marginal: Certificate of -->
+
+7. (1) A certificate of registration to establish, maintain,
+
+<!-- marginal: registration -->
+
+operate or provide a private medical clinic may only be
+
+<!-- marginal: to operate -->
+
+<!-- marginal: private -->
+
+issued to a registered medical practitioner.
+
+<!-- marginal: medical and -->
+
+<!-- marginal: private dental -->
+
+<!-- marginal: clinic. -->
+
+(2) A certificate of registration to establish, maintain, operate or provide a private dental clinic may only be issued to a registered dental practitioner or a body corporate described in section 28 of the Dental Act 1971.
+
+<!-- marginal: Act 51. -->
 
 <!-- page 19 -->
 
@@ -552,7 +738,27 @@ without prejudice to a fresh application being made by the applicant.
 
 (5) An application may be withdrawn at any time before it is granted or refused.
 
-Matters to be 9. In deciding whether or not to grant approval to establish considered or maintain a private healthcare facility or service other before approval to than a private medical clinic or a private dental clinic, establish or the Director General shall consider the following matters: maintain is granted.
+<!-- marginal: Matters to be -->
+
+9. In deciding whether or not to grant approval to establish
+
+<!-- marginal: considered -->
+
+or maintain a private healthcare facility or service other
+
+<!-- marginal: before -->
+
+<!-- marginal: approval to -->
+
+than a private medical clinic or a private dental clinic,
+
+<!-- marginal: establish or -->
+
+the Director General shall consider the following matters:
+
+<!-- marginal: maintain is -->
+
+<!-- marginal: granted. -->
 
 (a) the nature of the healthcare facility or service to be provided;
 
@@ -564,7 +770,25 @@ Matters to be 9. In deciding whether or not to grant approval to establish consi
 
 (e) any other matter which in his opinion is relevant.
 
-Refusal to 10. The Director General may refuse to proceed with process an application for approval to establish or maintain a application for approval private healthcare facility or service other than a private to establish medical clinic or a private dental clinic, or may require or maintain.
+<!-- marginal: Refusal to -->
+
+10. The Director General may refuse to proceed with
+
+<!-- marginal: process -->
+
+an application for approval to establish or maintain a
+
+<!-- marginal: application -->
+
+<!-- marginal: for approval -->
+
+private healthcare facility or service other than a private
+
+<!-- marginal: to establish -->
+
+medical clinic or a private dental clinic, or may require
+
+<!-- marginal: or maintain. -->
 
 <!-- page 21 -->
 
@@ -672,9 +896,7 @@ medical clinic or a private dental clinic shall be made to the Director General�
 
 (3) The requirement under paragraph (l)(c) and subsection (2) may differ as between different descriptions of private healthcare facilities or services.
 
-(4) Where additional information, particulars or documents required under paragraph ( 1 )( c) and subsection
-
-(2) is or are not provided by the applicant within the specified time or extended time, the application—
+(4) Where additional information, particulars or documents required under paragraph ( 1 )( c) and subsection (2) is or are not provided by the applicant within the specified time or extended time, the application—
 
 (a) shall be deemed to have been withdrawn; and
 
@@ -686,7 +908,13 @@ without prejudice to a fresh application being made by the applicant.
 
 <!-- page 24 -->
 
-Inspection of 16. (1) Upon receiving an application for a licence to premises. operate or provide a private healthcare facility or service other than a private medical clinic or a private dental clinic, the Director General shall appoint in writing two or more persons, one of whom shall be a registered medical practitioner—
+<!-- marginal: Inspection of -->
+
+16. (1) Upon receiving an application for a licence to
+
+<!-- marginal: premises. -->
+
+operate or provide a private healthcare facility or service other than a private medical clinic or a private dental clinic, the Director General shall appoint in writing two or more persons, one of whom shall be a registered medical practitioner—
 
 (a) to inspect the premises of the private healthcare facility or service to ascertain that it complies with the building layout plan, design, construction and specification to which the approval to establish or maintain relates;
 
@@ -696,7 +924,19 @@ Inspection of 16. (1) Upon receiving an application for a licence to premises. o
 
 (2) The persons appointed under subsection (1) shall submit a report of the inspection to the Director General as soon as practicable.
 
-Refusal to 17. The Director General may refuse to proceed with process an application for a licence to operate or provide, or application for licence. may require that the application be appropriately amended or completed and resubmitted or that a fresh application be submitted in its place if—
+<!-- marginal: Refusal to -->
+
+17. The Director General may refuse to proceed with
+
+<!-- marginal: process -->
+
+an application for a licence to operate or provide, or
+
+<!-- marginal: application -->
+
+<!-- marginal: for licence. -->
+
+may require that the application be appropriately amended or completed and resubmitted or that a fresh application be submitted in its place if—
 
 (a) the application form as prescribed is not duly completed by reason of any omission or misdescription;
 
@@ -762,19 +1002,111 @@ the Director General shall have the discretion—
 
 <!-- page 26 -->
 
-Licence to 20. A licence to operate or provide a private healthcare specify type facility or service other than a private medical clinic or of private Healthcare a private dental clinic shall specify the type of private facility or healthcare facility or service for which it is issued and service. the purpose for which the licence may be maintained.
+<!-- marginal: Licence to -->
 
-Separate
+20. A licence to operate or provide a private healthcare
 
-21. Separate licences shall be applied for private licence for healthcare facilities or services other than private medical private healthcare clinic or private dental clinic which are not physically, facilities or administratively or organisationally linked. services which are not physically, adminis- tratively or organisa- tionally linked. Duration and 22. (1) A licence to operate or provide a private renewal of healthcare facility or service other than a private medical licence to operate or clinic or a private dental clinic shall, unless sooner provide. suspended or revoked, remain in force for a period of two years from the date on which it is issued, and may by application in the prescribed form and on payment of the prescribed fee be renewed for a similar period by the grant of a new licence.
+<!-- marginal: specify type -->
+
+facility or service other than a private medical clinic or
+
+<!-- marginal: of private -->
+
+<!-- marginal: Healthcare -->
+
+a private dental clinic shall specify the type of private
+
+<!-- marginal: facility or -->
+
+healthcare facility or service for which it is issued and
+
+<!-- marginal: service. -->
+
+the purpose for which the licence may be maintained.
+
+<!-- marginal: Separate -->
+
+21. Separate licences shall be applied for private
+
+<!-- marginal: licence for -->
+
+healthcare facilities or services other than private medical
+
+<!-- marginal: private -->
+
+<!-- marginal: healthcare -->
+
+clinic or private dental clinic which are not physically,
+
+<!-- marginal: facilities or -->
+
+administratively or organisationally linked.
+
+<!-- marginal: services -->
+
+<!-- marginal: which are -->
+
+<!-- marginal: not -->
+
+<!-- marginal: physically, -->
+
+<!-- marginal: adminis- -->
+
+<!-- marginal: tratively or -->
+
+<!-- marginal: organisa- -->
+
+<!-- marginal: tionally -->
+
+<!-- marginal: linked. -->
+
+<!-- marginal: Duration and -->
+
+22. (1) A licence to operate or provide a private
+
+<!-- marginal: renewal of -->
+
+healthcare facility or service other than a private medical
+
+<!-- marginal: licence to -->
+
+<!-- marginal: operate or -->
+
+clinic or a private dental clinic shall, unless sooner
+
+<!-- marginal: provide. -->
+
+suspended or revoked, remain in force for a period of two years from the date on which it is issued, and may by application in the prescribed form and on payment of the prescribed fee be renewed for a similar period by the grant of a new licence.
 
 (2) Sections 16 to 19 shall apply mutatis mutandis to an application for renewal of a licence to operate or provide.
 
 (3) When renewing a licence the Director General may vary the terms or conditions attached to the licence and may impose additional terms and conditions.
 
-Licence to 23. A copy of the licence to operate or provide a private be exhibited. healthcare facility or service shall be exhibited in a conspicuous part of the premises of the private healthcare facility or service.
+<!-- marginal: Licence to -->
 
-Power to 24. The Director General may, on an application in vary terms or writing to him, vary the terms or conditions of the approval conditions, or to establish or maintain or licence to operate or provide purpose of approval or a private healthcare facility or service by endorsement thereon or otherwise in writing by altering, in such manner
+23. A copy of the licence to operate or provide a private
+
+<!-- marginal: be exhibited. -->
+
+healthcare facility or service shall be exhibited in a conspicuous part of the premises of the private healthcare facility or service.
+
+<!-- marginal: Power to -->
+
+24. The Director General may, on an application in
+
+<!-- marginal: vary terms or -->
+
+writing to him, vary the terms or conditions of the approval
+
+<!-- marginal: conditions, or -->
+
+to establish or maintain or licence to operate or provide
+
+<!-- marginal: purpose of -->
+
+<!-- marginal: approval or -->
+
+a private healthcare facility or service by endorsement thereon or otherwise in writing by altering, in such manner
 
 <!-- page 27 -->
 
@@ -816,15 +1148,55 @@ resubmitted or that a fresh application be submitted in its place if—
 
 (c) the application does not comply with any other prescribed requirement.
 
-Grant of 27. Upon receiving and having considered the application, certificate of the Director General may register the private medical registration. clinic or private dental clinic with or without such terms or conditions as he may deem necessary and issue a certificate of registration upon payment of the prescribed fee.
+<!-- marginal: Grant of -->
 
-Certificate of 28. A copy of the certificate of registration shall be registration exhibited in a conspicuous part of the premises of the to be exhibited. private medical clinic or private dental clinic.
+27. Upon receiving and having considered the application,
 
-29. The Director General may, on an application in Power to vary terms writing to him and upon payment of the prescribed fee, or conditions vary the terms or conditions of registration by endorsement of registration. on the certificate of registration or otherwise in writing.
+<!-- marginal: certificate of -->
 
-Separate
+the Director General may register the private medical
 
-30. Separate registration shall be required for— registration.
+<!-- marginal: registration. -->
+
+clinic or private dental clinic with or without such terms or conditions as he may deem necessary and issue a certificate of registration upon payment of the prescribed fee.
+
+<!-- marginal: Certificate of -->
+
+28. A copy of the certificate of registration shall be
+
+<!-- marginal: registration -->
+
+exhibited in a conspicuous part of the premises of the
+
+<!-- marginal: to be -->
+
+<!-- marginal: exhibited. -->
+
+private medical clinic or private dental clinic.
+
+29. The Director General may, on an application in
+
+<!-- marginal: Power to -->
+
+<!-- marginal: vary terms -->
+
+writing to him and upon payment of the prescribed fee,
+
+<!-- marginal: or conditions -->
+
+vary the terms or conditions of registration by endorsement
+
+<!-- marginal: of -->
+
+<!-- marginal: registration. -->
+
+on the certificate of registration or otherwise in writing.
+
+<!-- marginal: Separate -->
+
+30. Separate registration shall be required for—
+
+<!-- marginal: registration. -->
 
 (a) a private medical clinic and a private dental clinic which are physically, administratively or organisationally linked to each other;
 
@@ -838,7 +1210,9 @@ Private Healthcare Facilities and Services
 
 (d) a private medical clinic which is not physically linked but is organisationally or administratively linked to a registered private medical clinic, or to a licensed healthcare facility or service;
 
-(e) a private dental clinic which is not physically linked but is organisationally or administratively linked to a registered dental clinic or to a licensed healthcare facility or service; (f) a private medical clinic or a private dental clinic which is under an individual medical or dental practitioner, as the case may be, sharing manpower, facilities or services, in the same premises but which are not administratively nor organisationally linked to each other; and
+(e) a private dental clinic which is not physically linked but is organisationally or administratively linked to a registered dental clinic or to a licensed healthcare facility or service;
+
+(f) a private medical clinic or a private dental clinic which is under an individual medical or dental practitioner, as the case may be, sharing manpower, facilities or services, in the same premises but which are not administratively nor organisationally linked to each other; and
 
 (g) any other forms of organisation or administration of private medical clinics or private dental clinics as the Director General may determine.
 
@@ -858,11 +1232,7 @@ Private Healthcare Facilities and Services
 
 (c) ensure that persons employed or engaged by the licensed or registered private healthcare facility or service are registered under any law regulating their registration, or in the absence of any such law, hold such qualification and experience as are recognised by the Director General; and
 
-(d) comply with such other duties
-
-<!-- marginal: and -->
-
-responsibilities as may be prescribed.
+(d) comply with such other duties and responsibilities as may be prescribed.
 
 <!-- page 30 -->
 
@@ -884,7 +1254,13 @@ Bill
 
 shall also be guilty of the offence and shall be liable, on conviction to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding two years or to both.
 
-Person in 32. (1) A person in charge of a licensed or registered charge. private healthcare facility or service shall hold such qualification, have undergone such training and possess such experience as may be prescribed.
+<!-- marginal: Person in -->
+
+32. (1) A person in charge of a licensed or registered
+
+<!-- marginal: charge. -->
+
+private healthcare facility or service shall hold such qualification, have undergone such training and possess such experience as may be prescribed.
 
 (2) A person in charge shall carry out such duties and responsibilities as may be prescribed.
 
@@ -912,15 +1288,41 @@ Private Healthcare Facilities and Services
 
 Bill
 
-Patient 36. (1) The licensee of a private Healthcare facility or grievance service or holder of a certificate of registration shall mechanism. establish a plan for grievance mechanism for patients using the premises of the private healthcare facility or service.
+<!-- marginal: Patient -->
+
+36. (1) The licensee of a private Healthcare facility or
+
+<!-- marginal: grievance -->
+
+service or holder of a certificate of registration shall
+
+<!-- marginal: mechanism. -->
+
+establish a plan for grievance mechanism for patients using the premises of the private healthcare facility or service.
 
 (2) A grievance mechanism plan and grievance procedure shall be as prescribed.
 
-incident 37. (1) Notwithstanding any other report required by reporting. any other written law, a private healthcare facility or service shall report to the Director General, or any person authorized by him in that behalf, such unforeseeable and unanticipated incidents as may be prescribed.
+<!-- marginal: incident -->
+
+37. (1) Notwithstanding any other report required by
+
+<!-- marginal: reporting. -->
+
+any other written law, a private healthcare facility or service shall report to the Director General, or any person authorized by him in that behalf, such unforeseeable and unanticipated incidents as may be prescribed.
 
 (2) This section shall apply to any unforeseeable or unanticipated incident that occurs on or after the date of commencement of this Act.
 
-Emergency 38. (1) Every licensed and registered private healthcare treatment facility or service shall at all times be capable of instituting, and services. and making available, essential life saving measures and implementing emergency procedures on any person requiring such treatment or services.
+<!-- marginal: Emergency -->
+
+38. (1) Every licensed and registered private healthcare
+
+<!-- marginal: treatment -->
+
+facility or service shall at all times be capable of instituting,
+
+<!-- marginal: and services. -->
+
+and making available, essential life saving measures and implementing emergency procedures on any person requiring such treatment or services.
 
 (2) The nature and scope of such emergency measures, procedures and services shall be as prescribed.
 
@@ -930,7 +1332,17 @@ Emergency 38. (1) Every licensed and registered private healthcare treatment fac
 
 ## LICENCE AND REGISTRATION
 
-Restriction 39. (1) The premises to which a licence to operate or on use of provide a private healthcare facility or service or a premises. certificate of registration relates shall not be used for any purpose other than the purpose in respect of which the licence or certificate of registration is issued, and purposes reasonably incidental thereto.
+<!-- marginal: Restriction -->
+
+39. (1) The premises to which a licence to operate or
+
+<!-- marginal: on use of -->
+
+provide a private healthcare facility or service or a
+
+<!-- marginal: premises. -->
+
+certificate of registration relates shall not be used for any purpose other than the purpose in respect of which the licence or certificate of registration is issued, and purposes reasonably incidental thereto.
 
 <!-- page 33 -->
 
@@ -968,9 +1380,19 @@ shall also be guilty of the offence and shall be liable on conviction—
 
 (B) in the case of a continuing offence to a fine not exceeding one thousand ringgit for every day or part of a day during which the offence continues after conviction.
 
-Prohibition
+<!-- marginal: Prohibition -->
 
-40. (1) No person shall make any structural or functional on extension extension or alteration to any licensed private healthcare and alteration. facility or service or to any part thereof which affects—
+40. (1) No person shall make any structural or functional
+
+<!-- marginal: on extension -->
+
+extension or alteration to any licensed private healthcare
+
+<!-- marginal: and -->
+
+<!-- marginal: alteration. -->
+
+facility or service or to any part thereof which affects—
 
 (a) the purpose for which the licensed private healthcare facility was established, maintained, operated or provided;
 
@@ -1014,7 +1436,11 @@ the Director General may waive the fee payable, or refund the fee paid, under su
 
 Bill
 
-(2) The registers in paragraphs 1( a) and (b) shall be deemed to be public document within the meaning of Act 56. the Evidence Act 1950 and shall be open for public inspection and the public may make a search on and obtain extracts from the registers upon payment of a prescribed fee.
+(2) The registers in paragraphs 1( a) and (b) shall be deemed to be public document within the meaning of
+
+<!-- marginal: Act 56. -->
+
+the Evidence Act 1950 and shall be open for public inspection and the public may make a search on and obtain extracts from the registers upon payment of a prescribed fee.
 
 ## PART VIII
 
@@ -1028,7 +1454,33 @@ Bill
 
 Show cause. 43. The Director General may serve on the holder of the approval to establish or maintain or a licensee under this Act a show cause notice of his intention to suspend or revoke the approval or licence or refusal to renew the licence, as the case may be, and he may serve on a holder of a certificate of registration granted under this Act a show cause notice of his intention to suspend or revoke the registration.
 
-Grounds for 44. The Director General may issue the show cause notice suspension, in section 43 if he is satisfied that it is expedient so to etc. relating to adminis- do on the ground that the holder of the approval or the tration of licensee or the holder of the certificate of registration, private healthcare as the case may be— facility or service.
+<!-- marginal: Grounds for -->
+
+44. The Director General may issue the show cause notice
+
+<!-- marginal: suspension, -->
+
+in section 43 if he is satisfied that it is expedient so to
+
+<!-- marginal: etc. relating -->
+
+<!-- marginal: to adminis- -->
+
+do on the ground that the holder of the approval or the
+
+<!-- marginal: tration of -->
+
+licensee or the holder of the certificate of registration,
+
+<!-- marginal: private -->
+
+<!-- marginal: healthcare -->
+
+as the case may be—
+
+<!-- marginal: facility or -->
+
+<!-- marginal: service. -->
 
 (a) has obtained the approval, licence or registration by any false or misleading statement;
 
@@ -1098,43 +1550,65 @@ paragraph 30(i) of the Medical Act 1971;
 
 Bill
 
-(e) who is a registered nurse, and whose name has been struck off from the Register of Nurses P.U.(A) pursuant to paragraph 32(a) of the Nurses 494/85. Registration Regulations 1985;
+(e) who is a registered nurse, and whose name has been struck off from the Register of Nurses
 
-(f) who is a registered midwife, and whose name has been struck off from the Register of Midwives pursuant to paragraph I3B(a) of the Act 436. Midwives Act 1966;
+<!-- marginal: P.U.(A) -->
+
+pursuant to paragraph 32(a) of the Nurses
+
+<!-- marginal: 494/85. -->
+
+Registration Regulations 1985;
+
+(f) who is a registered midwife, and whose name has been struck off from the Register of Midwives pursuant to paragraph I3B(a) of the
+
+<!-- marginal: Act 436. -->
+
+Midwives Act 1966;
 
 (g) who is a registered nurse, and whose name has been suspended from the Register of Nurses pursuant to paragraph 32(b) of the Nurses Registration Regulations 1985; or
 
 (h) who is a registered midwife, and whose name has been suspended from the Register of Midwives pursuant to paragraph 13B(b) of the Midwives Act 1966.
 
-### Grounds for
+<!-- marginal: Grounds for -->
 
 46. The Director General may issue the notice in section
 
-### suspension,
+<!-- marginal: suspension, -->
 
-43 if the holder of the approval or licensee or the holder revocation, or
+43 if the holder of the approval or licensee or the holder
 
-### refusal to
+<!-- marginal: revocation, or -->
+
+<!-- marginal: refusal to -->
 
 of a certificate of registration is a body corporate,
 
-### renew
+<!-- marginal: renew -->
 
 partnership or society which does not remove member
 
-### approval,
+<!-- marginal: approval, -->
 
-### licence or
+<!-- marginal: licence or -->
 
-of its board of directors, partner or office bearers, as the certificate of case may be—
+of its board of directors, partner or office bearers, as the
 
-### registration.
+<!-- marginal: certificate of -->
 
-(a) whose name has been struck off from the Malaysian Medical Register pursuant to Act 50. paragraph 30(i) of the Medical Act 1971;
+case may be—
+
+<!-- marginal: registration. -->
+
+(a) whose name has been struck off from the Malaysian Medical Register pursuant to
+
+<!-- marginal: Act 50. -->
+
+paragraph 30(i) of the Medical Act 1971;
 
 (b) whose name has been struck off from the Malaysian Dental Register pursuant to paragraph
 
-### Act 51.
+<!-- marginal: Act 51. -->
 
 33(1)(a) of the Dental Act 1971;
 
@@ -1240,7 +1714,9 @@ and Services
 
 (b) in the case of a continuing offence, to a fine of one thousand ringgit for every day or part of the day during which the offence continues after conviction.
 
-(4) A body corporate, partnership or society which fails to comply with the order served on it under subsection (1) commits an offence and shall be liable on conviction—
+(4) A body corporate, partnership or society which fails to comply with the order served on it under subsection
+
+(1) commits an offence and shall be liable on conviction—
 
 (a) to a fine not exceeding one hundred thousand ringgit; and
 
@@ -1264,7 +1740,37 @@ shall also be guilty of the offence and shall be liable on conviction-—
 
 Bill
 
-Conditions 53. (1) Where the licensee of a private healthcare facility for closure, or service, or the holder of a certificate of registration, selling or otherwise intends to close down, transfer, sell or otherwise dispose disposing of the private healthcare facility or service, he or it shall of private give the Director General not less than thirty days notice healthcare facility or in writing of his or its intention. service. (2) The licensee or a holder of a certificate of registration whose licence or registration has been revoked or suspended, as the case may be, or who has been refused renewal of such licence shall notify the Director General in writing of his or its intention to close down transfer, sell or otherwise dispose of the private healthcare facility or service as soon as practicable.
+<!-- marginal: Conditions -->
+
+53. (1) Where the licensee of a private healthcare facility
+
+<!-- marginal: for closure, -->
+
+or service, or the holder of a certificate of registration,
+
+<!-- marginal: selling or -->
+
+<!-- marginal: otherwise -->
+
+intends to close down, transfer, sell or otherwise dispose
+
+<!-- marginal: disposing -->
+
+of the private healthcare facility or service, he or it shall
+
+<!-- marginal: of private -->
+
+give the Director General not less than thirty days notice
+
+<!-- marginal: healthcare -->
+
+<!-- marginal: facility or -->
+
+in writing of his or its intention.
+
+<!-- marginal: service. -->
+
+(2) The licensee or a holder of a certificate of registration whose licence or registration has been revoked or suspended, as the case may be, or who has been refused renewal of such licence shall notify the Director General in writing of his or its intention to close down transfer, sell or otherwise dispose of the private healthcare facility or service as soon as practicable.
 
 (3) The licensee or the holder of a certificate shall comply with such directions as the Director General may give with regard to the accommodation and care of the patients, and the care of medical records in the licensed or registered private healthcare facility or service, before closing down, transferring, selling or otherwise disposing of the licensed or registered private healthcare facility or service.
 
@@ -1316,15 +1822,21 @@ Bill
 
 (c) take no further action.
 
-consent to 58. The person in charge of a private healthcare facility test blood or service intending to test blood from a donor shall obtain the donor's written consent to test his blood for such diseases as may be specified by the Director General from time to time and in accordance with such procedures as may be specified.
+<!-- marginal: consent to -->
+
+58. The person in charge of a private healthcare facility test blood or service intending to test blood from a donor shall obtain the donor's written consent to test his blood for such diseases as may be specified by the Director General from time to time and in accordance with such procedures as may be specified.
 
 ## PART XI
 
 ## BLOOD TRANSFUSION SERVICES
 
-storage
+<!-- marginal: storage -->
 
-59. (1) All private hospitals, maternity homes, and facilities. ambulatory surgical care centres, and all other private healthcare facilities providing emergency care services regularly or surgical services, shall maintain proper blood storage facilities as may be prescribed.
+59. (1) All private hospitals, maternity homes, and
+
+<!-- marginal: facilities. -->
+
+ambulatory surgical care centres, and all other private healthcare facilities providing emergency care services regularly or surgical services, shall maintain proper blood storage facilities as may be prescribed.
 
 (2) The storage facilities shall be under the adequate control and supervision of the person in charge of the private healthcare facility or service.
 
@@ -1404,7 +1916,9 @@ Private Healthcare Facilities and Services
 
 67. (1) A person in charge of a private healthcare facility Reporting of or service shall ensure that every medical or dental assessable practitioner who administers any anaesthesia or anaesthetic deaths or medical or surgical procedure or uses any medical technology on a patient whose death is an assessable death shall, as soon as practicable, but in any case not more than 72 hours after he learns of the occurrence of that death, notify the Director General of the name of the patient, his opinion as to the cause of the death, and his own name and address.
 
-(2) On receipt of any notification under subsection (1), the Director General shall forthwith in writing forward the information to the Chairman of a Committee.
+(2) On receipt of any notification under subsection
+
+(1), the Director General shall forthwith in writing forward the information to the Chairman of a Committee.
 
 68. (1) For the purposes of the functions of a Committee, Medical and the Chairman may require any medical practitioner or dental dental practitioner or any other relevant person to supply practitioners all or any specified information in his possession relating to provide to an assessable death, and to the anesthesia or anesthetic information procedure or medical technology or medical procedure or surgery or surgical procedure relating to any assessable death, including clinical or medical records, and other material documents in his possession or under his control, notwithstanding subsections 112(4) or any rule of law or custom or practice to the contrary.
 
@@ -1422,9 +1936,11 @@ Bill
 
 (c) the name of the private healthcare facility or place where the death occurred.
 
-publication
+<!-- marginal: publication -->
 
-69. (1) Subject to subsection (2), the Committee shall, of in accordance with such directions as the Director General information.
+69. (1) Subject to subsection (2), the Committee shall, of in accordance with such directions as the Director General
+
+<!-- marginal: information. -->
 
 with anesthesia, anesthetic procedures, medical technology, medical procedures, surgery or surgical procedures, and to such other persons or classes of persons as the Director General may specify, any conclusion and recommendations it reaches in relation to the performance of its functions.
 
@@ -1464,13 +1980,35 @@ Bill
 
 (2) No proceedings, civil or criminal, shall be brought against any person in any Court in respect of any such act except by leave of a Judge of the High Court.
 
-(3) Notice of any application for leave under subsection (2) shall be given to the person against whom it is sought to bring the proceedings concerned; and that person shall be entitled to be heard against the application.
+(3) Notice of any application for leave under subsection
+
+(2) shall be given to the person against whom it is sought to bring the proceedings concerned; and that person shall be entitled to be heard against the application.
 
 (4) Leave to bring such proceedings shall not be granted unless application for the leave is made within one year after the act complained of, or, in the case of a continuance of injury or damage, within one year after the cessation of the injury or damage.
 
 (5) In granting the leave to bring any such proceedings, the Judge may limit the time within which the leave may be exercised.
 
-Mortality 72. (1) Notwithstanding section 65, any private assessment healthcare facility or service may establish at its level committee at private any mortality assessment committee to carry out similar healthcare functions as in section 66. facility or service level.
+<!-- marginal: Mortality -->
+
+72. (1) Notwithstanding section 65, any private
+
+<!-- marginal: assessment -->
+
+healthcare facility or service may establish at its level
+
+<!-- marginal: committee at -->
+
+<!-- marginal: private -->
+
+any mortality assessment committee to carry out similar
+
+<!-- marginal: healthcare -->
+
+functions as in section 66.
+
+<!-- marginal: facility or -->
+
+<!-- marginal: service level. -->
 
 (2) The person in charge of a private healthcare facility or service shall appoint in respect of each mortality assessment committee a chairman who shall have the powers in section 68.
 
@@ -1508,15 +2046,21 @@ independent investigation conducted against any person investigation, under any 
 
 Bill
 
-### Power of
+<!-- marginal: Power of -->
 
-75. (1) Where the Director General is of the opinion Director that any prescribed requirement or any prescribed standard General to
+75. (1) Where the Director General is of the opinion
 
-### give
+<!-- marginal: Director -->
+
+that any prescribed requirement or any prescribed standard
+
+<!-- marginal: General to -->
+
+<!-- marginal: give -->
 
 which applies to a private healthcare facility or service
 
-### directions.
+<!-- marginal: directions. -->
 
 is not being observed by that facility or service, the Director General may give to the holder of the approval, licensee or the holder of a certificate of registration in respect of such facility or service such directions in writing as he thinks necessary for the observance of the requirement or standard and shall state in the directions the period within which the holder of the approval, licensee or the holder of the certificate of registration is required to comply with the directions.
 
@@ -1562,9 +2106,33 @@ shall also be guilty of the offence and shall be liable on conviction—
 
 Bill
 
-### Power of
+<!-- marginal: Power of -->
 
-76. The Director General may issue directives, orders Director or guidelines relating to the quality and standards of General to issue private healthcare facilities or services as he deems directives, necessary. orders or guidelines relating to quality assurance.
+76. The Director General may issue directives, orders
+
+<!-- marginal: Director -->
+
+or guidelines relating to the quality and standards of
+
+<!-- marginal: General to -->
+
+<!-- marginal: issue -->
+
+private healthcare facilities or services as he deems
+
+<!-- marginal: directives, -->
+
+necessary.
+
+<!-- marginal: orders or -->
+
+<!-- marginal: guidelines -->
+
+<!-- marginal: relating to -->
+
+<!-- marginal: quality -->
+
+<!-- marginal: assurance. -->
 
 ## PART XIV
 
@@ -1572,11 +2140,27 @@ Bill
 
 ## COMMITTEE
 
-Board of 77. (1) The licensee of a private hospital, private Management. maternity home, private ambulatory care centre, private hospice, private psychiatric hospital or any other private healthcare facility or service as the Minister may specify, shall establish a Board of Management of whom two members shall be from the Medical Advisory Committee established under paragraph 78(b) or 79(b).
+<!-- marginal: Board of -->
+
+77. (1) The licensee of a private hospital, private
+
+<!-- marginal: Management. -->
+
+maternity home, private ambulatory care centre, private hospice, private psychiatric hospital or any other private healthcare facility or service as the Minister may specify, shall establish a Board of Management of whom two members shall be from the Medical Advisory Committee established under paragraph 78(b) or 79(b).
 
 (2) Where a private hospital, private maternity home, private ambulatory care centre, private hospice, private psychiatric hospital or any other private healthcare facility or service as the Minister may specify, provides or intends to provide both medical and dental services, the licensee of such facility or service shall establish a Board of Management of whom two members shall be from the Medical and Dental Advisory Committee established under paragraph 78(c).
 
-Medical or 78. The licensee of a private healthcare facility or service Dental shall ensure that— Advisory Committee.
+<!-- marginal: Medical or -->
+
+78. The licensee of a private healthcare facility or service
+
+<!-- marginal: Dental -->
+
+shall ensure that—
+
+<!-- marginal: Advisory -->
+
+<!-- marginal: Committee. -->
 
 (a) the medical and dental management of patients vests in a registered medical practitioner and a registered dental practitioner respectively;
 
@@ -1824,7 +2408,7 @@ and Services
 
 he may exercise in, and in respect of, the private healthcare facility or premises all the powers referred to in section 89 in as full and ample a manner as if he were authorised to do so by warrant issued under that section.
 
-Power to
+<!-- marginal: Power to -->
 
 91. (1) Where an Inspector has reasonable cause to seal believe that any premises or place is being used as a private healthcare facility or to provide any private healthcare services—
 
@@ -1864,15 +2448,23 @@ information, whether orally or in writing, from any person and examine acquainte
 
 (2) Any person who, on being required by an Inspector to give information under this section, refuses to comply with such requirement or furnishes as true any information which he knows or has reason to believe to be false, untrue or incorrect, in whole or in part, commits an offence.
 
-(3) When any information furnished under subsection
-
-(2) is proved to be false, untrue or incorrect, in whole or in part, it shall be no defence to allege that such information or any part thereof was misinterpreted or furnished inadvertently or without criminal or fraudulent intent.
+(3) When any information furnished under subsection (2) is proved to be false, untrue or incorrect, in whole or in part, it shall be no defence to allege that such information or any part thereof was misinterpreted or furnished inadvertently or without criminal or fraudulent intent.
 
 <!-- page 66 -->
 
 (4) An Inspector making an investigation under this Act may exercise any or all of the powers conferred by F.M.S. cap. 6. section 111 of the Criminal Procedure Code, and sections 112 to 116 of the Code shall apply to statements made by the persons examined in the course of such investigation.
 
-Duty to 93. Whenever an Inspector exercises his powers under assist sections 88, 89, 90, 91 and 92 it shall be the duty of Inspector. the licensee or a holder of a certificate of registration in respect of a licensed or registered private healthcare facility or service, a person in charge and an employee of such facility or service, or the owner or occupier of any premises used as a private healthcare facility or from which private healthcare service is provided, and any person found therein—
+<!-- marginal: Duty to -->
+
+93. Whenever an Inspector exercises his powers under
+
+<!-- marginal: assist -->
+
+sections 88, 89, 90, 91 and 92 it shall be the duty of
+
+<!-- marginal: Inspector. -->
+
+the licensee or a holder of a certificate of registration in respect of a licensed or registered private healthcare facility or service, a person in charge and an employee of such facility or service, or the owner or occupier of any premises used as a private healthcare facility or from which private healthcare service is provided, and any person found therein—
 
 (a) to provide the Inspector with all such facilities and assistance as the Inspector may reasonably require;
 
@@ -1880,7 +2472,13 @@ Duty to 93. Whenever an Inspector exercises his powers under assist sections 88,
 
 (c) to produce any book, record or document in his possession or custody or under his control or within his power to furnish relating to the affairs of the private healthcare facility or service or premises.
 
-Offences in 94. A person who— relation to inspection.
+<!-- marginal: Offences in -->
+
+94. A person who—
+
+<!-- marginal: relation to -->
+
+<!-- marginal: inspection. -->
 
 (a) wilfully delays, impedes or obstructs an Inspector;
 
@@ -2002,11 +2600,31 @@ consent of m writing of the Public Prosecutor. secution
 
 (3) The decision of the Minister under this section shall be final and conclusive.
 
-Power of 102. The Minister may, from time to time, give the Minister to Director General or any officer appointed under this Act issue general directions. general directions not inconsistent with the provisions of this Act as to the exercise of the powers and discretion conferred on and the duties required to be discharged by the Director General or officer under this Act.
+<!-- marginal: Power of -->
 
-Power of
+102. The Minister may, from time to time, give the
 
-103. (1) The Minister may exempt any or any part of Minister to a private healthcare facility or service licensed or registered exempt. under this Act from the operation of any of the provisions of this Act—
+<!-- marginal: Minister to -->
+
+Director General or any officer appointed under this Act
+
+<!-- marginal: issue general -->
+
+<!-- marginal: directions. -->
+
+general directions not inconsistent with the provisions of this Act as to the exercise of the powers and discretion conferred on and the duties required to be discharged by the Director General or officer under this Act.
+
+<!-- marginal: Power of -->
+
+103. (1) The Minister may exempt any or any part of
+
+<!-- marginal: Minister to -->
+
+a private healthcare facility or service licensed or registered
+
+<!-- marginal: exempt. -->
+
+under this Act from the operation of any of the provisions of this Act—
 
 (a) subject to such restrictions or conditions as may be stipulated by the Minister, after consulting the Director General; and
 
@@ -2048,7 +2666,7 @@ Fee schedule. 106. (1) The Minister may make regulations prescribing a fee sched
 
 (4) A private healthcare facility or service which fails to comply with any fee schedule prescribed under this section commits an offence.
 
-Power to
+<!-- marginal: Power to -->
 
 107. (1) The Minister may make such regulations as appears to him necessary or expedient for carrying out the provisions of this Act.
 
@@ -2082,7 +2700,9 @@ restrictions to be imposed on the applicant, licensee, holder of the certificate
 
 <!-- page 76 -->
 
-76 Bill
+<!-- marginal: 76 -->
+
+Bill
 
 (k) to prescribe the manner or type of training.or continuing technical, medical, dental or nursing education or any other type of healthcare professional education to be provided by private healthcare facilities or services to their staff or any other person employed or engaged by the private healthcare facilities or services;
 
@@ -2126,15 +2746,13 @@ and Services
 
 <!-- page 78 -->
 
-78 Bill
+<!-- marginal: 78 -->
+
+Bill
 
 (cc) to prescribe the composition and duties and responsibilities of the committees which may be required to be set up by the private healthcare facilities or services;
 
-(dd) to prescribe the duties and functions of locum tenens and honorary consultants,
-
-<!-- marginal: their -->
-
-qualification, training and experience and supervision and to prescribe restrictions on their activities;
+(dd) to prescribe the duties and functions of locum tenens and honorary consultants, their qualification, training and experience and supervision and to prescribe restrictions on their activities;
 
 (ee) to prescribe the types of unforeseeable or unanticipated incidents to be reported, the procedure for reporting, the manner of investigation to be conducted, the report and statistical data to be submitted;
 
@@ -2166,9 +2784,17 @@ and Services
 
 (b) which is contrary to any direction on advertisement issued by the Director General.
 
-National 109. The Director General may establish a National Register. Register relating to blood donation and such register shall contain such particulars as may be prescribed.
+National 109. The Director General may establish a National
 
-service of 110. (1) Every notice or document required or authorized nonce. to be served under this Act may be served—
+<!-- marginal: Register. -->
+
+Register relating to blood donation and such register shall contain such particulars as may be prescribed.
+
+service of 110. (1) Every notice or document required or authorized
+
+<!-- marginal: nonce. -->
+
+to be served under this Act may be served—
 
 (a) by delivering a copy thereof to the person to be served;
 
@@ -2278,9 +2904,35 @@ Confidentiality 115. (1) Every person employed, retained or appointed of infor- 
 
 (2) Any person who contravenes subsection (1) commits an offence and shall be liable on conviction to a fine not exceeding one thousand ringgit.
 
-Private
+<!-- marginal: Private -->
 
-116. (1) The licensee or person in charge of a private psychiatric psychiatric hospital, psychiatric nursing home or hospital, psychiatric community mental health centre shall comply with any nursing home written law relating to mental disorders and mentally and community disordered persons. mental health centre. (2) An application for the establishment of a private psychiatric hospital or a private psychiatric nursing home shall not be considered for approval until a written law allowing for the establishment of such facilities comes into force.
+116. (1) The licensee or person in charge of a private
+
+<!-- marginal: psychiatric -->
+
+psychiatric hospital, psychiatric nursing home or
+
+<!-- marginal: hospital, -->
+
+<!-- marginal: psychiatric -->
+
+community mental health centre shall comply with any
+
+<!-- marginal: nursing home -->
+
+written law relating to mental disorders and mentally
+
+<!-- marginal: and -->
+
+<!-- marginal: community -->
+
+disordered persons.
+
+<!-- marginal: mental health -->
+
+<!-- marginal: centre. -->
+
+(2) An application for the establishment of a private psychiatric hospital or a private psychiatric nursing home shall not be considered for approval until a written law allowing for the establishment of such facilities comes into force.
 
 <!-- page 85 -->
 
@@ -2328,9 +2980,7 @@ Repeal.
 
 119. The Private Hospitals Act 1971 is repealed. Act 43. Saving and
 
-120. (1) All private hospitals, maternity homes and transitional nursing homes licensed or deemed to have been licensed provisions under the Private Hospitals Act 1971 shall, on the date relating to existing of coming into force of this Act, be deemed to have licensed been licensed under this Act. private hospitals,
-
-(2) The provisions of this Act shall apply to such maternity homes and private hospitals, maternity homes and nursing homes nursing as if such private hospitals, maternity homes and nursing homes. homes were licensed under this Act.
+120. (1) All private hospitals, maternity homes and transitional nursing homes licensed or deemed to have been licensed provisions under the Private Hospitals Act 1971 shall, on the date relating to existing of coming into force of this Act, be deemed to have licensed been licensed under this Act. private hospitals, (2) The provisions of this Act shall apply to such maternity homes and private hospitals, maternity homes and nursing homes nursing as if such private hospitals, maternity homes and nursing homes. homes were licensed under this Act.
 
 (3) The Director General may vary or revoke any condition imposed on any private hospital, maternity home and nursing home.
 

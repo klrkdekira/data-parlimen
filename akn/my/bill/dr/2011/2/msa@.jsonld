@@ -1,0 +1,2139 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-2-2011",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_44",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_45",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_46",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_47",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_48",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_49",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_50",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_51",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_52",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_53",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_54"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Penggalakan Pelaburan (Pindaan) 2011"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_1__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_10__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 21C Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (4) dengan subseksyen yang berikut: “(4) Syarikat itu hendaklah menyenggarakan suatu penyata yang menunjukkan amaun pendapatan yang didapati di bawah subseksyen (2) atau (3), mengikut mana-mana yang berkenaan.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (5). Pindaan seksyen 21D"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_11__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 21D Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (5) dengan subseksyen yang berikut: “(5) Syarikat itu hendaklah menyenggarakan suatu penyata yang menunjukkan amaun pendapatan yang didapati di bawah subseksyen (3).”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (6). Pindaan seksyen 21DA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 21DA(2) Akta ibu dipinda dengan menggantikan perkataan “(3), (4) dan (5)” dengan perkataan “(3) dan (4)”. Pindaan seksyen 21E"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_13__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 21E Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (4) dengan subseksyen yang berikut: “(4) Syarikat itu hendaklah menyenggarakan suatu penyata yang menunjukkan amaun pendapatan yang didapati di bawah subseksyen (2) atau (3), mengikut mana-mana yang berkenaan.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (5). Pindaan seksyen 21F"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_14__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_14__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_14__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 21F Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan menggantikan perkataan “atau syarikat yang menyertai dalam program rantaian industri” dengan perkataan “syarikat yang menyertai dalam program rantaian industri, dsb. di bawah subseksyen 6(1) bagi permohonan di bawah subseksyen 5(1D)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “(1) Seksyen ini hendaklah terpakai bagi suatu syarikat berteknologi tinggi atau suatu syarikat yang menyertai dalam suatu aktiviti digalakkan atau mengeluarkan suatu keluaran digalakkan dalam suatu program rantaian industri atau suatu syarikat yang menubuhkan suatu makmal ujian peranti perubatan yang telah diberikan taraf perintis di bawah subseksyen 6(1) bagi suatu permohonan di bawah subseksyen 5(1D).”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_14__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (4) dengan subseksyen yang berikut: “(4) Syarikat itu hendaklah menyenggarakan suatu penyata yang menunjukkan amaun pendapatan yang didapati di bawah subseksyen (2) atau (3), mengikut mana-mana yang berkenaan.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_14__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (5). Pindaan seksyen 21G"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 21G(2) Akta ibu dipinda dengan menggantikan perkataan “subseksyen 21C(2), (3), (4) dan (5)” dengan perkataan “subseksyen 21C(2), (2A), (3) dan (4)”. Pindaan seksyen 21H"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 21H(2) Akta ibu dipinda dengan menggantikan perkataan “(3), (4) dan (5)” dengan perkataan “(3) dan (4)”. Pindaan seksyen 21I"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 21I(2) Akta ibu dipinda dengan menggantikan perkataan “(3), (4) dan (5)” dengan perkataan “(3) dan (4)”. Pindaan seksyen 21J"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_18__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_18__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_18__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 21J Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “(4), (5) dan (6)” dengan perkataan “(4) dan (5)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan menggantikan perkataan “(3), (4) dan (5)” dengan perkataan “(3) dan (4)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_18__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4), dengan menggantikan perkataan “subseksyen 21C(2A), (3), (4) dan (5) dengan perkataan “subseksyen 21C(2), (2A), (3) dan (4)”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_18__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (5), dengan menggantikan perkataan “di bawah subseksyen 21C(2A), dan subseksyen 21C(3), (4) dan (5)” dengan perkataan “syarikat itu bagi tahun taksiran itu, dan subseksyen 21C(2), (2A), (3) dan (4)”. Pindaan seksyen 21K"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_19__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_19__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 21K Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan memotong perkataan “aktiviti digalakkan sedia ada atau keluaran digalakkan yang berhubungan dengan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_19__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “(3), (4) dan (5)” dengan perkataan “(3) dan (4)”. Pindaan seksyen 21L"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Penggalakan Pelaburan (Pindaan) 2011."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 2(a), (b) dan (f), perenggan 3(b), perenggan 14(a) dan (b), dan seksyen 21, 26, 27, 31, 35, 37, 42, 43, 46, 49 dan 50 disifatkan telah mula berkuat kuasa pada 8 September 2007."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 33 disifatkan telah mula berkuat kuasa pada 21 Mei 2003. Pindaan seksyen 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Penggalakan Pelaburan 1986 [Akta 327], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 5—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 21L(2) Akta ibu dipinda dengan menggantikan perkataan “(3), (4) dan (5)” dengan perkataan “(3) dan (4)”. Pemotongan seksyen 21M"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 21M. Pemotongan seksyen 22"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 22. Seksyen baru 22A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 22 seksyen yang berikut: “Syarikat hendaklah menyenggarakan penyata bagi pendapatan yang dihitung semasa tempoh pelepasan cukai 22A. Sesuatu syarikat hendaklah menyenggarakan suatu penyata bagi pendapatan yang dihitung semasa tempoh pelepasan cukai di bawah seksyen 21, 21B, 21BA, 21C, 21D, 21DA, 21E, 21F, 21G, 21H, 21I, 21J, 21K atau 21L.”. Pindaan seksyen 23"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_24__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_24__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_24__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 23 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_24__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan memotong perkataan “, jika Ketua Pengarah berpuas hati dengan catatan dalam akaun terkecuali,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_24__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (5) dengan subseksyen yang berikut: “(5) Syarikat itu hendaklah menyimpan suatu salinan akaun terkecuali sehingga Ketua Pengarah berpuas hati bahawa akaun terkecuali itu tidak lagi perlu disenggarakan.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_24__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (6), dengan memotong perkataan “, setakat mana Ketua Pengarah berpuas hati bahawa dividen yang dibayar sedemikian itu dibayar daripada amaun itu,”. Pindaan seksyen 24"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_25__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_25__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_25__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 24(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_25__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan menggantikan koma di hujung perenggan itu dengan perkataan “; atau”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_25__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (b) perenggan yang berikut: “(c) apa-apa pelarasan lain kepada pendapatan statutori syarikat perintis yang ditentukan di bawah seksyen 21, 21B, 21BA, 21C, 21D, 21DA, 21E, 21F, 21G, 21H, 21I, 21J, 21K atau 21L,”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_25__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “arahan atau pembatalan itu, membuat apa-apa taksiran tambahan ke atas mana- mana orang” dengan perkataan “arahan, pembatalan atau pelarasan, membuat apa-apa taksiran tambahan ke atas mana-mana syarikat”. Pindaan seksyen 25"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_26__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_26__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_26__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 25 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_26__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “21K(2), 21L(2) atau 21M(2)” dengan perkataan “21K(2) atau 21L(2)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_26__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (2)(b), dengan menggantikan perkataan “21K(2), 21L(2) atau 21M(2)” dengan perkataan “21K(2) atau 21L(2)”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_26__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa Inggeris, dalam perenggan (b) proviso kepada subseksyen (4), dengan menggantikan perkataan “date of surrendering of” dengan perkataan “date of surrender of the”. Pindaan seksyen 26F"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_27__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_27__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 26F Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_27__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan menggantikan perkataan “atau syarikat yang menyertai dalam program rantaian industri” dengan perkataan “syarikat yang menyertai dalam program rantaian industri atau syarikat yang menubuhkan atau menaik taraf makmal ujian peranti perubatan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_27__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(2A) Mana-mana syarikat yang bercadang hendak menubuhkan makmal ujian peranti perubatan atau menaik taraf makmal ujian peranti perubatan yang sedia ada di Malaysia boleh membuat permohonan secara bertulis kepada Menteri untuk kelulusan bagi maksud sesuatu elaun cukai pelaburan.”. Pindaan seksyen 26I"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_28__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_28__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_28__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 26I Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_28__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: “(1A) Walau apa pun subseksyen (1), jika permohonan dibuat oleh sesuatu syarikat yang menyertai atau berhasrat hendak menyertai di Malaysia dalam penjanaan tenaga boleh diperbaharui, yang telah ditetapkan sebagai aktiviti digalakkan di bawah Perintah Penggalakan Pelaburan (Aktiviti Digalakkan dan Produk Digalakkan bagi Industri Terpilih) 2008 [P.U. (A) 458/2008], dan syarikat itu dikawal secara langsung atau secara tidak langsung oleh— (a) suatu syarikat perintis atau suatu syarikat yang telah diberikan kelulusan bagi maksud sesuatu elaun cukai pelaburan di bawah seksyen 27I yang menyertai dalam aktiviti digalakkan yang sama seperti syarikat itu; (b) suatu syarikat yang diberikan taraf perintis berhubung dengan aktiviti digalakkan yang sama seperti syarikat itu; atau (c) suatu syarikat selepas perintis atau suatu syarikat yang telah diberikan kelulusan bagi maksud sesuatu elaun cukai pelaburan di bawah seksyen 27I dan tempoh sebagaimana yang ditetapkan di bawah seksyen 29J telah berakhir, permohonan itu hendaklah ditimbangkan oleh Menteri jika permohonan itu diterima dari 8 September 2007 sehingga 31 Disember 2010.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_28__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_28__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_28__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_28__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_28__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_28__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “dalam pengeluaran suatu”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_28__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_28__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “pengeluaran”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_28__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_28__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam proviso, dengan memotong perkataan “pengeluaran”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_28__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4), dengan menggantikan perkataan “subseksyen (1)” dengan perkataan “seksyen ini”. Pindaan seksyen 26J"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_29__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_29__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 26J Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_29__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_29__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_29__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_29__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_29__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_29__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “pengeluaran suatu”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_29__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_29__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “pengeluaran”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_29__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_29__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam proviso, dengan memotong perkataan “pengeluaran”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_29__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4), dengan menggantikan perkataan “subseksyen (1)” dengan perkataan “seksyen ini”. Pindaan seksyen 26K"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (1D)(b) perenggan yang berikut: “(c) Mana-mana syarikat atau orang yang bercadang untuk mendaftarkan suatu syarikat di Malaysia, yang berhasrat hendak menubuhkan suatu makmal ujian peranti perubatan di Malaysia, boleh membuat suatu permohonan bertulis kepada Menteri untuk taraf perintis dengan syarat bahawa permohonan itu diterima dari 8 September 2007 hingga 31 Disember 2012.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1DB)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “menyertai suatu aktiviti digalakkan atau” perkataan “mengeluarkan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah di hujung perenggan itu dengan noktah bertindih;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan proviso yang berikut: “Dengan syarat bahawa jika sesuatu permohonan dibuat oleh suatu syarikat yang menyertai atau berhasrat hendak menyertai dalam penjanaan tenaga boleh diperbaharui di Malaysia, yang telah ditetapkan sebagai aktiviti yang digalakkan di bawah Perintah Penggalakan Pelaburan (Aktiviti Digalakkan dan Keluaran Digalakkan bagi Industri Terpilih) 2008 [P.U. (A) 458/2008], selain untuk kegunaan sendiri, dan syarikat itu dikawal secara langsung atau tidak langsung oleh— (i) suatu syarikat perintis atau suatu syarikat yang telah diberikan kelulusan bagi maksud sesuatu elaun cukai pelaburan di bawah seksyen 27I yang menyertai aktiviti digalakkan yang sama seperti syarikat itu; (ii) suatu syarikat yang diberikan taraf perintis berhubung dengan aktiviti digalakkan yang sama seperti syarikat itu; atau (iii) suatu syarikat selepas perintis atau suatu syarikat yang telah diberikan kelulusan bagi maksud sesuatu elaun cukai pelaburan di bawah seksyen 27 I dan tempoh sebagaimana yang ditetapkan di bawah seksyen 29J telah berakhir, permohonan itu hendaklah dipertimbangkan oleh Menteri jika permohonan itu diterima dari 8 September 2007 sehingga 31 Disember 2010.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1DC), dengan memasukkan selepas perkataan “menyertai suatu aktiviti digalakkan atau” perkataan “mengeluarkan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_d__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (1DD)(a)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “berhubung dengan suatu aktiviti digalakkan atau” perkataan “mengeluarkan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (ii) proviso, dengan memasukkan selepas perkataan “bagi syarikat itu” perkataan “berhubung dengan aktiviti digalakkan itu atau pengeluaran keluaran digalakkan itu”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_e__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_e__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1DE)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_e__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_e",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “suatu aktiviti digalakkan atau suatu keluaran digalakkan yang sedia ada yang berhubungan dengan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_e__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_e",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b) proviso, dengan memasukkan selepas perkataan “seksyen 14” perkataan “, 14A atau 14C”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (1DG);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_g__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_g__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_g__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1E)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_g__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_g",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “, 27L(1) atau seksyen 27O” dengan perkataan “atau 27L(1)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_g__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_g",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “, (1DF) atau (1DG)” dengan perkataan “atau (1DF)”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_g__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_g",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam proviso, dengan menggantikan perkataan “, 27L(1) atau seksyen 27O” dengan perkataan “atau 27L(1)”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “subseksyen (1) atau (1A)” dengan perkataan “seksyen Pindaan seksyen 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 6 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_30__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_30__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_30__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_30__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 26K Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_30__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dalam perenggan (b) proviso, dengan memasukkan selepas perkataan “bagi syarikat itu” perkataan “berhubung dengan suatu aktiviti digalakkan atau keluaran digalakkan itu”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_30__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_30__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_30__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_30__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_30__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_30__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “atau perkhidmatannya”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_30__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_30__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “atau perkhidmatan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_30__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_30__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b) proviso, dengan memasukkan selepas perkataan “bagi syarikat itu” perkataan “berhubung dengan aktiviti digalakkan itu”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_30__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_30__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_30__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_30__para_c__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_30__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_30__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “dalam pengeluaran suatu”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_30__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_30__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “dalam pengeluaran”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_30__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_30__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam proviso, dengan memotong perkataan “dalam pengeluaran”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_30__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (5), dengan menggantikan perkataan “subseksyen (1) dan (2)” dengan perkataan “seksyen ini”. Pindaan seksyen 26L"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_31__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_31__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_31__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_31__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 26L Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_31__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan memotong perkataan “aktiviti digalakkan sedia ada atau keluaran digalakkan yang berhubungan dengan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_31__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan memotong perkataan “suatu aktiviti digalakkan sedia ada atau suatu keluaran digalakkan sedia ada yang berhubungan dengan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_31__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan memotong perkataan “di suatu kawasan digalakkan di bawah seksyen 4C”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_31__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan menggantikan perkataan “subseksyen (1)” dengan perkataan “seksyen ini”. Pemotongan seksyen 26O"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 26O. Pindaan seksyen 27"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_33__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_33__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_33__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 27(1A) Akta ibu dipinda dalam perenggan (a) proviso—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_33__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “melibatkan diri dalam suatu aktiviti” perkataan “atau dalam pengeluaran suatu keluaran”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_33__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “aktiviti” perkataan “atau keluaran”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_33__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa Inggeris, dengan memasukkan selepas perkataan “a promoted activity” perkataan “or promoted product”. Pindaan seksyen 27C"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_34__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_34__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 27C Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_34__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_34",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan proviso dengan proviso yang berikut: “Dengan syarat bahawa— (a) jika Menteri berpuas hati bahawa syarikat itu telah melibatkan diri dalam suatu aktiviti atau telah selainnya melakukan perbelanjaan modal berhubung dengannya, dari suatu tarikh sebelum tarikh yang aktiviti itu telah disifatkan sebagai suatu aktiviti digalakkan di bawah seksyen 4B, kelulusan itu boleh diberikan dengan kuat kuasa ke belakang dari suatu tarikh yang tidak lebih awal daripada tarikh yang syarikat itu telah melibatkan diri dalam aktiviti itu atau perbelanjaan modal itu telah dilakukan berhubung dengannya; dan (b) tiada kelulusan boleh diberikan dengan kuat kuasa ke belakang di bawah subseksyen (1) atau di bawah proviso sebelum ini dari suatu tarikh yang lebih awal daripada tiga tahun dari tarikh permohonan di bawah subseksyen 26C(1) diterima oleh Menteri.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_34__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_34",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan menggantikan perkataan “subseksyen (1) dan (2)” dengan perkataan “seksyen Pindaan seksyen 27E"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_35__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_35__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 27E Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_35__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_35",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan proviso dengan proviso yang berikut: “Dengan syarat bahawa— (a) jika Menteri berpuas hati bahawa syarikat itu telah melibatkan diri dalam suatu aktiviti atau telah selainnya melakukan perbelanjaan modal berhubung dengannya, dari suatu tarikh sebelum tarikh yang aktiviti itu telah disifatkan sebagai suatu aktiviti digalakkan di bawah seksyen 4B, kelulusan itu boleh diberikan dengan kuat kuasa ke belakang dari suatu tarikh yang tidak lebih awal daripada tarikh yang syarikat itu telah melibatkan diri dalam aktiviti itu atau perbelanjaan modal itu telah dilakukan berhubung dengannya; dan (b) tiada kelulusan boleh diberikan dengan kuat kuasa ke belakang di bawah subseksyen (1) atau di bawah proviso sebelum ini dari suatu tarikh yang lebih awal daripada tiga tahun dari tarikh permohonan di bawah subseksyen 26E(1) diterima oleh Menteri.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_35__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_35",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan menggantikan perkataan “subseksyen (1) dan (2)” dengan perkataan “seksyen Pindaan seksyen 27F"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_36__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_36__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_36__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_36__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_36__subsec_1A"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 27F Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_36__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_36",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan memasukkan selepas perkataan “subseksyen 26F(1)” perkataan “atau (2A)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_36__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_36",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan proviso dengan proviso yang berikut: “Dengan syarat bahawa— (a) jika Menteri berpuas hati bahawa syarikat itu telah melibatkan diri dalam suatu aktiviti atau telah selainnya melakukan perbelanjaan modal berhubung dengannya, dari suatu tarikh sebelum tarikh yang aktiviti itu telah disifatkan sebagai suatu aktiviti digalakkan di bawah seksyen 4, kelulusan itu boleh diberikan dengan kuat kuasa ke belakang dari suatu tarikh yang tidak lebih awal daripada tarikh yang syarikat itu telah melibatkan diri dalam aktiviti itu atau perbelanjaan modal itu telah dilakukan berhubung dengannya; dan (b) tiada kelulusan boleh diberikan dengan kuat kuasa ke belakang di bawah subseksyen (1) atau di bawah proviso sebelum ini dari suatu tarikh yang lebih awal daripada tiga tahun dari tarikh permohonan di bawah subseksyen 26F(1) diterima oleh Menteri.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_36__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_36",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: “(1A) Menteri boleh memberikan kelulusan berkenaan dengan suatu permohonan untuk suatu elaun cukai pelaburan yang dibuat di bawah subseksyen 26F(2A) tertakluk kepada apa-apa terma dan syarat yang difikirkannya patut: Dengan syarat bahawa— (a) jika Menteri berpuas hati bahawa syarikat itu telah menubuhkan suatu makmal ujian peranti perubatan atau telah menaik taraf suatu makmal ujian peranti perubatan yang sedia ada, atau telah selainnya melakukan perbelanjaan modal berhubung dengannya, kelulusan itu boleh diberikan dengan kuat kuasa ke belakang dari tarikh yang tidak lebih awal daripada 8 September 2007; dan (b) tiada kelulusan boleh diberikan dengan kuat kuasa ke belakang di bawah subseksyen (1A) atau di bawah proviso sebelum ini dari suatu tarikh yang lebih awal daripada tiga tahun dari tarikh permohonan di bawah subseksyen 26F(2A) diterima oleh Menteri.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_36__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_36",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “subseksyen (1)” dengan perkataan “subseksyen (1) dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_36__subsec_1A",
+      "@type": "akn:subsection",
+      "eli:number": "1A",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_36__subsec_1A__para_e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_36",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_36__subsec_1A__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_36__subsec_1A",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan menggantikan perkataan “subseksyen (1) dan (2)” dengan perkataan “seksyen ini”. Pindaan seksyen 27G"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_37__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_37__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 27G Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_37__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_37",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan proviso dengan proviso yang berikut: “Dengan syarat bahawa— (a) jika Menteri berpuas hati bahawa syarikat itu telah melibatkan diri dalam suatu aktiviti atau telah selainnya melakukan perbelanjaan modal berhubung dengannya, dari suatu tarikh sebelum tarikh yang aktiviti itu telah disifatkan sebagai suatu aktiviti digalakkan di bawah seksyen 4B, kelulusan itu boleh diberikan dengan kuat kuasa ke belakang dari suatu tarikh yang tidak lebih awal daripada tarikh yang syarikat itu telah melibatkan diri dalam aktiviti itu atau perbelanjaan modal itu dilakukan berhubung dengannya; dan (b) tiada kelulusan boleh diberikan dengan kuat kuasa ke belakang di bawah subseksyen (1) atau di bawah proviso sebelum ini dari suatu tarikh yang lebih awal daripada tiga tahun dari tarikh permohonan di bawah subseksyen 26G(1) diterima oleh Menteri.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_37__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_37",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4), dengan menggantikan perkataan “subseksyen (1), (2) dan (3)” dengan perkataan “seksyen ini”. Pindaan seksyen 27I"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_38__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_38__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 27I Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_38__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_38",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dalam perenggan (a) proviso, dengan memasukkan selepas perkataan “melibatkan diri dalam suatu aktiviti” perkataan “atau dalam pengeluaran suatu keluaran digalakkan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_38__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_38",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan menggantikan perkataan “subseksyen (1) dan (2)” dengan perkataan “seksyen ini”. Pindaan seksyen 27J"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_39__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_39__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 27J Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_39__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_39",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dalam perenggan (a) proviso, dengan memasukkan selepas perkataan “melibatkan diri dalam suatu aktiviti” perkataan “atau dalam pengeluaran suatu keluaran digalakkan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_39__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_39",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan menggantikan perkataan “subseksyen (1) dan (2)” dengan perkataan “seksyen ini”. Pindaan seksyen 27K"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1AH), dengan memotong perkataan “suatu aktiviti digalakkan atau suatu keluaran digalakkan yang sedia ada yang berhubungan dengan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (1AJ); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (3)(a), dengan menggantikan perkataan “, (1AI) atau (1AJ)” dengan perkataan “atau (1AI)”. Pindaan seksyen 9A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subperenggan 9A(3)(b)(ii) Akta ibu dipinda dengan memasukkan selepas perkataan “tahun taksiran yang permohonan” perkataan “bagi”. Pindaan seksyen 18"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_40__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_40__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 27K Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_40__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_40",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dalam proviso, dengan memasukkan selepas perkataan “melibatkan diri dalam suatu aktiviti” perkataan “atau dalam pengeluaran suatu keluaran digalakkan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_40__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_40",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4), dengan menggantikan perkataan “subseksyen (1), (2) dan (3)” dengan perkataan “seksyen ini”. Pindaan seksyen 27L"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_41__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_41__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 27L Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_41__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_41",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perenggan (a) proviso dengan perenggan yang berikut: “(a) kelulusan boleh diberikan dengan kuat kuasa ke belakang dari suatu tarikh yang tidak lebih awal daripada 11 September 2004; dan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_41__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_41",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan menggantikan perkataan “subseksyen (1) dan (2)” dengan perkataan “seksyen ini’. Pindaan seksyen 27M"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 27M(1) Akta ibu dipinda dalam perenggan (a) proviso dengan memasukkan selepas perkataan “melibatkan diri dalam suatu aktiviti” perkataan “atau dalam pengeluaran suatu keluaran digalakkan”. Pindaan seksyen 27N"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_43__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_43__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 27N Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_43__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_43__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_43__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_43__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_43",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dalam perenggan (a) proviso—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_43__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_43__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “berhubung dengannya,” perkataan “dari suatu tarikh sebelum tarikh aktiviti itu disifatkan sebagai suatu aktiviti digalakkan,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_43__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_43__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “dan” di hujung perenggan itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_43__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_43__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (a) perenggan yang berikut: “(aa) jika suatu permohonan diterima dari 8 September 2007 sehingga 31 Disember 2010 dan Menteri berpuas hati bahawa syarikat itu telah melibatkan diri dalam suatu aktiviti atau telah selainnya melakukan perbelanjaan modal berhubung dengannya, kelulusan itu boleh diberikan dengan kuat kuasa ke belakang dari tarikh permohonan itu diterima tetapi tidak lebih awal daripada 8 September 2007; dan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_43__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_43",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan menggantikan perkataan “subseksyen (1) dan (2)” dengan perkataan “seksyen ini”. Pemotongan seksyen 27O"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 27O. Pindaan seksyen 28"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_45",
+      "@type": "akn:clause",
+      "eli:number": "45",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_45__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_45__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 28 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_45__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_45__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_45__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_45__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_45",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_45__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_45__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “27M, 27N atau 27O” dengan perkataan “27M atau 27N”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_45__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_45__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “27F(1),” perkataan “(1A),”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_45__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_45__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “, 27O(1), (2)”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_45__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_45__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_45__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_45__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_45",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_45__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_45__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “27F(1),” perkataan “(1A),”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_45__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_45__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “27M(1), 27N(1) atau 27O(1)” dengan perkataan “27M(1) atau 27N(1); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_45__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_45__para_b__subpara_iii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_45__para_b__subpara_iii__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_45__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_45__para_b__subpara_iii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_45__para_b__subpara_iii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “27F(1),” perkataan “(1A),”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_45__para_b__subpara_iii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_45__para_b__subpara_iii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “, 27O(1), (2)”. Pindaan seksyen 29C"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_46",
+      "@type": "akn:clause",
+      "eli:number": "46",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 29C(1A) Akta ibu dipinda dalam teks bahasa Inggeris dengan memasukkan selepas perkataan “promoted activity or” perkataan “promoted”. Pindaan seksyen 29L"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_47",
+      "@type": "akn:clause",
+      "eli:number": "47",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 29L(4) Akta ibu dipinda dalam teks bahasa Inggeris dengan memasukkan selepas perkataan “investment tax allowance of” perkataan “one”. Pindaan seksyen 29M"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_48",
+      "@type": "akn:clause",
+      "eli:number": "48",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_48__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_48__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 29M Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_48__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_48",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (2) dengan subseksyen yang berikut: “(2) Jika suatu syarikat yang telah diberikan kelulusan di bawah seksyen 27L telah melakukan, dalam tempoh asas bagi suatu tahun taksiran berkenaan dengan suatu aktiviti pembuatan, perbelanjaan modal bagi maksud menempatkan semula aktiviti pembuatan itu, syarikat itu hendaklah diberikan bagi tahun taksiran itu elaun cukai pelaburan sebanyak seratus peratus daripada perbelanjaan itu.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_48__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_48",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dalam subperenggan (b)(i) proviso, dengan menggantikan perkataan “aktiviti digalakkan atau keluaran digalakkan” dengan perkataan “aktiviti pembuatan”. Pindaan seksyen 29O"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_49",
+      "@type": "akn:clause",
+      "eli:number": "49",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_49__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_49__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_49__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_49__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 29O Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_49__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_49",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(2A) Walau apa pun subseksyen (2), bagi suatu permohonan yang diterima dari 8 September 2007 sehingga 31 Disember 2010, syarikat itu hendaklah diberikan bagi tahun taksiran itu elaun cukai pelaburan sebanyak seratus peratus daripada perbelanjaan itu.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_49__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_49",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (3) dengan subseksyen yang berikut: “(3) Suatu elaun bagi perbelanjaan yang diberikan di bawah subseksyen (2) atau (2A)— (a) hendaklah diberikan hanya dalam tahun asas bagi tahun taksiran itu yang baginya perbelanjaan itu dilakukan; dan (b) hendaklah diberikan berkenaan dengan perbelanjaan yang dilakukan dalam tempoh lima tahun dari tarikh yang kelulusan itu hendaklah mula berkuat kuasa: Dengan syarat bahawa jika suatu syarikat melakukan perbelanjaan modal dari tarikh yang kelulusan itu hendaklah mula berkuat kuasa yang disebut dalam perenggan (b) berhubung dengan suatu perniagaan yang akan dijalankan olehnya berkenaan dengan suatu aktiviti digalakkan, perbelanjaan itu hendaklah disifatkan telah dilakukan dalam tempoh asas yang dalamnya syarikat itu mula menjalankan perniagaan itu dan jika syarikat itu melakukan perbelanjaan modal— (i) sebelum permohonannya di bawah seksyen 26N dan kelulusan di bawah perenggan (a) proviso kepada subseksyen 27N(1), elaun itu diberikan dengan kuat kuasa ke belakang dari suatu tarikh yang tidak lebih awal daripada 1 Oktober 2005; atau (ii) sebelum permohonannya di bawah seksyen 26N dan kelulusan di bawah perenggan (aa) proviso kepada subseksyen 27N(1), elaun itu diberikan dengan kuat kuasa ke belakang dari suatu tarikh yang tidak lebih awal daripada 8 September 2007.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_49__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_49",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (6) dengan subseksyen yang berikut: “(6) Bagi maksud subseksyen (2) dan subperenggan (3)(b)(i) proviso, subseksyen 29A(5), (6) dan (7) hendaklah terpakai mutatis mutandis.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_49__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_49",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (6) subseksyen yang berikut: “(7) Bagi maksud subseksyen (2A) dan subperenggan (3)(b)(ii) proviso, subseksyen 29AA(4), (5) dan (6) hendaklah terpakai mutatis mutandis.”. Pemotongan seksyen 29P"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 18(7) Akta ibu dipinda dalam proviso dengan menggantikan perkataan “tempoh perintis” dengan perkataan “tempoh pelepasan cukai”. Pindaan seksyen 21"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_50",
+      "@type": "akn:clause",
+      "eli:number": "50",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 29P. Pindaan seksyen 30A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_51",
+      "@type": "akn:clause",
+      "eli:number": "51",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 30A(2) Akta ibu dipinda dengan menggantikan perkataan “29N(4), 29O(4) dan 29P(5)” dengan perkataan “29N(4) dan 29O(4)”. Pindaan seksyen 41B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_52",
+      "@type": "akn:clause",
+      "eli:number": "52",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 41B(1)(b) Akta ibu dipinda dengan menggantikan perkataan “29N(4), 29O(4) atau 29P(5)” dengan perkataan “29N(4) atau 29O(4)”. Pindaan seksyen 43A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_53",
+      "@type": "akn:clause",
+      "eli:number": "53",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_53__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_53__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 43A Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_53__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_53__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_53__list_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_53"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_53__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_53__list_1__para_a__subpara_ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_53__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)— (i) dengan menggantikan perkataan “27M, 27N atau 27O” dengan perkataan “27M atau 27N”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_53__list_1__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_53__list_1__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “29N(3)(b), 29O(3)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_53__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_53__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "atau 29P(3)(b)” dengan perkataan “29N(3)(b) atau 29O(3)(b)”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_53__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_53__list_2__para_b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_53"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_53__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_53__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan menggantikan perkataan “27M, 27N atau 27O” dengan perkataan “27M atau 27N”. Kecualian dan peralihan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_54",
+      "@type": "akn:clause",
+      "eli:number": "54",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun pemotongan subseksyen 5(1DG) dan 6(1AJ), seksyen 21M, 26O, 27O dan 29P Akta ibu, peruntukan itu hendaklah kekal berkuat kuasa dan terus terpakai bagi mana-mana syarikat untuk semua maksud dan semua aspek berhubung dengan apa-apa permohonan yang diluluskan di bawah seksyen itu sebelum Akta ini mula berkuat kuasa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 21 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (3) dengan subseksyen yang berikut: “(3) Jika sesuatu amaun didapati di bawah subseksyen (1) atau di bawah subseksyen (1) dan (2), mengikut mana-mana yang berkenaan, atau jika amaun itu dikurangkan oleh kerugian larasan daripada perniagaan perintis syarikat itu menurut subseksyen 25(2), syarikat itu hendaklah menyenggarakan suatu penyata yang menunjukkan amaun yang berkenaan atau amaun yang dikurangkan yang berkenaan itu, mengikut mana-mana yang berkenaan.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (4). Pindaan seksyen 21A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 21 A Akta ibu dipinda dengan menggantikan subseksyen (4) dengan subseksyen yang berikut: “(4) Walau apa pun peruntukan lain Bab ini, jika dalam suatu tahun taksiran, terdapat pelarasan kepada kerugian yang disebut dalam subseksyen (1) dan (2) bagi mana-mana tahun taksiran yang mengakibatkan pengurangan atau pertambahan kerugian itu, tertakluk kepada subseksyen 91(4) Akta ibu, Ketua Pengarah boleh dalam tahun taksiran yang mula-mula disebut atau dalam tempoh enam tahun selepas tamatnya tahun taksiran itu membuat— (a) pelarasan kepada pendapatan statutori syarikat perintis yang ditentukan di bawah seksyen 21 bagi tahun taksiran itu; atau (b) pentaksiran bagi tahun taksiran itu sebagaimana yang didapatinya perlu untuk menindak balas apa-apa faedah pengecualian yang diperoleh sebelum pelarasan kerugian itu.”. Pindaan seksyen 21B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_8__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 21B Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (5) dengan subseksyen yang berikut: “(5) Syarikat itu hendaklah menyenggarakan suatu penyata yang menunjukkan amaun pendapatan yang didapati di bawah subseksyen (3).”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (6). Pindaan seksyen 21BA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 21BA(2) Akta ibu dipinda dengan menggantikan perkataan “(3), (4) dan (5)” dengan perkataan “(3) dan (4)”. Pindaan seksyen 21C"
+      }
+    }
+  ]
+}

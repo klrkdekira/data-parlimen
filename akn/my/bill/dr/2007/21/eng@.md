@@ -20,23 +20,67 @@
 
 ## LEGAL RECOGNITION OF ELECTRONIC MESSAGE
 
-10. Legal recognition of electronic message 11. Formation and validity of contract
+10. Legal recognition of electronic message
+
+11. Formation and validity of contract
 
 ## PART IV
 
 ## FULFILMENT OF LEGAL REQUIREMENTS BY ELECTRONIC MEANS
 
-12. Writing 13. Signature 14. Seal
+12. Writing
+
+13. Signature
+
+14. Seal
 
 <!-- page 2 -->
 
-15. Witness 16. Original 17. Certified true copy 18. Copy 19. Submission of a document 20. Prescribed form 21. Requirement to issue licence, permit, approval, authorization, etc. 22. Retention of document 23. Electronic register 24. Service and delivery 25. Personal service 26. Payment 27. Receipt
+15. Witness
+
+16. Original
+
+17. Certified true copy
+
+18. Copy
+
+19. Submission of a document
+
+20. Prescribed form
+
+21. Requirement to issue licence, permit, approval, authorization, etc.
+
+22. Retention of document
+
+23. Electronic register
+
+24. Service and delivery
+
+25. Personal service
+
+26. Payment
+
+27. Receipt
 
 ## PART V
 
 ## COMMUNICATION OF ELECTRONIC MESSAGE
 
-28. Attribution of electronic message 29. Contents of electronic message 30. Each electronic message to be regarded separately 31. Time of dispatch 32. Time of receipt 33. Place of dispatch 34. Place of receipt 35. Acknowledgement of receipt
+28. Attribution of electronic message
+
+29. Contents of electronic message
+
+30. Each electronic message to be regarded separately
+
+31. Time of dispatch
+
+32. Time of receipt
+
+33. Place of dispatch
+
+34. Place of receipt
+
+35. Acknowledgement of receipt
 
 ## PART VI
 

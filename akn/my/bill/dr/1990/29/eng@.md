@@ -112,9 +112,7 @@ Minister may, by notification in the Gazette, appoint.
 
 defined in the Companies Act 1965;
 
-"carry on business", in relation to a trust company, means carrying on any economic activity as a trustee, agent, executor or administrator pursuant to the objects of the trust company and, without limiting the generality of the foregoing, includes—
-
-(a) establishing or using a share transfer office or share registration office;
+"carry on business", in relation to a trust company, means carrying on any economic activity as a trustee, agent, executor or administrator pursuant to the objects of the trust company and, without limiting the generality of the foregoing, includes— (a) establishing or using a share transfer office or share registration office;
 
 (b) administering, managing or otherwise dealing with property as an agent, legal personal repre- sentative or trustee, whether by servant or agent or otherwise;
 
@@ -128,7 +126,11 @@ defined in the Companies Act 1965;
 
 (ii) directors, secretaries and registered offices for,
 
-offshore companies incorporated under the Act Offshore Companies Act 1990 and foreign off- shore companies registered under that Act; and
+offshore companies incorporated under the
+
+<!-- marginal: Act -->
+
+Offshore Companies Act 1990 and foreign off- shore companies registered under that Act; and
 
 (f) incorporating or registering companies under the Offshore Companies Act 1990 and generally acting as a lodging agent for any document required to be lodged by a company or person under that Act;
 
@@ -224,19 +226,43 @@ company under that Act may apply in the prescribed form and on payment of the pr
 
 (b) two of its officers as authorized agents of the trust company in Labuan,
 
-Terms and
+<!-- marginal: Terms and -->
 
-5. (1) The Registrar may approve the application for conditions registration as a trust company subject to such terms and of registra- tion conditions (if any) as he may deem fit.
+5. (1) The Registrar may approve the application for
+
+<!-- marginal: conditions -->
+
+registration as a trust company subject to such terms and
+
+<!-- marginal: of registra- -->
+
+<!-- marginal: tion -->
+
+conditions (if any) as he may deem fit.
 
 (2) Upon registration, every trust company shall pay to the Registrar such initial and annual registration fees as may be prescribed.
 
-Act 100-
+<!-- marginal: Act 100- -->
 
 (3) The provisions of the Trust Companies Act 1949 shall not apply to a company registered as a trust company under this Act.
 
-Additional
+<!-- marginal: Additional -->
 
-6. (1) A company incorporated outside Malaysia and require- registered as a trust company under this Act shall maintain ments for trust such minimum level of capital and reserves in Labuan as companies. may be prescribed.
+6. (1) A company incorporated outside Malaysia and
+
+<!-- marginal: require- -->
+
+registered as a trust company under this Act shall maintain
+
+<!-- marginal: ments -->
+
+<!-- marginal: for trust -->
+
+such minimum level of capital and reserves in Labuan as
+
+<!-- marginal: companies. -->
+
+may be prescribed.
 
 (2) Every trust company to which subsection (3) of section 4 applies shall, within seven days, lodge a notice
 
@@ -304,7 +330,15 @@ Penalty: Three thousand ringgit.
 
 Penalty: Three thousand ringgit,
 
-Cancellation 10. (1) If the Registrar is satisfied that any trust of registra- company— tion.
+<!-- marginal: Cancellation -->
+
+10. (1) If the Registrar is satisfied that any trust
+
+<!-- marginal: of registra- -->
+
+company—
+
+<!-- marginal: tion. -->
 
 (a) has contravened or failed to comply with any term or condition of its registration;
 
@@ -386,13 +420,37 @@ person may—
 
 (2) Where administration of any estate (whether with or without the will annexed) is granted to a trust company either alone or jointly with any other person, the trust company may do and discharge all acts and duties which belong to the office of an administrator or joint administrator, as the case may be, notwithstanding its incorporation.
 
-Additional
+<!-- marginal: Additional -->
 
-14. A trust company may be appointed as agent or trustee powers of under any settlement or other instrument creating a trust, a trust company. or to perform any trust or duty which it is authorized, by this Act or by its memorandum or articles of association or by any instrument whereunder the trust company was incorporated, to undertake, and may be so appointed, whether the settlement or instrument creating the trust or imposing the duty was made or came into operation before or after the commencement of this Act, and whether as an original trustee, a new trustee or an additional trustee, and may do and discharge all the acts and duties of a trustee as fully and effectively as any other trustee.
+14. A trust company may be appointed as agent or trustee
 
-Trust
+<!-- marginal: powers of -->
 
-15. (1) A trust company may be appointed or continue to company's act as sole trustee notwithstanding that it is provided by power to act as sole the terms of the instrument creating the trust or any power trustee. or otherwise that there shall be more than one trustee to perform the trust.
+under any settlement or other instrument creating a trust,
+
+<!-- marginal: a trust -->
+
+<!-- marginal: company. -->
+
+or to perform any trust or duty which it is authorized, by this Act or by its memorandum or articles of association or by any instrument whereunder the trust company was incorporated, to undertake, and may be so appointed, whether the settlement or instrument creating the trust or imposing the duty was made or came into operation before or after the commencement of this Act, and whether as an original trustee, a new trustee or an additional trustee, and may do and discharge all the acts and duties of a trustee as fully and effectively as any other trustee.
+
+<!-- marginal: Trust -->
+
+15. (1) A trust company may be appointed or continue to
+
+<!-- marginal: company's -->
+
+act as sole trustee notwithstanding that it is provided by
+
+<!-- marginal: power to act -->
+
+<!-- marginal: as sole -->
+
+the terms of the instrument creating the trust or any power
+
+<!-- marginal: trustee. -->
+
+or otherwise that there shall be more than one trustee to perform the trust.
 
 (2) A trust company shall not be appointed or be entitled to act as sole trustee in any case in which the instrument creating the trust or power expressly—
 
@@ -484,9 +542,23 @@ authorized to make any affidavit, declaration or statement, it may do so by any 
 
 <!-- page 12 -->
 
-Examination 20. (1) Any person who— of books and accounts of
+<!-- marginal: Examination -->
 
-(a) satisfies the Court that he has an interest under a trust any trust which is for the time being under the company. control or management of a trust company; and
+20. (1) Any person who—
+
+<!-- marginal: of books and -->
+
+<!-- marginal: accounts of -->
+
+(a) satisfies the Court that he has an interest under
+
+<!-- marginal: a trust -->
+
+any trust which is for the time being under the
+
+<!-- marginal: company. -->
+
+control or management of a trust company; and
 
 (b) objects to an act or decision of the trust company on the basis that there was some irregularity or impropriety by the trust company in doing that act or making that decision,
 
@@ -496,15 +568,47 @@ may apply to the Court to have such entries in the books and accounts of the tru
 
 (3) Where it is established by the findings of the auditor that there has been an irregularity or impropriety by the trust company, the Court may make such order as it thinks fit.
 
-Money paid 21. (1) Any money or other valuable consideration paid to a trust or given to a trust company pursuant to any instrument company to be held in creating a trust shall be held by the trust company, trust. separate from its own money and other valuable con- sideration, in trust for the purposes for which it was paid or given and the trust company shall account for it separately.
+<!-- marginal: Money paid -->
+
+21. (1) Any money or other valuable consideration paid
+
+<!-- marginal: to a trust -->
+
+or given to a trust company pursuant to any instrument
+
+<!-- marginal: company to -->
+
+<!-- marginal: be held in -->
+
+creating a trust shall be held by the trust company,
+
+<!-- marginal: trust. -->
+
+separate from its own money and other valuable con- sideration, in trust for the purposes for which it was paid or given and the trust company shall account for it separately.
 
 (2) A trust company which fails to comply with the requirement of subsection (1) and every officer of that trust company who is in default shall be guilty of an offence against this Act.
 
 Penalty: Thirty thousand ringgit or five years imprisonment or both.
 
-Commission, 22. (1) A trust company shall be entitled— fees, charges and expenses
+<!-- marginal: Commission, -->
 
-(a) where it holds an estate on behalf of any person, levied by a to receive out of the estate a commission, in trust company. addition to all moneys properly expended by the
+22. (1) A trust company shall be entitled—
+
+<!-- marginal: fees, charges -->
+
+<!-- marginal: and expenses -->
+
+(a) where it holds an estate on behalf of any person,
+
+<!-- marginal: levied by a -->
+
+to receive out of the estate a commission, in
+
+<!-- marginal: trust -->
+
+<!-- marginal: company. -->
+
+addition to all moneys properly expended by the
 
 <!-- page 13 -->
 
@@ -534,9 +638,17 @@ functions under this Act, no person shall, unless specifically so authorized by 
 
 Penalty: Thirty thousand ringgit or five years impri- sonment or both.
 
-Compoun-
+<!-- marginal: Compoun- -->
 
-24. (1) The Registrar may, in a case where he deems ding of it fit and proper to do so, compound any offence committed offences by any person under this Act, by making a written offer to such person to compound the offence by paying to the Registrar within such time as may be specified in the offer such sum of money as may be specified in the offer which shall not exceed fifty per cent of the amount of the maximum fine to which that person would have been liable if he had been convicted of the offence.
+24. (1) The Registrar may, in a case where he deems
+
+<!-- marginal: ding of -->
+
+it fit and proper to do so, compound any offence committed
+
+<!-- marginal: offences -->
+
+by any person under this Act, by making a written offer to such person to compound the offence by paying to the Registrar within such time as may be specified in the offer such sum of money as may be specified in the offer which shall not exceed fifty per cent of the amount of the maximum fine to which that person would have been liable if he had been convicted of the offence.
 
 (2) An offer under subsection (1) may be made at any time after the offence has been committed, but before any prosecution for it has been instituted, and where the amount specified in the offer is not paid within the time specified in the offer, or during such extended period as the Registrar may grant, prosecution for the offence may be instituted at any time thereafter against the person to whom the offer was made.
 

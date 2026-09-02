@@ -6,13 +6,13 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Pemakaian 3. Tidak boleh berkontrak keluar dan penyingkiran pilihan undang-undang 4. Tafsiran 5. Pengguna kredit dan kredit
 
-## Bahagian II
+## BAHAGIAN II
 
 ## SURUHANJAYA KREDIT PENGGUNA
 
@@ -20,7 +20,21 @@ Penggal 1
 
 Penubuhan, fungsi dan kuasa Suruhanjaya
 
-6. Penubuhan Suruhanjaya 7. Fungsi Suruhanjaya 8. Kuasa Suruhanjaya 9. Lembaga 10. Pelantikan anggota Lembaga 11. Tempoh jawatan 12. Pembatalan pelantikan dan peletakan jawatan 13. Saraan dan elaun 14. Mesyuarat Lembaga 15. Tindakan dan prosiding Lembaga tidak terjejas oleh kekosongan, dsb. 16. Perwakilan fungsi dan kuasa, dsb.
+6. Penubuhan Suruhanjaya 7. Fungsi Suruhanjaya 8. Kuasa Suruhanjaya 9. Lembaga
+
+10. Pelantikan anggota Lembaga
+
+11. Tempoh jawatan
+
+12. Pembatalan pelantikan dan peletakan jawatan
+
+13. Saraan dan elaun
+
+14. Mesyuarat Lembaga
+
+15. Tindakan dan prosiding Lembaga tidak terjejas oleh kekosongan, dsb.
+
+16. Perwakilan fungsi dan kuasa, dsb.
 
 <!-- page 2 -->
 
@@ -70,7 +84,7 @@ Kewangan
 
 33. Suruhanjaya boleh menubuhkan atau menyertai pertubuhan perbadanan
 
-## Bahagian III
+## BAHAGIAN III
 
 ## FUNGSI DAN KUASA PIHAK BERKUASA PENGAWALSELIAAN
 
@@ -82,13 +96,19 @@ Kewangan
 
 <!-- page 3 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## JAWATANKUASA PENASIHAT
 
-36. Penubuhan Jawatankuasa Penasihat 37. Keanggotaan 38. Fungsi Jawatankuasa Penasihat 39. Mesyuarat Jawatankuasa Penasihat
+36. Penubuhan Jawatankuasa Penasihat
 
-## Bahagian V
+37. Keanggotaan
+
+38. Fungsi Jawatankuasa Penasihat
+
+39. Mesyuarat Jawatankuasa Penasihat
+
+## BAHAGIAN V
 
 ## PELESENAN DAN PENDAFTARAN
 
@@ -96,7 +116,39 @@ Penggal 1
 
 Pelesenan
 
-40. Kehendak untuk lesen 41. Permohonan untuk lesen 42. Pemberian lesen 43. Alasan bagi penolakan lesen 44. Kehendak kewangan minimum bagi pelesenan 45. Kehendak layak dan sesuai pemberi kredit berlesen 46. Pengarah dan pengurusan kanan pemberi kredit berlesen 47. Pengawal pemberi kredit berlesen 48. Pemerolehan kepentingan dalam syer pemberi kredit berlesen 49. Pelantikan juruaudit oleh pemberi kredit berlesen 50. Pembatalan atau penggantungan lesen 51. Penyerahan balik lesen secara sukarela 52. Kesan pembatalan, penggantungan dan penyerahan balik lesen 53. Fi yang kena dibayar oleh pemberi kredit berlesen 54. Penubuhan, penempatan semula atau penutupan cawangan, dsb., pemberi kredit berlesen 55. Pemindahan atau penyerahhakan lesen 56. Jualan, pelupusan, pajakan, dsb., perniagaan kredit
+40. Kehendak untuk lesen
+
+41. Permohonan untuk lesen
+
+42. Pemberian lesen
+
+43. Alasan bagi penolakan lesen
+
+44. Kehendak kewangan minimum bagi pelesenan
+
+45. Kehendak layak dan sesuai pemberi kredit berlesen
+
+46. Pengarah dan pengurusan kanan pemberi kredit berlesen
+
+47. Pengawal pemberi kredit berlesen
+
+48. Pemerolehan kepentingan dalam syer pemberi kredit berlesen
+
+49. Pelantikan juruaudit oleh pemberi kredit berlesen
+
+50. Pembatalan atau penggantungan lesen
+
+51. Penyerahan balik lesen secara sukarela
+
+52. Kesan pembatalan, penggantungan dan penyerahan balik lesen
+
+53. Fi yang kena dibayar oleh pemberi kredit berlesen
+
+54. Penubuhan, penempatan semula atau penutupan cawangan, dsb., pemberi kredit berlesen
+
+55. Pemindahan atau penyerahhakan lesen
+
+56. Jualan, pelupusan, pajakan, dsb., perniagaan kredit
 
 <!-- page 4 -->
 
@@ -156,13 +208,19 @@ Perkara am
 
 <!-- page 5 -->
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PERNIAGAAN KREDIT ISLAM
 
-80. Pemakaian 81. Kewajipan untuk memastikan pematuhan Shariah 82. Dasar dan tatacara dalaman mengenai perniagaan kredit Islam 83. Rujukan kepada Majlis Penasihat Shariah daripada mahkamah atau penimbang tara
+80. Pemakaian
 
-## Bahagian VII
+81. Kewajipan untuk memastikan pematuhan Shariah
+
+82. Dasar dan tatacara dalaman mengenai perniagaan kredit Islam
+
+83. Rujukan kepada Majlis Penasihat Shariah daripada mahkamah atau penimbang tara
+
+## BAHAGIAN VII
 
 ## PELAKUAN PERNIAGAAN BAGI PERLINDUNGAN PENGGUNA KREDIT
 
@@ -170,7 +228,11 @@ Penggal 1
 
 Kehendak pelakuan
 
-84. Kewajipan untuk memastikan pelakuan perniagaan yang adil, bertanggungjawab dan profesional 85. Pematuhan dengan peraturan-peraturan dan standard atau garis panduan mengenai pelakuan perniagaan 86. Kesusahan kewangan
+84. Kewajipan untuk memastikan pelakuan perniagaan yang adil, bertanggungjawab dan profesional
+
+85. Pematuhan dengan peraturan-peraturan dan standard atau garis panduan mengenai pelakuan perniagaan
+
+86. Kesusahan kewangan
 
 Penggal 2
 
@@ -178,7 +240,7 @@ Pelakuan perniagaan dilarang
 
 87. Pelakuan perniagaan dilarang
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## PEMERIKSAAN DAN PENYIASATAN
 
@@ -186,7 +248,9 @@ Penggal 1
 
 Kuasa pemeriksaan
 
-88. Pemeriksaan oleh Pihak Berkuasa Pengawalseliaan dan Penyeliaan 89. Kewajipan untuk memberi akses kepada, dan mengemukakan dokumen, maklumat, dsb.
+88. Pemeriksaan oleh Pihak Berkuasa Pengawalseliaan dan Penyeliaan
+
+89. Kewajipan untuk memberi akses kepada, dan mengemukakan dokumen, maklumat, dsb.
 
 <!-- page 6 -->
 
@@ -226,7 +290,7 @@ Kuasa penyiasatan
 
 105. Bantuan kepada pegawai polis atau pegawai awam
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## PENGUATKUASAAN
 
@@ -248,13 +312,29 @@ Tindakan penguatkuasaan sivil
 
 <!-- page 7 -->
 
-110. Perintah oleh mahkamah 111. Keterangan yang diperoleh dalam penyiasatan boleh digunakan dalam prosiding sivil
+110. Perintah oleh mahkamah
+
+111. Keterangan yang diperoleh dalam penyiasatan boleh digunakan dalam prosiding sivil
 
 Penggal 3
 
 Kesalahan jenayah
 
-112. Kesalahan berhubung dengan catatan dalam dokumen 113. Kesalahan oleh mana-mana orang yang bertindak dalam keupayaan rasmi, dsb. 114. Kesalahan oleh pekerja, pegawai, ejen, dsb. 115. Percubaan, persubahatan dan pakatan 116. Pencantuman kesalahan 117. Kesalahan boleh tangkap 118. Kuasa untuk mengkompaun 119. Permulaan pendakwaan
+112. Kesalahan berhubung dengan catatan dalam dokumen
+
+113. Kesalahan oleh mana-mana orang yang bertindak dalam keupayaan rasmi, dsb.
+
+114. Kesalahan oleh pekerja, pegawai, ejen, dsb.
+
+115. Percubaan, persubahatan dan pakatan
+
+116. Pencantuman kesalahan
+
+117. Kesalahan boleh tangkap
+
+118. Kuasa untuk mengkompaun
+
+119. Permulaan pendakwaan
 
 Penggal 4
 
@@ -262,11 +342,25 @@ Perkara am
 
 120. Perlindungan berhubung dengan pendedahan maklumat
 
-## Bahagian X
+## BAHAGIAN X
 
 ## PERUNTUKAN AM
 
-121. Kuasa tambahan Menteri 122. Kuasa untuk membuat peraturan-peraturan 123. Kuasa untuk menentukan standard atau garis panduan 124. Peruntukan yang berhubungan dengan kelulusan, keizinan, standard atau garis panduan, penentuan, notis, kehendak atau arahan 125. Kuasa Pihak Berkuasa Pengawalseliaan dan Penyeliaan untuk mengeluarkan panduan 126. Kuasa Pihak Berkuasa Pengawalseliaan dan Penyeliaan untuk menyiarkan maklumat 127. Kuasa untuk mengecualikan 128. Kuasa untuk meminda Jadual
+121. Kuasa tambahan Menteri
+
+122. Kuasa untuk membuat peraturan-peraturan
+
+123. Kuasa untuk menentukan standard atau garis panduan
+
+124. Peruntukan yang berhubungan dengan kelulusan, keizinan, standard atau garis panduan, penentuan, notis, kehendak atau arahan
+
+125. Kuasa Pihak Berkuasa Pengawalseliaan dan Penyeliaan untuk mengeluarkan panduan
+
+126. Kuasa Pihak Berkuasa Pengawalseliaan dan Penyeliaan untuk menyiarkan maklumat
+
+127. Kuasa untuk mengecualikan
+
+128. Kuasa untuk meminda Jadual
 
 <!-- page 8 -->
 
@@ -284,19 +378,19 @@ Perkara am
 
 135. Peralihan
 
-## Jadual 1
+## JADUAL 1
 
-## Jadual 2
+## JADUAL 2
 
-## Jadual 3
+## JADUAL 3
 
-## Jadual 4
+## JADUAL 4
 
-## Jadual 5
+## JADUAL 5
 
-## Jadual 6
+## JADUAL 6
 
-## Jadual 7
+## JADUAL 7
 
 <!-- page 9 -->
 
@@ -306,7 +400,7 @@ Suatu Akta untuk mengadakan peruntukan bagi, penubuhan Suruhanjaya Kredit Penggu
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -532,7 +626,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (c) apa-apa perkiraan, perjanjian atau kemudahan lain sebagaimana yang ditentukan oleh Suruhanjaya.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## SURUHANJAYA KREDIT PENGGUNA
 
@@ -1008,7 +1102,7 @@ bagi penubuhan atau pengendalian pertubuhan perbadanan itu di bawah subseksyen (
 
 <!-- page 36 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 ## FUNGSI DAN KUASA PIHAK BERKUASA PENGAWALSELIAAN
 
@@ -1078,7 +1172,7 @@ bagi penubuhan atau pengendalian pertubuhan perbadanan itu di bawah subseksyen (
 
 (4) Pendaftar boleh, secara bertulis, mewakilkan semua atau mana-mana fungsinya dan kuasanya di bawah Akta ini, kecuali kuasa pewakilannya, kepada mana-mana Timbalan Pendaftar atau pegawai yang dilantik di bawah subseksyen (1) dan (2).
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## JAWATANKUASA PENASIHAT
 
@@ -1142,7 +1236,7 @@ bagi penubuhan atau pengendalian pertubuhan perbadanan itu di bawah subseksyen (
 
 39. Jawatankuasa Penasihat boleh mengadakan tatacaranya sendiri, yang hendaklah selaras dengan amalan tadbir urus yang baik.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PELESENAN DAN PENDAFTARAN
 
@@ -1966,7 +2060,7 @@ Perkara am
 
 (3) Seseorang yang disebut di dalam subseksyen (2) hendaklah mengemukakan pengisytiharan tersebut kepada Suruhanjaya berserta dengan apa-apa dokumen atau maklumat sebagaimana yang ditentukan oleh Suruhanjaya.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PERNIAGAAN KREDIT ISLAM
 
@@ -2008,7 +2102,7 @@ Perkara am
 
 (2) Apa-apa keputusan yang dibuat oleh Majlis Penasihat Shariah menurut suatu rujukan yang dibuat di bawah perenggan (1)(b) hendaklah mengikat mahkamah atau penimbang tara yang membuat rujukan itu.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PELAKUAN PERNIAGAAN BAGI PERLINDUNGAN PENGGUNA
 
@@ -2096,7 +2190,7 @@ Pelakuan perniagaan dilarang
 
 (2) Mana-mana orang yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima juta ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## PEMERIKSAAN DAN PENYIASATAN
 
@@ -2546,7 +2640,7 @@ dalam penjalanan apa-apa penyiasatan di bawah perenggan 100(1)(a), atau di bawah
 
 sebagaimana yang perlu atau suai manfaat berhubung dengan pelaksanaan fungsinya, penjalanan kuasanya atau penunaian kewajipannya, berkenaan dengan mana-mana orang.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## PENGUATKUASAAN
 
@@ -2936,7 +3030,7 @@ Perkara am
 
 (2) Apa-apa dokumen atau maklumat yang didedahkan kepada Pihak Berkuasa Pengawalseliaan dan Penyeliaan di bawah subseksyen (1) dan pengenalan diri orang yang membuat pendedahan itu hendaklah menjadi rahsia antara Pihak Berkuasa Pengawalseliaan dan Penyeliaan itu dan orang yang membuat pendedahan itu, melainkan jika orang yang membuat pendedahan itu mengizinkan secara bertulis pendedahan pengenalan dirinya atau dokumen atau maklumat itu oleh Pihak Berkuasa Pengawalseliaan dan Penyeliaan itu.
 
-## Bahagian X
+## BAHAGIAN X
 
 ## PERUNTUKAN AM
 
@@ -3264,7 +3358,7 @@ atau arahan itu telah diambil jika apa-apa kelengahan dalam mengambil tindakan a
 
 <!-- page 136 -->
 
-## Jadual 1
+## JADUAL 1
 
 [Subseksyen 2(1)]
 
@@ -3288,7 +3382,7 @@ Kredit yang diberikan oleh—
 
 (h) suatu entiti berlesen di bawah Akta Perkhidmatan Kewangan dan Sekuriti Labuan 2010 [Akta 704] dan Akta Perkhidmatan Kewangan dan Sekuriti Islam Labuan 2010 [Akta 705] khusus bagi maksud di Labuan.
 
-## Jadual 2
+## JADUAL 2
 
 [Seksyen 4]
 
@@ -3406,7 +3500,7 @@ Bagi maksud takrif ini, “aset alih” termasuklah apa-apa loji, jentera, peral
 
 (ii) mendahulukan pembayaran kepada suatu penjual bagi suatu akaun belum bayar pembeli yang berbangkit daripada pembelian barangan atau perkhidmatan oleh pembeli daripada penjual.
 
-## Jadual 3
+## JADUAL 3
 
 [Seksyen 4]
 
@@ -3442,7 +3536,7 @@ Bagi maksud takrif ini, “aset alih” termasuklah apa-apa loji, jentera, peral
 
 (e) “Platform pinjaman ramai dalam talian” ertinya aktiviti mengendalikan suatu platform elektronik yang diberi kuasa oleh Suruhanjaya Sekuriti Malaysia, yang memudahkan secara langsung atau tidak langsung pinjaman atau pembiayaan kredit kepada seorang pengguna kredit.
 
-## Jadual 4
+## JADUAL 4
 
 [Subseksyen 40(1), 41(1), 57(1) dan 58(1) dan seksyen 79]
 
@@ -3480,7 +3574,7 @@ Bagi maksud takrif ini, “aset alih” termasuklah apa-apa loji, jentera, peral
 
 <!-- page 142 -->
 
-## Jadual 5
+## JADUAL 5
 
 [Seksyen 79]
 
@@ -3502,7 +3596,7 @@ Bagi maksud takrif ini, “aset alih” termasuklah apa-apa loji, jentera, peral
 
 7. Koperasi yang berdaftar di bawah subseksyen 7(1) Akta Koperasi 1993.
 
-## Jadual 6
+## JADUAL 6
 
 [Subsekyen 87(1)]
 
@@ -3530,11 +3624,11 @@ oleh mana-mana orang di bawah apa-apa perniagaan yang berhubungan dengan pemberi
 
 4. Menuntut bayaran daripada seorang pengguna kredit dengan apa-apa cara bagi produk atau perkhidmatan kredit yang tidak diminta mana-mana orang di bawah apa-apa perniagaan yang berhubungan dengan pemberian kredit atau perkhidmatan kredit, mengikut mana-mana yang berkenaan, termasuk mengancam untuk membawa prosiding undang-undang.
 
-## Jadual 7
+## JADUAL 7
 
 [Perenggan 106(3)(b)]
 
-SEnaRai PERunTuKan Yang diKECualiKan daRiPada PEnalTi MOnETaRi
+## SENARAI PERUNTUKAN YANG DIKECUALIKAN DARIPADA PENALTI MONETARI
 
 Suatu penalti monetari tidak boleh dikenakan berkenaan dengan suatu kemungkiran dengan peruntukan yang berikut:
 
@@ -3552,7 +3646,7 @@ Suatu penalti monetari tidak boleh dikenakan berkenaan dengan suatu kemungkiran 
 
 Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan peruntukan bagi penubuhan Suruhanjaya Kredit Pengguna, perlindungan kepentingan pengguna kredit, pengawalseliaan dan penyeliaan perniagaan kredit konvensional atau Islam dan perniagaan perkhidmatan kredit, pelakuan yang sepatutnya dan amalan peminjaman bertanggungjawab dalam industri kredit dan penggalakan suatu industri kredit yang adil, cekap dan telus dan untuk mengadakan peruntukan bagi perkara-perkara lain yang berkaitan dengannya dan bersampingan padanya.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I bertujuan untuk mengadakan peruntukan bagi perkara permulaan.
 
@@ -3566,7 +3660,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan 
 
 7. Fasal 5 bertujuan untuk memperuntukkan takrif “pengguna kredit” dan “kredit”.
 
-## Bahagian II
+## BAHAGIAN II
 
 8. Bahagian II Akta yang dicadangkan mengandungi peruntukan yang berhubungan dengan penubuhan Suruhanjaya Kredit Pengguna dan fungsinya dan kuasanya.
 
@@ -3650,7 +3744,7 @@ Kewangan
 
 <!-- page 148 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 37. Bahagian III bertujuan untuk mengadakan peruntukan bagi fungsi dan kuasa Pihak Berkuasa Pengawalseliaan dan Penyeliaan.
 
@@ -3658,7 +3752,7 @@ Kewangan
 
 39. Fasal 35 bertujuan untuk memberi suatu Pihak Berkuasa Pengawalseliaan dan Penyeliaan kuasa untuk melantik pegawainya bagi menjalankan fungsinya atau kuasanya, atau memberikan apa-apa bantuan bagi maksud itu. Fasal ini juga memperuntukkan pelantikan seorang Pendaftar pemberi kredit Islam dan Timbalan Pendaftar pemberi kredit Islam yang bertanggungjawab ke atas pemberi kredit yang menjalankan perniagaan kemudahan pembiayaan Islam dan pemajakgadaian Islam.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 40. Bahagian IV bertujuan untuk mengadakan peruntukan bagi perkara yang berhubungan dengan Jawatankuasa Penasihat.
 
@@ -3670,7 +3764,7 @@ Kewangan
 
 44. Fasal 39 bertujuan untuk memberi Jawatankuasa Penasihat kuasa untuk menentukan tatacara mesyuaratnya sendiri.
 
-## Bahagian V
+## BAHAGIAN V
 
 45. Bahagian V Akta yang dicadangkan mengandungi peruntukan yang berhubungan dengan pelesenan perniagaan kredit dan pendaftaran perniagaan perkhidmatan kredit di bawah Akta yang dicadangkan.
 
@@ -3778,7 +3872,7 @@ Perkara am
 
 <!-- page 154 -->
 
-## Bahagian VI
+## BAHAGIAN VI
 
 86. Bahagian VI mengandungi peruntukan yang berhubungan dengan perniagaan kredit Islam dan kehendak bagi pematuhan kepada Shariah bagi perniagaan kredit Islam.
 
@@ -3792,7 +3886,7 @@ Perkara am
 
 90. Fasal 83 memperkatakan kehendak untuk mahkamah atau penimbang tara dalam suatu prosiding berkenaan dengan perniagaan kredit Islam jika suatu persoalan mengenai suatu perkara Shariah berbangkit, untuk mengambil kira mana-mana peraturan-peraturan atau standard atau garis panduan yang dibuat bagi tujuan Bahagian ini atau merujukkan persoalan itu kepada Majlis Penasihat Shariah untuk keputusannya. Fasal ini juga memperuntukkan kesan keputusan Majlis Penasihat Shariah.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 91. Bahagian VII Akta yang dicadangkan memperkatakan suatu pendekatan berasaskan prinsip dalam mengenakan kehendak dan larangan berhubungan dengan pelakuan perniagaan pemberi kredit dan pemberi perkhidmatan kredit dan perlindungan pengguna kredit.
 
@@ -3814,7 +3908,7 @@ Pelakuan perniagaan dilarang
 
 95. Fasal 87 bertujuan untuk melarang mana-mana orang daripada terlibat dalam apa-apa pelakuan perniagaan dilarang sebagaimana yang dinyatakan dalam Jadual 6.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 96. Bahagian VIII mengandungi peruntukan yang berhubungan dengan kuasa pemeriksaan dan penyiasatan Pihak Berkuasa Pengawalseliaan dan Penyeliaan.
 
@@ -3868,7 +3962,7 @@ Kuasa penyiasatan
 
 <!-- page 158 -->
 
-## Bahagian IX
+## BAHAGIAN IX
 
 115. Bahagian IX Akta yang dicadangkan mengandungi peruntukan yang berhubungan dengan kuasa suatu Pihak Berkuasa Pengawalseliaan dan Penyeliaan untuk mengambil tindakan pentadbiran, penguatkuasaan sivil dan tindakan jenayah, termasuk perkara am dan perkara yang berhubungan dengan kuasa mahkamah.
 
@@ -3924,7 +4018,7 @@ Perkara am
 
 130. Fasal 120 bertujuan untuk mengadakan peruntukan bagi perlindungan berhubung dengan pendedahan maklumat bagi seseorang yang mendedahkan dengan suci hati kepada suatu Pihak Berkuasa Pengawalseliaan dan Penyeliaan pengetahuannya, kepercayaannya atau apa-apa dokumen atau maklumat bahawa suatu kemungkiran atau pelanggaran telah atau mungkin akan dilakukan.
 
-## Bahagian X
+## BAHAGIAN X
 
 131. Bahagian X memperkatakan peruntukan am.
 

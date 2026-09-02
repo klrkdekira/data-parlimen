@@ -8,17 +8,35 @@ An Act to amend the Trade Descriptions Act 1972. [ ]
 
 BE IT ENACTED by the Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong with the advice and consent of the Dewan Negara and Dewan Rakyat in Parliament assembled, and by the authority of the same, as follows:
 
-Short title
+<!-- marginal: Short title -->
 
-1. This Act may be cited as the Trade Descriptions and com- (Amendment) Act 1993 and shall come into force on mencement. such date as the Minister may, by notification in the Gazette, appoint.
+1. This Act may be cited as the Trade Descriptions
 
-General
+<!-- marginal: and com- -->
 
-2. The Trade Descriptions Act 1972, which in this Act amendment. is referred to as the "principal Act", is amended in the Act 87 national language text by substituting for the words "penunjokan" and "penunjukan" wherever they may appear the word "petunjuk".
+(Amendment) Act 1993 and shall come into force on
 
-Amendment
+<!-- marginal: mencement. -->
 
-3. Section 2 of the principal Act is amended— of section 2
+such date as the Minister may, by notification in the Gazette, appoint.
+
+<!-- marginal: General -->
+
+2. The Trade Descriptions Act 1972, which in this Act
+
+<!-- marginal: amendment. -->
+
+is referred to as the "principal Act", is amended in the
+
+<!-- marginal: Act 87 -->
+
+national language text by substituting for the words "penunjokan" and "penunjukan" wherever they may appear the word "petunjuk".
+
+<!-- marginal: Amendment -->
+
+3. Section 2 of the principal Act is amended—
+
+<!-- marginal: of section 2 -->
 
 (a) by inserting after the definition of "goods" the following definition:
 
@@ -32,33 +50,51 @@ Amendment
 
 silver or platinum in one thousand parts by weight of precious metal;'.
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. Subsection 4(1) of the principal Act is amended by of section 4. substituting for paragraph (e) the following paragraph:
+4. Subsection 4(1) of the principal Act is amended by
+
+<!-- marginal: of section 4. -->
+
+substituting for paragraph (e) the following paragraph:
 
 "(e) the standard of fineness of articles made of precious metals;".
 
-New section
+<!-- marginal: New section -->
 
-5. The principal Act is amended by inserting after 2 l A. section 21 the following section:
+5. The principal Act is amended by inserting after
+
+<!-- marginal: 2 l A. -->
+
+section 21 the following section:
 
 Com- 21 A. (1) The Controller or a Deputy pounding Controller may compound any offence under of offences. this Act or any regulations made thereunder which is prescribed to be a compoundable offence by making a written offer, to the person reasonably suspected of having committed such offence, to compound the offence upon payment to the Controller or Deputy Controller such sum of money within such time as may be specified in the offer.
 
 (2) An offer under subsection (1) may be made at any time after the offence has been committed, but before any prosecution for it has been instituted, and where the amount specified in the offer is not paid within the time specified in the offer, or within such extended period as the Controller or Deputy Controller may grant, prosecution for the offence may be instituted at any time thereafter against the person to whom the offer was made.
 
-(3) Where an offence has been compounded under subsection (1), no prosecution shall thereafter be instituted against such person in respect of such offence and where possession has been taken of any goods or documents under this Act or any regulations made thereunder such goods or documents may be released, subject to such conditions as may be imposed.
+(3) Where an offence has
+
+<!-- marginal: been -->
+
+compounded under subsection
+
+<!-- marginal: (1), no -->
+
+prosecution shall thereafter be instituted against such person in respect of such offence and where possession has been taken of any goods or documents under this Act or any regulations made thereunder such goods or documents may be released, subject to such conditions as may be imposed.
 
 <!-- page 3 -->
 
 ## TRADE DESCRIPTIONS (AMENDMENT)
 
-3
+<!-- marginal: 3 -->
 
 (4) The power to compound offences under subsection (1) shall be exercised by the Controller or the Deputy Controller personally.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-6. Section 38A of the principal Act is amended— of section 38A.
+6. Section 38A of the principal Act is amended—
+
+<!-- marginal: of section 38A. -->
 
 (a) by inserting after paragraph (b) the following paragraph:
 
@@ -70,7 +106,15 @@ Amendment
 
 "(e) prescribe the standard of fineness of articles made of precious metals and regulate or control the use of any expression or indication used in the course of trade or business in relation to such standard of fineness;
 
-(f) prescribe the offences under this Act or the regulations made thereunder which may be compounded, the amount of such compound and the procedure to be followed on compounding.".
+(f) prescribe the offences under this Act or the regulations made thereunder which may be compounded,
+
+<!-- marginal: the -->
+
+amount of such compound and the procedure to be followed
+
+<!-- marginal: on -->
+
+compounding.".
 
 ## EXPLANATORY STATEMENT
 

@@ -18,13 +18,25 @@
 
 ## MAJLIS
 
-5. Penubuhan Majlis 6. Objektif Majlis 7. Fungsi Majlis 8. Kuasa Majlis 9. Fungsi dan kuasa tambahan Majlis 10. Keanggotaan Majlis 11. Anggota silih ganti Majlis 12. Majlis boleh menubuhkan jawatankuasa 13. Pewakilan fungsi dan kuasa Majlis
+5. Penubuhan Majlis 6. Objektif Majlis 7. Fungsi Majlis 8. Kuasa Majlis 9. Fungsi dan kuasa tambahan Majlis
+
+10. Keanggotaan Majlis
+
+11. Anggota silih ganti Majlis
+
+12. Majlis boleh menubuhkan jawatankuasa
+
+13. Pewakilan fungsi dan kuasa Majlis
 
 ## BAHAGIAN III
 
 ## KETUA EKSEKUTIF, PEGAWAI DAN PEKHIDMAT MAJLIS
 
-14. Ketua Eksekutif 15. Pengambilan kerja pegawai dan pekhidmat Majlis 16. Bantuan kewangan kepada pegawai dan pekhidmat dan tanggungan mereka
+14. Ketua Eksekutif
+
+15. Pengambilan kerja pegawai dan pekhidmat Majlis
+
+16. Bantuan kewangan kepada pegawai dan pekhidmat dan tanggungan mereka
 
 <!-- page 2 -->
 
@@ -32,7 +44,17 @@
 
 ## PELAN INDUK WILAYAH EKONOMI PANTAI T1MUR
 
-17. Pelan Induk Wilayah Ekonomi Pantai Timur 18. Perundingan dengan Kerajaan Negeri 19. Kelulusan dan menerima pakai Pelan Induk Wilayah Ekonomi Pantai Timur 20. Kajian semula dan pengubahan Pelan Induk Wilayah Ekonomi Pantai Timur 21. Kewajipan untuk memberi perhatian kepada Pelan Induk Wilayah Ekonomi Pantai Timur 22. Pembangunan strategik yang ditetapkan
+17. Pelan Induk Wilayah Ekonomi Pantai Timur
+
+18. Perundingan dengan Kerajaan Negeri
+
+19. Kelulusan dan menerima pakai Pelan Induk Wilayah Ekonomi Pantai Timur
+
+20. Kajian semula dan pengubahan Pelan Induk Wilayah Ekonomi Pantai Timur
+
+21. Kewajipan untuk memberi perhatian kepada Pelan Induk Wilayah Ekonomi Pantai Timur
+
+22. Pembangunan strategik yang ditetapkan
 
 ## BAHAGIAN V
 
@@ -40,7 +62,9 @@
 
 ## WILAYAH EKONOMI PANTAI TIMUR
 
-23. Tanggungjawab Majlis 24. Tanggungjawab entiti Kerajaan
+23. Tanggungjawab Majlis
+
+24. Tanggungjawab entiti Kerajaan
 
 ## BAHAGIAN VI
 
@@ -48,29 +72,81 @@
 
 ## WILAYAH EKONOMI PANTAI TIMUR
 
-25. Agensi penyelaras utama 26. Perkiraan dengan entiti Kerajaan 27. Majlis boleh mendapatkan maklumat daripada entiti Kerajaan 28. Jawatankuasa Pelaksanaan dan Penyelarasan
+25. Agensi penyelaras utama
+
+26. Perkiraan dengan entiti Kerajaan
+
+27. Majlis boleh mendapatkan maklumat daripada entiti Kerajaan
+
+28. Jawatankuasa Pelaksanaan dan Penyelarasan
 
 ## BAHAGIAN VII
 
 ## KEWANGAN
 
-29. Kumpulan Wang 30. Perbelanjaan yang hendaklah dipertanggungkan pada Kumpulan Wang 31. Kuasa untuk membenarkan perbelanjaan daripada Kumpulan Wang 32. Pemeliharaan Kumpulan Wang 33. Dana khas
+29. Kumpulan Wang
+
+30. Perbelanjaan yang hendaklah dipertanggungkan pada Kumpulan Wang
+
+31. Kuasa untuk membenarkan perbelanjaan daripada Kumpulan Wang
+
+32. Pemeliharaan Kumpulan Wang
+
+33. Dana khas
 
 <!-- page 3 -->
 
-34. Kumpulan wang rizab 35. Akaun bank 36. Kuasa untuk mengenakan fi 37. Kuasa untuk meminjam dan memperdapatkan wang 38. Pelaburan , 39. Perbelanjaan dan penyediaan anggaran 40. Tahun kewangan 41. Akta Badan Berkanun (Akaun dan Laporan Tahunan) 1980
+34. Kumpulan wang rizab
+
+35. Akaun bank
+
+36. Kuasa untuk mengenakan fi
+
+37. Kuasa untuk meminjam dan memperdapatkan wang
+
+38. Pelaburan ,
+
+39. Perbelanjaan dan penyediaan anggaran
+
+40. Tahun kewangan
+
+41. Akta Badan Berkanun (Akaun dan Laporan Tahunan) 1980
 
 ## BAHAGIAN VIII
 
 ## KESALAHAN DAN PENALTI
 
-42. Kesalahan kerana tidak menzahirkan kepentingan 43. Obligasi kerahsiaan 44. Kesalahan kerana memberi maklumat palsu atau mengelirukan 45. Kesalahan kerana mengubahsuai tanpa kuasa maklumat dalam jagaan Majlis 46. Kesalahan oleh pertubuhan perbadanan dan pekerja
+42. Kesalahan kerana tidak menzahirkan kepentingan
+
+43. Obligasi kerahsiaan
+
+44. Kesalahan kerana memberi maklumat palsu atau mengelirukan
+
+45. Kesalahan kerana mengubahsuai tanpa kuasa maklumat dalam jagaan Majlis
+
+46. Kesalahan oleh pertubuhan perbadanan dan pekerja
 
 ## BAHAGIAN IX
 
 ## PERUNTUKAN AM
 
-47. Penyata, laporan, akaun dan maklumat 48. Kuasa untuk menubuhkan syarikat 49. Kuasa untuk mengambil khidmat profesional 50. Perlindungan terhadap tindakan guaman dan prosiding undang-undang 51. Akta Perlindungan Pihak Berkuasa Awam 1948 52. Pekhidmat awam 53. Kuasa untuk membuat peraturan-peraturan 54. Perkara yang dilakukan dalam menjangkakan Akta ini akan diperbuat 55. Peruntukan kecualian
+47. Penyata, laporan, akaun dan maklumat
+
+48. Kuasa untuk menubuhkan syarikat
+
+49. Kuasa untuk mengambil khidmat profesional
+
+50. Perlindungan terhadap tindakan guaman dan prosiding undang-undang
+
+51. Akta Perlindungan Pihak Berkuasa Awam 1948
+
+52. Pekhidmat awam
+
+53. Kuasa untuk membuat peraturan-peraturan
+
+54. Perkara yang dilakukan dalam menjangkakan Akta ini akan diperbuat
+
+55. Peruntukan kecualian
 
 ## JADUAL PERTAMA
 
@@ -200,11 +276,7 @@ Majlis Pembangunan Wilayah Ekonomi Pantai Timur 9
 
 7. Tertakluk kepada seksyen 23, Majlis hendaklah melaksanakan fungsi-fungsi yang berikut:
 
-(a) untuk menetapkan arah, dasar, strategi dan
-
-<!-- marginal: inisiatif -->
-
-berhubung dengan pembangunan di dalam Wilayah Ekonomi Pantai Timur dan pelaksanaan Pelan Induk Wilayah Ekonomi Pantai Timur;
+(a) untuk menetapkan arah, dasar, strategi dan inisiatif berhubung dengan pembangunan di dalam Wilayah Ekonomi Pantai Timur dan pelaksanaan Pelan Induk Wilayah Ekonomi Pantai Timur;
 
 (b) untuk menggalakkan, merangsang, memudahkan, menyelaras, membuat penilaian dan kajian semula apa-apa pembangunan di dalam Wilayah Ekonomi Pantai Timur yang dijalankan oleh mana-mana entiti Kerajaan, atau mana-mana badan atau orang, sama ada tempatan atau asing, dan turut serta dalam membangunkan Wilayah Ekonomi Pantai Timur, termasuk —
 
@@ -212,11 +284,7 @@ berhubung dengan pembangunan di dalam Wilayah Ekonomi Pantai Timur dan pelaksana
 
 (ii) pembangunan industri dan perdagangan seperti industri minyak dan gas dan petrokimia, pengilangan dan perusahaan lain dan aktiviti dan industri baru dengan nilai-tambah yang lebih tinggi;
 
-(iii) pembangunan sosial seperti kesihatan umum termasuk membangunkan kemudahan kesihatan dan perubatan dan memajukan kesenian,
-
-<!-- marginal: dan -->
-
-kebudayaan, aktiviti sukan dan rekreasi;
+(iii) pembangunan sosial seperti kesihatan umum termasuk membangunkan kemudahan kesihatan dan perubatan dan memajukan kesenian, dan kebudayaan, aktiviti sukan dan rekreasi;
 
 (iv) pembangunan sumber manusia seperti pembangunan pendidikan awam dan membangunkan kemudahan pendidikan, termasuk institusi vokasional dan teknikal dan pusat kecemerlangan bagi penyelidikan, pengajaran dan latihan; dan
 
@@ -456,39 +524,19 @@ Majlis Pembangunan Wilayah Ekonomi Pantai Timur 17
 
 Majlis Pembangunan Wilayah Ekonomi Pantai Timur 19
 
-(2) Majlis hendaklah, dalam draf Pelan Induk Wilayah Ekonomi Pantai Timur, merumuskan dengan apa-apa butir
-
-<!-- marginal: terperinci -->
-
-sebagaimana yang difikirkan sesuai oleh Majlis yang berikut:
+(2) Majlis hendaklah, dalam draf Pelan Induk Wilayah Ekonomi Pantai Timur, merumuskan dengan apa-apa butir terperinci sebagaimana yang difikirkan sesuai oleh Majlis yang berikut:
 
 (a) cadangan bagi rangka keseluruhan, wawasan dan objektif pembangunan Wilayah Ekonomi Pantai Timur, yang hendaklah termasuk objektif dan strategi bagi pembangunan fizikal, ekonomi dan sosial di Wilayah Ekonomi Pantai Timur;
 
-(b) cadangan bagi perancangan dan pelaksanaan inisiatif di dalam Wilayah Ekonomi Pantai Timur
-
-<!-- marginal: untuk -->
-
-merealisasikan objektif dan strategi yang disebut dalam perenggan (a) yang hendaklah termasuk inisiatif yang berhubungan dengan tetapi tidak terhad kepada yang berikut:
+(b) cadangan bagi perancangan dan pelaksanaan inisiatif di dalam Wilayah Ekonomi Pantai Timur untuk merealisasikan objektif dan strategi yang disebut dalam perenggan (a) yang hendaklah termasuk inisiatif yang berhubungan dengan tetapi tidak terhad kepada yang berikut:
 
 (i) objektif, fungsi, kuasa, dan fungsi dan kuasa tambahan Majlis di bawah seksyen 6, 7, 8 dan 9 masing-masing;
 
-(ii) pembangunan dan pengembangan
+(ii) pembangunan dan pengembangan industri pelancongan;
 
-<!-- marginal: industri -->
+(iii) penambahbaikan, pengembangan, pemusatan, penyelarasan dan peningkatan pengurusan industri minyak dan gas dan petrokimia;
 
-pelancongan;
-
-(iii) penambahbaikan, pengembangan,
-
-<!-- marginal: pemusatan, -->
-
-penyelarasan dan peningkatan pengurusan industri minyak dan gas dan petrokimia;
-
-(iv) pembangunan sektor perindustrian,
-
-<!-- marginal: termasuk -->
-
-pembangunan industri dengan nilai tambah yang lebih tinggi dan industri baru;
+(iv) pembangunan sektor perindustrian, termasuk pembangunan industri dengan nilai tambah yang lebih tinggi dan industri baru;
 
 (v) pembangunan mengikut sektor atau mengikut industri yang berkaitan dengan modal insan, termasuk aktiviti berhubungan dengan pendidikan, latihan dan penyelidikan;
 
@@ -578,7 +626,9 @@ sebagaimana yang difikirkan sesuai oleh Majlis bagi maksud menjelaskan atau mene
 
 Majlis Pembangunan Wilayah Ekonomi Pantai Timur 23
 
-(4) Majlis hendaklah menyiarkan hakikat bahawa draf Pelan Induk Wilayah Ekonomi Pantai Timur telah diluluskan oleh Kerajaan-Kerajaan Negeri Kelantan, Terengganu, Pahang dan Johor—
+(4) Majlis hendaklah menyiarkan hakikat bahawa draf Pelan Induk Wilayah Ekonomi Pantai Timur telah diluluskan oleh Kerajaan-Kerajaan Negeri Kelantan, Terengganu, Pahang dan
+
+<!-- marginal: Johor— -->
 
 (a) di laman web internet Majlis, dalam bahasa kebangsaan dan bahasa Inggeris, berserta Pelan Induk Wilayah Ekonomi Pantai Timur itu; dan
 
@@ -762,7 +812,7 @@ Majlis Pembangunan Wilayah Ekonomi Pantai Timur 31
 
 (7) Majlis boleh, dari semasa ke semasa, melalui perintah yang disiarkan dalam Warta, meminda Jadual Kedua berhubung dengan Jawatankuasa Pelaksanaan dan Penyelarasan.
 
-## BAHAGIAN VII i
+BAHAGIAN VII i
 
 ## KEWANGAN
 
@@ -808,11 +858,7 @@ Majlis Pembangunan Wilayah Ekonomi Pantai Timur 31
 
 (d) membayar elaun dan perbelanjaan lain anggota Majlis, Jawatankuasa Pelaksanaan dan Penyelarasan dan mana-mana jawatankuasa dan mana-mana orang yang di undang untuk menghadiri mesyuarat Majlis, Jawatankuasa Perlaksanaan dan Penyelarasan dan mana-mana jawatankuasa;
 
-(e) membayar saraan, elaun dan perbelanjaan lain Ketua Eksekutif, pegawai dan pekhidmat Majlis
-
-<!-- marginal: termasuk -->
-
-pemberian pinjaman dan bayaran pendahuluan, elaun persaraan, faedah persaraan, pencen dan ganjaran;
+(e) membayar saraan, elaun dan perbelanjaan lain Ketua Eksekutif, pegawai dan pekhidmat Majlis termasuk pemberian pinjaman dan bayaran pendahuluan, elaun persaraan, faedah persaraan, pencen dan ganjaran;
 
 (f) memberi bantuan kewangan atau kemudahan kredit, dengan atau tanpa bunga, atau apa-apa sumbangan, bagi maksud pendidikan atau biasiswa atau bagi apa-apa maksud lain yang diluluskan oleh Majlis kepada mana-mana orang;
 
@@ -1094,7 +1140,9 @@ Majlis Pembangunan Wilayah Ekonomi Pantai Timur 43
 
 <!-- page 43 -->
 
-(2) Pelaksanaan atau pelaksanaan yang diteruskan bagi mana-mana projek, atau kelulusan atau award bagi mana-mana projek yang dicadangkan yang sedang dinantikan, kecuali berkenaan dengan mana-mana projek yang dicadangkan yang berhubungan dengannya suatu arahan telah dibuat oleh Perdana Menteri di bawah subseksyen (1), tidak tersentuh oleh permulaan kuat kuasa Akta ini dan bagi maksud sedemikian hendaklah diperlakukan seolah-olah Akta ini telah tidak diperbuat.
+(2) Pelaksanaan atau pelaksanaan yang diteruskan bagi mana-mana projek, atau kelulusan atau award bagi mana-mana projek yang dicadangkan yang sedang dinantikan, kecuali berkenaan dengan mana-mana projek yang dicadangkan yang berhubungan dengannya suatu arahan telah dibuat oleh Perdana Menteri di bawah subseksyen
+
+(1), tidak tersentuh oleh permulaan kuat kuasa Akta ini dan bagi maksud sedemikian hendaklah diperlakukan seolah-olah Akta ini telah tidak diperbuat.
 
 ## JADUAL PERTAMA
 

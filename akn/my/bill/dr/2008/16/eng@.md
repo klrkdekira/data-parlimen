@@ -18,111 +18,163 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 2 -->
 
-### 2
+<!-- marginal: 2 -->
 
 ### Bill
 
 ## SCHEDULE
 
-Purpose Title
+<!-- marginal: Purpose -->
+
+Title
 
 <!-- marginal: Amount -->
 
 <!-- marginal: (RM) -->
 
-B. 1 Parliament
+<!-- marginal: B. 1 -->
+
+Parliament
 
 <!-- marginal: 70,494,400 -->
 
-B. 2 Office of the Keeper of the Rulers’ Seal
+<!-- marginal: B. 2 -->
+
+Office of the Keeper of the Rulers’ Seal
 
 <!-- marginal: 1,959,000 -->
 
-B. 3 Audit Department
+<!-- marginal: B. 3 -->
+
+Audit Department
 
 <!-- marginal: 150,825,700 -->
 
-B. 4 Election Commission
+<!-- marginal: B. 4 -->
+
+Election Commission
 
 <!-- marginal: 39,375,900 -->
 
-B. 5 Public Services Commission
+<!-- marginal: B. 5 -->
+
+Public Services Commission
 
 <!-- marginal: 50,260,700 -->
 
-B. 6 Prime Minister's Department
+<!-- marginal: B. 6 -->
+
+Prime Minister's Department
 
 <!-- marginal: 3,661,392,300 -->
 
-B. 7 Public Services Department
+<!-- marginal: B. 7 -->
+
+Public Services Department
 
 <!-- marginal: 1,721,299,400 -->
 
-B. 8 Attorney General's Chambers
+<!-- marginal: B. 8 -->
+
+Attorney General's Chambers
 
 <!-- marginal: 139,377,600 -->
 
-B. 9 Anti-Corruption Agency
+<!-- marginal: B. 9 -->
+
+Anti-Corruption Agency
 
 <!-- marginal: 161,032,700 -->
 
-B. 10 Treasury
+<!-- marginal: B. 10 -->
+
+Treasury
 
 <!-- marginal: 2,223,388,600 -->
 
-B. 11 Treasury General Services
+<!-- marginal: B. 11 -->
+
+Treasury General Services
 
 <!-- marginal: 31,223,009,100 -->
 
-B. 12 Contribution to Statutory Funds
+<!-- marginal: B. 12 -->
+
+Contribution to Statutory Funds
 
 <!-- marginal: 4,408,600,100 -->
 
-B. 13 Ministry of Foreign Affairs
+<!-- marginal: B. 13 -->
+
+Ministry of Foreign Affairs
 
 <!-- marginal: 509,582,100 -->
 
-B. 20 Ministry of Plantation Industries and Commodities
+<!-- marginal: B. 20 -->
+
+Ministry of Plantation Industries and Commodities
 
 <!-- marginal: 1,444,259,900 -->
 
-B. 21 Ministry of Agriculture and Agro-based Industry
+<!-- marginal: B. 21 -->
+
+Ministry of Agriculture and Agro-based Industry
 
 <!-- marginal: 3,807,494,100 -->
 
-B. 22 Ministry of Rural and Regional Development
+<!-- marginal: B. 22 -->
+
+Ministry of Rural and Regional Development
 
 <!-- marginal: 1,041,195,600 -->
 
-B. 23 Ministry of Natural Resources and Environment
+<!-- marginal: B. 23 -->
+
+Ministry of Natural Resources and Environment
 
 <!-- marginal: 933,518,300 -->
 
-B. 24 Ministry of International Trade and Industry
+<!-- marginal: B. 24 -->
+
+Ministry of International Trade and Industry
 
 <!-- marginal: 464,850,000 -->
 
-B. 25 Ministry of Domestic Trade and Consumer Affairs
+<!-- marginal: B. 25 -->
+
+Ministry of Domestic Trade and Consumer Affairs
 
 <!-- marginal: 377,499,100 -->
 
-B. 26 Ministry of Entrepreneurial and Co-operative
+<!-- marginal: B. 26 -->
+
+Ministry of Entrepreneurial and Co-operative
 
 <!-- marginal: 2,342,153,400 -->
 
-Development B. 27 Ministry of Works
+Development
+
+<!-- marginal: B. 27 -->
+
+Ministry of Works
 
 <!-- marginal: 1,388,326,700 -->
 
-B. 28 Ministry of Transport
+<!-- marginal: B. 28 -->
+
+Ministry of Transport
 
 <!-- marginal: 876,398,500 -->
 
-B. 29 Ministry of Energy, Water and Communications
+<!-- marginal: B. 29 -->
+
+Ministry of Energy, Water and Communications
 
 <!-- marginal: 92,189,100 -->
 
-B. 30 Ministry of Science, Technology and Innovations
+<!-- marginal: B. 30 -->
+
+Ministry of Science, Technology and Innovations
 
 <!-- marginal: 814,923,700 -->
 
@@ -132,65 +184,97 @@ Supply
 
 <!-- marginal: 3 -->
 
-Purpose Title
+<!-- marginal: Purpose -->
+
+Title
 
 <!-- marginal: Amount -->
 
 <!-- marginal: (RM) -->
 
-B. 31 Ministry of Tourism
+<!-- marginal: B. 31 -->
+
+Ministry of Tourism
 
 <!-- marginal: 649,674,700 -->
 
-B. 32 Ministry of the Federal Territories
+<!-- marginal: B. 32 -->
+
+Ministry of the Federal Territories
 
 <!-- marginal: 258,303,800 -->
 
-B. 40 Education Service Commission
+<!-- marginal: B. 40 -->
+
+Education Service Commission
 
 <!-- marginal: 16,904,400 -->
 
-B. 41 Ministry of Education
+<!-- marginal: B. 41 -->
+
+Ministry of Education
 
 <!-- marginal: 27,350,295,000 -->
 
-B. 42 Ministry of Health
+<!-- marginal: B. 42 -->
+
+Ministry of Health
 
 <!-- marginal: 11,433,169,900 -->
 
-B. 43 Ministry of Housing and Local Government
+<!-- marginal: B. 43 -->
+
+Ministry of Housing and Local Government
 
 <!-- marginal: 1,394,997,500 -->
 
-B. 44 Ministry of Unity, Culture, Arts and Heritage
+<!-- marginal: B. 44 -->
+
+Ministry of Unity, Culture, Arts and Heritage
 
 <!-- marginal: 686,957,000 -->
 
-B. 45 Ministry of Youth and Sports
+<!-- marginal: B. 45 -->
+
+Ministry of Youth and Sports
 
 <!-- marginal: 408,841,400 -->
 
-B. 46 Ministry of Human Resources
+<!-- marginal: B. 46 -->
+
+Ministry of Human Resources
 
 <!-- marginal: 555,908,700 -->
 
-B. 47 Ministry of Information
+<!-- marginal: B. 47 -->
+
+Ministry of Information
 
 <!-- marginal: 999,857,600 -->
 
-B. 48 Ministry of Women, Family and Community
+<!-- marginal: B. 48 -->
+
+Ministry of Women, Family and Community
 
 <!-- marginal: 781,390,900 -->
 
-Development B. 49 Ministry of Higher Education
+Development
+
+<!-- marginal: B. 49 -->
+
+Ministry of Higher Education
 
 <!-- marginal: 9,682,119,800 -->
 
-B. 60 Ministry of Defence
+<!-- marginal: B. 60 -->
+
+Ministry of Defence
 
 <!-- marginal: 10,650,504,000 -->
 
-B. 62 Ministry of Home Affairs
+<!-- marginal: B. 62 -->
+
+Ministry of Home Affairs
 
 <!-- marginal: 7,149,051,600 -->
 
@@ -322,9 +406,7 @@ The Operating Expenditure Estimates proposed for the Ministry of Agriculture and
 
 <!-- page 10 -->
 
-Authority (MADA) (RM78.7 million), the Kemubu Agricultural Development Authority
-
-(KADA) (RM52.9 million), the Fisheries Development Authority (LKIM) (RM85.1 million) and the Malaysia Pineapple Industry Board (MPIB) (RM13.8 million).
+Authority (MADA) (RM78.7 million), the Kemubu Agricultural Development Authority (KADA) (RM52.9 million), the Fisheries Development Authority (LKIM) (RM85.1 million) and the Malaysia Pineapple Industry Board (MPIB) (RM13.8 million).
 
 ### viii. Prime Minister's Department
 
@@ -406,7 +488,7 @@ The general administration sector is allocated a sum of RM2.12 billion or 3.9% o
 
 ## EXPENDITURE IN 2009 AS SHOWN IN THE FEDERAL ESTIMATES 2009
 
-## PURPOSE
+<!-- marginal: PURPOSE -->
 
 ## TITLE
 
@@ -450,23 +532,33 @@ T.9 Public Services Commission
 
 <!-- marginal: 6,483,100 -->
 
-T.10 Education Service Commission
+<!-- marginal: T.10 -->
+
+Education Service Commission
 
 <!-- marginal: 5,395,300 -->
 
-T.11 Police Force Commission
+<!-- marginal: T.11 -->
+
+Police Force Commission
 
 <!-- marginal: 636,000 -->
 
-T.12 Treasury
+<!-- marginal: T.12 -->
+
+Treasury
 
 <!-- marginal: 3,483,568,200 -->
 
-T.13 Charges on Account of Public Debt
+<!-- marginal: T.13 -->
+
+Charges on Account of Public Debt
 
 <!-- marginal: 13,472,864,300 -->
 
-T.14 Pensions, Retirement Allowances and Gratuities
+<!-- marginal: T.14 -->
+
+Pensions, Retirement Allowances and Gratuities
 
 <!-- marginal: 7,147,157,900 -->
 
@@ -518,15 +610,21 @@ B.9 Anti-Corruption Agency
 
 <!-- marginal: 37,854,997,800 -->
 
-B.10 Treasury
+<!-- marginal: B.10 -->
+
+Treasury
 
 <!-- marginal: 2,223,388,600 -->
 
-B.11 Treasury General Services
+<!-- marginal: B.11 -->
+
+Treasury General Services
 
 <!-- marginal: 31,223,009,100 -->
 
-B.12 Contribution to Statutory Funds
+<!-- marginal: B.12 -->
+
+Contribution to Statutory Funds
 
 <!-- marginal: 4,408,600,100 -->
 
@@ -534,7 +632,9 @@ B.12 Contribution to Statutory Funds
 
 <!-- marginal: 509,582,100 -->
 
-B.13 Ministry of Foreign Affairs
+<!-- marginal: B.13 -->
+
+Ministry of Foreign Affairs
 
 <!-- marginal: 509,582,100 -->
 
@@ -542,7 +642,9 @@ B.13 Ministry of Foreign Affairs
 
 <!-- marginal: 1,444,259,900 -->
 
-B.20 Ministry of Plantation Industries and Commodities
+<!-- marginal: B.20 -->
+
+Ministry of Plantation Industries and Commodities
 
 <!-- marginal: 1,444,259,900 -->
 
@@ -550,7 +652,9 @@ B.20 Ministry of Plantation Industries and Commodities
 
 <!-- marginal: 3,807,494,100 -->
 
-B.21 Ministry of Agriculture and Agro-based Industry
+<!-- marginal: B.21 -->
+
+Ministry of Agriculture and Agro-based Industry
 
 <!-- marginal: 3,807,494,100 -->
 
@@ -558,7 +662,9 @@ B.21 Ministry of Agriculture and Agro-based Industry
 
 <!-- marginal: 1,041,195,600 -->
 
-B.22 Ministry of Rural and Regional Development
+<!-- marginal: B.22 -->
+
+Ministry of Rural and Regional Development
 
 <!-- marginal: 1,041,195,600 -->
 
@@ -570,7 +676,7 @@ B.22 Ministry of Rural and Regional Development
 
 ## EXPENDITURE IN 2009 AS SHOWN IN THE FEDERAL ESTIMATES 2009
 
-## PURPOSE
+<!-- marginal: PURPOSE -->
 
 ## TITLE
 
@@ -582,7 +688,9 @@ B.22 Ministry of Rural and Regional Development
 
 <!-- marginal: 933,518,300 -->
 
-B.23 Ministry of Natural Resources and Environment
+<!-- marginal: B.23 -->
+
+Ministry of Natural Resources and Environment
 
 <!-- marginal: 933,518,300 -->
 
@@ -590,7 +698,9 @@ B.23 Ministry of Natural Resources and Environment
 
 <!-- marginal: 464,850,000 -->
 
-B.24 Ministry of International Trade and Industry
+<!-- marginal: B.24 -->
+
+Ministry of International Trade and Industry
 
 <!-- marginal: 464,850,000 -->
 
@@ -600,7 +710,9 @@ B.24 Ministry of International Trade and Industry
 
 <!-- marginal: 377,499,100 -->
 
-B.25 Ministry of Domestic Trade and Consumer Affairs
+<!-- marginal: B.25 -->
+
+Ministry of Domestic Trade and Consumer Affairs
 
 <!-- marginal: 377,499,100 -->
 
@@ -610,7 +722,9 @@ B.25 Ministry of Domestic Trade and Consumer Affairs
 
 ## DEVELOPMENT
 
-B.26 Ministry of Entrepreneurial and Co-operative Development
+<!-- marginal: B.26 -->
+
+Ministry of Entrepreneurial and Co-operative Development
 
 <!-- marginal: 2,342,153,400 -->
 
@@ -618,7 +732,9 @@ B.26 Ministry of Entrepreneurial and Co-operative Development
 
 <!-- marginal: 1,388,326,700 -->
 
-B.27 Ministry of Works
+<!-- marginal: B.27 -->
+
+Ministry of Works
 
 <!-- marginal: 1,388,326,700 -->
 
@@ -626,7 +742,9 @@ B.27 Ministry of Works
 
 <!-- marginal: 876,398,500 -->
 
-B.28 Ministry of Transport
+<!-- marginal: B.28 -->
+
+Ministry of Transport
 
 <!-- marginal: 876,398,500 -->
 
@@ -634,7 +752,9 @@ B.28 Ministry of Transport
 
 <!-- marginal: 92,189,100 -->
 
-B.29 Ministry of Energy, Water and Communications
+<!-- marginal: B.29 -->
+
+Ministry of Energy, Water and Communications
 
 <!-- marginal: 92,189,100 -->
 
@@ -642,7 +762,9 @@ B.29 Ministry of Energy, Water and Communications
 
 <!-- marginal: 814,923,700 -->
 
-B.30 Ministry of Science, Technology and Innovations
+<!-- marginal: B.30 -->
+
+Ministry of Science, Technology and Innovations
 
 <!-- marginal: 814,923,700 -->
 
@@ -650,7 +772,9 @@ B.30 Ministry of Science, Technology and Innovations
 
 <!-- marginal: 649,674,700 -->
 
-B.31 Ministry of Tourism
+<!-- marginal: B.31 -->
+
+Ministry of Tourism
 
 <!-- marginal: 649,674,700 -->
 
@@ -658,7 +782,9 @@ B.31 Ministry of Tourism
 
 <!-- marginal: 258,303,800 -->
 
-B.32 Ministry of the Federal Territories
+<!-- marginal: B.32 -->
+
+Ministry of the Federal Territories
 
 <!-- marginal: 258,303,800 -->
 
@@ -666,7 +792,9 @@ B.32 Ministry of the Federal Territories
 
 <!-- marginal: 16,904,400 -->
 
-B.40 Education Service Commission
+<!-- marginal: B.40 -->
+
+Education Service Commission
 
 <!-- marginal: 16,904,400 -->
 
@@ -674,7 +802,9 @@ B.40 Education Service Commission
 
 <!-- marginal: 27,350,295,000 -->
 
-B.41 Ministry of Education
+<!-- marginal: B.41 -->
+
+Ministry of Education
 
 <!-- marginal: 27,350,295,000 -->
 
@@ -686,7 +816,7 @@ B.41 Ministry of Education
 
 ## EXPENDITURE IN 2009 AS SHOWN IN THE FEDERAL ESTIMATES 2009
 
-## PURPOSE
+<!-- marginal: PURPOSE -->
 
 ## TITLE
 
@@ -698,7 +828,9 @@ B.41 Ministry of Education
 
 <!-- marginal: 11,433,169,900 -->
 
-B.42 Ministry of Health
+<!-- marginal: B.42 -->
+
+Ministry of Health
 
 <!-- marginal: 11,433,169,900 -->
 
@@ -706,7 +838,9 @@ B.42 Ministry of Health
 
 <!-- marginal: 1,394,997,500 -->
 
-B.43 Ministry of Housing and Local Government
+<!-- marginal: B.43 -->
+
+Ministry of Housing and Local Government
 
 <!-- marginal: 1,394,997,500 -->
 
@@ -714,7 +848,9 @@ B.43 Ministry of Housing and Local Government
 
 <!-- marginal: 686,957,000 -->
 
-B.44 Ministry of Unity, Culture, Arts and Heritage
+<!-- marginal: B.44 -->
+
+Ministry of Unity, Culture, Arts and Heritage
 
 <!-- marginal: 686,957,000 -->
 
@@ -722,7 +858,9 @@ B.44 Ministry of Unity, Culture, Arts and Heritage
 
 <!-- marginal: 408,841,400 -->
 
-B.45 Ministry of Youth and Sports
+<!-- marginal: B.45 -->
+
+Ministry of Youth and Sports
 
 <!-- marginal: 408,841,400 -->
 
@@ -730,7 +868,9 @@ B.45 Ministry of Youth and Sports
 
 <!-- marginal: 555,908,700 -->
 
-B.46 Ministry of Human Resources
+<!-- marginal: B.46 -->
+
+Ministry of Human Resources
 
 <!-- marginal: 555,908,700 -->
 
@@ -738,7 +878,9 @@ B.46 Ministry of Human Resources
 
 <!-- marginal: 999,857,600 -->
 
-B.47 Ministry of Information
+<!-- marginal: B.47 -->
+
+Ministry of Information
 
 <!-- marginal: 999,857,600 -->
 
@@ -748,7 +890,9 @@ B.47 Ministry of Information
 
 ## DEVELOPMENT
 
-B.48 Ministry of Women, Family and Community Development
+<!-- marginal: B.48 -->
+
+Ministry of Women, Family and Community Development
 
 <!-- marginal: 781,390,900 -->
 
@@ -756,7 +900,9 @@ B.48 Ministry of Women, Family and Community Development
 
 <!-- marginal: 9,682,119,800 -->
 
-B.49 Ministry of Higher Education
+<!-- marginal: B.49 -->
+
+Ministry of Higher Education
 
 <!-- marginal: 9,682,119,800 -->
 
@@ -764,7 +910,9 @@ B.49 Ministry of Higher Education
 
 <!-- marginal: 10,650,504,000 -->
 
-B.60 Ministry of Defence
+<!-- marginal: B.60 -->
+
+Ministry of Defence
 
 <!-- marginal: 10,650,504,000 -->
 
@@ -772,7 +920,9 @@ B.60 Ministry of Defence
 
 <!-- marginal: 7,149,051,600 -->
 
-B.62 Ministry of Home Affairs
+<!-- marginal: B.62 -->
+
+Ministry of Home Affairs
 
 <!-- marginal: 7,149,051,600 -->
 
@@ -796,7 +946,7 @@ B.62 Ministry of Home Affairs
 
 <!-- marginal: ESTIMATES 2009 -->
 
-## PURPOSE
+<!-- marginal: PURPOSE -->
 
 ## TITLE
 
@@ -932,7 +1082,7 @@ Development
 
 <!-- marginal: ESTIMATES 2009 -->
 
-## PURPOSE
+<!-- marginal: PURPOSE -->
 
 ## TITLE
 
@@ -1070,7 +1220,7 @@ P.46 Ministry of Human Resources 374,662,000
 
 <!-- marginal: ESTIMATES 2009 -->
 
-## PURPOSE
+<!-- marginal: PURPOSE -->
 
 ## TITLE
 
@@ -1180,7 +1330,7 @@ Sector (RM million) (RM million)
 
 ### 13,627.6
 
-### I.
+<!-- marginal: I. -->
 
 ## ECONOMY
 
@@ -1260,7 +1410,7 @@ i. 1,862.2
 
 0.0
 
-### II.
+<!-- marginal: II. -->
 
 ## SOCIAL
 
@@ -1340,7 +1490,7 @@ Sector (RM million) (RM million)
 
 0.0 3.5 Land Acquisition h.
 
-### III.
+<!-- marginal: III. -->
 
 ## SECURITY
 
@@ -1368,7 +1518,7 @@ Internal Security 7,581.5 1,059.2 b.
 
 ### 12,382.6
 
-### IV.
+<!-- marginal: IV. -->
 
 ## GENERAL
 
@@ -1410,7 +1560,7 @@ Drawbacks d. Renovation & Repair 0.0 50.4
 
 <!-- marginal: 10.0 -->
 
-### V.
+<!-- marginal: V. -->
 
 ## FIXED CHARGES
 
@@ -1434,7 +1584,7 @@ Gratuities b. Debt Servicing 13,472.8 0.0
 
 <!-- marginal: 16.1 -->
 
-### VI.
+<!-- marginal: VI. -->
 
 ## TRANSFER
 
@@ -1468,17 +1618,23 @@ d. Other Transfers 27,703.3 0.0
 
 <!-- page 22 -->
 
-Operating Development
+Operating
+
+<!-- marginal: Development -->
 
 <!-- marginal: Total -->
 
-Estimates Estimates
+Estimates
+
+<!-- marginal: Estimates -->
 
 <!-- marginal: Estimates -->
 
 <!-- marginal: Percentage -->
 
-Sector (RM million) (RM million)
+Sector (RM million)
+
+<!-- marginal: (RM million) -->
 
 <!-- marginal: (RM million) -->
 
@@ -1490,7 +1646,7 @@ Sector (RM million) (RM million)
 
 ## CONTINGENCIES
 
-### 2,000.0
+<!-- marginal: 2,000.0 -->
 
 <!-- marginal: 2,000.0 -->
 
@@ -1506,7 +1662,7 @@ Sector (RM million) (RM million)
 
 ### 154,169.8
 
-### 53,729.1
+<!-- marginal: 53,729.1 -->
 
 NOTE: The sectoral classification in this table follows the normal classification of Government expenditure and consists of various Purposes of Expenditure which, cause the amounts as summarised therein may differ from the amounts shown under the respective Purposes of Expenditure under Ministries/ Departments as shown in the Estimates Of Expenditure.
 
@@ -1516,7 +1672,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 ## ANGGARAN PERBELANJAAN MENGURUS (BEKALAN) DAN PEMBANGUNAN 2009
 
-## ANGGARAN PERBELANJAAN
+<!-- marginal: ANGGARAN PERBELANJAAN -->
 
 <!-- marginal: JUMLAH BESAR -->
 
@@ -1528,7 +1684,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 <!-- marginal: PEMBANGUNAN -->
 
-### (RM)
+<!-- marginal: (RM) -->
 
 <!-- marginal: (RM) -->
 
@@ -1538,7 +1694,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 ### B.1
 
-### 70,494,400
+<!-- marginal: 70,494,400 -->
 
 <!-- marginal: 70,494,400 -->
 
@@ -1546,7 +1702,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 ### B.2
 
-### 1,959,000
+<!-- marginal: 1,959,000 -->
 
 <!-- marginal: 1,959,000 -->
 
@@ -1556,7 +1712,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 ### B.3
 
-### 150,825,700
+<!-- marginal: 150,825,700 -->
 
 <!-- marginal: 150,825,700 -->
 
@@ -1564,7 +1720,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 ### B.4
 
-### 39,375,900
+<!-- marginal: 39,375,900 -->
 
 <!-- marginal: 39,375,900 -->
 
@@ -1572,7 +1728,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 ### B.5
 
-### 50,260,700
+<!-- marginal: 50,260,700 -->
 
 <!-- marginal: 50,260,700 -->
 
@@ -1580,7 +1736,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 ## JABATAN PERDANA MENTERI
 
-### 5,683,102,000
+<!-- marginal: 5,683,102,000 -->
 
 <!-- marginal: 10,338,847,000 -->
 
@@ -1590,7 +1746,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 ### B.6
 
-### 3,661,392,300
+<!-- marginal: 3,661,392,300 -->
 
 <!-- marginal: P.6 -->
 
@@ -1602,7 +1758,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 ### B.7
 
-### 1,721,299,400
+<!-- marginal: 1,721,299,400 -->
 
 <!-- marginal: P.7 -->
 
@@ -1614,7 +1770,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 ### B.8
 
-### 139,377,600
+<!-- marginal: 139,377,600 -->
 
 <!-- marginal: 139,377,600 -->
 
@@ -1622,13 +1778,13 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 ### B.9
 
-### 161,032,700
+<!-- marginal: 161,032,700 -->
 
 <!-- marginal: 161,032,700 -->
 
 <!-- page 24 -->
 
-## ANGGARAN PERBELANJAAN
+<!-- marginal: ANGGARAN PERBELANJAAN -->
 
 <!-- marginal: JUMLAH BESAR -->
 
@@ -1640,15 +1796,15 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 <!-- marginal: PEMBANGUNAN -->
 
-### (RM)
-
 <!-- marginal: (RM) -->
 
 <!-- marginal: (RM) -->
 
-7. KEMENTERIAN KEWANGAN
+<!-- marginal: (RM) -->
 
-### 37,854,997,800
+## 7. KEMENTERIAN KEWANGAN
+
+<!-- marginal: 37,854,997,800 -->
 
 <!-- marginal: 3,314,853,800 -->
 
@@ -1658,7 +1814,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 ### B.10
 
-### 2,223,388,600
+<!-- marginal: 2,223,388,600 -->
 
 <!-- marginal: P.10 -->
 
@@ -1670,7 +1826,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 ### B.11
 
-### 31,223,009,100
+<!-- marginal: 31,223,009,100 -->
 
 <!-- marginal: 31,223,009,100 -->
 
@@ -1678,7 +1834,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 ### B.12
 
-### 4,408,600,100
+<!-- marginal: 4,408,600,100 -->
 
 <!-- marginal: 4,408,600,100 -->
 
@@ -1690,11 +1846,11 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 <!-- marginal: 2,000,000,000 -->
 
-8. KEMENTERIAN LUAR NEGERI
+## 8. KEMENTERIAN LUAR NEGERI
 
 ### B.13
 
-### 509,582,100
+<!-- marginal: 509,582,100 -->
 
 <!-- marginal: P.13 -->
 
@@ -1702,11 +1858,11 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 <!-- marginal: 772,076,100 -->
 
-9. KEMENTERIAN PERUSAHAAN PERLADANGAN
+## 9. KEMENTERIAN PERUSAHAAN PERLADANGAN
 
 ### B.20
 
-### 1,444,259,900
+<!-- marginal: 1,444,259,900 -->
 
 <!-- marginal: P.20 -->
 
@@ -1720,7 +1876,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 ### B.21
 
-### 3,807,494,100
+<!-- marginal: 3,807,494,100 -->
 
 <!-- marginal: P.21 -->
 
@@ -1734,7 +1890,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 ### B.22
 
-### 1,041,195,600
+<!-- marginal: 1,041,195,600 -->
 
 <!-- marginal: P.22 -->
 
@@ -1748,7 +1904,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 ### B.23
 
-### 933,518,300
+<!-- marginal: 933,518,300 -->
 
 <!-- marginal: P.23 -->
 
@@ -1760,7 +1916,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 ### B.24
 
-### 464,850,000
+<!-- marginal: 464,850,000 -->
 
 <!-- marginal: P.24 -->
 
@@ -1772,7 +1928,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 <!-- page 25 -->
 
-## ANGGARAN PERBELANJAAN
+<!-- marginal: ANGGARAN PERBELANJAAN -->
 
 <!-- marginal: JUMLAH BESAR -->
 
@@ -1784,7 +1940,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 <!-- marginal: PEMBANGUNAN -->
 
-### (RM)
+<!-- marginal: (RM) -->
 
 <!-- marginal: (RM) -->
 
@@ -1794,7 +1950,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 ### B.25
 
-### 377,499,100
+<!-- marginal: 377,499,100 -->
 
 <!-- marginal: P.25 -->
 
@@ -1808,7 +1964,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 ### B.26
 
-### 2,342,153,400
+<!-- marginal: 2,342,153,400 -->
 
 <!-- marginal: P.26 -->
 
@@ -1822,7 +1978,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 ### B.27
 
-### 1,388,326,700
+<!-- marginal: 1,388,326,700 -->
 
 <!-- marginal: P.27 -->
 
@@ -1834,7 +1990,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 ### B.28
 
-### 876,398,500
+<!-- marginal: 876,398,500 -->
 
 <!-- marginal: P.28 -->
 
@@ -1846,7 +2002,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 ### B.29
 
-### 92,189,100
+<!-- marginal: 92,189,100 -->
 
 <!-- marginal: P.29 -->
 
@@ -1858,7 +2014,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 ### B.30
 
-### 814,923,700
+<!-- marginal: 814,923,700 -->
 
 <!-- marginal: P.30 -->
 
@@ -1870,7 +2026,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 ### B.31
 
-### 649,674,700
+<!-- marginal: 649,674,700 -->
 
 <!-- marginal: P.31 -->
 
@@ -1882,7 +2038,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 ### B.32
 
-### 258,303,800
+<!-- marginal: 258,303,800 -->
 
 <!-- marginal: P.32 -->
 
@@ -1894,7 +2050,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 ### B.40
 
-### 16,904,400
+<!-- marginal: 16,904,400 -->
 
 <!-- marginal: 16,904,400 -->
 
@@ -1902,7 +2058,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 ### B.41
 
-### 27,350,295,000
+<!-- marginal: 27,350,295,000 -->
 
 <!-- marginal: P.41 -->
 
@@ -1914,7 +2070,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 ### B.42
 
-### 11,433,169,900
+<!-- marginal: 11,433,169,900 -->
 
 <!-- marginal: P.42 -->
 
@@ -1926,7 +2082,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 ### B.43
 
-### 1,394,997,500
+<!-- marginal: 1,394,997,500 -->
 
 <!-- marginal: P.43 -->
 
@@ -1938,7 +2094,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 <!-- page 26 -->
 
-## ANGGARAN PERBELANJAAN
+<!-- marginal: ANGGARAN PERBELANJAAN -->
 
 <!-- marginal: JUMLAH BESAR -->
 
@@ -1950,7 +2106,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 <!-- marginal: PEMBANGUNAN -->
 
-### (RM)
+<!-- marginal: (RM) -->
 
 <!-- marginal: (RM) -->
 
@@ -1960,7 +2116,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 ### B.44
 
-### 686,957,000
+<!-- marginal: 686,957,000 -->
 
 <!-- marginal: P.44 -->
 
@@ -1974,7 +2130,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 ### B.45
 
-### 408,841,400
+<!-- marginal: 408,841,400 -->
 
 <!-- marginal: P.45 -->
 
@@ -1986,7 +2142,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 ### B.46
 
-### 555,908,700
+<!-- marginal: 555,908,700 -->
 
 <!-- marginal: P.46 -->
 
@@ -1998,7 +2154,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 ### B.47
 
-### 999,857,600
+<!-- marginal: 999,857,600 -->
 
 <!-- marginal: P.47 -->
 
@@ -2010,7 +2166,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 ### B.48
 
-### 781,390,900
+<!-- marginal: 781,390,900 -->
 
 <!-- marginal: P.48 -->
 
@@ -2024,7 +2180,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 ### B.49
 
-### 9,682,119,800
+<!-- marginal: 9,682,119,800 -->
 
 <!-- marginal: P.49 -->
 
@@ -2036,7 +2192,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 ### B.60
 
-### 10,650,504,000
+<!-- marginal: 10,650,504,000 -->
 
 <!-- marginal: P.60 -->
 
@@ -2048,7 +2204,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 ### B.62
 
-### 7,149,051,600
+<!-- marginal: 7,149,051,600 -->
 
 <!-- marginal: P.62 -->
 
@@ -2058,7 +2214,7 @@ NOTE: The sectoral classification in this table follows the normal classificatio
 
 ## JUMLAH BESAR
 
-### 129,961,382,300
+<!-- marginal: 129,961,382,300 -->
 
 <!-- marginal: 53,729,145,000 -->
 

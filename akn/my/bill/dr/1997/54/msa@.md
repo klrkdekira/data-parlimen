@@ -16,7 +16,13 @@
 
 ## PERMULAAN
 
-1. Tajuk ringkas, pemakaian dan mula berkuat kuasa. 2. Pemakaian. 3. Tafsiran. 4. Tajuk am borang.
+1. Tajuk ringkas, pemakaian dan mula berkuat kuasa.
+
+2. Pemakaian.
+
+3. Tafsiran.
+
+4. Tajuk am borang.
 
 ## BAHAGIAN
 
@@ -24,7 +30,9 @@ II
 
 ## KESAN KETAKPATUHAN
 
-5. Ketakpatuhan. 6. Permohonan untuk mengetepikan kerana tak teratur.
+5. Ketakpatuhan.
+
+6. Permohonan untuk mengetepikan kerana tak teratur.
 
 ## BAHAGIAN
 
@@ -44,9 +52,7 @@ AM
 
 ## SAM AN
 
-8. Bentuk saman.
-
-9. Salinan saman.
+8. Bentuk saman. 9. Salinan saman.
 
 10. Pengeluaran dan penyampaian.
 
@@ -82,17 +88,13 @@ AM
 
 17. Tafsiran.
 
-18. Percantuman pihak.
-
-19. Perubahan pihak.
+18. Percantuman pihak. 19. Perubahan pihak.
 
 20. Kesalahcantuman dan ketakcantuman pihak.
 
 21. Pindaan dan penyampaian.
 
-22. Pemberhentian tindakan.
-
-23. Penurunan kepentingan.
+22. Pemberhentian tindakan. 23. Penurunan kepentingan.
 
 <!-- page 3 -->
 
@@ -102,19 +104,45 @@ AM
 
 ## ORANG TAK BERKEUPAYAAN
 
-24. Orang tak berkeupayaan. 25. Persetujuan bagi pihak orang tak berkeupayaan. 26. Peruntukan am tentang ketakupayaan. 27. Presiding luar aturan. 28. Pemecatan penjaga ad litem. 29. Plaintif belum dewasa mencapai umur dewasa. 30. Defendan belum dewasa mencapai umur dewasa.
+24. Orang tak berkeupayaan.
+
+25. Persetujuan bagi pihak orang tak berkeupayaan.
+
+26. Peruntukan am tentang ketakupayaan.
+
+27. Presiding luar aturan.
+
+28. Pemecatan penjaga ad litem.
+
+29. Plaintif belum dewasa mencapai umur dewasa.
+
+30. Defendan belum dewasa mencapai umur dewasa.
 
 ## BAB 3
 
 ## ORANG MISKIN
 
-31. Permohonan untuk mendakwa atau membela sebagai orang mi skin. 32. Orang miskin tidak boleh memberhentikan, dsb. tanpa kebenaran. 33. Kos.
+31. Permohonan untuk mendakwa atau membela sebagai orang mi skin.
+
+32. Orang miskin tidak boleh memberhentikan, dsb. tanpa kebenaran.
+
+33. Kos.
 
 ## BAHAGIAN V
 
 ## PEGUAM SYARIE
 
-34. Wakalah. 35. Penyampaian kepada Peguam Syarie. 36. Menukar Peguam Syarie. 37. Pelepasan Peguam Syarie. 38. Pelepasan atas permohonan Peguam Syarie. 39. Kematian.
+34. Wakalah.
+
+35. Penyampaian kepada Peguam Syarie.
+
+36. Menukar Peguam Syarie.
+
+37. Pelepasan Peguam Syarie.
+
+38. Pelepasan atas permohonan Peguam Syarie.
+
+39. Kematian.
 
 ## BAHAGIAN VI
 
@@ -124,7 +152,13 @@ AM
 
 ## PENYAMPAIAN DALAM BIDANG KUASA
 
-40. Alamat bagi penyampaian. 41. Cara penyampaian. 42. Ketakterimaan. 43. Penyampaian kepada Peguam Syarie.
+40. Alamat bagi penyampaian.
+
+41. Cara penyampaian.
+
+42. Ketakterimaan.
+
+43. Penyampaian kepada Peguam Syarie.
 
 <!-- page 4 -->
 
@@ -162,37 +196,25 @@ Fa sal
 
 ## INTERPLIDER
 
-56. Hak mendapatkan relief dengan cara interplider.
-
-57. Tuntutan untuk mendapatkan barang, dsb., yang diambil dalam pelaksanaan.
-
-58. Cara membuat permohonan.
-
-59. Penyampaian saman.
-
-60. Kuasa Mahkamah yang mendengar saman.
-
-61. Kuasa lain.
-
-62. Perbicaraan isu interplider.
+56. Hak mendapatkan relief dengan cara interplider. 57. Tuntutan untuk mendapatkan barang, dsb., yang diambil dalam pelaksanaan. 58. Cara membuat permohonan. 59. Penyampaian saman. 60. Kuasa Mahkamah yang mendengar saman. 61. Kuasa lain. 62. Perbicaraan isu interplider.
 
 ## BAHAGIAN VIII
 
 ## PLIDING
 
-63. Pernyataan tuntutan.
-
-64. Defendan hendaklah menyampaikan pembelaan.
-
-65. Bentuk pembelaan.
-
-66. Tuntutan balas.
-
-67. Pembelaan terhadap tuntutan balas.
+63. Pernyataan tuntutan. 64. Defendan hendaklah menyampaikan pembelaan. 65. Bentuk pembelaan. 66. Tuntutan balas. 67. Pembelaan terhadap tuntutan balas.
 
 <!-- page 5 -->
 
-(Wilayah-Wilayah Persekutuan) 68. Pembelaan tawaran. 69. Jawapan. 70. Keengganan menerima pliding dan pindaan. 71. Butir-butir.
+(Wilayah-Wilayah Persekutuan)
+
+68. Pembelaan tawaran.
+
+69. Jawapan.
+
+70. Keengganan menerima pliding dan pindaan.
+
+71. Butir-butir.
 
 ## BAHAGIAN
 
@@ -200,7 +222,21 @@ IX
 
 ## PEMBAYARAN KE DALAM DAN DARIPADA MAHKAMAH
 
-72. Pembayaran ke dalam Mahkamah. 73. Pembayaran daripada Mahkamah. 74. Penyelesaian sebahagian. 75. Perintah bagi pembayaran daripada Mahkamah. 76. Kos. 77. Relief lain. 78. Tawaran. 79. Tuntutan balas.
+72. Pembayaran ke dalam Mahkamah.
+
+73. Pembayaran daripada Mahkamah.
+
+74. Penyelesaian sebahagian.
+
+75. Perintah bagi pembayaran daripada Mahkamah.
+
+76. Kos.
+
+77. Relief lain.
+
+78. Tawaran.
+
+79. Tuntutan balas.
 
 ## BAHAGIAN X
 
@@ -220,15 +256,7 @@ IX
 
 ## PEMINDAHAN PROSIDING
 
-89. Pemindahan prosiding ke suatu Mahkamah yang lain.
-
-90. Tatacara mengenai pemindahan.
-
-91. Kos mengenai pemindahan.
-
-92. Tatacara mengenai pemindahan daripada Mahkamah Tinggi Syariah kepada Mahkamah Rendah Syariah.
-
-93. Tatacara mengenai pemindahan daripada Mahkamah Rendah Syariah kepada Mahkamah Tinggi Syariah.
+89. Pemindahan prosiding ke suatu Mahkamah yang lain. 90. Tatacara mengenai pemindahan. 91. Kos mengenai pemindahan. 92. Tatacara mengenai pemindahan daripada Mahkamah Tinggi Syariah kepada Mahkamah Rendah Syariah. 93. Tatacara mengenai pemindahan daripada Mahkamah Rendah Syariah kepada Mahkamah Tinggi Syariah.
 
 ## BAHAGIAN XIII
 
@@ -236,15 +264,7 @@ IX
 
 ## PEMBERHENTIAN
 
-94. Penyelesaian tindakan.
-
-95. Penarikan balik tuntutan.
-
-96. Kesan penarikan balik ke atas presiding selanjutnya.
-
-97. Penggantungan.
-
-98. Penarikan balik pembelaan.
+94. Penyelesaian tindakan. 95. Penarikan balik tuntutan. 96. Kesan penarikan balik ke atas presiding selanjutnya. 97. Penggantungan. 98. Penarikan balik pembelaan.
 
 99. Sulk.
 
@@ -502,13 +522,7 @@ AM
 
 ## PERINTAH INTERIM
 
-196. Pemakaian.
-
-197. Kuasa Mahkamah untuk memberikan perintah interim.
-
-198. Tiada rayuan terhadap perintah interim.
-
-199. Penahanan, pemeliharaan, dsb. hal perkara kausa atau perkara.
+196. Pemakaian. 197. Kuasa Mahkamah untuk memberikan perintah interim. 198. Tiada rayuan terhadap perintah interim. 199. Penahanan, pemeliharaan, dsb. hal perkara kausa atau perkara.
 
 200. Injunksi.
 
@@ -552,13 +566,7 @@ AM
 
 216. Cara membayar.
 
-217. Kiriman melalui pos.
-
-218. Buku akaun.
-
-219. Kos perkhidmatan.
-
-220. Dana wang tak dituntut, dsb.
+217. Kiriman melalui pos. 218. Buku akaun. 219. Kos perkhidmatan. 220. Dana wang tak dituntut, dsb.
 
 <!-- page 12 -->
 
@@ -598,37 +606,9 @@ AM
 
 232. Bahasa.
 
-233. Borang.
+233. Borang. 234. Salinan diperakui.
 
-234. Salinan diperakui.
-
-235. Fee, deposit dan pembayaran.
-
-236. Larangan ke atas pegawai Mahkamah.
-
-237. Memberikan jaminan.
-
-238. Memanjang atau memendekkan masa.
-
-239. Perkara yang mengaibkan, dsb.
-
-240. Kehadiran sendiri.
-
-241. Penyampaian oleh Mahkamah lain.
-
-242. Merekodkan keterangan sebelum pendengaran.
-
-243. Surat permintaan.
-
-244. Kuasa sedia ada Mahkamah.
-
-245. Hukum Syarak.
-
-246. Jawatankuasa Kaedah-Kaedah.
-
-247. Kaedah-kaedah.
-
-248. Pemberhentian pemakaian Enakmen.
+235. Fee, deposit dan pembayaran. 236. Larangan ke atas pegawai Mahkamah. 237. Memberikan jaminan. 238. Memanjang atau memendekkan masa. 239. Perkara yang mengaibkan, dsb. 240. Kehadiran sendiri. 241. Penyampaian oleh Mahkamah lain. 242. Merekodkan keterangan sebelum pendengaran. 243. Surat permintaan. 244. Kuasa sedia ada Mahkamah. 245. Hukum Syarak. 246. Jawatankuasa Kaedah-Kaedah. 247. Kaedah-kaedah. 248. Pemberhentian pemakaian Enakmen.
 
 ## JADUAL
 
@@ -746,13 +726,27 @@ II
 
 ## KESAN KETAKPATUHAN
 
-Ketakpatuhan.
+<!-- marginal: Ketakpatuhan. -->
 
 5. Ketakpatuhan mana-mana peruntukan Akta ini atau mana-mana kaedah yang dibuat di bawahnya tidaklah membatalkan mana-mana prosiding melainkan jika Mahkamah memerintahkan sedemikian, tetapi Mahkamah boleh, atas kehendaknya sendiri atau atas permohonan mana-mana pihak, mengetepikan mana-mana presiding keseluruhannya atau sebahagiannya sebagai tak teratur, atau memerintahkan supaya apa-apa pindaan dibuat atas apa-apa terma yang difikirkannya adil.
 
-Permohonan
+<!-- marginal: Permohonan -->
 
-6. Apa-apa permohonan untuk mengetepikan apa-apa untuk prosiding, langkah yang diambil dalam apa-apa prosiding mengetepikan kerana tak atau apa-apa dokumen, penghakiman atau perintah teratur. dalamnya kerana tak teratur tidaklah boleh dibenarkan melainkan jika permohonan itu dibuat dalam masa yang munasabah dan sebelum pihak yang memohon itu telah mengambil apa-apa langkah baru selepas menyedari tentang ketakteraturan itu.
+6. Apa-apa permohonan untuk mengetepikan apa-apa
+
+<!-- marginal: untuk -->
+
+prosiding, langkah yang diambil dalam apa-apa prosiding
+
+<!-- marginal: mengetepikan -->
+
+<!-- marginal: kerana tak -->
+
+atau apa-apa dokumen, penghakiman atau perintah
+
+<!-- marginal: teratur. -->
+
+dalamnya kerana tak teratur tidaklah boleh dibenarkan melainkan jika permohonan itu dibuat dalam masa yang munasabah dan sebelum pihak yang memohon itu telah mengambil apa-apa langkah baru selepas menyedari tentang ketakteraturan itu.
 
 III
 
@@ -764,9 +758,19 @@ III
 
 AM
 
-Cara
+<!-- marginal: Cara -->
 
-7. (1) Tertakluk kepada subseksyen (2) atau mana-mana memulakan undang-undang bertulis lain, tiap-tiap prosiding mal di prosidingng mal. Mahkamah hendaklah dimulakan dengan saman.
+7. (1) Tertakluk kepada subseksyen (2) atau mana-mana
+
+<!-- marginal: memulakan -->
+
+undang-undang bertulis lain, tiap-tiap prosiding mal di
+
+<!-- marginal: prosidingng -->
+
+<!-- marginal: mal. -->
+
+Mahkamah hendaklah dimulakan dengan saman.
 
 (2) Semua prosiding berkenaan dengan mana-mana perkara yang dinyatakan dalam Jadual Kedua hendaklah dimulakan dengan permohonan.
 
@@ -820,39 +824,59 @@ Pendaftar hendaklah memberikan suatu nombor siri padanya, memeteraikan, menandat
 
 hendaklah sah pada mulanya selama dua belas bulan bermula dari tarikh pengeluarannya.
 
-(2) Jika sesuatu saman belum lagi disampaikan kepada defendan dalam tempoh yang dinyatakan dalam subseksyen (1), suatu permohonan boleh dibuat kepada Mahkamah untuk melanjutkan tempoh kesahan saman itu sebelum tarikh habis tempoh saman itu atau mana-mana hari kemudian daripada itu, jika ada, sebagaimana yang dibenarkan oleh Mahkamah.
+(2) Jika sesuatu saman belum lagi disampaikan kepada defendan dalam tempoh yang dinyatakan dalam subseksyen
+
+(1), suatu permohonan boleh dibuat kepada Mahkamah untuk melanjutkan tempoh kesahan saman itu sebelum tarikh habis tempoh saman itu atau mana-mana hari kemudian daripada itu, jika ada, sebagaimana yang dibenarkan oleh Mahkamah.
 
 <!-- page 18 -->
 
 (3) Mahkamah boleh melalui perintah melanjutkan tempoh kesahan saman itu dari semasa ke semasa selama apa-apa tempoh, yang tidak melebihi dua belas bulan pada mana-mana satu ketika, yang bermula dari hari yang mengikuti hari saman itu akan, kalau tidak kerana lanjutan itu, habis tempoh.
 
-Kehilangan
+<!-- marginal: Kehilangan -->
 
-12. Jika sesuatu saman hilang selepas dikeluarkan, saman. Mahkamah boleh memerintahkan supaya dikeluarkan suatu saman baru yang mengandungi tarikh dan mempunyai kesan yang sama seperti saman asal.
+12. Jika sesuatu saman hilang selepas dikeluarkan,
+
+<!-- marginal: saman. -->
+
+Mahkamah boleh memerintahkan supaya dikeluarkan suatu saman baru yang mengandungi tarikh dan mempunyai kesan yang sama seperti saman asal.
 
 ## BAB 3
 
 ## PERMOHONAN
 
-Bentuk
+<!-- marginal: Bentuk -->
 
-13. (1) Kecuali sebagaimana yang diperuntukkan permohonan. kemudian daripada ini, tiap-tiap permohonan hendaklah dibuat melalui notis dalam Borang MS 3 dan disokong dengan afidavit yang diangkat sumpah mengikut Akta ini.
+13. (1) Kecuali sebagaimana yang diperuntukkan
+
+<!-- marginal: permohonan. -->
+
+kemudian daripada ini, tiap-tiap permohonan hendaklah dibuat melalui notis dalam Borang MS 3 dan disokong dengan afidavit yang diangkat sumpah mengikut Akta ini.
 
 (2) Tiap-tiap permohonan hendaklah menyatakan dengan sepenuhnya jenis perintah yang dipohon, dan mengandungi fakta yang cukup terperinci untuk menyokong permohonan itu, dan melainkan jika Mahkamah memerintahkan selainnya, hendaklah disampaikan kepada semua pihak dan orang yang berkepentingan dalamnya.
 
 (3) Dalam sesuatu permohonan, penentang hendaklah disebut sebagai responden.
 
-Pemakaian
+<!-- marginal: Pemakaian -->
 
-14. Seksyen 9, 10, 11 dan 12 hendaklah terpakai, dengan seksyen 9, apa-apa ubahsuaian yang perlu, berhubungan dengan 10, 11 dan
+14. Seksyen 9, 10, 11 dan 12 hendaklah terpakai, dengan
+
+<!-- marginal: seksyen 9, -->
+
+apa-apa ubahsuaian yang perlu, berhubungan dengan
+
+<!-- marginal: 10, 11 dan -->
 
 12. sesuatu permohonan sebagaimana seksyen-seksyen itu terpakai berhubungan dengan saman.
 
-Permohonan
+<!-- marginal: Permohonan -->
 
-15. Walau apa pun apa-apa jua dalam Bahagian ini, sesuatu perceraian. permohonan untuk mendapatkan perceraian hendaklah
+15. Walau apa pun apa-apa jua dalam Bahagian ini, sesuatu
 
-### Akta 303.
+<!-- marginal: perceraian. -->
+
+permohonan untuk mendapatkan perceraian hendaklah
+
+<!-- marginal: Akta 303. -->
 
 dibuat mengikut tatacara yang ditetapkan dalam Akta Undang-Undang Keluarga Islam (Wilayah-Wilayah Persekutuan) 1984, dan presiding selanjutnya berkenaan dengannya hendaklah dijalankan mengikut Akta itu.
 
@@ -902,13 +926,17 @@ IV
 
 AM
 
-Tafsiran.
+<!-- marginal: Tafsiran. -->
 
 17. Dalam Bahagian ini, "plaintif" termasuklah pemohon dan "defendan" termasuklah responden.
 
-Percantuman
+<!-- marginal: Percantuman -->
 
-18. (1) Dua orang atau lebih boleh dicantumkan sekali pihak. dalam satu tindakan sebagai plaintif atau defendan dengan kebenaran Mahkamah atau jika—
+18. (1) Dua orang atau lebih boleh dicantumkan sekali
+
+<!-- marginal: pihak. -->
+
+dalam satu tindakan sebagai plaintif atau defendan dengan kebenaran Mahkamah atau jika—
 
 (a) tindakan-tindakan yang berasingan dibawa oleh atau terhadap setiap seorang daripada mereka, mengikut mana-mana yang berkenaan, dan soalan undang-undang atau fakta yang sama akan timbul dalam kesemua tindakan itu; dan
 
@@ -972,9 +1000,13 @@ prosiding belum selesai—
 
 (2) Prosiding terhadap orang yang disebut dalam perenggan (l)(b) hendaklah disifatkan telah dimulakan mulai tarikh penyampaian atau pengetepian itu, mengikut mana-mana yang berkenaan.
 
-Pemberhentian
+<!-- marginal: Pemberhentian -->
 
-22. Dalam hal perkahwinan, kematian atau kebankrapan tindakan. mana-mana pihak—
+22. Dalam hal perkahwinan, kematian atau kebankrapan
+
+<!-- marginal: tindakan. -->
+
+mana-mana pihak—
 
 (a) jika kausa tindakan itu tidak menakat mengikut Hukum Syarak, prosiding itu hendaklah terhenti, kecuali sebagaimana yang diperuntukkan dalam perenggan (c);
 
@@ -982,13 +1014,15 @@ Pemberhentian
 
 (c) dalam hal kematian selepas perbicaraan tetapi sebelum penghakiman diumumkan atau dicatatkan, prosiding itu tidaklah terhenti, dan penghakiman boleh diumumkan atau dicatatkan.
 
-Penurunan
+<!-- marginal: Penurunan -->
 
-23. (1) Dalam hal mana-mana penyerahhakan, kepentingan. pewujudan, perubahan, perpindahan atau penurunan kepentingan, harta pusaka, hakmilik atau tanggungan mana- mana pihak, antara permulaan mana-mana prosiding dengan penghakiman dalamnya, orang yang kepadanya atau padanya kepentingan, harta pusaka, hakmilik, atau tanggungan itu telah diberikan atau turun boleh memohon supaya dia ditambahkan sebagai suatu pihak atau dijadikan suatu pihak bagi menggantikan suatu pihak yang lain, dan plaintif boleh mengikut cara yang sama memohon untuk mendapatkan penambahan atau penggantian sedemikian, jika pihak yang berkenaan ialah defendan.
+23. (1) Dalam hal mana-mana penyerahhakan,
 
-(2) Notts mana-mana permohonan di bawah subseksyen
+<!-- marginal: kepentingan. -->
 
-(1) hendaklah disampaikan kepada semua pihak.
+pewujudan, perubahan, perpindahan atau penurunan kepentingan, harta pusaka, hakmilik atau tanggungan mana- mana pihak, antara permulaan mana-mana prosiding dengan penghakiman dalamnya, orang yang kepadanya atau padanya kepentingan, harta pusaka, hakmilik, atau tanggungan itu telah diberikan atau turun boleh memohon supaya dia ditambahkan sebagai suatu pihak atau dijadikan suatu pihak bagi menggantikan suatu pihak yang lain, dan plaintif boleh mengikut cara yang sama memohon untuk mendapatkan penambahan atau penggantian sedemikian, jika pihak yang berkenaan ialah defendan.
+
+(2) Notts mana-mana permohonan di bawah subseksyen (1) hendaklah disampaikan kepada semua pihak.
 
 <!-- page 23 -->
 
@@ -1042,19 +1076,45 @@ berkeupayaan—
 
 <!-- page 24 -->
 
-Prosiding
+<!-- marginal: Prosiding -->
 
-27. Apa-apa prosiding yang diambil oleh atau terhadap luar aturan. seseorang orang tak berkeupayaan yang tidak menurut Akta ini atau Hukum Syarak hendaklah dibuang dan apa- apa penghakiman dan perintah yang dibuat dalam presiding itu boleh diketepikan.
+27. Apa-apa prosiding yang diambil oleh atau terhadap
 
-Pemecatan
+<!-- marginal: luar aturan. -->
 
-28. (1) Mahkamah boleh dengan alasan yang mencukupi penjaga ad mengikut Hukum Syarak memecat mana-mana penjaga litem. ad litem dan menggantikannya dengan orang lain, iaitu seseorang yang layak dan sesuai dan sanggup bertindak.
+seseorang orang tak berkeupayaan yang tidak menurut Akta ini atau Hukum Syarak hendaklah dibuang dan apa- apa penghakiman dan perintah yang dibuat dalam presiding itu boleh diketepikan.
+
+<!-- marginal: Pemecatan -->
+
+28. (1) Mahkamah boleh dengan alasan yang mencukupi
+
+<!-- marginal: penjaga ad -->
+
+mengikut Hukum Syarak memecat mana-mana penjaga
+
+<!-- marginal: litem. -->
+
+ad litem dan menggantikannya dengan orang lain, iaitu seseorang yang layak dan sesuai dan sanggup bertindak.
 
 (2) Mahkamah boleh melantik seorang daripada pegawainya untuk menjadi seorang penjaga ad litem.
 
-Plaintif
+<!-- marginal: Plaintif -->
 
-29. (1) Seseorang plaintif belum dewasa hendaklah, belum apabila mencapai umur dewasa semasa presiding belum dewasa mencapai selesai, sama ada menarik balik prosiding itu sebelum umur dewasa - mengambil apa-apa langkah dalam prosiding itu atau meneruskan prosiding itu.
+29. (1) Seseorang plaintif belum dewasa hendaklah,
+
+<!-- marginal: belum -->
+
+apabila mencapai umur dewasa semasa presiding belum
+
+<!-- marginal: dewasa -->
+
+<!-- marginal: mencapai -->
+
+selesai, sama ada menarik balik prosiding itu sebelum
+
+<!-- marginal: umur dewasa -->
+
+- mengambil apa-apa langkah dalam prosiding itu atau meneruskan prosiding itu.
 
 (2) Tiada kebenaran untuk menarik balik diperlukan, tetapi Bahagian XIII hendaklah terpakai mengenai perkara itu.
 
@@ -1138,11 +1198,25 @@ maka Mahkamah hendaklah membuat suatu perintah membenarkan pemohon (kemudian dar
 
 (6) Jika Mahkamah tidak berpuas hati sedemikian Mahkamah hendaklah menolak permohonan itu dan tiada rayuan boleh dibuat terhadap penolakan itu.
 
-Orang miskin
+<!-- marginal: Orang miskin -->
 
-32. Orang miskin tidak boleh memberhentikan, tidak boleh menyelesaikan atau mengkompromikan tindakan atau memberhenti- kan, dsb. presiding lain tanpa kebenaran Mahkamah. tanpa kebenaran.
+32. Orang miskin tidak boleh memberhentikan,
 
-Kos.
+<!-- marginal: tidak boleh -->
+
+menyelesaikan atau mengkompromikan tindakan atau
+
+<!-- marginal: memberhenti- -->
+
+<!-- marginal: kan, dsb. -->
+
+presiding lain tanpa kebenaran Mahkamah.
+
+<!-- marginal: tanpa -->
+
+<!-- marginal: kebenaran. -->
+
+<!-- marginal: Kos. -->
 
 33. Melainkan jika diperintahkan selainnya oleh Mahkamah, tiada orang miskin boleh bertanggungan membayar kos kepada mana-mana pihak, atau berhak menerima daripada mana-mana pihak lain apa-apa kos selain perbelanjaan sebenar yang dilakukan dalam perjalanan presiding itu.
 
@@ -1150,7 +1224,7 @@ Kos.
 
 ## PEGUAM SYARIE
 
-Wakalah
+<!-- marginal: Wakalah -->
 
 34. (1) Pelantikan seseorang Peguam Syarie hendaklah dilafazkan oleh orang yang melantiknya, dan diterima oleh Peguam Syarie yang dilantik sedemikian, di hadapan Mahkamah atau Pendaftar.
 
@@ -1238,25 +1312,55 @@ demikian, dan mana-mana orang lain yang diperintahkan oleh Mahkamah untuk berbua
 
 (2) Jika mana-mana plaintif, pemohon atau orang lain itu diwakili oleh seorang Peguam Syarie, alamat Peguam Syarie itu hendaklah menjadi alamat bagi penyampaian.
 
-Cara
+<!-- marginal: Cara -->
 
-41. (1) Tertakluk kepada Bahagian ini, sesuatu saman penyampaian. atau dokumen lain hendaklah disampaikan ke diri, dan hendaklah dilaksanakan dengan menyerahkan saman atau dokumen lain itu, atau dengan mengemukakannya untuk diperiksa dan menyerahkan suatu salinan saman atau dokumen lain itu, kepada orang yang kepadanya saman atau dokumen itu hendak disampaikan.
+41. (1) Tertakluk kepada Bahagian ini, sesuatu saman
+
+<!-- marginal: penyampaian. -->
+
+atau dokumen lain hendaklah disampaikan ke diri, dan hendaklah dilaksanakan dengan menyerahkan saman atau dokumen lain itu, atau dengan mengemukakannya untuk diperiksa dan menyerahkan suatu salinan saman atau dokumen lain itu, kepada orang yang kepadanya saman atau dokumen itu hendak disampaikan.
 
 (2) Bagi maksud subseksyen (1), suatu salinan yang mengandungi meterai Mahkamah dan tandatangan Pendaftar hendaklah disifatkan sebagai suatu saman atau dokumen asal.
 
 (3) Penyampaian sesuatu saman atau dokumen lain hendaklah dilaksanakan oleh pegawai Mahkamah atau mana-mana orang lain.
 
-Ketak-
+<!-- marginal: Ketak- -->
 
-42. Jika orang yang kepadanya sesuatu saman atau terimaan. dokumen lain dikehendaki disampaikan enggan menerima saman atau dokumen itu atau salinannya, saman, dokumen atau salinannya itu bolehlah ditinggalkan berhampiran dengannya dan perhatiannya diarahkan kepada saman, dokumen atau salinannya itu.
+42. Jika orang yang kepadanya sesuatu saman atau
 
-Penyampaian
+<!-- marginal: terimaan. -->
 
-43. Sesuatu saman atau dokumen lain boleh disampaikan kepada kepada Peguam Syarie mana-mana pihak yang telah Peguam memfailkan wakalah mengikut seksyen 34 kecuali Syarie. sebagaimana yang diperuntukkan selainnya oleh Akta ini.
+dokumen lain dikehendaki disampaikan enggan menerima saman atau dokumen itu atau salinannya, saman, dokumen atau salinannya itu bolehlah ditinggalkan berhampiran dengannya dan perhatiannya diarahkan kepada saman, dokumen atau salinannya itu.
 
-Penyampaian
+<!-- marginal: Penyampaian -->
 
-44. Sesuatu saman atau dokumen lain yang diserahkan di alamat di alamat bagi penyampaian mana-mana orang hendaklah bagi penyampaian. disifatkan telah disampaikan kepada orang itu.
+43. Sesuatu saman atau dokumen lain boleh disampaikan
+
+<!-- marginal: kepada -->
+
+kepada Peguam Syarie mana-mana pihak yang telah
+
+<!-- marginal: Peguam -->
+
+memfailkan wakalah mengikut seksyen 34 kecuali
+
+<!-- marginal: Syarie. -->
+
+sebagaimana yang diperuntukkan selainnya oleh Akta ini.
+
+<!-- marginal: Penyampaian -->
+
+44. Sesuatu saman atau dokumen lain yang diserahkan
+
+<!-- marginal: di alamat -->
+
+di alamat bagi penyampaian mana-mana orang hendaklah
+
+<!-- marginal: bagi -->
+
+<!-- marginal: penyampaian. -->
+
+disifatkan telah disampaikan kepada orang itu.
 
 <!-- page 29 -->
 
@@ -1302,9 +1406,13 @@ waktu siang atau malam.
 
 (4) Penyampaian kepada mana-mana anggota Angkatan Tentera hendaklah dibuat kepada pegawai pemerintah atau adjutan unitnya, yang hendaklah menyebabkan saman atau dokumen lain itu diberikan kepada anggota itu.
 
-Penyampaian
+<!-- marginal: Penyampaian -->
 
-48. (1) Jika Mahkamah berpuas hati bahawa atas apa- ganti. apa alasan yang mencukupi saman atau dokumen lain itu tidak dapat disampaikan dengan cara biasa, Mahkamah boleh memerintahkan supaya saman atau dokumen lain itu disampaikan dengan cara menampalkan suatu salinannya di papan kenyataan Mahkamah dan juga di suatu tempat yang mudah dilihat di bangunan tempat orang yang kepadanya saman atau dokumen itu hendak disampaikan terakhir diketahui tinggal, atau mengikut apa-apa cara lain yang difikirkan patut oleh Mahkamah.
+48. (1) Jika Mahkamah berpuas hati bahawa atas apa-
+
+<!-- marginal: ganti. -->
+
+apa alasan yang mencukupi saman atau dokumen lain itu tidak dapat disampaikan dengan cara biasa, Mahkamah boleh memerintahkan supaya saman atau dokumen lain itu disampaikan dengan cara menampalkan suatu salinannya di papan kenyataan Mahkamah dan juga di suatu tempat yang mudah dilihat di bangunan tempat orang yang kepadanya saman atau dokumen itu hendak disampaikan terakhir diketahui tinggal, atau mengikut apa-apa cara lain yang difikirkan patut oleh Mahkamah.
 
 (2) Mahkamah boleh juga, dalam mana-mana hal yang termasuk dalam subseksyen (1), membuat perintah supaya penyampaian dibuat melalui iklan dalam mana-mana akhbar tempatan sebagaimana yang difikirkan patut oleh Mahkamah.
 
@@ -1378,9 +1486,13 @@ mengeluarkan waran untuk menangkapnya—
 
 ## PENYAMPAIAN DI LUAR BIDANG KUASA
 
-Bila
+<!-- marginal: Bila -->
 
-52. (1) Mahkamah boleh memerintahkan penyampaian dibenarkan sesuatu saman atau permohonan di luar bidang kuasa—
+52. (1) Mahkamah boleh memerintahkan penyampaian
+
+<!-- marginal: dibenarkan -->
+
+sesuatu saman atau permohonan di luar bidang kuasa—
 
 (a) jika keseluruhan hal perkara tindakan itu adalah berhubungan dengan harta tak alih yang terletak di dalam Wilayah-Wilayah Persekutuan;
 
@@ -1392,13 +1504,35 @@ Bila
 
 (2) Tertakluk kepada seksyen 54, apa-apa perintah yang memberikan kebenaran untuk melaksanakan penyampaian di luar bidang kuasa hendaklah mengarahkan cara penyampaian itu hendaklah dilaksanakan dan bagaimana penyampaian itu boleh dibuktikan.
 
-Bentuk
+<!-- marginal: Bentuk -->
 
-53. Suatu perintah bagi penyampaian di luar bidang kuasa perintah. hendaklah menetapkan hari kehadiran orang yang kepadanya penyampaian hendak dibuat dan Mahkamah hendaklah mengambil kira dan boleh menghendaki keterangan tentang cara perhubungan dan pengangkutan.
+53. Suatu perintah bagi penyampaian di luar bidang kuasa
 
-Cara
+<!-- marginal: perintah. -->
 
-54. (1) Apa-apa saman atau permohonan bagi penyampaian penyampaian di luar bidang kuasa di dalam Malaysia di luar bidang kuasa bolehlah dihantar kepada mana-mana Mahkamah yang di dalam mempunyai bidang kuasa di dalam kawasan tempatan di Malaysia mana orang yang kepadanya saman atau dokumen itu hendak disampaikan dikatakan berada.
+hendaklah menetapkan hari kehadiran orang yang kepadanya penyampaian hendak dibuat dan Mahkamah hendaklah mengambil kira dan boleh menghendaki keterangan tentang cara perhubungan dan pengangkutan.
+
+<!-- marginal: Cara -->
+
+54. (1) Apa-apa saman atau permohonan bagi
+
+<!-- marginal: penyampaian -->
+
+penyampaian di luar bidang kuasa di dalam Malaysia
+
+<!-- marginal: di luar -->
+
+<!-- marginal: bidang kuasa -->
+
+bolehlah dihantar kepada mana-mana Mahkamah yang
+
+<!-- marginal: di dalam -->
+
+mempunyai bidang kuasa di dalam kawasan tempatan di
+
+<!-- marginal: Malaysia -->
+
+mana orang yang kepadanya saman atau dokumen itu hendak disampaikan dikatakan berada.
 
 <!-- page 33 -->
 
@@ -1544,13 +1678,21 @@ bertentangan dalam hal perkara yang dipertikaikan itu
 
 maka Mahkamah boleh memutuskan secara terus soalan yang menjadi isu antara pihak-pihak menuntut itu dan membuat suatu perintah dengan sewajarnya atas apa-apa terma yang difikirkannya adil.
 
-Kuasa lain.
+<!-- marginal: Kuasa lain. -->
 
 61. Tertakluk kepada Bahagian ini, Mahkamah boleh dalam atau bagi maksud mana-mana presiding interplider membuat apa-apa perintah tentang kos atau apa-apa perkara lain sebagaimana yang difikirkannya adil.
 
-Perbicaraan
+<!-- marginal: Perbicaraan -->
 
-62. (1) Bahagian XV hendaklah, dengan apa-apa isu ubahsuaian yang perlu, terpakai berhubungan dengan isu interplider. interplider sebagaimana Bahagian itu terpakai berhubungan dengan apa-apa kausa atau perkara lain.
+62. (1) Bahagian XV hendaklah, dengan apa-apa
+
+<!-- marginal: isu -->
+
+ubahsuaian yang perlu, terpakai berhubungan dengan isu
+
+<!-- marginal: interplider. -->
+
+interplider sebagaimana Bahagian itu terpakai berhubungan dengan apa-apa kausa atau perkara lain.
 
 (2) Mahkamah yang membicarakan isu interplider boleh memberikan apa-apa penghakiman atau membuat apa- apa perintah yang akan dapat dengan muktamad membereskan segala soalan yang berbangkit dalam presiding interplider itu.
 
@@ -1606,9 +1748,13 @@ tuntutan dalam tindakan itu boleh—
 
 <!-- page 38 -->
 
-Bentuk
+<!-- marginal: Bentuk -->
 
-65. (1) Tiap-tiap pembelaan hendaklah ditandatangani pembelaan. oleh defendan atau Peguam Syarienya dan hendaklah—
+65. (1) Tiap-tiap pembelaan hendaklah ditandatangani
+
+<!-- marginal: pembelaan. -->
+
+oleh defendan atau Peguam Syarienya dan hendaklah—
 
 (a) sama ada mengaku atau menafikan tiap-tiap pengataan fakta yang material dalam pernyataan tuntutan;
 
@@ -1618,21 +1764,41 @@ Bentuk
 
 (2) Penafian di bawah perenggan ( 1 )( a) tidak boleh berbentuk mengelak tetapi hendaklah menjawab perkara isi.
 
-Tuntutan
+<!-- marginal: Tuntutan -->
 
-66. (1) Tiap-tiap tuntutan balas hendaklah mengandungi balas. perkara dan butir-butir yang sama seperti pernyataan tuntutan dan hendaklah ditandatangani oleh defendan atau Peguam Syarienya.
+66. (1) Tiap-tiap tuntutan balas hendaklah mengandungi
+
+<!-- marginal: balas. -->
+
+perkara dan butir-butir yang sama seperti pernyataan tuntutan dan hendaklah ditandatangani oleh defendan atau Peguam Syarienya.
 
 (2) Tuntutan balas tidak boleh dibuat terhadap mana- mana orang yang pada ketika itu bukan pihak dalam tindakan itu, tetapi jika suatu tindakan balas dibuat, suatu perintah penyatuan boleh dibuat oleh Mahkamah.
 
-Pembelaan
+<!-- marginal: Pembelaan -->
 
-67. (1) Jika mana-mana defendan membuat tuntutan balas, terhadap plaintif hendaklah, jika dia berhasrat hendak membuat tuntutan pembelaan terhadap tuntutan balas itu, memfailkan dan balas. menyebabkan disampaikan kepada defendan suatu pembelaan kepada tuntutan balas itu dalam apa-apa tempoh masa yang diarahkan oleh Mahkamah.
+67. (1) Jika mana-mana defendan membuat tuntutan balas,
+
+<!-- marginal: terhadap -->
+
+plaintif hendaklah, jika dia berhasrat hendak membuat
+
+<!-- marginal: tuntutan -->
+
+pembelaan terhadap tuntutan balas itu, memfailkan dan
+
+<!-- marginal: balas. -->
+
+menyebabkan disampaikan kepada defendan suatu pembelaan kepada tuntutan balas itu dalam apa-apa tempoh masa yang diarahkan oleh Mahkamah.
 
 (2) Jika plaintif tidak mematuhi subseksyen (1), seksyen 16 hendaklah terpakai seolah-olah plaintif ialah seorang defendan.
 
-Pembelaan
+<!-- marginal: Pembelaan -->
 
-68. Jika suatu pembelaan tawaran sebelum tindakan tawaran. dibangkitkan maka defendan hendaklah, apabila memfailkan pembelaannya, membayar ke dalam Mahkamah amaun yang dikatakan telah ditawarkan itu.
+68. Jika suatu pembelaan tawaran sebelum tindakan
+
+<!-- marginal: tawaran. -->
+
+dibangkitkan maka defendan hendaklah, apabila memfailkan pembelaannya, membayar ke dalam Mahkamah amaun yang dikatakan telah ditawarkan itu.
 
 <!-- page 39 -->
 
@@ -1686,33 +1852,59 @@ bahagiannya dan boleh juga membayar ke dalam Mahkamah sejumlah wang berkenaan de
 
 <!-- page 40 -->
 
-Pembayaran
+<!-- marginal: Pembayaran -->
 
-73. Tertakluk kepada seksyen 26 dan 78, jika pembayaran daripada ke dalam Mahkamah adalah sama dengan amaun yang Mahkamah. dituntut atau plaintif memilih untuk menerimanya sebagai penyelesaian keseluruhan tuntutannya, amaun itu hendaklah dibayar daripada Mahkamah kepadanya, dan dia boleh mendapatkan penghakiman bagi kesemua kos yang sebenarnya dilakukan sebelum dia menerima notis pembayaran ke dalam Mahkamah itu, dan kos untuk mencatatkan penghakiman bagi kos itu, melainkan jika dibayar tanpa perintah.
+73. Tertakluk kepada seksyen 26 dan 78, jika pembayaran
 
-Penyelesaian
+<!-- marginal: daripada -->
 
-74. Jika pembayaran yang disebut dalam seksyen 73 sebahagian. adalah berkenaan dengan sebahagian daripada tuntutannya, plaintif boleh meneruskan tindakan berkenaan dengan bahagian yang lain itu.
+ke dalam Mahkamah adalah sama dengan amaun yang
 
-Perintah bagi
+<!-- marginal: Mahkamah. -->
 
-75. Kecuali sebagaimana yang diperuntukkan selainnya pembayaran dalam seksyen 73 dan 74, wang yang dibayar ke dalam daripada Mahkamah. Mahkamah tidak boleh dibayar daripada Mahkamah tanpa perintah Mahkamah.
+dituntut atau plaintif memilih untuk menerimanya sebagai penyelesaian keseluruhan tuntutannya, amaun itu hendaklah dibayar daripada Mahkamah kepadanya, dan dia boleh mendapatkan penghakiman bagi kesemua kos yang sebenarnya dilakukan sebelum dia menerima notis pembayaran ke dalam Mahkamah itu, dan kos untuk mencatatkan penghakiman bagi kos itu, melainkan jika dibayar tanpa perintah.
 
-Kos.
+<!-- marginal: Penyelesaian -->
+
+74. Jika pembayaran yang disebut dalam seksyen 73
+
+<!-- marginal: sebahagian. -->
+
+adalah berkenaan dengan sebahagian daripada tuntutannya, plaintif boleh meneruskan tindakan berkenaan dengan bahagian yang lain itu.
+
+<!-- marginal: Perintah bagi -->
+
+75. Kecuali sebagaimana yang diperuntukkan selainnya
+
+<!-- marginal: pembayaran -->
+
+dalam seksyen 73 dan 74, wang yang dibayar ke dalam
+
+<!-- marginal: daripada -->
+
+<!-- marginal: Mahkamah. -->
+
+Mahkamah tidak boleh dibayar daripada Mahkamah tanpa perintah Mahkamah.
+
+<!-- marginal: Kos. -->
 
 76. Jika wang telah dibayar ke dalam Mahkamah dan plaintif tidak mendapat penghakiman bagi apa-apa amaun yang lebih besar, kos yang dilakukan oleh defendan selepas pembayaran ke dalam Mahkamah itu hendaklah dibayar oleh plaintif.
 
-Relief lain.
+<!-- marginal: Relief lain. -->
 
 77. Jika plaintif memohon relief selain daripada pembayaran wang, dia bolehlah meneruskan tindakannya untuk mendapatkan relief yang lain itu walaupun apa-apa wang telah dibayar daripada Mahkamah kepadanya.
 
-Tawaran.
+<!-- marginal: Tawaran. -->
 
 78. Jika pembayaran ke dalam Mahkamah dibuat dengan suatu pembelaan tawaran dan pembelaan itu disetujuterima, defendan adalah berhak untuk mendapatkan kos tindakan itu sepenuhnya dan wang di dalam Mahkamah tidak boleh dibayar daripada Mahkamah tanpa perintah Mahkamah.
 
-Tuntutan
+<!-- marginal: Tuntutan -->
 
-79. Bahagian ini hendaklah, dengan apa-apa ubahsuaian balas. yang perlu, terpakai bagi tuntutan balas.
+79. Bahagian ini hendaklah, dengan apa-apa ubahsuaian
+
+<!-- marginal: balas. -->
+
+yang perlu, terpakai bagi tuntutan balas.
 
 <!-- page 41 -->
 
@@ -1766,23 +1958,43 @@ kehendaknya sendiri atau atas permohonan mana-mana pihak, dan atas apa-apa terma
 
 <!-- page 42 -->
 
-Cara
+<!-- marginal: Cara -->
 
-83. Sesuatu pindaan hendaklah dibuat dengan memfailkan meminda. suatu salinan bersih dokumen yang dipinda, yang hendaklah menunjukkan pindaan yang telah dibuat, dan menyampaikan suatu salinan dokumen yang dipinda itu kepada pihak atau pihak-pihak yang satu lagi:
+83. Sesuatu pindaan hendaklah dibuat dengan memfailkan
+
+<!-- marginal: meminda. -->
+
+suatu salinan bersih dokumen yang dipinda, yang hendaklah menunjukkan pindaan yang telah dibuat, dan menyampaikan suatu salinan dokumen yang dipinda itu kepada pihak atau pihak-pihak yang satu lagi:
 
 Dengan syarat bahawa jika pindaan itu diperintahkan semasa perbicaraan atau pendengaran mana-mana tindakan atau presiding, atau jika semua pihak nadir semasa pindaan itu dibuat, Mahkamah boleh mengikut budi bicaranya meminda dokumen dalam fail Mahkamah dan penyampaian kepada pihak-pihak tidaklah perlu.
 
-Keciciran
+<!-- marginal: Keciciran -->
 
-84. Kesilapan tulis atau ralat yang berbangkit daripada atau keciciran atau peninggalan tak sengaja boleh pada bila- peninggalan. bila masa dibetulkan oleh Mahkamah tanpa formaliti.
+84. Kesilapan tulis atau ralat yang berbangkit daripada
+
+<!-- marginal: atau -->
+
+keciciran atau peninggalan tak sengaja boleh pada bila-
+
+<!-- marginal: peninggalan. -->
+
+bila masa dibetulkan oleh Mahkamah tanpa formaliti.
 
 ## BAHAGIAN XI
 
 ## PENZAHIRAN
 
-Penzahiran
+<!-- marginal: Penzahiran -->
 
-85. (1) Mahkamah boleh, jika perlu dan atas apa-apa dokumen dan terma yang difikirkannya adil, memerintahkan mana-mana fakta. pihak—
+85. (1) Mahkamah boleh, jika perlu dan atas apa-apa
+
+<!-- marginal: dokumen dan -->
+
+terma yang difikirkannya adil, memerintahkan mana-mana
+
+<!-- marginal: fakta. -->
+
+pihak—
 
 (a) menyatakan dengan bersumpah, secara lisan atau dengan afidavit apakah dokumen yang ada atau pernah ada dalam milikannya atau kuasanya berhubungan dengan perkara yang berkenaan, atau sama ada dia ada atau pernah ada dalam milikannya atau kuasanya apa-apa dokumen atau jenis dokumen tertentu, dan, dalam mana-mana hal itu, tempat tersimpannya mana-mana dokumen yang dahulunya berada dalam milikannya atau kuasanya, tetapi sekarang tidak lagi berada dalam milikannya atau kuasanya; atau
 
@@ -1872,17 +2084,93 @@ satu Mahkamah yang lain, Mahkamah yang daripadanya presiding itu dipindahkan hen
 
 dipindahkan boleh, atas kehendaknya sendiri atau atas permohonan mana-mana pihak, memberikan apa-apa arahan tentang perjalanan lanjut presiding itu sebagaimana yang difikirkannya patut.
 
-Kos
+<!-- marginal: Kos -->
 
-91. Jika suatu perintah bagi pemindahan dibuat atas mengenai permohonan sesuatu pihak, maka kos yang dilakukan pemindahan. hendaklah menurut budi bicara Hakim.
+91. Jika suatu perintah bagi pemindahan dibuat atas
 
-92. (1) Jika melalui suatu perintah Mahkamah Tinggi Tatacara mengenai Syariah mana-mana presiding diperintahkan supaya pemindahan daripada dipindahkan kepada Mahkamah Rendah Syariah, atau Mahkamah sesuatu isu diarahkan supaya dibicarakan di Mahkamah Tinggi Syariah itu, Pendaftar hendaklah, apabila menerima perintah atau kepada Mahkamah salinan diperakui bagi perintah itu, mencatatkan presiding Rendah itu dalam Daftar Kes yang berkenaan, dan memberikan Syariah. notis dalam Borang MS 17, sekurang-kurangnya empat belas hari sebelum hari kehadiran, kepada tiap-tiap pihak supaya hadir di hadapan Mahkamah untuk mendapatkan apa-apa arahan tentang perjalanan lanjut presiding itu.
+<!-- marginal: mengenai -->
+
+permohonan sesuatu pihak, maka kos yang dilakukan
+
+<!-- marginal: pemindahan. -->
+
+hendaklah menurut budi bicara Hakim.
+
+92. (1) Jika melalui suatu perintah Mahkamah Tinggi
+
+<!-- marginal: Tatacara -->
+
+<!-- marginal: mengenai -->
+
+Syariah mana-mana presiding diperintahkan supaya
+
+<!-- marginal: pemindahan -->
+
+<!-- marginal: daripada -->
+
+dipindahkan kepada Mahkamah Rendah Syariah, atau
+
+<!-- marginal: Mahkamah -->
+
+sesuatu isu diarahkan supaya dibicarakan di Mahkamah
+
+<!-- marginal: Tinggi -->
+
+<!-- marginal: Syariah -->
+
+itu, Pendaftar hendaklah, apabila menerima perintah atau
+
+<!-- marginal: kepada -->
+
+<!-- marginal: Mahkamah -->
+
+salinan diperakui bagi perintah itu, mencatatkan presiding
+
+<!-- marginal: Rendah -->
+
+itu dalam Daftar Kes yang berkenaan, dan memberikan
+
+<!-- marginal: Syariah. -->
+
+notis dalam Borang MS 17, sekurang-kurangnya empat belas hari sebelum hari kehadiran, kepada tiap-tiap pihak supaya hadir di hadapan Mahkamah untuk mendapatkan apa-apa arahan tentang perjalanan lanjut presiding itu.
 
 (2) Tertakluk kepada apa-apa arahan yang terkandung dalam perintah Mahkamah Tinggi Syariah, perbicaraan itu hendaklah diteruskan seolah-olah presiding itu telah dimulakan di Mahkamah Rendah Syariah.
 
-Tatacara
+<!-- marginal: Tatacara -->
 
-93. Jika suatu perintah dibuat oleh Mahkamah Tinggi mengenai Syariah bagi pemindahan mana-mana prosiding daripada pemindahan daripada Mahkamah Rendah Syariah kepada Mahkamah Tinggi Mahkamah Rendah Syariah, maka Pendaftar Mahkamah Rendah Syariah Syariah hendaklah menghantar kepada Pendaftar Mahkamah Tinggi kepada Mahkamah Syariah fail prosiding itu, segala dokumen, ekshibit dan Tinggi Syariah. salinan diperakui bagi nota keterangan, jika ada, dan Pendaftar hendaklah memberikan notis pemindahan itu dalam Borang MS 18 kepada tiap-tiap pihak dalam tindakan itu.
+93. Jika suatu perintah dibuat oleh Mahkamah Tinggi
+
+<!-- marginal: mengenai -->
+
+Syariah bagi pemindahan mana-mana prosiding daripada
+
+<!-- marginal: pemindahan -->
+
+<!-- marginal: daripada -->
+
+Mahkamah Rendah Syariah kepada Mahkamah Tinggi
+
+<!-- marginal: Mahkamah -->
+
+<!-- marginal: Rendah -->
+
+Syariah, maka Pendaftar Mahkamah Rendah Syariah
+
+<!-- marginal: Syariah -->
+
+hendaklah menghantar kepada Pendaftar Mahkamah Tinggi
+
+<!-- marginal: kepada -->
+
+<!-- marginal: Mahkamah -->
+
+Syariah fail prosiding itu, segala dokumen, ekshibit dan
+
+<!-- marginal: Tinggi -->
+
+<!-- marginal: Syariah. -->
+
+salinan diperakui bagi nota keterangan, jika ada, dan Pendaftar hendaklah memberikan notis pemindahan itu dalam Borang MS 18 kepada tiap-tiap pihak dalam tindakan itu.
 
 <!-- page 45 -->
 
@@ -1940,11 +2228,19 @@ tindakan yang pada matannya adalah sama melainkan jika Mahkamah telah memberikan
 
 <!-- page 46 -->
 
-Penarikan
+<!-- marginal: Penarikan -->
 
-98. Defendan boleh pada bila-bila masa dengan balik memberikan notis kepada plaintif menarik balik pembelaan. pembelaannya atau sebahagian daripadanya dan hendaklah, dalam keadaan itu, dihalang daripada membela presiding itu atau mana-mana bahagian daripadanya, mengikut mana- mana yang berkenaan.
+98. Defendan boleh pada bila-bila masa dengan
 
-Sulh.
+<!-- marginal: balik -->
+
+memberikan notis kepada plaintif menarik balik
+
+<!-- marginal: pembelaan. -->
+
+pembelaannya atau sebahagian daripadanya dan hendaklah, dalam keadaan itu, dihalang daripada membela presiding itu atau mana-mana bahagian daripadanya, mengikut mana- mana yang berkenaan.
+
+<!-- marginal: Sulh. -->
 
 99. Pihak-pihak dalam apa-apa prosiding boleh, pada mana-mana peringkat presiding itu, mengadakan sulh untuk menyelesaikan pertikaian mereka mengikut apa-apa kaedah yang ditetapkan atau, jika tiada kaedah sedemikian, mengikut Hukum Syarak.
 
@@ -1956,21 +2252,53 @@ Sulh.
 
 AM
 
-Keterangan
+<!-- marginal: Keterangan -->
 
-100. Tertakluk kepada Akta ini dan Akta Keterangan hendaklah Mahkamah Syariah (Wilayah-Wilayah Persekutuan) 1997, diambil secara lisan. apa-apa fakta yang dikehendaki dibuktikan pada perbicaraan Akta 561. apa-apa presiding melalui keterangan pihak-pihak atau saksi-saksi hendaklah dibuktikan dengan memeriksa pihak- pihak atau saksi-saksi itu secara lisan di dalam Mahkamah terbuka.
+100. Tertakluk kepada Akta ini dan Akta Keterangan
 
-Keterangan
+<!-- marginal: hendaklah -->
 
-101. Mahkamah boleh, pada masa atau sebelum melalui perbicaraan apa-apa presiding, memerintahkan supaya afidavit. afidavit mana-mana saksi dibacakan pada perbicaraan itu jika dalam hal keadaan kes itu adalah difikirkannya munasabah untuk memerintahkan sedemikian.
+Mahkamah Syariah (Wilayah-Wilayah Persekutuan) 1997,
+
+<!-- marginal: diambil -->
+
+<!-- marginal: secara lisan. -->
+
+apa-apa fakta yang dikehendaki dibuktikan pada perbicaraan
+
+<!-- marginal: Akta 561. -->
+
+apa-apa presiding melalui keterangan pihak-pihak atau saksi-saksi hendaklah dibuktikan dengan memeriksa pihak- pihak atau saksi-saksi itu secara lisan di dalam Mahkamah terbuka.
+
+<!-- marginal: Keterangan -->
+
+101. Mahkamah boleh, pada masa atau sebelum
+
+<!-- marginal: melalui -->
+
+perbicaraan apa-apa presiding, memerintahkan supaya
+
+<!-- marginal: afidavit. -->
+
+afidavit mana-mana saksi dibacakan pada perbicaraan itu jika dalam hal keadaan kes itu adalah difikirkannya munasabah untuk memerintahkan sedemikian.
 
 ## BAB 2
 
 ## SEPINA
 
-Permintaan
+<!-- marginal: Permintaan -->
 
-102. (1) Sebelum suatu sepina dikeluarkan suatu bagi permintaan dalam Borang MS 20 bagi pengeluaran sepina pengeluaran sepina. itu hendaklah difailkan di Mahkamah; dan permintaan
+102. (1) Sebelum suatu sepina dikeluarkan suatu
+
+<!-- marginal: bagi -->
+
+permintaan dalam Borang MS 20 bagi pengeluaran sepina
+
+<!-- marginal: pengeluaran -->
+
+<!-- marginal: sepina. -->
+
+itu hendaklah difailkan di Mahkamah; dan permintaan
 
 <!-- page 47 -->
 
@@ -2030,31 +2358,51 @@ Mahkamah, sepina hendaklah disampaikan ke diri dan penyampaian itu tidaklah sah 
 
 <!-- page 48 -->
 
-Jangka masa
+<!-- marginal: Jangka masa -->
 
-107. Sesuatu sepina akan terus berkuat kuasa sehinggalah sepina. tamat pendengaran yang menghendaki kehadiran saksi itu.
+107. Sesuatu sepina akan terus berkuat kuasa sehinggalah
 
-Rekod
+<!-- marginal: sepina. -->
 
-108. (1) Seseorang pegawai Mahkamah tidak boleh Mahkamah. dikehendaki melalui sepina untuk mengemukakan rekod Mahkamah,
+tamat pendengaran yang menghendaki kehadiran saksi itu.
+
+<!-- marginal: Rekod -->
+
+108. (1) Seseorang pegawai Mahkamah tidak boleh
+
+<!-- marginal: Mahkamah. -->
+
+dikehendaki melalui sepina untuk mengemukakan rekod Mahkamah,
 
 (2) Jika salinan asal mana-mana rekod Mahkamah atau mana-mana dokumen yang difailkan di Mahkamah itu dikehendaki kerana apa-apa sebab khas, suatu permintaan bagi pengemukaannya bolehlah, atas permohonan pihak yang menghendakinya, dialamatkan oleh Pendaftar kepada Mahkamah itu.
 
 (3) Tiada tanda boleh diletakkan pada mana-mana rekod atau dokumen yang dikemukakan di bawah seksyen ini,
 
-Kehadiran
+<!-- marginal: Kehadiran -->
 
-109. (1) Sesuatu permohonan untuk mendapat suatu banduan perintah supaya seseorang yang dikurung di dalam penjara sebagai saksi atau pihak. dikemukakan di hadapan Mahkamah boleh dibuat kepada Mahkamah secara ex parte melalui notis dalam Borang MS 24 dan disokong dengan afidavit.
+109. (1) Sesuatu permohonan untuk mendapat suatu
+
+<!-- marginal: banduan -->
+
+perintah supaya seseorang yang dikurung di dalam penjara
+
+<!-- marginal: sebagai saksi -->
+
+<!-- marginal: atau pihak. -->
+
+dikemukakan di hadapan Mahkamah boleh dibuat kepada Mahkamah secara ex parte melalui notis dalam Borang MS 24 dan disokong dengan afidavit.
 
 (2) Melainkan jika diperintahkan selainnya oleh Mahkamah, kos membawa saksi dalam jagaan selamat dari tempat tahanan ke Mahkamah dan balik hendaklah mula-mula sekali dibayar oleh pihak yang atas permohonannya perintah itu dikeluarkan dan hendaklah menjadi kos dalam kausa.
 
-(3) Suatu perintah oleh Mahkamah supaya orang yang sedemikian dikemukakan hendaklah dalam Borang MS
+(3) Suatu perintah oleh Mahkamah supaya orang yang sedemikian dikemukakan hendaklah dalam Borang MS 25.
 
-25.
+<!-- marginal: Penawaran -->
 
-Penawaran
+110. Seseorang saksi tidak boleh dipaksa hadir berdasarkan
 
-110. Seseorang saksi tidak boleh dipaksa hadir berdasarkan perbelanjaan. suatu sepina melainkan jika sejumlah wang yang munasabah telah ditawarkan kepadanya untuk menampung perbelanjaannya pergi ke Mahkamah, berada di Mahkamah dan balik dari Mahkamah.
+<!-- marginal: perbelanjaan. -->
+
+suatu sepina melainkan jika sejumlah wang yang munasabah telah ditawarkan kepadanya untuk menampung perbelanjaannya pergi ke Mahkamah, berada di Mahkamah dan balik dari Mahkamah.
 
 <!-- page 49 -->
 
@@ -2122,11 +2470,15 @@ dilampirkan pada afidavit itu sebagai ekshibit.
 
 <!-- page 50 -->
 
-Menolak
+<!-- marginal: Menolak -->
 
-115. Mahkamah boleh mengikut budi bicaranya menolak afidavit. mana-mana afidavit yang kandungannya sukar dibaca atau difahami, atau yang mengandungi apa-apa tulisan antara baris, pengubahan atau pemadaman atau apa-apa kecacatan bentuk yang lain.
+115. Mahkamah boleh mengikut budi bicaranya menolak
 
-Pindaan.
+<!-- marginal: afidavit. -->
+
+mana-mana afidavit yang kandungannya sukar dibaca atau difahami, atau yang mengandungi apa-apa tulisan antara baris, pengubahan atau pemadaman atau apa-apa kecacatan bentuk yang lain.
+
+<!-- marginal: Pindaan. -->
 
 116. (1) Sesuatu afidavit yang telah difailkan tidak boleh dipinda kecuali bagi maksud membetulkan apa-apa kecacatan bentuk atau kesilapan tulis.
 
@@ -2136,15 +2488,23 @@ Pindaan.
 
 (3) Suatu afidavit tambahan boleh difailkan sebelum perbicaraan.
 
-Memfailkan
+<!-- marginal: Memfailkan -->
 
-117. (1) Tiada afidavit boleh difailkan selepas afidavit. perbicaraan dimulakan kecuali dengan kebenaran Mahkamah.
+117. (1) Tiada afidavit boleh difailkan selepas
+
+<!-- marginal: afidavit. -->
+
+perbicaraan dimulakan kecuali dengan kebenaran Mahkamah.
 
 (2) Tiada rayuan boleh dibuat terhadap keengganan Mahkamah untuk memberikan kebenaran di bawah subseksyen (1), kecuali dalam suatu rayuan terhadap keputusan kes pada keseluruhannya.
 
-Pemeriksaan
+<!-- marginal: Pemeriksaan -->
 
-118. (1) Mana-mana pihak yang berhasrat hendak balas. mempertikaikan fakta yang dideposkan dalam suatu afidavit boleh menyampaikan kepada pihak yang memfailkan afidavit itu notis tentang hasrat untuk memeriksa balas deponen itu, dan sesudah itu, jika deponen itu tidak dikemukakan bagi pemeriksaan balas, Mahkamah hendaklah, kecuali dalam hal keadaan khas, menolak atau tidak mengambil kira afidavit itu.
+118. (1) Mana-mana pihak yang berhasrat hendak
+
+<!-- marginal: balas. -->
+
+mempertikaikan fakta yang dideposkan dalam suatu afidavit boleh menyampaikan kepada pihak yang memfailkan afidavit itu notis tentang hasrat untuk memeriksa balas deponen itu, dan sesudah itu, jika deponen itu tidak dikemukakan bagi pemeriksaan balas, Mahkamah hendaklah, kecuali dalam hal keadaan khas, menolak atau tidak mengambil kira afidavit itu.
 
 (2) Mahkamah boleh atas kehendaknya sendiri menghendaki kehadiran mana-mana deponen untuk diperiksa mengenai afidavitnya dan, jika dia tidak hadir, boleh menolak atau tidak mengambil kira afidavit itu.
 
@@ -2196,21 +2556,37 @@ untuk pendengaran —
 
 (4) Mahkamah boleh mengikut budi bicaranya dalam mana-mana hal yang dinyatakan dalam subseksyen (1) atau (3) memerintahkan penangguhan.
 
-Tuntutan
+<!-- marginal: Tuntutan -->
 
-122. Penggantungan, penarikan balik, pembatalan atau balas. pembuangan tuntutan plaintif tidak boleh menghalang suatu tuntutan balas didengar dan diputuskan.
+122. Penggantungan, penarikan balik, pembatalan atau
 
-Tuntutan
+<!-- marginal: balas. -->
 
-123. Jika penghakiman diberikan bagi sejumlah wang bersama. atas tuntutan dan tuntutan balas kedua-duanya, Mahkamah boleh menolak satu daripada yang satu lagi dan memberikan penghakiman bagi bakinya sahaja tetapi tanpa menjejaskan kuasa Mahkamah untuk membuat apa-apa perintah tentang kos sebagaimana yang difikirkannya adil.
+pembuangan tuntutan plaintif tidak boleh menghalang suatu tuntutan balas didengar dan diputuskan.
 
-Nota
+<!-- marginal: Tuntutan -->
 
-124. Mahkamah hendaklah merekodkan keterangan yang keterangan diberikan dan, setakat yang didapati perlu, penghujahan undang-undang yang dibuat, termasuk apa-apa bantahan terhadap keterangan, dan boleh merekodkan apa-apa pemerhatian tentang tingkah laku saksi dan perkara material yang lain.
+123. Jika penghakiman diberikan bagi sejumlah wang
 
-Dokumen atau
+<!-- marginal: bersama. -->
 
-125. (1) Dokumen atau ekshibit lain yang dikemukakan ekshibit. sebagai keterangan dan diterima hendaklah ditanda dan, melainkan jika Mahkamah memerintahkan selainnya, dokumen atau ekshibit itu atau salinan dokumen atau ekshibit itu hendaklah disimpan di dalam Mahkamah sementara menanti presiding itu berakhir dan sehingga habis tempoh masa untuk rayuan.
+atas tuntutan dan tuntutan balas kedua-duanya, Mahkamah boleh menolak satu daripada yang satu lagi dan memberikan penghakiman bagi bakinya sahaja tetapi tanpa menjejaskan kuasa Mahkamah untuk membuat apa-apa perintah tentang kos sebagaimana yang difikirkannya adil.
+
+<!-- marginal: Nota -->
+
+124. Mahkamah hendaklah merekodkan keterangan yang
+
+<!-- marginal: keterangan -->
+
+diberikan dan, setakat yang didapati perlu, penghujahan undang-undang yang dibuat, termasuk apa-apa bantahan terhadap keterangan, dan boleh merekodkan apa-apa pemerhatian tentang tingkah laku saksi dan perkara material yang lain.
+
+<!-- marginal: Dokumen atau -->
+
+125. (1) Dokumen atau ekshibit lain yang dikemukakan
+
+<!-- marginal: ekshibit. -->
+
+sebagai keterangan dan diterima hendaklah ditanda dan, melainkan jika Mahkamah memerintahkan selainnya, dokumen atau ekshibit itu atau salinan dokumen atau ekshibit itu hendaklah disimpan di dalam Mahkamah sementara menanti presiding itu berakhir dan sehingga habis tempoh masa untuk rayuan.
 
 (2) Bagi maksud pengenalpastian, hendaklah juga ditanda sesuatu dokumen atau ekshibit lain yang dikemukakan sebagai keterangan tetapi telah ditolak.
 
@@ -2252,19 +2628,31 @@ Dokumen atau
 
 (b) mengarahkan plaintif mengangkat sumpah mengakui kebenaran tuntutannya, dan jika plaintif enggan mengangkat sumpah sedemikian, Mahkamah hendaklah membuang kesnya.
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-127. Demi kepentingan keadilan, Mahkamah boleh, pada Mahkamah. mana-mana peringkat presiding, memanggil mana-mana pihak untuk mengemukakan keterangan dan boleh memeriksa mana-mana tempat atau barang.
+127. Demi kepentingan keadilan, Mahkamah boleh, pada
 
-Perbicaraan
+<!-- marginal: Mahkamah. -->
 
-128. (1) Jika seseorang Hakim telah memulakan belum perbicaraan mana-mana prosiding dan kerana apa-apa berakhir. sebab tidak dapat menamatkan perbicaraan itu, seorang Hakim lain boleh dengan persetujuan semua pihak menyambung perbicaraan itu dan memberikan penghakiman.
+mana-mana peringkat presiding, memanggil mana-mana pihak untuk mengemukakan keterangan dan boleh memeriksa mana-mana tempat atau barang.
+
+<!-- marginal: Perbicaraan -->
+
+128. (1) Jika seseorang Hakim telah memulakan
+
+<!-- marginal: belum -->
+
+perbicaraan mana-mana prosiding dan kerana apa-apa
+
+<!-- marginal: berakhir. -->
+
+sebab tidak dapat menamatkan perbicaraan itu, seorang Hakim lain boleh dengan persetujuan semua pihak menyambung perbicaraan itu dan memberikan penghakiman.
 
 (2) Jika persetujuan yang disebut dalam subseksyen
 
 (1) tidak diperoleh, maka hendaklah diadakan suatu perbicaraan semula.
 
-Penangguhan.
+<!-- marginal: Penangguhan. -->
 
 129. Mahkamah boleh dari semasa ke semasa menangguhkan atau memindahkan mana-mana perbicaraan dari satu tempat ke satu tempat yang lain, dan boleh mengenakan apa-apa syarat apabila berbuat demikian.
 
@@ -2342,9 +2730,31 @@ dan Mahkamah boleh, selepas mendengar pihak-pihak, membuat apa-apa perintah yang
 
 (3) Mana-manapihakboleh, jika suatu perintah pembayaran secara ansuran telah dibuat, memohon supaya perintah itu dibatalkan atau ansuran itu ditambah atau dikurangkan dan Mahkamah boleh, selepas mendengar pihak-pihak, membuat apa-apa perintah yang difikirkannya adil.
 
-Penghakiman.
+<!-- marginal: Penghakiman. -->
 
-135. (1) Tiap-tiap penghakiman atau perintah yang dsb. yang menghendaki mana-mana orang melakukan apa-apa perbuatan, menghendaki selain pembayaran wang, hendaklah menyatakan masa yang perbuatan dilakukan; dalamnya perbuatan itu hendaklah dilakukan, dan jika masa masa untuk tidak dinyatakan sedemikian, perbuatan itu hendaklah melakukannya. dilakukan dalam masa tujuh hari dari tarikh penghakiman atau perintah itu.
+135. (1) Tiap-tiap penghakiman atau perintah yang
+
+<!-- marginal: dsb. yang -->
+
+menghendaki mana-mana orang melakukan apa-apa perbuatan,
+
+<!-- marginal: menghendaki -->
+
+selain pembayaran wang, hendaklah menyatakan masa yang
+
+<!-- marginal: perbuatan -->
+
+<!-- marginal: dilakukan; -->
+
+dalamnya perbuatan itu hendaklah dilakukan, dan jika masa
+
+<!-- marginal: masa untuk -->
+
+tidak dinyatakan sedemikian, perbuatan itu hendaklah
+
+<!-- marginal: melakukannya. -->
+
+dilakukan dalam masa tujuh hari dari tarikh penghakiman atau perintah itu.
 
 (2) Jika orang yang dikehendaki melakukan perbuatan itu hadir sendiri atau diwakili oleh Peguam Syarienya semasa penghakiman atau perintah diberikan atau dibuat, maka salinan penghakiman atau perintah itu tidaklah perlu disampaikan kepadanya.
 
@@ -2406,13 +2816,21 @@ alih hendaklah menyatakan amaun wang yang hendaklah dibayar sebagai ganti jika p
 
 (8) Notis rayuan hendaklah disampaikan oleh perayu dalam masa yang dihadkan bagi pemfailan rayuan kepada semua pihak yang terlibat dengan rayuan itu atau kepada Peguam Syarie mereka masing-masing.
 
-Notis rayuan
+<!-- marginal: Notis rayuan -->
 
-140. Seseorang responden dalam mana-mana rayuan boleh, balas. dalam masa tujuh hari dari tarikh penyampaian notis rayuan itu kepadanya, memfailkan di Mahkamah yang mendengar rayuan itu dan menyampaikan kepada perayu notis dalam Borang MS 31 tentang cadangannya untuk mengemukakan hujah pada pendengaran rayuan itu bahawa keputusan yang dirayukan itu patut.diubah.
+140. Seseorang responden dalam mana-mana rayuan boleh,
 
-Alasan
+<!-- marginal: balas. -->
 
-141. (1) Dalam masa empat belas hari dari tarikh penerimaan rayuan. pemberitahuan di bawah subseksyen 139(6), perayu hendaklah mengemukakan alasan rayuan dalam lima salinan kepada Pendaftar Mahkamah yang terhadap keputusannya rayuan itu dibuat yang dialamatkan kepada Mahkamah yang mendengar rayuan itu.
+dalam masa tujuh hari dari tarikh penyampaian notis rayuan itu kepadanya, memfailkan di Mahkamah yang mendengar rayuan itu dan menyampaikan kepada perayu notis dalam Borang MS 31 tentang cadangannya untuk mengemukakan hujah pada pendengaran rayuan itu bahawa keputusan yang dirayukan itu patut.diubah.
+
+<!-- marginal: Alasan -->
+
+141. (1) Dalam masa empat belas hari dari tarikh penerimaan
+
+<!-- marginal: rayuan. -->
+
+pemberitahuan di bawah subseksyen 139(6), perayu hendaklah mengemukakan alasan rayuan dalam lima salinan kepada Pendaftar Mahkamah yang terhadap keputusannya rayuan itu dibuat yang dialamatkan kepada Mahkamah yang mendengar rayuan itu.
 
 (2) Tiap-tiap alasan rayuan hendaklah menyatakan dengan ringkas isi penghakiman yang dirayukan itu dan hendaklah mengandungi butir-butir yang jelas tentang undang-undang atau fakta-fakta yang mengenainya rayuan itu dibuat dan, kecuali dengan kebenaran Mahkamah yang mendengar rayuan
 
@@ -2486,15 +2904,47 @@ hendaklah menyediakan bilangan salinan rekod rayuan yang dikehendaki dan rekod r
 
 (b) menghantar kepada Mahkamah yang mendengar rayuan itu salinan-salinan selebihnya rekod itu.
 
-Penggantungan
+<!-- marginal: Penggantungan -->
 
-144. Pemfailan sesuatu notis rayuan tidaklah berkuat kuasa pelaksanaan sebagai penggantungan pelaksanaan, tetapi Mahkamah sementara menanti boleh, atas permohonan dan apabila sebab yang mencukupi rayuan. ditunjukkan, menggantung pelaksanaan atas apa-apa terma yang difikirkannya patut.
+144. Pemfailan sesuatu notis rayuan tidaklah berkuat kuasa
 
-Penghakiman
+<!-- marginal: pelaksanaan -->
 
-145. Mahkamah yang mendengar rayuan hendaklah hendaklah menyatakan alasan penghakimannya secara bertulis. menyatakan alasan. Pelaksanaan
+sebagai penggantungan pelaksanaan, tetapi Mahkamah
 
-146. Apabila salah satu pihak telah mengambil perintah penghakim an Mahkamah yang mendengar rayuan itu dan telah atas rayuan. mengemukakan perintah itu kepada Mahkamah yang terhadap keputusannya rayuan itu dibuat, Mahkamah yang terhadap keputusannya rayuan itu dibuat hendaklah melaksanakan perintah itu mengikut peruntukan Akta ini.
+<!-- marginal: sementara -->
+
+<!-- marginal: menanti -->
+
+boleh, atas permohonan dan apabila sebab yang mencukupi
+
+<!-- marginal: rayuan. -->
+
+ditunjukkan, menggantung pelaksanaan atas apa-apa terma yang difikirkannya patut.
+
+<!-- marginal: Penghakiman -->
+
+145. Mahkamah yang mendengar rayuan hendaklah
+
+<!-- marginal: hendaklah -->
+
+menyatakan alasan penghakimannya secara bertulis.
+
+<!-- marginal: menyatakan -->
+
+<!-- marginal: alasan. -->
+
+<!-- marginal: Pelaksanaan -->
+
+146. Apabila salah satu pihak telah mengambil perintah
+
+<!-- marginal: penghakim an -->
+
+Mahkamah yang mendengar rayuan itu dan telah
+
+<!-- marginal: atas rayuan. -->
+
+mengemukakan perintah itu kepada Mahkamah yang terhadap keputusannya rayuan itu dibuat, Mahkamah yang terhadap keputusannya rayuan itu dibuat hendaklah melaksanakan perintah itu mengikut peruntukan Akta ini.
 
 <!-- page 61 -->
 
@@ -2552,9 +3002,25 @@ bolehlah dikuatkuasakan melalui satu atau lebih daripada satu cara yang berikut,
 
 (3) Subseksyen (1) dan (2) tidaklah menjejaskan apa- apa remedi lain yang terdapat bagi menguatkuasakan sesuatu penghakiman atau perintah bagi pembayaran wang di bawah mana-mana undang-undang bertulis lain, atau kuasa Mahkamah untuk mengkomitkan ke penjara seseorang yang ingkar membayar wang yang telah dihakimkan atau diperintahkan supaya dibayar olehnya.
 
-Penguatkuasaan
+<!-- marginal: Penguatkuasaan -->
 
-149. (1) Tertakluk kepada Akta ini, suatu penghakiman penghakiman atau perintah bagi pemberian pemilikan harta tak alih bagi bolehlah dikuatkuasakan melalui satu atau lebih daripada pemilikan harta tak satu cara yang berikut, iaitu— alih.
+149. (1) Tertakluk kepada Akta ini, suatu penghakiman
+
+<!-- marginal: penghakiman -->
+
+atau perintah bagi pemberian pemilikan harta tak alih
+
+<!-- marginal: bagi -->
+
+bolehlah dikuatkuasakan melalui satu atau lebih daripada
+
+<!-- marginal: pemilikan -->
+
+<!-- marginal: harta tak -->
+
+satu cara yang berikut, iaitu—
+
+<!-- marginal: alih. -->
 
 (a) perintah pemilikan;
 
@@ -2564,9 +3030,27 @@ Penguatkuasaan
 
 (3) Sesuatu perintah pemilikan boleh mengandungi peruntukan bagi menguatkuasakan pembayaran apa-apa wang yang dihakimkan atau diperintahkan supaya dibayar oleh penghakiman atau perintah yang hendak dikuatkuasakan itu.
 
-Penguatkuasaan
+<!-- marginal: Penguatkuasaan -->
 
-150. (1) Tertakluk kepada Akta ini, suatu penghakiman penghakiman atau perintah bagi penghantarserahan apa-apa harta alih bagi penghantar- yang tidak memberi orang yang terhadapnya penghakiman serahan harta itu diberikan atau perintah itu dibuat pilihan membayar alih. nilai tertaksir harta itu bolehlah dikuatkuasakan melalui satu atau lebih daripada satu cara yang berikut, iaitu—
+150. (1) Tertakluk kepada Akta ini, suatu penghakiman
+
+<!-- marginal: penghakiman -->
+
+atau perintah bagi penghantarserahan apa-apa harta alih
+
+<!-- marginal: bagi -->
+
+<!-- marginal: penghantar- -->
+
+yang tidak memberi orang yang terhadapnya penghakiman
+
+<!-- marginal: serahan harta -->
+
+itu diberikan atau perintah itu dibuat pilihan membayar
+
+<!-- marginal: alih. -->
+
+nilai tertaksir harta itu bolehlah dikuatkuasakan melalui satu atau lebih daripada satu cara yang berikut, iaitu—
 
 (a) perintah penghantarserahan untuk mendapatkan kembali harta itu tanpa peruntukan pilihan bagi mendapatkan kembali nilai tertaksir harta itu (kemudian daripada ini disebut "perintah penghantarserahan khusus";
 
@@ -2688,13 +3172,23 @@ berhak menguatkuasakan pematuhan perintah itu melalui proses yang sama seolah-ol
 
 ## PELAKSANAAN
 
-Kebenaran
+<!-- marginal: Kebenaran -->
 
 154. (1) Suatu perintah pelaksanaan
 
 <!-- marginal: bagi -->
 
-untuk menguatkuasakan sesuatu penghakiman atau perintah tidak mengeluarkan perintah boleh dikeluarkan tanpa kebenaran Mahkamah— pelaksanaan.
+<!-- marginal: untuk -->
+
+menguatkuasakan sesuatu penghakiman atau perintah tidak
+
+<!-- marginal: mengeluarkan -->
+
+<!-- marginal: perintah -->
+
+boleh dikeluarkan tanpa kebenaran Mahkamah—
+
+<!-- marginal: pelaksanaan. -->
 
 (a) jika penghakiman atau perintah itu adalah tertakluk kepada apa-apa syarat atau kontingensi;
 
@@ -2790,9 +3284,13 @@ mengarahkan bailif supaya mengambil mana-mana satu atau lebih daripada satu tind
 
 (3) Mahkamah boleh, atas permohonan mana-mana pemiutang penghakiman, mengeluarkan suatu perintah pelaksanaan selanjutnya berkenaan dengan harta yang berlainan atau cara pelaksanaan yang berlainan daripada yang telah dinyatakan dalam perintah pelaksanaan yang sedang berkuat kuasa.
 
-Penyitaan dan
+<!-- marginal: Penyitaan dan -->
 
-160. Peruntukan yang berikut hendaklah terpakai apabila penjualan. pelaksanaan melalui penyitaan dan penjualan diperintahkan bagi apa-apa harta:
+160. Peruntukan yang berikut hendaklah terpakai apabila
+
+<!-- marginal: penjualan. -->
+
+pelaksanaan melalui penyitaan dan penjualan diperintahkan bagi apa-apa harta:
 
 (a) bailif hendaklah—
 
@@ -2832,21 +3330,13 @@ memulangkan perintah bagi pelaksanaan itu kepada Mahkamah;
 
 (b) segala harta yang dinyatakan dalam notis hiwalah hendaklah ditahan dari masa penyampaian notis itu kepada muhal 'alaih setakat atau pada nilai yang disebut dalam notis itu, dan apa-apa pemberimilikan atau pelupusan harta itu yang bertentangan dengan terma-terma notis itu, kecuali dengan kebenaran Mahkamah, adalah tak sah terhadap bailif, dan perbuatan itu adalah juga suatu penghinaan mahkamah;
 
-(c) muhal 'alaih boleh membayar kepada bailif amaun yang dituntut atau
-
-<!-- marginal: boleh -->
-
-menghantarserahkan kepadanya harta yang ditahan itu;
+(c) muhal 'alaih boleh membayar kepada bailif amaun yang dituntut atau boleh menghantarserahkan kepadanya harta yang ditahan itu;
 
 (d) jika muhal 'alaih tidak membuat pembayaran atau penghantarserahan itu, bailif boleh menyampaikan kepadanya suatu saman hiwalah dalam Borang MS 39 dan Mahkamah hendaklah memeriksanya tentang harta yang ditahan itu:
 
 Dengan syarat bahawa—
 
-(i) tiada saman yang sedemikian boleh dikeluarkan kepada seseorang penjawat awam berkenaan dengan wang atau harta dalam milikannya atas sifatnya yang sedemikian, melainkan
-
-<!-- marginal: dengan -->
-
-kebenaran Mahkamah dan dengan kebenaran bertulis Perbendaharaan; dan
+(i) tiada saman yang sedemikian boleh dikeluarkan kepada seseorang penjawat awam berkenaan dengan wang atau harta dalam milikannya atas sifatnya yang sedemikian, melainkan dengan kebenaran Mahkamah dan dengan kebenaran bertulis Perbendaharaan; dan
 
 (ii) tiada saman yang sedemikian boleh dikeluarkan dalam hal wang, kumpulan wang pelaburan atau harta di dalam mana-mana Mahkamah;
 
@@ -2890,9 +3380,17 @@ Mahkamah yang memberikan penghakiman itu boleh, jika suatu perintah bagi pelaksa
 
 <!-- page 72 -->
 
-penyitaan
+<!-- marginal: penyitaan -->
 
-163. Jika pelaksanaan melalui penyitaan dan dan penghantarserahan sesuatu barang diperintahkan— penghantar- serahan.
+163. Jika pelaksanaan melalui penyitaan dan
+
+<!-- marginal: dan -->
+
+penghantarserahan sesuatu barang diperintahkan—
+
+<!-- marginal: penghantar- -->
+
+<!-- marginal: serahan. -->
 
 (a) bailif hendaklah menyita barang itu dan setelah dibayar semua perbelanjaan yang kena dibayar, hendaklah menghantarserahkannya kepada pemiutang penghakiman;
 
@@ -2900,17 +3398,27 @@ penyitaan
 
 (c) perintah di bawah perenggan (b) tidaklah menghalang presiding untuk pengkomitan.
 
-Deposit
+<!-- marginal: Deposit -->
 
-164. (1) Bailif tidaklah diwajibkan mengambil apa-apa perbelanjaan. tindakan di bawah suatu perintah bagi pelaksanaan sehingga pemiutang penghakiman telah mendepositkan sejumlah wang yang pada pendapat bailif adalah mencukupi untuk membayar apa-apa perbelanjaan pelaksanaan, termasuk perbelanjaan menyimpan milikan apa-apa harta selama tempoh tidak melebihi empat belas hari, dan jika bailif terpaksa menyimpan harta itu melebihi empat belas hari dia boleh menghendaki supaya deposit tambahan dibayar dan jika deposit itu tidak dibayar dia boleh melepaskan harta itu.
+164. (1) Bailif tidaklah diwajibkan mengambil apa-apa
 
-(2) Bailif hendaklah menyimpan rekod mengenai semua wang yang didepositkan dengannya di bawah subseksyen (1).
+<!-- marginal: perbelanjaan. -->
 
-Memasuki
+tindakan di bawah suatu perintah bagi pelaksanaan sehingga pemiutang penghakiman telah mendepositkan sejumlah wang yang pada pendapat bailif adalah mencukupi untuk membayar apa-apa perbelanjaan pelaksanaan, termasuk perbelanjaan menyimpan milikan apa-apa harta selama tempoh tidak melebihi empat belas hari, dan jika bailif terpaksa menyimpan harta itu melebihi empat belas hari dia boleh menghendaki supaya deposit tambahan dibayar dan jika deposit itu tidak dibayar dia boleh melepaskan harta itu.
 
-165. Bailif tidak boleh memecah masuk ke dalam mana- premis. mana rumah yang dipagari atau bangunan yang didiami kecuali dengan kebenaran Mahkamah.
+(2) Bailif hendaklah menyimpan rekod mengenai semua wang yang didepositkan dengannya di bawah subseksyen
 
-Resit.
+(1).
+
+<!-- marginal: Memasuki -->
+
+165. Bailif tidak boleh memecah masuk ke dalam mana-
+
+<!-- marginal: premis. -->
+
+mana rumah yang dipagari atau bangunan yang didiami kecuali dengan kebenaran Mahkamah.
+
+<!-- marginal: Resit. -->
 
 166. Bailif hendaklah memberikan resit bagi tiap-tiap jumlah wang yang diterimanya melalui levi, deposit atau selainnya, dan hendaklah membayar wang itu kepada pegawai yang berkenaan di Pejabat Pendaftaran.
 
@@ -2964,23 +3472,49 @@ tempat asalnya, bailif hendaklah, apabila diminta, memberi orang yang dalam jaga
 
 <!-- page 74 -->
 
-Arahan
+<!-- marginal: Arahan -->
 
-171. (1) Mahkamah boleh, atas kehendaknya sendiri atau tentang atas permohonan mana-mana pihak yang berkepentingan, pelaksanaan kewajipan memberikan apa-apa arahan kepada bailif tentang bailif. pelaksanaan kewajipannya sebagaimana yang difikirkan adil.
+171. (1) Mahkamah boleh, atas kehendaknya sendiri atau
+
+<!-- marginal: tentang -->
+
+atas permohonan mana-mana pihak yang berkepentingan,
+
+<!-- marginal: pelaksanaan -->
+
+<!-- marginal: kewajipan -->
+
+memberikan apa-apa arahan kepada bailif tentang
+
+<!-- marginal: bailif. -->
+
+pelaksanaan kewajipannya sebagaimana yang difikirkan adil.
 
 (2) Mahkamah boleh memanggil dan memeriksa mana- mana orang yang boleh memberikan maklumat berkenaan dengan apa-apa pelaksanaan.
 
-Penyerahan
+<!-- marginal: Penyerahan -->
 
-172. Mana-mana dokumen yang dikehendaki supaya kepada bailif. diserahkan atau disampaikan kepada seorang bailif bolehlah disampaikan kepada Pendaftar pada waktu pejabat.
+172. Mana-mana dokumen yang dikehendaki supaya
 
-Pembayaran
+<!-- marginal: kepada bailif. -->
 
-173. Tertakluk kepada mana-mana undang-undang daripada bertulis, apa-apa jumlah wang yang dibayar ke dalam Mahkamah. Mahkamah oleh bailif untuk kredit mana-mana orang hendaklah, atas permohonannya, dibayar daripada Mahkamah kepadanya tanpa apa-apa perintah:
+diserahkan atau disampaikan kepada seorang bailif bolehlah disampaikan kepada Pendaftar pada waktu pejabat.
+
+<!-- marginal: Pembayaran -->
+
+173. Tertakluk kepada mana-mana undang-undang
+
+<!-- marginal: daripada -->
+
+bertulis, apa-apa jumlah wang yang dibayar ke dalam
+
+<!-- marginal: Mahkamah. -->
+
+Mahkamah oleh bailif untuk kredit mana-mana orang hendaklah, atas permohonannya, dibayar daripada Mahkamah kepadanya tanpa apa-apa perintah:
 
 Dengan syarat bahawa Pendaftar boleh mengikut budi bicaranya dalam apa-apa hal dan hendaklah, jika dia mempunyai notis bahawa mana-mana orang lain menuntut jumlah wang berkenaan atau mana-mana bahagiannya, menghendaki pemohon itu mendapatkan perintah Mahkamah sebelum membuat pembayaran itu.
 
-Penjualan.
+<!-- marginal: Penjualan. -->
 
 174. Melainkan jika diperintahkan selainnya oleh Mahkamah, segala penjualan hendaklah melalui pelelongan awam pada waktu pejabat dan notis dalam Borang MS 41 tentang tarikh, waktu dan tempat penjualan yang dicadangkan itu hendaklah ditampalkan di Papan Notis Mahkamah dan di tempat penjualan yang dicadangkan itu tidak kurang daripada tujuh hari sebelum penjualan itu.
 
@@ -2990,7 +3524,7 @@ Penjualan.
 
 ## SAMAN PENGHUTANG PENGHAKIMAN
 
-Pemakaian.
+<!-- marginal: Pemakaian. -->
 
 175. (1) Melainkan jika diperuntukkan selainnya di bawah mana-mana undang-undang bertulis lain, Bab ini hendaklah terpakai bagi pelaksanaan penghakiman bagi pembayaran wang.
 
@@ -3070,17 +3604,39 @@ memeriksa penghutang penghakiman itu dan saksi-saksi lain dengan iqrar.
 
 (b) melalui apa-apa ansuran yang hendaklah dibayar pada masa yang ditetapkan oleh Mahkamah.
 
-Permohonan
+<!-- marginal: Permohonan -->
 
-179. (1) Jika seseorang penghutang penghakiman tidak untuk mematuhi mana-mana perintah yang dibuat oleh Mahkamah mendapatkan notis terhadapnya di bawah seksyen 178, pemiutang penghakiman penghakiman. boleh, melalui notis penghakiman, meminta penghutang penghakiman itu hadir di Mahkamah untuk menunjukkan sebab mengapa dia tidak patut dikomitkan ke penjara kerana keingkaran itu.
+179. (1) Jika seseorang penghutang penghakiman tidak
+
+<!-- marginal: untuk -->
+
+mematuhi mana-mana perintah yang dibuat oleh Mahkamah
+
+<!-- marginal: mendapatkan -->
+
+<!-- marginal: notis -->
+
+terhadapnya di bawah seksyen 178, pemiutang penghakiman
+
+<!-- marginal: penghakiman. -->
+
+boleh, melalui notis penghakiman, meminta penghutang penghakiman itu hadir di Mahkamah untuk menunjukkan sebab mengapa dia tidak patut dikomitkan ke penjara kerana keingkaran itu.
 
 (2) Sesuatu permohonan untuk mendapatkan notis penghakiman di bawah subseksyen (1) hendaklah dibuat dan diangkat sumpah oleh pemohon dalam Borang MS
 
 44.
 
-Mengeluarkan
+<!-- marginal: Mengeluarkan -->
 
-180. (1) Apabila Mahkamah menerima permohonan di notis bawah seksyen 179, Mahkamah hendaklah mengeluarkan penghakiman. suatu notis penghakiman dalam Borang MS 45.
+180. (1) Apabila Mahkamah menerima permohonan di
+
+<!-- marginal: notis -->
+
+bawah seksyen 179, Mahkamah hendaklah mengeluarkan
+
+<!-- marginal: penghakiman. -->
+
+suatu notis penghakiman dalam Borang MS 45.
 
 (2) Melainkan jika diperintahkan selainnya oleh Mahkamah, suatu notis penghakiman hendaklah disampaikan ke diri penghutang penghakiman sekurang- kurangnya tujuh hari sebelum tarikh yang ditetapkan bagi kehadiran penghutang penghakiman itu.
 
@@ -3138,17 +3694,53 @@ mengenainya seseorang penghutang penghakiman dipenjarakan di bawah seksyen 181 d
 
 (3) Sesuatu perintah di bawah subseksyen (2) hendaklah dalam Borang MS 48.
 
-Tarikh
+<!-- marginal: Tarikh -->
 
-185. Apa-apa perintah pengkomitan seseorang penghutang perintah penghakiman di bawah seksyen 181 hendaklah pengkomitan. mengandungi tarikh perintah itu dibuat dan hendaklah berkuatkuasa selama tempoh satu tahun dari tarikh itu.
+185. Apa-apa perintah pengkomitan seseorang penghutang
+
+<!-- marginal: perintah -->
+
+penghakiman di bawah seksyen 181 hendaklah
+
+<!-- marginal: pengkomitan. -->
+
+mengandungi tarikh perintah itu dibuat dan hendaklah berkuatkuasa selama tempoh satu tahun dari tarikh itu.
 
 ## BAHAGIAN XIX
 
 ## PEMBAHAGIAN MENGIKUT KADAR
 
-Hasil jualan
+<!-- marginal: Hasil jualan -->
 
-186. Tertakluk kepada subseksyen (2), jika aset dihasilkan pelaksanaan melalui penjualan atau selainnya pada melaksanakan suatu hendaklah dibahagikan perintah atau penghakiman dan lebih daripada seorang mengikut telah, sebelum penghasilan' itu, menahan harta yang kadar di kalangan daripadanya aset itu telah dihasilkan pada melaksanakan pemiutang perintah atau penghakiman bagi pembayaran wang terhadap penghakiman. penghutang penghakiman yang sama tetapi belum lagi mendapat penunaiannya, maka aset itu, setelah dipotong kos penghasilan itu, hendaklah dibahagikan mengikut kadar di kalangan semua orang itu:
+186. Tertakluk kepada subseksyen (2), jika aset dihasilkan
+
+<!-- marginal: pelaksanaan -->
+
+melalui penjualan atau selainnya pada melaksanakan suatu
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: dibahagikan -->
+
+perintah atau penghakiman dan lebih daripada seorang
+
+<!-- marginal: mengikut -->
+
+telah, sebelum penghasilan' itu, menahan harta yang
+
+<!-- marginal: kadar di -->
+
+<!-- marginal: kalangan -->
+
+daripadanya aset itu telah dihasilkan pada melaksanakan
+
+<!-- marginal: pemiutang -->
+
+perintah atau penghakiman bagi pembayaran wang terhadap
+
+<!-- marginal: penghakiman. -->
+
+penghutang penghakiman yang sama tetapi belum lagi mendapat penunaiannya, maka aset itu, setelah dipotong kos penghasilan itu, hendaklah dibahagikan mengikut kadar di kalangan semua orang itu:
 
 Dengan syarat bahawa—
 
@@ -3190,15 +3782,31 @@ nyata atau secara tersirat, maka permohonan itu hendaklah dibuat dalam Borang MS
 
 (3) Sesuatu permohonan di bawah Bab ini boleh dibuat secara ex parte melainkan jika diarahkan selainnya oleh Mahkamah atau diperuntukkan selainnya dalam Bab ini.
 
-Notis
+<!-- marginal: Notis -->
 
-188. (1) Suatu permohonan hendaklah disifatkan telah permohonan dibuat apabila notis berkenaan dengan permohonan itu hendaklah difailkan. telah difailkan dan dimeteraikan oleh seorang pegawai Pejabat Pendaftaran.
+188. (1) Suatu permohonan hendaklah disifatkan telah
+
+<!-- marginal: permohonan -->
+
+dibuat apabila notis berkenaan dengan permohonan itu
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: difailkan. -->
+
+telah difailkan dan dimeteraikan oleh seorang pegawai Pejabat Pendaftaran.
 
 (2) Sesuatu permohonan tidak boleh dipinda selepas difailkan tanpa kebenaran Mahkamah.
 
-Penyampaiar 189. Apa-apa permohonan yang hanya meminta supaya permohonan. apa-apa tempoh masa dilanjutkan atau dipendekkan boleh disampaikan pada hari sebelum hari yang dinyatakan bagi pendengarannya tetapi, kecuali sebagaimana yang disebut terdahulu dan melainkan jika diperintahkan selainnya oleh Mahkamah atau diperuntukkan selainnya dalam Akta ini, sesuatu permohonan hendaklah disampaikan kepada setiap pihak lain tidak kurang daripada dua hari genap sebelum hari yang dinyatakan sedemikian.
+<!-- marginal: Penyampaiar -->
 
-Afidavit.
+189. Apa-apa permohonan yang hanya meminta supaya
+
+<!-- marginal: permohonan. -->
+
+apa-apa tempoh masa dilanjutkan atau dipendekkan boleh disampaikan pada hari sebelum hari yang dinyatakan bagi pendengarannya tetapi, kecuali sebagaimana yang disebut terdahulu dan melainkan jika diperintahkan selainnya oleh Mahkamah atau diperuntukkan selainnya dalam Akta ini, sesuatu permohonan hendaklah disampaikan kepada setiap pihak lain tidak kurang daripada dua hari genap sebelum hari yang dinyatakan sedemikian.
+
+<!-- marginal: Afidavit. -->
 
 190. (1) Tiap-tiap permohonan hendaklah disokong dengan afidavit.
 
@@ -3246,21 +3854,39 @@ digunakan sebagai keterangan dalam presiding berhubungan dengan permohonan itu h
 
 disempurnakan, Mahkamah, jika berpuas hati adalah adil berbuat sedemikian, boleh mendengar semula permohonan itu.
 
-Perintah ex
+<!-- marginal: Perintah -->
 
-194. (1) Mahkamah boleh, atas permohonan mana-mana pane boleh pihak dalam mana-mana kausa atau perkara, mengetepikan diketepikan. sesuatu perintah yang dibuat secara ex pane di bawah Bab ini.
+ex
+
+194. (1) Mahkamah boleh, atas permohonan mana-mana
+
+<!-- marginal: pane boleh -->
+
+pihak dalam mana-mana kausa atau perkara, mengetepikan
+
+<!-- marginal: diketepikan. -->
+
+sesuatu perintah yang dibuat secara ex pane di bawah Bab ini.
 
 (2) Sesuatu permohonan di bawah subseksyen (1) hendaklah dibuat dalam masa empat belas hari dari tarikh perintah itu dan hendaklah didengar secara antara pihak.
 
-Permohonan
+<!-- marginal: Permohonan -->
 
-195. Mahkamah boleh, mengikut budi bicaranya, semasa dalam mendengar sesuatu permohonan di bawah Bab ini, prosiding. membenarkan apa-apa permohonan yang berbangkit dalamnya didengar secara lisan.
+195. Mahkamah boleh, mengikut budi bicaranya, semasa
+
+<!-- marginal: dalam -->
+
+mendengar sesuatu permohonan di bawah Bab ini,
+
+<!-- marginal: prosiding. -->
+
+membenarkan apa-apa permohonan yang berbangkit dalamnya didengar secara lisan.
 
 ## BAB 2
 
 ## PERINTAH INTERIM
 
-Pemakaian.
+<!-- marginal: Pemakaian. -->
 
 196. Bab ini terpakai hanya bagi Mahkamah Tinggi Syariah.
 
@@ -3394,19 +4020,41 @@ pihak untuk mendapatkan hadhanah seseorang kanak- kanak dalam apa-apa kausa atau
 
 (f) tentang relief yang sebenarnya dipohon.
 
-Penntah
+<!-- marginal: Penntah -->
 
-202. (1) Tertakluk kepada Akta Undang-Undang Keluarga interim Islam (Wilayah-Wilayah Persekutuan) 1984, jika tentang nafkah. Mahkamah berpuas hati, atas permohonan mana-mana
+202. (1) Tertakluk kepada Akta Undang-Undang Keluarga
 
-### Akta 303.
+<!-- marginal: interim -->
+
+Islam (Wilayah-Wilayah Persekutuan) 1984, jika
+
+<!-- marginal: tentang -->
+
+<!-- marginal: nafkah. -->
+
+Mahkamah berpuas hati, atas permohonan mana-mana
+
+<!-- marginal: Akta 303. -->
 
 pihak yang berhak mendapat nafkah dalam apa-apa kausa atau perkara, bahawa hal keadaan memerlukan dibuat suatu perintah interim tentang nafkah terhadap orang yang bertanggungan menurut Hukum Syarak untuk membayar nafkah, maka Mahkamah boleh membuat perintah sedemikian yang hendaklah berkuat kuasa serta-merta dan terus berkuat kuasa sehingga Mahkamah membuat keputusan atas kausa atau perkara itu.
 
-(2) Jika permohonan yang disebut dalam subseksyen (1) adalah berkenaan dengan suatu perintah interim untuk mendapatkan nafkah seseorang kanak-kanak, Mahkamah tidak boleh membuat perintah sedemikian melainkan jika Mahkamah berpuas hati bahawa bapa kanak-kanak itu atau seseorang yang bertanggungan menurut Hukum Syarak untuk membayar nafkah kanak-kanak itu berkeupayaan untuk membayar nafkah yang dipohon itu.
+(2) Jika permohonan yang disebut dalam subseksyen
 
-Kuasa untuk
+(1) adalah berkenaan dengan suatu perintah interim untuk mendapatkan nafkah seseorang kanak-kanak, Mahkamah tidak boleh membuat perintah sedemikian melainkan jika Mahkamah berpuas hati bahawa bapa kanak-kanak itu atau seseorang yang bertanggungan menurut Hukum Syarak untuk membayar nafkah kanak-kanak itu berkeupayaan untuk membayar nafkah yang dipohon itu.
 
-203. (1) Jika difikirkan oleh Mahkamah perlu atau memerintahkan suaimanfaat bagi maksud mendapatkan maklumat atau diambil sampel, dsb. keterangan penuh dalam mana-mana kausa atau perkara, Mahkamah boleh, atas permohonan mana-mana pihak dalam kausa atau perkara itu, dan atas apa-apa terma, jika ada, yang difikirkannya adil, melalui perintah membenarkan atau menghendaki supaya diambil apa-apa
+<!-- marginal: Kuasa untuk -->
+
+203. (1) Jika difikirkan oleh Mahkamah perlu atau
+
+<!-- marginal: memerintahkan -->
+
+suaimanfaat bagi maksud mendapatkan maklumat atau
+
+<!-- marginal: diambil -->
+
+<!-- marginal: sampel, dsb. -->
+
+keterangan penuh dalam mana-mana kausa atau perkara, Mahkamah boleh, atas permohonan mana-mana pihak dalam kausa atau perkara itu, dan atas apa-apa terma, jika ada, yang difikirkannya adil, melalui perintah membenarkan atau menghendaki supaya diambil apa-apa
 
 <!-- page 87 -->
 
@@ -3444,25 +4092,75 @@ mendapatkan perintah interim, didapati oleh Mahkamah bahawa perkara yang diperti
 
 <!-- page 88 -->
 
-Mendapaikan
+<!-- marginal: Mendapaikan -->
 
-206. Jika plaintif, atau defendan melalui tuntutan balas, kembali menuntut untuk mendapatkan kembali harta alih tertentu harta alih dan pihak yang daripadanya harta itu hendak didapatkan yang tertakluk kembali tidak mempertikaikan hakrailik pihak yang kepada Hen, membuat tuntutan itu tetapi menuntut bahawa dia berhak dsb memegang simpan harta itu menurut kuasa suatu lien atau selainnya sebagai jaminanbagi apa-apajumlah wang, Mahkamah boleh, pada bila-bila masa selepas tuntutan bahawa dia berhak sedemikian ternyata daripada pliding itu, jika ada, atau melalui afidavit atau selainnya.hingga memuaskan hatinya, memerintahkan bahawa pihak yang hendak mendapatkan kembali harta itu adalah bebas untuk membayar ke dalam Mahkamah, sementara menanti keputusan tindakan itu, amaun wang yang mengenainya jaminan itu dituntut dan apa-apajumlah wang selanjutnya, jika ada, bagi bayaran perkhidmatan dan kos sebagaimana yang diarahkan oleh Mahkamah dan bahawa, apabila bayaran sedemikian dibuat, harta yang dituntut itu hendaklah diserahkan kepada pihak yang menuntutnya,
+206. Jika plaintif, atau defendan melalui tuntutan balas,
 
-### Akta 17.
+<!-- marginal: kembali -->
+
+menuntut untuk mendapatkan kembali harta alih tertentu
+
+<!-- marginal: harta alih -->
+
+dan pihak yang daripadanya harta itu hendak didapatkan
+
+<!-- marginal: yang -->
+
+<!-- marginal: tertakluk -->
+
+kembali tidak mempertikaikan hakrailik pihak yang
+
+<!-- marginal: kepada Hen, -->
+
+membuat tuntutan itu tetapi menuntut bahawa dia berhak
+
+<!-- marginal: dsb -->
+
+memegang simpan harta itu menurut kuasa suatu lien atau selainnya sebagai jaminanbagi apa-apajumlah wang, Mahkamah boleh, pada bila-bila masa selepas tuntutan bahawa dia berhak sedemikian ternyata daripada pliding itu, jika ada, atau melalui afidavit atau selainnya.hingga memuaskan hatinya, memerintahkan bahawa pihak yang hendak mendapatkan kembali harta itu adalah bebas untuk membayar ke dalam Mahkamah, sementara menanti keputusan tindakan itu, amaun wang yang mengenainya jaminan itu dituntut dan apa-apajumlah wang selanjutnya, jika ada, bagi bayaran perkhidmatan dan kos sebagaimana yang diarahkan oleh Mahkamah dan bahawa, apabila bayaran sedemikian dibuat, harta yang dituntut itu hendaklah diserahkan kepada pihak yang menuntutnya,
+
+<!-- marginal: Akta 17. -->
 
 tetapi tertakluk kepada Akta Kawalan Pertukaran Wang 1953.
 
-Membenarkan
+<!-- marginal: Membenarkan -->
 
-207. Jika apa-apa harta alih atau harta tak alih menjadi pendapatan hal perkara mana-mana presiding, dan Mahkamah berpuas daripada hati bahawa harta itu lebih daripada mencukupi untuk harta yang menjadi hal menjawab segala tuntutan mengenainya yang baginya perkara peruntukan patut dibuat dalam presiding itu, Mahkamah prosiding. boleh pada bila-bila masa membenarkan keseluruhan atau sebahagian pendapatan daripada harta itu dibayar, selama apa-apa tempoh yang diarahkan olehnya, kepada mana- mana atau kesemua pihak yang mempunyai kepentingan dalamnya atau boleh mengarahkan supaya mana-mana bahagian harta alih itu dipindahmilikkan atau dihantarserahkan kepada mana-mana atau kesemua pihak itu.
+207. Jika apa-apa harta alih atau harta tak alih menjadi
+
+<!-- marginal: pendapatan -->
+
+hal perkara mana-mana presiding, dan Mahkamah berpuas
+
+<!-- marginal: daripada -->
+
+hati bahawa harta itu lebih daripada mencukupi untuk
+
+<!-- marginal: harta yang -->
+
+<!-- marginal: menjadi hal -->
+
+menjawab segala tuntutan mengenainya yang baginya
+
+<!-- marginal: perkara -->
+
+peruntukan patut dibuat dalam presiding itu, Mahkamah
+
+<!-- marginal: prosiding. -->
+
+boleh pada bila-bila masa membenarkan keseluruhan atau sebahagian pendapatan daripada harta itu dibayar, selama apa-apa tempoh yang diarahkan olehnya, kepada mana- mana atau kesemua pihak yang mempunyai kepentingan dalamnya atau boleh mengarahkan supaya mana-mana bahagian harta alih itu dipindahmilikkan atau dihantarserahkan kepada mana-mana atau kesemua pihak itu.
 
 ## BAHAGIAN XXI
 
 ## KUASA HAKIM DAN PENDAFTAR
 
-Kuasa ;
+<!-- marginal: Kuasa -->
 
-208. Dalam mana-mana Mahkamah yang baginya dia Pendaftar. dilantik, Pendaftar di dalam Kamar boleh—
+;
+
+208. Dalam mana-mana Mahkamah yang baginya dia
+
+<!-- marginal: Pendaftar. -->
+
+dilantik, Pendaftar di dalam Kamar boleh—
 
 (a) menangguhkan apa-apa prosiding;
 
@@ -3504,11 +4202,31 @@ menghidupkan semula mana-mana kes yang telah ditolak.
 
 <!-- page 90 -->
 
-Rayuan
+<!-- marginal: Rayuan -->
 
-### 210.
+210. (1) Sesuatu rayuan boleh dibuat kepada seorang
 
-(1) Sesuatu rayuan boleh dibuat kepada seorang kepada Hakim di dalam Kamar terhadap apa-apa penghakiman, Hakim di dalam Kamar perintah atau keputusan Pendaftar. terhadap penghakiman, dab.. (2) Rayuan di bawah subseksyen (1) hendaklah dibuat Pendaftar. dengan menyampaikan kepada setiap pihak lain dalam presiding itu yang penghakiman, perintah atau keputusan mengenainya telah diberikan suatu notis dalam Borang MS 51 untuk hadir di hadapan Hakim pada hari yang dinyatakan dalam notis itu.
+<!-- marginal: kepada -->
+
+Hakim di dalam Kamar terhadap apa-apa penghakiman,
+
+<!-- marginal: Hakim di -->
+
+<!-- marginal: dalam Kamar -->
+
+perintah atau keputusan Pendaftar.
+
+<!-- marginal: terhadap -->
+
+<!-- marginal: penghakiman, -->
+
+<!-- marginal: dab.. -->
+
+(2) Rayuan di bawah subseksyen (1) hendaklah dibuat
+
+<!-- marginal: Pendaftar. -->
+
+dengan menyampaikan kepada setiap pihak lain dalam presiding itu yang penghakiman, perintah atau keputusan mengenainya telah diberikan suatu notis dalam Borang MS 51 untuk hadir di hadapan Hakim pada hari yang dinyatakan dalam notis itu.
 
 (3) Melainkan jika diperintahkan selainnya oleh Mahkamah, notis itu hendaklah difailkan dalam masa tujuh hari selepas penghakiman, perintah atau keputusan yang dirayukan itu diberikan atau dibuat dan hendaklah disampaikan tidak kurang daripada dua hari genap sebelum hari yang ditetapkan untuk pendengaran rayuan itu.
 
@@ -3520,15 +4238,33 @@ Rayuan
 
 ## WANG DAN HARTA DI DALAM MAHKAMAH
 
-Akaun bank
+<!-- marginal: Akaun bank -->
 
-211. Tiap-tiap Mahkamah hendaklah menyimpan suatu Mahkamah. akaun rasmi mengikut Hukum Syarak di mana-mana bank.
+211. Tiap-tiap Mahkamah hendaklah menyimpan suatu
 
-212. Wang yang dibayar ke dalam Mahkamah boleh Bayaran ke dalam dibayar kepada Pendaftar dengan menyatakan tujuan wang Mahkamah. itu dibayar dan Pendaftar hendaklah mengeluarkan resit penerimaannya.
+<!-- marginal: Mahkamah. -->
 
-Bayaran ke
+akaun rasmi mengikut Hukum Syarak di mana-mana bank.
 
-213. Semua wang yang diterima di bawah seksyen 212 dalam bank. hendaklah, dengan seberapa segera yang mungkin, dimasukkan ke dalam akaun bank Mahkamah.
+212. Wang yang dibayar ke dalam Mahkamah boleh
+
+<!-- marginal: Bayaran ke -->
+
+<!-- marginal: dalam -->
+
+dibayar kepada Pendaftar dengan menyatakan tujuan wang
+
+<!-- marginal: Mahkamah. -->
+
+itu dibayar dan Pendaftar hendaklah mengeluarkan resit penerimaannya.
+
+<!-- marginal: Bayaran ke -->
+
+213. Semua wang yang diterima di bawah seksyen 212
+
+<!-- marginal: dalam bank. -->
+
+hendaklah, dengan seberapa segera yang mungkin, dimasukkan ke dalam akaun bank Mahkamah.
 
 <!-- page 91 -->
 
@@ -3584,19 +4320,31 @@ jika diminta sedemikian mengirimkan melalui pos apa- apa wang yang hendak dibaya
 
 <!-- page 92 -->
 
-Buku akaun.
+<!-- marginal: Buku akaun. -->
 
 218. (1) Mahkamah hendaklah menyenggarakan apa-apa buku akaun sebagaimana yang dikehendaki oleh Arahan Perbendaharaan.
 
-(2) Dalam seksyen ini, "Arahan Perbendaharaan" ertinya arahan yang dikeluarkan oleh Perbendaharaan di Akta 61. bawah seksyen 4 Akta Tatacara Kewangan 1957.
+(2) Dalam seksyen ini, "Arahan Perbendaharaan" ertinya arahan yang dikeluarkan oleh Perbendaharaan di
 
-Kos
+<!-- marginal: Akta 61. -->
 
-219. Tiada kos perkhidmatan boleh dikenakan ke atas perkhidmatan. apa-apa dana yang disimpan di dalam Mahkamah.
+bawah seksyen 4 Akta Tatacara Kewangan 1957.
 
-Dana tak
+<!-- marginal: Kos -->
 
-220. Walau apa pun apa-apa jua dalam mana-mana dituntut, dsb. undang-undang bertulis lain, dana di dalam Mahkamah dan semua barang kemas, sekuriti dan harta alih, selain wang, dan apa-apa surat ikatan atau dokumen yang dikehendaki bagi maksud pendengaran atau presiding, yang tidak dituntut selepas lima belas tahun, hendaklah menjadi harta dan terletakhak pada Baitulmal.
+219. Tiada kos perkhidmatan boleh dikenakan ke atas
+
+<!-- marginal: perkhidmatan. -->
+
+apa-apa dana yang disimpan di dalam Mahkamah.
+
+<!-- marginal: Dana tak -->
+
+220. Walau apa pun apa-apa jua dalam mana-mana
+
+<!-- marginal: dituntut, dsb. -->
+
+undang-undang bertulis lain, dana di dalam Mahkamah dan semua barang kemas, sekuriti dan harta alih, selain wang, dan apa-apa surat ikatan atau dokumen yang dikehendaki bagi maksud pendengaran atau presiding, yang tidak dituntut selepas lima belas tahun, hendaklah menjadi harta dan terletakhak pada Baitulmal.
 
 (2) Mahkamah boleh, atas permohonan mana-mana pihak menuntut dan jika berpuas hati bahawa pihak menuntut itu berhak kepada wang atau harta yang terletakhak pada Baitulmal di bawah subseksyen (1), memerintahkan Baitulmal membayar wang atau memulangkan harta itu atau nilainya kepada pihak menuntut itu.
 
@@ -3604,9 +4352,13 @@ Dana tak
 
 ## KOS, ELAUN DAN FEE MAHKAMAH
 
-Fee
+<!-- marginal: Fee -->
 
-221. (1) Tertakluk kepada subseksyen (2), maka hendaklah Mahkamah. dibayar berkenaan dengan semua kausa, perkara dan presiding di Mahkamah apa-apa fee sebagaimana yang ditetapkan.
+221. (1) Tertakluk kepada subseksyen (2), maka hendaklah
+
+<!-- marginal: Mahkamah. -->
+
+dibayar berkenaan dengan semua kausa, perkara dan presiding di Mahkamah apa-apa fee sebagaimana yang ditetapkan.
 
 (2) Kerajaan atau Majlis tidaklah dikehendaki membayar apa-apa fee Mahkamah dalam presiding oleh atau terhadap Kerajaan atau Majlis.
 
@@ -3676,17 +4428,37 @@ ada dia dipanggil ataupun tidak, jika kehadirannya diperlukan.
 
 ## PENGHINAAN MAHKAMAH
 
-Notis
+<!-- marginal: Notis -->
 
-229. (1) Mahkamah mempunyai bidang kuasa untuk menunjukkan memulakan prosiding terhadap mana-mana orang kerana sebab. menghina mahkamah dan boleh, dalam prosiding sedemikian, membuat suatu perintah pengkomitan selama tempoh tidak melebihi enam bulan atau boleh mengenakan denda tidak melebihi dua ribu ringgit.
+229. (1) Mahkamah mempunyai bidang kuasa untuk
+
+<!-- marginal: menunjukkan -->
+
+memulakan prosiding terhadap mana-mana orang kerana
+
+<!-- marginal: sebab. -->
+
+menghina mahkamah dan boleh, dalam prosiding sedemikian, membuat suatu perintah pengkomitan selama tempoh tidak melebihi enam bulan atau boleh mengenakan denda tidak melebihi dua ribu ringgit.
 
 (2) Jika penghinaan dilakukan di dalam Mahkamah, maka tidaklah perlu bagi Mahkamah menyampaikan notis untuk menunjukkan sebab tetapi Mahkamah hendaklah memastikan bahawa orang yang dikatakan melakukan penghinaan itu faham tentang jenis kesalahan yang dikatakan terhadapnya dan diberi peluang untuk didengar untuk membela dirinya, dan Mahkamah hendaklah membuat suatu rekod yang sepatutnya mengenai prosiding itu.
 
 (3) Dalam hal penghinaan yang dilakukan di luar Mahkamah, notis supaya menunjukkan sebab mengapa tindakan atau presiding tidak boleh diambil terhadapnya hendaklah disampaikan ke diri orang yang dikatakan melakukan penghinaan itu.
 
-Penghinaan
+<!-- marginal: Penghinaan -->
 
-230. Jika penghinaan Mahkamah dilakukan oleh sesuatu oleh pertubuhan perbadanan, mana-mana orang yang pada masa pertubuhan penghinaan itu dilakukan ialah pengarah, pengurus atau perbadanan. setiausaha pertubuhan perbadanan itu atau selainnya bertanggungjawab atas pengurusan pertubuhan perbadanan itu adalah juga melakukan penghinaan itu melainkan jika dia membuktikan bahawa—
+230. Jika penghinaan Mahkamah dilakukan oleh sesuatu
+
+<!-- marginal: oleh -->
+
+pertubuhan perbadanan, mana-mana orang yang pada masa
+
+<!-- marginal: pertubuhan -->
+
+penghinaan itu dilakukan ialah pengarah, pengurus atau
+
+<!-- marginal: perbadanan. -->
+
+setiausaha pertubuhan perbadanan itu atau selainnya bertanggungjawab atas pengurusan pertubuhan perbadanan itu adalah juga melakukan penghinaan itu melainkan jika dia membuktikan bahawa—
 
 (a) penghinaan itu telah dilakukan oleh pertubuhan perbadanan itu tanpa persetujuan atau pembiarannya; atau
 
@@ -3734,13 +4506,25 @@ terlibat dalam melakukan perbuatan itu, pegawai yang dipertanggungkan untuk mela
 
 <!-- page 96 -->
 
-Larangan ke
+<!-- marginal: Larangan ke -->
 
-236. Tiada seorang pun pegawai Mahkamah boleh atas pegawai menjadi penjamin, atau menandatangani apa-apa resit atau Mahkamah. dokumen atau menerima apa-apa wang bagi atau bagi pihak mana-mana pihak dalam apa-apa prosiding di Mahkamah, atau membuat tawaran atau selainnya menjadi pembeli secara langsung atau tak langsung di mana-mana penjualan oleh Mahkamah.
+236. Tiada seorang pun pegawai Mahkamah boleh
 
-Memberikan
+<!-- marginal: atas pegawai -->
 
-237. (1) Jaminan hendaklah diberikan dengan jaminan. mendepositkan wang atau melalui bon yang amaunnya hendaklah ditetapkan oleh Mahkamah atau Pendaftar,
+menjadi penjamin, atau menandatangani apa-apa resit atau
+
+<!-- marginal: Mahkamah. -->
+
+dokumen atau menerima apa-apa wang bagi atau bagi pihak mana-mana pihak dalam apa-apa prosiding di Mahkamah, atau membuat tawaran atau selainnya menjadi pembeli secara langsung atau tak langsung di mana-mana penjualan oleh Mahkamah.
+
+<!-- marginal: Memberikan -->
+
+237. (1) Jaminan hendaklah diberikan dengan
+
+<!-- marginal: jaminan. -->
+
+mendepositkan wang atau melalui bon yang amaunnya hendaklah ditetapkan oleh Mahkamah atau Pendaftar,
 
 (2) Perbelanjaan mengenai jaminan, jika ada, hendaklah ditanggung oleh orang yang memberikan jaminan itu.
 
@@ -3750,9 +4534,19 @@ Memberikan
 
 (5) Jika jaminan diberikan melalui bon, seorang penjamin adalah diperlukan melainkan jika diperintahkan selainnya oleh Mahkamah.
 
-Memanjang-
+<!-- marginal: Memanjang- -->
 
-238. (1) Mahkamah boleh, atas apa-apa terma yang kan atau difikirkannya adil, melalui perintah, melanjutkan atau memendekkan masa. memendekkan tempoh yang dalamnya seseorang dikehendaki atau dibenarkan oleh Akta ini atau oleh mana- mana penghakiman, perintah atau arahan untuk melakukan apa-apa perbuatan dalam mana-mana prosiding.
+238. (1) Mahkamah boleh, atas apa-apa terma yang
+
+<!-- marginal: kan atau -->
+
+difikirkannya adil, melalui perintah, melanjutkan atau
+
+<!-- marginal: memendekkan -->
+
+<!-- marginal: masa. -->
+
+memendekkan tempoh yang dalamnya seseorang dikehendaki atau dibenarkan oleh Akta ini atau oleh mana- mana penghakiman, perintah atau arahan untuk melakukan apa-apa perbuatan dalam mana-mana prosiding.
 
 (2) Mahkamah boleh melanjutkan apa-apa tempoh yang disebut dalam subseksyen (1) walaupun permohonan untuk mendapatkan pelanjutan itu tidak dibuat sehingga selepas habis tempoh itu.
 
@@ -3810,23 +4604,45 @@ atau seorang Hakim boleh, dalam hal apa-apa presiding yang belum selesai di hada
 
 <!-- page 98 -->
 
-(2) Kuasa Mahkamah atau Hakim di bawah subseksyen (1) hendaklah dijalankan jika terdapat suatu permintaan bertulis daripada Mahkamah yang di hadapannya prosiding itu belum selesai.
+(2) Kuasa Mahkamah atau Hakim di bawah subseksyen
+
+(1) hendaklah dijalankan jika terdapat suatu permintaan bertulis daripada Mahkamah yang di hadapannya prosiding itu belum selesai.
 
 (3) Walau apa pun subseksyen (1), Mahkamah yang di hadapannya presiding itu belum selesai boleh, atas kehendaknya sendiri atau atas permohonan mana-mana pihak dalam prosiding itu, meminta Mahkamah lain mengambil keterangan daripada mana-mana pihak atau saksi dalam presiding itu, jika Mahkamah itu berpuas hati bahawa pihak atau saksi itu tidak dapat hadir di Mahkamah itu kerana alasan yang munasabah atau jika kehadiran pihak atau saksi itu akan menyebabkan pihak yang memanggil saksi itu menanggung perbelanjaan yang tidak munasabah.
 
-Kuasa sedia
+<!-- marginal: Kuasa sedia -->
 
-244. Tiada apa-apa jua dalam Akta ini boleh disifatkan ada sebagai mengehadkan atau menyentuh kuasa sedia ada Mahkamah. pada Mahkamah untuk membuat apa-apa perintah yang perlu untuk mengelakkan ketakadilan atau mengelakkan penyalahgunaan proses Mahkamah.
+244. Tiada apa-apa jua dalam Akta ini boleh disifatkan
 
-Hukum
+<!-- marginal: ada -->
 
-245. (1) Mana-mana penintukan atau tafsiran peruntukan Syarak. di bawah Akta ini yang tak selaras dengan Hukum Syarak hendaklah terbatal setakat ketakselarasan itu.
+sebagai mengehadkan atau menyentuh kuasa sedia ada
+
+<!-- marginal: Mahkamah. -->
+
+pada Mahkamah untuk membuat apa-apa perintah yang perlu untuk mengelakkan ketakadilan atau mengelakkan penyalahgunaan proses Mahkamah.
+
+<!-- marginal: Hukum -->
+
+245. (1) Mana-mana penintukan atau tafsiran peruntukan
+
+<!-- marginal: Syarak. -->
+
+di bawah Akta ini yang tak selaras dengan Hukum Syarak hendaklah terbatal setakat ketakselarasan itu.
 
 (2) Jika terdapat apa-apa lakuna atau jika apa-apa perkara tidak diperuntukkan dengan nyata dalam Akta ini, Mahkamah hendaklah menggunakan Hukum Syarak.
 
-Jawatankuasa
+<!-- marginal: Jawatankuasa -->
 
-246. (1) Maka hendaklah ditubuhkan suatu Jawatankuasa Kaedah- yang dinamai Jawatankuasa Kaedah-Kaedah Mahkamah Kaedah. Syariah yang terdiri daripada—
+246. (1) Maka hendaklah ditubuhkan suatu Jawatankuasa
+
+<!-- marginal: Kaedah- -->
+
+yang dinamai Jawatankuasa Kaedah-Kaedah Mahkamah
+
+<!-- marginal: Kaedah. -->
+
+Syariah yang terdiri daripada—
 
 (a) Ketua Hakim Syarie yang hendaklah menjadi Pengerusi;
 
@@ -3868,9 +4684,39 @@ Syariah boleh, membuat kaedah-kaedah, yang hendaklah disiarkan dalam Warta, bagi
 
 <!-- page 100 -->
 
-Pemberhen-
+<!-- marginal: Pemberhen- -->
 
-248. (1) Seksyen 76 hingga 93 Enakmen Pentadbiran tian Hukum Syara' 1952 bagi Negeri Selangor, sebagaimana pemakaian Enakmen. yang diubahsuaikan oleh Perintah Wilayah Persekutuan En. Set. (Pengubahsuaian Enakmen Pentadbiran Hukum Syarak) 3/52. P.U. (A) 1974 dan Perintah Wilayah Persekutuan Labuan 44/74. (Pengubahsuaian dan Peluasan Enakmen Pentadbiran P.U. (A) 352/85. Hukum Syarak) 1985 dan mana-mana peruntukan lain Enakmen-Enakmen itu yang berhubungan dengan tatacara mal hendaklah dengan ini terhenti terpakai bagi Wilayah- Wilayah Persekutuan pada permulaan kuat kuasa Akta ini.
+248. (1) Seksyen 76 hingga 93 Enakmen Pentadbiran
+
+<!-- marginal: tian -->
+
+Hukum Syara' 1952 bagi Negeri Selangor, sebagaimana
+
+<!-- marginal: pemakaian -->
+
+<!-- marginal: Enakmen. -->
+
+yang diubahsuaikan oleh Perintah Wilayah Persekutuan
+
+<!-- marginal: En. Set. -->
+
+(Pengubahsuaian Enakmen Pentadbiran Hukum Syarak)
+
+<!-- marginal: 3/52. -->
+
+<!-- marginal: P.U. (A) -->
+
+1974 dan Perintah Wilayah Persekutuan Labuan
+
+<!-- marginal: 44/74. -->
+
+(Pengubahsuaian dan Peluasan Enakmen Pentadbiran
+
+<!-- marginal: P.U. (A) -->
+
+<!-- marginal: 352/85. -->
+
+Hukum Syarak) 1985 dan mana-mana peruntukan lain Enakmen-Enakmen itu yang berhubungan dengan tatacara mal hendaklah dengan ini terhenti terpakai bagi Wilayah- Wilayah Persekutuan pada permulaan kuat kuasa Akta ini.
 
 (2) Jika mana-mana kes atau perkara belum selesai di hadapan mana-mana Mahkamah pada permulaan kuat kuasa Akta ini, peruntukan Akta ini hendaklah terpakai berkenaan dengan presiding kes atau perkara itu setakat yang tidak menyebabkan ketakadilan.
 
@@ -3984,7 +4830,11 @@ Antara
 
 dengan
 
-(3).......................,....................................................... Defendan Responden
+(3).......................,.......................................................
+
+<!-- marginal: Defendan -->
+
+<!-- marginal: Responden -->
 
 Catalan:
 
@@ -4332,7 +5182,7 @@ yang tersebut ke atas harta tersebut atau meminta saya menarik balik pemilikan d
 
 Bertarikh pada ............. haribulan ............................ 19........
 
-<!-- marginal: Bailif -->
+Bailif
 
 Kepada pemiutang pelaksanaan (atau Peguam Syarie bagi pemiutang pelaksanaan).
 
@@ -4422,9 +5272,7 @@ yang beralamat di ..............................................................
 
 (atau, jika tidak ada tindakan), saya telah menerima tuntutan-tuntutan bertentangan daripada ..................................................................... ........................................................................... yang beralamat di .................................................................... dan ............................ ............................................................................................... yang beralamat di .................................................................................... ke atas (nyatakan apa) yang bernilai lebih kurang RM ....................... Saya menjangka akan didakwa atas tuntutan- tuntutan ini oleh pihak-pihak menuntut tersebut.
 
-2. Saya tidak menuntut apa-apa kepentingan dalam hal perkara yang dipertikaikan (selain jumlah wang sebanyak RM ................................................ bagi kos atau caj) (atau mengikut mana-mana yang berkenaan). Saya tidak dengan apa-apa jua cara pun berpakat-sulit dengan salah seorang (atau mana-mana) pihak menuntut tersebut.
-
-3. Saya bersedia dan sanggup membawa ke dalam Mahkamah atau membayar atau membereskan hal perkara yang dipertikaikan mengikut apa-apa cara yang diarahkan oleh Mahkamah.
+2. Saya tidak menuntut apa-apa kepentingan dalam hal perkara yang dipertikaikan (selain jumlah wang sebanyak RM ................................................ bagi kos atau caj) (atau mengikut mana-mana yang berkenaan). Saya tidak dengan apa-apa jua cara pun berpakat-sulit dengan salah seorang (atau mana-mana) pihak menuntut tersebut. 3. Saya bersedia dan sanggup membawa ke dalam Mahkamah atau membayar atau membereskan hal perkara yang dipertikaikan mengikut apa-apa cara yang diarahkan oleh Mahkamah.
 
 Diangkat sum pah (seperti dalam Borang MS 26).
 
@@ -4448,9 +5296,7 @@ Kepada .................:......................;..................... yang beral
 
 Bahawasanya pihak menuntut di atas telah membuat tuntutan ke atas harta tertentu yang diambil dalam pelaksanaan di bawah proses yang dikefuarkan daripada Mahkamah ini atas permintaan anda:
 
-Anda dengan ini disaman supaya hadir di hadapan Mahkamah Syariah di ....................................................................................... pada hari............................. pada .......... haribulan ................................
-
-19............ pukul ..................... pagi/petang apabila tuntutan tersebut akan dihakimi dan apa-apa perintah dibuat mengenainya sebagaimana yang difikirkan adil oleh Mahkamah.
+Anda dengan ini disaman supaya hadir di hadapan Mahkamah Syariah di ....................................................................................... pada hari............................. pada .......... haribulan ................................ 19............ pukul ..................... pagi/petang apabila tuntutan tersebut akan dihakimi dan apa-apa perintah dibuat mengenainya sebagaimana yang difikirkan adil oleh Mahkamah.
 
 Bertarikh pada ........ haribulan ............................... 19........
 
@@ -5106,11 +5952,7 @@ Amaun penghakiman ..............................................................
 
 dan anda hendaklah melaksanakan penghakiman tersebut melalui mana-mana cara yang berikut:
 
-(1) .............................................................................................
-
-(2) .............................................................................................
-
-(3) .............................................................................................
+(1) ............................................................................................. (2) ............................................................................................. (3) .............................................................................................
 
 dan bahawa selepas membayar fee yang ditetapkan dan perbelanjaan pelaksanaan (termasuk kos bagi permintaan untuk mendapatkan kebenaran pelaksanaan dan kos melaksanakannya), membawa ke dalam Mahkamah apa-apa wang yang telah dilevikan dan dengan serta-merta mengembalikan perintah ini kepada Mahkamah.
 
@@ -5360,9 +6202,7 @@ Hakim/Pendafta r
 
 Kepada.............................. yangberalamatdi..............................(seorang pegawai) dalam perbadanan defendan yang dinamakan di atas.
 
-Anda dengan ini disaman supaya hadir di hadapan Mahkamah ...................... Syariahdi..............................pada.....haribulan.................
-
-19...... pukul.................... pagi/petanguntukdiperiksatentangtanggungan perbadanan defendan yang dinamakan di atas untuk menunaikan penghakiman (atau perintah) yang didapatkan (atau yang dibuat) terhadap perbadanan tersebut dalam tindakan di atas pada ..................... haribulan .................. 19.......... sebanyak RM .............................. dan kos sebanyak RM .............................. yang berikutan dengan penghakiman (atau perintah) itu jumlah wang sebanyak RM .............................. masih lagi terhutang.
+Anda dengan ini disaman supaya hadir di hadapan Mahkamah ...................... Syariahdi..............................pada.....haribulan................. 19...... pukul.................... pagi/petanguntukdiperiksatentangtanggungan perbadanan defendan yang dinamakan di atas untuk menunaikan penghakiman (atau perintah) yang didapatkan (atau yang dibuat) terhadap perbadanan tersebut dalam tindakan di atas pada ..................... haribulan .................. 19.......... sebanyak RM .............................. dan kos sebanyak RM .............................. yang berikutan dengan penghakiman (atau perintah) itu jumlah wang sebanyak RM .............................. masih lagi terhutang.
 
 Ambil perhatian bahawa jika anda tidak hadir sedemikian, maka perintah untuk menangkap anda boleh dikeluarkan.
 
@@ -5560,9 +6400,7 @@ Ambil perhatian bahawa plaintif (atau defendan) yang dinamakan di atas bercadang
 
 2. Alasan-alasan permohonan ialah:
 
-1. .................................................. (Nyatakan alasan-
-
-2. .................................................. alasan)
+1. .................................................. (Nyatakan alasan- 2. .................................................. alasan)
 
 3. ..................................................
 
@@ -5596,11 +6434,7 @@ Ambil perhatian bahawa plaintif (atau defendan) yang dinamakan di atas bercadang
 
 1. .................................................
 
-(Nyatakan alasan-
-
-2. ................................................. alasan)
-
-3. .................................................
+(Nyatakan alasan- 2. ................................................. alasan) 3. .................................................
 
 <!-- page 151 -->
 

@@ -1,0 +1,932 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-32-2007",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_35"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Perhubungan Perusahaan (Pindaan) 2007"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 10 seksyen yang berikut: \"No other claims after trade union has made a claim 10A. Where a claim for recognition by a trade union in respect of workmen or a class of workmen has been made under section 9, no other trade union of workmen shall make a claim for recognition under that section or be accorded recognition in respect of the same workmen or class of workmen until the claim is resolved under paragraph 9(3)(a) or deemed to have been withdrawn under subsection 9(4), or decided by the Minister under subsection 9(5).\". Pindaan seksyen 12"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 12 dengan seksyen yang berikut: \"12. Where a claim for recognition — (a) has been withdrawn by the trade union of workmen concerned after a report has been made by the trade union of workmen to the Director General under subsection 9(4); or (b) has been decided by the Minister under subsection 9(5), resulting in the trade union of workmen concerned not being accorded recognition, such trade union shall not make any further claim for recognition in respect of the same workmen or class of workmen until six months have elapsed from the date of such withdrawal or decision.\". Pindaan seksyen 13"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 13 Akta ibu dipinda dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: \"(2A) A proposal for a collective agreement may provide for one or more of the following: (a) provision for training to enhance skills and knowledge of the workmen; (b) provision for an annual review of the wage system; and (c) provision for a performance-based remuneration system.\". Pemotongan seksyen 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 15. Pindaan seksyen 16"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 16(5) Akta ibu dipinda dengan memotong perkataan \"(2) or\". Pindaan seksyen 19B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 19B(1) Akta ibu dipinda dengan menggantikan perenggan (a) dengan perenggan yang berikut: \"(a) an employer who is a party to the trade dispute may — (i) represent himself or be represented by his duly authorized employee; (ii) where he is a member of a trade union of employers, be represented by any officer or employee of such trade union of employers; or (iii) notwithstanding anything to the contrary contained in any written law relating to the registration of trade unions, be represented by any official of an organization of employers registered in Malaysia (not being a trade union of employers); and\". Pindaan seksyen 20"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_16__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 20 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (6) dengan subseksyen yang berikut: \"(6) In any proceedings under subsection (2) — (a) an employer may — (i) represent himself or be represented by his duly authorized employee; (ii) where he is a member of a trade union of employers, be represented by any officer or employee of such trade union of employers; or (iii) notwithstanding anything to the contrary contained in any written law relating to the registration of trade unions, be represented by any official of an organization of employers registered in Malaysia (not being a trade union of employers); and (b) a workman may — (i) represent himself; (ii) where he is a member of a trade union of workmen, be represented by any officer or employee of such trade union of workmen; or (iii) notwithstanding anything to the contrary contained in any written law relating to the registration of trade unions, be represented by any official of an organization of workmen registered in Malaysia (not being a trade union of workmen).\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (8) subseksyen yang berikut: \"(9) Where a workman who has made a representation under subsection (1) attends none of the conferences under paragraph (8)(b) without any reasonable excuse, the representation shall be deemed to have been withdrawn.\". Pindaan seksyen 22"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 22(5) Akta ibu dipinda dengan memasukkan selepas perkataan \"subsection 20(3)\" perkataan \"or any application for reference to the High Court under subsection 33A(1)\". Pindaan seksyen 23"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 23(4) Akta ibu dipinda dengan memasukkan selepas perkataan \"subsection 20(3)\" perkataan \"or any application for reference to the High Court under subsection 33A(1)\". Pindaan seksyen 23A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen23AAktaibudipindadenganmemotong subseksyen (2). Pindaan seksyen 27"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Perhubungan Perusahaan (Pindaan) 2007."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta, dan Menteri boleh menetapkan tarikh yang berlainan bagi permulaan kuat kuasa peruntukan yang berlainan Akta ini. Pindaan tajuk panjang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Perhubungan Perusahaan 1967 [Akta 177], yang disebut \"Akta ibu\" dalam Akta ini, dipinda dalam tajuk panjang dengan memasukkan selepas perkataan \"An Act\" perkataan \"to promote and maintain industrial harmony and\". Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_20__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_20__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 27 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_20__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_20__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_20__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1) —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_20__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_20__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c), dengan memotong perkataan \"(in proceedings under subsection 20(3))\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_20__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_20__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (d), dengan memotong perkataan \"(in proceedings under subsection 20(3))\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_20__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (2)(c), dengan menggantikan perkataan \"a registered\" dengan perkataan \"an\". Pindaan seksyen 29"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_21__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_21__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 29 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_21__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (f), dengan memotong perkataan \"and\" di hujung perenggan itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_21__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (f) perenggan yang berikut: \"(fa) order a case to be struck off or reinstated; and\". Pindaan seksyen 30"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 30 Akta ibu dipinda dengan memasukkan selepas subseksyen (6) subseksyen yang berikut: \"(6A) Notwithstanding subsection (6), the Court in making an award in relation to a reference to it under subsection 20(3) shall take into consideration the factors specified in the Second Schedule.\". Pindaan seksyen 33"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 33(5) Akta ibu dipinda dengan memasukkan selepas perkataan \"section 22\" perkataan \"or 23\". Pindaan seksyen 38"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 38(1) Akta ibu dipinda dengan menggantikan perkataan \"Education Act 1961 [Act 43 of 1961]\" dengan perkataan \"Education Act 1996 [Act 550]\". Pindaan seksyen 40"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_25__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_25__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 40 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_25__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: \"(2A) NO workman shall go on picket— (a) during the pendency of the proceedings of a Board of Inquiry appointed by the Minister under Part VIII involving such workman and employer and within seven days after the conclusion of such proceedings; (b) after a trade dispute or matter involving such workman and such employer has been referred to the Court and the parties concerned have been notified of such reference; and (c) after the Yang di-Pertuan Agong or State Authority, in the case of a trade dispute relating to any Government service or the service of any statutory authority, has withheld consent to the reference of the dispute to the Court under subsection 26(2), and the parties concerned have been notified thereof.\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_25__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan memasukkan selepas perkataan \"subsection (1)\" perkataan \"or (2A)\". Pemotongan seksyen 51"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 51. Bahagian baru IXA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas Bahagian IX Bahagian yang berikut: \"PART IXA INVESTIGATION AND PROSECUTION Investigation officers 51A. The Director General may appoint such number of investigation officers, from amongst the officers appointed under section 2A, as may be necessary for the purposes of this Act. Authority card 51B. (1) There shall be issued to each investigation officer an authority card which shall be signed by the Director General. (2) Whenever an investigation officer exercises any of the powers under this Act, he shall on demand produce to the person against whom the power is being exercised the authority card issued to him under subsection (1). Power to conduct investigation 51c. (1) Where an investigation officer has reason to suspect that a person has committed an offence against this Act, he may make such investigation as he thinks expedient for the due administration of this Act. (2) Whenever it appears to any Magistrate upon written information and after such enquiry as he thinks necessary, that there is reasonable cause to believe that in any place or building there is any object, article, material, thing, book or other document, which may be used as evidence of the commission of an offence against this Act, he may by warrant empower the investigation officer to enter the place or building, by force if necessary, and thereto search for, seize, take possession of and detain any such object, article, material, thing, book or other document. Power to examine persons 5ID. (1) An investigation officer may for the purpose of enforcing this Act, do all or any of the following: (a) order any person orally or in writing to attend before him for the purpose of being examined orally by the investigation officer in relation to any matter which may, in the opinion of the investigation officer, assist in the investigation into the offence; (b) order any person orally or in writing to produce before the investigation officer books, other documents, property, articles, or things which may, in the opinion of the investigation officer, assist in the investigation into the offence; or (c) by written notice require any person to furnish a statement in writing made on oath or affirmation setting out all such information which may be required under the notice, being information which, in the opinion of the investigation officer, would be of assistance in the investigation into the offence. (2) A person to whom an order under paragraph (l)(a) or (b), or a written notice under paragraph (l)fcj, has been given shall comply with the terms of such order or written notice, as the case may be, and, in particular— (a) a person to whom an order under paragraph (\\)(a) has been given shall attend in accordance with the terms of the order to be examined, and shall continue to so attend from day to day as directed by the investigation officer until the examination is completed, and shall during such examination disclose all information which is within his knowledge, or which is available to him, or which is capable of being obtained by him, in respect of the matter in relation to which he is being examined, whether or not any question is put to him with regard thereto, and where any question is put to him he shall answer the same truthfully and to the best of his knowledge and belief, and shall not refuse to answer any question on the ground that it tends to incriminate him or his spouse; (b) a person to whom an order has been given under paragraph (i)(b) shall not conceal, hide, destroy, alter, remove from or send out of Malaysia, or deal with expend, or dispose of, any book, other document, property, article, or thing specified in the order, or alter or deface any entry in any such book or other document, or cause the same to be done, or assist or conspire to the same; and (c) a person to whom a written notice has been given under paragraph (\\)(c) shall, in his statement made on oath or affirmation, furnish and disclose truthfully all information required under the notice which is within his knowledge, or which is available to him, or which is capable of being obtained by him, and shall not fail to furnish or disclose the same on the ground that it tends to incriminate him or his spouse. (3) A person to whom an order or a written notice is given under subsection (1) shall comply with such order or notice and with the provisions of subsection (2) in relation thereto, notwithstanding the provisions of any written law, whether enacted before or after the commencement of this Act, or of any oath, undertaking or requirement of secrecy, to the contrary, or of any obligation under any contract, agreement or arrangement, whether express or implied, to the contrary. (4) Where any person discloses any information or produces any book, other document, property, article, or thing, pursuant to subsections (1) and (2), neither the first-mentioned person, nor any other person on whose behalf or direction or as whose agent or employee, the first-mentioned person may be acting, shall, on account of such disclosure or production, be liable to any prosecution for any offence under or by virtue of any law, or to any proceeding or claim in any form or of any description by any person under or by virtue of any agreement or arrangement, or otherwise howsoever. (5) An investigation officer may seize, take possession of and retain for such duration as he deems necessary, any book, other document, property, article or thing produced before him in the course of an investigation under subsection (1), or search the person who is being examined by him under paragraph (l)(a), or who is producing anything to him under paragraph (l)(b), for ascertaining whether anything relevant to the investigation is concealed, or is otherwise, upon such person. (6) An examination under paragraph (l)(a) shall be reduced into writing by the investigation officer and shall be read to and signed by the person being examined, and where such person refuses to sign the record, the investigation officer shall endorse thereon under his hand the fact of such refusal and the reasons therefor, if any, stated by the person examined. (7) The record of an examination under paragraph (\\)(a), or a written statement on oath or affirmation made pursuant to paragraph (l)fcj, or any book, other document, property, article or thing produced under paragraph (\\)(b) or otherwise in the course of an examination under paragraph (l)(a) or under a written statement on oath or affirmation made pursuant to paragraph (l)(c), shall, notwithstanding any written law or rule of law to the contrary, be admissible in evidence in any proceedings in any court- (a) for, or in relation to, an offence under this Act; (b) for, or in relation to, any other matter under this Act; or (c) for, or in relation to, any offence under any other written law, regardless whether such proceedings are against the person who was examined, or who produced the book, other document, property, article or thing, or who made the written statement on oath or affirmation, or against any other person. (8) A person who — (a) makes, orally or in writing, or signs any declaration, return, certificate or other document required by this Act which is untrue or incorrect in any particular; or (b) fails or refuses to furnish or produce any declaration, return, certificate or other document required by this Act to be furnished or produced, shall be guilty of an offence. Prosecution 51E. No prosecution shall be instituted for an offence under this Act or any regulations made under this Act except by or with the consent in writing of the Public Prosecutor. Offence by bodies corporate, etc. 51F. Where an offence under this Act has been committed by a body, whether corporate or unincorporated— (a) in the case of a body corporate, any person who was a director, manager, secretary or any other officer responsible for the management of the body corporate at the time of the commission of the offence; (b) in the case of a partnership or sole proprietor, every partner in the partnership or the sole proprietor at the time of the commission of the offence; (c) in the case of a trade union, the President, Secretary, Treasurer or other officer of the trade union at the time of the commission of the offence; or (d) in the case of a society or any other unincorporated body, the President, Chairman, Secretary, Treasurer or other similar officer of the society or unincorporated body at the time of the commission of the offence, may be charged severally or jointly in the same proceedings as the body corporate, partnership, sole proprietor, trade union, society or unincorporated body and shall be deemed to have committed the offence unless he proves that the offence was committed without his knowledge or connivance or that he took all reasonable precautions or that he had exercised due diligence to prevent the commission of the offence.\". Pindaan seksyen 54"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 54 Akta ibu dipinda dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: \"(4) The exclusion specified in subsections (1), (2) and (3) shall also be applicable in any proceedings before any other court.\". Pindaan seksyen 56"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_29__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_29__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 56 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_29__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: \"(2A) Notwithstanding the provisions of subsection 33(1), the Court shall, upon making the order under subsection (2), have the power to interpret any matter relating to the complaint made.\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_29__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4), dengan memasukkan selepas perkataan \"Registrar of the Court may\" perkataan \", at the request of either party,\". Seksyen baru 60A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 2 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 60 seksyen yang berikut: \"Protection of Director General and other officers 60A. NO action or prosecution shall be brought, instituted or maintained in any court against— (a) the Director General or any other officer duly appointed or authorized under this Act for or on account of or in respect of any act ordered or done in good faith for the purpose of carrying into effect this Act and any regulations made under this Act; and (b) any other person for or on account of or in respect of any act done or purported to be done by him under the order, direction or instruction of the Director General or any other officer duly appointed under this Act if the act was done in good faith and in a reasonable belief that it was necessary for the purpose intended to be served thereby.\". Pindaan seksyen 61"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 61 Akta ibu dipinda dengan menggantikan perkataan \"Schedule\" dengan perkataan \"First Schedule or Second Schedule\". Pindaan seksyen 62"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_32__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_32__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 62 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_32__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_32",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (f), dengan memotong perkataan \"and\" di hujung perenggan itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_32__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_32",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (f) perenggan yang berikut: \"(fa) provide for the procedures relating to a claim for recognition by a trade union of workmen; and\". Pindaan Jadual"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jadual kepada Akta ibu dipinda dengan menggantikan perkataan \"SCHEDULE\" dengan perkataan \"FIRST SCHEDULE\". Jadual baru Kedua"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas Jadual Pertama Jadual yang berikut: \"SECOND SCHEDULE FACTORS FOR CONSIDERATION IN MAKING AN AWARD IN RELATION TO A REFERENCE UNDER SUBSECTION 20(3) [Subsection 30(6A)1 1. In the event that backwages are to be given, such backwages shall not exceed twenty-four months' backwages from the date of dismissal based on the last-drawn salary of the person who has been dismissed without just cause or excuse; 2. In the case of a probationer who has been dismissed without just cause or excuse, any backwages given shall not exceed twelve months' backwages from the date of dismissal based on his last-drawn salary; 3. Where there is post-dismissal earnings, a percentage of such earnings, to be decided by the Court, shall be deducted from the backwages given; 4. Any relief given shall not include any compensation for loss of future earnings; and 5. Any relief given shall take into account contributory misconduct of the workman.\". Peruntukan peralihan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua aduan yang dibuat di bawah seksyen 8, tuntutan pengiktirafan yang dibuat di bawah seksyen 9, representasi bagi diambil kerja semula yang dibuat di bawah seksyen 20 Akta ibu, dan semua prosiding yang dimulakan atau award yang dibuat di Mahkamah Perusahaan yang berhubungan dengan rujukan di bawah subseksyen 20(3) sebelum Akta ini mula berkuat kuasa hendaklah diteruskan dan mempunyai kesan seolah-olah Akta ibu tidak dipinda oleh Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif \"essential service\", dengan memasukkan selepas perkataan \"specified in the\" perkataan \"First\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif \"maliciously\" takrif yang berikut: \"Minister\" means the Minister charged with the responsibility for human resources;'. Pindaan seksyen 2A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 2A Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (2) dengan subseksyen yang berikut: \"(2) The Yang di-Pertuan Agong — (a) shall appoint a Deputy Director General for Industrial Relations; and (b) may appoint such number of Directors of Industrial Relations, Principal Assistant Directors of Industrial Relations, Assistant Directors of Industrial Relations and Industrial Relations Officers as he considers necessary or expedient for the purposes of carrying out and giving effect to the provisions of this Act.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: \"(2A) The persons appointed under subsections (1) and (2) shall be persons from the Industrial Relations Officers Scheme of Service and such appointments shall be published in the Gazette\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: \"(4) Subject to such limitations, if any, as may be prescribed, an officer appointed under subsection (2) shall exercise all the powers, discharge all the duties and perform all the functions of the Director General under this Act, and every power so exercised, duty so discharged and function so performed shall be deemed to have been duly exercised, discharged and performed for the purposes of this Act.\". Seksyen baru 2B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 2A seksyen yang berikut: \"All officers to be public servants 2B. All officers appointed under section 2A shall be deemed to be public servants for the purposes of the Penal Code [Act 574].\". Pindaan seksyen 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 5(2)(b) Akta ibu dipinda dengan memasukkan selepas perkataan \"a managerial\" di mana-mana jua terdapat perkataan \", an executive or a security\". Pindaan seksyen 8"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 8 Akta ibu dipinda dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: \"(1A) Where a complaint in subsection (1) relates to the dismissal of a workman, the provisions of section 20 shall apply to the exclusion of subsections 8(2) to 8(4).\". Pindaan seksyen 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_j"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 9 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1A) subseksyen yang berikut: \"(1B) The Director General, upon receipt of a reference under subsection (1A), may take such steps or make such enquiries as he may consider necessary or expedient to resolve the matter. (lc) Where the matter is not resolved under subsection (1B) the Director General shall notify the Minister. (ID) Upon receipt of the notification under subsection (lc), the Minister shall give his decision as to whether any workman or workmen are employed in a managerial, executive, confidential or security capacity and communicate in writing the decision to the trade union of workmen, to the employer and to the trade union of employers concerned.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan \"A trade union\" dengan perkataan \"Subject to subsection (1), a trade union\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3) —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan menggantikan perkataan \"; or\" dengan noktah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perenggan (c);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (3), subseksyen yang berikut: \"(3A) Upon according recognition to the trade union of workmen concerned under paragraph (3)(a), employer or the trade union of employers concerned shall notify the Director General.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (4) dengan subseksyen yang berikut: \"(4) Where the trade union of workmen concerned receives a notification under paragraph (3)(b), or where the employer or trade union of employers concerned fails to comply with subsection (3), the trade union of workmen may, within fourteen days — (a) of the receipt of the notification; or (b) after the twenty-one day period in subsection (3) has lapsed, report the matter in writing to the Director General, failing which the claim for recognition shall be deemed to have been withdrawn.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (4A) dengan subseksyen yang berikut: \"(4A) Upon receipt of a report under subsection (4), the Director General may take such steps or make such enquiries to ascertained the competence of the trade union of workmen concerned to represent any workmen or class of workmen in respect of whom the recognition is sought to be accorded; and (b) by way of secret ballot, the percentage of the workmen or class of workmen, in respect of whom recognition is being sought, who are members of the trade union of workmen making the claim.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_g__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_g__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_g__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_g__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4B) —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_g__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_g",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"under subsection\" perkataan \"(1B) or\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_g__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_g__subpara_ii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_g__subpara_ii__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_g",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a) —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_g__subpara_ii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_g__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"necessary or relevant\" perkataan \"within the period specified in the requirement\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_g__subpara_ii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_g__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan \"and\" di hujung perenggan itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_g__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_g__subpara_iii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_g__subpara_iii__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_g",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b) —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_g__subpara_iii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_g__subpara_iii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"for his decision any question on\" dengan perkataan \"for him to ascertain\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_g__subpara_iii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_g__subpara_iii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah dengan perkataan \"; and\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_g__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_g",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (b) perenggan yang berikut: \"(c) may enter any place of employment where any workmen in respect of whom a claim for recognition is sought to be accorded are being employed to examine any records or documents or to conduct secret ballot.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (4c) dengan subseksyen yang berikut: \"(4c) Upon ascertaining the matter under subsection (4A), the Director General shall notify the Minister.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (5), dengan memotong perkataan \"; a decision of the Minister under this subsection may include a decision as to who are workmen employed in a managerial, executive, confidential or security capacity\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (6), dengan memasukkan selepas perkataan \"under subsection\" perkataan \"(ID) or\". Pindaan seksyen 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_9__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_9__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 10(2) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan memotong perkataan \"or\" di hujung perenggan itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (b) dengan perenggan yang berikut: \"(b) where the claim for recognition is deemed to have been withdrawn under subsection 9(4) or has been decided by the Minister under subsection 9(5); or\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_9__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/32/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (b) perenggan yang berikut: \"(c) where a termination is due to retirement, expiry of a fixed term contract, non-confirmation of a probationer or being medically boarded out.\". Seksyen baru 10A"
+      }
+    }
+  ]
+}

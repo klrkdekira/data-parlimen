@@ -20,6 +20,10 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (a) by deleting the definition of “recognized training institution”;
 
+<!-- marginal: WJW24/0671 BI.indd 1 -->
+
+<!-- marginal: 12/07/2024 6:33 PM -->
+
 <!-- page 2 -->
 
 (b) by inserting after the definition of “houseman training” the following definition:
@@ -49,6 +53,10 @@ ENACTED by the Parliament of Malaysia as follows:
 (a) in paragraph (b), by substituting for the word “nine” the word “five”; and
 
 (b) in paragraph (d), by substituting for the word “three” the word “seven”.
+
+<!-- marginal: WJW24/0671 BI.indd 2 -->
+
+<!-- marginal: 12/07/2024 6:33 PM -->
 
 <!-- page 3 -->
 
@@ -82,6 +90,10 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (a) he has been fully registered under section 14;
 
+<!-- marginal: WJW24/0671 BI.indd 3 -->
+
+<!-- marginal: 12/07/2024 6:33 PM -->
+
 <!-- page 4 -->
 
 (b) he holds any of the specialist qualifications as specified in the fourth column of the Fourth Schedule for a duration of recognition that may be determined by the Council;
@@ -110,6 +122,10 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (b) any other training acceptable to the Council which is provided outside Malaysia in relation to a specialty as specified in the first column of the Fourth Schedule or subspecialty as specified in the Fifth Schedule.
 
+<!-- marginal: WJW24/0671 BI.indd 4 -->
+
+<!-- marginal: 12/07/2024 6:33 PM -->
+
 <!-- page 5 -->
 
 (4) The Minister may from time to time, after consulting the Council, add to, delete from or amend the Fourth Schedule and Fifth Schedule by order published in the Gazette.’’.
@@ -134,6 +150,10 @@ ENACTED by the Parliament of Malaysia as follows:
 
 14d. Any Specialist who has been registered under this Act may make an application to be registered in a subspecialty as specified in the Fifth Schedule in the form and manner as may be determined by the Council and subject to such restrictions and conditions as the Council thinks fit.”.
 
+<!-- marginal: WJW24/0671 BI.indd 5 -->
+
+<!-- marginal: 12/07/2024 6:33 PM -->
+
 <!-- page 6 -->
 
 ### Amendment of section 36
@@ -154,33 +174,85 @@ ENACTED by the Parliament of Malaysia as follows:
 
 10. The principal Act is amended by inserting after the Third Schedule the following schedules:
 
-“Fourth Schedule
+## “FOURTH SCHEDULE
 
 [Paragraphs 14b(1)(b) and (3)(b)]
 
 ## LIST OF REGISTRABLE SPECIALIST QUALIFICATIONS
 
-(1)
+(1) (2) (3)
 
-(2)
+<!-- marginal: (4) -->
 
-(3) (4) Specialty Country or Name of institution Description of group of granting qualification qualification countries in which qualification is granted
+Specialty Country or Name of institution
+
+<!-- marginal: Description of -->
+
+group of granting qualification
+
+<!-- marginal: qualification -->
+
+countries in which qualification is granted
 
 (1) Anaesthesiology
 
-(a) Malaysia
+(a) Malaysia (i) International
 
-(i) International Master of Medicine and Critical Care Islamic (Anaesthesiology) University, Malaysia
+<!-- marginal: Master of Medicine -->
 
-(ii) Universiti Doctor of Kebangsaan Anaesthesiology & Malaysia Critical Care This qualification was formerly known as Master of Medicine (Anaesthesiology)
+and Critical Care Islamic
+
+<!-- marginal: (Anaesthesiology) -->
+
+University, Malaysia
+
+(ii) Universiti
+
+<!-- marginal: Doctor of -->
+
+Kebangsaan
+
+<!-- marginal: Anaesthesiology & -->
+
+Malaysia
+
+<!-- marginal: Critical Care -->
+
+<!-- marginal: This qualification -->
+
+<!-- marginal: was formerly -->
+
+<!-- marginal: known as Master -->
+
+<!-- marginal: of Medicine -->
+
+<!-- marginal: (Anaesthesiology) -->
+
+<!-- marginal: 12/07/2024 6:33 PM -->
 
 <!-- page 7 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Specialty Country or Name of institution Description of group of granting qualification qualification countries in which qualification is granted
+<!-- marginal: Specialty -->
+
+<!-- marginal: Country or -->
+
+Name of institution Description of
+
+<!-- marginal: group of -->
+
+granting qualification qualification
+
+<!-- marginal: countries -->
+
+<!-- marginal: in which -->
+
+<!-- marginal: qualification -->
+
+<!-- marginal: is granted -->
 
 (iii) Universiti Master of Malaya Anaesthesiology
 
@@ -190,7 +262,15 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (b) United
 
-(i) American Diplomate of the States of Board of American Board of America Anaesthesiology Anaesthesiology
+(i) American Diplomate of the
+
+<!-- marginal: States of -->
+
+Board of American Board of
+
+<!-- marginal: America -->
+
+Anaesthesiology Anaesthesiology
 
 (c) Australia
 
@@ -198,11 +278,21 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (d) Australia
 
-(i) Australian and Fellowship of the and New New Zealand Australian and New Zealand College of Zealand College of Anaesthesia Anaesthesia
+(i) Australian and Fellowship of the
+
+<!-- marginal: and New -->
+
+New Zealand Australian and New
+
+<!-- marginal: Zealand -->
+
+College of Zealand College of Anaesthesia Anaesthesia
 
 (e) Belgium (i) Ghent University Certificate of Specialization in Anaesthesiology
 
-(f) Ireland
+(f)
+
+<!-- marginal: Ireland -->
 
 (i) College of Fellowship of Anaesthesiologists the College of of Ireland Anaesthesiologists of Ireland
 
@@ -210,19 +300,41 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (iii) Royal College Fellowship of of Surgeons in the College of Ireland Anaesthetists of Royal College of Surgeons in Ireland
 
+<!-- marginal: WJW24/0671 BI.indd 7 -->
+
 <!-- page 8 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Specialty Country or Name of institution Description of group of granting qualification qualification countries in which qualification is granted
+<!-- marginal: Specialty -->
+
+<!-- marginal: Country or -->
+
+Name of institution Description of
+
+<!-- marginal: group of -->
+
+granting qualification qualification
+
+<!-- marginal: countries -->
+
+<!-- marginal: in which -->
+
+<!-- marginal: qualification -->
+
+<!-- marginal: is granted -->
 
 (iv) Royal College Fellowship of of Surgeons in the Faculty of Ireland Anaesthetists of Royal College of Surgeons in Ireland
 
 (g) United
 
-(i) Royal College of Fellowship of the Kingdom Anaesthetists of Royal College of England Anaesthetists
+(i) Royal College of Fellowship of the
+
+<!-- marginal: Kingdom -->
+
+Anaesthetists of Royal College of England Anaesthetists
 
 (ii) Royal College Fellowship of of Surgeons of the Faculty of England Anaesthetists of Royal College of Surgeons This qualification recognized until year 1988
 
@@ -246,17 +358,39 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (i) Royal College of Fellowship of the Pathologists of Royal College of Australasia Pathologists of Australasia
 
+<!-- marginal: WJW24/0671 BI.indd 8 -->
+
 <!-- page 9 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Specialty Country or Name of institution Description of group of granting qualification qualification countries in which qualification is granted
+<!-- marginal: Specialty -->
+
+<!-- marginal: Country or -->
+
+Name of institution Description of
+
+<!-- marginal: group of -->
+
+granting qualification qualification
+
+<!-- marginal: countries -->
+
+<!-- marginal: in which -->
+
+<!-- marginal: qualification -->
+
+<!-- marginal: is granted -->
 
 (c) United
 
-(i) Royal College of Fellowship of the Kingdom Pathologists of Royal College of United Kingdom Pathologists This qualification was formerly known as Membership of the Royal College of Pathologists of United Kingdom
+(i) Royal College of Fellowship of the
+
+<!-- marginal: Kingdom -->
+
+Pathologists of Royal College of United Kingdom Pathologists This qualification was formerly known as Membership of the Royal College of Pathologists of United Kingdom
 
 (3) Public Health
 
@@ -278,13 +412,31 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (viii) Universiti Master in Public Malaysia Health Sarawak This qualification recognized until year 2000, except for four-year programme
 
+<!-- marginal: WJW24/0671 BI.indd 9 -->
+
 <!-- page 10 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Specialty Country or Name of institution Description of group of granting qualification qualification countries in which qualification is granted
+<!-- marginal: Specialty -->
+
+<!-- marginal: Country or -->
+
+Name of institution Description of
+
+<!-- marginal: group of -->
+
+granting qualification qualification
+
+<!-- marginal: countries -->
+
+<!-- marginal: in which -->
+
+<!-- marginal: qualification -->
+
+<!-- marginal: is granted -->
 
 (ix) Universiti Putra Doctor of Public Malaysia Health
 
@@ -296,7 +448,15 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (b) United
 
-(i) Department of Master of Public States of Epidemiology Health America and Public This qualification Health, School recognized until of Medicine, year 2000 Yale University
+(i) Department of Master of Public
+
+<!-- marginal: States of -->
+
+Epidemiology Health
+
+<!-- marginal: America -->
+
+and Public This qualification Health, School recognized until of Medicine, year 2000 Yale University
 
 (ii) Graduate School Master of Public of Public Health, Health University of This qualification Pittsburgh recognized until year 2000
 
@@ -304,13 +464,31 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (iv) John Hopkins Doctor of Public University Health
 
+<!-- marginal: WJW24/0671 BI.indd 10 -->
+
 <!-- page 11 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Specialty Country or Name of institution Description of group of granting qualification qualification countries in which qualification is granted
+<!-- marginal: Specialty -->
+
+<!-- marginal: Country or -->
+
+Name of institution Description of
+
+<!-- marginal: group of -->
+
+granting qualification qualification
+
+<!-- marginal: countries -->
+
+<!-- marginal: in which -->
+
+<!-- marginal: qualification -->
+
+<!-- marginal: is granted -->
 
 (v) New York Doctor of Public Medical College Health
 
@@ -330,13 +508,31 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (xiii) School of Public Doctorate in Public Health, Saint Health Louis University
 
+<!-- marginal: WJW24/0671 BI.indd 11 -->
+
 <!-- page 12 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Specialty Country or Name of institution Description of group of granting qualification qualification countries in which qualification is granted
+<!-- marginal: Specialty -->
+
+<!-- marginal: Country or -->
+
+Name of institution Description of
+
+<!-- marginal: group of -->
+
+granting qualification qualification
+
+<!-- marginal: countries -->
+
+<!-- marginal: in which -->
+
+<!-- marginal: qualification -->
+
+<!-- marginal: is granted -->
 
 (xiv) School of Doctor of Public Public Health, Health University of California, Berkeley
 
@@ -354,13 +550,31 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (xxi) School of Doctorate in Public Public Health, Health University of North Carolina
 
+<!-- marginal: WJW24/0671 BI.indd 12 -->
+
 <!-- page 13 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Specialty Country or Name of institution Description of group of granting qualification qualification countries in which qualification is granted
+<!-- marginal: Specialty -->
+
+<!-- marginal: Country or -->
+
+Name of institution Description of
+
+<!-- marginal: group of -->
+
+granting qualification qualification
+
+<!-- marginal: countries -->
+
+<!-- marginal: in which -->
+
+<!-- marginal: qualification -->
+
+<!-- marginal: is granted -->
 
 (xxii) School of Master of Public Public Health, Health University of This qualification North Carolina recognized until year 2000
 
@@ -380,13 +594,31 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (d) Philippines (i) Institute of Master of Hospital Public Health, Administration University of This qualification Philippines recognized until year 2000
 
+<!-- marginal: WJW24/0671 BI.indd 13 -->
+
 <!-- page 14 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Specialty Country or Name of institution Description of group of granting qualification qualification countries in which qualification is granted
+<!-- marginal: Specialty -->
+
+<!-- marginal: Country or -->
+
+Name of institution Description of
+
+<!-- marginal: group of -->
+
+granting qualification qualification
+
+<!-- marginal: countries -->
+
+<!-- marginal: in which -->
+
+<!-- marginal: qualification -->
+
+<!-- marginal: is granted -->
 
 (ii) University of Master of Public Manila Health This qualification recognized until year 2000
 
@@ -396,7 +628,11 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (f) United
 
-(i) London School Doctorate of Public Kingdom of Hygiene Health & Tropical Medicine
+(i) London School Doctorate of Public
+
+<!-- marginal: Kingdom -->
+
+of Hygiene Health & Tropical Medicine
 
 (ii) University of Master of Science in London Community Health in Developing Countries This qualification recognized until year 2000
 
@@ -408,15 +644,37 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (a) Malaysia
 
-(i) Universiti Doctor of Microbiology Kebangsaan Pathology (Medical Malaysia Microbiology) This qualification was formerly known as Master of Pathology (Medical Microbiology)
+(i) Universiti Doctor of
+
+<!-- marginal: Microbiology -->
+
+Kebangsaan Pathology (Medical Malaysia Microbiology) This qualification was formerly known as Master of Pathology (Medical Microbiology)
+
+<!-- marginal: WJW24/0671 BI.indd 14 -->
 
 <!-- page 15 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Specialty Country or Name of institution Description of group of granting qualification qualification countries in which qualification is granted
+<!-- marginal: Specialty -->
+
+<!-- marginal: Country or -->
+
+Name of institution Description of
+
+<!-- marginal: group of -->
+
+granting qualification qualification
+
+<!-- marginal: countries -->
+
+<!-- marginal: in which -->
+
+<!-- marginal: qualification -->
+
+<!-- marginal: is granted -->
 
 (ii) Universiti Master of Malaya Pathology (Medical Microbiology)
 
@@ -434,13 +692,21 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (c) United
 
-(i) Royal College of Fellowship of the Kingdom Pathologists of Royal College of United Kingdom Pathologists This qualification was formerly known as Membership of the Royal College of Pathologists of United Kingdom
+(i) Royal College of Fellowship of the
+
+<!-- marginal: Kingdom -->
+
+Pathologists of Royal College of United Kingdom Pathologists This qualification was formerly known as Membership of the Royal College of Pathologists of United Kingdom
 
 (5) Obstetrics and
 
 (a) Malaysia
 
-(i) International Master of Obstetrics Gynaecology Islamic and Gynaecology University, Malaysia
+(i) International Master of Obstetrics
+
+<!-- marginal: Gynaecology -->
+
+Islamic and Gynaecology University, Malaysia
 
 (ii) Universiti Doctor of Obstetrics Kebangsaan & Gynaecology Malaysia This qualification was formerly known as Master of Obstetrics & Gynaecology
 
@@ -448,21 +714,51 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (iv) Universiti Sains Master of Medicine Malaysia (Obstetrics & Gynaecology)
 
+<!-- marginal: WJW24/0671 BI.indd 15 -->
+
 <!-- page 16 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Specialty Country or Name of institution Description of group of granting qualification qualification countries in which qualification is granted
+<!-- marginal: Specialty -->
+
+<!-- marginal: Country or -->
+
+Name of institution Description of
+
+<!-- marginal: group of -->
+
+granting qualification qualification
+
+<!-- marginal: countries -->
+
+<!-- marginal: in which -->
+
+<!-- marginal: qualification -->
+
+<!-- marginal: is granted -->
 
 (b) Australia
 
-(i) Royal Fellowship of the and New Australian and Royal Australian Zealand New Zealand and New Zealand College of College of Obstetricians and Obstetricians and Gynaecologists Gynaecologists
+(i) Royal Fellowship of the
+
+<!-- marginal: and New -->
+
+Australian and Royal Australian
+
+<!-- marginal: Zealand -->
+
+New Zealand and New Zealand College of College of Obstetricians and Obstetricians and Gynaecologists Gynaecologists
 
 (c) United
 
-(i) Royal College of Membership of the Kingdom Obstetricians and Royal College of Gynaecologists Obstetricians and of United Gynaecologists Kingdom
+(i) Royal College of Membership of the
+
+<!-- marginal: Kingdom -->
+
+Obstetricians and Royal College of Gynaecologists Obstetricians and of United Gynaecologists Kingdom
 
 (6) Ophthalmology
 
@@ -476,7 +772,15 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (b) United
 
-(i) American Diplomate from the States of Board of American Board of America Ophthalmology Ophthalmology
+(i) American Diplomate from the
+
+<!-- marginal: States of -->
+
+Board of American Board of
+
+<!-- marginal: America -->
+
+Ophthalmology Ophthalmology
 
 (c) Australia
 
@@ -484,27 +788,59 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (d) Australia
 
-(i) Royal Fellowship of the and New Australian and Royal Australian Zealand New Zealand and New Zealand College of College of Ophthalmologists Ophthalmologists
+(i) Royal Fellowship of the
+
+<!-- marginal: and New -->
+
+Australian and Royal Australian
+
+<!-- marginal: Zealand -->
+
+New Zealand and New Zealand College of College of Ophthalmologists Ophthalmologists
 
 (e) Canada
 
 (i) Royal College Fellowship of the of Physicians Royal College of and Surgeons of Surgeons of Canada Canada in Ophthalmology This qualification recognized until December 2023
 
+<!-- marginal: WJW24/0671 BI.indd 16 -->
+
 <!-- page 17 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Specialty Country or Name of institution Description of group of granting qualification qualification countries in which qualification is granted
+<!-- marginal: Specialty -->
 
-(f) Ireland
+<!-- marginal: Country or -->
+
+Name of institution Description of
+
+<!-- marginal: group of -->
+
+granting qualification qualification
+
+<!-- marginal: countries -->
+
+<!-- marginal: in which -->
+
+<!-- marginal: qualification -->
+
+<!-- marginal: is granted -->
+
+(f)
+
+<!-- marginal: Ireland -->
 
 (i) Royal College Fellowship of the of Surgeons in Royal College of Ireland Surgeons in Ireland in Ophthalmology
 
 (g) United
 
-(i) Royal College Fellowship of the Kingdom of Physicians Royal College and Surgeons of of Surgeons Glasgow of Glasgow in Ophthalmology This qualification recognized until year 1999
+(i) Royal College Fellowship of the
+
+<!-- marginal: Kingdom -->
+
+of Physicians Royal College and Surgeons of of Surgeons Glasgow of Glasgow in Ophthalmology This qualification recognized until year 1999
 
 (ii) Royal College of Fellowship of the Ophthalmologists Royal College of of United Ophthalmologists Kingdom
 
@@ -524,15 +860,37 @@ This qualification was formerly known as Sarjana Radioterapi & Onkologi
 
 (c) United
 
-(i) Royal College of Fellowship of the Kingdom Radiologists of Royal College of United Kingdom Radiologists
+(i) Royal College of Fellowship of the
+
+<!-- marginal: Kingdom -->
+
+Radiologists of Royal College of United Kingdom Radiologists
+
+<!-- marginal: WJW24/0671 BI.indd 17 -->
 
 <!-- page 18 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Specialty Country or Name of institution Description of group of granting qualification qualification countries in which qualification is granted
+<!-- marginal: Specialty -->
+
+<!-- marginal: Country or -->
+
+Name of institution Description of
+
+<!-- marginal: group of -->
+
+granting qualification qualification
+
+<!-- marginal: countries -->
+
+<!-- marginal: in which -->
+
+<!-- marginal: qualification -->
+
+<!-- marginal: is granted -->
 
 (8) Orthopaedic
 
@@ -556,17 +914,39 @@ This qualification was formerly known as Sarjana Radioterapi & Onkologi
 
 (i) Royal College Fellowship of the of Surgeons in Royal College of Ireland Surgeons in Ireland in Trauma and Orthopaedic Surgery
 
+<!-- marginal: WJW24/0671 BI.indd 18 -->
+
 <!-- page 19 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Specialty Country or Name of institution Description of group of granting qualification qualification countries in which qualification is granted
+<!-- marginal: Specialty -->
+
+<!-- marginal: Country or -->
+
+Name of institution Description of
+
+<!-- marginal: group of -->
+
+granting qualification qualification
+
+<!-- marginal: countries -->
+
+<!-- marginal: in which -->
+
+<!-- marginal: qualification -->
+
+<!-- marginal: is granted -->
 
 (c) United
 
-(i) Royal College Fellowship of the Kingdom of Surgeons of Royal College of United Kingdom Surgeons
+(i) Royal College Fellowship of the
+
+<!-- marginal: Kingdom -->
+
+of Surgeons of Royal College of United Kingdom Surgeons
 
 (ii) Royal College Fellowship of the of Physicians Royal College and Surgeons of of Surgeons of Glasgow Glasgow in Trauma and Orthopaedic Surgery
 
@@ -582,13 +962,31 @@ This qualification was formerly known as Sarjana Radioterapi & Onkologi
 
 (iii) Universiti Sains Master of Medicine Malaysia (Otorhinolaringology, Head and Neck Surgery) This qualification was formerly known as Master of Medicine (Otorhinolaryngology)
 
+<!-- marginal: WJW24/0671 BI.indd 19 -->
+
 <!-- page 20 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Specialty Country or Name of institution Description of group of granting qualification qualification countries in which qualification is granted
+<!-- marginal: Specialty -->
+
+<!-- marginal: Country or -->
+
+Name of institution Description of
+
+<!-- marginal: group of -->
+
+granting qualification qualification
+
+<!-- marginal: countries -->
+
+<!-- marginal: in which -->
+
+<!-- marginal: qualification -->
+
+<!-- marginal: is granted -->
 
 (iv) KPJ Healthcare Master of University Otorhinolaryngology– College Head and Neck Surgery
 
@@ -600,7 +998,11 @@ This qualification was formerly known as Sarjana Radioterapi & Onkologi
 
 (c) United
 
-(i) Royal College Fellowship of the Kingdom of Physicians Royal College and Surgeons of of Surgeons Glasgow of Glasgow in Laryngology
+(i) Royal College Fellowship of the
+
+<!-- marginal: Kingdom -->
+
+of Physicians Royal College and Surgeons of of Surgeons Glasgow of Glasgow in Laryngology
 
 (ii) Royal College Fellowship of the of Physicians Royal College and Surgeons of of Surgeons Glasgow of Glasgow in Otorhinolaryngology Head & Neck Surgery
 
@@ -608,13 +1010,31 @@ This qualification was formerly known as Sarjana Radioterapi & Onkologi
 
 (iv) Royal College Fellowship of the of Surgeons of Royal College Edinburgh of Surgeons of Edinburgh in Otorhinolaryngology Head & Neck Surgery
 
+<!-- marginal: WJW24/0671 BI.indd 20 -->
+
 <!-- page 21 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Specialty Country or Name of institution Description of group of granting qualification qualification countries in which qualification is granted
+<!-- marginal: Specialty -->
+
+<!-- marginal: Country or -->
+
+Name of institution Description of
+
+<!-- marginal: group of -->
+
+granting qualification qualification
+
+<!-- marginal: countries -->
+
+<!-- marginal: in which -->
+
+<!-- marginal: qualification -->
+
+<!-- marginal: is granted -->
 
 (v) Royal College Fellowship of the of Surgeons of Royal College England of Surgeons in Laryngology
 
@@ -642,21 +1062,47 @@ This qualification was formerly known as Sarjana Radioterapi & Onkologi
 
 (c) United
 
-(i) Royal College of Fellowship of the Kingdom Pathologists of Royal College of United Kingdom Pathologists This qualification was formerly known as Membership of the Royal College of Pathologists of United Kingdom
+(i) Royal College of Fellowship of the
+
+<!-- marginal: Kingdom -->
+
+Pathologists of Royal College of United Kingdom Pathologists This qualification was formerly known as Membership of the Royal College of Pathologists of United Kingdom
+
+<!-- marginal: WJW24/0671 BI.indd 21 -->
 
 <!-- page 22 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Specialty Country or Name of institution Description of group of granting qualification qualification countries in which qualification is granted
+<!-- marginal: Specialty -->
+
+<!-- marginal: Country or -->
+
+Name of institution Description of
+
+<!-- marginal: group of -->
+
+granting qualification qualification
+
+<!-- marginal: countries -->
+
+<!-- marginal: in which -->
+
+<!-- marginal: qualification -->
+
+<!-- marginal: is granted -->
 
 (11) Anatomical
 
 (a) Malaysia
 
-(i) Universiti Doctor of Pathology Pathology Kebangsaan (Anatomic Malaysia Pathology) This qualification was formerly known as Master of Pathology (Anatomic Pathology) or Master of Pathology
+(i) Universiti Doctor of Pathology
+
+<!-- marginal: Pathology -->
+
+Kebangsaan (Anatomic Malaysia Pathology) This qualification was formerly known as Master of Pathology (Anatomic Pathology) or Master of Pathology
 
 (ii) Universiti Master of Pathology Malaya (Anatomic Pathology) This qualification was formerly known as Master of Pathology
 
@@ -674,15 +1120,37 @@ This qualification was formerly known as Sarjana Radioterapi & Onkologi
 
 (c) United
 
-(i) Royal College of Fellowship of the Kingdom Pathologists of Royal College of United Kingdom Pathologists This qualification was formerly known as Membership of the Royal College of Pathologists of United Kingdom
+(i) Royal College of Fellowship of the
+
+<!-- marginal: Kingdom -->
+
+Pathologists of Royal College of United Kingdom Pathologists This qualification was formerly known as Membership of the Royal College of Pathologists of United Kingdom
+
+<!-- marginal: WJW24/0671 BI.indd 22 -->
 
 <!-- page 23 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Specialty Country or Name of institution Description of group of granting qualification qualification countries in which qualification is granted
+<!-- marginal: Specialty -->
+
+<!-- marginal: Country or -->
+
+Name of institution Description of
+
+<!-- marginal: group of -->
+
+granting qualification qualification
+
+<!-- marginal: countries -->
+
+<!-- marginal: in which -->
+
+<!-- marginal: qualification -->
+
+<!-- marginal: is granted -->
 
 (12) Forensic Pathology (a) Malaysia
 
@@ -696,7 +1164,11 @@ This qualification was formerly known as Sarjana Radioterapi & Onkologi
 
 (c) United
 
-(i) Academy of Fellowship of Kingdom Forensic Medical Academy of Sciences of Forensic Medical United Kingdom Sciences
+(i) Academy of Fellowship of
+
+<!-- marginal: Kingdom -->
+
+Forensic Medical Academy of Sciences of Forensic Medical United Kingdom Sciences
 
 (ii) Royal College of Fellowship of the Pathologists of Royal College of United Kingdom Pathologists in Forensic Pathology
 
@@ -706,13 +1178,31 @@ This qualification was formerly known as Sarjana Radioterapi & Onkologi
 
 (v) University of Master of Science Glasgow (Medical Science) in Forensic Medicine This qualification discontinued after year 2006
 
+<!-- marginal: WJW24/0671 BI.indd 23 -->
+
 <!-- page 24 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Specialty Country or Name of institution Description of group of granting qualification qualification countries in which qualification is granted
+<!-- marginal: Specialty -->
+
+<!-- marginal: Country or -->
+
+Name of institution Description of
+
+<!-- marginal: group of -->
+
+granting qualification qualification
+
+<!-- marginal: countries -->
+
+<!-- marginal: in which -->
+
+<!-- marginal: qualification -->
+
+<!-- marginal: is granted -->
 
 (13) Genetic Pathology
 
@@ -740,7 +1230,11 @@ This qualification was formerly known as Sarjana Radioterapi & Onkologi
 
 (c) United
 
-(ii) Royal College of Fellowship of the Kingdom Pathologists of Royal College of United Kingdom Pathologists This qualification was formerly known as Membership of the Royal College of Pathologists of United Kingdom
+(ii) Royal College of Fellowship of the
+
+<!-- marginal: Kingdom -->
+
+Pathologists of Royal College of United Kingdom Pathologists This qualification was formerly known as Membership of the Royal College of Pathologists of United Kingdom
 
 (15) General Paediatric
 
@@ -748,13 +1242,31 @@ This qualification was formerly known as Sarjana Radioterapi & Onkologi
 
 (i) Universiti Doctor of Kebangsaan Paediatrics Malaysia This qualification was formerly known as Master of Medicine (Paediatrics)
 
+<!-- marginal: WJW24/0671 BI.indd 24 -->
+
 <!-- page 25 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Specialty Country or Name of institution Description of group of granting qualification qualification countries in which qualification is granted
+<!-- marginal: Specialty -->
+
+<!-- marginal: Country or -->
+
+Name of institution Description of
+
+<!-- marginal: group of -->
+
+granting qualification qualification
+
+<!-- marginal: countries -->
+
+<!-- marginal: in which -->
+
+<!-- marginal: qualification -->
+
+<!-- marginal: is granted -->
 
 (ii) Universiti Master of Malaya Paediatrics
 
@@ -764,7 +1276,15 @@ This qualification was formerly known as Sarjana Radioterapi & Onkologi
 
 (b) United
 
-(i) American Board Diplomate from the States of of Paediatrics American Board of America Paediatrics
+(i) American Board Diplomate from the
+
+<!-- marginal: States of -->
+
+of Paediatrics American Board of
+
+<!-- marginal: America -->
+
+Paediatrics
 
 (c) Australia
 
@@ -776,7 +1296,11 @@ This qualification was formerly known as Sarjana Radioterapi & Onkologi
 
 (e) United
 
-(i) Royal College of Membership of Kingdom Paediatrics and the Royal College Child Health of of Paediatrics and United Kingdom Child Health
+(i) Royal College of Membership of
+
+<!-- marginal: Kingdom -->
+
+Paediatrics and the Royal College Child Health of of Paediatrics and United Kingdom Child Health
 
 (ii) Royal College Membership of the of Physicians of Royal College of United Kingdom Physicians This qualification recognized until year 2000
 
@@ -786,13 +1310,31 @@ This qualification was formerly known as Sarjana Radioterapi & Onkologi
 
 (i) International Master of Surgery Islamic (General Surgery) University, Malaysia
 
+<!-- marginal: WJW24/0671 BI.indd 25 -->
+
 <!-- page 26 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Specialty Country or Name of institution Description of group of granting qualification qualification countries in which qualification is granted
+<!-- marginal: Specialty -->
+
+<!-- marginal: Country or -->
+
+Name of institution Description of
+
+<!-- marginal: group of -->
+
+granting qualification qualification
+
+<!-- marginal: countries -->
+
+<!-- marginal: in which -->
+
+<!-- marginal: qualification -->
+
+<!-- marginal: is granted -->
 
 (ii) Universiti Doctor of General Kebangsaan Surgery Malaysia This qualification was formerly known as Master of Surgery (General Surgery)
 
@@ -804,7 +1346,15 @@ This qualification was formerly known as Sarjana Radioterapi & Onkologi
 
 (b) United
 
-(i) American Board Diplomate from the States of of Surgical American Board of America Specialties Surgical Specialties
+(i) American Board Diplomate from the
+
+<!-- marginal: States of -->
+
+of Surgical American Board of
+
+<!-- marginal: America -->
+
+Specialties Surgical Specialties
 
 (c) Australia
 
@@ -816,23 +1366,47 @@ This qualification was formerly known as Sarjana Radioterapi & Onkologi
 
 (i) Royal College Fellowship of the of Physicians Royal College of and Surgeons of Surgeons of Canada Canada
 
-(f) Ireland
+(f)
+
+<!-- marginal: Ireland -->
 
 (i) Royal College Fellowship of the of Surgeons in Royal College of Ireland Surgeons in Ireland This qualification recognized until year 2003
 
 (ii) Royal College Fellowship of the of Surgeons in Royal College of Ireland Surgeons in Ireland in General Surgery
 
+<!-- marginal: WJW24/0671 BI.indd 26 -->
+
 <!-- page 27 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Specialty Country or Name of institution Description of group of granting qualification qualification countries in which qualification is granted
+<!-- marginal: Specialty -->
+
+<!-- marginal: Country or -->
+
+Name of institution Description of
+
+<!-- marginal: group of -->
+
+granting qualification qualification
+
+<!-- marginal: countries -->
+
+<!-- marginal: in which -->
+
+<!-- marginal: qualification -->
+
+<!-- marginal: is granted -->
 
 (g) United
 
-(i) Royal College Fellowship of the Kingdom of Physicians Royal College and Surgeons of of Surgeons of Glasgow Glasgow in General Surgery
+(i) Royal College Fellowship of the
+
+<!-- marginal: Kingdom -->
+
+of Physicians Royal College and Surgeons of of Surgeons of Glasgow Glasgow in General Surgery
 
 (ii) Royal College Fellowship of the of Surgeons of Royal College Edinburgh of Surgeons of Edinburgh in General Surgery
 
@@ -848,15 +1422,43 @@ This qualification was formerly known as Sarjana Radioterapi & Onkologi
 
 (a) United
 
-(i) American Board American Board of Surgery States of of Thoracic Thoracic Surgery America Surgery Certification (ABTS Board Certification)
+(i) American Board American Board of
+
+<!-- marginal: Surgery -->
+
+<!-- marginal: States of -->
+
+of Thoracic Thoracic Surgery
+
+<!-- marginal: America -->
+
+Surgery Certification (ABTS Board Certification)
+
+<!-- marginal: WJW24/0671 BI.indd 27 -->
 
 <!-- page 28 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Specialty Country or Name of institution Description of group of granting qualification qualification countries in which qualification is granted
+<!-- marginal: Specialty -->
+
+<!-- marginal: Country or -->
+
+Name of institution Description of
+
+<!-- marginal: group of -->
+
+granting qualification qualification
+
+<!-- marginal: countries -->
+
+<!-- marginal: in which -->
+
+<!-- marginal: qualification -->
+
+<!-- marginal: is granted -->
 
 (b) Australia
 
@@ -874,7 +1476,11 @@ This qualification was formerly known as Sarjana Radioterapi & Onkologi
 
 (e) United
 
-(i) Royal College Fellowship of the Kingdom of Physicians Royal College and Surgeons of of Surgeons Glasgow of Glasgow in Cardiothoracic Surgery
+(i) Royal College Fellowship of the
+
+<!-- marginal: Kingdom -->
+
+of Physicians Royal College and Surgeons of of Surgeons Glasgow of Glasgow in Cardiothoracic Surgery
 
 (ii) Royal College Fellowship of the of Surgeons of Royal College Edinburgh of Surgeons of Edinburgh in Cardiothoracic Surgery
 
@@ -886,19 +1492,45 @@ This qualification was formerly known as Sarjana Radioterapi & Onkologi
 
 (i) Universiti Doctor of Paediatric Kebangsaan Surgery Malaysia This qualification was formerly known as Master of Surgery (Paediatric Surgery)
 
+<!-- marginal: WJW24/0671 BI.indd 28 -->
+
 <!-- page 29 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Specialty Country or Name of institution Description of group of granting qualification qualification countries in which qualification is granted
+<!-- marginal: Specialty -->
+
+<!-- marginal: Country or -->
+
+Name of institution Description of
+
+<!-- marginal: group of -->
+
+granting qualification qualification
+
+<!-- marginal: countries -->
+
+<!-- marginal: in which -->
+
+<!-- marginal: qualification -->
+
+<!-- marginal: is granted -->
 
 (ii) Universiti Master of Paediatric Malaya Surgery
 
 (b) United
 
-(i) American Board Diplomate from the States of of Paediatric American Board of America Surgery Paediatric Surgery
+(i) American Board Diplomate from the
+
+<!-- marginal: States of -->
+
+of Paediatric American Board of
+
+<!-- marginal: America -->
+
+Surgery Paediatric Surgery
 
 (c) Australia
 
@@ -912,13 +1544,19 @@ This qualification was formerly known as Sarjana Radioterapi & Onkologi
 
 (i) European Board Fellowship of the of Paediatric European Board of Surgery Paediatric Surgery
 
-(f) Ireland
+(f)
+
+<!-- marginal: Ireland -->
 
 (i) Royal College Fellowship of the of Surgeons in Royal College of Ireland Surgeons in Ireland in Paediatric Surgery
 
 (g) United
 
-(i) Royal College Fellowship of the Kingdom of Physicians Royal College and Surgeons of of Surgeons Glasgow of Glasgow in Paediatric Surgery
+(i) Royal College Fellowship of the
+
+<!-- marginal: Kingdom -->
+
+of Physicians Royal College and Surgeons of of Surgeons Glasgow of Glasgow in Paediatric Surgery
 
 (ii) Royal College Fellowship of the of Surgeons of Royal College Edinburgh of Surgeons of Edinburgh in Paediatric Surgery
 
@@ -930,17 +1568,43 @@ This qualification was formerly known as Sarjana Radioterapi & Onkologi
 
 (i) Universiti Sains Master of Surgery Malaysia (Plastic Surgery)
 
+<!-- marginal: WJW24/0671 BI.indd 29 -->
+
 <!-- page 30 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Specialty Country or Name of institution Description of group of granting qualification qualification countries in which qualification is granted
+<!-- marginal: Specialty -->
+
+<!-- marginal: Country or -->
+
+Name of institution Description of
+
+<!-- marginal: group of -->
+
+granting qualification qualification
+
+<!-- marginal: countries -->
+
+<!-- marginal: in which -->
+
+<!-- marginal: qualification -->
+
+<!-- marginal: is granted -->
 
 (b) United
 
-(i) American Board Diplomate of the States of of Plastic and American Board America Reconstructive of Plastic and Surgery Reconstructive Surgery
+(i) American Board Diplomate of the
+
+<!-- marginal: States of -->
+
+of Plastic and American Board
+
+<!-- marginal: America -->
+
+Reconstructive of Plastic and Surgery Reconstructive Surgery
 
 (c) Australia
 
@@ -956,7 +1620,11 @@ This qualification was formerly known as Sarjana Radioterapi & Onkologi
 
 (f) United
 
-(i) Royal College Fellowship of the Kingdom of Physicians Royal College and Surgeons of of Surgeons of Glasgow Glasgow in Plastic Surgery
+(i) Royal College Fellowship of the
+
+<!-- marginal: Kingdom -->
+
+of Physicians Royal College and Surgeons of of Surgeons of Glasgow Glasgow in Plastic Surgery
 
 (ii) Royal College Fellowship of the of Surgeons of Royal College Edinburgh of Surgeons of Edinburgh in Plastic Surgery
 
@@ -970,15 +1638,41 @@ This qualification was formerly known as Sarjana Radioterapi & Onkologi
 
 (b) United
 
-(i) American Board Diplomate from the States of of Neurosurgery American Board of America Neurosurgery
+(i) American Board Diplomate from the
+
+<!-- marginal: States of -->
+
+of Neurosurgery American Board of
+
+<!-- marginal: America -->
+
+Neurosurgery
+
+<!-- marginal: WJW24/0671 BI.indd 30 -->
 
 <!-- page 31 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Specialty Country or Name of institution Description of group of granting qualification qualification countries in which qualification is granted
+<!-- marginal: Specialty -->
+
+<!-- marginal: Country or -->
+
+Name of institution Description of
+
+<!-- marginal: group of -->
+
+granting qualification qualification
+
+<!-- marginal: countries -->
+
+<!-- marginal: in which -->
+
+<!-- marginal: qualification -->
+
+<!-- marginal: is granted -->
 
 (c) Australia
 
@@ -992,13 +1686,19 @@ This qualification was formerly known as Sarjana Radioterapi & Onkologi
 
 (i) Royal College Fellowship of the of Physicians Royal College of and Surgeons of Surgeons of Canada Canada in Neurosurgery
 
-(f) Ireland
+(f)
+
+<!-- marginal: Ireland -->
 
 (i) Royal College Fellowship of the of Surgeons in Royal College of Ireland Surgeons in Ireland in Neurosurgery
 
 (g) United
 
-(i) Royal College Fellowship of the Kingdom of Physicians Royal College and Surgeons of of Surgeons Glasgow of Glasgow in Neurosurgery
+(i) Royal College Fellowship of the
+
+<!-- marginal: Kingdom -->
+
+of Physicians Royal College and Surgeons of of Surgeons Glasgow of Glasgow in Neurosurgery
 
 (ii) Royal College Fellowship of the of Surgeons of Royal College Edinburgh of Surgeons of Edinburgh in Neurosurgery
 
@@ -1006,13 +1706,31 @@ This qualification was formerly known as Sarjana Radioterapi & Onkologi
 
 (iv) Royal College Fellowship of the of Surgeons of Royal College England of Surgeons in Neurosurgery
 
+<!-- marginal: WJW24/0671 BI.indd 31 -->
+
 <!-- page 32 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Specialty Country or Name of institution Description of group of granting qualification qualification countries in which qualification is granted
+<!-- marginal: Specialty -->
+
+<!-- marginal: Country or -->
+
+Name of institution Description of
+
+<!-- marginal: group of -->
+
+granting qualification qualification
+
+<!-- marginal: countries -->
+
+<!-- marginal: in which -->
+
+<!-- marginal: qualification -->
+
+<!-- marginal: is granted -->
 
 (21) Internal Medicine
 
@@ -1034,7 +1752,15 @@ This qualification was formerly known as Sarjana Radioterapi & Onkologi
 
 (b) United
 
-(i) American Board Diplomate of the States of of Internal American Board of America Medicine Internal Medicine
+(i) American Board Diplomate of the
+
+<!-- marginal: States of -->
+
+of Internal American Board of
+
+<!-- marginal: America -->
+
+Medicine Internal Medicine
 
 (c) Australia
 
@@ -1048,27 +1774,55 @@ This qualification was formerly known as Sarjana Radioterapi & Onkologi
 
 (ii) Royal College Membership of of Physicians the Royal College and Surgeons of of Physicians of Canada Canada
 
+<!-- marginal: WJW24/0671 BI.indd 32 -->
+
 <!-- page 33 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Specialty Country or Name of institution Description of group of granting qualification qualification countries in which qualification is granted
+<!-- marginal: Specialty -->
 
-(f) Ireland
+<!-- marginal: Country or -->
+
+Name of institution Description of
+
+<!-- marginal: group of -->
+
+granting qualification qualification
+
+<!-- marginal: countries -->
+
+<!-- marginal: in which -->
+
+<!-- marginal: qualification -->
+
+<!-- marginal: is granted -->
+
+(f)
+
+<!-- marginal: Ireland -->
 
 (i) Royal College Membership of the of Physicians of Royal College of Ireland Physicians of Ireland
 
 (g) United
 
-(i) Royal College Membership of the Kingdom of Physicians of Royal College of United Kingdom Physicians
+(i) Royal College Membership of the
+
+<!-- marginal: Kingdom -->
+
+of Physicians of Royal College of United Kingdom Physicians
 
 (22) Emergency
 
 (a) Malaysia
 
-(i) Universiti Doctor of Medicine Kebangsaan Emergency Medicine Malaysia This qualification was formerly known as Master of Emergency Medicine
+(i) Universiti Doctor of
+
+<!-- marginal: Medicine -->
+
+Kebangsaan Emergency Medicine Malaysia This qualification was formerly known as Master of Emergency Medicine
 
 (ii) Universiti Master of Malaya Emergency Medicine
 
@@ -1080,7 +1834,11 @@ This qualification was formerly known as Sarjana Radioterapi & Onkologi
 
 (c) United
 
-(i) Royal College Fellowship of the Kingdom of Emergency Royal College of Medicine of Emergency Medicine United Kingdom
+(i) Royal College Fellowship of the
+
+<!-- marginal: Kingdom -->
+
+of Emergency Royal College of Medicine of Emergency Medicine United Kingdom
 
 (ii) Royal College Fellowship of the of Surgeons of Royal College of United Kingdom Surgeons (Accident & Emergency) This qualification recognized until year 2000
 
@@ -1090,13 +1848,31 @@ This qualification was formerly known as Sarjana Radioterapi & Onkologi
 
 (i) International Master of Medicine Islamic (Family Medicine) University, Malaysia
 
+<!-- marginal: WJW24/0671 BI.indd 33 -->
+
 <!-- page 34 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Specialty Country or Name of institution Description of group of granting qualification qualification countries in which qualification is granted
+<!-- marginal: Specialty -->
+
+<!-- marginal: Country or -->
+
+Name of institution Description of
+
+<!-- marginal: group of -->
+
+granting qualification qualification
+
+<!-- marginal: countries -->
+
+<!-- marginal: in which -->
+
+<!-- marginal: qualification -->
+
+<!-- marginal: is granted -->
 
 (ii) Universiti Doctor of Family Kebangsaan Medicine Malaysia This qualification was formerly known as Master of Medicine (Family Medicine)
 
@@ -1122,7 +1898,11 @@ This qualification was formerly known as Sarjana Radioterapi & Onkologi
 
 (d) United
 
-(i) Royal College Membership of the Kingdom of General Royal College of Practitioners General Practitioners United Kingdom
+(i) Royal College Membership of the
+
+<!-- marginal: Kingdom -->
+
+of General Royal College of Practitioners General Practitioners United Kingdom
 
 (24) Nuclear Medicine
 
@@ -1130,13 +1910,31 @@ This qualification was formerly known as Sarjana Radioterapi & Onkologi
 
 (i) Universiti Doctor of Internal Kebangsaan Medicine Malaysia This qualification was formerly known as Master of Internal Medicine
 
+<!-- marginal: WJW24/0671 BI.indd 34 -->
+
 <!-- page 35 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Specialty Country or Name of institution Description of group of granting qualification qualification countries in which qualification is granted
+<!-- marginal: Specialty -->
+
+<!-- marginal: Country or -->
+
+Name of institution Description of
+
+<!-- marginal: group of -->
+
+granting qualification qualification
+
+<!-- marginal: countries -->
+
+<!-- marginal: in which -->
+
+<!-- marginal: qualification -->
+
+<!-- marginal: is granted -->
 
 (ii) Universiti Doctor of Radiology Kebangsaan This qualification Malaysia was formerly known as Master of Medicine (Radiology)
 
@@ -1156,7 +1954,15 @@ This qualification was formerly known as Sarjana Radioterapi & Onkologi
 
 (b) United
 
-(i) American Board Diplomate from the States of of Internal American Board of America Medicine Internal Medicine
+(i) American Board Diplomate from the
+
+<!-- marginal: States of -->
+
+of Internal American Board of
+
+<!-- marginal: America -->
+
+Medicine Internal Medicine
 
 (ii) American Board Diplomate from the of Nuclear American Board of Medicine Nuclear Medicine
 
@@ -1170,13 +1976,31 @@ This qualification was formerly known as Sarjana Radioterapi & Onkologi
 
 (i) Royal College Fellowship of the of Physicians Royal College and Surgeons of of Physicians of Canada Canada
 
+<!-- marginal: WJW24/0671 BI.indd 35 -->
+
 <!-- page 36 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Specialty Country or Name of institution Description of group of granting qualification qualification countries in which qualification is granted
+<!-- marginal: Specialty -->
+
+<!-- marginal: Country or -->
+
+Name of institution Description of
+
+<!-- marginal: group of -->
+
+granting qualification qualification
+
+<!-- marginal: countries -->
+
+<!-- marginal: in which -->
+
+<!-- marginal: qualification -->
+
+<!-- marginal: is granted -->
 
 (e) Ireland
 
@@ -1186,11 +2010,19 @@ This qualification was formerly known as Sarjana Radioterapi & Onkologi
 
 (f) New
 
-(i) Royal New Fellowship of Zealand Zealand College the Royal New of Radiologists Zealand College of Radiologists
+(i) Royal New Fellowship of
+
+<!-- marginal: Zealand -->
+
+Zealand College the Royal New of Radiologists Zealand College of Radiologists
 
 (g) United
 
-(i) Royal College Membership of the Kingdom of Physicians of Royal College of United Kingdom Physicians
+(i) Royal College Membership of the
+
+<!-- marginal: Kingdom -->
+
+of Physicians of Royal College of United Kingdom Physicians
 
 (ii) Royal College of Fellowship of the Radiologists of Royal College of United Kingdom Radiologists
 
@@ -1198,11 +2030,23 @@ This qualification was formerly known as Sarjana Radioterapi & Onkologi
 
 (a) Malaysia
 
-(i) Universiti Master of Medicine Malaya Rehabilitation Medicine This qualification was formerly known as Sarjana Perubatan Rehabilitasi
+(i) Universiti Master of
+
+<!-- marginal: Medicine -->
+
+Malaya Rehabilitation Medicine This qualification was formerly known as Sarjana Perubatan Rehabilitasi
 
 (b) United
 
-(i) American Board Diplomate of the States of of Physical American Board of America Medicine and Physical Medicine Rehabilitation & Rehabilitation Certification
+(i) American Board Diplomate of the
+
+<!-- marginal: States of -->
+
+of Physical American Board of
+
+<!-- marginal: America -->
+
+Medicine and Physical Medicine Rehabilitation & Rehabilitation Certification
 
 (c) Australia
 
@@ -1210,15 +2054,37 @@ This qualification was formerly known as Sarjana Radioterapi & Onkologi
 
 (d) United
 
-(i) Royal College Diploma in Medical Kingdom of Physicians of Rehabilitation London This qualification recognized until year 1997
+(i) Royal College Diploma in Medical
+
+<!-- marginal: Kingdom -->
+
+of Physicians of Rehabilitation London This qualification recognized until year 1997
+
+<!-- marginal: WJW24/0671 BI.indd 36 -->
 
 <!-- page 37 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Specialty Country or Name of institution Description of group of granting qualification qualification countries in which qualification is granted
+<!-- marginal: Specialty -->
+
+<!-- marginal: Country or -->
+
+Name of institution Description of
+
+<!-- marginal: group of -->
+
+granting qualification qualification
+
+<!-- marginal: countries -->
+
+<!-- marginal: in which -->
+
+<!-- marginal: qualification -->
+
+<!-- marginal: is granted -->
 
 (26) Sports Medicine
 
@@ -1240,7 +2106,11 @@ This qualification was formerly known as Sarjana Radioterapi & Onkologi
 
 (d) United
 
-(i) University of Master (MSc) in Kingdom London Sports Medicine
+(i) University of Master (MSc) in
+
+<!-- marginal: Kingdom -->
+
+London Sports Medicine
 
 This qualification recognized until year 2002
 
@@ -1248,7 +2118,11 @@ This qualification recognized until year 2002
 
 (a) Malaysia
 
-(i) Universiti Sains Master of Medicine Medicine Malaysia (Transfusion Medicine)
+(i) Universiti Sains Master of Medicine
+
+<!-- marginal: Medicine -->
+
+Malaysia (Transfusion Medicine)
 
 (28) Psychiatry
 
@@ -1256,13 +2130,31 @@ This qualification recognized until year 2002
 
 (i) Universiti Doctor of Psychiatry Kebangsaan This qualification Malaysia was formerly known as Master of Medicine (Psychiatry)
 
+<!-- marginal: WJW24/0671 BI.indd 37 -->
+
 <!-- page 38 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Specialty Country or Name of institution Description of group of granting qualification qualification countries in which qualification is granted
+<!-- marginal: Specialty -->
+
+<!-- marginal: Country or -->
+
+Name of institution Description of
+
+<!-- marginal: group of -->
+
+granting qualification qualification
+
+<!-- marginal: countries -->
+
+<!-- marginal: in which -->
+
+<!-- marginal: qualification -->
+
+<!-- marginal: is granted -->
 
 (ii) Universiti Master of Malaya Psychological Medicine This qualification was formerly known as Sarjana (Psikologi)
 
@@ -1276,11 +2168,23 @@ This qualification recognized until year 2002
 
 (b) Australia
 
-(i) Royal Australian Fellowship of the and New and New Royal Australian Zealand Zealand College and New Zealand of Psychiatrists College of Psychiatrists
+(i) Royal Australian Fellowship of the
+
+<!-- marginal: and New -->
+
+and New Royal Australian
+
+<!-- marginal: Zealand -->
+
+Zealand College and New Zealand of Psychiatrists College of Psychiatrists
 
 (c) United
 
-(i) Royal College of Membership of the Kingdom Psychiatrists of Royal College of United Kingdom Psychiatrists
+(i) Royal College of Membership of the
+
+<!-- marginal: Kingdom -->
+
+Psychiatrists of Royal College of United Kingdom Psychiatrists
 
 (29) Clinical Radiology
 
@@ -1292,13 +2196,31 @@ This qualification recognized until year 2002
 
 (iii) Universiti Master of Radiology Malaya
 
+<!-- marginal: WJW24/0671 BI.indd 38 -->
+
 <!-- page 39 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Specialty Country or Name of institution Description of group of granting qualification qualification countries in which qualification is granted
+<!-- marginal: Specialty -->
+
+<!-- marginal: Country or -->
+
+Name of institution Description of
+
+<!-- marginal: group of -->
+
+granting qualification qualification
+
+<!-- marginal: countries -->
+
+<!-- marginal: in which -->
+
+<!-- marginal: qualification -->
+
+<!-- marginal: is granted -->
 
 (iv) Universiti Putra Master of Medicine Malaysia (Radiology)
 
@@ -1312,7 +2234,15 @@ This qualification recognized until year 2002
 
 (c) Australia
 
-(i) Royal Australian Fellowship of The and New and New Royal Australian Zealand Zealand College and New Zealand of Radiologists College of Radiologists
+(i) Royal Australian Fellowship of The
+
+<!-- marginal: and New -->
+
+and New Royal Australian
+
+<!-- marginal: Zealand -->
+
+Zealand College and New Zealand of Radiologists College of Radiologists
 
 (d) Ireland
 
@@ -1320,37 +2250,53 @@ This qualification recognized until year 2002
 
 (e) New
 
-(i) Royal New Fellowship of Zealand Zealand College the Royal New of Radiologists Zealand College of Radiologists
+(i) Royal New Fellowship of
+
+<!-- marginal: Zealand -->
+
+Zealand College the Royal New of Radiologists Zealand College of Radiologists
 
 (f) United
 
-(i) Royal College of Fellowship of the Kingdom Radiologists of Royal College of United Kingdom Radiologists
+(i) Royal College of Fellowship of the
+
+<!-- marginal: Kingdom -->
+
+Radiologists of Royal College of United Kingdom Radiologists
 
 (30) Urology
 
 (a) United
 
-(i) American Board Diplomate of States of of Urology American Board of America Urology
+(i) American Board Diplomate of
+
+<!-- marginal: States of -->
+
+of Urology American Board of
+
+<!-- marginal: America -->
+
+Urology
 
 (b) Australia
 
 (i) Royal Fellowship of Royal Australasian Australasian College College of of Surgeons in Surgeons Urology
 
+<!-- marginal: WJW24/0671 BI.indd 39 -->
+
 <!-- page 40 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Specialty Country or Name of institution Description of group of granting qualification qualification countries in which qualification is granted
+<!-- marginal: Specialty -->
 
-(c) Ireland
+Country or Name of institution Description of group of granting qualification qualification countries in which qualification is granted
 
-(i) Royal College Fellowship of the of Surgeons in Royal College of Ireland Surgeons in Ireland in Urology
+(c) Ireland (i) Royal College Fellowship of the of Surgeons in Royal College of Ireland Surgeons in Ireland in Urology
 
-(d) United
-
-(i) Royal College Fellowship of the Kingdom of Physicians Royal College and Surgeons of of Surgeons of Glasgow Glasgow in Surgical Urology
+(d) United (i) Royal College Fellowship of the Kingdom of Physicians Royal College and Surgeons of of Surgeons of Glasgow Glasgow in Surgical Urology
 
 (ii) Royal College Fellowship of the of Physicians Royal College and Surgeons of of Surgeons of Glasgow Glasgow in Urology
 
@@ -1358,19 +2304,23 @@ This qualification recognized until year 2002
 
 (iv) Royal College Fellowship of the of Surgeons of Royal College of England Surgeons in Urology
 
-## FiFth Schedule
+## FIFTH SCHEDULE
 
 [Paragraph 14b(3)(b) and section 14d]
 
 ## LIST OF SUBSPECIALTY
 
-(1)
+(1) (2)
 
-(2) Specialty Subspecialty
+<!-- marginal: Specialty -->
+
+Subspecialty
 
 (1) Anaesthesiology
 
-(a) Intensive Care and Critical Care
+(a) Intensive Care
+
+<!-- marginal: and Critical Care -->
 
 (2) Public Health
 
@@ -1384,11 +2334,15 @@ This qualification recognized until year 2002
 
 (e) Environmental Health
 
+<!-- marginal: WJW24/0671 BI.indd 40 -->
+
 <!-- page 41 -->
 
-(1)
+(1) (2)
 
-(2) Specialty Subspecialty
+<!-- marginal: Specialty -->
+
+Subspecialty
 
 (f) Health Management
 
@@ -1396,7 +2350,9 @@ This qualification recognized until year 2002
 
 (3) Obstetrics and
 
-(a) Gynae-Oncology Gynaecology
+(a) Gynae-Oncology
+
+<!-- marginal: Gynaecology -->
 
 (b) Maternal Fetal Medicine
 
@@ -1454,11 +2410,15 @@ This qualification recognized until year 2002
 
 (j) Paediatrics and Child Health
 
+<!-- marginal: WJW24/0671 BI.indd 41 -->
+
 <!-- page 42 -->
 
-(1)
+(1) (2)
 
-(2) Specialty Subspecialty
+<!-- marginal: Specialty -->
+
+Subspecialty
 
 (k) Paediatric Intensive Care
 
@@ -1486,7 +2446,9 @@ This qualification recognized until year 2002
 
 (f) Vascular Surgery
 
-(9) Internal Medicine
+(9)
+
+<!-- marginal: Internal Medicine -->
 
 (a) Dermatology
 
@@ -1520,11 +2482,11 @@ This qualification recognized until year 2002
 
 (a) Neuropsychiatry
 
+<!-- marginal: WJW24/0671 BI.indd 42 -->
+
 <!-- page 43 -->
 
-(1)
-
-(2) Specialty Subspecialty
+(1) (2) Specialty Subspecialty
 
 (b) Forensic Psychiatry
 
@@ -1549,6 +2511,10 @@ This qualification recognized until year 2002
 (4) Any proceedings pending on the date of coming into operation of this Act before the Preliminary Investigation Committee, Disciplinary Panel, Disciplinary Board or the Council established under the principal Act shall, after the date of coming into operation of this Act, be continued as if the principal Act had not been amended by this Act.
 
 (5) Any disciplinary offence committed or alleged to have been committed by a medical practitioner before the date of coming into operation of this Act shall, after the date of coming into operation of this Act, be dealt with in accordance with the principal Act as if the principal Act had not been amended by this Act.
+
+<!-- marginal: WJW24/0671 BI.indd 43 -->
+
+<!-- marginal: 12/07/2024 6:33 PM -->
 
 <!-- page 44 -->
 
@@ -1582,6 +2548,8 @@ shall be deemed to be registered as a Specialist under this Act.
 
 (b) holds the qualification specified in the Fourth Schedule,
 
+<!-- marginal: 12/07/2024 6:33 PM -->
+
 <!-- page 45 -->
 
 shall be deemed to be entitled to be registered as a Specialist under this Act.
@@ -1610,6 +2578,10 @@ for the purpose of registration of a Specialist, shall be deemed to be a special
 
 12. Any remuneration and allowance paid to a person who is deemed to be registered as a Specialist under subsection 11(6) of this Act is hereby validated and declared to have been lawfully paid.
 
+<!-- marginal: WJW24/0671 BI.indd 45 -->
+
+<!-- marginal: 12/07/2024 6:33 PM -->
+
 <!-- page 46 -->
 
 ## EXPLANATORY STATEMENT
@@ -1632,6 +2604,8 @@ This Bill (“the proposed Act”) seeks to amend the Medical Act 1971 (“Act 5
 
 9. Clause 8 seeks to insert a new section 14d into Act 50 to provide that a Specialist who has been registered may make an application to be registered in a subspecialty as specified in the new Fifth Schedule in the form and manner as may be determined by the Council and subject to such restrictions and conditions as the Council thinks fit.
 
+<!-- marginal: 12/07/2024 6:33 PM -->
+
 <!-- page 47 -->
 
 10. Clause 9 seeks to substitute paragraph 36(2)(u) of Act 50 to provide for a provision that enables regulations to be made in relation to the form and manner in recognizing qualifications. This clause also seeks to provide new paragraph 36(2)(dda) to enable regulations to be made in relation to all matters relating to specialized training.
@@ -1646,4 +2620,8 @@ This Bill (“the proposed Act”) seeks to amend the Medical Act 1971 (“Act 5
 
 This Bill will not involve the Government in extra financial expenditure.
 
-[PN(U2)3362]
+<!-- marginal: [PN(U2)3362] -->
+
+<!-- marginal: WJW24/0671 BI.indd 47 -->
+
+<!-- marginal: 12/07/2024 6:33 PM -->

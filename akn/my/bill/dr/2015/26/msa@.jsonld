@@ -1,0 +1,281 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-26-2015",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_9"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Penerbangan Awam (Pindaan) 2015"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Penerbangan Awam (Pindaan) 2015."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan am"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Penerbangan Awam 1969 [Akta 3], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam teks bahasa kebangsaan, dengan menggantikan perkataan “padang terbang” dengan perkataan “aerodrom”, di mana-mana jua terdapat kecuali dalam takrif “padang terbang” dan “padang terbang Kerajaan” dalam seksyen 2. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_3__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_3__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_3__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 2 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa kebangsaan, dengan memasukkan sebelum takrif “anak kapal” takrif yang berikut: ‘“aerodrom” ertinya mana-mana kawasan tanah atau air, termasuklah apa-apa lapangan terbang, lapangan terbang kecil (termasuklah lapangan terbang kecil air), lapangan helikopter, bangunan, pepasangan dan kelengkapan, untuk digunakan secara keseluruhan atau sebahagiannya bagi pendaratan, pelepasan atau pergerakan kapal udara; “aerodrom Kerajaan” ertinya mana-mana aerodrom di bawah kawalan Menteri dan termasuklah mana-mana aerodrom Angkatan Tentera atau tentera pelawat;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa Inggeris, dengan menggantikan takrif “aerodrome” dengan takrif yang berikut: ‘“aerodrome” means any area of land or water, including any airport, airstrip (including water airstrip), heliport, building, installation and equipment, for the use wholly or partly for the arrival, departure or movement of aircraft;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa kebangsaan, dengan memotong takrif “krew”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan takrif “lapangan terbang” dengan takrif yang berikut: ‘“lapangan terbang” ertinya agregat tanah yang terdapat dalam suatu aerodrom termasuklah bangunan, hangar kapal udara, tempat penyimpanan, kemudahan, jalan dan tempat letak kereta yang digunakan atau dicadangkan untuk digunakan secara keseluruhan atau sebahagiannya bagi maksud atau berkaitan dengan pengendalian aerodrom itu;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_3__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa kebangsaan, dengan memotong takrif “padang terbang” dan “padang terbang Kerajaan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_3__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan sebelum takrif “syarikat berlesen” takrif yang berikut: ‘ “sewa atau upah” ertinya apa-apa bayaran, balasan, ganjaran atau manfaat yang dicaj, diminta, diterima atau dikutip secara langsung atau secara tidak langsung oleh mana-mana orang bagi penggunaan sesuatu kapal udara;’. Pindaan seksyen 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 3 Akta ibu dipinda dalam subseksyen (2)–"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (a) dengan perenggan yang berikut: “ (a) mengawal selia penggunaan kapal udara dalam penerbangan untuk sewa atau upah dengan mengadakan suatu sistem pensijilan atau selainnya berkenaan dengan perkara teknikal dan perihal selamat;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (n) dengan perenggan yang berikut: “ (n) menetapkan caj dan fi yang kena dibayar kepada Jabatan Penerbangan Awam di bawah Akta ini dan cara untuk memungut dan membayar caj dan fi itu;”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perenggan (nn). Penggantian seksyen 5a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 5a dengan seksyen yang berikut: “Menubuhkan, menyenggarakan dan mengendalikan aerodrom 5a. (1) Menteri boleh— (a) membenarkan mana-mana orang untuk menubuhkan suatu aerodrom di Malaysia untuk pelepasan dan pendaratan mana-mana kapal udara yang terlibat dalam membawa penumpang, mel atau kargo untuk sewa atau upah; dan (b) membenarkan mana-mana orang untuk menubuhkan, dan melesenkan mana-mana orang untuk menyenggarakan atau mengendalikan, suatu aerodrom di Malaysia untuk pelepasan dan pendaratan mana-mana kapal udara yang terlibat dalam membawa penumpang, mel atau kargo bukan untuk sewa atau upah. (2) Bagi maksud subseksyen (1), Menteri boleh mengenakan terma-terma dan syarat-syarat yang difikirkan perlu. (3) Mana-mana orang yang menubuhkan suatu aerodrom tanpa kebenaran atau menyenggarakan atau mengendalikan suatu aerodrom tanpa lesen di bawah subseksyen (1) melakukan suatu kesalahan dan apabila disabitkan, boleh didenda tidak melebihi satu juta ringgit atau dipenjarakan selama tempoh tidak melebihi sepuluh tahun atau kedua-duanya. (4) Mana-mana orang yang tidak mematuhi mana-mana terma dan syarat yang dikenakan di bawah subseksyen (2) melakukan suatu kesalahan dan apabila disabitkan, boleh didenda tidak melebihi lima ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.”. Pindaan seksyen 24a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 24a Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “(1) Menteri boleh memberikan lesen kepada suatu syarikat yang dinamakan oleh Kerajaan di bawah seksyen ini untuk mengadakan apa-apa perkhidmatan dalam aerodrom atau selainnya, selain perkhidmatan pengendalian darat dan pengendalian aerodrom yang tertakluk kepada Akta Suruhanjaya Penerbangan Malaysia 2015 [Akta ].”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perenggan (2)(c). Pindaan seksyen 24f"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 24f Akta ibu dipinda dengan menggantikan perkataan “satu ratus ribu ringgit” dengan perkataan “lima ratus ribu ringgit”. Pindaan seksyen 24k"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 24k Akta ibu dipinda dengan menggantikan perkataan “lapangan terbang ditetapkan” di mana-mana jua terdapat dengan perkataan “aerodrom”. Bahagian baru VIIIb"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/26/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas Bahagian VIIIa bahagian yang berikut: “BAHAGIAN VIIIB PENGUATKUASAAN DAN PENYIASATAN Pegawai diberi kuasa 24la. (1) Ketua Pengarah boleh secara bertulis memberi kuasa mana-mana pegawai Jabatan Penerbangan Awam untuk menjalankan kuasa penguatkuasaan di bawah Akta ini. (2) Dalam menjalankan mana-mana kuasa penguatkuasaan di bawah Akta ini, seseorang pegawai diberi kuasa hendaklah apabila diminta mengemukakan kepada orang yang terhadapnya dia bertindak kuasa yang diberikan kepadanya oleh Ketua Pengarah. Kuasa penguatkuasaan, pemeriksaan dan penyiasatan 24lb. Pegawai diberi kuasa hendaklah mempunyai segala kuasa pegawai polis tidak kira apa jua pangkatnya sebagaimana yang diperuntukkan di bawah Kanun Tatacara Jenayah [Akta 593], kecuali kuasa untuk menangkap tanpa waran, berhubung dengan penguatkuasaan, pemeriksaan dan penyiasatan, dan apa-apa kuasa itu hendaklah sebagai tambahan kepada kuasa yang diperuntukkan di bawah Akta ini dan bukan pengurangan kuasa itu. Kuasa untuk menghendaki maklumat 24lc. (1) Pegawai diberi kuasa boleh membuat suatu perintah di bawah subseksyen (2) terhadap mana-mana orang jika dia mempunyai alasan yang munasabah untuk mempercayai bahawa orang itu— (a) mempunyai apa-apa maklumat atau apa-apa dokumen yang berkaitan dengan pelaksanaan fungsi dan kuasa di bawah Akta ini; atau (b) berupaya memberikan apa-apa keterangan yang pegawai diberi kuasa mempunyai alasan yang munasabah untuk mempercayai bahawa keterangan itu berkaitan dengan pelaksanaan fungsi dan kuasa di bawah Akta ini. (2) Perintah di bawah subseksyen (1) boleh menghendaki orang itu— (a) untuk memberikan pegawai diberi kuasa apa-apa maklumat itu; (b) untuk mengemukakan kepada pegawai diberi kuasa apa-apa dokumen, sama ada dalam bentuk fizikal atau perantara elektronik; (c) untuk membuat salinan apa-apa dokumen dan mengemukakan salinan itu kepada pegawai diberi kuasa; (d) jika orang itu ialah seorang individu, untuk hadir di hadapan pegawai diberi kuasa pada masa dan di tempat yang dinyatakan dalam notis itu untuk memberikan apa-apa keterangan, sama ada secara lisan atau bertulis, dan mengemukakan mana-mana dokumen itu, sama ada dalam bentuk fizikal atau perantara elektronik; (e) jika orang itu ialah suatu pertubuhan perbadanan atau badan awam, untuk menyebabkan pegawai berwibawa pertubuhan perbadanan atau badan awam itu supaya hadir di hadapan pegawai diberi kuasa pada masa dan di tempat yang dinyatakan dalam notis itu untuk memberikan apa-apa keterangan, sama ada secara lisan atau bertulis, dan mengemukakan mana-mana dokumen itu, sama ada dalam bentuk fizikal atau perantara elektronik; atau (f) jika orang itu ialah suatu perkongsian, untuk menyebabkan seorang individu yang merupakan seorang pekongsi dalam perkongsian itu atau seorang pekerja dalam perkongsian itu supaya hadir di hadapan pegawai diberi kuasa pada masa dan di tempat yang dinyatakan dalam notis itu untuk memberikan apa- apa keterangan, sama ada secara lisan atau bertulis, dan mengemukakan apa-apa dokumen, sama ada dalam bentuk fizikal atau perantara elektronik. (3) Orang yang diperintahkan sedemikian di bawah subseksyen (1) hendaklah— (a) memberikan maklumat atau dokumen yang dikehendaki dalam masa yang dinyatakan dalam perintah itu atau apa-apa masa lanjutan yang diberikan oleh pegawai diberi kuasa; dan (b) memastikan bahawa maklumat atau dokumen yang diberikan adalah benar, tepat dan lengkap dan hendaklah memberikan suatu representasi mengenai hakikat itu, termasuklah representasi bahawa dia tidak tahu tentang apa-apa maklumat atau dokumen lain yang mungkin menjadikan maklumat atau dokumen yang diberikan itu tidak benar atau mengelirukan. (4) Seseorang yang tidak mematuhi perintah pegawai diberi kuasa di bawah seksyen ini melakukan suatu kesalahan dan apabila disabitkan, boleh didenda tidak melebihi lima ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya. Kuasa untuk menjalankan pemeriksaan 24ld. (1) Bagi maksud menentukan pematuhan Akta ini, pegawai diberi kuasa hendaklah mempunyai akses kepada mana-mana tempat atau bangunan dan boleh memeriksa dan membuat salinan atau mengambil cabutan daripada apa-apa buku, buku minit, daftar atau dokumen lain yang dikehendaki untuk disimpan oleh Ketua Pengarah atau perlu bagi maksud menentukan pematuhan kepada Akta ini. (2) Bagi maksud seksyen ini, pegawai diberi kuasa boleh melalui notis secara bertulis menghendaki mana-mana orang untuk mengemukakan kepadanya apa-apa buku, buku minit, daftar atau dokumen lain yang berada dalam jagaan atau di bawah kawalan orang itu. (3) Mana-mana orang yang— (a) tidak mengemukakan apa-apa buku, buku minit, daftar atau dokumen lain yang dikehendaki oleh pegawai diberi kuasa di bawah seksyen ini; atau (b) menggalang, mengugut, mengganggu, mengacau atau menghalang pegawai diberi kuasa semasa menjalankan apa-apa kuasa di bawah seksyen ini, melakukan suatu kesalahan dan apabila disabitkan, boleh didenda tidak melebihi lima ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya. Kuasa untuk menyiasat 24le. Pegawai diberi kuasa hendaklah mempunyai kuasa untuk menjalankan penyiasatan jika terdapat sebab untuk mengesyaki bahawa— (a) suatu kesalahan telah atau sedang dilakukan; (b) terdapat percubaan untuk melakukan suatu kesalahan; atau (c) terdapat komplot untuk melakukan suatu kesalahan, berhubung dengan Akta ini. Memberikan maklumat, keterangan atau dokumen palsu atau mengelirukan 24lf. Seseorang yang tidak mendedahkan atau meninggalkan untuk memberikan apa-apa maklumat atau keterangan atau dokumen yang berkaitan, atau memberikan apa-apa maklumat, keterangan atau dokumen yang dia tahu atau mempunyai sebab untuk mempercayai adalah palsu atau mengelirukan, sebagai gerak balas kepada suatu arahan yang dikeluarkan oleh Ketua Pengarah atau pegawai diberi kuasa, melakukan suatu kesalahan dan apabila disabitkan, boleh didenda tidak melebihi lima ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya. Perintah pematuhan 24lg. (1) Jika pegawai diberi kuasa berpuas hati bahawa seseorang itu telah melakukan atau mungkin akan melakukan suatu kesalahan terhadap Akta ini, dia boleh membuat suatu perintah pematuhan di bawah seksyen ini. (2) Mana-mana orang yang terhadapnya suatu perintah pematuhan dibuat hendaklah mematuhi perintah itu. (3) Suatu perintah pematuhan boleh menghendaki seseorang supaya menahan diri daripada pelakuan yang melanggar Akta ini atau mengambil tindakan yang dikehendaki bagi mematuhi Akta ini. (4) Suatu perintah pematuhan hendaklah dibuat secara bertulis yang menyatakan alasan bagi pembuatannya. Pemberian maklumat 24lh. (1) Mana-mana orang yang— (a) mengetahui atau mempunyai alasan yang munasabah untuk mengesyaki bahawa seseorang pegawai diberi kuasa sedang bertindak, atau bercadang untuk bertindak, berkaitan dengan suatu penyiasatan yang sedang, atau akan, dijalankan di bawah atau bagi maksud Akta ini dan menzahirkan kepada mana- mana orang lain maklumat atau apa-apa perkara lain yang mungkin akan menjejaskan penyiasatan itu atau penyiasatan yang dicadangkan itu; atau (b) mengetahui atau mempunyai alasan yang munasabah untuk mengesyaki bahawa suatu penzahiran telah dibuat kepada seorang pegawai diberi kuasa di bawah Akta ini dan menzahirkan kepada mana- mana orang lain maklumat atau apa-apa perkara lain yang mungkin menjejaskan apa-apa penyiasatan yang mungkin dijalankan berikutan dengan penzahiran itu, melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi tiga juta ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya. (2) Tiada apa pun dalam subseksyen (1) menjadikan suatu kesalahan bagi seseorang peguam bela dan peguam cara atau pekerjanya untuk menzahirkan apa-apa maklumat atau perkara lain— (a) kepada pelanggannya atau wakil pelanggannya berkaitan dengan pemberian nasihat kepada pelanggan itu dalam penjalanan dan bagi maksud pengambilan khidmat profesional peguam bela dan peguam cara itu; atau (b) kepada mana-mana orang pada menjangkakan, atau berkaitan dengan dan bagi maksud, apa-apa prosiding undang-undang. (3) Subseksyen (2) tidaklah terpakai berhubungan dengan apa-apa maklumat atau perkara lain yang dizahirkan dengan tujuan untuk melaksanakan apa-apa maksud yang menyalahi undang-undang. (4) Dalam prosiding terhadap seseorang bagi suatu kesalahan di bawah seksyen ini, menjadi pembelaan jika orang itu membuktikan bahawa— (a) dia tidak mengetahui atau mengesyaki bahawa penzahiran yang dibuat di bawah perenggan (1)(b) berkemungkinan menjejaskan penyiasatan itu; atau (b) dia mempunyai kuasa sah atau alasan munasabah untuk membuat penzahiran itu.”."
+      }
+    }
+  ]
+}

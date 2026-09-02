@@ -40,25 +40,61 @@ after subsection 1(2) the following subsection:
 
 <!-- page 2 -->
 
-2
+<!-- marginal: 2 -->
 
 ## BILL
 
-New
+<!-- marginal: New -->
 
-3. The principal act is amended by inserting after section sections 1 the following sections: 1A and 1B.
+3. The principal act is amended by inserting after section
 
-"Repeal of 1A. (1) This Act, unless sooner repealed in Act upon accordance with section 1B, shall cease to be in cessation of operation at the expiration of five years after the operation. coming into force of this section.
+<!-- marginal: sections -->
+
+1 the following sections:
+
+<!-- marginal: 1A and 1B. -->
+
+<!-- marginal: "Repeal of -->
+
+1A. (1) This Act, unless sooner repealed in
+
+<!-- marginal: Act upon -->
+
+accordance with section 1B, shall cease to be in
+
+<!-- marginal: cessation -->
+
+<!-- marginal: of -->
+
+operation at the expiration of five years after the
+
+<!-- marginal: operation. -->
+
+coming into force of this section.
 
 (2) For the purpose of any written law, when this Act ceases to be in operation by virtue of subsection (1) or section 1B, it shall thereupon be deemed to have been repealed.
 
-Cessation 1B. This Act shall cease to be in operation in of operation any State or in such part or parts of the State on of Act in stages. such date as the Minister may, after consultation with the State Authority, appoint in relation to the State by a notification in the Gazette, and the Minister may, after consultation with the State Authority, appoint different dates for the cessation of this Act in any State or in such part or parts
+<!-- marginal: Cessation -->
+
+1B. This Act shall cease to be in operation in
+
+<!-- marginal: of operation -->
+
+any State or in such part or parts of the State on
+
+<!-- marginal: of Act in -->
+
+<!-- marginal: stages. -->
+
+such date as the Minister may, after consultation with the State Authority, appoint in relation to the State by a notification in the Gazette, and the Minister may, after consultation with the State Authority, appoint different dates for the cessation of this Act in any State or in such part or parts
 
 operate in any State unless approved by resolution of the Legislative Assembly of the State.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. Subsection 4(2) of the principal Act is amended— of section 4.
+4. Subsection 4(2) of the principal Act is amended—
+
+<!-- marginal: of section 4. -->
 
 (a) by inserting after the words "of any State" in paragraph (b) the words "or of any local authority";
 
@@ -94,7 +130,17 @@ Amendment
 
 8 the following section:
 
-"Landlord 8A. (1) The landlord of any controlled premises may vary may vary the fair rent of the premises if, on the fair rent. date of the coming into force of this section, the fair rent per mensem of the premises is less than one-twelfth of the annual value thereof.
+<!-- marginal: "Landlord -->
+
+8A. (1) The landlord of any controlled premises
+
+<!-- marginal: may vary -->
+
+may vary the fair rent of the premises if, on the
+
+<!-- marginal: fair rent. -->
+
+date of the coming into force of this section, the fair rent per mensem of the premises is less than one-twelfth of the annual value thereof.
 
 (2) The provisions of section 7 relating to the procedure of determining the fair rent of premises shall apply mutatis mutandis to the varying of fair rent under this section.".
 
@@ -118,9 +164,13 @@ Amendment
 
 (c) by deleting the full stop in subsection (4) and inserting thereafter the words "one of whom shall be a valuation officer.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-8. Subsection 13(1) of the principal Act is amended— of section 13
+8. Subsection 13(1) of the principal Act is amended—
+
+<!-- marginal: of section -->
+
+<!-- marginal: 13 -->
 
 (a) in paragraph (a) by inserting after the word "determining" the words "or varying"; and
 
@@ -128,9 +178,11 @@ Amendment
 
 "(g) to hear and determine any application made under section 20 or 24.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-9. Section 16 of the principal Act is amended— of section
+9. Section 16 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 16.
 
@@ -152,33 +204,13 @@ Provided further that in the case of a controlled premises being used by the ten
 
 (b) in subsection (3) by substituting for the word "six" the word "three".
 
-<!-- marginal: Amendment -->
+Amendment
 
-10. Section 18 of the principal Act is amended by substituting
+10. Section 18 of the principal Act is amended by substituting of section for the word "three" in paragraph (l)(c) the word "six". 18 . Amendment
 
-<!-- marginal: of section -->
+11. Subsection 19(11) of the principal Act is amended by of section substituting for the word "directors" the word "directions". 19 . New section
 
-for the word "three" in paragraph (l)(c) the word "six".
-
-<!-- marginal: 18 . -->
-
-<!-- marginal: Amendment -->
-
-11. Subsection 19(11) of the principal Act is amended by
-
-<!-- marginal: of section -->
-
-substituting for the word "directors" the word "directions".
-
-<!-- marginal: 19 . -->
-
-<!-- marginal: New section -->
-
-12. The principal Act is amended by inserting after section
-
-<!-- marginal: 24 A . -->
-
-24 the following section:
+12. The principal Act is amended by inserting after section 24 A . 24 the following section:
 
 <!-- page 6 -->
 
@@ -192,9 +224,13 @@ substituting for the word "directors" the word "directions".
 
 (2) In this section "notice" includes a certificate or other document.".
 
-Savings
+<!-- marginal: Savings -->
 
-13. The repeal of the principal Act under section 1A or 1B provision. shall not affect any application for the recovery of possession of any controlled premises made under section 16, 18 or 19 before the repeal, and section 16, 18 or 19 shall apply to such application as if the principal Act had not been repealed.
+13. The repeal of the principal Act under section 1A or 1B
+
+<!-- marginal: provision. -->
+
+shall not affect any application for the recovery of possession of any controlled premises made under section 16, 18 or 19 before the repeal, and section 16, 18 or 19 shall apply to such application as if the principal Act had not been repealed.
 
 ## EXPLANATORY STATEMENT
 

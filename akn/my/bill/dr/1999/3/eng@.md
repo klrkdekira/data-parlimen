@@ -44,13 +44,15 @@ ENACTED by the Parliament of Malaysia as follows:
 
 b e M l a l i a e 1 y ve s 7 ia A. t h w at i t h ( o 1) ut a ny p a y i ng p e r s on W h e re a ny is t he c u s a t b o o ut D ms i r e c t or or d u t i G e e s, is n e r al l he i k e h as ly m ay to r e a s on l e a ve to issue to any Director of Immigration a certificate
 
-from
+<!-- marginal: from -->
 
-### persons
+<!-- marginal: persons -->
 
-leaving containing particulars of the duties so payable with a
+<!-- marginal: leaving -->
 
-### Malaysia.
+containing particulars of the duties so payable with a
+
+<!-- marginal: Malaysia. -->
 
 request that such person be prevented from leaving Malaysia unless and until he pays all the duties so payable or furnishes security to the satisfaction of the Director General for its payment.
 

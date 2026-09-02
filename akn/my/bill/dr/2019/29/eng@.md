@@ -4,23 +4,41 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Interpretation 3. Person declared as a financial institution 4. Powers and functions of Bank
 
-## Part II
+## PART II
 
 ## POWERS RELATING TO CURRENCY
 
-5. Bank to be sole authority to issue currency 6. Printing and minting of currency under authority of Bank 7. Issuance, reissuance and exchange of currency at office, etc., established by Bank 8. Bank liable for face value of currency 9. Denomination and form of currency 10. Legal tender 11. Sale of currency 12. Safe custody of unissued currency, etc. 13. Power to call in currency 14. Withdrawal of currency 15. Disposal of currency or printing and minting instruments 16. Refund of lost, stolen or imperfect currency 17. Preservation of quality and integrity of currency
+5. Bank to be sole authority to issue currency 6. Printing and minting of currency under authority of Bank 7. Issuance, reissuance and exchange of currency at office, etc., established by Bank 8. Bank liable for face value of currency 9. Denomination and form of currency
 
-## Part III
+10. Legal tender
+
+11. Sale of currency
+
+12. Safe custody of unissued currency, etc.
+
+13. Power to call in currency
+
+14. Withdrawal of currency
+
+15. Disposal of currency or printing and minting instruments
+
+16. Refund of lost, stolen or imperfect currency
+
+17. Preservation of quality and integrity of currency
+
+## PART III
 
 ## OFFENCES RELATING TO CURRENCY
 
-18. Prohibition from issuing, printing or minting currency 19. Restriction on use of photograph, drawing or design of currency in publication, etc.
+18. Prohibition from issuing, printing or minting currency
+
+19. Restriction on use of photograph, drawing or design of currency in publication, etc.
 
 <!-- page 2 -->
 
@@ -30,7 +48,7 @@
 
 22. Non-application of section 21
 
-## Part IV
+## PART IV
 
 ## CURRENCY PROCESSING BUSINESS
 
@@ -78,25 +96,59 @@ Division 2 Duties of registered currency processor
 
 <!-- page 3 -->
 
-Division 3 Examination 42. Power to examine 43. Examination of specific person 44. Right of access and production of property, etc. 45. Appearance before Bank
+Division 3 Examination
 
-## Part V
+42. Power to examine
+
+43. Examination of specific person
+
+44. Right of access and production of property, etc.
+
+45. Appearance before Bank
+
+## PART V
 
 ## ENFORCEMENT
 
 Division 1 Actions by Bank
 
-46. Breach 47. Power to issue direction 48. Power to take administrative action 49. Appropriateness of action 50. Opportunity to make representation for action under section 47 or 48 51. Appeal against monetary penalty
+46. Breach
+
+47. Power to issue direction
+
+48. Power to take administrative action
+
+49. Appropriateness of action
+
+50. Opportunity to make representation for action under section 47 or 48
+
+51. Appeal against monetary penalty
 
 Division 2 Criminal action
 
-52. Offence by person acting in official capacity 53. Offence by employee or officer or agent 54. Attempt, abetment and conspiracy 55. Seizable offence 56. Joinder of offences 57. Compounding of offences 58. Prosecution
+52. Offence by person acting in official capacity
 
-## Part VI
+53. Offence by employee or officer or agent
+
+54. Attempt, abetment and conspiracy
+
+55. Seizable offence
+
+56. Joinder of offences
+
+57. Compounding of offences
+
+58. Prosecution
+
+## PART VI
 
 ## GENERAL
 
-59. Monies received by Bank 60. Power to make regulations 61. Power to issue standards
+59. Monies received by Bank
+
+60. Power to make regulations
+
+61. Power to issue standards
 
 <!-- page 4 -->
 
@@ -114,7 +166,7 @@ Division 2 Criminal action
 
 68. Exemption
 
-## Part VII
+## PART VII
 
 ## SAVING AND TRANSITIONAL
 
@@ -122,9 +174,9 @@ Division 2 Criminal action
 
 70. Transitional
 
-## First schedule
+## FIRST SCHEDULE
 
-## second schedule
+## SECOND SCHEDULE
 
 <!-- page 5 -->
 
@@ -136,7 +188,7 @@ An Act to provide for the management of currency of Malaysia, regulation of curr
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -248,7 +300,7 @@ by a person for or on behalf of another person; or
 
 (b) to render such assistance in the exercise of any of the powers or performance of any of the functions, of the Bank, under this Act.
 
-## Part II
+## PART II
 
 ## POWERS RELATING TO CURRENCY
 
@@ -362,7 +414,7 @@ as approved by the Minister, on the recommendation of the Bank.
 
 (b) take any measures or facilitate any actions as the Bank deems fit.
 
-## Part III
+## PART III
 
 ## OFFENCES RELATING TO CURRENCY
 
@@ -444,7 +496,7 @@ as approved by the Minister, on the recommendation of the Bank.
 
 (ii) disaster relief.
 
-## Part IV
+## PART IV
 
 ## CURRENCY PROCESSING BUSINESS
 
@@ -706,7 +758,7 @@ to the Bank in the manner and within the time as specified by the Bank.
 
 (2) Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit.
 
-## Part V
+## PART V
 
 ## ENFORCEMENT
 
@@ -914,7 +966,7 @@ whether or not the offence is committed in consequence of it, commits an offence
 
 58. No prosecution for an offence under this Act shall be instituted except by or with the written consent of the Public Prosecutor.
 
-## Part VI
+## PART VI
 
 ## GENERAL
 
@@ -1028,7 +1080,7 @@ for or on account of, or in respect of, any act, statement or omission made or o
 
 68. The Minister may, on the recommendation of the Bank, by an order published in the Gazette, exempt any person or any class, category or description of persons, from all or any provisions of this Act for any period and subject to any conditions as the Minister may prescribe in the order.
 
-## Part VII
+## PART VII
 
 ## SAVING AND TRANSITIONAL
 
@@ -1060,7 +1112,7 @@ and shall continue to remain in full force and effect in relation to the person 
 
 (b) on the date of service of a notice under section 27 stating that the application for registration is refused by the Bank.
 
-## First schedule
+## FIRST SCHEDULE
 
 [Section 3]
 
@@ -1070,7 +1122,7 @@ and shall continue to remain in full force and effect in relation to the person 
 
 <!-- page 37 -->
 
-## second schedule
+## SECOND SCHEDULE
 
 [Subsections 10(2) and 21(1)]
 
@@ -1098,7 +1150,7 @@ This Bill (“the proposed Act”) seeks to provide for the management of curren
 
 6. Clause 4 seeks to empower the Bank to exercise the powers and perform the functions under the proposed Act in a way which the Bank deems fit. This clause clarifies that the powers and functions of the Bank under the proposed Act are in addition to, and not in derogation of, the powers and functions of the Bank under the Central Bank of Malaysia Act 2009 [Act 701]. This clause also provides that the Governor shall exercise such powers and perform such functions of the Bank and that the Governor can appoint any person to exercise any powers or perform any functions of the Bank under the proposed Act.
 
-## Part II
+## PART II
 
 7. Part II deals with the powers of the Bank on matters relating to currency.
 
@@ -1132,7 +1184,7 @@ This Bill (“the proposed Act”) seeks to provide for the management of curren
 
 20. Clause 17 enables the Bank to enter into a contract or other arrangement with a financial institution or a registered currency processor or take any measures or facilitate actions as the Bank deems fit for the purpose of preserving the quality and integrity, or promoting the reissuance or recirculation of currency note and currency coin.
 
-## Part III
+## PART III
 
 21. Part III contains provisions relating to offences in respect of currency.
 
@@ -1148,7 +1200,7 @@ This Bill (“the proposed Act”) seeks to provide for the management of curren
 
 <!-- page 40 -->
 
-## Part IV
+## PART IV
 
 27. Part IV contains provisions relating to the registration of currency processing business, duties of a registered currency processor and the examination powers of the Bank.
 
@@ -1212,7 +1264,7 @@ Division 3 Examination
 
 51. Clause 45 provides that a person to be examined under clause 43 shall appear before the Bank at the time and place as specified by the Bank. Any person who contravenes this provision commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit.
 
-## Part V
+## PART V
 
 52. Part V contains provisions relating to enforcement.
 
@@ -1252,7 +1304,7 @@ unless that person proves that the offence was committed without his consent or 
 
 65. Clause 58 provides that the prosecution for an offence under the proposed Act shall be instituted with the written consent of the Public Prosecutor.
 
-## Part VI
+## PART VI
 
 66. Part VI deals with the general provisions.
 
@@ -1278,7 +1330,7 @@ unless that person proves that the offence was committed without his consent or 
 
 76. Clause 68 seeks to empower the Minister, on the recommendation of the Bank, to exempt any person or any class, category or description of persons, from all or any provisions of the proposed Act.
 
-## Part VII
+## PART VII
 
 77. Part VII deals with provisions relating to saving and transitional.
 

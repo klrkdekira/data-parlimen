@@ -60,9 +60,13 @@ oleh Duli Yang Maha Mulia Seri Paduka Baginda Yang di- Pertuan Agong dengan nasi
 
 (b) any person licensed under this Act to establish, maintain or work a tele- communication;'.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Seksyen 3 Akta ibu adalah dipinda dengan seksyen 3. memasukkan, selepas sahaja perkataan-perkataan "Land Authority" dalam subseksyen (3), perkataan-perkataan "to be obtained by the licensee".
+3. Seksyen 3 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 3. -->
+
+memasukkan, selepas sahaja perkataan-perkataan "Land Authority" dalam subseksyen (3), perkataan-perkataan "to be obtained by the licensee".
 
 <!-- page 3 -->
 
@@ -108,7 +112,7 @@ Provided that any delegation under this section shall not prevent the Director G
 
 (ii) dengan menomborkan semula perenggan (v) dan (vi) yang ada sekarang masing- masingnya sebagai perenggan (vii) dan (viii).
 
-Pindaan
+<!-- marginal: Pindaan -->
 
 7. Bahagian III Akta ibu, kecuali seksyen 10 (1) dan 18,
 
@@ -116,25 +120,39 @@ Pindaan
 
 adalah dipinda dengan memasukkan, selepas sahaja perkataan "line" atau "lines" di mana-mana sahaja terdapat, perkataan ", equipment".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-8. Seksyen 10 (1) Akta ibu adalah dipinda — seksyen 10.
+8. Seksyen 10 (1) Akta ibu adalah dipinda —
+
+<!-- marginal: seksyen 10. -->
 
 (a) dengan memasukkan, selepas sahaja perkataan " line", perkataan-perkataan "or equipment"; dan
 
 (b) dengan memasukkan, selepas sahaja perkataan- perkataan "across, and", perkataan-perkataan "telecommunication equipment or".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-9. Seksyen 21 Akta ibu adalah dipinda dengan seksyen 21. menggantikan perkataan-perkataan "five hundred" di baris enam dengan perkataan-perkataan "one hundred thousand"; dan dengan menggantikan perkataan- perkataan "five hundred" di baris tujuh dengan perkataan- perkataan "ten thousand".
+9. Seksyen 21 Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 21. -->
 
-10. Seksyen 22 Akta ibu adalah dipinda dengan seksyen 22. menggantikan perkataan "twenty-five" dengan perkataan- perkataan "five thousand".
+menggantikan perkataan-perkataan "five hundred" di baris enam dengan perkataan-perkataan "one hundred thousand"; dan dengan menggantikan perkataan- perkataan "five hundred" di baris tujuh dengan perkataan- perkataan "ten thousand".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-11. Seksyen 23 Akta ibu adalah dipinda dengan seksyen 23. menggantikan perkataan-perkataan "two hundred" dengan perkataan-perkataan "ten thousand".
+10. Seksyen 22 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 22. -->
+
+menggantikan perkataan "twenty-five" dengan perkataan- perkataan "five thousand".
+
+<!-- marginal: Pindaan -->
+
+11. Seksyen 23 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 23. -->
+
+menggantikan perkataan-perkataan "two hundred" dengan perkataan-perkataan "ten thousand".
 
 <!-- page 5 -->
 
@@ -198,13 +216,21 @@ menggantikan perkataan-perkataan "two hundred" dengan perkataan-perkataan "ten t
 
 <!-- page 6 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-18. Seksyen 31 Akta ibu adalah dipinda dengan seksyen 31. menggantikan perkataan-perkataan "five hundred" dengan perkataan-perkataan "ten thousand"; dan dengan menggantikan perkataan-perkataan "three months" dengan perkataan-perkataan "one year".
+18. Seksyen 31 Akta ibu adalah dipinda dengan
 
-Seksyen baru
+<!-- marginal: seksyen 31. -->
 
-19. Akta ibu adalah dipinda dengan memasukkan, selepas 3lA dan 3IB. sahaja seksyen 31, seksyen baru 3lA dan 31B berikut: "Search by 3lA. If a Magistrate is satisfied by information warrant. on oath that there is reasonable cause to believe that a telecommunication has been establised, maintained or worked otherwise than as permitted under section 3 or that any other offence under this Part has been committed, he may grant a search warrant to an authorized telecommunication officer to enter and inspect the premises in respect of which there is reasonable cause to believe that the offence has been committed, and to seize any apparatus or equipment used for or in connection with telecommunication which appears to him to be used or intended to be used for the commission of the offence, and may detain any person, found in such premises until such premises have been searched. Search 31B. Whenever it appears to an authorized without telecommunication officer that
+menggantikan perkataan-perkataan "five hundred" dengan perkataan-perkataan "ten thousand"; dan dengan menggantikan perkataan-perkataan "three months" dengan perkataan-perkataan "one year".
+
+<!-- marginal: Seksyen baru -->
+
+19. Akta ibu adalah dipinda dengan memasukkan, selepas
+
+<!-- marginal: 3lA dan 3IB. -->
+
+sahaja seksyen 31, seksyen baru 3lA dan 31B berikut: "Search by 3lA. If a Magistrate is satisfied by information warrant. on oath that there is reasonable cause to believe that a telecommunication has been establised, maintained or worked otherwise than as permitted under section 3 or that any other offence under this Part has been committed, he may grant a search warrant to an authorized telecommunication officer to enter and inspect the premises in respect of which there is reasonable cause to believe that the offence has been committed, and to seize any apparatus or equipment used for or in connection with telecommunication which appears to him to be used or intended to be used for the commission of the offence, and may detain any person, found in such premises until such premises have been searched. Search 31B. Whenever it appears to an authorized without telecommunication officer that
 
 <!-- marginal: there -->
 
@@ -238,7 +264,11 @@ menggantikan subseksyen (1) dengan subseksyen (1) baru berikut:
 
 "radio broadcast receiver" has the same meaning as is assigned to it under the Act 338. Broadcasting Act 1988;
 
-"radiocommunication" means any tele- communication by means of radio or Hertzian waves;
+"radiocommunication" means any
+
+<!-- marginal: tele- -->
+
+communication by means of radio or Hertzian waves;
 
 "radiocommunication apparatus" means any apparatus or any component part thereof capable of being used or being adapted for the transmission or reception of radio or Hertzian waves;
 
@@ -252,27 +282,37 @@ menggantikan subseksyen (1) dengan subseksyen (1) baru berikut:
 
 <!-- page 8 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-22. Seksyen 38 Akta ibu adalah dipinda — seksyen 38.
+22. Seksyen 38 Akta ibu adalah dipinda —
+
+<!-- marginal: seksyen 38. -->
 
 (a) dengan menggantikan noktah di akhir subseksyen (1) dengan noktah bertindih; dan
 
 (b) dengan memasukkan, dibawah subseksyen (1), proviso baru kepada subseksyen itu yang berikut:
 
-"Provided that any person licensed under Act 338.
+"Provided that any person licensed under
 
-## Part IV of the Broadcasting Act 1988 to install,
+<!-- marginal: Act -->
 
-work or deal in radio broadcast receiver or television broadcast receiver or any person exempted under section 15 of that Act shall not be required to obtain a licence under section 37 to install, work or deal in such radio broadcast receiver or television broadcast receiver.".
+338. Part IV of the Broadcasting Act 1988 to install, work or deal in radio broadcast receiver or television broadcast receiver or any person exempted under section 15 of that Act shall not be required to obtain a licence under section 37 to install, work or deal in such radio broadcast receiver or television broadcast receiver.".
 
-23. Akta ibu adalah dipinda dengan memasukkan, selepas baru 38A. sahaja seksyen 38, seksyen baru 38A berikut:
+<!-- marginal: Seksyen -->
+
+23. Akta ibu adalah dipinda dengan memasukkan, selepas
+
+<!-- marginal: baru 38A. -->
+
+sahaja seksyen 38, seksyen baru 38A berikut:
 
 "Exemption. 38A. The Minister may exempt, subject to such conditions as he may impose, any person from the operation of section 38 if such person has been issued a licence for the installation or working of any radiocommunication apparatus under the provisions of any law in force in any country which is a party to a treaty to which Malaysia is also a party and which recognizes licences issued under any law in force in Malaysia for the installation or working of any radiocommunication apparatus.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-24. Seksyen 39 Akta ibu adalah dipinda — seksyen 39.
+24. Seksyen 39 Akta ibu adalah dipinda —
+
+<!-- marginal: seksyen 39. -->
 
 (a) dengan menggantikan perkataan "three" dalarn subseksyen (1) dengan perkataan-perkataan "one hundred"; dan dengan menggantikan perkataan-perkataan "twelve months" dengan perkataan-perkataan "three years";
 
@@ -282,7 +322,9 @@ Pindaan
 
 (2), perkataan-perkataan "or authorized telecommunication officer"; dan
 
-(c) dengan memasukkan, selepas perkataan- perkataan "A police officer" dalam subseksyen (3), perkataan-perkataan "or an authorized telecommunication officer".
+(c) dengan memasukkan, selepas perkataan- perkataan "A police officer" dalam subseksyen
+
+(3), perkataan-perkataan "or an authorized telecommunication officer".
 
 <!-- marginal: Seksyen -->
 
@@ -292,11 +334,17 @@ Pindaan
 
 selepas sahaja seksyen 39, seksyen baru 39A berikut:
 
-"Search 39A. Whenever it appears to an authorized without telecommunication officer that there
+<!-- marginal: "Search -->
 
-<!-- marginal: is -->
+39A. Whenever it appears to an authorized
 
-warrant. reasonable cause to believe that in any premises there is established a radiocommunication station without a valid licence or there is installed or worked any radiocommunication apparatus or equipment or there is concealed or deposited any radiocommunication apparatus or equipment used or intended to be used to establish, install, maintain or work a radiocommunication in contravention of this Part, and the authorized telecommunication officer has reasonable ground for believing that by reason of delay in obtaining a search warrant under section 39(2) any such station, apparatus or equipment is likely to be removed or destroyed, the authorized telecommunication officer may enter and search such premises without a warrant and seize any such apparatus or equipment found therein and may detain any person found in such premises.".
+<!-- marginal: without -->
+
+telecommunication officer that there is
+
+<!-- marginal: warrant. -->
+
+reasonable cause to believe that in any premises there is established a radiocommunication station without a valid licence or there is installed or worked any radiocommunication apparatus or equipment or there is concealed or deposited any radiocommunication apparatus or equipment used or intended to be used to establish, install, maintain or work a radiocommunication in contravention of this Part, and the authorized telecommunication officer has reasonable ground for believing that by reason of delay in obtaining a search warrant under section 39(2) any such station, apparatus or equipment is likely to be removed or destroyed, the authorized telecommunication officer may enter and search such premises without a warrant and seize any such apparatus or equipment found therein and may detain any person found in such premises.".
 
 26. Subseksyen (1) seksyen 40 Akta ibu adalah di-
 
@@ -304,7 +352,7 @@ warrant. reasonable cause to believe that in any premises there is established a
 
 <!-- marginal: seksyen 40. -->
 
-pinda —
+<!-- marginal: pinda — -->
 
 (a) dengan memasukkan, selepas sahaja perkataan "the" dalam perenggan
 
@@ -332,23 +380,53 @@ pinda —
 
 "(ja) ensuring that any radiocommunication propagation path is not obstructed, and prescribing, in consultation with the appropriate Ministers, the removal of such obstruction;".
 
-Bahagian
+<!-- marginal: Bahagian -->
 
-27. Akta ibu adalah dipinda dengan memasukkan.selepas baru VI. sahaja seksyen 43, Bahagian baru VI berikut:
+27. Akta ibu adalah dipinda dengan memasukkan.selepas
+
+<!-- marginal: baru VI. -->
+
+sahaja seksyen 43, Bahagian baru VI berikut:
 
 ## "PART VI
 
 ## ENFORCEMENT
 
-Sealing of 44. Where it appears to any authorized apparatus or telecommunication officer that it is not equipment. practicable to remove from where it is found any
+<!-- marginal: Sealing of -->
+
+44. Where it appears to any authorized
+
+<!-- marginal: apparatus or -->
+
+telecommunication officer that it is not
+
+<!-- marginal: equipment. -->
+
+practicable to remove from where it is found any
 
 <!-- page 11 -->
 
 apparatus or equipment seized by him in the exercise of his powers under this Act, by reason of its nature, size or amount, he may by any means seal such apparatus or equipment and it shall be an offence for any person without lawful authority to break, tamper with or damage such seal or remove such apparatus or equipment or to attempt so to do and such person shall, on conviction, be liable to a fine not exceeding three thousand ringgit or to imprisonment for a term not exceeding one year or to both.
 
-Obstruction 45. Any person who assaults, hinders, impedes, to search. obstructs, or refuses access to any premises to, any authorized telecommunication officer in the performance of his duties under this Act or any regulation made thereunder shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding three thousand ringgit or to imprisonment for a term not exceeding one year or to both.
+<!-- marginal: Obstruction -->
 
-Powers of 46. (1) Subject to this section, any authorized investi- telecommunication officer shall have the power gation. to investigate the commission of any offence under this Act or any regulation made thereunder.
+45. Any person who assaults, hinders, impedes,
+
+<!-- marginal: to search. -->
+
+obstructs, or refuses access to any premises to, any authorized telecommunication officer in the performance of his duties under this Act or any regulation made thereunder shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding three thousand ringgit or to imprisonment for a term not exceeding one year or to both.
+
+<!-- marginal: Powers of -->
+
+46. (1) Subject to this section, any authorized
+
+<!-- marginal: investi- -->
+
+telecommunication officer shall have the power
+
+<!-- marginal: gation. -->
+
+to investigate the commission of any offence under this Act or any regulation made thereunder.
 
 (2) No authorized telecommunication officer shall enter any premises or effect any arrest or detention of any person without a warrant except in accordance with this Act.
 
@@ -362,7 +440,17 @@ circumstances of the case is reasonable; and such period shall not exceed twenty
 
 (5) No person who has been arrested by an authorized telecommunication officer shall be released except on his own bond or on bail or under a special order in writing by a Magistrate.
 
-Power to 47. (1) An authorized telecommunication examine officer carrying out an investigation under witnesses section 46 may examine orally any person supposed to be acquainted with the facts and circumstances of the case.
+<!-- marginal: Power to -->
+
+47. (1) An authorized telecommunication
+
+<!-- marginal: examine -->
+
+officer carrying out an investigation under
+
+<!-- marginal: witnesses -->
+
+section 46 may examine orally any person supposed to be acquainted with the facts and circumstances of the case.
 
 (2) Such person shall be bound to answer all questions relating to the case put to him by such officer:
 
@@ -376,15 +464,41 @@ Provided that such person may refuse to answer any question if such officer fail
 
 <!-- page 13 -->
 
-Offence for 48. Any person who— giving false and
+<!-- marginal: Offence for -->
 
-(a) subject to the proviso to section 47(2), misleading refuses to give to any authorized tele- statements. communication officer any information relating to an offence under this Act or any regulation made thereunder; or
+48. Any person who—
+
+<!-- marginal: giving false -->
+
+<!-- marginal: and -->
+
+(a) subject to the proviso to section 47(2),
+
+<!-- marginal: misleading -->
+
+refuses to give to any authorized tele-
+
+<!-- marginal: statements. -->
+
+communication officer any information relating to an offence under this Act or any regulation made thereunder; or
 
 (b) knowingly gives false information, shall be guilty of an offence and, shall,on conviction, be liable to a fine not exceeding three thousand ringgit or to imprisonment for a term not exceeding one year or to both.
 
-Conduct 49. Every authorized telecommunication of prose- officer shall have the authority to appear in court cution. and conduct any prosecution in respect of any offence against this Act or any regulation made thereunder.
+<!-- marginal: Conduct -->
 
-Forfeiture 50. (1) Any apparatus or equipment seized pursuant to this Act shall be liable to forfeiture.
+49. Every authorized telecommunication
+
+<!-- marginal: of prose- -->
+
+officer shall have the authority to appear in court
+
+<!-- marginal: cution. -->
+
+and conduct any prosecution in respect of any offence against this Act or any regulation made thereunder.
+
+<!-- marginal: Forfeiture -->
+
+50. (1) Any apparatus or equipment seized pursuant to this Act shall be liable to forfeiture.
 
 (2) An order for the forfeiture or for the release of any apparatus or equipment liable to forfeiture under the provisions of this section shall be made by the court before which the prosecution with regard thereto has been held and an order for the forfeiture of the apparatus or equipment shall be made if it is proved to the satisfaction of the court that an offence under this Act or any regulation made thereunder or any breach of the restrictions or conditions subject to which any licence has been granted has been committed and that the apparatus or equipment was used in the commission of the offence notwithstanding that no person may have been convicted of such offence or breach.
 
@@ -404,7 +518,11 @@ at the expiration of one calendar month from the date it was seized unless a cla
 
 <!-- page 15 -->
 
-Protection of 51. No action or prosecution shall be brought, authorised instituted or maintained in any court against any telecommu- mcation authorized telecommunication officer on offcers. account of or in respect of any act ordered or done for the purposes of carrying into effect this Act and no suit or prosecution shall lie in any court against any other person for or on account of or in respect of any act done or purporting to have been done by him under any order, direction or instruction of any authorized tele- communication officer given for any such purpose as aforesaid:
+Protection of 51. No action or prosecution shall be brought, authorised instituted or maintained in any court against any telecommu- mcation authorized telecommunication officer on offcers. account of or in respect of any act ordered or done for the purposes of carrying into effect this Act and no suit or prosecution shall lie in any court against any other person for or on account of or in respect of any act done or purporting to have been done by him under any order, direction or instruction of any authorized
+
+<!-- marginal: tele- -->
+
+communication officer given for any such purpose as aforesaid:
 
 Provided that the act was done in good faith and in reasonable belief that it was necessary for the purpose intended to be served thereby.".
 
@@ -422,7 +540,11 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Telekomunikasi 1950 (dalam H
 
 2. Fasal 1 memperuntukkan tajuk ringkas.
 
-3. Fasal 2 bertujuan memasukkan takrif-takrif baru "authorized telecommunication officer", "premises" dan "telecommunication equipraent" dan juga bertujuan untuk meminda takrif "telecommunication officer",
+3. Fasal 2 bertujuan memasukkan takrif-takrif baru "authorized telecommunication officer", "premises" dan "telecommunication equipraent" dan juga bertujuan untuk meminda
+
+<!-- marginal: takrif -->
+
+"telecommunication officer",
 
 4. Fasal 3 bertujuan meminda seksyen 3 untuk menjelaskan bahawa kebenaran oleh Pihak berkuasa Tanah hendaklah diperolehi oleh pemegang lesen.
 

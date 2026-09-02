@@ -74,9 +74,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (d) by inserting after subsection (3) the following subsection:
 
-"(4) For the purposes of this Act, the ship's tonnage shall be the gross tonnage calculated in accordance with the tonnage measurement regulations contained in annex I of the International Convention on Tonnage Measurement of Ships signed in London on 23 June
-
-1969.".
+"(4) For the purposes of this Act, the ship's tonnage shall be the gross tonnage calculated in accordance with the tonnage measurement regulations contained in annex I of the International Convention on Tonnage Measurement of Ships signed in London on 23 June 1969.".
 
 ### Amendment of section 3
 
@@ -170,11 +168,7 @@ unless the pollution damage resulted from their own act or omission, committed w
 
 (b) in subsection (8) —
 
-(i) by substituting for the words "Article 4 of the Fund Convention" the words "paragraphs 1, 2, 3, 6, 7 and 8 of Article 4 of the Fund Convention and
-
-## Part II of the First Schedule, as the case may be";
-
-and
+(i) by substituting for the words "Article 4 of the Fund Convention" the words "paragraphs 1, 2, 3, 6, 7 and 8 of Article 4 of the Fund Convention and Part II of the First Schedule, as the case may be"; and
 
 (ii) in paragraph (b), by inserting after the words "Article 4" the words "or Part II of the First
 
@@ -290,9 +284,7 @@ This Bill seeks to amend the Merchant Shipping (Oil Pollution) Act 1994 ("Act 51
 
 2. The significance of the Civil Liability Convention 1992 and the Fund Convention 1992 for Malaysia are as follows:
 
-(a) Greater geographical coverage The geographical coverage offered by the Civil Liability Convention 1992 is greater compared to that covered by the Civil Liability Convention
-
-1969. The new area extends to a distance of 200 nautical miles, which will cover the whole of Malaysia's exclusive economic zone. Under the Civil Liability Convention 1969, the maximum seaward area of coverage ends at the limit of the territorial sea, a distance of 12 nautical miles.
+(a) Greater geographical coverage The geographical coverage offered by the Civil Liability Convention 1992 is greater compared to that covered by the Civil Liability Convention 1969. The new area extends to a distance of 200 nautical miles, which will cover the whole of Malaysia's exclusive economic zone. Under the Civil Liability Convention 1969, the maximum seaward area of coverage ends at the limit of the territorial sea, a distance of 12 nautical miles.
 
 The extension of the geographical coverage is provided in the amendment to subsection 2(3) of Act 515 as proposed in clause 2(c) of this Bill.
 

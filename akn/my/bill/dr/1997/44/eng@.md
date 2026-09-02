@@ -6,13 +6,7 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-1. Short title and commencement.
-
-2. Law applicable to Federal Territory of Kuala Lumpur.
-
-3. Authority responsible for Federal Territory of Kuala Lumpur in water matters.
-
-4. Repeal.
+1. Short title and commencement. 2. Law applicable to Federal Territory of Kuala Lumpur. 3. Authority responsible for Federal Territory of Kuala Lumpur in water matters. 4. Repeal.
 
 <!-- page 2 -->
 
@@ -90,13 +84,23 @@ supply and distribution of water in the Federal Territory of Kuala Lumpur.
 
 (2) Nothing in subsection (1) shall preclude the Government of the Federation from exercising on its own behalf the powers and functions relating to the supply and distribution of water under the law applicable to the Federal Territory of Kuala Lumpur.
 
-Repeal.
+<!-- marginal: Repeal. -->
 
-4. (1) The Water Supply Enactment shall cease to apply F.M.S. Cap. in the Federal Territory of Kuala Lumpur.
+4. (1) The Water Supply Enactment shall cease to apply
+
+<!-- marginal: F.M.S. Cap. -->
+
+in the Federal Territory of Kuala Lumpur.
 
 203.
 
-P.U. (A) (2) The Federal Territory (Water Supply Enactment) 153/74. Order 1974 is revoked.
+<!-- marginal: P.U. (A) -->
+
+(2) The Federal Territory (Water Supply Enactment)
+
+<!-- marginal: 153/74. -->
+
+Order 1974 is revoked.
 
 (3) Subsidiary legislation made under the Water Supply Enactment and in force in the Federal Territory of Kuala Lumpur shall continue to be in force until revoked, amended or replaced by subsidiary legislation made in respect of the Federal Territory of Kuala Lumpur under the law relating to the supply and distribution of water in the Federal Territory of Kuala Lumpur.
 

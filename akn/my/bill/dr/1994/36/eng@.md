@@ -62,7 +62,11 @@ words "Official Administrator" the word "Corporation.".
 
 <!-- page 2 -->
 
-Amendment 5. Section 86 of the principal Act is amended— of section 86
+<!-- marginal: Amendment -->
+
+5. Section 86 of the principal Act is amended—
+
+<!-- marginal: of section 86 -->
 
 (a) in the marginal note by substituting for the words "Public Trustee" the words "the Corporation";
 

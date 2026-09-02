@@ -450,21 +450,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_17",
       "@type": "akn:clause",
       "eli:number": "17",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_17__para_aa",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV",
       "schema:text": {
         "@language": "en",
-        "@value": "Section 12a of the principal Act is amended by substituting for the words “Item 32(a) or (aa)” the words “Item 32(a),"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_17__para_aa",
-      "@type": "akn:paragraph",
-      "eli:number": "aa",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_17",
-      "schema:text": {
-        "@language": "en",
-        "@value": "or (ab)”. Amendment of section 17"
+        "@value": "Section 12a of the principal Act is amended by substituting for the words “Item 32(a) or (aa)” the words “Item 32(a), (aa) or (ab)”. Amendment of section 17"
       }
     },
     {

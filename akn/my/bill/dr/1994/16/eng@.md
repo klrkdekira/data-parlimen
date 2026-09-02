@@ -36,21 +36,31 @@ section 2—
 
 ## BILL
 
-Amendment
+<!-- marginal: Amendment -->
 
-3. Section 4 of the principal Act is amended by of section 4. substituting for the word "Justice" the word "Judge".
+3. Section 4 of the principal Act is amended by
 
-Amendment
+<!-- marginal: of section 4. -->
 
-4. Section 59 of the principal Act is amended by of section 59.
+substituting for the word "Justice" the word "Judge".
+
+<!-- marginal: Amendment -->
+
+4. Section 59 of the principal Act is amended by
+
+<!-- marginal: of section 59. -->
 
 ### substituting for the word "Justice" in subsections (3) and
 
 (4) the word "Judge",
 
-Amendment
+<!-- marginal: Amendment -->
 
-5. Section 65 of the principal Act is amended by of section 65. substituting for subsection (1) the following subsection:
+5. Section 65 of the principal Act is amended by
+
+<!-- marginal: of section 65. -->
+
+substituting for subsection (1) the following subsection:
 
 "(1) Subject to the Hmitations contained in this Act, a Sessions Court shall have—
 
@@ -60,31 +70,47 @@ Amendment
 
 ### or the value of the subject-matter does not
 
-exceed two hundred and fifty thousand ringgit.".
+exceed two hundred and fifty
 
-Amendment
+<!-- marginal: thousand -->
 
-6. Section 70 of the principal Act is amended— of section 70.
+ringgit.".
+
+<!-- marginal: Amendment -->
+
+6. Section 70 of the principal Act is amended—
+
+<!-- marginal: of section 70. -->
 
 (a) in subsection (1), by substituting for the words "subsections (3) and" the word "subsection"; and
 
 (b) by deleting subsection (3).
 
-Amendment
+<!-- marginal: Amendment -->
 
-7. Section 72 of the principal Act is amended by deleting of section 72. the words "where the amount of rent to be distrained does not exceed ninety-six thousand ringgit".
+7. Section 72 of the principal Act is amended by deleting
 
-Amendment
+<!-- marginal: of section 72. -->
 
-8. Section 73 of the principal Act is amended by of section 73.
+the words "where the amount of rent to be distrained does not exceed ninety-six thousand ringgit".
+
+<!-- marginal: Amendment -->
+
+8. Section 73 of the principal Act is amended by
+
+<!-- marginal: of section 73. -->
 
 ### substituting for the words "one hundred" in paragraph
 
 (b) the words "two hundred and fifty".
 
-Amendment
+<!-- marginal: Amendment -->
 
-9. Section 76 of the principal Act is amended by of section 76. substituting for the word "Justice" in subsection (3) the word "Judge".
+9. Section 76 of the principal Act is amended by
+
+<!-- marginal: of section 76. -->
+
+substituting for the word "Justice" in subsection (3) the word "Judge".
 
 <!-- page 3 -->
 

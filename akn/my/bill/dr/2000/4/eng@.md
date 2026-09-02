@@ -120,7 +120,7 @@
 
 ~r",
 
-(1) This Act may be cited as the Statutory Bodies (Discipline
+### (1) This Act may be cited as the Statutory Bodies (Discipline
 
 1.
 
@@ -134,7 +134,7 @@
 
 2.
 
-(1) This Act shall apply to all statutory bodies except the
+### (1) This Act shall apply to all statutory bodies except the
 
 ### statutory bodies listed in the First Schedule.
 
@@ -276,7 +276,7 @@
 
 6.
 
-(1) The disciplinary authorities in respect of the various
+### (1) The disciplinary authorities in respect of the various
 
 ### categories of officers shall be the Disciplinary Committees established
 
@@ -374,7 +374,7 @@
 
 9.
 
-(1) Where the Board finds or where representations are made
+### (1) Where the Board finds or where representations are made
 
 ### to the Board that it is desirable that the service of an officer be
 
@@ -834,9 +834,7 @@ r
 
 ### Interpretation
 
-2.
-
-(1) In these Regulations, unless the context otherwise requires-
+2. (1) In these Regulations, unless the context otherwise requires-
 
 "child" means-
 
@@ -984,9 +982,7 @@ such present may be formally accepted but the officer shall, as soon as practica
 
 't
 
-9.
-
-(1) An officer shall, on his appointment to the service of a statutory body or at any time thereafter as may be required by the Board, declare in writing to the appropriate Disciplinary Committee, through his Head of Department, all properties owned by him or by his spouse or child or held by any person on his behalf or on behalf of his spouse or child.
+9. (1) An officer shall, on his appointment to the service of a statutory body or at any time thereafter as may be required by the Board, declare in writing to the appropriate Disciplinary Committee, through his Head of Department, all properties owned by him or by his spouse or child or held by any person on his behalf or on behalf of his spouse or child.
 
 (2) An officer who does not own any property shall make a declaration in writing to that effect.
 
@@ -1110,9 +1106,7 @@ r (2) The Director General shall make arrangements with the appropriate : court 
 
 (c) a creditor's petition in bankruptcy has been presented against the officer.
 
-(3) In addition to such arrangements as may be made under subregulation
-
-(2), the Director General shall make arrangements with the Official Assignee for the Official Assignee to communicate to the Head of Department of an officer who is a bankrupt a report containing the following matters:
+(3) In addition to such arrangements as may be made under subregulation (2), the Director General shall make arrangements with the Official Assignee for the Official Assignee to communicate to the Head of Department of an officer who is a bankrupt a report containing the following matters:
 
 (a) the statement of affairs filed by the officer in accordance with the bankruptcy law for the time being in force;
 
@@ -1340,7 +1334,11 @@ Disciplinary Committee may, if it deems fit, exercise of his duties.
 
 (10) Where criminal proceedings against an officer result in his acquittal but on appeal the officer is convicted, the appropriate Disciplinary Committee having the jurisdiction to impose a punishment of dismissal or reduction in rank shall suspend the officer from the exercise of his duties with effect from the date of his conviction pending the decision of the Disciplinary Committee under regulation 28.
 
-(II) For the purpose of this regulation, the word "acquittal" includes a discharge not amounting to an acquittal.
+(II) For the purpose of this regulation,
+
+<!-- marginal: the word "acquittal" includes a -->
+
+discharge not amounting to an acquittal.
 
 <!-- page 28 -->
 
@@ -1472,9 +1470,7 @@ shall, before commencing any disciplinary proceedings in respect of the officer,
 
 (1)(a) or (b) determines that the disciplinary offence complained of is of a nature which warrants a punishment of dismissal or reduction in rank, he shall refer the case to the Disciplinary Committee which has the power to impose such punishment.
 
-## Chapter 2-Disciplinary proceeding not with a view to
-
-dismissal or reduction in rank
+Chapter 2-Disciplinary proceeding not with a view to dismissal or reduction in rank
 
 Procedure in disciplinary cases not with a view to dismissal or reduction in rank
 
@@ -1490,9 +1486,7 @@ Procedure in disciplinary cases not with a view to dismissal or reduction in ran
 
 (b) finds the officer not guilty, the Disciplinary Committee shall acquit him.
 
-## Chapter 3-Disciplinary proceeding with a view to
-
-dismissal or reduction in rank
+Chapter 3-Disciplinary proceeding with a view to dismissal or reduction in rank
 
 Procedure in disciplinary cases with a view to dismissal or reduction in rank
 
@@ -1792,9 +1786,7 @@ Service of notice, document, etc.
 
 53. (1) Every officer shall furnish to his Head of Department the address of his residence or any change of that address and that address shall be his address for the purpose of serving on him any notice or document required to be served under these Regulations or for the purpose of communicating with him on any matter in relation to these Regulations.
 
-(2) Any notice, document or communication left at or posted to or sent by any other reasonable means to the address for service furnished under subregulation
-
-(1) shall be deemed to have been duly served on or communicated to the officer.
+(2) Any notice, document or communication left at or posted to or sent by any other reasonable means to the address for service furnished under subregulation (1) shall be deemed to have been duly served on or communicated to the officer.
 
 Signature on letters and other correspondence
 
@@ -1844,15 +1836,9 @@ Declaration of interest f~, i"
 
 4. (1) If the Chairman or any member of a Disciplinary Committee has any interest in any disciplinary proceedings, he shall declare the nature of that interest and such declaration shall be recorded in the minutes of the meeting at which the declaration is made.
 
-(2) The Chairman or any member of a Disciplinary Committee who has an interest in any disciplinary proceeding shall not take part in the deliberation or
-
-### I
-
-decision of the Disciplinary Committee in that proceeding.
+(2) The Chairman or any member of a Disciplinary Committee who has an interest in any disciplinary proceeding shall not take part in the deliberation or decision of the Disciplinary Committee in that proceeding.
 
 Appointment of substitute member
-
-### I
 
 5. (1) The Board may, for reasons which shall be recorded, appoint any member of the Board or officer of the statutory body or nominate an officer of the Ministry to sit as the Chairman or a member of a Disciplinary Committee in place of the Chairman or a member specified in the Appendix in any disciplinary proceedings against an officer.
 
@@ -1918,9 +1904,7 @@ Appointment of substitute member
 
 ### ~ Appointment of substitute member
 
-·J~t
-
-15. (1) Where the Chairman of a Disciplinary Appeal Committee is the Minister the Prime Minister may, for reasons which shall be recorded, appoint another Minister to sit as the Chairman of the Disciplinary Appeal Committee in place of the Minister.
+·J~t 15. (1) Where the Chairman of a Disciplinary Appeal Committee is the Minister the Prime Minister may, for reasons which shall be recorded, appoint another Minister to sit as the Chairman of the Disciplinary Appeal Committee in place of the Minister.
 
 (2) Where the Chairman of a Disciplinary Appeal Committee is the Secretary General of the Ministry, the Chief Secretary to the Government may, for reasons which shall be recorded, appoint the Secretary General of another Ministry to sit as the Chairman of the Disciplinary Appeal Committee in place of the Secretary General specified in the Appendix.
 
@@ -2212,77 +2196,59 @@ Deputy Secretary General
 
 <!-- marginal: 00 -->
 
-## DISCIPLINARY COMMITTEES
+<!-- marginal: DISCIPLINARY COMMITTEES -->
 
-<!-- marginal: DISCIPLINARY APPEAL -->
+## DISCIPLINARY APPEAL
 
-<!-- marginal: COMMITTEES -->
+## COMMITTEES
 
 ### ..
 
-Category of Officers
+<!-- marginal: Category of Officers -->
 
-<!-- marginal: Composition of -->
+Composition of Composition of
 
-<!-- marginal: Composition of -->
+<!-- marginal: Jurisdiction -->
 
-Jurisdiction Disciplinary Committees
-
-<!-- marginal: Disciplinary -->
-
-<!-- marginal: Appeal Committees -->
+Disciplinary Committees Disciplinary Appeal Committees
 
 Legal Adviser of the Ministry
 
 2 members of the Board, appointed by the Chairman of the Board
 
-Support Group Disciplinary action not
+<!-- marginal: Support Group -->
+
+<!-- marginal: Disciplinary action not -->
 
 ### Chairman:
 
-<!-- marginal: Chairman: -->
+### Chairman:
 
 <!-- marginal: t::x:l -->
 
 ### .....
 
-with a view to dismissal
+<!-- marginal: with a view to dismissal -->
 
 ### .....
 
 ### .....
 
-Groups B, C and D under or reduction in rank Deputy Director General
+<!-- marginal: Groups B, C and D under -->
 
-<!-- marginal: Director General -->
+<!-- marginal: or reduction in rank -->
 
-the Cabinet Committee Report 1976
+Deputy Director General Director General
+
+<!-- marginal: the Cabinet Committee -->
+
+<!-- marginal: Report 1976 -->
 
 ### Members:
 
-<!-- marginal: Members: -->
+### Members:
 
-Head of the division
-
-<!-- marginal: Deputy Secretary General -->
-
-responsible for
-
-<!-- marginal: of the Ministry -->
-
-administrative matters in
-
-<!-- marginal: (Administration) -->
-
-the Ministry
-
-<!-- marginal: 1 member of the Board, -->
-
-<!-- marginal: appointed by the -->
-
-Legal Adviser of the Ministry
-
-<!-- marginal: Chairman of the Board -->
+Head of the division Deputy Secretary General responsible for of the Ministry administrative matters in (Administration) the Ministry 1 member of the Board, appointed by the Legal Adviser of the Ministry Chairman of the Board
 
 2 members of the Board, appointed by the Chairman of the Board
 

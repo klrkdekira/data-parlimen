@@ -4,33 +4,47 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
-1. Short title and commencement 2. Interpretation
+1. Short title and commencement
 
-## Part II
+2. Interpretation
+
+## PART II
 
 ## NATIONAL ANTI-FINANCIAL CRIME CENTRE
 
-3. Establishment of the National Anti-Financial Crime Centre 4. Functions of the National Anti-Financial Crime Centre
+3. Establishment of the National Anti-Financial Crime Centre
 
-## Part III
+4. Functions of the National Anti-Financial Crime Centre
+
+## PART III
 
 ## ADVISORY BOARD
 
-5. Advisory Board 6. Revocation and resignation of members of the Advisory Board 7. Vacation of office 8. Disclosure of interest 9. Functions of the Advisory Board
+5. Advisory Board
 
-## Part IV
+6. Revocation and resignation of members of the Advisory Board
+
+7. Vacation of office
+
+8. Disclosure of interest
+
+9. Functions of the Advisory Board
+
+## PART IV
 
 ## EXECUTIVE COMMITTEE
 
-10. Executive Committee 11. Functions of the Executive Committee
+10. Executive Committee
+
+11. Functions of the Executive Committee
 
 <!-- page 2 -->
 
-## Part V
+## PART V
 
 ## APPOINTMENTS OF DIRECTOR GENERAL, DEPUTY DIRECTOR GENERAL AND
 
@@ -40,7 +54,7 @@
 
 13. Appointment of other officers of the National Anti-Financial Crime Centre
 
-## Part VI
+## PART VI
 
 ## INTEGRATED OPERATION AND CENTRALIZED DATA SYSTEM
 
@@ -50,7 +64,7 @@
 
 16. Power to gather information
 
-## Part VII
+## PART VII
 
 ## GENERAL
 
@@ -72,7 +86,7 @@
 
 25. Things done in anticipation of the enactment of this Act
 
-## Schedule
+## SCHEDULE
 
 <!-- page 3 -->
 
@@ -84,7 +98,7 @@ An Act to provide for the establishment of the National Anti-Financial Crime Cen
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -114,7 +128,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ‚ÄúAdvisory Board‚Äù means the Advisory Board established under subsection 5(1).
 
-## Part II
+## PART II
 
 ## NATIONAL ANTI-FINANCIAL CRIME CENTRE
 
@@ -134,7 +148,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (c) to carry out activities relating to the prevention of financial crime.
 
-## Part III
+## PART III
 
 ## ADVISORY BOARD
 
@@ -216,7 +230,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (d) to facilitate the cooperation between the National Anti-Financial Crime Centre, the Government Entities and enforcement agencies for the prevention of financial crime.
 
-## Part IV
+## PART IV
 
 ## EXECUTIVE COMMITTEE
 
@@ -262,7 +276,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 10 -->
 
-## Part V
+## PART V
 
 ## APPOINTMENTS OF DIRECTOR GENERAL, DEPUTY DIRECTOR
 
@@ -306,7 +320,7 @@ on contract for such period and on such terms and conditions as may be specified
 
 (2) An officer appointed under subsection (1) shall be subject to the direction, control and supervision of the Director General, and shall exercise his powers, perform his functions and discharge his duties in compliance with such direction or control as may be specified orally or in writing by the Director General.
 
-## Part VI
+## PART VI
 
 ## INTEGRATED OPERATION AND CENTRALIZED DATA SYSTEM
 
@@ -366,7 +380,7 @@ on contract for such period and on such terms and conditions as may be specified
 
 (6) Any person who contravenes subsection (2) commits an offence and shall, on conviction, be liable to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding five years or to both.
 
-## Part VII
+## PART VII
 
 ## GENERAL
 
@@ -436,7 +450,7 @@ on contract for such period and on such terms and conditions as may be specified
 
 25. All things done by any person on behalf of the National Anti-Financial Crime Centre in the preparation of and towards the proper implementation of any of the provisions of this Act and any expenditure incurred in relation thereto, in anticipation of the enactment of this Act, shall be deemed to have been authorized by this Act, and all rights and obligations acquired or incurred on behalf of the National Anti-Financial Crime Centre from anything so done or any expenditure so incurred shall upon the coming into force of this Act be deemed to be the rights and obligations of the National Anti-Financial Crime Centre.
 
-## Schedule
+## SCHEDULE
 
 [Section 2]
 
@@ -448,7 +462,7 @@ Offences under the Second Schedule to the Anti-Money Laundering, Anti-Terrorism 
 
 The proposed National Anti-Financial Crime Centre Act 2019 (‚Äúthe proposed Act‚Äù) seeks to provide for the establishment of the National Anti-Financial Crime Centre, the coordination of integrated operations relating to financial crime amongst Government Entities and enforcement agencies and the management of a centralized data system, and for related matters.
 
-## Part I
+## PART I
 
 2. Part I of the proposed Act deals with preliminary matters.
 
@@ -458,7 +472,7 @@ The proposed National Anti-Financial Crime Centre Act 2019 (‚Äúthe proposed Act‚
 
 <!-- page 18 -->
 
-## Part II
+## PART II
 
 5. Part II of the proposed Act contains provisions relating to the establishment of the National Anti-Financial Crime Centre and its functions.
 
@@ -466,7 +480,7 @@ The proposed National Anti-Financial Crime Centre Act 2019 (‚Äúthe proposed Act‚
 
 7. Clause 4 seeks to provide for the functions of the National Anti-Financial Crime Centre.
 
-## Part III
+## PART III
 
 8. Part III of the proposed Act contains provisions relating to the establishment of the Advisory Board and its functions.
 
@@ -480,7 +494,7 @@ The proposed National Anti-Financial Crime Centre Act 2019 (‚Äúthe proposed Act‚
 
 13. Clause 9 seeks to provide for the functions of the Advisory Board.
 
-## Part IV
+## PART IV
 
 14. Part IV of the proposed Act contains provisions relating to the establishment of the Executive Committee and its functions.
 
@@ -490,7 +504,7 @@ The proposed National Anti-Financial Crime Centre Act 2019 (‚Äúthe proposed Act‚
 
 16. Clause 11 seeks to provide for the functions of the Executive Committee.
 
-## Part V
+## PART V
 
 17. Part V of the proposed Act contains provisions relating to the appointments of the Director General, Deputy Director General and other officers of the National Anti-Financial Crime Centre.
 
@@ -498,7 +512,7 @@ The proposed National Anti-Financial Crime Centre Act 2019 (‚Äúthe proposed Act‚
 
 19. Clause 13 seeks to appoint other officers of the National Anti-Financial Crime Centre for the purpose of carrying out the provisions of this proposed Act. This clause also subject the officers to the direction, control and supervision of the Director General.
 
-## Part VI
+## PART VI
 
 20. Part VI of the proposed Act contains provisions relating to integrated operations and the centralized data system.
 
@@ -510,7 +524,7 @@ The proposed National Anti-Financial Crime Centre Act 2019 (‚Äúthe proposed Act‚
 
 <!-- page 20 -->
 
-## Part VII
+## PART VII
 
 24. Part VII of the proposed Act deals with general provisions.
 

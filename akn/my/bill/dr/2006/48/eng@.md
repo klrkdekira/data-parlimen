@@ -138,17 +138,9 @@ to any person in respect of anything done or omitted to be done in good faith in
 
 (b) by substituting for paragraph (a) the following paragraph:
 
-"(a) such application, duly made in accordance with subsection (2), is received by the Minister within six months after the execution of the first sale and purchase agreement in respect of that housing development or that phase of
+"(a) such application, duly made in accordance with subsection (2), is received by the Minister within six months after the execution of the first sale and purchase agreement in respect of that housing development or that phase of housing development;"
 
-<!-- marginal: housing -->
-
-development;"
-
-(c) by inserting after subsection (2) the
-
-<!-- marginal: following -->
-
-subsection:
+(c) by inserting after subsection (2) the following subsection:
 
 "(2A) In the case of an application made by the purchasers under subsection (1), no licensed housing developer shall unreasonably withhold his written consent to the termination of the sale and purchase agreement."; and
 

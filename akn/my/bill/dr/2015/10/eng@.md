@@ -4,29 +4,37 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Interpretation
 
-## Part II
+## PART II
 
 ## POWERS OF ARREST AND REMAND
 
 3. Arrest and production before Magistrate 4. Procedure before Magistrate 5. Person in custody to be brought before Inquiry Officer 6. Release of person remanded in custody 7. Special procedures relating to electronic monitoring device
 
-## Part III
+## PART III
 
 ## INQUIRIES
 
-8. Prevention of Terrorism Board 9. Appointment of Inquiry Officers 10. Duties and powers of Inquiry Officers 11. Access by Inquiry Officer to detainees or prisoners 12. Report of Inquiry Officer
+8. Prevention of Terrorism Board 9. Appointment of Inquiry Officers
 
-## Part IV
+10. Duties and powers of Inquiry Officers
+
+11. Access by Inquiry Officer to detainees or prisoners
+
+12. Report of Inquiry Officer
+
+## PART IV
 
 ## DETENTION AND RESTRICTION ORDERS
 
-13. Power to order detention and restriction 14. Validity of detention orders
+13. Power to order detention and restriction
+
+14. Validity of detention orders
 
 <!-- page 2 -->
 
@@ -58,7 +66,7 @@
 
 28. Saving in respect of prosecution of persons detained
 
-## Part V
+## PART V
 
 ## GENERAL
 
@@ -76,7 +84,7 @@
 
 35. Saving and transitional
 
-## Schedule
+## SCHEDULE
 
 <!-- page 3 -->
 
@@ -92,7 +100,7 @@ AND WHEREAS Parliament considers it necessary to stop and prevent such action;
 
 NOW, THEREFORE, pursuant to Article 149 of the Federal Constitution, IT IS ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -130,7 +138,7 @@ NOW, THEREFORE, pursuant to Article 149 of the Federal Constitution, IT IS ENACT
 
 <!-- page 5 -->
 
-## Part II
+## PART II
 
 ## POWERS OF ARREST AND REMAND
 
@@ -236,7 +244,7 @@ order the person to be remanded in custody for a period of thirty-eight days; or
 
 (8) Upon expiry of the period referred to in subsection (1), the person shall report to the nearest police station for removal of the electronic monitoring device.
 
-## Part III
+## PART III
 
 ## INQUIRIES
 
@@ -322,7 +330,7 @@ order the person to be remanded in custody for a period of thirty-eight days; or
 
 (b) where the Board concurs with the Inquiry Officer that there are no reasonable grounds for believing that the person who was the subject of the inquiry is engaged in the commission or support of terrorist acts involving listed terrorist organizations in a foreign country or any part of a foreign country, the Board shall forthwith direct any person having the custody of that person, within twenty-four hours from the receipt of the direction, to produce the person before a Sessions Court Judge, who shall thereupon discharge the order of remand made under section 4 and, if there are no other grounds on which the person is lawfully detained, shall order his immediate release.
 
-## Part IV
+## PART IV
 
 ## DETENTION AND RESTRICTION ORDERS
 
@@ -524,7 +532,9 @@ and photographs of that person and of obtaining such other particulars concernin
 
 (3) Any person who, being required by a police officer not below the rank of Inspector to furnish the particulars referred to in paragraph (2)(a) or (b), refuses to furnish any such particulars or furnishes any particulars which he knows or has reason to believe to be false, commits an offence and shall be punished with a fine not exceeding ten thousand ringgit or with imprisonment for a term not exceeding three years or to both.
 
-(4) If any person fails to attend as directed under paragraph (2)(b), the police officer who issued the notice may cause him to be arrested without warrant by any police officer and brought before him for the purposes mentioned in that subsection.
+(4) If any person fails to attend as directed under paragraph
+
+(2)(b), the police officer who issued the notice may cause him to be arrested without warrant by any police officer and brought before him for the purposes mentioned in that subsection.
 
 ### Removal of name from Register
 
@@ -570,7 +580,7 @@ and who is unable satisfactorily to account for his presence at such place or ti
 
 28. The detention of any person under this Part shall be without prejudice to the taking of any criminal proceeding against that person, whether during or after the period of his detention.
 
-## Part V
+## PART V
 
 ## GENERAL
 
@@ -706,7 +716,7 @@ On 24 September 2014, the United Nations Security Council passed Resolution 2178
 
 4. Pursuant to the White Paper, this Bill seeks to provide for the prevention of the commission or support of terrorist acts involving listed terrorist organizations in a foreign country or any part of a foreign country and for the control of persons engaged in such acts and for related matters.
 
-## Part I
+## PART I
 
 5. This Part deals with preliminary matters.
 
@@ -714,7 +724,7 @@ On 24 September 2014, the United Nations Security Council passed Resolution 2178
 
 Clause 1 contains the short title and provision on the commencement of the Act while clause 2 contains definitions of certain words and expressions used in the Act. Among the salient terms defined are “terrorist act” and “listed terrorist organization” where “terrorist act” has the same meaning assigned to it by the Penal Code and “listed terrorist organization” means any specified entity declared under sections 66b and 66c of the Anti-Money Laundering, Anti-Terrorism Financing and Proceeds of Unlawful Activities Act 2001.
 
-## Part II
+## PART II
 
 6. Part II contains powers of arrest, and deals with the steps preceding the holding of an inquiry under Part III.
 
@@ -736,7 +746,7 @@ there is produced to him a statement in writing signed by a police officer not b
 
 Clause 7 prescribes the procedures relating to the attachment of the electronic monitoring device on a remanded person upon his release under clause 6.
 
-## Part III
+## PART III
 
 7. Part III deals with inquiries.
 
@@ -756,7 +766,7 @@ Clause 12 prescribes the requirement for the reporting by the Inquiry Officer to
 
 involving listed terrorist organizations in a foreign country or any part of a foreign country, the Board shall proceed under clause 13. Where there are no reasonable grounds for such belief, the Board shall forthwith direct any person having the custody of that person to produce the person within twenty-four hours before a Sessions Court Judge who shall thereupon discharge the order of remand made under clause 4. Further, if there are no other grounds on which the person is lawfully detained, the Sessions Court Judge shall order his immediate release.
 
-## Part IV
+## PART IV
 
 8. Part IV provides for detention and restriction orders.
 
@@ -806,7 +816,7 @@ Clause 27 makes it an offence to harbour any registered person contravening any 
 
 Clause 28 provides that the detention of any person under Part IV shall be without prejudice to the taking of any criminal proceeding against that person, whether during or after the period of his detention.
 
-## Part V
+## PART V
 
 9. Part V contains certain general provisions.
 

@@ -24,6 +24,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ‘ “Pengerusi Majlis Perbandaran” ertinya Pengerusi sesuatu Majlis Perbandaran yang disebut dalam seksyen 2 Ordinan Kerajaan Tempatan 1961 [Sabah No. 11 tahun 1991] dan subseksyen 2(1) Ordinan Pihak Berkuasa Tempatan 1996 [Sarawak Bab 20] dan termasuklah Timbalan Pengerusi Majlis Perbandaran itu;’;
 
+<!-- marginal: WJW006558 BM.indd 1 -->
+
 <!-- marginal: 5/20/16 11:22 PM -->
 
 <!-- page 2 -->
@@ -47,6 +49,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 (b) dengan memasukkan selepas subseksyen (4a) subseksyen yang berikut:
 
 “( 4b) Yang Dipertua Majlis Perbandaran atau Pengerusi Majlis Perbandaran boleh melantik sekian bilangan orang dalam perkhidmatan Majlis Perbandaran sebagaimana yang difikirkannya perlu atau suai manfaat bagi maksud Akta ini untuk menjadi warden lalu lintas dan boleh, setelah berunding dengan Ketua Polis Negara, menetapkan pakaian seragam bagi pegawai tersebut.”.
+
+<!-- marginal: WJW006558 BM.indd 2 -->
 
 <!-- marginal: 5/20/16 11:22 PM -->
 
@@ -73,6 +77,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 (3b) Perintah yang dibuat di bawah subseksyen (3a) boleh mengehadkan kuasa yang akan diberikan kepada dan tugas yang akan dilaksanakan oleh Yang Dipertua Majlis Perbandaran, Pengerusi Majlis Perbandaran dan pegawai atau orang dalam perkhidmatan Majlis Perbandaran itu.
 
 (3c) Apabila dibuat pemberikuasaan di bawah subseksyen (3a), Yang Dipertua Majlis Perbandaran, Pengerusi Majlis Perbandaran dan pegawai atau orang dalam perkhidmatan Majlis Perbandaran itu boleh menjalankan kuasa yang diberikan dan melaksanakan tugas yang dikenakan oleh Akta ini ke atas Yang Dipertua Majlis Perbandaran, Pengerusi Majlis Perbandaran atau warden lalu lintas, mengikut mana-mana yang berkenaan.”; dan
+
+<!-- marginal: WJW006558 BM.indd 3 -->
 
 <!-- marginal: 5/20/16 11:22 PM -->
 
@@ -132,6 +138,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 37. (1) Apabila penggantungan atau pembatalan lesen memandu dibuat di bawah seksyen 35 atau apabila pembatalan lesen memandu percubaan dibuat di bawah seksyen 35a, Ketua Pengarah hendaklah memberi orang yang berkenaan suatu notis secara bertulis memaklumkan orang itu mengenai penggantungan atau pembatalan itu, mengikut mana-mana yang berkenaan, dan hendaklah menghendaki orang itu menyerahkan lesen memandu dalam tempoh dua puluh satu hari dari tarikh penyampaian notis itu.
 
+<!-- marginal: WJW006558 BM.indd 5 -->
+
 <!-- marginal: 5/20/16 11:22 PM -->
 
 <!-- page 6 -->
@@ -183,6 +191,8 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Pengangkutan Jalan 1987 (“
 Rang Undang-Undang ini juga bertujuan menambah baik pelaksanaan dan keberkesanan sistem pemberian mata untuk mencegah pelakuan kesalahan lalu lintas tertentu dan untuk memastikan bahawa seseorang yang melakukan kesalahan lalu lintas tidak menjadi pesalah berulang.
 
 2. Fasal 1 mengandungi tajuk ringkas dan peruntukan mengenai permulaan kuat kuasa Akta yang dicadangkan.
+
+<!-- marginal: WJW006558 BM.indd 7 -->
 
 <!-- marginal: 5/20/16 11:22 PM -->
 

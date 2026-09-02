@@ -18,13 +18,27 @@
 
 ## PENUBUHAN SURUHANJAYA PERSAINGAN
 
-3. Penubuhan Suruhanjaya 4. Meterai perbadanan 5. Keanggotaan Suruhanjaya 6. Pemakaian Jadual 7. Akuan berkanun oleh anggota Suruhanjaya 8. Kelulusan untuk memegang jawatan lain 9. Tempoh jawatan 10. Saraan dan elaun 11. Pembatalan pelantikan dan peletakan jawatan 12. Pengosongan jawatan 13. Penjalanan sementara fungsi Pengerusi 14. Penubuhan Jawatankuasa 15. Penzahiran kepentingan
+3. Penubuhan Suruhanjaya 4. Meterai perbadanan 5. Keanggotaan Suruhanjaya 6. Pemakaian Jadual 7. Akuan berkanun oleh anggota Suruhanjaya 8. Kelulusan untuk memegang jawatan lain 9. Tempoh jawatan
+
+10. Saraan dan elaun
+
+11. Pembatalan pelantikan dan peletakan jawatan
+
+12. Pengosongan jawatan
+
+13. Penjalanan sementara fungsi Pengerusi
+
+14. Penubuhan Jawatankuasa
+
+15. Penzahiran kepentingan
 
 ## BAHAGIAN III
 
 ## FUNGSI DAN KUASA SURUHANJAYA
 
-16. Fungsi Suruhanjaya 17. Kuasa Suruhanjaya
+16. Fungsi Suruhanjaya
+
+17. Kuasa Suruhanjaya
 
 <!-- page 2 -->
 
@@ -106,7 +120,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Tajuk ringkas dan permulaan kuat kuasa
 
-1. (1) Akta ini bolehlah dinamakan Akta Suruhanjaya Persaingan 2010.
+1. (1) Akta ini bolehlah dinamakan Akta Suruhanjaya Persaingan
+
+2010.
 
 (2) Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
 

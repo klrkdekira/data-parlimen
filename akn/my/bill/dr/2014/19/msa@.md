@@ -6,7 +6,7 @@
 
 ## SUSUNAN FASAL
 
-## BaB I
+## BAB I
 
 ## PERMULAAN
 
@@ -14,7 +14,7 @@
 
 2. Pindaan Akta
 
-## BaB II
+## BAB II
 
 ## PINDAAN KEPADA AKTA CUKAI PENDAPATAN 1967
 
@@ -72,7 +72,7 @@
 
 26. Pindaan seksyen 49a
 
-## BaB IV
+## BAB IV
 
 ## PINDAAN KEPADA AKTA CUKAI KEUNTUNGAN HARTA TANAH 1976
 
@@ -90,7 +90,7 @@ Suatu Akta untuk meminda Akta Cukai Pendapatan 1967, Akta Petroleum (Cukai Penda
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## BaB I
+## BAB I
 
 ## PERMULAAN
 
@@ -104,7 +104,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 4 -->
 
-## BaB II
+## BAB II
 
 ## PINDAAN KEPADA AKTA CUKAI PENDAPATAN 1967
 
@@ -366,79 +366,25 @@ C is the total expenses incurred in that period for managing all investments or 
 
 <!-- page 14 -->
 
-Chargeable Income
+Chargeable Income RM Rate of Income Tax
 
-<!-- marginal: RM -->
+For every ringgit of the 5,000 0 per cent first
 
-<!-- marginal: Rate of -->
+For every ringgit of the 15,000 1 per cent next
 
-<!-- marginal: Income Tax -->
+For every ringgit of the 15,000 5 per cent next
 
-For every ringgit of the
+For every ringgit of the 15,000 10 per cent next
 
-<!-- marginal: 5,000 -->
+For every ringgit of the 20,000 16 per cent next
 
-<!-- marginal: 0 per cent -->
+For every ringgit of the 30,000 21 per cent next
 
-first
+For every ringgit of the 150,000 24 per cent next
 
-For every ringgit of the
+For every ringgit of the 150,000 24.5 per cent next
 
-<!-- marginal: 15,000 -->
-
-<!-- marginal: 1 per cent -->
-
-next
-
-For every ringgit of the
-
-<!-- marginal: 15,000 -->
-
-<!-- marginal: 5 per cent -->
-
-next
-
-For every ringgit of the
-
-<!-- marginal: 15,000 -->
-
-<!-- marginal: 10 per cent -->
-
-next
-
-For every ringgit of the
-
-<!-- marginal: 20,000 -->
-
-<!-- marginal: 16 per cent -->
-
-next
-
-For every ringgit of the
-
-<!-- marginal: 30,000 -->
-
-<!-- marginal: 21 per cent -->
-
-next
-
-For every ringgit of the 150,000
-
-<!-- marginal: 24 per cent -->
-
-next
-
-For every ringgit of the 150,000
-
-<!-- marginal: 24.5 per cent -->
-
-next
-
-For every ringgit 400,000
-
-<!-- marginal: 25 per cent”; -->
-
-exceeding
+For every ringgit 400,000 25 per cent”; exceeding
 
 (ii) dalam perenggan 1a, dengan menggantikan perkataan “26 per cent” dengan perkataan “25 per cent”;
 
@@ -466,7 +412,9 @@ exceeding
 
 (B) dengan menggantikan perkataan “25 per cent” dengan perkataan “25 per cent for the year of assessment 2015 and 24 per cent for the subsequent years of assessment”; dan
 
-(b) dalam Bahagian IV, dalam ruang “Rate of income tax”—
+(b) dalam Bahagian IV, dalam ruang “Rate of income
+
+<!-- marginal: tax”— -->
 
 (i) dengan menggantikan perkataan “20 per cent” dengan perkataan “18 per cent”;
 
@@ -546,7 +494,7 @@ exceeding
 
 26. Subseksyen 49a(16) Akta ibu dipinda dalam takrif “due date” dengan menggantikan perkataan “tenth” dengan perkataan “fifteenth”.
 
-## BaB IV
+## BAB IV
 
 ## PINDAAN KEPADA AKTA CUKAI KEUNTUNGAN HARTA
 

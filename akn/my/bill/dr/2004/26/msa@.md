@@ -108,7 +108,9 @@ Sewa Beli (Pindaan)
 
 <!-- page 4 -->
 
-4 Rang Undang-Undang
+<!-- marginal: 4 -->
+
+Rang Undang-Undang
 
 (b) where in the hire-purchase agreement the terms charges are at a variable rate, the net balance due is the outstanding amount financed and terms charges accrued and calculated up to the next due date of payment less, if the hirer requires any contract of insurance to be cancelled, the statutory rebate for insurance.".
 
@@ -116,7 +118,9 @@ Sewa Beli (Pindaan)
 
 7. Subseksyen 15(6) Akta ibu dipinda dengan menggantikan perenggan (a) dengan perenggan yang berikut:
 
-'(a) "balance outstanding under the hire-purchase agreement" means— (i) where in the hire-purchase agreement the terms charges are at a fixed rate, the total sum payable by the hirer to complete the purchase of goods to which the agreement relates and the amount derived from interest on overdue instalments which has yet to be paid less—
+'(a) "balance outstanding under the hire-purchase agreement" means—
+
+(i) where in the hire-purchase agreement the terms charges are at a fixed rate, the total sum payable by the hirer to complete the purchase of goods to which the agreement relates and the amount derived from interest on overdue instalments which has yet to be paid less—
 
 (a) the amount paid by or on behalf of the hirer excluding deposit;
 
@@ -136,9 +140,7 @@ Sewa Beli (Pindaan)
 
 <!-- page 5 -->
 
-Sewa Beli (Pindaan)
-
-<!-- marginal: 5 -->
+Sewa Beli (Pindaan) 5
 
 provided, whether by cash or other consideration, by or on behalf of the hirer under the agreement exceeds the net amount payable, the difference between that total and the net amount payable; or
 
@@ -378,9 +380,7 @@ Hire-Purchase (Amendment)
 
 <!-- page 12 -->
 
-Hire-Purchase (Amendment)
-
-<!-- marginal: 5 -->
+Hire-Purchase (Amendment) 5
 
 provided, whether by cash or other consideration, by or on behalf of the hirer under the agreement exceeds the net amount payable, the difference between that total and the net amount payable; or
 
@@ -498,4 +498,4 @@ This Bill seeks to amend the Hire-Purchase Act 1967 [Act 212]. Currently Act 212
 
 This Bill will not involve the Government in any extra financial expenditure.
 
-[PN(U2)2395]
+<!-- marginal: [PN(U2)2395] -->

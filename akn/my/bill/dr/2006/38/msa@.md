@@ -60,19 +60,11 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (a) diterima atau dibayar atas terma yang kena dibayar balik, dengan atau tanpa pulangan atau faedah atau dengan suatu premium atau diskaun; atau
 
-(b) diterima atau dibayar atas terma yang kena dibayar balik, sama ada keseluruhannya
-
-<!-- marginal: atau -->
-
-sebahagiannya, dengan apa-apa balasan berupa wang atau nilaian wang,
+(b) diterima atau dibayar atas terma yang kena dibayar balik, sama ada keseluruhannya atau sebahagiannya, dengan apa-apa balasan berupa wang atau nilaian wang,
 
 dan pembayaran balik itu adalah sama ada atas permintaan atau pada suatu masa atau mengikut hal keadaan yang dipersetujui oleh atau bagi pihak orang yang membuat pembayaran itu dan orang yang menerimanya, tidak kira sama ada transaksi itu diperihalkan sebagai suatu pinjaman, pendahuluan, pelaburan, simpanan, jualan atau jualan dan belian semula, tetapi tidak termasuk wang yang dibayar secara bona fide —
 
-(i) dengan cara suatu pendahuluan atau suatu pembayaran sebahagian di bawah suatu kontrak bagi jualan, sewaan atau peruntukan lain harta atau perkhidmatan, dan kena dibayar balik hanya dalam keadaan bahawa harta atau perkhidmatan itu tidak sebenarnya dijual, disewa atau
-
-<!-- marginal: selainnya -->
-
-diperuntukkan;
+(i) dengan cara suatu pendahuluan atau suatu pembayaran sebahagian di bawah suatu kontrak bagi jualan, sewaan atau peruntukan lain harta atau perkhidmatan, dan kena dibayar balik hanya dalam keadaan bahawa harta atau perkhidmatan itu tidak sebenarnya dijual, disewa atau selainnya diperuntukkan;
 
 (ii) dengan cara jaminan bagi pelaksanaan suatu kontrak atau dengan cara jaminan berkenaan dengan apa- apa kerugian yang mungkin berbangkit daripada ketidaklaksanaan sesuatu kontrak; dan
 
@@ -100,25 +92,13 @@ dan hendaklah termasuk wang yang didepositkan oleh mana-mana orang dengan sesuat
 
 (a) apa-apa hak, kepentingan, hakmilik, tuntutan, hak dalam tindakan, kuasa atau keistimewaan, sama ada pada masa ini atau hadapan, atau sama ada terletak hak atau kontingen, berhubung dengan apa-apa harta, atau selainnya yang mempunyai nilai;
 
-(b) apa-apa dokumen pemindahhakan
-
-<!-- marginal: yang -->
-
-disempurnakan bagi memindahhakkan, menyerahhakkan, menetapkan, menyerahkan, atau selainnya memindahkan atau melupuskan harta yang orang yang menyempurnakan
-
-<!-- marginal: dokumen -->
-
-pemindahhakan itu ialah tuan punya atau memiliki atau yang dia berhak kepada suatu hak yang kontingen, sama ada bagi semua kepentingan atau bagi apa-apa kepentingan yang kurang;
+(b) apa-apa dokumen pemindahhakan yang disempurnakan bagi memindahhakkan, menyerahhakkan, menetapkan, menyerahkan, atau selainnya memindahkan atau melupuskan harta yang orang yang menyempurnakan dokumen pemindahhakan itu ialah tuan punya atau memiliki atau yang dia berhak kepada suatu hak yang kontingen, sama ada bagi semua kepentingan atau bagi apa-apa kepentingan yang kurang;
 
 <!-- page 5 -->
 
 (c) apa-apa sekuriti, termasuk apa-apa saham, syer, debentur dan kumpulan wang;
 
-(d) apa-apa surat cara boleh niaga, termasuk apa-apa wang kertas bank, nota pembawa,
-
-<!-- marginal: bil -->
-
-perbendaharaan, waran dividen, bil pertukaran, nota janji hutang, cek dan sijil deposit boleh niaga;
+(d) apa-apa surat cara boleh niaga, termasuk apa-apa wang kertas bank, nota pembawa, bil perbendaharaan, waran dividen, bil pertukaran, nota janji hutang, cek dan sijil deposit boleh niaga;
 
 (e) apa-apa gadai janji atau gadaian, sama ada menurut undang-undang atau saksama, jaminan, lien atau sandaran, sama ada sebenar atau konstruktif, surat hipotekasi atau resit amanah, tanggung rugi, aku janji atau cara lain yang menjamin pembayaran atau pelepasan suatu hutang atau liabiliti, sama ada pada masa ini atau hadapan, atau sama ada terletak hak atau kontingen; dan
 
@@ -150,11 +130,7 @@ dipanggil yang, sama ada secara individu atau bersesama dengan seorang lain atau
 
 (n) dalam takrif "koperasi asas", dengan menggantikan perkataan "yang didaftarkan" dengan perkataan "sebagaimana yang diperuntukkan";
 
-(o) dalam takrif "koperasi atasan", dengan menggantikan perkataan "yang didaftarkan" dengan
-
-<!-- marginal: perkataan -->
-
-"sebagaimana yang diperuntukkan";
+(o) dalam takrif "koperasi atasan", dengan menggantikan perkataan "yang didaftarkan" dengan perkataan "sebagaimana yang diperuntukkan";
 
 (p) dengan memotong takrif "koperasi berdaftar";
 
@@ -162,11 +138,7 @@ dipanggil yang, sama ada secara individu atau bersesama dengan seorang lain atau
 
 ' "koperasi ditetapkan" ertinya suatu koperasi yang ditetapkan oleh Suruhanjaya melalui perintah secara bertulis mengikut kelas, kategori, jenis, aktiviti dan perihalan koperasi itu;';
 
-(r) dalam takrif "koperasi menengah", dengan menggantikan perkataan "yang didaftarkan" dengan
-
-<!-- marginal: perkataan -->
-
-"sebagaimana yang diperuntukkan";
+(r) dalam takrif "koperasi menengah", dengan menggantikan perkataan "yang didaftarkan" dengan perkataan "sebagaimana yang diperuntukkan";
 
 (s) dengan memasukkan selepas takrif "koperasi menengah" takrif yang berikut:
 
@@ -364,11 +336,7 @@ permulaan yang ditandatangani oleh sekurang- kurangnya dua puluh lima orang yang
 
 (a) dalam hal suatu koperasi, didenda tidak melebihi dua ratus ribu ringgit dan boleh sebagai tambahan, didenda harian satu ratus ringgit bagi setiap hari kesalahan itu berterusan selepas sabitan; atau
 
-(b) dalam hal seorang pegawai koperasi, didenda tidak melebihi dua ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya dan boleh, sebagai
-
-<!-- marginal: tambahan, -->
-
-didenda harian satu ratus ringgit bagi setiap hari kesalahan itu berterusan selepas sabitan.".
+(b) dalam hal seorang pegawai koperasi, didenda tidak melebihi dua ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya dan boleh, sebagai tambahan, didenda harian satu ratus ringgit bagi setiap hari kesalahan itu berterusan selepas sabitan.".
 
 ### Pindaan seksyen 17
 
@@ -640,15 +608,7 @@ Suruhanjaya.
 
 (2) Tugas dan tanggungjawab Jawatankuasa itu hendaklah diperuntukkan dalam undang-undang kecil.
 
-(3) Bagi maksud ini, perkataan
-
-<!-- marginal: "pegawai" -->
-
-sebagaimana yang ditakrifkan dalam seksyen 2
-
-<!-- marginal: tidaklah -->
-
-termasuk anggota Jawatankuasa Audit Dalaman.".
+(3) Bagi maksud ini, perkataan "pegawai" sebagaimana yang ditakrifkan dalam seksyen 2 tidaklah termasuk anggota Jawatankuasa Audit Dalaman.".
 
 ### Pindaan seksyen 43
 
@@ -842,11 +802,7 @@ itu, jika ada, atau pegawai lain yang dilantik oleh koperasi bagi maksud itu, he
 
 <!-- page 29 -->
 
-(2) Melainkan jika diperuntukkan selainnya dalam peraturan- peraturan, tiada koperasi boleh melabur wang
-
-<!-- marginal: lebihannya -->
-
-dalam—
+(2) Melainkan jika diperuntukkan selainnya dalam peraturan- peraturan, tiada koperasi boleh melabur wang lebihannya dalam—
 
 (a) bon atau debentur mana-mana koperasi lain;
 
@@ -906,11 +862,7 @@ dalam—
 
 (a) menyenggara suatu Kumpulan Wang Rizab Statutori; dan
 
-(b) sebelum mengisytiharkan apa-apa
-
-<!-- marginal: dividen -->
-
-daripada untung bersih terauditnya bagi setiap tahun, selepas peruntukan yang wajar telah
+(b) sebelum mengisytiharkan apa-apa dividen daripada untung bersih terauditnya bagi setiap tahun, selepas peruntukan yang wajar telah
 
 <!-- page 31 -->
 
@@ -926,11 +878,7 @@ dibuat bagi pencukaian, memindahkan kepada Kumpulan Wang Rizab Statutorinya dari
 
 (1B) Walau apa pun subseksyen (1), Kumpulan Wang Rizab Statutori boleh digunakan—
 
-(a) tertakluk kepada peraturan-peraturan
-
-<!-- marginal: atau -->
-
-undang-undang kecil, bagi membayar syer atau yuran yang dikeluarkan oleh anggota koperasi; atau
+(a) tertakluk kepada peraturan-peraturan atau undang-undang kecil, bagi membayar syer atau yuran yang dikeluarkan oleh anggota koperasi; atau
 
 (b) dengan kelulusan Suruhanjaya dan tertakluk kepada apa-apa terma dan syarat yang boleh dikenakan oleh Suruhanjaya, bagi menerbitkan syer bonus kepada anggota koperasi itu.
 
@@ -954,11 +902,7 @@ undang-undang kecil, bagi membayar syer atau yuran yang dikeluarkan oleh anggota
 
 (ii) dengan menggantikan perenggan (b) dengan perenggan yang berikut:
 
-"(b) pembayaran dividen, atas syer dan yuran anggota koperasi sebagaimana
-
-<!-- marginal: yang -->
-
-ditentukan oleh arahan atau garis panduan:
+"(b) pembayaran dividen, atas syer dan yuran anggota koperasi sebagaimana yang ditentukan oleh arahan atau garis panduan:
 
 Dengan syarat bahawa, pembayaran dividen daripada mana-mana sumber selain untung bersih teraudit bagi tahun kewangan itu tidak boleh dibuat kecuali dengan mendapat kelulusan bertulis terlebih dahulu daripada Suruhanjaya yang tidak boleh dalam mana- mana hal melebihi apa-apa kadar maksimum sebagaimana yang ditentukan dalam arahan atau garis panduan itu;";
 
@@ -1162,9 +1106,7 @@ dan apa-apa kekosongan yang wujud akibat pemecatan itu hendaklah diisi mengikut 
 
 (A) menggantung atau memecat daripada jawatan mana-mana anggota Lembaga koperasi; atau
 
-(B) melantik mana-mana orang atau orang sebagai anggota Lembaga koperasi
-
-<!-- marginal: itu, -->
+(B) melantik mana-mana orang atau orang sebagai anggota Lembaga koperasi itu,
 
 <!-- marginal: dan -->
 
@@ -1176,17 +1118,15 @@ memperuntukkan supaya orang itu dibayar oleh koperasi itu apa-apa saraan; atau
 
 (vi) membekukan akaun koperasi yang dipegang dalam koperasi lain atau bank bagi mengelakkan kerugian atau penyalahgunaan dana koperasi itu.
 
-(2) Jika mana-mana hal keadaan yang dinyatakan dalam perenggan (l)(a), (b) atau (c) wujud berkenaan dengan sesuatu koperasi, Suruhanjaya boleh, sama ada atau tidak ia telah menjalankan mana-mana kuasanya di bawah subperenggan (l)(i), (ii), (iii), (iv), (v) atau (vi) melalui perintah yang disiarkan dalam Warta —
+(2) Jika mana-mana hal keadaan yang dinyatakan dalam perenggan (l)(a), (b) atau (c) wujud berkenaan dengan sesuatu koperasi, Suruhanjaya boleh, sama ada atau tidak ia telah menjalankan mana-mana kuasanya di bawah subperenggan
+
+(l)(i), (ii), (iii), (iv), (v) atau (vi) melalui perintah yang disiarkan dalam Warta —
 
 (a) bagi Suruhanjaya atau mana-mana orang yang dilantik oleh Suruhanjaya untuk mengambil alih kawalan —
 
 (i) semua harta, urusan, aktiviti dan hal ehwal koperasi itu, dan menjalankan kesemua urusan, aktiviti dan hal ehwalnya; atau
 
-(ii) mana-mana bahagian daripada harta, urusan, aktiviti dan hal ehwal koperasi
-
-<!-- marginal: itu, dan -->
-
-menjalankan apa-apa bahagian daripada urusan, aktiviti dan hal ehwalnya; dan
+(ii) mana-mana bahagian daripada harta, urusan, aktiviti dan hal ehwal koperasi itu, dan menjalankan apa-apa bahagian daripada urusan, aktiviti dan hal ehwalnya; dan
 
 <!-- page 41 -->
 
@@ -1196,7 +1136,9 @@ menjalankan apa-apa bahagian daripada urusan, aktiviti dan hal ehwalnya; dan
 
 (3) Suatu perintah Suruhanjaya di bawah subseksyen (1) atau (2) boleh, dari semasa ke semasa, diubah suai, dipinda, diubah atau diganti sama ada secara prospektif, atau jika ia praktikal atau tidak adil untuk berbuat demikian, secara ke belakang, melalui suatu perintah selanjutnya di bawah subseksyen (1) atau (2), mengikut mana-mana yang berkenaan.
 
-(4) Mana-mana orang yang terkilan dengan perintah Suruhanjaya yang dibuat di bawah subperenggan (l)(i), (ii), (iii), (iv), (v) atau (vi) boleh, dalam masa dua puluh satu hari dari pembuatan perintah itu, merayu kepada Menteri, yang hendaklah mengesahkan atau mengetepikan perintah itu dan keputusan Menteri itu hendaklah muktamad dan konklusif.
+(4) Mana-mana orang yang terkilan dengan perintah Suruhanjaya yang dibuat di bawah subperenggan (l)(i), (ii),
+
+(iii), (iv), (v) atau (vi) boleh, dalam masa dua puluh satu hari dari pembuatan perintah itu, merayu kepada Menteri, yang hendaklah mengesahkan atau mengetepikan perintah itu dan keputusan Menteri itu hendaklah muktamad dan konklusif.
 
 (5) Mana-mana koperasi atau pegawai koperasi yang tidak mematuhi subperenggan (l)(i) atau (ii) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu juta ringgit atau dipenjara selama tempoh tidak melebihi satu tahun atau kedua-duanya.
 
@@ -1210,11 +1152,7 @@ menjalankan apa-apa bahagian daripada urusan, aktiviti dan hal ehwalnya; dan
 
 69
 
-69A. (1) Seseorang yang dilantik oleh Suruhanjaya di bawah subsubperenggan 69(l)(iv)(B) atau perenggan
-
-<!-- marginal: 69(2)(a) -->
-
-hendaklah menguruskan hal ehwal koperasi itu sehingga
+69A. (1) Seseorang yang dilantik oleh Suruhanjaya di bawah subsubperenggan 69(l)(iv)(B) atau perenggan 69(2)(a) hendaklah menguruskan hal ehwal koperasi itu sehingga
 
 <!-- page 42 -->
 
@@ -1274,11 +1212,7 @@ melainkan jika dikehendaki atau dibenarkan oleh Suruhanjaya atau orang yang dila
 
 (3) Setelah tamat apa-apa tempoh yang disebut dalam subseksyen (1) atau (2), dan jika pada pendapat Suruhanjaya, Suruhanjaya belum lagi selesai menjalankan kuasanya di bawah subseksyen 69(1) atau (2), Suruhanjaya boleh membubarkan koperasi itu.
 
-(4) Jika Suruhanjaya berpendapat bahawa
-
-<!-- marginal: apa-apa -->
-
-penjalanan kuasa yang disebut dalam subseksyen 69(1) atau (2) telah diselesaikan, Suruhanjaya hendaklah menyerahkan apa- apa harta, urusan, aktiviti dan hal ehwal koperasi kepada Lembaga yang baru dilantik dan menyebabkan suatu notis mengenai hal itu yang menyatakan tarikh penjalanan kuasa itu telah diselesaikan untuk disiarkan dalam Warta".
+(4) Jika Suruhanjaya berpendapat bahawa apa-apa penjalanan kuasa yang disebut dalam subseksyen 69(1) atau (2) telah diselesaikan, Suruhanjaya hendaklah menyerahkan apa- apa harta, urusan, aktiviti dan hal ehwal koperasi kepada Lembaga yang baru dilantik dan menyebabkan suatu notis mengenai hal itu yang menyatakan tarikh penjalanan kuasa itu telah diselesaikan untuk disiarkan dalam Warta".
 
 ### Pindaan seksyen 70
 
@@ -1406,15 +1340,7 @@ membuat suatu perintah yang menghendakinya membayar atau memulangkan wang atau h
 
 (a) dalam subseksyen (2), dengan menggantikan perkataan "hendaklah" dengan perkataan "boleh"; dan
 
-(b) dalam subseksyen (4), dengan menggantikan perkataan "hendaklah dirujukkan kepada tribunal
-
-<!-- marginal: itu" dengan -->
-
-perkataan "boleh dirujuk kepada tribunal
-
-<!-- marginal: itu oleh -->
-
-Suruhanjaya".
+(b) dalam subseksyen (4), dengan menggantikan perkataan "hendaklah dirujukkan kepada tribunal itu" dengan perkataan "boleh dirujuk kepada tribunal itu oleh Suruhanjaya".
 
 ### Seksyen baru 84A
 
@@ -1440,7 +1366,9 @@ Suruhanjaya".
 
 (2) Suruhanjaya boleh menghendaki dokumen atau maklumat yang dikemukakan di bawah subseksyen (1) untuk disahkan dengan sewajarnya oleh juruaudit.
 
-(3) Mana-mana penyata, statistik, dokumen atau maklumat yang dikemukakan kepada Suruhanjaya di bawah subseksyen (1) hendaklah benar, tepat dan lengkap.
+(3) Mana-mana penyata, statistik, dokumen atau maklumat yang dikemukakan kepada Suruhanjaya di bawah subseksyen
+
+(1) hendaklah benar, tepat dan lengkap.
 
 (4) Jika maklumat yang diperoleh oleh Suruhanjaya di bawah subseksyen (1) berhubung dengan akaun atau hal ehwal anggota koperasi, maklumat itu hendaklah dianggap sebagai rahsia antara Suruhanjaya dengan anggota koperasi itu.
 
@@ -1488,9 +1416,7 @@ fi) peletakhakan aset dan liabiliti —
 
 (C) sesuatu koperasi dalam suatu koperasi lain menurut sesuatu pemindahan; dan
 
-fii) pendaftaran koperasi gabungan, koperasi baru dan pembatalan pendaftaran, dalam
-
-<!-- marginal: hal -->
+fii) pendaftaran koperasi gabungan, koperasi baru dan pembatalan pendaftaran, dalam hal
 
 <!-- marginal: suatu -->
 
@@ -1698,9 +1624,13 @@ Seksyen baru 10B menggantikan seksyen 89 Akta 502 dan menjadikannya suatu kesala
 
 11. Fasal 12 bertujuan untuk meminda seksyen 14 Akta 502 dengan memotong kehendak bagi mengemukakan minit mesyuarat Lembaga kepada Suruhanjaya untuk mengurangkan pengemukaan dokumen yang tidak perlu kepada Suruhanjaya. Minit mesyuarat ini hanya perlu dikemukakan apabila dikehendaki oleh Suruhanjaya. Peruntukan penalti dimasukkan bagi ketidakpatuhan kehendak ini.
 
-12. Fasal 13 bertujuan untuk meminda seksyen 17 Akta 502. Subseksyen baru (2) dimasukkan bagi memberi Suruhanjaya kuasa, pada bila-bila masa, untuk menghendaki undang-undang kecil koperasi untuk mengandungi peruntukan kerahsiaan atau pendedahan yang dibenarkan.
+12. Fasal 13 bertujuan untuk meminda seksyen 17 Akta 502. Subseksyen baru
 
-13. Fasal 14 bertujuan untuk memasukkan seksyen baru 17A ke dalam Akta 502 bagi maksud menyelaraskan semua undang-undang kecil koperasi dengan Akta 502.
+(2) dimasukkan bagi memberi Suruhanjaya kuasa, pada bila-bila masa, untuk menghendaki undang-undang kecil koperasi untuk mengandungi peruntukan kerahsiaan atau pendedahan yang dibenarkan.
+
+13. Fasal 14 bertujuan untuk memasukkan seksyen baru 17A ke dalam Akta 502 bagi maksud menyelaraskan semua undang-undang kecil koperasi dengan Akta
+
+502.
 
 14. Fasal 15 bertujuan untuk meminda subseksyen 18(4) Akta 502 yang memperuntukkan bahawa apa-apa rayuan terhadap keengganan Suruhanjaya untuk mendaftar apa-apa pindaan undang-undang kecil koperasi boleh dibuat kepada Menteri dalam masa tiga bulan dari tarikh keengganan itu.
 
@@ -1786,9 +1716,13 @@ Fasal ini juga bertujuan untuk memasukkan subseksyen baru 59(6) ke dalam Akta 50
 
 47. Fasal 53 bertujuan untuk meminda seksyen 60 Akta 502 untuk mengadakan peruntukan bagi akaun tiap-tiap koperasi diaudit dalam tiap-tiap tahun kewangan oleh seorang juruaudit yang diluluskan oleh Suruhanjaya atau seorang pegawai Suruhanjaya.
 
-48. Fasal 54 bertujuan untuk meminda subseksyen 61(1) Akta 502 untuk memastikan bahawa seksyen ini selaras dengan cadangan pindaan dalam seksyen 60. Subseksyen 60(3) dipinda untuk memberi Suruhanjaya kuasa untuk membatalkan pelantikan seseorang juruaudit yang dilantik di bawah seksyen ini sekiranya pada pendapat Suruhanjaya, audit yang dijalankan tidak memuaskan.
+48. Fasal 54 bertujuan untuk meminda subseksyen 61(1) Akta 502 untuk memastikan bahawa seksyen ini selaras dengan cadangan pindaan dalam seksyen
 
-49. Fasal 55 bertujuan untuk memasukkan suatu perenggan baru 62(aa) ke dalam Akta 502 yang memperuntukkan bahawa seseorang itu tidak boleh menjadi seorang juruaudit sekiranya dia ialah seorang anggota sesuatu koperasi atau suami atau isterinya ialah seorang pegawai koperasi itu. Subseksyen baru ini dimasukkan untuk memastikan tiada percanggahan kepentingan antara tugas juruaudit dengan koperasi. Perenggan 62(e) dipinda untuk menghilangkan kelayakan seseorang juruaudit jika dia pernah dikompaun dengan mana-mana kesalahan di bawah Akta 502.
+60. Subseksyen 60(3) dipinda untuk memberi Suruhanjaya kuasa untuk membatalkan pelantikan seseorang juruaudit yang dilantik di bawah seksyen ini sekiranya pada pendapat Suruhanjaya, audit yang dijalankan tidak memuaskan.
+
+49. Fasal 55 bertujuan untuk memasukkan suatu perenggan baru 62(aa) ke dalam Akta 502 yang memperuntukkan bahawa seseorang itu tidak boleh menjadi seorang juruaudit sekiranya dia ialah seorang anggota sesuatu koperasi atau suami atau isterinya ialah seorang pegawai koperasi itu. Subseksyen baru ini dimasukkan untuk memastikan tiada percanggahan kepentingan antara tugas juruaudit dengan koperasi. Perenggan 62(e) dipinda untuk menghilangkan kelayakan seseorang juruaudit jika dia pernah dikompaun dengan mana-mana kesalahan di bawah Akta
+
+502.
 
 50. Fasal 56 bertujuan untuk meminda seksyen 63 Akta 502 dengan memasukkan suatu peruntukan penalti ke dalam subseksyen (6) yang dicadangkan bagi ketidakpatuhan seksyen ini.
 

@@ -56,11 +56,67 @@ dan Akta Perbekalan Tambahan (1994) 1994.
 
 (Seksyen 2)
 
-Maksud Tajuk Peruntukan kepada maksud RM
+Maksud Tajuk
 
-B. 7 Jabatan Perdana Menteri 123,000,000 B. 14 Kementerian Perumahan dan Kerajaan 745,000 Tempatan B. 15 Jabatan Perancangan Bandar dan Desa 1,000,000 B. 17 Kementerian Belia dan Sukan 4,427,400 B. 25 Kementerian Pertahanan 80,000,000 B. 29 Perkhidmatan Am Perbendaharaan 57,000,000 B. 38 Jabatan Pendaftaran Pertubuhan 718,000 B. 39 Jabatan Pendaftaran Negara 2,424,000 B. 42 Kementerian Perpaduan Negara dan 11,300,000 Pembangunan Masyarakat B. 45 Kementerian Sumber Manusia 20,000,000 B. 52 Kementerian Kerja Raya 212,000,000 B. 53 Kementerian Tanah dan Pembangunan 50,000,000 Koperasi
+<!-- marginal: Peruntukan -->
 
-Jumlah . . 562,614,400
+<!-- marginal: kepada maksud -->
+
+<!-- marginal: RM -->
+
+B. 7 Jabatan Perdana Menteri
+
+<!-- marginal: 123,000,000 -->
+
+B. 14 Kementerian Perumahan dan Kerajaan
+
+<!-- marginal: 745,000 -->
+
+Tempatan B. 15 Jabatan Perancangan Bandar dan Desa
+
+<!-- marginal: 1,000,000 -->
+
+B. 17 Kementerian Belia dan Sukan
+
+<!-- marginal: 4,427,400 -->
+
+B. 25 Kementerian Pertahanan
+
+<!-- marginal: 80,000,000 -->
+
+B. 29 Perkhidmatan Am Perbendaharaan
+
+<!-- marginal: 57,000,000 -->
+
+B. 38 Jabatan Pendaftaran Pertubuhan
+
+<!-- marginal: 718,000 -->
+
+B. 39 Jabatan Pendaftaran Negara
+
+<!-- marginal: 2,424,000 -->
+
+B. 42 Kementerian Perpaduan Negara dan
+
+<!-- marginal: 11,300,000 -->
+
+Pembangunan Masyarakat B. 45 Kementerian Sumber Manusia
+
+<!-- marginal: 20,000,000 -->
+
+B. 52 Kementerian Kerja Raya
+
+<!-- marginal: 212,000,000 -->
+
+B. 53 Kementerian Tanah dan Pembangunan
+
+<!-- marginal: 50,000,000 -->
+
+Koperasi
+
+Jumlah . .
+
+<!-- marginal: 562,614,400 -->
 
 ## HURAIAN
 

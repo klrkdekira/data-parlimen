@@ -56,15 +56,33 @@ seksyen 3A, seksyen baru 3B yang berikut: "Additional 3B. (1) In addition to the
 
 authority or to operate or maintain a port or the transportation of goods through the port; or
 
-(b) the development, operation or maintenance outside the port of marinas and other pro- perties necessary for the furtherance of any function or duty of the authority.". 4. Akta ibu adalah dipinda dengan memasukkan selepas baru 8A. seksyen 8 seksyen baru 8A yang berikut: "Power to 8A. The authority may, from time to time with the borrow approval of the Minister of Finance, borrow, by money. way of overdraft or otherwise, such sums as it may require for meeting its obligations and dis- charging its functions under this Act and may secure the repayment of any sum borrowed by way of a mortgage or charge, legal or equitable, of any property vested in the authority, or of any revenue received by the authority under this Act".
+(b) the development, operation or maintenance outside the port of marinas and other pro- perties necessary for the furtherance of any function or duty of the authority.".
 
-Pindaan 5. Seksyen 9 Akta ibu adalah dipinda— seksyen 9.
+<!-- marginal: Seksyen -->
+
+4. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru 8A. -->
+
+seksyen 8 seksyen baru 8A yang berikut: "Power to 8A. The authority may, from time to time with the borrow approval of the Minister of Finance, borrow, by money. way of overdraft or otherwise, such sums as it may require for meeting its obligations and dis- charging its functions under this Act and may secure the repayment of any sum borrowed by way of a mortgage or charge, legal or equitable, of any property vested in the authority, or of any revenue received by the authority under this Act".
+
+<!-- marginal: Pindaan -->
+
+5. Seksyen 9 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 9. -->
 
 (a) dengan menggantikan perkataan-perkataan "Accounts and audit" dalam nota birai dengan perkataan-perkataan "Accounts and records to be open for inspection";
 
 (b) dengan memotong perenggan (b) subseksyen (1); dan (c) dengan memotong subseksyen 3.
 
-Seksyen baru 6. Akta ibu adalah dipinda dengan memasukkan selepas 29cA dan seksyen 29C seksyen baru 29CA dan 29CB yang berikut:
+<!-- marginal: Seksyen baru -->
+
+6. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: 29cA dan -->
+
+seksyen 29C seksyen baru 29CA dan 29CB yang berikut:
 
 29CB. "Power of 29cA. (1) Notwithstanding anything to the con- Pilotage trary in the Act the authority may, if it considers committee expedient, authorise the Pilotage Committee to to license employees issue a licence to any employee of a licensed of a operator to pilot vessels in a pilotage district of licensed operator. such authority subject to such terms and con- ditions as the authority thinks fit: Provided that no such licence shall be issued to any such employee unless the Pilotage Committee
 
@@ -72,7 +90,43 @@ Seksyen baru 6. Akta ibu adalah dipinda dengan memasukkan selepas 29cA dan seksy
 
 has examined the employee and be satisfied as to the employee's general fitness and competency, including his physical fitness to act as a pilot for the licensed operator. (2) A licence issued under subsection (1) shall cease to be valid if the employee to whom it was issued ceases to be employed by the licensed operator.
 
-Vessel to be 29cB. (1) No vessel shall be piloted in a pilotage piloted by district by any person other than an authority pilot authority pilot or or an employee licensed under section 29CA employee (1) of a licensed operator. of a licensed (2) Notwithstanding the provisions of sub- operator section (1) the authority may, if it considers or an authorised expedient, authorise any person to pilot vessels person. passing through its pilotage district, subject to such terms and conditions as the authority may impose.".
+<!-- marginal: Vessel to be -->
+
+29cB. (1) No vessel shall be piloted in a pilotage
+
+<!-- marginal: piloted by -->
+
+district by any person other than an authority pilot
+
+<!-- marginal: authority -->
+
+<!-- marginal: pilot or -->
+
+or an employee licensed under section 29CA
+
+<!-- marginal: employee -->
+
+(1) of a licensed operator.
+
+<!-- marginal: of a -->
+
+<!-- marginal: licensed -->
+
+(2) Notwithstanding the provisions of sub-
+
+<!-- marginal: operator -->
+
+section (1) the authority may, if it considers
+
+<!-- marginal: or an -->
+
+<!-- marginal: authorised -->
+
+expedient, authorise any person to pilot vessels
+
+<!-- marginal: person. -->
+
+passing through its pilotage district, subject to such terms and conditions as the authority may impose.".
 
 <!-- marginal: Pindaan -->
 
@@ -86,13 +140,21 @@ Vessel to be 29cB. (1) No vessel shall be piloted in a pilotage piloted by distr
 
 <!-- page 4 -->
 
-8. Seksyen 29I Akta ibu adalah dipinda— Pindaan seksyen 29t.
+8. Seksyen 29I Akta ibu adalah dipinda—
+
+<!-- marginal: Pindaan -->
+
+<!-- marginal: seksyen 29t. -->
 
 (a) dengan memasukkan selepas perkataan-perkataan "an authority pilot" dalam subseksyen (1) per- kataan-perkataan "or any person licensed under section 29CA (1) or any person authorised to pilot vessels under section 29CB (2)"; dan
 
 (b) dengan menggantikan perkataan-perkataan "Five hundred dollars" dalam subseksyen (3) dengan perkataan-perkataan "two thousand ringgit".
 
-Pindaan 9. Seksyen 29J Akta ibu adalah dipinda— seksyen 29r.
+<!-- marginal: Pindaan -->
+
+9. Seksyen 29J Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 29r. -->
 
 (a) dengan memasukkan selepas perkataan-perkataan "an authority pilot" dalam subseksyen (1) per- kataan-perkataan "or an employee licensed under section 29CA (1) of a licensed operator or any person authorised by the authority to pilot vessels pursuant to section 29CB (2)";
 
@@ -100,7 +162,11 @@ Pindaan 9. Seksyen 29J Akta ibu adalah dipinda— seksyen 29r.
 
 (c) dengan memasukkan selepas perkataan-perkataan "Any authority pilot," dalam subseksyen 3 per- kataan-perkataan "or an employee licensed under section 29CA (1) of a licensed operator,".
 
-Pindaan 10. Seksyen 29M Akta ibu adalah dipinda— seksyen 29M.
+<!-- marginal: Pindaan -->
+
+10. Seksyen 29M Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 29M. -->
 
 (a) dengan memasukkan selepas perkataan-perkataan "under section" dalam subseksyen (1) perkataan- perkataan "29CA (1) or"; dan
 
@@ -182,17 +248,17 @@ kan perkataan-perkataan "one thousand dollars" dalam subseksyen (2) dengan perka
 
 ### vessels pursuant to section 29cB (2)"; dan
 
-### (ii) dengan menggantikan perkataan-perkataan
+(ii) dengan menggantikan perkataan-perkataan
 
 ### "one thousand dollars" dengan perkataan-
 
 perkataan "two thousand ringgit".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-### 17. Seksyen 35B Akta ibu adalah dipinda—
+17. Seksyen 35B Akta ibu adalah dipinda—
 
-seksyen 35B.
+<!-- marginal: seksyen 35B. -->
 
 (a) dengan memasukkan selepas perkataan-perkataan
 
@@ -208,17 +274,19 @@ seksyen 35B.
 
 ### perkataan "an employee of a licensed operator,";
 
-dan (c) dengan menggantikan perkataan-perkataan "one
+dan
+
+(c) dengan menggantikan perkataan-perkataan "one
 
 ### hundred dollars" dalam subseksyen (2) perkataan-
 
 ### perkataan "five hundred ringgit".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-### 18. Seksyen 35C Akta ibu adalah dipinda—
+18. Seksyen 35C Akta ibu adalah dipinda—
 
-seksyen 35c.
+<!-- marginal: seksyen 35c. -->
 
 (a) dengan menggantikan perkataan-perkataan ", either within or without the districts for which he is
 
@@ -262,25 +330,107 @@ authorised to pilot vessels under section 29CB (2) who commits an offence under 
 
 <!-- marginal: seksyen 35E. -->
 
-35E dengan seksyen 35E baru yang berikut: "Failure to 35E. (1) The master, owner or agent of a vessel employ navigating in circumstances in which the vessel is authority pilot or required by the authority under section 29B to be licensed under pilotage who does not employ an authority pilot under pilot or an employee licensed under section 29CA certain circum- (1) of a licensed operator or a person authorised stances. by the authority under section 29CB (2), for such purpose shall be guilty of an offence under this Act and shall be liable on conviction to a fine not exceeding five thousand ringgit. (2) Upon being found guilty of any offence under subsection (1), the Court before which the master, owner or agent of the vessel is found guilty shall order such master, owner or agent to pay to the authority the amount certified by the accountant of the authority to be the amount of dues and rates which would have been payable to the authority if the vessel had been under pilotage as required by this Act and such amount shall be recoverable in the same manner as a fine.".
+35E dengan seksyen 35E baru yang berikut:
+
+<!-- marginal: "Failure to -->
+
+35E. (1) The master, owner or agent of a vessel
+
+<!-- marginal: employ -->
+
+navigating in circumstances in which the vessel is
+
+<!-- marginal: authority -->
+
+<!-- marginal: pilot or -->
+
+required by the authority under section 29B to be
+
+<!-- marginal: licensed -->
+
+under pilotage who does not employ an authority
+
+<!-- marginal: pilot under -->
+
+pilot or an employee licensed under section 29CA
+
+<!-- marginal: certain -->
+
+<!-- marginal: circum- -->
+
+(1) of a licensed operator or a person authorised
+
+<!-- marginal: stances. -->
+
+by the authority under section 29CB (2), for such purpose shall be guilty of an offence under this Act and shall be liable on conviction to a fine not exceeding five thousand ringgit. (2) Upon being found guilty of any offence under subsection (1), the Court before which the master, owner or agent of the vessel is found guilty shall order such master, owner or agent to pay to the authority the amount certified by the accountant of the authority to be the amount of dues and rates which would have been payable to the authority if the vessel had been under pilotage as required by this Act and such amount shall be recoverable in the same manner as a fine.".
 
 <!-- page 8 -->
 
-Pindaan 21. Seksyen 36 Akta ibu adalah dipinda dengan mengganti- seksyen 36. kan perkataan-perkataan "one thousand dollars" dengan perkataan-perkataan "two thousand ringgit".
+<!-- marginal: Pindaan -->
 
-Pindaan 22. Seksyen 36A Akta ibu adalah dipinda— seksyen 36A.
+21. Seksyen 36 Akta ibu adalah dipinda dengan mengganti-
+
+<!-- marginal: seksyen 36. -->
+
+kan perkataan-perkataan "one thousand dollars" dengan perkataan-perkataan "two thousand ringgit".
+
+<!-- marginal: Pindaan -->
+
+22. Seksyen 36A Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 36A. -->
 
 (a) dengan memotong perkataan-perkataan "either knowingly or recklessly,"; dan
 
-(b) dengan menggantikan perkataan-perkataan "one thousand dollars" dengan perkataan-perkataan "five thousand ringgit". 23. Akta ibu adalah dipinda dengan memasukkan selepas baru 37A. seksyen 37 seksyen baru 37A yang berikut:
+(b) dengan menggantikan perkataan-perkataan "one thousand dollars" dengan perkataan-perkataan "five thousand ringgit".
 
-"Authority 37A. (1) When any person without lawful excuse to recover refuses or neglects to obey any direction lawfully expenses incurred for given under this Act or the by-laws made act done thereunder, the authority may, irrespective of pursuant to a lawful whether any proceedings have been instituted direction. against or any punishment imposed on such person for the refusal or neglect, do or cause to be done all such acts as are in its opinion reasonable or necessary for the purpose of carrying out such direction.
+<!-- marginal: Seksyen -->
+
+23. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru 37A. -->
+
+seksyen 37 seksyen baru 37A yang berikut:
+
+<!-- marginal: "Authority -->
+
+37A. (1) When any person without lawful excuse
+
+<!-- marginal: to recover -->
+
+refuses or neglects to obey any direction lawfully
+
+<!-- marginal: expenses -->
+
+<!-- marginal: incurred for -->
+
+given under this Act or the by-laws made
+
+<!-- marginal: act done -->
+
+thereunder, the authority may, irrespective of
+
+<!-- marginal: pursuant to -->
+
+<!-- marginal: a lawful -->
+
+whether any proceedings have been instituted
+
+<!-- marginal: direction. -->
+
+against or any punishment imposed on such person for the refusal or neglect, do or cause to be done all such acts as are in its opinion reasonable or necessary for the purpose of carrying out such direction.
 
 (2) The powers conferred by subsection (1) include the power to hire and employ such persons as are necessary and proper for making good whatever loss or damage that has been caused by any refusal or neglect of the person to whom the direction has been given.
 
 (3) Any expenses incurred in the exercise of the powers conferred under subsection (1) or (2) shall be recoverable from the person to whom the direction had been given as a civil debt.".
 
-Pindaan 24. Seksyen 38 Akta ibu adalah dipinda dengan meng- seksyen 38. gantikan perkataan-perkataan "five hundred dollars" dengan perkataan-perkataan "one thousand ringgit".
+<!-- marginal: Pindaan -->
+
+24. Seksyen 38 Akta ibu adalah dipinda dengan meng-
+
+<!-- marginal: seksyen 38. -->
+
+gantikan perkataan-perkataan "five hundred dollars" dengan perkataan-perkataan "one thousand ringgit".
 
 <!-- page 9 -->
 
@@ -292,7 +442,29 @@ Pindaan 24. Seksyen 38 Akta ibu adalah dipinda dengan meng- seksyen 38. gantikan
 
 seksyen 39 seksyen baru 39A yang berikut:
 
-"Offence 39A. Where an offence under this Act or under any committed of the regulations or by-laws made thereunder is by a body corporate: committed by a body corporate (whether or not officers the body corporate has been prosecuted), every deemed to be guilty. director, secretary or manager of the body corpo- rate shall be deemed to be guilty of the offence unless he proves that the offence was committed without his consent or connivance and that he exercised all due diligence to prevent the commis- sion of the offence as be ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances of the case.".
+<!-- marginal: "Offence -->
+
+39A. Where an offence under this Act or under any
+
+<!-- marginal: committed -->
+
+of the regulations or by-laws made thereunder is
+
+<!-- marginal: by a body -->
+
+<!-- marginal: corporate: -->
+
+committed by a body corporate (whether or not
+
+<!-- marginal: officers -->
+
+the body corporate has been prosecuted), every
+
+<!-- marginal: deemed to -->
+
+<!-- marginal: be guilty. -->
+
+director, secretary or manager of the body corpo- rate shall be deemed to be guilty of the offence unless he proves that the offence was committed without his consent or connivance and that he exercised all due diligence to prevent the commis- sion of the offence as be ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances of the case.".
 
 <!-- marginal: Seksyen -->
 
@@ -302,33 +474,85 @@ seksyen 39 seksyen baru 39A yang berikut:
 
 seksyen 4lA seksyen baru 41B yang berikut:
 
-"Powers of 4lB. (1) In the event of fire breaking out on board General any vessel in the port, the General Manager or any Manager or authorised person authorised by him may proceed to board person to the vessel with such persons and assistance as order scuttling may seem fit to him and may give such orders or removal to the master of the vessel as are necessary for of vessel in case of fire. scuttling the vessel or for removing that vessel or any other vessel, and he may take such other measures as are necessary and proper for the protection of life or property.
+<!-- marginal: "Powers of -->
 
-(2) If the orders given pursuant to subsection (1) are not carried out forthwith by the master of the vessel, the General Manager or the person authorised by him may himself proceed to carry the orders into effect.
+4lB. (1) In the event of fire breaking out on board
+
+<!-- marginal: General -->
+
+any vessel in the port, the General Manager or any
+
+<!-- marginal: Manager or -->
+
+<!-- marginal: authorised -->
+
+person authorised by him may proceed to board
+
+<!-- marginal: person to -->
+
+the vessel with such persons and assistance as
+
+<!-- marginal: order -->
+
+<!-- marginal: scuttling -->
+
+may seem fit to him and may give such orders
+
+<!-- marginal: or removal -->
+
+to the master of the vessel as are necessary for
+
+<!-- marginal: of vessel in -->
+
+<!-- marginal: case of fire. -->
+
+scuttling the vessel or for removing that vessel or any other vessel, and he may take such other measures as are necessary and proper for the protection of life or property.
+
+(2) If the orders given pursuant to subsection
+
+(1) are not carried out forthwith by the master of the vessel, the General Manager or the person authorised by him may himself proceed to carry the orders into effect.
 
 (3) Any expenses incurred in the exercise of the powers conferred by subsections (1) and (2) shall be recoverable from the master or the owner of the vessel concerned as a civil debt.".
 
 <!-- page 10 -->
 
-27. Akta ibu adalah dipinda dengan memasukkan selepas baru 46A. seksyeri 46 seksyen baru 46A yang berikut:
+<!-- marginal: Seksyen -->
+
+27. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru 46A. -->
+
+seksyeri 46 seksyen baru 46A yang berikut:
 
 "Power to 46A. (1) The Minister may by order to be published compound in the Gazette prescribe any offence against the offence. provisions of this Act or of any regulations or by- laws made thereunder as an offence which may be compounded by the authority.
 
-(2) The General Manager may in his discretion compound such offence prescribed under sub- (1) by accepting from
-
-<!-- marginal: the person -->
-
-reasonably suspected of having committed any such offence a sum of money not exceeding five hundred ringgit.
+(2) The General Manager may in his discretion compound such offence prescribed under sub- (1) by accepting from the person reasonably suspected of having committed any such offence a sum of money not exceeding five hundred ringgit.
 
 (3) The Minister may by the same order made under subsection (1) prescribe the method and procedure for compounding any offence against the provisions of this Act or of any regulations or by-laws made thereunder.".
 
-Pindaan 28. Seksyen 59 Akta ibu adalah dipinda dengan memasuk- seksyen 59. kan selepas takrif perkataan "land" takrif baru yang berikut:
+<!-- marginal: Pindaan -->
 
-' "licensed operator" means a licensed operator Act 422. licensed under Part III of the Ports (Privatisation) Act 1990;'.
+28. Seksyen 59 Akta ibu adalah dipinda dengan memasuk-
+
+<!-- marginal: seksyen 59. -->
+
+kan selepas takrif perkataan "land" takrif baru yang berikut:
+
+' "licensed operator" means a licensed operator
+
+<!-- marginal: Act 422. -->
+
+licensed under Part III of the Ports (Privatisation) Act 1990;'.
 
 ## HURAIAN
 
-Rang Undang-Undang ini bertujuan meminda Akta Lembaga Pelabuhan 1963. 1. Fasal 1 membolehkan Menteri menetapkan tarikh mula berkuatkuasanya Rang Undang-Undang ini. 2. Fasal 2 bertujuan meminda subseksyen (2) seksyen 3 dengan memotong perenggan (U) yang memberi lembaga kuasa untuk meminjam wang. 3. Fasal 3 bertujuan memperkenalkan seksyen baru 3B untuk membuat peruntukan bagi fungsi tambahan lembaga, dengan kelulusan Menteri, untuk memikul tanggungjawab menjalankan apa-apa aktiviti yang berhubungan dengan pelabuhan. Pada menjalankan fungsi sedemikian lembaga boleh membelanjakan apa-apa wang sebagaimana yang diperlukan.
+Rang Undang-Undang ini bertujuan meminda Akta Lembaga Pelabuhan 1963.
+
+1. Fasal 1 membolehkan Menteri menetapkan tarikh mula berkuatkuasanya Rang Undang-Undang ini.
+
+2. Fasal 2 bertujuan meminda subseksyen (2) seksyen 3 dengan memotong perenggan (U) yang memberi lembaga kuasa untuk meminjam wang.
+
+3. Fasal 3 bertujuan memperkenalkan seksyen baru 3B untuk membuat peruntukan bagi fungsi tambahan lembaga, dengan kelulusan Menteri, untuk memikul tanggungjawab menjalankan apa-apa aktiviti yang berhubungan dengan pelabuhan. Pada menjalankan fungsi sedemikian lembaga boleh membelanjakan apa-apa wang sebagaimana yang diperlukan.
 
 <!-- page 11 -->
 
@@ -350,7 +574,17 @@ Rang Undang-Undang ini bertujuan meminda Akta Lembaga Pelabuhan 1963. 1. Fasal 1
 
 <!-- page 13 -->
 
-22. Fasal 23 bertujuan memperkenalkan seksyen baru 37A. la membolehkan lembaga mendapat balik semua perbelanjaan yang telah dilakukan untuk mengganti apa-apa kehilangan atau kerosakan yang diakibatkan oleh mana-mana orang yang tidak mematuhi apa-apa arahan yang diberi menurut undang-undang di bawah Akta ini. Perbelanjaan- perbelanjaan itu hendaklah didapatkan balik sebagai suatu hutang sivil. 23. Fasal 24 berlujuan meminda seksyen 38 bagi menambah denda daripada jumlah yang tidak melebihi lima ratus dolar kepada jumlah yang tidak melebihi satu ribu ringgit. 24. Fasal 25 bertujuan memperkenalkan seksyen baru 39A untuk membuat peruntukan bagi kesalahan-kesalahan yang dilakukan oleh per- tubuhan perbadanan termasuk pengarah, setiausaha atau pengurusnya. 25. Fasal 26 bertujuan memperkenalkan seksyen baru 41B bagi member! kuasa kepada Pengurus Besar atau mana-mana orang yang diberikuasa olehnya untuk memerintahkan supaya vesel dialih semasa berlaku suatu kebakaran. 26. Fasal 27 bertujuan memperkenalkan seksyen baru 46A bagi memboiehkan Pengurus Besar lembaga mengkompaun apa-apa ke- salahan terhadap peruntukan-peruntukan Akta atau terhadap apa-apa peraturan atau undang-undang kecil yang dibuat di bawah Akta. Kesalahan yang boleh dikompaun, cara dan prosedur untuk meng- kompaun kesalahan berkenaan hendaklah ditentukan oleh Menteri melalui perintah yang disiarkan dalam Warta. 27. Fasal 28 bertujuan meminda seksyen 59 Akta dan memperkenal- kan satu takrif baru mengenai penggendali berlesen.
+22. Fasal 23 bertujuan memperkenalkan seksyen baru 37A. la membolehkan lembaga mendapat balik semua perbelanjaan yang telah dilakukan untuk mengganti apa-apa kehilangan atau kerosakan yang diakibatkan oleh mana-mana orang yang tidak mematuhi apa-apa arahan yang diberi menurut undang-undang di bawah Akta ini. Perbelanjaan- perbelanjaan itu hendaklah didapatkan balik sebagai suatu hutang sivil.
+
+23. Fasal 24 berlujuan meminda seksyen 38 bagi menambah denda daripada jumlah yang tidak melebihi lima ratus dolar kepada jumlah yang tidak melebihi satu ribu ringgit.
+
+24. Fasal 25 bertujuan memperkenalkan seksyen baru 39A untuk membuat peruntukan bagi kesalahan-kesalahan yang dilakukan oleh per- tubuhan perbadanan termasuk pengarah, setiausaha atau pengurusnya.
+
+25. Fasal 26 bertujuan memperkenalkan seksyen baru 41B bagi member! kuasa kepada Pengurus Besar atau mana-mana orang yang diberikuasa olehnya untuk memerintahkan supaya vesel dialih semasa berlaku suatu kebakaran.
+
+26. Fasal 27 bertujuan memperkenalkan seksyen baru 46A bagi memboiehkan Pengurus Besar lembaga mengkompaun apa-apa ke- salahan terhadap peruntukan-peruntukan Akta atau terhadap apa-apa peraturan atau undang-undang kecil yang dibuat di bawah Akta. Kesalahan yang boleh dikompaun, cara dan prosedur untuk meng- kompaun kesalahan berkenaan hendaklah ditentukan oleh Menteri melalui perintah yang disiarkan dalam Warta.
+
+27. Fasal 28 bertujuan meminda seksyen 59 Akta dan memperkenal- kan satu takrif baru mengenai penggendali berlesen.
 
 ## IMPLIKASI KEWANGAN
 

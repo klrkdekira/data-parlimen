@@ -6,7 +6,25 @@ Luar Negara
 
 RANG UNDANG-UNDANG lANGkAh-lANGkAh khAs meNeNtANG keGANAsAN Di lUAR NeGARA 2015
 
-sUsUNAN FAsAl 1. tajuk ringkas dan permulaan kuat kuasa 2. tafsiran 3. Pemakaian luar wilayah 4. Perbuatan keganasan di luar negara 5. Penggantungan atau pembatalan dokumen perjalanan malaysia 6. Permintaan bagi penyerahan dokumen perjalanan asing 7. tuntutan bagi penyerahan dokumen perjalanan asing 8. Pemulaan pendakwaan 9. ketidakpakaian Akta kehadiran Wajib Pesalah-Pesalah 1954 dan seksyen 173a, 293 dan 294 kanun tatacara Jenayah
+sUsUNAN FAsAl
+
+1. tajuk ringkas dan permulaan kuat kuasa
+
+2. tafsiran
+
+3. Pemakaian luar wilayah
+
+4. Perbuatan keganasan di luar negara
+
+5. Penggantungan atau pembatalan dokumen perjalanan malaysia
+
+6. Permintaan bagi penyerahan dokumen perjalanan asing
+
+7. tuntutan bagi penyerahan dokumen perjalanan asing
+
+8. Pemulaan pendakwaan
+
+9. ketidakpakaian Akta kehadiran Wajib Pesalah-Pesalah 1954 dan seksyen 173a, 293 dan 294 kanun tatacara Jenayah
 
 10. Peraturan-peraturan
 

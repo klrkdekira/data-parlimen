@@ -46,85 +46,211 @@ Maksud Tajuk Amaun
 
 (RM)
 
-6,370,000 Parlimen B. 1
+6,370,000 Parlimen
 
-B. 4 30,428,000 Suruhanjaya Pilihan Raya
+<!-- marginal: B. -->
 
-B. 5 4,297,000 Suruhanjaya Perkhidmatan Awam
+1
 
-299,102,000 B. 6 Jabatan Perdana Menteri
+<!-- marginal: B. -->
 
-5,272,000 B. 8 Jabatan Peguam Negara
+4 30,428,000 Suruhanjaya Pilihan Raya
 
-6,634,000 B. 9 Badan Pencegah Rasuah
+<!-- marginal: B. -->
+
+5 4,297,000 Suruhanjaya Perkhidmatan Awam
+
+299,102,000
+
+<!-- marginal: B. -->
+
+6 Jabatan Perdana Menteri
+
+5,272,000
+
+<!-- marginal: B. -->
+
+8 Jabatan Peguam Negara
+
+6,634,000
+
+<!-- marginal: B. -->
+
+9 Badan Pencegah Rasuah
 
 <!-- marginal: 10 -->
 
-B. 11 Perkhidmatan Am Perbendaharaan
+<!-- marginal: B. -->
 
-828,000,000 B. 12 Peruntukan Kepada Kumpulan Wang Terkanun
+11 Perkhidmatan Am Perbendaharaan
 
-5,521,000 B. 13 Kementerian Luar Negeri
+828,000,000
 
-8,051,000 Kementerian Perusahaan Perladangan dan Komoditi B. 20
+<!-- marginal: B. -->
 
-252,447,000 Kementerian Pertanian dan Industri Asas Tani B. 21
+12 Peruntukan Kepada Kumpulan Wang Terkanun
 
-112,000,000 Kementerian Kemajuan Luar Bandar dan Wilayah B. 22
+5,521,000
 
-55,961,000 Kementerian Sumber Asli dan Alam Sekilar B. 23
+<!-- marginal: B. -->
 
-53,999,500 Kementerian Perdagangan Antarabangsa dan Industri B. 24
+13 Kementerian Luar Negeri
 
-6,000,000 Kementerian Perdagangan Dalam Negeri dan Hal B. 25
+8,051,000 Kementerian Perusahaan Perladangan dan Komoditi
+
+<!-- marginal: B. -->
+
+20
+
+252,447,000 Kementerian Pertanian dan Industri Asas Tani
+
+<!-- marginal: B. -->
+
+21
+
+112,000,000 Kementerian Kemajuan Luar Bandar dan Wilayah
+
+<!-- marginal: B. -->
+
+22
+
+55,961,000 Kementerian Sumber Asli dan Alam Sekilar
+
+<!-- marginal: B. -->
+
+23
+
+53,999,500 Kementerian Perdagangan Antarabangsa dan Industri
+
+<!-- marginal: B. -->
+
+24
+
+6,000,000 Kementerian Perdagangan Dalam Negeri dan Hal
+
+<!-- marginal: B. -->
+
+25
 
 Ehwal Pengguna
 
-B. 26 52,438,000 Kementerian Pembangunan Usahawan dan Koperasi
+<!-- marginal: B. -->
 
-23 6,500,000 Kementerian Kerja Raya B. 27
+26 52,438,000 Kementerian Pembangunan Usahawan dan Koperasi
 
-42,826,000 Kementerian Pengangkutan B. 28
+23 6,500,000 Kementerian Kerja Raya
 
-164,000,000 Kementerian Tenaga. Air dan Komunikasi B. 29
+<!-- marginal: B. -->
 
-10,570,000 Kementerian Sains, Teknologi dan Inovasi B. 30
+27
 
-4,026,000 Kementerian Pelancongan B. 31
+42,826,000 Kementerian Pengangkutan
 
-42,527,000 Kementerian Wilayah Persekutuan B. 32
+<!-- marginal: B. -->
 
-1,533,000 Suruhanjaya Perkhidmatan Pelajaran B. 40
+28
 
-3,680,600,000 Kementerian Pelajaran B. 41
+164,000,000 Kementerian Tenaga. Air dan Komunikasi
 
-1,231, 626,000 Kementerian Kesihatan B. 42
+<!-- marginal: B. -->
 
-90,927,000 Kementerian Perumahan dan Kerajaan Tempatan B. 43
+29
 
-73,905,000 Kementerian Kebudayaan, Kesenian dan Warisan B. 44
+10,570,000 Kementerian Sains, Teknologi dan Inovasi
 
-38,833,000 Kemenlerian Belia dan Sukan B. 45
+<!-- marginal: B. -->
 
-68,005,000 Kementerian Sumber Manusia B. 46
+30
 
-95,785,000 Kementerian Penerangan B. 47
+4,026,000 Kementerian Pelancongan
 
-69,484,000 Kementerian Pembangunan Wanita. Keluarga dan B. 48
+<!-- marginal: B. -->
+
+31
+
+42,527,000 Kementerian Wilayah Persekutuan
+
+<!-- marginal: B. -->
+
+32
+
+1,533,000 Suruhanjaya Perkhidmatan Pelajaran
+
+<!-- marginal: B. -->
+
+40
+
+3,680,600,000 Kementerian Pelajaran
+
+<!-- marginal: B. -->
+
+41
+
+1,231, 626,000 Kementerian Kesihatan
+
+<!-- marginal: B. -->
+
+42
+
+90,927,000 Kementerian Perumahan dan Kerajaan Tempatan
+
+<!-- marginal: B. -->
+
+43
+
+73,905,000 Kementerian Kebudayaan, Kesenian dan Warisan
+
+<!-- marginal: B. -->
+
+44
+
+38,833,000 Kemenlerian Belia dan Sukan
+
+<!-- marginal: B. -->
+
+45
+
+68,005,000 Kementerian Sumber Manusia
+
+<!-- marginal: B. -->
+
+46
+
+95,785,000 Kementerian Penerangan
+
+<!-- marginal: B. -->
+
+47
+
+69,484,000 Kementerian Pembangunan Wanita. Keluarga dan
+
+<!-- marginal: B. -->
+
+48
 
 Masyarakat
 
-B. 49 994,260,000 Kementerian Pengajian Tinggi
+<!-- marginal: B. -->
 
-760,472,000 Kementerian Pertahanan B. 60
+49 994,260,000 Kementerian Pengajian Tinggi
+
+760,472,000 Kementerian Pertahanan
+
+<!-- marginal: B. -->
+
+60
 
 16,861,000 Kementerian Hal Ehwal Dalam Negeri
 
-B. 61
+<!-- marginal: B. -->
+
+61
 
 437,483,000 Kementerian Keselamatan Dalam Negeri
 
-B. 62
+<!-- marginal: B. -->
+
+62
 
 9,786,743,510
 
@@ -146,4 +272,4 @@ lima ratus sepuiuh ringgit (RM9,786,743,510) untuk perkhidmatan dan maksud
 
 yang dinyatakan dalam Jadual bagi tahun 2007.
 
-[PN(U2)2206]
+<!-- marginal: [PN(U2)2206] -->

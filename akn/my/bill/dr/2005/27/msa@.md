@@ -18,7 +18,29 @@
 
 ## PINDAAN KEPADA AKTA CUKAI PENDAPATAN 1967
 
-3. Permulaan kuat kuasa pindaan kepada Akta Cukai Pendapatan 1967 4. Pindaan seksyen 19 5. Pindaan seksyen 25 6. Pindaan seksyen 32 7. Pindaan seksyen 39 8. Pindaan seksyen 43 9. Pindaan seksyen 44 10. Peruntiikan khas yang berhubungan dengan seksyen 44 11. Seksyen baru 44A 12. Pindaan seksyen 45A 13. Pindaan seksyen 46 14. Pindaan seksyen 48 15. Pindaan seksyen 60 16. Pindaan seksyen 60F 17. Seksyen baru 60FA 18. Peruntukan khas yang berhubungan dengan seksyen 60FA 19. Pindaan seksyen 75A 20. Pindaan seksyen 91
+3. Permulaan kuat kuasa pindaan kepada Akta Cukai Pendapatan 1967 4. Pindaan seksyen 19 5. Pindaan seksyen 25 6. Pindaan seksyen 32 7. Pindaan seksyen 39 8. Pindaan seksyen 43 9. Pindaan seksyen 44
+
+10. Peruntiikan khas yang berhubungan dengan seksyen 44
+
+11. Seksyen baru 44A
+
+12. Pindaan seksyen 45A
+
+13. Pindaan seksyen 46
+
+14. Pindaan seksyen 48
+
+15. Pindaan seksyen 60
+
+16. Pindaan seksyen 60F
+
+17. Seksyen baru 60FA
+
+18. Peruntukan khas yang berhubungan dengan seksyen 60FA
+
+19. Pindaan seksyen 75A
+
+20. Pindaan seksyen 91
 
 <!-- page 2 -->
 
@@ -90,13 +112,39 @@
 
 ## PINDAAN KEPADA AKTA SETEM 1949
 
-50. Permulaan kuat kuasa pindaan kepada Akta Setem 1949 51. Pindaan seksyen 21 52. Pindaan seksyen 43 53. Pindaan seksyen 80 54. Seksyen baru 80A 55. Pindaan kepada Jadual Pertama 56. Pindaan kepada Jadual Kelima
+50. Permulaan kuat kuasa pindaan kepada Akta Setem 1949
+
+51. Pindaan seksyen 21
+
+52. Pindaan seksyen 43
+
+53. Pindaan seksyen 80
+
+54. Seksyen baru 80A
+
+55. Pindaan kepada Jadual Pertama
+
+56. Pindaan kepada Jadual Kelima
 
 ## BAB V
 
 ## PINDAAN KEPADA AKTA PETROLEUM (CUKAI PENDAPATAN) 1967
 
-57. Permulaan kuat kuasa pindaan kepada Akta Petrolem (Cukai Pendapatan) 1967 58. Pindaan seksyen 2 59. Pindaan seksyen 39 60. Seksyen baru 50A 61. Pindaan seksyen 69 62. Pindaan seksyen 77 63. Pindaan seksyen 78 64. Pindaan seksyen 81
+57. Permulaan kuat kuasa pindaan kepada Akta Petrolem (Cukai Pendapatan) 1967
+
+58. Pindaan seksyen 2
+
+59. Pindaan seksyen 39
+
+60. Seksyen baru 50A
+
+61. Pindaan seksyen 69
+
+62. Pindaan seksyen 77
+
+63. Pindaan seksyen 78
+
+64. Pindaan seksyen 81
 
 ## BAB VI
 
@@ -140,9 +188,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (2) Seksyen 23 dan 30 mula berkuat kuasa pada 1 Januah 2006.
 
-(3) Seksyen 25 disifatkan telah mula berkuat kuasa pada 1 Oktober
-
-2005.
+(3) Seksyen 25 disifatkan telah mula berkuat kuasa pada 1 Oktober 2005.
 
 ### Pindaan seksyen 19
 
@@ -242,7 +288,9 @@ shareholders of that company on the first day of the basis period for the year o
 
 (b) a fixed rate per cent of the profits of the company.
 
-(5D) Where there is a substantial change in the shareholders of a company referred to in subsection (5A), the Minister may under special circumstances exempt that company from the provisions of that subsection."; dan
+(5D) Where there is a substantial change in the shareholders of a company referred to in subsection
+
+(5A), the Minister may under special circumstances exempt that company from the provisions of that subsection."; dan
 
 (c) dalam subseksyen (8), dengan menggantikan perkataan "and in respect of contributions to public libraries" dengan perkataan " , to public libraries".
 
@@ -530,7 +578,9 @@ the Director General may in the first mentioned year of assessment or within six
 
 ### Pindaan seksyen 107c
 
-22. Seksyen 107c Akta ibu dipinda dengan menggantikan subseksyen (3) dengan subseksyen yang berikut:
+22. Seksyen 107c Akta ibu dipinda dengan menggantikan subseksyen
+
+(3) dengan subseksyen yang berikut:
 
 "(3) The estimate of tax payable for a year of assessment shall not be less than eighty-five per cent of the revised estimate of tax payable for the immediately preceding year of assessment or if no revised estimate is furnished, shall not be less than eighty-five per cent of the estimate of tax payable for the immediately preceding year of assessment.".
 
@@ -888,7 +938,11 @@ Ketua Pengarah boleh, dalam tahun taksiran yang mula-mula disebut itu atau dalam
 
 55. Jadual Pertama Akta ibu dipinda dalam butiran 22 dengan memasukkan selepas subbutiran (5) subbutiran yang berikut:
 
-"(6) Being the security for securing the payment RM 10.00". or repayment of money for the purchase of goods (within the meaning given under the First Schedule of the Hire Purchase Act 1967) in accordance with the Syariah principle of Al Bai Bithaman Ajil.
+"(6) Being the security for securing the payment
+
+<!-- marginal: RM 10.00". -->
+
+or repayment of money for the purchase of goods (within the meaning given under the First Schedule of the Hire Purchase Act 1967) in accordance with the Syariah principle of Al Bai Bithaman Ajil.
 
 ### Pindaan Jadual Kelima
 

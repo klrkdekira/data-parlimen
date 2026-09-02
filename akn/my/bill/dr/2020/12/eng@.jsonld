@@ -1,0 +1,2556 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-12-2020",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Independent Police Conduct Commission Bill 2020"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY Short title and commencement"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_13"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ESTABLISHMENT, FUNCTIONS AND POWERS OF COMMISSION Establishment of Commission"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_21"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ADMINISTRATION Secretary"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_14__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_14__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission shall have a Secretary who shall be the chief executive officer of the Commission."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Secretary shall be appointed by the Minister who shall be an officer of the Commission."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_14__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Secretary shall be appointed on such terms and shall have such functions as the Commission may determine. Temporary exercise of functions of Secretary"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_15__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_15__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission may, with the consent of the Minister, appoint any officer of the Commission to act temporarily as the Secretary during any period when—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the office of the Secretary is vacant;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Secretary is absent from duty or from Malaysia; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_15__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Secretary is, for any other reason, unable to perform the duties of his office. Officers and staff of Commission"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_16__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_16__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_16__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_16__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_16__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission shall appoint such number of officers and staff of the Commission as may be necessary be to assist the Commission in discharging its functions and exercising its powers effectively and efficiently and for the purpose of carrying into effect the provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_16__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission may appoint any officers from any government agency on secondment basis to be its investigators."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_16__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission may appoint such number of legal officers as may be necessary who shall be seconded from amongst officers of the Judicial and Legal Service to assist the Commission."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_16__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An officer of the Commission having, directly or indirectly, by himself, a member of his family or his associate, any interest or connection to a member of the police force under investigation by the Commission shall disclose his interest or connection forthwith to the Chairman and shall not be involved in any investigation conducted by the Commission as regards that member of the police force. Consultants"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_17__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_17__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission may engage any person from amongst public servants and public servants retirees, on such terms as the Commission may impose, as consultants or to perform such services as the Commission thinks appropriate."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person engaged under subsection (1) having directly or indirectly, by himself, a member of his family or his associate, any interest or connection to a member of the police force under investigation by the Commission shall disclose his interest or connection forthwith to the Chairman and shall not be involved in any investigation conducted by the Commission as regards that member of the police force. Committees"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_18__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_18__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_18__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_18__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_18__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission may establish such committees to assist the Commission in the performance of its functions under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission may appoint any of its members to be the chairman of a committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_18__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission may appoint any member or officer of the Commission to be a member of any committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_18__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A committee shall be subject to and act in accordance with the direction given to the committee by the Commission."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_18__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission may at any time discontinue or alter the constitution of a committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_18__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of a committee shall be paid such allowances as the Minister may determine. Authority card"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_19__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_19__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of this Act, an authority card shall be issued to a member and an officer of the Commission."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The authority card shall be signed by the Chairman of the Commission and such card shall be prima facie evidence of the appointment under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_19__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member or an officer of the Commission acting under this Act shall, on demand, declare his office and produce the authority card issued to him to the person against whom he is acting or from whom he seeks any information. Use of officers, staff or facilities of government department, etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_20__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_20__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_20__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_20__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_20__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission may request and arrange for the use of the services of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_20__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_20__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any staff or facilities of a government department or a local or statutory authority; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_20__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_20__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any government officer including a member of the police force, to cooperate with, or assist in the exercise of its duties, or to assist the Commission in the performance of its functions under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_20__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "It shall be the duty of the government departments or local or statutory authority or government officer referred to in subsection (1) to comply with a request under this section. Consultation with other agencies"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission may consult with and disseminate information to other enforcement agencies, any Federal or State government department or any person or body as the Commission thinks appropriate."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_10__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_10__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_10__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_10__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_10__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_10__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission shall meet at least twice a month or as often as may be necessary for the performance of its functions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chairman shall preside at all meetings of the Commission."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_10__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The quorum of a meeting of the Commission shall be three."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_10__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every member of the Commission present shall be entitled to one vote and if on a question to be determined by the Commission there is an equality of votes, the Chairman shall have a casting vote."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_10__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission shall cause minutes of all its meetings to be maintained and kept in a proper form."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_10__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission may invite any person or any representative from the police force appointed by the Inspector General of Police to attend its meeting for the purpose of advising the Commission on any matter under discussion but that person shall not be entitled to vote at the meeting or be present during the making of a decision."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_10__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission shall regulate its own proceedings. Temporary exercise of functions of Chairman"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection 10(2), where the Chairman is unable to perform his functions for any reason, or during any period of vacancy in the office of the Chairman, the Deputy Chairman or, if he is unavailable, any member of the Commission appointed by the other members of the Commission shall perform the functions of the Chairman. Disclosure of interest"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_12__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Commission having, directly or indirectly, by himself, a member of his family or his associate, any interest in any matter under discussion by the Commission or in any discussion on a misconduct before the Commission shall disclose to the Commission the fact and nature of his interest."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The disclosure of interest of a member of the Commission referred to in subsection (1) shall be recorded in the minutes or notes of the discussion on the misconduct and the member of the Commission shall recuse himself from taking part in such discussion or in the making of any decision by the Commission relating to the misconduct. Delegation of functions and powers of Commission"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_13__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_13__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_13__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_13__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_13__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_13__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_13__subsec_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission may delegate its functions and powers to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_13__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any member of the Commission;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_13__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any officer of the Commission;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_13__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any committee; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_13__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any member of the police force."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The member of the Commission, officer of the Commission, committee or member of the police force delegated with such functions and powers under subsection (1) shall be bound to observe and have regard to all conditions and restrictions imposed by the Commission and all requirements, procedures and matters specified by the Commission relating to such delegation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_13__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any function and power delegated under this section shall be performed and exercised in the name and on behalf of the Commission."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_13__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A delegation under this section shall not preclude the Commission itself from performing or exercising at any time any of the delegated functions and powers."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_3__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_3__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Independent Police Conduct Commission is established."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission shall be a body corporate and shall have perpetual succession and a common seal."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission may sue and be sued in its name."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_3__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_3__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_3__subsec_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_3__subsec_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission may, upon such terms as the Commission thinks fit and for the purposes of this Act—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_3__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_3__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "enter into contracts;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_3__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_3__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "acquire, purchase, take, hold and enjoy movable and immovable property of every description; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_3__subsec_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_3__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "convey, assign, surrender, yield up, charge, mortgage, demise, reassign, transfer or otherwise dispose of, or deal with, any movable or immovable property or any interest in the property vested in the Commission. Functions of Commission"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_4__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_4__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The functions of the Commission shall be as follows:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to promote integrity within the members of the police force;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to advise the Government and make recommendations on appropriate measures to be taken in the promotion of integrity within the members of the police force;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to protect the interest of the public by dealing with misconduct of any member of the police force; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_4__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to formulate and put in place mechanism for receiving complaints and investigation of misconduct of any member of the police force. Powers of Commission"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_5__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission shall have the power and may do all things necessary for or in connection with, or incidental to, the performance of its functions under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_5__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_5__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_5__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_5__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_5__subsec_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to the generality of subsection (1), the Commission may—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_5__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "advise the Government on the enhancement of the well-being and welfare of members of the police force;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_5__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "visit any place and premises such as police stations, police quarters, lock-ups and detention centres by giving early notice to the relevant Head of Department and to make any necessary recommendations;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_5__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "receive and assess any written complaint of misconduct from any person against any member of the police force and investigate the complaint;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_5__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "collect evidence relating to any written complaint and investigation of misconduct under this Act; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_5__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "make a recommendation for disciplinary action against any misconduct committed by any member of the police force to the Police Force Commission. Members of Commission"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_6__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Yang di-Pertuan Agong shall, on the advice of the Prime Minister, appoint not more than seven members of the Commission, one of whom shall be appointed as the Chairman and another as the Deputy Chairman."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The members of the Commission shall be subject to such terms as may be specified in the instrument of appointment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The members of the Commission shall have knowledge, skill and experience, or shown capacity and professionalism, in matters relating to law, administration, investigation, finance or any other matter relevant to the functions of the Commission. Term of office"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_7__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_7__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to subsection (2), a member of the Commission shall hold office for a term not exceeding three years as may be specified in his instrument of appointment and he shall be eligible for reappointment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Commission may at any time resign his office by letter addressed to the Yang di-Pertuan Agong."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_7__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The appointment of a member of the Commission may at any time be revoked by the Yang di-Pertuan Agong on the advice of the Prime Minister. Remuneration"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Commission shall be paid such remuneration and allowances as the Prime Minister may determine. Vacation of office"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_9__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_9__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_9__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_9__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_9__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_9__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_9__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_9__para_i"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The office of a member of the Commission shall be vacated if—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he dies;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_9__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_9__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_9__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "there has been proved against him, or he has been convicted on, a charge in respect of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_9__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_9__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an offence involving fraud, dishonesty or moral turpitude;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_9__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_9__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an offence under any law relating to corruption; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_9__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_9__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other offence punishable with imprisonment or fine of not more than two thousand ringgit;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_9__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he becomes a bankrupt;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_9__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he is of unsound mind or is otherwise incapable of discharging his duties;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_9__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he absents himself from three consecutive meetings of the Commission without leave of the Chairman;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_9__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he is elected or appointed as a member of a House of Parliament or the State Legislature of any State;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_9__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "his resignation has been accepted by the Yang di-Pertuan Agong;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_9__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "his appointment has been revoked by the Yang di-Pertuan Agong; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_9__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "his term of appointment has expired. Meetings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_26"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "COMPLAINT OF MISCONDUCT Scope of misconduct"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_22__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_22__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_22__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_22__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_22__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_22__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any conduct falling under any of the following descriptions shall amount to a misconduct:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_22__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_22__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any act or inaction which is contrary to any written law;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_22__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_22__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any act or inaction which is unreasonable, unjust, oppressive or improperly discriminatory; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_22__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_22__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any act or inaction which is committed on improper motives, irrelevant grounds or irrelevant consideration."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_22__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (1), misconduct shall not include any act regulated under sections 96 and 97 of the Police Act 1967. Complaints Committee"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission shall establish a Complaints Committee which shall consist of such number of officers of the Commission. Complaint against member of police force"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_24__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_24__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_24__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_24__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any complaint made by any person against a member of the police force shall be made in writing and be addressed to the Complaints Committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_24__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_24__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_24__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_24__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_24__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_24__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_24__subsec_2__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A complaint in writing shall include the following:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_24__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_24__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "particulars of the complainant;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_24__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_24__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "particulars of the member of the police force, if identifiable, whose action or inaction is the basis of the complaint, or if not identifiable, a description or any other particulars that are sufficient to enable him to be identified;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_24__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_24__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "particulars of the misconduct complained of, including the date of and place where the misconduct occurred;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_24__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_24__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "particulars of the person affected by the act or inaction of the member of the police force, if that person is not the complainant;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_24__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_24__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "particulars of any other person who was present during or involved in the act or inaction complained of, if any; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_24__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_24__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other details, including photographs and documents, that the complainant thinks appropriate or necessary to include in the complaint."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_24__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Complaints Committee shall deliberate on the complaint received and decide on the classification of such complaints as specified in section 25. Classification of complaints"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_25__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_25__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_25__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_25__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_25__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The classification of complaints shall be as follows:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_25__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where the complaint involves any offence under Part IV of the Malaysian Anti-Corruption Act 2009 [Act 694], the complaint shall be referred to the Malaysian Anti-Corruption Commission;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_25__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where the complaint involves any criminal offence under any other written law, the complaint shall be referred to the relevant authority;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_25__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where the complaint involves any misconduct mentioned in section 22, the complaint shall be referred to any officer of the Commission for investigation;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_25__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where the complaint involves any act regulated under sections 96 and 97 of the Police Act 1967, the complaint shall be referred to the Head of Department responsible for the member of the police force complained against; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_25__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_25__para_e__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_25__para_e__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_25__para_e__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_25__para_e__subpara_iv",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_25__para_e__subpara_v"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_25__para_e__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_25__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the complaint is frivolous, vexatious or not made in good faith or the subject matter of the complaint is trivial;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_25__para_e__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_25__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the misconduct complained of occurred at too remote a time to justify an investigation;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_25__para_e__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_25__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the subject matter of the complaint has been finally determined by any court or is the subject matter of any proceedings pending in any court, including any appeal proceedings;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_25__para_e__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_25__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the complaint is repetitious and contains no fresh allegation which would significantly affect the content of the complaint; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_25__para_e__subpara_v",
+      "@type": "akn:subparagraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_25__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the complaint has been withdrawn by the complainant, the Complaints Committee shall refer the complaint to the Commission and make a recommendation for the Commission to reject the complaint. Responsibility to refer incident involves sexual crime etc., against person in detention or custody"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The police force shall refer to the Commission any incident which involves sexual crime against, or any incident which has resulted in grievous hurt to or death of, any person in the detention or custody of a member of the police force as soon as practicable."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Independent Police Conduct Commission Act 2020."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Interpretation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_I__cl_2__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_I__cl_2__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "“member of the police force” means any member of the police force established under Article 132 of the Federal Constitution; “member of the Commission” means the Chairman, Deputy Chairman and other members of the Commission appointed under section 6; “public body” means—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_I__cl_2__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_I__cl_2__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_I__cl_2__list_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_I__cl_2__list_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_I__cl_2__list_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_I__cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_I__cl_2__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_I__cl_2__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Government of Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_I__cl_2__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_I__cl_2__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Government of a State;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_I__cl_2__list_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_I__cl_2__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any local authority and any other statutory authority; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_I__cl_2__list_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_I__cl_2__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any department or service of the Government of Malaysia, the Government of a State or a local authority; “committee” means any committee established under section 18; “Complaints Committee” means the Complaints Committee established under section 23; “Head of Department”—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_I__cl_2__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_I__cl_2__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_I__cl_2__list_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_I__cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_I__cl_2__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_I__cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in relation to the police force, means a member of the police force charged with the responsibility for control as provided in section 6 of the Police Act 1967 [Act 344]; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_I__cl_2__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_I__cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in relation to a public body, means an officer charged with the responsibility for a public body; “Minister” means the Minister charged with the responsibility for home affairs; “Task Force” means a Task Force established under section 31; “officer of the Commission” means any officer appointed by the Commission under section 16 and includes the Secretary appointed under section 14; “misconduct” means misconduct as specified in section 22; “Commission” means the Independent Police Conduct Commission established under section 3; “Police Force Commission” means the Police Force Commission established under Article 140 of the Federal Constitution."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_32"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "POWERS OF INVESTIGATION Power to examine persons"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VI__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VI__cl_34"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "OFFENCES Threats against person who gives evidence"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII",
+      "@type": "akn:part",
+      "eli:number": "VII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_44",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_45",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_46",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_47"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "MISCELLANEOUS Supply of information"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_35__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_35__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_35__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_35__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission may compile and supply to the police force or any relevant authority with such general information which the Commission considers should be brought to the attention of the police force or relevant authority relating to the functions of the Commission under section 4 and powers of the Commission under section 5 for the further action of the police force or relevant authority under any written law."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_35__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission may request from the police force or any relevant authority any other general information relating to the functions of the Commission under section 4 and powers of the Commission under section 5."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_35__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The police force or any relevant authority shall inform the Commission of such action taken arising from the supply of information by the Commission under subsection (1) within the time specified by the Commission. Protection from liability"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_36__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_36__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_36__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_36__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_36__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No action, suit, prosecution or proceeding shall be instituted in any court against the Commission, any member of the Commission, any officer of the Commission or any member of the Task Force in respect of any act or thing done or committed by or on behalf of the Commission, any member of the Commission, any officer of the Commission or any member of the Task Force in such capacity provided that the Commission, such member of the Commission, any officer of the Commission or any member of the Task Force had at the time had carried out its or his functions in good faith."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_36__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to this Act, a person summoned to attend or when appearing before the Commission as a witness, or producing a document or other thing to the Commission has the same protection as a witness in any proceedings in the Court."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_36__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No criminal or civil liability apart from this Act attaches to a person for compliance, or purported compliance in good faith, with any requirement made under this Act; in particular, if a person gives any record of examination or a written statement on oath or affirmation or produces any document or other thing under this Act, no civil liability attaches to the person for doing so, whether that liability would arise under a contract or otherwise."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_36__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No evidence, document or findings of the Commission under this Act shall be admissible in any civil or criminal proceedings whatsoever against the person who gave the evidence if the person objects to giving any record of examination or a written statement on oath or affirmation or produces any document or other thing. Allocation of annual funds"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Government shall make allocation of adequate funds annually for the purposes of the Commission to enable the Commission to discharge its functions and exercise its powers effectively under this Act. Statutory Bodies (Accounts and Annual Reports) Act 1980"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Statutory Bodies (Accounts and Annual Reports) Act 1980 [Act 240] shall apply to the Commission. Annual report"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_39__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_39__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_39__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission shall, not later than the second meeting of Parliament of the following year, submit to and table in Parliament an annual report of all its activities during the year to which the report relates."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_39__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The report shall contain a list of all matters referred to the Commission and the action taken in respect of the matters. Public Authorities Protection Act 1948"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Public Authorities Protection Act 1948 [Act 198] shall apply to any action, suit, prosecution or proceedings against the Commission, any member of the Commission, any officer of the Commission or any member of the Task Force in respect of any act or thing done or committed by it or him in such capacity. Public servant"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every member of the Commission, officer of the Commission and member of the Task Force while discharging his duties as such member or officer shall be deemed to be a public servant within the meaning of the Penal Code [Act 574]. Obligation of secrecy"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_42__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_42__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_42__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_42__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_42__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_42",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Except for the purposes of this Act or for the purposes of any civil or criminal proceedings under any written law or where otherwise authorized by the Commission—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_42__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_42__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "no member of the Commission, officer of the Commission, consultant or member of Task Force whether during or after his tenure of office or employment, shall disclose any information obtained by him in the course of his duties; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_42__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_42__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "no other person who has by any means access to any information or documents relating to the affairs of the Commission shall disclose such information or document."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_42__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_42",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding two years or to both. Institution and conduct of prosecution"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No prosecution in respect of any offence under this Act shall be instituted except by or with the written consent of the Public Prosecutor. Protection of person assisting Commission"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_44__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_44__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_44__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_44__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_44__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_44",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If it appears to the Commission that, because a person is assisting the Commission, the safety of the person or any other person may be prejudiced or the person or other person may be subject to intimidation or harassment, the Commission may make such arrangements with the relevant authorities as are necessary—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_44__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_44__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to protect the safety of any such person; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_44__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_44__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to protect any such person from intimidation or harassment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_44__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_44__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_44__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_44",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In this section, a reference to a person who is assisting the Commission shall be a reference to a person who—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_44__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_44__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "has appeared, is appearing or is to appear before the Commission to give evidence or to produce a document or other thing; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_44__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_44__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "has assisted, is assisting or is to assist the Commission in some other manner. Police force to assist Commission"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_45",
+      "@type": "akn:clause",
+      "eli:number": "45",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The police force shall assist the Commission, officer of the Commission and member of the Task Force in any matter within the control or ability to procure by the police force, as may be required by the Commission, officer of the Commission and member of the Task Force in the performance of the functions and the exercise of the powers of the Commission under this Act. Regulations"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_46",
+      "@type": "akn:clause",
+      "eli:number": "46",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_46__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_46__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_46__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_46__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may make regulations for the purpose of carrying out or giving effect to the provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_46__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to the generality of subsection (1), such regulations may prescribe the procedures on the referral of incident relating to sexual crime, grievous hurt and death under section 26."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_46__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The regulations made under this section may prescribe any act in contravention of the regulations to be made an offence and may prescribe penalties of a fine not exceeding ten thousand ringgit or imprisonment for a term not exceeding two years or both for such offence. Transitional provisions"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_47",
+      "@type": "akn:clause",
+      "eli:number": "47",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_47__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_47__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_47__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_47__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The following matters shall, in so far as they relate to the misconduct of members of the police force, on the coming into operation of this Act, be dealt with under the Enforcement Agency Integrity Commission Act 2009 [Act 700] by the Enforcement Agency Integrity Commission and shall be completed within one year from the date of coming into operation of this Act, as if this Act had not been passed:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_47__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_47",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any pending complaints under section 23 of the Enforcement Agency Integrity Commission Act 2009;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_47__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_47",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any pending investigations under section 25, subsection 27(4) and section 28 of the Enforcement Agency Integrity Commission Act 2009;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_47__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_47",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any pending findings of the Complaints Committee and findings of the Commission under sections 26 and 30 of the Enforcement Agency Integrity Commission Act 2009 respectively; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_47__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VII__cl_47",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any pending hearing under section 34 of the Enforcement Agency Integrity Commission Act 2009."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VI__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VI__cl_33__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VI__cl_33__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VI__cl_33__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VI__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person who hinders or attempts to hinder any person from giving evidence before the Commission or by threats, deters or attempts to deter any person from giving such evidence commits an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding two years or to both."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VI__cl_33__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VI__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person who threatens, insults or injures any person for having given evidence, or on account of the evidence which the person has given before the Commission commits an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding two years or to both. Giving false information to Commission"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VI__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who gives any information or complains in writing or otherwise to the Commission, knowing or believing that the information or complaint is false commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding five years or to a fine not exceeding twenty thousand ringgit or to both."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_27__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_27__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_27__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_27__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_27__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_27__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_27__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_27__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An officer of the Commission may, in conducting any investigation under this Act, by a written notice—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_27__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "order any member of the police force or officer of a public body through his Head of Department, or any person to attend before the officer of the Commission for the purpose of being examined orally in relation to any matter which may, in the opinion of such officer of the Commission, assist in the investigation; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_27__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "order any member of the police force or officer of a public body through his Head of Department, or any person, to furnish, within the time specified by the officer of the Commission, a statement in writing made on oath or affirmation setting out in the statement all such information which may be required under the notice, being information which may, in the opinion of such officer of the Commission, assist in the investigation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_27__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_27__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_27__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any member of the police force, officer of a public body or person to whom a written notice has been given under paragraph (1)(a)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_27__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall attend in accordance with the terms of the notice to be examined, and shall continue to attend from day to day where so directed until the examination is completed; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_27__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall, during such examination, disclose all information which is within his knowledge, or which is available to him, in respect of the matter in relation to which he is being examined, and answer any question put to him truthfully and to the best of his knowledge and belief."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_27__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The officer of the Commission in examining any member of the police force, officer of a public body or person under paragraph (1)(a) shall record in writing any statement made by the member of the police force, officer of a public body or person and the statement so recorded shall be read to and signed by the member of police force, officer of a public body or person, and where such member of the police force, officer of a public body or person refuses to sign the record, the officer of the Commission shall endorse on the record under the hand of the officer of the Commission the fact of such refusal and the reasons for the refusal, if any, stated by the member of the police force, officer of a public body or person examined."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_27__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_27__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_27__subsec_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The member of the police force, officer of a public body or person examined under paragraph (1)(a) shall be legally bound to answer all questions put to him by the officer of the Commission, but the member of the police force, officer of a public body or person examined—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_27__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_27__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "may refuse to answer any question the answer to which would have a tendency to expose the member of the police force, officer of a public body or person to a criminal charge or penalty or forfeiture; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_27__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_27__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "may refuse to disclose a sensitive information if certified by the Head of Department that the production of the sensitive information is prejudicial to national security or national interest."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_27__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any member of the police force, officer of the public body or person who contravenes this section commits an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding two years or to both. Power to obtain documents or other things"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_28__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_28__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_28__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_28__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_28__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_28__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_28__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission may, by notice served on any member of the police force or officer of a public body through his Head of Department, or any person, require the member of the police force, officer of a public body or person to produce any document or other things related to the investigation which in the opinion of the Commission are relevant."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_28__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_28__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_28__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A notice under this section—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_28__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_28__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall specify or describe the documents or other things concerned; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_28__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_28__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall fix the time and date for compliance of the notice."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_28__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The notice under this section may provide that the requirement under subsection (2) may be satisfied by any other person acting on behalf of any member of the police force, officer of a public body or person and may, but need not, specify the person or class of persons who may so act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_28__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_28__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_28__subsec_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any member of the police force, officer of a public body or person who has been served with a notice under this section—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_28__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_28__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "who fails to comply with such notice; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_28__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_28__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "who furnishes any information knowing it to be false or misleading in a material particular, commits an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding two years or to both."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_28__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where a document requested by the Commission is a classified document, such document shall be dealt with under the Official Secrets Act 1972 [Act 88]."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_28__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any member of the police force or officer of a public body is of the opinion that a document or other thing as requested by the Commission contains information prejudicial to national security or national interest, such member of the police force or officer of a public body shall obtain the approval of their respective Head of Department prior to producing such document or other thing to the Commission. Findings of investigation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_29__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_29__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_29__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The officer of the Commission shall, upon the completion of any investigation, submit his findings to the Complaints Committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_29__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Complaints Committee may, upon considering the findings of the officer of the Commission, submit the findings and recommendations to the Commission. Action by Commission after considering findings and recommendations of Complaints Committee"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_30__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_30__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_30__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_30__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_30__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_30__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_30__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_30__subsec_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "After considering the findings and recommendations by the Complaints Committee under subsection 29(2), the Commission shall take the following actions:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_30__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_30__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where the findings disclose any offence under Part IV of the Malaysian Anti-Corruption Act 2009, refer the findings to the Malaysian Anti-Corruption Commission;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_30__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_30__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where the findings disclose any criminal offence under any written law, refer the findings to the relevant authority;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_30__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_30__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where the findings disclose any misconduct, refer the findings of misconduct to the Police Force Commission with the recommendation for disciplinary action; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_30__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_30__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where the findings disclose no misconduct, reject the complaint and inform the relevant Head of Department."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_30__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the Commission is not satisfied with the findings and recommendations by the Complaints Committee under subsection 29(2), the Commission may direct a Task Force to make further investigation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_30__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission shall record the findings mentioned in subsection (1) and inform the complainant of the action taken on the complaint. Task Force"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_31__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_31__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_31__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_31__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commission may establish such number of Task Forces to assist the Commission in the investigation of any misconduct under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_31__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The members of the Task Force may comprise of the officers of the Commission and the consultants engaged under section 17."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_31__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Sections 27, 28 and 29 and subsections 30(1) and (2) shall apply mutatis mutandis to the investigation conducted by the Task Force. Commission may initiate investigation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_32__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_32__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_32__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding anything to the contrary in this Act, the Commission may commence an investigation of misconduct on its own initiative but only if the Commission is satisfied that it is in the public interest to do so whether or not there is a complaint of misconduct relating to it."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_32__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/12/eng@/~part_V__cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The investigation referred to in subsection (1) shall be conducted in accordance with Part V of this Act."
+      }
+    }
+  ]
+}

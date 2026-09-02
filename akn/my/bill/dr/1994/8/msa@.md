@@ -32,7 +32,11 @@ oleh Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan De
 
 "Datuk Bandar sesuatu Majlis Bandaraya" termasuklah Datuk Bandar sesuatu Bandaraya dan "Datuk Bandar" hendaklah ditafsirkan dengan sewajarnya;
 
-"Majlis Bandaraya" termasuklah Majlis sesuatu Bandaraya dan sesuatu Bandaraya.".
+"Majlis Bandaraya" termasuklah Majlis sesuatu Bandaraya dan
+
+<!-- marginal: sesuatu -->
+
+Bandaraya.".
 
 3. Seksyen 16 Akta ibu adalah dipinda dengan menggantikan subseksyen (2) dengan subseksyen yang berikut:
 
@@ -46,7 +50,11 @@ oleh Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan De
 
 (a) dalam subseksyen (1)—
 
-(i) dalam perenggan (c) dengan memasukkan selepas koma bertitik perkataan "dan";
+(i) dalam perenggan (c)
+
+<!-- marginal: dengan -->
+
+memasukkan selepas koma bertitik perkataan "dan";
 
 <!-- page 3 -->
 
@@ -72,11 +80,7 @@ menggantikan perkataan "; dan" dengan noktah; dan
 
 menyebabkan dijalankan"; dan
 
-(ii) dengan menggantikan
-
-<!-- marginal: perkataan -->
-
-"memuaskan hatinya sendiri bahawa peruntukan-peruntukan" dengan per- kataan "memastikan bahawa kehendak- kehendak";
+(ii) dengan menggantikan perkataan "memuaskan hatinya sendiri bahawa peruntukan-peruntukan" dengan per- kataan "memastikan bahawa kehendak- kehendak";
 
 (b) dalam subseksyen (2) dengan memasukkan selepas perkataan "kecacatan di dalamnya," perkataan "yang adalah kecacatan-kecacatan yang ditetapkan oleh kaedah-kaedah sebagai kecacatan-kecacatan serius,";
 
@@ -120,11 +124,7 @@ Dengan syarat bahawa jika pada pendapat pegawai pengangkutan jalan itu, kecacata
 
 ## PEMERIKSAAN BERKALA KENDERAAN MOTOR
 
-66A. (1) Tiada seorang pun boleh menggunakan atau menyebabkan
-
-<!-- marginal: atau -->
-
-membenarkan digunakan sesuatu kenderaan motor yang tergolong dalam kelas atau kategori kenderaan motor yang dikehendaki menjalani pemeriksaan berkala di bawah Bahagian ini melainkan jika ada berkuat- kuasa suatu perakuan pemeriksaan yang dikeluarkan di bawah Bahagian ini berkenaan dengan kenderaan motor itu.
+66A. (1) Tiada seorang pun boleh menggunakan atau menyebabkan atau membenarkan digunakan sesuatu kenderaan motor yang tergolong dalam kelas atau kategori kenderaan motor yang dikehendaki menjalani pemeriksaan berkala di bawah Bahagian ini melainkan jika ada berkuat- kuasa suatu perakuan pemeriksaan yang dikeluarkan di bawah Bahagian ini berkenaan dengan kenderaan motor itu.
 
 (2) Mana-mana orang yang melanggar subseksyen (1) adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan bagi tempoh tidak melebihi lima tahun atau kedua-duanya.
 
@@ -156,11 +156,7 @@ membenarkan digunakan sesuatu kenderaan motor yang tergolong dalam kelas atau ka
 
 66E. (1) Tiada seorang pun selain daripada orang yang dilesenkan untuk menjalankan pemeriksaan di bawah Akta ini boleh memeriksa sesuatu kenderaan motor.
 
-(2) Mana-mana orang yang melanggar seksyen ini adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi sepuluh ribu ringgit
-
-<!-- marginal: atau -->
-
-dipenjarakan bagi tempoh tidak melebihi dua tahun atau kedua-duanya.
+(2) Mana-mana orang yang melanggar seksyen ini adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi sepuluh ribu ringgit atau dipenjarakan bagi tempoh tidak melebihi dua tahun atau kedua-duanya.
 
 <!-- page 8 -->
 
@@ -186,11 +182,7 @@ dipenjarakan bagi tempoh tidak melebihi dua tahun atau kedua-duanya.
 
 (f) untuk menetapkan jenis papan tanda di pusat-pusat pemeriksaan kenderaan; dan
 
-(g) untuk menetapkan cara
-
-<!-- marginal: yang -->
-
-mengikutnya rayuan boleh dibuat oleh mana-mana orang dan prosedur baginya.".
+(g) untuk menetapkan cara yang mengikutnya rayuan boleh dibuat oleh mana-mana orang dan prosedur baginya.".
 
 11. Seksyen 117 Akta ibu adalah dipinda—
 
@@ -294,9 +286,7 @@ Rang Undang-Undang ini bertujuan meminda Akta Pengangkutan Jalan 1987, disebut "
 
 9. Fasal 9 bertujuan meminda seksyen 63 untuk membolehkan penimbangan kenderaan-kenderaan dijalankan oleh seseorang yang diberikuasa untuk menjalankan penimbangan, yang mungkin termasuk seseorang yang dilesenkan untuk menjalankan pemeriksaan di bawah Akta.
 
-10, Fasal 10 bertujuan memasukkan Bahagian baru 11A mengenai pemeriksaan berkala kenderaan motor. Seksyen baru 66A melarang penggunaan kelas atau kategori kenderaan yang ditetapkan tanpa ada berkuatkuasa perakuan pemeriksaan berkenaan dengan kenderaan itu. Seksyen baru 66B memberi Menteri kuasa untuk menentukan kelas atau kategori kenderaan yang dikehendaki menjalani pemeriksaan berkala dan frekuensi pemeriksaan itu. Seksyen 66c memperuntukkan bahawa jika atas pemeriksaan sesuatu kenderaan motor adalah didapati mematuhi kehendak-kehendak mengenai pembinaan, kelengkapan dan penggunaan. suatu perakuan pemeriksaan akan dikeluarkan. Jika suatu perakuan pemeriksaan ditolak, orang yang terkilan itu boleh merayu kepada Ketua Pengarah yang hendaklah menyebabkan kenderaan itu dipehksa semula. Seksyen 66D menghendaki sesuatu perakuan pemeriksaan dipamerkan. Seksyen 66E menjadikannya kesalahan bagi seseorang, selain daripada seseorang yang dilesenkan, untuk menjalankan pemeriksaan. Seksyen 66F menghendaki orang yang dilesenkan untuk menjalankan pemeriksaan mengambil kerja orang-orang yang mempunyai kelayakan dan kekompetenan yang dikehendaki sebagai pemeriksa untuk menjalankan pemeriksaan. Seksyen 66G memberi Menteri kuasa untuk membuat kaedah-kaedah bagi maksud menguatkuasakan
-
-## Bahagian 11A ini.
+10, Fasal 10 bertujuan memasukkan Bahagian baru 11A mengenai pemeriksaan berkala kenderaan motor. Seksyen baru 66A melarang penggunaan kelas atau kategori kenderaan yang ditetapkan tanpa ada berkuatkuasa perakuan pemeriksaan berkenaan dengan kenderaan itu. Seksyen baru 66B memberi Menteri kuasa untuk menentukan kelas atau kategori kenderaan yang dikehendaki menjalani pemeriksaan berkala dan frekuensi pemeriksaan itu. Seksyen 66c memperuntukkan bahawa jika atas pemeriksaan sesuatu kenderaan motor adalah didapati mematuhi kehendak-kehendak mengenai pembinaan, kelengkapan dan penggunaan. suatu perakuan pemeriksaan akan dikeluarkan. Jika suatu perakuan pemeriksaan ditolak, orang yang terkilan itu boleh merayu kepada Ketua Pengarah yang hendaklah menyebabkan kenderaan itu dipehksa semula. Seksyen 66D menghendaki sesuatu perakuan pemeriksaan dipamerkan. Seksyen 66E menjadikannya kesalahan bagi seseorang, selain daripada seseorang yang dilesenkan, untuk menjalankan pemeriksaan. Seksyen 66F menghendaki orang yang dilesenkan untuk menjalankan pemeriksaan mengambil kerja orang-orang yang mempunyai kelayakan dan kekompetenan yang dikehendaki sebagai pemeriksa untuk menjalankan pemeriksaan. Seksyen 66G memberi Menteri kuasa untuk membuat kaedah-kaedah bagi maksud menguatkuasakan Bahagian 11A ini.
 
 <!-- page 15 -->
 

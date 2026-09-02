@@ -40,7 +40,17 @@ III
 
 ## KUMPULAN WANG
 
-24. Penubuhan Kumpulan Wang Simpanan Pekerja. 25. Lembaga hendaklah menjadi pemegang amanah Kumpulan Wang. 26. Pelaburan Kumpulan Wang. 27. Perisytiharan dividen. 28. Peruntukan bagi pendahuluan daripada Kumpulan Wang Disatukan Persekutuan. 29. Pengauditan akaun-akaun tahunan Kumpulan Wang.
+24. Penubuhan Kumpulan Wang Simpanan Pekerja.
+
+25. Lembaga hendaklah menjadi pemegang amanah Kumpulan Wang.
+
+26. Pelaburan Kumpulan Wang.
+
+27. Perisytiharan dividen.
+
+28. Peruntukan bagi pendahuluan daripada Kumpulan Wang Disatukan Persekutuan.
+
+29. Pengauditan akaun-akaun tahunan Kumpulan Wang.
 
 ## BAHAGIAN
 
@@ -50,7 +60,25 @@ IV
 
 ## KUASA, FUNGSI-FUNGSI DAN TUGAS-TUGAS MEREKA
 
-30. Perlantikan Pengurus Besar, Timbalan-Timbalan Pengurus Besar, Penolong-Penolong Pengurus Besar dan pegawai- pegawai dan pengkhidmat-pengkhidmat lain Lembaga. 31. Penubuhan Jawatankuasa Tatatertib berkenaan dengan Timbalan-Timbalan Pengurus Besar, Penolong-Penolong Pengurus Besar dan pegawai-pegawai dan pengkhidmat- pengkhidmat lain Lembaga. 32. Pengenaan surcaj. 33. Penubuhan Jawatankuasa Kenaikan Pangkat berkenaan dengan pegawai-pegawai dan pengkhidmat-pengkhidmat Lembaga. 34. Perlantikan Pemeriksa-Pemeriksa, kuasa-kuasa, fungsi- fungsi dan tugas-tugas mereka. 35. Kuasa-kuasa untuk memasuki, memeriksadan menggeledah. 36. Menghalang penjalanan kuasa-kuasa Pemeriksa. 37. Kuasa untuk menyoal-periksa orang-orang. 38. Kuasa Pengurus Besar untuk meminta maklumat atau butir- butir dan menggeledah. 39. Pengurus Besar boleh mengeluarkan perakuan kepada Ketua Polis Negara atau Ketua Pengarah Imigresen untuk melarang mana-mana orang daripada meninggalkan Malaysia dalam hal-keadaan tertentu.
+30. Perlantikan Pengurus Besar, Timbalan-Timbalan Pengurus Besar, Penolong-Penolong Pengurus Besar dan pegawai- pegawai dan pengkhidmat-pengkhidmat lain Lembaga.
+
+31. Penubuhan Jawatankuasa Tatatertib berkenaan dengan Timbalan-Timbalan Pengurus Besar, Penolong-Penolong Pengurus Besar dan pegawai-pegawai dan pengkhidmat- pengkhidmat lain Lembaga.
+
+32. Pengenaan surcaj.
+
+33. Penubuhan Jawatankuasa Kenaikan Pangkat berkenaan dengan pegawai-pegawai dan pengkhidmat-pengkhidmat Lembaga.
+
+34. Perlantikan Pemeriksa-Pemeriksa, kuasa-kuasa, fungsi- fungsi dan tugas-tugas mereka.
+
+35. Kuasa-kuasa untuk memasuki, memeriksadan menggeledah.
+
+36. Menghalang penjalanan kuasa-kuasa Pemeriksa.
+
+37. Kuasa untuk menyoal-periksa orang-orang.
+
+38. Kuasa Pengurus Besar untuk meminta maklumat atau butir- butir dan menggeledah.
+
+39. Pengurus Besar boleh mengeluarkan perakuan kepada Ketua Polis Negara atau Ketua Pengarah Imigresen untuk melarang mana-mana orang daripada meninggalkan Malaysia dalam hal-keadaan tertentu.
 
 ## BAHAGIAN V
 
@@ -126,7 +154,15 @@ IV
 
 ## RANG UNDANG-UNDANG
 
-66. Perlindungan caruman dalam prosiding pelaksanaan atau penjualan di bawah cagaran. 67. Penjalanan prosiding sivil. 68. Kuasa pegawai Lembaga untuk mendakwa kesalahan- kesalahan di bawah Akta. 69. Kesalahan-kesalahan oleh pertubuhan perbadanan. 70. Ahli-ahii Lembaga, Panel Pelaburan dan pegawai-pegawai disifatkan sebagai pengkhidmat-pengkhidmat awam.
+66. Perlindungan caruman dalam prosiding pelaksanaan atau penjualan di bawah cagaran.
+
+67. Penjalanan prosiding sivil.
+
+68. Kuasa pegawai Lembaga untuk mendakwa kesalahan- kesalahan di bawah Akta.
+
+69. Kesalahan-kesalahan oleh pertubuhan perbadanan.
+
+70. Ahli-ahii Lembaga, Panel Pelaburan dan pegawai-pegawai disifatkan sebagai pengkhidmat-pengkhidmat awam.
 
 ## BAHAGIAN VIII
 
@@ -134,7 +170,13 @@ IV
 
 ## KAEDAH-KAEDAH
 
-71. Kuasa Menteri untuk membuat peraturan-peraturan. 72. Kuasa Menteri untuk menghendaki orang lain untuk mencarum dan mengisytiharkan apa-apa pembayaran atau saraan sebagai upah. 73. Kuasa Lembaga untuk membuat kaedah-kaedah. 74. Kuasa Menteri untuk meminda Jadual-Jadual.
+71. Kuasa Menteri untuk membuat peraturan-peraturan.
+
+72. Kuasa Menteri untuk menghendaki orang lain untuk mencarum dan mengisytiharkan apa-apa pembayaran atau saraan sebagai upah.
+
+73. Kuasa Lembaga untuk membuat kaedah-kaedah.
+
+74. Kuasa Menteri untuk meminda Jadual-Jadual.
 
 ## BAHAGIAN
 
@@ -144,7 +186,29 @@ IX
 
 ## PERALIHAN
 
-75. Pemansuhan Akta Kumpulan Wang Simpanan Pekerja 1951. 76. Penerusan undang-undang, dsb. 77. Pemindahan kuasa, hak, liabiliti dan tugas. 78. Pemindahan harta. 79. Kontrak-kontrak yang sedia ada. 80. Penerusan prosiding jenayah dan sivil. 81. Pemindahan Kumpulan Wang. 82. Penerusan pegawai dan pengkhidmat. 83. Prosiding tatatertib yang belum selesai. 84. Pemindahan ahli Kumpulan Wang. 85. Pemindahan pendaftaran majikan. 86. Menghalang anomali.
+75. Pemansuhan Akta Kumpulan Wang Simpanan Pekerja 1951.
+
+76. Penerusan undang-undang, dsb.
+
+77. Pemindahan kuasa, hak, liabiliti dan tugas.
+
+78. Pemindahan harta.
+
+79. Kontrak-kontrak yang sedia ada.
+
+80. Penerusan prosiding jenayah dan sivil.
+
+81. Pemindahan Kumpulan Wang.
+
+82. Penerusan pegawai dan pengkhidmat.
+
+83. Prosiding tatatertib yang belum selesai.
+
+84. Pemindahan ahli Kumpulan Wang.
+
+85. Pemindahan pendaftaran majikan.
+
+86. Menghalang anomali.
 
 ## JADUAL-JADUAL.
 
@@ -212,11 +276,7 @@ Dengan syarat bahawa jika tunggakan upah adalah dibayar kepada pekerja atas apa-
 
 <!-- page 7 -->
 
-ditubuhkan oleh majikan atau kumpulan maji- kan dan diisytiharkan oleh Lembaga di bawah seksyen 52 sebagai suatu kumpulan wang dilulus- kan, dan termasuklah— (i) mana-mana skim berkenaan dengan orang-orang yang bekerja dengan Kerajaan Malaysia, mana-mana Kerajaan Negeri atau mana-mana pihak berkuasa berkanun atau tempatan dan diletakkan dalam perjawatan berpencen; (ii) apa-apa perkiraan berkenaan dengan orang-orang yang bekerja dengan mana- mana organisasi jika perlantikan ke organisasi itu dibuat oleh atau dengan kelulusan Kerajaan Malaysia akan sese- orang yang sebelum perlantikan
-
-<!-- marginal: ter- -->
-
-sebut, telah bekerja dengan Kerajaan Malaysia, mana-mana Kerajaan Negeri atau mana-mana pihak berkuasa ber- kanun atau tempatan dan jika tempoh perkhidmatan dengan organisasi itu boleh dihitung bagi maksud-maksud pemberian apa-apa pencen, ganjaran atau lain-lain faedah oleh Kerajaan Malaysia di bawah mana-mana undang-undang bertulis yang berhubungan dengan pencen,
+ditubuhkan oleh majikan atau kumpulan maji- kan dan diisytiharkan oleh Lembaga di bawah seksyen 52 sebagai suatu kumpulan wang dilulus- kan, dan termasuklah— (i) mana-mana skim berkenaan dengan orang-orang yang bekerja dengan Kerajaan Malaysia, mana-mana Kerajaan Negeri atau mana-mana pihak berkuasa berkanun atau tempatan dan diletakkan dalam perjawatan berpencen; (ii) apa-apa perkiraan berkenaan dengan orang-orang yang bekerja dengan mana- mana organisasi jika perlantikan ke organisasi itu dibuat oleh atau dengan kelulusan Kerajaan Malaysia akan sese- orang yang sebelum perlantikan ter- sebut, telah bekerja dengan Kerajaan Malaysia, mana-mana Kerajaan Negeri atau mana-mana pihak berkuasa ber- kanun atau tempatan dan jika tempoh perkhidmatan dengan organisasi itu boleh dihitung bagi maksud-maksud pemberian apa-apa pencen, ganjaran atau lain-lain faedah oleh Kerajaan Malaysia di bawah mana-mana undang-undang bertulis yang berhubungan dengan pencen,
 
 dan jika timbul apa-apa keraguan tentang sama ada mana-mana orang itu berada dalam pekerjaan tersebut atau tidak, keputusan Menteri hendaklah muktamad; atau *
 
@@ -282,9 +342,13 @@ II
 
 ## LEMBAGA DAN PANEL PELABURAN
 
-Penubuhan
+<!-- marginal: Penubuhan -->
 
-3. Bagi maksud-maksud menguruskan Kumpulan Wang Lembaga. dan bagi melaksanakan maksud-maksud Akta ini, maka adalah dengan ini ditubuhkan suatu pertubuhan perbadanan dengan nama "Lembaga Kumpulan Wang Simpanan Pekerja" yang kekal turun-temurun dan mempunyai suatu meterai biasa, dan yang boleh mendakwa dan didakwa atas nama perbadanannya dan, tertakluk kepada dan bagi maksud-maksud Akta ini, boleh membuat kontrak dan boleh memperolehi, mem- beli, mengambil, memegang dan menikmati harta alih dan tak alih daripada tiap-tiap perihalan dan boleh
+3. Bagi maksud-maksud menguruskan Kumpulan Wang
+
+<!-- marginal: Lembaga. -->
+
+dan bagi melaksanakan maksud-maksud Akta ini, maka adalah dengan ini ditubuhkan suatu pertubuhan perbadanan dengan nama "Lembaga Kumpulan Wang Simpanan Pekerja" yang kekal turun-temurun dan mempunyai suatu meterai biasa, dan yang boleh mendakwa dan didakwa atas nama perbadanannya dan, tertakluk kepada dan bagi maksud-maksud Akta ini, boleh membuat kontrak dan boleh memperolehi, mem- beli, mengambil, memegang dan menikmati harta alih dan tak alih daripada tiap-tiap perihalan dan boleh
 
 <!-- page 11 -->
 
@@ -302,7 +366,11 @@ memindahhak, menyerahhak, menyerahkan, memulang- kan, menggadai, menggadai-janji
 
 (c) Pengurus Besar, yang hendaklah menjadi seorang ahli ex-officio; dan
 
-(d) tidak lebih daripada lapan belas orang ahli lain yang mana— (i) lima orang hendaklah merupakan orang- orang yang memegang jawatan beremolumen di bawah Kerajaan Malaysia atau Kerajaan sesuatu Negeri; (ii) lima orang hendaklah merupakan majikan-majikan yang mencarum kepada Kumpulan Wang dan yang bukannya orang-orang yang memegang jawatan beremolumen di bawah Kerajaan Malaysia atau Kerajaan sesuatu Negeri atau diambil bekerja oleh mana-mana pihak berkuasa berkanun atau tempatan; (iii) lima orang hendaklah merupakan pekerja- pekerja yang mencarum kepada Kumpulan Wang; dan (iv) tiga orang hendaklah merupakan orang- orang yang mempunyai pengalaman dalam kewangan, perniagaan atau pengalaman lain yang relevan.
+(d) tidak lebih daripada lapan belas orang ahli lain yang mana— (i) lima orang hendaklah merupakan orang- orang yang memegang
+
+<!-- marginal: jawatan -->
+
+beremolumen di bawah Kerajaan Malaysia atau Kerajaan sesuatu Negeri; (ii) lima orang hendaklah merupakan majikan-majikan yang mencarum kepada Kumpulan Wang dan yang bukannya orang-orang yang memegang jawatan beremolumen di bawah Kerajaan Malaysia atau Kerajaan sesuatu Negeri atau diambil bekerja oleh mana-mana pihak berkuasa berkanun atau tempatan; (iii) lima orang hendaklah merupakan pekerja- pekerja yang mencarum kepada Kumpulan Wang; dan (iv) tiga orang hendaklah merupakan orang- orang yang mempunyai pengalaman dalam kewangan, perniagaan atau pengalaman lain yang relevan.
 
 (2) Jika Pengerusi itu bukanlah seorang wakil dari Kementerian Kewangan, Menteri hendaklah melantik seorang wakil dari Kementerian Kewangan untuk menjadi
 
@@ -316,15 +384,25 @@ seorang ahli Lembaga di bawah subseksyen (1) (d) (i) yang hendaklah juga dilanti
 
 Dengan syarat bahawa jika, Pengerusi adalah juga Pengurus Besar, dia hendaklah dibayar apa-apa gaji atau elaun sebagaimana yang ditentukan oleh Lembaga, dengan persetujuan Menteri.
 
-Ahli-ahli
+<!-- marginal: Ahli-ahli -->
 
-5. (1) Menteri bolehlah berkenaan dengan setiap orang silih ganti. ahli yang dilantik di bawah seksyen 4 (1) (d) (i) melantik, dengan menamakannya, seseorang untuk menjadi seorang ahli silih ganti untuk menghadiri mesyuarat- mesyuarat Lembaga bagi menggantikan ahli itu apabila ahli itu tidak dapat hadir oleh kerana apa-apa sebab.
+5. (1) Menteri bolehlah berkenaan dengan setiap orang
+
+<!-- marginal: silih ganti. -->
+
+ahli yang dilantik di bawah seksyen 4 (1) (d) (i) melantik, dengan menamakannya, seseorang untuk menjadi seorang ahli silih ganti untuk menghadiri mesyuarat- mesyuarat Lembaga bagi menggantikan ahli itu apabila ahli itu tidak dapat hadir oleh kerana apa-apa sebab.
 
 (2) Apabila menghadiri mesyuarat-mesyuarat Lem- baga bagi menggantikan seseorang ahli, seseorang ahli silih ganti hendaklah bagi segala maksud disifatkan sebagai seorang ahli Lembaga.
 
 (3) Seseorang ahli silih ganti hendaklah terhenti menjadi ahli silih ganti apabila ahli yang berkenaan dengannya dia adalah ahli silih ganti terhenti menjadi ahli Lembaga.
 
-6. Tertakluk kepada seksyen 7 (2), 8 dan 22, seseorang Tempoh jawatan. ahli Lembaga, selain daripada Pengurus Besar, hendak- lah memegang jawatan bagi suatu tempoh yang tidak melebihi tiga tahun dan adalah layak untuk dilantik semula.
+6. Tertakluk kepada seksyen 7 (2), 8 dan 22, seseorang
+
+<!-- marginal: Tempoh -->
+
+<!-- marginal: jawatan. -->
+
+ahli Lembaga, selain daripada Pengurus Besar, hendak- lah memegang jawatan bagi suatu tempoh yang tidak melebihi tiga tahun dan adalah layak untuk dilantik semula.
 
 <!-- page 13 -->
 
@@ -406,19 +484,47 @@ peruntukan-peruntukan Akta ini tentang penjalanan fungsi-fungsi dan kuasa-kuasa 
 
 <!-- page 14 -->
 
-Tugas untuk
+<!-- marginal: Tugas untuk -->
 
-12. Lembaga hendaklah mengemukakan kepada Menteri mengemukakan apa-apa maklumat berhubungan dengan kegiatan- maklumat kepada kegiatannya sebagaimana yang dikehendaki oleh Menteri Menteri. dari semasa ke semasa.
+12. Lembaga hendaklah mengemukakan kepada Menteri
 
-Pengesahan
+<!-- marginal: mengemukakan -->
 
-13. Segala suratikatan, dokumen dan suratcara lain meterai. yang menghendaki meterai Lembaga hendaklah di- meteraikan dengan meterai biasa Lembaga di hadapan Pengerusi dan Pengurus Besar, atau sama ada Pengerusi atau Pengurus Besar dan seorang ahli lain Lembaga, dan mana-mana suratikatan, dokumen atau suratcara yang berupa sebagai dimeteraikan dengan meterai biasa Lembaga dan disahkan sedemikian hendaklah sehingga dibuktikan sebaliknya, disifatkan sebagai telah di- sempurnakan dengan sah:
+apa-apa maklumat berhubungan dengan kegiatan-
+
+<!-- marginal: maklumat -->
+
+<!-- marginal: kepada -->
+
+kegiatannya sebagaimana yang dikehendaki oleh Menteri
+
+<!-- marginal: Menteri. -->
+
+dari semasa ke semasa.
+
+<!-- marginal: Pengesahan -->
+
+13. Segala suratikatan, dokumen dan suratcara lain
+
+<!-- marginal: meterai. -->
+
+yang menghendaki meterai Lembaga hendaklah di- meteraikan dengan meterai biasa Lembaga di hadapan Pengerusi dan Pengurus Besar, atau sama ada Pengerusi atau Pengurus Besar dan seorang ahli lain Lembaga, dan mana-mana suratikatan, dokumen atau suratcara yang berupa sebagai dimeteraikan dengan meterai biasa Lembaga dan disahkan sedemikian hendaklah sehingga dibuktikan sebaliknya, disifatkan sebagai telah di- sempurnakan dengan sah:
 
 Dengan syarat bahawa jika Pengerusi adalah juga Pengurus Besar, meterai biasa Lembaga hendaklah dimeteraikan di hadapan Pengerusi dan seorang ahli lain Lembaga.
 
-Kuasa-kuasa
+<!-- marginal: Kuasa-kuasa -->
 
-14. (1) Lembaga hendaklah mempunyaikuasa-kuasa dan dan tugas- hendaklah melaksanakan tugas-tugas sebagaimana yang tugas diberikan atau dikenakan oleh Akta ini. Lembaga.
+14. (1) Lembaga hendaklah mempunyaikuasa-kuasa dan
+
+<!-- marginal: dan tugas- -->
+
+hendaklah melaksanakan tugas-tugas sebagaimana yang
+
+<!-- marginal: tugas -->
+
+diberikan atau dikenakan oleh Akta ini.
+
+<!-- marginal: Lembaga. -->
 
 (2) Lembaga boleh melalui suratcara di bawah meterainya melantik mana-mana orang dan mewakilkan kepada orang tersebut sama ada di dalam Malaysia atau di mana-mana tempat di luar Malaysia semua atau mana-mana kuasa dan tugas Lembaga dan orang yang dilantik sedemikian itu boleh, tertakluk kepada surat- cara tersebut, melakukan apa-apa tindakan atau men- jalankan apa-apa kuasa atau melaksanakan apa-apa tugas yang dia diberikuasa oleh suratcara itu untuk melakukan atau melaksanakan.
 
@@ -514,27 +620,75 @@ yang berkenaan dengan pelaburan-pelaburan Kumpulan Wang yang hendaklah terdiri d
 
 (3) Ahli-ahli Panel Pelaburan tidaklah berhak kepada apa-apa saraan tetapi bolehlah dibayar apa-apa honorarium dan elaun perjalanan dan elaun sara hidup sebagaimana yang ditentukan oleh Lembaga, dengan kelulusan Menteri.
 
-Pengosongan
+<!-- marginal: Pengosongan -->
 
-19. Seseorang ahli Panel Pelaburan hendaklah disifatkan jawatan. telah mengosongkan jawatannya—
+19. Seseorang ahli Panel Pelaburan hendaklah disifatkan
+
+<!-- marginal: jawatan. -->
+
+telah mengosongkan jawatannya—
 
 (a) atas kematiannya; atau
 
 (b) atas kegagalannya untuk menghadiri tiga mesyuarat Panel Pelaburan secaraberturut-turut tanpa kebenaran Pengerusi Panel Pelaburan.
 
-Kuorum dan
+<!-- marginal: Kuorum dan -->
 
-20. (1) Pengerusi Panel Pelaburan dan dua orang ahli penjalanan lain Panel Pelaburan adalah membentuk kuorum pada prosiding. semua mesyuarat Panel Pelaburan.
+20. (1) Pengerusi Panel Pelaburan dan dua orang ahli
+
+<!-- marginal: penjalanan -->
+
+lain Panel Pelaburan adalah membentuk kuorum pada
+
+<!-- marginal: prosiding. -->
+
+semua mesyuarat Panel Pelaburan.
 
 (2) Tertakluk kepada seksyen 18 (2), Panel Pelaburan hendaklah mempunyai kuasa untuk menentukan penjalanan prosidingnya.
 
-Pengerusi
+<!-- marginal: Pengerusi -->
 
-21. (1) Jika atas apa-apa soal yang hendak ditentukan Panel terdapat kesamarataan undi, Pengerusi Panel Pelaburan Pelaburan mempunyai hendaklah mempunyai undi pemutus sebagai tambahan undi kepada undi asalnya. pemutus. (2) Jika Pengerusi adalah juga Pengurus Besar dan dia dilantik menjadi Pengerusi Panel Pelaburan, dia tidaklah mempunyai undi atas sifatnya sebagai Pengurus Besar.
+21. (1) Jika atas apa-apa soal yang hendak ditentukan
 
-Ketak-
+<!-- marginal: Panel -->
 
-22. Orang-orang yang berikut tidak layak dilantik layakan sebagai ahli Lembaga atau Panel Pelaburan atau jika dia daripada keahlian adalah seorang ahli Lembaga atau Panel Pelaburan dia Lembaga hendaklah terhenti daripada menjadi ahli: dan Panel Pelaburan.
+terdapat kesamarataan undi, Pengerusi Panel Pelaburan
+
+<!-- marginal: Pelaburan -->
+
+<!-- marginal: mempunyai -->
+
+hendaklah mempunyai undi pemutus sebagai tambahan
+
+<!-- marginal: undi -->
+
+kepada undi asalnya.
+
+<!-- marginal: pemutus. -->
+
+(2) Jika Pengerusi adalah juga Pengurus Besar dan dia dilantik menjadi Pengerusi Panel Pelaburan, dia tidaklah mempunyai undi atas sifatnya sebagai Pengurus Besar.
+
+<!-- marginal: Ketak- -->
+
+22. Orang-orang yang berikut tidak layak dilantik
+
+<!-- marginal: layakan -->
+
+sebagai ahli Lembaga atau Panel Pelaburan atau jika dia
+
+<!-- marginal: daripada -->
+
+<!-- marginal: keahlian -->
+
+adalah seorang ahli Lembaga atau Panel Pelaburan dia
+
+<!-- marginal: Lembaga -->
+
+hendaklah terhenti daripada menjadi ahli:
+
+<!-- marginal: dan Panel -->
+
+<!-- marginal: Pelaburan. -->
 
 (a) seseorang yang tak sempurna akal atau selainnya tak upaya melaksanakan tugas-tugasnya;
 
@@ -574,9 +728,23 @@ III
 
 ## KUMPULAN WANG
 
-Penubuhan
+<!-- marginal: Penubuhan -->
 
-24. (1) Bagi maksud-maksud Akta ini maka hendaklah Kumpulan ditubuhkan suatu kumpulan wang yang dipanggil Wang Simpanan "Kumpulan Wang Simpanan Pekerja", yang ke dalamnya Pekerja. hendaklah dibayar—
+24. (1) Bagi maksud-maksud Akta ini maka hendaklah
+
+<!-- marginal: Kumpulan -->
+
+ditubuhkan suatu kumpulan wang yang dipanggil
+
+<!-- marginal: Wang -->
+
+<!-- marginal: Simpanan -->
+
+"Kumpulan Wang Simpanan Pekerja", yang ke dalamnya
+
+<!-- marginal: Pekerja. -->
+
+hendaklah dibayar—
 
 (a) segala caruman yang dikehendaki supaya dibuat di bawah Akta ini;
 
@@ -644,9 +812,17 @@ di bawah Akta Bank dan Institusi- Institusi Kewangan 1989; atau (iii) mana-mana 
 
 <!-- page 20 -->
 
-(b) dilaburkan dalam bon-bon, kertas-kertas gadai- janji, nota-nota perdagangan, persetujuan- persetujuan jurubank, kertas-kertas pasaran wang, sijil-sijil deposit dan nota-nota janji hutang dan bil-bil pertukaran mengikut Akta 204. pengertian Akta Bil-Bil Pertukaran 1949;
+(b) dilaburkan dalam bon-bon, kertas-kertas gadai- janji, nota-nota perdagangan, persetujuan- persetujuan jurubank, kertas-kertas pasaran wang, sijil-sijil deposit dan nota-nota janji hutang dan bil-bil pertukaran mengikut
 
-(c) dilaburkan mengikut peruntukan-peruntukan Akta 208. Akta Pemegang Amanah 1949:
+<!-- marginal: Akta 204. -->
+
+pengertian Akta Bil-Bil Pertukaran 1949;
+
+(c) dilaburkan mengikut peruntukan-peruntukan
+
+<!-- marginal: Akta 208. -->
+
+Akta Pemegang Amanah 1949:
 
 Dengan syarat bagaimanapun, jika Lembaga melaburkan dalam atau atas hakmilik-hakmilik kepada harta tak alih di Malaysia mengikut seksyen 4 (1) (c) Akta Pemegang Amanah 1949, harta tak alih itu mungkin atau mungkin tidak menghasilkan apa-apa pendapatan pada masa pelaburan itu;
 
@@ -678,19 +854,15 @@ Dengan syarat juga bahawa dalam hal pinjaman kepada sesuatu syarikat diluluskan 
 
 <!-- page 22 -->
 
-kena dibayar ke atasnya dan tidak dibayar balik oleh syarikat diluluskan itu, tidak pada bila-bila masa melebihi
+kena dibayar ke atasnya dan tidak dibayar balik oleh syarikat diluluskan itu, tidak pada bila-bila masa melebihi tiga perempat daripada amaun, tidak termasuk faedah akan datang, yang pada masa itu dicagarkan kepada syarikat diluluskan itu daripada peminjam-peminjamnya;
 
-<!-- marginal: tiga -->
+(b) suatu perakuan bahawa peruntukan-peruntukan perenggan (a) proviso ini telah dipatuhi berkenaan dengan tahun kewangan yang ter- akhir bagi syarikat diluluskan itu, jika dimasukkan dalam laporan juruaudit yang dilampirkan kepada akaun-akaun tahunan syarikat diluluskan itu yang dikehendaki
 
-perempat daripada amaun, tidak termasuk faedah akan datang, yang pada masa itu dicagarkan kepada syarikat diluluskan itu daripada peminjam-peminjamnya;
+<!-- marginal: Akta 125. -->
 
-(b) suatu perakuan bahawa peruntukan-peruntukan perenggan (a) proviso ini telah dipatuhi berkenaan dengan tahun kewangan yang ter- akhir bagi syarikat diluluskan itu, jika dimasukkan dalam laporan juruaudit yang dilampirkan kepada akaun-akaun tahunan syarikat diluluskan itu yang dikehendaki Akta 125. supaya disediakan di bawah Akta Syarikat 1965, yang kepadanya syarikat diluluskan itu tertakluk, hendaklah muktamad bagi Lembaga membuat pelaburan itu; dan
+supaya disediakan di bawah Akta Syarikat 1965, yang kepadanya syarikat diluluskan itu tertakluk, hendaklah muktamad bagi Lembaga membuat pelaburan itu; dan
 
-(c) mana-mana perjanjian tentang pembayaran balik yang dibuat di antara Lembaga dan syarikat diluluskan itu hendaklah ditamatkan dengan serta-merta jika— (i) syarikat diluluskan itu terhenti daripada mematuhi mana-mana
-
-<!-- marginal: peruntukan -->
-
-perenggan (a) proviso ini; (ii) syarikat diluluskan itu gagal untuk men- dapat suatu perakuan mengikut terma- terma dan mengikut cara yang dinyatakan dalam perenggan (b) proviso ini; atau (iii) Menteri pada bila-bila masa melalui pemberitahuan dalam Warta memerin-
+(c) mana-mana perjanjian tentang pembayaran balik yang dibuat di antara Lembaga dan syarikat diluluskan itu hendaklah ditamatkan dengan serta-merta jika— (i) syarikat diluluskan itu terhenti daripada mematuhi mana-mana peruntukan perenggan (a) proviso ini; (ii) syarikat diluluskan itu gagal untuk men- dapat suatu perakuan mengikut terma- terma dan mengikut cara yang dinyatakan dalam perenggan (b) proviso ini; atau (iii) Menteri pada bila-bila masa melalui pemberitahuan dalam Warta memerin-
 
 ### tahkan bahawa syarikat itu hendaklah
 
@@ -770,11 +942,61 @@ IV
 
 ## KUASA, FUNGSI-FUNGSI DAN TUGAS-TUGAS MEREKA
 
-Perlantikan
+<!-- marginal: Perlantikan -->
 
-30. (1) Menteri hendaklah melantik seseorang yang Pengurus layak dan patut, atas apa-apa terma dan syarat sebagai- Besar, Timbalan- mana yang ditentukan olehnya, untuk menjadi Pengurus Timbalan Besar. Pengurus Besar, (2) Jika tiada perlantikan Pengurus Besar dibuat di Penolong- Penolong bawah subseksyen (1), Pengerusi hendaklah menjadi Pengurus Pengurus Besar. Besar dan pegawai- pegawai (3) Lembaga hendaklah— dan pengkhidmat-
+30. (1) Menteri hendaklah melantik seseorang yang
 
-(a) dengan persetujuan Menteri, melantik seberapa pengkhidmat bilangan Timbalan-Timbalan Pengurus Besar lain Lembaga. dan Penolong-Penolong Pengurus Besar sebagaimana yang difikirkannya sesuai; dan
+<!-- marginal: Pengurus -->
+
+layak dan patut, atas apa-apa terma dan syarat sebagai-
+
+<!-- marginal: Besar, -->
+
+<!-- marginal: Timbalan- -->
+
+mana yang ditentukan olehnya, untuk menjadi Pengurus
+
+<!-- marginal: Timbalan -->
+
+Besar.
+
+<!-- marginal: Pengurus -->
+
+<!-- marginal: Besar, -->
+
+(2) Jika tiada perlantikan Pengurus Besar dibuat di
+
+<!-- marginal: Penolong- -->
+
+<!-- marginal: Penolong -->
+
+bawah subseksyen (1), Pengerusi hendaklah menjadi
+
+<!-- marginal: Pengurus -->
+
+Pengurus Besar.
+
+<!-- marginal: Besar dan -->
+
+<!-- marginal: pegawai- -->
+
+<!-- marginal: pegawai -->
+
+(3) Lembaga hendaklah—
+
+<!-- marginal: dan -->
+
+<!-- marginal: pengkhidmat- -->
+
+(a) dengan persetujuan Menteri, melantik seberapa
+
+<!-- marginal: pengkhidmat -->
+
+bilangan Timbalan-Timbalan Pengurus Besar
+
+<!-- marginal: lain Lembaga. -->
+
+dan Penolong-Penolong Pengurus Besar sebagaimana yang difikirkannya sesuai; dan
 
 (b) melantik pegawai-pegawai dan pengkhidmat- pengkhidmat lain sebagaimana yang difikirkan- nya perlu bagi penjalanan cekap urusan Lembaga,
 
@@ -980,15 +1202,39 @@ Dengan syarat bahawa Lembaga boleh,
 
 difikirkannya perlu, menghendaki mana-mana ahli Jawatankuasa Kenaikan Pangkat membantu Lembaga dalam pertimbangtelitiannya.
 
-Perlantikan
+<!-- marginal: Perlantikan -->
 
-34. (1) Lembaga boleh melantik seberapa bilangan Pemeriksa- Pemeriksa sebagaimana yang difikirkannya perlu bagi Pemeriksa, kuasa-kuasa, maksud-maksud Akta ini dan perlantikan tersebut fungsi-fungsi hendaklah disiarkan dalam Warta. dan tugas- tugas mereka. (2) Tertakluk kepada subseksyen (3), seseorang Pemeriksa yang dilantik di bawah subseksyen (1) hendaklah mempunyai segala kuasa, fungsi dan tugas yang diberikan di bawah Akta ini.
+34. (1) Lembaga boleh melantik seberapa bilangan
+
+<!-- marginal: Pemeriksa- -->
+
+Pemeriksa sebagaimana yang difikirkannya perlu bagi
+
+<!-- marginal: Pemeriksa, -->
+
+<!-- marginal: kuasa-kuasa, -->
+
+maksud-maksud Akta ini dan perlantikan tersebut
+
+<!-- marginal: fungsi-fungsi -->
+
+hendaklah disiarkan dalam Warta.
+
+<!-- marginal: dan tugas- -->
+
+<!-- marginal: tugas mereka. -->
+
+(2) Tertakluk kepada subseksyen (3), seseorang Pemeriksa yang dilantik di bawah subseksyen (1) hendaklah mempunyai segala kuasa, fungsi dan tugas yang diberikan di bawah Akta ini.
 
 (3) Seseorang Pemeriksa hendaklah tertakluk kepada arahan dan kawalan Pengurus Besar, atau mana-mana pegawai atau pengkhidmat lain Lembaga yang diberi-
 
 <!-- page 31 -->
 
-kuasa oleh Pengurus Besar untuk bertindak bagi pihaknya, dan mana-mana Pemeriksa lain yang lebih tinggi daripadanya dari segi pangkat, dan hendaklah men- jalankan kuasa-kuasanya, melaksanakan fungsi- fungsinya, dan menunaikan tugas-tugasnya yang disebut dalam subseksyen (2) dengan mematuhi arahan, petunjuk, syarat, sekatan atau batasan sebagaimana yang Pengurus Besar, atau pegawai atau pengkhidmat Lembaga yang diberikuasa untuk bertindak bagi pihaknya, atau Pemeriksa yang lebih tinggi dari segi pangkat, boleh menyatakan secara lisan atau bertulis, sama ada pada amnya, atau dalam mana-mana hal atau hal-keadaan tertentu.
+kuasa oleh Pengurus Besar untuk bertindak bagi pihaknya, dan mana-mana Pemeriksa lain yang lebih tinggi daripadanya dari segi pangkat, dan hendaklah men- jalankan kuasa-kuasanya, melaksanakan
+
+<!-- marginal: fungsi- -->
+
+fungsinya, dan menunaikan tugas-tugasnya yang disebut dalam subseksyen (2) dengan mematuhi arahan, petunjuk, syarat, sekatan atau batasan sebagaimana yang Pengurus Besar, atau pegawai atau pengkhidmat Lembaga yang diberikuasa untuk bertindak bagi pihaknya, atau Pemeriksa yang lebih tinggi dari segi pangkat, boleh menyatakan secara lisan atau bertulis, sama ada pada amnya, atau dalam mana-mana hal atau hal-keadaan tertentu.
 
 (4) Pengurus Besar, Timbalan-Timbalan Pengurus Besar dan Penolong-Penolong Pengurus Besar hendaklah mempunyai segala kuasa Pemeriksa.
 
@@ -1026,11 +1272,19 @@ tempatan bidang kuasanya jika ada yang baginya dia dilantik—
 
 (d) menjalankan mana-mana kuasa lain sebagai- mana yang perlu bagi melaksanakan Akta ini.
 
-Menghalang
+<!-- marginal: Menghalang -->
 
-36. (1) Tiada seorang pun boleh— penjalanan kuasa-kuasa
+36. (1) Tiada seorang pun boleh—
 
-(a) enggan memberi mana-mana Pemeriksa yang Pemeriksa. menjalankan kuasa-kuasanya di bawah seksyen 35, akses kepada. mana-mana premis atau -bahagiannya;
+<!-- marginal: penjalanan -->
+
+<!-- marginal: kuasa-kuasa -->
+
+(a) enggan memberi mana-mana Pemeriksa yang
+
+<!-- marginal: Pemeriksa. -->
+
+menjalankan kuasa-kuasanya di bawah seksyen 35, akses kepada. mana-mana premis atau -bahagiannya;
 
 (b) menyerang, menghalang, menggalang atau melengahkan Pemeriksa itu dalam melakukan apa-apa kemasukan yang dia berhak untuk melakukan;
 
@@ -1080,9 +1334,31 @@ membuatnya atau diletakkan dengan cap ibujarinya mengikut mana yang berkenaan, s
 
 Dengan syarat bahawa tiada pernyataan sedemikian boleh diterima atau digunakan seperti yang disebut terdahulu jika pembuatan pernyataan tersebut ternyata kepada Mahkamah sebagai telah disebabkan oleh apa-apa penindasan, dorongan, ancaman atau janji yang merujuk kepada pertuduhan itu yang datangnya daripada orang yang mempunyai kuasa dan yang mencukupi pada pendapat Mahkamah untuk memberi kepada orang yang dipertuduh itu alasan-alasan yang ternyata kepadanya munasabah bagi mempercayai bahawa dengan membuatnya dia akan memperolehi apa-apa kebaikan atau mengelakkan apa-apa keburukan keduniaan yang merujuk kepada prosiding terhadapnya itu.
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-38. (1) Bagi maksud mendapatkan maklumat penuh bagi Pengurus menentukan sama ada mana-mana orang adalah Besar untuk meminta bertanggungan untuk membayar caruman di bawah Akta maklumat ini, Pengurus Besar boleh melalui notis secara bertulis atau butir- butir dan menghendaki mana-mana orang— menggeledah.
+38. (1) Bagi maksud mendapatkan maklumat penuh bagi
+
+<!-- marginal: Pengurus -->
+
+menentukan sama ada mana-mana orang adalah
+
+<!-- marginal: Besar untuk -->
+
+<!-- marginal: meminta -->
+
+bertanggungan untuk membayar caruman di bawah Akta
+
+<!-- marginal: maklumat -->
+
+ini, Pengurus Besar boleh melalui notis secara bertulis
+
+<!-- marginal: atau butir- -->
+
+<!-- marginal: butir dan -->
+
+menghendaki mana-mana orang—
+
+<!-- marginal: menggeledah. -->
 
 (a) untuk mengemukakan kepada Pengurus Besar dalam masa yang dinyatakan dalam notis itu yang tidak kurang daripada tiga puluh hari dari
 
@@ -1106,9 +1382,73 @@ tarikh notis itu, apa-apa maklumat atau butir- butir yang dinyatakan dalam notis
 
 <!-- page 36 -->
 
-Pengurus
+<!-- marginal: Pengurus -->
 
-39. (1) (a) Pengurus Besar boleh, jika dia berpendapat Besar bahawa mana-mana orang adalah dijangka atau boleh mengeluarkan berkemungkinan untuk meninggalkan Malaysia tanpa perakuan membayar apa-apa wang yang kena dibayar kepada kepada Ketua Polis Negara Kumpulan Wang yang berkenaan dengannya suatu atau Ketua perintah Mahkamah telah didapatkan, mengeluarkan Pengarah kepada Ketua Polis Negara atau Ketua Pengarah Imigresen Imigresen untuk suatu perakuan yang mengandungi amaun-amaun yang melarang kena dibayar kepada Kumpulan Wang bersama dengan mana-mana orang permintaan supaya orang tersebut dilarang daripada daripada meninggalkan Malaysia melainkan dan sehingga dia meninggalkan Malaysia membayar semua amaun yang kena dibayar kepada dalam hal- Kumpulan Wang atau mengemukakan jaminan yang keadaan tertentu. memuaskan hati Pengurus Besar bagi pembayarannya.
+39. (1) (a) Pengurus Besar boleh, jika dia berpendapat
+
+<!-- marginal: Besar -->
+
+bahawa mana-mana orang adalah dijangka atau
+
+<!-- marginal: boleh -->
+
+<!-- marginal: mengeluarkan -->
+
+berkemungkinan untuk meninggalkan Malaysia tanpa
+
+<!-- marginal: perakuan -->
+
+membayar apa-apa wang yang kena dibayar kepada
+
+<!-- marginal: kepada Ketua -->
+
+<!-- marginal: Polis Negara -->
+
+Kumpulan Wang yang berkenaan dengannya suatu
+
+<!-- marginal: atau Ketua -->
+
+perintah Mahkamah telah didapatkan, mengeluarkan
+
+<!-- marginal: Pengarah -->
+
+kepada Ketua Polis Negara atau Ketua Pengarah Imigresen
+
+<!-- marginal: Imigresen -->
+
+<!-- marginal: untuk -->
+
+suatu perakuan yang mengandungi amaun-amaun yang
+
+<!-- marginal: melarang -->
+
+kena dibayar kepada Kumpulan Wang bersama dengan
+
+<!-- marginal: mana-mana -->
+
+<!-- marginal: orang -->
+
+permintaan supaya orang tersebut dilarang daripada
+
+<!-- marginal: daripada -->
+
+meninggalkan Malaysia melainkan dan sehingga dia
+
+<!-- marginal: meninggalkan -->
+
+<!-- marginal: Malaysia -->
+
+membayar semua amaun yang kena dibayar kepada
+
+<!-- marginal: dalam hal- -->
+
+Kumpulan Wang atau mengemukakan jaminan yang
+
+<!-- marginal: keadaan -->
+
+<!-- marginal: tertentu. -->
+
+memuaskan hati Pengurus Besar bagi pembayarannya.
 
 (b) Tertakluk kepada apa-apa perintah yang dikeluarkan atau dibuat di bawah mana-mana undang- undang bertulis yang berhubungan dengan pembuangan negeri atau imigresen, Ketua Polis Negara atau Ketua Pengarah Imigresen apabila menerima sesuatu permintaan di bawah perenggan (a) berkenaan dengan mana-mana orang hendaklah mengambil atau menyebabkan diambil segala langkah (termasuklah menggunakan kekerasan yang munasabah dan penyitaan, pembatalan atau penahanan mana-mana surat pengenalan dan mana-mana pasport, permit keluar atau lain-lain dokumen perjalanan yang berhubungan dengan orang tersebut) sebagaimana yang perlu untuk melaksanakannya.
 
@@ -1198,13 +1538,39 @@ selama suatu tempoh yang tidak melebihi tiga tahun atau didenda tidak melebihi s
 
 (4) Mana-mana orang yang melanggar peruntukan- peruntukan subseksyen (3) adalah melakukan suatu kesalahan.
 
-Tugas
+<!-- marginal: Tugas -->
 
-42. (1) Tiap-tiap majikan hendaklah menyediakan dan majikan memberikan penyata upah kepada setiap dan tiap-tiap untuk orang pekerja dan penyata upah tersebut hendaklah menyediakan dan mengandungi apa-apa maklumat sebagaimana yang memberikan ditetapkan oleh kaedah-kaedah. penyata upah.
+42. (1) Tiap-tiap majikan hendaklah menyediakan dan
+
+<!-- marginal: majikan -->
+
+memberikan penyata upah kepada setiap dan tiap-tiap
+
+<!-- marginal: untuk -->
+
+orang pekerja dan penyata upah tersebut hendaklah
+
+<!-- marginal: menyediakan -->
+
+<!-- marginal: dan -->
+
+mengandungi apa-apa maklumat sebagaimana yang
+
+<!-- marginal: memberikan -->
+
+ditetapkan oleh kaedah-kaedah.
+
+<!-- marginal: penyata upah. -->
 
 (2) Tiap-tiap majikan hendaklah menyediakan dan menyimpan satu atau lebih daftar yang mengandungi apa- apa maklumat sebagaimana yang ditetapkan oleh kaedah- kaedah dan daftar tersebut hendaklah disimpan bagi sesuatu tempoh supaya tiap-tiap butir yang direkodkan di dalamnya boleh didapati bagi pemeriksaan untuk tidak kurang daripada enam tahun selepas ia direkodkan.
 
-43. (1) Tertakluk kepada peruntukan-peruntukan Kadar caruman. seksyen 52, tiap-tiap pekerja dan tiap-tiap majikan kepada seseorang yang merupakan seorang pekerja mengikut pengertian Akta ini hendaklah bertanggungan untuk membayar caruman bulanan pada kadar yang masing- masingnya dinyatakan dalam Jadual Ketiga.
+43. (1) Tertakluk kepada peruntukan-peruntukan
+
+<!-- marginal: Kadar -->
+
+<!-- marginal: caruman. -->
+
+seksyen 52, tiap-tiap pekerja dan tiap-tiap majikan kepada seseorang yang merupakan seorang pekerja mengikut pengertian Akta ini hendaklah bertanggungan untuk membayar caruman bulanan pada kadar yang masing- masingnya dinyatakan dalam Jadual Ketiga.
 
 (2) Mana-mana orang yang menjadi seorang majikan yang gagal, dalam apa-apa tempoh sebagaimana yang ditetapkan oleh Lembaga, untuk membayar kepada Kumpulan Wang apa-apa caruman yang dia ber- tanggungan di bawah Akta ini untuk membayar berkenaan dengan atau bagi pihak mana-mana pekerja berkenaan dengan mana-mana bulan adalah melakukan suatu
 
@@ -1276,17 +1642,71 @@ Dengan syarat bahawa jika kadar dividen bagi sesuatu tahun tertentu belum lagi d
 
 <!-- page 42 -->
 
-46. Jika apa-apa jumlah wang dengan cara caruman Tanggungan bersama dan bersama dengan apa-apa dividen yang kena dibayar ke berasingan atasnya masih tak dibayar oleh sesuatu syarikat, sesuatu bagi pengarah- firma atau sesuatu persatuan orang-orang, maka, walau pengarah, apa pun apa-apa jua yang berlawanan dalam Akta ini dsb. atau mana-mana undang-undang bertulis yang lain, pengarah-pengarah syarikat itu termasuklah mana-mana orang yang pernah menjadi pengarah syarikat itu dalam masa tempoh yang di dalamnya caruman itu ber- tanggungan dibayar, atau pekongsi-pekongsi firma itu, termasuklah mana-mana orang yang pernah menjadi pekongsi firma itu dalam masa tempoh yang di dalamnya caruman itu bertanggungan dibayar, atau pemegang- pemegang jawatan dalam persatuan orang-orang itu, termasuklah mana-mana orang yang pernah menjadi pemegang jawatan dalam persatuan itu dalam masa tempoh yang di dalamnya caruman itu bertanggungan dibayar, mengikut mana yang berkenaan, hendaklah bersama dengan syarikat, firma atau persatuan orang- orang yang bertanggungan untuk membayar caruman tersebut, bersama-sama dan berasingan bertanggungan bagi caruman yang genap masa untuk dibayar dan kena dibayar kepada Kumpulan Wang.
+46. Jika apa-apa jumlah wang dengan cara caruman
 
-Caruman
+<!-- marginal: Tanggungan -->
 
-47. (1) Walau apa pun apa-apa kontrak yang berlawanan, majikan majikan tidaklah berhak memotong daripada upah atau tidak boleh didapatkan saraan pekerja, atau selainnya mendapatkan kembali kembali dari- caruman majikan daripada pekerja. pada pekerja.
+<!-- marginal: bersama dan -->
+
+bersama dengan apa-apa dividen yang kena dibayar ke
+
+<!-- marginal: berasingan -->
+
+atasnya masih tak dibayar oleh sesuatu syarikat, sesuatu
+
+<!-- marginal: bagi -->
+
+<!-- marginal: pengarah- -->
+
+firma atau sesuatu persatuan orang-orang, maka, walau
+
+<!-- marginal: pengarah, -->
+
+apa pun apa-apa jua yang berlawanan dalam Akta ini
+
+<!-- marginal: dsb. -->
+
+atau mana-mana undang-undang bertulis yang lain, pengarah-pengarah syarikat itu termasuklah mana-mana orang yang pernah menjadi pengarah syarikat itu dalam masa tempoh yang di dalamnya caruman itu ber- tanggungan dibayar, atau pekongsi-pekongsi firma itu, termasuklah mana-mana orang yang pernah menjadi pekongsi firma itu dalam masa tempoh yang di dalamnya caruman itu bertanggungan dibayar, atau pemegang- pemegang jawatan dalam persatuan orang-orang itu, termasuklah mana-mana orang yang pernah menjadi pemegang jawatan dalam persatuan itu dalam masa tempoh yang di dalamnya caruman itu bertanggungan dibayar, mengikut mana yang berkenaan, hendaklah bersama dengan syarikat, firma atau persatuan orang- orang yang bertanggungan untuk membayar caruman tersebut, bersama-sama dan berasingan bertanggungan bagi caruman yang genap masa untuk dibayar dan kena dibayar kepada Kumpulan Wang.
+
+<!-- marginal: Caruman -->
+
+47. (1) Walau apa pun apa-apa kontrak yang berlawanan,
+
+<!-- marginal: majikan -->
+
+majikan tidaklah berhak memotong daripada upah atau
+
+<!-- marginal: tidak boleh -->
+
+<!-- marginal: didapatkan -->
+
+saraan pekerja, atau selainnya mendapatkan kembali
+
+<!-- marginal: kembali dari- -->
+
+caruman majikan daripada pekerja.
+
+<!-- marginal: pada pekerja. -->
 
 (2) Jika majikan memotong atau cuba memotong daripada upah atau saraan mana-mana pekerja ke- seluruhan atau mana-mana bahagian daripada caruman majikan, dia adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh dipenjarakan selama suatu tempoh yang tidak melebihi enam tahun atau didenda tidak melebihi dua puluh ribu ringgit atau kedua-duanya.
 
-Mendapatkan
+<!-- marginal: Mendapatkan -->
 
-48. (1) Tertakluk kepada peruntukan-peruntukan kembali ini, majikan hendaklah berhak untuk caruman pekerja mendapatkan kembali daripada pekerja, mengikut oleh majikan. seksyen ini, amaun mana-mana caruman yang kena dibayar bagi pihak pekerja.
+48. (1) Tertakluk kepada peruntukan-peruntukan
+
+<!-- marginal: kembali -->
+
+ini, majikan hendaklah berhak untuk
+
+<!-- marginal: caruman -->
+
+<!-- marginal: pekerja -->
+
+mendapatkan kembali daripada pekerja, mengikut
+
+<!-- marginal: oleh majikan. -->
+
+seksyen ini, amaun mana-mana caruman yang kena dibayar bagi pihak pekerja.
 
 <!-- page 43 -->
 
@@ -1308,11 +1728,27 @@ Dengan syarat bahawa, tertakluk kepada apa- apa syarat sebagairnana yang ditetap
 
 <!-- page 44 -->
 
-(6) Jika mana-mana potongan daripada upah sese- orang pekerja telah dibuat oleh majikan berkenaan dengan caruman pekerja itu kepada Kumpulan Wang tetapi belum lagi dihantar kepada Kumpulan Wang, potongan itu hendaklah disifatkan sebagai sebahagian daripada upah bagi maksud-maksud keutamaan hutang- hutang di bawah seksyen 292 Akta Syarikat 1965 atau Akta 55/67. seksyen 43 Akta Kebankrapan 1967.
+(6) Jika mana-mana potongan daripada upah sese- orang pekerja telah dibuat oleh majikan berkenaan dengan caruman pekerja itu kepada Kumpulan Wang tetapi belum lagi dihantar kepada Kumpulan Wang, potongan itu hendaklah disifatkan sebagai sebahagian daripada upah bagi maksud-maksud keutamaan hutang- hutang di bawah seksyen 292 Akta Syarikat 1965 atau
 
-Faedah
+<!-- marginal: Akta 55/67. -->
 
-49. (1) Jika amaun caruman bulanan atau sebahagian ke atas daripada mana-mana caruman bulanan yang seseorang tunggakan majikan adalah bertanggungan untuk membayar di bawah caruman. seksyen 45 tidak dibayar dalam sesuatu tempoh sebagaimana yang ditetapkan, majikan itu hendaklah bertanggungan, sebagai tambahan kepada dividen yang hendaklah dibayar di bawah seksyen 45 (3), untuk membayar faedah yang hendaklah dikreditkan kepada Kumpulan Wang ke atas amaun tersebut pada apa-apa kadar (yang merupakan suatu kadar tahunan) sebagai- mana yang diisytiharkan oleh Lembaga dari semasa ke semasa berkenaan dengan setiap bulan atau sebahagian daripada sesuatu bulan selepas habisnya tempoh yang di dalamnya itu amaun tersebut masih belum dibayar:
+seksyen 43 Akta Kebankrapan 1967.
+
+<!-- marginal: Faedah -->
+
+49. (1) Jika amaun caruman bulanan atau sebahagian
+
+<!-- marginal: ke atas -->
+
+daripada mana-mana caruman bulanan yang seseorang
+
+<!-- marginal: tunggakan -->
+
+majikan adalah bertanggungan untuk membayar di bawah
+
+<!-- marginal: caruman. -->
+
+seksyen 45 tidak dibayar dalam sesuatu tempoh sebagaimana yang ditetapkan, majikan itu hendaklah bertanggungan, sebagai tambahan kepada dividen yang hendaklah dibayar di bawah seksyen 45 (3), untuk membayar faedah yang hendaklah dikreditkan kepada Kumpulan Wang ke atas amaun tersebut pada apa-apa kadar (yang merupakan suatu kadar tahunan) sebagai- mana yang diisytiharkan oleh Lembaga dari semasa ke semasa berkenaan dengan setiap bulan atau sebahagian daripada sesuatu bulan selepas habisnya tempoh yang di dalamnya itu amaun tersebut masih belum dibayar:
 
 Dengan syarat bahawa—
 
@@ -1418,9 +1854,21 @@ memuaskan hati mahkamah kompeten yang olehnya ahli Kumpulan Wang itu telah disab
 
 <!-- page 48 -->
 
-Kumpulan-
+<!-- marginal: Kumpulan- -->
 
-52. (1) Tiada caruman menjadi kena dibayar kepada kumpulan Kumpulan Wang oleh pekerja-pekerja yang berkenaan wang dengan mereka telah wujud suatu kumpulan wang diluluskan. diluluskan, atau oleh majikan atau majikan-majikan pekerja-pekerja tersebut berkenaan dengan pekerja- pekerja tersebut.
+52. (1) Tiada caruman menjadi kena dibayar kepada
+
+<!-- marginal: kumpulan -->
+
+Kumpulan Wang oleh pekerja-pekerja yang berkenaan
+
+<!-- marginal: wang -->
+
+dengan mereka telah wujud suatu kumpulan wang
+
+<!-- marginal: diluluskan. -->
+
+diluluskan, atau oleh majikan atau majikan-majikan pekerja-pekerja tersebut berkenaan dengan pekerja- pekerja tersebut.
 
 (2) Jika Menteri meminda Jadual Pertama di bawah seksyen 74 dengan memotong mana-mana perenggan- nya, mana-mana majikan atau kumpulan majikan yang sebelum tarikh perintah itu mula berkuatkuasa telah menubuhkan suatu kumpulan wang simpanan atau lain- lain skim untuk faedah kesemua atau sekumpulan pekerja-pekerjanya atau pekerja-pekerja mereka dari- pada perihalan yang dinyatakan dalam perenggan tersebut hendaklah, dalam masa sesuatu tempoh sebagaimana yang Lembaga boleh menurut budi bicara- nya membenarkan, mengemukakan kepada Lembaga butir-butir kumpulan wang simpanan tersebut atau lam- lain skim itu sebagaimana yang ditetapkan atau dalam mana-mana hal tertentu dikehendaki oleh Lembaga, dan jika selepas memeriksa butir-butir tersebut Lembaga berpuas hati bahawa kumpulan wang simpanan tersebut atau lain-lain skim itu sebagaimana yang dipinda jika perlu mengikut apa-apa cara sebagaimana yang dikehendaki oleh Lembaga memperuntukkan bagi seseorang pekerja faedah-faedah yang tidak kurang baiknya daripada faedah-faedah yang diperuntukkan bagi seseorang pekerja oleh Kumpulan Wang, Lembaga boleh, tertakluk kepada apa-apa syarat sebagaimana yang dikenakan olehnya, mengisytiharkan kumpulan wang simpanan tersebut atau lain-lain skim itu menjadi suatu kumpulan wang diluluskan.
 
@@ -1498,19 +1946,55 @@ amaun yang berada pada kredit pekerja tersebut dan seseorang pekerja yang berken
 
 (18) Apa-apa perbelanjaan yang dilakukan oleh Lembaga dalam menguatkuasakan kewajipan-kewajipan kumpulan-kumpulan wang diluluskan di bawah Akta ini hendaklah dibayar balik kepada Lembaga daripada wang kumpulan-kumpulan wang tersebut atas asas keahlian kumpulan-kumpulan wang tersebut.
 
-Penggulungan
+<!-- marginal: Penggulungan -->
 
-53. Kumpulan wang diluluskan bagi pihak berkuasa kumpulan berkanun atau tempatan di bawah skim baru hendaklah wang digulung pada tarikh yang ditetapkan oleh Menteri, diluluskan. melalui pemberitahuan dalam Warta, dalam setiap hal tertentu, dan kesemua aset dan liabiliti kumpulan wang diluluskan tersebut hendaklah dipindahkan kepada Kumpulan Wang dan diperlakukan di bawah Akta ini:
+53. Kumpulan wang diluluskan bagi pihak berkuasa
 
-Dengan syarat bahawa jika terdapat suatu skim pencen bagi pihak berkuasa berkanun atau tempatan mengikut pengertian "kumpulan wang diluluskan" di bawah seksyen 2 Akta ini maka penggulungan skim tersebut hendaklah diperlakukan di bawah seksyen 30 Akta Kumpulan Wang Akta 185. Persaraan Pihakberkuasa-Pihakberkuasa Berkanun dan Tempatan 1977 walau apa pun peruntukan seksyen 52.
+<!-- marginal: kumpulan -->
+
+berkanun atau tempatan di bawah skim baru hendaklah
+
+<!-- marginal: wang -->
+
+digulung pada tarikh yang ditetapkan oleh Menteri,
+
+<!-- marginal: diluluskan. -->
+
+melalui pemberitahuan dalam Warta, dalam setiap hal tertentu, dan kesemua aset dan liabiliti kumpulan wang diluluskan tersebut hendaklah dipindahkan kepada Kumpulan Wang dan diperlakukan di bawah Akta ini:
+
+Dengan syarat bahawa jika terdapat suatu skim pencen bagi pihak berkuasa berkanun atau tempatan mengikut pengertian "kumpulan wang diluluskan" di bawah seksyen 2 Akta ini maka penggulungan skim tersebut hendaklah diperlakukan di bawah seksyen 30 Akta Kumpulan Wang
+
+<!-- marginal: Akta 185. -->
+
+Persaraan Pihakberkuasa-Pihakberkuasa Berkanun dan Tempatan 1977 walau apa pun peruntukan seksyen 52.
 
 ## BAHAGIAN VI
 
 ## PENGELUARAN CARUMAN
 
-Kebenaran
+<!-- marginal: Kebenaran -->
 
-54. (1) Tiada jumlah wang yang berada pada kredit untuk seseorang ahli Kumpulan Wang boleh dikeluarkan kecuali membuat pengeluaran dengan kebenaran Lembaga dan, tertakluk kepada apa- daripada apa peraturan dan kaedah yang dibuat di bawah Akta ini, Kumpulan Wang. kebenaran tersebut tidaklah boleh diberi melainkan jika Lembaga berpuas hati bahawa—
+54. (1) Tiada jumlah wang yang berada pada kredit
+
+<!-- marginal: untuk -->
+
+seseorang ahli Kumpulan Wang boleh dikeluarkan kecuali
+
+<!-- marginal: membuat -->
+
+<!-- marginal: pengeluaran -->
+
+dengan kebenaran Lembaga dan, tertakluk kepada apa-
+
+<!-- marginal: daripada -->
+
+apa peraturan dan kaedah yang dibuat di bawah Akta ini,
+
+<!-- marginal: Kumpulan -->
+
+<!-- marginal: Wang. -->
+
+kebenaran tersebut tidaklah boleh diberi melainkan jika Lembaga berpuas hati bahawa—
 
 (a) ahli Kumpulan Wang itu telah mati;
 
@@ -1530,7 +2014,9 @@ Dengan syarat bahawa—
 
 (a) jika seseorang ahli Kumpulan Wang menge- luarkan di bawah subseksyen (1) (c) apa-apa amaun yang berada pada kreditnya dalam Kumpulan Wang dan dia kemudiannya bekerja dalam mana-mana pekerjaan selanjutnya, dia hendaklah dianggap sebagai pekerja tetapi dia tidaklah boleh mengeluarkan amaun selanjut- nya yang berada pada kreditnya dalam Kumpulan Wang sehingga dia telah mencapai umur lima puluh lima tahun atau selepas luput tempoh lima tahun dari tahun pekerjaan yang selanjutnya, mengikut mana yang ter- kemudian;
 
-(b) jika seseorang ahli Kumpulan Wang membuat pengeluaran di bawah subseksyen (1) (b) atau (1) (d) dan dia kemudiannya bekerja dalam mana-mana pekerjaan, dia boleh memilih untuk membayar caruman bulanan kepada Kumpulan Wang dengan memberi kepada Lembaga dan majikannya, satu bulan notis mengenai niatnya untuk mencarum dan ahli tersebut boleh, pada bila-bila masa, membuat pengeiuaran di bawah subseksyen (1) (b), (1) (c) atau (1) (d), dan jika ahli tersebut telah membuat mana-mana pengeluaran tersebut, dia hendaklah terhenti
+(b) jika seseorang ahli Kumpulan Wang membuat pengeluaran di bawah subseksyen (1) (b) atau
+
+(1) (d) dan dia kemudiannya bekerja dalam mana-mana pekerjaan, dia boleh memilih untuk membayar caruman bulanan kepada Kumpulan Wang dengan memberi kepada Lembaga dan majikannya, satu bulan notis mengenai niatnya untuk mencarum dan ahli tersebut boleh, pada bila-bila masa, membuat pengeiuaran di bawah subseksyen (1) (b), (1) (c) atau (1) (d), dan jika ahli tersebut telah membuat mana-mana pengeluaran tersebut, dia hendaklah terhenti
 
 <!-- page 56 -->
 
@@ -1600,9 +2086,17 @@ subseksyen ini tidaklah menghalang mana-mana ahli Kumpulan Wang daripada mengelu
 
 (2) Pembayaran-pembayaran berkala di bawah subseksyen (1) (a) hendaklah dibuat mengikut apa-apa cara yang ditetapkan oleh Lembaga.
 
-Pelepasan
+<!-- marginal: Pelepasan -->
 
-56. Lembaga, selepas menerima suatu pemberitahuan caruman secara bertulis daripada majikan seseorang pekerja majikan. berpencen yang menyatakan bahawa pekerja berpencen tersebut telah mati dalam perkhidmatan atau akan bersara atas alasan mencapai umur persaraan yang terpakai bagi pekerja berpencen itu atau atas apa-apa alasan lain dan membuat permintaan bagi pengembalian jumlah wang yang bersamaan dengan caruman majikan yang telah dihantar kepada Kumpulan Wang berkenaan dengan pekerja berpencen itu oleh Kerajaan Malaysia atau Kerajaan sesuatu Negeri atau mana-mana pihak berkuasa berkanun atau tempatan atau daripada semua majikan tersebut bagi pekerja berpencen itu, bersama-sama dengan
+56. Lembaga, selepas menerima suatu pemberitahuan
+
+<!-- marginal: caruman -->
+
+secara bertulis daripada majikan seseorang pekerja
+
+<!-- marginal: majikan. -->
+
+berpencen yang menyatakan bahawa pekerja berpencen tersebut telah mati dalam perkhidmatan atau akan bersara atas alasan mencapai umur persaraan yang terpakai bagi pekerja berpencen itu atau atas apa-apa alasan lain dan membuat permintaan bagi pengembalian jumlah wang yang bersamaan dengan caruman majikan yang telah dihantar kepada Kumpulan Wang berkenaan dengan pekerja berpencen itu oleh Kerajaan Malaysia atau Kerajaan sesuatu Negeri atau mana-mana pihak berkuasa berkanun atau tempatan atau daripada semua majikan tersebut bagi pekerja berpencen itu, bersama-sama dengan
 
 <!-- page 59 -->
 
@@ -1650,27 +2144,59 @@ Dengan syarat bahawa seseorang ahli Kumpulan Wang tidaklah boleh dibayar amaun t
 
 ## KESALAHAN DAN PROSIDING
 
-Perisytiharan
+<!-- marginal: Perisytiharan -->
 
-59. Mana-mana orang yang— tak betul, kegagalan
+59. Mana-mana orang yang—
 
-(a) membuat secara lisan atau bertulis atau untuk menandatangani apa-apa perisytiharan, penyata, memberikan penyata, dsb. perakuan atau dokumen lain yang dikehendaki oleh Akta ini atau mana-mana peraturan atau kaedah di bawahnya yang adalah tak benar atau tak betul dalam apa-apa butir; atau
+<!-- marginal: tak betul, -->
+
+<!-- marginal: kegagalan -->
+
+(a) membuat secara lisan atau bertulis atau
+
+<!-- marginal: untuk -->
+
+menandatangani apa-apa perisytiharan, penyata,
+
+<!-- marginal: memberikan -->
+
+<!-- marginal: penyata, dsb. -->
+
+perakuan atau dokumen lain yang dikehendaki oleh Akta ini atau mana-mana peraturan atau kaedah di bawahnya yang adalah tak benar atau tak betul dalam apa-apa butir; atau
 
 (b) gagal atau enggan untuk memberikan atau mengemukakan apa-apa perisytiharan, penyata, perakuan atau dokumen lain yang dikehendaki oleh Akta ini atau mana-mana peraturan atau kaedah di bawahnya supaya diberikan atau dikemukakan,
 
 adalah melakukan suatu kesalahan dan, apabila di- sabitkan, boleh dipenjarakan selama suatu tempoh yang tidak melebihi tiga tahun atau didenda tidak melebihi sepuluh ribu ringgit atau kedua-duanya.
 
-Penalti am.
+<!-- marginal: Penalti am. -->
 
 60. Mana-mana orang yang melanggar mana-mana peruntukan Akta ini atau mana-mana peraturan atau kaedah yang dibuat di bawahnya adalah melakukan suatu kesalahan dan jika tiada penalti khas diperuntukkan dengan nyata dalam Akta ini atau peraturan-peraturan atau kaedah-kaedah yang dibuat di bawahnya itu, apabila disabitkan, boleh dipenjarakan selama suatu tempoh yang tidak melebihi enam bulan atau didenda tidak melebihi dua ribu ringgit atau kedua-duanya.
 
-Percubaan,
+<!-- marginal: Percubaan, -->
 
-61. Mana-mana orang yang— persediaan, pensubahatan
+61. Mana-mana orang yang—
 
-(a) cuba untuk melakukan mana-mana kesalahan dan komplot di bawah Akta ini; boleh dihukum sebagai
+<!-- marginal: persediaan, -->
 
-(b) melakukan apa-apa perbuatan pesediaan kesalahan. kepada atau bagi mencapai perlakuan mana- mana kesalahan di bawah Akta ini; atau
+<!-- marginal: pensubahatan -->
+
+(a) cuba untuk melakukan mana-mana kesalahan
+
+<!-- marginal: dan komplot -->
+
+di bawah Akta ini;
+
+<!-- marginal: boleh -->
+
+<!-- marginal: dihukum -->
+
+<!-- marginal: sebagai -->
+
+(b) melakukan apa-apa perbuatan pesediaan
+
+<!-- marginal: kesalahan. -->
+
+kepada atau bagi mencapai perlakuan mana- mana kesalahan di bawah Akta ini; atau
 
 <!-- page 61 -->
 
@@ -1740,17 +2266,51 @@ itu telah dibuat dan tentang kebenaran kandungannya.
 
 <!-- page 62 -->
 
-Prosiding
+<!-- marginal: Prosiding -->
 
-65. (1) Kesemua caruman yang kena dibayar di bawah sivil bagi Akta ini boleh, tanpa menjejaskan apa-apa remedi lain, mendapatkan kembali didapatkan kembali oleh Lembaga secara terus sebagai caruman. hutang sivil.
+65. (1) Kesemua caruman yang kena dibayar di bawah
+
+<!-- marginal: sivil bagi -->
+
+Akta ini boleh, tanpa menjejaskan apa-apa remedi lain,
+
+<!-- marginal: mendapatkan -->
+
+<!-- marginal: kembali -->
+
+didapatkan kembali oleh Lembaga secara terus sebagai
+
+<!-- marginal: caruman. -->
+
+hutang sivil.
 
 (2) Prosiding bagi mendapatkan kembali secara terus sebagai hutang sivil akan caruman bolehlah dimulakan oleh mana-mana pegawai yang diberikuasa bagi maksud itu melalui arahan khas atau arahan am daripada Pengerusi dan mana-mana pegawai sedemikian bolehlah men- jalankan prosiding tersebut.
 
 (3) Dalam seksyen ini perkataan "caruman" hendaklah disifatkan sebagai termasuk apa-apa dividen dan faedah yang kena dibayar ke atas mana-mana caruman.
 
-Perlindungan
+<!-- marginal: Perlindungan -->
 
-66. Jika, pada bila-bila masa sebelum tarikh bermulanya caruman sesuatu penggulungan dalam hal sesuatu syarikat atau dalam prosiding sebelum pembuatan sesuatu perintah penerimaan dalam pelaksanaan hal seseorang penghutang dalam kebankrapan— atau penjualan di bawah cagaran.
+66. Jika, pada bila-bila masa sebelum tarikh bermulanya
+
+<!-- marginal: caruman -->
+
+sesuatu penggulungan dalam hal sesuatu syarikat atau
+
+<!-- marginal: dalam -->
+
+<!-- marginal: prosiding -->
+
+sebelum pembuatan sesuatu perintah penerimaan dalam
+
+<!-- marginal: pelaksanaan -->
+
+hal seseorang penghutang dalam kebankrapan—
+
+<!-- marginal: atau penjualan -->
+
+<!-- marginal: di bawah -->
+
+<!-- marginal: cagaran. -->
 
 (a) suatu penahanan telah dikeluarkan terhadap harta seseorang majikan sebagai pelaksanaan suatu dekri terhadapnya dan mana-mana harta tersebut telah disita atau dijual atau selainnya dihasilkan menurut pelaksanaan tersebut; atau
 
@@ -1826,9 +2386,35 @@ pertubuhan atau lain-lain kumpulan orang, mana-mana orang yang pada masa perlaku
 
 <!-- page 64 -->
 
-Ahli-ahli
+<!-- marginal: Ahli-ahli -->
 
-70. Tiap-tiap ahli Lembaga, Panel Pelaburan, pegawai Lembaga, dan pengkhidmat Lembaga hendaklah disifatkan sebagai Panel pengkhidmat awam mengikut pengertian Kanun Pelaburan dan pegawai- Keseksaan. pegawai disifatkan sebagai pengkhidmat- pengkhidmat awam
+70. Tiap-tiap ahli Lembaga, Panel Pelaburan, pegawai
+
+<!-- marginal: Lembaga, -->
+
+dan pengkhidmat Lembaga hendaklah disifatkan sebagai
+
+<!-- marginal: Panel -->
+
+pengkhidmat awam mengikut pengertian Kanun
+
+<!-- marginal: Pelaburan dan -->
+
+<!-- marginal: pegawai- -->
+
+Keseksaan.
+
+<!-- marginal: pegawai -->
+
+<!-- marginal: disifatkan -->
+
+<!-- marginal: sebagai -->
+
+<!-- marginal: pengkhidmat- -->
+
+<!-- marginal: pengkhidmat -->
+
+<!-- marginal: awam -->
 
 ## BAHAGIAN VIII
 
@@ -1836,11 +2422,25 @@ Ahli-ahli
 
 ## KAEDAH-KAEDAH
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-71. Menteri boleh, atas syor Lembaga, membuat Menteri peraturan-peraturan— untuk membuat
+71. Menteri boleh, atas syor Lembaga, membuat
 
-(a) untuk mengadakan peruntukan bagi cara peraturan- peraturan. pembayaran dan pemungutan caruman-caruman dan apa-apa perkara yang bersampingan dengannya;
+<!-- marginal: Menteri -->
+
+peraturan-peraturan—
+
+<!-- marginal: untuk -->
+
+<!-- marginal: membuat -->
+
+(a) untuk mengadakan peruntukan bagi cara
+
+<!-- marginal: peraturan- -->
+
+<!-- marginal: peraturan. -->
+
+pembayaran dan pemungutan caruman-caruman dan apa-apa perkara yang bersampingan dengannya;
 
 (b) untuk mengadakan peruntukan bagi penamaan oleh seseorang ahli Kumpulan Wang akan orang- orang yang kepada mereka apa-apa amaun yang berada pada kreditnya dalam Kumpulan Wang pada masa kematiannya hendaklah dibayar setelah kematiannya, bagi cara yang mengikutnya penamaan tersebut boleh dibatalkan dan bagi hal-keadaan dalam mana ia hendaklah dianggap sebagai
 
@@ -1912,9 +2512,25 @@ Wang; atau
 
 dan sesudah itu Akta ini hendaklah terpakai bagi orang, majikan atau pekerja itu, mengikut mana yang berkenaan, tertakluk kepada apa-apa ubahsuaian sebagaimana yang ditetapkan oleh Menteri.
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-73. Lembaga boleh, sebagai tambahan kepada tugas- Lembaga tugas lain yang dikenakan dan kuasa-kuasa yang diberi- untuk membuat kan kepadanya di bawah Akta ini, membuat kaedah- kaedah- kaedah— kaedah.
+73. Lembaga boleh, sebagai tambahan kepada tugas-
+
+<!-- marginal: Lembaga -->
+
+tugas lain yang dikenakan dan kuasa-kuasa yang diberi-
+
+<!-- marginal: untuk -->
+
+<!-- marginal: membuat -->
+
+kan kepadanya di bawah Akta ini, membuat kaedah-
+
+<!-- marginal: kaedah- -->
+
+kaedah—
+
+<!-- marginal: kaedah. -->
 
 (a) untuk mengadakan peruntukan bagi pem- bayaran segala caruman di bawah Akta ini atau mana-mana bahagiannya, yang tertinggal daripada dibayar;
 
@@ -1958,9 +2574,19 @@ termasuklah pegawai-pegawai sementara dan pegawai-pegawai kontrak Lembaga;
 
 (n) untuk menetapkan apa-apa jua yang di bawah Akta ini boleh ditetapkan oleh Lembaga.
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-74. Menteri boleh, melalui perintah yang diberitahu Menteri dalam Warta, meminda, menambah kepada atau untuk meminda mengubah mana-mana Jadual kepada Akta ini.
+74. Menteri boleh, melalui perintah yang diberitahu
+
+<!-- marginal: Menteri -->
+
+dalam Warta, meminda, menambah kepada atau
+
+<!-- marginal: untuk -->
+
+<!-- marginal: meminda -->
+
+mengubah mana-mana Jadual kepada Akta ini.
 
 ## Jadual-
 
@@ -1994,7 +2620,9 @@ IX
 
 <!-- marginal: Pekerja -->
 
-yang dimansuhkan") hendaklah terhenti
+yang dimansuhkan") hendaklah
+
+<!-- marginal: terhenti -->
 
 <!-- marginal: 1951. -->
 
@@ -2026,17 +2654,43 @@ Dengan syarat bahawa apa-apa sebutan di dalamnya mengenai Lembaga KWSP hendaklah
 
 (2) Semua perintah, arahan, perlantikan, pemberi- tahuan, peraturan dan kaedah yang dibuat di bawah peruntukan-peruntukan Akta yang dimansuhkan itu dan berkuatkuasa sebelum sahaja hari ditetapkan hendaklah, setakat yang ia tidak tak konsisten dengan peruntukan- peruntukan Akta ini, disifatkan telah dibuat di bawah Akta ini, dan hendaklah terus berkuatkuasa sehingga peruntukan-peruntukan lain adalah dibuat di bawah Akta ini atau sehingga tarikh yang padanya ia habis tempoh.
 
-Pemindahan
+<!-- marginal: Pemindahan -->
 
-77. Tertakluk kepada peruntukan-peruntukan Akta ini, kuasa, hak, semua kuasa, hak, keistimewaan, tugas, liabiliti atau liabiliti dan tugas. kewajipan yang sebelum sahaja hari ditetapkan adalah kuasa, hak, keistimewaan, tugas, liabiliti atau kewajipan Lembaga KWSP hendaklah dari hari itu diturunkan kepada Lembaga.
+77. Tertakluk kepada peruntukan-peruntukan Akta ini,
 
-Pemindahan
+<!-- marginal: kuasa, hak, -->
 
-78. (1) Tertakluk kepada peruntukan-peruntukan Akta harta. ini, semua tanah yang sebelum sahaja hari ditetapkan terletakhak pada Lembaga KWSP hendaklah, pada hari itu, terletakhak pada Lembaga.
+semua kuasa, hak, keistimewaan, tugas, liabiliti atau
+
+<!-- marginal: liabiliti dan -->
+
+<!-- marginal: tugas. -->
+
+kewajipan yang sebelum sahaja hari ditetapkan adalah kuasa, hak, keistimewaan, tugas, liabiliti atau kewajipan Lembaga KWSP hendaklah dari hari itu diturunkan kepada Lembaga.
+
+<!-- marginal: Pemindahan -->
+
+78. (1) Tertakluk kepada peruntukan-peruntukan Akta
+
+<!-- marginal: harta. -->
+
+ini, semua tanah yang sebelum sahaja hari ditetapkan terletakhak pada Lembaga KWSP hendaklah, pada hari itu, terletakhak pada Lembaga.
 
 (2) Tertakluk kepada peruntukan-peruntukan Akta ini dan kepada mana-mana arahan Menteri, semua harta dan aset selain daripada tanah yang sebelum sahaja hari ditetapkan adalah terletakhak pada Lembaga KWSP atau pada mana-mana orang bagi pihak Lembaga KWSP hendaklah pada hari itu terletakhak pada Lembaga.
 
-79. Tertakluk kepada peruntukan-peruntukan Akta ini, Kontrak- kontrak semua suratikatan, bon, perjanjian, suratcara dan per- yang sedia ada. kiraan kerja yang wujud sebelum sahaja hari ditetapkan dan menyentuh mana-mana harta yang dipindahkan di bawah seksyen 78 hendaklah mempunyai kuatkuasa dan kesan yang penuh terhadap atau menyebelahi Lembaga dan boleh dikuatkuasakan sepenuhnya dan seberkesan- nya seolah-olah Lembaga, dan bukannya Lembaga KWSP atau mana-mana orang yang bertindak bagi pihak Lembaga KWSP, telah dinamakan di dalamnya atau telah menjadi suatu pihak kepadanya.
+79. Tertakluk kepada peruntukan-peruntukan Akta ini,
+
+<!-- marginal: Kontrak- -->
+
+<!-- marginal: kontrak -->
+
+semua suratikatan, bon, perjanjian, suratcara dan per-
+
+<!-- marginal: yang sedia -->
+
+<!-- marginal: ada. -->
+
+kiraan kerja yang wujud sebelum sahaja hari ditetapkan dan menyentuh mana-mana harta yang dipindahkan di bawah seksyen 78 hendaklah mempunyai kuatkuasa dan kesan yang penuh terhadap atau menyebelahi Lembaga dan boleh dikuatkuasakan sepenuhnya dan seberkesan- nya seolah-olah Lembaga, dan bukannya Lembaga KWSP atau mana-mana orang yang bertindak bagi pihak Lembaga KWSP, telah dinamakan di dalamnya atau telah menjadi suatu pihak kepadanya.
 
 <!-- page 71 -->
 
@@ -2092,21 +2746,53 @@ sebagai diambil bekerja sebagai pegawai atau peng-
 
 khidmat, mengikut mana yang berkenaan, Lembaga atas terma-terma dan syarat-syarat perkhidmatan yang sama seperti yang terdapat sebelum sahaja hari ditetapkan itu.
 
-Prosiding
+<!-- marginal: Prosiding -->
 
-83. Semua prosiding tatatertib yang, sebelum sahaja tatatertib hari ditetapkan, belum selesai terhadap mana-mana yang belum selesai. pegawai atau pengkhidmat Lembaga KWSP pada atau selepas tarikh itu, boleh diteruskan terhadap pegawai atau pengkhidmat itu oleh pihak berkuasa yang ber- kenaan bagi Lembaga yang ditubuhkan oleh Akta ini.
+83. Semua prosiding tatatertib yang, sebelum sahaja
 
-Pemindahan
+<!-- marginal: tatatertib -->
 
-84. Tiap-tiap pekerja yang sebelum sahaja hari ditetapkan ahli adalah ahli Kumpulan Wang yang ditubuhkan di bawah Kumpulan Wang. seksyen 4 Akta yang dimansuhkan itu hendaklah pada tarikh itu menjadi ahli Kumpulan Wang dan tertakluk kepada semua peruntukan Akta ini berhubungan dengan ahli Kumpulan Wang.
+hari ditetapkan, belum selesai terhadap mana-mana
 
-Pemindahan
+<!-- marginal: yang belum -->
 
-85. Tiap-tiap majikan yang didaftarkan di bawah pendaftaran peruntukan-peruntukan Akta yang dimansuhkan itu atau majikan. kaedah-kaedah yang dibuat di bawahnya hendaklah disifatkan telah didaftarkan di bawah Akta ini.
+<!-- marginal: selesai. -->
 
-Menghalang
+pegawai atau pengkhidmat Lembaga KWSP pada atau selepas tarikh itu, boleh diteruskan terhadap pegawai atau pengkhidmat itu oleh pihak berkuasa yang ber- kenaan bagi Lembaga yang ditubuhkan oleh Akta ini.
 
-86. (1) Jika apa-apa kesukaran timbul berkenaan dengan anomali. peruntukan-peruntukan peralihan yang tersebut di atas dalam Akta ini Menteri boleh melalui perintah membuat apa-apa ubahsuaian dalam peruntukan-peruntukan tersebut sebagaimana yang didapatinya perlu bagi menghalang anomali:
+<!-- marginal: Pemindahan -->
+
+84. Tiap-tiap pekerja yang sebelum sahaja hari ditetapkan
+
+<!-- marginal: ahli -->
+
+adalah ahli Kumpulan Wang yang ditubuhkan di bawah
+
+<!-- marginal: Kumpulan -->
+
+<!-- marginal: Wang. -->
+
+seksyen 4 Akta yang dimansuhkan itu hendaklah pada tarikh itu menjadi ahli Kumpulan Wang dan tertakluk kepada semua peruntukan Akta ini berhubungan dengan ahli Kumpulan Wang.
+
+<!-- marginal: Pemindahan -->
+
+85. Tiap-tiap majikan yang didaftarkan di bawah
+
+<!-- marginal: pendaftaran -->
+
+peruntukan-peruntukan Akta yang dimansuhkan itu atau
+
+<!-- marginal: majikan. -->
+
+kaedah-kaedah yang dibuat di bawahnya hendaklah disifatkan telah didaftarkan di bawah Akta ini.
+
+<!-- marginal: Menghalang -->
+
+86. (1) Jika apa-apa kesukaran timbul berkenaan dengan
+
+<!-- marginal: anomali. -->
+
+peruntukan-peruntukan peralihan yang tersebut di atas dalam Akta ini Menteri boleh melalui perintah membuat apa-apa ubahsuaian dalam peruntukan-peruntukan tersebut sebagaimana yang didapatinya perlu bagi menghalang anomali:
 
 Dengan syarat bahawa Menteri tidaklah boleh menjalankan kuasa-kuasa yang diberi oleh seksyen ini selepas habis tempoh dua tahun dari hari ditetapkan.
 
@@ -2512,7 +3198,11 @@ Oleh Oleh
 
 <!-- marginal: Jumlah -->
 
-Pekerja Majikan Caruman Upah
+Pekerja Majikan
+
+<!-- marginal: Caruman -->
+
+Upah
 
 Dari 1,300.01 hingga 1,320.00 119.00 146.00
 
@@ -2566,7 +3256,11 @@ Dari 1,540.01 hingga 1,560.00 141.00 172.00
 
 <!-- marginal: 313.00 -->
 
-Dari 1,560.01 hingga 1,580.00 143.00 174.00 317.00 Dari 1,580.01 hingga 1,600.00 144.00 176.00
+Dari 1,560.01 hingga 1,580.00 143.00 174.00
+
+<!-- marginal: 317.00 -->
+
+Dari 1,580.01 hingga 1,600.00 144.00 176.00
 
 <!-- marginal: 320.00 -->
 
@@ -4144,9 +4838,7 @@ III
 
 25. Fasal 28 bertujuan mengadakan peruntukan bagi pendahuluan daripada Kumpulan Wang Disatukan Persekutuan bagi pembayaran apa-apa jumlah wang yang Kumpulan Wang dikehendaki membayar di bawah Akta ini.
 
-26. Fasal 29 bertujuan memperuntukkan bahawa akaun tahunan Kumpulan Wang hendaklah diaudit mengikut peruntukan- peruntukan Akta Badan Berkanun (Akaun dan Laporan Tahunan)
-
-1980.
+26. Fasal 29 bertujuan memperuntukkan bahawa akaun tahunan Kumpulan Wang hendaklah diaudit mengikut peruntukan- peruntukan Akta Badan Berkanun (Akaun dan Laporan Tahunan) 1980.
 
 <!-- page 91 -->
 

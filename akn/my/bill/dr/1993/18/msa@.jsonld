@@ -75,7 +75,7 @@
       },
       "schema:text": {
         "@language": "ms",
-        "@value": "\"Akta ibu\" dalam Akta ini, adalah dipinda dengan menggantikan subperenggan (1) (b) (ii) dengan yang berikut: \"(ii) dalam segala hal lain, kepada anggota-anggota pertubuhan mengikut pertubuhan itu, atau jika tidak ada kaedah- kaedah sedemikian, maka Pegawai Pemegang Harta atau mana-mana pegawai lain hendaklah menyediakan suatu skim bagi penggunaan aset yang lebih itu untuk kelulusan Mahkamah Tinggi;\". Pemotongan"
+        "@value": "\"Akta ibu\" dalam Akta ini, adalah dipinda dengan menggantikan subperenggan (1) (b) (ii) dengan yang berikut: \"(ii) dalam segala hal lain, kepada anggota-anggota pertubuhan mengikut kaedah-kaedah pertubuhan itu, atau jika tidak ada kaedah- kaedah sedemikian, maka Pegawai Pemegang Harta atau mana-mana pegawai lain hendaklah menyediakan suatu skim bagi penggunaan aset yang lebih itu untuk kelulusan Mahkamah Tinggi;\"."
       }
     },
     {
@@ -85,7 +85,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/18/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Subseksyen 17s (4) kepada Akta ibu adalah dipotong. subseksyen 17a (4)."
+        "@value": "Subseksyen 17s (4) kepada Akta ibu adalah dipotong."
       }
     }
   ]

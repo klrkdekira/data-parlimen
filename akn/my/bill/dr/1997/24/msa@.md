@@ -8,9 +8,7 @@
 
 bernama
 
-Suatu Akta untuk meminda Akta Pengambilan Tanah
-
-1960. [ ]
+Suatu Akta untuk meminda Akta Pengambilan Tanah 1960. [ ]
 
 ## MAKA INILAH DIPERBUAT UNDANG-UNDANG
 
@@ -66,7 +64,19 @@ purpose of human habitation or otherwise, any wall, fence, platform, sewerage sy
 
 (d) dengan memasukkan selepas takrif "Court" takrif yang berikut:
 
-' "development approval" means any approval for the carrying out of any building, engineering, industrial, or other similar operation in, on, over, or under any land, or for the making of any material change in the restriction or condition relating to land use, that has been duly granted by the appropriate Act 172. authority under the Town and Country Planning Act 1976 or continues to be in force by virtue of section 59(1) of that Act, or that Act 267. has been granted under the Federal Territory Act 133. (Planning) Act 1982, the Street, Drainage and Building Act 1974, or the State land law, as the case may be;
+' "development approval" means any approval for the carrying out of any building, engineering, industrial, or other similar operation in, on, over, or under any land, or for the making of any material change in the restriction or condition relating to land use, that has been duly granted by the appropriate
+
+<!-- marginal: Act 172. -->
+
+authority under the Town and Country Planning Act 1976 or continues to be in force by virtue of section 59(1) of that Act, or that
+
+<!-- marginal: Act 267. -->
+
+has been granted under the Federal Territory
+
+<!-- marginal: Act 133. -->
+
+(Planning) Act 1982, the Street, Drainage and Building Act 1974, or the State land law, as the case may be;
 
 "Economic Planning Unit" means the Economic Planning Unit of the Prime Minister's Department of Malaysia or any other body or authority authorised by the Government, administratively or otherwise,
 
@@ -104,11 +114,17 @@ to perform the functions of the Economic Planning Unit;';
 
 (k) dengan memasukkan selepas takrif "State land law" takrif yang berikut:
 
-' "valuer" means a valuation officer employed by the Government or a registered valuer or appraiser registered under the Act 242. Valuers, Appraisers and Estate Agents Act 1981.'.
+' "valuer" means a valuation officer employed by the Government or a registered valuer or appraiser registered under the
 
-Pindaan
+<!-- marginal: Act 242. -->
 
-3. Seksyen 3 Akta ibu adalah dipinda— seksyen 3.
+Valuers, Appraisers and Estate Agents Act 1981.'.
+
+<!-- marginal: Pindaan -->
+
+3. Seksyen 3 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 3. -->
 
 (a) dengan menomborkan semula seksyen yang sedia ada sebagai subseksyen (1);
 
@@ -148,9 +164,33 @@ seksyen 3 seksyen yang berikut:
 
 <!-- marginal: 3D, 3E dan 3F. -->
 
-"Matters
+<!-- marginal: "Matters -->
 
-3A. (1) The State Economic Planning Unit, or to be the Committee for the Federal Territory of Kuala considered by the State Lumpur, as the case may be, shall consider Economic the application referred to in section 3(4) on Planning Unit, or the following aspects: Committee, etc.
+3A. (1) The State Economic Planning Unit, or
+
+<!-- marginal: to be -->
+
+the Committee for the Federal Territory of Kuala
+
+<!-- marginal: considered -->
+
+<!-- marginal: by the State -->
+
+Lumpur, as the case may be, shall consider
+
+<!-- marginal: Economic -->
+
+the application referred to in section 3(4) on
+
+<!-- marginal: Planning -->
+
+<!-- marginal: Unit, or -->
+
+the following aspects:
+
+<!-- marginal: Committee, -->
+
+<!-- marginal: etc. -->
 
 (a) public interest;
 
@@ -174,7 +214,9 @@ seksyen 3 seksyen yang berikut:
 
 Pengambilan Tanah (Pindaan) 7
 
-(6) Where the State Economic Planning Unit, or the Committee for the Federal Territory of Kuala Lumpur, as the case may be, is satisfied that the negotiations made pursuant to subsection (3) are unsuccessful or no conclusive decision has been achieved within the specified period, the State Economic Planning Unit or the Committee for the Federal Territory of Kuala Lumpur may proceed to consider the application and make any recommendation as it deems fit:
+(6) Where the State Economic Planning Unit, or the Committee for the Federal Territory of Kuala Lumpur, as the case may be, is satisfied that the negotiations made pursuant to subsection
+
+(3) are unsuccessful or no conclusive decision has been achieved within the specified period, the State Economic Planning Unit or the Committee for the Federal Territory of Kuala Lumpur may proceed to consider the application and make any recommendation as it deems fit:
 
 Provided that the recommendation shall not extend to compelling the registered proprietor to accept any participation in the project.
 
@@ -186,7 +228,25 @@ Provided that the recommendation shall not extend to compelling the registered p
 
 Provided that where the Committee for the Federal Territory of Kuala Lumpur makes a recommendation to the State Authority such recommendation, where applicable, may include the imposition of any condition and restriction in interest on the land as provided in the State land law.
 
-Application 3B. In respect of an application under section of section 3(2), where there is no development approval 3A where there is no for the land, section 3A shall not apply except development the provisions contained in subsections (l)(a), approval.
+<!-- marginal: Application -->
+
+3B. In respect of an application under section
+
+<!-- marginal: of section -->
+
+3(2), where there is no development approval
+
+<!-- marginal: 3A where -->
+
+<!-- marginal: there is no -->
+
+for the land, section 3A shall not apply except
+
+<!-- marginal: development -->
+
+the provisions contained in subsections (l)(a),
+
+<!-- marginal: approval. -->
 
 (b), (c) and (7):
 
@@ -196,9 +256,13 @@ Provided that where the State Economic Planning Unit, or the Committee for the F
 
 (4), (5), (6) and (7) shall apply with the necessary modifications.
 
-The
+<!-- marginal: The -->
 
-3C. (1) For the purposes of this Act, there shall Committee. be established a Committee to be known as the "Jawatankuasa Khas Pengambilan Tanah".
+3C. (1) For the purposes of this Act, there shall
+
+<!-- marginal: Committee. -->
+
+be established a Committee to be known as the "Jawatankuasa Khas Pengambilan Tanah".
 
 (2) The Committee shall—
 
@@ -222,17 +286,37 @@ The
 
 (ii) the Under Secretary of the Federal Territory Development and Klang Valley Planning Division, Prime Minister's Department; (iii) a representative of the Economic Planning Unit, as Secretary; (iv) the Land Administrator of the Federal Territory; (v) the Director General of Lands and Mines or his representative; (vi) the Commissioner of the City of Kuala Lumpur or his representative; and (vii) representatives of other related Government departments or agencies as may be determined by the Chairman.
 
-Evaluation 3D. (1) On receiving the application referred by the State to in section 3A(7) or 3B, as the case may be, Committee. the Committee, in the case of a State, shall evaluate the appropriateness of the application and shall, not later than two months from the date of receiving the application, transmit it to the State Authority together with such recommendation as it thinks fit.
+<!-- marginal: Evaluation -->
+
+3D. (1) On receiving the application referred
+
+<!-- marginal: by the State -->
+
+to in section 3A(7) or 3B, as the case may be,
+
+<!-- marginal: Committee. -->
+
+the Committee, in the case of a State, shall evaluate the appropriateness of the application and shall, not later than two months from the date of receiving the application, transmit it to the State Authority together with such recommendation as it thinks fit.
 
 (2) The recommendation in subsection (1) may, where applicable, include the imposition of any condition and restriction in interest on the land as provided in the State land law.
 
-(3) Where the Committee fails to transmit the application to the State Authority within the period of two months specified in subsection (1), the State Authority may direct the State Economic Planning Unit to transmit forthwith directly to the State Authority the application, the accompanying documents referred to in section 3(3) and a report of the negotiations referred to in section 3A(4), if any, together with the State Economic Planning Unit's recommendations.
+(3) Where the Committee fails to transmit the application to the State Authority within the period of two months specified in subsection
+
+(1), the State Authority may direct the State Economic Planning Unit to transmit forthwith directly to the State Authority the application, the accompanying documents referred to in section 3(3) and a report of the negotiations referred to in section 3A(4), if any, together with the State Economic Planning Unit's recommendations.
 
 <!-- page 10 -->
 
-Decision of
+<!-- marginal: Decision of -->
 
-3E. (1) On receiving the application referred State to in section 3A(7)(b) or 3D, as the case may Authority. be, the State Authority may approve or reject the application.
+3E. (1) On receiving the application referred
+
+<!-- marginal: State -->
+
+to in section 3A(7)(b) or 3D, as the case may
+
+<!-- marginal: Authority. -->
+
+be, the State Authority may approve or reject the application.
 
 (2) Notwithstanding subsection (1), the State Authority shall not approve the application for the acquisition of land for any purpose larger in area than that needed for that purpose.
 
@@ -242,9 +326,23 @@ Decision of
 
 (5) Where the State Authority has rejected any application under subsection (1), it shall notify the Land Administrator who shall forthwith inform the applicant and refund the full amount of the deposit paid, without payment of any interest within a period of three months.
 
-Withdrawal
+<!-- marginal: Withdrawal -->
 
-3F. (1) Any applicant may withdraw from the from acquisition of any land before the publication acquisition by the of the declaration under section 8 by giving a applicant. notice in writing to the Land Administrator.
+3F. (1) Any applicant may withdraw from the
+
+<!-- marginal: from -->
+
+acquisition of any land before the publication
+
+<!-- marginal: acquisition -->
+
+<!-- marginal: by the -->
+
+of the declaration under section 8 by giving a
+
+<!-- marginal: applicant. -->
+
+notice in writing to the Land Administrator.
 
 (2) Where the applicant withdraws from any acquisition under subsection (1), or where the applicant is deemed to have withdrawn his application under section 3E(4), the Land Administrator shall conduct an enquiry to
 
@@ -304,7 +402,9 @@ seksyen 9 seksyen yang berikut:
 
 (c) if there is a development plan, the land use indicated in the development plan for the scheduled land.
 
-(2) The State Director of Town and Country Planning shall, for the purpose of subsection (1), request for the information from the local planning authority.
+(2) The State Director of Town and Country Planning shall, for the purpose of subsection
+
+(1), request for the information from the local planning authority.
 
 (3) The local planning authority, upon receiving the request for information under subsection (2), shall provide the information required within two weeks of the request being made by the State Director of Town and Country Planning.
 
@@ -314,7 +414,9 @@ seksyen 9 seksyen yang berikut:
 
 (6) Non-compliance with the time period stipulated in subsections (3) and (4) shall not invalidate the acquisition or the award.
 
-(7) Subsections l(b) and (c), (4), (5) and (6) shall apply in respect of the Federal Territory of Kuala Lumpur except that for references to the State Director of Town and Country Planning there shall be substituted references to the Commissioner of the City of Kuala Lumpur.".
+(7) Subsections l(b) and (c), (4), (5) and
+
+(6) shall apply in respect of the Federal Territory of Kuala Lumpur except that for references to the State Director of Town and Country Planning there shall be substituted references to the Commissioner of the City of Kuala Lumpur.".
 
 <!-- page 13 -->
 
@@ -376,9 +478,11 @@ memasukkan selepas perkataan "State Authority" perkataan "or, in the case of a p
 
 (b) dalam subseksyen (2), dengan memotong perkataan ", or such deed or deeds relate," dan perkataan ", deed or deeds, as the case may be,".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-15. Seksyen 27 Akta ibu adalah dipinda— seksyen 27.
+15. Seksyen 27 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 27. -->
 
 (a) dalam nota birai, dengan memotong perkataan "and deeds";
 
@@ -388,19 +492,25 @@ Pindaan
 
 (d) dengan memotong perkataan "or other deed evidencing title" di mana-mana jua terdapat dalam subseksyen (3).
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-16. Subseksyen 29A(5) Akta ibu adalah dipinda dengan seksyen 29A. menggantikan perkataan "interest" dengan perkataan "late payment charges".
+16. Subseksyen 29A(5) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 29A. -->
 
-17. Seksyen 32 Akta ibu adalah dipinda— seksyen 32.
+menggantikan perkataan "interest" dengan perkataan "late payment charges".
+
+<!-- marginal: Pindaan -->
+
+17. Seksyen 32 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 32. -->
 
 (a) dalam nota birai, dengan menggantikan perkataan "Payment of interest" dengan perkataan "Late payment charges"; dan
 
 (b) dengan menggantikan perkataan "interest" di mana-mana jua terdapat dalam subseksyen (1), (1B) dan (2) dengan perkataan "late payment charges".
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
 18. Akta ibu adalah dipinda dengan memasukkan selepas
 
@@ -454,7 +564,9 @@ menggantikan perkataan "three" dengan perkataan "six".
 
 <!-- page 16 -->
 
-16 Rang Undang-Undang
+<!-- marginal: 16 -->
+
+Rang Undang-Undang
 
 (ii) dengan menggantikan perkataan "such sum not exceeding one thousand five hundred ringgit, or the amount of the Land Administrator's award," dengan perkataan "a sum of three thousand ringgit or ten per cent of the amount claimed"; dan
 
@@ -466,11 +578,27 @@ menggantikan perkataan "three" dengan perkataan "six".
 
 (ii) dengan menggantikan perkataan "fourteen" dengan perkataan "thirty".
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
-23. Akta ibu adalah dipinda dengan memasukkan selepas 40A, 40B, 40C seksyen 39, di bawah tajuk "The Court", seksyen yang dan 40D. berikut:
+23. Akta ibu adalah dipinda dengan memasukkan selepas
 
-Consti- 40A. (1) Except as provided in this section the tution of Court shall consist of a Judge sitting alone. the Court.
+<!-- marginal: 40A, 40B, 40C -->
+
+seksyen 39, di bawah tajuk "The Court", seksyen yang
+
+<!-- marginal: dan 40D. -->
+
+<!-- marginal: berikut: -->
+
+<!-- marginal: Consti- -->
+
+40A. (1) Except as provided in this section the
+
+<!-- marginal: tution of -->
+
+Court shall consist of a Judge sitting alone.
+
+<!-- marginal: the Court. -->
 
 (2) Where the objection before the Court is in regard to the amount of compensation, the Court shall appoint two assessors (one of whom shall be valuation officer employed by the Government) for the purpose of aiding the Judge in determining the objection and in arriving at a fair and reasonable amount of compensation.
 
@@ -482,7 +610,7 @@ Consti- 40A. (1) Except as provided in this section the tution of Court shall co
 
 (5) The Director General of the Valuation and Property Services Department shall submit a list of names of valuation officers employed by the Government and the offices to which they are attached or posted to every High Court before the thirty-first day of December of each calendar year.
 
-Assessors.
+<!-- marginal: Assessors. -->
 
 40B. (1) Every person appointed as an assessor under section 40A shall be legally bound to attend and serve as an assessor unless excused for some reason to be approved by the Judge.
 
@@ -500,21 +628,49 @@ five hundred ringgit a day, or such higher figure as the Minister may, with the 
 
 (6) The fee of an assessor shall be deemed to be costs in the proceeding.
 
-Opinion of 40C. The opinion of each assessor on the various assessors. heads of compensation claimed by all persons interested shall be given in writing and shall be recorded by the Judge.
+<!-- marginal: Opinion of -->
 
-Decision of 40D. (1) In a case before the Court as to the the Court on amount of compensation or as to the amount compensa- tion. of any of its items the amount of compensation to be awarded shall be the amount decided upon by the two assessors.
+40C. The opinion of each assessor on the various
+
+<!-- marginal: assessors. -->
+
+heads of compensation claimed by all persons interested shall be given in writing and shall be recorded by the Judge.
+
+<!-- marginal: Decision of -->
+
+40D. (1) In a case before the Court as to the
+
+<!-- marginal: the Court on -->
+
+amount of compensation or as to the amount
+
+<!-- marginal: compensa- -->
+
+<!-- marginal: tion. -->
+
+of any of its items the amount of compensation to be awarded shall be the amount decided upon by the two assessors.
 
 (2) Where the assessors have each arrived at a decision which differs from each other then the Judge, having regard to the opinion of each assessor, shall elect to concur with the decision of one of the assessors and the amount of compesation to be awarded shall be the amount decided upon by that assessor.
 
 (3) Any decision made under this section is final and there shall be no further appeal to a higher Court on the matter.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-24. Seksyen 45 Akta ibu adalah dipinda dengan seksyen 45. memasukkan selepas subseksyen (1) subseksyen yang berikut:
+24. Seksyen 45 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 45. -->
+
+memasukkan selepas subseksyen (1) subseksyen yang
+
+<!-- marginal: berikut: -->
 
 "(1A) The provisions of the Third Schedule shall apply to every proceeding under this Part.
 
-(1B) The Rules Committee appointed under Act 91. the Courts of Judicature Act 1964 may amend the provisions of the Third Schedule relating to the procedure to be followed by the Court in all proceedings under this Act.".
+(1B) The Rules Committee appointed under
+
+<!-- marginal: Act 91. -->
+
+the Courts of Judicature Act 1964 may amend the provisions of the Third Schedule relating to the procedure to be followed by the Court in all proceedings under this Act.".
 
 <!-- page 19 -->
 
@@ -572,9 +728,11 @@ ada sebagai Subseksyen (1); dan
 
 <!-- page 20 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-30. Seksyen 64 Akta ibu adalah dipinda— seksyen 64.
+30. Seksyen 64 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 64. -->
 
 (a) dengan menomborkan semula perenggan (a) dan
 
@@ -586,13 +744,19 @@ Pindaan
 
 (c) dengan menggantikan perkataan "one month, or to a fine not exceeding two hundred ringgit" dengan perkataan "six months, or to a fine not exceeding five thousand ringgit".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-31. Seksyen 66 Akta ibu adalah dipinda dengan seksyen 66. memasukkan selepas perkataan "as State land" perkataan "or, in the case of a parcel of a subdivided building, in the person or corporation on whose behalf the parcel was acquired,".
+31. Seksyen 66 Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 66. -->
 
-32. Seksyen 69 Akta ibu adalah dipinda— seksyen 69.
+memasukkan selepas perkataan "as State land" perkataan "or, in the case of a parcel of a subdivided building, in the person or corporation on whose behalf the parcel was acquired,".
+
+<!-- marginal: Pindaan -->
+
+32. Seksyen 69 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 69. -->
 
 (a) dalam perenggan (c)—
 
@@ -606,25 +770,29 @@ Pindaan
 
 <!-- page 21 -->
 
-<!-- marginal: Pindaan -->
+Pindaan
 
 33. Jadual Pertama kepada Akta ibu adalah dipinda—
 
 ## Jadual
 
-<!-- marginal: Pertama. -->
+Pertama.
 
 (a) dalam perenggan 1—
 
 (i) dalam sub-subperenggan ( l )( a ), dengan menggantikan perkataan "six" dengan perkataan "twelve";
 
-(ii) dengan memasukkan selepas subperenggan (1) subperenggan yang berikut:
+(ii) dengan memasukkan selepas subperenggan
+
+(1) subperenggan yang berikut:
 
 "(1A) In assessing the market value of any scheduled land, the valuer may use any suitable method of valuation to arrive at the market value provided that regard may be had to the prices paid for the recent sales of lands with similar characteristics as the scheduled land which are situated within the vicinity of the scheduled land and with particular consideration being given to the last transaction on the scheduled land within two years from the date with reference to which the scheduled land is to be assessed under subparagraph (1).
 
 (1B) Where only a part of the land is to be acquired, the market value of the scheduled land shall be determined by reference to the whole land as shown in the document of title of the scheduled land and after having regard to the particular features of that part.
 
-(1C) In assessing the market value of any scheduled land, regard shall not be had to the evidence of any sales transactions effected after the date with reference to which the scheduled land is to be assessed under subparagraph (1).
+(1C) In assessing the market value of any scheduled land, regard shall not be had to the evidence of any sales transactions effected after the date with reference to which the scheduled land is to be assessed under subparagraph
+
+(1).
 
 <!-- page 22 -->
 
@@ -632,15 +800,23 @@ Pindaan
 
 (iii) dalam subperenggan (2A), dengan memasukkan selepas perkataan "account" perkataan "except where the scheduled land is to be devoted, after the acquisition, solely to a purpose for the benefit of persons who are eligible to hold the land under such written law";
 
-(iv) dengan memotong subperenggan (2B); (v) dengan memasukkan selepas subperenggan (2B) subperenggan yang berikut:
+(iv) dengan memotong subperenggan (2B);
 
-"(2BA) In assessing the market value of any scheduled land, where the information provided by the State Director of Town and Country Planning or the Commissioner of the City of Kuala Lumpur, as the case may be, under section 9A indicates that the scheduled land is within a local planning authority area, then the land shall be assessed by having regard to the specific land use for that land as indicated in the development plan."; (vi) dengan memasukkan selepas subperenggan (2C) subperenggan yang berikut: "(2D) In assessing the market value of any scheduled land which is an estate land, or forms part of an estate land within the meaning of section 214A of the National Act 56/65. Land Code, the market value shall not in any way be
+(v) dengan memasukkan selepas subperenggan
+
+(2B) subperenggan yang berikut:
+
+"(2BA) In assessing the market value of any scheduled land, where the information provided by the State Director of Town and Country Planning or the Commissioner of the City of Kuala Lumpur, as the case may be, under section 9A indicates that the scheduled land is within a local planning authority area, then the land shall be assessed by having regard to the specific land use for that land as indicated in the development plan.";
+
+(vi) dengan memasukkan selepas subperenggan (2C) subperenggan yang berikut: "(2D) In assessing the market value of any scheduled land which is an estate land, or forms part of an estate land within the meaning of section 214A of the National Act 56/65. Land Code, the market value shall not in any way be
 
 <!-- page 23 -->
 
 affected by the fact that it can be sold to one person."; dan
 
-(vii) dengan memasukkan selepas subperenggan (3) subperenggan yang berikut:
+(vii) dengan memasukkan selepas subperenggan
+
+(3) subperenggan yang berikut:
 
 "(3A) The value of any building on any land to be acquired shall be disregarded if that building is not permitted by virtue of—
 
@@ -660,13 +836,13 @@ to which the land is subject or deemed to be subject under the State land law.";
 
 (d), dengan memotong perkataan "or his actual earnings".
 
-<!-- marginal: Pindaan -->
+Pindaan
 
 34. Jadual Kedua kepada Akta ibu adalah dipinda—
 
 ## Jadual
 
-<!-- marginal: Kedua. -->
+Kedua.
 
 (a) dengan menggantikan perkataan "Commissioner" di mana-mana jua terdapat dalam Borang A, B, D, I dan K dengan perkataan "State Director";
 
@@ -740,7 +916,9 @@ Jadual Kedua Jadual yang berikut:
 
 ## REFERENCE CASES
 
-Interpretation. 1. In this Schedule, unless the context otherwise requires—
+<!-- marginal: Interpretation. -->
+
+1. In this Schedule, unless the context otherwise requires—
 
 "applicant" means the person upon whose application in accordance with section 38 reference to the Court is made in respect of an objection under section 37;
 
@@ -748,7 +926,15 @@ Interpretation. 1. In this Schedule, unless the context otherwise requires—
 
 "valuer's report", in relation to the report by the valuer of one party to the proceeding, includes his reply to the report of the valuer of the other party to the proceeding.
 
-Valuer's report 2. (1) The applicant's valuer's report alone must establish and oral a prima facie case for the applicant. evidence.
+<!-- marginal: Valuer's report -->
+
+2. (1) The applicant's valuer's report alone must establish
+
+<!-- marginal: and oral -->
+
+a prima facie case for the applicant.
+
+<!-- marginal: evidence. -->
 
 (2) Oral evidence by the applicant's valuer shall only be adduced during cross-examination and re-examination, if any.
 
@@ -756,7 +942,15 @@ Valuer's report 2. (1) The applicant's valuer's report alone must establish and 
 
 (4) Subparagraph (2) shall apply to the respondent's valuer as it applies to the applicant's valuer.
 
-Filing and 3. (1) Each party to the proceeding shall, not less than service of valuer's report. seven days before the date of hearing, file in Court four copies of his valuer's report.
+<!-- marginal: Filing and -->
+
+3. (1) Each party to the proceeding shall, not less than
+
+<!-- marginal: service of -->
+
+<!-- marginal: valuer's report. -->
+
+seven days before the date of hearing, file in Court four copies of his valuer's report.
 
 <!-- page 26 -->
 
@@ -764,13 +958,31 @@ Filing and 3. (1) Each party to the proceeding shall, not less than service of v
 
 (3) Each party to the proceeding shall, not less than seven days before the date of hearing, serve on the other party and file in Court his valuer's reply to the other party's valuer's report.
 
-Common plan. 4. (1) Where the reports of both the applicant's and the respondent's valuers contain comparable sales plans, the applicant's valuer shall prepare a plan, to be known as the "common plan", incorporating the comparable sales plans in both such reports.
+<!-- marginal: Common plan. -->
+
+4. (1) Where the reports of both the applicant's and the respondent's valuers contain comparable sales plans, the applicant's valuer shall prepare a plan, to be known as the "common plan", incorporating the comparable sales plans in both such reports.
 
 (2) The common plan shall be served on the respondent not less than seven days before the date of hearing.
 
 (3) The common plan shall be filed in Court not less than four days before the date of hearing.
 
-Evidence to be 5. (1) Except in the case of a valuer, the evidence of any by way of affidavit except other person shall be adduced by way of affidavits. for valuer's report. (2) Except for any statement in writing made or delivered by the applicant and included in or attached to Form O by which the matter is referred to the Court, subparagraph (1) shall also apply to the applicant.
+<!-- marginal: Evidence to be -->
+
+5. (1) Except in the case of a valuer, the evidence of any
+
+<!-- marginal: by way of -->
+
+<!-- marginal: affidavit except -->
+
+other person shall be adduced by way of affidavits.
+
+<!-- marginal: for valuer's -->
+
+<!-- marginal: report. -->
+
+(2) Except for any statement in writing made or delivered by the applicant and included in or attached to Form O by which the matter is referred to the Court, subparagraph
+
+(1) shall also apply to the applicant.
 
 (3) Except in the case of a valuer's report, any document to be tendered in evidence shall be tendered by way of an affidavit.
 
@@ -780,7 +992,19 @@ Evidence to be 5. (1) Except in the case of a valuer, the evidence of any by way
 
 (6) The party wishing to cross-examine a deponent shall give at least seven days' notice of his intention to do so.
 
-Paragraphs 2, 3, 6. No report, affidavit or other document shall be admitted 4 and 5 must be complied in evidence unless the provisions of paragraphs 2, 3, 4 with. and 5 are complied with.
+<!-- marginal: Paragraphs 2, 3, -->
+
+6. No report, affidavit or other document shall be admitted
+
+<!-- marginal: 4 and 5 must -->
+
+<!-- marginal: be complied -->
+
+in evidence unless the provisions of paragraphs 2, 3, 4
+
+<!-- marginal: with. -->
+
+and 5 are complied with.
 
 <!-- page 27 -->
 
@@ -816,9 +1040,7 @@ Seksyen 3C yang dicadangkan memperuntukkan bagi penubuhan Jawatankuasa Khas Peng
 
 Seksyen 3D yang dicadangkan memperuntukkan bagi penilaian permohonan oleh Jawatankuasa, dalam hal sesuatu Negeri, dan selepas itu ia akan dikemukakan kepada Pihak Berkuasa Negeri.
 
-Seksyen 3E yang dicadangkan memberi Pihak Berkuasa Negeri kuasa untuk meluluskan atau menolak permohonan dan untuk memberitahu pemohon dengan sewajarnya. Ia juga memperuntukkan bahawa Pihak Berkuasa Negeri tidaklah boleh meluluskan permohonan bagi pengambilan tanah, bagi apa-apa maksud, yang lebih besar daripada yang diperlukan bagi maksud tersebut. Di bawah subseksyen
-
-(3), pemohon dikehendaki mengesahkan penerimaannya akan terma- terma dan syarat-syarat kelulusan yang dikenakan oleh Pihak Berkuasa Negeri dalam masa tiga puluh hari dari pemberitahuan itu, jika tidak, pemohon disifatkan telah menarik balik permohonan itu.
+Seksyen 3E yang dicadangkan memberi Pihak Berkuasa Negeri kuasa untuk meluluskan atau menolak permohonan dan untuk memberitahu pemohon dengan sewajarnya. Ia juga memperuntukkan bahawa Pihak Berkuasa Negeri tidaklah boleh meluluskan permohonan bagi pengambilan tanah, bagi apa-apa maksud, yang lebih besar daripada yang diperlukan bagi maksud tersebut. Di bawah subseksyen (3), pemohon dikehendaki mengesahkan penerimaannya akan terma- terma dan syarat-syarat kelulusan yang dikenakan oleh Pihak Berkuasa Negeri dalam masa tiga puluh hari dari pemberitahuan itu, jika tidak, pemohon disifatkan telah menarik balik permohonan itu.
 
 <!-- page 29 -->
 

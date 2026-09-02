@@ -72,13 +72,21 @@ Director General of Sewerage Services appointed under section 8 of the Act Sewer
 
 "sewerage system" has the same meaning assigned to it under the Sewerage Services Act 1993'.
 
-Pindaan 3. Seksyen 111 Ordinan adalah dipinda— seksyen 111,
+<!-- marginal: Pindaan -->
+
+3. Seksyen 111 Ordinan adalah dipinda—
+
+<!-- marginal: seksyen 111, -->
 
 (a) dengan memotong perkataan "night soil, slops,"; dan
 
 (b) dengan memasukkan selepas perkataan "effluent" perkataan "other than sewage".
 
-Pindaan 4. Seksyen 112 Ordinan adalah dipinda— seksyen 112,
+<!-- marginal: Pindaan -->
+
+4. Seksyen 112 Ordinan adalah dipinda—
+
+<!-- marginal: seksyen 112, -->
 
 (a) dengan memotong perkataan "Sewerage seryices and" dalam nota birai;
 
@@ -154,29 +162,49 @@ Pindaan 4. Seksyen 112 Ordinan adalah dipinda— seksyen 112,
 
 (b) dengan memotong perkataan "sewer or" dalam seksyen itu.
 
-10. Ordinan adalah dipinda dengan memasukkan baru 12lA. selepas seksyen 121 seksyen baru 12lA yang berikut: Buildings 12lA. No person shatl erect a building or any not to be e x t e n s i on of a building over any sewer unless erected over he shall have obtained the consent of the sewers. Director General and shall have complied with any requirements which may be attached by the Director General to his consent.".
+<!-- marginal: Seksyen -->
 
-Pindaan
+10. Ordinan adalah dipinda dengan memasukkan
 
-11. Seksyen 122 Ordinan adalah dipinda— seksyen 122.
+<!-- marginal: baru 12lA. -->
+
+selepas seksyen 121 seksyen baru 12lA yang berikut: Buildings 12lA. No person shatl erect a building or any not to be e x t e n s i on of a building over any sewer unless erected over he shall have obtained the consent of the sewers. Director General and shall have complied with any requirements which may be attached by the Director General to his consent.".
+
+<!-- marginal: Pindaan -->
+
+11. Seksyen 122 Ordinan adalah dipinda—
+
+<!-- marginal: seksyen 122. -->
 
 (a) dengan memotong perenggan (c); dan
 
 (b) dengan memotong perkataan "private sewer" dan "priyate sewer or" di mana-mana jua terdapat dalam seksyen itu.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-12. Seksyen 123 Ordinan adalah dipinda— seksyen 123.
+12. Seksyen 123 Ordinan adalah dipinda—
+
+<!-- marginal: seksyen 123. -->
 
 (a) dengan memotong perkataan "cesspool, septic tank" dalam perenggan (a); dan
 
 (b) dengan menggantikan noktah di akhir seksyen 123 dengan noktah bertindih dan memasukkan selepas itu proviso yang berikut: " Provided that any works to be carried out to abate such nuisance in respect of the sewerage system shall be in accordance with the rules, regulations and by-laws made pursuant to the Act Sewerage Services Act 1993.".
 
-Pemotongan 13. Ordinan adalah dipinda dengan memotong seksyen seksyen 125 125 dan 128. dan 128.
+<!-- marginal: Pemotongan -->
 
-Pindaan
+13. Ordinan adalah dipinda dengan memotong seksyen
 
-14. Seksyen 130 Ordinan adalah dipinda— seksyen 130.
+<!-- marginal: seksyen 125 -->
+
+125 dan 128.
+
+<!-- marginal: dan 128. -->
+
+<!-- marginal: Pindaan -->
+
+14. Seksyen 130 Ordinan adalah dipinda—
+
+<!-- marginal: seksyen 130. -->
 
 (a) dengan memotong perkataan ", cesspools, septic tanks, private sewers" dan "and the collection, removal and disposal of night soil" dalam perenggan (b) subseksyen (1); dan
 

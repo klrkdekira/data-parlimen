@@ -6,13 +6,13 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Application 3. Interpretation
 
-## Part II
+## PART II
 
 ## ADMINISTRATION
 
@@ -52,7 +52,7 @@
 
 23. Transfer of property or liabilities
 
-## Part IV
+## PART IV
 
 ## MALAYSIA AIRLINES BERHAD
 
@@ -68,7 +68,7 @@
 
 29. Matters relating to productivity or effective utilization of workforce
 
-## Part V
+## PART V
 
 ## VESTING OF PROPERTY AND LIABILITIES
 
@@ -76,7 +76,7 @@
 
 31. Replacement vesting order
 
-## Part VI
+## PART VI
 
 ## GENERAL
 
@@ -92,7 +92,7 @@
 
 37. Things done in anticipation of the enactment of this Act
 
-## Schedule
+## SCHEDULE
 
 <!-- page 3 -->
 
@@ -118,7 +118,7 @@ AND WHEREAS legislation provides an effective, efficient and seamless means to t
 
 Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -182,7 +182,7 @@ whichever is earlier.
 
 “liabilities” includes debts, charges and obligations of every description whether present or future, actual or contingent, and whether payable or to be observed or performed in Malaysia or elsewhere.
 
-## Part II
+## PART II
 
 ## ADMINISTRATION
 
@@ -496,7 +496,7 @@ as the Administrator may reasonably require.
 
 (3) The Administrator shall, on the completion of the administration under this Act, return to the Administered Companies any books, records and documents received under subsection (1).
 
-## Part III
+## PART III
 
 ## PROPOSAL OF ADMINISTRATOR AND APPOINTMENT OF
 
@@ -604,7 +604,7 @@ as the Administrator may reasonably require.
 
 (2) For the purpose of this section, a reference to “Malaysia Airlines Berhad” in Part V shall be construed as a reference to the proposed transferee named in the proposal.
 
-## Part IV
+## PART IV
 
 ## MALAYSIA AIRLINES BERHAD
 
@@ -678,7 +678,7 @@ shall be by way of meetings.
 
 (2) The Malaysia Airlines Berhad in determining any matters under subsection (1) shall comply with all applicable laws and international standards.
 
-## Part V
+## PART V
 
 ## VESTING OF PROPERTY AND LIABILITIES
 
@@ -704,7 +704,7 @@ shall be by way of meetings.
 
 (5) For the purposes of this Act, any reference to a vesting order shall be deemed to include a reference to a replacement vesting order.
 
-## Part VI
+## PART VI
 
 ## GENERAL
 
@@ -776,7 +776,7 @@ and any such order, if granted, shall be void and unenforceable and shall not be
 
 (2) The incorporation of the Malaysia Airlines Berhad and all acts and things done by any person on behalf of the Malaysia Airlines Berhad and all rights and obligations acquired or incurred on behalf of the Malaysia Airlines Berhad shall, upon the coming into operation of this Act, be deemed to be done under this Act and shall be the rights and obligations of the Malaysia Airlines Berhad.
 
-## Schedule
+## SCHEDULE
 
 [Section 30]
 

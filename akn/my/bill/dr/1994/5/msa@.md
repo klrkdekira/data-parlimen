@@ -146,11 +146,7 @@ Provided that the Director of Marine may determine the manning requirements for 
 
 (c) cable and pipe laying;
 
-(d) marine construction, including
-
-<!-- marginal: the -->
-
-construction of jetties and wharves;
+(d) marine construction, including the construction of jetties and wharves;
 
 (e) dumping of any material;
 
@@ -174,23 +170,13 @@ in Malaysian waters shall be required to notify the Director of Marine, in such 
 
 (b) any ship that is registered under this Ordinance and is solely engaged or intended to be engaged in sports, leisure or recreational activity.
 
-(3) The Director of Marine, upon receiving the notification, may impose such terms and conditions as he thinks fit,
+(3) The Director of Marine, upon receiving the notification, may impose such terms and conditions as he thinks fit, including prescribing the fees for anything to be done or permitted to be done under this Ordinance, on the activity.
 
-<!-- marginal: including -->
-
-prescribing the fees for anything to be done or permitted to be done under this Ordinance, on the activity.
-
-(4) The owner, master or agent of the ship or any person who contravenes subsection (1) or (3) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or
-
-<!-- marginal: to -->
-
-imprisonment for a term not exceeding two years or to both.
+(4) The owner, master or agent of the ship or any person who contravenes subsection (1) or (3) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding two years or to both.
 
 491c. (1) The Director of Marine may, where he has reason to believe that an offence has been committed under this Part, with a warrant—
 
-(a) stop and board any ship in Malaysian waters and make any
-
-<!-- marginal: enquiry, -->
+(a) stop and board any ship in Malaysian waters and make any enquiry,
 
 <!-- page 8 -->
 
@@ -200,11 +186,7 @@ examination and physical inspection of such ship, its crew, equipment, gear, app
 
 (b) inspect any permit, licence, record, certificate or any other document required under this Ordinance or under any generally accepted international rules and standards, and make copies of the same;
 
-(c) detain such ship including
-
-<!-- marginal: any -->
-
-equipment, gear, appurtenance, cargo or thing belonging to or on board that ship; and
+(c) detain such ship including any equipment, gear, appurtenance, cargo or thing belonging to or on board that ship; and
 
 (d) arrest any person whom he has reason to believe has committed an offence under this Part.
 
@@ -232,7 +214,9 @@ equipment, gear, appurtenance, cargo or thing belonging to or on board that ship
 
 (c) dengan menggantikan perkataan "five hundred dollars" dalam subseksyen (6) dengan perkataan "twenty-five thousand ringgit".
 
-18. Ordinan adalah dipinda dengan memasukkan selepas seksyen 512 di bawah subtajuk "Application of Penalties and Costs of Prosecutions" seksyen yang berikut:
+18. Ordinan adalah dipinda dengan memasukkan selepas seksyen 512 di bawah subtajuk "Application of Penalties and Costs of Prosecutions" seksyen yang
+
+<!-- marginal: berikut: -->
 
 512A. (1) The Director of Marine may, in a case where he deems it fit and proper to do so, compound any offence committed by any'
 
@@ -252,7 +236,9 @@ person which is punishable under any provision of this Ordinance, by making a wr
 
 Rang Undung-Undang ini bertujuan meminda Ordinan Perkapalan Saudagar 1952 ("Ordinan").
 
-2. Fasal 2 bertujuan meminda takrif tertentu dalam seksyen 2 Ordinan.
+2. Fasal 2 bertujuan meminda takrif tertentu dalam seksyen 2
+
+<!-- marginal: Ordinan. -->
 
 <!-- page 11 -->
 

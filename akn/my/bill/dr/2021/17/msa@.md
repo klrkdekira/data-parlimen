@@ -36,7 +36,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 5. Akta ibu dipinda dengan memasukkan selepas Bahagian XI bahagian yang berikut:
 
-“Bahagian XIa
+## “BAHAGIAN XIA
 
 ## PENGUBAHSUAIAN TAMBAHAN KEPADA AKTA PEMAJUAN
 
@@ -166,7 +166,7 @@ Kesan Penyakit Koronavirus 2019 (COVID-19) (Pindaan)
 
 9. Akta ibu dipinda dengan memasukkan selepas Bahagian XIII bahagian yang berikut:
 
-“Bahagian XIIIa
+## “BAHAGIAN XIIIA
 
 ## PENGUBAHSUAIAN KEPADA ORDINAN BURUH SABAH
 
@@ -192,7 +192,7 @@ Kesan Penyakit Koronavirus 2019 (COVID-19) (Pindaan)
 
 (2) Bagi maksud subseksyen (1), “perintah kawalan pergerakan diperketat” merujuk kepada arahan yang diberikan oleh pegawai diberi kuasa di bawah subseksyen 11(3) Akta Pencegahan dan Pengawalan Penyakit Berjangkit 1988.
 
-Bahagian XIIIB
+## BAHAGIAN XIIIB
 
 ## PENGUBAHSUAIAN KEPADA ORDINAN BURUH SARAWAK
 

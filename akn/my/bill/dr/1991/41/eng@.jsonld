@@ -81,7 +81,7 @@
       },
       "schema:text": {
         "@language": "en",
-        "@value": "\"Agreement\" means the Agreement Establishing the International Fund for Agricultural Development as adopted by the United Nations Conference on the Establishment of an International Fund for Agricultural Development on the 13th June 1976 in Rome, and whereby a copy of the text was laid before the Dewan Rakyat as Statute Paper No. 147 of 1991; \"freely convertible currency\" means such currency as is deemed to be freely convertib1e in accordance with Article I(d) of the Agreement; \"Fund\" means the International Fund For Agricultural Development established by the Agreement. Authorization"
+        "@value": "\"Agreement\" means the Agreement Establishing the International Fund for Agricultural Development as adopted by the United Nations Conference on the Establishment of an International Fund for Agricultural Development on the 13th June 1976 in Rome, and whereby a copy of the text was laid before the Dewan Rakyat as Statute Paper No. 147 of 1991; \"freely convertible currency\" means such currency as is deemed to be freely convertib1e in accordance with Article I(d) of the Agreement; \"Fund\" means the International Fund For Agricultural Development established by the Agreement."
       }
     },
     {
@@ -93,9 +93,13 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_3__para_b"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Yang di-Pertuan Agong may, by instrument"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "The Yang di-Pertuan Agong may, by instrument of Signature under his hand, empower such person as may be named of Agreement. in such instrument, on behalf of the Government of Malaysia—"
+        "@value": "under his hand, empower such person as may be named in such instrument, on behalf of the Government of Malaysia—"
       }
     },
     {
@@ -115,7 +119,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_3",
       "schema:text": {
         "@language": "en",
-        "@value": "to deposit with the Fund an instrument of acceptance of the Agreement setting forth that the Government of Malaysia has accepted the Agreement in accordance with its law and has taken all steps necessary to enable the Government of Malaysia to carry out all of its obligations under the Agreement. Contribution"
+        "@value": "to deposit with the Fund an instrument of acceptance of the Agreement setting forth that the Government of Malaysia has accepted the Agreement in accordance with its law and has taken all steps necessary to enable the Government of Malaysia to carry out all of its obligations under the Agreement."
       }
     },
     {
@@ -135,7 +139,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_4",
       "schema:text": {
         "@language": "en",
-        "@value": "There shall be charged on the Consolidated Fund to Fund. such part of the contribution of Malaysia to the Fund pursuant to section 3 of Article 4 of the Agreement as may, in accordance with section 5 of Article 4 of the Agreement, be payable in freely convertible currency or in Malaysian currency."
+        "@value": "There shall be charged on the Consolidated Fund such part of the contribution of Malaysia to the Fund pursuant to section 3 of Article 4 of the Agreement as may, in accordance with section 5 of Article 4 of the Agreement, be payable in freely convertible currency or in Malaysian currency."
       }
     },
     {
@@ -145,7 +149,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_4",
       "schema:text": {
         "@language": "en",
-        "@value": "Subject to section 5, there shall be charged on the Consolidated Fund such part of any increase in the contribution of Malaysia to the Fund as may, pursuant to section 4 of Article 4 of the Agreement, be payable in freely convertible currency or in Malaysian currency. Approval of"
+        "@value": "Subject to section 5, there shall be charged on the Consolidated Fund such part of any increase in the contribution of Malaysia to the Fund as may, pursuant to section 4 of Article 4 of the Agreement, be payable in freely convertible currency or in Malaysian currency."
       }
     },
     {
@@ -153,9 +157,13 @@
       "@type": "akn:clause",
       "eli:number": "5",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Whenever any increase in the contribution of"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Whenever any increase in the contribution of Dewan Rakyat Malaysia to the Fund is authorized pursuant to section for additional contribution to 4 of Article 4 of the Agreement, no amount shall Fund. be contributed in respect thereof except with the prior approval, signified by resolution, of the Dewan Rakyat. Issue of non-"
+        "@value": "Malaysia to the Fund is authorized pursuant to section 4 of Article 4 of the Agreement, no amount shall be contributed in respect thereof except with the prior approval, signified by resolution, of the Dewan Rakyat."
       }
     },
     {
@@ -167,9 +175,13 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_6__para_b"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Minister of Finance may, on behalf of the"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "The Minister of Finance may, on behalf of the negotiable and Government, create and issue to the Fund, in such non-interest bearing notes. form as he thinks fit, any such non-negotiable and non-interest bearing notes or similar obligations as the Fund may—"
+        "@value": "Government, create and issue to the Fund, in such form as he thinks fit, any such non-negotiable and non-interest bearing notes or similar obligations as the Fund may—"
       }
     },
     {

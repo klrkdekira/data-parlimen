@@ -288,21 +288,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_7__subsec_8",
       "@type": "akn:subsection",
       "eli:number": "8",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_7__subsec_8__para_h",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_7",
       "schema:text": {
         "@language": "ms",
-        "@value": "Apa-apa penyampaian waran penahanan bagi tindakan in rem terhadap sesuatu kapal di bawah perenggan 4(1)(e), (f),"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_7__subsec_8__para_h",
-      "@type": "akn:paragraph",
-      "eli:number": "h",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_7__subsec_8",
-      "schema:text": {
-        "@language": "ms",
-        "@value": ", (j) hingga (o) dan (q) hingga (u) hendaklah mengecualikan penyampaian waran penahanan terhadap mana-mana kapal lain dalam suatu tindakan yang sama tanpa menjejaskan hak orang yang menuntut untuk mengeluarkan writ menamakan beberapa kapal atau mengeluarkan beberapa writ yang setiap satu menamakan kapal yang berasingan. Tindakan bagi upah"
+        "@value": "Apa-apa penyampaian waran penahanan bagi tindakan in rem terhadap sesuatu kapal di bawah perenggan 4(1)(e), (f), (h), (j) hingga (o) dan (q) hingga (u) hendaklah mengecualikan penyampaian waran penahanan terhadap mana-mana kapal lain dalam suatu tindakan yang sama tanpa menjejaskan hak orang yang menuntut untuk mengeluarkan writ menamakan beberapa kapal atau mengeluarkan beberapa writ yang setiap satu menamakan kapal yang berasingan. Tindakan bagi upah"
       }
     },
     {
@@ -427,7 +416,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1",
       "schema:text": {
         "@language": "ms",
-        "@value": "apa-apa tuntutan bagi kehilangan nyawa atau kecederaan diri yang dialami berbangkit daripada apa-apa kecacatan dalam suatu kapal atau dalam peralatan atau kelengkapannya, atau berbangkit daripada perbuatan salah, kecuaian atau keingkaran— yang merupakan suatu perbuatan, kecuaian atau keingkaran dalam pelayaran atau pengurusan kapal itu, semasa pemuatan barang-barang ke atas, pemunggahan barang-barang dari atau pengangkutan barang-barang ke atas, kapal itu atau semasa kenaikan orang ke atas, pelepasan keluar orang daripada, dan pengangkutan orang di atas, kapal itu;"
+        "@value": "apa-apa tuntutan bagi kehilangan nyawa atau kecederaan diri yang dialami berbangkit daripada apa-apa kecacatan dalam suatu kapal atau dalam peralatan atau kelengkapannya, atau berbangkit daripada perbuatan salah, kecuaian atau keingkaran—"
       }
     },
     {
@@ -457,7 +446,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_f",
       "schema:text": {
         "@language": "ms",
-        "@value": "mana-mana orang lain yang perbuatan salah, kecuaian atau keingkarannya menyebabkan pemunya, pencarter atau orang yang memiliki atau mengawal kapal itu menjadi bertanggungjawab,"
+        "@value": "mana-mana orang lain yang perbuatan salah, kecuaian atau keingkarannya menyebabkan pemunya, pencarter atau orang yang memiliki atau mengawal kapal itu menjadi bertanggungjawab, yang merupakan suatu perbuatan, kecuaian atau keingkaran dalam pelayaran atau pengurusan kapal itu, semasa pemuatan barang-barang ke atas, pemunggahan barang-barang dari atau pengangkutan barang-barang ke atas, kapal itu atau semasa kenaikan orang ke atas, pelepasan keluar orang daripada, dan pengangkutan orang di atas, kapal itu;"
       }
     },
     {

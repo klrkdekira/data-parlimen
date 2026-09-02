@@ -12,7 +12,7 @@
 
 1. Tajuk ringkas 2. Pindaan Akta
 
-## bAb II
+## BAB II
 
 ## PINDAAN KEPADA AKTA CUKAI PENDAPATAN 1967
 
@@ -760,7 +760,7 @@ Ketua Pengarah tidak melepaskan mana-mana orang daripada tanggungannya untuk mem
 
 38. Jadual 5 kepada Akta ibu dipinda dalam Bahagian II dengan memasukkan selepas perkataan “atau pemegang amanah bagi suatu amanah” perkataan “atau pertubuhan yang didaftarkan di bawah Akta Pertubuhan 1966 [Akta 335]”.
 
-## bAb IV
+## BAB IV
 
 ## PINDAAN KEPADA AKTA SETEM 1949
 
@@ -894,7 +894,7 @@ Ketua Pengarah tidak melepaskan mana-mana orang daripada tanggungannya untuk mem
 
 “(ab) to prescribe the means of digital stamping to be used under this Act for the payment of stamp duty, to provide for matters relating to the issuance and validity of the digital stamping;”.
 
-## bAb V
+## BAB V
 
 ## PINDAAN KEPADA AKTA PETROLEUM (CUKAI PENDAPATAN) 1967
 
@@ -932,7 +932,7 @@ Ketua Pengarah tidak melepaskan mana-mana orang daripada tanggungannya untuk mem
 
 (3) Notwithstanding any other provisions of this Act, where a public ruling made under subsection (1) applies to any chargeable person in relation to an arrangement and the chargeable person applies the provision in the manner stated in the ruling, the Director General shall apply the provision in relation to the chargeable person and the arrangement in accordance with the ruling.”.
 
-## bAb VI
+## BAB VI
 
 ## PINDAAN KEPADA AKTA CUKAI AKTIVITI PERNIAGAAN LABUAN 1990
 

@@ -26,8 +26,7 @@
       "eli:number": "DR-17-1995",
       "hasPart": [
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/17/msa@/~cl_1",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/17/msa@/~cl_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/17/msa@/~sched_1"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/17/msa@/~cl_2"
       ],
       "schema:name": {
         "@language": "ms",
@@ -59,17 +58,7 @@
       },
       "schema:text": {
         "@language": "ms",
-        "@value": "dipinda dengan memasukkan selepas seksyen 2 seksyen yang berikut: \" Pindaan 2A. Menteri boleh, dari semasa ke semasa"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/17/msa@/~sched_1",
-      "@type": "akn:schedule",
-      "eli:number": "1",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/17/msa@",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "melalui perintah yang disiarkan dalam Warta, menambah atau meminda mana-mana peruntukan dalam Jadual.\"."
+        "@value": "dipinda dengan memasukkan selepas seksyen 2 seksyen yang berikut: \" Pindaan 2A. Menteri boleh, dari semasa ke semasa Jadual. melalui perintah yang disiarkan dalam Warta, menambah atau meminda mana-mana peruntukan dalam Jadual.\"."
       }
     }
   ]

@@ -22,7 +22,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 2 -->
 
-## Jadual
+## JADUAL
 
 Maksud Tajuk
 
@@ -92,7 +92,7 @@ B. 62 Kementerian Dalam Negeri
 
 <!-- marginal: 15,995,600 -->
 
-Jumlah
+## JUMLAH
 
 <!-- marginal: 2,392,077,572 -->
 

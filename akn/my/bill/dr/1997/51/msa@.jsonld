@@ -27,311 +27,19 @@
       "hasPart": [
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_1",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_11"
       ],
       "schema:name": {
         "@language": "ms",
         "@value": "Rang Undang-Undang Tatacara Jenayah (Pindaan) 1997"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6",
-      "@type": "akn:chapter",
-      "eli:number": "6",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_3",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_4",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_5",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_6",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_7",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_8",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_9",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_10",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_11"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "(a) dengan menggantikan subseksyen (i) dengan subseksyen yang berikut: \"(i) When a Magistrate takes cognisance of an offence on a complaint— (a) the Magistrate shall set a date to examine the complainant in accordance with this section; (b) the Magistrate shall serve on the Public Prosecutor a notice in writing at least seven clear days before the date of the examination of the complainant and such notice shall specify the date of the examination of the complainant and the particulars of the complaint received by the Magistrate under section 128; (c) the Magistrate shall not proceed to examine the complainant unless the notice required by paragraph (b) has been served on the Public Prosecutor in accordance with that paragraph; (d) the Magistrate shall examine the complainant upon oath and substance of the examination of the complainant shall be reduced to writing and shall be signed by the complainant and by the Magistrate; (e) the Public Prosecutor may appear and assist the Magistrate in the examination of the complainant.\"; (b) dengan memasukkan selepas subseksyen (i) subseksyen yang berikut: \"(iA) Notwithstanding subsection (i), the Public Prosecutor may at any stage of the examination direct the police to investigate the offence complained of and to report thereon to the Public Prosecutor. (iB) If the Public Prosecutor directs the police to investigate the offence complained of, the Magistrate shall not proceed with the examination of the complainant.\"; dan (c) dalam subseksyen (ii), dengan menggantikan perkataan \"officer or by a\" dengan perkataan \"officer, public officer or\"."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_10",
-      "@type": "akn:clause",
-      "eli:number": "10",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_10__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_10__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_10__para_c"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Kanun adalah dipinda dengan menggantikan seksyen seksyen 422. 422 dengan seksyen yang berikut: \" Irregula- 422. Subject to the provisions contained in this rities not Chapter no finding, sentence or order passed to vitiate procee- or made by a Court of competent jurisdiction dings. shall be reversed or altered on account of—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_10__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_10",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "any error, omission or irregularity in the complaint, sanction, consent, summons, warrant, charge, judgment or other proceedings before or during trial or in any inquiry or other proceedings under this Code;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_10__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_10",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "the want of any sanction; or"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_10__para_c",
-      "@type": "akn:paragraph",
-      "eli:number": "c",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_10",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "the improper admission or rejection of any evidence, unless such error, omission, irregularity, want, or improper admission or rejection of evidence has occasioned a failure of justice.\". Kecualian."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_11",
-      "@type": "akn:clause",
-      "eli:number": "11",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_11__subsec_1",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_11__subsec_2"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6"
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_11__subsec_1",
-      "@type": "akn:subsection",
-      "eli:number": "1",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_11",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Peruntukan Akta ini tidaklah terpakai bagi apa- apa pendakwaan atau presiding yang telah dimulakan tetapi belum selesai pada tarikh Akta ini mula berkuat kuasa."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_11__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_11",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Tiada dapatan, penghakiman, hukuman atau perintah mana-mana Mahkamah yang dibuat atau dijatuhkan atau dikenakan sebelum tarikh Akta ini mula berkuat kuasa atau semasa atau pada akhir mana-mana pendakwaan atau presiding yang disebut dalam subseksyen (1) boleh diakaskan, dipinda atau tersentuh oleh mana-mana peruntukan Akta ini."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_3",
-      "@type": "akn:clause",
-      "eli:number": "3",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_3__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_3__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_3__para_c"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6",
-      "schema:name": {
-        "@language": "ms",
-        "@value": "Seksyen 134 Kanun adalah dipinda—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_3__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_3",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dengan menomborkan semula peruntukan yang sedia ada sebagai subseksyen (i) seksyen 134;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_3__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_3",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dalam subseksyen (i), dengan memasukkan selepas perkataan \"report to him\" perkataan \"and to the Public Prosecutor\"; dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_3__para_c",
-      "@type": "akn:paragraph",
-      "eli:number": "c",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_3",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dengan memasukkan selepas subseksyen (i) subseksyen yang berikut: \"(ii) If the Magistrate decides to inquire into the case himself in accordance with subsection (i), the Magistrate shall serve on the Public Prosecutor a notice in writing at least seven clear days before the date of the inquiry and the Public Prosecutor may appear and assist the Magistrate in such inquiry.\"."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_4",
-      "@type": "akn:clause",
-      "eli:number": "4",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6",
-      "schema:name": {
-        "@language": "ms",
-        "@value": "Seksyen 135 Kanun adalah dipinda dengan"
-      },
-      "schema:text": {
-        "@language": "ms",
-        "@value": "memasukkan selepas subseksyen (ii) subseksyen yang berikut: \"(iii) Notwithstanding subsections (i) and (ii), the Public Prosecutor may, if he thinks fit, inform the Magistrate that no prosecution shall proceed in respect of the offence complained of, and thereupon the Magistrate shall dismiss the complaint.\"."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_5",
-      "@type": "akn:clause",
-      "eli:number": "5",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_5__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_5__para_b"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6",
-      "schema:name": {
-        "@language": "ms",
-        "@value": "Seksyen 376 Kanun adalah dipinda—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_5__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_5",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dalam subseksyen (iii), dengan memasukkan selepas perkataan \"personally\" perkataan \"and he may designate any of such Deputy Public Prosecutors as Senior Deputy Public Prosecutors\"; dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_5__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_5",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dengan memasukkan selepas subseksyen (iii) subseksyen yang berikut: \"(iiiA) The Public Prosecutor may appoint fit and proper persons to be Assistant Public Prosecutors who shall be under the general control and direction of the Public Prosecutor and, subject to such limitations or restrictions as may be specified by the Public Prosecutor, shall have all the powers of a Deputy Public Prosecutor.\". Pindaan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_6",
-      "@type": "akn:clause",
-      "eli:number": "6",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_6__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_6__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_6__para_c"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6",
-      "schema:name": {
-        "@language": "ms",
-        "@value": "Seksyen 377 Kanun adalah dipinda— seksyen 377"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_6__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_6",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dengan menggantikan perkataan \"a High Court and every criminal prosecution for a seizable offence\" dengan perkataan \"any court\";"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_6__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_6",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dengan menggantikan perenggan (a) dan (b) dengan perenggan yang berikut: \"(a) by the Public Prosecutor, a Senior Deputy Public Prosecutor, a Deputy Public Prosecutor or an Assistant Public Prosecutor; (b) subject to the control and direction of the Public Prosecutor, by the following persons who are authorised in writing by the Public Prosecutor: (1) an advocate; (2) a police officer not below the rank of Inspector; (3) an officer of any Government department; (4) an officer of any local authority; (5) an officer of any statutory authority or body; or (6) any person employed or retained by any local authority or any statutory authority or body;\"; dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_6__para_c",
-      "@type": "akn:paragraph",
-      "eli:number": "c",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_6__para_c__subpara_i",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_6__para_c__subpara_ii"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_6",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dalam proviso—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_6__para_c__subpara_i",
-      "@type": "akn:subparagraph",
-      "eli:number": "i",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_6__para_c",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dengan memotong perkataan \"for seizable offences\" yang terdapat selepas perkataan \"to direct that prosecutions\"; dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_6__para_c__subpara_ii",
-      "@type": "akn:subparagraph",
-      "eli:number": "ii",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_6__para_c",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dengan menggantikan noktah bertindih yang terdapat selepas perkataan \"Inspector\" dengan noktah dan memotong semua perkataan yang terdapat selepas noktah bertindih itu."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_7",
-      "@type": "akn:clause",
-      "eli:number": "7",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6",
-      "schema:name": {
-        "@language": "ms",
-        "@value": "Kanun adalah dipinda dengan menggantikan seksyen"
-      },
-      "schema:text": {
-        "@language": "ms",
-        "@value": "378 dengan seksyen yang berikut: \" No one to 378. No person shall appear on behalf of the appear for Public Prosecutor on any criminal appeal other Public Prosecutor. than the Public Prosecutor, a Senior Deputy Public Prosecutor or a Deputy Public Prosecutor.\"."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_8",
-      "@type": "akn:clause",
-      "eli:number": "8",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6",
-      "schema:name": {
-        "@language": "ms",
-        "@value": "Kanun adalah dipinda dengan menggantikan seksyen"
-      },
-      "schema:text": {
-        "@language": "ms",
-        "@value": "380 dengan seksyen yang berikut: \" Prosecu- 380. Notwithstanding anything in this Chapter tion by contained, any private person may appear in private persons. person or by advocate and prosecute for an offence against his own person or property in a non-seizable case in the Court of a Magistrate.\"."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6__cl_9",
-      "@type": "akn:clause",
-      "eli:number": "9",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~chp_6",
-      "schema:name": {
-        "@language": "ms",
-        "@value": "Kanun adalah dipinda dengan memasukkan selepas"
-      },
-      "schema:text": {
-        "@language": "ms",
-        "@value": "seksyen 380 seksyen yang berikut: \" Sections 380A. The provisions of sections 377 and 380 377 and shall prevail notwithstanding any inconsistency 380 to prevail with any other written law.\". over other laws. Pindaan"
       }
     },
     {
@@ -349,9 +57,58 @@
       }
     },
     {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Kanun adalah dipinda dengan menggantikan seksyen"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "422 dengan seksyen yang berikut: \" Irregula- 422. Subject to the provisions contained in this rities not Chapter no finding, sentence or order passed to vitiate procee- or made by a Court of competent jurisdiction dings. shall be reversed or altered on account of— (a) any error, omission or irregularity in the complaint, sanction, consent, summons, warrant, charge, judgment or other proceedings before or during trial or in any inquiry or other proceedings under this Code; (b) the want of any sanction; or (c) the improper admission or rejection of any evidence, unless such error, omission, irregularity, want, or improper admission or rejection of evidence has occasioned a failure of justice.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_11__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Peruntukan Akta ini tidaklah terpakai bagi apa- apa pendakwaan atau presiding yang telah dimulakan tetapi belum selesai pada tarikh Akta ini mula berkuat kuasa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada dapatan, penghakiman, hukuman atau perintah mana-mana Mahkamah yang dibuat atau dijatuhkan atau dikenakan sebelum tarikh Akta ini mula berkuat kuasa atau semasa atau pada akhir mana-mana pendakwaan atau presiding yang disebut dalam subseksyen (1) boleh diakaskan, dipinda atau tersentuh oleh mana-mana peruntukan Akta ini."
+      }
+    },
+    {
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_2",
       "@type": "akn:clause",
       "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_2__para_c"
+      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@",
       "schema:name": {
         "@language": "ms",
@@ -359,7 +116,241 @@
       },
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ini, adalah dipinda dalam seksyen 133—"
+        "@value": "Akta ini, adalah dipinda dalam seksyen 133— Bab 6."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (i) dengan subseksyen yang berikut: \"(i) When a Magistrate takes cognisance of an offence on a complaint— (a) the Magistrate shall set a date to examine the complainant in accordance with this section; (b) the Magistrate shall serve on the Public Prosecutor a notice in writing at least seven clear days before the date of the examination of the complainant and such notice shall specify the date of the examination of the complainant and the particulars of the complaint received by the Magistrate under section 128; (c) the Magistrate shall not proceed to examine the complainant unless the notice required by paragraph (b) has been served on the Public Prosecutor in accordance with that paragraph; (d) the Magistrate shall examine the complainant upon oath and the substance of the examination of the complainant shall be reduced to writing and shall be signed by the complainant and by the Magistrate; (e) the Public Prosecutor may appear and assist the Magistrate in the examination of the complainant.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (i) subseksyen yang berikut: \"(iA) Notwithstanding subsection (i), the Public Prosecutor may at any stage of the examination direct the police to investigate the offence complained of and to report thereon to the Public Prosecutor. (iB) If the Public Prosecutor directs the police to investigate the offence complained of, the Magistrate shall not proceed with the examination of the complainant.\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (ii), dengan menggantikan perkataan \"officer or by a\" dengan perkataan \"officer, public officer or\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 134 Kanun adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula peruntukan yang sedia ada sebagai subseksyen (i) seksyen 134;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (i), dengan memasukkan selepas perkataan \"report to him\" perkataan \"and to the Public Prosecutor\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (i) subseksyen yang berikut: \"(ii) If the Magistrate decides to inquire into the case himself in accordance with subsection (i), the Magistrate shall serve on the Public Prosecutor a notice in writing at least seven clear days before the date of the inquiry and the Public Prosecutor may appear and assist the Magistrate in such inquiry.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 135 Kanun adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memasukkan selepas subseksyen (ii) subseksyen yang berikut: \"(iii) Notwithstanding subsections (i) and (ii), the Public Prosecutor may, if he thinks fit, inform the Magistrate that no prosecution shall proceed in respect of the offence complained of, and thereupon the Magistrate shall dismiss the complaint.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 376 Kanun adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (iii), dengan memasukkan selepas perkataan \"personally\" perkataan \"and he may designate any of such Deputy Public Prosecutors as Senior Deputy Public Prosecutors\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (iii) subseksyen yang berikut: \"(iiiA) The Public Prosecutor may appoint fit and proper persons to be Assistant Public Prosecutors who shall be under the general control and direction of the Public Prosecutor and, subject to such limitations or restrictions as may be specified by the Public Prosecutor, shall have all the powers of a Deputy Public Prosecutor.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_6__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 377 Kanun adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"a High Court and every criminal prosecution for a seizable offence\" dengan perkataan \"any court\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (a) dan (b) dengan perenggan yang berikut: \"(a) by the Public Prosecutor, a Senior Deputy Public Prosecutor, a Deputy Public Prosecutor or an Assistant Public Prosecutor; (b) subject to the control and direction of the Public Prosecutor, by the following persons who are authorised in writing by the Public Prosecutor: (1) an advocate; (2) a police officer not below the rank of Inspector; (3) an officer of any Government department; (4) an officer of any local authority; (5) an officer of any statutory authority or body; or (6) any person employed or retained by any local authority or any statutory authority or body;\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_6__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_6__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam proviso—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_6__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_6__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan \"for seizable offences\" yang terdapat selepas perkataan \"to direct that prosecutions\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_6__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_6__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah bertindih yang terdapat selepas perkataan \"Inspector\" dengan noktah dan memotong semua perkataan yang terdapat selepas noktah bertindih itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Kanun adalah dipinda dengan menggantikan seksyen"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "378 dengan seksyen yang berikut: \" No one to 378. No person shall appear on behalf of the appear for Public Prosecutor on any criminal appeal other Public Prosecutor. than the Public Prosecutor, a Senior Deputy Public Prosecutor or a Deputy Public Prosecutor.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Kanun adalah dipinda dengan menggantikan seksyen"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "380 dengan seksyen yang berikut: \" Prosecu- 380. Notwithstanding anything in this Chapter tion by contained, any private person may appear in private persons. person or by advocate and prosecute for an offence against his own person or property in a non-seizable case in the Court of a Magistrate.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Kanun adalah dipinda dengan memasukkan selepas"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seksyen 380 seksyen yang berikut: \" Sections 380A. The provisions of sections 377 and 380 377 and shall prevail notwithstanding any inconsistency 380 to prevail with any other written law.\". over other laws."
       }
     }
   ]

@@ -4,17 +4,17 @@
 
 intituled
 
-### I
-
 f An Act to amend the Employment Act 1955.
 
 i~ ]
 
 ENACTED by the Parliament of Malaysia as follows:
 
-### I~
+Short title and commencement f~r (1) This Act may be cited as the Employment (Amendment)
 
-Short title and commencement f~r (1) This Act may be cited as the Employment (Amendment) 1. t r: Act 2000. r, t ~ ~' (2) This Act shall come into operation on a date to be appointed ~ by the Minister by notification in the Gazette. r ~ ~.. Amendment of section 31 & 2. The Employment Act 1955 [Act 265], which in this Act is f' [.; referred to as the "principal Act", is amended in subsection 31 (1)-
+1. t r: Act 2000. r, t ~ ~' (2) This Act shall come into operation on a date to be appointed ~ by the Minister by notification in the Gazette. r ~ ~.. Amendment of section 31 &
+
+2. The Employment Act 1955 [Act 265], which in this Act is f' [.; referred to as the "principal Act", is amended in subsection 31 (1)-
 
 ### I;
 
@@ -38,7 +38,7 @@ court" the words "or the receiver or manager"; and ~ ~
 
 ### f
 
-after the words "the court" wherever they appear the words "or the receiver or manager". Ik ~, !'~
+after the words "the court" wherever they appear the words "or the receiver or manager". ~, !'~
 
 <!-- page 2 -->
 

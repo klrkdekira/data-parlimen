@@ -72,7 +72,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/31/msa@/~cl_2",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (2)— 2 Rang Undang-Undang \"(c) to carry on such activities in association with any person, public authority, corporation, company or other body (including the Federal Government or any State Government) as managing agent on its behalf or otherwise;\"; \"(ca) for the purpose of carrying on any such activities, to enter into a partnership, joint venture or co-operation in any manner or to enter into an arrangement for the sharing of profits; (cb) to establish or promote the establishment of companies under the Companies Act 1965 [Act 125] to carry on or engage in any activity which has been planned or undertaken by the Majlis (including the taking over of the function of the corporation which has been wound up and dissolved under Schedule IV);\"; \"(d) to purchase, underwrite or otherwise acquire shares and securities of any public authority, corporation, company or other body, and to sell, hold or reissue, with or without guarantee, such shares and securities or otherwise dispose of or deal with them as the Majlis may determine;\"; dan \"(e) to establish, operate and maintain training and educational institutions and to do all things expedient or reasonably necessary for or incidental to the performance of this function; and\"; dan"
+        "@value": "dalam subseksyen (2)—"
       }
     },
     {
@@ -82,7 +82,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/31/msa@/~cl_2__para_a",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perkataan \"Minister,\" perkataan \"in the case of the power set out in paragraph (d), the concurrence of the Minister of Finance,\";"
+        "@value": "dengan memasukkan selepas perkataan \"Minister,\" perkataan \"in the case of the power set out in paragraph (d), the concurrence of the Minister of Finance,\"; Rang Undang-Undang"
       }
     },
     {
@@ -92,7 +92,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/31/msa@/~cl_2__para_a",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan perenggan (c) dengan perenggan yang berikut:"
+        "@value": "dengan menggantikan perenggan (c) dengan perenggan yang berikut: \"(c) to carry on such activities in association with any person, public authority, corporation, company or other body (including the Federal Government or any State Government) as managing agent on its behalf or otherwise;\";"
       }
     },
     {
@@ -102,7 +102,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/31/msa@/~cl_2__para_a",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perenggan (c) perenggan yang berikut:"
+        "@value": "dengan memasukkan selepas perenggan (c) perenggan yang berikut: \"(ca) for the purpose of carrying on any such activities, to enter into a partnership, joint venture or co-operation in any manner or to enter into an arrangement for the sharing of profits; (cb) to establish or promote the establishment of companies under the Companies Act 1965 [Act 125] to carry on or engage in any activity which has been planned or undertaken by the Majlis (including the taking over of the function of the corporation which has been wound up and dissolved under Schedule IV);\";"
       }
     },
     {
@@ -112,7 +112,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/31/msa@/~cl_2__para_a",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan perenggan (d) dengan perenggan yang berikut:"
+        "@value": "dengan menggantikan perenggan (d) dengan perenggan yang berikut: \"(d) to purchase, underwrite or otherwise acquire shares and securities of any public authority, corporation, company or other body, and to sell, hold or reissue, with or without guarantee, such shares and securities or otherwise dispose of or deal with them as the Majlis may determine;\"; dan"
       }
     },
     {
@@ -122,7 +122,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/31/msa@/~cl_2__para_a",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan perenggan (e) dengan perenggan yang berikut:"
+        "@value": "dengan menggantikan perenggan (e) dengan perenggan yang berikut: \"(e) to establish, operate and maintain training and educational institutions and to do all things expedient or reasonably necessary for or incidental to the performance of this function; and\"; dan"
       }
     },
     {

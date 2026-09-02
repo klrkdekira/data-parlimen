@@ -4,7 +4,7 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -14,13 +14,13 @@
 
 3. Interpretation
 
-## Part II
+## PART II
 
 ## APPOINTED OFFICER
 
 4. Appointment of appointed officer
 
-## Part III
+## PART III
 
 ## PROCEDURE OF REQUEST
 
@@ -38,7 +38,7 @@
 
 11. Internal review
 
-## Part IV
+## PART IV
 
 ## EXEMPTED INFORMATION
 
@@ -46,7 +46,7 @@
 
 <!-- page 2 -->
 
-## Part V
+## PART V
 
 ## OMBUDSMAN
 
@@ -60,7 +60,7 @@
 
 17. Obligation of secrecy
 
-## Part VI
+## PART VI
 
 ## GENERAL
 
@@ -86,7 +86,7 @@ An Act to provide for the procedure to request for access to, and the external r
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -160,7 +160,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 6 -->
 
-## Part II
+## PART II
 
 ## APPOINTED OFFICER
 
@@ -168,7 +168,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 4. The responsible Minister shall appoint one or more officers within the public authority as appointed officers to process a request for access to information under this Act.
 
-## Part III
+## PART III
 
 ## PROCEDURE OF REQUEST
 
@@ -292,7 +292,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 11 -->
 
-## Part IV
+## PART IV
 
 ## EXEMPTED INFORMATION
 
@@ -358,7 +358,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (q) the information would disclose the source of any information obtained in the course of making any programme or broadcast.
 
-## Part V
+## PART V
 
 ## OMBUDSMAN
 
@@ -392,7 +392,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (2) Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding five years or to a fine not exceeding one hundred thousand ringgit or to both.
 
-## Part VI
+## PART VI
 
 ## GENERAL
 
@@ -494,7 +494,7 @@ In addition, an aggrieved person may apply for judicial review against the decis
 
 Therefore, the proposed Act provides for the procedure for making requests for access to information, the duties of public authorities in dealing with such requests, the categories of information excluded from disclosure, the two- tier internal review mechanism, the external review by the Ombudsman, and to provide for related matters.
 
-## Part I
+## PART I
 
 2. Part I of the proposed Act contains preliminary matters.
 
@@ -526,7 +526,7 @@ Paragraph (d) includes the local authorities of the Federal Territories of Kuala
 
 The definition confines the application of the proposed Act to Federal public authorities and does not extend to the Governments of the States, State statutory bodies or local authorities established by a written law.
 
-## Part II
+## PART II
 
 6. Part II of the proposed Act contains provision relating to appointed officer.
 
@@ -534,7 +534,7 @@ The definition confines the application of the proposed Act to Federal public au
 
 <!-- page 20 -->
 
-## Part III
+## PART III
 
 8. Part III of the proposed Act contains provisions relating to the procedure to request for access to information under the proposed Act.
 
@@ -588,7 +588,7 @@ Subclause 11(2) seeks to empower the head of public authority, upon considering 
 
 Subclause 11(3) seeks to require that any decision made by the head of public authority shall be communicated in writing to the aggrieved person.
 
-## Part IV
+## PART IV
 
 16. Part IV of the proposed Act contains provisions relating to information that is exempted from disclosure.
 
@@ -616,7 +616,7 @@ Subclause 11(3) seeks to require that any decision made by the head of public au
 
 (j) paragraphs (p) and (q): unpublished broadcasting, media, or communication materials intended for future publication, and the protection of journalistic or broadcasting sources.
 
-## Part V
+## PART V
 
 18. Part V of the proposed Act contains provision relating to Ombudsman.
 
@@ -638,7 +638,7 @@ Subclause (2) seeks to provide for the decision by Ombudsman shall be communicat
 
 obtained in the course of their employment or any person who has by any means access to any information or documents relating to information under this Act, unless the disclosure is done for the purposes of legal proceedings under any written law, which in the failure to comply with such prohibition is an offence under the proposed Act.
 
-## Part VI
+## PART VI
 
 24. Part VI of the proposed Act contains the general provisions.
 

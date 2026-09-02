@@ -56,7 +56,33 @@ subscriber to the service by paying the prescribed fee and by complying with suc
 
 (6) A document that is required to be stamped, signed or sealed shall, if it is to be electronically filed or lodged, be certified or authenticated in such manner as may be prescribed by regulations or approved by the Registrar.
 
-Evidentiary (7) A copy of or an extract from any value of document electronically filed or lodged with copies of the Registrar under subsection (1) supplied or electronically filed issued by the Registrar and certified to be a documents true copy thereof or extract therefrom under certified by Registrar. the hand and seal of the Registrar shall be admissible in evidence in any proceedings as of equal validity as the original document.
+<!-- marginal: Evidentiary -->
+
+(7) A copy of or an extract from any
+
+<!-- marginal: value of -->
+
+document electronically filed or lodged with
+
+<!-- marginal: copies of -->
+
+the Registrar under subsection (1) supplied or
+
+<!-- marginal: electronically -->
+
+<!-- marginal: filed -->
+
+issued by the Registrar and certified to be a
+
+<!-- marginal: documents -->
+
+true copy thereof or extract therefrom under
+
+<!-- marginal: certified by -->
+
+<!-- marginal: Registrar. -->
+
+the hand and seal of the Registrar shall be admissible in evidence in any proceedings as of equal validity as the original document.
 
 (8) Where a document is electronically filed or lodged with the Registrar, the Registrar or his authorised agents shall not be liable for any loss or damage suffered by any person by reason of any error or omission of whatever nature or
 
@@ -78,19 +104,17 @@ however arising appearing in any document obtained by any person under the servi
 
 "(8) Notwithstanding anything to the contrary in this Act or any rule of law, the Registrar shall refuse to register the memorandum of a proposed company if he is satisfied that—
 
-(a) the proposed company is likely to be used for unlawful purposes or any purpose prejudicial
-
-<!-- marginal: to or -->
-
-incompatible with peace, welfare, security, public order, good order or morality in Malaysia; or
+(a) the proposed company is likely to be used for unlawful purposes or any purpose prejudicial to or incompatible with peace, welfare, security, public order, good order or morality in Malaysia; or
 
 (b) it would be prejudicial to national security or public interest for the proposed company to be registered.".
 
 <!-- page 4 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-4. Seksyen 139 Akta ibu adalah dipinda— seksyen 139.
+4. Seksyen 139 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 139. -->
 
 (a) dengan memasukkan selepas subseksyen (1B) subseksyen yang berikut:
 
@@ -104,11 +128,37 @@ Pindaan
 
 "(6) Every person shall, before he is appointed a secretary of a company, make a declaration in the prescribed form that he is not in contravention of sections 139A and 139c and that he consents to act as a secretary of the company.".
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
 5. Akta ibu adalah dipinda dengan memasukkan sebelum
 
-166A.. seksyen 167 dalam Penggal 1 Bahagian VI seksyen yang berikut: " Compliance 166A. (1) In this Part unless the contrary with intention appears, "approved accounting approved accounting standards" shall have the meaning assigned standards. thereto in section 2 of the Financial Reporting Act 558. Act 1997.
+166A.. seksyen 167 dalam Penggal 1 Bahagian VI seksyen yang
+
+<!-- marginal: berikut: -->
+
+"
+
+<!-- marginal: Compliance -->
+
+166A. (1) In this Part unless the contrary
+
+<!-- marginal: with -->
+
+intention appears, "approved accounting
+
+<!-- marginal: approved -->
+
+<!-- marginal: accounting -->
+
+standards" shall have the meaning assigned
+
+<!-- marginal: standards. -->
+
+thereto in section 2 of the Financial Reporting
+
+<!-- marginal: Act 558. -->
+
+Act 1997.
 
 <!-- page 5 -->
 
@@ -170,9 +220,11 @@ out the accounts or consolidated
 
 ### standard shall prevail,".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-6. Seksyen 169 Akta ibu adalah dipinda dengan seksyen 169.
+6. Seksyen 169 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 169. -->
 
 ### menggantikan subseksyen (15) dengan subseksyen yang
 
@@ -244,9 +296,13 @@ accordance with that approved accounting standard, have given a true and fair vi
 
 (iv) in a case to which neither subparagraph (ii) nor (iii) applies, particulars of the quantified financial effect on the accounts or consolidated accounts of the failure to so draw up the accounts or consolidated accounts, as the case may be;".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-8. Seksyen 194 Akta ibu adalah dipinda dalam takrif seksyen 194. "declared company" dengan menggantikan perkataan "proclamation" dengan perkataan "order".
+8. Seksyen 194 Akta ibu adalah dipinda dalam takrif
+
+<!-- marginal: seksyen 194. -->
+
+"declared company" dengan menggantikan perkataan "proclamation" dengan perkataan "order".
 
 <!-- page 9 -->
 

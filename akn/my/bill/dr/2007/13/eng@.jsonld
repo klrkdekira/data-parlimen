@@ -1,0 +1,323 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-13-2007",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_4"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Penal Code (Amendment)(Amendment) Bill 2007"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Penal Code (Amendment) (Amendment) Act 2007."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister under subsection 1(2) of the Penal Code (Amendment) Act 2006 [Act A1273]. Substitution of section 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_2__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_2__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_2__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Penal Code (Amendment) Act 2006, which is referred to as the \"principal Act\" in this Act, is amended by substituting for section 7 the following section: \"Amendment of section 376 7. The Code is amended by substituting for section 376 the following section: \"Punishment for rape 376. (1) Subject to subsections (2), (3) and (4), whoever commits rape shall be punished with imprisonment for a term which may extend to twenty years, and shall also be liable to whipping."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_2__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_2__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_2__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_2__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_2__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_2__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_2__subsec_2__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Whoever commits rape on a woman under any of the following circumstances:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_2__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_2__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "at the time of, or immediately before or after the commission of the offence, causes hurt to her or to any other person;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_2__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_2__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "at the time of, or immediately before or after the commission of the offence, puts her in fear of death or hurt to herself or any other person;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_2__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_2__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the offence was committed in the company of or in the presence of any other person;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_2__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_2__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "without her consent, when she is under sixteen years of age;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_2__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_2__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "with or without her consent, when she is under twelve years of age;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_2__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_2__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "with her consent, when the consent is obtained by using his position of authority over her or because of professional relationship or other relationship of trust in relation to her; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_2__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_2__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "at the time of the offence the woman was pregnant, shall be punished with imprisonment for a term of not less than five years and not more than thirty years and shall also be liable to whipping."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_2__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Whoever commits rape on a woman whose relationship to him is such that he is not permitted under the law, religion, custom or usage, to marry her, shall be punished with imprisonment for a term of not less than eight years and not more than thirty years, and shall also be punished with whipping of not less than ten strokes."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_2__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Whoever whilst committing or attempting to commit rape causes the death of the woman on whom the rape is committed or attempted shall be punished with death or imprisonment for a term of not less than fifteen years and not more than thirty years, and shall also be punished with whipping of not less than ten strokes.\" \". New sections 11A and 11B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 11 the following sections: \"New section 11A 11A. Section 396 of the Code is amended by substituting for the word \"five\" the word \"two\". New section 11B 11B. Section 402 of the Code is amended by substituting for the word \"five\" the word \"two\".\". Substitution of section 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_4__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_4__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 26 the following section: \"Amendment to the Penal Code (Amendment) Act 2003 26. The Penal Code (Amendment) Act 2003 [Act A1210] is amended— (a) in section 5, in relation to section 130B — (i) by substituting for subsection (2) the following subsection: \"(2) For the purposes of this Chapter, \"terrorist act\" means an act or threat of action within or beyond Malaysia where—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_4__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_4__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_4__list_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_4__list_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_4"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_4__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_4__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the act or threat falls within subsection (3) and does not fall within subsection (4);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_4__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_4__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the act is done or the threat is made with the intention of advancing a political, religious or ideological cause; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_4__list_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_4__list_1__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_4__list_1__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_4__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the act or threat is intended or may reasonably be regarded as being intended to —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_4__list_1__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_4__list_1__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "intimidate the public or a section of the public; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_4__list_1__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_4__list_1__para_c__subpara_ii__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_4__list_1__para_c__subpara_ii__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_4__list_1__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "influence or compel the Government of Malaysia or the Government of any State in Malaysia, any other government, or any international organization to do or refrain from doing any act.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_4__list_1__para_c__subpara_ii__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_4__list_1__para_c__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsections: \"(3) An act or threat of action falls within this subsection if it— (a) involves serious bodily injury to a person; (b) endangers a person's life; (c) causes a person's death; (d) creates a serious risk to the health or the safety of the public or a section of the public; (e) involves serious damage to property; (f) involves the use of firearms, explosives or other lethal devices; (g) involves releasing into the environment or any part of the environment or distributing or exposing the public or a section of the public to — (i) any dangerous, hazardous, radioactive or harmful substance; (ii) any toxic chemical; or (iii) any microbial or other biological agent or toxin; (h) is designed or intended to disrupt or seriously interfere with, any computer systems or the provision of any services directly related to communications infrastructure, banking or financial services, utilities, transportation or other essential infrastructure; (i) is designed or intended to disrupt, or seriously interfere with, the provision of essential emergency services such as police, civil defence or medical services; (j) involves prejudice to national security or public safety; (k) involves any combination of any of the acts specified in paragraphs (a) to (j), and includes any act or omission constituting an offence under the Aviation Offences Act 1984 [Act 307]. (4) An act or threat of action falls within this subsection if it— (a) is advocacy, protest, dissent or industrial action; and (b) is not intended— (i) to cause serious bodily injury to a person; (ii) to endanger the life of a person; (iii) to cause a person's death; or (iv) to create a serious risk to the health or safety of the public or a section of .the public\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_4__list_1__para_c__subpara_ii__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_4__list_1__para_c__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering subsection (3) as subsection (5); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_4__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_4__list_2__para_b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_4"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_4__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/13/eng@/~cl_4__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting section 9.\" \"."
+      }
+    }
+  ]
+}

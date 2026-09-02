@@ -362,7 +362,9 @@ the employer shall, within thirty days of the termination of service, inform the
 
 ### Deletion of sections 69b, 69c, 69d and 69e
 
-29. The principal Act is amended by deleting sections 69b, 69c, 69d and 69e.
+29. The principal Act is amended by deleting sections 69b, 69c,
+
+## 69D AND 69E.
 
 ### New section 69f
 

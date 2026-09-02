@@ -74,34 +74,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_2",
       "@type": "akn:clause",
       "eli:number": "2",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_2__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_2__para_b"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta Suruhanjaya Penerbangan Malaysia 2015 [Akta 771], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 2 dengan menggantikan takrif “hak trafik udara” dengan takrif yang berikut: ‘ “hak trafik udara” ertinya—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_2__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "berhubung dengan laluan domestik, hak sesuatu syarikat penerbangan yang dilesenkan oleh Suruhanjaya untuk mengadakan perkhidmatan udara bagi perjalanan berjadual dalam Malaysia, dan termasuklah tempat yang hendak dihubungkan, jenis pesawat udara yang hendak digunakan dan kapasiti yang hendak diberikan; atau"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_2__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "berhubung dengan laluan antarabangsa, hak sesuatu syarikat penerbangan yang dilesenkan oleh Suruhanjaya dan ditetapkan, dinamakan atau selainnya dibenarkan oleh Kerajaan untuk mengadakan perkhidmatan udara bagi perjalanan berjadual dari, ke atau merentas sesuatu negara di bawah suatu perjanjian perkhidmatan udara, dan termasuklah tempat yang hendak dihubungkan, laluan yang padanya perkhidmatan udara hendaklah diberikan, jenis pesawat udara yang hendak digunakan dan kapasiti yang hendak diberikan;’. Pindaan seksyen 18"
+        "@value": "Akta Suruhanjaya Penerbangan Malaysia 2015 [Akta 771], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 2 dengan menggantikan takrif “hak trafik udara” dengan takrif yang berikut: ‘ “hak trafik udara” ertinya— (a) berhubung dengan laluan domestik, hak sesuatu syarikat penerbangan yang dilesenkan oleh Suruhanjaya untuk mengadakan perkhidmatan udara bagi perjalanan berjadual dalam Malaysia, dan termasuklah tempat yang hendak dihubungkan, jenis pesawat udara yang hendak digunakan dan kapasiti yang hendak diberikan; atau (b) berhubung dengan laluan antarabangsa, hak sesuatu syarikat penerbangan yang dilesenkan oleh Suruhanjaya dan ditetapkan, dinamakan atau selainnya dibenarkan oleh Kerajaan untuk mengadakan perkhidmatan udara bagi perjalanan berjadual dari, ke atau merentas sesuatu negara di bawah suatu perjanjian perkhidmatan udara, dan termasuklah tempat yang hendak dihubungkan, laluan yang padanya perkhidmatan udara hendaklah diberikan, jenis pesawat udara yang hendak digunakan dan kapasiti yang hendak diberikan;’. Pindaan seksyen 18"
       }
     },
     {

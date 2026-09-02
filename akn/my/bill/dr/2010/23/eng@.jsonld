@@ -1,0 +1,307 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-23-2010",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_10"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Children and Young Persons (Employment) (Amendment) Bill 2010"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any existing contract of employment entered into by a child or a young person under subsection 2(2) or 2(3), respectively, before the commencement of this act shall continue and be valid as if this act has not been made."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This act may be cited as the Children and Young Persons (Employment) (amendment) act 2010."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Non-application"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This act shall not apply to a person above the age of sixteen but below the age of eighteen who is engaged in an existing employment before the commencement of this act. Amendment of section 1a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_3__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Children and Young Persons (Employment) act 1966 [Act 350], which is referred to as the “principal act” in this act, is amended in subsection 1a(1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “child” the following definition: ‘ “child” means any person who has not completed his fifteenth year of age;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “young person” the following definition: ‘ “young person” means any person who, not being a child, has not completed his eighteenth year of age;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of ‘ “employ” and “employment” ’, by deleting the words “exercised by way of a trade or”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “guardian” the following definition: ‘ “light work” means any work performed by a worker— (a) while sitting, with moderate movement of the arm, leg and trunk; or (b) while standing, with mostly moderate movement of the arm;’. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_4__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_4__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 2 of the principal act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by inserting after the word “any” the words “hazardous work, or any”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4), by inserting after the word “health” the words “, safety”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (5), by substituting for the words “or the Electricity act 1949 [Act 116]” the words “, the Occupational Safety and Health act 1994 [Act 514] or the Electricity Supply act 1990 [Act 447]”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_4__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (5) the following subsection: “(6) For the purpose of this section, “hazardous work” means any work that has been classified as hazardous work based on the risk assessment conducted by a competent authority on safety and health determined by the Minister.”. Amendment of section 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 7(2) of the principal act is amended by inserting after the word “health” the words “, safety”. New section 9a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal act is amended by inserting after section 9 the following section: “Offence by body corporate, etc. 9a. Where an offence under this act has been committed by a body corporate, partnership, society or trade union— (a) in the case of a body corporate, any person who is a director, manager, or other similar officer of the body corporate at the time of the commission of the offence; (b) in the case of a partnership, every partner in the partnership at the time of the commission of the offence; and (c) in the case of a society or trade union, every office- bearer of the society or trade union at the time of the commission of the offence, shall be deemed to have committed the offence and may be charged jointly or severally in the same proceedings as the body corporate, partnership, society or trade union.”. Amendment of section 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_7__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_7__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 14(1) of the principal act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “six months” the words “one year”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “two thousand” the words “five thousand”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “two years” the words “three years”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_7__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “three thousand” the words “ten thousand”. Amendment of section 16"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 16 of the principal act is amended by deleting the words “set out in the First Schedule”. Deletion of First Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/23/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal act is amended by deleting the First"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Schedule. Saving provision"
+      }
+    }
+  ]
+}

@@ -52,11 +52,7 @@ Dengan syarat bahawa perenggan (b) tidaklah mempunyai kuatkuasa bagi maksud peru
 
 (a) apabila Dewan Undangan bermesyuarat bagi pertama kalinya selepas suatu pilihanraya umum;
 
-(b) apabila dia terhenti menjadi ahli Dewan melainkan oleh sebab pembubarannya atau, jika dia menjadi ahli semata-mata menurut kuasa perenggan (b) subseksyen (1B), apabila dia
-
-<!-- marginal: terhenti -->
-
-berkelayakan menjadi ahli;
+(b) apabila dia terhenti menjadi ahli Dewan melainkan oleh sebab pembubarannya atau, jika dia menjadi ahli semata-mata menurut kuasa perenggan (b) subseksyen (1B), apabila dia terhenti berkelayakan menjadi ahli;
 
 <!-- page 3 -->
 

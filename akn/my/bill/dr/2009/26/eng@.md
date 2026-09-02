@@ -4,9 +4,11 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
-PrELIMINarY 1. Short title and commencement 2. Interpretation
+## PRELIMINARY
+
+1. Short title and commencement 2. Interpretation
 
 ## Part II
 
@@ -18,13 +20,23 @@ PrELIMINarY 1. Short title and commencement 2. Interpretation
 
 ## ESTABLISHMENT OF LABUAN FOUNDATION
 
-4. Establishment of Labuan foundation 5. Founder of Labuan foundation 6. Beneficiaries under Labuan foundation 7. Purpose and object of Labuan foundation 8. Charter of Labuan foundation 9. Amendment of charter 10. Articles of Labuan foundation 11. Property of Labuan foundation 12. Powers and obligations of founder
+4. Establishment of Labuan foundation 5. Founder of Labuan foundation 6. Beneficiaries under Labuan foundation 7. Purpose and object of Labuan foundation 8. Charter of Labuan foundation 9. Amendment of charter
+
+10. Articles of Labuan foundation
+
+11. Property of Labuan foundation
+
+12. Powers and obligations of founder
 
 ## Part IV
 
 ## REGISTRATION OF LABUAN FOUNDATION
 
-13. Name of Labuan foundation 14. Registration 15. Certificate of registration
+13. Name of Labuan foundation
+
+14. Registration
+
+15. Certificate of registration
 
 <!-- page 2 -->
 
@@ -46,7 +58,7 @@ PrELIMINarY 1. Short title and commencement 2. Interpretation
 
 24. Redomicilation in another country
 
-## Part V
+## PART V
 
 ## COUNCIL, OFFICERS AND SECRETARY
 
@@ -98,19 +110,59 @@ Secretary
 
 Registered office
 
-44. Registered office 45. Documents to be kept at registered office 46. Form of records of Labuan foundation 47. Translation of document and instrument 48. Inspection and production of documents kept by Labuan foundation 49. Inspection and production of documents kept by Authority
+44. Registered office
 
-## Part VI
+45. Documents to be kept at registered office
+
+46. Form of records of Labuan foundation
+
+47. Translation of document and instrument
+
+48. Inspection and production of documents kept by Labuan foundation
+
+49. Inspection and production of documents kept by Authority
+
+## PART VI
 
 ## CAPACITY OF LABUAN FOUNDATION
 
-50. Capacity and powers 51. Ratification of act done beyond capacity 52. Power of officers to bind the Labuan foundation 53. Execution of contracts, documents by Labuan foundation 54. Disclosure of interest 55. Liability of council member, supervisory person, officer and secretary 56. Court may grant relief 57. Money or other property from illegal activities 58. Fraudulent disposition 59. Accounts to be kept 60. Audit of Labuan foundation 61. Unenforceability of foreign claim or judgment
+50. Capacity and powers
 
-## Part VII
+51. Ratification of act done beyond capacity
+
+52. Power of officers to bind the Labuan foundation
+
+53. Execution of contracts, documents by Labuan foundation
+
+54. Disclosure of interest
+
+55. Liability of council member, supervisory person, officer and secretary
+
+56. Court may grant relief
+
+57. Money or other property from illegal activities
+
+58. Fraudulent disposition
+
+59. Accounts to be kept
+
+60. Audit of Labuan foundation
+
+61. Unenforceability of foreign claim or judgment
+
+## PART VII
 
 ## BENEFICIARIES
 
-62. Rights of beneficiary to information pertaining to his interest 63. Right of beneficiary to confidentiality 64. Court may order information to be made available to beneficiary 65. Distribution of property to beneficiary 66. Delegation of power to authorize distribution to beneficiary by officer
+62. Rights of beneficiary to information pertaining to his interest
+
+63. Right of beneficiary to confidentiality
+
+64. Court may order information to be made available to beneficiary
+
+65. Distribution of property to beneficiary
+
+66. Delegation of power to authorize distribution to beneficiary by officer
 
 <!-- page 4 -->
 
@@ -124,7 +176,7 @@ Registered office
 
 69. Distribution of property
 
-## Part IX
+## PART IX
 
 ## GENERAL PROVISIONS
 
@@ -156,7 +208,17 @@ Registered office
 
 83. Procedure where none laid down
 
-84. Application of the Labuan Financial Services Authority Act 1996 F Irst s chEduLE sEcoNd s chEduLE thIrd s chEduLE F ourth s chEduLE F IFth s chEduLE
+84. Application of the Labuan Financial Services Authority Act 1996
+
+## F IRST S CHEDULE
+
+## SECOND S CHEDULE
+
+## THIRD S CHEDULE
+
+## F OURTH S CHEDULE
+
+## F IFTH S CHEDULE
 
 <!-- page 5 -->
 
@@ -168,13 +230,15 @@ An Act to provide for the establishment, regulation and dissolution of foundatio
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 ### Short title and commencement
 
-1. (1) This Act may be cited as the Labuan Foundations Act 2009.
+1. (1) This Act may be cited as the Labuan Foundations Act
+
+2009.
 
 (2) This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette.
 
@@ -260,7 +324,7 @@ and includes a person who is declared to be a resident pursuant to section 43 of
 
 “to endow” means to pass, or covenant to pass, the title in property, absolutely so as to transfer the title to the property effectively, with or without consideration, to a Labuan foundation so that the property is the property of that Labuan foundation.
 
-## Part II
+## PART II
 
 ## ADMINISTRATION OF THE ACT
 
@@ -274,7 +338,7 @@ and includes a person who is declared to be a resident pursuant to section 43 of
 
 (3) Subject to such limitations, if any, as may be prescribed by the Authority, an authorized officer shall exercise all the powers, discharge all the duties and perform all the functions of the Authority and every power so exercised, duty so discharged and function so performed shall be deemed to have been duly exercised, discharged and performed for the purposes of this Act.
 
-## Part III
+## PART III
 
 ## ESTABLISHMENT OF LABUAN FOUNDATION
 
@@ -386,7 +450,7 @@ and includes a person who is declared to be a resident pursuant to section 43 of
 
 (b) shall enforce the undertaking in respect of the initial assets of the Labuan foundation, if at the end of a period of twelve months from the date of registration, the property representing the same has not become the property of the Labuan foundation.
 
-## Part IV
+## PART IV
 
 ## REGISTRATION OF LABUAN FOUNDATION
 
@@ -568,7 +632,7 @@ the Authority may, within thirty days from the date of the expiration of the per
 
 (4) Where a Labuan foundation registered under this Act is redomiciled and registered under the laws of another country, the Labuan foundation shall submit to the Authority a certified copy, and where applicable, an apostilled copy of the certificate of registration issued by the registrar or other relevant competent authority in that other country and upon receipt of such copy of the certificate of registration, the Authority shall strike the Labuan foundation off the register and certify that the Labuan foundation has ceased to be a foundation registered under this Act.
 
-## Part V
+## PART V
 
 ## COUNCIL, OFFICERS AND SECRETARY
 
@@ -828,9 +892,11 @@ foundation by leaving it at, or by sending it by post, to any place of business 
 
 (b) require to be given to him a certified copy of the certificate of registration of the Labuan foundation or of any other document or part of any other document referred to in paragraph (a).
 
-(2) The certified copy of the certificate given under paragraph (1)(b) shall be signed by the Authority and sealed with its seal.
+(2) The certified copy of the certificate given under paragraph
 
-## Part VI
+(1)(b) shall be signed by the Authority and sealed with its seal.
+
+## PART VI
 
 ## CAPACITY OF LABUAN FOUNDATION
 
@@ -970,7 +1036,9 @@ member, supervisory person, officer or secretary against any liability incurred 
 
 (3) Any council member, supervisory person, officer, or secretary of a Labuan foundation who without reasonable excuse fails to observe the requirements of subsection (1) or fails to comply with the requirements of subsection (2) commits an offence and shall, upon conviction be liable to a fine not exceeding three million ringgit or to imprisonment for a term not exceeding five years or to both.
 
-(4) All moneys or property described in subsections (1) and (2) shall be forfeited to the Government and become its property absolutely.
+(4) All moneys or property described in subsections (1) and
+
+(2) shall be forfeited to the Government and become its property absolutely.
 
 ### Fraudulent disposition
 
@@ -1066,7 +1134,7 @@ then such establishment, registration or disposition shall not be void or voidab
 
 (d) the claims of creditors in an insolvency subject to the provisions of this section.
 
-## Part VII
+## PART VII
 
 ## BENEFICIARIES
 
@@ -1146,7 +1214,7 @@ take all reasonable steps to secure the rights to confidentiality of the other b
 
 <!-- page 45 -->
 
-## Part VIII
+## PART VIII
 
 ## DISSOLUTION
 
@@ -1192,7 +1260,7 @@ take all reasonable steps to secure the rights to confidentiality of the other b
 
 <!-- page 47 -->
 
-## Part IX
+## PART IX
 
 ## GENERAL PROVISIONS
 
@@ -1204,7 +1272,9 @@ take all reasonable steps to secure the rights to confidentiality of the other b
 
 (3) If a Labuan foundation fails to pay the annual fee referred to in subsection (2) on or before the expiration of a period of six months from the annual fee payment date, there shall be payable in addition to the annual fee an amount equivalent to fifty per cent of the annual fee.
 
-(4) Any fees collected by or paid to the Authority under this Act shall form part of and credited into the Fund established under section 29 of the Labuan Financial Services Authority Act 1996.
+(4) Any fees collected by or paid to the Authority under this Act shall form part of and credited into the Fund established under section 29 of the Labuan Financial Services Authority Act
+
+1996.
 
 ### Secrecy
 
@@ -1348,7 +1418,7 @@ unless, having regard to the nature of his functions in that capacity and to all
 
 84. In the event of any conflict or inconsistency between the provisions of this Act and the Labuan Financial Services Authority Act 1996, the provisions of the Labuan Financial Services Authority Act 1996 shall prevail.
 
-FIrst s chEduLE
+## FIRST S CHEDULE
 
 [Subsection 8(2)]
 
@@ -1366,7 +1436,7 @@ Particulars of Charter
 
 6. Name and address in Labuan of the secretary of the Labuan foundation which shall be the address of the registered office of the Labuan foundation in accordance with section 44
 
-sEcoNd s chEduLE
+## SECOND S CHEDULE
 
 [Subsection 8(3)]
 
@@ -1392,7 +1462,7 @@ Provisions of Charter
 
 9. Revocation of the charter by the founder and the return of the property to the founder
 
-thIrd s chEduLE
+## THIRD S CHEDULE
 
 [Subsection 10(1)]
 
@@ -1406,7 +1476,7 @@ Articles of Labuan Foundation
 
 4. Identification of the remaining beneficiary upon the dissoluton of the Labuan foundation
 
-Fourth s chEduLE
+## FOURTH S CHEDULE
 
 [Subsection 14(1)]
 
@@ -1434,7 +1504,7 @@ Documents for Registration of Labuan Foundation
 
 3. A statutory declaration by the secretary of the Labuan foundation of compliance with all relevant requirements of this Act
 
-FIFth s chEduLE
+## FIFTH S CHEDULE
 
 [Sections 26 and 36]
 
@@ -1546,7 +1616,7 @@ Council Meetings and Meetings of Officers
 
 The Labuan Foundations Act 2009 (”the Act”) as proposed by this Bill seeks to provide for the establishment, regulation and dissolution of foundations in Labuan and for matters relating to it. The concept of foundation is a legally recognised concept in civil law countries as the civil law system recognises the concept of contractual duties but not of the fiduciary duties and equity as opposed to common law system. Therefore, the Act will cater to entities that relate to civil law origins and making Labuan entities more acceptable in both common and civil law systems.
 
-## Part I
+## PART I
 
 1. Part I deals with preliminary matters.
 
@@ -1556,13 +1626,13 @@ The Labuan Foundations Act 2009 (”the Act”) as proposed by this Bill seeks t
 
 <!-- page 60 -->
 
-## Part II
+## PART II
 
 4. Part II deals with the administration of the Act.
 
 5. Clause 3 provides that the Labuan Financial Services Authority (formerly known as the Labuan Offshore Financial Services Authority or LOFSA) shall be responsible for the administration of the proposed Act.
 
-## Part III
+## PART III
 
 6. Part III deals with the establishment of a Labuan foundation.
 
@@ -1582,7 +1652,7 @@ The Labuan Foundations Act 2009 (”the Act”) as proposed by this Bill seeks t
 
 14. Clause 12 sets out the powers and obligations of a founder or founders of a Labuan foundation.
 
-## Part IV
+## PART IV
 
 15. Part IV deals with the registration of a Labuan foundation under the proposed Act.
 
@@ -1610,7 +1680,7 @@ The Labuan Foundations Act 2009 (”the Act”) as proposed by this Bill seeks t
 
 26. Clause 24 allows a Labuan foundation established in Labuan to redomicile and be registered under the laws of another country in the manner provided under those laws.
 
-## Part V
+## PART V
 
 27. Part V deals with council, officer and secretary of a Labuan foundation.
 
@@ -1660,7 +1730,7 @@ The Labuan Foundations Act 2009 (”the Act”) as proposed by this Bill seeks t
 
 48. Clauses 48 and 49 deals with the inspection of the Labuan foundation’s documents kept by a Labuan foundation and the Authority respectively.
 
-## Part VI
+## PART VI
 
 49. Part VI of the Act deals with the capacity of Labuan foundation.
 
@@ -1690,7 +1760,7 @@ The Labuan Foundations Act 2009 (”the Act”) as proposed by this Bill seeks t
 
 <!-- page 65 -->
 
-## Part VII
+## PART VII
 
 61. Part VII of the Act deals with the rights of beneficiary to information pertaining to his interest.
 
@@ -1712,7 +1782,7 @@ The Labuan Foundations Act 2009 (”the Act”) as proposed by this Bill seeks t
 
 69. Clause 69 deals with the distribution of property, where a Labuan foundation is dissolved and there remain some properties after its dissolution, those properties shall be the property of the person who, according to the constituent document, is entitled to receive any property remaining after the dissolution of the Labuan foundation. Where there is no contrary provision in the constituent document of a Labuan foundation, where there is more than one remaining beneficiary entitled to receive the remaining property, the remaining property shall be divided equally between them.
 
-## Part IX
+## PART IX
 
 70. Part IX of the Act deals with the general provisions.
 

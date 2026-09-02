@@ -84,7 +84,9 @@ Laporan Kewangan (Pindaan)
 
 <!-- page 4 -->
 
-4 Rang Undang-Undang
+<!-- marginal: 4 -->
+
+Rang Undang-Undang
 
 ### Pindaan seksyen 7
 
@@ -102,15 +104,7 @@ dalam subseksyen (1)—
 
 (iii) dengan memasukkan selepas perenggan (c) perenggan yang berikut:
 
-"(ca) mengeluarkan,meluluskan,mengkaji semula, menyemak, meminda, menggantikan, menggantung, menunda, menarik balik atau membatalkan apa-apa pernyataan prinsip-prinsip, apa-apa keluaran teknikal dan keluaran lain dan apa-apa dokumen lain yang berhubungan dengan
-
-<!-- marginal: laporan -->
-
-kewangan walau dikenali dengan nama apa jua pun secara keseluruhan
-
-<!-- marginal: atau -->
-
-sebahagian;"; dan
+"(ca) mengeluarkan,meluluskan,mengkaji semula, menyemak, meminda, menggantikan, menggantung, menunda, menarik balik atau membatalkan apa-apa pernyataan prinsip-prinsip, apa-apa keluaran teknikal dan keluaran lain dan apa-apa dokumen lain yang berhubungan dengan laporan kewangan walau dikenali dengan nama apa jua pun secara keseluruhan atau sebahagian;"; dan
 
 (iv) dalam perenggan (h), dengan memasukkan selepas perkataan "melaksanakan" perkataan "apa-apa fungsi lain yang diberikan atau dikenakan ke atasnya oleh Akta ini atau";
 
@@ -220,7 +214,7 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Laporan Kewangan 1997 ("Akta
 
 Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
 
-[PN(U2)2406]
+<!-- marginal: [PN(U2)2406] -->
 
 <!-- page 9 -->
 

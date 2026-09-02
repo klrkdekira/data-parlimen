@@ -98,27 +98,19 @@ RM5,800 but not exceed RM5,900
 
 <!-- page 3 -->
 
-Monthly Wages Employer’s
-
-<!-- marginal: Employee’s -->
+Monthly Wages Employer’s Employee’s
 
 <!-- marginal: Total -->
 
-Contribution
+Contribution Contribution
 
-<!-- marginal: Contribution -->
-
-64. When wages exceed RM11.90
-
-<!-- marginal: RM11.90 -->
+64. When wages exceed RM11.90 RM11.90
 
 <!-- marginal: RM23.80 -->
 
 RM5,900 but not exceed RM6,000
 
-65. When wages exceed RM11.90
-
-<!-- marginal: RM11.90 -->
+65. When wages exceed RM11.90 RM11.90
 
 <!-- marginal: RM23.80 -->
 
@@ -130,21 +122,9 @@ RM5,900 but not exceed RM6,000
 
 (a) by substituting for item 55 the following item:
 
-Actual monthly wages Total
+Actual monthly wages Total Corresponding of the month contribution assumed monthly wages for the month
 
-<!-- marginal: Corresponding -->
-
-of the month contribution
-
-<!-- marginal: assumed -->
-
-<!-- marginal: monthly wages -->
-
-<!-- marginal: for the month -->
-
-55. When wages exceed RM20.20
-
-<!-- marginal: RM5,050 -->
+55. When wages exceed RM20.20 RM5,050
 
 <!-- marginal: ”; and -->
 
@@ -152,6 +132,18 @@ of the month contribution
 
 (b) by inserting after item 55 the following items:
 
+Actual monthly wages Total Corresponding of the month contribution assumed monthly wages for the month
+
+56. When wages exceed RM20.60 RM5,150 “ RM5,100 but not exceed RM5,200
+
+57. When wages exceed RM21.00 RM5,250 RM5,200 but not exceed RM5,300
+
+58. When wages exceed RM21.40 RM5,350 RM5,300 but not exceed RM5,400
+
+59. When wages exceed RM21.80 RM5,450 RM5,400 but not exceed RM5,500
+
+<!-- page 4 -->
+
 Actual monthly wages Total
 
 <!-- marginal: Corresponding -->
@@ -163,38 +155,6 @@ of the month contribution
 <!-- marginal: monthly wages -->
 
 <!-- marginal: for the month -->
-
-56. When wages exceed RM20.60
-
-<!-- marginal: RM5,150 -->
-
-“ RM5,100 but not exceed RM5,200
-
-57. When wages exceed RM21.00
-
-<!-- marginal: RM5,250 -->
-
-RM5,200 but not exceed RM5,300
-
-58. When wages exceed RM21.40
-
-<!-- marginal: RM5,350 -->
-
-RM5,300 but not exceed RM5,400
-
-59. When wages exceed RM21.80
-
-<!-- marginal: RM5,450 -->
-
-RM5,400 but not exceed RM5,500
-
-<!-- page 4 -->
-
-Actual monthly wages Total Corresponding of the month contribution
-
-<!-- marginal: assumed -->
-
-monthly wages for the month
 
 60. When wages exceed RM22.20
 

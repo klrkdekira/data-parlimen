@@ -12,7 +12,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Tajuk ringkas dan permulaan kuat kuasa
 
-1. ( 1 ) Akta ini bolehlah dinamakan Akta Takaful (Pindaan) 2007.
+1. ( 1 ) Akta ini bolehlah dinamakan Akta Takaful (Pindaan)
+
+2007.
 
 (2) Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
 
@@ -34,11 +36,7 @@ yang diperuntukkan di bawah Akta ini atau suatu syarikat asing yang menjalankan 
 
 (c) dengan menggantikan takrif ' "pengendali takaful", "ejen takaful" dan "broker takaful" ' dengan takrif yang berikut:
 
-"pengendali takaful", "pengendali
-
-<!-- marginal: takaful -->
-
-antarabangsa", "ejen takaful" dan "broker takaful" ertinya seseorang yang menjalankan perniagaan takaful masing- masing sebagai pengendali takaful, pengendali takaful antarabangsa, ejen takaful dan broker takaful;';
+"pengendali takaful", "pengendali takaful antarabangsa", "ejen takaful" dan "broker takaful" ertinya seseorang yang menjalankan perniagaan takaful masing- masing sebagai pengendali takaful, pengendali takaful antarabangsa, ejen takaful dan broker takaful;';
 
 (d) dengan memasukkan selepas takrif "perniagaan takaful" takrif yang berikut:
 

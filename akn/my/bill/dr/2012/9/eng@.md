@@ -4,7 +4,9 @@ a bill
 
 intituled
 
-an act to amend the Private Higher Educational institutions act 1996. [ ]
+an act to amend the Private Higher Educational institutions act
+
+1996. [ ]
 
 ENACTED by the Parliament of Malaysia as follows:
 

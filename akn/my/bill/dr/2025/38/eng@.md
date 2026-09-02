@@ -4,17 +4,17 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## ChApTER I
+## CHAPTER I
 
-pRELIMINARY
+## PRELIMINARY
 
 1. Short title
 
 2. Amendment of Acts
 
-## ChApTER II
+## CHAPTER II
 
-AMENDMENTS TO ThE INCOME TAX ACT 1967
+## AMENDMENTS TO THE INCOME TAX ACT 1967
 
 3. Commencement of amendments to the Income Tax Act 1967
 
@@ -50,7 +50,7 @@ AMENDMENTS TO ThE INCOME TAX ACT 1967
 
 <!-- page 2 -->
 
-## ChApTER III
+## CHAPTER III
 
 ## AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976
 
@@ -66,7 +66,7 @@ AMENDMENTS TO ThE INCOME TAX ACT 1967
 
 24. Amendment of section 24
 
-## ChApTER IV
+## CHAPTER IV
 
 ## AMENDMENTS TO THE STAMP ACT 1949
 
@@ -82,7 +82,7 @@ AMENDMENTS TO ThE INCOME TAX ACT 1967
 
 30. Amendment of Third Schedule
 
-## ChApTER V
+## CHAPTER V
 
 ## AMENDMENT TO THE LABUAN BUSINESS ACTIVITY TAX ACT 1990
 
@@ -90,7 +90,7 @@ AMENDMENTS TO ThE INCOME TAX ACT 1967
 
 32. Amendment of section 12
 
-## ChApTER VI
+## CHAPTER VI
 
 ## AMENDMENT TO THE PETROLEUM (INCOME TAX) ACT 1967
 
@@ -108,7 +108,7 @@ An Act to amend the Income Tax Act 1967, the Real Property Gains Tax Act 1976, t
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## ChApTER I
+## CHAPTER I
 
 ## PRELIMINARY
 
@@ -122,7 +122,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 4 -->
 
-## ChApTER II
+## CHAPTER II
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
@@ -150,9 +150,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (b) by inserting after paragraph (r) the following paragraph:
 
-“(s) income tax shall be charged for each year of assessment upon the income of an individual, who is a partner of a limited liability partnership, which consists of profits derived from Malaysia paid, credited or distributed, whether in cash or in kind, to the individual by the limited liability partnership at the appropriate rate as specified in
-
-## Part XXIII of Schedule 1.”.
+“(s) income tax shall be charged for each year of assessment upon the income of an individual, who is a partner of a limited liability partnership, which consists of profits derived from Malaysia paid, credited or distributed, whether in cash or in kind, to the individual by the limited liability partnership at the appropriate rate as specified in Part XXIII of Schedule 1.”.
 
 <!-- page 5 -->
 
@@ -200,7 +198,9 @@ Provided that—
 
 <!-- page 7 -->
 
-(vi) by substituting for paragraph (v) the following paragraph:
+(vi) by substituting for paragraph (v) the following
+
+<!-- marginal: paragraph: -->
 
 “(v) expenses expended in that basis year by the individual—
 
@@ -344,9 +344,7 @@ whichever is the earlier.”; and
 
 ### Amendment of Schedule 1
 
-17. Schedule 1 to the principal Act is amended by inserting after
-
-## Part XXII the following part:
+17. Schedule 1 to the principal Act is amended by inserting after Part XXII the following part:
 
 “pART XXIII
 
@@ -368,7 +366,7 @@ whichever is the earlier.”; and
 
 “12d. Any profit paid, credited or distributed, whether in cash or in kind, to a partner who is an individual, by a limited liability partnership, amounting to one hundred thousand ringgit or less.”.
 
-## ChApTER III
+## CHAPTER III
 
 ## AMENDMENTS TO THE REAL PROPERTY GAINS
 
@@ -418,11 +416,7 @@ whichever is the less and, whether or not the amount is so retained, within a pe
 
 (b) by substituting for subsection (1A) the following subsection:
 
-“(1A) Subject to subsection (1C), where a disposal under subsection (1) is made by a disposer under
-
-## Part II of Schedule 5 in relation to a disposal within
-
-a period of three years after the date of acquisition of the chargeable asset, the acquirer shall—
+“(1A) Subject to subsection (1C), where a disposal under subsection (1) is made by a disposer under Part II of Schedule 5 in relation to a disposal within a period of three years after the date of acquisition of the chargeable asset, the acquirer shall—
 
 (a) retain the whole of that money;
 
@@ -434,9 +428,7 @@ whichever is the less and, whether or not the amount is so retained, within a pe
 
 (c) by inserting after subsection (1A) the following subsections:
 
-“(1b) Subject to subsection (1C), where a disposal under subsection (1) is made by a disposer under
-
-## Part III of Schedule 5, the acquirer shall—
+“(1b) Subject to subsection (1C), where a disposal under subsection (1) is made by a disposer under Part III of Schedule 5, the acquirer shall—
 
 (a) retain the whole of that money;
 
@@ -476,7 +468,7 @@ whichever is the less and, whether or not the amount is so retained, within a pe
 
 (b) in subsection (7b), by substituting for the words “subsection 111(4A) of the Income Tax Act 1967 or subsection 50(4) of the Petroleum (Income Tax) Act 1967” the words “subsection 80C(1) of the Stamp Act 1949, subsection 111(4A) of the Income Tax Act 1967, subsection 50(4) of the Petroleum (Income Tax) Act 1967 or subsection 12(2) of the Labuan Business Activity Tax Act 1990”.
 
-## ChApTER IV
+## CHAPTER IV
 
 ## AMENDMENTS TO THE STAMP ACT 1949
 
@@ -590,7 +582,7 @@ resident
 
 <!-- page 21 -->
 
-## ChApTER V
+## CHAPTER V
 
 ## AMENDMENT TO THE LABUAN BUSINESS ACTIVITY
 
@@ -620,7 +612,7 @@ resident
 
 (3) Where amount of excess in respect of a Labuan entity is ascertained in accordance with subsection 80C(1) of the Stamp Act 1949, subsection 111(4A) of the Income Tax Act 1967, subsection 50(4) of the Petroleum (Income Tax) Act 1967 or subsection 24(7A) of the Real Property Gains Tax Act 1976, the excess shall be applied for the payment of tax which is due and payable (including any amount of instalments which are due and payable) by the Labuan entity under this Act.”.
 
-## ChApTER VI
+## CHAPTER VI
 
 ## AMENDMENT TO THE PETROLEUM (INCOME TAX) ACT 1967
 
@@ -652,7 +644,7 @@ This Bill seeks to amend the Income Tax Act 1967 (“Act 53”), the Real Proper
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
-## Chapter II of this Bill seeks to amend the Income Tax Act 1967.
+Chapter II of this Bill seeks to amend the Income Tax Act 1967.
 
 2. Clause 4 seeks to introduce a new paragraph 6(1)(s) into Act 53 to provide that income tax shall be charged on the profits paid, credited or distributed to an individual who is a partner of a limited liability partnership at the appropriate rate as specified in Part XXIII of Schedule 1 to Act 53.
 
@@ -708,11 +700,7 @@ This amendment has effect for the year of assessment 2026 and subsequent years o
 
 This amendment comes into operation on 1 January 2026.
 
-8. Clause 11 seeks to amend subsection 65D(1) of Act 53 to clarify that the tax treatment for the gains or profits from the disposal of capital asset under
-
-## Chapter 9 of Act 53 only applies to the disposal of capital asset situated in
-
-Malaysia or disposal of shares referred to in section 15C of Act 53.
+8. Clause 11 seeks to amend subsection 65D(1) of Act 53 to clarify that the tax treatment for the gains or profits from the disposal of capital asset under Chapter 9 of Act 53 only applies to the disposal of capital asset situated in Malaysia or disposal of shares referred to in section 15C of Act 53.
 
 This amendment comes into operation on 1 January 2026.
 
@@ -764,7 +752,7 @@ These amendments have effect for the year of assessment 2026 and subsequent year
 
 ## AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976
 
-## Chapter III of this Bill seeks to amend the Real Property Gains Tax Act 1976.
+Chapter III of this Bill seeks to amend the Real Property Gains Tax Act 1976.
 
 16. Clause 20 seeks to amend paragraph 7(4)(b) of Act 169 to provide that any allowable losses in relation to a disposal in a year of assessment is allowed as a deduction for a period of ten consecutive years of assessment.
 
@@ -812,7 +800,7 @@ These amendments come into operation on 1 January 2026.
 
 ## AMENDMENTS TO THE STAMP ACT 1949
 
-## Chapter IV of this Bill seeks to amend the Stamp Act 1949.
+Chapter IV of this Bill seeks to amend the Stamp Act 1949.
 
 21. Clause 26 seeks to amend section 2 of Act 378 to introduce the new definition of “residential property” into Act 378 to clarify the difference between property and residential property under Act 378.
 
@@ -842,7 +830,7 @@ This amendment comes into operation on 1 January 2026.
 
 ## AMENDMENT TO THE LABUAN BUSINESS ACTIVITY TAX ACT 1990
 
-## Chapter V of this Bill seeks to amend the Labuan Business Activity Tax Act 1990.
+Chapter V of this Bill seeks to amend the Labuan Business Activity Tax Act 1990.
 
 26. Clause 32 seeks to introduce new subsections 12(2) and (3) into Act 445.
 
@@ -854,7 +842,7 @@ These amendments come into operation on 1 January 2026.
 
 ## AMENDMENT TO THE PETROLEUM (INCOME TAX) ACT 1967
 
-## Chapter VI of this Bill seeks to amend the Petroleum (Income Tax) Act 1967.
+Chapter VI of this Bill seeks to amend the Petroleum (Income Tax) Act 1967.
 
 27. Clause 34 seeks to amend section 50 of Act 543.
 

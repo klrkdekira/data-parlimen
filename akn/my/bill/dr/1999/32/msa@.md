@@ -12,9 +12,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Tajuk ringkas dan permulaan kuat kuasa
 
-1. (1) Akta ini bolehlah dinamakan Akta Cukai Jualan (Pindaan)
-
-1999.
+1. (1) Akta ini bolehlah dinamakan Akta Cukai Jualan (Pindaan) 1999.
 
 (2) Akta ini mula berkuat kuasa pada 1 Januari 2000.
 
@@ -32,7 +30,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 2 -->
 
-2 Rang Undang-Undang
+<!-- marginal: 2 -->
+
+Rang Undang-Undang
 
 ' "pengilangan" ertinya—
 
@@ -48,13 +48,19 @@ Fenggantian seksyen 16
 
 4. Akta ibu dipinda dengan menggantikan seksyen 16 dengan seksyen yang berikut:
 
-"peng-
+<!-- marginal: "peng- -->
 
-16. Tertakluk kepada Akta ini, cukai jualan hendaklah hitungan cukai yang
+16. Tertakluk kepada Akta ini, cukai jualan hendaklah
+
+<!-- marginal: hitungan -->
+
+<!-- marginal: cukai yang -->
 
 ### dilevi——
 
-kena dibayar.
+<!-- marginal: kena -->
+
+<!-- marginal: dibayar. -->
 
 (a) atas nilai jualan mengikut kadar yang berkuat kuasa pada masa cukai jualan itu kena dibayar; atau
 

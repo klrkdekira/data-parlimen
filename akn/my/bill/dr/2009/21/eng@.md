@@ -32,4 +32,4 @@ This Bill seeks to amend the Seri Pahlawan Gagah Perkasa (Remembrance Allowance)
 
 This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained.
 
-[PN(U2)2701]
+<!-- marginal: [PN(U2)2701] -->

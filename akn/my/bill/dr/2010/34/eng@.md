@@ -14,7 +14,17 @@
 
 ## THE MALAYSIAN FOOD ANALYSTS COUNCIL
 
-4. Establishment of Council 5. Functions and powers of the Council 6. Common seal 7. Membership of the Council 8. Tenure of office 9. Allowances 10. Vacation of office 11. Meetings of the Council 12. Procedure at meetings 13. Committees 14. Public Authorities Protection Act 1948
+4. Establishment of Council 5. Functions and powers of the Council 6. Common seal 7. Membership of the Council 8. Tenure of office 9. Allowances
+
+10. Vacation of office
+
+11. Meetings of the Council
+
+12. Procedure at meetings
+
+13. Committees
+
+14. Public Authorities Protection Act 1948
 
 15. Public servants
 
@@ -22,7 +32,11 @@
 
 ## REGISTRATION OF FOOD ANALYSTS
 
-16. Registrar 17. Register 18. Application for registration
+16. Registrar
+
+17. Register
+
+18. Application for registration
 
 <!-- page 2 -->
 
@@ -384,7 +398,9 @@ shall be conclusive evidence of the matter referred to therein.
 
 22. (1) A registered food analyst shall comply with all guidelines issued by the Council.
 
-(2) A registered food analyst who fails to comply with subsection (1) commits an offence.
+(2) A registered food analyst who fails to comply with subsection
+
+(1) commits an offence.
 
 ## PART IV
 
@@ -668,7 +684,9 @@ of any statement made by him to an authorized officer in the course of a police 
 
 (2) An offer under subsection (1) may be made at any time after the offence has been committed but before any prosecution for it has been instituted and where the amount specified in the offer is not paid within the time specified in the offer or within such extended period as the Director General or any person authorized in writing by the Director General may grant, prosecution for the offence may be instituted at any time thereafter against the person to whom the offer was made.
 
-(3) Where an offence has been compounded under subsection (1)—
+(3) Where an offence has been compounded under subsection
+
+(1)—
 
 (a) no prosecution shall thereafter be instituted in respect of such offence against the person to whom the offer to compound was made; and
 

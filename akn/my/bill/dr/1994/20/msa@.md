@@ -12,7 +12,23 @@
 
 ## SUSUNAN FASAL
 
-1. Tajuk ringkas dan mula berkuatkuasa. 2. Tafsiran. 3. Pembubaran Askar Timbalan Setia Negeri Johor. 4. Anggota Askar disifatkan telah ditauliahkan atau didaftarkan. 5. Anggota Askar disifatkan telah bersara. 6. Peletakhakan harta. 7. Bayaran yang kena dibuat di bawah apa-apa perkiraan kewangan. 8. Pemansuhan Enakmen. 9. Penerusan prosiding jenayah dan sivil.
+1. Tajuk ringkas dan mula berkuatkuasa.
+
+2. Tafsiran.
+
+3. Pembubaran Askar Timbalan Setia Negeri Johor.
+
+4. Anggota Askar disifatkan telah ditauliahkan atau didaftarkan.
+
+5. Anggota Askar disifatkan telah bersara.
+
+6. Peletakhakan harta.
+
+7. Bayaran yang kena dibuat di bawah apa-apa perkiraan kewangan.
+
+8. Pemansuhan Enakmen.
+
+9. Penerusan prosiding jenayah dan sivil.
 
 <!-- page 3 -->
 
@@ -20,31 +36,47 @@
 
 bernama
 
-Suatu Akta untuk mengadakan peruntukan bagi pembubaran Askar Timbalan Setia Negeri Johor dan pemansuhan Enakmen Askar Timbalan Setia Negeri Johor 1915 dan untuk mengadakan peruntukan bagi perkara-perkara yang berhubungan dengan pertauliahan dan pendaftaran ke dalam angkatan tentera Malaysia, dan persaraan, anggota tertentu Askar Timbalan Setia Negeri Johor dan juga bagi perkara-perkara lain yang berkaitan dengannya. [ ]
+Suatu Akta untuk mengadakan peruntukan bagi pembubaran Askar Timbalan Setia Negeri Johor dan pemansuhan Enakmen Askar Timbalan Setia Negeri Johor 1915 dan untuk mengadakan peruntukan bagi perkara-perkara yang berhubungan
+
+<!-- marginal: dengan -->
+
+pertauliahan dan pendaftaran ke dalam angkatan tentera Malaysia, dan persaraan, anggota tertentu Askar Timbalan Setia Negeri Johor dan juga bagi perkara-perkara lain yang berkaitan dengannya. [ ]
 
 ## MAKA INILAH DIPERBUAT UNDANG-UNDANG
 
 oleh Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan Dewan Negara dan Dewan Rakyat yang bersidang dalam Parlimen, dan dengan kuasa daripadanya, seperti berikut:
 
-Tajuk ringkas
+<!-- marginal: Tajuk ringkas -->
 
-1. (1) Akta ini bolehlah dinamakan Akta Askar dan mula Timbalan Setia Negeri Johor (Pembubaran dan berkuatkuasa Pemansuhan) 1994.
+1. (1) Akta ini bolehlah dinamakan Akta Askar
+
+<!-- marginal: dan mula -->
+
+Timbalan Setia Negeri Johor (Pembubaran dan
+
+<!-- marginal: berkuatkuasa -->
+
+Pemansuhan) 1994.
 
 (2) Akta ini hendaklah mula berkuatkuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
 
-Tafsiran.
+<!-- marginal: Tafsiran. -->
 
 2. Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—
 
 "anggota Askar" ertinya pegawai dan soldadu Askar Timbalan Setia Negeri Johor;
 
-"angkatan tentera" hendaklah mempunyai erti yang diberi kepadanya di bawah Akta Angkatan Tentera 1972; Akta 77
+"angkatan tentera" hendaklah mempunyai erti yang diberi kepadanya di bawah Akta Angkatan Tentera 1972;
+
+<!-- marginal: Akta 77 -->
 
 "angkatan tetap" hendaklah mempunyai erti yang diberi kepadanya di bawah Akta Angkatan Tentera 1972;
 
 <!-- page 4 -->
 
-En.No 31. "Enakmen" ertinya Enakmen Askar Timbalan Setia Negeri Johor 1915;
+<!-- marginal: En.No 31. -->
+
+"Enakmen" ertinya Enakmen Askar Timbalan Setia Negeri Johor 1915;
 
 "harta" termasuklah persenjataan;
 
@@ -56,19 +88,59 @@ En.No 31. "Enakmen" ertinya Enakmen Askar Timbalan Setia Negeri Johor 1915;
 
 "tarikh ditetapkan" ertinya tarikh yang ditetapkan oleh Menteri di bawah subseksyen 1(2).
 
-Pembubaran
+<!-- marginal: Pembubaran -->
 
-3. Pada tarikh ditetapkan, Askar Timbalan Setia Negeri Askar Johor hendaklah dibubarkan dan anggota Askar Timbalan Setia Negeri hendaklah pada tarikh itu diberhentikan daripada Johor. perkhidmatan.
+3. Pada tarikh ditetapkan, Askar Timbalan Setia Negeri
 
-Anggota
+<!-- marginal: Askar -->
 
-4. (1) Walau apa pun apa-apa jua yang terkandung Askar dalam Akta Angkatan Tentera 1972, anggota Askar yang disifatkan telah sebelum sahaja tarikh ditetapkan telah, dengan kelulusan ditauljahkan Yang di-Pertuan Agong, diberi opsyen oleh Majlis atau Angkatan Tentera untuk berkhidmat dalam angkatan didaftarkan. tentera dan telah menerima opysen itu hendaklah pada tarikh ditetapkan disifatkan telah ditauliahkan atau didaftarkan dalam angkatan tetap mengikut peruntukan Akta Angkatan Tentera 1972.
+Johor hendaklah dibubarkan dan anggota Askar
+
+<!-- marginal: Timbalan -->
+
+<!-- marginal: Setia Negeri -->
+
+hendaklah pada tarikh itu diberhentikan daripada
+
+<!-- marginal: Johor. -->
+
+perkhidmatan.
+
+<!-- marginal: Anggota -->
+
+4. (1) Walau apa pun apa-apa jua yang terkandung
+
+<!-- marginal: Askar -->
+
+dalam Akta Angkatan Tentera 1972, anggota Askar yang
+
+<!-- marginal: disifatkan -->
+
+<!-- marginal: telah -->
+
+sebelum sahaja tarikh ditetapkan telah, dengan kelulusan
+
+<!-- marginal: ditauljahkan -->
+
+Yang di-Pertuan Agong, diberi opsyen oleh Majlis
+
+<!-- marginal: atau -->
+
+Angkatan Tentera untuk berkhidmat dalam angkatan
+
+<!-- marginal: didaftarkan. -->
+
+tentera dan telah menerima opysen itu hendaklah pada tarikh ditetapkan disifatkan telah ditauliahkan atau didaftarkan dalam angkatan tetap mengikut peruntukan Akta Angkatan Tentera 1972.
 
 (2) Anggota Askar yang disebut dalam subseksyen
 
 (1)-
 
-(a) hendaklah ditauliahkan atau didaftarkan untuk berkhidmat dalam angkatan tentera atas terma dan syarat perkhidmatan yang tidak kurang baiknya daripada terma dan syarat perkhidmatan yang anggota itu berhak kepadanya sebelum sahaja tarikh ditetapkan; dan
+(a) hendaklah ditauliahkan atau didaftarkan untuk berkhidmat dalam angkatan tentera atas terma dan syarat perkhidmatan yang tidak kurang baiknya daripada terma dan
+
+<!-- marginal: syarat -->
+
+perkhidmatan yang anggota itu berhak kepadanya sebelum sahaja tarikh ditetapkan; dan
 
 <!-- page 5 -->
 
@@ -124,17 +196,39 @@ dikehendaki bagi maksud Kerajaan Persekutuan hendaklah dibahagikan kepada Keraja
 
 (b) untuk membahagikan, dalam hal keraguan, harta atau aset itu kepada mana-mana pegawai yang berkenaan bagi apa-apa maksud mengikut kehendak keadaan.
 
-Bayaran yang
+<!-- marginal: Bayaran yang -->
 
-7. (1) Kerajaan Persekutuan hendaklah membayar kena dibuat kepada Kerajaan Negeri apa-apa bayaran wajar yang di bawah apa-apa kena dibuat menurut apa-apa perkiraan kewangan yang perkiraan dipersetujui antara Kerajaan Persekutuan dan Kerajaan kewangan. Negeri berkenaan dengan peletakhakan harta dan aset pada Kerajaan Persekutuan yang disebut dalam seksyen
+7. (1) Kerajaan Persekutuan hendaklah membayar
+
+<!-- marginal: kena dibuat -->
+
+kepada Kerajaan Negeri apa-apa bayaran wajar yang
+
+<!-- marginal: di bawah -->
+
+<!-- marginal: apa-apa -->
+
+kena dibuat menurut apa-apa perkiraan kewangan yang
+
+<!-- marginal: perkiraan -->
+
+dipersetujui antara Kerajaan Persekutuan dan Kerajaan
+
+<!-- marginal: kewangan. -->
+
+Negeri berkenaan dengan peletakhakan harta dan aset pada Kerajaan Persekutuan yang disebut dalam seksyen
 
 6.
 
 (2) Semua bayaran wajar yang kena dibuat di bawah subseksyen (1) hendaklah dipertanggungkan ke atas Kumpulan Wang Disatukan Persekutuan.
 
-Pemansuhan
+<!-- marginal: Pemansuhan -->
 
-8. (1) Enakmen dan semua perundangan subsidiari yang Enakmen. dibuat di bawahnya adalah dimansuhkan.
+8. (1) Enakmen dan semua perundangan subsidiari yang
+
+<!-- marginal: Enakmen. -->
+
+dibuat di bawahnya adalah dimansuhkan.
 
 (2) Pemansuhan di bawah subseksyen (1) itu tidak—
 

@@ -4,7 +4,7 @@
 
 ### Teks Rang Undang-Undang .
 
-### dluluskan oleh Dewan Rakyat
+<!-- marginal: dluluskan oleh Dewan Rakyat -->
 
 ### pada 19hb Januari 1993 dan
 
@@ -44,7 +44,7 @@ oleh Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong dengan nasih
 
 2. Fasal (1) Perkara 32 Perlembagaan Persekutuan
 
-<!-- marginal: Perkara 32. -->
+## Perkara 32.
 
 adalah dipinda dengan memasukkan, selepas perkataan "mahkamah", perkataan "tetapi hanya berkenaan dengan apa-apa jua yang dilakukan atau ditinggalkan daripada dilakukan olehnya dalam penjalanan atau yang berupa sebagai penjalanan fungsi-fungsinya di bawah mana- mana undang-undang bertulis".
 
@@ -52,19 +52,21 @@ adalah dipinda dengan memasukkan, selepas perkataan "mahkamah", perkataan "tetap
 
 3. Perkara 38 Perlembagaan Persekutuan adalah di-
 
-<!-- marginal: Perkara 38. -->
+## Perkara 38.
 
 pinda
 
 (a) dalam Fasal (2) (i) dengan menggantikan koma di hujung perenggan (c) dengan koma bernoktah; dan (ii) dengan memasukkan, selepas perenggan
 
-(c), perenggan-perenggan yang berikut: "(d) melantik anggota-anggota Mah- kamah Khas di bawah Fasal (6) Perkara 181;
+(c), perenggan-perenggan yang berikut: "(d) melantik anggota-anggota Mah- kamah Khas di bawah Fasal (6)
+
+## Perkara 181;
 
 <!-- page 2 -->
 
 ## RANG UNDANG-UNDANG
 
-2
+<!-- marginal: 2 -->
 
 (e) memberi ampun, reprief dan respit, atau meremitkan, menggantung atau meringankan hukuman- hukuman, di bawah Fasal (12) Perkara 42,"; dan
 
@@ -80,9 +82,13 @@ pinda
 
 (f) pemberian ampun, reprief dan respit, atau peremitan, peng- gantungan atau peringanan hukuman-hukuman, di bawah Fasal (12) Perkara 42.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-4. Perkara 42 Perlembagaan Persekutuan adalah Perkara 42. dipinda dengan memasukkan, selepas Fasal (11), Fasal- Fasal yang berikut:
+4. Perkara 42 Perlembagaan Persekutuan adalah
+
+## Perkara 42.
+
+dipinda dengan memasukkan, selepas Fasal (11), Fasal- Fasal yang berikut:
 
 "(12) Walau apa pun apa-apa jua yang terkandung dalam Perlembagaan ini, jika kuasa- kuasa yang tersebut dalam Perkara ini
 
@@ -94,19 +100,17 @@ Pindaan
 
 (b) dikehendaki dijalankan berkenaan dengan Yang di-Pertuan Agong, Raja sesuatu Negeri, atau Konsortnya, mengikut mana- mana yang berkenaan, kuasa-kuasa itu hendaklah dijalankan oleh Majlis Raja-Raja dan peruntukan-peruntukan yang berikut hendaklah terpakai: (i) apabila menghadiri mana-mana presiding di bawah Fasal ini, Yang di-Pertuan Agong tidak boleh disertai oleh Perdana Menteri dan Raja-Raja lain tidak boleh disertai oleh Menteri- Menteri Besar mereka; (ii) sebelum membuat keputusannya ten- tang apa-apa perkara di bawah Fasal ini, Majlis Raja-Raja hendaklah me- nimbangkan apa-apa pendapat bertulis yang mungkin telah diberikan oleh Peguam Negara tentang perkara itu;
 
-(c) dikehendaki dijalankan oleh Yang di-Pertuan Agong atau Raja sesuatu Negeri berkenaan dengan anak lelakinya atau anak perempuannya, mengikut mana-mana yang berkenaan, kuasa-kuasa
+(c) dikehendaki dijalankan oleh Yang di-Pertuan Agong atau Raja sesuatu Negeri berkenaan dengan anak lelakinya atau anak perempuannya, mengikut mana-mana yang berkenaan, kuasa-kuasa itu hendaklah dijalankan oleh Raja sesuatu Negeri yang dinamakan oleh Majlis Raja-Raja dan Raja itu hendaklah bertindak mengikut nasihat Lembaga Pengampunan yang relevan yang ditubuhkan di bawah Perkara ini.
 
-<!-- marginal: itu hendaklah -->
+(13) Bagi maksud perenggan (b) dan (c) Fasal
 
-dijalankan oleh Raja sesuatu Negeri yang dinamakan oleh Majlis Raja-Raja dan Raja itu hendaklah bertindak mengikut nasihat Lembaga Pengampunan yang relevan yang ditubuhkan di bawah Perkara ini.
-
-(13) Bagi maksud perenggan (b) dan (c) Fasal (12), Yang di-Pertuan Agong atau Raja Negeri yang berkenaan, mengikut mana-mana yang berkenaan, dan Yang di-Pertua-Yang di-Pertua Negeri tidak boleh menjadi anggota Majlis Raja-Raja.".
+(12), Yang di-Pertuan Agong atau Raja Negeri yang berkenaan, mengikut mana-mana yang berkenaan, dan Yang di-Pertua-Yang di-Pertua Negeri tidak boleh menjadi anggota Majlis Raja-Raja.".
 
 <!-- marginal: Pindaan -->
 
 5. Perkara 63 Perlembagaan Persekutuan adalah
 
-<!-- marginal: Perkara 63. -->
+## Perkara 63.
 
 dipinda dengan memasukkan, selepas Fasal (4), Fasal yang berikut: "(5) Walau apa pun Fasal (4), tiada seorang pun boleh dikenakan apa-apa presiding dalam mana- mana mahkamah berkenaan dengan apa-apa jua
 
@@ -116,15 +120,23 @@ dipinda dengan memasukkan, selepas Fasal (4), Fasal yang berikut: "(5) Walau apa
 
 yang dikatakan olehnya tentang Yang di-Pertuan Agong atau seseorang Raja semasa mengambil bahagian dalam apa-apa presiding mana-mana satu Majlis Parlimen atau mana-mana jawatankuasanya kecuali jika dia menganjurkan penghapusan kedudukan berperlembagaan Yang di-Pertuan Agong sebagai Kepala Utama Negara bagi Persekutuan atau kedudukan berperlembagaan Raja sesuatu Negeri, mengikut mana-mana yang berkenaan.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-6. Perkara 72 Perlembagaan Persekutuan adalah Perkara 72. dipinda dengan memasukkan, selepas Fasal (4), Fasal yang berikut:
+6. Perkara 72 Perlembagaan Persekutuan adalah
+
+## Perkara 72.
+
+dipinda dengan memasukkan, selepas Fasal (4), Fasal yang berikut:
 
 "(5) Walau apa pun Fasal (4), tiada seorang pun boleh dikenakan apa-apa prosiding dalam mana- mana mahkamah berkenaan dengan apa-apa jua yang dikatakan olehnya tentang Raja mana-mana Negeri semasa mengambil bahagian dalam apa-apa prosiding Dewan Undangan mana-mana Negeri atau mana-mana jawatankuasanya kecuali jika dia menganjurkan penghapusan kedudukan Raja itu sebagai Raja berperlembagaan Negeri itu.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-7. Perkara 181 Perlembagaan Persekutuan adalah Perkara 181. dipinda
+7. Perkara 181 Perlembagaan Persekutuan adalah
+
+## Perkara 181.
+
+dipinda
 
 (a) dalam Fasal (2), dengan menggantikan perkataan "atas sifat peribadinya" dengan perkataan "tetapi hanya berkenaan dengan apa- apa jua yang dilakukan atau ditinggalkan daripada dilakukan olehnya dalam penjalanan atau yang berupa sebagai penjalanan fungsi- fungsinya di bawah mana-mana undang-undang bertulis"; dan
 
@@ -146,7 +158,7 @@ memberikan perlindungan tak boleh cabul kepada kediamannya, adalah, setakat itu,
 
 <!-- page 6 -->
 
-6
+<!-- marginal: 6 -->
 
 ## RANG UNDANG-UNDANG
 
@@ -214,9 +226,17 @@ sebelum mula berkuatkuasanya Akta ini.
 
 Rang Undang-Undang ini bertujuan meminda peruntukan- peruntukan yang relevan dalam Perlembagaan Persekutuan bagi maksud menarik balik kekebalan Yang di-Pertuan Agong dan Raja- Raja terhadap apa-apa prosiding undang-undang di mana-mana mahkamah atas sifat peribadinya dan untuk membuat pindaan- pindaan berbangkit yang timbul daripadanya.
 
-2. Fasal 2 Rang Undang-Undang ini bertujuan meminda Fasal (1) Perkara 32 Perlembagaan bagi memperuntukkan bahawa Yang di-Pertuan Agong tidak boleh dikenakan apa-apa prosiding jua pun dalam mana-mana mahkamah tetapi ini hanyalah berkenaan dengan apa-apa jua yang dilakukan atau ditinggalkan daripada dilakukan olehnya dalam penjalanan atau yang berupa sebagai penjalanan fungsi-fungsinya di bawah mana-mana undang-undang bertulis.
+2. Fasal 2 Rang Undang-Undang ini bertujuan meminda Fasal (1)
 
-3. Fasal 3 Rang Undang-Undang ini bertujuan meminda Fasal (2) Perkara 38 Perlembagaan berbangkit daripada pindaan Perkara 42 dan Perkara 181.
+## Perkara 32 Perlembagaan bagi memperuntukkan bahawa Yang
+
+di-Pertuan Agong tidak boleh dikenakan apa-apa prosiding jua pun dalam mana-mana mahkamah tetapi ini hanyalah berkenaan dengan apa-apa jua yang dilakukan atau ditinggalkan daripada dilakukan olehnya dalam penjalanan atau yang berupa sebagai penjalanan fungsi-fungsinya di bawah mana-mana undang-undang bertulis.
+
+3. Fasal 3 Rang Undang-Undang ini bertujuan meminda Fasal (2)
+
+## Perkara 38 Perlembagaan berbangkit daripada pindaan Perkara 42
+
+dan Perkara 181.
 
 4. Fasal 4 Rang Undang-Undang ini bertujuan meminda Perkara 42 Perlembagaan dengan menambahkan Fasal baru (12) kepadanya yang mengadakan peruntukan-peruntukan khas bagi penjalanan kuasa pengampunan, dsb., di bawah Perkara 42 yang tersebut jika kuasa itu dikehendaki dijalankan berkenaan dengan Yang di-Pertuan Agong, Raja atau Yang di-Pertua Negeri sesuatu Negeri, Konsortnya, anak lelakinya atau anak perempuannya, mengikut mana-mana yang berkenaan.
 
@@ -224,7 +244,7 @@ Dalam hal seseorang Yang di-Pertua Negeri, jika kuasa-kuasa itu dikehendaki dija
 
 <!-- page 8 -->
 
-8
+<!-- marginal: 8 -->
 
 ## RANG UNDANG-UNDANG
 
@@ -234,7 +254,9 @@ Jika kuasa-kuasa sedemikian dikehendaki dijalankan berkenaan dengan Yang di-Pert
 
 42.
 
-Jika kuasa-kuasa itu dikehendaki dijalankan oleh Yang di-Pertuan Agong atau Raja sesuatu Negeri berkenaan dengan anak lelakinya atau anak perempuannya, mengikut mana-mana yang berkenaan, kuasa-kuasa itu hendaklah dijalankan oleh seorang Raja yang dinamakan oleh Majlis Raja-Raja. Raja yang dinamakan sedemikian hendaklah bertindak atas nasihat Lembaga Pengampunan yang relevan yang ditubuhkan di bawah Fasal (5) Perkara 42.
+Jika kuasa-kuasa itu dikehendaki dijalankan oleh Yang di-Pertuan Agong atau Raja sesuatu Negeri berkenaan dengan anak lelakinya atau anak perempuannya, mengikut mana-mana yang berkenaan, kuasa-kuasa itu hendaklah dijalankan oleh seorang Raja yang dinamakan oleh Majlis Raja-Raja. Raja yang dinamakan sedemikian hendaklah bertindak atas nasihat Lembaga Pengampunan yang relevan yang ditubuhkan di bawah Fasal (5)
+
+## Perkara 42.
 
 5. Fasal 5 dan 6 Rang Undang-Undang ini bertujuan meminda Perkara 63 dan 72 dengan memasukkan Fasal baru (5) ke dalam setiap satu Perkara itu. Di bawah Fasal baru (5), seseorang Ahli Parlimen atau Dewan Undangan Negeri tidak akan boleh dikenakan apa-apa prosiding dalam mana-mana mahkamah kerana apa-apa jua yang dikatakan olehnya tentang Yang di-Pertuan Agong atau Raja mana-mana Negeri semasa mengambil bahagian dalam apa-apa prosiding dalam mana-mana satu Majlis Parlimen atau dalam sesuatu Dewan Undangan Negeri asalkan saja dia tidak menganjurkan penghapusan kedudukan berperlembagaan Yang di-Pertuan Agong sebagai Kepala Utama Negara bagi Persekutuan atau kedudukan berperlembagaan Raja sesuatu Negeri.
 
@@ -250,6 +272,4 @@ Fasal 7 (b) juga bertujuan untuk membuat peruntukan bagi penubuhan suatu Mahkama
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
-
-<!-- marginal: [PN. (U:) 1741.] -->
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN. (U:) 1741.]

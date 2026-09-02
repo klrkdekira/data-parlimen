@@ -1,0 +1,465 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-40-1993",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_14"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Industrial Relations (Amendment) Bill 1993"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "15."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_11__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_11__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 20(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"irrespective of whether he is a member of a trade union of workmen or otherwise,\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the full stop a colon; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_11__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting thereafter the following proviso: \"Provided that such representations shall be made by the workman himself irrespective of whether he is a member of a trade union of workmen or not.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 27(1) of the principal Act is amended"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"(in proceedings under section 20(3))\" in paragraphs (c) and (d)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 33(5) of the principal Act is amended"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"specially constituted under section 22 for the purpose\" the words \"constituted at the direction of the President\". B I LL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The amendment to section 9 of the principal Act"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall not affect any application for a claim for recognition by a trade union of workmen made under the principal Act before the commencement of this Act and section 9 shall apply to such application as if it had not been amended."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Industrial Relations (Amendment) Act 1993."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall come into force on such date as the Minister may, by notification in the Gazette, appoint."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Industrial Relations Act 1967, which in this Act"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "is referred to as the \"principal Act\", is amended by inserting after subsection 2A(3) the subsection: \"(4) Subject to such limitations, if any, as may be prescribed by regulations made under this Act, an officer appointed under subsection (2) shall perform all the duties imposed and may exercise all the powers conferred upon the Director General by this Act, and every duty so performed and power so exercised shall be deemed to have been duly performed and exercised for the purposes of this Act.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 8 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the full stop in subsection (1) a colon; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following proviso: \"Provided that where the complaint relates to the dismissal of a workman, the provisions of section 20 shall apply.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_4__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 9 the following section: 9. (1) Subject to section 9D(l), a trade union of workmen may serve on an employer or on a trade union of employers in writing in the prescribed form a claim for recognition in respect of the workmen or any class of workmen employed by the employer or by the members of the trade union of employers."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_4__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_4__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_4__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An employer or a trade union of employers upon whom a claim for recognition has been served shall, within twenty-one days after the service of the claim—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_4__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_4__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "accord recognition;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_4__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_4__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if recognition is not accorded, notify the trade union of workmen concerned in writing the grounds for not according recognition; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_4__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_4__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "subject to section 9A(2)(c), apply in writing to the Director General to ascertain the percentage of the workmen or class of workmen in respect of whom recognition is being sought who are members of, or who wish to be represented by, the trade union of workmen making the claim, and give a written notice of such application to the trade union of workmen."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the trade union of workmen concerned receives a notification under subsection (2)(b), or where the employer or INDUSTRIAL RELATIONS (AMENDMENT) trade union of employers concerned fails to comply with subsection (2), the trade union of workmen may report the matter in writing to the Director General.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 9 the following sections: 9A. (1) The Director General, upon receipt of— (a) an application under section 9(2}(c) or (b) a report under section 9(3), may take such steps or make such enquiries as he may consider necessary or expedient to resolve the matter. (2) For the purpose of carrying out his functions under subsection (1), the Director General— (a) shall have the power to require the trade union of workmen, the employer or the trade union of employers concerned to furnish such information as he may consider necessary or relevant within such period as he may specify; (b) may refer to the Director General of Trade Unions for his decision any question on the competence of the trade union of workmen concerned to represent any workman or class of workmen in respect of whom recognition is sought to be accorded; and (c) may request the Director General of Trade Unions at his discretion to ascertain either the percentage of the workmen or class of workmen in respect of whom recognition is being sought who were members of the trade union of workmen making the claim as at the date of claim, or the percentage of the workmen or class of workmen who wish to be represented by the trade union. (3) Where the Director General of Trade Unions decides that the trade union of workmen concerned is not competent to represent the workmen or class of workmen in respect of whom recognition is sought to be accorded, the matter shall be deemed to have been resolved under subsection (1). (4) The performance of the duties and functions by the Director General of Trade Unions under subsections (2)(b) and (c) shall be deemed to be a performance of his duties and functions under the Trade Unions Act 1959. 9B. (1) The Director General shall, upon being informed of the result of the request made under section 9A(2)(c), communicate the result to the employer or the trade union of employers and the trade union of workmen. (2) Where the result of the request made under section 9A(2)(c) shows that the majority of the workmen or class of workmen concerned were members of the trade union of workmen making the claim as at the date of claim, or the majority of the workmen or class of workmen wish to be represented by the trade union, the employer or the trade union of employers concerned shall be deemed to have accorded recognition to the trade union of workmen as from the date of claim. (3) Where the result of the request made under section 9A(2)(c) shows that the majority of the workmen or class of workmen concerned INDUSTRIAL RELATIONS (AMENDMENT) were not members of the trade union of workmen making the claim as at the date of claim, or the majority of the workmen or class of workmen do not wish to be represented by the trade union, it shall be deemed that the matter has been resolved under section 9A(1) with the trade union of workmen not being accorded recognition. 9c. (1) Where the trade union of workmen, the employer or the trade union of employers fails to furnish the information as may be required by the Director General under section 9A(2)(a), the Director General may, if he deems it necessary or expedient, direct either the trade union of workmen, the employer or the trade union of employers, or both to attend a conference and to furnish the information at the place and time as may be specified in the direction. (2) Where the trade union of workmen, the employer or the trade union of employers— (a) fails to furnish the information as may be required under section 9A(2)(a); (b) fails to attend the conference under subsection (1); or (c) attends the conference under subsection (1) but fails to furnish the required information, it shall be deemed that— (aa) the trade union of workmen has abandoned the claim and the matter has been resolved under section 9A(1); or (bb) the employer or the trade union of employers has no objection to the claim. (3) Where an employer or a trade union of employers is deemed to have no objection to a claim for recognition under subsection (2)(bb), the Director General shall notify the Minister who shall give his decision thereon; where the Minister decides that recognition is to be accorded, such recognition shall be deemed to be accorded by the employer or the trade union of employers as from the date of claim. (4) A decision of the Minister under subsection (3) shall be final and shall not be questioned in any court. 9D. (1) No trade union of workmen the majority of whose membership consists of workmen who are not employed in any of the following capacities: (a) managerial; (b) executive; (c) confidential; or (d) security, may seek recognition under section 9 or serve an invitation under section 13 in respect of workmen employed in any of the above- mentioned capacities. (2) A dispute arising at any time, whether before or after recognition has been accorded, as to whether any workman is employed in a managerial, executive, confidential or security capacity may be referred to the Director General by a trade union of workmen or by an employer or by a trade union of employers. (3) The Director General, upon receipt of a reference under subsection (2), may take such steps or make such enquiries as he may consider necessary or expedient to resolve the matter. INDUSTRIAL RELATIONS (AMENDMENT) (4) Where the matter is not resolved under subsection (3), the Director General shall notify the Minister accordingly. (5) Upon receipt of a notification under subsection (4), the Minister shall give his decision as to who is a workman employed in a managerial, executive, confidential or security capacity. (6) A decision of the Minister under subsection (5) shall be final and shall not be questioned in any court.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_6__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 10 the following section: 10. (1) No workman shall go on strike or do anything which is rendered lawful by virtue of the proviso to section 40(1) for whatever reason during the pendency of proceedings under sections 9, 9A, 9B, 9c and 9D, or after the decision of the Minister made thereunder by reason of any dissatisfaction with such decision."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_6__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_6__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_6__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No employer shall declare a lock-out or terminate the services of a workman once a trade union of workmen has served on the employer or a trade union of employers a claim for recognition under section 9 in respect of workmen or a class of workmen: Provided that this restriction shall not apply—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_6__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where a dismissal is effected on disciplinary grounds;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_6__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where the claim for recognition has been resolved under section 9A(1) or where a decision thereon has been made by the Minister under section 9c(3); or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_6__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where the termination is due retirement or the expiry of a fixed term contract or the non-confirmation of a probationer."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_6__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_6__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_6__subsec_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purpose of subsection (2) \"lock- out\" includes—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_6__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_6__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the closing of a place of employment;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_6__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_6__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the suspension of work; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_6__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_6__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the refusal by an employer to continue to employ any number of workmen employed by him effected during the pendency of proceedings under, sections 9, 9A, 9B, 9c and 9D or after the decision of the Minister made thereunder by reason only of any dissatisfaction with such decision.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 11 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for the words \"whether by a decision of the Minister or otherwise\" the words \"pursuant to a claim for recognition under section 9\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 11 the following section: Prohibition 1 1 A. Where a claim for recognition by a trade against union in respect of workmen or a class of claim for recog- workmen has not been resolved, no other trade nition union of workmen shall make a claim for during pendency recognition under section 9 or shall be of existing accorded recognition in respect of the same claim. workmen or class of workmen.\". INDUSTRIAL RELATIONS (AMENDMENT)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 12 the following section: Prohibition 12. Where a claim for recognition under against section 9 is resolved under section 9A(1), or fresh claim where a decision thereon has been made by the for recog- Minister under section 9c(3) resulting in the nition where trade union of workmen concerned not being trade union is accorded recognition, such trade union shall not not make any claim for recognition in respect accorded recog- of the same workmen or class of workmen nition, until six months have elapsed from the date of etc. the resolution or decision.\"."
+      }
+    }
+  ]
+}

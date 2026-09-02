@@ -8,7 +8,7 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -18,13 +18,13 @@
 
 3. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PEGAWAI YANG DILANTIK
 
 4. Pelantikan pegawai yang dilantik
 
-## Bahagian III
+## BAHAGIAN III
 
 ## TATACARA PERMINTAAN
 
@@ -44,13 +44,13 @@
 
 <!-- page 2 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## MAKLUMAT YANG DIKECUALIKAN
 
 12. Maklumat yang dikecualikan
 
-## Bahagian V
+## BAHAGIAN V
 
 ## OMBUDSMAN
 
@@ -64,7 +64,7 @@
 
 17. Obligasi kerahsiaan
 
-## Bahagian VI
+## BAHAGIAN VI
 
 AM
 
@@ -88,7 +88,7 @@ Suatu Akta untuk mengadakan peruntukan bagi tatacara permintaan untuk mendapatka
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -162,7 +162,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 “rasmi” berhubungan dengan mana-mana pihak berkuasa awam.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PEGAWAI YANG DILANTIK
 
@@ -170,7 +170,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 4. Menteri yang bertanggungjawab hendaklah melantik seorang pegawai atau lebih dalam pihak berkuasa awam sebagai pegawai yang dilantik untuk memproses permintaan untuk mendapatkan akses kepada maklumat di bawah Akta ini.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## TATACARA PERMINTAAN
 
@@ -296,7 +296,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 12 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## MAKLUMAT YANG DIKECUALIKAN
 
@@ -362,7 +362,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (q) maklumat itu akan menzahirkan sumber apa-apa maklumat yang diperoleh dalam masa menjalankan penghasilan apa-apa program atau penyiaran.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## OMBUDSMAN
 
@@ -398,7 +398,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (2) Mana-mana orang yang melanggar subseksyen (1) melakukan suatu kesalahan dan hendaklah, apabila disabitkan, dipenjarakan selama tempoh yang tidak melebihi lima tahun atau didenda tidak melebihi satu ratus ribu ringgit atau kedua-duanya.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 AM
 
@@ -502,7 +502,7 @@ Sebagai tambahan, orang yang terkilan boleh memohon untuk semakan kehakiman terh
 
 Oleh itu, Akta yang dicadangkan mengadakan peruntukan bagi tatacara untuk membuat permintaan untuk akses kepada maklumat, kewajipan pihak berkuasa awam dalam mengendalikan permintaan sedemikian, kategori maklumat yang dikecualikan daripada pendedahan, mekanisme semakan dalaman dua peringkat, semakan luar oleh Ombudsman, dan untuk memperuntukkan perkara yang berkaitan.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I Akta yang dicadangkan mengandungi perkara permulaan.
 
@@ -532,13 +532,13 @@ Perenggan (d) meliputi pihak berkuasa tempatan bagi Wilayah-Wilayah Persekutuan 
 
 Tafsiran tersebut mengehadkan pemakaian Akta yang dicadangkan kepada pihak berkuasa awam Persekutuan sahaja dan tidak diperluas kepada Kerajaan Negeri, badan berkanun Negeri atau pihak berkuasa tempatan yang ditubuhkan melalui suatu undang-undang bertulis.
 
-## Bahagian II
+## BAHAGIAN II
 
 6. Bahagian II Akta yang dicadangkan mengandungi peruntukan yang berhubungan dengan pegawai yang dilantik.
 
 7. Fasal 4 bertujuan untuk memberi Menteri yang bertanggungjawab kuasa untuk melantik seorang atau lebih pegawai dalam pihak berkuasa awam sebagai pegawai yang dilantik bagi maksud memproses permintaan untuk mendapatkan akses kepada maklumat di bawah Akta yang dicadangkan.
 
-## Bahagian III
+## BAHAGIAN III
 
 8. Bahagian III Akta yang dicadangkan mengandungi peruntukan yang berhubungan dengan tatacara permintaan untuk mendapatkan akses kepada maklumat di bawah Akta yang dicadangkan.
 
@@ -596,7 +596,7 @@ Subfasal 11(2) bertujuan untuk memberi ketua pihak berkuasa awam kuasa, apabila 
 
 Subfasal 11(3) bertujuan untuk menghendaki bahawa apa-apa keputusan yang dibuat oleh ketua pihak berkuasa awam hendaklah disampaikan secara bertulis kepada orang yang terkilan.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 16. Bahagian IV Akta yang dicadangkan mengandungi peruntukan yang berhubungan dengan maklumat yang dikecualikan daripada penzahiran.
 
@@ -624,7 +624,7 @@ Subfasal 11(3) bertujuan untuk menghendaki bahawa apa-apa keputusan yang dibuat 
 
 (j) perenggan (p) dan (q): bahan penyiaran, media, atau komunikasi yang belum diterbitkan yang dimaksudkan untuk penyiaran atau penerbitan masa hadapan, dan perlindungan terhadap sumber kewartawanan atau penyiaran.
 
-## Bahagian V
+## BAHAGIAN V
 
 18. Bahagian V Akta yang dicadangkan mengandungi peruntukan yang berhubungan dengan Ombudsman.
 
@@ -644,7 +644,7 @@ Subfasal (2) bertujuan untuk memperuntukkan supaya keputusan oleh Ombudsman disa
 
 23. Fasal 17 bertujuan untuk mengendalikan obligasi kerahsiaan berhubung dengan apa-apa pendedahan maklumat atau dokumen yang diperoleh atau diakses di bawah Akta yang dicadangkan. Fasal ini juga bertujuan untuk memperuntukkan larangan kepada mana-mana anggota, pegawai atau kakitangan Ombudsman daripada mendedahkan apa-apa maklumat yang diperoleh dalam perjalanan pekerjaan mereka atau mana-mana orang yang melalui apa-apa cara mempunyai akses kepada apa-apa maklumat atau dokumen yang berhubungan dengan maklumat di bawah Akta ini, melainkan jika pendedahan itu dilakukan bagi maksud prosiding undang-undang di bawah mana-mana undang-undang bertulis, yang mana kegagalan untuk mematuhi larangan tersebut adalah suatu kesalahan di bawah Akta yang dicadangkan.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 24. Bahagian VI Akta yang dicadangkan mengandungi peruntukan am.
 

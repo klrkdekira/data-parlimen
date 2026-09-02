@@ -120,9 +120,7 @@ Magistrate may order such property to be destroyed or otherwise disposed of, eit
 
 (4) If within six months from the publication of a notification under subsection (1) no person has established a claim to such property, the ownership of such property, or, if sold, of the net proceeds of such sale, shall upon the expiration of such period of six months pass to and become vested in the Federal Government.
 
-(5) Where the property referred to in subsection (1) is subject to speedy and natural decay or the Chairman acting on behalf of the Commission is of the opinion that its value is less than fifty ringgit or where its custody involves unreasonable expense and inconvenience, such property may be sold at any time, and subsections (1),
-
-(2), (3) and (4) shall, as nearly as may be practicable, apply to the net proceeds of such sale as they apply to the property.
+(5) Where the property referred to in subsection (1) is subject to speedy and natural decay or the Chairman acting on behalf of the Commission is of the opinion that its value is less than fifty ringgit or where its custody involves unreasonable expense and inconvenience, such property may be sold at any time, and subsections (1), (2), (3) and (4) shall, as nearly as may be practicable, apply to the net proceeds of such sale as they apply to the property.
 
 <!-- page 7 -->
 
@@ -298,4 +296,6 @@ Clause 6 also seeks to introduce a new section 36D into Act 498 so as to enable 
 
 ## IMPLICATIONS
 
-This Bill will not involve the Government in any extra financial expenditure. [PN.(U2)2101.]
+This Bill will not involve the Government in any extra financial expenditure.
+
+<!-- marginal: [PN.(U2)2101.] -->

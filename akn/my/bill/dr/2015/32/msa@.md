@@ -6,7 +6,7 @@
 
 ## SUSUNAN FASAL
 
-## BaB I
+## BAB I
 
 ## PERMULAAN
 
@@ -14,7 +14,7 @@
 
 2. Pindaan Akta
 
-## BaB II
+## BAB II
 
 ## BAHAGIAN I
 
@@ -172,7 +172,7 @@ Suatu Akta untuk meminda Akta Cukai Pendapatan 1967, Akta Petroleum (Cukai Penda
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## BaB I
+## BAB I
 
 ## PERMULAAN
 
@@ -188,7 +188,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 6 -->
 
-## BaB II
+## BAB II
 
 ## BAHAGIAN I
 
@@ -478,55 +478,7 @@ Chargeable RM
 
 <!-- marginal: Rate of -->
 
-income
-
-<!-- marginal: Income Tax -->
-
-For every ringgit of 5,000
-
-<!-- marginal: 0 per cent -->
-
-the first For every ringgit of 15,000
-
-<!-- marginal: 1 per cent -->
-
-the next For every ringgit of 15,000
-
-<!-- marginal: 5 per cent -->
-
-the next For every ringgit of 15,000
-
-<!-- marginal: 10 per cent -->
-
-the next For every ringgit of 20,000
-
-<!-- marginal: 16 per cent -->
-
-the next For every ringgit of 30,000
-
-<!-- marginal: 21 per cent -->
-
-the next For every ringgit of 150,000
-
-<!-- marginal: 24 percent -->
-
-the next For every ringgit of 150,000
-
-<!-- marginal: 24.5 per cent -->
-
-the next For every ringgit of 200,000
-
-<!-- marginal: 25 per cent -->
-
-the next For every ringgit of 400,000
-
-<!-- marginal: 26 per cent -->
-
-the next For every ringgit 1,000,000
-
-<!-- marginal: 28 per cent”; dan -->
-
-exceeding
+income Income Tax For every ringgit of 5,000 0 per cent the first For every ringgit of 15,000 1 per cent the next For every ringgit of 15,000 5 per cent the next For every ringgit of 15,000 10 per cent the next For every ringgit of 20,000 16 per cent the next For every ringgit of 30,000 21 per cent the next For every ringgit of 150,000 24 percent the next For every ringgit of 150,000 24.5 per cent the next For every ringgit of 200,000 25 per cent the next For every ringgit of 400,000 26 per cent the next For every ringgit 1,000,000 28 per cent”; dan exceeding
 
 (ii) dalam perenggan 1a, dengan menggantikan perkataan “25 per cent” dengan perkataan “28 per cent”; dan
 
@@ -880,7 +832,7 @@ baki 108 syarikat itu, hendaklah pada hari cukai itu dilepaskan, diremitkan atau
 
 <!-- page 31 -->
 
-## BaB iV
+## BAB IV
 
 ## PINDAAN KEPADA AKTA CUKAI KEUNTUNGAN HARTA
 
@@ -910,7 +862,7 @@ baki 108 syarikat itu, hendaklah pada hari cukai itu dilepaskan, diremitkan atau
 
 <!-- page 32 -->
 
-### Pindaan Jadual 2
+<!-- marginal: Pindaan Jadual 2 -->
 
 42. Jadual 2 Akta ibu dipinda—
 
@@ -918,7 +870,9 @@ baki 108 syarikat itu, hendaklah pada hari cukai itu dilepaskan, diremitkan atau
 
 (i) dengan memotong perkataan “dan” di hujung subsubperenggan (c);
 
-(ii) dengan menggantikan noktah di hujung subsubperenggan (d) dengan perkataan “; dan”; dan
+(ii) dengan menggantikan noktah di hujung subsubperenggan (d) dengan perkataan “; dan”;
+
+<!-- marginal: dan -->
 
 (iii) dengan memasukkan selepas subsubperenggan (d) subsubperenggan yang berikut:
 
@@ -954,7 +908,7 @@ C ialah sepuluh ribu;
 
 atau sepuluh peratus keuntungan yang boleh dikenakan cukai, mengikut yang mana lebih tinggi”.
 
-## BaB V
+## BAB V
 
 ## PINDAAN KEPADA AKTA CUKAI AKTIVITI PERNIAGAAN
 
@@ -990,9 +944,11 @@ atau sepuluh peratus keuntungan yang boleh dikenakan cukai, mengikut yang mana l
 
 ‘ “perkiraan bantuan pentadbiran bersama” ertinya suatu perkiraan antara Kerajaan Malaysia dengan Kerajaan mana-mana wilayah di luar Malaysia dengan tujuan bantuan pentadbiran bersama dalam perkara percukaian yang termasuk pemeriksaan cukai serentak, pertukaran maklumat secara automatik atau pentadbiran cukai luar negara di bawah seksyen 132B Akta Cukai Pendapatan 1967;’.
 
-## BaB VI
+## BAB VI
 
-piNdaaN Kepada aKTa cUKai BaRaNg daN peRKhidMaTaN 2014
+## PINDAAN KEPADA AKTA CUKAI BARANG DAN
+
+## PERKHIDMATAN 2014
 
 ### Permulaan kuat kuasa pindaan kepada Akta Cukai Barang
 
@@ -1084,7 +1040,7 @@ piNdaaN Kepada aKTa cUKai BaRaNg daN peRKhidMaTaN 2014
 
 ## BaB VII
 
-piNdaaN Kepada aKTa peNggaLaKaN peLaBURaN 1986
+## PINDAAN KEPADA AKTA PENGGALAKAN PELABURAN 1986
 
 ### Permulaan kuat kuasa pindaan kepada Akta Penggalakan
 
@@ -1112,7 +1068,7 @@ piNdaaN Kepada aKTa peNggaLaKaN peLaBURaN 1986
 
 ### 29p.
 
-Jika suatu syarikat yang telah diberikan kelulusan di bawah seksyen 27, 27a, 27c, 27d, 27e, 27f, 27g, 27i, 27j, 27K, 27M atau 27N telah melakukan dalam tempoh asas bagi suatu tahun taksiran perbelanjaan modal berkenaan dengan aktiviti digalakkan atau keluaran digalakkan bagi tempoh yang dinyatakan di bawah perenggan 29(2)(b), (c) atau (d), 29a(3)(b), (c) atau (d), 29aa(3)(b), 29B(2)(b), 29d(2)(b), 29e(2)
+Jika suatu syarikat yang telah diberikan kelulusan DI BAWAH SEKSYEN 27, 27A, 27C, 27D, 27E, 27F, 27G, 27I, 27J, 27K, 27M atau 27N telah melakukan dalam tempoh asas bagi suatu tahun taksiran perbelanjaan modal berkenaan dengan aktiviti digalakkan atau keluaran digalakkan bagi tempoh yang dinyatakan di bawah perenggan 29(2)(b), (c) atau (d), 29a(3)(b), (c) atau (d), 29aa(3)(b), 29B(2)(b), 29d(2)(b), 29e(2)
 
 (b), 29f(2)(b), 29g(2)(b), 29h(2)(b), 29j(2)(b), 29K(2)(b),
 
@@ -1222,7 +1178,9 @@ Pindaan ini berkuat kuasa bagi tahun taksiran 2016 dan tahun-tahun taksiran yang
 
 Subfasal 12(d) selanjutnya bertujuan untuk memasukkan suatu perenggan baru 46(1)(o) ke dalam Akta 53 untuk memperuntukkan suatu potongan peribadi baharu bagi seseorang individu bagi amaun satu ribu lima ratus ringgit bagi setiap ibu atau bapa tertakluk kepada syarat-syarat yang ditetapkan di bawah perenggan itu.
 
-Pindaan ini berkuat kuasa bagi tahun taksiran 2016 sehingga tahun taksiran 2020.
+Pindaan ini berkuat kuasa bagi tahun taksiran 2016 sehingga tahun taksiran
+
+2020.
 
 10. Fasal 13 bertujuan untuk meminda seksyen 47 Akta 53 untuk menaikkan amaun potongan bagi isteri dan jumlah keseluruhan bagi potongan kepada seseorang isteri dan bekas isteri daripada tiga ribu ringgit kepada empat ribu ringgit.
 

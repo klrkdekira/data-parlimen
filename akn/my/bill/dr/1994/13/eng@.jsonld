@@ -1,0 +1,68 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/13/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/13"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-13-1994",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/13/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/13/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/13/eng@/~cl_3"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Married Women (Amendment) Bill 1994"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/13/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Married Women (Amendment) Act 1994."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/13/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Married Women Act 1957, which in this Act is referred to as the \"principal Act\", is amended by inserting after section 4 the following section: 4A. A husband or a wife shall be entitled to sue each other in tort for damages in respect of injuries to his or her person, as the case may be, in the like manner as any other two separate individuals.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/13/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 9 of the principal Act is amended by substituting for subsection (2) the following: \"(2) A husband or a wife shall be entitled to sue each other in tort for the protection or security of his or her property, as the case may be.\". BILL"
+      }
+    }
+  ]
+}

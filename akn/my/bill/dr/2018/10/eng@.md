@@ -4,19 +4,19 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Interpretation 3. Meaning of “manufacture”
 
-## Part II
+## PART II
 
 ## ADMINISTRATION
 
 4. Functions and powers of Director General and other officers 5. Persons appointed or employed to be public servants 6. Recognition of office 7. Confidentiality of information
 
-## Part III
+## PART III
 
 ## IMPOSITION AND SCOPE OF SALES TAX
 
@@ -26,7 +26,7 @@
 
 11. Sales tax due
 
-## Part IV
+## PART IV
 
 ## REGISTRATION
 
@@ -50,7 +50,7 @@
 
 20. Exemptions from registration
 
-## Part V
+## PART V
 
 ## ACCOUNTING, ASSESSMENT, RECOVERY, ETC.
 
@@ -82,7 +82,7 @@
 
 34. Liability of directors, etc.
 
-## Part VI
+## PART VI
 
 ## EXEMPTION, REFUND, DRAWBACK AND REMISSION
 
@@ -102,7 +102,7 @@
 
 41. Remission of sales tax, etc.
 
-## Part VII
+## PART VII
 
 ## RULING
 
@@ -136,7 +136,7 @@
 
 54. Application of section 40 to taxable goods transported to designated areas
 
-## Part IX
+## PART IX
 
 ## SPECIAL PROVISIONS RELATING TO SPECIAL AREAS
 
@@ -156,7 +156,7 @@
 
 61. Application of section 40 to taxable goods transported to special areas
 
-## Part X
+## PART X
 
 ## ENFORCEMENT
 
@@ -182,7 +182,7 @@
 
 72. Power of arrest
 
-## Part XI
+## PART XI
 
 ## TRIALS AND PROCEEDINGS
 
@@ -214,7 +214,7 @@
 
 85. No costs or damages arising from seizure to be recoverable unless seizure without reasonable or probable cause
 
-## Part XII
+## PART XII
 
 ## GENERAL
 
@@ -282,7 +282,7 @@ An Act to provide for the charging, levying and collecting of sales tax, and for
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -394,7 +394,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (2) If any question arises as to the meaning of “manufacture” under subsection (1), such question shall be decided by the Minister whose decision shall be final.
 
-## Part II
+## PART II
 
 ## ADMINISTRATION
 
@@ -454,7 +454,7 @@ Chief Statistician of the Department of Statistics Malaysia which may be require
 
 (5) Notwithstanding subsection (4), the Minister may, as he deems fit, allow the Director General to transmit or communicate any document, information, return or declaration referred to in subsection (1) or anything contained therein to any other person.
 
-## Part III
+## PART III
 
 ## IMPOSITION AND SCOPE OF SALES TAX
 
@@ -552,7 +552,7 @@ no sales tax shall be due on such purchase or acquisition.
 
 <!-- page 18 -->
 
-## Part IV
+## PART IV
 
 ## REGISTRATION
 
@@ -732,7 +732,7 @@ the Director General may cancel the registration of the manufacturer with effect
 
 (2) Notwithstanding that any person is exempted by virtue of subsection (1), such person may apply to be registered as a registered manufacturer and the provisions of this Act shall apply to such person.
 
-## Part V
+## PART V
 
 ## ACCOUNTING, ASSESSMENT, RECOVERY, ETC.
 
@@ -1064,7 +1064,7 @@ as the case may be, shall together with the company, limited liability partnersh
 
 (2) In relation to a company that is being wound up, the directors of the company shall only be liable where the assets of the company are insufficient to meet the amount due, after paying any sum having priority under the Companies Act 2016 [Act 777] in relation to the application of the assets of the company in the winding-up over the sales tax, surcharge, penalty, fee or other money.
 
-## Part VI
+## PART VI
 
 ## EXEMPTION, REFUND, DRAWBACK AND REMISSION
 
@@ -1220,7 +1220,7 @@ may make a claim for refund in the prescribed form.
 
 (3) Where a person who has been granted remission under subsection (1) or (2) has paid any of the sales tax, surcharge, penalty, fee or other money to which the remission relates, he shall be entitled to a refund of the amount of sales tax, surcharge, penalty, fee or other money which had been remitted.
 
-## Part VII
+## PART VII
 
 ## RULING
 
@@ -1392,7 +1392,7 @@ the provisions of this Act shall, with such modifications and adaptations as may
 
 54. Section 40 shall apply to taxable goods, other than any goods declared by the Minister under paragraph 50(a) to be taxable on importation into the designated areas, transported from Malaysia to the designated areas as if such goods had been exported or re-exported, as the case may be.
 
-## Part IX
+## PART IX
 
 ## SPECIAL PROVISIONS RELATING TO SPECIAL AREAS
 
@@ -1440,9 +1440,7 @@ the provisions of this Act shall, with such modifications and adaptations as may
 
 <!-- page 53 -->
 
-(2) Without prejudice to the generality of subsection (1),
-
-## Part X shall apply to—
+(2) Without prejudice to the generality of subsection (1), Part X shall apply to—
 
 (a) taxable goods transported to or from the special areas from or to Malaysia; and
 
@@ -1472,7 +1470,7 @@ the provisions of this Act shall, with such modifications and adaptations as may
 
 <!-- page 54 -->
 
-## Part X
+## PART X
 
 ## ENFORCEMENT
 
@@ -1720,7 +1718,7 @@ commits an offence and shall, on conviction, be liable to a fine not exceeding t
 
 <!-- page 65 -->
 
-## Part XI
+## PART XI
 
 ## TRIALS AND PROCEEDINGS
 
@@ -1898,7 +1896,7 @@ or penalty shall be recoverable in the same manner as a fine as provided under s
 
 85. No person shall, in any proceedings before any court in respect of the seizure of any goods, documents, articles or things in exercise or the purported exercise of any power conferred under this Act, be entitled to the costs of the proceedings or to any damages or other relief, other than an order for the return of such goods, documents, articles or things or the payment of the value of such goods, documents, articles or things, unless such seizure was made without reasonable or probable cause.
 
-## Part XII
+## PART XII
 
 ## GENERAL
 
@@ -2258,7 +2256,7 @@ no sales tax shall be charged on the replacement of the goods under such warrant
 
 The proposed Sales Tax Bill 2018 (“the proposed Act”) seeks to provide for the charging, levying and collecting of sales tax, and for matters connected therewith. The proposed Act and the proposed Service Tax Bill 2018 provide for the implementation of a new tax system, namely sales tax and service tax, which will replace the goods and services tax imposed under the Goods and Services Tax Act 2014 [Act 762].
 
-## Part I
+## PART I
 
 1. Part I deals with preliminary matters.
 
@@ -2270,7 +2268,7 @@ The proposed Sales Tax Bill 2018 (“the proposed Act”) seeks to provide for t
 
 4. Clause 3 seeks to provide for the meaning of “manufacture” for the purposes of the proposed Act. Clause 3 also empowers the Minister to decide on any question that arises with regards to the meaning of “manufacture”.
 
-## Part II
+## PART II
 
 5. Part II deals with the administration on matters relating to sales tax.
 
@@ -2282,7 +2280,7 @@ The proposed Sales Tax Bill 2018 (“the proposed Act”) seeks to provide for t
 
 9. Clause 7 seeks to provide that any person who has an official duty, or is employed or appointed under the proposed Act, is obligated to have regard and deal with any information, documents, returns or declarations relating to the business, sale value of the goods of any taxable person or the sale value of imported goods as confidential. Clause 7 also seeks to provide that such information, documents, returns or declarations can only be divulged by such person for the purposes of carrying into effect the provisions of the proposed Act or prosecution of an offence.
 
-## Part III
+## PART III
 
 10. Part III deals with the provisions relating to the imposition and scope of sales tax.
 
@@ -2296,7 +2294,7 @@ The proposed Sales Tax Bill 2018 (“the proposed Act”) seeks to provide for t
 
 14. Clause 11 seeks to provide the time when sales tax shall become due in respect of taxable goods.
 
-## Part IV
+## PART IV
 
 15. Part IV deals with provisions relating to registration as a registered manufacturer under the proposed Act.
 
@@ -2320,7 +2318,7 @@ The proposed Sales Tax Bill 2018 (“the proposed Act”) seeks to provide for t
 
 24. Clause 20 seeks to empower the Minister to exempt any class of persons from any registration under clause 13. However, this clause also provides that any person who is exempted by virtue of subclause 20(1) may apply to be registered and the provisions of the proposed Act shall apply to such person.
 
-## Part V
+## PART V
 
 25. Part V deals with accounting, assessment, recovery, etc., relating to sales tax.
 
@@ -2354,7 +2352,7 @@ The proposed Sales Tax Bill 2018 (“the proposed Act”) seeks to provide for t
 
 39. Clause 34 seeks to deal with the liability of directors of companies, compliance officers of limited liability partnerships, partners of firms, office-bearers of societies, or persons responsible for the management of bodies of person for any sales tax due and payable, any surcharge accrued, or any penalty, fee or other money payable, by the companies, limited liability partnerships, firms, societies or bodies of person.
 
-## Part VI
+## PART VI
 
 40. Part VI deals with provisions relating to exemption, refund, drawback and remission of sales tax.
 
@@ -2374,7 +2372,7 @@ The proposed Sales Tax Bill 2018 (“the proposed Act”) seeks to provide for t
 
 47. Clause 41 seeks to empower the Minister to remit sales tax due and payable under the proposed Act and to empower the Director General to remit surcharge accrued, or penalty, fee or other money payable, under the proposed Act.
 
-## Part VII
+## PART VII
 
 48. Part VII deals with public ruling and customs ruling.
 
@@ -2412,7 +2410,7 @@ The proposed Sales Tax Bill 2018 (“the proposed Act”) seeks to provide for t
 
 <!-- page 94 -->
 
-## Part IX
+## PART IX
 
 63. Part IX deals with special provisions dealing with the special areas (any free zone, licensed warehouse and licensed manufacturing warehouse, and the Joint Development Area).
 
@@ -2430,7 +2428,7 @@ The proposed Sales Tax Bill 2018 (“the proposed Act”) seeks to provide for t
 
 70. Clause 61 seeks to provide for the application of clause 40 (relating to drawback) to taxable goods transported from Malaysia to the special areas as if such goods had been exported or re-exported.
 
-## Part X
+## PART X
 
 71. Part X deals with provisions relating to enforcement.
 
@@ -2454,13 +2452,11 @@ The proposed Sales Tax Bill 2018 (“the proposed Act”) seeks to provide for t
 
 80. Clause 70 deals with proportional examination or testing of the goods seized.
 
-81. Clause 71 deals with the return or disposal of goods seized under
-
-## Part X of the proposed Act.
+81. Clause 71 deals with the return or disposal of goods seized under Part X of the proposed Act.
 
 82. Clause 72 seeks to empower any proper officer of sales tax to arrest without warrant.
 
-## Part XI
+## PART XI
 
 83. Part XI deals with provisions relating to trials and proceedings.
 
@@ -2492,7 +2488,7 @@ The proposed Sales Tax Bill 2018 (“the proposed Act”) seeks to provide for t
 
 96. Clause 85 seeks to disallow any cost of proceedings or damages to be awarded in respect of any goods, documents, articles or things seized unless the seizure was made without reasonable cause.
 
-## Part XII
+## PART XII
 
 97. Part XII deals with general provisions.
 

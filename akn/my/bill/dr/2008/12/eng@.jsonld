@@ -1,0 +1,1708 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-12-2008",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_28"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Universities and University Colleges (Amendment) Bill 2008"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 15b the following section: “ Liability of students or students’ organization, body or group 15b. Where a registrable offence has been committed under any written law and such offence has been committed or purports to have been committed in the name or on behalf of any organization, body or group of students of the University which is established by, under or in accordance with the Constitution, every person convicted of such offence shall be liable to disciplinary action and such organization, body or group of students shall be dealt with in accordance with section 16.”. Deletion of section 15c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 15c. Substitution of section 15d"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 15d the following section: “ Suspension of student charged with registrable offence and matters relating to detention, etc. 15d. (1) Where a student of the University is charged with a registrable offence— (a) he may, in the discretion of the Vice-Chancellor, be suspended from being a student; and (b) if so suspended, he shall not during the pendency of the criminal proceedings, remain in or enter the Campus. (2) Where a student of the University charged with a registrable offence under subsection (1) is convicted of that offence, the student shall be liable to disciplinary action. (3) Where a student of the University is detained or is subjected to any order imposing restrictions on him under any written law relating to preventive detention or internal security, the student shall be liable to disciplinary action. (4) A student of the University who is detained or is subjected to any order imposing restrictions on him under any written law relating to preventive detention or internal security, or is imprisoned or detained for whatever reason, may, with the consent of the Senate, be permitted to sit for the examination of the University subject to such order made or approval given by the Minister responsible for internal security or any other competent authority, as the case may require. (5) A student of the University who is suspended from being a student of the University under subsection (1) may, while he is so suspended, be admitted as a student of any University established under this Act with the written approval of the Minister, and if the Minister grants such approval, the Minister may impose such terms and conditions as he thinks fit. (6) A student of the University who ceases to be a student under this Act may be admitted as a student of that or any other University established under this Act with the written approval of the Minister, and if the Minister grants such approval, the Minister may impose such terms and conditions as he thinks fit. (7) If the determination of any application, appeal or other proceedings by the court in respect of any criminal proceedings against a student of the University for a registrable offence, results in his discharge or acquittal, the student, if suspended from the University or has served any period of imprisonment, as the case may be, shall be allowed to resume his studies at the University and the period of suspension or imprisonment, as the case may be, shall not be taken into consideration in calculating the maximum duration permitted to complete the course of study and in the computation of his results. (8) If the determination of any application, petition, appeal or other proceedings by the court or any competent authority in respect of the detention order against or order imposing restrictions on a student of the University under any written law relating to preventive detention or internal security, results in his release or the restrictions imposed on him being revoked, the student shall be allowed to resume his studies at the University and the period of detention and restriction he was subjected to shall not be taken into consideration in calculating the maximum duration permitted to complete the course of study and in the computation of his results.”. Amendment of section 16"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_13__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_13__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 16 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing section as subsection (1) of that section;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_13__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_13__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_13__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_13__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “staff” the word “employee”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_13__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_13__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “the Vice-Chancellor may” the words “, after giving the organization, body or group of students of the University an opportunity to make a written representation,”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_13__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: “(2) Any organization, body or group of students of the University aggrieved by the suspension or dissolution made under subsection (1) may, within fourteen days from the date of receipt of the notice of the suspension or dissolution, appeal in writing to the Minister.”. Deletion of section 16a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 16a. Amendment of section 16b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_15__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_15__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_15__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_15__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 16b of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (3) the following subsection: “(3) The Vice-Chancellor may delegate his disciplinary functions, powers or duties to any of the Deputy Vice-Chancellors, employee of the University, or committee of employees of the University, in respect of any particular student or any class or category of the students of the University.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (3) the following subsections: “(3a) The Vice-Chancellor, or Deputy Vice-Chancellor, employee or committee of employees delegated with the functions, powers or duties under subsection (3), shall inform the student in writing of the grounds on which it is proposed to take action against him and shall afford him a reasonable opportunity of being heard. (3b) A student of the University shall have the right to be represented by an employee or another student of the University in any disciplinary proceedings taken against him. (3c) A student of the University shall be allowed to make a written or an oral representation in any disciplinary proceedings taken against him. (3d) The decision of the Vice-Chancellor, Deputy Vice-Chancellor, employee or committee of employee, as the case may be, in any disciplinary proceedings taken against a student of the University shall be communicated in writing to the student within fourteen days from the date of the decision.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_15__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (4) the following subsection: “(4) Any student of the University who is dissatisfied with the decision of the Vice-Chancellor, Deputy Vice- Chancellor, employee or committee of employees, as the case may be, under subsection (3d) may, within fourteen days from the date of receipt of the decision, submit an appeal in writing to the Student Disciplinary Appeal Committee established by the Board under subsection (5).”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_15__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (5) the following subsection: “(5) The Board shall establish a Student Disciplinary Appeal Committee to hear and determine any appeal submitted by a student under subsection (4).”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_15__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (5) the following subsections: “(6) The Student Disciplinary Appeal Committee shall comprise three members to be appointed by the Board, two of whom shall be from amongst its members and one other person from within the University. (7) The Board shall appoint any of its members referred to in subsection (5) to be the chairman of the Student Disciplinary Appeal Committee. (8) No person who had exercised the powers under subsection (2) or (3) shall be a member of the Student Disciplinary Appeal Committee. (9) A student of the University who has submitted an appeal under subsection (4) shall have the right to be represented by an employee or another student of the University in any proceedings before the Student Disciplinary Appeal Committee. (10) A student of the University who has submitted an appeal under subsection (4) shall be allowed to make a written representation in any proceedings before the Student Disciplinary Appeal Committee. (11) The Student Disciplinary Appeal Committee hearing an appeal under subsection (5) shall decide on the appeal within thirty days from the date of receipt of the appeal. (12) The decision of the Student Disciplinary Appeal Committee on an appeal shall be communicated in writing to the student within fourteen days from the date of its decision.”. Amendment of section 16c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_16__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_16__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_16__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 16c of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by deleting the words “members of the staff, officers and employees of the University and of the”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (2) the following subsection: “(2) The disciplinary rules made under this section may include provisions for the suspension of a student of the University during the pendency of disciplinary proceedings.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_16__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (3) the following subsection: “(3) The disciplinary rules made under this section shall create such disciplinary offences and provide for such disciplinary punishments as the Board may deem appropriate, and the punishments so provided may extend to expulsion of the student from the University.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_16__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (4) the following subsection: “(4) The disciplinary rules made under this section shall prescribe the procedures for disciplinary proceedings and disciplinary appeal proceedings.”. Deletion of section 16d"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 16d. Amendment of section 19"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 19 of the principal Act is amended by substituting for the words “any other written law regulating its establishment” the words “the Private Higher Educational Institutions Act 1996”. Amendment of section 20"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_19__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_19__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 20 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing section as subsection (1) of that section; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_19__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: “(2) The Yang di-Pertuan Agong may amend, vary or revoke an order made under subsection (1) by a subsequent order published in the Gazette.”. Amendment of section 22"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Universities and University Colleges (Amendment) Act 2008."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette, and the Minister may appoint different dates for the coming into operation of different provisions of this Act. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Universities and University Colleges Act 1971 [Act 30], which is referred to as the “principal Act” in this Act, is amended in section 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 22 of the principal Act is amended by deleting the words “15c,”, “16a,” and “, 16d”. Amendment of section 23"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 23(1) of the principal Act is amended by substituting for the words “any other written law regulating its establishment” the words “the Private Higher Educational Institutions Act 1996”. Amendment of section 24"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsections 24(1) and (2) of the principal Act is amended by substituting for the words “any other written law regulating its establishment” the words “the Private Higher Educational Institutions Act 1996”. Amendment of sections 24b and 24c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 24b and paragraph 24c(g) of the principal Act are amended by deleting the words “the staff,” and “a staff,” respectively. Amendment of section 24d"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 24d of the principal Act is amended by deleting the words “staff,” wherever they appear. Substitution of section 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_25__para_b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 26 the following section: “Exemption 26. The Yang di-Pertuan Agong may, on the advice of the Minister, by order published in the Gazette— (a) exempt any University or University College from any provisions of this Act or the First and Second Schedules; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_25__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "vary any provisions of the First and Second Schedules in their application to any University or University College.”. Amendment of First Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_l",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_m",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_n",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_o",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_p",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_q",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_r",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_s",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_t",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_u",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_v",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_w",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_x",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_y",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_z",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_za",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_zb"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The First Schedule to the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in section 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_a__subpara_i__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_a__subpara_i__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “Officer”—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_a__subpara_i__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_a__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “Deputy Vice- Chancellor,” the words “the head of a Branch Campus,”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_a__subpara_i__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_a__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “the Librarian” the words “the Chief Librarian, the Legal Adviser”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “Teacher”, by inserting after the words “associate professor,” the words “fellow,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in section 4—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_b__subpara_i__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_b__subpara_i__subpara_B",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_b__subpara_i__subpara_C",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_b__subpara_i__subpara_D",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_b__subpara_i__subpara_E",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_b__subpara_i__subpara_F"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_b__subpara_i__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_b__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (ka), by deleting the words “staff,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_b__subpara_i__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_b__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (l), by substituting for the word “staff” the word “employee”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_b__subpara_i__subpara_C",
+      "@type": "akn:subparagraph",
+      "eli:number": "C",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_b__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (m) the following paragraph: “(m) to appoint and promote employees of the University and to consider appeals from any person aggrieved by the exercise of such power to appoint and promote;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_b__subpara_i__subpara_D",
+      "@type": "akn:subparagraph",
+      "eli:number": "D",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_b__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (n) the following paragraph: “(n) to regulate the conditions of service of employees of the University, including schemes of service, salary scales, secondment, transfer, leave and discipline;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_b__subpara_i__subpara_E",
+      "@type": "akn:subparagraph",
+      "eli:number": "E",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_b__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (p), by substituting for the word “staff” wherever it appears the word “employee”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_b__subpara_i__subpara_F",
+      "@type": "akn:subparagraph",
+      "eli:number": "F",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_b__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (q) in the national language text, by substituting for the word “bayaran” the word “fi”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsection: “(3) For the avoidance of doubt, the powers under subsection (1) may be exercised by the Board, except the powers under paragraphs (1)(a), (b), (c), (d), (f), (j) and (kc) which shall be exercised by the Senate.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_c__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_c__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in section 9—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: “(1) There shall be a Vice-Chancellor who shall be appointed by the Minister on the advice of the committee appointed under section 4a of the Universities and University Colleges Act 1971 and after consultation with the Board.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: “(1a) The Vice-Chancellor shall act under the general authority and direction of the Board and the Senate.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (3) the following subsection: “(3) The Vice-Chancellor shall be the chief executive officer and shall be responsible for the overall administrative, academic and management functions and the day-to-day affairs of the University.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_c__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (4);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after section 9 the following section: “Head of a Branch Campus 9a. (1) Where there is a Branch Campus, there shall be a head of the Branch Campus who shall be appointed by the Minister, after consultation with the Vice-Chancellor. (2) The head of a Branch Campus may be known by such other name as may be specified by the Minister. (3) The terms of office and other conditions of the service of the head of a Branch Campus shall be determined by the Minister, after consultation with the Vice-Chancellor. (4) The head of a Branch Campus shall be the principal executive, administrative and academic officer of the Branch Campus and shall perform his functions and discharge his duties under the direction and control of the Vice-Chancellor.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_e__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_e__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_e__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_e__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in section 10—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_e__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the words “and Librarian” the words “, Chief Librarian and Legal Adviser”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_e__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_e__subpara_ii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_e__subpara_ii__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_e__subpara_ii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_e__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “and a Librarian” the words “, a Chief Librarian and a Legal Adviser”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_e__subpara_ii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_e__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the English language text, by substituting for the word “whole-time” the word “full- time”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_e__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: “(1a) The post of the Registrar, Bursar, Chief Librarian and Legal Adviser may be known by such other names as may be determined by the Board.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_e__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsections (2) and (3), by substituting for the words “and the Librarian” the words “, the Chief Librarian and the Legal Adviser”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_f__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_f__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in section 12—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_f__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_f__subpara_i__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_f__subpara_i__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_f",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_f__subpara_i__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_f__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “the Senate,” the words “the Management Committee of the University or by whatever name it may be referred to,”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_f__subpara_i__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_f__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “the Selection Committees,” the words “the Employee Welfare Committee,”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_f__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_f",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by deleting the words “non ex-officio”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for section 13 the following section: “The Board of Directors 13. (1) The Board of Directors shall consist of— (a) a Chairman; (b) the Vice-Chancellor; (c) two officers of the public service; (d) one person to represent the community at the place where the University is located; (e) one professor of the University elected by the Senate from amongst the members mentioned in paragraph 17(d); and (f) five persons comprising three persons from the private sector, one person from the alumni of the University and one other person from within or without the University who, in the opinion of the Minister, have the knowledge and experience which would be of assistance to the Board. (2) The Deputy Vice-Chancellors, Registrar, Bursar and Legal Adviser shall be ex-officio members of the Board but shall not be entitled to vote at the meetings of the Board. (3) Subject to the approval of the Minister, each member appointed under paragraph (1)(c) may appoint an alternate member to attend meetings of the Board if that member is for any reason unable to attend. (4) When attending meetings of the Board, an alternate member shall for all purposes be deemed to be a member of the Board.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in section 14—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_i__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_i__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: “(1a) The term of the member appointed under paragraph 13(1)(e) shall be for the duration of his membership in the Senate.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_i__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (2) the following subsection: “(2) The Registrar shall be the Secretary of the Board.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_i__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_i__subpara_iii__subpara_i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the words “three other members” the words “four other members excluding ex-officio members”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_i__subpara_iii__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_i__subpara_iii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection 15(1), by inserting after the words “any member of the Board” the words “, other than the Vice- Chancellor,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for section 16 the following section: “Functions and powers of the Board 16. (1) The Board shall be the governing, policy making and monitoring body of the University, and may exercise all the powers conferred on the University save in so far as they are by this Constitution or the Statutes, Rules and Regulations conferred on some other Authority, body or on some other officer of the University. (2) No resolution shall be passed by the Board relating to any matter within the powers of the Senate, but the Board may transmit to the Senate the Board’s opinion on any matter within the powers of the Senate, for the Senate’s consideration. (3) In addition to the functions and powers under subsection (1), the Board shall— (a) provide strategic planning-oversight of the educational character and mission of the University; (b) promote efficient and effective management and provide overall review of University operations; (c) develop links with the community, corporate sector and industry; (d) foster global linkages and internationalization in relation to higher education and research; (e) ensure the implementation of the University’s Constitution, laws and policies and to ensure that every Authority, Committee, Officer or committee keeps within its or his powers and terms of reference.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after section 16 the following section: “Committees of the Board 16a. (1) The Board may establish any committees as it considers necessary or expedient to assist it in the performance of its functions. (2) The Board shall elect any of its members to be the chairman of a committee. (3) The Board may appoint any person to be a member of a committee. (4) A member of a committee shall hold office for such term as may be specified in his instrument of appointment and is eligible for reappointment. (5) The appointment of any member of a committee may at any time be revoked by the Board, stating the reason for such revocation. (6) A member of a committee may, at any time, resign his office by a notice in writing addressed to the Chairman of the Board. (7) The Board may, at any time, discontinue or alter the constitution of a committee. (8) A committee shall be subject to, and act in accordance with, any direction given to it by the Board. (9) The meetings of a committee shall be held at such times and places as the chairman of the committee may determine. (10) A committee shall cause— (a) minutes of all its meetings to be maintained and kept in a proper form; and (b) copies of the minutes of all its meetings to be submitted to the Board as soon as practicable. (11) A committee may invite any person to attend any of its meetings for the purpose of advising it on any matter under discussion but that person shall not be entitled to vote at the meeting. (12) The members of a committee or any person invited under subsection (11) shall be paid such allowances and other expenses as the Board may determine. (13) A committee established under this section may regulate its own procedure.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_l__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_l__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_l__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_l__subpara_iv",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_l__subpara_v"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in section 17—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_l__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_l__subpara_i__subpara_B",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_l__subpara_i__subpara_C"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_l",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)— (A) in paragraph (c), by substituting for the words “Heads of the” the words “heads of the Campuses,” and by deleting the word “and” appearing at the end of that paragraph;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_l__subpara_i__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_l__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (d) the following paragraph: “(d) not more than twenty professors to be elected for a term of three years by all full-time professors and associate professors of the University; and”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_l__subpara_i__subpara_C",
+      "@type": "akn:subparagraph",
+      "eli:number": "C",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_l__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (d) the following paragraph: “(e) not more than five persons from the University to be co-opted by the Vice-Chancellor for a term of three years.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_l__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_l",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1a) the following subsection: “(1a) The Senate may from time to time invite any person, including any student, to attend the meetings of the Senate.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_l__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_l",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1b) the following subsection: “(1c) The Registrar, Bursar, Chief Librarian and Legal Adviser shall be ex-officio members but shall not be entitled to vote at the meetings of the Senate.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_l__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_l",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsection: “(2a) In addition to the functions and powers under subsection 4(3) and subsection (2), the Senate shall perform the following functions and exercise the following powers: (a) to set up Faculties, Schools, Centres, Academies and Institutes, and departments, units or bodies under such Faculties, Schools, Centres, Academies and Institutes; (b) with the consent of the Board, to confer honorary degrees on persons who have contributed to the advancement or dissemination of knowledge, or who have rendered distinguished public service; (c) to formulate policies and methods of instruction, education, examination, research, scholarship and training conducted in, by or from the University; (d) to ensure educational standards in the courses of study provided in, by or from the University; (e) to determine the feasibility or otherwise of any proposal in respect of any curriculum or course of study conducted or to be conducted in, by or from the University; (f) to determine the qualifications required for admission into any course of study provided in, by or from the University; (g) to regulate the conduct of assessments and examinations, confirm examination’s results and determine appeals; (h) to draft policies for the protection of academic freedom and professional excellence; and (i) to do all things expedient or necessary for or incidental to the performance of its functions under this Constitution.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_l__subpara_v",
+      "@type": "akn:subparagraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_l",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (3) the following subsections: “(4) The Senate shall consider any matter transmitted to it by the Board under subsection 16(3). (5) Any dispute between the Senate and the Board on the scope and extent of their functions or powers may be referred by either party to the Minister in accordance with section 24a.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_m",
+      "@type": "akn:paragraph",
+      "eli:number": "m",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after section 17 the following section: “Management Committee of the University 17a. (1) There shall be established a Management Committee of the University which shall consist of— (a) the Vice-Chancellor, who shall be the chairman; (b) all Deputy Vice-Chancellors; (c) the Registrar; (d) the Bursar; (e) the Legal Adviser; and (f) such other officers of the University appointed by the Vice-Chancellor. (2) The Management Committee of the University shall advise the Vice-Chancellor relating to his administrative and management functions.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_n",
+      "@type": "akn:paragraph",
+      "eli:number": "n",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_n__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_n__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in section 18—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_n__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_n__subpara_i__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_n__subpara_i__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_n",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_n__subpara_i__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_n__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “Vice-Chancellor shall” the words “, after consultation with the academic staff of each Faculty,”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_n__subpara_i__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_n__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “one Deputy Dean.” the words “The Board shall be informed of the appointments as soon as may be.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_n__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_n",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4), by substituting for the words “The Vice-Chancellor shall have power to appoint a person to be head of a School, a Centre, an Academy and an Institute” the words “The Vice-Chancellor shall, after consultation with the academic staff of each School, Centre, Academy and Institute, have power to appoint a person to be head of a School, a Centre, an Academy and an Institute”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_o",
+      "@type": "akn:paragraph",
+      "eli:number": "o",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_o__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_o__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in section 20—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_o__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_o",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by inserting after the word “Chair” the words “and appointment or promotion to the post of senior professors, professors and officers referred to in section 10”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_o__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_o__subpara_ii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_o__subpara_ii__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_o",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_o__subpara_ii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_o__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “Chair” the words “and appointment or promotion to the post of senior professors, professors and officers under section 10”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_o__subpara_ii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_o__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “Deputy Vice- Chancellor” the words “in charge of academic affairs”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_p",
+      "@type": "akn:paragraph",
+      "eli:number": "p",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after section 20 the following section: “Employee Welfare Committee 20a. (1) There shall be established an Employee Welfare Committee which shall consist of— (a) a member of the Board who shall be the chairman; (b) the Vice-Chancellor; (c) the Registrar; (d) the Bursar; and (e) a member from each registered employee union or employee association of the University. (2) The Employee Welfare Committee shall have such powers relating to the welfare of the employees as may be prescribed by Statute.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_q",
+      "@type": "akn:paragraph",
+      "eli:number": "q",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection 21(1) the following subsection: “(1) There shall be established a Student Welfare Committee which shall consist of— (a) the Vice-Chancellor, who shall be the chairman; (b) two members elected by the Students’ Representative Council; and (c) such other members as may be by the Board.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_r",
+      "@type": "akn:paragraph",
+      "eli:number": "r",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after section 24 the following section: “Disputes 24a. (1) Any dispute between the Authorities, or between an Officer and an Authority as to the scope and extent of his or its powers, functions or jurisdiction may be referred by either party to the Minister and the Minister may determine the dispute himself or appoint a Dispute Resolution Panel to determine the dispute. (2) The Dispute Resolution Panel shall be constituted from amongst distinguished persons from within or outside the University who are not officers, employees or members of the Authority concerned. (3) The Dispute Resolution Panel shall consist of a chairman and two other members. (4) The Dispute Resolution Panel shall determine its own procedure. (5) The decision of the Dispute Resolution Panel shall be final and conclusive and shall be binding on the parties to the dispute.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_s",
+      "@type": "akn:paragraph",
+      "eli:number": "s",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in section 25, by inserting after paragraph (f) the following paragraph: “(fa) the management of a Branch Campus situated outside Malaysia;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_t",
+      "@type": "akn:paragraph",
+      "eli:number": "t",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection 26(3) the following subsection: “(3) A proposal for a new Statute, or of any amendment to a Statute, dealing with any of the following matters, that is to say: (a) the powers and duties of the Dean of a Faculty or the head of a School, a Centre, an Academy and an Institute; (b) the composition, powers, duties and procedure of the Senate, a Faculty, a School, a Centre, an Academy, an Institute or a Studies Committee; (c) the determination of degrees, diplomas, and other academic distinctions to be conferred by the University; (d) the management of the library; and (e) all other matters within the jurisdiction of the Senate under this Constitution or any Statute, shall not be submitted to the Chancellor without the consent in writing of the Senate.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_u",
+      "@type": "akn:paragraph",
+      "eli:number": "u",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 27(i), by substituting for the words “all branches of University activity” the words “all activities of the University branches whether in or outside Malaysia,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_v",
+      "@type": "akn:paragraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 28(2)(a), by deleting the words “, (g)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_w",
+      "@type": "akn:paragraph",
+      "eli:number": "w",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_w__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_w__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in section 39—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_w__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_w",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the shoulder note the following shoulder note: “ Power of the Board to seek fund, accept gifts, etc.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_w__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_w",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by inserting after the words “on behalf of the University” the words “seek funds for academic and research activities of the University and”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_x",
+      "@type": "akn:paragraph",
+      "eli:number": "x",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in section 41, by deleting the words “staff,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_y",
+      "@type": "akn:paragraph",
+      "eli:number": "y",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in section 46a, by deleting the words “, including rules made under section 16c thereof,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_z",
+      "@type": "akn:paragraph",
+      "eli:number": "z",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_z__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_z__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_z__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_z__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in section 48—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_z__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_z",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: “(1a) The Board may make Regulations for the conduct of elections to the Students’ Representative Council and for all matters related to it.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_z__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_z__subpara_ii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_z__subpara_ii__subpara_B",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_z__subpara_ii__subpara_C"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_z",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (2)(a)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_z__subpara_ii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_z__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “each” the words “Branch Campus,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_z__subpara_ii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_z__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “conducted by” the words “the head of the Campus or”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_z__subpara_ii__subpara_C",
+      "@type": "akn:subparagraph",
+      "eli:number": "C",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_z__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “respective” the words “Branch Campus,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_z__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_z",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (9); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_z__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_z",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (14) the following subsection: “(14) (a) For the purpose of this section— “registered student” means a student who is following a course of study in the University for a degree or diploma including a post-graduate diploma, but shall not include an external student; “external student” means a student registered at a campus outside Malaysia or who is pursuing a short term, part-time, distance learning, exchange or allied programme, whether in or outside Malaysia. (b) A registered student shall cease to be a registered student under this section— (i) upon the publication of the results of the final examination for such course of study, if he passes such examination; or (ii) upon the publication of the results of any examination for such course of study, if he fails such examination, until he is, thereafter, registered again for that or another course of study applicable to a registered student under this subsection.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_za",
+      "@type": "akn:paragraph",
+      "eli:number": "za",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection 49(1), by substituting for the word “Board” wherever it appears the word “Vice-Chancellor”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_zb",
+      "@type": "akn:paragraph",
+      "eli:number": "zb",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_zb__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_zb__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in section 53—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_zb__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_zb",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: “(1) If the Board is of the opinion that any graduate of the University or any person who has received a degree, diploma, certificate or other academic distinction from the University is guilty of scandalous conduct, it shall be lawful for the Chancellor, on the recommendation of not less than two-thirds of all members of the Board, after giving to the graduate or the person concerned an opportunity of being heard, to deprive of any degree, diploma, certificate or other academic distinction conferred upon him by the University.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_zb__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_26__para_zb",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the word “includes” the word “means” and by deleting the words “staff,”. Amendment of Second Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_27__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_27__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Second Schedule to the principal Act is amended in"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_27__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (b), by substituting for the words “revoked.” the words “revoked or he resigns; or”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_27__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subparagraph (b) the following subparagraph: “(c) if he is disqualified under paragraph 1.”. Savings and transitional provisions"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_28__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_28__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_28__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_28__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_28__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_28__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where on the coming into operation of this Act a criminal proceeding against a student of the University is pending before any court and the student has been suspended in accordance with the provisions of section 15d of the principal Act, the Vice- Chancellor shall, in his discretion, consider whether the student should continue to be suspended or otherwise."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_28__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where on the coming into operation of this Act a criminal proceeding pending before the court against a student of the University results in his conviction, the student shall be liable to a disciplinary action and the student shall be dealt with under and in conformity with the provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_28__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where on the coming into operation of this Act any application, petition, appeal or other proceedings pending before the court or any competent authority in respect of any criminal proceeding against a student of the University, or detention order against or order imposing restrictions on a student of the University under any written law relating to the preventive detention or internal security, results in his acquittal or release, the student shall be dealt with under and in conformity with the provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_28__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where on the coming into operation of this Act a disciplinary proceeding against a student of the University is pending, the proceeding shall be continued by the Vice-Chancellor, Deputy Vice-Chancellor, employee of the University or committee of employees of the University, as the case may be, under and in conformity with the provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_28__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where on the coming into operation of this Act an appeal brought by a student of the University is pending before the Minister, the appeal shall be heard by the Student Disciplinary Appeal Committee under and in conformity with the provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “Campus” the following definition: ‘ “Campus”, in relation to a University or University College, means the Campus or Branch Campus of the University or University College;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “Minister” the following definition: ‘ “Minister” means the Minister charged with the responsibility for higher education;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “Minister” the following definition: ‘ “registrable offence” has the meaning assigned to it under the Registration of Criminals and Undesirable Persons Act 1969 [Act 7];’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “student” the following definition: ‘ “student” means a registered student, other than a student at an institution allied to the University or University College, who is following a course of study, instruction, training or research of any description at the preparatory, under-graduate, post-graduate or post-doctoral level on a full time or part-time basis in, by or from the University or University College, and includes a distance-learning, off-campus, exchange and non-graduating student;’; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “University or University College education” the following definition: ‘ “University or University College education” means education provided by a University or University College at the preparatory, under-graduate, post- graduate or post-doctoral level and includes research and educational development and the commercialization of such research and development;’. New sections 4a and 4b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 4 the following sections: “Committee to advise Minister on appointment 4a. For the purpose of selecting a qualified and suitable person for the post of Vice-Chancellor or for any other post to which the Minister has the power to appoint under this Act, the Minister shall, from time to time, appoint a committee to advise him on such appointment. Secondment or transfer of service of University employee by Minister 4b. (1) If on the application of a requesting University, statutory authority or organization, the Minister is satisfied that in the interest of higher education or for the promotion of research and educational development, it is expedient to second or transfer a University employee to the service of the requesting University, statutory authority or organization in Malaysia, the Minister may, with the consent of the employee, issue a direction for the secondment or transfer of the University employee to the service of the requesting University, statutory authority or organization, and it shall be the duty of the University of the said employee to carry out that direction whether or not the University agrees to the secondment or transfer. (2) Any claim for compensation arising out of the secondment or transfer of a University employee pursuant to subsection (1) shall be met by the requesting University, statutory authority or organization whether it be in accordance with such arrangement as may be agreed upon with the University of the said employee or otherwise.”. Amendment of section 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 5 of the principal Act is amended by substituting for the words “any other written law regulating its establishment” the words “the Private Higher Educational Institutions Act 1996 [Act 555]”. Amendment of section 5a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 5a(1) of the principal Act is amended by substituting for the words “any written law” the words “the Private Higher Educational Institutions Act 1996”. Amendment of section 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 6 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: “(1a) The Yang di-Pertuan Agong may amend, vary or revoke an order made under subsection (1) by a subsequent order published in the Gazette.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by inserting after the words “(hereinafter referred to as the “Incorporation Order”)” the words “or (1a)”. Substitution of section 12"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 12 the following section: “Establishment of Campus of a University 12. (1) The Minister may, after consultation with the Board, by order published in the Gazette (hereinafter referred to as a “Campus Order”)— (a) establish a Campus of a University in or outside Malaysia; (b) assign a suitable name or designation to the Campus; (c) specify the site or location of the Campus, being the site or location which shall be in addition to the Campus at the seat of the University; and (d) prescribe such other matters as may be necessary or expedient for giving effect to the Campus Order. (2) The Minister may amend, vary or revoke a Campus Order by a subsequent order published in the Gazette. (3) If any area is required to be used by the University temporarily for any purpose, the Vice-Chancellor may, with the consent of the Board, approve the use of such area for such purpose by the University for such duration as he may deem necessary, and the provisions of this Act, the Constitution, Statutes, Rules and Regulations of the University shall apply to such area as they apply to a Campus.”. Substitution of section 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 15 the following section: “ Student or students’ organization, body or group associating with societies, etc. 15. (1) A student of the University may become a member of any society, organization, body or group of persons, whether or not it is established under any written law, whether it is in or outside the University, and whether it is in or outside Malaysia, other than— (a) any political party, whether in or outside Malaysia; (b) any unlawful organization, body or group of persons, whether in or outside Malaysia; or (c) any organization, body or group of persons which the Minister, after consultation with the Board, has specified in writing to the Vice-Chancellor to be unsuitable to the interests and well-being of the students or the University. (2) An organization, body or group of students of the University which is established by, under or in accordance with the Constitution may have any affiliation, association or other dealing with any society, organization, body or group of persons, whether or not it is established under any written law, whether it is in or outside the University, and whether it is in or outside Malaysia, other than— (a) any political party, whether in or outside Malaysia; (b) any unlawful organization, body or group of persons, whether in or outside Malaysia; or (c) any organization, body or group of persons which the Minister, after consultation with the Board, has specified in writing to the Vice-Chancellor to be unsuitable to the interests and well-being of the students or the University. (3) It shall be the responsibility of the Vice-Chancellor to communicate to the students of the University, and the organizations, body or group of students of the University, the names of the organization, body or group of persons specified by the Minister under paragraphs (1)(c) and (2) (c) to be unsuitable to the interests and well-being of the students or the University. (4) The Vice-Chancellor may, on the application of a student of the University, exempt the student from the provisions of paragraph (1)(a), subject to such terms and conditions as he thinks fit. (5) No student of the University and no organization, body or group of students of the University which is established by, under or in accordance with the Constitution, shall express or do anything which may reasonably be construed as expressing support for or sympathy with or opposition to— (a) any political party, whether in or outside Malaysia; (b) any unlawful organization, body or group of persons, whether in or outside Malaysia; or (c) any organization, body or group of persons specified by the Minister under paragraphs (1)(c) and (2)(c) to be unsuitable to the interests and well-being of the students or the University. (6) Notwithstanding subsection (5), a student of the University shall not be prevented from— (a) making a statement on an academic matter which relates to a subject on which he is engaged in study or research; or (b) expressing himself on the subject referred to in paragraph (a) at a seminar, symposium or similar occasion that is not organized or sponsored by any political party, whether in or outside Malaysia, any unlawful organization, body or group of persons whether in or outside or Malaysia, or any organization, body or group of persons specified by the Minister under paragraphs (1)(c) and (2)(c) to be unsuitable to the interests and well-being of the students or the University. (7) Any student of the University who breaches subsection (1) or (5) shall be liable to disciplinary action. (8) Any organization, body or group of students of the University which breaches subsection (2) or (5) shall be dealt with in accordance with section 16.”. Amendment of section 15a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_9__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_9__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 15a of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (2) the following subsection: “(2) Any person who breaches subsection (1) shall be liable to disciplinary action.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (3) the following subsection: “(3) The Vice-Chancellor may, in any particular case, grant exemption to any person from the application of subsection (1), subject to such terms and conditions as he thinks fit.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_9__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/12/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (4). Substitution of section 15b"
+      }
+    }
+  ]
+}

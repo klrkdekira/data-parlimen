@@ -60,9 +60,13 @@ Investigating Officer of the Commission appointed under the Securities Commissio
 
 (h) in the definition of "unit trust scheme", by substituting for the words "trust, or" the words "trust in".
 
-Amendment
+<!-- marginal: Amendment -->
 
-3. Section 7 of the principal Act is amended by of section 7. substituting for subsection (2) the following subsection:
+3. Section 7 of the principal Act is amended by
+
+<!-- marginal: of section 7. -->
+
+substituting for subsection (2) the following subsection:
 
 "(2) A person who contravenes or fails to comply with the provisions of subsection (1) commits an offence and is liable on conviction to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding ten years or to both.".
 
@@ -114,9 +118,11 @@ Investigating Officer or the";
 
 (iii) by substituting for the words "six months" the words "three years'".
 
-Amendment
+<!-- marginal: Amendment -->
 
-7. Section 11 of the principal Act is amended— of section 11.
+7. Section 11 of the principal Act is amended—
+
+<!-- marginal: of section 11. -->
 
 (a) by substituting for subsection (1) the following subsection:
 
@@ -128,21 +134,33 @@ requirement of a stock exchange fails to do so, the stock exchange may, after gi
 
 (b) in the marginal note, by substituting for the words "of court to order" the words "to give directions concerning the".
 
-New section
+<!-- marginal: New section -->
 
 8. The principal Act is amended by inserting after
 
 15A. section 15 the following section: " Licensing 15A. The Minister shall appoint a public Officer officer to be a Licensing Officer.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-9. Sections 16, 17-, 18, 19, 20 and 21 of the principal of sections Act are amended by substituting for the word 16, 17. 18, 19, 20 and "Registrar" wherever it appears the words "Licensing
+9. Sections 16, 17-, 18, 19, 20 and 21 of the principal
+
+<!-- marginal: of sections -->
+
+Act are amended by substituting for the word
+
+<!-- marginal: 16, 17. 18, -->
+
+<!-- marginal: 19, 20 and -->
+
+"Registrar" wherever it appears the words "Licensing
 
 21. Officer".
 
-Amendment
+<!-- marginal: Amendment -->
 
-10. Section 22 of the principal Act is amended— of section 22
+10. Section 22 of the principal Act is amended—
+
+<!-- marginal: of section 22 -->
 
 (a) by substituting for the words "of not less than five thousand" the words "not exceeding one million"; and
 
@@ -222,17 +240,23 @@ subsection (1), by substituting for the word "Registrar" the words "Licensing Of
 
 <!-- page 6 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-17. Section 40 of the principal Act is amended, in of section 40. subsection (9)—
+17. Section 40 of the principal Act is amended, in
+
+<!-- marginal: of section 40. -->
+
+subsection (9)—
 
 (a) by inserting after the word "fine" the words "not exceeding one million ringgit"; and
 
 (b) by substituting for the word "two" the word "ten".
 
-Amendment
+<!-- marginal: Amendment -->
 
-18. Section 41 of the principal Act is amended— of seclion 41.
+18. Section 41 of the principal Act is amended—
+
+<!-- marginal: of seclion 41. -->
 
 (a) in subsection (2)—
 
@@ -240,13 +264,19 @@ Amendment
 
 (b) in the national language text, by substituting for the word "jangkaturun" wherever it appears the word "pendek".
 
-Amendment
+<!-- marginal: Amendment -->
 
-19. Section 43 of the principal Act is amended, in of section 43. subsection (5), by substituting for the word "Registrar" the word "Commission".
+19. Section 43 of the principal Act is amended, in
 
-Amendment
+<!-- marginal: of section 43. -->
 
-20. Section 44 of the principal Act is amended— of section 44.
+subsection (5), by substituting for the word "Registrar" the word "Commission".
+
+<!-- marginal: Amendment -->
+
+20. Section 44 of the principal Act is amended—
+
+<!-- marginal: of section 44. -->
 
 (a) by inserting after subsection (1) the following subsection: "(1A) For the purpose of paragraph (b) of subsection (1), any cheque issued for the purpose of payment to a person which is not collected by that person or as directed by that person within five bank trading days after the date such cheque is issued shall be credited into the trust account."; and
 
@@ -312,9 +342,23 @@ Commission"; and
 
 <!-- page 8 -->
 
-Amendment 26. Sections 55 and 56 of the principal Act are of sections amended by substituting for the word "Minister" 55 and 56. wherever it appears the word "Commission".
+<!-- marginal: Amendment -->
 
-Amendment 27. Section 57 of the principal Act is amended— of section 57.
+26. Sections 55 and 56 of the principal Act are
+
+<!-- marginal: of sections -->
+
+amended by substituting for the word "Minister"
+
+<!-- marginal: 55 and 56. -->
+
+wherever it appears the word "Commission".
+
+<!-- marginal: Amendment -->
+
+27. Section 57 of the principal Act is amended—
+
+<!-- marginal: of section 57. -->
 
 (a) in subsections (1) and (2), by substituting for the word "Minister" the word "Commission"; and
 
@@ -324,21 +368,43 @@ Amendment 27. Section 57 of the principal Act is amended— of section 57.
 
 (ii) by substituting for the word "two" the word "five".
 
-Amendment 28. Section 58 of the principal Act is amended, in of section 58. subsection (1)—
+<!-- marginal: Amendment -->
+
+28. Section 58 of the principal Act is amended, in
+
+<!-- marginal: of section 58. -->
+
+subsection (1)—
 
 (a) by substituting for the words "of not less than ten thousand" the words "not exceeding one million"; and
 
 (b) by substituting for the word "two" the word "ten".
 
-Amendment 29. Section 68 of the principal Act is amended— of section 68.
+<!-- marginal: Amendment -->
+
+29. Section 68 of the principal Act is amended—
+
+<!-- marginal: of section 68. -->
 
 (a) in subsections (I) and (4), by substituting for the word "Minister" the word "Commission"; and
 
 (b) in subsection (3), by substituting for the word "Registrar" the word "Commission".
 
-Amendment 30. Section 69 of the principal Act is amended, in of section 69. subsection (3), by substituting for the word "Minister" the word "Commission".
+<!-- marginal: Amendment -->
 
-Amendment 31. Section 72 of the principal Act is amended, in of section 72. subsections (3) and (4), by substituting for the word "Registrar" the word "Commission".
+30. Section 69 of the principal Act is amended, in
+
+<!-- marginal: of section 69. -->
+
+subsection (3), by substituting for the word "Minister" the word "Commission".
+
+<!-- marginal: Amendment -->
+
+31. Section 72 of the principal Act is amended, in
+
+<!-- marginal: of section 72. -->
+
+subsections (3) and (4), by substituting for the word "Registrar" the word "Commission".
 
 <!-- page 9 -->
 
@@ -402,9 +468,13 @@ subsection (4)—
 
 <!-- page 10 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-37. Section 100 of the principal Act is amended, in of section subsection (5)—
+37. Section 100 of the principal Act is amended, in
+
+<!-- marginal: of section -->
+
+subsection (5)—
 
 100.
 
@@ -412,13 +482,21 @@ Amendment
 
 (b) by substituting for the words "one year" the words "ten years".
 
-Deletion of
+<!-- marginal: Deletion of -->
 
-38. The principal Act is amended by deleting Division Division 2 2 of Part X. of Part X.
+38. The principal Act is amended by deleting Division
 
-Amendment
+<!-- marginal: Division 2 -->
 
-39. Section 123 of the principal Act is amended— of section
+2 of Part X.
+
+<!-- marginal: of Part X. -->
+
+<!-- marginal: Amendment -->
+
+39. Section 123 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 123.
 
@@ -426,9 +504,13 @@ Amendment
 
 (b) by substituting for the words "one year" the words "five years".
 
-Amendment
+<!-- marginal: Amendment -->
 
-40. The principal Act is amended by substituting for of section section 124 the following section:
+40. The principal Act is amended by substituting for
+
+<!-- marginal: of section -->
+
+section 124 the following section:
 
 124. " Com- 124. (1) The Licensing Officer may pounding compound any offence committed by any of offences. person under Part IV, V or VII by making a written offer to such person to compound the offence if such person pays to the Licensing Officer such sum of money within such period as may be specified in the offer.
 

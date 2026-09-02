@@ -14,7 +14,21 @@
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
-3. Commencement of amendments to the Income Tax Act 1967 4. Amendment of section 2 5. Amendment of section 6 6. Amendment of section 6A 7. Deletion of section 6B 8. Amendment of section 13 9. Amendment of section 22 10. Amendment of section 30 11. Amendment of section 34 12. Amendment of section 35 13. Amendment of section 39 14. Amendment of section 43 15. Amendment of section 44 16. Amendment of section 44A
+3. Commencement of amendments to the Income Tax Act 1967 4. Amendment of section 2 5. Amendment of section 6 6. Amendment of section 6A 7. Deletion of section 6B 8. Amendment of section 13 9. Amendment of section 22
+
+10. Amendment of section 30
+
+11. Amendment of section 34
+
+12. Amendment of section 35
+
+13. Amendment of section 39
+
+14. Amendment of section 43
+
+15. Amendment of section 44
+
+16. Amendment of section 44A
 
 17. Amendment of section 46
 
@@ -114,7 +128,9 @@ Finance
 
 intituled
 
-An Act to amend the Income Tax Act 1967, the Real Property Gains Tax Act 1976, the Stamp Act 1949, the Petroleum (Income Tax) Act 1967, the Sales Tax Act 1972 and the Service Tax Act 1975.
+An Act to amend the Income Tax Act 1967, the Real Property Gains Tax Act 1976, the Stamp Act 1949, the Petroleum (Income Tax) Act 1967, the Sales Tax Act 1972 and the Service Tax Act
+
+1975.
 
 ENACTED by the Parliament of Malaysia as follows:
 
@@ -694,7 +710,7 @@ This Bill seeks to amend the Income Tax Act 1967 ("Act 53"), the Real Property G
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
-## Chapter II of this Bill seeks to amend the Income Tax Act 1967.
+Chapter II of this Bill seeks to amend the Income Tax Act 1967.
 
 2. Clause 4 seeks to amend the definition of "partnership" in section 2 of Act 53 to provide that any association which is formed pursuant to a scheme of financing under the principles of Syariah is not a partnership for the purpose of Act 53.
 
@@ -746,9 +762,7 @@ This amendment comes into operation on the coming into operation of this Act.
 
 17. Clauses 21, 22, 23 and subclause 24(b) seek to amend subsections 107A(2), 109(2), 109B(2) and 109D(3) of Act 53 to provide for an increase in the penalty for failure to pay the deduction of tax under those subsections by an amount equal to ten per cent of any unpaid amount.
 
-These amendments are deemed to have come into operation on 2 September
-
-2006.
+These amendments are deemed to have come into operation on 2 September 2006.
 
 <!-- page 26 -->
 
@@ -792,9 +806,7 @@ These amendments have effect for the year of assessment 2007 and subsequent year
 
 Clause 32 also seeks to amend paragraph 33 of Schedule 6 to Act 53. With the proposed amendment, exemption of interest received by any person not resident in Malaysia is extended not only in respect of interest paid or credited by an institution under the Banking and Financial Institutions Act 1989 but also by a person licensed under the Islamic Banking Act 1983 ("Act 276") or by any other institution approved by the Minister.
 
-This amendment is deemed to have come into operation on 2 September
-
-2006.
+This amendment is deemed to have come into operation on 2 September 2006.
 
 Clause 32 further seeks to amend paragraph 34 of Schedule 6 to Act 53 to exempt any income received from employment on board a ship on a condition that the operator of the ship is a registered owner of a ship under the Merchant Shipping Ordinance 1952 ("Ord. 70/1952").
 
@@ -830,7 +842,7 @@ These amendments are deemed to have come into operation on 2 September
 
 ## AMENDMENTS TO THE STAMP ACT 1949
 
-## Chapter IV of this Bill seeks to amend the Stamp Act 1949.
+Chapter IV of this Bill seeks to amend the Stamp Act 1949.
 
 29. Clause 40 seeks to amend section 2 of Act 378. The proposed amendment seeks to introduce a definition of "small and medium enterprise" into Act 378.
 
@@ -868,21 +880,15 @@ This amendment is deemed to have come into operation on 2 September
 
 Clause 45 also seeks to amend subsection 80(3) of Act 378 to empower the Minister to give exemption, reduction or remission under subsection (1A) retrospectively.
 
-These amendments are deemed to have come into operation on 2 September
-
-2006.
+These amendments are deemed to have come into operation on 2 September 2006.
 
 35. Clause 46 seeks to amend item 27 to the First Schedule of Act 378 to introduce new stamp duty rates applicable to loan instruments executed by small and medium enterprises.
 
-This amendment is deemed to have come into operation on 2 September
-
-2006.
+This amendment is deemed to have come into operation on 2 September 2006.
 
 ## AMENDMENTS TO THE PETROLEUM (INCOME TAX) ACT 1967
 
-## Chapter V of this Bill seeks to amend the Petroleum (Income Tax)
-
-Act 1967.
+Chapter V of this Bill seeks to amend the Petroleum (Income Tax) Act 1967.
 
 36. Clause 49 seeks to amend subsection 22(1) of Act 543 to increase the maximum amount allowed as a deduction for any donation made in accordance with that subsection from five per cent to seven per cent of the statutory income of the chargeable person.
 
@@ -894,7 +900,7 @@ These amendments have effect for the year of assessment 2008 and subsequent year
 
 ## AMENDMENTS TO THE SALES TAX ACT 1972
 
-## Chapter VI of this Bill seeks to amend the Sales Tax Act 1972.
+Chapter VI of this Bill seeks to amend the Sales Tax Act 1972.
 
 37. Chapter VI of this Bill seeks to amend paragrap h 31c(l)(b ) and subsection 31c(4) of Act 64. The proposed amendment is to enable a taxable person to obtain faster refund of the amount of sales tax unable to be recovered by him from his client by extending the provision to include such amount provided as doubtful debt in his accounts.
 
@@ -902,7 +908,7 @@ This amendment comes into operation on 1 January 2007.
 
 ## AMENDMENTS TO THE SERVICE TAX ACT 1975
 
-## Chapter VII of this Bill seeks to amend the Service Tax Act 1975.
+Chapter VII of this Bill seeks to amend the Service Tax Act 1975.
 
 38. Chapter VII of this Bill seeks to amend paragraph 2lB(l)(b) and subsection 21B(4) of Act 151. The proposed amendment is to enable a taxable person to obtain faster refund of the amount of service tax unable to be recovered by him from his client by extending the provision to include such amount provided as doubtful debt in his accounts.
 

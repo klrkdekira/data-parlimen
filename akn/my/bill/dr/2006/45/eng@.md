@@ -236,11 +236,7 @@ Disciplinary Committee or in the absence of the President or the Chairman, the m
 
 (b) by inserting after subsection (2) the following subsection:
 
-"(2A) Where the Investigating Committee has conducted an investigation against a registered Engineer, the member of the Investigating Committee shall not sit as member of the Disciplinary Committee appointed in pursuance of section 14A to conduct a hearing of any misconduct or complaint or to make an order under subsection 15(1A) in respect of the registered Engineer who has been investigated by the
-
-<!-- marginal: Investigating -->
-
-Committee of which he is a member."; and
+"(2A) Where the Investigating Committee has conducted an investigation against a registered Engineer, the member of the Investigating Committee shall not sit as member of the Disciplinary Committee appointed in pursuance of section 14A to conduct a hearing of any misconduct or complaint or to make an order under subsection 15(1A) in respect of the registered Engineer who has been investigated by the Investigating Committee of which he is a member."; and
 
 (c) in subsection (4), by inserting after the word "Board" the words "or Disciplinary Committee".
 

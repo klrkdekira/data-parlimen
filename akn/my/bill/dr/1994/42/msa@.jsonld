@@ -1,0 +1,578 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-42-1994",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_17"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Mahkamah Kehakiman (Pindaan) (No. 2) 1994"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Mahkamah"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kehakiman (Pindaan) (No. 2) 1994 dan hendaklah disifatkan telah mula berkuatkuasa pada 24hb Jun 1994."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 65 Akta ibu adalah dipotong."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 66 Akta ibu adalah dipotong."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 67(1) Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memasukkan selepas perkataan \"civil\" perkataan \"cause or\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_13__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 92 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_13__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_13__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_13__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_13__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_13__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"trial court\" yang terdapat selepas perkataan \"decision of the\" dengan perkataan \"Court of Appeal\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_13__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_13__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"trial court\" yang terdapat selepas perkataan \"thereon to the\" dengan perkataan \"High Court\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_13__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_13__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"trial court\" yang terdapat selepas perkataan \"any power which the\" dengan perkataan \"Court of Appeal or the High Court\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2) dengan menggantikan perkataan \"by the trial court\" dengan perkataan \", confirmed or varied by the Court of Appeal\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_14__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_14__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 93 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1) dan (2) dengan menggantikan perkataan \"trial court\" dengan perkataan \"High Court\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3) dengan memotong perkataan \", but the evidence shall not be taken in the presence of a jury or assessors\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_14__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4) dengan menggantikan perkataan \"trial court\" dengan perkataan \"High Court\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_15__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_15__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_15__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 95 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan nota birai dengan nota birai yang berikut: \"Certification of judgment.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1) dengan menggantikan perkataan \"trial court\" dengan perkataan \"courts concerned\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_15__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2) dengan menggantikan perkataan \"trial court\" dengan perkataan \"courts concerned\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_15__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3)— (i) dengan menggantikan perkataan \"trial court\" yang terdapat selepas perkataan \"shall notify the\" dengan perkataan \"courts concerned\"; dan (ii) dengan menggantikan perkataan \"trial court\" yang terdapat selepas perkataan \"order of the\" dengan perkataan \"High Court or as varied by the Court of Appeal\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_16__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 96 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan \"enactments or\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (a) dan proviso kepadanya dengan perenggan yang berikut: \"(a) from any judgment or order of the Court of Appeal in respect of any civil cause or matter decided by the High Court in the exercise of its original jurisdiction; and\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Apa-apa prosiding yang belum selesai di hadapan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mahkamah Agung pada 23hb Jun 1994 hendaklah disambung atau diteruskan, mengikut mana-mana yang berkenaan, di hadapan Mahkamah Persekutuan dan bagi maksud ini Mahkamah Persekutuan hendaklah mempunyai dan menjalankan semua kuasa Mahkamah Agung sebelum 24hb Jun 1994."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 50 Akta Mahkamah Kehakiman 1964, yang"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "disebut \"Akta ibu\" dalam Akta ini, adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": ". dalam perenggan (1)(b), dengan memasukkan selepas perkataan \"appellate\" perkataan \"or revisionary\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_2__para_b__subpara_i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_2__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_2__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"appellate\" perkataan \"or revisionary\"; dan (ii) dengan memasukkan selepas perkataan \"questions of law\" perkataan \"which have arisen in the course of the appeal or revision and the determination of which by the High Court has affected the event of the appeal or revision\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: \"(2A) An application for leave under subsection (2) shall be made within fourteen days after the date of the decision of the High Court.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 51(2) Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan noktah dengan noktah bertindih dan memasukkan selepas subseksyen 51(2) proviso yang berikut: \"Provided that, in a case of an appeal under section 50(2), the computation of the aforesaid period of fourteen days shall commence from the date immediately after leave has been granted by the Court of Appeal.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 52(1) Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah bertindih yang terdapat selepas perkataan \"proceedings\" dengan noktah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong proviso kepadanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 53(2) Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan perkataan \"trial Court\" dengan perkataan \"High Court\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 57(1) Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan perkataan \"trial Court\" dengan perkataan \"High Court\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 60 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1) dengan menggantikan perkataan \"trial court\" yang terdapat selepas perkataan \"decision of the\" dengan perkataan \"High Court\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2) dengan menggantikan perkataan \"by the trial court\" dengan perkataan \", confirmed or varied by the High Court\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 61(3) Akta ibu adalah dipinda dengan pindaan memotong perkataan \", but the evidence shall not be seksyen 61 taken in the presence of a jury or assessors\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_9__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_9__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_9__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 63 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan nota birai dengan nota birai yang berikut: \"Certification of judgment.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1) dengan menggantikan perkataan \"trial court\" dengan perkataan \"courts concerned\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_9__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2) dengan menggantikan perkataan \"trial court\" dengan perkataan \"courts concerned\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_9__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_9__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_9__para_d__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_9__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_9__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"trial court\" yang terdapat selepas perkataan \"shall notify the\" dengan perkataan \"courts concerned\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_9__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/42/msa@/~cl_9__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"trial court\" yang terdapat selepas perkataan \"order of the\" perkataan \"or as varied by the High Court in its appellate jurisdiction, as the case may be,\"."
+      }
+    }
+  ]
+}

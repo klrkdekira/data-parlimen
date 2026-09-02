@@ -6,7 +6,9 @@
 
 bernama
 
-Suatu Akta untuk meminda Akta Pasaran Modal dan Perkhidmatan 2007. [ ]
+Suatu Akta untuk meminda Akta Pasaran Modal dan Perkhidmatan
+
+2007. [ ]
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
@@ -1300,7 +1302,9 @@ untuk membuat apa-apa keuntungan secara langsung atau tidak langsung, atau untuk
 
 <!-- page 51 -->
 
-(5) Pegawai atau ejen pengurus pemegang amanah bagi suatu amanah perniagaan yang melanggar subseksyen (1) atau (2) melakukan suatu kesalahan dan boleh, apabila disabitkan, dihukum dengan pemenjaraan selama tempoh tidak melebihi sepuluh tahun dan juga boleh didenda tidak melebihi sepuluh juta ringgit.
+(5) Pegawai atau ejen pengurus pemegang amanah bagi suatu amanah perniagaan yang melanggar subseksyen (1) atau
+
+(2) melakukan suatu kesalahan dan boleh, apabila disabitkan, dihukum dengan pemenjaraan selama tempoh tidak melebihi sepuluh tahun dan juga boleh didenda tidak melebihi sepuluh juta ringgit.
 
 (6) Pegawai atau ejen pengurus pemegang amanah hendaklah bertanggungan kepada pemegang unit secara keseluruhannya bagi apa-apa keuntungan atau perolehan kewangan secara langsung atau tidak langsung yang dibuat oleh pengurus pemegang amanah atau mana-mana perbadanan berkaitannya, atau bagi apa-apa kerugian yang ditanggung oleh pemegang unit amanah perniagaan secara keseluruhannya, akibat pelanggaran subseksyen (1) atau (2).
 
@@ -1358,7 +1362,9 @@ untuk membuat apa-apa keuntungan secara langsung atau tidak langsung, atau untuk
 
 lembaga pengarah hendaklah menyediakan penjelasan, termasuklah faktor penting bagi ketidakbolehan untuk menyediakan pernyataan bertulis itu.
 
-(3) Mana-mana orang yang melanggar subseksyen (1) atau (2) melakukan suatu kesalahan.
+(3) Mana-mana orang yang melanggar subseksyen (1) atau
+
+(2) melakukan suatu kesalahan.
 
 <!-- page 54 -->
 
@@ -1840,7 +1846,9 @@ hendaklah dibuat daripada Dana Pampasan Pasaran Modal oleh Perbadanan itu;
 
 sehingga Perbadanan telah dibayar ganti amaun penuh pembayaran yang dibuat olehnya daripada Dana Pampasan Pasaran Modal itu, termasuk apa-apa bunga yang dibayar.
 
-(5) Berkenaan dengan penerusan hak dan tanggungan yang lain—
+(5) Berkenaan dengan penerusan hak dan tanggungan yang
+
+<!-- marginal: lain— -->
 
 (a) tiada apa-apa jua dalam Akta ini boleh menyentuh tanggungan mana-mana orang untuk didakwa atau dihukum bagi apa-apa kesalahan atau kemungkiran yang dilakukan di bawah Akta ibu sebelum tarikh kuat kuasa atau apa- apa prosiding yang dibawa, hukuman yang dikenakan atau tindakan yang diambil sebelum tarikh kuat kuasa itu berkenaan dengan kesalahan atau kemungkiran itu; dan
 
@@ -1892,11 +1900,7 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Pasaran Modal Dan Perkhidmat
 
 12. Fasal 18 bertujuan untuk meminda subseksyen 237(1) untuk menyatakan hal keadaan bila suatu prospektus ringkas diperlukan iaitu apabila suatu sekuriti atau suatu skim unit amanah secara terbitan hak yang boleh dilepaskan ditawarkan untuk langganan atau pembelian kepada orang selain anggota atau pemegang debentur sedia ada perbadanan atau pemegang unit skim unit amanah itu.
 
-13. Fasal 20 bertujuan untuk memasukkan Penggal 3A, 3B dan 3C baru
-
-## Bahagian IV ke dalam Akta 671 yang akan memperuntukkan rangka kerja
-
-kebenaran dan pengiktirafan bagi produk pasaran modal tidak tersenarai, rangka kerja pendaftaran dan pengiktirafan dan peruntukan tadbir urus bagi amanah perniagaan, dan kesalahan bagi pernyataan atau maklumat yang palsu atau mengelirukan yang diberikan di bawah Penggal 3A dan 3B.
+13. Fasal 20 bertujuan untuk memasukkan Penggal 3A, 3B dan 3C baru Bahagian IV ke dalam Akta 671 yang akan memperuntukkan rangka kerja kebenaran dan pengiktirafan bagi produk pasaran modal tidak tersenarai, rangka kerja pendaftaran dan pengiktirafan dan peruntukan tadbir urus bagi amanah perniagaan, dan kesalahan bagi pernyataan atau maklumat yang palsu atau mengelirukan yang diberikan di bawah Penggal 3A dan 3B.
 
 14. Fasal 16, 24, 25 dan 26 bertujuan untuk meminda seksyen 220, 354, 355 dan 356 Akta 671 bagi membolehkan Perbadanan memegang simpan wang menurut seksyen ini untuk tujuan membiayai kos membangunkan dan memudahkan program pendidikan untuk pelabur pasaran modal dan profesional, tertakluk kepada kelulusan Menteri.
 

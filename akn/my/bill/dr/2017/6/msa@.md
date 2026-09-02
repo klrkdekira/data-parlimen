@@ -8,7 +8,7 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian i
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -18,7 +18,7 @@
 
 3. Pemakaian luar wilayah
 
-## Bahagian ii
+## BAHAGIAN II
 
 ## KESALAHAN-KESALAHAN YANG BERHUBUNGAN DENGAN
 
@@ -40,7 +40,7 @@
 
 11. Kesalahan oleh pertubuhan perbadanan
 
-## Bahagian iii
+## BAHAGIAN III
 
 ## KESALAHAN-KESALAHAN YANG BERHUBUNGAN DENGAN
 
@@ -54,7 +54,7 @@
 
 <!-- page 2 -->
 
-## Bahagian iV
+## BAHAGIAN IV
 
 ## KESALAHAN-KESALAHAN YANG BERHUBUNGAN DENGAN AMANG SEKSUAL
 
@@ -62,13 +62,13 @@
 
 16. Amang seksual bukan fizikal atas kanak-kanak
 
-## Bahagian V
+## BAHAGIAN V
 
 ## ORANG YANG MEMPUNYAI PERHUBUNGAN AMANAH
 
 17. Orang yang mempunyai perhubungan amanah
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## KEBOLEHPERCAYAAN DAN KETERANGAN SAKSI KANAK-KANAK
 
@@ -76,7 +76,7 @@
 
 19. Keterangan saksi kanak-kanak
 
-## Bahagian Vii
+## BAHAGIAN VII
 
 ## PELBAGAI
 
@@ -96,7 +96,7 @@
 
 ## Jadual
 
-## Jadual
+## JADUAL
 
 <!-- page 3 -->
 
@@ -106,7 +106,7 @@ Suatu Akta untuk mengadakan peruntukan mengenai kesalahan-kesalahan seksual terh
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -128,7 +128,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 3. Jika suatu kesalahan di bawah Akta ini dilakukan oleh warganegara Malaysia terhadap kanak-kanak di mana-mana tempat di luar Malaysia, dia boleh diuruskan berkenaan dengan kesalahan itu seolah-olah kesalahan itu telah dilakukan di mana-mana tempat di dalam Malaysia.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## KESALAHAN-KESALAHAN YANG BERHUBUNGAN DENGAN
 
@@ -246,7 +246,7 @@ Huraian—Seseorang dikatakan mengakses pornografi kanak-kanak sekiranya orang i
 
 11. Jika apa-apa kesalahan di bawah Bahagian ini dilakukan oleh suatu pertubuhan perbadanan, mana-mana orang yang pada masa pelakuan kesalahan itu ialah seorang pengarah, pengurus, setiausaha atau pegawai lain seumpamanya dalam pertubuhan perbadanan itu, atau yang berupa sebagai bertindak atas mana-mana sifat sedemikian, atau mengikut apa-apa cara bertanggungjawab bagi pengurusan apa-apa hal ehwal pertubuhan perbadanan itu, atau yang membantu dalam pengurusan sedemikian, hendaklah juga bersalah atas kesalahan itu melainkan jika dia membuktikan bahawa kesalahan itu dilakukan tanpa pengetahuannya, keizinannya atau pembiarannya, dan bahawa dia telah menjalankan segala usaha yang wajar untuk mengelakkan pelakuan kesalahan itu sebagaimana yang dia patut jalankan, dengan mengambil kira jenis fungsinya atas sifat itu dan bagi segala hal keadaan.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## KESALAHAN-KESALAHAN YANG BERHUBUNGAN DENGAN
 
@@ -300,7 +300,7 @@ di bawah seksyen 5, 6, 7, 8, 15 atau 16 atau mana-mana kesalahan di bawah Jadual
 
 (b) A berkomunikasi dengan Z, seorang kanak-kanak melalui e-mel dan menjalinkan hubungan persahabatan dengan Z. A mengambil langkah selanjutnya dan berjumpa Z dengan niat bahawa C dan B, iaitu kawan A boleh merogol Z. A bersalah atas kesalahan di bawah seksyen ini.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## KESALAHAN-KESALAHAN YANG BERHUBUNGAN DENGAN
 
@@ -350,7 +350,7 @@ Huraian—Perbuatan menyentuh boleh melibatkan perbuatan menyentuh dengan menggu
 
 melakukan suatu kesalahan dan boleh, apabila disabitkan, dipenjarakan selama tempoh tidak melebihi sepuluh tahun atau didenda tidak melebihi dua puluh ribu ringgit atau kedua-duanya.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## ORANG YANG MEMPUNYAI PERHUBUNGAN AMANAH
 
@@ -374,7 +374,7 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan, dipenjarakan selama tem
 
 (f) pekhidmat awam dengan apa jua pangkat dalam menjalankan kewajipannya di bawah mana-mana undang-undang bertulis berkenaan dengan kanak-kanak.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## KEBOLEHPERCAYAAN DAN KETERANGAN SAKSI
 
@@ -392,7 +392,7 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan, dipenjarakan selama tem
 
 (2) Mahkamah, sebelum membenarkan keterangan tanpa sokongan kanak-kanak diterima di bawah subseksyen (1), hendaklah menentukan bahawa kanak-kanak itu memiliki kecerdasan yang mencukupi dan memahami kewajipan untuk bercakap benar.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PELBAGAI
 
@@ -448,7 +448,7 @@ Akta Kesalahan-Kesalahan Seksual terhadap Kanak-Kanak 2017 yang dicadangkan ini 
 
 <!-- page 18 -->
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I Akta yang dicadangkan mengandungi perkara permulaan.
 
@@ -458,7 +458,7 @@ Akta Kesalahan-Kesalahan Seksual terhadap Kanak-Kanak 2017 yang dicadangkan ini 
 
 5. Fasal 3 mengandungi peruntukan pemakaian luar wilayah Akta yang dicadangkan. Jika suatu kesalahan di bawah Akta yang dicadangkan dilakukan oleh warganegara Malaysia terhadap kanak-kanak di mana-mana tempat di luar Malaysia, dia boleh diuruskan berkenaan dengan kesalahan itu seolah-olah kesalahan itu telah dilakukan di mana-mana tempat di dalam Malaysia.
 
-## Bahagian II
+## BAHAGIAN II
 
 6. Bahagian II Akta yang dicadangkan mengandungi peruntukan mengenai kesalahan-kesalahan yang berhubungan dengan pornografi kanak-kanak dan peruntukan lain yang berkaitan.
 
@@ -492,7 +492,7 @@ Mana-mana orang yang melakukan kesalahan di bawah fasal ini hendaklah, apabila d
 
 <!-- page 20 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 15. Bahagian III Akta yang dicadangkan mengadakan peruntukan hukuman bagi kesalahan-kesalahan yang berhubungan dengan pengantunan kanak-kanak.
 
@@ -502,7 +502,7 @@ Mana-mana orang yang melakukan kesalahan di bawah fasal ini hendaklah, apabila d
 
 18. Fasal 14 bertujuan untuk mengadakan peruntukan hukuman bagi kesalahan perjumpaan selepas pengantunan kanak-kanak. Di bawah fasal ini, mana-mana orang yang, setelah berkomunikasi dengan apa-apa cara dengan seseorang kanak-kanak, berjumpa dengan kanak-kanak itu dengan niat untuk melakukan atau untuk memudahkan pelakuan mana-mana kesalahan di bawah seksyen 5, 6, 7, 8, 15 atau 16 Akta yang dicadangkan atau mana-mana kesalahan di bawah Jadual terhadap kanak-kanak itu melakukan suatu kesalahan dan hendaklah, apabila disabitkan, dihukum dengan pemenjaraan selama tempoh tidak melebihi sepuluh tahun dan boleh juga dihukum dengan hukuman sebat.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 19. Bahagian IV Akta yang dicadangkan memperuntukkan hukuman bagi kesalahan amang seksual.
 
@@ -512,7 +512,7 @@ Mana-mana orang yang melakukan kesalahan di bawah fasal ini hendaklah, apabila d
 
 21. Fasal 16 bertujuan untuk mengadakan peruntukan hukuman bagi kesalahan amang seksual bukan fizikal atas kanak-kanak. Di bawah fasal ini, mana-mana orang yang, bagi maksud seksual, mengatakan apa-apa perkataan atau membuat apa-apa bunyi, atau membuat apa-apa gerak isyarat atau menunjukkan apa-apa objek atau badannya atau mana-mana bahagian badannya dengan niat bahawa perkataan atau bunyi itu hendaklah didengari, atau gerak isyarat atau objek atau badan atau bahagian badannya itu hendaklah dilihat oleh seseorang kanak-kanak, membuatkan kanak-kanak menunjukkan badan kanak-kanak itu atau mana-mana bahagian badan kanak-kanak itu supaya dapat dilihat oleh orang itu atau mana-mana orang lain, mengikuti atau memerhati atau menghubungi seseorang kanak-kanak dengan apa-apa cara secara berulang kali atau kerap, mengugut untuk menggunakan apa-apa gambaran, sama ada dalam bentuk visual, audio atau bertulis atau gabungan bentuk visual, audio atau bertulis, atau dengan apa-apa cara lain mengenai apa-apa bahagian badan seseorang kanak-kanak atau mengenai seseorang kanak-kanak sedang melakukan aktiviti yang bersifat seksual melakukan suatu kesalahan. Menjadi suatu kesalahan juga di bawah fasal ini bagi mana-mana orang yang melakukan aktiviti yang bersifat seksual di hadapan seseorang kanak-kanak, menyebabkan seseorang kanak-kanak memerhati seseorang yang lain sedang melakukan aktiviti yang bersifat seksual, menyebabkan seseorang kanak-kanak memerhati atau mendengar apa-apa gambaran sama ada dalam bentuk visual, audio atau bertulis atau gabungan bentuk visual, audio atau bertulis, atau dengan apa-apa cara lain mengenai seseorang yang lain melakukan aktiviti yang bersifat seksual, atau membuatkan seseorang kanak-kanak melakukan aktiviti yang bersifat seksual. Mana-mana orang yang melakukan suatu kesalahan di bawah fasal ini boleh, apabila disabitkan, dipenjarakan selama tempoh tidak melebihi sepuluh tahun atau didenda tidak melebihi dua puluh ribu ringgit atau kedua-duanya.
 
-## Bahagian V
+## BAHAGIAN V
 
 22. Bahagian V Akta yang dicadangkan adalah berhubung dengan orang yang mempunyai perhubungan amanah dengan seseorang kanak-kanak.
 
@@ -522,7 +522,7 @@ Mana-mana orang yang melakukan kesalahan di bawah fasal ini hendaklah, apabila d
 
 kesihatan Kerajaan atau kemudahan jagaan kesihatan swasta sebagaimana yang ditakrifkan dalam seksyen 2 Akta Kemudahan dan Perkhidmatan Jagaan Kesihatan Swasta 1998 [Akta 586], jurulatih atau pekhidmat awam dengan apa jua pangkat dalam menjalankan kewajipannya di bawah mana-mana undang-undang bertulis berkenaan dengan kanak-kanak.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 24. Bahagian VI Akta yang dicadangkan mengandungi peruntukan mengenai kebolehpercayaan dan keterangan saksi kanak-kanak.
 
@@ -530,7 +530,7 @@ kesihatan Kerajaan atau kemudahan jagaan kesihatan swasta sebagaimana yang ditak
 
 26. Fasal 19 mengandungi peruntukan mengenai kebolehterimaan keterangan saksi kanak-kanak berhubung dengan apa-apa prosiding terhadap mana-mana orang bagi mana-mana kesalahan di bawah Akta yang dicadangkan, atau mana-mana kesalahan di bawah Jadual jika mangsa itu ialah kanak-kanak. Berhubung dengan kesalahan-kesalahan seksual ini, mahkamah boleh membenarkan agar keterangan tanpa sokongan seseorang kanak-kanak, yang diberikan dengan sumpah atau selainnya, diterima. Walau bagaimanapun, mahkamah, sebelum membenarkan keterangan tanpa sokongan kanak-kanak diterima, hendaklah menentukan bahawa kanak-kanak itu memiliki kecerdasan yang mencukupi dan memahami kewajipan untuk bercakap benar. Peruntukan ini menyimpang daripada seksyen 133a Akta Keterangan 1950 [Akta 56] yang memperuntukkan bahawa seseorang tidak boleh disabitkan atas keterangan tanpa sokongan yang tidak diberikan atas sumpah oleh kanak-kanak yang berusia muda. Walau bagaimanapun, peruntukan ini bertujuan untuk menaikkan status kanak-kanak sebagai saksi supaya keterangan mereka diberikan pertimbangan yang sewajarnya.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 27. Bahagian VII Akta yang dicadangkan mengandungi peruntukan pelbagai.
 

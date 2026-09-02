@@ -26,13 +26,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 3. Section 32 of the principal Act is amended—
 
-(a) in subsection (6), by substituting for the words "paragraph
+(a) in subsection (6), by substituting for the words "paragraph (5)(b)" the words "paragraph (5)(a) or (b)"; and
 
-(5)(b)" the words "paragraph (5)(a) or (b)"; and
-
-(b) in paragraph (7)(b), by substituting for the words "paragraph
-
-(5)(b)" the words "paragraph (5)(a) or (b)";
+(b) in paragraph (7)(b), by substituting for the words "paragraph (5)(b)" the words "paragraph (5)(a) or (b)";
 
 <!-- page 2 -->
 
@@ -96,15 +92,73 @@ Definitions. 124A. In this Part, unless the context otherwise requires—
 
 "security" includes a mortgage or charge, whether legal or equitable, debenture, bill of exchange, promissory note, guarantee, lien or pledge, whether actual or constructive, hypothecation, indemnity, undertaking or other means of securing payment or discharge of a debt or liability, whether present, future, vested or contingent.
 
-Application
+<!-- marginal: Application -->
 
-124B. (1) Where in the case of— to High Court to
+124B. (1) Where in the case of—
 
-(a) a licensed dealer or licensed futures broker, the facilitate agreement Minister, on the recommendation of the or Commission, has granted his approval; arrangement for transfer of
+<!-- marginal: to High -->
 
-(b) a licensed fund manager, licensed investment whole or adviser, licensed futures fund manager or licensed part of business of futures trading adviser, the Commission has granted licensed its approval; and persons exempt
+<!-- marginal: Court to -->
 
-(c) an exempt fund manager or exempt futures fund fund manager manager, the Commission has granted its approval, and exempt futures in relation to an agreement or arrangement— fund manager.
+(a) a licensed dealer or licensed futures broker, the
+
+<!-- marginal: facilitate -->
+
+<!-- marginal: agreement -->
+
+Minister, on the recommendation of
+
+<!-- marginal: the -->
+
+<!-- marginal: or -->
+
+Commission, has granted his approval;
+
+<!-- marginal: arrangement -->
+
+<!-- marginal: for -->
+
+<!-- marginal: transfer of -->
+
+(b) a licensed fund manager, licensed investment
+
+<!-- marginal: whole or -->
+
+adviser, licensed futures fund manager or licensed
+
+<!-- marginal: part of -->
+
+<!-- marginal: business of -->
+
+futures trading adviser, the Commission has granted
+
+<!-- marginal: licensed -->
+
+its approval; and
+
+<!-- marginal: persons -->
+
+<!-- marginal: exempt -->
+
+(c) an exempt fund manager or exempt futures fund
+
+<!-- marginal: fund -->
+
+<!-- marginal: manager -->
+
+manager, the Commission has granted its approval,
+
+<!-- marginal: and -->
+
+<!-- marginal: exempt -->
+
+<!-- marginal: futures -->
+
+in relation to an agreement or arrangement—
+
+<!-- marginal: fund -->
+
+<!-- marginal: manager. -->
 
 (A) for the sale, disposal or transfer in any manner of the whole or any part of the business of a licensed dealer, licensed fund manager, licensed investment adviser, licensed futures broker, licensed futures fund manager, licensed futures trading adviser, exempt fund manager or exempt futures fund manager;
 
@@ -176,19 +230,33 @@ Securities Commission (Amendment) 7
 
 (7) Where an order of the High Court granted under subsection (3) vests any alienated land, or any share or interest in any alienated land, in the transferee—
 
-(a) the High Court shall, where such alienated land is in Peninsular Malaysia, including the Federal Territory of Putrajaya, pursuant to subsection 420(2) Act 56/1965. of the National Land Code 1965, cause a copy of the order to be served on the Registrar of Titles or the Land Administrator immediately after the order is granted so that the Registrar of Titles or the Land Administrator can effect the provisions of subsections 420(2), 420(3) and 420(4) respectively;
+(a) the High Court shall, where such alienated land is in Peninsular Malaysia, including the Federal Territory of Putrajaya, pursuant to subsection 420(2)
 
-(b) where such alienated land is in Sabah, the transferee shall, as soon as practicable after the order has been granted, present an authenticated copy of such order to the Registrar for the registration of the vesting of the alienated land or of the share or interest in alienated land as provided under Cap. 68. subsection 114(2) of the Land Ordinance of Sabah;
+<!-- marginal: Act 56/1965. -->
 
-(c) where such alienated land is in Sarawak, the transferee shall, as soon as practicable after the order has been granted, produce an authenticated copy of such order to the Registrar for the registration of the vesting of the alienated land or of the share or interest in alienated land in the transferee as provided under section 171 of the Cap 81. Land Code of Sarawak; or
+of the National Land Code 1965, cause a copy of the order to be served on the Registrar of Titles or the Land Administrator immediately after the order is granted so that the Registrar of Titles or the Land Administrator can effect the provisions of subsections 420(2), 420(3) and 420(4) respectively;
 
-(d) where such alienated land is in the Federal Territory of Labuan, the transferee shall, as soon as practicable after the order has been granted, produce an authenticated copy of such order to the Registrar for the registration of the vesting of the alienated land or of the share or interest in alienated land as provided under subsection 114(2) of the Land P.U. (A) 291/84 Ordinance of Sabah as modified by the Federal Territory of Labuan (Modification of Land Ordinance) Order 1984.
+(b) where such alienated land is in Sabah, the transferee shall, as soon as practicable after the order has been granted, present an authenticated copy of such order to the Registrar for the registration of the vesting of the alienated land or of the share or interest in alienated land as provided under
+
+<!-- marginal: Cap. 68. -->
+
+subsection 114(2) of the Land Ordinance of Sabah;
+
+(c) where such alienated land is in Sarawak, the transferee shall, as soon as practicable after the order has been granted, produce an authenticated copy of such order to the Registrar for the registration of the vesting of the alienated land or of the share or interest in alienated land in the transferee as provided under section 171 of the
+
+<!-- marginal: Cap 81. -->
+
+Land Code of Sarawak; or
+
+(d) where such alienated land is in the Federal Territory of Labuan, the transferee shall, as soon as practicable after the order has been granted, produce an authenticated copy of such order to the Registrar for the registration of the vesting of the alienated land or of the share or interest in alienated land as provided under subsection 114(2) of the Land
+
+<!-- marginal: P.U. (A) 291/84 -->
+
+Ordinance of Sabah as modified by the Federal Territory of Labuan (Modification of Land Ordinance) Order 1984.
 
 <!-- page 10 -->
 
-(8) An order of the High Court granted under subsection
-
-(3) may relate to any property or business of the transferor outside Malaysia and, if it so relates, effect may be given to it either in accordance with any reciprocal arrangements relating to enforcement of judgments that may exist between Malaysia and the country, territory or place outside Malaysia where the property or business is or, where there are no such arrangements, in accordance with the law applicable in such country, territory or place.".
+(8) An order of the High Court granted under subsection (3) may relate to any property or business of the transferor outside Malaysia and, if it so relates, effect may be given to it either in accordance with any reciprocal arrangements relating to enforcement of judgments that may exist between Malaysia and the country, territory or place outside Malaysia where the property or business is or, where there are no such arrangements, in accordance with the law applicable in such country, territory or place.".
 
 ### Amendment of section 165
 
@@ -224,4 +292,4 @@ persons, exempt fund managers and exempt futures fund managers. The proposed pro
 
 This Bill will not involve the Government in any extra financial expenditure.
 
-[PN(U2)2262]
+<!-- marginal: [PN(U2)2262] -->

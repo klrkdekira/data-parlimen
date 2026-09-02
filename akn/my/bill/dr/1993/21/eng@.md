@@ -98,17 +98,53 @@ A. writes his name on the back of a bill of exchange payable to his order. The m
 
 the following section:
 
-' "Illegal" 43. The word "illegal" or "unlawful" is "Unlawful" applicable to everything which is an offence, and "legally or which is prohibited by law, or which bound furnishes ground for a civil action. to do".
+<!-- marginal: ' "Illegal" -->
+
+43. The word "illegal" or "unlawful" is
+
+<!-- marginal: "Unlawful" -->
+
+applicable to everything which is an offence,
+
+<!-- marginal: and -->
+
+<!-- marginal: "legally -->
+
+or which is prohibited by law, or which
+
+<!-- marginal: bound -->
+
+furnishes ground for a civil action.
+
+<!-- marginal: to do". -->
 
 <!-- page 4 -->
 
 And in respect of the word "illegal", a person is said to be "legally bound to do" whatever it is illegal in him to omit.'.
 
-New section
+<!-- marginal: New section -->
 
-5. The Code is amended by inserting immediately after 402 A. section 402 and below the heading "Of Criminal Misappropriation of Property" the following section:
+5. The Code is amended by inserting immediately after
 
-Definition 402A. For the purposes of sections 403, 403A, of "agent", 403B and 403c, 404, 405, 406, 407, 408, 409, "company", "director", 409A, 409B, 415, 416, 417, 418, 419 and 420 "officer". of this Chapter, unless the contrary appears from the context:
+<!-- marginal: 402 A. -->
+
+section 402 and below the heading "Of Criminal Misappropriation of Property" the following section:
+
+<!-- marginal: Definition -->
+
+402A. For the purposes of sections 403, 403A,
+
+<!-- marginal: of "agent", -->
+
+403B and 403c, 404, 405, 406, 407, 408, 409, "company",
+
+<!-- marginal: "director", -->
+
+409A, 409B, 415, 416, 417, 418, 419 and 420
+
+<!-- marginal: "officer". -->
+
+of this Chapter, unless the contrary appears from the context:
 
 "agent" includes any corporation or other person acting or having been acting or desirous or intending to act for or on behalf of any company or other person whether as agent, partner, co-owner, clerk, servant, employee, banker, broker, auctioneer, architect, clerk of works, engineer, advocate and solicitor, accountant, auditor, surveyor, buyer, salesman, trustee executor, administrator, liquidator, trustee within the meaning of any Act relating to trusteeship or bankruptcy, receiver, director, manager or other officer of any company, club, partnership or association or in any other capacity either alone or jointly with any other person and whether in his own name or in the name of his principal or not;
 
@@ -164,9 +200,11 @@ in the appointment or qualification of such person;
 
 (d) by substituting for the words "may extend to seven years" the words "shall not be less than one year and not more than ten years and with whipping, and shall also be liable to fine".
 
-Amendment
+<!-- marginal: Amendment -->
 
-8. Section 405 of the Code is amended— of section
+8. Section 405 of the Code is amended—
+
+<!-- marginal: of section -->
 
 405.
 
@@ -180,21 +218,29 @@ Amendment
 
 ''Explanation—Upon any prosecution for any offence of criminal breach of trust, an employer who deducts the employee's contribution from the wages payable to the employee for credit to any employee fund, by whatever name called, established by any law for the time being in force, shall be deemed to have been entrusted with the amount of the contribution so deducted by him and if he makes default in the payment of such contribution to the said fund in violation of the said law, shall be deemed to have dishonestly used the amount of the said contribution in violation of a direction of law within the meaning, of this section.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-9. Section 406 of the Code is amended by substituting of section for the words "may extend to three years, or with fine,
+9. Section 406 of the Code is amended by substituting
+
+<!-- marginal: of section -->
+
+for the words "may extend to three years, or with fine,
 
 406. or with both." the words "shall not be less than one year and not more than ten years and with whipping, and shall also be liable to fine.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-10. Section 407 of the Code is amended by substituting of section for the words "may extend to ten years, and shall also
+10. Section 407 of the Code is amended by substituting
+
+<!-- marginal: of section -->
+
+for the words "may extend to ten years, and shall also
 
 407.
 
 <!-- page 7 -->
 
-8
+<!-- marginal: 8 -->
 
 ## BILL
 
@@ -210,7 +256,11 @@ it shall be presumed that he had acted dishonestly until the contrary is proved.
 
 (2) The presumption under subsection (1) of this section shall apply mutatis mutandis to the offences prescribed in sections 109 and 511 of the Code in relation to any of the offences referred to in that section.".
 
-14. The Code is amended— Amendment of section
+14. The Code is amended—
+
+<!-- marginal: Amendment -->
+
+<!-- marginal: of section -->
 
 415.
 
@@ -260,15 +310,11 @@ be liable to fine" the words "shall not be less than one year and not more than 
 
 section 409, the following sections:
 
-Defence
-
-409A. It is no defence for any offence not prescribed in sections 403, 404, 405, 406, 407, available. 408 and 409 to show that the property was openly appropriated or that the appropriation was duly recorded and entered in the books and accounts of any company or association or body of person whether incorporated or not.
+Defence 409A. It is no defence for any offence not prescribed in sections 403, 404, 405, 406, 407, available. 408 and 409 to show that the property was openly appropriated or that the appropriation was duly recorded and entered in the books and accounts of any company or association or body of person whether incorporated or not.
 
 Explanation—The property of a company shall be regarded as belonging to the company notwithstanding that the directors of the said company are, either singly or jointly, entitled to the entire beneficial interest, of the shareholding in the said company.
 
-Presump-
-
-409B. (1) Where in any proceeding it is tion. proved—
+Presump- 409B. (1) Where in any proceeding it is tion. proved—
 
 (a) for any offence prescribed in sections 403 and 404, that any person had misappropriated any property; or
 

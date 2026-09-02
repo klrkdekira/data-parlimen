@@ -12,7 +12,11 @@ D.R. 24/2007
 
 ## PERMULAAN
 
-1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran 3. Undang-undang yang dipakai
+1. Tajuk ringkas dan permulaan kuat kuasa
+
+2. Tafsiran
+
+3. Undang-undang yang dipakai
 
 ## BAHAGIAN II
 
@@ -20,29 +24,79 @@ D.R. 24/2007
 
 4. Penubuhan Agensi
 
-5. Meterai perbadanan 6. Fungsi Agensi 7. Kuasa Agensi 8. Arahan oleh Menteri 9. Jawatankuasa akreditasi 10. Penyata, laporan, akaun dan maklumat
+5. Meterai perbadanan
+
+6. Fungsi Agensi
+
+7. Kuasa Agensi
+
+8. Arahan oleh Menteri
+
+9. Jawatankuasa akreditasi
+
+10. Penyata, laporan, akaun dan maklumat
 
 ## BAHAGIAN III
 
 ## MAJLIS AGENSI KELAYAKAN MALAYSIA
 
-11. Majlis Agensi Kelayakan Malaysia 12. Fungsi Majlis
+11. Majlis Agensi Kelayakan Malaysia
+
+12. Fungsi Majlis
 
 <!-- page 2 -->
 
-13. Penjalanan sementara fungsi Pengerusi 14. Tempoh jawatan 15. Elaun 16. Pembatalan pelantikan dan peletakan jawatan 17. Pengosongan jawatan 18. Pengisian kekosongan 19. Setiausaha 20. Jawatankuasa
+13. Penjalanan sementara fungsi Pengerusi
+
+14. Tempoh jawatan
+
+15. Elaun
+
+16. Pembatalan pelantikan dan peletakan jawatan
+
+17. Pengosongan jawatan
+
+18. Pengisian kekosongan
+
+19. Setiausaha
+
+20. Jawatankuasa
 
 ## BAHAGIAN IV
 
 ## PERUNTUKAN YANG BERHUBUNGAN DENGAN PEGAWAI DAN PEKERJA
 
-21. Pelantikan Ketua Pegawai Eksekutif 22. Pelantikan pekerja 23. Syarat perkhidmatan 24. Pinjaman, biasiswa dan wang pendahuluan 25. Pembayaran faedah persaraan, dsb. 26. Pemakaian Akta Badan-Badan Berkanun (Tatatertib dan Surcaj) 2000 27. Agensi boleh menerima pakai peraturan-peraturan, dsb.
+21. Pelantikan Ketua Pegawai Eksekutif
+
+22. Pelantikan pekerja
+
+23. Syarat perkhidmatan
+
+24. Pinjaman, biasiswa dan wang pendahuluan
+
+25. Pembayaran faedah persaraan, dsb.
+
+26. Pemakaian Akta Badan-Badan Berkanun (Tatatertib dan Surcaj) 2000
+
+27. Agensi boleh menerima pakai peraturan-peraturan, dsb.
 
 ## BAHAGIAN V
 
 ## PERUNTUKAN KEWANGAN
 
-28. Kumpulan Wang Agensi Kelayakan Malaysia 29. Perbelanjaan yang hendaklah dipertanggungkan pada Kumpulan Wang 30. Pemeliharaan Kumpulan Wang 31. Perbelanjaan dan penyediaan anggaran 32. Kuasa untuk meminjam 33. Pelaburan 34. Akaun dan laporan
+28. Kumpulan Wang Agensi Kelayakan Malaysia
+
+29. Perbelanjaan yang hendaklah dipertanggungkan pada Kumpulan Wang
+
+30. Pemeliharaan Kumpulan Wang
+
+31. Perbelanjaan dan penyediaan anggaran
+
+32. Kuasa untuk meminjam
+
+33. Pelaburan
+
+34. Akaun dan laporan
 
 ## BAHAGIAN VI
 
@@ -52,7 +106,9 @@ D.R. 24/2007
 
 <!-- page 3 -->
 
-36. Objektif Kerangka 37. Pematuhan Kerangka
+36. Objektif Kerangka
+
+37. Pematuhan Kerangka
 
 ## BAHAGIAN VII
 
@@ -60,7 +116,17 @@ D.R. 24/2007
 
 38. Permohonan bagi akreditasi sementara
 
-39.' Kuasa untuk membenarkan atau menolak permohonan 40. Perakuan akreditasi sementara 41. Kuasa untuk mengenakan syarat 42. Pembatalan akreditasi sementara 43. Akreditasi sementara bagi program profesional atau kelayakan profesional 44. Akreditasi sementara bagi program latihan kemahiran atau kelayakan latihan kemahiran
+39.' Kuasa untuk membenarkan atau menolak permohonan
+
+40. Perakuan akreditasi sementara
+
+41. Kuasa untuk mengenakan syarat
+
+42. Pembatalan akreditasi sementara
+
+43. Akreditasi sementara bagi program profesional atau kelayakan profesional
+
+44. Akreditasi sementara bagi program latihan kemahiran atau kelayakan latihan kemahiran
 
 ## BAHAGIAN VIII
 
@@ -72,7 +138,13 @@ Program dan kelayakan di bawah Kerangka Kelayakan Malaysia
 
 45. Permohonan bagi akreditasi
 
-46. Kuasa untuk membenarkan atau menolak akreditasi 47. Perakuan akreditasi 48. Kuasa untuk mengenakan syarat 49. Pembatalan akreditasi
+46. Kuasa untuk membenarkan atau menolak akreditasi
+
+47. Perakuan akreditasi
+
+48. Kuasa untuk mengenakan syarat
+
+49. Pembatalan akreditasi
 
 ## Bab 2
 
@@ -80,41 +152,83 @@ Program profesional dan kelayakan profesional
 
 50. Permohonan bagi akreditasi
 
-51. Jawatankuasa Teknikal Bersama 52. Kuasa untuk membenarkan atau menolak akreditasi 53. Perakuan akreditasi
+51. Jawatankuasa Teknikal Bersama
+
+52. Kuasa untuk membenarkan atau menolak akreditasi
+
+53. Perakuan akreditasi
 
 <!-- page 4 -->
 
-54. Kuasa untuk mengenakan syarat 55. Pembatalan akreditasi
+54. Kuasa untuk mengenakan syarat
+
+55. Pembatalan akreditasi
 
 ## Bab 3
 
 Program dan kelayakan luar negeri
 
-56. Permohonan bagi akreditasi 57. Kuasa untuk membenarkan atau menolak akreditasi 58. Perakuan akreditasi 59. Kuasa untuk mengenakan syarat 60. Pembatalan akreditasi
+56. Permohonan bagi akreditasi
+
+57. Kuasa untuk membenarkan atau menolak akreditasi
+
+58. Perakuan akreditasi
+
+59. Kuasa untuk mengenakan syarat
+
+60. Pembatalan akreditasi
 
 ## Bab 4
 
 Pemberi pendidikan tinggi swaakreditasi
 
-61. Permohonan bagi status swaakreditasi atas undangan 62. Mendaftarkan program atau kelayakan 63. Perakuan swaakreditasi dan perakuan akreditasi 64. Pembatalan status swaakreditasi atau pembatalan pendaftaran
+61. Permohonan bagi status swaakreditasi atas undangan
+
+62. Mendaftarkan program atau kelayakan
+
+63. Perakuan swaakreditasi dan perakuan akreditasi
+
+64. Pembatalan status swaakreditasi atau pembatalan pendaftaran
 
 ## Bab 5
 
 Program dan kelayakan latihan kemahiran
 
-65. Permohonan bagi akreditasi 66. Kuasa untuk membenarkan atau menolak akreditasi 67. Perakuan akreditasi 68. Kuasa untuk mengenakan syarat 69. Pembatalan akreditasi 70. Mendaftarkan program dan kelayakan latihan kemahiran yang diakredit 71. Pembatalan pendaftaran
+65. Permohonan bagi akreditasi
+
+66. Kuasa untuk membenarkan atau menolak akreditasi
+
+67. Perakuan akreditasi
+
+68. Kuasa untuk mengenakan syarat
+
+69. Pembatalan akreditasi
+
+70. Mendaftarkan program dan kelayakan latihan kemahiran yang diakredit
+
+71. Pembatalan pendaftaran
 
 ## Bab 6
 
 Program dan kelayakan kampus cawangan
 
-72. Pendaftaran program atau kelayakan diakredit kampus cawangan 73. Pembatalan pendaftaran
+72. Pendaftaran program atau kelayakan diakredit kampus cawangan
+
+73. Pembatalan pendaftaran
 
 <!-- page 5 -->
 
 ## Bab 7
 
-Pembelajaran terdahulu dan pemindahan kredit 74. Permohonan bagi akreditasi 75. Kuasa untuk membenarkan atau menolak akreditasi 76. Kuasa untuk mengenakan syarat 77. Pembatalan akreditasi
+Pembelajaran terdahulu dan pemindahan kredit
+
+74. Permohonan bagi akreditasi
+
+75. Kuasa untuk membenarkan atau menolak akreditasi
+
+76. Kuasa untuk mengenakan syarat
+
+77. Pembatalan akreditasi
 
 ## BAHAGIAN IX
 
@@ -140,13 +254,19 @@ Pembelajaran terdahulu dan pemindahan kredit 74. Permohonan bagi akreditasi 75. 
 
 ## RAYUAN
 
-82. Rayuan 83. Kuasa Menteri atau Jawatankuasa Rayuan mengenai rayuan 84. Keputusan Menteri atau Jawatankuasa Rayuan mengenai rayuan
+82. Rayuan
+
+83. Kuasa Menteri atau Jawatankuasa Rayuan mengenai rayuan
+
+84. Keputusan Menteri atau Jawatankuasa Rayuan mengenai rayuan
 
 ## BAHAGIAN XIII
 
 ## PENGUATKUASAAN DAN PENYIASATAN
 
-85. Pegawai diberi kuasa 86. Kuasa pegawai diberi kuasa
+85. Pegawai diberi kuasa
+
+86. Kuasa pegawai diberi kuasa
 
 <!-- page 6 -->
 
@@ -186,13 +306,43 @@ Pembelajaran terdahulu dan pemindahan kredit 74. Permohonan bagi akreditasi 75. 
 
 <!-- page 7 -->
 
-111. Akta Periindungan Pihak Berkuasa Awam 1948 112. Obligasi kerahsiaan 113. Kuasa untuk mengecualikan 114. Kuasa untuk membuat peraturan-peraturan
+111. Akta Periindungan Pihak Berkuasa Awam 1948
+
+112. Obligasi kerahsiaan
+
+113. Kuasa untuk mengecualikan
+
+114. Kuasa untuk membuat peraturan-peraturan
 
 ## BAHAGIAN XVI
 
 ## PEMANSUHAN, KECUALIAN DAN PERALIHAN
 
-115. Pemansuhan dan pembubaran 116. Pemindahan kuasa, dsb. 117. Pemindahmilikan harta 118. Kontrak sedia ada 119. Pemindahan wang dalam kumpulan wang 120. Keanggotaan Lembaga 121. Penerusan pegawai dan pekhidmat 122. Kecualian bagi perakuan dan daftar 123. Penerusan permohonan, dsb., yang belum selesai 124. Penerusan prosiding sivil dan jenayah 125. Sebutan dalam undang-undang atau dokumen mengenai Lembaga 126. Penerusan penggunaan nama 127. Pencegahan anomali
+115. Pemansuhan dan pembubaran
+
+116. Pemindahan kuasa, dsb.
+
+117. Pemindahmilikan harta
+
+118. Kontrak sedia ada
+
+119. Pemindahan wang dalam kumpulan wang
+
+120. Keanggotaan Lembaga
+
+121. Penerusan pegawai dan pekhidmat
+
+122. Kecualian bagi perakuan dan daftar
+
+123. Penerusan permohonan, dsb., yang belum selesai
+
+124. Penerusan prosiding sivil dan jenayah
+
+125. Sebutan dalam undang-undang atau dokumen mengenai Lembaga
+
+126. Penerusan penggunaan nama
+
+127. Pencegahan anomali
 
 ## JADUAL
 
@@ -872,9 +1022,7 @@ pembayaran balik dan selainnya, sebagaimana yang diluluskan oleh Menteri dengan 
 
 <!-- page 30 -->
 
-## Bahagian VIII, bagi akreditasi sementara program atau kelayakannya
-
-hendaklah dibuat kepada Agensi mengikut apa-apa bentuk dan cara yang ditetapkan.
+Bahagian VIII, bagi akreditasi sementara program atau kelayakannya hendaklah dibuat kepada Agensi mengikut apa-apa bentuk dan cara yang ditetapkan.
 
 (2) Tiap-tiap permohonan hendaklah disertakan dengan apa-apa dokumen, maklumat dan fi yang ditetapkan.
 
@@ -1236,7 +1384,9 @@ Program dan kelayakan luar negeri
 
 (b) meneruskan dengan cadangan tindakan untuk membatalkan perakuan akreditasi itu.
 
-(5) Jika pemberi pendidikan tinggi gagal untuk membetulkan keadaan sebagaimana yang dikehendaki di bawah perenggan (4)(a), Agensi boleh meneruskan untuk membatalkan perakuan akreditasi itu.
+(5) Jika pemberi pendidikan tinggi gagal untuk membetulkan keadaan sebagaimana yang dikehendaki di bawah perenggan
+
+(4)(a), Agensi boleh meneruskan untuk membatalkan perakuan akreditasi itu.
 
 (6) Jika perakuan akreditasi telah dibatalkan, Agensi hendaklah memasukkan tarikh pembatalan itu ke dalam Daftar dan hendaklah memberikan notis pembatalan kepada pihak berkuasa yang berkenaan.
 
@@ -1250,7 +1400,9 @@ Pemberi pendidikan tinggi swaakreditasi
 
 (2) Agensi, selepas menimbangkan permohonan di bawah subseksyen (1) dan menjalankan audit institusi, boleh membenarkan permohonan itu dan mengeluarkan perakuan status swaakreditasi kepada pemberi pendidikan tinggi itu selepas dibayar fi yang ditetapkan.
 
-(3) Agensi boleh, pada masa atau pada bila-bila masa selepas mengeluarkan perakuan status swaakreditasi di bawah subseksyen (2), mengenakan apa-apa syarat yang disifatkannya perlu atau suai manfaat dan boleh mengubah, meminda atau membatalkan
+(3) Agensi boleh, pada masa atau pada bila-bila masa selepas mengeluarkan perakuan status swaakreditasi di bawah subseksyen
+
+(2), mengenakan apa-apa syarat yang disifatkannya perlu atau suai manfaat dan boleh mengubah, meminda atau membatalkan
 
 <!-- page 44 -->
 
@@ -1640,9 +1792,7 @@ profesional diakredit atau kelayakan profesional diakredit, Agensi boleh —
 
 82. (1) Tertakluk kepada subseksyen (2), mana-mana pemberi pendidikan tinggi yang terkilan dengan—
 
-(a) keengganan Agensi untuk membenarkan suatu akreditasi sementara atau akreditasi masing-masing di bawah
-
-## Bahagian VII atau Bahagian VIII; atau
+(a) keengganan Agensi untuk membenarkan suatu akreditasi sementara atau akreditasi masing-masing di bawah Bahagian VII atau Bahagian VIII; atau
 
 (b) pembatalan perakuan akreditasi sementara atau akreditasi masing-masing di bawah Bahagian VII atau Bahagian
 

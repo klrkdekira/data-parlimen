@@ -126,9 +126,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ( b ) to develop and promote the rubber industry among the smallholder sector;
 
-( c ) to regulate the rubber industry
-
-<!-- marginal: in -->
+( c ) to regulate the rubber industry in
 
 <!-- marginal: the -->
 
@@ -172,11 +170,7 @@ smallholder sector except research on rubber; and
 
 (7) to liaise and co-ordinate with the relevant State Governments and other bodies including being members of associations within and outside Malaysia in the interest of the smallholder sector of the rubber industry;
 
-( m ) to co-operate and liaise with other national agencies responsible for research, extension of research and knowledge, provision of agricultural
-
-<!-- marginal: credits, -->
-
-processing and marketing of rubber;
+( m ) to co-operate and liaise with other national agencies responsible for research, extension of research and knowledge, provision of agricultural credits, processing and marketing of rubber;
 
 ( n ) to plan and implement any other activities which may further uplift the social and economic well-being of the smallholders;
 
@@ -582,11 +576,7 @@ and gratuities;
 
 (iv) legal fees and costs and any other fees and costs;
 
-( b ) paying any expenditure lawfully incurred by companies or corporations established under this Act
-
-<!-- marginal: to carry -->
-
-out or have the charge, conduct and management of a Scheme; ( c ) repaying cess for the purpose of replanting rubber plant or other crops as may be approved by the Authority;
+( b ) paying any expenditure lawfully incurred by companies or corporations established under this Act to carry out or have the charge, conduct and management of a Scheme; ( c ) repaying cess for the purpose of replanting rubber plant or other crops as may be approved by the Authority;
 
 ( d ) granting loans or providing grants to smallholders for the purpose of improving their holdings;
 
@@ -1324,7 +1314,7 @@ Section 11AD provides that the Statutory Bodies (Discipline and Surcharge) Act 2
 
 ## PART IV
 
-## Part IV contains financial provisions.
+Part IV contains financial provisions.
 
 Section 13 provides for the establishment of the "Rubber Industry Smallholders Development Authority Fund" ("the Fund").
 
@@ -1344,7 +1334,7 @@ Section 19 provides that the Statutory Bodies (Accounts and Annual Reports) Act 
 
 ## PART V
 
-## Part V deals with the other powers and functions of the Authority.
+Part V deals with the other powers and functions of the Authority.
 
 Section 20 seeks to enable the Authority to borrow money.
 
@@ -1358,7 +1348,7 @@ Section 24 allows the Authority to establish corporations.
 
 ## PART VI
 
-## Part VI deals with the Scheme for a smallholder or an estate.
+Part VI deals with the Scheme for a smallholder or an estate.
 
 Section 26 seeks to empower the Minister to declare any person or class of persons as a smallholder or an estate owner.
 
@@ -1378,7 +1368,7 @@ Section 32 provides that sections 29 to 31 apply to a company or a corporation i
 
 ## PART VII
 
-## Part VII contains provisions relating to enforcement.
+Part VII contains provisions relating to enforcement.
 
 Section 33 seeks to empower the Director General to appoint authorized officers for the purposes of exercising the powers of enforcement under Act 85. Section 34 provides for the power of the authorized officer to investigate any offence under Act 85 and section 35 provides that each officer authorized under section 33 shall be issued an authority card and shall, on demand, produce his card.
 
@@ -1410,7 +1400,7 @@ Section 47 seeks to provide for the additional powers of the authorized officers
 
 ## PART VIII
 
-## Part VIII contains general provisions.
+Part VIII contains general provisions.
 
 Section 48 deals with the provision relating to the obligation of
 

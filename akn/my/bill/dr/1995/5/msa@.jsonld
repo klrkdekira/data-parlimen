@@ -1,0 +1,150 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/5/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/5"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-5-1995",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/5/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/5/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/5/msa@/~cl_3"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Cukai Perkhidmatan (Pindaan) 1995"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/5/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Cukai Perkhidmatan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "(Pindaan) 1995."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/5/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/5/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/5/msa@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Cukai Perkhidmatan 1975, yang disebut \"Akta"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ibu\" dalam Akta ini, adalah dipinda dalam subseksyen 12(1)-"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/5/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/5/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"amaun kesemua jumlah hasil-hasil yang diterima\" perkataan \"dalam tempoh yang kena dibayar cukai itu\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/5/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/5/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan \"dalam tempoh itu\" selepas perkataan \"caj-caj bagi membekalkan barang yang dikenakan cukai\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/5/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/5/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/5/msa@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/5/msa@/~cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/5/msa@/~cl_3__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan menggantikan seksyen"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "14 dengan seksyen yang berikut: 14. (1) Cukai perkhidmatan yang boleh dikenakan di bawah Akta ini hendaklah genap masanya dibayar pada masa pembayaran diterima bagi—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/5/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/5/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perkhidmatan yang kena dibayar cukai yang disediakan; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/5/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/5/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "barang yang kena dibayar cukai yang dijual atau dibekalkan, kepada pelanggan atau pembeli oleh orang yang kena membayar cukai."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/5/msa@/~cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/5/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika keseluruhan atau mana-mana bahagian pembayaran bagi mana-mana perkhidmatan yang kena dibayar cukai yang disediakan atau barang yang kena dibayar cukai yang dijual atau dibekalkan tidak diterima dalam tempoh enam bulan kalendar dari tarikh pengeluaran invois bagi perkhidmatan yang kena dibayar cukai yang disediakan itu atau barang yang kena dibayar cukai yang dijual atau dibekalkan itu, cukai perkhidmatan hendaklah genap masanya pada hari yang berikutnya selepas tempoh enam bulan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/5/msa@/~cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/5/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana cukai yang genap masanya dibayar di bawah subseksyen (1) atau (2) dalam sesuatu tempoh yang kena dibayar cukai hendaklah kena dibayar kepada Ketua Pengarah dalam tempoh dua puluh lapan hari dari tarikh tamat tempoh yang kena dibayar cukai itu.\"."
+      }
+    }
+  ]
+}

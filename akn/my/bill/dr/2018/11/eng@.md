@@ -4,29 +4,39 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Interpretation
 
-## Part II
+## PART II
 
 ## ADMINISTRATION
 
 3. Functions and powers of Director General and other officers 4. Persons appointed or employed to be public servants 5. Recognition of office 6. Confidentiality of information
 
-## Part III
+## PART III
 
 ## IMPOSITION AND SCOPE OF SERVICE TAX
 
-7. Imposition and scope of service tax 8. Taxable service 9. Determination of value of taxable service 10. Rate of service tax 11. Service tax due
+7. Imposition and scope of service tax 8. Taxable service 9. Determination of value of taxable service
 
-## Part IV
+10. Rate of service tax
+
+11. Service tax due
+
+## PART IV
 
 ## REGISTRATION
 
-12. Liability to be registered 13. Application for registration 14. Voluntary registration 15. Direction to treat persons as single taxable person
+12. Liability to be registered
+
+13. Application for registration
+
+14. Voluntary registration
+
+15. Direction to treat persons as single taxable person
 
 <!-- page 2 -->
 
@@ -40,7 +50,7 @@
 
 20. Cancellation of registration
 
-## Part V
+## PART V
 
 ## ACCOUNTING, ASSESSMENT, RECOVERY, ETC.
 
@@ -70,7 +80,7 @@
 
 33. Liability of directors, etc.
 
-## Part VI
+## PART VI
 
 ## EXEMPTION, REFUND AND REMISSION
 
@@ -90,29 +100,59 @@
 
 <!-- page 3 -->
 
-## Part VII
+## PART VII
 
 ## RULING
 
-41. Public ruling 42. Customs ruling 43. Making of customs ruling 44. Amendment, modification or revocation of customs ruling 45. Director General to declare customs rulings to be null, etc. 46. Different customs rulings on same subject matter
+41. Public ruling
 
-## Part VIII
+42. Customs ruling
+
+43. Making of customs ruling
+
+44. Amendment, modification or revocation of customs ruling
+
+45. Director General to declare customs rulings to be null, etc.
+
+46. Different customs rulings on same subject matter
+
+## PART VIII
 
 ## SPECIAL PROVISIONS RELATING TO DESIGNATED AREAS
 
-47. Interpretation 48. Taxable service provided within or between designated areas, etc. 49. Taxable service provided by person whose principal place of business located in designated areas 50. Taxable service provided to designated areas by registered person whose principal place of business located in Malaysia 51. Power of Minister to impose service tax
+47. Interpretation
 
-## Part IX
+48. Taxable service provided within or between designated areas, etc.
+
+49. Taxable service provided by person whose principal place of business located in designated areas
+
+50. Taxable service provided to designated areas by registered person whose principal place of business located in Malaysia
+
+51. Power of Minister to impose service tax
+
+## PART IX
 
 ## SPECIAL PROVISIONS RELATING TO SPECIAL AREAS
 
-52. Interpretation 53. Taxable service provided within or between special areas, etc. 54. Taxable service provided by person whose principal place of business located in special areas 55. Taxable service provided to special areas by registered person whose principal place of business located in Malaysia 56. Power of Minister to impose service tax
+52. Interpretation
 
-## Part X
+53. Taxable service provided within or between special areas, etc.
+
+54. Taxable service provided by person whose principal place of business located in special areas
+
+55. Taxable service provided to special areas by registered person whose principal place of business located in Malaysia
+
+56. Power of Minister to impose service tax
+
+## PART X
 
 ## ENFORCEMENT
 
-57. Persons bound to give information 58. Access to places or premises 59. Access to recorded information or computerized data
+57. Persons bound to give information
+
+58. Access to places or premises
+
+59. Access to recorded information or computerized data
 
 <!-- page 4 -->
 
@@ -124,7 +164,7 @@
 
 63. Power of arrest
 
-## Part XI
+## PART XI
 
 ## TRIALS AND PROCEEDINGS
 
@@ -142,7 +182,7 @@
 
 70. No costs or damages arising from seizure to be recoverable unless seizure without reasonable or probable cause
 
-## Part XII
+## PART XII
 
 ## GENERAL
 
@@ -196,7 +236,7 @@ An Act to provide for the charging, levying and collecting of service tax, and f
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -278,7 +318,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 “free zone” has the meaning assigned to it under subsection 2(1) of the Free Zones Act 1990 [Act 438].
 
-## Part II
+## PART II
 
 ## ADMINISTRATION
 
@@ -336,7 +376,7 @@ commits an offence.
 
 (5) Notwithstanding subsection (4), the Minister may, as he deems fit, allow the Director General to transmit or communicate any document, information, return or declaration referred to in subsection (1) or anything contained therein to any other person.
 
-## Part III
+## PART III
 
 ## IMPOSITION AND SCOPE OF SERVICE TAX
 
@@ -436,7 +476,7 @@ commits an offence.
 
 <!-- page 17 -->
 
-## Part IV
+## PART IV
 
 ## REGISTRATION
 
@@ -646,7 +686,7 @@ the Director General may cancel the registration of such person with effect from
 
 (4) The Director General may cancel the registration of a registered person under subsection 14(2) if the registered person is in breach of any conditions imposed in relation to such registration with effect from the date of the breach or from such later date as determined by the Director General.
 
-## Part V
+## PART V
 
 ## ACCOUNTING, ASSESSMENT, RECOVERY, ETC.
 
@@ -938,7 +978,7 @@ as the case may be, shall together with the company, limited liability partnersh
 
 <!-- page 38 -->
 
-## Part VI
+## PART VI
 
 ## EXEMPTION, REFUND AND REMISSION
 
@@ -1074,7 +1114,7 @@ may make a claim for refund in the prescribed form.
 
 (3) Where a person who has been granted remission under subsection (1) or (2) has paid any of the service tax, surcharge, penalty, fee or other money to which the remission relates, he shall be entitled to a refund of the amount of service tax, surcharge, penalty, fee or other money which had been remitted.
 
-## Part VII
+## PART VII
 
 ## RULING
 
@@ -1180,7 +1220,7 @@ may make a claim for refund in the prescribed form.
 
 51. The Minister may, by order published in the Gazette, prescribe any service provided within or between designated areas or between designated areas and special areas to be chargeable to service tax.
 
-## Part IX
+## PART IX
 
 ## SPECIAL PROVISIONS RELATING TO SPECIAL AREAS
 
@@ -1210,7 +1250,7 @@ may make a claim for refund in the prescribed form.
 
 56. The Minister may, by order published in the Gazette, prescribe any service provided within or between special areas or between special areas and designated areas to be chargeable to service tax.
 
-## Part X
+## PART X
 
 ## ENFORCEMENT
 
@@ -1372,7 +1412,7 @@ any goods, documents, articles or things which may afford evidence of the commis
 
 <!-- page 55 -->
 
-## Part XI
+## PART XI
 
 ## TRIALS AND PROCEEDINGS
 
@@ -1444,7 +1484,7 @@ the burden of proof of such dispute shall lie on the accused in the prosecution.
 
 <!-- page 58 -->
 
-## Part XII
+## PART XII
 
 ## GENERAL
 
@@ -1814,7 +1854,7 @@ to a liquidator under this section shall attach to all such persons jointly and 
 
 The proposed Service Tax Bill 2018 (“the proposed Act”) seeks to provide for the charging, levying and collecting of service tax, and for matters connected therewith. The proposed Act and the proposed Sales Tax Bill 2018 provide for the implementation of a new tax system, namely sales tax and service tax, which will replace the goods and services tax under the Goods and Services Tax Act 2014 [Act 762].
 
-## Part I
+## PART I
 
 1. Part I deals with preliminary matters.
 
@@ -1822,7 +1862,7 @@ The proposed Service Tax Bill 2018 (“the proposed Act”) seeks to provide for
 
 3. Clause 2 contains the definitions of certain words and expressions used in the proposed Act.
 
-## Part II
+## PART II
 
 4. Part II deals with the administration on matters relating to service tax.
 
@@ -1836,7 +1876,7 @@ The proposed Service Tax Bill 2018 (“the proposed Act”) seeks to provide for
 
 8. Clause 6 seeks to provide that any person who has an official duty, or is employed or appointed under the proposed Act, is obligated to have regard and deal with any information, documents, returns or declarations relating to the business or value of the provision of services by any taxable person as secret. Clause 6 also seeks to provide that such information, documents, returns or declarations can only be divulged by such person for the purposes of carrying into effect the provisions of the proposed Act or for the prosecution of an offence.
 
-## Part III
+## PART III
 
 9. Part III deals with the provisions relating to the imposition and scope of service tax.
 
@@ -1850,7 +1890,7 @@ The proposed Service Tax Bill 2018 (“the proposed Act”) seeks to provide for
 
 14. Clause 11 seeks to provide the time when service tax shall become due in respect of taxable service.
 
-## Part IV
+## PART IV
 
 15. Part IV deals with provisions relating to registration as a registered person under the proposed Act.
 
@@ -1874,7 +1914,7 @@ The proposed Service Tax Bill 2018 (“the proposed Act”) seeks to provide for
 
 24. Clause 20 deals with cancellation of registration of a registered person and the effective date of such cancellation.
 
-## Part V
+## PART V
 
 25. Part V deals with accounting, assessment, recovery, etc., relating to service tax.
 
@@ -1908,7 +1948,7 @@ The proposed Service Tax Bill 2018 (“the proposed Act”) seeks to provide for
 
 <!-- page 77 -->
 
-## Part VI
+## PART VI
 
 39. Part VI deals with provisions relating to exemption, refund and remission of service tax.
 
@@ -1926,7 +1966,7 @@ The proposed Service Tax Bill 2018 (“the proposed Act”) seeks to provide for
 
 46. Clause 40 seeks to empower the Minister to remit service tax due and payable under the proposed Act and to empower the Director General to remit surcharge accrued, or penalty, fee or other money payable, under the proposed Act.
 
-## Part VII
+## PART VII
 
 47. Part VII deals with public ruling and customs rulings.
 
@@ -1960,7 +2000,7 @@ The proposed Service Tax Bill 2018 (“the proposed Act”) seeks to provide for
 
 <!-- page 79 -->
 
-## Part IX
+## PART IX
 
 60. Part IX deals with special provisions relating to special areas (a free zone, licensed warehouse and licensed manufacturing warehouse, and the Joint Development Area).
 
@@ -1974,7 +2014,7 @@ The proposed Service Tax Bill 2018 (“the proposed Act”) seeks to provide for
 
 65. Clause 56 seeks to empower the Minister to prescribe any services provided within or between special areas or between special areas and designated areas to be chargeable to service tax.
 
-## Part X
+## PART X
 
 66. Part X deals with provisions relating to enforcement.
 
@@ -1994,7 +2034,7 @@ The proposed Service Tax Bill 2018 (“the proposed Act”) seeks to provide for
 
 73. Clause 63 seeks to empower any proper officer of service tax to arrest without warrant.
 
-## Part XI
+## PART XI
 
 74. Part XI deals with provisions relating to trials and proceedings.
 
@@ -2012,7 +2052,7 @@ The proposed Service Tax Bill 2018 (“the proposed Act”) seeks to provide for
 
 81. Clause 70 seeks to disallow any cost of proceedings or damages to be awarded in respect of any goods, document, articles or things seized unless the seizure was made without reasonable cause.
 
-## Part XII
+## PART XII
 
 82. Part XII deals with general provisions.
 

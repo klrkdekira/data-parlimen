@@ -58,11 +58,7 @@ Majikan Pekerja
 
 <!-- page 3 -->
 
-Gaji Bulanan Caruman Caruman
-
-<!-- marginal: Jumlah -->
-
-Majikan Pekerja
+Gaji Bulanan Caruman Caruman Jumlah Majikan Pekerja
 
 52. Apabila gaji RM9.50 RM9.50 RM19.00 melebihi RM4,700 tetapi tidak melebihi RM4,800
 
@@ -78,55 +74,23 @@ Majikan Pekerja
 
 (a) dengan menggantikan butiran 45 dengan butiran yang berikut:
 
-Gaji bulanan sebenar Jumlah
+Gaji bulanan sebenar Jumlah Gaji bulanan bagi bulan itu caruman anggapan yang bersamaan bagi bulan itu
 
-<!-- marginal: Gaji bulanan -->
-
-bagi bulan itu caruman
-
-<!-- marginal: anggapan -->
-
-<!-- marginal: yang -->
-
-<!-- marginal: bersamaan -->
-
-<!-- marginal: bagi bulan -->
-
-<!-- marginal: itu -->
-
-“45. Apabila gaji melebihi RM4,000 RM16.20
-
-<!-- marginal: RM4,050”; dan -->
-
-tetapi tidak melebihi RM4,100
+“45. Apabila gaji melebihi RM4,000 RM16.20 RM4,050”; dan tetapi tidak melebihi RM4,100
 
 (b) dengan memasukkan selepas butiran 45 butiran yang berikut:
 
+Gaji bulanan sebenar Jumlah Gaji bulanan bagi bulan itu caruman anggapan yang bersamaan bagi bulan itu
+
+“46. Apabila gaji melebihi RM4,100 RM16.60 RM4,150 tetapi tidak melebihi RM4,200
+
+<!-- page 4 -->
+
 Gaji bulanan sebenar Jumlah
 
 <!-- marginal: Gaji bulanan -->
 
 bagi bulan itu caruman
-
-<!-- marginal: anggapan -->
-
-<!-- marginal: yang -->
-
-<!-- marginal: bersamaan -->
-
-<!-- marginal: bagi bulan -->
-
-<!-- marginal: itu -->
-
-“46. Apabila gaji melebihi RM4,100 RM16.60
-
-<!-- marginal: RM4,150 -->
-
-tetapi tidak melebihi RM4,200
-
-<!-- page 4 -->
-
-Gaji bulanan sebenar Jumlah Gaji bulanan bagi bulan itu caruman
 
 <!-- marginal: anggapan -->
 

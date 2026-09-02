@@ -32,11 +32,37 @@ III
 
 ## PENDAFTARAN REKA BENTUK PERINDUSTRIAN
 
-10. Pemunyaan reka bentuk perindustrian berdaftar. 11. Hak untuk memohon dan mendapatkan pendaftaran. 12. Reka bentuk perindustrian yang boleh didaftarkan. 13. Reka bentuk perindustrian yang bertentangan dengan ketenteraman awam atau prinsip moral.
+10. Pemunyaan reka bentuk perindustrian berdaftar.
+
+11. Hak untuk memohon dan mendapatkan pendaftaran.
+
+12. Reka bentuk perindustrian yang boleh didaftarkan.
+
+13. Reka bentuk perindustrian yang bertentangan dengan ketenteraman awam atau prinsip moral.
 
 <!-- page 2 -->
 
-14. Permohonan pendaftaran. 15. Permohonan berbilang. 16. Tarikh pemfailan. 17. Tarikh prioriti dan hak prioriti di bawah triti atau konvensyen. 18. Penarikan balik permohonan. 19. Pindaan permohonan, 20. Pembahagian permohonan selepas pindaan. 21. Penelitian. 22. Pendaftaran dan penyiaran. 23. Pendaftaran reka bentuk perindustrian yang sama berkenaan dengan barang-barang lain. 24. Pembetulan Daftar.
+14. Permohonan pendaftaran.
+
+15. Permohonan berbilang.
+
+16. Tarikh pemfailan.
+
+17. Tarikh prioriti dan hak prioriti di bawah triti atau konvensyen.
+
+18. Penarikan balik permohonan.
+
+19. Pindaan permohonan,
+
+20. Pembahagian permohonan selepas pindaan.
+
+21. Penelitian.
+
+22. Pendaftaran dan penyiaran.
+
+23. Pendaftaran reka bentuk perindustrian yang sama berkenaan dengan barang-barang lain.
+
+24. Pembetulan Daftar.
 
 ## BAHAGIAN
 
@@ -44,7 +70,13 @@ IV
 
 ## TEMPOH PENDAFTARAN
 
-25. Tempoh pendaftaran, 26. Kemasukan semula pendaftaran luput. 27. Pembatalan pendaftaran dan pemberian lesen wajib. 28. Perintah Mahkamah.
+25. Tempoh pendaftaran,
+
+26. Kemasukan semula pendaftaran luput.
+
+27. Pembatalan pendaftaran dan pemberian lesen wajib.
+
+28. Perintah Mahkamah.
 
 ## BAHAGIAN V
 
@@ -52,13 +84,23 @@ IV
 
 ## PENYERAHHAKAN DAN PERPINDAHAN
 
-29. Hak pemunya adalah harta sendiri. 30. Pendaftaran penyerahhakan, perpindahan atau kuatkuasa lain di sisi undang-undang. 31. Pemunyaan bersama,
+29. Hak pemunya adalah harta sendiri.
+
+30. Pendaftaran penyerahhakan, perpindahan atau kuatkuasa lain di sisi undang-undang.
+
+31. Pemunyaan bersama,
 
 ## BAHAGIAN VI
 
 ## PELANGGARAN
 
-32. Pelanggaran reka bentuk perindustrian berdaftar. 33. Prosiding pelanggaran. 34. Pembelaan dalam tindakan pelanggaran, 35. Remedi bagi pelanggaran.
+32. Pelanggaran reka bentuk perindustrian berdaftar.
+
+33. Prosiding pelanggaran.
+
+34. Pembelaan dalam tindakan pelanggaran,
+
+35. Remedi bagi pelanggaran.
 
 <!-- page 3 -->
 
@@ -66,13 +108,25 @@ IV
 
 ## KESALAHAN
 
-36. Pemalsuan Daftar, dsb. 37. Pernyataan palsu tentang pendaftaran. 38. Penggunaan nama "Pejabat Pendaftaran Reka Bentuk Perindustrian". 39. Kesalahan oleh pertubuhan perbadanan.
+36. Pemalsuan Daftar, dsb.
+
+37. Pernyataan palsu tentang pendaftaran.
+
+38. Penggunaan nama "Pejabat Pendaftaran Reka Bentuk Perindustrian".
+
+39. Kesalahan oleh pertubuhan perbadanan.
 
 ## BAHAGIAN VIII
 
 ## KUASA-KUASA LAIN PENDAFTAR
 
-40. Pindaan reka bentuk perindustrian berdaftar. 41. Kuasa am Pendaftar. 42. Penjalanan kuasa budi bicara. 43. Pelanjutan masa.
+40. Pindaan reka bentuk perindustrian berdaftar.
+
+41. Kuasa am Pendaftar.
+
+42. Penjalanan kuasa budi bicara.
+
+43. Pelanjutan masa.
 
 ## BAHAGIAN
 
@@ -80,7 +134,19 @@ IX
 
 ## PELBAGAI
 
-44. Penyampaian melalui pos. 45. Ejen. 46. Rayuan. 47. Peraturan-peraturan. 48. Negara konvensyen. 49. Peruntukan pemansuhan dan kecualian. 50. Peralihan.
+44. Penyampaian melalui pos.
+
+45. Ejen.
+
+46. Rayuan.
+
+47. Peraturan-peraturan.
+
+48. Negara konvensyen.
+
+49. Peruntukan pemansuhan dan kecualian.
+
+50. Peralihan.
 
 <!-- page 5 -->
 
@@ -192,9 +258,21 @@ II
 
 ## PENTADBIRAN
 
-Pendaftar,
+<!-- marginal: Pendaftar, -->
 
-4. (1) Menteri boleh melantik seorang Pendaftar Reka Timbalan Bentuk Perindustrian yang hendaklah diberi kuasa dan Pendaftar dan Penolong fungsi bagi pentadbiran yang sepatutnya Akta ini. Pendaftar.
+4. (1) Menteri boleh melantik seorang Pendaftar Reka
+
+<!-- marginal: Timbalan -->
+
+Bentuk Perindustrian yang hendaklah diberi kuasa dan
+
+<!-- marginal: Pendaftar -->
+
+<!-- marginal: dan Penolong -->
+
+fungsi bagi pentadbiran yang sepatutnya Akta ini.
+
+<!-- marginal: Pendaftar. -->
 
 (2) Menteri boleh memberi Pendaftar apa-apa arahan yang konsisten dengan peruntukan Akta ini tentang penjalanan dan pelaksanaan kuasa dan fungsi berhubungan dengan apa-apa perkara yang didapatinya kena mengena dengan kemajuan reka bentuk perindustrian dan perkara lain yang berkaitan dengannya dan Pendaftar hendaklah melaksanakan apa-apa arahan sedemikian.
 
@@ -254,19 +332,41 @@ Perindustrian.
 
 (3) Daftar hendaklah disimpan dalam bentuk dan pada bahan yang ditetapkan.
 
-Notis
+<!-- marginal: Notis -->
 
-7. Notis tentang sesuatu amanah, sama ada nyata, tersirat tentang atau konstruktif, tidak boleh dicatatkan dalam Daftar atau amanah. disetuju terima oleh Pendaftar.
+7. Notis tentang sesuatu amanah, sama ada nyata, tersirat
 
-Pemeriksaan
+<!-- marginal: tentang -->
 
-8. (1) Daftar hendaklah terbuka untuk diperiksa oleh Daftar. orang ramai pada masa yang boleh ditetapkan oleh Menteri melalui peraturan.
+atau konstruktif, tidak boleh dicatatkan dalam Daftar atau
+
+<!-- marginal: amanah. -->
+
+disetuju terima oleh Pendaftar.
+
+<!-- marginal: Pemeriksaan -->
+
+8. (1) Daftar hendaklah terbuka untuk diperiksa oleh
+
+<!-- marginal: Daftar. -->
+
+orang ramai pada masa yang boleh ditetapkan oleh Menteri melalui peraturan.
 
 (2) Salinan atau cabutan yang diperakui benar bagi mana-mana catatan dalam Daftar yang dimeterai dengan meterai Pendaftar hendaklah diberikan kepada mana-mana orang yang menghendakinya apabila fee yang ditetapkan dibayar.
 
-Salinan
+<!-- marginal: Salinan -->
 
-9. (1) Daftar hendaklah menjadi keterangan prima terperaku facie bagi semua perkara yang dikehendaki atau diberi menjadi keterangan. kuasa oleh Akta ini untuk dicatatkan di dalamnya.
+9. (1) Daftar hendaklah menjadi keterangan prima
+
+<!-- marginal: terperaku -->
+
+facie bagi semua perkara yang dikehendaki atau diberi
+
+<!-- marginal: menjadi -->
+
+<!-- marginal: keterangan. -->
+
+kuasa oleh Akta ini untuk dicatatkan di dalamnya.
 
 (2) Pendaftar boleh membekalkan satu salinan atau cabutan—
 
@@ -324,15 +424,37 @@ secara bertulis kepada orang lain keseluruhan atau mana- mana bahagian kepenting
 
 (6) Bagi sesuatu reka bentuk perindustrian yang dihasilkan oleh komputer dalam keadaan tiada pencipta manusia, orang yang membuat perkiraan yang perlu untuk mencipta reka bentuk perindustrian itu hendaklah dianggap sebagai penciptanya.
 
-Hak untuk
+<!-- marginal: Hak untuk -->
 
-11. (1) Pemunya asal sesuatu reka bentuk perindustrian memohon adalah berhak untuk membuat permohonan untuk dan mendapatkan mendaftarkan reka bentuk perindustrian itu. pendaftaran.
+11. (1) Pemunya asal sesuatu reka bentuk perindustrian
+
+<!-- marginal: memohon -->
+
+adalah berhak untuk membuat permohonan untuk
+
+<!-- marginal: dan -->
+
+<!-- marginal: mendapatkan -->
+
+mendaftarkan reka bentuk perindustrian itu.
+
+<!-- marginal: pendaftaran. -->
 
 (2) Jika dua orang atau lebih mempunyai kepentingan mengenai suatu reka bentuk perindustrian, semua orang yang mempunyai kepentingan itu, yang bertindak bersesama, adalah berhak membuat permohonan untuk mendaftarkan reka bentuk perindustrian itu, tertakluk kepada apa-apa perjanjian yang sebaliknya antara mereka.
 
-Reka bentuk
+<!-- marginal: Reka bentuk -->
 
-12. (1) Tertakluk kepada Akta ini, sesuatu reka bentuk perindustrian perindustrian hanya boleh didaftarkan jika ia baharu. yang boleh didaftarkan. (2) Sesuatu reka bentuk perindustrian yang baginya suatu permohonan bagi pendaftaran telah dibuat tidak boleh dianggap baharu jika, sebelum tarikh prioriti
+12. (1) Tertakluk kepada Akta ini, sesuatu reka bentuk
+
+<!-- marginal: perindustrian -->
+
+perindustrian hanya boleh didaftarkan jika ia baharu.
+
+<!-- marginal: yang boleh -->
+
+<!-- marginal: didaftarkan. -->
+
+(2) Sesuatu reka bentuk perindustrian yang baginya suatu permohonan bagi pendaftaran telah dibuat tidak boleh dianggap baharu jika, sebelum tarikh prioriti
 
 <!-- page 13 -->
 
@@ -398,13 +520,21 @@ reka bentuk perindustrian—
 
 (2) Jika tempat bermastautin biasa atau tempat utama perniagaan pemohon adalah di luar Malaysia, pemohon hendaklah melantik seorang ejen di Malaysia yang kepadanya notis atau proses berhubungan dengan permohonan untuk mendaftarkan suatu reka bentuk perindustrian boleh disampaikan, dan jika pemohon gagal melantik seorang ejen, Pendaftar boleh enggan meneruskan permohonan itu sehingga ejen sedemikian dilantik.
 
-Permohonan
+<!-- marginal: Permohonan -->
 
-15. Dua reka bentuk perindustrian atau lebih boleh berbilang. menjadi subjek bagi permohonan yang sama, dengan syarat reka bentuk perindustrian itu adalah berkaitan dengan kelas yang sama mengikut Klasifikasi Antarabangsa untuk Reka Bentuk Perindustrian atau berkaitan dengan set atau komposisi barang yang sama.
+15. Dua reka bentuk perindustrian atau lebih boleh
 
-Tarikh
+<!-- marginal: berbilang. -->
 
-16. Tarikh pemfailan sesuatu permohonan untuk pemfailan. mendaftarkan suatu reka bentuk perindustrian hendaklah tarikh terawal apabila semua syarat yang berikut yang berhubungan dengan permohonan itu dipenuhi:
+menjadi subjek bagi permohonan yang sama, dengan syarat reka bentuk perindustrian itu adalah berkaitan dengan kelas yang sama mengikut Klasifikasi Antarabangsa untuk Reka Bentuk Perindustrian atau berkaitan dengan set atau komposisi barang yang sama.
+
+<!-- marginal: Tarikh -->
+
+16. Tarikh pemfailan sesuatu permohonan untuk
+
+<!-- marginal: pemfailan. -->
+
+mendaftarkan suatu reka bentuk perindustrian hendaklah tarikh terawal apabila semua syarat yang berikut yang berhubungan dengan permohonan itu dipenuhi:
 
 (a) dokumen yang tersebut dalam seksyen 14 mengenal pasti pemohon atau pemohon- pemohon;
 
@@ -440,7 +570,9 @@ Dengan syarat bahawa permohonan yang dibuat di bawah Akta ini telah difailkan da
 
 (4) Kesan akuan yang disebut dalam subseksyen (2) hendaklah sebagaimana yang diperuntukkan dalam triti atau konvensyen yang disebut dalam subseksyen itu.
 
-(5) Jika mana-mana kehendak seksyen ini atau mana- mana peraturan yang berkaitan dengannya telah tidak dipatuhi, maka akuan yang disebut dalam subseksyen (2) hendaklah dianggap tak sah.
+(5) Jika mana-mana kehendak seksyen ini atau mana- mana peraturan yang berkaitan dengannya telah tidak dipatuhi, maka akuan yang disebut dalam subseksyen
+
+(2) hendaklah dianggap tak sah.
 
 18. Pemohon pendaftaran suatu reka bentuk perindustrian
 
@@ -470,17 +602,35 @@ kepadanya dengan cara yang ditetapkan, meminda sesuatu permohonan untuk mendafta
 
 (2) Sesuatu pindaan di bawah subseksyen (1) tidak boleh dibuat jika, akibat daripada pindaan itu, ruang lingkup permohonan itu akan bertambah dengan kemasukan apa-apa perkara yang tidak pada matannya didedahkan dalam permohonan yang difailkan pada mulanya.
 
-Pembahagian 20. (1) Jika permintaan untuk membuat pindaan di bawah permohonan seksyen 19 dibenarkan, dan pindaan itu telah meng- selepas akibatkan satu reka bentuk perindustrian atau lebih pindaan. terkeluar daripada permohonan yang mula-mula, pemohon boleh pada bila-bila masa semasa menunggu jawapan kepada permohonan yang mula-mula membuat suatu permohonan lanjutan, yang disebut "permohonan terbahagi" dalam seksyen ini, untuk mendaftarkan reka bentuk perindustrian yang terkeluar itu.
+<!-- marginal: Pembahagian -->
+
+20. (1) Jika permintaan untuk membuat pindaan di bawah
+
+<!-- marginal: permohonan -->
+
+seksyen 19 dibenarkan, dan pindaan itu telah meng-
+
+<!-- marginal: selepas -->
+
+akibatkan satu reka bentuk perindustrian atau lebih
+
+<!-- marginal: pindaan. -->
+
+terkeluar daripada permohonan yang mula-mula, pemohon boleh pada bila-bila masa semasa menunggu jawapan kepada permohonan yang mula-mula membuat suatu permohonan lanjutan, yang disebut "permohonan terbahagi" dalam seksyen ini, untuk mendaftarkan reka bentuk perindustrian yang terkeluar itu.
 
 (2) Suatu permohonan terbahagi hendaklah berhak mendapat tarikh prioriti permohonan yang mula-mula.
 
-Penelitian. 21. (1) Jika sesuatu permohonan untuk mendaftarkan suatu reka bentuk perindustrian telah diuntukkan tarikh pemfailan dan permohonan itu tidak ditarik balik, Pendaftar hendaklah menyebabkan permohonan itu diteliti bagi menentukan sama ada ia memenuhi kehendak-kehendak formal.
+<!-- marginal: Penelitian. -->
+
+21. (1) Jika sesuatu permohonan untuk mendaftarkan suatu reka bentuk perindustrian telah diuntukkan tarikh pemfailan dan permohonan itu tidak ditarik balik, Pendaftar hendaklah menyebabkan permohonan itu diteliti bagi menentukan sama ada ia memenuhi kehendak-kehendak formal.
 
 (2) Jika, hasil daripada penelitian itu, telah ditentukan bahawa permohonan itu tidak memenuhi kehendak- kehendak formal, Pendaftar hendaklah memberitahu pemohon dan memberinya suatu peluang untuk memberikan pandangan tentang keputusan itu dan untuk meminda permohonan dalam tempoh yang ditetapkan supaya kehendak-kehendak itu dipenuhi.
 
 (3) Jika, dalam tempoh yang ditetapkan, pemohon gagal meyakinkan Pendaftar bahawa kehendak-kehendak formal telah dipenuhi atau meminda permohonan supaya kehendak itu dipenuh, Pendaftar boleh enggan mendaftarkan reka bentuk perindustrian itu.
 
-(4) Pendaftar tidak boleh enggan di bawah subseksyen (3) untuk mendaftarkan sesuatu reka bentuk perindustrian sehingga pemohon sudah diberi peluang untuk didengar.
+(4) Pendaftar tidak boleh enggan di bawah subseksyen
+
+(3) untuk mendaftarkan sesuatu reka bentuk perindustrian sehingga pemohon sudah diberi peluang untuk didengar.
 
 <!-- page 17 -->
 
@@ -550,9 +700,11 @@ permohonan itu tidak boleh ditolak, dan pendaftaran yang dibuat berasaskan permo
 
 (2) Tempoh pendaftaran sesuatu reka bentuk perindustrian yang didaftarkan mengikut seksyen ini tidak boleh dilanjutkan melebihi tempoh pendaftaran reka bentuk perindustrian berdaftar yang asal dan apa-apa tempoh lanjutan kepada tempoh itu.
 
-Pembetulan
+<!-- marginal: Pembetulan -->
 
-24. (1) Tertakluk kepada peruntukan Akta ini— Daftar.
+24. (1) Tertakluk kepada peruntukan Akta ini—
+
+<!-- marginal: Daftar. -->
 
 (a) Mahkamah boleh, atas permohonan mengikut cara yang ditetapkan daripada mana-mana orang yang terkilan dengan atau berkepentingan dalam ketakmasukan atau peninggalan daripada Daftar apa-apa catatan, atau dengan atau dalam apa- apa catatan yang dibuat dalam Daftar tanpa sebab yang mencukupi, atau apa-apa catatan yang secara salah masih ada dalam Daftar, atau apa- apa kesilapan atau kecacatan apa-apa catatan dalam Daftar, membuat apa-apa perintah supaya dimasukkan, dibuat, dikeluarkan atau diubah apa- apa catatan sedemikian supaya dibetulkan apa- apa kesilapan atau kecacatan sedemikian yang didapatinya perlu;
 
@@ -580,9 +732,13 @@ IV
 
 ## TEMPOH PENDAPTARAN
 
-Tempoh
+<!-- marginal: Tempoh -->
 
-25. (1) Pendaftaran sesuatu reka bentuk perindustrian pendaftaran. hendaklah disifatkan telah mula berkuatkuasa pada tarikh pemfailan permohonan untuk mendaftarkan reka bentuk perindustrian itu dan hendaklah berkuatkuasa selama lima tahun selepas itu.
+25. (1) Pendaftaran sesuatu reka bentuk perindustrian
+
+<!-- marginal: pendaftaran. -->
+
+hendaklah disifatkan telah mula berkuatkuasa pada tarikh pemfailan permohonan untuk mendaftarkan reka bentuk perindustrian itu dan hendaklah berkuatkuasa selama lima tahun selepas itu.
 
 (2) Tempoh pendaftaran sesuatu reka bentuk perindustrian boleh dilanjutkan dua kali lagi berturut- turut selama tempoh lima tahun bagi setiap kali lanjutan jika suatu permohonan bagi mendapatkan pelanjutan dibuat dalam borang yang ditetapkan, dan fee pelanjutan yang ditetapkan dibayar sebelum luput tempoh pendaftaran semasa.
 
@@ -590,9 +746,19 @@ Tempoh
 
 (4) Jika sesuatu permohonan pelanjutan tidak dibuat atau sesuatu fee pelanjutan tidak dibayar mengikut kehendak seksyen ini, pendaftaran hendaklah luput dan notis tentang luputnya pendaftaran itu hendaklah disiarkan dalam Warta.
 
-Kemasukan
+<!-- marginal: Kemasukan -->
 
-26. (1) Dalam masa satu tahun dari tarikh notis tentang semula luputnya pendaftaran sesuatu reka bentuk perindustrian pendaftaran luput. disiarkan dalam Warta, pemunya atau penggantinya dalam hakmilik boleh memohon untuk memasukkan semula pendaftaran reka bentuk perindustrian itu dengan—
+26. (1) Dalam masa satu tahun dari tarikh notis tentang
+
+<!-- marginal: semula -->
+
+luputnya pendaftaran sesuatu reka bentuk perindustrian
+
+<!-- marginal: pendaftaran -->
+
+<!-- marginal: luput. -->
+
+disiarkan dalam Warta, pemunya atau penggantinya dalam hakmilik boleh memohon untuk memasukkan semula pendaftaran reka bentuk perindustrian itu dengan—
 
 (a) memfailkan suatu permintaan bagi kemasukan semula itu dalam borang yang ditetapkan;
 
@@ -620,9 +786,21 @@ perindustrian itu.
 
 <!-- page 22 -->
 
-Pembatalan
+<!-- marginal: Pembatalan -->
 
-27. (1) Pada bila-bila masa selepas pendaftaran sesuatu pendaftaran reka bentuk perindustrian, mana-mana orang yang dan pemberian berkepentingan boleh memohon kepada Mahkamah— lesen wajib.
+27. (1) Pada bila-bila masa selepas pendaftaran sesuatu
+
+<!-- marginal: pendaftaran -->
+
+reka bentuk perindustrian, mana-mana orang yang
+
+<!-- marginal: dan -->
+
+<!-- marginal: pemberian -->
+
+berkepentingan boleh memohon kepada Mahkamah—
+
+<!-- marginal: lesen wajib. -->
 
 (a) supaya dibatalkan pendaftaran reka bentuk perindustrian itu atas alasan, tertakluk kepada seksyen 12, bahawa reka bentuk perindustrian itu telah dizahirkan kepada awam sebelum tarikh prioriti permohonan untuk mendaftarkan reka bentuk perindustrian itu;
 
@@ -634,9 +812,13 @@ dan Mahkamah boleh membuat perintah sedemikian berasaskan permohonannya itu seba
 
 (2) Peruntukan perenggan ( 1 )( a) dan (1) (b) tidaklah menjejaskan hak pemunya sesuatu reka bentuk perindustrian untuk meminta Pendaftar membatalkan pendaftaran reka bentuk perindustrian yang dia menjadi pemunya, atau kuasa Pendaftar untuk mengarahkan pembatalan pendaftaran sesuatu reka bentuk perindustrian atas apa-apa alasan lain sebagaimana yang difikirkannya patut.
 
-Perintah
+<!-- marginal: Perintah -->
 
-28. Tiada perintah yang tak konsisten dengan mana- Mahkamah. mana triti, konvensyen, perkiraan atau perjanjian dengan mana-mana negara di luar Malaysia boleh dibuat oleh Mahkamah di bawah seksyen 27.
+28. Tiada perintah yang tak konsisten dengan mana-
+
+<!-- marginal: Mahkamah. -->
+
+mana triti, konvensyen, perkiraan atau perjanjian dengan mana-mana negara di luar Malaysia boleh dibuat oleh Mahkamah di bawah seksyen 27.
 
 <!-- page 23 -->
 
@@ -722,9 +904,19 @@ melakukan apa-apa perbuatan, untuk faedah dirinya dan tanpa kebenaran atau keper
 
 ## PELANGGARAN
 
-Pelanggaran
+<!-- marginal: Pelanggaran -->
 
-32. (1) Tertakluk kepada peruntukan Akta ini, pemunya reka bentuk sesuatu reka bentuk perindustrian berdaftar hendaklah perindustrian berdaftar. mempunyai hak eksklusif untuk membuat atau mengimport untuk dijual atau disewakan, atau untuk menggunakan bagi tujuan apa-apa perdagangan atau perniagaan, atau untuk menjual, menyewakan atau menawarkan atau mendedahkan untuk dijual atau disewakan, apa-apa barang yang padanya reka bentuk perindustrian berdaftar itu telah digunakan.
+32. (1) Tertakluk kepada peruntukan Akta ini, pemunya
+
+<!-- marginal: reka bentuk -->
+
+sesuatu reka bentuk perindustrian berdaftar hendaklah
+
+<!-- marginal: perindustrian -->
+
+<!-- marginal: berdaftar. -->
+
+mempunyai hak eksklusif untuk membuat atau mengimport untuk dijual atau disewakan, atau untuk menggunakan bagi tujuan apa-apa perdagangan atau perniagaan, atau untuk menjual, menyewakan atau menawarkan atau mendedahkan untuk dijual atau disewakan, apa-apa barang yang padanya reka bentuk perindustrian berdaftar itu telah digunakan.
 
 (2) Tertakluk kepada seksyen 30, seseorang melanggar hak yang diberikan oleh pendaftaran sesuatu reka bentuk
 
@@ -750,19 +942,39 @@ berdaftar hendaklah mempunyai hak untuk memulakan prosiding undang-undang terhad
 
 (2) Pemunya sesuatu reka bentuk perindustrian berdaftar hendaklah mempunyai hak yang sama terhadap mana- mana orang yang telah melakukan perbuatan yang boleh menyebabkan pelanggaran berlaku.
 
-(3) Prosiding yang tersebut dalam subsekyen (1) dan (2) tidak boleh dimulakan selepas lima tahun dari perbuatan pelanggaran itu.
+(3) Prosiding yang tersebut dalam subsekyen (1) dan
+
+(2) tidak boleh dimulakan selepas lima tahun dari perbuatan pelanggaran itu.
 
 <!-- page 26 -->
 
 (4) Bagi maksud seksyen ini, "pemunya sesuatu reka bentuk perindustrian berdaftar" ertinya pemunya berdaftar dan termasuklah pemegang serahhak, pemegang lesen atau benefisiari sesuatu lesen wajib yang diberikan di bawah seksyen 27; tetapi jika apa-apa prosiding dimulakan oleh seseorang selain daripada pemunya berdaftar, mestilah dibuktikan bahawa dia telah membuat permintaan terlebih dahulu kepada pemunya berdaftar untuk memulakan prosiding bagi pelanggaran yang diadukan olehnya dan bahawa pemunya berdaftar itu telah enggan atau gagal untuk memulakan prosiding dalam tempoh tiga bulan dari penerimaan permintaan itu, tanpa bagaimanapun menjejaskan hak pemunya berdaftar itu untuk turut bersama dalam prosiding itu.
 
-Pembelaan
+<!-- marginal: Pembelaan -->
 
-34. Apa-apa alasan yang membolehkan pendaftaran dalam sesuatu reka bentuk perindustrian dibatalkan boleh tindakan terhadap digunakan sebagai suatu pembelaan dalam sesuatu tindakan pelanggaran. pelanggaran reka bentuk perindustrian berdaftar.
+34. Apa-apa alasan yang membolehkan pendaftaran
 
-Remedi bagi
+<!-- marginal: dalam -->
 
-35. (1) Jika pemunya sesuatu reka bentuk perindustrian pelanggaran. berdaftar membuktikan bahawa suatu pelanggaran telah dilakukan atau sedang dilakukan, Mahkamah boleh mengawardkan ganti rugi atau membuat perintah pengemukaan akaun keuntungan dan boleh memberikan perintah injunksi untuk menghalang pelanggaran lanjut dan apa-apa remedi lain di sisi undang-undang.
+sesuatu reka bentuk perindustrian dibatalkan boleh
+
+<!-- marginal: tindakan -->
+
+<!-- marginal: terhadap -->
+
+digunakan sebagai suatu pembelaan dalam sesuatu tindakan
+
+<!-- marginal: pelanggaran. -->
+
+pelanggaran reka bentuk perindustrian berdaftar.
+
+<!-- marginal: Remedi bagi -->
+
+35. (1) Jika pemunya sesuatu reka bentuk perindustrian
+
+<!-- marginal: pelanggaran. -->
+
+berdaftar membuktikan bahawa suatu pelanggaran telah dilakukan atau sedang dilakukan, Mahkamah boleh mengawardkan ganti rugi atau membuat perintah pengemukaan akaun keuntungan dan boleh memberikan perintah injunksi untuk menghalang pelanggaran lanjut dan apa-apa remedi lain di sisi undang-undang.
 
 (2) Jika pemunya sesuatu reka bentuk perindustrian berdaftar membuktikan bahawa perbuatan sedang dilakukan yang boleh menyebabkan suatu pelanggaran berlaku, Mahkamah boleh memberikan perintah injunksi untuk menghalang pelanggaran dan apa-apa remedi lain di sisi undang-undang.
 
@@ -808,9 +1020,21 @@ adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak mele
 
 <!-- page 28 -->
 
-Pernyataan
+<!-- marginal: Pernyataan -->
 
-37. (1) Mana-mana orang yang membuat pernyataan palsu palsu bahawa apa-apa jua pun yang dilupuskan olehnya untuk tentang mendapat balasan berharga ialah suatu barang yang pendaftaran. dilindungi oleh suatu pendaftaran reka bentuk perindustrian adalah melakukan suatu kesalahan dan apabila disabitkan, boleh didenda tidak melebihi lima belas ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.
+37. (1) Mana-mana orang yang membuat pernyataan palsu
+
+<!-- marginal: palsu -->
+
+bahawa apa-apa jua pun yang dilupuskan olehnya untuk
+
+<!-- marginal: tentang -->
+
+mendapat balasan berharga ialah suatu barang yang
+
+<!-- marginal: pendaftaran. -->
+
+dilindungi oleh suatu pendaftaran reka bentuk perindustrian adalah melakukan suatu kesalahan dan apabila disabitkan, boleh didenda tidak melebihi lima belas ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.
 
 (2) Bagi maksud subseksyen (1), seseorang yang melupuskan untuk mendapat balasan berharga apa-apa barang yang telah dicap, diukir atau ditera padanya atau selainnya digunakan padanya perkataan "reka bentuk perindustrian berdaftar" atau apa-apa perkataan lain yang menyatakan atau menyiratkan bahawa barang itu adalah suatu barang yang padanya reka bentuk perindustrian berdaftar telah digunakan, hendaklah dikira sebagai menggambarkan bahawa barang itu adalah suatu barang yang dilindungi oleh suatu pendaftaran reka bentuk perindustrian.
 
@@ -890,9 +1114,13 @@ meminda sesuatu reka bentuk perindustrian berdaftar atau apa-apa dokumen yang di
 
 (5) Jika Daftar telah dipinda di bawah seksyen ini, Pendaftar boleh menghendaki supaya perakuan pendaftaran itu diserahkan kepadanya dan boleh membatalkan perakuan pendaftaran itu dan mengeluarkan perakuan pendaftaran baru dengan apa-apa pindaan berbangkit yang menjadi perlu oleh sebab pindaan kepada Daftar.
 
-Kuasa am
+<!-- marginal: Kuasa am -->
 
-41. (1) Pendaftar boleh, pada amnya bagi maksud Akta Pendaftar. ini—
+41. (1) Pendaftar boleh, pada amnya bagi maksud Akta
+
+<!-- marginal: Pendaftar. -->
+
+ini—
 
 (a) memanggil saksi;
 
@@ -954,15 +1182,19 @@ mana peraturan yang dibuat di bawah Akta ini, dan apa- apa permohonan atau dokum
 
 (2) Pendaftar tidak terikat untuk mengiktiraf sebagai ejen seseorang yang pernah disabitkan atas kesalahan jenayah yang melibatkan fraud atau kejujuran, atau seorang bankrap yang belum dilepaskan atau telah digugurkan atau selainnya disingkirkan daripada daftar keahlian mana- mana badan profesional atau digantung buat sementara waktu daripada menjalankan amalan oleh mana-mana badan atau jawatankuasa badan profesional itu.
 
-Rayuan.
+<!-- marginal: Rayuan. -->
 
 46. (1) Mana-mana orang yang terkilan dengan apa-apa keputusan atau perintah Pendaftar boleh merayu kepada Mahkamah.
 
 (2) Kaedah prosedur yang sama tentang rayuan hendaklah terpakai bagi rayuan yang dibuat di bawah subseksyen (1) seperti yang terpakai bagi rayuan kepada Mahkamah Tinggi daripada suatu keputusan mahkamah rendah dalam perkara sivil.
 
-Peraturan-
+<!-- marginal: Peraturan- -->
 
-47. (1) Tertakluk kepada peruntukan Akta ini, Menteri peraturan. boleh membuat peraturan bagi maksud melaksanakan peruntukan Akta ini.
+47. (1) Tertakluk kepada peruntukan Akta ini, Menteri
+
+<!-- marginal: peraturan. -->
+
+boleh membuat peraturan bagi maksud melaksanakan peruntukan Akta ini.
 
 (2) Khususnya dan tanpa menjejaskan keluasan makna subseksyen (1), peraturan-peraturan yang dibuat di bawah seksyen ini boleh mengadakan peruntukan bagi kesemua atau mana-mana yang berikut:
 
@@ -990,29 +1222,49 @@ perkhidmatan oleh Pendaftar atau Pejabat Pendaftaran Reka Bentuk Perindustrian, 
 
 (j) menetapkan had masa; dan
 
-(k) secara umum mengawalselia perkara-perkara yang berhubungan dengan urusan pendaftaran reka bentuk perindustrian yang dijalankan di Pejabat Pendaftaran Reka
-
-<!-- marginal: Bentuk -->
-
-Perindustrian sama ada ditetapkan dengan khusus atau tidak di bawah Akta ini.
+(k) secara umum mengawalselia perkara-perkara yang berhubungan dengan urusan pendaftaran reka bentuk perindustrian yang dijalankan di Pejabat Pendaftaran Reka Bentuk Perindustrian sama ada ditetapkan dengan khusus atau tidak di bawah Akta ini.
 
 <!-- page 34 -->
 
-Negara
+<!-- marginal: Negara -->
 
-48. (1) Menteri boleh, melalui perintah yang disiarkan konvensyen. dalam Warta bagi maksud memenuhi sesuatu triti, korwensyen, perkiraan atau perjanjian antara Malaysia dengan suatu negara lain, mengisytiharkan bahawa negara yang dinyatakan dalam perintah itu ialah negara korwensyen bagi maksud Akta ini.
+48. (1) Menteri boleh, melalui perintah yang disiarkan
+
+<!-- marginal: konvensyen. -->
+
+dalam Warta bagi maksud memenuhi sesuatu triti, korwensyen, perkiraan atau perjanjian antara Malaysia dengan suatu negara lain, mengisytiharkan bahawa negara yang dinyatakan dalam perintah itu ialah negara korwensyen bagi maksud Akta ini.
 
 (2) Jika Menteri, dengan perintah mengisytiharkan bahawa sesuatu permohonan bagi mendapatkan perlindungan berkenaan dengan suatu reka bentuk perindustrian adalah, mengikut terma triti yang wujud antara dua negara konvensyen atau lebih, setara dengan permohonan yang dibuat di salah satu negara konvensyen itu, permohonan yang mula-mula disebut hendaklah, bagi maksud Akta ini, disifatkan telah dibuat di negara konvensyen itu.
 
 (3) Jika Menteri, melalui perintah, mengisytiharkan bahawa sesuatu permohonan bagi mendapatkan perlindungan berkenaan dengan suatu reka bentuk perindustrian adalah, mengikut undang-undang suatu negara koiwensyen, setara dengan permohonan yang dibuat di negara korwensyen itu, permohonan yang mula-mula disebut hendaklah, bagi maksud Akta ini, disifatkan telah dibuat di negara konvensyen itu.
 
-Peruntukan
+<!-- marginal: Peruntukan -->
 
-49. (1) Akta Reka Bentuk United Kingdom pemansuhan (Perlindungan) 1949, Ordinan Reka Bentuk United dan kecualian. Kingdom (Perlindungan) bagi Sabah dan Ordinan Reka Akta 214 Bentuk (United Kingdom) bagi Sarawak (yang semuanya Sabah disebut "undang-undang termansuh" kemudian daripada
+49. (1) Akta Reka Bentuk United Kingdom
+
+<!-- marginal: pemansuhan -->
+
+(Perlindungan) 1949, Ordinan Reka Bentuk United
+
+<!-- marginal: dan -->
+
+<!-- marginal: kecualian. -->
+
+Kingdom (Perlindungan) bagi Sabah dan Ordinan Reka
+
+<!-- marginal: Akta 214 -->
+
+Bentuk (United Kingdom) bagi Sarawak (yang semuanya
+
+<!-- marginal: Sabah -->
+
+disebut "undang-undang termansuh" kemudian daripada
 
 ## Bab 152.
 
-Swk ini) adalah dimansuhkan.
+<!-- marginal: Swk -->
+
+ini) adalah dimansuhkan.
 
 ## Bab 59.
 
@@ -1084,7 +1336,9 @@ Bentuk United Kingdom (Perlindungan) 1949 bagi Malaysia Barat, Ordinan Reka Bent
 
 ## BAHAGIAN
 
-II 6. Bahagian II mengandungi peruntukan yang berhubungan dengan pentadbiran.
+II
+
+6. Bahagian II mengandungi peruntukan yang berhubungan dengan pentadbiran.
 
 7. Fasal 4 bertujuan memberi Menteri kuasa untuk melantik Pendaftar Reka Bentuk Perindustrian. dan apa-apa bilangan Timbalan Pendaftar'Reka Bentuk Perindustrian dan Penolong Pendaftar Reka Bentuk Perindustrian yang perlu bagi maksud Rang Undang-Undang ini.
 

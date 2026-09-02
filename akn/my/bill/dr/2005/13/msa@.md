@@ -70,13 +70,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 "Penasihat kewangan - Pemenjaraan selama dua tahun atau dua juta ringgit atau kedua-duanya. Penalti ingkar."; dan
 
-(b) dengan memasukkan selepas subseksyen
-
-<!-- marginal: (2) -->
-
-<!-- marginal: subseksyen -->
-
-yang berikut:
+(b) dengan memasukkan selepas subseksyen (2) subseksyen yang berikut:
 
 "(3) Perenggan (l)(d) tidak terpakai bagi —
 
@@ -260,11 +254,7 @@ Penalti: Lima ratus ribu ringgit. Penalti ingkar.
 
 (b) dengan menggantikan perenggan (3)(b) dengan perenggan yang berikut:
 
-"(b) dalam hal semua pemegang lesen yang lain atau pengawalnya, meluluskan
-
-<!-- marginal: atau menolak -->
-
-permohonan itu.".
+"(b) dalam hal semua pemegang lesen yang lain atau pengawalnya, meluluskan atau menolak permohonan itu.".
 
 ### Pindaan seksyen 70
 

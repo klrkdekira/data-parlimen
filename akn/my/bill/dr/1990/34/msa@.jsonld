@@ -1,0 +1,1269 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-34-1990",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VIII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_IX",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_XI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_XII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_XIII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Pihak Berkuasa Bersama Malaysia-Thailand 1990"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERMULAAN"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_II__cl_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PIHAK BERKUASA BERSAMA MALAYSIA-THAILAND"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_III__cl_6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "KAWASAN PEMBANGUNAN BERSAMA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_III__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_III__cl_6__subpara_A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_III",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Kawasan Pembangunan Bersama hendaklah"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kawasan yang disempadani oleh garis-garis yang menyambungkan titik-titik koordinat berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_III__cl_6__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_III__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "U6°50'.0 T 102°21'.2 (B) U7°10'.25 T 102°29'.0 (C) U T 49'.0 T 103° 02'.5 (D) U 7° 22'.0 T 103° 42'.5 (E) U 7° 20'.0 T 103° 39'.0 (F) U7°03'.0 T 103 06'.0 (G) U6 53'.0 T 102°34'.0 dan yang ditunjukkan dalam bahagian yang relevan Carta Admiralti British No. 2414, Edisi 1967, yang reproduksinya adalah seperti dalam Jadual."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_II__cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_II__cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_II__cl_3__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_II__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Maka adalah dengan ini ditubuhkan suatu badan dengan nama Pihak Berkuasa Bersama Malaysia- Thailand (yang disebut \"Pihak Berkuasa Bersama\" dalam Akta ini)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_II__cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pihak Berkuasa Bersama hendaklah mempunyai personaliti juristik dan hendaklah berdomisil di Malaysia dan Thailand."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_II__cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pihak Berkuasa Bersama hendaklah menjadi suatu pertubuhan perbadanan dan, tertakluk kepada dan bagi maksud-maksud Akta ini, boleh membuat kontrak, dan boleh memperolehi, membeli, mengambil, memegang dan menikmati apa-apa jenis harta alih dan tak alih, tidak termasuk tanah, dan boleh memindahhak, menyerahhak, menyerahkan, menggadai, menggadaijanji, menyerahhak semula, memindahmilik atau selainnya melupuskan, atau memperlakukan, apa-apa harta alih atau harta tak alih atau apa-apa kepentingan di dalamnya yang terletakhak pada Pihak Berkuasa Bersama mengikut apa-apa terma yang difikirkannya sesuai."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Pihak Berkuasa Bersama hendaklah mempunyai apa-"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa kuasa dan melaksanakan apa-apa fungsi yang perlu bagi perlaksanaan tugas-tugasnya dan penikmatan hak- hak dan keistimewaan-keistimewaannya di bawah, dan setakat yang tidak tak konsisten dengan, Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Pihak Berkuasa Bersama dengan ini diletakhakkan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan dan memegang hak-hak, kuasa-kuasa, kebebasan- kebebasan dan keistimewaan-keistimewaan eksklusif untuk mencarigali dan mengeksploitasikan sumber- sumber alam, khususnya petroleum, dalam Kawasan Pembangunan Bersama."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_IV__cl_7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ROYALTI"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_IV__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pihak Berkuasa Bersama hendaklah membayar kepada setiap satu daripada Kerajaan-Kerajaan royalti sebanyak lima peratus daripada pengeluaran kasar petroleum, mengikut cara dan pada masa-masa yang ditetapkan melalui peraturan-peraturan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_IX",
+      "@type": "akn:part",
+      "eli:number": "IX",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_IX__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_IX__cl_17"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PEGAWAI-PEGAWAI DAN BIDANG KUASA MAHKAMAH-MAHKAMAH"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_IX__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_IX",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Mana-mana anggota Pihak Berkuasa Bersama atau"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana pegawai, pengkhidmat atau ejen Pihak Berkuasa Bersama hendaklah disifatkan pengkhidmat awam mengikut pengertian Kanun Keseksaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_IX__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_IX__cl_17__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_IX__cl_17__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_IX"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_IX__cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_IX__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun apa-apa jua yang terkandung dalam mana-mana undang-undang bertulis lain berlawanan, Mahkamah Sesyen hendaklah mempunyai bidang kuasa untuk membicarakan apa-apa kesalahan di bawah Akta ini atau mana-mana peraturan yang dibuat di bawahnya dan, apabila disabitkan, untuk mengenakan penalti penuh yang ditetapkan baginya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_IX__cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_IX__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud menjalankan bidang kuasa ke atas apa-apa kesalahan yang dilakukan di bawah Akta ini atau mana-mana peraturan yang dibuat di bawah seksyen 15, subseksyen (2), dan perenggan (b) dan (d) subseksyen (6), seksyen 18 hendaklah terpakai."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Pihak Ber- kuasa Bersama Malaysia-Thailand 1990."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini hendaklah mula berkuatkuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. RANG UNDANG-UNDANG"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_I__cl_2__subpara_A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "\"garis pembahagi bidang kuasa\" ertinya garis Jurus yang menyambungkan titik-titik koordinat yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_I__cl_2__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "U6°50'.0 T 102°21'.2; (X) U7 35',0 T 103° 23'.0 yang membahagikan bidang kuasa sivil dan jenayah dalam Kawasan Pembangunan Bersama; \"Kawasan Pembangunan Bersama\" ertinya kawasan tertentu di pelantar benua Malaysia dan Thailand di Teluk Siam yang diperihalkan di bawah seksyen 6; \"Kerajaan-Kerajaan\" ertinya Kerajaan Malaysia dan Kerajaan Thailand; \"Kumpulan Wang\" ertinya Kumpulan Wang Pihak Berkuasa Bersama Malaysia-Thailand yang disebut di bawah seksyen 9; \"Memorandum Persefahaman, 1979\" Memorandum Persefahaman di antara Malaysia dengan Thailand mengenai Penubuhan suatu Pihak Berkuasa Bersama bagi Mengeksploitasikan Sumber-Sumber Dasar Laut dalam Kawasan Tertentu di Pelantar Benua Kedua- dua Negara di Teluk Siam, yang ditandatangani pada 21 Februari, 1979; \"Menteri\" ertinya Menteri yang dipertanggungkan dengan tanggungjawab bagi petroleum; \"Perjanjian\" ertinya Perjanjian mengenai Perlembagaan dan Perkara-Perkara Lain yang Berhubungan dengan Penubuhan Pihak Berkuasa Bersama Malaysia-Thailand yang ditandatangani oleh Kerajaan Malaysia dan Kerajaan Thailand pada 30 Mei 1990, di Kuala Lumpur, Malaysia; \"petroleum\" ertinya apa-apa minyak mineral atau hidrokarbon relatif dan gas asli yang terdapat dalam keadaan semula jadinya dan spirit petroleum kepala selongsong, termasuk syal bitumin dan longgokan- longgokan berstrata lain yang daripadanya minyak boleh didapati; MALAYSIA-THAILAND \"Pihak Berkuasa Bersama\" ertinya Pihak Berkuasa Bersama Malaysia-Thailand; \"sumber-sumber alam\" ertinya apa-apa sumber alam tak hidup termasuk apa-apa mineral, minyak mineral dan logam."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_V__cl_8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERUNTUKAN-PERUNTUKAN KEWANGAN"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_13"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "KUMPULAN WANG PIHAK BERKUASA BERSAMA MALAYSIA-THAILAND"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII",
+      "@type": "akn:part",
+      "eli:number": "VII",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "KONTRAK BAGI CARIGALI DAN EKSPLOITASI"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VIII",
+      "@type": "akn:part",
+      "eli:number": "VIII",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VIII__cl_15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERATURAN-PERATURAN"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VIII__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VIII__cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VIII__cl_15__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VIII__cl_15__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VIII__cl_15__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VIII__cl_15__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VIII__cl_15__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VIII__cl_15__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VIII__cl_15__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VIII__cl_15__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VIII__cl_15__para_j"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VIII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Menteri boleh, dengan kelulusan Kerajaan-Kerajaan,"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membuat peraturan-peraturan berkenaan dengan yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VIII__cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VIII__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pengelolaan atau penjalanan apa-apa pernia- gaan atau perkhidmatan yang berhubungan dengan carigali dan eksploitasi sumber-sumber alam dalam Kawasan Pembangunan Bersama;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VIII__cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VIII__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pembayaran apa-apa wang yang kena dibayar kepada Kerajaan-Kerajaan oleh Pihak Ber- kuasa Bersama di bawah seksyen 7 dan perenggan (d) seksyen 10;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VIII__cl_15__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VIII__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "terma-terma dan syarat-syarat perlantikan bagi, dan emolumen, elaun perjalanan dan elaun saraan hidup yang kena dibayar kepada, Pengerusi Bersama dan anggota-anggota lain Pihak Berkuasa Bersama;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VIII__cl_15__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VIII__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "prosedur pemberian tender dan award bagi mana-mana kontrak yang boleh dibuat di bawah seksyen 14, termasuk terma-terma dan syarat- syarat yang boleh dimasukkan ke dalam kontrak itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VIII__cl_15__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VIII__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penyimpanan akaun-akaun yang patut dan rekod-rekod lain bagi transaksi-transaksi dan hal-ehwal Pihak Berkuasa Bersama mengikut prinsip-prinsip perakaunan yang umum diterima;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VIII__cl_15__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VIII__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penyediaan penyata-penyata akaun tahunan dan, tertakluk kepada peruntukan-peruntukan Akta ini, penguntukan keuntungan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VIII__cl_15__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VIII__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pengauditan akaun-akaun dan pengemukaannya selepas itu kepada Kerajaan-Kerajaan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VIII__cl_15__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VIII__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penyediaan dan pengemukaan belanjawan tahunan kepada Kerajaan-Kerajaan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VIII__cl_15__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VIII__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "standard-standard bagi carigali dan eksploitasi petroleum dalam Kawasan Pembangunan Bersama; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VIII__cl_15__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VIII__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa perkara lain bagi maksud-maksud menguatkuasakan peruntukan-peruntukan Akta ini: Dengan syarat bahawa berkenaan dengan perkara- perkara yang disebut di bawah perenggan (a), (d), (e), (f), (g), (h) dan (i), peraturan-peraturan sedemikian boleh dibuat selepas berunding dengan Pihak Berkuasa Bersama. MALAYSIA-THAILAND"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun peruntukan-peruntukan mana- mana undang-undang bertulis lain, tiada urusan mencarigali dan mengeksploitasikan apa-apa sumber alam, termasuk petroleum, boleh dijalankan di dalam Kawasan Pembangunan Bersama oleh mana-mana orang selain daripada Pihak Berkuasa Bersama melainkan jika ada berkenaan dengan mana-mana urusan itu suatu kontrak yang dibuat di antara Pihak Berkuasa Bersama dengan orang itu untuk mencarigali mengeksploitasikan sumber-sumber alam itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sesuatu kontrak yang disebut di bawah subseksyen (1) hendaklah terlebih dahulu mendapat kelulusan Kerajaan-Kerajaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14__subsec_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14__subsec_3__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14__subsec_3__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14__subsec_3__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14__subsec_3__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14__subsec_3__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada peruntukan-peruntukan subseksyen (4), sesuatu kontrak yang disebut di bawah subseksyen (1) bagi maksud mencarigali dan mengeksploitasikan petroleum hendaklah suatu kontrak kongsi pengeluaran dan hendaklah mengandungi, antara lain, terma-terma dan syarat-syarat yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bagi maksud seksyen 7, amaun sebanyak sepuluh peratus daripada pengeluaran kasar petroleum hendaklah dibayar oleh kontraktor kepada Pihak Berkuasa Bersama sebagai royalti mengikut cara dan pada masa-masa yang dinyatakan dalam kontrak itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "lima puluh peratus daripada pengeluaran kasar petroleum hendaklah digunakan oleh kon- traktor bagi maksud mendapatkan kembali kos bagi pengendalian petroleum;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bahagian yang selebihnya daripada pengeluaran kasar petroleum itu, selepas dibuat potongan- potongan bagi maksud-maksud perenggan (a) dan (b), hendaklah disifatkan sebagai petroleum untung dan hendaklah dibahagikan sama banyak di antara Pihak Berkuasa Bersama dengan kontraktor;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14__subsec_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kontrak itu hendaklah sah selama tempoh tidak melebihi tiga puluh lima tahun tetapi tidaklah boleh melebihi tempoh keesahan Perjanjian;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14__subsec_3__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "segala kos pengendalian petroleum hendaklah ditanggung oleh kontraktor dan boleh, tertakluk kepada perenggan (b), didapatkan kembali daripada pengeluaran;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14__subsec_3__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "amaun minimum yang hendaklah dibelanjakan oleh kontraktor bagi pengendalian petroleum di bawah kontrak sebagai komitmen minimum sebagaimana yang dipersetujui oleh Pihak Berkuasa Bersama dan kontraktor;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14__subsec_3__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pembayaran ses penyelidikan oleh kontraktor kepada Pihak Berkuasa Bersama sebanyak satu perdua daripada satu peratus agregat bagi bahagian pengeluaran kasar yang digunakan bagi maksud mendapatkan kembali kos di bawah perenggan (b) dan bahagian petroleum untung untuk kontraktor di bawah perenggan (c) mengikut cara dan pada masa-masa yang ditentukan oleh Pihak Berkuasa Bersama, dengan syarat bahawa pembayaran itu tidak boleh didapatkan kembali daripada pengeluaran; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14__subsec_3__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa pertikaian atau perselisihan yang berbangkit daripada atau berkaitan dengan kontrak yang tidak dapat diselesaikan secara berbaik-baik hendaklah dirujukkan kepada timbangtara di hadapan suatu panel yang terdiri MALAYSIA-THAILAND daripada tiga orang penimbangtara, seorang penimbangtara hendaklah dilantik oleh setiap pihak, dan penimbangtara yang ketiga hendaklah dilantik bersesama oleh kedua-dua pihak itu. Jika pihak-pihak itu tidak dapat bersetuju dengan pemilihan penimbangtara yang ketiga itu dalam suatu tempoh yang ditentukan, maka penimbangtara yang ketiga itu hendaklah dilantik dengan membuat permohonan kepada Suruhanjaya Bangsa-Bangsa Bersatu mengenai Undang-Undang Perdagangan Antarabangsa (UNCITRAL). Prosiding timbangtara hendaklah dijalankan mengikut kaedah-kaedah UNCITRAL. Tempat timbangtara itu hendaklah sama ada Bangkok atau Kuala Lumpur, atau mana-mana tempat lain sebagaimana yang dipersetujui oleh pihak-pihak itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14__subsec_4__para_g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pihak Berkuasa Bersama boleh mengubah mana- mana amaun yang disebut dalam perenggan (b), (c) dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14__subsec_4__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "subseksyen (3) berkenaan dengan apa-apa kontrak dengan kelulusan Kerajaan-Kerajaan: Dengan syarat bahawa tidak boleh ada apa-apa perubahan mana-mana amaun ini berkenaan dengan kontrak yang ada tanpa persetujuan kontraktor."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VII__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud-maksud seksyen ini, \"pengeluaran kasar\" berhubungan dengan gas ertinya hasil kasar daripada penjualan gas."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_10__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_10__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_10__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Kumpulan Wang boleh digunakan untuk—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membayar apa-apa perbelanjaan yang di- lakukan oleh Pihak Berkuasa Bersama dalam melaksanakan fungsi-fungsinya menjalankan kuasa-kuasanya mengikut peruntukan-peruntukan belanjawan yang diluluskan dan tertakluk kepada mana-mana peraturan yang dibuat di bawah seksyen 15;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menjelaskan apa-apa wang yang dipinjam oleh Pihak Berkuasa Bersama di bawah perenggan (c) subseksyen (1) seksyen 12, termasuk bunga dan belanja-belanja lain yang bersampingan dengan pinjaman itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_10__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa pelaburan yang diputuskan oleh Pihak Berkuasa Bersama tertakluk kepada kelulusan Kerajaan-Kerajaan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_10__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tertakluk kepada seksyen 11, pembayaran wang yang sama banyak amaunnya kepada Kerajaan- Kerajaan daripada pendapatan yang terakru kepada Pihak Berkuasa Bersama selepas ditolak perbelanjaan-perbelanjaan yang disebut dalam perenggan (a) dan (b) termasuk apa-apa perbelanjaan lain yang dipersetujui oleh Kerajaan-Kerajaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Pihak Berkuasa Bersama hendaklah menubuhkan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dan menguruskan suatu kumpulan wang rizab di dalam Kumpulan Wang mengikut apa-apa terma dan syarat yang diputuskan bersesama oleh Kerajaan-Kerajaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_12__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_12__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_12__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_12__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pihak Berkuasa Bersama tidak boleh, tanpa mendapat kelulusan terlebih dahulu daripada Kerajaan- Kerajaan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_12__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_12__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memberikan bantuan kewangan kepada mana- mana syarikat, badan atau orang dengan mengambil syer-syer atau debentur-debentur atau dengan cara pinjaman, pendahuluan, pemberian atau selainnya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_12__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_12__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membeli, mengunderait atau selainnya memperolehi apa-apa saham dan syer dalam mana-mana syarikat awam atau syarikat persendirian; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_12__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_12__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "meminjam wang, atau membuat apa-apa jaminan atau tanggung rugi yang melibatkan liabiliti kewangan. MALAYSIA-THAILAND"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam memberikan apa-apa keizinan di bawah subseksyen (1) Kerajaan-Kerajaan boleh bersesama mengenakan apa-apa terma dan syarat yang difikirkan sesuai olehnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Tiada apa-apa jua dalam Akta ini boleh ditafsirkan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sebagai mewujudkan apa-apa jua pun tanggungjawab bagi Kerajaan Malaysia atau Kerajaan Thailand ber- kenaan dengan apa-apa liabiliti Pihak Berkuasa Bersama."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_9__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud-maksud Akta ini dan Perjanjian, maka adalah dengan ini ditubuhkan suatu kumpulan wang yang dinamakan Kumpulan Wang Pihak Berkuasa Bersama Malaysia-Thailand (yang disebut \"Kumpulan Wang\" dalam Akta ini) yang hendaklah ditadbirkan dan dikawal oleh Pihak Berkuasa Bersama."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_9__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_9__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_9__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_9__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_9__subsec_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Aset Kumpulan Wang hendaklah termasuk—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_9__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_9__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa sumbangan yang diberikan oleh Kerajaan-Kerajaan di bawah Perjanjian, dan yang disebut di bawah subseksyen (2) seksyen 8;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_9__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_9__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "wang yang diperolehi melalui pengendalian apa-apa projek, skim atau perusahaan yang dibiayai daripada Kumpulan Wang;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_9__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_9__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "wang yang diperolehi atau berbangkit daripada apa-apa harta, pelaburan, gadaijanji, atau gadaian yang diperolehi oleh atau terletakhak pada Pihak Berkuasa Bersama;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_9__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_9__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "wang yang dipinjam oleh Pihak Berkuasa Bersama bagi maksud-maksud memenuhi mana-mana obligasinya atau menunaikan mana-mana kewajipannya; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_9__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_VI__cl_9__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa wang atau harta lain yang mungkin dengan apa-apa jua cara menjadi kena dibayar kepada atau terletakhak pada Pihak Berkuasa Bersama berkenaan dengan apa-apa perkara yang bersampingan dengan kuasa-kuasa dan kewajipan-kewajipannya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_V__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_V__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_V__cl_8__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_V__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_V__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Segala kos yang dilakukan dan faedah yang diperolehi oleh Pihak Berkuasa Bersama daripada aktiviti-aktiviti yang dijalankan di Kawasan Pembangunan Bersama hendaklah ditanggung dan dikongsi sama banyak oleh Kerajaan-Kerajaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_V__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_V__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sehingga suatu masa apabila Pihak Berkuasa Bersama mempunyai pendapatan yang cukup untuk membiayai perbelanjaan kendalian tahunannya, Kerajaan Malaysia hendaklah membayar kepada Kumpulan Wang apa-apa bayaran tahunan yang ditentukan mengikut Perjanjian tertakluk kepada bayaran-bayaran yang sama banyak dibuat oleh Kerajaan Thailand. MALAYSIA-THAILAND"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X",
+      "@type": "akn:part",
+      "eli:number": "X",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "BIDANG KUASA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_XI",
+      "@type": "akn:part",
+      "eli:number": "XI",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_XI__cl_19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "HAK-HAK DI PERAIRAN SUPERJASEN"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_XII",
+      "@type": "akn:part",
+      "eli:number": "XII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_XII__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_XII__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_XII__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_XII__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_XII__cl_24"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "KESALAHAN-KESALAHAN DAN PENALTI-PENALTI"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_XIII",
+      "@type": "akn:part",
+      "eli:number": "XIII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_XIII__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_XIII__cl_26"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "AM"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_XIII__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_XIII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jika mana-mana peruntukan Akta ini adalah"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bercanggahan atau tak konsisten dengan mana-mana peruntukan dalam mana-mana undang-undang lain, peruntukan Akta ini hendaklah mengatasi peruntukan undang-undang lain itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_XIII__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_XIII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah mempunyai penguasaan dan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pengawalan ke atas pelaksanaan Akta ini dan mana- mana peraturan yang dibuat di bawah seksyen 15, dan hendaklah mempunyai kuasa untuk melantik pegawai- pegawai bagi pelaksanaannya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_XII__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_XII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada seksyen 22, mana-mana orang,"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "termasuk pengarah atau pegawai sesuatu pertubuhan perbadanan, yang bertindak dengan melanggar peruntukan subseksyen (1) seksyen 14 adalah melaku- kan suatu kesalahan dan, apabila disabitkan, boleh dipenjarakan selama tempoh tidak melebihi lima tahun atau didenda tidak melebihi lima puluh ribu ringgit atau kedua-duanya, dan, dalam hal suatu kesalahan yang berterusan, boleh dikenakan denda tidak melebihi satu ribu ringgit bagi setiap hari atau sebahagian daripada sehari kesalahan itu berterusan selepas hari pertama yang berkenaan dengannya sabitan itu direkodkan; dan apa-apa jentera, perkakas, loji, bangunan dan harta atau benda digunakan atau dimaksudkan untuk dalam melakukan kesalahan itu boleh dikenakan lucuthak."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_XII__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_XII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada seksyen 20 dan 22, mana-mana"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "orang, termasuk pengarah atau pegawai sesuatu pertubuhan perbadanan, yang bertindak dengan melanggar mana-mana peruntukan Akta ini atau per- aturan yang dibuat di bawah seksyen 15 adalah melaku- kan suatu kesalahan dan, apabila disabitkan, boleh dipenjarakan selama tempoh tidak melebihi dua tahun atau didenda tidak melebihi dua puluh ribu ringgit atau kedua-duanya, dan, dalam hal suatu kesalahan yang berterusan, boleh dikenakan denda tambahan tidak melebihi dua ratus ringgit bagi setiap hari atau sebaha- gian daripada sehari kesalahan itu berterusan selepas hari pertama yang berkenaan dengannya sabitan itu direkodkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_XII__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_XII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jika seseorang yang disabitkan berkenaan dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa kesalahan yang disebut di bawah seksyen 20 atau 21 ialah suatu pertubuhan perbadanan, ia hanya boleh dikenakan apa-apa denda yang diperuntukkan di dalam seksven 20 atau 21 itu. MALAYSIA-THAILAND"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_XII__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_XII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jika seseorang yang dipertuduh atas suatu ke-"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "salahan di bawah Akta ini atau mana-mana peraturan yang dibuat di bawah seksyen 15 ialah suatu per- tubuhan perbadanan, tiap-tiap orang yang, pada masa kesalahan itu dilakukan, ialah pengarah pegawai pertubuhan perbadanan itu boleh dipertuduh bersesama dalam prosiding yang sama dengan per- tubuhan perbadanan itu, dan jika pertubuhan per- badanan itu disabitkan atas kesalahan yang diper- tuduhkan, maka tiap-tiap pengarah atau pegawai itu hendaklah disifatkan bersalah atas kesalahan itu melainkan jika dia membuktikan bahawa kesalahan itu telah dilakukan tanpa pengetahuannya atau bahawa dia telah mengambil langkah berjaga-jaga yang munasabah untuk mencegah pelakuan kesalahan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_XII__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_XII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang akan boleh dikenakan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa penalti di bawah Akta ini atau mana-mana peraturan yang dibuat di bawah seksyen 15 kerana apa-apa jua perkara yang dilakukan atau ditinggalkan sekiranya perkara itu telah dilakukan atau ditinggalkan olehnya sendiri, boleh dikenakan penalti yang sama jika perkara itu telah dilakukan atau ditinggalkan oleh ejennya, melainkan jika dia membuktikan bahawa dia telah mengambil langkah berjaga-jaga yang munasabah untuk mencegah pelakuan atau peninggalan perkara itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_XI__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_XI",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Tiada apa-apa jua dalam Akta ini boleh dengan apa-"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa jua cara mengawalselia, atau menyentuh apa-apa tuntutan berkenaan dengan, apa-apa hak, kebebasan dan keistimewaan, termasuk tetapi tidak terhad kepada hak, kebebasan dan keistimewaan yang berhubungan dengan perikanan, yang mungkin ada pada Malaysia atau Thailand ke atas perairan superjasen dalam Kawasan Pemba- ngunan Bersama menurut kuasa Perkara IV Memorandum Persefahaman, 1979."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada subseksyen (2) dan (3), Malaysia hendaklah terus mempunyai dan menjalankan bidang kuasa ke atas Kawasan Pembangunan Bersama."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bidang kuasa sivil dan jenayah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Malaysia dalam Kawasan Pembangunan Bersama hendaklah meliputi kawasan yang disempadani oleh garis-garis lurus yang menyambungkan titik-titik koordinat yang berikut: (A)U6°50'.0 T 102°21'.2 (X) U 7 35'.0 T 103° 23'.0 (D) U 7 22'.0 T 103° 42'.5 (E) U 7° 20'.0 T 103° 39'.0 (F) U 7° 03'.0 T 103° 06'.0 (G) U 6° 53'.0 T 102° 34'.0; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Thailand dalam Kawasan Pembangunan Bersama hendaklah meliputi kawasan yang disempadani oleh garis-garis lurus yang menyambungkan titik-titik koordinat yang berikut: ( A ) U 6° 50'.0 T 102°21'.2 ( B ) U 7° 10'.25T 102°29'.0 (C)U7°49'.0 T 103°02'.5 ( X ) U 7 ° 3 5 ' .0 T 103°23'.0"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada apa-apa jua dalam Akta ini boleh dengan apa-apa jua cara menyentuh hak-hak kedaulatan Malaysia ke atas Kawasan Pembangunan Bersama, dan apa-apa penepian bidang kuasa di bawah seksyen ini tidaklah mempunyai apa-apa kuatkuasa dan kesan melampaui tempoh keesahan Perjanjian."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Keizinan oleh Malaysia bagi penjalanan bidang kuasa sivil dan jenayah oleh Thailand di bawah perenggan (b) subseksyen (2) dan penjalanan berterusan bidang kuasa ke atas perkara-perkara yang berhubungan dengan kastam dan eksais, dan pencukaian, dalam Kawasan Pembangunan Bersama adalah dengan syarat terdapat pengiktirafan bersaling akan hak-hak Malaysia di bawah perenggan (a) subseksyen (2)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa bidang kuasa yang diletakhakkan pada Malaysia atau Thailand di bawah seksyen ini berkenaan dengan Kawasan Pembangunan Bersama hanyalah ke atas perkara-perkara dan setakat yang diperuntukkan dalam mana-mana undang-undang yang berhubungan dengan pelantar benua dan sebagaimana yang diiktiraf di bawah undang-undang antarabangsa sahaja."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18__subsec_6__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18__subsec_6__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud seksyen ini—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18__subsec_6__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18__subsec_6__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18__subsec_6__list_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18__subsec_6__list_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18__subsec_6__list_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18__subsec_6"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18__subsec_6__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18__subsec_6__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "\"bidang kuasa sivil dan jenayah\" tidaklah termasuk bidang kuasa ke atas perkara-perkara yang berhubungan dengan kastam dan eksais, dan pencukaian;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18__subsec_6__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18__subsec_6__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bidang kuasa jenayah ke atas sesuatu ke- salahan yang dilakukan di atas platform atau MALAYSIA-THAILAND pepasangan yang mencelapaki garis pembahagi bidang kuasa dan yang dibina bagi maksud- maksud mencarigali dan mengeksploitasikan sumber-sumber alam di dasar laut dan tanih bawah dalam Kawasan Pembangunan Bersama hendaklah dipegang secara eksklusif oleh Malaysia atau Thailand mengikut penetapan platform atau pepasangan itu sebagai kepunyaan Malaysia atau Thailand;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18__subsec_6__list_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18__subsec_6__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pemutusan sama ada sesuatu platform atau pepasangan yang mencelapaki garis pembahagi bidang kuasa dan yang dibina bagi maksud- maksud mencarigali dan mengeksploitasikan sumber-sumber alam di dasar laut dan tanih bawah dalam Kawasan Pembangunan Bersama ialah sebahagian daripada Malaysia atau Thailand berhubungan dengan apa-apa soalan yang hendak diputuskan dalam mana-mana prosiding sivil atau bagi maksud pemegangan atau penjalanan bidang kuasa sivil oleh Malaysia atau Thailand hendaklah mengikut penetapan platform atau pepasangan itu sebagai kepunyaan Malaysia atau Thailand; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18__subsec_6__list_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18__subsec_6__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penetapan sesuatu platform atau pepasangan sebagai kepunyaan Malaysia atau Thailand di bawah perenggan (b) dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18__subsec_6__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18__subsec_6__list_2__para_c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18__subsec_6"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18__subsec_6__list_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~part_X__cl_18__subsec_6__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "hendaklah diputuskan mengikut prinsip tempat letak paling substansial."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "(Seksyen 6) Reproduksi bahagian relevan Carta Admiralti British No. 2414 Edisi 1967 MALAYSIA-THAILAND"
+      }
+    }
+  ]
+}

@@ -44,7 +44,9 @@ dipinda dengan menggantikan tajuk panjang dengan tajuk panjang yang berikut:
 
 <!-- page 3 -->
 
-(c) dengan memasukkan selepas takrif “harta” takrif yang berikut:
+(c) dengan memasukkan selepas takrif “harta” takrif yang
+
+<!-- marginal: berikut: -->
 
 ‘ “harta pencambah” ertinya—
 
@@ -814,7 +816,7 @@ subseksyen (1), (2), (3), (4), (5a) atau (6) melakukan suatu kesalahan dan boleh
 
 45. Akta ibu dipinda dengan memasukkan selepas Bahagian VIa bahagian yang berikut:
 
-“bahagian VIb
+## “BAHAGIAN VIB
 
 ## PENUMPASAN KESALAHAN MEMBIAYAI AKTIVITI TERHAD
 

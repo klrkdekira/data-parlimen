@@ -24,11 +24,29 @@
 
 ## OF ISLAM AND ITS INSTITUTION
 
-7. Insulting, or bringing into contempt, etc. the religion of Islam. 8. Deriding, etc. Quranic verses or Hadith. 9. Contempt or defiance of religious authorities. 10. Defiance of Court order. 11. Religious teaching without tauliah. 12. Opinion contrary to fatwa. 13. Religious publication contrary to Islamic Law. 14. Failure to perform Friday prayers. 15. Disrespect for Ramadhan. 16. Non-payment of zakat or fitrah.
+7. Insulting, or bringing into contempt, etc. the religion of Islam. 8. Deriding, etc. Quranic verses or Hadith. 9. Contempt or defiance of religious authorities.
+
+10. Defiance of Court order.
+
+11. Religious teaching without tauliah.
+
+12. Opinion contrary to fatwa.
+
+13. Religious publication contrary to Islamic Law.
+
+14. Failure to perform Friday prayers.
+
+15. Disrespect for Ramadhan.
+
+16. Non-payment of zakat or fitrah.
 
 <!-- page 2 -->
 
-17. Instigating neglect of religious duty. 18. Gambling. 19. Intoxicating drinks.
+17. Instigating neglect of religious duty.
+
+18. Gambling.
+
+19. Intoxicating drinks.
 
 ## PART
 
@@ -36,21 +54,55 @@ IV
 
 ## OFFENCES RELATING TO DECENCY
 
-20. Incest. 21. Prostitution.
+20. Incest.
 
-22. Muncikari. 23. Sexual intercourse out of wedlock. 24. An act preparatory to sexual intercourse out of wedlock.
+21. Prostitution.
+
+22. Muncikari.
+
+23. Sexual intercourse out of wedlock.
+
+24. An act preparatory to sexual intercourse out of wedlock.
 
 25. Liwat.
 
 26. Musahaqah.
 
-27. Khalwat. 28. Male person posing as woman. 29. Indecent acts in public place.
+27. Khalwat.
+
+28. Male person posing as woman.
+
+29. Indecent acts in public place.
 
 ## PART V
 
 ## MISCELLANEOUS OFFENCES
 
-30. Giving false evidence, information or statement. 31. Takfir. 32. Destroying or defiling mosque, surau, etc. 33. Collection of zakat or fitrah without authority. 34. Illegal payment of zakat or fitrah. 35. Encouraging vice. 36. Enticing a married woman. 37. Preventing married couple from cohabiting. 38. Instigating husband or wife to divorce or to neglect duties. 39. Enticing a female person. 40. Selling or giving away child to non-Muslim. 41. Qazaf. 42. Abuses of halal sign.
+30. Giving false evidence, information or statement.
+
+31. Takfir.
+
+32. Destroying or defiling mosque, surau, etc.
+
+33. Collection of zakat or fitrah without authority.
+
+34. Illegal payment of zakat or fitrah.
+
+35. Encouraging vice.
+
+36. Enticing a married woman.
+
+37. Preventing married couple from cohabiting.
+
+38. Instigating husband or wife to divorce or to neglect duties.
+
+39. Enticing a female person.
+
+40. Selling or giving away child to non-Muslim.
+
+41. Qazaf.
+
+42. Abuses of halal sign.
 
 <!-- page 3 -->
 
@@ -60,21 +112,45 @@ IV
 
 ## ABETMENT AND ATTEMPT
 
-43. Abetment. 44. Abetment in the Federal Territories of offences outside the Federal Territories. 45. Punishment of abetment. 46. Liability of abettor when a different act is done. 47. Attempt.
+43. Abetment.
+
+44. Abetment in the Federal Territories of offences outside the Federal Territories.
+
+45. Punishment of abetment.
+
+46. Liability of abettor when a different act is done.
+
+47. Attempt.
 
 ## PART VII
 
 ## GENERAL EXCEPTIONS
 
-48. Act of Judge when acting judicially. 49. Act done pursuant to the judgment or order of a Court. 50. Act done by a person justified by law. 51. Act of child who is not baligh.
+48. Act of Judge when acting judicially.
 
-52. Act of person of unsound mind. 53. Act which a person is compelled to do by threats.
+49. Act done pursuant to the judgment or order of a Court.
+
+50. Act done by a person justified by law.
+
+51. Act of child who is not baligh.
+
+52. Act of person of unsound mind.
+
+53. Act which a person is compelled to do by threats.
 
 ## PART VIII
 
 ## GENERAL MATTERS
 
-54. Appointment of rehabilitation centre or approved home. 55. Power of Court to commit convicted person to an approved rehabilitation centre. 56. Power of Court to commit female offender to an approved home. 57. Repeal. 58. Amendment of section 164 of the Enactment.
+54. Appointment of rehabilitation centre or approved home.
+
+55. Power of Court to commit convicted person to an approved rehabilitation centre.
+
+56. Power of Court to commit female offender to an approved home.
+
+57. Repeal.
+
+58. Amendment of section 164 of the Enactment.
 
 ## SCHEDULE
 
@@ -130,15 +206,31 @@ into force on such date as the Yang di-Pertuan Agong may, by notification in the
 
 "Court" means the Syariah Subordinate Court, the Syariah High Court, or the Syariah Appeal Court, as the case may be, constituted under section 40 of the Administration Act;
 
-Sel. En. 3/52. "Enactment" means the Administration of Muslim Law Enactment 1952 of the State of Selangor—
+<!-- marginal: Sel. En. 3/52. -->
 
-(a) in relation to the Federal Territory of Kuala Lumpur, as modified by
+"Enactment" means the Administration of Muslim Law Enactment 1952 of the State of Selangor—
 
-<!-- marginal: the Federal -->
+(a) in relation to the Federal Territory of Kuala Lumpur, as modified by the Federal P.U. (A) 44/74. Territory (Modification of Administration of Muslim Law Enactment) Orders 1974, 1981 P.U. (A) 390/81, and 1988 made pursuant to subsection 6(4) P.U. (A) 263/88,
 
-P.U. (A) 44/74. Territory (Modification of Administration of Muslim Law Enactment) Orders 1974, 1981 P.U. (A) 390/81, and 1988 made pursuant to subsection 6(4) P.U. (A) 263/88, Act A206. of the Constitution (Amendment) (No. 2) Act 1973 and in force in the Federal Territory of Kuala Lumpur by virtue of subsection Act A576. 6(1) of that Act and the Administration of Muslim Law (Amendment) Act 1984; and
+<!-- marginal: Act A206. -->
 
-(b) in relation to the Federal Territory of Labuan, as modified and extended by the Federal P.U. (A) 352/85. Territory of Labuan (Modification and Extension of Administration of Muslim Law Enactment) Order 1985 made pursuant to section 7 of the Constitution (Amendment) Act A585. (No. 2) Act 1984;
+of the Constitution (Amendment) (No. 2) Act 1973 and in force in the Federal Territory of Kuala Lumpur by virtue of subsection
+
+<!-- marginal: Act A576. -->
+
+6(1) of that Act and the Administration of Muslim Law (Amendment) Act 1984; and
+
+(b) in relation to the Federal Territory of Labuan, as modified and extended by the Federal
+
+<!-- marginal: P.U. (A) -->
+
+<!-- marginal: 352/85. -->
+
+Territory of Labuan (Modification and Extension of Administration of Muslim Law Enactment) Order 1985 made pursuant to section 7 of the Constitution (Amendment)
+
+<!-- marginal: Act A585. -->
+
+(No. 2) Act 1984;
 
 "fatwa" means any fatwa made under section 34 of the Administration Act;
 
@@ -240,21 +332,59 @@ Islam;
 
 shall be guilty of an offence and shall on conviction be liable to a fine not exceeding three thousand ringgit or to imprisonment for a term not exceeding two years or to both.
 
-Deriding,
+<!-- marginal: Deriding, -->
 
-8. Any person who, by his words or acts, derides, insults, etc. Quranic ridicules or brings into contempt the verses of Al-Quran verses or Hadith. or Hadith shall be guilty of an offence and shall on conviction be liable to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding three years or to both.
+8. Any person who, by his words or acts, derides, insults,
 
-Contempt or
+<!-- marginal: etc. Quranic -->
 
-9. Any person who acts in contempt of religious authority defiance of or defies, disobeys or disputes the orders or directions religious of the Yang di-Pertuan Agong as the Head of the religion authorities. of Islam, the Majlis or the Mufti, expressed or given by way of fatwa, shall be guilty of an offence and shall on conviction be liable to a fine not exceeding three thousand ringgit or to imprisonment for a term not exceeding two years or to both.
+ridicules or brings into contempt the verses of Al-Quran
 
-Defiance of
+<!-- marginal: verses or -->
 
-10. Any person who defies, disobeys, disputes, degrades, Court order. brings into contempt any order of a Judge or Court shall be guilty of an offence and shall on conviction be liable to a fine not exceeding three thousand ringgit or to imprisonment for a term not exceeding two years or to both.
+<!-- marginal: Hadith. -->
 
-Religious
+or Hadith shall be guilty of an offence and shall on conviction be liable to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding three years or to both.
 
-11. (1) Any person who teaches or professes to teach teaching any matter relating to the religion of Islam without a without tauliah granted under section 96 of the Administration tauliah Act shall be guilty of an offence and shall on conviction be liable to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding three years or to both.
+<!-- marginal: Contempt or -->
+
+9. Any person who acts in contempt of religious authority
+
+<!-- marginal: defiance of -->
+
+or defies, disobeys or disputes the orders or directions
+
+<!-- marginal: religious -->
+
+of the Yang di-Pertuan Agong as the Head of the religion
+
+<!-- marginal: authorities. -->
+
+of Islam, the Majlis or the Mufti, expressed or given by way of fatwa, shall be guilty of an offence and shall on conviction be liable to a fine not exceeding three thousand ringgit or to imprisonment for a term not exceeding two years or to both.
+
+<!-- marginal: Defiance of -->
+
+10. Any person who defies, disobeys, disputes, degrades,
+
+<!-- marginal: Court order. -->
+
+brings into contempt any order of a Judge or Court shall be guilty of an offence and shall on conviction be liable to a fine not exceeding three thousand ringgit or to imprisonment for a term not exceeding two years or to both.
+
+<!-- marginal: Religious -->
+
+11. (1) Any person who teaches or professes to teach
+
+<!-- marginal: teaching -->
+
+any matter relating to the religion of Islam without a
+
+<!-- marginal: without -->
+
+tauliah granted under section 96 of the Administration
+
+<!-- marginal: tauliah -->
+
+Act shall be guilty of an offence and shall on conviction be liable to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding three years or to both.
 
 (2) Subsection (1) shall not apply to—
 
@@ -314,7 +444,11 @@ three consecutive weeks without uzur syarie or without any reasonable cause shal
 
 <!-- page 10 -->
 
-(2) All words and expressions used in this Act and Act 388. not herein defined but defined in the Interpretation Acts 1948 and 1967 shall have the meanings thereby assigned to them respectively to the extent that such meanings do not conflict with Islamic Law.
+(2) All words and expressions used in this Act and
+
+<!-- marginal: Act 388. -->
+
+not herein defined but defined in the Interpretation Acts 1948 and 1967 shall have the meanings thereby assigned to them respectively to the extent that such meanings do not conflict with Islamic Law.
 
 (3) For the avoidance of doubt as to the identity or interpretation of the words and expressions used in this Act that are listed in the Schedule, reference may be made to the Arabic script for those words and expressions as shown against them therein.
 
@@ -322,21 +456,37 @@ three consecutive weeks without uzur syarie or without any reasonable cause shal
 
 ## OFFENCES RELATING TO 'AQIDAH
 
-Wrongful
+<!-- marginal: Wrongful -->
 
-3. (1) Any person who worships nature or does any act worship which shows worship or reverence of any person, animal, place or thing in any manner contrary to Islamic Law shall be guilty of an offence and shall on conviction be liable to a fine not exceeding three thousand ringgit or to imprisonment for a term not exceeding two years or to both.
+3. (1) Any person who worships nature or does any act
+
+<!-- marginal: worship -->
+
+which shows worship or reverence of any person, animal, place or thing in any manner contrary to Islamic Law shall be guilty of an offence and shall on conviction be liable to a fine not exceeding three thousand ringgit or to imprisonment for a term not exceeding two years or to both.
 
 (2) The Court may order that any device, object or thing used in the commission of or related to the offence referred to in subsection (1) be forfeited and destroyed, notwithstanding that no person may have been convicted of such offence.
 
-False
+<!-- marginal: False -->
 
-4. (1) Any person who teaches or expounds in any place, doctrine whether private or public, any doctrine or performs any ceremony or act relating to the religion of Islam shall, if such doctrine or ceremony or act is contrary to Islamic Law or any fatwa for the time being in force in the Federal Territories, be guilty of an offence and shall on conviction be liable to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding three years or to whipping not exceeding six strokes or to any combination thereof.
+4. (1) Any person who teaches or expounds in any place,
+
+<!-- marginal: doctrine -->
+
+whether private or public, any doctrine or performs any ceremony or act relating to the religion of Islam shall, if such doctrine or ceremony or act is contrary to Islamic Law or any fatwa for the time being in force in the Federal Territories, be guilty of an offence and shall on conviction be liable to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding three years or to whipping not exceeding six strokes or to any combination thereof.
 
 <!-- page 11 -->
 
 12 Bill
 
-15. Any person who during the hours of fasting in the Disrespect for month of Ramadhan— Ramadhan
+15. Any person who during the hours of fasting in the
+
+<!-- marginal: Disrespect -->
+
+<!-- marginal: for -->
+
+month of Ramadhan—
+
+<!-- marginal: Ramadhan -->
 
 (a) sells to any Muslim any food, drink, cigarette or other form of tobacco for immediate consumption during such hours; or
 
@@ -344,9 +494,13 @@ False
 
 shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one thousand ringgit or to imprisonment for a term not exceeding six months or to both, and for a second or subsequent offence to a fine not exceeding two thousand ringgit or to imprisonment for a term not exceeding one year or to both.
 
-Non-payment
+<!-- marginal: Non-payment -->
 
-16. Any person who, being liable to pay zakat or fitrah— of zakat or fitrah,
+16. Any person who, being liable to pay zakat or fitrah—
+
+<!-- marginal: of zakat or -->
+
+<!-- marginal: fitrah, -->
 
 (a) refuses or wilfully fails to pay the zakat or fitrah; or
 
@@ -354,9 +508,19 @@ Non-payment
 
 shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one thousand ringgit or to imprisonment for a term not exceeding six months or to both.
 
-Instigating
+<!-- marginal: Instigating -->
 
-17. (1) Any person who instigates or induces any Muslim neglect of not to attend mosque or religious teachings or any religious religious duty. ceremony shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one thousand ringgit or to imprisonment for a term not exceeding six months or to both.
+17. (1) Any person who instigates or induces any Muslim
+
+<!-- marginal: neglect of -->
+
+not to attend mosque or religious teachings or any religious
+
+<!-- marginal: religious -->
+
+<!-- marginal: duty. -->
+
+ceremony shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one thousand ringgit or to imprisonment for a term not exceeding six months or to both.
 
 (2) Any person who in any manner prevents another person from paying zakat or fitrah shall be guilty of an offence and shall on conviction be liable to a fine not exceeding two thousand ringgit or to imprisonment for a term not exceeding one year or to both.
 
@@ -406,13 +570,23 @@ IV
 
 shall be guilty of an offence and shall on conviction be liable to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding three years or to whipping not exceeding six strokes or to any combination thereof.
 
-Muncikari.
+<!-- marginal: Muncikari. -->
 
 22. Any person who acts as a muncikari shall be guilty of an offence and shall on conviction be liable to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding three years or to whipping not exceeding six strokes or to any combination thereof.
 
-Sexual
+<!-- marginal: Sexual -->
 
-23. (1) Any man who performs sexual intercourse with intercourse a woman who is not his lawful wife shall be guilty of out of wedlock. an offence and shall on conviction be liable to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding three years or to whipping not exceeding six strokes or to any combination thereof.
+23. (1) Any man who performs sexual intercourse with
+
+<!-- marginal: intercourse -->
+
+a woman who is not his lawful wife shall be guilty of
+
+<!-- marginal: out of -->
+
+<!-- marginal: wedlock. -->
+
+an offence and shall on conviction be liable to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding three years or to whipping not exceeding six strokes or to any combination thereof.
 
 (2) Any woman who performs sexual intercourse with a man who is not her lawful husband shall be guilty of an offence and shall on conviction be liable to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding three years or to whipping not exceeding six strokes or to any combination thereof.
 
@@ -484,21 +658,43 @@ purposes shall be guilty of an offence and shall on conviction be liable to a fi
 
 16 Bill
 
-Indecent acts
+<!-- marginal: Indecent acts -->
 
-29. Any person who, contrary to Islamic Law, acts or in public behaves in an indecent manner in any public place shall place. be guilty of an offence and shall on conviction be liable to a fine not exceeding one thousand ringgit or to imprisonment for a term not exceeding six months or to both.
+29. Any person who, contrary to Islamic Law, acts or
+
+<!-- marginal: in public -->
+
+behaves in an indecent manner in any public place shall
+
+<!-- marginal: place. -->
+
+be guilty of an offence and shall on conviction be liable to a fine not exceeding one thousand ringgit or to imprisonment for a term not exceeding six months or to both.
 
 ## PART V
 
 ## MISCELLANEOUS OFFENCES
 
-Giving false
+<!-- marginal: Giving false -->
 
-30. (1) Any person who gives false evidence or fabricates evidence. evidence for the purpose of being used in any stage information or of a judicial proceedings in the Court shall be guilty of statement. an offence and shall on conviction be liable to a fine not exceeding three thousand ringgit or to imprisonment for a term not exceeding two years or to both.
+30. (1) Any person who gives false evidence or fabricates
+
+<!-- marginal: evidence. -->
+
+evidence for the purpose of being used in any stage
+
+<!-- marginal: information -->
+
+<!-- marginal: or -->
+
+of a judicial proceedings in the Court shall be guilty of
+
+<!-- marginal: statement. -->
+
+an offence and shall on conviction be liable to a fine not exceeding three thousand ringgit or to imprisonment for a term not exceeding two years or to both.
 
 (2) Any person who knowing or having reason to believe that an offence has been committed under this Act or under any other written law relating to the religion of Islam, gives any information relating to such offence which he knows or believes to be false shall be guilty of an offence and shall on conviction be liable to a fine not exceeding three thousand ringgit or to imprisonment for a term not exceeding two years or to both.
 
-Takfir.
+<!-- marginal: Takfir. -->
 
 31. (1) Subject to subsection (2), any person who alleges or imputes by words, either spoken or written, or by sign or visible representation, or by any act, activity or conduct, or by organising, promoting or arranging any activity or otherwise in any manner, that any person professing the religion of Islam or person belonging to any group, class or description of persons professing the religion of Islam—
 
@@ -558,29 +754,89 @@ shall be guilty of an offence and shall on conviction be liable to a fine not ex
 
 <!-- page 17 -->
 
-Illegal
+<!-- marginal: Illegal -->
 
-34. Any person who pays or causes to be paid payment payment of of zakat or fitrah to any person not lawfully authorized zakat or to collect zakat or fitrah shall be guilty of an offence fitrah. and shall on conviction be liable to a fine not exceeding one thousand ringgit or to imprisonment for a term not exceeding six months or to both.
+34. Any person who pays or causes to be paid payment
 
-Encouraging
+<!-- marginal: payment of -->
 
-35. Any person who promotes, induces or encourages vice another person to indulge in any vice shall be guilty of an offence and shall on conviction be liable to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding three years or to both.
+of zakat or fitrah to any person not lawfully authorized
 
-Enticing a
+<!-- marginal: zakat or -->
 
-36. Any person who entices a married woman or takes married her away from or in any manner influences her to leave woman. the matrimonial home determined by her husband shall be guilty of an offence and shall on conviction be liable to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding three years or to both, and the Court shall order the said woman to return to her husband.
+to collect zakat or fitrah shall be guilty of an offence
 
-Preventing
+<!-- marginal: fitrah. -->
 
-37. Any person who prevents a married couple from married cohabiting as a legally married couple shall be guilty of couple from cohabiting. an offence and shall on conviction be liable to a fine not exceeding two thousand ringgit or to imprisonment for a term not exceeding one year or to both, and the Court shall order the couple to cohabit as a legally married couple.
+and shall on conviction be liable to a fine not exceeding one thousand ringgit or to imprisonment for a term not exceeding six months or to both.
 
-Instigating
+<!-- marginal: Encouraging -->
 
-38. Any person who instigates, forces or persuades any husband or man or woman to be divorced or to neglect his or her wife to divorce or to duties and responsibilities as a husband or a wife shall neglect be guilty of an offence and shall on conviction be liable duties. to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding three years or to both.
+35. Any person who promotes, induces or encourages
 
-Enticing a
+<!-- marginal: vice -->
 
-39. Any person who entices or induces or persuades female any female person to run away from the custody of her person. parents or guardian shall be guilty of an offence and shall on conviction be liable to a fine not exceeding
+another person to indulge in any vice shall be guilty of an offence and shall on conviction be liable to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding three years or to both.
+
+<!-- marginal: Enticing a -->
+
+36. Any person who entices a married woman or takes
+
+<!-- marginal: married -->
+
+her away from or in any manner influences her to leave
+
+<!-- marginal: woman. -->
+
+the matrimonial home determined by her husband shall be guilty of an offence and shall on conviction be liable to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding three years or to both, and the Court shall order the said woman to return to her husband.
+
+<!-- marginal: Preventing -->
+
+37. Any person who prevents a married couple from
+
+<!-- marginal: married -->
+
+cohabiting as a legally married couple shall be guilty of
+
+<!-- marginal: couple from -->
+
+<!-- marginal: cohabiting. -->
+
+an offence and shall on conviction be liable to a fine not exceeding two thousand ringgit or to imprisonment for a term not exceeding one year or to both, and the Court shall order the couple to cohabit as a legally married couple.
+
+<!-- marginal: Instigating -->
+
+38. Any person who instigates, forces or persuades any
+
+<!-- marginal: husband or -->
+
+man or woman to be divorced or to neglect his or her
+
+<!-- marginal: wife to -->
+
+<!-- marginal: divorce or to -->
+
+duties and responsibilities as a husband or a wife shall
+
+<!-- marginal: neglect -->
+
+be guilty of an offence and shall on conviction be liable
+
+<!-- marginal: duties. -->
+
+to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding three years or to both.
+
+<!-- marginal: Enticing a -->
+
+39. Any person who entices or induces or persuades
+
+<!-- marginal: female -->
+
+any female person to run away from the custody of her
+
+<!-- marginal: person. -->
+
+parents or guardian shall be guilty of an offence and shall on conviction be liable to a fine not exceeding
 
 <!-- page 18 -->
 
@@ -636,23 +892,57 @@ Explanation 1—A person who, by wilful misrepresentation, or by wilful concealm
 
 Explanation 2—Any person, either prior to or at the time of the commission of an act, does anything in order to facilitate the commission of that act, and thereby facilitates the commission thereof, is said to aid the doing of that act.
 
-Abetment in
+<!-- marginal: Abetment in -->
 
-44. A person abets an offence within the meaning of the Federal this Act who, in the Federal Territories, abets the Territories of offences commission of an act outside the Federal Territories which outside the would constitute an offence if committed in the Federal Federal Territories. Territories.
+44. A person abets an offence within the meaning of
 
-Punishment
+<!-- marginal: the Federal -->
 
-45. Any person who abets any offence shall, if the act of abetment abetted is committed in consequence of the abetment, be punished with the punishment provided for the offence.
+this Act who, in the Federal Territories, abets the
 
-Liability of
+<!-- marginal: Territories -->
 
-46. Where an act is abetted and a different act is done, abettor when the abettor is liable for the act done in the same manner a different act is done. and to the same extent as if he had abetted the act done if the act done—
+<!-- marginal: of offences -->
+
+commission of an act outside the Federal Territories which
+
+<!-- marginal: outside the -->
+
+would constitute an offence if committed in the Federal
+
+<!-- marginal: Federal -->
+
+<!-- marginal: Territories. -->
+
+Territories.
+
+<!-- marginal: Punishment -->
+
+45. Any person who abets any offence shall, if the act
+
+<!-- marginal: of abetment -->
+
+abetted is committed in consequence of the abetment, be punished with the punishment provided for the offence.
+
+<!-- marginal: Liability of -->
+
+46. Where an act is abetted and a different act is done,
+
+<!-- marginal: abettor when -->
+
+the abettor is liable for the act done in the same manner
+
+<!-- marginal: a different -->
+
+<!-- marginal: act is done. -->
+
+and to the same extent as if he had abetted the act done if the act done—
 
 (a) was a probable consequence of the abetment; and
 
 (b) was committed under the influence of the instigation, or with the aid or in pursuance of the conspiracy which constituted the abetment.
 
-Attempt.
+<!-- marginal: Attempt. -->
 
 47. Any person who attempts—
 
@@ -752,9 +1042,23 @@ he shall be deemed to be a person of unsound mind.
 
 (3) In this section, "intoxication" shall be deemed to include a state produced by drugs.
 
-Act which
+<!-- marginal: Act which -->
 
-53. (1) Nothing is an offence which is done by a person a person is who is compelled to do it by threats, which at the time compelled to do by of doing it reasonably caused the apprehension that instant threats. death to the person will otherwise be the consequence.
+53. (1) Nothing is an offence which is done by a person
+
+<!-- marginal: a person is -->
+
+who is compelled to do it by threats, which at the time
+
+<!-- marginal: compelled -->
+
+<!-- marginal: to do by -->
+
+of doing it reasonably caused the apprehension that instant
+
+<!-- marginal: threats. -->
+
+death to the person will otherwise be the consequence.
 
 (2) The exception under subsection (1) shall not apply if the person doing the act placed himself, of his own accord, in the situation by which he became subject to such constraint.
 
@@ -762,13 +1066,51 @@ Act which
 
 ## GENERAL MATTERS
 
-Appointment
+<!-- marginal: Appointment -->
 
-54. The Majlis may, by notification in the Gazette, appoint of rehabili- any place or institution to be an approved rehabilitation tation centre or approved centre or an approved home for the purposes of this home. Act.
+54. The Majlis may, by notification in the Gazette, appoint
 
-Power of
+<!-- marginal: of rehabili- -->
 
-55. (1) Where the Court has convicted any person of Court to an offence under Part II or under section 7, 8, 9 or 31, commit such Court may, in lieu of or in addition to any punishment convicted person to an specified for such offence, order any such person to be approved committed to an approved rehabilitation centre to undergo rehabilitation centre such counselling or rehabilitation for any period not exceeding six months as may be specified in the order; but where any sentence of imprisonment is imposed together with the counselling or rehabilitation the period thereof shall not in the aggregate exceed three years.
+any place or institution to be an approved rehabilitation
+
+<!-- marginal: tation centre -->
+
+<!-- marginal: or approved -->
+
+centre or an approved home for the purposes of this
+
+<!-- marginal: home. -->
+
+Act.
+
+<!-- marginal: Power of -->
+
+55. (1) Where the Court has convicted any person of
+
+<!-- marginal: Court to -->
+
+an offence under Part II or under section 7, 8, 9 or 31,
+
+<!-- marginal: commit -->
+
+such Court may, in lieu of or in addition to any punishment
+
+<!-- marginal: convicted -->
+
+<!-- marginal: person to an -->
+
+specified for such offence, order any such person to be
+
+<!-- marginal: approved -->
+
+committed to an approved rehabilitation centre to undergo
+
+<!-- marginal: rehabilitation -->
+
+<!-- marginal: centre -->
+
+such counselling or rehabilitation for any period not exceeding six months as may be specified in the order; but where any sentence of imprisonment is imposed together with the counselling or rehabilitation the period thereof shall not in the aggregate exceed three years.
 
 <!-- page 22 -->
 

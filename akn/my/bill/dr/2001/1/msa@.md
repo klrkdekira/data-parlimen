@@ -60,7 +60,9 @@ Pindaan Bahsgian III
 
 ## "KETUA PENGARAH"
 
-dengan perkataan
+dengan
+
+<!-- marginal: perkataan -->
 
 ## "SURUHANJAYA".
 
@@ -84,9 +86,7 @@ dengan perkataan
 
 ### Seksyen baru 4A
 
-8. Akta ibu dipinda dengan memasukkan selepas tajuk "KUASA UNTUK MASUK, MENYIASAT DAN MENDAKWA" kepada
-
-## Bahagian IV seksyen yang berikut:
+8. Akta ibu dipinda dengan memasukkan selepas tajuk "KUASA UNTUK MASUK, MENYIASAT DAN MENDAKWA" kepada Bahagian IV seksyen yang berikut:
 
 Pegawai 4A. Menteri boleh secara bertulis memberi kuasa mana- diben mana pegawai awam atau pegawai Suruhanjaya untuk kuasa. menjalankan kuasa penguatkuasaan di bawah Akta ini.".
 
@@ -228,9 +228,7 @@ dengan memungut daripada orang yang secara munasabah disyaki telah melakukan kes
 
 ### Peralihan dan kecualian
 
-27. (1) Apabila Akta ini mula berkuat kuasa, sebutan tentang Ketua Pengarah Bekalan Gas, Pengarah Bekalan Gas atau pegawai diberi kuasa dalam mana-mana undang-undang bertulis, termasuk mana-mana perundangan subsidiari, atau dalam mana-mana dokumen, pendaftaran, kelulusan, perakuan, arahan, perintah, garis panduan, pemberitahuan atau dokumen lain yang dibuat, dikeluarkan atau diberikan sebelum permulaan kuat kuasa Akta ini hendaklah ditafsirkan sebagaimana yang diperuntukkan dalam subseksyen
-
-(2), (3), (4) dan (5).
+27. (1) Apabila Akta ini mula berkuat kuasa, sebutan tentang Ketua Pengarah Bekalan Gas, Pengarah Bekalan Gas atau pegawai diberi kuasa dalam mana-mana undang-undang bertulis, termasuk mana-mana perundangan subsidiari, atau dalam mana-mana dokumen, pendaftaran, kelulusan, perakuan, arahan, perintah, garis panduan, pemberitahuan atau dokumen lain yang dibuat, dikeluarkan atau diberikan sebelum permulaan kuat kuasa Akta ini hendaklah ditafsirkan sebagaimana yang diperuntukkan dalam subseksyen (2), (3), (4) dan (5).
 
 (2) Sebutan tentang Ketua Pengarah Bekalan Gas atau Pengarah Bekalan Gas berhubung dengan fungsi Ketua Pengarah atau Pengarah itu yang apabila Akta ini mula berkuat kuasa menjadi fungsi Suruhanjaya hendaklah ditafsirkan sebagai sebutan tentang Suruhanjaya.
 

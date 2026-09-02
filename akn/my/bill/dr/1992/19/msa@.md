@@ -12,31 +12,11 @@
 
 ## SUSUNAN FASAL
 
-1. Nama, pemakaian dan mula berkuatkuasa.
+1. Nama, pemakaian dan mula berkuatkuasa. 2. Tafsiran. 3. Kuasa Menteri untuk mengeluarkan arahan. 4. Kehendak bagi mendapatkan lesen. 5. Permohonan bagi mendapatkan lesen. 6. Kuasa untuk menghendaki maklumat. 7. Tempoh lesen. 8. Lesen hendaklah dipamerkan. 9. Lesen tidak boleh diperbaharui sebagai suatu hak.
 
-2. Tafsiran.
+10. Jaminan. 11. Pembatalan lesen.
 
-3. Kuasa Menteri untuk mengeluarkan arahan.
-
-4. Kehendak bagi mendapatkan lesen.
-
-5. Permohonan bagi mendapatkan lesen.
-
-6. Kuasa untuk menghendaki maklumat.
-
-7. Tempoh lesen.
-
-8. Lesen hendaklah dipamerkan.
-
-9. Lesen tidak boleh diperbaharui sebagai suatu hak.
-
-10. Jaminan.
-
-11. Pembatalan lesen.
-
-12. Rayuan.
-
-13. Larangan menjual, dsb., tiket bagi sesuatu hiburan dan mengiklankan atau menyerantakannya sebelum mendapat lesen.
+12. Rayuan. 13. Larangan menjual, dsb., tiket bagi sesuatu hiburan dan mengiklankan atau menyerantakannya sebelum mendapat lesen.
 
 14. Sekatan ke atas penjualan tiket tanpa kebenaran.
 
@@ -61,6 +41,8 @@
 <!-- page 2 -->
 
 ## RANG UNDANG-UNDANG
+
+<!-- marginal: Fasal -->
 
 24. Benda-benda yang disita yang berkenaan dengannya tiada pendakwaan disifatkan telah terlucuthak jika tidak dituntut dalam masa satu bulan.
 
@@ -164,9 +146,19 @@ tempat hiburan melainkan Dato Bandar telah memberi—
 
 (2) Mana-mana orang yang melanggar seksyen ini adalah bersalah melakukan suatu kesalahan dan, apabila disabitkan, boleh dikenakan denda tidak melebihi dua puluh ribu ringgit atau penjara selama tempoh tidak melebihi lima tahun atau kedua-duanya.
 
-Permohonan
+<!-- marginal: Permohonan -->
 
-5. (1) Sesuatu permohonan bagi mendapatkan sesuatu bagi lesen di bawah seksyen 4(1) hendaklah dibuat dalam mendapatkan lesen. borang yang ditetapkan dan hendaklah dikemukakan kepada Dato Bandar.
+5. (1) Sesuatu permohonan bagi mendapatkan sesuatu
+
+<!-- marginal: bagi -->
+
+lesen di bawah seksyen 4(1) hendaklah dibuat dalam
+
+<!-- marginal: mendapatkan -->
+
+<!-- marginal: lesen. -->
+
+borang yang ditetapkan dan hendaklah dikemukakan kepada Dato Bandar.
 
 (2) Dato Bandar boleh, mengikut budi bicaranya, memberikan lesen dengan atau tanpa mengenakan apa- apa syarat kepadanya atau enggan memberikan lesen tersebut.
 
@@ -176,9 +168,25 @@ Permohonan
 
 (5) Dato Bandar hendaklah membayar masuk semua wang yang dikutip di bawah seksyen ini ke dalam kumpulan wang yang ditubuhkan di bawah mana-mana undang-undang berhubungan dengan kerajaan tempatan.
 
-6. (1) Bagi maksud menimbangkan sesuatu per- Kuasa untuk menghendaki mohonan bagi mendapatkan lesen hiburan, Dato Bandar maklumat boleh menghendaki pemohon memberinya skrip, jika ada, dan apa-apa maklumat yang dinyatakannya yang berhubungan dengan perkara-perkara yang berikut:
+6. (1) Bagi maksud menimbangkan sesuatu per-
 
-(a) butir-butir mengenai orang-orang yang terlibat dalam penganjuran hiburan itu atau kepentingan-kepentingan yang diwakili oleh orang-orang itu;
+<!-- marginal: Kuasa untuk -->
+
+<!-- marginal: menghendaki -->
+
+mohonan bagi mendapatkan lesen hiburan, Dato Bandar
+
+<!-- marginal: maklumat -->
+
+boleh menghendaki pemohon memberinya skrip, jika ada, dan apa-apa maklumat yang dinyatakannya yang berhubungan dengan perkara-perkara yang berikut:
+
+(a) butir-butir mengenai orang-orang yang terlibat dalam penganjuran hiburan
+
+<!-- marginal: itu -->
+
+<!-- marginal: atau -->
+
+kepentingan-kepentingan yang diwakili oleh orang-orang itu;
 
 <!-- page 6 -->
 
@@ -192,7 +200,11 @@ Permohonan
 
 (2) Bagi maksud seksyen ini, ungkapan "skrip" berhubungan dengan persembahan sesuatu lakon, ertinya teks lakon itu (sama ada yang dinyatakan dengan perkataan atau simbol muzik atau simbol lain) berserta dengan apa-apa arahan pentas atau arahan lain bagi persembahannya, sama ada terkandung dalam satu dokumen tunggal atau tidak.
 
-(3) Bagi maksud untuk menimbang sesuatu permohonan bagi mendapatkan lesen untuk membuka tempat hiburan, Dato Bandar boleh menghendaki pemohon membekalkan kepadanya apa-apa maklumat tambahan sebagaimana yang dikehendakinya.
+(3) Bagi maksud untuk menimbang
+
+<!-- marginal: sesuatu -->
+
+permohonan bagi mendapatkan lesen untuk membuka tempat hiburan, Dato Bandar boleh menghendaki pemohon membekalkan kepadanya apa-apa maklumat tambahan sebagaimana yang dikehendakinya.
 
 7. Sesuatu lesen yang dikeluarkan di bawah Akta ini
 
@@ -248,9 +260,13 @@ Dengan syarat bahawa tiada apa-apa jua dalam seksyen ini boleh ditafsirkan sebag
 
 (3) Dato Bandar hendaklah membayar masuk semua jaminan yang dilucuthakkan di bawah seksyen ini ke dalam kumpulan wang yang ditubuhkan di bawah mana- mana undang-undang berhubungan dengan kerajaan tempatan.
 
-Pembatalan
+<!-- marginal: Pembatalan -->
 
-11. (1) Dato Bandar boleh pada bila-bila masa lesen. membatalkan sesuatu lesen hiburan atau lesen untuk membuka tempat hiburan atau kedua-duanya jika telah berlaku pelanggaran syarat-syarat atau sekatan-sekatan lesen atau lesen-lesen atau pelanggaran mana-mana peruntukan Akta ini atau mana-mana kaedah yang dibuat di bawahnya.
+11. (1) Dato Bandar boleh pada bila-bila masa
+
+<!-- marginal: lesen. -->
+
+membatalkan sesuatu lesen hiburan atau lesen untuk membuka tempat hiburan atau kedua-duanya jika telah berlaku pelanggaran syarat-syarat atau sekatan-sekatan lesen atau lesen-lesen atau pelanggaran mana-mana peruntukan Akta ini atau mana-mana kaedah yang dibuat di bawahnya.
 
 (2) Penyampaian sesuatu notis pembatalan sesuatu lesen hendaklah dibuat dengan—
 
@@ -320,15 +336,39 @@ melainkan jika suatu lesen telah diberikan di bawah seksyen 4 berkenaan dengan h
 
 ## RANG UNDANG-UNDANG
 
-14. (1) Tiada seorang pun boleh menjual, atau Sekatan ke atas pen- menawarkan atau mempamerkan atau ada dalam jualan tiket miliknya untuk dijual, atau memujuk-rayu supaya dibeli, tanpa kebenaran. apa-apa tiket yang membenarkan atau berupa sebagai membenarkan kemasukan ke mana-mana tempat hiburan di mana-mana jalan lalu awam, atau di ruang masuk atau jalan masuk ke mana-mana tempat itu, kecuali di pejabat penjualan tiket, warung, pintu putar atau kaunter yang ditetapkan oleh tuan punya atau pengurus tempat itu atau oleh pengelola hiburan yang diadakan di dalamnya.
+14. (1) Tiada seorang pun boleh menjual, atau
+
+<!-- marginal: Sekatan -->
+
+<!-- marginal: ke atas pen- -->
+
+menawarkan atau mempamerkan atau ada dalam
+
+<!-- marginal: jualan tiket -->
+
+miliknya untuk dijual, atau memujuk-rayu supaya dibeli,
+
+<!-- marginal: tanpa -->
+
+<!-- marginal: kebenaran. -->
+
+apa-apa tiket yang membenarkan atau berupa sebagai membenarkan kemasukan ke mana-mana tempat hiburan di mana-mana jalan lalu awam, atau di ruang masuk atau jalan masuk ke mana-mana tempat itu, kecuali di pejabat penjualan tiket, warung, pintu putar atau kaunter yang ditetapkan oleh tuan punya atau pengurus tempat itu atau oleh pengelola hiburan yang diadakan di dalamnya.
 
 (2) Mana-mana orang yang melanggar seksyen ini adalah bersalah melakukan suatu kesalahan dan, apabila disabitkan, boleh dikenakan denda tidak melebihi lima ribu ringgit atau penjara selama tempoh tidak melebihi dua tahun atau kedua-duanya.
 
 Pengecualian. 15. Dato Bandar boleh, mengikut budi bicaranya, mengecualikan mana-mana hiburan atau kelas hiburan atau tempat-ternpat hiburan atau kelas tempat-tempat hiburan yang dicadangkan secara eksklusif bagi maksud keagamaan. pendidikan, rekreasi, sosial, kebajikan atau khairat, dan bukan untuk maksud kepentingan kewangan daripada mana-mana peruntukan Akta ini.
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-16. Dato Bandar, mana-mana pegawai polis yang masuk dan berpangkat tidak rendah daripada Inspektor, atau mana- menyiasat. mana orang diberikuasa boleh, tanpa waran, memasuki mana-mana tempat hiburan di mana apa-apa hiburan sedang diadakan atau dicadangkan hendak diadakan dengan tujuan untuk menentukan sama ada syarat-syarat atau sekatan-sekatan apa-apa lesen yang diberikan di bawah Akta ini atau peruntukan-peruntukan Akta ini atau mana-mana kaedah yang dibuat di bawahnya dipatuhi, dan boleh membuat apa-apa penyiasatan dan pemeriksaan tempat hiburan itu dan meminta mana- mana orang mengemukakan barang-barang, buku-buku, akaun-akaun, tiket-tiket atau dokumen-dokumen atau benda-benda lain dan memberikan apa-apa maklumat
+16. Dato Bandar, mana-mana pegawai polis yang
+
+<!-- marginal: masuk dan -->
+
+berpangkat tidak rendah daripada Inspektor, atau mana-
+
+<!-- marginal: menyiasat. -->
+
+mana orang diberikuasa boleh, tanpa waran, memasuki mana-mana tempat hiburan di mana apa-apa hiburan sedang diadakan atau dicadangkan hendak diadakan dengan tujuan untuk menentukan sama ada syarat-syarat atau sekatan-sekatan apa-apa lesen yang diberikan di bawah Akta ini atau peruntukan-peruntukan Akta ini atau mana-mana kaedah yang dibuat di bawahnya dipatuhi, dan boleh membuat apa-apa penyiasatan dan pemeriksaan tempat hiburan itu dan meminta mana- mana orang mengemukakan barang-barang, buku-buku, akaun-akaun, tiket-tiket atau dokumen-dokumen atau benda-benda lain dan memberikan apa-apa maklumat
 
 <!-- page 10 -->
 
@@ -388,15 +428,23 @@ terhadap Akta ini atau mana-mana kaedah yang dibuat di bawahnya; atau
 
 (2) Mana-mana orang yang ditangkap di bawah seksyen ini hendaklah dibawa ke balai polis dan hendakiah dibawa ke hadapan mahkamah dalam masa dua puluh empat jam kecuali, berkenaan dengan seseorang yang ditangkap di bawah subseksyen (1) (b), jika nama dan alamatnya dipastikan sebelum itu dan. sesudah itu dia hendaklah dibebaskan atas jaminan.
 
-Penggele-
+<!-- marginal: Penggele- -->
 
-20. Dato Bandar, mana-mana pegawai polis yang dahan. berpangkat tidak rendah daripada Inspektor, atau mana- mana orang diberikuasa yang menjalankan kuasa-kuasa masuk dan menyiasal di bawah seksyen 16 boleh, jika dia mempunyai alasan-alasan baik bagi mempercayai bahawa oleh sebab apa-apa keiengahan untuk mendapatkan waran geledah tujuan penggeledahan itu mungkin akan terkecewa, dengan atau tanpa bantuan memasuki mana-mana tempat hiburan jika dia ada alasan munasabah bagi mempercayai bahawa suatu kesalahan di bawah Akta ini atau mana-mana kaedah yang dibuat di bawahnya telah dilakukan dan dia boleh menggeledah mana-mana tempat dan memeriksa mana- mana orang yang semunasabahnya dipercayai olehnya ada kaitan dalam pengurusan atau penganjuran apa-apa hiburan atau ialah seorang pengkhidmat atau ejen penganjur itu atau pemunya tempat itu:
+20. Dato Bandar, mana-mana pegawai polis yang
+
+<!-- marginal: dahan. -->
+
+berpangkat tidak rendah daripada Inspektor, atau mana- mana orang diberikuasa yang menjalankan kuasa-kuasa masuk dan menyiasal di bawah seksyen 16 boleh, jika dia mempunyai alasan-alasan baik bagi mempercayai bahawa oleh sebab apa-apa keiengahan untuk mendapatkan waran geledah tujuan penggeledahan itu mungkin akan terkecewa, dengan atau tanpa bantuan memasuki mana-mana tempat hiburan jika dia ada alasan munasabah bagi mempercayai bahawa suatu kesalahan di bawah Akta ini atau mana-mana kaedah yang dibuat di bawahnya telah dilakukan dan dia boleh menggeledah mana-mana tempat dan memeriksa mana- mana orang yang semunasabahnya dipercayai olehnya ada kaitan dalam pengurusan atau penganjuran apa-apa hiburan atau ialah seorang pengkhidmat atau ejen penganjur itu atau pemunya tempat itu:
 
 Dengan syarat bahawa tiada perempuan boleh diperiksa kecuali oleh seorang perempuan.
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-21. (1) Dato Bandar, mana-mana pegawai polis yang menyita. berpangkat tidak rendah daripada Inspektor, atau mana- mana orang diberikuasa yang menjalankan kuasa-kuasa masuk dan menyiasat di bawah seksyen 16 boleh
+21. (1) Dato Bandar, mana-mana pegawai polis yang
+
+<!-- marginal: menyita. -->
+
+berpangkat tidak rendah daripada Inspektor, atau mana- mana orang diberikuasa yang menjalankan kuasa-kuasa masuk dan menyiasat di bawah seksyen 16 boleh
 
 <!-- page 12 -->
 
@@ -464,15 +512,67 @@ dibuktikan sehingga ia berpuas hati bahawa suatu kesalahan terhadap mana-mana pe
 
 ## RANG UNDANG-UNDANG
 
-24. (1) Jika tiada pendakwaan berkenaan dengan apa- Benda-benda yang disita apa benda yang telah disita di bawah Akta ini, benda- yang benda itu hendaklah diambil dan disifatkan telah berkenaan dengannya terlucuthak apabila tamat tempoh satu bulan kalender tiada pen- dari tarikh penyitaannya melainkan jika suatu tuntutan dakwaan disifatkan telah dibuat baginya sebelum tarikh tersebut mengikut telah ter- cara yang dinyatakan kemudian daripada ini. lucuthak jika tidak dituntut
+24. (1) Jika tiada pendakwaan berkenaan dengan apa-
 
-(2) Mana-mana orang yang menuntut bahawa dialah dalam masa pemunya apa-apa jua yang disita di bawah Akta dan satu bulan. bahawa apa-apa jua yang disita itu tidak boleh dilucuthakkan bolehlah, sama ada sendiri atau melalui ejennya yang diberikuasa secara bertulis, memberikan notis kepada Dato Bandar bahawa dia menuntut apa-apa yang disita itu.
+<!-- marginal: Benda-benda -->
+
+<!-- marginal: yang disita -->
+
+apa benda yang telah disita di bawah Akta ini, benda-
+
+<!-- marginal: yang -->
+
+benda itu hendaklah diambil dan disifatkan telah
+
+<!-- marginal: berkenaan -->
+
+<!-- marginal: dengannya -->
+
+terlucuthak apabila tamat tempoh satu bulan kalender
+
+<!-- marginal: tiada pen- -->
+
+dari tarikh penyitaannya melainkan jika suatu tuntutan
+
+<!-- marginal: dakwaan -->
+
+<!-- marginal: disifatkan -->
+
+telah dibuat baginya sebelum tarikh tersebut mengikut
+
+<!-- marginal: telah ter- -->
+
+cara yang dinyatakan kemudian daripada ini.
+
+<!-- marginal: lucuthak -->
+
+<!-- marginal: jika tidak -->
+
+<!-- marginal: dituntut -->
+
+(2) Mana-mana orang yang menuntut bahawa dialah
+
+<!-- marginal: dalam masa -->
+
+pemunya apa-apa jua yang disita di bawah Akta dan
+
+<!-- marginal: satu bulan. -->
+
+bahawa apa-apa jua yang disita itu tidak boleh dilucuthakkan bolehlah, sama ada sendiri atau melalui ejennya yang diberikuasa secara bertulis, memberikan notis kepada Dato Bandar bahawa dia menuntut apa-apa yang disita itu.
 
 (3) Apabila Dato Bandar menerima notis di bawah subseksyen (2), dia boleh mengarahkan supaya benda- benda itu dilepaskan atau supaya perkara itu dirujukkan kepada seorang Majistret.
 
-(4) Majistret hendaklah mengeluarkan saman menghendaki orang yang menuntut bahawa dialah pemunya benda-benda yang disita dan orang yang daripadanya benda-benda itu disita hadir di hadapannya, dan apabila mereka hadir atau ingkar hadir, setelah dibuktikan bahawa saman telah disampaikan dengan sewajarnya, Majistret hendaklah terus memeriksa perkara itu dan apabila terbukti sesuatu kesalahan telah dilakukan terhadap Akta ini atau mana-mana kaedah yang dibuat di bawahnya dan bahawa benda-benda itu ialah hal perkara atau telah digunakan untuk melakukan kesalahan itu, hendaklah mengarahkan supaya benda- benda itu dilucuthakkan atau, jika tiada bukti sedemikian, hendaklah mengarahkan supaya ia dilepaskan.
+(4) Majistret hendaklah mengeluarkan
 
-Halangan.
+<!-- marginal: saman -->
+
+menghendaki orang yang menuntut bahawa dialah pemunya benda-benda yang disita dan orang yang daripadanya benda-benda itu disita hadir di hadapannya, dan apabila mereka hadir atau ingkar hadir, setelah dibuktikan bahawa saman telah disampaikan dengan sewajarnya, Majistret hendaklah terus memeriksa perkara itu dan apabila terbukti sesuatu kesalahan telah dilakukan terhadap Akta ini atau mana-mana kaedah yang dibuat di bawahnya dan bahawa benda-benda itu ialah hal perkara atau telah digunakan untuk melakukan kesalahan itu, hendaklah mengarahkan supaya benda- benda itu dilucuthakkan atau, jika tiada bukti sedemikian, hendaklah mengarahkan supaya
+
+<!-- marginal: ia -->
+
+dilepaskan.
+
+<!-- marginal: Halangan. -->
 
 25. Mana-mana orang yang—
 
@@ -512,13 +612,33 @@ diperbadankan atau tidak diperbadankan, maka mana- mana orang yang pada masa kes
 
 Dengan syarat bahawa tiada apa-apa jua dalam seksyen ini boleh melepaskan pekongsi, ejen atau pengkhidmat itu daripada dikenakan pendakwaan.
 
-Penjalanan
+<!-- marginal: Penjalanan -->
 
-27. Pendakwaan berkenaan dengan kesalahan-kesalahan pendakwaan yang dilakukan di bawah Akta ini atau mana-mana di mahkamah. kaedah yang dibuat di bawahnya boleh dijalankan oleh mana-mana orang diberikuasa atau mana-mana pegawai polis yang berpangkat tidak rendah daripada Inspektor.
+27. Pendakwaan berkenaan dengan kesalahan-kesalahan
 
-### Pengkom-
+<!-- marginal: pendakwaan -->
 
-28. (1) Dato Bandar boleh mengkompaunkan mana- paunan mana kesalahan terhadap Akta ini dan mana-mana kesalahan- kaedah yang dibuat di bawahnya yang ditetapkan kesalahan. sebagai kesalahan yang boleh dikompaunkan dengan menerima sejumlah wang yang tidak melebihi lima puluh peratus daripada denda maksimum yang dengannya kesalahan itu boleh dihukum daripada orang yang semunasabahnya disyaki telah melakukan kesalahan itu.
+yang dilakukan di bawah Akta ini atau mana-mana
+
+<!-- marginal: di mahkamah. -->
+
+kaedah yang dibuat di bawahnya boleh dijalankan oleh mana-mana orang diberikuasa atau mana-mana pegawai polis yang berpangkat tidak rendah daripada Inspektor.
+
+<!-- marginal: Pengkom- -->
+
+28. (1) Dato Bandar boleh mengkompaunkan mana-
+
+<!-- marginal: paunan -->
+
+mana kesalahan terhadap Akta ini dan mana-mana
+
+<!-- marginal: kesalahan- -->
+
+kaedah yang dibuat di bawahnya yang ditetapkan
+
+<!-- marginal: kesalahan. -->
+
+sebagai kesalahan yang boleh dikompaunkan dengan menerima sejumlah wang yang tidak melebihi lima puluh peratus daripada denda maksimum yang dengannya kesalahan itu boleh dihukum daripada orang yang semunasabahnya disyaki telah melakukan kesalahan itu.
 
 (2) Apabila bayaran di bawah subseksyen (1) diterima, tiada prosiding selanjutnya boleh diambil terhadap orang itu berkenaan dengan kesalahan itu dan apa-apa jua yang disita berkaitan dengan kesalahan itu hendaklah dilepaskan, tertakluk kepada apa-apa terma dan syarat yang dikenakan.
 
@@ -592,7 +712,11 @@ Dengan syarat bahawa—
 
 kesalahan yang dilakukan, sebelum mula berkuatkuasanya Akta ini, di bawah Akta yang dimansuhkan;
 
-(b) apa-apa prosiding yang belum diputuskan sebelum mula berkuatkuasanya Akta ini hendaklah diteruskan di bawah undang-undang yang dimansuhkan seolah-olah Akta ini tidak dibuat;
+(b) apa-apa prosiding yang belum diputuskan sebelum mula berkuatkuasanya Akta
+
+<!-- marginal: ini -->
+
+hendaklah diteruskan di bawah undang-undang yang dimansuhkan seolah-olah Akta ini tidak dibuat;
 
 (c) lesen-lesen yang telah dikeluarkan di bawah Akta yang dimansuhkan hendaklah terus berkuatkuasa dan mempunyai kuatkuasa seolah- olah ia telah diberikan di bawah Akta ini dan boleh dibatalkan di bawah Akta ini; dan
 

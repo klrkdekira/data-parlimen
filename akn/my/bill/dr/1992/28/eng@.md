@@ -78,13 +78,17 @@ This Bill will involve the Government in additional expenditure of up to $100 mi
 
 ## PUBLISHED BY AUTHORITY
 
-Jil.36
+<!-- marginal: Jil.36 -->
 
 <!-- marginal: TAMBAHAN -->
 
 ## RANG UNDANG-UNDANG
 
-Rang Undang-undang yang berikut telah di- bentangkan dalam Parlimen adalah diterbitkan untuk makluman umum:
+Rang Undang-undang yang berikut
+
+<!-- marginal: telah di- -->
+
+bentangkan dalam Parlimen adalah diterbitkan untuk makluman umum:
 
 The following Bill introduced into Parliament is published for general information:
 

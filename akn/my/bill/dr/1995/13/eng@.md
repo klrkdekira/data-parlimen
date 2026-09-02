@@ -44,7 +44,11 @@ investigation, examination or treatment is carried out by the person under the c
 
 (2) For the purposes of paragraph (1)(b), no educational institution shall be specified in the Third Schedule unless—
 
-(a) it is an educational institution registered under the Education Act 1961 or any Act 43/61 law in connection with the registration of an educational institution; and
+(a) it is an educational institution registered under the Education Act 1961 or any
+
+<!-- marginal: Act 43/61 -->
+
+law in connection with the registration of an educational institution; and
 
 (b) is affiliated with any institution specified in the second column of the Second Schedule for the purpose of granting to the students of the educational institution the specified qualification appearing against the institution.
 

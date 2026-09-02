@@ -26,11 +26,25 @@
 
 ## PENDAPATAN 1967
 
-3. Mula berkuatkuasanya pindaan kepada Akta Cukai Pendapatan 1967. 4. Pindaan seksyen 6. 5. Pindaan seksyen 34. 6. Pindaan seksyen 46. 7. Pindaan seksyen 48. 8. Pindaan seksyen 49. 9. Pindaan seksyen 50. 10; Pindaan seksyen 60. 11. Pindaan seksyen 60E. 12. Seksyen baru 60G. 13. Pindaan seksyen 133A. 14. Pindaan Jadual 1. 15. Pindaan Jadual 3. 16. Pindaan Jadual 6.
+3. Mula berkuatkuasanya pindaan kepada Akta Cukai Pendapatan 1967. 4. Pindaan seksyen 6. 5. Pindaan seksyen 34. 6. Pindaan seksyen 46. 7. Pindaan seksyen 48. 8. Pindaan seksyen 49. 9. Pindaan seksyen 50. 10; Pindaan seksyen 60.
+
+11. Pindaan seksyen 60E.
+
+12. Seksyen baru 60G.
+
+13. Pindaan seksyen 133A.
+
+14. Pindaan Jadual 1.
+
+15. Pindaan Jadual 3.
+
+16. Pindaan Jadual 6.
 
 <!-- page 2 -->
 
-17. Pindaan Jadual 7A. 18. Jadual baru 7B.
+17. Pindaan Jadual 7A.
+
+18. Jadual baru 7B.
 
 ## BAB III
 
@@ -38,7 +52,9 @@
 
 ## HARTATANAH1976
 
-19. Mula berkuatkuasanya pindaan kepada Akta Cukai Keuntungan HartaTanah 1976. 20. Pindaan Jadual 5.
+19. Mula berkuatkuasanya pindaan kepada Akta Cukai Keuntungan HartaTanah 1976.
+
+20. Pindaan Jadual 5.
 
 ## BAB IV
 
@@ -46,13 +62,19 @@
 
 ## (CUKAI PENDAPATAN) 1967
 
-21. Mula berkuatkuasanya pindaan kepada Akta Petroleum (Cukai Pendapatan) 1967. 22. Pindaan seksyen 16.
+21. Mula berkuatkuasanya pindaan kepada Akta Petroleum (Cukai Pendapatan) 1967.
+
+22. Pindaan seksyen 16.
 
 ## BABV
 
 ## PINDAAN KEPADA AKTA SETEM 1949
 
-23. Mula berkuatkuasanya pindaan kepada Akta Setem 1949. 24. Pindaan seksyen 36. 25. Pindaan Jadual Pertama.
+23. Mula berkuatkuasanya pindaan kepada Akta Setem 1949.
+
+24. Pindaan seksyen 36.
+
+25. Pindaan Jadual Pertama.
 
 ## BAB VI
 
@@ -60,7 +82,9 @@
 
 ## LUAR PESISIR LABUAN 1990
 
-26. Mula berkuatkuasanya pindaan kepada Akta Cukai Aktiviti Perniagaan Luar Pesisir Labuan 1990. 27. Pindaan seksyen 2.
+26. Mula berkuatkuasanya pindaan kepada Akta Cukai Aktiviti Perniagaan Luar Pesisir Labuan 1990.
+
+27. Pindaan seksyen 2.
 
 ## BAB VII
 
@@ -68,7 +92,11 @@
 
 ## BARANG-BARANG 1983
 
-28. Mula berkuatkuasanya pindaan kepada Akta Levi Kenderaan Barang-Barang 1983. 29. Pindaan tajuk panjang. 30. Pindaan seksyen 3.
+28. Mula berkuatkuasanya pindaan kepada Akta Levi Kenderaan Barang-Barang 1983.
+
+29. Pindaan tajuk panjang.
+
+30. Pindaan seksyen 3.
 
 <!-- page 3 -->
 
@@ -76,9 +104,7 @@
 
 bernama
 
-Suatu Akta untuk meminda Akta Cukai Pendapatan 1967, Akta Cukai Keuntungan Harta Tanah 1976, Akta Petroleum (Cukai Pendapatan) 1967, Akta Setem 1949, Akta Cukai Aktiviti Perniagaan Luar Pesisir Labuan 1990 dan Akta Levi Kenderaan Barang-Barang
-
-1983. [ ]
+Suatu Akta untuk meminda Akta Cukai Pendapatan 1967, Akta Cukai Keuntungan Harta Tanah 1976, Akta Petroleum (Cukai Pendapatan) 1967, Akta Setem 1949, Akta Cukai Aktiviti Perniagaan Luar Pesisir Labuan 1990 dan Akta Levi Kenderaan Barang-Barang 1983. [ ]
 
 ## MAKA INILAH DIPERBUAT UNDANG-UNDANG
 
@@ -126,17 +152,41 @@ Barang-Barang 1983 adalah dipinda mengikut cara yang dinyatakan masing-masingnya
 
 ## PINDAAN KEPADA AKTA CUKAI PENDAPATAN 1967
 
-Mula berkuat-
+<!-- marginal: Mula berkuat- -->
 
-3. (1) Kecuali perenggan I0(a), I0(b), 11(a), 11(b), kuasanya 16(c) dan seksyen 17, Bab ini hendaklah berkuatkuasa pindaan kepada Akta bagi tahun taksiran 1996 dan tahun-tahun taksiran yang Cukai berikutnya. Pendapatan
+3. (1) Kecuali perenggan I0(a), I0(b), 11(a), 11(b),
+
+<!-- marginal: kuasanya -->
+
+16(c) dan seksyen 17, Bab ini hendaklah berkuatkuasa
+
+<!-- marginal: pindaan -->
+
+<!-- marginal: kepada Akta -->
+
+bagi tahun taksiran 1996 dan tahun-tahun taksiran yang
+
+<!-- marginal: Cukai -->
+
+berikutnya.
+
+<!-- marginal: Pendapatan -->
 
 1967. (2) Perenggan 10(a), 10(b), 11(a), 11(b) dan I6(c) hendaklah berkuatkuasa bagi tahun taksiran 1995 dan tahun-tahun taksiran yang berikutnya.
 
 (3) Seksyen 17 hendaklah berkuatkuasa bagi tahun taksiran 1997 dan tahun-tahun taksiran yang berikutnya.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-4. Akta Cukai Pendapatan 1967, yang disebut "Akta seksyen 6. ibu" dalam Bab ini, adalah dipinda dalam subseksyen Akta 53. 6(1)—
+4. Akta Cukai Pendapatan 1967, yang disebut "Akta
+
+<!-- marginal: seksyen 6. -->
+
+ibu" dalam Bab ini, adalah dipinda dalam subseksyen
+
+<!-- marginal: Akta 53. -->
+
+6(1)—
 
 (a) dengan menggantikan noktah di hujung perenggan
 
@@ -144,13 +194,19 @@ Pindaan
 
 (b) dengan memasukkan selepas perenggan (g) perenggan yang berikut: "(h) income tax shall be charged for each year of assessment upon the chargeable income of a foreign fund management company in relation to the source consisting of the provision of fund management services to foreign investors for that year at the appropriate rate as specified in Part IX of Schedule 1.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-5. Perenggan 34(4)(a) Akta ibu adalah dipinda dengan seksyen 34. menggantikan perkataan "sixteen" dengan perkataan "seventeen".
+5. Perenggan 34(4)(a) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 34. -->
 
-6. Seksyen 46 Akta ibu adalah dipinda— seksyen 46.
+menggantikan perkataan "sixteen" dengan perkataan "seventeen".
+
+<!-- marginal: Pindaan -->
+
+6. Seksyen 46 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 46. -->
 
 (a) dalam perenggan (c) dengan menggantikan perkataan "one" dengan perkataan "five"; dan
 
@@ -192,29 +248,33 @@ Pindaan
 
 Provided that where the wife has no total income the total deduction under this subsection shall not exceed two thousand ringgit."; dan
 
-(b) dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: " (4) For the purposes of subsection (1B) reference to an insurance means an insurance contracted for by an individual for himself, his wife or child, or in the case of a wife, for herself, her husband or child.".
+(b) dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: "
 
-Pindaan
+(4) For the purposes of subsection (1B) reference to an insurance means an insurance contracted for by an individual for himself, his wife or child, or in the case of a wife, for herself, her husband or child.".
 
-9. Seksyen 50 Akta ibu adalah dipinda— seksyen 50.
+<!-- marginal: Pindaan -->
+
+9. Seksyen 50 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 50. -->
 
 (a) dengan memotong subseksyen (2); dan
 
 (b) dalam perenggan (3)(b) dengan memasukkan selepas perkataan "paragraph (a)" perkataan "and any premium for any insurance on education or medical benefits".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-10. Seksyen 60 Akta ibu adalah dipinda— seksyen 60.
+10. Seksyen 60 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 60. -->
 
 (a) dengan menggantikan perenggan (3A)(b) dengan perenggan yang berikut:
 
-"(b) deducting from that aggregate— (i) where paragraph
+"(b) deducting from that aggregate—
 
-<!-- marginal: (a)(ii) -->
+(i) where paragraph
 
-<!-- marginal: is -->
-
-applicable for that period to gross proceeds receivable in connection with any investments or rights,
+(a)(ii) is applicable for that period to gross proceeds receivable in connection with any investments or rights,
 
 <!-- page 7 -->
 
@@ -228,23 +288,19 @@ the cost of acquiring and realising those investments or rights; and (ii) so muc
 
 "(b) deducting from that aggregate— (i) where paragraph
 
-<!-- marginal: (a)(ii) -->
-
-<!-- marginal: is -->
-
-applicable for that period to gross proceeds receivable in connection with any investments or rights, the cost of acquiring and realising those investments or rights; and (ii) so much of the amount transferred from the shareholders' fund as is equal to the actuarial deficit (subject to any adjustment as the Director General may think fit to make in accordance with the provisions of this Act) for
-
-<!-- marginal: that -->
-
-period arising from the life fund.";
+(a)(ii) is applicable for that period to gross proceeds receivable in connection with any investments or rights, the cost of acquiring and realising those investments or rights; and (ii) so much of the amount transferred from the shareholders' fund as is equal to the actuarial deficit (subject to any adjustment as the Director General may think fit to make in accordance with the provisions of this Act) for that period arising from the life fund.";
 
 (c) dengan menggantikan subseksyen (7) dengan subseksyen yang berikut;
 
-" (7) Where an insurer carrying on general business has re-insured the risk or part of the risk with a re-insurer who either does not carry on the business of insuring risks of that kind in Malaysia or does not re-insure the risk through a branch in Malaysia, there may be deducted under subsection (5)(b)(ii) or (6)(b)(ii) in respect of such risks which are re-insured only ninety-five per cent of the amount which would otherwise be deductible:
+" (7) Where an insurer carrying on general business has re-insured the risk or part of the risk with a re-insurer who either does not carry on the business of insuring risks of that kind in Malaysia or does not re-insure the risk through a branch in Malaysia, there may be deducted under subsection (5)(b)(ii) or
+
+(6)(b)(ii) in respect of such risks which are re-insured only ninety-five per cent of the amount which would otherwise be deductible:
 
 <!-- page 8 -->
 
-Provided that in a case to which subsection (6), (6A) or (6B) applies—
+Provided that in a case to which subsection
+
+(6), (6A) or (6B) applies—
 
 (a) the insurer may elect that no deductions shall be made under subsection (6)(b)(ii); and
 
@@ -252,19 +308,15 @@ Provided that in a case to which subsection (6), (6A) or (6B) applies—
 
 (i) the election shall be irrevocable and shall apply in relation to the basis period for the year of assessment for which it is made and for the basis periods for all subsequent years of assessment; and (ii) amounts recoverable under re-insurance contracts shall be disregarded for the purposes of subsection (6)(a)(iv).".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-11. Subseksyen 60E(7) Akta ibu adalah dipinda— seksyen 60E.
+11. Subseksyen 60E(7) Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 60E. -->
 
 (a) dalam takrif "qualifying services" dengan menggantikan perenggan (b) dengan perenggan yang berikut:
 
-"(b) provision of treasury
-
-<!-- marginal: and -->
-
-<!-- marginal: fund -->
-
-management services to its offices outside Malaysia or its related companies outside Malaysia and, where such services include the provision of credit facilities, the funds for providing such facilities can be obtained from outside Malaysia or within Malaysia and where such funds are obtained from within Malaysia the amount shall not exceed ten million ringgit; and"; dan
+"(b) provision of treasury and fund management services to its offices outside Malaysia or its related companies outside Malaysia and, where such services include the provision of credit facilities, the funds for providing such facilities can be obtained from outside Malaysia or within Malaysia and where such funds are obtained from within Malaysia the amount shall not exceed ten million ringgit; and"; dan
 
 (b) dalam takrif "related company"—
 
@@ -286,7 +338,23 @@ management services to its offices outside Malaysia or its related companies out
 
 seksyen 60F seksyen yang berikut:
 
-"Foreign 60G. (1) Where a foreign fund management fund company carries on business in Malaysia of manage- ment providing fund management services to foreign company. and local investors, the income derived from the provision of fund management services to foreign investors shall be treated as a separate and distinct business source from that source of income derived from the provision of fund management services to local investors.
+<!-- marginal: "Foreign -->
+
+60G. (1) Where a foreign fund management
+
+<!-- marginal: fund -->
+
+company carries on business in Malaysia of
+
+<!-- marginal: manage- -->
+
+<!-- marginal: ment -->
+
+providing fund management services to foreign
+
+<!-- marginal: company. -->
+
+and local investors, the income derived from the provision of fund management services to foreign investors shall be treated as a separate and distinct business source from that source of income derived from the provision of fund management services to local investors.
 
 (2) The chargeable income in relation to the source consisting of the provision of fund management services to foreign investors for a year of assessment shall be the statutory income from that source reduced by any deduction falling to be made pursuant to section 43(2) relating to that source.
 
@@ -306,7 +374,11 @@ Provided that in so making the deductions under sections 43(2) and 44(1), no reg
 
 "foreign fund management company" means a company—
 
-(a) incorporated in Malaysia and licensed Act 280 under the Securities Industry Act 1983; and
+(a) incorporated in Malaysia and licensed
+
+<!-- marginal: Act 280 -->
+
+under the Securities Industry Act 1983; and
 
 (b) (i) where the issued share capital is wholly foreign owned and provides fund management services to foreign investors only; or
 
@@ -324,27 +396,17 @@ Provided that in so making the deductions under sections 43(2) and 44(1), no reg
 
 ## KEWANGAN
 
-(No.
-
-<!-- marginal: H -->
+(No. H
 
 fund is beneficially held, directly or indirectly by foreign investors, where— (i) the fund is created outside Malaysia; and (ii) the trustees of the fund are not resident and not citizens of Malaysia;
 
 "local investors" are individuals, companies or trust funds that are not foreign investors.".
 
-<!-- marginal: Pindaan -->
+Pindaan
 
-13. Seksyen 133A Akta ibu adalah dipinda dengan
+13. Seksyen 133A Akta ibu adalah dipinda dengan memasukkan selepas perkataan "Schedule 7A" perkataan 133A. "and Schedule 7B".
 
-<!-- marginal: seksyen -->
-
-memasukkan selepas perkataan "Schedule 7A" perkataan
-
-<!-- marginal: 133A. -->
-
-"and Schedule 7B".
-
-<!-- marginal: Pindaan -->
+Pindaan
 
 14. Jadual 1 kepada Akta ibu adalah dipinda—
 
@@ -354,7 +416,7 @@ memasukkan selepas perkataan "Schedule 7A" perkataan
 
 <!-- page 12 -->
 
-12
+<!-- marginal: 12 -->
 
 ## RANG UNDANG-UNDANG
 
@@ -402,7 +464,7 @@ Qualifying expenditure: Building used for approved service project
 
 <!-- page 14 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
 16. Jadual 6 kepada Akta ibu adalah dipinda—
 
@@ -416,9 +478,11 @@ Pindaan
 
 "For the purposes of this paragraph "Malaysian life insurers" means life insurers and takaful operators whose ownership or membership are held in majority by Malaysian citizens.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-17. Jadual 7A kepada Akta ibu adalah dipinda— Jadual 7A.
+17. Jadual 7A kepada Akta ibu adalah dipinda—
+
+<!-- marginal: Jadual 7A. -->
 
 (a) dalam perenggan 1 dengan menggantikan perkataan "fifty" yang terdapat selepas perkataan "reinvestment allowance of dengan perkataan "sixty";
 
@@ -466,11 +530,7 @@ Provided that where the qualifying project is located outside the States of Saba
 
 (ii) dengan menggantikan noktah di hujung subperenggan (b) dengan perkataan "; or"; dan
 
-(iii) dengan memasukkan
-
-<!-- marginal: selepas -->
-
-subperenggan (b) subperenggan yang berikut:
+(iii) dengan memasukkan selepas subperenggan (b) subperenggan yang berikut:
 
 "(c) an agricultural project undertaken by a company in expanding, modernising or diversifying its cultivation and farming business."; dan
 
@@ -600,17 +660,31 @@ adalah dipinda—
 
 ## BAHAGIAN I
 
-Kecuali jika Bahagian II atau Bahagian III adalah berkenaan, kadar-kadar cukai yang berikut hendaklah terpakai: Kategori pelupusan Kadar cukai
+Kecuali jika Bahagian II atau Bahagian III adalah berkenaan, kadar-kadar cukai yang berikut hendaklah terpakai: Kategori pelupusan
+
+<!-- marginal: Kadar cukai -->
 
 Pelupusan datam tempoh dua tahun 30 peratus selepas tarikh pemerolehan aset yang boleh dikenakan cukai
 
-Pelupusan dalam tahun ketiga selepas 20 peratus tarikh pemerolehan aset yang boleh dikenakan cukai
+Pelupusan dalam tahun ketiga selepas
+
+<!-- marginal: 20 peratus -->
+
+tarikh pemerolehan aset yang boleh dikenakan cukai
 
 Pelupusan dalam tahun keempat 15 peratus selepas tarikh pemerolehan aset yang boleh dikenakan cukai
 
-Pelupusan dalam tahun kelima 5 peratus selepas tarikh pemerolehan aset yang boleh dikenakan cukai
+Pelupusan dalam tahun kelima
 
-Pelupusan dalam tahun keenam Tiada selepas tarikh pemerolehan aset yang boleh dikenakan cukai
+<!-- marginal: 5 peratus -->
+
+selepas tarikh pemerolehan aset yang boleh dikenakan cukai
+
+Pelupusan dalam tahun keenam
+
+<!-- marginal: Tiada -->
+
+selepas tarikh pemerolehan aset yang boleh dikenakan cukai
 
 <!-- page 20 -->
 
@@ -620,33 +694,15 @@ II
 
 Dalam hal yang pelupus ialah suatu syarikat, kadar-kadar cukai yang berikut hendaklah terpakai:
 
-Kategon pelupusan
+Kategon pelupusan Kadar cukai
 
-<!-- marginal: Kadar cukai -->
+Pelupusan dalam tempoh dua tahun 30 peratus selepas tarikh pemerolehan aset yang boleh dikenakan cukai
 
-Pelupusan dalam tempoh dua tahun
+Pelupusan dalam tahun ketiga 20 peratus selepas tarikh pemerolehan aset yang boleh dikenakan cukai
 
-<!-- marginal: 30 peratus -->
+Pelupusan dalam tahun keempat 15 peratus selepas tarikh pemerolehan aset yang boleh dikenakan cukai
 
-selepas tarikh pemerolehan aset yang boleh dikenakan cukai
-
-Pelupusan dalam tahun ketiga
-
-<!-- marginal: 20 peratus -->
-
-selepas tarikh pemerolehan aset yang boleh dikenakan cukai
-
-Pelupusan dalam tahun keempat
-
-<!-- marginal: 15 peratus -->
-
-selepas tarikh pemerolehan aset yang boleh dikenakan cukai
-
-Pelupusan dalam tahun kelima
-
-<!-- marginal: 5 peratus -->
-
-selepas tarikh pemerolehan aset yang boleh dikenakan cukai
+Pelupusan dalam tahun kelima 5 peratus selepas tarikh pemerolehan aset yang boleh dikenakan cukai
 
 ## BAHAGIAN
 
@@ -660,9 +716,23 @@ Seseorang individu yang bukan seorang warganegara dan bukan seorang pemastautin 
 
 ## PETROLEUM (CUKAI PENDAPATAN) 1967
 
-Mula berkuat-
+<!-- marginal: Mula berkuat- -->
 
-21. Bab ini hendaklah berkuatkuasa bagi tahun taksiran kuasanya 1996 dan tahun-tahun taksiran yang berikutnya. pindaan kepada Akta Petroleum (Cukai Pendapatan)
+21. Bab ini hendaklah berkuatkuasa bagi tahun taksiran
+
+<!-- marginal: kuasanya -->
+
+1996 dan tahun-tahun taksiran yang berikutnya.
+
+<!-- marginal: pindaan -->
+
+<!-- marginal: kepada Akta -->
+
+<!-- marginal: Petroleum -->
+
+<!-- marginal: (Cukai -->
+
+<!-- marginal: Pendapatan) -->
 
 1967.
 
@@ -734,7 +804,7 @@ dengan menggantikan perkataan "$1.50" dalam butiran
 
 <!-- page 22 -->
 
-22
+<!-- marginal: 22 -->
 
 ## RANG UNDANG-UNDANG
 
@@ -744,13 +814,39 @@ dengan menggantikan perkataan "$1.50" dalam butiran
 
 ## PERNIAGAAN LUAR PESISIR LABUAN 1990
 
-Mula berkuat-
+<!-- marginal: Mula berkuat- -->
 
-26. Bab ini hendaklah berkuatkuasa bagi tahun taksiran kuasanya 1996 dan tahun-tahun taksiran yang berikutnya. pindaan kepada Akrta Cukai Aktiviti Perniagaan Luar Pesisir Labuan 1990.
+26. Bab ini hendaklah berkuatkuasa bagi tahun taksiran
 
-Pindaan
+<!-- marginal: kuasanya -->
 
-27. Akta Cukai Aktiviti Perniagaan Luar Pesisir Labuan seksyen 2. 1990, yang disebut "Akta ibu" dalam Bab ini, adalah Akta 445. dipinda dalam subseksyen 2(1)—
+1996 dan tahun-tahun taksiran yang berikutnya.
+
+<!-- marginal: pindaan -->
+
+<!-- marginal: kepada Akrta -->
+
+<!-- marginal: Cukai -->
+
+<!-- marginal: Aktiviti -->
+
+<!-- marginal: Perniagaan -->
+
+<!-- marginal: Luar Pesisir -->
+
+<!-- marginal: Labuan 1990. -->
+
+<!-- marginal: Pindaan -->
+
+27. Akta Cukai Aktiviti Perniagaan Luar Pesisir Labuan
+
+<!-- marginal: seksyen 2. -->
+
+1990, yang disebut "Akta ibu" dalam Bab ini, adalah
+
+<!-- marginal: Akta 445. -->
+
+dipinda dalam subseksyen 2(1)—
 
 (a) dengan memasukkan selepas takrif "perniagaan insurans luar pesisir" takrif yang berikut:
 

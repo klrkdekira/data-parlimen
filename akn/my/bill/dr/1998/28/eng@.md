@@ -84,7 +84,9 @@ proceedings are taken to make representations against the disciplinary charge la
 
 (iii) where there has been made against an officer or a servant of the Authority any order of detention, supervision, restricted residence, banishment or deportation, or where there has been imposed on an officer or a servant of the Authority any form of restriction or supervision by bond or otherwise, under any law relating to the security of Malaysia or any part thereof, prevention of crime, preventive detention, restricted residence, banishment, immigration, or protection of women and girls; and";
 
-(c) by inserting after subparagraph (m) the following subparagraph:
+(c) by inserting after subparagraph (m) the following
+
+<!-- marginal: subparagraph: -->
 
 "(n) the procedure for the hearing of an appeal by the Disciplinary Appeal Board or Minister."; and
 
@@ -114,4 +116,4 @@ This Bill seeks to amend the Farmers' Organization Authority Act 1973 ("Act 110"
 
 This Bill will not involve the Government in any extra financial expenditure.
 
-[PN(U2)1634]
+<!-- marginal: [PN(U2)1634] -->

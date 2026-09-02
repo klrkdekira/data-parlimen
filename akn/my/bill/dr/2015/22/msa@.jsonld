@@ -67,21 +67,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/22/msa@/~cl_2",
       "@type": "akn:clause",
       "eli:number": "2",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/22/msa@/~cl_2__para_aa",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/22/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Subseksyen 33(2) Akta Polis 1967 [Akta 344] dipinda dengan memasukkan selepas perenggan (a) perenggan yang berikut: “"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/22/msa@/~cl_2__para_aa",
-      "@type": "akn:paragraph",
-      "eli:number": "aa",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/22/msa@/~cl_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "hutang yang kena dibayar kepada Lembaga Pembiayaan Perumahan Sektor Awam yang ditubuhkan di bawah Akta Lembaga Pembiayaan Perumahan Sektor Awam 2015 [Akta 767] berkenaan dengan kemudahan pembiayaan perumahan sektor awam yang diberikan oleh Lembaga itu;”."
+        "@value": "Subseksyen 33(2) Akta Polis 1967 [Akta 344] dipinda dengan memasukkan selepas perenggan (a) perenggan yang berikut: “ (aa) hutang yang kena dibayar kepada Lembaga Pembiayaan Perumahan Sektor Awam yang ditubuhkan di bawah Akta Lembaga Pembiayaan Perumahan Sektor Awam 2015 [Akta 767] berkenaan dengan kemudahan pembiayaan perumahan sektor awam yang diberikan oleh Lembaga itu;”."
       }
     }
   ]

@@ -4,13 +4,13 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title, commencement and application 2. Interpretation
 
-## Part II
+## PART II
 
 ## YANG DI-PERTUAN AGONG AWARD
 
@@ -18,7 +18,7 @@
 
 10. Using Yang di-Pertuan Agong award when not entitled
 
-## Part III
+## PART III
 
 ## FOREIGN AWARD
 
@@ -26,7 +26,7 @@
 
 12. Receiving and using unrecognized foreign award
 
-## Part IV
+## PART IV
 
 ## GRATIFICATION
 
@@ -40,7 +40,7 @@
 
 <!-- page 2 -->
 
-## Part V
+## PART V
 
 ## MISCELLANEOUS
 
@@ -50,9 +50,9 @@
 
 19. Power to amend Schedules
 
-## First schedule
+## FIRST SCHEDULE
 
-## second schedule
+## SECOND SCHEDULE
 
 <!-- page 3 -->
 
@@ -64,7 +64,7 @@ An Act to provide for offences relating to awards and the extra-territorial appl
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -104,7 +104,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 “gratification” has the meaning assigned to it in section 3 of the Malaysian Anti-Corruption Commission Act [Act 694].
 
-## Part II
+## PART II
 
 ## YANG DI-PERTUAN AGONG AWARD
 
@@ -180,7 +180,7 @@ A receives an unrecognized award in 2010 that carries an appellation and style t
 
 (b) A, is a holder of a Yang di-Pertuan Agong award who is married to Z. Z is entitled to use and enjoy the appellation and style of such award during her marriage to A and after the death of A. After A died, Z subsequently remarried. Z continues to use and enjoy the appellation and style of such award. Z commits an offence.
 
-## Part III
+## PART III
 
 ## FOREIGN AWARD
 
@@ -214,7 +214,7 @@ A receives an unrecognized award in 2010 that carries an appellation and style t
 
 A receives an unrecognized foreign award in 2010 that carries an appellation and style that A has been using since 2010. Upon the coming into operation of this Act, A is prohibited from using the appellation and style. A uses the appellation and style after the coming into operation of this Act. A commits an offence.
 
-## Part IV
+## PART IV
 
 ## GRATIFICATION
 
@@ -284,7 +284,7 @@ any gratification as a consideration or an inducement or a reward for procuring 
 
 <!-- page 11 -->
 
-## Part V
+## PART V
 
 ## MISCELLANEOUS
 
@@ -300,7 +300,7 @@ any gratification as a consideration or an inducement or a reward for procuring 
 
 19. The Yang di-Pertuan Agong may, by order published in the Gazette, amend the First Schedule, and upon request of a Ruler or Yang di-Pertua Negeri amend the Second Schedule.
 
-## First schedule
+## FIRST SCHEDULE
 
 [Section 11] Head of State
 
@@ -334,7 +334,7 @@ Country Head of State Singapore President of the Republic of Singapore Slovakia 
 
 Country Head of State United States of America President of the United States of America Uruguay Presidente de la República Oriental del Uruguay Uzbekistan President of the Republic of Uzbekistan Vanuatu President of the Republic of Vanuatu Venezuela (Bolivarian Republic Presidente de la República Bolivariana of) de Venezuela Viet Nam President of the Socialist Republic of Viet Nam Yemen President of the Republic of Yemen Zambia President of the Republic of Zambia Zimbabwe President of the Republic of Zimbabwe
 
-## second schedule
+## SECOND SCHEDULE
 
 [Section 17] State Law
 
@@ -342,7 +342,7 @@ Country Head of State United States of America President of the United States of
 
 This proposed Offences relating to Awards Act 2016 (“the proposed Act”) seeks to create offences relating to awards. Due to the rampant conferment of titles and dignities by persons without constitutional authority and the conferment of titles and dignities by persons other than the Heads of State of foreign countries, the Government has decided to curb the activity in recognition of the sovereign privilege of the Yang di-Pertuan Agong. The proposed Act will cater to all aspects of offences relating to awards of Yang di-Pertuan Agong, the Rulers and Yang di-Pertua Negeri and foreign Heads of State.
 
-## Part I
+## PART I
 
 2. Part I deals with preliminary matters.
 
@@ -352,7 +352,7 @@ This proposed Offences relating to Awards Act 2016 (“the proposed Act”) seek
 
 <!-- page 19 -->
 
-## Part II
+## PART II
 
 5. Part II contains provisions relating to Yang di-Pertuan Agong awards.
 
@@ -374,7 +374,7 @@ This proposed Offences relating to Awards Act 2016 (“the proposed Act”) seek
 
 13. Clause 10 seeks to provide for the offence of using a Yang di-Pertuan Agong award when not entitled. A person is prohibited from using and enjoying the appellation and style of any Yang di-Pertuan Agong awards in any form and manner if he is not entitled to use and enjoy such appellation and style. The proposed offence carries a penalty of a fine not exceeding ten thousand ringgit.
 
-## Part III
+## PART III
 
 14. Part III contains provisions relating to foreign awards.
 
@@ -382,7 +382,7 @@ This proposed Offences relating to Awards Act 2016 (“the proposed Act”) seek
 
 16. Clause 12 seeks to provide for the offence of receiving and using an unrecognized foreign award. A citizen is prohibited from receiving an unrecognized foreign award from any person whether within or outside Malaysia and using and enjoying the appellation and style of an unrecognized foreign award in any form and manner. The proposed offence carries a penalty of imprisonment for a term not exceeding three years.
 
-## Part IV
+## PART IV
 
 17. Part IV contains provisions relating to gratification.
 
@@ -398,7 +398,7 @@ twenty years. The proposed section covers both an award purporting to be a Yang 
 
 21. Clause 16 seeks to provide for the offence of soliciting, receiving, giving, etc., gratification for an unrecognized foreign award. A citizen by himself, or by or in conjunction with any other person, is prohibited from soliciting, receiving or agreeing to receive for himself or for any other person, or giving, promising or offering to any person whether for the benefit of that person or of another person, any gratification as a consideration or an inducement or a reward for procuring or assisting or endeavouring to procure the grant of an unrecognized foreign award to any citizen in connection with such grant. The proposed offence carries a penalty of imprisonment for a term not exceeding twenty years.
 
-## Part V
+## PART V
 
 22. Part V deals with miscellaneous matters.
 

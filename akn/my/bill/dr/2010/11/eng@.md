@@ -4,7 +4,9 @@ a bill
 
 intituled
 
-an act to amend the Commercial Vehicles licensing board act 1987. [ ]
+an act to amend the Commercial Vehicles licensing board act
+
+1987. [ ]
 
 ENACTED by the Parliament of Malaysia as follows:
 
@@ -25,6 +27,8 @@ ENACTED by the Parliament of Malaysia as follows:
 ### “ Application
 
 1a. (1) This act shall apply only to Sabah, Sarawak and the Federal Territory of labuan.
+
+<!-- marginal: JW515484 Teks BI.indd 1 -->
 
 <!-- marginal: 4/8/10 8:54:12 AM -->
 
@@ -78,6 +82,8 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (4) all decisions, directions and notifications made or given by the dissolved board in accordance with the act shall be deemed to have been made or given by the Commission under the land Public Transport act 2010 and shall continue in force until the decisions, directions and notifications are amended, revoked or replaced or until the date upon which they expire.
 
+<!-- marginal: JW515484 Teks BI.indd 3 -->
+
 <!-- marginal: 4/8/10 8:54:13 AM -->
 
 <!-- page 4 -->
@@ -120,6 +126,8 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (c) exemptions under any provision of the act or any subsidiary legislation made thereunder in respect of the licensing of commercial vehicles,
 
+<!-- marginal: JW515484 Teks BI.indd 5 -->
+
 <!-- marginal: 4/8/10 8:54:13 AM -->
 
 <!-- page 6 -->
@@ -161,5 +169,7 @@ This bill seeks to amend the Commercial Vehicles licensing board act 1987 (“ac
 This bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained.
 
 <!-- marginal: [PN(U2)2734] -->
+
+<!-- marginal: JW515484 Teks BI.indd 7 -->
 
 <!-- marginal: 4/8/10 8:54:13 AM -->

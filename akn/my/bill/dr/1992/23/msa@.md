@@ -48,6 +48,8 @@
 
 ## RANG UNDANG-UNDANG
 
+<!-- marginal: Fasal -->
+
 17. Hak untuk enggan mematuhi jika tiada bukti tentang identiti dan kuasa.
 
 ## BAHAGIAN
@@ -114,7 +116,11 @@ ditetapkan oleh Menteri melalui pemberitahuan dalam Warta\ dan Menteri boleh men
 
 "pegawai diberikuasa" ertinya seseorang pegawai kebajikan masyarakat atau seseorang pegawai yang dilantik di bawah seksyen 12;
 
-"pengendali", berhubungan dengan sesuatu pusat jagaan berdaftar, ertinya orang yang atas permohonannya pusat itu didaftarkan;
+"pengendali", berhubungan dengan sesuatu pusat jagaan berdaftar, ertinya orang yang
+
+<!-- marginal: atas -->
+
+permohonannya pusat itu didaftarkan;
 
 "penghuni", berhubungan dengan sesuatu pusat jagaan berkediaman, ertinya seseorang yang telah diterima untuk jagaan sebagai penghuni di pusat jagaan berkediaman itu;
 
@@ -194,9 +200,23 @@ bawah Akta ini.
 
 ## RANG UNDANG-UNDANG
 
-Larangan
+<!-- marginal: Larangan -->
 
-5. (1) Tertakluk kepada subseksyen (3), tiada seorang terhadap pun boleh mengendalikan atau mengambil bahagian pusat-pusat jagaan tak dalam pengurusan sesuatu pusat jagaan yang tidak berdaftar. didaftarkan di bawah Akta ini.
+5. (1) Tertakluk kepada subseksyen (3), tiada seorang
+
+<!-- marginal: terhadap -->
+
+pun boleh mengendalikan atau mengambil bahagian
+
+<!-- marginal: pusat-pusat -->
+
+<!-- marginal: jagaan tak -->
+
+dalam pengurusan sesuatu pusat jagaan yang tidak
+
+<!-- marginal: berdaftar. -->
+
+didaftarkan di bawah Akta ini.
 
 (2) Mana-mana orang yang melanggar subseksyen ( 1) adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi sepuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya, dan dalam hal sesuatu kesaiahan berterusan, boleh sebagai tambahan, dikenakan denda harian tidak melebihi satu ribu ringgit bagi tiap-tiap hari yang kesalahan itu berterusan.
 
@@ -208,7 +228,7 @@ Larangan
 
 (c) jika pemohon merayu kepada Menteri di bawah seksyen 22 dalam tempoh tiga puluh hari tersebut, maka semasa suatu tempoh selanjutnya selepas berakhirnya tempoh itu sehingga tarikh pemohon diberitahu tentang keputusan menolak rayuan itu.
 
-Pendaftaran.
+<!-- marginal: Pendaftaran. -->
 
 6. (1) Sesuatu permohonan untuk pendaftaran sesuatu pusat jagaan hendaklah dibuat kepada Ketua Pengarah dalam borang yang ditetapkan.
 
@@ -310,17 +330,29 @@ Pengarah hendaklah, apabila dibayar fee yang ditetapkan, mengeluarkan suatu pera
 
 (4) Sesuatu perakuan pendaftaran yang dikeluarkan berkenaan dengan sesuatu pusat jagaan hendaklah sentiasa ada untuk pemeriksaan olch seseorang pegawai diberikuasa, yang boieh menghenclaki pengemukaannya di pusat jagaan yang berkenaan pada bila-bila masa.
 
-Pengkanselan
+<!-- marginal: Pengkanselan -->
 
-11. Ketua Pengarah boleh mengkanselkan pendaftaran pendaftaran. sesuatu pusat jagaan—
+11. Ketua Pengarah boleh mengkanselkan pendaftaran
+
+<!-- marginal: pendaftaran. -->
+
+sesuatu pusat jagaan—
 
 (a) jika telah berlaku apa-apa pelanggaran, atau ketakpatuhan kepada. apa-apa peraturan yang dibuat di bawah seksyen 24 atau apa-apa syarat yang dikenakan di bawah seksyen 7:
 
 (b) jika pengendali pusatjagaan itu telah disabitkan atas apa-apa kesalahan di bawah Akta i ni atau apa-apa kesalahan yang melibatkan fraud atau keburukan akhlak;
 
-(c) jika ternyata kepadanya bahawa pusatjagaan itu telah terhenti daripada dikendalikan sebagai demikian, atau terhenti wujud, atau terhenli daripada terleiak di bawah kawalan pengendalinya; atau
+(c) jika ternyata kepadanya bahawa pusatjagaan itu telah terhenti daripada dikendalikan sebagai demikian, atau terhenti wujud, atau terhenli daripada terleiak di bawah
 
-(d) j i ka pengendalinya memohon supaya pendaftaran i lu dikansel.
+<!-- marginal: kawalan -->
+
+pengendalinya; atau
+
+(d) j i ka pengendalinya memohon
+
+<!-- marginal: supaya -->
+
+pendaftaran i lu dikansel.
 
 ## BAHAGIAN
 
@@ -328,13 +360,39 @@ Pengkanselan
 
 ## PEGAWAI-PEGAWAI DAN KUASA-KUASA MEREKA
 
-Perlantikan
+<!-- marginal: Perlantikan -->
 
-12. Menteri boleh, melalui pemberitahuan dalam pegawai- Warta, melantik sekian bilangan pegawai yang pegawai. difikirkannya perlu bagi maksud-maksud Akta ini.
+12. Menteri boleh, melalui pemberitahuan dalam
 
-Kuasa-kuasa
+<!-- marginal: pegawai- -->
 
-13. (1) Ketua Pengarah dan mana-mana pegawai Ketua diberikuasa boleh pada bila-bila masa memasuki dan Pengarah dan pegawai- memeriksa mana-mana premis yang digunakan sebagai pegawai atau bagi sesuatu pusat jagaan berdaftar untuk diberikuasa menentukan sama ada—
+Warta, melantik sekian bilangan pegawai yang
+
+<!-- marginal: pegawai. -->
+
+difikirkannya perlu bagi maksud-maksud Akta ini.
+
+<!-- marginal: Kuasa-kuasa -->
+
+13. (1) Ketua Pengarah dan mana-mana pegawai
+
+<!-- marginal: Ketua -->
+
+diberikuasa boleh pada bila-bila masa memasuki dan
+
+<!-- marginal: Pengarah dan -->
+
+<!-- marginal: pegawai- -->
+
+memeriksa mana-mana premis yang digunakan sebagai
+
+<!-- marginal: pegawai -->
+
+atau bagi sesuatu pusat jagaan berdaftar untuk
+
+<!-- marginal: diberikuasa -->
+
+menentukan sama ada—
 
 (a) kesihatan dan kesejahteraan penghuni-penghuni dan orang-orang yang diterima untuk jagaan di pusat jagaan berdaftar i tu dijaga dengan memuaskan;
 
@@ -362,9 +420,23 @@ Kuasa-kuasa
 
 ## RANG UNDANG-UNDANG
 
-Kuasa Ketua
+<!-- marginal: Kuasa Ketua -->
 
-14. (1) Ketua Pengarah boleh, berkenaan dengan mana- Pengarah mana pusat jagaan berdaftar, memberi apa-apa arahan memberi arahan bertulis, konsisten dengan Akta ini, peraturan-peraturan bertulis. yang dibuat di bawah seksyen 24, dan syarat-syarat yang dikenakan di bawah seksyen 7, sebagaimana yang di fikirkannya perlu untuk memastikan bahawa—
+14. (1) Ketua Pengarah boleh, berkenaan dengan mana-
+
+<!-- marginal: Pengarah -->
+
+mana pusat jagaan berdaftar, memberi apa-apa arahan
+
+<!-- marginal: memberi -->
+
+<!-- marginal: arahan -->
+
+bertulis, konsisten dengan Akta ini, peraturan-peraturan
+
+<!-- marginal: bertulis. -->
+
+yang dibuat di bawah seksyen 24, dan syarat-syarat yang dikenakan di bawah seksyen 7, sebagaimana yang di fikirkannya perlu untuk memastikan bahawa—
 
 (a) ia dikendalikan dan diaruskan dengan memuaskan;
 
@@ -382,11 +454,23 @@ Kuasa Ketua
 
 (3) Jika rayuan dibuat kepada Menteri di bawah seksyen 22 terhadap sesuatu arahan di bawah subseksyen (1) dalam masa tiga puluh hari dari tarikh penyampaian arahan itu, maka kuatkuasa arahan itu adalah tertangguh dan jika Menteri mengesahkan arahan itu, arahan itu hendaklah dipatuhi dalam apa-apa tempoh sebagaimana yang dinyatakan oleh Menteri.
 
-Kuasa meme-
+<!-- marginal: Kuasa meme- -->
 
-15. (1) Jika— rintahkan penutupan
+15. (1) Jika—
 
-(a) ternyata kepada Ketua Pengarah bahawa ada pusat jagaan apa-apa bahaya atau kemungkinan bahaya berdaftar kepada mana-mana orang dalam mana-mana premis sesuatu pusat jagaan berdaftar; atau
+<!-- marginal: rintahkan -->
+
+<!-- marginal: penutupan -->
+
+(a) ternyata kepada Ketua Pengarah bahawa ada
+
+<!-- marginal: pusat jagaan -->
+
+apa-apa bahaya atau kemungkinan bahaya
+
+<!-- marginal: berdaftar -->
+
+kepada mana-mana orang dalam mana-mana premis sesuatu pusat jagaan berdaftar; atau
 
 <!-- page 13 -->
 
@@ -434,9 +518,33 @@ semunasabahnya disyaki sedang digunakan sebagai atau bagi suatu pusat jagaan yan
 
 (h) menghendaki mana-mana orang sedemikian supaya mengemukakan kepadanya apa-apa rekod berhubungan dengan premis i t u, dan boleh menyitanya dan mengambil salinan- salinan baginya.
 
-Hak untuk
+<!-- marginal: Hak untuk -->
 
-17. Mana-mana orang boleh enggan mematuhi apa-apa enggan kehendak atau perintah Ketua Pengarah atau seseorang mematuhi jika tiada pegawai diberikuasa yang bertindak di bawah Akta ini bukti jika Ketua Pengarah atau pegawai diberikuasa itu tentang identiti enggan, apabila diminta, mengemukakan bukti tentang dan kuasa. identiti dan kuasanya.
+17. Mana-mana orang boleh enggan mematuhi apa-apa
+
+<!-- marginal: enggan -->
+
+kehendak atau perintah Ketua Pengarah atau seseorang
+
+<!-- marginal: mematuhi -->
+
+<!-- marginal: jika tiada -->
+
+pegawai diberikuasa yang bertindak di bawah Akta ini
+
+<!-- marginal: bukti -->
+
+jika Ketua Pengarah atau pegawai diberikuasa itu
+
+<!-- marginal: tentang -->
+
+<!-- marginal: identiti -->
+
+enggan, apabila diminta, mengemukakan bukti tentang
+
+<!-- marginal: dan kuasa. -->
+
+identiti dan kuasanya.
 
 ## BAHAGIAN
 
@@ -444,15 +552,27 @@ IV
 
 ## PELBAGAI
 
-Kesalahan
+<!-- marginal: Kesalahan -->
 
-18. Mana-mana orang yang— dan penalti
+18. Mana-mana orang yang—
+
+<!-- marginal: dan penalti -->
 
 (a) mengendalikan atau mengambil bahagian dalam pengurusan sesuatu pusat jagaan berdaftar dalam mana-mana premis selain daripada premis yang dinyatakan dalam perakuan pendaftaran pusat jagaan berdaftar itu;
 
-(h) mengendalikan atau mengambil bahagian dalam pengurusan sesuatu pusat jagaan yang di- kendalikan dengan apa-apa n a ma selain daripada nama dengan mana ia didaftarkan;
+(h) mengendalikan atau mengambil bahagian dalam pengurusan sesuatu pusat jagaan yang di- kendalikan dengan apa-apa n a ma
 
-(c) dalam atau berkaitan dengan apa-apa permohonan di bawah Akta ini membuat apa- apa pernyataan atau memberi apa-apa
+<!-- marginal: selain -->
+
+daripada nama dengan mana ia didaftarkan;
+
+(c) dalam atau berkaitan dengan
+
+<!-- marginal: apa-apa -->
+
+permohonan di bawah Akta ini membuat apa- apa pernyataan atau memberi
+
+<!-- marginal: apa-apa -->
 
 <!-- page 15 -->
 
@@ -508,15 +628,25 @@ yang sepatutnya telah dijalankan olehnya me- mandangkan jenis fungsi-fungsi atas
 
 (2) Jika mana-mana orang (dalam subseksyen ini disebut "'prinsipal") boleh dikenakan apa-apa hukuman atau penalti di bawah Akta ini bagi apa-apa perbuatan, peninggalan, pengabaian atau keingkaran, dia boleh dikenakan hukuman atau penalti yang sama bagi tiap- tiap perbuatan, peninggalan, pengabaian atau keingkaran mana-mana pekerja atau ejennya, atau pekerja ejennya itu, jika perbuatan, peninggalan, pengabaian atau keingkaran itu telah dilakukan oleh pekerja prinsipal dalam perjalanan pekerjaannya, atau oleh ejen apabila bertindak bagi pihak prinsipal. atau oleh pekerja ejen itu dalam perjalanan pekerjaannya dengan ejen itu atau setainnya bagi pihak ejen itu.
 
-Anggapan.
+<!-- marginal: Anggapan. -->
 
 20. Dalam mana-mana pendakwaan bagi apa-apa kesalahan di bawah Akta ini, jika dibuktikan bahawa mana-mana orang telah melakukan apa-apa perbuatan berkaitan dengan pengelolaan, pengendalian, atau pengurusan sesuatu pusat jagaan, maka hendaklah dianggap, sehingga dibuktikan sebaliknya, bahawa orang itu telah mengambil bahagian dalam pengurusan pusat jagaan itu.
 
-Penjalanan pendakwaan. 21. Mana-mana pendakwaan berkenaan dengan apa-apa kesalahan di bawah Akta ini boleh dijalankan oleh seseorang pegawai diberikuasa.
+<!-- marginal: Penjalanan -->
 
-Rayuan
+pendakwaan. 21. Mana-mana pendakwaan berkenaan dengan apa-apa kesalahan di bawah Akta ini boleh dijalankan oleh seseorang pegawai diberikuasa.
 
-22. Mana-mana orang yang terkilan dengan apa-apa kepada keputusan atau tindakan Ketua Pengarah di bawah Akta Menteri ini boleh, dalam masa tiga puluh hari dari tarikh dia diberitahu tentang keputusan atau tindakan itu, merayu secara bertulis kepada Menteri, dan keputusan Menteri adalah muktamad.
+<!-- marginal: Rayuan -->
+
+22. Mana-mana orang yang terkilan dengan apa-apa
+
+<!-- marginal: kepada -->
+
+keputusan atau tindakan Ketua Pengarah di bawah Akta
+
+<!-- marginal: Menteri -->
+
+ini boleh, dalam masa tiga puluh hari dari tarikh dia diberitahu tentang keputusan atau tindakan itu, merayu secara bertulis kepada Menteri, dan keputusan Menteri adalah muktamad.
 
 Pengecualian. 23. Menteri boleh, melalui perintah yang disiarkan dalam Warta, tertakluk kepada apa-apa syarat yang difikirkannya patut dikenakan, mengecualikan mana- mana pusat jagaan atau mana-mana kelas, kategori atau perihalan pusat jagaan daripada mana-mana peruntukan
 
@@ -556,7 +686,11 @@ untuk melaksanakan maksud-maksud Akta ini.
 
 (h) borang-borang yang kena digunakan dan maklumat yang kena diberi bagi apa-apa maksud Akta ini;
 
-(i) pengeluaran perakuan-perakuan. dan pe- ngeluaran salir.an-salinan perakuan jika perakuan-perakuan asal telah hilang atau musnah;
+(i) pengeluaran perakuan-perakuan. dan pe- ngeluaran salir.an-salinan perakuan
+
+<!-- marginal: jika -->
+
+perakuan-perakuan asal telah hilang atau musnah;
 
 (j) fee-fee yang kena dibayar di bawah Akta ini; dan
 

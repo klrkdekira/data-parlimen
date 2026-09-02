@@ -430,11 +430,33 @@ Rang Undang-Vndang
 
 22. Akta ibu dipinda dengan menggantikan seksyen 20 dengan seksyen yang berikut:
 
-'Pembayaran 20. (1) cukai
+'Pembayaran 20. (1)
 
-(a) keseluruhan atau mana-mana bahagian daripada matan. mana-mana cukai perkhidmatan, penalti atau wang dll., yang terkurang lain yang kena dibayar di bawah Akta ini belum dibayar dibayar; atau atau yang tersilap keseluruhan atau mana-mana bahagian daripada
+<!-- marginal: cukai -->
 
-### balik dan
+(a) keseluruhan atau mana-mana bahagian daripada
+
+<!-- marginal: matan. -->
+
+mana-mana cukai perkhidmatan, penalti atau wang
+
+<!-- marginal: dll., yang -->
+
+<!-- marginal: terkurang -->
+
+lain yang kena dibayar di bawah Akta ini belum
+
+<!-- marginal: dibayar -->
+
+dibayar; atau
+
+<!-- marginal: atau yang -->
+
+<!-- marginal: tersilap -->
+
+keseluruhan atau mana-mana bahagian daripada
+
+<!-- marginal: balik dan -->
 
 mana-mana cukai perkhidmatan, penalti atau wang lain setelah dibayar telah tersilap dipulangkan balik,
 
@@ -504,7 +526,9 @@ n 2 l A. (1) Ketua Pengarah boleh meluluskan, tertakluk kepada apa-apa syarat ya
 
 (c) apa-apa sebab lain yang diluluskan oleh Ketua Pengarah.
 
-(2) Orang yang kena membayar cukai itu hendaklah membuat pemotongan yang disebut dalam subseksyen (1) dalam masa satu tahun selepas pembayaran dibuat, atau dalam apa-apa tempoh lanjutan sebagaimana yang diluluskan oleh Ketua Pengarah.".
+(2) Orang yang kena membayar cukai itu hendaklah membuat pemotongan yang disebut dalam subseksyen
+
+(1) dalam masa satu tahun selepas pembayaran dibuat, atau dalam apa-apa tempoh lanjutan sebagaimana yang diluluskan oleh Ketua Pengarah.".
 
 ### Pindaan seksyen 24
 
@@ -538,11 +562,7 @@ Rang Undang-Undang
 
 <!-- marginal: itu -->
 
-digunakan atau telah
-
-<!-- marginal: digunakan -->
-
-sedemikian; atau
+digunakan atau telah digunakan sedemikian; atau
 
 (ii) mana-mana orang yang menjaga, atau selainnya terlibat dalam, pengendalian komputer, perkakas atau bahan itu,
 

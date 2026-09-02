@@ -22,6 +22,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 “An Act to provide for the establishment of the Malaysia Civil Defence Force and to provide for its functions and powers and related matters.”.
 
+<!-- marginal: WJW006533 BM.indd 1 -->
+
 <!-- marginal: 5/20/16 6:13 PM -->
 
 <!-- page 2 -->
@@ -86,6 +88,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 2a. The Malaysia Civil Defence Force is established which shall consist of regular members, volunteer members and auxiliary members.
 
+<!-- marginal: WJW006533 BM.indd 3 -->
+
 <!-- marginal: 5/20/16 6:13 PM -->
 
 <!-- page 4 -->
@@ -124,6 +128,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (k) to set up emergency and first-aid posts and provide first-aid to casualties and to transfer the casualties to hospitals or areas of safety;
 
+<!-- marginal: WJW006533 BM.indd 4 -->
+
 <!-- marginal: 5/20/16 6:13 PM -->
 
 <!-- page 5 -->
@@ -153,6 +159,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 2c. (1) Where there is any overlapping of functions relating to handling of disaster between the Force and any agency or authority, such overlapping of functions shall be resolved and dealt with administratively.
 
 (2) For the purpose of this section, “any agency or authority” includes the police force and fire officer.”.
+
+<!-- marginal: WJW006533 BM.indd 5 -->
 
 <!-- marginal: 5/20/16 6:13 PM -->
 
@@ -190,6 +198,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 4. (1) The Yang di-Pertuan Agong may appoint a Chief Commissioner for the Force.
 
+<!-- marginal: WJW006533 BM.indd 6 -->
+
 <!-- marginal: 5/20/16 6:13 PM -->
 
 <!-- page 7 -->
@@ -216,6 +226,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 4b. The Chief Commissioner may make and issue orders, to be known as the Chief Commissioner’s Standing Orders, consistent with this Act or any subsidiary legislation made under this Act for the carrying out of or giving full effect to the provisions of this Act.
 
+<!-- marginal: WJW006533 BM.indd 7 -->
+
 <!-- marginal: 5/20/16 6:13 PM -->
 
 <!-- page 8 -->
@@ -237,6 +249,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 (f) to restrict the movement of persons and close to the traffic any road, street and any place to which the public have access.
 
 (2) Any person who does not comply with any order given under this section commits an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding five years or to both.
+
+<!-- marginal: WJW006533 BM.indd 8 -->
 
 <!-- marginal: 5/20/16 6:13 PM -->
 
@@ -265,6 +279,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 ### Auxiliary member of the Force
 
 4h. (1) The Chief Commissioner may, with the concurrence of the Minister, appoint any person to serve as an auxiliary member of the Force and may prescribe the area in which such auxiliary member shall serve.
+
+<!-- marginal: WJW006533 BM.indd 9 -->
 
 <!-- marginal: 5/20/16 6:13 PM -->
 
@@ -298,6 +314,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Commissioner”;
 
+<!-- marginal: WJW006533 BM.indd 10 -->
+
 <!-- marginal: 5/20/16 6:13 PM -->
 
 <!-- page 11 -->
@@ -330,6 +348,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (b) dalam subseksyen (1), dengan menggantikan perkataan “the civil defence forces or services” dengan perkataan “the Force”; dan
 
+<!-- marginal: WJW006533 BM.indd 11 -->
+
 <!-- marginal: 5/20/16 6:13 PM -->
 
 <!-- page 12 -->
@@ -359,6 +379,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 ### Protection of employee’s rights
 
 7c. Any volunteer member or auxiliary member of the Force who, during call out by the Yang di-Pertuan Agong is absent from his usual employment by reason of carrying out duties in connection with civil defence in any capacity shall not be liable for dismissal, or loss of annual leave or other benefits to which he may be entitled under any award or agreement applicable to his usual employment, by reason only of such absence, whether or not his usual employer has consented to his absence.
+
+<!-- marginal: WJW006533 BM.indd 12 -->
 
 <!-- marginal: 5/20/16 6:13 PM -->
 
@@ -392,6 +414,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 commits an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding five years or to both.”.
 
+<!-- marginal: WJW006533 BM.indd 13 -->
+
 <!-- marginal: 5/20/16 6:13 PM -->
 
 <!-- page 14 -->
@@ -412,7 +436,9 @@ commits an offence and shall, on conviction, be liable to a fine not exceeding t
 
 15. Akta ibu dipinda dengan memasukkan selepas seksyen 9 jadual yang berikut:
 
-“Schedule [Section 7e]
+## “SCHEDULE
+
+[Section 7e]
 
 ## RANKS FOR THE FORCE
 
@@ -478,6 +504,8 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Pertahanan Awam 1951 (“Akt
 
 5. Fasal 5 bertujuan untuk memasukkan seksyen baharu 2a ke dalam Akta 221 bagi memperuntukkan penubuhan Angkatan Pertahanan Awam Malaysia dan bertujuan untuk memasukkan seksyen baharu 2b ke dalam Akta 221 untuk menyatakan fungsi Angkatan supaya selaras dengan fungsi pertahanan awam di peringkat antarabangsa. Fasal 5 juga bertujuan untuk memasukkan seksyen baharu 2c ke dalam Akta 221 untuk memperkatakan apa-apa pertindihan fungsi antara Angkatan dengan mana-mana agensi atau pihak berkuasa yang berhubungan dengan pengendalian bencana hendaklah diselesaikan dan diuruskan secara pentadbiran.
 
+<!-- marginal: WJW006533 BM.indd 15 -->
+
 <!-- marginal: 5/20/16 6:13 PM -->
 
 <!-- page 16 -->
@@ -525,5 +553,7 @@ Seksyen baharu 7h yang dicadangkan memperuntukkan penalti bagi penyamaran mana-m
 Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya tidak dapat ditentukan sekarang ini.
 
 <!-- marginal: [PN(U2)2900] -->
+
+<!-- marginal: WJW006533 BM.indd 17 -->
 
 <!-- marginal: 5/20/16 6:13 PM -->

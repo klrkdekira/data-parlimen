@@ -38,9 +38,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- marginal: luar pesisir", -->
 
-"aktiviti perniagaan luar
-
-<!-- marginal: pesisir", -->
+"aktiviti perniagaan luar pesisir",
 
 <!-- marginal: "amanah -->
 
@@ -62,41 +60,25 @@ perbankan, insurans, perdagangan, pengurusan, pelesenan, operasi perkapalan atau
 
 Dengan syarat-
 
-(a) berhubung dengan suatu entiti Labuan yang menjalankan apa-apa perniagaan di bawah Bahagian VI dan VII Akta Perkhidmatan Kewangan dan Sekuriti Labuan 2009 [Akta ] dan di bawah
+(a) berhubung dengan suatu entiti Labuan yang menjalankan apa-apa perniagaan di bawah Bahagian VI dan VII Akta Perkhidmatan Kewangan dan Sekuriti Labuan 2009 [Akta ] dan di bawah Bahagian VI dan VII Akta Perkhidmatan Kewangan dan Sekuriti Islam Labuan 2009 [Akta ] , aktiviti itu bolehlah dijalankan dengan pemastautin, dan jika dibenarkan, bolehlah dijalankan dengan menggunakan mata wang Malaysia;
 
-## Bahagian VI dan VII Akta Perkhidmatan
+( b ) berhubung dengan pemegangan pelaburan oleh suatu entiti Labuan dalam syarikat domestik, pemegangan itu bolehlah dengan pemastautin dan dalam mata wang Malaysia;
 
-Kewangan dan Sekuriti Islam Labuan 2009 [Akta ] , aktiviti itu bolehlah dijalankan dengan pemastautin, dan jika dibenarkan, bolehlah dijalankan dengan menggunakan mata wang Malaysia;
+( c ) tertakluk kepada perenggan
 
-( b ) berhubung dengan
-
-<!-- marginal: pemegangan -->
-
-pelaburan oleh suatu entiti Labuan dalam syarikat domestik, pemegangan itu bolehlah dengan pemastautin dan dalam mata wang Malaysia;
-
-( c ) tertakluk kepada
-
-<!-- marginal: perenggan -->
-
-<!-- marginal: ( f ) , -->
+### ( f ) ,
 
 berhubung dengan pemegangan obligasi hutang oleh suatu entiti Labuan dalam suatu syarikat domestik, pemegangan itu bolehlah dalam mata wang Malaysia;
 
 ( d ) berhubung dengan operasi perkapalan, operasi itu bolehlah dijalankan di Labuan atau di luar Malaysia;
 
-( e ) tertakluk kepada
+( e ) tertakluk kepada perenggan
 
-<!-- marginal: perenggan -->
-
-<!-- marginal: ( f ) , -->
+### ( f ) ,
 
 berhubung dengan penjalanan apa-apa aktiviti dengan pemastautin di bawah subseksyen 7(4) Akta Syarikat Labuan 1990 [Akta 4 4 1 ] , aktiviti itu bolehlah dijalankan menggunakan mata wang Malaysia; dan
 
-(f) berhubung dengan penjalanan apa-apa transaksi lain, urusan
-
-<!-- marginal: itu bolehlah -->
-
-dijalankan dengan pemastautin atau dengan menggunakan mata wang Malaysia sebagaimana yang diluluskan oleh Menteri di bawah seksyen 2A Akta ini;
+(f) berhubung dengan penjalanan apa-apa transaksi lain, urusan itu bolehlah dijalankan dengan pemastautin atau dengan menggunakan mata wang Malaysia sebagaimana yang diluluskan oleh Menteri di bawah seksyen 2A Akta ini;
 
 <!-- page 4 -->
 
@@ -104,17 +86,11 @@ dijalankan dengan pemastautin atau dengan menggunakan mata wang Malaysia sebagai
 
 (iii) dalam takrif "orang", dengan menggantikan perkataan "syarikat" dengan perkataan "perbadanan";
 
-takrif "perkongsian
-
-<!-- marginal: terhad -->
+takrif "perkongsian terhad
 
 (iv) dengan memotong luar pesisir", "perniagaan bank luar pesisir" dan "perniagaan insurans luar pesisir";
 
-(v) dalam takrif "syarikat domestik", dengan menggantikan perkataan "Luar Pesisir" dengan
-
-<!-- marginal: perkataan -->
-
-"Labuan";
+(v) dalam takrif "syarikat domestik", dengan menggantikan perkataan "Luar Pesisir" dengan perkataan "Labuan";
 
 (vi) dengan memasukkan selepas takrif "syarikat domestik" takrif yang berikut
 
@@ -124,19 +100,15 @@ takrif "perkongsian
 
 ( b ) dengan menggantikan subseksyen (2) dengan subseksyen yang berikut:
 
-"(2) Jika suatu entiti Labuan menjalankan kedua-dua aktiviti perdagangan Labuan dan
-
-<!-- marginal: aktiviti -->
-
-<!-- marginal: bukan -->
-
-perdagangan Labuan, entiti itu hendaklah disifatkan sebagai menjalankan suatu aktiviti perdagangan Labuan."; dan
+"(2) Jika suatu entiti Labuan menjalankan kedua-dua aktiviti perdagangan Labuan dan aktiviti bukan perdagangan Labuan, entiti itu hendaklah disifatkan sebagai menjalankan suatu aktiviti perdagangan Labuan."; dan
 
 ( c ) dalam subseksyen (3)-
 
 (i) dalam perenggan ( a ) dan ( d ) , dengan menggantikan perkataan "aktiviti perniagaan luar pesisir" dan "suatu syarikat luar pesisir" masing-masing dengan perkataan "aktiviti perniagaan Labuan" dan "suatu entiti Labuan";
 
-selepas koma bernoktah di (ii) dengan memasukkan hujung perenggan ( a ) perkataan "dan"; dan
+selepas koma bernoktah di
+
+(ii) dengan memasukkan hujung perenggan ( a ) perkataan "dan"; dan
 
 (iii) dengan memotong perenggan ( c ) .
 
@@ -402,7 +374,11 @@ Akta ini, permohonan boleh dibuat kepada Ketua Pengarah untuk mendapatkan arahan
 
 9. Pemegang lesen suatu bank Islam Malaysia sebagaimana yang ditakrifkan dalam Akta Perkhidmatan Kewangan dan Sekuriti Islam Labuan 2009
 
-10. Pemegang lesen suatu bank Malaysia sebagaimana yang ditakrifkan dalam Akta Perkhidmatan Kewangan dan Sekuriti Labuan 2009 11. Mana-mana institusi kewangan Labuan yang ditakrifkan dalam Akta Lembaga Perkhidmatan Kewangan Labuan 1996 [Akta 545] 12. Mana-mana orang yang diisytiharkan oleh Menteri sebagai suatu entiti Labuan di bawah subseksyen 2B(2)".
+10. Pemegang lesen suatu bank Malaysia sebagaimana yang ditakrifkan dalam Akta Perkhidmatan Kewangan dan Sekuriti Labuan 2009
+
+11. Mana-mana institusi kewangan Labuan yang ditakrifkan dalam Akta Lembaga Perkhidmatan Kewangan Labuan 1996 [Akta 545]
+
+12. Mana-mana orang yang diisytiharkan oleh Menteri sebagai suatu entiti Labuan di bawah subseksyen 2B(2)".
 
 <!-- page 15 -->
 

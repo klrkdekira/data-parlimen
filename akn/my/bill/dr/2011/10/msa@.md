@@ -216,7 +216,9 @@ dan termasuklah—
 
 (h) melakukan apa-apa benda lain yang difikirkannya patut untuk membolehkannya menjalankan fungsi dan kuasanya dengan berkesan.
 
-(3) Jadual Kedua terpakai bagi tiap-tiap perbadanan yang ditubuhkan oleh Lembaga di bawah subperenggan (2)(c) (iii).
+(3) Jadual Kedua terpakai bagi tiap-tiap perbadanan yang ditubuhkan oleh Lembaga di bawah subperenggan (2)(c)
+
+(iii).
 
 (4) Tertakluk kepada seksyen 7, menjadi tanggungjawab Lembaga dalam melaksanakan fungsinya di bawah Akta ini untuk memastikan bahawa fungsi itu dilaksanakan mengikut apa-apa cara yang akan menjayakan dasar Kerajaan yang sedang berkuat kuasa dan khususnya dasar yang berhubungan dengan industri pembinaan.”.
 
@@ -384,7 +386,7 @@ mengaku janji untuk menjalankan atau menyiapkan kerja pembinaan itu dengan atau 
 
 20. Akta ibu dipinda dengan menggantikan Bahagian VII dengan Bahagian yang berikut:
 
-“Bahagian VII
+## “BAHAGIAN VII
 
 ## PENDAFTARAN, AKREDITASI, PEMERAKUAN DAN LATIHAN
 
@@ -448,7 +450,7 @@ mengaku janji untuk menjalankan atau menyiapkan kerja pembinaan itu dengan atau 
 
 21. Akta ibu dipinda dengan memasukkan selepas Bahagian VII Bahagian yang berikut:
 
-“Bahagian viia
+## “BAHAGIAN VIIA
 
 ## STANDARD DAN KOD AMALAN DALAM INDUSTRI PEMBINAAN
 
@@ -540,9 +542,7 @@ Lembaga boleh, tanpa menjejaskan kesahan yang dipunyainya dalam apa-apa hal lain
 
 (9) Jika seseorang kontraktor tidak membayar apa-apa levi yang kena dibayar dalam tempoh yang ditetapkan oleh Lembaga, kontraktor itu melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit atau empat kali ganda amaun levi yang kena dibayar itu, mengikut mana-mana yang lebih tinggi.
 
-(10) Seseorang kontraktor yang melanggar subseksyen (1) atau
-
-(3) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit.”.
+(10) Seseorang kontraktor yang melanggar subseksyen (1) atau (3) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit.”.
 
 ### Seksyen baru 34a
 
@@ -558,7 +558,7 @@ Lembaga boleh, tanpa menjejaskan kesahan yang dipunyainya dalam apa-apa hal lain
 
 24. Akta ibu dipinda dengan memasukkan selepas Bahagian VIII Bahagian yang berikut:
 
-“Bahagian viiia
+## “BAHAGIAN VIIIA
 
 ## KEWAJIPAN KONTRAKTOR
 
@@ -654,7 +654,7 @@ didenda tidak melebihi lima ratus ribu ringgit dan berkenaan dengan ketidakpatuh
 
 25. Akta ibu dipinda dengan menggantikan Bahagian IX dengan Bahagian yang berikut:
 
-“Bahagian IX
+## “BAHAGIAN IX
 
 ## PENGUATKUASAAN DAN PENYIASATAN
 
@@ -808,7 +808,9 @@ boleh menjalankan berkenaan dengan premis atau tapak pembinaan itu, segala kuasa
 
 (3) Seseorang yang membuat pernyataan di bawah seksyen ini adalah terikat di sisi undang-undang untuk menyatakan yang benar, sama ada atau tidak pernyataan itu dibuat keseluruhannya atau sebahagiannya bagi menjawab soalan- soalan itu.
 
-(4) Seseorang pegawai diberi kuasa yang memeriksa seseorang di bawah subseksyen (1) hendaklah terlebih dahulu memaklumkan orang itu mengenai peruntukan subseksyen (2) dan (3).
+(4) Seseorang pegawai diberi kuasa yang memeriksa seseorang di bawah subseksyen (1) hendaklah terlebih dahulu memaklumkan orang itu mengenai peruntukan subseksyen
+
+(2) dan (3).
 
 (5) Sesuatu pernyataan yang dibuat oleh mana-mana orang di bawah seksyen ini hendaklah, bila mana mungkin, diubah ke dalam bentuk bertulis dan ditandatangani oleh orang yang membuatnya atau dicapkan dengan cap ibu jarinya, mengikut mana-mana yang berkenaan—
 
@@ -944,11 +946,7 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi 
 
 (vii) dengan memasukkan selepas perenggan (i) perenggan yang berikut: “
 
-(j) memperoleh, mendapatkan dan menyenggarakan maklumat yang berhubungan dengan
-
-<!-- marginal: industri -->
-
-pembinaan;
+(j) memperoleh, mendapatkan dan menyenggarakan maklumat yang berhubungan dengan industri pembinaan;
 
 (k) menetapkan mekanisme rayuan bagi mana-mana keputusan Lembaga kepada Menteri dan boleh memperuntukkan bahawa keputusan Menteri itu adalah muktamad dan konklusif;
 
@@ -1060,15 +1058,13 @@ perbuatan, kecuaian atau keingkaran yang dilakukan oleh Lembaga atau anggotanya,
 
 32. Akta ibu dipinda dengan memasukkan selepas Jadual Ketiga jadual yang berikut:
 
-“Jadual Keempat
+## “JADUAL KEEMPAT
 
 [Subseksyen 33c (1)]
 
 ## STANDARD BAGI PEMERAKUAN BAHAN BINAAN
 
-Standard yang diluluskan oleh No. Jenis bahan binaan
-
-<!-- marginal: Lembaga -->
+Standard yang diluluskan oleh No. Jenis bahan binaan Lembaga
 
 1. Peralatan kebersihan (seramik):
 
@@ -1122,9 +1118,7 @@ Standard yang diluluskan oleh No. Jenis bahan binaan Lembaga
 
 (Pindaan)
 
-Standard yang diluluskan oleh No. Jenis bahan binaan
-
-<!-- marginal: Lembaga -->
+Standard yang diluluskan oleh No. Jenis bahan binaan Lembaga
 
 12. Cerucuk konkrit pra-tuang bagi MS 1314:Bahagian 1-6:2004 tapak
 
@@ -1154,7 +1148,9 @@ Standard yang diluluskan oleh No. Jenis bahan binaan
 
 <!-- page 48 -->
 
-Standard yang diluluskan oleh No. Jenis bahan binaan Lembaga
+Standard yang diluluskan oleh No. Jenis bahan binaan
+
+<!-- marginal: Lembaga -->
 
 18. MS 1064 : 2001 GARIS PANDUAN
 

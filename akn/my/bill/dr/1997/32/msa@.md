@@ -24,11 +24,25 @@ II
 
 ## PELESENAN
 
-4. Larangan daripada menjalankan perniagaan pengurupan wang. 5. Pemohon lesen. 6. Permohonan untuk mendapatkan lesen. 7. Pemberian lesen. 8. Fee lesen. 9. Tempoh lesen. 10. Syarat lesen. 11. Mempamerkan lesen. 12. Pembatalan lesen. 13. Rayuan terhadap pembatalan lesen. 14. Lesen apabila dibatalkan hendaklah dikemukakan kepada Bank. 15. Kesan pembatalan.
+4. Larangan daripada menjalankan perniagaan pengurupan wang. 5. Pemohon lesen. 6. Permohonan untuk mendapatkan lesen. 7. Pemberian lesen. 8. Fee lesen. 9. Tempoh lesen.
+
+10. Syarat lesen.
+
+11. Mempamerkan lesen.
+
+12. Pembatalan lesen.
+
+13. Rayuan terhadap pembatalan lesen.
+
+14. Lesen apabila dibatalkan hendaklah dikemukakan kepada Bank.
+
+15. Kesan pembatalan.
 
 <!-- page 2 -->
 
-16. Penyerahan balik lesen. 17. Pemeliharaan hak dan tuntutan. 18. Kelulusan untuk menukar butir-butir pelesenan. 19. Senarai pemegang lesen hendaklah diwartakan.
+16. Penyerahan balik lesen.
+
+17. Pemeliharaan hak dan tuntutan. 18. Kelulusan untuk menukar butir-butir pelesenan. 19. Senarai pemegang lesen hendaklah diwartakan.
 
 ## BAHAGIAN
 
@@ -36,7 +50,11 @@ III
 
 ## PEJABAT PEMEGANG LESEN
 
-20. Pejabat pemegang lesen. 21. Permohonan bagi kelulusan. 22. Fee bagi pejabat.
+20. Pejabat pemegang lesen.
+
+21. Permohonan bagi kelulusan.
+
+22. Fee bagi pejabat.
 
 ## BAHAGIAN
 
@@ -44,23 +62,73 @@ IV
 
 ## PERNIAGAAN PENGURUPAN WANG
 
-23. Modal syer berbayar yang minimum. 24. Penggunaan perkataan "pengurup wang", "tukaran mata wang", dsb. 25. Nama hendaklah dilekatkan di luar pejabat. 26. Iklan. 27. Mempamerkan kadar. 28. Pemegang lesen hendaklah menyediakan resit. 29. Pegangan maksimum mata wang asing. 30. Tiada pengiriman atau pemindahan dana. 31. Larangan pemajakan, pemindahan, dsb., perniagaan pengurupan wang. 32. Pelantikan pengarah, dsb. 33. Juruaudit. 34. Pengemukaan maklumat atau dokumen. 35. Pengemukaan maklumat palsu.
+23. Modal syer berbayar yang minimum.
+
+24. Penggunaan perkataan "pengurup wang", "tukaran mata wang", dsb.
+
+25. Nama hendaklah dilekatkan di luar pejabat.
+
+26. Iklan.
+
+27. Mempamerkan kadar.
+
+28. Pemegang lesen hendaklah menyediakan resit.
+
+29. Pegangan maksimum mata wang asing.
+
+30. Tiada pengiriman atau pemindahan dana.
+
+31. Larangan pemajakan, pemindahan, dsb., perniagaan pengurupan wang.
+
+32. Pelantikan pengarah, dsb.
+
+33. Juruaudit.
+
+34. Pengemukaan maklumat atau dokumen.
+
+35. Pengemukaan maklumat palsu.
 
 ## BAHAGIAN V
 
 ## PENYIASATAN
 
-36. Pelantikan pegawai penyiasat. 37. Kuasa pegawai penyiasat untuk menggeledah dan menyita.
+36. Pelantikan pegawai penyiasat.
+
+37. Kuasa pegawai penyiasat untuk menggeledah dan menyita.
 
 <!-- page 3 -->
 
-38. Pemeriksaan ke atas seseorang. 39. Pemeriksaan orang oleh orang yang sama jantina. 40. Galangan terhadap pegawai penyiasat. 41. Kehendak untuk menyediakan terjemahan. 42. Kuasa untuk memeriksa orang. 43. Penyerahan harta atau dokumen. 44. Bantuan kepada pegawai awam. 45. Pegawai penyiasat disifatkan sebagai pengkhidmat awam dan pegawai awam. 46. Orang yang ditangkap hendaklah diserahkan kepada pihak polis.
+38. Pemeriksaan ke atas seseorang.
+
+39. Pemeriksaan orang oleh orang yang sama jantina.
+
+40. Galangan terhadap pegawai penyiasat.
+
+41. Kehendak untuk menyediakan terjemahan.
+
+42. Kuasa untuk memeriksa orang.
+
+43. Penyerahan harta atau dokumen.
+
+44. Bantuan kepada pegawai awam.
+
+45. Pegawai penyiasat disifatkan sebagai pengkhidmat awam dan pegawai awam.
+
+46. Orang yang ditangkap hendaklah diserahkan kepada pihak polis.
 
 ## BAHAGIAN VI
 
 ## PELBAGAI
 
-47. Kesalahan oleh pertubuhan perbadanan. 48. Tanggungan pengarah, dsb. 49. Pengenaan surcaj. 50. Tanggung rugi. 51. Peraturan-peraturan. 52. Ketakpakaian Akta. 53. Kesalahan boleh tangkap. 54. Kuasa Gabenor untuk mengkompaun kesalahan. 55. Pendakwaan. 56. Percubaan, persubahatan dan pakatan. 57. Menteri boleh meminda Jadual Pertama atau Jadual Kedua.
+47. Kesalahan oleh pertubuhan perbadanan.
+
+48. Tanggungan pengarah, dsb.
+
+49. Pengenaan surcaj.
+
+50. Tanggung rugi.
+
+51. Peraturan-peraturan. 52. Ketakpakaian Akta. 53. Kesalahan boleh tangkap. 54. Kuasa Gabenor untuk mengkompaun kesalahan. 55. Pendakwaan. 56. Percubaan, persubahatan dan pakatan. 57. Menteri boleh meminda Jadual Pertama atau Jadual Kedua.
 
 ## BAHAGIAN VII
 
@@ -116,7 +184,11 @@ oleh Akta Bank Negara Malaysia 1958;
 
 "ditetapkan" ertinya ditetapkan melalui peraturan- peraturan yang disiarkan dalam Warta, dan suatu kuasa untuk menetapkan termasuklah kuasa untuk membuat peruntukan yang berlainan dalam peraturan-peraturan bagi orang yang berlainan atau golongan orang yang berlainan;
 
-"dokumen" mempunyai erti yang sama sebagaimana Akta 56. yang diberikan dalam Akta Keterangan 1950;
+"dokumen" mempunyai erti yang sama sebagaimana
+
+<!-- marginal: Akta 56. -->
+
+yang diberikan dalam Akta Keterangan 1950;
 
 "Gabenor" ertinya Gabenor Bank dan termasuklah seseorang Timbalan Gabenor Bank;
 
@@ -136,7 +208,11 @@ oleh Akta Bank Negara Malaysia 1958;
 
 "pengarah" termasuklah mana-mana orang yang memegang jawatan pengarah, tidak kira dengan apa jua namanya disebut dan, khususnya, tanpa menjejaskan peruntukan terdahulu dalam hal —
 
-(a) suatu perbadanan, mempunyai erti yang sama Akta 125. sebagaimana yang diberikan dalam Akta Syarikat 1965;
+(a) suatu perbadanan, mempunyai erti yang sama
+
+<!-- marginal: Akta 125. -->
+
+sebagaimana yang diberikan dalam Akta Syarikat 1965;
 
 <!-- page 7 -->
 
@@ -186,9 +262,25 @@ Bank untuk menjadi pegawai pelesenan yang bertanggungjawab bagi pelesenan seseor
 
 ## PELESENAN
 
-Larangan
+<!-- marginal: Larangan -->
 
-4. (1) Tiada seorang pun boleh menjalankan perniagaan daripada pengurupan wang tanpa suatu lesen yang diberikan di menjalankan perniagaan bawah Akta ini. pengurupan wang. (2) Mana-mana orang yang melanggar subseksyen (1) adalah melakukan suatu kesalahan dan apabila disabitkan boleh didetida tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
+4. (1) Tiada seorang pun boleh menjalankan perniagaan
+
+<!-- marginal: daripada -->
+
+pengurupan wang tanpa suatu lesen yang diberikan di
+
+<!-- marginal: menjalankan -->
+
+<!-- marginal: perniagaan -->
+
+bawah Akta ini.
+
+<!-- marginal: pengurupan -->
+
+<!-- marginal: wang. -->
+
+(2) Mana-mana orang yang melanggar subseksyen (1) adalah melakukan suatu kesalahan dan apabila disabitkan boleh didetida tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
 
 (3) Bagi maksud Akta ini, "perniagaan pengurupan wang" ertinya—
 
@@ -198,17 +290,31 @@ Larangan
 
 (c) apa-apa perniagaan lain yang boleh ditetapkan oleh Menteri.
 
-Pemohon
+<!-- marginal: Pemohon -->
 
-5. Tiada seorang pun boleh memohon untuk mendapatkan lesen. suatu lesen untuk menjalankan perniagaan pengurupan wang melainkan jika—
+5. Tiada seorang pun boleh memohon untuk mendapatkan
+
+<!-- marginal: lesen. -->
+
+suatu lesen untuk menjalankan perniagaan pengurupan wang melainkan jika—
 
 (a) ia sebuah syarikat; dan
 
 (b) ia mempunyai modal syer berbayar yang minimum, tidak terjejas oleh kerugian, sebanyak satu ratus ribu ringgit atau apa-apa amaun lain yang boleh ditetapkan oleh Menteri.
 
-Permohonan
+<!-- marginal: Permohonan -->
 
-6. Sesuatu permohonan untuk mendapatkan lesen. untuk hendaklah dibuat secara bertulis kepada Bank dalam bentuk mendapatkan lesen. dan mengikut cara sebagaimana yang boleh ditentukan oleh Bank.
+6. Sesuatu permohonan untuk mendapatkan lesen.
+
+<!-- marginal: untuk -->
+
+hendaklah dibuat secara bertulis kepada Bank dalam bentuk
+
+<!-- marginal: mendapatkan -->
+
+<!-- marginal: lesen. -->
+
+dan mengikut cara sebagaimana yang boleh ditentukan oleh Bank.
 
 <!-- page 9 -->
 
@@ -246,13 +352,13 @@ seksyen 6, Bank boleh memberikan suatu lesen, dengan atau tanpa syarat, atau eng
 
 <!-- page 10 -->
 
-Mempamer-
+<!-- marginal: Mempamer- -->
 
-11. (1) Tiap-tiap pemegang lesen
+11. (1) Tiap-tiap pemegang lesen hendaklah
 
-<!-- marginal: hendaklah -->
+<!-- marginal: kan lesen. -->
 
-kan lesen. mempamerkan —
+mempamerkan —
 
 (a) lesennya di kedudukan yang mudah dilihat di tempat utama perniagaannya; dan
 
@@ -260,9 +366,13 @@ kan lesen. mempamerkan —
 
 (2) Seseorang pemegang lesen yang melanggar subseksyen (1) adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi sepuluh ribu ringgit.
 
-Pembatalan
+<!-- marginal: Pembatalan -->
 
-12. (1) Bank boleh membatalkan sesuatu lesen jika ia lesen. berpuas hati bahawa—
+12. (1) Bank boleh membatalkan sesuatu lesen jika ia
+
+<!-- marginal: lesen. -->
+
+berpuas hati bahawa—
 
 (a) pemegang lesen itu telah membuat suatu pernyataan yang palsu atau tidak benar dalam permohonannya untuk mendapatkan suatu lesen;
 
@@ -272,7 +382,31 @@ Pembatalan
 
 (d) pemegang lesen itu telah melanggar mana-mana syarat lesennya; atau
 
-(e) pemegang lesen itu, mana-mana pemegang sahamnya atau mana-mana pengarah,atau pegawainya, yang dengan apa-apa cara mempunyai kawalan ke atas perniagaan pengurupan wang pemegang lesen itu,telah Akta 519. disabitkan atas suatu kesalahan di bawah Akta Bank Negara Malaysia 1958, Akta Bank dan Akta 372. Akta 276. Institusi-Institusi Kewangan 1989, Akta Bank Akta 553. Islam 1983, Akta Insurans 1996, Akta Takaful Akta 312. 1984, Akta Kawalan Pertukaran Wang 1953, Akta 17. Akta 125. Akta Syarikat 1965 atau apa-apa kesalahan yang melibatkan fraud atau kecurangan.
+(e) pemegang lesen itu, mana-mana pemegang sahamnya atau mana-mana pengarah,atau pegawainya, yang dengan apa-apa cara mempunyai kawalan ke atas perniagaan pengurupan wang pemegang lesen itu,telah
+
+<!-- marginal: Akta 519. -->
+
+disabitkan atas suatu kesalahan di bawah Akta Bank Negara Malaysia 1958, Akta Bank dan
+
+<!-- marginal: Akta 372. -->
+
+<!-- marginal: Akta 276. -->
+
+Institusi-Institusi Kewangan 1989, Akta Bank
+
+<!-- marginal: Akta 553. -->
+
+Islam 1983, Akta Insurans 1996, Akta Takaful
+
+<!-- marginal: Akta 312. -->
+
+1984, Akta Kawalan Pertukaran Wang 1953,
+
+<!-- marginal: Akta 17. -->
+
+<!-- marginal: Akta 125. -->
+
+Akta Syarikat 1965 atau apa-apa kesalahan yang melibatkan fraud atau kecurangan.
 
 <!-- page 11 -->
 
@@ -308,23 +442,51 @@ dalam subseksyen 12(4) atau (5) atau dalam apa-apa tempoh lanjutan sebagaimana y
 
 (3) Jika, dalam tempoh yang ditentukan dalam subseksyen (1), orang yang lesennya telah dibatalkan merayu kepada Menteri, pembatalan itu tidaklah boleh berkuatkuasa melainkan jika Menteri mengesahkan pembatalan itu, atau atas apa-apa sebab, menolak rayuan itu atau rayuan itu ditarik balik.
 
-Lesen
+<!-- marginal: Lesen -->
 
-14. (1) Seseorang yang lesennya telah dibatalkan apabila hendaklah, dalam tempoh empat belas hari dari tarikh dibatalkan dikemukakan pembatalan atau, jika dia merayu di bawah subseksyen kepada 13(1), dalam tempoh empat belas hari dari tarikh Bank. pembatalan itu mula berkuatkuasa di bawah subseksyen 13(3), mengemukakan lesennya kepada Bank.
+14. (1) Seseorang yang lesennya telah dibatalkan
+
+<!-- marginal: apabila -->
+
+hendaklah, dalam tempoh empat belas hari dari tarikh
+
+<!-- marginal: dibatalkan -->
+
+<!-- marginal: dikemukakan -->
+
+pembatalan atau, jika dia merayu di bawah subseksyen
+
+<!-- marginal: kepada -->
+
+13(1), dalam tempoh empat belas hari dari tarikh
+
+<!-- marginal: Bank. -->
+
+pembatalan itu mula berkuatkuasa di bawah subseksyen 13(3), mengemukakan lesennya kepada Bank.
 
 (2) Seseorang yang melanggar subseksyen (1) adalah melakukan suatu ke sal ah an dan apabila disabitkan boleh didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
 
-Kesan
+<!-- marginal: Kesan -->
 
-15. (1) Tiada seorang pun yang lesennya telah dibatalkan pembatalan. boleh meneruskan perniagaan pengurupan wang selepas pembatalan berkuatkuasa di bawah seksyen 12 atau 13.
+15. (1) Tiada seorang pun yang lesennya telah dibatalkan
 
-(2) Mana-mana orang yang tidak mematuhi subseksyen (1) adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
+<!-- marginal: pembatalan. -->
+
+boleh meneruskan perniagaan pengurupan wang selepas pembatalan berkuatkuasa di bawah seksyen 12 atau 13.
+
+(2) Mana-mana orang yang tidak mematuhi subseksyen
+
+(1) adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
 
 (3) Apabila lesen itu dibatalkan, Bank tidaklah boleh memulangkan apa-apa fee yang telah dibayar oleh seseorang di bawah seksyen 8 dan 22.
 
-Penyerahan
+<!-- marginal: Penyerahan -->
 
-16. (1) Seseorang pemegang lesen yang bercadang untuk balik lesen. menyerahkan balik lesennya hendaklah memberikan notis bertulis kepada Bank yang memaklumkan Bank tentang cadangan penyerahan balik lesen itu, sebab-sebab penyerahan balik itu dan tarikh penyerahan balik itu akan berkuatkuasa.
+16. (1) Seseorang pemegang lesen yang bercadang untuk
+
+<!-- marginal: balik lesen. -->
+
+menyerahkan balik lesennya hendaklah memberikan notis bertulis kepada Bank yang memaklumkan Bank tentang cadangan penyerahan balik lesen itu, sebab-sebab penyerahan balik itu dan tarikh penyerahan balik itu akan berkuatkuasa.
 
 <!-- page 13 -->
 
@@ -380,9 +542,23 @@ adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak mele
 
 <!-- page 14 -->
 
-Senarai
+<!-- marginal: Senarai -->
 
-19. Bank hendaklah menyiarkan dalam Warta senarai pemegang pemegang lesen bersama dengan alamat pejabatnya tidak lesen hendaklah lewat daripada 30 April setiap tahun dan pindaan kepada diwartakan. senarai itu hendaklah disiarkan dari semasa ke semasa apabila ia dibuat.
+19. Bank hendaklah menyiarkan dalam Warta senarai
+
+<!-- marginal: pemegang -->
+
+pemegang lesen bersama dengan alamat pejabatnya tidak
+
+<!-- marginal: lesen -->
+
+<!-- marginal: hendaklah -->
+
+lewat daripada 30 April setiap tahun dan pindaan kepada
+
+<!-- marginal: diwartakan. -->
+
+senarai itu hendaklah disiarkan dari semasa ke semasa apabila ia dibuat.
 
 ## BAHAGIAN
 
@@ -390,21 +566,41 @@ III
 
 ## PEJABAT PEMEGANG LESEN
 
-Pejabat
+<!-- marginal: Pejabat -->
 
-20. (1) Tiada seorang pun pemegang lesen boleh pemegang membuka atau menempatkan semula sebuah pejabat dalam lesen. Malaysia tanpa memperoleh kelulusan bertulis daripada Bank terlebih dahulu.
+20. (1) Tiada seorang pun pemegang lesen boleh
+
+<!-- marginal: pemegang -->
+
+membuka atau menempatkan semula sebuah pejabat dalam
+
+<!-- marginal: lesen. -->
+
+Malaysia tanpa memperoleh kelulusan bertulis daripada Bank terlebih dahulu.
 
 (2) Bank, dalam memberikan kelulusannya di bawah subseksyen (1), boleh mengenakan syarat sebagaimana yang difikirkan patut.
 
 (3) Mana-mana pemegang lesen yang melanggar subseksyen (1) atau mana-mana syarat yang dikenakan di bawah subseksyen (2) adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi satu ratus ribu ringgit.
 
-Permohonan
+<!-- marginal: Permohonan -->
 
-21. Seseorang pemegang lesen hendaklah memohon secara bagi bertulis untuk mendapatkan kelulusan bertulis Bank di kelulusan. bawah seksyen 20 dalam bentuk dan mengikut cara yang boleh ditentukan oleh Bank.
+21. Seseorang pemegang lesen hendaklah memohon secara
 
-Fee bagi
+<!-- marginal: bagi -->
 
-22. (1) Seseorang pemegang lesen hendaklah membayar pejabat. kepada Bank—
+bertulis untuk mendapatkan kelulusan bertulis Bank di
+
+<!-- marginal: kelulusan. -->
+
+bawah seksyen 20 dalam bentuk dan mengikut cara yang boleh ditentukan oleh Bank.
+
+<!-- marginal: Fee bagi -->
+
+22. (1) Seseorang pemegang lesen hendaklah membayar
+
+<!-- marginal: pejabat. -->
+
+kepada Bank—
 
 (a) suatu fee sebanyak lima ratus ringgit, atau apa- apa amaun lain yang boleh ditetapkan oleh Menteri, apabila memperoleh kelulusan daripada Bank di bawah seksyen 20 untuk membuka suatu pejabat, selain daripada tempat utama perniagaannya; dan
 
@@ -476,15 +672,29 @@ yang di bawahnya ia menjalankan perniagaan atau membuat apa-apa pernyataan yang 
 
 (2) Mana-mana orang yang melanggar subseksyen (1) adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
 
-(3) Subseksyen (1) tidaklah terpakai bagi seseorang pemegang lesen, seseorang peniaga yang diberikuasa atau seseorang yang diberi kebenaran oleh Pengawal Pertukaran Wang Asing di bawah seksyen 4 Akta Kawalan Akta 17. Pertukaran Wang 1953 untuk membeli dan menjual mata wang asing.
+(3) Subseksyen (1) tidaklah terpakai bagi seseorang pemegang lesen, seseorang peniaga yang diberikuasa atau seseorang yang diberi kebenaran oleh Pengawal Pertukaran Wang Asing di bawah seksyen 4 Akta Kawalan
 
-Nama
+<!-- marginal: Akta 17. -->
 
-25. (1) Tiap-tiap pemegang lesen hendaklah melekatkan hendaklah atau mengecat dengan ketara namanya dan perkataan dilekatkan di luar pejabat. "pengurup wang berlesen" dan "licensed money-changer" di luar setiap pejabatnya dalam kedudukan yang mudah dilihat, selain daripada suatu terminal elektronik.
+Pertukaran Wang 1953 untuk membeli dan menjual mata wang asing.
+
+<!-- marginal: Nama -->
+
+25. (1) Tiap-tiap pemegang lesen hendaklah melekatkan
+
+<!-- marginal: hendaklah -->
+
+atau mengecat dengan ketara namanya dan perkataan
+
+<!-- marginal: dilekatkan di -->
+
+<!-- marginal: luar pejabat. -->
+
+"pengurup wang berlesen" dan "licensed money-changer" di luar setiap pejabatnya dalam kedudukan yang mudah dilihat, selain daripada suatu terminal elektronik.
 
 (2) Seseorang pemegang lesen yang melanggar subseksyen (1) adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi sepuluh ribu ringgit.
 
-Iklan.
+<!-- marginal: Iklan. -->
 
 26. (1) Tiada seorang pun, selain daripada seorang pemegang lesen, boleh menerbitkan atau menyiarkan, atau selainnya memudahkan mana-mana orang untuk menerbitkan atau menyiarkan, suatu iklan yang mengandungi—
 
@@ -526,13 +736,25 @@ menyenggara suatu papan kenyataan yang mernpamerkan kadar tukaran semasa yang di
 
 (5) Bagi maksud seksyen ini, "papan kenyataan" ertinya suatu alat yang digunakan untuk mempamerkan kadar tukaran yang dikehendaki di bawah Akta ini dan termasuklah skrin paparan video.
 
-Pemegang
+<!-- marginal: Pemegang -->
 
 28. (1) Seseorang pemegang lesen,
 
 <!-- marginal: sebelum -->
 
-lesen menyempurnakan suatu urus niaga tukaran mata wang hendaklah menyediakan atau apa-apa urus niaga lain yang berhubungan dengan resit. perniagaan pengurupan wangnya, hendaklah menyediakan dalam cara yang mudah dibaca suatu resit berpendua dalam kedua-dua bahasa kebangsaan dan bahasa Inggeris, dengan melengkapkan dengan betul, dengan menggunakan angka-angka Arab dan singkatan yang biasanya digunakan untuk menunjukkan jenis mata wang, butir-butir yang berikut:
+<!-- marginal: lesen -->
+
+menyempurnakan suatu urus niaga tukaran mata wang
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: menyediakan -->
+
+atau apa-apa urus niaga lain yang berhubungan dengan
+
+<!-- marginal: resit. -->
+
+perniagaan pengurupan wangnya, hendaklah menyediakan dalam cara yang mudah dibaca suatu resit berpendua dalam kedua-dua bahasa kebangsaan dan bahasa Inggeris, dengan melengkapkan dengan betul, dengan menggunakan angka-angka Arab dan singkatan yang biasanya digunakan untuk menunjukkan jenis mata wang, butir-butir yang berikut:
 
 (a) nama pemegang lesen, alamat dan nombor telefonnya;
 
@@ -596,19 +818,45 @@ Malaysia; atau
 
 (3) Walau apa pun subseksyen (1), seseorang pemegang lesen, bagi pihak dirinya, boleh mengirim atau memindahkan dana ke luar Malaysia melalui peniaga yang diberikuasa.
 
-Larangan,
+<!-- marginal: Larangan, -->
 
-31. (1) Tiada pemegang lesen boleh tanpa kelulusan pemajakan, bertulis Bank, membenarkan mana-mana bahagian pemmdahan, dsb.. perniagaan pengurupan wangnya
+31. (1) Tiada pemegang lesen boleh tanpa kelulusan
 
-<!-- marginal: dipajakkan, -->
+<!-- marginal: pemajakan, -->
 
-perniagaan dipindahmilikkan atau diserahhakkan kepada, atau dikawal pengurupan oleh, mana-mana orang lain, kecuali setakat atau bagi wang. tempoh, yang boleh ditentukan oleh Bank dalam kelulusannya.
+bertulis Bank, membenarkan mana-mana bahagian
+
+<!-- marginal: pemmdahan, -->
+
+<!-- marginal: dsb.. -->
+
+perniagaan pengurupan wangnya dipajakkan,
+
+<!-- marginal: perniagaan -->
+
+dipindahmilikkan atau diserahhakkan kepada, atau dikawal
+
+<!-- marginal: pengurupan -->
+
+oleh, mana-mana orang lain, kecuali setakat atau bagi
+
+<!-- marginal: wang. -->
+
+tempoh, yang boleh ditentukan oleh Bank dalam kelulusannya.
 
 (2) Mana-mana pemegang lesen yang melanggar subseksyen (1) adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima puluh ribu ringgit.
 
-Pelantikan
+<!-- marginal: Pelantikan -->
 
-32. (1) Tiap-tiap pemegang lesen hendaklah, sebelum pengarah, melantik seseorang pengarah, atau pegawai, yang dengan dsb. apa-apa cara akan mempunyai kawalan ke atas perniagaan pengurupan wangnya, terlebih dahulu mendapat kelulusan bertulis daripada Bank bagi pelantikan yang dicadangkan itu.
+32. (1) Tiap-tiap pemegang lesen hendaklah, sebelum
+
+<!-- marginal: pengarah, -->
+
+melantik seseorang pengarah, atau pegawai, yang dengan
+
+<!-- marginal: dsb. -->
+
+apa-apa cara akan mempunyai kawalan ke atas perniagaan pengurupan wangnya, terlebih dahulu mendapat kelulusan bertulis daripada Bank bagi pelantikan yang dicadangkan itu.
 
 (2) Bank boleh menentukan butir-butir dan maklumat yang akan dikemukakan oleh pemegang lesen berhubungan dengan orang yang baginya kelulusan bertulis Bank diminta di bawah subseksyen (1).
 
@@ -660,13 +908,19 @@ disenggarakan;
 
 (7) Mana-mana orang yang melanggar subseksyen (1) adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima puluh ribu ringgit.
 
-Pengemukaan
+<!-- marginal: Pengemukaan -->
 
-34. (1) Tiap-tiap pemegang lesen
+34. (1) Tiap-tiap pemegang lesen hendaklah
 
-<!-- marginal: hendaklah -->
+<!-- marginal: maklumat -->
 
-maklumat mengemukakan kepada Bank, atau kepada mana-mana atau dokumen. orang yang diberikuasa oleh Bank, apa-apa penyata, dokumen atau maklumat, dan dalam tempoh sebagaimana yang boleh ditentukan oleh Bank.
+mengemukakan kepada Bank, atau kepada mana-mana
+
+<!-- marginal: atau -->
+
+<!-- marginal: dokumen. -->
+
+orang yang diberikuasa oleh Bank, apa-apa penyata, dokumen atau maklumat, dan dalam tempoh sebagaimana yang boleh ditentukan oleh Bank.
 
 <!-- page 23 -->
 
@@ -712,9 +966,27 @@ subseksyen 3(2) untuk menjadi pegawai penyiasat.
 
 <!-- page 24 -->
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-37. (1) Jika didapati oleh Majistret, daripada maklumat pegawai bertulis yang dibuat atas sumpah dan selepas apa-apa penyiasat siasatan yang difikirkannya perlu, bahawa terdapat sebab untuk menggeledah yang munasabah untuk mempercayai bahawa mana-mana dan menyita. premis telah digunakan atau sedang hendak digunakan bagi, atau terdapat dalam atau di mana-mana premis keterangan yang perlu bagi membuktikan, pelakuan suatu kesalahan di bawah Akta ini, maka Majistret boleh mengeluarkan waran yang memberikuasa pegawai penyiasat untuk, pada bila-bila masa yang munasabah sama ada siang atau malam dan dengan bantuan atau tanpa bantuan—
+37. (1) Jika didapati oleh Majistret, daripada maklumat
+
+<!-- marginal: pegawai -->
+
+bertulis yang dibuat atas sumpah dan selepas apa-apa
+
+<!-- marginal: penyiasat -->
+
+siasatan yang difikirkannya perlu, bahawa terdapat sebab
+
+<!-- marginal: untuk -->
+
+<!-- marginal: menggeledah -->
+
+yang munasabah untuk mempercayai bahawa mana-mana
+
+<!-- marginal: dan menyita. -->
+
+premis telah digunakan atau sedang hendak digunakan bagi, atau terdapat dalam atau di mana-mana premis keterangan yang perlu bagi membuktikan, pelakuan suatu kesalahan di bawah Akta ini, maka Majistret boleh mengeluarkan waran yang memberikuasa pegawai penyiasat untuk, pada bila-bila masa yang munasabah sama ada siang atau malam dan dengan bantuan atau tanpa bantuan—
 
 (a) memasuki mana-mana premis dan di situ menggeledah, menyita dan menahan apa-apa harta atau dokumen;
 
@@ -850,9 +1122,19 @@ menghalang pelindungan harta atau dokumen itu,
 
 adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.
 
-Kehendak
+<!-- marginal: Kehendak -->
 
-41. (1) Jika seseorang pegawai penyiasat menjumpai, untuk menyita, menahan atau mengambil milik sesuatu dokumen menyediakan terjemahan yang, pada keseluruhannya atau sebahagiannya adalah dalam suatu bahasa selain daripada bahasa kebangsaan atau bahasa Inggeris, atau dalam apa-apa isyarat atau kod, maka pegawai penyiasat itu, secara lisan atau secara bertulis, boleh menghendaki orang yang mempunyai
+41. (1) Jika seseorang pegawai penyiasat menjumpai,
+
+<!-- marginal: untuk -->
+
+menyita, menahan atau mengambil milik sesuatu dokumen
+
+<!-- marginal: menyediakan -->
+
+<!-- marginal: terjemahan -->
+
+yang, pada keseluruhannya atau sebahagiannya adalah dalam suatu bahasa selain daripada bahasa kebangsaan atau bahasa Inggeris, atau dalam apa-apa isyarat atau kod, maka pegawai penyiasat itu, secara lisan atau secara bertulis, boleh menghendaki orang yang mempunyai
 
 <!-- page 29 -->
 
@@ -896,9 +1178,17 @@ mempunyai pengetahuan tentang fakta dan hal keadaan sesuatu kes untuk hadir di h
 
 adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.
 
-Penyerahan
+<!-- marginal: Penyerahan -->
 
-43. (1) Seseorang pegawai penyiasat, melalui notis harta atau bertulis, boleh menghendaki mana-mana orang supaya dokumen. menyerahkan kepadanya apa-apa harta atau dokumen yang dia ada sebab untuk mempercayai telah digunakan dalam pelakuan sesuatu kesalahan di bawah Akta ini atau boleh membantunya dalam penyiasatan suatu kesalahan di bawah Akta ini yang ada dalam milikan atau jagaan atau di bawah kawalan orang itu atau yang orang itu berkuasa untuk memberikannya.
+43. (1) Seseorang pegawai penyiasat, melalui notis
+
+<!-- marginal: harta atau -->
+
+bertulis, boleh menghendaki mana-mana orang supaya
+
+<!-- marginal: dokumen. -->
+
+menyerahkan kepadanya apa-apa harta atau dokumen yang dia ada sebab untuk mempercayai telah digunakan dalam pelakuan sesuatu kesalahan di bawah Akta ini atau boleh membantunya dalam penyiasatan suatu kesalahan di bawah Akta ini yang ada dalam milikan atau jagaan atau di bawah kawalan orang itu atau yang orang itu berkuasa untuk memberikannya.
 
 (2) Seseorang pegawai penyiasat boleh memberikan kebenaran kepada mana-mana orang untuk memeriksa harta atau dokumen yang ditahan dan diambil milik oleh pegawai penyiasat itu di bawah subseksyen (1) jika orang itu adalah berhak untuk memeriksa harta atau dokumen itu di bawah Akta ini.
 
@@ -996,13 +1286,33 @@ hendaklah diperlakukan mengikut undang-undang yang berhubungan dengan prosedur j
 
 ## PELBAGAI
 
-Kesalahan
+<!-- marginal: Kesalahan -->
 
-47. Tertakluk kepada seksyen 48, jika seseorang yang oleh disabitkan atas suatu kesalahan ialah suatu pertubuhan pertubuhan perbadanan, penalti pemenjaraan bagi kesalahan itu, jika perbadanan. ada, tidaklah terpakai baginya.
+47. Tertakluk kepada seksyen 48, jika seseorang yang
 
-Tanggungan
+<!-- marginal: oleh -->
 
-48. (1) Jika sesuatu kesalahan di bawah Akta ini telah pengarah, dilakukan oleh suatu pertubuhan perbadanan, mana-mana dsb. orang yang pada masa kesalahan itu dilakukan ialah seorang pengarah, atau seorang pegawai, yang dengan apa-apa cara mempunyai kawalan ke atas perniagaan pengurupan wang pertubuhan perbadanan itu, atau yang berupa sebagai bertindak atas apa-apa sifat sedemikian hendaklah disifatkan telah melakukan kesalahan itu dan dihukum dengan sewajarnya melainkan jika dia membuktikan bahawa kesalahan itu dilakukan tanpa keizinannya atau pembiarannya dan bahawa dia telah menjalankan segala usaha untuk mencegah pelakuan kesalahan itu sebagaimana yang patut dilakukannya, dengan mengambil kira jenis fungsinya atas sifat itu dan semua hal keadaan.
+disabitkan atas suatu kesalahan ialah suatu pertubuhan
+
+<!-- marginal: pertubuhan -->
+
+perbadanan, penalti pemenjaraan bagi kesalahan itu, jika
+
+<!-- marginal: perbadanan. -->
+
+ada, tidaklah terpakai baginya.
+
+<!-- marginal: Tanggungan -->
+
+48. (1) Jika sesuatu kesalahan di bawah Akta ini telah
+
+<!-- marginal: pengarah, -->
+
+dilakukan oleh suatu pertubuhan perbadanan, mana-mana
+
+<!-- marginal: dsb. -->
+
+orang yang pada masa kesalahan itu dilakukan ialah seorang pengarah, atau seorang pegawai, yang dengan apa-apa cara mempunyai kawalan ke atas perniagaan pengurupan wang pertubuhan perbadanan itu, atau yang berupa sebagai bertindak atas apa-apa sifat sedemikian hendaklah disifatkan telah melakukan kesalahan itu dan dihukum dengan sewajarnya melainkan jika dia membuktikan bahawa kesalahan itu dilakukan tanpa keizinannya atau pembiarannya dan bahawa dia telah menjalankan segala usaha untuk mencegah pelakuan kesalahan itu sebagaimana yang patut dilakukannya, dengan mengambil kira jenis fungsinya atas sifat itu dan semua hal keadaan.
 
 (2) Mana-mana orang yang akan didapati melakukan suatu kesalahan jika apa-apa jua telah dilakukan atau ditinggalkan daripada dilakukan olehnya sendiri, adalah melakukan kesalahan itu dan boleh dikenakan penalti yang sama jika kesalahan itu telah dilakukan atau ditinggalkan daripada dilakukan oleh ejen atau pegawainya semasa menjalankan perniagaannya atau semasa menjalankan pekerjaannya, mengikut mana-mana yang berkenaan, melainkan jika dia membuktikan bahawa kesalahan itu telah dilakukan tanpa pengetahuan atau keizinannya dan dia telah mengambil segala langkah berjaga-jaga yang munasabah untuk mencegah perkara itu daripada dilakukan, atau ditinggalkan daripada dilakukan.
 
@@ -1052,21 +1362,45 @@ Pertukaran Wang 1953.
 
 <!-- page 34 -->
 
-Kesalahan
+<!-- marginal: Kesalahan -->
 
-53. Sesuatu kesalahan yang boleh dihukum di bawah boleh Akta ini ialah suatu kesalahan boleh tangkap, dan seorang tangkap. pegawai polis yang berpangkat tidak rendah daripada Inspektor, atau seorang pegawai penyiasat yang dilantik di bawah subseksyen 36(1), boleh menangkap tanpa waran seseorang yang semunasabahnya disyaki olehnya telah melakukan atau sedang melakukan kesalahan itu.
+53. Sesuatu kesalahan yang boleh dihukum di bawah
 
-Kuasa
+<!-- marginal: boleh -->
 
-54. (1) Gabenor boleh mengkompaun sesuatu kesalahan Gabenor di bawah Akta ini atau di bawah peraturan-peraturan untuk mengkompaun yang dibuat di bawah Akta ini dengan menerima daripada kesalahan. orang yang semunasabahnya disyaki telah melakukan kesalahan itu suatu amaun yang tidak melebihi denda bagi kesalahan itu atau lima puluh ribu ringgit, mengikut mana yang lebih rendah, dalam tempoh sebagaimana yang ditentukan dalam tawaran bertulisnya atau apa-apa tempoh lanjutan sebagaimana yang boleh diberikan oleh Gabenor.
+Akta ini ialah suatu kesalahan boleh tangkap, dan seorang
+
+<!-- marginal: tangkap. -->
+
+pegawai polis yang berpangkat tidak rendah daripada Inspektor, atau seorang pegawai penyiasat yang dilantik di bawah subseksyen 36(1), boleh menangkap tanpa waran seseorang yang semunasabahnya disyaki olehnya telah melakukan atau sedang melakukan kesalahan itu.
+
+<!-- marginal: Kuasa -->
+
+54. (1) Gabenor boleh mengkompaun sesuatu kesalahan
+
+<!-- marginal: Gabenor -->
+
+di bawah Akta ini atau di bawah peraturan-peraturan
+
+<!-- marginal: untuk -->
+
+<!-- marginal: mengkompaun -->
+
+yang dibuat di bawah Akta ini dengan menerima daripada
+
+<!-- marginal: kesalahan. -->
+
+orang yang semunasabahnya disyaki telah melakukan kesalahan itu suatu amaun yang tidak melebihi denda bagi kesalahan itu atau lima puluh ribu ringgit, mengikut mana yang lebih rendah, dalam tempoh sebagaimana yang ditentukan dalam tawaran bertulisnya atau apa-apa tempoh lanjutan sebagaimana yang boleh diberikan oleh Gabenor.
 
 (2) Sesuatu tawaran di bawah subseksyen (1) boleh dibuat pada bila-bila masa selepas kesalahan itu dilakukan tetapi sebelum apa-apa pendakwaan baginya dimulakan.
 
 (3) Jika amaun wang itu tidak dibayar dalam masa yang ditentukan dalam tawaran di bawah subseksyen (1), atau apa-apa tempoh lanjutan sebagaimana yang boleh diberikan oleh Gabenor, pendakwaan bagi kesalahan itu boleh dimulakan pada bila-bila masa selepas itu terhadap orang yang kepadanya tawaran itu telah dibuat.
 
-(4) Apabila bayaran amaun wang di bawah subseksyen (1) diterima, tiada pendakwaan boleh dimulakan berkenaan dengan kesalahan itu terhadap orang yang kepadanya tawaran untuk mengkompaun itu telah dibuat.
+(4) Apabila bayaran amaun wang di bawah subseksyen
 
-Pendakwaan.
+(1) diterima, tiada pendakwaan boleh dimulakan berkenaan dengan kesalahan itu terhadap orang yang kepadanya tawaran untuk mengkompaun itu telah dibuat.
+
+<!-- marginal: Pendakwaan. -->
 
 55. (1) Tiada pendakwaan bagi sesuatu kesalahan di bawah Akta ini boleh dimulakan kecuali dengan keizinan bertulis Pendakwa Raya.
 
@@ -1130,9 +1464,37 @@ dilesenkan di bawah seksyen 4 Akta Kawalan Pertukaran Wang 1953 untuk membeli da
 
 <!-- page 36 -->
 
-Pemberian
+<!-- marginal: Pemberian -->
 
-59. (1) Jika baki tempoh kesahan lesen seseorang yang lesen kepada disifatkan sebagai dilesenkan di bawah subseksyen 58(1) orang yang disifatkan ialah dua bulan atau lebih dari tarikh yang ditetapkan, sebagai maka orang itu hendaklah memohon di bawah seksyen 6 dilesenkan di untuk mendapatkan lesen bagi menjalankan perniagaan bawah subseksyen pengurupan wang bagi baki tempoh kesahan lesennya 58(1). dalam masa enam bulan dari tarikh yang ditetapkan dan seksyen 8 dan 22 tidaklah terpakai bagi orang itu.
+59. (1) Jika baki tempoh kesahan lesen seseorang yang
+
+<!-- marginal: lesen kepada -->
+
+disifatkan sebagai dilesenkan di bawah subseksyen 58(1)
+
+<!-- marginal: orang yang -->
+
+<!-- marginal: disifatkan -->
+
+ialah dua bulan atau lebih dari tarikh yang ditetapkan,
+
+<!-- marginal: sebagai -->
+
+maka orang itu hendaklah memohon di bawah seksyen 6
+
+<!-- marginal: dilesenkan di -->
+
+untuk mendapatkan lesen bagi menjalankan perniagaan
+
+<!-- marginal: bawah -->
+
+<!-- marginal: subseksyen -->
+
+pengurupan wang bagi baki tempoh kesahan lesennya
+
+<!-- marginal: 58(1). -->
+
+dalam masa enam bulan dari tarikh yang ditetapkan dan seksyen 8 dan 22 tidaklah terpakai bagi orang itu.
 
 (2) Jika baki tempoh kesahan lesen seseorang yang disifatkan sebagai dilesenkan di bawah subseksyen 58(1) adalah kurang daripada dua bulan dari tarikh yang ditetapkan, maka orang itu hendaklah memohon dengan serta-merta untuk mendapatkan suatu lesen baru bagi menjalankan perniagaan pengurupan wang di bawah seksyen 6, dan seksyen 8 dan 22 hendaklah terpakai bagi orang itu.
 
@@ -1144,11 +1506,29 @@ Pemberian
 
 (b) subseksyen (1) atau (2) adalah dipatuhi tetapi suatu lesen ditolak di bawah seksyen 7, pada tarikh penolakan.
 
-Pemindahan
+<!-- marginal: Pemindahan -->
 
-60. Dalam tempoh lima tahun dari tarikh yang perniagaan ditetapkan— kepada syarikat dan
+60. Dalam tempoh lima tahun dari tarikh yang
 
-(a) suatu ketuanpunyaan tunggal atau suatu peningkatan modal syer perkongsian, yang disifatkan sebagai dilesenkan berbayar. di bawah subseksyen 58(1), hendaklah memindahkan kepada suatu syarikat harta, perniagaan dan liabilitinya berhubungan dengan perniagaan pengurupan wangnya dalam Malaysia; dan
+<!-- marginal: perniagaan -->
+
+ditetapkan—
+
+<!-- marginal: kepada -->
+
+<!-- marginal: syarikat dan -->
+
+(a) suatu ketuanpunyaan tunggal atau suatu
+
+<!-- marginal: peningkatan -->
+
+<!-- marginal: modal syer -->
+
+perkongsian, yang disifatkan sebagai dilesenkan
+
+<!-- marginal: berbayar. -->
+
+di bawah subseksyen 58(1), hendaklah memindahkan kepada suatu syarikat harta, perniagaan dan liabilitinya berhubungan dengan perniagaan pengurupan wangnya dalam Malaysia; dan
 
 <!-- page 37 -->
 
@@ -1176,11 +1556,7 @@ diperuntukkan dalam seksyen 60.
 
 ## MATA WANG ASING YANG TIDAK TERMASUK
 
-Mata wang dari wilayah yang berikut tidaklah termasuk dalam takrif "mata wang asing":
-
-1. Israel.
-
-2. Republik Persekutuan Yugoslavia (Serbia dan Montenegro).
+Mata wang dari wilayah yang berikut tidaklah termasuk dalam takrif "mata wang asing": 1. Israel. 2. Republik Persekutuan Yugoslavia (Serbia dan Montenegro).
 
 ## JADUAL KEDUA
 
@@ -1232,13 +1608,45 @@ diberikan di bawah Akta ini atau Akta Kawalan Pertukaran Wang 1953 telah dibatal
 
 (g) sama ada dia akan dapat bekerja sepenuh masa, dan tidak akan menjalankan apa-apa perniagaan atau pekerjaan lain, kecuali sebagai pengarah bukan eksekutif atau pemegang syer syarikat lain.
 
-Orang yang 2. Seseorang adalah disifatkan sebagai orang yang tidak "layak disifatkan sebagai tidak "layak dan dan sesuai" jika— sesuai"
+<!-- marginal: Orang yang -->
+
+2. Seseorang adalah disifatkan sebagai orang yang tidak "layak
+
+<!-- marginal: disifatkan sebagai -->
+
+<!-- marginal: tidak "layak dan -->
+
+dan sesuai" jika—
+
+<!-- marginal: sesuai" -->
 
 (a) dia pernah dikompaunkan atau disabitkan; atau
 
 (b) sebagai seorang pengarah, atau seorang pegawai, yang dengan apa-apa cara mempunyai kawalan ke atas perniagaan pengurupan wang seseorang pemegang lesen, telah menyebabkan pemegang lesen itu dikompaunkan atau disabitkan,
 
-Akta 125. atas suatu kesalahan di bawah Akta ini, Akta Syarikat 1965, Akta Akta 519. Bank Negara Malaysia 1958, Akta Bank dan Institusi-Institusi Akta 372. Kewangan 1989, Akta Bank Islam 1983, Akta Insurans 1996, Akta Akta 276. Akta 553. Takaful 1984, Akta Kawalan Pertukaran Wang 1953 atau apa-apa Akta 312. kesalahan yang melibatkan fraud atau kecurangan. Akta 17.
+<!-- marginal: Akta 125. -->
+
+atas suatu kesalahan di bawah Akta ini, Akta Syarikat 1965, Akta
+
+<!-- marginal: Akta 519. -->
+
+Bank Negara Malaysia 1958, Akta Bank dan Institusi-Institusi
+
+<!-- marginal: Akta 372. -->
+
+Kewangan 1989, Akta Bank Islam 1983, Akta Insurans 1996, Akta
+
+<!-- marginal: Akta 276. -->
+
+<!-- marginal: Akta 553. -->
+
+Takaful 1984, Akta Kawalan Pertukaran Wang 1953 atau apa-apa
+
+<!-- marginal: Akta 312. -->
+
+kesalahan yang melibatkan fraud atau kecurangan.
+
+<!-- marginal: Akta 17. -->
 
 <!-- page 39 -->
 

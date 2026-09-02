@@ -86,9 +86,7 @@ IV
 
 ### intituled
 
-An Act to amend the Income Tax Act 1967, the Petroleum (Income Tax) Act 1967 and the Stamp Act
-
-1949. [ ]
+An Act to amend the Income Tax Act 1967, the Petroleum (Income Tax) Act 1967 and the Stamp Act 1949. [ ]
 
 BE IT ENACTED by the Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong with the advice and consent of the Dewan Negara and Dewan Rakyat in Parliament assembled, and by the authority of the same, as follows:
 
@@ -100,9 +98,7 @@ I
 
 <!-- marginal: Short title. -->
 
-1. This Act may be cited as the Finance (No.2 ) Act
-
-1993.
+1. This Act may be cited as the Finance (No.2 ) Act 1993.
 
 <!-- marginal: Amendments -->
 
@@ -152,29 +148,29 @@ respectively.
 
 (6) Sections 17, 18, 19, 20, 21, 22, 23, 24 and 25 shall have effect upon the coming into force of this Act.
 
-### Amendment
+<!-- marginal: Amendment -->
 
 4. The Income Tax Act 1967, which is referred to as
 
-### of section 2.
+<!-- marginal: of section 2. -->
 
 the "principal Act" in this Chapter, is amended in subsection 2(1) in the definition of "approved scheme" by inserting after the word "means" the words "the Employees Provident Fund or".
 
-### Amendment
+<!-- marginal: Amendment -->
 
 5. Subsection 6A(2) of the principal Act is amended—
 
-### of section 6A.
+<!-- marginal: of section 6A. -->
 
 (a) by substituting for the word "sixty" in paragraph (a) the word "ninety"; and
 
 (b) by substituting for the word "thirty" in paragraph (b) the word "fifty".
 
-### Amendment
+<!-- marginal: Amendment -->
 
 6. Section 34 of the principal Act is amended—
 
-### of section 34.
+<!-- marginal: of section 34. -->
 
 (a) in subsection (4), by substituting for the word "fifteen" in paragraph (a) the word "sixteen";
 
@@ -230,7 +226,7 @@ substituting for subsection (3) the following subsection:
 
 <!-- page 6 -->
 
-6
+<!-- marginal: 6 -->
 
 ## BILL
 
@@ -238,13 +234,7 @@ to a deduction (in this subsection referred to as the ordinary deduction)—
 
 (a) in respect of a child who at any time in the basis year for that year of assessment is over the age of eighteen years and—
 
-(i) is receiving full-time instruction at a university, college
-
-<!-- marginal: or -->
-
-<!-- marginal: other -->
-
-establishment (similar to a university or college) of higher education; or
+(i) is receiving full-time instruction at a university, college or other establishment (similar to a university or college) of higher education; or
 
 (ii) is serving under articles or indentures with a view to qualifying in a trade or profession,
 
@@ -288,17 +278,23 @@ Provided that in respect of a child who commenced receiving further education in
 
 <!-- page 8 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-12. Section 60o of the principal Act is amended in of section subsection (5), in the definition of "venture capital
+12. Section 60o of the principal Act is amended in
+
+<!-- marginal: of section -->
+
+subsection (5), in the definition of "venture capital
 
 60B. company", by substituting for paragraph (b) the following paragraph:
 
 "(b) is engaged wholly in the making of investments and, throughout the basis period for a year of assessment, not less than seventy per cent of the total funds invested consist of the holding of shares in a venture company, the shares in which are not listed for quotation in the official list of a stock exchange in Malaysia at the time of acquisition of such shares by that venture capital company; and".
 
-Amendment
+<!-- marginal: Amendment -->
 
-13. Subsection 60E(7) of the principal Act is amended— of section 60E.
+13. Subsection 60E(7) of the principal Act is amended—
+
+<!-- marginal: of section 60E. -->
 
 (a) in the definition of "approved operational headquarters company", by substituting for the comma in paragraph (c) a semicolon;
 
@@ -306,15 +302,13 @@ Amendment
 
 (c) in the definition of "qualifying seryices", by substituting for paragraph (b) the following paragraph:
 
-"(b) provision of treasury and
+"(b) provision of treasury and fund management services to its offices outside Malaysia or its related companies outside Malaysia and, where such services include the provision of credit facilities, where the funds for providing such facilities are obtained from outside Malaysia; and".
 
-<!-- marginal: fund -->
+<!-- marginal: Amendment -->
 
-management services to its offices outside Malaysia or its related companies outside Malaysia and, where such services include the provision of credit facilities, where the funds for providing such facilities are obtained from outside Malaysia; and".
+14. Section 76 of the principal Act is amended—
 
-Amendment
-
-14. Section 76 of the principal Act is amended— of section 76.
+<!-- marginal: of section 76. -->
 
 (a) by substituting for the full stop at the end of subsection (1) a colon; and
 
@@ -322,9 +316,7 @@ Amendment
 
 ## FINANCE
 
-(NO. 2)
-
-<!-- marginal: 9 -->
+(NO. 2) 9
 
 (b) by inserting after subsection (1) the following proviso:
 
@@ -358,43 +350,85 @@ the basis year for the year of assessment 1994 to which subsection (2c) applies,
 
 compared total shall be determined at the rate of thirty-two per cent.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-16. Section 110 of the principal Act is amended by of section inserting after subsection (le) the following subsection:
+16. Section 110 of the principal Act is amended by
+
+<!-- marginal: of section -->
+
+inserting after subsection (le) the following subsection:
 
 110. "(lc) Notwithstanding subsection (1), where tax on any dividend paid, credited or distributed during the basis year for the year of assessment 1994 has been deducted at the rate of thirty-four per cent, the tax to be set off under subsection (1) shall be the sum deemed to be the tax deducted from such dividend under section 108(2c).".
 
-Amendment
+<!-- marginal: Amendment -->
 
-17. Subsection 112(1) of the principal Act is amended of seclion by substituting for the words "not exceeding one
+17. Subsection 112(1) of the principal Act is amended
+
+<!-- marginal: of seclion -->
+
+by substituting for the words "not exceeding one
 
 112. thousand ringgit" the words "of not less than two hundred ringgit and not more than two thousand ringgit".
 
-Amendment
+<!-- marginal: Amendment -->
 
-18. Subsection 113(1) of the principal Act is amended of section by substituting for the words "not exceeding five
+18. Subsection 113(1) of the principal Act is amended
+
+<!-- marginal: of section -->
+
+by substituting for the words "not exceeding five
 
 113. thousand ringgit" the words "of not less than one thousand ringgit and not more than ten thousand ringgit".
 
-Amendment
+<!-- marginal: Amendment -->
 
-19. Subsection 114(1) of the principal Act is amended of section by substituting for the words "not exceeding ten thousand
+19. Subsection 114(1) of the principal Act is amended
+
+<!-- marginal: of section -->
+
+by substituting for the words "not exceeding ten thousand
 
 114. ringgit" the words "of not less than one thousand ringgit and not more than twenty thousand ringgit".
 
-Amendment
+<!-- marginal: Amendment -->
 
-20. Subsection 115(1) of the principal Act is amended of section by substituting for the words "not exceeding one 115 thousand ringgit" the words "of not less than two hundred ringgit and not more than two thousand ringgit".
+20. Subsection 115(1) of the principal Act is amended
 
-Amendment
+<!-- marginal: of section -->
 
-21. Section 116 of the principal Act is amended by of section substituting for the word "two" the word "four". 116
+by substituting for the words "not exceeding one
 
-Amendment 22. Subsection 117(1) of the principal Act is amended of section by substituting for the word "two" the word "four",
+<!-- marginal: 115 -->
+
+thousand ringgit" the words "of not less than two hundred ringgit and not more than two thousand ringgit".
+
+<!-- marginal: Amendment -->
+
+21. Section 116 of the principal Act is amended by
+
+<!-- marginal: of section -->
+
+substituting for the word "two" the word "four".
+
+<!-- marginal: 116 -->
+
+<!-- marginal: Amendment -->
+
+22. Subsection 117(1) of the principal Act is amended
+
+<!-- marginal: of section -->
+
+by substituting for the word "two" the word "four",
 
 117.
 
-Amendment 23. Section 118 of the principal Act is amended by of section substituting for the word "ten" the word "twenty".
+<!-- marginal: Amendment -->
+
+23. Section 118 of the principal Act is amended by
+
+<!-- marginal: of section -->
+
+substituting for the word "ten" the word "twenty".
 
 118.
 
@@ -454,21 +488,17 @@ qualifying expenditure for that year and for each of the nine following years of
 
 <!-- page 12 -->
 
-individuals employed by him
-
-<!-- marginal: in -->
-
-<!-- marginal: that -->
-
-business, that building shall be treated as an industrial building for the purposes of that business at any time that it is used by individuals so employed, and there shall be substituted for the amount of the allowance which would otherwise fall to be made to him under paragraph 12, 16, 17 or 42 an allowance equal to one-tenth of
-
-<!-- marginal: the -->
-
-qualifying expenditure for that year and for each of the nine following years of assessment.
+individuals employed by him in that business, that building shall be treated as an industrial building for the purposes of that business at any time that it is used by individuals so employed, and there shall be substituted for the amount of the allowance which would otherwise fall to be made to him under paragraph 12, 16, 17 or 42 an allowance equal to one-tenth of the qualifying expenditure for that year and for each of the nine following years of assessment.
 
 (3) Notwithstanding any other prowision of this Schedule, for the purposes of this paragraph the qualifying expenditure in the case of a purchased building shall be the purchase price of that building.
 
-(4) For the purposes of subparagraph (1), "individuals employed by him" does not include a director, an individual having control of that business or an individual who is a member of the management, admini- strative or clerical staff engaged in that business.". Amendment 28. Schedule 6 to the principal Act is amended— of Schedule 6.
+(4) For the purposes of subparagraph (1), "individuals employed by him" does not include a director, an individual having control of that business or an individual who is a member of the management, admini- strative or clerical staff engaged in that business.".
+
+<!-- marginal: Amendment -->
+
+28. Schedule 6 to the principal Act is amended—
+
+<!-- marginal: of Schedule 6. -->
 
 (a) in paragraph 32, by inserting after the word "work" the parentheses and words "(other than any original painting)";
 
@@ -512,7 +542,11 @@ Amendment
 
 1. Where a company which is resident in Malaysia for the basis year for a year of assessment has incurred in the basis period for that year of assessment capital expenditure on a factory, plant or machinery, used in Malaysia for the purposes of any qualifying project, there shall be given to the company for that year of assessment a reinvestment allowance of fifty per cent of that expenditure:
 
-Provided that in the case of a company other than a small scale company as defined under section 33(4) of the Promotion of Investments Act 327. Act 1986 whose basis period for the year of assessment 1995 includes a period prior to the first of January
+Provided that in the case of a company other than a small scale company as defined under section 33(4) of the Promotion of Investments
+
+<!-- marginal: Act 327. -->
+
+Act 1986 whose basis period for the year of assessment 1995 includes a period prior to the first of January
 
 <!-- page 14 -->
 
@@ -530,11 +564,37 @@ III
 
 ## (INCOME TAX) ACT 1967
 
-Commence-
+<!-- marginal: Commence- -->
 
-30. (1) Except for section 34(b), this Chapter shall be ment of deemed to have come into force on the 23rd January amendments io the 1991. Petroleum (Income Tax) (2) Section 34(b) shall have effect for the year of Act 1967, assessment 1994 and subsequent years of assessment.
+30. (1) Except for section 34(b), this Chapter shall be
 
-Amendment 31, The Petroleum (Income Tax) Act 1967, which is of section 2. referred to as the "principal Act" in this Chapter, is amended in section 2—
+<!-- marginal: ment of -->
+
+deemed to have come into force on the 23rd January
+
+<!-- marginal: amendments -->
+
+<!-- marginal: io the -->
+
+1991.
+
+<!-- marginal: Petroleum -->
+
+<!-- marginal: (Income Tax) -->
+
+(2) Section 34(b) shall have effect for the year of
+
+<!-- marginal: Act 1967, -->
+
+assessment 1994 and subsequent years of assessment.
+
+<!-- marginal: Amendment -->
+
+31, The Petroleum (Income Tax) Act 1967, which is
+
+<!-- marginal: of section 2. -->
+
+referred to as the "principal Act" in this Chapter, is amended in section 2—
 
 (a) in the definition of "chargeable person" in subsection (1), by inserting after subparagraph (i) the following subparagraph: "(ii) Malaysia-Thailand Joint Authority,"
 
@@ -584,15 +644,19 @@ subsection (1), by inserting after the words "Petroleum Nasional Berhad" whereve
 
 <!-- page 16 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-34. Section 23 of the principal Act is amended— of section 23.
+34. Section 23 of the principal Act is amended—
+
+<!-- marginal: of section 23. -->
 
 (a) by renumbering the existing section 23 as subsection 23(1);
 
 (b) by substituting for the words "forty-five" in the renumbered subsection 23 (1) the word "forty"; and
 
-(c) by inserting after the renumbered subsection (1) the following subsections:
+(c) by inserting after the renumbered subsection
+
+(1) the following subsections:
 
 "(2) Notwithstanding subsection (1), the chargeable tax for any year of assessment of a chargeable person on income derived from petroleum operations in the Joint Development Area shall be an amount equal to—
 
@@ -612,9 +676,7 @@ Provided that where the chargeable income ascertained relates to income from two
 
 ## FINANCE
 
-(NO. 2)
-
-<!-- marginal: 17 -->
+(NO. 2) 17
 
 <!-- marginal: New section -->
 
@@ -622,17 +684,33 @@ Provided that where the chargeable income ascertained relates to income from two
 
 <!-- marginal: 65B. -->
 
-section 65A the following section; "r-exemption 65e. (1) The Minister may, by statutory order, to give exempt from tax any chargeable person or effect to agreements exempt from tax the income (wholly or in part) in over- of any chargeable person to give effect to any lapping areas. agreement or arrangement made by
+section 65A the following section;
 
-<!-- marginal: the -->
+<!-- marginal: "r-exemption -->
 
-Government with the government of any territory outside Malaysia for the joint exploration and exploitation of petroleum in overlapping areas.
+65e. (1) The Minister may, by statutory order,
 
-(2) Any order made under subsection (1) shall be laid before the House
+<!-- marginal: to give -->
 
-<!-- marginal: of -->
+exempt from tax any chargeable person or
 
-Representatives.
+<!-- marginal: effect to -->
+
+<!-- marginal: agreements -->
+
+exempt from tax the income (wholly or in part)
+
+<!-- marginal: in over- -->
+
+of any chargeable person to give effect to any
+
+<!-- marginal: lapping -->
+
+<!-- marginal: areas. -->
+
+agreement or arrangement made by the Government with the government of any territory outside Malaysia for the joint exploration and exploitation of petroleum in overlapping areas.
+
+(2) Any order made under subsection (1) shall be laid before the House of Representatives.
 
 (3) Nothing in subsection (1) shall absolve or be deemed to have absolved the said chargeable person from complying with any requirement to submit any return or statement of accounts or to furnish any other information under the provisions of this Act in respect of the income exempted under this section.".
 
@@ -676,7 +754,13 @@ January 1994.
 
 <!-- page 18 -->
 
-Amendment 39. (1) Paragraph 9(1)(c) of the principal Act is of section 9. amended—
+<!-- marginal: Amendment -->
+
+39. (1) Paragraph 9(1)(c) of the principal Act is
+
+<!-- marginal: of section 9. -->
+
+amended—
 
 (a) by inserting after the word "January" a comma;
 
@@ -684,9 +768,15 @@ Amendment 39. (1) Paragraph 9(1)(c) of the principal Act is of section 9. amende
 
 (c) by substituting for the word "eight" the word ufourteen".
 
-(2) A banker, stockbroker or insurer authorised under subsection 9(1) of the principal Act before the 1st January 1994 shall as from that date be subject to the conditions in that subsection as amended by subsection (1) of this section.
+(2) A banker, stockbroker or insurer authorised under subsection 9(1) of the principal Act before the 1st January 1994 shall as from that date be subject to the conditions in that subsection as amended by subsection
 
-Amendment 40. Section 80 of the principal Act is amended— of section 80.
+(1) of this section.
+
+<!-- marginal: Amendment -->
+
+40. Section 80 of the principal Act is amended—
+
+<!-- marginal: of section 80. -->
 
 (a) in subsection (2), by inserting after the word "chargeable" the words "or the further amount payable under section 9(l)(c)";
 
@@ -694,15 +784,33 @@ Amendment 40. Section 80 of the principal Act is amended— of section 80.
 
 (c) in subsection (3), by inserting after the word "such" the word and punctuation mark "exemption,".
 
-Amendment 41. The First Schedule to the principal Act is amended of First by deleting item 70.
+<!-- marginal: Amendment -->
+
+41. The First Schedule to the principal Act is amended
+
+<!-- marginal: of First -->
+
+by deleting item 70.
 
 ## Schedule.
 
-Amendment 42. The Second Schedule to the principal Act is of Second amended by deleting item 19.
+<!-- marginal: Amendment -->
+
+42. The Second Schedule to the principal Act is
+
+<!-- marginal: of Second -->
+
+amended by deleting item 19.
 
 ## Schedule.
 
-Amendment 43. The Fifth Schedule to the principal Act is amended of Fifth by deleting item 7.
+<!-- marginal: Amendment -->
+
+43. The Fifth Schedule to the principal Act is amended
+
+<!-- marginal: of Fifth -->
+
+by deleting item 7.
 
 ## Schedule.
 
@@ -738,9 +846,7 @@ II
 
 8. Clause 12 seeks to amend the definition of "venture capital company" in section 60D to permit such a company to invest not more than 30 per cent of its funds in investments other than investments in a venture company. This amendment will be effective from the 1st January 1994.
 
-9. Clause 13(c) seeks to amend the definition of "qualifying services" in subsection 60E(7) to permit an "approved operational headquarters company" lo provide treasury and fund management services to its related companies and offices outside Malaysia and to provide credit facilities from funds borrowed outside Malaysia. This amendment will be deemed to be effective from the 1st January
-
-1993.
+9. Clause 13(c) seeks to amend the definition of "qualifying services" in subsection 60E(7) to permit an "approved operational headquarters company" lo provide treasury and fund management services to its related companies and offices outside Malaysia and to provide credit facilities from funds borrowed outside Malaysia. This amendment will be deemed to be effective from the 1st January 1993.
 
 10. Clause 15 seeks to amend section 108 by inserting a new subsection (2c) which provides that tax at the rate of 32 per cent will be deemed to have been deducted from dividends received by shareholders in the year 1993 while tax deduction in respect of dividends paid by companies in 1993 for purposes of subsection 108(4) shall be at the rate of 32 per cent. This amendment will be effective from the year of assessment 1994.
 
@@ -762,9 +868,7 @@ II
 
 to RM12.000.00. This amendment will be effective from the year of assessment 1994. Clause 28(d) seeks to exempt income in respect of savings bonds issued by the Central Bank of Malaysia (effective from the 16th February 1993).
 
-16. Clause 29 seeks to amend Schedule 7A by increasing the reinvestment allowance from 40 per cent to 50 per cent and by deleting the period during which qualifying expenditure has to be incurred. This amendment will be effective from the 1st January
-
-1994.
+16. Clause 29 seeks to amend Schedule 7A by increasing the reinvestment allowance from 40 per cent to 50 per cent and by deleting the period during which qualifying expenditure has to be incurred. This amendment will be effective from the 1st January 1994.
 
 17. All other amendments are minor or consequential.
 

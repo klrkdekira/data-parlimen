@@ -1,0 +1,127 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-26-2005",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/eng@/~cl_4"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Food Act (Amendment) Bill 2005"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Food (Amendment) Act 2005. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/eng@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Food Act 1983 [Act 281], which in this Act is referred to as the \"principal Act\", is amended in section 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of \"authorized officer\" by substituting for the words \"health inspector\" the words \"assistant environmental health officer\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"authorized officer\" the following definition: \"compoundable offence\" means an offence under this Act or any regulation made under this Act and prescribed to be a compoundable offence by regulations made under this Act.\". New section 32B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 32A the following section: \"Power to order appearance in court 32B. (1) Where the Director or any authorized officer has reasonable grounds for believing that any person committed an offence under this Act, he may, in lieu of applying to the court for a summons, forthwith serve upon that person a notice ordering that person to appear before the nearest court of a Magistrate having jurisdiction to try the offence, at a time and date to be stated in such notice. (2) If any person who was served with a notice as provided by subsection (1) fails to appear in person or by counsel, the court may, if satisfied that the notice was served, issue a warrant for the arrest of that person unless it appears that it was not reasonably possible for that person so to appear or in the case of a compoundable offence, that person has within the period specified in the notice, been permitted to compound the offence pursuant to section 33. (3) The notice under subsection (1) shall be as prescribed by regulations.\". Amendment of section 33"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/eng@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 33 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsections (1) and (2) the following subsections: \"(1) The Director or any authorized officer authorized by the Director may, with the consent in writing of the Public Prosecutor, compound any compoundable offence committed by any person by making a written offer to the person and by collecting from the person an amount of money not exceeding fifty per centum of the amount of maximum fine for the offence committed. (2) Any payment of compound under this section shall be made at the place specified in the notice under section 32B and within the period as specified in such notice or, in the case where the extension of period is given, within such period.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (5)."
+      }
+    }
+  ]
+}

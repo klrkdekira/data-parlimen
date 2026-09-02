@@ -14,7 +14,11 @@
 
 ## REGISTRATION OF CARE CENTRES
 
-4. Care centres to be registered. 5. Prohibition of unregistered care centres. 6. Registration. 7. Conditions to be imposed. 8. Register of care centres. 9. Inspeclion of register. 10. Certificate of registration. 11. Cancellation of registration.
+4. Care centres to be registered. 5. Prohibition of unregistered care centres. 6. Registration. 7. Conditions to be imposed. 8. Register of care centres. 9. Inspeclion of register.
+
+10. Certificate of registration.
+
+11. Cancellation of registration.
 
 ## PART
 
@@ -22,7 +26,15 @@ III
 
 ## OFFICERS AND THEIR POWERS
 
-12. Appomtment of officers. 13. Powers of Director General and authonsed officers. 14. Power of Director General to give written directions. 15. Power to order closure of registered care centres. 16. Power to enter and inspect suspected premises. 17. Right to retuse compliance in absence of proof of identity and authority.
+12. Appomtment of officers.
+
+13. Powers of Director General and authonsed officers. 14. Power of Director General to give written directions.
+
+15. Power to order closure of registered care centres.
+
+16. Power to enter and inspect suspected premises.
+
+17. Right to retuse compliance in absence of proof of identity and authority.
 
 ## PART
 
@@ -30,7 +42,9 @@ IV
 
 ## MISCELLANEOUS
 
-18. Offences and penalties. 19. Offences by body corporate and by employees and agents.
+18. Offences and penalties.
+
+19. Offences by body corporate and by employees and agents.
 
 <!-- page 2 -->
 
@@ -102,11 +116,19 @@ otherwise; but in the case of premises operated or managed by a natural person, 
 
 "residentia! care centre" means, subject to section 3, any premises at which four or more persons are received for care as residents therein, whether for reward or otherwise; but in the case of premises operated or managed by a natural person, a person who is a relative of that person shall not be reckoned in determining the number of persons received at the premises for the purposes of this definition.
 
-Exempted
+<!-- marginal: Exempted -->
 
-3. This Act shall not apply to— premises, etc.
+3. This Act shall not apply to—
 
-(a) any government hospital, or any private hospital Act 43. licensed under the Private Hospitals Act 1971;
+<!-- marginal: premises, -->
+
+<!-- marginal: etc. -->
+
+(a) any government hospital, or any private hospital
+
+<!-- marginal: Act 43. -->
+
+licensed under the Private Hospitals Act 1971;
 
 <!-- page 5 -->
 
@@ -190,7 +212,7 @@ paragraph (a), during a further period after the end of that period until the ex
 
 (c) if the applicant appeals to the Minister under section 22 within the said period of thirty days, during a further period after the end of that period until the date the applicant is notified of a decision to dismiss the appeal.
 
-Registration.
+<!-- marginal: Registration. -->
 
 6. ( 1) An application for the registration of a care centre shall be made to the Director General in the prescribed form.
 
@@ -232,11 +254,7 @@ may impose such conditions as he thinks fit and proper, including conditions—
 
 (c) to ensure that adequate and balanced diets and sufficient rest and recreation are provided at the care centre;
 
-(f) to ensure that the care centre will be adequately and suitably equipped
-
-<!-- marginal: and maintained, -->
-
-particularly in the interests ot" health;
+(f) to ensure that the care centre will be adequately and suitably equipped and maintained, particularly in the interests ot" health;
 
 (g) to ensure that adequate arrangements will be made for suitable and proper medical treatment, physiotherapy, psychotherapy, occupalional therapy, or any other treatment. within a reasonable time, in respect of any ailment suffered by the residents or persons received for care at the care centre;
 
@@ -246,9 +264,13 @@ particularly in the interests ot" health;
 
 (i) requiring the payment of such sum of money as may be determined by the Director General as a security deposit to ensure the compliance by the operator with the provisions of the Act, the regulations made under section 24, and the conditions imposed under this section, and for the protection and in the interests of the residents and persons received for care at the care centre.
 
-Register of
+<!-- marginal: Register of -->
 
-8. (1) The Director General shall cause to be kept, in care centres. such form as he may specify,—
+8. (1) The Director General shall cause to be kept, in
+
+<!-- marginal: care centres. -->
+
+such form as he may specify,—
 
 (a) a register of residential care centres; and
 
@@ -258,13 +280,25 @@ registered under this Act containing, in respect of each centre— (i) the name 
 
 (2) A copy of or an extract from an entry in the register purporting to be certified under the hand of the Director General shall, until the contrary is proved, be admitted in evidence as proof of the facts stated therein as at the date of the certificate.
 
-Inspection
+<!-- marginal: Inspection -->
 
-9. Any person may, on application in writing to the of register. Director General and on payment of the prescribed fee, inspect the register during office hours.
+9. Any person may, on application in writing to the
 
-Certificate
+<!-- marginal: of register. -->
 
-10. (1) After a care centre is registered, the Director of General shall, on payment of the prescribed fee, issue registration. a certificate of registration in the prescribed form in respect of the care centre, and the certificate shall specify the name and address of the operator of the care centre, the name and address of the care centre, and the conditions imposed under section 7.
+Director General and on payment of the prescribed fee, inspect the register during office hours.
+
+<!-- marginal: Certificate -->
+
+10. (1) After a care centre is registered, the Director
+
+<!-- marginal: of -->
+
+General shall, on payment of the prescribed fee, issue
+
+<!-- marginal: registration. -->
+
+a certificate of registration in the prescribed form in respect of the care centre, and the certificate shall specify the name and address of the operator of the care centre, the name and address of the care centre, and the conditions imposed under section 7.
 
 <!-- page 9 -->
 
@@ -344,9 +378,7 @@ whether—
 
 (2) In the course of an inspection under this section the Director General or any authorised officer may—
 
-(a) pur questions concerning the management of the registered care centre to its operator or any person in charge or taking part
-
-<!-- marginal: in -->
+(a) pur questions concerning the management of the registered care centre to its operator or any person in charge or taking part in
 
 <!-- marginal: t he -->
 
@@ -354,7 +386,27 @@ management of, or employed in, the registered care centre, and all such persons 
 
 (b) require any such person to produce to him any records required to be kept under this Act or any records relating to the registered care centre, and may seize them and take copies of them.
 
-Power of 14. ( 1) The Director General may, in respect of any Director registered care centre, give such directions in writing. General to g i ve consistent with this Act, the regulations made under written section 24. and the conditions imposed under section 7, directions as he thinks necessary to ensure that—
+<!-- marginal: Power of -->
+
+14. ( 1) The Director General may, in respect of any
+
+<!-- marginal: Director -->
+
+registered care centre, give such directions in writing.
+
+<!-- marginal: General -->
+
+<!-- marginal: to g i ve -->
+
+consistent with this Act, the regulations made under
+
+<!-- marginal: written -->
+
+section 24. and the conditions imposed under section 7,
+
+<!-- marginal: directions -->
+
+as he thinks necessary to ensure that—
 
 (a) it is operated and managed satisfactorily:
 
@@ -408,9 +460,23 @@ order or, if the operator appeals to the Minister under section 22 against the o
 
 (c) a copy thereof is posted in a conspicuous place on or in the premises to which it relates.
 
-Power to
+<!-- marginal: Power to -->
 
-16. (1) The Director General or any authorised officer enter and may ai any reasonable time enter and inspect any inspect suspccred premises reasonably suspected of being used as or for premises. a care centre that is not registered Under this Act and may make such inquiries therein as he considers necessary.
+16. (1) The Director General or any authorised officer
+
+<!-- marginal: enter and -->
+
+may ai any reasonable time enter and inspect any
+
+<!-- marginal: inspect -->
+
+<!-- marginal: suspccred -->
+
+premises reasonably suspected of being used as or for
+
+<!-- marginal: premises. -->
+
+a care centre that is not registered Under this Act and may make such inquiries therein as he considers necessary.
 
 (2) In the course of an inspection under this section the Director General or any authorised officer may—
 
@@ -418,9 +484,29 @@ Power to
 
 (b) require any such person to produce to him any records relating to the premises, and may seize them and take copies of them.
 
-Right to
+<!-- marginal: Right to -->
 
-17. Any person may refuse to comply with any demand refuse or order by the Director General or an authorised officer complrance in ahsence acting under this Act if the Director General or of proof of authorised officer refuses, on demand, to produce proof identity and authority. of his identity and authority.
+17. Any person may refuse to comply with any demand
+
+<!-- marginal: refuse -->
+
+or order by the Director General or an authorised officer
+
+<!-- marginal: complrance -->
+
+<!-- marginal: in ahsence -->
+
+acting under this Act if the Director General or
+
+<!-- marginal: of proof of -->
+
+authorised officer refuses, on demand, to produce proof
+
+<!-- marginal: identity and -->
+
+<!-- marginal: authority. -->
+
+of his identity and authority.
 
 <!-- page 13 -->
 
@@ -484,11 +570,25 @@ corporate, or was assisting in such management, shall be guilty of that offence 
 
 Presumption. 20. In any prosecution for any offence under this Act, if it is proved that any person did any act in connection with the organisation, operation, or management of a care centre, it shall be presumed, until the contrary is proved, that that person took part in the management of the care centre.
 
-Conduct of 21. Any prosecution in respect of any offence under prosecution. this Act may be conducted by an authorised officer.
+<!-- marginal: Conduct of -->
 
-Appeal to 22. Any person aggrieved by any decision or act of the Minister. Director General under this Act rnay, within thirty days from the date he is notified of the decision or act, appeal in writing to the Minister, whose decision shall be final.
+21. Any prosecution in respect of any offence under
 
-Exemption. 23. The Minister may, by order published in the Gazette, subject to any conditions which he thinks fit to impose, exempt any care centre, or any class, category or description of care centres, from any provision of this Act or any regulations made thereunder, if the Minister is satisfied that there are special circumstances, and that it would not be contrary to public interest, to do so.
+<!-- marginal: prosecution. -->
+
+this Act may be conducted by an authorised officer.
+
+<!-- marginal: Appeal to -->
+
+22. Any person aggrieved by any decision or act of the
+
+<!-- marginal: Minister. -->
+
+Director General under this Act rnay, within thirty days from the date he is notified of the decision or act, appeal in writing to the Minister, whose decision shall be final.
+
+<!-- marginal: Exemption. -->
+
+23. The Minister may, by order published in the Gazette, subject to any conditions which he thinks fit to impose, exempt any care centre, or any class, category or description of care centres, from any provision of this Act or any regulations made thereunder, if the Minister is satisfied that there are special circumstances, and that it would not be contrary to public interest, to do so.
 
 <!-- page 15 -->
 

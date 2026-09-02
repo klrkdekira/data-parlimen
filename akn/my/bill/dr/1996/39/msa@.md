@@ -64,11 +64,7 @@ dalam seksyen 1 dalam nota birai dengan menggantikan perkataan "Nama" dengan per
 
 <!-- page 3 -->
 
-Penilai, Pentaksir dan Ejen
-
-<!-- marginal: 3 -->
-
-Harta-Tanah (Pindaan)
+Penilai, Pentaksir dan Ejen 3 Harta-Tanah (Pindaan)
 
 (g) dengan menggantikan takrif "kuasa untuk menjalankan amalan" dengan takrif yang berikut:
 
@@ -78,19 +74,11 @@ Harta-Tanah (Pindaan)
 
 ' "pengurus harta" ertinya seseorang, sesuatu firma atau sesuatu syarikat yang, bagi pihak pemunya mana-mana tanah, bangunan dan apa- apa kepentingan dalamnya, menguruskan dan mengawal tanah, bangunan dan kepentingan itu untuk memelihara atau menambah pelaburan dalam, atau nilai fizikal, harta itu;
 
-"pengurusan harta" ertinya pengurusan dan pengawalan apa-apa tanah, bangunan dan apa- apa kepentingan dalamnya, tidak termasuk pengurusan perniagaan berdasarkan harta, bagi pihak pemunya untuk suatu
-
-<!-- marginal: fee dan -->
-
-termasuklah tetapi tidak terhad kepada tanggungjawab yang berikut:
+"pengurusan harta" ertinya pengurusan dan pengawalan apa-apa tanah, bangunan dan apa- apa kepentingan dalamnya, tidak termasuk pengurusan perniagaan berdasarkan harta, bagi pihak pemunya untuk suatu fee dan termasuklah tetapi tidak terhad kepada tanggungjawab yang berikut:
 
 (a) mengawasi perbelanjaan untuk harta itu dan membuat pembayaran daripada pendapatan daripada harta itu;
 
-(b) rnenyediakan belanjawan
-
-<!-- marginal: dan -->
-
-menyenggara rekod kewangan untuk harta itu;
+(b) rnenyediakan belanjawan dan menyenggara rekod kewangan untuk harta itu;
 
 (c) menguatkuasakan terma pajakan dan perjanjian lain yang berhubungan dengan harta itu;
 
@@ -162,17 +150,27 @@ Harta-Tanah (Pindaan)
 
 (5) Fee dan caj yang ditetapkan di bawah seksyen ini boleh dikurangkan, diketepikan atau dibayar balik sebagaimana yang difikirkan patut oleh Menteri.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-5. Subseksyen 5(2) Akta ibu adalah dipinda dengan seksyen 5. menggantikan perkataan "lima" dengan perkataan "sepuluh".
+5. Subseksyen 5(2) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 5. -->
 
-6. Subseksyen 6(3) Akta ibu adalah dipinda dengan seksyen 6. menggantikan perkataan "lima" dengan perkataan "sepuluh".
+menggantikan perkataan "lima" dengan perkataan "sepuluh".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-7. Seksyen 9 Akta ibu adalah dipinda— seksyen 9.
+6. Subseksyen 6(3) Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 6. -->
+
+menggantikan perkataan "lima" dengan perkataan "sepuluh".
+
+<!-- marginal: Pindaan -->
+
+7. Seksyen 9 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 9. -->
 
 (a) dalam subseksyen (2)—
 
@@ -222,11 +220,15 @@ Harta-Tanah (Pindaan)
 
 (h) dalam perenggan (i) dengan menggantikan perkataan "Bahagian VII" dengan perkataan "Bahagian VIII".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-9. Seksyen 12 Akta ibu adalah dipinda— seksyen 12.
+9. Seksyen 12 Akta ibu adalah dipinda—
 
-(a) dalam subseksyen (1) dengan menggantikan perkataan "yang kena dibayar dan semua wang" dengan perkataan ", denda dan kos yang kena dibayar di bawah Akta ini dan semua wang lain";
+<!-- marginal: seksyen 12. -->
+
+(a) dalam subseksyen (1) dengan menggantikan perkataan "yang kena dibayar dan semua wang" dengan perkataan ", denda dan kos yang kena dibayar di bawah Akta ini dan semua wang
+
+<!-- marginal: lain"; -->
 
 (b) dalam subseksyen (2)—
 
@@ -262,7 +264,7 @@ Harta-Tanah (Pindaan)
 
 <!-- marginal: tajuk -->
 
-## Bahagian IV dengan tajuk yang berikut:
+Bahagian IV dengan tajuk yang berikut:
 
 ## Bahagian IV.
 
@@ -320,7 +322,35 @@ Penilai, Pentaksir dan Ejen 11 Harta-Tanah (Pindaan)
 
 <!-- marginal: 15A. -->
 
-seksyen 15 seksyen yang berikut: " Permoho- 15A. Penilai berdaftar, pentaksir berdaftar atau nan bagi ejen harta-tanah berdaftar hendaklah memohon mendapat- kan kuasa kepada Lembaga bagi mendapatkan kuasa untuk untuk menjalankan amalan jika dia bercadang untuk menjalan- kan menjalankan amalan sebagai penilai berdaftar amalan atau pentaksir berdaftar di bawah seksyen 19 atau sebagai ejen harta-tanah berdaftar di bawah seksyen 22B.".
+seksyen 15 seksyen yang berikut: "
+
+<!-- marginal: Permoho- -->
+
+15A. Penilai berdaftar, pentaksir berdaftar atau
+
+<!-- marginal: nan bagi -->
+
+ejen harta-tanah berdaftar hendaklah memohon
+
+<!-- marginal: mendapat- -->
+
+<!-- marginal: kan kuasa -->
+
+kepada Lembaga bagi mendapatkan kuasa untuk
+
+<!-- marginal: untuk -->
+
+menjalankan amalan jika dia bercadang untuk
+
+<!-- marginal: menjalan- -->
+
+<!-- marginal: kan -->
+
+menjalankan amalan sebagai penilai berdaftar
+
+<!-- marginal: amalan -->
+
+atau pentaksir berdaftar di bawah seksyen 19 atau sebagai ejen harta-tanah berdaftar di bawah seksyen 22B.".
 
 <!-- marginal: Pindaan -->
 
@@ -332,13 +362,13 @@ seksyen 15 seksyen yang berikut: " Permoho- 15A. Penilai berdaftar, pentaksir be
 
 <!-- page 12 -->
 
-12 Rang Undang-Undang
+<!-- marginal: 12 -->
 
-(b) dalam teks bahasa Inggeris dalam subseksyen (4) dengan menggantikan
+Rang Undang-Undang
 
-<!-- marginal: perkataan -->
+(b) dalam teks bahasa Inggeris dalam subseksyen
 
-"ommissions" dengan perkataan "omissions";
+(4) dengan menggantikan perkataan "ommissions" dengan perkataan "omissions";
 
 (c) dengan menggantikan subseksyen (7) dengan subseksyen yang berikut:
 
@@ -346,21 +376,13 @@ seksyen 15 seksyen yang berikut: " Permoho- 15A. Penilai berdaftar, pentaksir be
 
 (a) yang merupakan seorang pekerja, hendaklah, dalam masa satu bulan dari apa-apa perubahan pekerjaan, memberitahu Lembaga secara bertulis mengenai nama, alamat perniagaan dan butir-butir lain majikannya yang dahulu serta majikannya yang baru;
 
-(b) yang bukan seorang pekerja, hendaklah, dalam masa satu bulan dari apa-apa perubahan dalam nama, alamat perniagaan, perkongsian, pemegangan syer atau pengarahan amalannya atau apa-apa perubahan dalam penilai berdaftar, pentaksir berdaftar atau ejen harta-tanah berdaftar yang menjalankan amalan di bawah penggajiannya atau di bawah penggajian
-
-<!-- marginal: firmanya, -->
-
-memberitahu Lembaga secara bertulis mengenai perubahan itu,
+(b) yang bukan seorang pekerja, hendaklah, dalam masa satu bulan dari apa-apa perubahan dalam nama, alamat perniagaan, perkongsian, pemegangan syer atau pengarahan amalannya atau apa-apa perubahan dalam penilai berdaftar, pentaksir berdaftar atau ejen harta-tanah berdaftar yang menjalankan amalan di bawah penggajiannya atau di bawah penggajian firmanya, memberitahu Lembaga secara bertulis mengenai perubahan itu,
 
 dan perubahan itu hendaklah dimasukkan dalam Daftar yang sesuai."; dan
 
 (d) dengan memasukkan selepas subseksyen (7) subseksyen yang berikut:
 
-"(7A) Bagi maksud perenggan
-
-<!-- marginal: (b) -->
-
-subseksyen (7), suatu notis yang diberikan oleh pekongsi, pemegang syer atau pengarah orang yang berkenaan hendaklah disifatkan sebagai mematuhi dengan secukupnya perenggan itu.
+"(7A) Bagi maksud perenggan (b) subseksyen (7), suatu notis yang diberikan oleh pekongsi, pemegang syer atau pengarah orang yang berkenaan hendaklah disifatkan sebagai mematuhi dengan secukupnya perenggan itu.
 
 <!-- page 13 -->
 
@@ -368,11 +390,7 @@ Harta-Tanah (Pindaan)
 
 (7B) Perenggan (a) subseksyen (7) hendaklah juga terpakai bagi semua penilai percubaan dan ejen harta-tanah percubaan dan apa-apa perubahan hendaklah dimasukkan dalam Daftar Penilai Percubaan/Ejen Harta- Tanah Percubaan dengan sewajarnya.".
 
-14. Seksyen 17 Akta ibu adalah dipinda—
-
-<!-- marginal: Pindaan -->
-
-<!-- marginal: seksyen 17. -->
+14. Seksyen 17 Akta ibu adalah dipinda— Pindaan seksyen 17.
 
 (a) dalam subseksyen (1)—
 
@@ -392,11 +410,35 @@ Harta-Tanah (Pindaan)
 
 <!-- page 14 -->
 
-Penggantian
+<!-- marginal: Penggantian -->
 
-15. Akta ibu adalah dipinda dengan menggantikan seksyen seksyen 18. 18 dengan seksyen yang berikut:
+15. Akta ibu adalah dipinda dengan menggantikan seksyen
 
-"Kelayakan 18. (1) Tertakluk kepada peruntukan Akta ini, untuk tiada seorang pun berhak mendapat namanya pendaftaran penilai dan dimasukkan di bawah Bahagian I Daftar penilai melainkan jika dia telah didaftarkan sebagai percubaan. penilai percubaan di bawah Akta ini.
+<!-- marginal: seksyen 18. -->
+
+18 dengan seksyen yang berikut:
+
+<!-- marginal: "Kelayakan -->
+
+18. (1) Tertakluk kepada peruntukan Akta ini,
+
+<!-- marginal: untuk -->
+
+tiada seorang pun berhak mendapat namanya
+
+<!-- marginal: pendaftaran -->
+
+<!-- marginal: penilai dan -->
+
+dimasukkan di bawah Bahagian I Daftar
+
+<!-- marginal: penilai -->
+
+melainkan jika dia telah didaftarkan sebagai
+
+<!-- marginal: percubaan. -->
+
+penilai percubaan di bawah Akta ini.
 
 (2) Mana-mana orang yang telah lulus peperiksaan yang ditetapkan oleh Lembaga atau yang telah memperoleh kelayakan yang diiktiraf oleh Lembaga sebagai setara dengan peperiksaan itu boleh memohon kepada Lembaga untuk didaftarkan sebagai penilai percubaan.
 
@@ -404,7 +446,9 @@ Penggantian
 
 (4) Jika penilai percubaan telah mematuhi kehendak subseksyen (3), dia boleh memohon kepada Lembaga untuk mendapat namanya dimasukkan dalam Daftar.
 
-(5) Walau apa pun subseksyen (1), (2) dan (3), seseorang anggota siswazah daripada Bahagian Perundingan Hartanah dan Ukuran Penilaian, Institusi Jurukur (Malaysia) yang telah mematuhi kehendak subseksyen (3) boleh memohon kepada Lembaga untuk mendapat namanya dimasukkan dalam Daftar.
+(5) Walau apa pun subseksyen (1), (2) dan
+
+(3), seseorang anggota siswazah daripada Bahagian Perundingan Hartanah dan Ukuran Penilaian, Institusi Jurukur (Malaysia) yang telah mematuhi kehendak subseksyen (3) boleh memohon kepada Lembaga untuk mendapat namanya dimasukkan dalam Daftar.
 
 (6) Seseorang yang bukan warganegara atau pemastautin tetap Malaysia tidak layak untuk didaftarkan sebagai penilai atau sebagai penilai percubaan melainkan jika dia adalah atau pernah menjadi penilai berdaftar atau pentaksir berdaftar sebelum seksyen ini mula berkuatkuasa.".
 
@@ -412,23 +456,19 @@ Penggantian
 
 Harta-Tanah (Pindaan)
 
-<!-- marginal: Pindaan -->
+Pindaan
 
-16. Perenggan 19(b) Akta ibu adalah dipinda dengan
+16. Perenggan 19(b) Akta ibu adalah dipinda dengan seksyen 19. memasukkan selepas perkataan "kajian kemungkinan," perkataan "pengurusan projek,".
 
-<!-- marginal: seksyen 19. -->
+Pindaan
 
-memasukkan selepas perkataan "kajian kemungkinan," perkataan "pengurusan projek,".
-
-<!-- marginal: Pindaan -->
-
-17. Seksyen 21 Akta ibu adalah dipinda—
-
-<!-- marginal: seksyen 21. -->
+17. Seksyen 21 Akta ibu adalah dipinda— seksyen 21.
 
 (a) dalam subseksyen (1)—
 
-(i) dengan memasukkan selepas perkataan "pentaksir berdaftar" perkataan "dan yang kepadanya suatu kuasa untuk menjalankan amalan telah dikeluarkan di bawah seksyen 16";
+(i) dengan memasukkan selepas perkataan "pentaksir berdaftar" perkataan "dan yang kepadanya suatu kuasa untuk menjalankan amalan telah dikeluarkan di bawah seksyen
+
+<!-- marginal: 16"; -->
 
 (ii) dalam perenggan (a) dengan memotong perkataan "sebagai seorang penilai atau pentaksir";
 
@@ -456,17 +496,13 @@ memasukkan selepas perkataan "kajian kemungkinan," perkataan "pengurusan projek,
 
 (c) dengan memasukkan selepas subseksyen (2) subseksyen yang berikut:
 
-"(3) Bagi maksud perenggan (a) subseksyen (2), "pemunya mana-mana tanah, bangunan dan
-
-<!-- marginal: apa-apa -->
-
-kepentingan dalamnya" ertinya—
+"(3) Bagi maksud perenggan (a) subseksyen (2), "pemunya mana-mana tanah, bangunan dan apa-apa kepentingan dalamnya" ertinya—
 
 (a) pemunya berdaftar;
 
 (b) benefisiari apa-apa harta pusaka atau amanah si mati; dan
 
-Akta 56/1965.
+<!-- marginal: Akta 56/1965. -->
 
 (c) pemajak yang kepentingannya didaftarkan di bawah Kanun Tanah Negara,
 
@@ -516,31 +552,31 @@ Harta-Tanah (Pindaan)
 
 "(2) Walau apa pun subseksyen (1 A), Lembaga boleh membenarkan ejen harta-tanah berdaftar menjalankan pengurusan harta—
 
-(a) jika dia dibenarkan berbuat demikian sebelum subseksyen (1A) mula berkuatkuasa; dan
+(a) jika dia dibenarkan berbuat demikian sebelum subseksyen
 
-(b) tertakluk kepada syarat dan sekatan yang
+(1A) mula berkuatkuasa; dan
 
-<!-- marginal: sama yang -->
+(b) tertakluk kepada syarat dan sekatan yang sama yang dikenakan oleh Lembaga ke atasnya sebelum subseksyen
 
-dikenakan oleh Lembaga ke atasnya sebelum subseksyen (1A) mula berkuatkuasa.".
+(1A) mula berkuatkuasa.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-20. Seksyen 22c Akta ibu adalah dipinda— seksyen 22c.
+20. Seksyen 22c Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 22c. -->
 
 (a) dalam subseksyen (1)—
 
-(i) dengan memasukkan selepas perkataan "ejen harta-tanah berdaftar" perkataan "dan yang kepadanya suatu kuasa untuk menjalankan amalan telah dikeluarkan di bawah seksyen 16";
+(i) dengan memasukkan selepas perkataan "ejen harta-tanah berdaftar" perkataan "dan yang kepadanya suatu kuasa untuk menjalankan amalan telah dikeluarkan di bawah seksyen
+
+<!-- marginal: 16"; -->
 
 (ii) dalam perenggan (a)—
 
 (A) dengan memotong perkataan "sebagai seorang ejen harta-tanah"; dan
 
-(B) dengan memasukkan
-
-<!-- marginal: selepas -->
-
-perkataan ' "Ejen Tanah" ' perkataan ', "Broker Rumah" ';
+(B) dengan memasukkan selepas perkataan ' "Ejen Tanah" ' perkataan ', "Broker Rumah" ';
 
 (iii) dengan memasukkan selepas perenggan (a) perenggan yang berikut:
 
@@ -570,15 +606,43 @@ Dengan syarat bahawa jika harta asing hendak dipasarkan di Malaysia, tawaran ata
 
 menawarkan untuk menjual atau menyewa, tanah, bangunan dan kepentingan itu;
 
-(b) seseorang pelelong berlesen boleh menjual atau menawarkan untuk menjual mana-mana
-
-<!-- marginal: tanah, -->
-
-bangunan dan apa-apa kepentingan dalamnya melalui lelongan awam; dan
+(b) seseorang pelelong berlesen boleh menjual atau menawarkan untuk menjual mana-mana tanah, bangunan dan apa-apa kepentingan dalamnya melalui lelongan awam; dan
 
 (c) seseorang pemegang surat kuasa wakil berkenaan dengan mana-mana tanah, bangunan dan apa-apa kepentingan dalamnya, yang bertindak dengan percuma dan tanpa komisen, fee, upah atau balasan lain, boleh menjual, membeli atau menyewa, atau menawarkan untuk menjual, membeli atau menyewa, tanah, bangunan dan kepentingan itu.".
 
-21. Akta ibu adalah dipinda dengan memasukkan selepas bam 22D. seksyen 22c seksyen yang berikut: " Kelayakan 22D. (1) Tertakluk kepada peruntukan Akta ini, untuk tiada seorang pun berhak mendapat namanya pendaftaran ejen harta- dimasukkan di bawah Bahagian III Daftar tanah dan melainkan jika dia telah didaftarkan sebagai ejen ejen harta- tanah harta-tanah percubaan di bawah Akta ini. percubaan
+<!-- marginal: Seksyen -->
+
+21. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: bam 22D. -->
+
+seksyen 22c seksyen yang berikut: "
+
+<!-- marginal: Kelayakan -->
+
+22D. (1) Tertakluk kepada peruntukan Akta ini,
+
+<!-- marginal: untuk -->
+
+tiada seorang pun berhak mendapat namanya
+
+<!-- marginal: pendaftaran -->
+
+<!-- marginal: ejen harta- -->
+
+dimasukkan di bawah Bahagian III Daftar
+
+<!-- marginal: tanah dan -->
+
+melainkan jika dia telah didaftarkan sebagai ejen
+
+<!-- marginal: ejen harta- -->
+
+<!-- marginal: tanah -->
+
+harta-tanah percubaan di bawah Akta ini.
+
+<!-- marginal: percubaan -->
 
 (2) Mana-mana orang yang telah lulus peperiksaan yang ditetapkan oleh Lembaga atau yang telah memperoleh kelayakan yang diiktiraf oleh Lembaga sebagai setara dengan peperiksaan itu boleh memohon kepada Lembaga untuk didaftarkan sebagai ejen harta-tanah percubaan.
 
@@ -600,7 +664,7 @@ ditetapkan oleh Lembaga atau apa-apa ujian atau peperiksaan yang setara yang dii
 
 <!-- marginal: tajuk -->
 
-## Bahagian VI dengan tajuk yang berikut:
+Bahagian VI dengan tajuk yang berikut:
 
 ## Bahagian VI.
 
@@ -614,7 +678,13 @@ ditetapkan oleh Lembaga atau apa-apa ujian atau peperiksaan yang setara yang dii
 
 23 dengan seksyen yang berikut:
 
-"Amalan 23. (1) Tiada penilai berdaftar, pentaksir oleh firma. berdaftar atau ejen harta-tanah berdaftar boleh menjalankan amalan penilaian, pentaksiran atau perejenan harta-tanah atau mempunyai hak untuk mendapatkan kembali dalam mana-mana mahkamah apa-apa fee, caj atau saraan bagi apa-apa nasihat atau perkhidmatan profesional yang diberikan olehnya menurut amalannya melainkan jika dia menjalankan amalan sebagai tuan punya tunggal suatu ketuanpunyaan tunggal, pekongsi suatu perkongsian, pemegang syer atau pengarah suatu pertubuhan perbadanan yang didaftarkan dengan Lembaga, atau sebagai pekerja ketuanpunyaan tunggal, perkongsian atau pertubuhan perbadanan itu.
+<!-- marginal: "Amalan -->
+
+23. (1) Tiada penilai berdaftar, pentaksir
+
+<!-- marginal: oleh firma. -->
+
+berdaftar atau ejen harta-tanah berdaftar boleh menjalankan amalan penilaian, pentaksiran atau perejenan harta-tanah atau mempunyai hak untuk mendapatkan kembali dalam mana-mana mahkamah apa-apa fee, caj atau saraan bagi apa-apa nasihat atau perkhidmatan profesional yang diberikan olehnya menurut amalannya melainkan jika dia menjalankan amalan sebagai tuan punya tunggal suatu ketuanpunyaan tunggal, pekongsi suatu perkongsian, pemegang syer atau pengarah suatu pertubuhan perbadanan yang didaftarkan dengan Lembaga, atau sebagai pekerja ketuanpunyaan tunggal, perkongsian atau pertubuhan perbadanan itu.
 
 <!-- page 22 -->
 
@@ -660,9 +730,11 @@ pengurusan harta bagi kategori harta yang diluluskan oleh Lembaga.
 
 mengikut mana-mana yang berkenaan, memberitahu Lembaga secara bertulis mengenai kejadian atau perubahan itu.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-24. Seksyen 24 Akta ibu adalah dipinda— seksyen 24.
+24. Seksyen 24 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 24. -->
 
 (a) dalam subseksyen (1)—
 
@@ -688,11 +760,7 @@ Pindaan
 
 Harta-Tanah (Pindaan)
 
-(v) mengenakan denda yang tidak melebihi sepuluh ribu ringgit dan merekodkan denda itu dalam Daftar yang berkenaan dan supaya dia digantung daripada menjalankan amalan sehingga denda
-
-<!-- marginal: itu -->
-
-dibayar.";
+(v) mengenakan denda yang tidak melebihi sepuluh ribu ringgit dan merekodkan denda itu dalam Daftar yang berkenaan dan supaya dia digantung daripada menjalankan amalan sehingga denda itu dibayar.";
 
 (b) dengan memasukkan selepas subseksyen (1) subseksyen yang berikut:
 
@@ -700,15 +768,9 @@ dibayar.";
 
 (c) dalam subseksyen (2)—
 
-(i) dengan memasukkan selepas perkataan "seksyen-kecil (1)" perkataan "atau (1A)"; (ii) dalam perenggan (a)
+(i) dengan memasukkan selepas perkataan "seksyen-kecil (1)" perkataan "atau (1A)"; (ii) dalam perenggan (a) dengan menggantikan perkataan "dua pertiga daripada jumlah bilangan" dengan perkataan "sepuluh"; dan
 
-<!-- marginal: dengan -->
-
-menggantikan perkataan "dua pertiga daripada jumlah bilangan" dengan perkataan "sepuluh"; dan (iii) dalam perenggan (b)
-
-<!-- marginal: dengan -->
-
-menggantikan perkataan "penilai berdaftar, pentaksir berdaftar atau ejen harta-tanah berdaftar" dengan perkataan "orang";
+(iii) dalam perenggan (b) dengan menggantikan perkataan "penilai berdaftar, pentaksir berdaftar atau ejen harta-tanah berdaftar" dengan perkataan "orang";
 
 (d) dengan memasukkan selepas subseksyen (2) subseksyen yang berikut:
 
@@ -722,9 +784,11 @@ menggantikan perkataan "penilai berdaftar, pentaksir berdaftar atau ejen harta-t
 
 (e) dalam subseksyen (4) dan (5) dengan menggantikan perkataan "sepuluh" dengan perkataan "dua puluh satu".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-25. Seksyen 25 Akta ibu adalah dipinda— seksyen 25.
+25. Seksyen 25 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 25. -->
 
 (a) dalam subseksyen (1)—
 
@@ -762,11 +826,7 @@ Harta-Tanah (Pindaan)
 
 (i) dengan memasukkan selepas perkataan "perenggan (a)" perkataan ", (c)";
 
-(ii) dengan menggantikan
-
-<!-- marginal: perkataan -->
-
-"hendaklah" dengan perkataan "boleh"; dan
+(ii) dengan menggantikan perkataan "hendaklah" dengan perkataan "boleh"; dan
 
 (iii) dengan memasukkan selepas perkataan "caj" perkataan ", dan apabila memuaskan apa-apa syarat lain,".
 
@@ -790,21 +850,29 @@ Harta-Tanah (Pindaan)
 
 <!-- page 28 -->
 
-Pmdaan
+<!-- marginal: Pmdaan -->
 
-28. Subseksyen 28(1) Akta ibu adalah dipinda— seksyen 28
+28. Subseksyen 28(1) Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 28 -->
 
 (a) dengan menggantikan perkataan "Ketua Hakim Negara" dengan perkataan "Ketua Hakim Negara Mahkamah Persekutuan"; dan
 
 (b) dengan memasukkan selepas perkataan "orang lain yang" perkataan "dinamakan oleh Pengerusi daripada panel ahli-ahli yang hendaklah".
 
-Pmdaan
+<!-- marginal: Pmdaan -->
 
-29. Subseksyen 29(2) Akta ibu adalah dipinda dengan seksyen 29. memasukkan selepas perkataan "disediakan" perkataan "dalam masa tiga bulan dari penerimaan notis itu".
+29. Subseksyen 29(2) Akta ibu adalah dipinda dengan
 
-Pmdaan
+<!-- marginal: seksyen 29. -->
 
-30. Seksyen 30 Akta ibu adalah dipinda— seksyen 30.
+memasukkan selepas perkataan "disediakan" perkataan "dalam masa tiga bulan dari penerimaan notis itu".
+
+<!-- marginal: Pmdaan -->
+
+30. Seksyen 30 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 30. -->
 
 (a) dengan menggantikan perenggan (g) dengan perenggan yang berikut:
 
@@ -832,11 +900,19 @@ seksyen 30 seksyen yang berikut:
 
 <!-- marginal: 30c. -->
 
-"Pengge- 30A. (1) Jika seseorang Majistret mendapati, ledahan atas maklumat bertulis bersumpah dan selepas dengan waran. apa-apa siasatan yang difikirkannya perlu, bahawa terdapat sebab yang munasabah untuk mempercayai bahawa suatu kesalahan di bawah Akta ini atau mana-mana kaedah yang dibuat di bawah Akta ini sedang atau telah dilakukan di mana-mana premis, Majistret
+<!-- marginal: "Pengge- -->
 
-<!-- marginal: itu boleh -->
+30A. (1) Jika seseorang Majistret mendapati,
 
-mengeluarkan waran yang memberikuasa mana- mana pegawai polis yang pangkatnya tidak rendah daripada Inspektor, atau mana-mana orang yang dinamakan dalamnya, masuk ke dalam premis itu pada bila-bila masa yang munasabah sama ada pada waktu siang atau malam, dengan atau tanpa bantuan dan jika perlu dengan kekerasan, dan di sana menggeledah dan menyita apa-apa papan tanda, kad, surat, risalah, lembaran, notis atau alat lain yang menggambarkan atau membayangkan bahawa orang itu ialah penilai berdaftar, pentaksir berdaftar atau ejen harta- tanah berdaftar, dan apa-apa dokumen, artikel atau benda lain yang semunasabahnya dipercayai memberikan keterangan mengenai pelakuan kesalahan itu.
+<!-- marginal: ledahan -->
+
+atas maklumat bertulis bersumpah dan selepas
+
+<!-- marginal: dengan -->
+
+<!-- marginal: waran. -->
+
+apa-apa siasatan yang difikirkannya perlu, bahawa terdapat sebab yang munasabah untuk mempercayai bahawa suatu kesalahan di bawah Akta ini atau mana-mana kaedah yang dibuat di bawah Akta ini sedang atau telah dilakukan di mana-mana premis, Majistret itu boleh mengeluarkan waran yang memberikuasa mana- mana pegawai polis yang pangkatnya tidak rendah daripada Inspektor, atau mana-mana orang yang dinamakan dalamnya, masuk ke dalam premis itu pada bila-bila masa yang munasabah sama ada pada waktu siang atau malam, dengan atau tanpa bantuan dan jika perlu dengan kekerasan, dan di sana menggeledah dan menyita apa-apa papan tanda, kad, surat, risalah, lembaran, notis atau alat lain yang menggambarkan atau membayangkan bahawa orang itu ialah penilai berdaftar, pentaksir berdaftar atau ejen harta- tanah berdaftar, dan apa-apa dokumen, artikel atau benda lain yang semunasabahnya dipercayai memberikan keterangan mengenai pelakuan kesalahan itu.
 
 (2) Jika, oleh sebab jenis, saiz atau amaunnya, adalah tidak praktik untuk memindahkan apa- apa papan tanda, kad, surat, risalah, lembaran, notis, alat, dokumen, artikel atau benda yang disita di bawah seksyen ini, pegawai atau orang yang menyita itu hendaklah, dengan apa-apa cara, menglak papan tanda, kad, surat, risalah, lembaran, notis, alat, dokumen, artikel atau benda itu dalam premis atau dalam bekas yang di dalamnya ia dijumpai.
 
@@ -844,13 +920,35 @@ mengeluarkan waran yang memberikuasa mana- mana pegawai polis yang pangkatnya ti
 
 (3) Seseorang yang, tanpa kuasa sah, memecahkan, mengganggu atau merosakkan lak yang disebut dalam subseksyen (2) atau memindahkan apa-apa papan tanda, kad, surat, risalah, lembaran, notis, alat, dokumen, artikel atau benda yang dilak atau mencuba untuk berbuat demikian adalah melakukan suatu kesalahan.
 
-Penggele- 30B. Jika seorang pegawai polis yang pangkatnya dahan dan tidak rendah daripada Inspektor dalam mana- penyitaan tanpa mana hal keadaan yang disebut dalam seksyen waran. 30A mempunyai sebab munasabah untuk mempercayai bahawa oleh sebab kelewatan dalam mendapatkan suatu waran geledah di bawah seksyen itu penyiasatan akan terjejas atau keterangan mengenai pelakuan sesuatu kesalahan berkemungkinan diganggu, dipindahkan, dirosakkan atau dimusnahkan, pegawai itu boleh masuk ke dalam premis itu dan menjalankan di dalam, ke atas dan berkenaan dengan premis itu semua kuasa yang disebut dalam seksyen 30A dengan cara yang sepenuhnya dan secukupnya seolah-olah dia diberikuasa untuk berbuat demikian oleh suatu waran yang dikeluarkan di bawah seksyen itu.
+<!-- marginal: Penggele- -->
 
-Senarai 30c. (1) Kecuali sebagaimana
+30B. Jika seorang pegawai polis yang pangkatnya
 
-<!-- marginal: yang -->
+<!-- marginal: dahan dan -->
 
-benda diperuntukkan dalam subseksyen (2), jika disita. apa-apa papan tanda, kad, surat, risalah, lembaran, notis, alat, dokumen, artikel atau benda disita di bawah seksyen 30A atau 30B, pegawai atau orang yang menyita itu hendaklah menyediakan senarai benda yang disita dan dengan serta-merta menghantarserahkan sesalinan senarai itu yang ditandatangani olehnya kepada penghuni premis yang digeledah, atau kepada ejen atau pengkhidmatnya, di premis itu.
+tidak rendah daripada Inspektor dalam mana-
+
+<!-- marginal: penyitaan -->
+
+<!-- marginal: tanpa -->
+
+mana hal keadaan yang disebut dalam seksyen
+
+<!-- marginal: waran. -->
+
+30A mempunyai sebab munasabah untuk mempercayai bahawa oleh sebab kelewatan dalam mendapatkan suatu waran geledah di bawah seksyen itu penyiasatan akan terjejas atau keterangan mengenai pelakuan sesuatu kesalahan berkemungkinan diganggu, dipindahkan, dirosakkan atau dimusnahkan, pegawai itu boleh masuk ke dalam premis itu dan menjalankan di dalam, ke atas dan berkenaan dengan premis itu semua kuasa yang disebut dalam seksyen 30A dengan cara yang sepenuhnya dan secukupnya seolah-olah dia diberikuasa untuk berbuat demikian oleh suatu waran yang dikeluarkan di bawah seksyen itu.
+
+<!-- marginal: Senarai -->
+
+30c. (1) Kecuali sebagaimana yang
+
+<!-- marginal: benda -->
+
+diperuntukkan dalam subseksyen (2), jika
+
+<!-- marginal: disita. -->
+
+apa-apa papan tanda, kad, surat, risalah, lembaran, notis, alat, dokumen, artikel atau benda disita di bawah seksyen 30A atau 30B, pegawai atau orang yang menyita itu hendaklah menyediakan senarai benda yang disita dan dengan serta-merta menghantarserahkan sesalinan senarai itu yang ditandatangani olehnya kepada penghuni premis yang digeledah, atau kepada ejen atau pengkhidmatnya, di premis itu.
 
 (2) Jika premis itu tidak didiami, pegawai atau orang yang menyita itu hendaklah bilamasa boleh melekatkan senarai benda yang disita itu di tempat yang mudah dilihat di premis itu.".
 
@@ -984,6 +1082,4 @@ Harta-Tanah (Pindaan)
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
-
-<!-- marginal: [PN.(U:)1840.] -->
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN.(U:)1840.]

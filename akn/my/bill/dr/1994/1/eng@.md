@@ -22,13 +22,27 @@
 
 ## MEMBERSHIP OF THE ACADEMY
 
-9. Membership of the Academy. 10. Fellows and honorary Fellows. 11. Disqualification from membership of Academy. 12. Termination of membership of a Fellow.
+9. Membership of the Academy.
+
+10. Fellows and honorary Fellows.
+
+11. Disqualification from membership of Academy.
+
+12. Termination of membership of a Fellow.
 
 ## PART IV
 
 ## FINANCE
 
-13. Establishment of the Academy of Sciences Malaysia Fund. 14. Monies to be paid into the Fund. 15. Purposes of the Fund. 16. Power to invest. 17. Power to borrow.
+13. Establishment of the Academy of Sciences Malaysia Fund.
+
+14. Monies to be paid into the Fund.
+
+15. Purposes of the Fund.
+
+16. Power to invest.
+
+17. Power to borrow.
 
 <!-- page 2 -->
 
@@ -100,13 +114,25 @@ date as the Minister may, by notification in the Gazette, appoint.
 
 ## ACADEMY OF SCIENCES MALAYSIA
 
-Establishment
+<!-- marginal: Establishment -->
 
-3. There is hereby established an academy by the name of the of "Academy of Sciences Malaysia" which shall be a Academy. body corporate with perpetual succession and a common seal, and which may sue and be sued in its corporate name and, subject to and for the purposes of this Act, may enter into contracts and may acquire, purchase, take, hold and enjoy movable or immovable property of every description and may convey, assign, surrender, yield up, charge, mortgage, demise, reassign, transfer or otherwise dispose of, or deal with any movable or immovable property or any interest therein vested in the Academy upon such terms as it deems fit.
+3. There is hereby established an academy by the name
 
-Object of
+<!-- marginal: of the -->
 
-4. The object of the Academy is the pursuit, the Academy encouragement and maintenance of excellence in the fields of science, engineering and technology in order to promote the advancement of the art and practice of science, engineering and technology for the development of the nation and the benefit of mankind.
+of "Academy of Sciences Malaysia" which shall be a
+
+<!-- marginal: Academy. -->
+
+body corporate with perpetual succession and a common seal, and which may sue and be sued in its corporate name and, subject to and for the purposes of this Act, may enter into contracts and may acquire, purchase, take, hold and enjoy movable or immovable property of every description and may convey, assign, surrender, yield up, charge, mortgage, demise, reassign, transfer or otherwise dispose of, or deal with any movable or immovable property or any interest therein vested in the Academy upon such terms as it deems fit.
+
+<!-- marginal: Object of -->
+
+4. The object of the Academy is the pursuit,
+
+<!-- marginal: the Academy -->
+
+encouragement and maintenance of excellence in the fields of science, engineering and technology in order to promote the advancement of the art and practice of science, engineering and technology for the development of the nation and the benefit of mankind.
 
 <!-- page 5 -->
 
@@ -148,9 +174,17 @@ Object of
 
 (n) to do such other acts which are consistent with this Act as may be required in order to further the advancement of science, engineering and technology in Malaysia and the welfare and status of the Academy.
 
-Council
+<!-- marginal: Council -->
 
-6. (1) For the purpose of carrying out the functions of of the the Academy and managing the affairs of the Academy, Academy. there is established a Council comprising—
+6. (1) For the purpose of carrying out the functions of
+
+<!-- marginal: of the -->
+
+the Academy and managing the affairs of the Academy,
+
+<!-- marginal: Academy. -->
+
+there is established a Council comprising—
 
 (a) the President;
 
@@ -212,9 +246,15 @@ III
 
 ## MEMBERSHIP OF THE ACADEMY
 
-Membership
+<!-- marginal: Membership -->
 
-9. (1) The Academy shall consist of the following of the categories of members: Academy.
+9. (1) The Academy shall consist of the following
+
+<!-- marginal: of the -->
+
+categories of members:
+
+<!-- marginal: Academy. -->
 
 (a) Fellows; and
 
@@ -232,9 +272,17 @@ Membership
 
 (5) The first Fellows of the Academy shall comprise fifty Foundation Fellows appointed by the Minister from among eminent Malaysian citizens who are regarded by virtue of their respective achievements in the field of science, engineering or technology as being of exceptional merit and distinction.
 
-Fellows and
+<!-- marginal: Fellows and -->
 
-10. (1) Subject to subsection 9(5) and subsection (3), honorary the Fellows of the Academy shall be elected from such Fellows. Malaysian citizens who by virtue of their respective achievements in the field of science, engineering or technology are regarded as being of exceptional merit and distinction.
+10. (1) Subject to subsection 9(5) and subsection (3),
+
+<!-- marginal: honorary -->
+
+the Fellows of the Academy shall be elected from such
+
+<!-- marginal: Fellows. -->
+
+Malaysian citizens who by virtue of their respective achievements in the field of science, engineering or technology are regarded as being of exceptional merit and distinction.
 
 (2) Subject to subsection (3), the honorary Fellows of the Academy shall be elected from such persons, not being Fellows, who have made or are making a
 
@@ -288,13 +336,31 @@ membership of a Fellow if he has been guilty of conduct which, in the opinion of
 
 ## FINANCE
 
-Establishment
+<!-- marginal: Establishment -->
 
-13. There is established a fund to be known as the of the Academy of Sciences Malaysia Fund which shall be Academy of Sciences administered by the Council. Malaysia Fund.
+13. There is established a fund to be known as the
 
-Monies to be
+<!-- marginal: of the -->
 
-14. There shall be paid into the Fund— paid into the Fund.
+Academy of Sciences Malaysia Fund which shall be
+
+<!-- marginal: Academy of -->
+
+<!-- marginal: Sciences -->
+
+administered by the Council.
+
+<!-- marginal: Malaysia -->
+
+<!-- marginal: Fund. -->
+
+<!-- marginal: Monies to be -->
+
+14. There shall be paid into the Fund—
+
+<!-- marginal: paid into the -->
+
+<!-- marginal: Fund. -->
 
 (a) such sums of money as may be appropriated from time to time by Parliament from the Federal Consolidated Fund;
 
@@ -306,9 +372,11 @@ Monies to be
 
 (e) all other monies and properties which may in any manner become payable to or be vested in the Academy in respect of any matter incidental to its functions.
 
-Purposes of
+<!-- marginal: Purposes of -->
 
-15. The Fund shall be used for the following purposes: the Fund.
+15. The Fund shall be used for the following purposes:
+
+<!-- marginal: the Fund. -->
 
 (a) to make disbursements for salaries, allowances, expenses and other administrative costs incurred for the purposes of this Act;
 
@@ -322,13 +390,7 @@ Purposes of
 
 (d) to publish and purchase magazines, books and articles relating to science, engineering or technology;
 
-(e) organisation of seminars, expositions and other similar activities relating
-
-<!-- marginal: to -->
-
-<!-- marginal: science, -->
-
-engineering or technology;
+(e) organisation of seminars, expositions and other similar activities relating to science, engineering or technology;
 
 (f) to pay for the rental, or purchase of a site for and the construction, of any building for the Academy;
 
@@ -364,7 +426,9 @@ and upon such terms and conditions as may be determined by him, borrow such sums
 
 ## GENERAL
 
-seal. Common
+<!-- marginal: seal. -->
+
+<!-- marginal: Common -->
 
 18. (1) The Academy shall have a common seal and such seal may from time to time be broken, changed, altered or made anew as the Council may think fit.
 
@@ -378,9 +442,27 @@ seal. Common
 
 (6) The common seal of the Academy shall be officially and judicially noticed.
 
-Officers and
+<!-- marginal: Officers and -->
 
-19. All officers and servants of the Academy shall be servants of deemed to be public servants within the meaning of the the Academy deemed to Penal Code. be public servants. F.M.S. Cap. 45.
+19. All officers and servants of the Academy shall be
+
+<!-- marginal: servants of -->
+
+deemed to be public servants within the meaning of the
+
+<!-- marginal: the Academy -->
+
+<!-- marginal: deemed to -->
+
+Penal Code.
+
+<!-- marginal: be public -->
+
+<!-- marginal: servants. -->
+
+<!-- marginal: F.M.S. -->
+
+<!-- marginal: Cap. 45. -->
 
 <!-- page 13 -->
 
@@ -426,7 +508,9 @@ of an officer or servant of the Academy during the pendency of disciplinary proc
 
 22. (1) The Council may, with the approval of the Minister, make such regulations as may be expedient or necessary for the better carrying out of the provisions of this Act.
 
-(2) Without prejudice to the generality of subsection (1), regulations may be made—
+(2) Without prejudice to the generality of subsection
+
+(1), regulations may be made—
 
 (a) to regulate the proceedings of the Academy and the Council;
 
@@ -446,13 +530,21 @@ of an officer or servant of the Academy during the pendency of disciplinary proc
 
 ## THE ACADEMY
 
-Chairman
+<!-- marginal: Chairman -->
 
 1. (1) The President shall be the'chairman of the Council and shall preside at all meetings of the Council and the Academy at which he is present. (2) In the absence of the President, the Vice-President shall preside, and in the absence of the President and the Vice-President, the Council shall elect one of its members to preside.
 
-First and
+<!-- marginal: First and -->
 
-2. (1) Notwithstanding section 6, the first Council shall comprise subsequent the Foundation Fellows appointed under subsection 9(5) from among Council whom the Minister shall appoint the President, the Vice-President, the Secretary-General, the Treasurer and the twelve other members and they shall hold office until the next Council of the Academy is appointed or elected, as the case may be, in accordance with section 6. (2) Of the twelve other members of the first Council, six members shall cease to hold office at the end of the first year of their appointment and six at the end of the second year of their appointment; the selection of those of them who are so to cease to hold office shall be made by agreement amongst them and if no such agreement can be obtained, and if the President in his absolute discretion so decides, by the drawing of lots at a meeting of the Council and the vacancies thus created shall be filled by fresh elections. (3) Subject to section 6, members of the Council who retire under subparagraph (2) are eligible for election if they are not disqualified, on any of the grounds provided in paragraph 3, from holding office. (4) The Council shall ensure that the twelve other members of the Council elected shall at all times represent the various fields of activity of the Academy so as to preserve as far as possible a reasonable balance among the members of the Council and to reflect the inter-disciplinary character of the Academy.
+2. (1) Notwithstanding section 6, the first Council shall comprise
+
+<!-- marginal: subsequent -->
+
+the Foundation Fellows appointed under subsection 9(5) from among
+
+<!-- marginal: Council -->
+
+whom the Minister shall appoint the President, the Vice-President, the Secretary-General, the Treasurer and the twelve other members and they shall hold office until the next Council of the Academy is appointed or elected, as the case may be, in accordance with section 6. (2) Of the twelve other members of the first Council, six members shall cease to hold office at the end of the first year of their appointment and six at the end of the second year of their appointment; the selection of those of them who are so to cease to hold office shall be made by agreement amongst them and if no such agreement can be obtained, and if the President in his absolute discretion so decides, by the drawing of lots at a meeting of the Council and the vacancies thus created shall be filled by fresh elections. (3) Subject to section 6, members of the Council who retire under subparagraph (2) are eligible for election if they are not disqualified, on any of the grounds provided in paragraph 3, from holding office. (4) The Council shall ensure that the twelve other members of the Council elected shall at all times represent the various fields of activity of the Academy so as to preserve as far as possible a reasonable balance among the members of the Council and to reflect the inter-disciplinary character of the Academy.
 
 <!-- page 15 -->
 
@@ -550,13 +642,21 @@ year, and at such time as may be appointed by the Council.
 
 (4) The procedure for the general meetings of the Academy and for service of notices shall be in accordance with the regulations as prescribed by the Council.
 
-Minutes to
+<!-- marginal: Minutes to -->
 
-9. The Council shall cause the minutes of its meetings to be made be kept. in books provided for the purpose of recording all proceedings, resolutions and decisions of the Council and the Academy.
+9. The Council shall cause the minutes of its meetings to be made
 
-Roll of
+<!-- marginal: be kept. -->
 
-10. The Council shall maintain a roll of members in which shall members be inscribed the names of all its members.
+in books provided for the purpose of recording all proceedings, resolutions and decisions of the Council and the Academy.
+
+<!-- marginal: Roll of -->
+
+10. The Council shall maintain a roll of members in which shall
+
+<!-- marginal: members -->
+
+be inscribed the names of all its members.
 
 ## EXPLANATORY STATEMENT
 
@@ -594,11 +694,7 @@ III
 
 11. Clause 10 seeks to spell out the qualifications to become Fellows, honorary Fellows and Senior Fellows. A senior Fellow appointed under subclause (4) shall be entitled to be addressed as an Academician and be paid a special allowance for life by the Government.
 
-12. Clauses 11 and 12 seek to provide respectively for the disqualification from membership, or the
-
-<!-- marginal: termination of -->
-
-membership, of a member of the Academy.
+12. Clauses 11 and 12 seek to provide respectively for the disqualification from membership, or the termination of membership, of a member of the Academy.
 
 ## PART
 

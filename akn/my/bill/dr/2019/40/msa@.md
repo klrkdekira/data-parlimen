@@ -74,7 +74,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 4 -->
 
-(5) The appellant shall, within the time limited for the filing of an appeal as specified under subparagraph (2), apply to the Secretary in writing for the notes of proceedings and the grounds of decision.
+(5) The appellant shall, within the time limited for the filing of an appeal as specified under subparagraph
+
+(2), apply to the Secretary in writing for the notes of proceedings and the grounds of decision.
 
 (6) The appellant shall pay to the Secretary at the time of the filing of the notice of appeal such fee as may be prescribed by the Minister in respect of each deciding order against which he seeks to appeal.
 

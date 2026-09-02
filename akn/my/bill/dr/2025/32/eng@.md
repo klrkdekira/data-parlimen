@@ -420,7 +420,7 @@ his decision shall be final.”.
 
 Schedule the following schedule:
 
-“Third Schedule
+## “THIRD SCHEDULE
 
 [Section 6]
 
@@ -448,15 +448,11 @@ Schedule the following schedule:
 
 <!-- marginal: (5) -->
 
-No. Monthly wages Employer’s
-
-<!-- marginal: Employee’s -->
+No. Monthly wages Employer’s Employee’s
 
 <!-- marginal: Total -->
 
-contribution
-
-<!-- marginal: contribution -->
+contribution contribution
 
 (A) (B) (A)
 
@@ -600,7 +596,9 @@ RM1,100 but not RM1,200
 
 <!-- page 10 -->
 
-No. Monthly wages Employer’s Employee’s
+No. Monthly wages Employer’s
+
+<!-- marginal: Employee’s -->
 
 <!-- marginal: Total -->
 
@@ -614,7 +612,9 @@ Invalidity Employment Invalidity
 
 <!-- marginal: Non- -->
 
-injury employment
+injury
+
+<!-- marginal: employment -->
 
 <!-- marginal: injury -->
 
@@ -722,9 +722,7 @@ No. Monthly wages Employer’s
 
 <!-- marginal: Total -->
 
-contribution
-
-<!-- marginal: contribution -->
+contribution contribution
 
 (A) (B) (A)
 
@@ -770,11 +768,15 @@ injury
 
 <!-- page 12 -->
 
-No. Monthly wages Employer’s Employee’s
+No. Monthly wages Employer’s
+
+<!-- marginal: Employee’s -->
 
 <!-- marginal: Total -->
 
-contribution contribution
+contribution
+
+<!-- marginal: contribution -->
 
 (A) (B) (A)
 
@@ -784,7 +786,9 @@ Invalidity Employment Invalidity
 
 <!-- marginal: Non- -->
 
-injury employment
+injury
+
+<!-- marginal: employment -->
 
 <!-- marginal: injury -->
 
@@ -822,9 +826,7 @@ No. Monthly wages Employer’s
 
 <!-- marginal: Total -->
 
-contribution
-
-<!-- marginal: contribution -->
+contribution contribution
 
 (A) (B) (A)
 
@@ -872,9 +874,7 @@ No. Monthly wages Employer’s
 
 <!-- marginal: Total -->
 
-contribution
-
-<!-- marginal: contribution -->
+contribution contribution
 
 (A) (B) (A)
 
@@ -906,7 +906,9 @@ RM30 but not RM50
 
 <!-- page 14 -->
 
-No. Monthly wages Employer’s Employee’s
+No. Monthly wages Employer’s
+
+<!-- marginal: Employee’s -->
 
 <!-- marginal: Total -->
 
@@ -920,7 +922,9 @@ Invalidity Employment Invalidity
 
 <!-- marginal: Non- -->
 
-injury employment
+injury
+
+<!-- marginal: employment -->
 
 <!-- marginal: injury -->
 
@@ -1068,9 +1072,7 @@ No. Monthly wages Employer’s
 
 <!-- marginal: Total -->
 
-contribution
-
-<!-- marginal: contribution -->
+contribution contribution
 
 (A) (B) (A)
 
@@ -1200,7 +1202,9 @@ RM2,800 but not RM2,900
 
 <!-- page 16 -->
 
-No. Monthly wages Employer’s Employee’s
+No. Monthly wages Employer’s
+
+<!-- marginal: Employee’s -->
 
 <!-- marginal: Total -->
 
@@ -1214,7 +1218,9 @@ Invalidity Employment Invalidity
 
 <!-- marginal: Non- -->
 
-injury employment
+injury
+
+<!-- marginal: employment -->
 
 <!-- marginal: injury -->
 
@@ -1314,9 +1320,7 @@ No. Monthly wages Employer’s
 
 <!-- marginal: Total -->
 
-contribution
-
-<!-- marginal: contribution -->
+contribution contribution
 
 (A) (B) (A)
 
@@ -1418,7 +1422,9 @@ RM5,600 but not RM5,700
 
 <!-- page 18 -->
 
-No. Monthly wages Employer’s Employee’s
+No. Monthly wages Employer’s
+
+<!-- marginal: Employee’s -->
 
 <!-- marginal: Total -->
 
@@ -1432,7 +1438,9 @@ Invalidity Employment Invalidity
 
 <!-- marginal: Non- -->
 
-injury employment
+injury
+
+<!-- marginal: employment -->
 
 <!-- marginal: injury -->
 
@@ -1464,11 +1472,15 @@ RM6,000
 
 ## THIRD PHASE: PART III
 
-(1) (2) (3) (4)
+(1) (2) (3)
+
+<!-- marginal: (4) -->
 
 <!-- marginal: (5) -->
 
-No. Monthly wages Employer’s Employee’s
+No. Monthly wages Employer’s
+
+<!-- marginal: Employee’s -->
 
 <!-- marginal: Total -->
 
@@ -1482,7 +1494,9 @@ Invalidity Employment Invalidity
 
 <!-- marginal: Non- -->
 
-injury employment
+injury
+
+<!-- marginal: employment -->
 
 <!-- marginal: injury -->
 
@@ -1696,11 +1710,15 @@ RM1,800 but not RM1,900
 
 <!-- page 20 -->
 
-No. Monthly wages Employer’s Employee’s
+No. Monthly wages Employer’s
+
+<!-- marginal: Employee’s -->
 
 <!-- marginal: Total -->
 
-contribution contribution
+contribution
+
+<!-- marginal: contribution -->
 
 (A) (B) (A)
 
@@ -1710,7 +1728,9 @@ Invalidity Employment Invalidity
 
 <!-- marginal: Non- -->
 
-injury employment
+injury
+
+<!-- marginal: employment -->
 
 <!-- marginal: injury -->
 
@@ -1930,11 +1950,15 @@ RM4,600 but not RM4,700
 
 <!-- page 22 -->
 
-No. Monthly wages Employer’s Employee’s
+No. Monthly wages Employer’s
+
+<!-- marginal: Employee’s -->
 
 <!-- marginal: Total -->
 
-contribution contribution
+contribution
+
+<!-- marginal: contribution -->
 
 (A) (B) (A)
 
@@ -1944,7 +1968,9 @@ Invalidity Employment Invalidity
 
 <!-- marginal: Non- -->
 
-injury employment
+injury
+
+<!-- marginal: employment -->
 
 <!-- marginal: injury -->
 
@@ -2046,17 +2072,11 @@ RM6,000
 
 <!-- marginal: (5) -->
 
-No. Monthly wages Employer’s
-
-<!-- marginal: Employee’s -->
+No. Monthly wages Employer’s Employee’s
 
 <!-- marginal: Total -->
 
-contribution
-
-<!-- marginal: contribution -->
-
-(Employment (Non-employment injury)
+contribution contribution (Employment (Non-employment injury)
 
 <!-- marginal: injury) -->
 
@@ -2208,123 +2228,165 @@ No. Monthly wages Employer’s Employee’s
 
 <!-- marginal: Total -->
 
-contribution contribution (Employment (Non-employment injury) injury)
+contribution contribution (Employment (Non-employment injury)
 
-19. When wages exceed RM1,400 RM18.10 RM10.85
+<!-- marginal: injury) -->
+
+19. When wages exceed RM1,400 RM18.10
+
+<!-- marginal: RM10.85 -->
 
 <!-- marginal: RM28.95 -->
 
 but not RM1,500
 
-20. When wages exceed RM1,500 RM19.40 RM11.65
+20. When wages exceed RM1,500 RM19.40
+
+<!-- marginal: RM11.65 -->
 
 <!-- marginal: RM31.05 -->
 
 but not RM1,600
 
-21. When wages exceed RM1,600 RM20.60 RM12.35
+21. When wages exceed RM1,600 RM20.60
+
+<!-- marginal: RM12.35 -->
 
 <!-- marginal: RM32.95 -->
 
 but not RM1,700
 
-22. When wages exceed RM1,700 RM21.90 RM13.15
+22. When wages exceed RM1,700 RM21.90
+
+<!-- marginal: RM13.15 -->
 
 <!-- marginal: RM35.05 -->
 
 but not RM1,800
 
-23. When wages exceed RM1,800 RM23.10 RM13.85
+23. When wages exceed RM1,800 RM23.10
+
+<!-- marginal: RM13.85 -->
 
 <!-- marginal: RM36.95 -->
 
 but not RM1,900
 
-24. When wages exceed RM1,900 RM24.40 RM14.65
+24. When wages exceed RM1,900 RM24.40
+
+<!-- marginal: RM14.65 -->
 
 <!-- marginal: RM39.05 -->
 
 but not RM2,000
 
-25. When wages exceed RM2,000 RM25.60 RM15.35
+25. When wages exceed RM2,000 RM25.60
+
+<!-- marginal: RM15.35 -->
 
 <!-- marginal: RM40.95 -->
 
 but not RM2,100
 
-26. When wages exceed RM2,100 RM26.90 RM16.15
+26. When wages exceed RM2,100 RM26.90
+
+<!-- marginal: RM16.15 -->
 
 <!-- marginal: RM43.05 -->
 
 but not RM2,200
 
-27. When wages exceed RM2,200 RM28.10 RM16.85
+27. When wages exceed RM2,200 RM28.10
+
+<!-- marginal: RM16.85 -->
 
 <!-- marginal: RM44.95 -->
 
 but not RM2,300
 
-28. When wages exceed RM2,300 RM29.40 RM17.65
+28. When wages exceed RM2,300 RM29.40
+
+<!-- marginal: RM17.65 -->
 
 <!-- marginal: RM47.05 -->
 
 but not RM2,400
 
-29. When wages exceed RM2,400 RM30.60 RM18.35
+29. When wages exceed RM2,400 RM30.60
+
+<!-- marginal: RM18.35 -->
 
 <!-- marginal: RM48.95 -->
 
 but not RM2,500
 
-30. When wages exceed RM2,500 RM31.90 RM19.15
+30. When wages exceed RM2,500 RM31.90
+
+<!-- marginal: RM19.15 -->
 
 <!-- marginal: RM51.05 -->
 
 but not RM2,600
 
-31. When wages exceed RM2,600 RM33.10 RM19.85
+31. When wages exceed RM2,600 RM33.10
+
+<!-- marginal: RM19.85 -->
 
 <!-- marginal: RM52.95 -->
 
 but not RM2,700
 
-32. When wages exceed RM2,700 RM34.40 RM20.65
+32. When wages exceed RM2,700 RM34.40
+
+<!-- marginal: RM20.65 -->
 
 <!-- marginal: RM55.05 -->
 
 but not RM2,800
 
-33. When wages exceed RM2,800 RM35.60 RM21.35
+33. When wages exceed RM2,800 RM35.60
+
+<!-- marginal: RM21.35 -->
 
 <!-- marginal: RM56.95 -->
 
 but not RM2,900
 
-34. When wages exceed RM2,900 RM36.90 RM22.15
+34. When wages exceed RM2,900 RM36.90
+
+<!-- marginal: RM22.15 -->
 
 <!-- marginal: RM59.05 -->
 
 but not RM3,000
 
-35. When wages exceed RM3,000 RM38.10 RM22.85
+35. When wages exceed RM3,000 RM38.10
+
+<!-- marginal: RM22.85 -->
 
 <!-- marginal: RM60.95 -->
 
 but not RM3,100
 
-36. When wages exceed RM3,100 RM39.40 RM23.65
+36. When wages exceed RM3,100 RM39.40
+
+<!-- marginal: RM23.65 -->
 
 <!-- marginal: RM63.05 -->
 
 but not RM3,200
 
-37. When wages exceed RM3,200 RM40.60 RM24.35
+37. When wages exceed RM3,200 RM40.60
+
+<!-- marginal: RM24.35 -->
 
 <!-- marginal: RM64.95 -->
 
 but not RM3,300
 
-38. When wages exceed RM3,300 RM41.90 RM25.15
+38. When wages exceed RM3,300 RM41.90
+
+<!-- marginal: RM25.15 -->
 
 <!-- marginal: RM67.05 -->
 
@@ -2332,17 +2394,11 @@ but not RM3,400
 
 <!-- page 25 -->
 
-No. Monthly wages Employer’s
-
-<!-- marginal: Employee’s -->
+No. Monthly wages Employer’s Employee’s
 
 <!-- marginal: Total -->
 
-contribution
-
-<!-- marginal: contribution -->
-
-(Employment (Non-employment injury)
+contribution contribution (Employment (Non-employment injury)
 
 <!-- marginal: injury) -->
 
@@ -2512,45 +2568,61 @@ No. Monthly wages Employer’s Employee’s
 
 <!-- marginal: Total -->
 
-contribution contribution (Employment (Non-employment injury) injury)
+contribution contribution (Employment (Non-employment injury)
 
-59. When wages exceed RM5,400 RM68.10 RM40.85
+<!-- marginal: injury) -->
+
+59. When wages exceed RM5,400 RM68.10
+
+<!-- marginal: RM40.85 -->
 
 <!-- marginal: RM108.95 -->
 
 but not RM5,500
 
-60. When wages exceed RM5,500 RM69.40 RM41.65
+60. When wages exceed RM5,500 RM69.40
+
+<!-- marginal: RM41.65 -->
 
 <!-- marginal: RM111.05 -->
 
 but not RM5,600
 
-61. When wages exceed RM5,600 RM70.60 RM42.35
+61. When wages exceed RM5,600 RM70.60
+
+<!-- marginal: RM42.35 -->
 
 <!-- marginal: RM112.95 -->
 
 but not RM5,700
 
-62. When wages exceed RM5,700 RM71.90 RM43.15
+62. When wages exceed RM5,700 RM71.90
+
+<!-- marginal: RM43.15 -->
 
 <!-- marginal: RM115.05 -->
 
 but not RM5,800
 
-63. When wages exceed RM5,800 RM73.10 RM43.85
+63. When wages exceed RM5,800 RM73.10
+
+<!-- marginal: RM43.85 -->
 
 <!-- marginal: RM116.95 -->
 
 but not RM5,900
 
-64. When wages exceed RM5,900 RM74.40 RM44.65
+64. When wages exceed RM5,900 RM74.40
+
+<!-- marginal: RM44.65 -->
 
 <!-- marginal: RM119.05 -->
 
 but not RM6,000
 
-65. When wages exceed RM6,000 RM74.40 RM44.65
+65. When wages exceed RM6,000 RM74.40
+
+<!-- marginal: RM44.65 -->
 
 <!-- marginal: RM119.05 -->
 
@@ -2558,7 +2630,9 @@ but not RM6,000
 
 ## SECOND PHASE: PART V
 
-(1) (2) (3) (4)
+(1) (2) (3)
+
+<!-- marginal: (4) -->
 
 <!-- marginal: (5) -->
 
@@ -2566,55 +2640,75 @@ No. Monthly wages Employer’s Employee’s
 
 <!-- marginal: Total -->
 
-contribution contribution (Employment (Non-employment injury) injury)
+contribution contribution (Employment (Non-employment injury)
 
-1. Wages up to RM30 30 cent 25 cent
+<!-- marginal: injury) -->
+
+1. Wages up to RM30 30 cent
+
+<!-- marginal: 25 cent -->
 
 <!-- marginal: 55 cent -->
 
-2. When wages exceed RM30 50 cent 40 cent
+2. When wages exceed RM30 50 cent
+
+<!-- marginal: 40 cent -->
 
 <!-- marginal: 90 cent -->
 
 but not RM50
 
-3. When wages exceed RM50 80 cent 65 cent
+3. When wages exceed RM50 80 cent
+
+<!-- marginal: 65 cent -->
 
 <!-- marginal: RM1.45 -->
 
 but not RM70
 
-4. When wages exceed RM70 RM1.10 90 cent
+4. When wages exceed RM70 RM1.10
+
+<!-- marginal: 90 cent -->
 
 <!-- marginal: RM2.00 -->
 
 but not RM100
 
-5. When wages exceed RM100 RM1.50 RM1.20
+5. When wages exceed RM100 RM1.50
+
+<!-- marginal: RM1.20 -->
 
 <!-- marginal: RM2.70 -->
 
 but not RM140
 
-6. When wages exceed RM140 RM2.10 RM1.70
+6. When wages exceed RM140 RM2.10
+
+<!-- marginal: RM1.70 -->
 
 <!-- marginal: RM3.80 -->
 
 but not RM200
 
-7. When wages exceed RM200 RM3.10 RM2.50
+7. When wages exceed RM200 RM3.10
+
+<!-- marginal: RM2.50 -->
 
 <!-- marginal: RM5.60 -->
 
 but not RM300
 
-8. When wages exceed RM300 RM4.40 RM3.50
+8. When wages exceed RM300 RM4.40
+
+<!-- marginal: RM3.50 -->
 
 <!-- marginal: RM7.90 -->
 
 but not RM400
 
-9. When wages exceed RM400 RM5.60 RM4.50
+9. When wages exceed RM400 RM5.60
+
+<!-- marginal: RM4.50 -->
 
 <!-- marginal: RM10.10 -->
 
@@ -2622,17 +2716,11 @@ but not RM500
 
 <!-- page 27 -->
 
-No. Monthly wages Employer’s
-
-<!-- marginal: Employee’s -->
+No. Monthly wages Employer’s Employee’s
 
 <!-- marginal: Total -->
 
-contribution
-
-<!-- marginal: contribution -->
-
-(Employment (Non-employment injury)
+contribution contribution (Employment (Non-employment injury)
 
 <!-- marginal: injury) -->
 
@@ -2802,111 +2890,149 @@ No. Monthly wages Employer’s Employee’s
 
 <!-- marginal: Total -->
 
-contribution contribution (Employment (Non-employment injury) injury)
+contribution contribution (Employment (Non-employment injury)
 
-30. When wages exceed RM2,500 RM31.90 RM25.50
+<!-- marginal: injury) -->
+
+30. When wages exceed RM2,500 RM31.90
+
+<!-- marginal: RM25.50 -->
 
 <!-- marginal: RM57.40 -->
 
 but not RM2,600
 
-31. When wages exceed RM2,600 RM33.10 RM26.50
+31. When wages exceed RM2,600 RM33.10
+
+<!-- marginal: RM26.50 -->
 
 <!-- marginal: RM59.60 -->
 
 but not RM2,700
 
-32. When wages exceed RM2,700 RM34.40 RM27.50
+32. When wages exceed RM2,700 RM34.40
+
+<!-- marginal: RM27.50 -->
 
 <!-- marginal: RM61.90 -->
 
 but not RM2,800
 
-33. When wages exceed RM2,800 RM35.60 RM28.50
+33. When wages exceed RM2,800 RM35.60
+
+<!-- marginal: RM28.50 -->
 
 <!-- marginal: RM64.10 -->
 
 but not RM2,900
 
-34. When wages exceed RM2,900 RM36.90 RM29.50
+34. When wages exceed RM2,900 RM36.90
+
+<!-- marginal: RM29.50 -->
 
 <!-- marginal: RM66.40 -->
 
 but not RM3,000
 
-35. When wages exceed RM3,000 RM38.10 RM30.50
+35. When wages exceed RM3,000 RM38.10
+
+<!-- marginal: RM30.50 -->
 
 <!-- marginal: RM68.60 -->
 
 but not RM3,100
 
-36. When wages exceed RM3,100 RM39.40 RM31.50
+36. When wages exceed RM3,100 RM39.40
+
+<!-- marginal: RM31.50 -->
 
 <!-- marginal: RM70.90 -->
 
 but not RM3,200
 
-37. When wages exceed RM3,200 RM40.60 RM32.50
+37. When wages exceed RM3,200 RM40.60
+
+<!-- marginal: RM32.50 -->
 
 <!-- marginal: RM73.10 -->
 
 but not RM3,300
 
-38. When wages exceed RM3,300 RM41.90 RM33.50
+38. When wages exceed RM3,300 RM41.90
+
+<!-- marginal: RM33.50 -->
 
 <!-- marginal: RM75.40 -->
 
 but not RM3,400
 
-39. When wages exceed RM3,400 RM43.10 RM34.50
+39. When wages exceed RM3,400 RM43.10
+
+<!-- marginal: RM34.50 -->
 
 <!-- marginal: RM77.60 -->
 
 but not RM3,500
 
-40. When wages exceed RM3,500 RM44.40 RM35.50
+40. When wages exceed RM3,500 RM44.40
+
+<!-- marginal: RM35.50 -->
 
 <!-- marginal: RM79.90 -->
 
 but not RM3,600
 
-41. When wages exceed RM3,600 RM45.60 RM36.50
+41. When wages exceed RM3,600 RM45.60
+
+<!-- marginal: RM36.50 -->
 
 <!-- marginal: RM82.10 -->
 
 but not RM3,700
 
-42. When wages exceed RM3,700 RM46.90 RM37.50
+42. When wages exceed RM3,700 RM46.90
+
+<!-- marginal: RM37.50 -->
 
 <!-- marginal: RM84.40 -->
 
 but not RM3,800
 
-43. When wages exceed RM3,800 RM48.10 RM38.50
+43. When wages exceed RM3,800 RM48.10
+
+<!-- marginal: RM38.50 -->
 
 <!-- marginal: RM86.60 -->
 
 but not RM3,900
 
-44. When wages exceed RM3,900 RM49.40 RM39.50
+44. When wages exceed RM3,900 RM49.40
+
+<!-- marginal: RM39.50 -->
 
 <!-- marginal: RM88.90 -->
 
 but not RM4,000
 
-45. When wages exceed RM4,000 RM50.60 RM40.50
+45. When wages exceed RM4,000 RM50.60
+
+<!-- marginal: RM40.50 -->
 
 <!-- marginal: RM91.10 -->
 
 but not RM4,100
 
-46. When wages exceed RM4,100 RM51.90 RM41.50
+46. When wages exceed RM4,100 RM51.90
+
+<!-- marginal: RM41.50 -->
 
 <!-- marginal: RM93.40 -->
 
 but not RM4,200
 
-47. When wages exceed RM4,200 RM53.10 RM42.50
+47. When wages exceed RM4,200 RM53.10
+
+<!-- marginal: RM42.50 -->
 
 <!-- marginal: RM95.60 -->
 
@@ -2914,17 +3040,11 @@ but not RM4,300
 
 <!-- page 29 -->
 
-No. Monthly wages Employer’s
-
-<!-- marginal: Employee’s -->
+No. Monthly wages Employer’s Employee’s
 
 <!-- marginal: Total -->
 
-contribution
-
-<!-- marginal: contribution -->
-
-(Employment (Non-employment injury)
+contribution contribution (Employment (Non-employment injury)
 
 <!-- marginal: injury) -->
 
@@ -3076,7 +3196,9 @@ but not RM6,000
 
 ## THIRD PHASE: PART VI
 
-(1) (2) (3) (4)
+(1) (2) (3)
+
+<!-- marginal: (4) -->
 
 <!-- marginal: (5) -->
 
@@ -3084,115 +3206,155 @@ No. Monthly wages Employer’s Employee’s
 
 <!-- marginal: Total -->
 
-contribution contribution (Employment (Non-employment injury) injury)
+contribution contribution (Employment (Non-employment injury)
 
-1. Wages up to RM30 30 cent 30 cent
+<!-- marginal: injury) -->
+
+1. Wages up to RM30 30 cent
+
+<!-- marginal: 30 cent -->
 
 <!-- marginal: 60 cent -->
 
-2. When wages exceed RM30 50 cent 50 cent
+2. When wages exceed RM30 50 cent
+
+<!-- marginal: 50 cent -->
 
 <!-- marginal: RM1.00 -->
 
 but not RM50
 
-3. When wages exceed RM50 80 cent 80 cent
+3. When wages exceed RM50 80 cent
+
+<!-- marginal: 80 cent -->
 
 <!-- marginal: RM1.60 -->
 
 but not RM70
 
-4. When wages exceed RM70 RM1.10 RM1.10
+4. When wages exceed RM70 RM1.10
+
+<!-- marginal: RM1.10 -->
 
 <!-- marginal: RM2.20 -->
 
 but not RM100
 
-5. When wages exceed RM100 RM1.50 RM1.50
+5. When wages exceed RM100 RM1.50
+
+<!-- marginal: RM1.50 -->
 
 <!-- marginal: RM3.00 -->
 
 but not RM140
 
-6. When wages exceed RM140 RM2.10 RM2.10
+6. When wages exceed RM140 RM2.10
+
+<!-- marginal: RM2.10 -->
 
 <!-- marginal: RM4.20 -->
 
 but not RM200
 
-7. When wages exceed RM200 RM3.10 RM3.10
+7. When wages exceed RM200 RM3.10
+
+<!-- marginal: RM3.10 -->
 
 <!-- marginal: RM6.20 -->
 
 but not RM300
 
-8. When wages exceed RM300 RM4.40 RM4.40
+8. When wages exceed RM300 RM4.40
+
+<!-- marginal: RM4.40 -->
 
 <!-- marginal: RM8.80 -->
 
 but not RM400
 
-9. When wages exceed RM400 RM5.60 RM5.60
+9. When wages exceed RM400 RM5.60
+
+<!-- marginal: RM5.60 -->
 
 <!-- marginal: RM11.20 -->
 
 but not RM500
 
-10. When wages exceed RM500 RM6.90 RM6.90
+10. When wages exceed RM500 RM6.90
+
+<!-- marginal: RM6.90 -->
 
 <!-- marginal: RM13.80 -->
 
 but not RM600
 
-11. When wages exceed RM600 RM8.10 RM8.10
+11. When wages exceed RM600 RM8.10
+
+<!-- marginal: RM8.10 -->
 
 <!-- marginal: RM16.20 -->
 
 but not RM700
 
-12. When wages exceed RM700 RM9.40 RM9.40
+12. When wages exceed RM700 RM9.40
+
+<!-- marginal: RM9.40 -->
 
 <!-- marginal: RM18.80 -->
 
 but not RM800
 
-13. When wages exceed RM800 RM10.60 RM10.60
+13. When wages exceed RM800 RM10.60
+
+<!-- marginal: RM10.60 -->
 
 <!-- marginal: RM21.20 -->
 
 but not RM900
 
-14. When wages exceed RM900 RM11.90 RM11.90
+14. When wages exceed RM900 RM11.90
+
+<!-- marginal: RM11.90 -->
 
 <!-- marginal: RM23.80 -->
 
 but not RM1,000
 
-15. When wages exceed RM1,000 RM13.10 RM13.10
+15. When wages exceed RM1,000 RM13.10
+
+<!-- marginal: RM13.10 -->
 
 <!-- marginal: RM26.20 -->
 
 but not RM1,100
 
-16. When wages exceed RM1,100 RM14.40 RM14.40
+16. When wages exceed RM1,100 RM14.40
+
+<!-- marginal: RM14.40 -->
 
 <!-- marginal: RM28.80 -->
 
 but not RM1,200
 
-17. When wages exceed RM1,200 RM15.60 RM15.60
+17. When wages exceed RM1,200 RM15.60
+
+<!-- marginal: RM15.60 -->
 
 <!-- marginal: RM31.20 -->
 
 but not RM1,300
 
-18. When wages exceed RM1,300 RM16.90 RM16.90
+18. When wages exceed RM1,300 RM16.90
+
+<!-- marginal: RM16.90 -->
 
 <!-- marginal: RM33.80 -->
 
 but not RM1,400
 
-19. When wages exceed RM1,400 RM18.10 RM18.10
+19. When wages exceed RM1,400 RM18.10
+
+<!-- marginal: RM18.10 -->
 
 <!-- marginal: RM36.20 -->
 
@@ -3200,17 +3362,11 @@ but not RM1,500
 
 <!-- page 31 -->
 
-No. Monthly wages Employer’s
-
-<!-- marginal: Employee’s -->
+No. Monthly wages Employer’s Employee’s
 
 <!-- marginal: Total -->
 
-contribution
-
-<!-- marginal: contribution -->
-
-(Employment (Non-employment injury)
+contribution contribution (Employment (Non-employment injury)
 
 <!-- marginal: injury) -->
 
@@ -3380,123 +3536,165 @@ No. Monthly wages Employer’s Employee’s
 
 <!-- marginal: Total -->
 
-contribution contribution (Employment (Non-employment injury) injury)
+contribution contribution (Employment (Non-employment injury)
 
-40. When wages exceed RM3,500 RM44.40 RM44.40
+<!-- marginal: injury) -->
+
+40. When wages exceed RM3,500 RM44.40
+
+<!-- marginal: RM44.40 -->
 
 <!-- marginal: RM88.80 -->
 
 but not RM3,600
 
-41. When wages exceed RM3,600 RM45.60 RM45.60
+41. When wages exceed RM3,600 RM45.60
+
+<!-- marginal: RM45.60 -->
 
 <!-- marginal: RM91.20 -->
 
 but not RM3,700
 
-42. When wages exceed RM3,700 RM46.90 RM46.90
+42. When wages exceed RM3,700 RM46.90
+
+<!-- marginal: RM46.90 -->
 
 <!-- marginal: RM93.80 -->
 
 but not RM3,800
 
-43. When wages exceed RM3,800 RM48.10 RM48.10
+43. When wages exceed RM3,800 RM48.10
+
+<!-- marginal: RM48.10 -->
 
 <!-- marginal: RM96.20 -->
 
 but not RM3,900
 
-44. When wages exceed RM3,900 RM49.40 RM49.40
+44. When wages exceed RM3,900 RM49.40
+
+<!-- marginal: RM49.40 -->
 
 <!-- marginal: RM98.80 -->
 
 but not RM4,000
 
-45. When wages exceed RM4,000 RM50.60 RM50.60
+45. When wages exceed RM4,000 RM50.60
+
+<!-- marginal: RM50.60 -->
 
 <!-- marginal: RM101.20 -->
 
 but not RM4,100
 
-46. When wages exceed RM4,100 RM51.90 RM51.90
+46. When wages exceed RM4,100 RM51.90
+
+<!-- marginal: RM51.90 -->
 
 <!-- marginal: RM103.80 -->
 
 but not RM4,200
 
-47. When wages exceed RM4,200 RM53.10 RM53.10
+47. When wages exceed RM4,200 RM53.10
+
+<!-- marginal: RM53.10 -->
 
 <!-- marginal: RM106.20 -->
 
 but not RM4,300
 
-48. When wages exceed RM4,300 RM54.40 RM54.40
+48. When wages exceed RM4,300 RM54.40
+
+<!-- marginal: RM54.40 -->
 
 <!-- marginal: RM108.80 -->
 
 but not RM4,400
 
-49. When wages exceed RM4,400 RM55.60 RM55.60
+49. When wages exceed RM4,400 RM55.60
+
+<!-- marginal: RM55.60 -->
 
 <!-- marginal: RM111.20 -->
 
 but not RM4,500
 
-50. When wages exceed RM4,500 RM56.90 RM56.90
+50. When wages exceed RM4,500 RM56.90
+
+<!-- marginal: RM56.90 -->
 
 <!-- marginal: RM113.80 -->
 
 but not RM4,600
 
-51. When wages exceed RM4,600 RM58.10 RM58.10
+51. When wages exceed RM4,600 RM58.10
+
+<!-- marginal: RM58.10 -->
 
 <!-- marginal: RM116.20 -->
 
 but not RM4,700
 
-52. When wages exceed RM4,700 RM59.40 RM59.40
+52. When wages exceed RM4,700 RM59.40
+
+<!-- marginal: RM59.40 -->
 
 <!-- marginal: RM118.80 -->
 
 but not RM4,800
 
-53. When wages exceed RM4,800 RM60.60 RM60.60
+53. When wages exceed RM4,800 RM60.60
+
+<!-- marginal: RM60.60 -->
 
 <!-- marginal: RM121.20 -->
 
 but not RM4,900
 
-54. When wages exceed RM4,900 RM61.90 RM61.90
+54. When wages exceed RM4,900 RM61.90
+
+<!-- marginal: RM61.90 -->
 
 <!-- marginal: RM123.80 -->
 
 but not RM5,000
 
-55. When wages exceed RM5,000 RM63.10 RM63.10
+55. When wages exceed RM5,000 RM63.10
+
+<!-- marginal: RM63.10 -->
 
 <!-- marginal: RM126.20 -->
 
 but not RM5,100
 
-56. When wages exceed RM5,100 RM64.40 RM64.40
+56. When wages exceed RM5,100 RM64.40
+
+<!-- marginal: RM64.40 -->
 
 <!-- marginal: RM128.80 -->
 
 but not RM5,200
 
-57. When wages exceed RM5,200 RM65.60 RM65.60
+57. When wages exceed RM5,200 RM65.60
+
+<!-- marginal: RM65.60 -->
 
 <!-- marginal: RM131.20 -->
 
 but not RM5,300
 
-58. When wages exceed RM5,300 RM66.90 RM66.90
+58. When wages exceed RM5,300 RM66.90
+
+<!-- marginal: RM66.90 -->
 
 <!-- marginal: RM133.80 -->
 
 but not RM5,400
 
-59. When wages exceed RM5,400 RM68.10 RM68.10
+59. When wages exceed RM5,400 RM68.10
+
+<!-- marginal: RM68.10 -->
 
 <!-- marginal: RM136.20 -->
 
@@ -3504,17 +3702,11 @@ but not RM5,500
 
 <!-- page 33 -->
 
-No. Monthly wages Employer’s
-
-<!-- marginal: Employee’s -->
+No. Monthly wages Employer’s Employee’s
 
 <!-- marginal: Total -->
 
-contribution
-
-<!-- marginal: contribution -->
-
-(Employment (Non-employment injury)
+contribution contribution (Employment (Non-employment injury)
 
 <!-- marginal: injury) -->
 
@@ -3556,7 +3748,9 @@ but not RM5,900
 
 <!-- marginal: RM148.80 -->
 
-but not RM6,000 ”. 65. When wages exceed RM6,000 RM74.40
+but not RM6,000 ”.
+
+65. When wages exceed RM6,000 RM74.40
 
 <!-- marginal: RM74.40 -->
 
@@ -3650,7 +3844,11 @@ following schedule:
 
 <!-- marginal: (6) -->
 
-“ No. Actual First Phase Second Phase Third Phase
+“
+
+<!-- marginal: No. -->
+
+Actual First Phase Second Phase Third Phase
 
 <!-- marginal: Corresponding -->
 
@@ -3668,19 +3866,9 @@ the month
 
 <!-- marginal: the month -->
 
-(A) (B) (A) (B) (A)
+(A) (B) (A) (B) (A) (B) First Second First Second First Second Category Category Category Category Category Category
 
-<!-- marginal: (B) -->
-
-First Second First Second First
-
-<!-- marginal: Second -->
-
-Category Category Category Category Category Category
-
-1. Wages up 70 cent 50 cent 75 cent 55 cent 80 cent
-
-<!-- marginal: 60 cent -->
+1. Wages up 70 cent 50 cent 75 cent 55 cent 80 cent 60 cent
 
 <!-- marginal: RM20 -->
 
@@ -3690,13 +3878,15 @@ to RM30
 
 <!-- marginal: RM40 -->
 
-wages exceed RM30 but not RM50
+<!-- marginal: wages -->
+
+<!-- marginal: exceed -->
+
+RM30 but not RM50
 
 <!-- page 35 -->
 
-No. Actual First Phase Second Phase
-
-<!-- marginal: Third Phase -->
+No. Actual First Phase Second Phase Third Phase
 
 <!-- marginal: Corresponding -->
 
@@ -3806,7 +3996,9 @@ First Second First Second First
 
 <!-- marginal: Second -->
 
-Category Category Category Category Category Category
+Category Category Category Category Category
+
+<!-- marginal: Category -->
 
 10. When RM16.55 RM11.05 RM17.90 RM12.40 RM19.30 RM13.80
 
@@ -3852,9 +4044,7 @@ wages exceed RM1,100 but not RM1,200
 
 <!-- page 37 -->
 
-No. Actual First Phase Second Phase
-
-<!-- marginal: Third Phase -->
+No. Actual First Phase Second Phase Third Phase
 
 <!-- marginal: Corresponding -->
 
@@ -3954,7 +4144,9 @@ First Second First Second First
 
 <!-- marginal: Second -->
 
-Category Category Category Category Category Category
+Category Category Category Category Category
+
+<!-- marginal: Category -->
 
 24. When RM58.55 RM39.05 RM63.40 RM43.90 RM68.30 RM48.80
 
@@ -4000,9 +4192,7 @@ wages exceed RM2,500 but not RM2,600
 
 <!-- page 39 -->
 
-No. Actual First Phase Second Phase
-
-<!-- marginal: Third Phase -->
+No. Actual First Phase Second Phase Third Phase
 
 <!-- marginal: Corresponding -->
 
@@ -4102,7 +4292,9 @@ First Second First Second First
 
 <!-- marginal: Second -->
 
-Category Category Category Category Category Category
+Category Category Category Category Category
+
+<!-- marginal: Category -->
 
 38. When RM100.55 RM67.05 RM108.90 RM75.40 RM117.30 RM83.80
 
@@ -4148,9 +4340,7 @@ wages exceed RM3,900 but not RM4,000
 
 <!-- page 41 -->
 
-No. Actual First Phase Second Phase
-
-<!-- marginal: Third Phase -->
+No. Actual First Phase Second Phase Third Phase
 
 <!-- marginal: Corresponding -->
 
@@ -4250,7 +4440,9 @@ First Second First Second First
 
 <!-- marginal: Second -->
 
-Category Category Category Category Category Category
+Category Category Category Category Category
+
+<!-- marginal: Category -->
 
 52. When RM142.55 RM95.05 RM154.40 RM106.90 RM166.30 RM118.80
 
@@ -4296,9 +4488,7 @@ wages exceed RM5,300 but not RM5,400
 
 <!-- page 43 -->
 
-No. Actual First Phase Second Phase
-
-<!-- marginal: Third Phase -->
+No. Actual First Phase Second Phase Third Phase
 
 <!-- marginal: Corresponding -->
 

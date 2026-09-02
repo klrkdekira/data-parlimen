@@ -52,11 +52,23 @@ effect upon the coming into operation of this Act.
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
-Deletion of
+<!-- marginal: Deletion of -->
 
-4. The Income Tax Act 1967, which in this Chapter is section 123. referred to as the "principal Act", is amended by deleting Act 53. section 123. Amendment
+4. The Income Tax Act 1967, which in this Chapter is
 
-5. Subsection 136(4) of the principal Act is amended— of section
+<!-- marginal: section 123. -->
+
+referred to as the "principal Act", is amended by deleting
+
+<!-- marginal: Act 53. -->
+
+section 123.
+
+<!-- marginal: Amendment -->
+
+5. Subsection 136(4) of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 136.
 
@@ -64,9 +76,13 @@ Deletion of
 
 (b) by substituting for the colon at the end of the paragraph a full stop; and
 
-(c) by deleting the proviso. Amendment
+(c) by deleting the proviso.
 
-6. Schedule 3 of the principal Act is amended— of Schedule
+<!-- marginal: Amendment -->
+
+6. Schedule 3 of the principal Act is amended—
+
+<!-- marginal: of Schedule -->
 
 3.
 
@@ -88,11 +104,25 @@ III
 
 ## (INCOME TAX) ACT 1967
 
-Deletion of
+<!-- marginal: Deletion of -->
 
-7. The Petroleum (Income Tax) Act 1967, which in this section 61. Chapter is referred to as the "principal Act", is amended Act 543. by deleting section 61. Amendment
+7. The Petroleum (Income Tax) Act 1967, which in this
 
-8. Subsection 69(4) of the principal Act is amended by of section 69. deleting the words "section 61 and".
+<!-- marginal: section 61. -->
+
+Chapter is referred to as the "principal Act", is amended
+
+<!-- marginal: Act 543. -->
+
+by deleting section 61.
+
+<!-- marginal: Amendment -->
+
+8. Subsection 69(4) of the principal Act is amended by
+
+<!-- marginal: of section 69. -->
+
+deleting the words "section 61 and".
 
 <!-- page 3 -->
 

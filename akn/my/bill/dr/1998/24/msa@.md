@@ -52,7 +52,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 hakmilik, sekuriti dan wang tunai itu tidaklah boleh dikehendaki supaya dikemukakan pada masa atau di tempat yang akan mengganggu perjalanan sepatutnya urusan harian biasa orang berlesen itu.
 
-(2) Walau apa pun subseksyen (1), mana-mana orang yang diberi kuasa oleh Suruhanjaya secara bertulis bagi maksud ini boleh mengambil milik mana-mana buku atau dokumen lain, akaun, hakmilik, sekuriti atau wang tunai yang dia mempunyai akses kepadanya di bawah subseksyen (1) jika pada pendapatnya—
+(2) Walau apa pun subseksyen (1), mana-mana orang yang diberi kuasa oleh Suruhanjaya secara bertulis bagi maksud ini boleh mengambil milik mana-mana buku atau dokumen lain, akaun, hakmilik, sekuriti atau wang tunai yang dia mempunyai akses kepadanya di bawah subseksyen
+
+(1) jika pada pendapatnya—
 
 (a) pemeriksaan, penyalinan, atau pembuatan cabutan dari, buku atau dokumen lain, akaun, hakmilik, sekuriti atau wang tunai itu tidak dapat dilakukan dengan cara yang munasabah tanpa mengambil miliknya;
 
@@ -200,7 +202,9 @@ Suruhanjaya Sekuriti (Pindaan)
 
 Pindaan seksyen 39
 
-9. Seksyen 39 Akta ibu dipinda dengan memotong subseksyen (2).
+9. Seksyen 39 Akta ibu dipinda dengan memotong subseksyen
+
+(2).
 
 Seksyen baru 39c, 39D, 39E, 39F dan 39G
 
@@ -262,11 +266,7 @@ pengawalseliaan itu atau memberikan apa-apa bantuan lain kepada pihak berkuasa m
 
 (c) dengan memasukkan selepas subseksyen (2) subseksyen yang berikut:
 
-"(3) Bagi maksud subseksyen (1), peruntukan
-
-## Bahagian V hendaklah, dengan apa-apa penyesuaian
-
-yang perlu, terpakai dan mempunyai kuat kuasa sewajarnya seolah-olah pelanggaran kehendak undang- undang atau pengawalseliaan itu ialah suatu kesalahan di bawah suatu undang-undang sekuriti.
+"(3) Bagi maksud subseksyen (1), peruntukan Bahagian V hendaklah, dengan apa-apa penyesuaian yang perlu, terpakai dan mempunyai kuat kuasa sewajarnya seolah-olah pelanggaran kehendak undang- undang atau pengawalseliaan itu ialah suatu kesalahan di bawah suatu undang-undang sekuriti.
 
 (4) Pada menentukan sama ada adalah demi kepentingan awam bantuan diberikan di bawah subseksyen (1), Suruhanjaya hendaklah memberikan perhatian kepada—
 
@@ -306,12 +306,12 @@ untuk menyerahkan orang yang ditangkap kepada polis, seraentara seksyen baru 39G
 
 10. Fasal 12 Rang Undang-Undang ini bertujuan untuk meminda seksyen 43B Akta 498 untuk memasukkan unsur kepentingan awara ke dalam pertimbangan Suruhanjaya tentang sama ada hendak memberikan bantuan kepada sesuatu pihak berkuasa asing yang menjalankan fungsi yang serupa dengan fungsi yang diberikan kepada Suruhanjaya serta juga untuk memastikan bahawa hanya permintaan bantuan yang dibuat secara bertulis akan dipertimbangkan oleh Suruhanjaya.
 
-11. Rang Undang-Undang ini juga bertujuan untuk meningkatkan hukuman yang diperuntukkan dalam subseksyen 36(3), 38(5) dan 43(2) daripada denda maksimum lima puluh ribu ringgit kepada denda maksimum satu juta ringgit dan, dalam hal tempoh pemenjaraan, dari tempoh maksimum tiga tahun kepada tempoh maksimum lima tahun. Pindaan ini dicadangkan dalam fasal 5, 7 dan
-
-11.
+11. Rang Undang-Undang ini juga bertujuan untuk meningkatkan hukuman yang diperuntukkan dalam subseksyen 36(3), 38(5) dan 43(2) daripada denda maksimum lima puluh ribu ringgit kepada denda maksimum satu juta ringgit dan, dalam hal tempoh pemenjaraan, dari tempoh maksimum tiga tahun kepada tempoh maksimum lima tahun. Pindaan ini dicadangkan dalam fasal 5, 7 dan 11.
 
 12. Pindaan lain yang tidak diperkatakan dengan khusus dalam Huraian ini adalah pindaan yang kecil atau berbangkit.
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN.(U2)2101.]
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
+
+<!-- marginal: [PN.(U2)2101.] -->

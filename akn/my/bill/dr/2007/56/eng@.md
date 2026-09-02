@@ -16,7 +16,15 @@
 
 ## THE COUNCIL
 
-5. Establishment of Council 6. Objectives of Council 7. Functions of Council 8. Powers of Council 9. Additional functions and powers of Council 10. Membership of Council 11. Alternate member of Council 12. Council may establish committees 13. Delegation of functions and powers of Council
+5. Establishment of Council 6. Objectives of Council 7. Functions of Council 8. Powers of Council 9. Additional functions and powers of Council
+
+10. Membership of Council
+
+11. Alternate member of Council
+
+12. Council may establish committees
+
+13. Delegation of functions and powers of Council
 
 ## PART III
 
@@ -24,7 +32,11 @@
 
 ## OF COUNCIL
 
-14. Chief Executive Employment of officers and servants of Council 15. Financial assistance to officers and servants and their dependants 16.
+14. Chief Executive Employment of officers and servants of Council
+
+15. Financial assistance to officers and servants and their dependants
+
+16.
 
 <!-- page 2 -->
 
@@ -42,7 +54,9 @@ The East Coast Economic Region Master Plan 17. 18. Consultation with State Gover
 
 ## THE EAST COAST ECONOMIC REGION
 
-23. Responsibility of Council 24. Responsibility of Government entity
+23. Responsibility of Council
+
+24. Responsibility of Government entity
 
 ## PART VI
 
@@ -50,29 +64,81 @@ The East Coast Economic Region Master Plan 17. 18. Consultation with State Gover
 
 ## EAST COAST ECONOMIC REGION
 
-25. Principal coordinating agency 26. Arrangement with Government entity 27. Council may request for information from Government entity 28. Implementation and Coordination Committee
+25. Principal coordinating agency
+
+26. Arrangement with Government entity
+
+27. Council may request for information from Government entity
+
+28. Implementation and Coordination Committee
 
 ## PART VII
 
 ## FINANCE
 
-29. The Fund 30. Expenditure to be charged on the Fund 31. Authority to sanction expenditure from the Fund 32. Conservation of the Fund 33. Special fund
+29. The Fund
+
+30. Expenditure to be charged on the Fund
+
+31. Authority to sanction expenditure from the Fund
+
+32. Conservation of the Fund
+
+33. Special fund
 
 <!-- page 3 -->
 
-34. Reserve fund 35. Bank accounts 36. Power to impose fees 37. Power to borrow and raise funds 38. Investment 39. Expenditure and preparation of estimates 40. Financial year 41. Statutory Bodies (Accounts and Annual Reports) Act 1980
+34. Reserve fund
+
+35. Bank accounts
+
+36. Power to impose fees
+
+37. Power to borrow and raise funds
+
+38. Investment
+
+39. Expenditure and preparation of estimates
+
+40. Financial year
+
+41. Statutory Bodies (Accounts and Annual Reports) Act 1980
 
 ## PART VIII
 
 ## OFFENCES AND PENALTIES
 
-42. Offence for failure to disclose interest 43. Obligation of secrecy 44. Offence for giving false or misleading information 45. Offence for unauthorized modification of information in the Council's custody 46. Offence by body corporate and employee
+42. Offence for failure to disclose interest
+
+43. Obligation of secrecy
+
+44. Offence for giving false or misleading information
+
+45. Offence for unauthorized modification of information in the Council's custody
+
+46. Offence by body corporate and employee
 
 ## PART IX
 
 ## GENERAL PROVISIONS
 
-47. Returns, reports, accounts and information 48. Power to establish companies 49. Power to employ professionals 50. Protection against suits and legal proceedings 51. Public Authorities Protection Act 1948 52. Public servants 53. Power to make regulations 54. Things done in anticipation of the enactment of this Act 55. Savings provisions
+47. Returns, reports, accounts and information
+
+48. Power to establish companies
+
+49. Power to employ professionals
+
+50. Protection against suits and legal proceedings
+
+51. Public Authorities Protection Act 1948
+
+52. Public servants
+
+53. Power to make regulations
+
+54. Things done in anticipation of the enactment of this Act
+
+55. Savings provisions
 
 ## FIRST SCHEDULE
 
@@ -192,31 +258,15 @@ Implementation and Coordination Committee appointed under section 28;
 
 (b) to promote, stimulate, facilitate, coordinate, evaluate and review any development in the East Coast Economic Region carried out by any Government entity, or any body or person, whether local or foreign, and participate in the development of the East Coast Economic Region, including —
 
-(i) economic development such as tourism and agricultural development including
-
-<!-- marginal: the -->
-
-modernisation, diversification
-
-<!-- marginal: and -->
-
-commercialisation of the agricultural sector;
+(i) economic development such as tourism and agricultural development including the modernisation, diversification and commercialisation of the agricultural sector;
 
 <!-- page 8 -->
 
-(ii) industrial and commercial development such as the oil and gas and petrochemical
-
-<!-- marginal: industry, -->
-
-manufacturing and other trade and higher value- added activities and new industries;
+(ii) industrial and commercial development such as the oil and gas and petrochemical industry, manufacturing and other trade and higher value- added activities and new industries;
 
 (iii) social development such as public health and the development of health and medical facilities and the advancement of art, and cultural, sports and recreational activities;
 
-(iv) human resource development such as
-
-<!-- marginal: the -->
-
-development of public education and educational facilities including the development of vocational and technical institutions and centres of excellence for research, teaching and training; and
+(iv) human resource development such as the development of public education and educational facilities including the development of vocational and technical institutions and centres of excellence for research, teaching and training; and
 
 (v) infrastructural development such as the development of investment and logistics centre, duty free area, residential area and public amenities, and property development;
 
@@ -260,11 +310,7 @@ the Council in furtherance of the objectives of the Council and the better carry
 
 (b) to take or otherwise acquire shares and securities of any company, business, activity or transaction, capable of being conducted so as, directly or indirectly, to achieve the objectives of the Council, and to sell, hold, or re-issue with or without guarantee or otherwise deal with such shares and securities, or to underwrite or otherwise acquire and hold any such shares and securities and to dispose of such shares and securities on such terms as the Council may determine;
 
-(c) to initiate and carry out studies of possible development and redevelopment areas and to propose plans outlining development or redevelopment activities,
-
-<!-- marginal: including -->
-
-identifying suitable locations and other key enablers for such purposes, and carry out surveys to determine if the undertaking and carrying out of the development or redevelopment projects are feasible;
+(c) to initiate and carry out studies of possible development and redevelopment areas and to propose plans outlining development or redevelopment activities, including identifying suitable locations and other key enablers for such purposes, and carry out surveys to determine if the undertaking and carrying out of the development or redevelopment projects are feasible;
 
 (d) to make recommendations and provide consultancy and advisory services on the implementation of policies, laws and actions, and uniform standards, guidelines, and best practices, and administrative processes and procedures to be applied by any Government entity, any body and person for the purpose of facilitating development of the East Coast Economic Region;
 
@@ -470,11 +516,7 @@ East Coast Economic Region Development Council 17
 
 (v) the development of sectoral-relevant or industry- relevant human capital, which includes activities relating to education, training and research;
 
-(vi) the development of the agricultural sector, including its modernisation, diversification
-
-<!-- marginal: and -->
-
-commercialisation;
+(vi) the development of the agricultural sector, including its modernisation, diversification and commercialisation;
 
 (vii) the enhancement of the quality of living environment in the East Coast Economic Region;
 
@@ -486,11 +528,7 @@ commercialisation;
 
 East Coast Economic Region Development Council 19
 
-(x) the achievement or enhancement of international competitive advantage for goods and services in the East Coast Economic Region, which
-
-<!-- marginal: includes -->
-
-activities relating to branding, research, accreditation to international standards and marketing;
+(x) the achievement or enhancement of international competitive advantage for goods and services in the East Coast Economic Region, which includes activities relating to branding, research, accreditation to international standards and marketing;
 
 (xi) the attraction of investment in the agricultural, manufacturing and service sectors in the East Coast Economic Region;
 
@@ -604,7 +642,9 @@ East Coast Economic Region Development Council 23
 
 (2) Any Government entity, or any body or person intending to carry out any designated strategic development activity, or any development within a designated strategic development area, or any designated strategic development activity within a designated strategic development area, shall first refer such proposed development to the Council for its direction before submitting such proposed development for the approval of the relevant authorities.
 
-(3) TheCouncil shall give directions undersubsection (2) for purposes of securing conformity and consistency with the contents of the East Coast Economic Region Master Plan whether or not incorporated into a local plan pursuant to subsection 19(5).
+(3) TheCouncil shall give directions undersubsection
+
+(2) for purposes of securing conformity and consistency with the contents of the East Coast Economic Region Master Plan whether or not incorporated into a local plan pursuant to subsection 19(5).
 
 ## PART V
 
@@ -682,9 +722,7 @@ East Coast Economic Region Development Council 27
 
 (c) the collection by the Council on behalf of the Government entity of such fees, costs, contributions or any other charges as may be lawfully required, charged or imposed by such Government entity.
 
-(2) Any agreement or arrangement entered into under subsection
-
-(1) —
+(2) Any agreement or arrangement entered into under subsection (1) —
 
 (a) shall be with the consent of the Prime Minister in the case of any Government entity of the Federal Government;
 
@@ -1192,7 +1230,7 @@ East Coast Economic Region Development Council 43
 
 (2) Until a seal is provided by the Council, a stamp bearing the words "East Coast Economic Region Development Council" may be used and shall be deemed to be the common seal of the Council.
 
-I
+<!-- marginal: I -->
 
 <!-- page 44 -->
 

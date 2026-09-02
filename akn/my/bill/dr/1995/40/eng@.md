@@ -28,17 +28,29 @@ NOW, THEREFORE, pursuant to the provisions of Clause (4) of Article 76 of the Co
 
 <!-- page 2 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-2. The National Land Code, which in this Act is referred of section 14. to as the "Code", is amended in paragraph 14(l)(g) by Act 56/65. inserting after the word "fees" the words "or levy",
+2. The National Land Code, which in this Act is referred
 
-Amendment
+<!-- marginal: of section 14. -->
 
-3. Section 301A of the Code is amended by substituting of section for the words "has not" the words "and, where applicable,
+to as the "Code", is amended in paragraph 14(l)(g) by
+
+<!-- marginal: Act 56/65. -->
+
+inserting after the word "fees" the words "or levy",
+
+<!-- marginal: Amendment -->
+
+3. Section 301A of the Code is amended by substituting
+
+<!-- marginal: of section -->
+
+for the words "has not" the words "and, where applicable,
 
 301A. any levy payable under sub-section (2) of section 433B have not".
 
-New section
+<!-- marginal: New section -->
 
 4. The Code is amended by inserting after section 428A
 
@@ -48,41 +60,37 @@ New section
 
 (2) Any person who would be liable under this Act or any rules made thereunder to any penalty for anything done or omitted if the thing had been done or omitted by him personally shall be liable to the same penalty if the thing had been done or omitted by his agent, unless he proves that he took reasonable precautions to prevent the doing or omission of the thing.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-5. Section 433A of the Code is amended by substituting of section for the definition of "foreign company" the following
+5. Section 433A of the Code is amended by substituting
+
+<!-- marginal: of section -->
+
+for the definition of "foreign company" the following
 
 433A. definition:
 
 ' "foreign company" means—
 
-(a) a foreign company as defined in sub-section Act 125. (1) of section 4 of the Companies Act 1965;
+(a) a foreign company as defined in sub-section
+
+<!-- marginal: Act 125. -->
+
+(1) of section 4 of the Companies Act 1965;
 
 <!-- page 3 -->
 
 ## NATIONAL LAND CODE (AMENDMENT)
 
-<!-- marginal: 3 -->
+3
 
-(b) a company incorporated under
+(b) a company incorporated under the Companies Act 1965 with thirty per cent or more of its voting shares being held by a non-citizen, or by a foreign company referred to in paragraph (a), or by both, at the time of the proposed acquisition of any land or any interest in land or at the time of the execution of the instrument or deed in respect of any alienated land or any interest therein, as the case may be; or
 
-<!-- marginal: the -->
+(c) a company incorporated under the Companies Act 1965 with thirty per cent or more of its voting shares being held by a company referred to in paragraph (b), or by a company referred to in paragraph (b) together with a non-citizen or a foreign company referred to in paragraph (a), at the time of the proposed acquisition of any land or any interest in land or at the time of the execution of the instrument or deed in respect of any alienated land or any interest therein, as the case may be.'.
 
-Companies Act 1965 with thirty per cent or more of its voting shares being held by a non-citizen, or by a foreign company referred to in paragraph (a), or by both, at the time of the proposed acquisition of any land or any interest in land or at the time of the execution of the instrument or deed in respect of any alienated land or any interest therein, as the case may be; or
+Amendment
 
-(c) a company incorporated under
-
-<!-- marginal: the -->
-
-Companies Act 1965 with thirty per cent or more of its voting shares being held by a company referred to in paragraph (b), or by a company referred to in paragraph (b) together with a non-citizen or a foreign company referred to in paragraph (a), at the time of the proposed acquisition of any land or any interest in land or at the time of the execution of the instrument or deed in respect of any alienated land or any interest therein, as the case may be.'.
-
-<!-- marginal: Amendment -->
-
-6. (1) Section 433B of the Code is amended—
-
-<!-- marginal: of section -->
-
-<!-- marginal: 433B. -->
+6. (1) Section 433B of the Code is amended— of section 433B.
 
 (a) in subsection (1)—
 
@@ -100,11 +108,63 @@ Companies Act 1965 with thirty per cent or more of its voting shares being held 
 
 (2) Subparagraphs (1)(a)(i) and (ii) shall be deemed to have come into force on 1 January 1993.
 
-New sections
+<!-- marginal: New sections -->
 
-7. The Code is amended by re-numbering section 433E 433E, 433F as section 433H and by inserting after section 433D the and 433G. following sections:
+7. The Code is amended by re-numbering section 433E
 
-"Other 433E. (1) Subject to any written law, a person conve- or body desiring to convey or dispose of, in a yances or disposal manner other than those specified in sub-section to non- (1) of section 433B, any alienated land or any citizen or foreign interest therein to a non-citizen or a foreign company company may be allowed to do so, but only subject to approval after the prior approval of the State Authority and has been obtained upon an application in writing payment of levy, being made by such person or body: etc.
+<!-- marginal: 433E, 433F -->
+
+as section 433H and by inserting after section 433D the
+
+<!-- marginal: and 433G. -->
+
+following sections:
+
+<!-- marginal: "Other -->
+
+433E. (1) Subject to any written law, a person
+
+<!-- marginal: conve- -->
+
+or body desiring to convey or dispose of, in a
+
+<!-- marginal: yances or -->
+
+<!-- marginal: disposal -->
+
+manner other than those specified in sub-section
+
+<!-- marginal: to non- -->
+
+(1) of section 433B, any alienated land or any
+
+<!-- marginal: citizen or -->
+
+<!-- marginal: foreign -->
+
+interest therein to a non-citizen or a foreign
+
+<!-- marginal: company -->
+
+company may be allowed to do so, but only
+
+<!-- marginal: subject to -->
+
+<!-- marginal: approval -->
+
+after the prior approval of the State Authority
+
+<!-- marginal: and -->
+
+has been obtained upon an application in writing
+
+<!-- marginal: payment -->
+
+<!-- marginal: of levy, -->
+
+being made by such person or body:
+
+<!-- marginal: etc. -->
 
 Provided that no such approval shall be required in respect of any alienated land or any interest in land which is subject to the category "industry" or to any condition requiring its use for industrial purposes.
 
@@ -116,15 +176,15 @@ Provided that no such approval shall be required in respect of any alienated lan
 
 ## NATIONAL LAND CODE (AMENDMENT)
 
-<!-- marginal: 5 -->
+5
 
 (4) Nothing contained in this section shall render invalid anything done before the commencement of this section if—
 
-(a) in respect of an instrument or a deed executed before 27 October 1995, the instrument or deed has been stamped in accordance with the provisions of the Stamp Act 1949 either before or Act 378. within one month after
+(a) in respect of an instrument or a deed executed before 27 October 1995, the instrument or deed has been stamped in accordance with the provisions of the Stamp Act 1949 either before or
 
-<!-- marginal: the -->
+<!-- marginal: Act 378. -->
 
-commencement of this section; or
+within one month after the commencement of this section; or
 
 (b) the instrument or deed effecting any conveyance or disposal of any alienated land or any interest therein in favour of a non-citizen or a foreign company was executed on or after 27 October 1995 but before the commencement of this section, and—
 
@@ -148,9 +208,17 @@ Execution 433F. (1) Subject to sections 433B and 433E, by non- after the commenc
 
 Levy to be 433G. Any levy payable under this Part shall paid within be paid in full not later than thirty days from thirty days of service the date of the service of the notice of approval of notice by the State Authority and if the levy is not of approval. paid within such time, the approval shall thereupon lapse.".
 
-Validation
+<!-- marginal: Validation -->
 
-8. (1) Any levy collected in respect of an approval and granted under sub-section (1) of section 433B and any indemnity. rejection of any instrument of dealing for non-payment of the levy by the Land Administrator or by the Registrar of Titles, as the case may be, after 27 October 1995 until the commencement of this Act, which would have been lawful if this Act had been enacted and in force when the collection or rejection was done is hereby declared to have been lawfully collected or done, as the case may be.
+8. (1) Any levy collected in respect of an approval
+
+<!-- marginal: and -->
+
+granted under sub-section (1) of section 433B and any
+
+<!-- marginal: indemnity. -->
+
+rejection of any instrument of dealing for non-payment of the levy by the Land Administrator or by the Registrar of Titles, as the case may be, after 27 October 1995 until the commencement of this Act, which would have been lawful if this Act had been enacted and in force when the collection or rejection was done is hereby declared to have been lawfully collected or done, as the case may be.
 
 (2) No action or legal proceeding whatsoever shall be brought, instituted or maintained against any Land Administrator, the Registrar of Titles, the State Director
 

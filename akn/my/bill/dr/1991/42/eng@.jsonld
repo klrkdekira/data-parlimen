@@ -1,0 +1,570 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-42-1991",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_12"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Loans (International Fund for Agricultural Development) Bill 1991"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_10__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If any money is paid out of the Consolidated Fund in respect of any liability incurred by Government under a guarantee or other undertaking given in exercise of the powers conferred by section 7(1), the statutory authority shall repay such sum (together with interest thereon at the same rate as that payable on the loan under the agreement by statutory authority with the Fund) to the Consolidated Fund in such manner and at such time or by such instalments as the Minister may direct."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If any money is so paid out of the Consolidated Fund the Minister shall, as soon as possible after the end of each financial year beginning with that in which the money was paid and ending with that in which all liability in respect thereof and any interest payable thereon is finally discharged by the statutory authority concerned, lay before the Dewan Rakyat a statement relating thereto."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If any dispute between the Fund on the one part and the Government or a statutory authority or both on the other part arises under any agreement concluded or guarantee or undertaking given in exercise of the powers conferred by this Act or under any bond, promissory note or such instrument issued pursuant to any such agreement, it shall be determined by arbitration in the manner agreed between the parties and any award made in such arbitration shall be enforceable in Malaysia in all respects as if it had been validly made in an arbitration under the Arbitration Act 1952, or any other written law relating to arbitration for the time being in force in Malaysia and for the purposes of this section the provisions of such Act or law shatl be binding on the Government."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_12__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_12__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_12__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_12__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to the Federal Constitution but notwithstanding anything contained in any other law, any agreement concluded with the Fund in respect of any borrowing authorized by section 3(1) or section 5(1) and any bond, promissory note or other instrument issued pursuant to any such agreement and any AGRICULTURAL DEVELOPMENT) guarantee or undertaking given in respect of any such agreement, bond, promissory note or instrument by the Government or a statutory authority shall be valid and enforceable and have full force and effect in Malaysia in accordance with their respective terms."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_12__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_12__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to the generality of subsection (D)-"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_12__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_12__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Minister may, by order published in the Gazette, provide that any tax or duty payable under the Income Tax Act 1967 or the Stamp Act 1949 respectively shall be remitted where such remissions are necessary to give full and complete effect to any such agreement, bond, promissory note, instrument or guarantee;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_12__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_12__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "nothing in the Exchange Control Act 1953 shall apply to any transaction required to effect payment in any currency of any sum in accordance with the terms of any such agreement, instrument, bond or guarantee in any currency."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_12__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_12__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_12__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_12__subsec_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Neither the Government nor any agency thereof nor any statutory authority nor the Central Bank of Malaysia shall, except as shall be otherwise agreed between the Minister and the Fund, create any lien on any of its assets as security for any external debt unless it is expressly provided that the lien will ipso facto equally and rateably secure the payment—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_12__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_12__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "of the principal of any loan; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_12__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_12__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "of interest and other charges on any loan; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_12__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_12__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "'of any bonds, promissory notes or instrument issued pursuant to any loan, made by the Fund to the Government or to a statutory authority."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_12__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In subsection (3)— \"lien\" includes mortgages, pledges, charges, privileges and priorities of any kind; \"external debt\" means any debt payable in any medium other than currency which at the time in question is legal tender for the payment of private and public debt in Malaysia whether such debt is payable absolutely or at the option of the creditor in such other medium."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_12__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of subsection (3), the assets of the Government include any right, interest or share which the Gpvernment has or may have in the Currency Fund or any part of the assets thereof, established under the Malay British Borneo Currency Agreement 1950."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Loans (International Fund for Agricultural Development) Act 1991."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall apply throughout Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_2__subsec_1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires— \"Consolidated Fund\" means the Federal Consolidated Fund established by Article 97 of the Federal Constitution; \"Fund\" means the International Fund for Agricultural Development; \"Minister\" means the Minister for the time being charged with the responsibility for finance; \"statutory authority\" means a local authority and any body incorporated directly by any written law and exercising powers vested in such body by law for public purpose."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_3__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_3__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_3__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to the provisions of the Federal Constitution and this Act, the Government may in such manner and on such terms and subject to such conditions as may be agreed between the Government and the Fund borrow from the Fund from time to time such sums as may be required by the Government."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All moneys borrowed by the Government under subsection (1) shall be paid into the Development Fund and shall, notwithstanding section 3 of the Development Fund Act 1966, be applied and are hereby appropriated to the purposes for which they were borrowed; Provided that where any part of such moneys cannot be applied to the purposes aforesaid such part may be applied to such other purposes as may be approved by the Minister and the Fund."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any agreement between the Government and the Fund in respect of moneys borrowed under subsection (1) shall be made in the name of the Government of Malaysia and may be signed on behalf of the Government by the Minister or by any person authorized in writing by the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_3__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A copy of any agreement referred to in sub- section (3) shall as soon as practicable be laid before the Dewan Rakyat."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_3__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Nothing in this section shall affect or derogate from any other power to borrow possessed by the Government."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_4__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding anything contained written law, the Government may issue such bonds, promissory notes or other instruments on such terms and conditions as may be necessary for the purpose of giving effect to the terms of any agreement which may be entered into by it with the Fund in respect of any borrowing under section 3(1). AGRICULTURAL DEVELOPMENT)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any such bond, promissory note or other instrument may be signed on behalf of the Government by the Minister or any other person authorized in writing by the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_5__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_5__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_5__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to the provisions of the Federal Constitution and this Act, a statutory authority may, in such manner and on such terms and subject to such conditions as may be agreed between the statutory authority and the Fund and with the approval in writing first obtained of the Minister, borrow from the Fund from time to time such sums as may be required by the statutory authority."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding anything contained written law by which a statutory authority is established, any agreement between the statutory authority and the Fund shall be valid and binding on the statutory authority if signed on behalf of the statutory authority by a person authorized in writing under the seal of the statutory authority."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The power to borrow under this section shall be in addition to any power to borrow conferred on such statutory authority by any other written law."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_5__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding anything contained written law by which a statutory authority is established, the statutory authority may charge or mortage all or any of its property (movable or immovable) undertaking or revenue to secure any sum owing to the Fund in respect of sums borrowed under subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_5__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding anything contained written law a statutory authority may issue such bonds, promissory notes and other instruments on such terms and conditions as may be necessary for the purpose of giving effect to any agreement which may be entered into by it with the fund in respect of any borrowing under subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "All moneys bcrrowed by a statutory authority under"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 5(1) shall be applied by the statutory authority for purposes for which they were borrowed: Provided that where any part of such moneys cannot be applied to the purposes aforesaid such part may be applied by the statutory authority to such other purposes as may be approved by the Minister and the Fund."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_7__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_7__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_7__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_7__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Government may in such manner and on such terms and subject to such conditions as may be agreed between it and the Fund—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_7__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "guarantee the discharge by a statutory authority of its obligations under any agreement which may be entered into by the statutory authority with the Fund in respect of any borrowing under section 5(1) or under any bond, promissory note or other instrument issued pursuant to any such agreement; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_7__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "undertake such other obligations as may be agreed between the Government and the Fund in relation to or pursuant to any such agreement, bond, promissory note or instrument."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any guarantee or undertaking given under this section shall be given in writing in the name of the Government of Malaysia and such guarantee or undertaking and any indorsement on any bond, promissory note or other instrument of guarantee given under this section may be signed on behalf of the Gcwernment by the Minister or by any person or persons authorized in writing by the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_7__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A copy of any statement of any guarantee or undertaking referred to in this section shall be laid before the Dewan Rakyat. LOANS (INTERNATIONAL FUND FOR AGRICULTURAL DEVELOPMENT)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "So long as the Government shall continue to be"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "liable under any guarantee or other undertaking under section 7{1), the statutory authority shall not, except with the consent of the Minister, exercise any other power to borrow possessed by it."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_9__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_9__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_9__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where it is made to appear to the Yang di- Pertuan Agong that there is reasonable cause believe—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_9__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_9__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "that a statutory authority is likely to fail or be unable to discharge any of its obligations under any agreement concluded by it with the Fund or under any bond, promissory note or other instrument issued pursuant to any such agreement; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_9__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_9__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "that the Government is or may become Hable under any guarantee or other undertaking given under section 7(1) in respect of such obligations, the Yang di-Pertuan Agong may, by order, give or authorize any other person to give such directions to the statutory authority as he or such other person may from time to time think necessary or desirable to ensure that satisfactory arrangements are made by the statutory authority to enable it to duly discharge its obligations under such agreement, bond, promissory note or instrument or under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The statutory authority shall, notwithstanding anything contained in the written law by which it is established, comply with any directions given by or under any such order."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/42/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Nothing in this section shall affect or derogate from any other power conferred by any written law on the Yang di-Pertuan Agong or any Minister or public officer in respect of the statutory authority."
+      }
+    }
+  ]
+}

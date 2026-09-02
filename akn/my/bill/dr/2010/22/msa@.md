@@ -6,7 +6,9 @@
 
 bernama
 
-Suatu Akta untuk meminda Akta Antipemerdagangan Orang 2007. [ ]
+Suatu Akta untuk meminda Akta Antipemerdagangan Orang
+
+2007. [ ]
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
@@ -21,6 +23,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 2. Akta Antipemerdagangan Orang 2007 [Akta 670], yang disebut “Akta Ibu” dalam Akta ini, dipinda dengan menggantikan tajuk panjang dengan tajuk panjang yang berikut:
 
 “Suatu Akta untuk mencegah dan memerangi pemerdagangan orang dan penyeludupan migran dan untuk mengadakan peruntukan mengenai perkara yang berkaitan dengannya.”.
+
+<!-- marginal: JW516059 BM.indd 1 -->
 
 <!-- marginal: 7/2/10 7:44:14 PM -->
 
@@ -54,11 +58,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (e) dengan memasukkan selepas takrif “pegawai Agensi Penguatkuasaan Maritim Malaysia” takrif yang berikut:
 
-‘ “ Pegawai Tenaga Kerja” ertinya Pegawai Tenaga Kerja yang dilantik di bawah seksyen 3 Akta Kerja 1955 [Akta 265] atau seksyen 3 Ordinan Buruh (Sabah
-
-## Bab 67) atau seksyen 3 Ordinan Buruh (Sarawak Bab
-
-76);’;
+‘ “ Pegawai Tenaga Kerja” ertinya Pegawai Tenaga Kerja yang dilantik di bawah seksyen 3 Akta Kerja 1955 [Akta 265] atau seksyen 3 Ordinan Buruh (Sabah Bab 67) atau seksyen 3 Ordinan Buruh (Sarawak Bab 76);’;
 
 (f) dalam teks bahasa kebangsaan, dalam takrif “Pegawai Kebajikan Masyarakat”, dengan menggantikan perkataan “Pembantu” dengan perkataan “Penolong”;
 
@@ -73,6 +73,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 (a) mengatur, memudahkan atau merancang, secara langsung atau tidak langsung, kemasukan seseorang secara tidak sah ke dalam atau melalui, atau pengeluaran seseorang secara tidak sah dari mana-mana negara yang orang itu bukan warganegara atau pemastautin tetap sama ada dengan mengetahui atau mempunyai sebab untuk mempercayai bahawa kemasukan atau pengeluaran orang itu adalah tidak sah; dan
 
 (b) merekrut, mengangkut, memindahkan, menyembunyikan, melindungi atau menyediakan apa-apa bantuan atau perkhidmatan bagi tujuan melaksanakan perbuatan yang disebut dalam perenggan (a);’.
+
+<!-- marginal: JW516059 BM.indd 3 -->
 
 <!-- marginal: 7/2/10 7:44:15 PM -->
 
@@ -124,27 +126,37 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (o) tidak lebih daripada dua orang daripada pertubuhan bukan kerajaan atau organisasi lain yang berkaitan yang mempunyai pengalaman, pengetahuan dan kepakaran yang sesuai dalam masalah dan isu yang berhubungan dengan penyeludupan migran, yang dilantik oleh Menteri.”;
 
-(d) dalam subseksyen (3), dengan menggantikan perkataan “perenggan (2)(n)” dengan perkataan “perenggan (2)(n) dan (o)”; dan
+(d) dalam subseksyen (3), dengan menggantikan perkataan “perenggan (2)(n)” dengan perkataan “perenggan (2)(n)
 
-(e) dalam subseksyen (4), dengan menggantikan perkataan “perenggan (2)(n)” dengan perkataan “perenggan (2)(n) dan (o)”.
+<!-- marginal: dan (o)”; dan -->
 
-### Pindaan seksyen 7
+(e) dalam subseksyen (4), dengan menggantikan perkataan “perenggan (2)(n)” dengan perkataan “perenggan (2)(n)
 
-9. Akta ibu dipinda dengan menggantikan seksyen 7 dengan seksyen yang berikut:
+<!-- marginal: dan (o)”. -->
+
+<!-- marginal: Pindaan seksyen 7 -->
+
+9. Akta ibu dipinda dengan menggantikan seksyen 7 dengan
+
+<!-- marginal: seksyen yang berikut: -->
 
 ### Fungsi dan kuasa Majlis
 
 “
 
-7. (1) Majlis hendaklah melaksanakan fungsi-fungsi yang berikut:
+7. (1) Majlis hendaklah melaksanakan fungsi-fungsi yang
+
+<!-- marginal: berikut: -->
 
 (a) menyelaraskan pelaksanaan Akta ini;
 
-(b) merumuskan dasar dan program untuk mencegah dan memerangi pemerdagangan orang dan penyeludupan migran;
+(b) merumuskan dasar dan program untuk mencegah dan memerangi pemerdagangan orang dan penyeludupan
+
+<!-- marginal: migran; -->
 
 (c) merumuskan program perlindungan untuk orang yang diperdagangkan;
 
-<!-- marginal: 7/2/10 7:44:15 PM -->
+<!-- marginal: JW516059 BM.indd 5 -->
 
 <!-- page 6 -->
 
@@ -165,6 +177,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 (k) melaksanakan apa-apa fungsi lain bagi pelaksanaan Akta ini dengan sewajarnya.
 
 (2) Majlis hendaklah mempunyai segala kuasa yang perlu bagi, atau yang berkaitan dengan, atau yang bersampingan secara munasabah dengan, pelaksanaan fungsinya.”.
+
+<!-- marginal: JW516059 BM.indd 6 -->
 
 <!-- marginal: 7/2/10 7:44:15 PM -->
 
@@ -200,13 +214,17 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (a) dalam subseksyen (1), dengan memasukkan selepas perkataan “negara penerima” perkataan “atau negara transit”;
 
+<!-- marginal: JW516059 BM.indd 7 -->
+
 <!-- marginal: 7/2/10 7:44:15 PM -->
 
 <!-- page 8 -->
 
 (b) dengan menggantikan subseksyen (2) dengan subseksyen yang berikut:
 
-“(2) Mana-mana pemunya, operator atau nakhoda mana-mana pengangkut yang disebut dalam subseksyen (1) yang—
+“(2) Mana-mana pemunya, operator atau nakhoda mana-mana pengangkut yang disebut dalam subseksyen
+
+(1) yang—
 
 (a) dengan diketahuinya membenarkan atau mempunyai alasan yang munasabah untuk mempercayai bahawa pengangkut itu digunakan bagi maksud membawa seseorang ke dalam negara penerima atau negara transit tanpa dokumen perjalanan yang dikehendaki bagi kemasukan sah orang itu ke dalam negara penerima atau negara transit itu; atau
 
@@ -222,6 +240,8 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi 
 
 “(5) Jika tiada pendakwaan atau sabitan di bawah seksyen ini, pemunya, operator atau nakhoda pengangkut yang digunakan hendaklah bertanggunggan secara bersesama dan berasingan untuk segala perbelanjaan yang ditanggung oleh Kerajaan berkenaan dengan penahanan dan penyenggaraan orang yang diperdagangkan dan pemindahannya dari Malaysia dan perbelanjaan sedemikan hendaklah didapatkan semula sebagai hutang yang kena dibayar kepada Kerajaan.”.
 
+<!-- marginal: JW516059 BM.indd 8 -->
+
 <!-- marginal: 7/2/10 7:44:15 PM -->
 
 <!-- page 9 -->
@@ -234,7 +254,7 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi 
 
 15. Akta ibu dipinda dengan memasukkan selepas Bahagian III Bahagian yang berikut:
 
-“Bahagian IIIa
+## “BAHAGIAN IIIA
 
 ## PENYELUDUPAN MIGRAN
 
@@ -251,6 +271,8 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi 
 (b) dalam melakukan kesalahan itu, orang itu memperlakukan migran yang diseludup itu dengan layanan yang kejam, tidak berperikemanusiaan atau menjatuhkan maruah; atau
 
 (c) dalam melakukan kesalahan itu, kelakuan orang itu menimbulkan risiko kematian atau kemudaratan yang serius terhadap migran yang diseludup itu,
+
+<!-- marginal: JW516059 BM.indd 9 -->
 
 <!-- marginal: 7/2/10 7:44:15 PM -->
 
@@ -273,6 +295,8 @@ hendaklah, apabila disabitkan, dihukum dengan pemenjaraan selama tempoh tidak ku
 ### Dokumen perjalanan atau pengenalan diri fraud
 
 26e. Mana-mana orang yang membuat, memperoleh, memberi, menjual, atau memiliki suatu dokumen perjalanan atau pengenalan diri fraud bagi maksud memudahkan suatu perbuatan penyeludupan migran melakukan suatu kesalahan dan hendaklah, apabila disabitkan, dihukum dengan pemenjaraan selama tempoh tidak kurang daripada tujuh tahun tetapi tidak melebihi lima belas tahun, dan boleh juga dikenakan denda tidak kurang daripada lima puluh ribu ringgit tetapi tidak melebihi lima ratus ribu ringgit, atau kedua-duanya.
+
+<!-- marginal: JW516059 BM.indd 10 -->
 
 <!-- marginal: 7/2/10 7:44:15 PM -->
 
@@ -298,6 +322,8 @@ bagi maksud melakukan suatu kesalahan di bawah Bahagian ini, melakukan suatu kes
 
 (a) dengan niat bahawa perkhidmatan atau kemudahan itu digunakan, atau dengan mengetahui atau mempunyai alasan yang munasabah untuk mempercayai bahawa perkhidmatan atau kemudahan itu akan digunakan, secara keseluruhan atau sebahagiannya, bagi maksud melakukan atau memudahkan pelakuan suatu perbuatan penyeludupan migran, atau bagi maksud memanfaatkan mana-mana orang yang melakukan atau memudahkan pelakuan suatu perbuatan penyeludupan migran; atau
 
+<!-- marginal: JW516059 BM.indd 11 -->
+
 <!-- marginal: 7/2/10 7:44:15 PM -->
 
 <!-- page 12 -->
@@ -322,6 +348,8 @@ melakukan suatu kesalahan dan hendaklah, apabila disabitkan, dihukum dengan peme
 
 (2) Dalam seksyen ini, “melindungi” termasuklah memberikan seseorang tempat perlindungan, makanan, minuman, wang atau pakaian, senjata, amunisi atau pengangkut, atau membantu seseorang dengan apa-apa cara untuk mengelakkan daripada ditangkap.
 
+<!-- marginal: JW516059 BM.indd 12 -->
+
 <!-- marginal: 7/2/10 7:44:16 PM -->
 
 <!-- page 13 -->
@@ -341,6 +369,8 @@ melakukan suatu kesalahan dan hendaklah, apabila disabitkan, dihukum dengan peme
 26k. (1) Mana-mana orang yang merupakan pemunya, operator atau nakhoda mana-mana pengangkut yang terlibat dalam pengangkutan barang atau orang bagi keuntungan komersil hendaklah memastikan bahawa tiap-tiap orang yang menaiki pengangkutan itu memiliki dokumen perjalanan bagi kemasukan sah orang itu ke dalam negara penerima atau negara transit dan jika tidak, hendaklah menolak untuk mengangkut orang itu.
 
 (2) Mana-mana orang yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, dikenakan denda tidak melebihi dua ratus lima puluh ribu ringgit atau pemenjaraan selama tempoh tidak melebihi lima tahun, atau kedua-duanya.
+
+<!-- marginal: JW516059 BM.indd 13 -->
 
 <!-- marginal: 7/2/10 7:44:16 PM -->
 
@@ -364,6 +394,8 @@ melakukan suatu kesalahan dan hendaklah, apabila disabitkan, dihukum dengan peme
 
 (a) dengan memotong perkataan “dan” yang terdapat di hujung perenggan (c);
 
+<!-- marginal: JW516059 BM.indd 14 -->
+
 <!-- marginal: 7/2/10 7:44:16 PM -->
 
 <!-- page 15 -->
@@ -376,7 +408,9 @@ melakukan suatu kesalahan dan hendaklah, apabila disabitkan, dihukum dengan peme
 
 ### Pindaan seksyen 35
 
-17. Seksyen 35 Akta ibu dipinda dengan menggantikan subseksyen (2) dengan subseksyen yang berikut:
+17. Seksyen 35 Akta ibu dipinda dengan menggantikan subseksyen
+
+(2) dengan subseksyen yang berikut:
 
 “(2) Apabila mana-mana saksi dipanggil bagi pihak pendakwa atau pembela, selain tertuduh, dan terdapat suatu asas untuk mencabar kebolehpercayaan saksi itu, Mahkamah hendaklah, tertakluk kepada peruntukan Akta Keterangan 1950 [Akta 56], merujuk kepada mana-mana pernyataan yang dibuat oleh saksi itu kepada seseorang pegawai penguat kuasa dalam perjalanan suatu penyiasatan di bawah Akta ini dan boleh kemudiannya menggunakan pernyataan itu untuk mencabar kebolehpercayaan saksi itu.”.
 
@@ -391,6 +425,8 @@ melakukan suatu kesalahan dan hendaklah, apabila disabitkan, dihukum dengan peme
 ### Pindaan seksyen 44
 
 19. Subseksyen 44(2) Akta ibu dipinda dengan menggantikan perkataan “boleh” dengan perkataan “hendaklah”.
+
+<!-- marginal: JW516059 BM.indd 15 -->
 
 <!-- marginal: 7/2/10 7:44:16 PM -->
 
@@ -448,6 +484,8 @@ hendaklah menjadi keterangan boleh diterima di hadapan mahkamah itu dan apa-apa 
 
 (a) suatu “deposisi” termasuklah apa-apa pernyataan bertulis yang dibuat atas sumpah; dan
 
+<!-- marginal: JW516059 BM.indd 17 -->
+
 <!-- marginal: 7/2/10 7:44:16 PM -->
 
 <!-- page 18 -->
@@ -462,7 +500,9 @@ hendaklah menjadi keterangan boleh diterima di hadapan mahkamah itu dan apa-apa 
 
 (a) dengan menggantikan nota bahu “Penalti am” dengan nota bahu “Penalti am dan penalti lebih berat”;
 
-(b) dengan menomborkan semula seksyen itu sebagai subseksyen (1) seksyen itu; dan
+(b) dengan menomborkan semula seksyen itu sebagai subseksyen
+
+(1) seksyen itu; dan
 
 (c) dengan memasukkan selepas subseksyen (1) subseksyen yang berikut:
 
@@ -477,6 +517,8 @@ hendaklah menjadi keterangan boleh diterima di hadapan mahkamah itu dan apa-apa 
 (ii) dalam apa-apa hal lain, dikenakan denda minimum sebanyak satu juta ringgit.
 
 (3) Jika, selepas disabitkan atas apa-apa kesalahan di bawah Akta ini, seseorang itu kemudiannya melakukan suatu lagi kesalahan di bawah Akta ini, dia hendaklah, apabila disabitkan, bagi kesalahan yang kemudiannya, dihukum dengan penalti yang lebih berat yang hendaklah tidak kurang daripada penalti yang telah dikenakan ke atasnya untuk kesalahan yang terdahulu.
+
+<!-- marginal: JW516059 BM.indd 18 -->
 
 <!-- marginal: 7/2/10 7:44:16 PM -->
 
@@ -499,6 +541,8 @@ hendaklah menjadi keterangan boleh diterima di hadapan mahkamah itu dan apa-apa 
 Rang Undang-Undang ini bertujuan untuk meminda Akta Antipemerdagangan Orang 2007 (“Akta 670”).
 
 2. Fasal 1 mengandungi tajuk ringkas dan peruntukan mengenai permulaan kuat kuasa Akta yang dicadangkan.
+
+<!-- marginal: JW516059 BM.indd 19 -->
 
 <!-- marginal: 7/2/10 7:44:16 PM -->
 
@@ -535,6 +579,8 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Antipemerdagangan Orang 2007
 15. Fasal 19 bertujuan untuk meminda seksyen 44 Akta 670 untuk menjadikannya mandatori bagi Majistret untuk membuat perintah perlindungan sementara bagi orang yang dijumpai atau diselamatkan dan disyaki dengan munasabah sebagai orang yang diperdagangkan untuk ditempatkan di tempat perlindungan untuk tempoh selama empat belas hari bagi tujuan penyiasatan.
 
 16. Fasal 20 bertujuan untuk meminda seksyen 51 Akta 670 untuk menjelaskan bahawa pegawai penguat kuasa dan Pegawai Pelindung hendaklah menyediakan laporan kepada Majistret secara bersama bagi tujuan memuaskan Majistret tentang sama ada orang yang terhadapnya suatu perintah perlindungan sementara dibuat adalah orang yang diperdagangkan. Pindaan ini juga bertujuan untuk memperuntukkan bahawa keputusan Majistret tidak menjejaskan apa-apa pendakwaan yang dimulakan terhadap orang itu.
+
+<!-- marginal: JW516059 BM.indd 21 -->
 
 <!-- marginal: 7/2/10 7:44:17 PM -->
 

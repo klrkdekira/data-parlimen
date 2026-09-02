@@ -44,11 +44,19 @@ substituting for the words "Yang di-Pertuan Agong", the word "Minister".
 
 <!-- marginal: inserting, -->
 
-New section SA. immediately after section 5, the following new section 5A:
+<!-- marginal: New -->
+
+<!-- marginal: section SA. -->
+
+immediately after section 5, the following new section 5A:
 
 -Power to 5A. The Minister may by order exempt, exempt subject to any conditions as he may deem fit to impose, any person or class of persons from all or any of the provisions of this Act or any regulations made thereunder.".
 
-5. Section 6 (2) of the principal Act is amended— Amendment of section 6
+5. Section 6 (2) of the principal Act is amended—
+
+<!-- marginal: Amendment -->
+
+<!-- marginal: of section 6 -->
 
 (a) by deleting the word "and" appearing at the end of paragraph (n);
 
@@ -60,15 +68,17 @@ New section SA. immediately after section 5, the following new section 5A:
 
 <!-- marginal: the -->
 
-amount of such compound and the procedure to be
-
-<!-- marginal: followed -->
+amount of such compound and the procedure to be followed
 
 <!-- marginal: in -->
 
 compounding.".
 
-6. Section 7 of the principal Act is amended— Amendment of section
+6. Section 7 of the principal Act is amended—
+
+<!-- marginal: Amendment -->
+
+<!-- marginal: of section -->
 
 7.
 
@@ -90,13 +100,21 @@ compounding.".
 
 regulations made thereunder".
 
-Amendment 7. Section 13 of the principal Act is amended by of section inserting, immediately after the word
+<!-- marginal: Amendment -->
+
+7. Section 13 of the principal Act is amended by
+
+<!-- marginal: of section -->
+
+inserting, immediately after the word
 
 <!-- marginal: 'Act" -->
 
 <!-- marginal: in -->
 
-13 subsection (1), the words "or any regulations made thereunder".
+<!-- marginal: 13 -->
+
+subsection (1), the words "or any regulations made thereunder".
 
 <!-- page 3 -->
 
@@ -162,7 +180,9 @@ the words "this Act or any regulations made thereunder".
 
 <!-- marginal: New section -->
 
-13. The principal Act is amended by inserting
+13. The principal Act is amended by
+
+<!-- marginal: inserting -->
 
 <!-- marginal: 22A. -->
 
@@ -180,21 +200,41 @@ prescribed to be a compoundable offence by collecting from the person reasonably
 
 (3) Where any person has compounded an offence under this Act or any regulations made thereunder, evidence of the notice of acceptance of the offer to compound shall, on production to any court, be treated as proof of the commission of the offence by that person and of the matters set out therein.
 
-(4) The power to compound offences under subsection (1) shall be exercised by the Controller of Supplies or
+(4) The power to compound offences under subsection (1) shall be exercised by the Controller of Supplies or the Deputy Controller of Supplies personally.".
 
-<!-- marginal: the Deputy -->
+<!-- marginal: Amendment -->
 
-Controller of Supplies personally.".
+14. Section 23 of the principal Act is amended by
 
-Amendment 14. Section 23 of the principal Act is amended by of section inserting, immediately after the word "Act" in line 1, 23. the words "or any regulations made thereunder".
+<!-- marginal: of section -->
 
-Amendment 15. Section 24 of the principal Act is amended by of section inserting, immediately after the word "Act"
+inserting, immediately after the word "Act" in line 1,
+
+23. the words "or any regulations made thereunder".
+
+<!-- marginal: Amendment -->
+
+15. Section 24 of the principal Act is amended by
+
+<!-- marginal: of section -->
+
+inserting, immediately after the word "Act"
 
 <!-- marginal: in -->
 
 24. subsection (1), the words "or any regulations made thereunder".
 
-Amendment 16. Section 24A of the principal Act is amended by of section inserting, immediately after the word "Act" in line 6, 24A, the words "or any regulations made thereunder".
+<!-- marginal: Amendment -->
+
+16. Section 24A of the principal Act is amended by
+
+<!-- marginal: of section -->
+
+inserting, immediately after the word "Act" in line 6,
+
+<!-- marginal: 24A, -->
+
+the words "or any regulations made thereunder".
 
 <!-- page 5 -->
 
@@ -252,6 +292,4 @@ This Bill seeks to make various amendments to the Control of Supplies Act 1961.
 
 ## IMPLICATIONS
 
-This Bill will not involve the Government in any extra financial expenditure.
-
-<!-- marginal: [PN. (U:) 1557.] -->
+This Bill will not involve the Government in any extra financial expenditure. [PN. (U:) 1557.]

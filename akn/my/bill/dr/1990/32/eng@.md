@@ -4,15 +4,29 @@
 
 ## RESPONSIBILITY FOR COMPLIANCE
 
-15. Person chargeable. 16. Officers responsible for compliance.
+15. Person chargeable.
+
+16. Officers responsible for compliance.
 
 ## PART VI
 
 ## SUPPLEMENTAL
 
-Administration 17. The Director-General. 18. Delegation of Director-General's functions. 19. Power of Minister to give directions. 20. Return of profits, etc., to be treated as confidential. 21. Power of Minister to make regulations.
+Administration 17. The Director-General. 18. Delegation of Director-General's functions. 19. Power of Minister to give directions.
 
-Miscellaneous 22. Power to call for information. 23. Offences and penalty. 24. Compounding of offences. 25. Penalty for false statutory declaration.
+20. Return of profits, etc., to be treated as confidential.
+
+21. Power of Minister to make regulations.
+
+Miscellaneous
+
+22. Power to call for information.
+
+23. Offences and penalty.
+
+24. Compounding of offences.
+
+25. Penalty for false statutory declaration.
 
 <!-- page 2 -->
 
@@ -64,7 +78,11 @@ Revenue referred to in section 134 of the Income Tax Act 1967;
 
 "official" means a person having an official duty under, or employed in carrying out, the provisions of the Income Tax Act 1967;
 
-"offshore banking business" has the meaning assigned Act . thereto by the Offshore Banking Act 1990;
+"offshore banking business" has the meaning assigned
+
+<!-- marginal: Act -->
+
+. thereto by the Offshore Banking Act 1990;
 
 "offshore business activity" means an offshore trading or an offshore non-trading activity carried on in or from Labuan in a currency other than the Malaysian currency by an offshore company with non-residents or with another offshore company, but does not include shipping and petroleum operations:
 
@@ -76,9 +94,17 @@ Provided that—
 
 (iii) in relation to an offshore insurance business, the reinsurance of domestic insurance business may be transacted in Malaysian currency;
 
-"offshore company" means an offshore company Act . incorporated under the Offshore Companies Act 1990, and includes a foreign offshore company registered under that Act and an offshore trust;
+"offshore company" means an offshore company
 
-"offshore insurance business" has the meaning assigned Act . thereto by the Offshore Insurance Act 1990;
+<!-- marginal: Act . -->
+
+incorporated under the Offshore Companies Act 1990, and includes a foreign offshore company registered under that Act and an offshore trust;
+
+"offshore insurance business" has the meaning assigned
+
+<!-- marginal: Act . -->
+
+thereto by the Offshore Insurance Act 1990;
 
 "offshore non-trading activity" means an activity relating to the holding of investments in securities, stock, shares, loans, deposits and immovable properties by an offshore company on its own behalf;
 
@@ -120,25 +146,67 @@ pursuant to subsection (2) of section 43 of the Exchange Control Act 1953;
 
 ## CHARGEABILITY TO TAX
 
-Scope of Charge Offshore
+Scope of Charge
 
-3. Subject to this Act, an offshore company carrying on an business offshore business activity shall be charged to tax in activity chargeable to accordance with this Act for each year of assessment in tax. respect of that offshore business activity.
+<!-- marginal: Offshore -->
 
-Tax Based on Return Offshore
+3. Subject to this Act, an offshore company carrying on an
 
-4. (1) Tax shall be charged at the rate of three per cent for trading a year of assessment upon the chargeable profits of an activity. offshore company carrying on an offshore business activity which is an offshore trading activity for the basis period for that year of assessment,
+<!-- marginal: business -->
+
+offshore business activity shall be charged to tax in
+
+<!-- marginal: activity -->
+
+<!-- marginal: chargeable to -->
+
+accordance with this Act for each year of assessment in
+
+<!-- marginal: tax. -->
+
+respect of that offshore business activity.
+
+Tax Based on Return
+
+<!-- marginal: Offshore -->
+
+4. (1) Tax shall be charged at the rate of three per cent for
+
+<!-- marginal: trading -->
+
+a year of assessment upon the chargeable profits of an
+
+<!-- marginal: activity. -->
+
+offshore company carrying on an offshore business activity which is an offshore trading activity for the basis period for that year of assessment,
 
 (2) The chargeable profits of an offshore company carrying on an offshore business activity which is an offshore trading activity for a year of assessment shall be the net profits as reflected in the audited accounts in respect of such offshore trading activity of the offshore company for the basis period for that year of assessment.
 
-Filing of
+<!-- marginal: Filing of -->
 
-5. An offshore company carrying on an offshore business statutory activity which is an offshore trading activity shall, within a declaration and return period of three months (or any extended period as may be of profits. allowed by the Director-General) from the commencement of a year of assessment, file a statutory declaration and a return of its profits for that year of assessment in the prescribed forms to the Director-General.
+5. An offshore company carrying on an offshore business
 
-Assessment.
+<!-- marginal: statutory -->
+
+activity which is an offshore trading activity shall, within a
+
+<!-- marginal: declaration -->
+
+<!-- marginal: and return -->
+
+period of three months (or any extended period as may be
+
+<!-- marginal: of profits. -->
+
+allowed by the Director-General) from the commencement of a year of assessment, file a statutory declaration and a return of its profits for that year of assessment in the prescribed forms to the Director-General.
+
+<!-- marginal: Assessment. -->
 
 6. Upon receipt of areturn of its profits referred to in section 5 for a year of assessment, the Director-General shall make an assessment in the prescribed form for that year of assessment and shall serve a notice of assessment, personally or by post, on the offshore company concerned.
 
-Tax Charged upon Election Election.
+Tax Charged upon Election
+
+<!-- marginal: Election. -->
 
 7. (1) Notwithstanding section 4, an offshore company carrying on an offshore business activity which is an
 
@@ -294,21 +362,75 @@ Director, of Inland Revenue referred to in section 134 of the Income Tax Act 196
 
 <!-- page 9 -->
 
-Power of 19. The Minister may give to the Director-General Minister directions of a general character (not inconsistent with this to give directions. Act) as to the performance of the functions of the Director- General under this Act; and the Director-General shall give effect to any direction so given.
+<!-- marginal: Power of -->
 
-Return of 20. (1) Any return of profits, statutory declaration or profits, etc, information made or received for the purposes of this Act to be treated as shall be treated as confidential and shall not be confidential. communicated or disclosed to any person except for the purposes of this Act.
+19. The Minister may give to the Director-General
+
+<!-- marginal: Minister -->
+
+directions of a general character (not inconsistent with this
+
+<!-- marginal: to give -->
+
+<!-- marginal: directions. -->
+
+Act) as to the performance of the functions of the Director- General under this Act; and the Director-General shall give effect to any direction so given.
+
+<!-- marginal: Return of -->
+
+20. (1) Any return of profits, statutory declaration or
+
+<!-- marginal: profits, etc, -->
+
+information made or received for the purposes of this Act
+
+<!-- marginal: to be -->
+
+<!-- marginal: treated as -->
+
+shall be treated as confidential and shall not be
+
+<!-- marginal: confidential. -->
+
+communicated or disclosed to any person except for the purposes of this Act.
 
 (2) Where any official, whether during his employment or thereafter, contravenes subsection (1), he shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding two years or to both.
 
-Power of 21. The Minister may make regulations generally for the Minister to purpose of carrying out, or giving effect to, the provisions of make regulations. this Act and in particular, but without prejudice to the foregoing, for prescribing such forms as are required by this Act to be prescribed or as he may deem necessary.
+<!-- marginal: Power of -->
+
+21. The Minister may make regulations generally for the
+
+<!-- marginal: Minister to -->
+
+purpose of carrying out, or giving effect to, the provisions of
+
+<!-- marginal: make -->
+
+<!-- marginal: regulations. -->
+
+this Act and in particular, but without prejudice to the foregoing, for prescribing such forms as are required by this Act to be prescribed or as he may deem necessary.
 
 Miscellaneous
 
-Power to 22. (1) The Director-General may by notice in writing call for require any person to furnish such information or particulars information. as may be required by him for the purposes of this Act.
+<!-- marginal: Power to -->
+
+22. (1) The Director-General may by notice in writing
+
+<!-- marginal: call for -->
+
+require any person to furnish such information or particulars
+
+<!-- marginal: information. -->
+
+as may be required by him for the purposes of this Act.
 
 (2) Where any person, without reasonable excuse, fails to comply with the notice mentioned in subsection (1), he shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding three thousand ringgit.
 
-Offences and 2 3. A ny person w ho without reasonable-excuse— penalty.
+<!-- marginal: Offences and -->
+
+2 3. A ny person w ho without reasonable-excuse—
+
+<!-- marginal: penalty. -->
 
 (a) fails to file a statutory declaration and return of profits under section 5; or
 

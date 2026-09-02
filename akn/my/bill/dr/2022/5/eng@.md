@@ -40,11 +40,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (a) in subsection (3)—
 
-(i) by substituting for the words “Division 5 of
-
-## Part IV of the Companies Act 1965” the words
-
-“the relevant provisions of the Interest Schemes Act 2016 [Act 778]”; and
+(i) by substituting for the words “Division 5 of Part IV of the Companies Act 1965” the words “the relevant provisions of the Interest Schemes Act 2016 [Act 778]”; and
 
 (ii) by substituting for the words “of the Division” the words “of the Interest Schemes Act 2016”; and
 

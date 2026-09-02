@@ -168,7 +168,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_3",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: “(3a) Dalam menentukan sama ada seseorang itu layak dan sesuai bagi maksud subseksyen (3), Menteri hendaklah mengambil kira— (a) kejujuran yang tidak diragui, kecekapan dan kewajaran pertimbangan orang itu dalam memenuhi tanggungjawabnya sebagai anggota Lembaga; dan (b) ketekunan yang membolehkan orang itu memenuhi tanggungjawabnya sebagai anggota Lembaga. (3b) Tanpa menjejaskan keluasan subseksyen (3), seseorang tidak layak untuk dilantik atau hilang kelayakan menjadi anggota Lembaga, jika dia— (a) seorang bankrap yang belum dilepaskan; (b) telah disabitkan atas suatu kesalahan yang berhubungan dengan penganjuran, penubuhan atau pengurusan suatu syarikat atau perbadanan; (c) telah disabitkan atas suatu kesalahan yang melibatkan sogokan, fraud atau kecurangan; (d) telah disabitkan atas suatu kesalahan di bawah mana-mana undang-undang bertulis yang dimaksudkan untuk melindungi orang awam; (e) telah hilang kelayakan melalui perintah mahkamah untuk bertindak sebagai pengarah di bawah mana-mana undang-undang bertulis; atau (f) telah terlibat dalam atau telah dikaitkan dengan, apa-apa amalan perniagaan, atau selainnya berkelakuan dengan sedemikian cara sehingga menimbulkan keraguan tentang kewibawaan dan kewajaran pertimbangannya. (3c) Hal keadaan yang disebut dalam subseksyen (3b) hendaklah terpakai bagi hal keadaan di dalam atau di luar Malaysia.”. Pindaan seksyen 6"
+        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: “(3a) Dalam menentukan sama ada seseorang itu layak dan sesuai bagi maksud subseksyen (3), Menteri hendaklah mengambil kira— (a) kejujuran yang tidak diragui, kecekapan dan kewajaran pertimbangan orang itu dalam memenuhi tanggungjawabnya sebagai anggota Lembaga; dan (b) ketekunan yang membolehkan orang itu memenuhi tanggungjawabnya sebagai anggota Lembaga. (3b) Tanpa menjejaskan keluasan subseksyen (3), seseorang tidak layak untuk dilantik atau hilang kelayakan menjadi anggota Lembaga, jika dia— (a) seorang bankrap yang belum dilepaskan; (b) telah disabitkan atas suatu kesalahan yang berhubungan dengan penganjuran, penubuhan atau pengurusan suatu syarikat atau perbadanan; (c) telah disabitkan atas suatu kesalahan yang melibatkan sogokan, fraud atau kecurangan; (d) telah disabitkan atas suatu kesalahan di bawah mana-mana undang-undang bertulis yang dimaksudkan untuk melindungi orang awam; (e) telah hilang kelayakan melalui perintah mahkamah untuk bertindak sebagai pengarah di bawah mana-mana undang-undang bertulis; atau (f) telah terlibat dalam atau telah dikaitkan dengan, apa-apa amalan perniagaan, atau selainnya berkelakuan dengan sedemikian cara sehingga menimbulkan keraguan tentang kewibawaan dan kewajaran pertimbangannya. (3c) Hal keadaan yang disebut dalam subseksyen (3b) hendaklah terpakai bagi hal keadaan di dalam atau di luar Malaysia.”."
       }
     },
     {
@@ -197,7 +197,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_4",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (2)— “(ca) seorang wakil daripada Kementerian Pertahanan;”; “(d) seorang wakil daripada Kementerian Kewangan;”; dan “(e) empat orang anggota lain yang mempunyai pengalaman dan kepakaran dalam perniagaan, pelaburan, pengurusan risiko pelaburan, aktuari, perbankan, undang-undang atau kewangan yang hendaklah dilantik oleh Menteri atas nasihat Lembaga.”; dan"
+        "@value": "dalam subseksyen (2)—"
       }
     },
     {
@@ -207,7 +207,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_4__para_a",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perenggan (c) perenggan yang berikut:"
+        "@value": "dengan memasukkan selepas perenggan (c) perenggan yang berikut: “(ca) seorang wakil daripada Kementerian Pertahanan;”;"
       }
     },
     {
@@ -217,7 +217,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_4__para_a",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan perenggan (d) dengan perenggan yang berikut:"
+        "@value": "dengan menggantikan perenggan (d) dengan perenggan yang berikut: “(d) seorang wakil daripada Kementerian Kewangan;”; dan"
       }
     },
     {
@@ -227,7 +227,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_4__para_a",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan perenggan (e) dengan perenggan yang berikut:"
+        "@value": "dengan menggantikan perenggan (e) dengan perenggan yang berikut: “(e) empat orang anggota lain yang mempunyai pengalaman dan kepakaran dalam perniagaan, pelaburan, pengurusan risiko pelaburan, aktuari, perbankan, undang-undang atau kewangan yang hendaklah dilantik oleh Menteri atas nasihat Lembaga.”; dan"
       }
     },
     {
@@ -377,7 +377,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_8",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (2)— “(c) Lembaga berpuas hati dengan kemampuan Tabung untuk membuat semua pembayaran yang dikehendaki untuk dibayar di bawah Akta ini tidak terancam dengan perisytiharan kadar itu.”; dan"
+        "@value": "dalam subseksyen (2)—"
       }
     },
     {
@@ -407,7 +407,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_8__para_b",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan perenggan (c) dengan perenggan yang berikut:"
+        "@value": "dengan menggantikan perenggan (c) dengan perenggan yang berikut: “(c) Lembaga berpuas hati dengan kemampuan Tabung untuk membuat semua pembayaran yang dikehendaki untuk dibayar di bawah Akta ini tidak terancam dengan perisytiharan kadar itu.”; dan"
       }
     },
     {

@@ -96,7 +96,7 @@ participating in a promoted activity or producing
 
 <!-- marginal: Amendment -->
 
-### 4. Subsection 6(1 A) of the principal Act is amended by
+4. Subsection 6(1 A) of the principal Act is amended by
 
 <!-- marginal: of section 6. -->
 
@@ -106,7 +106,7 @@ subsection.
 
 <!-- marginal: Amendment -->
 
-### 5. Section 21c of the principal Act is amended—
+5. Section 21c of the principal Act is amended—
 
 <!-- marginal: of section -->
 
@@ -144,9 +144,13 @@ C (1+B)
 
 where: C is the inflation-adjusted income for the preceding year; and B is the rate of inflation for the basis year.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-6. Section 2lF of the principal Act is amended— of section 2 IF.
+6. Section 2lF of the principal Act is amended—
+
+<!-- marginal: of section -->
+
+<!-- marginal: 2 IF. -->
 
 (a) in the marginal note by inserting after the word "company" the words "or company participating in industrial linkage programme"; and
 
@@ -212,17 +216,27 @@ inserting after subsection (2) the following subsection:
 
 take effect whether or not the assets acquired by that expenditure are subsequently owned by the same company or a new entity.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-11. Section 29o of the principal Act is amended— of section 29c.
+11. Section 29o of the principal Act is amended—
+
+<!-- marginal: of section -->
+
+<!-- marginal: 29c. -->
 
 (a) in subsection (1) by inserting after the word "technologies" the words "or in respect of a promoted activity or a promoted product in an industrial. linkage programme"; and
 
 (b) in subsection (2) by inserting after the word "technologies" in the proviso to that subsection the words "or in respect of a promoted activity or a promoted product in an industrial linkage programme".
 
-Amendment
+<!-- marginal: Amendment -->
 
-12. Subsection 4lB(l) of the principal Act is amended of section by deleting paragraph (a) of the proviso to that subsection. 4lB.
+12. Subsection 4lB(l) of the principal Act is amended
+
+<!-- marginal: of section -->
+
+by deleting paragraph (a) of the proviso to that subsection.
+
+<!-- marginal: 4lB. -->
 
 ## EXPLANATORY STATEMENT
 

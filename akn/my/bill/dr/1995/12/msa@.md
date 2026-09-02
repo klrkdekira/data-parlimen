@@ -16,9 +16,7 @@ I
 
 ## PERMULAAN
 
-1. Tajuk ringkas dan mula berkuatkuasa.
-
-2. Tafsiran.
+1. Tajuk ringkas dan mula berkuatkuasa. 2. Tafsiran.
 
 ## BAHAGIAN
 
@@ -26,19 +24,7 @@ II
 
 ## PERBADANAN
 
-3. Perbadanan dan objektifnya.
-
-4. Fungsi-fungsi Perbadanan.
-
-5. Keanggotaan Perbadanan.
-
-6. Setiausaha.
-
-7. Akta Perlindungan Pihak Berkuasa Awam 1948.
-
-8. Pengkhidmat awam.
-
-9. Kuasa Menteri untuk memberikan arahan.
+3. Perbadanan dan objektifnya. 4. Fungsi-fungsi Perbadanan. 5. Keanggotaan Perbadanan. 6. Setiausaha. 7. Akta Perlindungan Pihak Berkuasa Awam 1948. 8. Pengkhidmat awam. 9. Kuasa Menteri untuk memberikan arahan.
 
 10. Kawasan Perbadanan Putrajaya.
 
@@ -66,9 +52,7 @@ III
 
 16. Peraturan-peraturan mengenai syarat perkhidmatan.
 
-18. Surcaj.
-
-19. Perbadanan boleh menerimapakai peraturan, dsb.
+18. Surcaj. 19. Perbadanan boleh menerimapakai peraturan, dsb.
 
 ## BAHAGIAN
 
@@ -90,15 +74,7 @@ IV
 
 ## KUASA-KUASA DAN FUNGSI-FUNGSI LAIN PERBADANAN
 
-25. Pewakilan fungsi, kuasa atau kewajipan Perbadanan.
-
-26. Kuasa meminjam.
-
-27. Pelaburan.
-
-28. Kuasa untuk mengambil kerja ejen, dsb.
-
-29. Kuasa untuk menubuhkan perbadanan.
+25. Pewakilan fungsi, kuasa atau kewajipan Perbadanan. 26. Kuasa meminjam. 27. Pelaburan. 28. Kuasa untuk mengambil kerja ejen, dsb. 29. Kuasa untuk menubuhkan perbadanan.
 
 30. Pengambilan tanah.
 
@@ -124,7 +100,7 @@ AM
 
 <!-- page 3 -->
 
-3
+<!-- marginal: 3 -->
 
 ## RANG UNDANG-UNDANG
 
@@ -164,7 +140,9 @@ ditetapkan oleh Menteri melalui pemberitahuan dalam Warta; dan Menteri boleh men
 
 "Kumpulan Wang" ertinya kumpulan wang yang ditubuhkan di bawah seksyen 20;
 
-"Menteri" ertinya Menteri yang bertanggungjawab ke atas Kawasan Perbadanan Putrajaya; "Perbadanan" ertinya Perbadanan Putrajaya yang ditubuhkan di bawah seksyen 3; "perbadanan" ertinya perbadanan yang ditubuhkan di bawah seksyen 29; "Presiden" ertinya Presiden Perbadanan yang dilantik di bawah seksyen 5; "syarikat" mempunyai pengertian yang sama seperti yang diberikan kepada "perbadanan" di bawah subseksyen 4(1) Akta Syarikat 1965. Akta 125
+"Menteri" ertinya Menteri yang bertanggungjawab ke atas Kawasan Perbadanan Putrajaya; "Perbadanan" ertinya Perbadanan Putrajaya yang ditubuhkan di bawah seksyen 3; "perbadanan" ertinya perbadanan yang ditubuhkan di bawah seksyen 29; "Presiden" ertinya Presiden Perbadanan yang dilantik di bawah seksyen 5; "syarikat" mempunyai pengertian yang sama seperti yang diberikan kepada "perbadanan" di bawah subseksyen 4(1) Akta Syarikat 1965.
+
+<!-- marginal: Akta 125 -->
 
 ## BAHAGIAN
 
@@ -172,15 +150,25 @@ II
 
 ## PERBADANAN
 
-Perbadanan
+<!-- marginal: Perbadanan -->
 
-3. (1) Maka adalah dengan ini ditubuhkan suatu dan pertubuhan perbadanan bernama "Perbadanan Putrajaya" objektifnya. yang kekal turun-temurun dan mempunyai suatu meterai biasa, yang boleh mendakwa dan didakwa atas namanya dan, tertakluk kepada dan bagi maksud-maksud Akta ini, boleh membuat kontrak dan boleh memperolehi, membeli, mengambil, memegang dan menikmati apa-apa jenis harta alih dan harta tak alih dan boleh memindahhakkan, menyerahhakkan, menyerahkan balik, memulangkan, menggadaikan, menggadaijanjikan, mendemis, menye- rahhakkan semula, memindahmilikkan atau dengan apa- apa cara lain melupuskan, atau membuat apa-apa urusan mengenai, apa-apa harta alih atau harta tak alih atau apa- apa kepentingan mengenainya yang terletakhak pada Perbadanan, mengikut apa-apa terma yang difikirkannya patut.
+3. (1) Maka adalah dengan ini ditubuhkan suatu
+
+<!-- marginal: dan -->
+
+pertubuhan perbadanan bernama "Perbadanan Putrajaya"
+
+<!-- marginal: objektifnya. -->
+
+yang kekal turun-temurun dan mempunyai suatu meterai biasa, yang boleh mendakwa dan didakwa atas namanya dan, tertakluk kepada dan bagi maksud-maksud Akta ini, boleh membuat kontrak dan boleh memperolehi, membeli, mengambil, memegang dan menikmati apa-apa jenis harta alih dan harta tak alih dan boleh memindahhakkan, menyerahhakkan, menyerahkan balik, memulangkan, menggadaikan, menggadaijanjikan, mendemis, menye- rahhakkan semula, memindahmilikkan atau dengan apa- apa cara lain melupuskan, atau membuat apa-apa urusan mengenai, apa-apa harta alih atau harta tak alih atau apa- apa kepentingan mengenainya yang terletakhak pada Perbadanan, mengikut apa-apa terma yang difikirkannya patut.
 
 (2) Objektif Perbadanan adalah untuk mentadbirkan dan menguruskan Kawasan Perbadanan Putrajaya bagi pihak Kerajaan Persekutuan.
 
-Fungsi-fungsi
+<!-- marginal: Fungsi-fungsi -->
 
-4. (1) Fungsi-fungsi Perbadanan ialah— Perbadanan.
+4. (1) Fungsi-fungsi Perbadanan ialah—
+
+<!-- marginal: Perbadanan. -->
 
 (a) melaksanakan segala fungsi kerajaan tempatan di dalam Kawasan Perbadanan Putrajaya;
 
@@ -226,9 +214,13 @@ Fungsi-fungsi
 
 (3) Tertakluk kepada seksyen 9, adalah menjadi tanggungjawab Perbadanan dalam melaksanakan fungsi- fungsinya di bawah Akta ini untuk memastikan bahawa fungsi-fungsi itu dilaksanakan mengikut cara yang dapat menjayakan dasar Kerajaan Persekutuan yang sedang berkuatkuasa dan khususnya dasar yang berhubungan dengan pembangunan Kawasan Perbadanan Putrajaya sebagai pusat pentadbiran Kerajaan Persekutuan.
 
-Keanggotaan
+<!-- marginal: Keanggotaan -->
 
-5. (1) Perbadanan hendaklah terdiri daripada seorang Perbadanan. wakil Kerajaan Negeri dan anggota-anggota yang berikut yang akan dilantik oleh Menteri:
+5. (1) Perbadanan hendaklah terdiri daripada seorang
+
+<!-- marginal: Perbadanan. -->
+
+wakil Kerajaan Negeri dan anggota-anggota yang berikut yang akan dilantik oleh Menteri:
 
 (a) seorang Presiden yang hendaklah bertindak sebagai Pengerusi;
 
@@ -240,17 +232,43 @@ Keanggotaan
 
 (3) Peruntukan-peruntukan Jadual Pertama hendaklah terpakai bagi Perbadanan.
 
-Setiausaha.
+<!-- marginal: Setiausaha. -->
 
 6. Maka hendaklah ada seorang Setiausaha kepada Perbadanan yang hendaklah dilantik daripada kalangan anggota Perkhidmatan Kehakiman dan Perundangan.
 
-Akta
+<!-- marginal: Akta -->
 
-7. Akta Perlindungan Pihak Berkuasa Awam 1948 adalah Perlindungan terpakai bagi apa-apa tindakan, guaman, pendakwaan atau Pihak prosiding terhadap Perbadanan atau terhadap mana-mana Berkuasa Awam 1948. anggota, pegawai, pengkhidmat atau ejen Perbadanan Akta 198. berkenaan dengan apa-apa perbuatan, keabaian atau keingkaran yang dibuat atau dilakukan olehnya atas sifat yang sedemikian itu.
+7. Akta Perlindungan Pihak Berkuasa Awam 1948 adalah
 
-Pengkhidmat
+<!-- marginal: Perlindungan -->
 
-8. Semua anggota, pegawai dan pengkhidmat Perbadanan, awam. semasa menunaikan kewajipan-kewajipan mereka sebagai anggota, pegawai dan pengkhidmat Perbadanan, hendaklah N.M.B. disifatkan sebagai pengkhidmat awam mengikut pengertian
+terpakai bagi apa-apa tindakan, guaman, pendakwaan atau
+
+<!-- marginal: Pihak -->
+
+prosiding terhadap Perbadanan atau terhadap mana-mana
+
+<!-- marginal: Berkuasa -->
+
+<!-- marginal: Awam 1948. -->
+
+anggota, pegawai, pengkhidmat atau ejen Perbadanan
+
+<!-- marginal: Akta 198. -->
+
+berkenaan dengan apa-apa perbuatan, keabaian atau keingkaran yang dibuat atau dilakukan olehnya atas sifat yang sedemikian itu.
+
+<!-- marginal: Pengkhidmat -->
+
+8. Semua anggota, pegawai dan pengkhidmat Perbadanan,
+
+<!-- marginal: awam. -->
+
+semasa menunaikan kewajipan-kewajipan mereka sebagai anggota, pegawai dan pengkhidmat Perbadanan, hendaklah
+
+<!-- marginal: N.M.B. -->
+
+disifatkan sebagai pengkhidmat awam mengikut pengertian
 
 ## Bab 45
 
@@ -258,31 +276,71 @@ Kanun Keseksaan.
 
 <!-- page 8 -->
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-9. Perbadanan hendaklah bertanggungjawab kepada Menteri Menteri, dan Menteri boleh, dari semasa ke semasa, untuk memberikan memberikan arahan-arahan yang tidak tak konsisten dengan arahan. peruntukan-peruntukan Akta ini dan Perbadanan hendaklah, dengan seberapa segera yang mungkin, melaksanakan segala arahan sedemikian.
+9. Perbadanan hendaklah bertanggungjawab kepada
 
-Kawasan
+<!-- marginal: Menteri -->
 
-10. (1) Kawasan Perbadanan Putrajaya ialah kawasan Perbadanan yang disebut dalam Perkara II Perjanjian yang dibuat Putrajaya. antara Kerajaan Persekutuan dengan Kerajaan Negeri berhubungan dengan penubuhan Putrajaya dan pelaksanaan fungsi-fungsi tertentu pihak berkuasa Negeri Selangor oleh pihak berkuasa Persekutuan.
+Menteri, dan Menteri boleh, dari semasa ke semasa,
+
+<!-- marginal: untuk -->
+
+<!-- marginal: memberikan -->
+
+memberikan arahan-arahan yang tidak tak konsisten dengan
+
+<!-- marginal: arahan. -->
+
+peruntukan-peruntukan Akta ini dan Perbadanan hendaklah, dengan seberapa segera yang mungkin, melaksanakan segala arahan sedemikian.
+
+<!-- marginal: Kawasan -->
+
+10. (1) Kawasan Perbadanan Putrajaya ialah kawasan
+
+<!-- marginal: Perbadanan -->
+
+yang disebut dalam Perkara II Perjanjian yang dibuat
+
+<!-- marginal: Putrajaya. -->
+
+antara Kerajaan Persekutuan dengan Kerajaan Negeri berhubungan dengan penubuhan Putrajaya dan pelaksanaan fungsi-fungsi tertentu pihak berkuasa Negeri Selangor oleh pihak berkuasa Persekutuan.
 
 (2) Walau apa pun mana-mana undang-undang bertulis yang lain, adalah menjadi tanggungjawab Perbadanan untuk melaksanakan di dalam Kawasan Perbadanan Putrajaya fungsi-fungsi yang diperuntukkan oleh Akta ini.
 
-Fungsi-fungsi
+<!-- marginal: Fungsi-fungsi -->
 
-11. Sebagai tambahan kepada kewajipan-kewajipan yang tambahan dikenakan dan kuasa-kuasa yang terletakhak pada Perbadanan. Perbadanan oleh Akta ini, Perbadanan boleh mengusahakan apa-apa fungsi lain, menjalankan apa-apa kuasa lain dan mentadbirkan dan membelanjakan apa-apa wang lain bagi apa-apa maksud yang diserahhakkan atau diberikan kepadanya oleh Kerajaan Persekutuan atau Kerajaan Negeri, dan dalam melakukan sedemikian Perbadanan hendaklah disifatkan memenuhi maksud-maksud Akta ini dan peruntukan-peruntukan Akta ini hendaklah terpakai bagi Perbadanan berkenaan dengan pengusahaan fungsi-fungsi itu, penjalanan kuasa-kuasa itu dan pentadbiran dan pembelanjaan wang itu:
+11. Sebagai tambahan kepada kewajipan-kewajipan yang
+
+<!-- marginal: tambahan -->
+
+dikenakan dan kuasa-kuasa yang terletakhak pada
+
+<!-- marginal: Perbadanan. -->
+
+Perbadanan oleh Akta ini, Perbadanan boleh mengusahakan apa-apa fungsi lain, menjalankan apa-apa kuasa lain dan mentadbirkan dan membelanjakan apa-apa wang lain bagi apa-apa maksud yang diserahhakkan atau diberikan kepadanya oleh Kerajaan Persekutuan atau Kerajaan Negeri, dan dalam melakukan sedemikian Perbadanan hendaklah disifatkan memenuhi maksud-maksud Akta ini dan peruntukan-peruntukan Akta ini hendaklah terpakai bagi Perbadanan berkenaan dengan pengusahaan fungsi-fungsi itu, penjalanan kuasa-kuasa itu dan pentadbiran dan pembelanjaan wang itu:
 
 Dengan syarat bahawa akaun wang itu hendaklah disimpan berasingan dan terpisah daripada wang dalam Kumpulan Wang.
 
-Penyata,
+<!-- marginal: Penyata, -->
 
-12. (1) Perbadanan hendaklah memberi Menteri, dan laporan, mana-mana pihak berkuasa awam sebagaimana yang akaun dan maklumat. diarahkan oleh Menteri, apa-apa penyata, laporan, akaun dan maklumat mengenai harta dan aktiviti-aktivitinya sebagaimana yang dikehendaki atau diarahkan oleh Menteri dari semasa ke semasa.
+12. (1) Perbadanan hendaklah memberi Menteri, dan
+
+<!-- marginal: laporan, -->
+
+mana-mana pihak berkuasa awam sebagaimana yang
+
+<!-- marginal: akaun dan -->
+
+<!-- marginal: maklumat. -->
+
+diarahkan oleh Menteri, apa-apa penyata, laporan, akaun dan maklumat mengenai harta dan aktiviti-aktivitinya sebagaimana yang dikehendaki atau diarahkan oleh Menteri dari semasa ke semasa.
 
 <!-- page 9 -->
 
 ## PERBADANAN PUTRAJAYA
 
-9
+<!-- marginal: 9 -->
 
 (2) Tanpa menjejaskan keluasan subseksyen (1), Perbadanan hendaklah, dengan seberapa segera yang praktik selepas berakhirnya setiap tahun kewangan, menyebabkan dibuat dan dihantar kepada Menteri dan, jika diarahkan sedemikian oleh Menteri, kepada mana-mana pihak berkuasa awam yang lain suatu laporan yang memperkatakan aktiviti-aktiviti Perbadanan sepanjang tahun kewangan yang sebelumnya dan laporan itu hendaklah dalam apa-apa bentuk dan hendaklah mengandungi apa- apa maklumat yang berhubungan dengan prosiding dan dasar Perbadanan sebagaimana yang ditentukan dari semasa ke semasa oleh Menteri.
 
@@ -328,19 +386,65 @@ difikirkan wajar oleh Perbadanan dan Perbadanan hendaklah meletakhakkan padanya 
 
 (6) Jika Ketua Eksekutif tidak ada di Malaysia buat sementara atau tak berupaya buat sementara, oleh sebab sakit atau kerana apa-apa sebab lain yang mencukupi, untuk melaksanakan kewajipan-kewajipannya, Perbadanan boleh mengarahkan mana-mana pegawai lain Perbadanan melaksanakan kewajipan-kewajipan Ketua Eksekutif semasa Ketua Eksekutif tidak ada atau tak berupaya buat sementara itu.
 
-Perlantikan
+<!-- marginal: Perlantikan -->
 
-15. (1) Tertakluk kepada apa-apa peraturan yang dibuat pegawai dan di bawah seksyen 16, Perbadanan boleh melantik, atas pengkhidmat Perbadanan. apa-apa terma dan syarat yang difikirkannya wajar, sekian bilangan pegawai dan pengkhidmat yang perlu bagi menjalankan maksud-maksud Akta ini.
+15. (1) Tertakluk kepada apa-apa peraturan yang dibuat
+
+<!-- marginal: pegawai dan -->
+
+di bawah seksyen 16, Perbadanan boleh melantik, atas
+
+<!-- marginal: pengkhidmat -->
+
+<!-- marginal: Perbadanan. -->
+
+apa-apa terma dan syarat yang difikirkannya wajar, sekian bilangan pegawai dan pengkhidmat yang perlu bagi menjalankan maksud-maksud Akta ini.
 
 (2) Tiada seorang pun layak diambil kerja sebagai pegawai atau pengkhidmat Perbadanan jika dia, secara langsung atau secara tak langsung, sendiri atau melalui pekongsinya, mempunyai apa-apa syer atau kepentingan dalam apa-apa kontrak atau kontrak yang dicadangkan dengan, bagi atau bagi pihak Perbadanan.
 
-Peraturan-
+<!-- marginal: Peraturan- -->
 
-16. Perbadanan boleh, dari semasa ke semasa, dengan peraturan kelulusan Menteri, membuat peraturan-peraturan mengenai mengenai syarat syarat-syarat perkhidmatan pegawai dan pengkhidmatnya. perkhidmatan.
+16. Perbadanan boleh, dari semasa ke semasa, dengan
 
-Kuasa
+<!-- marginal: peraturan -->
 
-17. (1) Perbadanan boleh, dengan kelulusan Menteri, Perbadanan membuat apa-apa peraturan yang difikirkannya perlu atau untuk membuat suaimanfaat bagi mengadakan peruntukan mengenai peraturan kelakuan dan tatatertib pegawai dan pengkhidmat berhubungan dengan Perbadanan. kelakuan dan tatatertib.
+kelulusan Menteri, membuat peraturan-peraturan mengenai
+
+<!-- marginal: mengenai -->
+
+<!-- marginal: syarat -->
+
+syarat-syarat perkhidmatan pegawai dan pengkhidmatnya.
+
+<!-- marginal: perkhidmatan. -->
+
+<!-- marginal: Kuasa -->
+
+17. (1) Perbadanan boleh, dengan kelulusan Menteri,
+
+<!-- marginal: Perbadanan -->
+
+membuat apa-apa peraturan yang difikirkannya perlu atau
+
+<!-- marginal: untuk -->
+
+<!-- marginal: membuat -->
+
+suaimanfaat bagi mengadakan peruntukan mengenai
+
+<!-- marginal: peraturan -->
+
+kelakuan dan tatatertib pegawai dan pengkhidmat
+
+<!-- marginal: berhubungan -->
+
+<!-- marginal: dengan -->
+
+Perbadanan.
+
+<!-- marginal: kelakuan dan -->
+
+<!-- marginal: tatatertib. -->
 
 <!-- page 11 -->
 
@@ -444,15 +548,41 @@ maksud Akta ini, suatu kumpulan wang yang akan ditadbirkan dan dikawal oleh Perb
 
 (g) segala wang atau harta lain yang mungkin dengan apa-apa cara menjadi kena dibayar kepada, atau terletakhak pada, Perbadanan berkenaan dengan apa-apa perkara yang bersampingan dengan fungsi-fungsi, kuasa-kuasa dan kewajipan- kewajipannya.
 
-Pemeliharaan
+<!-- marginal: Pemeliharaan -->
 
-21. Maka adalah menjadi kewajipan Perbadanan untuk Kumpulan memelihara Kumpulan Wang dengan melaksanakan, Wang. menjalankan dan menunaikan fungsi-fungsi, kuasa-kuasa dan kewajipan-kewajipannya di bawah Akta ini untuk memastikan bahawa jumlah hasil Perbadanan, tertakluk kepada apa-apa arahan yang diberikan oleh Menteri, adalah mencukupi untuk menjelaskan semua jumlah wang yang boleh dipertanggungkan dengan sepatutnya pada akaun hasilnya, termasuk susut nilai dan bunga atas modal, dari setahun ke setahun.
+21. Maka adalah menjadi kewajipan Perbadanan untuk
 
-Perbelanjaan
+<!-- marginal: Kumpulan -->
 
-22. Kumpulan Wang hendaklah dibelanjakan bagi yang maksud— hendaklah di- pertanggungkan
+memelihara Kumpulan Wang dengan melaksanakan,
 
-(a) membayar apa-apa perbelanjaan yang dilakukan pada Kumpulan dengan sah oleh Perbadanan, termasuk fee dan Wang. kos ukur dan guaman dan fee dan kos yang lain, dan saraan pegawai dan pengkhidmat yang
+<!-- marginal: Wang. -->
+
+menjalankan dan menunaikan fungsi-fungsi, kuasa-kuasa dan kewajipan-kewajipannya di bawah Akta ini untuk memastikan bahawa jumlah hasil Perbadanan, tertakluk kepada apa-apa arahan yang diberikan oleh Menteri, adalah mencukupi untuk menjelaskan semua jumlah wang yang boleh dipertanggungkan dengan sepatutnya pada akaun hasilnya, termasuk susut nilai dan bunga atas modal, dari setahun ke setahun.
+
+<!-- marginal: Perbelanjaan -->
+
+22. Kumpulan Wang hendaklah dibelanjakan bagi
+
+<!-- marginal: yang -->
+
+maksud—
+
+<!-- marginal: hendaklah di- -->
+
+<!-- marginal: pertanggungkan -->
+
+(a) membayar apa-apa perbelanjaan yang dilakukan
+
+<!-- marginal: pada -->
+
+<!-- marginal: Kumpulan -->
+
+dengan sah oleh Perbadanan, termasuk fee dan
+
+<!-- marginal: Wang. -->
+
+kos ukur dan guaman dan fee dan kos yang lain, dan saraan pegawai dan pengkhidmat yang
 
 <!-- page 15 -->
 
@@ -486,11 +616,27 @@ hendaklah dibayar daripada Kumpulan Wang.
 
 <!-- page 16 -->
 
-Akta Badan
+<!-- marginal: Akta Badan -->
 
-24. Peruntukan-peruntukan Akta Badan Berkanun (Akaun Berkanun dan Laporan Tahunan) 1980 adalah terpakai bagi (Akaun dan Laporan Perbadanan dan mana-mana perbadanan yang ditubuhkan Tahunan) di bawah Akta ini.
+24. Peruntukan-peruntukan Akta Badan Berkanun (Akaun
 
-1980. Akta 240.
+<!-- marginal: Berkanun -->
+
+dan Laporan Tahunan) 1980 adalah terpakai bagi
+
+<!-- marginal: (Akaun dan -->
+
+<!-- marginal: Laporan -->
+
+Perbadanan dan mana-mana perbadanan yang ditubuhkan
+
+<!-- marginal: Tahunan) -->
+
+di bawah Akta ini.
+
+1980.
+
+<!-- marginal: Akta 240. -->
 
 ## BAHAGIAN V
 
@@ -498,15 +644,33 @@ Akta Badan
 
 ## PERBADANAN
 
-Pewakilan
+<!-- marginal: Pewakilan -->
 
-25. (1) Perbadanan boleh, tertakluk kepada apa-apa syarat, fungsi, kuasa had atau sekatan yang difikirkannya patut dikenakan, atau kewajipan mewakilkan kepada Ketua Eksekutif mana-mana fungsi, Perbadanan. kuasa atau kewajipan, sebagaimana yang ditentukan oleh Perbadanan, yang terletakhak pada atau dikenakan ke atas Perbadanan oleh Akta ini, kecuali kuasa untuk meminjam wang, memperdapatkan pinjaman atau membuat peraturan-peraturan; dan mana-mana fungsi, kuasa atau kewajipan yang diwakilkan sedemikian boleh dilaksanakan, dijalankan atau ditunaikan oleh Ketua Eksekutif, mengikut mana-mana yang berkenaan, atas nama dan bagi pihak Perbadanan.
+25. (1) Perbadanan boleh, tertakluk kepada apa-apa syarat,
+
+<!-- marginal: fungsi, kuasa -->
+
+had atau sekatan yang difikirkannya patut dikenakan,
+
+<!-- marginal: atau -->
+
+<!-- marginal: kewajipan -->
+
+mewakilkan kepada Ketua Eksekutif mana-mana fungsi,
+
+<!-- marginal: Perbadanan. -->
+
+kuasa atau kewajipan, sebagaimana yang ditentukan oleh Perbadanan, yang terletakhak pada atau dikenakan ke atas Perbadanan oleh Akta ini, kecuali kuasa untuk meminjam wang, memperdapatkan pinjaman atau membuat peraturan-peraturan; dan mana-mana fungsi, kuasa atau kewajipan yang diwakilkan sedemikian boleh dilaksanakan, dijalankan atau ditunaikan oleh Ketua Eksekutif, mengikut mana-mana yang berkenaan, atas nama dan bagi pihak Perbadanan.
 
 (2) Tanpa menjejaskan keluasan subseksyen (1) dan peruntukan-peruntukan lain dalam Akta ini, Perbadanan boleh mewakilkan kuasa kepada Ketua Eksekutif untuk membenarkan perbelanjaan daripada Kumpulan Wang atau mana-mana wang lain yang terletakhak pada atau yang di bawah kawalan Perbadanan sehingga apa-apa had yang ditentukan oleh Perbadanan.
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-26. (1) Perbadanan boleh, dari semasa ke semasa, dengan meminjam. kelulusan Menteri, meminjam, pada apa-apa kadar bunga dan bagi apa-apa tempoh dan atas apa-apa terma tentang masa dan cara pembayaran balik dan selainnya sebagaimana yang diluluskan oleh Menteri, apa-apa jumlah wang yang diperlukan oleh Perbadanan bagi menjelaskan mana-mana obligasinya atau bagi menunaikan mana-mana kewajipannya.
+26. (1) Perbadanan boleh, dari semasa ke semasa, dengan
+
+<!-- marginal: meminjam. -->
+
+kelulusan Menteri, meminjam, pada apa-apa kadar bunga dan bagi apa-apa tempoh dan atas apa-apa terma tentang masa dan cara pembayaran balik dan selainnya sebagaimana yang diluluskan oleh Menteri, apa-apa jumlah wang yang diperlukan oleh Perbadanan bagi menjelaskan mana-mana obligasinya atau bagi menunaikan mana-mana kewajipannya.
 
 (2) Perbadanan boleh, dari semasa ke semasa, dengan kelulusan Menteri, meminjam wang melalui penerbitan bon, debentur atau saham daripada apa-apa kelas dan
 

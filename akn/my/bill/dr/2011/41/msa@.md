@@ -12,7 +12,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Tajuk ringkas, permulaan kuat kuasa dan pemakaian
 
-1. (1) Akta ini bolehlah dinamakan Akta Keterangan (Pindaan) 2011.
+1. (1) Akta ini bolehlah dinamakan Akta Keterangan (Pindaan)
+
+2011.
 
 (2) Seksyen 2 mula berkuat kuasa pada tarikh yang sama dengan tarikh Akta Kanun Tatacara Jenayah (Pindaan) 2010 [Akta A1378] mula berkuat kuasa.
 
@@ -34,7 +36,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 3. Akta ibu dipinda dengan memasukkan selepas seksyen 90c dalam Bab V Bab yang berikut:
 
-“chapter Va
+## “CHAPTER VA
 
 ## ADMISSIBILITY OF EVIDENCE OBTAINED UNDER MUTUAL
 

@@ -12,27 +12,13 @@ D.R. 33/2002
 
 ## PERMULAAN
 
-1. Tajuk ringkas
-
-2. Pindaan Akta
+1. Tajuk ringkas 2. Pindaan Akta
 
 ## BAB II
 
 ## PINDAAN KEPADA AKTA CUKAI PENDAPATAN 1967
 
-3. Permulaan kuat kuasa pindaan kepada Akta Cukai Pendapatan 1967
-
-4. Pindaan seksyen 6
-
-5. Pindaan seksyen 7
-
-6. Pemotongan seksyen 11
-
-7. Pindaan seksyen 15A
-
-8. Pindaan seksyen 18
-
-9. Pemotongan seksyen 31
+3. Permulaan kuat kuasa pindaan kepada Akta Cukai Pendapatan 1967 4. Pindaan seksyen 6 5. Pindaan seksyen 7 6. Pemotongan seksyen 11 7. Pindaan seksyen 15A 8. Pindaan seksyen 18 9. Pemotongan seksyen 31
 
 10. Pemotongan seksyen 37 1 1. Pindaan seksyen 38
 
@@ -218,7 +204,11 @@ which the employee, pursuant to the terms on which that accommodation is so prov
 
 AxC B
 
-where A is the number of days living accommodation is provided in the basis period or part of the basis period that falls in the overlapping period;
+where A is the number of days
+
+<!-- marginal: living -->
+
+accommodation is provided in the basis period or part of the basis period that falls in the overlapping period;
 
 B is the total number of days in the overlapping period; and
 
@@ -402,7 +392,11 @@ exceeding
 
 ### Pindaan Jadual 4
 
-25. Jadual 4 Akta ibu dipinda dalam subperenggan 2(a) dengan menggantikan perkataan "may elect to claim, within three months after the beginning of the year of assessment in the basis period in which the expenditure was incurred or within such period in that year of assessment as the Director General may allow," dengan perkataan "in the basis period for a year of assessment may elect to claim in a return of his income for that year of assessment".
+25. Jadual 4 Akta ibu dipinda dalam subperenggan 2(a) dengan menggantikan perkataan "may elect to claim, within three months after the beginning of the year of assessment in the basis period in which the expenditure was incurred or within such period in that year of assessment as the Director General may allow," dengan perkataan "in the basis period for a year of assessment may elect to claim in a return of his income for
+
+<!-- marginal: that year of -->
+
+assessment".
 
 ### Pindaan Jadual 4
 
@@ -444,7 +438,9 @@ exceeding
 
 <!-- page 14 -->
 
-14 Rang Undang-Undang
+<!-- marginal: 14 -->
+
+Rang Undang-Undang
 
 given to that person for that year of assessment a reinvestment allowance of sixty per cent of that expenditure:
 
@@ -506,7 +502,9 @@ Provided that where this paragraph applies to an individual, that individual mus
 
 <!-- page 16 -->
 
-16 Rang Undang-Undang
+<!-- marginal: 16 -->
+
+Rang Undang-Undang
 
 (viii) dengan menggantikan takrif "Eastern Corridor of Peninsular Malaysia" dengan takrif yang berikut:
 
@@ -682,7 +680,9 @@ Pindaan ini berkuat kuasa untuk tahun taksiran 2002 dan tahun-tahun taksiran yan
 
 4. Fasal 6 bertujuan untuk memotong seksyen 11 Akta 53. Dengan memotong seksyen 11, menduduki premis yang bukan untuk tujuan perniagaan tidak lagi merupakan suatu punca pendapatan.
 
-Fasal 9, 10 dan 21 bertujuan untuk memotong seksyen 31, 37 dan 128 Akta 53, masing-masingnya danfasal 22 bertujuan untuk meminda subseksyen 131(2) Akta 53. Pindaan-pindaan ini berbangkit daripada pemotongan seksyen 11 Akta 53.
+Fasal 9, 10 dan 21 bertujuan untuk memotong seksyen 31, 37 dan 128 Akta 53, masing-masingnya danfasal 22 bertujuan untuk meminda subseksyen 131(2) Akta 53. Pindaan-pindaan ini berbangkit daripada pemotongan seksyen 11 Akta
+
+53.
 
 <!-- page 22 -->
 
@@ -832,4 +832,6 @@ AM
 
 ## IMPLIKASI KEWANGAN
 
-29. Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN(U2)2315]
+29. Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
+
+<!-- marginal: [PN(U2)2315] -->

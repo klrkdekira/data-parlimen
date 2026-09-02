@@ -24,11 +24,25 @@
 
 ## FUNCTIONS, POWERS AND DUTIES OF THE CORPORATION
 
-10. Objectives. 11. Appointment of the Corporation. 12. Appointment of Corporation as trustee or executor. 13. Grant of probate and letters of administration to Corporation. 14. Appointment of Corporation in place of executors, etc.
+10. Objectives.
+
+11. Appointment of the Corporation.
+
+12. Appointment of Corporation as trustee or executor.
+
+13. Grant of probate and letters of administration to Corporation.
+
+14. Appointment of Corporation in place of executors, etc.
 
 <!-- page 2 -->
 
-15. Corporation may apply for grant on failure of grantee to extract letters of administration. 16. Corporation may take possession of property. 17. Summary administration of movable property. 18. Administration of estates of small value. 19. Payment of minor's maintenance. 20. Undistributed funds. 21. Corporation may represent minors. 22. Agency.
+15. Corporation may apply for grant on failure of grantee to extract letters of administration. 16. Corporation may take possession of property. 17. Summary administration of movable property. 18. Administration of estates of small value. 19. Payment of minor's maintenance.
+
+20. Undistributed funds.
+
+21. Corporation may represent minors.
+
+22. Agency.
 
 ## PART
 
@@ -40,19 +54,33 @@ DlVISION1
 
 Bank Accounts and Power to Invest
 
-23. Bank accounts. 24. Power to invest.
+23. Bank accounts.
+
+24. Power to invest.
 
 DlVISION 2
 
 Common Fund
 
-25. Formation of Common Fund. 26. Exclusions from Common Pund. 27. Interest payments on capital moneys in Common Fund. 28. Corporation's liability. 29. General Reserve Fund.
+25. Formation of Common Fund.
+
+26. Exclusions from Common Pund.
+
+27. Interest payments on capital moneys in Common Fund.
+
+28. Corporation's liability.
+
+29. General Reserve Fund.
 
 DlVlSlON 3
 
 Group lnvestment Fund
 
-30. Formation of Group Investment Fund. 31. Directions. 32. Group Investment Fund not a partnership, etc.
+30. Formation of Group Investment Fund.
+
+31. Directions.
+
+32. Group Investment Fund not a partnership, etc.
 
 DlVISION 4
 
@@ -108,7 +136,11 @@ Corporation Act 1994.
 
 "Common Fund" means the Common Fund formed under section 25;
 
-"Corporation" means the corporation under the name of Arnanah Raya Berhad incorporated under the , A ct 125 Companies Act 1965 pursuant to seetion 3;
+"Corporation" means the corporation under the name of Arnanah Raya Berhad incorporated under the
+
+<!-- marginal: , A ct 125 -->
+
+Companies Act 1965 pursuant to seetion 3;
 
 "Court" means the High Court or a Judge of such Court and includes, in cases where any of them is empowered to act, the Registrar, Deputy Rcgistrars, Senior Assistant Registrars and Assistant Registrars of the High Court;
 
@@ -128,9 +160,7 @@ Corporation Act 1994.
 
 "Minister" means the Minister charged with the responsibility for the administration of trusts and estates;
 
-"Official Administrator" means
-
-<!-- marginal: the Official -->
+"Official Administrator" means the Official
 
 <!-- marginal: Act 97. -->
 
@@ -176,9 +206,13 @@ Companies Act 1965 under the name "Amanah Raya Berhad".
 
 <!-- page 8 -->
 
-Vesting
+<!-- marginal: Vesting -->
 
-4. (1) Subject to this Act, the Minister may, from time provisions. to time, by order published in the Gazette, appoint a vesting date and on such date all property, rights and liabilities of the Public Trustee and of the Government of Malaysia in respect of the administration of trusts and estates specified by the Minister in the order shall, by virtue of this Act, be transferred to and vested in the Corporation without any conveyance, assignment or transfer whatsoever.
+4. (1) Subject to this Act, the Minister may, from time
+
+<!-- marginal: provisions. -->
+
+to time, by order published in the Gazette, appoint a vesting date and on such date all property, rights and liabilities of the Public Trustee and of the Government of Malaysia in respect of the administration of trusts and estates specified by the Minister in the order shall, by virtue of this Act, be transferred to and vested in the Corporation without any conveyance, assignment or transfer whatsoever.
 
 (2) Every property vested in the Corporation by virtue of subsection (1) shall be so vested in the Corporation for the like title, estate or interest and on the like tenure as the same was vested or held immediately before the vesting date.
 
@@ -202,9 +236,7 @@ Corporation by virtue of subsection (1) may, on and after the vesting date, be s
 
 Corporation with all the powers, rights, duties, liabilities and obligations attached thereto immediately before the vesting date to the extent that they are not inconsistent with this Act or any rules made under this Act.
 
-(7) Any reference in any order of Court, deed, contract, instrument or other document whatsoever to the Public Trustee or the Official Administrator shall be construed as a reference to the Corporation and all rights, powers, obligations and duties conferred, imposed on, undertaken or incurred by the Public Trustee or the Official Administrator under or by virtue of any such order of Court, deed, contract, instrument or other document shall be deemed to be conferred or imposed on or undertaken or
-
-<!-- marginal: incurred by -->
+(7) Any reference in any order of Court, deed, contract, instrument or other document whatsoever to the Public Trustee or the Official Administrator shall be construed as a reference to the Corporation and all rights, powers, obligations and duties conferred, imposed on, undertaken or incurred by the Public Trustee or the Official Administrator under or by virtue of any such order of Court, deed, contract, instrument or other document shall be deemed to be conferred or imposed on or undertaken or incurred by
 
 <!-- marginal: the -->
 
@@ -240,11 +272,29 @@ Corporation to the Minister of Finance as the Minister of Finance may, after con
 
 <!-- page 10 -->
 
-Government
+<!-- marginal: Government -->
 
-6. (1) Further issues of the shares in the Corporation investment shall only be made as the Minister of Finance may, after m further issues of consultation with the Minister, at any time, direct. shares of the Corporation. (2) Any expenses incurred by the Minister of Finance in consequence of the provisions of this section shall be treated as investments and be authorised under Act 61 subparagraph 8(3)(a)(iv) of the Financial Procedure Act
+6. (1) Further issues of the shares in the Corporation
 
-1957.
+<!-- marginal: investment -->
+
+shall only be made as the Minister of Finance may, after
+
+<!-- marginal: m further -->
+
+<!-- marginal: issues of -->
+
+consultation with the Minister, at any time, direct.
+
+<!-- marginal: shares of the -->
+
+<!-- marginal: Corporation. -->
+
+(2) Any expenses incurred by the Minister of Finance in consequence of the provisions of this section shall be treated as investments and be authorised under
+
+<!-- marginal: Act 61 -->
+
+subparagraph 8(3)(a)(iv) of the Financial Procedure Act 1957.
 
 (3) Any dividends or other sums received by the Minister of Finance under this section shall be paid into the Consolidated Fund.
 
@@ -254,7 +304,7 @@ Government
 
 (b) is certified by the Treasury as having been effected by the issue of shares subscribed for by the Minister of Finance under subsection (1).
 
-Staff.
+<!-- marginal: Staff. -->
 
 7. (1) The Corporation shall accept
 
@@ -266,9 +316,21 @@ employment, on a date to be appointed by the Minister by notification in the Gaz
 
 (2) Every such person who opts under subsection (1) to serve as an employee of the Corporation shall be employed by the Corporation on terms and conditions of service not less favourable than the terms and conditions of service to which he was entitled immediately before the date appointed by the Minister under subsection (1).
 
-Government
+<!-- marginal: Government -->
 
-8. (1) The Minister of Finance may, from time to time, of Malaysia on behalf of the Government of Malaysia, subscribe for to hold all shares in the or otherwise acquire all the shares in the Corporation. Corporation.
+8. (1) The Minister of Finance may, from time to time,
+
+<!-- marginal: of Malaysia -->
+
+on behalf of the Government of Malaysia, subscribe for
+
+<!-- marginal: to hold all -->
+
+<!-- marginal: shares in the -->
+
+or otherwise acquire all the shares in the Corporation.
+
+<!-- marginal: Corporation. -->
 
 <!-- page 11 -->
 
@@ -278,7 +340,9 @@ Government
 
 incorporated under the Minister of Finance (Incorporation) Act 1957.
 
-(3) Notwithstanding any other written law or rule of law, it shall not be necessary to complete or register a transfer of shares of the kind referred to in subsection (2) consequent upon a change in the person holding the office of the Minister of Finance.
+(3) Notwithstanding any other written law or rule of law, it shall not be necessary to complete or register a transfer of shares of the kind referred to in subsection
+
+(2) consequent upon a change in the person holding the office of the Minister of Finance.
 
 (4) The Minister of Finance may exercise all the rights and powers attaching to the shares in the Corporation held by him.
 
@@ -314,7 +378,7 @@ redeemable preference shares that—
 
 ## CORPORATION
 
-Objectives.
+<!-- marginal: Objectives. -->
 
 10. The objectives of the Corporation are as follows:
 
@@ -322,9 +386,17 @@ Objectives.
 
 (b) to be as efficient and profitable as private trust companies.
 
-Appointment
+<!-- marginal: Appointment -->
 
-11. (1) If a Court, the Governrnent of Malaysia or a of the person within or outside Malaysia has power to appoint Corporation. a trustee, executor, administrator, guardian, next friend, agent, attorney, receiver, receiver and manager or liquidator or make any other appointment of a fiduciary nature, the Corporation may be so appointed.
+11. (1) If a Court, the Governrnent of Malaysia or a
+
+<!-- marginal: of the -->
+
+person within or outside Malaysia has power to appoint
+
+<!-- marginal: Corporation. -->
+
+a trustee, executor, administrator, guardian, next friend, agent, attorney, receiver, receiver and manager or liquidator or make any other appointment of a fiduciary nature, the Corporation may be so appointed.
 
 (2) The Corporation may act either alone or jointly with any person or body of persons in any capacity to which it may be appointed and shall have the same powers, duties and liabilities and be entitled to the same rights and immunities and be subject to the same control and orders of the Court as a private person acting in that capacity.
 
@@ -332,9 +404,19 @@ Appointment
 
 (4) Any person aggrieved by the decision of the Corporation to decline to accept any appointment may, within fourteen days of the decision, appeal to the Minister in writing and the decision of the Minister on such appeal shall be final.
 
-Appomtment
+<!-- marginal: Appomtment -->
 
-12. (1) The Corporation may be appointed to be the of Corporation trustee of any will or settlement or other instrument as trustee or executor. creating a trust or to perform any trust or duty belonging to a class which it is authorised to accept, and may be
+12. (1) The Corporation may be appointed to be the
+
+<!-- marginal: of Corporation -->
+
+trustee of any will or settlement or other instrument
+
+<!-- marginal: as trustee or -->
+
+<!-- marginal: executor. -->
+
+creating a trust or to perform any trust or duty belonging to a class which it is authorised to accept, and may be
 
 <!-- page 13 -->
 
@@ -358,13 +440,45 @@ Provided that a failure to give any such notice shall not invalidate any appoint
 
 <!-- page 14 -->
 
-Grant of
+<!-- marginal: Grant of -->
 
-13. (1) The Corporation may, on its own application probate and or on the application of any other person, be granted letters of administration probates of will or letters of administration by the Court. to Corporation. (2) The Court shall consider the Corporation as in law entitled equally with any other person or class of persons to obtain the grant of letters of administration, save that the consent or citation of the Corporation shall not be required for the grant of letters of administration to any other person and that as between the Corporation and the widower, widow or next-of-kin of the deceased, the widower, widow or next-of-kin shall be preferred, unless for good cause shown to the contrary.
+13. (1) The Corporation may, on its own application
 
-Appointment
+<!-- marginal: probate and -->
 
-14. (1) The Court may, on the application of any of person beneficially interested, appoint the Corporation, Corporation in place of if sufficient cause is shown, in place of all or any executors, existing executors, administrators or trustees. etc.
+or on the application of any other person, be granted
+
+<!-- marginal: letters of -->
+
+<!-- marginal: administration -->
+
+probates of will or letters of administration by the Court.
+
+<!-- marginal: to -->
+
+<!-- marginal: Corporation. -->
+
+(2) The Court shall consider the Corporation as in law entitled equally with any other person or class of persons to obtain the grant of letters of administration, save that the consent or citation of the Corporation shall not be required for the grant of letters of administration to any other person and that as between the Corporation and the widower, widow or next-of-kin of the deceased, the widower, widow or next-of-kin shall be preferred, unless for good cause shown to the contrary.
+
+<!-- marginal: Appointment -->
+
+14. (1) The Court may, on the application of any
+
+<!-- marginal: of -->
+
+person beneficially interested, appoint the Corporation,
+
+<!-- marginal: Corporation -->
+
+<!-- marginal: in place of -->
+
+if sufficient cause is shown, in place of all or any
+
+<!-- marginal: executors, -->
+
+existing executors, administrators or trustees.
+
+<!-- marginal: etc. -->
 
 (2) Any executor who has obtained probate or any administrator who has obtained letters of administration or any trustee may, with the sanction of the Court and after giving such notice to the persons beneficially interested as the Court may direct, and notwithstanding that he has acted in the administration of the deceased's estate or the trust property, transfer such estate or trust property to the Corporation for administration either solely or jointly with the continuing executors, administrators or trustees, if any.
 
@@ -488,25 +602,39 @@ Small Estates (Distribution) Act 1955 applies, but, subject as aforesaid, shall 
 
 <!-- page 18 -->
 
-Administration
+<!-- marginal: Administration -->
 
-18. (1) Where— of estates of small
+18. (1) Where—
 
-(a) the value of the property without deduction for value. debts, but not including the value of any property which the deceased possessed or was entitled to as trustee and not beneficially, does not exceed five thousand ringgit;
+<!-- marginal: of estates -->
+
+<!-- marginal: of small -->
+
+(a) the value of the property without deduction for
+
+<!-- marginal: value. -->
+
+debts, but not including the value of any property which the deceased possessed or was entitled to as trustee and not beneficially, does not exceed five thousand ringgit;
 
 (b) it appears to the Corporation that the persons beneficially entitled are persons of small means; and
 
 (c) the Corporation can administer the estate under section 17,
 
-the Corporation shall administer the estate under section
-
-17.
+the Corporation shall administer the estate under section 17.
 
 (2) Where proceedings have been instituted in any Court for the administration of an estate and by reason of the small value of the estate it appears to the Court that the estate can be more economically administered by the Corporation than by the Court or that for any other reason it is expedient that the estate should be administered by the Corporation instead of the Court, the Court may order that the estate shall be administered by the Corporation, and thereupon, subject to any directions by the Court, section 17 shall apply as if the administration of the estate had been undertaken by the Corporation under section 17.
 
-Payment of
+<!-- marginal: Payment of -->
 
-19. (1) Where any property not exceeding twenty minor's thousand ringgit in value is held by the Corporation, maintenance. whether by virtue of a grant of letters of administration to the Corporation or by virtue of the powers conferred on the Corporation by this Act, and the property is held by the Corporation upon trust for any person for any interest whatsoever, whether vested or contingent, then, subject to any prior interest or charges affecting that property, the Corporation may at its sole discretion, during the minority of any such person, make payments of the whole or such part of the income and capital money of the property as may in all the circumstances be reasonable for that persor's maintenance, education or benefit.
+19. (1) Where any property not exceeding twenty
+
+<!-- marginal: minor's -->
+
+thousand ringgit in value is held by the Corporation,
+
+<!-- marginal: maintenance. -->
+
+whether by virtue of a grant of letters of administration to the Corporation or by virtue of the powers conferred on the Corporation by this Act, and the property is held by the Corporation upon trust for any person for any interest whatsoever, whether vested or contingent, then, subject to any prior interest or charges affecting that property, the Corporation may at its sole discretion, during the minority of any such person, make payments of the whole or such part of the income and capital money of the property as may in all the circumstances be reasonable for that persor's maintenance, education or benefit.
 
 <!-- page 19 -->
 
@@ -560,7 +688,15 @@ Corporation is appointed under this section to act for a minor, no costs shall b
 
 Corporation.
 
-(6) In this section "suit" means an action or suit for the administration of the estate of any deceased person or of a trust, and "proceeding" means a proceeding P U. (A) under the Rules of the High Court 1980. 50/80. Agency.
+(6) In this section "suit" means an action or suit for the administration of the estate of any deceased person or of a trust, and "proceeding" means a proceeding
+
+<!-- marginal: P U. (A) -->
+
+under the Rules of the High Court 1980.
+
+<!-- marginal: 50/80. -->
+
+<!-- marginal: Agency. -->
 
 22. It shall be lawful for the Corporation to act under any deed or instrument by which the Corporation is appointed agent or attorney for any person, and all the powers conferred upon the Corporation by any such deed or instrument may be exercised by such officer of the Corporation as the Corporation may appoint for that purpose:
 
@@ -574,9 +710,13 @@ Provided that nothing in this section shall be deemed to authorise any person to
 
 Bank Accounts and Power to Invest
 
-Bank
+<!-- marginal: Bank -->
 
-23. (1) The Corporation may establish and keep in any accounts. bank in its name—
+23. (1) The Corporation may establish and keep in any
+
+<!-- marginal: accounts. -->
+
+bank in its name—
 
 (a) a general account in which trust funds may be kept temporarily pending their investment; and
 
@@ -630,9 +770,15 @@ Public Trustee Act 1950 as in force before the commencement of this Act shall on
 
 (5) Any investment made on account of the Common Fund or included in its investment account shall not be made or held on account of or belong to any particular estate.
 
-Exclusions
+<!-- marginal: Exclusions -->
 
-26. The following shall not be included in or form part from Common of the Common Fund: Fund.
+26. The following shall not be included in or form part
+
+<!-- marginal: from Common -->
+
+of the Common Fund:
+
+<!-- marginal: Fund. -->
 
 (a) moneys expressly or by necessary implication forbidden to be included in the Common Fund or directed to be invested in investments other than those permitted by law for the investment of trust funds;
 
@@ -642,15 +788,31 @@ Exclusions
 
 <!-- marginal: estates -->
 
-administered by the Corporation or held by the Corporation as liquidator, receiver, receiver and manager, agent or in any other fiduciary capacity, which in the opinion of the Corporation having regard to
+administered by the Corporation or held by the Corporation as liquidator, receiver, receiver and manager, agent or in any other fiduciary capacity, which in the opinion of the Corporation having regard
+
+<!-- marginal: to -->
 
 <!-- marginal: the -->
 
 circumstances in which it holds the moneys and the duration for which the moneys are available for investment, should not be invested in the Common Fund.
 
-Interest
+<!-- marginal: Interest -->
 
-27. (1) The interest payable in respect of the capital payments on moneys which form part of the Common Fund shall be capital moneys in Common at such reasonable rate as the Corporation may, with the Fund. approval of the Minister, prescribe having regard to the
+27. (1) The interest payable in respect of the capital
+
+<!-- marginal: payments on -->
+
+moneys which form part of the Common Fund shall be
+
+<!-- marginal: capital moneys -->
+
+<!-- marginal: in Common -->
+
+at such reasonable rate as the Corporation may, with the
+
+<!-- marginal: Fund. -->
+
+approval of the Minister, prescribe having regard to the
 
 <!-- page 23 -->
 
@@ -706,9 +868,19 @@ Public Trustee Act 1950 as in force before the commencement of this Act shall on
 
 Group Investment Fund
 
-Formation of
+<!-- marginal: Formation of -->
 
-30. (1) The Corporation may, from time to time, with Group the approval of the Minister of Finance and the Minister, Investment Fund. establish and keep, in addition to and separately from the Common Fund, one or more funds each of which shall be called a Group Investment Fund. Where more than one Group Investment Fund is so established, each such Fund shall be given an appropriate distinguishing name or number.
+30. (1) The Corporation may, from time to time, with
+
+<!-- marginal: Group -->
+
+the approval of the Minister of Finance and the Minister,
+
+<!-- marginal: Investment -->
+
+<!-- marginal: Fund. -->
+
+establish and keep, in addition to and separately from the Common Fund, one or more funds each of which shall be called a Group Investment Fund. Where more than one Group Investment Fund is so established, each such Fund shall be given an appropriate distinguishing name or number.
 
 (2) All moneys forming part of any Group Investment Fund shall be invested in such class or classes of investments as the Corporation determines at the time when the Fund is established, being investments authorised by the instrument or other authority by which the moneys are held or any investment permitted by law for the investment of trust funds.
 
@@ -780,13 +952,35 @@ percentage or otherwise, as the Corporation with the approval of the Minister pr
 
 ## GENERAL
 
-Exemption
+<!-- marginal: Exemption -->
 
-34. Where any bond or security would be required from from giving a private person upon the grant to him of letters of security. administration or upon his appointment to act in any capacity, the Corporation, if granted letters of administration or appointed to act in any such capacity, shall not be required to give such bond or security but shall be subject to the same liabilities and duties as if it had given such bond or security.
+34. Where any bond or security would be required from
 
-Exemption
+<!-- marginal: from giving -->
 
-35. Where the total value of any property (without from giving deduction for debts, but not including the value of any notice of distribution property which the deceased possessed or was entitled of property. to as trustee and not beneficially) administered by the Corporation, whether pursuant to any trust instrument or will or by virtue of a grant of letters of administration to the Corporation or by virtue of the powers conferred on the Corporation by this Act, does not exceed six hundred thousand ringgit, it shall not be necessary for the Corporation to give notice of its intention to distribute the estate or require any person interested to send in particulars of his claim against the estate, but the Corporation may proceed forthwith to coiwey or distribute the estate or any part thereof to or among the persons entitled thereto, having regard only to the claims, whether formal or not, of which the Corporation then had notice, and the Corporation shall not, as respect the property so conveyed or distributed, be liable to any
+a private person upon the grant to him of letters of
+
+<!-- marginal: security. -->
+
+administration or upon his appointment to act in any capacity, the Corporation, if granted letters of administration or appointed to act in any such capacity, shall not be required to give such bond or security but shall be subject to the same liabilities and duties as if it had given such bond or security.
+
+<!-- marginal: Exemption -->
+
+35. Where the total value of any property (without
+
+<!-- marginal: from giving -->
+
+deduction for debts, but not including the value of any
+
+<!-- marginal: notice of -->
+
+<!-- marginal: distribution -->
+
+property which the deceased possessed or was entitled
+
+<!-- marginal: of property. -->
+
+to as trustee and not beneficially) administered by the Corporation, whether pursuant to any trust instrument or will or by virtue of a grant of letters of administration to the Corporation or by virtue of the powers conferred on the Corporation by this Act, does not exceed six hundred thousand ringgit, it shall not be necessary for the Corporation to give notice of its intention to distribute the estate or require any person interested to send in particulars of his claim against the estate, but the Corporation may proceed forthwith to coiwey or distribute the estate or any part thereof to or among the persons entitled thereto, having regard only to the claims, whether formal or not, of which the Corporation then had notice, and the Corporation shall not, as respect the property so conveyed or distributed, be liable to any
 
 <!-- page 27 -->
 
@@ -840,13 +1034,19 @@ direction upon any matter arising out of the performance of any function or duty
 
 <!-- page 28 -->
 
-Legal
+<!-- marginal: Legal -->
 
-39. Notwithstanding the provisions of any written law, proceedings. in any proceeding involving the Corporation, any officer of the Corporation approved by the Minister by notification in the Gazette may, on behalf of the Corporation, institute, appear in and conduct such proceeding and may make and do all appearances, acts and applications in respect of such proceedings.
+39. Notwithstanding the provisions of any written law,
 
-Power to
+<!-- marginal: proceedings. -->
 
-40. (1) The Minister may make rules in respect of— make rules.
+in any proceeding involving the Corporation, any officer of the Corporation approved by the Minister by notification in the Gazette may, on behalf of the Corporation, institute, appear in and conduct such proceeding and may make and do all appearances, acts and applications in respect of such proceedings.
+
+<!-- marginal: Power to -->
+
+40. (1) The Minister may make rules in respect of—
+
+<!-- marginal: make rules. -->
 
 (a) any matters for which rules are expressly permitted to be made under this Act;
 
@@ -866,9 +1066,13 @@ Power to
 
 (3) The Minister may make such rules as he considers necessary or expedient for the purpose of removing any difficulty occasioned by the coming into force of this Act, and any such rules may be so made as to have effect from the commencement of this Act.
 
-Power to give
+<!-- marginal: Power to give -->
 
-41. Subject to the provisions of this Act, the Minister directions. may, from time to time, give directions of a general character not inconsistent with the provisions of this Act as to the performance of the functions or duties and the exercise of the powers of the Corporation.
+41. Subject to the provisions of this Act, the Minister
+
+<!-- marginal: directions. -->
+
+may, from time to time, give directions of a general character not inconsistent with the provisions of this Act as to the performance of the functions or duties and the exercise of the powers of the Corporation.
 
 <!-- page 29 -->
 
@@ -1020,6 +1224,4 @@ Clause 43 contains repeal and savings provisions.
 
 ## IMPLICATIONS
 
-This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained.
-
-<!-- marginal: [PN. (U2) 1814.] -->
+This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained. [PN. (U2) 1814.]

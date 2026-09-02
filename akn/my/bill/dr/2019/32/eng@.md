@@ -18,105 +18,103 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 2 -->
 
-## Schedule
+## SCHEDULE
 
-Purpose Title
+<!-- marginal: Purpose -->
 
-<!-- marginal: Amount -->
+Title Amount (RM)
 
-<!-- marginal: (RM) -->
+<!-- marginal: B. 1 -->
 
-B. 1 Parliament of Malaysia
+Parliament of Malaysia 145,190,900
 
-<!-- marginal: 145,190,900 -->
+<!-- marginal: B. 2 -->
 
-B. 2 Keeper of Rulers’ Seal Office
+Keeper of Rulers’ Seal Office 2,500,000
 
-<!-- marginal: 2,500,000 -->
+<!-- marginal: B. 3 -->
 
-B. 3 National Audit Department
+National Audit Department 156,233,800
 
-<!-- marginal: 156,233,800 -->
+<!-- marginal: B. 4 -->
 
-B. 4 Election Commission
+Election Commission 71,302,900
 
-<!-- marginal: 71,302,900 -->
+<!-- marginal: B. 5 -->
 
-B. 5 Public Services Commission
+Public Services Commission 39,575,800
 
-<!-- marginal: 39,575,800 -->
+<!-- marginal: B. 6 -->
 
-B. 6 Prime Minister’s Department
+Prime Minister’s Department 4,048,073,200
 
-<!-- marginal: 4,048,073,200 -->
+<!-- marginal: B. 7 -->
 
-B. 7 Public Service Department
+Public Service Department 1,623,931,100
 
-<!-- marginal: 1,623,931,100 -->
+<!-- marginal: B. 8 -->
 
-B. 8 Attorney General’s Chambers
+Attorney General’s Chambers 176,935,000
 
-<!-- marginal: 176,935,000 -->
+<!-- marginal: B. 9 -->
 
-B. 9 Malaysian Anti-Corruption Commission
+Malaysian Anti-Corruption Commission 299,053,300
 
-<!-- marginal: 299,053,300 -->
+<!-- marginal: B. 10 -->
 
-B. 10 Treasury
+Treasury 5,320,637,000
 
-<!-- marginal: 5,320,637,000 -->
+<!-- marginal: B. 11 -->
 
-B. 11 Treasury General Services
+Treasury General Services 21,027,387,800
 
-<!-- marginal: 21,027,387,800 -->
+<!-- marginal: B. 12 -->
 
-B. 12 Contribution to Statutory Funds
+Contribution to Statutory Funds 1,782,200,300
 
-<!-- marginal: 1,782,200,300 -->
+<!-- marginal: B. 13 -->
 
-B. 13 Ministry of Foreign Affairs
+Ministry of Foreign Affairs 724,338,100
 
-<!-- marginal: 724,338,100 -->
+<!-- marginal: B. 15 -->
 
-B. 15 Ministry of Economic Affairs
+Ministry of Economic Affairs 513,313,900
 
-<!-- marginal: 513,313,900 -->
+<!-- marginal: B. 20 -->
 
-B. 20 Ministry of Primary Industries
+Ministry of Primary Industries 259,528,700
 
-<!-- marginal: 259,528,700 -->
+<!-- marginal: B. 21 -->
 
-B. 21 Ministry of Agriculture and Agro-Based
+Ministry of Agriculture and Agro-Based 3,533,985,900 Industry
 
-<!-- marginal: 3,533,985,900 -->
+<!-- marginal: B. 22 -->
 
-Industry B. 22 Ministry of Rural Development
+Ministry of Rural Development 3,191,709,400
 
-<!-- marginal: 3,191,709,400 -->
+<!-- marginal: B. 23 -->
 
-B. 23 Ministry of Water, Land and Natural
+Ministry of Water, Land and Natural 1,276,283,000 Resources
 
-<!-- marginal: 1,276,283,000 -->
+<!-- marginal: B. 24 -->
 
-Resources B. 24 Ministry of International Trade and
+Ministry of International Trade and 877,835,800 Industry
 
-<!-- marginal: 877,835,800 -->
+<!-- marginal: B. 25 -->
 
-Industry B. 25 Ministry of Domestic Trade and
+Ministry of Domestic Trade and 1,019,962,600 Consumer Affairs
 
-<!-- marginal: 1,019,962,600 -->
+<!-- marginal: B. 26 -->
 
-Consumer Affairs B. 26 Ministry of Entrepreneurship
+Ministry of Entrepreneurship 214,310,900 Development
 
-<!-- marginal: 214,310,900 -->
+<!-- marginal: B. 27 -->
 
-Development B. 27 Ministry of Works
+Ministry of Works 1,792,114,200
 
-<!-- marginal: 1,792,114,200 -->
+<!-- marginal: B. 28 -->
 
-B. 28 Ministry of Transport
-
-<!-- marginal: 1,758,308,000 -->
+Ministry of Transport 1,758,308,000
 
 <!-- page 3 -->
 
@@ -178,7 +176,7 @@ B. 63 Ministry of Education
 
 <!-- marginal: 59,264,811,500 -->
 
-ToTal
+## TOTAL
 
 <!-- marginal: 173,136,214,600 -->
 

@@ -74,7 +74,9 @@ opted for the compulsory age of retirement of fifty- six years, subsection (3) s
 
 (b) by inserting after subsection (2) the following subsection:
 
-"(2A) Where an employee referred to in subsection (2) who was reappointed before 1 October 2001 had been given an option before such date and had not opted for the compulsory age of retirement of fifty- six years, subsection (2) shall apply to him with the word 'fifty-five' being substituted for the word 'fifty-
+"(2A) Where an employee referred to in subsection
+
+(2) who was reappointed before 1 October 2001 had been given an option before such date and had not opted for the compulsory age of retirement of fifty- six years, subsection (2) shall apply to him with the word 'fifty-five' being substituted for the word 'fifty-
 
 ### Amendment of section 26
 

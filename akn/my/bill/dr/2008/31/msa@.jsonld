@@ -1,0 +1,1985 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-31-2008",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Perlindungan Saksi 2008"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERMULaan Tajuk ringkas dan permulaan kuat kuasa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PROgRaM PERLIndUngan SaKSI Pewujudan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_16"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "HaK, OBLIgaSI, KETIdaKdEdaHan dan PEnaMaTan Menguruskan hak dan obligasi yang belum selesai peserta"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_14__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_14__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_14__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_14__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_14__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_14__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika seseorang peserta mempunyai apa-apa hak atau obligasi yang belum selesai atau adalah tertakluk kepada apa-apa sekatan, Ketua Pengarah hendaklah mengambil apa-apa langkah yang semunasabahnya boleh dilaksanakan untuk memastikan bahawa—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_14__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_14__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "hak atau obligasi itu diuruskan mengikut undang-undang yang berkaitan; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_14__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_14__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "peserta itu mematuhi sekatan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_14__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_14__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tindakan di bawah subseksyen (1) boleh termasuk—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_14__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_14__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memberikan perlindungan untuk peserta semasa peserta itu hadir di mahkamah; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_14__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_14__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memberitahu pihak atau yang mungkin menjadi pihak kepada apa-apa prosiding undang-undang bahawa Ketua Pengarah akan menerima proses yang dikeluarkan oleh mahkamah atau tribunal bagi pihak peserta itu, dan Ketua Pengarah boleh melantik mana-mana pegawai bagi maksud itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_14__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_14__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_14__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika Ketua Pengarah berpuas hati bahawa peserta yang telah diberikan suatu identiti baru di bawah Program menggunakan identiti baru itu untuk—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_14__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_14__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mengelak obligasi yang dilakukan sebelum identiti baru itu diberikan; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_14__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_14__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mengelak daripada mematuhi sekatan yang dikenakan sebelum identiti baru itu diberikan, Ketua Pengarah hendaklah memberikan notis secara bertulis kepada peserta itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_14__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "notis di bawah subseksyen (3) hendaklah menyatakan bahawa, melainkan jika peserta itu memuaskan hati Ketua Pengarah bahawa obligasi itu akan diuruskan mengikut undang-undang yang berkaitan atau sekatan itu akan dipatuhi, Ketua Pengarah hendaklah mengambil apa-apa tindakan sebagaimana yang semunasabahnya didapatinya perlu untuk memastikan bahawa obligasi itu diuruskan mengikut undang-undang atau sekatan itu dipatuhi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_14__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tindakan yang diambil di bawah subseksyen (4) boleh termasuk memaklumkan mana-mana orang yang sedang menuntut untuk menguatkuasakan hak terhadap peserta itu butir-butir mengenai apa-apa harta, sama ada tanah atau sendiri, yang dipunyai oleh peserta itu di bawah identiti asalnya. Ketidakdedahan identiti asal peserta"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_15__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_15__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun mana-mana undang-undang bertulis yang berlawanan, jika seseorang peserta yang telah diberikan suatu identiti baru di bawah Program dikehendaki oleh atau di bawah suatu undang-undang untuk mendedahkan identiti asalnya bagi suatu maksud tertentu, dia tidak boleh mendedahkan identiti asalnya bagi maksud itu melainkan jika Ketua Pengarah telah memberikan perintah bertulis kepada peserta itu untuk berbuat demikian."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika seseorang peserta tidak diberikan suatu perintah di bawah subseksyen (1) untuk mendedahkan identiti asalnya, adalah menjadi sah bagi peserta itu, dalam apa-apa prosiding atau bagi apa-apa maksud, di bawah mana-mana undang-undang, untuk menuntut bahawa identiti barunya adalah satu-satunya identitinya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_15__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud seksyen ini, “peserta” termasuklah seseorang yang telah diberikan suatu identiti baru di bawah Program dan bukan lagi peserta. Penamatan perlindungan dan bantuan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "(1) Ketua Pengarah boleh mengesyorkan kepada Peguam negara bahawa perlindungan dan bantuan yang diberikan kepada seseorang peserta di bawah Program ditamatkan oleh Peguam negara, jika— (a) peserta itu telah memberikan maklumat yang diketahuinya adalah palsu atau mengelirukan; (b) kelakuan atau kelakuan yang mengugut peserta itu adalah, pada pendapat Ketua Pengarah, berkemungkinan menjejaskan integriti Program; (c) hal keadaan yang menimbulkan keperluan bagi perlindungan dan bantuan bagi peserta itu tidak lagi wujud; atau (d) pada pendapat Ketua Pengarah, tiada justifikasi yang munasabah bagi peserta itu terus berada dalam Program. (2) Peguam negara hendaklah apabila menerima syor di bawah subseksyen (1) memutuskan sama ada untuk menamatkan perlindungan dan bantuan yang diberikan kepada peserta itu di bawah Program atau tidak. (3) Peguam negara hendaklah memberikan kepada seseorang peserta suatu peluang untuk didengar sebelum membuat keputusannya di bawah subseksyen (2). (4) Peruntukan subseksyen (3) tidak terpakai jika Peguam negara tidak mengetahui di mana peserta itu berada. (5) Jika seseorang peserta telah diberikan peluang untuk didengar dan peserta itu tidak membuat apa-apa representasi, Peguam negara hendaklah terus membuat keputusan atas syor yang dikemukakan. (6) Walau apa pun subseksyen (1), seseorang peserta boleh membuat permintaan secara bertulis kepada Ketua Pengarah supaya perlindungan dan bantuan yang diberikan di bawah Program ditamatkan oleh Peguam negara. (7) apabila menerima permintaan di bawah subseksyen (6), Ketua Pengarah hendaklah membuat syor kepada Peguam negara untuk keputusannya. (8) Jika seseorang peserta terkilan dengan keputusan Peguam negara di bawah subseksyen (2) atau (7), dia boleh merayu secara bertulis kepada Menteri dalam masa empat belas hari dari tarikh penerimaan keputusan itu. (9) Jika suatu rayuan dibuat di bawah subseksyen (2) atau (7)— (a) Peguam negara hendaklah mengemukakan alasan keputusannya berserta syor Ketua Pengarah di bawah subseksyen (1) atau (7) kepada Menteri; dan (b) seseorang peserta hendaklah terus berada dalam Program sehingga suatu keputusan mengenai rayuan itu dibuat oleh Menteri. (10) Menteri hendaklah, apabila menerima suatu rayuan di bawah subseksyen (8), membuat keputusan atas rayuan itu. (11) apabila perlindungan dan bantuan yang diberikan di bawah Program kepada seseorang peserta ditamatkan, Ketua Pengarah boleh jika suai manfaat dan perlu— (a) memberitahu peserta itu mengenai penamatan itu; dan (b) memberitahu perkhidmatan awam atau pihak berkuasa awam yang berkaitan mengenai penamatan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_10__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_10__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_10__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_10__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_10__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah hendaklah, selepas menimbangkan faktor yang disebut dalam seksyen 9, mengesyorkan sama ada seseorang saksi itu boleh dimasukkan ke dalam Program atau tidak."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiap-tiap syor oleh Ketua Pengarah supaya seseorang saksi dimasukkan ke dalam Program hendaklah dibuat kepada Peguam negara."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_10__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Peguam negara, apabila menerima syor yang disebut dalam subseksyen (1), hendaklah memutuskan sama ada atau tidak hendak memasukkan seseorang saksi itu ke dalam Program."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_10__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika mana-mana orang terkilan dengan keputusan Peguam negara di bawah subseksyen (3), dia boleh merayu secara bertulis kepada Menteri dalam masa empat belas hari dari tarikh penerimaan keputusan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_10__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_10__subsec_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_10__subsec_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika suatu rayuan dibuat di bawah subseksyen (4)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_10__subsec_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_10__subsec_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Peguam negara hendaklah mengemukakan alasan keputusannya berserta syor Ketua Pengarah di bawah subseksyen (1) kepada Menteri; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_10__subsec_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_10__subsec_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perlindungan dan bantuan kepada saksi, jika diberikan oleh Ketua Pengarah di bawah subseksyen 7(4), hendaklah diteruskan sehingga keputusan atas rayuan itu dibuat oleh Menteri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_10__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah, apabila menerima rayuan di bawah subseksyen (4), membuat keputusan atas rayuan itu. Daftar Peserta"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah melantik seorang Pendaftar Perlindungan Saksi untuk menyenggarakan suatu daftar Peserta."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11__subsec_2__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "daftar hendaklah mengandungi yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "identiti peserta;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika peserta telah diberikan suatu identiti baru di bawah Program, identiti baru peserta itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "alamat peserta;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sabitan terdahulu peserta;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tarikh peserta dimasukkan ke dalam Program;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tarikh peserta terhenti berada dalam Program; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "butir-butir mengenai apa-apa perintah yang diberikan oleh Ketua Pengarah di bawah subseksyen 15(1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pendaftar hendaklah menyimpan dalam jagaannya mengikut apa-apa bentuk dan cara sebagaimana yang ditentukan olehnya dokumen yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11__subsec_3__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11__subsec_3__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "walau apa pun mana-mana undang-undang bertulis yang berlawanan, dalam hal seseorang peserta diberikan identiti baru—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11__subsec_3__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11__subsec_3__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sijil kelahiran, kad pengenalan, sijil perkahwinan dan apa-apa dokumen lain yang berhubungan dengan identiti asal peserta itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11__subsec_3__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11__subsec_3__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu salinan sijil kelahiran, kad pengenalan, sijil perkahwinan dan apa-apa dokumen baru lain yang dikeluarkan di bawah Program; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_11__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu salinan perintah yang diberikan oleh Ketua Pengarah di bawah subseksyen 15(1). Akses kepada Daftar"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_12__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_12__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada seorang pun boleh mempunyai akses kepada daftar dan dokumen yang disimpan oleh Pendaftar kecuali Menteri, Peguam negara, Ketua Pengarah dan mana-mana orang lain yang dibenarkan secara bertulis oleh Ketua Pengarah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun mana-mana undang-undang bertulis yang berlawanan, daftar tidak boleh dikemukakan kepada mana-mana orang atau dalam mana-mana prosiding dalam mahkamah, tribunal, Suruhanjaya atau siasatan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_12__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang melanggar seksyen ini melakukan suatu kesalahan dan hendaklah, apabila disabitkan, dihukum dengan pemenjaraan selama tempoh tidak melebihi dua puluh tahun. Tindakan jika seseorang saksi dimasukkan ke dalam Program"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah hendaklah mengambil apa-apa tindakan, sebagaimana yang didapatinya perlu dan munasabah, untuk melindungi keselamatan dan kebajikan saksi itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_2__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_2__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_2__para_j"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tindakan itu boleh termasuk—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menyediakan tempat tinggal untuk peserta itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menempatkan semula peserta itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memohon bagi apa-apa dokumen yang perlu untuk membolehkan peserta itu mewujudkan suatu identiti baru;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menyediakan pengangkutan bagi memindahkan harta peserta itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memberikan pembayaran yang bersamaan dengan saraan yang diterima oleh peserta itu sebelum dimasukkan ke dalam Program termasuk apa-apa kenaikan kepada saraan itu yang peserta itu sepatutnya berhak menerima, jika dia tidak dimasukkan ke dalam Program;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika peserta itu tidak bekerja sebelum dimasukkan ke dalam Program, memberikan pembayaran kepada peserta itu bagi maksud memenuhi perbelanjaan sara hidup yang munasabah peserta itu termasuk, jika sesuai, perbelanjaan sara hidup keluarga peserta itu dan memberikan, sama ada secara langsung atau tidak langsung, bantuan kewangan lain yang munasabah;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memberikan pembayaran kepada peserta itu bagi maksud memenuhi kos yang berkaitan dengan penempatan semula;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memberikan bantuan kepada peserta itu dalam mendapatkan pekerjaan dan akses kepada pendidikan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_2__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memberikan bantuan lain kepada peserta itu dengan tujuan untuk memastikan bahawa peserta menjadi dapat menyara diri; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_2__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa tindakan lain sebagaimana yang didapati perlu oleh Ketua Pengarah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun mana-mana undang-undang bertulis yang berlawanan, tiada penempatan semula mana-mana peserta boleh dibuat oleh Ketua Pengarah di bawah perenggan (2)(b)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ke negeri Sabah dari mana-mana tempat di luar negeri Sabah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ke negeri Sarawak dari mana-mana tempat di luar negeri Sarawak."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika Ketua Pengarah membuat permintaan kepada mana- mana orang, yang mempunyai kuasa atau kewajipan di bawah mana-mana undang-undang bertulis lain untuk mengeluarkan sijil kelahiran, kad pengenalan, sijil perkahwinan atau apa-apa dokumen lain yang berhubungan dengan identiti seseorang peserta, untuk mengeluarkan suatu dokumen baru yang perlu untuk membolehkan peserta itu mewujudkan suatu identiti baru, orang itu hendaklah mematuhi permintaan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah tidak boleh memohon bagi apa-apa dokumen untuk membolehkan seseorang peserta mewujudkan suatu identiti baru di bawah perenggan (2)(c) melainkan jika dia telah mendapat keizinan bertulis peserta itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah boleh membenarkan pegawainya menggunakan nama samaran dalam menjalankan kewajipan mereka berhubung dengan Program dan untuk membawa dokumen yang menyokong nama samaran itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Maka diwujudkan Program Perlindungan Saksi yang disenggarakan oleh Ketua Pengarah. Pelantikan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_4__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_4__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh melantik seorang Ketua Pengarah dan Timbalan Ketua Pengarah Perlindungan Saksi daripada kalangan anggota perkhidmatan awam."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh melantik mana-mana orang lain sebagaimana yang difikirkannya patut, untuk membantu Ketua Pengarah dalam menjalankan maksud akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiap-tiap orang yang dilantik di bawah subseksyen (2) hendaklah tertakluk kepada arahan, kawalan dan pengawasan am Ketua Pengarah dan hendaklah mempunyai dan menjalankan semua kuasa Ketua Pengarah di bawah akta ini kecuali kuasa yang disebut dalam subseksyen 12(1) dan 15(1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_4__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sekiranya Ketua Pengarah tiada atau tidak berupaya untuk bertindak kerana sakit atau apa-apa sebab lain, Timbalan Ketua Pengarah hendaklah menjalankan kuasa Ketua Pengarah di bawah subseksyen 12(1) dan 15(1). Fungsi"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_5__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah hendaklah bertanggungjawab bagi mengesyorkan saksi yang kepadanya perlindungan dan bantuan boleh diberikan di bawah Program."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah boleh mengaturkan atau memberikan perlindungan dan bantuan lain kepada seseorang saksi atau peserta di bawah Program. Kewajipan untuk memberikan bantuan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_6__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun mana-mana undang-undang bertulis yang berlawanan, seseorang hendaklah memberikan kepada Ketua Pengarah, atas permintaan Ketua Pengarah, apa-apa pernyataan, rekod, dokumen lain atau bentuk bantuan lain yang boleh membantu Ketua Pengarah dalam melaksanakan fungsinya di bawah akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi tiga ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun mana-mana undang-undang bertulis yang berlawanan, tiada prosiding atau tindakan boleh diambil terhadap seseorang yang bertindak dengan mematuhi subseksyen (1). Permohonan untuk dimasukkan ke dalam Program"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_7__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_7__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_7__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana saksi boleh memohon kepada Ketua Pengarah untuk dimasukkan ke dalam Program."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sesuatu agensi penguatkuasaan boleh, dengan keizinan bertulis saksi, memohon kepada Ketua Pengarah supaya saksi itu dimasukkan ke dalam Program."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_7__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika saksi adalah di bawah umur lapan belas tahun, ibu atau bapa atau penjaga saksi itu boleh memohon bagi pihaknya untuk dimasukkan ke dalam Program."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_7__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apabila diterima suatu permohonan di bawah seksyen ini, Ketua Pengarah boleh memberikan perlindungan interim dan bantuan kepada saksi. Saksi hendaklah mendedahkan perkara tertentu"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_l",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_m",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_n",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_o"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam sesuatu permohonan di bawah seksyen 7, seseorang saksi hendaklah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mendedahkan kepada Ketua Pengarah butir-butir mengenai semua obligasi di sisi undang-undang saksi itu yang belum selesai;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mendedahkan kepada Ketua Pengarah butir-butir mengenai apa-apa hutang saksi itu yang tertunggak, termasuk apa- apa cukai tertunggak;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mendedahkan kepada Ketua Pengarah butir-butir mengenai sejarah jenayah saksi itu yang termasuklah perintah yang berhubungan dengan hukuman yang dikenakan ke atas saksi itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mendedahkan kepada Ketua Pengarah butir-butir mengenai apa-apa prosiding sivil yang telah dimulakan oleh atau terhadap saksi itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mendedahkan kepada Ketua Pengarah butir-butir mengenai apa-apa prosiding kebankrapan yang telah dimulakan terhadap saksi itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memaklumkan kepada Ketua Pengarah sama ada saksi itu ialah seorang bankrap belum lepas di bawah akta Kebankrapan 1967 [Akta 360] dan, jika saksi itu ialah seorang bankrap belum lepas, hendaklah mengemukakan kepada Ketua Pengarah salinan semua dokumen yang berhubungan dengan kebankrapan itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memaklumkan kepada Ketua Pengarah sama ada terdapat apa-apa sekatan terhadap saksi itu memegang jawatan dalam syarikat, sama ada awam atau persendirian dan, jika ada, memberikan kepada Ketua Pengarah salinan semua dokumen yang berhubungan dengan sekatan itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mendedahkan kepada Ketua Pengarah butir-butir mengenai status imigresen saksi itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mendedahkan kepada Ketua Pengarah butir-butir mengenai apa-apa perintah reparasi yang sedang berkuat kuasa terhadap saksi itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mendedahkan kepada Ketua Pengarah butir-butir mengenai liabiliti kewangan dan aset saksi itu, sama ada nyata atau sendiri;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memaklumkan kepada Ketua Pengarah sama ada apa- apa harta saksi itu, sama ada tanah atau sendiri, boleh dilucuthakkan atau dirampas atau adalah tertakluk kepada sekatan di bawah mana-mana undang-undang lain;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memaklumkan kepada Ketua Pengarah mengenai keadaan perubatan secara menyeluruh saksi itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_m",
+      "@type": "akn:paragraph",
+      "eli:number": "m",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mendedahkan kepada Ketua Pengarah butir-butir mengenai apa-apa perintah mahkamah yang berkaitan atau perkiraan yang berhubungan dengan jagaan atau akses kepada kanak-kanak;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_n",
+      "@type": "akn:paragraph",
+      "eli:number": "n",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mendedahkan kepada Ketua Pengarah butir-butir mengenai apa-apa urusan perniagaan yang melibatkan saksi itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_o",
+      "@type": "akn:paragraph",
+      "eli:number": "o",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_o__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_o__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_o__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_o__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mendedahkan kepada Ketua Pengarah butir-butir mengenai apa-apa perkiraan yang telah dibuat oleh saksi itu bagi—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_o__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_o",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penyampaian dokumen kepada saksi itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_o__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_o",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pewakilan dalam prosiding di mahkamah;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_o__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_o",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penguatkuasaan penghakiman yang memihak kepada saksi itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_o__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_1__para_o",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pematuhan kepada penguatkuasaan penghakiman terhadap saksi itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah boleh menghantar saksi itu untuk menjalani pemeriksaan perubatan, psikologi dan psikiatrik untuk menentukan kesesuaiannya untuk dimasukkan ke dalam Program."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang mendedahkan atau memberikan maklumat kepada Ketua Pengarah bagi maksud membantu Ketua Pengarah dalam memutuskan sama ada atau tidak untuk mengesyorkannya supaya dimasukkan ke dalam Program, tidak boleh mendedahkan atau memberikan maklumat yang diketahuinya atau semunasabahnya diketahui adalah palsu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang melanggar subseksyen (3) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi sepuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya. Faktor untuk dipertimbangkan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_9__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_9__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_9__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_9__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_9__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_9__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_9__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_9__subsec_1__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_9__subsec_1__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah dalam memutuskan sama ada atau tidak untuk mengesyorkan supaya seseorang saksi dimasukkan ke dalam Program hendaklah menimbangkan yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_9__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sama ada saksi itu mempunyai rekod jenayah, terutamanya berkenaan dengan jenayah keganasan, dan sama ada rekod itu menunjukkan suatu risiko kepada orang awam jika saksi itu dimasukkan ke dalam Program;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_9__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "keputusan pemeriksaan perubatan, psikologi dan psikiatrik yang dijalankan di bawah subseksyen 8(2);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_9__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "keseriusan kesalahan yang dimaksudkan oleh keterangan atau pernyataan saksi itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_9__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jenis dan kepentingan keterangan atau pernyataan saksi itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_9__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sama ada terdapat kaedah alternatif untuk melindungi saksi itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_9__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jenis bahaya yang diandaikan kepada saksi itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_9__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jenis hubungan saksi itu dengan saksi lain yang dipilih untuk dimasukkan ke dalam Program; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_9__subsec_1__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa perkara lain yang didapati berkaitan oleh Ketua Pengarah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah boleh membuat apa-apa siasatan dan penyiasatan lain, sebagaimana yang didapatinya perlu, bagi maksud menilai sama ada saksi itu hendak disyorkan untuk dimasukkan ke dalam Program. Kemasukan ke dalam Program"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_30"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "aM Obligasi kerahsiaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_17__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_17__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kecuali sebagaimana yang diperuntukkan dalam akta ini, Ketua Pengarah atau mana-mana pegawainya, sama ada dalam tempoh pemegangan jawatannya atau tempoh penggajiannya atau selepas itu, dan mana-mana orang lain yang melalui apa-apa cara mempunyai akses kepada apa-apa maklumat atau dokumen yang berhubungan dengan hal ehwal Program, tidak boleh memberikan atau selainnya mendedahkan maklumat atau dokumen itu kepada mana-mana orang."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang melanggar subseksyen (1) melakukan suatu kesalahan dan hendaklah, apabila disabitkan, dihukum dengan pemenjaraan selama tempoh tidak melebihi dua puluh tahun. Ketua Pengarah tidak dikehendaki untuk mendedahkan maklumat"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_18__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_18__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_18__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_18__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada seksyen 12 dan subseksyen (2), Ketua Pengarah atau mana-mana pegawainya tidak dikehendaki—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_18__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_18__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengemukakan dalam mana-mana prosiding dalam mahkamah, tribunal, Suruhanjaya atau siasatan, apa-apa dokumen yang telah berada dalam jagaan atau kawalan Ketua Pengarah atau pegawainya; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_18__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_18__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menzahirkan atau menyampaikan kepada suatu badan apa-apa perkara atau benda yang telah sampai ke perhatian Ketua Pengarah atau mana-mana pegawainya, dalam pelaksanaan fungsi dan kewajipan mereka di bawah akta ini, kecuali jika perlu berbuat demikian bagi menjalankan maksud akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika perlu bagi pemutusan apa-apa prosiding undang- undang bahawa Hakim atau Majistret yang menjalankan prosiding itu dimaklumkan mengenai tempat dan hal keadaan seseorang peserta, seseorang yang disebut dalam subseksyen (1) hendaklah mendedahkan maklumat yang berkaitan itu kepada Hakim atau Majistret dalam kamar, tetapi orang itu tidak boleh mendedahkan maklumat itu jika mana-mana orang selain Hakim atau Majistret hadir."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_18__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Hakim atau Majistret tidak boleh mendedahkan apa-apa maklumat yang didedahkan kepada Hakim atau Majistret di bawah subseksyen (2) selain mengikut akta ini. Kehendak jika peserta menjadi saksi dalam prosiding jenayah"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika seseorang peserta atau bekas peserta yang diberikan suatu identiti baru di bawah Program akan menjadi saksi dalam suatu prosiding jenayah di bawah identiti baru, peserta itu atau bekas peserta itu, mengikut mana-mana yang berkenaan, hendaklah memberitahu Ketua Pengarah bahawa dia akan menjadi saksi dalam prosiding itu. Identiti peserta tidak boleh didedahkan dalam prosiding mahkamah"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_20__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_20__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_20__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_20__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_20__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika dalam mana-mana prosiding dalam mahkamah, tribunal, Suruhanjaya atau siasatan, identiti seseorang peserta menjadi isu atau mungkin didedahkan, mahkamah, tribunal, Suruhanjaya atau siasatan itu hendaklah, melainkan jika mahkamah, tribunal, Suruhanjaya atau siasatan itu mendapati bahawa kepentingan keadilan menghendaki selainnya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_20__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_20__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menjalankan bahagian prosiding itu yang berkaitan dengan identiti peserta itu secara tertutup; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_20__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_20__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membuat apa-apa perintah yang berhubungan dengan penyekatan penerbitan keterangan yang diberikan di hadapan mahkamah, tribunal, Suruhanjaya atau siasatan itu sebagaimana yang, pada pendapatnya, akan memastikan bahawa identiti peserta itu tidak didedahkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_20__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang melanggar perenggan (1)(b) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi sepuluh tahun atau kedua-duanya. Pembayaran di bawah Program tidak boleh dirampas"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun mana-mana undang-undang bertulis yang berlawanan, apa-apa pembayaran yang dibuat kepada seseorang peserta di bawah Program tidak boleh dirampas, dilucuthakkan atau dibekukan dan tidak boleh digunakan bagi apa-apa maksud lain kecuali sebagaimana yang diperuntukkan di bawah akta ini. Perkiraan khas"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada apa-apa jua dalam akta ini boleh menghalang Ketua Pengarah daripada membuat perkiraan khas dengan seseorang yang di bawahnya seseorang peserta boleh mendapat faedah di bawah suatu kontrak atau perkiraan tanpa mendedahkan identiti asal peserta itu. Pengecualian semakan kehakiman"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_23__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_23__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_23__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada semakan kehakiman boleh dibuat dalam mana- mana mahkamah mengenai apa-apa perbuatan yang dilakukan atau apa-apa keputusan yang dibuat oleh Menteri, Peguam negara atau Ketua Pengarah di bawah akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_23__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_23__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_23__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_23__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_23__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam seksyen ini, “semakan kehakiman” termasuklah prosiding yang dimulakan dengan cara—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_23__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "permohonan bagi apa-apa perintah prerogatif bagi mandamus, larangan dan certiorari;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_23__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "permohonan bagi suatu perisytiharan atau injunksi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_23__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa writ habeas corpus; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_23__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa guaman atau tindakan lain yang berhubungan dengan atau berbangkit daripada apa-apa pembuatan yang dilakukan atau apa-apa keputusan yang dibuat menurut apa-apa kuasa yang diberikan kepada Menteri, Peguam negara atau Ketua Pengarah oleh mana-mana peruntukan akta ini. Perlindungan terhadap guaman"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_24__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_24__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_24__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu tindakan tidak boleh diambil dan pendakwaan tidak boleh dibawa, dimulakan atau dikekalkan terhadap mana-mana orang dalam mana-mana mahkamah bagi apa-apa jua yang dilakukan atau ditinggalkan daripada dilakukan di bawah akta ini—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_24__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan suci hati;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_24__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan kepercayaan yang munasabah bahawa ia adalah perlu bagi maksud yang diniatkan untuk dicapai dengannya; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_24__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk melaksanakan peruntukan akta ini. Pemulaan pendakwaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada pendakwaan berkenaan dengan apa-apa kesalahan di bawah akta ini boleh dimulakan kecuali oleh atau dengan keizinan bertulis Pendakwa Raya. Kesalahan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_26__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_26__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_26__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_26__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_26__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_26__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kecuali sebagaimana yang diperuntukkan dalam akta ini, tiada seorang pun boleh mendedahkan apa-apa maklumat—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_26__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_26__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tentang identiti atau tempat seseorang saksi, peserta atau bekas peserta; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_26__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_26__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang menjejaskan keselamatan saksi, peserta atau bekas peserta itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_26__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_26__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_26__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_26__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang yang menjadi peserta atau pernah menjadi peserta, atau seseorang saksi yang telah dipertimbangkan untuk disyorkan bagi pemasukan ke dalam Program, tidak boleh mendedahkan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_26__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_26__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "hakikat bahawa dia ialah peserta atau pernah menjadi peserta atau telah dipertimbangkan untuk disyorkan bagi pemasukan ke dalam Program;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_26__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_26__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "maklumat mengenai cara Program dikendalikan; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_26__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_26__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "maklumat tentang mana-mana pegawai yang terlibat atau pernah terlibat dalam Program, melainkan jika orang itu telah dibenarkan secara bertulis oleh Ketua Pengarah untuk membuat pendedahan sedemikian."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_26__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_26__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_26__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang melanggar—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_26__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_26__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perenggan (1)(a) atau (b) melakukan suatu kesalahan dan hendaklah, apabila disabitkan, dihukum dengan pemenjaraan selama tempoh tidak melebihi dua puluh tahun; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_26__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_26__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perenggan (2)(a), (b) atau (c) melakukan suatu kesalahan dan hendaklah, apabila disabitkan, dihukum dengan pemenjaraan selama tempoh tidak melebihi sepuluh tahun. Pensubahatan dan percubaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang bersubahat atau cuba melakukan apa-apa kesalahan yang boleh dihukum di bawah akta ini boleh dihukum dengan hukuman yang diperuntukkan bagi kesalahan itu. Kuasa pegawai polis tidak dikurangkan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada apa-apa jua yang terkandung dalam akta ini boleh mengurangkan kuasa pegawai polis untuk memberikan perlindungan dan bantuan kepada seseorang saksi di bawah akta Polis 1967 [Akta 344]. Laporan kepada Menteri"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_29__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_29__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_29__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah hendaklah, tidak lewat daripada 31 Mac tahun yang berikutnya, mengemukakan suatu laporan tahunan yang berhubungan dengan pengendalian am, pelaksanaan dan keberkesanan Program kepada Menteri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_29__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah boleh, bilamana didapatinya perlu untuk berbuat demikian, mengemukakan laporan khas kepada Menteri mengenai apa-apa perkara berhubung dengan Program. Peraturan-peraturan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh membuat apa-apa peraturan-peraturan yang suai manfaat atau perlu bagi melaksanakan maksud akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "akta ini bolehlah dinamakan akta Perlindungan Saksi 2008."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Tafsiran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_I__cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_I__cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_I__cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_I__cl_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_I__cl_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "dalam akta ini, melainkan jika konteksnya menghendaki makna yang lain–"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "“agensi penguatkuasaan” termasuklah suatu badan atau agensi yang bertanggungjawab bagi penguatkuasaan undang-undang yang berhubungan dengan pencegahan, pengesanan dan penyiasatan mana-mana kesalahan; “daftar” ertinya daftar Peserta yang disenggarakan di bawah seksyen 11; “Ketua Pengarah” ertinya Ketua Pengarah Perlindungan Saksi yang dilantik di bawah subseksyen 4(1); “Menteri” ertinya Menteri yang dipertanggungkan dengan tanggungjawab bagi Program Perlindungan Saksi; “Pendaftar” ertinya Pendaftar Perlindungan Saksi yang dilantik di bawah subseksyen 11(1); “peserta” ertinya seorang saksi yang telah dimasukkan ke dalam Program; “pihak berkuasa awam” ertinya pihak berkuasa awam sebagaimana yang ditakrifkan dalam Fasal (2) Perkara 160 Perlembagaan Persekutuan; “Program” ertinya Program Perlindungan Saksi yang diwujudkan di bawah akta ini; “prosiding jenayah” termasuklah apa-apa perbicaraan atau siasatan jenayah di hadapan mahkamah atau tribunal yang mempunyai bidang kuasa jenayah, inkues atau siasatan mengenai kematian dan penyiasatan polis di bawah Kanun Tatacara Jenayah [Akta 593], dan apa-apa penyiasatan oleh mana-mana pihak berkuasa lain di bawah mana-mana undang-undang bertulis; “saksi” ertinya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_I__cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seseorang yang telah memberikan atau yang telah bersetuju untuk memberikan keterangan bagi pihak Kerajaan dalam sesuatu prosiding jenayah;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_I__cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seseorang yang telah memberikan atau yang telah bersetuju untuk memberikan, selain yang disebut dalam perenggan (a), berhubung dengan pelakuan atau kemungkinan pelakuan sesuatu kesalahan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_I__cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seseorang yang telah memberikan apa-apa maklumat, pernyataan atau bantuan kepada seseorang pegawai awam atau pegawai pihak berkuasa awam berhubung dengan sesuatu kesalahan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_I__cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seseorang yang, bagi apa-apa sebab lain, mungkin menghendaki perlindungan atau bantuan di bawah Program; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_I__cl_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/31/msa@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seseorang yang, kerana hubungan atau perkaitannya dengan mana-mana orang yang disebut dalam perenggan (a) hingga (d), mungkin menghendaki perlindungan atau bantuan di bawah Program."
+      }
+    }
+  ]
+}

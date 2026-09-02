@@ -30,7 +30,11 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (b) dengan memasukkan selepas takrif "kenderaan" takrif yang berikut: ' "kenderaan barangan" hendaklah mempunyai erti yang sama seperti yang diberi kepada ungkapan tersebut dalam Akta Lembaga Pelesenan Kenderaan Perdagangan 1987;';
 
-(c) dengan menggantikan takrif "Ketua Pegawai Polis" dengan takrif yang berikut: ' "Ketua Pegawai Polis" ertinya mana-mana pegawai polis yang diberi kuasa oleh Ketua Polis Negara untuk mengawal Polis DiRaja Malaysia berkenaan dengan mana-mana kawasan Akta 344. atau negeri di bawah seksyen 6 Akta Polis 1967 dan dinamakan sedemikian oleh Ketua Polis Negara;';
+(c) dengan menggantikan takrif "Ketua Pegawai Polis" dengan takrif yang berikut: ' "Ketua Pegawai Polis" ertinya mana-mana pegawai polis yang diberi kuasa oleh Ketua Polis Negara untuk mengawal Polis DiRaja Malaysia berkenaan dengan mana-mana kawasan
+
+<!-- marginal: Akta 344. -->
+
+atau negeri di bawah seksyen 6 Akta Polis 1967 dan dinamakan sedemikian oleh Ketua Polis Negara;';
 
 (d) dengan memasukkan selepas takrif "perakuan pendaftaran" takrif yang berikut: ' "Perbadanan Putrajaya" ertinya Perbadanan Putrajaya yang ditubuhkan di bawah seksyen 3 Akta Perbadanan Putrajaya 1995;'; dan
 
@@ -124,7 +128,9 @@ dan menyebabkan kematian atau kecederaan kepada mana- mana orang adalah melakuka
 
 (a) sehingga mahkamah membuat keputusan muktamad terhadap pertuduhan itu; dan
 
-(b) seolah-olah penggantungan itu
+(b) seolah-olah penggantungan
+
+<!-- marginal: itu -->
 
 <!-- marginal: adalah -->
 
@@ -196,7 +202,11 @@ atau kali kemudian, denda tidak kurang daripada dua ribu ringgit dan tidak lebih
 
 (ii) dengan memasukkan selepas perkataan "Lembaga Lebuhraya Malaysia" perkataan "atau syarikat konsesi yang diberi kuasa sewajarnya secara bertulis oleh Ketua Pengarah Lembaga Lebuhraya Malaysia";
 
-(b) dalam subseksyen (3)— (i) dengan memasukkan selepas perkataan "Dato Bandar" perkataan ", Perbadanan Putrajaya"; dan (ii) dengan memasukkan selepas perkataan "Lembaga Lebuhraya Malaysia" perkataan "atau syarikat konsesi yang diberi kuasa sewajarnya secara bertulis oleh Ketua Pengarah Lembaga Lebuhraya Malaysia";
+(b) dalam subseksyen (3)—
+
+(i) dengan memasukkan selepas perkataan "Dato Bandar" perkataan ", Perbadanan Putrajaya"; dan
+
+(ii) dengan memasukkan selepas perkataan "Lembaga Lebuhraya Malaysia" perkataan "atau syarikat konsesi yang diberi kuasa sewajarnya secara bertulis oleh Ketua Pengarah Lembaga Lebuhraya Malaysia";
 
 (c) dengan menggantikan subseksyen (4) dengan subseksyen yang berikut:
 
@@ -278,9 +288,7 @@ atau kali kemudian, denda tidak kurang daripada dua ribu ringgit dan tidak lebih
 
 25. Akta ibu dipinda dengan memasukkan selepas seksyen 116 seksyen yang berikut:
 
-"Bidang
-
-116A. Walau apa pun apa-apa jua yang terkandung dalam kuasa mana-mana undang-undang bertulis yang bertentangan, Majistret mahkamah Majistret Kelas Satu hendaklah mempunyai Kelas Satu. bidang kuasa untuk membicarakan apa-apa kesalahan di bawah Akta ini dan boleh menjatuhkan hukuman penuh bagi kesalahan itu.".
+"Bidang 116A. Walau apa pun apa-apa jua yang terkandung dalam kuasa mana-mana undang-undang bertulis yang bertentangan, Majistret mahkamah Majistret Kelas Satu hendaklah mempunyai Kelas Satu. bidang kuasa untuk membicarakan apa-apa kesalahan di bawah Akta ini dan boleh menjatuhkan hukuman penuh bagi kesalahan itu.".
 
 ### Pindaan seksyen 117
 

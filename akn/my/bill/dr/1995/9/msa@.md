@@ -14,7 +14,7 @@ Suatu Akta untuk meminda Akta Koperasi 1993. [ ]
 
 oleh Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan Dewan Negara dan Dewan Rakyat yang bersidang dalam Parlimen, dan dengan kuasa daripadanya, seperti berikut:
 
-Tajuk
+<!-- marginal: Tajuk -->
 
 1. Akta ini bolehlah dinamakan Akta Koperasi (Pindaan)
 
@@ -28,19 +28,25 @@ Tajuk
 
 <!-- marginal: seksyen 3. -->
 
-Akta ini, adalah dipinda dengan memasukkan selepas Akta 502. perkataan "71," dalam subseksyen 3(2) perkataan "71A, 7lB, 71c,".
+Akta ini, adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: Akta 502. -->
+
+perkataan "71," dalam subseksyen 3(2) perkataan "71A, 7lB, 71c,".
 
 <!-- marginal: Seksyen -->
 
-3. Akta ibu adalah dipinda dengan memasukkan selepas baru 18A. seksyen 18 seksyen yang berikut: "Kuasa
+3. Akta ibu adalah dipinda dengan memasukkan selepas
 
-18A. (1) Ketua Pendaftar boleh mengarahkan Ketua mana-mana koperasi berdaftar memanggil suatu Pendaftar mengarah- mesyuarat agung, dalam tempoh yang akan kan dinyatakan olehnya yang tidak kurang daripada mesyuarat agung tiga bulan dari tarikh pemberitahuan yang dipanggil diberikan olehnya, bagi maksud meminda undang- untuk pindaan undang kecilnya jika Ketua Pendaftar berpuas undang- hati bahawa— undang kecil.
+<!-- marginal: baru 18A. -->
+
+seksyen 18 seksyen yang berikut: "Kuasa 18A. (1) Ketua Pendaftar boleh mengarahkan Ketua mana-mana koperasi berdaftar memanggil suatu Pendaftar mengarah- mesyuarat agung, dalam tempoh yang akan kan dinyatakan olehnya yang tidak kurang daripada mesyuarat agung tiga bulan dari tarikh pemberitahuan yang dipanggil diberikan olehnya, bagi maksud meminda undang- untuk pindaan undang kecilnya jika Ketua Pendaftar berpuas undang- hati bahawa— undang kecil.
 
 (a) mana-mana undang-undang kecil sesuatu koperasi berdaftar mempunyai
 
 <!-- page 2 -->
 
-2
+<!-- marginal: 2 -->
 
 ## RANG UNDANG-UNDANG
 
@@ -50,11 +56,51 @@ tafsiran yang kabur atau yang meragukan dan berkemungkinan boleh mengelirukan at
 
 (2) Jika tiada mesyuarat agung dipanggil dalam masa yang dinyatakan dalam subseksyen (1), Ketua Pendaftar boleh meminda undang-undang kecil koperasi berdaftar itu atas usulnya sendiri dan apa-apa pindaan yang dibuat hendaklah disifatkan sebagai pindaan berdaftar di bawah seksyen 18.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-4. Akta ibu adalah dipinda dengan menggantikan seksyen 59. perkataan "saham perdagangan" dalam perenggan 59(4)(d) teks bahasa kebangsaan dengan perkataan "stok perniagaan".
+4. Akta ibu adalah dipinda dengan menggantikan
 
-5. Akta ibu adalah dipinda dengan memasukkan selepas baru 71A, seksyen 71 seksyen yang berikut: 7lB dan 71c. "Pem- 71A. (1) Walau apa pun peruntukan-peruntukan bubaran subseksyen 71(1), jika berkenaan dengan sesuatu dalam hal keadaan koperasi berdaftar, selain daripada sesuatu tertentu. koperasi berdaftar yang dalam penyiasatan atau P.U. (A) yang dikawal atau diurus di bawah Peraturan- 237/86. Peraturan Perlu (Perlindungan kepada Pendeposit) 1986, keanggotaan koperasi berdaftar itu adalah sekian bilangan yang menjadikan pematuhan subseksyen 71(1) tak semunasabahnya praktik dan jika Ketua Pendaftar telah menerima suatu permohonan daripada—
+<!-- marginal: seksyen 59. -->
+
+perkataan "saham perdagangan" dalam perenggan 59(4)(d) teks bahasa kebangsaan dengan perkataan "stok perniagaan".
+
+<!-- marginal: Seksyen -->
+
+5. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru 71A, -->
+
+seksyen 71 seksyen yang berikut:
+
+<!-- marginal: 7lB dan -->
+
+<!-- marginal: 71c. -->
+
+<!-- marginal: "Pem- -->
+
+71A. (1) Walau apa pun peruntukan-peruntukan
+
+<!-- marginal: bubaran -->
+
+subseksyen 71(1), jika berkenaan dengan sesuatu
+
+<!-- marginal: dalam hal -->
+
+<!-- marginal: keadaan -->
+
+koperasi berdaftar, selain daripada sesuatu
+
+<!-- marginal: tertentu. -->
+
+koperasi berdaftar yang dalam penyiasatan atau
+
+<!-- marginal: P.U. (A) -->
+
+yang dikawal atau diurus di bawah Peraturan-
+
+<!-- marginal: 237/86. -->
+
+Peraturan Perlu (Perlindungan kepada Pendeposit) 1986, keanggotaan koperasi berdaftar itu adalah sekian bilangan yang menjadikan pematuhan subseksyen 71(1) tak semunasabahnya praktik dan jika Ketua Pendaftar telah menerima suatu permohonan daripada—
 
 (a) tidak kurang daripada satu persepuluh daripada anggota-anggota atau sekian bilangan wakil yang mewakili tidak kurang daripada satu persepuluh
 
@@ -64,7 +110,11 @@ anggota-anggota koperasi berdaftar itu; atau
 
 (b) Lembaga koperasi berdaftar itu,
 
-bagi suatu perintah supaya koperasi berdaftar itu dibubarkan dengan hasrat untuk menyusunkannya semula sebagai suatu syarikat Akta 125 yang diperbadankan di bawah Akta Syarikat 1965, Ketua Pendaftar hendaklah, tertakluk kepada subseksyen (3), memberitahu atau menyebabkan diberitahu semua anggota koperasi berdaftar mengenai perkara itu.
+bagi suatu perintah supaya koperasi berdaftar itu dibubarkan dengan hasrat untuk menyusunkannya semula sebagai suatu syarikat
+
+<!-- marginal: Akta 125 -->
+
+yang diperbadankan di bawah Akta Syarikat 1965, Ketua Pendaftar hendaklah, tertakluk kepada subseksyen (3), memberitahu atau menyebabkan diberitahu semua anggota koperasi berdaftar mengenai perkara itu.
 
 (2) Jika Ketua Pendaftar telah menerima lebih daripada satu permohonan di bawah subseksyen
 
@@ -146,15 +196,11 @@ Dengan syarat bahawa perintah pembatalan itu tidaklah boleh berkuatkuasa atau be
 
 (11) Tanpa menjejaskan subseksyen (10), selain daripada penyampaian pemberitahuan melalui pos biasa kepada anggota-anggota koperasi berdaftar itu, Ketua Pendaftar hendaklah juga memberitahu atau menyebabkan diberitahu kepada anggota- anggota mengenai semua perkara yang disebut dalam subseksyen (1) dan (6) dengan menyiarkan dalam sekurang-kurangnya satu akhbar tempatan utama dalam bahasa kebangsaan dan dalam bahasa Inggeris dan jika berkenaan, dengan memberi perhatian kepada keanggotaan koperasi itu, dalam akhbar tempatan vernakular yang berkenaan.
 
-(12) Penyiaran pemberitahuan di bawah subseksyen (11) hendaklah memperuntukkan perkara-perkara yang dinyatakan dalam subseksyen
-
-(6) dan penyiaran itu hendaklah disifatkan sebagai notis yang mencukupi kepada anggota-anggota koperasi berdaftar itu.
+(12) Penyiaran pemberitahuan di bawah subseksyen (11) hendaklah memperuntukkan perkara-perkara yang dinyatakan dalam subseksyen (6) dan penyiaran itu hendaklah disifatkan sebagai notis yang mencukupi kepada anggota-anggota koperasi berdaftar itu.
 
 (13) Subseksyen 71(2), (3), (4), (5) dan (6) hendaklah terpakai bagi seksyen ini tetapi dengan pengubahsuaian bahawa segala rujukan di dalamnya kepada subseksyen 71 (1) hendaklah diertikan sebagai rujukan kepada subseksyen 7lA(1).
 
-(14) Bagi maksud seksyen ini— "pemohon", berhubungan dengan permohonan yang dibuat oleh orang yang disebut dalam perenggan
-
-(l)(a), ertinya kesemua orang yang memenuhi kehendak satu persepuluh secara bersesama; "syarikat pengganti" ertinya syarikat, sama ada yang akan diperbadankan atau sedia ada, yang disebut dalam subseksyen (1).
+(14) Bagi maksud seksyen ini— "pemohon", berhubungan dengan permohonan yang dibuat oleh orang yang disebut dalam perenggan (l)(a), ertinya kesemua orang yang memenuhi kehendak satu persepuluh secara bersesama; "syarikat pengganti" ertinya syarikat, sama ada yang akan diperbadankan atau sedia ada, yang disebut dalam subseksyen (1).
 
 (15) Jika syarikat pengganti adalah suatu syarikat yang sekuriti atau kelas sekuritinya ada disebut harga di pasaran saham sesuatu bursa saham, termasuk Pasaran Saham Bumiputra, dan atas permohonan mana-mana pemohon di bawah seksyen ini, Menteri, bertindak atas syor Ketua Pendaftar, boleh mengecualikan pemohon
 
@@ -164,7 +210,27 @@ daripada kehendak untuk mengemukakan apa- apa butir di bawah perenggan 6(d), (f)
 
 (i) tertakluk kepada apa-apa terma dan syarat sebagaimana yang difikirkannya patut dikenakan termasuklah jaminan atau jaminan-jaminan sedemikian yang sesuai bagi melindungi anggota- anggota koperasi itu.
 
-Peruntukan 7lB. Jika menurut subseksyen 7lA(7 ) Ketua bagi Pendaftar membuat suatu perintah bagi anggota- anggota pembatalan pendaftaran sesuatu koperasi yang tidak berdaftar, dia hendaklah, berhubungan dengan bersetuju. mana-mana anggota yang tidak bersetuju dengan pembubaran dan penyusunan semula koperasi itu sebagai suatu syarikat, membuat suatu perintah untuk mengagihkan kepada anggota itu sekian jumlah wang yang merupakan nilai perkadaran aset koperasi itu yang selainnya akan diagihkan kepadanya di bawah perenggan 75(1)(p) :
+<!-- marginal: Peruntukan -->
+
+7lB. Jika menurut subseksyen 7lA(7 ) Ketua
+
+<!-- marginal: bagi -->
+
+Pendaftar membuat suatu perintah bagi
+
+<!-- marginal: anggota- -->
+
+<!-- marginal: anggota -->
+
+pembatalan pendaftaran sesuatu koperasi
+
+<!-- marginal: yang tidak -->
+
+berdaftar, dia hendaklah, berhubungan dengan
+
+<!-- marginal: bersetuju. -->
+
+mana-mana anggota yang tidak bersetuju dengan pembubaran dan penyusunan semula koperasi itu sebagai suatu syarikat, membuat suatu perintah untuk mengagihkan kepada anggota itu sekian jumlah wang yang merupakan nilai perkadaran aset koperasi itu yang selainnya akan diagihkan kepadanya di bawah perenggan 75(1)(p) :
 
 Dengan syarat bahawa—
 
@@ -172,7 +238,23 @@ Dengan syarat bahawa—
 
 (b) apa-apa ketetapan bagi pertikaian yang sedang dalam rayuan atau sebaliknya selepas tarikh perletakhakan itu yang disebut dalam subseksyen 71c(l ) hendaklah menjadi liabiliti syarikat pengganti.
 
-Pemindahan 71c. (1) Berkenaan dengan sesuatu koperasi aset koperasi berdaftar yang disebut dalam subseksyen 71A(7), berdaflar kepada Ketua Pendaftar boleh , selepas membuat syarikat. pengagihan di bawah seksyen 71B, jika ada, dan selepas berunding dengan koperasi berdaftar itu, melalui perintah yang disiarkan dalam Warta,
+<!-- marginal: Pemindahan -->
+
+71c. (1) Berkenaan dengan sesuatu koperasi
+
+<!-- marginal: aset koperasi -->
+
+berdaftar yang disebut dalam subseksyen 71A(7),
+
+<!-- marginal: berdaflar -->
+
+<!-- marginal: kepada -->
+
+Ketua Pendaftar boleh , selepas membuat
+
+<!-- marginal: syarikat. -->
+
+pengagihan di bawah seksyen 71B, jika ada, dan selepas berunding dengan koperasi berdaftar itu, melalui perintah yang disiarkan dalam Warta,
 
 <!-- page 10 -->
 
@@ -192,17 +274,35 @@ subseksyen (1) boleh, pada dan selepas tarikh perletakhakan itu, diteruskan oleh
 
 (6) Jika menurut kuasa subseksyen (1), apa- apa aset berpindah kepada dan terletakhak pada syarikat itu, peruntukan-peruntukan Bahagian Tiga Puluh Kanun Tanah Negara yang terpakai bagi Akta 56/65 penerima pemindahan selain daripada suatu Pihak Berkuasa Negeri atau Kerajaan sesuatu Negeri hendaklah, bagi maksud membuat pendaftaran bagi perletakhakan itu, terpakai bagi syarikat itu.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-6. Akta ibu adalah dipinda dengan memasukkan selepas seksyen 73. perkataan "seksyen 71" dalam seksyen 73 perkataan ", 71A".
+6. Akta ibu adalah dipinda dengan memasukkan selepas
 
-Pindaan
+<!-- marginal: seksyen 73. -->
 
-7. Akta ibu adalah dipinda dengan memasukkan selepas seksyen 74. perkataan "seksyen 71" dalam seksyen 74 perkataan ", 7lA".
+perkataan "seksyen 71" dalam seksyen 73 perkataan ", 71A".
 
-8. Akta ibu adalah dipinda dengan memasukkan selepas Pindaan seksyen 81. perkataan "di bawah seksyen" dalam seksyen 81 perkataan "7lB atau".
+<!-- marginal: Pindaan -->
 
-9. Subseksyen 86(2) Akta ibu adalah dipinda— Pindaan seksyen 86.
+7. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: seksyen 74. -->
+
+perkataan "seksyen 71" dalam seksyen 74 perkataan ", 7lA".
+
+8. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: Pindaan -->
+
+<!-- marginal: seksyen 81. -->
+
+perkataan "di bawah seksyen" dalam seksyen 81 perkataan "7lB atau".
+
+9. Subseksyen 86(2) Akta ibu adalah dipinda—
+
+<!-- marginal: Pindaan -->
+
+<!-- marginal: seksyen 86. -->
 
 (a) dengan menggantikan noktah di hujung perenggan
 
@@ -212,9 +312,13 @@ Pindaan
 
 "(q) membuat peruntukan bagi perlaksanaan yang lebih baik akan Akta ini dan khususnya peruntukan berhubungan dengan seksyen 71A, 7lB dan 71c.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-10. Akta ibu adalah dipinda dengan menggantikan perenggan seksyen 91. 9l(l)(g) dengan perenggan yang berikut:
+10. Akta ibu adalah dipinda dengan menggantikan perenggan
+
+<!-- marginal: seksyen 91. -->
+
+9l(l)(g) dengan perenggan yang berikut:
 
 "(g) sesuatu koperasi berdaftar atau mana-mana orang yang melakukan atau menyebabkan dilakukan apa-apa tindakan atau perkara yang dilarang oleh, atau tidak mematuhi kehendak- kehendak Akta ini.".
 

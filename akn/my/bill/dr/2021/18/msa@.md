@@ -8,13 +8,13 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## TRIBUNAL BAGI ANTIGANGGUAN SEKSUAL
 
@@ -34,7 +34,11 @@ Bidang kuasa Tribunal
 
 Penjalanan prosiding
 
-10. Permulaan prosiding 11. Notis aduan gangguan seksual 12. Persidangan Tribunal
+10. Permulaan prosiding
+
+11. Notis aduan gangguan seksual
+
+12. Persidangan Tribunal
 
 <!-- page 5 -->
 
@@ -64,7 +68,7 @@ Award dan perintah Tribunal
 
 23. Mencabar award atas alasan ketidakteraturan yang serius
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PENTADBIR ANTIGANGGUAN SEKSUAL
 
@@ -72,7 +76,7 @@ Award dan perintah Tribunal
 
 25. Fungsi dan kuasa Pentadbir
 
-## Bahagian IV
+## BAHAGIAN IV
 
 AM
 
@@ -88,7 +92,7 @@ Suatu Akta untuk mengadakan peruntukan bagi suatu hak tebus rugi bagi mana-mana 
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -132,7 +136,7 @@ dan termasuklah apa-apa arahan tentang penjalanan prosiding itu, tetapi tidak te
 
 “Tribunal” ertinya Tribunal bagi Antigangguan Seksual yang ditubuhkan di bawah seksyen 3.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## TRIBUNAL BAGI ANTIGANGGUAN SEKSUAL
 
@@ -412,7 +416,7 @@ pernyataan permohonan maaf kepada pengadu dalam apa-apa cara sebagaimana yang di
 
 <!-- page 19 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PENTADBIR ANTIGANGGUAN SEKSUAL
 
@@ -434,7 +438,7 @@ pernyataan permohonan maaf kepada pengadu dalam apa-apa cara sebagaimana yang di
 
 (2) Pentadbir hendaklah mempunyai segala kuasa sebagaimana yang perlu bagi, atau berkaitan dengan, atau yang bersampingan dengan, pelaksanaan fungsinya di bawah Akta ini.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 AM
 
@@ -462,7 +466,7 @@ AM
 
 Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan peruntukan bagi suatu hak tebus rugi bagi mana-mana orang yang diganggu secara seksual, penubuhan Tribunal bagi Antigangguan Seksual, menggalakkan kesedaran tentang gangguan seksual, dan untuk mengadakan peruntukan bagi perkara yang berhubungan dengannya.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I Akta yang dicadangkan memperkatakan tentang perkara permulaan.
 
@@ -470,7 +474,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan 
 
 4. Fasal 2 mengandungi takrif perkataan dan ungkapan tertentu yang digunakan dalam Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 5. Bahagian II Akta yang dicadangkan mengandungi empat bab yang berhubungan dengan penubuhan Tribunal bagi Antigangguan Seksual (“Tribunal”), bidang kuasa Tribunal, penjalanan prosiding Tribunal dan award dan perintah Tribunal.
 
@@ -574,7 +578,7 @@ Subfasal 20(3) bertujuan untuk memperuntukkan bahawa Tribunal boleh menolak apa-
 
 30. Fasal 23 bertujuan untuk memperuntukkan bahawa mana-mana pihak kepada prosiding Tribunal boleh memohon kepada Mahkamah Tinggi untuk mencabar suatu award dalam prosiding itu hanya atas alasan ketidakteraturan yang serius yang menjejaskan award itu. Jika terdapat ketidakteraturan yang serius yang menjejaskan award, Mahkamah Tinggi boleh mengembalikan award itu secara keseluruhan atau sebahagian kepada Tribunal untuk pertimbangan semula atau mengetepikan award itu secara keseluruhan atau sebahagian.
 
-## Bahagian III
+## BAHAGIAN III
 
 31. Bahagian III Akta yang dicadangkan mengandungi peruntukan yang berhubungan dengan Pentadbir Antigangguan Seksual.
 
@@ -584,7 +588,7 @@ Subfasal 20(3) bertujuan untuk memperuntukkan bahawa Tribunal boleh menolak apa-
 
 33. Fasal 25 bertujuan untuk mengadakan peruntukan bagi fungsi dan kuasa Pentadbir Antigangguan Seksual.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 34. Bahagian IV Akta yang dicadangkan mengandungi peruntukan am.
 

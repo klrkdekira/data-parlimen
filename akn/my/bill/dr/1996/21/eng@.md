@@ -46,27 +46,41 @@ referred to as the "principal Act", is amended in section
 
 ' "probationary driving licence" means a licence for a probationary period of two years which is granted to any person who has passed the prescribed tests of competence;'.
 
-Amendment
+<!-- marginal: Amendment -->
 
-3. The principal Act is amended by substituting for section of section 8. 8 the following section:
+3. The principal Act is amended by substituting for section
+
+<!-- marginal: of section 8. -->
+
+8 the following section:
 
 "Keeping 8. (1) A licensed registrar assigned to a of register. registration area shall keep and maintain a register of all motor vehicles registered under this Act in the registration area to which he is assigned.
 
 (2) Such register shall be in such form and contain such information, details and particulars as the Director General may from time to time direct.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. The principal Act is amended in section 9 by of section 9. substituting for the words "Every Director" the words "A licensed registrar".
+4. The principal Act is amended in section 9 by
 
-Amendment
+<!-- marginal: of section 9. -->
 
-5. The principal Act is amended in section 10 by of section substituting for the words "the Director of a registration
+substituting for the words "Every Director" the words "A licensed registrar".
+
+<!-- marginal: Amendment -->
+
+5. The principal Act is amended in section 10 by
+
+<!-- marginal: of section -->
+
+substituting for the words "the Director of a registration
 
 10. area" the words "a licensed registrar".
 
-Amendment
+<!-- marginal: Amendment -->
 
-6. Section 11 of the principal Act is amended— of section
+6. Section 11 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 11.
 
@@ -100,7 +114,7 @@ consequential amendments to the register and registration certificate."; and
 
 (c) in subsections (3), (4) and (5) by substituting for the word "Director" wherever appearing the words "licensed registrar".
 
-New section
+<!-- marginal: New section -->
 
 7. The principal Act is amended by inserting after section
 
@@ -114,9 +128,13 @@ New section
 
 (b) any combination of letters and numbers.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-8. Section 12 of the principal Act is amended— of section 12
+8. Section 12 of the principal Act is amended—
+
+<!-- marginal: of section -->
+
+<!-- marginal: 12 -->
 
 (a) in subsections (1) and (5) by substituting for the words "or a Director" the words ", a Director or a licensed registrar";
 
@@ -124,9 +142,13 @@ Amendment
 
 (c) in subsections (3) and (4) by substituting for the word "Director" wherever appearing the words "licensed registrar".
 
-Amendment
+<!-- marginal: Amendment -->
 
-9. Section 13 of the principal Act is amended by of section substituting for the words "Director of a registration area"
+9. Section 13 of the principal Act is amended by
+
+<!-- marginal: of section -->
+
+substituting for the words "Director of a registration area"
 
 13. and "Director" wherever appearing the words "licensed registrar".
 
@@ -244,9 +266,11 @@ the words "licensed registrar".
 
 "(c) for a period of twelve months from the date of revocation of the driving licence under section 35, 35A, 41, 42, 43, 44, 45, 45A, 45B or 45c.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-19. Section 29 of the principal Act is amended— of section
+19. Section 29 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 29.
 
@@ -260,7 +284,11 @@ Amendment
 
 (b) by inserting after subsection (1) the following subsection:
 
-"(1A) Notwithstanding the provision of this section, no driving licence shall be granted to any applicant unless he satisfies the Director that on the date on which he makes the application he has no outstanding matter or case with the Road Transport Department or the Police relating to any contravention of or offence against this Act or the Commercial Act 334. Vehicle Licensing Board Act 1987."; and
+"(1A) Notwithstanding the provision of this section, no driving licence shall be granted to any applicant unless he satisfies the Director that on the date on which he makes the application he has no outstanding matter or case with the Road Transport Department or the Police relating to any contravention of or offence against this Act or the Commercial
+
+<!-- marginal: Act 334. -->
+
+Vehicle Licensing Board Act 1987."; and
 
 (c) by inserting after subsection (4) the following subsections:
 
@@ -298,13 +326,39 @@ Amendment
 
 <!-- page 8 -->
 
-New section
+<!-- marginal: New section -->
 
 21. The principal Act is amended by inserting after section
 
 35A. 35 the following section:
 
-"Power of 35A. (1) Notwithstanding anything contained Director in this Act, the Director General shall revoke General to a probationary driving licence of a person if revoke a proba- within a period of twenty-four months from tionary the date of the grant of the probationary driving driving licence. licence such person's record, as kept by the Director General, as a driver of a motor vehicle, or his conduct or habits as such driver, establishes that it would not be in the interests of public safety for him to hold a valid driving licence or that such person is not competent to drive a motor vehicle.
+<!-- marginal: "Power of -->
+
+35A. (1) Notwithstanding anything contained
+
+<!-- marginal: Director -->
+
+in this Act, the Director General shall revoke
+
+<!-- marginal: General to -->
+
+a probationary driving licence of a person if
+
+<!-- marginal: revoke a -->
+
+<!-- marginal: proba- -->
+
+within a period of twenty-four months from
+
+<!-- marginal: tionary -->
+
+the date of the grant of the probationary driving
+
+<!-- marginal: driving -->
+
+<!-- marginal: licence. -->
+
+licence such person's record, as kept by the Director General, as a driver of a motor vehicle, or his conduct or habits as such driver, establishes that it would not be in the interests of public safety for him to hold a valid driving licence or that such person is not competent to drive a motor vehicle.
 
 (2) For the purpose of establishing that it would not be in the interests of public safety for a person to hold a driving licence or that such person is not competent to drive a motor vehicle, the Minister may make rules establishing a system of awarding points against a person for the commission of an offence under this Act or any rules made thereunder:
 
@@ -358,9 +412,11 @@ Provided that such rules may make provision for requiring any such person to und
 
 (ii) by inserting after the words "section 35" the words "or 35A".
 
-Amendment
+<!-- marginal: Amendment -->
 
-23. Section 38 of the principal Act is amended— of section 38.
+23. Section 38 of the principal Act is amended—
+
+<!-- marginal: of section 38. -->
 
 (a) in subsection (1)—
 
@@ -452,17 +508,23 @@ inserting after subsection (3) the following section:
 
 <!-- page 12 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-29. Section 45A of the principal Act is amended by of section inserting after subsection (3) the following subsection:
+29. Section 45A of the principal Act is amended by
+
+<!-- marginal: of section -->
+
+inserting after subsection (3) the following subsection:
 
 45A.
 
 "(4) Notwithstanding subsection (1), where a person who is a holder of a probationary driving licence is convicted under this section, the court shall thereupon revoke his driving licence.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-30. Section 45B of the principal Act is amended— of section
+30. Section 45B of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 45B.
 
@@ -474,15 +536,15 @@ Amendment
 
 (4B) Notwithstanding subsections (4) and (4A), where a person who is a holder of a probationary driving licence is convicted under this section, the court shall thereupon revoke his driving licence.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-31. Section 45c of the principal Act is amended— of section 45c.
+31. Section 45c of the principal Act is amended—
 
-(a) in subsection (6) by inserting after the words "or to both" the words "and, in the case of a second or subsequent offence, to a fine not exceeding four thousand ringgit or
+<!-- marginal: of section -->
 
-<!-- marginal: to -->
+<!-- marginal: 45c. -->
 
-imprisonment for a term not exceeding one year or to both"; and
+(a) in subsection (6) by inserting after the words "or to both" the words "and, in the case of a second or subsequent offence, to a fine not exceeding four thousand ringgit or to imprisonment for a term not exceeding one year or to both"; and
 
 <!-- page 13 -->
 
@@ -490,7 +552,9 @@ imprisonment for a term not exceeding one year or to both"; and
 
 "(6A) On a second or subsequent conviction of an offence under this section, the offender shall, unless the court for special reasons thinks fit to order otherwise and without prejudice to the power of the court to order a longer period of disqualification, be disqualified for a period of not less than twelve months from the date of conviction from holding or obtaining a driving licence.
 
-(6B) Notwithstanding subsections (6) and (6A), where a person who is a holder of a probationary driving licence is convicted under this section, the court shall thereupon revoke his driving licence.".
+(6B) Notwithstanding subsections (6) and
+
+(6A), where a person who is a holder of a probationary driving licence is convicted under this section, the court shall thereupon revoke his driving licence.".
 
 <!-- marginal: Amendment -->
 
@@ -538,15 +602,21 @@ in the definition of "breath test"—
 
 (ii) by inserting after the word "44" the words "or 45A".
 
-Amendment
+<!-- marginal: Amendment -->
 
-34. Subsections 59(3) and (6) of the principal Act is of section amended by substituting for the words "Director of
+34. Subsections 59(3) and (6) of the principal Act is
+
+<!-- marginal: of section -->
+
+amended by substituting for the words "Director of
 
 59. wherever appearing the words "licensed registrar assigned to".
 
-Amendment
+<!-- marginal: Amendment -->
 
-35. Subsection 66(1) of the principal Act is amended— of section
+35. Subsection 66(1) of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 66.
 
@@ -554,15 +624,23 @@ Amendment
 
 (b) in paragraph (y) by deleting the words "and learner's licences".
 
-Amendment
+<!-- marginal: Amendment -->
 
-36. Subsection 102(2) of the principal Act is amended of section by substituting for the word "Director" the words "licensed
+36. Subsection 102(2) of the principal Act is amended
+
+<!-- marginal: of section -->
+
+by substituting for the word "Director" the words "licensed
 
 102. registrar".
 
-Amendment
+<!-- marginal: Amendment -->
 
-37. Subsection 117(3) of the principal Act is amended of section by substituting for the words "or a Deputy Director"
+37. Subsection 117(3) of the principal Act is amended
+
+<!-- marginal: of section -->
+
+by substituting for the words "or a Deputy Director"
 
 117. and "or Deputy Director" the words ", Deputy Director or licensed registrar".
 

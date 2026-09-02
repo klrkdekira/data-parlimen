@@ -1,0 +1,2506 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-44-2010",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~sched_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~sched_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~sched_3"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Malaysian Quarantine and Inspection Services Bill 2010"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_I__cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_I__cl_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY Short title and commencement"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "MALAYSIAN QUARANTINE AND INSPECTION SERVICES Appointment of Director General and other officers"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_9"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "FUNCTIONS AND POWERS Functions of the Director General"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_8__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_8__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_8__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_8__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_8__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_8__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_8__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_8__subsec_1__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_8__subsec_1__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_8__subsec_1__para_i"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General shall have the following functions:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_8__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to enforce all relevant written laws at the entry points, quarantine stations and quarantine premises to ensure that plants, animals, carcasses, fish, agricultural produce, soils, microorganisms and food which are imported into and exported out of Malaysia comply with the health aspect of human, animals, plants and fish and food safety;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_8__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to issue permits, licences and certificates for the purpose of import and export of plants, animals, carcasses, fish, agricultural produce, soils and microorganisms;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_8__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to ensure that all plants, animals, carcasses, fish, agricultural produce, soils, microorganisms and food which are imported into and exported out of Malaysia are graded, packaged, and labelled in accordance with the relevant written laws;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_8__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to establish and manage the quarantine stations;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_8__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to participate in the inspection and certification of the premises of the exporting country together with the relevant agency or department, if necessary;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_8__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to participate with the relevant agency or department at the international level in matters relating to the quarantine and import and export of plants, animals, carcasses, fish, agricultural produce, soils, microorganisms and food, if necessary;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_8__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to give feedback and recommendation to the relevant agency or department on any matter relating to the import and export of plants, animals, carcasses, fish, agricultural produce, soils, microorganisms and food;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_8__subsec_1__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to facilitate and provide advisory services on the compliance of import and export conditions for plants, animals, carcasses, fish, agricultural produce, soils, microorganisms and food to importers, exporters and agents involved in the import and export of plants, animals, carcasses, fish, agricultural produce, soils, microorganisms and food; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_8__subsec_1__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to do such other things as are necessary for the effective implementation of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The functions under subsection (1) shall be carried out in accordance with the policy, directive and requirement as determined by the relevant agency or department. Powers of the Director General"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_9__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_9__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_9__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_9__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_9__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_9__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_9__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_9__para_i"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General shall have the following powers:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to quarantine and inspect any plant, animal, carcass, fish, agricultural produce, soil, microorganism, premises, conveyance or any other article at the entry points, quarantine stations and quarantine premises for the purpose of determining whether pest, disease or contaminant is present and to ensure compliance of any plant, animal, carcass, fish, agricultural produce, soil and microorganism with the import and export conditions as specified in the permit, licence or certificate issued under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to inspect food and enforce matters relating to food at the entry points in accordance with the Food Act 1983;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_9__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to impose and collect fees or any other charges the Director General thinks fit for the purpose of carrying out his functions under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_9__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to place any plant, animal, carcass, fish, agricultural produce, soil, and microorganism under quarantine control at a quarantine station or quarantine premises for a period of time as the Director General may determine;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_9__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to register all importers, exporters and agents involved in the import and export of plants, animals, carcasses, fish, agricultural produce, soils and microorganisms;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_9__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to issue permits, licences and certificates for the purpose of the import and export of plants, animals, carcasses, fish, agricultural produce, soils and microorganisms;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_9__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to declare any premises as quarantine premises for the purpose of the quarantine and inspection of plants, animals, carcasses, fish, agricultural produce, soils and microorganisms;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_9__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to carry out quarantine procedures on any plant, animal, carcass, fish, agricultural produce, soil, microorganism, premises, conveyance or any other article within a period of time as the Director General may determine; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_9__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to refuse entry at the entry points any plant, animal, carcass, fish, agricultural produce, soil and microorganism."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_4__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_4__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_4__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall appoint a Director General of Quarantine and Inspection and a Deputy Director General of Quarantine and Inspection and other officers from among the public officers as may be considered necessary for the purpose of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The appointment under subsection (1) shall be for such period and on such terms and conditions as may be specified in the instrument of appointment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The period of appointment of the Director General shall not extend beyond the date of his compulsory retirement from the public service, but where he attains the age of such compulsory retirement he may be reappointed as Director General by the Minister on contract for such period and on such terms and conditions as may be specified in the instrument of appointment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_4__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A certificate of appointment in the form of an authority card shall be issued to the Director General and the Deputy Director General appointed under subsection (1), and such card shall be signed by the Minister and shall be prima facie evidence of the appointment under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_4__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General shall be responsible for the direction, control and supervision of all matters relating to this Act. Appointment of enforcement officers"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_5__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_5__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_5__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_5__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to subsection (4), the Director General shall appoint such number of officers of the Department to be enforcement officers as he may consider necessary for the proper carrying out of this Act, whose ranks shall be determined by the Director General by order, for the purpose of carrying out the powers under section 9 and Part VI."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An enforcement officer appointed under subsection (1) shall be subject to the direction, control and supervision of the Director General or any other enforcement officer superior to the enforcement officer in rank, and the enforcement officer shall exercise his powers, perform his functions, and discharge his duties in compliance with such directions as may be specified orally or in writing by the Director General or any other enforcement officer superior to him in rank."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A certificate of appointment in the form of an authority card shall be issued to every enforcement officer appointed under subsection (1), and such card shall be signed by the Director General and shall be prima facie evidence of the appointment under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_5__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Whenever such enforcement officer exercises any of the powers under this Act, he shall, on demand, produce to the person against whom the power is being exercised the authority card issued to him under subsection (3)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_5__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister charged with the responsibility for health may appoint in writing any enforcement officer appointed under subsection (1) to carry out the powers under paragraph 9(b)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_5__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to the generality of subsection (2), the enforcement officer referred to in subsection (5) shall comply with any policy, directive and requirement as the Minister charged with the responsibility for health may determine. Appointment of public officers to be enforcement officers"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_6__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may appoint in writing any public officer who is not an officer of the Department to be an enforcement officer for all or any of the purposes of this Act as specified in the instrument of appointment, and the public officer so appointed shall be deemed to be an enforcement officer appointed under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A certificate of appointment in the form of an authority card shall be issued to every enforcement officer appointed under subsection (1), and such card shall be signed by the Director General and shall be prima facie evidence of the appointment under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Whenever such enforcement officer exercises any of the powers under this Act, he shall, on demand, produce to the person against whom the power is being exercised the authority card issued to him under subsection (2). Enforcement officers to exercise functions and powers of Director General"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to subsection 46(5), the enforcement officers shall have and exercise all powers conferred on the Director General by or under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_IV__cl_10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "COORDINATION COMMITTEE FOR QUARANTINE AND INSPECTION Coordination Committee for Quarantine and Inspection"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_IV__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_IV__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_IV__cl_10__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_IV__cl_10__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_IV__cl_10__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_IV__cl_10__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_IV__cl_10__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_IV__cl_10__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_IV__cl_10__subsec_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_IV__cl_10__subsec_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_IV__cl_10__subsec_10"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_IV__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A Coordination Committee for Quarantine and Inspection is established."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_IV__cl_10__subsec_10",
+      "@type": "akn:subsection",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The chairman and members of the Coordination Committee may be paid any allowance and other expenses in connection with the work of the Coordination Committee as the Minister, with the approval of the Minister of Finance, thinks fit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_IV__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The functions of the Coordination Committee are to coordinate technical, scientific, procedural and other relevant matters to facilitate the implementation of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_IV__cl_10__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The chairman and members of the Coordination Committee shall be appointed by the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_IV__cl_10__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The members of the Coordination Committee shall consist of representatives from the relevant agencies or departments and other agencies or departments which the Minister thinks necessary."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_IV__cl_10__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The chairman and members of the Coordination Committee shall hold office for such terms as may be specified in their respective instruments of appointment and are eligible for reappointment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_IV__cl_10__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The appointment of the chairman and members of the Coordination Committee may at any time be revoked by the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_IV__cl_10__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Coordination Committee shall meet at least twice a year at a time and place as may be appointed by the chairman."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_IV__cl_10__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In the absence of the chairman of the Coordination Committee at a meeting of the Coordination Committee, the members present may elect one among themselves to preside over the meeting."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_IV__cl_10__subsec_9",
+      "@type": "akn:subsection",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Coordination Committee may regulate its own procedure."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Malaysian Quarantine and Inspection Services Act 2010."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette, and the Minister may appoint different dates for the coming into operation of different provisions of this Act in different states and Federal Territories of Malaysia. Act to be read together with the relevant written laws"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_I__cl_2__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_I__cl_2__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_I__cl_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall be read together with the relevant written laws and the provisions of this Act shall be in addition to, and not in derogation of, the provisions of the relevant written laws."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_I__cl_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In the event of any inconsistencies between the provisions of this Act and the relevant written laws, excluding the Food Act 1983 [Act 281], the provisions of this Act shall prevail. Interpretation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_I__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "“relevant agency or department” means the agency or department responsible for the enforcement of the relevant written laws; “appliance” has the same meaning assigned to it under the Food Act 1983; “contaminant” means any foreign, extraneous, toxic, noxious or harmful substance that is contained or present in or on any plant, animal, carcass, fish and agricultural produce including metal, microorganism and its toxin, drug residue, pesticide residue, radioactive residue or any chemical residue prohibited or permissible at a level specified in the relevant written laws; “animal” has the same meaning assigned to it under the Animals Act 1953 [Act 647] and includes bird; “package” has the same meaning assigned to it under the Food Act 1983; “bird” has the same meaning assigned to it under the Animals Act 1953; “export” means to take or cause to be taken out of Malaysia by land, sea, inland waters or air any plant, animal, carcass, fish, agricultural produce, soil, microorganism, or food; “fish” has the same meaning assigned to it under the Fisheries Act 1985 [Act 317]; “import” means to bring or cause to be brought into Malaysia by land, sea, inland waters or air any plant, animal, carcass, fish, agricultural produce, soil, microorganism, or food; “Department” means the Department of Malaysian Quarantine and Inspection Services; “Coordination Committee” means the Coordination Committee for Quarantine and Inspection established under section 10; “carcass” means the dead body of an animal or fish, and includes the meat, bones (whether whole, broken or ground), offal, hide, skin, wool, hair, feathers, hoof, horns or other part of the dead animal or fish, separately or otherwise; “agricultural produce” means any product from plant, animal, carcass or fish, whether processed or otherwise; “Director General” means the Director General of Quarantine and Inspection appointed under subsection 4(1); “quarantine” means an official confinement of any plant, animal, carcass, fish, agricultural produce, soil or microorganism for observation, research, further inspection, testing or treatment; “licence” means licence issued under subsection 12(4); “food” has the same meaning assigned to it under the Food Act 1983, and includes appliance and package; “Minister” means the Minister charged with the responsibility for agriculture and agro-based industry; “microorganism” means any microorganism other than plant and animal and includes fungus, bacteria and virus; “enforcement officer” means an enforcement officer appointed under section 5 or section 6, and includes the Director General and Deputy Director General; “inspection” means an examination of any plant, animal, carcass, fish, agricultural produce, soil, microorganism or food; “conveyance” means any aircraft, vehicle, vessel or any other mode of transport whether by land, sea or air; “certificate” means a certificate issued under subsection 12(4) except health certificates and phytosanitary certificates; “permit” means a permit issued under subsection 12(4); “entry point” means any entry point or exit point as specified in the First Schedule; “premises” includes any hut, shed, structure, platform, house, building, plant, licensed warehouse, container and land, whether enclosed or built upon; “quarantine premises” means any premises declared by the Director General under paragraph 9(g); “quarantine station” means the premises, as specified in the Second Schedule, to quarantine any plant, animal, carcass, fish, agricultural produce, soil or microorganism; “soil” includes earth, ground or other naturally occurring or processed organic and mineral material; “quarantine procedure” means the testing, treating or disposing of any plant, animal, carcass, fish, agricultural produce, soil, or microorganism, or the doing of any other relevant action as the Director General may determine; “plant” means any species of plant or any part thereof whether living or dead and includes the stem, branch, tuber, bulb, corn, stock, budwood, cutting, layer, slip, sucker, root, leaf, flower, fruit, seed or any other part or product of a plant whether severed or attached; “relevant written laws” means the written laws as specified in the Third Schedule."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_15"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PERMIT, LICENCE AND CERTIFICATE Requirement for permit, licence and certificate"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_36"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ENFORCEMENT Powers to be exercised at entry points, quarantine stations and quarantine premises"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII",
+      "@type": "akn:part",
+      "eli:number": "VII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_44",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_45",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_46",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_47",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_48",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_49",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_50"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "MISCELLANEOUS Expenses"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_37__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_37__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_37__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_37__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any expenses incurred by the owner, consignor, consignee or importer as a result of the conditions imposed by the Director General or any enforcement officer in exercising his powers under this Act shall be borne by the owner, consignor, consignee or importer, as the case may be, of any plant, animal, carcass, fish, agricultural produce, soil, microorganism or food concerned."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_37__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any expenses incurred by the Director General or the enforcement officer in exercising his powers under this Act shall be charged against the owner, consignor, consignee or importer, as the case may be, of any plant, animal, carcass, fish, agricultural produce, soil, microorganism, food or other article concerned and may be recovered as a civil debt."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_37__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No compensation shall be payable to any person in respect of the disposal of any plant, animal, carcass, fish, agricultural produce, soil, microorganism or other article under subsection 29(9). Moneys collected or received under this Act"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where money is collected or received under this Act on behalf of the relevant agency or department, it shall be dealt with in accordance with the relevant written laws. Expert services"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may acquire any expert services in the relevant fields of expertise from the relevant agency or department or expert services from within or outside Malaysia to ensure the effective implementation of this Act. Uniform"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every enforcement officer shall wear a uniform prescribed by the Director General while on duty unless exempted in writing by the Director General. Office and facility"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_41__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_41__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_41__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_41",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The relevant agency or department or a private entity that manages premises at the entry points shall provide at such entry points an office and facility for the inspection of plants, animals, carcasses, fish, agricultural produce, soils, microorganisms, food or other article and for the carrying out of quarantine procedures on any plant, animal, carcass, fish, agricultural produce, soil, microorganism or other article."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_41__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_41",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All costs and expenses incurred in relation to the office and facility provided under subsection (1) shall be borne by the relevant agency or department or private entity. Power to amend Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, after consultation with the Director General, by order published in the Gazette amend the Schedule. Offence committed by body corporate"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_43__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_43__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where a body corporate commits an offence under this Act, any person who at the time of the commission of the offence was a director, manager, secretary or other similar officer of the body corporate or was purporting to act in any such capacity or was in any manner or to any extent responsible for the management of any of the affairs of the body corporate or was assisting in such management—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_43__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "may be charged severally or jointly in the same proceedings with the body corporate; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_43__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_43__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_43__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where the body corporate is found to have committed the offence, shall be deemed to commit that offence unless, having regard to the nature of his functions in that capacity, he proves—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_43__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_43__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "that the offence was committed without his knowledge, consent or connivance; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_43__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_43__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "that he took all reasonable precautions and had exercised due diligence to prevent the commission of the offence. Offence committed by partner, agent or servant"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_44__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_44__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who would have been liable to any penalty under this Act for any act, omission, neglect or default if the act, omission, neglect or default is committed by him personally shall be liable to the same penalty if the act, omission, neglect or default is committed by his partner, agent or servant unless he proves—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_44__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_44",
+      "schema:text": {
+        "@language": "en",
+        "@value": "that the act, omission, neglect or default was committed without his knowledge, consent or connivance; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_44__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_44",
+      "schema:text": {
+        "@language": "en",
+        "@value": "that he took all reasonable precautions and had exercised due diligence to prevent the act, omission, neglect or default. General penalty"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_45",
+      "@type": "akn:clause",
+      "eli:number": "45",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every person convicted of an offence under this Act for which no penalty is specifically provided, shall be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding six years or to both. Compounding of offences"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_46",
+      "@type": "akn:clause",
+      "eli:number": "46",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_46__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_46__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_46__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_46__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_46__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_46__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may, with the consent in writing of the Public Prosecutor, offer in writing to compound any offence committed by any person under this Act and prescribed to be a compoundable offence by making a written offer to such person to compound the offence upon payment to the Director General of such amount not exceeding fifty per centum of the amount of the maximum fine for that offence within such time as may be specified in the offer."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_46__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An offer under subsection (1) may be made at any time after the offence has been committed, but before any prosecution for it has been instituted."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_46__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the amount specified in the offer under subsection (1) is not paid within the time specified in the offer or within such extended period as the Director General may grant, prosecution for the offence may be instituted at any time after that against the person to whom the offer was made."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_46__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where an offence has been compounded under subsection (1), no prosecution shall thereafter be instituted in respect of such offence against the person to whom the offer to compound was made."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_46__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may, in writing, delegate his functions and duties under this section to any enforcement officers subject to such terms and conditions as he thinks fit, but a delegation under this subsection shall not preclude the Director General from performing or exercising the functions and duties that have been delegated. Institution of prosecution"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_47",
+      "@type": "akn:clause",
+      "eli:number": "47",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No prosecution for or in relation to any offence under this Act shall be instituted without the sanction in writing of the Public Prosecutor. Protection against suit and legal proceedings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_48",
+      "@type": "akn:clause",
+      "eli:number": "48",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_48__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_48__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No action, suit, prosecution or other proceedings shall lie or be brought, instituted or maintained in any court against—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_48__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_48",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any officer or enforcement officer; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_48__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_48",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other person for or on account of or in respect of any act done or purported to be done by him under the order, direction or instruction of the Director General, enforcement officer or any other officer duly appointed by the Director General, if the act was done in good faith and in a reasonable belief that it was necessary for the purpose intended to be served by it and for the carrying into effect the provisions of this Act. Regulations"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_49",
+      "@type": "akn:clause",
+      "eli:number": "49",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_49__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_49__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_49__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_49",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may make regulations, excluding matters relating to food, as are necessary or expedient to give full effect to or for carrying out the provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_49__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_49__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_49__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_49__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_49__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_49__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_49__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_49__subsec_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_49__subsec_2__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_49__subsec_2__para_i"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_49",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to the generality of subsection (1), regulations may be made for the following purposes:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_49__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_49__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe all matters relating to quarantine and inspection;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_49__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_49__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe all matters relating to quarantine procedures;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_49__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_49__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe all matters relating to permits, licences and certificates;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_49__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_49__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe all matters relating to the registration of importers, exporters and agents;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_49__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_49__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to declare any premises as a quarantine station or quarantine premises;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_49__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_49__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe the procedures for taking and dealing with samples;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_49__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_49__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe the uniforms of the enforcement officers;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_49__subsec_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_49__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe the fees and charges payable under this Act; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_49__subsec_2__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_49__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe the offences that may be compounded. Savings and transitional provisions"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_50",
+      "@type": "akn:clause",
+      "eli:number": "50",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_50__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_50__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_50__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_50__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_50",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any application or cases pending relating to the quarantine, inspection, enforcement or the import and export of any plant, animal, carcass, fish, agricultural produce, soil, microorganism or food under the relevant written laws before the coming into operation of this Act shall not be affected by this Act and shall continue as if this Act had not been enacted."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_50__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_50",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding the coming into operation of this Act, until such time as the relevant written laws, excluding the Food Act 1983, are amended in consequence of this Act and the amendments come into operation, the relevant agency or department shall continue to carry out the quarantine, inspection, enforcement and certification of import and export of any plant, animal, carcass, fish, agricultural produce, soil or microorganism."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_50__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VII__cl_50",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any pending application or case under the relevant written laws relating to quarantine, inspection, enforcement and import and export of any plant, animal, carcass, fish, agricultural produce, soil or microorganism made or commenced during the period immediately after the coming into operation of this Act and immediately before the relevant written laws are amended in consequence of this Act and the amendments come into operation shall not be affected by such amendments and shall continue as if the amendments had not been made to the relevant written laws."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_16__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_16__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_16__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An enforcement officer shall only carry out the powers under this Part at the entry points, quarantine stations and quarantine premises."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_16__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (1), an enforcement officer appointed under subsection 5(5) to carry out the powers under paragraph 9(b) shall only exercise those powers at the entry points and in accordance with the Food Act 1983. Power of investigation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_17__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_17__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An enforcement officer shall have all the powers necessary to carry out an investigation under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In any case relating to the commission of an offence under this Act, an enforcement officer carrying out an investigation may exercise all or any of the powers in relation to police investigation in seizable cases given by the Criminal Procedure Code [Act 593]. Power of arrest"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_18__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An enforcement officer may arrest without warrant any person whom he reasonably believes has committed or is attempting to commit an offence under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An enforcement officer making an arrest under subsection (1) shall, without unnecessary delay, bring the person arrested to the nearest police station, and thereafter the person shall be dealt with according to the law relating to criminal procedure for the time being in force. Search and seizure with warrant"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19__subsec_1__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If it appears to a Magistrate, upon written information on oath and after such inquiry as he considers necessary, that there is reasonable cause to believe that any premises situated at the entry point, quarantine station and quarantine premises have been used or are about to be used for, or there is in or on any premises situated at the entry point, quarantine station and quarantine premises, evidence necessary to establish the commission of an offence under this Act, the Magistrate may issue a warrant authorizing an enforcement officer to whom it is directed, at any reasonable time by day or night and with or without assistance—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to enter any premises situated at the entry point, quarantine station and quarantine premises and search for, seize and detain any book, record, document, computer, equipment, plant, animal, carcass, fish, agricultural produce, soil, microorganism, permit, licence, certificate, or other article;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to inspect, make copies of, or take extracts from, any book, record, document, computer, equipment, plant, animal, carcass, fish, agricultural produce, soil, microorganism, permit, licence, certificate, or other article so seized and detained;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to take possession of, and remove from the premises situated at the entry point, quarantine station and quarantine premises, any book, record, document, computer, equipment, plant, animal, carcass, fish, agricultural produce, soil, microorganism, permit, licence, certificate, or other article so seized and detain it for such period as may be necessary;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to search any person who is in, or on, such premises situated at the entry point, quarantine station and quarantine premises, and for the purpose of the search, detain the person and remove him to such place as may be necessary to facilitate the search, and seize and detain any property or document found on the person; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to break open, examine, and search any book, record, document, computer, equipment, plant, animal, carcass, fish, agricultural produce, soil, microorganism, permit, licence, certificate, or other article."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An enforcement officer acting under subsection (1) may, if it is necessary to do so—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "break open any outer or inner door of any premises situated at the entry point, quarantine station and quarantine premises and enter the premises;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "forcibly enter any premises situated at the entry point, quarantine station and quarantine premises and every part thereof;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "remove by force any obstruction to the entry, search, seizure, detention or removal that he is empowered to effect; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "detain any person found on any premises situated at the entry point, quarantine station and quarantine premises searched under subsection (1) until the search is completed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If, by reason of its nature, size or amount, it is not practicable to remove any book, record, document, computer, equipment, plant, animal, carcass, fish, agricultural produce, soil, microorganism, permit, licence, certificate, or other article seized under this section, the enforcement officer making the seizure shall, by any means, seal such book, record, document, computer, equipment, plant, animal, carcass, fish, agricultural produce, soil, microorganism, permit, licence, certificate, or other article."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who, without lawful authority, breaks, tampers with or damages the seal referred to in subsection (3) or removes the book, record, document, computer, equipment, plant, animal, carcass, fish, agricultural produce, soil, microorganism, permit, licence, certificate, or other article under seal or attempts to do so commits an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding six months or to both and in the case of a continuing offence be liable to a fine not exceeding one thousand ringgit for every day or part of a day during which the offence continues after conviction. Search and seizure without warrant"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If an enforcement officer is satisfied upon information received that he has reasonable cause to believe that by reason of delay in obtaining a search warrant under subsection 19(1) the investigation would be adversely affected or evidence of the commission of an offence is likely to be tampered with, removed, damaged or destroyed, the enforcement officer may enter the premises situated at the entry point, quarantine station and quarantine premises and exercise in, upon and in respect of the premises all the powers referred to in section 19 in as full and ample a manner as if he were authorized to do so by a warrant issued under that section. Warrant admissible notwithstanding defects"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A search warrant issued under this Act shall be valid and enforceable notwithstanding any defect, mistake or omission therein or in the application for such warrant, and any book, record, document, computer, equipment, plant, animal, carcass, fish, agricultural produce, soil, microorganism, permit, licence, certificate, or other article seized under such warrant shall be admissible in evidence in any proceedings under this Act. Power to seal premises and conveyance"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In exercise of the powers under sections 19 and 20, an enforcement officer may seal temporarily any premises and conveyance situated at the entry point, quarantine station and quarantine premises. Access to computerized data"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_23__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_23__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_23__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An enforcement officer conducting a search under this Act shall be given access to computerized data whether stored in a computer or otherwise."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_23__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of this section, an enforcement officer shall be provided with the necessary password, encryption code, decryption code, software or hardware and any other means required to enable comprehension of computerized data. Power to stop, search and seize conveyance"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_24__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_24__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_24__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If an enforcement officer has reasonable cause to suspect that any conveyance is carrying a plant, animal, carcass, fish, agricultural produce, soil, microorganism or other article in respect of which an offence under this Act is being or has been committed, he may stop and examine the conveyance and may, if on examination he has reasonable cause to believe that such conveyance is or has been used for the commission of such offence, seize such conveyance and any plant, animal, carcass, fish, agricultural produce, soil, microorganism or other article found in the conveyance that is reasonably believed to furnish evidence of the commission of such offence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_24__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_24__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_24__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The person in control or in charge of the conveyance shall, if required to do so by the enforcement officer—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_24__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_24__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "stop the conveyance and allow the enforcement officer to examine it; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_24__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_24__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "open all parts of the conveyance for examination and take all measures necessary to enable or facilitate the carrying out of such examination as the enforcement officer considers necessary. List of plant, animal, carcass, etc., seized"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_25__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_25__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_25__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any seizure is made under this Act, an enforcement officer making the seizure shall prepare a list of the plant, animal, carcass, fish, agricultural produce, soil, microorganism or other article seized and shall sign the list."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_25__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The list prepared in accordance with subsection (1) shall be delivered immediately to the person in control or in charge of the conveyance where the seizure is made under section 24. Examination of persons acquainted with case"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_26__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_26__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_26__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_26__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_26__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_26__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An enforcement officer making an investigation under this Act may examine orally any person supposed to be acquainted with the facts and circumstances of the case."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_26__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Such person shall be bound to answer all questions relating to such case put to him by the enforcement officer, but he may refuse to answer any question the answer to which would have a tendency to expose him to a criminal charge or penalty or forfeiture."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_26__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person making a statement under this section shall be legally bound to state the truth, whether or not such statement is made wholly or partly in answer to questions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_26__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The enforcement officer examining a person under subsection (1) shall first inform that person of the provisions of subsections (2) and (3)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_26__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_26__subsec_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_26__subsec_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A statement made by any person under this section shall, wherever possible, be reduced into writing and signed by the person making it or affixed with his thumb print, as the case may be, after—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_26__subsec_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_26__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "it has been read to him in the language in which he made it; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_26__subsec_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_26__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he has been given an opportunity to make any correction he may wish. Admissibility of statement in evidence"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_27__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_27__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_27__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_27__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_27__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_27__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Except as provided in this section, no statement made by any person to an enforcement officer in the course of an investigation made under this Act shall be used in evidence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_27__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "When any witness is called for the prosecution or for the defence, other than the accused, the court shall, on the request of the accused or the prosecutor, refer to any statement made by that witness to an enforcement officer in the course of an investigation under this Act and may then, if the court thinks fit in the interest of justice, direct the accused to be furnished with a copy of it and the statement may be used to impeach the credit of the witness in the manner provided by the Evidence Act 1950 [Act 56]."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_27__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the accused had made a statement during the course of investigation, such statement may be admitted in evidence in support of his defence during the course of the trial."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_27__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Nothing in this section shall be deemed to apply to any statement made in the course of an identification parade or falling within section 27 or paragraphs 32(1)(a), (i) and (j) of the Evidence Act 1950."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_27__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "When any person is charged with any offence in relation to the making or the contents of any statement made by him to an enforcement officer in the course of an investigation made under this Act, that statement may be used as evidence in the prosecution’s case. Power to require attendance of persons acquainted with case"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_28__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_28__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_28__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The enforcement officer making an investigation under this Act may, by order in writing, require the attendance before himself of any person who appears to him to be acquainted with the facts and circumstances of the case, and such person shall attend as so required."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_28__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If any such person refuses to attend as required by an order made under subsection (1), the enforcement officer may report his refusal to a Magistrate who shall issue a warrant to secure the attendance of such person as may be required by the order. Forfeiture of seized plant, animal, carcass, etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_29__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_29__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_29__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_29__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_29__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_29__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_29__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_29__subsec_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_29__subsec_9"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_29__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any plant, animal, carcass, fish, agricultural produce, soil, microorganism or other article seized in exercise of any power conferred under this Act shall be liable to forfeiture."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_29__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An order for the forfeiture of the plant, animal, carcass, fish, agricultural produce, soil, microorganism or other article, shall be made if it is proved to the satisfaction of the court that an offence under this Act has been committed and that the plant, animal, carcass, fish, agricultural produce, soil, microorganism or other article was the subject matter of or was used in the commission of the offence, even though no person has been convicted of such offence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_29__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If there is no prosecution with regard to any plant, animal, carcass, fish, agricultural produce, soil, microorganism or other article seized under this Act, such plant, animal, carcass, fish, agricultural produce, soil, microorganism or other article shall be taken and deemed to be forfeited at the expiration of a period of one calendar month from the date of service of the notice."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_29__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_29__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_29__subsec_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The notice referred to in subsection (3) shall indicate that—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_29__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_29__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "there is no prosecution in respect of such plant, animal, carcass, fish, agricultural produce, soil, microorganism or other article;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_29__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_29__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "such plant, animal, carcass, fish, agricultural produce, soil, microorganism or other article, shall be taken and deemed to be forfeited at the expiration of one calendar month from the date of service of such notice unless before that date a claim thereto is made in the manner set out in subsections (5), (6) and (7)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_29__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person asserting that he is the owner of the plant, animal, carcass, fish, agricultural produce, soil, microorganism or other article referred to in subsection (3) and that it is not liable to forfeiture may personally or by his agent authorized in writing, give written notice to the enforcement officer in whose possession such plant, animal, carcass, fish, agricultural produce, soil, microorganism or other article is held that he claims the plant, animal, carcass, fish, agricultural produce, soil, microorganism or other article."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_29__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "On receipt of the notice referred to in subsection (4), the enforcement officer shall refer the claim to a Magistrate."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_29__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Magistrate to whom a matter is referred under subsection (5) shall issue a summons requiring the person asserting that he is the owner of the plant, animal, carcass, fish, agricultural produce, soil, microorganism or other article and the person from whom it was seized to appear before him, and when the person appears or fails to appear, due service of the summons having been proved, the Magistrate shall proceed to the examination of the matter."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_29__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If it is proved that an offence under this Act has been committed and that the plant, animal, carcass, fish, agricultural produce, soil, microorganism or other article referred to in subsection (7) was the subject matter of or was used in the commission of such offence, the Magistrate shall order the plant, animal, carcass, fish, agricultural produce, soil, microorganism or other article to be forfeited, and shall, in the absence of such proof, order its release."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_29__subsec_9",
+      "@type": "akn:subsection",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any plant, animal, carcass, fish, agricultural produce, soil, microorganism or other article forfeited or deemed to be forfeited shall be disposed of in such manner as the Director General thinks fit. Release of seized plant, animal, carcass, etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_30__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_30__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_30__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If any plant, animal, carcass, fish, agricultural produce, soil, microorganism or other article has been seized under this Act, the enforcement officer who effected the seizure may, after referring to the Director General, release the plant, animal, carcass, fish, agricultural produce, soil, microorganism or other article seized under this Act to the person from whose possession, custody or control it was seized."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_30__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A record in writing shall be made by the enforcement officer effecting the release of the plant, animal, carcass, fish, agricultural produce, soil, microorganism or other article under subsection (1) specifying in detail the circumstances of and the reason for the release, and he shall send a copy of the record to the Director General within seven days of the release. Cost of holding seized plant, animal, carcass, etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any plant, animal, carcass, fish, agricultural produce, soil, microorganism, food or other article seized under this Act is held in the custody of the enforcement officer pending completion of any proceedings in respect of an offence under this Act, the cost of holding it in custody shall, in the event of any person being convicted of such offence, be a debt due to the Government by such person and shall be recoverable accordingly. No costs or damages arising from seizure to be recoverable"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No person shall, in any proceedings before any court in respect of the seizure of any plant, animal, carcass, fish, agricultural produce, soil, microorganism or other article seized in the exercise or the purported exercise of any power conferred under this Act, be entitled to the costs of such proceedings or to any damages or other relief unless such seizure was made without reasonable cause. Power to take sample"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_33__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_33__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_33__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An enforcement officer may demand, select, take or obtain samples of any plant, animal, carcass, fish, agricultural produce, soil, microorganism or other article for the purposes of analysis, without payment, from any person importing or exporting such plant, animal, carcass, fish, agricultural produce, soil, microorganism or other article."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_33__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The procedure for taking and dealing with the samples shall be as prescribed by regulations. Examination or testing of seized plant, animal, carcass, etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where it is necessary to examine or test any plant, animal, carcass, fish, agricultural produce, soil, microorganism or other article seized under this Act, it shall be sufficient to examine or test only a representative sample of the plant, animal, carcass, fish, agricultural produce, soil, microorganism or other article or, if the plant, animal, carcass, fish, agricultural produce, soil, microorganism or other article is packed in a different storage place, of the contents of each storage place. Additional powers"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_35__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_35__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_35__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An enforcement officer shall, for the purposes of the execution of this Act, have the power to do all or any of the following:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_35__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to require the production of any book, record or document kept by any person and to inspect, examine and to make copies from them;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_35__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to require the production of any identification document from any person in relation to any case or offence under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_35__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to make such enquiries as may be necessary to ascertain whether the provisions of this Act have been complied with. Obstruction of enforcement officers"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_36__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_36__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_36__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Any person who—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_36__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "assaults, obstructs, impedes or interferes with any enforcement officer in the performance of his powers under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_36__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "rescues or endeavours to rescue any plant, animal, carcass, fish, agricultural produce, soil, microorganism or other article seized under this Act; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_36__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_VI__cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "before or after any seizure causes the disappearance of, or damages or destroys any plant, animal, carcass, fish, agricultural produce, soil, microorganism or other article in order to prevent the seizure thereof or the securing of the plant, animal, carcass, fish, agricultural produce, soil, microorganism or other article, commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding six years or to both and, for a second or subsequent offence to a fine not exceeding two hundred thousand ringgit or to imprisonment for a term not exceeding seven years or both."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_11__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_11__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No person shall import any plant, animal, carcass, fish, agricultural produce, soil or microorganism without a permit, licence or certificate issued under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No person shall export any plant, animal, carcass, fish, agricultural produce, soil or microorganism without a permit or licence issued under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_11__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who is involved in the importation and exportation of any plant, animal, carcass, fish, agricultural produce, soil or microorganism who contravenes this section commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding six years or to both and, for a second or subsequent offence to a fine not exceeding one hundred and fifty thousand ringgit or to imprisonment for a term not exceeding seven years or to both. Application for permit, licence and certificate"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_12__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_12__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_12__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_12__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_12__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_12__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An application for—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_12__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_12__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a permit, licence or certificate to import; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_12__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_12__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a permit or licence to export, any plant, animal, carcass, fish, agricultural produce, soil or microorganism shall be made to the Director General in the manner as determined by the Director General and shall be accompanied by the prescribed fees."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may, after receiving the application made under subsection (1), require the applicant to provide additional information, particulars or documents within such period as the Director General may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_12__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the applicant fails to provide such additional information, particulars or documents required under subsection (2), the application shall be deemed to have been withdrawn without prejudice to the making of a fresh application in accordance with subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_12__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_12__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_12__subsec_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may approve the application made under subsection (1) and may issue—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_12__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_12__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a permit, licence or certificate to import; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_12__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_12__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a permit or licence to export, any plant, animal, carcass, fish, agricultural produce, soil or microorganism to the applicant if the applicant has fulfilled the requirements under subsections (1) and (2)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_12__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General shall issue any permit, licence or certificate to import and any permit or licence to export in accordance with the policy, directive and requirement as determined by the relevant agency or department. False permit, licence and certificate"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who furnishes or causes to be furnished to the Director General orally or in writing, any permit, licence, certificate, or other document or information required to be furnished under this Act which is false, inaccurate or misleading upon importing or exporting any plant, animal, carcass, fish, agricultural produce, soil or microorganism, commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding two years or to both and, for a second or subsequent offence to a fine not exceeding seventy-five thousand ringgit or to imprisonment for a term not exceeding five years or to both. Plant, animal, carcass, etc. with pests, diseases or contaminants"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_14__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_14__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who imports through the entry point, quarantine station or quarantine premises any plant, animal, carcass, fish, agricultural produce, soil or microorganism—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "with pests, diseases or contaminants;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "believed to have pests, diseases or contaminants; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_14__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "infested with pests, diseases or contaminants, commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding six years or to both and, for a second or subsequent offence to a fine not exceeding one hundred and fifty thousand ringgit or to imprisonment for a term not exceeding seven years or to both. Import and export conditions"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_15__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who is involved in the importation or exportation of plants, animals, carcasses, fish, agricultural produce, soils or microorganisms shall comply with any import conditions as specified in the permit, licence or certificate, or export conditions as specified in the permit or licence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~part_V__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who is involved in the importation or exportation of plants, animals, carcasses, fish, agricultural produce, soils or microorganisms who contravenes this section commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding six years or to both and, for a second or subsequent offence to a fine not exceeding one hundred and fifty thousand ringgit or to imprisonment for a term not exceeding seven years or to both."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Section 3] ENTRY POINTS BY SEA PENINSULAR MALAYSIA (a) the Government jetty at the main road terminus on the left bank of Perlis River and foreshore for 27.4 metres up stream and 18.3 metres down stream thereof; (b) the Kuala Perlis Ferry Cargo Terminal located at Latitude 6˚ 23’ 57.41” North Longitude 100˚ 07’ 51.09” East; (c) the Kuala Perlis Lembaga Kemajuan Ikan Malaysia Complex located at Latitude 6˚ 24’ 0.87” East and Longitude 100˚ 07’ 53.37” East. The Government jetty Tanjung Lembung wharf located at Latitude 6˚ 17’ 46.5675” North to 6˚ 17’ 31.9646” North Longitude 99˚ 47’ 26.7936” East to 99˚ 47’ 13.1856” East The wharf and jetty (including the approach bridge) under the jurisdiction of the Marine Department at Tanjung Malai, Pulau Langkawi between Latitude 6˚ 15’ 25.4905” North to 6˚ 15’ 36.4138” North Longitude 99˚ 43’ 58.4052” East to 99˚ 44’ 3.9953” East Telok Ewa Jetty The Government jetty at the main road terminus on the left bank of the Kedah River and foreshore for 22.7 metres on either side thereof (a) the wharf of the Pulau Pinang Port Commission; (b) the portion of the foreshore from the southern end of the Penang Port Commission area southward to the northern edge of the Pengkalan Raja Tun Uda; (c) the jetty of Pengkalan Kedah located at Latitude 05˚ 25’ 30” North Longitude 100˚ 20’ 75” East; (d) the landing Pontoon maintained by the Pulau Pinang Yacht Base. The Lembaga Kemajuan Ikan Malaysia Jetty located at Latitude 50˚ 17’ North Longitude 100˚ 17’ East (a) the piers operated by Pulau Pinang Port Commission; (b) the five berths of the Butterworth wharves; (c) North Butterworth Container Terminal operated by Pulau Pinang Port Commission. (a) the portion of the south bank of the Prai River extending from Railway Passenger Jetty westward to the sea including the Pulau Pinang Port Commission landing stage and wharf and also the foreshore of the reclamation and ending at a distance of 237.8 metres southward from the southern tip of the lighter basin; (b) Bulk Cargo Terminal operated by Pulau Pinang Port Commission located at Latitude 5˚ 22’ North and Longitude 100˚ 22’ East. (a) the Public Works Department Jetty situated on the left bank of the River Dindings and the piece of land comprised within the following boundaries, North-Dindings River South Government Road East. A point of the left bank of the Dindings River 73.1 metres east of the water gate at the junction of Garling Place and Titi Panjang Road West-Public Works Department jetty (inclusive); (b) the jetty of the Lembaga Kemajuan Ikan Malaysia, Kampung Acheh located on the bank of the Setiawan River including all buildings located in the fenced area of 1 hectare; (c) the wharf and jetty of the Lumut Maritime Terminal Sdn. Bhd., on the east bank of Sungai Dindings at Latitude 4˚ 15’ 34” North Longitude 100˚ 39’ 43” East and southern limit at Latitude 4˚ 15’ 11” North Longitude 100˚ 39’ 33” East. The jetty of the Marina Sactuary Resort Sdn. Bhd. Teluk Muruh, Lumut, Perak at Latitude 04˚ 12’ 05.0” North Longitude 100˚ 36’ 00.0” East The Telok Anson/Telok Intan Railway Wharf No. 2 (a) Ghadaf Marble Sdn. Bhd. Jetty in Hutan River on the side of the state of Perak Longitude 100˚ 48’ 45” East to the east Melintang located at the bank of the Bernam between Latitude 3˚ 51’ 30” North to the west; (b) Ghadaf Marble Sdn. Bhd. Jetty in Hutan Melintang located at the bank of the Bernam River on the side of the state of Perak between Latitude 3˚ 51’ 30” North to the west Longitude 100˚ 48’ 33” East to the east. The jetty of Lekir Bulk Terminal Sdn. Bhd. located at Latitude 4˚ 08’ 06” North, 4˚ 08’ 54” North, 4˚ 09’ 26.5” North and 4˚ 10’ 10.1” North Longitude 100˚ 37’ 42” East, 100˚ 37’ 13” East, 100˚ 38’ 23.1” East and 100˚ 38’ 29.3” East (a) the wharf and jetty of the Port Klang Authority on the east bank of the Klang Straits between Sungai Tiga and Sungai Puloh; (b) that portion of the foreshore which extends from a position of 93.41 metres north of the passenger jetty Jalan Foreshore to the mouth of the Sungai Aur and thence along the bank of the Sungai Aur to and including the concrete jetty at the cattle quarantine station and including jetty, wharf and pontoon extending from the said foreshore and river bank and wharf; (c) the wharf and jetty of the Port Klang Authority on the west bank of Pulau Indah between Sungai Chandong Besar on the northern west port limit at Latitude 02˚ 55’ 48” North Longitude 101˚ 20’ 24.5” East and Sungai Lurus on southern west limit at Latitude 02˚ 54’ 05” North and Longitude 101˚ 17’ 10” East; (d) the Star Cruise Sdn. Bhd. extending for a distance of 247.31 metres to the sea located on the west bank of Pulau Indah north of Sungai Chandong Besar at the coordination Latitude 02˚ 59’ 05.415” North, 02˚ 59’ 06.003” North Longitude 101˚ 20’ 15.723” East, 101˚ 20’ 16.921” East; (e) the jetty of ASA Niaga Sdn. Bhd. at Port Klang located on the left bank of Sungai Klang between Latitude 03˚ 00’ 31.9294” North to 03˚ 00’ 26.1835” North Longitude 101˚ 23’ 28.4299” East to 101˚ 23’ 26.4980” East. The railway jetty The jetty of Jimah Energy Ventures Sdn. Bhd. for 1400 MV coal fired power plant, extending for a distance of 1.3 kilometre to sea, located at Latitude 2˚ 34’ 41.72712” North to 2˚ 34’ 44.33909” North Longitude 101˚ 42’ 51.19108” East to 101˚ 43’ 1.05072” East (a) that portion of the left bank of the Melaka River from the Ferry Jetty upstream to the wire fence surrounding the protected Melaka Port area; (b) that portion of right bank of the Melaka River from Central Melaka Town Council Jetty, Melaka, stretching upstream to the point directly the corner of the Government Godown; (c) the Tanjung Bruas jetty. The jetty and wharf of Sungai Udang Port Sdn. Bhd. The Government jetty 115.457 metres in length on the bank of Sungai Kesang located between points T60903.0 and S66630.5 in the north and T60952.8 and S666526.0 to the south The Government jetty 1048.614 metres in length on the bank of Sungai Linggi, District of Alor Gajah, Melaka located between point (1) N-36700.667, E-34479.870 and point (2) N-36760.354, E-3833.803 within the fenced area of 8.8013 hectares comprising of the land occupied by Delta Management Sdn. Bhd., Lembaga Kemajuan Ikan Malaysia, Havest Rimba Sdn. Bhd. and Yayasan Alor Gajah located at Latitude 2˚ 23’ 21.9418” North Longitude 101˚ 58’ 27.5071” East and Latitude 2˚ 23’ 33.4572” North Longitude 101˚ 58’ 59.4635” East The Government wharf at Bandar Maharani situated on the left bank of the Muar River directly in front of the Customs Office The Government wharf at Bandar Penggarang, situated on the left bank of Sungai Batu Pahat, directly opposite the Customs Office and Customs Warehouse The jetty of the E.S. Ng. Building Products Sdn. Bhd., part of Lot PTD 3732 and part of Lot 4747, Mukim Minyak Beku District of Batu Pahat, Johor, located at Latitude 01˚ 47’ 44.50” North, 01˚ 47’ 44.67” North, 01˚ 47’ 43.90” North and 01˚ 47’ 43.82” North Longitude 114˚ 34’ 38.76” East, 114˚ 34’ 38.82” East, 114˚ 34’ 31.43” East and 114˚ 34’ 41.39” East The Government wharf (a) the Government wharf at Johor Bahru adjacent to Sungai Segget; (b) the wharf at Tanjung Putri; (c) the Johor Bahru International Ferry Terminal jetty on the bank of the Straits of Tebrau, Lot PTB 20380, Mukim of Bandar Johor Bahru belonging to Kelana Megah Sdn. Bhd. located at Latitude 1˚ 28’ 21.7” North, 1˚ 28’ 20.8” North and 1˚ 28’ 20.5” North Longitude 103˚ 47’ 9.9” East, 103˚ 47’ 13” East and 103˚ 47’ 8.5” East. (a) that portion of the fenced in area of the foreshore, including the mouth of Sungai Buluh, all jetties and all wharves of the Johor Port Authority, situated between the west bank of Sungai Perembi located at Latitude 01˚ 26’ 28” North Longitude 103˚ 53’ 16” East, thus to a line joining the western most dolphin of DCJ 4 located at Latitude 01˚ 26’ 27” North Longitude 103˚ 53’ 06” East and finally joining the line of Johor Port Water Limit at Latitude 01˚ 26’ 14” North Longitude 103˚ 53’ 06” East; (b) on the eastern side, the area along the Wharf No. 11 located at Latitude 01˚ 26’ 03.5” North Longitude 103˚ 55’ 23” East on the northern part, and at the southern part of Wharf No. 11 located at Latitude 01˚ 25’ 52” North Longitude 103˚ 55’ 20” East, adjacent to the west bank of Sungai Latoh located at Latitude 01˚ 26’ 12” North Longitude 103˚ 55’ 29” East. Tanjung Pelepas Port, Johor Bahru The left bank of Sungai Pulai stretching from Latitude 01˚ 22’ 27.885” North Longitude 103˚ 32’ 37” East and Latitude 01˚ 21’ 20.4208” North Longitude 103˚ 32’ 56.7317” East Pengerang/Tanjung Pengelih (a) the foreshore for a distance of 91.4 metres on either side of the Customs Station; (b) the wharf at Tanjung Pengelih. Sebana Cove Marina, Sebana Cove Marina Jetty at Sebana Mukim Pengerang, District of Golf and Marina Resort, Pengerang, Kota Tinggi, Johor Darul Takzim Johor Darul Takzim with length of 51.8 metres and width of 3 metres located at Latitude 104˚ 24.90’ North Longitude 01˚ 90.89’ East Tanjung Langsat, Johor The jetty of Tanjung Langsat Port Bhd. extending for a distance of 1188.335 metres to the sea located on the west bank of Sungai Johor at Latitude 01˚ 26’ 30.98” North Longitude 104˚ 00’ 41.82” East Sungai Rengit The banks of the river for 45.7 metres southward from town bridge Tanjung Surat, Kota Tinggi The Government wharf Mersing The Government wharf Tanjung Belungkor The jetty of Tanjung Belungkor Ferry Terminal Kuala Rompin The right bank of the Sungai Rompin for a distance of 22.7 metres on either side of stone marked “legal landing place”, including the Government jetty Tanjung Gemuk The jetty of Tanjung Gemuk situated at the bank of Sungai Endau, stretching alongside the bank for a distance of about 284 metres Kampung Tekek, Pulau Tioman The jetty of the Marine Department (a) the Government wharf; (b) the wharf of the Pahang Consolidated Co. Ltd. The wharf of Kuantan Port Authority in the First Basin (Basin A) The jetty of Berjaya Tioman Resort located at Latitude 02˚ 48’ 45” North and Longitude 104˚ 08’ 31” East The Government wharf (a) the wharf of the Kemaman Port Authority located on the reclaimed land at Lot PT 3180; (b) the area known as the West Wharf situated at Lot PT 3410, Mukim of Teluk Kalong in the District of Kemaman operated by PTB West Wharf Sdn. Bhd. On the right bank of Sungai Golok at a distance of 182 metres beginning from the eastern border opposite the right side of road heading towards the Tanah Merah-Gerik highway (Bearing 347˚ 00’ 00” a distance of 33 metres from the boundary stone north of Lot 2449) to the western border (after the channel) (Bearing 325˚ 00’ 00” a distance of 93 metres from the boundary stone west of the said Lot) Pengkalan Jenut, Mukim of Nibong, District of Jedok Administration of Tanah Merah, Kelantan marked with a grey line in the Gazette Plan (PW 696) deposited in the office of the Director of Survey and Mapping Kelantan (a) the Government wharf on the right bank of Sungai Terengganu in front of Jalan Hiliran; (b) the wharf on the right bank of Sungai Terengganu in front of the Customs Warehouse. The right bank of the Sungai Besut for a distance of 45.7 metres on either side of the Customs Station The jetty of the Public Works Department and the Immigration Jetty on the right bank between them The Customs wharf, the Railway jetty, the Penambang Haji Idris jetty and river bank between them SABAH The wharf of the Sabah Port Authority The wharf and jetty of the Asian Supply Base, Ranca-Ranca, Labuan located at Latitude 05˚ 15’ 55” North Longitude 115˚ 14’ 56” East The Government wharf and the Small Ships’ wharf The wharf and jetty of the Sabah Port Authority The wharf of the Sabah Port Authority The wharf of the Sabah Port Authority The Government wharf including landing ramp and the passenggers’ ferry jetty adjacent to it The Government wharf SARAWAK Rejang Port Authority at Bintangor Bintulu Port Authority’s Wharf at Tanjung Kedurong located at— (a) Wharf No. 1 Latitude 3˚ 15’ 53.3785” North 3˚ 15’ 53.3855” North Longitude 113˚ 3’ 57.5312” East 113˚ 3’ 52.0233” East; (b) Wharf No. 2 Latitude 3˚ 15’ 53.3714” North 3˚ 15’ 53.3785” North Longitude 113˚ 4’ 3.0390” East 113˚ 3’ 57.5312” East; (c) Wharf No. 3 Latitude 3˚ 15’ 53.3641” North 3˚ 15’ 53.3714” North Longitude 113˚ 4’ 8.6927” East 113˚ 4’ 3.0390” East; (d) Wharf No. 4 Latitude 3˚ 15’ 53.3545” North 3˚ 15’ 53.3641” North Longitude 113˚ 4’ 16.1283” East 113˚ 4’ 8.6927” East; (e) Wharf No. 5 Latitude 3˚ 15’ 53.3449” North 3˚ 15’ 53.3545” North Longitude 113˚ 4’ 23.5647” East 113˚ 4’ 16.1283” East; (f) Ro-Ro Ramp Latitude 3˚ 15’ 52.7343” North 3˚ 15’ 52.7354” North Longitude 113˚ 3’ 52.0225” East 113˚ 3’ 51.1963” East; (g) Bulk Cargo Wharf Latitude 3˚ 15’ 52.7354” North 3˚ 15’ 43.9436” North Longitude 113˚ 3’ 51.1963” East 113˚ 3’ 16.1851” East. R.C. Jetty with a length of 83.50 metres and a width of 19.90 metres located at Latitude 4˚ 57’ 19” North and Longitude 115˚ 25’ 16” East (a) Kuching Port Authority’s wharf at Tanah Puteh; (b) Datuk Sim Kheng Hong wharf at Pending. Customs wharf Customs wharf Government wharf Customs wharf The wharf of the Miri Port Authority The wharf of Miri Port Authority at Kuala Baram comprising 6 wharves with length of 390 metres and width of 50 metres located at Latitude 4˚ 34’ 00” North and Longitude 114˚ 2’ 36” East Kuching Port Authority’s wharf at Kampung Senari with a length of 635 metres and width of 45 metres located at Latitude 01˚ 37.01’ 0” North Longitude 110˚ 26.89’ 0” East Rejang Port Authority’s wharf at Tanjung Manis with a length of 202 metres and width of 47 metres located at Latitude 2˚ 9’ 23.5772” North Longitude 111˚ 20’ 16.2431” East Customs wharf Rejang Port Authority wharf at Sarikei The wharf of the Kuching Port Authority, 125 metres in length situated on the left bank of the Sarawak River located at Latitude 01˚ 35.05’ 0” North Longitude 110˚ 25.25’ 0” East (a) The wharf of the Depoh Harwood at Semantan, 1000 feet in length and width of 120 feet located at Latitude 10˚ 45’ 39” North Longitude 109˚ 45’ 18” East; (b) That portion of the foreshore adjacent to Semantan Bazaar for a distance 45.7 metres. Rejang Port Authority wharf at Sibu Customs wharf BY ROAD OR RAILWAY PENINSULAR MALAYSIA (a) the Customs Office and all its ancillary buildings and structures situated within the Bukit Kayu Hitam Immigration Complex which is located along Sadao/Changlun trunk road between 8.9 kilometre north of Changlun and 0.69 kilometre south of Danork (Thailand) Immigration or Customs Check Point in the Mukim of Laka Temin, Kubang Pasu, Kedah; (b) the Customs Office and all its ancillary buildings and structures situated within the Lembaga Kemajuan Ikan Malaysia Examination Complex which is located along Sadao/Changlun trunk road between 9.1 kilometre north of Changlun and 0.67 kilometre south of Danork (Thailand) Immigration or Customs Check Point as prescribed in plan Lot No. PT 890 and PT 2180 in the Mukim of Laka Temin, Kubang Pasu, Kedah. The Customs Office and all buildings situated within the Immigration, Customs, Quarantine and Security Complex, Kota Putra, Durian Burung, Padang Terap, Kedah, at Latitude 6˚ 28’ 15.1332” North Longitude 100˚ 42’ 35.0808” East (a) the Customs Office, Padang Besar situated within the Railway Station Building; (b) the Customs Office, Padang Besar at Containers Yard located at Latitude 6˚ 39’ 45.45” North Longitude 100˚ 19’ 19.21” East; (c) the Customs Office and all its ancillary buildings and structures situated within the Padang Besar Government Offices Complex on the main road running from Padang Besar to Thailand and is located at Latitude: 6˚ 39’ 58” North Longitude 100˚ 19’ 23” East; (d) the Lembaga Kemajuan Ikan Malaysia Fish Examination Complex and all its ancillary buildings and structures on the east of the Padang Besar Government Offices Complex located at Latitude 6˚ 39’ 45.42” North Longitude 100˚ 19’ 37” East. The Customs Office and all its ancillary buildings situated along the main road to Satun, Thailand, 6.5 metres from the main gate of the Malaysia and Thailand border The Customs Office and all its ancillary buildings and structures situated within the Bukit Berapit Immigration Complex located along Keroh/Betong trunk road between 136 ¼ mile and 136 ½ mile, in the Mukim of Keroh, Perak The ferry terminals operated by the Pulau Pinang Port Commission (a) for import by a motor car, bus, motorcycle, scooter, bicycle and foot passenger, the passenger Examination Gate, i.e. the area allocated for Immigration and Customs Examination; (b) for import by other vehicular traffic, the Customs Import Bay in the Customs Complex at Tanjung Putri enclosed within the perimeter fence commencing from the south by the entry gate nearest to Customs Booth No. 1 from the direction of Singapore and terminating at the exit gate nearest to Customs No. 3 as the northern boundary; (c) for export by road during normal working hours, the Customs Export Bay in the Customs Complex at Tanjung Putri bounded within the perimeter fence commencing from the north by the entry gate nearest to Customs Booth No. 3 and terminating at the exit gate nearest to Customs Export Exit Check-Point at Booth No. 2 of the northern boundary; (d) for export by road outside normal working hours, the Customs Export Bay in the Customs Complex at Tanjung Putri as specified in paragraph (c), or at the direction of the Proper Officer of Customs; (e) the Customs Office and buildings and additional construction located within the Customs, Immigration and Quarantine Complex Bukit Chagar, Mukim Johor Bahru, District of Johor Bahru, Johor enclosed within the perimeter fence, commencing from the south at the entry/exit gate facing the Lingkaran Dalam Road. (a) for import into the Zone-Customs Complex at Pasir Gudang, i.e. the area allocated for the Zone Authority and Customs Imports Examination which includes the railway yard of the road leading into the Zone; (b) for export from the Zone-Customs Complex at Pasir Gudang, i.e. the area allocated for the Zone Authority and Customs Exports Examination which includes the railway yard and the road leading out of the Zone. The Sultan Abu Bakar Complex, Mukim of Tajung Kupang, District of Johor Bahru, enclosed within the perimeter fence, commencing from the south by the entry/exit gate along the perimeter fence nearest to the Import Holding Area from the direction of Singapore and terminating at the exit/entry gate along the perimeter fence nearest to the Export Holding Area (a) the Immigration Check-Point at the Railway Bridge spanning the Sungai Golok; (b) the railway track at Rantau Panjang commencing from the Malaysian end of the railway bridge on the right bank of Sungai Golok and extending to southern approximately 155.4 metres to the road level crossing including the railway station platform running parallel to the track; (c) that area in Lot 251 in the village of Rantau Panjang, district of Pasir Mas, Kelantan comprising the Immigration Complex Check- Point and shed bounded on the north by the north gate and fence on the Malaysian end of the road bridge connecting Rantau Panjang and Golok on the south by the south gate, to the west, the fencing linking both the gates and to the east, the building complex and the imaginary straight line projecting from the northern end of the building complex till it meets the north gate including the passage connecting the check-point area to the railway station platform adjoining the Customs Office. SABAH The Immigration Office and its compound approximately 30.5 metres from the Suspension Bridge over the Sungai Pa Sia where there is the only passage from Long Bawan, Indonesia or Long Semadon, Sarawak The Immigration Office and its compound approximately over 32.2 kilometre by Sungai Persiangan from a border post Bantul, which is manned by the border Scouts SARAWAK Batu Lintang Customs Station Bau Government Station Biawak Customs Station Bunan Customs Station Lubok Antu Customs Station Lundu Government Station Padawan Customs Station Sematan Customs Station Sirikin Customs Station Sungai Tujuh Customs Station (a) Customs Office import examination area situated on the west of the Tebedu Immigration Complex; (b) Customs Office export examination area situated on the east of the Tebedu Immigration Complex. Customs Office Tadungan BY AIR PENINSULAR MALAYSIA Sultan Abdul Halim Airport, Alor Star (Kedah) Penang International Airport, Bayan Lepas (Pulau Pinang) Sultan Azlan Shah Airport, Ipoh (Perak) Sultan Abdul Aziz Shah Airport, Selangor Sultan Mahmud Airport, Kuala Terengganu (Terengganu) Sultan Haji Ahmad Shah Airport, Kuantan (Pahang) Batu Berendam Airport, Melaka Sultan Ismail Petra Airport, Pengkalan Chepa (Kota Bharu) Senai International Airport, Senai (Johor Bahru) Tioman Airport, Pulau Tioman (Pahang) Langkawi International Airport, Langkawi (Kedah) Pangkor Airport, Pangkor (Perak) Kuala Lumpur International Airport, Sepang (Selangor) Pulau Redang Airport, Pulau Redang (Terengganu) SABAH Kota Kinabalu International Airport Kudat Airport Labuan Airport Lahad Datu Airport Sandakan Airport Semporna Airport Tawau Airport SARAWAK Bintulu Airport Kuching International Airport Lawas Airport Limbang Airport Marudi Airport Miri Airport Mulu Airport Sibu Airport Simanggang Airport INLAND PORT STATION For import and export by rail, at the Customs Warehouse in the Railway Goods Yard, Ipoh INLAND CLEARANCE DEPOT (a) Inland Clearance Depot Kontena Nasional No. 2443, Lorong Perusahaaan Satu, Kawasan Perusahaan Prai; (b) North Terminal Sdn. Bhd. 4935, Dermaga Prai. Ipoh Cargo Terminal, Jalan St. John, Ipoh (a) Internal Clearance Depot Seri Setia Batu 9, Jalan Klang Lama, Seri Setia, Petaling Jaya; (b) Express Rail Link Sdn. Bhd. KL City Air Terminal, KL Central Station, 50470 Kuala Lumpur; (c) Level 1 – Customs Office Area and carousel with an area of 2,520.75 square metres; (d) Level 2 – Baggage sorting area with an area of 1.303.55 square metres. Nilai Inland Port, Lot 574-576, 578, 648, 1271, 1272 and part of Lot 3.721, Mukim Sentul, Seremban Segamat Inland Port Sdn. Bhd. Lot 1150 & 1092, Mukim Pagoh, Segamat, Johor SM Inland Port Sdn. Bhd. Lot 197, Blok 8, Tebedu, Serian, Kota Samarahan, Sarawak FREE ZONE All those lands situated in the Mukim of Plentong, District of Johor Bahru, Johor bounded by the grey line as shown in the Gazette Plan 2233 and 2234 deposited in the Office of the Director of Survey, Johor excluding the Customs Examination Area, an area of 0.459 hectare at Container Terminal in Lot 66208 All those lands situated in the Mukim of Kapar, in the District of Klang, Selangor bounded by the grey line as shown in the Gazette Plan 882 deposited in the Office of the Director of Survey, Selangor excluding the areas specified as follows: (a) land occupied by the Klang Port Management Sdn. Bhd., comprising Export Stacking Bay (6 blocks: TA-TG), Refers Stack (2 Blocks: RA-RB), Customs Examination Bay (3 Blocks: 1-3), Godown Q (an area of 220’ X 150’), Godown P (an area of 600’ X 150’), Open Yard P (an area of 660’ X 217’), Transit Shed No. 13 (an area of 100’ X 101’), Transit Shed No. 16 (an area of 177’ X 105’), Transit Shed No. 18 (an area of 177’ X 105’) and Dock Area (an area of 700’ X 105’); (b) land occupied by the Klang Container Terminal comprising the Export Stack (Block B1-Rows B11 to B30, Slots 01 to 14) (Blocks B2-Rows B11 to B29, Slots 15-31) (Block C1-Rows C01 to C34 and C99 Slots 01-14) (Block C2-Rows 01 to C35 Slot 15-31) (Block F-Rows F16 to F25 Slots 01-11 Rows F01 to F15 Slots 01 to 03) (Block G-Rows 01 to G16 Slots 01 to 14) (Refer-Row R01 to R52, Rows R59 to R87 Customs Examination Area bounded by the pink line as shown in the above Gazette Plan 882) (Rows E01 to E42 Slots 01 to 06) FS Stacking Area (Rows 01 to 06 Slots 16 to 62) and Container Freight Station (an area of 2.973 square metres); and (c) land occupied by Port Klang Distribution Park Sdn. Bhd., comprising the Customs Holding Area (an area of 20,000 square feet). All those lands situated in the Mukim of Klang, District of Klang, Selangor bounded by the grey line as shown in the Gazette Plan 1174 deposited in the Office of the Director of Survey, Selangor All those lands situated in Section 4, City of Butterworth, Northern District, Seberang Prai bounded by the grey line as shown in the Gazette Plan 573 deposited in the Office of the Director of Survey, Pulau Pinang, excluding the areas specified as follows: (a) land occupied by the Pulau Pinang Port Sdn. Bhd. comprising of— (i) Warehouse W2; (ii) Export Blocks (Block A-D: Slot No. 1-45) (Block E-H: Slot No. 1-23); and (iii) the Customs Examination Bay for containers (between Block D and the railway line). Mukim of 12, District of Barat All those lands situated in Mukim 12, Daya, Pulau Pinang District of Barat Daya, Pulau Pinang, bounded by the grey line as shown in the Gazette Plan 495 deposited in the office of the Director of Survey, Pulau Pinang All those lands situated in Bukit Kayu Bukit Kayu Hitam Town and Hitam Town and Mukim of Sungai Laka, Mukim of Sungai Laka, District of Kubang Pasu, Kedah, bounded District of Kubang Pasu, Kedah by the grey line as shown in the Gazette Plan 1385 deposited in the office of the Director of Survey, Kedah Duty Free Area at Stulang Laut, All those lands within the fenced area Johor Bahru containing Lot PTB 10707 and PTB 20006 (excluding the Customs Office and the Customs Examination Area), of Mukim Bandar, in the District of Johor Bahru, Lot PTD 146378 and PTD 148062, of Mukim Plentong, in Bandar, in the District of Johor Bahru, the jetty at Lot PTB 20380 and the land at Lot 20438 (including the floating restaurant), of Mukim Bandar, in the District of Johor Bahru, Johor Kuala Lumpur International All those lands situated in the Town Airport, Sepang Area of Sepang International Airport, District of Sepang bounded by the grey line as shown in the Gazette Plan 1207 deposited in the office of the Director of Survey, State of Selangor Tanjung Pelepas, Lot PTD 2423 Mukim of Tanjung Mukim of Tanjung Kupang, Kupang, District of Johor Bahru, Johor, District of Johor Bahru, as shown by the grey line in the Gazette Johor (Phase 1) Plan 2749 deposited in the office of the Director of Survey, Johor Pulau Layang-Layang All areas of Pulau Layang-Layang comprising an area of 10.1 square kilometre located at Latitude North 07º X 22.5’ Longitude East 113º X 48.8’ in the South China Sea within the Continental Platform of Malaysia Mukim Rantau Panjang, All those lands situated in the Mukim District of Pasir Mas, Kelantan of Rantau Panjang, District of Pasir Mas, Kelantan bounded by the grey line as shown in the Gazette Plan 705 deposited in the office of the Director of Survey, Kelantan excluding the areas specified as follows: (a) the Customs Office and the Customs Examination Area; and (b) land occupied by Pos Malaysia Berhad, Rantau Panjang. The Air Cargo Forwarding Agents Lot 1993 Mukim 12, Warehouse Complex, International District of Barat Daya, Airport situated at part of Lot 1993 Pulau Pinang Mukim 12, District of Barat Daya, Pulau Pinang bounded by the grey line as shown in the Gazette Plan 730 deposited in the office of the Director of Survey, Pulau Pinang South Point, Port Klang, Port Swettenham South Point, Port Klang, District of Klang, Selangor as shown by Port Swettenham, the bold line in the Gazette Plan 1382 District of Klang, Selangor deposited in the office of the Director of Survey and Mapping, Selangor Pulau Indah, Mukim of Klang, Lot 67894 Pulau Indah, Mukim Klang, District of Klang, Selangor District of Klang, Selangor, as shown by the grey line in the Gazette Plan 1388 deposited in the office of the Director of Survey and Mapping, Selangor MILS Logistik Hub, Lot 88077 an area of 13.359 hectare Mukim of Klang, District of Klang, Mukim of Klang, District of Klang, Selangor Selangor, as shown by the grey line in the Gazette Plan 1451 deposited in the office of the Director of Survey and Mapping, Selangor"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~sched_2",
+      "@type": "akn:schedule",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Section 3] QUARANTINE STATION LOCATION Padang Besar Quarantine Station, 02100 Padang Besar, Perlis Batu Maung Quarantine Station, Pulau Pinang Kuala Lumpur International Airport (KLIA), Sepang Quarantine Station, Jalan Pekeliling 4, Zon Selatan, 64000 KLIA, Sepang, Selangor Port Klang Quarantine Station, Jalan Tangki Off Jalan Kem, 42000 Pelabuhan Klang, Selangor Pulau Indah Quarantine Station, Pulau Indah, Pelabuhan Klang, Selangor Post-Entry Quarantine Station, Serdang, Selangor Labuan Quarantine Station, Jalan Patau-Patau, Peti Surat 82071, 87030 Federal Territory of Labuan Rantau Panjang Quarantine Station, 17200 Rantau Panjang, Kelantan Port Kuantan Quarantine Station, Kuantan, Pahang Bukit Kayu Hitam Quarantine Station, Kedah Gelang Patah Quarantine Station, Johor"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~sched_3",
+      "@type": "akn:schedule",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~sched_3__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~sched_3__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~sched_3__para_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~sched_3__para_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~sched_3__para_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~sched_3__para_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Section 3] RELEVANT WRITTEN LAWS"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~sched_3__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~sched_3",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Animals Act 1953 [Act 647]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~sched_3__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~sched_3",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Plant Quarantine Act 1976 [Act 167]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~sched_3__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~sched_3",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Lembaga Kemajuan Ikan Malaysia Act 1971 [Act 49]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~sched_3__para_4",
+      "@type": "akn:paragraph",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~sched_3",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Food Act 1983 [Act 281]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~sched_3__para_5",
+      "@type": "akn:paragraph",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~sched_3",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Federal Agricultural Marketing Authority Act 1965 [Act 141]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~sched_3__para_6",
+      "@type": "akn:paragraph",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/44/eng@/~sched_3",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Fisheries Act 1985 [Act 317]"
+      }
+    }
+  ]
+}

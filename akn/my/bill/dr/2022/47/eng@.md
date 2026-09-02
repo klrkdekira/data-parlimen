@@ -22,105 +22,101 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ## SCHEDULE
 
-Column (1)
+Column (1) Column (2)
 
-<!-- marginal: Column (2) -->
+<!-- marginal: Purpose -->
 
-Purpose Title
+Title Amount (RM)
 
-<!-- marginal: Amount -->
+<!-- marginal: B. 1 -->
 
-<!-- marginal: (RM) -->
+Parliament of Malaysia 83,365,600
 
-B. 1 Parliament of Malaysia
+<!-- marginal: B. 2 -->
 
-<!-- marginal: 83,365,600 -->
-
-B. 2 Keeper of Rulers’ Seal Office
+Keeper of Rulers’ Seal Office
 
 <!-- marginal: 1,802,350 -->
 
-B. 3 National Audit Department
+<!-- marginal: B. 3 -->
 
-<!-- marginal: 80,418,750 -->
+National Audit Department 80,418,750
 
-B. 4 Election Commission
+<!-- marginal: B. 4 -->
 
-<!-- marginal: 32,771,650 -->
+Election Commission 32,771,650
 
-B. 5 Public Services Commission
+<!-- marginal: B. 5 -->
 
-<!-- marginal: 21,190,100 -->
+Public Services Commission 21,190,100
 
-B. 6 Prime Minister’s Department
+<!-- marginal: B. 6 -->
 
-<!-- marginal: 2,169,205,150 -->
+Prime Minister’s Department 2,169,205,150
 
-B. 7 Public Service Department
+<!-- marginal: B. 7 -->
 
-<!-- marginal: 235,750,800 -->
+Public Service Department 235,750,800
 
-B. 8 Attorney General’s Chambers
+<!-- marginal: B. 8 -->
 
-<!-- marginal: 99,171,550 -->
+Attorney General’s Chambers 99,171,550
 
-B. 9 Malaysian Anti-Corruption Commission
+<!-- marginal: B. 9 -->
 
-<!-- marginal: 156,207,800 -->
+Malaysian Anti-Corruption Commission 156,207,800
 
-B. 10 Treasury
+<!-- marginal: B. 10 -->
 
-<!-- marginal: 2,100,000,000 -->
+Treasury 2,100,000,000
 
-B. 11 Treasury General Services
+<!-- marginal: B. 11 -->
 
-<!-- marginal: 28,118,860,750 -->
+Treasury General Services 28,118,860,750
 
-B. 12 Contribution to Statutory Funds
+<!-- marginal: B. 12 -->
 
-<!-- marginal: 1,096,537,250 -->
+Contribution to Statutory Funds 1,096,537,250
 
-B. 13 Ministry of Foreign Affairs
+<!-- marginal: B. 13 -->
 
-<!-- marginal: 404,806,900 -->
+Ministry of Foreign Affairs 404,806,900
 
-B. 14 Ministry of National Unity
+<!-- marginal: B. 14 -->
 
-<!-- marginal: 270,797,650 -->
+Ministry of National Unity 270,797,650
 
-B. 15 Ministry of Economy
+<!-- marginal: B. 15 -->
 
-<!-- marginal: 265,488,150 -->
+Ministry of Economy 265,488,150
 
-B. 20 Ministry of Plantation and Commodities
+<!-- marginal: B. 20 -->
 
-<!-- marginal: 120,500,000 -->
+Ministry of Plantation and Commodities 120,500,000
 
-B. 21 Ministry of Agriculture and Food Security
+<!-- marginal: B. 21 -->
 
-<!-- marginal: 2,382,552,500 -->
+Ministry of Agriculture and Food Security 2,382,552,500
 
-B. 22 Ministry of Rural and Regional
+<!-- marginal: B. 22 -->
 
-<!-- marginal: 1,808,183,850 -->
+Ministry of Rural and Regional 1,808,183,850 Development
 
-Development B. 23 Ministry of Natural Resources, Environment
+<!-- marginal: B. 23 -->
 
-<!-- marginal: 837,347,200 -->
+Ministry of Natural Resources, Environment 837,347,200 and Climate Change
 
-and Climate Change B. 24 Ministry of International Trade and
+<!-- marginal: B. 24 -->
 
-<!-- marginal: 312,548,250 -->
+Ministry of International Trade and 312,548,250 Industry
 
-Industry B. 25 Ministry of Domestic Trade and Cost of
+<!-- marginal: B. 25 -->
 
-<!-- marginal: 845,905,700 -->
+Ministry of Domestic Trade and Cost of 845,905,700 Living
 
-Living B. 26 Ministry of Entrepreneur and Cooperatives
+<!-- marginal: B. 26 -->
 
-<!-- marginal: 106,070,700 -->
-
-Development
+Ministry of Entrepreneur and Cooperatives 106,070,700 Development
 
 <!-- page 3 -->
 

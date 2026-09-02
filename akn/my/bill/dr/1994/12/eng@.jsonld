@@ -1,0 +1,1365 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-12-1994",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Domestic Violence Bill 1994"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_9"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PROTECTION ORDER"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_11"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "COMPENSATION AND COUNSELLING"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_10__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_10__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_10__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where a victim of domestic violence suffers personal injuries or damage to property or financial loss as a result of the domestic violence, the court hearing a claim for compensation may award such compensation in respect of the injury or damage or loss as it deems just and reasonable. DOMESTIC VIOLENCE"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A claim for compensation may be made as an independent civil action whether or not criminal proceedings have been taken against the defendant."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_10__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_10__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_10__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_10__subsec_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_10__subsec_3__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_10__subsec_3__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The court hearing a claim for such compensation may take into account—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_10__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_10__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the pain and suffering of the victim, and the nature and extent of the physical or mental injury suffered ;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_10__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_10__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the cost of medical treatment injuries;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_10__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_10__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any loss of earnings arising therefrom;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_10__subsec_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_10__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the amount or value of the property taken or destroyed or damaged;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_10__subsec_3__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_10__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "necessary and reasonable expenses incurred by or on behalf of the victim when the victim is compelled to separate or be separated from the defendant due to the domestic violence, such as— (i) lodging expenses to be contributed to a safe place or shelter; (ii) transport and moving expenses; (iii) the expenses required in setting up a separate household which, subject to subsection (4), may include amounts representing such housing payments or rental payments or part thereof, in respect of the shared residence, or alternative residence, as the case may be, for such period as the court considers just and reasonably necessary."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_10__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_10__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_10__subsec_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_10__subsec_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In considering any necessary and reasonable expenses that may be taken into account under subparagraph (3)(e)(iii), the court may also take into account—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_10__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_10__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the financial position of the victim as well as that of the defendant;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_10__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_10__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the relationship that exists between the parties and the reasonableness of requiring the defendant to make or contribute towards such payments;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_10__subsec_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_10__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the possibility of other proceedings being taken between the parties and the matter being more appropriately dealt with under the relevant laws relating to the financial provision of spouses or former spouses and other dependants."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_11__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_11__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_11__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_11__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_11__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The court may, in any proceedings in which a protection order is sought, instead of or in addition to issuing a protection order, make one or both of the following orders:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_11__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "that the parties concerned be referred to a conciliatory body;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_11__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "that one or more of the parties to the dispute be referred to rehabilitation psychotherapy or such other reconciliatory counselling."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The court hearing a claim for compensation under section 10 may also make one or both of the orders under paragraph (1)(a) or (b)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_11__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "When considering any question relating to making an order under subsection (1) the court may, whenever it is practicable, take the advice of a social welfare officer or some other trained or experienced person."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_11__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In this section \"conciliatory body\" includes counselling services provided by bodies set up under the Department of Social Welfare and, in the case where the parties are Muslims, also includes those set up under the Islamic Religious Affairs Department concerned."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_4__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The court may, during the pendency of investigations relating to the commission of an offence involving domestic violence, issue an interim protection order prohibiting the person against whom the order is made from using domestic violence against his or her spouse or former spouse or a child or an incapacitated adult or any other member of the family, as the case may be, as specified in the order."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An interim protection order shall cease to have effect upon the completion of the investigations."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_5__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_5__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_5__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_5__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The court may, in proceedings involving a complaint of domestic violence, issue any one or more of the following protection orders:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_5__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a protection order restraining the person against whom the order is made from using domestic violence against the complainant;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_5__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a protection order restraining the person against whom the order is made from using domestic violence against the child;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_5__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a protection order restraining the person against whom the order is made from using domestic violence against the incapacitated adult."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The court in making a protection order under paragraph (1)(a) or (b) or (c) may include a provision that the person against whom the order is made may not incite any other person to commit violence against the protected person or persons."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6__subsec_1__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A protection order issued under section 5 may, where the court is satisfied on a balance of probabilities that it is necessary for the protection and personal safety DOMESTIC VIOLENCE of the complainant or the child or the incapacitated adult, as the case may be, provide for any one or more of the following orders:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "subject to subsection (4), the granting of the right of exclusive occupation to any protected person of the shared residence or a specified part of the shared residence by excluding the person against whom the order is made from the shared residence or specified part thereof, regardless of whether the shared residence is solely owned or leased by the person against whom the order is made or jointly owned or leased by the parties;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "prohibiting or restraining the person against whom the order is made from entering any protected person's place of residence or shared residence or alternative residence, as the case may be, or from entering any protected person's place of employment or school or other institution or from making personal contact with any protected person other than in the presence of an enforcement officer or such other person as may be specified or described in the order;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "requiring the person against whom the order is made to permit any protected person to enter the shared residence, or to enter the residence of the person against whom the order is made, accompanied by any enforcement officer for the purpose of collecting the protected person's or persons' personal belongings;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "requiring the person against whom the order is made to avoid making written or telephone communication with any protected person and specifying the limited circumstances in which such communication is permitted ;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "requiring the person against whom the order is made to permit any protected person to have the continued use of a vehicle which has previously been ordinarily used by the protected person or persons; BILL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the giving of any such direction as is necessary and incidental for the proper carrying into effect of any order made under any of the above-mentioned paragraphs, to have effect for such period, not exceeding twelve months from the date of the commencement of such order, as may be specified in the protection order."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any one or more of the orders under subsection (1) may be—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "made or made anew, upon the contravention of a protection order, in accordance with section 9; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "extended for a further period, not exceeding twelve months from the date of the expiration of the original order, where the court is satisfied that, notwithstanding that there had been no actual contravention of the order, such extension is necessary for the protection and personal safety of the protected person or persons: Provided that the extension of an order under this paragraph shall not be made more than once."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Except so far as the exercise by the person against whom the order is made of a right to occupy the shared residence, or to enter the alternative residence, is suspended or restricted, or prohibited or restrained, by virtue of an order under paragraph (1)(a) or (b), such order shall not affect any title or interest that the person against whom the order is made or any other person might have in the said premises."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6__subsec_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The court shall not make an order excluding the person against whom the order is made from the whole of a shared residence that is solely or jointly owned or leased by him unless it is satisfied that there is no other way to secure the personal safety of any protected person for the time being, and such order, where made, shall, in the case where the shared residence is solely owned DOMESTIC VIOLENCE or leased by the person against whom the order is made, or may, in the case where the shared residence is jointly owned or leased by the parties, be—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "revoked if a suitable alternative residence is found for the protected person or persons; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "revoked or modified upon the court's being otherwise satisfied that it is no longer necessary for securing the personal safety of the protected person or persons."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In paragraph (4)(b), \"modified\" means modifying an order excluding the person against whom the order is made from the whole of the shared residence into an order excluding him from such part of the shared residence as is specified in the order."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_7__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_7__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_7__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the court is satisfied that the person against whom a protection order or interim protection order is made is likely to cause actual physical injury to the protected person or persons, the court may attach a power of arrest to such protection order or interim protection order, as the case may be."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If a power of arrest is attached by virtue of subsection (1), a police officer may arrest without warrant the person against whom the order is made when he has reasonable cause to believe that person is in breach of the order issued under subsection 4(1) or 5(1) or of an order included in a protection order as falls within paragraph 6(l)(a) or (b), by reason of that person's use of violence or, as the case may be, of his entry into any place prohibited under the order."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_7__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_7__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_7__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where a power of arrest is attached to a protection order or interim protection order and the person against whom the order is made is arrested under subsection (2)-"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_7__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_7__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he shall be brought before a judge within twenty-four hours of his arrest; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_7__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_7__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he shall not be released within that period except on the direction of the judge, but nothing in this section shall authorise his continued detention under this subsection after the expiry of that period."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_7__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In this section \"judge\" includes a Magistrate."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_8__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_8__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_8__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who wilfully contravenes a protection order or any provision thereof shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding two thousand ringgit or to imprisonment for a term not exceeding six months or to both."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who wilfully contravenes a protection order by using violence on a protected person shall, on conviction, be liable to a fine not exceeding four thousand ringgit or to imprisonment for a term not exceeding one year or to both."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_8__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who is convicted for a second or subsequent violation of a protection order under subsection (2) shall be punished with imprisonment for a period of not less than seventy-two hours and not more than two years, and shall also be liable to a fine not exceeding five thousand ringgit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_8__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of this section a \"protection order\" includes an interim protection order."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Where a person against whom a protection order has"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "been made contravenes the protection order, the court may, in addition to any penalty provided for under section 8, make or make anew, as the case may be, any one or more of the orders under subsection 6(1), to commence from such date as is specified in such new order."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV__cl_17"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PROCEDURE ON PROTECTION ORDERS"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "An interim protection order may be sought pending"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "investigations by the police following an information relating to the commission of an offence involving domestic violence. DOMESTIC VIOLENCE"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV__cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV__cl_13__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A protection order may be sought during any criminal proceedings under the Penal Code or any other written law where the accused is charged with an offence committed under circumstances that falls within the definition of \"domestic violence\",—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV__cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "as a condition of the accused's release on bail or at any other stage of the proceedings; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV__cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "upon the compounding of such offence under section 260 of the Criminal Procedure Code."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV__cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV__cl_14__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV__cl_14__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV__cl_14__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "A complaint pursuant to this Act may be filed in any district where—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV__cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the complainant resides;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV__cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the offender resides;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV__cl_14__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the alleged violence occurred; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV__cl_14__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the victim is temporarily located, and shall be heard by the court as soon as practicable."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In the case of a child, or an incapacitated adult who is incapable of filing in a complaint, such complaint may be filed by a guardian or relative or person responsible for the care of such child or incapacitated adult, as the case may be, or by an enforcement officer."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV__cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV__cl_16__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV__cl_16__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The registry of the court shall maintain a record of all complaints filed pursuant to this Act, and all protection orders and interim protection orders issued by the court under this Act. The record shall contain—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV__cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the names, gender and relationship of the parties;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV__cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the domestic violence alleged, whether it involved any weapon, or resulted in personal injuries and whether the injuries inflicted required medical treatment;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV__cl_16__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the effective date and terms of each order issued. BILL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Within twenty-four hours of the issuance of a"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "protection order or interim protection order, as the case may be, the Registrar of the court in which it is issued shall forward a copy of the order to the officer in charge of the police district where the offender resides. The police officer concerned shall file proof of service with the Registrar of the court within seven days of service."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Domestic Violence Act 1994 and shall come into force on such date as the Minister may, by notification in the Gazette, appoint."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall apply to all persons in Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2__list_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2__list_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "\"alternative residence\" means the premises or accommodation which the victim is or has been compelled to seek or move into as a result of domestic violence; \"child\" means a person below the age of eighteen years who is living as a member of the offender's family or of the family of the offender's spouse or former spouse, as the case may be; \"court\" means—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2__list_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in respect of criminal proceedings involving allegations of domestic violence, the court BILL competent to try the actual offence with which the accused is charged;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in respect of civil proceedings compensation under section 10, the court competent to hear such claims in tort; \"domestic violence\" means the commission of any of the following acts:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2__list_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2__list_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2__list_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2__list_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "wilfully or knowingly, placing or attempting to place, the victim in fear of physical injury;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "causing physical injury to the victim by such act which is known or ought to have been known would result in physical injury;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2__list_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "compelling the victim by force or threat to engage in any conduct or act, sexual or otherwise, from which the victim has a right to abstain;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2__list_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "confining or detaining the victim against the victim's will; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2__list_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2__list_2__para_e__subpara_i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "with intent to cause, or knowing that it is likely to cause, distress or annoyance to the victim, causing mischief or destruction or damage to property, by a person against—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2__list_2__para_e__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2__list_2__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "his or her spouse; (ii) his or her former spouse; (iii) a child; (iv) an incapacitated adult; or (v) any other member of the family; \"enforcement officer\" means a police officer or a welfare officer from the Department of Social Welfare; \"incapacitated adult\" means a person who is wholly or partially incapacitated or infirm by reason of physical or mental disability or ill-health or old age who is living as a member of the offender's family; \"Minister\" means the Minister charged with the responsibility for social welfare; DOMESTIC VIOLENCE \"other member of the family\" means—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2__list_3",
+      "@type": "akn:list",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2__list_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2__list_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2__list_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2__list_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "(i) an adult son or daughter; or (ii) a father or mother, of the offender; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2__list_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_2__list_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "(i) a brother or sister; or (ii) any other relative, of the offender who in the opinion of the court should in the circumstances of that family be regarded as a member of the family; \"protected person\" means a person who is protected under a protection order; \"protection order\" means an order issued under Part II; \"relative\" means a person who is related through the full-blood or half-blood, or through marriage or adoption, including de facto adoption; \"safe place\" or \"shelter\" means any home or institution maintained or managed by the Department of Social Welfare or by any other agency or voluntary organisation approved by the Minister for the purposes of this Act or any other suitable place the occupier of which is willing temporarily to receive the victim; \"shared residence\" means the premises at which the parties are, or have been, living together as members of the same household; \"spouse\" includes a de facto spouse, that is to say, a person who has gone through a form of ceremony which is recognised as a marriage ceremony according to the religion or custom of the parties concerned, notwithstanding that such ceremony is not registered or not capable of being registered under any written law relating to the solemnisation and registration of marriages; \"victim\" means a victim of domestic violence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The provisions of this Act shall be in addition to, and"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "not in derogation of, any provisions relating to offences against the person or in respect of property contained in the Penal Code or any other written law."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_20"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "MISCELLANEOUS"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_18__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who has reason to believe that an offence involving domestic violence is being or has been committed may give information in respect thereof to an enforcement officer."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No person who gives any such information in good faith shall incur any liability for defamation or otherwise in respect of the giving of such information."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_19__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_19__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_19__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_19__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_19__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_19__subsec_1__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The duties of an enforcement officer shall include—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_19__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_19__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "assisting a victim of domestic violence to file a complaint regarding the domestic violence;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_19__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_19__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "providing or arranging transportation for the victim to an alternative residence or a safe place or shelter if such transportation is required;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_19__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_19__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "providing or arranging transportation for the victim to the nearest hospital or medical facility for treatment of injuries if such treatment is needed;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_19__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_19__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "explaining to the victim the rights to protection against domestic violence;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_19__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_19__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "accompanying the victim to the victim's residence or previous residence to collect personal belongings."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_19__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_19__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An enforcement officer who is also a police officer shall have the following additional duties:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_19__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_19__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "exercising the powers of arrest under this Act or any other written law;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_19__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_19__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "removing or supervising the removal of a person excluded from a shared residence where the court has issued an order under paragraph 6(l)(a)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_20__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_20__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_20__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may make regulations for the purpose of carrying into effect the provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_20__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_20__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_20__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_20__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_20__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_20__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_20__subsec_2__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to the generality of subsection (1), such regulations may provide for—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_20__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_20__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the maintenance of a register or record by the courts on matters filed pursuant to this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_20__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_20__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the prescribed forms of any information, report, complaint, order or other document required pursuant to this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_20__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_20__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the procedure in respect of the filing in of any document mentioned in paragraph (b);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_20__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_20__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the making of searches and the giving of certified copies of any document mentioned in paragraph (b);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_20__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_20__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the fixing of fees that may be charged for the purposes of this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_20__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/12/eng@/~part_V__cl_20__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other matter which under this Act is required or permitted to be prescribed."
+      }
+    }
+  ]
+}

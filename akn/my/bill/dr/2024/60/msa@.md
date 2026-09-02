@@ -6,19 +6,35 @@
 
 ## SUSUNAN FASAL
 
-## BAhAgiAN I
+## BAHAGIAN I
 
 ## PERMULAAN
 
-1. Tajuk ringkas dan permulaan kuat kuasa 2. Akta ini mengikat Kerajaan Persekutuan 3. Tafsiran 4. Rukun perkongsian data
+1. Tajuk ringkas dan permulaan kuat kuasa
 
-## BAhAgiAN II
+2. Akta ini mengikat Kerajaan Persekutuan
+
+3. Tafsiran
+
+4. Rukun perkongsian data
+
+## BAHAGIAN II
 
 ## JAWATANKUASA PERKONGSIAN DATA NEGARA
 
-5. Penubuhan Jawatankuasa 6. Fungsi Jawatankuasa 7. Penjalanan sementara fungsi Pengerusi 8. Mesyuarat Jawatankuasa 9. Jawatankuasa boleh mengundang orang lain untuk menghadiri mesyuarat 10. Jawatankuasa boleh menubuhkan jawatankuasa kecil
+5. Penubuhan Jawatankuasa
 
-## BAhAgiAN III
+6. Fungsi Jawatankuasa
+
+7. Penjalanan sementara fungsi Pengerusi
+
+8. Mesyuarat Jawatankuasa
+
+9. Jawatankuasa boleh mengundang orang lain untuk menghadiri mesyuarat
+
+10. Jawatankuasa boleh menubuhkan jawatankuasa kecil
+
+## BAHAGIAN III
 
 ## KEWAJIPAN DAN KUASA KETUA PENGARAH
 
@@ -26,7 +42,7 @@
 
 <!-- page 2 -->
 
-## BAhAgiAN IV
+## BAHAGIAN IV
 
 ## PERKONGSIAN DATA
 
@@ -50,7 +66,7 @@
 
 21. Kewajipan untuk melaporkan butir-butir yang berhubungan dengan perkongsian data
 
-## BAhAgiAN V
+## BAHAGIAN V
 
 AM
 
@@ -70,7 +86,7 @@ AM
 
 29. Kuasa untuk meminda Jadual
 
-## JAdUAL
+## JADUAL
 
 <!-- page 3 -->
 
@@ -80,7 +96,7 @@ Suatu Akta untuk memperuntukkan perkongsian data dalam kawalan sesuatu agensi se
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## BAhAgiAN I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -134,7 +150,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (3) Apa-apa data agensi sektor awam hendaklah diurus selaras dengan Akta Rahsia Rasmi 1972 [Akta 88] dan apa-apa arahan yang berhubungan dengan keselamatan dokumen rasmi yang dikeluarkan oleh Kerajaan.
 
-## BAhAgiAN II
+## BAHAGIAN II
 
 ## JAWATANKUASA PERKONGSIAN DATA NEGARA
 
@@ -240,7 +256,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 9 -->
 
-## BAhAgiAN III
+## BAHAGIAN III
 
 ## KEWAJIPAN DAN KUASA KETUA PENGARAH
 
@@ -262,7 +278,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (2) Ketua Pengarah hendaklah mempunyai semua kuasa yang perlu bagi, atau berkaitan dengan, atau semunasabahnya bersampingan dengan, penjalanan kewajipan dan kuasanya di bawah Akta ini.
 
-## BAhAgiAN IV
+## BAHAGIAN IV
 
 ## PERKONGSIAN DATA
 
@@ -426,7 +442,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (2) Laporan yang disebut dalam subseksyen (1) hendaklah dikemukakan dari semasa ke semasa sebagaimana yang boleh dikehendaki oleh Ketua Pengarah.
 
-## BAhAgiAN V
+## BAHAGIAN V
 
 AM
 
@@ -480,7 +496,7 @@ badan berkanun itu atau yang berupa sebagai bertindak atas sifat itu atau yang d
 
 29. Menteri boleh, selepas berunding dengan Menteri yang dipertanggungkan dengan tanggungjawab bagi sesuatu undang-undang bertulis yang berkaitan, melalui perintah yang disiarkan dalam Warta, meminda Jadual.
 
-## JAdUAL
+## JADUAL
 
 [Subseksyen 4(2)]
 
@@ -578,111 +594,45 @@ Undang-Undang Bertulis
 
 Bil.
 
-14. Akta Lembaga Kemajuan Wilayah Pulau Pinang
+14. Akta Lembaga Kemajuan Wilayah Pulau Pinang Subseksyen 32(1) 1983 [Akta 282]
 
-<!-- marginal: Subseksyen 32(1) -->
+15. Akta Pelesenan Tenaga Atom 1984 [Akta 304] Seksyen 41
 
-1983 [Akta 282]
+16. Akta Hakcipta 1987 [Akta 332] Seksyen 52
 
-15. Akta Pelesenan Tenaga Atom 1984 [Akta 304]
+17. Akta Lembaga Kemajuan Industri Malaysia Subseksyen 13(2) (Pemerbadanan) 1965 [Akta 397]
 
-<!-- marginal: Seksyen 41 -->
+18. Akta Majlis Produktiviti Negara (Pemerbadanan) Subseksyen 17(2) 1966 [Akta 408]
 
-16. Akta Hakcipta 1987 [Akta 332]
+19. Akta Lembaga Pembangunan Langkawi 1990 Subseksyen 30(1) [Akta 423]
 
-<!-- marginal: Seksyen 52 -->
+20. Akta Maktab Kerjasama (Pemerbadanan) Subseksyen 12c(1) 1968 [Akta 437]
 
-17. Akta Lembaga Kemajuan Industri Malaysia
+21. Akta Lembaga Penggalakan Pelancongan Malaysia Subseksyen 23(1) 1992 [Akta 481]
 
-<!-- marginal: Subseksyen 13(2) -->
+22. Akta Industri Pelancongan 1992 [Akta 482] Subseksyen 35(1)
 
-(Pemerbadanan) 1965 [Akta 397]
+23. Akta Majlis Amanah Rakyat 1966 [Akta 489] Seksyen 32
 
-18. Akta Majlis Produktiviti Negara (Pemerbadanan)
+24. Akta Lembaga Pembangunan Industri Pembinaan Subseksyen 36(1) Malaysia 1994 [Akta 520]
 
-<!-- marginal: Subseksyen 17(2) -->
+25. Akta Kawalan Padi dan Beras 1994 [Akta 522] Subseksyen 30(1)
 
-1966 [Akta 408]
+26. Akta Lembaga Hasil Dalam Negeri Malaysia Subseksyen 31(1) 1995 [Akta 533]
 
-19. Akta Lembaga Pembangunan Langkawi 1990
+27. Akta Perbadanan Putrajaya 1995 [Akta 536] Subseksyen 32(1)
 
-<!-- marginal: Subseksyen 30(1) -->
+28. Akta Perbadanan Tabung Pendidikan Tinggi Subseksyen 54(1) Nasional 1997 [Akta 566]
 
-[Akta 423]
+29. Akta Lembaga Minyak Sawit Malaysia 1998 Subseksyen 66(1) [Akta 582]
 
-20. Akta Maktab Kerjasama (Pemerbadanan)
+30. Akta Perbadanan Labuan 2001 [Akta 609] Subseksyen 26(1)
 
-<!-- marginal: Subseksyen 12c(1) -->
+31. Akta Pembangunan Sumber Manusia Berhad Subseksyen 51(1) 2001 [Akta 612]
 
-1968 [Akta 437]
+32. Akta Suruhanjaya Syarikat Malaysia 2001 Subseksyen 38(1) [Akta 614]
 
-21. Akta Lembaga Penggalakan Pelancongan Malaysia
-
-<!-- marginal: Subseksyen 23(1) -->
-
-1992 [Akta 481]
-
-22. Akta Industri Pelancongan 1992 [Akta 482]
-
-<!-- marginal: Subseksyen 35(1) -->
-
-23. Akta Majlis Amanah Rakyat 1966 [Akta 489]
-
-<!-- marginal: Seksyen 32 -->
-
-24. Akta Lembaga Pembangunan Industri Pembinaan
-
-<!-- marginal: Subseksyen 36(1) -->
-
-Malaysia 1994 [Akta 520]
-
-25. Akta Kawalan Padi dan Beras 1994 [Akta 522]
-
-<!-- marginal: Subseksyen 30(1) -->
-
-26. Akta Lembaga Hasil Dalam Negeri Malaysia
-
-<!-- marginal: Subseksyen 31(1) -->
-
-1995 [Akta 533]
-
-27. Akta Perbadanan Putrajaya 1995 [Akta 536]
-
-<!-- marginal: Subseksyen 32(1) -->
-
-28. Akta Perbadanan Tabung Pendidikan Tinggi
-
-<!-- marginal: Subseksyen 54(1) -->
-
-Nasional 1997 [Akta 566]
-
-29. Akta Lembaga Minyak Sawit Malaysia 1998
-
-<!-- marginal: Subseksyen 66(1) -->
-
-[Akta 582]
-
-30. Akta Perbadanan Labuan 2001 [Akta 609]
-
-<!-- marginal: Subseksyen 26(1) -->
-
-31. Akta Pembangunan Sumber Manusia Berhad
-
-<!-- marginal: Subseksyen 51(1) -->
-
-2001 [Akta 612]
-
-32. Akta Suruhanjaya Syarikat Malaysia 2001
-
-<!-- marginal: Subseksyen 38(1) -->
-
-[Akta 614]
-
-33. Akta Perbadanan Harta Intelek Malaysia 2002
-
-<!-- marginal: Subseksyen 39(1) -->
-
-[Akta 617]
+33. Akta Perbadanan Harta Intelek Malaysia 2002 Subseksyen 39(1) [Akta 617]
 
 <!-- page 20 -->
 
@@ -764,7 +714,7 @@ Pantai Timur 2008 [Akta 688]
 
 Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk membuat peruntukan bagi perkongsian data di bawah kawalan sesuatu agensi sektor awam dengan agensi sektor awam lain, penubuhan Jawatankuasa Perkongsian Data Negara, fungsi dan kuasa Ketua Pengarah Jabatan Digital Negara berhubung dengan perkongsian data dan perkara lain yang berkaitan.
 
-## BAhAgiAN I
+## BAHAGIAN I
 
 2. Bahagian I Akta yang dicadangkan mengandungi perkara permulaan.
 
@@ -784,7 +734,7 @@ Subfasal 4(2) bertujuan untuk memperuntukkan bahawa mana-mana orang yang berkong
 
 Selanjutnya, subfasal 4(3) bertujuan untuk memperuntukkan bahawa apa-apa data agensi sektor awam hendaklah diurus selaras dengan Akta Rahsia Rasmi 1972 [Akta 88] dan apa-apa arahan yang berhubungan dengan keselamatan dokumen rasmi yang dikeluarkan oleh Kerajaan.
 
-## BAhAgiAN II
+## BAHAGIAN II
 
 7. Bahagian II Akta yang dicadangkan mengandungi peruntukan yang berhubungan dengan Jawatankuasa Perkongsian Data Negara (“Jawatankuasa”).
 
@@ -802,13 +752,13 @@ Selanjutnya, subfasal 4(3) bertujuan untuk memperuntukkan bahawa apa-apa data ag
 
 13. Fasal 10 bertujuan untuk memperuntukkan bahawa Jawatankuasa boleh menubuhkan apa-apa jawatankuasa kecil sebagaimana yang difikirkannya perlu atau suai manfaat untuk membantu Jawatankuasa dalam pelaksanaan fungsinya.
 
-## BAhAgiAN III
+## BAHAGIAN III
 
 14. Bahagian III Akta yang dicadangkan mengandungi peruntukan yang berhubungan dengan kewajipan dan kuasa Ketua Pengarah Jabatan Digital Negara.
 
 15. Fasal 11 bertujuan untuk memperuntukkan tentang kewajipan dan kuasa Ketua Pengarah Jabatan Digital Negara di bawah Akta yang dicadangkan.
 
-## BAhAgiAN IV
+## BAHAGIAN IV
 
 16. Bahagian IV Akta yang dicadangkan mengandungi peruntukan yang berhubungan dengan perkongsian data antara agensi sektor awam.
 
@@ -834,7 +784,7 @@ Selanjutnya, subfasal 4(3) bertujuan untuk memperuntukkan bahawa apa-apa data ag
 
 26. Fasal 21 bertujuan untuk menghendaki agensi sektor awam untuk melaporkan butir-butir yang berhubungan dengan perkongsian data kepada Ketua Pengarah Jabatan Digital Negara.
 
-## BAhAgiAN V
+## BAHAGIAN V
 
 27. Bahagian V Akta yang dicadangkan mengandungi peruntukan am.
 

@@ -131,7 +131,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/eng@/~cl_11",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (3)— “(f) on any other reason that the Registrar General deems proper in the interest of the public or the students.”; and “(4) No person shall carry out the duties or functions of a chief executive under this Act where— (a) he is not registered as a chief executive; or (b) his registration as a chief executive has been cancelled under subsection (3) or paragraph 37(1)(bb). (5) Any person who contravenes the provisions of subsection (4) shall be guilty of an offence.”. New section 33a"
+        "@value": "in subsection (3)—"
       }
     },
     {
@@ -161,7 +161,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/eng@/~cl_11__para_c",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after paragraph (e) the following paragraph:"
+        "@value": "by inserting after paragraph (e) the following paragraph: “(f) on any other reason that the Registrar General deems proper in the interest of the public or the students.”; and"
       }
     },
     {
@@ -171,7 +171,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/eng@/~cl_11__para_c",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after subsection (3) the following subsections:"
+        "@value": "by inserting after subsection (3) the following subsections: “(4) No person shall carry out the duties or functions of a chief executive under this Act where— (a) he is not registered as a chief executive; or (b) his registration as a chief executive has been cancelled under subsection (3) or paragraph 37(1)(bb). (5) Any person who contravenes the provisions of subsection (4) shall be guilty of an offence.”. New section 33a"
       }
     },
     {
@@ -863,10 +863,6 @@
       "schema:name": {
         "@language": "en",
         "@value": "Section 19 of the principal Act is amended—"
-      },
-      "schema:text": {
-        "@language": "en",
-        "@value": "Amendment of section 24"
       }
     },
     {
@@ -886,7 +882,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/eng@/~cl_6",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (8), by substituting for the words “the private higher educational institution” the words “the company”."
+        "@value": "in subsection (8), by substituting for the words “the private higher educational institution” the words “the company”. Amendment of section 24"
       }
     },
     {

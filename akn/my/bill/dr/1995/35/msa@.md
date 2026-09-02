@@ -28,7 +28,15 @@ III
 
 ## MAJLIS PENASIHAT PENDIDIKAN KEBANGSAAN
 
-10. Majlis Penasihat Pendidikan Kebangsaan. 11. Fungsi Majlis Penasihat Pendidikan Kebangsaan. 12. Hak kehadiran. 13. Kuasa untuk membuat peraturan berhubungan dengan Majlis Penasihat Pendidikan Kebangsaan. 14. Majlis Penasihat Pendidikan Kebangsaan boleh mengawalselia prosedurnya sendiri.
+10. Majlis Penasihat Pendidikan Kebangsaan.
+
+11. Fungsi Majlis Penasihat Pendidikan Kebangsaan.
+
+12. Hak kehadiran.
+
+13. Kuasa untuk membuat peraturan berhubungan dengan Majlis Penasihat Pendidikan Kebangsaan.
+
+14. Majlis Penasihat Pendidikan Kebangsaan boleh mengawalselia prosedurnya sendiri.
 
 <!-- page 2 -->
 
@@ -40,15 +48,7 @@ IV
 
 ## Bab 1—Sistem Pendidikan Kebangsaan
 
-15. Sistem Pendidikan Kebangsaan.
-
-16. Kategori institusi pendidikan.
-
-17. Bahasa kebangsaan sebagai bahasa pengantar utama.
-
-18. Kurikulum Kebangsaan hendaklah digunakan di semua sekolah.
-
-19. Sekolah hendaklah menyediakan murid untuk peperiksaan yang ditetapkan.
+15. Sistem Pendidikan Kebangsaan. 16. Kategori institusi pendidikan. 17. Bahasa kebangsaan sebagai bahasa pengantar utama. 18. Kurikulum Kebangsaan hendaklah digunakan di semua sekolah. 19. Sekolah hendaklah menyediakan murid untuk peperiksaan yang ditetapkan.
 
 ## Bab 2—Pendidikan Prasekolah
 
@@ -172,9 +172,7 @@ IV
 
 83. Perubahan berkenaan dengan premis institusi pendidikan.
 
-84. Keengganan untuk mendaftarkan institusi pendidikan.
-
-85. Notis tentang keengganan untuk mendaftarkan institusi pendidikan.
+84. Keengganan untuk mendaftarkan institusi pendidikan. 85. Notis tentang keengganan untuk mendaftarkan institusi pendidikan.
 
 86. Larangan tentang pengiklanan, dsb.
 
@@ -188,23 +186,7 @@ IV
 
 <!-- page 5 -->
 
-89. Pendaftaran pengelola atau pekerja.
-
-90. Alasan bagi keengganan untuk mendaftarkan pengelola atau pekerja.
-
-91. Notis tentang keengganan untuk mendaftarkan pengelola atau pekerja.
-
-92. Rayuan terhadap keengganan untuk mendaftarkan pengelola atau pekerja.
-
-93. Kuasa Ketua Pendaftar untuk mengeluarkan pengelola atau pekerja daripada daftar.
-
-94. Persaraan pengelola dan pekerja.
-
-95. Orang yang dikeluarkan daripada daftar hendaklah diberitahu.
-
-96. Rayuan terhadap pengeluaran daripada daftar.
-
-97. Penyerahan balik perakuan pendaftaran.
+89. Pendaftaran pengelola atau pekerja. 90. Alasan bagi keengganan untuk mendaftarkan pengelola atau pekerja. 91. Notis tentang keengganan untuk mendaftarkan pengelola atau pekerja. 92. Rayuan terhadap keengganan untuk mendaftarkan pengelola atau pekerja. 93. Kuasa Ketua Pendaftar untuk mengeluarkan pengelola atau pekerja daripada daftar. 94. Persaraan pengelola dan pekerja. 95. Orang yang dikeluarkan daripada daftar hendaklah diberitahu. 96. Rayuan terhadap pengeluaran daripada daftar. 97. Penyerahan balik perakuan pendaftaran.
 
 ## Bab 4—Pendaftaran Murid
 
@@ -270,29 +252,17 @@ IX
 
 ## Bab 1—Jemaah Nazir
 
-117. Kewajipan Ketua Nazir.
-
-118. Kuasa Nazir Sekolah untuk memberikan nasihat.
-
-119. Sekatan bagi perintah Nazir Sekolah.
-
-120. Laporan Nazir Sekolah.
+117. Kewajipan Ketua Nazir. 118. Kuasa Nazir Sekolah untuk memberikan nasihat. 119. Sekatan bagi perintah Nazir Sekolah. 120. Laporan Nazir Sekolah.
 
 ## Bab 2—Am
 
-121. Kuasa am Nazir Sekolah.
-
-122. Ketua Nazir boleh memberikuasa Pegawai Pendidikan untuk bertindak bagi pihaknya.
+121. Kuasa am Nazir Sekolah. 122. Ketua Nazir boleh memberikuasa Pegawai Pendidikan untuk bertindak bagi pihaknya.
 
 ## BAHAGIAN XI
 
 ## KEWANGAN
 
-123. Kecualian berhubungan dengan Menteri.
-
-124. Sumbangan bantuan dan sumbangan modal hendaklah tertakluk kepada syarat, dsb. yang ditetapkan.
-
-125. Kuasa Menteri untuk menggantung atau mengkensel pembayaran apa-apa sumbangan.
+123. Kecualian berhubungan dengan Menteri. 124. Sumbangan bantuan dan sumbangan modal hendaklah tertakluk kepada syarat, dsb. yang ditetapkan. 125. Kuasa Menteri untuk menggantung atau mengkensel pembayaran apa-apa sumbangan.
 
 <!-- page 7 -->
 
@@ -304,9 +274,7 @@ IX
 
 127. Kuasa Jawatankuasa Siasatan.
 
-128. Peguambela dan peguamcara tidak boleh hadir di hadapan Jawatankuasa Siasatan.
-
-129. Keterangan di hadapan Jawatankuasa Siasatan.
+128. Peguambela dan peguamcara tidak boleh hadir di hadapan Jawatankuasa Siasatan. 129. Keterangan di hadapan Jawatankuasa Siasatan.
 
 ## BAHAGIAN XIII
 
@@ -324,13 +292,9 @@ IX
 
 133. Kesalahan dan penalti berhubungan dengan pendaftaran guru.
 
-134. Kesalahan dan penalti berhubungan dengan Nazir.
+134. Kesalahan dan penalti berhubungan dengan Nazir. 135. Penalti am.
 
-135. Penalti am.
-
-136. Kuasa untuk menyiasat.
-
-137. Kuasa untuk masuk tanpa waran.
+136. Kuasa untuk menyiasat. 137. Kuasa untuk masuk tanpa waran.
 
 138. Memulakan dan menjalankan pendakwaan.
 
@@ -400,33 +364,17 @@ IX
 
 58. Kuasa Menteri berhubungan dengan penjalanan fungsi, dsb.
 
-59. Pembubaran lembaga pengelola institusi pendidikan kerajaan atau bantuan kerajaan.
-
-60. Notis pembubaran hendaklah mengandungi arahan berbangkit.
-
-61. Menteri hendaklah melantik lembaga yang lain apabila lembaga dibubarkan.
-
-62. Pembubaran lembaga pengurus atau lembaga pengelola institusi pendidikan kerajaan.
-
-63. Tafsiran.
+59. Pembubaran lembaga pengelola institusi pendidikan kerajaan atau bantuan kerajaan. 60. Notis pembubaran hendaklah mengandungi arahan berbangkit. 61. Menteri hendaklah melantik lembaga yang lain apabila lembaga dibubarkan. 62. Pembubaran lembaga pengurus atau lembaga pengelola institusi pendidikan kerajaan. 63. Tafsiran.
 
 ## Bab 12—Peruntukan Kemudahan dan Perkhidmatan
 
-64. Kuasa Menteri untuk memberikan bantuan.
-
-65. Pemeriksaan perubatan dan pergigian terhadap murid.
-
-66. Kemudahan penginapan.
+64. Kuasa Menteri untuk memberikan bantuan. 65. Pemeriksaan perubatan dan pergigian terhadap murid. 66. Kemudahan penginapan.
 
 ## BAHAGIAN V
 
 ## PENILAIAN DAN PEPERIKSAAN
 
-67. Penilaian murid.
-
-68. Peperiksaan.
-
-69. Larangan tentang pengendalian peperiksaan.
+67. Penilaian murid. 68. Peperiksaan. 69. Larangan tentang pengendalian peperiksaan.
 
 ## BAHAGIAN VI
 
@@ -458,7 +406,11 @@ DAN BAHAWASANYA Dasar Pendidikan Kebangsaan adalah berlandaskan Falsafah Pendidi
 
 DAN BAHAWASANYA dasar yang dinyatakan di atas itu akan dilaksanakan melalui suatu sistem pendidikan kebangsaan yang memperuntukkan bahasa kebangsaan sebagai bahasa pengantar utama, Kurikulum Kebangsaan dan peperiksaan yang sama; pendidikan yang diberikan adalah pelbagai dan komprehensif skopnya dan yang akan memenuhi keperluan negara, serta memupuk perpaduan negara melalui pembangunan budaya, sosial, ekonomi dan politik selaras dengan prinsip-prinsip Rukunegara:
 
-DAN BAHAWASANYA adalah dianggap sesuatu yang diingini, selagi ia selaras dengan dasar itu, dengan memperuntukkan pengajaran yang cekap dan selagi ia tidak melibatkan perbelanjaan awam yang tidak munasabah, untuk mengambil kira prinsip am bahawa murid harus dididik mengikut hasrat ibu bapa masing- masing:
+DAN BAHAWASANYA adalah dianggap
+
+<!-- marginal: sesuatu -->
+
+yang diingini, selagi ia selaras dengan dasar itu, dengan memperuntukkan pengajaran yang cekap dan selagi ia tidak melibatkan perbelanjaan awam yang tidak munasabah, untuk mengambil kira prinsip am bahawa murid harus dididik mengikut hasrat ibu bapa masing- masing:
 
 ## MAKA, OLEH YANG DEMIKIAN, INILAH DJPERBUAT
 
@@ -674,9 +626,25 @@ II
 
 ## PENTADBIRAN
 
-Perlantikan
+<!-- marginal: Perlantikan -->
 
-3. (1) Maka hendaklah ada seorang Ketua Pengarah dan Pendidikan yang hendaklah dilantik oleh Yang di-Pertuan kewajipan Ketua Agong daripada kalangan pegawai dalam Perkhidmatan Pengarah Pendidikan. Pendidikan.
+3. (1) Maka hendaklah ada seorang Ketua Pengarah
+
+<!-- marginal: dan -->
+
+Pendidikan yang hendaklah dilantik oleh Yang di-Pertuan
+
+<!-- marginal: kewajipan -->
+
+<!-- marginal: Ketua -->
+
+Agong daripada kalangan pegawai dalam Perkhidmatan
+
+<!-- marginal: Pengarah -->
+
+Pendidikan.
+
+<!-- marginal: Pendidikan. -->
 
 (2) Ketua Pengarah hendaklah mempunyai kuasa dan menjalankan fungsi yang diberikan kepadanya oleh Akta ini, dan hendaklah menasihati Menteri tentang hal yang berkaitan dengan pendidikan.
 
@@ -730,29 +698,73 @@ Sekolah dan Guru yang hendaklah dilantik oleh Menteri.
 
 <!-- page 22 -->
 
-Ketua Nazir
+<!-- marginal: Ketua Nazir -->
 
-6. (1) Menteri hendaklah melantik seorang Ketua Nazir Sekolah dan Sekolah. Nazir Sekolah. (2) Menteri hendaklah melantik Nazir-Nazir Sekolah lain yang difikirkan perlu bagi maksud Akta ini.
+6. (1) Menteri hendaklah melantik seorang Ketua Nazir
+
+<!-- marginal: Sekolah dan -->
+
+Sekolah.
+
+<!-- marginal: Nazir -->
+
+<!-- marginal: Sekolah. -->
+
+(2) Menteri hendaklah melantik Nazir-Nazir Sekolah lain yang difikirkan perlu bagi maksud Akta ini.
 
 (3) Semua Nazir Sekolah yang dilantik di bawah subseksyen (2) hendaklah tertakluk kepada arahan dan kawalan Ketua Nazir Sekolah.
 
-Pengarah
+<!-- marginal: Pengarah -->
 
-7. (1) Menteri hendaklah melantik seorang Pengarah Peperiksaan. Peperiksaan dan boleh melantik pegawai-pegawai lain untuk bertindak di bawah arahan dan kawalan am Pengarah Peperiksaan yang difikirkannya perlu bagi maksud Akta ini.
+7. (1) Menteri hendaklah melantik seorang Pengarah
+
+<!-- marginal: Peperiksaan. -->
+
+Peperiksaan dan boleh melantik pegawai-pegawai lain untuk bertindak di bawah arahan dan kawalan am Pengarah Peperiksaan yang difikirkannya perlu bagi maksud Akta ini.
 
 (2) Pengarah Peperiksaan hendaklah, tertakluk kepada mana-mana peraturan yang dibuat di bawah seksyen 68, bertanggungjawab atas pengendalian peperiksaan bagi maksud Akta ini.
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-8. Menteri boleh dari semasa ke semasa memberi Menteri seseorang pegawai yang dilantik di bawah Bahagian ini untuk mengeluarkan arahan-arahan yang bersifat am, dan tidak tak konsisten arahan am. dengan peruntukan Akta ini, tentang penjalanan kuasa dan budi bicara yang diberikan kepada pegawai itu oleh, dan kewajipan-kewajipan yang perlu ditunaikan oleh pegawai itu di bawah, Akta ini dan peraturan-peraturan yang dibuat di bawah Akta ini, berhubungan dengan segala hal yang didapati oleh Menteri menyentuh Dasar Pendidikan Kebangsaan, dan pegawai itu hendaklah melaksanakan tiap-tiap arahan sedemikian.
+8. Menteri boleh dari semasa ke semasa memberi
 
-Kuasa
+<!-- marginal: Menteri -->
 
-9. Menteri boleh dari semasa ke semasa memberi— Menteri untuk
+seseorang pegawai yang dilantik di bawah Bahagian ini
 
-(a) pengelola atau mana-mana anggota suatu mengeluarkan lembaga yang dilantik di bawah subseksyen arahan khas. 61(1), atau pekerja atau guru besar, sesuatu institusi pendidikan; dan
+<!-- marginal: untuk -->
 
-(b) anggota Lembaga Pusat yang ditubuhkan di Akla 43/61. bawah seksyen 92 Akta Pelajaran 1961,
+<!-- marginal: mengeluarkan -->
+
+arahan-arahan yang bersifat am, dan tidak tak konsisten
+
+<!-- marginal: arahan am. -->
+
+dengan peruntukan Akta ini, tentang penjalanan kuasa dan budi bicara yang diberikan kepada pegawai itu oleh, dan kewajipan-kewajipan yang perlu ditunaikan oleh pegawai itu di bawah, Akta ini dan peraturan-peraturan yang dibuat di bawah Akta ini, berhubungan dengan segala hal yang didapati oleh Menteri menyentuh Dasar Pendidikan Kebangsaan, dan pegawai itu hendaklah melaksanakan tiap-tiap arahan sedemikian.
+
+<!-- marginal: Kuasa -->
+
+9. Menteri boleh dari semasa ke semasa memberi—
+
+<!-- marginal: Menteri -->
+
+<!-- marginal: untuk -->
+
+(a) pengelola atau mana-mana anggota suatu
+
+<!-- marginal: mengeluarkan -->
+
+lembaga yang dilantik di bawah subseksyen
+
+<!-- marginal: arahan khas. -->
+
+61(1), atau pekerja atau guru besar, sesuatu institusi pendidikan; dan
+
+(b) anggota Lembaga Pusat yang ditubuhkan di
+
+<!-- marginal: Akla 43/61. -->
+
+bawah seksyen 92 Akta Pelajaran 1961,
 
 <!-- page 23 -->
 
@@ -958,9 +970,7 @@ Bahasa
 
 Kuasa untuk
 
-24. Menteri boleh membuat peraturan-peraturan untuk membuat melaksanakan peruntukan Bab ini. peraturan berhubungan dengan pendidikan prasekolah.
-
-## Bab 2 tidak
+24. Menteri boleh membuat peraturan-peraturan untuk membuat melaksanakan peruntukan Bab ini. peraturan berhubungan dengan pendidikan prasekolah. Bab 2 tidak
 
 25. Peruntukan Bab ini tidaklah terpakai bagi sesuatu terpakai bagi pusat asuhan kanak-kanak yang ditubuhkan dan didaftarkan pusat asuhan kanak-kanak. di bawah mana-mana undang-undang bertulis yang berhubungan dengan pusat sedemikian.
 
@@ -1084,27 +1094,61 @@ menengah di—
 
 ## Bab 6 —- Institusi Pendidikan Lain
 
-Institusi
+<!-- marginal: Institusi -->
 
-34. (1) Tertakluk kepada peruntukan Akta ini, Menteri pendidikan boleh menubuhkan dan menyenggarakan institusi lain. pendidikan yang berikut:
+34. (1) Tertakluk kepada peruntukan Akta ini, Menteri
 
-(a) maktab, selain daripada maktab yang bertaraf universiti atau kolej universiti yang ditubuhkan Akta 30. atau disifatkan telah ditubuhkan di bawah Akta Universiti dan Kolej Universiti 1971;
+<!-- marginal: pendidikan -->
+
+boleh menubuhkan dan menyenggarakan institusi
+
+<!-- marginal: lain. -->
+
+pendidikan yang berikut:
+
+(a) maktab, selain daripada maktab yang bertaraf universiti atau kolej universiti yang ditubuhkan
+
+<!-- marginal: Akta 30. -->
+
+atau disifatkan telah ditubuhkan di bawah Akta Universiti dan Kolej Universiti 1971;
 
 (b) sekolah khas;
 
 (c) politeknik; dan
 
-(d) apa-apa institusi pendidikan lain, yang penubuhan atau penyenggaraannya tidak Akta 30. diperuntukkan di bawah Akta ini atau Akta Universiti dan Kolej Universiti 1971.
+(d) apa-apa institusi pendidikan lain, yang penubuhan atau penyenggaraannya tidak
+
+<!-- marginal: Akta 30. -->
+
+diperuntukkan di bawah Akta ini atau Akta Universiti dan Kolej Universiti 1971.
 
 (2) Menteri boleh memberikan sumbangan bantuan kepada institusi pendidikan, yang tidak ditubuhkan olehnya, yang termasuk dalam perenggan (1)(a) atau (1)(b).
 
 ## Bab 7 — Pendidikan Teknik dan Politeknik
 
-Pendidikan
+<!-- marginal: Pendidikan -->
 
-35. (1) Menteri boleh mengadakan pendidikan teknik teknik di di— sekolah menengah kebangsaan
+35. (1) Menteri boleh mengadakan pendidikan teknik
 
-(a) mana-mana sekolah menengah kebangsaan yang dan institusi diperihalkan dalam seksyen 30; atau pendidikan lain.
+<!-- marginal: teknik di -->
+
+di—
+
+<!-- marginal: sekolah -->
+
+<!-- marginal: menengah -->
+
+<!-- marginal: kebangsaan -->
+
+(a) mana-mana sekolah menengah kebangsaan yang
+
+<!-- marginal: dan institusi -->
+
+diperihalkan dalam seksyen 30; atau
+
+<!-- marginal: pendidikan -->
+
+<!-- marginal: lain. -->
 
 (b) institusi pendidikan lain yang diperihalkan dalam perenggan 34(1)(a) atau (1)(c).
 
@@ -1198,17 +1242,65 @@ maksud—
 
 <!-- page 30 -->
 
-Peruntukan
+<!-- marginal: Peruntukan -->
 
-38. (1) Politeknik yang ditubuhkan di bawah Akta ini tentang boleh, dengan kelulusan Menteri, mengendalikan kursus kursus pengajian pengajian atau program latihan bagi diploma, sijil atau berkenaan bentuk-bentuk lain pengiktirafan kelayakan yang diberikan dengan ijazah yang oleh mana-mana universiti atau institusi pendidikan tinggi diberikan lain di dalam Malaysia atau di luar Malaysia. oleh universiti, dsb. (2) Kelulusan yang diberikan di bawah subseksyen
+38. (1) Politeknik yang ditubuhkan di bawah Akta ini
+
+<!-- marginal: tentang -->
+
+boleh, dengan kelulusan Menteri, mengendalikan kursus
+
+<!-- marginal: kursus -->
+
+<!-- marginal: pengajian -->
+
+pengajian atau program latihan bagi diploma, sijil atau
+
+<!-- marginal: berkenaan -->
+
+bentuk-bentuk lain pengiktirafan kelayakan yang diberikan
+
+<!-- marginal: dengan ijazah -->
+
+<!-- marginal: yang -->
+
+oleh mana-mana universiti atau institusi pendidikan tinggi
+
+<!-- marginal: diberikan -->
+
+lain di dalam Malaysia atau di luar Malaysia.
+
+<!-- marginal: oleh -->
+
+<!-- marginal: universiti, -->
+
+<!-- marginal: dsb. -->
+
+(2) Kelulusan yang diberikan di bawah subseksyen
 
 (1) boleh dijadikan tertakluk kepada apa-apa terma dan syarat yang difikirkan oleh Menteri patut dikenakan.
 
 (3) Menteri tidak boleh memberikan kelulusannya di bawah subseksyen (1) melainkan jika dia berpuas hati bahawa politeknik itu telah membuat segala perkiraan yang perlu dengan universiti atau institusi pendidikan tinggi lain yang terlibat dengan pengendalian kursus pengajian atau program latihan itu.
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-39. Menteri boleh membuat peraturan-peraturan bagi membuat melaksanakan peruntukan Bab ini dan, tanpa menjejaskan peraturan berhubungan keluasan kuasa itu, peraturan-peraturan sedemikian boleh dengan mengadakan peruntukan bagi— politeknik.
+39. Menteri boleh membuat peraturan-peraturan bagi
+
+<!-- marginal: membuat -->
+
+melaksanakan peruntukan Bab ini dan, tanpa menjejaskan
+
+<!-- marginal: peraturan -->
+
+<!-- marginal: berhubungan -->
+
+keluasan kuasa itu, peraturan-peraturan sedemikian boleh
+
+<!-- marginal: dengan -->
+
+mengadakan peruntukan bagi—
+
+<!-- marginal: politeknik. -->
 
 (a) penubuhan lembaga atau badan untuk melaksanakan pengukuran atau penilaian atau mengendalikan peperiksaan untuk politeknik;
 
@@ -1310,19 +1402,119 @@ atau penyenggaraannya telah diluluskan di bawah seksyen
 
 <!-- page 32 -->
 
-Penganuge-
+<!-- marginal: Penganuge- -->
 
-44. Maktab pendidikan guru yang ditubuhkan di bawah rahan sijil Akta ini boleh menganugerahkan sijil atau apa-apa atau kelayakan kelayakan lain yang ditetapkan. lain oleh maktab pendidikan guru. Menteri
+44. Maktab pendidikan guru yang ditubuhkan di bawah
 
-45. Walau apa pun seksyen 42, Menteri boleh boleh menubuhkan dan menyenggarakan maktab pendidikan menubuhkan dan guru dan mengadakan pendidikan guru di dalamnya. menyenggara- kan maktab pendidikan guru.
+<!-- marginal: rahan sijil -->
 
-Maktab
+Akta ini boleh menganugerahkan sijil atau apa-apa
 
-46. Tiap-tiap maktab pendidikan guru yang ditubuhkan pendidikan di bawah Bab ini hendaklah mengendalikan apa-apa guru hendaklah kursus pengajian dan program latihan yang diluluskan mengendali- oleh Menteri, kan kursus pengajian yang diluluskan oleh Menteri.
+<!-- marginal: atau -->
 
-Peruntukan
+<!-- marginal: kelayakan -->
 
-47. (1) Maktab pendidikan guru yang ditubuhkan di tentang bawah Bab ini boleh, dengan kelulusan Menteri, kursus pengajian mengendalikan kursus pengajian atau program latihan berkenaan bagi ijazah, diploma, sijil atau bentuk-bentuk lain dengan ijazah, dsb. pengiktirafan kelayakan yang diberikan oleh mana-mana yang universiti atau institusi pendidikan tinggi lain di dalam diberikan Malaysia atau di luar Malaysia. oleh universiti, dsb. (2) Kelulusan yang diberikan di bawah subseksyen (1) boleh dijadikan tertakluk kepada apa-apa terma dan syarat yang difikirkan oleh Menteri patut dikenakan.
+kelayakan lain yang ditetapkan.
+
+<!-- marginal: lain oleh -->
+
+<!-- marginal: maktab -->
+
+<!-- marginal: pendidikan -->
+
+<!-- marginal: guru. -->
+
+<!-- marginal: Menteri -->
+
+45. Walau apa pun seksyen 42, Menteri boleh
+
+<!-- marginal: boleh -->
+
+menubuhkan dan menyenggarakan maktab pendidikan
+
+<!-- marginal: menubuhkan -->
+
+<!-- marginal: dan -->
+
+guru dan mengadakan pendidikan guru di dalamnya.
+
+<!-- marginal: menyenggara- -->
+
+<!-- marginal: kan maktab -->
+
+<!-- marginal: pendidikan -->
+
+<!-- marginal: guru. -->
+
+<!-- marginal: Maktab -->
+
+46. Tiap-tiap maktab pendidikan guru yang ditubuhkan
+
+<!-- marginal: pendidikan -->
+
+di bawah Bab ini hendaklah mengendalikan apa-apa
+
+<!-- marginal: guru -->
+
+<!-- marginal: hendaklah -->
+
+kursus pengajian dan program latihan yang diluluskan
+
+<!-- marginal: mengendali- -->
+
+oleh Menteri,
+
+<!-- marginal: kan kursus -->
+
+<!-- marginal: pengajian -->
+
+<!-- marginal: yang -->
+
+<!-- marginal: diluluskan -->
+
+<!-- marginal: oleh Menteri. -->
+
+<!-- marginal: Peruntukan -->
+
+47. (1) Maktab pendidikan guru yang ditubuhkan di
+
+<!-- marginal: tentang -->
+
+bawah Bab ini boleh, dengan kelulusan Menteri,
+
+<!-- marginal: kursus -->
+
+<!-- marginal: pengajian -->
+
+mengendalikan kursus pengajian atau program latihan
+
+<!-- marginal: berkenaan -->
+
+bagi ijazah, diploma, sijil atau bentuk-bentuk lain
+
+<!-- marginal: dengan -->
+
+<!-- marginal: ijazah, dsb. -->
+
+pengiktirafan kelayakan yang diberikan oleh mana-mana
+
+<!-- marginal: yang -->
+
+universiti atau institusi pendidikan tinggi lain di dalam
+
+<!-- marginal: diberikan -->
+
+Malaysia atau di luar Malaysia.
+
+<!-- marginal: oleh -->
+
+<!-- marginal: universiti, -->
+
+<!-- marginal: dsb. -->
+
+(2) Kelulusan yang diberikan di bawah subseksyen
+
+(1) boleh dijadikan tertakluk kepada apa-apa terma dan syarat yang difikirkan oleh Menteri patut dikenakan.
 
 (3) Menteri tidak boleh memberikan kelulusannya di bawah subseksyen (1) melainkan jika dia berpuas hati bahawa maktab pendidikan guru itu telah membuat perkiraan yang perlu dengan universiti atau institusi pendidikan tinggi lain yang terlibat dengan pengendalian kursus pengajian atau program latihan itu.
 
@@ -1404,9 +1596,13 @@ menjalankan pengukuran atau penilaian atau mengendalikan peperiksaan bagi pendid
 
 Pendidikan
 
-Pengajaran
+<!-- marginal: Pengajaran -->
 
-50. (1) Jika di dalam sesuatu institusi pendidikan agama Islam. terdapat lima orang murid atau lebih yang menganut agama Islam, maka murid-murid itu hendaklah diberikan pengajaran agama Islam oleh guru yang diluluskan oleh Pihak Berkuasa Negeri.
+50. (1) Jika di dalam sesuatu institusi pendidikan
+
+<!-- marginal: agama Islam. -->
+
+terdapat lima orang murid atau lebih yang menganut agama Islam, maka murid-murid itu hendaklah diberikan pengajaran agama Islam oleh guru yang diluluskan oleh Pihak Berkuasa Negeri.
 
 (2) Pengajaran yang dikehendaki di sesuatu institusi pendidikan di bawah subseksyen (1) hendaklah selama tempoh sekurang-kurangnya dua jam seminggu dalam waktu pengajaran biasa institusi pendidikan itu, atau dalam apa-apa waktu lain yang ditetapkan oleh Menteri, dalam hal mana-mana institusi pendidikan yang tertentu.
 
@@ -1510,21 +1706,73 @@ pengelolaan.
 
 (4) Tiap-tiap suratcara pengelolaan hendaklah dibuat, dipinda atau dibatalkan mengikut cara yang ditetapkan.
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-54. (1) Menteri boleh membuat peraturan-peraturan bagi membuat penubuhan lembaga pengelola dan bagi pengurusan peraturan berhubungan institusi pendidikan oleh lembaga pengelola dan, tanpa dengan menjejaskan keluasan kuasa itu, Menteri boleh, dalam suratcara pengelolaan. peraturan-peraturan itu, menetapkan kewajipan pengelola- pengelola dan orang lain yang bertanggungjawab tentang pengurusan institusi pendidikan itu.
+54. (1) Menteri boleh membuat peraturan-peraturan bagi
+
+<!-- marginal: membuat -->
+
+penubuhan lembaga pengelola dan bagi pengurusan
+
+<!-- marginal: peraturan -->
+
+<!-- marginal: berhubungan -->
+
+institusi pendidikan oleh lembaga pengelola dan, tanpa
+
+<!-- marginal: dengan -->
+
+menjejaskan keluasan kuasa itu, Menteri boleh, dalam
+
+<!-- marginal: suratcara -->
+
+<!-- marginal: pengelolaan. -->
+
+peraturan-peraturan itu, menetapkan kewajipan pengelola- pengelola dan orang lain yang bertanggungjawab tentang pengurusan institusi pendidikan itu.
 
 (2) Mana-mana peraturan yang dibuat di bawah subseksyen (1) boleh menetapkan kewajipan yang berlainan bagi pengelola-pengelola atau orang lain yang bertanggungjawab tentang pengurusan institusi pendidikan yang berlainan kategori.
 
-Institusi
+<!-- marginal: Institusi -->
 
-55. Tertakluk kepada peruntukan lain Akta ini dan pendidikan khususnya peruntukan tentang pengecualian, tiap-tiap hendaklah diuruskan institusi pendidikan hendaklah diuruskan mengikut melalui suratcara pengelolaannya. suratcara pengelolaan- nya.
+55. Tertakluk kepada peruntukan lain Akta ini dan
 
-Kuasa
+<!-- marginal: pendidikan -->
 
-56. (1) Jika Menteri berpuas hati— Menteri untuk
+khususnya peruntukan tentang pengecualian, tiap-tiap
 
-(a) bahawa disiplin di sesuatu institusi pendidikan melantik pengelola tidak dijaga dengan secukupnya; tambahan.
+<!-- marginal: hendaklah -->
+
+<!-- marginal: diuruskan -->
+
+institusi pendidikan hendaklah diuruskan mengikut
+
+<!-- marginal: melalui -->
+
+suratcara pengelolaannya.
+
+<!-- marginal: suratcara -->
+
+<!-- marginal: pengelolaan- -->
+
+<!-- marginal: nya. -->
+
+<!-- marginal: Kuasa -->
+
+56. (1) Jika Menteri berpuas hati—
+
+<!-- marginal: Menteri -->
+
+<!-- marginal: untuk -->
+
+(a) bahawa disiplin di sesuatu institusi pendidikan
+
+<!-- marginal: melantik -->
+
+<!-- marginal: pengelola -->
+
+tidak dijaga dengan secukupnya;
+
+<!-- marginal: tambahan. -->
 
 (b) bahawa terma suratcara pengelolaan sesuatu institusi pendidikan sengaja tidak diendahkan;
 
@@ -1600,9 +1848,33 @@ peruntukan mana-mana suratcara pengelolaan berhubungan dengan institusi itu, mel
 
 (2) Jika pada bila-bila masa, bagi sesuatu institusi pendidikan, tidak ada lembaga pengelola yang ditubuhkan di bawah Akta ini maka Menteri boleh melantik seseorang atau orang yang difikirkannya layak untuk menjalankan fungsi pengelola bagi institusi itu selama apa-apa tempoh yang diarahkan olehnya.
 
-Pembubaran
+<!-- marginal: Pembubaran -->
 
-59. (1) Menteri boleh, selepas memberi lembaga lembaga pengelola sesuatu institusi pendidikan kerajaan atau pengelola institusi bantuan kerajaan suatu peluang untuk membuat pendidikan representasi mengikut peraturan-peraturan yang dibuat kerajaan atau bantuan di bawah Akta ini, melalui notis bertulis yang dialamatkan kerajaan. dan disampaikan kepada pengerusi lembaga itu memerintahkan supaya lembaga itu dibubarkan jika dia berpuas hati bahawa lembaga itu—
+59. (1) Menteri boleh, selepas memberi lembaga
+
+<!-- marginal: lembaga -->
+
+pengelola sesuatu institusi pendidikan kerajaan atau
+
+<!-- marginal: pengelola -->
+
+<!-- marginal: institusi -->
+
+bantuan kerajaan suatu peluang untuk membuat
+
+<!-- marginal: pendidikan -->
+
+representasi mengikut peraturan-peraturan yang dibuat
+
+<!-- marginal: kerajaan atau -->
+
+<!-- marginal: bantuan -->
+
+di bawah Akta ini, melalui notis bertulis yang dialamatkan
+
+<!-- marginal: kerajaan. -->
+
+dan disampaikan kepada pengerusi lembaga itu memerintahkan supaya lembaga itu dibubarkan jika dia berpuas hati bahawa lembaga itu—
 
 (a) telah melanggar mana-mana peruntukan Akta ini atau mana-mana peraturan yang dibuat di bawah Akta ini;
 
@@ -1710,15 +1982,29 @@ yang ditubuhkan sebelum tarikh yang ditetapkan, hendaklah dibubarkan pada tarikh
 
 (c) seksyen 53, 54, 55, 56, 59 dan 87 tidaklah terpakai bagi institusi pendidikan kerajaan itu.
 
-Tafsiran.
+<!-- marginal: Tafsiran. -->
 
 63. Sebutan mengenai lembaga pengelola dalam Bab ini hendaklah, berhubungan dengan Sabah dan Sarawak, termasuk Jawatankuasa Pengurusan.
 
 ## Bab 12 — Peruntukan Kemudahan dan Perkhidmatan
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-64. Tertakluk kepada mana-mana peraturan yang dibuat Menteri di bawah Akta ini, Menteri boleh memberikan sama ada untuk memberikan bantuan kewangan atau selainnya berkenaan dengan murid bantuan. atau mana-mana golongan murid di institusi pendidikan kerajaan atau bantuan kerajaan dan bantuan itu boleh termasuk—
+64. Tertakluk kepada mana-mana peraturan yang dibuat
+
+<!-- marginal: Menteri -->
+
+di bawah Akta ini, Menteri boleh memberikan sama ada
+
+<!-- marginal: untuk -->
+
+<!-- marginal: memberikan -->
+
+bantuan kewangan atau selainnya berkenaan dengan murid
+
+<!-- marginal: bantuan. -->
+
+atau mana-mana golongan murid di institusi pendidikan kerajaan atau bantuan kerajaan dan bantuan itu boleh termasuk—
 
 (a) pemberian dermasiswa, biasiswa, pinjaman atau bantuan lain; dan
 
@@ -1770,15 +2056,19 @@ oleh seksyen 64, Menteri boleh, jika tidak boleh semunasabahnya disediakan bagi 
 
 ## PENILAIAN DAN PEPERIKSAAN
 
-Penilaian
+<!-- marginal: Penilaian -->
 
-67. (1) Menteri boleh menetapkan cara murid di sekolah murid. rendah dan sekolah menengah hendaklah dinilai dan taraf yang perlu dicapai oleh murid itu.
+67. (1) Menteri boleh menetapkan cara murid di sekolah
+
+<!-- marginal: murid. -->
+
+rendah dan sekolah menengah hendaklah dinilai dan taraf yang perlu dicapai oleh murid itu.
 
 (2) Penilaian yang ditetapkan di bawah subseksyen
 
 (1) hendaklah sebagai tambahan kepada mana-mana peperiksaan yang ditetapkan.
 
-Peperiksaan.
+<!-- marginal: Peperiksaan. -->
 
 68. Menteri boleh membuat peraturan-peraturan yang mengadakan peruntukan bagi—
 
@@ -1794,9 +2084,19 @@ Peperiksaan.
 
 (f) kuasa, fungsi dan kewajipan Pengarah Peperiksaan.
 
-Larangan
+<!-- marginal: Larangan -->
 
-69. (1) Tertakluk kepada subseksyen (4), tiada seorang tentang pun atau tiada suatu institusi pendidikan pun boleh pengendalian peperiksaan. mengendalikan, membenarkan atau menyebabkan diadakan atau dikendalikan, atau dengan apa-apa cara terlibat dalam pengadaan atau pengendalian, apa-apa peperiksaan bagi mana-mana murid institusi pendidikan atau bagi mana- mana calon persendirian tanpa terlebih dahulu mendapat kelulusan bertulis Pengarah Peperiksaan.
+69. (1) Tertakluk kepada subseksyen (4), tiada seorang
+
+<!-- marginal: tentang -->
+
+pun atau tiada suatu institusi pendidikan pun boleh
+
+<!-- marginal: pengendalian -->
+
+<!-- marginal: peperiksaan. -->
+
+mengendalikan, membenarkan atau menyebabkan diadakan atau dikendalikan, atau dengan apa-apa cara terlibat dalam pengadaan atau pengendalian, apa-apa peperiksaan bagi mana-mana murid institusi pendidikan atau bagi mana- mana calon persendirian tanpa terlebih dahulu mendapat kelulusan bertulis Pengarah Peperiksaan.
 
 <!-- page 43 -->
 
@@ -1838,15 +2138,45 @@ di bawah Akta Majlis Peperiksaan Malaysia 1980; dan
 
 ## PENDIDIKAN TINGGI
 
-Menteri
+<!-- marginal: Menteri -->
 
-70. Menteri boleh mengadakan pendidikan tinggi di bertanggung- institusi pendidikan tinggi mengikut mana-mana undang- jawab tentang undang bertulis yang berhubungan dengan pendidikan pendidikan tinggi dan hendaklah bertanggungjawab tentang arahan tinggi. am pendidikan tinggi tu.
+70. Menteri boleh mengadakan pendidikan tinggi di
 
-Penubuhan
+<!-- marginal: bertanggung- -->
 
-71. Tiada seorang pun boleh— institusi pendidikan
+institusi pendidikan tinggi mengikut mana-mana undang-
 
-(a) menubuhkan, membentuk, menggalakkan atau tinggi, dsb. melaksanakan apa-apa kegiatan bagi maksud dilarang. menubuhkan atau membentuk, atau bagi penubuhan atau pembentukan, suatu institusi pendidikan tinggi;
+<!-- marginal: jawab -->
+
+<!-- marginal: tentang -->
+
+undang bertulis yang berhubungan dengan pendidikan
+
+<!-- marginal: pendidikan -->
+
+tinggi dan hendaklah bertanggungjawab tentang arahan
+
+<!-- marginal: tinggi. -->
+
+am pendidikan tinggi tu.
+
+<!-- marginal: Penubuhan -->
+
+71. Tiada seorang pun boleh—
+
+<!-- marginal: institusi -->
+
+<!-- marginal: pendidikan -->
+
+(a) menubuhkan, membentuk, menggalakkan atau
+
+<!-- marginal: tinggi, dsb. -->
+
+melaksanakan apa-apa kegiatan bagi maksud
+
+<!-- marginal: dilarang. -->
+
+menubuhkan atau membentuk, atau bagi penubuhan atau pembentukan, suatu institusi pendidikan tinggi;
 
 (b) memungut, memberikan atau menerima apa-apa wang, sumbangan, hadiah atau derma, atau melakukan apa-apa perbuatan atau menjalankan apa-apa kegiatan bagi maksud menubuhkan atau membentuk suatu institusi pendidikan tinggi;
 
@@ -1986,13 +2316,73 @@ berdasarkan kurikulum yang ditetapkan.
 
 (2) Mata pelajaran yang disebut dalam perenggan (l)(a) hingga (l)(e) hendaklah diajarkan sebagai tambahan kepada apa-apa mata pelajaran atau kursus pengajian lain yang diajarkan di institusi pendidikan swasta itu.
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-76. Menteri boleh membuat peraturan-peraturan bagi membuat peraturan pengawasan, pengawalseliaan atau pengawalan taraf bagi pendidikan di institusi pendidikan swasta. mengawasi dan mengawal taraf pendidikan
+76. Menteri boleh membuat peraturan-peraturan bagi
 
-Larangan
+<!-- marginal: membuat -->
 
-77. (1) Tiada institusi pendidikan swasta boleh tentang mengendalikan apa-apa kursus pengajian atau program kursus pengajian latihan secara bersesama atau bersekutu, bergabung, dan latihan bekerjasama atau selainnya, dengan sesuatu universiti berkenaan dengan atau institusi pendidikan tinggi atau institusi atau organisasi ijazah, dsb. pendidikan lain di dalam atau di luar Malaysia, kecuali yang diberikan dengan kelulusan bertulis daripada Menteri. oleh universiti. dsb (2) Menteri tidak boleh memberikan kelulusannya di bawah subseksyen (1) melainkan jika dia berpuas hati bahawa institusi pendidikan swasta itu telah membuat perkiraan yang sesuai dengan universiti atau institusi pendidikan tinggi atau institusi pendidikan atau organisasi pendidikan lain itu tentang kemudahan bagi penyediaan kursus pengajian atau program latihan yang disebut dalam subseksyen itu.
+<!-- marginal: peraturan -->
+
+pengawasan, pengawalseliaan atau pengawalan taraf
+
+<!-- marginal: bagi -->
+
+pendidikan di institusi pendidikan swasta.
+
+<!-- marginal: mengawasi -->
+
+<!-- marginal: dan -->
+
+<!-- marginal: mengawal -->
+
+<!-- marginal: taraf -->
+
+<!-- marginal: pendidikan -->
+
+<!-- marginal: Larangan -->
+
+77. (1) Tiada institusi pendidikan swasta boleh
+
+<!-- marginal: tentang -->
+
+mengendalikan apa-apa kursus pengajian atau program
+
+<!-- marginal: kursus -->
+
+<!-- marginal: pengajian -->
+
+latihan secara bersesama atau bersekutu, bergabung,
+
+<!-- marginal: dan -->
+
+<!-- marginal: latihan -->
+
+bekerjasama atau selainnya, dengan sesuatu universiti
+
+<!-- marginal: berkenaan -->
+
+<!-- marginal: dengan -->
+
+atau institusi pendidikan tinggi atau institusi atau organisasi
+
+<!-- marginal: ijazah, dsb. -->
+
+pendidikan lain di dalam atau di luar Malaysia, kecuali
+
+<!-- marginal: yang -->
+
+<!-- marginal: diberikan -->
+
+dengan kelulusan bertulis daripada Menteri.
+
+<!-- marginal: oleh -->
+
+<!-- marginal: universiti. -->
+
+<!-- marginal: dsb -->
+
+(2) Menteri tidak boleh memberikan kelulusannya di bawah subseksyen (1) melainkan jika dia berpuas hati bahawa institusi pendidikan swasta itu telah membuat perkiraan yang sesuai dengan universiti atau institusi pendidikan tinggi atau institusi pendidikan atau organisasi pendidikan lain itu tentang kemudahan bagi penyediaan kursus pengajian atau program latihan yang disebut dalam subseksyen itu.
 
 (3) Menteri boleh mengenakan apa-apa terma dan syarat yang difikirkannya patut apabila memberikan kelulusan di bawah subseksyen (1).
 
@@ -2070,7 +2460,7 @@ bentuk dan tertakluk kepada apa-apa syarat yang ditetapkan kepada orang yang aka
 
 (2) Perakuan pendaftaran sementara yang dikeluarkan di bawah subseksyen (1) boleh menurut budi bicara Ketua Pendaftar dibatalkan pada bila-bila masa melalui notis bertulis yang disampaikan kepada orang yang kepadanya perakuan itu dikeluarkan.
 
-Pendaftaran.
+<!-- marginal: Pendaftaran. -->
 
 82. (1) Tanpa menjejaskan seksyen 81 dan tertakluk kepada subseksyen (3) dan seksyen 83, Ketua Pendaftar hendaklah, apabila permohonan bagi pendaftaran sesuatu institusi pendidikan dibuat dengan sewajarnya dan selepas apa-apa siasatan yang difikirkannya perlu, dan apabila apa-apa fee yang ditetapkan dibayar, mendaftarkan institusi pendidikan itu dan mengeluarkan perakuan pendaftaran kepada pengerusi lembaga pengelola atau orang yang bertanggungjawab tentang pengurusan institusi pendidikan itu.
 
@@ -2078,9 +2468,25 @@ Pendaftaran.
 
 (3) Ketua Pendaftar boleh mengenakan apa-apa syarat sebagaimana yang difikirkannya patut sebelum pendaftaran,
 
-Perubahan
+<!-- marginal: Perubahan -->
 
-83. (1) Tiada institusi pendidikan boleh menukar alamat berkenaan premisnya atau membuat apa-apa perubahan kepada premis dengan premis itu tanpa terlebih dahulu mendapat kelulusan Ketua institusi Pendaftar. pendidikan.
+83. (1) Tiada institusi pendidikan boleh menukar alamat
+
+<!-- marginal: berkenaan -->
+
+premisnya atau membuat apa-apa perubahan kepada premis
+
+<!-- marginal: dengan -->
+
+<!-- marginal: premis -->
+
+itu tanpa terlebih dahulu mendapat kelulusan Ketua
+
+<!-- marginal: institusi -->
+
+Pendaftar.
+
+<!-- marginal: pendidikan. -->
 
 (2) Permohonan untuk menukar alamat premis institusi pendidikan atau untuk membuat perubahan kepada premis hendaklah dibuat kepada Ketua Pendaftar dalam bentuk dan mengikut cara yang ditetapkan.
 
@@ -2106,7 +2512,11 @@ piawaian kesihatan dan keselamatan yang ditetapkan;
 
 (b) bahawa institusi pendidikan itu digunakan atau mungkin digunakan bagi maksud yang memudaratkan kepentingan Malaysia, awam atau murid;
 
-(c) bahawa nama yang dengannya institusi pendidikan itu hendak didaftarkan adalah, pada pendapatnya, tidak sesuai;
+(c) bahawa nama yang dengannya
+
+<!-- marginal: institusi -->
+
+pendidikan itu hendak didaftarkan adalah, pada pendapatnya, tidak sesuai;
 
 (d) bahawa kemudahan pendidikan yang sedia ada sudah mencukupi dalam kawasan di mana institusi pendidikan itu dicadangkan dibuka;
 
@@ -2142,17 +2552,41 @@ keengganannya dalam notis itu.
 
 (2) Pemohon yang terkilan dengan keengganan Ketua Pendaftar untuk mendaftarkan sesuatu institusi pendidikan boleh, dalam masa dua puluh satu hari dari tarikh notis itu disampaikan kepadanya mengikut subseksyen (1), merayu kepada Menteri dan keputusan Menteri adalah muktamad.
 
-Larangan
+<!-- marginal: Larangan -->
 
-86. (1) Tiada seorang pun boleh mempromosikan sesuatu tentang institusi pendidikan, sama ada melalui iklan prospektus, pengiklanan. dsb. risalah atau selainnya, melainkan jika institusi pendidikan itu telah didaftarkan atau perakuan pendaftaran sementara telah dikeluarkan di bawah subseksyen 81(1).
+86. (1) Tiada seorang pun boleh mempromosikan sesuatu
+
+<!-- marginal: tentang -->
+
+institusi pendidikan, sama ada melalui iklan prospektus,
+
+<!-- marginal: pengiklanan. -->
+
+<!-- marginal: dsb. -->
+
+risalah atau selainnya, melainkan jika institusi pendidikan itu telah didaftarkan atau perakuan pendaftaran sementara telah dikeluarkan di bawah subseksyen 81(1).
 
 (2) Seseorang yang melanggar subseksyen (1) adalah melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi tiga puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.
 
 ## Bab 2 — Pembatalan Pendaftaran
 
-Alasan bagi
+<!-- marginal: Alasan bagi -->
 
-87. (1) Ketua Pendaftar boleh menyampaikan notis pembatalan kepada pengerusi lembaga pengelola atau mana-mana pendaftaran institusi orang yang bertanggungjawab tentang pengurusan sesuatu pendidikan. institusi pendidikan tentang niat untuk membatalkan pendaftaran institusi pendidikan itu jika dia berpuas hati bahawa adalah suaimanfaat untuk berbuat demikian berdasarkan mana-mana alasan yang berikut:
+87. (1) Ketua Pendaftar boleh menyampaikan notis
+
+<!-- marginal: pembatalan -->
+
+kepada pengerusi lembaga pengelola atau mana-mana
+
+<!-- marginal: pendaftaran -->
+
+<!-- marginal: institusi -->
+
+orang yang bertanggungjawab tentang pengurusan sesuatu
+
+<!-- marginal: pendidikan. -->
+
+institusi pendidikan tentang niat untuk membatalkan pendaftaran institusi pendidikan itu jika dia berpuas hati bahawa adalah suaimanfaat untuk berbuat demikian berdasarkan mana-mana alasan yang berikut:
 
 (a) alasan yang dinyatakan dalam perenggan 84(a);
 
@@ -2164,7 +2598,11 @@ Alasan bagi
 
 <!-- page 51 -->
 
-material pada mempromosikan institusi pendidikan itu;
+material pada mempromosikan
+
+<!-- marginal: institusi -->
+
+pendidikan itu;
 
 (e) bahawa terdapat pelanggaran mana-mana terma atau syarat yang dikenakan oleh Ketua Pendaftar di bawah subseksyen 79(3);
 
@@ -2182,15 +2620,37 @@ material pada mempromosikan institusi pendidikan itu;
 
 ## Bab 3 — Pendaftaran Pengelola dan Pekerja
 
-Semua
+<!-- marginal: Semua -->
 
-88. (1) Tiap-tiap orang yang bertindak sebagai pengelola pengelola dan atau pekerja sesuatu institusi pendidikan hendaklah pekerja hendaklah didaftarkan sebagai pengelola atau pekerja, mengikut didaftarkan. mana-mana yang berkenaan, berkenaan dengan institusi pendidikan itu.
+88. (1) Tiap-tiap orang yang bertindak sebagai pengelola
+
+<!-- marginal: pengelola dan -->
+
+atau pekerja sesuatu institusi pendidikan hendaklah
+
+<!-- marginal: pekerja -->
+
+<!-- marginal: hendaklah -->
+
+didaftarkan sebagai pengelola atau pekerja, mengikut
+
+<!-- marginal: didaftarkan. -->
+
+mana-mana yang berkenaan, berkenaan dengan institusi pendidikan itu.
 
 (2) Permohonan supaya didaftarkan sebagai pengelola atau pekerja sesuatu institusi pendidikan hendaklah dibuat dalam borang yang ditetapkan.
 
-Pendaftaran
+<!-- marginal: Pendaftaran -->
 
-89. (1) Tertakluk kepada seksyen 90, Ketua Pendaftar pengelola hendaklah, apabila permohonan dibuat dengan sewajarnya atau pekerja. dan selepas dibuat apa-apa siasatan yang difikirkannya perlu, mendaftarkan seseorang sebagai pengelola atau pekerja berkenaan dengan sesuatu institusi pendidikan dan hendaklah mengeluarkan suatu perakuan pendaftaran dalam borang yang ditetapkan kepada orang itu.
+89. (1) Tertakluk kepada seksyen 90, Ketua Pendaftar
+
+<!-- marginal: pengelola -->
+
+hendaklah, apabila permohonan dibuat dengan sewajarnya
+
+<!-- marginal: atau pekerja. -->
+
+dan selepas dibuat apa-apa siasatan yang difikirkannya perlu, mendaftarkan seseorang sebagai pengelola atau pekerja berkenaan dengan sesuatu institusi pendidikan dan hendaklah mengeluarkan suatu perakuan pendaftaran dalam borang yang ditetapkan kepada orang itu.
 
 (2) Ketua Pendaftar boleh menurut budi bicaranya mengeluarkan—
 
@@ -2280,27 +2740,73 @@ keengganan itu mengikut seksyen 91, merayu kepada Menteri.
 
 <!-- page 54 -->
 
-Kuasa Ketua
+<!-- marginal: Kuasa Ketua -->
 
-93. (1) Ketua Pendaftar boleh mengeluarkan daripada Pendaftar daftar seseorang pengelola atau pekerja— untuk mengeluarkan
+93. (1) Ketua Pendaftar boleh mengeluarkan daripada
 
-(a) atas alasan yang dinyatakan dalam perenggan pengelola atau pekerja 90(l)(a); daripada daftar.
+<!-- marginal: Pendaftar -->
+
+daftar seseorang pengelola atau pekerja—
+
+<!-- marginal: untuk -->
+
+<!-- marginal: mengeluarkan -->
+
+(a) atas alasan yang dinyatakan dalam perenggan
+
+<!-- marginal: pengelola -->
+
+<!-- marginal: atau pekerja -->
+
+90(l)(a);
+
+<!-- marginal: daripada -->
+
+<!-- marginal: daftar. -->
 
 (b) jika didapati oleh Ketua Pendaftar bahawa orang itu bukanlah seorang yang patut, demi kepentingan Malaysia, awam atau mana-mana orang, kekal sebagai pengelola atau pekerja; atau
 
 (c) yang telah memperoleh pendaftarannya akibat suatu kesilapan atau apa-apa butir yang palsu atau mengelirukan yang diberikan dalam atau berkaitan dengan permohonannya untuk didaftarkan.
 
-(2) Walau apa pun subseksyen (1), tiada seorang pun boleh dikeluarkan daripada daftar di bawah perenggan (l)(a) atas sebab apa-apa fakta atau hal yang berlaku sebelum tarikh pendaftarannya dan yang telah diberitahu kepada Pendaftar sebelum tarikh itu.
+(2) Walau apa pun subseksyen (1), tiada seorang pun boleh dikeluarkan daripada daftar di bawah perenggan
 
-Persaraan
+(l)(a) atas sebab apa-apa fakta atau hal yang berlaku sebelum tarikh pendaftarannya dan yang telah diberitahu kepada Pendaftar sebelum tarikh itu.
 
-94. (1) Apabila seseorang pengelola atau pekerja sesuatu pengelola institusi pendidikan bersara atau terhenti bertindak sebagai dan pekerja. yang sedemikian, pengerusi lembaga pengelola institusi pendidikan itu atau seseorang yang diberikuasa olehnya bagi maksud itu hendaklah, dalam masa dua puluh satu hari dari tarikh pengelola atau pekerja itu bersara atau terhenti sedemikian, melaporkan hakikat itu kepada Ketua Pendaftar secara bertulis.
+<!-- marginal: Persaraan -->
+
+94. (1) Apabila seseorang pengelola atau pekerja sesuatu
+
+<!-- marginal: pengelola -->
+
+institusi pendidikan bersara atau terhenti bertindak sebagai
+
+<!-- marginal: dan pekerja. -->
+
+yang sedemikian, pengerusi lembaga pengelola institusi pendidikan itu atau seseorang yang diberikuasa olehnya bagi maksud itu hendaklah, dalam masa dua puluh satu hari dari tarikh pengelola atau pekerja itu bersara atau terhenti sedemikian, melaporkan hakikat itu kepada Ketua Pendaftar secara bertulis.
 
 (2) Ketua Pendaftar hendaklah, apabila menerima laporan di bawah subseksyen (1), dengan segera mengeluarkan pengelola atau pekerja itu, mengikut mana- mana yang berkenaan, daripada daftar.
 
-Orang yang
+<!-- marginal: Orang yang -->
 
-95. Apabila seseorang dikeluarkan daripada daftar di dikeluarkan bawah seksyen 93 atau 94 Ketua Pendaftar hendaklah daripada daftar dengan segera memberitahu orang itu melalui notis bertulis hendaklah bahawa dia telah dikeluarkan sedemikian dan alasan diberitahu. pengeluarannya itu.
+95. Apabila seseorang dikeluarkan daripada daftar di
+
+<!-- marginal: dikeluarkan -->
+
+bawah seksyen 93 atau 94 Ketua Pendaftar hendaklah
+
+<!-- marginal: daripada -->
+
+<!-- marginal: daftar -->
+
+dengan segera memberitahu orang itu melalui notis bertulis
+
+<!-- marginal: hendaklah -->
+
+bahawa dia telah dikeluarkan sedemikian dan alasan
+
+<!-- marginal: diberitahu. -->
+
+pengeluarannya itu.
 
 <!-- page 55 -->
 
@@ -2376,19 +2882,55 @@ maksud memastikan bahawa Akta ini dan peraturan- peraturan yang dibuat di bawah 
 
 ## RANG UNDANG-UNDANG
 
-Kuasa Ketua
+<!-- marginal: Kuasa Ketua -->
 
-100. (1) Semasa menjalankan pemeriksaan menurut Pendaftar seksyen 99, Ketua Pendaftar boleh— semasa memenksa
+100. (1) Semasa menjalankan pemeriksaan menurut
 
-(a) memasuki mana-mana premis dan memeriksa institusi pendidikan mana-mana buku, dokumen, bahan media berdaftar. elektronik atau barang lain yang difikirkannya perlu; dan
+<!-- marginal: Pendaftar -->
+
+seksyen 99, Ketua Pendaftar boleh—
+
+<!-- marginal: semasa -->
+
+<!-- marginal: memenksa -->
+
+(a) memasuki mana-mana premis dan memeriksa
+
+<!-- marginal: institusi -->
+
+<!-- marginal: pendidikan -->
+
+mana-mana buku, dokumen, bahan media
+
+<!-- marginal: berdaftar. -->
+
+elektronik atau barang lain yang difikirkannya perlu; dan
 
 (b) mengambil dan menahan apa-apa buku, dokumen, bahan media elektronik atau barang lain yang didapatinya memudaratkan kepentingan awam atau murid atau yang, pada pendapatnya, boleh menjadi bukti pelakuan sesuatu kesalahan di bawah Akta ini.
 
 (2) Ketua Pendaftar boleh pada bila-bila masa ketika menjalankan dengan sah pemeriksaan di sesuatu institusi pendidikan di bawah Akta ini menghendaki mana-mana orang, yang menjadi pengelola, pekerja, guru atau murid institusi pendidikan itu, supaya mengemukakan untuk pemeriksaannya apa-apa buku, dokumen, bahan media elektronik atau barang lain yang berhubungan dengan pengurusan, atau pengajaran yang dijalankan di, institusi pendidikan itu yang ada dalam milikan orang itu atau di bawah kawalannya atau yang orang itu mempunyai kuasa untuk mengemukakannya.
 
-Pemeriksaan
+<!-- marginal: Pemeriksaan -->
 
-101. Jika Ketua Pendaftar atau pegawai awam yang premis diberikuasa oleh Ketua Pendaftar bagi maksud itu secara institusi pendidikan bertulis atau pegawai polis yang berpangkat tidak rendah yang tidak daripada Inspektor mempunyai sebab yang munasabah berdaftar. untuk mempercayai bahawa mana-mana rumah, bangunan atau tempat lain sedang digunakan sebagai institusi pendidikan tanpa berdaftar di bawah Akta ini, Ketua Pendaftar atau pegawai awam atau pegawai polis itu, dengan ditemani oleh mana-mana orang yang difikirkannya perlu, boleh—
+101. Jika Ketua Pendaftar atau pegawai awam yang
+
+<!-- marginal: premis -->
+
+diberikuasa oleh Ketua Pendaftar bagi maksud itu secara
+
+<!-- marginal: institusi -->
+
+<!-- marginal: pendidikan -->
+
+bertulis atau pegawai polis yang berpangkat tidak rendah
+
+<!-- marginal: yang tidak -->
+
+daripada Inspektor mempunyai sebab yang munasabah
+
+<!-- marginal: berdaftar. -->
+
+untuk mempercayai bahawa mana-mana rumah, bangunan atau tempat lain sedang digunakan sebagai institusi pendidikan tanpa berdaftar di bawah Akta ini, Ketua Pendaftar atau pegawai awam atau pegawai polis itu, dengan ditemani oleh mana-mana orang yang difikirkannya perlu, boleh—
 
 (a) memasuki dan memeriksa rumah, bangunan atau tempat itu; dan
 
@@ -2448,17 +2990,41 @@ pun boleh mengajar di sesuatu institusi pendidikan melainkan jika dia didaftarka
 
 (c) bagi seseorang murid di sesuatu institusi pendidikan bagi latihan guru yang ditubuhkan oleh dan di bawah kawalan langsung Menteri.
 
-Daftar guru.
+<!-- marginal: Daftar guru. -->
 
 104. Ketua Pendaftar hendaklah menyimpan dan menyenggarakan atau menyebabkan supaya disimpan dan disenggarakan dalam bentuk yang ditetapkan suatu daftar guru yang di dalamnya hendaklah dicatatkan apa-apa butir yang ditetapkan.
 
-Permohonan
+<!-- marginal: Permohonan -->
 
-105. Permohonan untuk didaftarkan sebagai guru supaya hendaklah dibuat kepada Ketua Pendaftar dalam borang didaftarkan sebagai guru. dan mengikut cara yang ditetapkan.
+105. Permohonan untuk didaftarkan sebagai guru
 
-Kuasa Ketua
+<!-- marginal: supaya -->
 
-106. Ketua Pendaftar boleh enggan mendaftarkan Pendaftar seseorang sebagai guru di bawah Akta ini jika dia berpuas untuk enggan mendaftarkan hati bahawa orang itu— seseorang sebagai guru.
+hendaklah dibuat kepada Ketua Pendaftar dalam borang
+
+<!-- marginal: didaftarkan -->
+
+<!-- marginal: sebagai guru. -->
+
+dan mengikut cara yang ditetapkan.
+
+<!-- marginal: Kuasa Ketua -->
+
+106. Ketua Pendaftar boleh enggan mendaftarkan
+
+<!-- marginal: Pendaftar -->
+
+seseorang sebagai guru di bawah Akta ini jika dia berpuas
+
+<!-- marginal: untuk enggan -->
+
+<!-- marginal: mendaftarkan -->
+
+hati bahawa orang itu—
+
+<!-- marginal: seseorang -->
+
+<!-- marginal: sebagai guru. -->
 
 (a) berumur kurang daripada lapan belas tahun;
 
@@ -2486,7 +3052,9 @@ seseorang di bawah seksyen 106 dia hendaklah melalui
 
 <!-- marginal: mendaftarkan -->
 
-notis bertulis memberitahu orang itu tentang
+notis bertulis memberitahu orang itu
+
+<!-- marginal: tentang -->
 
 <!-- marginal: seseorang -->
 
@@ -2568,7 +3136,11 @@ dia boleh menyampaikan kepada guru itu notis tentang niat untuk membatalkan pend
 
 (4) Tiada pembatalan pendaftaran boleh dibuat di bawah seksyen ini berdasarkan mana-mana alasan yang disebut dalam perenggan 106(d) dan (e) disebabkan apa- apa fakta atau hal yang berlaku sebelum tarikh pendaftaran seseorang guru dan yang telah diberitahu kepada Ketua Pendaftar sebelum tarikh itu.
 
-111. (1) Jika atas suatu rayuan yang dibuat di bawah Rayuan. Bab ini diperintahkan oleh Menteri supaya seseorang guru hendaklah didaftarkan, atau hendaklah kekal didaftarkan, tertakluk kepada syarat-syarat yang ditentukan, Ketua Pendaftar hendaklah mengenakan syarat-syarat itu.
+111. (1) Jika atas suatu rayuan yang dibuat di bawah
+
+<!-- marginal: Rayuan. -->
+
+Bab ini diperintahkan oleh Menteri supaya seseorang guru hendaklah didaftarkan, atau hendaklah kekal didaftarkan, tertakluk kepada syarat-syarat yang ditentukan, Ketua Pendaftar hendaklah mengenakan syarat-syarat itu.
 
 <!-- page 61 -->
 
@@ -2638,9 +3210,23 @@ guru berdaftar:
 
 ## Bab 3 — Pelbagai
 
-Penyerahan
+<!-- marginal: Penyerahan -->
 
-115. Perakuan pendaftaran sebagai guru yang dikeluarkan balik di bawah Akta ini atau di bawah mana-mana undang- perakuan pendaftaran undang bertulis terdahulu yang berhubungan dengan sebagai guru. pendaftaran guru atau apa-apa dokumen yang menjadi keterangan pendaftaran atau pengecualian daripada pendaftaran guru atau bahawa seorang guru itu disifatkan sebagai didaftarkan di bawah undang-undang itu, atau sesuatu permit mengajar yang dikeluarkan di bawah seksyen 114 hendaklah—
+115. Perakuan pendaftaran sebagai guru yang dikeluarkan
+
+<!-- marginal: balik -->
+
+di bawah Akta ini atau di bawah mana-mana undang-
+
+<!-- marginal: perakuan -->
+
+<!-- marginal: pendaftaran -->
+
+undang bertulis terdahulu yang berhubungan dengan
+
+<!-- marginal: sebagai guru. -->
+
+pendaftaran guru atau apa-apa dokumen yang menjadi keterangan pendaftaran atau pengecualian daripada pendaftaran guru atau bahawa seorang guru itu disifatkan sebagai didaftarkan di bawah undang-undang itu, atau sesuatu permit mengajar yang dikeluarkan di bawah seksyen 114 hendaklah—
 
 (a) apabila perakuan, dokumen atau permit itu dibatalkan;
 
@@ -2652,9 +3238,29 @@ Penyerahan
 
 diserahkan balik kepada Ketua Pendaftar dalam masa dua puluh satu hari oleh orang yang kepadanya perakuan, dokumen atau permit itu dikeluarkan atau mana-mana orang yang memilikinya.
 
-Kewajipan
+<!-- marginal: Kewajipan -->
 
-116. Tiap-tiap guru berdaftar hendaklah dalam tempoh guru untuk empat belas hari dari tarikh dia mula atau terhenti mengajar memberitahu tentang di sesuatu institusi pendidikan melaporkan secara bertulis perubahan kepada Ketua Pendaftar nama institusi pendidikan tempat institusi pendidikan. dia mengajar atau terhenti mengajar dan tarikh dia mula mengajar atau terhenti mengajar di institusi pendidikan itu.
+116. Tiap-tiap guru berdaftar hendaklah dalam tempoh
+
+<!-- marginal: guru untuk -->
+
+empat belas hari dari tarikh dia mula atau terhenti mengajar
+
+<!-- marginal: memberitahu -->
+
+<!-- marginal: tentang -->
+
+di sesuatu institusi pendidikan melaporkan secara bertulis
+
+<!-- marginal: perubahan -->
+
+kepada Ketua Pendaftar nama institusi pendidikan tempat
+
+<!-- marginal: institusi -->
+
+<!-- marginal: pendidikan. -->
+
+dia mengajar atau terhenti mengajar dan tarikh dia mula mengajar atau terhenti mengajar di institusi pendidikan itu.
 
 <!-- page 63 -->
 
@@ -2672,11 +3278,19 @@ Kewajipan
 
 (a) bertanggungjawab, dengan kerjasama mana-mana pihak berkuasa yang dilantik oleh Menteri, bagi memastikan bahawa taraf pengajaran yang memuaskan diwujudkan dan dikekalkan di institusi pendidikan;
 
-(b) memeriksa institusi pendidikan atau menyebabkan institusi pendidikan diperiksa oleh Nazir Sekolah pada lat tempoh yang difikirkannya sesuai;
+(b) memeriksa institusi pendidikan
+
+<!-- marginal: atau -->
+
+menyebabkan institusi pendidikan diperiksa oleh Nazir Sekolah pada lat tempoh yang difikirkannya sesuai;
 
 (c) apabila diarahkan supaya berbuat demikian oleh Menteri, memeriksa sesuatu institusi pendidikan atau menyebabkan institusi pendidikan itu diperiksa; dan
 
-(d) menjalankan apa-apa kewajipan lain berhubungan dengan pemeriksaan institusi pendidikan sebagaimana yang diarahkan oleh Menteri atau sebagaimana yang ditetapkan.
+(d) menjalankan apa-apa kewajipan
+
+<!-- marginal: lain -->
+
+berhubungan dengan pemeriksaan institusi pendidikan sebagaimana yang diarahkan oleh Menteri atau sebagaimana yang ditetapkan.
 
 <!-- marginal: Kuasa Nazir -->
 
@@ -2730,9 +3344,17 @@ jika laporan itu dibuat oleh Nazir Sekolah, dia hendaklah mengendorskan apa- apa
 
 ## Bab 2 — Am
 
-Kuasa am
+<!-- marginal: Kuasa am -->
 
-121. Bagi maksud membuat pemeriksaan ke atas institusi Nazir pendidikan di bawah seksyen 117 Ketua Nazir atau Nazir Sekolah. Sekolah (dalam seksyen ini disebut "Nazir") boleh—
+121. Bagi maksud membuat pemeriksaan ke atas institusi
+
+<!-- marginal: Nazir -->
+
+pendidikan di bawah seksyen 117 Ketua Nazir atau Nazir
+
+<!-- marginal: Sekolah. -->
+
+Sekolah (dalam seksyen ini disebut "Nazir") boleh—
 
 (a) pada bila-bila masa memasuki sesuatu institusi pendidikan; dan
 
@@ -2862,17 +3484,43 @@ ini atau mana-mana peraturan yang dibuat di bawah Akta ini.
 
 ## RAYUAN
 
-Menteri
+<!-- marginal: Menteri -->
 
-126. (1) Apabila rayuan dibuat kepada Menteri terhadap hendaklah keputusan Ketua Pendaftar, Menteri, melainkan jika dia memutuskan membenarkan rayuan itu dengan segera, hendaklah rayuan selepas membentuk suatu Jawatankuasa Siasatan yang terdiri penyiasatan. daripada orang yang difikirkannya layak untuk menyiasat fakta dan mengemukakan laporan tentang fakta itu kepadanya.
+126. (1) Apabila rayuan dibuat kepada Menteri terhadap
+
+<!-- marginal: hendaklah -->
+
+keputusan Ketua Pendaftar, Menteri, melainkan jika dia
+
+<!-- marginal: memutuskan -->
+
+membenarkan rayuan itu dengan segera, hendaklah
+
+<!-- marginal: rayuan -->
+
+<!-- marginal: selepas -->
+
+membentuk suatu Jawatankuasa Siasatan yang terdiri
+
+<!-- marginal: penyiasatan. -->
+
+daripada orang yang difikirkannya layak untuk menyiasat fakta dan mengemukakan laporan tentang fakta itu kepadanya.
 
 (2) Selepas menimbangkan laporan yang dikemukakan di bawah subseksyen (1), Menteri hendaklah memutuskan perkara rayuan itu dan membuat apa-apa perintah tentangnya sebagaimana yang difikirkannya wajar dan patut.
 
 (3) Keputusan Menteri tentang sesuatu rayuan adalah muktamad.
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-127. Tertakluk kepada seksyen 129 dan mana-mana Jawatankuasa peraturan yang dibuat di bawah Akta ini, Jawatankuasa Siasatan. Siasatan hendaklah mempunyai kuasa—
+127. Tertakluk kepada seksyen 129 dan mana-mana
+
+<!-- marginal: Jawatankuasa -->
+
+peraturan yang dibuat di bawah Akta ini, Jawatankuasa
+
+<!-- marginal: Siasatan. -->
+
+Siasatan hendaklah mempunyai kuasa—
 
 (a) untuk memperoleh dan menerima segala keterangan, sama ada bertulis atau lisan, dan memeriksa semua orang (termasuklah perayu) yang difikirkan wajar oleh Jawatankuasa Siasatan;
 
@@ -2984,7 +3632,7 @@ institusi pendidikan, yang pada pendapat Menteri mungkin mempunyai kesan terhada
 
 <!-- page 70 -->
 
-70
+<!-- marginal: 70 -->
 
 ## RANG UNDANG-UNDANG
 
@@ -3046,17 +3694,59 @@ dipindahmilikkan atau diletakhakkan di bawah Akta ini dan cara mendaftarkan hakm
 
 (ae) apa-apa perkara lain yang disifatkan oleh Menteri sebagai suaimanfaat atau perlu bagi melaksanakan mana- mana peruntukan Akta ini.
 
-Peraturan
+<!-- marginal: Peraturan -->
 
-131. Peraturan-peraturan yang dibuat di bawah Akta ini boleh boleh memperuntukkan bahawa pelanggaran mana-mana menetapkan penalti peruntukan dalam peraturan-peraturan itu adalah suatu kerana kesalahan dan bahawa kesalahan sedemikian boleh pelanggaran- nya. dihukum, apabila disabitkan, dengan hukuman denda atau pemenjaraan atau kedua-duanya tetapi tidak boleh membuat peruntukan supaya denda itu melebihi sepuluh ribu ringgit atau tempoh pemenjaraan itu melebihi enam bulan.
+131. Peraturan-peraturan yang dibuat di bawah Akta ini
+
+<!-- marginal: boleh -->
+
+boleh memperuntukkan bahawa pelanggaran mana-mana
+
+<!-- marginal: menetapkan -->
+
+<!-- marginal: penalti -->
+
+peruntukan dalam peraturan-peraturan itu adalah suatu
+
+<!-- marginal: kerana -->
+
+kesalahan dan bahawa kesalahan sedemikian boleh
+
+<!-- marginal: pelanggaran- -->
+
+<!-- marginal: nya. -->
+
+dihukum, apabila disabitkan, dengan hukuman denda atau pemenjaraan atau kedua-duanya tetapi tidak boleh membuat peruntukan supaya denda itu melebihi sepuluh ribu ringgit atau tempoh pemenjaraan itu melebihi enam bulan.
 
 ## BAHAGIAN XIV
 
 ## KESALAHAN DAN PENALTI
 
-Kesalahan
+<!-- marginal: Kesalahan -->
 
-132. (1) Seseorang, sebagai pengerusi lembaga pengelola dan penalti atau mana-mana orang lain yang dengan bertanggungjawab berhubungan dengan tentang pengurusan sesuatu institusi pendidikan, yang pendaftaran membuat pernyataan yang palsu atau mengelirukan dalam institusi mempromosikan institusi pendidikan itu adalah melakukan pendidikan. suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua- duanya.
+132. (1) Seseorang, sebagai pengerusi lembaga pengelola
+
+<!-- marginal: dan penalti -->
+
+atau mana-mana orang lain yang dengan bertanggungjawab
+
+<!-- marginal: berhubungan -->
+
+<!-- marginal: dengan -->
+
+tentang pengurusan sesuatu institusi pendidikan, yang
+
+<!-- marginal: pendaftaran -->
+
+membuat pernyataan yang palsu atau mengelirukan dalam
+
+<!-- marginal: institusi -->
+
+mempromosikan institusi pendidikan itu adalah melakukan
+
+<!-- marginal: pendidikan. -->
+
+suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua- duanya.
 
 <!-- page 73 -->
 
@@ -3076,7 +3766,7 @@ Kesalahan
 
 <!-- page 74 -->
 
-74
+<!-- marginal: 74 -->
 
 ## RANG UNDANG-UNDANG
 
@@ -3146,11 +3836,19 @@ di suatu institusi pendidikan dengan melanggar mana-mana syarat yang berhubungan
 
 boleh, apabila disabitkan atas suatu kesalahan di bawah perenggan (b) atau (e), didenda tidak melebihi sepuluh ribu ringgit dan boleh, apabila disabitkan atas suatu kesalahan di bawah perenggan (a), (c), (d), (f) atau (g), didenda tidak melebihi lima ribu ringgit.
 
-Kesalahan
+<!-- marginal: Kesalahan -->
 
-134. Seseorang yang— dan penalti berhubungan
+134. Seseorang yang—
 
-(a) menghalang atau menggendalakan Ketua Nazir dengan Nazir. atau Nazir Sekolah dalam menjalankan mana- mana kuasa yang diberikan kepadanya oleh seksyen 121;
+<!-- marginal: dan penalti -->
+
+<!-- marginal: berhubungan -->
+
+(a) menghalang atau menggendalakan Ketua Nazir
+
+<!-- marginal: dengan Nazir. -->
+
+atau Nazir Sekolah dalam menjalankan mana- mana kuasa yang diberikan kepadanya oleh seksyen 121;
 
 (b) enggan mengemukakan mana-mana jadual waktu, sukatan pelajaran, rekod, buku, bahan, dokumen atau barang, atau enggan memberikan maklumat, dengan melanggar subperenggan 121(b)(ii); atau
 
@@ -3200,13 +3898,31 @@ Pengarah bagi maksud itu secara bertulis oleh Ketua Pendaftar atau pegawai polis
 
 dalam mendapatkan waran geledah di bawah Kanun Prosedur Jenayah, dia boleh, tanpa waran, memasuki mana- mana premis itu bagi rnaksud sedemikian dengan menggunakan hanya apa-apa kekerasan yang perlu supaya dia dapat masuk.
 
-Memulakan
+<!-- marginal: Memulakan -->
 
-138. Ketua Pendaftar atau pegawai awam yang dan diberikuasa oleh Ketua Pendaftar bagi maksud itu secara menjalankan pendakwaan. bertulis atau pegawai polis yang berpangkat tidak rendah daripada Inspektor boleh, dengan kebenaran bertulis Pendakwa Raya, memulakan dan menjalankan pendakwaan berkenaan dengan suatu kesalahan di bawah Akta ini atau mana-mana peraturan yang dibuat di bawah Akta ini.
+138. Ketua Pendaftar atau pegawai awam yang
 
-Kuasa untuk
+<!-- marginal: dan -->
 
-139. (1) Ketua Pendaftar boleh, dalam sesuatu hal mengkompaun apabila difikirkannya layak dan patut untuk berbuat kesalahan. demikian, dan dengan kebenaran bertulis Pendakwa Raya, mengkompaunkan apa-apa kesalahan yang dilakukan oleh seseorang yang boleh dihukum di bawah Akta ini, kecuali suatu kesalahan di bawah seksyen 72 dan subseksyen 132(1), atau mana-mana peraturan yang dibuat di bawah Akta ini dengan membuat suatu tawaran bertulis kepada orang itu untuk mengkompaunkan kesalahan itu apabila dibayar kepada Ketua Pendaftar dalam masa yang ditentukan dalam tawaran itu, apa-apa jumlah wang, yang boleh ditentukan sedemikian, yang tidak boleh melebihi lima puluh peratus daripada amaun denda maksimum yang boleh dikenakan kepada orang itu sekiranya dia telah disabitkan atas kesalahan itu.
+diberikuasa oleh Ketua Pendaftar bagi maksud itu secara
+
+<!-- marginal: menjalankan -->
+
+<!-- marginal: pendakwaan. -->
+
+bertulis atau pegawai polis yang berpangkat tidak rendah daripada Inspektor boleh, dengan kebenaran bertulis Pendakwa Raya, memulakan dan menjalankan pendakwaan berkenaan dengan suatu kesalahan di bawah Akta ini atau mana-mana peraturan yang dibuat di bawah Akta ini.
+
+<!-- marginal: Kuasa untuk -->
+
+139. (1) Ketua Pendaftar boleh, dalam sesuatu hal
+
+<!-- marginal: mengkompaun -->
+
+apabila difikirkannya layak dan patut untuk berbuat
+
+<!-- marginal: kesalahan. -->
+
+demikian, dan dengan kebenaran bertulis Pendakwa Raya, mengkompaunkan apa-apa kesalahan yang dilakukan oleh seseorang yang boleh dihukum di bawah Akta ini, kecuali suatu kesalahan di bawah seksyen 72 dan subseksyen 132(1), atau mana-mana peraturan yang dibuat di bawah Akta ini dengan membuat suatu tawaran bertulis kepada orang itu untuk mengkompaunkan kesalahan itu apabila dibayar kepada Ketua Pendaftar dalam masa yang ditentukan dalam tawaran itu, apa-apa jumlah wang, yang boleh ditentukan sedemikian, yang tidak boleh melebihi lima puluh peratus daripada amaun denda maksimum yang boleh dikenakan kepada orang itu sekiranya dia telah disabitkan atas kesalahan itu.
 
 (2) Sesuatu tawaran di bawah subseksyen (1) boleh dibuat pada bila-bila masa selepas kesalahan itu dilakukan, tetapi sebelum apa-apa pendakwaan baginya telah dimulakan, dan jika amaun yang ditentukan dalam tawaran itu tidak dibayar dalam masa yang ditentukan dalam tawaran itu, atau dalam apa-apa tempoh lanjutan yang dibenarkan oleh Ketua Pendaftar, pendakwaan bagi kesalahan itu boleh dimulakan pada bila-bila masa selepas itu terhadap orang yang kepadanya tawaran itu telah dibuat.
 
@@ -3214,7 +3930,11 @@ Kuasa untuk
 
 (3) Jika suatu kesalahan telah dikompaunkan di bawah subseksyen (1)—
 
-(a) tiada pendakwaan boleh dibuat selepas itu berkenaan dengan kesalahan itu terhadap orang yang kepadanya tawaran untuk mengkompaunkan itu telah dibuat; dan
+(a) tiada pendakwaan boleh dibuat selepas itu berkenaan dengan kesalahan itu terhadap orang yang kepadanya tawaran
+
+<!-- marginal: untuk -->
+
+mengkompaunkan itu telah dibuat; dan
 
 (b) apa-apa barang, benda atau artikel lain yang disita berkaitan dengan kesalahan itu hendaklah dilepaskan dengan serta-merta.
 
@@ -3236,7 +3956,7 @@ menjalankan kuasa seseorang yang dilantik, di bawah
 
 <!-- marginal: pengkhidmat -->
 
-## Bahagian II hendaklah disifatkan sebagai pengkhidmat
+Bahagian II hendaklah disifatkan sebagai pengkhidmat
 
 <!-- marginal: awam. -->
 
@@ -3264,17 +3984,45 @@ memastikan bahawa premis institusi pendidikan itu mematuhi apa-apa piawaian yang
 
 apa-apa aspek tertentu, dia boleh mengarahkan supaya premis itu disifatkan sebagai mematuhi piawaian yang ditetapkan jika sebagai ganti pematuhan kepada piawaian yang ditetapkan itu premis itu mematuhi apa-apa kehendak lain yang ditentukan dalam arahan itu.
 
-Pendaftaran
+<!-- marginal: Pendaftaran -->
 
-142. Kecuali dengan kebenaran Pendaftar, seseorang murid di murid yang berdaftar sebagai murid di suatu institusi institusi pendidikan pendidikan kerajaan atau bantuan kerajaan tidak boleh, kerajaan atau semasa masih berdaftar sedemikian, berdaftar di mana- bantuan kerajaan. mana institusi pendidikan sedemikian yang lain.
+142. Kecuali dengan kebenaran Pendaftar, seseorang
 
-Kuasa untuk
+<!-- marginal: murid di -->
 
-143. Menteri boleh, jika difikirkannya wajar dan demi mengecualikan institusi kepentingan sesuatu institusi pendidikan atau demi pendidikan. kepentingan murid atau awam, melalui perintah yang disiarkan dalam Warta, mengecualikan institusi pendidikan atau mana-mana golongan atau golongan institusi pendidikan daripada semua atau mana-mana peruntukan Akta ini kecuali peruntukan tentang pendaftaran, sama ada secara mutlak atau tertakluk kepada apa-apa syarat yang difikirkannya patut dikenakan, dan boleh pada bila- bila masa menurut budi bicaranya membatalkan pengecualian sedemikian atau mengkensel atau mengubah atau menambah syarat-syarat itu.
+murid yang berdaftar sebagai murid di suatu institusi
 
-Jawatankuasa
+<!-- marginal: institusi -->
 
-144. Walau apa pun apa-apa peruntukan lain dalam Akta Khas. ini, Menteri boleh membentuk suatu jawatankuasa khas yang terdiri daripada orang yang dilantik oleh Menteri berkenaan dengan—
+<!-- marginal: pendidikan -->
+
+pendidikan kerajaan atau bantuan kerajaan tidak boleh,
+
+<!-- marginal: kerajaan atau -->
+
+semasa masih berdaftar sedemikian, berdaftar di mana-
+
+<!-- marginal: bantuan -->
+
+<!-- marginal: kerajaan. -->
+
+mana institusi pendidikan sedemikian yang lain.
+
+<!-- marginal: Kuasa untuk -->
+
+143. Menteri boleh, jika difikirkannya wajar dan demi mengecualikan institusi kepentingan sesuatu institusi pendidikan atau demi
+
+<!-- marginal: pendidikan. -->
+
+kepentingan murid atau awam, melalui perintah yang disiarkan dalam Warta, mengecualikan institusi pendidikan atau mana-mana golongan atau golongan institusi pendidikan daripada semua atau mana-mana peruntukan Akta ini kecuali peruntukan tentang pendaftaran, sama ada secara mutlak atau tertakluk kepada apa-apa syarat yang difikirkannya patut dikenakan, dan boleh pada bila- bila masa menurut budi bicaranya membatalkan pengecualian sedemikian atau mengkensel atau mengubah atau menambah syarat-syarat itu.
+
+<!-- marginal: Jawatankuasa -->
+
+144. Walau apa pun apa-apa peruntukan lain dalam Akta
+
+<!-- marginal: Khas. -->
+
+ini, Menteri boleh membentuk suatu jawatankuasa khas yang terdiri daripada orang yang dilantik oleh Menteri berkenaan dengan—
 
 (a) mana-mana institusi pendidikan atau golongan institusi pendidikan tertentu; atau
 
@@ -3312,25 +4060,109 @@ atau disampaikan kepada orang yang, pada pendapat Ketua Pendaftar, bertanggungja
 
 ## PERALIHAN DAN PEMANSUHAN
 
-Pertukaran
+<!-- marginal: Pertukaran -->
 
-146. Pada tarikh yang ditetapkan semua nama institusi nama pendidikan yang, sebelum sahaja tarikh adalah— institusi pendidikan tertentu.
+146. Pada tarikh yang ditetapkan semua nama institusi
+
+<!-- marginal: nama -->
+
+pendidikan yang, sebelum sahaja tarikh adalah—
+
+<!-- marginal: institusi -->
+
+<!-- marginal: pendidikan -->
+
+<!-- marginal: tertentu. -->
 
 (a) sekolah rendah kebangsaan hendaklah dikenali sebagai sekolah kebangsaan; dan
 
 (b) sekolah rendah jenis kebangsaan hendaklah dikenali sebagai sekolah jenis kebangsaan.
 
-Sekolah
+<!-- marginal: Sekolah -->
 
-147. Sekolah menengah vokasional yang ditubuhkan menengah sebelum tarikh yang ditetapkan hendaklah terus menjadi vokasional hendaklah sebahagian daripada sekolah menengah kebangsaan di menjadi bawah perenggan 30(1)(b) sehingga sekolah sedemikian sebahagian daripada dimansuhkan oleh Menteri melalui perintah yang disiarkan sekolah dalam Warta. menengah kebangsaan sehingga dimansuhkan.
+147. Sekolah menengah vokasional yang ditubuhkan
 
-Bantuan
+<!-- marginal: menengah -->
 
-148. Tertakluk kepada peruntukan Akta ini, Menteri kepada hendaklah terus membantu semua institusi pendidikan institusi pendidikan yang menerima sumbangan bantuan atau bantuan yang sedia kewangan lain yang serupa daripada Kerajaan atau daripada ada. wang awam pada hari sebelum sahaja tarikh yang ditetapkan,
+sebelum tarikh yang ditetapkan hendaklah terus menjadi
 
-Kecualian
+<!-- marginal: vokasional -->
 
-149. Walau apa pun apa-apa jua yang berlawanan, berkenaan Kerajaan Persekutuan boleh terus membuat bayaran dengan sumbangan berkenaan dengan kos yang disebut dalam seksyen 37 untuk Akta Pelajaran 1961 berhubungan dengan ajaran agama pengajaran agama. yang diberikan di bawah seksyen itu tidak dimansuhkan Akta 43/61. oleh Akta ini.
+<!-- marginal: hendaklah -->
+
+sebahagian daripada sekolah menengah kebangsaan di
+
+<!-- marginal: menjadi -->
+
+bawah perenggan 30(1)(b) sehingga sekolah sedemikian
+
+<!-- marginal: sebahagian -->
+
+<!-- marginal: daripada -->
+
+dimansuhkan oleh Menteri melalui perintah yang disiarkan
+
+<!-- marginal: sekolah -->
+
+dalam Warta.
+
+<!-- marginal: menengah -->
+
+<!-- marginal: kebangsaan -->
+
+<!-- marginal: sehingga -->
+
+<!-- marginal: dimansuhkan. -->
+
+<!-- marginal: Bantuan -->
+
+148. Tertakluk kepada peruntukan Akta ini, Menteri
+
+<!-- marginal: kepada -->
+
+hendaklah terus membantu semua institusi pendidikan
+
+<!-- marginal: institusi -->
+
+<!-- marginal: pendidikan -->
+
+yang menerima sumbangan bantuan atau bantuan
+
+<!-- marginal: yang sedia -->
+
+kewangan lain yang serupa daripada Kerajaan atau daripada
+
+<!-- marginal: ada. -->
+
+wang awam pada hari sebelum sahaja tarikh yang ditetapkan,
+
+<!-- marginal: Kecualian -->
+
+149. Walau apa pun apa-apa jua yang berlawanan,
+
+<!-- marginal: berkenaan -->
+
+Kerajaan Persekutuan boleh terus membuat bayaran
+
+<!-- marginal: dengan -->
+
+<!-- marginal: sumbangan -->
+
+berkenaan dengan kos yang disebut dalam seksyen 37
+
+<!-- marginal: untuk -->
+
+Akta Pelajaran 1961 berhubungan dengan ajaran agama
+
+<!-- marginal: pengajaran -->
+
+<!-- marginal: agama. -->
+
+yang diberikan di bawah seksyen itu tidak dimansuhkan
+
+<!-- marginal: Akta 43/61. -->
+
+oleh Akta ini.
 
 <!-- page 83 -->
 
@@ -3428,17 +4260,59 @@ ditubuhkan di bawah seksyen 92 Akta Pelajaran 1961.
 
 (d) Menteri boleh memberikan apa-apa arahan yang difikirkannya patut berkenaan dengan mana- mana kakitangan atau pekerja Lembaga.
 
-Penyenggaraan
+<!-- marginal: Penyenggaraan -->
 
-153. (1) Mana-mana kumpulan wang caruman (termasuk kumpulan Kumpulan Wang Simpanan Guru) yang ditubuhkan di wang caruman. bawah Akta Pelajaran 1961 atau mana-mana peraturan Akta 43/61. yang dibuat di bawah Akta itu hendaklah terus disenggarakan dan diuruskan mengikut mana-mana undang-undang bertulis yang berhubungan dengan kumpulan wang itu sehingga Yang di-Pertuan Agong membuat perintah bagi penggulungannya atau selainnya.
+153. (1) Mana-mana kumpulan wang caruman (termasuk
+
+<!-- marginal: kumpulan -->
+
+Kumpulan Wang Simpanan Guru) yang ditubuhkan di
+
+<!-- marginal: wang -->
+
+<!-- marginal: caruman. -->
+
+bawah Akta Pelajaran 1961 atau mana-mana peraturan
+
+<!-- marginal: Akta 43/61. -->
+
+yang dibuat di bawah Akta itu hendaklah terus disenggarakan dan diuruskan mengikut mana-mana undang-undang bertulis yang berhubungan dengan kumpulan wang itu sehingga Yang di-Pertuan Agong membuat perintah bagi penggulungannya atau selainnya.
 
 (2) Perintah penggulungan di bawah seksyen ini hendaklah hanya dibuat atas nasihat Menteri Kewangan.
 
 (3) Menteri boleh melalui peraturan meminda mana- mana kaedah atau peraturan berhubungan dengan kumpulan wang itu yang dibuat sebelum tarikh yang ditetapkan untuk mengadakan pentadbiran yang lebih baik bagi kumpulan wang itu atau untuk menghapuskan apa- apa kesulitan yang berhubungan dengan kumpulan wang itu.
 
-Sebutan
+<!-- marginal: Sebutan -->
 
-154. Sebutan dalam Akta ini mengenai seseorang mengenai pengelola hendaklah termasuk sebutan mengenai pengurus pengelola atau lembaga yang didaftarkan di bawah Akta Pelajaran 1961 dan pengelola sebutan mengenai lembaga pengelola hendaklah termasuk hendaklah termasuk sebutan mengenai lembaga pengurus di bawah Akta itu. pengurus dan lembaga pengurus. Akta 43/61.
+154. Sebutan dalam Akta ini mengenai seseorang
+
+<!-- marginal: mengenai -->
+
+pengelola hendaklah termasuk sebutan mengenai pengurus
+
+<!-- marginal: pengelola -->
+
+<!-- marginal: atau lembaga -->
+
+yang didaftarkan di bawah Akta Pelajaran 1961 dan
+
+<!-- marginal: pengelola -->
+
+sebutan mengenai lembaga pengelola hendaklah termasuk
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: termasuk -->
+
+sebutan mengenai lembaga pengurus di bawah Akta itu.
+
+<!-- marginal: pengurus dan -->
+
+<!-- marginal: lembaga -->
+
+<!-- marginal: pengurus. -->
+
+<!-- marginal: Akta 43/61. -->
 
 <!-- page 85 -->
 
@@ -3506,9 +4380,13 @@ Pendidikan Kebangsaan.
 
 <!-- page 86 -->
 
-Mata pelajaran
+<!-- marginal: Mata pelajaran -->
 
-2. Mata pelajaran teras pada peringkat sekolah rendah ialah— teras pada peringkat rendah
+2. Mata pelajaran teras pada peringkat sekolah rendah ialah—
+
+<!-- marginal: teras pada -->
+
+<!-- marginal: peringkat rendah -->
 
 (a) Bahasa Kebangsaan;
 
@@ -3528,9 +4406,17 @@ Mata pelajaran
 
 (i) Pendidikan Moral, bagi murid yang tidak menganut agama Islam.
 
-Mata pelajaran
+<!-- marginal: Mata pelajaran -->
 
-3. Mata pelajaran teras pada peringkat sekolah menengah teras pada ialah— peringkat menengah
+3. Mata pelajaran teras pada peringkat sekolah menengah
+
+<!-- marginal: teras pada -->
+
+ialah—
+
+<!-- marginal: peringkat -->
+
+<!-- marginal: menengah -->
 
 (a) Bahasa Kebangsaan;
 
@@ -3574,39 +4460,25 @@ Fasal 8 dan 9 memperkatakan kuasa Menteri untuk mengeluarkan arahan tentang perk
 
 <!-- page 88 -->
 
-## Bab 2 bertujuan mengadakan peruntukan berhubungan dengan
-
-pendidikan prasekolah supaya Menteri Pendidikan boleh mengawalselia penubuhan dan pengurusan tadika.
+Bab 2 bertujuan mengadakan peruntukan berhubungan dengan pendidikan prasekolah supaya Menteri Pendidikan boleh mengawalselia penubuhan dan pengurusan tadika.
 
 ## Bab 3, 4 dan 5 masing-masingnya memperkatakan pendidikan
 
 rendah, pendidikan menengah, dan pendidikan lepas menengah.
 
-## Bab 6 memperkatakan penubuhan dan penyenggaraan oleh Menteri
+Bab 6 memperkatakan penubuhan dan penyenggaraan oleh Menteri akan sekolah khas, politeknik, maktab selain daripada yang bertaraf universiti atau kolej universiti yang ditubuhkan di bawah Akta Universiti dan Kolej Universiti 1971, dan apa-apa institusi pendidikan lain yang tidak ditubuhkan atau disenggarakan oleh Akta tersebut atau Akta ini.
 
-akan sekolah khas, politeknik, maktab selain daripada yang bertaraf universiti atau kolej universiti yang ditubuhkan di bawah Akta Universiti dan Kolej Universiti 1971, dan apa-apa institusi pendidikan lain yang tidak ditubuhkan atau disenggarakan oleh Akta tersebut atau Akta ini.
-
-## Bab 7 mengandungi peruntukan berhubungan dengan pendidikan
-
-teknik dan pendidikan di politeknik untuk membolehkan tekanan diberikan kepada latihan dalam bidang teknologi dan kemahiran khusus.
+Bab 7 mengandungi peruntukan berhubungan dengan pendidikan teknik dan pendidikan di politeknik untuk membolehkan tekanan diberikan kepada latihan dalam bidang teknologi dan kemahiran khusus.
 
 Peruntukan dalam Bab 8 memperuntukkan pendidikan khas bagi memenuhi keperluan pendidikan khas murid.
 
-## Bab 9 memperkatakan penubuhan, penyenggaraan dan pengurusan
+Bab 9 memperkatakan penubuhan, penyenggaraan dan pengurusan maktab pendidikan guru.
 
-maktab pendidikan guru.
+Bab 10 mengadakan peruntukan bagi pemberian pengajaran agama di institusi pendidikan. Dalam hal ini, Menteri, dengan mengambil kira Islam sebagai agama Malaysia, boleh memberikan bantuan kewangan kepada institusi pendidikan Islam yang ditubuhkan atau disenggarakan olehnya atau selainnya.
 
-## Bab 10 mengadakan peruntukan bagi pemberian pengajaran agama
+Bab 11 memperkatakan pengurusan institusi pendidikan. Kecuali bagi institusi pendidikan kerajaan selain daripada sekolah rendah jenis kebangsaan, semua institusi pendidikan lain yang didaftarkan di bawah Akta dikehendaki mempunyai suratcara pengelolaan dan institusi pendidikan ini hendaklah diuruskan mengikut suratcara pengelolaannya. Bab 11 juga mengandungi, dalam fasal 62, peruntukan berhubungan dengan pembubaran lembaga pengurus atau lembaga pengelola mana-mana institusi pendidikan yang ditubuhkan oleh Menteri sebelum tarikh mula berkuatkuasanya Akta kecuali lembaga pengurus atau lembaga pengelola sekolah rendah jenis kebangsaan, dan sekolah rendah kebangsaan atau sekolah menengah kebangsaan yang ditentukan oleh Menteri.
 
-di institusi pendidikan. Dalam hal ini, Menteri, dengan mengambil kira Islam sebagai agama Malaysia, boleh memberikan bantuan kewangan kepada institusi pendidikan Islam yang ditubuhkan atau disenggarakan olehnya atau selainnya.
-
-## Bab 11 memperkatakan pengurusan institusi pendidikan. Kecuali
-
-bagi institusi pendidikan kerajaan selain daripada sekolah rendah jenis kebangsaan, semua institusi pendidikan lain yang didaftarkan di bawah Akta dikehendaki mempunyai suratcara pengelolaan dan institusi pendidikan ini hendaklah diuruskan mengikut suratcara pengelolaannya. Bab 11 juga mengandungi, dalam fasal 62, peruntukan berhubungan dengan pembubaran lembaga pengurus atau lembaga pengelola mana-mana institusi pendidikan yang ditubuhkan oleh Menteri sebelum tarikh mula berkuatkuasanya Akta kecuali lembaga pengurus atau lembaga pengelola sekolah rendah jenis kebangsaan, dan sekolah rendah kebangsaan atau sekolah menengah kebangsaan yang ditentukan oleh Menteri.
-
-## Bab 12 adalah berhubungan dengan kuasa Menteri untuk
-
-memberikan sama ada bantuan kewangan atau bantuan selainnya, kepada murid-murid di institusi pendidikan kerajaan atau bantuan kerajaan untuk membolehkan murid-murid menggunakan sepenuhnya kemudahan-kemudahan pendidikan yang tersedia untuk mereka.
+Bab 12 adalah berhubungan dengan kuasa Menteri untuk memberikan sama ada bantuan kewangan atau bantuan selainnya, kepada murid-murid di institusi pendidikan kerajaan atau bantuan kerajaan untuk membolehkan murid-murid menggunakan sepenuhnya kemudahan-kemudahan pendidikan yang tersedia untuk mereka.
 
 <!-- page 89 -->
 

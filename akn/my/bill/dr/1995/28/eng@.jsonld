@@ -1,0 +1,282 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-28-1995",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_5"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Perbadanan Pembangunan Bandar (Dissolution) Bill 1995"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Perbadanan Pembangunan"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Bandar (Dissolution) Act 1995 and shall come into force on such date as the Minister may, by notification in the Gazette, appoint."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "\"Government\" means the Government of Malaysia; \"Minister\" means the Minister responsible for urban development; \"Perbadanan\" means the Perbadanan Pembangunan Bandar established under the Perbadanan Pembangunan Bandar Act 1971."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Perbadanan Pembangunan Bandar Act 1971 is"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "repealed and the Perbadanan established thereunder is dissolved."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4__subsec_1__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding the repeal under section 3, all—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "powers;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "rights;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "privileges;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "duties;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "liabilities; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4__subsec_1__para_f__subpara_aa",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4__subsec_1__para_f__subpara_bb"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "obligations, under section 18 of the Perbadanan Pembangunan Bandar Act 1971 which immediately before the commencement of this Act were those of the Perbadanan shall, on the commencement of this Act,—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4__subsec_1__para_f__subpara_aa",
+      "@type": "akn:subparagraph",
+      "eli:number": "aa",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4__subsec_1__para_f",
+      "schema:text": {
+        "@language": "en",
+        "@value": "devolve on the Government; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4__subsec_1__para_f__subpara_bb",
+      "@type": "akn:subparagraph",
+      "eli:number": "bb",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4__subsec_1__para_f__subpara_bb__subpara_aaa",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4__subsec_1__para_f__subpara_bb__subpara_bbb"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4__subsec_1__para_f",
+      "schema:text": {
+        "@language": "en",
+        "@value": "be exercised in accordance with any written law for the time being in force relating to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4__subsec_1__para_f__subpara_bb__subpara_aaa",
+      "@type": "akn:subparagraph",
+      "eli:number": "aaa",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4__subsec_1__para_f__subpara_bb",
+      "schema:text": {
+        "@language": "en",
+        "@value": "town and country planning; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4__subsec_1__para_f__subpara_bb__subpara_bbb",
+      "@type": "akn:subparagraph",
+      "eli:number": "bbb",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4__subsec_1__para_f__subpara_bb",
+      "schema:text": {
+        "@language": "en",
+        "@value": "tax, rent, rates or other charges with respect to property."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "planning permission, approval for development, or approval of a building plan granted in respect of any land; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_4__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any instrument or document issued, by the Perbadanan by virtue of its power under section 18 of the repealed Act shall continue to have force and effect and shall be deemed to have been granted or issued by the Government by virtue of the operation of subsection (1) until the same is amended, modified, revoked, or cancelled by the Government."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_5__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If any difficulty or anomaly arises in connection with the implementation of the provisions of this Act, the Minister may by order make such modifications therein as may appear to him necessary for removing or preventing such difficulty or anomaly. (DISSOLUTION)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In this section, \"modifications\" amendments, additions, deletions, substitutions, adaptations, variations, alterations and non-application of any provision of this Act."
+      }
+    }
+  ]
+}

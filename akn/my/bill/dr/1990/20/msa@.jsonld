@@ -1,0 +1,269 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-20-1990",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Kumpulanwang Pinjaman Perumahan (Pindaan) 1990"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Kumpulanwang"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pinjaman Perumahan (Pindaan) 1990 dan hendaklah disifatkan telah mula berkuatkuasa pada 1hb Julai 1980."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Kumpulanwang Pinjaman Perumahan 1971 adalah"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dipinda dengan menggantikan seksyen 5 dengan seksyen yang berikut: 'Penggunaan 5. (1) Wang Kumpulanwang hendaklah digunakan wang dan adalah dengan ini diperuntukkan bagi maksud Kumpulan- wang memberikan pinjaman mengikut terma-terma dan syarat-syarat yang difikirkan patut oleh Menteri Kewangan kepada mana-mana orang—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang menjadi anggota mana-mana perkhidmatan awam yang tersebut dalam Perkara 132 Perlembagaan Persekutuan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang menjadi Anggota pentadbiran dalam Persekutuan atau sesuatu Negeri sebagai- mana yang ditakrifkan dalam Perkara 160 (2) Perlembagaan Persekutuan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang menjadi Hakim Mahkamah Agung atau Mahkamah Tinggi; RANG UNDANG-UNDANG"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang menjadi anggota Perkhidmatan Parli- men sebagaimana yang ditakrifkan dalam seksyen 2 Akta Perkhidmatan Parlimen 1963;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang menjadi anggota salah satu Majlis Parlimen;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang menjadi Yang Dipertua Dewan Rakyat'"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang menjadi anggota sesuatu Dewan -Undangan Negeri;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang. menjadi pekerja mana-mana badan berkanun atau pihak berkuasa tempatan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang menjadi suami atau isteri mana-mana orang yang telah mati (yang sebelum kematiannya telah layak, oleh sebab dia termasuk dalam salah satu daripada kategori orang yang diperihalkan dalam perenggan (a) hingga (h) subseksyen ini, untuk diberi suatu pinjaman) sebagaimana yang diputuskan oleh Menteri Kewangan menurut budi bicaranya, tetapi pinjaman itu, jika diberikan; tidak boleh lebih daripada amaun pinjaman yang layak diterima oleh orang yang mati itu sebelum kematiannya; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__para_j__subpara_aa",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__para_j__subpara_bb",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__para_j__subpara_cc"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang dinyatakan oleh Menteri Kewangan melalui perintah dalam Warta, untuk membolehkan atau membantu orang itu—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__para_j__subpara_aa",
+      "@type": "akn:subparagraph",
+      "eli:number": "aa",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__para_j",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membeli tanah, sama ada dengan rumah kediaman di atasnya atau tidak;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__para_j__subpara_bb",
+      "@type": "akn:subparagraph",
+      "eli:number": "bb",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__para_j",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membina rumah kediaman dan jalan sebagai jalan masuk ke rumah itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__para_j__subpara_cc",
+      "@type": "akn:subparagraph",
+      "eli:number": "cc",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__para_j",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menyelesaikan kesemua atau sebahagian daripada hutang atau hutang-hutang yang dilakukan pada membeli tanah, sama ada dengan rumah kediaman di atasnya atau tidak, atau pada membina rumah kediaman dan jalan sebagai jalan masuk ke rumah itu, sebelum pinjaman diberikan. (PINDAAN)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada Fasal (7) Perkara 125 Perlembagaan Persekutuan, seseorang yang pada masa yang sama memegang dua atau lebih kedudukan atau jawatan yang diperihalkan dalam subseksyen (1) adalah layak memohon pinjaman berkenaan dengan satu kedudukan atau jawatan sahaja, dan seseorang yang telah diberi pinjaman di bawah subseksyen (1) tidaklah layak memohon pinjaman lain di bawah subseksyen itu berkenaan dengan apa-apa kedudukan atau jawatan lain yang dipegangnya kemudian."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada apa-apa jua dalam subseksyen (2) boleh ditafsirkan sebagai menghalang seseorang yang telah diberi pinjaman mendapat—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "baki amaun yang layak didapatinya; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "baki amaun yang mungkin layak didapatinya oleh sebab apa-apa pertukaran kedudukan atau jawatan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/20/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang yang layak memohon pinjaman daripada Kerajaan Negeri, badan berkanun atau pihak berkuasa tempatan yang mengendalikan skim pinjaman perumahannya sendiri tidaklah layak mendapat pinjaman di bawah subseksyen (1).\"."
+      }
+    }
+  ]
+}

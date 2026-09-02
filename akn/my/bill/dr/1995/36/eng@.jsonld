@@ -1,0 +1,1407 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-36-1995",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_36"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Securities Industry (Central Depositories) (Amendment) Bill 1995"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Securities Industry (Central"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Depositories) (Amendment) Act 1995 and shall come into force on such date as the Minister may, by notification in the Gazette, appoint."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_10__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 15 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2) by inserting after the words \"stock market\" the words \"of a stock exchange\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (4) the following subsection: \" (5) Where the Commission has made an exemption under subsection 14(2), the notification date for the purposes of subsection (1) or (3), as the case may be, shall be the date as may be specified by the stock exchange.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_11__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_11__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 17 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1) by inserting after the words \"stock market\" the words \"of a stock exchange\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (2) the following subsection: \" (2) A prescribed security may at any time after the prescribed date— (a) be deposited by a depositor with the central depository; and (b) such security shall not be capable of being utilised to settle a transaction which took place on a stock market of a stock exchange prior to the date of deposit of that security.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_11__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsection: \" (3) Notwithstanding the provisions of subsection (2), a prescribed security which is deposited by a depositor with the central depository shall be capable of being utilised to settle a transaction which took place on a stock market of a stock exchange prior to the date of deposit of that prescribed security if the issuer registers the transfer of the security underlying such scrip in the name of the central depository or its nominee company and delivers the appropriate certificate to the central depository before the date for settlement of the transaction in accordance with the rules of the stock exchange.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_12__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 23 of the principal Act is amended—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "23."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1) by inserting after the words \"stock market\" the words \"of a stock exchange\"; (AMENDMENT)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (2) the following subsection: \" (2) A security which is redeposited with a central depository shall not be capable of being utilised to settle a transaction which took place on a stock market of a stock exchange prior to the date of the redeposit of that security unless in accordance with subsection 17(3).\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 24(1) of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for the word \"Minister\" the word \"Commission\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 26(1) of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for the words \"prescribed under this Act\" the words \"provided in the rules of the central depository\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_15__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_15__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_15__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_15__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 28 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2) by substituting for the word \"Registrar\" wherever it appears the word \"Commission\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3) by substituting for the words \"Registrar may, if he is not satisfied with such report or where he\" the words \"Commission may, if it is not satisfied with such report or where the Commission\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_15__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (4) the following subsection: \" (4) Where the Commission is not satisfied with the report submitted to it by a central depository under subsection (2), and conducts, or appoints an approved company auditor to conduct, a stock count of scrips pursuant to subsection (3), the costs and expenses incurred by the Commission or the approved company auditor, as the case may be, in respect of such stock count shall be borne by the central depository.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_15__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (5) by substituting for the words \"Registrar\" and \"he\" wherever they appear the words \"Commission\" and \"it\" respectively; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_15__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (6) by substituting for the word \"Registrar\" the word \"Commission\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 34(6) of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for the word \"Registrar\" the word \"Commission\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 35 the following section: 35. (1) Subject to subsection 41(2) and notwithstanding the provisions of the Companies to be treated Act 1965, a depositor of any deposited security whose name appears in the record of depositors shall be entitled to all rights, benefits, powers and privileges and be subject to all liabilities, duties and obligations in respect of, or arising from, such security (whether conferred or imposed by the Companies Act 1965, or the memorandum or articles of association of the issuer, or otherwise) as if he were a member registered in the register of members or a holder registered in the register of debenture holders maintained by the issuer of such security or a holder registered in the register of interest holders maintained by a management company, as the case may be, pursuant to the Companies Act 1965, instead of the central depository, or its nominee company, in whose name the deposited security is registered. (2) Notwithstanding the provisions of subsection (1), nothing in this section shall be construed so as to deem a record of depositors to be a register of members maintained pursuant to section 158 of the Companies Act 1965, a register of debenture holders maintained pursuant to section 70 of the Companies Act 1965 or a register of interest holders maintained pursuant to section 92 of the Companies Act 1965. (AMENDMENT) (3) Notwithstanding the provisions of subsection (1), an authorised depository agent shall have a lien over unpaid deposited securities purchased for the account of a depositor including all such entitlements to all rights, benefits, powers and privileges and be subject to all such liabilities, duties and obligations that are referred to thereunder, and shall deal with such unpaid deposited securities in accordance with the rules of the stock exchange. (4) For the purposes of this section, \"deposited security\" does not include a security specified in the securities account as being in suspense pursuant to section 41 or any regulations made thereunder.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_18__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_18__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 41 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing provision as subsection (1);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1) by substituting for the words \"is in suspense\" the words \"as being in suspense\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_18__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: \" (2) In the case of a security that is specified in the securities account as being in suspense pursuant to paragraph (1)(e)— (a) the rights, benefits, powers and privileges of a depositor; and (b) the liabilities, duties and obligations of a depositor, in respect of, or arising from, the suspension of such a security, shall be as prescribed by the Minister by regulations under this Act.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_19__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_19__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_19__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_19__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 45 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the marginal note by substituting for the words \"Ord. 61/58.\" the words \"Act 519\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_19__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (1)(h) by substituting for the words \"Central Bank of Malaysia Ordinance 1958\" the words \"Central Bank of Malaysia Act 1958\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_19__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (1)(i) by substituting for the words \"Registrar\" and \"his\" the words \"Commission\" and \"its\" respectively; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_19__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2) by inserting after the word \"Minister\" the words \"or the Commission\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Securities Industry (Central Depositories) Act"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "1991, which in this Act is referred to as the \"principal Act\", is amended in subsection 2(1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_20__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_20__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 46 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_20__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1) by substituting for the words \"prescribed by the Minister by regulations made under this Act\" the words \"specified in the rules of the central depository\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_20__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (3)(a) by inserting at the end of the paragraph the words \"or under any regulations made by the Minister under paragraph 63(2)(r).\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 49(2) of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for the word \"three\" the word \"ten\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 51 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for the words \"twenty-five thousand ringgit\" and \"six months\" the words \"five hundred thousand ringgit\" and \"five years\" respectively."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 52 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for the word \"Registrar\" the word \"Commission\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_24__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_24__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_24__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 53 of the principal Act is amended—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "53."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_24__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the marginal notes by substituting for the word \"Registrar\" the word \"Commission\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_24__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsections (1), (3) and (4) by substituting for the words \"Registrar\" and \"it\" wherever they appear, the words \"Commission\" and \"it\" respectively; and (AMENDMENT)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_24__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (6) by substituting for the words \"five hundred thousand ringgit\" and \"two\" the words \"one million ringgit\" and \"ten\" respectively."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_25__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_25__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 54 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_25__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the marginal note by substituting for the word \"Registrar\" the words \"Investigating Officer\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_25__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1) by substituting for the word \"Registrar\" the words \"an Investigating Officer\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 55 the following section: \"Obstruc- 55. A person who— tion. (a) intentionally obstructs or hinders— (i) the Commission in the exercise of its power under section 53; or (ii) an Investigating Officer in the exercise of his power under section 54; or (b) fails without reasonable excuse to give to the Commission or an Investigating Officer such assistance as Commission or the Investigating Officer may reasonably require, shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding ten years or to both.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_27__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_27__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_27__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 56 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_27__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the marginal note by substituting for the word \"Registrar\" the word \"Commission\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_27__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsections (1) and (2) by substituting for the words \"Registrar\" and \"him\" the words \"Commission\" and \"the Commission\" respectively; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_27__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_27__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_27__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_27__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_27__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"Registrar\" the word \"Commission\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_27__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_27__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"fifty thousand ringgit\" and \"one year\" the words \"one million ringgit\" and \"ten years\" respectively."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 57 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for the word \"Registrar\" wherever it appears 57. the words \"the Commission\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_29__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_29__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 58 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_29__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (1)(a) by substituting for the word \"Registrar\" the word \"Commission\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_29__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3) by substituting for the words \"five hundred thousand ringgit\" and \"two\" the words \"one million ringgit\" and \"ten\" respectively."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_1__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"buying in\" the following definition: ' \"Central Bank of Malaysia\" means the Central Bank established under the Central Bank of Malaysia Act 1958;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"charge\" the following definition: ' \"Commission\" means the Securities Commission established under the Securities Commission Act 1993;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"information\" the following definition: ' \"Investigating Officer\" means an officer of the Commission appointed under subsection 35(1) of the Securities Commission Act 1993;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the definition of \"Registrar\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of \"rules\" the following definition: ' \"rules\", in relation to a central depository means the rules of a central depository and, includes—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_2__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "rules contained in the memorandum and articles of association or other constituent document of the central depository;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "rules to ensure compliance by its authorised depository agents, users or depositors of any obligations imposed by this Act or any other written law;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "rules in relation to the provision of deposit, holding, transfer and withdrawal of securities, and the suspension or withdrawal of such services;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "rules to provide for the persons who may participate in one or more of the services referred to in paragraph (c); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "rules in respect of such other matters as are necessary or desirable for the proper and efficient operation and management of the central depository including rules setting fees and charges;'; and (AMENDMENT)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of \"user\" the following definition: ' \"user\" means—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_3",
+      "@type": "akn:list",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_3__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_3__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an authorised depository agent;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an issuer;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a stock exchange;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a body corporate acting as a clearing house of a stock exchange; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_3__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_2__list_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "such other person as may be specified in the rules of a central depository, who may be given access to a computer system of the central depository;'."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "3 the following section: 3. (1) No person shall establish, maintain, operate or hold himself out as providing, maintaining or operating a system for the central handling of securities, whether or not listed on any stock exchange— (a) whereby all such securities are deposited with and held in custody by, or registered in the name of, the person or his nominee for the depositors and dealings in respect of those securities are effected by means of entries in accounts without the physical delivery of scrips; or (b) which permits or facilitates the settlement of securities transactions or dealings in securities without the physical delivery of scrips; or (c) to provide other facilities and services incidental thereto. (2) Subsection (1) shall not apply to— (a) a central depository; (b) the Central Bank of Malaysia; and (c) any person exempted by the Minister under section 62A. (3) A person who contravenes the provisions of subsection (1) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding ten million ringgit or to imprisonment for a term not exceeding ten years or to both.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 59 the following section: 59. \"Preser- 59. A central depository and its authorised vation of depository agents shall preserve all records and records and communications in relation to a depositor's accounts. account and such other records and accounts as will sufficiently explain the transactions and operations of the central depository and authorised depository agents in relation to deposited securities, for a period of seven years, whether or not they cease to carry on their business before the end of their seventh year.\". (AMENDMENT)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_31__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_31__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_31__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_31__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 60 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_31__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the marginal note by substituting for the word \"Registrar\" the word \"Commission\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_31__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing provision as subsection (1) and substituting for the words \"the Registrar may\", the words \"The Commission may, with the concurrence of the Public Prosecutor\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_31__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraphs (1)(a) and (b) by substituting for the word \"Registrar\" the word \"Commission\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_31__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: \"(2) Any moneys paid to the Commission pursuant to subsection (1) shall be paid into and form part of the Federal Consolidated Fund.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 61 the following section: 61. (1) No prosecution for any offence under this Act shall be instituted except with the consent in writing of the Public Prosecutor. (2) Any officer of the Commission who is authorised by the Chairman of the Commission may conduct any prosecution of any offence under this Act. (3) For the purpose of subsection (2), \"officer\" has the same meaning as in section 2 of the Securities Commission Act 1993.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "62 the following section: 62A. (1) The Minister may, if he considers it not inconsistent with the purposes of this Act or in the interest of the public or investing public, by order published in the Gazette, exempt any 16 BILL particular person or particular security, or any class, category or description of persons or securities, from all or any of the provisions of this Act. (2) An exemption under subsection (1) shall be granted for such duration, and may be subject to such limitations, restrictions or conditions, as the Minister may specify in the order.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_34__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_34__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_34__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_34__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 63 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_34__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (2)(d) by inserting after the words \"section 41\" the words \", including the rights, benefits, powers, privileges, liabilities, duties and obligations of a depositor in respect of or arising from the suspension of such a security;\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_34__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting paragraphs (2)(i) and (l);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_34__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (2)(n) by substituting for the word \"Registrar\" the word \"Commission\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_34__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting paragraph (2)(q)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 65."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_36__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_36__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_36__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_36__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_36__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_36__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_36__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_36__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All actions, regulations, orders, directions, notifications, approvals, decisions and other executive acts, howsoever called, made, given, or done under, or in accordance with, or by virtue of, the principal Act before the commencement of this Act shall be deemed to have been made, given, or done under, or in accordance with, or by virtue of, the corresponding provision of this Act, and shall continue to remain in full force and effect in relation to the persons to whom they apply until amended, repealed, or rescinded under, in accordance with, or by virtue of, the corresponding provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_36__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any proceedings, whether civil or criminal, or cause of action pending or existing immediately before the commencement of this Act by or against the Registrar of Companies or any other person acting on behalf of the (AMENDMENT) Registrar of Companies may be continued or instituted by or against the Registrar of Companies as it might have been by or against the Registrar of Companies or such person if this Act has not been passed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_36__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any appeal brought or any leave to appeal applied on or after the commencement date of this Act against a decision given in any legal proceedings before that day may be brought by or against the Registrar of Companies."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_36__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Nothing in the principal Act or this Act shall affect any person's liability to be prosecuted or punished for offences committed under the principal Act before the commencement of this Act or any proceedings brought or sentence imposed before that day in respect of such offence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_36__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to this Act, any right, privilege, obligation or liability acquired, accrued or incurred under the principal Act before the commencement of this Act and any legal proceedings or remedy in respect of such right, privilege, obligation or liability shall not be affected and any such legal proceedings or remedy may be instituted, continued or enforced as it this Act had not been passed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_36__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A notice of an amendment to the rules of a central depository to the Minister under subsection 7(1) of the principal Act given before the commencement of this Act shall not take effect unless the notice is submitted or caused to be submitted to the Commission immediately after the commencement of this Act for the approval of the Commission under section 7 of the principal Act as amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_36__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If any difficulty arises with respect to the foregoing savings and transitional provisions, the Minister may, by order published in the Gazette, make such modifications in these provisions as may appear to him necessary for preventing anomalies."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 5(1) of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting paragraph (a) with the following paragraph: \"(a) that the applicant is a company incorporated under the Companies Act 1965, and a stock exchange is a shareholder of the applicant;\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 6(2) of the principal Act is amended in"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "subparagraph (c)(i) by substituting for the words \"the Capital Issues Committee established under the Securities Industry Act 1983\" the words \"the Commission\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "7 the following section: \"Commission 7. (1) If a central depository proposes to make to approve amendments to its rules, the central depository amendment to rules shall submit to the Commission— of central depository. (a) the text of the proposed amendment; and (b) an explanation of the purpose of the proposed amendment. (2) The Commission shall, within six weeks after the receipt of the submission of any proposed amendments under subsection (1), give notice in writing to the central depository that it approves, or disapproves of the proposed amendments, or any part of the proposed amendments, as the case may be. (3) No amendment to the rules of a central depository shall have effect unless they have been approved in writing by the Commission under subsection (2). (AMENDMENT) (4) The Commission may, by a notice in writing, declare any class of rules of a central depository to be a class of rules whose amendments do not require the approval of the Commission under subsection (2), and accordingly any amendments to the rules of that central depository which belong to that class shall, subject to subsection (6), have effect notwithstanding that they have not been so approved under subsection (2). (5) Where the Commission is of the view that any amendment to the rules of a central depository made under subsection (4) does not fall within the class of rules declared by the Commission under that subsection as not requiring its approval, the Commission may, after consultation with the central depository, require the central depository to submit such rule or amendment, as the case may be, for its approval under subsection (2), (6) Any rule made or amended by the central depository which is the subject of a requirement made by the Commission under subsection (5) shall cease to have effect from the date of the Commission making such requirement or such later date as the Commission may determine: Provided that this subsection shall not have effect until a reasonable time has been given to the central depository to notify the persons affected by such rule or amendment. (7) Notwithstanding the provision of this section, the Commission may from time to time after consultation with a central depository, by a written notice require a central despository— (a) to make such rules, and within such period as may be specified in the notice; or (b) to amend such rules, in such manner and within such period as may be specified in the notice. (8) A central depository which fails to comply with the provisions of subsection (1) or which fails to comply with a requirement or written notice made under subsection (5) or (7) respectively shall be guilty of an offence.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_7__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_7__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 10 of the principal Act is amended—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "10."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the marginal note by substituting for the word \"Registrar\" the word \"Commission\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1) by substituting for the words \"Registrar as he reasonably requires for the performance of his\" the words \"Commission as the Commission reasonably requires for the performance of its\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2) by substituting for the words \"The Registrar\" the words \"A person acting on behalf of or authorised by the Commission\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_7__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_7__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_7__para_d__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_7__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_7__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"the Registrar\" the words \"a person acting on behalf of or authorised by the Commission\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_7__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_7__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"fifty thousand ringgit or to imprisonment for a term not exceeding one year\" the words \"one hundred thousand ringgit or to imprisonment for a term not exceeding three years\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_8__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 13 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (1)(e) by substituting for the words \"prescribed by the Minister under this Act\" the words \"specified by the rules of a central depository\"; and (AMENDMENT)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2) by substituting for the word \"Registrar\" wherever it appears the word \"Commission\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_9__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_9__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 14 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2) by inserting after the words \"English language\" the words \", unless exempted by the Commission in writing\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3) by inserting after the words \"and shall specify a\" the word \"prescribed\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_9__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/36/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (4) the following subsection: \" (5) Where a stock exchange, under subsection (1) has prescribed a security to be deposited with a central depository, the prescription shall apply to any additional listing of such security on the stock exchange and the provisions of subsections (1) and (2) shall not apply in respect of such additional listing.\"."
+      }
+    }
+  ]
+}

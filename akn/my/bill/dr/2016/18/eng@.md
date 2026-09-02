@@ -4,17 +4,45 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## ChApTER I
+## CHAPTER I
 
-pRELIMINARY
+## PRELIMINARY
 
 1. Short title 2. Amendment of Acts
 
-## ChApTER II
+## CHAPTER II
 
-AMENDMENTS TO ThE INCOME TAX ACT 1967
+## AMENDMENTS TO THE INCOME TAX ACT 1967
 
-3. Commencement of amendments to the Income Tax Act 1967 4. Amendment of section 2 5. Amendment of section 13 6. Amendment of section 15A 7. Amendment of section 34 8. Amendment of section 44 9. Amendment of section 45A 10. Amendment of section 46 11. Amendment of section 47 12. Amendment of section 60 13. Amendment of section 60AA 14. Amendment of section 61A 15. Amendment of section 63A 16. Amendment of section 63b 17. Amendment of section 63C 18. Amendment of section 97A 19. Amendment of section 107C 20. Amendment of section 109C 21. Amendment of section 110C 22. New section 112A 23. New section 113A
+3. Commencement of amendments to the Income Tax Act 1967 4. Amendment of section 2 5. Amendment of section 13 6. Amendment of section 15A 7. Amendment of section 34 8. Amendment of section 44 9. Amendment of section 45A
+
+10. Amendment of section 46
+
+11. Amendment of section 47
+
+12. Amendment of section 60
+
+13. Amendment of section 60AA
+
+14. Amendment of section 61A
+
+15. Amendment of section 63A
+
+16. Amendment of section 63b
+
+17. Amendment of section 63C
+
+18. Amendment of section 97A
+
+19. Amendment of section 107C
+
+20. Amendment of section 109C
+
+21. Amendment of section 110C
+
+22. New section 112A
+
+23. New section 113A
 
 <!-- page 8 -->
 
@@ -30,9 +58,9 @@ AMENDMENTS TO ThE INCOME TAX ACT 1967
 
 29. Amendment of Schedule 6
 
-## ChApTER III
+## CHAPTER III
 
-AMENDMENTS TO ThE pETROLEUM (INCOME TAX) ACT 1967
+## AMENDMENTS TO THE PETROLEUM (INCOME TAX) ACT 1967
 
 30. Commencement of amendments to the Petroleum (Income Tax) Act 1967
 
@@ -42,9 +70,9 @@ AMENDMENTS TO ThE pETROLEUM (INCOME TAX) ACT 1967
 
 33. New section 66A
 
-## ChApTER IV
+## CHAPTER IV
 
-AMENDMENTS TO ThE REAL pROpERTY GAINS TAX ACT 1976
+## AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976
 
 34. Commencement of amendments to the Real Property Gains Tax Act 1976
 
@@ -52,9 +80,9 @@ AMENDMENTS TO ThE REAL pROpERTY GAINS TAX ACT 1976
 
 36. Amendment of Schedule 2
 
-## ChApTER V
+## CHAPTER V
 
-AMENDMENTS TO ThE LAbUAN bUSINESS ACTIVITY TAX ACT 1990
+## AMENDMENTS TO THE LABUAN BUSINESS ACTIVITY TAX ACT 1990
 
 37. Commencement of amendments to the Labuan Business Activity Tax Act 1990
 
@@ -62,9 +90,9 @@ AMENDMENTS TO ThE LAbUAN bUSINESS ACTIVITY TAX ACT 1990
 
 39. Amendment of section 21
 
-## ChApTER VI
+## CHAPTER VI
 
-AMENDMENTS TO ThE GOODS AND SERVICES TAX ACT 2014
+## AMENDMENTS TO THE GOODS AND SERVICES TAX ACT 2014
 
 40. Commencement of amendments to the Goods and Services Tax Act 2014
 
@@ -72,7 +100,49 @@ AMENDMENTS TO ThE GOODS AND SERVICES TAX ACT 2014
 
 <!-- page 9 -->
 
-42. Amendment of section 13 43. Amendment of section 20 44. Amendment of section 33 45. New sections 34A and 34b 46. Amendment of section 41 47. Amendment of section 42 48. Amendment of section 49 49. Amendment of section 51 50. Amendment of section 56 51. Amendment of section 57 52. Amendment of section 70 53. Amendment of section 72 54. Amendment of section 73 55. Amendment of section 103 56. Amendment of section 156 57. Amendment of section 160 58. Amendment of Part XV 59. Amendment of section 161 60. Amendment of section 162 61. New sections 162A and 162b 62. Amendment of section 163 63. Amendment of Second Schedule
+42. Amendment of section 13
+
+43. Amendment of section 20
+
+44. Amendment of section 33
+
+45. New sections 34A and 34b
+
+46. Amendment of section 41
+
+47. Amendment of section 42
+
+48. Amendment of section 49
+
+49. Amendment of section 51
+
+50. Amendment of section 56
+
+51. Amendment of section 57
+
+52. Amendment of section 70
+
+53. Amendment of section 72
+
+54. Amendment of section 73
+
+55. Amendment of section 103
+
+56. Amendment of section 156
+
+57. Amendment of section 160
+
+58. Amendment of Part XV
+
+59. Amendment of section 161
+
+60. Amendment of section 162
+
+61. New sections 162A and 162b
+
+62. Amendment of section 163
+
+63. Amendment of Second Schedule
 
 <!-- page 11 -->
 
@@ -84,7 +154,7 @@ An Act to amend the Income Tax Act 1967, the Petroleum (Income Tax) Act 1967, th
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## ChApTER I
+## CHAPTER I
 
 ## PRELIMINARY
 
@@ -98,7 +168,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 12 -->
 
-## ChApTER II
+## CHAPTER II
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
@@ -278,7 +348,9 @@ carrying out any activity in connection with any purpose through live, print, el
 
 <!-- page 18 -->
 
-(viii) by inserting after paragraph (o) the following paragraphs:
+(viii) by inserting after paragraph (o) the following
+
+<!-- marginal: paragraphs: -->
 
 “(p) an amount expended or deemed expended under subsection (3) in that basis year by that individual—
 
@@ -368,7 +440,9 @@ Provided that where a wife living together with her husband is assessed separate
 
 “(ii) takaful contributions payable by him in that period under retakaful contracts in connection with any such Malaysian general takaful certificate;”;
 
-(f) in paragraph (8)(c), by substituting for the words ‘and “operator” shall’ the words ‘and “takaful operator” shall’;
+(f) in paragraph (8)(c), by substituting for the words ‘and “operator” shall’ the words ‘and “takaful operator”
+
+<!-- marginal: shall’; -->
 
 (g) in subsection (13), by substituting for the word “contribution” the words “takaful contribution”;
 
@@ -646,7 +720,11 @@ the person may make an application in writing to the Director General for relief
 
 (iii) by inserting after subparagraph 16b(1) the following subparagraphs:
 
-“(2) Where part of the building used by that person referred to in paragraphs 37A, 37b, 37C, 37E, 37F, 37G, 37h, 42A, 42b and 42C for the purpose of letting of property is not more than one-tenth of the floor area of the whole building, the whole building qualifies as industrial building under those paragraphs.
+“(2) Where part of the building used by that person
+
+## REFERREDTOIN PARAGRAPHS37A, 37B, 37C, 37E, 37F, 37G, 37H,
+
+42A, 42b and 42C for the purpose of letting of property is not more than one-tenth of the floor area of the whole building, the whole building qualifies as industrial building under those paragraphs.
 
 (3) Where part of the building used by that person referred to in subparagraph (2) is more than one-tenth of the floor area of the whole building, such part of the building shall not be treated as industrial building
 
@@ -716,7 +794,7 @@ for the purpose of those paragraphs and any allowance to be made to that person 
 
 (h) by substituting for paragraph 35A the following paragraph:
 
-### “35a.
+<!-- marginal: “35a. -->
 
 Income of a unit trust in respect of interest derived from Malaysia and paid or credited by—
 
@@ -728,13 +806,13 @@ Income of a unit trust in respect of interest derived from Malaysia and paid or 
 
 Provided that in the case of a unit trust which is a money market fund, the exemption shall only apply to a wholesale fund which complies with the relevant guidelines of the Securities Commission Malaysia.”.
 
-## ChApTER III
+## CHAPTER III
 
 ## AMENDMENTS TO THE PETROLEUM (INCOME TAX) ACT 1967
 
 ### Commencement of amendments to the Petroleum (Income
 
-### Tax) Act 1967
+<!-- marginal: Tax) Act 1967 -->
 
 30. (1) Paragraph 31(a) comes into operation on the coming into operation of this Act.
 
@@ -872,7 +950,7 @@ the chargeable person may make an application in writing to the Director General
 
 (c) the application shall thereupon be deemed to be an appeal and shall be disposed of accordingly.”.
 
-## ChApTER IV
+## CHAPTER IV
 
 ## AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976
 
@@ -938,7 +1016,7 @@ the chargeable person may make an application in writing to the Director General
 
 (iii) in subsubparagraph (c), by substituting for the words “in the case of a donor who is a citizen or a permanent resident and” the word “where”.
 
-## ChApTER V
+## CHAPTER V
 
 ## AMENDMENTS TO THE LABUAN BUSINESS ACTIVITY TAX
 
@@ -974,9 +1052,9 @@ ACT 1990
 
 (b) for the purpose of implementing or facilitating the operation of an arrangement having effect under section 132b of the Income Tax Act 1967 and prescribing penalties for any contravention or failure to comply with any of the provisions of any regulations made under this paragraph.”.
 
-## ChApTER VI
+## CHAPTER VI
 
-AMENDMENTS TO ThE GOODS AND SERVICES TAX ACT 2014
+## AMENDMENTS TO THE GOODS AND SERVICES TAX ACT 2014
 
 ### Commencement of amendments to the Goods and Services
 
@@ -1394,7 +1472,7 @@ This Bill seeks to amend the Income Tax Act 1967 (“Act 53”), the Petroleum (
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
-## Chapter II of this Bill seeks to amend the Income Tax Act 1967.
+Chapter II of this Bill seeks to amend the Income Tax Act 1967.
 
 1. Clause 4 seeks to amend section 2 of Act 53.
 
@@ -1568,9 +1646,9 @@ Subclause 29(h) seeks to amend paragraph 35A of Schedule 6 to Act 53 to provide 
 
 These amendments have effect for the year of assessment 2017 and subsequent years of assessment.
 
-AMENDMENTS TO ThE pETROLEUM (INCOME TAX) ACT 1967
+## AMENDMENTS TO THE PETROLEUM (INCOME TAX) ACT 1967
 
-## Chapter III of this Bill seeks to amend the Petroleum (Income Tax) Act 1967.
+Chapter III of this Bill seeks to amend the Petroleum (Income Tax) Act 1967.
 
 23. Clause 31 seeks to amend subsection 2(1) of Act 543.
 
@@ -1610,9 +1688,9 @@ Clause 33 also seeks to provide that the chargeable person may appeal against th
 
 These amendments come into operation on 1 January 2017.
 
-AMENDMENTS TO ThE REAL pROpERTY GAINS TAX ACT 1976
+## AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976
 
-## Chapter IV of this Bill seeks to amend the Real Property Gains Tax Act 1976.
+Chapter IV of this Bill seeks to amend the Real Property Gains Tax Act 1976.
 
 26. Clause 35 seeks to amend subsection 13(4) of Act 169 to clarify that a nominee shall make a return to any of the offices of the Director General of Inland Revenue in Malaysia.
 
@@ -1634,9 +1712,9 @@ This amendment comes into operation on 1 January 2017.
 
 <!-- page 69 -->
 
-AMENDMENTS TO ThE LAbUAN bUSINESS ACTIVITY TAX ACT 1990
+## AMENDMENTS TO THE LABUAN BUSINESS ACTIVITY TAX ACT 1990
 
-## Chapter V of this Bill seeks to amend the Labuan Business Activity Tax Act 1990.
+Chapter V of this Bill seeks to amend the Labuan Business Activity Tax Act 1990.
 
 28. Clause 38 seeks to amend Section 2 of Act 445.
 
@@ -1650,9 +1728,9 @@ These amendments come into operation on the coming into operation of this Act.
 
 This amendment comes into operation on 22 October 2016.
 
-AMENDMENTS TO ThE GOODS AND SERVICES TAX ACT 2014
+## AMENDMENTS TO THE GOODS AND SERVICES TAX ACT 2014
 
-## Chapter VI of this Bill seeks to amend the Goods and Services Tax Act 2014.
+Chapter VI of this Bill seeks to amend the Goods and Services Tax Act 2014.
 
 30. Clause 41 seeks to amend section 2 of Act 762 to introduce the definition of free zone.
 

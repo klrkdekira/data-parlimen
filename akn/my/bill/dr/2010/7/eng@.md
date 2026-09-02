@@ -30,7 +30,9 @@ Abuse of dominant position
 
 Market review
 
-11. Power to conduct market review 12. Determination of market review
+11. Power to conduct market review
+
+12. Determination of market review
 
 <!-- page 2 -->
 
@@ -96,19 +98,65 @@ Exclusion
 
 <!-- page 3 -->
 
-37. Oral representation 38. Conduct of hearings 39. Finding of non-infringement 40. Finding of an infringement 41. Leniency regime 42. Enforcement of direction or decision 43. Power to accept undertaking
+37. Oral representation
+
+38. Conduct of hearings
+
+39. Finding of non-infringement
+
+40. Finding of an infringement
+
+41. Leniency regime
+
+42. Enforcement of direction or decision
+
+43. Power to accept undertaking
 
 ## PART V
 
 ## COMPETITION APPEAL TRIBUNAL
 
-44. Establishment of the Competition Appeal Tribunal 45. Constitution of the Competition Appeal Tribunal 46. Allowances 47. Resignation and revocation of appointment 48. Vacation of office and new or temporary appointment 49. Disclosure of interest 50. Secretary to the Competition Appeal Tribunal and other officers 51. Appeal to the Competition Appeal Tribunal 52. Record of decision of the Commission 53. Stay of decision pending appeal 54. Composition of the Competition Appeal Tribunal 55. Sitting of the Competition Appeal Tribunal 56. Procedure of the Competition Appeal Tribunal 57. Powers of the Competition Appeal Tribunal 58. Decision of the Competition Appeal Tribunal 59. Enforcement of decision of the Competition Appeal Tribunal 60. Protection against suit and legal proceedings
+44. Establishment of the Competition Appeal Tribunal
+
+45. Constitution of the Competition Appeal Tribunal
+
+46. Allowances
+
+47. Resignation and revocation of appointment
+
+48. Vacation of office and new or temporary appointment
+
+49. Disclosure of interest
+
+50. Secretary to the Competition Appeal Tribunal and other officers
+
+51. Appeal to the Competition Appeal Tribunal
+
+52. Record of decision of the Commission
+
+53. Stay of decision pending appeal
+
+54. Composition of the Competition Appeal Tribunal
+
+55. Sitting of the Competition Appeal Tribunal
+
+56. Procedure of the Competition Appeal Tribunal
+
+57. Powers of the Competition Appeal Tribunal
+
+58. Decision of the Competition Appeal Tribunal
+
+59. Enforcement of decision of the Competition Appeal Tribunal
+
+60. Protection against suit and legal proceedings
 
 ## PART VI
 
 ## GENERAL
 
-61. General penalty 62. Compounding of offences
+61. General penalty
+
+62. Compounding of offences
 
 <!-- page 4 -->
 
@@ -174,9 +222,7 @@ Malaysia as follows:
 
 “consumer” means any direct or indirect user of goods or services supplied by an enterprise in the course of business, and includes another enterprise that uses the goods or services thus supplied as an input to its own business as well as a wholesaler, a retailer and a final consumer;
 
-“direction” means a direction given by the Commission under
-
-## Part III or Part IV of this Act;
+“direction” means a direction given by the Commission under Part III or Part IV of this Act;
 
 “document” has the same meaning assigned to it in the Evidence Act 1950 [Act 56];
 
@@ -910,7 +956,9 @@ whichever is earlier.
 
 <!-- page 33 -->
 
-(4) The provisions of any undertaking accepted by the Commission under this section shall be enforceable by the Commission as though those provisions had been set out in a decision given to the enterprise providing that undertaking pursuant to section 40.
+(4) The provisions of any undertaking accepted by the Commission under this section shall be enforceable by the Commission as though those provisions had been set out in a decision given to the enterprise providing that undertaking pursuant to section
+
+40.
 
 ## PART V
 
@@ -932,7 +980,9 @@ whichever is earlier.
 
 (3) The Prime Minister shall appoint persons who, in his opinion, have relevant expertise in industry, commerce, economics, law, accountancy or consumer affairs to be members of the Competition Appeal Tribunal.
 
-(4) In recommending the members of the Competition Appeal Tribunal to the Prime Minister, the Minister shall consider proposals and recommendations by any Government agency or any other body having expertise in any matter referred to in subsection (3).
+(4) In recommending the members of the Competition Appeal Tribunal to the Prime Minister, the Minister shall consider proposals and recommendations by any Government agency or any other body having expertise in any matter referred to in subsection
+
+(3).
 
 (5) The President and members of the Competition Appeal Tribunal shall hold office for a term not exceeding six years.
 
@@ -1044,7 +1094,9 @@ as the Minister may determine.
 
 (2) Subject to subsection (3), the Commission shall, upon receiving the written request under subsection (1), provide a copy of the statement of its grounds to the aggrieved person or the person whose interest is affected upon payment of the prescribed fee.
 
-(3) When a notice of appeal has been filed with the Competition Appeal Tribunal under section 51, the Commission shall, if it had not already written its grounds for its decision on the matter stated in the notice as requested by the appellant under subsection (1), record in writing its grounds for its decision and the written grounds shall form part of the record of the proceedings before the Competition Appeal Tribunal.
+(3) When a notice of appeal has been filed with the Competition Appeal Tribunal under section 51, the Commission shall, if it had not already written its grounds for its decision on the matter stated in the notice as requested by the appellant under subsection
+
+(1), record in writing its grounds for its decision and the written grounds shall form part of the record of the proceedings before the Competition Appeal Tribunal.
 
 <!-- page 38 -->
 

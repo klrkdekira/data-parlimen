@@ -314,7 +314,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_16",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (1)— Countervailing and Anti-Dumping Duties (Amendment) 13"
+        "@value": "in subsection (1)—"
       }
     },
     {
@@ -324,7 +324,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_16__para_a",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for the words “a final determination or a final administrative review determination under this Act” the words “a final determination pursuant to subsection 10(4) or 25(4) or a review determination pursuant to subsection 13d(4) or 28d(4)”; and"
+        "@value": "by substituting for the words “a final determination or a final administrative review determination under this Act” the words “a final determination pursuant to subsection 10(4) or 25(4) or a review determination pursuant to subsection 13d(4) or 28d(4)”; and Countervailing and Anti-Dumping Duties (Amendment) 13"
       }
     },
     {
@@ -378,7 +378,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_16",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (4)— Amendment of section 37"
+        "@value": "in subsection (4)—"
       }
     },
     {
@@ -398,7 +398,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_16__para_e",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for the words “any final determination or final administrative review determination” the words “this Act”."
+        "@value": "by substituting for the words “any final determination or final administrative review determination” the words “this Act”. Amendment of section 37"
       }
     },
     {
@@ -563,9 +563,13 @@
       "@type": "akn:clause",
       "eli:number": "3",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 9(1) of the principal Act"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Subsection 9(1) of the principal Act is amended by substituting for the words “during the period of investigation” the words “during the investigation”. Amendment of section 12"
+        "@value": "substituting for the words “during the period of investigation” the words “during the investigation”. Amendment of section 12"
       }
     },
     {
@@ -737,7 +741,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_8",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (2)— Amendment of section 24"
+        "@value": "in subsection (2)—"
       }
     },
     {
@@ -757,7 +761,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_8__para_b",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after the words “on any reasonable basis” the words “as the Government may determine”."
+        "@value": "by inserting after the words “on any reasonable basis” the words “as the Government may determine”. Amendment of section 24"
       }
     },
     {

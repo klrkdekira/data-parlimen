@@ -200,7 +200,9 @@ of prostitution
 
 (f) by inserting, after the item relating to section 376 of the Penal Code, the following item under the respective columns:
 
-"376B Incest do. do. do. do. Imprisonment for
+"376B Incest do. do. do. do.
+
+<!-- marginal: Imprisonment for -->
 
 <!-- marginal: not less than six -->
 

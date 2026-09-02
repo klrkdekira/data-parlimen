@@ -8,19 +8,31 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
-1. Tajuk ringkas dan permulaan kuat kuasa 2. Pemakaian 3. Tafsiran
+1. Tajuk ringkas dan permulaan kuat kuasa
 
-## Bahagian II
+2. Pemakaian
+
+3. Tafsiran
+
+## BAHAGIAN II
 
 ## PELANTIKAN PEGAWAI, DSB.
 
-4. Pelantikan pegawai, dsb. 5. Pewakilan kuasa 6. Kuasa Menteri untuk memberikan arahan 7. Kuasa Ketua Pengarah untuk mengeluarkan perintah 8. Membawa dan menggunakan senjata
+4. Pelantikan pegawai, dsb.
 
-## Bahagian III
+5. Pewakilan kuasa
+
+6. Kuasa Menteri untuk memberikan arahan
+
+7. Kuasa Ketua Pengarah untuk mengeluarkan perintah
+
+8. Membawa dan menggunakan senjata
+
+## BAHAGIAN III
 
 ## PERUNTUKAN PELESENAN
 
@@ -28,7 +40,11 @@
 
 Kehendak bagi lesen, dsb.
 
-9. Kehendak bagi lesen 10. Kehendak bagi permit 11. Kehendak bagi permit khas
+9. Kehendak bagi lesen
+
+10. Kehendak bagi permit
+
+11. Kehendak bagi permit khas
 
 <!-- page 2 -->
 
@@ -90,23 +106,55 @@ Pelbagai
 
 <!-- page 3 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## KEWAJIPAN-KEWAJIPAN DAN OBLIGASI-OBLIGASI PEMBURU BERLESEN, DSB.
 
-36. Pemburu berlesen hendaklah merekodkan butir-butir tertentu 37. Peniaga berlesen hendaklah menyimpan rekod 38. Pengawet haiwan berlesen hendaklah menyimpan rekod 39. Penerimaan hidupan liar untuk disediakan, dsb., oleh ahli taksidermi berlesen 40. Penjualan hidupan liar yang dilindungi oleh pemburu berlesen 41. Penjualan sarang oleh pemungut sarang 42. Pembelian hidupan liar yang dilindungi oleh peniaga berlesen atau ahli taksidermi berlesen 43. Tempoh hidupan liar boleh dijual oleh peniaga berlesen 44. Pengeluaran resit 45. Penandaan hidupan liar 46. Menyimpan hidupan liar di premis lain
+36. Pemburu berlesen hendaklah merekodkan butir-butir tertentu
 
-## Bahagian V
+37. Peniaga berlesen hendaklah menyimpan rekod
+
+38. Pengawet haiwan berlesen hendaklah menyimpan rekod
+
+39. Penerimaan hidupan liar untuk disediakan, dsb., oleh ahli taksidermi berlesen
+
+40. Penjualan hidupan liar yang dilindungi oleh pemburu berlesen
+
+41. Penjualan sarang oleh pemungut sarang
+
+42. Pembelian hidupan liar yang dilindungi oleh peniaga berlesen atau ahli taksidermi berlesen
+
+43. Tempoh hidupan liar boleh dijual oleh peniaga berlesen
+
+44. Pengeluaran resit
+
+45. Penandaan hidupan liar
+
+46. Menyimpan hidupan liar di premis lain
+
+## BAHAGIAN V
 
 ## RIZAB HIDUPAN LIAR DAN KAWASAN PERLINDUNGAN HIDUPAN LIAR
 
-47. Perisytiharan rizab hidupan liar dan kawasan perlindungan hidupan liar 48. Kebenaran untuk memasuki rizab hidupan liar dan kawasan perlindungan hidupan liar 49. Larangan perbuatan tertentu di dalam rizab hidupan liar dan kawasan perlindungan hidupan liar
+47. Perisytiharan rizab hidupan liar dan kawasan perlindungan hidupan liar
 
-## Bahagian VI
+48. Kebenaran untuk memasuki rizab hidupan liar dan kawasan perlindungan hidupan liar
+
+49. Larangan perbuatan tertentu di dalam rizab hidupan liar dan kawasan perlindungan hidupan liar
+
+## BAHAGIAN VI
 
 ## PENGECUALIAN AM DAN ANGGAPAN
 
-50. Memburu, dsb., bagi maksud pemuliharaan 51. Orang asli boleh memburu hidupan liar tertentu 52. Pegawai boleh memburu hidupan liar 53. Pemunya atau penduduk tanah boleh menggunakan getah burung untuk membinasakan burung yang memakan bijirin 54. Menangkap atau membunuh hidupan liar untuk melindungi tanaman
+50. Memburu, dsb., bagi maksud pemuliharaan
+
+51. Orang asli boleh memburu hidupan liar tertentu
+
+52. Pegawai boleh memburu hidupan liar
+
+53. Pemunya atau penduduk tanah boleh menggunakan getah burung untuk membinasakan burung yang memakan bijirin
+
+54. Menangkap atau membunuh hidupan liar untuk melindungi tanaman
 
 <!-- page 4 -->
 
@@ -120,7 +168,7 @@ Pelbagai
 
 59. Keterangan berdasarkan andaian
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## KESALAHAN DAN PENALTI
 
@@ -162,19 +210,59 @@ Kesalahan yang berhubungan dengan permit khas
 
 <!-- page 5 -->
 
-72. Menggunakan, dsb., hidupan liar yang dilindungi sepenuhnya tanpa permit khas 73. Menjalankan penyelidikan atau kajian tanpa permit khas
+72. Menggunakan, dsb., hidupan liar yang dilindungi sepenuhnya tanpa permit khas
+
+73. Menjalankan penyelidikan atau kajian tanpa permit khas
 
 ## Bab 4
 
 Pelbagai
 
-74. Merosakkan, dsb., sarang atau telur hidupan liar yang dilindungi 75. Merosakkan, dsb., sarang atau telur hidupan liar yang dilindungi sepenuhnya 76. Memburu, dsb., hidupan liar dalam rizab atau kawasan perlindungan hidupan liar 77. Memburu hidupan liar pada masa yang dilarang 78. Memburu, dsb., hidupan liar yang dilindungi pada musim tutup 79. Memburu hidupan liar dengan racun, dsb. 80. Memburu hidupan liar dengan senjata atau perangkap selain yang ditetapkan 81. Memburu, dsb., hidupan liar dalam empat ratus meter dari suatu jenut 82. Memburu hidupan liar dari pengangkut 83. Memiliki lesen, dsb., yang menunjukkan nama orang lain 84. Lesen, dsb., disimpan di alamat yang berbeza 85. Mengganggu jenut atau kawasan sekitarnya 86. Kezaliman terhadap hidupan liar 87. Benda yang mengandungi terbitan hidupan liar yang dilindungi sepenuhnya 88. Memprovokasi hidupan liar
+74. Merosakkan, dsb., sarang atau telur hidupan liar yang dilindungi
 
-## Bahagian VIII
+75. Merosakkan, dsb., sarang atau telur hidupan liar yang dilindungi sepenuhnya
+
+76. Memburu, dsb., hidupan liar dalam rizab atau kawasan perlindungan hidupan liar
+
+77. Memburu hidupan liar pada masa yang dilarang
+
+78. Memburu, dsb., hidupan liar yang dilindungi pada musim tutup
+
+79. Memburu hidupan liar dengan racun, dsb.
+
+80. Memburu hidupan liar dengan senjata atau perangkap selain yang ditetapkan
+
+81. Memburu, dsb., hidupan liar dalam empat ratus meter dari suatu jenut
+
+82. Memburu hidupan liar dari pengangkut
+
+83. Memiliki lesen, dsb., yang menunjukkan nama orang lain
+
+84. Lesen, dsb., disimpan di alamat yang berbeza
+
+85. Mengganggu jenut atau kawasan sekitarnya
+
+86. Kezaliman terhadap hidupan liar
+
+87. Benda yang mengandungi terbitan hidupan liar yang dilindungi sepenuhnya
+
+88. Memprovokasi hidupan liar
+
+## BAHAGIAN VIII
 
 ## KUASA YANG BERHUBUNGAN DENGAN PENGUATKUASAAN
 
-89. Kesalahan di bawah Akta menjadi kesalahan boleh tangkap 90. Pemberikuasaan kepada pegawai awam 91. Kad kuasa 92. Kuasa penyiasatan 93. Kuasa menangkap 94. Penggeledahan dan penyitaan dengan waran
+89. Kesalahan di bawah Akta menjadi kesalahan boleh tangkap
+
+90. Pemberikuasaan kepada pegawai awam
+
+91. Kad kuasa
+
+92. Kuasa penyiasatan
+
+93. Kuasa menangkap
+
+94. Penggeledahan dan penyitaan dengan waran
 
 <!-- page 6 -->
 
@@ -222,7 +310,7 @@ Pelbagai
 
 116. Percantuman kesalahan
 
-## Bahagian IX
+## BAHAGIAN IX
 
 AM
 
@@ -238,7 +326,35 @@ AM
 
 <!-- page 7 -->
 
-122. Laporan mengenai hidupan liar berbahaya hendaklah dibuat 123. Laporan yang dibuat kepada pegawai awam hendaklah disampaikan kepada pegawai 124. Kesalahan yang dilakukan oleh pertubuhan perbadanan 125. Kesalahan am 126. Pengkompaunan kesalahan 127. Pemulaan pendakwaan 128. Perlindungan daripada tindakan guaman dan prosiding undang-undang 129. Akta Perlindungan Pihak Berkuasa Awam 1948 130. Perlindungan pemberi maklumat 131. Ganjaran 132. Peraturan-peraturan 133. Kuasa Menteri untuk membuat pengecualian 134. Kuasa untuk meminda Jadual 135. Peruntukan pemansuhan dan kecualian 136. Peruntukan peralihan
+122. Laporan mengenai hidupan liar berbahaya hendaklah dibuat
+
+123. Laporan yang dibuat kepada pegawai awam hendaklah disampaikan kepada pegawai
+
+124. Kesalahan yang dilakukan oleh pertubuhan perbadanan
+
+125. Kesalahan am
+
+126. Pengkompaunan kesalahan
+
+127. Pemulaan pendakwaan
+
+128. Perlindungan daripada tindakan guaman dan prosiding undang-undang
+
+129. Akta Perlindungan Pihak Berkuasa Awam 1948
+
+130. Perlindungan pemberi maklumat
+
+131. Ganjaran
+
+132. Peraturan-peraturan
+
+133. Kuasa Menteri untuk membuat pengecualian
+
+134. Kuasa untuk meminda Jadual
+
+135. Peruntukan pemansuhan dan kecualian
+
+136. Peruntukan peralihan
 
 <!-- page 9 -->
 
@@ -248,7 +364,7 @@ Suatu Akta untuk mengadakan peruntukan bagi perlindungan dan pemuliharaan hidupa
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -420,7 +536,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 “umpan beracun” ertinya apa-apa umpan yang boleh menjadi tarikan kepada mana-mana hidupan liar yang disalut dengan, dicelup, dilumur atau selainnya diisi dengan, racun.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PELANTIKAN PEGAWAI, DSB.
 
@@ -458,7 +574,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 17 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PERUNTUKAN PELESENAN
 
@@ -766,7 +882,7 @@ Pelbagai
 
 (f) standard kematangan hidupan liar yang boleh diburu.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## KEWAJIPAN DAN OBLIGASI PEMBURU BERLESEN, DSB.
 
@@ -888,7 +1004,7 @@ Pelbagai
 
 (2) Mana-mana orang yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## RIZAB HIDUPAN LIAR DAN KAWASAN PERLINDUNGAN HIDUPAN
 
@@ -938,7 +1054,7 @@ Pelbagai
 
 <!-- page 35 -->
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PENGECUALIAN AM DAN ANGGAPAN
 
@@ -1038,7 +1154,7 @@ Pelbagai
 
 bahagian atau terbitan mana-mana hidupan liar, daging hidupan liar, trofi, belantik, ranjau, lubang, penurun, jerat, umpan atau umpan beracun, maka hendaklah dianggapkan, sehingga akasnya dibuktikan, bahawa benda atau barang itu, mengikut mana-mana yang berkenaan, ialah hidupan liar, bahagian atau terbitan mana- mana hidupan liar, daging hidupan liar, trofi, belantik, ranjau, lubang, penurun, jerat, umpan atau umpan beracun.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## KESALAHAN DAN PENALTI
 
@@ -1302,7 +1418,7 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak kurang da
 
 88. Mana-mana orang yang memprovokasi atau mencederakan mana-mana hidupan liar yang kemudiannya menjadi bahaya serta merta kepada nyawa manusia melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi tiga puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## KUASA YANG BERHUBUNGAN DENGAN PENGUATKUASAAN
 
@@ -1606,7 +1722,7 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi 
 
 116. Walau apa pun apa-apa jua yang terkandung dalam seksyen 164 Kanun Tatacara Jenayah, jika seseorang dituduh atas lebih daripada satu kesalahan di bawah Akta ini atau mana-mana perundangan subsidiarinya, dia boleh dipertuduh atas dan dibicarakan dalam satu perbicaraan bagi seberapa banyak kesalahan yang dilakukan dalam jarak masa tidak kira apa jua pun tempohnya.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 AM
 
@@ -1840,7 +1956,7 @@ spesies yang dikawal itu dan Ketua Pengarah hendaklah, apabila diterima laporan 
 
 (6) Jika Ketua Pengarah tidak memberikan kebenaran di bawah subseksyen (4), Ketua Pengarah boleh menyita dan melupuskan spesies yang dikawal itu dan tiada pampasan kena dibayar oleh Ketua Pengarah bagi pelupusan spesies yang dikawal itu.
 
-## Jadual Pertama
+## JADUAL PERTAMA
 
 [seksyen 3]
 
@@ -1862,7 +1978,7 @@ spesies yang dikawal itu dan Ketua Pengarah hendaklah, apabila diterima laporan 
 
 <!-- page 76 -->
 
-## Bahagian I
+## BAHAGIAN I
 
 ## (SPESIES BURUAN)
 
@@ -2002,7 +2118,7 @@ Sphenurus seimundi
 
 <!-- marginal: Punai Gunung -->
 
-## Bahagian 2
+## BAHAGIAN 2
 
 ## (LAIN-LAIN)
 
@@ -2090,359 +2206,177 @@ Ovis vignei (kecuali subspesies yang termasuk dalam Jadual Kedua)
 
 <!-- page 78 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
+Nama Saintifik Nama Biasa Philantomba monticola Blue Duiker Saiga borealis Mongolian Saiga Saiga Antelope Saiga tatarica Four-horned Antelope Tetracerus quadricornis
 
-Philantomba monticola
+<!-- marginal: Bradypodidae -->
 
-<!-- marginal: Blue Duiker -->
+Brown-Throated Sloth Bradypus variegatus
 
-Saiga borealis
+<!-- marginal: (Three-toed sloth) -->
 
-<!-- marginal: Mongolian Saiga -->
+<!-- marginal: Camelidae -->
 
-<!-- marginal: Saiga Antelope -->
+Lama glama guanicoe Guanaco
 
-Saiga tatarica
+<!-- marginal: (Guanaco, vicugna) -->
 
-<!-- marginal: Four-horned Antelope -->
+Vicugna Vicugna vicugna (hanya populasi Argentina, Bolivia, Chile dan Peru)
 
-Tetracerus quadricornis Bradypodidae
+<!-- marginal: Canidae -->
 
-<!-- marginal: Brown-Throated Sloth -->
+Canis aureus Common Jackal
 
-Bradypus variegatus (Three-toed sloth) Camelidae Lama glama guanicoe
+<!-- marginal: (Anjing hutan, rubah, -->
 
-<!-- marginal: Guanaco -->
+Common Wolf Canis lupus (kecuali populasi
 
-(Guanaco, vicugna)
+<!-- marginal: serigala) -->
 
-<!-- marginal: Vicugna -->
-
-Vicugna vicugna (hanya populasi Argentina, Bolivia, Chile dan Peru) Canidae Canis aureus
-
-<!-- marginal: Common Jackal -->
-
-(Anjing hutan, rubah,
-
-<!-- marginal: Common Wolf -->
-
-Canis lupus (kecuali populasi serigala) Bhutan, India, Nepal dan Pakistan yang termasuk dalam
+Bhutan, India, Nepal dan Pakistan yang termasuk dalam
 
 ## Jadual Kedua)
 
-Cerdocyon thous
+Cerdocyon thous Forest Fox Chrysocyon brachyurus Maned Wolf Lycalopex culpaeus Red Fox Lycalopex griseus Argentine Grey Fox Lycalopex gymnocercus Azara’s Zorro Bengal Fox Vulpes bengalensis Vulpes cana Afghan Fox Vulpes vulpes griffithii Red Fox Vulpes vulpes montana Red Fox Vulpes vulpes pusilla Red Fox Vulpes zerda Fennec Fox
 
-<!-- marginal: Forest Fox -->
+<!-- marginal: Cebidae -->
 
-Chrysocyon brachyurus
+Callithrix spp. (kecuali spesies Marmoset
 
-<!-- marginal: Maned Wolf -->
+<!-- marginal: (New world monkeys) -->
 
-Lycalopex culpaeus
+yang termasuk dalam Jadual Kedua) Cebus spp. Kapuchin Saguinus spp. (kecuali spesies Tamarin yang termasuk dalam Jadual Kedua) Squirrel Monkey Saimiri spp. (kecuali spesies yang termasuk dalam Jadual Kedua)
 
-<!-- marginal: Red Fox -->
+<!-- marginal: Cercopithecidae -->
 
-Lycalopex griseus
+Macaca fascicularis Kera
 
-<!-- marginal: Argentine Grey Fox -->
+<!-- marginal: (Old world monkeys) -->
 
-Lycalopex gymnocercus
-
-<!-- marginal: Azara’s Zorro -->
-
-<!-- marginal: Bengal Fox -->
-
-Vulpes bengalensis Vulpes cana
-
-<!-- marginal: Afghan Fox -->
-
-Vulpes vulpes griffithii
-
-<!-- marginal: Red Fox -->
-
-Vulpes vulpes montana
-
-<!-- marginal: Red Fox -->
-
-Vulpes vulpes pusilla
-
-<!-- marginal: Red Fox -->
-
-Vulpes zerda
-
-<!-- marginal: Fennec Fox -->
-
-Cebidae Callithrix spp. (kecuali spesies
-
-<!-- marginal: Marmoset -->
-
-(New world monkeys) yang termasuk dalam Jadual Kedua) Cebus spp.
-
-<!-- marginal: Kapuchin -->
-
-Saguinus spp. (kecuali spesies
-
-<!-- marginal: Tamarin -->
-
-yang termasuk dalam Jadual Kedua)
-
-<!-- marginal: Squirrel Monkey -->
-
-Saimiri spp. (kecuali spesies yang termasuk dalam Jadual Kedua) Cercopithecidae Macaca fascicularis
-
-<!-- marginal: Kera -->
-
-(Old world monkeys) Macaca nemestrina
-
-<!-- marginal: Berok -->
-
-Allenopithecus nigroviridis
-
-<!-- marginal: Allen’s Swamp Monkey -->
-
-<!-- marginal: Mangabey -->
-
-Cercocebus spp. (kecuali spesies yang termasuk dalam
+Macaca nemestrina Berok Allenopithecus nigroviridis Allen’s Swamp Monkey Mangabey Cercocebus spp. (kecuali spesies yang termasuk dalam
 
 ## Jadual Kedua)
 
-<!-- marginal: Monkey -->
-
-Cercopithecus spp. (kecuali spesies yang termasuk dalam
+Monkey Cercopithecus spp. (kecuali spesies yang termasuk dalam
 
 ## Jadual Kedua)
 
 <!-- page 79 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
-
-<!-- marginal: Green Monkey -->
-
-Chlorocebus spp.
-
-<!-- marginal: Colobus -->
-
-Colobus spp. Erythrocebus
-
-<!-- marginal: Patas Monkey -->
-
-<!-- marginal: Mangabey -->
-
-Lophocebus spp.
-
-<!-- marginal: Macaques -->
-
-Macaca spp. (kecuali spesies yang termasuk dalam Jadual Kedua)
-
-<!-- marginal: Southern Talapoin -->
-
-Miopithecus spp. Papio spp.
-
-<!-- marginal: Babun -->
-
-<!-- marginal: Red Colobus -->
-
-Piliocolobus spp. (kecuali spesies yang termasuk dalam
+Nama Saintifik Nama Biasa Green Monkey Chlorocebus spp. Colobus Colobus spp. Erythrocebus Patas Monkey Mangabey Lophocebus spp. Macaques Macaca spp. (kecuali spesies yang termasuk dalam Jadual Kedua) Southern Talapoin Miopithecus spp. Papio spp. Babun Red Colobus Piliocolobus spp. (kecuali spesies yang termasuk dalam
 
 ## Jadual Kedua)
 
-<!-- marginal: Thomas’s Langur -->
-
-Presbytis spp. (kecuali spesies yang termasuk dalam Jadual Kedua) Procolobus verus
-
-<!-- marginal: Olive Colobus -->
-
-Theropithecus gelada
-
-<!-- marginal: Gelada Baboon -->
-
-<!-- marginal: Langur -->
-
-Trachypithecus spp. (kecuali spesies yang termasuk dalam
+Thomas’s Langur Presbytis spp. (kecuali spesies yang termasuk dalam Jadual Kedua) Procolobus verus Olive Colobus Theropithecus gelada Gelada Baboon Langur Trachypithecus spp. (kecuali spesies yang termasuk dalam
 
 ## Jadual Kedua)
 
-Cervidae Cervus elaphus bactrianus
+<!-- marginal: Cervidae -->
 
-<!-- marginal: Bactrian Deer -->
+Cervus elaphus bactrianus Bactrian Deer
 
-(Rusa, guemals, kijang, Cervus elaphus barbarus
+<!-- marginal: (Rusa, guemals, kijang, -->
 
-<!-- marginal: Atlas Deer -->
+Cervus elaphus barbarus Atlas Deer
 
-pudus) Mazama temama cerasina
+<!-- marginal: pudus) -->
 
-<!-- marginal: Guatemalan Red Brocket -->
+Mazama temama cerasina Guatemalan Red Brocket Odocoileus virginianus Guatemalan White-Tailed mayensis Deer Pudu mephistophiles Northern Pudu
 
-Odocoileus virginianus
+<!-- marginal: Cuniculidae -->
 
-<!-- marginal: Guatemalan White-Tailed -->
+Cuniculus paca Paca
 
-mayensis
+(Paca)
 
-<!-- marginal: Deer -->
+<!-- marginal: Dasypodidae -->
 
-Pudu mephistophiles
+Cabassous centralis Northern Naked-Tailed Armadillo
 
-<!-- marginal: Northern Pudu -->
+<!-- marginal: (Armadillos) -->
 
-Cuniculidae Cuniculus paca
+Cabassous tatouay Greater Naked-Tailed Armadillo Chaetophractus nationi Bolivian Hairy Armadillo Dasyprocta punctata Central American Agouti
 
-<!-- marginal: Paca -->
+<!-- marginal: Dasyproctidae (Agouti) -->
 
-(Paca) Dasypodidae Cabassous centralis
+<!-- marginal: Elephantidae -->
 
-<!-- marginal: Northern Naked-Tailed -->
+Loxodonta africana (hanya Gajah Afrika
 
-<!-- marginal: Armadillo -->
+<!-- marginal: (Gajah) -->
 
-(Armadillos) Cabassous tatouay
+populasi Botswana, Namibia, Afrika Selatan dan Zimbabwe; kesemua populasi lain termasuk dalam Jadual Kedua)
 
-<!-- marginal: Greater Naked-Tailed -->
+<!-- marginal: Equidae -->
 
-<!-- marginal: Armadillo -->
+Asian Wild Ass Equus hemionus (kecuali
 
-Chaetophractus nationi
+<!-- marginal: (Kuda, wild asses, zebra) -->
 
-<!-- marginal: Bolivian Hairy Armadillo -->
-
-Dasyprocta punctata
-
-<!-- marginal: Central American Agouti -->
-
-Dasyproctidae (Agouti)
-
-Elephantidae Loxodonta africana (hanya
-
-<!-- marginal: Gajah Afrika -->
-
-(Gajah) populasi Botswana, Namibia, Afrika Selatan dan Zimbabwe; kesemua populasi lain termasuk dalam Jadual Kedua) Equidae
-
-<!-- marginal: Asian Wild Ass -->
-
-Equus hemionus (kecuali (Kuda, wild asses, zebra) subspesies yang termasuk dalam Jadual Kedua) Equus kiang
-
-<!-- marginal: Kiang -->
-
-Equus zebra hartmannae
-
-<!-- marginal: Hartmann’s Mountain -->
-
-<!-- marginal: Zebra -->
+subspesies yang termasuk dalam Jadual Kedua) Equus kiang Kiang Equus zebra hartmannae Hartmann’s Mountain Zebra
 
 <!-- page 80 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
+Nama Saintifik Nama Biasa
 
-Erethizontidae Sphiggurus mexicanus
+<!-- marginal: Erethizontidae -->
 
-<!-- marginal: Mexican Hairy Dwarf -->
+Sphiggurus mexicanus Mexican Hairy Dwarf Porcupine
 
-<!-- marginal: Porcupine -->
+<!-- marginal: (New world porcupines) -->
 
-(New world porcupines) Sphiggurus spinosus
+Sphiggurus spinosus Orange-spined Hairy Dwarf Porcupine
 
-<!-- marginal: Orange-spined Hairy Dwarf -->
+<!-- marginal: Erinaceidae -->
 
-<!-- marginal: Porcupine -->
+Hyloms suillus Pig-tailed Shrew
 
-Erinaceidae Hyloms suillus
+<!-- marginal: (Shrew) -->
 
-<!-- marginal: Pig-tailed Shrew -->
+<!-- marginal: Eupleridae -->
 
-(Shrew) Eupleridae Cryptoprocta ferox
+Cryptoprocta ferox Fosa
 
-<!-- marginal: Fosa -->
+<!-- marginal: (Fosa, Cerpelai, Musang) -->
 
-(Fosa, Cerpelai, Musang)
+Malagasy Mongoose Eupleres goudotii Fossa fossana Malagasy Civet
 
-<!-- marginal: Malagasy Mongoose -->
+<!-- marginal: Felidae -->
 
-Eupleres goudotii Fossa fossana
+Caracal Caracal caracal (kecuali
 
-<!-- marginal: Malagasy Civet -->
+<!-- marginal: (Kucing Liar) -->
 
-Felidae
-
-<!-- marginal: Caracal -->
-
-Caracal caracal (kecuali (Kucing Liar) populasi Asia yang termasuk dalam Jadual Kedua)
-
-<!-- marginal: Cats -->
-
-Felidae spp.
-
-<!-- marginal: Cats -->
-
-Felis spp. (kecuali spesies yang termasuk dalam Jadual Kedua) Leptailurus serval
-
-<!-- marginal: Serval -->
-
-<!-- marginal: Wild cat -->
-
-Leopardus spp. (kecuali spesies yang termasuk dalam
+populasi Asia yang termasuk dalam Jadual Kedua) Cats Felidae spp. Cats Felis spp. (kecuali spesies yang termasuk dalam Jadual Kedua) Leptailurus serval Serval Wild cat Leopardus spp. (kecuali spesies yang termasuk dalam
 
 ## Jadual Kedua)
 
-<!-- marginal: Lynx -->
-
-Lynx spp. (kecuali spesies yang termasuk dalam Jadual Kedua)
-
-<!-- marginal: Cats -->
-
-Prionailurus spp. (kecuali spesies yang termasuk dalam
+Lynx Lynx spp. (kecuali spesies yang termasuk dalam Jadual Kedua) Cats Prionailurus spp. (kecuali spesies yang termasuk dalam
 
 ## Jadual Kedua)
 
-Profelis aurata
+Profelis aurata African Golden Cat Puma concolor (kecuali Puma subspesies yang termasuk dalam Jadual Kedua) Panthera leo (kecuali Singa subspesies yang termasuk dalam Jadual Kedua) Eyra Cat Puma yagouaroundi (kecuali populasi Amerika Tengah dan Amerika Utara yang termasuk dalam Jadual Kedua)
 
-<!-- marginal: African Golden Cat -->
+<!-- marginal: Galagidae -->
 
-Puma concolor (kecuali
+Euoticus elegantulus Elegant Galago
 
-<!-- marginal: Puma -->
+<!-- marginal: (Galagos) -->
 
-subspesies yang termasuk dalam Jadual Kedua) Panthera leo (kecuali
+Euoticus pallidus Northern Needle-clawed Bushbaby Bushbabies Galago spp. Bushbabies Otolemur spp.
 
-<!-- marginal: Singa -->
+<!-- marginal: Herpestidae -->
 
-subspesies yang termasuk dalam Jadual Kedua)
+Indian Brown Mongoose Herpestes fuscus
 
-<!-- marginal: Eyra Cat -->
+<!-- marginal: (Cerpelai) -->
 
-Puma yagouaroundi (kecuali populasi Amerika Tengah dan Amerika Utara yang termasuk dalam Jadual Kedua) Galagidae Euoticus elegantulus
-
-<!-- marginal: Elegant Galago -->
-
-(Galagos) Euoticus pallidus
-
-<!-- marginal: Northern Needle-clawed -->
-
-<!-- marginal: Bushbaby -->
-
-<!-- marginal: Bushbabies -->
-
-Galago spp.
-
-<!-- marginal: Bushbabies -->
-
-Otolemur spp. Herpestidae
-
-<!-- marginal: Indian Brown Mongoose -->
-
-Herpestes fuscus (Cerpelai) Herpestes smithii
-
-<!-- marginal: Ruddy Mongoose -->
-
-Herpestes vitticollis
-
-<!-- marginal: Stripe-necked Mongoose -->
+Herpestes smithii Ruddy Mongoose Herpestes vitticollis Stripe-necked Mongoose
 
 <!-- page 81 -->
 
@@ -2970,125 +2904,53 @@ Serinus mozambicus
 
 <!-- page 85 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
+Nama Saintifik Nama Biasa
 
-Glareolidae Glareola pratincola
+<!-- marginal: Glareolidae -->
 
-<!-- marginal: Kedidi Padang -->
+Glareola pratincola Kedidi Padang
 
-(Kedidi, pratincoles, coursers) Gruidae Balearica spp.
+<!-- marginal: (Kedidi, pratincoles, -->
 
-<!-- marginal: Keria Mahkota -->
+<!-- marginal: coursers) -->
 
-(Keria) Grus spp. (kecuali spesies
+<!-- marginal: Gruidae -->
 
-<!-- marginal: Keria -->
+Balearica spp. Keria Mahkota
 
-yang termasuk dalam Jadual Kedua) Loriidae
+<!-- marginal: (Keria) -->
 
-<!-- marginal: Lory -->
+Grus spp. (kecuali spesies Keria yang termasuk dalam Jadual Kedua)
 
-Chalcopsitta spp. (Lories, lorikeets)
+<!-- marginal: Loriidae -->
 
-<!-- marginal: Lorikeet -->
+Lory Chalcopsitta spp.
 
-Charmosyna spp.
+<!-- marginal: (Lories, lorikeets) -->
 
-<!-- marginal: Red Lory -->
+Lorikeet Charmosyna spp. Red Lory Eos spp. (kecuali spesies yang termasuk dalam Jadual Kedua) Lorikeet Glossopsitta spp. Naped Lory Lorius spp. Neopsittacus musschenbroekii Yellow-billed Lorikeet Neopsittacus Emerald Lorikeet pullicauda Oreopsittacus arfaki Plum-faced Lorikeet Phigys solitarius Collared Lory Pseudeos fuscata Dusky Lory Lorikeet Psitteuteles spp. Trichoglossus spp. Lorikeet Vini spp. (kecuali spesies yang termasuk dalam Jadual Kedua)
 
-Eos spp. (kecuali spesies yang termasuk dalam Jadual Kedua)
+<!-- marginal: Muscicapidae -->
 
-<!-- marginal: Lorikeet -->
+Acrocephalus rodericanus Rodrigues Brush-Warbler
 
-Glossopsitta spp.
+<!-- marginal: (Old world flycatchers) -->
 
-<!-- marginal: Naped Lory -->
+Cyornis ruckii Sambar Ruki Garrulax canorus Rimba Hawai Leiothrix argentauris Rimba Telinga Perak Leiothrix lutea Rimba Paruh Merah Liocichla omeiensis Emei Shan Liocichla Terpsiphone bourbonnensis Mascarene Paradise- Flycatcher Tauraco porphyeolophus Purple-crested Turaco
 
-Lorius spp. Neopsittacus musschenbroekii
+<!-- marginal: Musophagidae (Turacos) -->
 
-<!-- marginal: Yellow-billed Lorikeet -->
+Turacos Tauraco spp.
 
-Neopsittacus
+<!-- marginal: Otididae -->
 
-<!-- marginal: Emerald Lorikeet -->
+Otididae spp.
 
-pullicauda Oreopsittacus arfaki
+<!-- marginal: (Jaguh) -->
 
-<!-- marginal: Plum-faced Lorikeet -->
-
-Phigys solitarius
-
-<!-- marginal: Collared Lory -->
-
-Pseudeos fuscata
-
-<!-- marginal: Dusky Lory -->
-
-<!-- marginal: Lorikeet -->
-
-Psitteuteles spp. Trichoglossus spp.
-
-<!-- marginal: Lorikeet -->
-
-Vini spp. (kecuali spesies yang termasuk dalam Jadual Kedua) Muscicapidae Acrocephalus rodericanus
-
-<!-- marginal: Rodrigues Brush-Warbler -->
-
-(Old world flycatchers) Cyornis ruckii
-
-<!-- marginal: Sambar Ruki -->
-
-Garrulax canorus
-
-<!-- marginal: Rimba Hawai -->
-
-Leiothrix argentauris
-
-<!-- marginal: Rimba Telinga Perak -->
-
-Leiothrix lutea
-
-<!-- marginal: Rimba Paruh Merah -->
-
-Liocichla omeiensis
-
-<!-- marginal: Emei Shan Liocichla -->
-
-Terpsiphone bourbonnensis
-
-<!-- marginal: Mascarene Paradise- -->
-
-<!-- marginal: Flycatcher -->
-
-Tauraco porphyeolophus
-
-<!-- marginal: Purple-crested Turaco -->
-
-Musophagidae (Turacos)
-
-<!-- marginal: Turacos -->
-
-Tauraco spp. Otididae Otididae spp. (Jaguh) Ardeotis spp. (kecuali spesies
-
-<!-- marginal: Jaguh -->
-
-yang termasuk dalam Jadual Kedua) Eupodotis spp. (kecuali spesies
-
-<!-- marginal: Jaguh -->
-
-yang termasuk dalam Jadual Kedua) Neotis spp.
-
-<!-- marginal: Jaguh -->
-
-Otis tarda
-
-<!-- marginal: Jaguh Rumput -->
-
-Tetrax tetrax
-
-<!-- marginal: Jaguh Kecil -->
+Ardeotis spp. (kecuali spesies Jaguh yang termasuk dalam Jadual Kedua) Eupodotis spp. (kecuali spesies Jaguh yang termasuk dalam Jadual Kedua) Neotis spp. Jaguh Otis tarda Jaguh Rumput Tetrax tetrax Jaguh Kecil
 
 <!-- page 86 -->
 
@@ -3226,1377 +3088,287 @@ Ara spp. (kecuali spesies yang termasuk dalam Jadual Kedua)
 
 <!-- page 87 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
-
-<!-- marginal: Conure -->
-
-Aratinga spp. Barnardius zonarius
-
-<!-- marginal: Australian Ringneck -->
-
-Bolbopsittacus lunulatus
-
-<!-- marginal: Guaiabero -->
-
-<!-- marginal: Amazon Parrot -->
-
-Amazona spp. (kecuali spesies yang termasuk dalam Jadual Kedua) Aprosmictus erythropterus
-
-<!-- marginal: Red-winged Parrot -->
-
-Aprosmictus jonquilaceus
-
-<!-- marginal: Olive-shouldered Parrot -->
-
-<!-- marginal: Macaw -->
-
-Ara spp. (kecuali spesies yang termasuk dalam Jadual Kedua)
-
-<!-- marginal: Conure -->
-
-Aratinga spp. Barnardius zonarius
-
-<!-- marginal: Australian Ringneck -->
-
-Bolbopsittacus lunulatus
-
-<!-- marginal: Guaiabero -->
-
-<!-- marginal: Amazon Parrot -->
-
-Amazona spp. (kecuali spesies yang termasuk dalam Jadual Kedua) Aprosmictus erythropterus
-
-<!-- marginal: Red-winged Parrot -->
-
-Aprosmictus jonquilaceus
-
-<!-- marginal: Olive-shouldered Parrot -->
-
-<!-- marginal: Macaw -->
-
-Ara spp. (kecuali spesies yang termasuk dalam Jadual Kedua)
-
-<!-- marginal: Conure -->
-
-Aratinga spp. Barnardius zonarius
-
-<!-- marginal: Australian Ringneck -->
-
-Bolbopsittacus lunulatus
-
-<!-- marginal: Guaiabero -->
-
-Bolborhynchus spp. Brotogeris spp. Coracopsis spp.
-
-<!-- marginal: Burrowing Parakeet -->
-
-Cyanoliseus spp.
-
-<!-- marginal: Parakeet -->
-
-Cyanoramphus spp. (kecuali spesies yang termasuk dalam
+Nama Saintifik Nama Biasa Conure Aratinga spp. Barnardius zonarius Australian Ringneck Bolbopsittacus lunulatus Guaiabero Amazon Parrot Amazona spp. (kecuali spesies yang termasuk dalam Jadual Kedua) Aprosmictus erythropterus Red-winged Parrot Aprosmictus jonquilaceus Olive-shouldered Parrot Macaw Ara spp. (kecuali spesies yang termasuk dalam Jadual Kedua) Conure Aratinga spp. Barnardius zonarius Australian Ringneck Bolbopsittacus lunulatus Guaiabero Amazon Parrot Amazona spp. (kecuali spesies yang termasuk dalam Jadual Kedua) Aprosmictus erythropterus Red-winged Parrot Aprosmictus jonquilaceus Olive-shouldered Parrot Macaw Ara spp. (kecuali spesies yang termasuk dalam Jadual Kedua) Conure Aratinga spp. Barnardius zonarius Australian Ringneck Bolbopsittacus lunulatus Guaiabero Bolborhynchus spp. Brotogeris spp. Coracopsis spp. Burrowing Parakeet Cyanoliseus spp. Parakeet Cyanoramphus spp. (kecuali spesies yang termasuk dalam
 
 ## Jadual Kedua)
 
-<!-- marginal: Parrot -->
-
-Cyclopsitta spp. (kecuali spesies yang termasuk dalam
+Parrot Cyclopsitta spp. (kecuali spesies yang termasuk dalam
 
 ## Jadual Kedua)
 
-Deroptyus accipitrinus
-
-<!-- marginal: Hawk-headed Parrot -->
-
-Diopsittaca nobilis
-
-<!-- marginal: Hahn’s Macaw -->
-
-Eclectus roratus
-
-<!-- marginal: Electus Parrot -->
-
-<!-- marginal: Slender-billed Parakeet -->
-
-Enicognathus spp.
-
-<!-- marginal: Parrotlet -->
-
-Forpus spp.
-
-<!-- marginal: Lorito -->
-
-Geoffroyus spp. Graydidascalus brachyurus
-
-<!-- marginal: Short-tailed Parrot -->
-
-Hapalopsittaca spp. Lathamus discolor
-
-<!-- marginal: Swift Parrot -->
-
-Leptosittaca branickii
-
-<!-- marginal: Golden-plumed Conure -->
+Deroptyus accipitrinus Hawk-headed Parrot Diopsittaca nobilis Hahn’s Macaw Eclectus roratus Electus Parrot Slender-billed Parakeet Enicognathus spp. Parrotlet Forpus spp. Lorito Geoffroyus spp. Graydidascalus brachyurus Short-tailed Parrot Hapalopsittaca spp. Lathamus discolor Swift Parrot Leptosittaca branickii Golden-plumed Conure
 
 <!-- page 88 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
-
-<!-- marginal: Hanging Parrot -->
-
-Loriculus spp.
-
-<!-- marginal: Pygmy Parrot -->
-
-Micropsitta spp. Myiopsitta spp. Nandayus nenday
-
-<!-- marginal: Black-headed Conure -->
-
-Nannopsittaca dachilleae
-
-<!-- marginal: Amazonian Parakeet -->
-
-Nannopsittaca panychlora
-
-<!-- marginal: Tepui Parakeet -->
-
-<!-- marginal: Parrot -->
-
-Neophema spp. (kecuali spesies yang termasuk dalam
+Nama Saintifik Nama Biasa Hanging Parrot Loriculus spp. Pygmy Parrot Micropsitta spp. Myiopsitta spp. Nandayus nenday Black-headed Conure Nannopsittaca dachilleae Amazonian Parakeet Nannopsittaca panychlora Tepui Parakeet Parrot Neophema spp. (kecuali spesies yang termasuk dalam
 
 ## Jadual Kedua)
 
-Neopsephotus bourkii
-
-<!-- marginal: Bourke’s Parrot -->
-
-Nestor meridionalis
-
-<!-- marginal: Kaka -->
-
-Nestor notabilis
-
-<!-- marginal: Kea -->
-
-Northiella haematogaster
-
-<!-- marginal: Blue Bonnet -->
-
-Orthopsittaca manilata
-
-<!-- marginal: Red-bellied Macaw -->
-
-Pionites leucogaster
-
-<!-- marginal: White-bellied Parrot -->
-
-Pionites melanocephala
-
-<!-- marginal: Black-headed Parrot -->
-
-<!-- marginal: Parrot -->
-
-Pionopsitta spp. (kecuali spesies yang termasuk dalam
+Neopsephotus bourkii Bourke’s Parrot Nestor meridionalis Kaka Nestor notabilis Kea Northiella haematogaster Blue Bonnet Orthopsittaca manilata Red-bellied Macaw Pionites leucogaster White-bellied Parrot Pionites melanocephala Black-headed Parrot Parrot Pionopsitta spp. (kecuali spesies yang termasuk dalam
 
 ## Jadual Kedua)
 
-Pionus spp.
-
-<!-- marginal: Rossela -->
-
-Platycercus spp. Poicephalus spp. Polytelis spp. Primolus auricollis
-
-<!-- marginal: Golden-collared Macaw -->
-
-Prioniturus spp. Prosopeia spp.
-
-<!-- marginal: Parrot -->
-
-Psephotus spp. (kecuali spesies yang termasuk dalam Jadual Kedua) Psilopsiagon aurifrons
-
-<!-- marginal: Golden-fronted Parakeet -->
-
-Psilopsiagon aymara
-
-<!-- marginal: Grey-hooded Parakeet -->
-
-Psittacella spp. Psittacula spp. (kecuali spesies yang termasuk dalam Jadual Kedua) Psittaculirostris spp. Psittacus erithacus
-
-<!-- marginal: Grey Parrot -->
-
-Psittinus cyanurus
-
-<!-- marginal: Blue-rumped Parrot -->
-
-Psittrichas fulgidus
-
-<!-- marginal: Pesquet’s Parrot -->
-
-Purpureicephalus spurius
-
-<!-- marginal: Red-capped Parrot -->
-
-<!-- marginal: Parakeet -->
-
-Pyrrhura spp. (kecuali spesies yang termasuk dalam Jadual Kedua)
+Pionus spp. Rossela Platycercus spp. Poicephalus spp. Polytelis spp. Primolus auricollis Golden-collared Macaw Prioniturus spp. Prosopeia spp. Parrot Psephotus spp. (kecuali spesies yang termasuk dalam Jadual Kedua) Psilopsiagon aurifrons Golden-fronted Parakeet Psilopsiagon aymara Grey-hooded Parakeet Psittacella spp. Psittacula spp. (kecuali spesies yang termasuk dalam Jadual Kedua) Psittaculirostris spp. Psittacus erithacus Grey Parrot Psittinus cyanurus Blue-rumped Parrot Psittrichas fulgidus Pesquet’s Parrot Purpureicephalus spurius Red-capped Parrot Parakeet Pyrrhura spp. (kecuali spesies yang termasuk dalam Jadual Kedua)
 
 <!-- page 89 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
+Nama Saintifik Nama Biasa Parrot Tanygnathus spp. Touit spp. Triclaria malachitacea
 
-<!-- marginal: Parrot -->
+<!-- marginal: Pycnonotidae -->
 
-Tanygnathus spp. Touit spp. Triclaria malachitacea Pycnonotidae Pycnonotus jocosus
+Pycnonotus jocosus Merbah Telinga Merah
 
-<!-- marginal: Merbah Telinga Merah -->
+<!-- marginal: (Merbah) -->
 
-(Merbah) Ramphastidae Baillonius bailloni
+<!-- marginal: Ramphastidae -->
 
-<!-- marginal: Saffron Toucanet -->
+Baillonius bailloni Saffron Toucanet
 
-(Toucans) Pteroglossus aracari
+<!-- marginal: (Toucans) -->
 
-<!-- marginal: Black-necked Aracari -->
+Pteroglossus aracari Black-necked Aracari Pteroglossus castanotis Chestnut-eared Aracari Pteroglossus viridis Green Aracari Ramphastos dicolorus Red-breasted Toucan Ramphastos sulfuratus Keel-billed Toucan Ramphastos toco Toco Toucan Ramphastos tucanus Red-billed Toucan Ramphastos vitellinus Channel-billed Toucan Selenidera maculirostris Spot-billed Toucanet
 
-Pteroglossus castanotis
+<!-- marginal: Rheidae -->
 
-<!-- marginal: Chestnut-eared Aracari -->
+Darwin’s Rhea Pterocnemia pennata pennata
 
-Pteroglossus viridis
+<!-- marginal: (Rheas) -->
 
-<!-- marginal: Green Aracari -->
+Rhea americana Common Rhea
 
-Ramphastos dicolorus
+<!-- marginal: Spheniscidae (Penguins) -->
 
-<!-- marginal: Red-breasted Toucan -->
+Spheniscus demersus Penguin Afrika
 
-Ramphastos sulfuratus
+<!-- marginal: Sturnidae -->
 
-<!-- marginal: Keel-billed Toucan -->
+Gracula religiosa Tiong Mas
 
-Ramphastos toco
+<!-- marginal: (Tiong) -->
 
-<!-- marginal: Toco Toucan -->
+<!-- marginal: Threskiornithidae -->
 
-Ramphastos tucanus
+Eudocimus ruber Scarlet Ibis
 
-<!-- marginal: Red-billed Toucan -->
+<!-- marginal: (Ibises, spoonbills) -->
 
-Ramphastos vitellinus
+Geronticus calvus Bald Ibis Platalea leucorodia Spoonbill
 
-<!-- marginal: Channel-billed Toucan -->
+<!-- marginal: Trochilidae -->
 
-Selenidera maculirostris
+Abeillia abeillei Emerald-chinned
 
-<!-- marginal: Spot-billed Toucanet -->
+<!-- marginal: (Hummingbirds) -->
 
-Rheidae
-
-<!-- marginal: Darwin’s Rhea -->
-
-Pterocnemia pennata pennata (Rheas) Rhea americana
-
-<!-- marginal: Common Rhea -->
-
-Spheniscidae (Penguins) Spheniscus demersus
-
-<!-- marginal: Penguin Afrika -->
-
-Sturnidae Gracula religiosa
-
-<!-- marginal: Tiong Mas -->
-
-(Tiong) Threskiornithidae Eudocimus ruber
-
-<!-- marginal: Scarlet Ibis -->
-
-(Ibises, spoonbills) Geronticus calvus
-
-<!-- marginal: Bald Ibis -->
-
-Platalea leucorodia
-
-<!-- marginal: Spoonbill -->
-
-Trochilidae Abeillia abeillei
-
-<!-- marginal: Emerald-chinned -->
-
-(Hummingbirds)
-
-<!-- marginal: Hummingbird -->
-
-Adelomyia melanogenys
-
-<!-- marginal: Speckled Hummingbird -->
-
-<!-- marginal: Sunbeams -->
-
-Aglaeactis spp. Aglaiocercus spp. Amazilia spp. Androdon aequatorialis
-
-<!-- marginal: Tooth-billed Hummingbird -->
-
-Anopetia gounellei
-
-<!-- marginal: Broad-tipped Hermit -->
-
-Anthocephala floriceps
-
-<!-- marginal: Blossomcrown -->
-
-Anthracothorax spp. Archilochus alexandri
-
-<!-- marginal: Black-chinned -->
-
-<!-- marginal: Hummingbird -->
-
-Archilochus colubris
-
-<!-- marginal: Ruby-throated Hummingbird -->
-
-Atthis ellioti
-
-<!-- marginal: Wine-throated Hummingbird -->
-
-Atthis heloisa
-
-<!-- marginal: Bumblebee Hummingbird -->
-
-Augastes spp. Basilinna leucotis
-
-<!-- marginal: White-eared Hummingbird -->
-
-Basilinna xantusii
-
-<!-- marginal: Black-fronted Hummingbird -->
+Hummingbird Adelomyia melanogenys Speckled Hummingbird Sunbeams Aglaeactis spp. Aglaiocercus spp. Amazilia spp. Androdon aequatorialis Tooth-billed Hummingbird Anopetia gounellei Broad-tipped Hermit Anthocephala floriceps Blossomcrown Anthracothorax spp. Archilochus alexandri Black-chinned Hummingbird Archilochus colubris Ruby-throated Hummingbird Atthis ellioti Wine-throated Hummingbird Atthis heloisa Bumblebee Hummingbird Augastes spp. Basilinna leucotis White-eared Hummingbird Basilinna xantusii Black-fronted Hummingbird
 
 <!-- page 90 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
-
-<!-- marginal: Coronets -->
-
-Boissonneaua spp
-
-<!-- marginal: Woodstars -->
-
-Calliphlox spp. Calothorax lucifer
-
-<!-- marginal: Lucifer Hummingbird -->
-
-Calothorax pulcher
-
-<!-- marginal: Beautiful Hummingbird -->
-
-Calypte spp. Campylopterus spp.
-
-<!-- marginal: Woodstars -->
-
-Chaetocercus spp.
-
-<!-- marginal: Thornbills -->
-
-Chalcostigma spp. Chalybura spp. Chlorostilbon spp. Chrysolampis mosquitus
-
-<!-- marginal: Ruby-topaz Hummingbird -->
-
-Chrysuronia oenone
-
-<!-- marginal: Golden-tailed Sapphire -->
-
-Clytolaema rubricauda
-
-<!-- marginal: Brazilian Ruby -->
-
-<!-- marginal: Starfrontlet -->
-
-Coeligena spp. Colibri spp. Cyanophaia bicolour
-
-<!-- marginal: Blue-headed Hummingbird -->
-
-Cynanthus spp. Damophila julie
-
-<!-- marginal: Violet-bellied Hummingbird -->
-
-<!-- marginal: Thorntails -->
-
-Discosura spp.
-
-<!-- marginal: Sheartails -->
-
-Doricha spp.
-
-<!-- marginal: Lancebills -->
-
-Doryfera spp. Elvira spp. Ensifera ensifera
-
-<!-- marginal: Sword-billed Hummingbird -->
-
-<!-- marginal: Pufflegs -->
-
-Eriocnemis spp. Eugenes fulgens
-
-<!-- marginal: Magnificent Hummingbird -->
-
-<!-- marginal: Caribs -->
-
-Eulampis spp. Eupherusa spp.
-
-<!-- marginal: Sicklebills -->
-
-Eutoxeres spp.
-
-<!-- marginal: Jacobins -->
-
-Florisuga spp.
-
-<!-- marginal: Hermits -->
-
-Glaucis spp. (kecuali spesies yang termasuk dalam Jadual Kedua) Goethalsia bella
-
-<!-- marginal: Rufous-cheeked -->
-
-<!-- marginal: Hummingbird -->
-
-Goldmania violiceps
-
-<!-- marginal: Violet-capped Hummingbird -->
-
-<!-- marginal: Pufflegs -->
-
-Haplophaedia spp. Heliactin bilopha
-
-<!-- marginal: Horned Sungem -->
-
-<!-- marginal: Sunangels -->
-
-Heliangelus spp. Heliodoxa spp.
-
-<!-- marginal: Starthroats -->
-
-Heliomaster spp.
+Nama Saintifik Nama Biasa Coronets Boissonneaua spp Woodstars Calliphlox spp. Calothorax lucifer Lucifer Hummingbird Calothorax pulcher Beautiful Hummingbird Calypte spp. Campylopterus spp. Woodstars Chaetocercus spp. Thornbills Chalcostigma spp. Chalybura spp. Chlorostilbon spp. Chrysolampis mosquitus Ruby-topaz Hummingbird Chrysuronia oenone Golden-tailed Sapphire Clytolaema rubricauda Brazilian Ruby Starfrontlet Coeligena spp. Colibri spp. Cyanophaia bicolour Blue-headed Hummingbird Cynanthus spp. Damophila julie Violet-bellied Hummingbird Thorntails Discosura spp. Sheartails Doricha spp. Lancebills Doryfera spp. Elvira spp. Ensifera ensifera Sword-billed Hummingbird Pufflegs Eriocnemis spp. Eugenes fulgens Magnificent Hummingbird Caribs Eulampis spp. Eupherusa spp. Sicklebills Eutoxeres spp. Jacobins Florisuga spp. Hermits Glaucis spp. (kecuali spesies yang termasuk dalam Jadual Kedua) Goethalsia bella Rufous-cheeked Hummingbird Goldmania violiceps Violet-capped Hummingbird Pufflegs Haplophaedia spp. Heliactin bilopha Horned Sungem Sunangels Heliangelus spp. Heliodoxa spp. Starthroats Heliomaster spp.
 
 <!-- page 91 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
-
-Heliothryx spp. Hylocharis spp. Hylonympha macrocerca
-
-<!-- marginal: Scissor-tailed Hummingbird -->
-
-Klais guimeti
-
-<!-- marginal: Violet-headed Hummingbird -->
-
-Lafresnaya lafresnayi
-
-<!-- marginal: Mountain Velvetbreast -->
-
-Lampornis spp. Lamprolaima rhami
-
-<!-- marginal: Garnet-throated -->
-
-<!-- marginal: Hummingbird -->
-
-Lepidopyga spp.
-
-<!-- marginal: Trainbeacers -->
-
-Lesbia spp. Leucippus spp. Leucochloris albicollis
-
-<!-- marginal: White-throated -->
-
-<!-- marginal: Hummingbird -->
-
-Loddigesia mirabilis
-
-<!-- marginal: Marvellous Spatuletail -->
-
-Lophornis spp. Mellisuga spp. Metallura spp. Michochera albocoronata
-
-<!-- marginal: Snowcap -->
-
-Microstilbon burmeisteri
-
-<!-- marginal: Slender-tailed Woodstar -->
-
-Myrmia micrura
-
-<!-- marginal: Short-tailed Woodstar -->
-
-Myrtis spp. Ocreatus underwoodii
-
-<!-- marginal: Booted Raquet-tail -->
-
-Opisthoprora euryptera
-
-<!-- marginal: Mountain Avocetbill -->
-
-Oreonympha nobilis
-
-<!-- marginal: Bearded Mountaineer -->
-
-<!-- marginal: Hillstars -->
-
-Oreotrochilus spp. Orthorhyncus cristatus
-
-<!-- marginal: Antillean Crested -->
-
-<!-- marginal: Hummingbird -->
-
-Oxypogon guerinii
-
-<!-- marginal: Bearded Helmetcrest -->
-
-Panterpe insignis
-
-<!-- marginal: Fiery-throated -->
-
-<!-- marginal: Hummingbird -->
-
-Patagona gigas
-
-<!-- marginal: Giant Hummingbird -->
-
-<!-- marginal: Hermits -->
-
-Phaethornis spp.
-
-<!-- marginal: Piedtails -->
-
-Phlogophilus spp. Polyonymus caroli
-
-<!-- marginal: Bronze-tailed Comet -->
-
-<!-- marginal: Goldenthroats -->
-
-Polytmus spp. Pterophanes cyanopterus
-
-<!-- marginal: Great Sapphirewing -->
-
-Ramphodon naevius
-
-<!-- marginal: Saw-billed Hermit -->
-
-<!-- marginal: Thornbills -->
-
-Ramphomicron spp. Rhodopis vesper
-
-<!-- marginal: Oasis Hummingbird -->
-
-Sappho sparganura
-
-<!-- marginal: Red-tailded Comet -->
-
-<!-- marginal: Hummingbird -->
+Nama Saintifik Nama Biasa Heliothryx spp. Hylocharis spp. Hylonympha macrocerca Scissor-tailed Hummingbird Klais guimeti Violet-headed Hummingbird Lafresnaya lafresnayi Mountain Velvetbreast Lampornis spp. Lamprolaima rhami Garnet-throated Hummingbird Lepidopyga spp. Trainbeacers Lesbia spp. Leucippus spp. Leucochloris albicollis White-throated Hummingbird Loddigesia mirabilis Marvellous Spatuletail Lophornis spp. Mellisuga spp. Metallura spp. Michochera albocoronata Snowcap Microstilbon burmeisteri Slender-tailed Woodstar Myrmia micrura Short-tailed Woodstar Myrtis spp. Ocreatus underwoodii Booted Raquet-tail Opisthoprora euryptera Mountain Avocetbill Oreonympha nobilis Bearded Mountaineer Hillstars Oreotrochilus spp. Orthorhyncus cristatus Antillean Crested Hummingbird Oxypogon guerinii Bearded Helmetcrest Panterpe insignis Fiery-throated Hummingbird Patagona gigas Giant Hummingbird Hermits Phaethornis spp. Piedtails Phlogophilus spp. Polyonymus caroli Bronze-tailed Comet Goldenthroats Polytmus spp. Pterophanes cyanopterus Great Sapphirewing Ramphodon naevius Saw-billed Hermit Thornbills Ramphomicron spp. Rhodopis vesper Oasis Hummingbird Sappho sparganura Red-tailded Comet Hummingbird
 
 <!-- page 92 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
+Nama Saintifik Nama Biasa Selasphorus spp. Firecrown Sephanoides spp. Stellula calliope Calliope Hummingbird Stephanoxis lalandi Plovercrest Sternoclyta cyanopectus Violet-chested Hummingbird Taphrolesbia griseiventris Grey-bellied Comet Woodnymphs Thalurania spp. Thaumastura cora Peruvian Sheartail Barbthroat Threnetes spp. Tilmatura dupontii Sparkling-tailded Barbthroat Topaza pella Crimson Topaz Streamertails Trochilus spp. Urochroa bougueri White-tailed Hillstar Whitetips Urosticte spp.
 
-Selasphorus spp.
+<!-- marginal: Turdidae -->
 
-<!-- marginal: Firecrown -->
+Copsychus malabaricus Murai Batu Copsychus saularis
 
-Sephanoides spp. Stellula calliope
+<!-- marginal: (Thrushes) -->
 
-<!-- marginal: Calliope Hummingbird -->
+Murai Kampung Calidris minutillus Kedidi Jari Panjang
 
-Stephanoxis lalandi
+<!-- marginal: Zosteropidae -->
 
-<!-- marginal: Plovercrest -->
+Zosterops palpebrosa Kelicap Kunyit
 
-Sternoclyta cyanopectus
-
-<!-- marginal: Violet-chested Hummingbird -->
-
-Taphrolesbia griseiventris
-
-<!-- marginal: Grey-bellied Comet -->
-
-<!-- marginal: Woodnymphs -->
-
-Thalurania spp. Thaumastura cora
-
-<!-- marginal: Peruvian Sheartail -->
-
-<!-- marginal: Barbthroat -->
-
-Threnetes spp. Tilmatura dupontii
-
-<!-- marginal: Sparkling-tailded -->
-
-<!-- marginal: Barbthroat -->
-
-Topaza pella
-
-<!-- marginal: Crimson Topaz -->
-
-<!-- marginal: Streamertails -->
-
-Trochilus spp. Urochroa bougueri
-
-<!-- marginal: White-tailed Hillstar -->
-
-<!-- marginal: Whitetips -->
-
-Urosticte spp. Turdidae Copsychus malabaricus
-
-<!-- marginal: Murai Batu -->
-
-Copsychus saularis (Thrushes)
-
-<!-- marginal: Murai Kampung -->
-
-Calidris minutillus
-
-<!-- marginal: Kedidi Jari Panjang -->
-
-Zosteropidae Zosterops palpebrosa
-
-<!-- marginal: Kelicap Kunyit -->
-
-(Kelicap)
+<!-- marginal: (Kelicap) -->
 
 ## KELAS REPTILIA (REPTILIA)
 
-Acrochordidae Acrochordus javanicus
+<!-- marginal: Acrochordidae -->
 
-<!-- marginal: Ular Belalai Gajah -->
+Acrochordus javanicus Ular Belalai Gajah
 
-(File snake) Agamidae Acanthosaura armata
+<!-- marginal: (File snake) -->
 
-<!-- marginal: Horned Tree Lizard -->
+<!-- marginal: Agamidae -->
 
-(Agamas, mastigures) Acanthosaura crucigera
+Acanthosaura armata Horned Tree Lizard
 
-<!-- marginal: Cross-bearing Tree Lizard -->
+<!-- marginal: (Agamas, mastigures) -->
 
-Aphaniotus fuscus
-
-<!-- marginal: Earless Lizard -->
-
-Calotes emma emma
-
-<!-- marginal: Forest Crested -->
-
-Calotes versicolor
-
-<!-- marginal: Garden Fence Lizard -->
-
-Draco blanfordii
-
-<!-- marginal: Blanford’s Gliding Lizard -->
-
-Draco maculatus
-
-<!-- marginal: Spotted Gliding Lizard -->
-
-Draco melanopogon
-
-<!-- marginal: Black-bearded Gliding -->
-
-<!-- marginal: Lizard -->
-
-Draco quinquefasciatus
-
-<!-- marginal: Five-banded Gliding Lizard -->
-
-Draco volans
-
-<!-- marginal: Common Gliding Lizard -->
-
-Gonocephalus abbotti
-
-<!-- marginal: Doria’s Anglehead Lizard -->
-
-Gonocephalus bellii
-
-<!-- marginal: Bell’s Anglehead Lizard -->
-
-Gonocephalus chamaeleontinus
-
-<!-- marginal: Chameleon Anglehead -->
-
-<!-- marginal: Lizard -->
-
-Gonocephalus grandis
-
-<!-- marginal: Great Anglehead Lizard -->
+Acanthosaura crucigera Cross-bearing Tree Lizard Aphaniotus fuscus Earless Lizard Calotes emma emma Forest Crested Calotes versicolor Garden Fence Lizard Draco blanfordii Blanford’s Gliding Lizard Draco maculatus Spotted Gliding Lizard Draco melanopogon Black-bearded Gliding Lizard Draco quinquefasciatus Five-banded Gliding Lizard Draco volans Common Gliding Lizard Gonocephalus abbotti Doria’s Anglehead Lizard Gonocephalus bellii Bell’s Anglehead Lizard Gonocephalus chamaeleontinus Chameleon Anglehead Lizard Gonocephalus grandis Great Anglehead Lizard
 
 <!-- page 93 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
+Nama Saintifik Nama Biasa Gonocephalus liogaster Gonocephalus robinsonii Leiolepis triploida Malayan Butterfly Lizard Leiolepis belliana Common Butterfly Lizard Spiny-tailed lizards Uromastyx spp.
 
-Gonocephalus liogaster Gonocephalus robinsonii Leiolepis triploida
+<!-- marginal: Alligatoridae (Alligators, -->
 
-<!-- marginal: Malayan Butterfly Lizard -->
+Alligator mississipiensis Aligator Amerika
 
-Leiolepis belliana
+<!-- marginal: caimans) -->
 
-<!-- marginal: Common Butterfly Lizard -->
-
-<!-- marginal: Spiny-tailed lizards -->
-
-Uromastyx spp. Alligatoridae (Alligators, Alligator mississipiensis
-
-<!-- marginal: Aligator Amerika -->
-
-caimans)
-
-<!-- marginal: Brown Caiman -->
-
-Caiman crocodilus (kecuali subspesies yang termasuk dalam Jadual Kedua)
-
-<!-- marginal: Broad-nosed Caiman -->
-
-Caiman latirostris (hanya populasi Argentina; populasi lain yang termasuk dalam
+Brown Caiman Caiman crocodilus (kecuali subspesies yang termasuk dalam Jadual Kedua) Broad-nosed Caiman Caiman latirostris (hanya populasi Argentina; populasi lain yang termasuk dalam
 
 ## Jadual Kedua)
 
-<!-- marginal: Black Caiman -->
+Black Caiman Melanosuchus niger (hanya populasi Brazil dan Ecuador; populasi lain yang termasuk dalam Jadual Kedua) Paleosuchus palpebrosus Cuvier’s Smooth-fronted Caiman Paleosuchus trigonatus Schneider’s Smooth-fronted Caiman
 
-Melanosuchus niger (hanya populasi Brazil dan Ecuador; populasi lain yang termasuk dalam Jadual Kedua) Paleosuchus palpebrosus
+<!-- marginal: Aniliidae -->
 
-<!-- marginal: Cuvier’s Smooth-fronted -->
+Cylindrophis ruffus Red-tailed Pipe Snake
 
-<!-- marginal: Caiman -->
+<!-- marginal: (False coral snake) -->
 
-Paleosuchus trigonatus
+<!-- marginal: Boidae -->
 
-<!-- marginal: Schneider’s Smooth-fronted -->
+Boa spp. (kecuali subspesies Ular Boa
 
-<!-- marginal: Caiman -->
+(Boas) yang termasuk dalam Jadual Kedua) Calabaria spp. Candoia spp. Charina spp. Ular Boa Corallus spp. Epicrates spp. (kecuali spesies Ular Boa yang termasuk dalam Jadual Kedua) Eryx spp Ular Boa Eunectes spp. Anakonda Gongylophis spp. Ular Boa Lichanura spp. Ular Boa
 
-Aniliidae Cylindrophis ruffus
+<!-- marginal: Bolyeriidae -->
 
-<!-- marginal: Red-tailed Pipe Snake -->
+Bolyeria spp. (kecuali spesies
 
-(False coral snake) Boidae Boa spp. (kecuali subspesies
+<!-- marginal: (Round Island boas) -->
 
-<!-- marginal: Ular Boa -->
+yang termasuk dalam Jadual Kedua) Casarea spp. (kecuali spesies yang termasuk dalam Jadual Kedua)
 
-(Boas) yang termasuk dalam Jadual Kedua) Calabaria spp. Candoia spp. Charina spp.
+<!-- marginal: Carettochelyidae -->
 
-<!-- marginal: Ular Boa -->
+Carettochelys insculpta Labi-labi Muncung Babi
 
-Corallus spp. Epicrates spp. (kecuali spesies
-
-<!-- marginal: Ular Boa -->
-
-yang termasuk dalam Jadual Kedua) Eryx spp
-
-<!-- marginal: Ular Boa -->
-
-Eunectes spp.
-
-<!-- marginal: Anakonda -->
-
-Gongylophis spp.
-
-<!-- marginal: Ular Boa -->
-
-Lichanura spp.
-
-<!-- marginal: Ular Boa -->
-
-Bolyeriidae Bolyeria spp. (kecuali spesies (Round Island boas) yang termasuk dalam Jadual Kedua) Casarea spp. (kecuali spesies yang termasuk dalam Jadual Kedua) Carettochelyidae Carettochelys insculpta
-
-<!-- marginal: Labi-labi Muncung Babi -->
-
-(Pig-nosed turtles)
+<!-- marginal: (Pig-nosed turtles) -->
 
 <!-- page 94 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
+Nama Saintifik Nama Biasa
 
-Chamaeleonidae
+<!-- marginal: Chamaeleonidae -->
 
-<!-- marginal: Draw chameleon -->
+Draw chameleon Bradypodion spp.
 
-Bradypodion spp. (Chameleons)
+<!-- marginal: (Chameleons) -->
 
-<!-- marginal: Leaf Chameleons -->
+Leaf Chameleons Brookesia spp. (kecuali spesies yang termasuk dalam Jadual Kedua) Chameleons Calumma spp. Chameleons Chamaeleo spp. Chameleons Furcifer spp.
 
-Brookesia spp. (kecuali spesies yang termasuk dalam Jadual Kedua)
+<!-- marginal: Chelydridae (Snapping -->
 
-<!-- marginal: Chameleons -->
+Macrochelys teminckii Alligator Snapping Turtle
 
-Calumma spp.
+<!-- marginal: turtles) -->
 
-<!-- marginal: Chameleons -->
+<!-- marginal: Colubridae -->
 
-Chamaeleo spp.
+Ahaetulla fasciolata Speckle-headed Whip Snake
 
-<!-- marginal: Chameleons -->
+<!-- marginal: (Typical snakes, water -->
 
-Furcifer spp. Chelydridae (Snapping Macrochelys teminckii
+Ahaetulla mycterizans Malayan Green Whip Snake
 
-<!-- marginal: Alligator Snapping Turtle -->
+<!-- marginal: snakes, whipsnakes) -->
 
-turtles) Colubridae Ahaetulla fasciolata
-
-<!-- marginal: Speckle-headed Whip Snake -->
-
-(Typical snakes, water Ahaetulla mycterizans
-
-<!-- marginal: Malayan Green Whip Snake -->
-
-snakes, whipsnakes) Ahaetulla nasuta
-
-<!-- marginal: Long-nosed Whip Snake -->
-
-Ahaetulla prasina
-
-<!-- marginal: Oriental Whip Snake -->
-
-Amphiesma inas
-
-<!-- marginal: Malayan Mountain -->
-
-<!-- marginal: Keelback -->
-
-Amphiesma petersii
-
-<!-- marginal: Peter’s Keelback -->
-
-Amphiesma sanguinea
-
-<!-- marginal: Smedley’s Keelback -->
-
-Amphiesma sarawacense
-
-<!-- marginal: Sarawak Mountain -->
-
-<!-- marginal: Keelback -->
-
-Aplopeltura boa
-
-<!-- marginal: Blunt-headed Slug Snake -->
-
-Asthenodipsas laevis
-
-<!-- marginal: Smooth Slug Snake -->
-
-Boiga cyanea
-
-<!-- marginal: Green Cat Snake -->
-
-Boiga cynodon
-
-<!-- marginal: Dog-toothed Cat Snake -->
-
-Boiga dendrophila melanota
-
-<!-- marginal: Mangrove Snake -->
-
-Boiga drapiezii
-
-<!-- marginal: White Spotted Cat Snake -->
-
-Boiga jaspidae
-
-<!-- marginal: Jasper Cat Snake -->
-
-Boiga multomaculata
-
-<!-- marginal: Marble Cat Snake -->
-
-Boiga nigriceps
-
-<!-- marginal: Black-headed Cat Snake -->
-
-Chrysopelea paradisi
-
-<!-- marginal: Paradise Tree Snake -->
-
-Chrysopelea ornata
-
-<!-- marginal: Golden Tree Snake -->
-
-Chrysopelea pelias
-
-<!-- marginal: Twin-barred Tree Snake -->
-
-Elaphe flavolineata
-
-<!-- marginal: Common Malayan Racer -->
-
-Elaphe porphyracea
-
-<!-- marginal: Red Mountain Racer -->
-
-Elaphe prasina
-
-<!-- marginal: Green Tree Racer -->
-
-Elaphe radiate
-
-<!-- marginal: Copperhead Racer -->
-
-Elaphe taeniura ridleyi
-
-<!-- marginal: Cave Dwelling Snake -->
-
-Enhydris bocourti
-
-<!-- marginal: Bocourt’s Water Snake -->
-
-Enhydris enhydris
-
-<!-- marginal: Rainbow Water Snake -->
-
-Gonyosoma oxycephalum
-
-<!-- marginal: Red-tailed Rat Snake -->
-
-Homalopsis buccata
-
-<!-- marginal: Puff-face Water Snake -->
-
-Liopeltis tricolor
-
-<!-- marginal: Malayan Ringneck -->
+Ahaetulla nasuta Long-nosed Whip Snake Ahaetulla prasina Oriental Whip Snake Amphiesma inas Malayan Mountain Keelback Amphiesma petersii Peter’s Keelback Amphiesma sanguinea Smedley’s Keelback Amphiesma sarawacense Sarawak Mountain Keelback Aplopeltura boa Blunt-headed Slug Snake Asthenodipsas laevis Smooth Slug Snake Boiga cyanea Green Cat Snake Boiga cynodon Dog-toothed Cat Snake Boiga dendrophila melanota Mangrove Snake Boiga drapiezii White Spotted Cat Snake Boiga jaspidae Jasper Cat Snake Boiga multomaculata Marble Cat Snake Boiga nigriceps Black-headed Cat Snake Chrysopelea paradisi Paradise Tree Snake Chrysopelea ornata Golden Tree Snake Chrysopelea pelias Twin-barred Tree Snake Elaphe flavolineata Common Malayan Racer Elaphe porphyracea Red Mountain Racer Elaphe prasina Green Tree Racer Elaphe radiate Copperhead Racer Elaphe taeniura ridleyi Cave Dwelling Snake Enhydris bocourti Bocourt’s Water Snake Enhydris enhydris Rainbow Water Snake Gonyosoma oxycephalum Red-tailed Rat Snake Homalopsis buccata Puff-face Water Snake Liopeltis tricolor Malayan Ringneck
 
 <!-- page 95 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
+Nama Saintifik Nama Biasa Lycodon effraenis Scarce Wolf Snake Lycodon subcintus Malayan Banded Wolf Snake Macrocalamus lateralis Malayan Mountain Reed Snake Macrocalamus tweedie Tweedie’s Mountain Reed Snake Macropisthodon rhodomelas Blue-necked Keelback Pareas carinatus Keeled Slug Snake Pareas margaritophorus White-spotted Pareas vertebralis Southern Mountain Slug Snake Pseudoxenodon macrops Big-eyed Mountain Keelback Ptyas carinatus Keeled Rat Snake Ptyas fuscus White-bellied Rat Snake Ptyas mucosus Common Rat Snake Ptyas korros Indo-chinese Rat Snake Rhabdophis chrysargus Speckle-bellied Keelback Rhabdophis conspicillatus Rhabdophis subminiatus Red-necked Keelback Sibynophis collaris Common Blackhead Sibynophis melanocephalus Malayan Many-toothed Snake Atretium schistosum Olivaceous Keelback Cerberus rhynchops Bockadam Clelia clelia Mussurana Cyclagras gigas Brazilian Smooth Snake Elachistodon westermanni Indian Egg-eater Ptyas mucosus Oriental Rat Snake Xenochrophis piscator Asiatic Water Snake
 
-Lycodon effraenis
+<!-- marginal: Cordylidae -->
 
-<!-- marginal: Scarce Wolf Snake -->
+Crag Lizards Cordylus spp.
 
-Lycodon subcintus
+<!-- marginal: (Spiny-tailed lizards) -->
 
-<!-- marginal: Malayan Banded Wolf -->
-
-<!-- marginal: Snake -->
-
-Macrocalamus lateralis
-
-<!-- marginal: Malayan Mountain Reed -->
-
-<!-- marginal: Snake -->
-
-Macrocalamus tweedie
-
-<!-- marginal: Tweedie’s Mountain Reed -->
-
-<!-- marginal: Snake -->
-
-Macropisthodon rhodomelas
-
-<!-- marginal: Blue-necked Keelback -->
-
-Pareas carinatus
-
-<!-- marginal: Keeled Slug Snake -->
-
-Pareas margaritophorus
-
-<!-- marginal: White-spotted -->
-
-Pareas vertebralis
-
-<!-- marginal: Southern Mountain Slug -->
-
-<!-- marginal: Snake -->
-
-Pseudoxenodon macrops
-
-<!-- marginal: Big-eyed Mountain -->
-
-<!-- marginal: Keelback -->
-
-Ptyas carinatus
-
-<!-- marginal: Keeled Rat Snake -->
-
-Ptyas fuscus
-
-<!-- marginal: White-bellied Rat Snake -->
-
-Ptyas mucosus
-
-<!-- marginal: Common Rat Snake -->
-
-Ptyas korros
-
-<!-- marginal: Indo-chinese Rat Snake -->
-
-Rhabdophis chrysargus
-
-<!-- marginal: Speckle-bellied Keelback -->
-
-Rhabdophis conspicillatus Rhabdophis subminiatus
-
-<!-- marginal: Red-necked Keelback -->
-
-Sibynophis collaris
-
-<!-- marginal: Common Blackhead -->
-
-Sibynophis melanocephalus
-
-<!-- marginal: Malayan Many-toothed -->
-
-<!-- marginal: Snake -->
-
-Atretium schistosum
-
-<!-- marginal: Olivaceous Keelback -->
-
-Cerberus rhynchops
-
-<!-- marginal: Bockadam -->
-
-Clelia clelia
-
-<!-- marginal: Mussurana -->
-
-Cyclagras gigas
-
-<!-- marginal: Brazilian Smooth Snake -->
-
-Elachistodon westermanni
-
-<!-- marginal: Indian Egg-eater -->
-
-Ptyas mucosus
-
-<!-- marginal: Oriental Rat Snake -->
-
-Xenochrophis piscator
-
-<!-- marginal: Asiatic Water Snake -->
-
-Cordylidae
-
-<!-- marginal: Crag Lizards -->
-
-Cordylus spp. (Spiny-tailed lizards)
-
-<!-- marginal: Estuarine Crocodile -->
-
-Crocodylus porosus (kecuali spesies yang termasuk dalam
+Estuarine Crocodile Crocodylus porosus (kecuali spesies yang termasuk dalam
 
 ## Jadual Kedua)
 
-<!-- marginal: American Crocodile -->
-
-Crocodylus acutus (kecuali spesies yang termasuk dalam
+American Crocodile Crocodylus acutus (kecuali spesies yang termasuk dalam
 
 ## Jadual Kedua)
 
-Crocodylus johnsoni
-
-<!-- marginal: Australian Freshwater -->
-
-<!-- marginal: Crocodile -->
-
-<!-- marginal: Nile Crocodile -->
-
-Crocodylus niloticus (kecuali spesies yang termasuk dalam
+Crocodylus johnsoni Australian Freshwater Crocodile Nile Crocodile Crocodylus niloticus (kecuali spesies yang termasuk dalam
 
 ## Jadual Kedua)
 
-Crocodylus novaeguineae
-
-<!-- marginal: New Guinea Crocodile -->
+Crocodylus novaeguineae New Guinea Crocodile
 
 <!-- page 96 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
+Nama Saintifik Nama Biasa
 
-Dibamidae Dibamus booliati Dibamus tiomanensis Dermatemydidae (Central Dermatemys mawii
+<!-- marginal: Dibamidae -->
 
-<!-- marginal: Central American River -->
+Dibamus booliati Dibamus tiomanensis
 
-American river turtle)
+<!-- marginal: Dermatemydidae (Central -->
 
-<!-- marginal: Turtle -->
+Dermatemys mawii Central American River
 
-Elapidae Bungarus candidus
+<!-- marginal: American river turtle) -->
 
-<!-- marginal: Malayan krait -->
+Turtle
 
-(Tedung,Ular Air) Bungarus fasciatus
+<!-- marginal: Elapidae -->
 
-<!-- marginal: Banded krait -->
+Bungarus candidus Malayan krait
 
-Bungarus flaviceps
+<!-- marginal: (Tedung,Ular Air) -->
 
-<!-- marginal: Red headed krait -->
+Bungarus fasciatus Banded krait Bungarus flaviceps Red headed krait Calliophis maculiceps Small-spotted coral snake Callophis gracilis Spotted coral snake Maticora bivirgata Blue long-glanded Maticora intestinalis Banded malayan coral snake Maticora maculiceps Naja kaouthia Monocellate cobra Naja naja Common cobra Naja sumatrana Equatorial spitting cobra Ophiophagus hannah King Cobra Hoplocephalus bungaroides Broad-headed Snake Naja atra Chinese Cobra Naja mandalayensis Cobra Naja oxiana Central Asian cobra Naja philippinensis North Philippine Spitting Cobra Naja sagittifera Andaman Cobra Naja samarensis Peter`s Cobra Naja siamensis Indochinese Cobra Naja sputatrix Indonesian Cobra Micrurus diastema Atlantic Coral Snake Micrurus nigrocinctus Black-banded Coral Snake
 
-Calliophis maculiceps
+<!-- marginal: Gekkonidae -->
 
-<!-- marginal: Small-spotted coral snake -->
+Aeluroscalabotes felinus Cat-eyed gecko
 
-Callophis gracilis
+<!-- marginal: (Geckos) -->
 
-<!-- marginal: Spotted coral snake -->
-
-Maticora bivirgata
-
-<!-- marginal: Blue long-glanded -->
-
-Maticora intestinalis
-
-<!-- marginal: Banded malayan coral -->
-
-<!-- marginal: snake -->
-
-Maticora maculiceps Naja kaouthia
-
-<!-- marginal: Monocellate cobra -->
-
-Naja naja
-
-<!-- marginal: Common cobra -->
-
-Naja sumatrana
-
-<!-- marginal: Equatorial spitting cobra -->
-
-Ophiophagus hannah
-
-<!-- marginal: King Cobra -->
-
-Hoplocephalus bungaroides
-
-<!-- marginal: Broad-headed Snake -->
-
-Naja atra
-
-<!-- marginal: Chinese Cobra -->
-
-Naja mandalayensis
-
-<!-- marginal: Cobra -->
-
-Naja oxiana
-
-<!-- marginal: Central Asian cobra -->
-
-Naja philippinensis
-
-<!-- marginal: North Philippine Spitting -->
-
-<!-- marginal: Cobra -->
-
-Naja sagittifera
-
-<!-- marginal: Andaman Cobra -->
-
-Naja samarensis
-
-<!-- marginal: Peter`s Cobra -->
-
-Naja siamensis
-
-<!-- marginal: Indochinese Cobra -->
-
-Naja sputatrix
-
-<!-- marginal: Indonesian Cobra -->
-
-Micrurus diastema
-
-<!-- marginal: Atlantic Coral Snake -->
-
-Micrurus nigrocinctus
-
-<!-- marginal: Black-banded Coral Snake -->
-
-Gekkonidae Aeluroscalabotes felinus
-
-<!-- marginal: Cat-eyed gecko -->
-
-(Geckos) Cnemaspis nigridius
-
-<!-- marginal: Dark Round-eyed gecko -->
-
-Cyrtodactylus brevipalmatus
-
-<!-- marginal: Web-footed Slender-toed -->
-
-<!-- marginal: gecko -->
-
-Cyrtodactylus consobrinus
-
-<!-- marginal: Banded Slender-toed -->
-
-Cyrtodactylus peguensis
-
-<!-- marginal: Leopard Gecko -->
-
-Cyrtodactylus pulchellus Banded Gecko Cyrtodactylus quadrivirgatus
-
-<!-- marginal: Marble Slender-toed -->
-
-Gekko gecko
-
-<!-- marginal: Tockay -->
-
-<!-- marginal: Sticky-toed Geckos -->
-
-Hoplodactylus spp.
-
-<!-- marginal: New Zealand Tree Geckos -->
-
-Naultinus spp.
-
-<!-- marginal: Day Geckos -->
-
-Phelsuma spp.
-
-<!-- marginal: Flat-tailed Geckos -->
-
-Uroplatus spp.
+Cnemaspis nigridius Dark Round-eyed gecko Cyrtodactylus brevipalmatus Web-footed Slender-toed gecko Cyrtodactylus consobrinus Banded Slender-toed Cyrtodactylus peguensis Leopard Gecko Cyrtodactylus pulchellus Banded Gecko Cyrtodactylus quadrivirgatus Marble Slender-toed Gekko gecko Tockay Sticky-toed Geckos Hoplodactylus spp. New Zealand Tree Geckos Naultinus spp. Day Geckos Phelsuma spp. Flat-tailed Geckos Uroplatus spp.
 
 <!-- page 97 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
+Nama Saintifik Nama Biasa
 
-Geomydidae Callagur borneoensis
+<!-- marginal: Geomydidae -->
 
-<!-- marginal: Tuntung Sungai -->
+Callagur borneoensis Tuntung Sungai
 
-(Kura-kura Katup, Kura- Cuora amboinensis
+<!-- marginal: (Kura-kura Katup, Kura- -->
 
-<!-- marginal: Kura-kura Katup -->
+Cuora amboinensis Kura-kura Katup
 
-kura Air Tawar) Cyclemys dentata
+<!-- marginal: kura Air Tawar) -->
 
-<!-- marginal: Asian Leaf Tortoise -->
-
-Heosemys grandis
-
-<!-- marginal: Kura Besar -->
-
-Heosemys spinosa
-
-<!-- marginal: Kura-kura Duri Bukit -->
-
-Malayems subtrijuga
-
-<!-- marginal: Jelebu Siput -->
-
-Notochelys platynota
-
-<!-- marginal: Kura Punggong Datar -->
-
-Orlitia bornensis
-
-<!-- marginal: Juku Juku Besar -->
-
-Siebenrockkiella crassicollis
-
-<!-- marginal: Kura-kura Kolam -->
-
-<!-- marginal: Box Turtle -->
-
-Cuora spp. Geoemyda spengleri
-
-<!-- marginal: Black-breasted Leaf Turtle -->
-
-<!-- marginal: Wood Turtle -->
-
-Glytemy mulenbergii
-
-<!-- marginal: Map Turtles -->
-
-Graptemys spp. Heosemys depressa
-
-<!-- marginal: Arakan Forest Turtle -->
-
-Hieremys annandalii
-
-<!-- marginal: Yellow -headed Temple -->
-
-<!-- marginal: Turtle -->
-
-<!-- marginal: Roofed Turtle -->
-
-Kachuga spp. (kecuali spesies yang termasuk dalam Jadual Kedua) Leucocephalon yuwonoi
-
-<!-- marginal: Sulawesi Forest turtle -->
-
-Mauremys annamensis
-
-<!-- marginal: Annam Leaf Turtle -->
-
-Mauremys iversoni
-
-<!-- marginal: Fujian Pond Turtle -->
-
-Mauremys macrocephala
-
-<!-- marginal: Jelebu Siput -->
-
-Mauremys mutica
-
-<!-- marginal: Yellow Pond Turtle -->
-
-Mauremys nigricans
-
-<!-- marginal: Red-necked Pond Turtle -->
-
-Mauremys pritchardi
-
-<!-- marginal: Pritchard’s Pond Turtle -->
-
-Mauremys reevesii
-
-<!-- marginal: Reeves’s Turtle -->
-
-Mauremys sinensis
-
-<!-- marginal: Chinese Stripe-necked -->
-
-<!-- marginal: Turtle -->
-
-Ocadia glyphistoma
-
-<!-- marginal: Notch-mouthed Stripe- -->
-
-<!-- marginal: necked Turtle -->
-
-Ocadia philippeni
-
-<!-- marginal: Philippen’s Stripe-necked -->
-
-<!-- marginal: Turtle -->
-
-Sacalia bealei
-
-<!-- marginal: Beal’s Eyed Turtle -->
-
-Sacalia pseudocellata
-
-<!-- marginal: Chinese False-eyed Turtle -->
+Cyclemys dentata Asian Leaf Tortoise Heosemys grandis Kura Besar Heosemys spinosa Kura-kura Duri Bukit Malayems subtrijuga Jelebu Siput Notochelys platynota Kura Punggong Datar Orlitia bornensis Juku Juku Besar Siebenrockkiella crassicollis Kura-kura Kolam Box Turtle Cuora spp. Geoemyda spengleri Black-breasted Leaf Turtle Wood Turtle Glytemy mulenbergii Map Turtles Graptemys spp. Heosemys depressa Arakan Forest Turtle Hieremys annandalii Yellow -headed Temple Turtle Roofed Turtle Kachuga spp. (kecuali spesies yang termasuk dalam Jadual Kedua) Leucocephalon yuwonoi Sulawesi Forest turtle Mauremys annamensis Annam Leaf Turtle Mauremys iversoni Fujian Pond Turtle Mauremys macrocephala Jelebu Siput Mauremys mutica Yellow Pond Turtle Mauremys nigricans Red-necked Pond Turtle Mauremys pritchardi Pritchard’s Pond Turtle Mauremys reevesii Reeves’s Turtle Mauremys sinensis Chinese Stripe-necked Turtle Ocadia glyphistoma Notch-mouthed Stripe- necked Turtle Ocadia philippeni Philippen’s Stripe-necked Turtle Sacalia bealei Beal’s Eyed Turtle Sacalia pseudocellata Chinese False-eyed Turtle
 
 <!-- page 98 -->
 
@@ -4718,119 +3490,43 @@ Tupinambis spp.
 
 <!-- page 99 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
+Nama Saintifik Nama Biasa
 
-Testudinidae (Tortoises) Indotestudo elongata
+<!-- marginal: Testudinidae (Tortoises) -->
 
-<!-- marginal: Kura-kura Mas -->
-
-Manouria emys
-
-<!-- marginal: Baning -->
-
-Manouria impressa
-
-<!-- marginal: Impressed Tortoise -->
-
-Chersina angulata
-
-<!-- marginal: Angulated Tortoise -->
-
-Geochelone spp. (kecuali
-
-<!-- marginal: Kura-kura -->
-
-spesies yang termasuk dalam
+Indotestudo elongata Kura-kura Mas Manouria emys Baning Manouria impressa Impressed Tortoise Chersina angulata Angulated Tortoise Geochelone spp. (kecuali Kura-kura spesies yang termasuk dalam
 
 ## Jadual Kedua)
 
-Gopherus spp. (kecuali spesies
-
-<!-- marginal: Kura-kura -->
-
-yang termasuk dalam Jadual Kedua) Homopus spp. Indotestudo spp. Kinixys spp. Malacochersus tornieri
-
-<!-- marginal: African Pancake Tortoise -->
-
-Manouria spp.
-
-<!-- marginal: Kura-kura -->
-
-Psammobates spp. (kecuali
-
-<!-- marginal: Kura-kura -->
-
-spesies yang termasuk dalam
+Gopherus spp. (kecuali spesies Kura-kura yang termasuk dalam Jadual Kedua) Homopus spp. Indotestudo spp. Kinixys spp. Malacochersus tornieri African Pancake Tortoise Manouria spp. Kura-kura Psammobates spp. (kecuali Kura-kura spesies yang termasuk dalam
 
 ## Jadual Kedua)
 
-Testudo spp. (kecuali spesies
+Testudo spp. (kecuali spesies Kura-kura yang termasuk dalam Jadual Kedua)
 
-<!-- marginal: Kura-kura -->
+<!-- marginal: Trionychidae (Softshell -->
 
-yang termasuk dalam Jadual Kedua) Trionychidae (Softshell Amyda cartilaginea
+Amyda cartilaginea Labi Biasa
 
-<!-- marginal: Labi Biasa -->
+<!-- marginal: turtles, terrapins) -->
 
-turtles, terrapins) Chitra chitra
+Chitra chitra Striped Giant Soft-shelled Turtle Dogania subplana Malayan Soft-shelled Tortoise Pelochelys cantorii Malayan Soft-shelled Tortoise Chitra spp. Labi Bunga Lissemys punctata Spotted Turtle Palea steindachneri Wattle-necked Soft-shelled Turtle Pelochelys spp. Labi Besar Pelodiscus axenaria Chinese Soft-shelled Turtle Pelodiscus maackii Pelodiscus parviformis Rafetus swinhoei
 
-<!-- marginal: Striped Giant Soft-shelled -->
+<!-- marginal: Tropidophiidae -->
 
-<!-- marginal: Turtle -->
+Exilibao placata Oaxacan Dwarf Boa
 
-Dogania subplana
+<!-- marginal: (Wood boas) -->
 
-<!-- marginal: Malayan Soft-shelled -->
+Eyelash Boas Trachyboa spp. Dwarf Boas Tropidophis spp. Ungaliophis spp.
 
-<!-- marginal: Tortoise -->
+<!-- marginal: Uromasticidae -->
 
-Pelochelys cantorii
+Leiolepis belliana Common Butterfly Lizard
 
-<!-- marginal: Malayan Soft-shelled -->
-
-<!-- marginal: Tortoise -->
-
-Chitra spp.
-
-<!-- marginal: Labi Bunga -->
-
-Lissemys punctata
-
-<!-- marginal: Spotted Turtle -->
-
-Palea steindachneri
-
-<!-- marginal: Wattle-necked Soft-shelled -->
-
-<!-- marginal: Turtle -->
-
-Pelochelys spp.
-
-<!-- marginal: Labi Besar -->
-
-Pelodiscus axenaria
-
-<!-- marginal: Chinese Soft-shelled Turtle -->
-
-Pelodiscus maackii Pelodiscus parviformis Rafetus swinhoei Tropidophiidae Exilibao placata
-
-<!-- marginal: Oaxacan Dwarf Boa -->
-
-(Wood boas)
-
-<!-- marginal: Eyelash Boas -->
-
-Trachyboa spp.
-
-<!-- marginal: Dwarf Boas -->
-
-Tropidophis spp. Ungaliophis spp. Uromasticidae Leiolepis belliana
-
-<!-- marginal: Common Butterfly Lizard -->
-
-(Butterfly lizard)
+<!-- marginal: (Butterfly lizard) -->
 
 <!-- page 100 -->
 
@@ -5322,7 +4018,7 @@ Camaenidae Papustyla pulcherrima
 
 (Green tree snail)
 
-## Jadual Kedua
+## JADUAL KEDUA
 
 [seksyen 3]
 
@@ -5456,161 +4152,37 @@ Gazella leptoceros
 
 <!-- page 105 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
+Nama Saintifik Nama Biasa Hippotragus niger variani Giant Sable Antelope Naemorhedus baileyi Red Goral Naemorhedus caudatus Chinese Goral Naemorhedus goral Himalayan Goral Naemorhedus griseus South China Goral Nanger dama Addra Gazelle Oryx dammah Sahara Oryx Oryx leucoryx Arabian Oryx Ovis ammon hodgsonii Great Tibetan Sheep Ovis ammon nigrimontana Asian Wild Sheep Ovis orientalis ophion Cyprian Wild Sheep Ovis vignei vignei Ladakh Urial Pantholops hodgsonii Chiru Pseudoryx nghetinhensis Saola Rupicapra pyrenaica ornata Pyrenean Chamois
 
-Hippotragus niger variani
+<!-- marginal: Canidae -->
 
-<!-- marginal: Giant Sable Antelope -->
+Cuon alpinus Serigala, Anjing Hutan
 
-Naemorhedus baileyi
+<!-- marginal: (Anjing hutan, rubah, -->
 
-<!-- marginal: Red Goral -->
+Canis lupus Common Wolf
 
-Naemorhedus caudatus
+<!-- marginal: serigala) -->
 
-<!-- marginal: Chinese Goral -->
+Speothos venaticus Bush Dog
 
-Naemorhedus goral
+<!-- marginal: Cebidae -->
 
-<!-- marginal: Himalayan Goral -->
+Callimico goeldii Goeldi’s Marmoset
 
-Naemorhedus griseus
+<!-- marginal: (Marmosets, tamarins) -->
 
-<!-- marginal: South China Goral -->
+Callithrix aurita Buffy-tufted-ear Marmoset Callithrix flaviceps Buffy-headed Marmoset Lion tamarins Leontopithecus spp. Saguinus bicolor Bare-faced Tamarin Saguinus geoffroyi Cotton-top Marmoset Saguinus leucopus White-footed Tamarin Saguinus martinsi Martin’s Bare-faced Tamarin Saguinus oedipus Cotton-headed Tamarin Saimiri oerstedii Central American Squirrel Monkey
 
-Nanger dama
+<!-- marginal: Cercopithecidae -->
 
-<!-- marginal: Addra Gazelle -->
+Macaca arctoides Beruk Kentoi
 
-Oryx dammah
+<!-- marginal: (Old world monkeys) -->
 
-<!-- marginal: Sahara Oryx -->
-
-Oryx leucoryx
-
-<!-- marginal: Arabian Oryx -->
-
-Ovis ammon hodgsonii
-
-<!-- marginal: Great Tibetan Sheep -->
-
-Ovis ammon nigrimontana
-
-<!-- marginal: Asian Wild Sheep -->
-
-Ovis orientalis ophion
-
-<!-- marginal: Cyprian Wild Sheep -->
-
-Ovis vignei vignei
-
-<!-- marginal: Ladakh Urial -->
-
-Pantholops hodgsonii
-
-<!-- marginal: Chiru -->
-
-Pseudoryx nghetinhensis
-
-<!-- marginal: Saola -->
-
-Rupicapra pyrenaica ornata
-
-<!-- marginal: Pyrenean Chamois -->
-
-Canidae Cuon alpinus
-
-<!-- marginal: Serigala, Anjing Hutan -->
-
-(Anjing hutan, rubah, Canis lupus
-
-<!-- marginal: Common Wolf -->
-
-serigala) Speothos venaticus
-
-<!-- marginal: Bush Dog -->
-
-Cebidae Callimico goeldii
-
-<!-- marginal: Goeldi’s Marmoset -->
-
-(Marmosets, tamarins) Callithrix aurita
-
-<!-- marginal: Buffy-tufted-ear Marmoset -->
-
-Callithrix flaviceps
-
-<!-- marginal: Buffy-headed Marmoset -->
-
-<!-- marginal: Lion tamarins -->
-
-Leontopithecus spp. Saguinus bicolor
-
-<!-- marginal: Bare-faced Tamarin -->
-
-Saguinus geoffroyi
-
-<!-- marginal: Cotton-top Marmoset -->
-
-Saguinus leucopus
-
-<!-- marginal: White-footed Tamarin -->
-
-Saguinus martinsi
-
-<!-- marginal: Martin’s Bare-faced -->
-
-<!-- marginal: Tamarin -->
-
-Saguinus oedipus
-
-<!-- marginal: Cotton-headed Tamarin -->
-
-Saimiri oerstedii
-
-<!-- marginal: Central American Squirrel -->
-
-<!-- marginal: Monkey -->
-
-Cercopithecidae Macaca arctoides
-
-<!-- marginal: Beruk Kentoi -->
-
-(Old world monkeys) Nasalis larvatus
-
-<!-- marginal: Monyet Belanda -->
-
-Cercocebus galeritus
-
-<!-- marginal: Tana River Mangabey -->
-
-Cercopithecus diana
-
-<!-- marginal: Diana Guenon -->
-
-Cercopithecus roloway
-
-<!-- marginal: Roloway Monkey -->
-
-Macaca silenus
-
-<!-- marginal: Lion-tailed Macaque -->
-
-Mandrillus leucophaeus
-
-<!-- marginal: Drill -->
-
-Mandrillus sphinx
-
-<!-- marginal: Mandrill -->
-
-<!-- marginal: Long-nosed Monkey -->
-
-Nasalis spp. Piliocolobus kirkii
-
-<!-- marginal: Kirk’s Colobus -->
+Nasalis larvatus Monyet Belanda Cercocebus galeritus Tana River Mangabey Cercopithecus diana Diana Guenon Cercopithecus roloway Roloway Monkey Macaca silenus Lion-tailed Macaque Mandrillus leucophaeus Drill Mandrillus sphinx Mandrill Long-nosed Monkey Nasalis spp. Piliocolobus kirkii Kirk’s Colobus
 
 <!-- page 106 -->
 
@@ -5766,153 +4338,37 @@ Daubentoniidae Daubentonia madagascariensis
 
 <!-- page 107 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
+Nama Saintifik Nama Biasa
 
-Equidae Equus africanus
+<!-- marginal: Equidae -->
 
-<!-- marginal: African Ass -->
+Equus africanus African Ass
 
-(Kuda, wild asses, zebras) Equus grevyi
+<!-- marginal: (Kuda, wild asses, zebras) -->
 
-<!-- marginal: Grevy’s Zebra -->
+Equus grevyi Grevy’s Zebra Equus hemionus hemionus Mongolian Wild Ass Equus hemionus khur Indian Wild Ass Equus przewalskii Mongolian Wild Horse Equus zebra zebra Cape Mountain Zebra
 
-Equus hemionus hemionus
+<!-- marginal: Felidae -->
 
-<!-- marginal: Mongolian Wild Ass -->
+Catopuma badia Bay Cat
 
-Equus hemionus khur
+<!-- marginal: (Kucing) -->
 
-<!-- marginal: Indian Wild Ass -->
-
-Equus przewalskii
-
-<!-- marginal: Mongolian Wild Horse -->
-
-Equus zebra zebra
-
-<!-- marginal: Cape Mountain Zebra -->
-
-Felidae Catopuma badia
-
-<!-- marginal: Bay Cat -->
-
-(Kucing) Catopuma temminckii
-
-<!-- marginal: Kucing Tulap -->
-
-Neofelis nebulosa
-
-<!-- marginal: Harimau Dahan -->
-
-Panthera pardus
-
-<!-- marginal: Harimau Kumbang -->
-
-Panthera tigris
-
-<!-- marginal: Harimau Belang -->
-
-Pardofelis marmorata
-
-<!-- marginal: Kucing Dahan -->
-
-Prionailurus bengalensis
-
-<!-- marginal: Kucing Batu -->
-
-Prionailurus planiceps
-
-<!-- marginal: Kucing Hutan -->
-
-Acinonyx jubatus
-
-<!-- marginal: Cheetah -->
-
-<!-- marginal: Caracal -->
-
-Caracal caracal (Populasi Asia selain populasi yang termasuk dalam Jadual Pertama) Felis nigripes
-
-<!-- marginal: Black-footed Cat -->
-
-Leopardus geoffroyi
-
-<!-- marginal: Geoffroy’s Cat -->
-
-Leopardus jacobita
-
-<!-- marginal: Andean Cat -->
-
-Leopardus pardalis
-
-<!-- marginal: Ocelot -->
-
-Leopardus tigrinus
-
-<!-- marginal: Little Spotted Cat -->
-
-Leopardus wiedii
-
-<!-- marginal: Margay -->
-
-Lynx pardinus
-
-<!-- marginal: Iberian Lynx -->
-
-Panthera leo persica
-
-<!-- marginal: Asiatic Lion -->
-
-Panthera onca
-
-<!-- marginal: Jaguar -->
-
-Prionailurus rubiginosus
-
-<!-- marginal: Rusty-spotted Cat -->
-
-Prionailurus viverrinus
-
-<!-- marginal: Fishing Cat -->
-
-Puma concolor coryi
-
-<!-- marginal: Florida Cougar -->
-
-Puma concolor costaricensis
-
-<!-- marginal: Central American Puma -->
-
-Puma concolor couguar
-
-<!-- marginal: Eastern Cougar -->
-
-<!-- marginal: Eyra Cat -->
-
-Puma yagouaroundi (hanya populasi Amerika Utara dan Amerika Tengah, selain populasi yang termasuk dalam
+Catopuma temminckii Kucing Tulap Neofelis nebulosa Harimau Dahan Panthera pardus Harimau Kumbang Panthera tigris Harimau Belang Pardofelis marmorata Kucing Dahan Prionailurus bengalensis Kucing Batu Prionailurus planiceps Kucing Hutan Acinonyx jubatus Cheetah Caracal Caracal caracal (Populasi Asia selain populasi yang termasuk dalam Jadual Pertama) Felis nigripes Black-footed Cat Leopardus geoffroyi Geoffroy’s Cat Leopardus jacobita Andean Cat Leopardus pardalis Ocelot Leopardus tigrinus Little Spotted Cat Leopardus wiedii Margay Lynx pardinus Iberian Lynx Panthera leo persica Asiatic Lion Panthera onca Jaguar Prionailurus rubiginosus Rusty-spotted Cat Prionailurus viverrinus Fishing Cat Puma concolor coryi Florida Cougar Puma concolor costaricensis Central American Puma Puma concolor couguar Eastern Cougar Eyra Cat Puma yagouaroundi (hanya populasi Amerika Utara dan Amerika Tengah, selain populasi yang termasuk dalam
 
 ## Jadual Pertama)
 
-Uncia uncia
+Uncia uncia Snow Leopard
 
-<!-- marginal: Snow Leopard -->
+<!-- marginal: Herpestidae -->
 
-Herpestidae Herpestes brachyurus
+Herpestes brachyurus Bambun Ekor Pendek
 
-<!-- marginal: Bambun Ekor Pendek -->
+<!-- marginal: (Cerpelai) -->
 
-(Cerpelai) Herpestes edwardsii
-
-<!-- marginal: Bambun Kelabu -->
-
-Herpestes javanicus
-
-<!-- marginal: Bambun, Cherpelai Jawa -->
-
-auropunctatus Herpestes urva
-
-<!-- marginal: Bambun, Cherpelai Ketam -->
+Herpestes edwardsii Bambun Kelabu Herpestes javanicus Bambun, Cherpelai Jawa auropunctatus Herpestes urva Bambun, Cherpelai Ketam
 
 <!-- page 108 -->
 
@@ -6198,151 +4654,59 @@ Pteronura brasiliensis
 
 <!-- page 110 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
+Nama Saintifik Nama Biasa
 
-Peramelidae Perameles bougainville
+<!-- marginal: Peramelidae -->
 
-<!-- marginal: Barred Bandicoot -->
+Perameles bougainville Barred Bandicoot
 
-(Bandicoots) Pitheciidae
+<!-- marginal: (Bandicoots) -->
 
-<!-- marginal: Uakaris -->
+<!-- marginal: Pitheciidae -->
 
-Cacajao spp. (Uakaris, Saki) Chiropotes albinasus
+Uakaris Cacajao spp.
 
-<!-- marginal: White-nosed Bearded Saki -->
+<!-- marginal: (Uakaris, Saki) -->
 
-Potoroidae
+Chiropotes albinasus White-nosed Bearded Saki
 
-<!-- marginal: Rat-kangaroos -->
+<!-- marginal: Potoroidae -->
 
-Bettongia spp. (Rat-kangaroos) Caloprymnus campestris
+Rat-kangaroos Bettongia spp.
 
-<!-- marginal: Desert Rat-kangaroo -->
+<!-- marginal: (Rat-kangaroos) -->
 
-Pteropodidae Acerodon jubatus
+Caloprymnus campestris Desert Rat-kangaroo
 
-<!-- marginal: Golden-capped Fruit Bat -->
+<!-- marginal: Pteropodidae -->
 
-(Kluang, flying foxes) Pteropus insularis
+Acerodon jubatus Golden-capped Fruit Bat
 
-<!-- marginal: Chuuk Flying-fox -->
+<!-- marginal: (Kluang, flying foxes) -->
 
-Pteropus loochoensis
+Pteropus insularis Chuuk Flying-fox Pteropus loochoensis Japanese Flying-fox Pteropus mariannus Marianas Flying-fox Pteropus molossinus Rodrigues Flying-fox Pteropus pelewensis Palau Flying-fox Pteropus pilosus Large Palau Flying-fox Pteropus samoensis Samoan Flying-fox Pteropus tonganus Insular Flying-fox Pteropus ualanus Kosrae Flying-fox Pteropus yapensis Yap Flying-fox
 
-<!-- marginal: Japanese Flying-fox -->
+<!-- marginal: Rhinocerotidae -->
 
-Pteropus mariannus
+Dicerorhinus sumatrensis Badak Sumatra
 
-<!-- marginal: Marianas Flying-fox -->
+<!-- marginal: (Badak) -->
 
-Pteropus molossinus
+Rhinoceros sondaicus Badak Raya Ceratotherum simum simum Southern Square-lipped Rhinoceros (kecuali populasi Afrika Selatan dan Swaziland yang termasuk dalam Jadual Pertama) Ceratotherum simum cottoni Northern Square-lipped Rhinoceros Diceros bicornis Black Rhinoceros Rhinoceros unicornis Great Indian Rhinoceros Rhinoceros Rhinocerotidae spp.
 
-<!-- marginal: Rodrigues Flying-fox -->
+<!-- marginal: Sciuridae -->
 
-Pteropus pelewensis
+Aeromys tephromelas Tupai Terbang Hitam
 
-<!-- marginal: Palau Flying-fox -->
+<!-- marginal: (Ground squirrels, tree -->
 
-Pteropus pilosus
+Callosciurus prevostii Tupai Gading
 
-<!-- marginal: Large Palau Flying-fox -->
+<!-- marginal: squirrels) -->
 
-Pteropus samoensis
-
-<!-- marginal: Samoan Flying-fox -->
-
-Pteropus tonganus
-
-<!-- marginal: Insular Flying-fox -->
-
-Pteropus ualanus
-
-<!-- marginal: Kosrae Flying-fox -->
-
-Pteropus yapensis
-
-<!-- marginal: Yap Flying-fox -->
-
-Rhinocerotidae Dicerorhinus sumatrensis
-
-<!-- marginal: Badak Sumatra -->
-
-(Badak) Rhinoceros sondaicus
-
-<!-- marginal: Badak Raya -->
-
-Ceratotherum simum simum
-
-<!-- marginal: Southern Square-lipped -->
-
-<!-- marginal: Rhinoceros -->
-
-(kecuali populasi Afrika Selatan dan Swaziland yang termasuk dalam Jadual Pertama) Ceratotherum simum cottoni
-
-<!-- marginal: Northern Square-lipped -->
-
-<!-- marginal: Rhinoceros -->
-
-Diceros bicornis
-
-<!-- marginal: Black Rhinoceros -->
-
-Rhinoceros unicornis
-
-<!-- marginal: Great Indian Rhinoceros -->
-
-<!-- marginal: Rhinoceros -->
-
-Rhinocerotidae spp. Sciuridae Aeromys tephromelas
-
-<!-- marginal: Tupai Terbang Hitam -->
-
-(Ground squirrels, tree Callosciurus prevostii
-
-<!-- marginal: Tupai Gading -->
-
-squirrels) Hylopetes lepidus
-
-<!-- marginal: Grey-cheeked Flying -->
-
-<!-- marginal: Squirrel -->
-
-Hylopetes spadiceus
-
-<!-- marginal: Red-cheeked Flying -->
-
-<!-- marginal: Squirrel -->
-
-Iomys horsfieldii
-
-<!-- marginal: Horsfield’s Flying Squirrel -->
-
-Petaurillus kinlochii
-
-<!-- marginal: Selangor Pygmy Flying -->
-
-<!-- marginal: Squirrel -->
-
-Petaurista elegans
-
-<!-- marginal: Spotted Giant Flying -->
-
-<!-- marginal: Squirrel -->
-
-Petaurista petaurista
-
-<!-- marginal: Red Giant Flying Squirrel -->
-
-Petinomys genibarbis
-
-<!-- marginal: Whiskered Flying Squirrel -->
-
-Petinomys setosus
-
-<!-- marginal: Temminck’s Flying Squirrel -->
+Hylopetes lepidus Grey-cheeked Flying Squirrel Hylopetes spadiceus Red-cheeked Flying Squirrel Iomys horsfieldii Horsfield’s Flying Squirrel Petaurillus kinlochii Selangor Pygmy Flying Squirrel Petaurista elegans Spotted Giant Flying Squirrel Petaurista petaurista Red Giant Flying Squirrel Petinomys genibarbis Whiskered Flying Squirrel Petinomys setosus Temminck’s Flying Squirrel
 
 <!-- page 111 -->
 
@@ -6494,1559 +4858,319 @@ Prionodon pardicolor
 
 <!-- page 112 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
+Nama Saintifik Nama Biasa
 
-Vombatidae Lasiorhinus krefftii
+<!-- marginal: Vombatidae -->
 
-<!-- marginal: Northern Hairy-nosed -->
+Lasiorhinus krefftii Northern Hairy-nosed
 
-(Northern hairy-nosed
+<!-- marginal: (Northern hairy-nosed -->
 
-<!-- marginal: Wombat -->
+Wombat
 
-wombat)
+<!-- marginal: wombat) -->
 
 ### KELAS AvES (BURUNG)
 
-Accipitridae Accipiter badius
+<!-- marginal: Accipitridae -->
 
-<!-- marginal: Shikra Goshawk -->
+Accipiter badius Shikra Goshawk
 
-(Hawks, Eagles) Accipiter gularis
+<!-- marginal: (Hawks, Eagles) -->
 
-<!-- marginal: Japanese Sparrowhawk -->
-
-Accipiter soloensis
-
-<!-- marginal: Chinese Goshawk -->
-
-Accipiter trivirgatus
-
-<!-- marginal: Crested Goshawk -->
-
-Accipiter virgatus
-
-<!-- marginal: Besra -->
-
-Aegypius monachus
-
-<!-- marginal: Cinereous Vulture -->
-
-Aquila clanga
-
-<!-- marginal: Greater Spotted Eagle -->
-
-Aquila heliaca
-
-<!-- marginal: Imperial Eagle -->
-
-Aquila nipalensis
-
-<!-- marginal: Steppe Eagle -->
-
-Aviceda jerdoni
-
-<!-- marginal: Jerdon’s Baza -->
-
-Aviceda leuphotes
-
-<!-- marginal: Black Baza -->
-
-Butastur indicus
-
-<!-- marginal: Grey-faced Buzzard-Eagle -->
-
-Buteo buteo
-
-<!-- marginal: Common Buzzard -->
-
-Circaetus gallicus
-
-<!-- marginal: Short-toed Eagle -->
-
-Circus aeruginosus
-
-<!-- marginal: Western Marsh Harrier -->
-
-Circus cyaneus
-
-<!-- marginal: Northern harrier -->
-
-Circus melanoeucos
-
-<!-- marginal: Pied Harrier -->
-
-Circus spilonotus
-
-<!-- marginal: Eastern Marsh-Harrier -->
-
-Elanus caerulens
-
-<!-- marginal: Black-shouldered Kite -->
-
-Gyps bengalensis
-
-<!-- marginal: White-rumped Vulture -->
-
-Gyps himalayansis
-
-<!-- marginal: Himalayan Griffon -->
-
-Gyps indicus
-
-<!-- marginal: Long-billed Vulture -->
-
-Haliaeetus leucogaster
-
-<!-- marginal: Lang Siput -->
-
-Haliastur indus
-
-<!-- marginal: Lang Merah -->
-
-Hiraaetus kieneri
-
-<!-- marginal: Rufous-bellied Hawk-eagle -->
-
-Hiraaetus pennatus
-
-<!-- marginal: Booted Hawk-eagle -->
-
-Ichthyophaga humilis
-
-<!-- marginal: Lesser Fish Eagle -->
-
-Ichthyophaga ichthyaetus
-
-<!-- marginal: Lang Kepala Kelabu -->
-
-Ictinaetus malayensis
-
-<!-- marginal: Lang Hitam -->
-
-Machearhamphus alcinus
-
-<!-- marginal: Bat Hawk -->
-
-Milvus migrans
-
-<!-- marginal: Black-eared Kite -->
-
-Pernis ptylorhynchus
-
-<!-- marginal: Crested Honey Buzzard -->
-
-Sarcogyps calvus
-
-<!-- marginal: Red-Headed Vulture -->
-
-Spilornis cheela
-
-<!-- marginal: Lang Berjambul -->
-
-Spilornis kinabaluensis
-
-<!-- marginal: Mountain Serpent-eagle -->
+Accipiter gularis Japanese Sparrowhawk Accipiter soloensis Chinese Goshawk Accipiter trivirgatus Crested Goshawk Accipiter virgatus Besra Aegypius monachus Cinereous Vulture Aquila clanga Greater Spotted Eagle Aquila heliaca Imperial Eagle Aquila nipalensis Steppe Eagle Aviceda jerdoni Jerdon’s Baza Aviceda leuphotes Black Baza Butastur indicus Grey-faced Buzzard-Eagle Buteo buteo Common Buzzard Circaetus gallicus Short-toed Eagle Circus aeruginosus Western Marsh Harrier Circus cyaneus Northern harrier Circus melanoeucos Pied Harrier Circus spilonotus Eastern Marsh-Harrier Elanus caerulens Black-shouldered Kite Gyps bengalensis White-rumped Vulture Gyps himalayansis Himalayan Griffon Gyps indicus Long-billed Vulture Haliaeetus leucogaster Lang Siput Haliastur indus Lang Merah Hiraaetus kieneri Rufous-bellied Hawk-eagle Hiraaetus pennatus Booted Hawk-eagle Ichthyophaga humilis Lesser Fish Eagle Ichthyophaga ichthyaetus Lang Kepala Kelabu Ictinaetus malayensis Lang Hitam Machearhamphus alcinus Bat Hawk Milvus migrans Black-eared Kite Pernis ptylorhynchus Crested Honey Buzzard Sarcogyps calvus Red-Headed Vulture Spilornis cheela Lang Berjambul Spilornis kinabaluensis Mountain Serpent-eagle
 
 <!-- page 113 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
-
-Spizaetus alboniger
-
-<!-- marginal: Blythe’s Hawk-eagle -->
-
-Spizaetus cirrhatus
-
-<!-- marginal: Lang Hindek -->
-
-Spizaetus nanus
-
-<!-- marginal: Lang Selat -->
-
-Spizaetus nipalensis
-
-<!-- marginal: Mountain Hawk-eagle -->
-
-<!-- marginal: Goshawk -->
-
-Accipiter spp. Aquila adalberti
-
-<!-- marginal: Adalbert’s Eagle -->
-
-Aquila spp.
-
-<!-- marginal: Helang -->
-
-Asturina nitida
-
-<!-- marginal: Grey-lined Hawk -->
-
-<!-- marginal: Cuckoo-hawks -->
-
-Aviceda spp. Busarellus nigricollis
-
-<!-- marginal: Black-collared Hawk -->
-
-<!-- marginal: Buzzard -->
-
-Butastur spp.
-
-<!-- marginal: Common Buzzard -->
-
-Buteo spp.
-
-<!-- marginal: Great Black-hawks -->
-
-Buteogallus spp. Chelictinia riocourii
-
-<!-- marginal: African Swallow-tailed Kite -->
-
-<!-- marginal: Kite -->
-
-Chondrohierax spp. Chondrohierax uncinatus
-
-<!-- marginal: Cuban Hook-billed Kite -->
-
-wilsonii
-
-<!-- marginal: Snake Eagles -->
-
-Circaetus spp. Circus spp. Dryotriorchis spectabilis
-
-<!-- marginal: African Serpent-eagle -->
-
-Elanoides forficatus
-
-<!-- marginal: Swallow-tailed Kite -->
-
-<!-- marginal: Kite -->
-
-Elanus spp. Erythrotriorchis buergersi
-
-<!-- marginal: Chestnut-shouldered Hawk -->
-
-Erythrotriorchis radiatus
-
-<!-- marginal: Red Goshawk -->
-
-Eutriorchis astur
-
-<!-- marginal: Madagascar Serpent-eagle -->
-
-Gampsonyx swainsonii
-
-<!-- marginal: Pearl Kite -->
-
-Geranoaetus melanoleucus
-
-<!-- marginal: Black-chested Buzzard- -->
-
-<!-- marginal: eagle -->
-
-Geranospiza caerulescens
-
-<!-- marginal: Crane Hawk -->
-
-Gypaetus barbatus
-
-<!-- marginal: Bearded Vulture -->
-
-Gypohierax angolensis
-
-<!-- marginal: Vulturine Fish-eagle -->
-
-<!-- marginal: Vultures -->
-
-Gyps spp. Haliaeetus albicilla
-
-<!-- marginal: Grey Sea-eagle -->
-
-<!-- marginal: Sea-eagle -->
-
-Haliaeetus spp. Haliastur sphenurus
-
-<!-- marginal: Whistling Eagle -->
-
-Hamirostra melanosternon
-
-<!-- marginal: Black-breasted Buzzard -->
-
-<!-- marginal: Kite -->
-
-Harpagus bidentatus
-
-<!-- marginal: Black-breasted Buzzard -->
-
-<!-- marginal: Kite -->
-
-Harpagus diodon
-
-<!-- marginal: Rufous-thighed Kite -->
-
-Harpia harpyja
-
-<!-- marginal: Harpy Eagle -->
+Nama Saintifik Nama Biasa Spizaetus alboniger Blythe’s Hawk-eagle Spizaetus cirrhatus Lang Hindek Spizaetus nanus Lang Selat Spizaetus nipalensis Mountain Hawk-eagle Goshawk Accipiter spp. Aquila adalberti Adalbert’s Eagle Aquila spp. Helang Asturina nitida Grey-lined Hawk Cuckoo-hawks Aviceda spp. Busarellus nigricollis Black-collared Hawk Buzzard Butastur spp. Common Buzzard Buteo spp. Great Black-hawks Buteogallus spp. Chelictinia riocourii African Swallow-tailed Kite Kite Chondrohierax spp. Chondrohierax uncinatus Cuban Hook-billed Kite wilsonii Snake Eagles Circaetus spp. Circus spp. Dryotriorchis spectabilis African Serpent-eagle Elanoides forficatus Swallow-tailed Kite Kite Elanus spp. Erythrotriorchis buergersi Chestnut-shouldered Hawk Erythrotriorchis radiatus Red Goshawk Eutriorchis astur Madagascar Serpent-eagle Gampsonyx swainsonii Pearl Kite Geranoaetus melanoleucus Black-chested Buzzard- eagle Geranospiza caerulescens Crane Hawk Gypaetus barbatus Bearded Vulture Gypohierax angolensis Vulturine Fish-eagle Vultures Gyps spp. Haliaeetus albicilla Grey Sea-eagle Sea-eagle Haliaeetus spp. Haliastur sphenurus Whistling Eagle Hamirostra melanosternon Black-breasted Buzzard Kite Harpagus bidentatus Black-breasted Buzzard Kite Harpagus diodon Rufous-thighed Kite Harpia harpyja Harpy Eagle
 
 <!-- page 114 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
+Nama Saintifik Nama Biasa Harpyhaliaetus spp. Lang Henicopernis infuscatus Black Honey-buzzard Henicopernis longicauda Long-tailed Honey-buzzard Hawk-eagles Hieraaetus spp. Ictnia mississippiensis Mississippi Kite Ictnia plumbea Plumbeous Kite Kaupifalco monogrammicus Lizard Buzzard Leptodon cayanensis Grey-headed Kite Hawks Leucopternis spp. Lophaetus occipitalis Long-crested Eagle Lophoictinia isura Square-tailed Kite Megatriorchis doriae Doria’s Goshawk Goshawk Melierax spp. Kite Milvus spp. Morphnus guianensis Lang Berjambul Necrosyrtes monachus Hooded Vulture Neophron percnopterus Egyptian Vulture Oroaetus isidori Black and Chestnut Eagle Parabuteo unicinctus Bay-winged Hawk Buzzard Pernis spp. Pithecophaga jefferyi Great Philippine Eagle Polemaetus bellicosus Martial Eagle Polyboroides radiatus Madagascar Gymnogene Polyboroides typus African Gymnogene Rostrhamus hamatus Slender-billed Kite Rostrhamus sociabilis Snail Kite Eagle Spilornis spp. Hawk-eagle Spizaetus spp. Stephanoaetus coronatus African Crowned Eagle Terathopius ecaudatus Bateleur Eagle Torgos tracheliotus Lappet-faced Vulture Trigonoceps occipitalis White-headed Vulture Urotriorchis macrourus African Long-tailed Hawk
 
-Harpyhaliaetus spp.
+<!-- marginal: Alaudidae -->
 
-<!-- marginal: Lang -->
+Alauda gulgula Oriental Skylark
 
-Henicopernis infuscatus
+<!-- marginal: (Skylark) -->
 
-<!-- marginal: Black Honey-buzzard -->
+<!-- marginal: Alcedinidae -->
 
-Henicopernis longicauda
+Alcedo atthis Pekaka Cit-Cit Kecil
 
-<!-- marginal: Long-tailed Honey-buzzard -->
+<!-- marginal: (Pekaka) -->
 
-<!-- marginal: Hawk-eagles -->
-
-Hieraaetus spp. Ictnia mississippiensis
-
-<!-- marginal: Mississippi Kite -->
-
-Ictnia plumbea
-
-<!-- marginal: Plumbeous Kite -->
-
-Kaupifalco monogrammicus
-
-<!-- marginal: Lizard Buzzard -->
-
-Leptodon cayanensis
-
-<!-- marginal: Grey-headed Kite -->
-
-<!-- marginal: Hawks -->
-
-Leucopternis spp. Lophaetus occipitalis
-
-<!-- marginal: Long-crested Eagle -->
-
-Lophoictinia isura
-
-<!-- marginal: Square-tailed Kite -->
-
-Megatriorchis doriae
-
-<!-- marginal: Doria’s Goshawk -->
-
-<!-- marginal: Goshawk -->
-
-Melierax spp.
-
-<!-- marginal: Kite -->
-
-Milvus spp. Morphnus guianensis
-
-<!-- marginal: Lang Berjambul -->
-
-Necrosyrtes monachus
-
-<!-- marginal: Hooded Vulture -->
-
-Neophron percnopterus
-
-<!-- marginal: Egyptian Vulture -->
-
-Oroaetus isidori
-
-<!-- marginal: Black and Chestnut Eagle -->
-
-Parabuteo unicinctus
-
-<!-- marginal: Bay-winged Hawk -->
-
-<!-- marginal: Buzzard -->
-
-Pernis spp. Pithecophaga jefferyi
-
-<!-- marginal: Great Philippine Eagle -->
-
-Polemaetus bellicosus
-
-<!-- marginal: Martial Eagle -->
-
-Polyboroides radiatus
-
-<!-- marginal: Madagascar Gymnogene -->
-
-Polyboroides typus
-
-<!-- marginal: African Gymnogene -->
-
-Rostrhamus hamatus
-
-<!-- marginal: Slender-billed Kite -->
-
-Rostrhamus sociabilis
-
-<!-- marginal: Snail Kite -->
-
-<!-- marginal: Eagle -->
-
-Spilornis spp.
-
-<!-- marginal: Hawk-eagle -->
-
-Spizaetus spp. Stephanoaetus coronatus
-
-<!-- marginal: African Crowned Eagle -->
-
-Terathopius ecaudatus
-
-<!-- marginal: Bateleur Eagle -->
-
-Torgos tracheliotus
-
-<!-- marginal: Lappet-faced Vulture -->
-
-Trigonoceps occipitalis
-
-<!-- marginal: White-headed Vulture -->
-
-Urotriorchis macrourus
-
-<!-- marginal: African Long-tailed Hawk -->
-
-Alaudidae Alauda gulgula
-
-<!-- marginal: Oriental Skylark -->
-
-(Skylark) Alcedinidae Alcedo atthis
-
-<!-- marginal: Pekaka Cit-Cit Kecil -->
-
-(Pekaka) Alcedo euryzona
-
-<!-- marginal: Pekaka Bukit -->
-
-Alcedo meninting
-
-<!-- marginal: Pekaka Bintek-Bintek -->
-
-Ceyx erithacus
-
-<!-- marginal: Pekaka Rimba -->
-
-Halcyon chloris
-
-<!-- marginal: Pekaka Sungai -->
+Alcedo euryzona Pekaka Bukit Alcedo meninting Pekaka Bintek-Bintek Ceyx erithacus Pekaka Rimba Halcyon chloris Pekaka Sungai
 
 <!-- page 115 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
+Nama Saintifik Nama Biasa Halcyon coromanda Pekaka Belacan Halcyon pileata Pekaka Kopiah Hitam Halcyon smyrnensis Pekaka Belukar Lacedo pulchella Pekaka Riang Rimba Pelargopsis amauroptera Pekaka Sayap Kelabu Pelargopsis capensis Stork-billed Kingfisher Todiramphus sanctus Sacred Kingfisher Actenoides concretus Pekaka Rimba Besar
 
-Halcyon coromanda
+<!-- marginal: Anatidae -->
 
-<!-- marginal: Pekaka Belacan -->
+Anas acuta Northern Pintail
 
-Halcyon pileata
+<!-- marginal: (Itik, Angsa,Swans) -->
 
-<!-- marginal: Pekaka Kopiah Hitam -->
+Anas clypeata Shoveller Anas crecca Common Teal Anas penelope Eurasian Wigeon Anas platyrhynchos Mallard Anas querquedula Garganey Teal Aythya fuligula Tufted duck Cairina scutulata White-winged Wood Duck Dendrocygna arcuata Wandering Whistling Duck Dendrocygna javanica Belibis Nettapus coromandelianus Cotton Teal Anas aucklandica Brown Teal Anas laysanensis Laysan Duck Anas oustaleti Marianas Island Duck Branta canadensis leucopareia Aleutian Canada Goose Branta sandvicensis Hawaiian Goose Rhodonessa caryophyllacea Pink-headed Duck
 
-Halcyon smyrnensis
+<!-- marginal: Anhingidae -->
 
-<!-- marginal: Pekaka Belukar -->
+Anhinga melanogaster Oriental Darter
 
-Lacedo pulchella
+<!-- marginal: (Darters) -->
 
-<!-- marginal: Pekaka Riang Rimba -->
+<!-- marginal: Apodidae -->
 
-Pelargopsis amauroptera
+Aerodramus brevirosrtris Layang-Layang Himalaya
 
-<!-- marginal: Pekaka Sayap Kelabu -->
+<!-- marginal: (Layang-Layang) -->
 
-Pelargopsis capensis
+Aerodramus salanganus Mossy-nest Swiftlet Apus affinis Layang-Layang Rumah Apus pacificus Layang-Layang Ekor Cabang Cypsiurus balasiensis Layang-Layang Asia Hirundapus caudacutus White-throated Needletail Hirundapus cochinchinensis White-vented Needletail Hirundapus giganteus Layang-Layang Besar Hydrochous gigas Waterfall Swiftlet Raphidura leucopygialis Silver-rumped Needletail
 
-<!-- marginal: Stork-billed Kingfisher -->
+<!-- marginal: Ardeidae -->
 
-Todiramphus sanctus
+Ardea cinerea Pucong Seriap
 
-<!-- marginal: Sacred Kingfisher -->
+<!-- marginal: (Bangau, Pucong) -->
 
-Actenoides concretus
-
-<!-- marginal: Pekaka Rimba Besar -->
-
-Anatidae Anas acuta
-
-<!-- marginal: Northern Pintail -->
-
-(Itik, Angsa,Swans) Anas clypeata
-
-<!-- marginal: Shoveller -->
-
-Anas crecca
-
-<!-- marginal: Common Teal -->
-
-Anas penelope
-
-<!-- marginal: Eurasian Wigeon -->
-
-Anas platyrhynchos
-
-<!-- marginal: Mallard -->
-
-Anas querquedula
-
-<!-- marginal: Garganey Teal -->
-
-Aythya fuligula
-
-<!-- marginal: Tufted duck -->
-
-Cairina scutulata
-
-<!-- marginal: White-winged Wood Duck -->
-
-Dendrocygna arcuata
-
-<!-- marginal: Wandering Whistling Duck -->
-
-Dendrocygna javanica
-
-<!-- marginal: Belibis -->
-
-Nettapus coromandelianus
-
-<!-- marginal: Cotton Teal -->
-
-Anas aucklandica
-
-<!-- marginal: Brown Teal -->
-
-Anas laysanensis
-
-<!-- marginal: Laysan Duck -->
-
-Anas oustaleti
-
-<!-- marginal: Marianas Island Duck -->
-
-Branta canadensis leucopareia
-
-<!-- marginal: Aleutian Canada Goose -->
-
-Branta sandvicensis
-
-<!-- marginal: Hawaiian Goose -->
-
-Rhodonessa caryophyllacea
-
-<!-- marginal: Pink-headed Duck -->
-
-Anhingidae Anhinga melanogaster
-
-<!-- marginal: Oriental Darter -->
-
-(Darters) Apodidae Aerodramus brevirosrtris
-
-<!-- marginal: Layang-Layang Himalaya -->
-
-(Layang-Layang) Aerodramus salanganus
-
-<!-- marginal: Mossy-nest Swiftlet -->
-
-Apus affinis
-
-<!-- marginal: Layang-Layang Rumah -->
-
-Apus pacificus
-
-<!-- marginal: Layang-Layang Ekor -->
-
-<!-- marginal: Cabang -->
-
-Cypsiurus balasiensis
-
-<!-- marginal: Layang-Layang Asia -->
-
-Hirundapus caudacutus
-
-<!-- marginal: White-throated Needletail -->
-
-Hirundapus cochinchinensis
-
-<!-- marginal: White-vented Needletail -->
-
-Hirundapus giganteus
-
-<!-- marginal: Layang-Layang Besar -->
-
-Hydrochous gigas
-
-<!-- marginal: Waterfall Swiftlet -->
-
-Raphidura leucopygialis
-
-<!-- marginal: Silver-rumped Needletail -->
-
-Ardeidae Ardea cinerea
-
-<!-- marginal: Pucong Seriap -->
-
-(Bangau, Pucong) Ardea purpurea
-
-<!-- marginal: Pucong Serandau -->
+Ardea purpurea Pucong Serandau
 
 <!-- page 116 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
+Nama Saintifik Nama Biasa Ardea sumatrana Pucong Lembu Ardeola bacchus Pucong Cina Ardeola grayii Pucong Bakau Ardeola speciosa Pucong Jawa Botaurus stellaris Pucong Danau Bubulcus ibis Bangau Kendi Casmerodius albus Bangau Besar Egretta eulophotes Bangau Cina Egretta garzetta Bangau Kecil Egretta sacra Bangau Batu Gorsachius melanolophus Pucong Rimau Ixorbrychus cinnamomeus Pucong Bendang Ixorbrychus eurhythmus Pucong Gelam Ixorbrychus flavicollis Pucong Hitam Ixorbrychus sinensis Pucong Merah Mesophoyx intermedia Bangau Kerbau Nycticorax caledonicus Pucong Kelabu Nycticorax nycticorax Pucong Kuak
 
-Ardea sumatrana
+<!-- marginal: Atrichornithidae -->
 
-<!-- marginal: Pucong Lembu -->
+Atrichornis clamosus Noisy Scrub-bird
 
-Ardeola bacchus
+<!-- marginal: (Scrub-bird) -->
 
-<!-- marginal: Pucong Cina -->
+<!-- marginal: Batrachostomidae -->
 
-Ardeola grayii
+Batrachostomus auritus Large Frogmouth
 
-<!-- marginal: Pucong Bakau -->
+<!-- marginal: (Frogmouth) -->
 
-Ardeola speciosa
+Batrachostomus cornutus Sunda Frogmouth Batrachostomus harterti Dulit Frogmouth Batrachostomus javensis Javan Frogmouth Batrachostomus poliolophus Short-tailed Frogmouth Batrachostomus stellatus Gould’s Frogmouth
 
-<!-- marginal: Pucong Jawa -->
+<!-- marginal: Bucerotidae -->
 
-Botaurus stellaris
+Aceros corrugates Enggang Berkedut
 
-<!-- marginal: Pucong Danau -->
+<!-- marginal: (Enggang) -->
 
-Bubulcus ibis
-
-<!-- marginal: Bangau Kendi -->
-
-Casmerodius albus
-
-<!-- marginal: Bangau Besar -->
-
-Egretta eulophotes
-
-<!-- marginal: Bangau Cina -->
-
-Egretta garzetta
-
-<!-- marginal: Bangau Kecil -->
-
-Egretta sacra
-
-<!-- marginal: Bangau Batu -->
-
-Gorsachius melanolophus
-
-<!-- marginal: Pucong Rimau -->
-
-Ixorbrychus cinnamomeus
-
-<!-- marginal: Pucong Bendang -->
-
-Ixorbrychus eurhythmus
-
-<!-- marginal: Pucong Gelam -->
-
-Ixorbrychus flavicollis
-
-<!-- marginal: Pucong Hitam -->
-
-Ixorbrychus sinensis
-
-<!-- marginal: Pucong Merah -->
-
-Mesophoyx intermedia
-
-<!-- marginal: Bangau Kerbau -->
-
-Nycticorax caledonicus
-
-<!-- marginal: Pucong Kelabu -->
-
-Nycticorax nycticorax
-
-<!-- marginal: Pucong Kuak -->
-
-Atrichornithidae Atrichornis clamosus
-
-<!-- marginal: Noisy Scrub-bird -->
-
-(Scrub-bird) Batrachostomidae Batrachostomus auritus
-
-<!-- marginal: Large Frogmouth -->
-
-(Frogmouth) Batrachostomus cornutus
-
-<!-- marginal: Sunda Frogmouth -->
-
-Batrachostomus harterti
-
-<!-- marginal: Dulit Frogmouth -->
-
-Batrachostomus javensis
-
-<!-- marginal: Javan Frogmouth -->
-
-Batrachostomus poliolophus
-
-<!-- marginal: Short-tailed Frogmouth -->
-
-Batrachostomus stellatus
-
-<!-- marginal: Gould’s Frogmouth -->
-
-Bucerotidae Aceros corrugates
-
-<!-- marginal: Enggang Berkedut -->
-
-(Enggang) Rhyticeros subruficollis
-
-<!-- marginal: Enggang Belantara -->
-
-Rhyticeros undulatus
-
-<!-- marginal: Enggang Gunong -->
-
-Anorrhinus galeritus
-
-<!-- marginal: Enggang Belukar -->
-
-Anthracoceros albirostris
-
-<!-- marginal: Enggang Belulang -->
-
-Anthracoceros coronatus
-
-<!-- marginal: Pied Hornbill -->
-
-Anthracoceros malayanus
-
-<!-- marginal: Enggang Gatal Birah -->
-
-Buceros bicornis
-
-<!-- marginal: Enggang Papan -->
-
-Buceros rhinoceros
-
-<!-- marginal: Enggang Lilin,Enggang -->
-
-<!-- marginal: Badak -->
-
-Buceros vigil
-
-<!-- marginal: Helmeted Hornbill -->
-
-Berenicornis comatus
-
-<!-- marginal: Enggang Jambul Putih -->
-
-Rhynoplax vigil
-
-<!-- marginal: Enggang Tebang Mentua -->
-
-Aceros nipalensis
-
-<!-- marginal: Enggang Dahan -->
+Rhyticeros subruficollis Enggang Belantara Rhyticeros undulatus Enggang Gunong Anorrhinus galeritus Enggang Belukar Anthracoceros albirostris Enggang Belulang Anthracoceros coronatus Pied Hornbill Anthracoceros malayanus Enggang Gatal Birah Buceros bicornis Enggang Papan Buceros rhinoceros Enggang Lilin,Enggang Badak Buceros vigil Helmeted Hornbill Berenicornis comatus Enggang Jambul Putih Rhynoplax vigil Enggang Tebang Mentua Aceros nipalensis Enggang Dahan
 
 <!-- page 117 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
+Nama Saintifik Nama Biasa Hornbill Aceros spp. Hornbill Anorrhinus spp. Anthracoceros convexus Enggang Kelingking Hornbill Anthracoceros spp. Hornbill Buceros spp. Tarictic hornbill Penelopides spp.
 
-<!-- marginal: Hornbill -->
+<!-- marginal: Burhinidae -->
 
-Aceros spp.
+Esacus magnirostris Sisir Air
 
-<!-- marginal: Hornbill -->
+<!-- marginal: (Sisir) -->
 
-Anorrhinus spp. Anthracoceros convexus
+<!-- marginal: Cacatuidae -->
 
-<!-- marginal: Enggang Kelingking -->
+Cacatua goffini Goffin’s Cockatoo
 
-<!-- marginal: Hornbill -->
+<!-- marginal: (Kakak tua) -->
 
-Anthracoceros spp.
+Cacatua haematuropygia Philippine Cockatoo Cacatua moluccensis Moluccan Cockatoo Cacatua sulphurea Yellow-crested Cockatoo Probosciger aterrimus Palm Cockatoo
 
-<!-- marginal: Hornbill -->
+<!-- marginal: Campephagidae -->
 
-Buceros spp.
+Coracina fimbriata Sewah Kecil
 
-<!-- marginal: Tarictic hornbill -->
+<!-- marginal: (Sewah) -->
 
-Penelopides spp. Burhinidae Esacus magnirostris
+Coracina javensis Sewah Besar Coracina larvata Sewah Sunda Coracina striata Sewah Rimba Hemipus hirundinaceus Rembah Batu Hemipus picatus Rembah Bukit Lalage nigra Sewah Kapas Pericrocotus divaricatus Mas Padang Pericrocotus flammeus Mas Belukar Pericrocotus igneus Fiery Minivet Pericrocotus solaris Grey-chinned Minivet Tephrodornis gularis Rembah Kayu Besar
 
-<!-- marginal: Sisir Air -->
+<!-- marginal: Caprimulgidae -->
 
-(Sisir) Cacatuidae Cacatua goffini
+Caprimulgus affinis Savanah Nightjar
 
-<!-- marginal: Goffin’s Cockatoo -->
+<!-- marginal: (Nighthawks, Nightjars) -->
 
-(Kakak tua) Cacatua haematuropygia
+Caprimulgus concretus Bonarparte’s Nightjar Caprimulgus indicus Tukang Kelabu, Tukang Hutan Caprimulgus macrurus Tukang Kubur Eurostopodus temminckii Malaysian Eared Nightjar Eurostopodus macrotis Giant Eared Nightjar
 
-<!-- marginal: Philippine Cockatoo -->
+<!-- marginal: Cathartidae -->
 
-Cacatua moluccensis
+Gymnogyps californianus California Condor
 
-<!-- marginal: Moluccan Cockatoo -->
+<!-- marginal: (New world vultures) -->
 
-Cacatua sulphurea
+Vultur gryphus Andean Condor
 
-<!-- marginal: Yellow-crested Cockatoo -->
+<!-- marginal: Charadriidae -->
 
-Probosciger aterrimus
+Charadrius alexandrinus Rapang Rantai, Kedidi
 
-<!-- marginal: Palm Cockatoo -->
+<!-- marginal: (Kedidi) -->
 
-Campephagidae Coracina fimbriata
-
-<!-- marginal: Sewah Kecil -->
-
-(Sewah) Coracina javensis
-
-<!-- marginal: Sewah Besar -->
-
-Coracina larvata
-
-<!-- marginal: Sewah Sunda -->
-
-Coracina striata
-
-<!-- marginal: Sewah Rimba -->
-
-Hemipus hirundinaceus
-
-<!-- marginal: Rembah Batu -->
-
-Hemipus picatus
-
-<!-- marginal: Rembah Bukit -->
-
-Lalage nigra
-
-<!-- marginal: Sewah Kapas -->
-
-Pericrocotus divaricatus
-
-<!-- marginal: Mas Padang -->
-
-Pericrocotus flammeus
-
-<!-- marginal: Mas Belukar -->
-
-Pericrocotus igneus
-
-<!-- marginal: Fiery Minivet -->
-
-Pericrocotus solaris
-
-<!-- marginal: Grey-chinned Minivet -->
-
-Tephrodornis gularis
-
-<!-- marginal: Rembah Kayu Besar -->
-
-Caprimulgidae Caprimulgus affinis
-
-<!-- marginal: Savanah Nightjar -->
-
-(Nighthawks, Nightjars) Caprimulgus concretus
-
-<!-- marginal: Bonarparte’s Nightjar -->
-
-Caprimulgus indicus
-
-<!-- marginal: Tukang Kelabu, Tukang -->
-
-<!-- marginal: Hutan -->
-
-Caprimulgus macrurus
-
-<!-- marginal: Tukang Kubur -->
-
-Eurostopodus temminckii
-
-<!-- marginal: Malaysian Eared Nightjar -->
-
-Eurostopodus macrotis
-
-<!-- marginal: Giant Eared Nightjar -->
-
-Cathartidae Gymnogyps californianus
-
-<!-- marginal: California Condor -->
-
-(New world vultures) Vultur gryphus
-
-<!-- marginal: Andean Condor -->
-
-Charadriidae Charadrius alexandrinus
-
-<!-- marginal: Rapang Rantai, Kedidi -->
-
-(Kedidi)
-
-<!-- marginal: Pantai -->
-
-Charadrius dubius
-
-<!-- marginal: Rapang Biji Nangka -->
-
-Charadrius hiaticula
-
-<!-- marginal: Rapang Gelang -->
-
-Charadrius leschenaultii
-
-<!-- marginal: Rapang Besar -->
-
-Charadrius mongolus
-
-<!-- marginal: Rapang Mongolia, Rapang -->
-
-<!-- marginal: Kecil -->
+Pantai Charadrius dubius Rapang Biji Nangka Charadrius hiaticula Rapang Gelang Charadrius leschenaultii Rapang Besar Charadrius mongolus Rapang Mongolia, Rapang Kecil
 
 <!-- page 118 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
+Nama Saintifik Nama Biasa Charadrius peronii Rapang Pasir Charadrius placidus Rapang Paruh Panjang Charadrius veredus Rapang Timur Pluvialis fulva Pacific Golden Plover Pluvialis squatarola Rapang Kelabu Vanellus cinereus Rapang Kepala Kelabu Vanellus indicus Rapang Duit Vanellus malabaricus Rapang Balung Kuning
 
-Charadrius peronii
+<!-- marginal: Chloropseidae -->
 
-<!-- marginal: Rapang Pasir -->
+Aegithina lafresnayei Great Iora
 
-Charadrius placidus
+<!-- marginal: (Leafbirds) -->
 
-<!-- marginal: Rapang Paruh Panjang -->
+Aegithina tiphia Common Iora Aegithina viridissima Kunyit Bakau Chloropsis cochinchinensis Blue-winged Leafbird Chloropsis cyanopogon Lesser Green Leafbird Chloropsis hardwickii Orange-bellied Leafbird Chloropsis kinabaluensis Kinabalu Leafbird Chloropsis sonnerati Greater Green Leafbird
 
-Charadrius veredus
+<!-- marginal: Ciconiidae -->
 
-<!-- marginal: Rapang Timur -->
+Ciconia episcopus White-necked Stork
 
-Pluvialis fulva
+<!-- marginal: (Botak) -->
 
-<!-- marginal: Pacific Golden Plover -->
+Ciconia stormi Storm’s Stork Leptoptilus javanicus Botak Kecil Mycteria cinerea Botak Upeh Mycteria leucocephala Botak Padi Ciconia boyciana Botak Putih Jepun Jabiru mycteria Jabiru
 
-Pluvialis squatarola
+<!-- marginal: Columbidae -->
 
-<!-- marginal: Rapang Kelabu -->
+Caloenas nicobarica Punai Mas
 
-Vanellus cinereus
+<!-- marginal: (Doves, Pigeons) -->
 
-<!-- marginal: Rapang Kepala Kelabu -->
-
-Vanellus indicus
-
-<!-- marginal: Rapang Duit -->
-
-Vanellus malabaricus
-
-<!-- marginal: Rapang Balung Kuning -->
-
-Chloropseidae Aegithina lafresnayei
-
-<!-- marginal: Great Iora -->
-
-(Leafbirds) Aegithina tiphia
-
-<!-- marginal: Common Iora -->
-
-Aegithina viridissima
-
-<!-- marginal: Kunyit Bakau -->
-
-Chloropsis cochinchinensis
-
-<!-- marginal: Blue-winged Leafbird -->
-
-Chloropsis cyanopogon
-
-<!-- marginal: Lesser Green Leafbird -->
-
-Chloropsis hardwickii
-
-<!-- marginal: Orange-bellied Leafbird -->
-
-Chloropsis kinabaluensis
-
-<!-- marginal: Kinabalu Leafbird -->
-
-Chloropsis sonnerati
-
-<!-- marginal: Greater Green Leafbird -->
-
-Ciconiidae Ciconia episcopus
-
-<!-- marginal: White-necked Stork -->
-
-(Botak) Ciconia stormi
-
-<!-- marginal: Storm’s Stork -->
-
-Leptoptilus javanicus
-
-<!-- marginal: Botak Kecil -->
-
-Mycteria cinerea
-
-<!-- marginal: Botak Upeh -->
-
-Mycteria leucocephala
-
-<!-- marginal: Botak Padi -->
-
-Ciconia boyciana
-
-<!-- marginal: Botak Putih Jepun -->
-
-Jabiru mycteria
-
-<!-- marginal: Jabiru -->
-
-Columbidae Caloenas nicobarica
-
-<!-- marginal: Punai Mas -->
-
-(Doves, Pigeons) Columba argentina
-
-<!-- marginal: Merpati Perak -->
-
-Ducula anea
-
-<!-- marginal: Pergam Besar -->
-
-Ducula badia
-
-<!-- marginal: Pergam Gunong -->
-
-Ducula bicolour
-
-<!-- marginal: Pergam Rawa -->
-
-Ducula pickeringii
-
-<!-- marginal: Pergam Kelabu -->
-
-Macropygia amboinensis
-
-<!-- marginal: Ruddy Cuckoo Dove -->
-
-Macropygia ruficeps
-
-<!-- marginal: Tekukur Api -->
-
-Macropygia unchall
-
-<!-- marginal: Tekukur Api Gunung -->
-
-Ptilinopus jambu
-
-<!-- marginal: Punai Jambu -->
-
-Ptilinopus melanospila
-
-<!-- marginal: Black-naped Fruit Dove -->
-
-Streptopelia bitorquata
-
-<!-- marginal: Island Collared Dove -->
-
-Streptopelia tranquebarica
-
-<!-- marginal: Tekukur Merah -->
-
-Treron bicincta
-
-<!-- marginal: Punai Siam -->
-
-Treron capellei
-
-<!-- marginal: Large Green Pigeon -->
-
-Treron curvirostra
-
-<!-- marginal: Thick-billed Green Pigeon -->
+Columba argentina Merpati Perak Ducula anea Pergam Besar Ducula badia Pergam Gunong Ducula bicolour Pergam Rawa Ducula pickeringii Pergam Kelabu Macropygia amboinensis Ruddy Cuckoo Dove Macropygia ruficeps Tekukur Api Macropygia unchall Tekukur Api Gunung Ptilinopus jambu Punai Jambu Ptilinopus melanospila Black-naped Fruit Dove Streptopelia bitorquata Island Collared Dove Streptopelia tranquebarica Tekukur Merah Treron bicincta Punai Siam Treron capellei Large Green Pigeon Treron curvirostra Thick-billed Green Pigeon
 
 <!-- page 119 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
+Nama Saintifik Nama Biasa Treron fulvicollis Cinnamon-headed Green Pigeon Treron seimundi Punai Gunung Treron sphenura Punai Bukit Treron vernans Punai Gading Ducula mindorensis Pergam Mindoro
 
-Treron fulvicollis
+<!-- marginal: Coraciidae -->
 
-<!-- marginal: Cinnamon-headed Green -->
+Coracias benghalensis Indian Roller
 
-<!-- marginal: Pigeon -->
+<!-- marginal: (Roller, Dollarbird) -->
 
-Treron seimundi
+Eurystomus orientalis Dollarbird
 
-<!-- marginal: Punai Gunung -->
+<!-- marginal: Corvidae -->
 
-Treron sphenura
+Cissa chinensis Gagak Gunung
 
-<!-- marginal: Punai Bukit -->
+<!-- marginal: (Quail-thrushes, Whipbirds, -->
 
-Treron vernans
+Cissa thalassina Gagak Ekor Pendek
 
-<!-- marginal: Punai Gading -->
+<!-- marginal: Apostle Bird) -->
 
-Ducula mindorensis
+Crypsirina temia Racquet-tailed Treepie Dendrocitta cinerascens Gagak Borneo Platylophus galericulatus Crested Jay Platysmurus leucopterus Black Magpie
 
-<!-- marginal: Pergam Mindoro -->
+<!-- marginal: Cotingidae -->
 
-Coraciidae Coracias benghalensis
+Cotinga maculata Banded Cotinga
 
-<!-- marginal: Indian Roller -->
+<!-- marginal: (Cotingas) -->
 
-(Roller, Dollarbird) Eurystomus orientalis
+Xipholena atropurpurea White-winged Cotinga
 
-<!-- marginal: Dollarbird -->
+<!-- marginal: Cracidae -->
 
-Corvidae Cissa chinensis
+Crax blumenbachii Red-billed Curassow
 
-<!-- marginal: Gagak Gunung -->
+<!-- marginal: (Chachalacas, Currassows, -->
 
-(Quail-thrushes, Whipbirds, Cissa thalassina
+Mitu mitu Alagoas Curassow
 
-<!-- marginal: Gagak Ekor Pendek -->
+<!-- marginal: Guans) -->
 
-Apostle Bird) Crypsirina temia
+Oreophasis derbianus Lord Derby’s Mountain Pheasant Penelope albipennis White-winged Guan Pipile jacutinga Black-fronted Curassow Pipile pipile Trinidad Piping-Guan
 
-<!-- marginal: Racquet-tailed Treepie -->
+<!-- marginal: Cuculidae -->
 
-Dendrocitta cinerascens
+Cacomantis merulinus Sewah Mati Anak
 
-<!-- marginal: Gagak Borneo -->
+<!-- marginal: (Sewah) -->
 
-Platylophus galericulatus
-
-<!-- marginal: Crested Jay -->
-
-Platysmurus leucopterus
-
-<!-- marginal: Black Magpie -->
-
-Cotingidae Cotinga maculata
-
-<!-- marginal: Banded Cotinga -->
-
-(Cotingas) Xipholena atropurpurea
-
-<!-- marginal: White-winged Cotinga -->
-
-Cracidae Crax blumenbachii
-
-<!-- marginal: Red-billed Curassow -->
-
-(Chachalacas, Currassows, Mitu mitu
-
-<!-- marginal: Alagoas Curassow -->
-
-Guans) Oreophasis derbianus
-
-<!-- marginal: Lord Derby’s Mountain -->
-
-<!-- marginal: Pheasant -->
-
-Penelope albipennis
-
-<!-- marginal: White-winged Guan -->
-
-Pipile jacutinga
-
-<!-- marginal: Black-fronted Curassow -->
-
-Pipile pipile
-
-<!-- marginal: Trinidad Piping-Guan -->
-
-Cuculidae Cacomantis merulinus
-
-<!-- marginal: Sewah Mati Anak -->
-
-(Sewah) Cacomantis sepulcralis
-
-<!-- marginal: Sewah Gila -->
-
-Cacomantis sonneratti
-
-<!-- marginal: Sewah Takuweh -->
-
-Carpococcyx radiatus
-
-<!-- marginal: Borneon Ground Cuckoo -->
-
-Centropus bengalensis
-
-<!-- marginal: But-But Kecil -->
-
-Centropus rectunguis
-
-<!-- marginal: But-But Besar -->
-
-Centropus sinensis
-
-<!-- marginal: But-But Carik Anak -->
-
-Chrysococcyx basalis
-
-<!-- marginal: Sewah Sampah -->
-
-Chrysococcyx maculatus
-
-<!-- marginal: Sewah Tanah -->
-
-Chrysococcyx minutillus
-
-<!-- marginal: Little Bronze Cuckoo -->
-
-Chrysococcyx russatus
-
-<!-- marginal: Gould’s Bronze Cuckoo -->
-
-Chrysococcyx xanthorhychus
-
-<!-- marginal: Sewah Rembah -->
-
-Clamator coromandus
-
-<!-- marginal: Sewah Kapak Merah, -->
-
-Cuculus merulinus
-
-<!-- marginal: Plaintive Cuckoo -->
-
-Cuculus micropterus
-
-<!-- marginal: Sewah India -->
-
-Cuculus saturatus
-
-<!-- marginal: Sewah Dada Putih -->
+Cacomantis sepulcralis Sewah Gila Cacomantis sonneratti Sewah Takuweh Carpococcyx radiatus Borneon Ground Cuckoo Centropus bengalensis But-But Kecil Centropus rectunguis But-But Besar Centropus sinensis But-But Carik Anak Chrysococcyx basalis Sewah Sampah Chrysococcyx maculatus Sewah Tanah Chrysococcyx minutillus Little Bronze Cuckoo Chrysococcyx russatus Gould’s Bronze Cuckoo Chrysococcyx xanthorhychus Sewah Rembah Clamator coromandus Sewah Kapak Merah, Cuculus merulinus Plaintive Cuckoo Cuculus micropterus Sewah India Cuculus saturatus Sewah Dada Putih
 
 <!-- page 120 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
+Nama Saintifik Nama Biasa Eudynamys scolopacea Sewah Tahu Hierococcyx fugax Sewah Hantu Hierococcyx hyperythrus Northern Hawk Cuckoo Hierococcyx nisicolor Sewah Hantu Hierococcyx sparveriodes Sewah Tekukur Besar Hierococcyx vagans Sewah Tekukur Kecil Phaenicophaeus chlorophaeus Cenok Kerak Phaenicophaeus curvirostris Cenok Birah Phaenicophaeus diardi Cenok Perut Hitam Phaenicophaeus javanicus Cenok Api Phaenicophaeus sumatranus Cenok Kecil Phaenicophaeus tristis Cenok Kera Surniculus lugubris Sewah Sawai
 
-Eudynamys scolopacea
+<!-- marginal: Dicaeidae -->
 
-<!-- marginal: Sewah Tahu -->
+Dicaeum agile Thicked-billed Flowerpecker
 
-Hierococcyx fugax
+<!-- marginal: (Flowerpeckers) -->
 
-<!-- marginal: Sewah Hantu -->
+Dicaeum chrysorrheum Yellow-vented Flowerpecker Dicaeum concolor Plain Flowerpecker Dicaeum cruentatum Scarlet-backed Flowerpecker Dicaeum everetti Brown-backed Flowerpecker Dicaeum ignipectus Buff-bellied Flowerpecker Dicaeum monticolum Black-side Flowerpecker Dicaeum trigonostigma Orange-bellied Flowerpecker Prionochilus maculatus Yellow-breasted Flowerpacker Prionochilus percussus Crimson-breasted Flowerpacker Prionochilus thoracicus Scarlet-breasted Flowerpacker Prionochilus xanthopygius Yellow-breasted Flowerpacker
 
-Hierococcyx hyperythrus
+<!-- marginal: Dicruridae -->
 
-<!-- marginal: Northern Hawk Cuckoo -->
+Dicrurus aeneus Cecawi Keladi
 
-Hierococcyx nisicolor
+<!-- marginal: (Cecawi) -->
 
-<!-- marginal: Sewah Hantu -->
-
-Hierococcyx sparveriodes
-
-<!-- marginal: Sewah Tekukur Besar -->
-
-Hierococcyx vagans
-
-<!-- marginal: Sewah Tekukur Kecil -->
-
-Phaenicophaeus chlorophaeus
-
-<!-- marginal: Cenok Kerak -->
-
-Phaenicophaeus curvirostris
-
-<!-- marginal: Cenok Birah -->
-
-Phaenicophaeus diardi
-
-<!-- marginal: Cenok Perut Hitam -->
-
-Phaenicophaeus javanicus
-
-<!-- marginal: Cenok Api -->
-
-Phaenicophaeus sumatranus
-
-<!-- marginal: Cenok Kecil -->
-
-Phaenicophaeus tristis
-
-<!-- marginal: Cenok Kera -->
-
-Surniculus lugubris
-
-<!-- marginal: Sewah Sawai -->
-
-Dicaeidae Dicaeum agile
-
-<!-- marginal: Thicked-billed -->
-
-<!-- marginal: Flowerpecker -->
-
-(Flowerpeckers) Dicaeum chrysorrheum
-
-<!-- marginal: Yellow-vented Flowerpecker -->
-
-Dicaeum concolor
-
-<!-- marginal: Plain Flowerpecker -->
-
-Dicaeum cruentatum
-
-<!-- marginal: Scarlet-backed -->
-
-<!-- marginal: Flowerpecker -->
-
-Dicaeum everetti
-
-<!-- marginal: Brown-backed -->
-
-<!-- marginal: Flowerpecker -->
-
-Dicaeum ignipectus
-
-<!-- marginal: Buff-bellied Flowerpecker -->
-
-Dicaeum monticolum
-
-<!-- marginal: Black-side Flowerpecker -->
-
-Dicaeum trigonostigma
-
-<!-- marginal: Orange-bellied -->
-
-<!-- marginal: Flowerpecker -->
-
-Prionochilus maculatus
-
-<!-- marginal: Yellow-breasted -->
-
-<!-- marginal: Flowerpacker -->
-
-Prionochilus percussus
-
-<!-- marginal: Crimson-breasted -->
-
-<!-- marginal: Flowerpacker -->
-
-Prionochilus thoracicus
-
-<!-- marginal: Scarlet-breasted -->
-
-<!-- marginal: Flowerpacker -->
-
-Prionochilus xanthopygius
-
-<!-- marginal: Yellow-breasted -->
-
-<!-- marginal: Flowerpacker -->
-
-Dicruridae Dicrurus aeneus
-
-<!-- marginal: Cecawi Keladi -->
-
-(Cecawi) Dicrurus annectans
-
-<!-- marginal: Cecawi Sawai -->
-
-Dicrurus hottentottus
-
-<!-- marginal: Cecawi Rimba -->
-
-Dicrurus leucophaeus
-
-<!-- marginal: Ashy Drongo -->
-
-Dicrurus macrocercus
-
-<!-- marginal: Cecawi Rajawali -->
-
-Dicrurus paradiseus
-
-<!-- marginal: Greater Racquet-tailed -->
-
-<!-- marginal: Drongo -->
-
-Dicrurus remifer
-
-<!-- marginal: Lesser Racquet-tailed -->
-
-<!-- marginal: Drongo -->
+Dicrurus annectans Cecawi Sawai Dicrurus hottentottus Cecawi Rimba Dicrurus leucophaeus Ashy Drongo Dicrurus macrocercus Cecawi Rajawali Dicrurus paradiseus Greater Racquet-tailed Drongo Dicrurus remifer Lesser Racquet-tailed Drongo
 
 <!-- page 121 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
+Nama Saintifik Nama Biasa
 
-Diomedeidae Diomedea albatrus
+<!-- marginal: Diomedeidae -->
 
-<!-- marginal: Short-tailed Albatross -->
+Diomedea albatrus Short-tailed Albatross
 
-(Albatross) Dromadidae Dromas ardeola
+<!-- marginal: (Albatross) -->
 
-<!-- marginal: Kedidi Ketam -->
+<!-- marginal: Dromadidae -->
 
-(Kedidi) Emberizidae Emberiza aureola
+Dromas ardeola Kedidi Ketam
 
-<!-- marginal: Yellow-breasted Bunting -->
+<!-- marginal: (Kedidi) -->
 
-(Cardinals, Tanagers) Emberiza fucata
+<!-- marginal: Emberizidae -->
 
-<!-- marginal: Chestnut-eared Bunting -->
+Emberiza aureola Yellow-breasted Bunting
 
-Emberiza melanocephala
+<!-- marginal: (Cardinals, Tanagers) -->
 
-<!-- marginal: Cakar Kepala Hitam -->
+Emberiza fucata Chestnut-eared Bunting Emberiza melanocephala Cakar Kepala Hitam Emberiza pusilla Cakar Kecil
 
-Emberiza pusilla
+<!-- marginal: Eurylaimidae -->
 
-<!-- marginal: Cakar Kecil -->
+Calyptomena hosei Hose’s Broadbill
 
-Eurylaimidae Calyptomena hosei
+<!-- marginal: (Takau) -->
 
-<!-- marginal: Hose’s Broadbill -->
+Calyptomena viridis Green broadbill Calyptomena whiteheadi Whitehead’s Broadbill Corydon sumatranus Takau Rimba Hujan Cymbirhynchus macrorhynchos Takau Rakit Eurylaimus javanicus Takau Rimba Eurylaimus ochromalus Takau Hitam Kuning Psarisomus dalhousiae Takau Injap Serilophus lunatus Takau Tanda Hujan
 
-(Takau) Calyptomena viridis
+<!-- marginal: Falconidae -->
 
-<!-- marginal: Green broadbill -->
+Falco amurensis Amur Falcon
 
-Calyptomena whiteheadi
+<!-- marginal: (Falko) -->
 
-<!-- marginal: Whitehead’s Broadbill -->
-
-Corydon sumatranus
-
-<!-- marginal: Takau Rimba Hujan -->
-
-Cymbirhynchus macrorhynchos
-
-<!-- marginal: Takau Rakit -->
-
-Eurylaimus javanicus
-
-<!-- marginal: Takau Rimba -->
-
-Eurylaimus ochromalus
-
-<!-- marginal: Takau Hitam Kuning -->
-
-Psarisomus dalhousiae
-
-<!-- marginal: Takau Injap -->
-
-Serilophus lunatus
-
-<!-- marginal: Takau Tanda Hujan -->
-
-Falconidae Falco amurensis
-
-<!-- marginal: Amur Falcon -->
-
-(Falko) Falco peregrinus
-
-<!-- marginal: Duck Hawk -->
-
-Falco severus
-
-<!-- marginal: Oriental Hobby -->
-
-Falco subbuteo
-
-<!-- marginal: Eurasian Hobby -->
-
-Falco tinnuculus
-
-<!-- marginal: Eurasian Kestrel -->
-
-Caracara lutosa
-
-<!-- marginal: Guadalupe Caracara -->
-
-Caracara plancus
-
-<!-- marginal: Common Caracara -->
-
-Daptrius ater
-
-<!-- marginal: Black Caracara -->
-
-Falco araea
-
-<!-- marginal: Falko Seychelles -->
-
-Falco jugger
-
-<!-- marginal: Falko Awan -->
-
-Falco newtoni
-
-<!-- marginal: Falko Madagascar -->
-
-Falco pelegrinoides
-
-<!-- marginal: Falko Balbary -->
-
-Falco punctatus
-
-<!-- marginal: Falko Mauritius -->
-
-Falco rusticolus
-
-<!-- marginal: Gyrfalcon -->
-
-<!-- marginal: Hawk -->
-
-Falco spp. Herpetotheres cachinnans
-
-<!-- marginal: Laughing Falcon -->
-
-Ibycter americanus
-
-<!-- marginal: Red-throated Caracara -->
-
-<!-- marginal: Forest Falcons -->
-
-Micrastur spp. Microchierax fringillarius
-
-<!-- marginal: Black-thighed Falconet -->
-
-Microhierax latifrons
-
-<!-- marginal: White-fronted Falconet -->
-
-<!-- marginal: Falconet -->
-
-Microhierax spp. Milvago chimachima
-
-<!-- marginal: Yellow-Headed Caracara -->
-
-Milvago chimango
-
-<!-- marginal: Chimango Caracara -->
+Falco peregrinus Duck Hawk Falco severus Oriental Hobby Falco subbuteo Eurasian Hobby Falco tinnuculus Eurasian Kestrel Caracara lutosa Guadalupe Caracara Caracara plancus Common Caracara Daptrius ater Black Caracara Falco araea Falko Seychelles Falco jugger Falko Awan Falco newtoni Falko Madagascar Falco pelegrinoides Falko Balbary Falco punctatus Falko Mauritius Falco rusticolus Gyrfalcon Hawk Falco spp. Herpetotheres cachinnans Laughing Falcon Ibycter americanus Red-throated Caracara Forest Falcons Micrastur spp. Microchierax fringillarius Black-thighed Falconet Microhierax latifrons White-fronted Falconet Falconet Microhierax spp. Milvago chimachima Yellow-Headed Caracara Milvago chimango Chimango Caracara
 
 <!-- page 122 -->
 
@@ -8202,479 +5326,121 @@ Icteridae Agelaius flavus
 
 <!-- page 123 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
+Nama Saintifik Nama Biasa
 
-Irenidae Irena puella
+<!-- marginal: Irenidae -->
 
-<!-- marginal: Dendang Gajah -->
+Irena puella Dendang Gajah
 
-(Leafbirds, Ioras, Fairy- bluebird) Jacanidae Hydrophasianus chirurgus
+<!-- marginal: (Leafbirds, Ioras, Fairy- -->
 
-<!-- marginal: Teratai Besar -->
+<!-- marginal: bluebird) -->
 
-(Teratai) Metopodius indicus
+<!-- marginal: Jacanidae -->
 
-<!-- marginal: Teratai Kecil -->
+Hydrophasianus chirurgus Teratai Besar
 
-Laniidae Lanius cristatus
+<!-- marginal: (Teratai) -->
 
-<!-- marginal: Tirjup Tanah -->
+Metopodius indicus Teratai Kecil
 
-(Tirjup) Lanius schach
+<!-- marginal: Laniidae -->
 
-<!-- marginal: Tirjup Ekor Panjang -->
+Lanius cristatus Tirjup Tanah
 
-Lanius tigrinus
+<!-- marginal: (Tirjup) -->
 
-<!-- marginal: Tirjup Rimau -->
+Lanius schach Tirjup Ekor Panjang Lanius tigrinus Tirjup Rimau
 
-Laridae Anous minutes
+<!-- marginal: Laridae -->
 
-<!-- marginal: Camar Topi Putih -->
+Anous minutes Camar Topi Putih
 
-(Camar) Anous stolidus
+<!-- marginal: (Camar) -->
 
-<!-- marginal: Camar Anggok -->
+Anous stolidus Camar Anggok Chlidonias hybridus Camar Batu Berumbai Chlidonias leucopterus White-winged Tern Gelochelidon nilotica Camar Tiram Hydroprogne caspia Camar Kaspian Larus brunnicephalus Camar Kepala Coklat Larus ridibundus Camar Kepala Hitam Sterna albifrons Camar Kecil Sterna anaethetus Camar Batu Sterna bengalensis Camar Kecil Berjambul Sterna bergii Camar Besar Berjambul Sterna bernsteini Chinese Crested Tern Sterna dougallii Camar Berjalur Sterna fuscata Camar Angin Sterna hirundo Camar Siput Sterna sumatrana Camar Topi Hitam Larus relictus Relict Gull
 
-Chlidonias hybridus
+<!-- marginal: Loriidae -->
 
-<!-- marginal: Camar Batu Berumbai -->
+Eos histrio Red-and-blue Lory
 
-Chlidonias leucopterus
+<!-- marginal: (Lories, Lorikeets) -->
 
-<!-- marginal: White-winged Tern -->
+Vini ultramarina Ultramarine Lorikeet
 
-Gelochelidon nilotica
+<!-- marginal: Megalaimidae -->
 
-<!-- marginal: Camar Tiram -->
+Calorhamphus fuliginosus Takur Dahan
 
-Hydroprogne caspia
+<!-- marginal: (Takur Asia) -->
 
-<!-- marginal: Camar Kaspian -->
-
-Larus brunnicephalus
-
-<!-- marginal: Camar Kepala Coklat -->
-
-Larus ridibundus
-
-<!-- marginal: Camar Kepala Hitam -->
-
-Sterna albifrons
-
-<!-- marginal: Camar Kecil -->
-
-Sterna anaethetus
-
-<!-- marginal: Camar Batu -->
-
-Sterna bengalensis
-
-<!-- marginal: Camar Kecil Berjambul -->
-
-Sterna bergii
-
-<!-- marginal: Camar Besar Berjambul -->
-
-Sterna bernsteini
-
-<!-- marginal: Chinese Crested Tern -->
-
-Sterna dougallii
-
-<!-- marginal: Camar Berjalur -->
-
-Sterna fuscata
-
-<!-- marginal: Camar Angin -->
-
-Sterna hirundo
-
-<!-- marginal: Camar Siput -->
-
-Sterna sumatrana
-
-<!-- marginal: Camar Topi Hitam -->
-
-Larus relictus
-
-<!-- marginal: Relict Gull -->
-
-Loriidae Eos histrio
-
-<!-- marginal: Red-and-blue Lory -->
-
-(Lories, Lorikeets) Vini ultramarina
-
-<!-- marginal: Ultramarine Lorikeet -->
-
-Megalaimidae Calorhamphus fuliginosus
-
-<!-- marginal: Takur Dahan -->
-
-(Takur Asia) Megalaima australis
-
-<!-- marginal: Takur Akar -->
-
-Megalaima chrysopogon
-
-<!-- marginal: Takur Jambang Emas -->
-
-Megalaima eximia
-
-<!-- marginal: Takur Borneo -->
-
-Megalaima franklinii
-
-<!-- marginal: Takur Leher Emas -->
-
-Megalaima haemacephala
-
-<!-- marginal: Takur Tembaga -->
-
-Megalaima henricii
-
-<!-- marginal: Takur Mahkota Kuning -->
-
-Megalaima lineata
-
-<!-- marginal: Takur Kukup -->
-
-Megalaima monticola
-
-<!-- marginal: Takur Gunung -->
-
-Megalaima mystacophanus
-
-<!-- marginal: Takur Raya -->
-
-Megalaima oorti
-
-<!-- marginal: Takur Bukit -->
-
-Megalaima pulcherrima
-
-<!-- marginal: Takur Tengkok Emas -->
+Megalaima australis Takur Akar Megalaima chrysopogon Takur Jambang Emas Megalaima eximia Takur Borneo Megalaima franklinii Takur Leher Emas Megalaima haemacephala Takur Tembaga Megalaima henricii Takur Mahkota Kuning Megalaima lineata Takur Kukup Megalaima monticola Takur Gunung Megalaima mystacophanus Takur Raya Megalaima oorti Takur Bukit Megalaima pulcherrima Takur Tengkok Emas
 
 <!-- page 124 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
+Nama Saintifik Nama Biasa Megalaima rafflesii Takur Mahkota Merah, Takur Gunung Psilopogon pyrolophus Takur Api
 
-Megalaima rafflesii
+<!-- marginal: Megapodidae -->
 
-<!-- marginal: Takur Mahkota Merah, -->
+Megapodius cumingii Philippine Scrubfowl
 
-<!-- marginal: Takur Gunung -->
+<!-- marginal: (Megapodes, Scrubfowl) -->
 
-Psilopogon pyrolophus
+Macrocephalon maleo Celebes Maleo
 
-<!-- marginal: Takur Api -->
+<!-- marginal: Meropidae -->
 
-Megapodidae Megapodius cumingii
+Merops leschenaulti Berek-Berek Senja
 
-<!-- marginal: Philippine Scrubfowl -->
+<!-- marginal: (Bee-eaters) -->
 
-(Megapodes, Scrubfowl) Macrocephalon maleo
+Merops philippinus Berek-Berek Carik Dada Merops viridis Berek-Berek Tadah Hujan Nyctyornis amictus Berek-Berek Janggut Merah
 
-<!-- marginal: Celebes Maleo -->
+<!-- marginal: Meliphagidae -->
 
-Meropidae Merops leschenaulti
+Lichenostomus melanops Helmeted Honeyeater
 
-<!-- marginal: Berek-Berek Senja -->
+<!-- marginal: (Honeyeater) -->
 
-(Bee-eaters) Merops philippinus
+cassidix
 
-<!-- marginal: Berek-Berek Carik Dada -->
+<!-- marginal: Motacillidae -->
 
-Merops viridis
+Anthus cervinus Pipit Injup
 
-<!-- marginal: Berek-Berek Tadah Hujan -->
+<!-- marginal: (Wagtails, Pipit) -->
 
-Nyctyornis amictus
+Anthus gustavi Pipit Rumput Anthus hodgsoni Pipit Padang Anthus richardi Pipit Tanah Anthus rufulus Pipit Padi Dendronanthus indicus Pipit Rimba Motacilla alba Pipit Pelandok Motacilla cinerea Pipit Batu Motacilla flava Pipit Kuning
 
-<!-- marginal: Berek-Berek Janggut Merah -->
+<!-- marginal: Muscicapidae -->
 
-Meliphagidae Lichenostomus melanops
+Culicicapa ceylonensis Sambar Pacat
 
-<!-- marginal: Helmeted Honeyeater -->
+<!-- marginal: (Old world flycatchers) -->
 
-(Honeyeater) cassidix Motacillidae Anthus cervinus
-
-<!-- marginal: Pipit Injup -->
-
-(Wagtails, Pipit) Anthus gustavi
-
-<!-- marginal: Pipit Rumput -->
-
-Anthus hodgsoni
-
-<!-- marginal: Pipit Padang -->
-
-Anthus richardi
-
-<!-- marginal: Pipit Tanah -->
-
-Anthus rufulus
-
-<!-- marginal: Pipit Padi -->
-
-Dendronanthus indicus
-
-<!-- marginal: Pipit Rimba -->
-
-Motacilla alba
-
-<!-- marginal: Pipit Pelandok -->
-
-Motacilla cinerea
-
-<!-- marginal: Pipit Batu -->
-
-Motacilla flava
-
-<!-- marginal: Pipit Kuning -->
-
-Muscicapidae Culicicapa ceylonensis
-
-<!-- marginal: Sambar Pacat -->
-
-(Old world flycatchers) Cyanoptila cyanomelana
-
-<!-- marginal: Sambar Biru Putih -->
-
-Cyornis banyumas
-
-<!-- marginal: Sambar Bukit -->
-
-Cyornis caerulatus
-
-<!-- marginal: Large-billed Blue -->
-
-<!-- marginal: Flycatcher -->
-
-Cyornis concreta
-
-<!-- marginal: Sambar Ekor Putih -->
-
-Cyornis ruberculoides
-
-<!-- marginal: Sambar Rengkong Biru -->
-
-Cyornis rufigastra
-
-<!-- marginal: Sambar Biru Bakau -->
-
-Cyornis superbus
-
-<!-- marginal: Bornean Blue Flycatcher -->
-
-Cyornis tickelliae
-
-<!-- marginal: Sambar Kelicap Ranting -->
-
-Cyornis turcosa
-
-<!-- marginal: Sambar Biru Malaysia -->
-
-Cyornis unicolor
-
-<!-- marginal: Sambar Rimba -->
-
-Eumyias indigo
-
-<!-- marginal: Indigo Flycatcher -->
-
-Eumyias thalassina
-
-<!-- marginal: Verditer Flycatcher -->
-
-Ficedula dumetoria
-
-<!-- marginal: Sambar Daun Oren -->
-
-Ficedula hyperythra
-
-<!-- marginal: Sambar Kudung -->
-
-Ficedula mugimaki
-
-<!-- marginal: Sambar Mugimaki -->
-
-Ficedula narcissina
-
-<!-- marginal: Sambar Bunga -->
-
-Ficedula parva
-
-<!-- marginal: Sambar Api Bukit -->
-
-Ficedula solitaria
-
-<!-- marginal: Sambar Rengkong Putih -->
+Cyanoptila cyanomelana Sambar Biru Putih Cyornis banyumas Sambar Bukit Cyornis caerulatus Large-billed Blue Flycatcher Cyornis concreta Sambar Ekor Putih Cyornis ruberculoides Sambar Rengkong Biru Cyornis rufigastra Sambar Biru Bakau Cyornis superbus Bornean Blue Flycatcher Cyornis tickelliae Sambar Kelicap Ranting Cyornis turcosa Sambar Biru Malaysia Cyornis unicolor Sambar Rimba Eumyias indigo Indigo Flycatcher Eumyias thalassina Verditer Flycatcher Ficedula dumetoria Sambar Daun Oren Ficedula hyperythra Sambar Kudung Ficedula mugimaki Sambar Mugimaki Ficedula narcissina Sambar Bunga Ficedula parva Sambar Api Bukit Ficedula solitaria Sambar Rengkong Putih
 
 <!-- page 125 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
+Nama Saintifik Nama Biasa Ficedula westermanni Sambar Gunung Ficedula zanthopygia Sambar Tongkeng Kuning Muscicapa dauurica Sambar Coklat Asia Muscicapa ferruginea Sambar Sampah Muscicapa griseisticta Sambar Arang Muscicapa sibirica Sambar Sibiria Muscicapa wiliamsoni Sambar Belantara Muscicapella hodgsoni Sambar Biru kecil Niltava grandis Sambar Besar Niltava sumatrana Sambar Malaysia Rhynomyias brunneata Sambar Hutan Rhynomyias gularis Eye-browed Jungle Flycatcher Rhynomyias olivacea Sambar Bukit Rhynomyias ruficauda Rufous-tailed Jungle Flycatcher Rhynomyias umbratilis Sambar Batu Dasyornis longirostris Long-billed Bristlebird Dasyornis broadbenti litoralis Lesser Rufous Bristlebird Picathartes gymnocephalus Bare-headed Rockfowl Picathartes oreas Grey-necked Picathartes
 
-Ficedula westermanni
+<!-- marginal: Nectarinidae -->
 
-<!-- marginal: Sambar Gunung -->
+Aethopyga saturata Kelicap Gunung
 
-Ficedula zanthopygia
+<!-- marginal: (Flowerpeckers,Sunbirds, -->
 
-<!-- marginal: Sambar Tongkeng Kuning -->
+Aethopyga siparaja Kelicap Sepah Raja
 
-Muscicapa dauurica
+<!-- marginal: Spiderhunters) -->
 
-<!-- marginal: Sambar Coklat Asia -->
-
-Muscicapa ferruginea
-
-<!-- marginal: Sambar Sampah -->
-
-Muscicapa griseisticta
-
-<!-- marginal: Sambar Arang -->
-
-Muscicapa sibirica
-
-<!-- marginal: Sambar Sibiria -->
-
-Muscicapa wiliamsoni
-
-<!-- marginal: Sambar Belantara -->
-
-Muscicapella hodgsoni
-
-<!-- marginal: Sambar Biru kecil -->
-
-Niltava grandis
-
-<!-- marginal: Sambar Besar -->
-
-Niltava sumatrana
-
-<!-- marginal: Sambar Malaysia -->
-
-Rhynomyias brunneata
-
-<!-- marginal: Sambar Hutan -->
-
-Rhynomyias gularis
-
-<!-- marginal: Eye-browed Jungle -->
-
-<!-- marginal: Flycatcher -->
-
-Rhynomyias olivacea
-
-<!-- marginal: Sambar Bukit -->
-
-Rhynomyias ruficauda
-
-<!-- marginal: Rufous-tailed Jungle -->
-
-<!-- marginal: Flycatcher -->
-
-Rhynomyias umbratilis
-
-<!-- marginal: Sambar Batu -->
-
-Dasyornis longirostris
-
-<!-- marginal: Long-billed Bristlebird -->
-
-Dasyornis broadbenti litoralis
-
-<!-- marginal: Lesser Rufous Bristlebird -->
-
-Picathartes gymnocephalus
-
-<!-- marginal: Bare-headed Rockfowl -->
-
-Picathartes oreas
-
-<!-- marginal: Grey-necked Picathartes -->
-
-Nectarinidae Aethopyga saturata
-
-<!-- marginal: Kelicap Gunung -->
-
-(Flowerpeckers,Sunbirds, Aethopyga siparaja
-
-<!-- marginal: Kelicap Sepah Raja -->
-
-Spiderhunters) Aethopyga temminckii
-
-<!-- marginal: Kelicap Merah -->
-
-Anthreptes malaccensis
-
-<!-- marginal: Kelicap Mayang Kelapa -->
-
-Anthreptes rhodolaema
-
-<!-- marginal: Kelicap Pinang -->
-
-Anthreptes simplex
-
-<!-- marginal: Kelicap Kelabu -->
-
-Anthreptes singalensis
-
-<!-- marginal: Kelicap Belukar -->
-
-Arachnothera affinis
-
-<!-- marginal: Kelicap Jantung Bukit -->
-
-Arachnothera chrysogenys
-
-<!-- marginal: Kelicap Jantung Telinga -->
-
-<!-- marginal: Kuning -->
-
-Arachnothera crassirostris
-
-<!-- marginal: Kelicap Jantung Paruh -->
-
-<!-- marginal: Tebal -->
-
-Arachnothera flavigaster
-
-<!-- marginal: Kelicap Jantung Besar -->
-
-Arachnothera juliae
-
-<!-- marginal: Kelicap Jantung Kepala -->
-
-<!-- marginal: Putih -->
-
-Arachnothera longirostra
-
-<!-- marginal: Kelicap Jantung -->
-
-Arachnothera magna
-
-<!-- marginal: Kelicap Jantung Gunung -->
-
-Arachnothera modesta
-
-<!-- marginal: Streaky-breasted -->
-
-<!-- marginal: Spiderhunter -->
-
-Arachnothera robusta
-
-<!-- marginal: Kelicap Jantung Paruh -->
-
-<!-- marginal: Panjang -->
+Aethopyga temminckii Kelicap Merah Anthreptes malaccensis Kelicap Mayang Kelapa Anthreptes rhodolaema Kelicap Pinang Anthreptes simplex Kelicap Kelabu Anthreptes singalensis Kelicap Belukar Arachnothera affinis Kelicap Jantung Bukit Arachnothera chrysogenys Kelicap Jantung Telinga Kuning Arachnothera crassirostris Kelicap Jantung Paruh Tebal Arachnothera flavigaster Kelicap Jantung Besar Arachnothera juliae Kelicap Jantung Kepala Putih Arachnothera longirostra Kelicap Jantung Arachnothera magna Kelicap Jantung Gunung Arachnothera modesta Streaky-breasted Spiderhunter Arachnothera robusta Kelicap Jantung Paruh Panjang
 
 <!-- page 126 -->
 
@@ -8832,1679 +5598,331 @@ Melanoperdix nigra
 
 <!-- page 127 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
+Nama Saintifik Nama Biasa Pavo muticus Merak Polyplectron inopinatum Kuang Cermin Polyplectron malacense Merak Pongsu Polyplectron schleiermacheri Kuang Borneo Rheinardia ocellata Kuang Raya Gunung Rhizothera dulitensis Dulit Partridge Rhizothera longirostris Siul Selanting Rollulus rouloul Siul Berjambul Catreus wallichii Kuang Chir Colinus virginianus ridgwayi Masked Bobwhite Crossoptilon crossoptilon White Eared-Pheasant Crossoptilon harmani Tibetan Eared-Pheasant Crossoptilon mantchuricum Brown Eared-Pheasant Lophophorus impejanus Kuang Semut Lophophorus lhuysii Chinese Impeyan Lophophorus sclateri Kuang Pacat Lophura edwardsi Kuang Ranting Lophura imperialis Kuang Batu Hampar Lophura swinhoii Kuang Swinhoe Polyplectron emphanum Kuang Palawan Rheinardia ocellata Kuang Raya Gunung Syrmaticus ellioti Kuang Elliot Syrmaticus humiae Kuang Huma Syrmaticus mikado Kuang Mikado Tetraogallus caspius Caspian Snowcock Tetraogallus tibetanus Tibetan Snowcock Tragopan blythii Kuang Selar Tragopan caboti Kuang Kabot Tragopan melanocephalus Western Tragopan Tympanuchus cupido attwateri Attwater’s Prairie-chicken
 
-Pavo muticus
+<!-- marginal: Picidae -->
 
-<!-- marginal: Merak -->
+Blythipicus pyrrhotis Belatok Bulan
 
-Polyplectron inopinatum
+<!-- marginal: (Belatok) -->
 
-<!-- marginal: Kuang Cermin -->
-
-Polyplectron malacense
-
-<!-- marginal: Merak Pongsu -->
-
-Polyplectron schleiermacheri
-
-<!-- marginal: Kuang Borneo -->
-
-Rheinardia ocellata
-
-<!-- marginal: Kuang Raya Gunung -->
-
-Rhizothera dulitensis
-
-<!-- marginal: Dulit Partridge -->
-
-Rhizothera longirostris
-
-<!-- marginal: Siul Selanting -->
-
-Rollulus rouloul
-
-<!-- marginal: Siul Berjambul -->
-
-Catreus wallichii
-
-<!-- marginal: Kuang Chir -->
-
-Colinus virginianus ridgwayi
-
-<!-- marginal: Masked Bobwhite -->
-
-Crossoptilon crossoptilon
-
-<!-- marginal: White Eared-Pheasant -->
-
-Crossoptilon harmani
-
-<!-- marginal: Tibetan Eared-Pheasant -->
-
-Crossoptilon mantchuricum
-
-<!-- marginal: Brown Eared-Pheasant -->
-
-Lophophorus impejanus
-
-<!-- marginal: Kuang Semut -->
-
-Lophophorus lhuysii
-
-<!-- marginal: Chinese Impeyan -->
-
-Lophophorus sclateri
-
-<!-- marginal: Kuang Pacat -->
-
-Lophura edwardsi
-
-<!-- marginal: Kuang Ranting -->
-
-Lophura imperialis
-
-<!-- marginal: Kuang Batu Hampar -->
-
-Lophura swinhoii
-
-<!-- marginal: Kuang Swinhoe -->
-
-Polyplectron emphanum
-
-<!-- marginal: Kuang Palawan -->
-
-Rheinardia ocellata
-
-<!-- marginal: Kuang Raya Gunung -->
-
-Syrmaticus ellioti
-
-<!-- marginal: Kuang Elliot -->
-
-Syrmaticus humiae
-
-<!-- marginal: Kuang Huma -->
-
-Syrmaticus mikado
-
-<!-- marginal: Kuang Mikado -->
-
-Tetraogallus caspius
-
-<!-- marginal: Caspian Snowcock -->
-
-Tetraogallus tibetanus
-
-<!-- marginal: Tibetan Snowcock -->
-
-Tragopan blythii
-
-<!-- marginal: Kuang Selar -->
-
-Tragopan caboti
-
-<!-- marginal: Kuang Kabot -->
-
-Tragopan melanocephalus
-
-<!-- marginal: Western Tragopan -->
-
-Tympanuchus cupido attwateri
-
-<!-- marginal: Attwater’s Prairie-chicken -->
-
-Picidae Blythipicus pyrrhotis
-
-<!-- marginal: Belatok Bulan -->
-
-(Belatok) Blythipicus rubiginosus
-
-<!-- marginal: Belatok Pungguk -->
-
-Celeus brachyurus
-
-<!-- marginal: Belatok Biji Nangka -->
-
-Chrysocolaptes lucidus
-
-<!-- marginal: Belatok Pinang Tua -->
-
-Dendrocopus canicapillus
-
-<!-- marginal: Belatok Belacan -->
-
-Dendrocopus moluccensis
-
-<!-- marginal: Belatok Belacan Kecil -->
-
-Dinopium javanese
-
-<!-- marginal: Belatok Pinang Muda -->
-
-Dinopium rafflesii
-
-<!-- marginal: Belatok Rimba -->
-
-Dryocopus javensis
-
-<!-- marginal: Belatok Gajah -->
+Blythipicus rubiginosus Belatok Pungguk Celeus brachyurus Belatok Biji Nangka Chrysocolaptes lucidus Belatok Pinang Tua Dendrocopus canicapillus Belatok Belacan Dendrocopus moluccensis Belatok Belacan Kecil Dinopium javanese Belatok Pinang Muda Dinopium rafflesii Belatok Rimba Dryocopus javensis Belatok Gajah
 
 <!-- page 128 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
+Nama Saintifik Nama Biasa Gecinulus viridis Belatok Buluh Hemicircus concretus Belatok Punggoh Meiglyptes tristis Belatok Awan Meiglyptes tukki Belatok Tuku-Tuki Mulleripicus pulverulentus Belatok Berjalur Picumnus innominatus Belatok Belang Picus canus Belatok Gunung Picus Chlorolophus Belatok Kecil Tenggok Kuning Picus flavinucha Belatok Besar Tenggok Kuning Picus mentalis Belatok Ranting Picus miniaceus Belatok Merah Picus puniceus Belatok Mas Picus viridanus Belatok Rotan Picus vittatus Belatok Hijau Reinwardtipicus validus Belatok Ranum Sasia abnormis Belatok Kecil Campephilus imperialis Imperial Woodpecker Dryocopus javensis richardsi Belatok Tristram
 
-Gecinulus viridis
+<!-- marginal: Pittidae -->
 
-<!-- marginal: Belatok Buluh -->
+Pitta arquata Pacat Belang Biru
 
-Hemicircus concretus
+<!-- marginal: (Pittas) -->
 
-<!-- marginal: Belatok Punggoh -->
+Pitta baudii Pacat Kepala Biru Pitta caerulea Pacat Besar Pitta granatina Pacat Kepala Merah Pitta guajana Pacat Bukit Pitta megarhyncha Pacat Bakau Pitta moluccensis Pacat Sayap Biru Pitta nympha Fairy Pitta Pitta oatesi Pacat Tepus Pitta sordida Pacat Gembala Pelanduk Pitta ussheri Black-and-Crimson Pitta Pitta gurneyi Black-breasted Pitta Pitta kochi Koch’s Pitta
 
-Meiglyptes tristis
+<!-- marginal: Podicipedidae -->
 
-<!-- marginal: Belatok Awan -->
+Podiceps ruficollis Little Grebe
 
-Meiglyptes tukki
+<!-- marginal: (Grebe) -->
 
-<!-- marginal: Belatok Tuku-Tuki -->
+Podilymbus gigas Atitlan Grebe Tachybaptus ruficollis Grebe Kecil
 
-Mulleripicus pulverulentus
+<!-- marginal: Procellariidae -->
 
-<!-- marginal: Belatok Berjalur -->
+Bulweria bulwerii Bulwer’s Petrel
 
-Picumnus innominatus
+<!-- marginal: (Petrels, Shearwaters, -->
 
-<!-- marginal: Belatok Belang -->
+Calonectris leucomelas Streaked Shearwater
 
-Picus canus
+<!-- marginal: Diving petrel,Albatrosses, -->
 
-<!-- marginal: Belatok Gunung -->
+<!-- marginal: Storm-petrels) -->
 
-Picus Chlorolophus
-
-<!-- marginal: Belatok Kecil Tenggok -->
-
-<!-- marginal: Kuning -->
-
-Picus flavinucha
-
-<!-- marginal: Belatok Besar Tenggok -->
-
-<!-- marginal: Kuning -->
-
-Picus mentalis
-
-<!-- marginal: Belatok Ranting -->
-
-Picus miniaceus
-
-<!-- marginal: Belatok Merah -->
-
-Picus puniceus
-
-<!-- marginal: Belatok Mas -->
-
-Picus viridanus
-
-<!-- marginal: Belatok Rotan -->
-
-Picus vittatus
-
-<!-- marginal: Belatok Hijau -->
-
-Reinwardtipicus validus
-
-<!-- marginal: Belatok Ranum -->
-
-Sasia abnormis
-
-<!-- marginal: Belatok Kecil -->
-
-Campephilus imperialis
-
-<!-- marginal: Imperial Woodpecker -->
-
-Dryocopus javensis richardsi
-
-<!-- marginal: Belatok Tristram -->
-
-Pittidae Pitta arquata
-
-<!-- marginal: Pacat Belang Biru -->
-
-(Pittas) Pitta baudii
-
-<!-- marginal: Pacat Kepala Biru -->
-
-Pitta caerulea
-
-<!-- marginal: Pacat Besar -->
-
-Pitta granatina
-
-<!-- marginal: Pacat Kepala Merah -->
-
-Pitta guajana
-
-<!-- marginal: Pacat Bukit -->
-
-Pitta megarhyncha
-
-<!-- marginal: Pacat Bakau -->
-
-Pitta moluccensis
-
-<!-- marginal: Pacat Sayap Biru -->
-
-Pitta nympha
-
-<!-- marginal: Fairy Pitta -->
-
-Pitta oatesi
-
-<!-- marginal: Pacat Tepus -->
-
-Pitta sordida
-
-<!-- marginal: Pacat Gembala Pelanduk -->
-
-Pitta ussheri
-
-<!-- marginal: Black-and-Crimson Pitta -->
-
-Pitta gurneyi
-
-<!-- marginal: Black-breasted Pitta -->
-
-Pitta kochi
-
-<!-- marginal: Koch’s Pitta -->
-
-Podicipedidae Podiceps ruficollis
-
-<!-- marginal: Little Grebe -->
-
-(Grebe) Podilymbus gigas
-
-<!-- marginal: Atitlan Grebe -->
-
-Tachybaptus ruficollis
-
-<!-- marginal: Grebe Kecil -->
-
-Procellariidae Bulweria bulwerii
-
-<!-- marginal: Bulwer’s Petrel -->
-
-(Petrels, Shearwaters, Calonectris leucomelas
-
-<!-- marginal: Streaked Shearwater -->
-
-Diving petrel,Albatrosses, Storm-petrels) Puffinus pacificus
-
-<!-- marginal: Wedge-tailed Shearwater -->
+Puffinus pacificus Wedge-tailed Shearwater
 
 <!-- page 129 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
+Nama Saintifik Nama Biasa
 
-Psittacidae Psittacula longicauda
+<!-- marginal: Psittacidae -->
 
-<!-- marginal: Bayan Nuri -->
+Psittacula longicauda Bayan Nuri
 
-(Amazon, Macaws, Psittinus cyanurus
+<!-- marginal: (Amazon, Macaws, -->
 
-<!-- marginal: Blue-rumped Parrot -->
+Psittinus cyanurus Blue-rumped Parrot
 
-Parakeets, Parrots) Tanygnathus lucionensis
+<!-- marginal: Parakeets, Parrots) -->
 
-<!-- marginal: Blue-naped Parrot -->
-
-Amazona arausiaca
-
-<!-- marginal: Red-necked Amazon -->
-
-Amazona barbadensis
-
-<!-- marginal: Yellow shouldered Amazon -->
-
-Amazona brasiliensis
-
-<!-- marginal: Red-tailed Parrot -->
-
-Amazona finschi
-
-<!-- marginal: Lilac-crowned Parrot -->
-
-Amazona guildingii
-
-<!-- marginal: Saint Vincent Parrot -->
-
-Amazona imperialis
-
-<!-- marginal: Imperial Parrot) -->
-
-Amazona leucocephala
-
-<!-- marginal: Bahamas Parrot -->
-
-Amazona ochrocephala
-
-<!-- marginal: Yellow-naped Parrot -->
-
-auropalliata Amazona ochrocephala belizensis Amazona ochrocephala caribaea Amazona ochrocephala oratrix
-
-<!-- marginal: Yellow-headed Parrot -->
-
-Amazona ochrocephala parvipes Amazona ochrocephala tresmariae Amazona pretrei
-
-<!-- marginal: Red-spectacled Parrot -->
-
-Amazona rhodocorytha
-
-<!-- marginal: Red-browed Parrot -->
-
-Amazona tucumana
-
-<!-- marginal: Tucuman Parrot -->
-
-Amazona versicolor
-
-<!-- marginal: Saint Lucia Parrot -->
-
-Amazona vinacea
-
-<!-- marginal: Vinaceous Parrot -->
-
-Amazona viridigenalis
-
-<!-- marginal: Green-cheeked Parrot -->
-
-Amazona vittata
-
-<!-- marginal: Puerto Rican Parrot -->
-
-<!-- marginal: Blue Macaws -->
-
-Anodorhynchus spp. Ara ambigua
-
-<!-- marginal: Great Green Macaw -->
-
-Ara glaucogularis
-
-<!-- marginal: Blue-throated Macaw -->
-
-Ara macao
-
-<!-- marginal: Punaara -->
-
-Ara militaris
-
-<!-- marginal: Military Macaw -->
-
-Ara rubrogenys
-
-<!-- marginal: Red-fronted Macaw -->
-
-Cyanopsitta spixii
-
-<!-- marginal: Little Blue Macaw -->
-
-Cyanoramphus forbesi
-
-<!-- marginal: Forbes’s Parakeet -->
-
-Cyanoramphus novaezelandiae
-
-<!-- marginal: Red-fronted Parakeet -->
-
-Cyclopsitta diophthalma coxeni Coxen’s Two-eyed Fig
-
-<!-- marginal: Parrot -->
-
-Eunymphicus cornutus
-
-<!-- marginal: Horned Parakeet -->
-
-Geopsittacus occidentalis
-
-<!-- marginal: Night Parrot -->
+Tanygnathus lucionensis Blue-naped Parrot Amazona arausiaca Red-necked Amazon Amazona barbadensis Yellow shouldered Amazon Amazona brasiliensis Red-tailed Parrot Amazona finschi Lilac-crowned Parrot Amazona guildingii Saint Vincent Parrot Amazona imperialis Imperial Parrot) Amazona leucocephala Bahamas Parrot Amazona ochrocephala Yellow-naped Parrot auropalliata Amazona ochrocephala belizensis Amazona ochrocephala caribaea Amazona ochrocephala oratrix Yellow-headed Parrot Amazona ochrocephala parvipes Amazona ochrocephala tresmariae Amazona pretrei Red-spectacled Parrot Amazona rhodocorytha Red-browed Parrot Amazona tucumana Tucuman Parrot Amazona versicolor Saint Lucia Parrot Amazona vinacea Vinaceous Parrot Amazona viridigenalis Green-cheeked Parrot Amazona vittata Puerto Rican Parrot Blue Macaws Anodorhynchus spp. Ara ambigua Great Green Macaw Ara glaucogularis Blue-throated Macaw Ara macao Punaara Ara militaris Military Macaw Ara rubrogenys Red-fronted Macaw Cyanopsitta spixii Little Blue Macaw Cyanoramphus forbesi Forbes’s Parakeet Cyanoramphus novaezelandiae Red-fronted Parakeet Cyclopsitta diophthalma coxeni Coxen’s Two-eyed Fig Parrot Eunymphicus cornutus Horned Parakeet Geopsittacus occidentalis Night Parrot
 
 <!-- page 130 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
+Nama Saintifik Nama Biasa Guarouba guarouba Golden Parakeet Neophema chrysogaster Orange-bellied Parrot Ognorhynchus icterotis Yellow-eared Parrot Pezoporus wallicus Ground Parakeet Pionopsitta pileata Red-capped Parrot Propyrrhura couloni Blue-headed Macaw Propyrrhura maracana Blue-winged Macaw Psephotus chrysopterygius Golden-shouldered Parrot Psephotus dissimilis Hooded Parrot Psephotus pulcherrimus Paradise Parrot Psittacula echo Mauritius Parakeet Psittacula longicauda Long-tailed Parakeet Pyrrhura cruentata Blue-throated Parakeet Parrot Rhynchopsitta spp. Strigops habroptilus Owl Parrot
 
-Guarouba guarouba
+<!-- marginal: Pycnonotidae -->
 
-<!-- marginal: Golden Parakeet -->
+Alophoixus bres Grey-cheeked Bulbul
 
-Neophema chrysogaster
+<!-- marginal: (Merbah) -->
 
-<!-- marginal: Orange-bellied Parrot -->
-
-Ognorhynchus icterotis
-
-<!-- marginal: Yellow-eared Parrot -->
-
-Pezoporus wallicus
-
-<!-- marginal: Ground Parakeet -->
-
-Pionopsitta pileata
-
-<!-- marginal: Red-capped Parrot -->
-
-Propyrrhura couloni
-
-<!-- marginal: Blue-headed Macaw -->
-
-Propyrrhura maracana
-
-<!-- marginal: Blue-winged Macaw -->
-
-Psephotus chrysopterygius
-
-<!-- marginal: Golden-shouldered Parrot -->
-
-Psephotus dissimilis
-
-<!-- marginal: Hooded Parrot -->
-
-Psephotus pulcherrimus
-
-<!-- marginal: Paradise Parrot -->
-
-Psittacula echo
-
-<!-- marginal: Mauritius Parakeet -->
-
-Psittacula longicauda
-
-<!-- marginal: Long-tailed Parakeet -->
-
-Pyrrhura cruentata
-
-<!-- marginal: Blue-throated Parakeet -->
-
-<!-- marginal: Parrot -->
-
-Rhynchopsitta spp. Strigops habroptilus
-
-<!-- marginal: Owl Parrot -->
-
-Pycnonotidae Alophoixus bres
-
-<!-- marginal: Grey-cheeked Bulbul -->
-
-(Merbah) Alophoixus finschi
-
-<!-- marginal: Finsch’s Bulbul -->
-
-Alophoixus ochraceus
-
-<!-- marginal: Ochraceus Bulbul -->
-
-Alophoixus phaeocephalus
-
-<!-- marginal: Merbah Perut Kuning -->
-
-Hemixos flavala
-
-<!-- marginal: Ashy Bulbul -->
-
-Hypsipetes mcclellandii
-
-<!-- marginal: Mountain Bulbul -->
-
-Iole olivacea
-
-<!-- marginal: Buff-vented Bulbul -->
-
-Ixos malaccensis
-
-<!-- marginal: Streaked Bulbul -->
-
-Pycnonotus atriceps
-
-<!-- marginal: Merbah Siam -->
-
-Pycnonotus blanfordi
-
-<!-- marginal: Merbah Telinga Lurus -->
-
-Pycnonotus brunneus
-
-<!-- marginal: Merbah Mata Merah -->
-
-Pycnonotus cyaniventris
-
-<!-- marginal: Merbah Kelabu -->
-
-Pycnonotus erythrophthalmos
-
-<!-- marginal: Merbah Kecil -->
-
-Pycnonotus eutilotus
-
-<!-- marginal: Merbah Coklat Berjambul -->
-
-Pycnonotus finlaysoni
-
-<!-- marginal: Merbah Luris Leher -->
-
-Pycnonotus flavescens
-
-<!-- marginal: Merbah Kening Putih -->
-
-Pycnonotus melanicterus
-
-<!-- marginal: Merbah Jambul Hitam -->
-
-Pycnonotus melanoleucos
-
-<!-- marginal: Merbah Hitam Putih -->
-
-Pycnonotus plumosus
-
-<!-- marginal: Merbah Belukar -->
-
-Pycnonotus simplex
-
-<!-- marginal: Merbah Mata Putih -->
-
-Pycnonotus squamatus
-
-<!-- marginal: Merbah Bersisik -->
-
-Pycnonotus zeylanicus
-
-<!-- marginal: Barau-Barau -->
-
-Setornis criniger
-
-<!-- marginal: Hook-billed Bulbul -->
-
-Tricholestes criniger
-
-<!-- marginal: Hairy-backed Bulbul -->
+Alophoixus finschi Finsch’s Bulbul Alophoixus ochraceus Ochraceus Bulbul Alophoixus phaeocephalus Merbah Perut Kuning Hemixos flavala Ashy Bulbul Hypsipetes mcclellandii Mountain Bulbul Iole olivacea Buff-vented Bulbul Ixos malaccensis Streaked Bulbul Pycnonotus atriceps Merbah Siam Pycnonotus blanfordi Merbah Telinga Lurus Pycnonotus brunneus Merbah Mata Merah Pycnonotus cyaniventris Merbah Kelabu Pycnonotus erythrophthalmos Merbah Kecil Pycnonotus eutilotus Merbah Coklat Berjambul Pycnonotus finlaysoni Merbah Luris Leher Pycnonotus flavescens Merbah Kening Putih Pycnonotus melanicterus Merbah Jambul Hitam Pycnonotus melanoleucos Merbah Hitam Putih Pycnonotus plumosus Merbah Belukar Pycnonotus simplex Merbah Mata Putih Pycnonotus squamatus Merbah Bersisik Pycnonotus zeylanicus Barau-Barau Setornis criniger Hook-billed Bulbul Tricholestes criniger Hairy-backed Bulbul
 
 <!-- page 131 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
+Nama Saintifik Nama Biasa
 
-Rallidae Fulica atra
+<!-- marginal: Rallidae -->
 
-<!-- marginal: Pangling Hitam -->
+Fulica atra Pangling Hitam
 
-(Rail) Gallicrex cinerea
+(Rail) Gallicrex cinerea Ayam-Ayam Gallinula chloropus Tiong Air Gallirallus striatus Sintar Porzana cinerea Sintar Dahi Putih Porzana fusca Sintar Belacan Porzana paykullii Sintar Berjalur Porphyrio porphyrio Pangling Porzana pusilla Sintar Kecil Rallina eurizonoides Sintar Merah Rallina fasciata Sintar Api Rallus aquaticus Sintar Air Gallirallus sylvestris Lord Howe Island Rail
 
-<!-- marginal: Ayam-Ayam -->
+<!-- marginal: Recurvirostridae -->
 
-Gallinula chloropus
+Himantopus himantopus Black-winged Stilt
 
-<!-- marginal: Tiong Air -->
+<!-- marginal: (Stilt) -->
 
-Gallirallus striatus
+<!-- marginal: Rheidae -->
 
-<!-- marginal: Sintar -->
+Darwin’s Rhea Pterocnemia pennata (Kecuali
 
-Porzana cinerea
+<!-- marginal: (Rheas) -->
 
-<!-- marginal: Sintar Dahi Putih -->
+subspesies di Jadual Pertama)
 
-Porzana fusca
+<!-- marginal: Rhipiduridae -->
 
-<!-- marginal: Sintar Belacan -->
+Rhipidura albicolis White-throated Fantail
 
-Porzana paykullii
+<!-- marginal: (Fantail) -->
 
-<!-- marginal: Sintar Berjalur -->
+Rhipidura javanica Pied Fantail Rhipidura perlata Spotted Fantail
 
-Porphyrio porphyrio
+<!-- marginal: Rhynochetidae -->
 
-<!-- marginal: Pangling -->
+Rhynochetos jubatus Kagu
 
-Porzana pusilla
+(Kagu)
 
-<!-- marginal: Sintar Kecil -->
+<!-- marginal: Rostratulidae -->
 
-Rallina eurizonoides
+Rostratula benghalensis Greater Paintedsnipe
 
-<!-- marginal: Sintar Merah -->
+<!-- marginal: (Paintedsnipe) -->
 
-Rallina fasciata
+<!-- marginal: Scolopacidae -->
 
-<!-- marginal: Sintar Api -->
+Actitis hypoleucos Kedidi Pasir
 
-Rallus aquaticus
+<!-- marginal: (Curlews, greenshanks) -->
 
-<!-- marginal: Sintar Air -->
-
-Gallirallus sylvestris
-
-<!-- marginal: Lord Howe Island Rail -->
-
-Recurvirostridae Himantopus himantopus
-
-<!-- marginal: Black-winged Stilt -->
-
-(Stilt) Rheidae
-
-<!-- marginal: Darwin’s Rhea -->
-
-Pterocnemia pennata (Kecuali (Rheas) subspesies di Jadual Pertama) Rhipiduridae Rhipidura albicolis
-
-<!-- marginal: White-throated Fantail -->
-
-(Fantail) Rhipidura javanica
-
-<!-- marginal: Pied Fantail -->
-
-Rhipidura perlata
-
-<!-- marginal: Spotted Fantail -->
-
-Rhynochetidae Rhynochetos jubatus
-
-<!-- marginal: Kagu -->
-
-(Kagu) Rostratulidae Rostratula benghalensis
-
-<!-- marginal: Greater Paintedsnipe -->
-
-(Paintedsnipe) Scolopacidae Actitis hypoleucos
-
-<!-- marginal: Kedidi Pasir -->
-
-(Curlews, greenshanks) Arenaria interpres
-
-<!-- marginal: Kedidi Kerikil -->
-
-Calidris acuminata
-
-<!-- marginal: Kedidi Ekor Tajam -->
-
-Crocethia alba
-
-<!-- marginal: Kedidi Kapak Jalur Putih -->
-
-Calidris alpina
-
-<!-- marginal: Dunlin -->
-
-Calidris canutus
-
-<!-- marginal: Kedidi Dian Kecil -->
-
-Calidris ferruginea
-
-<!-- marginal: Kedidi Pasir Kendi -->
-
-Calidris minuta
-
-<!-- marginal: Kedidi Stint Kecil -->
-
-Calidris ruficollis
-
-<!-- marginal: Kedidi Luris Leher -->
-
-Calidris subminuta
-
-<!-- marginal: Kedidi Jari Panjang -->
-
-Calidris temminckii
-
-<!-- marginal: Kedidi Temminck -->
-
-Calidris tenuirostris
-
-<!-- marginal: Kedidi Daun Besar -->
-
-Eurynorhynchus pymaeus
-
-<!-- marginal: Spoon-billed Sandpiper -->
-
-Gallinago gallinago
-
-<!-- marginal: Berkek Ekor Kapas -->
-
-Gallinago megala
-
-<!-- marginal: Berkek Tiruk -->
-
-Gallinago stenura
-
-<!-- marginal: Berkek Berbintik -->
-
-Heteroscelus brevipes
-
-<!-- marginal: Kedidi Ekor Kelabu -->
+Arenaria interpres Kedidi Kerikil Calidris acuminata Kedidi Ekor Tajam Crocethia alba Kedidi Kapak Jalur Putih Calidris alpina Dunlin Calidris canutus Kedidi Dian Kecil Calidris ferruginea Kedidi Pasir Kendi Calidris minuta Kedidi Stint Kecil Calidris ruficollis Kedidi Luris Leher Calidris subminuta Kedidi Jari Panjang Calidris temminckii Kedidi Temminck Calidris tenuirostris Kedidi Daun Besar Eurynorhynchus pymaeus Spoon-billed Sandpiper Gallinago gallinago Berkek Ekor Kapas Gallinago megala Berkek Tiruk Gallinago stenura Berkek Berbintik Heteroscelus brevipes Kedidi Ekor Kelabu
 
 <!-- page 132 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
+Nama Saintifik Nama Biasa Limicola falcinellus Kedidi Paruh Lebar Limosa lapponica Kedidi Berjalur Limosa limosa Kedidi Ekor Hitam Limnodromus scolopaceus Long-billed Dowitcher Limnodromus semipalmatus Kedidi Dada Merah Numenius arquata Kedidi Kendi Numenius madagascariensis Kedidi Timur Numenius minutus Kedidi Kecil Numenius phaeopus Kedidi Pisau Raut Philomachus pugnax Kedidi Ropol Scolopax rusticola Kedidi Urasia Tringa erythropus Kedidi Berbintik Tringa glareola Kedidi Kayu Tringa nebularia Kedidi Kaki Hijau Tringa ochropus Kedidi Pasir Hijau Tringa stagnalitis Kedidi Paya Tringa totanus Kedidi Kaki Merah Numenius borealis Eskimo Curlew Numenius tenuirostris Slender-billed Curlew Tringa guttifer Nordmann’s Greenshank
 
-Limicola falcinellus
+<!-- marginal: Sittidae -->
 
-<!-- marginal: Kedidi Paruh Lebar -->
+Sitta azurea Blue Nuthatch
 
-Limosa lapponica
+<!-- marginal: (Nuthatchers,Wallcreeper) -->
 
-<!-- marginal: Kedidi Berjalur -->
+Sitta frontalis Velvet-fronted Nuthatch
 
-Limosa limosa
+<!-- marginal: Spheniscidae -->
 
-<!-- marginal: Kedidi Ekor Hitam -->
+Spheniscus humboldti Peruvian Penguin
 
-Limnodromus scolopaceus
+<!-- marginal: (Penguins) -->
 
-<!-- marginal: Long-billed Dowitcher -->
+<!-- marginal: Stercorariidae -->
 
-Limnodromus semipalmatus
+Stercorarius longicaudus Long-tailed Jaeger
 
-<!-- marginal: Kedidi Dada Merah -->
+<!-- marginal: (Jaeger) -->
 
-Numenius arquata
+Stercorarius parasiticus Parasitic Jaeger Stercorarius pomarinus Pomarine Jaeger
 
-<!-- marginal: Kedidi Kendi -->
+<!-- marginal: Strigidae -->
 
-Numenius madagascariensis
+Asio flammeus Shot-eared Owl
 
-<!-- marginal: Kedidi Timur -->
+<!-- marginal: (Burung Hantu) -->
 
-Numenius minutus
-
-<!-- marginal: Kedidi Kecil -->
-
-Numenius phaeopus
-
-<!-- marginal: Kedidi Pisau Raut -->
-
-Philomachus pugnax
-
-<!-- marginal: Kedidi Ropol -->
-
-Scolopax rusticola
-
-<!-- marginal: Kedidi Urasia -->
-
-Tringa erythropus
-
-<!-- marginal: Kedidi Berbintik -->
-
-Tringa glareola
-
-<!-- marginal: Kedidi Kayu -->
-
-Tringa nebularia
-
-<!-- marginal: Kedidi Kaki Hijau -->
-
-Tringa ochropus
-
-<!-- marginal: Kedidi Pasir Hijau -->
-
-Tringa stagnalitis
-
-<!-- marginal: Kedidi Paya -->
-
-Tringa totanus
-
-<!-- marginal: Kedidi Kaki Merah -->
-
-Numenius borealis
-
-<!-- marginal: Eskimo Curlew -->
-
-Numenius tenuirostris
-
-<!-- marginal: Slender-billed Curlew -->
-
-Tringa guttifer
-
-<!-- marginal: Nordmann’s Greenshank -->
-
-Sittidae Sitta azurea
-
-<!-- marginal: Blue Nuthatch -->
-
-(Nuthatchers,Wallcreeper) Sitta frontalis
-
-<!-- marginal: Velvet-fronted Nuthatch -->
-
-Spheniscidae Spheniscus humboldti
-
-<!-- marginal: Peruvian Penguin -->
-
-(Penguins) Stercorariidae Stercorarius longicaudus
-
-<!-- marginal: Long-tailed Jaeger -->
-
-(Jaeger) Stercorarius parasiticus
-
-<!-- marginal: Parasitic Jaeger -->
-
-Stercorarius pomarinus
-
-<!-- marginal: Pomarine Jaeger -->
-
-Strigidae Asio flammeus
-
-<!-- marginal: Shot-eared Owl -->
-
-(Burung Hantu) Bubo coromandus
-
-<!-- marginal: Hantu Busut -->
-
-Bubo sumatranus
-
-<!-- marginal: Hantu Bubu -->
-
-Glaucidium brodiei
-
-<!-- marginal: Hantu Kecil -->
-
-Ketupa ketupu
-
-<!-- marginal: Hantu Kuning -->
-
-Ketupa zeylonensis
-
-<!-- marginal: Hantu Ikan -->
-
-Ninox scutulata
-
-<!-- marginal: Brown Hawk Owl -->
-
-Otus bakkamoena
-
-<!-- marginal: Hantu Reban -->
-
-Otus brookei
-
-<!-- marginal: Rajah’s Scops Owl -->
-
-Otus mantananensis
-
-<!-- marginal: Mantani Scops Owl -->
-
-Otus rufescens
-
-<!-- marginal: Hantu Merah -->
-
-Otus sagittatus
-
-<!-- marginal: Hantu Putih -->
-
-Otus spilocephalus
-
-<!-- marginal: Hantu Gunung -->
+Bubo coromandus Hantu Busut Bubo sumatranus Hantu Bubu Glaucidium brodiei Hantu Kecil Ketupa ketupu Hantu Kuning Ketupa zeylonensis Hantu Ikan Ninox scutulata Brown Hawk Owl Otus bakkamoena Hantu Reban Otus brookei Rajah’s Scops Owl Otus mantananensis Mantani Scops Owl Otus rufescens Hantu Merah Otus sagittatus Hantu Putih Otus spilocephalus Hantu Gunung
 
 <!-- page 133 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
+Nama Saintifik Nama Biasa Otus sunia Hantu Kuang Kuik Strix leptogrammica Hantu Punggor Strix seloputo Hantu Carek Kafan Owl Aegolius spp. Owl Asio spp. Athene blewitti Forest Little Owl Owl Athene spp. Eagle Owls Bubo spp. Glaucidium spp. Burung Punggok Kecil Jubula lettii Maned Owl Owl Ketupa spp. Lophostrix cristata Crested Owl Micrathe whitneyi Elf Owl Mimizuku gurneyi Mindanao Eagle-Owl Ninox novaeseelandiae Norfolk Island Boobook undulate Owl Owl Ninox spp. Ninox squamipila natalis Christmas Hawk-Owl Nesasio solomonensis Fearful Owl Nyctea scandiaca Snowy Owl Owl Otus spp. Pseudoscops grammicus Jamaican Owl Owl Pulsatrix spp. Sceloglaux albifacies Laughing Owl Fishing owls Scotopelia spp. Owl Strix spp. Surnia ulula Hawk Owl Uroglaux dimorpha Papuan Boobook Xenoglaux loweryi Long-whiskered Owlet
 
-Otus sunia
+<!-- marginal: Struthionidae -->
 
-<!-- marginal: Hantu Kuang Kuik -->
+Struthio camelus Burung Unta
 
-Strix leptogrammica
+<!-- marginal: (Burung Unta) -->
 
-<!-- marginal: Hantu Punggor -->
+<!-- marginal: Sturnidae -->
 
-Strix seloputo
+Acridotheres cristatellus Tiong China
 
-<!-- marginal: Hantu Carek Kafan -->
+<!-- marginal: (Tiong, starlings) -->
 
-<!-- marginal: Owl -->
+Ampliceps coronatus Tiong Jambul Mas Leucopsar rothschildi Tiong Bali
 
-Aegolius spp.
+<!-- marginal: Sulidae -->
 
-<!-- marginal: Owl -->
+Sula dactylatra Dendang Penyamar
 
-Asio spp. Athene blewitti
+<!-- marginal: (Booby) -->
 
-<!-- marginal: Forest Little Owl -->
-
-<!-- marginal: Owl -->
-
-Athene spp.
-
-<!-- marginal: Eagle Owls -->
-
-Bubo spp. Glaucidium spp.
-
-<!-- marginal: Burung Punggok Kecil -->
-
-Jubula lettii
-
-<!-- marginal: Maned Owl -->
-
-<!-- marginal: Owl -->
-
-Ketupa spp. Lophostrix cristata
-
-<!-- marginal: Crested Owl -->
-
-Micrathe whitneyi
-
-<!-- marginal: Elf Owl -->
-
-Mimizuku gurneyi
-
-<!-- marginal: Mindanao Eagle-Owl -->
-
-Ninox novaeseelandiae
-
-<!-- marginal: Norfolk Island Boobook -->
-
-undulate
-
-<!-- marginal: Owl -->
-
-<!-- marginal: Owl -->
-
-Ninox spp. Ninox squamipila natalis
-
-<!-- marginal: Christmas Hawk-Owl -->
-
-Nesasio solomonensis
-
-<!-- marginal: Fearful Owl -->
-
-Nyctea scandiaca
-
-<!-- marginal: Snowy Owl -->
-
-<!-- marginal: Owl -->
-
-Otus spp. Pseudoscops grammicus
-
-<!-- marginal: Jamaican Owl -->
-
-<!-- marginal: Owl -->
-
-Pulsatrix spp. Sceloglaux albifacies
-
-<!-- marginal: Laughing Owl -->
-
-<!-- marginal: Fishing owls -->
-
-Scotopelia spp.
-
-<!-- marginal: Owl -->
-
-Strix spp. Surnia ulula
-
-<!-- marginal: Hawk Owl -->
-
-Uroglaux dimorpha
-
-<!-- marginal: Papuan Boobook -->
-
-Xenoglaux loweryi
-
-<!-- marginal: Long-whiskered Owlet -->
-
-Struthionidae Struthio camelus
-
-<!-- marginal: Burung Unta -->
-
-(Burung Unta) Sturnidae Acridotheres cristatellus
-
-<!-- marginal: Tiong China -->
-
-(Tiong, starlings) Ampliceps coronatus
-
-<!-- marginal: Tiong Jambul Mas -->
-
-Leucopsar rothschildi
-
-<!-- marginal: Tiong Bali -->
-
-Sulidae Sula dactylatra
-
-<!-- marginal: Dendang Penyamar -->
-
-(Booby) Sula leucogaster
-
-<!-- marginal: Dendang Laut -->
-
-Sula sula
-
-<!-- marginal: Dendang Kaki Merah -->
-
-Papasula abbotti
-
-<!-- marginal: Abbott’s Booby -->
+Sula leucogaster Dendang Laut Sula sula Dendang Kaki Merah Papasula abbotti Abbott’s Booby
 
 <!-- page 134 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
+Nama Saintifik Nama Biasa
 
-Sylviidae Abroscopus superciliaris
+<!-- marginal: Sylviidae -->
 
-<!-- marginal: Cekup Perut Kuning -->
+Abroscopus superciliaris Cekup Perut Kuning
 
-(Leaf warblers, Grass- Acrocephalus aedon
+<!-- marginal: (Leaf warblers, Grass- -->
 
-<!-- marginal: Cekup Paruh Tebal -->
+Acrocephalus aedon Cekup Paruh Tebal
 
-warblers, Laughingthrushes, Acrocephalus bistrigiceps
+<!-- marginal: warblers, Laughingthrushes, -->
 
-<!-- marginal: Cekup Alis Hitam -->
+Acrocephalus bistrigiceps Cekup Alis Hitam
 
-babblers) Acrocephalus orientalis
+<!-- marginal: babblers) -->
 
-<!-- marginal: Cekup Sampah -->
+Acrocephalus orientalis Cekup Sampah Acrocephalus stentoreous Cekup Resam Bradypterus accentor Cekup Raja Berkawan Cettia vulcania Cekup Raja Sunda Cisticola juncidis Cekup Layang Locustella certhiola Cekup Belalang Locustella lanceolata Cekup Tikus Locustella ochotensis Cekup Paya Megalurus palustris Cekup Jalur Orthotomus astrogularis Perenjak Belukar Orthotomus cuculatus Perenjak Gunung Orthotomus sericeus Perenjak Rimba Orthotomus sepium Perenjak Bukit Orthotomus sutorius Perenjak Pisang Phylloscopus borealis Cekup Artik Phylloscopus coronatus Cekup Dahan Phylloscopus fuscatus Cekup Lalat Phylloscopus inornatus Cekup Rimba Phylloscopus plumbeitarsus Two-barred Warbler Phylloscopus tenellipes Cekup Ranting Phylloscopus trivirgatus Cekup Daun Gunung Prinia atrogularis Perenjak Puncak Prinia flaviventris Perenjak Padi Prinia rufescens Perenjak Sampah Seicercus burkii Cekup Mata Mas Seicercus castaniceps Cekup Dada Kuning Seicercus montis Cekup Mahkota Coklat Urosphena whiteheadi Bornean Subtail
 
-Acrocephalus stentoreous
+<!-- marginal: Threskiornithidae -->
 
-<!-- marginal: Cekup Resam -->
+Plegadis falcinellus Sekendi Kilat
 
-Bradypterus accentor
+<!-- marginal: (Ibises, spoonbills) -->
 
-<!-- marginal: Cekup Raja Berkawan -->
+Pseudibis davisoni Sekendi Bahu Putih Threskiornis melanocephalus Sekendi Kepala Hitam Geronticus eremita Bald Ibis Nipponia nippon Crested Ibis
 
-Cettia vulcania
+<!-- marginal: Timaliidae -->
 
-<!-- marginal: Cekup Raja Sunda -->
+Alcippe brunneicauda Rimba Murai Coklat
 
-Cisticola juncidis
+<!-- marginal: (Rimba) -->
 
-<!-- marginal: Cekup Layang -->
-
-Locustella certhiola
-
-<!-- marginal: Cekup Belalang -->
-
-Locustella lanceolata
-
-<!-- marginal: Cekup Tikus -->
-
-Locustella ochotensis
-
-<!-- marginal: Cekup Paya -->
-
-Megalurus palustris
-
-<!-- marginal: Cekup Jalur -->
-
-Orthotomus astrogularis
-
-<!-- marginal: Perenjak Belukar -->
-
-Orthotomus cuculatus
-
-<!-- marginal: Perenjak Gunung -->
-
-Orthotomus sericeus
-
-<!-- marginal: Perenjak Rimba -->
-
-Orthotomus sepium
-
-<!-- marginal: Perenjak Bukit -->
-
-Orthotomus sutorius
-
-<!-- marginal: Perenjak Pisang -->
-
-Phylloscopus borealis
-
-<!-- marginal: Cekup Artik -->
-
-Phylloscopus coronatus
-
-<!-- marginal: Cekup Dahan -->
-
-Phylloscopus fuscatus
-
-<!-- marginal: Cekup Lalat -->
-
-Phylloscopus inornatus
-
-<!-- marginal: Cekup Rimba -->
-
-Phylloscopus plumbeitarsus
-
-<!-- marginal: Two-barred Warbler -->
-
-Phylloscopus tenellipes
-
-<!-- marginal: Cekup Ranting -->
-
-Phylloscopus trivirgatus
-
-<!-- marginal: Cekup Daun Gunung -->
-
-Prinia atrogularis
-
-<!-- marginal: Perenjak Puncak -->
-
-Prinia flaviventris
-
-<!-- marginal: Perenjak Padi -->
-
-Prinia rufescens
-
-<!-- marginal: Perenjak Sampah -->
-
-Seicercus burkii
-
-<!-- marginal: Cekup Mata Mas -->
-
-Seicercus castaniceps
-
-<!-- marginal: Cekup Dada Kuning -->
-
-Seicercus montis
-
-<!-- marginal: Cekup Mahkota Coklat -->
-
-Urosphena whiteheadi
-
-<!-- marginal: Bornean Subtail -->
-
-Threskiornithidae Plegadis falcinellus
-
-<!-- marginal: Sekendi Kilat -->
-
-(Ibises, spoonbills) Pseudibis davisoni
-
-<!-- marginal: Sekendi Bahu Putih -->
-
-Threskiornis melanocephalus
-
-<!-- marginal: Sekendi Kepala Hitam -->
-
-Geronticus eremita
-
-<!-- marginal: Bald Ibis -->
-
-Nipponia nippon
-
-<!-- marginal: Crested Ibis -->
-
-Timaliidae Alcippe brunneicauda
-
-<!-- marginal: Rimba Murai Coklat -->
-
-(Rimba) Alcippe castaneceps
-
-<!-- marginal: Rimba Murai Batu -->
-
-Alcippe peracensis
-
-<!-- marginal: Rimba Murai Gunung -->
+Alcippe castaneceps Rimba Murai Batu Alcippe peracensis Rimba Murai Gunung
 
 <!-- page 135 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
-
-Cutia nipalensis
-
-<!-- marginal: Rimba Kutia -->
-
-Eupetes macrocerus
-
-<!-- marginal: Rimba Malaysia -->
-
-Gampsorhynchus rufulus
-
-<!-- marginal: Rimba Tudung Putih -->
-
-Garrulax erythrocepahalus
-
-<!-- marginal: Chestnut-crowned -->
-
-<!-- marginal: Laughingthrush -->
-
-Garrulax lugubris
-
-<!-- marginal: Black Laughingthrush -->
-
-Garrulax mitratus
-
-<!-- marginal: Chestnut-capped -->
-
-<!-- marginal: Laughingthrush -->
-
-Garrulax pelliatus
-
-<!-- marginal: Sunda Laughingthrush -->
-
-Heterophasia picaoides
-
-<!-- marginal: Sibia Ekor Panjang -->
-
-Kenopia striata
-
-<!-- marginal: Rimba Tanda Hujan -->
-
-Leiothrix argentaurus
-
-<!-- marginal: Rimba Telinga Merah -->
-
-Macronous gularis
-
-<!-- marginal: Rimba Berjalur -->
-
-Macronous ptilosus
-
-<!-- marginal: Rimba Pong Pong -->
-
-Malacocincla abbotti
-
-<!-- marginal: Rimba Riang -->
-
-Malacocincla malaccensis
-
-<!-- marginal: Rimba Ekor Pendek -->
-
-Malacocincla sepiarium
-
-<!-- marginal: Rimba Hutan -->
-
-Malacopteron affine
-
-<!-- marginal: Rimba Tinjau Belukar -->
-
-Malacopteron albogulare
-
-<!-- marginal: Rimba Dahan -->
-
-Malacopteron cinereum
-
-<!-- marginal: Rimba Tua Kecil -->
-
-Malacopteron magnirostre
-
-<!-- marginal: Rimba Bermisai -->
-
-Malacopteron magnum
-
-<!-- marginal: Rimba Tua Besar -->
-
-Minla cyanouroptera
-
-<!-- marginal: Rimba Murai Gunung -->
-
-Minla strigula
-
-<!-- marginal: Rimba Murai Keladi -->
-
-Napothera atrigularis
-
-<!-- marginal: Black-throated Wren- -->
-
-<!-- marginal: Babbler -->
-
-Napothera brevicaudata
-
-<!-- marginal: Rimba Tunggul -->
-
-Napothera crassa
-
-<!-- marginal: Rimba Gunung -->
-
-Napothera epilepidota
-
-<!-- marginal: Rimba Bercelak -->
-
-Napothera macrodactyla
-
-<!-- marginal: Rimba Besar Hujan -->
-
-Napothera marmorata
-
-<!-- marginal: Rimba Pacat -->
-
-Pellorneum capistratum
-
-<!-- marginal: Rimba Kopiah Hitam -->
-
-Pellorneum pyrrogenys
-
-<!-- marginal: Rimba Timmink -->
-
-Pellorneum ruficeps
-
-<!-- marginal: Rimba Bintik-Bintik -->
-
-Pnoepyga pusilla
-
-<!-- marginal: Rimba Lompat -->
-
-Pomatorhinus hypoleucos
-
-<!-- marginal: Rimba Paya -->
-
-Pomatorhinus montanus
-
-<!-- marginal: Rimba Hulu -->
-
-Pteruthius flaviscapis
-
-<!-- marginal: Rimba Cekup Belalang -->
-
-Pteruthius melanotis
-
-<!-- marginal: Rimba Cekup Telinga -->
-
-<!-- marginal: Hitam -->
-
-Ptilocichla leucogrammica
-
-<!-- marginal: Borneon Wren-Babbler -->
+Nama Saintifik Nama Biasa Cutia nipalensis Rimba Kutia Eupetes macrocerus Rimba Malaysia Gampsorhynchus rufulus Rimba Tudung Putih Garrulax erythrocepahalus Chestnut-crowned Laughingthrush Garrulax lugubris Black Laughingthrush Garrulax mitratus Chestnut-capped Laughingthrush Garrulax pelliatus Sunda Laughingthrush Heterophasia picaoides Sibia Ekor Panjang Kenopia striata Rimba Tanda Hujan Leiothrix argentaurus Rimba Telinga Merah Macronous gularis Rimba Berjalur Macronous ptilosus Rimba Pong Pong Malacocincla abbotti Rimba Riang Malacocincla malaccensis Rimba Ekor Pendek Malacocincla sepiarium Rimba Hutan Malacopteron affine Rimba Tinjau Belukar Malacopteron albogulare Rimba Dahan Malacopteron cinereum Rimba Tua Kecil Malacopteron magnirostre Rimba Bermisai Malacopteron magnum Rimba Tua Besar Minla cyanouroptera Rimba Murai Gunung Minla strigula Rimba Murai Keladi Napothera atrigularis Black-throated Wren- Babbler Napothera brevicaudata Rimba Tunggul Napothera crassa Rimba Gunung Napothera epilepidota Rimba Bercelak Napothera macrodactyla Rimba Besar Hujan Napothera marmorata Rimba Pacat Pellorneum capistratum Rimba Kopiah Hitam Pellorneum pyrrogenys Rimba Timmink Pellorneum ruficeps Rimba Bintik-Bintik Pnoepyga pusilla Rimba Lompat Pomatorhinus hypoleucos Rimba Paya Pomatorhinus montanus Rimba Hulu Pteruthius flaviscapis Rimba Cekup Belalang Pteruthius melanotis Rimba Cekup Telinga Hitam Ptilocichla leucogrammica Borneon Wren-Babbler
 
 <!-- page 136 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
+Nama Saintifik Nama Biasa Stachyris chrysea Rimba Mas Stachyris erythroptera Rimba Merbah Sampah Stachyris leucotis Rimba Rembang Stachyris maculata Rimba Rembang Besar Stachyris nigriceps Rimba Leher Kelabu Stachyris nigricollis Rimba Bertam Stachyris poliocephala Rimba Kepala Kelabu Stachyris rufifrons Rimba Api Trichastoma bicolour Rimba Sampah Trichastoma rostratum Rimba Telunjuk Trichastoma tickelli Rimba Ranting Yuhina everetti Chestnut-crested Yuhina Yuhina zantholeuca Yuhina Perut Putih
 
-Stachyris chrysea
+<!-- marginal: Tinamidae -->
 
-<!-- marginal: Rimba Mas -->
+Tinamus solitarius Solitary Tinamou
 
-Stachyris erythroptera
+<!-- marginal: (Tinamou) -->
 
-<!-- marginal: Rimba Merbah Sampah -->
+<!-- marginal: Trochilidae -->
 
-Stachyris leucotis
+Glaucis dohrnii Hook-billed Hermit
 
-<!-- marginal: Rimba Rembang -->
+<!-- marginal: (Hummingbirds) -->
 
-Stachyris maculata
+<!-- marginal: Trogonidae -->
 
-<!-- marginal: Rimba Rembang Besar -->
+Harpactes diardii Kesumba Bukit
 
-Stachyris nigriceps
+<!-- marginal: (Quetzal) -->
 
-<!-- marginal: Rimba Leher Kelabu -->
+Harpactes duvaucelii Kesumba Puteri Harpactes erythrocephalus Kesumba Gunung Harpactes kasumba Kesumba Batang Harpactes oreskios Kesumba Harimau Harpactes orrhophaeus Kesumba Pelanduk Harpactes whiteheadi Kesumba Whitehead Pharomachrus mocinno Magnificent Quetzal
 
-Stachyris nigricollis
+<!-- marginal: Turdidae -->
 
-<!-- marginal: Rimba Bertam -->
+Brachypteryx leucophrys Murai Kakap
 
-Stachyris poliocephala
+<!-- marginal: (Thrushes) -->
 
-<!-- marginal: Rimba Kepala Kelabu -->
-
-Stachyris rufifrons
-
-<!-- marginal: Rimba Api -->
-
-Trichastoma bicolour
-
-<!-- marginal: Rimba Sampah -->
-
-Trichastoma rostratum
-
-<!-- marginal: Rimba Telunjuk -->
-
-Trichastoma tickelli
-
-<!-- marginal: Rimba Ranting -->
-
-Yuhina everetti
-
-<!-- marginal: Chestnut-crested Yuhina -->
-
-Yuhina zantholeuca
-
-<!-- marginal: Yuhina Perut Putih -->
-
-Tinamidae Tinamus solitarius
-
-<!-- marginal: Solitary Tinamou -->
-
-(Tinamou) Trochilidae Glaucis dohrnii
-
-<!-- marginal: Hook-billed Hermit -->
-
-(Hummingbirds) Trogonidae Harpactes diardii
-
-<!-- marginal: Kesumba Bukit -->
-
-(Quetzal) Harpactes duvaucelii
-
-<!-- marginal: Kesumba Puteri -->
-
-Harpactes erythrocephalus
-
-<!-- marginal: Kesumba Gunung -->
-
-Harpactes kasumba
-
-<!-- marginal: Kesumba Batang -->
-
-Harpactes oreskios
-
-<!-- marginal: Kesumba Harimau -->
-
-Harpactes orrhophaeus
-
-<!-- marginal: Kesumba Pelanduk -->
-
-Harpactes whiteheadi
-
-<!-- marginal: Kesumba Whitehead -->
-
-Pharomachrus mocinno
-
-<!-- marginal: Magnificent Quetzal -->
-
-Turdidae Brachypteryx leucophrys
-
-<!-- marginal: Murai Kakap -->
-
-(Thrushes) Brachypteryx montana
-
-<!-- marginal: Murai Alis Putih -->
-
-Chlamydochaera jefferyi
-
-<!-- marginal: Fruit Hunter -->
-
-Copsycus stricklandii
-
-<!-- marginal: White-crowned Shama -->
-
-Enicurus leschenaulti
-
-<!-- marginal: Murai Cegar Belukar -->
-
-Enicurus ruficapillus
-
-<!-- marginal: Murai Cegar -->
-
-Enicurus schistaceus
-
-<!-- marginal: Murai Cegar Berjalur -->
-
-Luscinia calliope
-
-<!-- marginal: Murai Sawa -->
-
-Luscinia cyane
-
-<!-- marginal: Murai Siberia -->
-
-Luscinia ruficeps
-
-<!-- marginal: Murai Kepala Merah -->
-
-Monticola gularis
-
-<!-- marginal: Murai Batu Rengkong Putih -->
-
-Monticola solitarius
-
-<!-- marginal: Murai Batu Tarung -->
-
-Myiomela leucura
-
-<!-- marginal: Murai Ekor Putih -->
-
-Myophonus robinsoni
-
-<!-- marginal: Murai Tiong Batu -->
-
-Myophonus caeruleus
-
-<!-- marginal: Murai Batu Siul -->
+Brachypteryx montana Murai Alis Putih Chlamydochaera jefferyi Fruit Hunter Copsycus stricklandii White-crowned Shama Enicurus leschenaulti Murai Cegar Belukar Enicurus ruficapillus Murai Cegar Enicurus schistaceus Murai Cegar Berjalur Luscinia calliope Murai Sawa Luscinia cyane Murai Siberia Luscinia ruficeps Murai Kepala Merah Monticola gularis Murai Batu Rengkong Putih Monticola solitarius Murai Batu Tarung Myiomela leucura Murai Ekor Putih Myophonus robinsoni Murai Tiong Batu Myophonus caeruleus Murai Batu Siul
 
 <!-- page 137 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
+Nama Saintifik Nama Biasa Myophonus glaucinus Murai Batu Sunda Oenanthe oenanthe Northen Wheatear Saxicola caprata Murai Batu Belang Saxicola torquata Murai Batu Pejal Tarsiger cyanurus Murai Belukar Trighixos pyrropyga Murai Rimba Ekor Kuning Turdus obscurus Murai Batu Kubur Turdus poliocephalus Murai Batu Pulau Zoothera citrina Murai Belanda Zoothera dauma Murai Batu Putih Zoothera everetti Murai Batu Everett Zoothera interpres Murai Batu Tanah Zoothera sibirica Murai Siberia Kelabu
 
-Myophonus glaucinus
+<!-- marginal: Turnicidae -->
 
-<!-- marginal: Murai Batu Sunda -->
+Turnix suscitator Puyuh
 
-Oenanthe oenanthe
+<!-- marginal: (Puyuh) -->
 
-<!-- marginal: Northen Wheatear -->
+<!-- marginal: Tytonidae -->
 
-Saxicola caprata
+Phodilus badius Jampok Pantai
 
-<!-- marginal: Murai Batu Belang -->
+<!-- marginal: (Jampok) -->
 
-Saxicola torquata
+Tyto alba Jampok Kubur Tyto capensis Grass Owl Phodilus prigoginei African Bay Owl Tyto soumagnei Madagascar Owl Owl Tyto spp.
 
-<!-- marginal: Murai Batu Pejal -->
+<!-- marginal: Upupidae -->
 
-Tarsiger cyanurus
+Upupa epops Hupo Tunggal
 
-<!-- marginal: Murai Belukar -->
+<!-- marginal: (Hoopoe) -->
 
-Trighixos pyrropyga
+<!-- marginal: Zosteropidae -->
 
-<!-- marginal: Murai Rimba Ekor Kuning -->
+Zosterops everetti Mata Putih Belukar
 
-Turdus obscurus
+<!-- marginal: (Mata Putih) -->
 
-<!-- marginal: Murai Batu Kubur -->
-
-Turdus poliocephalus
-
-<!-- marginal: Murai Batu Pulau -->
-
-Zoothera citrina
-
-<!-- marginal: Murai Belanda -->
-
-Zoothera dauma
-
-<!-- marginal: Murai Batu Putih -->
-
-Zoothera everetti
-
-<!-- marginal: Murai Batu Everett -->
-
-Zoothera interpres
-
-<!-- marginal: Murai Batu Tanah -->
-
-Zoothera sibirica
-
-<!-- marginal: Murai Siberia Kelabu -->
-
-Turnicidae Turnix suscitator
-
-<!-- marginal: Puyuh -->
-
-(Puyuh) Tytonidae Phodilus badius
-
-<!-- marginal: Jampok Pantai -->
-
-(Jampok) Tyto alba
-
-<!-- marginal: Jampok Kubur -->
-
-Tyto capensis
-
-<!-- marginal: Grass Owl -->
-
-Phodilus prigoginei
-
-<!-- marginal: African Bay Owl -->
-
-Tyto soumagnei
-
-<!-- marginal: Madagascar Owl -->
-
-<!-- marginal: Owl -->
-
-Tyto spp. Upupidae Upupa epops
-
-<!-- marginal: Hupo Tunggal -->
-
-(Hoopoe) Zosteropidae Zosterops everetti
-
-<!-- marginal: Mata Putih Belukar -->
-
-(Mata Putih) Zosterops albogularis
-
-<!-- marginal: Mata Putih Dada Putih -->
+Zosterops albogularis Mata Putih Dada Putih
 
 ## KELAS REPTILIA (REPTILIA)
 
-Alligatoridae Alligator sinensis
+<!-- marginal: Alligatoridae -->
 
-<!-- marginal: China Alligator -->
+Alligator sinensis China Alligator
 
-(Alligators, caimans) Caiman crocodilus
+<!-- marginal: (Alligators, caimans) -->
 
-<!-- marginal: Apaporis River Caiman -->
+Caiman crocodilus Apaporis River Caiman apaporiensis Broad-snouted Caiman Caiman latirostris (kecuali populasi Argentina yang termasuk dalam Jadual Pertama) Black Caiman Melanosuchus niger (kecuali populasi Brazil dan Ecuador yang termasuk dalam Jadual Pertama)
 
-apaporiensis
+<!-- marginal: Boidae -->
 
-<!-- marginal: Broad-snouted Caiman -->
+Madagascar Ground Boa Acrantophis spp.
 
-Caiman latirostris (kecuali populasi Argentina yang termasuk dalam Jadual Pertama)
-
-<!-- marginal: Black Caiman -->
-
-Melanosuchus niger (kecuali populasi Brazil dan Ecuador yang termasuk dalam Jadual Pertama) Boidae
-
-<!-- marginal: Madagascar Ground Boa -->
-
-Acrantophis spp. (Boas) Boa constrictor occidentalis
-
-<!-- marginal: Argentine Boa Constrictor -->
-
-Epicrates inornatus
-
-<!-- marginal: Yellow Tree Boa -->
-
-Epicrates monensis
-
-<!-- marginal: Mona Island Boa -->
+(Boas) Boa constrictor occidentalis Argentine Boa Constrictor Epicrates inornatus Yellow Tree Boa Epicrates monensis Mona Island Boa
 
 <!-- page 138 -->
 
@@ -10664,139 +6082,63 @@ Lacertidae Gallotia simonyi
 
 <!-- page 139 -->
 
-Famili Nama Saintifik
+<!-- marginal: Famili -->
 
-<!-- marginal: Nama Biasa -->
+Nama Saintifik Nama Biasa
 
-Pythonidae Python brongersmai
+<!-- marginal: Pythonidae -->
 
-<!-- marginal: Ular Sawa Darah -->
+Python brongersmai Ular Sawa Darah
 
-(Ular Sawa) Python molurus molurus
+<!-- marginal: (Ular Sawa) -->
 
-<!-- marginal: Indian Python -->
+Python molurus molurus Indian Python
 
-Sphenodontidae
+<!-- marginal: Sphenodontidae -->
 
-<!-- marginal: Tuataras -->
+Tuataras Sphenodon spp.
 
-Sphenodon spp. (Tuatara) Testudinidae Geochelone nigra
+<!-- marginal: (Tuatara) -->
 
-<!-- marginal: Galapagos Giant Tortoise -->
+<!-- marginal: Testudinidae -->
 
-(Kura-kura) Geochelone radiata
+Geochelone nigra Galapagos Giant Tortoise
 
-<!-- marginal: Radiated Tortoise -->
+<!-- marginal: (Kura-kura) -->
 
-Geochelone yniphora
+Geochelone radiata Radiated Tortoise Geochelone yniphora Madagascar Tortoise Gopherus flavomarginatus Bolson Tortoise Psammobates geometricus Geometric Tortoise Pyxis arachnoides Spider Tortoise Pyxis planicauda Flat-backed Spider Tortoise Testudo kleinmanni Egyptian Tortoise Testudo werneri Negev Tortoise
 
-<!-- marginal: Madagascar Tortoise -->
+<!-- marginal: Trionychidae -->
 
-Gopherus flavomarginatus
+Apalone ater Cuatro Cienegas Softshell
 
-<!-- marginal: Bolson Tortoise -->
+<!-- marginal: (Labi-labi, Tuntung) -->
 
-Psammobates geometricus
+Aspideretes gangeticus Indian Softshell Turtle Aspideretes hurum Peacock Soft-shell Turtle Aspideretes nigricans Black Softshell Turtle
 
-<!-- marginal: Geometric Tortoise -->
+<!-- marginal: Varanidae -->
 
-Pyxis arachnoides
+Varanus bengalensis Biawak Tikus
 
-<!-- marginal: Spider Tortoise -->
+<!-- marginal: (Biawak) -->
 
-Pyxis planicauda
+Varanus rudicollis Biawak Serunai Varanus dumerilli Biawak Kudung Varanus flavescens Yellow Monitor Varanus griseus Desert Monitor Varanus komodoensis Biawak Komodo Varanus nebulosus Clouded Monitor
 
-<!-- marginal: Flat-backed Spider Tortoise -->
+<!-- marginal: Viperidae -->
 
-Testudo kleinmanni
+Vipera ursinii Meadow Viper
 
-<!-- marginal: Egyptian Tortoise -->
-
-Testudo werneri
-
-<!-- marginal: Negev Tortoise -->
-
-Trionychidae Apalone ater
-
-<!-- marginal: Cuatro Cienegas Softshell -->
-
-(Labi-labi, Tuntung) Aspideretes gangeticus
-
-<!-- marginal: Indian Softshell Turtle -->
-
-Aspideretes hurum
-
-<!-- marginal: Peacock Soft-shell Turtle -->
-
-Aspideretes nigricans
-
-<!-- marginal: Black Softshell Turtle -->
-
-Varanidae Varanus bengalensis
-
-<!-- marginal: Biawak Tikus -->
-
-(Biawak) Varanus rudicollis
-
-<!-- marginal: Biawak Serunai -->
-
-Varanus dumerilli
-
-<!-- marginal: Biawak Kudung -->
-
-Varanus flavescens
-
-<!-- marginal: Yellow Monitor -->
-
-Varanus griseus
-
-<!-- marginal: Desert Monitor -->
-
-Varanus komodoensis
-
-<!-- marginal: Biawak Komodo -->
-
-Varanus nebulosus
-
-<!-- marginal: Clouded Monitor -->
-
-Viperidae Vipera ursinii
-
-<!-- marginal: Meadow Viper -->
-
-(Vipers)
+<!-- marginal: (Vipers) -->
 
 ## KELAS AMFIBIA (AMFIBIA)
 
-Bufonidae
+<!-- marginal: Bufonidae -->
 
-<!-- marginal: Ethiopian toads -->
+Ethiopian toads Altiphrynoides spp.
 
-Altiphrynoides spp. (Toads) Atelopus zeteki
+<!-- marginal: (Toads) -->
 
-<!-- marginal: Cerro Campana Stubfoot -->
-
-<!-- marginal: Toad -->
-
-Bufo periglenes
-
-<!-- marginal: Orange Toad -->
-
-Bufo superciliaris
-
-<!-- marginal: Cameroon Toad -->
-
-<!-- marginal: African viviparous toads -->
-
-Nectophrynoides spp.
-
-<!-- marginal: Nimba toads -->
-
-Nimbaphrynoides spp.
-
-<!-- marginal: Osgood’s Ethiopian Toad -->
-
-Spinophrynoides spp.
+Atelopus zeteki Cerro Campana Stubfoot Toad Bufo periglenes Orange Toad Bufo superciliaris Cameroon Toad African viviparous toads Nectophrynoides spp. Nimba toads Nimbaphrynoides spp. Osgood’s Ethiopian Toad Spinophrynoides spp.
 
 <!-- page 140 -->
 
@@ -10842,7 +6184,7 @@ Achatinellidae
 
 Achatinella spp. (Agate snails)
 
-## Jadual Ketiga
+## JADUAL KETIGA
 
 [seksyen 3]
 
@@ -10894,15 +6236,13 @@ Burung hendaklah disifatkan sebagai tidak matang jika anak burung itu belum beru
 
 ### Hidupan Liar Yang dilindungi
 
-Sambar Deer–Cervus unicolor equinus–Rusa: hendaklah disifatkan sebagai tidak matang jika panjang kepala dan badan kurang dari 180 cm, tinggi paras bahu kurang dari 140 cm, panjang ekor kurang dari 25 cm, panjang tanduk kurang dari 35.6 atau ukur lilitnya kurang dari 14 cm dan yang betina hendaklah disifatkan sebagai tidak matang jika tinggi paras bahu kurang dari
-
-101.6 cm.
+Sambar Deer–Cervus unicolor equinus–Rusa: hendaklah disifatkan sebagai tidak matang jika panjang kepala dan badan kurang dari 180 cm, tinggi paras bahu kurang dari 140 cm, panjang ekor kurang dari 25 cm, panjang tanduk kurang dari 35.6 atau ukur lilitnya kurang dari 14 cm dan yang betina hendaklah disifatkan sebagai tidak matang jika tinggi paras bahu kurang dari 101.6 cm.
 
 Monitor Lizard–Varanus salvator–Biawak: hendaklah disifatkan sebagai tidak matang jika panjang keseluruhan, termasuk ekor kurang dari 75 cm.
 
 Burung hendaklah disifatkan sebagai tidak matang jika anak burung itu yang belum berupaya untuk terbang atau belum berbulu sepenuhnya.
 
-## Jadual Keempat
+## JADUAL KEEMPAT
 
 [seksyen 3]
 
@@ -10912,7 +6252,7 @@ Racun tikus (Zinc phosphide)
 
 Sodium Arsenite (Sodium Arsenite)
 
-## Jadual Kelima
+## JADUAL KELIMA
 
 [seksyen 3, 117]
 
@@ -10960,7 +6300,7 @@ Bemisia tabaci Cotton Whitefly Cinara cupressi Cypress Aphid Lymantria dispar As
 
 <!-- page 144 -->
 
-## Jadual Keenam
+## JADUAL KEENAM
 
 [seksyen 51]
 
@@ -10972,7 +6312,7 @@ Nama saintifik
 
 Sus scrofa Babi Hutan Cervus unicolor equinus Rusa Tragulus spp. Pelanduk Macaca nemestrina Berok Presbytis cristata Lotong Kelabu Presbytis obscura Lotong Cengkong Hystrix brachyura Landak Raya Atherurus macrourus Landak Nibong Amaurornis phoenicurus Ruak-Ruak Chalcophaps indica Punai tanah
 
-## Jadual KetuJuh
+## JADUAL KETUJUH
 
 [seksyen 3]
 
@@ -10996,7 +6336,7 @@ Akta Perlindungan Hidupan Liar 1972 [Akta 76] ialah undang-undang utama yang men
 
 Oleh yang demikian, Akta yang dicadangkan ini bertujuan untuk menambah baik peruntukan Akta 76. Dalam Akta yang dicadangkan ini, peruntukan yang berhubungan dengan pelesenan aktiviti-aktiviti berkaitan hidupan liar telah diperhalusi semula. Akta yang dicadangkan ini turut menyediakan perlindungan yang lebih baik kepada hidupan liar dengan menaikkan hukuman bagi kesalahan-kesalahan dan memberikan kuasa penguatkuasaan yang lebih luas pegawai penguat kuasa.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I Akta yang dicadangkan mengandungi perkara permulaan.
 
@@ -11006,7 +6346,7 @@ Fasal 2 mengandungi peruntukan tentang pemakaian Akta yang dicadangkan.
 
 Fasal 3 mengandungi takrif ungkapan tertentu yang digunakan dalam Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 3. Bahagian II Akta yang dicadangkan mengadakan peruntukan bagi pelantikan pegawai, dsb.
 
@@ -11022,17 +6362,11 @@ Fasal 8 bertujuan untuk membenarkan seseorang pegawai untuk membawa senjata sema
 
 <!-- page 146 -->
 
-## Bahagian III
+## BAHAGIAN III
 
-4.
+4. Bahagian III Akta yang dicadangkan memperkatakan kehendak pelesenan, dsb.
 
-## Bahagian III Akta yang dicadangkan memperkatakan kehendak pelesenan,
-
-dsb.
-
-## Bab 1 Bahagian ini secara khususnya menyatakan peruntukan yang berhubungan
-
-dengan kehendak bagi lesen, permit atau permit khas untuk aktiviti tertentu. Suatu lesen adalah perlu bagi aktiviti yang berhubungan dengan mana-mana hidupan liar yang dilindungi. Suatu permit diperlukan bagi pengendalian zoo, sarkas atau pameran hidupan liar, pembiakbakaan dalam kurungan komersial dan penyelidikan atau kajian ke atas hidupan liar yang dilindungi. Sebaliknya, suatu permit khas adalah perlu bagi aktiviti yang berhubungan dengan hidupan liar yang dilindungi sepenuhnya dan pemburuan semasa musim tutup.
+Bab 1 Bahagian ini secara khususnya menyatakan peruntukan yang berhubungan dengan kehendak bagi lesen, permit atau permit khas untuk aktiviti tertentu. Suatu lesen adalah perlu bagi aktiviti yang berhubungan dengan mana-mana hidupan liar yang dilindungi. Suatu permit diperlukan bagi pengendalian zoo, sarkas atau pameran hidupan liar, pembiakbakaan dalam kurungan komersial dan penyelidikan atau kajian ke atas hidupan liar yang dilindungi. Sebaliknya, suatu permit khas adalah perlu bagi aktiviti yang berhubungan dengan hidupan liar yang dilindungi sepenuhnya dan pemburuan semasa musim tutup.
 
 Fasal 9 mengandungi peruntukan mengenai kehendak aktiviti tertentu supaya dilesenkan.
 
@@ -11040,9 +6374,7 @@ Fasal 10 mengandungi peruntukan mengenai kehendak permit bagi aktiviti tertentu.
 
 Fasal 11 mengandungi peruntukan mengenai kehendak permit khas bagi aktiviti tertentu.
 
-## Bab 2 Bahagian ini dengan khusus menyatakan peruntukan berhubung dengan
-
-permohonan bagi lesen, permit atau permit khas, pemberian, penggantungan dan pembatalannya, dsb.
+Bab 2 Bahagian ini dengan khusus menyatakan peruntukan berhubung dengan permohonan bagi lesen, permit atau permit khas, pemberian, penggantungan dan pembatalannya, dsb.
 
 Fasal 12 memperuntukkan bahawa seseorang yang memohon lesen atau permit hendaklah mengemukakan permohonan itu kepada pegawai pelesen.
 
@@ -11074,7 +6406,7 @@ Fasal 24 memperuntukkan bahawa mana-mana lesen, permit atau permit khas yang dib
 
 Fasal 25 bertujuan untuk membenarkan pemohon untuk merayu terhadap apa-apa keputusan pegawai pelesen kepada Menteri.
 
-## Bab 3 Bahagian ini mengandungi peruntukan pelbagai.
+Bab 3 Bahagian ini mengandungi peruntukan pelbagai.
 
 Fasal 26 bertujuan untuk memperuntukkan bahawa suatu lesen untuk memburu hidupan liar yang dilindungi atau suatu permit khas untuk memburu apa-apa hidupan liar yang dilindungi sepenuhnya dengan cara menembak hanya boleh diberikan jika pemohon memegang lesen senjata di bawah Akta Senjata 1960. Lesen senjata itu hendaklah dikemukakan semasa memohon lesen atau permit khas.
 
@@ -11098,7 +6430,7 @@ Fasal 34 bertujuan untuk memberi Ketua Pengarah kuasa untuk menetapkan kaedah-ka
 
 Fasal 35 bertujuan untuk memberi Ketua Pengarah kuasa, dengan kelulusan Menteri, untuk menetapkan syarat-syarat untuk dikenakan ke atas lesen, permit atau permit khas yang diberikan di bawah Akta yang dicadangkan.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 5. Bahagian IV Akta yang dicadangkan memperkatakan tanggungjawab dan obligasi yang dikenakan ke atas pemburu berlesen.
 
@@ -11124,7 +6456,7 @@ Fasal 45 memperkatakan peruntukan yang berhubungan dengan penandaan mana-mana hi
 
 Fasal 46 menghendaki pemegang lesen, permit atau permit khas untuk memperoleh suatu kebenaran daripada pegawai pelesen jika dia berhasrat untuk menyimpan hidupan liarnya di premis selain premis yang dinyatakan dalam lesen, permit atau permit khasnya.
 
-## Bahagian V
+## BAHAGIAN V
 
 6 Bahagian V Akta yang dicadangkan mengandungi peruntukan yang berhubungan dengan rizab hidupan liar dan kawasan perlindungan hidupan liar.
 
@@ -11134,7 +6466,9 @@ Fasal 48 melarang seseorang daripada memasuki suatu rizab hidupan liar atau kawa
 
 Fasal 49 bertujuan untuk melarang perbuatan tertentu dalan rizab hidupan liar atau kawasan perlindungan hidupan liar.
 
-B ahagian Vi
+B
+
+## AHAGIAN VI
 
 7. Bahagian VI Akta yang dicadangkan mengandungi pengecualian am dan anggapan.
 
@@ -11162,7 +6496,7 @@ Fasal 58 bertujuan untuk memperuntukkan bahawa seseorang penduduk premis diangga
 
 Fasal 59 memperuntukkan bahawa jika Ketua Pengarah atau mana-mana orang yang diperakui secara bertulis oleh Ketua Pengarah mempunyai pengetahuan khusus atau kemahiran mengenai hidupan liar memberi keterangan dengan bersumpah dalam mahkamah bahawa apa-apa benda atau barang ialah hidupan liar atau bahagian atau terbitan mana-mana hidupan liar, dsb., maka hendaklah sehingga akasnya dibuktikan dianggapkan bahawa benda atau barang itu, mengikut mana-mana yang berkenaan, adalah hidupan liar atau bahagian atau terbitan mana-mana hidupan liar, dsb..
 
-## Bahagian VII
+## BAHAGIAN VII
 
 8.
 
@@ -11170,23 +6504,17 @@ Fasal 59 memperuntukkan bahawa jika Ketua Pengarah atau mana-mana orang yang dip
 
 berhubungan dengan kesalahan dan penalti.
 
-## Bab 1 Bahagian ini, yang mengandungi fasal 60 hingga 65, memperkatakan
-
-mengenai kesalahan yang berhubungan dengan lesen seperti memburu atau menyimpan hidupan liar yang dilindungi tanpa lesen dan menjalankan perniagaan sebagai peniaga atau ahli taksidermi tanpa lesen.
+Bab 1 Bahagian ini, yang mengandungi fasal 60 hingga 65, memperkatakan mengenai kesalahan yang berhubungan dengan lesen seperti memburu atau menyimpan hidupan liar yang dilindungi tanpa lesen dan menjalankan perniagaan sebagai peniaga atau ahli taksidermi tanpa lesen.
 
 ## Bab 2 Bahagian ini, yang mengandungi fasal 66 dan 67, memperkatakan
 
 mengenai kesalahan yang berhubungan dengan permit seperti pengendalian zoo, sarkas atau pameran hidupan liar atau pembiakbakaan dalam kurungan komersial tanpa permit.
 
-## Bab 3 Bahagian ini, yang mengandungi fasal 68 hingga 73, memperkatakan
+Bab 3 Bahagian ini, yang mengandungi fasal 68 hingga 73, memperkatakan kesalahan yang berhubungan dengan permit khas seperti memburu atau menyimpan, hidupan liar yang dilindungi sepenuhnya, hidupan liar yang dilindungi sepenuhnya yang tidak matang atau hidupan liar betina yang dilindungi sepenuhnya atau menjalankan penyelidikan atau kajian ke atas hidupan liar yang dilindungi sepenuhnya, tanpa permit khas.
 
-kesalahan yang berhubungan dengan permit khas seperti memburu atau menyimpan, hidupan liar yang dilindungi sepenuhnya, hidupan liar yang dilindungi sepenuhnya yang tidak matang atau hidupan liar betina yang dilindungi sepenuhnya atau menjalankan penyelidikan atau kajian ke atas hidupan liar yang dilindungi sepenuhnya, tanpa permit khas.
+Bab 4 Bahagian ini, yang mengandungi fasal 74 hingga 88, memperkatakan kesalahan pelbagai seperti memburu hidupan liar dalam rizab hidupan liar, memburu hidupan liar yang dilindungi semasa waktu yang dilarang atau musim tutup, memburu hidupan liar dengan racun dan kezaliman terhadap hidupan liar.
 
-## Bab 4 Bahagian ini, yang mengandungi fasal 74 hingga 88, memperkatakan
-
-kesalahan pelbagai seperti memburu hidupan liar dalam rizab hidupan liar, memburu hidupan liar yang dilindungi semasa waktu yang dilarang atau musim tutup, memburu hidupan liar dengan racun dan kezaliman terhadap hidupan liar.
-
-## Bahagian VIII
+## BAHAGIAN VIII
 
 9.
 
@@ -11238,11 +6566,9 @@ Fasal 115 bertujuan untuk mengadakan peruntukan bagi kuasa tambahan pegawai peng
 
 Fasal 116 mengadakan peruntukan bagi percantuman kesalahan jika seorang dituduh lebih daripada satu kesalahan di bawah Akta yang dicadangkan.
 
-## Bahagian IX
+## BAHAGIAN IX
 
-10.
-
-## Bahagian IX Akta yang dicadangkan memperkatakan peruntukan am.
+10. Bahagian IX Akta yang dicadangkan memperkatakan peruntukan am.
 
 Fasal 117 memperuntukkan bahawa spesies yang dikawal tidak dibenarkan untuk disimpan, dijual, dsb..
 

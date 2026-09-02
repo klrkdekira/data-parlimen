@@ -32,11 +32,29 @@ NOW, therefore, pursuant to Clause (1)(b) of Article 76 of the Federal Constitut
 
 <!-- page 2 -->
 
-General
+<!-- marginal: General -->
 
-2. The national language text of the National Porestry amendments Act 1984, which in this Act is referred to as the in the national "principal Act", is amended— language text.
+2. The national language text of the National Porestry
 
-(a) by substituting for the words "tahi kelawar", Act 313. "mandu lilin" and "kayu balak" in the definition of "hasil hutan" the words "guano", "madu dan lilin" and "kayu" respectively;
+<!-- marginal: amendments -->
+
+Act 1984, which in this Act is referred to as the
+
+<!-- marginal: in the -->
+
+<!-- marginal: national -->
+
+"principal Act", is amended—
+
+<!-- marginal: language -->
+
+<!-- marginal: text. -->
+
+(a) by substituting for the words "tahi kelawar",
+
+<!-- marginal: Act 313. -->
+
+"mandu lilin" and "kayu balak" in the definition of "hasil hutan" the words "guano", "madu dan lilin" and "kayu" respectively;
 
 (b) by deleting the word "atau" appearing in line 2 in the definition of "kayu ditukar bentuk";
 
@@ -46,11 +64,7 @@ General
 
 (e) by substituting for the word "keadah" in the definition of "tukar bentuk" the word "kaedah";
 
-(f) by substituting for the words "Pengarah Hutan Negeri", "Timbalan Pengarah Hutan Negeri", "Penolong Pengarah Hutan Negeri", "Ketua Pengarah Jabatan Hutan Persekutuan", "Jabatan Hutan Negeri" and "Pejabat Hutan Negeri" wherever appearing therein the words "Pengarah Perhutanan Negeri", "Timbalan Pengarah Perhutanan Negeri", "Penolong Pengarah Perhutanan Negeri",
-
-<!-- marginal: "Ketua -->
-
-Pengarah Jabatan Perhutanan Persekutuan", "Jabatan Perhutanan Negeri" and "Pejabat Perhutanan Negeri" respectively;
+(f) by substituting for the words "Pengarah Hutan Negeri", "Timbalan Pengarah Hutan Negeri", "Penolong Pengarah Hutan Negeri", "Ketua Pengarah Jabatan Hutan Persekutuan", "Jabatan Hutan Negeri" and "Pejabat Hutan Negeri" wherever appearing therein the words "Pengarah Perhutanan Negeri", "Timbalan Pengarah Perhutanan Negeri", "Penolong Pengarah Perhutanan Negeri", "Ketua Pengarah Jabatan Perhutanan Persekutuan", "Jabatan Perhutanan Negeri" and "Pejabat Perhutanan Negeri" respectively;
 
 (g) by substituting for the words "HASIL HUTAN UTAMA", "hasil hutan utama", "hutan hasil utama", "HASIL HUTAN KECIL" and "hasil hutan kecil" wherever appearing therein the words "HASIL UTAMA HUTAN" , "hasil utama hutan", "hasil utama hutan", "HASIL KECIL HUTAN" and "hasil kecil hutan" respectively;
 
@@ -84,7 +98,11 @@ Hutan Negeri, Ketua Pengarah Jabatan Hutan Persekutuan, Jabatan Hutan Negeri and
 
 Timbalan Pengarah Hutan Negeri, Penolong Pengarah Hutan Negeri, Ketua Pengarah Jabatan Hutan Persekutuan, Jabatan Hutan Negeri and Pejabat Hutan Negeri, may be enforced against Pengarah Perhutanan Negeri. Timbalan Pengarah Perhutanan Negeri, Penolong Pengarah Perhutanan Negeri, Ketua Pengarah Jabatan Perhutanan Persekutuan, Jabatan Perhutanan Negeri and Pejabat Perhutanan Negeri respectively, as the case may be.
 
-Amendment 4. Section 2 of the principal Act is amended— of section 2.
+<!-- marginal: Amendment -->
+
+4. Section 2 of the principal Act is amended—
+
+<!-- marginal: of section 2. -->
 
 (a) by inserting after the definition of "forest management plan" the following new definition:
 
@@ -102,7 +120,13 @@ Amendment 4. Section 2 of the principal Act is amended— of section 2.
 
 ' "servant" means any person whether or not he is a citizen of Malaysia who is employed for wages;'.
 
-Amendment 5. Subsection 3(2) of the principal Act is amended by of section 3. substituting for the word "and" a comma and inserting after the word "Officer" in line 4 the words "and other officers as may be necessary".
+<!-- marginal: Amendment -->
+
+5. Subsection 3(2) of the principal Act is amended by
+
+<!-- marginal: of section 3. -->
+
+substituting for the word "and" a comma and inserting after the word "Officer" in line 4 the words "and other officers as may be necessary".
 
 <!-- page 5 -->
 
@@ -164,17 +188,27 @@ imprisonment for a term which shall not be less than one year but shall not exce
 
 and any sum ordered to be so paid shall be recoverable as if it were a fine so imposed,".
 
-Amendment
+<!-- marginal: Amendment -->
 
-9. Subsection 25(2) of the principal Act is amended by of section 25. substituting for the words "five", "two" and "three hundred" the words "fifty", "five" and "one thousand" respectively.
+9. Subsection 25(2) of the principal Act is amended by
 
-Amendment
+<!-- marginal: of section 25. -->
 
-10. Subsection 32(2) of the principal Act is amended of section 32. by substituting for the words "five" and "two" the words "fifty" and "five" respectiyely.
+substituting for the words "five", "two" and "three hundred" the words "fifty", "five" and "one thousand" respectively.
 
-Amendment
+<!-- marginal: Amendment -->
 
-11. Section 40 of the principal Act is amended— of section 40.
+10. Subsection 32(2) of the principal Act is amended
+
+<!-- marginal: of section 32. -->
+
+by substituting for the words "five" and "two" the words "fifty" and "five" respectiyely.
+
+<!-- marginal: Amendment -->
+
+11. Section 40 of the principal Act is amended—
+
+<!-- marginal: of section 40. -->
 
 (a) by substituting for the words "one thousand ringgit or to imprisonment for a term not exceeding six months or to both such fine and imprisonment" in subsection (2) the words "five hundred thousand ringgit and
 
@@ -232,7 +266,11 @@ the words "five" and "two" appearing in subsections
 
 (a) by substituting for subsection (1) the following new subsections (1) and (2);
 
-"(1) No person shall have in his possession, custody or control any forest produce unless he is in possession of a removal pass for the removal of such forest produce.
+"(1) No person shall have
+
+<!-- marginal: in his -->
+
+possession, custody or control any forest produce unless he is in possession of a removal pass for the removal of such forest produce.
 
 (2) Such removal pass shall be made available for inspection by any forest officer.";
 
@@ -244,29 +282,57 @@ the words "five" and "two" appearing in subsections
 
 "(4) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall on conviction be liable—
 
-(a) if the offence is under subsection (1), to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding five years or to both such
+(a) if the offence is under subsection (1), to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding five years or to both such fine and imprisonment;
 
-<!-- marginal: fine -->
+(b) if the offence is under subsection (2), to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding three years or to both such fine and imprisonment".
 
-<!-- marginal: and -->
+<!-- marginal: Substitution -->
 
-imprisonment;
+16. The principal Act is amended by substituting for
 
-(b) if the offence is under subsection (2), to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding three years or to both such
+<!-- marginal: of section 69. -->
 
-<!-- marginal: fine -->
+section 69 the following new section 69:
 
-<!-- marginal: and -->
+<!-- marginal: Conversion -->
 
-imprisonment".
+69. (1) No person shall engage in converting
 
-Substitution 16. The principal Act is amended by substituting for of section 69. section 69 the following new section 69:
+<!-- marginal: plant -->
 
-Conversion 69. (1) No person shall engage in converting plant any forest produce or have in his control or operator required to charge a conversion plant unless he is in have possession of a removal pass and a record of removal pass and measurement in respect of all forest produce record of convertedorbeingorabouttobeconvertedor measure- ment. being in or about the conversion plant or other premises under his charge or control.
+any forest produce or have in his control or
+
+<!-- marginal: operator -->
+
+<!-- marginal: required to -->
+
+charge a conversion plant unless he is in
+
+<!-- marginal: have -->
+
+possession of a removal pass and a record of
+
+<!-- marginal: removal -->
+
+<!-- marginal: pass and -->
+
+measurement in respect of all forest produce
+
+<!-- marginal: record of -->
+
+convertedorbeingorabouttobeconvertedor
+
+<!-- marginal: measure- -->
+
+<!-- marginal: ment. -->
+
+being in or about the conversion plant or other premises under his charge or control.
 
 (2) Such removal pass shall be made available for inspection by any forest officer.
 
-(3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall on corviction be liable—
+(3) Any person who contravenes subsection
+
+(1) or (2) shall be guilty of an offence and shall on corviction be liable—
 
 (a) if the offence is under subsection (1), to a fine not exceeding fifty thousand
 
@@ -324,27 +390,45 @@ by substituting for the words "one" and "six months" the words "ten" and "three 
 
 <!-- page 10 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-20. Subsection 85(2) of the principal Act is amended of section 85. by substituting for the words "five hundred" and "three months" the words "fifty thousand" and "five years" respectively.
+20. Subsection 85(2) of the principal Act is amended
 
-Amendment
+<!-- marginal: of section 85. -->
 
-21. Section 86 of the principal Act is amended by of section 86. substituting for the words "thousand ringgit or to imprisonment for a term not exceeding two years or to both such fine and imprisonment" the words "hundred thousand ringgit and to imprisonment for a term which shall not be less than one year but shall not exceed twenty years".
+by substituting for the words "five hundred" and "three months" the words "fifty thousand" and "five years" respectively.
 
-Amendment
+<!-- marginal: Amendment -->
 
-22. Subsection 92(3) of the principal Act is amended of section 92. by substituting for the words "one" and "six months" the words "fifty" and "five years" respectively.
+21. Section 86 of the principal Act is amended by
 
-Amendment
+<!-- marginal: of section 86. -->
 
-23. Section 93 of the principal Act is amended by of section 93. substituting for subsection (2) the following new subsection (2):
+substituting for the words "thousand ringgit or to imprisonment for a term not exceeding two years or to both such fine and imprisonment" the words "hundred thousand ringgit and to imprisonment for a term which shall not be less than one year but shall not exceed twenty years".
+
+<!-- marginal: Amendment -->
+
+22. Subsection 92(3) of the principal Act is amended
+
+<!-- marginal: of section 92. -->
+
+by substituting for the words "one" and "six months" the words "fifty" and "five years" respectively.
+
+<!-- marginal: Amendment -->
+
+23. Section 93 of the principal Act is amended by
+
+<!-- marginal: of section 93. -->
+
+substituting for subsection (2) the following new subsection (2):
 
 "(2) Any person (other than a forest officer, police officer or member of the armed forces authorized under this Act) who tampers with, removes, damages or destroys any thing marked under subsection (1) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding five years or to both such fine and imprisonment.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-24. Section 94 of the principal Act is amended— of section 94.
+24. Section 94 of the principal Act is amended—
+
+<!-- marginal: of section 94. -->
 
 (a) by substituting for the word "President" wherever appearing therein the word "Magistrate or Judge"; and
 
@@ -366,29 +450,51 @@ section 100 the following new sections 100A and
 
 <!-- marginal: l O OB -->
 
-100B:
+<!-- marginal: 100B: -->
 
-Rewards 100A. The Director may order such rewards as he may deem fit to be paid to any forest officer or other person for services rendered in connection with any offence or seizure made under this Act.
+<!-- marginal: Rewards -->
 
-Protection lOOB. (1) Except as hereinafter provided, no of witness in any civil or criminal proceedings informers. shall be obliged or permitted to disclose the name or address of an informer or the substance and nature of the information received from him or to state any matter which might lead to his discovery.
+100A. The Director may order such rewards as he may deem fit to be paid to any forest officer or other person for services rendered in connection with any offence or seizure made under this Act.
 
-(2) If any books, documents or papers which are in evidence or are liable
+<!-- marginal: Protection -->
 
-<!-- marginal: to -->
+lOOB. (1) Except as hereinafter provided, no
 
-inspection in any civil or criminal proceedings contain any entry in which any informer is named or described or which might lead to his discovery, the court shall cause all such passages to be concealed from view or to be obliterated so far only as may be necessary to protect the informer from discovery.
+<!-- marginal: of -->
+
+witness in any civil or criminal proceedings
+
+<!-- marginal: informers. -->
+
+shall be obliged or permitted to disclose the name or address of an informer or the substance and nature of the information received from him or to state any matter which might lead to his discovery.
+
+(2) If any books, documents or papers which are in evidence or are liable to inspection in any civil or criminal proceedings contain any entry in which any informer is named or described or which might lead to his discovery, the court shall cause all such passages to be concealed from view or to be obliterated so far only as may be necessary to protect the informer from discovery.
 
 (3) If on trial for any offence against this Act the court after full inquiry into the case believes that the informer wilfully made in his complaint a material statement which he knew or believed to be false or did not believe to be true, or if in any other proceedings the court is of opinion that justice cannot be fully done between the parties thereto without the discovery of the informer, it shall be lawful for the court to require the production of the original complaint, if in writing, and permit inquiry, and require full disclosure concerning the informer.".
 
 <!-- page 12 -->
 
-Substitution
+<!-- marginal: Substitution -->
 
-26. The principal Act is amended by substituting for of section section 101 the following new section 101: 101. (1) Subject to subsection (2),
+26. The principal Act is amended by substituting for
 
-<!-- marginal: the -->
+<!-- marginal: of section -->
 
-101. Com- pounding Director may compound any offence under this of offences. Act except any offence under section 86 or 107 by making a written offer to such person to compound the offence upon payment to the Director of such amount not exceeding the maximum fine for that offence within such time as may be specified in the offer.
+section 101 the following new section 101: 101. (1) Subject to subsection (2), the
+
+101.
+
+<!-- marginal: Com- -->
+
+<!-- marginal: pounding -->
+
+Director may compound any offence under this
+
+<!-- marginal: of -->
+
+<!-- marginal: offences. -->
+
+Act except any offence under section 86 or 107 by making a written offer to such person to compound the offence upon payment to the Director of such amount not exceeding the maximum fine for that offence within such time as may be specified in the offer.
 
 (2) The offence which may be com- pounded under subsection (1) shall only be in respect of an offence committed for the first time.
 
@@ -398,19 +504,11 @@ Substitution
 
 (b) a sum not exceeding ten times the value of such forest produce;
 
-(c) the costs of repairing any damage
-
-<!-- marginal: in -->
-
-respect of the offence committed; and
+(c) the costs of repairing any damage in respect of the offence committed; and
 
 (d) any other charges payable to the State Authority.
 
-(4) In compounding any offence under subsection (1), any thing seized under this Act shall be forfeited and disposed of
-
-<!-- marginal: in -->
-
-accordance with the direction of the Director.
+(4) In compounding any offence under subsection (1), any thing seized under this Act shall be forfeited and disposed of in accordance with the direction of the Director.
 
 (5) An offer under subsection (1) may be made at any time after the offence has been committed, but before any prosecution for it has been instituted, and where the amount
 
@@ -428,7 +526,31 @@ specified in the offer is not paid within the time specified in the offer or wit
 
 section 101 the following new section 10lA:
 
-Power of 10lA. (1) Subject to subsection (2), where any court to person is found guilty of an offence under this order revocation Act, the court may, in addition to any other and penalty that may be imposed, order that any disqualifi- licence or permit issued under this Act in cation. relation to which the offence has been committed be revoked.
+<!-- marginal: Power of -->
+
+10lA. (1) Subject to subsection (2), where any
+
+<!-- marginal: court to -->
+
+person is found guilty of an offence under this
+
+<!-- marginal: order -->
+
+<!-- marginal: revocation -->
+
+Act, the court may, in addition to any other
+
+<!-- marginal: and -->
+
+penalty that may be imposed, order that any
+
+<!-- marginal: disqualifi- -->
+
+licence or permit issued under this Act in
+
+<!-- marginal: cation. -->
+
+relation to which the offence has been committed be revoked.
 
 (2) Where any person is found guilty of an offence under section 15, 40 or 86, the court shall, in addition to any other penalty that may be imposed, order that any licence or permit issued under this Act in relation to which the offence has been committed be revoked.
 
@@ -442,13 +564,23 @@ permit has been issued be disqualified from holding any licence or permit for a 
 
 (5) Any person who obtains or attempts to obtain any licence or permit under this Act while he is so disqualified shall be guilty of an offence.".
 
-Substitution
+<!-- marginal: Substitution -->
 
-28. The principal Act is amended by substituting for of section section 104 the following new section 104:
+28. The principal Act is amended by substituting for
+
+<!-- marginal: of section -->
+
+section 104 the following new section 104:
 
 104.
 
-"presum- 104. In any proceedings for an offence under ptions. this Act, in so far as it may be necessary to establish the offence charged, it shall be presumed until the contrary is proven—
+<!-- marginal: "presum- -->
+
+104. In any proceedings for an offence under
+
+<!-- marginal: ptions. -->
+
+this Act, in so far as it may be necessary to establish the offence charged, it shall be presumed until the contrary is proven—
 
 (a) that any forest produce is the property of the State Authority;
 
@@ -526,11 +658,23 @@ amended—
 
 <!-- page 16 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-34. The principal Act is amended by substituting for of Second the words "Rattan of the manau and sega species" in and Third paragraph (e) of the Second Schedule and the words Schedules. "Rattan of manau and sega species" in paragraph (f) of the Third Schedule the words "All types of rattan".
+34. The principal Act is amended by substituting for
 
-New Sixth
+<!-- marginal: of Second -->
+
+the words "Rattan of the manau and sega species" in
+
+<!-- marginal: and Third -->
+
+paragraph (e) of the Second Schedule and the words
+
+<!-- marginal: Schedules. -->
+
+"Rattan of manau and sega species" in paragraph (f) of the Third Schedule the words "All types of rattan".
+
+<!-- marginal: New Sixth -->
 
 35. The principal Act is amended by inserting after the
 
@@ -634,23 +778,17 @@ This Bill seeks to amend the National Forestry Act 1984.
 
 ## BILL
 
-thousand ringgit, the said clauses also prescribe
-
-<!-- marginal: the imposition -->
-
-of a mandatory term of imprisonment of not less than one year but not exceeding twenty years on conviction. Clauses 8 and 11 also seek to substitute subsection (3) and introduce new subsection (2A) respectively to provide that a person may, on conviction, be ordered to make certain payments as specified therein to the State Authority in addition to any penalty imposed.
+thousand ringgit, the said clauses also prescribe the imposition of a mandatory term of imprisonment of not less than one year but not exceeding twenty years on conviction. Clauses 8 and 11 also seek to substitute subsection (3) and introduce new subsection (2A) respectively to provide that a person may, on conviction, be ordered to make certain payments as specified therein to the State Authority in addition to any penalty imposed.
 
 9. Clauses 9 and 10 seek to amend sections 25 and 32. The amendments seek to increase the penalties under those sections.
 
-10. Clauses 12, 13 and 14 seek to amend sections 47, 50, 66 and 67. The amendment seeks to increase the penalties for offences under those sections.
+10. Clauses 12, 13 and 14 seek to amend sections 47, 50, 66 and
+
+67. The amendment seeks to increase the penalties for offences under those sections.
 
 11. Clause 15 seeks to amend section 68 to require a person to have in his possession a removal pass if he has in his possession, custody or control any forest produce and to ensure that such pass is available for inspection by any forest officer. This clause also prescribes the penalties for contravening such requirements.
 
-12. Clause 16 seeks to substitute section 69
-
-<!-- marginal: to require any -->
-
-conversion plant operator to have in his possession a removal pass and a record of measurement. Similar to clause 15, this clause also specifies the requirement on the need to make available a removal pass for- inspection besides prescribing penalties for its contravention thereof.
+12. Clause 16 seeks to substitute section 69 to require any conversion plant operator to have in his possession a removal pass and a record of measurement. Similar to clause 15, this clause also specifies the requirement on the need to make available a removal pass for- inspection besides prescribing penalties for its contravention thereof.
 
 13. Clauses 17, 18, 19 and 20 seek to amend sections 81, 82, 83, 84, 85, 87, 96, 97, 98, 100 and 107. The amendments seek to increase the penalties for offences under those sections.
 

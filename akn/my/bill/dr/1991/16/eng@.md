@@ -40,21 +40,27 @@ is amended by substituting for the word "the" appearing after the words ' "Deput
 
 <!-- page 2 -->
 
-Amendment 4. Section 9 of the Ordinance is amended— of section 9.
+<!-- marginal: Amendment -->
+
+4. Section 9 of the Ordinance is amended—
+
+<!-- marginal: of section 9. -->
 
 (a) by substituting for subsection (1) the following:
 
 "(1) The Governor shall be appointed by the Yang di-Pertuan Agong and the Deputy Governors by the Minister."; and
 
-(b) by substituting for the word "Governor" appearing after
-
-<!-- marginal: the word "Deputy" -->
+(b) by substituting for the word "Governor" appearing after the word "Deputy"
 
 <!-- marginal: in -->
 
 subsections (2), (3), (4) and (5) the word "Governors".
 
-Amendment 5. Section 11 of the Ordinance is amended— of section 11.
+<!-- marginal: Amendment -->
+
+5. Section 11 of the Ordinance is amended—
+
+<!-- marginal: of section 11. -->
 
 (a) by deleting the words ", Deputy Governor," in subsection (2); and
 
@@ -62,15 +68,31 @@ Amendment 5. Section 11 of the Ordinance is amended— of section 11.
 
 "(3) The Minister may terminate the appointment of any Deputy Governor on the grounds specified in subsection (2).".
 
-Amendment 6. Section 12 of the Ordinance is amended— of section 12.
+<!-- marginal: Amendment -->
+
+6. Section 12 of the Ordinance is amended—
+
+<!-- marginal: of section 12. -->
 
 (a) by substituting for the word "the" appearing before the words "Deputy Governor" the word "any"; and
 
 (b) by inserting, after the word "Agong", the words ", or in the case of a Deputy Governor, by the Minister,".
 
-Amendment 7. Section 13 of the Ordinance is amended by substituting of section 13. for the words "the Deputy Governor" in subsection (1) the words "any Deputy Governor so designated by the Governor".
+<!-- marginal: Amendment -->
 
-Amendment 8. Section 15 of the Ordinance is amended by substituting of section 15. for the word "Governor" appearing after the word "Deputy" in subsection (3) the word "Governors".
+7. Section 13 of the Ordinance is amended by substituting
+
+<!-- marginal: of section 13. -->
+
+for the words "the Deputy Governor" in subsection (1) the words "any Deputy Governor so designated by the Governor".
+
+<!-- marginal: Amendment -->
+
+8. Section 15 of the Ordinance is amended by substituting
+
+<!-- marginal: of section 15. -->
+
+for the word "Governor" appearing after the word "Deputy" in subsection (3) the word "Governors".
 
 <!-- page 3 -->
 

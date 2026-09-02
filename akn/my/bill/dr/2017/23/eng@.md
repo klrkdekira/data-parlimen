@@ -140,9 +140,9 @@ officer or servant of the Lembaga to carry out such powers, duties or functions 
 
 16a. The Statutory Bodies (Discipline and Surcharge) Act 2000 [Act 605] shall apply to the Lembaga.”.
 
-### Deletion of sections 16b, 16c, 16d, 16e, 16f, 16g and 16h
+## DELETION OF SECTIONS 16B, 16C, 16D, 16E, 16F, 16G AND 16H
 
-8. The principal Act is amended by deleting sections 16b, 16c, 16d, 16e, 16f, 16g and 16h.
+8. The principal Act is amended by deleting sections 16b, 16c, 16D, 16E, 16F, 16G AND 16H.
 
 ### Substitution of section 22
 
@@ -192,7 +192,7 @@ officer or servant of the Lembaga to carry out such powers, duties or functions 
 
 13. The principal Act is amended by inserting after the Second Schedule the following Schedule:
 
-“Third Schedule
+## “THIRD SCHEDULE
 
 [Subsection 28a(2)]
 

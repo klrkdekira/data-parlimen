@@ -20,7 +20,9 @@
 
 ## APPOINTMENT OF PROTECTOR, ETC,
 
-8. Appointment and powers of Protectors 9. Appointment of Registrar General and Registrar 10. Appointment of probation officers
+8. Appointment and powers of Protectors 9. Appointment of Registrar General and Registrar
+
+10. Appointment of probation officers
 
 ## PART
 
@@ -28,11 +30,19 @@ IV
 
 ## COURTS FOR CHILDREN
 
-11. Constitution and jurisdiction of Court For Children 12. Place of sitting and persons who may be present in Court For Children 13. Period specified in any order made by Court For Children not to extend beyond the date child attains the age of eighteen years 14. Court For Children may order detention, etc. to extend beyond the date child attains the age of eighteen years
+11. Constitution and jurisdiction of Court For Children
+
+12. Place of sitting and persons who may be present in Court For Children
+
+13. Period specified in any order made by Court For Children not to extend beyond the date child attains the age of eighteen years
+
+14. Court For Children may order detention, etc. to extend beyond the date child attains the age of eighteen years
 
 <!-- page 2 -->
 
-Bill 15. Restrictions on media reporting and publication 16. Presumption as to age
+Bill
+
+15. Restrictions on media reporting and publication 16. Presumption as to age
 
 ## PART V
 
@@ -50,7 +60,29 @@ Bill 15. Restrictions on media reporting and publication 16. Presumption as to a
 
 ## AND TREATMENT
 
-18. Taking a child into temporary custody 19. Production before Court For Children 20. Child in need of medical examination or treatment 21. Medical examination and treatment 22. Authorization of hospitalization 23. Control over hospitalized children 24. Authorization of medical treatment 25. Steps to be taken after medical examination or treatment 26. No liability incurred for giving authorization 27. Duty of medical officer or medical practitioner 28. Duty of member of the family 29. Duty of child care provider 30. Powers of Court For Children
+18. Taking a child into temporary custody 19. Production before Court For Children
+
+20. Child in need of medical examination or treatment
+
+21. Medical examination and treatment
+
+22. Authorization of hospitalization
+
+23. Control over hospitalized children
+
+24. Authorization of medical treatment
+
+25. Steps to be taken after medical examination or treatment
+
+26. No liability incurred for giving authorization
+
+27. Duty of medical officer or medical practitioner
+
+28. Duty of member of the family
+
+29. Duty of child care provider
+
+30. Powers of Court For Children
 
 ## CHAPTER 3
 
@@ -58,7 +90,11 @@ Bill 15. Restrictions on media reporting and publication 16. Presumption as to a
 
 ## WELFARE OF CHILDREN
 
-31. III-treatment, neglect, abandonment or exposure of children 32. Children not to be used for begging, etc. 33. Offence to leave child without reasonable supervision
+31. III-treatment, neglect, abandonment or exposure of children
+
+32. Children not to be used for begging, etc.
+
+33. Offence to leave child without reasonable supervision
 
 <!-- page 3 -->
 
@@ -70,7 +106,13 @@ Child
 
 ## CUSTODY OR CONTROL
 
-34. Application and interpretation 35. Notification of taking a child into care, custody or control 36. Subsequent obligations 37. Power of Protector to require child to be produced before him
+34. Application and interpretation
+
+35. Notification of taking a child into care, custody or control
+
+36. Subsequent obligations
+
+37. Power of Protector to require child to be produced before him
 
 ## PART VI
 
@@ -80,19 +122,33 @@ Child
 
 ## GENERAL
 
-38. Meaning of child in need of protection and rehabilitation 39. Removal of a child to place of refuge 40. Orders upon completion of an inquiry 41. Children in urgent need of protection 42. Inquiries and detention of a child who has been bought or acquired under false pretences, etc.
+38. Meaning of child in need of protection and rehabilitation
+
+39. Removal of a child to place of refuge
+
+40. Orders upon completion of an inquiry
+
+41. Children in urgent need of protection
+
+42. Inquiries and detention of a child who has been bought or acquired under false pretences, etc.
 
 ## CHAPTER 2
 
 ## OFFENCES
 
-43. Offences 44. Presumptions relating to section 43 45. Detention pending proceedings
+43. Offences
+
+44. Presumptions relating to section 43
+
+45. Detention pending proceedings
 
 ## PART VII
 
 ## BEYOND CONTROL
 
-46. Children beyond control 47. Supervision by probation officer
+46. Children beyond control
+
+47. Supervision by probation officer
 
 <!-- page 4 -->
 
@@ -102,7 +158,17 @@ Bill
 
 ## TRAFFICKING IN AND ABDUCTION OF CHILDREN
 
-48. Unlawful transfer of possession, custody or control of child 49. Importation of child by false pretences 50. Examination of child and person in charge 51. Protector may require security 52. Offence of taking or sending out a child without appropriate consent of person having lawfut custody 53. Recovery order
+48. Unlawful transfer of possession, custody or control of child
+
+49. Importation of child by false pretences
+
+50. Examination of child and person in charge
+
+51. Protector may require security
+
+52. Offence of taking or sending out a child without appropriate consent of person having lawfut custody
+
+53. Recovery order
 
 ## PART
 
@@ -114,19 +180,33 @@ IX
 
 ## PLACES OF SAFETY AND PLACES OF REFUGE
 
-54. Places of safety 55. Places of refuge 56. Child who escapes or is removed from place of safety or place of refuge 57. Offence of removing or helping a child to escape from place of safety or place of refuge
+54. Places of safety
+
+55. Places of refuge
+
+56. Child who escapes or is removed from place of safety or place of refuge
+
+57. Offence of removing or helping a child to escape from place of safety or place of refuge
 
 ## CHAPTER 2
 
 ## PLACES OF DETENTION
 
-58. Places of detention 59. Child who escapes or is removed from place of detention 60. Offence of removing or helping a child to escape from place of detention
+58. Places of detention 59. Child who escapes or is removed from place of detention
+
+60. Offence of removing or helping a child to escape from place of detention
 
 ## CHAPTER 3
 
 ## PROBATION HOSTELS
 
-61. Probation hostels 62. Child under ten years of age not to be sent to probation hostel 63. Child who escapes or is removed from probation hostel 64. Offence of removing or helping a child to escape from probation hostel
+61. Probation hostels
+
+62. Child under ten years of age not to be sent to probation hostel
+
+63. Child who escapes or is removed from probation hostel
+
+64. Offence of removing or helping a child to escape from probation hostel
 
 <!-- page 5 -->
 
@@ -136,13 +216,31 @@ IX
 
 ## APPROVED SCHOOLS
 
-65. Approved schools 66. Child under ten years of age not to be sent to approved school 67. When a child can be sent to approved school 68. Approved school order to be delivered to the authority, etc. who conveys child to the school 69. Further detention in approved school beyond period of order 70. Aftercare of child released trom approved school 71. Escape from approved school, etc. or failure to return to approved school after expiry of leave, etc. 72. Offence of removing or helping a child to escape from approved school
+65. Approved schools
+
+66. Child under ten years of age not to be sent to approved school
+
+67. When a child can be sent to approved school
+
+68. Approved school order to be delivered to the authority, etc. who conveys child to the school
+
+69. Further detention in approved school beyond period of order
+
+70. Aftercare of child released trom approved school
+
+71. Escape from approved school, etc. or failure to return to approved school after expiry of leave, etc.
+
+72. Offence of removing or helping a child to escape from approved school
 
 ## CHAPTER 5
 
 ## HENRY GURNEY SCHOOLS
 
-73. Henry Gurney Schools 74. Child under fourteen years of age not to be sent to Henry Gurney School 75. When a child can be sent to Henry Gurney School
+73. Henry Gurney Schools
+
+74. Child under fourteen years of age not to be sent to Henry Gurney School
+
+75. When a child can be sent to Henry Gurney School
 
 ## CHAPTER 6
 
@@ -162,7 +260,9 @@ Bill
 
 ## MISCELLANEOUS
 
-81. Child or person detained to be subject to regulations 82. Board of Visitors
+81. Child or person detained to be subject to regulations
+
+82. Board of Visitors
 
 ## PART X
 
@@ -172,13 +272,25 @@ Bill
 
 ## CHARGE, BAIL, ETC.
 
-83. Trials of children to be in conformity with this Act 84. Bail 85. Separation of child from adult in police stations or Courts 86. Custody of child not discharged on bail after arrest 87. Submission of information by police officer after arrest
+83. Trials of children to be in conformity with this Act
+
+84. Bail
+
+85. Separation of child from adult in police stations or Courts
+
+86. Custody of child not discharged on bail after arrest
+
+87. Submission of information by police officer after arrest
 
 ## CHAPTER 2
 
 ## TRIALS
 
-88. Parent or guardian required to attend 89. Parents or guardian may be required to withdraw 90. Procedure in Court For Children
+88. Parent or guardian required to attend
+
+89. Parents or guardian may be required to withdraw
+
+90. Procedure in Court For Children
 
 ## CHAPTER 3
 
@@ -186,7 +298,19 @@ Bill
 
 ## CONCLUSION OF THE TRIAL
 
-91. Powers of Court For Children on proof of offence 92. Manner of executing whipping 93. Parent or guardian to execute bond 94. Power to order parent or guardian to pay fine, etc., instead of child 95. Appeals 96. Restrictions on order of imprisonment 97. Death
+91. Powers of Court For Children on proof of offence
+
+92. Manner of executing whipping
+
+93. Parent or guardian to execute bond
+
+94. Power to order parent or guardian to pay fine, etc., instead of child
+
+95. Appeals
+
+96. Restrictions on order of imprisonment
+
+97. Death
 
 <!-- page 7 -->
 
@@ -196,13 +320,27 @@ Child
 
 ## PROBATION
 
-98. When probation may be ordered 99. Failure to comply with probation order 100. Commission of further offence 101. Effects of probation 102. Amendment of probation order 103. Discharge of probation order 104. Court to give copies of amending or discharging order to probation officer
+98. When probation may be ordered 99. Failure to comply with probation order
+
+100. Commission of further offence
+
+101. Effects of probation
+
+102. Amendment of probation order
+
+103. Discharge of probation order
+
+104. Court to give copies of amending or discharging order to probation officer
 
 ## PART XI
 
 ## IN THE CARE OF FIT AND PROPER PERSON
 
-105. Child placed in the care of fit and proper person 106. Child who escapes or is removed from the care of fit and proper person 107. Offence of removing or helping a child to escape from the care of fit and proper person
+105. Child placed in the care of fit and proper person
+
+106. Child who escapes or is removed from the care of fit and proper person
+
+107. Offence of removing or helping a child to escape from the care of fit and proper person
 
 ## PART XII
 
@@ -214,7 +352,19 @@ Child
 
 ## INVESTIGATION, ARREST, SEARCH, SEIZURE, ETC.
 
-109. Power of investigation 110. Power to arrest without warrant 1 1 1. Search by warrant 112. Search without warrant 113. Power to examine person 114. Inspection 115. Obstruction 116. Protection of informers
+109. Power of investigation
+
+110. Power to arrest without warrant 1 1 1. Search by warrant
+
+112. Search without warrant
+
+113. Power to examine person
+
+114. Inspection
+
+115. Obstruction
+
+116. Protection of informers
 
 <!-- page 8 -->
 
@@ -224,7 +374,29 @@ Bill
 
 ## MISCELLANEOUS
 
-117. Power of Court For Children conferred on High Court 118. Register 119. Contents of Register 120. Access to Register 121. Offence in respect of Register 122. Certificate of Registrar to be evidence 123. Protection against suit and legal proceedings 124. Public servant 125. General penalty 126. Institution and conduct of prosecution 127. Service of document 128. Power to make regulations
+117. Power of Court For Children conferred on High Court
+
+118. Register
+
+119. Contents of Register
+
+120. Access to Register
+
+121. Offence in respect of Register
+
+122. Certificate of Registrar to be evidence
+
+123. Protection against suit and legal proceedings
+
+124. Public servant
+
+125. General penalty
+
+126. Institution and conduct of prosecution
+
+127. Service of document
+
+128. Power to make regulations
 
 ## PART XV
 
@@ -564,7 +736,9 @@ Bill
 
 (c) may determine its own procedure.
 
-(3) Members of the committees established under subsection (1) may be appointed from amongst members of the Council or such other persons as the Council thinks fit.
+(3) Members of the committees established under subsection
+
+(1) may be appointed from amongst members of the Council or such other persons as the Council thinks fit.
 
 (4) A member of a committee shall hold office for such term as may be specified in his letter of appointment and is eligible for reappointment.
 
@@ -1786,7 +1960,7 @@ Bill
 
 (c) is being detained against his will by some person other than his parent or guardian,
 
-the Protector may—
+<!-- marginal: the Protector may— -->
 
 (aa) require any person in whose custody or under whose control the child appears to be—
 
@@ -1800,7 +1974,9 @@ the Protector may—
 
 (C) will be produced before the Protector whenever the Protector requires; or
 
-(bb) in the first instance, or if default be made in complying with any order made under paragraph (aa), make an order that—
+(bb) in the first instance, or if default be made in complying with any order made under paragraph (aa), make an order
+
+<!-- marginal: that— -->
 
 (i) the child be taken out of the custody of the person in whose care, custody or control the child is and placed the child in a place of safety; or
 
@@ -2658,7 +2834,9 @@ Bill
 
 (3) An order under subsection (1) shall not be made against a parent or guardian without giving the parent or guardian an opportunity to be heard.
 
-(4) Notwithstanding subsection (3), an order under subsection (1) may be made if the Court For Children is satisfied on information
+(4) Notwithstanding subsection (3), an order under subsection
+
+(1) may be made if the Court For Children is satisfied on information
 
 <!-- page 85 -->
 
@@ -3640,7 +3818,9 @@ Child
 
 20. Clause 18 empowers a Protector or police officer to take into temporary custody any child whom he believes is in need of care and protection. Clause 19 requires such child to be brought before a Court For Children.
 
-21. Clause 20 empowers a Protector or police officer to produce a child in need of care and protection before a medical officer if the Protector or police officer is of the opinion that the child needs medical examination or treatment. Clause 21 deals with the medical examination and treatment of children referred to in clause 20.
+21. Clause 20 empowers a Protector or police officer to produce a child in need of care and protection before a medical officer if the Protector or police officer is of the opinion that the child needs medical examination or treatment. Clause 21 deals with the medical examination and treatment of children referred to in clause
+
+20.
 
 22. Clause 22 empowers a Protector or police officer to authorize a child to be hospitalized.
 
@@ -3698,7 +3878,9 @@ Bill
 
 43. Part VII deals with children beyond control.
 
-44. Clause 46 enables a parent or guardian of a child who is said to be beyond control, to request the Court For Children to detain the child in an approved school, etc, The orders the Court may make are listed in subclause (2).
+44. Clause 46 enables a parent or guardian of a child who is said to be beyond control, to request the Court For Children to detain the child in an approved school, etc, The orders the Court may make are listed in subclause
+
+(2).
 
 45. Clause 47 relates to supervision by probation officer.
 

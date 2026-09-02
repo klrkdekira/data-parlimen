@@ -4,13 +4,13 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Principal objects of Act 3. Interpretation
 
-## Part II
+## PART II
 
 ## THE MALAYSIAN ANTI-CORRUPTION COMMISSION
 
@@ -22,7 +22,7 @@
 
 12. Standing orders
 
-## Part III
+## PART III
 
 ## PROVISIONS ON ADVISORY BOARD, SPECIAL COMMITTEE AND
 
@@ -36,7 +36,7 @@
 
 <!-- page 2 -->
 
-## Part IV
+## PART IV
 
 ## OFFENCES AND PENALTIES
 
@@ -66,7 +66,7 @@
 
 28. Attempts, preparations, abetments and criminal conspiracies punishable as offence
 
-## Part V
+## PART V
 
 ## INVESTIGATION, SEARCH, SEIZURE AND ARREST
 
@@ -114,7 +114,7 @@
 
 49. Offences under Act to be seizable offences and powers of officers of the Commission relating to investigations
 
-## Part VI
+## PART VI
 
 ## EVIDENCE
 
@@ -134,7 +134,7 @@
 
 57. Evidence of custom inadmissible
 
-## Part VII
+## PART VII
 
 ## PROSECUTION AND TRIAL OF OFFENCES
 
@@ -176,7 +176,7 @@
 
 72. Immunity
 
-## Part IX
+## PART IX
 
 ## REPEAL AND SAVING
 
@@ -184,7 +184,7 @@
 
 74. Saving
 
-## Schedule
+## SCHEDULE
 
 <!-- page 5 -->
 
@@ -196,7 +196,7 @@ An Act to provide for the establishment of the Malaysian Anti- Corruption Commis
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -392,7 +392,7 @@ as the case may be;
 
 <!-- page 12 -->
 
-## Part II
+## PART II
 
 ## THE MALAYSIAN ANTI-CORRUPTION COMMISSION
 
@@ -516,7 +516,7 @@ directions or instructions as may be specified orally or in writing by the Chief
 
 12. The Chief Commissioner may issue administrative orders to be called “Standing Orders”, not inconsistent with the provisions of this Act, on the general control, training, duties and responsibilities of officers and junior officers of the Commission, and for such other matters as may be necessary or expedient for the good administration of the Commission or for the prevention of the abuse of power or neglect of duty, and generally for ensuring the efficient and effective functioning of the Commission.
 
-## Part III
+## PART III
 
 ## PROVISIONS ON ADVISORY BOARD, SPECIAL COMMITTEE AND
 
@@ -586,7 +586,7 @@ directions or instructions as may be specified orally or in writing by the Chief
 
 <!-- page 20 -->
 
-## Part IV
+## PART IV
 
 ## OFFENCES AND PENALTIES
 
@@ -772,7 +772,7 @@ commits such offence and shall on conviction be liable to the punishment provide
 
 (1)(c) shall not apply to the case of an abetment of an offence as provided for under section 164 of the Penal Code.
 
-## Part V
+## PART V
 
 ## INVESTIGATION, SEARCH, SEIZURE AND ARREST
 
@@ -1254,7 +1254,7 @@ Commission for the purpose of investigation, and for such purpose he may be kept
 
 (8) Where a person has been arrested and admitted to bail and the bailor fails to produce him or where the conditions of the bond on which or subject to which a person is released have not been complied with, the Public Prosecutor may apply to a Magistrate’s Court for an order of forfeiture of the sum of money deposited and the Court shall deal with the application in accordance with section 404 of the Criminal Procedure Code.
 
-## Part VI
+## PART VI
 
 ## EVIDENCE
 
@@ -1366,7 +1366,7 @@ shall be admissible in evidence in any proceedings under this Act before any cou
 
 57. In any civil or criminal proceedings under this Act, evidence shall not be admissible to show that any such gratification as is mentioned in this Act is customary in any profession, trade, vocation or calling or on a social occasion.
 
-## Part VII
+## PART VII
 
 ## PROSECUTION AND TRIAL OF OFFENCES
 
@@ -1502,7 +1502,7 @@ for or on account of, or in respect of, any act done or statement made or omitte
 
 Provided that such act or such statement was done or made, or was omitted to be done or made, in good faith.
 
-## Part IX
+## PART IX
 
 ## REPEAL AND SAVING
 
@@ -1520,7 +1520,7 @@ Provided that such act or such statement was done or made, or was omitted to be 
 
 <!-- page 63 -->
 
-## Schedule
+## SCHEDULE
 
 [Paragraph 3(a), definition of “prescribed offence”]
 
@@ -1564,9 +1564,7 @@ Clause 15 seeks to establish a Complaints Committee to monitor the handling of n
 
 Clause 22 is a new provision which seeks to provide for the offence of bribery of foreign public official to enable Malaysia to comply with the United Nations Convention Against Corruption.
 
-## Part IV also seeks to require a person to whom gratification is offered
-
-or any person from whom gratification is requested to report such offer or request. This is contained in clause 25.
+Part IV also seeks to require a person to whom gratification is offered or any person from whom gratification is requested to report such offer or request. This is contained in clause 25.
 
 Under clause 26, a person commits an offence if he deals with, uses, holds, receives or conceals any property which is the subject-matter of any of the offences proposed in clauses 16, 17, 18, 20, 21, 22 or 23.
 

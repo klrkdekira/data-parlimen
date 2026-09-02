@@ -56,7 +56,19 @@ Khas Pengambilan Tanah established under section 3C;
 
 (d) by inserting after the definition of "Court" the following definitions:
 
-' "development approval" means any approval for the carrying out of any building, engineering, industrial, or other similar operation in, on, over, or under any land, or for the making of any material change in the restriction or condition relating to land use, that has been duly granted by the appropriate authority under the Town and Country Act 172. Planning Act 1976 or continues to be in force by virtue of section 59(1) of that Act, or that Act 267. has been granted under the Federal Territory (Planning) Act 1982, the Street, Drainage and Act 133. Building Act 1974, or the State land law, as the case may be;
+' "development approval" means any approval for the carrying out of any building, engineering, industrial, or other similar operation in, on, over, or under any land, or for the making of any material change in the restriction or condition relating to land use, that has been duly granted by the appropriate authority under the Town and Country
+
+<!-- marginal: Act 172. -->
+
+Planning Act 1976 or continues to be in force by virtue of section 59(1) of that Act, or that
+
+<!-- marginal: Act 267. -->
+
+has been granted under the Federal Territory (Planning) Act 1982, the Street, Drainage and
+
+<!-- marginal: Act 133. -->
+
+Building Act 1974, or the State land law, as the case may be;
 
 "Economic Planning Unit" means the Economic Planning Unit of the Prime Minister's Department of Malaysia or any other body or authority authorised by the Government, administratively or otherwise, to perform the functions of the Economic Planning Unit;';
 
@@ -74,7 +86,11 @@ Khas Pengambilan Tanah established under section 3C;
 
 (h) by inserting after the definition of "scheduled land" the following definition:
 
-' "sewerage system" has the meaning Act 508. assigned to it under the Sewerage Services Act 1993;';
+' "sewerage system" has the meaning
+
+<!-- marginal: Act 508. -->
+
+assigned to it under the Sewerage Services Act 1993;';
 
 (i) by inserting after the definition of "State Authority" the following definitions:
 
@@ -96,9 +112,11 @@ Khas Pengambilan Tanah established under section 3C;
 
 ' "valuer" means a valuation officer employed by the Government or a registered valuer or appraiser registered under the Act 242. Valuers, Appraisers and Estate Agents Act 1981.'.
 
-Amendment
+<!-- marginal: Amendment -->
 
-3. Section 3 of the principal Act is amended— of section 3.
+3. Section 3 of the principal Act is amended—
+
+<!-- marginal: of section 3. -->
 
 (a) by renumbering the existing section as subsection
 
@@ -142,7 +160,35 @@ Provided that the State Authority may grant partial or total exemption from the 
 
 <!-- marginal: 3F. -->
 
-"Matters to 3A. (1) The State Economic Planning Unit, or be the Committee for the Federal Territory of Kuala considered by the Lumpur, as the case may be, shall consider the State application referred to in section 3(4) on the Economic Planning following aspects: Unit, or Committee, etc.
+<!-- marginal: "Matters to -->
+
+3A. (1) The State Economic Planning Unit, or
+
+<!-- marginal: be -->
+
+the Committee for the Federal Territory of Kuala
+
+<!-- marginal: considered -->
+
+<!-- marginal: by the -->
+
+Lumpur, as the case may be, shall consider the
+
+<!-- marginal: State -->
+
+application referred to in section 3(4) on the
+
+<!-- marginal: Economic -->
+
+<!-- marginal: Planning -->
+
+following aspects:
+
+<!-- marginal: Unit, or -->
+
+<!-- marginal: Committee, -->
+
+<!-- marginal: etc. -->
 
 (a) public interest;
 
@@ -168,7 +214,9 @@ Land Acquisition (Amendment) 7
 
 application for acquisition shall not be proceeded with any further.
 
-(6) Where the State Economic Planning Unit, or the Committee for the Federal Territory of Kuala Lumpur, as the case may be, is satisfied that the negotiations made pursuant to subsection (3) are unsuccessful or no conclusive decision has been achieved within the specified period, the State Economic Planning Unit or the Committee for the Federal Territory of Kuala Lumpur may proceed to consider the application and make any recommendation as it deems fit:
+(6) Where the State Economic Planning Unit, or the Committee for the Federal Territory of Kuala Lumpur, as the case may be, is satisfied that the negotiations made pursuant to subsection
+
+(3) are unsuccessful or no conclusive decision has been achieved within the specified period, the State Economic Planning Unit or the Committee for the Federal Territory of Kuala Lumpur may proceed to consider the application and make any recommendation as it deems fit:
 
 Provided that the recommendation shall not extend to compelling the registered proprietor to accept any participation in the project.
 
@@ -182,13 +230,37 @@ Provided that where the Committee for the Federal Territory of Kuala Lumpur make
 
 <!-- page 8 -->
 
-Application 3B. In respect of an application under section of section 3(2), where there is no development approval 3A where there is no for the land, section 3A shall not apply except development the provisions contained in subsections (l)(a), approval.
+<!-- marginal: Application -->
+
+3B. In respect of an application under section
+
+<!-- marginal: of section -->
+
+3(2), where there is no development approval
+
+<!-- marginal: 3A where -->
+
+<!-- marginal: there is no -->
+
+for the land, section 3A shall not apply except
+
+<!-- marginal: development -->
+
+the provisions contained in subsections (l)(a),
+
+<!-- marginal: approval. -->
 
 (b), (c) and (7):
 
 Provided that where the State Economic Planning Unit, or the Committee for the Federal Territory of Kuala Lumpur, as the case may be, finds it appropriate or necessary in the interest of the registered proprietor that the registered proprietor participates in the project, then, in such case, the State Economic Planning Unit, or the Committee for the Federal Territory of Kuala Lumpur, may give directions to the applicant to negotiate with the registered proprietor and the provisions of sections 3A(3), (4), (5), (6) and (7) shall apply with the necessary modifications.
 
-The 3C. (1) For the purposes of this Act, there shall Committee. be established a Committee to be known as the "Jawatankuasa Khas Pengambilan Tanah".
+<!-- marginal: The -->
+
+3C. (1) For the purposes of this Act, there shall
+
+<!-- marginal: Committee. -->
+
+be established a Committee to be known as the "Jawatankuasa Khas Pengambilan Tanah".
 
 (2) The Committee shall—
 
@@ -222,15 +294,39 @@ The 3C. (1) For the purposes of this Act, there shall Committee. be established 
 
 (vii) representatives of other related Government departments or agencies as may be determined by the Chairman.
 
-Evaluation 3D. (1) On receiving the application referred by the to in section 3A(7) or 3B, as the case may be, State Committee. the Committee, in the case of a State, shall evaluate the appropriateness of the application and shall, not later than two months from the date of receiving the application, transmit it to the State Authority together with such recommendation as it thinks fit.
+<!-- marginal: Evaluation -->
+
+3D. (1) On receiving the application referred
+
+<!-- marginal: by the -->
+
+to in section 3A(7) or 3B, as the case may be,
+
+<!-- marginal: State -->
+
+<!-- marginal: Committee. -->
+
+the Committee, in the case of a State, shall evaluate the appropriateness of the application and shall, not later than two months from the date of receiving the application, transmit it to the State Authority together with such recommendation as it thinks fit.
 
 <!-- page 10 -->
 
 (2) The recommendation in subsection (1) may, where applicable, include the imposition of any condition and restriction in interest on the land as provided in the State land law,
 
-(3) Where the Committee fails to transmit the application to the State Authority within the period of two months specified in subsection (1), the State Authority may direct the State Economic Planning Unit to transmit forthwith directly to the State Authority the application, the accompanying documents referred to in section 3(3) and a report of the negotiations referred to in section 3A(4), if any, together with the State Economic Planning Unit's recommendations.
+(3) Where the Committee fails to transmit the application to the State Authority within the period of two months specified in subsection
 
-Decision of 3E. (1) On receiving the application referred Slate to in section 3A(7)(b) or 3D, as the case may Authority. be, the State Authority may approve or reject the application.
+(1), the State Authority may direct the State Economic Planning Unit to transmit forthwith directly to the State Authority the application, the accompanying documents referred to in section 3(3) and a report of the negotiations referred to in section 3A(4), if any, together with the State Economic Planning Unit's recommendations.
+
+<!-- marginal: Decision of -->
+
+3E. (1) On receiving the application referred
+
+<!-- marginal: Slate -->
+
+to in section 3A(7)(b) or 3D, as the case may
+
+<!-- marginal: Authority. -->
+
+be, the State Authority may approve or reject the application.
 
 (2) Notwithstanding subsection (1), the State Authority shall not approve the application for the acquisition of land for any purpose larger in area than that needed for that purpose.
 
@@ -270,9 +366,11 @@ after subsection (4) the following subsection:
 
 <!-- page 12 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-7. Section 9 of the principal Act is amended— of section 9.
+7. Section 9 of the principal Act is amended—
+
+<!-- marginal: of section 9. -->
 
 (a) in subsection (2)—
 
@@ -282,13 +380,39 @@ Amendment
 
 (b) by deleting subsection (3).
 
-New section
+<!-- marginal: New section -->
 
 8. The principal Act is amended by inserting after section
 
 9A. 9 the following section:
 
-"Land 9A. (1) For the purposes of assessing the Adminis- amount of compensation under the First trator to obtain Schedule, the Land Administrator shall request information from the State Director of Town and Country on land Planning information on the following matters: use of scheduled land, etc.
+<!-- marginal: "Land -->
+
+9A. (1) For the purposes of assessing the
+
+<!-- marginal: Adminis- -->
+
+amount of compensation under the First
+
+<!-- marginal: trator to -->
+
+<!-- marginal: obtain -->
+
+Schedule, the Land Administrator shall request
+
+<!-- marginal: information -->
+
+from the State Director of Town and Country
+
+<!-- marginal: on land -->
+
+Planning information on the following matters:
+
+<!-- marginal: use of -->
+
+<!-- marginal: scheduled -->
+
+<!-- marginal: land, etc. -->
 
 (a) whether the scheduled land is within a local planning authority area;
 
@@ -296,7 +420,9 @@ New section
 
 (c) if there is a development plan, the land use indicated in the development plan for the scheduled land.
 
-(2) The State Director of Town and Country Planning shall, for the purpose of subsection (1), request for the information from the local planning authority.
+(2) The State Director of Town and Country Planning shall, for the purpose of subsection
+
+(1), request for the information from the local planning authority.
 
 (3) The local planning authority, upon receiving the request for information under subsection (2), shall provide the information required within two weeks of the request being made by the State Director of Town and Country Planning.
 
@@ -342,25 +468,37 @@ by inserting after the word "costs" the words ", which shall include any valuati
 
 (b) by substituting for the word "Commissioner" the words "State Director".
 
-Amendment
+<!-- marginal: Amendment -->
 
-12. Section 20 of the principal Act is amended by of section 20. inserting after the words "not built upon," the words "other than the main access to the building,".
+12. Section 20 of the principal Act is amended by
 
-Amendment of
+<!-- marginal: of section 20. -->
 
-13. Paragraph 23(a) of the principal Act is amended by section 23. inserting after the words "State Authority" the words "or, in the case of a parcel of a subdivided building, in the person or corporation on whose behalf the parcel has been acquired".
+inserting after the words "not built upon," the words "other than the main access to the building,".
 
-Amendment of
+<!-- marginal: Amendment of -->
 
-14. Section 24 of the principal Act is amended— section 24.
+13. Paragraph 23(a) of the principal Act is amended by
+
+<!-- marginal: section 23. -->
+
+inserting after the words "State Authority" the words "or, in the case of a parcel of a subdivided building, in the person or corporation on whose behalf the parcel has been acquired".
+
+<!-- marginal: Amendment of -->
+
+14. Section 24 of the principal Act is amended—
+
+<!-- marginal: section 24. -->
 
 (a) by deleting the words "or other deed or deeds evidencing title" and the words "or deed" wherever they appear in subsection (1); and
 
 (b) in subsection (2), by deleting the words ", or such deed or deeds relate," and the. words ", deed or deeds, as the case may be,".
 
-Amendment of
+<!-- marginal: Amendment of -->
 
-15. Section 27 of the principal Act is amended— section 27.
+15. Section 27 of the principal Act is amended—
+
+<!-- marginal: section 27. -->
 
 (a) in the marginal note, by deleting the words "and deeds";
 
@@ -370,9 +508,13 @@ Amendment of
 
 (d) by deleting the words "or other deed evidencing title" wherever they appear in subsection (3).
 
-Amendment of
+<!-- marginal: Amendment of -->
 
-16. Subsection 29A(5) of the principal Act is amended section 29A. by substituting for the word "interest" the words "late payment charges".
+16. Subsection 29A(5) of the principal Act is amended
+
+<!-- marginal: section 29A. -->
+
+by substituting for the word "interest" the words "late payment charges".
 
 <!-- page 15 -->
 
@@ -412,17 +554,27 @@ Amendment of
 
 <!-- page 16 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-20. The principal Act is amended in subsection 37(2) of section 37. by substituting for the word "claimed" the word "awarded".
+20. The principal Act is amended in subsection 37(2)
 
-Amendment
+<!-- marginal: of section 37. -->
 
-21. Subsection 38(5) of the principal Act is amended of section 38. by substituting for the word "three" the word "six".
+by substituting for the word "claimed" the word "awarded".
 
-Amendment
+<!-- marginal: Amendment -->
 
-22. Section 39 of the principal Act is amended— of section 39.
+21. Subsection 38(5) of the principal Act is amended
+
+<!-- marginal: of section 38. -->
+
+by substituting for the word "three" the word "six".
+
+<!-- marginal: Amendment -->
+
+22. Section 39 of the principal Act is amended—
+
+<!-- marginal: of section 39. -->
 
 (a) in subsection (1)—
 
@@ -438,9 +590,15 @@ Amendment
 
 (ii) by substituting for the word "fourteen" the word "thirty".
 
-New sections
+<!-- marginal: New sections -->
 
-23. The principal Act is amended by inserting after section 40A, 40B, 39, under the heading "The Court", the following sections: 40C and 40D.
+23. The principal Act is amended by inserting after section
+
+<!-- marginal: 40A, 40B, -->
+
+39, under the heading "The Court", the following sections:
+
+<!-- marginal: 40C and 40D. -->
 
 "Constitu- 40A. (1) Except as provided in this section the tion of the Court shall consist of a Judge sitting alone. Court.
 
@@ -454,7 +612,9 @@ New sections
 
 (5) The Director General of the Valuation and Property Services Department shall submit a list of names of valuation officers employed by the Government and the offices to which they are attached or posted to every High Court before the thirty-first day of December of each calendar year.
 
-Assessors. 40B. (1) Every person appointed as an assessor under section 40A shall be legally bound to attend and serve as an assessor unless excused for some reason to be approved by the Judge.
+<!-- marginal: Assessors. -->
+
+40B. (1) Every person appointed as an assessor under section 40A shall be legally bound to attend and serve as an assessor unless excused for some reason to be approved by the Judge.
 
 (2) Without prejudice to subsection (1), if an assessor fails to attend and serve as an assessor without written excuse by the Judge, the Court shall report the matter to the President of the Board of Valuers, Appraisers and Estate Agents for disciplinary proceedings to be taken against the assessor under the Valuers, Appraisers and Estate Agents Act 1981.
 
@@ -470,9 +630,27 @@ General of the Valuation and Property Services Department for disciplinary proce
 
 (6) The fee of an assessor shall be deemed to be costs in the proceeding.
 
-Opinion of 40C. The opinion of each assessor on the various assessors. heads of compensation claimed by all persons interested shall be given in writing and shall be recorded by the Judge.
+<!-- marginal: Opinion of -->
 
-Decision of 40D. (1) In a case before the Court as to the the Court amount of compensation or as to the amount on com- pensation. of any of its items the amount of compensation to be awarded shall be the amount decided upon by the two assessors.
+40C. The opinion of each assessor on the various
+
+<!-- marginal: assessors. -->
+
+heads of compensation claimed by all persons interested shall be given in writing and shall be recorded by the Judge.
+
+<!-- marginal: Decision of -->
+
+40D. (1) In a case before the Court as to the
+
+<!-- marginal: the Court -->
+
+amount of compensation or as to the amount
+
+<!-- marginal: on com- -->
+
+<!-- marginal: pensation. -->
+
+of any of its items the amount of compensation to be awarded shall be the amount decided upon by the two assessors.
 
 (2) Where the assessors have each arrived at a decision which differs from each other then the Judge, having regard to the opinion of each assessor, shall elect to concur with the decision of one of the assessors and the amount of compensation to be awarded shall be the amount decided upon by that assessor.
 
@@ -532,9 +710,11 @@ substituting for the word "interest" in the marginal note and in the section the
 
 <!-- page 20 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-29. Section 63 of the principal Act is amended— of section 63.
+29. Section 63 of the principal Act is amended—
+
+<!-- marginal: of section 63. -->
 
 (a) by renumbering the existing section as subsection (1); and
 
@@ -542,9 +722,11 @@ Amendment
 
 '(2) For the purpose of this section, "Chief Police Officer" includes a Act 344. Commanding Officer appointed under the Police Act 1967.'.
 
-Amendment
+<!-- marginal: Amendment -->
 
-30. Section 64 of the principal Act is amended— of section 64.
+30. Section 64 of the principal Act is amended—
+
+<!-- marginal: of section 64. -->
 
 (a) by renumbering the existing paragraphs (a) and
 
@@ -556,13 +738,19 @@ Amendment
 
 (c) by substituting for the words "one month, or to a fine not exceeding two hundred ringgit" the words "six months, or to a fine not exceeding five thousand ringgit".
 
-Amendment
+<!-- marginal: Amendment -->
 
-31. Section 66 of the principal Act is amended by of section 66. inserting after the words "as State land" the words "or, in the case of a parcel of a subdivided building, in the person or corporation on whose behalf the parcel was acquired,".
+31. Section 66 of the principal Act is amended by
 
-Amendment
+<!-- marginal: of section 66. -->
 
-32. Section 69 of the principal Act is amended— of section 69.
+inserting after the words "as State land" the words "or, in the case of a parcel of a subdivided building, in the person or corporation on whose behalf the parcel was acquired,".
+
+<!-- marginal: Amendment -->
+
+32. Section 69 of the principal Act is amended—
+
+<!-- marginal: of section 69. -->
 
 (a) in paragraph (c)—
 
@@ -620,21 +808,15 @@ to which the land is subject or deemed to be subject under the State land law.";
 
 (b) in paragraph 2—
 
-(i) in subparagraph (b), by inserting after the words "any increase" the words ", which shall be deducted from the
-
-<!-- marginal: total -->
-
-compensation,"; and
+(i) in subparagraph (b), by inserting after the words "any increase" the words ", which shall be deducted from the total compensation,"; and
 
 (ii) in subparagraph (d), by deleting the words "or his actual earnings".
 
-<!-- marginal: Amendment -->
+Amendment
 
-34. The Second Schedule to the principal Act is
+34. The Second Schedule to the principal Act is of Second
 
-<!-- marginal: of Second -->
-
-amended—
+<!-- marginal: amended— -->
 
 ## Schedule.
 
@@ -720,7 +902,15 @@ Interpretation. 1. In this Schedule, unless the context otherwise requires—
 
 "valuer's report", in relation to the report by the valuer of one party to the proceeding, includes his reply to the report of the valuer of the other party to the proceeding.
 
-Valuer's report 2. (1) The applicant's valuer's report alone must establish and oral a prima facie case for the applicant. evidence.
+<!-- marginal: Valuer's report -->
+
+2. (1) The applicant's valuer's report alone must establish
+
+<!-- marginal: and oral -->
+
+a prima facie case for the applicant.
+
+<!-- marginal: evidence. -->
 
 (2) Oral evidence by the applicant's valuer shall only be adduced during cross-examination and re-examination, if any.
 
@@ -728,13 +918,23 @@ Valuer's report 2. (1) The applicant's valuer's report alone must establish and 
 
 (4) Subparagraph (2) shall apply to the respondent's valuer as it applies to the applicant's valuer.
 
-Filing and 3. (1) Each party to the proceeding shall, not less than service of valuer's report. seven days before the date of hearing, file in Court four copies of his valuer's report.
+<!-- marginal: Filing and -->
+
+3. (1) Each party to the proceeding shall, not less than
+
+<!-- marginal: service of -->
+
+<!-- marginal: valuer's report. -->
+
+seven days before the date of hearing, file in Court four copies of his valuer's report.
 
 (2) Each party to the proceeding shall, not less than twenty-one days before the date of hearing, serve on the other party a copy of his valuer's report.
 
 (3) Each party to the proceeding shall, not less than seven days before the date of hearing, serve on the other party and file in Court his valuer's reply to the other party's valuer's report.
 
-Common plan. 4. (1) Where the reports of both the applicant's and the respondent's valuers contain comparable sales plans, the applicant's valuer shall prepare a plan, to be known as the "common plan", incorporating the comparable sales plans in both such reports.
+<!-- marginal: Common plan. -->
+
+4. (1) Where the reports of both the applicant's and the respondent's valuers contain comparable sales plans, the applicant's valuer shall prepare a plan, to be known as the "common plan", incorporating the comparable sales plans in both such reports.
 
 (2) The common plan shall be served on the respondent not less than seven days before the date of hearing.
 
@@ -864,7 +1064,9 @@ The proposed section 40D provides for the decision of the Court on compensation 
 
 Sub-subparagraph 1(1)(a) has been amended. The existing provision stipulates that if a notification under section 4 in respect of any scheduled land is followed within six months by a declaration under section 8, the date for the purpose of valuing the market value of the scheduled land is the date of the notification. The proposed amendment seeks to increase that period to twelve months so that it is consistent with the period specified in subsection 4(3),
 
-A new subparagraph 1(1A) is proposed to be introduced to provide that in assessing the value of any scheduled land, the valuer may use any suitable method of valuation to arrive at the market value but regard may be had to the prices paid for the recent sales of land with similar characteristics situated within the same vicinity and that particular consideration must be given to the last transaction on the scheduled land within two years from the date with reference to which the scheduled land is to be assessed under subparagraph (1).
+A new subparagraph 1(1A) is proposed to be introduced to provide that in assessing the value of any scheduled land, the valuer may use any suitable method of valuation to arrive at the market value but regard may be had to the prices paid for the recent sales of land with similar characteristics situated within the same vicinity and that particular consideration must be given to the last transaction on the scheduled land within two years from the date with reference to which the scheduled land is to be assessed under subparagraph
+
+(1).
 
 A new subparagraph 1(1B) is proposed to be introduced to provide that where only a part of the scheduled land is to be acquired, the market value shall be determined by reference to the whole land as shown in the document of title of the scheduled land and after having regard to the particular features of that part.
 

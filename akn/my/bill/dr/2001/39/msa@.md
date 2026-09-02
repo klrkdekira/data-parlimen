@@ -10,27 +10,13 @@
 
 ## PERMULAAN
 
-1. Tajuk ringkas
-
-2. Pindaan Akta
+1. Tajuk ringkas 2. Pindaan Akta
 
 ## BAB II
 
 ## PINDAAN KEPADA AKTA CUKAI PENDAPATAN 1967
 
-3. Permulaan kuat kuasa pindaan kepada Akta Cukai Pendapatan 1967
-
-4. Pindaan seksyen 34
-
-5. Pindaan seksyen 39
-
-6. Pindaan seksyen 75
-
-7. Pindaan Jadual 1
-
-8. Pindaan Jadual 3
-
-9. Peruntukan khas berhubung dengan perenggan 16 Jadual 3
+3. Permulaan kuat kuasa pindaan kepada Akta Cukai Pendapatan 1967 4. Pindaan seksyen 34 5. Pindaan seksyen 39 6. Pindaan seksyen 75 7. Pindaan Jadual 1 8. Pindaan Jadual 3 9. Peruntukan khas berhubung dengan perenggan 16 Jadual 3
 
 10. Pindaan Jadual 7 A
 
@@ -53,6 +39,8 @@
 ## BAB IV
 
 ## PINDAAN KEPADA AKTA SETEM 1949
+
+<!-- marginal: Fasal -->
 
 16. Permulaan kuat kuasa pindaan kepada Akta Setem 1949
 
@@ -156,7 +144,11 @@ Provided further that the maximum amount of deduction in respect of the rentals 
 
 (a) dalam Bahagian I dalam perenggan 1, dengan menggantikan kadar sedia ada dengan kadar yang berikut:
 
-"Chargeable Income RM Rate of Income Tax
+"Chargeable Income RM
+
+<!-- marginal: Rate of -->
+
+Income Tax
 
 For every ringgit of the first 2,500 0 per cent For every ringgit of the next 2,500 1 per cent For every ringgit of the next 15,000 3 per cent For every ringgit of the next 15,000 7 per cent For every ringgit of the next 15,000 13 per cent For every ringgit of the next 20,000 19 per cent For every ringgit of the next 30,000 24 per cent For every ringgit of the next 150,000 27 per cent For every ringgit exceeding 250,000 28 per cent";
 
@@ -164,7 +156,11 @@ For every ringgit of the first 2,500 0 per cent For every ringgit of the next 2,
 
 (c) dalam Bahagian IV, dengan menggantikan kadar sedia ada dengan kadar yang berikut:
 
-"Chargeable Income RM Rate of Income Tax
+"Chargeable Income RM
+
+<!-- marginal: Rate of -->
+
+Income Tax
 
 For every ringgit of the first 20,000 0 per cent For every ringgit of the next 10,000 3 per cent For every ringgit of the next 10,000 6 per cent For every ringgit of the next 10,000 9 per cent For every ringgit of the next 25,000 12 per cent For every ringgit of the next 25,000 16 per cent For every ringgit of the next 50,000 20 per cent For every ringgit of the next 100,000 23 per cent For every ringgit of the next 250,000 26 per cent For every ringgit exceeding 500,000 28 per cent".
 
@@ -206,29 +202,9 @@ Kewangan 7
 
 " ( 1A) Where the purchased building referred to in subparagraph (1) is constructed prior to 1 January 2000 and that building was first used after its purchase as an industrial building—
 
-(a) in the year of assessment 2000, all annual allowances referred to
+(a) in the year of assessment 2000, all annual allowances referred to in sub- subparagraph (l)(a) shall be allowances which could have been claimed or made for the year of assessment following the year of assessment in which the expenditure on the construction of that building was incurred up to and including the year of assessment 2000 (preceding year basis); or
 
-<!-- marginal: in -->
-
-<!-- marginal: sub- -->
-
-subparagraph (l)(a) shall be allowances which could have been claimed or made for the year of assessment following the year of assessment in which
-
-<!-- marginal: the -->
-
-expenditure on the construction of that building was incurred up to and including the year of assessment 2000 (preceding year basis); or
-
-(b) in the year of assessment 2001 or any subsequent year of assessment, all annual allowances referred to
-
-<!-- marginal: in -->
-
-<!-- marginal: sub- -->
-
-subparagraph ( l )( a) shall be allowances which could have been claimed or made for the year of assessment following the year of assessment in which
-
-<!-- marginal: the -->
-
-expenditure on the construction of that building was incurred up to and including the year of assessment immediately preceding, the year of assessment 2001 or any subsequent year of assessment in which that building was first used after its purchase as an industrial building, and for the avoidance of doubt, the allowance for the year of assessment 2000 shall consist of the allowances for the year of assessment 2000 (preceding year basis) and year of assessment 2000 (current year basis).";
+(b) in the year of assessment 2001 or any subsequent year of assessment, all annual allowances referred to in sub- subparagraph ( l )( a) shall be allowances which could have been claimed or made for the year of assessment following the year of assessment in which the expenditure on the construction of that building was incurred up to and including the year of assessment immediately preceding, the year of assessment 2001 or any subsequent year of assessment in which that building was first used after its purchase as an industrial building, and for the avoidance of doubt, the allowance for the year of assessment 2000 shall consist of the allowances for the year of assessment 2000 (preceding year basis) and year of assessment 2000 (current year basis).";
 
 <!-- page 9 -->
 
@@ -240,11 +216,7 @@ expenditure on the construction of that building was incurred up to and includin
 
 (g) dalam perenggan 16 —
 
-(i) dengan memasukkan selepas
-
-<!-- marginal: perkataan -->
-
-"construction" perkataan "or purchase"; dan
+(i) dengan memasukkan selepas perkataan "construction" perkataan "or purchase"; dan
 
 (ii) dengan menggantikan perkataan "one-fiftieth" dengan perkataan "three-hundredth";
 
@@ -380,11 +352,7 @@ Provided further that the maximum amount of deduction in respect of the rentals 
 
 (e) dalam perenggan 13 —
 
-(i) dengan memasukkan selepas
-
-<!-- marginal: perkataan -->
-
-"construction" perkataan "or purchase"; dan
+(i) dengan memasukkan selepas perkataan "construction" perkataan "or purchase"; dan
 
 <!-- page 15 -->
 
@@ -416,9 +384,13 @@ Provided further that the maximum amount of deduction in respect of the rentals 
 
 18. Akta ibu dipinda dengan memasukkan selepas seksyen 38 seksyen yang berikut:
 
-Notice of
+<!-- marginal: Notice of -->
 
-38A. (1) Any person who is dissatisfied with an assessment objection of the Collector under section 36 may, by written notice (referred to in this Act as "notice of objection"), object to the assessment and apply to the Collector to review the assessment.
+38A. (1) Any person who is dissatisfied with an assessment
+
+<!-- marginal: objection -->
+
+of the Collector under section 36 may, by written notice (referred to in this Act as "notice of objection"), object to the assessment and apply to the Collector to review the assessment.
 
 (2) Every notice of objection shall state the grounds of objection to the Collector's assessment and shall be made within thirty days after the date of the assessment or such further period as the Collector may allow in any particular case.
 
@@ -570,7 +542,9 @@ AM
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN(U2)2284]
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
+
+<!-- marginal: [PN(U2)2284] -->
 
 <!-- page 23 -->
 
@@ -588,7 +562,9 @@ Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
-3. Commencement of amendments to the Income Tax Act 1967 4. Amendment of section 34 5. Amendment of section 39 6. Amendment of section 75 7. Amendment of Schedule 1 8. Amendment of Schedule 3 9. Special provision relating to paragraph 16 of Schedule 3 10. Amendment of Schedule 7A
+3. Commencement of amendments to the Income Tax Act 1967 4. Amendment of section 34 5. Amendment of section 39 6. Amendment of section 75 7. Amendment of Schedule 1 8. Amendment of Schedule 3 9. Special provision relating to paragraph 16 of Schedule 3
+
+10. Amendment of Schedule 7A
 
 ## CHAPTER
 
@@ -596,7 +572,15 @@ III
 
 ## AMENDMENTS TO THE PETROLEUM (INCOME TAX) ACT 1967
 
-11. Commencement of amendments to the Petroleum (Income Tax) Act 1967 12. Amendment of section 16 13. Amendment of section 18 14. Amendment of Second Schedule 15. Special provision relating to paragraph 13 of Second Schedule
+11. Commencement of amendments to the Petroleum (Income Tax) Act 1967
+
+12. Amendment of section 16
+
+13. Amendment of section 18
+
+14. Amendment of Second Schedule
+
+15. Special provision relating to paragraph 13 of Second Schedule
 
 <!-- page 24 -->
 
@@ -605,6 +589,8 @@ III
 IV
 
 ## AMENDMENTS TO THE STAMP ACT 1949
+
+<!-- marginal: Clause -->
 
 16. Commencement of amendments to the Stamp Act 1949
 

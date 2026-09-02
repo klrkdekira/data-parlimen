@@ -60,11 +60,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 3 -->
 
-Lembaga Pemasaran Pertanian
-
-<!-- marginal: 3 -->
-
-Persekutuan (Pindaan)
+Lembaga Pemasaran Pertanian 3 Persekutuan (Pindaan)
 
 ### Pindaan seksyen 3
 
@@ -400,7 +396,9 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Lembaga Pemasaran Pertanian 
 
 ## IMPL1KASI KEWANGAN
 
-Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN(U2)2293]
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
+
+<!-- marginal: [PN(U2)2293] -->
 
 <!-- page 15 -->
 
@@ -458,11 +456,7 @@ Bill
 
 <!-- page 17 -->
 
-Federal Agricultural Marketing
-
-<!-- marginal: 3 -->
-
-Authority (Amendment)
+Federal Agricultural Marketing 3 Authority (Amendment)
 
 (b) by inserting after subsection (6) the following subsection:
 
@@ -784,4 +778,4 @@ This Bill seeks to amend the Federal Agricultural Marketing Authority Act 1965 (
 
 This Bill will not involve the Government in any extra financial expenditure.
 
-[PN(U2)2293]
+<!-- marginal: [PN(U2)2293] -->

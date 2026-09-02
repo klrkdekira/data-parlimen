@@ -16,7 +16,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Pindaan seksyen 21
 
-2. Akta Cukai Aktiviti Perniagaan Labuan 1990 [Akta 445] dipinda dalam perenggan 21(1)(b) dengan menggantikan perkataan “seksyen 132, 132a atau 132b” dengan perkataan “seksyen 132, 132a, 132b atau 132c”.
+2. Akta Cukai Aktiviti Perniagaan Labuan 1990 [Akta 445] dipinda dalam perenggan 21(1)(b) dengan menggantikan perkataan “seksyen 132, 132a atau 132b” dengan perkataan “seksyen 132, 132A, 132B ATAU 132C”.
 
 <!-- page 2 -->
 

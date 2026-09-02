@@ -8,29 +8,45 @@ Naskhah Sahih—Bahasa Inggeris
 
 bernama
 
-Suatu Akta untuk meminda Akta Perhubungan Perusahaan
-
-1967. [ ]
+Suatu Akta untuk meminda Akta Perhubungan Perusahaan 1967. [ ]
 
 ## MAKA INILAH DIPERBUAT UNDANG-UNDANG
 
 oleh Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan Dewan Negara dan Dewan Rakyat yang bersidang dalam Parlimen, dan dengan kuasa daripadanya, seperti berikut:
 
-Tajuk ringkas
+<!-- marginal: Tajuk ringkas -->
 
-1. (1) Akta ini bolehlah dinamakan Akta Perhubungan dan mula Perusahaan (Pindaan) 1990. berkuatkuasa.
+1. (1) Akta ini bolehlah dinamakan Akta Perhubungan
+
+<!-- marginal: dan mula -->
+
+Perusahaan (Pindaan) 1990.
+
+<!-- marginal: berkuatkuasa. -->
 
 (2) Akta ini hendaklah mula berkuatkuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-2. Seksyen 14 Akta Perhubungan Perusahaan 1967, yang seksyen 14. disebut "Akta ibu" dalam Akta ini, adalah dipinda dengan Akta 177. menggantikan subseksyen (3) dengan yang berikut:
+2. Seksyen 14 Akta Perhubungan Perusahaan 1967, yang
+
+<!-- marginal: seksyen 14. -->
+
+disebut "Akta ibu" dalam Akta ini, adalah dipinda dengan
+
+<!-- marginal: Akta 177. -->
+
+menggantikan subseksyen (3) dengan yang berikut:
 
 "(3) Any term or condition of employment, contained in a collective agreement, which is less favourable than or in contravention of the provisions of any written law applicable to workmen covered by the said collective agreement, shall be void and of no effect to that extent and the provisions of such written law shall be substituted therefor.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Seksyen 27 Akta ibu adalah dipinda dengan memasukkan, seksyen 27. selepas sahaja perkataan-perkataan "appear himself personally" dalam perenggan (c) subseksyen (1), perkataan- perkataan "or where he is a member of a trade union of workmen, be represented by an officer or employee of the trade union".
+3. Seksyen 27 Akta ibu adalah dipinda dengan memasukkan,
+
+<!-- marginal: seksyen 27. -->
+
+selepas sahaja perkataan-perkataan "appear himself personally" dalam perenggan (c) subseksyen (1), perkataan- perkataan "or where he is a member of a trade union of workmen, be represented by an officer or employee of the trade union".
 
 <!-- page 2 -->
 

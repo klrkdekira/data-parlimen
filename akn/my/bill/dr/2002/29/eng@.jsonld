@@ -61,7 +61,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/29/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "Purpose Title Amount (RM) B. 7 Prime Minister's Department 128,340,000 B. 19 Ministry of Agriculture 20,000,000 B. 21 Ministry of Domestic Trade and Consumer 13,280,000 Affairs B. 28 Treasury 4,975,500 B. 30 Contribution to Statutory Funds 8,632,630 B. 35 Ministry of Home Affairs 34,184,900 B. 38 Ministry of Transport 21,290,800 B. 42 Ministry of National Unity and Social 85,100,000 Development TOTAL 315,803,830"
+        "@value": "Purpose Title B. 7 Prime Minister's Department B. 19 Ministry of Agriculture B. 21 Ministry of Domestic Trade and Consumer Affairs B. 28 Treasury B. 30 Contribution to Statutory Funds B. 35 Ministry of Home Affairs B. 38 Ministry of Transport B. 42 Ministry of National Unity and Social Development TOTAL"
       }
     }
   ]

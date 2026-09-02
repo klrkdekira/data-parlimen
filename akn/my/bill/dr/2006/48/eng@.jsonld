@@ -669,7 +669,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/48/eng@/~cl_9",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for paragraph (a) the following paragraph: \"(a) such application, duly made in accordance with subsection (2), is received by the Minister within six months after the execution of the first sale and purchase agreement in respect of that housing development or that phase of development;\""
+        "@value": "by substituting for paragraph (a) the following paragraph: \"(a) such application, duly made in accordance with subsection (2), is received by the Minister within six months after the execution of the first sale and purchase agreement in respect of that housing development or that phase of housing development;\""
       }
     },
     {
@@ -679,7 +679,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/48/eng@/~cl_9",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after subsection (2) the subsection: \"(2A) In the case of an application made by the purchasers under subsection (1), no licensed housing developer shall unreasonably withhold his written consent to the termination of the sale and purchase agreement.\"; and"
+        "@value": "by inserting after subsection (2) the following subsection: \"(2A) In the case of an application made by the purchasers under subsection (1), no licensed housing developer shall unreasonably withhold his written consent to the termination of the sale and purchase agreement.\"; and"
       }
     },
     {

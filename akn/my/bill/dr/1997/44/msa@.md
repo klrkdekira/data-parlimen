@@ -72,17 +72,63 @@ kehendak konteks.
 
 <!-- page 4 -->
 
-3. (1) Pihak berkuasa yang bertanggungjawab bagi Pihak berkuasa yang pembekalan dan pembahagian air dalam Negeri Selangor bertanggung- hendaklah menjalankan, bagi pihak Kerajaan Persekutuan, jawab bagi Wilayah kuasa dan fungsi di bawah undang-undang yang terpakai Persekutuan bagi Wilayah Persekutuan Kuala Lumpur mengenai Kuala Lumpur perkara-perkara yang berhubungan dengan pembekalan mengenai dan pembahagian air dalam Wilayah Persekutuan Kuala perkara- perkara air. Lumpur.
+3. (1) Pihak berkuasa yang bertanggungjawab bagi
+
+<!-- marginal: Pihak -->
+
+<!-- marginal: berkuasa yang -->
+
+pembekalan dan pembahagian air dalam Negeri Selangor
+
+<!-- marginal: bertanggung- -->
+
+hendaklah menjalankan, bagi pihak Kerajaan Persekutuan,
+
+<!-- marginal: jawab bagi -->
+
+<!-- marginal: Wilayah -->
+
+kuasa dan fungsi di bawah undang-undang yang terpakai
+
+<!-- marginal: Persekutuan -->
+
+bagi Wilayah Persekutuan Kuala Lumpur mengenai
+
+<!-- marginal: Kuala -->
+
+<!-- marginal: Lumpur -->
+
+perkara-perkara yang berhubungan dengan pembekalan
+
+<!-- marginal: mengenai -->
+
+dan pembahagian air dalam Wilayah Persekutuan Kuala
+
+<!-- marginal: perkara- -->
+
+<!-- marginal: perkara air. -->
+
+Lumpur.
 
 (2) Tiada apa-apa jua dalam subseksyen (1) boleh menghalang Kerajaan Persekutuan daripada menjalankan bagi pihaknya sendiri kuasa dan fungsi yang berhubungan dengan pembekalan dan pembahagian air di bawah undang- undang yang terpakai bagi Wilayah Persekutuan Kuala Lumpur.
 
-Pemansuhan.
+<!-- marginal: Pemansuhan. -->
 
-4. (1) Enakmen Bekalan Air hendaklah terhenti terpakai N.M.B. bagi Wilayah Persekutuan Kuala Lumpur.
+4. (1) Enakmen Bekalan Air hendaklah terhenti terpakai
+
+<!-- marginal: N.M.B. -->
+
+bagi Wilayah Persekutuan Kuala Lumpur.
 
 ## Bab 203.
 
-(2) Perintah (Enakmen Bekalan Air) Wilayah P.U. (A) 153/74. Persekutuan 1974 adalah dibatalkan.
+(2) Perintah (Enakmen Bekalan Air) Wilayah
+
+<!-- marginal: P.U. (A) -->
+
+<!-- marginal: 153/74. -->
+
+Persekutuan 1974 adalah dibatalkan.
 
 (3) Perundangan subsidiari yang dibuat di bawah Enakmen Bekalan Air dan yang berkuatkuasa dalam Wilayah Persekutuan Kuala Lumpur hendaklah terus berkuatkuasa sehingga dibatalkan, dipinda atau digantikan dengan perundangan subsidiari yang dibuat berkenaan dengan Wilayah Persekutuan Kuala Lumpur di bawah undang-undang yang berhubungan dengan pembekalan dan pembahagian air dalam Wilayah Persekutuan Kuala Lumpur.
 

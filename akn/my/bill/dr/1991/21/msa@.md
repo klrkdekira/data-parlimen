@@ -28,7 +28,9 @@ III
 
 ## SKIM KERETAPI
 
-7. Skim keretapi. 8. Kelulusan skim keretapi dan pendepositan pelan, keratan, dsb. 9. Keretapi hendaklah dibina mengikut pelan-pelan diluluskan. 10. Tanah persendirian boteh diambil bagi keretapi.
+7. Skim keretapi. 8. Kelulusan skim keretapi dan pendepositan pelan, keratan, dsb. 9. Keretapi hendaklah dibina mengikut pelan-pelan diluluskan.
+
+10. Tanah persendirian boteh diambil bagi keretapi.
 
 ## BAHAGIAN
 
@@ -36,17 +38,49 @@ IV
 
 ## PEMBINAAN DAN KERJA-KERJA
 
-11. Kuasa syarikat keretapi untuk melaksanakan segala kerja yang perlu. 12. Kuasa-kuasa dalam hal kemalangan. 13. Pembayaran pampasan. 14. Kerja-kerja kemudahan. 15. Kerja-kerja tambahan.
+11. Kuasa syarikat keretapi untuk melaksanakan segala kerja yang perlu.
+
+12. Kuasa-kuasa dalam hal kemalangan.
+
+13. Pembayaran pampasan.
+
+14. Kerja-kerja kemudahan.
+
+15. Kerja-kerja tambahan.
 
 <!-- page 2 -->
 
-40. Pelupusan barang-barang tak dituntut. 41. Perekuisisian bagi akuan bertulis mengenai perihalan barang-barang. 42. Barang-barang merbahaya atau memudaratkan. 43. Kemudahan trafik. 44. Syarikat keretapi bukan suatu pengangkut am.
+40. Pelupusan barang-barang tak dituntut.
+
+41. Perekuisisian bagi akuan bertulis mengenai perihalan barang-barang.
+
+42. Barang-barang merbahaya atau memudaratkan.
+
+43. Kemudahan trafik.
+
+44. Syarikat keretapi bukan suatu pengangkut am.
 
 ## BAHAGIAN VIII
 
 ## KEMALANGAN
 
-45. Notis mengenai kemalangan hendaklah diberi. 46. Siasatan. 47. Menteri boleh memerintahkan siasatan. 48. Erti "kemalangan". 49. Kuasa untuk membuat peraturan-peraturan yang berhubungan dengan notis mengenai kemalangan, dsb. 50. Pengemukaan penyata mengenai kemalangan. 51. Penalti kerana kegagalan mematuhi seksyen 45. 52. Penalti kerana kegagalan mematuhi seksyen 50. 53. Pemeriksaan perubatan wajib bagi orang yang tercedera dalam kemalangan keretapi.
+45. Notis mengenai kemalangan hendaklah diberi.
+
+46. Siasatan.
+
+47. Menteri boleh memerintahkan siasatan.
+
+48. Erti "kemalangan".
+
+49. Kuasa untuk membuat peraturan-peraturan yang berhubungan dengan notis mengenai kemalangan, dsb.
+
+50. Pengemukaan penyata mengenai kemalangan.
+
+51. Penalti kerana kegagalan mematuhi seksyen 45.
+
+52. Penalti kerana kegagalan mematuhi seksyen 50.
+
+53. Pemeriksaan perubatan wajib bagi orang yang tercedera dalam kemalangan keretapi.
 
 ## BAHAGIAN
 
@@ -54,11 +88,41 @@ IX
 
 ## KESALAHAN DAN PENALTI
 
-54. Mabuk atau pelanggaran tugas. 55. Membawa barang-barang merbahaya atau memudaratkan ke atas keretapi dengan menyalahi undang-undang. 56. Memasuki atau meninggalkan koc keretapi, dsb., semasa koc sedang bergerak, atau membuat perjalanan secara luar aturan. 57. Memasuki atau meninggalkan koc keretapi secara luar aturan. 58. Menahan kemasukan, dan memasuki serta enggan meninggalkan tren yang penuh. 59. Penalti kerana kelakuan tak senonoh atau sumbang atau kacau ganggu. 60. Penalti kerana penggunaan tak wajar alat isyarat kecemasan. 61. Penalti kerana mengalihkan, dsb., tonggak, pancang atau tanda lain. 62. Penalti kerana menceroboh. 63. Penalti kerana memandu kenderaan atau menghalau haiwan ke atas atau melintasi landasan keretapi.
+54. Mabuk atau pelanggaran tugas.
+
+55. Membawa barang-barang merbahaya atau memudaratkan ke atas keretapi dengan menyalahi undang-undang.
+
+56. Memasuki atau meninggalkan koc keretapi, dsb., semasa koc sedang bergerak, atau membuat perjalanan secara luar aturan.
+
+57. Memasuki atau meninggalkan koc keretapi secara luar aturan.
+
+58. Menahan kemasukan, dan memasuki serta enggan meninggalkan tren yang penuh.
+
+59. Penalti kerana kelakuan tak senonoh atau sumbang atau kacau ganggu.
+
+60. Penalti kerana penggunaan tak wajar alat isyarat kecemasan.
+
+61. Penalti kerana mengalihkan, dsb., tonggak, pancang atau tanda lain.
+
+62. Penalti kerana menceroboh.
+
+63. Penalti kerana memandu kenderaan atau menghalau haiwan ke atas atau melintasi landasan keretapi.
 
 <!-- page 3 -->
 
-16. Pagar, adangan, get dan palang. 17. Lintasan rata bergred. 18. Lintasan rata jalan. 19. Lintasan rata suwa. 20. Lintasan rata kerja. 21. Pembuangan pokok-pokok yang merbahaya kepada atau yang menghalang pengerjaan sesuatu keretapi. 22. Notis mengenai penebangan atau penebasan pokok-pokok atau hutan yang bersempadanan dengan keretapi.
+16. Pagar, adangan, get dan palang.
+
+17. Lintasan rata bergred.
+
+18. Lintasan rata jalan.
+
+19. Lintasan rata suwa.
+
+20. Lintasan rata kerja.
+
+21. Pembuangan pokok-pokok yang merbahaya kepada atau yang menghalang pengerjaan sesuatu keretapi.
+
+22. Notis mengenai penebangan atau penebasan pokok-pokok atau hutan yang bersempadanan dengan keretapi.
 
 ## BAHAGIAN V
 
@@ -66,53 +130,167 @@ IX
 
 ## PEMBUKAAN KERETAPI
 
-23. Lesen untuk mengendalikan sesuatu keretapi. 24. Notis mengenai pembukaan yang dimaksudkan sesuatu keretapi. 25. Menteri hendaklah meluluskan pembukaan keretapi. 26. Pemeriksaan. 27. Kuasa untuk menutup keretapi apabila telah dibuka. 28. Pembukaan semula keretapi selepas penutupan. 29. Pembukaan semula landasan selepas penggantungan sementara. 30. Penalti am kerana kegagalan mematuhi Bahagian V.
+23. Lesen untuk mengendalikan sesuatu keretapi.
+
+24. Notis mengenai pembukaan yang dimaksudkan sesuatu keretapi.
+
+25. Menteri hendaklah meluluskan pembukaan keretapi.
+
+26. Pemeriksaan.
+
+27. Kuasa untuk menutup keretapi apabila telah dibuka.
+
+28. Pembukaan semula keretapi selepas penutupan.
+
+29. Pembukaan semula landasan selepas penggantungan sementara.
+
+30. Penalti am kerana kegagalan mematuhi Bahagian V.
 
 ## BAHAGIAN VI
 
 ## KEWAJIPAN-KEWAJIPAN SYARIKAT KERETAPI
 
-31. Kewajipan-kewajipan syarikat keretapi. 32. Standard prestasi. 33. Pengemukaan laporan, akaun dsb. 34. Pengemukaan maklumat. 35. Pengemukaan maklumat lanjut. 36. Ketua Pengarah hendaklah diberitahu mengenai apa-apa pertukaran dalam pengawalan syarikat, dsb.
+31. Kewajipan-kewajipan syarikat keretapi.
+
+32. Standard prestasi.
+
+33. Pengemukaan laporan, akaun dsb.
+
+34. Pengemukaan maklumat.
+
+35. Pengemukaan maklumat lanjut.
+
+36. Ketua Pengarah hendaklah diberitahu mengenai apa-apa pertukaran dalam pengawalan syarikat, dsb.
 
 ## BAHAGIAN VII
 
 ## KUASA-KUASA SYARIKAT KERETAPI
 
-37. Jadual waktu dan senarai tambang hendaklah ditampalkan di stesen-stesen. 38. Tambang-tambang hendaklah dibayar terlebih dahulu dan tiket-tiket penumpang hendaklah diserahkan apabila diminta. 39. Lien bagi tambang, kadar dan caj lain.
+37. Jadual waktu dan senarai tambang hendaklah ditampalkan di stesen-stesen.
+
+38. Tambang-tambang hendaklah dibayar terlebih dahulu dan tiket-tiket penumpang hendaklah diserahkan apabila diminta.
+
+39. Lien bagi tambang, kadar dan caj lain.
 
 <!-- page 4 -->
 
 ## KERETAPI 3
 
-40. Pelupusan barang-barang tak dituntut. 41. Perekuisisian bagi akuan bertulis mengenai perihalan barang-barang. 42. Barang-barang merbahaya atau memudaratkan. 43. Kemudahan trafik. 44. Syarikat keretapi bukan suatu pengangkut am.
+40. Pelupusan barang-barang tak dituntut.
+
+41. Perekuisisian bagi akuan bertulis mengenai perihalan barang-barang.
+
+42. Barang-barang merbahaya atau memudaratkan.
+
+43. Kemudahan trafik.
+
+44. Syarikat keretapi bukan suatu pengangkut am.
 
 ## BAHAGIAN VIII
 
 ## KEMALANGAN
 
-45. Notis mengenai kemalangan hendaklah diberi. 46. Siasatan. 47. Menteri boleh memerintahkan siasatan. 48. Erti "kemalangan". 49. Kuasa untuk membuat peraturan-peraturan yang berhubungan dengan notis mengenai kemalangan, dsb. 50. Pengemukaan penyata mengenai kemalangan. 51. Penalti kerana kegagalan mematuhi seksyen 45. 52. Penalti kerana kegagalan mematuhi seksyen 50. 53. Pemeriksaan perubatan wajib bagi orang yang tercedera dalam kemalangan keretapi.
+45. Notis mengenai kemalangan hendaklah diberi.
+
+46. Siasatan.
+
+47. Menteri boleh memerintahkan siasatan.
+
+48. Erti "kemalangan".
+
+49. Kuasa untuk membuat peraturan-peraturan yang berhubungan dengan notis mengenai kemalangan, dsb.
+
+50. Pengemukaan penyata mengenai kemalangan.
+
+51. Penalti kerana kegagalan mematuhi seksyen 45.
+
+52. Penalti kerana kegagalan mematuhi seksyen 50.
+
+53. Pemeriksaan perubatan wajib bagi orang yang tercedera dalam kemalangan keretapi.
 
 ## BAHAGIAN IX KESALAHAN DAN
 
 ## PENALTI
 
-54. Mabuk atau pelanggaran tugas. 55. Membawa barang-barang merbahaya atau memudaratkan ke atas keretapi dengan menyalahi undang-undang. 56. Memasuki atau meninggalkan koc keretapi, dsb., semasa koc sedang bergerak, atau membuat perjalanan secara luar aturan. 57. Memasuki atau meninggalkan koc keretapi secara luar aturan. 58. Menahan kemasukan, dan memasuki serta enggan meninggalkan tren yang penuh. 59. Penalti kerana kelakuan tak senonoh atau sumbang atau kacau ganggu. 60. Penalti kerana penggunaan tak wajar alat isyarat kecemasan. 61. Penalti kerana mengalihkan, dsb., tonggak, pancang atau tanda lain. 62. Penalti kerana menceroboh. 63. Penalti kerana memandu kenderaan atau menghalau haiwan ke atas atau melintasi landasan keretapi.
+54. Mabuk atau pelanggaran tugas.
+
+55. Membawa barang-barang merbahaya atau memudaratkan ke atas keretapi dengan menyalahi undang-undang.
+
+56. Memasuki atau meninggalkan koc keretapi, dsb., semasa koc sedang bergerak, atau membuat perjalanan secara luar aturan.
+
+57. Memasuki atau meninggalkan koc keretapi secara luar aturan.
+
+58. Menahan kemasukan, dan memasuki serta enggan meninggalkan tren yang penuh.
+
+59. Penalti kerana kelakuan tak senonoh atau sumbang atau kacau ganggu.
+
+60. Penalti kerana penggunaan tak wajar alat isyarat kecemasan.
+
+61. Penalti kerana mengalihkan, dsb., tonggak, pancang atau tanda lain.
+
+62. Penalti kerana menceroboh.
+
+63. Penalti kerana memandu kenderaan atau menghalau haiwan ke atas atau melintasi landasan keretapi.
 
 <!-- page 5 -->
 
-64. Penalti kerana kerosakan, sama ada sengaja atau cuai. 65. Membuka atau tidak menutup dengan betul get-get. 66. Menghalang atau cuba menghalang keretapi dengan niat jahat. 67. Mencederakan atau cuba mencederakan dengan niat jahat orang-orang yang membuat perjalanan dengan tren. 68. Penalti kerana menyebabkan tren berhenti. 69. Penalti kerana perbuatan atau peninggaian sengaja yang membahayakan penumpang. 70. Penalti kerana perbuatan cuai. 71. Membuat pernyataan palsu, dsb. 72. Penalti kerana pelanggaran Akta atau peraturan-peraturan yang baginya tiada penalti khas diperuntukkan. 73. Tugas-tugas di sisi undang-undang pegawai keretapi. 74. Penangkapan pesalah-pesalah. 75. Mendapatkan kembali tambang, caj atau gantirugi. 76. Kesalahan oleh pertubuhan perbadanan. 77. Mengkompaun kesalahan-kesalahan. 78. Pendakwaan.
+64. Penalti kerana kerosakan, sama ada sengaja atau cuai.
+
+65. Membuka atau tidak menutup dengan betul get-get.
+
+66. Menghalang atau cuba menghalang keretapi dengan niat jahat.
+
+67. Mencederakan atau cuba mencederakan dengan niat jahat orang-orang yang membuat perjalanan dengan tren.
+
+68. Penalti kerana menyebabkan tren berhenti.
+
+69. Penalti kerana perbuatan atau peninggaian sengaja yang membahayakan penumpang.
+
+70. Penalti kerana perbuatan cuai.
+
+71. Membuat pernyataan palsu, dsb.
+
+72. Penalti kerana pelanggaran Akta atau peraturan-peraturan yang baginya tiada penalti khas diperuntukkan.
+
+73. Tugas-tugas di sisi undang-undang pegawai keretapi.
+
+74. Penangkapan pesalah-pesalah.
+
+75. Mendapatkan kembali tambang, caj atau gantirugi.
+
+76. Kesalahan oleh pertubuhan perbadanan.
+
+77. Mengkompaun kesalahan-kesalahan.
+
+78. Pendakwaan.
 
 ## BAHAGIAN X
 
 ## PENGGANTUNGAN ATAU PEMBATALAN LESEN
 
-79. Penggantungan atau pembatalan lesen. 80. Tindakan Menteri dalam hal-hal keadaan tertentu. 81. Peruntukan-peruntukan yang berhubungan dengan perlantikan di bawah seksyen 80. 82. Peruntukan-peruntukan yang berhubungan dengan peng- ambilan alih kawalan di bawah seksyen 80.
+79. Penggantungan atau pembatalan lesen.
+
+80. Tindakan Menteri dalam hal-hal keadaan tertentu.
+
+81. Peruntukan-peruntukan yang berhubungan dengan perlantikan di bawah seksyen 80.
+
+82. Peruntukan-peruntukan yang berhubungan dengan peng- ambilan alih kawalan di bawah seksyen 80.
 
 ## BAHAGIAN XI
 
 ## PERUNTUKAN-PERUNTUKAN PELBAGAI
 
-83. Kuasa kemasukan. 84. Penyelesaian perselisihan di antara syarikat-syarikat keretapi berkenaan dengan pengurusan trafik bersama. 85. Pengemukaan memorandum bagi apa-apa pertukaran pada struktur tambang, dsb., yang sedia ada. 86. Kuasa-kuasa khas semasa darurat. 87. Sekatan mengenai pelaksanaan terhadap harta keretapi. 88. Kuasa untuk membuat peraturan-peraturan.
+83. Kuasa kemasukan.
+
+84. Penyelesaian perselisihan di antara syarikat-syarikat keretapi berkenaan dengan pengurusan trafik bersama.
+
+85. Pengemukaan memorandum bagi apa-apa pertukaran pada struktur tambang, dsb., yang sedia ada.
+
+86. Kuasa-kuasa khas semasa darurat.
+
+87. Sekatan mengenai pelaksanaan terhadap harta keretapi.
+
+88. Kuasa untuk membuat peraturan-peraturan.
 
 <!-- page 6 -->
 
@@ -120,13 +298,25 @@ IX
 
 ## PERBADANAN ASET KERETAPI DAN HARTA KERETAPI
 
-89. Penubuhan, keanggotaan dan fungsi Perbadanan Aset Keretapi. 90. Perlantikan Pengurus Aset Keretapi. 91. Kuasa Menteri untuk memberi arahan. 92. Pembubaran Pentadbiran Keretapi Tanah Melayu dan perletakhakan hartanya pada Perbadanan. 93. Perletakhakan harta pada Perbadanan. 94. Perletakhakan harta yang terletak di Republik Singapura pada Pesuruhjaya Tanah Persekutuan. 95. Liabiliti boleh dikuatkuasakan terhadap Perbadanan atau Pesuruhjaya Tanah Persekutuan. 96. Perlantikan pegawai,dsb., Perbadanan. 97. Akta Perlindungan Pihak Berkuasa Awam 1948. 98. Penubuhan Kumpulan Wang Perbadanan Aset Keretapi. 99. Ketidaklayakan untuk diambil kerja sebagai pegawai atau pengkhidmat Perbadanan. 100. Akaun teraudit, penyata, laporan, akaun dan maklumat. 101. Kuasa untuk membuang kerja pegawai dan pengkhidmat dan menyelesaikan soalan tentang saraan, dsb., mereka. 102. Kaedah-kaedah yang menentukan syarat-syarat per- khidmatan pegawai dan pengkhidmat. 103. Perbadanan boleh melupuskan harta tak alih yang terletakhak padanya. 104. Tanah-tanah awam tertentu disifatkan sebagai rizab keretapi.
+89. Penubuhan, keanggotaan dan fungsi Perbadanan Aset Keretapi. 90. Perlantikan Pengurus Aset Keretapi. 91. Kuasa Menteri untuk memberi arahan. 92. Pembubaran Pentadbiran Keretapi Tanah Melayu dan perletakhakan hartanya pada Perbadanan. 93. Perletakhakan harta pada Perbadanan. 94. Perletakhakan harta yang terletak di Republik Singapura pada Pesuruhjaya Tanah Persekutuan. 95. Liabiliti boleh dikuatkuasakan terhadap Perbadanan atau Pesuruhjaya Tanah Persekutuan. 96. Perlantikan pegawai,dsb., Perbadanan. 97. Akta Perlindungan Pihak Berkuasa Awam 1948. 98. Penubuhan Kumpulan Wang Perbadanan Aset Keretapi. 99. Ketidaklayakan untuk diambil kerja sebagai pegawai atau pengkhidmat Perbadanan.
+
+100. Akaun teraudit, penyata, laporan, akaun dan maklumat.
+
+101. Kuasa untuk membuang kerja pegawai dan pengkhidmat dan menyelesaikan soalan tentang saraan, dsb., mereka.
+
+102. Kaedah-kaedah yang menentukan syarat-syarat per- khidmatan pegawai dan pengkhidmat.
+
+103. Perbadanan boleh melupuskan harta tak alih yang terletakhak padanya.
+
+104. Tanah-tanah awam tertentu disifatkan sebagai rizab keretapi.
 
 ## BAHAGIAN XIII
 
 ## PEMANSUHAN DAN KECUALIAN
 
-105. Pemansuhan dan kecualian. 106. Kuasa untuk membuat peruntukan-peruntukan peralihan tambahan, dsb.
+105. Pemansuhan dan kecualian.
+
+106. Kuasa untuk membuat peruntukan-peruntukan peralihan tambahan, dsb.
 
 ## JADUAL.
 
@@ -168,7 +358,9 @@ dan hendaklah terpakai bagi semua keretapi di Malaysia.
 
 <!-- page 9 -->
 
-Tafsiran. 2. Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—
+<!-- marginal: Tafsiran. -->
+
+2. Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—
 
 "barang-barang" termasuklah beg barang dan harta alih lain daripada apa-apa perihalan, dan haiwan sama ada yang hidup atau mati;
 
@@ -180,11 +372,7 @@ Tafsiran. 2. Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang la
 
 "harta" ertinya apa-apa harta alih atau tak alih, dan termasuklah—
 
-(a) apa-apa hak, kepentingan, hakmilik, tuntutan, hak dalam tindakan, kuasa, keistimewaan, sama ada pada masa sekarang atau pada niasa hadapan dan sama ada
-
-<!-- marginal: terletakhak atau -->
-
-kontingen, berhubungan dengan mana-mana harta, atau yang selainnya mempunyai nilai;
+(a) apa-apa hak, kepentingan, hakmilik, tuntutan, hak dalam tindakan, kuasa, keistimewaan, sama ada pada masa sekarang atau pada niasa hadapan dan sama ada terletakhak atau kontingen, berhubungan dengan mana-mana harta, atau yang selainnya mempunyai nilai;
 
 (b) apa-apa dokumen pemindahhakan yang disempurnakan bagi memindahhakkan, menyerahhakkan, menguntukkan, menyerah- kan, atau selainnya memindahkan atau melupuskan harta tak alih yang dipunyai atau dimiliki oleh orang yang menyempurnakan dokumen pemindahhakan itu atau yang ke
 
@@ -218,17 +406,7 @@ tetapi tidaklah termasuk—
 
 <!-- page 11 -->
 
-(f) mana-mana keretapi yang digunakan atau, dalam hal suatu keretapi yang akan dibina, yang dimaksudkan
-
-<!-- marginal: untuk -->
-
-<!-- marginal: digunakan, -->
-
-keseluruhannya atau
-
-<!-- marginal: terutamanya untuk -->
-
-membawa penumpang-penumpang dalam mana-mana premis hiburan atau rekreasi;
+(f) mana-mana keretapi yang digunakan atau, dalam hal suatu keretapi yang akan dibina, yang dimaksudkan untuk digunakan, keseluruhannya atau terutamanya untuk membawa penumpang-penumpang dalam mana-mana premis hiburan atau rekreasi;
 
 "Keretapi Tanah Melayu" ertinya pengusahaan yang dikenali sebagai Keretapi Tanah Melayu di bawah Ordinan termansuh;
 
@@ -238,11 +416,25 @@ membawa penumpang-penumpang dalam mana-mana premis hiburan atau rekreasi;
 
 "Menteri" ertinya Menteri yang sedang diper- tanggungkan dengan tanggungjawab bagi keretapi;
 
-MU "Ordinan termansuh" ertinya Ordinan Keretapi 1948; Ord. 8148.
+<!-- marginal: MU -->
+
+"Ordinan termansuh" ertinya Ordinan Keretapi 1948;
+
+<!-- marginal: Ord. 8148. -->
 
 "pegawai keretapi" ertinya mana-mana orang yang diambil kerja oleh atau bagi pihak mana-mana syarikat keretapi untuk melaksanakan apa-apa fungsi berkaitan dengan keretapi;
 
-"Pentadbir" mempunyai erti yang sama yang diberi Akta 56165. kepada "Pentadbir Tanah" oleh seksyen 5 Kanun Tanah Sabah Bab 68 Negara 1965, "Pemungut" oleh seksyen 4 Ordinan Tanah Sarawak
+"Pentadbir" mempunyai erti yang sama yang diberi
+
+<!-- marginal: Akta 56165. -->
+
+kepada "Pentadbir Tanah" oleh seksyen 5 Kanun Tanah
+
+<!-- marginal: Sabah Bab 68 -->
+
+Negara 1965, "Pemungut" oleh seksyen 4 Ordinan Tanah
+
+<!-- marginal: Sarawak -->
 
 ## Bab 81
 
@@ -250,7 +442,11 @@ Sabah atau "Pengarah" oleh seksyen 2 Kanun Tanah Sarawak, mengikut mana-mana yan
 
 "penyakit berjangkit atau menular" ertinya apa-apa penyakit yang diisytiharkan sebagai berjangkit atau menular oleh peraturan-peraturan yang dibuat di bawah seksyen 88;
 
-"Pesuruhjaya Tanah Persekutuan" ertinya Pesuruhjaya Akta 349. Tanah Persekutuan yang dilantik di bawah Akta Pesuruhjaya Tanah Persekutuan 1957;
+"Pesuruhjaya Tanah Persekutuan" ertinya Pesuruhjaya
+
+<!-- marginal: Akta 349. -->
+
+Tanah Persekutuan yang dilantik di bawah Akta Pesuruhjaya Tanah Persekutuan 1957;
 
 <!-- page 12 -->
 
@@ -282,25 +478,47 @@ berkuatkuasanya Akta ini, bagi maksud- maksud Keretapi Negeri-Negeri Melayu Bers
 
 ## BAHAGIAN
 
-<!-- marginal: II -->
+II
 
 ## KETUA PENGARAH KERETAPI
 
-Perlantikan 3. (1) Menteri hendaklah, dari semasa ke semasa, Ketua melalui pemberitahuan dalam Warta, melantik seorang Pengarah. pegawai awam menjadi Ketua Pengarah Keretapi bagi maksud menjalankan tugas-tugas dan fungsi-fungsi yang dipertugaskan kepadanya di bawah Akta ini.
+<!-- marginal: Perlantikan -->
+
+3. (1) Menteri hendaklah, dari semasa ke semasa,
+
+<!-- marginal: Ketua -->
+
+melalui pemberitahuan dalam Warta, melantik seorang
+
+<!-- marginal: Pengarah. -->
+
+pegawai awam menjadi Ketua Pengarah Keretapi bagi maksud menjalankan tugas-tugas dan fungsi-fungsi yang dipertugaskan kepadanya di bawah Akta ini.
 
 (2) Ketua Pengarah hendaklah memegang jawatan selama apa-apa tempoh dan tertakluk kepada apa-apa syarat sebagaimana yang ditetapkan oleh Menteri selepas berunding dengan Suruhanjaya Perkhidmatan Awam.
 
 (3) Ketua Pengarah hendaklah mempunyai suatu meterai rasmi bagi pengesahan dokumen-dokumen yang dikehendaki bagi maksud tugas-tugas dan fungsi- fungsinya di bawah Akta ini.
 
-Tugas-tugas 4. (1) Tugas-tugas dan fungsi-fungsi Ketua Pengarah dan fungsi- adalah seperti berikut: fungsi Ketua
+<!-- marginal: Tugas-tugas -->
 
-(a) untuk mengawalselia kendalian keretapi dan Pengarah. perkhidmatan keretapi;
+4. (1) Tugas-tugas dan fungsi-fungsi Ketua Pengarah
+
+<!-- marginal: dan fungsi- -->
+
+adalah seperti berikut:
+
+<!-- marginal: fungsi -->
+
+<!-- marginal: Ketua -->
+
+(a) untuk mengawalselia kendalian keretapi dan
+
+<!-- marginal: Pengarah. -->
+
+perkhidmatan keretapi;
 
 (b) untuk menetapkan piawai keselamatan minimum bagi kendalian keretapi;
 
-(c) untuk mengadakan
-
-<!-- marginal: peruntukan -->
+(c) untuk mengadakan peruntukan
 
 <!-- marginal: bagi -->
 
@@ -340,7 +558,23 @@ tertakluk kepada apa-apa syarat, batasan atau sekatan sebagaimana yang difikirka
 
 <!-- page 15 -->
 
-Kuasa 6. Menteri boleh, dari semasa ke semasa, memberi Menteri Ketua Pengarah arahan-arahan yang tidak tak konsisten untuk memben dengan peruntukan-peruntukan Akta ini dan Ketua arahan. Pengarah hendaklah melaksanakan semua arahan sedemikian.
+<!-- marginal: Kuasa -->
+
+6. Menteri boleh, dari semasa ke semasa, memberi
+
+<!-- marginal: Menteri -->
+
+Ketua Pengarah arahan-arahan yang tidak tak konsisten
+
+<!-- marginal: untuk -->
+
+<!-- marginal: memben -->
+
+dengan peruntukan-peruntukan Akta ini dan Ketua
+
+<!-- marginal: arahan. -->
+
+Pengarah hendaklah melaksanakan semua arahan sedemikian.
 
 ## BAHAGIAN
 
@@ -348,7 +582,13 @@ III
 
 ## SKIM KERETAPI
 
-Skim 7. (1) Tiada keretapi boleh dibina dalam Malaysia tanpa keretapi. kelulusan Menteri.
+<!-- marginal: Skim -->
+
+7. (1) Tiada keretapi boleh dibina dalam Malaysia tanpa
+
+<!-- marginal: keretapi. -->
+
+kelulusan Menteri.
 
 (2) Mana-mana orang yang berniat untuk membina suatu keretapi dalam Malaysia hendaklah membuat permohonan kepada dan mendepositkan dengan Menteri suatu skim keretapi yang hendaklah mengandungi maklumat yang berikut:
 
@@ -410,11 +650,7 @@ bersyarat kepada sesuatu skim keretapi.
 
 (a) memberi kelulusan muktamad kepada atau menolak skim keretapi itu; atau
 
-(b) jika dia berpendapat bahawa pelan-pelan dan keratan-keratan itu patut dipinda, mengarahkan pemohon untuk menimbang semula pelan- pelan dan keratan-keratan itu dan melapor kepadanya dalam apa-apa
-
-<!-- marginal: tempoh yang -->
-
-dikehendakinya.
+(b) jika dia berpendapat bahawa pelan-pelan dan keratan-keratan itu patut dipinda, mengarahkan pemohon untuk menimbang semula pelan- pelan dan keratan-keratan itu dan melapor kepadanya dalam apa-apa tempoh yang dikehendakinya.
 
 <!-- page 18 -->
 
@@ -482,21 +718,35 @@ di bawah subseksyen 8 (2) hendaklah disifatkan sebagai tanah yang dikehendaki ba
 
 <!-- page 19 -->
 
-(3) Tiada apa-apa jua dalam seksyen ini boleh menghalang pengambilan tanah-tanah bagi maksud pembinaan suatu keretapi melalui perjanjian antara syarikat keretapi dan tuan punya
-
-<!-- marginal: tanah-tanah -->
-
-sedemikian.
+(3) Tiada apa-apa jua dalam seksyen ini boleh menghalang pengambilan tanah-tanah bagi maksud pembinaan suatu keretapi melalui perjanjian antara syarikat keretapi dan tuan punya tanah-tanah sedemikian.
 
 ## BAHAGIAN
 
-<!-- marginal: IV -->
+IV
 
 ## PEMBINAAN DAN KERJA-KERJA
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-11. (1) Tertakluk kepada Akta ini, bilamasa perlu untuk syarikat berbuat demikian, syarikat keretapi boleh, bagi maksud keretapi untuk me- membina keretapi atau kemudahan atau kerja-kerja lain laksanakan yang berkaitan dengannya— segaia kerja yang perlu.
+11. (1) Tertakluk kepada Akta ini, bilamasa perlu untuk
+
+<!-- marginal: syarikat -->
+
+berbuat demikian, syarikat keretapi boleh, bagi maksud
+
+<!-- marginal: keretapi -->
+
+<!-- marginal: untuk me- -->
+
+membina keretapi atau kemudahan atau kerja-kerja lain
+
+<!-- marginal: laksanakan -->
+
+yang berkaitan dengannya—
+
+<!-- marginal: segaia kerja -->
+
+<!-- marginal: yang perlu. -->
 
 (a) membuat atau membina di, pada, merintangi, di bawah atau di atas mana-mana tanah atau sungai, apa-apa kerja atau struktur sementara, termasuklah jalan, jambatan, rel, jalan lalu, konduit dan parit, sebagaimana yang difikirkan patut oleh syarikat keretapi itu; dan
 
@@ -544,7 +794,13 @@ seksyen 11 dan 12, syarikat keretapi hendaklah melakukan seberapa sedikit kerosa
 
 (4) Tiada apa-apa jua dalam seksyen ini boleh menahan penyelesaian melalui perjanjian akan arnaun pampasan yang kena dibayar berkenaan dengan tanah- tanah yang rosak atau yang terjejas dengan mudaratnya oleh penjalanan kuasa-kuasa yang diberikan oleh seksyen ini.
 
-Kerja-kerja 14. (1) Tiap-tiap syarikat keretapi hendaklah, tertakluk kemudahan. kepada subseksyen (3) dan (4), membina dan menyenggarakan bagi kemudahan tuan-tuan punya dan penduduk-penduduk tanah yang berdampingan dengan mana-mana keretapi—
+<!-- marginal: Kerja-kerja -->
+
+14. (1) Tiap-tiap syarikat keretapi hendaklah, tertakluk
+
+<!-- marginal: kemudahan. -->
+
+kepada subseksyen (3) dan (4), membina dan menyenggarakan bagi kemudahan tuan-tuan punya dan penduduk-penduduk tanah yang berdampingan dengan mana-mana keretapi—
 
 (a) apa-apa dan sekian banyak lintasan, jambatan, gerbang, pembetung dan lorong lalu yang sesuai di atas, di bawah atau di sisi atau menuju ke atau dari keretapi itu, yang pada pendapat Ketua Pengarah adalah perlu bagi maksud mengatasi apa-apa gangguan pada penggunaan tanah yang disebabkan oleh pembinaan suatu keretapi;
 
@@ -580,7 +836,19 @@ tuan punya, penduduk, jabatan Kerajaan atau pihak berkuasa tempatan itu boleh, a
 
 dipersetujui oleh syarikat keretapi itu atau, dalam hal perselisihan pendapat di antara tuan punya, penduduk, jabatan Kerajaan atau pihak berkuasa tempatan itu dengan syarikat keretapi, apa-apa kerja kemudahan selanjutnya sebagaimana dibenarkan oleh Ketua Pengarah.
 
-Pagar, 16. (1) Ketua Pengarah boleh, dalam masa yang akan adangan, dinyatakan dalam perekuisisian atau dalam apa-apa masa get dan palang. lanjut yang ditetapkan olehnya, menghendaki syarikat keretapi—
+<!-- marginal: Pagar, -->
+
+16. (1) Ketua Pengarah boleh, dalam masa yang akan
+
+<!-- marginal: adangan, -->
+
+dinyatakan dalam perekuisisian atau dalam apa-apa masa
+
+<!-- marginal: get dan -->
+
+<!-- marginal: palang. -->
+
+lanjut yang ditetapkan olehnya, menghendaki syarikat keretapi—
 
 (a) menyediakan atau memperbaharui, mengikut mana-mana yang berkenaan, pagar-pagar atau tanda-tanda sempadan untuk keretapinya dan mana-mana jalan yang dibina berkaitan dengannya; atau
 
@@ -622,7 +890,13 @@ pemandu tiap-tiap enjin atau kenderaan bergerak lain hendaklah membunyikan wisel
 
 (5) Jika sesuatu jabatan Kerajaan, pihak berkuasa tempatan atau mana-mana orang lain membina jalan awam merintangi landasan keretapi yang sedia ada, maka jabatan Kerajaan, pihak berkuasa tempatan atau mana-mana orang lain yang dipertanggungkan dengan tanggungjawab bagi penyenggaraan jalan sedemikian hendaklah bertanggungan membayar kepada syarikat keretapi itu kos pembinaan apa-apa get atau sawar yang didirikan oleh syarikat itu di tempat di mana jalan itu melintasi landasan keretapi itu dan sewa tahunan bagi penyenggaraannya.
 
-Lintasan 19. (1) Sesuatu syarikat keretapi boleh, menurut budi rata suwa. bicaranya, atas permintaan yang dibuat oleh mana-mana orang, membina dan membuka lintasan-lintasan rata suwa di mana-mana tempat di atas landasan keretapi, dan boleh mengenakan syarat-syarat berkenaan dengan penggunaannya.
+<!-- marginal: Lintasan -->
+
+19. (1) Sesuatu syarikat keretapi boleh, menurut budi
+
+<!-- marginal: rata suwa. -->
+
+bicaranya, atas permintaan yang dibuat oleh mana-mana orang, membina dan membuka lintasan-lintasan rata suwa di mana-mana tempat di atas landasan keretapi, dan boleh mengenakan syarat-syarat berkenaan dengan penggunaannya.
 
 (2) Kos pembinaan suatu lintasan rata suwa dan sewa tahunan bagi penyenggaraannya hendaklah dibayar oleh orang yang baginya lintasan itu telah dibina.
 
@@ -648,15 +922,43 @@ melalui pemberitahuan dalam Warta, mengisytiharkan mana-mana jalan atau jalan ke
 
 <!-- page 27 -->
 
-Pembuangan 21. (1) Jika Ketua Pengarah berpendapat bahawa pada pokok-pokok bila-bila masa terdapat bahaya atau bahaya yang disyaki yang mer- bahaya kepada bahawa mana-mana pokok (yang istilahnya dalam atau yang seksyen ini termasuk tumbuh-tumbuhan yang kecil dan menghalang pengerjaan rendah) yang terdapat di atas tanah selain daripada tanah sesuatu keretapi mungkin terjatuh ke atas sesuatu keretapi, atau keretapi. di atas laluan mana-mana telegraf, telefon, isyarat, lampu elektrik atau wayar kuasa elektrik yang pengerjaannya dikawal keseluruhannya atau se- bahagiannya oleh suatu syarikat keretapi atau mungkin menghalang, mengganggu, atau menyebabkan kerosakan kepada pembinaan atau pengerjaan sepatutnya sesuatu keretapi atau mana-mana telegraf, telefon, isyarat, lampu elektrik atau wayar kuasa elektrik itu atau kepada mana- mana tiang, struktur atau kelekapan
+<!-- marginal: Pembuangan -->
 
-<!-- marginal: lain yang -->
+21. (1) Jika Ketua Pengarah berpendapat bahawa pada
 
-menopangkannya atau yang bersangkutan dengannya, maka syarikat keretapi boleh menyebabkan pokok itu ditebang atau diperlakukan mengikut apa-apa cara lain, yang pada pendapat Ketua Pengarah, akan meng- hindarkan bahaya itu atau menghapuskan halangan itu, mengikut mana-mana yang berkenaan.
+<!-- marginal: pokok-pokok -->
+
+bila-bila masa terdapat bahaya atau bahaya yang disyaki
+
+<!-- marginal: yang mer- -->
+
+<!-- marginal: bahaya kepada -->
+
+bahawa mana-mana pokok (yang istilahnya dalam
+
+<!-- marginal: atau yang -->
+
+seksyen ini termasuk tumbuh-tumbuhan yang kecil dan
+
+<!-- marginal: menghalang -->
+
+<!-- marginal: pengerjaan -->
+
+rendah) yang terdapat di atas tanah selain daripada tanah
+
+<!-- marginal: sesuatu -->
+
+keretapi mungkin terjatuh ke atas sesuatu keretapi, atau
+
+<!-- marginal: keretapi. -->
+
+di atas laluan mana-mana telegraf, telefon, isyarat, lampu elektrik atau wayar kuasa elektrik yang pengerjaannya dikawal keseluruhannya atau se- bahagiannya oleh suatu syarikat keretapi atau mungkin menghalang, mengganggu, atau menyebabkan kerosakan kepada pembinaan atau pengerjaan sepatutnya sesuatu keretapi atau mana-mana telegraf, telefon, isyarat, lampu elektrik atau wayar kuasa elektrik itu atau kepada mana- mana tiang, struktur atau kelekapan lain yang menopangkannya atau yang bersangkutan dengannya, maka syarikat keretapi boleh menyebabkan pokok itu ditebang atau diperlakukan mengikut apa-apa cara lain, yang pada pendapat Ketua Pengarah, akan meng- hindarkan bahaya itu atau menghapuskan halangan itu, mengikut mana-mana yang berkenaan.
 
 (2) Jika sesuatu pokok menghalang atau mengganggu mana-mana isyarat terpasang, syarikat keretapi boleh menyebabkan pokok itu ditebang atau diperlakukan mengikut apa-apa cara lain yang akan menghapuskan halangan atau gangguan itu, mengikut mana-mana yang berkenaan.
 
-(3) Apabila pokok yang disebutkan dalam subseksyen (1) dan (2) telah wujud sebelum keretapi itu dibina, atau sebelum telegraf, telefon, isyarat, lampu elektrik atau wayar kuasa elektrik itu dibentangkan, atau sebelum tiang, struktur atau kelekapan itu didirikan atau dipasang, atau sebelum isyarat itu dipasang, pampasan mencukupi hendaklah dibayar oleh syarikat keretapi itu kepada tuan punya atau penduduk tanah di mana pokok itu terletak.
+(3) Apabila pokok yang disebutkan dalam subseksyen
+
+(1) dan (2) telah wujud sebelum keretapi itu dibina, atau sebelum telegraf, telefon, isyarat, lampu elektrik atau wayar kuasa elektrik itu dibentangkan, atau sebelum tiang, struktur atau kelekapan itu didirikan atau dipasang, atau sebelum isyarat itu dipasang, pampasan mencukupi hendaklah dibayar oleh syarikat keretapi itu kepada tuan punya atau penduduk tanah di mana pokok itu terletak.
 
 <!-- page 28 -->
 
@@ -734,7 +1036,9 @@ suatu lesen yang dikeluarkan oleh Menteri di bawah seksyen ini.
 
 <!-- page 29 -->
 
-(4) Walau apa pun peruntukan subseksyen (3), jika suatu skim keretapi telah diluluskan oleh Menteri di bawah subseksyen 8 (7), syarikat keretapi yang mengemukakan skim keretapi itu hendaklah, tertakluk kepada apa-apa syarat atau kehendak yang dikenakan oleh Menteri atas kelulusan itu, disifatkan sebagai seorang pemohon yang berkelayakan dan sesuai bagi maksud mengendalikan keretapi yang diluluskan di bawah skim keretapi itu dan Menteri hendaklah, atas permohonan syarikat keretapi itu di bawah subseksyen (2), meluluskan permohonan itu dan mengeluarkan suatu lesen kepada syarikat keretapi itu atas pembayaran apa- apa fee sebagaimana yang difikirkannya patut.
+(4) Walau apa pun peruntukan subseksyen (3), jika suatu skim keretapi telah diluluskan oleh Menteri di bawah subseksyen 8 (7), syarikat keretapi yang mengemukakan skim keretapi itu hendaklah, tertakluk kepada apa-apa syarat atau kehendak yang dikenakan oleh Menteri atas kelulusan itu, disifatkan sebagai seorang pemohon yang berkelayakan dan sesuai bagi maksud mengendalikan keretapi yang diluluskan di bawah skim keretapi itu dan Menteri hendaklah, atas permohonan syarikat keretapi itu di bawah subseksyen
+
+(2), meluluskan permohonan itu dan mengeluarkan suatu lesen kepada syarikat keretapi itu atas pembayaran apa- apa fee sebagaimana yang difikirkannya patut.
 
 (5) Tiap-tiap lesen yang dikeluarkan di bawah subseksyen (3) atau (4) hendaklah menyatakan jangkamasa lesen itu dan hendaklah selanjutnya menetapkan—
 
@@ -810,29 +1114,93 @@ pembukaan suatu keretapi hanya setelah dia menerima suatu laporan bertulis darip
 
 <!-- page 31 -->
 
-Pemeriksaan.
+<!-- marginal: Pemeriksaan. -->
 
 26. Selepas sesuatu keretapi telah dibuka, keretapi itu hendaklah diperiksa oleh seorang jurutera, yang hendaklah dilantik oleh Ketua Pengarah, mengikut apa- apa cara dan pada apa-apa lat tempoh sebagaimana yang ditetapkan oleh mana-mana peraturan yang dibuat di bawah Akta ini.
 
-Kuasa 27. (1) Jika selepas pemeriksaan sesuatu keretapi untuk jurutera berpendapat bahawa penggunaan keretapi itu menutup keretapi akan menyebabkan bahaya kepada orang awam atau apabila kerosakan kepada barang-barang yang dibawa di telah atasnya, dia hendaklah memberitahu Ketua Pengarah dibuka. mengenai pendapatnya itu berserta dengan alasan-alasan baginya.
+<!-- marginal: Kuasa -->
+
+27. (1) Jika selepas pemeriksaan sesuatu keretapi
+
+<!-- marginal: untuk -->
+
+jurutera berpendapat bahawa penggunaan keretapi itu
+
+<!-- marginal: menutup -->
+
+<!-- marginal: keretapi -->
+
+akan menyebabkan bahaya kepada orang awam atau
+
+<!-- marginal: apabila -->
+
+kerosakan kepada barang-barang yang dibawa di
+
+<!-- marginal: telah -->
+
+atasnya, dia hendaklah memberitahu Ketua Pengarah
+
+<!-- marginal: dibuka. -->
+
+mengenai pendapatnya itu berserta dengan alasan-alasan baginya.
 
 (2) Ketua Pengarah boleh sesudah itu memerintahkan keretapi itu ditutup, atau dalam hal sesuatu stokereta, memerintahkan supaya penggunaan stokereta itu diberhentikan atau supaya keretapi itu digunakan hanya atas apa-apa syarat sebagaimana yang didapati perlu oleh Ketua Pengarah bagi keselamatan orang awam atau barang-barang yang dibawa di atasnya.
 
-Pembukaan 28. (1) Sesuatu keretapi yang
+<!-- marginal: Pembukaan -->
 
-<!-- marginal: telah diperintahkan -->
+28. (1) Sesuatu keretapi yang telah diperintahkan
 
-semula supaya ditutup tidak boleh dibuka sehinggalah ia telah keretapi selepas diperiksa oleh seorang jurutera yang dilantik oleh Ketua penutupan. Pengarah dan pembukaan semulanya telah diluluskan oleh Menteri.
+<!-- marginal: semula -->
+
+supaya ditutup tidak boleh dibuka sehinggalah ia telah
+
+<!-- marginal: keretapi -->
+
+<!-- marginal: selepas -->
+
+diperiksa oleh seorang jurutera yang dilantik oleh Ketua
+
+<!-- marginal: penutupan. -->
+
+Pengarah dan pembukaan semulanya telah diluluskan oleh Menteri.
 
 (2) Stokereta yang telah diperintahkan supaya diberhentikan penggunaannya di bawah seksyen 27 tidak boleh digunakan sehinggalah ia telah diperakukan sebagai sesuai untuk digunakan oleh seorang jurutera yang dilantik oleh Ketua Pengarah selepas pemeriksaan dan Ketua Pengarah telah meluluskan penggunaannya.
 
-Pembukaan 29. Apabila suatu kemalangan telah berlaku, yang semula mengakibatkan penggantungan sementara trafik, dan landasan selepas landasan dan kerja-kerja asal telah dipulihkan dengan penggari- cepat kepada standard asalnya atau suatu pelencongan tungan sementara telah dibentangkan bagi maksud memulihkan sementara. perhubungan, maka landasan dan kerja-kerja asal yang
+<!-- marginal: Pembukaan -->
+
+29. Apabila suatu kemalangan telah berlaku, yang
+
+<!-- marginal: semula -->
+
+mengakibatkan penggantungan sementara trafik, dan
+
+<!-- marginal: landasan -->
+
+<!-- marginal: selepas -->
+
+landasan dan kerja-kerja asal telah dipulihkan dengan
+
+<!-- marginal: penggari- -->
+
+cepat kepada standard asalnya atau suatu pelencongan
+
+<!-- marginal: tungan -->
+
+sementara telah dibentangkan bagi maksud memulihkan
+
+<!-- marginal: sementara. -->
+
+perhubungan, maka landasan dan kerja-kerja asal yang
 
 <!-- page 32 -->
 
 dipulihkan sedemikian boleh dibuka semula atau pelencongan sementara itu dibuka, mengikut mana-mana yang berkenaan, tertakluk kepada syarat-syarat yang berikut:
 
-(a) bahawa pegawai keretapi yang menjaga kerja- kerja yang diusahakan disebabkan oleh kemalangan itu telah memperakui secara bertulis bahawa pembukaan semula landasan dan kerja-kerja yang dipulihkan itu atau pembukaan pelencongan sementara itu tidak akan, pada pendapatnya, menyebabkan apa-apa bahaya kepada orang awam atau apa-apa kerosakan kepada barang-barang yang dibawa di atasnya; dan
+(a) bahawa pegawai keretapi yang menjaga kerja- kerja yang diusahakan disebabkan oleh kemalangan itu telah memperakui secara bertulis bahawa pembukaan semula landasan dan kerja-kerja yang dipulihkan
+
+<!-- marginal: itu atau -->
+
+pembukaan pelencongan sementara itu tidak akan, pada pendapatnya, menyebabkan apa-apa bahaya kepada orang awam atau apa-apa kerosakan kepada barang-barang yang dibawa di atasnya; dan
 
 (b) bahawa notis bertulis mengenai pembukaan semula landasan dan kerja-kerja itu atau pembukaan pelencongan itu hendaklah telah dihantar kepada Ketua Pengarah.
 
@@ -880,7 +1248,13 @@ keretapi—
 
 (b) untuk memajukan dan menyenggarakan suatu sistem keretapi yang cekap.
 
-Standard 32. (1) Ketua Pengarah boleh, dengan kelulusan prestasi. Menteri, melalui peraturan-peraturan, menetapkan apa- apa standard prestasi berkaitan dengan penyediaan perkhidmatan-perkhidmatan dan kemudahan-kemudahan keretapi yang, pada pendapatnya, patut dicapai oleh sesuatu syarikat keretapi.
+<!-- marginal: Standard -->
+
+32. (1) Ketua Pengarah boleh, dengan kelulusan
+
+<!-- marginal: prestasi. -->
+
+Menteri, melalui peraturan-peraturan, menetapkan apa- apa standard prestasi berkaitan dengan penyediaan perkhidmatan-perkhidmatan dan kemudahan-kemudahan keretapi yang, pada pendapatnya, patut dicapai oleh sesuatu syarikat keretapi.
 
 (2) Tanpa menjejaskan keluasan subseksyen (1), peraturan-peraturan yang dibuat di bawah subseksyen itu boleh—
 
@@ -888,7 +1262,17 @@ Standard 32. (1) Ketua Pengarah boleh, dengan kelulusan prestasi. Menteri, melal
 
 (b) menetapkan hal-hal keadaan di mana sesuatu syarikat keretapi boleh dikecualikan daripada kehendak-kehendak peraturan-peraturan itu.
 
-Pengemukaan 33. (1) Dalam masa tiga bulan selepas berakhirnya laporan, setiap tahun kewangan sesuatu syarikat keretapi atau akaun, dsb. apa-apa tempoh yang lebih lama sebagaimana yang dibenarkan oleh Ketua Pengarah, pengarah-pengarah syarikat keretapi itu hendaklah menghantarserah kepada Ketua Pengarah—
+<!-- marginal: Pengemukaan -->
+
+33. (1) Dalam masa tiga bulan selepas berakhirnya
+
+<!-- marginal: laporan, -->
+
+setiap tahun kewangan sesuatu syarikat keretapi atau
+
+<!-- marginal: akaun, dsb. -->
+
+apa-apa tempoh yang lebih lama sebagaimana yang dibenarkan oleh Ketua Pengarah, pengarah-pengarah syarikat keretapi itu hendaklah menghantarserah kepada Ketua Pengarah—
 
 (a) suatu laporan mengenai kendalian syarikat keretapi itu dalam tahun kewangan itu yang mengandungi apa-apa maklumat sebagaimana yang perlu untuk membolehkan Ketua Pengarah mentaksirkan syarikat keretapi itu; dan
 
@@ -960,23 +1344,11 @@ keretapi itu;
 
 <!-- page 35 -->
 
-(b) apa-apa pertikaian perindustrian di antara syarikat keretapi
-
-<!-- marginal: itu dengan pekerja- -->
-
-pekerjanya;
+(b) apa-apa pertikaian perindustrian di antara syarikat keretapi itu dengan pekerja- pekerjanya;
 
 (c) apa-apa kejadian kebakaran dalam premisnya;
 
-(d) apa-apa presiding atau
-
-<!-- marginal: tuntutan yang -->
-
-dimulakan atau yang dibuat terhadap syarikat keretapi itu yang mungkin mempunyai kesan yang memudaratkan ke
-
-<!-- marginal: atas keadaan -->
-
-kewangannya atau ke atas keupayaannya untuk melaksanakan apa-apa syarat di bawah lesen.
+(d) apa-apa presiding atau tuntutan yang dimulakan atau yang dibuat terhadap syarikat keretapi itu yang mungkin mempunyai kesan yang memudaratkan ke atas keadaan kewangannya atau ke atas keupayaannya untuk melaksanakan apa-apa syarat di bawah lesen.
 
 (2) Bagi maksud-maksud perenggan
 
@@ -992,9 +1364,61 @@ ungkapan "kawalan", berhubungan dengan sesuatu syarikat keretapi, ertinya mempun
 
 ## Jadual
 
-37. Tiap-tiap syarikat keretapi hendaklah menyimpan, waktu dan di tiap-tiap stesen keretapi, suatu salinan jadual waktu senarai tambang yang sedang berkuatkuasa atas keretapi itu dan suatu hendaklah senarai tambang am yang dikenakan bagi perjalanan dari ditampalkan di stesen- stesen di mana senarai itu ditampal ke tiap-tiap tempat stesen. yang baginya tiket-tiket biasanya dikeluarkan kepada penumpang-penumpang di stesen itu, dan hendaklah membenarkan semua orang memeriksanya dengan percuma pada setiap waktu yang munasabah.
+37. Tiap-tiap syarikat keretapi hendaklah menyimpan,
 
-Tambang- 38. (1) Tiada seorang pun boleh membuat perjalanan tambang dengan keretapi tanpa terlebih dahulu membayar hendaklah dibayar tambangnya dan mendapatkan suatu tiket. terlebih dahulu dan tiket-tiket penumpang hendaklah diserahkan apabila diminta.
+<!-- marginal: waktu dan -->
+
+di tiap-tiap stesen keretapi, suatu salinan jadual waktu
+
+<!-- marginal: senarai -->
+
+<!-- marginal: tambang -->
+
+yang sedang berkuatkuasa atas keretapi itu dan suatu
+
+<!-- marginal: hendaklah -->
+
+senarai tambang am yang dikenakan bagi perjalanan dari
+
+<!-- marginal: ditampalkan -->
+
+<!-- marginal: di stesen- -->
+
+stesen di mana senarai itu ditampal ke tiap-tiap tempat
+
+<!-- marginal: stesen. -->
+
+yang baginya tiket-tiket biasanya dikeluarkan kepada penumpang-penumpang di stesen itu, dan hendaklah membenarkan semua orang memeriksanya dengan percuma pada setiap waktu yang munasabah.
+
+<!-- marginal: Tambang- -->
+
+38. (1) Tiada seorang pun boleh membuat perjalanan
+
+<!-- marginal: tambang -->
+
+dengan keretapi tanpa terlebih dahulu membayar
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: dibayar -->
+
+tambangnya dan mendapatkan suatu tiket.
+
+<!-- marginal: terlebih -->
+
+<!-- marginal: dahulu dan -->
+
+<!-- marginal: tiket-tiket -->
+
+<!-- marginal: penumpang -->
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: diserahkan -->
+
+<!-- marginal: apabila -->
+
+<!-- marginal: diminta. -->
 
 <!-- page 36 -->
 
@@ -1094,11 +1518,7 @@ bertulis yang ditandatangani oleh pemunya atau orang itu, atau oleh konsaini itu
 
 (2) Jika pemunya, orang, atau konsaini itu enggan atau abai memberikan suatu akuan sedemikian atau enggan membuka bungkusan yang mengandungi barang- barang itu supaya perihalannya boleh ditentukan, syarikat keretapi itu boleh—
 
-(a) berkenaan dengan barang-barang yang telah dibawa bagi maksud pengangkutan, enggan membawa barang-barang itu melainkan jika suatu kadar dibayar berkenaan dengannya yang tidak melebihi kadar
-
-<!-- marginal: tertinggi yang -->
-
-berkuatkuasa pada masa itu di atas keretapi bagi apa-apa kelas barang; atau
+(a) berkenaan dengan barang-barang yang telah dibawa bagi maksud pengangkutan, enggan membawa barang-barang itu melainkan jika suatu kadar dibayar berkenaan dengannya yang tidak melebihi kadar tertinggi yang berkuatkuasa pada masa itu di atas keretapi bagi apa-apa kelas barang; atau
 
 (b) berkenaan dengan barang-barang yang telah diangkut, mengenakan suatu kadar yang tidak melebihi kadar tertinggi itu.
 
@@ -1130,27 +1550,51 @@ sesuatu syarikat keretapi mengangkut atau memegang apa-apa barang merbahaya atau
 
 (2) Tiada apa-apa jua dalam seksyen ini atau dalam mana-mana peraturan yang dibuat di bawah Akta ini boleh ditafsirkan sebagai mengurangkan kuasa mana- mana undang-undang bertulis yang berkuatkuasa berhubungan dengan pemilikan atau pengangkutan barang-barang merbahaya atau memudaratkan.
 
-Kemudahan
+<!-- marginal: Kemudahan -->
 
-43. Tiap-tiap syarikat keretapi hendaklah mengadakan trafik. segala kemudahan munasabah bagi menerima, menghantar, dan menghantarserah trafik di atas keretapi.
+43. Tiap-tiap syarikat keretapi hendaklah mengadakan
 
-Syarikat
+<!-- marginal: trafik. -->
 
-44. Walau apa pun apa-apa undang-undang bertulis keretapi yang lain, suatu syarikat keretapi tidak boleh disifatkan bukan suatu peagangkut sebagai suatu pengangkut am atau tertakluk kepada am. mana-mana undang-undang yang berhubungan dengan pengangkut-pengangkut am.
+segala kemudahan munasabah bagi menerima, menghantar, dan menghantarserah trafik di atas keretapi.
+
+<!-- marginal: Syarikat -->
+
+44. Walau apa pun apa-apa undang-undang bertulis
+
+<!-- marginal: keretapi -->
+
+yang lain, suatu syarikat keretapi tidak boleh disifatkan
+
+<!-- marginal: bukan suatu -->
+
+<!-- marginal: peagangkut -->
+
+sebagai suatu pengangkut am atau tertakluk kepada
+
+<!-- marginal: am. -->
+
+mana-mana undang-undang yang berhubungan dengan pengangkut-pengangkut am.
 
 ## BAHAGIAN VIII
 
 ## KEMALANGAN
 
-Notis
+<!-- marginal: Notis -->
 
-45. (1) Bilamasa suatu kemalangan berlaku di atas mengenai suatu keretapi— kemalangan hendaklah diberi.
+45. (1) Bilamasa suatu kemalangan berlaku di atas
 
-(a) pegawai keretapi yang menjaga stesen yang paling hampir dengan
+<!-- marginal: mengenai -->
 
-<!-- marginal: tempat di mana -->
+suatu keretapi—
 
-kemalangan itu berlaku hendaklah, tanpa kelengahan yang tak perlu tetapi dalam apa- apa hal tidak lewat daripada dua puluh empat jam selepas kemalangan itu berlaku, memberi notis mengenai kemalangan itu secara bertulis atau melalui apa-apa bentuk telekomunikasi kepada pegawai yang menjaga balai polis yang paling hampir; dan
+<!-- marginal: kemalangan -->
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: diberi. -->
+
+(a) pegawai keretapi yang menjaga stesen yang paling hampir dengan tempat di mana kemalangan itu berlaku hendaklah, tanpa kelengahan yang tak perlu tetapi dalam apa- apa hal tidak lewat daripada dua puluh empat jam selepas kemalangan itu berlaku, memberi notis mengenai kemalangan itu secara bertulis atau melalui apa-apa bentuk telekomunikasi kepada pegawai yang menjaga balai polis yang paling hampir; dan
 
 (b) syarikat keretapi hendaklah, tanpa kelengahan yang tak perlu tetapi dalam apa-apa hal tidak lewat daripada dua puluh empat jam selepas kemalangan itu berlaku, menghantar notis bertulis mengenai kemalangan itu kepada Ketua Pengarah.
 
@@ -1180,9 +1624,7 @@ pernyataan ringkas mengenai jenis kemalangan itu dan mengenai takat kecederaan a
 
 (b) menunjukkan apa-apa perbuatan tak hormat atau apa-apa penghinaan atau ancaman kepada jawatankuasa itu atau mana-mana anggotanya semasa sesuatu siasatan; atau
 
-(c) setelah dikehendaki oleh jawatankuasa itu supaya memberi keterangan atas sumpah atau supaya mengemukakan suatu dokumen atau benda lain, enggan berbuat demikian atau memberikan keterangan
-
-<!-- marginal: palsu -->
+(c) setelah dikehendaki oleh jawatankuasa itu supaya memberi keterangan atas sumpah atau supaya mengemukakan suatu dokumen atau benda lain, enggan berbuat demikian atau memberikan keterangan palsu
 
 <!-- marginal: atau -->
 
@@ -1192,7 +1634,21 @@ adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak mele
 
 (6) Jawatankuasa penyiasatan itu hendaklah, apabila selesainya siasatan itu, mengemukakan laporannya kepada Ketua Pengarah dan laporan itu hendaklah menyatakan pendapat jawatankuasa itu tentang sebab kemalangan itu dan butir-butir lengkap kes itu.
 
-Menteri 47. (1) Menteri boleh memerintahkan supaya suatu boleh meme- siasatan ke atas sebab apa-apa kemalangan di atas rintahkan keretapi dibuat oleh mana-mana orang yang ditetapkan siasatan. dalam perintah itu.
+<!-- marginal: Menteri -->
+
+47. (1) Menteri boleh memerintahkan supaya suatu
+
+<!-- marginal: boleh meme- -->
+
+siasatan ke atas sebab apa-apa kemalangan di atas
+
+<!-- marginal: rintahkan -->
+
+keretapi dibuat oleh mana-mana orang yang ditetapkan
+
+<!-- marginal: siasatan. -->
+
+dalam perintah itu.
 
 (2) Mana-mana orang yang dilantik sedemikian hendaklah mempunyai dan boleh menjalankan, bagi maksud-maksud siasatan itu, segala kuasa statutori dan kuasa-kuasa lain sebagaimana yang sedang terletakhak pada dan boleh dijalankan oleh seorang majistret bagi memanggil dan menguatkuasakan kehadiran saksi, bagi mentadbirkan sumpah atau ikrar kepada saksi itu dan bagi memaksa saksi itu menjawab semua soalan yang munasabah dan berpatutan berhubungan dengan perkara- perkara yang menjadi subjek siasatan itu.
 
@@ -1240,7 +1696,11 @@ hendaklah terkandung dalam notis-notis itu;
 
 <!-- marginal: dsb. -->
 
-(b) kelas kemalangan yang berkenaan dengannya notis hendaklah dihantar melalui apa-apa bentuk telekomunikasi selepas sahaja kemalangan itu berlaku;
+(b) kelas kemalangan yang berkenaan dengannya notis hendaklah dihantar melalui apa-apa bentuk telekomunikasi selepas
+
+<!-- marginal: sahaja -->
+
+kemalangan itu berlaku;
 
 (c) tugas-tugas pegawai keretapi atau pegawai polis apabila berlakunya sesuatu kemalangan; dan
 
@@ -1262,25 +1722,85 @@ kemalangan-kemalangan yang berlaku di atas keretapinya, sama ada yang melibatkan
 
 <!-- page 45 -->
 
-Penalti 51. (1) Mana-mana syarikat keretapi yang gagal kerana memberi notis mengenai kemalangan sebagaimana yang kegagalan dikehendaki oleh seksyen 45 hendaklah membayar mematuhi seksyen 45. kepada Kerajaan suatu jumlah wang sebanyak satu ratus ringgit bagi tiap-tiap hari selama keingkaran itu berterusan.
+<!-- marginal: Penalti -->
 
-(2) Mana-mana pegawai keretapi yang menjaga stesen yang tidak memberi notis mengenai kemalangan sebagaimana yang dikehendaki oleh seksyen 45 adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi
+51. (1) Mana-mana syarikat keretapi yang gagal
 
-<!-- marginal: lima ratus ringgit atau -->
+<!-- marginal: kerana -->
 
-dipenjarakan selama tempoh tidak melebihi satu bulan atau kedua-duanya.
+memberi notis mengenai kemalangan sebagaimana yang
 
-Penalti 52. Mana-mana syarikat keretapi yang gagal mematuhi kerana seksyen 50 hendaklah membayar kepada Kerajaan suatu kegagalan mematuhi jumlah wang sebanyak lima puluh ringgit bagi tiap-tiap seksyen 50. hari selama keingkaran itu berterusan selepas hari yang keempat belas dari tarikh yang ditetapkan bagi pengemukaan penyata itu.
+<!-- marginal: kegagalan -->
 
-Pemeriksaan 53. Bilamasa mana-mana orang yang tercedera oleh perubatan sesuatu kemalangan atas keretapi menuntut pampasan wajib bagi orang yang oleh sebab kecederaannya itu, mana-mana mahkamah tercedera yang mempunyai bidangkuasa ke atas perkara dalam sedemikian boleh rnemerintahkan supaya orang yang kemalangan keretapi. tercedera itu diperiksa oleh seorang pengamal perubatan berkelayakan sewajarnya yang bukanlah seorang saksi bagi mana-mana pihak, dan boleh membuat perintah mengenai kos pemeriksaan itu sebagaimana yang difikirkannya patut.
+dikehendaki oleh seksyen 45 hendaklah membayar
+
+<!-- marginal: mematuhi -->
+
+<!-- marginal: seksyen 45. -->
+
+kepada Kerajaan suatu jumlah wang sebanyak satu ratus ringgit bagi tiap-tiap hari selama keingkaran itu berterusan.
+
+(2) Mana-mana pegawai keretapi yang menjaga stesen yang tidak memberi notis mengenai kemalangan sebagaimana yang dikehendaki oleh seksyen 45 adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ratus ringgit atau dipenjarakan selama tempoh tidak melebihi satu bulan atau kedua-duanya.
+
+<!-- marginal: Penalti -->
+
+52. Mana-mana syarikat keretapi yang gagal mematuhi
+
+<!-- marginal: kerana -->
+
+seksyen 50 hendaklah membayar kepada Kerajaan suatu
+
+<!-- marginal: kegagalan -->
+
+<!-- marginal: mematuhi -->
+
+jumlah wang sebanyak lima puluh ringgit bagi tiap-tiap
+
+<!-- marginal: seksyen 50. -->
+
+hari selama keingkaran itu berterusan selepas hari yang keempat belas dari tarikh yang ditetapkan bagi pengemukaan penyata itu.
+
+<!-- marginal: Pemeriksaan -->
+
+53. Bilamasa mana-mana orang yang tercedera oleh
+
+<!-- marginal: perubatan -->
+
+sesuatu kemalangan atas keretapi menuntut pampasan
+
+<!-- marginal: wajib bagi -->
+
+<!-- marginal: orang yang -->
+
+oleh sebab kecederaannya itu, mana-mana mahkamah
+
+<!-- marginal: tercedera -->
+
+yang mempunyai bidangkuasa ke atas perkara
+
+<!-- marginal: dalam -->
+
+sedemikian boleh rnemerintahkan supaya orang yang
+
+<!-- marginal: kemalangan -->
+
+<!-- marginal: keretapi. -->
+
+tercedera itu diperiksa oleh seorang pengamal perubatan berkelayakan sewajarnya yang bukanlah seorang saksi bagi mana-mana pihak, dan boleh membuat perintah mengenai kos pemeriksaan itu sebagaimana yang difikirkannya patut.
 
 ## BAHAGIAN
 
-<!-- marginal: IX -->
+IX
 
 ## KESALAHAN DAN PENALTI
 
-Mabuk atau 54. Mana-mana pegawai keretapi yang— pelanggaran tugas.
+<!-- marginal: Mabuk atau -->
+
+54. Mana-mana pegawai keretapi yang—
+
+<!-- marginal: pelanggaran -->
+
+<!-- marginal: tugas. -->
 
 (a) berada dalam keadaan mabuk
 
@@ -1398,9 +1918,29 @@ maksud itu di sisi koc itu yang berhampiran dengan platform atau tempat seumpama
 
 adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi satu ribu ringgit.
 
-Menahan 58. Mana-mana penumpang yang— kemasukan, dan memasuki
+<!-- marginal: Menahan -->
 
-(a) menahan kemasukan sah penumpang lain ke serta enggan dalam sesuatu koc keretapi atau bahagian koc meninggalkan tren yang keretapi yang tidak dikhaskan oleh syarikat penuh. keretapi bagi kegunaan penumpang yang menahan itu;
+58. Mana-mana penumpang yang—
+
+<!-- marginal: kemasukan, -->
+
+<!-- marginal: dan memasuki -->
+
+(a) menahan kemasukan sah penumpang lain ke
+
+<!-- marginal: serta enggan -->
+
+dalam sesuatu koc keretapi atau bahagian koc
+
+<!-- marginal: meninggalkan -->
+
+<!-- marginal: tren yang -->
+
+keretapi yang tidak dikhaskan oleh syarikat
+
+<!-- marginal: penuh. -->
+
+keretapi bagi kegunaan penumpang yang menahan itu;
 
 (b) selepas tidak dibenarkan masuk ke dalam sesuatu tren oleh seorang pegawai keretapi, oleh sebab tren itu penuh, namun begitu berkeras untuk memasuki atau cuba memasuki tren itu; atau
 
@@ -1408,9 +1948,29 @@ Menahan 58. Mana-mana penumpang yang— kemasukan, dan memasuki
 
 adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi satu ribu ringgit dan, sebagai tambahan, boleh dikeluarkan daripada keretapi itu oleh mana-mana pegawai keretapi.
 
-Penalti 59. Mana-mana orang yang— kerana kelakuan
+<!-- marginal: Penalti -->
 
-(a) berkelakuan mengikut cara yang tak senonoh tak senonoh atau sumbang atau melakukan apa-apa kacau atau sumbang atau kacau ganggu di atas sesuatu koc keretapi atau ganggu. di atas mana-mana premis keretapi; atau
+59. Mana-mana orang yang—
+
+<!-- marginal: kerana -->
+
+<!-- marginal: kelakuan -->
+
+(a) berkelakuan mengikut cara yang tak senonoh
+
+<!-- marginal: tak senonoh -->
+
+atau sumbang atau melakukan apa-apa kacau
+
+<!-- marginal: atau sumbang -->
+
+<!-- marginal: atau kacau -->
+
+ganggu di atas sesuatu koc keretapi atau
+
+<!-- marginal: ganggu. -->
+
+di atas mana-mana premis keretapi; atau
 
 <!-- page 48 -->
 
@@ -1464,21 +2024,63 @@ keretapi atau mana-mana premis keretapi adalah melakukan suatu kesalahan dan apa
 
 <!-- page 49 -->
 
-Penalti
+<!-- marginal: Penalti -->
 
-63. Mana-mana orang yang
-
-<!-- marginal: dengan -->
+63. Mana-mana orang yang dengan
 
 <!-- marginal: sengaja -->
 
-kerana menunggang, membawa, atau memandu atau menghalau memandu ke atas atau raelintasi landasan keretapi apa-apa kenderaan atau meng- kenderaan atau haiwan, kecuali apabila secara terus halau haiwan melintasi landasan keretapi itu di mana-mana jalan atau ke atas atau melintasi tempat yang ditetapkan bagi maksud itu pada masa yang landasan dia boleh berbuat demikian dengan sah, adalah keretapi. melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ratus ringgit bagi setiap kesalahan.
+<!-- marginal: kerana -->
 
-Penalti
+menunggang, membawa, atau memandu atau menghalau
 
-64. (1) Mana-mana orang yang— kerana kerosakan,
+<!-- marginal: memandu -->
 
-(a) dengan sengaja atau dengan cuai merosakkan sama ada sengaja mana-mana keretapi atau mana-mana harta atau cuai. yang dipunyai oleh suatu syarikat keretapi;
+ke atas atau raelintasi landasan keretapi apa-apa
+
+<!-- marginal: kenderaan -->
+
+<!-- marginal: atau meng- -->
+
+kenderaan atau haiwan, kecuali apabila secara terus
+
+<!-- marginal: halau haiwan -->
+
+melintasi landasan keretapi itu di mana-mana jalan atau
+
+<!-- marginal: ke atas atau -->
+
+<!-- marginal: melintasi -->
+
+tempat yang ditetapkan bagi maksud itu pada masa yang
+
+<!-- marginal: landasan -->
+
+dia boleh berbuat demikian dengan sah, adalah
+
+<!-- marginal: keretapi. -->
+
+melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ratus ringgit bagi setiap kesalahan.
+
+<!-- marginal: Penalti -->
+
+64. (1) Mana-mana orang yang—
+
+<!-- marginal: kerana -->
+
+<!-- marginal: kerosakan, -->
+
+(a) dengan sengaja atau dengan cuai merosakkan
+
+<!-- marginal: sama -->
+
+<!-- marginal: ada sengaja -->
+
+mana-mana keretapi atau mana-mana harta
+
+<!-- marginal: atau cuai. -->
+
+yang dipunyai oleh suatu syarikat keretapi;
 
 (b) mengalihkan pasir, batu, tanah atau apa-apa perkara atau benda lain daripada tebing, jambatan, pembetung, tembok penahan atau landasan keretapi kepunyaan suatu syarikat keretapi; atau
 
@@ -1512,9 +2114,25 @@ adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak mele
 
 maka dia adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi satu ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga bulan atau kedua-duanya.
 
-Menghalang 66. Jika mana-mana orang dengan menyalahi undang- atau cuba undang— menghalang keretapi dengan
+<!-- marginal: Menghalang -->
 
-(a) meletakkan, melemparkan atau menyebabkan niat jahat. terjatuh ke arah, di atas atau merintangi sesuatu keretapi apa-apa kayu, batu atau bahan atau benda lain;
+66. Jika mana-mana orang dengan menyalahi undang-
+
+<!-- marginal: atau cuba -->
+
+undang—
+
+<!-- marginal: menghalang -->
+
+<!-- marginal: keretapi -->
+
+<!-- marginal: dengan -->
+
+(a) meletakkan, melemparkan atau menyebabkan
+
+<!-- marginal: niat jahat. -->
+
+terjatuh ke arah, di atas atau merintangi sesuatu keretapi apa-apa kayu, batu atau bahan atau benda lain;
 
 (b) mengambil, mengalihkan, melonggarkan, atau memindahkan apa-apa rel, ranjang landas atau perkara atau benda lain yang berkaitan dengan sesuatu keretapi;
 
@@ -1610,17 +2228,85 @@ cuai, dan tanpa alasan sah, melakukan apa-apa perbuatan yang berkemungkinan memb
 
 membuat perjalanan dengan atau yang berada di atas sesuatu keretapi, adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak metebihi dua ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya.
 
-Membuat 71. Mana-mana orang yang. apabila memberikan apa- pernyataan apa maklumat atau membuat apa-apa permohonan di palsu, dsb bawah atau bagi maksud mana-mana peruntukan Akta ini, membuat apa-apa pernyataan yang dikctahuinya palsu dalam suatu butir material, atau yang dengan melulu membuat apa-apa pernyataan yang palsu dalam suatu butir material, adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi tiga puluh ribu ringgit.
+<!-- marginal: Membuat -->
 
-Penalti 72. Mana-mana orang yang melanggar atau gagal kerana mematuhi mana-mana peruntukan Akta ini atau mana- pelanggaran Akta atau mana peraturan yang dibuat di bawahnya adalah peraturan- melakukan sesuatu kesalahan dan, jika tiada penalti lain peraturan yang baginya diperuntukkan, boleh didenda tidak melebihi satu ribu tiada penalti ringgit atau dipenjarakan selama tempoh tidak melebihi khas diper- untukkan. tiga bulan atau kedua-duanya.
+71. Mana-mana orang yang. apabila memberikan apa-
 
-Tugas-tugas 73. Tiap-tiap pegawai keretapi hendaklah terikat di sisi di sisi undang-undang untuk melakukan segala jua yang perlu undang- undang untuk atau yang berfaedah bagi keselamatan orang pegawai awam, dan tiap-tiap pegawai sedemikian adalah dilarang keretapi. di sisi undang-undang daripada melakukan apa-apa perbuatan yang berkemungkinan menyebabkan bahaya.
+<!-- marginal: pernyataan -->
 
-Penangkapan 74. Mana-mana orang yang didapati melakukan atau pesalah- cuba melakukan suatu kesalahan terhadap Akta ini atau pesalah. mana-mana peraturan yang dibuat di bawahnya boleh ditangkap, tanpa waran, oleh mana-mana pegawai keretapi atau oleh mana-mana pegawai polis atau oleh mana-mana orang lain yang boleh dipanggil oleh pegawai keretapi atau pegawai polis
+apa maklumat atau membuat apa-apa permohonan di
 
-<!-- marginal: itu untuk -->
+<!-- marginal: palsu, dsb -->
 
-membantunya, dan tiap-tiap orang yang ditangkap sedemikian hendaklah, dengan seberapa segera yang
+bawah atau bagi maksud mana-mana peruntukan Akta ini, membuat apa-apa pernyataan yang dikctahuinya palsu dalam suatu butir material, atau yang dengan melulu membuat apa-apa pernyataan yang palsu dalam suatu butir material, adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi tiga puluh ribu ringgit.
+
+<!-- marginal: Penalti -->
+
+72. Mana-mana orang yang melanggar atau gagal
+
+<!-- marginal: kerana -->
+
+mematuhi mana-mana peruntukan Akta ini atau mana-
+
+<!-- marginal: pelanggaran -->
+
+<!-- marginal: Akta atau -->
+
+mana peraturan yang dibuat di bawahnya adalah
+
+<!-- marginal: peraturan- -->
+
+melakukan sesuatu kesalahan dan, jika tiada penalti lain
+
+<!-- marginal: peraturan -->
+
+<!-- marginal: yang baginya -->
+
+diperuntukkan, boleh didenda tidak melebihi satu ribu
+
+<!-- marginal: tiada penalti -->
+
+ringgit atau dipenjarakan selama tempoh tidak melebihi
+
+<!-- marginal: khas diper- -->
+
+<!-- marginal: untukkan. -->
+
+tiga bulan atau kedua-duanya.
+
+<!-- marginal: Tugas-tugas -->
+
+73. Tiap-tiap pegawai keretapi hendaklah terikat di sisi
+
+<!-- marginal: di sisi -->
+
+undang-undang untuk melakukan segala jua yang perlu
+
+<!-- marginal: undang- -->
+
+<!-- marginal: undang -->
+
+untuk atau yang berfaedah bagi keselamatan orang
+
+<!-- marginal: pegawai -->
+
+awam, dan tiap-tiap pegawai sedemikian adalah dilarang
+
+<!-- marginal: keretapi. -->
+
+di sisi undang-undang daripada melakukan apa-apa perbuatan yang berkemungkinan menyebabkan bahaya.
+
+<!-- marginal: Penangkapan -->
+
+74. Mana-mana orang yang didapati melakukan atau
+
+<!-- marginal: pesalah- -->
+
+cuba melakukan suatu kesalahan terhadap Akta ini atau
+
+<!-- marginal: pesalah. -->
+
+mana-mana peraturan yang dibuat di bawahnya boleh ditangkap, tanpa waran, oleh mana-mana pegawai keretapi atau oleh mana-mana pegawai polis atau oleh mana-mana orang lain yang boleh dipanggil oleh pegawai keretapi atau pegawai polis itu untuk membantunya, dan tiap-tiap orang yang ditangkap sedemikian hendaklah, dengan seberapa segera yang
 
 <!-- page 54 -->
 
@@ -1666,17 +2352,49 @@ pengetahuan, atau disebabkan oleh apa-apa pengabaian di pihak, mana-mana pengara
 
 <!-- page 55 -->
 
-Meng- 77. (1) Ketua Pengarah atau mana-mana pegawai yang kompaun diberikuasa olehnya boleh mengkompaun apa-apa kesalahan- kesalahan terhadap Akta ini atau mana-mana peraturan kesalahan. yang dibuat di bawahnya sebagaimana yang ditetapkan sebagai kesalahan yang boleh dikompaunkan oleh Ketua Pengarah atau mana-mana pegawai yang diberikuasa olehnya dengan memungut daripada mana-mana orang yang disyaki dengan munasabahnya telah melakukan kesalahan-kesalahan itu suatu jumlah wang tidak melebihi tiga ratus ringgit.
+<!-- marginal: Meng- -->
+
+77. (1) Ketua Pengarah atau mana-mana pegawai yang
+
+<!-- marginal: kompaun -->
+
+diberikuasa olehnya boleh mengkompaun apa-apa
+
+<!-- marginal: kesalahan- -->
+
+kesalahan terhadap Akta ini atau mana-mana peraturan
+
+<!-- marginal: kesalahan. -->
+
+yang dibuat di bawahnya sebagaimana yang ditetapkan sebagai kesalahan yang boleh dikompaunkan oleh Ketua Pengarah atau mana-mana pegawai yang diberikuasa olehnya dengan memungut daripada mana-mana orang yang disyaki dengan munasabahnya telah melakukan kesalahan-kesalahan itu suatu jumlah wang tidak melebihi tiga ratus ringgit.
 
 (2) Ketua Pengarah boleh, dengan kelulusan Menteri, membuat peraturan-peraturan untuk menetapkan kesalahan-kesalahan yang boleh dikompaunkan dan cara dan prosedur untuk mengkompaun kesalahan-kesalahan itu.
 
-Pendakwaan. 78. Ketua Pengarah atau mana-mana pegawai yang diberikuasa olehnya adalah berkompeten untuk menjalankan suatu pendakwaan bagi apa-apa kesalahan di bawah Akta ini atau mana-mana peraturan yang dibuat di bawahnya di hadapan mana-mana mahkamah.
+<!-- marginal: Pendakwaan. -->
+
+78. Ketua Pengarah atau mana-mana pegawai yang diberikuasa olehnya adalah berkompeten untuk menjalankan suatu pendakwaan bagi apa-apa kesalahan di bawah Akta ini atau mana-mana peraturan yang dibuat di bawahnya di hadapan mana-mana mahkamah.
 
 ## BAHAGIAN X
 
 ## PENGGANTUNGAN ATAU PEMBATALAN LESEN
 
-Peng- 79. (1) Jika Ketua Pengarah berpuas hati bahawa gantungan sesuatu syarikat keretapi sedang melanggar, atau telah atau pem- batalan melanggar dan berkemungkinan melanggar lagi mana- lesen. mana daripada syarat-syarat lesennya, Ketua Pengarah boleh memberi notis bertulis kepada syarikat keretapi itu yang menghendakinya mematuhi syarat itu dalam tempoh yang ditetapkan dalam notis itu.
+<!-- marginal: Peng- -->
+
+79. (1) Jika Ketua Pengarah berpuas hati bahawa
+
+<!-- marginal: gantungan -->
+
+sesuatu syarikat keretapi sedang melanggar, atau telah
+
+<!-- marginal: atau pem- -->
+
+<!-- marginal: batalan -->
+
+melanggar dan berkemungkinan melanggar lagi mana-
+
+<!-- marginal: lesen. -->
+
+mana daripada syarat-syarat lesennya, Ketua Pengarah boleh memberi notis bertulis kepada syarikat keretapi itu yang menghendakinya mematuhi syarat itu dalam tempoh yang ditetapkan dalam notis itu.
 
 (2) Jika apabila habis tempoh yang ditetapkan dalam notis itu, syarikat keretapi itu gagal mematuhi syarat yang tersebut di dalamnya, Ketua Pengarah hendaklah mengemukakan kepada Menteri suatu laporan mengenai kegagalan syarikat keretapi itu dan laporan itu hendaklah dalam bentuk yang didapati sesuai oleh Ketua Pengarah.
 
@@ -1696,35 +2414,39 @@ Peng- 79. (1) Jika Ketua Pengarah berpuas hati bahawa gantungan sesuatu syarikat
 
 <!-- page 57 -->
 
-Tindakan
+<!-- marginal: Tindakan -->
 
-80. (1) Jika sesuatu lesen telah digantung atau Menteri dibatalkan di bawah seksyen 79 dan Menteri berpuas dalam hal-hal hati bahawa adalah demi kepentingan awam bagi apa- keadaan apa perkhidmatan atau kemudahan yang disediakan oleh tertentu. syarikat keretapi itu diteruskan, maka dia boleh melalui perintah yang disiarkan dalam Warta—
+80. (1) Jika sesuatu lesen telah digantung atau
 
-(a) memperuntukkan bagi Ketua Pengarah mengambil alih kawalan ke atas keseluruhan harta, perniagaan dan hal-ehwal syarikat keretapi itu, dan menjalankan keseluruhan perniagaan dan hal-ehwalnya, atau untuk mengambil alih kawalan ke atas sekian bahagian harta, perniagaan dan hal-ehwalnya dan menjalankan sekian bahagian perniagaan dan hal-ehwalnya,
+<!-- marginal: Menteri -->
 
-<!-- marginal: sebagaimana -->
+dibatalkan di bawah seksyen 79 dan Menteri berpuas
+
+<!-- marginal: dalam -->
+
+<!-- marginal: hal-hal -->
+
+hati bahawa adalah demi kepentingan awam bagi apa-
+
+<!-- marginal: keadaan -->
+
+apa perkhidmatan atau kemudahan yang disediakan oleh
+
+<!-- marginal: tertentu. -->
+
+syarikat keretapi itu diteruskan, maka dia boleh melalui perintah yang disiarkan dalam Warta—
+
+(a) memperuntukkan bagi Ketua Pengarah mengambil alih kawalan ke atas keseluruhan harta, perniagaan dan hal-ehwal syarikat keretapi itu, dan menjalankan keseluruhan perniagaan dan hal-ehwalnya, atau untuk mengambil alih kawalan ke atas sekian bahagian harta, perniagaan dan hal-ehwalnya dan menjalankan sekian bahagian perniagaan dan hal-ehwalnya, sebagaimana
 
 <!-- marginal: yang -->
 
-dinyatakan dalam perintah
-
-<!-- marginal: itu, -->
+dinyatakan dalam perintah itu,
 
 <!-- marginal: atau -->
 
 memperuntukkan bagi Ketua Pengarah melantik mana-mana orang untuk berbuat demikian bagi pihak Ketua Pengarah dan memperuntukkan bagi kos dan perbelanjaan Ketua Pengarah, atau saraan orang yang dilantik sedemikian, mengikut mana-mana yang berkenaan, supaya kena dibayar daripada kumpulan wang dan harta syarikat itu sebagai gadaian pertama ke atasnya;
 
-(b) sama ada atau tidak suatu perintah telah dibuat di bawah perenggan (a), membenarkan suatu permohonan yang hendaklah dibuat oleh Ketua Pengarah kepada Mahkamah Tinggi untuk melantik seseorang penerima atau pengurus untuk menguruskan keseluruhan perniagaan, hal-ehwal dan harta syarikat keretapi itu, atau sekian bahagiannya
-
-<!-- marginal: sebagaimana yang -->
-
-dinyatakan dalam perintah itu, dan bagi segala perintah atau arahan Mahkamah Tinggi yang sampingan, tambahan
-
-<!-- marginal: atau berbangkit -->
-
-berhubungan dengan
-
-<!-- marginal: perlantikan -->
+(b) sama ada atau tidak suatu perintah telah dibuat di bawah perenggan (a), membenarkan suatu permohonan yang hendaklah dibuat oleh Ketua Pengarah kepada Mahkamah Tinggi untuk melantik seseorang penerima atau pengurus untuk menguruskan keseluruhan perniagaan, hal-ehwal dan harta syarikat keretapi itu, atau sekian bahagiannya sebagaimana yang dinyatakan dalam perintah itu, dan bagi segala perintah atau arahan Mahkamah Tinggi yang sampingan, tambahan atau berbangkit berhubungan dengan perlantikan
 
 <!-- marginal: itu -->
 
@@ -1774,7 +2496,37 @@ mendapat kelulusan Menteri, selama tiga tempoh lanjut berturut-turut yang tidak 
 
 (4) Jika seorang penerima atau pengurus telah dilantik berkenaan dengan sesuatu syarikat keretapi oleh Mahkamah Tinggi di bawah perenggan 80 (1) (b), segala kos, caj dan perbelanjaan yang sepatutnya, termasuklah saraan penerima atau pengurus itu, hendaklah kena dibayar daripada aset-aset syarikat keretapi itu dengan diberi keutamaan daripada segala tuntutan lain.
 
-Peruntukan- 82. (1) Jika kawalan ke atas sesuatu syarikat keretapi peruntukan telah diambil alih menurut perintah di bawah seksyen yang her- hubungan 80, syarikat itu dan pengarah-pengarah serta pegawai- dengan pegawainya hendaklah mengemukakan harta, perniagaan pengambilan dan hal-ehwalnya kepada kawalan itu, dan hendaklah alih kawalan di bawah mengadakan untuk Ketua Pengarah atau, jika kawalan seksyen 80. itu diambil alih oleh seseorang yang dilantik oleh Ketua Pengarah (kemudian daripada ini dalam Bahagian ini disebut sebagai "orang dilantik"), untuk orang dilantik itu, segala kemudahan sebagaimana yang dikehendaki untuk menjalankan perniagaan dan hal-ehwal syarikat keretapi itu.
+<!-- marginal: Peruntukan- -->
+
+82. (1) Jika kawalan ke atas sesuatu syarikat keretapi
+
+<!-- marginal: peruntukan -->
+
+telah diambil alih menurut perintah di bawah seksyen
+
+<!-- marginal: yang her- -->
+
+<!-- marginal: hubungan -->
+
+80, syarikat itu dan pengarah-pengarah serta pegawai-
+
+<!-- marginal: dengan -->
+
+pegawainya hendaklah mengemukakan harta, perniagaan
+
+<!-- marginal: pengambilan -->
+
+dan hal-ehwalnya kepada kawalan itu, dan hendaklah
+
+<!-- marginal: alih kawalan -->
+
+<!-- marginal: di bawah -->
+
+mengadakan untuk Ketua Pengarah atau, jika kawalan
+
+<!-- marginal: seksyen 80. -->
+
+itu diambil alih oleh seseorang yang dilantik oleh Ketua Pengarah (kemudian daripada ini dalam Bahagian ini disebut sebagai "orang dilantik"), untuk orang dilantik itu, segala kemudahan sebagaimana yang dikehendaki untuk menjalankan perniagaan dan hal-ehwal syarikat keretapi itu.
 
 (2) Jika kawalan ke atas sesuatu syarikat keretapi telah diambil alih menurut perintah di bawah seksyen 80, Ketua Pengarah atau orang dilantik itu, mengikut mana-mana yang berkenaan, hendaklah
 
@@ -1806,17 +2558,77 @@ diberikuasa olehnya bagi maksud itu, boleh bagi maksud-maksud Akta ini atau mana
 
 <!-- page 61 -->
 
-Penyelesaian
+<!-- marginal: Penyelesaian -->
 
-84. Jika dua atau lebih syarikat keretapi, yang keretapi perselisihan masing-masing mempunyai satu terminal yang sama di antara syarikat- atau suatu bahagian daripada jalan perhubungan keretapi syankat yang sama, tidak dapat bersetuju mengenai perkiraan keretapi berkenaan bagi menguruskan, di terminal yang sama itu atau di dengan tempat persimpangan di antaranya, keselamatan trafik pengurusan trafik bersama mereka, maka Ketua Pengarah, atas bersama. permohonan salah satu atau mana-mana syarikat itu, boleh memutuskan perkara-perkara yang dipertikaikan di antara mereka, setakat yang perkara-perkara itu berhubungan dengan keselamatan orang awam, dan boleh menentukan sama ada keseluruhan atau sekian kadar perbelanjaan yang terlibat dalam perkiraan itu hendak ditanggung oleh salah satu atau mana-mana syarikat itu masing-masingnya.
+84. Jika dua atau lebih syarikat keretapi, yang keretapi
 
-Penge- 85. (1) Mana-mana syarikat keretapi yang dilesenkan mukaan di bawah Akta ini hendaklah menyediakan dan memorandum bagi apa-apa mengemukakan kepada Ketua Pengarah
+<!-- marginal: perselisihan -->
+
+masing-masing mempunyai satu terminal yang sama
+
+<!-- marginal: di antara -->
+
+<!-- marginal: syarikat- -->
+
+atau suatu bahagian daripada jalan perhubungan keretapi
+
+<!-- marginal: syankat -->
+
+yang sama, tidak dapat bersetuju mengenai perkiraan
+
+<!-- marginal: keretapi -->
+
+<!-- marginal: berkenaan -->
+
+bagi menguruskan, di terminal yang sama itu atau di
+
+<!-- marginal: dengan -->
+
+tempat persimpangan di antaranya, keselamatan trafik
+
+<!-- marginal: pengurusan -->
+
+<!-- marginal: trafik -->
+
+bersama mereka, maka Ketua Pengarah, atas
+
+<!-- marginal: bersama. -->
+
+permohonan salah satu atau mana-mana syarikat itu, boleh memutuskan perkara-perkara yang dipertikaikan di antara mereka, setakat yang perkara-perkara itu berhubungan dengan keselamatan orang awam, dan boleh menentukan sama ada keseluruhan atau sekian kadar perbelanjaan yang terlibat dalam perkiraan itu hendak ditanggung oleh salah satu atau mana-mana syarikat itu masing-masingnya.
+
+<!-- marginal: Penge- -->
+
+85. (1) Mana-mana syarikat keretapi yang dilesenkan
+
+<!-- marginal: mukaan -->
+
+di bawah Akta ini hendaklah menyediakan dan
+
+<!-- marginal: memorandum -->
+
+<!-- marginal: bagi apa-apa -->
+
+mengemukakan kepada Ketua Pengarah
 
 <!-- marginal: suatu -->
 
-pertukaran memorandum bagi apa-apa pertukaran pada struktur pada struktur tambang, tambang, kadar atau caj yang sedia ada, bagi kelulusan dsb., yang Menteri, dan jika tiada jawapan diterima daripada sedia ada. Menteri dalam masa enam
+<!-- marginal: pertukaran -->
 
-<!-- marginal: bulan -->
+memorandum bagi apa-apa pertukaran pada struktur
+
+<!-- marginal: pada struktur -->
+
+<!-- marginal: tambang, -->
+
+tambang, kadar atau caj yang sedia ada, bagi kelulusan
+
+<!-- marginal: dsb., yang -->
+
+Menteri, dan jika tiada jawapan diterima daripada
+
+<!-- marginal: sedia ada. -->
+
+Menteri dalam masa enam bulan
 
 <!-- marginal: daripada -->
 
@@ -1842,7 +2654,11 @@ sekat-masuk atau apa-apa kejadian lain yang menimbulkan darurat atau demi kepent
 
 (a) mengambil milikan sementara akan mana- mana keretapi atau perkhidmatan atau kemudahan keretapi yang diadakan, disenggarakan atau dikerjakan oleh sesuatu syarikat keretapi;
 
-(b) menarik balik, sama ada sebahagiannya atau keseluruhannya, penggunaan apa-apa perkhidmatan atau kemudahan keretapi daripada mana-mana orang atau golongan orang atau daripada orang awam pada umumnya.
+(b) menarik balik, sama ada sebahagiannya atau keseluruhannya, penggunaan
+
+<!-- marginal: apa-apa -->
+
+perkhidmatan atau kemudahan keretapi daripada mana-mana orang atau golongan orang atau daripada orang awam pada umumnya.
 
 (2) Jika apa-apa keraguan berbangkit mengenai kewujudan sesuatu darurat awam atau sama ada apa-apa tindakan yang dilakukan di bawah subseksyen (1) adalah demi kepentingan ketenteraman atau keselamatan awam, suatu perakuan yang ditandatangani oleh Yang di- Pertuan Agong dan dipamerkan di mana-mana tempat sebagaimana yang difikirkan patut oleh Menteri hendaklah menjadi bukti konklusif mengenai hal itu.
 
@@ -1874,7 +2690,19 @@ bengkelnya, boleh diambil untuk pelaksanaan apa-apa dekri atau perintah mana-man
 
 (2) Tiada apa-apa jua dalam subseksyen (1) boleh ditafsirkan sebagai menyentuh kuasa mana-mana mahkamah untuk menahan pendapatan sesuatu syarikat keretapi untuk pelaksanaan sesuatu penghakiman atau perintah.
 
-Kuasa untuk 88. (1) Ketua Pengarah boleh, dengan kelulusan membuat Menteri, dari semasa ke semasa, membuat apa-apa peraturan- peraturan. peraturan sebagaimana yang perlu atau suaimanfaat bagi menjalankan atau mencapai tujuan-tujuan dan maksud- maksud Akta ini.
+<!-- marginal: Kuasa untuk -->
+
+88. (1) Ketua Pengarah boleh, dengan kelulusan
+
+<!-- marginal: membuat -->
+
+Menteri, dari semasa ke semasa, membuat apa-apa
+
+<!-- marginal: peraturan- -->
+
+<!-- marginal: peraturan. -->
+
+peraturan sebagaimana yang perlu atau suaimanfaat bagi menjalankan atau mencapai tujuan-tujuan dan maksud- maksud Akta ini.
 
 (2) Tanpa menjejaskan keluasan subseksyen (1), peraturan-peraturan boleh dibuat—
 
@@ -1884,11 +2712,7 @@ Kuasa untuk 88. (1) Ketua Pengarah boleh, dengan kelulusan membuat Menteri, dari
 
 (c) untuk menetapkan apa yang hendak disifatkan sebagai barang-barang merbahaya atau memudaratkan dan pengawalseliaan pem- bawaan barang-barang sedemikian;
 
-(d) untuk menetapkan caj maksimum yang kena dibayar bagi membawa
-
-<!-- marginal: penumpang- -->
-
-penumpang dan barang-barang oleh mana- mana syarikat keretapi;
+(d) untuk menetapkan caj maksimum yang kena dibayar bagi membawa penumpang- penumpang dan barang-barang oleh mana- mana syarikat keretapi;
 
 (e) untuk menetapkan apa yang hendak disifatkan sebagai penyakit berjangkit atau menular dan untuk mengawalselia syarat-syarat yang dibawahnya syarikat-syarikat keretapi boleh membawa orang-orang atau haiwan yang mengalami penyakit-penyakit berjangkit atau menular itu, dan untuk mengadakan peruntukan mengenai disinfeksi koc-koc yang telah digunakan oleh orang-orang atau haiwan itu;
 
@@ -1960,9 +2784,7 @@ atau selainnya melupuskan, atau mengurusniagakan, apa-apa harta alih atau tak al
 
 (3) Menteri hendaklah melantik seorang dari kalangan anggota-anggota Perbadanan untuk menjadi Pengerusi.
 
-(4) Jika Pengerusi tidak dapat hadir di mana-mana mesyuarat Perbadanan oleh sebab sakit, ketakupayaan atau apa-apa sebab lain, maka Menteri boleh melantik mana-mana anggota lain
-
-<!-- marginal: sebagaimana -->
+(4) Jika Pengerusi tidak dapat hadir di mana-mana mesyuarat Perbadanan oleh sebab sakit, ketakupayaan atau apa-apa sebab lain, maka Menteri boleh melantik mana-mana anggota lain sebagaimana
 
 <!-- marginal: yang -->
 
@@ -2034,17 +2856,37 @@ semasa, memberikan arahan-arahan yang tidak tak konsisten dengan peruntukan-peru
 
 (a) untuk menerima bantuan atau pemberian kewangan daripada Kerajaan Persekutuan atau mana-mana orang lain atau selainnya dengan kelulusan Menteri Kewangan untuk meminjam wang daripada mana-mana institusi kewangan atau orang lain dan berkaitan dengannya untuk mengadakan apa-apa cagaran sebagaimana yang difikirkannya sesuai;
 
-(b) dengan kelulusan Menteri Kewangan, untuk memberi bantuan kewangan kepada mana- mana syarikat keretapi yang dinamakan oleh Menteri, termasuk subsidiari syarikat itu, bagi menjalankan mana-mana
-
-<!-- marginal: projek -->
+(b) dengan kelulusan Menteri Kewangan, untuk memberi bantuan kewangan kepada mana- mana syarikat keretapi yang dinamakan oleh Menteri, termasuk subsidiari syarikat itu, bagi menjalankan mana-mana projek
 
 <!-- marginal: yang -->
 
 berhubungan dengan pengadaan kemudahan dan perkhidmatan keretapi; dan
 
-(c) dengan kelulusan Menteri Kewangan, untuk membuat apa-apa perkiraan bagi perkongsian keuntungan, penyatuan kepentingan, kerjasama atau usahasama dengan mana-mana syarikat keretapi yang dinamakan oleh Menteri atau mana-mana orang lain atau kumpulan orang atau untuk menubuhkan atau menggalakkan penubuhan dan perkembangan syarikat- Akta 125. syarikat di bawah Akta Syarikat 1965.
+(c) dengan kelulusan Menteri Kewangan, untuk membuat apa-apa perkiraan bagi perkongsian keuntungan, penyatuan kepentingan, kerjasama atau usahasama dengan mana-mana syarikat keretapi yang dinamakan oleh Menteri atau mana-mana orang lain atau kumpulan orang atau untuk menubuhkan atau menggalakkan penubuhan dan perkembangan syarikat-
 
-Pembubaran 92. (1) Pentadbiran Keretapi Tanah Melayu yang wujud Pentadbiran di bawah Ordinan termansuh adalah dibubarkan. Keretapi Tanah Melayu dan perletakhakan hartanya pad a Perbadanan.
+<!-- marginal: Akta 125. -->
+
+syarikat di bawah Akta Syarikat 1965.
+
+<!-- marginal: Pembubaran -->
+
+92. (1) Pentadbiran Keretapi Tanah Melayu yang wujud
+
+<!-- marginal: Pentadbiran -->
+
+di bawah Ordinan termansuh adalah dibubarkan.
+
+<!-- marginal: Keretapi -->
+
+<!-- marginal: Tanah -->
+
+<!-- marginal: Melayu dan -->
+
+<!-- marginal: perletakhakan -->
+
+<!-- marginal: hartanya pad a -->
+
+<!-- marginal: Perbadanan. -->
 
 <!-- page 68 -->
 
@@ -2096,9 +2938,43 @@ Pemindahan Keretapi Singapura 1918 atau Akta Keretapi 1987 Republik itu hendakla
 
 diperolehi oleh Pesuruhjaya Tanah Persekutuan di bawah Ordinan termansuh hendaklah masih terletakhak pada Pesuruhjaya Tanah Persekutuan di bawah Akta ini.
 
-Liabiliti 95. Segala liabiliti sedia ada yang dilakukan oleh atau boleh dikuat- bagi pihak atau bagi maksud-maksud Keretapi Tanah kuasakan terhadap Melayu boleh dikuatkuasakan terhadap Perbadanan atau Perbadanan Pesuruhjaya Tanah Persekutuan, mengikut mana-mana atau Pesuruh- jaya Tanah yang berkenaan. Persekutuan.
+<!-- marginal: Liabiliti -->
 
-Perlantikan 96. (1) Perbadanan boleh, dengan persetujuan Jabatan pegawai, dsb., Perkhidmatan Awam dan Perbendaharaan, dari semasa Perbadanan. ke semasa, melantik sekian bilangan pegawai dan pengkhidmat atas apa-apa terma dan syarat sebagaimana yang ditetapkan oleh Menteri dalam kaedah-kaedah yang dibuat di bawah Bahagian ini sebagaimana yang perlu bagi menjalankan maksud-maksud Bahagian ini.
+95. Segala liabiliti sedia ada yang dilakukan oleh atau
+
+<!-- marginal: boleh dikuat- -->
+
+bagi pihak atau bagi maksud-maksud Keretapi Tanah
+
+<!-- marginal: kuasakan -->
+
+<!-- marginal: terhadap -->
+
+Melayu boleh dikuatkuasakan terhadap Perbadanan atau
+
+<!-- marginal: Perbadanan -->
+
+Pesuruhjaya Tanah Persekutuan, mengikut mana-mana
+
+<!-- marginal: atau Pesuruh- -->
+
+<!-- marginal: jaya Tanah -->
+
+yang berkenaan.
+
+<!-- marginal: Persekutuan. -->
+
+<!-- marginal: Perlantikan -->
+
+96. (1) Perbadanan boleh, dengan persetujuan Jabatan
+
+<!-- marginal: pegawai, dsb., -->
+
+Perkhidmatan Awam dan Perbendaharaan, dari semasa
+
+<!-- marginal: Perbadanan. -->
+
+ke semasa, melantik sekian bilangan pegawai dan pengkhidmat atas apa-apa terma dan syarat sebagaimana yang ditetapkan oleh Menteri dalam kaedah-kaedah yang dibuat di bawah Bahagian ini sebagaimana yang perlu bagi menjalankan maksud-maksud Bahagian ini.
 
 (2) Perbadanan boleh, dari semasa ke semasa, mengguna khidmat dan membayar ejen-ejen dan penasihat-penasihat teknik, termasuk peguambela dan peguamcara, jurubank, broker saham, juruukur, penilai dan orang-orang lain, untuk menjalankan apa-apa urusan atau melakukan apa-apa perbuatan yang dikehendaki dijalankan atau dilakukan dalam melaksanakan fungsi- fungsinya, menjalankan kuasa-kuasanya
 
@@ -2108,7 +2984,27 @@ menunaikan kewajipan-kewajipannya atau bagi melaksanakan maksud-maksud Akta ini 
 
 (3) Seseorang pegawai atau mana-mana orang lain yang dilantik oleh Perbadanan hendaklah tertakluk kepada kawalan dan arahan Perbadanan,
 
-Akta Per- 97. Akta Perlindungan Pihak Berkuasa Awam 1948 lindungan hendaklah terpakai bagi apa-apa tindakan, guaman, Pihak Berkuasa pendakwaan atau presiding terhadap Perbadanan atau Awam 1948 terhadap mana-mana pegawai atau pengkhidmat Akta 198. Perbadanan berkenaan dengan mana-mana tindakan, keabaian atau kemungkiran yang dibuat atau dilakukan olehnya atas sifat itu.
+<!-- marginal: Akta Per- -->
+
+97. Akta Perlindungan Pihak Berkuasa Awam 1948
+
+<!-- marginal: lindungan -->
+
+hendaklah terpakai bagi apa-apa tindakan, guaman,
+
+<!-- marginal: Pihak -->
+
+<!-- marginal: Berkuasa -->
+
+pendakwaan atau presiding terhadap Perbadanan atau
+
+<!-- marginal: Awam 1948 -->
+
+terhadap mana-mana pegawai atau pengkhidmat
+
+<!-- marginal: Akta 198. -->
+
+Perbadanan berkenaan dengan mana-mana tindakan, keabaian atau kemungkiran yang dibuat atau dilakukan olehnya atas sifat itu.
 
 <!-- page 70 -->
 
@@ -2150,19 +3046,61 @@ selepas berunding dengan Menteri, sebelum bermulanya tahun yang berikut itu, mem
 
 (6) Perbadanan boleh, pada bila-bila masa, mengemukakan kepada Menteri Kewangan suatu anggaran tambahan bagi mana-mana satu tahun dan Menteri Kewangan boleh, selepas berunding dengan Menteri, membenarkan keseluruhan atau mana-mana bahagian perbelanjaan tambahan itu.
 
-Ketidak-
+<!-- marginal: Ketidak- -->
 
-99. (1) Tiada seorang pun layak diambil kerja sebagai layakan pegawai atau pengkhidmat Perbadanan jika dia, secara untuk langsung atau tak langsung, mempunyai sendiri atau diambil kerja melalui pekongsinya apa-apa syer atau kepentingan sebagai dalam mana-mana kontrak atau kontrak yang pegawai atau dicadangkan dengan, untuk atau bagi pihak Perbadanan. pengkhidmat Perbadanan. (2) Mana-mana pegawai atau
+99. (1) Tiada seorang pun layak diambil kerja sebagai
+
+<!-- marginal: layakan -->
+
+pegawai atau pengkhidmat Perbadanan jika dia, secara
+
+<!-- marginal: untuk -->
+
+langsung atau tak langsung, mempunyai sendiri atau
+
+<!-- marginal: diambil -->
+
+<!-- marginal: kerja -->
+
+melalui pekongsinya apa-apa syer atau kepentingan
+
+<!-- marginal: sebagai -->
+
+dalam mana-mana kontrak atau kontrak yang
+
+<!-- marginal: pegawai -->
+
+<!-- marginal: atau -->
+
+dicadangkan dengan, untuk atau bagi pihak Perbadanan.
 
 <!-- marginal: pengkhidmat -->
 
-Perbadanan yang mempunyai atau memperolehi apa-apa syer atau kepentingan sedemikian boleh menurut budi bicara Perbadanan dibuang kerja.
+<!-- marginal: Perbadanan. -->
+
+(2) Mana-mana pegawai atau pengkhidmat Perbadanan yang mempunyai atau memperolehi apa-apa syer atau kepentingan sedemikian boleh menurut budi bicara Perbadanan dibuang kerja.
 
 (3) Jika mana-mana pegawai atau pengkhidmat Perbadanan pada masa perlantikannya sebagai pegawai atau pengkhidmat sedemikian telahpun mempunyai atau mengawal apa-apa syer atau kepentingan dalam mana- mana harta yang, terkemudian daripada perlantikannya sebagai pegawai atau pengkhidmat sedemikian, dimasukkan atau diniatkan untuk dimasukkan dalam mana-mana kontrak atau kontrak dicadangkan dengan, untuk atau bagi pihak Perbadanan, maka dia hendaklah mendedahkan perkara itu kepada Perbadanan secara bertulis.
 
-Akaun
+<!-- marginal: Akaun -->
 
-100. (1) Perbadanan hendaklah memberi Menteri akaun teraudil. tahunan teraudit bagi setiap tahun kewangan dalam masa penyata, laporan. enam bulan dalam tahun yang berikutnya. akaun dan maklumat. (2) Perbadanan hendaklah memberi Menteri segala penyata, laporan, akaun dan maklumat mengenai harta dan aktivitinya sebagaimana yang dikehendaki oleh Menteri dari semasa ke semasa.
+100. (1) Perbadanan hendaklah memberi Menteri akaun
+
+<!-- marginal: teraudil. -->
+
+tahunan teraudit bagi setiap tahun kewangan dalam masa
+
+<!-- marginal: penyata, -->
+
+<!-- marginal: laporan. -->
+
+enam bulan dalam tahun yang berikutnya.
+
+<!-- marginal: akaun dan -->
+
+<!-- marginal: maklumat. -->
+
+(2) Perbadanan hendaklah memberi Menteri segala penyata, laporan, akaun dan maklumat mengenai harta dan aktivitinya sebagaimana yang dikehendaki oleh Menteri dari semasa ke semasa.
 
 <!-- page 72 -->
 
@@ -2224,7 +3162,9 @@ terma dan syarat perkhidmatan pegawai-pegawai dan
 
 <!-- marginal: pegawai- -->
 
-pengkhidmat-pengkhidmat Perbadanan termasuk
+pengkhidmat-pengkhidmat Perbadanan
+
+<!-- marginal: termasuk -->
 
 <!-- marginal: pegawai dan -->
 
@@ -2260,7 +3200,21 @@ hakkan semula, atau selainnya mengurusniagakan mana- mana harta tak alih yang di
 
 <!-- page 73 -->
 
-Tanah-tanah 104. Walau apa pun peruntukan mana-mana undang- awam tertentu undang bertulis yang berhubungan dengan perizapan disifatkan sebagai rizab tanah bagi maksud awam— keretapi.
+<!-- marginal: Tanah-tanah -->
+
+104. Walau apa pun peruntukan mana-mana undang-
+
+<!-- marginal: awam tertentu -->
+
+undang bertulis yang berhubungan dengan perizapan
+
+<!-- marginal: disifatkan -->
+
+<!-- marginal: sebagai rizab -->
+
+tanah bagi maksud awam—
+
+<!-- marginal: keretapi. -->
 
 (a) semua tanah Negeri yang pada mula berkuatkuasanya Ordinan termansuh telah diduduki, atau di bawah kawalan, atau digunakan bagi maksud-maksud, Keretapi Tanah Melayu, hendaklah disifatkan sebagai rizab keretapi di bawah Akta ini sama ada atau tidak apa-apa perizapan nyata telah disiarkan berkenaan dengannya; dan
 
@@ -2270,11 +3224,13 @@ Tanah-tanah 104. Walau apa pun peruntukan mana-mana undang- awam tertentu undang
 
 ## PEMANSUHAN DAN KECUALIAN
 
-Pemansuhan 105. (1) Ordinan Keretapi 1948 adalah dimansuhkan. dan kecualian.
+<!-- marginal: Pemansuhan -->
 
-(2) Walau apa pun subseksyen
+105. (1) Ordinan Keretapi 1948 adalah dimansuhkan.
 
-<!-- marginal: (1), -->
+<!-- marginal: dan kecualian. -->
+
+(2) Walau apa pun subseksyen (1),
 
 <!-- marginal: semua -->
 
@@ -2284,9 +3240,7 @@ perundangan subsidiari yang dibuat di bawah atau mengikut Ordinan termansuh hend
 
 (a) menyentuh penguatkuasaan terdahulu, atau apa-apa jua yang dilakukan atau dibiarkan dengan sewajarnya di bawah Ordinan termansuh; dan
 
-(b) menyentuh apa-apa
-
-<!-- marginal: hak, -->
+(b) menyentuh apa-apa hak,
 
 <!-- marginal: hakmilik, -->
 
@@ -2372,19 +3326,55 @@ kosong—
 
 (2) Jika mana-mana orang terhenti menjadi anggota oleh sebab mana-mana peruntukan Akta ini, seorang lain hendaklah dilantik untuk menggantikannya mengikut peruntukan-peruntukan yang berkenaan.
 
-Saraan atau 3. Maka hendaklah dibayar kepada anggota-anggota Perbadanan elaun apa-apa saraan atau elaun sebagaimana yang ditentukan oleh Menteri.
+<!-- marginal: Saraan atau -->
 
-Mesyuarat, 4. ( 1) Perbadanan hendaklah bermesyuarat sebagaimana dan apabila dikehendaki.
+3. Maka hendaklah dibayar kepada anggota-anggota Perbadanan
+
+<!-- marginal: elaun -->
+
+apa-apa saraan atau elaun sebagaimana yang ditentukan oleh Menteri.
+
+<!-- marginal: Mesyuarat, -->
+
+4. ( 1) Perbadanan hendaklah bermesyuarat sebagaimana dan apabila dikehendaki.
 
 (2) Tertakluk kepada peruntukan-peruntukan Akta ini, Perbadanan hendaklah menetapkan prosedurnya sendiri.
 
-Perbadanan 5. Perbadanan boleh meminta mana-mana orang (yang bukan boleh anggota Perbadanan) menghadiri mana-mana mesyuarat atau mengundang orjng lam perbincangan Perbadanan bagi maksud menasihatinya tentang apa- menghadm mesyuarat apa perkara yang dibincangkan, tetapi mana-mana orang yang hadir sedemikian tidak berhak mengundi dalam mesyuarat atau perbincangan itu. Penzahiran 6. Seseorang anggota Perbadanan yang. secara langsung atau tak kepentingan langsung, mempunyai sendiri atau melalui pekongsinya apa-apa kepentingan dalam mana-mana syarikat atau usaha yang dengannya Perbadanan bercadang hendak membuat apa-apa kontrak atau yang ada mempunyai apa-apa kepentingan dalam mana-mana kontrak itu atau dalam apa-apa perkara yang sedang dibincangkan oleh Perbadanan hendaklah menzahirkan hakikat dan
+<!-- marginal: Perbadanan -->
+
+5. Perbadanan boleh meminta mana-mana orang (yang bukan
+
+<!-- marginal: boleh -->
+
+anggota Perbadanan) menghadiri mana-mana mesyuarat atau
+
+<!-- marginal: mengundang -->
+
+<!-- marginal: orjng lam -->
+
+perbincangan Perbadanan bagi maksud menasihatinya tentang apa-
+
+<!-- marginal: menghadm -->
+
+<!-- marginal: mesyuarat -->
+
+apa perkara yang dibincangkan, tetapi mana-mana orang yang hadir sedemikian tidak berhak mengundi dalam mesyuarat atau perbincangan itu.
+
+<!-- marginal: Penzahiran -->
+
+6. Seseorang anggota Perbadanan yang. secara langsung atau tak
+
+<!-- marginal: kepentingan -->
+
+langsung, mempunyai sendiri atau melalui pekongsinya apa-apa kepentingan dalam mana-mana syarikat atau usaha yang dengannya Perbadanan bercadang hendak membuat apa-apa kontrak atau yang ada mempunyai apa-apa kepentingan dalam mana-mana kontrak itu atau dalam apa-apa perkara yang sedang dibincangkan oleh Perbadanan hendaklah menzahirkan hakikat dan
 
 <!-- marginal: jenis -->
 
 kepentingannya itu kepada Perbadanan, dan penzahiran itu hendaklah direkodkan dalam minit Perbadanan dan, melainkan jika dibenarkan secara khusus oleh Pengerusi, anggota itu tidak boleh mengambil bahagian dalam apa-apa perbincangan atau keputusan Perbadanan yang berhubungan dengan kontrak atau perkara itu.
 
-Mint, 7. Perbadanan hendaklah menyebabkan minit segala mesyuarat disenggara dan disimpan dalam bentuk yang sepatutnya.
+<!-- marginal: Mint, -->
+
+7. Perbadanan hendaklah menyebabkan minit segala mesyuarat disenggara dan disimpan dalam bentuk yang sepatutnya.
 
 <!-- page 76 -->
 
@@ -2418,7 +3408,7 @@ II
 
 ## BAHAGIAN
 
-<!-- marginal: III -->
+III
 
 10. Bahagian III memperkatakan skim keretapi.
 
@@ -2430,15 +3420,11 @@ II
 
 ## BAHAGIAN
 
-<!-- marginal: IV -->
+IV
 
 14. Bahagian IV memperkatakan pembinaan dan kerja-kerja.
 
-15. Fasal 11 memperkatakan kuasa-kuasa syarikat keretapi apabila membina sesuatu keretapi atau kemudahan atau kerja-kerja yang berkaitan dengannya. Kuasa-kuasa ini termasuklah kuasa untuk membuat atau membina struktur-struktur sementara, termasuk jambatan, jalan, konduit dan parit dan kuasa untuk mengubah secara sementara haluan mana-mana jalan,
-
-<!-- marginal: lebuh atau jalan lalu. -->
-
-Penjalanan kuasa-kuasa ini adalah, walau bagaimanapun, tertakluk kepada apa-apa arahan yang diberikan oleh Ketua Pengarah. Sesuatu syarikat keretapi, sebelum menjalankan mana-mana kuasa ini, adalah juga dikehendaki memberi notis kepada tuan punya atau penduduk tanah mengenai niatnya memasuki tanah itu.
+15. Fasal 11 memperkatakan kuasa-kuasa syarikat keretapi apabila membina sesuatu keretapi atau kemudahan atau kerja-kerja yang berkaitan dengannya. Kuasa-kuasa ini termasuklah kuasa untuk membuat atau membina struktur-struktur sementara, termasuk jambatan, jalan, konduit dan parit dan kuasa untuk mengubah secara sementara haluan mana-mana jalan, lebuh atau jalan lalu. Penjalanan kuasa-kuasa ini adalah, walau bagaimanapun, tertakluk kepada apa-apa arahan yang diberikan oleh Ketua Pengarah. Sesuatu syarikat keretapi, sebelum menjalankan mana-mana kuasa ini, adalah juga dikehendaki memberi notis kepada tuan punya atau penduduk tanah mengenai niatnya memasuki tanah itu.
 
 16. Fasal 12 memperkatakan kuasa-kuasa syarikat keretapi dalam hal kemalangan.
 

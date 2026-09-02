@@ -75,8 +75,7 @@
       "eli:number": "2",
       "hasPart": [
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/18/msa@/~cl_2__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/18/msa@/~cl_2__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/18/msa@/~cl_2__para_ii"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/18/msa@/~cl_2__para_b"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/18/msa@",
       "schema:text": {
@@ -95,7 +94,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/18/msa@/~cl_2",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subperenggan (bb)(\\) — \"Provided that the total amount of securities so issued shall not at any time exceed fifty per centum of the amount of the General Reserve Fund of the Bank;\"; dan"
+        "@value": "dalam subperenggan (bb)(\\) —"
       }
     },
     {
@@ -115,13 +114,14 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/18/msa@/~cl_2__para_a",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan proviso dengan proviso yang berikut:"
+        "@value": "dengan menggantikan proviso dengan proviso yang berikut: \"Provided that the total amount of securities so issued shall not at any time exceed fifty per centum of the amount of the General Reserve Fund of the Bank;\"; dan"
       }
     },
     {
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/18/msa@/~cl_2__para_b",
       "@type": "akn:paragraph",
       "eli:number": "b",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/18/msa@/~cl_2__para_b__subpara_ii",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/18/msa@/~cl_2",
       "schema:text": {
         "@language": "ms",
@@ -129,10 +129,10 @@
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/18/msa@/~cl_2__para_ii",
-      "@type": "akn:paragraph",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/18/msa@/~cl_2__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
       "eli:number": "ii",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/18/msa@/~cl_2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/18/msa@/~cl_2__para_b",
       "schema:text": {
         "@language": "ms",
         "@value": "purchase, sell and redeem securities issued by the Bank pursuant to subparagraph (bbb)(i) for the purpose of conducting monetary policy operations;\". Pindaan seksyen 30A"

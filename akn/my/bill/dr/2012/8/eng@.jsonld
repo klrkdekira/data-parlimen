@@ -1,0 +1,327 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-8-2012",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_11"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Universities and University Colleges (Amendment) Bill 2012"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Second Schedule to the principal act is amended in subsubsubparagraph 1(a)(iv) in the national language text by deleting the word “tidak” after the words “pemenjaraan selama tempoh yang”. Savings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_11__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all disciplinary actions which are pending under subsection 15(7) of the principal act in relation to matters referred to in paragraphs 15(1)(a) and 15(5)(a) of the principal act against any student of the University shall, on the date of coming into operation of this act, be discontinued."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all actions which are pending under section 16 of the principal act in relation to matters referred to in paragraph 15(5)(a) of the principal act against any organization, body or group of students of the University shall, on the date of coming into operation of this act, be discontinued."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This act may be cited as the Universities and University Colleges (amendment) act 2012."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This act comes into operation on a date to be appointed by the Minister by notification in the Gazette, and the Minister may appoint different dates for the coming into operation of different provisions of this act. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Universities and University Colleges act 1971 [Act 30], which is referred to as the “principal act” in this act, is amended in section 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “Campus” the following definition: ‘ “Campus”, in relation to a University or University College, means— (a) the Campus or branch Campus of the University or University College; (b) the Campus as specified in the order made under subsection 6(1); and (c) the area, together with all buildings or other structures thereon, which belongs to or is used, whether permanently or otherwise, by the University or University College;’; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “Constitution” the following definition: ‘ “Director General” means the Director General of Higher Education appointed under subsection 4c(1) and includes the Deputy Director General appointed under the same subsection;’. New Part IIa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal act is amended by inserting after Part ii the following Part: “PART IIA aDMiNiSTRaTiON Appointment and duty of Director General of Higher Education 4c. (1) The Minister shall appoint a Director General of Higher Education and such number of Deputies Director General. (2) The Director General shall advise the Minister on matters pertaining to higher education. (3) The Director General shall have the functions and exercise the powers conferred on him by this act subject to the general direction and control of the Minister and the Director General shall give effect to such direction issued by the Minister. (4) in the absence of the Director General, the Deputy Director General may exercise his functions and powers. Delegation of functions, powers and duties of the Minister 4d. (1) Except for the powers under sections 4, 4a, 4b, 4c and 12, the Minister may delegate in writing any of his functions, powers or duties to the Director General. (2) any function, power or duty delegated under subsection (1) shall be performed, exercised or discharged by the Director General in the name and on behalf of the Minister. (3) The Director General to whom such functions, powers or duties are delegated under subsection (1) shall be bound to observe and comply with all conditions, limitations or restrictions imposed by the Minister. (4) The delegation under this section shall not preclude the Minister from discharging at any time any of the functions, powers or duties so delegated. (5) The Minister may, at any time, revoke the delegation made under this section.”. Amendment of section 5a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 5a of the principal act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the shoulder note the following shoulder note: “Non-application of Act to university established in the national interest, etc.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (2) the following subsection: “(2) The Yang di-Pertuan agong may, on the advice of the Minister, by order published in the Gazette, authorize the establishment of any higher educational institution having the status of a University, whatever its name or style, if he is satisfied that it is expedient in the national interest that such higher educational institution should be established.”. Substitution of section 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal act is amended by substituting for section 15 the following section: “Activities of students or students’ society, organization, body or group 15. (1) Subject to subsection (2), a student of the University may become a member of any society, organization, body or group of persons, whether in or outside Malaysia, including any political party. (2) a student of the University shall not— (a) become a member of any unlawful society, organization, body or group of persons, whether in or outside Malaysia; (b) become a member of any society, organization, body or group of persons, not being a political party, which the board determines to be unsuitable to the interests and well-being of the students or the University; (c) stand for election to or hold any post in any society, organization, body or group of students in the Campus if the student holds any post in a political party; or (d) be involved in political party activities within the Campus. (3) a student of the University and any society, organization, body or group of students of the University which is established by, under or in accordance with the Constitution, shall not express or do anything which may reasonably be construed as expressing support for or sympathy with or opposition to— (a) any unlawful society, organization, body or group of persons, whether in or outside Malaysia; or (b) any society, organization, body or group of persons which the board determines to be unsuitable to the interests and well-being of the students or the University. (4) Notwithstanding subsection (3), a student of the University shall not be prevented from— (a) making a statement on an academic matter which relates to a subject on which he is engaged in study or research; or (b) expressing himself on the subject referred to in paragraph (a) at a seminar, symposium or similar occasion that is not organized or sponsored by any unlawful society, organization, body or group of persons, whether in or outside Malaysia, or any society, organization, body or group of persons determined by the board under paragraph (3)(b) to be unsuitable to the interests and well-being of the students or the University. (5) The University shall regulate the activities of students and a society, an organization, a body or group of students of the University within the Campus.”. Amendment of section 16b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 16b of the principal act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (9); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (11), by substituting for the word “thirty” the word “sixty”. New Part IVa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal act is amended by inserting after Part iV the following Part: “PART IVA REGiSTER aND DaTabaSE Duty to maintain register 22a. (1) The Director General shall keep and maintain or cause to be kept and maintained a National Higher Education Register containing particulars of— (a) higher educational institutions established under section 6; (b) programmes conducted or provided by higher educational institutions; (c) persons who have been conferred with degrees at doctoral level, including an honorary doctorate; (d) persons who have been appointed as professors and include persons who have been conferred with the title of Royal Professor or Professor Emeritus; and (e) any other matter relating to higher education which he deems necessary. (2) The Director General may make the National Higher Education Register available for public inspection subject to such conditions as he thinks fit. (3) a person may on payment of fees as prescribed by the Minister— (a) inspect the National Higher Education Register; and (b) make a copy of, or take extracts from, the Register. Duty to maintain database 22b. (1) Every higher educational institution established under section 6 shall keep and maintain a database containing particulars of— (a) programmes conducted or provided by higher educational institutions; (b) persons who have been conferred with degrees at doctoral level, including an honorary doctorate; (c) persons who have been appointed as professors and include persons who have been conferred with the title of Royal Professor or Professor Emeritus; and (d) any other matter relating to higher education which he deems necessary. (2) The database mentioned in subsection (1) shall be made accessible to the Minister as he may require.”. New section 24e"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal act is amended by inserting after section 24d the following section: “Power of Minister to make regulations 24e. The Minister may make regulations for all or any of the following purposes: (a) to prescribe the form in which a register shall be kept or maintained under this act, entries to be made therein, provision for the inspection of and taking extracts from the register and the supply of copies thereof and the fees to be paid for such inspection, extracts and copies respectively; (b) to prescribe any other matter which the Minister deems expedient or necessary for the purposes of this act.”. Amendment of First Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_9__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_9__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The First Schedule to the principal act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_9__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_9__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in section 10—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_9__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_9__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (3) the following subsection: “(3) Subject to the provisions of this Constitution, the conditions of appointment of the Registrar, the bursar, the Chief librarian and the legal adviser shall be determined by the board.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_9__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_9__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (3) the following subsections: “(4) a person appointed as the Registrar, the bursar and the legal adviser shall, unless he resigns or vacates his office or his appointment is revoked, hold office for a period of not more than three years and upon expiry of such period, the Registrar, the bursar and the legal adviser shall be eligible for reappointment. (5) a person appointed as the Chief librarian shall hold office for a period as determined by the board. (6) The appointment of the Registrar, the bursar, the Chief librarian and the legal adviser may, at any time, be revoked by the board stating the reason for such revocation.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting section 20a; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_9__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/8/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after section 21 the following section: “Students’ Complaints Committee 21a. (1) There is established a Students’ Complaints Committee which shall consist of— (a) the Vice-Chancellor who shall be the chairman; (b) two members elected by the Students’ Representative Council; (c) two members elected by the Guild of Graduates or the alumni of the University; and (d) two other officers of the University appointed by the board after due regards to the importance of securing a Students’ Complaints Committee which enjoys student confidence. (2) The Students’ Complaints Committee shall have such powers in conducting investigations or inquiries as to any complaint made by a student in the manner as may be prescribed by Statute.”. Amendment of Second Schedule"
+      }
+    }
+  ]
+}

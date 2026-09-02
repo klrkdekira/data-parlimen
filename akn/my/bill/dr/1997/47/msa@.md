@@ -46,7 +46,15 @@ seksyen 73 seksyen yang berikut:
 
 2 Rang Undang-Undang
 
-negligently contributes to the forgery or the making of the unauthorized signature, the signature shall operate and shall be deemed to be the signature of the person it purports to be in favour of any person who in good faith pays the cheque or takes the cheque for value.". 3. Akta ibu adalah dipinda dengan memasukkan selepas baru 74A. seksyen 74 seksyen yang berikut: " Presentment 74A. (1) Notwithstanding section 45, a cheque of cheque is duly presented for payment if the cheque is through presented through a document image processing document image system. processing system. (2) For the purposes of this section, a "document image processing system" means a system which permits all forms of documents to be stored, recorded, retrieved, processed or produced by a computer.
+negligently contributes to the forgery or the making of the unauthorized signature, the signature shall operate and shall be deemed to be the signature of the person it purports to be in favour of any person who in good faith pays the cheque or takes the cheque for value.".
+
+<!-- marginal: Seksyen -->
+
+3. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru 74A. -->
+
+seksyen 74 seksyen yang berikut: " Presentment 74A. (1) Notwithstanding section 45, a cheque of cheque is duly presented for payment if the cheque is through presented through a document image processing document image system. processing system. (2) For the purposes of this section, a "document image processing system" means a system which permits all forms of documents to be stored, recorded, retrieved, processed or produced by a computer.
 
 (3) Where a cheque is presented for payment in accordance with this section, the paying bank may request the collecting bank to—
 
@@ -54,11 +62,15 @@ negligently contributes to the forgery or the making of the unauthorized signatu
 
 (b) exhibit the cheque or a copy of the cheque.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-4. Seksyen 80 Akta ibu adalah dipinda dengan memasukkan seksyen 80. selepas perkataan "a crossed cheque" perkataan "(including a cheque which under section 81A or otherwise is not transferable)".
+4. Seksyen 80 Akta ibu adalah dipinda dengan memasukkan
 
-Seksyen baru
+<!-- marginal: seksyen 80. -->
+
+selepas perkataan "a crossed cheque" perkataan "(including a cheque which under section 81A or otherwise is not transferable)".
+
+<!-- marginal: Seksyen baru -->
 
 5. Akta ibu adalah dipinda di bawah tajuk "Crossed Cheques" dengan memasukkan selepas seksyen 81 seksyen yang berikut: " Non- 8lA. (1) Where a cheque is crossed and bears transferable across its face the words "account payee" or cheque. "a/c payee", either with or without the word
 
@@ -98,6 +110,4 @@ dicadangkan itu memperuntukkan bahawa seseorang jurubank tidaklah cuai jika dia 
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
-
-<!-- marginal: [PN. (U2) 1846.] -->
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN. (U2) 1846.]

@@ -1,0 +1,1019 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-3-1993",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Abattoirs (Privatisation) Bill 1993"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "LICENCE TO OPERATE ABATTOIR, SUSPENSION AND REVOCATION OF LICENCE"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III__cl_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "DUTIES OF A LICENSED OPERATOR"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III__cl_6__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "It shall be the duty of a licensed operator to ensure that the services provided by it meet the performance standards prescribed by the Director General under subsection 15 (2)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A licensed operator shall have due regard to the efficiency, economy and safety of operations in respect ABATTOIRS (PRIVATISATION) of the services provided by it and shall, at all times, ensure that its operations are carried out under hygenic conditions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III__cl_7__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III__cl_7__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III__cl_7__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may require a licensed operator—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III__cl_7__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III__cl_7__subsec_1__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III__cl_7__subsec_1__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to submit to the Director General within three months after the end of each financial year or such longer period as the Director General may allow—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III__cl_7__subsec_1__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III__cl_7__subsec_1__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a report of its operation during that financial year containing such information as is necessary to enable the Government to make an informed assessment of such operation; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III__cl_7__subsec_1__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III__cl_7__subsec_1__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "its audited annual balance sheet and profit and loss account, and the reports of its auditors and directors;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III__cl_7__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III__cl_7__subsec_1__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III__cl_7__subsec_1__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III__cl_7__subsec_1__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to submit to the Director General—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III__cl_7__subsec_1__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III__cl_7__subsec_1__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "such statistical information relating to its operation as may be required by the Government from time to time;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III__cl_7__subsec_1__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III__cl_7__subsec_1__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "its forecast as to the number of animals that would be slaughtered over a specified period, such forecast to be made in such form as may be determined by the Director General from time to time; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III__cl_7__subsec_1__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III__cl_7__subsec_1__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "future development plans relating to any service or facility which it is bound to provide under the conditions of the licence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may require a licensed operator to submit such further or additional information as he may deem necessary either by way of an explanation, amplification or otherwise with reference to any report or information forwarded by the licensed operator under subsection (1) and such information shall be submitted within such period and in such manner as the Director General may require. 8 BILL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_3__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may grant a licence to any person or body of persons whose tender or proposal to operate an abattoir has been accepted by the Government."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_3__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_3__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_3__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_3__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to the generality of subsection (1), every licence issued under this section shall set out"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_3__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the duration of the licence;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_3__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the annual licence fee payable by the licensee;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_3__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the particular duties of the licensee in respect of the services to be provided by it; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_3__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "such other matters or conditions as the Minister thinks fit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The issue of a licence to any person or body of persons under subsection (1) shall not impose any liability on the Government of Malaysia for any loss or damage occasioned by any act, omission or default of such person or body of persons."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_4__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_4__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_4__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_4__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the Director General is satisfied that a licensed operator is contravening, or has contravened and is likely again to contravene, any of the conditions of its licence, the Director General may give notice in writing to the licensed operator requiring it to comply with that condition within the period prescribed in the notice."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If, on the expiry of the period prescribed in such notice, the licensed operator fails to comply with the condition mentioned therein, the Director General shall submit to the Minister a report of such failure by the licensed operator and the report shall be in such form as the Director General considers appropriate."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_4__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_4__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where, after considering the report from the Director General, the Minister is satisfied that the contraventions were, or the apprehended contraventions ABATTOIRS (PRIVATISATION) are, of a serious nature or has affected or is likely to affect public interest or safety and that the licensed operator has refused to take or has not taken all such steps as appear necessary to the Minister for the purpose of securing compliance with the condition in question, the Minister may give to the licensed operator notice stating that he proposes to suspend or revoke, as the case may be, its licence and such notice shall also set out—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_4__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_4__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the condition of the licence which the licensed operator has contravened and the acts or omissions which constitute such contravention; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_4__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_4__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the period (not being less than thirty days from the date of the notice) within which the licensed operator may make representations with respect to the proposed suspension or revocation, as the case may be."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_4__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "After the expiry of the period specified in the notice and after considering any representations made by the licensed operator, if any, the Minister shall decide whether to proceed with the proposed action or to take no further action."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_4__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A notice shall be given by the Minister to the licensed operator of his decision and the decision shall take effect from the date on which the said notice is served on the licensed operator."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_4__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The decision of the Minister under this section shall be final and conclusive."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_5__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_5__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_5__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the Director General is satisfied that a licensed operator has breached or has failed to comply with any of the provisions of this Act or any of the rules made thereunder, he shall submit to the Minister a report of such breach or non-compliance by the licensed operator."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_5__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_5__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where, after considering the report from the Director General, the Minister is satisfied that the 6 BILL breach or non-compliance was of a serious nature or has affected or is likely to affect public interest or safety, he shall give to the licensed operator a notice stating that he proposes to suspend or revoke, as the case may be, its licence and such notice shall also set out—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_5__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the provisions of the Act or the rules made thereunder which the licensed operator has contravened and the acts or omissions which constitute such contravention; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_5__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the period (not being less than thirty days from the date of the notice) within which the licensed operator may make representations with respect to the proposed suspension or revocation, as the case may be."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "After the expiry of the period specified in the notice and after considering any representations made by the licensed operator, if any, the Minister shall decide whether to proceed with the proposed action or to take no further action."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_5__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A notice shall be given by the Minister to the licensed operator of his decision and the decision shall take effect from the date on which the said notice is served on the licensed operator."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_5__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The decision of the Minister under this section shall be final and conclusive."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_IV__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_IV__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_IV__cl_10"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "CHARGES AND FEES"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_IV__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Where the Minister approves a memorandum, with"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "or without any modifications, he shall, as soon as practicable, make the necessary amendments to the rules made pursuant to paragraph 11 (2) (f) in respect of the change in the existing charges and fees. ABATTOIRS (PRIVATISATION)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_IV__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Notwithstanding any provision of this Act or the"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Financial Procedure Act 1957, all charges and fees prescribed under rules made pursuant to paragraph 11 (2) (f) for the provision of abattoir services shall be collected by and shall form part of the revenue of the licensed operator."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_IV__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_IV__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_IV__cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_IV__cl_9__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_IV__cl_9__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_IV__cl_9__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_IV__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A licensed operator may submit to the Minister for his approval a memorandum containing proposals for any change in the existing charges and fees prescribed under paragraph 11 (2) (f)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_IV__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall consider the memorandum submitted within six months of its submission."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_IV__cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_IV__cl_9__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_IV__cl_9__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_IV__cl_9__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_IV__cl_9__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "approve the memorandum subject to such modifications to the proposals contained in the memorandum as he deems fit and proper;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_IV__cl_9__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_IV__cl_9__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "reject the memorandum."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_IV__cl_9__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the Minister rejects the memorandum, the licensed operator may, where there is a change in the circumstances relating to the proposal memorandum, apply to the Minister for a review: Provided that such application for review shall be made before the expiration of thirty days from the date of the notice of rejection of the memorandum."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_IV__cl_9__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall consider an application for review within three months of its submission."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Abattoirs (Privatisation) Act 1993 and shall come into force on such date as the Minister may, by notification in the Gazette, appoint."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall apply throughout Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "\"abattoir\" means any place, with proper meat inspection facilities, for the slaughter of animals specified in the Schedule; \"Director General\" means the Director General of Veterinary Services appointed under section 3 of the Animals Ordinance 1953 and includes the Deputy Director General appointed under the same section; \"licence\" means a licence issued under Part II; \"licenced operator\" means any person or body of persons licensed under Part II to operate an abattoir; \"Minister\" means the Minister charged with the responsibility for abattoir control; \"to operate\" means to build or to manage an abattoir or to provide abattoir services. 4 BILL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V__cl_14"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "RULES, GENERAL PENALTY, OFFENCE BY BODY CORPORATE AND CONDUCT OF PROSECUTION"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI__cl_17"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "MISCELLANEOUS"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI__cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI__cl_15__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI__cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General shall, in addition to the powers conferred and the functions and duties imposed upon him by any written law, exercise regulatory functions in respect of the provision of abattoir services and the running of abattoir facilities by a licensed operator."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI__cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General shall, with the approval of the Minister, by rules, prescribe such standards of performance in the provision of abattoir services as, in his opinion, ought to be achieved by a licensed operator."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Director General and any officer duly"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "authorised by him in writing may, for the purposes of this Act or any of the rules made thereunder, enter upon any of the premises occupied by a licensed operator to inspect and examine the state of such premises or any building or facility therein."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI__cl_17__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI__cl_17__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI__cl_17__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI__cl_17__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI__cl_17__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI__cl_17__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI__cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI__cl_17__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI__cl_17__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Yang di-Pertuan Agong may, on the occurrence of any disease outbreak, industrial unrest, strike, lockout or any other event which gives rise to an emergency, or in the interest of public safety, authorise the Minister to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI__cl_17__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI__cl_17__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "suspend the licence of a licensed operator and take temporary possession of any abattoir of a licensed operator;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI__cl_17__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI__cl_17__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "withdraw either partially or totally the use of any abattoir service or facility from any person or class of persons or from the public at large."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI__cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Yang di-Pertuan Agong may also authorise the Minister or any other officer employed by the Government to operate an abattoir taken possession of under paragraph (1) (a)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI__cl_17__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The licensed operator shall give all necessary assistance whenever required to do so by the Minister or by any officer authorised to operate an abattoir under subsection (2)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI__cl_17__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If any doubt arises as to the existence of an emergency or whether any act done under subsection (1) was in the interest of public safety, a certificate signed by the Yang di-Pertuan Agong and exhibited at such places as the Minister deems fit shall be conclusive proof on the point."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI__cl_17__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the Government takes possession of any abattoir under paragraph (1) (a) the licensed operator shall be paid adequate compensation which shall be determined by the Director General after giving an opportunity to the licensed operator to be heard on the matter."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI__cl_17__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_VI__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any licensed operator who is dissatisfied with the determination or decision of the Director General may appeal therefrom to the Minister. ABATTOIRS (PRIVATISATION)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V__cl_11__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, from time to time, make such rules as may be necessary or expedient for carrying out or achieving the objects and purposes of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V__cl_11__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V__cl_11__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V__cl_11__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V__cl_11__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V__cl_11__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V__cl_11__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V__cl_11__subsec_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V__cl_11__subsec_2__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to the generality of subsection (1), rules may be made—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V__cl_11__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V__cl_11__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to provide for the control by the Director General of any project carried out by a licensed operator for the improvement and development of facilities and services at any abattoir;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V__cl_11__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V__cl_11__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to provide for the design and specifications of new abattoirs;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V__cl_11__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V__cl_11__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to regulate the safe use of abattoirs and premises under the control of a licensed operator;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V__cl_11__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V__cl_11__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to provide for the cleanliness of abattoirs and premises within the limits of abattoirs, and to prevent pollution of the surroundings;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V__cl_11__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V__cl_11__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to provide for the safety of persons employed in an abattoir;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V__cl_11__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V__cl_11__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe such fees or charges as may be necessary for the purposes of this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V__cl_11__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V__cl_11__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to ensure proper control over the slaughter of animals; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V__cl_11__subsec_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V__cl_11__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "generally to give effect to the provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Any licensed operator who contravenes or fails to"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "comply with any of the conditions of the licence or any of the provisions of this Act or any of the rules made thereunder for which no penalty is expressly provided shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding five years or to both. 10 BILL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Where an offence under this Act or under any of"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "the rules made thereunder is committed by a body corporate (whether or not the body corporate has been prosecuted), every director, secretary or manager of the body corporate shall be deemed to be guilty of the offence unless he proves that the offence was committed without his consent or connivance and that he had exercised all due diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances of the case."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~part_V",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Prosecutions in respect of offences committed under"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "this Act or any rules made thereunder may be conducted by the Director General or any officer or servant of the Government specially authorised in that behalf by the Director General."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/3/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "(Section 2) Oxen/Buffalo Goat/Sheep Pig/Sow"
+      }
+    }
+  ]
+}

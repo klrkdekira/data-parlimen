@@ -48,9 +48,21 @@ Akta 89. (i) Akta Insurans 1963;
 
 boleh memegang syer-syer, sama ada secara individu atau dengan seseorang lain, dalam suatu syarikat luar pesisir, tetapi sesuatu syarikat amanah yang merupakan syarikat domestik hanya boleh memegang syer-syer itu sebagai pemegang amanah atau penama.".
 
-Pindaan 3. Seksyen 29 Akta ibu adalah dipinda dengan seksyen 29. menggantikan perkataan-perkataan "dan mana-mana orang" di dalam subseksyen (2) dengan perkataan- perkataan "kecuali oleh suatu syarikat luar pesisir atau syarikat luar pesisir asing yang diberi lesen di bawah Akta Bank Luar pesisir 1990 dan mana-mana orang, selain daripada suatu syarikat luar pesisir atau syarikat luar pesisir asing yang diberi lesen sedemikian di bawah Akta itu,".
+<!-- marginal: Pindaan -->
 
-4. Seksyen 31 Akta ibu adalah dipinda dengan Pindaan seksyen 31. menggantikan subseksyen (6) dengan yang berikut:
+3. Seksyen 29 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 29. -->
+
+menggantikan perkataan-perkataan "dan mana-mana orang" di dalam subseksyen (2) dengan perkataan- perkataan "kecuali oleh suatu syarikat luar pesisir atau syarikat luar pesisir asing yang diberi lesen di bawah Akta Bank Luar pesisir 1990 dan mana-mana orang, selain daripada suatu syarikat luar pesisir atau syarikat luar pesisir asing yang diberi lesen sedemikian di bawah Akta itu,".
+
+4. Seksyen 31 Akta ibu adalah dipinda dengan
+
+<!-- marginal: Pindaan -->
+
+<!-- marginal: seksyen 31. -->
+
+menggantikan subseksyen (6) dengan yang berikut:
 
 "(6) Dalam seksyen ini, "syarikat ditetapkan" ertinya—
 
@@ -58,7 +70,13 @@ Pindaan 3. Seksyen 29 Akta ibu adalah dipinda dengan seksyen 29. menggantikan pe
 
 (b) suatu syarikat luar pesisir atau syarikat luar pesisir asing atau syarikat amanah yang telah diisytiharkan oleh Menteri melalui notis yang disiarkan dalam Warta sebagai suatu syarikat ditetapkan bagi maksud-maksud seksyen ini.".
 
-Pindaan 5. Seksyen 87 Akta ibu adalah dipinda dengan seksyen 87. menggantikan noktah yang terdapat pada akhir subseksyen (2) dengan noktah bertindih dan memasukkari selepas itu proviso baru yang berikut:
+<!-- marginal: Pindaan -->
+
+5. Seksyen 87 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 87. -->
+
+menggantikan noktah yang terdapat pada akhir subseksyen (2) dengan noktah bertindih dan memasukkari selepas itu proviso baru yang berikut:
 
 "Dengan syarat bahawa seorang pegawai suatu syarikat domestik atau asing yang diberi lesen atau didaftarkan di bawah Akta Insurans 1963, Akta Bank
 
@@ -100,7 +118,13 @@ memasukkan, seiepas sahaja perkataan-perkataan "akaun-akaun teraudit" dalam bari
 
 <!-- page 4 -->
 
-9. Akta ibu adalah dipinda dengan memasukkan, selepas baru 113A. sahaja seksyen 113, seksyen baru 113A yang berikut:
+<!-- marginal: Seksyen -->
+
+9. Akta ibu adalah dipinda dengan memasukkan, selepas
+
+<!-- marginal: baru 113A. -->
+
+sahaja seksyen 113, seksyen baru 113A yang berikut:
 
 "Juruaudit 113A. Suatu syarikat luar pesisir
 
@@ -120,7 +144,17 @@ mendepositkan wang dengan, atau memberi pinjaman wang kepada, syarikat itu; dan
 
 (c) anggota-anggota syarikat itu membuat ketetapan sedemikian pada mesyuarat anggota-anggota syarikat itu yang perlantikan sedemikian tidak perlu dibuat berkenaan dengan setiap tahun kewangan.".
 
-10. Akta ibu adalah dipinda dengan memasukkan baru 150, selepas sahaja seksyen 149, seksyen baru 150, 151 dan 151 dan 152, 152 yang berikut:
+<!-- marginal: Seksyen -->
+
+10. Akta ibu adalah dipinda dengan memasukkan
+
+<!-- marginal: baru 150, -->
+
+selepas sahaja seksyen 149, seksyen baru 150, 151 dan
+
+<!-- marginal: 151 dan 152, -->
+
+152 yang berikut:
 
 "Kuasa 150. Menteri boleh, atas syor Pendaftar, atas mengecuali- permohonan secara bertulis, mengecualikan kan. mana-mana syarikat luar pesisir atau syarikat
 
@@ -210,6 +244,4 @@ Rang Undang-Undang ini bertujuan meminda Akta Syarikat Luar Pesisir 1990.
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
-
-<!-- marginal: [PN. (U2) 1665.] -->
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN. (U2) 1665.]

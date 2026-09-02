@@ -1,0 +1,325 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-7-1993",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_9"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Keterangan (Pindaan) 1993"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Keterangan (Pindaan) 1993."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_2__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_2__list_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_2__list_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 3 Akta Keterangan 1950, yang disebut"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "\"Akta ibu\" dalam Akta ini, adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_2__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_2__list_1__para_a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_2__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_2__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan takrif \"dokumen\" dengan yang berikut: ' \"dokumen\" ertinya apa-apa hal yang dinyatakan, diperihalkan, atau bagaimana jua pun digambarkan, atas apa-apa benda, bahan, barang atau artikel, termasuklah apa-apa hal yang terkandung dalam cakera, pita, filem, runut bunyi atau apa jua pun peranti lain, dengan menggunakan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_2__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_2__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_2__list_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_2__list_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_2__list_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_2__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_2__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "huruf, angka, tanda, simbol, isyarat, lambang, atau apa jua pun bentuk pernyataan, perihalan, atau gambaran lain; RANG UNDANG-UNDANG"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_2__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_2__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa rakaman visual (sama ada imej kaku atau bergerak);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_2__list_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_2__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa rakaman bunyi, atau apa-apa jua pun rakaman elektronik, magnetik, mekanikal atau rakaman lain dan walau bagaimana jua pun dibuat, atau apa-apa bunyi, dedenyut elektronik, atau apa jua pun data lain;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_2__list_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_2__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu rakaman, atau pemancaran, dari suatu jarak, apa-apa hal dengan mana- mana, atau apa-apa kombinasi, cara yang disebut dalam perenggan (a), (b) atau (c), atau dengan lebih daripada satu cara yang disebut dalam perenggan (a), (b), (c) dan (d), yang dimaksudkan untuk digunakan atau yang mungkin digunakan bagi tujuan menyatakan, memperihalkan, atau dengan apa jua cara sekalipun menggambarkan, hal itu; MlSALAN Tulisan ialah dokumen. Perkataan yang dicetak, dilitografkan atau difotografkan ialah dokumen. Peta, pelan, graf atau lakaran ialah dokumen. Inskripsi pada kayu, logam, batu, atau apa-apa benda, bahan atau barang lain ialah dokumen. Lukisan, citra, gambar atau karikatur ialah dokumen. Fotograf atau negatif ialah dokumen. Rakaman pita komunikasi telefon, termasuklah rakaman komunikasi sedemikian yang dipancarkan dari suatu jarak, ialah dokumen. KETERANGAN (PINDAAN) 3 Rakaman fotografi atau rakaman visual lain, termasuklah rakaman pemancaran fotografi atau pemancaran visual lain dari suatu jarak, ialah dokumen. Hal yang dirakamkan, disimpan, diproses, didapatkan semula atau dikeluarkan oleh komputer ialah dokumeii.';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_2__list_3",
+      "@type": "akn:list",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_2__list_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_2__list_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_2__list_3__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_2__list_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_2__list_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan, selepas takrif \"fakta isu\", takrif baru yang berikut: ' \"filem\" termasuk mikrofilem dan apa- apa negatif;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_2__list_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_2__list_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan, selepas takrif \"keterangan\" takrif baru yang berikut: ' \"komputer\" ertinya apa-apa peranti bagi merekodkan, menyimpan, memproses, mendapatkan semula atau mengeluarkan apa- apa maklumat atau hal lain, atau bagi melaksanakan mana-mana satu fungsi itu atau lebih, tidak kira dengan nama atau perihalan apa pun peranti itu disebut; dan jika dua komputer atau lebih menjalankan mana-mana satu fungsi itu atau lebih dalam satu kombinasi atau berturutan atau walau bagaimana jua pun selainnya disatukan, komputer-komputer itu hendaklah dikira sebagai satu komputer; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_2__list_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_2__list_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan, selepas takrif \"mahkamah\" takrif-takrif baru yang berikut: ' \"mikrofilem\" ertinya apa-apa bahan lutsinar yang mempunyai imej visual dalam saiz yang dikurangkan sama ada secara tunggal atau sebagai suatu siri dan termasuk mikrofis; \"negatif\" ertinya suatu fotograf negatif lutsinar pada apa-apa benda atau bahan, dan termasuk apa-apa fotograf negatif lutsinar yang dibuat daripada fotograf negatif asal; RANG UNDANG-UNDANG"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan, di"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bawah subtajuk \"Pengakuan dan Pengakuan Salah\", seksyen baru 31 A yang berikut selepas seksyen 31: 3 l A. (1) Jika dalam mana-mana prosiding jenayah, suatu pernyataan, sama ada bertulis atau lisan, yang dibuat oleh mana-mana orang yang dipertuduh atas suatu kesalahan, diterima sebagai keterangan di bawah atau menurut kuasa mana-mana undang-undang bertulis, maka, walau apa jua pun yang terkandung dalam undang-undang bertulis itu, pernyataan itu tidak boleh diterima sebagai keterangan, atau dikemukakan dalam, atau diper- timbangkan oleh, mahkamah, melainkan jika keterangan tentang pernyataan itu diberikan— (a) oleh pegawai yang kepadanya per- nyataan itu dibuat; atau (b) oleh orang yang dipertuduh atas kesalahan itu. (2) Subseksyen (1) tidaklah menyentuh pemakaian peruntukan seksyen 90A, 90s, 90c, 145 dan 155.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 32 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah pada penghujung perenggan (h) dengan koma bernoktah dan memasukkan, selepas perenggan (h), perenggan baru (i) dan (j) yang berikut: \"(i) apabila pernyataan itu dibuat dalam penjalanan, atau bagi tujuan, suatu penyiasatan atau siasatan mengenai suatu kesalahan di bawah atau menurut kuasa mana-mana undang-undang bertulis; dan (j) jika pernyataan itu dibuat oleh pegawai awam pada menjalankan tugas- tugasnya.\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula seksyen 32 sebagai subseksyen (1) seksyen 32 dan memasukkan, selepas subseksyen (1) itu, subseksyen baru (2) seperti yang berikut: \"(2) Peruntukan-peruntukan perenggan (i) dan (j) subseksyen (1) hendaklah terpakai hanya berhubungan dengan prosiding jenayah.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen (3) seksyen 60 Akta ibu adalah"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"lain daripada\" dengan perkataan \"termasuk\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"benda itu\" perkataan \"atau dokumen itu\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 62 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memasukkan, selepas Huraian 2, Huraian 3 baru seperti yang berikut: \"'Huraian 3 - Suatu dokumen yang dikeluarkan oleh komputer adalah keterangan primer.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 63 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan perkataan \"melihat sendiri dokumen itu\" dalam perenggan (e) dengan perkataan \"melihat atau mendengar sendiri dokumen itu atau menanggapinya sendiri dengan apa jua cara.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan,"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "selepas seksyen 78, seksyen 78A baru yang berikut: \"Bukti 78A. Walau apa pun apa-apa jua yang dokumen terkandung dalam seksyen 77 dan 78, awam yang di- peruntukan seksyen 90A, 90s dan 90c keluarkan hendaklah terpakai bagi dokumen awam.\". oleh komputer RANG UNDANG-UNDANG"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan, dalam"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bab V, selepas seksyen 90, subtajuk baru dan seksyen baru 90A, 90B, dan 90C yang berikut: \" Dokumen Yang Dikeluarkan Oleh Komputer 90A. (1) Dalam mana-mana presiding jenayah atau sivil sesuatu dokumen yang dikeluarkan oleh komputer, atau sesuatu pernyataan yang terkandung dalam dokumen itu, hendaklah boleh diterima sebagai keterangan mengenai apa-apa fakta yang dinyatakan dalamnya jika dokumen itu telah dikeluarkan oleh komputer itu dalam perjalanan penggunaannya yang biasa, sama ada atau tidak seseorang yang mengemukakan dokumen itu adalah pembuat dokumen atau pernyataan itu. (2) Bagi maksud seksyen ini bolehlah dibuktikan bahawa sesuatu dokumen telah dikeluarkan oleh komputer dalam perjalanan penggunaannya yang biasa dengan mengemukakan kepada mahkamah suatu perakuan yang telah ditandatangani oleh seseorang yang sama ada sebelum atau selepas pengeluaran dokumen itu oleh komputer itu adalah bertanggungjawab bagi pengurusan pengendalian komputer itu, atau bagi perjalanan aktiviti-aktiviti yang baginya komputer itu digunakan. (3) (a) Adalah mencukupi, dalam sesuatu perakuan yang diberikan di bawah subseksyen (2), jika suatu hal dinyatakan sepanjang pengetahuan dan kepercayaan orang yang menyatakannya. (b) Sesuatu perakuan yang diberikan di bawah subseksyen (2) boleh diterima sebagai keterangan sebagai bukti prima facie bagi semua hal yang dinyatakan dalamnya tanpa bukti tandatangan orang yang memberikan perakuan itu. KETERANGAN (PINDAAN) 7 (4) Jika sesuatu perakuan diberikan di bawah subseksyen (2), hendaklah dianggap bahawa komputer yang disebut dalam perakuan itu adalah dalam keadaan yang baik dan beroperasi dengan baik dari segala segi sepanjang bahagian material tempoh dokumen itu dikeluarkan. (5) Sesuatu dokumen hendaklah disifatkan telah dikeluarkan oleh komputer sama ada ia telah dikeluarkan olehnya secara langsung atau dengan menggunakan apa-apa kelengkapan yang sesuai, dan sama ada atau tidak terdapat apa-apa campur tangan manusia secara langsung atau tidak langsung. (6) Sesuatu dokumen yang dikeluarkan oleh komputer, atau sesuatu pernyataan yang terkandung dalam dokumen itu, boleh diterima sebagai keterangan sama ada atau tidak ia dikeluarkan oleh komputer itu selepas bermulanya presiding jenayah atau sivil atau selepas bermulanya apa-apa penyiasatan atau siasatan berhubungan dengan presiding jenayah atau sivil atau penyiasatan atau siusatan i t u, dan apa-apa dokumen yang dikeluarkan sedemikian oleh komputer itu hendaklah disifatkan telah dikeluarkan oleh komputer itu dalam perjalanan penggunaannya yang biasa. (7) Walau apa pun apa-apa jua yang terkandung dalam seksyen ini, sesuatu dokumen yang dikeluarkan oleh komputer, atau sesuatu pernyataan yang terkandung dalam dokumen itu, tidak boleh diterima dalam keterangan dalam apa-apa presiding jenayah, jika ia diberikan sebagai keterangan oleh atau bagi pihak orang yang dipertuduh alas suatu kesalahan dalam presiding itu jika orang yang dipertuduh atas kesalahan itu ialah orang yang— (a) bertanggungjawab bagi pengurusan pengendalian komputer itu atau bagi RANG UNDANG-UNDANG perjalanan aktiviti-aktiviti yang baginya komputer itu digunakan; atau (b) dengan apa-apa cara atau sehingga apa- apa takat terlibat, secara langsung atau tidak langsung, dalam pengeluaran dokumen itu oleh komputer itu. 90B. Dalam menganggarkan nilai, jika ada, yang hendak diberikan kepada sesuatu dokumen, atau sesuatu pernyataan yang terkandung daiam suatu dokumen, yang diterima menurut kuasa 90A, mahkamah— (a) boleh membuat apa-apa kesimpulan yang munasabah daripada hal keadaan yang berhubungan dengan dokumen atau pernyataan itu, termasuklah cara dan tujuan pewujudannya, atau ketepatannya atau selainnya; (b) hendaklah mengambil kira— (i) lat masa antara berlakunya atau wujudnya fakta-fakta yang dinyatakan dalam dokumen atau pernyataan itu dengan pem- bekalan maklumat atau hal yang relevan itu ke dalam komputer; dan (ii) sama ada atau tidak orang yang membekalkan, atau mana-mana orang yang terlibat dalam pembekalan, maklumat itu atau penjagaan dokumen itu, atau dokumen yang mengandungi pernyataan itu, mempunyai apa- apa insentif untuk menyem- bunyikan atau menyalahnyatakan semua atau mana-mana fakta yang dinyatakan dalam dokumen atau pernyataan itu. KETERANGAN (PINDAAN) Seksyen 9A 90c. Peruntukan seksyen 90A dan 90s dan 90B hendaklah mengatasi dan mempunyai kuat- mengatasi penintukan- kuasa dan kesan sepenuhnya walau apa pun peruntukan apa-apa jua yang tak konsisten dengannya, lain Akta atau berlawanan dengannya, yang terkandung ini, Akta Buku Juru- dalam mana-mana peruntukan lain Akta ini, bank (Ke- atau dalam Akta Buku Jurubank (Keterangan) terangan) 1949, dan 1949, atau dalam mana-mana peruntukan mana-mana mana-mana undang-undang bertulis yang undang- undang berhubungan dengan pemerakuan, pengeluaran bertulis. atau pencabutan dokumen-dokumen atau Akta 33. dalam mana-mana rukun undang-undang atau amalan yang berhubungan dengan penge- mukaan, penerimaan, atau pembuktian, keterangan dalam mana-mana presiding jenayah atau sivil.\"."
+      }
+    }
+  ]
+}

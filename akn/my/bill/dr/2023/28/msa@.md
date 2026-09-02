@@ -8,29 +8,33 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran 3. Pemakaian
 
-## Bahagian II
+## BAHAGIAN II
 
 ## FUNGSI DAN KUASA SURUHANJAYA
 
 4. Fungsi dan kuasa Suruhanjaya
 
-## Bahagian III
+## BAHAGIAN III
 
 ## KEWAJIPAN PENGGUNA TENAGA
 
 5. Pelantikan pengurus tenaga berdaftar 6. Sistem pengurusan tenaga 7. Laporan kecekapan dan konservasi tenaga 8. Audit tenaga 9. Laporan audit tenaga
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## KEWAJIPAN ORANG YANG BERTANGGUNGJAWAB BAGI BANGUNAN
 
-10. Label intensiti tenaga 11. Mempamerkan label intensiti tenaga 12. Pengubahan, pemalsuan, dsb., label intensiti tenaga
+10. Label intensiti tenaga
+
+11. Mempamerkan label intensiti tenaga
+
+12. Pengubahan, pemalsuan, dsb., label intensiti tenaga
 
 <!-- page 3 -->
 
@@ -42,7 +46,7 @@
 
 16. Ketidakpakaian seksyen 13, 14 dan 15
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PERUNTUKAN YANG BERHUBUNGAN DENGAN PRODUK
 
@@ -64,7 +68,7 @@
 
 24. Kewajipan untuk menyimpan rekod dan dokumen oleh pengilang berdaftar dan pengimport berdaftar
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PENDAFTARAN PENGURUS TENAGA DAN JURUAUDIT TENAGA
 
@@ -80,7 +84,7 @@
 
 30. Pembatalan perakuan pendaftaran pengurus tenaga berdaftar dan juruaudit tenaga berdaftar
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PENDAFTARAN INSTITUSI LATIHAN
 
@@ -92,23 +96,69 @@
 
 <!-- page 4 -->
 
-34. Permohonan bagi perakuan amalan institusi latihan berdaftar 35. Pembaharuan perakuan amalan institusi latihan berdaftar 36. Pembatalan perakuan pendaftaran institusi latihan berdaftar
+34. Permohonan bagi perakuan amalan institusi latihan berdaftar
 
-## Bahagian VIII
+35. Pembaharuan perakuan amalan institusi latihan berdaftar
+
+36. Pembatalan perakuan pendaftaran institusi latihan berdaftar
+
+## BAHAGIAN VIII
 
 ## KUASA MENGUMPULKAN MAKLUMAT
 
-37. Kajian semula dan audit pengguna tenaga, dsb. 38. Kuasa untuk menghendaki pemberian maklumat, dsb. 39. Suruhanjaya boleh memegang simpan dokumen 40. Akses kepada rekod
+37. Kajian semula dan audit pengguna tenaga, dsb.
 
-## Bahagian IX
+38. Kuasa untuk menghendaki pemberian maklumat, dsb.
+
+39. Suruhanjaya boleh memegang simpan dokumen
+
+40. Akses kepada rekod
+
+## BAHAGIAN IX
 
 ## PENGUATKUASAAN
 
-41. Pegawai diberi kuasa 42. Kad kuasa 43. Kuasa penyiasatan 44. Kuasa untuk memasuki premis dan memeriksa, dsb., dokumen, rekod, dsb. 45. Penggeledahan dan penyitaan dengan waran 46. Penggeledahan dan penyitaan tanpa waran 47. Akses kepada maklumat berekod atau data berkomputer, dsb. 48. Pemberian maklumat 49. Waran geledah boleh diterima walaupun cacat 50. Senarai dokumen, dsb., yang disita 51. Pelucuthakan dokumen, dsb., yang disita 52. Pelepasan dokumen, dsb., yang disita 53. Kos memegang dokumen dsb., yang disita 54. Tiada kos atau ganti rugi yang berbangkit daripada penyitaan boleh didapatkan kembali 55. Kuasa untuk menghendaki kehadiran orang yang mengetahui kes 56. Halangan 57. Keterangan ejen provokasi boleh diterima 58. Mengambil sampel 59. Pemusnahan, penyembunyian, pencacatan dan pengubahan dokumen, dsb.
+41. Pegawai diberi kuasa
+
+42. Kad kuasa
+
+43. Kuasa penyiasatan
+
+44. Kuasa untuk memasuki premis dan memeriksa, dsb., dokumen, rekod, dsb.
+
+45. Penggeledahan dan penyitaan dengan waran
+
+46. Penggeledahan dan penyitaan tanpa waran
+
+47. Akses kepada maklumat berekod atau data berkomputer, dsb.
+
+48. Pemberian maklumat
+
+49. Waran geledah boleh diterima walaupun cacat
+
+50. Senarai dokumen, dsb., yang disita
+
+51. Pelucuthakan dokumen, dsb., yang disita
+
+52. Pelepasan dokumen, dsb., yang disita
+
+53. Kos memegang dokumen dsb., yang disita
+
+54. Tiada kos atau ganti rugi yang berbangkit daripada penyitaan boleh didapatkan kembali
+
+55. Kuasa untuk menghendaki kehadiran orang yang mengetahui kes
+
+56. Halangan
+
+57. Keterangan ejen provokasi boleh diterima
+
+58. Mengambil sampel
+
+59. Pemusnahan, penyembunyian, pencacatan dan pengubahan dokumen, dsb.
 
 <!-- page 5 -->
 
-## Bahagian X
+## BAHAGIAN X
 
 AM
 
@@ -136,11 +186,11 @@ AM
 
 71. Kecualian
 
-## Jadual Pertama
+## JADUAL PERTAMA
 
-## Jadual Kedua
+## JADUAL KEDUA
 
-## Jadual Ketiga
+## JADUAL KETIGA
 
 <!-- page 6 -->
 
@@ -152,7 +202,7 @@ Suatu Akta untuk mengawal selia penggunaan cekap tenaga dan konservasi tenaga de
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -258,7 +308,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (5) Bagi maksud perenggan (1)(a), penggunaan tenaga hendaklah berkenaan dengan suatu aktiviti, perniagaan atau perdagangan pengguna tenaga yang dijalankan di satu tempat.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## FUNGSI DAN KUASA SURUHANJAYA
 
@@ -304,7 +354,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (4) Fungsi dan kuasa Suruhanjaya di bawah Akta ini adalah sebagai tambahan kepada, dan tidak mengurangkan, fungsi dan kuasa Suruhanjaya di bawah Akta Suruhanjaya Tenaga 2001.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## KEWAJIPAN PENGGUNA TENAGA
 
@@ -410,7 +460,7 @@ Suruhanjaya boleh mengarahkan pengguna tenaga itu untuk membetulkan laporan audi
 
 (10) Mana-mana pengguna tenaga yang tidak mengemukakan laporan audit tenaga di bawah subseksyen (2) atau (8) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## KEWAJIPAN ORANG YANG BERTANGGUNGJAWAB
 
@@ -526,7 +576,7 @@ Suruhanjaya boleh mengarahkan orang yang bertanggungjawab bagi bangunan itu untu
 
 <!-- page 22 -->
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PERUNTUKAN YANG BERHUBUNGAN DENGAN PRODUK
 
@@ -648,7 +698,7 @@ Suruhanjaya boleh mengarahkan orang yang bertanggungjawab bagi bangunan itu untu
 
 (2) Mana-mana pengilang berdaftar atau pengimport berdaftar yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PENDAFTARAN PENGURUS TENAGA DAN JURUAUDIT TENAGA
 
@@ -750,7 +800,7 @@ Suruhanjaya boleh mengarahkan orang yang bertanggungjawab bagi bangunan itu untu
 
 (2) Apabila perakuan pendaftaran dibatalkan, kedua-dua perakuan pendaftaran dan perakuan amalan yang dikeluarkan di bawah subseksyen 27(3) dan 28(3) masing-masing, hendaklah menjadi tidak sah dari tarikh notis bertulis yang dikeluarkan oleh Suruhanjaya di bawah subseksyen (1) dan pengurus tenaga atau juruaudit tenaga itu tidak dibenarkan untuk memfailkan apa-apa permohonan baharu untuk didaftarkan di bawah Akta ini.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PENDAFTARAN INSTITUSI LATIHAN
 
@@ -840,7 +890,7 @@ melainkan jika institusi latihan itu telah berdaftar di bawah Akta ini dan memeg
 
 (2) Apabila perakuan pendaftaran dibatalkan, kedua-dua perakuan pendaftaran dan perakuan amalan yang dikeluarkan di bawah subseksyen 33(3) dan 34(3) masing-masing, hendaklah menjadi tidak sah dari tarikh notis bertulis yang dikeluarkan oleh Suruhanjaya di bawah subseksyen (1) dan institusi latihan itu tidak dibenarkan untuk memfailkan apa-apa permohonan baharu untuk didaftarkan di bawah Akta ini.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## KUASA MENGUMPULKAN MAKLUMAT
 
@@ -928,7 +978,7 @@ termasuk suatu perisytiharan bahawa dia tidak menyedari mengenai apa-apa makluma
 
 (2) Mana-mana orang yang tidak mematuhi notis bertulis di bawah subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua puluh ribu ringgit.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## PENGUATKUASAAN
 
@@ -1166,7 +1216,7 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi 
 
 apa-apa dokumen, rekod, data berkomputer, data berdigital, pelan, lukisan, bahan, loji, kelengkapan, jentera, barang, produk menggunakan tenaga, produk, label, item atau benda yang disimpan atau disenggarakan untuk memfraud pegawai diberi kuasa atau Suruhanjaya atau untuk menyekat, melengahkan atau menghalang penjalanan suatu penyiasatan atau penjalanan mana-mana kuasa oleh pegawai diberi kuasa atau Suruhanjaya di bawah Akta ini melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.
 
-## Bahagian X
+## BAHAGIAN X
 
 AM
 
@@ -1360,7 +1410,7 @@ fungsi dan kewajipan pengurus tenaga berdaftar di bawah Akta ini sehingga tarikh
 
 (2) Apa-apa produk menggunakan tenaga yang berkenaan dengannya suatu perakuan kelulusan yang sah telah dikeluarkan di bawah Akta Bekalan Elektrik 1990 sebelum tarikh permulaan kuat kuasa Akta ini hendaklah, pada tarikh permulaan kuat kuasa Akta ini, disifatkan telah dikeluarkan berkenaan dengannya suatu perakuan kecekapan tenaga di bawah Akta ini sehingga tarikh habis tempoh perakuan kelulusan itu, dengan syarat bahawa permohonan bagi suatu perakuan kecekapan tenaga berkenaan dengan produk menggunakan tenaga telah dibuat di bawah Akta ini.
 
-## Jadual Pertama
+## JADUAL PERTAMA
 
 [Seksyen 2]
 
@@ -1400,17 +1450,35 @@ fungsi dan kewajipan pengurus tenaga berdaftar di bawah Akta ini sehingga tarikh
 
 <!-- page 62 -->
 
-17. Biogas 18. Biodiesel 19. Arang 20. Tandan buah kosong (EFB) 21. Kayu api 22. Serat mesokarp 23. Tempurung inti sawit (PKS)
+17. Biogas
 
-## Jadual Kedua
+18. Biodiesel
+
+19. Arang
+
+20. Tandan buah kosong (EFB)
+
+21. Kayu api
+
+22. Serat mesokarp
+
+23. Tempurung inti sawit (PKS)
+
+## JADUAL KEDUA
 
 [Seksyen 2]
 
 ## TENAGA
 
-1. Elektrik 2. Air kokol 3. Stim 4. Air panas
+1. Elektrik
 
-## Jadual Ketiga
+2. Air kokol
+
+3. Stim
+
+4. Air panas
+
+## JADUAL KETIGA
 
 [Perenggan 3(1)(b)]
 
@@ -1424,7 +1492,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengawal se
 
 <!-- page 63 -->
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I Akta yang dicadangkan memperkatakan perkara permulaan.
 
@@ -1434,13 +1502,13 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengawal se
 
 5. Fasal 3 mengandungi peruntukan mengenai pemakaian Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 6. Bahagian II Akta yang dicadangkan memperkatakan fungsi dan kuasa Suruhanjaya di bawah Akta yang dicadangkan.
 
 7. Fasal 4 menyatakan fungsi dan kuasa Suruhanjaya di bawah Akta yang dicadangkan. Antara fungsi Suruhanjaya adalah untuk menasihati Menteri tentang segala perkara yang berhubungan dengan kecekapan dan konservasi tenaga dan untuk mengesyorkan kepada Kerajaan dasar, undang-undang, tindakan dan langkah-langkah yang berhubungan dengan kecekapan dan konservasi tenaga. Suruhanjaya hendaklah mempunyai kuasa untuk melakukan semua perkara yang suai manfaat atau secara munasabahnya perlu bagi atau bersampingan dengan pelaksanaan fungsinya di bawah Akta yang dicadangkan. Fasal ini juga memperuntukkan bahawa fungsi dan kuasa Suruhanjaya di bawah Akta yang dicadangkan adalah sebagai tambahan kepada, dan tidak mengurangkan, fungsi dan kuasa Suruhanjaya di bawah Akta Suruhanjaya Tenaga 2001 [Akta 610].
 
-## Bahagian III
+## BAHAGIAN III
 
 8. Bahagian III Akta yang dicadangkan memperkatakan kewajipan pengguna tenaga.
 
@@ -1456,7 +1524,7 @@ Fasal 7 bertujuan untuk menghendaki pengurus tenaga berdaftar yang dilantik oleh
 
 13. Fasal 9 bertujuan untuk menghendaki juruaudit tenaga berdaftar yang dilantik oleh pengguna tenaga yang baginya Akta yang dicadangkan terpakai di bawah subfasal 8(2) Akta yang dicadangkan untuk menyediakan suatu laporan audit tenaga berdasarkan audit tenaga yang dijalankan di bawah subfasal 8(1) Akta yang dicadangkan mengikut garis panduan yang dikeluarkan oleh Suruhanjaya. Fasal ini menghendaki pengguna tenaga untuk mengemukakan laporan audit tenaga itu kepada Suruhanjaya.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 14. Bahagian IV Akta yang dicadangkan memperkatakan kewajipan orang yang bertanggungjawab bagi bangunan.
 
@@ -1476,7 +1544,7 @@ Fasal 7 bertujuan untuk menghendaki pengurus tenaga berdaftar yang dilantik oleh
 
 21. Fasal 16 bertujuan untuk memperuntukkan bahawa fasal 13, 14 dan 15 tidak terpakai berkenaan dengan bangunan yang orang yang bertanggungjawab bagi bangunan itu juga merupakan seorang pengguna tenaga yang baginya Akta yang dicadangkan terpakai.
 
-## Bahagian V
+## BAHAGIAN V
 
 22. Bahagian V Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan produk menggunakan tenaga.
 
@@ -1498,7 +1566,7 @@ Fasal 22 bertujuan untuk mengadakan peruntukan mengenai permohonan bagi pembahar
 
 30. Fasal 24 bertujuan untuk mengadakan peruntukan bagi kewajipan untuk menyimpan rekod dan dokumen oleh pengilang berdaftar dan pengimport berdaftar.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 31. Bahagian VI Akta yang dicadangkan memperkatakan pendaftaran pengurus tenaga dan juruaudit tenaga.
 
@@ -1516,7 +1584,7 @@ Fasal 22 bertujuan untuk mengadakan peruntukan mengenai permohonan bagi pembahar
 
 <!-- page 67 -->
 
-## Bahagian VII
+## BAHAGIAN VII
 
 38. Bahagian VII Akta yang dicadangkan memperkatakan pendaftaran institusi latihan.
 
@@ -1532,7 +1600,7 @@ Fasal 22 bertujuan untuk mengadakan peruntukan mengenai permohonan bagi pembahar
 
 44. Fasal 36 bertujuan untuk mengadakan peruntukan bagi hal keadaan yang perakuan pendaftaran yang dikeluarkan kepada sesuatu institusi latihan berdaftar boleh dibatalkan oleh Suruhanjaya melalui notis bertulis. Apabila perakuan pendaftaran dibatalkan, kedua-dua perakuan pendaftaran dan perakuan amalan yang dikeluarkan di bawah subfasal 33(3) dan 34(3) masing-masing, hendaklah menjadi tidak sah dari tarikh notis bertulis yang dikeluarkan oleh Suruhanjaya dan institusi latihan berdaftar itu tidak dibenarkan untuk memfailkan apa-apa permohonan baharu untuk didaftarkan di bawah Akta yang dicadangkan ini.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 45. Bahagian VIII Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan kuasa mengumpulkan maklumat.
 
@@ -1546,7 +1614,7 @@ Fasal 22 bertujuan untuk mengadakan peruntukan mengenai permohonan bagi pembahar
 
 49. Fasal 40 bertujuan untuk menghendaki mana-mana orang untuk membenarkan Suruhanjaya atau pegawai diberi kuasa atau mana-mana orang lain yang dinyatakan oleh Suruhanjaya dalam suatu notis bertulis, akses kepada rekodnya bagi maksud menjalankan mana-mana fungsi dan kuasa Suruhanjaya di bawah Akta yang dicadangkan.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 50. Bahagian IX Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan penguatkuasaan Akta yang dicadangkan.
 
@@ -1596,7 +1664,7 @@ untuk menghendaki, tetapi hanya jika dan setakat yang semunasabahnya perlu untuk
 
 <!-- page 71 -->
 
-## Bahagian X
+## BAHAGIAN X
 
 70. Bahagian X Akta yang dicadangkan memperkatakan peruntukan am.
 

@@ -27,24 +27,7 @@
       "hasPart": [
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_I",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_II",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_III",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_IV",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_V",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VI",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VII",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VIII",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_IX",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_X",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XII",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIII",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIV",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XV",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XVI",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XVII",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XVIII",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIX"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1"
       ],
       "schema:name": {
         "@language": "en",
@@ -83,40 +66,6 @@
       "schema:text": {
         "@language": "en",
         "@value": "INABILITY TO PERFORM CONTRACTUAL OBLIGATION Commencement of this Part"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_III",
-      "@type": "akn:part",
-      "eli:number": "III",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_III__cl_11",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_III__cl_12"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@",
-      "schema:text": {
-        "@language": "en",
-        "@value": "MODIFICATIONS TO THE LIMITATION ACT 1953 Commencement of modifications to the Limitation Act 1953"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_III__cl_11",
-      "@type": "akn:clause",
-      "eli:number": "11",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_III",
-      "schema:text": {
-        "@language": "en",
-        "@value": "This Part is deemed to have come into operation on 18 March 2020 and shall continue to remain in operation until 31 December 2020. Limitation period in section 6 extended"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_III__cl_12",
-      "@type": "akn:clause",
-      "eli:number": "12",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_III",
-      "schema:text": {
-        "@language": "en",
-        "@value": "Any limitation period specified in section 6 of the Limitation Act 1953 which expires during the period from 18 March 2020 to 31 August 2020 shall be extended to 31 December 2020."
       }
     },
     {
@@ -299,140 +248,6 @@
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_IV",
-      "@type": "akn:part",
-      "eli:number": "IV",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_IV__cl_13",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_IV__cl_14"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@",
-      "schema:text": {
-        "@language": "en",
-        "@value": "MODIFICATIONS TO THE SABAH LIMITATION ORDINANCE Commencement of modifications to the Sabah Limitation Ordinance"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_IV__cl_13",
-      "@type": "akn:clause",
-      "eli:number": "13",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_IV",
-      "schema:text": {
-        "@language": "en",
-        "@value": "This Part is deemed to have come into operation on 18 March 2020 and shall continue to remain in operation until 31 December 2020. Limitation period extended"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_IV__cl_14",
-      "@type": "akn:clause",
-      "eli:number": "14",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_IV",
-      "schema:text": {
-        "@language": "en",
-        "@value": "Any limitation period specified in paragraphs 1 to 4, subparagraph 5(a), paragraph 8, paragraphs 10 to 33, paragraphs 35 to 79, paragraphs 83 to 88, paragraphs 90 to 95 and paragraphs 98, 100, 106, 107, 111 and 113 in the Schedule to the Sabah Limitation Ordinance which expires during the period from 18 March 2020 to 31 August 2020 shall be extended to 31 December 2020."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_IX",
-      "@type": "akn:part",
-      "eli:number": "IX",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_IX__cl_25",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_IX__cl_26",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_IX__cl_27",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_IX__cl_28"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@",
-      "schema:text": {
-        "@language": "en",
-        "@value": "MODIFICATIONS TO THE CONSUMER PROTECTION ACT 1999 Commencement of modifications to the Consumer Protection Act 1999"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_IX__cl_25",
-      "@type": "akn:clause",
-      "eli:number": "25",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_IX",
-      "schema:text": {
-        "@language": "en",
-        "@value": "This Part is deemed to have come into operation on 18 March 2020 and shall continue to remain in operation until 31 December 2020. Modification to section 24v"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_IX__cl_26",
-      "@type": "akn:clause",
-      "eli:number": "26",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_IX__cl_26__subsec_1",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_IX__cl_26__subsec_2"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_IX"
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_IX__cl_26__subsec_1",
-      "@type": "akn:subsection",
-      "eli:number": "1",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_IX__cl_26",
-      "schema:text": {
-        "@language": "en",
-        "@value": "The Consumer Protection Act 1999 is modified by substituting for section 24v the following section: “Default in payment of instalments by purchaser 24v. (1) In the event of default in payment of two consecutive instalments by a purchaser under a credit sale agreement, the credit facility provider shall issue a notice to the purchaser on the settlement of the overdue instalments under the agreement. (2) Upon receipt of the notice under subsection (1), the purchaser may within twenty-one days elect to— (a) pay the overdue instalments to the credit facility provider; (b) make an early settlement of the credit sale agreement by paying the total amount payable under the agreement to the credit facility provider; or (c) terminate the credit sale agreement and surrender the purchased goods to the credit facility provider in accordance with section 24w. (3) If the purchaser elects to make an early settlement under paragraph (2)(b), the credit facility provider shall grant the statutory rebate to the purchaser. (4) Notwithstanding the failure of the purchaser to make the election under subsection (2), the credit facility provider shall not commence any legal proceedings to recover the total outstanding amount payable by the purchaser under the credit sale agreement.”."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_IX__cl_26__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_IX__cl_26__subsec_2__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_IX__cl_26__subsec_2__para_b"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_IX__cl_26",
-      "schema:text": {
-        "@language": "en",
-        "@value": "Section 24v as modified in subsection (1) shall only apply—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_IX__cl_26__subsec_2__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_IX__cl_26__subsec_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": "if the credit sale agreement was entered into before 18 March 2020; and"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_IX__cl_26__subsec_2__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_IX__cl_26__subsec_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": "if the purchaser has no overdue instalments before 18 March 2020. Saving"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_IX__cl_27",
-      "@type": "akn:clause",
-      "eli:number": "27",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_IX",
-      "schema:text": {
-        "@language": "en",
-        "@value": "The modification relating to subsection 24v(4) of the Consumer Protection Act 1999 in subsection 26(1) shall not affect any legal proceedings commenced to recover, or any judgment or award obtained for, the outstanding amount payable by the purchaser under the credit sale agreement during the period from 18 March 2020 until the date of publication of this Act. Modification to section 99"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_IX__cl_28",
-      "@type": "akn:clause",
-      "eli:number": "28",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_IX",
-      "schema:text": {
-        "@language": "en",
-        "@value": "The period of limitation specified in subsection 99(2) of the Consumer Protection Act 1999 which expires during the period from 18 March 2020 to 15 June 2020 shall be extended until 31 December 2020."
-      }
-    },
-    {
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_I__cl_1",
       "@type": "akn:clause",
       "eli:number": "1",
@@ -515,1171 +330,6 @@
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_V",
-      "@type": "akn:part",
-      "eli:number": "V",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_V__cl_15",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_V__cl_16"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@",
-      "schema:text": {
-        "@language": "en",
-        "@value": "MODIFICATIONS TO THE SARAWAK LIMITATION ORDINANCE Commencement of modifications to the Sarawak Limitation Ordinance"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VI",
-      "@type": "akn:part",
-      "eli:number": "VI",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VI__cl_17",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VI__cl_18"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@",
-      "schema:text": {
-        "@language": "en",
-        "@value": "MODIFICATIONS TO THE PUBLIC AUTHORITIES PROTECTION ACT 1948 Commencement of modifications to the Public Authorities Protection Act 1948"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VII",
-      "@type": "akn:part",
-      "eli:number": "VII",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VII__cl_19",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VII__cl_20",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VII__cl_21"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@",
-      "schema:text": {
-        "@language": "en",
-        "@value": "MODIFICATIONS TO THE INSOLVENCY ACT 1967 Commencement of modifications to the Insolvency Act 1967"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VIII",
-      "@type": "akn:part",
-      "eli:number": "VIII",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VIII__cl_22",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VIII__cl_23",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VIII__cl_24"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@",
-      "schema:text": {
-        "@language": "en",
-        "@value": "MODIFICATIONS TO THE HIRE-PURCHASE ACT 1967 Commencement of modifications to the Hire-Purchase Act 1967"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VIII__cl_22",
-      "@type": "akn:clause",
-      "eli:number": "22",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VIII__cl_22__subsec_1",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VIII__cl_22__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VIII__cl_22__subsec_3",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VIII__cl_22__subsec_4"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VIII"
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VIII__cl_22__subsec_1",
-      "@type": "akn:subsection",
-      "eli:number": "1",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VIII__cl_22",
-      "schema:text": {
-        "@language": "en",
-        "@value": "This Part is deemed to have come into operation on 1 April 2020 and shall continue to remain in operation until 31 December 2020."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VIII__cl_22__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VIII__cl_22",
-      "schema:text": {
-        "@language": "en",
-        "@value": "The Minister may, by order published in the Gazette, extend the operation of this Part, the extension of which shall not exceed the period of operation of this Act provided in subsection 1(2) or any extended period under subsection 1(3), as the case may be."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VIII__cl_22__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VIII__cl_22__subsec_3__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VIII__cl_22__subsec_3__para_b"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VIII__cl_22",
-      "schema:text": {
-        "@language": "en",
-        "@value": "An order under subsection (2)—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VIII__cl_22__subsec_3__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VIII__cl_22__subsec_3",
-      "schema:text": {
-        "@language": "en",
-        "@value": "shall not be made after the expiry period of the operation or the extended operation of this Part, as the case may be; and"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VIII__cl_22__subsec_3__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VIII__cl_22__subsec_3",
-      "schema:text": {
-        "@language": "en",
-        "@value": "may be made more than once."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VIII__cl_22__subsec_4",
-      "@type": "akn:subsection",
-      "eli:number": "4",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VIII__cl_22",
-      "schema:text": {
-        "@language": "en",
-        "@value": "An order made under subsection (2) shall be laid before the Dewan Rakyat as soon as practicable after its publication in the Gazette. Taking possession of goods comprised in a hire-purchase agreement under section 16"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VIII__cl_23",
-      "@type": "akn:clause",
-      "eli:number": "23",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VIII",
-      "schema:text": {
-        "@language": "en",
-        "@value": "No owner shall exercise any power of taking possession of goods comprised in a hire-purchase agreement under section 16 of the Hire-Purchase Act 1967 for any default of payment of instalment during the period from 1 April 2020 to 30 September 2020. Saving"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VIII__cl_24",
-      "@type": "akn:clause",
-      "eli:number": "24",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VIII",
-      "schema:text": {
-        "@language": "en",
-        "@value": "Notwithstanding section 19, any owner who has exercised his power of taking possession of goods comprised in a hire-purchase agreement under section 16 of the Hire-Purchase Act 1967 before the date of publication of this Act, shall be deemed to have validly exercised such power of taking possession of such goods as if the Hire-Purchase Act 1967 had not been modified by this Act."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VII__cl_19",
-      "@type": "akn:clause",
-      "eli:number": "19",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VII__cl_19__subsec_1",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VII__cl_19__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VII__cl_19__subsec_3",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VII__cl_19__subsec_4"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VII"
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VII__cl_19__subsec_1",
-      "@type": "akn:subsection",
-      "eli:number": "1",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VII__cl_19",
-      "schema:text": {
-        "@language": "en",
-        "@value": "This Part comes into operation on the date of publication of this Act and shall continue to remain in operation until 31 August 2021."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VII__cl_19__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VII__cl_19",
-      "schema:text": {
-        "@language": "en",
-        "@value": "The Minister may, by order published in the Gazette, extend the operation of this Part, the extension of which shall not exceed the period of operation of this Act provided in subsection 1(2) or any extended period under subsection 1(3), as the case may be."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VII__cl_19__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VII__cl_19__subsec_3__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VII__cl_19__subsec_3__para_b"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VII__cl_19",
-      "schema:text": {
-        "@language": "en",
-        "@value": "An order under subsection (2)—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VII__cl_19__subsec_3__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VII__cl_19__subsec_3",
-      "schema:text": {
-        "@language": "en",
-        "@value": "shall not be made after the expiry period of the operation or the extended operation of this Part, as the case may be; and"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VII__cl_19__subsec_3__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VII__cl_19__subsec_3",
-      "schema:text": {
-        "@language": "en",
-        "@value": "may be made more than once."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VII__cl_19__subsec_4",
-      "@type": "akn:subsection",
-      "eli:number": "4",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VII__cl_19",
-      "schema:text": {
-        "@language": "en",
-        "@value": "An order made under subsection (2) shall be laid before the Dewan Rakyat as soon as practicable after its publication in the Gazette. Modification to the amount of indebtedness"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VII__cl_20",
-      "@type": "akn:clause",
-      "eli:number": "20",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VII",
-      "schema:text": {
-        "@language": "en",
-        "@value": "During the period of operation of this Part, a creditor or creditors shall not be entitled to present a bankruptcy petition against a debtor under section 2o or 5 of the Insolvency Act 1967, unless the debt owing by the debtor to the petitioning creditor, or if two or more creditors join in the petition the aggregate amount of debts owing to the several petitioning creditors, amounts to one hundred thousand ringgit. Saving"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VII__cl_21",
-      "@type": "akn:clause",
-      "eli:number": "21",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VII",
-      "schema:text": {
-        "@language": "en",
-        "@value": "Any proceedings, actions or other matters required to be done under the Insolvency Act 1967 which are still pending immediately before the date of publication of this Act shall be dealt with under the Insolvency Act 1967 as if the Insolvency Act 1967 had not been modified by this Act."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VI__cl_17",
-      "@type": "akn:clause",
-      "eli:number": "17",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VI",
-      "schema:text": {
-        "@language": "en",
-        "@value": "This Part is deemed to have come into operation on 18 March 2020 and shall continue to remain in operation until 31 December 2020. Limitation period in section 2 extended"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VI__cl_18",
-      "@type": "akn:clause",
-      "eli:number": "18",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_VI",
-      "schema:text": {
-        "@language": "en",
-        "@value": "The limitation period specified in paragraph 2(a) of the Public Authorities Protection Act 1948 which expires during the period from 18 March 2020 to 31 August 2020 shall be extended to 31 December 2020."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_V__cl_15",
-      "@type": "akn:clause",
-      "eli:number": "15",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_V",
-      "schema:text": {
-        "@language": "en",
-        "@value": "This Part is deemed to have come into operation on 18 March 2020 and shall continue to remain in operation until 31 December 2020. Limitation period extended"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_V__cl_16",
-      "@type": "akn:clause",
-      "eli:number": "16",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_V",
-      "schema:text": {
-        "@language": "en",
-        "@value": "Any limitation period specified in paragraphs 1 to 4, subparagraph 5(a), paragraphs 8 to 29, paragraphs 31 and 32, paragraphs 34 to 78, paragraphs 82 to 94 and paragraphs 96, 98, 100, 106, 107, 111 and 113 in the Schedule to the Sarawak Limitation Ordinance which expires during the period from 18 March 2020 to 31 August 2020 shall be extended to 31 December 2020."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_X",
-      "@type": "akn:part",
-      "eli:number": "X",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_X__cl_29",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_X__cl_30",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_X__cl_31"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@",
-      "schema:text": {
-        "@language": "en",
-        "@value": "MODIFICATION TO THE DISTRESS ACT 1951 Commencement of modification to the Distress Act 1951"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI",
-      "@type": "akn:part",
-      "eli:number": "XI",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_32",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_33",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_34",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_35",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_36",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_37",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_38"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@",
-      "schema:text": {
-        "@language": "en",
-        "@value": "MODIFICATIONS TO THE HOUSING DEVELOPMENT (CONTROL AND LICENSING) ACT 1966 Commencement of modifications to the Housing Development (Control and Licensing) Act 1966"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XII",
-      "@type": "akn:part",
-      "eli:number": "XII",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XII__cl_39",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XII__cl_40"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@",
-      "schema:text": {
-        "@language": "en",
-        "@value": "MODIFICATIONS TO THE INDUSTRIAL RELATIONS ACT 1967 Commencement of modifications to the Industrial Relations Act 1967"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIII",
-      "@type": "akn:part",
-      "eli:number": "XIII",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIII__cl_41",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIII__cl_42"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@",
-      "schema:text": {
-        "@language": "en",
-        "@value": "MODIFICATION TO THE PRIVATE EMPLOYMENT AGENCIES ACT 1981 Commencement of modification to the Private Employment Agencies Act 1981"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIII__cl_41",
-      "@type": "akn:clause",
-      "eli:number": "41",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIII",
-      "schema:text": {
-        "@language": "en",
-        "@value": "This Part is deemed to have come into operation on 18 March 2020. Time period for renewal of licence under section 11"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIII__cl_42",
-      "@type": "akn:clause",
-      "eli:number": "42",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIII",
-      "schema:text": {
-        "@language": "en",
-        "@value": "The period from 18 March 2020 to 9 June 2020 shall be excluded from the calculation of the period for an application to renew a licence under subsection 11(1) of the Private Employment Agencies Act 1981."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XII__cl_39",
-      "@type": "akn:clause",
-      "eli:number": "39",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XII",
-      "schema:text": {
-        "@language": "en",
-        "@value": "This Part is deemed to have come into operation on 18 March 2020. Period for according recognition, making a report and filing of representation"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XII__cl_40",
-      "@type": "akn:clause",
-      "eli:number": "40",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XII",
-      "schema:text": {
-        "@language": "en",
-        "@value": "The period from 18 March 2020 to 9 June 2020 shall be excluded from the calculation of the period under the Industrial Relations Act 1967 for according recognition or notifying the trade union of workmen concerned in writing the grounds for not according recognition under subsection 9(3), the making of a report in writing to the Director General for Industrial Relations under subsection 9(4) and the filing of representation under subsection 20(1a)."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIV",
-      "@type": "akn:part",
-      "eli:number": "XIV",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIV__cl_43",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIV__cl_44",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIV__cl_45"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@",
-      "schema:text": {
-        "@language": "en",
-        "@value": "MODIFICATIONS TO THE LAND PUBLIC TRANSPORT ACT 2010 Commencement of modifications to the Land Public Transport Act 2010"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIV__cl_43",
-      "@type": "akn:clause",
-      "eli:number": "43",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIV__cl_43__subsec_1",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIV__cl_43__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIV__cl_43__subsec_3",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIV__cl_43__subsec_4"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIV"
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIV__cl_43__subsec_1",
-      "@type": "akn:subsection",
-      "eli:number": "1",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIV__cl_43",
-      "schema:text": {
-        "@language": "en",
-        "@value": "This Part is deemed to have come into operation on 1 August 2020 and shall continue to remain in operation until 31 December 2021."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIV__cl_43__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIV__cl_43",
-      "schema:text": {
-        "@language": "en",
-        "@value": "The Minister may, by order published in the Gazette, extend the operation of this Part, the extension of which shall not exceed the period of operation of this Act provided in subsection 1(2) or any extended period under subsection 1(3), as the case may be."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIV__cl_43__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIV__cl_43__subsec_3__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIV__cl_43__subsec_3__para_b"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIV__cl_43",
-      "schema:text": {
-        "@language": "en",
-        "@value": "An order under subsection (2)—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIV__cl_43__subsec_3__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIV__cl_43__subsec_3",
-      "schema:text": {
-        "@language": "en",
-        "@value": "shall not be made after the expiry period of the operation or the extended operation of this Part, as the case may be; and"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIV__cl_43__subsec_3__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIV__cl_43__subsec_3",
-      "schema:text": {
-        "@language": "en",
-        "@value": "may be made more than once."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIV__cl_43__subsec_4",
-      "@type": "akn:subsection",
-      "eli:number": "4",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIV__cl_43",
-      "schema:text": {
-        "@language": "en",
-        "@value": "An order made under subsection (2) shall be laid before the Dewan Rakyat as soon as practicable after its publication in the Gazette. Modification to section 21"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIV__cl_44",
-      "@type": "akn:clause",
-      "eli:number": "44",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIV",
-      "schema:text": {
-        "@language": "en",
-        "@value": "The Land Public Transport Act 2010 is modified by substituting for section 21 the following section: “Temporary change of use of public service vehicle or tourism vehicle 21. (1) Subject to subsection (2), the Director General of Land Public Transport may, on an application by a licensed operator of a public service vehicle or tourism vehicle, authorize for a period not exceeding twelve months for the licensed operator to use the vehicle for the purpose of a public service vehicle, tourism vehicle or goods vehicle of any other class. (2) The application made under subsection (1) shall be accompanied with the following: (a) information on any changes in technical specification of the vehicle, information on temporary use of the vehicle and any other information as determined by the Director General of Land Public Transport; and (b) additional insurance coverage for the vehicle. (3) The Director General of Land Public Transport may impose any condition on the authorization granted under subsection (1).”. Modification to section 56"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIV__cl_45",
-      "@type": "akn:clause",
-      "eli:number": "45",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIV",
-      "schema:text": {
-        "@language": "en",
-        "@value": "The Land Public Transport Act 2010 is modified by substituting for section 56 the following section: “Temporary change of use of goods vehicle 56. (1) Subject to subsections (2) and (4), the Director General of Land Public Transport may, on an application by a licensed operator of goods vehicle, authorize for a period not exceeding twelve months the licensed operator of a particular class of goods vehicle to use the vehicle for the purpose of a public service vehicle, tourism vehicle or goods vehicle of any other class. (2) The application made under subsection (1) shall be accompanied with the following: (a) information on any changes in technical specification of the vehicle, information on temporary use of the vehicle and any other information as determined by the Director General of Land Public Transport; and (b) additional insurance coverage for the vehicle. (3) The Director General of Land Public Transport may impose any condition on the authorization granted under subsection (1). (4) Any goods vehicle authorized to be used for the purpose of tourism vehicle shall be operated by a tour operator licensed under the Tourism Industry Act 1992 [Act 482].”."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIX",
-      "@type": "akn:part",
-      "eli:number": "XIX",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIX__cl_57",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIX__cl_58",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIX__cl_59"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@",
-      "schema:text": {
-        "@language": "en",
-        "@value": "MISCELLANEOUS Commencement of this Part"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIX__cl_57",
-      "@type": "akn:clause",
-      "eli:number": "57",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIX",
-      "schema:text": {
-        "@language": "en",
-        "@value": "This Part is deemed to have come into operation on 18 March 2020. Extension of time to perform statutory duty or obligation"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIX__cl_58",
-      "@type": "akn:clause",
-      "eli:number": "58",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIX__cl_58__subsec_1",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIX__cl_58__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIX__cl_58__subsec_3"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIX"
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIX__cl_58__subsec_1",
-      "@type": "akn:subsection",
-      "eli:number": "1",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIX__cl_58",
-      "schema:text": {
-        "@language": "en",
-        "@value": "The Minister charged with the responsibility for any Act may, if the Minister is of the opinion that any statutory duty or obligation is not possible to be performed within the time stipulated in such Act by any authority during the period from 18 March 2020 to 9 June 2020 due to the measures prescribed, made or taken under the Prevention and Control of Infectious Diseases Act 1988 to control or prevent the spread of COVID-19, by order published in the Gazette, extend the time for the authority to perform its statutory duties or obligations."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIX__cl_58__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIX__cl_58",
-      "schema:text": {
-        "@language": "en",
-        "@value": "Any order made under subsection (1) may be made to operate retrospectively to any date which is not earlier than 18 March 2020."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIX__cl_58__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIX__cl_58",
-      "schema:text": {
-        "@language": "en",
-        "@value": "No authority shall be liable to any damages in respect of any failure to perform any statutory duty or obligation within the time stipulated in such Act. Alternative arrangement for statutory meeting"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIX__cl_59",
-      "@type": "akn:clause",
-      "eli:number": "59",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIX__cl_59__subsec_1",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIX__cl_59__subsec_2"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIX"
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIX__cl_59__subsec_1",
-      "@type": "akn:subsection",
-      "eli:number": "1",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIX__cl_59",
-      "schema:text": {
-        "@language": "en",
-        "@value": "The Minister charged with the responsibility for any Act may, if the Minister is of the opinion that any statutory meeting is not possible to be convened, held or conducted in the manner provided in such Act during the period from 18 March 2020 to 9 June 2020 due to the measures prescribed, made or taken under the Prevention and Control of Infectious Diseases Act 1988 to control or prevent the spread of COVID-19, by order published in the Gazette, provide for alternative arrangements for such meeting."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIX__cl_59__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XIX__cl_59",
-      "schema:text": {
-        "@language": "en",
-        "@value": "Any statutory meeting convened, held or conducted not in the manner provided for in any Act regulating such statutory meeting on and after 18 March 2020 and before the making of the order under subsection (1) shall be deemed to have been validly convened, held or conducted."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_32",
-      "@type": "akn:clause",
-      "eli:number": "32",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI",
-      "schema:text": {
-        "@language": "en",
-        "@value": "This Part is deemed to have come into operation on 18 March 2020. Interpretation"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_33",
-      "@type": "akn:clause",
-      "eli:number": "33",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI",
-      "schema:text": {
-        "@language": "en",
-        "@value": "In this Part, “agreement” means agreement for the contract of sale for the sale and purchase of housing accommodation in the forms prescribed in Schedules G, H, I and J of the Housing Development (Control and Licensing) Regulations 1989 [P.U. (A) 58/1989] entered into before 18 March 2020. Late payment charges"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_34",
-      "@type": "akn:clause",
-      "eli:number": "34",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_34__subsec_1",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_34__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_34__subsec_3"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI"
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_34__subsec_1",
-      "@type": "akn:subsection",
-      "eli:number": "1",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_34",
-      "schema:text": {
-        "@language": "en",
-        "@value": "Notwithstanding any agreement entered into between the purchaser and the developer, where due to the measures prescribed, made or taken under the Prevention and Control of Infectious Diseases Act 1988 to control or prevent the spread of COVID-19 the purchaser fails to pay any instalment for the period from 18 March 2020 to 31 August 2020, the developer shall not impose any late payment charges in respect of such unpaid instalment on the purchaser."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_34__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_34",
-      "schema:text": {
-        "@language": "en",
-        "@value": "The purchaser may apply to the Minister for an extension of the period referred to in subsection (1)."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_34__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_34",
-      "schema:text": {
-        "@language": "en",
-        "@value": "Upon considering the application under subsection (2), the Minister may, if the Minister is satisfied that additional time is required by the purchaser, by written direction to the developer, extend the period in which the developer shall not impose any late payment charges on the purchaser in respect of such unpaid instalment up to 31 December 2020. Delivery of vacant possession and liquidated damages"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_35",
-      "@type": "akn:clause",
-      "eli:number": "35",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_35__subsec_1",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_35__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_35__subsec_3",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_35__subsec_4"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI"
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_35__subsec_1",
-      "@type": "akn:subsection",
-      "eli:number": "1",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_35__subsec_1__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_35__subsec_1__para_b"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_35",
-      "schema:text": {
-        "@language": "en",
-        "@value": "Notwithstanding any agreement entered into between the purchaser and the developer, the period from 18 March 2020 to 31 August 2020 shall be excluded from the calculation of—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_35__subsec_1__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_35__subsec_1",
-      "schema:text": {
-        "@language": "en",
-        "@value": "the time for delivery of vacant possession of a housing accommodation; and"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_35__subsec_1__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_35__subsec_1",
-      "schema:text": {
-        "@language": "en",
-        "@value": "the liquidated damages for the failure of the developer to deliver vacant possession of a housing accommodation."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_35__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_35",
-      "schema:text": {
-        "@language": "en",
-        "@value": "The developer may apply to the Minister for an extension of the period referred to in subsection (1)."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_35__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_35",
-      "schema:text": {
-        "@language": "en",
-        "@value": "Upon considering the application under subsection (2), the Minister may, if the Minister is satisfied that additional time is required by the developer to deliver vacant possession, by written direction grant to the developer an extension period of up to 31 December 2020 to deliver vacant possession and such extension shall have the same effect as the period excluded in subsection (1)."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_35__subsec_4",
-      "@type": "akn:subsection",
-      "eli:number": "4",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_35",
-      "schema:text": {
-        "@language": "en",
-        "@value": "Notwithstanding any agreement entered into between the purchaser and the developer, if the purchaser is unable to enter into possession of occupation of a housing accommodation from the date of service of a notice to take vacant possession from the developer during the period from 18 March 2020 to 31 August 2020 or any extension period granted under subsection (3), the purchaser shall not be deemed to have taken such vacant possession. Defect liability period"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_36",
-      "@type": "akn:clause",
-      "eli:number": "36",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_36__subsec_1",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_36__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_36__subsec_3"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI"
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_36__subsec_1",
-      "@type": "akn:subsection",
-      "eli:number": "1",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_36__subsec_1__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_36__subsec_1__para_b"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_36",
-      "schema:text": {
-        "@language": "en",
-        "@value": "Notwithstanding any agreement entered into between the purchaser and the developer, the period from 18 March 2020 to 31 August 2020 shall be excluded from the calculation of—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_36__subsec_1__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_36__subsec_1",
-      "schema:text": {
-        "@language": "en",
-        "@value": "the defect liability period after the date the purchaser takes vacant possession of a housing accommodation; and"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_36__subsec_1__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_36__subsec_1",
-      "schema:text": {
-        "@language": "en",
-        "@value": "the time for the developer to carry out works to repair and make good the defect, shrinkages and other faults in a housing accommodation."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_36__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_36",
-      "schema:text": {
-        "@language": "en",
-        "@value": "The purchaser may apply to the Minister for an extension of the period referred to in subsection (1)."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_36__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_36__subsec_3__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_36__subsec_3__para_b"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_36",
-      "schema:text": {
-        "@language": "en",
-        "@value": "Upon considering the application under subsection (2), the Minister may, if the Minister is satisfied that additional time is required by the purchaser, by written direction, exclude the period up to 31 December 2020 from the calculation of—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_36__subsec_3__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_36__subsec_3",
-      "schema:text": {
-        "@language": "en",
-        "@value": "the defect liability period after the date the purchaser takes vacant possession of a housing accommodation; and"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_36__subsec_3__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_36__subsec_3",
-      "schema:text": {
-        "@language": "en",
-        "@value": "the time for the developer to carry out works to repair and make good the defect, shrinkages and other faults in a housing accommodation. Saving"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_37",
-      "@type": "akn:clause",
-      "eli:number": "37",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_37__subsec_1",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_37__subsec_2"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI"
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_37__subsec_1",
-      "@type": "akn:subsection",
-      "eli:number": "1",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_37",
-      "schema:text": {
-        "@language": "en",
-        "@value": "The modifications in sections 34, 35 and 36 shall not affect any legal proceedings commenced, or any judgment or award obtained, to recover late payment charges payable by the purchaser or liquidated damages payable by the developer or any other sum during the period from 18 March 2020 until the date of publication of this Act."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_37__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_37",
-      "schema:text": {
-        "@language": "en",
-        "@value": "Notwithstanding sections 34 and 35, any late payment charges that has been paid by the purchaser or liquidated damages that has been paid by the developer before the date of publication of this Act shall be deemed to have been validly paid under the Housing Development (Control and Licensing) Act 1966 and its regulations, and such payment shall not be refunded to the payer. Modification to section 16n"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI__cl_38",
-      "@type": "akn:clause",
-      "eli:number": "38",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XI",
-      "schema:text": {
-        "@language": "en",
-        "@value": "Notwithstanding subsection 16n(2) of the Housing Development (Control and Licensing) Act 1966, if the limitation period for the homebuyer to file a claim has expired during the period from 18 March 2020 to 9 June 2020, the homebuyer is entitled to file the claim from 4 May 2020 to 31 December 2020 and the Tribunal for Homebuyer Claims shall have jurisdiction to hear such claim."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XV",
-      "@type": "akn:part",
-      "eli:number": "XV",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XV__cl_46",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XV__cl_47",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XV__cl_48"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@",
-      "schema:text": {
-        "@language": "en",
-        "@value": "MODIFICATIONS TO THE COMMERCIAL VEHICLES LICENSING BOARD ACT 1987 Commencement of modifications to the Commercial Vehicles Licensing Board Act 1987"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XVI",
-      "@type": "akn:part",
-      "eli:number": "XVI",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XVI__cl_49",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XVI__cl_50",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XVI__cl_51",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XVI__cl_52"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@",
-      "schema:text": {
-        "@language": "en",
-        "@value": "MODIFICATIONS TO THE COURTS OF JUDICATURE ACT 1964 Commencement of modifications to the Courts of Judicature Act 1964"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XVII",
-      "@type": "akn:part",
-      "eli:number": "XVII",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XVII__cl_53",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XVII__cl_54"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@",
-      "schema:text": {
-        "@language": "en",
-        "@value": "MODIFICATION TO THE SUBORDINATE COURTS ACT 1948 Commencement of modification to the Subordinate Courts Act 1948"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XVIII",
-      "@type": "akn:part",
-      "eli:number": "XVIII",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XVIII__cl_55",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XVIII__cl_56"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@",
-      "schema:text": {
-        "@language": "en",
-        "@value": "MODIFICATION TO THE SUBORDINATE COURTS RULES ACT 1955 Commencement of modification to the Subordinate Courts Rules Act 1955"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XVIII__cl_55",
-      "@type": "akn:clause",
-      "eli:number": "55",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XVIII",
-      "schema:text": {
-        "@language": "en",
-        "@value": "This Part is deemed to have come into operation on 18 March 2020 and shall continue to be in operation until the date of publication of this Act and shall continue to remain in operation for a period of two years from such date of publication. Modification to section 3"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XVIII__cl_56",
-      "@type": "akn:clause",
-      "eli:number": "56",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XVIII",
-      "schema:text": {
-        "@language": "en",
-        "@value": "The Subordinate Courts Rules Act 1955 is modified by inserting after subsection 3(6) the following subsection: “(7) The Chief Justice may, if the Chief Justice is of the opinion that the circumstances warrant and it is necessary in the interest of the dispensation of justice, public safety, public security, public health or propriety or for other sufficient reason to do so, modify any provision of the rules of court or suspend the application of such rules of court as is necessary for doing complete justice in any cause or matter pending before the Courts and to ensure that the administration of justice is carried out.”."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XVII__cl_53",
-      "@type": "akn:clause",
-      "eli:number": "53",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XVII",
-      "schema:text": {
-        "@language": "en",
-        "@value": "This Part is deemed to have come into operation on 18 March 2020 and shall continue to be in operation until the date of publication of this Act and shall continue to remain in operation for a period of two years from such date of publication. New section 3a"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XVII__cl_54",
-      "@type": "akn:clause",
-      "eli:number": "54",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XVII",
-      "schema:text": {
-        "@language": "en",
-        "@value": "The Subordinate Courts Act 1948 is modified by inserting after section 3 the following section: “General power of the Chief Justice to issue direction 3a. The Chief Justice may, if the Chief Justice is of the opinion that the circumstances warrant and it is necessary in the interest of the dispensation of justice, public safety, public security, public health or propriety or for other sufficient reason to do so, issue any direction relating to the business of the Subordinate Courts as may be necessary.”."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XVI__cl_49",
-      "@type": "akn:clause",
-      "eli:number": "49",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XVI",
-      "schema:text": {
-        "@language": "en",
-        "@value": "This Part is deemed to have come into operation on 18 March 2020 and shall continue to be in operation until the date of publication of this Act and shall continue to remain in operation for a period of two years from such date of publication. New section 16a"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XVI__cl_50",
-      "@type": "akn:clause",
-      "eli:number": "50",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XVI",
-      "schema:text": {
-        "@language": "en",
-        "@value": "The Courts of Judicature Act 1964 is modified by inserting after section 16 the following section: “General power of the Chief Justice to issue direction 16a. The Chief Justice may, if the Chief Justice is of the opinion that the circumstances warrant and it is necessary in the interest of the dispensation of justice, public safety, public security, public health or propriety or for other sufficient reason to do so, issue any direction relating to the business of the Court as may be necessary.”. Modification to section 17"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XVI__cl_51",
-      "@type": "akn:clause",
-      "eli:number": "51",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XVI__cl_51__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XVI__cl_51__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XVI__cl_51__para_c"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XVI",
-      "schema:name": {
-        "@language": "en",
-        "@value": "The Courts of Judicature Act 1964 is modified in section 17—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XVI__cl_51__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XVI__cl_51",
-      "schema:text": {
-        "@language": "en",
-        "@value": "by renumbering the existing subsection (3 a) as subsection (3b);"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XVI__cl_51__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XVI__cl_51",
-      "schema:text": {
-        "@language": "en",
-        "@value": "by inserting after subsection (3) the following subsection: “(3a) The Chief Justice may, if the Chief Justice is of the opinion that any meeting is not possible to be convened, held or conducted, provide for alternative arrangements for such meeting.”; and"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XVI__cl_51__para_c",
-      "@type": "akn:paragraph",
-      "eli:number": "c",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XVI__cl_51",
-      "schema:text": {
-        "@language": "en",
-        "@value": "by inserting after subsection (7) the following subsection: “(8) The Chief Justice may, if the Chief Justice is of the opinion that the circumstances warrant and it is necessary in the interest of the dispensation of justice, public safety, public security, public health or propriety or for other sufficient reason to do so, modify any provision of the rules of court or suspend the application of such rules of court as is necessary for doing complete justice in any cause or matter pending before the Courts and to ensure that the administration of justice is carried out.”. Modification to section 17a"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XVI__cl_52",
-      "@type": "akn:clause",
-      "eli:number": "52",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XVI",
-      "schema:text": {
-        "@language": "en",
-        "@value": "Subsection 17a(1) of the Courts of Judicature Act 1964 is modified by deleting the words “but so that there shall be at least one meeting in each year”."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XV__cl_46",
-      "@type": "akn:clause",
-      "eli:number": "46",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XV__cl_46__subsec_1",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XV__cl_46__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XV__cl_46__subsec_3",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XV__cl_46__subsec_4"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XV"
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XV__cl_46__subsec_1",
-      "@type": "akn:subsection",
-      "eli:number": "1",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XV__cl_46",
-      "schema:text": {
-        "@language": "en",
-        "@value": "This Part is deemed to have come into operation on 1 August 2020 and shall continue to remain in operation until 31 December 2021."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XV__cl_46__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XV__cl_46",
-      "schema:text": {
-        "@language": "en",
-        "@value": "The Minister may, by order published in the Gazette, extend the operation of this Part, the extension of which shall not exceed the period of operation of this Act provided in subsection 1(2) or any extended period under subsection 1(3), as the case may be."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XV__cl_46__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XV__cl_46__subsec_3__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XV__cl_46__subsec_3__para_b"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XV__cl_46",
-      "schema:text": {
-        "@language": "en",
-        "@value": "An order under subsection (2)—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XV__cl_46__subsec_3__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XV__cl_46__subsec_3",
-      "schema:text": {
-        "@language": "en",
-        "@value": "shall not be made after the expiry period of the operation or the extended operation of this Part, as the case may be; and"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XV__cl_46__subsec_3__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XV__cl_46__subsec_3",
-      "schema:text": {
-        "@language": "en",
-        "@value": "may be made more than once."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XV__cl_46__subsec_4",
-      "@type": "akn:subsection",
-      "eli:number": "4",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XV__cl_46",
-      "schema:text": {
-        "@language": "en",
-        "@value": "An order made under subsection (2) shall be laid before the Dewan Rakyat as soon as practicable after its publication in the Gazette. Modification to section 23"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XV__cl_47",
-      "@type": "akn:clause",
-      "eli:number": "47",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XV",
-      "schema:text": {
-        "@language": "en",
-        "@value": "The Commercial Vehicles Licensing Board Act 1987 is modified by substituting for section 23 the following section: “Temporary change of use of public service vehicle 23. (1) Subject to subsection (2), the Board may, on an application by any holder of a public service vehicle licence of a particular class, authorize for a period not exceeding twelve months the holder of a public service vehicle licence of a particular class to use the vehicle for the purpose of a public service vehicle or goods vehicle of any other class. (2) The application made under subsection (1) shall be accompanied with the following: (a) information on any changes in technical specification of the vehicle, information on temporary use of the vehicle and any other information as determined by the Board; and (b) additional insurance coverage for the vehicle. (3) The Board may impose any conditions on the authorization granted under subsection (1).”. Modification to section 24"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XV__cl_48",
-      "@type": "akn:clause",
-      "eli:number": "48",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_XV",
-      "schema:text": {
-        "@language": "en",
-        "@value": "The Commercial Vehicles Licensing Board Act 1987 is modified by substituting for section 24 the following section: “Temporary change of use of ‘C’ vehicle or ‘A’ vehicle 24. (1) Subject to subsection (2), the Board may, on an application by any holder of a carrier’s licence ‘C’ vehicle or ‘A’ vehicle, authorize for a period not exceeding twelve months the holder of a carrier’s licence ‘C’ vehicle or ‘A’ vehicle to use the vehicle for the purpose of a public service vehicle or goods vehicle of any other class. (2) The application made under subsection (1) shall be accompanied with the following: (a) information on any changes in technical specification of the vehicle, information on temporary use of the vehicle and any other information as determined by the Board; and (b) additional insurance coverage for the vehicle. (3) The Board may impose any conditions on the authorization granted under subsection (1).”."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_X__cl_29",
-      "@type": "akn:clause",
-      "eli:number": "29",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_X",
-      "schema:text": {
-        "@language": "en",
-        "@value": "This Part is deemed to have come into operation on 18 March 2020 and shall continue to remain in operation until 31 December 2020. Modification to section 5"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_X__cl_30",
-      "@type": "akn:clause",
-      "eli:number": "30",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_X",
-      "schema:text": {
-        "@language": "en",
-        "@value": "For the purposes of the recovery of rent due or payable to the landlord by a tenant of any premises, a warrant of distress issued under subsection 5(1) of the Distress Act 1951, shall not include the distrain for the arrears of rent for the period from 18 March 2020 to 31 August 2020. Saving"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_X__cl_31",
-      "@type": "akn:clause",
-      "eli:number": "31",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~part_X",
-      "schema:text": {
-        "@language": "en",
-        "@value": "Any execution of the warrant of distress for the recovery of rent due or payable to the landlord by a tenant of any premises that has been issued before the date of publication of this Act shall be dealt with under the Distress Act 1951 as if the Distress Act 1951 had not been modified by this Act."
-      }
-    },
-    {
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1",
       "@type": "akn:schedule",
       "eli:number": "1",
@@ -1690,7 +340,24 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__para_4",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__para_5",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__para_6",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__para_7"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__para_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VIII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_IX",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_X",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XVI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XVII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XVIII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIX"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@",
       "schema:text": {
@@ -1766,6 +433,1339 @@
       "schema:name": {
         "@language": "en",
         "@value": "Religious pilgrimage-related contract"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_III__para_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_III__para_12"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "MODIFICATIONS TO THE LIMITATION ACT 1953 Commencement of modifications to the Limitation Act 1953"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_III__para_11",
+      "@type": "akn:paragraph",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Part is deemed to have come into operation on 18 March 2020 and shall continue to remain in operation until 31 December 2020. Limitation period in section 6 extended"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_III__para_12",
+      "@type": "akn:paragraph",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any limitation period specified in section 6 of the Limitation Act 1953 which expires during the period from 18 March 2020 to 31 August 2020 shall be extended to 31 December 2020."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_IV__para_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_IV__para_14"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "MODIFICATIONS TO THE SABAH LIMITATION ORDINANCE Commencement of modifications to the Sabah Limitation Ordinance"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_IV__para_13",
+      "@type": "akn:paragraph",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Part is deemed to have come into operation on 18 March 2020 and shall continue to remain in operation until 31 December 2020. Limitation period extended"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_IV__para_14",
+      "@type": "akn:paragraph",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any limitation period specified in paragraphs 1 to 4, subparagraph 5(a), paragraph 8, paragraphs 10 to 33, paragraphs 35 to 79, paragraphs 83 to 88, paragraphs 90 to 95 and paragraphs 98, 100, 106, 107, 111 and 113 in the Schedule to the Sabah Limitation Ordinance which expires during the period from 18 March 2020 to 31 August 2020 shall be extended to 31 December 2020."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_IX",
+      "@type": "akn:part",
+      "eli:number": "IX",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_IX__para_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_IX__para_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_IX__para_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_IX__para_28"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "MODIFICATIONS TO THE CONSUMER PROTECTION ACT 1999 Commencement of modifications to the Consumer Protection Act 1999"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_IX__para_25",
+      "@type": "akn:paragraph",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_IX",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Part is deemed to have come into operation on 18 March 2020 and shall continue to remain in operation until 31 December 2020. Modification to section 24v"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_IX__para_26",
+      "@type": "akn:paragraph",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_IX__para_26__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_IX__para_26__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_IX"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_IX__para_26__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_IX__para_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Consumer Protection Act 1999 is modified by substituting for section 24v the following section: “Default in payment of instalments by purchaser 24v. (1) In the event of default in payment of two consecutive instalments by a purchaser under a credit sale agreement, the credit facility provider shall issue a notice to the purchaser on the settlement of the overdue instalments under the agreement. (2) Upon receipt of the notice under subsection (1), the purchaser may within twenty-one days elect to— (a) pay the overdue instalments to the credit facility provider; (b) make an early settlement of the credit sale agreement by paying the total amount payable under the agreement to the credit facility provider; or (c) terminate the credit sale agreement and surrender the purchased goods to the credit facility provider in accordance with section 24w. (3) If the purchaser elects to make an early settlement under paragraph (2)(b), the credit facility provider shall grant the statutory rebate to the purchaser. (4) Notwithstanding the failure of the purchaser to make the election under subsection (2), the credit facility provider shall not commence any legal proceedings to recover the total outstanding amount payable by the purchaser under the credit sale agreement.”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_IX__para_26__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_IX__para_26__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_IX__para_26__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_IX__para_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 24v as modified in subsection (1) shall only apply—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_IX__para_26__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_IX__para_26__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if the credit sale agreement was entered into before 18 March 2020; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_IX__para_26__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_IX__para_26__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if the purchaser has no overdue instalments before 18 March 2020. Saving"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_IX__para_27",
+      "@type": "akn:paragraph",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_IX",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The modification relating to subsection 24v(4) of the Consumer Protection Act 1999 in subsection 26(1) shall not affect any legal proceedings commenced to recover, or any judgment or award obtained for, the outstanding amount payable by the purchaser under the credit sale agreement during the period from 18 March 2020 until the date of publication of this Act. Modification to section 99"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_IX__para_28",
+      "@type": "akn:paragraph",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_IX",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The period of limitation specified in subsection 99(2) of the Consumer Protection Act 1999 which expires during the period from 18 March 2020 to 15 June 2020 shall be extended until 31 December 2020."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_V__para_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_V__para_16"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "MODIFICATIONS TO THE SARAWAK LIMITATION ORDINANCE Commencement of modifications to the Sarawak Limitation Ordinance"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VI__para_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VI__para_18"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "MODIFICATIONS TO THE PUBLIC AUTHORITIES PROTECTION ACT 1948 Commencement of modifications to the Public Authorities Protection Act 1948"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VII",
+      "@type": "akn:part",
+      "eli:number": "VII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VII__para_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VII__para_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VII__para_21"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "MODIFICATIONS TO THE INSOLVENCY ACT 1967 Commencement of modifications to the Insolvency Act 1967"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VIII",
+      "@type": "akn:part",
+      "eli:number": "VIII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VIII__para_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VIII__para_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VIII__para_24"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "MODIFICATIONS TO THE HIRE-PURCHASE ACT 1967 Commencement of modifications to the Hire-Purchase Act 1967"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VIII__para_22",
+      "@type": "akn:paragraph",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VIII__para_22__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VIII__para_22__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VIII__para_22__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VIII__para_22__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VIII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VIII__para_22__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VIII__para_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Part is deemed to have come into operation on 1 April 2020 and shall continue to remain in operation until 31 December 2020."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VIII__para_22__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VIII__para_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, by order published in the Gazette, extend the operation of this Part, the extension of which shall not exceed the period of operation of this Act provided in subsection 1(2) or any extended period under subsection 1(3), as the case may be."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VIII__para_22__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VIII__para_22__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VIII__para_22__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VIII__para_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An order under subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VIII__para_22__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VIII__para_22__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall not be made after the expiry period of the operation or the extended operation of this Part, as the case may be; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VIII__para_22__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VIII__para_22__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "may be made more than once."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VIII__para_22__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VIII__para_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An order made under subsection (2) shall be laid before the Dewan Rakyat as soon as practicable after its publication in the Gazette. Taking possession of goods comprised in a hire-purchase agreement under section 16"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VIII__para_23",
+      "@type": "akn:paragraph",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VIII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No owner shall exercise any power of taking possession of goods comprised in a hire-purchase agreement under section 16 of the Hire-Purchase Act 1967 for any default of payment of instalment during the period from 1 April 2020 to 30 September 2020. Saving"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VIII__para_24",
+      "@type": "akn:paragraph",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VIII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding section 19, any owner who has exercised his power of taking possession of goods comprised in a hire-purchase agreement under section 16 of the Hire-Purchase Act 1967 before the date of publication of this Act, shall be deemed to have validly exercised such power of taking possession of such goods as if the Hire-Purchase Act 1967 had not been modified by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VII__para_19",
+      "@type": "akn:paragraph",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VII__para_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VII__para_19__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VII__para_19__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VII__para_19__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VII__para_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VII__para_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Part comes into operation on the date of publication of this Act and shall continue to remain in operation until 31 August 2021."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VII__para_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VII__para_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, by order published in the Gazette, extend the operation of this Part, the extension of which shall not exceed the period of operation of this Act provided in subsection 1(2) or any extended period under subsection 1(3), as the case may be."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VII__para_19__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VII__para_19__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VII__para_19__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VII__para_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An order under subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VII__para_19__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VII__para_19__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall not be made after the expiry period of the operation or the extended operation of this Part, as the case may be; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VII__para_19__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VII__para_19__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "may be made more than once."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VII__para_19__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VII__para_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An order made under subsection (2) shall be laid before the Dewan Rakyat as soon as practicable after its publication in the Gazette. Modification to the amount of indebtedness"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VII__para_20",
+      "@type": "akn:paragraph",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "During the period of operation of this Part, a creditor or creditors shall not be entitled to present a bankruptcy petition against a debtor under section 2o or 5 of the Insolvency Act 1967, unless the debt owing by the debtor to the petitioning creditor, or if two or more creditors join in the petition the aggregate amount of debts owing to the several petitioning creditors, amounts to one hundred thousand ringgit. Saving"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VII__para_21",
+      "@type": "akn:paragraph",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any proceedings, actions or other matters required to be done under the Insolvency Act 1967 which are still pending immediately before the date of publication of this Act shall be dealt with under the Insolvency Act 1967 as if the Insolvency Act 1967 had not been modified by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VI__para_17",
+      "@type": "akn:paragraph",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Part is deemed to have come into operation on 18 March 2020 and shall continue to remain in operation until 31 December 2020. Limitation period in section 2 extended"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VI__para_18",
+      "@type": "akn:paragraph",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The limitation period specified in paragraph 2(a) of the Public Authorities Protection Act 1948 which expires during the period from 18 March 2020 to 31 August 2020 shall be extended to 31 December 2020."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_V__para_15",
+      "@type": "akn:paragraph",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Part is deemed to have come into operation on 18 March 2020 and shall continue to remain in operation until 31 December 2020. Limitation period extended"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_V__para_16",
+      "@type": "akn:paragraph",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any limitation period specified in paragraphs 1 to 4, subparagraph 5(a), paragraphs 8 to 29, paragraphs 31 and 32, paragraphs 34 to 78, paragraphs 82 to 94 and paragraphs 96, 98, 100, 106, 107, 111 and 113 in the Schedule to the Sarawak Limitation Ordinance which expires during the period from 18 March 2020 to 31 August 2020 shall be extended to 31 December 2020."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_X",
+      "@type": "akn:part",
+      "eli:number": "X",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_X__para_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_X__para_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_X__para_31"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "MODIFICATION TO THE DISTRESS ACT 1951 Commencement of modification to the Distress Act 1951"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI",
+      "@type": "akn:part",
+      "eli:number": "XI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_38"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "MODIFICATIONS TO THE HOUSING DEVELOPMENT (CONTROL AND LICENSING) ACT 1966 Commencement of modifications to the Housing Development (Control and Licensing) Act 1966"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XII",
+      "@type": "akn:part",
+      "eli:number": "XII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XII__para_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XII__para_40"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "MODIFICATIONS TO THE INDUSTRIAL RELATIONS ACT 1967 Commencement of modifications to the Industrial Relations Act 1967"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIII",
+      "@type": "akn:part",
+      "eli:number": "XIII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIII__para_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIII__para_42"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "MODIFICATION TO THE PRIVATE EMPLOYMENT AGENCIES ACT 1981 Commencement of modification to the Private Employment Agencies Act 1981"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIII__para_41",
+      "@type": "akn:paragraph",
+      "eli:number": "41",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Part is deemed to have come into operation on 18 March 2020. Time period for renewal of licence under section 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIII__para_42",
+      "@type": "akn:paragraph",
+      "eli:number": "42",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The period from 18 March 2020 to 9 June 2020 shall be excluded from the calculation of the period for an application to renew a licence under subsection 11(1) of the Private Employment Agencies Act 1981."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XII__para_39",
+      "@type": "akn:paragraph",
+      "eli:number": "39",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Part is deemed to have come into operation on 18 March 2020. Period for according recognition, making a report and filing of representation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XII__para_40",
+      "@type": "akn:paragraph",
+      "eli:number": "40",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The period from 18 March 2020 to 9 June 2020 shall be excluded from the calculation of the period under the Industrial Relations Act 1967 for according recognition or notifying the trade union of workmen concerned in writing the grounds for not according recognition under subsection 9(3), the making of a report in writing to the Director General for Industrial Relations under subsection 9(4) and the filing of representation under subsection 20(1a)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIV",
+      "@type": "akn:part",
+      "eli:number": "XIV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIV__para_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIV__para_44",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIV__para_45"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "MODIFICATIONS TO THE LAND PUBLIC TRANSPORT ACT 2010 Commencement of modifications to the Land Public Transport Act 2010"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIV__para_43",
+      "@type": "akn:paragraph",
+      "eli:number": "43",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIV__para_43__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIV__para_43__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIV__para_43__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIV__para_43__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIV__para_43__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIV__para_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Part is deemed to have come into operation on 1 August 2020 and shall continue to remain in operation until 31 December 2021."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIV__para_43__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIV__para_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, by order published in the Gazette, extend the operation of this Part, the extension of which shall not exceed the period of operation of this Act provided in subsection 1(2) or any extended period under subsection 1(3), as the case may be."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIV__para_43__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIV__para_43__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIV__para_43__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIV__para_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An order under subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIV__para_43__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIV__para_43__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall not be made after the expiry period of the operation or the extended operation of this Part, as the case may be; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIV__para_43__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIV__para_43__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "may be made more than once."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIV__para_43__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIV__para_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An order made under subsection (2) shall be laid before the Dewan Rakyat as soon as practicable after its publication in the Gazette. Modification to section 21"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIV__para_44",
+      "@type": "akn:paragraph",
+      "eli:number": "44",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Land Public Transport Act 2010 is modified by substituting for section 21 the following section: “Temporary change of use of public service vehicle or tourism vehicle 21. (1) Subject to subsection (2), the Director General of Land Public Transport may, on an application by a licensed operator of a public service vehicle or tourism vehicle, authorize for a period not exceeding twelve months for the licensed operator to use the vehicle for the purpose of a public service vehicle, tourism vehicle or goods vehicle of any other class. (2) The application made under subsection (1) shall be accompanied with the following: (a) information on any changes in technical specification of the vehicle, information on temporary use of the vehicle and any other information as determined by the Director General of Land Public Transport; and (b) additional insurance coverage for the vehicle. (3) The Director General of Land Public Transport may impose any condition on the authorization granted under subsection (1).”. Modification to section 56"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIV__para_45",
+      "@type": "akn:paragraph",
+      "eli:number": "45",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Land Public Transport Act 2010 is modified by substituting for section 56 the following section: “Temporary change of use of goods vehicle 56. (1) Subject to subsections (2) and (4), the Director General of Land Public Transport may, on an application by a licensed operator of goods vehicle, authorize for a period not exceeding twelve months the licensed operator of a particular class of goods vehicle to use the vehicle for the purpose of a public service vehicle, tourism vehicle or goods vehicle of any other class. (2) The application made under subsection (1) shall be accompanied with the following: (a) information on any changes in technical specification of the vehicle, information on temporary use of the vehicle and any other information as determined by the Director General of Land Public Transport; and (b) additional insurance coverage for the vehicle. (3) The Director General of Land Public Transport may impose any condition on the authorization granted under subsection (1). (4) Any goods vehicle authorized to be used for the purpose of tourism vehicle shall be operated by a tour operator licensed under the Tourism Industry Act 1992 [Act 482].”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIX",
+      "@type": "akn:part",
+      "eli:number": "XIX",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIX__para_57",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIX__para_58",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIX__para_59"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "MISCELLANEOUS Commencement of this Part"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIX__para_57",
+      "@type": "akn:paragraph",
+      "eli:number": "57",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIX",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Part is deemed to have come into operation on 18 March 2020. Extension of time to perform statutory duty or obligation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIX__para_58",
+      "@type": "akn:paragraph",
+      "eli:number": "58",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIX__para_58__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIX__para_58__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIX__para_58__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIX"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIX__para_58__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIX__para_58",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister charged with the responsibility for any Act may, if the Minister is of the opinion that any statutory duty or obligation is not possible to be performed within the time stipulated in such Act by any authority during the period from 18 March 2020 to 9 June 2020 due to the measures prescribed, made or taken under the Prevention and Control of Infectious Diseases Act 1988 to control or prevent the spread of COVID-19, by order published in the Gazette, extend the time for the authority to perform its statutory duties or obligations."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIX__para_58__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIX__para_58",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any order made under subsection (1) may be made to operate retrospectively to any date which is not earlier than 18 March 2020."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIX__para_58__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIX__para_58",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No authority shall be liable to any damages in respect of any failure to perform any statutory duty or obligation within the time stipulated in such Act. Alternative arrangement for statutory meeting"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIX__para_59",
+      "@type": "akn:paragraph",
+      "eli:number": "59",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIX__para_59__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIX__para_59__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIX"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIX__para_59__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIX__para_59",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister charged with the responsibility for any Act may, if the Minister is of the opinion that any statutory meeting is not possible to be convened, held or conducted in the manner provided in such Act during the period from 18 March 2020 to 9 June 2020 due to the measures prescribed, made or taken under the Prevention and Control of Infectious Diseases Act 1988 to control or prevent the spread of COVID-19, by order published in the Gazette, provide for alternative arrangements for such meeting."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIX__para_59__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XIX__para_59",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any statutory meeting convened, held or conducted not in the manner provided for in any Act regulating such statutory meeting on and after 18 March 2020 and before the making of the order under subsection (1) shall be deemed to have been validly convened, held or conducted."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_32",
+      "@type": "akn:paragraph",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Part is deemed to have come into operation on 18 March 2020. Interpretation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_33",
+      "@type": "akn:paragraph",
+      "eli:number": "33",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In this Part, “agreement” means agreement for the contract of sale for the sale and purchase of housing accommodation in the forms prescribed in Schedules G, H, I and J of the Housing Development (Control and Licensing) Regulations 1989 [P.U. (A) 58/1989] entered into before 18 March 2020. Late payment charges"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_34",
+      "@type": "akn:paragraph",
+      "eli:number": "34",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_34__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_34__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_34__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_34__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding any agreement entered into between the purchaser and the developer, where due to the measures prescribed, made or taken under the Prevention and Control of Infectious Diseases Act 1988 to control or prevent the spread of COVID-19 the purchaser fails to pay any instalment for the period from 18 March 2020 to 31 August 2020, the developer shall not impose any late payment charges in respect of such unpaid instalment on the purchaser."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_34__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The purchaser may apply to the Minister for an extension of the period referred to in subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_34__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon considering the application under subsection (2), the Minister may, if the Minister is satisfied that additional time is required by the purchaser, by written direction to the developer, extend the period in which the developer shall not impose any late payment charges on the purchaser in respect of such unpaid instalment up to 31 December 2020. Delivery of vacant possession and liquidated damages"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_35",
+      "@type": "akn:paragraph",
+      "eli:number": "35",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_35__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_35__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_35__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_35__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_35__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_35__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_35__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding any agreement entered into between the purchaser and the developer, the period from 18 March 2020 to 31 August 2020 shall be excluded from the calculation of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_35__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_35__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the time for delivery of vacant possession of a housing accommodation; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_35__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_35__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the liquidated damages for the failure of the developer to deliver vacant possession of a housing accommodation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_35__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The developer may apply to the Minister for an extension of the period referred to in subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_35__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon considering the application under subsection (2), the Minister may, if the Minister is satisfied that additional time is required by the developer to deliver vacant possession, by written direction grant to the developer an extension period of up to 31 December 2020 to deliver vacant possession and such extension shall have the same effect as the period excluded in subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_35__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding any agreement entered into between the purchaser and the developer, if the purchaser is unable to enter into possession of occupation of a housing accommodation from the date of service of a notice to take vacant possession from the developer during the period from 18 March 2020 to 31 August 2020 or any extension period granted under subsection (3), the purchaser shall not be deemed to have taken such vacant possession. Defect liability period"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_36",
+      "@type": "akn:paragraph",
+      "eli:number": "36",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_36__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_36__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_36__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_36__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_36__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_36__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding any agreement entered into between the purchaser and the developer, the period from 18 March 2020 to 31 August 2020 shall be excluded from the calculation of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_36__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_36__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the defect liability period after the date the purchaser takes vacant possession of a housing accommodation; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_36__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_36__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the time for the developer to carry out works to repair and make good the defect, shrinkages and other faults in a housing accommodation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_36__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The purchaser may apply to the Minister for an extension of the period referred to in subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_36__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_36__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_36__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon considering the application under subsection (2), the Minister may, if the Minister is satisfied that additional time is required by the purchaser, by written direction, exclude the period up to 31 December 2020 from the calculation of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_36__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_36__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the defect liability period after the date the purchaser takes vacant possession of a housing accommodation; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_36__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_36__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the time for the developer to carry out works to repair and make good the defect, shrinkages and other faults in a housing accommodation. Saving"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_37",
+      "@type": "akn:paragraph",
+      "eli:number": "37",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_37__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_37__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_37__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The modifications in sections 34, 35 and 36 shall not affect any legal proceedings commenced, or any judgment or award obtained, to recover late payment charges payable by the purchaser or liquidated damages payable by the developer or any other sum during the period from 18 March 2020 until the date of publication of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_37__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding sections 34 and 35, any late payment charges that has been paid by the purchaser or liquidated damages that has been paid by the developer before the date of publication of this Act shall be deemed to have been validly paid under the Housing Development (Control and Licensing) Act 1966 and its regulations, and such payment shall not be refunded to the payer. Modification to section 16n"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI__para_38",
+      "@type": "akn:paragraph",
+      "eli:number": "38",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection 16n(2) of the Housing Development (Control and Licensing) Act 1966, if the limitation period for the homebuyer to file a claim has expired during the period from 18 March 2020 to 9 June 2020, the homebuyer is entitled to file the claim from 4 May 2020 to 31 December 2020 and the Tribunal for Homebuyer Claims shall have jurisdiction to hear such claim."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XV",
+      "@type": "akn:part",
+      "eli:number": "XV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XV__para_46",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XV__para_47",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XV__para_48"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "MODIFICATIONS TO THE COMMERCIAL VEHICLES LICENSING BOARD ACT 1987 Commencement of modifications to the Commercial Vehicles Licensing Board Act 1987"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XVI",
+      "@type": "akn:part",
+      "eli:number": "XVI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XVI__para_49",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XVI__para_50",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XVI__para_51",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XVI__para_52"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "MODIFICATIONS TO THE COURTS OF JUDICATURE ACT 1964 Commencement of modifications to the Courts of Judicature Act 1964"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XVII",
+      "@type": "akn:part",
+      "eli:number": "XVII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XVII__para_53",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XVII__para_54"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "MODIFICATION TO THE SUBORDINATE COURTS ACT 1948 Commencement of modification to the Subordinate Courts Act 1948"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XVIII",
+      "@type": "akn:part",
+      "eli:number": "XVIII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XVIII__para_55",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XVIII__para_56"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "MODIFICATION TO THE SUBORDINATE COURTS RULES ACT 1955 Commencement of modification to the Subordinate Courts Rules Act 1955"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XVIII__para_55",
+      "@type": "akn:paragraph",
+      "eli:number": "55",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XVIII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Part is deemed to have come into operation on 18 March 2020 and shall continue to be in operation until the date of publication of this Act and shall continue to remain in operation for a period of two years from such date of publication. Modification to section 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XVIII__para_56",
+      "@type": "akn:paragraph",
+      "eli:number": "56",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XVIII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Subordinate Courts Rules Act 1955 is modified by inserting after subsection 3(6) the following subsection: “(7) The Chief Justice may, if the Chief Justice is of the opinion that the circumstances warrant and it is necessary in the interest of the dispensation of justice, public safety, public security, public health or propriety or for other sufficient reason to do so, modify any provision of the rules of court or suspend the application of such rules of court as is necessary for doing complete justice in any cause or matter pending before the Courts and to ensure that the administration of justice is carried out.”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XVII__para_53",
+      "@type": "akn:paragraph",
+      "eli:number": "53",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XVII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Part is deemed to have come into operation on 18 March 2020 and shall continue to be in operation until the date of publication of this Act and shall continue to remain in operation for a period of two years from such date of publication. New section 3a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XVII__para_54",
+      "@type": "akn:paragraph",
+      "eli:number": "54",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XVII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Subordinate Courts Act 1948 is modified by inserting after section 3 the following section: “General power of the Chief Justice to issue direction 3a. The Chief Justice may, if the Chief Justice is of the opinion that the circumstances warrant and it is necessary in the interest of the dispensation of justice, public safety, public security, public health or propriety or for other sufficient reason to do so, issue any direction relating to the business of the Subordinate Courts as may be necessary.”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XVI__para_49",
+      "@type": "akn:paragraph",
+      "eli:number": "49",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XVI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Part is deemed to have come into operation on 18 March 2020 and shall continue to be in operation until the date of publication of this Act and shall continue to remain in operation for a period of two years from such date of publication. New section 16a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XVI__para_50",
+      "@type": "akn:paragraph",
+      "eli:number": "50",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XVI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Courts of Judicature Act 1964 is modified by inserting after section 16 the following section: “General power of the Chief Justice to issue direction 16a. The Chief Justice may, if the Chief Justice is of the opinion that the circumstances warrant and it is necessary in the interest of the dispensation of justice, public safety, public security, public health or propriety or for other sufficient reason to do so, issue any direction relating to the business of the Court as may be necessary.”. Modification to section 17"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XVI__para_51",
+      "@type": "akn:paragraph",
+      "eli:number": "51",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XVI__para_51__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XVI__para_51__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XVI__para_51__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XVI",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Courts of Judicature Act 1964 is modified in section 17—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XVI__para_51__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XVI__para_51",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing subsection (3 a) as subsection (3b);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XVI__para_51__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XVI__para_51",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (3) the following subsection: “(3a) The Chief Justice may, if the Chief Justice is of the opinion that any meeting is not possible to be convened, held or conducted, provide for alternative arrangements for such meeting.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XVI__para_51__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XVI__para_51",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (7) the following subsection: “(8) The Chief Justice may, if the Chief Justice is of the opinion that the circumstances warrant and it is necessary in the interest of the dispensation of justice, public safety, public security, public health or propriety or for other sufficient reason to do so, modify any provision of the rules of court or suspend the application of such rules of court as is necessary for doing complete justice in any cause or matter pending before the Courts and to ensure that the administration of justice is carried out.”. Modification to section 17a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XVI__para_52",
+      "@type": "akn:paragraph",
+      "eli:number": "52",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XVI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 17a(1) of the Courts of Judicature Act 1964 is modified by deleting the words “but so that there shall be at least one meeting in each year”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XV__para_46",
+      "@type": "akn:paragraph",
+      "eli:number": "46",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XV__para_46__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XV__para_46__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XV__para_46__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XV__para_46__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XV__para_46__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XV__para_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Part is deemed to have come into operation on 1 August 2020 and shall continue to remain in operation until 31 December 2021."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XV__para_46__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XV__para_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, by order published in the Gazette, extend the operation of this Part, the extension of which shall not exceed the period of operation of this Act provided in subsection 1(2) or any extended period under subsection 1(3), as the case may be."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XV__para_46__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XV__para_46__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XV__para_46__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XV__para_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An order under subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XV__para_46__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XV__para_46__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall not be made after the expiry period of the operation or the extended operation of this Part, as the case may be; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XV__para_46__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XV__para_46__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "may be made more than once."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XV__para_46__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XV__para_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An order made under subsection (2) shall be laid before the Dewan Rakyat as soon as practicable after its publication in the Gazette. Modification to section 23"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XV__para_47",
+      "@type": "akn:paragraph",
+      "eli:number": "47",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commercial Vehicles Licensing Board Act 1987 is modified by substituting for section 23 the following section: “Temporary change of use of public service vehicle 23. (1) Subject to subsection (2), the Board may, on an application by any holder of a public service vehicle licence of a particular class, authorize for a period not exceeding twelve months the holder of a public service vehicle licence of a particular class to use the vehicle for the purpose of a public service vehicle or goods vehicle of any other class. (2) The application made under subsection (1) shall be accompanied with the following: (a) information on any changes in technical specification of the vehicle, information on temporary use of the vehicle and any other information as determined by the Board; and (b) additional insurance coverage for the vehicle. (3) The Board may impose any conditions on the authorization granted under subsection (1).”. Modification to section 24"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XV__para_48",
+      "@type": "akn:paragraph",
+      "eli:number": "48",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_XV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Commercial Vehicles Licensing Board Act 1987 is modified by substituting for section 24 the following section: “Temporary change of use of ‘C’ vehicle or ‘A’ vehicle 24. (1) Subject to subsection (2), the Board may, on an application by any holder of a carrier’s licence ‘C’ vehicle or ‘A’ vehicle, authorize for a period not exceeding twelve months the holder of a carrier’s licence ‘C’ vehicle or ‘A’ vehicle to use the vehicle for the purpose of a public service vehicle or goods vehicle of any other class. (2) The application made under subsection (1) shall be accompanied with the following: (a) information on any changes in technical specification of the vehicle, information on temporary use of the vehicle and any other information as determined by the Board; and (b) additional insurance coverage for the vehicle. (3) The Board may impose any conditions on the authorization granted under subsection (1).”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_X__para_29",
+      "@type": "akn:paragraph",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_X",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Part is deemed to have come into operation on 18 March 2020 and shall continue to remain in operation until 31 December 2020. Modification to section 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_X__para_30",
+      "@type": "akn:paragraph",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_X",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of the recovery of rent due or payable to the landlord by a tenant of any premises, a warrant of distress issued under subsection 5(1) of the Distress Act 1951, shall not include the distrain for the arrears of rent for the period from 18 March 2020 to 31 August 2020. Saving"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_X__para_31",
+      "@type": "akn:paragraph",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/6/eng@/~sched_1__part_X",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any execution of the warrant of distress for the recovery of rent due or payable to the landlord by a tenant of any premises that has been issued before the date of publication of this Act shall be dealt with under the Distress Act 1951 as if the Distress Act 1951 had not been modified by this Act."
       }
     }
   ]

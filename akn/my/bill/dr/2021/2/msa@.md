@@ -558,7 +558,9 @@ dengan kategori yang anggota penanggung insurans dikelaskan di bawah peraturan-p
 
 ### penerima deposit yang merupakan suatu bank Islam
 
-134b. Dalam penggulungan suatu anggota penerima deposit yang merupakan suatu bank Islam di dalam atau di luar Malaysia—
+134b. Dalam penggulungan suatu anggota penerima deposit yang merupakan suatu bank Islam di dalam atau di luar
+
+<!-- marginal: Malaysia— -->
 
 (a) aset anggota penerima deposit itu, tertakluk kepada perenggan (b) hendaklah tersedia untuk menunaikan semua liabiliti anggota penerima deposit itu berkenaan dengan deposit Islamnya di Malaysia dalam keutamaan
 

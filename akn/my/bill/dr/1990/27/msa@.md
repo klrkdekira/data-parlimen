@@ -46,11 +46,7 @@ ibu", adalah dipinda—
 
 <!-- page 2 -->
 
-(b) dengan memasukkan, selepas sahaja
-
-<!-- marginal: takrif -->
-
-"kayu", takrif yang berikut: "Ketua Pengarah" ertinya Ketua Pengarah yang dilantik di bawah seksyen 9 dan ter- masuklah Timbalan Ketua Pengarah;';
+(b) dengan memasukkan, selepas sahaja takrif "kayu", takrif yang berikut: "Ketua Pengarah" ertinya Ketua Pengarah yang dilantik di bawah seksyen 9 dan ter- masuklah Timbalan Ketua Pengarah;';
 
 (c) dengan memotong takrif "pembungkus";
 
@@ -64,7 +60,11 @@ ibu", adalah dipinda—
 
 (h) dengan menggantikan takrif "pihak berkuasa pemeringkatan" dengan yang berikut: ' "pihak berkuasa pemeringkatan" ertinya, sehingga selainnya dinyatakan oleh Menteri melalui pemberitahu dalam Warta, Ketua Pengarah Perhutanan, Malaysia Barat ber- hubung dengan Malaysia Barat, Pemelihara Hutan, Sabah berhubung dengan Sabah dan orang atau orang-orang yang di lantik oleh Perbadanan Kemajuan Perusahaan Kayu Sarawak berhubung dengan Sarawak; ;
 
-(i) dengan menggantikan takrif "yad", dengan takrif- takrif yang berikut: ' "tempat pendaratan yang sah" mempunyai Akta 235. erti yang diberikan kepadanya dalam Akta Kastam 1967;
+(i) dengan menggantikan takrif "yad", dengan takrif- takrif yang berikut: ' "tempat pendaratan yang sah" mempunyai
+
+<!-- marginal: Akta 235. -->
+
+erti yang diberikan kepadanya dalam Akta Kastam 1967;
 
 <!-- page 3 -->
 
@@ -88,17 +88,9 @@ subseksyen (1) dengan yang berikut:
 
 (c) seorang wakil daripada Kementerian Perdagangan dan Perindustrian;
 
-(d) seorang wakil daripada
+(d) seorang wakil daripada Jabatan Perhutanan Semenanjung Malaysia;
 
-<!-- marginal: Jabatan -->
-
-Perhutanan Semenanjung Malaysia;
-
-(e) seorang wakil daripada
-
-<!-- marginal: Institut -->
-
-Penyelidikan Hutan Malaysia;
+(e) seorang wakil daripada Institut Penyelidikan Hutan Malaysia;
 
 (f) seorang wakil tiap-tiap satu daripada tidak lebih daripada mana-mana lima buah Negeri sebagaimana yang ditetapkan oleh Menteri;
 
@@ -108,13 +100,25 @@ Penyelidikan Hutan Malaysia;
 
 <!-- page 4 -->
 
-Pindaan 4. Seksyen 5 Akta ibu adalah dipinda dengan memotong seksyen 5. subseksyen (2).
+<!-- marginal: Pindaan -->
 
-Seksyen baru 5. Akta ibu adalah dipinda dengan memasukkan, selepas seksyen 5, seksyen 5A baru yang berikut:
+4. Seksyen 5 Akta ibu adalah dipinda dengan memotong
+
+<!-- marginal: seksyen 5. -->
+
+subseksyen (2).
+
+<!-- marginal: Seksyen baru -->
+
+5. Akta ibu adalah dipinda dengan memasukkan, selepas seksyen 5, seksyen 5A baru yang berikut:
 
 "Tempoh 8A. Setiap ahli Lembaga hendaklah, melainkan jawatan. jika dia terlebih dahulu berhenti daripada menjadi ahli atau perlantikannya terlebih dahulu dibatalkan, memegang jawatan selama suatu tempoh tidak melebihi dua tahun, tetapi adalah lavak dilantik semula.".
 
-Pindaan 6. Seksyen 7 Akta ibu adalah dipinda— seksyen 7.
+<!-- marginal: Pindaan -->
+
+6. Seksyen 7 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 7. -->
 
 (a) dengan menggantikan subseksyen (1), dengan yang berikut:
 
@@ -154,7 +158,21 @@ Pindaan 6. Seksyen 7 Akta ibu adalah dipinda— seksyen 7.
 
 <!-- marginal: seksyen 9. -->
 
-dengan yang berikut: "Perlantikan 9. (1) Menteri hendaklah melantik seorang pegawai- Ketua Pengarah Lembaga mengikut terma-terma pegawai dan dan syarat-syarat dan bagi suatu tempoh yang pengkhidmat- 'dinyatakan sebagaimana yang dia boleh tentukan. pengkhidmat.
+dengan yang berikut:
+
+<!-- marginal: "Perlantikan -->
+
+9. (1) Menteri hendaklah melantik seorang
+
+<!-- marginal: pegawai- -->
+
+Ketua Pengarah Lembaga mengikut terma-terma
+
+<!-- marginal: pegawai -->
+
+<!-- marginal: dan -->
+
+dan syarat-syarat dan bagi suatu tempoh yang pengkhidmat- 'dinyatakan sebagaimana yang dia boleh tentukan. pengkhidmat.
 
 (2) Lembaga boleh, mengikut terma dan syarat, melantik seorang Timbalan Ketua Pengarah Lembaga dan beberapa orang pegawai dan pengkhidmat lain Lembaga, termasuk Pemeriksa Kawalan Kualiti, sebagaimana yang difikirkannya pedu dan suaimanfaat bagi menjalankan fungsi-fungsinya.
 
@@ -162,17 +180,55 @@ dengan yang berikut: "Perlantikan 9. (1) Menteri hendaklah melantik seorang pega
 
 (3) Perlantikan Ketua Pengarah, Timbalan Ketua Pengarah dan Pemeriksa Kawalan Kualiti hendaklah disiarkan dalam Warta".
 
-Seksyen baru 9. Akta ibu adalah dipinda dengan memasukkan, selepas 9A dan 9B. sahaja seksyen 9, seksyen 9A dan 9B baru yang berikut: "Lembaga 9A. Lembaga boleh dari semasa ke semasa boleh mem- dengan kelulusan Menteri dan persetujuan peruntukkan skim-skim Menteri Kewangan, selepas berunding dengan perkhid- Ketua Pengarah Perkhidmatan Awam, membuat matan. peraturan-peraturan untuk memperuntukkan bagi apa-apa skim perkhidmatan bagi pegawai- pegawai dan pengkhidmat-pengkhidmatnya, termasuklah terma dan syarat perkhidmatan dan gaji, apa-apa skim pencen, dan apa-apa skim berhubungan dengan elaun dan lain-lain saraan yang dibayar kepada pegawai-pegawai dan pengkhidmat-pengkhidmatnya. Kuasa-kuasa 9e. (1) Ketua Pengarah hendaklah menjadi dan tugas- ketua pegawai eksekutif Lembaga dan hendaklah tugas Ketua mempunyai semua kuasa dan tugas sedemikian Pengarah. yang perlu untuk menjalankan pentadbiran dan fungsi-fungsi teknikal Lembaga. (2) Kuasa dan tugas yang disebutkan di dalam subseksyen (1) hendaklah menjadi tambahan kepada mana-mana kuasa atau tugas yang diberikan atau dipertanggungkan kepada Ketua Pengarah oleh Lembaga atau Akta ini dan mana- mana peraturan yang dibuat di bawahnya. (3) Ketua Pengarah hendaklah—
+<!-- marginal: Seksyen baru -->
 
-(a) mengemukakan bagi kelulusan Lembaga— (i) suatu program
+9. Akta ibu adalah dipinda dengan memasukkan, selepas
 
-<!-- marginal: tahunan -->
+<!-- marginal: 9A dan 9B. -->
 
-aktiviti-aktiviti Lembaga; dan (ii) anggaran perbelanjaan yang perlu untuk melaksanakan aktiviti-aktiviti Lembaga;
+sahaja seksyen 9, seksyen 9A dan 9B baru yang berikut:
 
-(b) memastikan bahawa program di- luluskan dijalankan
+<!-- marginal: "Lembaga -->
 
-<!-- marginal: dengan -->
+9A. Lembaga boleh dari semasa ke semasa
+
+<!-- marginal: boleh mem- -->
+
+dengan kelulusan Menteri dan persetujuan
+
+<!-- marginal: peruntukkan -->
+
+<!-- marginal: skim-skim -->
+
+Menteri Kewangan, selepas berunding dengan
+
+<!-- marginal: perkhid- -->
+
+Ketua Pengarah Perkhidmatan Awam, membuat
+
+<!-- marginal: matan. -->
+
+peraturan-peraturan untuk memperuntukkan bagi apa-apa skim perkhidmatan bagi pegawai- pegawai dan pengkhidmat-pengkhidmatnya, termasuklah terma dan syarat perkhidmatan dan gaji, apa-apa skim pencen, dan apa-apa skim berhubungan dengan elaun dan lain-lain saraan yang dibayar kepada pegawai-pegawai dan pengkhidmat-pengkhidmatnya.
+
+<!-- marginal: Kuasa-kuasa -->
+
+9e. (1) Ketua Pengarah hendaklah menjadi
+
+<!-- marginal: dan tugas- -->
+
+ketua pegawai eksekutif Lembaga dan hendaklah
+
+<!-- marginal: tugas Ketua -->
+
+mempunyai semua kuasa dan tugas sedemikian
+
+<!-- marginal: Pengarah. -->
+
+yang perlu untuk menjalankan pentadbiran dan fungsi-fungsi teknikal Lembaga. (2) Kuasa dan tugas yang disebutkan di dalam subseksyen (1) hendaklah menjadi tambahan kepada mana-mana kuasa atau tugas yang diberikan atau dipertanggungkan kepada Ketua Pengarah oleh Lembaga atau Akta ini dan mana- mana peraturan yang dibuat di bawahnya. (3) Ketua Pengarah hendaklah—
+
+(a) mengemukakan bagi kelulusan Lembaga— (i) suatu program tahunan aktiviti-aktiviti Lembaga; dan (ii) anggaran perbelanjaan yang perlu untuk melaksanakan aktiviti-aktiviti Lembaga;
+
+(b) memastikan bahawa program di- luluskan dijalankan dengan
 
 <!-- page 7 -->
 
@@ -180,11 +236,7 @@ aktiviti-aktiviti Lembaga; dan (ii) anggaran perbelanjaan yang perlu untuk melak
 
 sempurna dan bahawa perbelanjaan melaksanakan program diluluskan dan begitu juga bagi pentadbiran Lembaga adalah mengikut anggaran- anggaran yang diluluskan oleh Lembaga; dan
 
-(c) memastikan Lembaga diberitahu sepenuhnya mengenai perkem- bangan aktiviti-aktiviti, dan menye- diakan serta menyerahkan kepada Lembaga dengan seberapa segera yang mungkin selepas setiap akhir tahun kewangan suatu
-
-<!-- marginal: laporan -->
-
-berkenaan dengan pentadbiran Lembaga disertai dengan suatu pernyataan pendapatan dan per- belanjaan bagi, bersama-sama dengan suatu kunci kira-kira pada akhir, tahun kewangan itu.
+(c) memastikan Lembaga diberitahu sepenuhnya mengenai perkem- bangan aktiviti-aktiviti, dan menye- diakan serta menyerahkan kepada Lembaga dengan seberapa segera yang mungkin selepas setiap akhir tahun kewangan suatu laporan berkenaan dengan pentadbiran Lembaga disertai dengan suatu pernyataan pendapatan dan per- belanjaan bagi, bersama-sama dengan suatu kunci kira-kira pada akhir, tahun kewangan itu.
 
 (4) Jika Ketua Pengarah buat sementara waktu tidak dapat menjalankan tugas-tugasnya atas sebab-sebab sakit, ketidakhadiran atau lain-lain sebab, Timbalan Ketua Pengarah hendaklah menjalankan kiiasa-kuasa dan tugas-tugas Ketua Pengarah.
 
@@ -218,7 +270,11 @@ berkenaan dengan pentadbiran Lembaga disertai dengan suatu pernyataan pendapatan
 
 (b) dengan memasukkan dalam perenggan (a) subseksyen (2), selepas sahaja perkataan "rundingan", perkataan-perkataan "dan perjanjian atau perkiraan" dan, selepas sahaja perkataan "Lembaga", perkataan-perkataan "bagi melak- sanakan fungsi-fungsinya dan".
 
-Pindaan 11. Seksyen 13 Akta ibu adalah dipinda— seksyen!3.
+<!-- marginal: Pindaan -->
+
+11. Seksyen 13 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen!3. -->
 
 (a) dengan menggantikan subseksyen (4) dengan yang berikut:
 
@@ -232,7 +288,15 @@ Pindaan 11. Seksyen 13 Akta ibu adalah dipinda— seksyen!3.
 
 (c) dengan menggantikan perkataan "dollars" dalam subseksyen (7) dalam teks Bahasa Inggeris, dengan perkataan "ringgit".
 
-12. Akta ibu adalah dipinda dengan memasukkan, selepas sahaja seksyen 13, seksyen baru 13A berikut: "Penge- 13A. Menteri boleh, atas kepentingan per- cualian. industrian kayu dan dengan perintah yang disiarkan dalam Warta, mengecualikan mana- mana orang daripada kehendak pendaftaran di bawah seksyen 13.".
+12. Akta ibu adalah dipinda dengan memasukkan, selepas sahaja seksyen 13, seksyen baru 13A berikut:
+
+<!-- marginal: "Penge- -->
+
+13A. Menteri boleh, atas kepentingan per-
+
+<!-- marginal: cualian. -->
+
+industrian kayu dan dengan perintah yang disiarkan dalam Warta, mengecualikan mana- mana orang daripada kehendak pendaftaran di bawah seksyen 13.".
 
 <!-- marginal: Pindaan -->
 
@@ -242,7 +306,9 @@ Pindaan 11. Seksyen 13 Akta ibu adalah dipinda— seksyen!3.
 
 (a) menggantikan subseksyen (1) dengan yang berikut: " (1) Mana-mana orang yang berhasrat untuk mengekspot kayu atau menjalankan peraiagaan sebagai seorang pengekspot atau pengendali jeti atau mana-mana pemeringkat yang berhasrat untuk menjalankan perniagaan memeringkat kayu atau mana-mana orang yang berhasrat menjalankan perniagaan sebagai pembekal atau pemproses kayu boleh, dalam apa-apa cara sebagaimana yang ditentukan, memohon kepada Lembaga untuk pendaftaran.";
 
-(b) dengan menggantikan subseksyen (2) dengan yang berikut: "(2) Lembaga boleh, dengan bayaran fee sebagaimana yang boleh ditetapkan, mendaftar- kan seseorang pemohon di bawah subseksyen (1) sebagai pengeksport, penggendali jeti, peme- ringkat berdaftar, pembekal atau pemproses kayu, mengikut mana yang berkenaan, tertakluk kepada syarat-syarat dan sekatan-sekatan yang Lembaga boleh sifatkan layak dikenakan."; dan
+(b) dengan menggantikan subseksyen (2) dengan yang berikut: "(2) Lembaga boleh, dengan bayaran fee sebagaimana yang boleh ditetapkan, mendaftar- kan seseorang pemohon di bawah subseksyen
+
+(1) sebagai pengeksport, penggendali jeti, peme- ringkat berdaftar, pembekal atau pemproses kayu, mengikut mana yang berkenaan, tertakluk kepada syarat-syarat dan sekatan-sekatan yang Lembaga boleh sifatkan layak dikenakan."; dan
 
 (c) dengan menggantikan subseksyen (3) dengan yang berikut: "(3) Tiap-tiap pendaftaran di bawah seksyen ini hendaklah sah bagi tempoh satu tahun, atau
 
@@ -250,7 +316,41 @@ Pindaan 11. Seksyen 13 Akta ibu adalah dipinda— seksyen!3.
 
 suatu tempoh yang lebih panjang tetapi tidak melebihi lima tahun sebagaimana Lembaga boleh tentukan, daripada tarikh pendaftaran dan hendaklah boleh diperbaharui, melainkan di- batalkan di bawah seksyen 17 terlebih dahulu, mengikut budi bicara Lembaga, bagi suatu tempoh selanjutnya yang tidak kurang dari satu tahun tetapi tidak melebihi lima tahun sebagai- mana Lembaga sifatkan patut.".
 
-Seksyen baru 14. Akta ibu adalah dipinda dengan memasukkan, selepas 14A. sahaja seksyen 14, seksyen 14A baru yang berikut: "Kuasa HA. (1) Lembaga hendaklah mempunyai kuasa untuk untuk tnengubah syarat atau sekatan yang mengubah syarat- dikenakan ke atas apa-apa pendaftaran di bawah syarat atau subseksyen (2) seksyen 14: sekatan- sekatan Dengan syarat bahawa Lembaga tidak boleh pendaf- taran. mengubah apa-apa syarat atau sekatan sesuatu pendaftaran melainkan suatu notis yang berpatutan dan suatu peluang untuk didengar apa- apa bantahan kepada perubahan yang dicadangkan telah diberikan kepada seseorang berdaftar yang kemungkinan terjejas oleh perubahan sedemikian.
+<!-- marginal: Seksyen baru -->
+
+14. Akta ibu adalah dipinda dengan memasukkan, selepas
+
+14A. sahaja seksyen 14, seksyen 14A baru yang berikut:
+
+<!-- marginal: "Kuasa -->
+
+HA. (1) Lembaga hendaklah mempunyai kuasa
+
+<!-- marginal: untuk -->
+
+untuk tnengubah syarat atau sekatan yang
+
+<!-- marginal: mengubah -->
+
+<!-- marginal: syarat- -->
+
+dikenakan ke atas apa-apa pendaftaran di bawah
+
+<!-- marginal: syarat atau -->
+
+subseksyen (2) seksyen 14:
+
+<!-- marginal: sekatan- -->
+
+<!-- marginal: sekatan -->
+
+Dengan syarat bahawa Lembaga tidak boleh
+
+<!-- marginal: pendaf- -->
+
+<!-- marginal: taran. -->
+
+mengubah apa-apa syarat atau sekatan sesuatu pendaftaran melainkan suatu notis yang berpatutan dan suatu peluang untuk didengar apa- apa bantahan kepada perubahan yang dicadangkan telah diberikan kepada seseorang berdaftar yang kemungkinan terjejas oleh perubahan sedemikian.
 
 (2) Lembaga boleh, apabila mendengar apa- apa bantahan di bawah subseksyen (1), menolak bantahan itu jika ia fikirkan yang ianya tiada merit dan hendaklah diteruskan untuk mengubah syarat atau sekatan pendaftaran sepertimana yang dicadangkan.
 
@@ -270,7 +370,11 @@ jika ada, di bawah subseksyen (3) telah ditentu- kan berpihak kepada Lembaga.".
 
 <!-- marginal: seksyen 15. -->
 
-seksyen 15 dengan yang berikut: "Daftar. 15. Lembaga hendaklah menyimpan atau menyebabkan disimpan satu daftar pengeksport, penggendali jeti, pemeringkat berdaftar, pembekal dan pemproses kayu sebagaimana cara yang ia boleh tentukan.".
+seksyen 15 dengan yang berikut:
+
+<!-- marginal: "Daftar. -->
+
+15. Lembaga hendaklah menyimpan atau menyebabkan disimpan satu daftar pengeksport, penggendali jeti, pemeringkat berdaftar, pembekal dan pemproses kayu sebagaimana cara yang ia boleh tentukan.".
 
 <!-- marginal: Pindaan -->
 
@@ -280,11 +384,7 @@ seksyen 15 dengan yang berikut: "Daftar. 15. Lembaga hendaklah menyimpan atau me
 
 (a) dengan memasukkan perkataan "menggantung,", selepas sahaja perkataan-perkataan "Kuasa untuk", dalam nota birai;
 
-(b) dengan memasukkan perkataan "menggantung,", selepas sahaja perkataan-perkataan
-
-<!-- marginal: "di -->
-
-bawahnya,", dalam subseksyen (1);
+(b) dengan memasukkan perkataan "menggantung,", selepas sahaja perkataan-perkataan "di bawahnya,", dalam subseksyen (1);
 
 (c) dengan memasukkan perkataan-perkataan "digantung atau", selepas sahaja perkataan- perkataan "tidak patut", dalam subseksyen (2);
 
@@ -294,7 +394,9 @@ bawahnya,", dalam subseksyen (1);
 
 "Dengan syarat bahawa apa-apa penggantungan pendaftaran di bawah peruntukan ini tidak boleh melebihi tempoh enam bulan."; dan
 
-(e) dengan memasukkan, selepas sahaja subseksyen (5), subseksyen baru (5A) yang berikut: "(5A) (a) Lembaga tidak boleh enggan untuk membaharui pendaftaran seseorang yang
+(e) dengan memasukkan, selepas sahaja subseksyen
+
+(5), subseksyen baru (5A) yang berikut: "(5A) (a) Lembaga tidak boleh enggan untuk membaharui pendaftaran seseorang yang
 
 <!-- page 12 -->
 
@@ -302,11 +404,21 @@ berdaftar di bawah subseksyen (1) tanpa ter- dahulu memberi orang itu suatu pelu
 
 (b) Jika Lembaga enggan untuk membaharui pendaftaran seseorang yang berdaftar di bawah subseksyen (1) ia hendaklah memberitahu orang itu secara bertulis dengan menyatakan sebab- sebab keengganan itu.";
 
-Pindaan 17. Seksyen 18 Akta ibu adalah dipinda dengan seksyen 18. menggantikan subseksyen (1) dengan yang berikut:
+<!-- marginal: Pindaan -->
+
+17. Seksyen 18 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 18. -->
+
+menggantikan subseksyen (1) dengan yang berikut:
 
 "(1) Mana-mana orang yang terkilan dengan keputusan Lembaga, yang enggan melakukan pen- daftaran di bawah seksyen 14 atau menggantung, membatal atau enggan membaharui pendaftaran di bawah seksyen 17, boleh, dalam tempoh tiga puluh hari dari tarikh keputusan itu diberitahu kepadanya, merayu kepada Menteri.".
 
-Pindaan 18. Seksyen 19 Akta ibu adalah dipinda— seksyen 19.
+<!-- marginal: Pindaan -->
+
+18. Seksyen 19 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 19. -->
 
 (a) dalam subseksyen (2)—
 
@@ -342,25 +454,63 @@ diiktiraf;";
 
 (e) tertakluk kepada kelulusan Menteri yang diberi selepas rundingan dengan Menteri Kewangan, membuat sumbangan kepada mana-mana pertubuhan tempatan atau antarabangsa, bagi tujuan menggalakkan perda- gangan, penggunaan dan pem- prosesan kayu dan memastikan bekalan kayu yang mencukupi kepada industri."; dan
 
-(c) dengan menggantikan perkataan-perkataan "diperuntukkan oleh Parlimen" dalam subseksyen (4), dengan perkataan-perkataan "diterima dengan cara pemberian daripada Kerajaan Persekutuan atau mana-mana Kerajaan Negeri".
+(c) dengan menggantikan perkataan-perkataan "diperuntukkan oleh Parlimen" dalam subseksyen
+
+(4), dengan perkataan-perkataan "diterima dengan cara pemberian daripada Kerajaan Persekutuan atau mana-mana Kerajaan Negeri".
 
 <!-- page 14 -->
 
-Seksyen baru 19. Akta ibu adalah dipinda dengan memasukkan, selepas
+<!-- marginal: Seksyen baru -->
+
+19. Akta ibu adalah dipinda dengan memasukkan, selepas
 
 20A. sahaja seksyen 20, seksyen 20A baru yang berikut: "Kuasa 20A. Lembaga boleh dari semasa ke semasa untuk me- ngenakan menetap dan memungut fee dan caj berkenaan dan memu- dengan apa-apa khidmat nasihat teknikal atau ngut fee dan lain lain-lain khidmat yang diberikan oleh Lembaga bentuk pem- menurut Akta ini.". bayaran.
 
-Pindaan 20. Seksyen 22 Akta ibu adalah dipinda dengan seksyen 22. memasukkan, selepas sahaja perkataan "oleh", perkataan- perkataan "Menteri, dengan persetujuan".
+<!-- marginal: Pindaan -->
 
-Pindaan 21. Seksyen 23 Akta ibu adalah dipinda dengan seksyen 23. menggantikan perkataan-perkataan "akan bertindak selepas berunding dengan" dengan perkataan-perkataan "diberi dengan persetujuan".
+20. Seksyen 22 Akta ibu adalah dipinda dengan
 
-Pindaan 22. Seksyen 24 Akta ibu adalah dipinda dengan seksyen 24. menggantikan perkataan "Pengerusi" di mana jua terdapat, dengan perkataan-perkataan "Ketua Pengarah".
+<!-- marginal: seksyen 22. -->
 
-Penggantian 23. Akta ibu adalah dipinda dengan menggantikan seksyen seksyen 25. 25 dengan yang berikut: "Audit dan 25. Akta Badan Berkanun (Akaun dan Laporan laporan Tahunan) 1980 hendaklah terpakai berkenaan tahunan. Akta 240 dengan akaun, audit dan laporan tahunan Lembaga.".
+memasukkan, selepas sahaja perkataan "oleh", perkataan- perkataan "Menteri, dengan persetujuan".
 
-Pindaan 24. Akta ibu adalah dipinda dengan memotong seksyen seksyen 26. 26.
+<!-- marginal: Pindaan -->
 
-Pindaan 25. Seksyen 27 Akta ibu adalah dipinda— seksyen 27.
+21. Seksyen 23 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 23. -->
+
+menggantikan perkataan-perkataan "akan bertindak selepas berunding dengan" dengan perkataan-perkataan "diberi dengan persetujuan".
+
+<!-- marginal: Pindaan -->
+
+22. Seksyen 24 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 24. -->
+
+menggantikan perkataan "Pengerusi" di mana jua terdapat, dengan perkataan-perkataan "Ketua Pengarah".
+
+<!-- marginal: Penggantian -->
+
+23. Akta ibu adalah dipinda dengan menggantikan seksyen
+
+<!-- marginal: seksyen 25. -->
+
+25 dengan yang berikut: "Audit dan 25. Akta Badan Berkanun (Akaun dan Laporan laporan Tahunan) 1980 hendaklah terpakai berkenaan tahunan. Akta 240 dengan akaun, audit dan laporan tahunan Lembaga.".
+
+<!-- marginal: Pindaan -->
+
+24. Akta ibu adalah dipinda dengan memotong seksyen
+
+<!-- marginal: seksyen 26. -->
+
+26.
+
+<!-- marginal: Pindaan -->
+
+25. Seksyen 27 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 27. -->
 
 (a) dengan menggantikan subseksyen (1) dengan yang berikut: "(1) Ketua Pengarah atau mana-mana pegawai Lembaga, dengan keizinan Pengerusi, boleh, jika dia mempunyai sebab yang munasabah untuk mempercayai bahawa telah
 
@@ -370,33 +520,79 @@ Pindaan 25. Seksyen 27 Akta ibu adalah dipinda— seksyen 27.
 
 dilakukan satu kesalahan di bawah Akta ini, memasuki mana-mana premis perniagaan, kilang atau yad yang digunakan oleh, seorang pengeksport dan menjalankan pemeriksaan dan penelitian yang dia fikir perlu, dan menyita dan menahan apa-apa buku, dokumen atau benda- benda lain yang dijumpai di dalara premis, kilang atau yad itu yang boleh menjadi bukti mengenai perlakuan kesalahan di bawah Akta ini atau kaedah-kaedah atau peraturan-peraturan di bawahnya.";
 
-(b) dengan menggantikan subseksyen (3) dengan yang berikut: "(3) Walau apa pun peruntukan subseksyen (1), Pemeriksa Kawalan Kualiti, yang bertindak di bawah subseksyen tersebut atas kuasa bertulis Ketua Pengarah, hanya boleh menjalankan pemeriksaan dan penelitian sebagaimana yang difikirkannya perlu bagi tujuan memeriksa atau memverifikasikan mutu yang sebenar dan yang dikehendaki bagi mana-mana kayu pengeksport yang dijumpai di dalam mana-mana premis, kilang atau yad dan boleh, jika dia mempunyai alasan yang munasabah untuk mempercayai bahawa suatu kesalahan telah dilakukan di bawah Akta ini berhubung dengan mutu kayu, menyita dan menahan hanya buku-buku, dokumen-dokumen atau benda-benda lain yang boleh menjadi bukti dalam perlakuan suatu kesalahan berhubungan dengan kualiti kayu.";
+(b) dengan menggantikan subseksyen (3) dengan yang berikut: "(3) Walau apa pun peruntukan subseksyen
 
-(c) dalam subseksyen (4)— (i) dengan menggantikan perkataan- perkataan "Pengerusi atau seseorang pegawai Lembaga yang diberikuasa", dengan perkataan-perkataan "Ketua Pengarah, setelah mendapat keizinan daripada Pengerusi,"; dan (ii) dengan memasukkan, sebelum sahaja perkataan "penjualan",
+(1), Pemeriksa Kawalan Kualiti, yang bertindak di bawah subseksyen tersebut atas kuasa bertulis Ketua Pengarah, hanya boleh menjalankan pemeriksaan dan penelitian sebagaimana yang difikirkannya perlu bagi tujuan memeriksa atau memverifikasikan mutu yang sebenar dan yang dikehendaki bagi mana-mana kayu pengeksport yang dijumpai di dalam mana-mana premis, kilang atau yad dan boleh, jika dia mempunyai alasan yang munasabah untuk mempercayai bahawa suatu kesalahan telah dilakukan di bawah Akta ini berhubung dengan mutu kayu, menyita dan menahan hanya buku-buku, dokumen-dokumen atau benda-benda lain yang boleh menjadi bukti dalam perlakuan suatu kesalahan berhubungan dengan kualiti kayu.";
 
-<!-- marginal: perkataan -->
-
-"pengalihan,";
+(c) dalam subseksyen (4)— (i) dengan menggantikan perkataan- perkataan "Pengerusi atau seseorang pegawai Lembaga yang diberikuasa", dengan perkataan-perkataan "Ketua Pengarah, setelah mendapat keizinan daripada Pengerusi,"; dan (ii) dengan memasukkan, sebelum sahaja perkataan "penjualan", perkataan "pengalihan,";
 
 <!-- page 16 -->
 
 (d) dengan memasukkan, selepas sahaja perkataan- perkataan "seseorang yang" dalam subseksyen (5), perkataan "mengalih,"; dan
 
-(e) dengan memasukkan, selepas sahaja subseksyen (5), subseksyen (6) dan (7) baru yang berikut:
+(e) dengan memasukkan, selepas sahaja subseksyen
+
+(5), subseksyen (6) dan (7) baru yang berikut:
 
 "(6) Jika Ketua Pengarah mempunyai sebab untuk mempercayai bahawa sesuatu kesalahan di bawah Akta ini atau kaedah-kaedah atau peraturan-peraturan di bawahnya telah dilakukan berkenaan dengan apa-apa kayu yang dijumpai dalam masa pemeriksaan dan penelitian di bawah seksyen ini, dia boleh, jika perlu menyebabkan supaya kayu itu berada di dalam penjagaan Lembaga.
 
 (7) Jika Ketua Pengarah telah mendapat keizinan daripada Pengerusi bagi maksud- maksud subseksyen (1) dia boleh memberi kuasa kepada mana-mana pegawai Lembaga untuk menjalankan kuasa-kuasa yang diberi di bawah subseksyen (1), (4), atau (6).".
 
-26. Akta ibu adalah dipinda dengan memasukkan, selepas Seksyen baru 27A, 27B, sahaja seksyen 27, seksyen 27A, 27B, 27c, 27D, 27E, 27F, 27C, 27D, 27G, 27H, 27I, 27J dan 27K baru yang berikut: 27E, 27F,
+26. Akta ibu adalah dipinda dengan memasukkan, selepas
 
-27G. 27H, "Ketua
+<!-- marginal: Seksyen baru -->
 
-271. 27j dan 27A. Ketua Pengarah atau mana-mana pegawai Pengarah
+<!-- marginal: 27A, 27B, -->
 
-27K. Lembaga yang diberikuasa secara bertulis oleh hendaklah menjalan- Ketua Pengarah boleh, jika dia mempunyai sebab kan peme- untuk mempercayai bahawa suatu kesalahan di riksaan di bawah Akta ini atau kaedah-kaedah atau tempat pendaratan peraturan-peraturan yang dibuat di bawahnya yang sah. telah dilakukan, menjalankan pemeriksaan dan penelitian di mana-mana tempat pendaratan yang sah sebagaimana yang difikirkan perlu, dan boleh menyita dan menahan apa-apa kayu, buku, dokumen atau benda-benda lain yang dijumpai di situ.
+sahaja seksyen 27, seksyen 27A, 27B, 27c, 27D, 27E, 27F,
 
-Senarai 27B. Jika apa-apa kayu, buku, dokumen atau sitaan. benda-benda lain disita di bawah seksyen 27 atau 27A, pegawai yang melakukan penyitaan itu
+<!-- marginal: 27C, 27D, -->
+
+27G, 27H, 27I, 27J dan 27K baru yang berikut:
+
+<!-- marginal: 27E, 27F, -->
+
+27G. 27H,
+
+<!-- marginal: "Ketua -->
+
+271. 27j dan 27A. Ketua Pengarah atau mana-mana pegawai
+
+<!-- marginal: Pengarah -->
+
+27K. Lembaga yang diberikuasa secara bertulis oleh
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: menjalan- -->
+
+Ketua Pengarah boleh, jika dia mempunyai sebab
+
+<!-- marginal: kan peme- -->
+
+untuk mempercayai bahawa suatu kesalahan di
+
+<!-- marginal: riksaan di -->
+
+bawah Akta ini atau kaedah-kaedah atau
+
+<!-- marginal: tempat -->
+
+<!-- marginal: pendaratan -->
+
+peraturan-peraturan yang dibuat di bawahnya
+
+<!-- marginal: yang sah. -->
+
+telah dilakukan, menjalankan pemeriksaan dan penelitian di mana-mana tempat pendaratan yang sah sebagaimana yang difikirkan perlu, dan boleh menyita dan menahan apa-apa kayu, buku, dokumen atau benda-benda lain yang dijumpai di situ.
+
+<!-- marginal: Senarai -->
+
+27B. Jika apa-apa kayu, buku, dokumen atau
+
+<!-- marginal: sitaan. -->
+
+benda-benda lain disita di bawah seksyen 27 atau 27A, pegawai yang melakukan penyitaan itu
 
 <!-- page 17 -->
 
@@ -418,11 +614,7 @@ Lembaga yang diberi kuasa bertulis olehnya, boleh, menurut budi bicaranya—
 
 (a) memulangkan untuk sementara kayu itu kepada pemiliknya atau orang daripada milikan, jagaan atau kawalannya kayu itu disita, tertakluk kepada terma-terma dan syarat-syarat yang boleh dikenakan oleh Ketua Pengarah, dan dalam apa-apa kes pun, tertakluk kepada cagaran yang mencukupi dengan memuaskan hati Ketua Pengarah bahawa kayu itu akan diserahkan kepada Ketua Pengarah atau mana-mana pegawai Lembaga yang diberikuasa apabila diminta dan terma-terma dan syarat-syarat tersebut, jika ada, hendaklah dipatuhi; atau
 
-(b) memulangkan kayu itu kepada pemiliknya atau orang yang daripada milikan, jagaan atau kawalannya kayu itu disita dengan kebebasan bagi orang yang kepadanya kayu itu dipulangkan untuk melupuskannya, pemulangan itu adalah tertakluk kepada pemberian cagaran sehingga memuaskan hati Ketua Pengarah dalam amaun tidak kurang daripada amaun yang pada pendapat Ketua Pengarah menunjukkan nilai pasaran terbuka kayu tersebut pada
-
-<!-- marginal: tarikh -->
-
-dipulangkan bagi pembayaran amaun yang dicagarkan itu kepada Ketua Pengarah sekiranya Mahkamah membuat suatu perintah bagi melucutkan amaun itu di bawah seksyen 27s; atau
+(b) memulangkan kayu itu kepada pemiliknya atau orang yang daripada milikan, jagaan atau kawalannya kayu itu disita dengan kebebasan bagi orang yang kepadanya kayu itu dipulangkan untuk melupuskannya, pemulangan itu adalah tertakluk kepada pemberian cagaran sehingga memuaskan hati Ketua Pengarah dalam amaun tidak kurang daripada amaun yang pada pendapat Ketua Pengarah menunjukkan nilai pasaran terbuka kayu tersebut pada tarikh dipulangkan bagi pembayaran amaun yang dicagarkan itu kepada Ketua Pengarah sekiranya Mahkamah membuat suatu perintah bagi melucutkan amaun itu di bawah seksyen 27s; atau
 
 (c) menjual kayu itu jika pada pendapat Ketua Pengarah ia kemungkina n akan merosot
 
@@ -432,9 +624,33 @@ dari segi mutu atau nilai dan dalam hal demikian Ketua Pengarah hendaklah memega
 
 (2) Tiada seorang pun berhak mengambil apa- apa tindakan atas sebab apa-apa perbuatan yang dilakukan oleh atau apa-apa keputusannya yang dibuat oleh atau bagi pihak Lembaga di bawah ini dan tiada Mahkamah boleh mempunyai apa-apa bidang kuasa untuk melayani mana-mana tindakan sedemikian.
 
-Benda-benda 27o. Semua benda yang disita di bawah Akta ini boleh di boleh dilucuthakkan. lucuthak.
+<!-- marginal: Benda-benda -->
 
-Mahkamah 2?E. (1) Jika tiada pendakwaan dibuat ber- hendaklah kenaan dengan mana-mana kayu yang disita memerintah perlucut- di bawah Akta ini, kayu tersebut hendaklah di- hakan. ambil dan disifatkan sebagai terlucuthak apabila tamatnya satu bulan kalendar dari tarikh penyitaan melainkan jika suatu tuntutan ter- hadapnya dibuat sebelum tarikh tersebut di bawah dan mengikut Akta ini.
+27o. Semua benda yang disita di bawah Akta ini
+
+<!-- marginal: boleh di -->
+
+boleh dilucuthakkan.
+
+<!-- marginal: lucuthak. -->
+
+<!-- marginal: Mahkamah -->
+
+2?E. (1) Jika tiada pendakwaan dibuat ber-
+
+<!-- marginal: hendaklah -->
+
+kenaan dengan mana-mana kayu yang disita
+
+<!-- marginal: memerintah -->
+
+<!-- marginal: perlucut- -->
+
+di bawah Akta ini, kayu tersebut hendaklah di-
+
+<!-- marginal: hakan. -->
+
+ambil dan disifatkan sebagai terlucuthak apabila tamatnya satu bulan kalendar dari tarikh penyitaan melainkan jika suatu tuntutan ter- hadapnya dibuat sebelum tarikh tersebut di bawah dan mengikut Akta ini.
 
 (2) Mana-mana orang yang mendakwa bahawa dia adalah pemilik kayu yang disita itu atau berhak kepada hasil jualan kayu itu dan bahawa kayu itu tidak boleh dilucuthak boleh dengan sendiri atau melalui agennya yang diberikuasa bertulis memberi notis bertulis kepada Ketua Pengarah menyatakan bahawa dia menuntut kayu yang disita itu atau hasil jualan kayu itu.
 
@@ -448,13 +664,45 @@ Mahkamah 2?E. (1) Jika tiada pendakwaan dibuat ber- hendaklah kenaan dengan mana
 
 (5) Dalam apa-apa prosiding di bawah Akta ini Lembaga boleh diwakili oleh Ketua Pengarah atau seorang pegawai atau pengkhidmat Lembaga yang diberi kuasa bertulis bagi maksud itu oleh Ketua Pengarah.
 
-Benda-benda 27F. Apa-apa benda atau hasil
+<!-- marginal: Benda-benda -->
 
-<!-- marginal: jualan -->
+27F. Apa-apa benda atau hasil jualan
 
-dilucuthak mengenainya yang dilucuthak atau diambil dan hendaklah menjadi disifatkan sebagai dilucuthak di bawah Akta ini harta hendaklah menjadi harta Persekutuan atau Persekutuan. dibayar ke dalam Kumpulan Wang Disatukan Persekutuan, setelah ditolak apa-apa perbelanjaan yang disahkan oleh Ketua Pengarah sebagai telah dibelanjakan oleh Lembaga dalam melaksanakan peruntukan seksyen 27 atau 27A dan dalam menjalankan jualan di bawah Akta ini.
+<!-- marginal: dilucuthak -->
 
-Tiada kos 27G. Tiada seorang pun dalam mana-mana apa-apa prosiding di mana-mana Mahkamah berkenaan prosiding boleh di- dengan penyitaan apa-apa kayu atau apa-apa benarkan. benda lain yang disita-dalam menjalankan apa- apa kuasa yang diberi di bawah Akta ini berhak terhadap kos prosiding tersebut atau apa-apa ganti rugi atau relief lain kecuali suatu perintah bagi pemulangan kayu itu atau benda-benda lain yang telah disita atau pembayaran nilainya melainkan
+mengenainya yang dilucuthak atau diambil dan
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: menjadi -->
+
+disifatkan sebagai dilucuthak di bawah Akta ini
+
+<!-- marginal: harta -->
+
+hendaklah menjadi harta Persekutuan atau
+
+<!-- marginal: Persekutuan. -->
+
+dibayar ke dalam Kumpulan Wang Disatukan Persekutuan, setelah ditolak apa-apa perbelanjaan yang disahkan oleh Ketua Pengarah sebagai telah dibelanjakan oleh Lembaga dalam melaksanakan peruntukan seksyen 27 atau 27A dan dalam menjalankan jualan di bawah Akta ini.
+
+<!-- marginal: Tiada kos -->
+
+27G. Tiada seorang pun dalam mana-mana
+
+<!-- marginal: apa-apa -->
+
+prosiding di mana-mana Mahkamah berkenaan
+
+<!-- marginal: prosiding -->
+
+<!-- marginal: boleh di- -->
+
+dengan penyitaan apa-apa kayu atau apa-apa
+
+<!-- marginal: benarkan. -->
+
+benda lain yang disita-dalam menjalankan apa- apa kuasa yang diberi di bawah Akta ini berhak terhadap kos prosiding tersebut atau apa-apa ganti rugi atau relief lain kecuali suatu perintah bagi pemulangan kayu itu atau benda-benda lain yang telah disita atau pembayaran nilainya melainkan
 
 <!-- page 20 -->
 
@@ -462,17 +710,51 @@ Tiada kos 27G. Tiada seorang pun dalam mana-mana apa-apa prosiding di mana-mana 
 
 jika penyitaan itu dibuat tanpa sebab munasabah atau sebab barangkali.
 
-Maklumat 27H. Jika mana-mana orang yang dikehendaki palsu atau untuk memberi maklumat di bawah Akta ini keliru. member! maklumat yang palsu atau keliru atau yang dia mempunyai sebab untuk mempercayai palsu atau keliru atau yang dia mempercayainya tidak benar berhubungan dengan apa-apa hal di bawah Akta ini atau kaedah-kaedah atau peraturan-peraturan yang dibuat di bawahnya, dia adalah melakukan suatu kesalahan.
+<!-- marginal: Maklumat -->
 
-Pengemukaan 27I. Seseorang pegawai yang menjalankan kad kuasa. kuasanya di bawah seksyen 27 hendaklah, jika dikehendaki sedemikian oleh seseorang yang menjaga atau yang mengawal apa-apa tempat atau premis perniagaan, kilang atau yad di mana kemasukan hendak dibuat atau pemeriksaan atau ujian hendak dijalankan, mengemukakan bukti identiti dan kebenaran secara bertulisnya kepada orang itu.
+27H. Jika mana-mana orang yang dikehendaki
 
-Halangan 27J. Mana-mana orang yang dengan apa-apa cara pegawai- menghalang, menggalang, menahan atau pegawai yang diberi- mengganggu Ketua Pengarah atau mana-mana kuasa. pegawai Lembaga, dalam menjalankan kuasa atau tugasnya di bawah Akta ini atau yang gagal untuk memberi bantuan yang semunasabahnya dikehendaki oleh Ketua Pengarah atau mana- mana pegawai Lembaga, adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama suatu tempoh
+<!-- marginal: palsu atau -->
 
-<!-- marginal: tidak -->
+untuk memberi maklumat di bawah Akta ini
 
-melebihi satu tahun atau kedua-duanya.
+<!-- marginal: keliru. -->
 
-Pemeriksaan 27K. (1) Ketua Pengarah atau mana-mana saksi-saksi. pegawai Lembaga boleh, dalam menjalankan pemeriksaan dan penelitian menurut peruntukan- peruntukan Akta ini, memeriksa secara lisan mana-mana orang yang dipercayainya menge- tahui tentang fakta dan hal keadaan kes itu dan hendaklah mengambil dalam bentuk bertulis apa- apa kenyataan yang dibuat oleh orang yang
+member! maklumat yang palsu atau keliru atau yang dia mempunyai sebab untuk mempercayai palsu atau keliru atau yang dia mempercayainya tidak benar berhubungan dengan apa-apa hal di bawah Akta ini atau kaedah-kaedah atau peraturan-peraturan yang dibuat di bawahnya, dia adalah melakukan suatu kesalahan.
+
+<!-- marginal: Pengemukaan -->
+
+27I. Seseorang pegawai yang menjalankan
+
+<!-- marginal: kad kuasa. -->
+
+kuasanya di bawah seksyen 27 hendaklah, jika dikehendaki sedemikian oleh seseorang yang menjaga atau yang mengawal apa-apa tempat atau premis perniagaan, kilang atau yad di mana kemasukan hendak dibuat atau pemeriksaan atau ujian hendak dijalankan, mengemukakan bukti identiti dan kebenaran secara bertulisnya kepada orang itu.
+
+<!-- marginal: Halangan -->
+
+27J. Mana-mana orang yang dengan apa-apa cara
+
+<!-- marginal: pegawai- -->
+
+menghalang, menggalang, menahan atau
+
+<!-- marginal: pegawai -->
+
+<!-- marginal: yang diberi- -->
+
+mengganggu Ketua Pengarah atau mana-mana
+
+<!-- marginal: kuasa. -->
+
+pegawai Lembaga, dalam menjalankan kuasa atau tugasnya di bawah Akta ini atau yang gagal untuk memberi bantuan yang semunasabahnya dikehendaki oleh Ketua Pengarah atau mana- mana pegawai Lembaga, adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama suatu tempoh tidak melebihi satu tahun atau kedua-duanya.
+
+<!-- marginal: Pemeriksaan -->
+
+27K. (1) Ketua Pengarah atau mana-mana
+
+<!-- marginal: saksi-saksi. -->
+
+pegawai Lembaga boleh, dalam menjalankan pemeriksaan dan penelitian menurut peruntukan- peruntukan Akta ini, memeriksa secara lisan mana-mana orang yang dipercayainya menge- tahui tentang fakta dan hal keadaan kes itu dan hendaklah mengambil dalam bentuk bertulis apa- apa kenyataan yang dibuat oleh orang yang
 
 <!-- page 21 -->
 
@@ -518,9 +800,13 @@ undang- kerosakan yang disebabkan kepada mana-mana undang. orang atas sebab apa-
 
 <!-- page 22 -->
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
-30. Akta ibu adalah dipinda dengan memasukkan, selepas 30A dan 30B. sahaja seksyen 30, seksyen baru 30A dan 30B yang berikut:
+30. Akta ibu adalah dipinda dengan memasukkan, selepas
+
+<!-- marginal: 30A dan 30B. -->
+
+sahaja seksyen 30, seksyen baru 30A dan 30B yang berikut:
 
 "Pendak- 30A. Pendakwaan berkenaan dengan suatu waan kesalahan-kesalahan di bawah Akta ini atau apa- kesalahan- kesalahan. apa peraturan yang dibuat di bawahnya boleh dilakukan oleh Ketua Pengarah atau mana-mana pegawai Lembaga yang diberikuasa secara bertulis bagi maksud itu olehnya.
 
@@ -528,9 +814,13 @@ Kuasa untuk 30B. (1) Apa-apa kesalahan terhadap Akta ini mengkom- atau terhadap 
 
 (2) Apabila menerima pembayaran di bawah subseksyen (1), tiada prosiding lanjut boleh di- ambil terhadap orang itu dan apa-apa kayu yang tertakluk kepada suatu notis larangan di bawah seksyen 27 hendaklah dilepaskan tertakluk kepada apa-apa terma dan syarat pembetulan yang sesuai bagi pelanggaran, melainkan kayu itu terdiri daripada keluaran yang pengeksportan- nya dilarang oleh mana-mana undang-undang bertulis, dan dalam hal yang demikian kayu itu hendaklah dilucuthak."
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
-31. Akta ibu adalah dipinda dengan memasukkan, selepas 33A dan 33B. sahaja seksyen 33, seksyen baru 33A dan 33B yang berikut: "Kesalahan 33A. Jika apa-apa kesalahan terhadap mana- yang di- mana peruntukan Akta ini, atau apa-apa lakukan oleh per- peraturan-peraturan yang dibuat di bawahnya badanan. telah dilakukan oleh suatu kumpulan orang, di- perbadankan atau sebaliknya, mana-mana orang yang pada masa kesalahan itu dilakukan adalah seorang pengarah, setiausaha, pengawal atau mana-mana pegawai lain yang seumpamanya
+31. Akta ibu adalah dipinda dengan memasukkan, selepas
+
+<!-- marginal: 33A dan 33B. -->
+
+sahaja seksyen 33, seksyen baru 33A dan 33B yang berikut: "Kesalahan 33A. Jika apa-apa kesalahan terhadap mana- yang di- mana peruntukan Akta ini, atau apa-apa lakukan oleh per- peraturan-peraturan yang dibuat di bawahnya badanan. telah dilakukan oleh suatu kumpulan orang, di- perbadankan atau sebaliknya, mana-mana orang yang pada masa kesalahan itu dilakukan adalah seorang pengarah, setiausaha, pengawal atau mana-mana pegawai lain yang seumpamanya
 
 <!-- page 23 -->
 
@@ -538,7 +828,27 @@ Seksyen baru
 
 yang menjaga kumpulan orang sedemikian atau yang berupa sebagai bertindak atas sifat sedemikian itu adalah melakukan kesalahan itu mel?;nkan dia membuktikan bahawa kesalahan itu telah dilakukan tanpa persetujuan atau pembiarannya dan bahawa dia telah menjalankan segala usaha untuk mengelak berlakunya kesalahan itu sebagaimana yang patut dijalankan olehnya memandang kepada jenis fungsi- fungsinya atas sifat itu dan kepada segala hal keadaan.
 
-Kesalahan- 33s. Jika mana-mana orang (yang dalam seksyen kesalahan ini disebut "prinsipal") yang boleh dikenakan yang dilaku- kan oleh apa-apa hukuman atau penalti bagi apa-apa pengkhidmat, kesalahan, perbuatan, peninggalan, pengabaian agen dll. atau keingkaran di bawah Akta ini, dia boleh dikenakan hukuman atau penalti yang sama bagi tiap-tiap kesalahan, perbuatan, peninggalan, pengabaian atau keingkaran oleh mana-mana kerani, pengkhidmat atau agennya atau kerani atau pengkhidmat bagi agen itu:
+<!-- marginal: Kesalahan- -->
+
+33s. Jika mana-mana orang (yang dalam seksyen
+
+<!-- marginal: kesalahan -->
+
+ini disebut "prinsipal") yang boleh dikenakan
+
+<!-- marginal: yang dilaku- -->
+
+<!-- marginal: kan oleh -->
+
+apa-apa hukuman atau penalti bagi apa-apa
+
+<!-- marginal: pengkhidmat, -->
+
+kesalahan, perbuatan, peninggalan, pengabaian
+
+<!-- marginal: agen dll. -->
+
+atau keingkaran di bawah Akta ini, dia boleh dikenakan hukuman atau penalti yang sama bagi tiap-tiap kesalahan, perbuatan, peninggalan, pengabaian atau keingkaran oleh mana-mana kerani, pengkhidmat atau agennya atau kerani atau pengkhidmat bagi agen itu:
 
 Dengan syarat bahawa kesalahan, perbuatan, peninggalan, pengabaian atau keingkaran itu telah dilakukan oleh kerani atau pengkhidmat prinsipal itu dalam penjalanan pekerjaannya atau oleh agen apabila bertindak bagi pihak prinsipal itu, atau oleh kerani atau pengkhidmat agen itu dalam penjalanan pekerjaannya atau sebaliknya bagi pihak agen itu.".
 
@@ -548,7 +858,9 @@ Dengan syarat bahawa kesalahan, perbuatan, peninggalan, pengabaian atau keingkar
 
 <!-- marginal: seksyen 34. -->
 
-(a) dalam subseksyen (1)— (i) dengan memotong perkataan "dan" di hujung perenggan (b);
+(a) dalam subseksyen (1)—
+
+(i) dengan memotong perkataan "dan" di hujung perenggan (b);
 
 (ii) dengan menggantikan noktah di hujung perenggan (c) dengan koma bertitik dan memasukkan, selepas itu, perkataan "dan"; dan
 
@@ -572,17 +884,7 @@ Dengan syarat bahawa kesalahan, perbuatan, peninggalan, pengabaian atau keingkar
 
 (v) dengan memasukkan, selepas sahaja perenggan (i), perenggan baru (j) yang berikut:
 
-"(j) memperuntukkan
-
-<!-- marginal: bagi -->
-
-<!-- marginal: semua -->
-
-prosedur dan lain-lain hal, pada setakat mana yang
-
-<!-- marginal: ianya tidak -->
-
-termasuk dalam mana-mana pereng- gan terdahulu yang dalam Akta ini dikehendaki atau dibenarkan untuk ditetapkan atau yang perlu ditetapkan bagi melaksanakan atau memberi kesan kepada peruntukan-peruntukan Akta ini.".
+"(j) memperuntukkan bagi semua prosedur dan lain-lain hal, pada setakat mana yang ianya tidak termasuk dalam mana-mana pereng- gan terdahulu yang dalam Akta ini dikehendaki atau dibenarkan untuk ditetapkan atau yang perlu ditetapkan bagi melaksanakan atau memberi kesan kepada peruntukan-peruntukan Akta ini.".
 
 <!-- page 25 -->
 
@@ -598,7 +900,35 @@ sahaja seksyen 34, seksyen baru 34A, 34B dan 34c yang
 
 <!-- marginal: 34c. -->
 
-berikut: "Disiplin 34A. (1) Maka hendaklah terdapat suatu pegawai- Jawatankuasa Tatatertib bagi Lembaga yang pegawai dan terdiri daripada dua orang ahli yang akan dipilih peng- oleh dan daripada ahli-ahli Lembaga, yang khidmat- seorang daripada mereka hendaklah dipilih peng- khidmat. menjadi pengerusi, dan Ketua Pengarah yang dilantik di bawah subseksyen (1) seksyen 9.
+<!-- marginal: berikut: -->
+
+<!-- marginal: "Disiplin -->
+
+34A. (1) Maka hendaklah terdapat suatu
+
+<!-- marginal: pegawai- -->
+
+Jawatankuasa Tatatertib bagi Lembaga yang
+
+<!-- marginal: pegawai -->
+
+<!-- marginal: dan -->
+
+terdiri daripada dua orang ahli yang akan dipilih
+
+<!-- marginal: peng- -->
+
+oleh dan daripada ahli-ahli Lembaga, yang
+
+<!-- marginal: khidmat- -->
+
+seorang daripada mereka hendaklah dipilih
+
+<!-- marginal: peng- -->
+
+<!-- marginal: khidmat. -->
+
+menjadi pengerusi, dan Ketua Pengarah yang dilantik di bawah subseksyen (1) seksyen 9.
 
 (2) Pihak berkuasa tatatertib berkenaan dengan tiap-tiap pegawai dan pengkhidmat Lembaga, selain daripada Ketua Pengarah ialah Jawatankuasa Tatatertib Lembaga itu yang ditubuhkan di bawah subseksyen (1).
 
@@ -620,13 +950,11 @@ mana-mana pegawai atau pengkhidmat tertentu Lembaga atau berkenaan dengan mana-m
 
 (9) Keputusan Lembaga terhadap rayuan itu adalah muktamad.
 
-Surcaj. 34B, (1) Jika ternyata kepada Lembaga bahawa mana-mana orang yang sedang atau telah bekerja dengan Lembaga—
+<!-- marginal: Surcaj. -->
 
-(a) telah gagal untuk mengutip apa-apa wang yang terhutang kepada Lembaga yang pemungutannya menjadi
+34B, (1) Jika ternyata kepada Lembaga bahawa mana-mana orang yang sedang atau telah bekerja dengan Lembaga—
 
-<!-- marginal: tanggung- -->
-
-jawabnya;
+(a) telah gagal untuk mengutip apa-apa wang yang terhutang kepada Lembaga yang pemungutannya menjadi tanggung- jawabnya;
 
 <!-- page 27 -->
 
@@ -640,11 +968,7 @@ jawabnya;
 
 (e) telah gagal membuat apa-apa pembayaran, atau adalah atau telah bertanggungjawab atas apa-apa kelambatan dalam pem- bayaran wang daripada Kumpulanwang kepada mana-mana orang yang kepadanya bayaran itu kena dibuat di bawah mana- mana kontrak, perjanjian atau perkiraan yang dibuat di antara orang itu dengan Lembaga,
 
-Lembaga hendaklah menyampaikan suatu notis bertulis kepadanya yang memintanya menunjukkan sebab mengapa dia tidak sepatutnya disurcajkan, dan jika penjelasan yang memuaskan . hati tidak diberikan dalam tempoh empat belas hari dari tarikh penyampaian notis yang disebutkan terdahulu kepada Lembaga mengenai kegagalan mengutip bayaran yang
-
-<!-- marginal: tidak -->
-
-sepatutnya dibuat, bayaran yang tidak disahkan dengan sewajarnya, kekurangan atau pemusnahan atau kegagalan menyimpan akaun atau rekod yang sepatutnya, atau kegagalan membuat bayaran, atau kelambatan dalam membuat bayaran, maka Lembaga boleh mensurcajkan sejumlah wang
+Lembaga hendaklah menyampaikan suatu notis bertulis kepadanya yang memintanya menunjukkan sebab mengapa dia tidak sepatutnya disurcajkan, dan jika penjelasan yang memuaskan . hati tidak diberikan dalam tempoh empat belas hari dari tarikh penyampaian notis yang disebutkan terdahulu kepada Lembaga mengenai kegagalan mengutip bayaran yang tidak sepatutnya dibuat, bayaran yang tidak disahkan dengan sewajarnya, kekurangan atau pemusnahan atau kegagalan menyimpan akaun atau rekod yang sepatutnya, atau kegagalan membuat bayaran, atau kelambatan dalam membuat bayaran, maka Lembaga boleh mensurcajkan sejumlah wang
 
 <!-- page 28 -->
 
@@ -666,7 +990,23 @@ terhadap orang tersebut yang tidak melebihi amaun apa-apa amaun sedemikian yang 
 
 dengan ansuran bulanan yang sama banyak tidak melebihi satu perempat daripada jumlah gaji atau pencen bulanan, mengikut mana yang berkenaan, orang itu.
 
-Kuasa 34c. (1) Lembaga boleh, dengan kelulusan membuat Menteri, membuat apa-apa peraturan-peraturan peraturan- peraturan tatatertib sebagaimana yang difikirkannya perlu tatatertib atau suaimanfaat untuk memperuntukkan mengenai tatatertib pegawai-pegawai dan pengkhidmat-pengkhidmat Lembaga.
+<!-- marginal: Kuasa -->
+
+34c. (1) Lembaga boleh, dengan kelulusan
+
+<!-- marginal: membuat -->
+
+Menteri, membuat apa-apa peraturan-peraturan
+
+<!-- marginal: peraturan- -->
+
+<!-- marginal: peraturan -->
+
+tatatertib sebagaimana yang difikirkannya perlu
+
+<!-- marginal: tatatertib -->
+
+atau suaimanfaat untuk memperuntukkan mengenai tatatertib pegawai-pegawai dan pengkhidmat-pengkhidmat Lembaga.
 
 (2) Peraturan-peraturan tatatertib yang dibuat oleh Lembaga di bawah seksyen ini boleh mengandungi peruntukan-peruntukan mengenai tahanan kerja dengan pengurangan gaji atau saraan lain, atau peruntukan-peruntukan mengenai penggantungan kerja tanpa gaji atau saraan lain, seseorang pegawai atau pengkhidmat Lembaga sementara menanti presiding tatatertib selesai.
 
@@ -676,13 +1016,15 @@ Kuasa 34c. (1) Lembaga boleh, dengan kelulusan membuat Menteri, membuat apa-apa 
 
 <!-- page 30 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
 34. Akta ibu adalah dipinda dengan menggantikan Jadual
 
 ## Jadual
 
-Pertama dengan yang berikut: Pertama.
+Pertama dengan yang berikut:
+
+<!-- marginal: Pertama. -->
 
 ## "JADUAL PERTAMA
 

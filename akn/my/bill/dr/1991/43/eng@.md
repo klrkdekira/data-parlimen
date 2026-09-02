@@ -8,43 +8,19 @@
 
 ## PRELIMINARY
 
-1. Short title and commencement.
-
-2. Interpretation.
+1. Short title and commencement. 2. Interpretation.
 
 ## PART II
 
 ## THE LEMBAGA
 
-3. The Lembaga.
-
-4. Functions of the Lembaga.
-
-5. Membership of the Lembaga.
-
-6. Public Authorities Protection Act 1948.
-
-7. Public servants.
-
-8. Power of the Minister to give directions.
-
-9. The Kawasan Lembaga Pembangunan Labuan.
-
-10. Returns, reports, accounts and information.
+3. The Lembaga. 4. Functions of the Lembaga. 5. Membership of the Lembaga. 6. Public Authorities Protection Act 1948. 7. Public servants. 8. Power of the Minister to give directions. 9. The Kawasan Lembaga Pembangunan Labuan. 10. Returns, reports, accounts and information.
 
 ## PART III
 
 ## CHAIRMAN, OFFICERS, SERVANTS
 
-11. The Chairman.
-
-12. The General Manager.
-
-13. Appointment of officers and servants of the Lembaga.
-
-14. Regulations with respect to conditions of service.
-
-15. Regulations with respect to discipline.
+11. The Chairman. 12. The General Manager. 13. Appointment of officers and servants of the Lembaga. 14. Regulations with respect to conditions of service. 15. Regulations with respect to discipline.
 
 ## PART
 
@@ -52,13 +28,7 @@ IV
 
 ## FINANCE
 
-16. The Fund.
-
-17. Conservation of the Fund.
-
-18. Reserve fund.
-
-19. Expenditure to be charged on the Fund.
+16. The Fund. 17. Conservation of the Fund. 18. Reserve fund. 19. Expenditure to be charged on the Fund.
 
 20. Expenditure and preparations of estimates.
 
@@ -70,13 +40,33 @@ IV
 
 ## OTHER POWERS AND FUNCTIONS OF THE LEMBAGA
 
-22. Jurisdiction of the Lembaga. 23. Power to borrow. 24. Investment. 25. Power to employ. 26. Power to grant loans. 27. Power to establish corporations. 28. Acquisition of land.
+22. Jurisdiction of the Lembaga.
+
+23. Power to borrow.
+
+24. Investment.
+
+25. Power to employ.
+
+26. Power to grant loans.
+
+27. Power to establish corporations.
+
+28. Acquisition of land.
 
 ## PART VI
 
 ## GENERAL
 
-29. Obligation of secrecy. 30. Power to make regulations. 31. Things done in anticipation of the enactment of this Act. 32. Modification. 33. Non-application.
+29. Obligation of secrecy.
+
+30. Power to make regulations.
+
+31. Things done in anticipation of the enactment of this Act.
+
+32. Modification.
+
+33. Non-application.
 
 FlRST SCHEDULE.
 
@@ -96,17 +86,31 @@ BE IT ENACTED by the Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Ag
 
 ## PRELIMINARY
 
-Short title
+<!-- marginal: Short title -->
 
-1. This Act may be cited as the Lembaga Pembangunan and Labuan Act 1991 and shall come into force on such date commence- ment. as the Minister may, by notification in the Gazette, appoint; and the Minister may appoint different dates for the coming into force of different provisions of this Act.
+1. This Act may be cited as the Lembaga Pembangunan
 
-Inlerpretaiion.
+<!-- marginal: and -->
+
+Labuan Act 1991 and shall come into force on such date
+
+<!-- marginal: commence- -->
+
+<!-- marginal: ment. -->
+
+as the Minister may, by notification in the Gazette, appoint; and the Minister may appoint different dates for the coming into force of different provisions of this Act.
+
+<!-- marginal: Inlerpretaiion. -->
 
 2. (1) In this Act, unless the context otherwise requires—
 
 "Chairman" means the Chairman of the Lembaga appointed under section 5;
 
-"company" has the same meaning as that assigned to "corporation" under subsection 4(1) of the Companies Act 125. Act 1965;
+"company" has the same meaning as that assigned to "corporation" under subsection 4(1) of the Companies
+
+<!-- marginal: Act 125. -->
+
+Act 1965;
 
 "corporation" means a corporation established under section 27;
 
@@ -128,13 +132,19 @@ II
 
 ## THE LEMBAGA
 
-The
+<!-- marginal: The -->
 
-3. There is hereby established a body corporate by the Lembaga. name of "Lembaga Pembangunan Labuan" with perpetual succession and a common seal, which may sue and be sued in its name and subject to and for the purposes of this Act, may enter into contracts and may acquire, purchase, take, hold and enjoy movable and immovable property of every description and rnay convey, assign, surrender, yield up, charge, mortgage, demise, reassign, transfer or otherwise dispose of, or deal with, any movable or immovable property or any interest therein vested in the Lembaga upon such terms as it deetns fit.
+3. There is hereby established a body corporate by the
 
-Functions of
+<!-- marginal: Lembaga. -->
 
-4. (1) The functions of the Lembaga shall be— the Lembaga
+name of "Lembaga Pembangunan Labuan" with perpetual succession and a common seal, which may sue and be sued in its name and subject to and for the purposes of this Act, may enter into contracts and may acquire, purchase, take, hold and enjoy movable and immovable property of every description and rnay convey, assign, surrender, yield up, charge, mortgage, demise, reassign, transfer or otherwise dispose of, or deal with, any movable or immovable property or any interest therein vested in the Lembaga upon such terms as it deetns fit.
+
+<!-- marginal: Functions of -->
+
+4. (1) The functions of the Lembaga shall be—
+
+<!-- marginal: the Lembaga -->
 
 (a) to promote and stimulate the Kawasan Lembaga Pembangunan Labuan as an international offshore financial centre, tourist destination and duty free area;
 
@@ -184,11 +194,21 @@ performance of its functions;
 
 (m) to do such other things as it deems fit to enable it to carry out its functions and powers effectively.
 
-(3) Subject to section 8, it shall be the responsibility of the Lembaga in performing its functions under this Act to ensure that the functions are performed in such manner as shall be in furtherance of the policy of the Federal Government for the time being in force and in particular the policy relating to the development of an international offshore financial centre and the development of investment, tourism and foreign exchange in the Kawasan Lembaga Pembangunan Labuan.
+(3) Subject to section 8, it shall be the responsibility of the Lembaga in performing its functions under this Act to ensure that the functions are performed in such manner as shall be in furtherance of the policy of the Federal Government for the time being in force and in particular the policy relating to the development of an international offshore financial centre and
 
-Membership
+<!-- marginal: the -->
 
-5. (1) The Lembaga shall consist of the following of the members: Lembaga.
+development of investment, tourism and foreign exchange in the Kawasan Lembaga Pembangunan Labuan.
+
+<!-- marginal: Membership -->
+
+5. (1) The Lembaga shall consist of the following
+
+<!-- marginal: of the -->
+
+members:
+
+<!-- marginal: Lembaga. -->
 
 (a) a Chairman; and
 
@@ -198,29 +218,83 @@ who shall be appointed by the Minister.
 
 (2) The provisions of the First Schedule shall apply to the Lembaga,
 
-Public
+<!-- marginal: Public -->
 
-6. The Public Authorities Protection Act 1948 shall Authorities apply to any action, suit, prosecution or proceedings Protection Act 1948. against the Lembaga or against any member, officer, Act 198. servant or agent of the Lembaga in respect of any act, neglect or default done or committed by him in such capacity.
+6. The Public Authorities Protection Act 1948 shall
 
-Public
+<!-- marginal: Authorities -->
 
-7. All members, officers and servants of the Lembaga, servants. while discharging their duties as such members, officers and servants, shall be deemed to be public servants F.M.S. within the meaning of the Penal Code. Cap. 45
+apply to any action, suit, prosecution or proceedings
+
+<!-- marginal: Protection -->
+
+<!-- marginal: Act 1948. -->
+
+against the Lembaga or against any member, officer,
+
+<!-- marginal: Act 198. -->
+
+servant or agent of the Lembaga in respect of any act, neglect or default done or committed by him in such capacity.
+
+<!-- marginal: Public -->
+
+7. All members, officers and servants of the Lembaga,
+
+<!-- marginal: servants. -->
+
+while discharging their duties as such members, officers and servants, shall be deemed to be public servants
+
+<!-- marginal: F.M.S. -->
+
+within the meaning of the Penal Code.
+
+<!-- marginal: Cap. 45 -->
 
 <!-- page 8 -->
 
-Power of the
+<!-- marginal: Power of the -->
 
-8. The Lembaga shall be responsible to the Minister, and Minister to the Minister may from time to time give directions not give directions. inconsistent with the provisions of this Act and the Lembaga shall, as soon as possible, give effect to all such directions.
+8. The Lembaga shall be responsible to the Minister, and
 
-The Kawasan
+<!-- marginal: Minister to -->
 
-9. (1) For the purposes of this Act, the Minister may Lembaga from time to time determine by notification in the Pembangunan Labuan. Gazette the area or areas within which the Lembaga shall perform its functions under this Act and such area or areas shall be known as the "Kawasan Lembaga Pembangunan Labuan".
+the Minister may from time to time give directions not
+
+<!-- marginal: give -->
+
+<!-- marginal: directions. -->
+
+inconsistent with the provisions of this Act and the Lembaga shall, as soon as possible, give effect to all such directions.
+
+<!-- marginal: The Kawasan -->
+
+9. (1) For the purposes of this Act, the Minister may
+
+<!-- marginal: Lembaga -->
+
+from time to time determine by notification in the
+
+<!-- marginal: Pembangunan -->
+
+<!-- marginal: Labuan. -->
+
+Gazette the area or areas within which the Lembaga shall perform its functions under this Act and such area or areas shall be known as the "Kawasan Lembaga Pembangunan Labuan".
 
 (2) Notwithstanding any other written law, it shall be the responsibility of the Lembaga to perform, in the Kawasan Lembaga Pembangunan Labuan, the functions provided by this Act.
 
-Returns,
+<!-- marginal: Returns, -->
 
-10. (1) The Lembaga shall furnish to the Minister, and reports, such public authority as may be directed by the Minister, accounts and information. such returns, reports, accounts and information with respect to its property and activities as the Minister may from time require or direct.
+10. (1) The Lembaga shall furnish to the Minister, and
+
+<!-- marginal: reports, -->
+
+such public authority as may be directed by the Minister,
+
+<!-- marginal: accounts and -->
+
+<!-- marginal: information. -->
+
+such returns, reports, accounts and information with respect to its property and activities as the Minister may from time require or direct.
 
 (2) Without prejudice to the generality of the provisions of subsection (1), the Lembaga shall, as soon as practicable after the end of each financial year, cause to be made and transmitted to the Minister and, if so directed by the Minister, to any other public authority a report dealing with the activities of the Lembaga during the preceding financial year and the report shall be in such form and shall contain such information relating to the proceedings and policy of the Lembaga as the Minister may from time to time specify.
 
@@ -230,9 +304,13 @@ III
 
 ## CHAIRMAN, OFFICERS, SERYANTS
 
-The
+<!-- marginal: The -->
 
-11. (1) Without prejudice to the other provisions of this Chairman. Act, the Chairman shall perform such duties as the Minister may, from time to time, determine.
+11. (1) Without prejudice to the other provisions of this
+
+<!-- marginal: Chairman. -->
+
+Act, the Chairman shall perform such duties as the Minister may, from time to time, determine.
 
 <!-- page 9 -->
 
@@ -240,9 +318,13 @@ The
 
 (3) Every delegation under subsection (2) shall be published in the Gazette.
 
-The General
+<!-- marginal: The General -->
 
-12. (1) The Lembaga may, with the approval of the Manager. Minister, appoint a principal executive officer, designated as "General Manager", on such terms and conditions as it may think desirable and vest him with such powers and impose upon him such duties as may be determined by the Lembaga.
+12. (1) The Lembaga may, with the approval of the
+
+<!-- marginal: Manager. -->
+
+Minister, appoint a principal executive officer, designated as "General Manager", on such terms and conditions as it may think desirable and vest him with such powers and impose upon him such duties as may be determined by the Lembaga.
 
 (2) The General Manager shall be responsible for—
 
@@ -260,21 +342,51 @@ The General
 
 <!-- page 10 -->
 
-Appointment
+<!-- marginal: Appointment -->
 
-13. (1) Subject to any regulations made under section of officers
+13. (1) Subject to any regulations made under section
 
-14. the Lembaga may appoint on such terms and and servants of the conditions as it may think desirable such officers and Lembaga. servants as may be necessary for carrying out the purposes of this Act.
+<!-- marginal: of officers -->
+
+14. the Lembaga may appoint on such terms and
+
+<!-- marginal: and servants -->
+
+<!-- marginal: of the -->
+
+conditions as it may think desirable such officers and
+
+<!-- marginal: Lembaga. -->
+
+servants as may be necessary for carrying out the purposes of this Act.
 
 (2) No person shall be eligible for employment as an officer or servant of the Lembaga if he has, directly or indirectly, by himself or his partner, any share or interest in any contract or proposed contract with, for or on behalf of the Lembaga.
 
-Regulations
+<!-- marginal: Regulations -->
 
-14. The Lembaga may from time to time, with the with respect approval of the Minister, make regulations with respect to conditions of service. to the discipline of its officers and servants.
+14. The Lembaga may from time to time, with the
 
-Regulations
+<!-- marginal: with respect -->
 
-15. (1) The Lembaga may from time to time, with the with respect approval of the Minister, make regulations with respect to discipline. to the conditions of service of its officers and servants.
+approval of the Minister, make regulations with respect
+
+<!-- marginal: to conditions -->
+
+<!-- marginal: of service. -->
+
+to the discipline of its officers and servants.
+
+<!-- marginal: Regulations -->
+
+15. (1) The Lembaga may from time to time, with the
+
+<!-- marginal: with respect -->
+
+approval of the Minister, make regulations with respect
+
+<!-- marginal: to discipline. -->
+
+to the conditions of service of its officers and servants.
 
 (2) The regulations made under this section may include provisions for—
 
@@ -332,9 +444,13 @@ Fund by so performing, exercising and discharging its functions, powers and duti
 
 <!-- page 12 -->
 
-Expenditure
+<!-- marginal: Expenditure -->
 
-19. The Fund shall be expended for the purpose of— to be charged on the Fund.
+19. The Fund shall be expended for the purpose of—
+
+<!-- marginal: to be charged -->
+
+<!-- marginal: on the Fund. -->
 
 (a) granting loans under section 26;
 
@@ -348,9 +464,19 @@ Expenditure
 
 (f) generally, paying any expenses for carrying into effect the provisions of this Act.
 
-Expenditure
+<!-- marginal: Expenditure -->
 
-20. (1) The expenditure of the Lembaga up to such and amount as may be authorised by the Minister for any one preparation of estimates. year shall be defrayed out of the Fund.
+20. (1) The expenditure of the Lembaga up to such
+
+<!-- marginal: and -->
+
+amount as may be authorised by the Minister for any one
+
+<!-- marginal: preparation -->
+
+<!-- marginal: of estimates. -->
+
+year shall be defrayed out of the Fund.
 
 (2) Before the beginning of September of each year, the Lembaga shall submit to the Minister an estimate of the expenditure (including the expenditure for development projects) for the following year in such form and containing such particulars as the Minister may direct, and the Minister shall, before the beginning of the following year, notify the Lembaga of the amount authorised for expenditure generally or of the amounts authorised for each description of expenditure. ;
 
@@ -396,7 +522,9 @@ following matters in the Kawasan Lembaga
 
 Pembangunan Labuan:
 
-(a) notwithstanding any law relating to
+(a) notwithstanding any law relating
+
+<!-- marginal: to -->
 
 <!-- marginal: town -->
 
@@ -474,27 +602,47 @@ approval of the Minister, borrow, at such rate of interest and for such period a
 
 (e) any other expenditure properly chargeable to capital account.
 
-Invesment.
+<!-- marginal: Invesment. -->
 
 24. The assets of the Lembaga shall, in so far as they are not required to be expended by the Lembaga under this Act, be invested in such manner as the Minister may approve.
 
-Power to
+<!-- marginal: Power to -->
 
-25. The Lembaga may employ and pay agents and employ. technical advisers, including advocates and soliciiors, bankers, slockbrokers, surveyors, valuers and other persons, to transact any business or to do any act required to be transacted or done in the performance of its functions, the exercise of its powers or the discharge of its duties or for the better carrying into effect the purposes of this Act.
+25. The Lembaga may employ and pay agents and
 
-Power to
+<!-- marginal: employ. -->
 
-25. In the performance of its functions, the exercise of grant loans. its powers or the discharge of its daties the Lembaga may, with the approval of the Minister, grant loans, and such loans may be granted subject to such terms and conditions as the Lembaga may, wilh the approval of the Minister, deem fit to impose in particular cases.
+technical advisers, including advocates and soliciiors, bankers, slockbrokers, surveyors, valuers and other persons, to transact any business or to do any act required to be transacted or done in the performance of its functions, the exercise of its powers or the discharge of its duties or for the better carrying into effect the purposes of this Act.
 
-Power to
+<!-- marginal: Power to -->
 
-27. (1) The Lembaga may from time to time, with the establish approval of the Minister, by order published in the corporations Gazette, establish a corporation, by such name as the Lembaga may think fit, to carry out and have the charge, conduct and management of any project, scheme or enterprisc which has been planned or undertaken by the Lembaga in the performance of its functions, the exercise of its powers or the discharge of its duties.
+25. In the performance of its functions, the exercise of
+
+<!-- marginal: grant loans. -->
+
+its powers or the discharge of its daties the Lembaga may, with the approval of the Minister, grant loans, and such loans may be granted subject to such terms and conditions as the Lembaga may, wilh the approval of the Minister, deem fit to impose in particular cases.
+
+<!-- marginal: Power to -->
+
+27. (1) The Lembaga may from time to time, with the
+
+<!-- marginal: establish -->
+
+approval of the Minister, by order published in the
+
+<!-- marginal: corporations -->
+
+Gazette, establish a corporation, by such name as the Lembaga may think fit, to carry out and have the charge, conduct and management of any project, scheme or enterprisc which has been planned or undertaken by the Lembaga in the performance of its functions, the exercise of its powers or the discharge of its duties.
 
 (2) The provisions of the Second Schedule shall apply to every corporation cstablishcd by the Lembaga under subsection (1).
 
-Acquisition
+<!-- marginal: Acquisition -->
 
-28. (1) When any immovable property, not being State of land. land, is needcd to bc acquired by the Lcmbaga for the purposes of this Act, such property may be acquired in
+28. (1) When any immovable property, not being State
+
+<!-- marginal: of land. -->
+
+land, is needcd to bc acquired by the Lcmbaga for the purposes of this Act, such property may be acquired in
 
 <!-- page 17 -->
 
@@ -558,29 +706,63 @@ necessary for the better carrying out of the provisions of this Act.
 
 <!-- page 19 -->
 
-Things done
+<!-- marginal: Things done -->
 
-31. All things done by any person or authority on behalf in anlicipa- of the Lembaga in the preparation of and towards the tion of the enactment of proper implementation of any of the provisions of this this Act. Act, and any expenditure incurred in relation thereto, in anticipation of the enactment of this Act shall be deemed to have been authorised by this Act, and all rights acquired or obligations incurred on behalf of the Lembaga from anything so done shall, upon the coming into force of this Act, be deemed to be the rights and obligations of the Lembaga.
+31. All things done by any person or authority on behalf
 
-Modification.
+<!-- marginal: in anlicipa- -->
 
-32. (1) The Labuan Municipal Council Instrument Sabah No 1983 shall apply in the Kawasan Lembaga Pembangunan S34 of 1983. Labuan subject to the following modifications:
+of the Lembaga in the preparation of and towards the
 
-(a) in paragraph 15(a), for the words "paragraphs
+<!-- marginal: tion of the -->
 
-(23), (43), (46), (49), (50), (51)" there shall be substituted the words "paragraphs (43), (46)(iv),
+<!-- marginal: enactment of -->
 
-(46)(v), (46)(vi), (46)(vii), (46)(viii), (49),
+proper implementation of any of the provisions of this
 
-(51)"; and
+<!-- marginal: this Act. -->
+
+Act, and any expenditure incurred in relation thereto, in anticipation of the enactment of this Act shall be deemed to have been authorised by this Act, and all rights acquired or obligations incurred on behalf of the Lembaga from anything so done shall, upon the coming into force of this Act, be deemed to be the rights and obligations of the Lembaga.
+
+<!-- marginal: Modification. -->
+
+32. (1) The Labuan Municipal Council Instrument
+
+<!-- marginal: Sabah No -->
+
+1983 shall apply in the Kawasan Lembaga Pembangunan
+
+<!-- marginal: S34 of 1983. -->
+
+Labuan subject to the following modifications:
+
+(a) in paragraph 15(a), for the words "paragraphs (23), (43), (46), (49), (50), (51)" there shall be substituted the words "paragraphs (43), (46)(iv), (46)(v), (46)(vi), (46)(vii), (46)(viii), (49), (51)"; and
 
 (b) in paragraph 15(b), the symbols and figures "(34),", "(53),", "(59)," and "(61)" shall be deleted.
 
 (2) Subsection (1) shall come into force on the date appointed by the Minister for the coming into force of subsection 22(2).
 
-Non-
+<!-- marginal: Non- -->
 
-33. (1) The Town and Country Planning Ordinance of application. Sabah in force in the Federal Territory of Labuan as Sabah Cap, 141. modified by the Federal Territory of Labuan P.U. (A) (Modification of Town and Country Planning Ordinance) 353/85. Order 1985 shall cease to apply in the Kawasan Lembaga Pembangunan Labuan on the date appointed by the Minister for the coming into force of subsection 22(2).
+33. (1) The Town and Country Planning Ordinance of
+
+<!-- marginal: application. -->
+
+Sabah in force in the Federal Territory of Labuan as
+
+<!-- marginal: Sabah Cap, -->
+
+<!-- marginal: 141. -->
+
+modified by the Federal Territory of Labuan
+
+<!-- marginal: P.U. (A) -->
+
+(Modification of Town and Country Planning Ordinance)
+
+<!-- marginal: 353/85. -->
+
+Order 1985 shall cease to apply in the Kawasan Lembaga Pembangunan Labuan on the date appointed by the Minister for the coming into force of subsection 22(2).
 
 (2) Unless otherwise directed by the Minister by order to be published in the Gazette, any approved scheme in operation in respect of any area in the Kawasan Lembaga Pembangunan Labuan immediately before the date referred to in subsection (1) shall continue to be in operation, with such modifications as may be specified by the Minister in an order made under subsection (4).
 
@@ -598,9 +780,17 @@ FlRST SCHEDULE
 
 (Section 5(2))
 
-Appoinment
+<!-- marginal: Appoinment -->
 
-1. (1) Subject to such conditions as may be specified in his revocation and instrument of appointment, a member of the Lembaga shall hold resignation. office for a term not exceediitg three years and is eligible for reappointmenr.
+1. (1) Subject to such conditions as may be specified in his
+
+<!-- marginal: revocation and -->
+
+instrument of appointment, a member of the Lembaga shall hold
+
+<!-- marginal: resignation. -->
+
+office for a term not exceediitg three years and is eligible for reappointmenr.
 
 (2) The appointment of any member may at any time be revoked by the Minister without assigning any reason therefor.
 
@@ -608,9 +798,11 @@ Appoinment
 
 (4) Every member shall devote such time to the business of the Lembaga as is necessary to discharge his duties effectively.
 
-Vacation of
+<!-- marginal: Vacation of -->
 
-2. (1) The office of a member of the Lembaga shall be vacated— office.
+2. (1) The office of a member of the Lembaga shall be vacated—
+
+<!-- marginal: office. -->
 
 (a) if he dies;
 
@@ -672,19 +864,27 @@ under seal may in like manner be executed by the Lembaga; and any such document 
 
 (4) The common seal of the Lembaga shall be officially and judicially noticed.
 
-Disclosure of
+<!-- marginal: Disclosure of -->
 
-7. A member of the Lembaga having, directly or indirectly, by interest himself or his partner, any interest in any company or undertaking with which the Lembaga proposes to make any contract or having any interest in any such contract or in any matter under discussion by the Lembaga shall disclose to the Lembaga the fact of his interest and the nature thereof, and such disclosure shall be recorded in the minutes of the Lembaga and, unless specifically authorised thereto by the Chairman, such member shall take no part in any deliberation or decision of the Lembaga relating to the contract or matter.
+7. A member of the Lembaga having, directly or indirectly, by
 
-Minutes
+<!-- marginal: interest -->
+
+himself or his partner, any interest in any company or undertaking with which the Lembaga proposes to make any contract or having any interest in any such contract or in any matter under discussion by the Lembaga shall disclose to the Lembaga the fact of his interest and the nature thereof, and such disclosure shall be recorded in the minutes of the Lembaga and, unless specifically authorised thereto by the Chairman, such member shall take no part in any deliberation or decision of the Lembaga relating to the contract or matter.
+
+<!-- marginal: Minutes -->
 
 8. (1) The Lembaga shall cause minutes of all its meetings to be maintained and kept in a proper form.
 
 (2) Any minutes made of meetings of the Lembaga shall, if duly signed, be admissible in evidence in all legal proceedings without further proof and every meeting of the Lembaga in respect of the proceedings of which minutes have been so made shall be deemed to have been duly convened and held and all members thereat to have been duly qualified to act.
 
-Validity of acts
+<!-- marginal: Validity of acts -->
 
-9. No act done or proceeding taken under this Act shall be and proceedings, questioned on the ground of—
+9. No act done or proceeding taken under this Act shall be
+
+<!-- marginal: and proceedings, -->
+
+questioned on the ground of—
 
 (a) any vacancy in the membership of, or any defect in the constitution of, the Lembaga;
 
@@ -696,9 +896,21 @@ Validity of acts
 
 (Section 27(2))
 
-Power of the
+<!-- marginal: Power of the -->
 
-1. The Lembaga shall, on or before the date on which any Lembaga to make corporation is established under section 27, make regulations in regulations in respect of respect of such corporation defining— corporation.
+1. The Lembaga shall, on or before the date on which any
+
+<!-- marginal: Lembaga to make -->
+
+corporation is established under section 27, make regulations in
+
+<!-- marginal: regulations in -->
+
+<!-- marginal: respect of -->
+
+respect of such corporation defining—
+
+<!-- marginal: corporation. -->
 
 (a) the purposes and objects for which the corporation is established;
 
@@ -762,9 +974,13 @@ corporate by such name as the Lembaga shali give to it and shall have perpetual 
 
 <!-- page 24 -->
 
-Common seal of
+<!-- marginal: Common seal of -->
 
-8. (1) Every corporation shall have a common seal which shall bear corporations. such device as the corporation, with the approval of the Lembaga, may approve and such seal may from time to time be broken, changed, altered or made anew as the corporation, with the approval of the Lembaga, may think fit.
+8. (1) Every corporation shall have a common seal which shall bear
+
+<!-- marginal: corporations. -->
+
+such device as the corporation, with the approval of the Lembaga, may approve and such seal may from time to time be broken, changed, altered or made anew as the corporation, with the approval of the Lembaga, may think fit.
 
 (2) Until a seal is provided by the corporation, a stamp bearing the name of the corporation encircling the letters "LPL" may be used and shall be deemed to be the common seal of the corporation.
 

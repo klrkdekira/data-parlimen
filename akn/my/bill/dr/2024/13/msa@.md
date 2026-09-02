@@ -42,7 +42,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Pemotongan Perkara 16a
 
-4. Perlembagaan Persekutuan dipinda dengan memotong Perkara 16a.
+4. Perlembagaan Persekutuan dipinda dengan memotong
+
+## Perkara 16a.
 
 ### Pindaan Perkara 18
 
@@ -178,7 +180,11 @@ Rang Undang-Undang ini bertujuan untuk meminda Perlembagaan Persekutuan.
 
 <!-- page 8 -->
 
-3. Fasal 2 Rang Undang-Undang ini bertujuan untuk meminda Fasal (1) Perkara 15 Perlembagaan Persekutuan untuk mengenakan syarat tambahan untuk mempunyai pengetahuan yang mencukupi dalam bahasa Melayu kepada mana-mana perempuan bersuami yang membuat permohonan kewarganegaraan melalui pendaftaran.
+3. Fasal 2 Rang Undang-Undang ini bertujuan untuk meminda Fasal (1)
+
+## Perkara 15 Perlembagaan Persekutuan untuk mengenakan syarat tambahan
+
+untuk mempunyai pengetahuan yang mencukupi dalam bahasa Melayu kepada mana-mana perempuan bersuami yang membuat permohonan kewarganegaraan melalui pendaftaran.
 
 Fasal ini juga bertujuan untuk meminda Fasal (2) Perkara 15 Perlembagaan Persekutuan dengan menurunkan had umur untuk memohon kewarganegaraan melalui pendaftaran daripada umur dua puluh satu tahun kepada lapan belas tahun supaya selaras dengan umur mengundi di Malaysia dan takrif kanak-kanak sebagaimana yang diperuntukkan dalam Akta Kanak-Kanak 2001 [Akta 611] dan umur dewasa sebagaimana yang diperuntukkan dalam Akta Umur Dewasa 1971 [Akta 21]. Berbangkit daripada ini, pindaan dibuat kepada peruntukan lain dalam
 
@@ -194,7 +200,11 @@ Fasal ini juga bertujuan untuk memotong Fasal (3) Perkara 15 Perlembagaan Persek
 
 6. Fasal 7 Rang Undang-Undang ini bertujuan untuk meminda Perkara 23 Perlembagaan Persekutuan dengan memperuntukkan hal keadaan tambahan bagi Kerajaan Persekutuan untuk menahan pendaftaran akuan pelepasan kewarganegaraan mana-mana orang jika pelepasan itu memudaratkan keselamatan Persekutuan atau mana-mana bahagian dalam Persekutuan, ketenteraman awam atau kepentingan awam.
 
-7. Fasal 8 Rang Undang-Undang ini bertujuan untuk meminda Fasal (2) Perkara 26 Perlembagaan Persekutuan untuk memperuntukkan bahawa Kerajaan Persekutuan boleh melucutkan kewarganegaraan mana-mana perempuan warga asing yang bersuami yang memperoleh kewarganegaraan menurut Fasal (1) Perkara 15 Perlembagaan Persekutuan jika perkahwinan yang disebabkan olehnya perempuan itu didaftarkan telah dibubarkan dalam tempoh dua tahun mulai dari tarikh perempuan itu memperoleh kewarganegaraan, sebagai menggantikan tempoh dua tahun mulai dari tarikh perkahwinan itu.
+7. Fasal 8 Rang Undang-Undang ini bertujuan untuk meminda Fasal (2)
+
+## Perkara 26 Perlembagaan Persekutuan untuk memperuntukkan bahawa
+
+Kerajaan Persekutuan boleh melucutkan kewarganegaraan mana-mana perempuan warga asing yang bersuami yang memperoleh kewarganegaraan menurut Fasal (1) Perkara 15 Perlembagaan Persekutuan jika perkahwinan yang disebabkan olehnya perempuan itu didaftarkan telah dibubarkan dalam tempoh dua tahun mulai dari tarikh perempuan itu memperoleh kewarganegaraan, sebagai menggantikan tempoh dua tahun mulai dari tarikh perkahwinan itu.
 
 <!-- page 9 -->
 

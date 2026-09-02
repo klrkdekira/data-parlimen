@@ -79,56 +79,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_3",
       "@type": "akn:clause",
       "eli:number": "3",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_3__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_3__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_3__para_c",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_3__para_d"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 11 dalam Bahagian II seksyen yang berikut: “Jawatankuasa hendaklah dirujuk berhubung dengan pelantikan 11A. (1) Bagi maksud subseksyen 5(2), adalah dengan ini ditubuhkan suatu jawatankuasa yang terdiri daripada orang yang berikut: (a) Ketua Setiausaha Negara yang hendaklah menjadi Pengerusi; (b) Pengerusi Suruhanjaya; dan (c) tiga orang anggota lain, daripada kalangan orang yang terkemuka, yang akan dilantik oleh Perdana Menteri. (2) Anggota jawatankuasa yang disebut dalam subseksyen (1) hendaklah berkhidmat dengan jawatankuasa bagi apa-apa tempoh dan atas apa-apa terma dan syarat sebagaimana yang dinyatakan pelantikannya. (3) Anggota yang disebut dalam perenggan (1)(c) boleh termasuk bekas hakim dan bekas anggota Suruhanjaya. (4) Orang yang berikut tidak boleh dilantik sebagai anggota jawatankuasa di bawah perenggan (1)(c): (a) mana-mana orang yang terlibat secara aktif dalam politik dan berdaftar dengan mana- mana parti politik; dan (b) mana-mana orang yang sedang atau pernah menjadi pegawai penguat kuasa. (5) Jawatankuasa ini boleh menentukan perjalanan prosidingnya sendiri. (6) Apa-apa pendapat, pandangan atau jawatankuasa apabila dirundingi oleh Perdana Menteri di bawah subseksyen 5(2) tidak mengikat Perdana Menteri. (7) Bagi maksud seksyen kuasa” ertinya pegawai –"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_3__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_3",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "mana-mana Kementerian, Jabatan, Agensi atau mana-mana badan lain yang dibentuk oleh Kerajaan Persekutuan, termasuk suatu unit, seksyen, bahagian, jabatan atau agensi Kementerian, Jabatan, Agensi atau badan itu, yang diberi fungsi penguatkuasaan oleh mana-mana undang-undang bertulis atau yang mempunyai kuasa penguatkuasaan;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_3__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_3",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "suatu badan yang ditubuhkan oleh undang- undang Persekutuan yang diberi penguatkuasaan Persekutuan itu atau mana-mana undang- undang bertulis yang lain;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_3__para_c",
-      "@type": "akn:paragraph",
-      "eli:number": "c",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_3",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "suatu unit, seksyen, bahagian, jabatan atau agensi sesuatu badan yang ditubuhkan oleh undang-undang mempunyai fungsi penguatkuasaan; atau"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_3__para_d",
-      "@type": "akn:paragraph",
-      "eli:number": "d",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_3",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "perkhidmatan bersama yang ditubuhkan di bawah Perkara 133 Perlembagaan Persekutuan yang melaksanakan penguatkuasaan.”. Kecualian dan peralihan"
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 11 dalam Bahagian II seksyen yang berikut: “Jawatankuasa hendaklah dirujuk berhubung dengan pelantikan 11A. (1) Bagi maksud subseksyen 5(2), adalah dengan ini ditubuhkan suatu jawatankuasa yang terdiri daripada orang yang berikut: (a) Ketua Setiausaha Negara yang hendaklah menjadi Pengerusi; (b) Pengerusi Suruhanjaya; dan (c) tiga orang anggota lain, daripada kalangan orang yang terkemuka, yang akan dilantik oleh Perdana Menteri. (2) Anggota jawatankuasa yang disebut dalam subseksyen (1) hendaklah berkhidmat dengan jawatankuasa bagi apa-apa tempoh dan atas apa-apa terma dan syarat sebagaimana yang dinyatakan dalam pelantikannya. (3) Anggota yang disebut dalam perenggan (1)(c) boleh termasuk bekas hakim dan bekas anggota Suruhanjaya. (4) Orang yang berikut tidak boleh dilantik sebagai anggota jawatankuasa di bawah perenggan (1)(c): (a) mana-mana orang yang terlibat secara aktif dalam politik dan berdaftar dengan mana- mana parti politik; dan (b) mana-mana orang yang sedang atau pernah menjadi pegawai penguat kuasa. (5) Jawatankuasa ini boleh menentukan perjalanan prosidingnya sendiri. (6) Apa-apa pendapat, pandangan atau jawatankuasa apabila dirundingi oleh Perdana Menteri di bawah subseksyen 5(2) tidak mengikat Perdana Menteri. (7) Bagi maksud seksyen ini, “pegawai penguat kuasa” ertinya pegawai – (a) mana-mana Kementerian, Jabatan, Agensi atau mana-mana badan lain yang dibentuk oleh Kerajaan Persekutuan, termasuk suatu unit, seksyen, bahagian, jabatan atau agensi Kementerian, Jabatan, Agensi atau badan itu, yang diberi fungsi penguatkuasaan oleh mana-mana undang-undang bertulis atau yang mempunyai kuasa penguatkuasaan; (b) suatu badan yang ditubuhkan oleh undang- undang Persekutuan yang diberi penguatkuasaan Persekutuan itu atau mana-mana undang- undang bertulis yang lain; (c) suatu unit, seksyen, bahagian, jabatan atau agensi sesuatu badan yang ditubuhkan oleh undang-undang mempunyai fungsi penguatkuasaan; atau (d) perkhidmatan bersama yang ditubuhkan di bawah Perkara 133 Perlembagaan Persekutuan yang melaksanakan penguatkuasaan.”. Kecualian dan peralihan"
       }
     },
     {

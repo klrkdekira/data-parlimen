@@ -488,7 +488,9 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Racun Makhluk Perosak 1974 (
 
 ## IMPUKASI KEWANGAN
 
-Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN(U2)2287]
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
+
+<!-- marginal: [PN(U2)2287] -->
 
 <!-- page 18 -->
 

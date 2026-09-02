@@ -1,0 +1,2086 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-17-2020",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VIII"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Kewangan 2020"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_I",
+      "@type": "akn:chapter",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERMULAAN Tajuk ringkas"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II",
+      "@type": "akn:chapter",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_30"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PINDAAN KEPADA AKTA CUKAI PENDAPATAN 1967 Permulaan kuat kuasa pindaan kepada Akta Cukai Pendapatan 1967"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_III",
+      "@type": "akn:chapter",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_III__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_III__cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_III__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_III__cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_III__cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_III__cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_III__cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_III__cl_38"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PINDAAN KEPADA AKTA CUKAI KEUNTUNGAN HARTA TANAH 1976 Permulaan kuat kuasa pindaan kepada Akta Cukai Keuntungan Harta Tanah 1976"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_III__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bab ini mula berkuat kuasa pada 1 Januari 2021. Pindaan seksyen 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_III__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Cukai Keuntungan Harta Tanah 1976, yang disebut “Akta ibu” dalam Bab ini, dipinda dalam seksyen 14 dengan memasukkan selepas subseksyen (5) subseksyen yang berikut: “(5 A) Walau apa pun subseksyen (5), Ketua Pengarah boleh, menurut budi bicaranya atas apa-apa sebab yang baik yang diberikan, meremitkan kesemua atau mana-mana bahagian jumlah wang yang disebut dalam subseksyen itu dan, jika jumlah wang yang diremitkan itu telah dibayar, Ketua Pengarah hendaklah membayar balik jumlah wang itu.”. Pindaan seksyen 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_III__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 15 Akta ibu dipinda dengan memasukkan selepas subseksyen (4) subseksyen yang berikut: “(4 A) Walau apa pun subseksyen (4), Ketua Pengarah boleh, menurut budi bicaranya atas apa-apa sebab yang baik yang diberikan, meremitkan kesemua atau mana-mana bahagian jumlah wang yang disebut dalam subseksyen itu dan, jika jumlah wang yang diremitkan itu telah dibayar, Ketua Pengarah hendaklah membayar balik jumlah wang itu.”. Pindaan seksyen 21b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_III__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 21b(1A) Akta ibu dipinda dengan menggantikan perkataan “seorang yang bukan warganegara, bukan pemastautin tetap atau bukan suatu syarikat yang diperbadankan di Malaysia” dengan perkataan “ialah pelupus di bawah Bahagian III Jadual 5”. Seksyen baharu 21c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_III__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 21b seksyen yang berikut: “Cukai kena dibayar walaupun prosiding telah dimulakan di bawah mana-mana undang-undang bertulis lain 21c. Memulakan apa-apa langkah prosiding di bawah mana-mana undang-undang bertulis lain terhadap Kerajaan atau Ketua Pengarah tidak melepaskan mana-mana orang daripada tanggungannya untuk membayar apa-apa cukai, hutang atau jumlah lain yang baginya dia bertanggungan untuk membayar di bawah Bahagian ini.”. Pindaan seksyen 22"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_III__cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_III__cl_36__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_III__cl_36__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_III",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 22 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_III__cl_36__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_III__cl_36",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: “(1A) Perakuan yang disebut dalam subseksyen (1) boleh dikeluarkan kepada mana-mana Pesuruhjaya Polis atau Pengarah Imigresen melalui perantaraan elektronik atau secara penghantaran elektronik.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_III__cl_36__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_III__cl_36__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_III__cl_36__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_III__cl_36",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (6)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_III__cl_36__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_III__cl_36__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa Inggeris, dengan menggantikan noktah di hujung takrif “immigration officer” dengan koma bernoktah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_III__cl_36__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_III__cl_36__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan sebelum takrif “pegawai imigresen” takrif yang berikut: ‘ “orang” termasuklah pengarah suatu syarikat yang dinyatakan dalam subperenggan 5(1A) Jadual 1;’. Pindaan seksyen 57a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_III__cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 57A Akta ibu dipinda dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(3) Bagi maksud subseksyen (1), seseorang boleh memberikan kebenaran secara bertulis kepada ejen cukai, peguam bela dan peguam cara Mahkamah Tinggi Malaya atau peguam bela Mahkamah Tinggi Sabah dan Sarawak untuk mengemukakan bagi pihak orang itu borang yang ditetapkan mengikut cara yang diperuntukkan dalam subseksyen (1). (4) Borang yang ditetapkan itu yang dikemukakan menurut subseksyen (3) bagi pihak mana-mana orang hendaklah dianggap sebagai telah dikemukakan dengan kebenaran orang itu, sehingga dibuktikan sebaliknya, dan orang itu hendaklah disifatkan sebagai mengetahui kandungannya. (5) Jika subseksyen (3) terpakai— (a) orang yang memberikan kebenaran kepada ejen cukai, peguam bela dan peguam cara Mahkamah Tinggi Malaya atau peguam bela Mahkamah Tinggi Sabah dan Sarawak itu hendaklah membuat suatu akuan dalam borang yang ditetapkan yang menyatakan bahawa— (i) ejen cukai, peguam bela dan peguam cara Mahkamah Tinggi Malaya atau peguam bela Mahkamah Tinggi Sabah dan Sarawak itu diberikan kebenaran untuk mengemukakan borang itu kepada Ketua Pengarah bagi pihak orang itu; dan (ii) maklumat yang diberikan oleh orang itu kepada ejen cukai, peguam bela dan peguam cara Mahkamah Tinggi Malaya atau peguam bela Mahkamah Tinggi Sabah dan Sarawak itu untuk menyediakan borang itu adalah benar dan betul; (b) ejen cukai, peguam bela dan peguam cara Mahkamah Tinggi Malaya atau peguam bela Mahkamah Tinggi Sabah dan Sarawak itu hendaklah membuat suatu akuan dalam borang yang dikemukakan mengikut subseksyen (1) yang menyatakan bahawa— (i) borang itu disediakan menurut maklumat yang diberikan oleh orang yang memberikan kebenaran itu; dan (ii) dia telah menerima akuan yang dibuat oleh orang yang memberikan kebenaran itu di bawah perenggan (a); (c) orang yang memberikan kebenaran itu hendaklah menyimpan dan memegang simpan dalam jagaan selamat salinan cetak borang yang telah dikemukakan itu dan suatu salinan hendaklah dibuat mengikut proses dan tatacara yang dibangunkan dengan sebegitu demi memastikan bahawa hanya maklumat yang terkandung dalam borang itu yang dikemukakan menurut seksyen ini; (d) salinan cetak yang disebut dalam perenggan (c) hendaklah ditandatangani oleh orang yang memberikan kebenaran itu; dan (e) salinan cetak yang disebut dalam perenggan (c) dan akuan yang dibuat di bawah perenggan (a) hendaklah disimpan dan dipegang simpan bagi tempoh selama tujuh tahun dari akhir tahun taksiran yang dalamnya borang itu dikemukakan. (6) Borang yang disebut dalam subseksyen (1) disifatkan telah dikemukakan kepada Ketua Pengarah oleh orang yang memberikan kebenaran itu pada tarikh yang suatu perakuan penerimaan borang itu yang dihantar secara elektronik oleh Ketua Pengarah kepadanya.”. Pindaan Jadual 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_III__cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jadual 5 kepada Akta ibu dipinda dalam Bahagian II dengan memasukkan selepas perkataan “atau pemegang amanah bagi suatu amanah” perkataan “atau pertubuhan yang didaftarkan di bawah Akta Pertubuhan 1966 [Akta 335]”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 39(1)(r) Akta ibu dipinda dengan menggantikan perkataan “Labuan company” dengan perkataan “Labuan entity referred to in paragraph 2b(1)(a) of the Labuan Business Activity Tax Act 1990”. Pindaan seksyen 44"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_11__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 44 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (5b)(a)(ii), dengan memotong perkataan “nominal”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (5c)(a), dengan memotong perkataan “nominal”. Pindaan seksyen 44a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 44A(3)(c) Akta ibu dipinda dengan memasukkan selepas perkataan “indirectly” perkataan “(through the medium of other companies resident and incorporated in Malaysia)”. Pindaan seksyen 45a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 45A(1) Akta ibu dipinda dengan menggantikan perkataan “three thousand five hundred ringgit” dengan perkataan “five thousand ringgit”. Pindaan seksyen 46"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 46 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_iv",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_v",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_vi",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_vii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_viii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c), dengan menggantikan perkataan “five thousand ringgit” dengan perkataan “eight thousand ringgit”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (f) dengan perenggan yang berikut: “(f) fees expended in that basis year by that individual on himself for— (i) any course of study up to tertiary level, other than a Masters or Doctorate degree, undertaken for the purpose of acquiring legal, accounting, Islamic financing, technical, vocational, industrial, scientific or technological qualification or skill, in any institution or professional body in Malaysia recognized by the Government or approved by the Minister; (ii) any course of study for a Masters or Doctorate degree undertaken for the purpose of acquiring any qualification or skill, in any institution or professional body in Malaysia recognized by the Government or approved by the Minister; or (iii) any course of study undertaken for the purpose of upskilling or self-enhancement and that course is conducted by a body recognized by the Director General of Skills Development under the National Skills Development Act 2006 [Act 652], for the years of assessment 2021 and 2022, limited to a maximum amount of one thousand ringgit for each year of assessment, and the total deduction under this paragraph shall be subject to a maximum amount of seven thousand ringgit;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_iii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_iii__subpara_B",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_iii__subpara_C",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_iii__subpara_D",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_iii__subpara_E",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_iii__subpara_F"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (g)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_iii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_iii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (i), dengan memotong perkataan “or” di hujung subperenggan itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_iii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_iii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (ii), dengan menggantikan noktah bertindih di hujung subperenggan itu dengan perkataan “; or”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_iii__subpara_C",
+      "@type": "akn:subparagraph",
+      "eli:number": "C",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_iii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subperenggan (ii) subperenggan yang berikut: “(iii) on himself, his wife or child for vaccination, or in the case of a wife, on herself, her husband or child for vaccination an amount limited to a maximum of one thousand ringgit:”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_iii__subpara_D",
+      "@type": "akn:subparagraph",
+      "eli:number": "D",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_iii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b) proviso, dengan menggantikan perkataan “six thousand ringgit; and” dengan perkataan “eight thousand ringgit;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_iii__subpara_E",
+      "@type": "akn:subparagraph",
+      "eli:number": "E",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_iii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (c)(B) proviso, dengan memasukkan perkataan “and” di hujung subperenggan itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_iii__subpara_F",
+      "@type": "akn:subparagraph",
+      "eli:number": "F",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_iii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (c) proviso perenggan yang berikut: “(d) for the purposes of subparagraph (iii), the vaccinations which qualify for deduction are for: (i) pneumococcal; (ii) human papillomavirus (HPV); (iii) influenza; (iv) rotavirus; (v) varicella; (vi) meningococcal; (vii) TDAP combination (tetanus diphtheria- acellular-pertussis); and (viii) Coronavirus Disease 2019 (COVID-19);”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_iv__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_iv__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (h)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_iv__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_iv",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “five hundred ringgit” dengan perkataan “one thousand ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_iv__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_iv",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam proviso, dengan menggantikan perkataan “six thousand ringgit” dengan perkataan “eight thousand ringgit”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_v",
+      "@type": "akn:subparagraph",
+      "eli:number": "v",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_v__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_v__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (p)(i)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_v__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_v",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “purchase” perkataan “or subscription”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_v__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_v",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “printed”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_vi",
+      "@type": "akn:subparagraph",
+      "eli:number": "vi",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c) proviso kepada perenggan (q), dengan memotong perkataan “and” di hujung perenggan itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_vii",
+      "@type": "akn:subparagraph",
+      "eli:number": "vii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_vii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_vii__subpara_B",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_vii__subpara_C"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam proviso kepada perenggan (r)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_vii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_vii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “and” di hujung perenggan (a);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_vii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_vii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah di hujung perenggan (b) dengan perkataan “; and”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_vii__subpara_C",
+      "@type": "akn:subparagraph",
+      "eli:number": "C",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_vii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (b) perenggan yang berikut: “(c) a further one thousand ringgit shall be allowed for the years of assessment 2020 and 2021;”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a__subpara_viii",
+      "@type": "akn:subparagraph",
+      "eli:number": "viii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (r) perenggan yang berikut: “(s) an amount limited to a maximum of one thousand ringgit expended or deemed expended under subsection (3) in respect of the payment for accommodation at the premises registered with the Commissioner of Tourism under the Tourism Industry Act 1992 [Act 482] and entrance fee to a tourist attraction in that basis year by that individual as evidenced by receipts on the amount expended: Provided that the payment is made on or after 1 March 2020 but not later than 31 December 2021; (t) an amount limited to a maximum of two thousand and five hundred ringgit expended or deemed expended under subsection (3) in that basis year by that individual for the purchase of a personal computer, smartphone or tablet (not being used for the purposes of his own business) for his own use or for the use of his wife or child, or in the case of a wife, for her own use or for the use of her husband or child as evidenced by receipts issued in respect of the purchase and the deduction under this paragraph shall be additional to any deduction under paragraph (p): Provided that— (a) the purchase is made on or after 1 June 2020 but not later than 31 December 2020; and (b) the total amount of deduction under this paragraph shall exclude the amount deducted under paragraph (p); and (u) an amount limited to a maximum of five hundred ringgit expended or deemed expended under subsection (3) in that basis year by that individual— (i) for the purchase of sports equipment for any sports activity as defined under the Sports Development Act 1997 [Act 576] (excluding motorized two-wheel bicycles); (ii) for the payment of rental or entrance fee to any sports facility; and (iii) for the payment of registration fee for any sports competition where the organizer is approved and licensed by the Commissioner of Sports under the Sports Development Act 1997, for his own use or under his name or for the use of or under the name of his wife or child, or in the case of a wife, for her own use or under her name or for the use of or under the name of her husband or child as evidenced by receipts issued in respect of the purchase or payment, as the case may be, and the deduction under this paragraph shall be additional to any deduction under paragraph (p): Provided that the total amount of deduction under this paragraph shall exclude the amount deducted under paragraph (p).”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan menggantikan perkataan “and (r)” dengan perkataan “, (r), (s), (t) and (u)”. Pindaan seksyen 47"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 47(1)(b) Akta ibu dipinda dengan menggantikan perkataan “three thousand five hundred ringgit” dengan perkataan “five thousand ringgit”. Seksyen baharu 65b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 65A seksyen yang berikut: “Incentive scheme 65b. (1) Where a person referred to in paragraph 6(1)(m) carries on a business in Malaysia in respect of a source consisting of a qualifying activity under an incentive scheme approved by the Minister, the business shall be treated as a separate and distinct business and source of that person. (2) The chargeable income of a person in respect of the source consisting of the qualifying activity referred to in subsection (1), for a year of assessment shall be the statutory income from that source reduced by any amount of deduction falling to be made pursuant to subsection 43(2) relating to that source and so much of the amount which has not been deducted from that statutory income for the year of assessment the incentive scheme ends shall only be deductible in accordance with subsection 43(2) for a period of seven consecutive years of assessment. (3) For the purposes of subsection (2), the period of seven consecutive years of assessment shall commence immediately following that year of assessment the incentive scheme ends and any amount of balance of the amount referred to in that subsection which is not deductible at the end of that period shall be disregarded for the purposes of this Act. (4) The chargeable income of a person in respect of the source or sources other than the source consisting of the qualifying activity referred to in subsection (1) for a year of assessment shall be the statutory income from that source or the aggregate of the statutory income from each of those sources, as the case may be, reduced by any deduction falling to be made pursuant to subsections 43(2) and 44(1): Provided that in so making the deductions under subsections 43(2) and 44(1), no regard shall be had to the adjusted loss, if any, from the source consisting of such qualifying activity. (5) Where the person referred to in subsection (1) fails to comply with the conditions prescribed by the Minister under Part XVII of Schedule 1, the Director General may at any time within five years after the expiration of the year of assessment for which the rate prescribed by the Minister under Part XVII of Schedule 1 was applied, make such additional assessments upon that person as appears to the Director General to be necessary in order to counteract any benefit obtained under Part XVII of Schedule 1. (6) The person who carries on a business in respect of the source consisting of a qualifying activity referred to in subsection (1) shall maintain a separate account for the income derived from such qualifying activity for the basis period for each year of assessment.”. Pindaan seksyen 77a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 77A(1A) Akta ibu dipinda dengan memasukkan selepas perkataan “a company” perkataan “and a limited liability partnership”. Pindaan seksyen 83"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_18__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_18__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 83 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “shall not later than one month thereafter give written notice to the Director General stating the full name and address of the individual and the terms and date of commencement of the employment” dengan perkataan “shall give notice in the prescribed form to the Director General not later than thirty days after the commencement of the employment”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_18__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_18__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_18__para_b__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_18__para_b__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_18__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_18__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “employment” perkataan “or where an individual under his employment dies”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_18__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_18__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “not less than one month before the cessation give written notice thereof to the Director General stating the full name and address of the individual and the expected date of cessation” dengan perkataan “, not less than thirty days before the cessation of the employment, or in respect of cessation by reason of death not more than thirty days after being informed of the death of the individual, give notice in the prescribed form to the Director General of the cessation of the employment”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_18__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_18__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam proviso pertama kepada subseksyen (3), dengan menggantikan perkataan “a notice given less than one month before the cessation or a notice given on or after the cessation” dengan perkataan “a notice in the prescribed form given less than thirty days before the cessation of the employment, or a notice in the prescribed form given on or after the cessation, or in respect of cessation by reason of death a notice in the prescribed form given more than thirty days after being informed of the death of the individual”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_18__para_b__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_18__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam proviso kedua kepada subseksyen (3), dengan menggantikan perkataan “the written notice” dengan perkataan “the notice in the prescribed form to the Director General”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_18__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_18__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_18__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_18__para_c__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_18__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_18__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “one month” di mana-mana jua terdapat dengan perkataan “thirty days”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_18__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_18__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “written notice of the individual’s departure” dengan perkataan “notice in the prescribed form”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_18__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_18__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a) proviso, dengan memasukkan selepas perkataan “a notice” di mana-mana jua terdapat perkataan “in the prescribed form”. Pindaan seksyen 103"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 103(9) Akta ibu dipinda dengan memotong perkataan “(1A),”. Seksyen baharu 103b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 103A yang dipotong seksyen yang berikut: “Tax payable notwithstanding institution of proceedings under any other written law 103b. The institution of any proceedings under any other written law against the Government or the Director General shall not relieve any person from liability for the payment of any tax, debt or other sum for which he is or may be liable to pay under this Part.”. Pindaan seksyen 104"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_21__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_21__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 104 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_21__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (1)(b), dengan menggantikan perkataan “103(1A), (3)” dengan perkataan “103(3)”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_21__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: “(1A) The certificate referred to in subsection (1) may be issued to any Commissioner of Police or Director of Immigration through an electronic medium or by way of electronic transmission.”. Pindaan seksyen 106"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 106(3) Akta ibu dipinda dengan menggantikan perkataan “103(1A), (3)” dengan perkataan “103(3)”. Pindaan seksyen 109d"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 109 d Akta ibu dipinda dengan memotong perenggan (4)(a) dan subseksyen (5). Seksyen baharu 113b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 113A seksyen yang berikut: “Failure to furnish contemporaneous transfer pricing documentation 113b. (1) Any person who makes default in furnishing contemporaneous transfer pricing documentation in respect of any year of assessment, in accordance with any rules made under paragraph 154(1)(ed) to implement and facilitate the operation of section 140A, shall be guilty of an offence and shall, on conviction, be liable to a fine not less than twenty thousand ringgit and not more than one hundred thousand ringgit or to imprisonment for a term not exceeding six months or to both. (2) In any prosecution under subsection (1), the burden of proving that contemporaneous transfer pricing documentation has been furnished shall be upon the accused person. (3) Where a person has been convicted of an offence under subsection (1), the court may make a further order that the person shall comply with the relevant provisions of the rules under which the offence has been committed within thirty days, or such other period as the court deems fit, from the date the order is made. (4) Where in relation to any year of assessment a person makes default in furnishing contemporaneous transfer pricing documentation in accordance with any rules made under paragraph 154(1)(ed) to implement and facilitate the operation of section 140A, and no prosecution under subsection (1) has been instituted in respect of the default in furnishing contemporaneous transfer pricing documentation, the Director General may by notice in writing or in the notice of assessment require that person to pay a penalty of not less than twenty thousand ringgit and not more than one hundred thousand ringgit and, if that person pays that penalty, or where the penalty is abated or remitted under subsection 124(3), so much, if any, of the penalty as has not been abated or remitted, he shall not be liable to be charged on the same facts with an offence under subsection (1). (5) The person served with a notice in writing referred to in subsection (4) may appeal to the Special Commissioners within thirty days as if the notice were a notice of assessment and the provisions of this Act relating to appeals shall apply accordingly with any necessary modifications.”. Pindaan seksyen 124"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_25__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_25__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 124 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_25__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan memasukkan selepas perkataan “remit” perkataan “surcharge or”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_25__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan memasukkan selepas perkataan “remit any” perkataan “surcharge or”. Pindaan seksyen 140a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_26__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_26__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_26__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 140A Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_26__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan menggantikan perkataan “the price on certain transactions” dengan perkataan “price, disregard structure and impose surcharge”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_26__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: “(3 A) The Director General may disregard any structure adopted by a person in entering into a transaction if— (a) the economic substance of that transaction differs from its form; or (b) the form and substance of that transaction are the same but the arrangement made in relation to the transaction, viewed in totality, differs from those which would have been adopted by independent persons behaving in a commercially rational manner and the actual structure impedes the Director General from determining an appropriate transfer price. (3b) Where the Director General disregards any structure adopted by a person entering into a transaction under subsection (3A), the Director General shall make adjustments to the structure of that transaction as he thinks fit to reflect the structure that would have been adopted by an independent person dealing at arm’s length having regard to the economic and commercial reality. (3c) Where this section and any rules made under paragraph 154(1)(ed) apply, the Director General may by notice in writing require that person to pay a surcharge of not more than five per cent of the amount of increase of any income generally, or reduction of any deduction or loss, as the case may be, as a consequence of exercising his powers to substitute the price in respect of a transaction entered into by a person to reflect an arm’s length price for that transaction or to disregard any structure adopted by a person in entering into a transaction. (3 d) Any surcharge required to be paid by a person under subsection (3c) shall be collected by the Director General as if it were tax payable by that person, but shall not be treated as tax so payable for the purposes of any provision of this Act other than sections 103 to 106.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_26__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (5), dengan menggantikan perkataan “subsection (2)” dengan perkataan “subsections (2) and (3A)”. Pindaan Jadual 1"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_27__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_27__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jadual 1 kepada Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_27__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Bahagian I, dalam perenggan 1, dalam ruang Rate of income tax, dengan menggantikan perkataan “14 per cent” dengan perkataan “13 per cent” yang terdapat di baris kelima; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_27__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas Bahagian XVI bahagian yang berikut: “PArt XVII 1. Notwithstanding Part I, income tax shall be charged for a specified year of assessment on the chargeable income of a person who carries on business in respect of a qualifying activity under an incentive scheme approved by the Minister at the rate of not more than 20 per cent on every ringgit of that chargeable income. 2. In this Part, the applicable rate, the specified year of assessment and the conditions of the incentive scheme shall be as prescribed by the Minister. PArt XVIII 1. Notwithstanding Parts I and II, income tax shall be charged for a specified year of assessment on the chargeable income of an individual resident who is not a citizen having and exercising employment in a company which carries on business in respect of a qualifying activity under an incentive scheme approved by the Minister at the rate of not more than 20 per cent on every ringgit of that chargeable income. 2. In this Part, the applicable rate, the specified year of assessment and the conditions of the incentive scheme shall be as prescribed by the Minister.”. Pindaan Jadual 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_28__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_28__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jadual 3 kepada Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_28__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan 70 perenggan yang berikut: “70a. In this Schedule, “plant” means an apparatus used by a person for carrying on his business but does not include a building, an intangible asset, or any asset used and that functions as a place within which a business is carried on.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_28__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subsubsubperenggan 75 b(1)(a)(ii), dengan memotong perkataan “nominal”. Pindaan Jadual 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jadual 6 kepada Akta ibu dipinda dengan menggantikan proviso kepada subsubperenggan 15(1)(b) dengan proviso yang berikut: “Provided that— (a) this subsubparagraph shall apply to the payment made in respect of an individual who has ceased employment on or after 1 July 2008; and (b) a further sum of ten thousand ringgit is allowed to be multiplied by the number of completed years of service in respect of an individual who has ceased employment on or after 1 January 2020 but not later than 31 December 2021.”. Pindaan Jadual 7a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_3__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_3__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_3__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_3__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_3__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_3__subsec_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_30__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_30__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_30__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jadual 7A kepada Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_30__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_30__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_30__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan 2b(a)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_30__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_30__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “year of assessment 2015” dengan perkataan “year of assessment 2019”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_30__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_30__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “years of assessment 2016, 2017 and 2018” dengan perkataan “years of assessment 2020, 2021 and 2022”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_30__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_30__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_30__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan 2b(b)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_30__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_30__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “year of assessment 2016” dengan perkataan “year of assessment 2020”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_30__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_30__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “years of assessment 2017 and 2018” dengan perkataan “years of assessment 2021 and 2022”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_30__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_30__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_30__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan 2b(c)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_30__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_30__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “year of assessment 2017” dengan perkataan “year of assessment 2021”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_30__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_30__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “year of assessment 2018” dengan perkataan “year of assessment 2022”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 4, 5, 6, 13, 15, 16, 17, 23 dan 27, dan subperenggan 14(a)(i), (ii), (iii), (iv) dan (v), subperenggan 14(a)(viii) dan perenggan 14(b) berhubung dengan perenggan 46(1)(u) Akta Cukai Pendapatan 1967, dan perenggan 28(a) berkuat kuasa bagi tahun taksiran 2021 dan tahun-tahun taksiran yang berikutnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 7, 8 dan 9 mula berkuat kuasa apabila berkuatkuasanya Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 10, 11, 18, 20, 21, 24, 25 dan 26, dan perenggan 28(b) mula berkuat kuasa pada 1 Januari 2021."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_3__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 12 berkuat kuasa bagi tahun taksiran 2022 dan tahun-tahun taksiran yang berikutnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_3__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subperenggan 14(a)(vi) dan (vii), subperenggan 14(a)(viii) berhubung dengan perenggan 46(1)(s) Akta Cukai Pendapatan 1967, perenggan 14(b) berhubung dengan perenggan 46(1)(r) dan (s) Akta Cukai Pendapatan 1967, dan seksyen 29 berkuat kuasa bagi tahun taksiran 2020 dan 2021."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_3__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subperenggan 14(a)(viii) dan perenggan 14(b) berhubung dengan perenggan 46(1)(t) Akta Cukai Pendapatan 1967 berkuat kuasa bagi tahun taksiran 2020."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_3__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 19 dan 22 disifatkan telah mula berkuat kuasa pada 1 Januari 2020."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_3__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 30 berkuat kuasa bagi tahun taksiran 2020, 2021 dan 2022. Pindaan seksyen 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Cukai Pendapatan 1967, yang disebut “Akta ibu” dalam Bab ini, dipinda dalam subseksyen 5(1A) dengan memasukkan selepas perkataan “section 109c,” perkataan “109d,”. Pindaan seksyen 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 6 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_5__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_5__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_5__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_5__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_5__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan menggantikan perkataan “section 6 A” dengan perkataan “sections 6A and 6d”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_5__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_5__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (l), dengan menggantikan noktah di hujung perenggan itu dengan koma bernoktah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_5__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_5__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (l) perenggan yang berikut: “(m) income tax shall be charged for each year of assessment upon the chargeable income of a person who carries on business in respect of a qualifying activity under an incentive scheme approved by the Minister at the appropriate rate as specified in Part XVII of Schedule 1; (n) income tax shall be charged for each year of assessment upon the chargeable income of an individual resident who is not a citizen having and exercising employment in a company which carries on business in respect of a qualifying activity under an incentive scheme approved by the Minister at the appropriate rate as specified in Part XVIII of Schedule 1.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: “(1A) An incentive scheme referred to in paragraphs (1)(m) and (n) shall be the incentive scheme for a qualifying activity prescribed by the Minister which includes— (a) any high technology activity in manufacturing and services sector; and (b) any other activities which would benefit the economy of Malaysia.”. Seksyen baharu 6d"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 6c yang dipotong seksyen yang berikut: “Tax rebate for company or limited liability partnership 6d. (1) A rebate may be granted for a period of three consecutive years from the year of assessment in which a company or limited liability partnership first commences operation, in an amount equivalent to its operating or capital expenditure which it has incurred limited to a maximum amount of twenty thousand ringgit for each year of assessment. (2) Where the total amount of the rebate under subsection (1) exceeds the income tax charged (before any such rebate) for any year of assessment, the excess shall not be paid to the company or limited liability partnership, or be available as credit to set off the tax liability of the company or limited liability partnership for that year of assessment or any subsequent year. (3) The company or limited liability partnership referred to in subsection (1) shall be a company or limited liability partnership resident and incorporated or registered in Malaysia— (a) which has a paid-up capital in respect of ordinary shares or contribution of capital (whether in cash or in kind) of two million and five hundred thousand ringgit and less at the beginning of the basis period for a year of assessment; (b) which has a gross income from source or sources consisting of a business not exceeding fifty million ringgit for the basis period for that year of assessment; and (c) which has commenced operation on or after 1 July 2020 but not later than 31 December 2021. (4) The Minister may, by statutory order, impose such conditions as he thinks fit to give effect to or for carrying out the purposes of this section. (5) Where in a year of assessment the company or limited liability partnership fails to fulfil the conditions specified in subsection (3) or (4), the amount of rebate under subsection (1) shall not be granted for that year of assessment in which the failure occurs and in the subsequent years of assessment. (6) The statutory order made under subsection (4) shall be laid before the Dewan Rakyat.”. Pindaan seksyen 34"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 34(7) Akta ibu dipinda dengan memasukkan selepas perkataan “relevant person” perkataan “resident in Malaysia”. Pindaan seksyen 34a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_8__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_8__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 34A Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_8__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_8__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_8__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_8__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “a person” perkataan “resident in Malaysia”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_8__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_8__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “by the Minister” perkataan “and the amount of expenses on research and development incurred during that period outside Malaysia shall not be more than thirty per cent of the total expenses on research and development incurred by that person”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4), dengan menggantikan proviso kepada subseksyen itu dengan proviso yang berikut: “Provided that the amount of deduction to be made shall be the amount of expenditure incurred— (a) where the amount of expenses on research and development incurred for the basis period for a year of assessment outside Malaysia is more than thirty per cent of the total expenses on research and development incurred by that person; or (b) where subsection (4A) applies.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_8__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4A), dengan memasukkan selepas perkataan “A pioneer company” perkataan “resident in Malaysia”. Pindaan seksyen 34b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 34b(1) Akta ibu dipinda dengan memasukkan selepas perkataan “a person” perkataan “resident in Malaysia”. Pindaan seksyen 39"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV",
+      "@type": "akn:chapter",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_44",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_45",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_46",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_47",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_48",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_49",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_50"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PINDAAN KEPADA AKTA SETEM 1949 Permulaan kuat kuasa pindaan kepada Akta Setem 1949"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bab ini mula berkuat kuasa pada 1 Januari 2021. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Setem 1949 [Akta 378], yang disebut “Akta ibu” dalam Bab ini, dipinda dalam seksyen 2 dengan menggantikan takrif “duly stamped” dengan takrif yang berikut: ‘ “duly stamped”, as applied to an instrument, means— (a) the instrument bears an adhesive or impressed stamp of not less than the proper amount or the amount of initial duty or the amount of advance duty paid under subsection 37(1) and that such stamp has been affixed or used in accordance with the law for the time being in force; (b) an official receipt for the proper amount or the amount of initial duty or the amount of advance duty is affixed to the instrument; (c) a stamp certificate for the proper amount or the amount of initial duty or the amount of advance duty is attached to the instrument if the instrument is stamped through an electronic medium; or (d) the instrument is stamped by means of digital stamping for the proper amount or the amount of initial duty or the amount of advance duty;’. Pindaan seksyen 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_41__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_41__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_41__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_41__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 7(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_41__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_41",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (a) perenggan yang berikut: “(aa) means of an impressed stamp;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_41__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_41",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan memotong perkataan “or”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_41__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_41",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah di hujung perenggan (c) dengan perkataan “; or”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_41__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_41",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (c) perenggan yang berikut: “(d) means of digital stamping.”. Pindaan seksyen 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 9(7) Akta ibu dipinda dengan menggantikan perkataan “paragraph 1(a), (b) or (c)” dengan perkataan “subsection (1)”. Pindaan seksyen 12"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_43__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_43__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_43__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 12 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_43__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_43",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “or” di hujung perenggan (b);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_43__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_43",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah di hujung perenggan (c) dengan perkataan “; or”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_43__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_43",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (c) perenggan yang berikut: “(d) there is denoted by means of digital stamping on the duplicate or counterpart that full and proper duty has been paid in respect of the original instrument.”. Pindaan seksyen 48"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_44__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_44__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_44__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 48 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_44__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_44",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “or” di hujung perenggan (c);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_44__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_44",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan koma di hujung perenggan (d) dengan perkataan “; or”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_44__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_44",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (d) perenggan yang berikut: “(e) by means of digital stamping,”. Pindaan seksyen 50"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_45",
+      "@type": "akn:clause",
+      "eli:number": "45",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_45__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_45__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_45__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 50 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_45__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_45",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula peruntukan sedia ada sebagai subseksyen (1);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_45__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_45",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1) yang dinomborkan semula, dengan menggantikan perkataan “Part” dengan perkataan “Act”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_45__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_45",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) yang dinomborkan semula subseksyen yang berikut: “(2) The Collector and any employee of the Inland Revenue Board of Malaysia authorized by the Collector shall be deemed to be public officers authorized by the Minister under subsection 25(1) of the Government Proceedings Act 1956 [Act 359] in respect of all proceedings under this section. (3) In a suit under this section, the production of a certificate signed by the Collector giving the name and address of the defendant and the amount of the duty or penalty due from him shall be sufficient evidence of the amount so due and authority for the court to give judgment for that amount.”. Pindaan seksyen 55"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_46",
+      "@type": "akn:clause",
+      "eli:number": "46",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_46__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_46__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 55 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_46__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_46",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan memotong perkataan “and a further duty of ten ringgit by way of adjudication fee”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_46__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_46",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (3). Pindaan seksyen 74a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_47",
+      "@type": "akn:clause",
+      "eli:number": "47",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 74A Akta ibu dipinda dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: “(1A) The certificate referred to in subsection (1) may be issued to any Commissioner of Police or Director of Immigration through an electronic medium or by way of electronic transmission.”. Pindaan seksyen 80"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_48",
+      "@type": "akn:clause",
+      "eli:number": "48",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_48__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_48__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 80(1A) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_48__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_48__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_48__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_48",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (i)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_48__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_48__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan koma selepas perkataan “any instrument”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_48__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_48__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan koma selepas perkataan “any scheme”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_48__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_48__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_48__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_48",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (ii)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_48__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_48__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan koma selepas perkataan “any instrument”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_48__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_48__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “any scheme are chargeable” dengan perkataan “any scheme, are chargeable under this Act”. Seksyen baharu 80b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_49",
+      "@type": "akn:clause",
+      "eli:number": "49",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 80A seksyen yang berikut: “Power of Collector to remit duties 80b. The duty paid or payable by any person may be remitted wholly or in part on grounds of poverty by the Collector and, where the sum remitted has been paid, the Collector shall repay the same.”. Pindaan seksyen 82"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV__cl_50",
+      "@type": "akn:clause",
+      "eli:number": "50",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 82 Akta ibu dipinda dengan memasukkan selepas perenggan (aa) perenggan yang berikut: “(ab) to prescribe the means of digital stamping to be used under this Act for the payment of stamp duty, to provide for matters relating to the issuance and validity of the digital stamping;”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Kewangan 2020. Pindaan Akta"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Cukai Pendapatan 1967 [Akta 53], Akta Cukai Keuntungan Harta Tanah 1976 [Akta 169], Akta Setem 1949 [Akta 378], Akta Petroleum (Cukai Pendapatan) 1967 [Akta 543], Akta Cukai Aktiviti Perniagaan Labuan 1990 [Akta 445], Akta Kewangan 2012 [Akta 742] dan Akta Kewangan 2018 [Akta 812] dipinda mengikut cara yang dinyatakan masing-masing dalam Bab II, III, IV, V, VI, VII dan VIII."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_V",
+      "@type": "akn:chapter",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_V__cl_51",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_V__cl_52",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_V__cl_53",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_V__cl_54"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PINDAAN KEPADA AKTA PETROLEUM (CUKAI PENDAPATAN) 1967 Permulaan kuat kuasa pindaan kepada Akta Petroleum (Cukai Pendapatan) 1967"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI",
+      "@type": "akn:chapter",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI__cl_55",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI__cl_56",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI__cl_57",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI__cl_58",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI__cl_59",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI__cl_60",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI__cl_61",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI__cl_62"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PINDAAN KEPADA AKTA CUKAI AKTIVITI PERNIAGAAN LABUAN 1990 Permulaan kuat kuasa pindaan kepada Akta Cukai Aktiviti Perniagaan Labuan 1990"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VII",
+      "@type": "akn:chapter",
+      "eli:number": "VII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VII__cl_63",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VII__cl_64"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PINDAAN KEPADA AKTA KEWANGAN 2012 Permulaan kuat kuasa pindaan kepada Akta Kewangan 2012"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VIII",
+      "@type": "akn:chapter",
+      "eli:number": "VIII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VIII__cl_65",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VIII__cl_66"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PINDAAN KEPADA AKTA KEWANGAN 2018 Permulaan kuat kuasa pindaan kepada Akta Kewangan 2018"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VIII__cl_65",
+      "@type": "akn:clause",
+      "eli:number": "65",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VIII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bab ini mula berkuat kuasa apabila berkuatkuasanya Akta ini. Pindaan seksyen 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VIII__cl_66",
+      "@type": "akn:clause",
+      "eli:number": "66",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VIII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Kewangan 2018 dipinda dalam subseksyen 3(3) dengan menggantikan perkataan “dan 2020” dengan perkataan “, 2020, 2021 dan 2022”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VII__cl_63",
+      "@type": "akn:clause",
+      "eli:number": "63",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bab ini mula berkuat kuasa apabila berkuatkuasanya Akta ini. Pindaan seksyen 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VII__cl_64",
+      "@type": "akn:clause",
+      "eli:number": "64",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Kewangan 2012 dipinda dalam subseksyen 3(4) dengan memasukkan selepas perkataan “2021” perkataan “dan berkenaan dengan perenggan 10(c) berhubung dengan perenggan 49(1d)(b) Akta Cukai Pendapatan 1967 hingga tahun taksiran 2025”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI__cl_55",
+      "@type": "akn:clause",
+      "eli:number": "55",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI__cl_55__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI__cl_55__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI__cl_55__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI__cl_55__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI__cl_55",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 56(b) dan seksyen 58 dan 59 disifatkan telah mula berkuat kuasa bagi tahun taksiran 2020 dan tahun-tahun taksiran yang berikutnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI__cl_55__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI__cl_55",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 57 mula berkuat kuasa apabila berkuatkuasanya Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI__cl_55__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI__cl_55",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 56(a) dan seksyen 60, 61 dan 62 mula berkuat kuasa pada 1 Januari 2021. Pindaan seksyen 2b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI__cl_56",
+      "@type": "akn:clause",
+      "eli:number": "56",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI__cl_56__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI__cl_56__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Cukai Aktiviti Perniagaan Labuan 1990, yang disebut “Akta ibu” dalam Bab ini, dipinda dalam seksyen 2b—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI__cl_56__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI__cl_56",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perenggan (b) dengan perenggan yang berikut: “(b) hendaklah, bagi maksud aktiviti perniagaan Labuan— (i) berhubung dengan suatu aktiviti perdagangan Labuan— (A) mempunyai bilangan pekerja sepenuh masa yang mencukupi di Labuan; dan (B) mempunyai amaun perbelanjaan operasi tahunan yang mencukupi di Labuan, sebagaimana yang ditetapkan oleh Menteri melalui peraturan-peraturan yang dibuat di bawah Akta ini; dan (ii) berhubung dengan suatu aktiviti bukan perdagangan Labuan— (A) mempunyai bilangan pekerja sepenuh masa yang mencukupi di Labuan; (B) mempunyai amaun perbelanjaan operasi tahunan yang mencukupi di Labuan; dan (C) mematuhi apa-apa syarat berhubung dengan kawalan dan pengurusan di Labuan, sebagaimana yang ditetapkan oleh Menteri melalui peraturan-peraturan yang dibuat di bawah Akta ini.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI__cl_56__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI__cl_56",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1A) subseksyen yang berikut: “(1b) Bagi maksud subseksyen (1A)— (a) keuntungan yang boleh dikenakan cukai hendaklah keuntungan bersih sebagaimana yang ditunjukkan dalam akaun teraudit berkenaan dengan aktiviti perniagaan Labuan sedemikian bagi entiti Labuan itu bagi tempoh asas bagi tahun taksiran itu; dan (b) seksyen 6, 6A, 6b, 6c, 6d, 8 dan 8A hendaklah terpakai, dengan pengubahsuaian yang perlu.”. Pindaan seksyen 3a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI__cl_57",
+      "@type": "akn:clause",
+      "eli:number": "57",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 3A(2) Akta ibu dipinda dengan memasukkan selepas perkataan “tiga bulan” perkataan “atau apa-apa tempoh lanjutan yang dibenarkan oleh Ketua Pengarah”. Pindaan seksyen 6d"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI__cl_58",
+      "@type": "akn:clause",
+      "eli:number": "58",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 6d(1) Akta ibu dipinda dengan menggantikan perkataan “taksiran” di mana-mana jua terdapat dengan perkataan “taksiran atau taksiran tambahan” kecuali bagi perkataan “taksiran cukai pendapatan”. Pindaan seksyen 13a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI__cl_59",
+      "@type": "akn:clause",
+      "eli:number": "59",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 13A(1) Akta ibu dipinda dengan menggantikan perkataan “seksyen 6” dengan perkataan “subseksyen 6(2), (3) dan (4)”. Seksyen baharu 13b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI__cl_60",
+      "@type": "akn:clause",
+      "eli:number": "60",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 13A seksyen yang berikut: “Cukai kena dibayar walaupun prosiding telah dimulakan di bawah mana-mana undang-undang bertulis lain 13b. Memulakan apa-apa prosiding di bawah mana-mana undang-undang bertulis lain terhadap Kerajaan atau Ketua Pengarah tidak melepaskan mana-mana orang daripada tanggungannya untuk membayar apa-apa cukai, hutang atau jumlah lain di bawah Bahagian ini.”. Pindaan seksyen 20"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI__cl_61",
+      "@type": "akn:clause",
+      "eli:number": "61",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI__cl_61__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI__cl_61__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 20 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI__cl_61__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI__cl_61",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan memasukkan selepas perkataan “boleh didenda” perkataan “tidak kurang daripada dua puluh ribu ringgit dan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI__cl_61__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI__cl_61",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(3) Mana-mana orang yang menerima apa-apa penyata keuntungan, akuan berkanun atau maklumat yang dibuat atau diterima bagi maksud Akta ini, dengan mengetahui atau mempunyai alasan yang munasabah untuk mempercayai pada masa dia menerimanya bahawa penyata, akuan atau maklumat itu disampaikan atau dizahirkan kepadanya dengan melanggar Akta ini, tidak boleh menggunakan penyata, akuan atau maklumat itu atau mengemukakan atau menzahirkan penyata, akuan atau maklumat itu kepada mana-mana orang lain. (4) Mana-mana orang yang melanggar subseksyen (3) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak kurang daripada dua puluh ribu ringgit dan tidak melebihi satu juta ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.”. Pindaan seksyen 24"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI__cl_62",
+      "@type": "akn:clause",
+      "eli:number": "62",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 24(1) Akta ibu dipinda dengan memasukkan selepas perkataan “seksyen 22 atau 23” perkataan “, atau apa-apa peraturan-peraturan yang dibuat menurut subseksyen 21(1)”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_V__cl_51",
+      "@type": "akn:clause",
+      "eli:number": "51",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bab ini mula berkuat kuasa pada 1 Januari 2021. Seksyen baharu 48a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_V__cl_52",
+      "@type": "akn:clause",
+      "eli:number": "52",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Petroleum (Cukai Pendapatan) 1967, yang disebut “Akta ibu” dalam Bab ini, dipinda dengan memasukkan selepas seksyen 48 seksyen yang berikut: “Tax payable notwithstanding institution of proceedings under any other written law 48a. The institution of any proceedings under any other written law against the Government or the Director General shall not relieve any person from liability for the payment of any tax, debt or other sum for which he is or may be liable to pay under this Part.”. Pindaan seksyen 49"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_V__cl_53",
+      "@type": "akn:clause",
+      "eli:number": "53",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 49(3) Akta ibu dipinda dengan menggantikan perkataan “48(4) or (5)” dengan perkataan “48(4), (5) or (6)”. Seksyen baharu 71b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_V__cl_54",
+      "@type": "akn:clause",
+      "eli:number": "54",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/17/msa@/~chp_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 71A seksyen yang berikut: “Public ruling 71b. (1) The Director General may at any time make a public ruling on the application of any provision of this Act in relation to any chargeable person or any type of arrangement. (2) The Director General may withdraw, either wholly or partly, any public ruling made under subsection (1). (3) Notwithstanding any other provisions of this Act, where a public ruling made under subsection (1) applies to any chargeable person in relation to an arrangement and the chargeable person applies the provision in the manner stated in the ruling, the Director General shall apply the provision in relation to the chargeable person and the arrangement in accordance with the ruling.”."
+      }
+    }
+  ]
+}

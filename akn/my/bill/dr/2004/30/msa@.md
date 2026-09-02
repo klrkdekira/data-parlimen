@@ -12,7 +12,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Tajuk ringkas dan permulaan kuat kuasa
 
-1. (1) Akta ini bolehlah dinamakan Akta Perlembagaan (Pindaan) 2004.
+1. (1) Akta ini bolehlah dinamakan Akta Perlembagaan (Pindaan)
+
+2004.
 
 (2) Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Yang di-Pertuan Agong melalui pemberitahuan dalam Warta dan Yang di-Pertuan Agong boleh menetapkan tarikh permulaan kuat kuasa yang berlainan bagi peruntukan yang berlainan dalam Akta ini.
 
@@ -22,7 +24,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Pindaan Perkara 125
 
-3. Perkara 125 Perlembagaan Persekutuan dipinda dalam Fasal (1) dengan menggantikan perkataan "enam puluh lima tahun" di mana-mana jua terdapat dengan perkataan "enam puluh enam tahun".
+3. Perkara 125 Perlembagaan Persekutuan dipinda dalam Fasal
+
+(1) dengan menggantikan perkataan "enam puluh lima tahun" di mana-mana jua terdapat dengan perkataan "enam puluh enam tahun".
 
 <!-- page 2 -->
 
@@ -88,4 +92,6 @@ Pemeliharaan warisan juga dimasukkan sebagai satu butiran dalam Senarai Bersama 
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya tidak dapat ditentukan sekarang ini. '' [PN(U2)2393
+Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya tidak dapat ditentukan sekarang ini.
+
+<!-- marginal: '' [PN(U2)2393 -->

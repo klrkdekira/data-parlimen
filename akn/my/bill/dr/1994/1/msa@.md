@@ -32,7 +32,13 @@ III
 
 ## KEANGGOTAAN AKADEMI
 
-9. Keanggotaan Akademi. 10. Fellow dan Fellow Kehormat. 11. Hilang kelayakan menjadi anggota Akademi. 12. Penamatan Keanggotaan Fellow.
+9. Keanggotaan Akademi.
+
+10. Fellow dan Fellow Kehormat.
+
+11. Hilang kelayakan menjadi anggota Akademi.
+
+12. Penamatan Keanggotaan Fellow.
 
 <!-- page 2 -->
 
@@ -42,11 +48,23 @@ IV
 
 ## KEWANGAN
 
-13. Penubuhan Kumpulan Wang Akademi Sains Malaysia. 14. Wang yang hendak dibayar ke dalam Kumpulan Wang. 15. Maksud-maksud Kumpulan Wang. 16. Kuasa untuk melabur. 17. Kuasa meminjam.
+13. Penubuhan Kumpulan Wang Akademi Sains Malaysia. 14. Wang yang hendak dibayar ke dalam Kumpulan Wang. 15. Maksud-maksud Kumpulan Wang.
+
+16. Kuasa untuk melabur.
+
+17. Kuasa meminjam.
 
 ## BAHAGIAN V
 
-AM 18. Meterai biasa. 19. Pegawai dan pengkhidmat Akademi disifatkan sebagai pengkhidmat awam. 20. Peraturan-peraturan berkenaan dengan syarat-syarat perkhidmatan. 21. Peraturan-peraturan berkenaan dengan tatatertib. 22. Peraturan-peraturan.
+AM
+
+18. Meterai biasa. 19. Pegawai dan pengkhidmat Akademi disifatkan sebagai pengkhidmat awam.
+
+20. Peraturan-peraturan berkenaan dengan syarat-syarat perkhidmatan.
+
+21. Peraturan-peraturan berkenaan dengan tatatertib.
+
+22. Peraturan-peraturan.
 
 ## JADUAL
 
@@ -112,13 +130,25 @@ II
 
 ## AKADEMI SAINS MALAYSIA
 
-Penubuhan 3, Maka adalah dengan ini ditubuhkan suatu akademi Akademi. bernama "Akademi Sains Malaysia" yang hendaklah menjadi suatu pertubuhan perbadanan yang kekal turun- temurun dan mempunyai suatu meterai biasa, dan yang boleh mendakwa dan didakwa atas nama perbadanannya dan, tertakluk kepada dan bagi maksud-maksud Akta ini, boleh membuat kontrak dan boleh memperolehi, membeli, mengambil, memegang dan menikmati harta alih dan harta tak alih daripada tiap-tiap perihalan dan boleh memindahhak, menyerahhak, menyerahkan, memulangkan, menggadai, menggadai-janji, mendemis, menyerahhakkan semula, memindahmilikkan atau dengan apa-apa cara lain melupuskan,
+<!-- marginal: Penubuhan -->
+
+3, Maka adalah dengan ini ditubuhkan suatu akademi
+
+<!-- marginal: Akademi. -->
+
+bernama "Akademi Sains Malaysia" yang hendaklah menjadi suatu pertubuhan perbadanan yang kekal turun- temurun dan mempunyai suatu meterai biasa, dan yang boleh mendakwa dan didakwa atas nama perbadanannya dan, tertakluk kepada dan bagi maksud-maksud Akta ini, boleh membuat kontrak dan boleh memperolehi, membeli, mengambil, memegang dan menikmati harta alih dan harta tak alih daripada tiap-tiap perihalan dan boleh memindahhak, menyerahhak, menyerahkan, memulangkan, menggadai, menggadai-janji, mendemis, menyerahhakkan semula, memindahmilikkan atau dengan apa-apa cara lain melupuskan,
 
 <!-- marginal: atau -->
 
 memperlakukan mana-mana harta alih atau harta tak alih atau apa-apa kepentingan mengenainya yang terletakhak pada Akademi atas apa-apa terma yang difikirkan patut.
 
-Matlamat 4. Matlamat Akademi ialah pengusahaan, penggalakan Akademi. dan pengekalan kecemerlangan dalam bidang sains, kejuruteraan dan teknologi untuk menggalakkan peningkatan seni dan amalan sains, kejuruteraan dan
+<!-- marginal: Matlamat -->
+
+4. Matlamat Akademi ialah pengusahaan, penggalakan
+
+<!-- marginal: Akademi. -->
+
+dan pengekalan kecemerlangan dalam bidang sains, kejuruteraan dan teknologi untuk menggalakkan peningkatan seni dan amalan sains, kejuruteraan dan
 
 <!-- page 5 -->
 
@@ -134,11 +164,7 @@ teknologi bagi pembangunan negara dan kepentingan manusia.
 
 (b) mengadakan forum untuk pertukaran pendapat di kalangan ahli sains, jurutera dan ahli teknologi;
 
-(c) menggalakkan kesedaran negara. pemahaman dan penghargaan akan peranan
-
-<!-- marginal: sains, -->
-
-kejuruteraan dan teknologi dalam kemajuan manusia;
+(c) menggalakkan kesedaran negara. pemahaman dan penghargaan akan peranan sains, kejuruteraan dan teknologi dalam kemajuan manusia;
 
 (d) menggalakkan daya rekaciptaan di kalangan ahli sains, jurutera dan ahli teknologi;
 
@@ -148,11 +174,7 @@ kejuruteraan dan teknologi dalam kemajuan manusia;
 
 (g) menganalisa masalah-masalah tertentu negara dan mengenalpasti di mana sains, kejuruteraan dan teknologi dapat memberi sumbangan kepada penyelesaian masalah itu dan dengan demikian itu membuat syor-syor kepada Kerajaan;
 
-(h) sentiasa mengambil perhatian
-
-<!-- marginal: tentang -->
-
-perkembangan sains, kejuruteraan dan teknologi dan mengenalpasti perkembangan- perkembangan itu yang ada kaitan dengan keperluan negara dan membawa kepada perhatian Kerajaan akan perkembangan- perkembangan itu;
+(h) sentiasa mengambil perhatian tentang perkembangan sains, kejuruteraan dan teknologi dan mengenalpasti perkembangan- perkembangan itu yang ada kaitan dengan keperluan negara dan membawa kepada perhatian Kerajaan akan perkembangan- perkembangan itu;
 
 <!-- page 6 -->
 
@@ -162,23 +184,21 @@ perkembangan sains, kejuruteraan dan teknologi dan mengenalpasti perkembangan- p
 
 (j) mendayausahakan dan membiayai kajian pelbagai disiplin yang berkaitan serta perlu bagi pemahaman yang lebih baik tentang implikasi- implikasi sosial dan ekonomi akan sains, kejuruteraan dan teknologi;
 
-(k) menggalakkan penyelidikan dan pembangunan dan pendidikan dan latihan tenaga manusia yang sesuai dalam bidang
-
-<!-- marginal: saintifik, -->
-
-kejuruteraan dan teknikal;
+(k) menggalakkan penyelidikan dan pembangunan dan pendidikan dan latihan tenaga manusia yang sesuai dalam bidang saintifik, kejuruteraan dan teknikal;
 
 (l) mengadakan dan mengekalkan hubungan antara Akademi dan badan-badan luar negeri yang mempunyai objektif yang sama atau hampir serupa dengan objektif Akademi dalam bidang sains, kejuruteraan dan teknologi;
 
 (m) melakukan apa-apa perkara lain sebagaimana diminta oleh Kerajaan dari semasa ke setnasa; dan
 
-(n) melakukan apa-apa tindakan
+(n) melakukan apa-apa tindakan lain yang konsisten dengan Akta ini sebagaimana yang dikehendaki untuk melanjutkan kemajuan sains, kejuruteraan dan teknologi di Malaysia dan kebajikan serta taraf Akademi.
 
-<!-- marginal: lain yang -->
+<!-- marginal: Majlis -->
 
-konsisten dengan Akta ini sebagaimana yang dikehendaki untuk melanjutkan kemajuan sains, kejuruteraan dan teknologi di Malaysia dan kebajikan serta taraf Akademi.
+6. (1) Bagi maksud menjalankan fungsi-fungsi
 
-Majlis 6. (1) Bagi maksud menjalankan fungsi-fungsi Akademi. Akademi dan menguruskan hal-ehwal Akademi, maka adalah ditubuhkan suatu Majlis yang, terdiri daripada—
+<!-- marginal: Akademi. -->
+
+Akademi dan menguruskan hal-ehwal Akademi, maka adalah ditubuhkan suatu Majlis yang, terdiri daripada—
 
 (a) Presiden;
 
@@ -242,7 +262,13 @@ III
 
 ## KEANGGOTAAN AKADEMI
 
-Keanggotaan 9. (1) Akademi hendaklah terdiri daripada kategori- Akademi. kategori anggota yang berikut: (a) Fellow; dan (b) Fellow kehormat.
+<!-- marginal: Keanggotaan -->
+
+9. (1) Akademi hendaklah terdiri daripada kategori-
+
+<!-- marginal: Akademi. -->
+
+kategori anggota yang berikut: (a) Fellow; dan (b) Fellow kehormat.
 
 (2) Tertakluk kepada subseksyen (3), anggota- anggota Akademi adalah berhak untuk—
 
@@ -304,9 +330,17 @@ fraud, kecurangan atau keburukan akhlak;
 
 (c) dihukum bangkrap.
 
-Penamatan
+<!-- marginal: Penamatan -->
 
-12. (1) Majlis boleh melalui resolusi membuat syor keanggotaan kepada Akademi untuk menamatkan keanggotaan Fellow. seseorang Fellow jika dia didapati bersalah atas kelakuan yang, pada pendapat Majlis, menyebabkan dia tidak layak untuk menjadi anggota Akademi atau yang akan menyebabkan Akademi mendapat nama buruk.
+12. (1) Majlis boleh melalui resolusi membuat syor
+
+<!-- marginal: keanggotaan -->
+
+kepada Akademi untuk menamatkan keanggotaan
+
+<!-- marginal: Fellow. -->
+
+seseorang Fellow jika dia didapati bersalah atas kelakuan yang, pada pendapat Majlis, menyebabkan dia tidak layak untuk menjadi anggota Akademi atau yang akan menyebabkan Akademi mendapat nama buruk.
 
 (2) Sebelum sesuatu syor di bawah subseksyen (1) dibawa kepada Akademi untuk mendapat keputusan, Fellow berkenaan hendaklah diberi peluang untuk memberikan penjelasan secara bertulis kepada Majlis dengan menyatakan alasan-alasan tentang mengapa keanggotaannya tidak boleh ditamatkan.
 
@@ -318,9 +352,43 @@ IV
 
 ## KEWANGAN
 
-Penubuhan 13. Maka adalah ditubuhkan suatu kumpulan wang yang Kumpulan Wang dikenali sebagai Kumpulan Wang Akademi Sains Akademi Malaysia yang hendaklah ditadbirkan oleh Majlis. Sains Malaysia. Wang yang 14. Maka hendaklah dibayar ke dalam Kumpulan hendak dibayar ke Wang— dalam Kumpulan
+<!-- marginal: Penubuhan -->
 
-(a) apa-apa jumlah wang sebagaimana yang Wang. diperuntukkan dari semasa ke semasa oleh Parlimen daripada Kumpulan Wang Disatukan Persekutuan;
+13. Maka adalah ditubuhkan suatu kumpulan wang yang
+
+<!-- marginal: Kumpulan -->
+
+<!-- marginal: Wang -->
+
+dikenali sebagai Kumpulan Wang Akademi Sains
+
+<!-- marginal: Akademi -->
+
+Malaysia yang hendaklah ditadbirkan oleh Majlis.
+
+<!-- marginal: Sains -->
+
+<!-- marginal: Malaysia. -->
+
+<!-- marginal: Wang yang -->
+
+14. Maka hendaklah dibayar ke dalam Kumpulan
+
+<!-- marginal: hendak -->
+
+<!-- marginal: dibayar ke -->
+
+Wang—
+
+<!-- marginal: dalam -->
+
+<!-- marginal: Kumpulan -->
+
+(a) apa-apa jumlah wang sebagaimana yang
+
+<!-- marginal: Wang. -->
+
+diperuntukkan dari semasa ke semasa oleh Parlimen daripada Kumpulan Wang Disatukan Persekutuan;
 
 <!-- page 11 -->
 
@@ -368,19 +436,37 @@ berhubungan dengan sains, kejuruteraan dan teknologi;
 
 (i) untuk membayar apa-apa perbelanjaan lain yang dilakukan dengan sepatutnya oleh Majlis dalam melaksanakan fungsi-fungsinya di bawah Akta ini.
 
-Kuasa untuk 16. Majlis boleh, dari semasa ke semasa, melabur wang- melabur. wang Kumpulan Wang yang tidak dikehendaki untuk dibelanjakan dengan segera di bawah Akta ini—
+<!-- marginal: Kuasa untuk -->
+
+16. Majlis boleh, dari semasa ke semasa, melabur wang-
+
+<!-- marginal: melabur. -->
+
+wang Kumpulan Wang yang tidak dikehendaki untuk dibelanjakan dengan segera di bawah Akta ini—
 
 (a) dalam apa-apa pelaburan atau sekuriti yang dibenarkan bagi pelaburan wang amanah oleh mana-mana undang-undang bertulis yang sedang berkuatkuasa pada masa itu; atau
 
 (b) dalam apa-apa pelaburan atau sekuriti lain sebagaimana yang difikirkan patut oleh Majlis.
 
-Kuasa 17. Majlis boleh, dengan kelulusan Menteri dan atas meminjam. apa-apa terma dan syarat sebagaimana yang akan ditentukan olehnya, meminjam apa-apa wang yang dikehendaki bagi pelaksanaan mana-mana fungsi- fungsinya di bawah Akta ini.
+<!-- marginal: Kuasa -->
+
+17. Majlis boleh, dengan kelulusan Menteri dan atas
+
+<!-- marginal: meminjam. -->
+
+apa-apa terma dan syarat sebagaimana yang akan ditentukan olehnya, meminjam apa-apa wang yang dikehendaki bagi pelaksanaan mana-mana fungsi- fungsinya di bawah Akta ini.
 
 ## BAHAGIAN V
 
 AM
 
-Meterai 18. (1) Akademi hendaklah mempunyai meterai biasa biasa. dan meterai biasa itu boleh dari semasa ke semasa dipecahkan, ditukar, diubah atau dibuat baharu sebagaimana yang difikirkan patut oleh Majlis.
+<!-- marginal: Meterai -->
+
+18. (1) Akademi hendaklah mempunyai meterai biasa
+
+<!-- marginal: biasa. -->
+
+dan meterai biasa itu boleh dari semasa ke semasa dipecahkan, ditukar, diubah atau dibuat baharu sebagaimana yang difikirkan patut oleh Majlis.
 
 (2) Sehingga suatu meterai diadakan oleh Majlis, suatu cap yang mengandungi perkataan "Akademi Sains Malaysia" boleh digunakan dan hendaklah disifatkan sebagai meterai biasa Akademi.
 
@@ -390,19 +476,9 @@ Meterai 18. (1) Akademi hendaklah mempunyai meterai biasa biasa. dan meterai bia
 
 <!-- page 13 -->
 
-orang anggota lain Majlis
+orang anggota lain Majlis yang hendaklah menandatangani nama mereka pada suratcara itu sebagai tanda kehadirannya itu, dan tandatangan itu hendaklah menjadi keterangan mencukupi bahawa meterai itu telah dicapkan dengan sewajarnya dan sepatutnya dan adalah meterai Akademi yang sah.
 
-<!-- marginal: yang -->
-
-<!-- marginal: hendaklah -->
-
-menandatangani nama mereka pada suratcara itu sebagai tanda kehadirannya itu, dan tandatangan itu hendaklah menjadi keterangan mencukupi bahawa meterai itu telah dicapkan dengan sewajarnya dan sepatutnya dan adalah meterai Akademi yang sah.
-
-(5) Apa-apa dokumen atau suratcara yang, jika disempurnakan oleh seseorang yang bukan suatu pertubuhan perbadanan, tidak dikehendaki dimeteraikan, boleh disempurnakan oleh Majlis dengan cara yang serupa dan dokumen atau suratcara
-
-<!-- marginal: itu boleh -->
-
-disempurnakan bagi pihak Majlis oleh mana-mana pegawai atau pengkhidmat Akademi yang diberikuasa secara am atau khas oleh Majlis bagi maksud itu.
+(5) Apa-apa dokumen atau suratcara yang, jika disempurnakan oleh seseorang yang bukan suatu pertubuhan perbadanan, tidak dikehendaki dimeteraikan, boleh disempurnakan oleh Majlis dengan cara yang serupa dan dokumen atau suratcara itu boleh disempurnakan bagi pihak Majlis oleh mana-mana pegawai atau pengkhidmat Akademi yang diberikuasa secara am atau khas oleh Majlis bagi maksud itu.
 
 (6) Meterai Akademi hendaklah diberi pengiktirafan rasmi dan kehakiman.
 
@@ -480,9 +556,13 @@ seseorang pegawai atau pengkhidmat Akademi sementara menanti keputusan prosiding
 
 (4) Peraturan-peraturan yang dibuat di bawah seksyen ini boleh, dalam menetapkan prosedur bagi prosiding tatatertib, memberikan peluang kepada orang yang terhadapnya prosiding tatatertib itu diambil membuat representasi sebelum keputusan diambil oleh Majlis atas pertuduhan tatatertib yang dibuat terhadap orang itu.
 
-Peraturan-
+<!-- marginal: Peraturan- -->
 
-22. (1) Majlis boleh, dengan kelulusan Menteri, peraturan. membuat apa-apa peraturan sebagaimana yang suai- manfaat atau perlu bagi melaksanakan peruntukan- peruntukan Akta ini dengan lebih baik.
+22. (1) Majlis boleh, dengan kelulusan Menteri,
+
+<!-- marginal: peraturan. -->
+
+membuat apa-apa peraturan sebagaimana yang suai- manfaat atau perlu bagi melaksanakan peruntukan- peruntukan Akta ini dengan lebih baik.
 
 (2) Tanpa menjejaskan keluasan subseksyen (1), peraturan-peraturan boleh dibuat—
 
@@ -556,23 +636,67 @@ jika—
 
 (d) kecuali Presiden, dia dipecat dari jawatannya melalui suatu resolusi yang diluluskan dalam suatu mesyuarat agung tahunan atau mesyuarat agung luar biasa Akademi.
 
-Anggota
+<!-- marginal: Anggota -->
 
-4. Anggota-anggota Majlis boleh bertindak menjalankan apa-apa boleh fungsi atau kewajipan jawatan mereka walau apa pun apa-apa bertindak tanpa kekosongan wujud dalam bilangan anggota. mengira kekosongan dalam bilangan
+4. Anggota-anggota Majlis boleh bertindak menjalankan apa-apa
 
-Kekosongan
+<!-- marginal: boleh -->
 
-5. Apa-apa kekosongan biasa yang berlaku dalam keanggotaan biasa. Majlis boleh diisi oleh mana-mana Fellow Akademi yang dilantik oleh Presiden dan Fellow itu hendaklah memegang jawatan hanya selama tempoh yang belum habis tempoh jawatan pendulunya.
+fungsi atau kewajipan jawatan mereka walau apa pun apa-apa
 
-Mesyuarat-
+<!-- marginal: bertindak -->
 
-6. (1) Majlis hendaklah bermesyuarat sekurang-kurangnya empat mesyuarat kali dalam setiap tahun kalendar pada masa dan di tempat yang Majlis ditetapkan oleh Majlis. (2) Lapan anggota yang hadir dengan sendirinya dalam mana- mana mesyuarat Majlis hendaklah membentuk suatu kuorum. (3) Suatu keputusan majoriti anggota-anggota Majlis yang hadir dan mengundi dalam mana-mana mesyuarat Majlis hendaklah disifatkan sebagai suatu keputusan Majlis. (4) Pengerusi atau anggota yang menjadi pengerusi dalam mana- mana mesyuarat Majlis hendaklah mempunyai undi asal dan undi pemutus.
+<!-- marginal: tanpa -->
 
-Anggota Majlis
+kekosongan wujud dalam bilangan anggota.
 
-7. Tiada saraan kena dibayar kepada mana-mana anggota Majlis tidak dibayar saraan kerana memegang jawatan.
+<!-- marginal: mengira -->
 
-Mesyuarai 8. (1) Tertakluk kepada subperenggan (2), mesyuarat agung agung tahunan Akademi hendaklah diadakan dalam masa empat bulan Akademi. pertama setiap tahun kalendar, dan pada masa yang ditetapkan oleh Majlis. (2) Mesyuarat agung luar biasa Akademi boleh diadakan pada bila-bila masa oleh Majlis dan hendaklah diadakan oleh Majlis atas permintaan tidak kurang daripada satu-perlima daripada jumlah Fellow Akademi. (3) Mesyuarat agung biasa Akademi hendaklah diadakan di tempat dan pada masa sebagaimana yang ditetapkan oleh Majlis untuk membincangkan perkara-perkara saintifik, kejuruteraan atau teknologi atau perkara-perkara lain berkaitan dengan anggota dan hendaklah terbuka kepada semua Fellow dan mana-mana orang lain yang ditentukan oleh Majlis.
+<!-- marginal: kekosongan -->
+
+<!-- marginal: dalam bilangan -->
+
+<!-- marginal: Kekosongan -->
+
+5. Apa-apa kekosongan biasa yang berlaku dalam keanggotaan
+
+<!-- marginal: biasa. -->
+
+Majlis boleh diisi oleh mana-mana Fellow Akademi yang dilantik oleh Presiden dan Fellow itu hendaklah memegang jawatan hanya selama tempoh yang belum habis tempoh jawatan pendulunya.
+
+<!-- marginal: Mesyuarat- -->
+
+6. (1) Majlis hendaklah bermesyuarat sekurang-kurangnya empat
+
+<!-- marginal: mesyuarat -->
+
+kali dalam setiap tahun kalendar pada masa dan di tempat yang
+
+<!-- marginal: Majlis -->
+
+ditetapkan oleh Majlis. (2) Lapan anggota yang hadir dengan sendirinya dalam mana- mana mesyuarat Majlis hendaklah membentuk suatu kuorum. (3) Suatu keputusan majoriti anggota-anggota Majlis yang hadir dan mengundi dalam mana-mana mesyuarat Majlis hendaklah disifatkan sebagai suatu keputusan Majlis. (4) Pengerusi atau anggota yang menjadi pengerusi dalam mana- mana mesyuarat Majlis hendaklah mempunyai undi asal dan undi pemutus.
+
+<!-- marginal: Anggota Majlis -->
+
+7. Tiada saraan kena dibayar kepada mana-mana anggota Majlis
+
+<!-- marginal: tidak dibayar -->
+
+<!-- marginal: saraan -->
+
+kerana memegang jawatan.
+
+<!-- marginal: Mesyuarai -->
+
+8. (1) Tertakluk kepada subperenggan (2), mesyuarat agung
+
+<!-- marginal: agung -->
+
+tahunan Akademi hendaklah diadakan dalam masa empat bulan
+
+<!-- marginal: Akademi. -->
+
+pertama setiap tahun kalendar, dan pada masa yang ditetapkan oleh Majlis. (2) Mesyuarat agung luar biasa Akademi boleh diadakan pada bila-bila masa oleh Majlis dan hendaklah diadakan oleh Majlis atas permintaan tidak kurang daripada satu-perlima daripada jumlah Fellow Akademi. (3) Mesyuarat agung biasa Akademi hendaklah diadakan di tempat dan pada masa sebagaimana yang ditetapkan oleh Majlis untuk membincangkan perkara-perkara saintifik, kejuruteraan atau teknologi atau perkara-perkara lain berkaitan dengan anggota dan hendaklah terbuka kepada semua Fellow dan mana-mana orang lain yang ditentukan oleh Majlis.
 
 <!-- page 17 -->
 
@@ -580,9 +704,7 @@ Mesyuarai 8. (1) Tertakluk kepada subperenggan (2), mesyuarat agung agung tahuna
 
 <!-- marginal: Minit-minit -->
 
-9. Majlis hendaklah menyebabkan
-
-<!-- marginal: supaya minit-minit -->
+9. Majlis hendaklah menyebabkan supaya minit-minit
 
 <!-- marginal: hendaklah -->
 
@@ -674,6 +796,4 @@ IV
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya belum dapat ditentukan sekarang ini.
-
-<!-- marginal: [PN. (U2) 1803.] -->
+Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya belum dapat ditentukan sekarang ini. [PN. (U2) 1803.]

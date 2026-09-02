@@ -56,9 +56,13 @@
       "@type": "akn:clause",
       "eli:number": "1",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Pelaburan Kerajaan (Pindaan)"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ini bolehlah dinamakan Akta Pelaburan Kerajaan (Pindaan) 2005. Pindaan tajuk panjang"
+        "@value": "2005. Pindaan tajuk panjang"
       }
     },
     {

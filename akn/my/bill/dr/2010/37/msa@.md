@@ -6,11 +6,11 @@ RANG UNDANG-UNDANG KEWANGAN (No. 2) 2010
 
 ## SUSUNAN FASAL
 
-## BaB I
+## BAB I
 
 1. Tajuk ringkas 2. Pindaan Akta
 
-## BaB II
+## BAB II
 
 ## PINDAAN KEPADA AKTA CUKAI PENDAPATAN 1967
 
@@ -62,7 +62,7 @@ PINDAAN KEPADA AKTA SETEm 1949
 
 29. Pindaan Jadual Kelima
 
-## BaB IV
+## BAB IV
 
 PINDAAN KEPADA AKTA PETRoLEUm (CUKAI PENDAPATAN) 1967
 
@@ -72,7 +72,7 @@ PINDAAN KEPADA AKTA PETRoLEUm (CUKAI PENDAPATAN) 1967
 
 32. Pindaan seksyen 50
 
-## BaB V
+## BAB V
 
 ## PINDAAN KEPADA AKTA CUKAI KEUNTUNGAN HARTA TANAH 1976
 
@@ -84,7 +84,7 @@ PINDAAN KEPADA AKTA PETRoLEUm (CUKAI PENDAPATAN) 1967
 
 36. Pindaan kepada Jadual 2
 
-## BaB VI
+## BAB VI
 
 ## PINDAAN KEPADA AKTA KEWANGAN 2007
 
@@ -100,11 +100,7 @@ PINDAAN KEPADA AKTA PETRoLEUm (CUKAI PENDAPATAN) 1967
 
 ## PINDAAN KEPADA AKTA KEWANGAN 2009
 
-40. Permulaan kuat kuasa pindaan kepada Akta Kewangan 2009
-
-41. Pindaan seksyen 48
-
-42. Pindaan seksyen 49
+40. Permulaan kuat kuasa pindaan kepada Akta Kewangan 2009 41. Pindaan seksyen 48 42. Pindaan seksyen 49
 
 <!-- page 5 -->
 
@@ -114,7 +110,7 @@ Suatu Akta untuk meminda Akta Cukai Pendapatan 1967, Akta Setem 1949, Akta Petro
 
 DIPERBUAT oleh Parlimen malaysia seperti yang berikut:
 
-## BaB I
+## BAB I
 
 PERmULAAN
 
@@ -128,7 +124,7 @@ PERmULAAN
 
 <!-- page 6 -->
 
-## BaB II
+## BAB II
 
 ## PINDAAN KEPADA AKTA CUKAI PENDAPATAN 1967
 
@@ -416,7 +412,7 @@ PINDAAN KEPADA AKTA SETEm 1949
 
 16. Any other agreement approved by the Collector.”.
 
-## BaB IV
+## BAB IV
 
 PINDAAN KEPADA AKTA PETRoLEUm (CUKAI PENDAPATAN) 1967
 
@@ -442,7 +438,7 @@ PINDAAN KEPADA AKTA PETRoLEUm (CUKAI PENDAPATAN) 1967
 
 (5) Where amount of excess in respect of a person is ascertained in accordance with subsection 111(4a) of the Income Tax Act 1967 or subsection 24(7a) of the Real Property Gains Tax Act 1976 such excess shall be applied for the payment of tax which is due and payable (including any amount of instalments which are due and payable) by that person under this Act.”.
 
-## BaB V
+## BAB V
 
 ## PINDAAN KEPADA AKTA CUKAI KEUNTUNGAN HARTA
 
@@ -478,7 +474,7 @@ PINDAAN KEPADA AKTA PETRoLEUm (CUKAI PENDAPATAN) 1967
 
 <!-- page 19 -->
 
-## BaB VI
+## BAB VI
 
 ## PINDAAN KEPADA AKTA KEWANGAN 2007
 

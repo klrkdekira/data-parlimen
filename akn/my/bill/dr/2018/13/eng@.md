@@ -64,7 +64,13 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ## EXPLANATORY STATEMENT
 
-This Bill seeks to amend the Free Zones Act 1990 [Act 438] in respect of the reference to the Sales Tax Act 1972 [Act 64] and the Service Tax Act 1975 [Act 151]. This amendment is consequential to the implementation of a new tax system namely sales tax and service tax as proposed under the Sales Tax Bill 2018 and the Service Tax Bill 2018 which will replace the goods and services tax under the Goods and Services Tax Act 2014 [Act 762]. 2. Clause 1 contains the short title of the proposed Act and empowers the Minister to appoint the date of commencement of the proposed Act. 3. Clause 2 seeks to amend section 2 of Act 438 by deleting the definitions of “sales tax”, “service” and “service tax” in consequence of the proposed amendments in clauses 3 to 9. 4. Clause 3 seeks to amend section 4 of Act 438 to remove matters relating to services, sales tax and service tax in the free zones as these matters have been provided for under the proposed Sales Tax Bill 2018 and Service Tax Bill 2018.
+This Bill seeks to amend the Free Zones Act 1990 [Act 438] in respect of the reference to the Sales Tax Act 1972 [Act 64] and the Service Tax Act 1975 [Act 151]. This amendment is consequential to the implementation of a new tax system namely sales tax and service tax as proposed under the Sales Tax Bill 2018 and the Service Tax Bill 2018 which will replace the goods and services tax under the Goods and Services Tax Act 2014 [Act 762].
+
+2. Clause 1 contains the short title of the proposed Act and empowers the Minister to appoint the date of commencement of the proposed Act.
+
+3. Clause 2 seeks to amend section 2 of Act 438 by deleting the definitions of “sales tax”, “service” and “service tax” in consequence of the proposed amendments in clauses 3 to 9.
+
+4. Clause 3 seeks to amend section 4 of Act 438 to remove matters relating to services, sales tax and service tax in the free zones as these matters have been provided for under the proposed Sales Tax Bill 2018 and Service Tax Bill 2018.
 
 <!-- page 4 -->
 

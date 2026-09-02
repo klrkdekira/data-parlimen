@@ -1,0 +1,361 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-51-1997",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_11"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Criminal Procedure (Amendment) Bill 1997"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Criminal Procedure"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "(Amendment) Act 1997 and shall come into force on a date to be appointed by the Minister by notification in the Gazette."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Code is amended by substituting for section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "422 the following section: \" 422. Subject to the provisions contained in this Chapter no finding, sentence or order passed or made by a Court of competent jurisdiction shall be reversed or altered on account of— (a) any error, omission or irregularity in the complaint, sanction, consent, summons, warrant, charge, judgment or other proceedings before or during trial or in any inquiry or other proceedings under this Code; (b) the want of any sanction; or (c) the improper admission or rejection of any evidence, unless such error, omission, irregularity, want, or improper admission or rejection of evidence has occasioned a failure of justice.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_11__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The provisions of this Act shall not apply to any prosecution or proceeding which has been instituted but has not been completed on the date of the commencement of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No finding, judgment, sentence or order of any Court made or passed or imposed before the date of commencement of this Act or during or at the conclusion of any prosecution or proceeding referred to in subsection (1) shall be reversed, altered or affected by any provision of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Criminal Procedure Code, which in this Act is"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "referred to as the \"Code\", is amended in section 133—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (i) the following subsection: \"(i) When a Magistrate takes cognisance of an offence on a complaint— (a) the Magistrate shall set a date to examine the complainant in accordance with this section; (b) the Magistrate shall serve on the Public Prosecutor a notice in writing at least seven clear days before the date of the examination of the complainant and such notice shall specify the date of the examination of the complainant and the particulars of the complaint received by the Magistrate under section 128; (c) the Magistrate shall not proceed to examine the complainant unless the notice required by paragraph (b) has been served on the Public Prosecutor in accordance with that paragraph; (d) the Magistrate shall examine the complainant upon oath and the substance of the examination of the complainant shall be reduced to writing and shall be signed by the complainant and by the Magistrate; (e) the Public Prosecutor may appear and assist the Magistrate in the examination of the complainant,\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (i) the following subsections: \"(iA) Notwithstanding subsection (i), the Public Prosecutor may at any stage of the examination direct the police to investigate the offence complained of and to report thereon to the Public Prosecutor. (iB) If the Public Prosecutor directs the police to investigate the offence complained of, the Magistrate shall not proceed with the examination of the complainant.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (ii), by substituting for the words \"officer or by a\" the words \"officer, public officer or\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 134 of the Code is amended—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "134."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing provision as subsection (i) of section 134;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (i), by inserting after the words \"report to him\" the words \"and to the Public Prosecutor\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (i) the following subsection: \"(ii) If the Magistrate decides to inquire into the case himself in accordance with subsection (i), the Magistrate shall serve on the Public Prosecutor a notice in writing at least seven clear days before the date of the inquiry and the Public Prosecutor may appear and assist the Magistrate in such inquiry.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 135 of the Code is amended by inserting"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "after subsection (ii) the following subsection: \"(iii) Notwithstanding subsections (i) and (ii), the Public Prosecutor may, if he thinks fit, inform the Magistrate that no prosecution shall proceed in respect of the offence complained o f, and thereupon the Magistrate shall dismiss the complaint.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 376 of the Code is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (iii), by inserting after the word \"personally\" the words \"and he may designate any of such Deputy Public Prosecutors as Senior Deputy Public Prosecutors\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (iii) the following subsection: \"(iiiA) The Public Prosecutor may appoint fit and proper persons to be Assistant Public Prosecutors who shall be under the general control and direction of the Public Prosecutor and, subject to such limitations or restrictions as may be specified by the Public Prosecutor, shall have all the powers of a Deputy Public Prosecutor.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_6__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 377 of the Code is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"a High Court and every criminal prosecution for a seizable offence\" the words \"any court\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraphs (a) and (b) the following paragraphs: \"(a) by the Public Prosecutor, a Senior Deputy Public Prosecutor, a Deputy Public Prosecutor or an Assistant Public Prosecutor; (b) subject to the control and direction of the Public Prosecutor, by the following persons who are authorised in writing by the Public Prosecutor: (1) an advocate; (2) a police officer not below the rank of Inspector; (3) an officer of any Government department; (4) an officer of any local authority; (5) an officer of any statutory authority or body; or (6) any person employed or retained by any local authority or any statutory authority or body;\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_6__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_6__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the proviso—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_6__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_6__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"for seizable offences\" appearing after the words \"to direct that prosecutions\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_6__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_6__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the colon appearing after the word \"Inspector\" a full stop and deleting all the words appearing after the colon."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Code is amended by substituting for section 378"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "the following section: \" 378. No person shall appear on behalf of the Public Prosecutor on any criminal appeal other than the Public Prosecutor, a Senior Deputy Public Prosecutor or a Deputy Public Prosecutor.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Code is amended by substituting for section 380"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "the following section: \" 380. Notwithstanding anything in this Chapter contained, any private person may appear in person or by advocate and prosecute for an offence against his own person or property in a non-seizable case in the Court of a Magistrate.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/51/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Code is amended by inserting after section 380"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "the following section: \" 380A. The provisions of sections 377 and 380 shall prevail notwithstanding any inconsistency with any other written law.\"."
+      }
+    }
+  ]
+}

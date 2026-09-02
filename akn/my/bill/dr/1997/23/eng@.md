@@ -56,7 +56,13 @@ a date to be appointed by the Yang di-Pertuan Agong by notification in the Gazet
 
 (3) Notwithstanding subsection (2), where any other State has made a request to the Federal Government that the application of this Act be extended thereto, the Yang di-Pertuan Agong may by order published in the Gazette extend the application of this Act to such State.
 
-2. In this Act, unless the context otherwise requires— Interpreta- tion. "Commission" means the Public Services Commission established under Article 139 of the Federal Constitution;
+2. In this Act, unless the context otherwise requires—
+
+<!-- marginal: Interpreta- -->
+
+<!-- marginal: tion. -->
+
+"Commission" means the Public Services Commission established under Article 139 of the Federal Constitution;
 
 "joint service" means the Joint Service for Islamic Affairs Officers established under section 3;
 
@@ -66,9 +72,17 @@ a date to be appointed by the Yang di-Pertuan Agong by notification in the Gazet
 
 "State" includes the Federal Territories of Kuala Lumpur and Labuan.
 
-Establishment
+<!-- marginal: Establishment -->
 
-3. (1) There shall be established a joint service for Islamic of a joint Affairs Officers common to the Federation and the States service. to be known as the Joint Service for Islamic Affairs Officers.
+3. (1) There shall be established a joint service for Islamic
+
+<!-- marginal: of a joint -->
+
+Affairs Officers common to the Federation and the States
+
+<!-- marginal: service. -->
+
+to be known as the Joint Service for Islamic Affairs Officers.
 
 (2) The joint service shall comprise—
 
@@ -132,7 +146,7 @@ Act comes into force, accept into the joint service every person who immediately
 
 (2) Every person who opts under subsection (1) shall be employed in the joint service on terms and conditions of service not less favourable than the terms and conditions of service to which he was entitled immediately before the date mentioned in that subsection.
 
-Regulations.
+<!-- marginal: Regulations. -->
 
 8. The Yang di-Pertuan Agong may make such regulations as may be expedient or necessary for the better carrying out of the provisions of this Act.
 

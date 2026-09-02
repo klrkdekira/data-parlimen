@@ -40,15 +40,35 @@ an auxiliary police officer appointed under the Police Act 1967;'; and
 
 (d) by inserting after the definition of "public body" the following definition: ' "public service vehicle" shall have the same meaning as assigned to that expression in the Commercial Vehicles Licensing Board Act 1987;'.
 
-New section
+<!-- marginal: New section -->
 
 3. The principal Act is amended by inserting after
 
-### 3 A.
+<!-- marginal: 3 A. -->
 
-section 3 the following section: Authori-
+section 3 the following section:
 
-3A. (1) The Minister may, by order published sation to in the Gazette, upon application being made Mayor and officers, of by the Mayor of a City Council, authorise the City Mayor and the officers or persons in the Council. service of the City Council to exercise the powers conferred and to perform the duties imposed by this Act on the Dato Bandar or traffic warden, as the case may be.
+<!-- marginal: Authori- -->
+
+3A. (1) The Minister may, by order published
+
+<!-- marginal: sation to -->
+
+in the Gazette, upon application being made
+
+<!-- marginal: Mayor and -->
+
+<!-- marginal: officers, of -->
+
+by the Mayor of a City Council, authorise the
+
+<!-- marginal: City -->
+
+Mayor and the officers or persons in the
+
+<!-- marginal: Council. -->
+
+service of the City Council to exercise the powers conferred and to perform the duties imposed by this Act on the Dato Bandar or traffic warden, as the case may be.
 
 (2) An order made under subsection (1) may limit the powers to be conferred on and the duties to be performed by the Mayor and the officers or persons in the service of the City Council.
 
@@ -62,17 +82,27 @@ section 3 the following section: Authori-
 
 (c) references to the "City of Kuala Lumpur" and "Federal Territory of Kuala Lumpur" were references to that City Council or that City respectively.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. Paragraph 5(1)(a) of the principal Act is amended of section 5. by substituting for the words ", and not merely adapted," the words "or adapted".
+4. Paragraph 5(1)(a) of the principal Act is amended
 
-Amendment
+<!-- marginal: of section 5. -->
 
-5. Subsection 10(1) of the principal Act is amended by of section 10. substituting for the words "the registration area" the words "a registration area" and by deleting the words "in which such motor vehicle is or will ordinarily be kept or, in the case of a motor vehicle not ordinarily kept in any one area, to the Director of the area in which the principal place of business (if any) of the owner of the motor vehicle is situated,".
+by substituting for the words ", and not merely adapted," the words "or adapted".
 
-Amendment
+<!-- marginal: Amendment -->
 
-6. Section 12 of the principal Act is amended— of section 12.
+5. Subsection 10(1) of the principal Act is amended by
+
+<!-- marginal: of section 10. -->
+
+substituting for the words "the registration area" the words "a registration area" and by deleting the words "in which such motor vehicle is or will ordinarily be kept or, in the case of a motor vehicle not ordinarily kept in any one area, to the Director of the area in which the principal place of business (if any) of the owner of the motor vehicle is situated,".
+
+<!-- marginal: Amendment -->
+
+6. Section 12 of the principal Act is amended—
+
+<!-- marginal: of section 12. -->
 
 (a) in subsection (2) by substituting for the words "inform the Director" the words "inform the Director of a registration area"; and
 
@@ -80,9 +110,11 @@ Amendment
 
 "(2A) The registered owner shall, in the case of a change of chassis of a motor vehicle, obtain the prior approval of the Director General before such change.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-7. Section 13 of the principal Act is amended— of section 13.
+7. Section 13 of the principal Act is amended—
+
+<!-- marginal: of section 13. -->
 
 (a) in paragraph (1)(a) by substituting for the words "in whose registration area such motor vehicle is registered" the words "of a registration area"; and
 
@@ -90,13 +122,19 @@ Amendment
 
 <!-- page 4 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-8. Subsection 14(4) of the principal Act is amended of section 14. by substituting for the word "two" the word "three".
+8. Subsection 14(4) of the principal Act is amended
 
-Amendment
+<!-- marginal: of section 14. -->
 
-9. Section 17 of the principal Act is amended— of section 17.
+by substituting for the word "two" the word "three".
+
+<!-- marginal: Amendment -->
+
+9. Section 17 of the principal Act is amended—
+
+<!-- marginal: of section 17. -->
 
 (a) in subsection (1)—
 
@@ -108,17 +146,29 @@ Amendment
 
 "(1A) For the purposes of paragraph (e) of subsection (1), a valid inspection certificate issued in respect of a motor vehicle required under this Act to undergo periodic inspection shall be taken as prima facie proof that the vehicle is in sound mechanical condition and is roadworthy.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-10. Subsection 19(1) of the principal Act is amended of section 19. by substituting for the words "with whom the vehicle is at the time registered" the words "of a registration area".
+10. Subsection 19(1) of the principal Act is amended
 
-Amendment
+<!-- marginal: of section 19. -->
 
-11. Subsection 20(1) of the principal Act is amended of section 20. by inserting after the words "granted under section 16" the words ", other than a motor vehicle licence granted in respect of a motor cycle or an invalid carriage,".
+by substituting for the words "with whom the vehicle is at the time registered" the words "of a registration area".
 
-Amendment
+<!-- marginal: Amendment -->
 
-12. Subsection 22(7) of the principal Act is amended of section 22. by substituting for the words "by whom the licence was granted" the words "of a registration area".
+11. Subsection 20(1) of the principal Act is amended
+
+<!-- marginal: of section 20. -->
+
+by inserting after the words "granted under section 16" the words ", other than a motor vehicle licence granted in respect of a motor cycle or an invalid carriage,".
+
+<!-- marginal: Amendment -->
+
+12. Subsection 22(7) of the principal Act is amended
+
+<!-- marginal: of section 22. -->
+
+by substituting for the words "by whom the licence was granted" the words "of a registration area".
 
 <!-- page 5 -->
 
@@ -126,13 +176,43 @@ Amendment
 
 5
 
-Amendment
+<!-- marginal: Amendment -->
 
-13. Subsection 27(1) of the principal Act is amended of section 27. by substituting for the words "of the registration area in which the applicant for the driving licence resides" the words "of a registration area".
+13. Subsection 27(1) of the principal Act is amended
 
-Amendment
+<!-- marginal: of section 27. -->
 
-14. The principal Act is amended by substituting for of section 36. section 36 the following section: „ Power to 36, (1) Notwithstanding anything contained suspend in this Act or any other written law, the driving licence of Director General may suspend the driving drug licence of a person for a period of not less than dependant. two years if he has reason to believe that such person is a drug dependant.
+by substituting for the words "of the registration area in which the applicant for the driving licence resides" the words "of a registration area".
+
+<!-- marginal: Amendment -->
+
+14. The principal Act is amended by substituting for
+
+<!-- marginal: of section 36. -->
+
+section 36 the following section: „
+
+<!-- marginal: Power to -->
+
+36, (1) Notwithstanding anything contained
+
+<!-- marginal: suspend -->
+
+in this Act or any other written law, the
+
+<!-- marginal: driving -->
+
+<!-- marginal: licence of -->
+
+Director General may suspend the driving
+
+<!-- marginal: drug -->
+
+licence of a person for a period of not less than
+
+<!-- marginal: dependant. -->
+
+two years if he has reason to believe that such person is a drug dependant.
 
 (2) Where the Director General has reason to believe that a person whose licence has at any time been suspended under subsection (1) continues or has not ceased to be a drug dependant at any time after the period of suspension, the Director General shall disqualify such person from holding or obtaining a driving licence,
 
@@ -148,25 +228,79 @@ Amendment
 
 (6) If a person satisfies the Director General that he is no longer a drug dependant, the Director General shall remove the suspension or disqualification, as the case may be, and return to such person any driving licence detained under this section.
 
-(7) In this section, "drug dependant" and "Rehabilitation Officer" shall have the same meaning as in the Drug Dependants (Treatment Act 283 and Rehabilitation) Act 1983.".
+(7) In this section, "drug dependant" and "Rehabilitation Officer" shall have the same meaning as in the Drug Dependants (Treatment
 
-Amendment
+<!-- marginal: Act 283 -->
 
-15. Section 37 of the principal Act is amended by of section 37. deleting the words "or 36" wherever appearing therein.
+and Rehabilitation) Act 1983.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-16. Section 38 of the principal Act is amended— of section 38
+15. Section 37 of the principal Act is amended by
+
+<!-- marginal: of section 37. -->
+
+deleting the words "or 36" wherever appearing therein.
+
+<!-- marginal: Amendment -->
+
+16. Section 38 of the principal Act is amended—
+
+<!-- marginal: of section 38 -->
 
 (a) by deleting the words "or 36" wherever appearing therein; and
 
 (b) in subsection (3) by deleting the words "or upon the rescission of suspension under section 36".
 
-New sections
+<!-- marginal: New sections -->
 
-17. The principal Act is amended by inserting after 45A-45B section 45 the following sections:
+17. The principal Act is amended by inserting after
 
-Driving or 45A. (1) Any person who, when driving or being in attempting to drive a motor vehicle or when in charge of a motor charge of a motor vehicle on a road or other vehicle public place, has so much alcohol in his body with that the proportion of it in his breath, blood or alcohol concent- urine exceeds the prescribed limit, shall be ration guilty of an offence and shall on conviction be above prescribed liable to a fine not exceeding two thousand limit. ringgit or to imprisonment for a term not exceeding six months or to both and in the case of a second or subsequent offence, to a fine not exceeding four thousand ringgit or to imprisonment for a term not exceeding one year or to both.
+<!-- marginal: 45A-45B -->
+
+section 45 the following sections:
+
+<!-- marginal: Driving or -->
+
+45A. (1) Any person who, when driving or
+
+<!-- marginal: being in -->
+
+attempting to drive a motor vehicle or when in
+
+<!-- marginal: charge of -->
+
+<!-- marginal: a motor -->
+
+charge of a motor vehicle on a road or other
+
+<!-- marginal: vehicle -->
+
+public place, has so much alcohol in his body
+
+<!-- marginal: with -->
+
+that the proportion of it in his breath, blood or
+
+<!-- marginal: alcohol -->
+
+<!-- marginal: concent- -->
+
+urine exceeds the prescribed limit, shall be
+
+<!-- marginal: ration -->
+
+guilty of an offence and shall on conviction be
+
+<!-- marginal: above -->
+
+<!-- marginal: prescribed -->
+
+liable to a fine not exceeding two thousand
+
+<!-- marginal: limit. -->
+
+ringgit or to imprisonment for a term not exceeding six months or to both and in the case of a second or subsequent offence, to a fine not exceeding four thousand ringgit or to imprisonment for a term not exceeding one year or to both.
 
 (2) It is a defence for a person charged with an offence under subsection (1) to prove that
 
@@ -176,7 +310,13 @@ at the material time the circumstances were such that there was no likelihood of
 
 (3) On a second or subsequent conviction of an offence under this section, the offender shall, unless the court for special reasons thinks fit to order otherwise and without prejudice to the power of the court to order a longer period of disqualification, be disqualified for a period of not less than twelve months from the date of conviction from holding or obtaining a driving licence.
 
-Breath 45B, ( I) Where a police officer in uniform lest. has reasonable cause to suspect—
+<!-- marginal: Breath -->
+
+45B, ( I) Where a police officer in uniform
+
+<!-- marginal: lest. -->
+
+has reasonable cause to suspect—
 
 (a) that a person has committed an offence under section 44 or 45 involving intoxicating liquor or under section 45A; or
 
@@ -204,7 +344,23 @@ he may, subject to section 45B, require that person to provide a specimen of bre
 
 but a person shall not be arrested by virtue of this subsection when he is at a hospital as a patient.
 
-Provision 45c. (1) In the course of an investigation of whether a person has committed an offence specimen for under section 44 or 45 involving intoxicating analysis. liquor or under section 45A a police officer may, subject to the provisions of this section and to section 45D, require him—
+<!-- marginal: Provision -->
+
+45c. (1) In the course of an investigation
+
+<!-- marginal: of -->
+
+whether a person has committed an offence
+
+<!-- marginal: specimen -->
+
+<!-- marginal: for -->
+
+under section 44 or 45 involving intoxicating
+
+<!-- marginal: analysis. -->
+
+liquor or under section 45A a police officer may, subject to the provisions of this section and to section 45D, require him—
 
 (a) to provide two specimens of breath for analysis by means of a prescribed breathanalyser; or
 
@@ -216,7 +372,7 @@ notwithstanding that he has been required to provide a specimen of breath for a 
 
 ## ROAD TRANSPORT (AMENDMENT)
 
-9
+<!-- marginal: 9 -->
 
 (2) A requirement under this section to provide a specimen of breath can only be made at a police station.
 
@@ -238,19 +394,71 @@ and may be made notwithstanding that the person required to provide the specimen
 
 ## B I LL
 
-Protection
+<!-- marginal: Protection -->
 
-45D. (1) A person who is at a hospital as a of hospital patient shall not be required to provide a patient. specimen for a breath test or to provide a specimen for a laboratory test unless the medical practitioner in immediate charge of his case authorises it and the specimen is to be provided at the hospital.
+45D. (1) A person who is at a hospital as a
+
+<!-- marginal: of hospital -->
+
+patient shall not be required to provide a
+
+<!-- marginal: patient. -->
+
+specimen for a breath test or to provide a specimen for a laboratory test unless the medical practitioner in immediate charge of his case authorises it and the specimen is to be provided at the hospital.
 
 (2) The medical practitioner referred to in subsection (1) shall not authorise a specimen to be taken where it would be prejudicial to the proper care and treatment of the patient.
 
-Detention.
+<!-- marginal: Detention. -->
 
 45E. (1) A person required to provide a specimen of breath, blood or urine may thereafter be detained at a police station until it appears to a police officer that were that person then driving or attempting to drive a motor vehicle on a road, he would not be committing an offence under section 44 or 45 involving intoxicating liquor or under section 45A, but such period of detention shall not exceed twenty-four hours.
 
 (2) A person shall not be detained in pursuance of this section if it appears to a police officer that by reason of his condition there is no likelihood of his driving or attempting to drive a motor vehicle.
 
-45F. (1) In proceedings for an offence under Evidence in pro- section 44 or 45 involving intoxicating liquor ceedings or in proceedings for an offence under section for an offence 45A, evidence of the proportion of alcohol in under a specimen of breath, blood or urine provided sections 44 and 45 by the accused shall be taken into account and involving it shall be assumed that the proportion of intoxi- cating alcohol in the accused's breath, blood or urine liquor and at the time of the alleged offence was not less than in the specimen; but the assumption shall
+45F. (1) In proceedings for an offence under
+
+<!-- marginal: Evidence -->
+
+<!-- marginal: in pro- -->
+
+section 44 or 45 involving intoxicating liquor
+
+<!-- marginal: ceedings -->
+
+or in proceedings for an offence under section
+
+<!-- marginal: for an -->
+
+<!-- marginal: offence -->
+
+45A, evidence of the proportion of alcohol in
+
+<!-- marginal: under -->
+
+a specimen of breath, blood or urine provided
+
+<!-- marginal: sections -->
+
+<!-- marginal: 44 and 45 -->
+
+by the accused shall be taken into account and
+
+<!-- marginal: involving -->
+
+it shall be assumed that the proportion of
+
+<!-- marginal: intoxi- -->
+
+<!-- marginal: cating -->
+
+alcohol in the accused's breath, blood or urine
+
+<!-- marginal: liquor and -->
+
+at the time of the alleged offence was not less
+
+<!-- marginal: section -->
+
+than in the specimen; but the assumption shall
 
 45A. not be made if the accused proves—
 
@@ -288,9 +496,19 @@ in charge of a motor vehicle on a road or other public place and before he provi
 
 <!-- page 13 -->
 
-Interpre-
+<!-- marginal: Interpre- -->
 
-45G. (1) For the purposes of sections 45B to tation of 45F— sections 45B to 45F. "breath test" means a preliminary test for the purpose of obtaining, by means of a prescribed breathanalyser, an indication whether the proportion of alcohol in a person's breath, blood or urine is likely to exceed the prescribed limit;
+45G. (1) For the purposes of sections 45B to
+
+<!-- marginal: tation of -->
+
+45F—
+
+<!-- marginal: sections -->
+
+<!-- marginal: 45B to 45F. -->
+
+"breath test" means a preliminary test for the purpose of obtaining, by means of a prescribed breathanalyser, an indication whether the proportion of alcohol in a person's breath, blood or urine is likely to exceed the prescribed limit;
 
 "fail" includes refuse;
 
@@ -308,41 +526,63 @@ Interpre-
 
 (3) A person provides a specimen of blood if and only if he consents to its being taken by a government medical practitioner and it is so taken.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-18. Section 48 of the principal Act is amended by of section 48. substituting for the words "If any person in charge of" the words "If any driver of".
+18. Section 48 of the principal Act is amended by
+
+<!-- marginal: of section 48. -->
+
+substituting for the words "If any person in charge of" the words "If any driver of".
 
 <!-- page 14 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-19. Subsection 50(3) of the principal Act is amended— of section 50.
+19. Subsection 50(3) of the principal Act is amended—
+
+<!-- marginal: of section 50. -->
 
 (a) by substituting for the words "remains at any parking place" the words ", otherwise than with lawful authority, remains on any road or at any parking place"; and
 
 (b) by substituting for the words "within such place" the words "on such road or at such place".
 
-Amendment
+<!-- marginal: Amendment -->
 
-20. Subsection 53 (1) of the principal Act is amended of section 53. by inserting after the words "Where a police officer" the words ", a traffic warden".
+20. Subsection 53 (1) of the principal Act is amended
 
-Amendment
+<!-- marginal: of section 53. -->
 
-21. Subsection 58(2) of the principal Act is amended of section 58. by deleting the words "having reason to believe that he has committed any offence under this Act".
+by inserting after the words "Where a police officer" the words ", a traffic warden".
 
-Amendment
+<!-- marginal: Amendment -->
 
-22. Subsection 65(4) of the principal Act is amended of section 65. in the national language text only by inserting after the words "kepada Dato Bandar jika" the words "yang menyebabkan kenderaan motor itu dialih adalah".
+21. Subsection 58(2) of the principal Act is amended
 
-Amendment
+<!-- marginal: of section 58. -->
 
-23. Subsection 66(1) of the principal Act is amended— of section 66.
+by deleting the words "having reason to believe that he has committed any offence under this Act".
+
+<!-- marginal: Amendment -->
+
+22. Subsection 65(4) of the principal Act is amended
+
+<!-- marginal: of section 65. -->
+
+in the national language text only by inserting after the words "kepada Dato Bandar jika" the words "yang menyebabkan kenderaan motor itu dialih adalah".
+
+<!-- marginal: Amendment -->
+
+23. Subsection 66(1) of the principal Act is amended—
+
+<!-- marginal: of section 66. -->
 
 (a) by substituting for paragraph (f) the following paragraph: "(F) to regulate the towing or drawing of motor vehicles by tow-trucks or other motor vehicles and the manner of attachment and to regulate and control tow-truck operations;";
 
 (b) by inserting after the words "the use of any appliances" in paragraph (i) the word ", accessories";
 
-(c) by substituting for paragraph (mm)
+(c) by substituting for paragraph
+
+<!-- marginal: (mm) -->
 
 <!-- marginal: the -->
 
@@ -356,7 +596,7 @@ breathanalysers and the procedures relating to the blood and urine tests
 
 ## ROAD TRANSPORT (AMENDMENT)
 
-<!-- marginal: 15 -->
+15
 
 of drivers of motor vehicles and the types of breathanalysers to be used;";
 
@@ -390,15 +630,23 @@ inserting after subsection (1) the following subsection:
 
 <!-- page 16 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-26. The principal Act is amended by substituting for of section 71. section 71 the following section:
+26. The principal Act is amended by substituting for
+
+<!-- marginal: of section 71. -->
+
+section 71 the following section:
 
 "Power to 71. (1) Without prejudice to section 70, any restrict appropriate authority approved by the Minister vehicles. may, by order published in the Gazette, prohibit or restrict the driving or use of any class or description of vehicles or vehicles with such number of passengers as may be specified along any road or along roads within the area of the authority.
 
 (2) The prohibition or restriction under subsection (1) may be subject to the payment of fees and in such a case the order shall specify the fees payable and the manner of collection therefor.".
 
-Amendment 27. Section 72 of the principal Act is amended— of section 72.
+<!-- marginal: Amendment -->
+
+27. Section 72 of the principal Act is amended—
+
+<!-- marginal: of section 72. -->
 
 (a) in paragraph (1)(b) by inserting after the words "parking place" the words "or stands for public service vehicles or goods vehicles";
 
@@ -408,7 +656,9 @@ Amendment 27. Section 72 of the principal Act is amended— of section 72.
 
 (d) in subsection (7) by substituting for the word "one" the word "three".
 
-New section 28. The principal Act is amended by inserting after
+<!-- marginal: New section -->
+
+28. The principal Act is amended by inserting after
 
 85A. section 85 the following section: " Construc- 85A. (1) The Minister charged with the tion of responsibility for works (in this section structures for adver- hereinafter referred to as "Minister") in tisement, relation to any road reserve bordering on a etc. Federal road or the appropriate authority in
 
@@ -446,15 +696,23 @@ insurance or a certificate of security" the words 'and the expression "mark" inc
 
 <!-- page 18 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-31. Paragraph 1 1 2( 1 ) ( a) of the principal Act is of section amended by inserting after the figure "45" the figure
+31. Paragraph 1 1 2( 1 ) ( a) of the principal Act
+
+<!-- marginal: is -->
+
+<!-- marginal: of section -->
+
+amended by inserting after the figure "45" the figure
 
 112. ", 45A".
 
-Amendment
+<!-- marginal: Amendment -->
 
-32. Section 117 of the principal Act is amended— of section
+32. Section 117 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 117.
 
@@ -468,15 +726,25 @@ Amendment
 
 (iv) by inserting after paragraph (d) the following paragraph;
 
-"(e) any officer of a port authority authorised in writing in that behalf by the General Manager of the port authority,"; and
+"(e) any officer of
+
+<!-- marginal: a -->
+
+<!-- marginal: port -->
+
+authority authorised in writing in that behalf by the General Manager of the port authority,"; and
 
 (v) by inserting, in the national language text only, after the word "didapati" in paragraph (aa) the word "tepat"; and
 
 (b) in subsection (10) by substituting for the words "and certifying that any radar equipment or similar device" the words "or a mechanical engineer and certifying that any equipment".
 
-Amendment
+<!-- marginal: Amendment -->
 
-33. Section 118 of the principal Act is amended by of section substituting for subsection (4) the following subsection:
+33. Section 118 of the principal Act is amended by
+
+<!-- marginal: of section -->
+
+substituting for subsection (4) the following subsection:
 
 118.
 

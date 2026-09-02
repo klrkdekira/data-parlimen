@@ -6,7 +6,21 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-1. Short title and commencement 2. Interpretation 3. Grant of remembrance allowance 4. Cessation of grant of remembrance allowance 5. Grant to next-of-kin of recipient where Decoration is conferred posthumously 6. Prime Minister to apportion amount to be paid 7. Remembrance allowance and sum to be charged to the Federal Consolidated Fund 8. Remembrance allowance and sum not assignable, etc.
+1. Short title and commencement
+
+2. Interpretation
+
+3. Grant of remembrance allowance
+
+4. Cessation of grant of remembrance allowance
+
+5. Grant to next-of-kin of recipient where Decoration is conferred posthumously
+
+6. Prime Minister to apportion amount to be paid
+
+7. Remembrance allowance and sum to be charged to the Federal Consolidated Fund
+
+8. Remembrance allowance and sum not assignable, etc.
 
 <!-- page 3 -->
 

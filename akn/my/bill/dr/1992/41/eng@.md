@@ -106,9 +106,11 @@ as such member if at the conclusion of the preliminary investigation or the disc
 
 (h) by substituting for the word "midwifery" in subsection (9) the words "obstetrics and gynaecology".
 
-### Amendment
+<!-- marginal: Amendment -->
 
-5. Section 19. of the principal Act is amended— of section 19.
+5. Section 19. of the principal Act is amended—
+
+<!-- marginal: of section 19. -->
 
 (a) by substituting for the comma appearing at the end of paragraph (b) of subsection (1) the word "; or"; and
 
@@ -116,9 +118,11 @@ as such member if at the conclusion of the preliminary investigation or the disc
 
 "(c) after due inquiry by a medical review panel, which shall consist of not less than three medical practitioners appointed by the Council, been found to be unfit to perform his professional duties by reason of his mental or physical condition,".
 
-Amendment
+<!-- marginal: Amendment -->
 
-6. Section 24 of the principal Act is amended— of section 24
+6. Section 24 of the principal Act is amended—
+
+<!-- marginal: of section 24 -->
 
 (a) by deleting the words "of person becoming a mental patient" appearing in the marginal note thereof;
 
@@ -140,37 +144,83 @@ he shall thereupon cease to be so registered, and an endorsement shall according
 
 <!-- marginal: New section -->
 
-7. The principal Act is amended by
-
-<!-- marginal: inserting -->
+7. The principal Act is amended by inserting
 
 <!-- marginal: 34c. -->
 
-immediately after section 34B the following new section 34c:
+immediately after section 34B the following new section
 
-"Medical 34c. (1) The Director General may authorise practitioner in writing any medical practitioner who is fully authorised by Director registered under section 14 and not being a General to medical practitioner in the public service to be deemed undertake any of the following functions, that a Govern- ment is— Medical Officer. (a) investigation, examination, treatment or management of any patient; or
+<!-- marginal: 34c: -->
+
+<!-- marginal: "Medical -->
+
+34c. (1) The Director General may authorise
+
+<!-- marginal: practitioner -->
+
+in writing any medical practitioner who is fully
+
+<!-- marginal: authorised -->
+
+<!-- marginal: by Director -->
+
+registered under section 14 and not being a
+
+<!-- marginal: General to -->
+
+medical practitioner in the public service to
+
+<!-- marginal: be deemed -->
+
+undertake any of the following functions, that
+
+<!-- marginal: a Govern- -->
+
+<!-- marginal: ment -->
+
+is—
+
+<!-- marginal: Medical -->
+
+<!-- marginal: Officer. -->
+
+(a) investigation, examination, treatment or management of any patient; or
 
 (b) perform an autopsy or post-mortem investigation of any deceased person,
 
 in any hospital, clinic or health centre or in any other similar institution.
 
-(2) A medical practitioner who is so authorised under subsection (1) to perform any of the functions referred to in paragraphs (a) and (b) thereof shall be deemed to be a Government Medical Officer for the purposes P.M.S. of the Criminal Procedure Code and any other Cap. 6 relevant laws in Malaysia.".
+(2) A medical practitioner who is so authorised under subsection (1) to perform any of the functions referred to in paragraphs (a) and (b) thereof shall be deemed to be a Government Medical Officer for the purposes
+
+<!-- marginal: P.M.S. -->
+
+of the Criminal Procedure Code and any other
+
+<!-- marginal: Cap. 6 -->
+
+relevant laws in Malaysia.".
 
 <!-- page 6 -->
 
 ## BILL
 
-Amendment
+<!-- marginal: Amendment -->
 
-8. Subsection (1) of section 35 of the principal Act is of section 35. amended—
+8. Subsection (1) of section 35 of the principal Act is
+
+<!-- marginal: of section 35. -->
+
+amended—
 
 (a) by substituting for the word "one" appearing in paragraph (a) the word "two"; and
 
 (b) by substituting for the word "two" and the words "six months" appearing in paragraph (b) the word "five" and the words "two years" respectively.
 
-Amendment
+<!-- marginal: Amendment -->
 
-9. Section 37 of the principal Act is amended— of section 37.
+9. Section 37 of the principal Act is amended—
+
+<!-- marginal: of section 37. -->
 
 (a) in the national language text only, by substituting for the words "apa-apa syarat sebagaimana yang diarahkan oleh Majlis" in subsection (1) the words "apa-apa terma dan syarat sebagaimana yang diarahkan oleh Majlis"; and
 
@@ -180,7 +230,7 @@ Amendment
 
 (ii) by deleting paragraph (b).
 
-Savings
+<!-- marginal: Savings -->
 
 10. (1) Notwithstanding the amendments in paragraph
 
@@ -190,11 +240,13 @@ Savings
 
 (3), (7) and (8) of section 13 of the principal Act shall continue to apply to a person who, immediately before the coming into force of this Act—
 
-(a) holds a qualification referred to in subparagraph
+(a) holds a qualification referred to in subparagraph (ii) of paragraph (a) of subsection (1) of the said section 12 and has made an application to sit or resit for the examination prescribed under paragraph (aa) of subsection (1) of that section; or
 
-(ii) of paragraph (a) of subsection (1) of the said section 12 and has made an application to sit or resit for the examination prescribed under paragraph (aa) of subsection (1) of that section; or
+(b) is undergoing a period of service in a medical capacity under subsection (3) of
 
-(b) is undergoing a period of service in a medical capacity under subsection (3) of the said section 13,
+<!-- marginal: the said -->
+
+section 13,
 
 as if the amendments made to the said provisions in sections 12 and 13 had not been made.
 
@@ -212,7 +264,7 @@ as if the amendments made to the said provisions in sections 12 and 13 had not b
 
 ## Part VII.
 
-## Part VII the following Part VII:
+Part VII the following Part VII:
 
 ## PART VII
 
@@ -248,11 +300,67 @@ fully registration under this Act shall be liable registered person to immediate
 
 (5) The decision of the Minister upon an application made to him under subsection (4) for the restoration of a name upon the Register shall be final and shall not be questioned or reviewed in any court whatsoever.
 
-(6) Where a notice under subsection (1) has been served on any person liable to be served therewith, the Director General may at any time cancel the notice and, if he thinks fit, cause to be served on him a further notice under subsection (1). Period of 41. A person who commences to serve in a service in post in a public service in pursuance of a notice pursuance of a notice issued under subsection (1) of section 40, shall under continue to serve in the said post or in such other subsequent post or posts in the same or 40 (1) such other public service as may from time to time be determined by the Director General in his discretion for a continuous total period of not less than three years to the satisfaction of the Director General and if he fails to do so he shall be guilty of an offence under this Act. Power of 42. (1) The Minister may, by order published Minister lo in the Gazette— grant reduction,
+(6) Where a notice under subsection (1) has been served on any person liable to be served therewith, the Director General may at any time cancel the notice and, if he thinks fit, cause to be served on him a further notice under subsection (1).
 
-(a) in respect of any particular person; exemption or post-
+<!-- marginal: Period of -->
 
-(b) generally in respect of any class of ponement from period persons during such period as he may of service specify; under section 41.
+41. A person who commences to serve in a
+
+<!-- marginal: service in -->
+
+post in a public service in pursuance of a notice
+
+<!-- marginal: pursuance -->
+
+<!-- marginal: of a notice -->
+
+issued under subsection (1) of section 40, shall
+
+<!-- marginal: under -->
+
+continue to serve in the said post or in such
+
+<!-- marginal: section -->
+
+other subsequent post or posts in the same or
+
+<!-- marginal: 40 (1) -->
+
+such other public service as may from time to time be determined by the Director General in his discretion for a continuous total period of not less than three years to the satisfaction of the Director General and if he fails to do so he shall be guilty of an offence under this Act.
+
+<!-- marginal: Power of -->
+
+42. (1) The Minister may, by order published
+
+<!-- marginal: Minister lo -->
+
+in the Gazette—
+
+<!-- marginal: grant -->
+
+<!-- marginal: reduction, -->
+
+(a) in respect of any particular person;
+
+<!-- marginal: exemption -->
+
+<!-- marginal: or post- -->
+
+(b) generally in respect of any class of
+
+<!-- marginal: ponement -->
+
+<!-- marginal: from period -->
+
+persons during such period as he may
+
+<!-- marginal: of service -->
+
+specify;
+
+<!-- marginal: under -->
+
+<!-- marginal: section 41. -->
 
 (c) generally in respect of all persons during such period as he may specify.
 
@@ -262,21 +370,27 @@ grant such reduction as he may consider appropriate or complete exemption from t
 
 (3) The decision of the Minister upon an application made to him under subsection (2) shall be final and shall not be questioned or reviewed in any court whatsoever.
 
-Minister
+Minister 43. The Minister may make rules for carrying may make into effect the object and purposes of this Part. rules.
 
-43. The Minister may make rules for carrying may make into effect the object and purposes of this Part. rules.
-
-Saving.
-
-44. (1) Anything done under the provisions of section 40, 41, 42 or 43 of the Emergency (Essential Powers) Ordinance No. 65, 1971 shall be deemed to have been done under the provisions of section 40, 41, 42 or 43, respectively, of this Act and shall, accordingly continue to operate and have effect under such respective sections of this Act.
+Saving. 44. (1) Anything done under the provisions of section 40, 41, 42 or 43 of the Emergency (Essential Powers) Ordinance No. 65, 1971 shall be deemed to have been done under the provisions of section 40, 41, 42 or 43, respectively, of this Act and shall, accordingly continue to operate and have effect under such respective sections of this Act.
 
 (2) The provisions of subsections (4) and (5) of section 37 shall apply to this Part and in such application they shall be construed as being in amplification of subsection (1) of this
 
 (3) Nothing in subsection (1) shall have the effect of rendering any person liable to any penalty in respect of any omission to comply with, or in respect of any act done contrary to the provisions of, subsection (2) of section 40 and section 41.".
 
-Validalion of
+<!-- marginal: Validalion of -->
 
-12. (1) Sections 39, 40, 41, 42, 43 and 44 of the certain principal Act shall be deemed to all intents and purposes provisions, etc. to have been in force during the period commencing with effect from the 1st October 1986 until the date of the publication in the Gazette of this Act (hereinafter referred to as "the transitional period").
+12. (1) Sections 39, 40, 41, 42, 43 and 44 of the
+
+<!-- marginal: certain -->
+
+principal Act shall be deemed to all intents and purposes
+
+<!-- marginal: provisions, -->
+
+<!-- marginal: etc. -->
+
+to have been in force during the period commencing with effect from the 1st October 1986 until the date of the publication in the Gazette of this Act (hereinafter referred to as "the transitional period").
 
 (2) Every act or thing done or notice issued by the Director General during the transitional period that would have been valid if the provisions of the existing section 40 had been in force at the time when it was done or issued, is hereby validated and declared to have been validly done or issued, by the Director General.
 
@@ -312,13 +426,15 @@ This Bill seeks to amend the Medical Act 1971 (hereinafter referred to as "the A
 
 7. Clause 8 seeks to amend subsection (1) of section 35 of the Act lo increase the general penalty provided in that subsection.
 
-8. Clause 10 seeks to provide that notwithstanding their amendments, certain provisions of sections 12 and 13 of the principal Act shall continue to have effect in relation to the persons specified in the said clause as if those amendments had not been made.
+8. Clause 10 seeks to provide that notwithstanding
+
+<!-- marginal: their -->
+
+amendments, certain provisions of sections 12 and 13 of the principal Act shall continue to have effect in relation to the persons specified in the said clause as if those amendments had not been made.
 
 9. Clause 11 seeks to repeal the existing Part VII of the Act and substitute a new Part VII for national purposes. The new Part VII instead upon its commencement will continue to be in force until Parliament, by resolution, provides otherwise.
 
-10. Clause 12 seeks to provide that the existing Part VII of the Act shall be deemed to have continued to be in force since 1st October 1986, since Part V II had ceased to be in force on 30th September
-
-1986. In consequence, clause 12 seeks to validate any act or thing done or any notice issued by the Director General pursuant to the existing Part VII. However, penalties for offences are excluded from the retrospective operation.
+10. Clause 12 seeks to provide that the existing Part VII of the Act shall be deemed to have continued to be in force since 1st October 1986, since Part V II had ceased to be in force on 30th September 1986. In consequence, clause 12 seeks to validate any act or thing done or any notice issued by the Director General pursuant to the existing Part VII. However, penalties for offences are excluded from the retrospective operation.
 
 11. Other amendments which are not specifically mentioned are of a consequential or minor in nature.
 

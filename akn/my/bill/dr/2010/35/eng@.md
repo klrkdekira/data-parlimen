@@ -258,7 +258,9 @@ Provided that the registration number shall be re-assigned to a motor vehicle wh
 
 (4) Where any motor vehicle is removed under subsection (2) or (3), the relevant officer shall within twenty-four hours, give notice in writing to the owner of the vehicle informing him of the removal and requiring him or any person who may have a claim over it, within a period of one month from the date of the notice, to appear and claim the vehicle.
 
-(5) Upon receipt of a claim under subsection (3) or (4), the motor vehicle may be released upon payment of a fee for the clamping, removal and detention as may be prescribed by the Minister under this act.
+(5) Upon receipt of a claim under subsection (3) or
+
+(4), the motor vehicle may be released upon payment of a fee for the clamping, removal and detention as may be prescribed by the Minister under this act.
 
 (6) if within twelve months from the date of removal the motor vehicle is not claimed, the motor vehicle shall be forfeited and the ownership of the motor vehicle shall be vested in the Director General.
 
@@ -444,7 +446,7 @@ such licence; or
 
 31. The principal act is amended by inserting after section 66g the following Part:
 
-“Part iib
+## “PART IIB
 
 FOREiGN MOTOR VEHiClES
 
@@ -522,7 +524,9 @@ FOREiGN MOTOR VEHiClES
 
 (d) by substituting for subsection (3) the following subsection:
 
-“(3) The following persons shall erect and maintain in such positions in any place as shall give adequate notice of the speed limit prescribed under subsections (1) and (1a) and the prohibition under subsection (2), such traffic signs as shall be prescribed, indicating the nature of the prohibition:
+“(3) The following persons shall erect and maintain in such positions in any place as shall give adequate notice of the speed limit prescribed under subsections
+
+(1) and (1a) and the prohibition under subsection (2), such traffic signs as shall be prescribed, indicating the nature of the prohibition:
 
 (a) in relation to a Federal road which is also a highway, the Director General of Highway authority or any person with proper authority from the Director General of Highway authority, who is a person authorized under the Federal Roads (Private Management) act 1984 [Act 306];
 
@@ -678,7 +682,9 @@ Provided that—
 
 46. The principal act is amended by inserting after section 129 the following schedules:
 
-“First s chedule [Section 2]
+## “FIRST S CHEDULE
+
+[Section 2]
 
 SCHEDUlED OFFENCE
 
@@ -702,7 +708,7 @@ item Types of offence Provision of the law (1)
 
 <!-- page 27 -->
 
-second s chedule
+## SECOND S CHEDULE
 
 [Section 2]
 
@@ -714,7 +720,7 @@ CaMERa-RECORDED OFFENCE
 
 (iii) Failing to obey traffic light
 
-third s chedule
+## THIRD S CHEDULE
 
 [Section 119b]
 

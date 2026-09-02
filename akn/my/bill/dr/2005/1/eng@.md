@@ -84,7 +84,9 @@ any person other than an authorized dealer."; and
 
 (3) For the purpose of this section, the giving or obtaining of a guarantee shall include a renewal or extension of such guarantee.
 
-(4) In this section, the expression "guarantee" includes the pledging of any security issued or registered in Malaysia or any other property in Malaysia to secure the repayment of a debt, obligation or liability referred to in subsection (1) or (2).".
+(4) In this section, the expression "guarantee" includes the pledging of any security issued or registered in Malaysia or any other property in Malaysia to secure the repayment of a debt, obligation or liability referred to in subsection (1) or
+
+(2).".
 
 ### Amendment of Fifth Schedule
 

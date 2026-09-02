@@ -1,0 +1,300 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-12-1997",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_9"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Pendaftaran Ahli Farmasi (Pindaan) 1997"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Pendaftaran Ahli"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Farmasi (Pindaan) 1997."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Pendaftaran Ahli Farmasi 1951, yang disebut"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "\"Akta ibu\" dalam Akta ini, adalah dipinda dalam seksyen 3—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: \"(1) Maka hendaklah ditubuhkan suatu Lembaga Farmasi yang terdiri daripada anggota yang berikut: (a) Ketua Pengarah Kesihatan ex-officio; (b) Pengarah Perkhidmatan Farmasi ex- officio; (c) lapan orang ahli farmasi berdaftar dalam perkhidmatan awam, yang dilantik oleh Menteri; (d) tiga orang ahli farmasi berdaftar dari mana-mana institusi pendidikan tinggi yang me- nawarkan kursus atau program farmasi, yang dilantik oleh Menteri; (e) dua orang ahli farmasi berdaftar yang tidak dalam perkhidmatan awam, yang dilantik oleh Menteri; dan (f) tiga orang ahli farmasi berdaftar yang tidak dalam perkhidmatan awam, yang dinamakan oleh persatuan yang mewakili ahli farmasi yang menjalankan amalan persendirian, yang diluluskan dan dilantik oleh Menteri, yang hendaklah warganegara Malaysia.\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (4) subseksyen yang berikut: \"(5) Bagi maksud subseksyen (1), \"warganegara Malaysia\" tidaklah termasuk pemastautin tetap Malaysia.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 4(4) Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan perkataan \"lima\" dengan perkataan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 13 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_4__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_4__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_4__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (7)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_4__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_4__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (b)(ii) dengan menggantikan perkataan \"tak layak berada dalam daftar\" dengan perkataan \"boleh dikenakan mana-mana hukuman di bawah seksyen 18A\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_4__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_4__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (b)(iii) dengan menggantikan perkataan \"tak layak berada dalam daftar\" dengan perkataan \"boleh dikenakan mana-mana hukuman di bawah seksyen 18A\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_4__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_4__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"boleh mengeluarkan pertubuhan perbadanan sedemikian daripada daftar dan sesudah itu pertubuhan perbadanan sedemikian hendaklah terhenti daripada mempunyai hak untuk menggunakan apa-apa gelaran atau perihalan yang berhak digunakan oleh sesuatu pertubuhan perbadanan yang berdaftar di bawah seksyen ini\" dengan perkataan \"jika difikirkannya patut, mengenakan mana-mana hukuman di bawah seksyen 18A\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (10) dengan memotong perkataan \"dan apa-apa kehilangan kelayakan yang dikenakan oleh subseksyen (7) hendaklah dengan itu terhenti\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 14 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa Inggeris, dalam nota birai, dengan menggantikan perkataan \"decreased pharmacist of\" dengan perkataan \"deceased pharmacist or\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (3)(b) dengan menggantikan perkataan \"tak layak berada dalam daftar\" dengan perkataan \"boleh dikenakan mana-mana hukuman di bawah seksyen 18A\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_6__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 17 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan nota birai dengan nota birai yang berikut: \"Siasatan, pemasukan semula ke dalam daftar dan pengeluaran dari daftar oleh Lembaga.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: \"(1) Jika Lembaga mengetahui bahawa seseorang ahli farmasi berdaftar— (a) telah memperoleh pendaftaran melalui pernyataan fraud atau tak betul; (b) telah disabitkan atas apa-apa kesalahan yang, pada pendapat Lembaga, menjadikannya tak layak berada dalam daftar atau atas apa- apa kesalahan di bawah Akta ini atau di bawah mana-mana undang-undang bertulis yang sedang berkuatkuasa di Malaysia yang berhubungan dengan racun, dadah berbahaya atau bahan terapeutik; atau (c) telah bersalah kerana berkelakuan buruk atau memalukan dari segi profesion, Lembaga boleh menyiasat kes itu dan boleh jika difikirkannya patut, mengenakan mana- mana hukuman di bawah seksyen 18A.\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: \"(1A) Lembaga boleh mengeluarkan nama seseorang ahli farmasi berdaftar dari daftar jika ahli farmasi berdaftar itu— (a) telah mati; (b) telah meninggalkan Malaysia selama-selamanya; atau (c) tak sempurna akal atau, oleh sebab apa-apa kelemahan lain, pada pendapat Lembaga tak berupaya menjalankan amalan sebagai seorang ahli farmasi.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seksyen 18 seksyen yang berikut: \"Hukuman. 18A. (1) Lembaga boleh, pada akhir suatu siasatan di bawah seksyen 13(7) atau seksyen 17(1), mengenakan mana-mana daripada hukuman yang berikut: (a) memerintahkan supaya nama ahli farmasi berdaftar atau pertubuhan perbadanan itu dikeluarkan dari daftar; (b) memerintahkan supaya nama ahli farmasi berdaftar atau pertubuhan perbadanan itu digantung dari daftar selama tempoh yang difikirkannya patut; atau (c) memerintahkan supaya ahli farmasi berdaftar atau pertubuhan perbadanan itu dicela. (2) Lembaga boleh juga, pada akhir siasatan yang tersebut dalam subseksyen (1)— (a) memerintahkan ahli farmasi berdaftar atau pertubuhan perbadanan itu membayar kos kepada Lembaga atau pengadu jika suatu perintah di bawah mana-mana perenggan dalam subseksyen (1) dibuat; (b) memerintahkan pengadu membayar kos kepada ahli farmasi berdaftar atau pertubuhan perbadanan itu jika tiada kes telah dibuktikan terhadap ahli farmasi berdaftar atau pertubuhan perbadanan itu, dan kos itu boleh dituntut sebagai hutang sivil.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 19 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan perkataan \"pengeluaran namanya daripada daftar\" dengan perkataan \"mana-mana hukuman yang dikenakan oleh Lembaga di bawah seksyen 18A\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/12/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 22(1) Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memasukkan selepas perenggan (b) perenggan yang berikut: \"(ba) penubuhan Jawatankuasa Siasatan untuk menyiasat aduan atau maklumat tentang apa- apa perkara yang boleh, di bawah peruntukan Akta ini, disiasat oleh Lembaga, dan prosedur yang hendaklah diikuti pada siasatan yang diadakan oleh Jawatankuasa itu;\"."
+      }
+    }
+  ]
+}

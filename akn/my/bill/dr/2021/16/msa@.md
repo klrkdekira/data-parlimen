@@ -6,25 +6,33 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
-1. Tajuk ringkas, permulaan kuat kuasa dan pemakaian 2. Tafsiran
+1. Tajuk ringkas, permulaan kuat kuasa dan pemakaian
 
-## Bahagian II
+2. Tafsiran
+
+## BAHAGIAN II
 
 ## PENTADBIRAN
 
-3. Pendaftar, Timbalan Pendaftar dan Penolong Pendaftar 4. Perlindungan Pendaftar, Timbalan Pendaftar, Penolong Pendaftar dan pegawai lain 5. Pejabat Petunjuk Geografi dan pejabat cawangan lain
+3. Pendaftar, Timbalan Pendaftar dan Penolong Pendaftar
 
-## Bahagian III
+4. Perlindungan Pendaftar, Timbalan Pendaftar, Penolong Pendaftar dan pegawai lain
+
+5. Pejabat Petunjuk Geografi dan pejabat cawangan lain
+
+## BAHAGIAN III
 
 ## DAFTAR PETUNJUK GEOGRAFI DAN REKOD PENDAFTAR
 
-6. Daftar Petunjuk Geografi dan rekod Pendaftar 7. Pemeriksaan Daftar
+6. Daftar Petunjuk Geografi dan rekod Pendaftar
 
-## Bahagian IV
+7. Pemeriksaan Daftar
+
+## BAHAGIAN IV
 
 ## PENDAFTARAN PETUNJUK GEOGRAFI
 
@@ -32,7 +40,11 @@
 
 Permohonan bagi pendaftaran petunjuk geografi
 
-8. Permohonan bagi pendaftaran petunjuk geografi 9. Pendaftaran hanya berkenaan dengan barang yang termasuk dalam kategori barang
+8. Permohonan bagi pendaftaran petunjuk geografi
+
+9. Pendaftaran hanya berkenaan dengan barang yang termasuk dalam kategori barang
+
+<!-- marginal: WJW21/1500 BM.indd 1 -->
 
 <!-- marginal: 06/12/2021 5:31 PM -->
 
@@ -74,7 +86,7 @@ Pendaftaran
 
 17. Pendaftaran petunjuk geografi
 
-## Bahagian V
+## BAHAGIAN V
 
 ## TEMPOH DAN PEMBAHARUAN PENDAFTARAN BAGI
 
@@ -88,7 +100,7 @@ Pendaftaran
 
 <!-- page 3 -->
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PEMBETULAN DAN PEMBATALAN
 
@@ -102,7 +114,7 @@ Pendaftaran
 
 24. Pembatalan pendaftaran apa-apa varian
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## KESAN PETUNJUK GEOGRAFI BERDAFTAR
 
@@ -114,7 +126,7 @@ Pendaftaran
 
 28. Hak penggunaan pengeluar
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## EJEN PETUNJUK GEOGRAFI
 
@@ -128,7 +140,7 @@ Pendaftaran
 
 33. Komunikasi terlindung dengan ejen petunjuk geografi berdaftar
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## KESALAHAN
 
@@ -142,11 +154,13 @@ Pendaftaran
 
 38. Kesalahan yang berhubungan dengan ketidakpatuhan terhadap saman atau keengganan untuk memberikan keterangan
 
+<!-- marginal: WJW21/1500 BM.indd 3 -->
+
 <!-- marginal: 06/12/2021 5:31 PM -->
 
 <!-- page 4 -->
 
-## Bahagian X
+## BAHAGIAN X
 
 ## PENYIASATAN DAN PENGUATKUASAAN
 
@@ -226,7 +240,7 @@ Kuasa penangkapan, penggeledahan, penyitaan, dsb.
 
 68. Perlindungan Pengawal, Timbalan Pengawal, Penolong Pengawal dan orang lain
 
-## Bahagian XI
+## BAHAGIAN XI
 
 ## PROSIDING UNDANG-UNDANG DI MAHKAMAH,
 
@@ -248,7 +262,7 @@ Kuasa penangkapan, penggeledahan, penyitaan, dsb.
 
 76. Borang elektronik, dsb., yang diperakui oleh Pendaftar boleh diterima sebagai keterangan
 
-## Bahagian XII
+## BAHAGIAN XII
 
 ## PERLINDUNGAN BAGI PETUNJUK GEOGRAFI
 
@@ -256,11 +270,13 @@ Kuasa penangkapan, penggeledahan, penyitaan, dsb.
 
 78. Petunjuk geografi homonim
 
+<!-- marginal: WJW21/1500 BM.indd 5 -->
+
 <!-- marginal: 06/12/2021 5:31 PM -->
 
 <!-- page 6 -->
 
-## Bahagian XIII
+## BAHAGIAN XIII
 
 ## KECUALIAN
 
@@ -284,7 +300,7 @@ Kecualian bagi petunjuk geografi berdaftar
 
 84. Kecualian bagi penggunaan terdahulu petunjuk geografi berdaftar dan cap dagangan
 
-## Bahagian XIV
+## BAHAGIAN XIV
 
 ## PELBAGAI DAN AM
 
@@ -322,13 +338,11 @@ Kecualian bagi petunjuk geografi berdaftar
 
 <!-- page 7 -->
 
-## Bahagian XV
+## BAHAGIAN XV
 
 ## PEMANSUHAN, KECUALIAN DAN PERALIHAN
 
-100. Pemansuhan, kecualian dan peralihan
-
-101. Garis panduan, dsb., mengenai perkara peralihan
+100. Pemansuhan, kecualian dan peralihan 101. Garis panduan, dsb., mengenai perkara peralihan
 
 ## JADUAL
 
@@ -348,7 +362,7 @@ Suatu Akta untuk mengadakan peruntukan bagi perlindungan dan pendaftaran petunju
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -359,6 +373,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 (2) Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta dan Menteri boleh menetapkan tarikh yang berlainan bagi permulaan kuat kuasa bahagian atau peruntukan yang berlainan Akta ini.
 
 (3) Akta ini hendaklah terpakai bagi mana-mana orang yang berkepentingan bagi petunjuk geografi sama ada berdaftar atau tidak di bawah Akta ini melainkan jika diperuntukkan selainnya dengan nyata.
+
+<!-- marginal: WJW21/1500 BM.indd 9 -->
 
 <!-- marginal: 06/12/2021 5:31 PM -->
 
@@ -418,6 +434,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (b) apa-apa pengimportan atau pengeksportan;
 
+<!-- marginal: WJW21/1500 BM.indd 11 -->
+
 <!-- marginal: 06/12/2021 5:31 PM -->
 
 <!-- page 12 -->
@@ -466,7 +484,7 @@ dan mempunyai tanggungjawab bagi petunjuk geografi yang berkenaan;
 
 “varian” ertinya apa-apa varian suatu petunjuk geografi yang terdiri daripada petunjuk geografi itu, dan termasuklah apa-apa terjemahan, transliterasi atau variasi lain petunjuk itu.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PENTADBIRAN
 
@@ -475,6 +493,8 @@ dan mempunyai tanggungjawab bagi petunjuk geografi yang berkenaan;
 3. (1) Ketua Pengarah Perbadanan hendaklah menjadi Pendaftar Petunjuk Geografi dan mempunyai kawalan terhadap Pejabat Petunjuk Geografi.
 
 (2) Pendaftar hendaklah melaksanakan kewajipan yang dikenakan ke atasnya dan menjalankan kuasa yang diberikan kepadanya di bawah Akta ini bagi pentadbiran Akta ini yang sepatutnya.
+
+<!-- marginal: WJW21/1500 BM.indd 13 -->
 
 <!-- marginal: 06/12/2021 5:31 PM -->
 
@@ -512,7 +532,7 @@ jika perbuatan itu diperintahkan atau dilakukan dengan suci hati dan atas keperc
 
 (4) Semua komunikasi dengan Pejabat Petunjuk Geografi hendaklah dalam bahasa kebangsaan atau bahasa Inggeris.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## DAFTAR PETUNJUK GEOGRAFI DAN REKOD PENDAFTAR
 
@@ -528,6 +548,8 @@ jika perbuatan itu diperintahkan atau dilakukan dengan suci hati dan atas keperc
 
 (3) Daftar dan rekod Pendaftar hendaklah disimpan dalam apa-apa bentuk sebagaimana yang ditentukan oleh Pendaftar.
 
+<!-- marginal: WJW21/1500 BM.indd 15 -->
+
 <!-- marginal: 06/12/2021 5:31 PM -->
 
 <!-- page 16 -->
@@ -538,7 +560,7 @@ jika perbuatan itu diperintahkan atau dilakukan dengan suci hati dan atas keperc
 
 (2) Tertakluk kepada syarat dalam subseksyen (1), salinan yang diperaku atau cabutan apa-apa catatan dalam Daftar yang dimeteraikan dengan meterai Pendaftar hendaklah diberikan kepada mana-mana orang atas permohonan dalam bentuk sebagaimana yang ditentukan oleh Pendaftar bersama dengan pembayaran fi yang ditetapkan.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PENDAFTARAN PETUNJUK GEOGRAFI
 
@@ -589,6 +611,8 @@ Alasan bagi penolakan pendaftaran
 10. (1) Pendaftar hendaklah menolak untuk mendaftarkan suatu petunjuk geografi jika—
 
 (a) petunjuk geografi itu tidak berpadanan dengan pengertian “petunjuk geografi” sebagaimana yang ditakrifkan dalam seksyen 2;
+
+<!-- marginal: WJW21/1500 BM.indd 17 -->
 
 <!-- marginal: 06/12/2021 5:31 PM -->
 
@@ -642,6 +666,8 @@ di bawah Akta Cap Dagangan 2019 atau mana-mana undang-undang bertulis terdahulu 
 
 (b) penolakan pendaftaran di bawah seksyen ini bagi apa-apa varian suatu petunjuk geografi tidak menghalang pendaftaran apa-apa varian lain bagi petunjuk geografi itu jika varian itu memenuhi kehendak Akta ini.
 
+<!-- marginal: WJW21/1500 BM.indd 19 -->
+
 <!-- marginal: 06/12/2021 5:31 PM -->
 
 <!-- page 20 -->
@@ -690,6 +716,8 @@ Pemeriksaan
 
 (b) Mahkamah hendaklah, jika perlu, mendengar pemohon dan Pendaftar; dan
 
+<!-- marginal: WJW21/1500 BM.indd 21 -->
+
 <!-- marginal: 06/12/2021 5:31 PM -->
 
 <!-- page 22 -->
@@ -735,6 +763,8 @@ dan termasuklah suatu cap dagangan yang berkenaan dengannya suatu permohonan bag
 ### geografi
 
 13. (1) Jika suatu permohonan bagi pendaftaran suatu petunjuk geografi disetuju terima di bawah subseksyen 12(6) atau (9), Pendaftar hendaklah mengeluarkan suatu notis setuju terima kepada pemohon yang menghendaki pemohon itu untuk membuat bayaran fi yang ditetapkan dalam tempoh masa sebagaimana yang dinyatakan dalam notis itu.
+
+<!-- marginal: WJW21/1500 BM.indd 23 -->
 
 <!-- marginal: 06/12/2021 5:31 PM -->
 
@@ -789,6 +819,8 @@ Bangkangan
 (6) Pernyataan balas yang difailkan di bawah subseksyen (4) hendaklah disertai dengan suatu pernyataan alasan bagi pernyataan balas itu.
 
 (7) Pembangkang dan pemohon hendaklah memfailkan apa-apa keterangan mengikut cara yang ditetapkan dalam tempoh yang ditetapkan untuk menyokong bangkangan atau pernyataan balas itu, mengikut mana-mana yang berkenaan.
+
+<!-- marginal: WJW21/1500 BM.indd 25 -->
 
 <!-- marginal: 06/12/2021 5:31 PM -->
 
@@ -846,6 +878,8 @@ Pendaftaran
 
 Pendaftar hendaklah, melainkan jika permohonan itu telah disetuju terima secara khilaf, mendaftarkan petunjuk geografi itu dalam Daftar atas nama pemohon.
 
+<!-- marginal: WJW21/1500 BM.indd 27 -->
+
 <!-- marginal: 06/12/2021 5:31 PM -->
 
 <!-- page 28 -->
@@ -854,7 +888,7 @@ Pendaftar hendaklah, melainkan jika permohonan itu telah disetuju terima secara 
 
 (3) Selepas pendaftaran petunjuk geografi itu, Pendaftar hendaklah mengeluarkan suatu perakuan pendaftaran petunjuk geografi itu dengan meterai Pendaftar kepada tuan punya berdaftar.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## TEMPOH DAN PEMBAHARUAN PENDAFTARAN BAGI
 
@@ -890,13 +924,15 @@ Pendaftar hendaklah, melainkan jika permohonan itu telah disetuju terima secara 
 
 (9) Pembaharuan atau kemasukan semula pendaftaran suatu petunjuk geografi di bawah seksyen ini hendaklah disiarkan dalam Jurnal Rasmi Harta Intelek.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PEMBETULAN DAN PEMBATALAN
 
 ### Tafsiran
 
 20. Bagi maksud Bahagian ini, “petunjuk geografi” termasuklah suatu varian.
+
+<!-- marginal: WJW21/1500 BM.indd 29 -->
 
 <!-- marginal: 06/12/2021 5:31 PM -->
 
@@ -946,6 +982,8 @@ Pendaftar hendaklah, melainkan jika permohonan itu telah disetuju terima secara 
 
 (3) Pengeluar yang disebut dalam subseksyen (2) dan mana-mana orang yang berkepentingan lain boleh, dalam tempoh yang ditentukan oleh Mahkamah, memohon kepada Mahkamah bagi kebenaran untuk menyertai apa-apa prosiding yang boleh didengar oleh Mahkamah untuk menentukan sama ada atau tidak pendaftaran petunjuk geografi itu patut dibatalkan.
 
+<!-- marginal: WJW21/1500 BM.indd 31 -->
+
 <!-- marginal: 06/12/2021 5:31 PM -->
 
 <!-- page 32 -->
@@ -970,7 +1008,7 @@ Pendaftar hendaklah, melainkan jika permohonan itu telah disetuju terima secara 
 
 <!-- page 33 -->
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## KESAN PETUNJUK GEOGRAFI BERDAFTAR
 
@@ -995,6 +1033,8 @@ Pendaftar hendaklah, melainkan jika permohonan itu telah disetuju terima secara 
 ### Pemindahmilikan pendaftaran petunjuk geografi berdaftar
 
 26. (1) Seseorang tuan punya berdaftar boleh memfailkan suatu permohonan bagi pemindahmilikan pendaftaran suatu petunjuk geografi kepada seorang yang lain dalam bentuk sebagaimana yang ditentukan oleh Pendaftar bersama dengan pembayaran fi yang ditetapkan.
+
+<!-- marginal: WJW21/1500 BM.indd 33 -->
 
 <!-- marginal: 06/12/2021 5:31 PM -->
 
@@ -1032,7 +1072,7 @@ Pendaftar hendaklah, melainkan jika permohonan itu telah disetuju terima secara 
 
 (2) Hak penggunaan itu hendaklah berkenaan dengan barang mengikut kualiti, reputasi atau ciri-ciri sebagaimana yang dinyatakan dalam Daftar.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## EJEN PETUNJUK GEOGRAFI
 
@@ -1045,6 +1085,8 @@ Pendaftar hendaklah, melainkan jika permohonan itu telah disetuju terima secara 
 (3) Apabila dilantik dan diberi kuasa oleh orang itu untuk bertindak baginya di bawah subseksyen (2), seseorang ejen petunjuk geografi berdaftar yang dilantik dan diberi kuasa untuk bertindak bagi orang itu hendaklah, melainkan jika ditamatkan oleh orang itu atau terhenti untuk bertindak bagi orang itu mengikut cara yang ditetapkan bersama dengan pembayaran fi yang ditetapkan—
 
 (a) terus menjadi ejen orang itu; dan
+
+<!-- marginal: WJW21/1500 BM.indd 35 -->
 
 <!-- marginal: 06/12/2021 5:31 PM -->
 
@@ -1098,6 +1140,8 @@ petunjuk geografi dalam bentuk sebagaimana yang ditentukan oleh Pendaftar bersam
 
 (f) memperbaharui pendaftaran ejen petunjuk geografi berdaftar itu apabila permohonan bagi pembaharuan pendaftaran dibuat oleh ejen petunjuk geografi berdaftar itu bersama dengan pembayaran fi yang ditetapkan.
 
+<!-- marginal: WJW21/1500 BM.indd 37 -->
+
 <!-- marginal: 06/12/2021 5:31 PM -->
 
 <!-- page 38 -->
@@ -1124,7 +1168,7 @@ petunjuk geografi dalam bentuk sebagaimana yang ditentukan oleh Pendaftar bersam
 
 <!-- page 39 -->
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## KESALAHAN
 
@@ -1151,6 +1195,8 @@ petunjuk geografi dalam bentuk sebagaimana yang ditentukan oleh Pendaftar bersam
 (i) apa-apa tanda atau iklan; atau
 
 (ii) apa-apa invois, katalog, surat perniagaan, kertas perniagaan, senarai harga atau dokumen komersial lain, termasuk apa-apa dokumen sedemikian dalam apa-apa medium; dan
+
+<!-- marginal: WJW21/1500 BM.indd 39 -->
 
 <!-- marginal: 06/12/2021 5:31 PM -->
 
@@ -1198,6 +1244,8 @@ tidak melebihi dua puluh ribu ringgit bagi setiap barang yang diletakkan suatu p
 
 apa-apa barang yang petunjuk geografi berdaftar dipakaikan dengan salah padanya di bawah seksyen 34, melainkan jika orang itu membuktikan bahawa dia telah mengambil segala langkah berjaga-jaga yang munasabah terhadap melakukan suatu kesalahan di bawah seksyen ini, dia telah, pada masa pelakuan kesalahan yang dikatakan itu, tiada sebab untuk mengesyaki ketulenan suatu petunjuk geografi itu dan atas permintaan yang dibuat oleh Penolong Pengawal sebagaimana yang ditakrifkan dalam seksyen 39, dia memberikan semua maklumat dalam pengetahuannya berkenaan dengan orang yang daripadanya dia memperoleh barang itu, melakukan suatu kesalahan.
 
+<!-- marginal: WJW21/1500 BM.indd 41 -->
+
 <!-- marginal: 06/12/2021 5:31 PM -->
 
 <!-- page 42 -->
@@ -1242,6 +1290,8 @@ mengetahui atau mempunyai sebab untuk mempercayai bahawa representasi itu palsu 
 
 (2) Bagi maksud seksyen ini, penggunaan dalam penjalanan perdagangan di Malaysia berhubung dengan suatu petunjuk geografi bagi perkataan “berdaftar” atau apa-apa perkataan atau simbol lain yang membawa sebutan secara nyata atau tersirat bagi pendaftaran hendaklah disifatkan sebagai representasi mengenai pendaftaran di bawah Akta ini melainkan jika ditunjukkan bahawa sebutan itu adalah untuk pendaftaran di tempat lain selain di Malaysia dan bahawa petunjuk geografi itu sebenarnya telah didaftarkan bagi barang yang berkenaan.
 
+<!-- marginal: WJW21/1500 BM.indd 43 -->
+
 <!-- marginal: 06/12/2021 5:31 PM -->
 
 <!-- page 44 -->
@@ -1260,7 +1310,7 @@ mengetahui atau mempunyai sebab untuk mempercayai bahawa representasi itu palsu 
 
 (2) Mana-mana orang yang mengingkari saman atau permintaan yang dibuat oleh Pendaftar di bawah subseksyen (1) tanpa apa-apa sebab yang sah di sisi undang-undang melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga bulan atau kedua-duanya.
 
-## Bahagian X
+## BAHAGIAN X
 
 ## PENYIASATAN DAN PENGUATKUASAAN
 
@@ -1301,6 +1351,8 @@ Penyiasatan dan aduan
 ### Aduan kepada Penolong Pengawal
 
 42. (1) Mana-mana Penolong Pengawal boleh, apabila mendapat aduan daripada orang yang berkepentingan, menjalankan suatu penyiasatan terhadap mana-mana orang yang telah atau sedang melakukan apa-apa kesalahan di bawah Akta ini.
+
+<!-- marginal: WJW21/1500 BM.indd 45 -->
 
 <!-- marginal: 06/12/2021 5:31 PM -->
 
@@ -1345,6 +1397,8 @@ Kuasa mengumpul maklumat
 (f) jika orang itu ialah suatu perkongsian, supaya menyebabkan individu yang merupakan seorang pekongsi dalam perkongsian itu atau pekerja perkongsian itu untuk hadir di hadapan Penolong Pengawal pada masa dan di tempat yang dinyatakan dalam notis itu untuk memberikan apa-apa maklumat, sama ada secara lisan atau bertulis, dan untuk mengemukakan apa-apa dokumen yang disebut dalam subseksyen (1), sama ada dalam bentuk fizikal atau elektronik; atau
 
 (g) untuk membuat suatu pernyataan kepada Penolong Pengawal dengan memberikan suatu penjelasan mengenai apa-apa maklumat atau dokumen yang disebut dalam subseksyen (1) dalam tempoh dan mengikut cara dan bentuk yang dinyatakan dalam notis itu.
+
+<!-- marginal: WJW21/1500 BM.indd 47 -->
 
 <!-- marginal: 06/12/2021 5:31 PM -->
 
@@ -1393,6 +1447,8 @@ Kuasa mengumpul maklumat
 (f) penzahiran itu dibuat berkaitan dengan penyiasatan terhadap suatu kesalahan di bawah Akta ini.
 
 (3) Bagi maksud seksyen ini, “maklumat rahsia” ertinya maklumat perdagangan, perniagaan atau perindustrian yang dipunyai oleh mana-mana orang yang mempunyai nilai ekonomi dan secara amnya tidak tersedia kepada atau diketahui oleh orang lain atau apa-apa maklumat yang dikira sebagai rahsia di bawah Akta ini.
+
+<!-- marginal: WJW21/1500 BM.indd 49 -->
 
 <!-- marginal: 06/12/2021 5:31 PM -->
 
@@ -1446,6 +1502,8 @@ Kuasa penangkapan, penggeledahan, penyitaan, dsb.
 
 (2) Mana-mana Penolong Pengawal yang membuat tangkapan di bawah subseksyen (1) hendaklah, tanpa kelengahan yang tidak perlu, membawa orang yang ditangkap itu ke balai polis yang paling hampir, dan orang itu hendaklah selepas itu diperlakukan sebagaimana yang diperuntukkan oleh undang-undang yang berhubungan dengan tatacara jenayah yang sedang berkuat kuasa.
 
+<!-- marginal: WJW21/1500 BM.indd 51 -->
+
 <!-- marginal: 06/12/2021 5:31 PM -->
 
 <!-- page 52 -->
@@ -1479,6 +1537,8 @@ orang yang nama dan alamatnya dinyatakan pada mesin itu sebagai tuan punya, atau
 51. (1) Apabila ternyata pada seseorang Majistret, berdasarkan maklumat bertulis bersumpah dan selepas apa-apa siasatan yang difikirkannya perlu, bahawa terdapat alasan yang munasabah untuk mempercayai bahawa mana-mana orang telah melakukan atau sedang melakukan suatu kesalahan di bawah Akta ini, supaya apa-apa keterangan atau benda yang perlu dalam pelaksanaan suatu penyiasatan bagi apa-apa kesalahan mungkin ditemui di dalam mana-mana premis, Majistret itu boleh mengeluarkan suatu waran yang memberikan kuasa kepada mana-mana Penolong Pengawal yang dinamakan dalam waran itu untuk memasuki premis itu pada bila-bila masa, dengan atau tanpa bantuan, dan jika perlu dengan menggunakan kekerasan untuk menggeledah dan menyita apa-apa keterangan atau benda.
 
 (2) Seseorang Penolong Pengawal yang memasuki mana-mana premis di bawah seksyen ini boleh membawa bersamanya mana-mana orang lain dan apa-apa kelengkapan yang ternyata pada Penolong Pengawal itu perlu dan apabila meninggalkan mana-mana premis yang telah dimasukinya menurut kuasa waran di bawah subseksyen yang terdahulu Penolong Pengawal itu hendaklah, jika premis itu tidak dihuni atau penghuni tidak ada buat sementara waktu, meninggalkan premis itu dalam keadaan yang selamat daripada penceroboh sebagaimana keadaan premis itu ditemui olehnya.
+
+<!-- marginal: WJW21/1500 BM.indd 53 -->
 
 <!-- marginal: 06/12/2021 5:31 PM -->
 
@@ -1517,6 +1577,8 @@ orang yang nama dan alamatnya dinyatakan pada mesin itu sebagai tuan punya, atau
 (i) orang yang, olehnya atau bagi pihaknya Penolong Pengawal itu mempunyai sebab yang munasabah untuk mengesyaki komputer itu sedang atau telah digunakan berkaitan dengan maklumat atau data itu; atau
 
 (ii) orang yang bertanggungjawab bagi, atau yang selainnya terlibat dengan, pengendalian komputer, radas atau bahan itu berkaitan dengan maklumat atau data,
+
+<!-- marginal: WJW21/1500 BM.indd 55 -->
 
 <!-- marginal: 06/12/2021 5:31 PM -->
 
@@ -1566,6 +1628,8 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi 
 
 56. (1) Kecuali sebagaimana yang diperuntukkan dalam subseksyen (2), jika apa-apa barang, dokumen, bahan, artikel atau benda disita di bawah Bahagian ini, Penolong Pengawal yang membuat penyitaan itu hendaklah dengan secepat yang praktik menyediakan suatu senarai benda yang disita itu dan dengan
 
+<!-- marginal: WJW21/1500 BM.indd 57 -->
+
 <!-- marginal: 06/12/2021 5:31 PM -->
 
 <!-- page 58 -->
@@ -1599,6 +1663,8 @@ segera menyerahkan suatu salinan senarai itu yang ditandatangani olehnya kepada 
 ### Pelepasan barang, dsb., yang disita
 
 58. (1) Jika apa-apa barang, dokumen, bahan, artikel atau benda telah disita di bawah Akta ini, Penolong Pengawal yang melakukan penyitaan itu boleh melepaskan barang, dokumen, bahan, artikel
+
+<!-- marginal: WJW21/1500 BM.indd 59 -->
 
 <!-- marginal: 06/12/2021 5:31 PM -->
 
@@ -1641,6 +1707,8 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi 
 62. (1) Jika barang, dokumen, bahan, artikel atau benda yang menjadi hal perkara suatu kesalahan di bawah Akta ini didapati dalam dua atau lebih bungkusan atau bekas yang sama perihalannya, ia hendaklah dianggap sehingga dibuktikan sebaliknya bahawa semua bungkusan atau bekas itu mengandungi barang, dokumen, bahan, artikel atau benda yang sama jenis, kuantiti dan kualiti.
 
 (2) Jika bungkusan atau bekas yang mengandungi barang, dokumen, bahan, artikel atau benda melanggar peruntukan Akta ini atau yang selainnya boleh disita telah disita, ia adalah mencukupi untuk membuka dan memeriksa satu peratus atau tidak kurang daripada lima sampel, mengikut mana-mana yang lebih kurang, daripada kandungan dalam setiap bungkusan atau bekas yang disita itu.
+
+<!-- marginal: WJW21/1500 BM.indd 61 -->
 
 <!-- marginal: 06/12/2021 5:31 PM -->
 
@@ -1686,6 +1754,8 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi 
 
 (b) perbuatan atau peninggalan yang diadukan itu telah dilakukan atau ditinggalkan tanpa persetujuan atau pembiarannya dan bahawa dia telah menjalankan segala usaha yang
 
+<!-- marginal: WJW21/1500 BM.indd 63 -->
+
 <!-- marginal: 06/12/2021 5:31 PM -->
 
 <!-- page 64 -->
@@ -1728,7 +1798,7 @@ wajar untuk mengelakkan pelakuan atau peninggalan itu sebagaimana yang sepatutny
 
 jika perbuatan itu diperintahkan atau dilakukan dengan suci hati dan dengan kepercayaan yang munasabah bahawa ia adalah perlu bagi maksud yang dihasratkan untuk dicapai dengannya.
 
-## Bahagian XI
+## BAHAGIAN XI
 
 ## PROSIDING UNDANG-UNDANG DI MAHKAMAH,
 
@@ -1739,6 +1809,8 @@ jika perbuatan itu diperintahkan atau dilakukan dengan suci hati dan dengan kepe
 ### Pendaftar
 
 69. (1) Suatu salinan tiap-tiap permohonan kepada Mahkamah yang berhubungan dengan permohonan bagi pendaftaran suatu petunjuk geografi atau suatu petunjuk geografi berdaftar dalam prosiding termasuk suatu rayuan daripada permohonan itu hendaklah disampaikan kepada Pendaftar oleh pihak-pihak
+
+<!-- marginal: WJW21/1500 BM.indd 65 -->
 
 <!-- marginal: 06/12/2021 5:31 PM -->
 
@@ -1780,6 +1852,8 @@ kepada permohonan itu mengikut cara sebagaimana yang ditentukan oleh Pendaftar d
 
 73. (1) Dalam mana-mana prosiding undang-undang yang kesahan suatu petunjuk geografi berdaftar menjadi persoalan dan diputuskan dengan memihak kepada tuan punya berdaftar, Mahkamah boleh memperakui sedemikian, dan jika Mahkamah memperakui sedemikian maka dalam mana-mana prosiding undang-undang yang kemudian yang dalamnya kesahan pendaftaran itu menjadi persoalan, tuan punya berdaftar itu apabila memperoleh suatu perintah atau penghakiman muktamad yang memihak kepadanya, hendaklah diawardkan kos, bayaran atau perbelanjaan penuh sebagaimana antara peguam cara dengan anak guamnya,
 
+<!-- marginal: WJW21/1500 BM.indd 67 -->
+
 <!-- marginal: 06/12/2021 5:31 PM -->
 
 <!-- page 68 -->
@@ -1820,7 +1894,7 @@ melainkan jika dalam prosiding yang kemudian itu Mahkamah memperakui bahawa tuan
 
 (2) Tertakluk kepada apa-apa syarat sebagaimana yang ditentukan oleh Pendaftar, mana-mana orang boleh meminta apa-apa dokumen di bawah subseksyen (1) dengan memfailkan borang sebagaimana yang ditentukan oleh Pendaftar bersama dengan pembayaran fi yang ditetapkan.
 
-## Bahagian XII
+## BAHAGIAN XII
 
 ## PERLINDUNGAN BAGI PETUNJUK GEOGRAFI
 
@@ -1829,6 +1903,8 @@ melainkan jika dalam prosiding yang kemudian itu Mahkamah memperakui bahawa tuan
 ### geografi
 
 77. (1) Tertakluk kepada peruntukan Akta ini, mana-mana orang yang berkepentingan bagi barang yang dikenal pasti oleh
+
+<!-- marginal: WJW21/1500 BM.indd 69 -->
 
 <!-- marginal: 06/12/2021 5:31 PM -->
 
@@ -1866,6 +1942,8 @@ suatu petunjuk geografi boleh memulakan prosiding Mahkamah terhadap mana-mana or
 
 (i) suatu award ganti rugi atau akaun keuntungan; dan
 
+<!-- marginal: WJW21/1500 BM.indd 71 -->
+
 <!-- marginal: 06/12/2021 5:31 PM -->
 
 <!-- page 72 -->
@@ -1878,7 +1956,7 @@ suatu petunjuk geografi boleh memulakan prosiding Mahkamah terhadap mana-mana or
 
 (2) Mana-mana orang yang berkepentingan bagi barang yang dikenal pasti oleh petunjuk geografi homonim boleh, jika tiada syarat yang praktik berkenaan dengan petunjuk geografi homonim yang telah dikenakan oleh Pendaftar di bawah seksyen 11, memohon kepada Mahkamah bagi suatu pengisytiharan syarat yang praktik yang di bawahnya petunjuk geografi homonim itu boleh dibezakan antara satu sama lain, dengan mengambil kira keperluan untuk memastikan layanan yang saksama diberikan kepada pihak yang berkepentingan yang berkenaan dan bahawa orang awam tidak dikelirukan.
 
-## Bahagian XIII
+## BAHAGIAN XIII
 
 ## KECUALIAN
 
@@ -1923,6 +2001,8 @@ mengikut mana-mana yang lebih awal.
 (a) bagi sekurang-kurangnya sepuluh tahun sebelum 15 April 1994; atau
 
 (b) dengan suci hati sebelum 15 April 1994.
+
+<!-- marginal: WJW21/1500 BM.indd 73 -->
 
 <!-- marginal: 06/12/2021 5:31 PM -->
 
@@ -1976,6 +2056,8 @@ Kecualian bagi petunjuk geografi berdaftar
 
 di bawah Akta Cap Dagangan 2019 yang berhubungan dengan cap dagangan sebelum tarikh permohonan bagi pendaftaran petunjuk geografi itu di Malaysia; atau
 
+<!-- marginal: WJW21/1500 BM.indd 75 -->
+
 <!-- marginal: 06/12/2021 5:31 PM -->
 
 <!-- page 76 -->
@@ -1988,7 +2070,7 @@ di bawah Akta Cap Dagangan 2019 yang berhubungan dengan cap dagangan sebelum tar
 
 (b) pemakaian seksyen 77 bagi penggunaan cap dagangan itu boleh mengelirukan pengguna tentang identiti sebenar barang itu yang dikenal pasti oleh petunjuk geografi itu.
 
-## Bahagian XIV
+## BAHAGIAN XIV
 
 ## PELBAGAI DAN AM
 
@@ -2025,6 +2107,8 @@ di bawah Akta Cap Dagangan 2019 yang berhubungan dengan cap dagangan sebelum tar
 (4) Jika suatu dokumen yang dikehendaki untuk ditandatangani dan diaku saksi di bawah Akta ini hendak difailkan secara elektronik, kehendak bagi pengakusaksian tandatangan itu tidak terpakai.
 
 (5) Jika suatu dokumen difailkan secara elektronik dengan Pendaftar, Pendaftar tidak bertanggungan bagi apa-apa kehilangan atau kerosakan yang ditanggung oleh mana-mana orang disebabkan oleh apa-apa kesilapan atau peninggalan apa-apa jua jenis atau walau bagaimanapun berlaku, berbangkit atau yang terdapat dalam mana-mana dokumen yang diperoleh oleh mana-mana orang di bawah perkhidmatan yang disebut dalam subseksyen (1),
+
+<!-- marginal: WJW21/1500 BM.indd 77 -->
 
 <!-- marginal: 06/12/2021 5:31 PM -->
 
@@ -2072,6 +2156,8 @@ jika kesilapan atau peninggalan itu berlaku, berbangkit atau terdapat akibat dar
 
 (b) tidak menjejaskan secara substansial kandungan dokumen yang difailkan dengan Pejabat Petunjuk Geografi.
 
+<!-- marginal: WJW21/1500 BM.indd 79 -->
+
 <!-- marginal: 06/12/2021 5:31 PM -->
 
 <!-- page 80 -->
@@ -2116,6 +2202,8 @@ boleh membuat permintaan kepada Pendaftar untuk menghidupkan semula permohonan, 
 
 (3) Dalam apa-apa tindakan atau prosiding yang berhubungan dengan suatu petunjuk geografi, Pendaftar atau Mahkamah, mengikut mana-mana yang berkenaan, hendaklah menerima sebagai keterangan amalan dan penggunaan perdagangan yang berkenaan atau amalan dan penggunaan perniagaan dalam penyediaan perkhidmatan yang berkenaan, dan apa-apa petunjuk geografi atau nama dagangan atau nama perniagaan atau cara gayanya yang berkenaan yang digunakan dengan sah oleh orang lain.
 
+<!-- marginal: WJW21/1500 BM.indd 81 -->
+
 <!-- marginal: 06/12/2021 5:31 PM -->
 
 <!-- page 82 -->
@@ -2159,6 +2247,8 @@ boleh membuat permintaan kepada Pendaftar untuk menghidupkan semula permohonan, 
 96. (1) Walau apa pun apa-apa peruntukan dalam mana-mana undang-undang bertulis berhubung dengan semakan kehakiman, mana-mana orang yang terkilan dengan keputusan Pendaftar berhubung dengan perkara yang berikut boleh membuat rayuan kepada Mahkamah:
 
 (a) keputusan Pendaftar di bawah seksyen 9 mengenai sama ada apa-apa barang termasuk dalam suatu kategori barang yang dinyatakan dalam garis panduan atau arahan amalan di bawah seksyen 95;
+
+<!-- marginal: WJW21/1500 BM.indd 83 -->
 
 <!-- marginal: 06/12/2021 5:31 PM -->
 
@@ -2216,6 +2306,8 @@ boleh membuat permintaan kepada Pendaftar untuk menghidupkan semula permohonan, 
 
 (i) untuk mengawal selia penggunaan petunjuk geografi termasuk bagaimana petunjuk geografi itu dipakaikan pada atau dipakaikan berhubung dengan barang;
 
+<!-- marginal: WJW21/1500 BM.indd 85 -->
+
 <!-- marginal: 06/12/2021 5:31 PM -->
 
 <!-- page 86 -->
@@ -2232,7 +2324,7 @@ boleh membuat permintaan kepada Pendaftar untuk menghidupkan semula permohonan, 
 
 99. Menteri boleh, melalui perintah yang disiarkan dalam Warta, meminda Jadual kepada Akta ini.
 
-## Bahagian XV
+## BAHAGIAN XV
 
 ## PEMANSUHAN, KECUALIAN DAN PERALIHAN
 
@@ -2261,6 +2353,8 @@ dengan Akta ini, pada tarikh permulaan kuat kuasa Akta ini, terus berkuat kuasa 
 (3) Apa-apa perkara yang dikehendaki untuk diiklankan di bawah peruntukan Akta yang dimansuhkan dan disiarkan dalam Warta sebelum tarikh permulaan kuat kuasa Akta ini—
 
 (a) hendaklah disifatkan telah disiarkan dalam Jurnal Rasmi Harta Intelek dan seksyen 85 Akta ini hendaklah terpakai sewajarnya tanpa menjejaskan apa-apa undang-undang bertulis yang lain; dan
+
+<!-- marginal: WJW21/1500 BM.indd 87 -->
 
 <!-- marginal: 06/12/2021 5:31 PM -->
 
@@ -2315,6 +2409,8 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk memperuntuk
 2. Bahagian I Akta yang dicadangkan memperkatakan tentang perkara permulaan.
 
 Fasal 1 mengandungi tajuk ringkas dan bertujuan untuk memberi Menteri kuasa untuk menetapkan tarikh permulaan kuat kuasa Akta yang dicadangkan termasuk kuasa untuk menetapkan tarikh berlainan bagi permulaan kuat kuasa bagi bahagian atau peruntukan yang berlainan Akta yang dicadangkan, dan pemakaian Akta yang dicadangkan.
+
+<!-- marginal: WJW21/1500 BM.indd 89 -->
 
 <!-- marginal: 06/12/2021 5:31 PM -->
 
@@ -2380,6 +2476,8 @@ Fasal 24 bertujuan untuk mengadakan peruntukan bagi kesan pembatalan pendaftaran
 
 8. Bahagian VII memperkatakan tentang kesan petunjuk geografi berdaftar.
 
+<!-- marginal: WJW21/1500 BM.indd 91 -->
+
 <!-- marginal: 06/12/2021 5:31 PM -->
 
 <!-- page 92 -->
@@ -2434,6 +2532,8 @@ Fasal 43 bertujuan untuk memberi Penolong Pengawal kuasa untuk mendapatkan maklu
 
 Fasal 44 bertujuan untuk memberi Penolong Pengawal kuasa untuk menyimpan dokumen selama tempoh masa semasa menjalankan penyiasatannya.
 
+<!-- marginal: WJW21/1500 BM.indd 93 -->
+
 <!-- marginal: 06/12/2021 5:31 PM -->
 
 <!-- page 94 -->
@@ -2478,6 +2578,8 @@ Fasal 61 bertujuan untuk menjelaskan bahawa tiada ejen provokasi boleh disifatka
 
 Fasal 62 bertujuan untuk menjelaskan bahawa barang, dokumen, bahan, artikel atau benda yang menjadi hal perkara suatu kesalahan yang dijumpai dalam dua atau lebih pakej atau bekas dalam perihalan yang sama hendaklah dianggap mengandungi barang, dokumen, bahan, artikel atau benda yang sama jenis, kuantiti dan kualiti dalam semua pakej, sehingga dan melainkan jika dibuktikan selainnya.
 
+<!-- marginal: WJW21/1500 BM.indd 95 -->
+
 <!-- marginal: 06/12/2021 5:31 PM -->
 
 <!-- page 96 -->
@@ -2517,6 +2619,8 @@ Fasal 74 bertujuan untuk memperuntukkan bahawa suatu salinan atau cabutan daripa
 Fasal 75 bertujuan untuk memperuntukkan bahawa suatu salinan bercetak atau bertulis atau cabutan daripada Daftar yang telah diperakui sebagai salinan benar atau cabutan oleh Pendaftar dan ditandatangani dan dimeterai oleh Pendaftar dengan meterainya hendaklah boleh diterima sebagai keterangan dalam mana-mana prosiding di hadapan mana-mana mahkamah tanpa bukti lanjut atau pengemukaan dokumen asal. Fasal ini juga bertujuan untuk memberi Pendaftar kuasa untuk mengeluarkan suatu perakuan bagi apa-apa perbuatan yang Pendaftar diberi kuasa untuk melakukan dan yang dia telah atau belum lakukan yang hendaklah menjadi keterangan prima facie dalam mana-mana prosiding di hadapan mana-mana mahkamah yang dia telah lakukan atau belum lakukan perbuatan itu.
 
 Fasal 76 bertujuan untuk memperuntukkan bahawa apa-apa borang, maklumat atau dokumen, yang telah difailkan atau dikeluarkan oleh Pendaftar secara elektronik hendaklah menjadi salinan benar borang, maklumat atau dokumen itu yang difailkan dengan Pendaftar seperti yang dikehendaki di bawah Akta yang dicadangkan ini.
+
+<!-- marginal: WJW21/1500 BM.indd 97 -->
 
 <!-- marginal: 06/12/2021 5:31 PM -->
 
@@ -2573,6 +2677,8 @@ Fasal 99 bertujuan untuk memberi Menteri kuasa untuk meminda Jadual kepada Akta 
 16. Bahagian XV memperkatakan tentang perkara yang berhubungan dengan pemansuhan, kecualian dan peralihan.
 
 Fasal 100 bertujuan untuk mengadakan peruntukan bagi peruntukan pemansuhan, kecualian dan peralihan.
+
+<!-- marginal: WJW21/1500 BM.indd 99 -->
 
 <!-- marginal: 06/12/2021 5:31 PM -->
 

@@ -22,7 +22,13 @@ BAB I
 
 ## PERMULAAN
 
-1. Tajuk ringkas, pemakaian dan mula berkuatkuasa. 2. Pemakaian. 3. Tafsiran. 4. Anggapan.
+1. Tajuk ringkas, pemakaian dan mula berkuatkuasa.
+
+2. Pemakaian.
+
+3. Tafsiran.
+
+4. Anggapan.
 
 ## BAB 2
 
@@ -30,7 +36,13 @@ BAB I
 
 Am
 
-5. Keterangan boleh diberikan mengenai fakta persoalan dan qarinah. 6. Fakta yang menjadi sebahagian daripada transaksi yang sama ialah qarinah. 7. Fakta yang menjadi punca, sebab atau kesan bagi fakta persoalan atau fakta relevan. 8. Motif, persediaan dan kelakuan yang dahulu atau yang kemudian.
+5. Keterangan boleh diberikan mengenai fakta persoalan dan qarinah.
+
+6. Fakta yang menjadi sebahagian daripada transaksi yang sama ialah qarinah.
+
+7. Fakta yang menjadi punca, sebab atau kesan bagi fakta persoalan atau fakta relevan.
+
+8. Motif, persediaan dan kelakuan yang dahulu atau yang kemudian.
 
 <!-- page 2 -->
 
@@ -74,7 +86,11 @@ Pernyataan yang dibuat di bawah Hal Keadaan Khas
 
 <!-- page 3 -->
 
-(Wilayah-Wilayah Persekutuan) 25. Pernyataan tentang fakta daripada jenis awam yang terkandung dalam perundangan atau pemberitahuan tertentu ialah qarinah. 26. Pernyataan tentang mana-mana undang-undang yang terkandung dalam buku undang-undang ialah qarinah.
+(Wilayah-Wilayah Persekutuan)
+
+25. Pernyataan tentang fakta daripada jenis awam yang terkandung dalam perundangan atau pemberitahuan tertentu ialah qarinah.
+
+26. Pernyataan tentang mana-mana undang-undang yang terkandung dalam buku undang-undang ialah qarinah.
 
 Sebanyak Mana Pernyataan dikehendaki dibuktikan
 
@@ -82,11 +98,25 @@ Sebanyak Mana Pernyataan dikehendaki dibuktikan
 
 Bila Penghakiman Mahkamah menjadi Qarinah
 
-28. Penghakiman dahulu adalah relevan bagi menghalang guaman atau perbicaraan yang kedua. 29. Bila penghakiman tertentu dalam bidang kuasa probet, dsb. ialah qarinah. 30. Bila penghakiman, perintah atau dekri ialah qarinah. 31. Bila penghakiman, dsb., tidak qarinah. 32. Fraud atau pakat sulit dalam mendapatkan penghakiman atau ketakkompetenan Mahkamah boleh dibuktikan.
+28. Penghakiman dahulu adalah relevan bagi menghalang guaman atau perbicaraan yang kedua.
+
+29. Bila penghakiman tertentu dalam bidang kuasa probet, dsb. ialah qarinah.
+
+30. Bila penghakiman, perintah atau dekri ialah qarinah.
+
+31. Bila penghakiman, dsb., tidak qarinah.
+
+32. Fraud atau pakat sulit dalam mendapatkan penghakiman atau ketakkompetenan Mahkamah boleh dibuktikan.
 
 Bila Pendapat Orang Ketiga menjadi Qarinah
 
-33. Pendapat pakar. 34. Fakta berkenaan dengan pendapat pakar. 35. Bila pendapat tentang tulisan tangan ialah qarinah. 36. Bila pendapat tentang kewujudan hak atau 'urf ialah qarinah.
+33. Pendapat pakar.
+
+34. Fakta berkenaan dengan pendapat pakar.
+
+35. Bila pendapat tentang tulisan tangan ialah qarinah.
+
+36. Bila pendapat tentang kewujudan hak atau 'urf ialah qarinah.
 
 37. Bila pendapat tentang kelaziman, rukun, dsb., ialah qarinah. 38. Bila pendapat mengenai hubungan ialah qarinah. 39. Bila alasan pendapat ialah qarinah.
 
@@ -136,11 +166,7 @@ II
 
 53. Kaedah-kaedah tentang notis untuk mengemukakan.
 
-54. Pembuktian tandatangan dan tulisan tangan orang yang dikatakan telah menandatangani atau menulis dokumen yang dikemukakan.
-
-55. Pengakuan mengenai tulisan, tandatangan atau meterai.
-
-56. Pembuktian dokumen.
+54. Pembuktian tandatangan dan tulisan tangan orang yang dikatakan telah menandatangani atau menulis dokumen yang dikemukakan. 55. Pengakuan mengenai tulisan, tandatangan atau meterai. 56. Pembuktian dokumen.
 
 Dokumen Awam
 
@@ -252,9 +278,33 @@ III
 
 (Wilayah-Wilayah Persekutuan) 96. Bila soalan memimpin tidak boleh ditanya.
 
-97. Bila soalan memimpin boleh ditanya. 98. Keterangan tentang perkara bertulis. 99. Pemeriksaan balas tentang pernyataan bertulis yang dahulu. 100. Soalan yang sah dalam pemeriksaan balas. 101. Mahkamah akan memutuskan bila soalan hendak ditanya dan bila saksi boleh dipaksa menjawab. 102. Soalan tidak boleh ditanya tanpa alasan yang munasabah. 103. Prosedur Mahkamah sekiranya soalan ditanya tanpa alasan yang munasabah. 104. Soalan lucah dan bersifat skandal.
+97. Bila soalan memimpin boleh ditanya. 98. Keterangan tentang perkara bertulis. 99. Pemeriksaan balas tentang pernyataan bertulis yang dahulu.
 
-105. Soalan yang bertujuan menghina atau menggusarkan. 106. Penyingkiran keterangan untuk menyangkal jawapan kepada soalan yang menguji kebenaran. 107. Soalan oleh pihak kepada saksinya sendiri. 108. Mencabar kebolehpercayaan saksi. 109. Soalan yang cenderung menyokong keterangan mengenai fakta relevan yang boleh diterima. 110. Pernyataan dahulu oleh saksi boleh dibuktikan untuk menyokong testimoni yang kemudian tentang fakta yang sama. 111. Perkara yang boleh dibuktikan berkaitan dengan per- nyataan terbukti yang ialah qarinah di bawah seksyen 20 atau 21. 112. Mengingatkan semula. 113. Testimoni tentang fakta yang dinyatakan dalam dokumen yang disebut dalam seksyen 112. 114. Hak pihak menentang tentang tulisan yang digunakan untuk mengingatkan semula. 115. Pengemukaan dokumen dan terjemahannya.
+100. Soalan yang sah dalam pemeriksaan balas.
+
+101. Mahkamah akan memutuskan bila soalan hendak ditanya dan bila saksi boleh dipaksa menjawab.
+
+102. Soalan tidak boleh ditanya tanpa alasan yang munasabah.
+
+103. Prosedur Mahkamah sekiranya soalan ditanya tanpa alasan yang munasabah.
+
+104. Soalan lucah dan bersifat skandal.
+
+105. Soalan yang bertujuan menghina atau menggusarkan.
+
+106. Penyingkiran keterangan untuk menyangkal jawapan kepada soalan yang menguji kebenaran.
+
+107. Soalan oleh pihak kepada saksinya sendiri.
+
+108. Mencabar kebolehpercayaan saksi.
+
+109. Soalan yang cenderung menyokong keterangan mengenai fakta relevan yang boleh diterima.
+
+110. Pernyataan dahulu oleh saksi boleh dibuktikan untuk menyokong testimoni yang kemudian tentang fakta yang sama.
+
+111. Perkara yang boleh dibuktikan berkaitan dengan per- nyataan terbukti yang ialah qarinah di bawah seksyen 20 atau 21. 112. Mengingatkan semula.
+
+113. Testimoni tentang fakta yang dinyatakan dalam dokumen yang disebut dalam seksyen 112. 114. Hak pihak menentang tentang tulisan yang digunakan untuk mengingatkan semula. 115. Pengemukaan dokumen dan terjemahannya.
 
 116. Memberikan sebagai keterangan dokumen yang diminta dan dikemukakan setelah notis diberikan. 117. Menggunakan sebagai keterangan dokumen yang enggan dikemukakan setelah notis diberikan.
 
@@ -348,11 +398,13 @@ Lumpur dan Labuan.
 
 <!-- page 10 -->
 
-Tafsiran
+<!-- marginal: Tafsiran -->
 
 3. (1) Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—
 
-Akta 505 "Akta Pentadbiran" ertinya Akta Pentadbiran Undang- Undang Islam (Wilayah-Wilayah Persekutuan) 1993;
+<!-- marginal: Akta 505 -->
+
+"Akta Pentadbiran" ertinya Akta Pentadbiran Undang- Undang Islam (Wilayah-Wilayah Persekutuan) 1993;
 
 " 'aqil" ertinya sempurna akal;
 
@@ -480,7 +532,7 @@ perkara-perkara fakta yang disiasat: pernyataan sedemikian disebut keterangan li
 
 (3) Bagi mengelakkan keraguan tentang identiti atau tafsiran perkataan dan ungkapan yang digunakan dalam Akta ini yang disenaraikan dalam Jadual, rujukan bolehlah dibuat kepada Tulisan Arab bagi perkataan dan ungkapan itu yang ditunjukkan bersetentangan dengannya dalam Jadual itu.
 
-Anggapan
+<!-- marginal: Anggapan -->
 
 4. (1) Bilamana diperuntukkan oleh Akta ini bahawa Mahkamah boleh menganggap sesuatu fakta sebagai wujud, Mahkamah boleh sama ada menyifatkan fakta itu sebagai terbukti melainkan jika dan sehingga terbukti sebaliknya, atau boleh meminta buktinya.
 
@@ -566,13 +618,55 @@ qarinah.
 
 A dituduh memukul isterinya B. Apa-apa jua yang telah dikatakan atau dibuat oleh A atau B atau oleh orang yang berada di situ pada masa B dipukul atau sejurus sebelum atau selepasnya sehingga menjadi sebahagian daripada transaksi yang sama ialah qarinah.
 
-Fakta yang
+<!-- marginal: Fakta yang -->
 
-7. Fakta yang menjadi punca, sebab atau kesan, sama menjadi ada langsung atau selainnya, bagi fakta persoalan atau punca, sebab atau fakta relevan, atau fakta yang menjadi keadaan benda kesan bagi yang dalamnya fakta itu berlaku, atau yang memberikan fakta persoalan peluang untuk fakta itu berlaku atau dilakukan ialah atau fakta qarinah. relevan.
+7. Fakta yang menjadi punca, sebab atau kesan, sama
 
-Motif,
+<!-- marginal: menjadi -->
 
-8. (1) Apa-apa fakta ialah qarinah jika ia menunjukkan persediaan atau menjadi motif atau persediaan bagi mana-mana fakta dan kelakuan yang dahulu persoalan atau fakta relevan. atau yang kemudian. (2) Kelakuan mana-mana pihak, atau kelakuan mana- mana ejen kepada mana-mana pihak, dalam apa-apa guaman atau prosiding berkenaan dengan guaman atau prosiding itu, atau berkenaan dengan mana-mana fakta persoalan dalamnya atau yang relevan dengannya, dan kelakuan mana-mana orang yang kesalahan terhadapnya menjadi perkara mana-mana prosiding, ialah qarinah jika kelakuan itu mempengaruhi atau dipengaruhi oleh mana- mana fakta persoalan atau fakta relevan, dan sama ada kelakuan itu berlaku dahulu atau kemudian daripadanya.
+ada langsung atau selainnya, bagi fakta persoalan atau
+
+<!-- marginal: punca, -->
+
+<!-- marginal: sebab atau -->
+
+fakta relevan, atau fakta yang menjadi keadaan benda
+
+<!-- marginal: kesan bagi -->
+
+yang dalamnya fakta itu berlaku, atau yang memberikan
+
+<!-- marginal: fakta -->
+
+<!-- marginal: persoalan -->
+
+peluang untuk fakta itu berlaku atau dilakukan ialah
+
+<!-- marginal: atau fakta -->
+
+qarinah.
+
+<!-- marginal: relevan. -->
+
+<!-- marginal: Motif, -->
+
+8. (1) Apa-apa fakta ialah qarinah jika ia menunjukkan
+
+<!-- marginal: persediaan -->
+
+atau menjadi motif atau persediaan bagi mana-mana fakta
+
+<!-- marginal: dan kelakuan -->
+
+<!-- marginal: yang dahulu -->
+
+persoalan atau fakta relevan.
+
+<!-- marginal: atau yang -->
+
+<!-- marginal: kemudian. -->
+
+(2) Kelakuan mana-mana pihak, atau kelakuan mana- mana ejen kepada mana-mana pihak, dalam apa-apa guaman atau prosiding berkenaan dengan guaman atau prosiding itu, atau berkenaan dengan mana-mana fakta persoalan dalamnya atau yang relevan dengannya, dan kelakuan mana-mana orang yang kesalahan terhadapnya menjadi perkara mana-mana prosiding, ialah qarinah jika kelakuan itu mempengaruhi atau dipengaruhi oleh mana- mana fakta persoalan atau fakta relevan, dan sama ada kelakuan itu berlaku dahulu atau kemudian daripadanya.
 
 Huraian 1—Perkataan "kelakuan" dalam seksyen ini tidak termasuk pernyataan melainkan jika pernyataan itu menyertai dan menghuraikan perbuatan selain daripada pernyataan; tetapi huraian ini tidaklah menyentuh kerelevanan pernyataan di bawah mana-mana seksyen lain dalam Akta ini.
 
@@ -642,13 +736,45 @@ Fakta bahawa sejurus selepas berlakunya jenayah itu A telah melarikan diri dari 
 
 Fakta bahawa pada masa dia meninggalkan rumahnya itu dia ada urusan tiba-tiba dan mendesak di tempat dia pergi itu ialah qarinah sebagai cenderung menghuraikan fakta bahawa dia telah meninggalkan rumahnya dengan tiba-tiba.
 
-Apa-apa yang
+<!-- marginal: Apa-apa yang -->
 
-10. Jika terdapat alasan yang munasabah bagi dikatakan mempercayai bahawa dua orang atau lebih telah atau dilaku- kan oleh berkomplot bersama-sama untuk melakukan suatu pekomplot kesalahan atau suatu perbuatan salah boleh dakwa, maka berkenaan apa-apa jua yang dikatakan, dilakukan atau ditulis oleh dengan rancangan salah seorang daripada mereka, berkenaan dengan niat bersama. bersama mereka selepas niat itu mula-mula difikirkan oleh salah seorang daripada mereka, ialah qarinah terhadap setiap orang yang dipercayai berkomplot sedemikian, serta juga bagi maksud membuktikan kewujudan komplot itu dan bagi maksud menunjukkan bahawa mana-mana orang sedemikian telah menjadi pihak kepadanya.
+10. Jika terdapat alasan yang munasabah bagi
 
-Bila fakta
+<!-- marginal: dikatakan -->
 
-11. Fakta menjadi qarinah— menjadi qarinah.
+mempercayai bahawa dua orang atau lebih telah
+
+<!-- marginal: atau dilaku- -->
+
+<!-- marginal: kan oleh -->
+
+berkomplot bersama-sama untuk melakukan suatu
+
+<!-- marginal: pekomplot -->
+
+kesalahan atau suatu perbuatan salah boleh dakwa, maka
+
+<!-- marginal: berkenaan -->
+
+apa-apa jua yang dikatakan, dilakukan atau ditulis oleh
+
+<!-- marginal: dengan -->
+
+<!-- marginal: rancangan -->
+
+salah seorang daripada mereka, berkenaan dengan niat
+
+<!-- marginal: bersama. -->
+
+bersama mereka selepas niat itu mula-mula difikirkan oleh salah seorang daripada mereka, ialah qarinah terhadap setiap orang yang dipercayai berkomplot sedemikian, serta juga bagi maksud membuktikan kewujudan komplot itu dan bagi maksud menunjukkan bahawa mana-mana orang sedemikian telah menjadi pihak kepadanya.
+
+<!-- marginal: Bila fakta -->
+
+11. Fakta menjadi qarinah—
+
+<!-- marginal: menjadi -->
+
+<!-- marginal: qarinah. -->
 
 (a) jika ia tak konsisten dengan mana-mana fakta persoalan atau fakta relevan;
 
@@ -662,11 +788,7 @@ Fakta bahawa pada hari itu A berada di Ipoh ialah qarinah.
 
 <!-- page 19 -->
 
-Keterangan Mahkamah Syariah
-
-<!-- marginal: 19 -->
-
-(Wilayah-Wilayah Persekutuan)
+Keterangan Mahkamah Syariah 19 (Wilayah-Wilayah Persekutuan)
 
 Fakta bahawa hampir dengan masa berlakunya jenayah itu A berada jauh dari tempat di mana jenayah itu dilakukan, yang menjadikannya amat tak barangkali, walaupun tak mustahil, bahawa dia telah melakukan jenayah itu, ialah qarinah.
 
@@ -728,9 +850,39 @@ atau 'urf, maka fakta yang berikut ialah qarinah:
 
 20 Rang Undang-Undang
 
-Fakta yang
+<!-- marginal: Fakta yang -->
 
-14. Fakta yang menunjukkan kewujudan apa-apa keadaan menunjukkan akal fikiran, seperti niat, pengetahuan, kesucian hati, kewujudan keadaan akal kecuaian, kegopohan, niat jahat atau niat baik terhadap fikiran atau mana-mana orang tertentu, atau yang menunjukkan keadaan tubuh atau kewujudan apa-apa keadaan tubuh atau perasaan tubuh, perasaan ialah qarinah apabila kewujudan apa-apa keadaan akal tubuh ialah qarinah fikiran atau keadaan tubuh atau perasaan tubuh itu menjadi persoalan atau relevan.
+14. Fakta yang menunjukkan kewujudan apa-apa keadaan
+
+<!-- marginal: menunjukkan -->
+
+akal fikiran, seperti niat, pengetahuan, kesucian hati,
+
+<!-- marginal: kewujudan -->
+
+<!-- marginal: keadaan akal -->
+
+kecuaian, kegopohan, niat jahat atau niat baik terhadap
+
+<!-- marginal: fikiran atau -->
+
+mana-mana orang tertentu, atau yang menunjukkan
+
+<!-- marginal: keadaan -->
+
+<!-- marginal: tubuh atau -->
+
+kewujudan apa-apa keadaan tubuh atau perasaan tubuh,
+
+<!-- marginal: perasaan -->
+
+ialah qarinah apabila kewujudan apa-apa keadaan akal
+
+<!-- marginal: tubuh ialah -->
+
+<!-- marginal: qarinah -->
+
+fikiran atau keadaan tubuh atau perasaan tubuh itu menjadi persoalan atau relevan.
 
 Huraian 1—Sesuatu fakta yang relevan
 
@@ -752,9 +904,39 @@ Fakta bahawa dia telah mengatakan sesuatu yang menunjukkan niat hendak melakukan
 
 Fakta bahawa dia telah mengatakan sesuatu yang menunjukkan kecenderungan am hendak melakukan jenayah jenis itu bukanlah qarinah.
 
-Fakta
+<!-- marginal: Fakta -->
 
-15. Apabila terdapat soal sama ada sesuatu perbuatan berkenaan telah dilakukan dengan tak sengaja atau dengan sengaja dengan soal sama ada atau dilakukan dengan pengetahuan atau niat tertentu, perbuatan maka fakta bahawa perbuatan itu menjadi sebahagian dilakukan daripada siri kejadian yang serupa, dan orang yang dengan tak sengaja atau melakukan perbuatan itu terlibat dalam setiap kejadian dengan itu, ialah qarinah. sengaja.
+15. Apabila terdapat soal sama ada sesuatu perbuatan
+
+<!-- marginal: berkenaan -->
+
+telah dilakukan dengan tak sengaja atau dengan sengaja
+
+<!-- marginal: dengan soal -->
+
+<!-- marginal: sama ada -->
+
+atau dilakukan dengan pengetahuan atau niat tertentu,
+
+<!-- marginal: perbuatan -->
+
+maka fakta bahawa perbuatan itu menjadi sebahagian
+
+<!-- marginal: dilakukan -->
+
+daripada siri kejadian yang serupa, dan orang yang
+
+<!-- marginal: dengan tak -->
+
+<!-- marginal: sengaja atau -->
+
+melakukan perbuatan itu terlibat dalam setiap kejadian
+
+<!-- marginal: dengan -->
+
+itu, ialah qarinah.
+
+<!-- marginal: sengaja. -->
 
 <!-- page 21 -->
 
@@ -818,9 +1000,15 @@ seseorang, secara bertulis atau lisan atau dengan isyarat, menyatakan bahawa dia
 
 (3) Sesuatu iqrar yang berhubungan dengan apa-apa fakta persoalan atau fakta relevan ialah qarinah.
 
-Keboleh-
+<!-- marginal: Keboleh- -->
 
-18. (1) Iqrar yang berikut tidak boleh diterima: terimaan iqrar. (a) iqrar seseorang yang tidak 'aqil baligh;
+18. (1) Iqrar yang berikut tidak boleh diterima:
+
+<!-- marginal: terimaan -->
+
+<!-- marginal: iqrar. -->
+
+(a) iqrar seseorang yang tidak 'aqil baligh;
 
 (b) tertakluk kepada subseksyen (2), iqrar orang belum dewasa;
 
@@ -916,11 +1104,7 @@ Pernyataan sedemikian ialah qarinah sama ada pada masa pernyataan itu dibuat ora
 
 bagi sesuatu surat atau dokumen lain yang biasanya ditarikh, ditulis atau ditandatangani olehnya;
 
-(c) apabila pernyataan itu menentang kepentingan kewangan atau kepentingan ketuanpunyaan orang yang membuatnya, atau apabila, jika benar, pernyataan itu akan mendedahkan atau mungkin mendedahkan orang itu kepada
-
-<!-- marginal: suatu -->
-
-pendakwaan jenayah atau kepada suatu guaman untuk ganti rugi;
+(c) apabila pernyataan itu menentang kepentingan kewangan atau kepentingan ketuanpunyaan orang yang membuatnya, atau apabila, jika benar, pernyataan itu akan mendedahkan atau mungkin mendedahkan orang itu kepada suatu pendakwaan jenayah atau kepada suatu guaman untuk ganti rugi;
 
 (d) apabila pernyataan itu memberikan pendapat mana-mana orang sedemikian tentang kewujudan apa-apa hak awam atau 'urf atau perkara yang mempunyai kepentingan awam atau am, yang kewujudannya, jika ia wujud, mungkin telah disedari oleh orang itu, dan apabila pernyataan itu dibuat sebelum timbul apa-apa kontroversi tentang hak, 'urf atau perkara itu;
 
@@ -978,9 +1162,43 @@ Suatu catatan dalam buku memorandum oleh C, iaitu bapa B yang telah mati, berken
 
 (c) apabila orang yang membuat pernyataan itu enggan memberikan keterangan atas alasan bahawa tidak ada keterangan yang relevan dengan pertikaian itu atau bahawa dia tidak membuat pernyataan itu atau dia telah membuat kesilapan berhubungan dengan pernyataan itu.
 
-Kerelevanan
+<!-- marginal: Kerelevanan -->
 
-21. Keterangan yang diberikan oleh seorang saksi dalam keterangan suatu prosiding kehakiman, atau di hadapan mana-mana tertentu bagi membuktikan orang yang diberikuasa oleh undang-undang untuk dalam mengambil keterangan itu, ialah qarinah bagi maksud prosiding kemudiannya membuktikan dalam prosiding kehakiman kemudiannya, kebenaran atau pada suatu peringkat yang kemudian dalam prosiding fakta yang dinyatakan kehakiman yang sama, kebenaran fakta yang dinyatakan dalamnya. olehnya, apabila saksi itu telah mati atau tidak dapat
+21. Keterangan yang diberikan oleh seorang saksi dalam
+
+<!-- marginal: keterangan -->
+
+suatu prosiding kehakiman, atau di hadapan mana-mana
+
+<!-- marginal: tertentu bagi -->
+
+<!-- marginal: membuktikan -->
+
+orang yang diberikuasa oleh undang-undang untuk
+
+<!-- marginal: dalam -->
+
+mengambil keterangan itu, ialah qarinah bagi maksud
+
+<!-- marginal: prosiding -->
+
+<!-- marginal: kemudiannya -->
+
+membuktikan dalam prosiding kehakiman kemudiannya,
+
+<!-- marginal: kebenaran -->
+
+atau pada suatu peringkat yang kemudian dalam prosiding
+
+<!-- marginal: fakta yang -->
+
+<!-- marginal: dinyatakan -->
+
+kehakiman yang sama, kebenaran fakta yang dinyatakan
+
+<!-- marginal: dalamnya. -->
+
+olehnya, apabila saksi itu telah mati atau tidak dapat
 
 <!-- page 27 -->
 
@@ -1136,23 +1354,81 @@ menetapkan mana-mana orang menjadi berhak kepada mana-mana sifat itu, atau berha
 
 (d) bahawa apa-apa jua yang kepadanya mana-mana orang ditetapkan olehnya sebagai berhak sedemikian ialah harta orang itu dari masa ia ditetapkan oleh penghakiman, perintah atau dekri itu sebagai telah atau patut menjadi harta orang itu.
 
-Bila
+<!-- marginal: Bila -->
 
-30. Penghakim,an, perintah atau dekri, selain daripada penghakiman. yang disebut dalam seksyen 29, ialah qarinah jika ia perintah atau dekri ialah berhubungan dengan perkara daripada jenis awam yang qarinah. relevan kepada siasatan itu; tetapi penghakiman, perintah atau dekri itu bukanlah bukti konklusif mengenai apa yang dinyatakan olehnya.
+30. Penghakim,an, perintah atau dekri, selain daripada
 
-Bila
+<!-- marginal: penghakiman. -->
 
-31. Penghakiman, perintah atau dekri, yang selain penghakiman, daripada yang disebut dalam seksyen 28, 29 dan 30, dsb.. tidak qarinah adalah tidak qarinah melainkan jika kewujudan penghakiman, perintah atau dekri itu ialah suatu fakta persoalan atau qarinah di bawah mana-mana peruntukan lain Akta ini.
+yang disebut dalam seksyen 29, ialah qarinah jika ia
 
-Fraud atau
+<!-- marginal: perintah atau -->
 
-32. Mana-mana pihak dalam sesuatu guaman atau pakat sulit prosiding lain boleh menunjukkan bahawa apa-apa dalam mendapatkan penghakiman, perintah atau dekri yang ialah qarinah di penghakiman bawah seksyen 28, 29 atau 30, dan yang telah dibuktikan atau ketak- kompetenan oleh pihak menentang, telah diumumkan oleh Mahkamah Mahkamah yang tak kompeten untuk mengumumkannya atau telah boleh dibuktikan. didapati dengan cara fraud atau pakat sulit.
+<!-- marginal: dekri ialah -->
+
+berhubungan dengan perkara daripada jenis awam yang
+
+<!-- marginal: qarinah. -->
+
+relevan kepada siasatan itu; tetapi penghakiman, perintah atau dekri itu bukanlah bukti konklusif mengenai apa yang dinyatakan olehnya.
+
+<!-- marginal: Bila -->
+
+31. Penghakiman, perintah atau dekri, yang selain
+
+<!-- marginal: penghakiman, -->
+
+daripada yang disebut dalam seksyen 28, 29 dan 30,
+
+<!-- marginal: dsb.. tidak -->
+
+<!-- marginal: qarinah -->
+
+adalah tidak qarinah melainkan jika kewujudan penghakiman, perintah atau dekri itu ialah suatu fakta persoalan atau qarinah di bawah mana-mana peruntukan lain Akta ini.
+
+<!-- marginal: Fraud atau -->
+
+32. Mana-mana pihak dalam sesuatu guaman atau
+
+<!-- marginal: pakat sulit -->
+
+prosiding lain boleh menunjukkan bahawa apa-apa
+
+<!-- marginal: dalam -->
+
+<!-- marginal: mendapatkan -->
+
+penghakiman, perintah atau dekri yang ialah qarinah di
+
+<!-- marginal: penghakiman -->
+
+bawah seksyen 28, 29 atau 30, dan yang telah dibuktikan
+
+<!-- marginal: atau ketak- -->
+
+<!-- marginal: kompetenan -->
+
+oleh pihak menentang, telah diumumkan oleh Mahkamah
+
+<!-- marginal: Mahkamah -->
+
+yang tak kompeten untuk mengumumkannya atau telah
+
+<!-- marginal: boleh -->
+
+<!-- marginal: dibuktikan. -->
+
+didapati dengan cara fraud atau pakat sulit.
 
 Bila Pendapat Orang Ketiga menjadi Qarinah
 
-Pendapat
+<!-- marginal: Pendapat -->
 
-33. (1) Apabila Mahkamah perlu membuat sesuatu pakar. pendapat atas sesuatu perkara mengenai undang-undang negara asing atau mengenai sains atau seni, atau tentang
+33. (1) Apabila Mahkamah perlu membuat sesuatu
+
+<!-- marginal: pakar. -->
+
+pendapat atas sesuatu perkara mengenai undang-undang negara asing atau mengenai sains atau seni, atau tentang
 
 <!-- page 31 -->
 
@@ -1216,21 +1492,51 @@ Keterangan diberi oleh B yang ialah setiausaha A dan tugasnya adalah untuk menel
 
 Pendapat B atas soal sama ada surat itu dalam tulisan tangan A ialah qarinah, walaupun B tidak pernah melihat A menulis.
 
-Bila pendapat
+<!-- marginal: Bila pendapat -->
 
-36. Apabila Mahkamah perlu membuat sesuatu pendapat tentang tentang kewujudan apa-apa hak atau 'urf, maka pendapat kewujudan hak atau tentang kewujudan hak atau 'urf itu daripada orang yang 'urf ialah mungkin tahu mengenai kewujudan hak atau
+36. Apabila Mahkamah perlu membuat sesuatu pendapat
+
+<!-- marginal: tentang -->
+
+tentang kewujudan apa-apa hak atau 'urf, maka pendapat
+
+<!-- marginal: kewujudan -->
+
+<!-- marginal: hak atau -->
+
+tentang kewujudan hak atau 'urf itu daripada orang yang
+
+<!-- marginal: 'urf ialah -->
+
+mungkin tahu mengenai kewujudan hak atau
 
 <!-- marginal: 'urf itu, -->
 
-qarinah jika ia wujud, ialah qarinah.
+<!-- marginal: qarinah -->
+
+jika ia wujud, ialah qarinah.
 
 Huraian—Ungkapan "hak atau 'urf " termasuklah hak atau 'urf yang umum bagi sebilangan besar golongan orang itu.
 
-Bila pendapat
+<!-- marginal: Bila pendapat -->
 
-37. Apabila Mahkamah perlu membuat sesuatu pendapat tentang tentang— kelaziman, rukun, dsb.,
+37. Apabila Mahkamah perlu membuat sesuatu pendapat
 
-(a) kelaziman dan rukun mana-mana kumpulan ialah qarinah. orang atau keluarga;
+<!-- marginal: tentang -->
+
+tentang—
+
+<!-- marginal: kelaziman, -->
+
+<!-- marginal: rukun, dsb., -->
+
+(a) kelaziman dan rukun mana-mana kumpulan
+
+<!-- marginal: ialah -->
+
+<!-- marginal: qarinah. -->
+
+orang atau keluarga;
 
 (b) penubuhan dan pentadbiran mana-mana yayasan agama atau khairat; atau
 
@@ -1336,9 +1642,27 @@ itu berwatak baik ialah qarinah.
 
 <!-- page 34 -->
 
-Watak
+<!-- marginal: Watak -->
 
-42. Dalam prosiding jenayah, fakta bahawa orang tertuduh buruk itu berwatak buruk tidaklah qarinah melainkan jika dahulu tidaklah keterangan telah diberikan bahawa dia berwatak baik, qarinah dan dalam hal yang demikian fakta itu menjadi qarinah. kecuali bagi menjawab.
+42. Dalam prosiding jenayah, fakta bahawa orang tertuduh
+
+<!-- marginal: buruk -->
+
+itu berwatak buruk tidaklah qarinah melainkan jika
+
+<!-- marginal: dahulu -->
+
+<!-- marginal: tidaklah -->
+
+keterangan telah diberikan bahawa dia berwatak baik,
+
+<!-- marginal: qarinah -->
+
+dan dalam hal yang demikian fakta itu menjadi qarinah.
+
+<!-- marginal: kecuali bagi -->
+
+<!-- marginal: menjawab. -->
 
 Huraian 7—Seksyen ini tidaklah terpakai bagi kes yang dalamnya watak buruk mana-mana orang adalah dengan sendirinya suatu fakta persoalan.
 
@@ -1354,15 +1678,45 @@ II
 
 ## FAKTA YANG TIDAK PERLU DIBUKTIKAN
 
-Fakta yang
+<!-- marginal: Fakta yang -->
 
-43. Tiada fakta yang mengenainya Mahkamah akan diberi memberikan pengiktirafan kehakiman perlu dibuktikan. pengiktirafan kehakiman tidak perlu dibuktikan.
+43. Tiada fakta yang mengenainya Mahkamah akan
 
-Fakta yang
+<!-- marginal: diberi -->
 
-44. (1) Mahkamah hendaklah memberikan pengiktirafan mengenainya kehakiman mengenai fakta yang berikut: Mahkamah mesti memberikan
+memberikan pengiktirafan kehakiman perlu dibuktikan.
 
-(a) semua undang-undang yang kini mempunyai pengiktirafan kuatkuasa undang-undang atau yang sebelum kehakiman. ini berkuatkuasa atau yang kemudian daripada ini akan berkuatkuasa di Malaysia;
+<!-- marginal: pengiktirafan -->
+
+<!-- marginal: kehakiman -->
+
+<!-- marginal: tidak perlu -->
+
+<!-- marginal: dibuktikan. -->
+
+<!-- marginal: Fakta yang -->
+
+44. (1) Mahkamah hendaklah memberikan pengiktirafan
+
+<!-- marginal: mengenainya -->
+
+kehakiman mengenai fakta yang berikut:
+
+<!-- marginal: Mahkamah -->
+
+<!-- marginal: mesti -->
+
+<!-- marginal: memberikan -->
+
+(a) semua undang-undang yang kini mempunyai
+
+<!-- marginal: pengiktirafan -->
+
+kuatkuasa undang-undang atau yang sebelum
+
+<!-- marginal: kehakiman. -->
+
+ini berkuatkuasa atau yang kemudian daripada ini akan berkuatkuasa di Malaysia;
 
 (b) tatakawalan angkatan tentera bagi angkatan tentera atau mana-mana angkatan pelawat yang berada di Malaysia secara sah;
 
@@ -1394,9 +1748,21 @@ Fakta yang
 
 jika dan sehingga orang itu mengemukakan apa-apa buku atau dokumen sebagaimana yang difikirkannya perlu bagi membolehkannya berbuat demikian.
 
-Fakta yang
+<!-- marginal: Fakta yang -->
 
-45. (1) Tertakluk kepada subseksyen 17(2), tiada fakta diakui tidak perlu dibuktikan dalam mana-mana prosiding jika pihak- perlu pihak dalam prosiding itu atau ejen mereka bersetuju dibuktikan. untuk mengakuinya dalam pendengaran itu atau yang sebelum pendengaran itu mereka bersetuju untuk mengaku dengan apa-apa tulisan di bawah tandatangan mereka, atau yang menurut apa-apa kaedah pliding yang sedang berkuatkuasa, mereka disifatkan telah mengakuinya dengan pliding mereka.
+45. (1) Tertakluk kepada subseksyen 17(2), tiada fakta
+
+<!-- marginal: diakui tidak -->
+
+perlu dibuktikan dalam mana-mana prosiding jika pihak-
+
+<!-- marginal: perlu -->
+
+pihak dalam prosiding itu atau ejen mereka bersetuju
+
+<!-- marginal: dibuktikan. -->
+
+untuk mengakuinya dalam pendengaran itu atau yang sebelum pendengaran itu mereka bersetuju untuk mengaku dengan apa-apa tulisan di bawah tandatangan mereka, atau yang menurut apa-apa kaedah pliding yang sedang berkuatkuasa, mereka disifatkan telah mengakuinya dengan pliding mereka.
 
 (2) Mahkamah boleh, menurut budi bicaranya, menghendaki supaya fakta yang diakui itu dibuktikan selain daripada dengan iqrar sedemikian.
 
@@ -1404,13 +1770,29 @@ Fakta yang
 
 ## KETERANGAN LISAN
 
-Pembuktian
+<!-- marginal: Pembuktian -->
 
-46. Segala fakta, kecuali kandungan dokumen, boleh fakta dengan dibuktikan dengan keterangan lisan. keterangan lisan.
+46. Segala fakta, kecuali kandungan dokumen, boleh
 
-Keterangan
+<!-- marginal: fakta dengan -->
 
-47. (1) Dalam segala hal apa jua pun, keterangan lisan lisan mestilah hendaklah diberikan secara langsung, iaitu— secara langsung.
+dibuktikan dengan keterangan lisan.
+
+<!-- marginal: keterangan -->
+
+<!-- marginal: lisan. -->
+
+<!-- marginal: Keterangan -->
+
+47. (1) Dalam segala hal apa jua pun, keterangan lisan
+
+<!-- marginal: lisan mestilah -->
+
+hendaklah diberikan secara langsung, iaitu—
+
+<!-- marginal: secara -->
+
+<!-- marginal: langsung. -->
 
 (a) jika ia merujuk kepada fakta yang boleh dilihat, maka ia mestilah keterangan saksi yang mengatakan dia telah melihat fakta itu;
 
@@ -1460,7 +1842,9 @@ Huraian 1—Jika sesuatu dokumen disempurnakan dalam beberapa bahagian, maka set
 
 Seseorang dibuktikan telah memiliki beberapa plakad, kesemuanya dicetak sekaligus daripada satu dokumen asal. Mana-mana satu daripada plakad itu ialah keterangan primer mengenai kandungan mana-mana plakad yang lain itu, tetapi tiada satu pun daripadanya menjadi keterangan primer bagi kandungan dokumen asal itu.
 
-Keterangan sekunder.
+<!-- marginal: Keterangan -->
+
+<!-- marginal: sekunder. -->
 
 50. Keterangan sekunder termasuklah—
 
@@ -1606,19 +1990,65 @@ Dengan syarat bahawa notis sedemikian tidaklah dikehendaki untuk menjadikan kete
 
 <!-- page 42 -->
 
-Pembuktian
+<!-- marginal: Pembuktian -->
 
-54. Jika sesuatu dokumen dikatakan telah ditandatangani dan tulisan atau telah ditulis keseluruhannya atau sebahagiannya oleh tangan orang yang dikata- mana-mana orang, maka tandatangan atau tulisan tangan kan telah mengenai sekian banyak daripada dokumen itu yang menanda- tangani atau dikatakan sebagai tulisan tangan orang itu hendaklah menulis dibuktikan sebagai dalam tulisan tangannya. dokumen yang di- kemukakan.
+54. Jika sesuatu dokumen dikatakan telah ditandatangani
 
-Pengakuan
+<!-- marginal: dan tulisan -->
 
-55. (1) Pengakuan tentang tulisan, tandatangan atau mengenai meterai hendaklah diterima sebagai pengakuan orang yang tulisan, tandatangan menulis atau yang menyempurnakan dokumen itu. atau meterai
+atau telah ditulis keseluruhannya atau sebahagiannya oleh
+
+<!-- marginal: tangan orang -->
+
+<!-- marginal: yang dikata- -->
+
+mana-mana orang, maka tandatangan atau tulisan tangan
+
+<!-- marginal: kan telah -->
+
+mengenai sekian banyak daripada dokumen itu yang
+
+<!-- marginal: menanda- -->
+
+<!-- marginal: tangani atau -->
+
+dikatakan sebagai tulisan tangan orang itu hendaklah
+
+<!-- marginal: menulis -->
+
+dibuktikan sebagai dalam tulisan tangannya.
+
+<!-- marginal: dokumen -->
+
+<!-- marginal: yang di- -->
+
+<!-- marginal: kemukakan. -->
+
+<!-- marginal: Pengakuan -->
+
+55. (1) Pengakuan tentang tulisan, tandatangan atau
+
+<!-- marginal: mengenai -->
+
+meterai hendaklah diterima sebagai pengakuan orang yang
+
+<!-- marginal: tulisan, -->
+
+<!-- marginal: tandatangan -->
+
+menulis atau yang menyempurnakan dokumen itu.
+
+<!-- marginal: atau meterai -->
 
 (2) Sesuatu pengakuan yang dibuat dalam dokumen yang ditulis atau yang disebabkan ditulis oleh seseorang di bawah tandatangan atau meterainya dan diserahkan kepada orang lain boleh diterima sebagai iqrar, dengan syarat bahawa subseksyen 17(2) dipatuhi.
 
-Pembuktian
+<!-- marginal: Pembuktian -->
 
-56. (1) Jika orang yang menyempurnakan sesuatu dokumen dokumen menafikan tulisan pada atau tanggungan yang diwujudkan dalam dokumen itu, maka tulisan dan penyempurnaan dokumen itu hendaklah dibuktikan oleh sekurang-kurangnya dua orang saksi kepada dokumen itu.
+56. (1) Jika orang yang menyempurnakan sesuatu
+
+<!-- marginal: dokumen -->
+
+dokumen menafikan tulisan pada atau tanggungan yang diwujudkan dalam dokumen itu, maka tulisan dan penyempurnaan dokumen itu hendaklah dibuktikan oleh sekurang-kurangnya dua orang saksi kepada dokumen itu.
 
 (2) Jika saksi-saksi kepada dokumen itu tidak dapat ditemui, tulisan dan penyempurnaan dokumen itu hendaklah dibuktikan oleh dua orang saksi yang boleh mengenai pasti tulisan dan tandatangan orang yang menulis dan menyempurnakan dokumen itu.
 
@@ -1664,19 +2094,57 @@ seksyen 57 ialah dokumen persendirian.
 
 <!-- page 44 -->
 
-Salinan
+<!-- marginal: Salinan -->
 
-59. Tiap-tiap pegawai awam yang mempunyai dalam diperakui jagaannya sesuatu dokumen awam yang mana-mana orang bagi dokumen mempunyai hak untuk memeriksa hendaklah memberi awam. orang itu, apabila diminta, suatu salinan dokumen itu apabila fee di sisi undang-undang baginya dibayar, berserta dengan suatu perakuan, yang ditulis di kaki salinan itu, bahawa ia adalah salinan yang benar bagi dokumen itu atau bahagiannya, mengikut mana-mana yang berkenaan, dan perakuan itu hendaklah ditarikhkan serta ditandatangani oleh pegawai itu dengan nama dan jawatan rasminya, dan hendaklah dimeteraikan bilamana pegawai itu dibenarkan oleh undang-undang untuk menggunakan sesuatu meterai, dan salinan yang diperakui sedemikian hendaklah dipanggil salinan diperakui.
+59. Tiap-tiap pegawai awam yang mempunyai dalam
+
+<!-- marginal: diperakui -->
+
+jagaannya sesuatu dokumen awam yang mana-mana orang
+
+<!-- marginal: bagi -->
+
+<!-- marginal: dokumen -->
+
+mempunyai hak untuk memeriksa hendaklah memberi
+
+<!-- marginal: awam. -->
+
+orang itu, apabila diminta, suatu salinan dokumen itu apabila fee di sisi undang-undang baginya dibayar, berserta dengan suatu perakuan, yang ditulis di kaki salinan itu, bahawa ia adalah salinan yang benar bagi dokumen itu atau bahagiannya, mengikut mana-mana yang berkenaan, dan perakuan itu hendaklah ditarikhkan serta ditandatangani oleh pegawai itu dengan nama dan jawatan rasminya, dan hendaklah dimeteraikan bilamana pegawai itu dibenarkan oleh undang-undang untuk menggunakan sesuatu meterai, dan salinan yang diperakui sedemikian hendaklah dipanggil salinan diperakui.
 
 Huraian—Mana-mana pegawai yang diberikuasa untuk menyerahkan salinan itu dalam perjalanan biasa tugas rasminya hendaklah disifatkan mempunyai jagaan ke atas dokumen itu dalam pengertian seksyen ini.
 
-Pembuktian
+<!-- marginal: Pembuktian -->
 
-60. Salinan yang diperakui mengikut cara yang dinyatakan dokumen dalam seksyen 59 boleh dikemukakan bagi membuktikan dengan pengemukaan kandungan dokumen awam atau bahagian dokumen awam salinan itu yang ia berupa sebagai salinannya. diperakui.
+60. Salinan yang diperakui mengikut cara yang dinyatakan
 
-Pembuktian
+<!-- marginal: dokumen -->
 
-61. (1) Dokumen awam yang berikut bolehlah dokumen dibuktikan seperti berikut: rasmi tertentu.
+dalam seksyen 59 boleh dikemukakan bagi membuktikan
+
+<!-- marginal: dengan -->
+
+<!-- marginal: pengemukaan -->
+
+kandungan dokumen awam atau bahagian dokumen awam
+
+<!-- marginal: salinan -->
+
+itu yang ia berupa sebagai salinannya.
+
+<!-- marginal: diperakui. -->
+
+<!-- marginal: Pembuktian -->
+
+61. (1) Dokumen awam yang berikut bolehlah
+
+<!-- marginal: dokumen -->
+
+dibuktikan seperti berikut:
+
+<!-- marginal: rasmi -->
+
+<!-- marginal: tertentu. -->
 
 (a) tindakan, perintah atau pemberitahuan Kerajaan Persekutuan atau mana-mana Kerajaan Negeri di dalam mana-mana jabatannya—
 
@@ -1726,9 +2194,29 @@ Dengan syarat bahawa dokumen itu adalah pada matannya mengikut bentuk dan berupa
 
 (2) Mahkamah hendaklah juga menganggap bahawa mana-mana pegawai yang olehnya mana-mana dokumen sedemikian berupa sebagai ditandatangani atau diperakui telah memegang, pada masa dia menandatanganinya, jawatan rasmi yang dinyatakannya dalam dokumen itu.
 
-Anggapan
+<!-- marginal: Anggapan -->
 
-63. Bilamana dikemukakan di hadapan mana-mana tentang Mahkamah mana-mana dokumen yang berupa sebagai dokumen yang suatu rekod atau memorandum mengenai keterangan atau dikemukakan mengenai mana-mana bahagian keterangan yang telah sebagai rekod keterangan diberikan oleh saksi dalam sesuatu prosiding kehakiman atau di hadapan mana-mana pegawai yang diberikuasa oleh undang-undang untuk mengambil keterangan itu, atau yang berupa sebagai suatu iqrar oleh mana-mana banduan atau orang tertuduh, yang telah diambil mengikut undang-undang dan berupa sebagai ditandatangani oleh mana-mana Hakim, Hakim Mahkamah Tinggi, Hakim Mahkamah Sesyen atau Majistret atau oleh mana-mana pegawai sedemikian yang disebut terdahulu, maka Mahkamah hendaklah menganggap bahawa—
+63. Bilamana dikemukakan di hadapan mana-mana
+
+<!-- marginal: tentang -->
+
+Mahkamah mana-mana dokumen yang berupa sebagai
+
+<!-- marginal: dokumen -->
+
+<!-- marginal: yang -->
+
+suatu rekod atau memorandum mengenai keterangan atau
+
+<!-- marginal: dikemukakan -->
+
+mengenai mana-mana bahagian keterangan yang telah
+
+<!-- marginal: sebagai rekod -->
+
+<!-- marginal: keterangan -->
+
+diberikan oleh saksi dalam sesuatu prosiding kehakiman atau di hadapan mana-mana pegawai yang diberikuasa oleh undang-undang untuk mengambil keterangan itu, atau yang berupa sebagai suatu iqrar oleh mana-mana banduan atau orang tertuduh, yang telah diambil mengikut undang-undang dan berupa sebagai ditandatangani oleh mana-mana Hakim, Hakim Mahkamah Tinggi, Hakim Mahkamah Sesyen atau Majistret atau oleh mana-mana pegawai sedemikian yang disebut terdahulu, maka Mahkamah hendaklah menganggap bahawa—
 
 (a) dokumen itu adalah tulen;
 
@@ -1736,9 +2224,19 @@ Anggapan
 
 (c) keterangan, pernyataan atau iqrar itu telah diambil dengan sewajarnya.
 
-Anggapan
+<!-- marginal: Anggapan -->
 
-64. Mahkamah hendaklah menganggap ketulenan tiap- tentang tiap dokumen yang berupa sebagai Warta Kerajaan Warta, Persekutuan atau mana-mana Kerajaan Negeri, atau berupa akhbar. dsb
+64. Mahkamah hendaklah menganggap ketulenan tiap-
+
+<!-- marginal: tentang -->
+
+tiap dokumen yang berupa sebagai Warta Kerajaan
+
+<!-- marginal: Warta, -->
+
+Persekutuan atau mana-mana Kerajaan Negeri, atau berupa
+
+<!-- marginal: akhbar. dsb -->
 
 <!-- page 47 -->
 
@@ -1852,13 +2350,43 @@ berkepentingan am, dan bahawa mana-mana peta atau carta yang disiarkan yang pern
 
 pemeriksaannya, telah ditulis dan disiarkan oleh orang yang olehnya dan pada masa dan di tempat di mana ia berupa sebagai telah ditulis atau disiarkan.
 
-Anggapan
+<!-- marginal: Anggapan -->
 
-70. Mahkamah boleh menganggap bahawa sesuatu tentang perutusan yang dihantar dari sesuatu pejabat telegraf perutusan telegraf. kepada orang yang kepadanya perutusan itu berupa sebagai ditujukan adalah bersamaan dengan perutusan yang telah diserahkan untuk dihantar di pejabat yang darinya perutusan itu berupa sebagai telah dihantar; tetapi Mahkamah tidak boleh membuat apa-apa anggapan tentang orang yang olehnya perutusan itu telah diserahkan untuk penghantaran.
+70. Mahkamah boleh menganggap bahawa sesuatu
 
-Anggapan
+<!-- marginal: tentang -->
 
-71. Mahkamah hendaklah menganggap bahawa tiap-tiap tentang pe- dokumen yang telah diminta dan tidak dikemukakan, nyempurnaan setelah notis supaya mengemukakannya diberikan di bawah wajar, dsb , dokumen seksyen 53, telah diakusaksi, disetem dan disempurnakan yang tidak mengikut cara yang dikehendaki oleh undang-undang. dikemukakan.
+perutusan yang dihantar dari sesuatu pejabat telegraf
+
+<!-- marginal: perutusan -->
+
+<!-- marginal: telegraf. -->
+
+kepada orang yang kepadanya perutusan itu berupa sebagai ditujukan adalah bersamaan dengan perutusan yang telah diserahkan untuk dihantar di pejabat yang darinya perutusan itu berupa sebagai telah dihantar; tetapi Mahkamah tidak boleh membuat apa-apa anggapan tentang orang yang olehnya perutusan itu telah diserahkan untuk penghantaran.
+
+<!-- marginal: Anggapan -->
+
+71. Mahkamah hendaklah menganggap bahawa tiap-tiap
+
+<!-- marginal: tentang pe- -->
+
+dokumen yang telah diminta dan tidak dikemukakan,
+
+<!-- marginal: nyempurnaan -->
+
+setelah notis supaya mengemukakannya diberikan di bawah
+
+<!-- marginal: wajar, dsb , -->
+
+<!-- marginal: dokumen -->
+
+seksyen 53, telah diakusaksi, disetem dan disempurnakan
+
+<!-- marginal: yang tidak -->
+
+mengikut cara yang dikehendaki oleh undang-undang.
+
+<!-- marginal: dikemukakan. -->
 
 ## BAHAGIAN
 
@@ -1870,13 +2398,33 @@ III
 
 ## BEBAN MEMBUKTIKAN
 
-Beban untuk
+<!-- marginal: Beban untuk -->
 
-72. Beban untuk mengemukakan keterangan dalam mengemukakan sesuatu kes mal terletak pada orang yang mengatakan keterangan dalam kes atau menegaskan sesuatu fakta (al Mudda'ii) dan orang mal yang mengangkat sumpah untuk menafikan atau mempertikaikan sesuatu fakta (al Mudda'a
+72. Beban untuk mengemukakan keterangan dalam
+
+<!-- marginal: mengemukakan -->
+
+sesuatu kes mal terletak pada orang yang mengatakan
+
+<!-- marginal: keterangan -->
+
+<!-- marginal: dalam kes -->
+
+atau menegaskan sesuatu fakta (al Mudda'ii) dan orang
+
+<!-- marginal: mal -->
+
+yang mengangkat sumpah untuk menafikan atau mempertikaikan sesuatu fakta (al Mudda'a
 
 <!-- marginal: 'alaih). -->
 
-73. (1) Sesiapa yang berhasrat supaya mana-mana Beban membuktikan. Mahkamah memberikan penghakiman tentang apa-apa hak atau tanggungan di sisi undang-undang yang bergantung kepada kewujudan fakta yang ditegaskan olehnya, mestilah membuktikan bahawa fakta itu wujud.
+73. (1) Sesiapa yang berhasrat supaya mana-mana
+
+<!-- marginal: Beban -->
+
+<!-- marginal: membuktikan. -->
+
+Mahkamah memberikan penghakiman tentang apa-apa hak atau tanggungan di sisi undang-undang yang bergantung kepada kewujudan fakta yang ditegaskan olehnya, mestilah membuktikan bahawa fakta itu wujud.
 
 <!-- page 49 -->
 
@@ -1966,9 +2514,37 @@ A mestilah membuktikan marad al-maut itu dan kematian B.
 
 A mestilah membuktikan bahawa dokumen itu telah hilang.
 
-Beban
+<!-- marginal: Beban -->
 
-77. Apabila seseorang dituduh atas apa-apa kesalahan, membuktikan maka beban membuktikan kewujudan hal keadaan yang bahawa kes orang menjadikan kes itu termasuk dalam mana-mana kecualian tertuduh am yang diperuntukkan dalam Akta Kesalahan Jenayah termasuk Syariah (Wilayah-Wilayah Persekutuan) 1996 terletak dalam kecualian. padanya, dan Mahkamah hendaklah menganggapkan hal Akta keadaan tersebut sebagai tidak ada.
+77. Apabila seseorang dituduh atas apa-apa kesalahan,
+
+<!-- marginal: membuktikan -->
+
+maka beban membuktikan kewujudan hal keadaan yang
+
+<!-- marginal: bahawa kes -->
+
+<!-- marginal: orang -->
+
+menjadikan kes itu termasuk dalam mana-mana kecualian
+
+<!-- marginal: tertuduh -->
+
+am yang diperuntukkan dalam Akta Kesalahan Jenayah
+
+<!-- marginal: termasuk -->
+
+Syariah (Wilayah-Wilayah Persekutuan) 1996 terletak
+
+<!-- marginal: dalam -->
+
+<!-- marginal: kecualian. -->
+
+padanya, dan Mahkamah hendaklah menganggapkan hal
+
+<!-- marginal: Akta -->
+
+keadaan tersebut sebagai tidak ada.
 
 ## MISALAN
 
@@ -1986,9 +2562,23 @@ C mendakwa bahawa dia telah berkahwin dengan D di negara asing.
 
 Beban membuktikan bahawa perkahwinan itu berlaku terletak pada C.
 
-Beban
+<!-- marginal: Beban -->
 
-78. Apabila mana-mana fakta diketahui secara khusus membuktikan fakta yang oleh mana-mana orang, maka beban membuktikan fakta diketahui itu terletak padanya. secara khusus.
+78. Apabila mana-mana fakta diketahui secara khusus
+
+<!-- marginal: membuktikan -->
+
+<!-- marginal: fakta yang -->
+
+oleh mana-mana orang, maka beban membuktikan fakta
+
+<!-- marginal: diketahui -->
+
+itu terletak padanya.
+
+<!-- marginal: secara -->
+
+<!-- marginal: khusus. -->
 
 ## MISALAN
 
@@ -2220,9 +2810,17 @@ Keterangan seorang perempuan yang menyusukan seorung bayi atau keterangan seoran
 
 (6) Kecuali sebagaimana yang diperuntukkan selainnya dalam seksyen ini, keterangan hendaklah diberikan oleh dua orang saksi lelaki atau oleh seorang saksi lelaki dan dua orang saksi perempuan.
 
-Cara mem-
+<!-- marginal: Cara mem- -->
 
-87. (1) Dalam kes mal, keterangan hendaklah diberikan berikan oleh plaintif dan defendan. dan jika defendan menafikan keterangan. tuntutan terhadapnya dia hendaklah dikehendaki mengangkat sumpah mengikut Hukum Syarak.
+87. (1) Dalam kes mal, keterangan hendaklah diberikan
+
+<!-- marginal: berikan -->
+
+oleh plaintif dan defendan. dan jika defendan menafikan
+
+<!-- marginal: keterangan. -->
+
+tuntutan terhadapnya dia hendaklah dikehendaki mengangkat sumpah mengikut Hukum Syarak.
 
 (2) (a) Jika defendan mengangkat sumpah di bawah subseksyen (1), tuntutan yang dibuat oleh plaintif hendaklah ditolak.
 
@@ -2230,7 +2828,23 @@ Cara mem-
 
 (3) Dalam kes jenayah, keterangan hendaklah diberikan bagi pendakwa dan bagi tertuduh melainkan jika tertuduh mengaku salah.
 
-88. Jika dalam kes mal, plaintif hanya mengemukakan Keterangan oleh saksi seorang saksi, keterangan saksi itu hanya boleh diterima tunggal dan jika keterangannya diberikan berserta dengan sumpah sumpah plaintif. plaintif itu.
+88. Jika dalam kes mal, plaintif hanya mengemukakan
+
+<!-- marginal: Keterangan -->
+
+<!-- marginal: oleh saksi -->
+
+seorang saksi, keterangan saksi itu hanya boleh diterima
+
+<!-- marginal: tunggal dan -->
+
+jika keterangannya diberikan berserta dengan sumpah
+
+<!-- marginal: sumpah -->
+
+<!-- marginal: plaintif. -->
+
+plaintif itu.
 
 <!-- page 55 -->
 
@@ -2304,9 +2918,25 @@ dan Mahkamah hendaklah menerima keterangan itu jika difikirkannya bahawa fakta i
 
 dikemukakan.
 
-Pemeriksaan
+<!-- marginal: Pemeriksaan -->
 
-91. (1) Pemeriksaan seseorang saksi oleh pihak yang utama, memanggilnya adalah disebut pemeriksaan utamanya. pemeriksaan balas dan pemeriksaan (2) Pemeriksaan seseorang saksi oleh pihak menentang semula. adalah disebut pemeriksaan balasnya.
+91. (1) Pemeriksaan seseorang saksi oleh pihak yang
+
+<!-- marginal: utama, -->
+
+memanggilnya adalah disebut pemeriksaan utamanya.
+
+<!-- marginal: pemeriksaan -->
+
+<!-- marginal: balas dan -->
+
+<!-- marginal: pemeriksaan -->
+
+(2) Pemeriksaan seseorang saksi oleh pihak menentang
+
+<!-- marginal: semula. -->
+
+adalah disebut pemeriksaan balasnya.
 
 (3) Jika seseorang saksi telah diperiksa balas dan kemudiannya diperiksa oleh pihak yang
 
@@ -2314,9 +2944,27 @@ Pemeriksaan
 
 memanggilnya, maka pemeriksaan itu adalah disebut pemeriksaan semulanya.
 
-Susunan
+<!-- marginal: Susunan -->
 
-92. (1) Saksi-saksi hendaklah mula-mulanya diperiksa pemeriksaan secara utama, kemudiannya, diperiksa balas jika dan arahan mengenai dikehendaki sedemikian oleh pihak menentang, pemeriksaan kemudiannya pula, diperiksa semula jika dikehendaki semula. sedemikian oleh pihak yang telah memanggil mereka.
+92. (1) Saksi-saksi hendaklah mula-mulanya diperiksa
+
+<!-- marginal: pemeriksaan -->
+
+secara utama, kemudiannya, diperiksa balas jika
+
+<!-- marginal: dan arahan -->
+
+<!-- marginal: mengenai -->
+
+dikehendaki sedemikian oleh pihak menentang,
+
+<!-- marginal: pemeriksaan -->
+
+kemudiannya pula, diperiksa semula jika dikehendaki
+
+<!-- marginal: semula. -->
+
+sedemikian oleh pihak yang telah memanggil mereka.
 
 (2) Pemeriksaan dan pemeriksaan balas mestilah berhubungan dengan fakta relevan, tetapi pemeriksaan balas tidak perlu dihadkan kepada fakta yang telah diberikan sebagai keterangan oleh saksi itu dalam pemeriksaan utamanya.
 
@@ -2396,9 +3044,21 @@ Mahkamah.
 
 <!-- page 58 -->
 
-Bila
+<!-- marginal: Bila -->
 
-97. (1) Soalan memimpin boleh ditanya dalam soalan pemeriksaan balas, tertakluk kepada syarat-syarat yang memimpin boleh berikut: ditanya.
+97. (1) Soalan memimpin boleh ditanya dalam
+
+<!-- marginal: soalan -->
+
+pemeriksaan balas, tertakluk kepada syarat-syarat yang
+
+<!-- marginal: memimpin -->
+
+<!-- marginal: boleh -->
+
+berikut:
+
+<!-- marginal: ditanya. -->
 
 (a) soalan itu tidak boleh mengandungi perkataan yang saksi itu dikehendaki memperkatakan balik; dan
 
@@ -2406,7 +3066,21 @@ Bila
 
 (2) Mahkamah boleh, menurut budi bicaranya, melarang soalan memimpin daripada dikemukakan kepada saksi yang menunjukkan kecenderungan yang kuat atau berat sebelah memihak kepada pihak yang memeriksa balas.
 
-98. Mana-mana saksi boleh ditanya semasa dalam Keterangan tentang pemeriksaan sama ada apa-apa kontrak, pemberian atau perkara pelupusan lain akan harta yang tentangnya dia memberikan bertulis keterangan tidak terkandung dalam sesuatu dokumen, dan jika dia mengatakan ada, atau jika dia hampir-hampir hendak membuat apa-apa pernyataan tentang kandungan apa-apa dokumen yang, pada pendapat Mahkamah, patut dikemukakan, maka pihak menentang boleh membantah terhadap pemberian keterangan itu sehingga dokumen itu dikemukakan atau sehingga terbukti fakta yang memberi hak kepada pihak yang telah memanggil saksi itu untuk memberikan keterangan sekunder mengenainya.
+98. Mana-mana saksi boleh ditanya semasa dalam
+
+<!-- marginal: Keterangan -->
+
+<!-- marginal: tentang -->
+
+pemeriksaan sama ada apa-apa kontrak, pemberian atau
+
+<!-- marginal: perkara -->
+
+pelupusan lain akan harta yang tentangnya dia memberikan
+
+<!-- marginal: bertulis -->
+
+keterangan tidak terkandung dalam sesuatu dokumen, dan jika dia mengatakan ada, atau jika dia hampir-hampir hendak membuat apa-apa pernyataan tentang kandungan apa-apa dokumen yang, pada pendapat Mahkamah, patut dikemukakan, maka pihak menentang boleh membantah terhadap pemberian keterangan itu sehingga dokumen itu dikemukakan atau sehingga terbukti fakta yang memberi hak kepada pihak yang telah memanggil saksi itu untuk memberikan keterangan sekunder mengenainya.
 
 Huraian—Seseorang saksi boleh memberikan keterangan lisan mengenai pernyutaan yang telah dibuat oleh orang lain mengenai kandungan dokumen jiku pernyataan itu dengan sendirinya ialah fakta relevan.
 
@@ -2466,9 +3140,41 @@ cenderung—
 
 jenayah atau boleh mendedahkan atau mungkin secara langsung atau tak langsung cenderung mendedahkannya kepada sesuatu penalti atau pelucuthakan.
 
-Mahkamah
+<!-- marginal: Mahkamah -->
 
-101. (1) Jika apa-apa soalan adalah berhubungan dengan akan sesuatu perkara yang tak relevan dengan guaman atau memutuskan bila soalan prosiding itu, kecuali setakat yang soalan itu menyentuh hendak kebolehpercayaan saksi itu dengan mencela wataknya, ditanya maka Mahkamah hendaklah memutuskan sama ada saksi dan bila saksi boleh itu boleh dipaksa menjawab soalan itu atau tidak, dan dipaksa Mahkamah boleh, jika difikirkannya bahawa saksi itu menjawab tidak patut dipaksa menjawab soalan itu, mengingatkan saksi itu bahawa dia tidak terpaksa menjawabnya.
+101. (1) Jika apa-apa soalan adalah berhubungan dengan
+
+<!-- marginal: akan -->
+
+sesuatu perkara yang tak relevan dengan guaman atau
+
+<!-- marginal: memutuskan -->
+
+<!-- marginal: bila soalan -->
+
+prosiding itu, kecuali setakat yang soalan itu menyentuh
+
+<!-- marginal: hendak -->
+
+kebolehpercayaan saksi itu dengan mencela wataknya,
+
+<!-- marginal: ditanya -->
+
+maka Mahkamah hendaklah memutuskan sama ada saksi
+
+<!-- marginal: dan bila -->
+
+<!-- marginal: saksi boleh -->
+
+itu boleh dipaksa menjawab soalan itu atau tidak, dan
+
+<!-- marginal: dipaksa -->
+
+Mahkamah boleh, jika difikirkannya bahawa saksi itu
+
+<!-- marginal: menjawab -->
+
+tidak patut dipaksa menjawab soalan itu, mengingatkan saksi itu bahawa dia tidak terpaksa menjawabnya.
 
 (2) Pada menjalankan budi bicaranya, Mahkamah hendaklah mengambil perhatian akan perkara yang berikut:
 
@@ -2562,13 +3268,63 @@ skandal, walaupun soalan atau pertanyaan itu mungkin
 
 ada hubungan dengan soalan-soalan yang ada di hadapan Mahkamah, melainkan jika soalan atau pertanyaan itu adalah berhubungan dengan fakta persoalan atau dengan perkara yang perlu diketahui untuk menentukan sama ada fakta persoalan itu wujud atau tidak.
 
-Soalan
+<!-- marginal: Soalan -->
 
-105. Mahkamah hendaklah melarang apa-apa soalan yang yang ternyata padanya bertujuan menghina atau menggusarkan, bertujuan menghina atau apa-apa soalan yang, walaupun dengan sendirinya atau meng- adalah wajar, ternyata pada Mahkamah berbentuk gusarkan. menyinggung dengan tak wajar.
+105. Mahkamah hendaklah melarang apa-apa soalan yang
 
-Penyingkiran
+<!-- marginal: yang -->
 
-106. Apabila seseorang saksi telah ditanya dan telah keterangan menjawab apa-apa soalan yang relevan kepada siasatan untuk menyangkal itu hanya setakat yang ia cenderung melemahkan keboleh- jawapan percayaannya dengan mencela wataknya, tiada keterangan kepada boleh diberikan untuk menyangkalnya; tetapi jika dia soalan yang memberikan jawapan palsu, maka dia boleh kemudiannya menguji dipertuduh kerana memberikan keterangan palsu. kebenaran. Kecualian 1—Jika seorang saksi ditanya sama ada dia dahulunya telah disabitkan atas apa-apa jenayah dan dia menafikannya, maka keterangan boleh diberikan mengenai sabitannya yang dahulu itu. Kecualian 2—Jika seorang saksi ditanya apa-apa soalan yang cenderung mencabar kesaksamaannya dan dia menjawab dengan menafikan fakta-fakta yang disarankan itu, maka dia boleh disangkal.
+ternyata padanya bertujuan menghina atau menggusarkan,
+
+<!-- marginal: bertujuan -->
+
+<!-- marginal: menghina -->
+
+atau apa-apa soalan yang, walaupun dengan sendirinya
+
+<!-- marginal: atau meng- -->
+
+adalah wajar, ternyata pada Mahkamah berbentuk
+
+<!-- marginal: gusarkan. -->
+
+menyinggung dengan tak wajar.
+
+<!-- marginal: Penyingkiran -->
+
+106. Apabila seseorang saksi telah ditanya dan telah
+
+<!-- marginal: keterangan -->
+
+menjawab apa-apa soalan yang relevan kepada siasatan
+
+<!-- marginal: untuk -->
+
+<!-- marginal: menyangkal -->
+
+itu hanya setakat yang ia cenderung melemahkan keboleh-
+
+<!-- marginal: jawapan -->
+
+percayaannya dengan mencela wataknya, tiada keterangan
+
+<!-- marginal: kepada -->
+
+boleh diberikan untuk menyangkalnya; tetapi jika dia
+
+<!-- marginal: soalan -->
+
+<!-- marginal: yang -->
+
+memberikan jawapan palsu, maka dia boleh kemudiannya
+
+<!-- marginal: menguji -->
+
+dipertuduh kerana memberikan keterangan palsu.
+
+<!-- marginal: kebenaran. -->
+
+Kecualian 1—Jika seorang saksi ditanya sama ada dia dahulunya telah disabitkan atas apa-apa jenayah dan dia menafikannya, maka keterangan boleh diberikan mengenai sabitannya yang dahulu itu. Kecualian 2—Jika seorang saksi ditanya apa-apa soalan yang cenderung mencabar kesaksamaannya dan dia menjawab dengan menafikan fakta-fakta yang disarankan itu, maka dia boleh disangkal.
 
 ## MISALAN
 
@@ -2630,9 +3386,33 @@ Huraian—Seseorang saksi yang mengatakan bahawa seorang saksi lain tidak boleh 
 
 <!-- page 64 -->
 
-Soalan yang
+<!-- marginal: Soalan yang -->
 
-109. Apabila seseorang saksi yang dicadang hendak cenderung disokong memberikan keterangan mengenai apa-apa fakta menyokong keterangan relevan, dia boleh disoal tentang apa-apa hal keadaan mengenai lain yang telah dilihatnya pada atau dekat dengan masa fakta relevan yang boleh atau tempat yang fakta relevan itu telah berlaku, jika diterima. Mahkamah berpendapat bahawa hal keadaan itu, jika terbukti akan menyokong testimoni saksi itu tentang fakta relevan yang mengenainya dia memberikan keterangan.
+109. Apabila seseorang saksi yang dicadang hendak
+
+<!-- marginal: cenderung -->
+
+disokong memberikan keterangan mengenai apa-apa fakta
+
+<!-- marginal: menyokong -->
+
+<!-- marginal: keterangan -->
+
+relevan, dia boleh disoal tentang apa-apa hal keadaan
+
+<!-- marginal: mengenai -->
+
+lain yang telah dilihatnya pada atau dekat dengan masa
+
+<!-- marginal: fakta relevan -->
+
+<!-- marginal: yang boleh -->
+
+atau tempat yang fakta relevan itu telah berlaku, jika
+
+<!-- marginal: diterima. -->
+
+Mahkamah berpendapat bahawa hal keadaan itu, jika terbukti akan menyokong testimoni saksi itu tentang fakta relevan yang mengenainya dia memberikan keterangan.
 
 ## MISALAN
 
@@ -2644,21 +3424,95 @@ kesalahan yang dalamnya dia telah mengambil bahagian. Dia memperihalkan berbagai
 
 Keterangan bebas mengenai fakta ini boleh diberikan untuk menyokong keterangannya itu tentang kesalahan itu sendiri.
 
-Pernyataan
+<!-- marginal: Pernyataan -->
 
-110. Bagi menyokong testimoni seorang saksi, apa-apa dahulu oleh pernyataan dahulu yang dibuat olehnya sama ada secara saksi boleh dibuktikan bertulis atau lisan, atas sumpah, atau dalam percakapan untuk biasa, berhubungan dengan fakta yang sama pada atau menyokong lebih kurang pada masa fakta itu telah berlaku, atau testimoni yang di hadapan mana-mana pihak berkuasa yang kompeten kemudian di sisi undang-undang untuk menyiasat fakta itu, boleh tentang fakta yang sama. dibuktikan.
+110. Bagi menyokong testimoni seorang saksi, apa-apa
 
-Perkara yang
+<!-- marginal: dahulu oleh -->
 
-111. Bilamana apa-apa fakta yang ditetapkan sebagai boleh qarinah di bawah seksyen 20 atau 21 terbukti, segala dibuktikan perkara boleh dibuktikan sama ada untuk menyangkal berkaitan dengan atau menyokong pernyataan itu, atau untuk mencabar pernyataan atau mengesahkan kebolehpercayaan orang yang
+pernyataan dahulu yang dibuat olehnya sama ada secara
+
+<!-- marginal: saksi boleh -->
+
+<!-- marginal: dibuktikan -->
+
+bertulis atau lisan, atas sumpah, atau dalam percakapan
+
+<!-- marginal: untuk -->
+
+biasa, berhubungan dengan fakta yang sama pada atau
+
+<!-- marginal: menyokong -->
+
+lebih kurang pada masa fakta itu telah berlaku, atau
+
+<!-- marginal: testimoni -->
+
+<!-- marginal: yang -->
+
+di hadapan mana-mana pihak berkuasa yang kompeten
+
+<!-- marginal: kemudian -->
+
+di sisi undang-undang untuk menyiasat fakta itu, boleh
+
+<!-- marginal: tentang fakta -->
+
+<!-- marginal: yang sama. -->
+
+dibuktikan.
+
+<!-- marginal: Perkara yang -->
+
+111. Bilamana apa-apa fakta yang ditetapkan sebagai
+
+<!-- marginal: boleh -->
+
+qarinah di bawah seksyen 20 atau 21 terbukti, segala
+
+<!-- marginal: dibuktikan -->
+
+perkara boleh dibuktikan sama ada untuk menyangkal
+
+<!-- marginal: berkaitan -->
+
+<!-- marginal: dengan -->
+
+atau menyokong pernyataan itu, atau untuk mencabar
+
+<!-- marginal: pernyataan -->
+
+atau mengesahkan kebolehpercayaan orang yang
 
 <!-- marginal: telah -->
 
-terbukti yang ialah qarinah membuatnya, yang mungkin boleh dibuktikan jika orang di bawah itu telah dipanggil sebagai saksi dan telah menafikan seksyen 20 atau 21. kebenaran perkara yang disarankan itu apabila diperiksa balas.
+<!-- marginal: terbukti yang -->
 
-Mengingat-
+<!-- marginal: ialah qarinah -->
 
-112. (1) Seseorang saksi boleh semasa di bawah kan pemeriksaan mengingatkan semula dengan merujuk kepada semula mana-mana tulisan yang telah dibuat olehnya sendiri pada masa transaksi yang mengenainya dia disoal, atau
+membuatnya, yang mungkin boleh dibuktikan jika orang
+
+<!-- marginal: di bawah -->
+
+itu telah dipanggil sebagai saksi dan telah menafikan
+
+<!-- marginal: seksyen 20 -->
+
+<!-- marginal: atau 21. -->
+
+kebenaran perkara yang disarankan itu apabila diperiksa balas.
+
+<!-- marginal: Mengingat- -->
+
+112. (1) Seseorang saksi boleh semasa di bawah
+
+<!-- marginal: kan -->
+
+pemeriksaan mengingatkan semula dengan merujuk kepada
+
+<!-- marginal: semula -->
+
+mana-mana tulisan yang telah dibuat olehnya sendiri pada masa transaksi yang mengenainya dia disoal, atau
 
 <!-- page 65 -->
 
@@ -2740,25 +3594,93 @@ tulisan itu.
 
 <!-- page 66 -->
 
-Penge-
+<!-- marginal: Penge- -->
 
-115. (1) Seseorang saksi yang disaman untuk mukaan mengemukakan sesuatu dokumen hendaklah,
+115. (1) Seseorang saksi yang disaman untuk
+
+<!-- marginal: mukaan -->
+
+mengemukakan sesuatu dokumen hendaklah,
 
 <!-- marginal: jika -->
 
-dokumen dan dokumen itu ada dalam miliknya atau di bawah kuasanya, terjemahan- membawa dokumen itu ke Mahkamah walaupun mungkin nya. ada apa-apa bantahan terhadap pengemukaannya atau kebolehterimaannya. Kesahan apa-apa bantahan sedemikian hendaklah diputuskan oleh Mahkamah.
+<!-- marginal: dokumen -->
+
+<!-- marginal: dan -->
+
+dokumen itu ada dalam miliknya atau di bawah kuasanya,
+
+<!-- marginal: terjemahan- -->
+
+membawa dokumen itu ke Mahkamah walaupun mungkin
+
+<!-- marginal: nya. -->
+
+ada apa-apa bantahan terhadap pengemukaannya atau kebolehterimaannya. Kesahan apa-apa bantahan sedemikian hendaklah diputuskan oleh Mahkamah.
 
 (2) Mahkamah boleh, jika didapatinya patut, memeriksa dokumen itu melainkan jika dokumen itu merujuk kepada hal-ehwal Negara, atau mengambil keterangan lain bagi membolehkannya menentukan kebolehterimaan dokumen itu.
 
 (3) Jika bagi maksud itu adalah perlu untuk menyebabkan mana-rnana dokumen diterjemahkan, Mahkamah boleh, jika difikirkannya patut, mengarahkan penterjemah supaya merahsiakan kandungan dokumen itu melainkan jika dokumen itu akan dikemukakan dalam keterangan.
 
-Memberikan
+<!-- marginal: Memberikan -->
 
-116. Apabila suatu pihak meminta sesuatu dokumen sebagai yang mengenainya pihak yang satu lagi itu telah diberikan keterangan dokumen notis supaya mengemukakannya, dan dokumen itu yang diminta dikemukakan dan diperiksa oleh pihak yang meminta dan dikemukakan supaya ia dikemukakan, pihak itu adalah terikat untuk setelah notis memberikannya sebagai keterangan jika pihak yang diberikan mengemukakannya menghendakinya berbuat demikian dan jika dokumen itu relevan.
+116. Apabila suatu pihak meminta sesuatu dokumen
 
-Mengguna-
+<!-- marginal: sebagai -->
 
-117. Apabila suatu pihak enggan mengemukakan sesuatu kan sebagai dokumen yang dia telah diberikan notis supaya keterangan dokumen mengemukakannya, dia tidak boleh kemudiannya yang enggan menggunakan dokumen itu sebagai keterangan tanpa dikemukakan setelah notis persetujuan pihak yang satu lagi itu atau tanpa perintah diberikan. Mahkamah.
+yang mengenainya pihak yang satu lagi itu telah diberikan
+
+<!-- marginal: keterangan -->
+
+<!-- marginal: dokumen -->
+
+notis supaya mengemukakannya, dan dokumen itu
+
+<!-- marginal: yang diminta -->
+
+dikemukakan dan diperiksa oleh pihak yang meminta
+
+<!-- marginal: dan -->
+
+<!-- marginal: dikemukakan -->
+
+supaya ia dikemukakan, pihak itu adalah terikat untuk
+
+<!-- marginal: setelah notis -->
+
+memberikannya sebagai keterangan jika pihak yang
+
+<!-- marginal: diberikan -->
+
+mengemukakannya menghendakinya berbuat demikian dan jika dokumen itu relevan.
+
+<!-- marginal: Mengguna- -->
+
+117. Apabila suatu pihak enggan mengemukakan sesuatu
+
+<!-- marginal: kan sebagai -->
+
+dokumen yang dia telah diberikan notis supaya
+
+<!-- marginal: keterangan -->
+
+<!-- marginal: dokumen -->
+
+mengemukakannya, dia tidak boleh kemudiannya
+
+<!-- marginal: yang enggan -->
+
+menggunakan dokumen itu sebagai keterangan tanpa
+
+<!-- marginal: dikemukakan -->
+
+<!-- marginal: setelah notis -->
+
+persetujuan pihak yang satu lagi itu atau tanpa perintah
+
+<!-- marginal: diberikan. -->
+
+Mahkamah.
 
 ## MISALAN
 
@@ -2852,9 +3774,13 @@ dengannya.
 
 (c) Jika saksi itu seorang awam, dia hendaklah diperiksa melalui seorang pemastautin yang boleh dipercayai yang bermastautin di tempat di mana dia bermastautin.
 
-Pemeriksaan
+<!-- marginal: Pemeriksaan -->
 
-121. (1) Suatu pemeriksaan rahsia hendaklah dijalankan rahsia melalui suatu surat rahsia yang dalamnya ditulis oleh Hakim nama defendan atau tertuduh dan hal perkara tuntutan atau pertuduhan itu, mengikut mana-mana yang berkenaan, nama saksi, pengenalannya, kerjanya dan tempat tinggalnya.
+121. (1) Suatu pemeriksaan rahsia hendaklah dijalankan
+
+<!-- marginal: rahsia -->
+
+melalui suatu surat rahsia yang dalamnya ditulis oleh Hakim nama defendan atau tertuduh dan hal perkara tuntutan atau pertuduhan itu, mengikut mana-mana yang berkenaan, nama saksi, pengenalannya, kerjanya dan tempat tinggalnya.
 
 (2) Surat rahsia itu hendaklah dimasukkan ke dalam sampul termetri dan diserahkan oleh Mahkamah kepada orang yang dilantik sebagai pemeriksa rahsia itu.
 
@@ -2862,11 +3788,25 @@ Pemeriksaan
 
 (4) Jika surat rahsia itu dikembalikan kepada Hakim dengan perkataan "tidak 'adir atau "Wallahu a'alan" atau apa-apa perkataan lain yang bermaksud sedemikian tertulis padanya, atau jika tiada apa-apa ditulis padanya, Hakim tidak boleh menerima keterangan saksi itu dan boleh meminta seorang saksi lain dikemukakan.
 
-Bilangan 122. Pemeriksaan rahsia itu boleh dijalankan oleh seorang pemeriksa pemeriksa rahsia atau lebih sebagaimana yang ditentukan rahsia. oleh Hakim.
+<!-- marginal: Bilangan -->
 
-Pemeriksaan
+122. Pemeriksaan rahsia itu boleh dijalankan oleh seorang
 
-123. (1) Hakim boleh memerintahkan supaya seseorang terbuka saksi diperiksa di dalam Mahkamah terbuka walaupun saksi itu telah tertakluk kepada pemeriksaan rahsia dan didapati 'adil oleh pemeriksa rahsia itu.
+<!-- marginal: pemeriksa -->
+
+pemeriksa rahsia atau lebih sebagaimana yang ditentukan
+
+<!-- marginal: rahsia. -->
+
+oleh Hakim.
+
+<!-- marginal: Pemeriksaan -->
+
+123. (1) Hakim boleh memerintahkan supaya seseorang
+
+<!-- marginal: terbuka -->
+
+saksi diperiksa di dalam Mahkamah terbuka walaupun saksi itu telah tertakluk kepada pemeriksaan rahsia dan didapati 'adil oleh pemeriksa rahsia itu.
 
 <!-- page 69 -->
 
@@ -2954,17 +3894,31 @@ berhubungan dengan mu'amalat, Hakim boleh menjalankan pemeriksaan atas keteranga
 
 <!-- page 70 -->
 
-Bila saksi
+<!-- marginal: Bila saksi -->
 
-129. Jika hal keadaan berkehendakkan sedemikian atau dikehendaki pemeriksaan saksi di bawah Bahagian ini tidak dapat mengangkat sumpah dijalankan dan suatu pihak kepada prosiding itu membuat permohonan kepada Hakim supaya saksi itu mengangkat sumpah sebagai saksi benar bagi menguatkan keterangannya, Hakim hendaklah memerintahkan saksi itu mengangkat sumpah sedemikian dan hendaklah mengingatkan saksi itu bahawa jika dia tidak berbuat demikian keterangannya tidak boleh diterima.
+129. Jika hal keadaan berkehendakkan sedemikian atau
+
+<!-- marginal: dikehendaki -->
+
+pemeriksaan saksi di bawah Bahagian ini tidak dapat
+
+<!-- marginal: mengangkat -->
+
+<!-- marginal: sumpah -->
+
+dijalankan dan suatu pihak kepada prosiding itu membuat permohonan kepada Hakim supaya saksi itu mengangkat sumpah sebagai saksi benar bagi menguatkan keterangannya, Hakim hendaklah memerintahkan saksi itu mengangkat sumpah sedemikian dan hendaklah mengingatkan saksi itu bahawa jika dia tidak berbuat demikian keterangannya tidak boleh diterima.
 
 ## BAB IV
 
 AM
 
-Rujukan
+<!-- marginal: Rujukan -->
 
-130. (1) Mana-mana peruntukan atau tafsiran peruntukan muktamad, Akta ini yang tak konsisten dengan Hukum Syarak adalah tidak sah setakat yang ia tak konsisten itu.
+130. (1) Mana-mana peruntukan atau tafsiran peruntukan
+
+<!-- marginal: muktamad, -->
+
+Akta ini yang tak konsisten dengan Hukum Syarak adalah tidak sah setakat yang ia tak konsisten itu.
 
 (2) Jika terdapat apa-apa perkara yang
 
@@ -2972,15 +3926,59 @@ Rujukan
 
 diperuntukkan atau tidak dinyatakan dengan jelas dalam Akta ini, Mahkamah hendaklah merujuk kepada Hukum Syarak.
 
-Pember-
+<!-- marginal: Pember- -->
 
-131. Apabila Akta ini mula berkuatkuasa, Akta hentian Keterangan 1950 tidaklah terpakai bagi Mahkamah. pemakaian Akta Keterangan 1950 Akta 56.
+131. Apabila Akta ini mula berkuatkuasa, Akta
 
-Pember-
+<!-- marginal: hentian -->
 
-132. Seksyen 53 Enakmen Pentadbiran Hukum Syara' hentian 1952 bagi Negeri Selangor, sebagaimana yang pemakaian Enakmen diubahsuaikan oleh Perintah Wilayah Persekutuan En, Sel (Pengubahsuaian Enakmen Pentadbiran Hukum Syara') 3/52 P U. (A) 1974 dan Perintah Wilayah Persekutuan Labuan 44/74 (Pengubahsuaian dan Peluasan Enakmen Pentadbiran P.U
+Keterangan 1950 tidaklah terpakai bagi Mahkamah.
 
-(A) 352/85. Hukum Syara') 1985 hendaklah terhenti daripada terpakai bagi Wilayah-Wilayah Persekutuan.
+<!-- marginal: pemakaian -->
+
+<!-- marginal: Akta -->
+
+<!-- marginal: Keterangan -->
+
+<!-- marginal: 1950 -->
+
+<!-- marginal: Akta 56. -->
+
+<!-- marginal: Pember- -->
+
+132. Seksyen 53 Enakmen Pentadbiran Hukum Syara'
+
+<!-- marginal: hentian -->
+
+1952 bagi Negeri Selangor, sebagaimana yang
+
+<!-- marginal: pemakaian -->
+
+<!-- marginal: Enakmen -->
+
+diubahsuaikan oleh Perintah Wilayah Persekutuan
+
+<!-- marginal: En, Sel -->
+
+(Pengubahsuaian Enakmen Pentadbiran Hukum Syara')
+
+<!-- marginal: 3/52 -->
+
+<!-- marginal: P U. (A) -->
+
+1974 dan Perintah Wilayah Persekutuan Labuan
+
+<!-- marginal: 44/74 -->
+
+(Pengubahsuaian dan Peluasan Enakmen Pentadbiran
+
+<!-- marginal: P.U -->
+
+(A)
+
+<!-- marginal: 352/85. -->
+
+Hukum Syara') 1985 hendaklah terhenti daripada terpakai bagi Wilayah-Wilayah Persekutuan.
 
 <!-- page 71 -->
 
@@ -3022,11 +4020,7 @@ Rang Undang-Undang ini bertujuan mentakrifkan undang-undang keterangan bagi Mahk
 
 ## BAHAGIAN II
 
-10. Bahagian II mengandungi peruntukan berhubungan dengan pembuktian.
-
-11. Bab 1 memperkatakan fakta yang tidak perlu dibuktikan. Fakta yang diberi pengiktirafan kehakiman (fasal 43) dan fakta yang diakui (fasal 45) tidak perlu dibuktikan. Fakta yang mengenainya Mahkamah mesti memberikan pengiktirafan kehakiman adalah diperuntukkan dalam fasal 44.
-
-12. Bab 2 memperkatakan keterangan lisan. Fasal 46 memperkatakan pembuktian fakta yang boleh dibuat dengan keterangan lisan, dan keterangan lisan sedemikian mestilah secara langsung (fasal 47).
+10. Bahagian II mengandungi peruntukan berhubungan dengan pembuktian. 11. Bab 1 memperkatakan fakta yang tidak perlu dibuktikan. Fakta yang diberi pengiktirafan kehakiman (fasal 43) dan fakta yang diakui (fasal 45) tidak perlu dibuktikan. Fakta yang mengenainya Mahkamah mesti memberikan pengiktirafan kehakiman adalah diperuntukkan dalam fasal 44. 12. Bab 2 memperkatakan keterangan lisan. Fasal 46 memperkatakan pembuktian fakta yang boleh dibuat dengan keterangan lisan, dan keterangan lisan sedemikian mestilah secara langsung (fasal 47).
 
 <!-- page 73 -->
 

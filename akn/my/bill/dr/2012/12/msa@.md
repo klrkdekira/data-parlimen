@@ -36,7 +36,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 1. (1) Akta ini bolehlah dinamakan Akta Pingat Tentera Udara (Elaun Kenangan) 2012.
 
-(2) Akta ini disifatkan telah mula berkuat kuasa pada 1 Julai 2011.
+(2) Akta ini disifatkan telah mula berkuat kuasa pada 1 Julai
+
+2011.
 
 ### Tafsiran
 

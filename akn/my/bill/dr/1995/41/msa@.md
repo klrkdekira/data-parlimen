@@ -14,17 +14,27 @@ Suatu Akta untuk meminda Akta Pasport 1966. [ ]
 
 oleh Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan Dewan Negara dan Dewan Rakyat yang bersidang dalam Parlimen, dan dengan kuasa daripadanya, seperti berikut:
 
-Tajuk ringkas
+<!-- marginal: Tajuk ringkas -->
 
-1. (1) Akta ini bolehlah dinamakan Akta Pasport (Pindaan) dan mula
+1. (1) Akta ini bolehlah dinamakan Akta Pasport (Pindaan)
 
-1995. berkuatkuasa.
+<!-- marginal: dan mula -->
+
+1995.
+
+<!-- marginal: berkuatkuasa. -->
 
 (2) Akta ini hendaklah mula berkuatkuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-2. Akta Pasport 1966, yang disebut "Akta ibu" dalam Akta seksyen 1A. ini, adalah dipinda dalam seksyen 1A— Akta 150.
+2. Akta Pasport 1966, yang disebut "Akta ibu" dalam Akta
+
+<!-- marginal: seksyen 1A. -->
+
+ini, adalah dipinda dalam seksyen 1A—
+
+<!-- marginal: Akta 150. -->
 
 (a) dengan memotong takrif "alien" dan "Commonwealth citizen";
 
@@ -50,19 +60,31 @@ Pindaan
 
 ' "police officer" and "senior police officer" have the meaning assigned to them respectively Act 344 in the Police Act 1967;'.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Subseksyen 2(1) Akta ibu adalah dipinda dengan seksyen 2. menggantikan perkataan "an alien" dengan perkataan "a non-citizen".
+3. Subseksyen 2(1) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 2. -->
 
-4. Subseksyen 6(3) Akta ibu adalah dipinda dengan seksyen 6. menggantikan perkataan "one thousand dollars" dan "six months" masing-masingnya dengan perkataan "five thousand ringgit" dan "one year".
+menggantikan perkataan "an alien" dengan perkataan "a non-citizen".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-5. Seksyen 9 Akta ibu adalah dipinda dengan menggantikan seksyen 9. perkataan "an alien" di mana-mana jua ia terdapat dengan perkataan "a non-citizen".
+4. Subseksyen 6(3) Akta ibu adalah dipinda dengan
 
-Penggantian
+<!-- marginal: seksyen 6. -->
+
+menggantikan perkataan "one thousand dollars" dan "six months" masing-masingnya dengan perkataan "five thousand ringgit" dan "one year".
+
+<!-- marginal: Pindaan -->
+
+5. Seksyen 9 Akta ibu adalah dipinda dengan menggantikan
+
+<!-- marginal: seksyen 9. -->
+
+perkataan "an alien" di mana-mana jua ia terdapat dengan perkataan "a non-citizen".
+
+<!-- marginal: Penggantian -->
 
 6. Akta ibu adalah dipinda dengan menggantikan seksyen 10 dengan seksyen yang berikut:
 
@@ -72,17 +94,43 @@ Penggantian
 
 committed or is attempting to commit an offence under this Act.
 
-(2) In the exercise of his powers of arrest under subsection (1), an immigration officer or an officer of customs shall be bound to comply with section F.M.S. 28 of the Criminal Procedure Code. Cap. 6
+(2) In the exercise of his powers of arrest under subsection (1), an immigration officer or an officer of customs shall be bound to comply with section
+
+<!-- marginal: F.M.S. -->
+
+28 of the Criminal Procedure Code.
+
+<!-- marginal: Cap. 6 -->
 
 (3) Where any person has been arrested under subsection (1), he shall thereafter be dealt with as provided by the Criminal Procedure Code.
 
 (4) A senior immigration officer, senior police officer or senior officer of customs may, in relation to any investigation in respect of a seizable offence committed under this Act, exercise the special powers in relation to police investigations given by the Criminal Procedure Code.".
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
-7. Akta ibu adalah dipinda dengan memasukkan selepas 10A, 10B, seksyen 10 seksyen yang berikut: l0C, 10D, 10E, 10F dan "Power to 10G.
+7. Akta ibu adalah dipinda dengan memasukkan selepas
 
-10A. (1) If it appears to a Magistrate upon search and written information on oath and after such enquiry seize. as he considers necessary that there is reasonable cause to believe that—
+<!-- marginal: 10A, 10B, -->
+
+seksyen 10 seksyen yang berikut:
+
+<!-- marginal: l0C, 10D, -->
+
+<!-- marginal: 10E, 10F dan -->
+
+<!-- marginal: "Power to -->
+
+<!-- marginal: 10G. -->
+
+10A. (1) If it appears to a Magistrate upon
+
+<!-- marginal: search and -->
+
+written information on oath and after such enquiry
+
+<!-- marginal: seize. -->
+
+as he considers necessary that there is reasonable cause to believe that—
 
 (a) any premises have been used or are about to be used for; or
 
@@ -100,11 +148,31 @@ the commission of an offence under this Act, the Magistrate may issue a warrant 
 
 (c) detain every person found in the premises until it has been searched.
 
-Search and
+<!-- marginal: Search and -->
 
-10B. If a senior immigration officer, a senior police seizure officer or a senior officer of customs in any of without warrant. the circumstances referred to in section 10A has reasonable cause to believe that by reason of delay in obtaining a search warrant under that section the investigation would be adversely affected or the material, instrument, machinery or other thing sought may be removed or the evidence sought may be tampered with, he may exercise in, upon and in respect of the premises all the powers referred to in section 10A in as full and ample a manner as if he were authorised to do so by a warrant issued under that section.
+10B. If a senior immigration officer, a senior police
 
-Power to l0C. (1) Notwithstanding anything contained in stop and any other written law, if— search conveyances.
+<!-- marginal: seizure -->
+
+officer or a senior officer of customs in any of
+
+<!-- marginal: without -->
+
+<!-- marginal: warrant. -->
+
+the circumstances referred to in section 10A has reasonable cause to believe that by reason of delay in obtaining a search warrant under that section the investigation would be adversely affected or the material, instrument, machinery or other thing sought may be removed or the evidence sought may be tampered with, he may exercise in, upon and in respect of the premises all the powers referred to in section 10A in as full and ample a manner as if he were authorised to do so by a warrant issued under that section.
+
+<!-- marginal: Power to -->
+
+l0C. (1) Notwithstanding anything contained in
+
+<!-- marginal: stop and -->
+
+any other written law, if—
+
+<!-- marginal: search -->
+
+<!-- marginal: conveyances. -->
 
 (a) any senior immigration officer, senior police officer or senior officer of customs; or
 
@@ -128,9 +196,17 @@ other thing in respect of which there is or has been any contravention of this A
 
 (3) Any person who fails to comply with subsection (2) shall be guilty of an offence and shall on conviction, be liable to a fine not exceeding three thousand ringgit or to imprisonment for a term not exceeding twelve months or to both.
 
-Seizure of
+<!-- marginal: Seizure of -->
 
-10D. (1) Any material, instrument, machinery or material, other thing that is reasonably suspected of having etc. been used or is to be used in the commission of any offence under this Act may be seized and detained by any senior immigration officer, senior police officer or senior officer of customs.
+10D. (1) Any material, instrument, machinery or
+
+<!-- marginal: material, -->
+
+other thing that is reasonably suspected of having
+
+<!-- marginal: etc. -->
+
+been used or is to be used in the commission of any offence under this Act may be seized and detained by any senior immigration officer, senior police officer or senior officer of customs.
 
 (2) Where any seizure is made under subsection
 
@@ -144,9 +220,17 @@ Provided that no notice shall be required to be given where the seizure or deten
 
 (3) For the purpose of this section, "owner" includes an agent or representative of the owner.
 
-Forfeiture
+<!-- marginal: Forfeiture -->
 
-10E. (1) Any material, instrument, machinery or of material, other thing liable to seizure or detention under etc. seized. this Act shall be liable to forfeiture.
+10E. (1) Any material, instrument, machinery or
+
+<!-- marginal: of material, -->
+
+other thing liable to seizure or detention under
+
+<!-- marginal: etc. seized. -->
+
+this Act shall be liable to forfeiture.
 
 (2) Where any material, instrument, machinery or other thing has been seized under this Act, a senior immigration officer, senior police officer or senior officer of customs may, at his discretion, temporarily release such material, instrument, machinery or other thing to the owner of the same on security being furnished to his satisfaction that such material, instrument, machinery or other thing shall be surrendered to him on demand or produced before a court of competent jurisdiction on demand.
 
@@ -156,7 +240,9 @@ Forfeiture
 
 <!-- page 7 -->
 
-machinery or other thing shall be taken and deemed to be forfeited at the expiration of one calendar month from the date of seizure unless before that date a claim thereto is made in the following manner:
+machinery or other thing shall be taken and deemed to be forfeited at the expiration of one calendar month from the date of seizure unless before that date a claim thereto is made in the following
+
+<!-- marginal: manner: -->
 
 (a) any person asserting that he is the owner of such material, instrument, machinery or other thing and that it is not liable to forfeiture may personally or by his agent authorised in writing give written notice to the senior immigration officer, senior police officer or senior officer of customs in whose possession such material, instrument, machinery or other thing is held that he claims the same;
 
@@ -168,23 +254,41 @@ machinery or other thing shall be taken and deemed to be forfeited at the expira
 
 ## RANG UNDANG-UNDANG
 
-8
+<!-- marginal: 8 -->
 
-No costs,
+<!-- marginal: No costs, -->
 
-10F. No person shall, in any proceedings before damages, any court in respect of the seizure of any material, etc. on seizure. instrument, machinery or other thing seized or detained in the exercise or the purported exercise of any power conferred under this Act, be entitled to the costs of such proceedings or to any damages or other relief other than an order for the return of such material, instrument, machinery or other thing or the payment of its value unless such seizure was made without reasonable or probable cause.
+10F. No person shall, in any proceedings before
 
-Power to
+<!-- marginal: damages, -->
 
-10G. (1) Subject to subsection (2), every senior prosecute. immigration officer, senior police officer or senior officer of customs shall have the authority to appear in court and to conduct any prosecution in respect of an offence under this Act:
+any court in respect of the seizure of any material,
+
+<!-- marginal: etc. on -->
+
+<!-- marginal: seizure. -->
+
+instrument, machinery or other thing seized or detained in the exercise or the purported exercise of any power conferred under this Act, be entitled to the costs of such proceedings or to any damages or other relief other than an order for the return of such material, instrument, machinery or other thing or the payment of its value unless such seizure was made without reasonable or probable cause.
+
+<!-- marginal: Power to -->
+
+10G. (1) Subject to subsection (2), every senior
+
+<!-- marginal: prosecute. -->
+
+immigration officer, senior police officer or senior officer of customs shall have the authority to appear in court and to conduct any prosecution in respect of an offence under this Act:
 
 Provided that in the case of a senior immigration officer or a senior officer of customs, such authority shall be subject to the approval of the Director General or the Director General of Customs and Excise, respectively.
 
 (2) No prosecution in respect of any offence under this Act shall be instituted without the written consent of the Public Prosecutor.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-8. Seksyen 12 Akta ibu adalah dipinda dengan menggantikan seksyen 12. subseksyen (1) dengan subseksyen yang berikut:
+8. Seksyen 12 Akta ibu adalah dipinda dengan menggantikan
+
+<!-- marginal: seksyen 12. -->
+
+subseksyen (1) dengan subseksyen yang berikut:
 
 " (1) Any person who—
 
@@ -210,37 +314,87 @@ Pindaan
 
 shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding five years or to both.".
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
-9. Akta ibu adalah dipinda dengan memasukkan selepas 1 2A, 1 2B , seksyen 12 seksyen yang berikut: 12C dan 12D. "Offence
+9. Akta ibu adalah dipinda dengan memasukkan selepas
 
-12A. Any person who with intent to obtain for relating to any other person a passport, internal travel procure- ment of document, or an endorsement or visa on a passport, passport. knowingly makes any false statement or produces etc. for another any document which to his knowledge is false in person. any particular shall be guilty of an offence and
+<!-- marginal: 1 2A, 1 2B , -->
+
+seksyen 12 seksyen yang berikut:
+
+<!-- marginal: 12C dan 12D. -->
+
+<!-- marginal: "Offence -->
+
+12A. Any person who with intent to obtain for
+
+<!-- marginal: relating to -->
+
+any other person a passport, internal travel
+
+<!-- marginal: procure- -->
+
+<!-- marginal: ment of -->
+
+document, or an endorsement or visa on a passport,
+
+<!-- marginal: passport. -->
+
+knowingly makes any false statement or produces
+
+<!-- marginal: etc. for -->
+
+<!-- marginal: another -->
+
+any document which to his knowledge is false in
+
+<!-- marginal: person. -->
+
+any particular shall be guilty of an offence and
 
 <!-- page 10 -->
 
 shall, on conviction, be liable to a fine of not less than ten thousand ringgit but not more than fifty thousand ringgit and imprisonment for a term of not less than one year but not more than five years.
 
-Making of
+<!-- marginal: Making of -->
 
-12B. Any person who makes any false document— false passport,
+12B. Any person who makes any false document—
 
-(a) intending it to be used by himself or by etc. any other person; or
+<!-- marginal: false -->
+
+<!-- marginal: passport, -->
+
+(a) intending it to be used by himself or by
+
+<!-- marginal: etc. -->
+
+any other person; or
 
 (b) that is used by himself or by any other person,
 
 as a passport for the purposes of this Act shall be guilty of an offence and shall, on conviction, be liable to a fine of not less than fifteen thousand ringgit but not more than one hundred thousand ringgit and imprisonment for a term of not less than two years but not more than ten years and with whipping of not more than six strokes of the rotan.
 
-Rewards.
+<!-- marginal: Rewards. -->
 
 12C. The Director General may order such reward as he thinks fit to be paid to any person for any service rendered in connection with the detection and prosecution of an offence under this Act.
 
-Directions
+<!-- marginal: Directions -->
 
-12D. The Minister may from time to time give of the Director General directions of a general or Minister. specific nature not inconsistent with this Act as to the exercise of the powers and discretion conferred on the Director General by, and the duties required to be discharged by the Director General under, this Act in relation to all matters which appear to him to affect the policy of Malaysia, and the Director General shall give effect to all such directions.".
+12D. The Minister may from time to time give
+
+<!-- marginal: of -->
+
+the Director General directions of a general or
+
+<!-- marginal: Minister. -->
+
+specific nature not inconsistent with this Act as to the exercise of the powers and discretion conferred on the Director General by, and the duties required to be discharged by the Director General under, this Act in relation to all matters which appear to him to affect the policy of Malaysia, and the Director General shall give effect to all such directions.".
 
 ## HURAIAN
 
-Rang Undang-Undang ini bertujuan meminda Akta Pasport 1966 ("Akta").
+Rang Undang-Undang ini bertujuan meminda Akta Pasport 1966
+
+<!-- marginal: ("Akta"). -->
 
 <!-- page 11 -->
 
@@ -258,9 +412,7 @@ Rang Undang-Undang ini bertujuan meminda Akta Pasport 1966 ("Akta").
 
 8. Fasal 8 bertujuan meminda subseksyen 12(1) Akta untuk memperjelaskan kesalahan-kesalahan di bawah Akta.
 
-9. Fasal 9 bertujuan memasukkan seksyen baru 12A, 12B, 12C dan
-
-12D. Seksyen 12A memperkatakan kesalahan-kesalahan yang berhubungan dengan pemerolehan pasport, dokumen perjalanan dalam negeri, atau pengendorsan atau visa dalam pasport, bagi orang lain. Seksyen 12B memperkatakan kesalahan membuat dokumen palsu untuk digunakan sebagai pasport, sama ada oleh orang yang membuatnya atau oleh mana-mana orang lain. Seksyen 12C memberi Ketua Pengarah Imigresen kuasa untuk memberikan hadiah kepada orang yang memberikan bantuan berkaitan dengan pengesanan dan pendakwaan kesalahan di bawah Akta. Seksyen 12D memperuntukkan bahawa Menteri boleh memberikan arahan yang bersifat umum atau khusus yang tidak tak konsisten dengan Akta kepada Ketua Pengarah Imigresen dan Ketua Pengarah hendaklah melaksanakan segala arahan sedemikian.
+9. Fasal 9 bertujuan memasukkan seksyen baru 12A, 12B, 12C dan 12D. Seksyen 12A memperkatakan kesalahan-kesalahan yang berhubungan dengan pemerolehan pasport, dokumen perjalanan dalam negeri, atau pengendorsan atau visa dalam pasport, bagi orang lain. Seksyen 12B memperkatakan kesalahan membuat dokumen palsu untuk digunakan sebagai pasport, sama ada oleh orang yang membuatnya atau oleh mana-mana orang lain. Seksyen 12C memberi Ketua Pengarah Imigresen kuasa untuk memberikan hadiah kepada orang yang memberikan bantuan berkaitan dengan pengesanan dan pendakwaan kesalahan di bawah Akta. Seksyen 12D memperuntukkan bahawa Menteri boleh memberikan arahan yang bersifat umum atau khusus yang tidak tak konsisten dengan Akta kepada Ketua Pengarah Imigresen dan Ketua Pengarah hendaklah melaksanakan segala arahan sedemikian.
 
 ## IMPLIKASI KEWANGAN
 

@@ -6,27 +6,35 @@ and Enforcement of Tax
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title 2. Amendment of Acts
 
-## Part II
+## PART II
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
 3. Commencement of amendments to the Income Tax Act 1967 4. Amendment of section 82b 5. Amendment of section 152a
 
-## Part III
+## PART III
 
 ## AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976
 
-6. Commencement of amendments to the Real Property Gains Tax Act 1976 7. Amendment of section 13 8. Amendment of section 13a 9. Amendment of section 19a 10. Amendment of section 36 11. New section 43a 12. Amendment of section 51 13. Amendment of section 57a
+6. Commencement of amendments to the Real Property Gains Tax Act 1976 7. Amendment of section 13 8. Amendment of section 13a 9. Amendment of section 19a
+
+10. Amendment of section 36
+
+11. New section 43a
+
+12. Amendment of section 51
+
+13. Amendment of section 57a
 
 <!-- page 2 -->
 
-## Part IV
+## PART IV
 
 ## AMENDMENTS TO THE STAMP ACT 1949
 
@@ -64,7 +72,7 @@ and Enforcement of Tax
 
 30. Amendment of section 77a
 
-## Part V
+## PART V
 
 ## AMENDMENTS TO THE LABUAN BUSINESS ACTIVITY TAX ACT 1990
 
@@ -92,7 +100,7 @@ and Enforcement of Tax
 
 and Enforcement of Tax
 
-## Part VI
+## PART VI
 
 ## AMENDMENTS TO THE PETROLEUM (INCOME TAX) ACT 1967
 
@@ -110,7 +118,7 @@ An Act to provide for measures relating to the implementation of the collection,
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -124,7 +132,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 6 -->
 
-## Part II
+## PART II
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
@@ -176,7 +184,7 @@ and Enforcement of Tax
 
 (d) in subsection (4), by inserting after the words “subsection (3)” the words “or (3a)”.
 
-## Part III
+## PART III
 
 ## AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976
 
@@ -244,7 +252,7 @@ and Enforcement of Tax
 
 <!-- page 10 -->
 
-## Part IV
+## PART IV
 
 ## AMENDMENTS TO THE STAMP ACT 1949
 
@@ -348,7 +356,7 @@ and Enforcement of Tax
 
 30. Paragraph 77a(1)(f) of the principal Act is amended by inserting after the words “39(4)” the words “, 50b(2)”.
 
-## Part V
+## PART V
 
 ## AMENDMENTS TO THE LABUAN BUSINESS ACTIVITY
 
@@ -464,7 +472,7 @@ and Enforcement of Tax
 
 40. Section 28 of the principal Act is amended by substituting for the words “no form is prescribed” the words “no means is determined”.
 
-## Part VI
+## PART VI
 
 ## AMENDMENTS TO THE PETROLEUM (INCOME TAX) ACT 1967
 
@@ -516,7 +524,7 @@ This Bill seeks to amend the Income Tax Act 1967 (“Act 53”), the Real Proper
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
-## Part II of this Bill seeks to amend the Income Tax Act 1967.
+Part II of this Bill seeks to amend the Income Tax Act 1967.
 
 2. Clause 4 seeks to amend section 82b of Act 53.
 
@@ -536,7 +544,7 @@ Paragraph 5(d) seeks to amend subsection 152a(4) of Act 53 to clarify that the f
 
 ## AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976
 
-## Part III of this Bill seeks to amend the Real Property Gains Tax Act 1976.
+Part III of this Bill seeks to amend the Real Property Gains Tax Act 1976.
 
 4. Clause 7 seeks to introduce new subsections 13(8) and (9) into Act 169.
 
@@ -558,7 +566,7 @@ The proposed new subsection 13(9) seeks to provide that the notification referre
 
 ## AMENDMENTS TO THE STAMP ACT 1949
 
-## Part IV of this Bill seeks to amend the Stamp Act 1949.
+Part IV of this Bill seeks to amend the Stamp Act 1949.
 
 11. Clause 15 seeks to amend subsection 4a(3) of Act 378 to increase the fine relating to the failure to register an instrument executed outside Malaysia in accordance with subsection 4a(2) of Act 378 from a fine of not exceeding two hundred and fifty ringgit to a fine of not less than one thousand ringgit and not exceeding ten thousand ringgit.
 
@@ -594,7 +602,7 @@ The proposed new paragraph 36(2)(b) seeks to provide that if a return and an ins
 
 ## AMENDMENTS TO THE LABUAN BUSINESS ACTIVITY TAX ACT 1990
 
-## Part V of this Bill seeks to amend the Labuan Business Activity Tax Act 1990.
+Part V of this Bill seeks to amend the Labuan Business Activity Tax Act 1990.
 
 22. Clause 36 seeks to introduce a new section 18a into Act 445 to empower the Director General to authorize any officer or other official to exercise the powers under Act 445.
 
@@ -610,7 +618,7 @@ The new proposed subsection 21c(3b) seeks to provide for the manner of furnishin
 
 ## AMENDMENTS TO THE PETROLEUM (INCOME TAX) ACT 1967
 
-## Part VI of this Bill seeks to amend the Petroleum (Income Tax) Act 1967.
+Part VI of this Bill seeks to amend the Petroleum (Income Tax) Act 1967.
 
 24. Clause 42 seeks to introduce a new section 67a into Act 543 to empower the Director General to issue guidelines.
 

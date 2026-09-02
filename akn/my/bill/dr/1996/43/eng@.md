@@ -42,13 +42,11 @@ language text by substituting for the words "doktor gigi" wherever appearing the
 
 (iii) by inserting after paragraph (e) the following paragraph:
 
-"(ea) six dental surgeons
+"(ea) six dental surgeons to be appointed by the Minister;";
 
-<!-- marginal: to be -->
+(b) in subsections (2), (5) and (6) by inserting after the words "subsection (1)(e)" the words "or
 
-appointed by the Minister;";
-
-(b) in subsections (2), (5) and (6) by inserting after the words "subsection (1)(e)" the words "or (ea)";
+(ea)";
 
 (c) in subsection (7)—
 
@@ -96,13 +94,17 @@ in respect of any practitioner who is a member of the Council, such practitioner
 
 <!-- page 4 -->
 
-4 Bill
+<!-- marginal: 4 -->
+
+Bill
 
 (19) Any member of the Council who is to be reinstated pursuant to subsection (18) shall, if the reinstatement is to take effect before the expiration of his term of office, be reinstated to hold office for the unexpired portion of his term of office.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. Subsection 17(1) of the principal Act is amended— of section
+4. Subsection 17(1) of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 17.
 
@@ -112,9 +114,11 @@ Amendment
 
 "(c) after due inquiry by a medical review panel, which shall consist of two medical practitioners and one dental surgeon appointed by the Council, been found to be unfit to perform his professional duties by reason of his mental or physical condition,".
 
-Amendment
+<!-- marginal: Amendment -->
 
-5. Section 23 of the principal Act is amended— of section 23.
+5. Section 23 of the principal Act is amended—
+
+<!-- marginal: of section 23. -->
 
 (a) in the marginal note, by deleting the words "of person becoming a mental patient";
 

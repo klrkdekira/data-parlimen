@@ -10,7 +10,9 @@ Suatu Akta untuk meminda peruntukan Bahagian I Jadual Kesepuluh kepada Perlembag
 
 BAHAWASANYA adalah diperuntukkan oleh Fasal (2) Perkara 109 Perlembagaan Persekutuan bahawa Parlimen boleh dari semasa ke semasa melalui undang-undang mengubah kadar pemberian mengikut bilangan orang yang terdapat dalam Bahagian I Jadual Kesepuluh kepada Perlembagaan itu:
 
-DAN BAHAWASANYA menurut Fasal (4)(b) Perkara 159 Perlembagaan Persekutuan apa-apa pindaan kepada Perlembagaan yang bersampingan dengan atau berbangkit daripada penjalanan apa-apa kuasa untuk membuat undang-undang yang diberikan kepada Parlimen oleh mana-mana peruntukan Perlembagaan, selain Perkara 74 dan 76, dikecualikan daripada peruntukan Fasal (3) Perkara 159:
+DAN BAHAWASANYA menurut Fasal (4)(b) Perkara 159 Perlembagaan Persekutuan apa-apa pindaan kepada Perlembagaan yang bersampingan dengan atau berbangkit daripada penjalanan apa-apa kuasa untuk membuat undang-undang yang diberikan kepada Parlimen oleh mana-mana peruntukan Perlembagaan, selain Perkara 74 dan 76, dikecualikan daripada peruntukan Fasal (3)
+
+## Perkara 159:
 
 MAKA, OLEH YANG DEMIKIAN, DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 

@@ -12,15 +12,39 @@
 
 ## PERMULAAN
 
-1. Tajuk ringkas, permulaan kuat kuasa dan pemakaian 2. Tafsiran
+1. Tajuk ringkas, permulaan kuat kuasa dan pemakaian
 
-## BAHAGIAN II
+2. Tafsiran
+
+## BAHAGIANII
 
 ## PENUBUHAN SURUHANJAYA ADUAN KHAS
 
-3. Penubuhan Suruhanjaya 4. Keanggotaan Suruhanjaya 5. Tempoh jawatan 6. Elaun 7. Penjalanan sementara fungsi Pengerusi 8. Pembatalan pelantikan dan peletakan jawatan 9. Pengosongan jawatan 10. Perlindungan daripada liabiliti diri 11. Pemakaian Jadual 12. Pewakilan fungsi dan kuasa 13. Penubuhan jawatankuasa 14. Tanggungjawab agensi penguat kuasa
+3. Penubuhan Suruhanjaya
 
-## BAHAGIAN III
+4. Keanggotaan Suruhanjaya
+
+5. Tempoh jawatan
+
+6. Elaun
+
+7. Penjalanan sementara fungsi Pengerusi
+
+8. Pembatalan pelantikan dan peletakan jawatan
+
+9. Pengosongan jawatan
+
+10. Perlindungan daripada liabiliti diri
+
+11. Pemakaian Jadual
+
+12. Pewakilan fungsi dan kuasa
+
+13. Penubuhan jawatankuasa
+
+14. Tanggungjawab agensi penguat kuasa
+
+## BAHAGIANIII
 
 ## FUNGSI DAN KUASA SURUHANJAYA
 
@@ -28,29 +52,71 @@
 
 <!-- page 2 -->
 
-## BAHAGIAN IV
+## BAHAGIANIV
 
 ## PENGURUSAN ADUAN OLEH SURUHANJAYA
 
-16. Penentuan jenis aduan 17. Penyiasatan permulaan 18. Laporan oleh Pihak Berkuasa Tatatertib yang berkenaan 19. Laporan oleh agensi penguat kuasa yang berkenaan 20. Kewajipan untuk mengemukakan kertas siasatan oleh Pasukan Petugas 21. Penyiasatan lanjut ke atas aduan oleh Pasukan Petugas 22. Suruhanjaya hendaklah merujukkan kertas siasatan kepada Pendakwa Raya atau Pihak Berkuasa Tatatertib 23. Tindakan susulan oleh Suruhanjaya 24. Suruhanjaya hendaklah memaklumkan pengadu
+16. Penentuan jenis aduan
 
-## BAHAGIAN V
+17. Penyiasatan permulaan
+
+18. Laporan oleh Pihak Berkuasa Tatatertib yang berkenaan
+
+19. Laporan oleh agensi penguat kuasa yang berkenaan
+
+20. Kewajipan untuk mengemukakan kertas siasatan oleh Pasukan Petugas
+
+21. Penyiasatan lanjut ke atas aduan oleh Pasukan Petugas
+
+22. Suruhanjaya hendaklah merujukkan kertas siasatan kepada Pendakwa Raya atau Pihak Berkuasa Tatatertib
+
+23. Tindakan susulan oleh Suruhanjaya
+
+24. Suruhanjaya hendaklah memaklumkan pengadu
+
+## BAHAGIANV
 
 ## PENTADBIRAN
 
-25. Ketua Pegawai Eksekutif 26. Pelantikan kakitangan 27. Penubuhan Pasukan Petugas 28. Kuasa untuk mengambil khidmat perunding, penasihat teknik, dsb.
+25. Ketua Pegawai Eksekutif
 
-## BAHAGIAN VI
+26. Pelantikan kakitangan
+
+27. Penubuhan Pasukan Petugas
+
+28. Kuasa untuk mengambil khidmat perunding, penasihat teknik, dsb.
+
+## BAHAGIANVI
 
 ## KUASA PENGUATKUASAAN SURUHANJAYA
 
 ## DAN PASUKAN PETUGAS
 
-29. Kuasa penyiasatan 30. Kad kuasa 31. Penggeledahan dan penyitaan dengan waran 32. Penggeledahan dan penyitaan tanpa waran 33. Kuasa untuk memasuki premis 34. Penyitaan benda, dsb. 35. Kuasa untuk memberhentikan, menggeledah dan menyita kenderaan 36. Senarai benda yang disita 37. Kuasa untuk menghendaki kehadiran orang yang mengetahui kes 38. Pemeriksaan orang yang mengetahui kes 39. Pelepasan kenderaan, dsb., yang disita
+29. Kuasa penyiasatan
+
+30. Kad kuasa
+
+31. Penggeledahan dan penyitaan dengan waran
+
+32. Penggeledahan dan penyitaan tanpa waran
+
+33. Kuasa untuk memasuki premis
+
+34. Penyitaan benda, dsb.
+
+35. Kuasa untuk memberhentikan, menggeledah dan menyita kenderaan
+
+36. Senarai benda yang disita
+
+37. Kuasa untuk menghendaki kehadiran orang yang mengetahui kes
+
+38. Pemeriksaan orang yang mengetahui kes
+
+39. Pelepasan kenderaan, dsb., yang disita
 
 <!-- page 3 -->
 
-## BAHAGIAN VII
+## BAHAGIANVII
 
 AM 40. Dana 41. Laporan tahunan 42. Kewajipan kerahsiaan 43. Akses kepada dokumen terkelas 44. Perlindungan pemberi maklumat 45. Perlindungan pegawai dan pekhidmat Suruhanjaya 46. Akta Perlindungan Pihak Berkuasa Awam 1948 47. Pekhidmat awam 48. Pemulaan dan penjalanan pendakwaan 49. Peraturan-peraturan 50. Pencegahan kesulitan atau anomali
 
@@ -96,7 +162,11 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (a) agensi penguat kuasa; atau
 
-(b) perkhidmatan bersama yang ditubuhkan di bawah Perkara 133 Perlembagaan Persekutuan untuk menjalankan kuasa penguatkuasaan;
+(b) perkhidmatan bersama yang ditubuhkan di bawah
+
+## Perkara 133 Perlembagaan Persekutuan untuk menjalankan
+
+kuasa penguatkuasaan;
 
 “premis” termasuklah rumah, bangunan, tanah, isemen bagi apa-apa pemegangan, sama ada terbuka atau tertutup, sama ada dibina atau tidak, sama ada awam atau swasta, dan sama ada disenggarakan atau tidak di bawah pihak berkuasa berkanun;
 
@@ -168,7 +238,9 @@ termasuk Majlis Angkatan Tentera yang ditubuhkan di bawah Perkara 137 Perlembaga
 
 <!-- page 9 -->
 
-(2) Seseorang anggota yang dilantik di bawah subseksyen (1) hendaklah, semasa tempoh dia melaksanakan fungsi sebagai Pengerusi di bawah seksyen ini, disifatkan sebagai Pengerusi.
+(2) Seseorang anggota yang dilantik di bawah subseksyen
+
+(1) hendaklah, semasa tempoh dia melaksanakan fungsi sebagai Pengerusi di bawah seksyen ini, disifatkan sebagai Pengerusi.
 
 ### Pembatalan pelantikan dan peletakan jawatan
 

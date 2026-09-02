@@ -1,0 +1,299 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-39-2012",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_11"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Bank Negara Malaysia (Pindaan) 2012"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 82(1) Akta ibu dipinda dengan memasukkan selepas perkataan “membuat peraturan-peraturan” perkataan “atau”. Pindaan Jadual Ketiga"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_11__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jadual Ketiga Akta ibu dipinda dalam perenggan 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (5), dengan menggantikan perkataan “Sesuatu perintah peletakhakan” dengan perkataan “Tertakluk kepada subseksyen 32(1A), sesuatu perintah peletakhakan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subperenggan (5) subperenggan yang berikut: “(5A) Jika sesuatu perintah peletakhakan dibuat dan perjanjian kewangan yang layak telah dipindah menurut perintah itu, penerima pindahan akan mengambil alih semua hak dan obligasi di bawah mana-mana perjanjian kewangan yang layak pemindah daripada siapa perjanjian itu telah dipindahkan. (5B) Jika perjanjian kewangan yang layak dipindah kepada penerima pindahan, penguatkuasaan oleh pihak atas hak mereka di bawah perjanjian kewangan yang layak itu hendaklah mengikut terma perjanjian itu seolah-olah penerima pindahan sentiasa menjadi suatu pihak kepada perjanjian itu. (5C) Jika perjanjian kewangan yang layak pemindah itu dipindah kepada penerima pindahan dan jika seseorang itu merupakan pihak balas kepada dua atau lebih transaksi kewangan yang layak di bawah perjanjian kewangan yang layak dengan pemindah, semua atau tiada transaksi kewangan yang layak hendaklah dipindah kepada penerima pindahan itu. (5D) Jika perjanjian kewangan yang layak yang berhubungan dengan cagaran kewangan yang terpakai bagi mana- mana harta pemindah dipindahkan, harta itu hendaklah dipindahkan kepada penerima pindahan.”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Bank Negara Malaysia (Pindaan) 2012."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_2__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_2__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Bank Negara Malaysia 2009 [Akta 701], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam subseksyen 2(1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_2__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_2__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_2__list_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_2__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_2__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “Bank” takrif yang berikut: ‘ “cagaran kewangan” ertinya mana-mana yang berikut yang tertakluk kepada suatu kepentingan atau hak yang menjamin pembayaran atau pelaksanaan suatu obligasi berkenaan dengan perjanjian kewangan yang layak atau yang tertakluk kepada perjanjian sokongan kredit pindah hakmilik: (a) wang tunai atau yang bersamaan dengan wang tunai, termasuk surat cara boleh niaga dan deposit tuntutan; (b) sekuriti, suatu akaun sekuriti atau suatu hak untuk memperoleh sekuriti; atau (c) perjanjian niaga hadapan atau akaun niaga hadapan;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_2__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_2__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “perbadanan berkaitan” takrif yang berikut: ‘ “perjanjian kewangan yang layak” ertinya— (a) suatu perjanjian induk berkenaan dengan satu atau lebih transaksi kewangan yang layak yang di bawahnya sekiranya hal tertentu yang ditentukan oleh pihak-pihak kepada perjanjian itu berlaku— (i) transaksi yang disebut dalam perjanjian itu tamat atau boleh ditamatkan; (ii) nilai penamatan transaksi di bawah perenggan (a) dikira atau boleh dikira; dan (iii) nilai penamatan transaksi di bawah perenggan (a) adalah bersih atau boleh bersih, supaya suatu amaun bersih kena dibayar, dan jika suatu perjanjian adalah juga berkenaan dengan satu atau lebih transaksi yang bukan transaksi kewangan yang layak, perjanjian itu hendaklah disifatkan sebagai perjanjian kewangan yang layak hanya berkenaan dengan transaksi yang adalah transaksi kewangan yang layak dan apa-apa penguatkuasaan yang dibenarkan oleh pihak-pihak mengenai hak mereka di bawah perjanjian itu; (b) suatu perjanjian yang berhubungan dengan cagaran kewangan, termasuk perjanjian sokongan kredit pindah hakmilik, berkenaan dengan satu atau lebih transaksi kewangan yang layak di bawah suatu perjanjian induk yang disebut dalam perenggan (a); atau (c) mana-mana perjanjian lain berkenaan dengan suatu transaksi kewangan yang boleh dibuat oleh pihak dalam pasaran kewangan yang ditetapkan sebagai perjanjian kewangan yang layak oleh Bank, selain suatu derivatif terselaras atau suatu perjanjian berkenaan dengan transaksi sekuriti yang dibuat di bawah kaedah-kaedah suatu bursa saham dan pusat penjelasan yang diluluskan sebagaimana yang ditakrifkan dalam subseksyen 2(1) Akta Pasaran Modal dan Perkhidmatan 2007 [Akta 671]; ‘ “perjanjian sokongan kredit pindah hakmilik” ertinya suatu perjanjian yang di bawahnya hakmilik kepada harta telah diperuntukkan bagi maksud menjamin pembayaran atau pelaksanaan suatu obligasi berkenaan dengan perjanjian kewangan yang layak;’; (c) dengan menggantikan takrif “terbitan” dengan takrif yang berikut: ‘ “terbitan” ertinya mana-mana perjanjian, termasuk suatu opsyen, swap, kontrak niaga hadapan atau kontrak hadapan, yang harga pasaran, nilai, penghantaran atau obligasi pembayarannya berpunca daripada, dirujuk kepada atau berdasarkan, tetapi tidak terhad kepada, sekuriti, komoditi, aset, kadar (termasuk kadar faedah, kadar keuntungan atau kadar pertukaran) atau indeks;’; (d) dengan menggantikan noktah yang terdapat di hujung takrif “Timbalan Gabenor” dengan koma bernoktah; dan (e) dengan memasukkan selepas takrif “Timbalan Gabenor” takrif yang berikut: ‘ “transaksi kewangan yang layak” ertinya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_2__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_2__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_2__list_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_2__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_2__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu terbitan, sama ada akan diselesaikan melalui pembayaran atau hantar serah; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_2__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_2__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu perjanjian beli semula, beli semula songsang atau jual beli balik berkenaan dengan sekuriti.’. Pindaan seksyen 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 15(6) Akta ibu dipinda dengan menggantikan perkataan “undang-undang bertulis itu” dengan perkataan “mana-mana undang-undang bertulis”. Penggantian seksyen 31"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 31 dengan seksyen yang berikut: “Langkah-langkah kestabilan kewangan 31. (1) Jika Bank berpendapat ia perlu demi kepentingan kestabilan kewangan, Bank boleh— (a) menentukan langkah-langkah, yang pada pendapat Bank akan menyumbang kepada daya tahan sistem kewangan atau mengehadkan penumpuan mana-mana risiko kepada kestabilan kewangan, kepada suatu golongan, kategori atau perihalan orang yang terlibat dalam pengantaraan kewangan; atau (b) mengeluarkan suatu perintah secara bertulis yang menghendaki mana-mana orang dalam suatu golongan, kategori atau perihalan orang, termasuk suatu golongan, kategori atau perihalan orang yang terlibat dalam pengantaraan kewangan, untuk mengambil apa-apa langkah sebagaimana yang Bank berpendapat perlu atau wajar untuk mengelakkan atau mengurangkan apa-apa risiko kepada kestabilan kewangan. (2) Sebelum mengeluarkan suatu perintah di bawah perenggan (1)(b), Bank hendaklah memberi orang itu peluang untuk membuat representasi. (3) Walau apa pun subseksyen (2), suatu perintah di bawah perenggan (1)(b) boleh dikeluarkan dahulu dan peluang untuk membuat representasi hendaklah diberi sebaik sahaja selepas perintah itu dikeluarkan sekiranya apa-apa kelengahan akan menambahkan lagi risiko kepada kestabilan kewangan. (4) Suatu perintah yang dikeluarkan di bawah perenggan (1)(b) boleh dipinda atau diubahsuai jika representasi itu dibuat selepas perintah itu dikeluarkan. (5) Orang yang disebut dalam subseksyen (1) hendaklah mematuhi apa-apa langkah atau perintah dari apa-apa tarikh sebagaimana yang ditentukan oleh Bank walau apa pun mana- mana peruntukan undang-undang bertulis lain atau apa-apa obligasi di bawah mana-mana kontrak, perjanjian atau perkiraan yang berlawanan. (6) Bank boleh menjalankan usaha wajar atau menghendaki mana-mana orang untuk mengemukakan apa-apa dokumen atau maklumat atau melantik juruaudit atau mana-mana orang lain yang diluluskan oleh Bank untuk menjalankan suatu penilaian, untuk memastikan sama ada orang itu telah mematuhi apa-apa langkah atau perintah di bawah subseksyen (1). (7) Saraan juruaudit atau mana-mana orang lain yang diluluskan oleh Bank di bawah subseksyen (6) dan perbelanjaan lain yang berhubungan dengan penilaian itu hendaklah dibayar oleh orang yang disebut dalam subseksyen (1). (8) Walau apa pun subseksyen (5), apa-apa langkah atau perintah yang dikeluarkan di bawah subseksyen (1) tidak boleh menjejaskan penguatkuasaan oleh pihak atas hak mereka di bawah perjanjian kewangan yang layak. (9) Mana-mana orang yang gagal mematuhi subseksyen (5) atau apa-apa kehendak Bank di bawah subsekyen (6) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi sepuluh juta ringgit atau dipenjarakan selama tempoh tidak melebihi sepuluh tahun atau kedua-duanya.”. Pindaan seksyen 32"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 32 Akta ibu dipinda dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: “(1A) Penguatkuasaan oleh pihak atas hak mereka di bawah perjanjian kewangan yang layak tidak akan terjejas oleh pembuatan suatu perintah peletakhakan, bagi keseluruhan atau sebahagian perniagaan, aset atau liabiliti, atau semua atau mana- mana syer atau instrumen modal lain yang dikeluarkan oleh, suatu institusi kewangan menurut subperenggan (1)(c)(iii).”. Pindaan seksyen 37"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 37 Akta ibu dipinda dengan menggantikan subseksyen (4) dengan subseksyen yang berikut: “(4) Ketua Setiausaha Perbendaharaan hendaklah dimaklumkan mengenai dan diundang ke semua mesyuarat Jawatankuasa Eksekutif Kestabilan Kewangan.”. Pindaan seksyen 38"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 38 Akta ibu dipinda dengan menggantikan subperenggan (1)(a)(i) dengan subperenggan yang berikut: “(i) di bawah perenggan 31(1)(a) bagi suatu langkah yang akan ditentukan kepada suatu golongan, kategori atau perihalan orang yang terlibat dalam pengantaraan kewangan atau di bawah perenggan 31(1)(b) untuk suatu perintah yang akan dikeluarkan kepada orang itu dalam suatu golongan, kategori atau perihalan orang; atau”. Pindaan seksyen 48"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_8__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_8__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 48 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “dan” yang terdapat di hujung perenggan (1)(d);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (1)(d) perenggan yang berikut: “(da) menubuhkan suatu pertubuhan perbadanan atau memperoleh atau memegang syer sesuatu pertubuhan perbadanan, keseluruhannya atau sebahagiannya, bagi maksud menjalankan fungsinya sebagai suatu institusi perantaraan di bawah mana-mana undang-undang bertulis yang dikuatkuasakan oleh Bank; dan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_8__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (5), dengan menggantikan perkataan “perenggan (1)(d)” dengan perkataan “perenggan 1(d) dan (da).”. Pindaan seksyen 77"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/39/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 77 Akta ibu dipinda dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “(1) Walau apa pun peruntukan Akta ini, Lembaga boleh, bagi maksud melaksanakan matlamat Bank atau melindungi kedudukan imbangan pembayaran, melalui notis secara bertulis memberikan arahan kepada, atau mengenakan kehendak atas, mana-mana orang termasuk institusi kewangan berkenaan dengan atau yang berhubungan dengan— (a) transaksi antara pemastautin, bukan pemastautin atau pemastautin dengan bukan pemastautin, dalam ringgit atau mata wang asing, atau yang melibatkan emas, logam berharga lain, sekuriti atau instrumen kewangan lain termasuk terbitan; atau (b) penerimaan, serahan atau penahanan mata wang asing, emas atau logam berharga lain: Dengan syarat mana-mana arahan yang diberikan atau kehendak yang dikenakan tidak akan menjejaskan penguatkuasaan pihak atas hak mereka di bawah perjanjian kewangan yang layak.”. Pindaan seksyen 82"
+      }
+    }
+  ]
+}

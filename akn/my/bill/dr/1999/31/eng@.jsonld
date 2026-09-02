@@ -1,0 +1,585 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-31-1999",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_III"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Income Tax (Amendment) (No. 2) Bill 1999"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_I__cl_1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY Short title and commencement"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_16"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "GENERAL PROYISIONS Amendment of section 77"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_III__cl_17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "SPECIAL PROYISION Estimate of tax payable for year of assessment 2001"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_III__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the year of assessment 2001 the estimate of tax payable furnished to the Director General under subsection 107c(2) of the principal Act shall not be less than the amount of tax payable for the year of assessment 1999."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 106(3) of the principal Act is amended by substituting for the words \"section 103(4), (5) or (5A)\" the words \"section 103(4), 103(5), 103(5A), 103A(4), 103A(5), 103A(6), 103A(7), 103A(8) or 103A(9)\". Amendment of section 107B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 107B(l) of the principal Act is amended by inserting after the word \"applies\" the words \"and a company to which section 107c applies\". New section 107c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 107B the following section: \"Estimateof I07c. (1) Every company shall for each year of tax payabie asssement furnish to the Director General an estimate mstalments for companies. (2) Except as provided in subsection (4)(a), the estimate of tax payable for a year of assessment shall be made in the prescribed form and furnished to the Director General not later than thirty days before the beginning of the basis period for that year of assessment. (3) The estimate of tax payable for a year of assessment shall not be less than the revised estimate of tax payable for the immediately preceding year of assessment or if no revised estimate is furnished, the estimate of tax payable for the immediately preceding year of assessment. (4) Where a company first commences operation in a year of assessment - (a) the estimate of its tax payable for that year of assessment shall be made in the prescribed form and furnished to the Director General within three months from the date of commencement of operations; and (b) subsections (2) and (3) shall apply to the company beginning from the second year of assessment. (5) Where an estimate of tax payable for a year of assessment has been furnished in accordance with subsection (2), that amount shall be paid to the Director General in equal monthly instalments determined according to the number of months in the basis period and each instalment shall be paid by the due date beginning from the second month of the basis period for the year of assessment in respect of which that estimate has been furnished. (6) Where an estimate of tax payable for a year of assessment has been furnished in accordance with subsection (4)(a), that amount shall be paid to the Director General in equal monthly instalments determined according to the number of months in the basis period and each instalment shall be paid by the due date beginning from the sixth month of the basis period for the year of assessment in respect of which that estimate has been furnished. (7) A company may in the sixth month of the basis period for a year of assessment furnish to the Director General a revised estimate of its tax payable for that year in the prescribed form and - (a) where the revised estimate exceeds the amount of instalments that have been paid for that year, the difference shall be payable in the remaining instalments in equal proportion; or (b) where the amount of instalments that have been paid for that year exceeds the revised estimate, the remaining instalments shall cease immediately. (8) Notwithstanding subsections (1), (3), (5), (6) and (7), the Director General may direct any company to make payment by instalments on account of tax which is or may be payable by that company for a year of assessment at such times and in such amounts as the Director General may direct. (9) Where any instalment amount due and payable has not been paid by the due date or on the date specified by the Director General, the amount unpaid shall, without any further notice being served, be increased by a sum equal to ten per cent of the amount unpaid, and that sum shall be recoverable as if it were tax due and payable under this Act. (10) Where the tax payable under an assessment for a year of assessment exceeds the revised estimate of tax payable for that year of assessment or if no revised estimate is furnished, the estimate of tax payable for that year of assessment, by an amount of more than thirty per cent of the tax payable under the assessment, then, without any further notice being served, the difference between that amount and thirty per cent of the tax payable under the assessment shall be increased by a sum equal to ten per cent of the amount of that difference, and that sum shall be recoverable as if it were tax due and payable under this Act. (11) Notwithstanding the foregoing subsections, where the estimate of tax payable for a year of assessment is increased by a sum under subsection (9) or (10), the Director General may in his discretion for any good cause shown remit the whole or any part of that sum and, where the amount remitted has been paid, the Director General shall repay the same. (12) For the purposes of this section, \"due date\" means the tenth day of a calendar month.\". Amendment of section 112"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_13__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_13__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 112 of the principal Act is amended -"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by inserting after the words \"section 77(1)\" the words \"or 77(lA)\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsection: \"(2A) Where a person has been corvicted of an offence under subsection (1), the court may make a further order that the person shall comply with the relevant provision of this Act under which the offence has been committed within thirty days, or such other period as the court deems fit, from the date the order is made.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_13__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by inserting after the words \"section 77(1)\" the words \"or 77(1A)\". Amendment of section 114"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 114 of the principal Act is amended by inserting after subsection (1) the following subsection: \"(1A) Any person who assists in, or advises with respect to, the preparation of any return where the return results in an understatement of the liability for tax of another person shall, unless he satisfies the court that the assistance or advice was given with reasonable care, be guilty of an offence and shall, on corviction, be liable to a fine of not less than two thousand ringgit and not more than twenty thousand ringgit or to imprisonment for a term not exceeding three years or to both.\". Amendment of section 116"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_15__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 116 of the principal Act is amended -"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (d) the following paragraph: \"(d) fails to provide reasonable facilities or assistance or both to the Director General or an authorized officer in the exercise of his powers under this Act; or\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"not exceeding four thousand ringgit\" the words \"of not less than one thousand ringgit and not more than ten thousand ringgit\". Amendment of section 120"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_16__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_16__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 120 of the principal Act is amended -"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing section as subsection (1);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_16__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_16__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_16__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1) -"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_16__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_16__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the word \"or\" at the end of paragraph (d);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_16__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_16__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the comma at the end of paragraph (e) the words \"; or\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_16__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_16__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (e) the following paragraph: \"(f) fails to furnish an estimate in accordance with section 107c(2), 107c(3) or 107c(4)(a),\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_16__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the tollowing subsection: \"(2) Where a person has been convicted of an offence under subsection (1), the court may make a further order that the person shall comply with the relevant provision of this Act under which the offence has been committed within thirty days, or such other period as the court deems fit, from the date the order is made.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Income Tax Act 1967 [Act 53], which in this Act is referred to as the \"principal Act\", is amended in section 7 7-"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by inserting after the words \"any person\" the words \", other than a company to which subsection (1A) applies,\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsections: \"(1A) Every company shall for each year of assessment furnish to the Director General a return in the prescribed form within six months from the date following the close of the accounting period which constitutes the basis period for the year of assessment. (1B) Notwithstanding subsection (1A), where there is a change in the accounting period of a company such that the accounts are not closed on any date in a year, that company shall furnish a return in the prescribed form for that year and the year of assessment in which the accounts are closed within six months from the date following the close of the accounting period. (1c) For the purpose of subsection (1A), a return for a year of assessment shall - (a) specify the chargeable income and the amount of tax payable (if any) on that chargeable income for that year; and (b) contain such particulars as may be required by the Director General in respect of that company.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by inserting after the words \"Every person\" the words \", other than a company to which subsection (!A) applies,\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (3) the following subsections: \"(4) The Director General may allow a return to be furnished on an electronic medium or by way of electronic transmission. (5) For the purposes of subsection (4), the electronic medium to be used for the furnishing of returns and the software and hardware requirements for the electronic transmission of returns shall be as may be determined by the Director General.\". Amendment of section 80"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 80 of the principal Act is amended by inserting after subsection (1) the following subsection: \"(1A) Where the Director General exercises his powers under subsection (1), the occupiers of such lands, buildings and places shall provide the Director General or an authorized officer with all reasonable facilities and assistance for the exercise of his powers under this section.\". Amendment of section 90"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 90 of the principal Act is amended -"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words \"section 77\" the words \"section 77(1)\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsections: \"(!A) Where a company has furnished a return under section 77(1A) to the Director General for a year of assessment, the Director General shall be deemed to have made, on the day on which the return is furnished, an assessment in respect of that company in the amount of tax on the chargeable income, the tax and the chargeable income being the respective amounts as specified in the return. (lB) For the purposes of this Act - (a) the return shall be deemed to be a notice c assessment; and (b) the deemed notice of assessment shall be deeme to have been served on the company on the da on which the Director General is deemed t have made the assessment.\". Amendment of section 93"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 93 of the principal Act is amended by inserting after the words \"An assessment\" the words \", other than an assessment under section 90(lA),\". Amendment of section 96"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 96 of the principal Act is amended -"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by inserting after the words \"after an assessment\" the words \", other than an assessment under section 90(lA),\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subparagraph (4)(c)(ii) the following subparagraph: \"(ii) the increase for late payment imposed by section 103(4), 103(5A), 103A(6) or 103A(7); and\". Amendment of section 96A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 96A(1) of the principal Act is amended -"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"Where\" the words \"Without prejudice to section 91, where\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by inserting after the words \"section 77(1)\" the words \"or 77(1A)\". Amendment of section 103"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_8__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_8__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 103 of the principal Act is amended -"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "the words \", other than a company to which section 103A applies,\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by inserting after the word \"assessed\" the words \", other than a company to which section 103A applies,\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_8__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (7). New section 103A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 103 the following section: \"payment 103A. (1) This section shall apply only to companies. (2) Except as provided in subsection (3), tax payable under an assessment for a year of assessment shall be due and payable on the due date whether or not that company appeals against the assessment. (3) Where an assessment is made under section 91, 92 or 96A, or where an assessment is increased under section 101(2), the tax payable under the assessment or increased assessment shall be due and payable on the service of the notice of assessment or composite assessment or increased assessment, as the case may be, on the company assessed whether or not that company appeals against the assessment or increased assessment. (4) Where any tax due and payable under subsection (2) has not been paid by the due date, so much of the tax as is unpaid upon the expiration of that date shall without any further notice being served be increased by a sum equal to ten per cent of the tax so unpaid, and that sum shall be reccverable as if it were tax due and payable under this Act. (5) Where the tax due and payable has been increased under subsection (4), any balance remaining unpaid upon the expiration of sixty days from the due date shall without any further notice being served be further increased by a sum equal to five per cent of the balance unpaid, and that sum shall be recoverable as if it were tax due and payable under this Act. (6) Subject to subsection (8), where any tax due and payable under subsection (3) has not been paid within thirty days after the service of the notice, so much of the tax as is unpaid upon the expiration of that period shall without any further notice being served be increased by a sum equal to ten per cent of the tax so unpaid, and that sum shall be recoverable as if it were tax due and payable under this Act. (7) Where the tax due and payable has been increased under subsection (6), any balance remaining unpaid upon the expiration of sixty days from the date of such increase shall without any further notice being served be further increased by a sum equal to five per cent of the balance unpaid, and that sum shall be recoverable as if it were tax due and payable under this Act. (8) Where any tax is payable in accordance with subsection (3), the Director General may allow the tax to be paid by instalments in such amounts and on such dates as he may determine and in the event of default in payment of any one instalment on the date specified for payment the balance of the tax then outstanding shall be due and payable on that date and shall without any further notice being served be increased by a sum equal to ten per cent of that balance, and that sum shall be recoverable as if it were tax due and payable under this Act. (9) Where the tax due and payable has been increased under subsection (8), any balance remaining unpaid upon the expiration of sixty days from the date of such increase shall without any further notice being served be further increased by a sum equal to five per cent of the balance unpaid, and that sum shall be recoverable as if it were tax due and payable under this Act. (10) Subsections (6) and (7) shall apply (with any necessary modification) in relation to a debt due and payable under section 108(5) or 108(7) as it applies in relation to tax due and payable on the service of the notice in accordance with subsection (3). (11) Notwithstanding the foregoing subsections, where tax due and payable is increased by a sum under subsection (4), (5), (6), (7), (8) or (9), the Director General may in his discretion for any good cause shown remit the whole or any part of that sum and, where the amount remitted has been paid, the Director General shall repay the same. (12) For the purposes of this section, \"due date\" means the last day of the sixth month from the date following the close of the accounting period.\". Amendment of section 106"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_I__cl_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_I__cl_1__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_I__cl_1__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_I__cl_1__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Income Tax (Amendment) (No. 2) Act 1999."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on 1 January 2000 and, except as proyided in subsections (3), (4) and (5), shall have effect for the year of assessment 2001 and subsequent years of assessment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_I__cl_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 107c(3) which is introduced by section 12 of this Act shall have effect for the year of assessment 2002 and subsequent years of assessment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_I__cl_1__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Sections 13,14,15 and 16 shall have effect upon the coming into operation of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_I__cl_1__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/31/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 17 shall have effect only for the year of assessment 2001."
+      }
+    }
+  ]
+}

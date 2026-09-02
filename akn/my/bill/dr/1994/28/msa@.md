@@ -14,7 +14,11 @@ Naskhah Sahih—Bahasa Kebangsaan
 
 ## PERMULAAN
 
-1. Tajuk ringkas, mula berkuatkuasa dan pemakaian. 2. Pemakaian bagi pemfosikan, pendulangan, dsb. 3. Tafsiran.
+1. Tajuk ringkas, mula berkuatkuasa dan pemakaian.
+
+2. Pemakaian bagi pemfosikan, pendulangan, dsb.
+
+3. Tafsiran.
 
 ## BAHAGIAN
 
@@ -22,7 +26,15 @@ II
 
 ## PENTADBIRAN
 
-4. Perlantikan Ketua Pengarah Galian, Timbalan Ketua Pengarah, dsb. 5. Fungsi dan kewajipan Ketua Pengarah. 6. Perwakilan fungsi atau kewajipan oleh Ketua Pengarah. 7. Fungsi dan kewajipan Pengarah. 8. Fungsi dan kewajipan Penolong Pengarah.
+4. Perlantikan Ketua Pengarah Galian, Timbalan Ketua Pengarah, dsb.
+
+5. Fungsi dan kewajipan Ketua Pengarah.
+
+6. Perwakilan fungsi atau kewajipan oleh Ketua Pengarah.
+
+7. Fungsi dan kewajipan Pengarah.
+
+8. Fungsi dan kewajipan Penolong Pengarah.
 
 ## BAHAGIAN
 
@@ -32,11 +44,31 @@ III
 
 ## DAN PERLOMBONGAN
 
-9. Pemegang tenemen mineral untuk mengemukakan salinan tenemen mineral dan pertukaran alamat kepada Pengarah, dsb. 10. Pengemukaan skim pengendalian melombong.
+9. Pemegang tenemen mineral untuk mengemukakan salinan tenemen mineral dan pertukaran alamat kepada Pengarah, dsb.
+
+10. Pengemukaan skim pengendalian melombong.
 
 <!-- page 2 -->
 
-11. Notis cadangan untuk menjelajah atau menjalankan kerja pembangunan. 12. Pematuhan skim pengendalian melombong. 13. Amalan baik dan selamat dan standard alam sekeliling. 14. Pengurus lombong. 15. Arahan oleh pengurus lombong. 16. Pelan hendaklah diberikan. 17. Buku rekod mengenai pengendalian. 18. Air efluen. 19. Hakisan. 20. Peninggalan lombong.
+11. Notis cadangan untuk menjelajah atau menjalankan kerja pembangunan.
+
+12. Pematuhan skim pengendalian melombong.
+
+13. Amalan baik dan selamat dan standard alam sekeliling.
+
+14. Pengurus lombong.
+
+15. Arahan oleh pengurus lombong.
+
+16. Pelan hendaklah diberikan.
+
+17. Buku rekod mengenai pengendalian.
+
+18. Air efluen.
+
+19. Hakisan.
+
+20. Peninggalan lombong.
 
 ## BAHAGIAN
 
@@ -44,7 +76,9 @@ IV
 
 ## KEMALANGAN DAN SIASATAN
 
-21. Prosiding apabila berlaku kemalangan dan kejadian berbahaya. 22. Prosedur bagi siasatan.
+21. Prosiding apabila berlaku kemalangan dan kejadian berbahaya.
+
+22. Prosedur bagi siasatan.
 
 ## BAHAGIAN V
 
@@ -54,19 +88,65 @@ IV
 
 ## Bab 1—Penguatkuasaan dan Penyiasatan
 
-23. Penguatkuasaan oleh pegawai galian. 24. Kuasa untuk menyiasat. 25. Kuasa untuk menghendaki kehadiran orang yang mengetahui kes. 26. Kuasa untuk memeriksa orang yang mengetahui kes. 27. Kuasa menangkap, menyita dan menyiasat. 28. Menggeledah dengan waran. 29. Menggeledah tanpa waran. 30. Pemulangan sementara benda yang disita. 31. Pelucuthakan benda yang disita. 32. Kos memegang benda yang disita.
+23. Penguatkuasaan oleh pegawai galian.
+
+24. Kuasa untuk menyiasat.
+
+25. Kuasa untuk menghendaki kehadiran orang yang mengetahui kes.
+
+26. Kuasa untuk memeriksa orang yang mengetahui kes.
+
+27. Kuasa menangkap, menyita dan menyiasat.
+
+28. Menggeledah dengan waran.
+
+29. Menggeledah tanpa waran.
+
+30. Pemulangan sementara benda yang disita.
+
+31. Pelucuthakan benda yang disita.
+
+32. Kos memegang benda yang disita.
 
 <!-- page 3 -->
 
-33. Tiada kos atau gantirugi boleh didapati berbangkit daripada penyitaan. 34. Kuasa untuk memberhentikan dan menggeledah alat pengangkutan.
+33. Tiada kos atau gantirugi boleh didapati berbangkit daripada penyitaan.
+
+34. Kuasa untuk memberhentikan dan menggeledah alat pengangkutan.
 
 ## Bab 2—Keterangan
 
-35. Perakuan tentang nilai mineral atau keluaran mineral, dsb. 36. Sampel. 37. Perakuan analisis. 38. Perlindungan informer.
+35. Perakuan tentang nilai mineral atau keluaran mineral, dsb.
+
+36. Sampel.
+
+37. Perakuan analisis.
+
+38. Perlindungan informer.
 
 ## Bab 3—Kesalahan dan Penalti
 
-39. Pelbagai kesalahan. 40. Penalti kerana tidak mengemukakan atau mematuhi skim pengendalian melombong. 41. Kesalahan berhubungan dengan perlindungan lubong lombong tertinggal, dsb. 42. Mengganggu, memindahkan, merosakkan atau memusnah- kan apa-apa benda yang disita. 43. Penalti kerana tidak mematuhi perintah yang sah. 44. Kesalahan berkenaan dengan maklumat. 45. Kehilangan atau kebinasaan apa-apa benda yang disita. 46. Perbuatan cuai. 47. Menggalang pegawai galian. 48. Penggunaan maklumat sulit. 49. Penyalahgunaan kuasa. 50. Percubaan dan persubahatan. 51. Kesalahan yang dilakukan oleh pertubuhan perbadanan. 52. Kesalahan yang dilakukan oleh pekongsi, ejen atau pengkhidmat. 53. Penalti bagi kesalahan yang berterusan. 54. Penalti am. 55. Pengkompaunan kesalahan.
+39. Pelbagai kesalahan.
+
+40. Penalti kerana tidak mengemukakan atau mematuhi skim pengendalian melombong.
+
+41. Kesalahan berhubungan dengan perlindungan lubong lombong tertinggal, dsb.
+
+42. Mengganggu, memindahkan, merosakkan atau memusnah- kan apa-apa benda yang disita.
+
+43. Penalti kerana tidak mematuhi perintah yang sah.
+
+44. Kesalahan berkenaan dengan maklumat.
+
+45. Kehilangan atau kebinasaan apa-apa benda yang disita.
+
+46. Perbuatan cuai.
+
+47. Menggalang pegawai galian.
+
+48. Penggunaan maklumat sulit.
+
+49. Penyalahgunaan kuasa. 50. Percubaan dan persubahatan. 51. Kesalahan yang dilakukan oleh pertubuhan perbadanan. 52. Kesalahan yang dilakukan oleh pekongsi, ejen atau pengkhidmat. 53. Penalti bagi kesalahan yang berterusan. 54. Penalti am. 55. Pengkompaunan kesalahan.
 
 <!-- page 4 -->
 
@@ -160,7 +240,7 @@ mineral dan bagi lombong-lombong, mineral-mineral dan bijih-bijih mineral amnya.
 
 <!-- page 6 -->
 
-Tafsiran.
+<!-- marginal: Tafsiran. -->
 
 3. (1) Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—
 
@@ -222,7 +302,11 @@ bawah Akta Penyiasatan Kajibumi 1974;
 
 (c) hasil daripada perlombongan di dalam atau di bawah laut atau dasar laut,
 
-terbentuk oleh atau tertakluk kepada suatu proses geologi, tetapi tidaklah termasuk air, "bahan batubatan" Akta 5611965 . sebagaimana ditafsirkan dalam Kanun Tanah Negara
+terbentuk oleh atau tertakluk kepada suatu proses geologi, tetapi tidaklah termasuk air, "bahan batubatan"
+
+<!-- marginal: Akta 5611965 -->
+
+. sebagaimana ditafsirkan dalam Kanun Tanah Negara
 
 <!-- page 9 -->
 
@@ -278,9 +362,29 @@ II
 
 ## PENTADBIRAN
 
-Perlantikan
+<!-- marginal: Perlantikan -->
 
-4. (1) Menteri hendaklah melantik seorang pegawai Ketua awam untuk menjadi Ketua Pengarah Galian bagi Pengarah Galian, maksud melaksanakan fungsi-fungsi dan kewajipan- Timbalan kewajipan yang diberikan kepadanya di bawah Akta ini. Ketua Pengarah, dsb.
+4. (1) Menteri hendaklah melantik seorang pegawai
+
+<!-- marginal: Ketua -->
+
+awam untuk menjadi Ketua Pengarah Galian bagi
+
+<!-- marginal: Pengarah -->
+
+<!-- marginal: Galian, -->
+
+maksud melaksanakan fungsi-fungsi dan kewajipan-
+
+<!-- marginal: Timbalan -->
+
+kewajipan yang diberikan kepadanya di bawah Akta ini.
+
+<!-- marginal: Ketua -->
+
+<!-- marginal: Pengarah, -->
+
+<!-- marginal: dsb. -->
 
 <!-- page 11 -->
 
@@ -314,11 +418,7 @@ mengikut pengertian Kanun Keseksaan.
 
 <!-- marginal: dan -->
 
-menyimpan rekod pengendalian mengenai pemfosikan, pendulangan, penjelajahan, perlombongan, pemilikan,
-
-<!-- marginal: pergerakan, -->
-
-penyimpanan, pemprosesan, pembelian dan penjualan mineral-mineral dan bijih-bijih mineral;
+menyimpan rekod pengendalian mengenai pemfosikan, pendulangan, penjelajahan, perlombongan, pemilikan, pergerakan, penyimpanan, pemprosesan, pembelian dan penjualan mineral-mineral dan bijih-bijih mineral;
 
 (d) melaksanakan apa-apa fungsi berhubungan dengan Akta ini sebagaimana yang ditentukan oleh Menteri dari semasa ke semasa; dan
 
@@ -326,25 +426,55 @@ penyimpanan, pemprosesan, pembelian dan penjualan mineral-mineral dan bijih-biji
 
 <!-- page 12 -->
 
-Perwakilan
+<!-- marginal: Perwakilan -->
 
-6. Ketua Pengarah boleh, secara bertulis, mewakilkan fungsi atau kepada mana-mana pegawai di bawah kawalan, arahan kewajipan dan pengawasannya penjalanan atau pelaksanaan, oleh Ketua Pengarah. tertakluk kepada apa-apa syarat, batasan atau sekatan yang diperuntukkan dalam suratcara perwakilan itu, apa- apa fungsi atau kewajipannya yang diberikan kepadanya di bawah Akta ini:
+6. Ketua Pengarah boleh, secara bertulis, mewakilkan
+
+<!-- marginal: fungsi atau -->
+
+kepada mana-mana pegawai di bawah kawalan, arahan
+
+<!-- marginal: kewajipan -->
+
+dan pengawasannya penjalanan atau pelaksanaan,
+
+<!-- marginal: oleh Ketua -->
+
+<!-- marginal: Pengarah. -->
+
+tertakluk kepada apa-apa syarat, batasan atau sekatan yang diperuntukkan dalam suratcara perwakilan itu, apa- apa fungsi atau kewajipannya yang diberikan kepadanya di bawah Akta ini:
 
 Dengan syarat bahawa mana-mana perwakilan di bawah seksyen ini berkenaan dengan apa-apa fungsi atau kewajipan tidaklah menghalang Ketua Pengarah daripada menjalankan atau melaksanakan fungsi-fungsi atau kewajipan-kewajipan itu sendiri jika ternyata bermanfaat baginya berbuat demikian.
 
-Fungsi dan
+<!-- marginal: Fungsi dan -->
 
-7. (1) Seseorang Pengarah hendaklah menjalankan kewajipan fungsi-fungsi dan kewajipan-kewajipan yang diberikan Pengarah. kepada Ketua Pengarah dalam lokaliti geografi di bawah bidang kuasanya.
+7. (1) Seseorang Pengarah hendaklah menjalankan
+
+<!-- marginal: kewajipan -->
+
+fungsi-fungsi dan kewajipan-kewajipan yang diberikan
+
+<!-- marginal: Pengarah. -->
+
+kepada Ketua Pengarah dalam lokaliti geografi di bawah bidang kuasanya.
 
 (2) Seseorang Pengarah hendaklah melaporkan kepada Ketua Pengarah apa-apa perkara yang berkenaan dengannya apa-apa tindakan daripada pihak Ketua Pengarah diperlukan.
 
 (3) Seseorang Pengarah hendaklah terletakhak padanya fungsi-fungsi dan kewajipan-kewajipan seseorang Penolong Pengarah.
 
-Fungsi dan
+<!-- marginal: Fungsi dan -->
 
-8. (1) Seseorang Penolong Pengarah hendaklah— kewajipan Penolong
+8. (1) Seseorang Penolong Pengarah hendaklah—
 
-(a) memeriksa dan mengawalselia penyimpanan, Pengarah. pengangkutan dan penggunaan bahan-bahan toksik, mudah terbakar atau bahan-bahan lain yang berpotensi berbahaya berkenaan dengan atau berhubungan dengan apa-apa aktiviti pemfosikan, pendulangan, penjelajahan, perlombongan atau pemprosesan mineral;
+<!-- marginal: kewajipan -->
+
+<!-- marginal: Penolong -->
+
+(a) memeriksa dan mengawalselia penyimpanan,
+
+<!-- marginal: Pengarah. -->
+
+pengangkutan dan penggunaan bahan-bahan toksik, mudah terbakar atau bahan-bahan lain yang berpotensi berbahaya berkenaan dengan atau berhubungan dengan apa-apa aktiviti pemfosikan, pendulangan, penjelajahan, perlombongan atau pemprosesan mineral;
 
 (b) menghendaki pemegang sesuatu tenemen mineral untuk menyediakan dan menyenggara dalam kawasan tenemen mineral dan pemprosesan mineral itu mana-mana jalan akses dan jalan-jalan lain yang perlu dan mencukupi bagi maksud akses, keluar,
 
@@ -352,17 +482,9 @@ Fungsi dan
 
 pelepasan atau pemindahan selamat mana- mana orang yang tercedera;
 
-(c) memberi apa-apa perintah yang difikirkannya perlu untuk memberhentikan
+(c) memberi apa-apa perintah yang difikirkannya perlu untuk memberhentikan apa-apa pengendalian, penggunaan kelengkapan atau amalan dalam atau dekat dengan mana-mana kawasan pemfosikan, pendulangan, penjelajahan atau kemudahan penyimpanan atau lombong atau loji pemprosesan mineral yang—
 
-<!-- marginal: apa-apa -->
-
-pengendalian, penggunaan kelengkapan atau amalan dalam atau dekat dengan mana-mana kawasan pemfosikan, pendulangan, penjelajahan atau kemudahan penyimpanan atau lombong atau loji pemprosesan mineral yang—
-
-(i) menjejaskan keselamatan
-
-<!-- marginal: atau -->
-
-kesihatan mana-mana orang;
+(i) menjejaskan keselamatan atau kesihatan mana-mana orang;
 
 (ii) menyebabkan kerosakan kepada harta; atau
 
@@ -374,11 +496,7 @@ kesihatan mana-mana orang;
 
 (a) melalui notis bertulis menghendaki seseorang pengurus mengemukakan pelan-pelan pengerjaan lombong dan penyata-penyata yang mengandungi maklumat mengenai apa-apa pengendalian melombong:
 
-Dengan syarat bahawa maklumat
-
-<!-- marginal: itu -->
-
-hendaklah disifatkan, jika diminta secara bertulis oleh pengurus itu, maklumat sulit bagi maksud Akta ini; dan
+Dengan syarat bahawa maklumat itu hendaklah disifatkan, jika diminta secara bertulis oleh pengurus itu, maklumat sulit bagi maksud Akta ini; dan
 
 <!-- page 14 -->
 
@@ -392,19 +510,71 @@ III
 
 ## DAN PERLOMBONGAN
 
-Pemegang
+<!-- marginal: Pemegang -->
 
-9. (1) Mana-mana pemegang lesen mencarigali, lesen tenemen penjelajahan, lesen melombong tuan punya atau pajakan mineral untuk melombong hendaklah, dalam masa tiga puluh hari mengemukakan selepas tenemen mineral itu didaftarkan di bawah mana- salinan tenemen mana undang-undang bertulis, menghantar suatu salinan mineral dan tenemen mineralnya kepada Pengarah dan kepada Ketua pertukaran Pengarah Penyiasatan Kajibumi. alamat kepada Pengarah,
+9. (1) Mana-mana pemegang lesen mencarigali, lesen
 
-(2) Mana-mana pemegang tenemen mineral yang dsb. disebutkan dalam subseksyen (1) yang telah bertukar alamatnya hendaklah, dalam masa empat belas hari dari tarikh pertukaran alamat itu, memberitahu Pengarah dan Ketua Pengarah Penyiasatan Kajibumi secara bertulis mengenai alamat barunya.
+<!-- marginal: tenemen -->
 
-Pengemukaan
+penjelajahan, lesen melombong tuan punya atau pajakan
 
-10. (1) Pemegang lesen melombong tuan punya atau skim pajakan melombong adalah dikehendaki mengemukakan pengendalian melombong. bagi kelulusan Pengarah suatu skim pengendalian melombong bagi kerja pembangunan dan perlombongan di atas tanah yang menjadi subjek tenemen mineral itu sebelum bermulanya apa-apa kerja pembangunan atau perlombongan dalam kawasan tenemen mineral itu.
+<!-- marginal: mineral -->
+
+<!-- marginal: untuk -->
+
+melombong hendaklah, dalam masa tiga puluh hari
+
+<!-- marginal: mengemukakan -->
+
+selepas tenemen mineral itu didaftarkan di bawah mana-
+
+<!-- marginal: salinan -->
+
+<!-- marginal: tenemen -->
+
+mana undang-undang bertulis, menghantar suatu salinan
+
+<!-- marginal: mineral dan -->
+
+tenemen mineralnya kepada Pengarah dan kepada Ketua
+
+<!-- marginal: pertukaran -->
+
+Pengarah Penyiasatan Kajibumi.
+
+<!-- marginal: alamat -->
+
+<!-- marginal: kepada -->
+
+<!-- marginal: Pengarah, -->
+
+(2) Mana-mana pemegang tenemen mineral yang
+
+<!-- marginal: dsb. -->
+
+disebutkan dalam subseksyen (1) yang telah bertukar alamatnya hendaklah, dalam masa empat belas hari dari tarikh pertukaran alamat itu, memberitahu Pengarah dan Ketua Pengarah Penyiasatan Kajibumi secara bertulis mengenai alamat barunya.
+
+<!-- marginal: Pengemukaan -->
+
+10. (1) Pemegang lesen melombong tuan punya atau
+
+<!-- marginal: skim -->
+
+pajakan melombong adalah dikehendaki mengemukakan
+
+<!-- marginal: pengendalian -->
+
+<!-- marginal: melombong. -->
+
+bagi kelulusan Pengarah suatu skim pengendalian melombong bagi kerja pembangunan dan perlombongan di atas tanah yang menjadi subjek tenemen mineral itu sebelum bermulanya apa-apa kerja pembangunan atau perlombongan dalam kawasan tenemen mineral itu.
 
 (2) Skim pengendalian melombong hendaklah termasuk—
 
-(a) tarikh permulaan pengeluaran yang dijangkakan;
+(a) tarikh permulaan pengeluaran
+
+<!-- marginal: yang -->
+
+dijangkakan;
 
 (b) suatu jadual pengeluaran tahunan bijih mentah yang dianggarkan bagi tempoh tenemen mineral itu;
 
@@ -446,19 +616,51 @@ mendapatkan kelulusan Pengarah.
 
 (7) Pemegang lesen melombong tuan punya atau pajakan melombong yang terkilan dengan keputusan Pengarah di bawah seksyen ini boleh, dalam masa tiga puluh hari dari tarikh dia diberitahu tentang keputusan itu, merayu secara bertulis kepada Ketua Pengarah yang keputusannya adalah muktamad.
 
-Notis
+<!-- marginal: Notis -->
 
 11. (1) Pemegang lesen mencarigali atau
 
 <!-- marginal: lesen -->
 
-cadangan penjelajahan hendaklah menghantar suatu notis bertulis untuk menjelajah sekurang-kurangnya tujuh hari sebelum memulakan atau penjelajahan kepada Pengarah dan Ketua Pengarah menjalankan kerja Penyiasatan Kajibumi memaklumkan mereka tentang pembangunan. cadangan itu.
+<!-- marginal: cadangan -->
+
+penjelajahan hendaklah menghantar suatu notis bertulis
+
+<!-- marginal: untuk -->
+
+<!-- marginal: menjelajah -->
+
+sekurang-kurangnya tujuh hari sebelum memulakan
+
+<!-- marginal: atau -->
+
+penjelajahan kepada Pengarah dan Ketua Pengarah
+
+<!-- marginal: menjalankan -->
+
+<!-- marginal: kerja -->
+
+Penyiasatan Kajibumi memaklumkan mereka tentang
+
+<!-- marginal: pembangunan. -->
+
+cadangan itu.
 
 (2) Pemegang lesen melombong tuan punya atau pajakan melombong hendaklah menghantar kepada Pengarah dan Ketua Pengarah Penyiasatan Kajibumi suatu notis yang sama sebelum memulakan apa-apa kerja pembangunan.
 
-Pematuhan
+<!-- marginal: Pematuhan -->
 
-12. (1) Pemegang lesen melombong tuan punya atau skim pajakan melombong hendaklah mematuhi skim pengendalian melombong. pengendalian melombong yang diluluskan di bawah seksyen 10 dan menjalankan kerja pembangunan dan perlombongan mengikut skim pengendalian melombong yang diluluskan itu.
+12. (1) Pemegang lesen melombong tuan punya atau
+
+<!-- marginal: skim -->
+
+pajakan melombong hendaklah mematuhi skim
+
+<!-- marginal: pengendalian -->
+
+<!-- marginal: melombong. -->
+
+pengendalian melombong yang diluluskan di bawah seksyen 10 dan menjalankan kerja pembangunan dan perlombongan mengikut skim pengendalian melombong yang diluluskan itu.
 
 (2) Apabila pemegang lesen melombong tuan punya atau pajakan melombong tidak mematuhi skim pengendalian melombong yang diluluskan itu, Pengarah hendaklah menyiasat perkara itu dan boleh memerintahkan pemegang lesen atau pajakan itu supaya—
 
@@ -510,9 +712,7 @@ melantik seorang pengurus lombong.
 
 (2) Perlantikan seseorang pengurus di bawah subseksyen (1) hendaklah dengan kelulusan Penolong Pengarah.
 
-(3) Jika pengurus yang dilantik di bawah subseksyen
-
-(1) terhenti daripada menjadi pengurus lombong itu, pemegang lesen melombong tuan punya atau pajakan melombong hendaklah dalam masa tiga hari dari tarikh pemberhentian itu melantik pengurus lain dengan kelulusan Penolong Pengarah.
+(3) Jika pengurus yang dilantik di bawah subseksyen (1) terhenti daripada menjadi pengurus lombong itu, pemegang lesen melombong tuan punya atau pajakan melombong hendaklah dalam masa tiga hari dari tarikh pemberhentian itu melantik pengurus lain dengan kelulusan Penolong Pengarah.
 
 (4) Pemegang lesen melombong tuan punya atau pajakan melombong boleh melantik sekian bilangan penolong pengurus yang perlu bagi membantu pengurus, apa-apa perlantikan itu hendaklah dengan kelulusan Penolong Pengarah.
 
@@ -524,9 +724,17 @@ melantik seorang pengurus lombong.
 
 (7) Seseorang pengurus yang dilantik di bawah subseksyen (1) hendaklah—
 
-(a) bertanggungjawab bagi kawalan dan pengawasan harian lombong yang dia telah dilantik pengurus; dan
+(a) bertanggungjawab bagi kawalan
 
-(b) tinggal berdekatan dengan lombong itu melainkan jika dikecualikan secara bertulis oleh Penolong Pengarah.
+<!-- marginal: dan -->
+
+pengawasan harian lombong yang dia telah dilantik pengurus; dan
+
+(b) tinggal berdekatan dengan lombong
+
+<!-- marginal: itu -->
+
+melainkan jika dikecualikan secara bertulis oleh Penolong Pengarah.
 
 (8) Jika seseorang pengurus dikehendaki di bawah Akta ini, tiada kerja boleh dijalankan di lombong itu melainkan jika—
 
@@ -584,9 +792,17 @@ hendaklah ditampalkan di satu atau lebih tempat yang mudah dilihat di lombong it
 
 (8) Jika apa-apa arahan bertulis di bawah seksyen ini tak konsisten dengan Akta ini, peruntukan Akta ini hendaklah mengatasi setakat ketakkonsistenan itu.
 
-Pelan
+<!-- marginal: Pelan -->
 
-16. (1) Pengurus mana-mana lombong hendaklah hendaklah menyimpan di pejabat lombong itu pelan-pelan diberikan. pengerjaan lombong yang tepat yang dibuat daripada pengukuran sebenar mengikut cara yang ditetapkan dan, pada lat tempoh tidak melebihi enam bulan, apa-apa pengerjaan tambahan atau perluasan yang dibuat sejak pengukuran dahulu dilakukan hendaklah diukur dan ditandakan di atas pelan-pelan itu, dan tiada apa-apa pengerjaan itu boleh ditimbus atau dibiarkan tidak diperbaiki sebelum ianya telah diukur dan ditandakan sedemikian.
+16. (1) Pengurus mana-mana lombong hendaklah
+
+<!-- marginal: hendaklah -->
+
+menyimpan di pejabat lombong itu pelan-pelan
+
+<!-- marginal: diberikan. -->
+
+pengerjaan lombong yang tepat yang dibuat daripada pengukuran sebenar mengikut cara yang ditetapkan dan, pada lat tempoh tidak melebihi enam bulan, apa-apa pengerjaan tambahan atau perluasan yang dibuat sejak pengukuran dahulu dilakukan hendaklah diukur dan ditandakan di atas pelan-pelan itu, dan tiada apa-apa pengerjaan itu boleh ditimbus atau dibiarkan tidak diperbaiki sebelum ianya telah diukur dan ditandakan sedemikian.
 
 (2) Jika sesuatu pelan lombong dikemaskinikan, pengurus hendaklah memberi kepada Penolong Pengarah salinan pelan itu yang diperakui yang menunjukkan di atasnya pengerjaan-pengerjaan yang dijalankan sejak pelan terakhir dikemukakan.
 
@@ -632,7 +848,7 @@ memeriksa sesuatu lombong atau apa-apa kerja berkaitan dengannya, dia hendaklah 
 
 (5) Tiada apa-apa jua dalam Akta ini boleh ditafsirkan sebagai mengenakan obligasi ke atas pengurus untuk menyimpan buku-buku rekod atau salinan-salinannya lebih dari dua belas bulan selepas buku-buku rekod itu telah terhenti digunakan bagi membuat apa-apa catatan di dalamnya melainkan jika Penolong Pengarah telah secara bertulis menghendaki mana-mana buku rekod disimpan bagi suatu tempoh yang lebih panjang.
 
-Air efluen.
+<!-- marginal: Air efluen. -->
 
 18. (1) Mana-mana pemegang lesen melombong tuan punya atau pajakan melombong atau pengurus yang menggunakan air berkaitan dengan perlombongan hendaklah mengambil apa-apa langkah bagi memastikan bahawa air yang digunakan sedemikian hendaklah, sebelum ia meninggalkan lombong atau kawasan pembendungan buangan itu yang di dalamnya ia telah digunakan, mematuhi apa-apa standard kualiti air yang ditetapkan dan jika apa-apa standard telah tidak ditetapkan air itu hendaklah semunasabahnya bebas daripada bahan pepejal dan daripada kimia dan bahan lain yang berbahaya kepada kehidupan manusia, haiwan atau tumbuh-tumbuhan.
 
@@ -644,7 +860,9 @@ Air efluen.
 
 <!-- page 23 -->
 
-(3) Apa-apa langkah yang diambil untuk mematuhi suatu perintah yang dikeluarkan di bawah subseksyen (2) tidak berkuatkuasa untuk melepaskan mana-mana orang daripada apa-apa liabiliti yang berbangkit di bawah subseksyen (1).
+(3) Apa-apa langkah yang diambil untuk mematuhi suatu perintah yang dikeluarkan di bawah subseksyen
+
+(2) tidak berkuatkuasa untuk melepaskan mana-mana orang daripada apa-apa liabiliti yang berbangkit di bawah subseksyen (1).
 
 <!-- marginal: Hakisan. -->
 
@@ -654,9 +872,7 @@ Air efluen.
 
 perlombongan hendaklah mengambil apa-apa langkah yang munasabah untuk mencegah atau mengurangkan hakisan tanah yang menjadi subjek tenemen mineral dan kesan-kesannya.
 
-(2) Bilamasa diarahkan oleh Penolong Pengarah, tiap-tiap pemegang sesuatu tenemen mineral dan pengurusnya hendaklah menyediakan dan menyenggara apa-apa kerja pembendungan atau
-
-<!-- marginal: tempat -->
+(2) Bilamasa diarahkan oleh Penolong Pengarah, tiap-tiap pemegang sesuatu tenemen mineral dan pengurusnya hendaklah menyediakan dan menyenggara apa-apa kerja pembendungan atau tempat
 
 <!-- marginal: lain -->
 
@@ -694,11 +910,25 @@ IV
 
 ## KEMALANGAN DAN SIASATAN
 
-Prosidmg
+<!-- marginal: Prosidmg -->
 
-21. (1) Jika— apabila berlaku
+21. (1) Jika—
 
-(a) apa-apa kemalangan yang mengakibatkan kemalangan kehilangan nyawa atau kecederaan badan yang dan kejadian berbahaya teruk kepada mana-mana orang; atau
+<!-- marginal: apabila -->
+
+<!-- marginal: berlaku -->
+
+(a) apa-apa kemalangan yang mengakibatkan
+
+<!-- marginal: kemalangan -->
+
+kehilangan nyawa atau kecederaan badan yang
+
+<!-- marginal: dan kejadian -->
+
+<!-- marginal: berbahaya -->
+
+teruk kepada mana-mana orang; atau
 
 (b) apa-apa kemalangan yang mengakibatkan kerosakan kepada mana-mana harta,
 
@@ -862,9 +1092,23 @@ dan hal keadaan kes itu supaya hadir di hadapannya, dan orang itu hendaklah hadi
 
 munasabah yang dilakukan olehnya dan adalah sah bagi Ketua Pengarah membayar perbelanjaan itu.
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-26. (1) Seseorang pegawai galian yang membuat memeriksa sesuatu penyiasatan di bawah Akta ini boleh memeriksa orang yang mengetahui secara lisan mana-mana orang yang dijangkakan kes. mengetahui fakta dan hal keadaan kes itu dan hendaklah mengubah ke dalam bentuk bertulis apa-apa pernyataan yang dibuat oleh orang yang diperiksa itu.
+26. (1) Seseorang pegawai galian yang membuat
+
+<!-- marginal: memeriksa -->
+
+sesuatu penyiasatan di bawah Akta ini boleh memeriksa
+
+<!-- marginal: orang yang -->
+
+<!-- marginal: mengetahui -->
+
+secara lisan mana-mana orang yang dijangkakan
+
+<!-- marginal: kes. -->
+
+mengetahui fakta dan hal keadaan kes itu dan hendaklah mengubah ke dalam bentuk bertulis apa-apa pernyataan yang dibuat oleh orang yang diperiksa itu.
 
 (2) Orang itu adalah terikat di sisi undang-undang untuk menjawab segala soalan yang berhubungan dengan kes itu yang diajukan kepadanya oleh pegawai galian itu:
 
@@ -928,7 +1172,11 @@ mineral, kotak, peti, bekas, bungkusan, alat pengangkutan atau benda yang berken
 
 (3) Pegawai galian yang menyita mana-mana mineral, kotak, peti, bekas, bungkusan, alat pengangkutan atau benda di bawah subseksyen (1) hendaklah—
 
-(a) dengan serta-merta meletakkan pada mineral, kotak, peti, bekas, bungkusan, alat pengangkutan atau benda itu suatu tanda yang menunjukkan bahawa ia telah disita;
+(a) dengan serta-merta meletakkan pada mineral, kotak, peti, bekas, bungkusan,
+
+<!-- marginal: alat -->
+
+pengangkutan atau benda itu suatu tanda yang menunjukkan bahawa ia telah disita;
 
 (b) menyediakan suatu senarai benda yang disita dan dengan serta-merta, atau dengan seberapa segera yang praktik, menyerahkan satu salinan yang ditandatangan olehnya kepada pemunya atau orang yang daripadanya benda itu disita yang berada di bangunan atau premis itu dan
 
@@ -968,7 +1216,17 @@ memuaskan hatinya bahawa benda itu akan diserahkan kepadanya apabila diminta ata
 
 <!-- page 34 -->
 
-Pelucuthakan 31. (1) Apa-apa benda yang disita pada menjalankan benda yang apa-apa kuasa yang diberikan di bawah Akta ini boleh disita. dilucuthakkan.
+<!-- marginal: Pelucuthakan -->
+
+31. (1) Apa-apa benda yang disita pada menjalankan
+
+<!-- marginal: benda yang -->
+
+apa-apa kuasa yang diberikan di bawah Akta ini boleh
+
+<!-- marginal: disita. -->
+
+dilucuthakkan.
 
 (2) Suatu perintah bagi pelucuthakan atau bagi pelepasan apa-apa benda yang disita pada menjalankan apa-apa kuasa yang diberikan di bawah Akta ini hendaklah dibuat oleh mahkamah yang di hadapannya pendakwaan berkenaan dengan benda itu telah diadakan dan suatu perintah bagi pelucuthakan benda itu hendaklah dibuat jika dibuktikan sehingga mahkamah berpuas hati bahawa suatu kesalahan di bawah Akta ini telah dilakukan dan bahawa benda itu ialah hal perkara atau telah digunakan dalam melakukan kesalahan itu, walaupun tiada seorang pun telah disabitkan atas kesalahan itu.
 
@@ -1022,11 +1280,55 @@ kesalahan di bawah Akta ini, kos memegang benda itu
 
 dalam jagaan hendaklah, sekiranya mana-mana orang didapati melakukan sesuatu kesalahan, menjadi suatu hutang yang kena dibayar kepada Kerajaan oleh orang itu dan bolehlah didapatkan kembali dengan sewajarnya.
 
-Tiada kos 33. Tiada seorang pun, dalam apa-apa prosiding di atau hadapan mana-mana mahkamah berkenaan dengan gantirugi boleh penyitaan apa-apa benda yang disita pada menjalankan didapatt atau berupa menjalankan apa-apa kuasa yang diberikan berbangkit daripada di bawah Akta ini, berhak mendapat kos prosiding itu penyitaan. atau mendapat apa-apa gantirugi atau relif lain melainkan jika penyitaan itu telah dibuat tanpa sebab yang munasabah.
+<!-- marginal: Tiada kos -->
 
-Kuasa untuk
+33. Tiada seorang pun, dalam apa-apa prosiding di
 
-34. (1) Jika mana-mana pegawai galian mempunyai memberhenti- syak yang munasabah bahawa mana-mana alat kan dan menggeledah pengangkutan sedang membawa apa-apa benda yang alat berkenaan dengannya suatu kesalahan di bawah Akta ini pengangkutan. sedang atau telah dilakukan, dia boleh memberhentikan dan memeriksa alat pengangkutan itu.
+<!-- marginal: atau -->
+
+hadapan mana-mana mahkamah berkenaan dengan
+
+<!-- marginal: gantirugi -->
+
+<!-- marginal: boleh -->
+
+penyitaan apa-apa benda yang disita pada menjalankan
+
+<!-- marginal: didapatt -->
+
+atau berupa menjalankan apa-apa kuasa yang diberikan
+
+<!-- marginal: berbangkit -->
+
+<!-- marginal: daripada -->
+
+di bawah Akta ini, berhak mendapat kos prosiding itu
+
+<!-- marginal: penyitaan. -->
+
+atau mendapat apa-apa gantirugi atau relif lain melainkan jika penyitaan itu telah dibuat tanpa sebab yang munasabah.
+
+<!-- marginal: Kuasa untuk -->
+
+34. (1) Jika mana-mana pegawai galian mempunyai
+
+<!-- marginal: memberhenti- -->
+
+syak yang munasabah bahawa mana-mana alat
+
+<!-- marginal: kan dan -->
+
+<!-- marginal: menggeledah -->
+
+pengangkutan sedang membawa apa-apa benda yang
+
+<!-- marginal: alat -->
+
+berkenaan dengannya suatu kesalahan di bawah Akta ini
+
+<!-- marginal: pengangkutan. -->
+
+sedang atau telah dilakukan, dia boleh memberhentikan dan memeriksa alat pengangkutan itu.
 
 (2) Orang yang mengawal atau menjaga alat pengangkutan itu hendaklah, jika dikehendaki berbuat demikian oleh pegawai galian itu—
 
@@ -1036,17 +1338,9 @@ Kuasa untuk
 
 memeriksanya; dan
 
-(b) membuka semua bahagian alat pengangkutan itu, termasuk bekas-bekas di dalamnya atau di atasnya, untuk diperiksa dan mengambil segala langkah yang perlu untuk membolehkan atau memudahkan penjalanan
+(b) membuka semua bahagian alat pengangkutan itu, termasuk bekas-bekas di dalamnya atau di atasnya, untuk diperiksa dan mengambil segala langkah yang perlu untuk membolehkan atau memudahkan penjalanan pemeriksaan sebagaimana pegawai galian itu dapati perlu dibuat.
 
-<!-- marginal: pemeriksaan -->
-
-sebagaimana pegawai galian itu dapati perlu dibuat.
-
-(3) Mana-mana orang yang tidak atau enggan bekerjasama dengan pegawai galian
-
-<!-- marginal: itu untuk -->
-
-memberhentikan alat pengangkutan atau menjalankan suatu penggeledahan ke atas alat pengangkutan itu adalah melakukan suatu kesalahan.
+(3) Mana-mana orang yang tidak atau enggan bekerjasama dengan pegawai galian itu untuk memberhentikan alat pengangkutan atau menjalankan suatu penggeledahan ke atas alat pengangkutan itu adalah melakukan suatu kesalahan.
 
 <!-- page 37 -->
 
@@ -1108,7 +1402,13 @@ Dengan syarat sentiasanya bahawa dalam mana-mana hal di mana pegawai pendakwa be
 
 (3) Jika mana-mana penganalisis dipanggil oleh tertuduh sebagaimana yang diperuntukkan oleh subseksyen (1), dia hendaklah dipanggil atas perbelanjaan tertuduh melainkan jika mahkamah mengarahkan selainnya.
 
-Perlindungan 38. (1) Kecuali sebagaimana yang diperuntukkan informer. kemudian daripada ini, tiada saksi dalam mana-mana prosiding sivil atau jenayah berkewajipan atau dibenarkan mendedah nama atau alamat mana-mana informer atau isi dan jenis maklumat yang diterima daripadanya atau untuk menyatakan apa-apa perkara yang mungkin membawa dirinya diketahui.
+<!-- marginal: Perlindungan -->
+
+38. (1) Kecuali sebagaimana yang diperuntukkan
+
+<!-- marginal: informer. -->
+
+kemudian daripada ini, tiada saksi dalam mana-mana prosiding sivil atau jenayah berkewajipan atau dibenarkan mendedah nama atau alamat mana-mana informer atau isi dan jenis maklumat yang diterima daripadanya atau untuk menyatakan apa-apa perkara yang mungkin membawa dirinya diketahui.
 
 (2) Jika apa-apa buku, dokumen atau surat yang di bawah keterangan atau yang boleh diperiksa dalam mana-mana prosiding sivil atau jenayah mengandungi apa-apa pencatatan yang menamakan
 
@@ -1192,17 +1492,59 @@ memindahkan mana-mana bahagian timbunan atau lambakan di mulut mana-mana lubong 
 
 (2) Mahkamah boleh memerintahkan mana-mana orang yang disabitkan dengan suatu kesalahan di bawah seksyen ini untuk memperbaiki atau menggantikan atas perbelanjaannya sendiri mana-mana kayu, pagar, selongsong, lapisan, tangga, pelantar, perkakas, timbunan atau lambakan yang telah dirosakkan atau dipindahkan itu.
 
-Mengganggu,
+<!-- marginal: Mengganggu, -->
 
-42. Mana-mana orang yang mengganggu, memindah- memindahkan, kan, merosakkan atau memusnahkan apa-apa benda merosakkan atau memus- yang disita di bawah Akta ini adalah melakukan suatu nahkan apa- apa benda kesalahan. yang disita. Penalti
+42. Mana-mana orang yang mengganggu, memindah-
 
-43. Mana-mana orang yang tidak mematuhi apa-apa kerana tidak perintah bertulis yang dikeluarkan oleh seseorang mematuhi perintah pegawai galian adalah melakukan suatu kesalahan dan yang sah. boleh, apabila disabitkan, didenda tidak melebihi empat puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.
+<!-- marginal: memindahkan, -->
 
-Kesalahan
+kan, merosakkan atau memusnahkan apa-apa benda
 
-44. (1) Mana-mana orang yang— berkenaan dengan
+<!-- marginal: merosakkan -->
 
-(a) mengemukakan maklumat palsu dalam apa-apa maklumat. permohonan, laporan atau dokumen lain di bawah Akta ini;
+<!-- marginal: atau memus- -->
+
+yang disita di bawah Akta ini adalah melakukan suatu
+
+<!-- marginal: nahkan apa- -->
+
+<!-- marginal: apa benda -->
+
+kesalahan.
+
+<!-- marginal: yang disita. -->
+
+<!-- marginal: Penalti -->
+
+43. Mana-mana orang yang tidak mematuhi apa-apa
+
+<!-- marginal: kerana tidak -->
+
+perintah bertulis yang dikeluarkan oleh seseorang
+
+<!-- marginal: mematuhi -->
+
+<!-- marginal: perintah -->
+
+pegawai galian adalah melakukan suatu kesalahan dan
+
+<!-- marginal: yang sah. -->
+
+boleh, apabila disabitkan, didenda tidak melebihi empat puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.
+
+<!-- marginal: Kesalahan -->
+
+44. (1) Mana-mana orang yang—
+
+<!-- marginal: berkenaan -->
+
+<!-- marginal: dengan -->
+
+(a) mengemukakan maklumat palsu dalam apa-apa
+
+<!-- marginal: maklumat. -->
+
+permohonan, laporan atau dokumen lain di bawah Akta ini;
 
 (b) memberikan atau menyebabkan
 
@@ -1224,11 +1566,7 @@ apa-apa suratcara yang digunakan dalam menjalankan apa-apa urusan atau perkara d
 
 (e) mengubahpinda apa-apa dokumen atau suratcara atau melancung meterai, tandatangan, tandatangan ringkas atau tanda- tanda lain bagi atau yang digunakan oleh mana-mana pegawai galian bagi penentusahan mana-mana dokumen atau suratcara itu atau bagi apa-apa maksud lain dalam menjalankan apa-apa urusan atau perkara di bawah Akta ini;
 
-(f) memperdaya mana-mana pegawai galian, secara fraud atau selainnya,
-
-<!-- marginal: dengan -->
-
-mengeluarkan apa-apa dokumen atau membuat atau menyebabkan supaya dibuat apa-apa catatan dalam apa-apa buku, dokumen atau suratcara yang disimpan bagi maksud Akta ini untuk membolehkan mana-mana orang menggerakkan, mengangkut, menghantar atau mengeksport bijih mineral mengikut apa-apa cara selain daripada cara yang ditetapkan;
+(f) memperdaya mana-mana pegawai galian, secara fraud atau selainnya, dengan mengeluarkan apa-apa dokumen atau membuat atau menyebabkan supaya dibuat apa-apa catatan dalam apa-apa buku, dokumen atau suratcara yang disimpan bagi maksud Akta ini untuk membolehkan mana-mana orang menggerakkan, mengangkut, menghantar atau mengeksport bijih mineral mengikut apa-apa cara selain daripada cara yang ditetapkan;
 
 (g) membuat atau cuba untuk membuat atau menyebabkan supaya dibuat apa-apa catatan tak betul dalam apa-apa buku, dokumen atau suratcara yang disimpan bagi maksud Akta ini;
 
@@ -1242,15 +1580,39 @@ adalah melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak me
 
 (2) Dalam mana-mana pendakwaan di bawah seksyen ini, apabila telah dibuktikan bahawa apa-apa permohonan, maklumat, pernyataan, buku, dokumen atau suratcara adalah palsu, tak betul, mengelirukan atau dilancungkan keseluruhannya atau sebahagiannya tentang apa-apa butir material, maka hendaklah dianggap, sehingga dibuktikan sebaliknya, bahawa permohonan, maklumat, pernyataan, buku, dokumen atau suratcara itu adalah palsu, tak betul, mengelirukan atau dilancungkan tentang sesuatu butir material, mengikut kehendak keadaan, kepada pengetahuan orang yang membekalnya:
 
-Dengan syarat bahawa orang itu tidaklah boleh didapati melakukan suatu kesalahan j i ka dia membuktikan bahawa dia telah bertindak dengan suci hati dan tidak ada alasan yang munasabah untuk menyangka bahawa permohonan, maklumat, pernyataan, buku, dokumen atau suratcara itu adalah palsu, tak betul, mengelirukan atau dilancungkan.
+Dengan syarat bahawa orang itu tidaklah boleh didapati melakukan suatu kesalahan
 
-Kehilangan
+<!-- marginal: j i ka dia -->
 
-45. Mana-mana orang yang menyebabkan kehilangan atau atau kebinasaan apa-apa benda yang hendak disita di kebinasaan apa-apa bawah Akta ini dengan niat untuk mencegah benda yang penyitaannya adalah melakukan suatu kesalahan dan disita. boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.
+membuktikan bahawa dia telah bertindak dengan suci hati dan tidak ada alasan yang munasabah untuk menyangka bahawa permohonan, maklumat, pernyataan, buku, dokumen atau suratcara itu adalah palsu, tak betul, mengelirukan atau dilancungkan.
 
-Perbuatan
+<!-- marginal: Kehilangan -->
 
-46. Mana-mana orang yang— cuai.
+45. Mana-mana orang yang menyebabkan kehilangan
+
+<!-- marginal: atau -->
+
+atau kebinasaan apa-apa benda yang hendak disita di
+
+<!-- marginal: kebinasaan -->
+
+<!-- marginal: apa-apa -->
+
+bawah Akta ini dengan niat untuk mencegah
+
+<!-- marginal: benda yang -->
+
+penyitaannya adalah melakukan suatu kesalahan dan
+
+<!-- marginal: disita. -->
+
+boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.
+
+<!-- marginal: Perbuatan -->
+
+46. Mana-mana orang yang—
+
+<!-- marginal: cuai. -->
 
 (a) apabila diambil kerja dalam atau dekat dengan sesuatu lombong atau tapak penjelajahan melakukan apa-apa perbuatan mengikut cara yang mungkin boleh menyebabkan bahaya atau kerosakan kepada mana-mana orang dalam atau dekat dengan lombong atau
 
@@ -1336,23 +1698,65 @@ adalah seorang pengarah urusan, pengurus atau pegawai
 
 <!-- page 44 -->
 
-serupa itu yang lain dalam pertubuhan perbadanan itu, boleh dipertuduh bersesama dalam prosiding yang sama dengan pertubuhan perbadanan itu, dan jika pertubuhan perbadanan itu disabitkan dengan kesalahan yang dipertuduhkan, maka tiap-tiap pengarah urusan, pengurus atau pegawai itu hendaklah disifatkan telah melakukan kesalahan itu melainkan jika dia membuktikan bahawa kesalahan itu dilakukan tanpa pengetahuannya atau bahawa dia telah mengambil langkah berjaga-jaga yang munasabah untuk mencegah pelakuan kesalahan itu.
+serupa itu yang lain dalam pertubuhan perbadanan itu, boleh dipertuduh bersesama dalam prosiding yang sama dengan pertubuhan perbadanan itu, dan jika pertubuhan perbadanan itu disabitkan dengan kesalahan yang dipertuduhkan, maka tiap-tiap pengarah urusan, pengurus atau pegawai itu hendaklah disifatkan telah melakukan kesalahan itu melainkan
 
-Kesalahan
+<!-- marginal: jika dia -->
 
-52. Mana-mana orang yang akan boleh dikenakan apa- yang apa penalti di bawah Akta ini kerana apa-apa jua yang dilakukan oleh dilakukan atau ditinggalkan sekiranya perkara itu telah pekongsi, dilakukan atau ditinggalkan olehnya sendiri boleh ejen atau pengkhidmat. dikenakan penalti yang sama jika perkara itu telah dilakukan atau ditinggalkan oleh pekongsi, ejen atau pengkhidmatnya melainkan jika dia membuktikan bahawa dia telah mengambil langkah berjaga-jaga yang munasabah untuk mencegah pelakuan atau peninggalan perkara itu.
+membuktikan bahawa kesalahan itu dilakukan tanpa pengetahuannya atau bahawa dia telah mengambil langkah berjaga-jaga yang munasabah untuk mencegah pelakuan kesalahan itu.
 
-Penalti bagi
+<!-- marginal: Kesalahan -->
 
-53. Mana-mana orang yang melakukan suatu kesalahan kesalahan di bawah Akta ini boleh, dalam hal sesuatu kesalahan yang berterusan berterusan, sebagai tambahan kepada apa-apa denda yang diperuntukkan di bawah Akta ini, didenda selanjutnya dua ratus ringgit bagi tiap-tiap hari atau sebahagian dari sehari kesalahan itu berterusan selepas sabitan.
+52. Mana-mana orang yang akan boleh dikenakan apa-
 
-Penalti am.
+<!-- marginal: yang -->
+
+apa penalti di bawah Akta ini kerana apa-apa jua yang
+
+<!-- marginal: dilakukan -->
+
+<!-- marginal: oleh -->
+
+dilakukan atau ditinggalkan sekiranya perkara itu telah
+
+<!-- marginal: pekongsi, -->
+
+dilakukan atau ditinggalkan olehnya sendiri boleh
+
+<!-- marginal: ejen atau -->
+
+<!-- marginal: pengkhidmat. -->
+
+dikenakan penalti yang sama jika perkara itu telah dilakukan atau ditinggalkan oleh pekongsi, ejen atau pengkhidmatnya melainkan jika dia membuktikan bahawa dia telah mengambil langkah berjaga-jaga yang munasabah untuk mencegah pelakuan atau peninggalan perkara itu.
+
+<!-- marginal: Penalti bagi -->
+
+53. Mana-mana orang yang melakukan suatu kesalahan
+
+<!-- marginal: kesalahan -->
+
+di bawah Akta ini boleh, dalam hal sesuatu kesalahan
+
+<!-- marginal: yang -->
+
+<!-- marginal: berterusan -->
+
+berterusan, sebagai tambahan kepada apa-apa denda yang diperuntukkan di bawah Akta ini, didenda selanjutnya dua ratus ringgit bagi tiap-tiap hari atau sebahagian dari sehari kesalahan itu berterusan selepas sabitan.
+
+<!-- marginal: Penalti am. -->
 
 54. Mana-mana orang yang melakukan suatu kesalahan di bawah Akta ini yang baginya tiada penalti diperuntukkan dengan nyata boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.
 
-Pengkom-
+<!-- marginal: Pengkom- -->
 
-55. (1) Ketua Pengarah atau Timbalan Ketua Pengarah paunan boleh mengkompaunkan apa-apa kesalahan yang kesalahan. dilakukan oleh mana-mana orang di bawah Akta ini,
+55. (1) Ketua Pengarah atau Timbalan Ketua Pengarah
+
+<!-- marginal: paunan -->
+
+boleh mengkompaunkan apa-apa kesalahan yang
+
+<!-- marginal: kesalahan. -->
+
+dilakukan oleh mana-mana orang di bawah Akta ini,
 
 <!-- page 45 -->
 
@@ -1390,13 +1794,43 @@ tanpa keizinan bertulis daripada Pendakwa Raya.
 
 (2) Mana-mana pegawai galian yang diberikuasa secara bertulis oleh Pendakwa Raya boleh menjalankan pendakwaan bagi apa-apa kesalahan di bawah Akta ini.
 
-Mendapatkan 57. Apa-apa wang yang kena dibayar kepada Kerajaan kembali di bawah Akta ini boleh didapatkan kembali oleh wang yang kena dibayar Kerajaan melalui prosiding sivil sebagai suatu hutang kepada yang kena dibayar kepada Kerajaan. Kerajaan.
+<!-- marginal: Mendapatkan -->
+
+57. Apa-apa wang yang kena dibayar kepada Kerajaan
+
+<!-- marginal: kembali -->
+
+di bawah Akta ini boleh didapatkan kembali oleh
+
+<!-- marginal: wang yang -->
+
+<!-- marginal: kena dibayar -->
+
+Kerajaan melalui prosiding sivil sebagai suatu hutang
+
+<!-- marginal: kepada -->
+
+yang kena dibayar kepada Kerajaan.
+
+<!-- marginal: Kerajaan. -->
 
 ## BAHAGIAN VI
 
 ## PELBAGAI
 
-Larangan 58. (1) Tertakluk kepada subseksyen (4), tiada apa-apa terhadap maklumat yang terkandung dalam apa-apa laporan yang pendedahan maklumat. dikemukakan sebagaimana dikehendaki oleh mana-mana pejabat atau pegawai Kerajaan berkenaan dengan mana- mana lesen mencarigali atau lesen penjelajahan boleh didedahkan oleh pejabat atau pegawai itu—
+<!-- marginal: Larangan -->
+
+58. (1) Tertakluk kepada subseksyen (4), tiada apa-apa
+
+<!-- marginal: terhadap -->
+
+maklumat yang terkandung dalam apa-apa laporan yang
+
+<!-- marginal: pendedahan -->
+
+<!-- marginal: maklumat. -->
+
+dikemukakan sebagaimana dikehendaki oleh mana-mana pejabat atau pegawai Kerajaan berkenaan dengan mana- mana lesen mencarigali atau lesen penjelajahan boleh didedahkan oleh pejabat atau pegawai itu—
 
 (a) selama tempoh tiga tahun dari tarikh laporan itu dikemukakan; atau
 
@@ -1414,7 +1848,9 @@ mengikut mana-mana tempoh yang mula-mula habis tempoh sedemikian, kecuali dengan
 
 (b) jika permohonan itu diluluskan, selama tempoh enam bulan dari tarikh habis tempoh lesen atau pajakan itu.
 
-(4) Tiada apa-apa jua dalam subseksyen (1), (2) atau (3) boleh berkuatkuasa untuk menghalang pendedahan maklumat jika pendedahan -itu dibuat—
+(4) Tiada apa-apa jua dalam subseksyen (1), (2) atau
+
+(3) boleh berkuatkuasa untuk menghalang pendedahan maklumat jika pendedahan -itu dibuat—
 
 (a) bagi atau berkaitan dengan pentadbiran sewajarnya Akta ini;
 
@@ -1456,19 +1892,27 @@ secara material sesuatu aktiviti- penjelajahan atau perlombongan yang—
 
 tidak boleh menggunakan maklumat sedemikian dengan cara tak patut untuk memperolehi, secara langsung atau tak langsung, manfaat bagi dirinya atau bagi mana-mana orang lain.
 
-Kad kuasa.
+<!-- marginal: Kad kuasa. -->
 
 60. (1) Tiap-tiap pegawai galian yang diberi kuasa untuk bertindak di bawah Akta ini hendaklah, apabila diminta, menyatakan jawatannya dan mengemukakan kepada orang yang terhadapnya pegawai galian itu bertindak atau yang daripadanya pegawai galian itu meminta apa-apa maklumat kad kuasanya yang dikeluarkan secara rasmi kepadanya oleh Ketua Pengarah.
 
 (2) Mana-mana orang boleh enggan mematuhi apa- apa permintaan, kehendak atau perintah mana-mana pegawai galian yang bertindak di bawah Akta ini jika pegawai galian itu enggan menyatakan jawatannya dan mengemukakan kad kuasanya apabila diminta oleh orang itu.
 
-Perlindungan
+<!-- marginal: Perlindungan -->
 
-61. Tiada pegawai galian yang bertanggungjawab bagi pegawai. pentadbiran Akta ini boleh menanggung apa-apa liabiliti persendirian bagi apa-apa kerugian atau kerosakan yang disebabkan oleh apa-apa perbuatan atau peninggalannya dalam menjalankan kewajipan-kewajipan di bawah Akta ini atau mana-mana peraturan yang dibuat di bawahnya melainkan jika kerugian atau kerosakan itu telah disebabkan dengan sengaja atau oleh perbuatan melulu atau kecuaian melampau.
+61. Tiada pegawai galian yang bertanggungjawab bagi
 
-Penyampaian
+<!-- marginal: pegawai. -->
 
-62. (1) Apa-apa notis yang dikehendaki diberikan atau notis. disampaikan di bawah Akta ini boleh, melainkan jika apa-apa cara penyampaian yang lain ditetapkan, dihantar melalui pos berdaftar kepada orang yang terjejas olehnya.
+pentadbiran Akta ini boleh menanggung apa-apa liabiliti persendirian bagi apa-apa kerugian atau kerosakan yang disebabkan oleh apa-apa perbuatan atau peninggalannya dalam menjalankan kewajipan-kewajipan di bawah Akta ini atau mana-mana peraturan yang dibuat di bawahnya melainkan jika kerugian atau kerosakan itu telah disebabkan dengan sengaja atau oleh perbuatan melulu atau kecuaian melampau.
+
+<!-- marginal: Penyampaian -->
+
+62. (1) Apa-apa notis yang dikehendaki diberikan atau
+
+<!-- marginal: notis. -->
+
+disampaikan di bawah Akta ini boleh, melainkan jika apa-apa cara penyampaian yang lain ditetapkan, dihantar melalui pos berdaftar kepada orang yang terjejas olehnya.
 
 <!-- page 49 -->
 
@@ -1510,7 +1954,11 @@ dan bijih-bijih mineral tertentu yang dijadikan tertakluk kepada kehendak pelese
 
 (c) menetapkan langkah-langkah perlindungan alam sekeliling, standard efluen, standard bunyi, standard getaran dan standard-standard lain dan cara bagi melindungi alam sekeliling:
 
-Dengan syarat bahawa apa-apa langkah, standard atau cara itu tidak boleh bercanggah dengan mana-mana peruntukan Akta Kualiti Akta 127. Alam Sekeliling 1974;
+Dengan syarat bahawa apa-apa langkah, standard atau cara itu tidak boleh bercanggah dengan mana-mana peruntukan Akta Kualiti
+
+<!-- marginal: Akta 127. -->
+
+Alam Sekeliling 1974;
 
 (d) menetapkan kehendak-kehendak dan standard- standard bagi penggunaan ejen-ejen bahan letupan dan ledakan, bahan-bahan berbahaya dan toksik, penganginan, keadaan sanitasi dan kebersihan dalam kawasan penjelajahan dan perlombongan;
 
@@ -1572,11 +2020,7 @@ Akta Pembangunan Mineral 1994 ("Akta") yang dicadangkan bertujuan mengadakan per
 
 2. Bahagian I mengandungi perkara-perkara permulaan.
 
-3. Fasal 1 membuat peruntukan mengenai tajuk ringkas dan bertujuan membenarkan Menteri menentukan
-
-<!-- marginal: tarikh mula -->
-
-berkuatkuasanya Akta ini, Akta ini hendaklah terpakai di seluruh Malaysia. Bagaimanapun Menteri boleh menggantungkan kuatkuasa keseluruhan atau mana-mana peruntukan di mana-mana Negeri melalui perintah.
+3. Fasal 1 membuat peruntukan mengenai tajuk ringkas dan bertujuan membenarkan Menteri menentukan tarikh mula berkuatkuasanya Akta ini, Akta ini hendaklah terpakai di seluruh Malaysia. Bagaimanapun Menteri boleh menggantungkan kuatkuasa keseluruhan atau mana-mana peruntukan di mana-mana Negeri melalui perintah.
 
 4. Fasal 2 menghuraikan skop pemakaian Akta.
 

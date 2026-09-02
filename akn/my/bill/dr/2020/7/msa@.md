@@ -86,9 +86,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### “Kesalahan oleh syarikat, dsb.
 
-### 42a.
-
-Jika mana-mana orang yang melakukan kesalahan di bawah Akta ini atau mana-mana peraturan-peraturan yang dibuat di bawah Akta ini ialah suatu syarikat, perkongsian liabiliti terhad, firma, pertubuhan atau kumpulan orang yang lain, seseorang yang pada masa pelakuan kesalahan itu ialah seorang pengarah, pegawai pematuhan, pekongsi, pengurus, setiausaha atau pegawai lain yang seumpamanya bagi syarikat, perkongsian liabiliti terhad, firma, pertubuhan atau kumpulan orang yang lain itu atau yang berupa sebagai bertindak atas sifat itu atau yang dengan apa-apa cara atau sehingga apa-apa takat bertanggungjawab bagi pengurusan apa-apa hal ehwal syarikat, perkongsian liabiliti terhad, firma, pertubuhan atau kumpulan orang yang lain itu atau yang membantu dalam pengurusannya—
+42A. Jika mana-mana orang yang melakukan kesalahan di bawah Akta ini atau mana-mana peraturan-peraturan yang dibuat di bawah Akta ini ialah suatu syarikat, perkongsian liabiliti terhad, firma, pertubuhan atau kumpulan orang yang lain, seseorang yang pada masa pelakuan kesalahan itu ialah seorang pengarah, pegawai pematuhan, pekongsi, pengurus, setiausaha atau pegawai lain yang seumpamanya bagi syarikat, perkongsian liabiliti terhad, firma, pertubuhan atau kumpulan orang yang lain itu atau yang berupa sebagai bertindak atas sifat itu atau yang dengan apa-apa cara atau sehingga apa-apa takat bertanggungjawab bagi pengurusan apa-apa hal ehwal syarikat, perkongsian liabiliti terhad, firma, pertubuhan atau kumpulan orang yang lain itu atau yang membantu dalam pengurusannya—
 
 (a) boleh dipertuduh secara berasingan atau bersesama dalam prosiding yang sama bersekali dengan syarikat, perkongsian liabiliti terhad, firma, pertubuhan atau kumpulan orang yang lain itu; dan
 
@@ -102,9 +100,7 @@ Jika mana-mana orang yang melakukan kesalahan di bawah Akta ini atau mana-mana p
 
 ### Tanggungan seseorang bagi perbuatan, dsb., pekerja, dsb.
 
-### 42b.
-
-Jika mana-mana orang boleh dikenakan apa-apa hukuman atau penalti di bawah Akta ini atau mana-mana peraturan-peraturan yang dibuat di bawah Akta ini bagi apa-apa perbuatan, peninggalan, pengabaian atau keingkaran yang dilakukan—
+42B. Jika mana-mana orang boleh dikenakan apa-apa hukuman atau penalti di bawah Akta ini atau mana-mana peraturan-peraturan yang dibuat di bawah Akta ini bagi apa-apa perbuatan, peninggalan, pengabaian atau keingkaran yang dilakukan—
 
 (a) oleh pekerja orang itu dalam penjalanan pekerjaannya;
 

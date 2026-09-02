@@ -103,7 +103,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/9/eng@/~cl_3",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (8) by inserting after the words \"public officer\" the words \"or an employee of the Inland Revenue Board of Malaysia\". Amendment"
+        "@value": "in subsection (8) by inserting after the words \"public officer\" the words \"or an employee of the Inland Revenue Board of Malaysia\"."
       }
     },
     {
@@ -111,9 +111,13 @@
       "@type": "akn:clause",
       "eli:number": "4",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/9/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 137(2) of the principal Act is amended by"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Subsection 137(2) of the principal Act is amended by of section inserting after the words \"public officer\" the words \"or 137. an employee of the Inland Revenue Board of Malaysia\". Amendment"
+        "@value": "inserting after the words \"public officer\" the words \"or 137. an employee of the Inland Revenue Board of Malaysia\"."
       }
     },
     {
@@ -126,9 +130,13 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/9/eng@/~cl_5__para_c"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/9/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 138(5) of the principal Act is amended in"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Subsection 138(5) of the principal Act is amended in of section the definition of \"classified person\"— 138."
+        "@value": "the definition of \"classified person\"— 138."
       }
     },
     {
@@ -158,7 +166,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/9/eng@/~cl_5",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after paragraph (c) the following paragraph: \"(d) any employee of the Inland Revenue Board of Malaysia;\". Amendment"
+        "@value": "by inserting after paragraph (c) the following paragraph: \"(d) any employee of the Inland Revenue Board of Malaysia;\"."
       }
     },
     {
@@ -166,9 +174,13 @@
       "@type": "akn:clause",
       "eli:number": "6",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/9/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 144 of the principal Act is amended by inserting"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Section 144 of the principal Act is amended by inserting of section after the words \"public officer\" the words \"or employee 144. of the Inland Revenue Board of Malaysia\"."
+        "@value": "after the words \"public officer\" the words \"or employee 144. of the Inland Revenue Board of Malaysia\"."
       }
     }
   ]

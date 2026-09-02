@@ -1,0 +1,285 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-24-2005",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_5"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Akta Perlembagaan (Pindaan) (No.2) 2005"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_1__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Perlembagaan (Pindaan) (No. 2) 2005."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kecuali perenggan 3(b), Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Yang di-Pertuan Agong melalui pemberitahuan dalam Warta."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 3(b) disifatkan telah mula berkuat kuasa pada 10 Oktober 2003. Pindaan Perkara 46"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Perlembagaan Persekutuan dipinda dalam Perkara 46—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Fasal (1), dengan menggantikan perkataan \"dua ratus sembilan belas\" dengan perkataan \"dua ratus dua puluh dua\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_2__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_2__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Fasal (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_2__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_2__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan menggantikan perkataan \"dua ratus enam\" dengan perkataan \"dua ratus sembilan\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_2__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_2__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (xi), dengan menggantikan perkataan \"dua puluh lapan\" dengan perkataan \"tiga puluh satu\". Pindaan Perkara 121"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Perkara 121 Perlembagaan Persekutuan dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a) Fasal (1), dengan menggantikan perkataan \"Kuala Lumpur\" dengan perkataan \"mana-mana tempat di Negeri-Negeri Tanah Melayu yang ditentukan oleh Yang di-Pertuan Agong\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Fasal (1B) dan (2), dengan menggantikan perkataan \"Kuala Lumpur\" di mana-mana terdapat dengan perkataan \"mana-mana tempat yang ditentukan oleh Yang di-Pertuan Agong\". Pindaan Perkara 124"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_4__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_4__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Perkara 124 Perlembagaan Persekutuan dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas Fasal (2) Fasal yang berikut: \"(2A) Seseorang yang mengangkat sumpah apabila menjadi Presiden Mahkamah Rayuan hendaklah berbuat demikian di hadapan hakim kanan yang ada bagi Mahkamah Rayuan.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Fasal (4), dengan menggantikan perkataan \"Tertakluk kepada Fasal (3), seseorang\" dengan perkataan \"Seseorang\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas Fasal (4) Fasal yang berikut: \"(4A) Seseorang yang mengangkat sumpah apabila menjadi hakim Mahkamah Rayuan hendaklah berbuat demikian di hadapan Presiden Mahkamah Rayuan atau, jika Presiden Mahkamah Rayuan tidak ada, di hadapan hakim yang kanan selepasnya yang ada bagi Mahkamah Rayuan.\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_4__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Fasal (5), dengan memotong perkataan \"Mahkamah Rayuan atau\". Pindaan Perkara 125"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_5__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_5__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Perkara 125 Perlembagaan Persekutuan dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Fasal (3), dengan menggantikan perkataan \"Fasal (3A)\" dengan perkataan \"Fasal (3B)\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan Fasal (3A) dengan Fasal yang berikut: \"(3A) Jika seseorang hakim telah melakukan pelanggaran mana-mana peruntukan kod etika yang ditetapkan di bawah Fasal (3B) tetapi Ketua Hakim Negara berpendapat bahawa pelanggaran itu tidak mewajarkan hakim itu dirujukkan kepada tribunal yang dilantik di bawah Fasal (4), Ketua Hakim Negara boleh merujukkan hakim itu kepada suatu badan yang ditubuhkan di bawah undang-undang persekutuan untuk mengendalikan pelanggaran itu.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas Fasal (3A) Fasal yang berikut: \"(3B) Yang di-Pertuan Agong atas syor Ketua Hakim Negara, Presiden Mahkamah Rayuan dan Hakim-Hakim Besar Mahkamah Tinggi boleh, selepas berunding dengan Perdana Menteri, menetapkan secara bertulis suatu kod etika yang hendaklah juga mengandungi peruntukan tentang tatacara yang hendaklah diikuti dan sanksi yang boleh dikenakan selain pemecatan seseorang hakim daripada jawatannya di bawah Fasal (3), berhubung dengan pelanggaran mana-mana peruntukan kod etika itu. (3c) Kod etika yang ditetapkan di bawah Fasal (3B) hendaklah dipatuhi oleh tiap-tiap hakim Mahkamah Persekutuan dan tiap-tiap pesuruhjaya kehakiman.\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_5__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/24/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Fasal (4), dengan menggantikan perkataan \"Tribunal tersebut\" dengan perkataan \"Tribunal yang dilantik di bawah Fasal (3)\"."
+      }
+    }
+  ]
+}

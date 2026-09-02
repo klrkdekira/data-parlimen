@@ -158,9 +158,11 @@ producers of the like product within each market may be regarded as a separate i
 
 Countervailing and Anti-Dumping
 
-### New Part 1A
+<!-- marginal: New Part 1A -->
 
-3. The principal Act is amended by inserting after Part I the following Part:
+3. The principal Act is amended by inserting after Part I the
+
+<!-- marginal: following Part: -->
 
 ## "PART IA
 
@@ -192,15 +194,23 @@ Bill
 
 if that financial contribution or income or price support confers a benefit in relation to the merchandise.
 
-### Prohibited
+<!-- marginal: Prohibited -->
 
-2B. The following subsidies shall be prohibited: subsidy.
+2B. The following subsidies shall be prohibited:
+
+<!-- marginal: subsidy. -->
 
 (a) subsidies contingent, in law or in fact, whether solely or as one of several other conditions, upon export performance, including those as may be prescribed; and
 
 (b) subsidies contingent, whether solely or as one of several other conditions, upon the use of domestic over imported merchandise.
 
-Actionable 2c. A subsidy that causes the following adverse effects subsidy. to the domestic interest shall be subject to countervailing measures under this Act:
+<!-- marginal: Actionable -->
+
+2c. A subsidy that causes the following adverse effects
+
+<!-- marginal: subsidy. -->
+
+to the domestic interest shall be subject to countervailing measures under this Act:
 
 (a) injury to the domestic industry;
 
@@ -214,9 +224,7 @@ Countervailing and Anti-Dumping
 
 Provided that this section shall not apply to subsidies maintained on agricultural products as provided in Article 13 of the Agreement on Agriculture set out in Annex 1A to the World Trade Organization Agreement.
 
-Non-
-
-2D. The following subsidies shall be regarded as non- actionable actionable subsidies and shall not be subject to subsidy. countervailing duties under this Act:
+Non- 2D. The following subsidies shall be regarded as non- actionable actionable subsidies and shall not be subject to subsidy. countervailing duties under this Act:
 
 (a) subsidies that are not specific within the meaning of subsection 3(2); and
 
@@ -228,9 +236,7 @@ calculation 2E. Subsidy shall be calculated in the prescribed manner.". of subsi
 
 4. The principal Act is amended by substituting for section 3 the following section:
 
-Imposition
-
-3. (1) No countervailing duty shall be imposed except of in accordance with this Act. counter- vailing duties. (2) A subsidy as specified in section 2A shall be subject to countervailing duties as provided under this Act only if the subsidy is specific, as may be prescribed, and is not a non-actionable subsidy.
+Imposition 3. (1) No countervailing duty shall be imposed except of in accordance with this Act. counter- vailing duties. (2) A subsidy as specified in section 2A shall be subject to countervailing duties as provided under this Act only if the subsidy is specific, as may be prescribed, and is not a non-actionable subsidy.
 
 (3) The amount of the countervailing duty to be imposed shall be calculated in accordance with the method as may be prescribed.".
 
@@ -322,7 +328,9 @@ Countervailing and Anti-Dumping
 
 (i) in paragraph (a), by inserting after the word "merchandise" the words "and the amount of such subsidy"; and
 
-(ii) in paragraph (b), by substituting for subparagraphs (i), (ii) and (iii) the following subparagraphs respectively:
+(ii) in paragraph (b), by substituting for subparagraphs
+
+(i), (ii) and (iii) the following subparagraphs respectively:
 
 "(i) the subject merchandise, through the effects of the subsidy, is causing material injury to the domestic industry in Malaysia producing the like product;
 
@@ -480,7 +488,11 @@ Bill
 
 12. The principal Act is amended by inserting after section 12 the following section:
 
-"Duration of 12A. A countervailing duty imposed under this Act shall duty. remain in force only for as long as and to the extent necessary to counteract the subsidization that is causing the injury.".
+"Duration of 12A. A countervailing duty imposed under this Act shall
+
+<!-- marginal: duty. -->
+
+remain in force only for as long as and to the extent necessary to counteract the subsidization that is causing the injury.".
 
 ### Amendment of section 13
 
@@ -618,7 +630,9 @@ Countervailing and Anti-Dumping
 
 "(3) If there are reasonable grounds for believing or suspecting that a sale of the like product under subsection (1) or paragraph (2)(a) is at a price below unit production costs (fixed and variable) plus selling, administrative and other general expenses, the sale may be treated as not having been made in the ordinary course of trade by reason of price and may be disregarded in determining normal value only if the Government determines that such sale was made within an extended period of time in substantial quantities and is at a price that does not provide for the recovery of all costs within a reasonable period of time.
 
-(4) If the price of a sale referred to in subsection (3) is above the weighted average per unit cost for the period of investigation, such price shall be considered to provide for the recovery of costs within a reasonable period of time.
+(4) If the price of a sale referred to in subsection
+
+(3) is above the weighted average per unit cost for the period of investigation, such price shall be considered to provide for the recovery of costs within a reasonable period of time.
 
 (5) For the purpose of this section, the amount for selling, administrative and other general expenses and for profits shall be based on actual information pertaining to production and sales in the ordinary course of trade of the like product by the exporter or producer under investigation.
 
@@ -760,7 +774,9 @@ Countervailing and Anti-Dumping
 
 (i) in paragraph (a), by inserting after the word "merchandise" the words "and the margin of such dumping"; and
 
-(ii) in paragraph (b), by substituting for subparagraphs (i), (ii) and (iii) the following subparagraphs respectively:
+(ii) in paragraph (b), by substituting for subparagraphs
+
+(i), (ii) and (iii) the following subparagraphs respectively:
 
 "(i) the subject merchandise, through the effects of dumping, is causing material injury to the domestic industry in Malaysia producing the like product;
 
@@ -924,9 +940,7 @@ Bill
 
 26. The principal Act is amended by inserting after section 27 the following section:
 
-"Duration
-
-27A. An anti-dumping duty imposed under this Act shall of duty. remain in force only for as long as and to the extent necessary to counteract the dumping that is causing the injury.".
+"Duration 27A. An anti-dumping duty imposed under this Act shall of duty. remain in force only for as long as and to the extent necessary to counteract the dumping that is causing the injury.".
 
 ### Amendment of section 28
 
@@ -1016,7 +1030,9 @@ the Government shall refund such amount of the anti- dumping duty collected as i
 
 28B. (1) An exporter or a producer whose exports of the subject merchandise are subject to a definitive anti- dumping duty but who has not exported the subject merchandise to Malaysia during the period of investigation shall be entitled to an expedited review in order that the Government may immediately establish an individual anti- dumping duty rate for the exporter or producer, provided that the exporter or producer can show that the exporter or producer is not related to any of the exporters or producers in the exporting country who are subject to the anti-dumping duties on the subject merchandise.
 
-(2) No anti-dumping duty shall be imposed on imports from the exporters or producers referred to in subsection (1) while the review is being carried out.
+(2) No anti-dumping duty shall be imposed on imports from the exporters or producers referred to in subsection
+
+(1) while the review is being carried out.
 
 <!-- page 38 -->
 

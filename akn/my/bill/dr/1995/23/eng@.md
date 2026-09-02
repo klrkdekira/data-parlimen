@@ -14,13 +14,31 @@
 
 ## THE BOARD OF TOWN PLANNERS
 
-3. Establishment of the Board. 4. Membership of the Board. 5. Termination of appointment. 6. Revocation of appointment. 7. Filling of vacancy. 8. Functions of the Board. 9. Power to borrow. 10. Committees.
+3. Establishment of the Board. 4. Membership of the Board. 5. Termination of appointment. 6. Revocation of appointment. 7. Filling of vacancy. 8. Functions of the Board. 9. Power to borrow.
+
+10. Committees.
 
 ## PART III
 
 ## REGISTRATION OF TOWN PLANNERS
 
-11. Register. 12. Appointment and duties of Registrar. 13. Entitlement. 14. Restrictions on unregistered persons and registered Graduate Town Planners. 15. Qualification for registration. 16. Application for registration. 17. Certificate of registration. 18. Temporary registration of foreign Town Planners. 19. Notification of change of address.
+11. Register.
+
+12. Appointment and duties of Registrar.
+
+13. Entitlement.
+
+14. Restrictions on unregistered persons and registered Graduate Town Planners.
+
+15. Qualification for registration.
+
+16. Application for registration.
+
+17. Certificate of registration.
+
+18. Temporary registration of foreign Town Planners.
+
+19. Notification of change of address.
 
 <!-- page 2 -->
 
@@ -226,21 +244,29 @@ corporate having perpetual succession and a- common seal.
 
 <!-- page 8 -->
 
-(iii) one Town Planner who
-
-<!-- marginal: is -->
-
-<!-- marginal: in -->
+(iii) one Town Planner who is in
 
 <!-- marginal: the -->
 
 employment of any university or institution of higher learning and who is engaged in the teaching of town and country planning or town and regional planning;
 
-(e) one member on the nomination of the Board of Architects from among members of that Board Act 117. established under the Architects Act 1967;
+(e) one member on the nomination of the Board of Architects from among members of that Board
 
-(f) one member on the nomination of the Board of Engineers from among members of that Board Act 138. established under the Registration of Engineers Act 1967; and
+<!-- marginal: Act 117. -->
 
-(g) one member on the nomination of the Board of Surveyors from among members of that Board Act 458. established under the Licensed Land Surveyors Act 1958.
+established under the Architects Act 1967;
+
+(f) one member on the nomination of the Board of Engineers from among members of that Board
+
+<!-- marginal: Act 138. -->
+
+established under the Registration of Engineers Act 1967; and
+
+(g) one member on the nomination of the Board of Surveyors from among members of that Board
+
+<!-- marginal: Act 458. -->
+
+established under the Licensed Land Surveyors Act 1958.
 
 (2) The Chairman and other members of the Board appointed under paragraphs (d) to (g)—
 
@@ -254,7 +280,15 @@ employment of any university or institution of higher learning and who is engage
 
 (3) The provisions of the Schedule shall apply to the Board.
 
-Termination 5. The appointment of an appointed member of the Board of appoint- shall terminate— ment.
+<!-- marginal: Termination -->
+
+5. The appointment of an appointed member of the Board
+
+<!-- marginal: of appoint- -->
+
+shall terminate—
+
+<!-- marginal: ment. -->
 
 (a) on his death; or
 
@@ -406,7 +440,7 @@ and upon such terms and conditions as he may determine, borrow such sums as the 
 
 ## REGISTRATION OF TOWN PLANNERS
 
-Register.
+<!-- marginal: Register. -->
 
 11. (1) The Register of Town Planners shall be in two sections as follows:
 
@@ -492,11 +526,15 @@ as the case may be.
 
 (4) The Registrar may annually publish and offer for sale copies of the Register.
 
-Entitlement.
+<!-- marginal: Entitlement. -->
 
 13. (1) Every registered Town Planner shall be entitled to—
 
-(a) prepare development plans such as structure plans and local plans for the purposes of the Act 172. Town and Country Planning Act 1976;
+(a) prepare development plans such as structure plans and local plans for the purposes of the
+
+<!-- marginal: Act 172. -->
+
+Town and Country Planning Act 1976;
 
 (b) carry out urban, rural and regional development planning studies, and feasibility
 
@@ -666,9 +704,17 @@ registered Town Planner of a foreign Town Planner who is a consultant to a proje
 
 (8) For the purpose of this section, "foreign Town Planner" means a Town Planner who is not a citizen or permanent resident of Malaysia.
 
-Notification
+<!-- marginal: Notification -->
 
-19. Every registered Town Planner, registered Graduate of change Town Planner and foreign Town Planner shall notify the of address. Registrar of any change in his business address or correspondence address, as the case may be, within fourteen days of the change.
+19. Every registered Town Planner, registered Graduate
+
+<!-- marginal: of change -->
+
+Town Planner and foreign Town Planner shall notify the
+
+<!-- marginal: of address. -->
+
+Registrar of any change in his business address or correspondence address, as the case may be, within fourteen days of the change.
 
 <!-- page 19 -->
 
@@ -738,9 +784,15 @@ reasonably construed to imply that it is a body corporate practising as a Town P
 
 (c) shall be entitled to recover in any court any fee, charge or remuneration for professional advice given or service rendered by it.
 
-22. An application by a body corporate for a permit to Application for permit. practise as a Town Planner shall be made to the Board in the prescribed form and manner and accompanied by the prescribed fee.
+22. An application by a body corporate for a permit to
 
-Permit.
+<!-- marginal: Application -->
+
+<!-- marginal: for permit. -->
+
+practise as a Town Planner shall be made to the Board in the prescribed form and manner and accompanied by the prescribed fee.
+
+<!-- marginal: Permit. -->
 
 23. (1) The Registrar shall issue to a body corporate, where its application to practise as a Town Planner is approved by the Board, a permit in the prescribed form upon receipt of the prescribed fee.
 
@@ -752,9 +804,17 @@ Permit.
 
 (b) be renewable annually upon payment of the prescribed fee.
 
-Notification
+<!-- marginal: Notification -->
 
-24. A body corporate practising as a Town Planner shall of change in notify the Board— composition and address.
+24. A body corporate practising as a Town Planner shall
+
+<!-- marginal: of change in -->
+
+notify the Board—
+
+<!-- marginal: composition -->
+
+<!-- marginal: and address. -->
 
 (a) of any change in the composition of its board of directors or its shareholders in a report containing full particulars of the change, within thirty days of the change; and
 
@@ -840,9 +900,13 @@ the act or thing as forms the grounds of complaint has ceased to be its director
 
 (c) no other director or shareholder, otherwise than by being its director or shareholder at the material date, was in any way a party to, or connected with, the act or thing which forms the grounds of complaint.
 
-Cessation
+<!-- marginal: Cessation -->
 
-27. (1) Upon the Board cancelling its permit, the body of practice. corporate shall cease to practise as a Town Planner.
+27. (1) Upon the Board cancelling its permit, the body
+
+<!-- marginal: of practice. -->
+
+corporate shall cease to practise as a Town Planner.
 
 (2) The body corporate shall however be entitled to recover in any court any fee, charge or remuneration for professional advice given or service rendered by it where the advice was given or the service was rendered prior to the date of receipt of the notice from the Board cancelling its permit.
 
@@ -932,15 +996,35 @@ Planner or registered Graduate Town Planner; and
 
 (b) a Disciplinary Committee, comprising five members of the Board not being members of the Investigation Committee, to inquire into a complaint referred to it by the Investigation Committee.
 
-Suspension
+<!-- marginal: Suspension -->
 
-32. (1) The Board may, if it thinks fit, suspend the of registration of a registered Town Planner or registered registration pending Graduate Town Planner for a period not exceeding six investigation. months pending an investigation by the Investigation Committee under paragraph 3l(a).
+32. (1) The Board may, if it thinks fit, suspend the
+
+<!-- marginal: of -->
+
+registration of a registered Town Planner or registered
+
+<!-- marginal: registration -->
+
+<!-- marginal: pending -->
+
+Graduate Town Planner for a period not exceeding six
+
+<!-- marginal: investigation. -->
+
+months pending an investigation by the Investigation Committee under paragraph 3l(a).
 
 (2) During the period of suspension the registered Town Planner or Registered Graduate Town Planner shall not exercise any of the rights or privileges accorded to him under this Act.
 
-Order of
+<!-- marginal: Order of -->
 
-33. The Disciplinary Committee may order any one or Disciplinary any combination of two or more of the following: Committee.
+33. The Disciplinary Committee may order any one or
+
+<!-- marginal: Disciplinary -->
+
+any combination of two or more of the following:
+
+<!-- marginal: Committee. -->
 
 (a) the issuance of a written reprimand;
 
@@ -950,11 +1034,29 @@ Order of
 
 (d) cancellation of registration.
 
-Circum-
+<!-- marginal: Circum- -->
 
-34. (1) An order under section 33 may be made against stances under a registered Town Planner or registered Graduate Town which Disciplinary Planner under any of the following circumstances: Committee may make
+34. (1) An order under section 33 may be made against
 
-(a) if he offers or accepts a commission which in order. the opinion of the Disciplinary Committee is an illicit commission;
+<!-- marginal: stances under -->
+
+a registered Town Planner or registered Graduate Town
+
+<!-- marginal: which -->
+
+<!-- marginal: Disciplinary -->
+
+Planner under any of the following circumstances:
+
+<!-- marginal: Committee -->
+
+<!-- marginal: may make -->
+
+(a) if he offers or accepts a commission which in
+
+<!-- marginal: order. -->
+
+the opinion of the Disciplinary Committee is an illicit commission;
 
 (b) if whilst acting in his professional capacity, he at the same time and without disclosing the fact to his client—
 
@@ -1010,9 +1112,21 @@ the term, condition or restriction of the permit;
 
 (2) An opportunity to be heard either personally or by counsel shall be given to the registered Town Planner or registered Graduate Town Planner against whom the Disciplinary Committee intends to make an order, before the order is made.
 
-Registration
+<!-- marginal: Registration -->
 
-35. The registration of a registered Town Planner or to be null registered Graduate Town Planner shall be null and void and void under certain under any of the following circumstances: circumstances.
+35. The registration of a registered Town Planner or
+
+<!-- marginal: to be null -->
+
+registered Graduate Town Planner shall be null and void
+
+<!-- marginal: and void -->
+
+<!-- marginal: under certain -->
+
+under any of the following circumstances:
+
+<!-- marginal: circumstances. -->
 
 (a) if there has been proved against him, or he has been convicted on, a charge in respect of—
 
@@ -1092,29 +1206,53 @@ shall as soon as practicable be reinstated into the Register, if his appeal is a
 
 ## APPEAL
 
-Appeal
+<!-- marginal: Appeal -->
 
-39. For the purpose of this Part, there shall be established Board. an Appeal Board consisting of—
+39. For the purpose of this Part, there shall be established
+
+<!-- marginal: Board. -->
+
+an Appeal Board consisting of—
 
 (a) a Judge of the High Court or a former Judge of the High Court, as the Chairman, who shall be appointed by the Yang di-Pertuan Agong after consultation with the Chief Justice; and
 
 (b) two other persons appointed by the Yang di- Pertuan Agong.
 
-Tenure of
+<!-- marginal: Tenure of -->
 
-40. A member of the Appeal Board shall— office and allowance of
+40. A member of the Appeal Board shall—
 
-(a) unless he sooner resigns his office or his members of appointment is sooner revoked hold office for Appeal Board. the period as specified in the instrument appointing him;
+<!-- marginal: office and -->
+
+<!-- marginal: allowance of -->
+
+(a) unless he sooner resigns his office or his
+
+<!-- marginal: members of -->
+
+appointment is sooner revoked hold office for
+
+<!-- marginal: Appeal -->
+
+<!-- marginal: Board. -->
+
+the period as specified in the instrument appointing him;
 
 (b) be eligible for reappointment; and
 
 (c) be paid such allowance as the Minister may determine.
 
-Procedure
+<!-- marginal: Procedure -->
 
-41. The Appeal Board shall at its discretion determine of Appeal its own procedure. Board.
+41. The Appeal Board shall at its discretion determine
 
-Appeal.
+<!-- marginal: of Appeal -->
+
+its own procedure.
+
+<!-- marginal: Board. -->
+
+<!-- marginal: Appeal. -->
 
 42. Except as otherwise provided under this Act a person—
 
@@ -1274,7 +1412,7 @@ in any court against—
 
 for any act or omission done in good faith in the discharge of its or his powers and duties under this Act.
 
-Rules.
+<!-- marginal: Rules. -->
 
 50. The Board may, with the approval of the Minister, make rules, which shall be published in the Gazette, generally as may be necessary or expedient—
 
@@ -1282,17 +1420,51 @@ Rules.
 
 (b) for prescribing anything required by this Act to be prescribed.
 
-Registered
+<!-- marginal: Registered -->
 
-51. Every registered Town Planner, registered Graduate Town Town Planner, foreign Town Planer and body corporate Planners, registered practising as a Town Planner shall be subject to this Graduate Act. Town Planners, etc. subject to this Act. Savings as
+51. Every registered Town Planner, registered Graduate
 
-52. Nothing in this Act contained shall apply to anything to right of done or omitted to be done by or under the authority of Government. the Federal Government or the Government of any State.
+<!-- marginal: Town -->
+
+Town Planner, foreign Town Planer and body corporate
+
+<!-- marginal: Planners, -->
+
+<!-- marginal: registered -->
+
+practising as a Town Planner shall be subject to this
+
+<!-- marginal: Graduate -->
+
+Act.
+
+<!-- marginal: Town -->
+
+<!-- marginal: Planners, etc. -->
+
+<!-- marginal: subject to -->
+
+<!-- marginal: this Act. -->
+
+<!-- marginal: Savings as -->
+
+52. Nothing in this Act contained shall apply to anything
+
+<!-- marginal: to right of -->
+
+done or omitted to be done by or under the authority of
+
+<!-- marginal: Government. -->
+
+the Federal Government or the Government of any State.
 
 ## SCHEDULE
 
 (Subsection 4(3))
 
-Meetings. 1. (1) The Board shall meet at least twice a year at a place as may be appointed by the Chairman.
+<!-- marginal: Meetings. -->
+
+1. (1) The Board shall meet at least twice a year at a place as may be appointed by the Chairman.
 
 (2) The Chairman shall preside at a meeting of the Board and in his absence the members of the Board shall elect one of their number to preside over the meeting.
 
@@ -1362,23 +1534,17 @@ on the ground of—
 
 <!-- page 34 -->
 
-(2) The common seal may from time to time be broken, changed, altered and made anew as to the Board thinks fit.
+(2) The common seal may from time to time be broken, changed, altered and made anew as to the Board thinks fit. (3) The common seal shall be kept in the custody of the Chairman of the Board and shall be authenticated by the Chairman or a member of the Board acting in the absence of the Chairman. (4) All deeds, documents and other instruments purporting to be sealed with the common seal and authenticated as in subparagraph
 
-(3) The common seal shall be kept in the custody of the Chairman of the Board and shall be authenticated by the Chairman or a member of the Board acting in the absence of the Chairman.
+(3) shall be deemed to have been validly executed, until the contrary is shown. (5) A deed, a document or an instrument which if executed by a person not being a body corporate would not be required to be under seal may in like manner be executed by the Board. (6) A deed, a document or an instrument mentioned in sub- paragraph (5) may be executed on behalf of the Board by a member of the Board generally or specially authorised by the Board in that behalf. (7) The common seal of the Board shall be officially and judicially noticed.
 
-(4) All deeds, documents and other instruments purporting to be sealed with the common seal and authenticated as in subparagraph
+<!-- marginal: Application -->
 
-(3) shall be deemed to have been validly executed, until the contrary is shown.
+8. (1) Money received by the Board whether from fees payable
 
-(5) A deed, a document or an instrument which if executed by a person not being a body corporate would not be required to be under seal may in like manner be executed by the Board.
+<!-- marginal: or money. -->
 
-(6) A deed, a document or an instrument mentioned in sub- paragraph (5) may be executed on behalf of the Board by a member of the Board generally or specially authorised by the Board in that behalf.
-
-(7) The common seal of the Board shall be officially and judicially noticed.
-
-Application
-
-8. (1) Money received by the Board whether from fees payable or money. under this Act or otherwise shall be applied by the Board—
+under this Act or otherwise shall be applied by the Board—
 
 (a) in the first place to defraying the expenses of registration and other expenses for the administration of this Act including any expenses of the Board that may be allowed under this Act; and
 
@@ -1386,13 +1552,23 @@ Application
 
 (2) Money that is not immediately required by the Board may be invested in such trustee securities as the Board may from time to time determine after consultation with the Minister.
 
-Procedure.
+<!-- marginal: Procedure. -->
 
 9. Subject to this Act the Board shall at its discretion determine its own procedure.
 
-Member of the
+<!-- marginal: Member of the -->
 
-10. Every member of the Board shall devote such time to the Board to devote business of the Board as is necessary to discharge his duties effectively. time to the business of the Board.
+10. Every member of the Board shall devote such time to the
+
+<!-- marginal: Board to devote -->
+
+business of the Board as is necessary to discharge his duties effectively.
+
+<!-- marginal: time to the -->
+
+<!-- marginal: business of the -->
+
+<!-- marginal: Board. -->
 
 ## EXPLANATORY STATEMENT
 

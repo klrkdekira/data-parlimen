@@ -628,7 +628,7 @@ shall not disclose any information which has been obtained by him in the course 
 
 7. The principal Act is amended by inserting after section 166 the following Schedules:
 
-“Schedule 1
+## “SCHEDULE 1
 
 [Section 31a]
 
@@ -650,7 +650,7 @@ shall not disclose any information which has been obtained by him in the course 
 
 <!-- page 24 -->
 
-## Schedule 2
+## SCHEDULE 2
 
 [Section 31d]
 

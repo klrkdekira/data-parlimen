@@ -4,7 +4,37 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-1. Short title and commencement. 2. Interpretation. 3. Powers of Director General. 4. Powers of a proper officer of customs. 5. Authority card to be produced. 6. Imposition of levy. 7. Order to be tabled. 8. Registration. 9. Penalty for late payment. 10. Levy may be recovered as civil debt. 11. Submission of return. 12. Assessment of levy. 13. Refund of levy. 14. Refund of levy overpaid or erroneously paid. 15. Payment of levy or penalty shortpaid or erroneously refunded. 16. Duty to keep records. 17. Persons bound to give information. 18. Access to place or premises. 19. Penalty on making incorrect return and on falsifying documents. 20. Penalty on refusing to answer questions or on giving false information. 21. Failure to comply with requirement of this Act. 22. General offence and penalty. 23. Power to compound. 24. Offences by body corporate. 25. Institution of prosecution. 26. Abetting an offence. 27. Power of Minister to apply Customs Act 1967. 28. Regulations.
+1. Short title and commencement. 2. Interpretation. 3. Powers of Director General. 4. Powers of a proper officer of customs. 5. Authority card to be produced. 6. Imposition of levy. 7. Order to be tabled. 8. Registration. 9. Penalty for late payment.
+
+10. Levy may be recovered as civil debt.
+
+11. Submission of return.
+
+12. Assessment of levy.
+
+13. Refund of levy.
+
+14. Refund of levy overpaid or erroneously paid. 15. Payment of levy or penalty shortpaid or erroneously refunded.
+
+16. Duty to keep records. 17. Persons bound to give information. 18. Access to place or premises. 19. Penalty on making incorrect return and on falsifying documents.
+
+20. Penalty on refusing to answer questions or on giving false information.
+
+21. Failure to comply with requirement of this Act.
+
+22. General offence and penalty.
+
+23. Power to compound.
+
+24. Offences by body corporate.
+
+25. Institution of prosecution.
+
+26. Abetting an offence.
+
+27. Power of Minister to apply Customs Act 1967.
+
+28. Regulations.
 
 <!-- page 3 -->
 

@@ -52,7 +52,7 @@
 
 ## BAB III
 
-PINDAAN KEPADA AKTA cUKAI KEUNTUNGAN HARTA TANAH 1976
+## PINDAAN KEPADA AKTA CUKAI KEUNTUNGAN HARTA TANAH 1976
 
 18. Permulaan kuat kuasa pindaan kepada Akta Cukai Keuntungan Harta Tanah 1976
 
@@ -660,59 +660,9 @@ RM1,000,000.00
 
 (i) dengan menggantikan subbutiran (a) dan butir-butir yang berhubungan dengannya dengan subbutiran dan butir-butir yang berikut:
 
-Item Description
+Item Description Proper Stamp Duty of Instrument
 
-<!-- marginal: Proper Stamp Duty -->
-
-of Instrument
-
-For every RM250.00 or part thereof, “(a) Without fine when the lease is for a period— or premium when the average rent Not
-
-<!-- marginal: Exceeding -->
-
-<!-- marginal: Exceeding -->
-
-<!-- marginal: Exceeding -->
-
-and other exceeding
-
-<!-- marginal: one year -->
-
-<!-- marginal: three -->
-
-<!-- marginal: five years -->
-
-considerations one year
-
-<!-- marginal: but not -->
-
-<!-- marginal: years -->
-
-<!-- marginal: or for any -->
-
-calculated
-
-<!-- marginal: exceeding -->
-
-<!-- marginal: but not -->
-
-<!-- marginal: indefinite -->
-
-for a whole
-
-<!-- marginal: three -->
-
-<!-- marginal: exceeding -->
-
-<!-- marginal: period -->
-
-year—
-
-<!-- marginal: years -->
-
-<!-- marginal: five years -->
-
-RM1.00 RM3.00 RM5.00 RM7.00 ”;
+For every RM250.00 or part thereof, “(a) Without fine when the lease is for a period— or premium when the average rent Not Exceeding Exceeding Exceeding and other exceeding one year three five years considerations one year but not years or for any calculated exceeding but not indefinite for a whole three exceeding period year— years five years RM1.00 RM3.00 RM5.00 RM7.00 ”;
 
 dan
 
@@ -720,27 +670,13 @@ dan
 
 (f) dengan menggantikan butiran 59 dan butir-butir yang berhubungan dengannya dengan butiran dan butir-butir yang berikut:
 
-Item Description of Instrument
-
-<!-- marginal: Proper Stamp Duty -->
+Item Description of Instrument Proper Stamp Duty
 
 ## “59 POWER OR LETTER OF ATTORNEY:
 
-(a) being conveyance of real property in
+(a) being conveyance of real property in The same duty as consideration of, and creating by way a conveyance on of sale or gift sale
 
-<!-- marginal: The same duty as -->
-
-consideration of, and creating by way
-
-<!-- marginal: a conveyance on -->
-
-of sale or gift
-
-<!-- marginal: sale -->
-
-(b) in any other case
-
-<!-- marginal: RM10.00 -->
+(b) in any other case RM10.00
 
 Exemption
 
@@ -914,67 +850,11 @@ following calendar year 2025
 
 <!-- page 32 -->
 
-Financial Year beginning in the
-
-<!-- marginal: Rate -->
-
-following calendar year 2028
-
-<!-- marginal: 9.0% -->
-
-2029
-
-<!-- marginal: 8.2% -->
-
-2030
-
-<!-- marginal: 7.4% -->
-
-2031
-
-<!-- marginal: 6.6% -->
-
-2032
-
-<!-- marginal: 5.8% -->
+Financial Year beginning in the Rate following calendar year 2028 9.0% 2029 8.2% 2030 7.4% 2031 6.6% 2032 5.8%
 
 (2) For the purpose of applying subsection 180(5) to a Financial Year beginning in the calendar year of 2025 and subsequent calendar years until the calendar year of 2032, the amount of tangible asset carve-out for each Financial Year shall be computed according to the following rate:
 
-Financial Year beginning in the
-
-<!-- marginal: Rate -->
-
-following calendar year 2025
-
-<!-- marginal: 7.6% -->
-
-2026
-
-<!-- marginal: 7.4% -->
-
-2027
-
-<!-- marginal: 7.2% -->
-
-2028
-
-<!-- marginal: 7.0% -->
-
-2029
-
-<!-- marginal: 6.6% -->
-
-2030
-
-<!-- marginal: 6.2% -->
-
-2031
-
-<!-- marginal: 5.8% -->
-
-2032
-
-<!-- marginal: 5.4%”; -->
+Financial Year beginning in the Rate following calendar year 2025 7.6% 2026 7.4% 2027 7.2% 2028 7.0% 2029 6.6% 2030 6.2% 2031 5.8% 2032 5.4%”;
 
 (m) dalam subperenggan 199(1)(a)(iv), dengan menggantikan perkataan “paragraphs” dengan perkataan “subparagraphs”;
 

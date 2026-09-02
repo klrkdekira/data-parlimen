@@ -8,7 +8,7 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -20,7 +20,7 @@
 
 4. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PENTADBIRAN
 
@@ -48,7 +48,7 @@
 
 <!-- page 2 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PEMBAHARUAN SEMULA BANDAR
 
@@ -76,7 +76,7 @@ Penyegaran semula bandar
 
 23. Projek penyegaran semula bandar
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PERLINDUNGAN KEPENTINGAN
 
@@ -90,7 +90,7 @@ Penyegaran semula bandar
 
 28. Penzahiran kepentingan Jawatankuasa Pengantaraan Pembaharuan Semula Bandar Negeri
 
-## Bahagian V
+## BAHAGIAN V
 
 AM
 
@@ -112,11 +112,15 @@ DAN BAHAWASANYA adalah suai manfaat bahawa peruntukan dibuat untuk memberikan ku
 
 DAN BAHAWASANYA adalah juga suai manfaat bagi maksud memastikan keseragaman undang-undang dan dasar untuk membuat undang-undang bagi pengawalan dan pengawalseliaan sepatutnya perkara yang berhubungan dengan pembaharuan semula bandar berkenaan dengan perancangan bandar di seluruh Semenanjung Malaysia dan Wilayah Persekutuan Labuan:
 
-MAKA, OLEH YANG DEMIKIAN, mengikut Fasal (1) dan (2) Perkara 74, Fasal (4) Perkara 76 dan Fasal (3) Perkara 80 Perlembagaan Persekutuan, DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
+MAKA, OLEH YANG DEMIKIAN, mengikut Fasal (1) dan (2)
+
+## Perkara 74, Fasal (4) Perkara 76 dan Fasal (3) Perkara 80
+
+Perlembagaan Persekutuan, DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 4 -->
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -216,7 +220,7 @@ MAKA, OLEH YANG DEMIKIAN, mengikut Fasal (1) dan (2) Perkara 74, Fasal (4) Perka
 
 <!-- page 8 -->
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PENTADBIRAN
 
@@ -396,7 +400,7 @@ MAKA, OLEH YANG DEMIKIAN, mengikut Fasal (1) dan (2) Perkara 74, Fasal (4) Perka
 
 (3) Setiausaha Jawatankuasa Eksekutif Negeri hendaklah menyediakan suatu laporan kemajuan projek pembaharuan semula bandar yang dijalankan di Negeri sebagaimana yang diarahkan oleh Jawatankuasa Eksekutif Persekutuan di bawah subseksyen 6(3).
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PEMBAHARUAN SEMULA BANDAR
 
@@ -516,9 +520,7 @@ Penyegaran semula bandar
 
 ### Ketidakpakaian Bahagian atau Penggal
 
-22. Peruntukan Bahagian II, Penggal I Bahagian III dan
-
-## Bahagian IV tidak terpakai bagi projek penyegaran semula bandar.
+22. Peruntukan Bahagian II, Penggal I Bahagian III dan Bahagian IV tidak terpakai bagi projek penyegaran semula bandar.
 
 ### Projek penyegaran semula bandar
 
@@ -536,7 +538,7 @@ orang yang berkepentingan sebagaimana yang difikirkan suai manfaat oleh pihak be
 
 (5) Perbelanjaan dan kos dalam menjalankan projek penyegaran semula bandar di bawah subseksyen (1) hendaklah dipersetujui antara pihak berkuasa tempatan dengan orang yang berkepentingan.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PERLINDUNGAN KEPENTINGAN
 
@@ -630,7 +632,7 @@ orang yang berkepentingan sebagaimana yang difikirkan suai manfaat oleh pihak be
 
 (b) Jawatankuasa Eksekutif Negeri boleh melantik seorang yang lain untuk mengisi kekosongan itu dan mana-mana orang yang dilantik sedemikian hendaklah memegang jawatan bagi baki tempoh itu.
 
-## Bahagian V
+## BAHAGIAN V
 
 AM
 
@@ -672,7 +674,7 @@ AM
 
 Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan peruntukan bagi kawalan dan pengawasan pembaharuan semula bandar bagi maksud perancangan bandar dan bagi perkara lain yang berkaitan.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I Akta yang dicadangkan memperkatakan perkara permulaan.
 
@@ -686,7 +688,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan 
 
 6. Fasal 4 mengandungi takrif bagi perkataan dan ungkapan tertentu yang digunakan dalam Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 7. Bahagian II Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan Jawatankuasa Eksekutif Persekutuan dan Jawatankuasa Eksekutif Negeri.
 
@@ -714,7 +716,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan 
 
 18. Fasal 15 bertujuan untuk memperuntukkan bahawa Setiausaha Jawatankuasa Eksekutif Negeri hendaklah menyediakan suatu laporan cadangan bagi Jawatankuasa Eksekutif Negeri dan mengemukakan laporan cadangan yang diluluskan kepada Jawatankuasa Eksekutif Persekutuan untuk mendapatkan nasihatnya. Fasal ini juga mengadakan peruntukan bagi penyediaan laporan kemajuan sebagaimana yang diarahkan oleh Jawatankuasa Eksekutif Persekutuan.
 
-## Bahagian III
+## BAHAGIAN III
 
 19. Bahagian III Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan kehendak dan tatacara suatu projek pembaharuan semula bandar.
 
@@ -750,7 +752,7 @@ semula bandar.
 
 27. Fasal 23 bertujuan untuk memperuntukkan bahawa pihak berkuasa tempatan boleh menyampaikan suatu notis niat bagi pemulaan projek penyegaran semula bandar kepada mana-mana orang yang berkepentingan. Fasal ini juga memperuntukkan bahawa projek penyegaran semula bandar itu tidak boleh dijalankan tanpa persetujuan orang yang berkepentingan. Perbelanjaan dan kos dalam menjalankan projek penyegaran semula bandar itu hendaklah dipersetujui antara pihak berkuasa tempatan dengan orang yang berkepentingan itu.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 28. Bahagian IV Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan perlindungan kepentingan orang yang berkepentingan yang telah bersetuju untuk menyertai suatu projek pembaharuan semula bandar.
 
@@ -766,7 +768,7 @@ semula bandar.
 
 33. Fasal 28 bertujuan untuk menghendaki seseorang anggota Jawatankuasa Pengantaraan Pembaharuan Semula Bandar Negeri untuk menzahirkan kepentingannya dalam suatu projek pembaharuan semula bandar. Fasal ini juga memperuntukkan bahawa seseorang anggota Jawatankuasa Pengantaraan Pembaharuan Semula Bandar Negeri hendaklah terhenti menjadi seorang anggota Jawatankuasa Pengantaraan Pembaharuan Semula Bandar Negeri jika dia tidak menzahirkan kepentingannya.
 
-## Bahagian V
+## BAHAGIAN V
 
 34. Bahagian V Akta yang dicadangkan memperkatakan peruntukan am.
 

@@ -8,23 +8,35 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Pemakaian 3. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## INSTITUT
 
 4. Institut Penyelidikan Keselamatan Jalan Raya Malaysia 5. Meterai perbadanan 6. Fungsi Institut 7. Kuasa Institut 8. Kuasa tambahan Institut 9. Pengkomersialan dapatan penyelidikan
 
-## Bahagian III
+## BAHAGIAN III
 
 ## LEMBAGA PENGARAH INSTITUT
 
-10. Lembaga Pengarah 11. Keanggotaan Lembaga 12. Wakil organisasi yang dinamakan semula 13. Timbalan Pengerusi dan Setiausaha 14. Fungsi Lembaga 15. Kuasa Lembaga 16. Tempoh jawatan
+10. Lembaga Pengarah
+
+11. Keanggotaan Lembaga
+
+12. Wakil organisasi yang dinamakan semula
+
+13. Timbalan Pengerusi dan Setiausaha
+
+14. Fungsi Lembaga
+
+15. Kuasa Lembaga
+
+16. Tempoh jawatan
 
 <!-- page 2 -->
 
@@ -44,7 +56,7 @@
 
 24. Kesahan tindakan dan prosiding
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## KETUA PENGARAH, TIMBALAN KETUA PENGARAH, PEGAWAI DAN
 
@@ -64,7 +76,7 @@
 
 31. Pembayaran faedah persaraan, dsb.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## KEWANGAN
 
@@ -90,19 +102,53 @@
 
 <!-- page 3 -->
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PEGAWAI YANG DITUGASKAN
 
-42. Pelantikan pegawai yang ditugaskan 43. Akses dan pendedahan data 44. Pemeriksaan entiti fizikal 45. Pengumpulan sampel, dsb.
+42. Pelantikan pegawai yang ditugaskan
 
-## Bahagian VII
+43. Akses dan pendedahan data
+
+44. Pemeriksaan entiti fizikal
+
+45. Pengumpulan sampel, dsb.
+
+## BAHAGIAN VII
 
 ## TAMBAHAN
 
-46. Hak pemilikan bagi dapatan penyelidikan, dsb. 47. Akses kepada dapatan penyelidikan dan kemudahan 48. Penyimpanan data 49. Simbol, reka bentuk dan representasi Institut 50. Pekhidmat awam 51. Akta Perlindungan Pihak Berkuasa Awam 1948 52. Perlindungan anggota Lembaga daripada liabiliti diri 53. Perlindungan daripada tindakan guaman dan prosiding undang-undang 54. Pewakilan dalam prosiding sivil 55. Obligasi kerahsiaan 56. Penyampaian notis atau dokumen lain 57. Permulaan pendakwaan 58. Pemakaian peraturan-peraturan, dsb. 59. Kuasa untuk membuat peraturan-peraturan 60. Perkara yang dilakukan pada menjangkakan Akta ini diperbuat
+46. Hak pemilikan bagi dapatan penyelidikan, dsb.
 
-## Jadual
+47. Akses kepada dapatan penyelidikan dan kemudahan
+
+48. Penyimpanan data
+
+49. Simbol, reka bentuk dan representasi Institut
+
+50. Pekhidmat awam
+
+51. Akta Perlindungan Pihak Berkuasa Awam 1948
+
+52. Perlindungan anggota Lembaga daripada liabiliti diri
+
+53. Perlindungan daripada tindakan guaman dan prosiding undang-undang
+
+54. Pewakilan dalam prosiding sivil
+
+55. Obligasi kerahsiaan
+
+56. Penyampaian notis atau dokumen lain
+
+57. Permulaan pendakwaan
+
+58. Pemakaian peraturan-peraturan, dsb.
+
+59. Kuasa untuk membuat peraturan-peraturan
+
+60. Perkara yang dilakukan pada menjangkakan Akta ini diperbuat
+
+## JADUAL
 
 <!-- page 5 -->
 
@@ -112,7 +158,7 @@ Suatu Akta untuk menubuhkan Institut Penyelidikan Keselamatan Jalan Raya Malaysi
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -162,7 +208,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 “Timbalan Ketua Pengarah” ertinya Timbalan Ketua Pengarah Institut yang dilantik di bawah seksyen 26.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## INSTITUT
 
@@ -258,7 +304,7 @@ menyerahhakkan semula, memindahkan hakmilik atau dengan apa-apa cara lain melupu
 
 9. Institut boleh memasuki apa-apa perkiraan untuk membuat tersedia apa-apa dapatan penyelidikan yang terletak hak pada Institut kepada mana-mana orang atau badan atas apa-apa terma, syarat dan pembayaran apa-apa fi, royalti atau balasan lain, jika ada, sebagaimana yang ditentukan oleh Lembaga, dengan kelulusan Menteri, bagi maksud pengkomersialan.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## LEMBAGA PENGARAH INSTITUT
 
@@ -454,7 +500,7 @@ anggota itu hendaklah dinamakan semula sebagai wakil kepada kementerian, jabatan
 
 <!-- page 18 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## KETUA PENGARAH, TIMBALAN KETUA PENGARAH,
 
@@ -510,7 +556,7 @@ anggota itu hendaklah dinamakan semula sebagai wakil kepada kementerian, jabatan
 
 31. Institut boleh membuat perkiraan bagi pembayaran kepada pegawai dan pekhidmatnya, dan tanggungan mereka, apa-apa faedah persaraan, ganjaran dan elaun lain yang ditentukan oleh Institut.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## KEWANGAN
 
@@ -604,7 +650,7 @@ patut oleh Institut, dan setiap akaun itu hendaklah dikendalikan setakat yang bo
 
 <!-- page 24 -->
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PEGAWAI YANG DITUGASKAN
 
@@ -656,7 +702,7 @@ patut oleh Institut, dan setiap akaun itu hendaklah dikendalikan setakat yang bo
 
 (b) mana-mana orang boleh menolak permintaan atau arahan pegawai yang ditugaskan jika pegawai tersebut enggan mengisytiharkan jawatannya dan menunjukkan kad kuasanya apabila diminta berbuat demikian oleh orang itu.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## TAMBAHAN
 
@@ -778,7 +824,7 @@ mana-mana orang yang diberi kuasa oleh Institut bagi maksud itu boleh, bagi piha
 
 (2) Walau apa pun dalam subseksyen (1), seksyen ini tidak boleh disifatkan sebagai telah memberi kuasa untuk pengenaan apa-apa hukuman ke atas seseorang bagi apa-apa perbuatan atau perkara yang dilakukan sebagai persediaan bagi atau pada menjangkakan Akta ini diperbuat.
 
-## Jadual
+## JADUAL
 
 (Subseksyen 11(3))
 
@@ -862,7 +908,7 @@ hendaklah menzahirkan kepada Lembaga hakikat kepentingannya dan jenis kepentinga
 
 Rang Undang-Undang ini bertujuan untuk menubuhkan suatu pertubuhan perbadanan yang dikenali sebagai “Institut Penyelidikan Keselamatan Jalan Raya Malaysia” yang akan dipertanggungkan dengan tanggungjawab untuk menjalankan penyelidikan menyeluruh berkenaan keselamatan jalan raya, menyediakan data penyelidikan dan analisis mengenai keselamatan jalan raya, menambah baik dan meningkatkan pengetahuan berdasarkan perkembangan baharu berhubung isu keselamatan jalan raya, dan memperuntukkan mengenai perkara yang berkaitan dengannya.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I memperkatakan perkara permulaan.
 
@@ -872,7 +918,7 @@ Rang Undang-Undang ini bertujuan untuk menubuhkan suatu pertubuhan perbadanan ya
 
 5. Fasal 3 mengandungi takrif beberapa ungkapan yang digunakan di dalam Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 6. Bahagian II mengandungi peruntukan berhubung dengan Institut Penyelidikan Keselamatan Jalan Raya Malaysia.
 
@@ -886,7 +932,7 @@ Rang Undang-Undang ini bertujuan untuk menubuhkan suatu pertubuhan perbadanan ya
 
 11. Fasal 9 membenarkan Institut untuk membuat tersedia apa-apa dapatan penyelidikan yang terletak hak pada Institut bagi maksud pengkomersialan.
 
-## Bahagian III
+## BAHAGIAN III
 
 12. Bahagian III mengandungi peruntukan berhubung dengan Lembaga Pengarah Institut Penyelidikan Keselamatan Jalan Raya Malaysia.
 
@@ -922,7 +968,7 @@ Rang Undang-Undang ini bertujuan untuk menubuhkan suatu pertubuhan perbadanan ya
 
 27. Fasal 24 mengandungi peruntukan kesahan tindakan dan prosiding Lembaga.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 28. Bahagian IV memperkatakan tentang Ketua Pengarah, Timbalan Ketua Pengarah, pegawai dan pekhidmat Institut.
 
@@ -940,7 +986,7 @@ Rang Undang-Undang ini bertujuan untuk menubuhkan suatu pertubuhan perbadanan ya
 
 34. Fasal 30 memperkatakan kuasa Institut untuk memberi pinjaman dan membuat pendahuluan kepada pegawai dan pekhidmatnya, manakala fasal 31 memperuntukkan pembayaran faedah persaraan, ganjaran dan lain-lain elaun kepada pegawai dan pekhidmatnya serta tanggungan mereka.
 
-## Bahagian V
+## BAHAGIAN V
 
 35. Bahagian V mengandungi peruntukan kewangan.
 
@@ -966,7 +1012,7 @@ Rang Undang-Undang ini bertujuan untuk menubuhkan suatu pertubuhan perbadanan ya
 
 <!-- page 37 -->
 
-## Bahagian VI
+## BAHAGIAN VI
 
 46. Bahagian VI mengandungi peruntukan berhubung dengan pegawai yang ditugaskan.
 
@@ -978,7 +1024,7 @@ Rang Undang-Undang ini bertujuan untuk menubuhkan suatu pertubuhan perbadanan ya
 
 50. Fasal 45 memberikan kuasa kepada pegawai yang ditugaskan untuk mengambil atau menyimpan sampel entiti fizikal yang dipercayai mengandungi maklumat yang berkaitan atau relevan untuk maksud penyelidikan keselamatan jalan raya, dan memeriksa atau menganalisis sampel tersebut apabila diterima. Fasal ini seterusnya memperuntukkan bahawa bagi maksud fasal 43, 44 dan 45, setiap pegawai yang ditugaskan apabila diminta hendaklah menunjukkan kad kuasanya kepada orang yang diambil tindakan olehnya.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 51. Bahagian VII mengandungi peruntukan berhubung dengan perkara tambahan.
 

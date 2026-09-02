@@ -146,25 +146,63 @@ Commis- 4. The Commission shall perform the functions and duties sion to assigne
 
 18. The principal Act is amended by substituting for section 40 the following section:
 
-Power of 40. (1) The Chairman of the Commission may, with Chairman the consent in writing of the Public Prosecutor, compound of Com- mission to any offence committed by any person under this Act or compound any rules made thereunder and determined by the Minister offence. to be a compoundable offence by rules made under this Act by making a written offer to the person suspected to have committed the offence to compound the offence upon payment to the Chairman of an amount of money not exceeding fifty per cent of the amount of the maximum fine for that offence within the time specified in the offer.
+<!-- marginal: Power of -->
+
+40. (1) The Chairman of the Commission may, with
+
+<!-- marginal: Chairman -->
+
+the consent in writing of the Public Prosecutor, compound
+
+<!-- marginal: of Com- -->
+
+<!-- marginal: mission to -->
+
+any offence committed by any person under this Act or
+
+<!-- marginal: compound -->
+
+any rules made thereunder and determined by the Minister
+
+<!-- marginal: offence. -->
+
+to be a compoundable offence by rules made under this Act by making a written offer to the person suspected to have committed the offence to compound the offence upon payment to the Chairman of an amount of money not exceeding fifty per cent of the amount of the maximum fine for that offence within the time specified in the offer.
 
 (2) An offer under subsection (1) may be made at any time after the offence has been committed, but before any prosecution for it has been instituted, and if the amount specified in the offer is not paid within the time specified in the offer or within such extended period as the Chairman may grant, prosecution for the offence may be instituted at any time after that against the person to whom the offer was made.
 
-(3) If an offence has been compounded under subsection (1), no prosecution shall be instituted in respect of the offence against the person to whom the offer to compound was made and any thing seized in connection with the offence may be released or forfeited by the Chairman, subject to such terms and conditions as he thinks fit.
+(3) If an offence has been compounded under subsection
+
+(1), no prosecution shall be instituted in respect of the offence against the person to whom the offer to compound was made and any thing seized in connection with the offence may be released or forfeited by the Chairman, subject to such terms and conditions as he thinks fit.
 
 (4) All sums of money received by the Chairman under this section shall be paid into and form part of the Federal Consolidated Fund.".
 
 <!-- page 6 -->
 
-6 Bill
+<!-- marginal: 6 -->
+
+Bill
 
 ### Substitution of section 41
 
 19. The principal Act is amended by substituting for section 41 the following section:
 
-Power of 41. (1) The Minister may in writing authorize any public enforce- officer or officer of the Commission to exercise the powers ment. of enforcement under this Act or any rules made thereunder.
+<!-- marginal: Power of -->
 
-(2) Any such officer shall be deemed to be a public Act 574. servant within the meaning of the Penal Code.
+41. (1) The Minister may in writing authorize any public
+
+<!-- marginal: enforce- -->
+
+officer or officer of the Commission to exercise the powers
+
+<!-- marginal: ment. -->
+
+of enforcement under this Act or any rules made thereunder.
+
+(2) Any such officer shall be deemed to be a public
+
+<!-- marginal: Act 574. -->
+
+servant within the meaning of the Penal Code.
 
 (3) In exercising any of the powers of enforcement under this Act or any rules made thereunder, an officer authorized under subsection (1) shall, on demand, produce to the person against whom he is acting the authorization issued to him by the Minister.
 
@@ -228,7 +266,9 @@ Prosecu- 47. No prosecution shall be instituted for an offence tion. under this 
 
 ### Saving and transitional
 
-26. (1) Upon the commencement of this Act, references to the Government, Minister, Director General of Post or an authorized officer, in any written law including any subsidiary legislation, or in any instrument, licence, certificate, document, registration, approval, directive, order, guildeline, notification, agreement or other document made, issued or given before the commencement of this Act shall be construed as provided for in subsections (2), (3), (4), (5) and (6).
+26. (1) Upon the commencement of this Act, references to the Government, Minister, Director General of Post or an authorized officer, in any written law including any subsidiary legislation, or in any instrument, licence, certificate, document, registration, approval, directive, order, guildeline, notification, agreement or other document made, issued or given before the commencement of this Act shall be construed as provided for in subsections (2),
+
+(3), (4), (5) and (6).
 
 (2) References to the Government or the Director General of Post in relation to the functions of such Government or Director General which upon the commencement of this Act become the functions of the Commission shall be construed as references to the Commission.
 

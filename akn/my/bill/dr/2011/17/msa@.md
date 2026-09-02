@@ -8,13 +8,13 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## MAJLIS PERUNDINGAN GAJI NEGARA
 
@@ -44,7 +44,7 @@
 
 <!-- page 2 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PERINTAH GAJI MINIMUM
 
@@ -58,7 +58,7 @@
 
 25. Majlis hendaklah mengkaji semula perintah gaji minimum
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PENYIASATAN DAN PENGUATKUASAAN
 
@@ -96,7 +96,7 @@
 
 42. Kebolehterimaan dokumen, dsb.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## KESALAHAN DAN PENALTI
 
@@ -112,7 +112,7 @@
 
 47. Penalti dalam hal kesalahan berulang
 
-## Bahagian VI
+## BAHAGIAN VI
 
 AM
 
@@ -152,7 +152,7 @@ Suatu Akta untuk menubuhkan Majlis Perundingan Gaji Negara dengan tanggungjawab 
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -210,7 +210,7 @@ tetapi tidak termasuk orang atau golongan orang yang kepadanya perintah gaji min
 
 “Setiausaha” ertinya Setiausaha Majlis yang dilantik di bawah seksyen 5.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## MAJLIS PERUNDINGAN GAJI NEGARA
 
@@ -432,7 +432,7 @@ tetapi tidak termasuk orang atau golongan orang yang kepadanya perintah gaji min
 
 <!-- page 15 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PERINTAH GAJI MINIMUM
 
@@ -506,7 +506,7 @@ tetapi tidak termasuk orang atau golongan orang yang kepadanya perintah gaji min
 
 <!-- page 18 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PENYIASATAN DAN PENGUATKUASAAN
 
@@ -736,7 +736,7 @@ mana-mana pernyataan yang dibuat olehnya kepada seorang pegawai penguat kuasa da
 
 (2) Laporan yang disediakan di bawah subseksyen (2) dan apa-apa dokumen yang dikeluarkan oleh majikan kepada pekerja yang menunjukkan bayaran gaji hendaklah menjadi keterangan prima facie dalam mana-mana prosiding di bawah Akta ini.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## KESALAHAN DAN PENALTI
 
@@ -776,7 +776,7 @@ mana-mana pernyataan yang dibuat olehnya kepada seorang pegawai penguat kuasa da
 
 <!-- page 30 -->
 
-## Bahagian VI
+## BAHAGIAN VI
 
 AM
 
@@ -936,7 +936,7 @@ Pada masa ini, Akta 195 hanya terpakai berkenaan dengan gaji minimum jika pada p
 
 Akta yang dicadangkan juga bertujuan untuk memperuntukkan lebih banyak kuasa penguatkuasaan untuk memastikan pematuhan perintah gaji minimum oleh majikan bagi melindungi kepentingan pekerja yang baginya perintah gaji minimum terpakai.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I memperkatakan perkara permulaan.
 
@@ -944,7 +944,7 @@ Akta yang dicadangkan juga bertujuan untuk memperuntukkan lebih banyak kuasa pen
 
 4. Fasal 2 mengandungi takrif ungkapan tertentu yang digunakan dalam Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 5. Bahagian II Akta yang dicadangkan yang mengandungi fasal 3 hingga 20 memperkatakan penubuhan dan fungsi dan kuasa Majlis.
 
@@ -988,7 +988,7 @@ Akta yang dicadangkan juga bertujuan untuk memperuntukkan lebih banyak kuasa pen
 
 23. Fasal 20 bertujuan untuk mengadakan peruntukan bagi kesahan perbuatan dan prosiding di bawah Akta yang dicadangkan.
 
-## Bahagian III
+## BAHAGIAN III
 
 24. Bahagian III Akta yang dicadangkan yang mengandungi fasal 21 hingga 25 memperkatakan perintah gaji minimum.
 
@@ -1002,7 +1002,7 @@ Akta yang dicadangkan juga bertujuan untuk memperuntukkan lebih banyak kuasa pen
 
 29. Fasal 25 menghendaki Majlis untuk mengkaji semula perintah gaji minimum sekali dalam tiap-tiap dua tahun.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 30. Bahagian IV Akta yang dicadangkan yang mengandungi fasal 26 hingga 42 memperkatakan peruntukan penyiasatan dan penguatkuasaan.
 
@@ -1040,7 +1040,7 @@ Akta yang dicadangkan juga bertujuan untuk memperuntukkan lebih banyak kuasa pen
 
 45. Fasal 42 memperuntukkan kebolehterimaan dokumen. Pegawai penguat kuasa boleh menyediakan laporan yang, antara lain, mengandungi perbezaan antara kadar gaji minimum sebagaimana yang dinyatakan dalam perintah gaji minimum dan gaji pokok yang dibayar oleh majikan kepada pekerja, termasuk perbezaan yang belum selesai dibayar. Laporan ini dan mana-mana dokumen yang menunjukkan bayaran gaji hendaklah menjadi keterangan prima facie dalam mana-mana prosiding.
 
-## Bahagian V
+## BAHAGIAN V
 
 46. Bahagian V Akta yang dicadangkan yang mengandungi fasal 43 hingga 47 memperkatakan kesalahan dan penalti.
 
@@ -1054,7 +1054,7 @@ Akta yang dicadangkan juga bertujuan untuk memperuntukkan lebih banyak kuasa pen
 
 51. Fasal 47 memperuntukkan penalti bagi kesalahan yang berulang.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 52. Bahagian VI Akta yang dicadangkan yang mengandungi fasal 48 hingga 61 memperkatakan peruntukan am.
 

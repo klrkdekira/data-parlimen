@@ -8,7 +8,21 @@
 
 ## SUSUNAN FASAL
 
-1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran 3. Pemberian elaun kenangan 4. Pemberhentian pemberian elaun kenangan 5. Pemberian kepada waris kadim penerima jika Pingat dianugerahkan selepas kematian 6. Perdana Menteri hendaklah mengagihkan amaun yang akan dibayar 7. Elaun kenangan dan jumlah wang hendaklah dipertanggungkan pada Kumpulan Wang Disatukan Persekutuan 8. Elaun kenangan dan jumlah wang tidak boleh diserahhakkan, dsb.
+1. Tajuk ringkas dan permulaan kuat kuasa
+
+2. Tafsiran
+
+3. Pemberian elaun kenangan
+
+4. Pemberhentian pemberian elaun kenangan
+
+5. Pemberian kepada waris kadim penerima jika Pingat dianugerahkan selepas kematian
+
+6. Perdana Menteri hendaklah mengagihkan amaun yang akan dibayar
+
+7. Elaun kenangan dan jumlah wang hendaklah dipertanggungkan pada Kumpulan Wang Disatukan Persekutuan
+
+8. Elaun kenangan dan jumlah wang tidak boleh diserahhakkan, dsb.
 
 <!-- page 3 -->
 

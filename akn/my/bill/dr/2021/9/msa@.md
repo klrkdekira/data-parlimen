@@ -20,7 +20,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 4 -->
 
-## Jadual
+## JADUAL
 
 Maksud Tajuk
 

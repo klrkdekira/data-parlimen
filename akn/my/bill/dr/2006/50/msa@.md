@@ -32,19 +32,47 @@
 
 ## KEPADA PETAK
 
-4. Penubuhan Badan Pengurusan Bersama 5. Kewajipan pemaju untuk mengadakan mesyuarat 6. Mesyuarat pertama Badan Pengurusan Bersama 7. Kewajipan Badan untuk memberitahu Pesuruhjaya nama Badan 8. Tugas dan kuasa Badan Pengurusan Bersama
+4. Penubuhan Badan Pengurusan Bersama
+
+5. Kewajipan pemaju untuk mengadakan mesyuarat
+
+6. Mesyuarat pertama Badan Pengurusan Bersama
+
+7. Kewajipan Badan untuk memberitahu Pesuruhjaya nama Badan
+
+8. Tugas dan kuasa Badan Pengurusan Bersama
 
 9. Mesyuarat agung tahunan
 
 <!-- page 2 -->
 
-10. Mesyuarat agung luar biasa 11. Jawatankuasa Pengurusan Bersama 12. Daftar pembeli 13. Hak pembeli 14. Kaedah-kaedah dalaman 15. Pembubaran Badan Pengurusan Bersama
+10. Mesyuarat agung luar biasa
+
+11. Jawatankuasa Pengurusan Bersama
+
+12. Daftar pembeli
+
+13. Hak pembeli
+
+14. Kaedah-kaedah dalaman
+
+15. Pembubaran Badan Pengurusan Bersama
 
 ## BAHAGIAN IV
 
 ## AKAUN PENYENGGARAAN BANGUNAN
 
-16. Pemaju hendaklah membuka dan menyenggarakan Akaun Penyenggaraan Bangunan 17. Kewajipan pemaju tentang Akaun Penyenggaraan Bangunan 18. Wang hendaklah didepositkan ke dalam Akaun Penyenggaraan Bangunan 19. Wang tidak menjadi sebahagian daripada harta pemaju 20. Larangan ke atas pemungutan caj 21. Kewajipan pemaju berkenaan dengan caj bagi bangunan yang disiapkan sebelum permulaan kuat kuasa Bahagian ini
+16. Pemaju hendaklah membuka dan menyenggarakan Akaun Penyenggaraan Bangunan
+
+17. Kewajipan pemaju tentang Akaun Penyenggaraan Bangunan
+
+18. Wang hendaklah didepositkan ke dalam Akaun Penyenggaraan Bangunan
+
+19. Wang tidak menjadi sebahagian daripada harta pemaju
+
+20. Larangan ke atas pemungutan caj
+
+21. Kewajipan pemaju berkenaan dengan caj bagi bangunan yang disiapkan sebelum permulaan kuat kuasa Bahagian ini
 
 ## BAHAGIAN V
 
@@ -52,29 +80,69 @@
 
 ## DAN KUMPULAN WANG PENJELAS
 
-22. Kumpulan Wang Penyenggaraan Bangunan 23. Pembeli hendaklah membayar caj penyenggaraan 24. Badan Pengurusan Bersama hendaklah membuka dan menyenggarakan kumpulan wang penjelas
+22. Kumpulan Wang Penyenggaraan Bangunan
+
+23. Pembeli hendaklah membayar caj penyenggaraan
+
+24. Badan Pengurusan Bersama hendaklah membuka dan menyenggarakan kumpulan wang penjelas
 
 ## BAHAGIAN VI
 
 ## EJEN PENGURUSAN
 
-25. Pelantikan ejen pengurusan 26. Kebebasan ejen pengurusan 27. Ejen pengurusan hendaklah menyerah simpan bon 28. Kuasa dan tugas ejen pengurusan
+25. Pelantikan ejen pengurusan
+
+26. Kebebasan ejen pengurusan
+
+27. Ejen pengurusan hendaklah menyerah simpan bon 28. Kuasa dan tugas ejen pengurusan
 
 <!-- page 3 -->
 
-(Penyenggaraan dan Pengurusan) 29. Pemaju tidak dilepaskan daripada obligasinya untuk menjalankan pembaikan, dsb. 30. Penamatan perjanjian pengurusan
+(Penyenggaraan dan Pengurusan)
+
+29. Pemaju tidak dilepaskan daripada obligasinya untuk menjalankan pembaikan, dsb.
+
+30. Penamatan perjanjian pengurusan
 
 ## BAHAGIAN VII
 
 ## DEPOSIT DAN MENDAPATKAN CAJ
 
-31. Pemaju hendaklah membayar deposit untuk membaiki kecacatan pada harta bersama 32. Mendapatkan caj oleh Badan Pengurusan Bersama 33. Mendapatkan tunggakan caj 34. Kegagalan atau keengganan untuk membayar caj
+31. Pemaju hendaklah membayar deposit untuk membaiki kecacatan pada harta bersama
+
+32. Mendapatkan caj oleh Badan Pengurusan Bersama
+
+33. Mendapatkan tunggakan caj
+
+34. Kegagalan atau keengganan untuk membayar caj
 
 ## BAHAGIAN VIII
 
 ## PELBAGAI
 
-35. Pewakilan dalam prosiding sivil 36. Liabiliti pengarah, dll. 37. Penyampaian notis atau perintah 38. Kuasa masuk 39. Pemeriksaan orang yang tahu tentang kes 40. Kuasa untuk mengkompaun 41. Rayuan kepada Pihak Berkuasa Negeri 42. Peraturan-peraturan 43. Pendakwaan 44. Ketidakpakaian undang-undang bertulis lain, kontrak dan surat ikatan 45. Berkontrak keluar dilarang 46. Akta Perlindungan Pihak Berkuasa Awam 1948
+35. Pewakilan dalam prosiding sivil
+
+36. Liabiliti pengarah, dll.
+
+37. Penyampaian notis atau perintah
+
+38. Kuasa masuk
+
+39. Pemeriksaan orang yang tahu tentang kes
+
+40. Kuasa untuk mengkompaun
+
+41. Rayuan kepada Pihak Berkuasa Negeri
+
+42. Peraturan-peraturan
+
+43. Pendakwaan
+
+44. Ketidakpakaian undang-undang bertulis lain, kontrak dan surat ikatan
+
+45. Berkontrak keluar dilarang
+
+46. Akta Perlindungan Pihak Berkuasa Awam 1948
 
 ## JADUAL PERTAMA
 
@@ -206,11 +274,7 @@ MAKA, OLEH YANG DEMIKIAN, menurut Fasal (4) Perkara 76 Perlembagaan Persekutuan,
 
 3. (1) Pihak Berkuasa Negeri boleh, berkenaan dengan sesuatu kawasan pihak berkuasa tempatan atau mana-mana kawasan lain, melantik seorang pegawai yang hendaklah dikenali sebagai Pesuruhjaya Bangunan dan mana-mana pegawai lain yang perlu bagi maksud mentadbirkan dan menjalankan peruntukan Akta ini.
 
-(2) Pesuruhjaya, tertakluk kepada apa-apa arahan am atau khas Pihak Berkuasa Negeri, hendaklah menjaga pentadbiran Akta ini dan
-
-## Bahagian VI dan VII Akta Hakmilik Strata 1985 dan hendaklah
-
-melaksanakan apa-apa tugas lain yang dikenakan dan boleh menjalankan apa-apa kuasa yang diberikan kepadanya oleh Akta Hakmilik Strata 1985.
+(2) Pesuruhjaya, tertakluk kepada apa-apa arahan am atau khas Pihak Berkuasa Negeri, hendaklah menjaga pentadbiran Akta ini dan Bahagian VI dan VII Akta Hakmilik Strata 1985 dan hendaklah melaksanakan apa-apa tugas lain yang dikenakan dan boleh menjalankan apa-apa kuasa yang diberikan kepadanya oleh Akta Hakmilik Strata 1985.
 
 (3) Tertakluk kepada apa-apa arahan am atau khas Pesuruhjaya, kuasa yang diberikan dan tugas yang dikenakan ke atas Pesuruhjaya oleh Akta ini atau mana-mana peraturan yang dibuat di bawah Akta ini boleh dijalankan atau dilaksanakan oleh mana-mana pegawai lain yang dilantik di bawah subseksyen (1).
 

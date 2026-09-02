@@ -1,0 +1,2958 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-15-1993",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VIII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Sewerage Services Bill 1993"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "RESPONSIBILITY FOR SEWERAGE SYSTEMS AND SEWERAGE SERVICES"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_10"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "DIRECTOR GENERAL OF SEWERAGE SERVICES"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Minister may, from time to time, give"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "directions of a general character not inconsistent with the provisions of this Act as to the exercise of the powers and the performance of the functions of the Director General under this Act and it shall be the duty of the Director General to give effect to such directions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_8__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_8__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_8__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_8__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall appoint, from among members of the public service, a Director General of Sewerage Services."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "There shall be appointed, by the appropriate - Service Commission from among members of the relevant public service, a Deputy Director General of Sewerage Services who shall, subject to the control and direction of the Director General, have the powers and functions of the Director General, other than the power of delegation referred to in subsection (4)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_8__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "There shall be appointed, by the appropriate Service Commission from among members of the relevant public service, such numbers of Directors, Deputy Directors, Assistant Directors and other officers as may be necessary for the purposes of this Act and they shall be subject to the control, direction and supervision of the Director General,"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_8__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may, in relation to any particular matter or class of matters, by writing under his hand, delegate all or any of his powers or functions under this Act, except his power of delegation, to any Director, Deputy Director, Assistant Director, or other officer so that the delegated powers or functions may be exercised or performed by such Director, Deputy Director, Assistant Director, or other officer."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_8__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A delegation under subsection (4) is revocable at the discretion of the Director General and does not prevent the Director General or Deputy Director General from exercising the powers or performing the functions delegated under that subsection."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_9__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_9__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_9__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_9__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_9__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_9__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_9__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_9__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_9__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_9__para_k"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Without prejudice to any other power or function"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "conferred or imposed upon the Director General by any other provision of this Act, the Director General shall have the following powers and functions:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to formulate and implement a plan so that all reasonable demands for sewerage services are satisfied;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in consultation with the relevant authorities, prepare a structure plan formulating the policy and general proposals in respect of the development of any new sewerage system and measures for improvement of any existing sewerage system;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_9__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe the minimum standards and specifications of any installation or equipment relating to sewerage systems, septic tanks, connections and private connection pipes and to register persons supplying such installation or equipment;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_9__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to set standards and specifications and to prescribe codes of practice for the planning, design, construction, installation, commission and maintenance of sewerage systems;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_9__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to exercise regulatory functions specified in this Act and any regulation made under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_9__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to issue licences under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_9__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to secure that the functions and obligations of any sewerage services contractor with whom an agreement has been entered into under section 7 are properly carried out throughout Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_9__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to ensure that a sewerage services contractor with whom an agreement has been entered into under section 7 is able to finance the proper carrying out of his functions;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_9__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to promote the interests of customers of sewerage services or connection services provided by any person licensed under this Act in respect of— (i) the prices to be charged for the services; f i i) the quality of the services; (iii) in relation to sewerage services, the continuity of the services;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_9__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "so far as it appears to him practicable from time to time to do so, to keep under review the performance of every sewerage services contractor with whom an agreement has been entered into under section 7;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_9__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to issue certificates of competency to persons qualified to manage, operate and maintain a private sewerage system; (/) to carry on such other activities and enter into such contractual arrangements as may appear to the Director General requisite, advantageous or convenient for the purpose of carrying out, or in connection with, the performance of his powers and functions under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Federal Government shall, upon the coming into"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "operation of this Act, have executive authority with respect to all matters relating to sewerage systems and sewerage services throughout Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_4__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_4__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_4__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_4__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_4__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_4__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_4__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_4__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "After the Federal Government and—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_4__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a local authority;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_4__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a State Government; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_4__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a local authority and the relevant State Government, have mutually agreed to the transfer of any moveable or immoveable property vested in the local authority or the State Government for purposes of sewerage systems and sewerage services, the Minister may by order published in the Gazette appoint a date and on that date the immoveable or moveable property shall be transferred to and vested in the Federal Government in accordance with the terms and conditions mutually agreed to by the parties concerned."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_4__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_4__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any property, not being State land, vested in a local authority or State Government for purposes of sewerage systems and sewerage services immediately prior to the coming into operation of this Act is needed for those purposes under this Act but no agreement is reached between the parties referred to in subsection ( Ij with respect to the transfer of that property, the property may be acquired by the Federal Government—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_4__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_4__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of land, in accordance with any written law relating to the acquisition of land for a public purpose; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_4__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_4__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of any other property, upon payment of adequate compensation; and for the purposes of the law referred to in paragraph (a), the land shall be deemed to be needed for a public purpose."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any property transferred to the Federal Government under subsection (1) or acquired by the Federal Government under susbsection (2) shall vest in the Federal Government without any conveyance, assignment, or transfer and shall be so vested for the like title, estate or interest and on the like tenure as the property was vested before the transfer or acquisition."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_4__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any property is vested under this section in the Federal Government, all rights enjoyed wholly or mainly in connection with that property and all liabilities arising wholly or mainly from that property before the vesting date shall, as from the vesting date, be transferred to and vested in the Federal Government."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_4__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any proceedings or cause of action pending or existing immediately prior to the vesting date by or against a local authority or a State Government in respect of any property, right or liability transferred to the Federal Government under this section may be continued and enforced by or against the Federal Government."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_4__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every chose-in-action vested in the Federal Government under this section may be sued on, recovered or enforced by the Federal Government, and it shall not be necessary for the Federal Government to give notice to the person bound by the chose-in-action of the vesting effected by this section."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_4__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every right and liability transferred to the Federal Government under this section may, on and after the vesting date, be sued on, recovered or enforced by or against the Federal Government and it shall not be necessary for the Federal Government to give notice to the person whose right or liability is affected by the vesting under this section."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "All deeds, bonds, agreements, instruments and"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "working arrangements subsisting immediately before the vesting date affecting any assets, property and liabilities of a local authority or State Government wested in the Federal Government under section 4 shall have as full force and effect against or in favour of the Federal Government and be enforceable as fully and effectually as if, instead of the local authority or State Government or any person acting on behalf of the local authority or the State Government, the Federal Government had been named therein or had been a party thereto."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Federal Government may, upon the request of"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "any local authority or State Government assume control and management, wholly or in part, prior to the vesting date, of any contractual undertakings of that local authority or State Government in connection with any sewerage system which is to be transferred to the Federal Government under section 4."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_7__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Notwithstanding the provisions of any written law to"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "the contrary, the Federal Government shall, upon the coming into operation of this Act, have power to enter into any agreement with any sewerage services contractor authorising the contractor to do all or any of the following matters;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to plan, design, construct, manage, inspect, operate, maintain, repair or refurbish any public sewerage system;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to provide sewerage services;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to do such other matters as may be agreed upon between the Federal Government and the sewerage services contractor, throughout Malaysia or in any part of Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_20"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PUBLIC SEWERAGE SYSTEMS"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_11__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any sewerage system vested in the Federal Government under section 4 shall be deemed to be a public sewerage system."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any sewerage system constructed or to be constructed by a sewerage services contractor pursuant to an agreement entered into under section 7 shall be deemed to be a public sewerage system."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subject to the provisions of any written law relating"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "to the compulsory acquisition or use of property, the Minister may from time to time, by notice published in the Gazette, declare that any sewerage system, not being a public sewerage system, shall become a public sewerage system at the expiration of one month from the date of publication of such notice."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_13__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_13__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Director General may—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "cause any sewerage system to be constructed as he may deem necessary;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "cause to be laid or constructed any public sewer or disposal pipe through, across or under any place laid out as, or intended for, a street or any cellar or vault which is under any street;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_13__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "after notice in writing in accordance with this Act, cause to be laid or constructed any public sewer or disposal pipe through, across, under or over any land or premises."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_14__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_14__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_14__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_14__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where a person proposes to construct a sewer or a sewerage system and the Director General considers that the proposed sewer or sewerage system will be or is, or is likely to be, needed to form part of a public sewerage system, the Director General may require that person—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_14__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_14__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to construct the sewer or sewerage system in such manner as may be specified by the Director General; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_14__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_14__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to repair and maintain the sewer or sewerage system until the sewer or sewerage system becomes part of the public sewerage system."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The person referred to in subsection (1) shall comply with the requirements of the Director General under that subsection."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_14__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the Director General exercises his powers under subsection (1) he shall pay to the person constructing the sewer or the sewerage system the extra expenses reasonably incurred by that person in complying with the Director General's requirements."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_15__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General shall cause public sewerage systems to be managed, operated, maintained, inspected, repaired, refurbished, altered, arched over or otherwise improved and shall treat and dispose of the contents thereof, and may discontinue, close up or destroy any part thereof."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If by reason of any inspection, refurbishment, repair, alteration or improvement of any public sewerage system under subsection (1) any person is deprived of the lawful use of any sewer, the Director General shall with due diligence provide some other facility as effectual as the one of which that person is so deprived."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Director General shall cause public sewerage"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "systems to be properly cleared, cleansed and emptied and, for the purpose of clearing, cleansing and emptying the public sewerage systems, he may construct and place, either above or under ground, such reservoirs, sluices, engines and other works as are necessary."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_17__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_17__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If any building is at any time not drained for sewage in accordance with this Act or any regulation made under this Act or otherwise to the satisfaction of the Director General by a sufficient private connection pipe communicating with a public sewer or public sewerage system, the Director General may give notice in writing requiring the owner, or if the owner cannot with reasonable diligence be traced the occupier, thereof to construct or lay from such building a pipe of such materials or size at such level and with such fall as the Director General thinks necessary for the draining of sewage from the building."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the owner or occupier fails to comply with a notice given under subsection (1) the Director General may apply to a Magistrate's Court for a mandatory order requiring the owner or occupier to construct or lay the pipe specified in the notice."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_18__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_18__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_18__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_18__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_18__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No person shall, without the prior written permission of the Director General—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_18__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_18__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "make or cause or permit any private connection pipe, drain or sewer to connect directly or indirectly to any public sewer or public treatment works; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_18__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_18__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "close up, obstruct, stop or deviate any public sewer."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_18__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_18__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_18__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "order any person contravening subsection (1) to discontinue the use of, or demolish or otherwise remove, any obstruction, private connection pipe, drain or sewer in contravention of that subsection; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_18__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "demolish or otherwise remove the obstruction, private connection pipe, drain or sewer and recover the expenses incurred in doing so from the person."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_18__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_18__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_18__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may refuse to permit any person to make a connection to any public sewer or public treatment works if—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_18__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_18__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the public sewer or public treatment works do not or will not have the necessary capability or capacity to receive the sewage which will be discharged through the proposed connection; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_18__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_18__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "it appears to the Director General that the mode of construction or the condition of the public sewer or public treatment works is such that the making of the connection is likely to be prejudicial to the public sewerage system."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_18__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1) or fails to comply with an order issued under subsection (2) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_19__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_19__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_19__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No person shall discharge into or allow to communicate with any public sewer or public treatment works—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_19__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_19__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any industrial effluent, without the prior written permission of the Director General; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_19__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_19__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any noxious, volatile or inflammable substance or any other matter likely to damage or impair the functioning of any public sewer or public treatment works or to interfere with the free flow of its contents or to affect prejudicially the treatment or disposal of its contents."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit and to a further fine not exceeding five thousand ringgit for each day during which the offence continues after conviction."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_20__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_20__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_20__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If, through any act, neglect or default, any person has committed an offence under this Act or any regulation made under this Act and by that act, neglect or default he has caused damage to any public sewerage system, that person shall in addition to any penalty that may be imposed for that offence, be liable to make good the damage and pay compensation to the Federal Government for the damage caused."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_20__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IV__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The amount to be paid in making good any damage under subsection (1) shall, in case of dispute be determined by the court by which the person causing such damage is convicted."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX",
+      "@type": "akn:part",
+      "eli:number": "IX",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_34"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "LICENSING"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_32__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_32__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_32__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_32__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_32__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_32__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_32__subsec_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No person shall—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_32__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_32__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "maintain or operate any sewerage system;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_32__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_32__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "undertake, provide or make available any sewerage service;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_32__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_32__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "carry out any connection; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_32__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_32__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "construct or install any part of a sewerage system, except under and in accordance with the terms of a licence issued under this Part."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_32__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding fifty thousand ringgit and to a further fine not exceeding five thousand ringgit for each day during which the offence continues after conviction."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every application for a licence to do any of the acts prohibited under section 32 shall be made in writing and shall be accompanied by such documents and information as may be specified by the Director General for the purpose of determining the application and the suitability of the applicant."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon receiving any application made accordance with subsection (1), the Director General may—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "issue a licence on payment of the prescribed fees; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "refuse to issue such a licence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may, either at the time a licence is issued or at any time thereafter, impose such conditions as appear to him to be requisite or expedient and such conditions may be varied, amended or revoked at any time."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33__subsec_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33__subsec_4__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33__subsec_4__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33__subsec_4__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The conditions which may be imposed under subsection (3) may include—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the nature and extent of services which may be or may be required to be provided by the licensee;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the area in which the licensee shall provide such services;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33__subsec_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the annual licence fee payable by the licensee;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33__subsec_4__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the particular rights and duties of the licensee in respect of the services to be provided by the licensee;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33__subsec_4__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the requirement that a licensee comply with any prescribed code of practice."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A licence issued under this section shall, unless sooner revoked, continue in force for such period as the Director General may in each case determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may revoke any licence issued under this Part."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who is aggrieved by the decision of the Director General under subsection (3) or (6) may appeal to the Minister whose decision shall be final and conclusive."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_IX",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Without prejudice to the conditions which may be"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "imposed under section 33 and any agreement entered into under section 7, every licensee shall have due regard to the efficiency, economy and safety of operation in respect of the services provided by the licensee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_1__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_1__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Sewerage Services Act 1993."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall apply throughout Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_1__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_1__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_1__subsec_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall come into operation on a date to be appointed by the Minister by notification in the Gazette and the Minister may appoint different dates—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_1__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_1__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for the coming into operation of this Act in different parts of Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_1__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_1__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for the coming into operation of different provisions of this Act; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_1__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_1__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for the coming into operation of different provisions of this Act in different parts of Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_1__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may suspend the operation of the whole or any provision of this Act in any part of Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2__list_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2__list_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "\"code of practice\" means the code of practice prescribed by the Director General under section 9; \"connection\" means work necessary to connect a private connection pipe to a sewer or treatment works; \"connection contractor\" means the person licensed under this Act to carry out connection; \"Director General\" means the Director General of Sewerage Services appointed under section 8; \"disposal pipe\" means a pipe, channel, conduit or similar structure used for the discharge of effluent from a sewerage system for eventual discharge to a drain, watercourse, stream, river, estuary, sea or other receiving medium; SEWERAGE SERVICES ? \"District Land Administrator\"—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2__list_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2__list_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in respect of West Malaysia, has the meaning assigned to \"Land Administrator\" by section 5 of the National Land Code;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in respect of the State of Sabah, has the meaning assigned to the \"Collector\" by section 4 of the Land Ordinance of Sabah; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2__list_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in respect of the State of Sarawak, has the meaning assigned to \"Director\" by section 2 of the Land Code of Sarawak; \"industrial effluent\" means liquid waste or waste water produced by reason of or in the course of the production processes taking place at any industrial premises; \"local authority\"—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2__list_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2__list_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2__list_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2__list_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "means any local authority established or deemed to have been established under the Local Government Act 1976, the Local Government Ordinance 1961 of Sabah or the Local Authority Ordinance 1948 of Sarawak;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in relation to the Federal Territory of Labuan, means the local authority established under the Local Government Ordinance 1961 of Sabah, in force in the Federal Territory of Labuan as modified by the Federal Territory of Labuan (Modification of Local Government Ordinance) Order 1984;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2__list_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in relation to the Federal Territory of Kuala Lumpur, means the Commissioner of the City of Kuala Lumpur appointed under section 3 of the Federal Capital Act 1960;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2__list_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in relation to the City of Kuching North, means the Commissioner of the City of Kuching North appointed under section 4 of the City of Kuching North Ordinance 1988 of Sarawak; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2__list_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in relation to the City of Kuching South, means the Council of the City of Kuching South established under section 3 of the City of Kuching Ordinance 1988 of Sarawak; \"local planning authority\" means any planning authority established pursuant to the Town and Country Planning Act 1976, the Town and Country Planning Ordinance 1950 of Sabah or the Town and Country Planning Ordinance 1952 of Sarawak; \"occupier\" means a person in occupation or control of premises and, in relation to premises different parts of which are occupied by different persons, means the respective persons in occupation or control of each part; \"owner\" means—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2__list_3",
+      "@type": "akn:list",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2__list_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2__list_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2__list_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2__list_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2__list_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the registered proprietor of land;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2__list_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2__list_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the lessee, including a sub-lessee, of land whether registered or not;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2__list_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_I__cl_2__list_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the agent or trustee of any of the persons described in paragraphs (a) and (b) or, if that person cannot be traced or has died, his legal personal representative; \"premises\" includes messuages, houses, buildings, lands, tenements, easements and hereditaments of any tenure, whether open or enclosed, whether built or not, whether public or private, and whether maintained or not under statutory authority; \"private connection pipe\" means any pipe, channel, conduit or similar structure used, or which can be used, for the drainage of sewage from premises up to the point of connection to a sewer or treatment works or a septic tank; \"private sewerage system\" means any sewerage system other than a public sewerage system; \"public sewerage system\" means any sewerage system declared by the Minister to be a public sewerage system pursuant to section 12 and any sewerage system deemed to be a public sewerage system under this Act; \"pumping station\" means a pump and any associated plant and building used for the conveyance of sewage; \"reserved land\" means land reserved under any written law for any federal or state purpose; \"septic tank\" means a settlement tank with one or more compartments forming a system or part of a system to treat, either partially or fully, sewage from one premises; \"sewage\" means any liquid waste or wastewater discharge containing human, animal or vegetable matter in suspension or solution, and includes liquids containing chemicals in solution but does not include industrial effluent; \"sewage sludge\" means the residual mixture of solid and liquid produced during the partial or full treatment of sewage but does not include treated sewage effluent discharged through a disposal pipe; \"sewer\" means any pipe, with its appurtenances, designed to convey sewage from two or more premises to a sewerage treatment work; \"sewerage services\" means the collection, conveyance, treatment and disposal of sewage, and includes the operation and maintenance of a sewerage system and the clearing, cleansing and emptying of septic tanks; \"sewerage services contractor\" means a person who undertakes, provides or makes available sewerage services; \"sewerage system\" means a system incorporating sewers, disposal pipes, pumping stations or treatment works or any combination thereof and all other structures, equipment and appurtenances used or intended to be used for the collection, conveyance, pumping or treatment of sewage or the disposal of treated sewage effluent or sludge; \"State land\" shall have the meaning assigned thereto in the National Land Code, the Land Ordinance of Sabah or the Land Code of Sarawak, as the case may be; \"treatment works\" means the facility designed to accept and process sewage or its by-products before disposal to a receiving medium, but does not include septic tanks serving one premises; \"vesting date\" means the date on which property, rights and liabilities are vested in the Federal Government under section 4."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_26"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRIVATE SEWERAGE SYSTEMS AND SEPTIC TANKS"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_29"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "POWERS OF ENTRY"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII",
+      "@type": "akn:part",
+      "eli:number": "VII",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII__cl_30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "CHARGES"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VIII",
+      "@type": "akn:part",
+      "eli:number": "VIII",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VIII__cl_31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "APPROVAL OF PLANS AND SPECIFICATIONS OF SEWERAGE SYSTEM OR SEPTIC TANK"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VIII__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VIII__cl_31__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VIII__cl_31__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VIII__cl_31__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VIII__cl_31__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VIII__cl_31__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VIII__cl_31__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VIII__cl_31__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VIII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VIII__cl_31__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VIII__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No person shall construct any sewerage system or septic tank without the prior written permission of the Director General approving the plans and specifications of the proposed sewerage system or septic tank."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VIII__cl_31__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VIII__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who intends to construct any building shall, in addition to submitting plans and specifications for the building under any written law to the relevant local authority or other statutory authority concerned as the case may be and before any approval for the construction or erection of the building is granted by the relevant approving authority, submit to the Director General the plans and specifications in respect of the sewerage system or septic tank for the proposed building in the manner required by any regulation made under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VIII__cl_31__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VIII__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may give written directions to the person submitting any plan and specifications with regard to compliance with this Act or any regulation made under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VIII__cl_31__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VIII__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The person to whom any written directions are given under subsection (3) shall amend the plans and specifications accordingly and re-submit the amended plans and specifications within such period or extended period as the Director General may specify."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VIII__cl_31__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VIII__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the person referred to in subsection (4) has failed to re-submit the amended plans and specifications within the period or extended period specified under that subsection, the plans and specifications shall not be re-considered and shall be deemed to have been withdrawn, without prejudice to that person's right to submit fresh plans and specifications."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VIII__cl_31__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VIII__cl_31__subsec_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VIII__cl_31__subsec_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VIII__cl_31__subsec_6__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VIII__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VIII__cl_31__subsec_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VIII__cl_31__subsec_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "constructs a sewerage system or septic tank without the prior written permission of the Director General approving the plans and specifications;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VIII__cl_31__subsec_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VIII__cl_31__subsec_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "constructs any sewerage system or septic tank not in accordance with approved plans and specifications; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VIII__cl_31__subsec_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VIII__cl_31__subsec_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "makes any alteration to approved plans and specifications for the sewerage system or septic tank otherwise than in accordance with this Act or any regulation made under this Act or without the prior written permission of the Director General, shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit; and he shall alter the sewerage system so as to comply with the approved plans and specifications."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VIII__cl_31__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VIII__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may delegate his powers under this section to a local planning authority and the local planning authority shall exercise the delegated powers in accordance with the directions of the Director General."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII__cl_30__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII__cl_30__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII__cl_30__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII__cl_30__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII__cl_30__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII__cl_30__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII__cl_30__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may from time to time by regulations prescribe, either separately or as a consolidated rate, sewerage charges, fees or levy which shall be paid by any person to whom sewerage services are provided under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII__cl_30__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, by order published in the Gazette, authorise a sewerage services contractor with whom an agreement has been entered into under section 7 to demand, collect and retain the sewerage charges, fees or levy prescribed under subsection (1) in respect of sewerage services provided by the sewerage services contractor under the agreement."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII__cl_30__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII__cl_30__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII__cl_30__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII__cl_30__subsec_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An order made under subsection (2) shall specify—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII__cl_30__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII__cl_30__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the type of services with respect to which sewerage charges, fees or levy may be demanded, collected and retained;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII__cl_30__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII__cl_30__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the person authorised to demand, collect and retain the sewerage charges, fees or levy; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII__cl_30__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII__cl_30__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the duration of the authorisation to demand, collect and retain sewerage charges, fees or levy."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII__cl_30__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII__cl_30__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII__cl_30__subsec_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII__cl_30__subsec_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person authorised under subsection (2) shall—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII__cl_30__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII__cl_30__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "maintain such accounts, books and records in respect of the payment and collection of sewerage charges, fees or levy as the Director General may require;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII__cl_30__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII__cl_30__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "furnish to the Director General information, returns and accounts in respect of the payment and collection of sewerage charges, fees or levy as the Director General may require; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII__cl_30__subsec_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII__cl_30__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "permit the Director General or any officer authorised in writing by the Director General to have access to or examine or inspect any document, machinery or equipment maintained or used for the payment or collection of sewerage charges, fees or levy."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII__cl_30__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The authorisation of any person under subsection (2) shall not render the Federal Government liable to any person in respect of any injury, damage or loss occasioned by the failure of the person authorised under that subsection to carry out his obligations under the agreement in respect of which sewerage charges, fees or levy are demanded, collected or retained."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII__cl_30__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VII__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "When any premises or part thereof is used exclusively as a place for religious worship or for charitable purposes, the Minister may by order exempt the premises or part thereof from the payment of any charges, fees or levy imposed under subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_27__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_27__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_27__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_27__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_27__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_27__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_27__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_27__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_27__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_27__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_27__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_27__subsec_1__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to subsection (2), the Director General, or any person authorised by him in writing, may for the purposes of this Act enter at all reasonable hours upon any land or other premises for the purpose of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_27__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "making any survey or inspection;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_27__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "managing, planning, designing, refurbishing, repairing, maintaining and operating any public sewerage system;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_27__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "laying or constructing any public sewer or disposal pipe;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_27__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "treating and disposing the contents of any public sewerage system;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_27__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "discontinuing, closing up or destroying any part of a public sewerage system;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_27__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "clearing, cleansing or emptying any septic tank; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_27__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "otherwise executing any work authorised by this Act to be executed by him."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_27__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No person shall enter upon any land or other premises for any of the purposes mentioned in subsection (1) except with the consent of the owner and, where such land or premises are in occupation, the occupier of such land or premises or after giving twenty- four hours' previous notice to the owner or occupier."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_27__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In the case of reserved land, the notice referred to in subsection (2) shall be given to the person in charge of the reserved land or, in the absence of such person, to the District Land Administrator."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_27__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (2), notice shall not be required in the case of an emergency where a sewerage system or any part thereof, due to any cause, is or is likely to become dangerous to the public."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_28__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_28__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_28__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_28__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_28__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_28__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to subsection (2), the Director General, or any person authorised by him in writing, may enter upon any land adjoining to or being within the distance of one hundred meters of any works carried on under section 27—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_28__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_28__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for the purpose of depositing, upon the land, soil, gravel, sand, lime, brick, stone, pipe or other material; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_28__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_28__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for any other purposes connected with the performance of the works, without making any previous payment, tender or deposit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_28__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No person shall enter upon or make any use of any land under subsection (1) except with the consent of the owner and, if the land is in occupation, the occupier of such land or after giving seven days' previous notice to the owner or occupier."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_28__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person making use of any land under subsection (1) shall set apart by sufficient fences so much of the land as is required to be used for the purposes mentioned in that subsection from other land adjoining thereto."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_29__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_29__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_29__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_29__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_29__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_29__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The person exercising the powers conferred by sections 27 and 28 shall do as little damage as possible and when he has exercised those powers shall pay full compensation to all persons interested for any damage sustained by them by reason of the exercise of those powers."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_29__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If any dispute arises concerning the adequacy of the compensation to be paid under subsection (1), it shall, on application for that purpose by either of the disputing parties, be determined by a Sessions Court Judge."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_29__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_29__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_29__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If any dispute arises as to the persons entitled to receive compensation or as to the proportions in which the persons interested are entitled to share in it, the person liable to pay compensation may pay into the Sessions Court—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_29__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_29__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "such amount as it deems adequate; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_29__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_29__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where all the disputing parties have in writing admitted that the amount tendered is adequate, or the amount has been determined under subsection (2), that amount; and the Sessions Court Judge shall, after giving notice to the parties and hearing any of them who desires to be heard, determine the persons entitled to receive the compensation or the proportions in which the persons interested are entitled to share in it, as the case may be."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_29__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every determination of a dispute by a Sessions Court Judge under subsection (2) or (3) shall be final."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_29__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_VI__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Nothing in this section shall affect the right of any person to sue for and recover the whole or any part of any compensation paid pursuant to this section from the person who has received the compensation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Director General may at any time apply to such"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "premises as he thinks fit any system of sewerage services."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Director General shall cause private septic"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "tanks in areas from time to time prescribed by the Minister to be properly cleared, cleansed and emptied."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_23__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_23__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_23__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_23__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_23__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_23__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the Director General is satisfied that—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_23__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_23__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a private sewerage system or septic tank on any premises or which serves any premises; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_23__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_23__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a private connection pipe connecting any premises to a sewerage system, is defective or is not properly maintained or is in need of repair, he may issue a notice in accordance with this Act to the owner or occupier of such premises or the owner of the sewerage system, septic tank or connection pipe requiring the owner or occupier to have such private sewerage system, septic tank or connection pipe repaired or put in proper order within the period specified in the notice."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_23__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the Director General is satisfied that, due to any obstruction, any premises on which a septic tank is situated does not have adequate access for the purpose of clearing, cleansing and emptying the septic tank, he may issue a notice in accordance with this Act to the owner or occupier of such premises to remove such obstruction within the period specified in the notice."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_23__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the person to whom a notice issued under subsection (1) or (2) fails to comply with the notice within the period specified in the notice, the Director General or any person authorised by him may, at the expiration of such period, do the work required in the notice and may recover the expenses incurred in doing so from the owner or occupier."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_24__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_24__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_24__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may issue a notice in accordance with this Act to the owner, or if the owner cannot with reasonable diligence be traced the occupier, of any premises not connected to a public sewerage system requiring the owner or occupier to construct or lay for the premises, within the period specified in the notice, a private connection pipe of such materials or size and at such level as to enable the premises to be properly and effectively connected to any public sewer or public sewerage system located within thirty meters from the boundary of the premises."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_24__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_24__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_24__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the owner or occupier to whom a notice under subsection (1) has been issued fails to comply with the notice within the period specified in the notice—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_24__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_24__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Director General may apply Magistrate's Court for an order requiring the owner or occupier to construct or lay the private connection pipe required under subsection (1); or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_24__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_24__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Director General or any person authorised by him may construct or lay the pipe or cause the pipe to be constructed or laid."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_25__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_25__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_25__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_25__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_25__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_25__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The owner or occupier of any premises having a sewerage system or septic tank shall—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_25__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_25__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ensure adequate access to the septic tank for the purpose of enabling the septic tank to be serviced and desludged;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_25__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_25__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "cause the septic tank, the private connection pipe and all accessories thereto to be so maintained and kept as not to be a nuisance or harmful to health; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_25__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_25__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "cause the septic tank to be cleared, cleansed and emptied by a licensed sewerage services contractor."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_25__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit and to a further fine not exceeding one thousand ringgit for each day during which the offence continues after conviction."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_26__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_26__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_26__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_26__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_26__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The owner of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_26__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_26__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any private sewerage system or septic tank so foul or in such a state or so situate as to be a nuisance or a danger to health; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_26__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_26__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any building which— (i) is not kept in a clean state and free from effluent arising from any private sewerage system or septic tank; or (ii) is not ventilated in such manner as to render harmless as far as practicable any gas, vapour, dust or other impurity that is harmful to health generated from that private sewerage system or septic tank, shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_26__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_V__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A Magistrate's Court may, on the application of the Director General, order the owner of the sewerage system, septic tank or building referred to in subsection (1) to abate such nuisance, harm or danger."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X",
+      "@type": "akn:part",
+      "eli:number": "X",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_44",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_46"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "MISCELLANEOUS"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_35__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_35__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Any person who at any time—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_35__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "hinders or obstructs the the Director General or an officer appointed under this Act or a connection contractor or a sewerage services contractor or any other person performance and execution of his duty or of anything which he is empowered or required to do by virtue or in consequence of this Act; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_35__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "removes any mark set up for the purpose of indicating any level or direction necessary to the execution of works authorised by this Act, shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding five thousand ringgit or to a term of imprisonment not exceeding three months or to both."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_36__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_36__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_36__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "When any notice under this Act or any regulations made under this Act requires any act to be done or work to be executed by the owner or occupier of any premises and the owner or occupier fails to comply with the requirements of the notice, the owner or occupier shall be guilty of an offence and shall, on conviction, where no fine is specially provided, be liable to a fine not exceeding five thousand ringgit and to a further fine not exceeding five hundred ringgit for each day that the offence continues after conviction."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_36__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any notice requires any act to be done or work to be executed for which no time is fixed by this Act or any regulation made under this Act, it shall fix a reasonable time for complying with the requirement."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_37__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_37__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_37__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the occupier of any premises prevent the owner thereof from carrying into effect in respect of the premises any of the provisions of this Act after notice of his intention to do so has been given by the owner to that occupier, a Magistrate's Court, upon proof thereof and upon application of the owner, may make an order requiring the occupier to permit the owner to execute all such works with respect to that premises as are necessary for carrying into effect the provisions of this Act and may also, if it thinks fit, order the occupier to pay to the owner the costs relating to the application or order."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_37__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The occupier of any premises who continues, after the expiration of eight days from the date of an order made under subsection (1), to refuse to permit the owner of the premises to execute the works specified in the order shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding five thousand ringgit for every day during which he so continues to refuse, and the owner shall, during the continuance of the occupier's refusal, be discharged from any penalty to which he might otherwise be liable by reason of his default in executing the works."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Where an offence under this Act has been"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "committed by a body corporate, any person who at the time of the commission of the offence was a director, manager, secretary or other similar officer of the body corporate or was purporting to act in such capacity shall, as well as such body corporate, be deemed to be guilty of that offence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Prosecutions in respect of offences committed"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "under this Act or regulations made under this Act may be conducted by the Director General or any officer under his control, direction and supervision duly authorised in writing by him."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Director General, or any officer appointed"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "under section 8 to whom the Director General has delegated the power in writing, may in his discretion compound any offence against this Act or any regulation made under this Act which has been prescribed to be a compoundable offence by collecting from the person reasonably suspected of having committed the offence a sum of money not exceeding the maximum fine prescribed for that offence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_41__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_41__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_41__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_41__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_41__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_41__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_41",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Service of a document on any person shall be effected—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_41__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_41__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by delivering the document to that person or by delivering the document at the last known place of residence of that person to an adult member of his family;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_41__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_41__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by leaving the document at the usual or last known place of residence or business of that person in a cover addressed to that person; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_41__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_41__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by forwarding the document by post in a prepaid letter addressed to that person at his usual or last known place of residence or business."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_41__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_41",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A document required to be served on the owner or occupier of any premises shall be deemed to be properly addressed if addressed by the description of the \"owner\" or \"occupier\" of such premises without further name or description and may be served by delivering the document to some adult person on the premises or, if there is no such person on the premises to whom the document can with reasonable diligence be delivered, by fixing the document on some conspicuous part of the premises."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_42__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_42__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_42__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_42",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No misnomer or inaccurate description of any person, premises, building, holding, street or place named or described in any document prepared, issued or served under, by virtue of or for the purposes of this Act or any regulation made under this Act shall in any way affect the operation of this Act or that regulation with respect to that person or place if that person or place is so designated in the document as to be identifiable."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_42__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_42",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No proceedings taken under or by virtue of this Act or any regulation made under this Act shall be invalid for want of form."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Notwithstanding the provisions of any other written"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "law, in any proceedings under this Act or any regulation made under this Act a certificate which purports to be signed by the District Land Administrator for the purpose of establishing the registered proprietor of any land shall, unless the contrary is proved, be evidence of any fact stated therein."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_44__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_44__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_44__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_44",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every person who sells or transfers any property in respect of which costs and expenses have been incurred by the Director General or a sewerage services contractor or a connection contractor, as the case may be, in or about the execution of any work which are, under this Act, recoverable from the owner thereof shall continue to be liable for the payment of all such costs and expenses payable in respect of the property and for the performance of all other obligations imposed by this Act upon the owner of the property which become payable or are to be performed at any time before the transfer becomes effective."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_44__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_44",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Nothing in this Act shall affect the liability of the purchaser or transferee to pay costs and expenses in respect of the property referred to in subsection (1) or affect the right of the Director General or a sewerage services contractor or a connection contractor, as the case may be, to recover those costs and expenses from or to enforce any obligation under this Act against the purchaser or transferee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45",
+      "@type": "akn:clause",
+      "eli:number": "45",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may make regulations which are necessary or expedient for carrying out, or giving effect to, the purposes of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2__para_l",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2__para_m",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2__para_n",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2__para_o",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2__para_p",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2__para_q"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to the generality of subsection (1), the Minister may make regulations in respect of all or any of the following matters:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the powers, duties and functions of the Director General and any other officer appointed under section 8;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the areas in which septic tanks shall be cleared, cleansed and emptied by the sewerage services contractor pursuant to an agreement under section 7;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the minimum standards and specifications which shall be used in the design and construction of any sewerage system;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the standards for the operation and maintenance of any sewerage system;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the times and manner in which inspection for compliance with the minimum standards and specifications prescribed in paragraph (c) may be carried out by the Director General or person authorised by him in writing and the fees to be paid in respect of such inspection;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the form and contents of licences to be issued under Part IX, the conditions to be prescribed, the conditions for revocation and renewal of licences and the fees to be paid for the licences;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the regulation of the supply and use of equipment by a sewerage services contractor or a connection contractor in providing sewerage services or executing or carrying out a connection;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the minimum qualifications to be possessed by persons before they may be entrusted with the operation, maintenance or management of any private sewerage system;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the issue, suspension or revocation of certificates of competency to persons possessing the qualifications prescribed under paragraph (h) and the fees to be paid for the certificates;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "offences which may be compounded and the forms to be used in and the method and procedure for compounding offences;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other fee which is required to be prescribed or which may be prescribed under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the form of notifications, notices and orders to be made under this Act and the manner of service thereof;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2__para_m",
+      "@type": "akn:paragraph",
+      "eli:number": "m",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the means to be adopted, whether by prohibition or otherwise, to prevent or abate any nuisance likely to arise or arising from the working of any private sewerage system or septic tank;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2__para_n",
+      "@type": "akn:paragraph",
+      "eli:number": "n",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the regulation of the services provided by a sewerage services contractor including provisions for recovery of charges, fees and levy for sewerage services, connection, entry into any premises by a sewerage services contractor or his authorised officers for purposes related to the sewerage services and the form of any notice required;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2__para_o",
+      "@type": "akn:paragraph",
+      "eli:number": "o",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the manner in which plans and specifications in respect of any proposed sewerage system are to be submitted under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2__para_p",
+      "@type": "akn:paragraph",
+      "eli:number": "p",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the procedure for the determination of disputes and appeals, the holding of enquiries and arbitration under this Act; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2__para_q",
+      "@type": "akn:paragraph",
+      "eli:number": "q",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_45__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other matter which is authorised or required or permitted by this Act to be prescribed or which is necessary or expedient to be prescribed for carrying this Act into effect."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_46",
+      "@type": "akn:clause",
+      "eli:number": "46",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_46__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_46__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_46__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_46__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_46__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Nothing shall affect the past operation of, or anything done under the provisions of, any law relating to sewerage systems and services passed before the date of coming into operation of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_46__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any plans or specifications in respect of any sewerage system or septic tank approved under any other written law before the date of coming into operation of this Act shall be deemed to have been approved under section 31."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_46__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The provisions of subsections 32(1) and (2) shall not apply to any person who, on the date of coming into operation of this Act, was carrying on any of the acts described in subsection 32(1) until the expiration of six months from that date or the final determination of his application for a licence under this Act, whichever is the later."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_46__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/15/eng@/~part_X__cl_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (1), any right, liberty, privilege, obligation or liability existing immediately before the date of coming into operation of this Act by virtue of any law relating to sewerage systems or sewerage services in force before that date shall, except as may be expressly provided in this Act, be subject to the provisions of this Act."
+      }
+    }
+  ]
+}

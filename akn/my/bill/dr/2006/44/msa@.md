@@ -18,7 +18,19 @@ D.R. 44/2006
 
 ## DITETAPKAN DAN PELESENAN
 
-4. Aktiviti ditetapkan 5. Kehendak bagi lesen 6. Pihak berkuasa pelesenan 7. Permohonan bagi lesen 8. Pengeluaran lesen 9. Lesen hendaklah dipamerkan dan dikemukakan 10. Pindah milik lesen 11. Serah hak lesen 12. Pembatalan atau penggantungan lesen 13. Rayuan 14. Kuasa Menteri untuk memberikan arahan 15. Kuasa Menteri untuk membuat peraturan-peraturan mengenai pelesenan
+4. Aktiviti ditetapkan 5. Kehendak bagi lesen 6. Pihak berkuasa pelesenan 7. Permohonan bagi lesen 8. Pengeluaran lesen 9. Lesen hendaklah dipamerkan dan dikemukakan
+
+10. Pindah milik lesen
+
+11. Serah hak lesen
+
+12. Pembatalan atau penggantungan lesen
+
+13. Rayuan
+
+14. Kuasa Menteri untuk memberikan arahan
+
+15. Kuasa Menteri untuk membuat peraturan-peraturan mengenai pelesenan
 
 ## BAHAGIAN III
 
@@ -26,17 +38,95 @@ D.R. 44/2006
 
 ## PENYITAAN, PENANGKAPAN, DSB.
 
-16. Pelantikan pegawai penguat kuasa 17. Kuasa penyiasatan
+16. Pelantikan pegawai penguat kuasa
+
+17. Kuasa penyiasatan
 
 <!-- page 2 -->
 
-18. Kad kuasa 19. Kuasa penangkapan 20. Penggeledahan dan penyitaan dengan waran 21. Penggeledahan dan penyitaan tanpa waran 22. Kuasa untuk memasuki premis 23. Akses kepada data berkomputer 24. Penyitaan benda, dsb. 25. Kuasa untuk memberhentikan, menggeledah dan menyita pengangkut 26. Senarai benda yang disita 27. Pemulangan sementara pengangkut, dsb. 28. Penjualan dan pelupusan bahan api yang disita 29. Kuasa untuk menghendaki kehadiran orang yang mengetahui kes 30. Pemeriksaan orang yang mengetahui kes 31. Kebolehterimaan pernyataan sebagai keterangan 32. Pelucuthakan bahan api, dsb., yang disita 33. Hak harta mengenai bahan api, dsb., yang dilucuthakkan 34. Pelepasan bahan api, dsb., yang disita 35. Pegawai penguat kuasa boleh mendapatkan bantuan untuk memeriksa benda yang berkaitan dengan kesalahan 36. Kuasa untuk mengambil sampel 37. Tatacara bagi pengambilan sampel 38. Pelantikan juruanalisis 39. Perakuan analisis 40. Pemeriksaan atau pengujian bahan api yang disita 41. Kos memegang bahan api, dsb., yang disita 42. Tiada kos atau ganti rugi yang berbangkit daripada penyitaan boleh didapatkan 43. Kuasa pihak berkuasa pelesenan untuk menghendaki maklumat mengenai bahan api, dsb. 44. Kuasa tambahan 45. Mengamang atau menghalang pegawai penguat kuasa menjadi kesalahan
+18. Kad kuasa
+
+19. Kuasa penangkapan
+
+20. Penggeledahan dan penyitaan dengan waran
+
+21. Penggeledahan dan penyitaan tanpa waran
+
+22. Kuasa untuk memasuki premis
+
+23. Akses kepada data berkomputer
+
+24. Penyitaan benda, dsb.
+
+25. Kuasa untuk memberhentikan, menggeledah dan menyita pengangkut
+
+26. Senarai benda yang disita
+
+27. Pemulangan sementara pengangkut, dsb.
+
+28. Penjualan dan pelupusan bahan api yang disita
+
+29. Kuasa untuk menghendaki kehadiran orang yang mengetahui kes
+
+30. Pemeriksaan orang yang mengetahui kes
+
+31. Kebolehterimaan pernyataan sebagai keterangan
+
+32. Pelucuthakan bahan api, dsb., yang disita
+
+33. Hak harta mengenai bahan api, dsb., yang dilucuthakkan
+
+34. Pelepasan bahan api, dsb., yang disita
+
+35. Pegawai penguat kuasa boleh mendapatkan bantuan untuk memeriksa benda yang berkaitan dengan kesalahan
+
+36. Kuasa untuk mengambil sampel
+
+37. Tatacara bagi pengambilan sampel
+
+38. Pelantikan juruanalisis
+
+39. Perakuan analisis
+
+40. Pemeriksaan atau pengujian bahan api yang disita
+
+41. Kos memegang bahan api, dsb., yang disita
+
+42. Tiada kos atau ganti rugi yang berbangkit daripada penyitaan boleh didapatkan
+
+43. Kuasa pihak berkuasa pelesenan untuk menghendaki maklumat mengenai bahan api, dsb.
+
+44. Kuasa tambahan
+
+45. Mengamang atau menghalang pegawai penguat kuasa menjadi kesalahan
 
 <!-- page 3 -->
 
 ## BAHAGIAN V
 
-AM 46. Pengkompaunan kesalahan 47. Pemulaan pendakwaan 48. Percantuman kesalahan 49. Kesalahan yang dilakukan oleh pertubuhan perbadanan 50. Perlindungan pemberi maklumat 51. Perlindungan daripada tindakan guaman dan prosiding undang-undang 52. Pekhidmat awam 53. Kuasa untuk mengecualikan 54. Pindaan Jadual 55. Peraturan-peraturan 56. Peruntukan peralihan
+AM
+
+46. Pengkompaunan kesalahan
+
+47. Pemulaan pendakwaan
+
+48. Percantuman kesalahan
+
+49. Kesalahan yang dilakukan oleh pertubuhan perbadanan
+
+50. Perlindungan pemberi maklumat
+
+51. Perlindungan daripada tindakan guaman dan prosiding undang-undang
+
+52. Pekhidmat awam
+
+53. Kuasa untuk mengecualikan
+
+54. Pindaan Jadual
+
+55. Peraturan-peraturan
+
+56. Peruntukan peralihan
 
 ## JADUAL PERTAMA
 
@@ -462,11 +552,7 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi 
 
 31. (1) Dalam mana-mana perbicaraan atau siasatan oleh sesuatu mahkamah tentang suatu kesalahan di bawah Akta ini, apa-apa pernyataan, sama ada pernyataan itu terjumlah kepada pengakuan salah atau tidak, secara lisan atau bertulis, yang dibuat pada bila-bila masa, sama ada sebelum atau selepas orang itu dipertuduh dan sama ada semasa penyiasatan di bawah Akta ini atau tidak dan sama ada atau tidak secara keseluruhannya atau sebahagiannya pada menjawab soalan, oleh seseorang orang tertuduh kepada atau dengan didengar oleh mana-mana pegawai penguat kuasa, sama ada atau tidak diterjemahkan kepadanya oleh mana-mana pegawai penguat kuasa lain atau mana-mana orang lain, sama ada yang terlibat atau tidak dalam penangkapan orang itu, hendaklah, walau apa pun mana-mana undang-undang bertulis atau rukun undang-undang yang berlawanan, boleh diterima sebagai keterangan dalam perbicaraan orang itu dan, jika orang itu mengemukakan dirinya sebagai saksi, mana-mana pernyataan sedemikian boleh digunakan dalam pemeriksaan balas dan bagi maksud mencabar kebolehpercayaannya.
 
-(2) Tiada pernyataan yang dibuat di bawah subseksyen (1) boleh diterima atau digunakan sebagaimana yang diperuntukkan dalam subseksyen itu jika pembuatan pernyataan itu
-
-<!-- marginal: ternyata pada -->
-
-mahkamah telah disebabkan oleh apa-apa dorongan, ugutan atau janji yang berkaitan dengan pertuduhan terhadap orang itu yang datang daripada orang yang berkuasa dan mencukupi pada pendapat mahkamah itu untuk memberi orang itu alasan yang pada pendapatnya munasabah untuk menjangkakan bahawa dengan membuat pernyataan itu dia akan mendapat apa-apa faedah atau mengelakkan apa-apa durjana keduniaan berkaitan dengan prosiding terhadapnya.
+(2) Tiada pernyataan yang dibuat di bawah subseksyen (1) boleh diterima atau digunakan sebagaimana yang diperuntukkan dalam subseksyen itu jika pembuatan pernyataan itu ternyata pada mahkamah telah disebabkan oleh apa-apa dorongan, ugutan atau janji yang berkaitan dengan pertuduhan terhadap orang itu yang datang daripada orang yang berkuasa dan mencukupi pada pendapat mahkamah itu untuk memberi orang itu alasan yang pada pendapatnya munasabah untuk menjangkakan bahawa dengan membuat pernyataan itu dia akan mendapat apa-apa faedah atau mengelakkan apa-apa durjana keduniaan berkaitan dengan prosiding terhadapnya.
 
 (3) Jika mana-mana orang ditangkap atau dimaklumkan bahawa dia mungkin didakwa atas apa-apa kesalahan di bawah Akta ini, hendaklah disampaikan padanya suatu notis secara bertulis, yang hendaklah diterangkan kepadanya yang bermaksud seperti yang berikut:
 
@@ -578,11 +664,7 @@ atau benda lain yang dilucuthakkan atau disifatkan terlucut hak hendaklah dihant
 
 ### Kos memegang bahan api, dsb., yang disita
 
-41. Jika apa-apa bahan api, pengangkut,
-
-<!-- marginal: jentera, peralatan, -->
-
-kelengkapan, buku, rekod, dokumen atau benda lain yang disita di bawah Akta ini dipegang dalam jagaan pihak berkuasa pelesenan sementara menunggu penyelesaian apa-apa prosiding berkenaan dengan suatu kesalahan di bawah Akta ini, kos bagi memegangnya dalam jagaan hendaklah, dalam hal mana-mana orang didapati bersalah atas sesuatu kesalahan, menjadi hutang yang kena dibayar kepada pihak berkuasa pelesenan oleh orang itu dan hendaklah boleh didapatkan dengan sewajarnya.
+41. Jika apa-apa bahan api, pengangkut, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain yang disita di bawah Akta ini dipegang dalam jagaan pihak berkuasa pelesenan sementara menunggu penyelesaian apa-apa prosiding berkenaan dengan suatu kesalahan di bawah Akta ini, kos bagi memegangnya dalam jagaan hendaklah, dalam hal mana-mana orang didapati bersalah atas sesuatu kesalahan, menjadi hutang yang kena dibayar kepada pihak berkuasa pelesenan oleh orang itu dan hendaklah boleh didapatkan dengan sewajarnya.
 
 ### Tiada kos atau ganti rugi yang berbangkit daripada penyitaan
 
@@ -648,7 +730,9 @@ peratus amaun maksimum denda bagi kesalahan itu dalam masa yang dinyatakan dalam
 
 (3) Jika amaun yang dinyatakan dalam tawaran di bawah subseksyen (1) tidak dibayar dalam masa yang dinyatakan dalam tawaran itu atau dalam apa-apa tempoh lanjutan yang diberikan oleh pihak berkuasa pelesenan, pendakwaan bagi kesalahan itu boleh dimulakan pada bila-bila masa selepas itu terhadap orang yang kepadanya tawaran itu dibuat.
 
-(4) Jika suatu kesalahan telah dikompaun di bawah subseksyen (1), tiada pendakwaan boleh dimulakan selepas itu berkenaan dengan kesalahan itu terhadap orang yang kepadanya tawaran untuk mengkompaun telah dibuat dan apa-apa bahan api atau hasil penjualannya, atau apa-apa pengangkut, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain yang disita berkaitan dengan kesalahan itu boleh dilepaskan atau dilucuthakkan oleh pihak berkuasa pelesenan, tertakluk kepada apa-apa terma dan syarat yang difikirkan patut dikenakan mengikut syarat kompaun oleh pihak berkuasa pelesenan.
+(4) Jika suatu kesalahan telah dikompaun di bawah subseksyen
+
+(1), tiada pendakwaan boleh dimulakan selepas itu berkenaan dengan kesalahan itu terhadap orang yang kepadanya tawaran untuk mengkompaun telah dibuat dan apa-apa bahan api atau hasil penjualannya, atau apa-apa pengangkut, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain yang disita berkaitan dengan kesalahan itu boleh dilepaskan atau dilucuthakkan oleh pihak berkuasa pelesenan, tertakluk kepada apa-apa terma dan syarat yang difikirkan patut dikenakan mengikut syarat kompaun oleh pihak berkuasa pelesenan.
 
 ### Pemulaan pendakwaan
 
@@ -668,11 +752,7 @@ pelakuan kesalahan itu ialah pengarah, pengurus, setiausaha atau pegawai lain ya
 
 (a) boleh didakwa secara berasingan atau bersesama dalam prosiding yang sama bersekali dengan pertubuhan perbadanan itu; dan
 
-(b) jika pertubuhan perbadanan itu didapati telah melakukan kesalahan itu, hendaklah disifatkan
-
-<!-- marginal: telah melakukan -->
-
-kesalahan itu melainkan jika, dengan mengambil kira jenis fungsinya atas sifat itu dan segala hal keadaan, dia membuktikan —
+(b) jika pertubuhan perbadanan itu didapati telah melakukan kesalahan itu, hendaklah disifatkan telah melakukan kesalahan itu melainkan jika, dengan mengambil kira jenis fungsinya atas sifat itu dan segala hal keadaan, dia membuktikan —
 
 (i) bahawa kesalahan itu telah dilakukan
 
@@ -736,11 +816,7 @@ syarat yang difikirkannya patut dikenakan, mana-mana orang atau golongan orang a
 
 ### Peraturan-peraturan
 
-55. (1) Menteri boleh, selepas berunding dengan pihak berkuasa pelesenan, membuat peraturan-peraturan yang perlu atau suai manfaat bagi melaksanakan sepenuhnya
-
-<!-- marginal: atau menjalankan -->
-
-peruntukan-peruntukan Akta ini.
+55. (1) Menteri boleh, selepas berunding dengan pihak berkuasa pelesenan, membuat peraturan-peraturan yang perlu atau suai manfaat bagi melaksanakan sepenuhnya atau menjalankan peruntukan-peruntukan Akta ini.
 
 <!-- page 33 -->
 
@@ -752,11 +828,7 @@ peruntukan-peruntukan Akta ini.
 
 (c) menetapkan tatacara yang hendaklah diikuti oleh pengeksport dalam mengeksport biobahan api, biobahan api yang diadunkan dengan apa-apa bahan api lain atau biobahan api yang diadunkan dengan apa-apa biobahan api lain;
 
-(d) mengadakan peruntukan bagi penyenggaraan piawaian pelakuan yang sepatutnya dalam penjalanan
-
-<!-- marginal: industri -->
-
-biobahan api dan bagi urusan pelanggarannya;
+(d) mengadakan peruntukan bagi penyenggaraan piawaian pelakuan yang sepatutnya dalam penjalanan industri biobahan api dan bagi urusan pelanggarannya;
 
 (e) menetapkan amalan yang hendaklah diikuti atau dielakkan dalam industri biobahan api;
 
@@ -778,9 +850,7 @@ biobahan api dan bagi urusan pelanggarannya;
 
 ### Peruntukan peralihan
 
-56. (1) Mana-mana orang yang, pada tarikh kuat kuasa Akta ini, sedang mengusahakan suatu aktiviti yang Akta
-
-<!-- marginal: ini -->
+56. (1) Mana-mana orang yang, pada tarikh kuat kuasa Akta ini, sedang mengusahakan suatu aktiviti yang Akta ini
 
 <!-- marginal: terpakai -->
 
@@ -940,4 +1010,4 @@ Akta Industri Biobahan Api Malaysia 2006 yang dicadangkan ("Akta yang dicadangka
 
 Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya belum dapat ditentukan sekarang ini.
 
-[PN(U2)2455]
+<!-- marginal: [PN(U2)2455] -->

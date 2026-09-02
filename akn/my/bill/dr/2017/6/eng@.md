@@ -4,9 +4,9 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
-PrELIMINarY
+## PRELIMINARY
 
 1. Short title and commencement
 
@@ -14,7 +14,7 @@ PrELIMINarY
 
 3. Extra-territorial application
 
-## Part II
+## PART II
 
 ## OFFENCES RELATING TO CHILD PORNOGRAPHY
 
@@ -34,7 +34,7 @@ PrELIMINarY
 
 11. Offence by body corporate
 
-## Part III
+## PART III
 
 ## OFFENCES RELATING TO CHILD GROOMING
 
@@ -46,21 +46,21 @@ PrELIMINarY
 
 <!-- page 2 -->
 
-## Part IV
+## PART IV
 
-OFFENCES rELatING tO SEXUaL aSSaULt
+## OFFENCES RELATING TO SEXUAL ASSAULT
 
 15. Physical sexual assault on a child
 
 16. Non-physical sexual assault on a child
 
-## Part V
+## PART V
 
 ## PERSON IN RELATIONSHIP OF TRUST
 
 17. Person in relationship of trust
 
-## Part VI
+## PART VI
 
 ## CREDIBILITY AND EVIDENCE OF CHILD WITNESS
 
@@ -68,7 +68,7 @@ OFFENCES rELatING tO SEXUaL aSSaULt
 
 19. Evidence of child witness
 
-## Part VII
+## PART VII
 
 ## MISCELLANEOUS
 
@@ -86,7 +86,7 @@ OFFENCES rELatING tO SEXUaL aSSaULt
 
 26. Schedule
 
-## SChEdULE
+## SCHEDULE
 
 <!-- page 3 -->
 
@@ -98,7 +98,7 @@ An Act to provide for certain sexual offences against children and their punishm
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -120,7 +120,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 3. Where an offence under this Act is committed by a Malaysian citizen against a child in any place outside Malaysia, he may be dealt with in respect of such offence as if the offence was committed at any place within Malaysia.
 
-## Part II
+## PART II
 
 ## OFFENCES RELATING TO CHILD PORNOGRAPHY
 
@@ -232,7 +232,7 @@ Explanation—A person is said to access child pornography if he knowingly cause
 
 11. Where any offence under this Part has been committed by a body corporate, any person who at the time of the commission of the offence was a director, manager, secretary or other similar officer of the body corporate, or was purporting to act in any such capacity, or was in any manner responsible for the management of any of the affairs of such body corporate, or was assisting in such management, shall also be guilty of that offence unless he proves that the offence was committed without his knowledge, consent or connivance, and that he had exercised all due diligence to prevent the commission of the offence as he ought to have exercised, having regard to the nature of his functions in that capacity and to all the circumstances.
 
-## Part III
+## PART III
 
 ## OFFENCES RELATING TO CHILD GROOMING
 
@@ -282,7 +282,7 @@ by any means, commits an offence and shall, on conviction, be punished with impr
 
 (b) A communicates with Z, a child via e-mail and befriends Z. A takes a step further and meets Z with the intention that A’s friends C and B could rape Z. A is guilty of an offence under this section.
 
-## Part IV
+## PART IV
 
 ## OFFENCES RELATING TO SEXUAL ASSAULT
 
@@ -330,7 +330,7 @@ commits an offence and shall, on conviction, be liable to imprisonment for a ter
 
 <!-- page 12 -->
 
-## Part V
+## PART V
 
 ## PERSON IN RELATIONSHIP OF TRUST
 
@@ -354,7 +354,7 @@ commits an offence and shall, on conviction, be liable to imprisonment for a ter
 
 <!-- page 13 -->
 
-## Part VI
+## PART VI
 
 ## CREDIBILITY AND EVIDENCE OF CHILD WITNESS
 
@@ -368,7 +368,7 @@ commits an offence and shall, on conviction, be liable to imprisonment for a ter
 
 (2) The court, before allowing for the uncorroborated evidence of a child to be admissible under subsection (1), shall ascertain that the child is possessed of sufficient intelligence and understands the duty of speaking the truth.
 
-## Part VII
+## PART VII
 
 ## MISCELLANEOUS
 
@@ -424,7 +424,7 @@ commits an offence and shall, on conviction, be liable to imprisonment for a ter
 
 The proposed Sexual Offences against Children Act 2017 (“the proposed Act”) seeks to provide for certain sexual offences against children and their punishment in addition to other sexual offences against children and their punishment in other written laws, and in relation to it to provide for the administration of justice for children and connected matters. The proposed Act is pertinent to address the seriousness of sexual offences committed against children in Malaysia. The ultimate object of the proposed Act is to provide for better protection for children against sexual offences and to safeguard the interest and well-being of children and to provide effective deterrence. In ensuring the effectiveness of the proposed Act, the relevant parties dealing with children including the public are obliged to furnish information to the relevant authority on the commission of or the intention of any other person to commit any sexual offence against children.
 
-## Part I
+## PART I
 
 2. Part I of the proposed Act contains preliminary matters.
 
@@ -434,7 +434,7 @@ The proposed Sexual Offences against Children Act 2017 (“the proposed Act”) 
 
 5. Clause 3 contains provision on extra-territorial application of the proposed Act. Where an offence under the proposed Act is committed by a Malaysian citizen against a child in any place outside Malaysia, he may be dealt with in respect of such offence as if the offence was committed at any place within Malaysia.
 
-## Part II
+## PART II
 
 6. Part II of the proposed Act provides for punishment for offences relating to child pornography and other relevant provisions.
 
@@ -462,11 +462,9 @@ Any person who commits an offence under this clause shall, on conviction, be pun
 
 13. Clause 10 seeks to provide for the punishment for the offence of accessing, or having in possession or control, any child pornography. Any person who commits an offence under this clause shall, on conviction, be liable to imprisonment for a term not exceeding five years or to a fine not exceeding ten thousand ringgit or to both. A person is said to access child pornography if he knowingly causes child pornography to be viewed by, or transmitted to, himself.
 
-14. Clause 11 deals with the provision relating to offences committed under
+14. Clause 11 deals with the provision relating to offences committed under Part II by a body corporate.
 
-## Part II by a body corporate.
-
-## Part III
+## PART III
 
 15. Part III of the proposed Act provides for the punishment for offences relating to child grooming.
 
@@ -478,7 +476,7 @@ Any person who commits an offence under this clause shall, on conviction, be pun
 
 18. Clause 14 seeks to provide for the punishment for the offence of meeting following child grooming. Under this clause, any person who, having communicated by any means with a child, meets with the child with the intention to commit or to facilitate the commission of any offence under section 5, 6, 7, 8,15 or 16 of the proposed Act or any offence under the Schedule against the child commits an offence and shall, on conviction, be punished with imprisonment for a term not exceeding ten years and shall also be liable to whipping.
 
-## Part IV
+## PART IV
 
 19. Part IV of the proposed Act provides for the punishment for offences of sexual assault.
 
@@ -490,13 +488,13 @@ Any person who commits an offence under this clause shall, on conviction, be pun
 
 this clause for any person to engage in an activity that is sexual in nature in the presence of a child, cause a child to watch another person engaging in an activity that is sexual in nature, cause a child to watch or hear any representation, whether visual, audio or written or the combination of visual, audio or written, or by any other means of another person engaging in an activity that is sexual in nature or make a child engage in an activity that is sexual in nature. Any person who commits an offence under this clause shall, on conviction, be liable to imprisonment for a term not exceeding ten years or to a fine not exceeding twenty thousand ringgit or to both.
 
-## Part V
+## PART V
 
 22. Part V of the proposed Act relates to a person who is in a relationship of trust with a child.
 
 23. Clause 17 provides that where a person who commits any offence under the proposed Act or any offence under the Schedule against a child, is in a relationship of trust with the child, such person shall, in addition to the punishment to which he is liable for such offence, be punished with imprisonment for a term not exceeding five years and shall also be punished with whipping of not less than two strokes. A person is said to be in a relationship of trust with the child if the child is under his care, supervision or authority, including but not limited to a parent, guardian or person who is related through full-blood or half-blood, or through marriage or adoption, including de facto adoption, a person who looks after one or more children for valuable consideration for any period of time, teacher, lecturer or warden of a kindergarten, school, public institution of higher learning or private institution of higher learning, any person providing healthcare services in a Government healthcare facility or private healthcare facility as defined in section 2 of the Private Healthcare Facilities and Services Act 1998 [Act 586], coach and public servant of whatever rank in the course of his duty under any written law in respect of the child.
 
-## Part VI
+## PART VI
 
 24. Part VI of the proposed Act contains provisions on the credibility and evidence of a child witness.
 
@@ -508,7 +506,7 @@ this clause for any person to engage in an activity that is sexual in nature in 
 
 from section 133a of the Evidence Act 1950 [Act 56] which provides that a person cannot be convicted upon uncorroborated evidence not given upon oath by a child of tender years. Nevertheless this provision is to enhance the status of children as witnesses so that their evidence is given the appropriate weight.
 
-## Part VII
+## PART VII
 
 27. Part VII of the proposed Act contains miscellaneous provisions.
 

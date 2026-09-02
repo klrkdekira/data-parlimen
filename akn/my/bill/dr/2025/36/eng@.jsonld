@@ -74,56 +74,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/36/eng@/~cl_2",
       "@type": "akn:clause",
       "eli:number": "2",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/36/eng@/~cl_2__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/36/eng@/~cl_2__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/36/eng@/~cl_2__para_c",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/36/eng@/~cl_2__para_d"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/36/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "The Rukun Tetangga Act 2012 [Act 751], which is referred to as the “principal Act” in this Act, is amended in section 2 by inserting after the definition of “Minister” the following definition: ‘ “person who has interest”, in relation to an Area, means a person—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/36/eng@/~cl_2__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/36/eng@/~cl_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": "who owns or has any type of property, whether residential, commercial, industrial or agricultural property or otherwise in the Area;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/36/eng@/~cl_2__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/36/eng@/~cl_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": "who carries on a business in the Area, or is employed or has a place of employment in the Area;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/36/eng@/~cl_2__para_c",
-      "@type": "akn:paragraph",
-      "eli:number": "c",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/36/eng@/~cl_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": "who holds any position in any organization, association, institution or body which is established in the Area or which operates or carries out activities in the Area; or"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/36/eng@/~cl_2__para_d",
-      "@type": "akn:paragraph",
-      "eli:number": "d",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/36/eng@/~cl_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": "who has a family relationship with any resident in the Area.’. Amendment of section 3"
+        "@value": "The Rukun Tetangga Act 2012 [Act 751], which is referred to as the “principal Act” in this Act, is amended in section 2 by inserting after the definition of “Minister” the following definition: ‘ “person who has interest”, in relation to an Area, means a person— (a) who owns or has any type of property, whether residential, commercial, industrial or agricultural property or otherwise in the Area; (b) who carries on a business in the Area, or is employed or has a place of employment in the Area; (c) who holds any position in any organization, association, institution or body which is established in the Area or which operates or carries out activities in the Area; or (d) who has a family relationship with any resident in the Area.’. Amendment of section 3"
       }
     },
     {

@@ -40,17 +40,15 @@ to in this Act as the "principal Act", is amended—
 
 (d) by inserting, after the definition of "patented product", the following definitions:
 
-' "prescribed" means prescribed by regulations made under this Act; "priority date" means the date prescribed in section 27A; "process" includes an art or a method; "product" means any thing which appears in tangible form, and includes any apparatus, article, device, equipment, handicraft, implement, machine, substance
-
-<!-- marginal: and -->
-
-composition;';
+' "prescribed" means prescribed by regulations made under this Act; "priority date" means the date prescribed in section 27A; "process" includes an art or a method; "product" means any thing which appears in tangible form, and includes any apparatus, article, device, equipment, handicraft, implement, machine, substance and composition;';
 
 (e) in the definition of "Registrar" by deleting the words "and includes any Deputy Registrar of Patents or Assistant Registrar of Patents".
 
-Amendment
+<!-- marginal: Amendment -->
 
-3. Section 4 of the principal Act is amended— of section 4.
+3. Section 4 of the principal Act is amended—
+
+<!-- marginal: of section 4. -->
 
 (a) by substituting for subsection (2) the following subsection:
 
@@ -60,11 +58,7 @@ Amendment
 
 (b) a Deputy Chairman, who shall be appointed by the Minister from amongst persons who, in the opinion of the Minister, by reason of their knowledge and experience would be of substantial service to the development of industrial property;
 
-(c) a representative of the Ministry charged with the responsibility for industrial property, to be appointed by
-
-<!-- marginal: the -->
-
-Secretary-General of that Ministry;
+(c) a representative of the Ministry charged with the responsibility for industrial property, to be appointed by the Secretary-General of that Ministry;
 
 (d) a representative of the Ministry charged with the responsibility for industry, to
 
@@ -74,11 +68,7 @@ be appointed by the Secretary-General of that Ministry;
 
 (e) a representative of the Ministry charged with the responsibility for science and technology, to be appointed by the Secretary-General of that Ministry;
 
-(f) a representative of
-
-<!-- marginal: the National -->
-
-Scientific Council for Research and Development, to be appointed by that Council;
+(f) a representative of the National Scientific Council for Research and Development, to be appointed by that Council;
 
 (g) a representative of the representing research institutes, to be appointed by the Minister;
 
@@ -86,13 +76,7 @@ Scientific Council for Research and Development, to be appointed by that Council
 
 (i) not more than three other persons whom the Minister considers fit and proper persons to be members of the Board, to be appointed by the Minister.";
 
-(b) in subsection (3), by substituting
-
-<!-- marginal: for -->
-
-<!-- marginal: the -->
-
-words ", other than a member appointed under paragraph (b) or (c) of subsection (2)," the words "appointed under paragraph (b), (g), (h) or (i) of subsection (2)".
+(b) in subsection (3), by substituting for the words ", other than a member appointed under paragraph (b) or (c) of subsection (2)," the words "appointed under paragraph (b), (g), (h) or (i) of subsection (2)".
 
 <!-- marginal: Amendment -->
 
@@ -100,13 +84,7 @@ words ", other than a member appointed under paragraph (b) or (c) of subsection 
 
 <!-- marginal: of section 5. -->
 
-(a) in subsection (1), by substituting
-
-<!-- marginal: for -->
-
-<!-- marginal: the -->
-
-words ", other than a member appointed under paragraph (a) of subsection (2) of section 4, appoint another person from the same body or" the words "appointed under paragraph (g), (h) or (i) of subsection (2) "of section 4 appoint another person";
+(a) in subsection (1), by substituting for the words ", other than a member appointed under paragraph (a) of subsection (2) of section 4, appoint another person from the same body or" the words "appointed under paragraph (g), (h) or (i) of subsection (2) "of section 4 appoint another person";
 
 (b) by inserting, after subsection (1), the following subsection:
 
@@ -118,25 +96,39 @@ words ", other than a member appointed under paragraph (a) of subsection (2) of 
 
 under paragraph (c)t (d), (e), or (f) of subsection (2) of section 4 may be appointed by the respective appointing authorities mentioned in those paragraphs to be that member's alternate and such alternate member may attend the meetings of the Board in place of that member if that member is for any reason unable to attend.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-5. The principal Act is amended by substituting for of section 10. section 10 the following section:
+5. The principal Act is amended by substituting for
 
-"Patent 10. There shall be a patent information service informa which provides information to the public upon tion service. payment of the prescribed fee.".
+<!-- marginal: of section 10. -->
 
-Amendment
+section 10 the following section:
 
-6. Section 14 of the principal Act is amended— of section 14.
+<!-- marginal: "Patent -->
+
+10. There shall be a patent information service
+
+<!-- marginal: informa -->
+
+which provides information to the public upon
+
+<!-- marginal: tion -->
+
+<!-- marginal: service. -->
+
+payment of the prescribed fee.".
+
+<!-- marginal: Amendment -->
+
+6. Section 14 of the principal Act is amended—
+
+<!-- marginal: of section 14. -->
 
 (a) in subsection (2)—
 
 (i) in paragraph (a), by substituting for the words "by written publication or, in Malaysia," the words "by written publication,";
 
-(ii) by deleting the words "filing date or, where appropriate," wherever
-
-<!-- marginal: they -->
-
-appear;
+(ii) by deleting the words "filing date or, where appropriate," wherever they appear;
 
 (b) by inserting, after subsection (3), the following subsection:
 
@@ -200,9 +192,13 @@ and the subject-matter of the application for a patent is the same as the subjec
 
 and the subject-matter of the application for a certificate for a utility innovation is the same as the subject-matter of the application mentioned in paragraph (a) or of the patent mentioned in paragraph (b), a certificate for a utility innovation shall not be granted until the application mentioned in paragraph (a) has been withdrawn or the patent mentioned in paragraph (b) has been surrendered.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-10. Section 18 of the principal Act is amended by of section 18. inserting, after subsection (3), the following subsection:
+10. Section 18 of the principal Act is amended by
+
+<!-- marginal: of section 18. -->
+
+inserting, after subsection (3), the following subsection:
 
 "(4) If two or more persons have separately and independently made the same invention, and each of them has made an application for a patent, the right to a patent for that invention shall belong to the person whose application has the earliest priority date.".
 
@@ -262,51 +258,85 @@ section 25 the following section:
 
 (d) in the national language text, by substituting for the word "penetapan" wherever it appears the word "akuan",
 
-New section
+<!-- marginal: New section -->
 
-15. The principal Act is amended by inserting, after 2?A. section 27, the following section:
+15. The principal Act is amended by inserting, after
 
-Priority 21 A. (1) Subject to subsection (2), the priority date. date of an application for a patent is the filing date of the application.
+<!-- marginal: 2?A. -->
+
+section 27, the following section:
+
+<!-- marginal: Priority -->
+
+21 A. (1) Subject to subsection (2), the priority
+
+<!-- marginal: date. -->
+
+date of an application for a patent is the filing date of the application.
 
 (2) Where an application contains the declaration mentioned in section 27, the priority date of the application shall be the filing date of the earliest application whose priority is claimed in that declaration.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-16. The principal Act is amended by substituting for of section 29. section 29 the following section:
+16. The principal Act is amended by substituting for
 
-Preliminary 29. (1) Where an application for a patent has examina- a filing date and is not withdrawn, the Registrar tion. shall examine the application and determine whether it complies with the requirements of this Act and the regulations made under this Act which are designated by such regulations as formal requirements for the purposes of this Act.
+<!-- marginal: of section 29. -->
 
-(2) If the Registrar, as a result of the examination under subsection (1), finds that not all the formal requirements are complied with, he shall give an opportunity to the applicant to make any observation on such finding and to amend the application within the prescribed period so as to comply with those requirements, and if the applicant fails to do so the Registrar may refuse
+section 29 the following section:
 
-<!-- marginal: the -->
+<!-- marginal: Preliminary -->
 
-application.".
+29. (1) Where an application for a patent has
+
+<!-- marginal: examina- -->
+
+a filing date and is not withdrawn, the Registrar
+
+<!-- marginal: tion. -->
+
+shall examine the application and determine whether it complies with the requirements of this Act and the regulations made under this Act which are designated by such regulations as formal requirements for the purposes of this Act.
+
+(2) If the Registrar, as a result of the examination under subsection (1), finds that not all the formal requirements are complied with, he shall give an opportunity to the applicant to make any observation on such finding and to amend the application within the prescribed period so as to comply with those requirements, and if the applicant fails to do so the Registrar may refuse the application.".
 
 <!-- page 9 -->
 
 17. The principal Act is amended by inserting, after section 29, the following section:
 
-Request 29A. (1) If an application for a patent has been for examined under section 29 and
+<!-- marginal: Request -->
 
-<!-- marginal: is not -->
+29A. (1) If an application for a patent has been
 
-substantive examina- withdrawn or refused, the applicant shall file, tion or within the prescribed period, a request for a modified substantive substantive examination of the application. examina- tion. (2) If a patent or other title of industrial property protection has been granted to the applicant or his predecessor in title in a prescribed country outside Malaysia or under a prescribed treaty or Convention for an invention which is the same or essentially the same as the invention claimed
+<!-- marginal: for -->
 
-<!-- marginal: in -->
+examined under section 29 and is not
 
-<!-- marginal: the -->
+<!-- marginal: substantive -->
 
-application, the applicant may, instead of requesting for a substantive examination, request for a modified substantive examination.
+<!-- marginal: examina- -->
+
+withdrawn or refused, the applicant shall file,
+
+<!-- marginal: tion or -->
+
+within the prescribed period, a request for a
+
+<!-- marginal: modified -->
+
+<!-- marginal: substantive -->
+
+substantive examination of the application.
+
+<!-- marginal: examina- -->
+
+<!-- marginal: tion. -->
+
+(2) If a patent or other title of industrial property protection has been granted to the applicant or his predecessor in title in a prescribed country outside Malaysia or under a prescribed treaty or Convention for an invention which is the same or essentially the same as the invention claimed in the application, the applicant may, instead of requesting for a substantive examination, request for a modified substantive examination.
 
 (3) A request for a substantive examination or a modified substantive examination shall be made in the prescribed form and shall not be deemed to have been filed until the prescribed fee has been paid to the Registrar and any other prescribed requirement has been complied with.
 
 (4) The Registrar may require the applicant to provide, at the time of filing a request for a substantive examination—
 
-(a) any prescribed information
-
-<!-- marginal: or -->
-
-prescribed supporting document concerning the filing of any application for a patent or other title of industrial property protection filed outside Malaysia by such applicant or his predecessor in title with a national, regional or international industrial property office;
+(a) any prescribed information or prescribed supporting document concerning the filing of any application for a patent or other title of industrial property protection filed outside Malaysia by such applicant or his predecessor in title with a national, regional or international industrial property office;
 
 (b) any prescribed information concerning the results of any search or examination carried out by an International Searching Authority under the Patent Cooperation Treaty, relating to the
 
@@ -322,13 +352,7 @@ same or essentially the same invention as that claimed in the application for wh
 
 within the prescribed period, the application for a patent shall, subject to subsection (6), be deemed to be withdrawn at the end of that period.
 
-(6) Notwithstanding subsection (5), the Registrar may, upon the request of the applicant, grant a deferment of the filing of a request for examination referred
-
-<!-- marginal: to -->
-
-<!-- marginal: in -->
-
-subsection (1) or (2) or a deferment of the provision of the information or document referred to in subsection (4), and such deferment may be granted only on the grounds that—
+(6) Notwithstanding subsection (5), the Registrar may, upon the request of the applicant, grant a deferment of the filing of a request for examination referred to in subsection (1) or (2) or a deferment of the provision of the information or document referred to in subsection (4), and such deferment may be granted only on the grounds that—
 
 (a) the patent or title referred to in sub- section (2) has not been granted or is not available; or
 
@@ -342,7 +366,9 @@ by the expiration of the prescribed period for the filing of a request under sub
 
 prescribed period for the filing of a request under subsection (1) or (2) and no deferment may be sought nor granted for a period greater than that prescribed in the regulations made under this Act.
 
-(8) Without prejudice to the power of the Registrar to grant a deferment, the period prescribed for the purposes of this section may not be extended under the provisions of section 82.".
+(8) Without prejudice to the power of the Registrar to grant a deferment, the period prescribed for the purposes of this section may not be extended under the provisions of section
+
+82.".
 
 <!-- marginal: Amendment -->
 
@@ -352,35 +378,47 @@ prescribed period for the filing of a request under subsection (1) or (2) and no
 
 section 30 the following section:
 
-Substantive 30. (1) Where a request for substantive examina- examination has been filed under subsection tion and modified (1) of section 29A, the Registrar shall refer the substantive application to an Examiner who shall— examina- tion.
+<!-- marginal: Substantive -->
+
+30. (1) Where a request for substantive
+
+<!-- marginal: examina- -->
+
+examination has been filed under subsection
+
+<!-- marginal: tion and -->
+
+<!-- marginal: modified -->
+
+(1) of section 29A, the Registrar shall refer the
+
+<!-- marginal: substantive -->
+
+application to an Examiner who shall—
+
+<!-- marginal: examina- -->
+
+<!-- marginal: tion. -->
 
 (a) determine whether the application complies with those requirements of this Act and the regulations made under this Act which are designated by such regulations as substantive requirements for the purposes of this Act; and
 
-(b) report his determination
-
-<!-- marginal: to -->
-
-<!-- marginal: the -->
-
-Registrar.
+(b) report his determination to the Registrar.
 
 (2) Where a request for a modified substantive examination has been filed under subsection (2) of section 29A, the Registrar shall refer the application to an Examiner who shall—
 
 (a) determine whether the application complies with those requirements of this Act and the regulations made this Act which are designated by such regulations as modified substantive requirements for the purposes of this Act; and
 
-(b) report his determination
-
-<!-- marginal: to -->
-
-<!-- marginal: the -->
-
-Registrar.
+(b) report his determination to the Registrar.
 
 <!-- page 12 -->
 
-(3) If the Examiner reports, in accordance with subsection (1) or (2), that any of the requirements referred to in subsection (1) or (2), as the case may be, are not complied with, the Registrar shall give the applicant an opportunity to make observations on the report and to amend the application so as to comply with those requirements, within the prescribed period, and if the applicant fails to satisfy the Registrar that those requirements are complied with, or to amend the application so as to comply with them, the Registrar may refuse the application.
+(3) If the Examiner reports, in accordance with subsection (1) or (2), that any of the requirements referred to in subsection (1) or
 
-(4) The Registrar may grant an extension of the prescribed period referred to in subsection (3) but such extension may be granted only once and no subsequent extension may be granted under the provisions of section 82.
+(2), as the case may be, are not complied with, the Registrar shall give the applicant an opportunity to make observations on the report and to amend the application so as to comply with those requirements, within the prescribed period, and if the applicant fails to satisfy the Registrar that those requirements are complied with, or to amend the application so as to comply with them, the Registrar may refuse the application.
+
+(4) The Registrar may grant an extension of the prescribed period referred to in subsection
+
+(3) but such extension may be granted only once and no subsequent extension may be granted under the provisions of section 82.
 
 (5) If the Examiner reports, in accordance with subsection (1) or (2), that the application, whether as originally filed or as amended, complies with the requirements referred to in subsection (1) or (2), as the case may be, the Registrar shall notify the applicant of that fact and, subject to subsection (6), shall process the application accordingly.
 
@@ -444,7 +482,17 @@ section 33, the following sections:
 
 (2) Copies of or extracts from the Register, or of or from any document or publication in the Patent Registration Office, if certified by the Registrar in writing under his hand, shall be admissible in evidence in all courts without further proof or production of the original.
 
-Amendments 33B. (1) The Registrar may, on request made to the in the prescribed manner by the owner of a Register. patent, amend the Register—
+<!-- marginal: Amendments -->
+
+33B. (1) The Registrar may, on request made
+
+<!-- marginal: to the -->
+
+in the prescribed manner by the owner of a
+
+<!-- marginal: Register. -->
+
+patent, amend the Register—
 
 (a) by correcting any error in the name or address of the owner of the patent; or
 
@@ -454,15 +502,25 @@ Amendments 33B. (1) The Registrar may, on request made to the in the prescribed 
 
 (a) revoke the certificate of grant of the patent and issue a new certificate of grant of the patent; or
 
-(b) make any consequential amendments in the certificate of grant of the patent as are rendered necessary by
-
-<!-- marginal: the -->
-
-amendment of the Register.
+(b) make any consequential amendments in the certificate of grant of the patent as are rendered necessary by the amendment of the Register.
 
 (3) Notwithstanding any other provision of this Act or the regulations made under this Act, no fee shall be payable by the owner of a patent in respect of a request to correct any error in the name or address of such owner unless such error is caused or contributed to by such owner.
 
-Court may 33c. (1) The Court may, on the application of order any aggrieved person, order the rectification of rectification of the the Register by directing— Register.
+<!-- marginal: Court may -->
+
+33c. (1) The Court may, on the application of
+
+<!-- marginal: order -->
+
+any aggrieved person, order the rectification of
+
+<!-- marginal: rectification -->
+
+<!-- marginal: of the -->
+
+the Register by directing—
+
+<!-- marginal: Register. -->
 
 (a) the making of any entry wrongly omitted from the Register;
 
@@ -504,11 +562,25 @@ and such statement shall be deemed to form part of the evidence in Court.
 
 patent for non-payment of any annual fee shall be published in the Gazette".
 
-New section
+<!-- marginal: New section -->
 
 24. The principal Act is amended in Part VI by inserting,
 
-35A.. after section 35, the following section: Reinstate- 35A. (1) Within two years from the date on ment of a which a notice of the lapsing of a patent is lapsed patent. published in the Gazette—
+35A.. after section 35, the following section:
+
+<!-- marginal: Reinstate- -->
+
+35A. (1) Within two years from the date on
+
+<!-- marginal: ment of a -->
+
+which a notice of the lapsing of a patent is
+
+<!-- marginal: lapsed -->
+
+<!-- marginal: patent. -->
+
+published in the Gazette—
 
 (a) the owner of the patent or his successor in title; or
 
@@ -522,11 +594,7 @@ may apply to the Registrar in the prescribed form to have the patent reinstated.
 
 (b) upon being satisfied that the non- payment of annual fees was due to accident, mistake or other unforeseeable circumstances.
 
-(3) Where the Registrar reinstates a lapsed patent, he shall cause notice of
-
-<!-- marginal: the -->
-
-reinstatement to be published in the Gazette.
+(3) Where the Registrar reinstates a lapsed patent, he shall cause notice of the reinstatement to be published in the Gazette.
 
 (4) The reinstatement of a lapsed patent shall not prejudice the rights acquired by third parties after it is notified in the Gazette that the patent has lapsed and before it is notified in the Gazette that the patent has been reinstated.
 
@@ -580,9 +648,13 @@ the principal Act is amended by substituting for the words "permohonan bagi" the
 
 <!-- page 18 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-29. The national language text of subsection 49(1) of section 49. of the principal Act is amended—
+29. The national language text of subsection 49(1)
+
+<!-- marginal: of section 49. -->
+
+of the principal Act is amended—
 
 (a) in paragraph (a)—
 
@@ -590,21 +662,35 @@ Amendment
 
 (b) in paragraph (b), by substituting for the word "dikemukakan" the word "dikeluarkan".
 
-Amendment
+<!-- marginal: Amendment -->
 
-30. Subsection 49A(1) of the principal Act is amended of section 49A. by deleting the words "filing date or, where appropriate,".
+30. Subsection 49A(1) of the principal Act is amended
 
-Amendment
+<!-- marginal: of section 49A. -->
 
-31. The national language text of Part XI of the principal of Part XL Act is amended by substituting for the words "PEMBATALAN", "Pembatalan", "pembatalan", "membatalkan", "dibatalkan" and "terbatal" the words "PENTAKSAHAN", "Pentaksahan", "pentaksahan", "mentaksahkan", "ditaksahkan", dan "tak sah", respectively.
+by deleting the words "filing date or, where appropriate,".
 
-Amendment
+<!-- marginal: Amendment -->
 
-32. Section 56 of the principal Act is amended— of section 56.
+31. The national language text of Part XI of the principal
+
+<!-- marginal: of Part XL -->
+
+Act is amended by substituting for the words "PEMBATALAN", "Pembatalan", "pembatalan", "membatalkan", "dibatalkan" and "terbatal" the words "PENTAKSAHAN", "Pentaksahan", "pentaksahan", "mentaksahkan", "ditaksahkan", dan "tak sah", respectively.
+
+<!-- marginal: Amendment -->
+
+32. Section 56 of the principal Act is amended—
+
+<!-- marginal: of section 56. -->
 
 (a) in subsection (2)— (i) by deleting the word "or" at the end of paragraph (c)\ (ii) by substituting for the colon at the end of paragraph (d) the words "; or"; (iii) by inserting, after the paragraph (d), the following paragraph:
 
-"(e) that incomplete or incorrect information has been deliberately provided or caused to be provided to the Registrar under subsection (4) of section 29A by the person to whom the patent was granted or by his agent."; and
+"(e) that incomplete or
+
+<!-- marginal: incorrect -->
+
+information has been deliberately provided or caused to be provided to the Registrar under subsection (4) of section 29A by the person to whom the patent was granted or by his agent."; and
 
 <!-- page 19 -->
 
@@ -612,7 +698,11 @@ Amendment
 
 (b) by inserting, after subsection (2), the following subsection:
 
-"(2A) Notwithstanding subsection (2), the Court shall not invalidate the patent on the ground mentioned in paragraph (d) of subsection (2) if the patent has been assigned to the person to whom the right to the patent belongs.".
+"(2A) Notwithstanding subsection (2), the Court shall not invalidate the patent on the ground mentioned in paragraph
+
+<!-- marginal: (d) of -->
+
+subsection (2) if the patent has been assigned to the person to whom the right to the patent belongs.".
 
 <!-- marginal: Amendment -->
 
@@ -660,21 +750,53 @@ principal Act is amended by substituting for the words "dalam pembicaraan" the w
 
 ## BILL
 
-Amendment
+<!-- marginal: Amendment -->
 
-37. The principal Act is amended by substituting for of section 79. section 79 the following section:
+37. The principal Act is amended by substituting for
 
-Power of 79. (1) The Registrar may, upon a request Registrar made by an applicant for a patent in accordance to amend patent with regulations made under this Act, amend application. the applicant's patent application, or any document submitted at the Patent Registration Office in connection with the application, for the purpose of correcting a clerical error or an obvious mistake.
+<!-- marginal: of section 79. -->
+
+section 79 the following section:
+
+<!-- marginal: Power of -->
+
+79. (1) The Registrar may, upon a request
+
+<!-- marginal: Registrar -->
+
+made by an applicant for a patent in accordance
+
+<!-- marginal: to amend -->
+
+<!-- marginal: patent -->
+
+with regulations made under this Act, amend
+
+<!-- marginal: application. -->
+
+the applicant's patent application, or any document submitted at the Patent Registration Office in connection with the application, for the purpose of correcting a clerical error or an obvious mistake.
 
 (2) Every request under subsection (1) shall be accompanied by the prescribed fee.".
 
-New section
+<!-- marginal: New section -->
 
 38. The principal Act is amended by inserting, after
 
 79A. section 79, the following section:
 
-Power of 79A. (1) The Registrar may, upon a request Registrar made by the owner of a patent in accordance to amend patent. with regulations made under this Act, amend the description, the claim or claims, or the drawings, of the patent, or amend any other document associated with the patent, for the purpose of correcting a clerical error or an obvious mistake or for any other reason acceptable to the Registrar.
+<!-- marginal: Power of -->
+
+79A. (1) The Registrar may, upon a request
+
+<!-- marginal: Registrar -->
+
+made by the owner of a patent in accordance
+
+<!-- marginal: to amend -->
+
+<!-- marginal: patent. -->
+
+with regulations made under this Act, amend the description, the claim or claims, or the drawings, of the patent, or amend any other document associated with the patent, for the purpose of correcting a clerical error or an obvious mistake or for any other reason acceptable to the Registrar.
 
 (2) The Registrar shall not make an amendment under this section if the amendment would have the effect of disclosing a matter which extends beyond that disclosed before the amendment or if the amendment would have the effect of extending the protection conferred at the time of grant of the patent.
 
@@ -738,9 +860,13 @@ by substituting for the words "the application on the registration of patents" t
 
 <!-- page 22 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-45. (1) Section 89 of the principal Act is amended by of section 89. substituting for paragraph (c) the following paragraph:
+45. (1) Section 89 of the principal Act is amended by
+
+<!-- marginal: of section 89. -->
+
+substituting for paragraph (c) the following paragraph:
 
 "(c) any certificate or grant issued or made, in respect of a patent, under the repealed laws and in force immediately prior to the coming into force of this Act shall remain in force— (i) so long as the original patent remains in force in the United Kingdom; or (ii) until the expiration of twenty years from the date of application,
 
@@ -748,9 +874,11 @@ whichever is the earlier.".
 
 (2) Paragraph 89 ( c) of the principal Act as amended in subsection (1) shall be deemed to be and to have always been an integral part of section 89 from the date of coming into force of the principal Act.
 
-Amendment
+<!-- marginal: Amendment -->
 
-46. (1) Section 90 of the principal Act is amended— of section 90
+46. (1) Section 90 of the principal Act is amended—
+
+<!-- marginal: of section 90 -->
 
 (a) in subsections (1) and (2), by inserting after the words "issue a certificate" the words "or make a grant";
 
@@ -762,9 +890,13 @@ Amendment
 
 (2) Every grant made in Sarawak before the coming into force of this section and purported to have been made under subsection 90(1) or 90(2) of the principal Act is hereby declared to have been lawfully and validly made notwithstanding the omission of an express reference to the making of such grant.
 
-Amendment
+<!-- marginal: Amendment -->
 
-47. The Second Schedule to the principal Act is of Second amended—
+47. The Second Schedule to the principal Act is
+
+<!-- marginal: of Second -->
+
+amended—
 
 ## Schedule.
 
@@ -774,27 +906,27 @@ Amendment
 
 (ii) by deleting the words "filing date or, where appropriate," in paragraphs (2)(a) and (2)(W;
 
-(b) by deleting the words "Section 29" in column (1) and by deleting all the modifications in column (2) in respect of section 29;
+(b) by deleting the words "Section 29" in column
 
-(c) by substituting for the modifications
+(1) and by deleting all the modifications in column (2) in respect of section 29;
 
-<!-- marginal: in -->
+(c) by substituting for the modifications in paragraph 2 in column (2) in respect of section 32 the following modifications: '2. Substitute "certificate for utility innovations" for "patents".';
 
-paragraph 2 in column (2) in respect of section 32 the following modifications: '2. Substitute "certificate for utility innovations" for "patents".';
+(d) by inserting, after the reference in column (1) to section 32 and the modifications in column
 
-(d) by inserting, after the reference in column (1) to section 32 and the modifications in column (2) in respect of section 32, the following provisions: 'Section 33B ... Substitute "certificate for utility innovation" for "certificate of grant of the patent".';
+(2) in respect of section 32, the following provisions: 'Section 33B ... Substitute "certificate for utility innovation" for "certificate of grant of the patent".';
 
 (e) in the modifications in column (2) in respect of section 35— (i) by deleting the punctuation marks '".' at the end of the proviso to subsection (4); and (ii) by inserting, after subsection (4), the following subsection: '(5) If the annual fee is not paid in accordance with subsection (4) the certificate for the utility innovation shall lapse, and a notice of the lapsing of the certificate for non-payment of any annual fee shall be published in the.
 
-(f) by substituting for paragraph 2 of
-
-<!-- marginal: the -->
-
-modifications in column (2) in respect of section 37 the following paragraph: 2. Delete ", by the provisions on compulsory licenses as provided in sections 51 and 52" in subsection (5).'.
+(f) by substituting for paragraph 2 of the modifications in column (2) in respect of section 37 the following paragraph: 2. Delete ", by the provisions on compulsory licenses as provided in sections 51 and 52" in subsection (5).'.
 
 <!-- page 24 -->
 
-Transitional 48. Nothing in this Act shall affect— and saving.
+<!-- marginal: Transitional -->
+
+48. Nothing in this Act shall affect—
+
+<!-- marginal: and saving. -->
 
 (a) requests made before the date of coming into force of this Act for preliminary or substantive examinations and still pending immediately prior to the date of coming into force of this Act; and
 

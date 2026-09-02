@@ -36,7 +36,9 @@ General" the following definitions:
 
 ' "document" has the meaning assigned Act 56. thereto in section 3 of the Evidence Act 1950;
 
-"electronic data interchange" means the transfer, from computer to computer, of commercial and administrative transactions using an agreed message standard to structure the data pertaining to
+"electronic data interchange" means the transfer, from computer to computer, of commercial and administrative transactions using an agreed message standard to structure the data pertaining
+
+<!-- marginal: to -->
 
 <!-- marginal: a -->
 
@@ -44,9 +46,13 @@ transaction;'.
 
 <!-- page 2 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-3. The proviso to section 49 of the principal Act is of section 49. amended by inserting after the words "which are not so printed or issued" the words "as aforesaid, or permit the use of any form submitted through an electronic data interchange".
+3. The proviso to section 49 of the principal Act is
+
+<!-- marginal: of section 49. -->
+
+amended by inserting after the words "which are not so printed or issued" the words "as aforesaid, or permit the use of any form submitted through an electronic data interchange".
 
 ## EXPLANATORY STATEMENT
 

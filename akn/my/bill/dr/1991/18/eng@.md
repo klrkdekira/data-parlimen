@@ -80,21 +80,61 @@ Commissioner Act 1957;
 
 <!-- page 4 -->
 
-Transfer 4. All powers, rights, privileges, duties, liabilities and of powers, obligations which immediately before the appointed date rights, etc. were those of the Board shall, as from that date, devolve on the Government.
+<!-- marginal: Transfer -->
 
-Transfer of 5. (1) All lands which immediately before the appointed property. date were vested in the Board shall, on the appointed date, vest in the Federal Lands Commissioner for the purposes of the Government.
+4. All powers, rights, privileges, duties, liabilities and
+
+<!-- marginal: of powers, -->
+
+obligations which immediately before the appointed date
+
+<!-- marginal: rights, etc. -->
+
+were those of the Board shall, as from that date, devolve on the Government.
+
+<!-- marginal: Transfer of -->
+
+5. (1) All lands which immediately before the appointed
+
+<!-- marginal: property. -->
+
+date were vested in the Board shall, on the appointed date, vest in the Federal Lands Commissioner for the purposes of the Government.
 
 (2) All property and assets other than land which immediately before the appointed date were vested in the Board or in any person on its behalf shall, on that date, vest in the Government,
 
-Transfer 6. All moneys standing in, or due to be paid to, the Board of fund. shall, on the appointed date, be transferred to, and be vested with, the Government.
+<!-- marginal: Transfer -->
 
-Existing 7. All deeds, bonds, agreements, instruments and working contracts. arrangements subsisting immediately before
+6. All moneys standing in, or due to be paid to, the Board
+
+<!-- marginal: of fund. -->
+
+shall, on the appointed date, be transferred to, and be vested with, the Government.
+
+<!-- marginal: Existing -->
+
+7. All deeds, bonds, agreements, instruments and working
+
+<!-- marginal: contracts. -->
+
+arrangements subsisting immediately before
 
 <!-- marginal: the -->
 
 appointed date- and affecting any of the property transferred under section 5 shall be of full force and effect against or in favour of the Government and enforceable as fully and effectually as if, instead of the Board or any person acting on its behalf, the Government had been named therein or had been a party thereto.
 
-Continuance 8. (1) The repeal of the Social and Welfare Services of criminal Lotteries Board Act 1950-1962 shall not affect any and civil proceedings. person' s liability to be prosecuted or punished for offences committed under the repealed Act before the appointed date, or any proceedings brought or sentence imposed before that date in respect of such offence.
+<!-- marginal: Continuance -->
+
+8. (1) The repeal of the Social and Welfare Services
+
+<!-- marginal: of criminal -->
+
+Lotteries Board Act 1950-1962 shall not affect any
+
+<!-- marginal: and civil -->
+
+<!-- marginal: proceedings. -->
+
+person' s liability to be prosecuted or punished for offences committed under the repealed Act before the appointed date, or any proceedings brought or sentence imposed before that date in respect of such offence.
 
 (2) Any proceedings (whether civil or criminal), or cause of action pending or existing immediately before the appointed date by or against the Board or any person acting on its behalf may be continued or instituted by or against the Government as it might have been by or against the Board or such person as if this Act had not been passed.
 

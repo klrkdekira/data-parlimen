@@ -210,9 +210,25 @@ yang dibuat di bawah Akta ini dengan membuat suatu tawaran bertulis kepada orang
 
 16. Akta ibu dipinda dengan memasukkan selepas seksyen 29 seksyen yang berikut:
 
-“Perisytiharan 29a. Mana-mana orang yang membuat, palsu. secara lisan atau bertulis, menandatangani atau memberikan apa-apa perisytiharan, penyata, perakuan atau dokumen atau maklumat lain yang dikehendaki di bawah Akta ini atau perundangan subsidiari yang dibuat di bawahnya yang tidak benar, tidak tepat atau mengelirukan mengenai apa-apa butiran melakukan suatu kesalahan dan boleh, apabila disabitkan, dikenakan denda tidak lebih daripada dua ratus lima puluh ribu ringgit atau penjara selama tempoh tidak lebih daripada lima tahun atau kedua-duanya sekali.
+<!-- marginal: “Perisytiharan -->
 
-Kuasa untuk 29b. (1) Perbadanan boleh mengeluarkan mengeluarkan apa-apa garis panduan sebagaimana yang suai garis panduan. manfaat atau perlu bagi melaksanakan dengan lebih baik peruntukan Akta ini.
+29a. Mana-mana orang yang membuat,
+
+<!-- marginal: palsu. -->
+
+secara lisan atau bertulis, menandatangani atau memberikan apa-apa perisytiharan, penyata, perakuan atau dokumen atau maklumat lain yang dikehendaki di bawah Akta ini atau perundangan subsidiari yang dibuat di bawahnya yang tidak benar, tidak tepat atau mengelirukan mengenai apa-apa butiran melakukan suatu kesalahan dan boleh, apabila disabitkan, dikenakan denda tidak lebih daripada dua ratus lima puluh ribu ringgit atau penjara selama tempoh tidak lebih daripada lima tahun atau kedua-duanya sekali.
+
+<!-- marginal: Kuasa untuk -->
+
+29b. (1) Perbadanan boleh mengeluarkan
+
+<!-- marginal: mengeluarkan -->
+
+apa-apa garis panduan sebagaimana yang suai
+
+<!-- marginal: garis panduan. -->
+
+manfaat atau perlu bagi melaksanakan dengan lebih baik peruntukan Akta ini.
 
 (2) Perbadanan boleh membatalkan, mengubah, menyemak semula atau meminda keseluruhan atau mana-mana bahagian mana-mana garis panduan yang dikeluarkan di bawah seksyen ini.”.
 
@@ -284,11 +300,7 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Perbadanan Kemajuan Filem Na
 
 11. Fasal 11 bertujuan untuk memasukkan subseksyen baharu 24b(2) ke dalam Akta 244 untuk mengadakan peruntukan bagi anggapan yang boleh dipatahkan berkenaan dengan orang yang mengambil bahagian dalam pengeluaran suatu filem.
 
-12. Fasal 12 bertujuan untuk meminda seksyen 25 Akta 244 untuk menaikkan penalti bagi kesalahan pelanggaran mana-mana peruntukan di bawah
-
-## Bahagian V Akta 244 daripada denda sebanyak lima puluh ribu ringgit kepada
-
-dua ratus lima puluh ribu ringgit dan daripada penjara selama tempoh dua tahun kepada lima tahun.
+12. Fasal 12 bertujuan untuk meminda seksyen 25 Akta 244 untuk menaikkan penalti bagi kesalahan pelanggaran mana-mana peruntukan di bawah Bahagian V Akta 244 daripada denda sebanyak lima puluh ribu ringgit kepada dua ratus lima puluh ribu ringgit dan daripada penjara selama tempoh dua tahun kepada lima tahun.
 
 13. Fasal 13 bertujuan untuk meminda seksyen 26h Akta 244 untuk memperuntukkan bahawa tiada pendakwaan bagi suatu kesalahan di bawah Akta 244 atau perundangan subsidiari yang dibuat di bawah Akta 244 boleh dimulakan kecuali oleh atau dengan keizinan bertulis daripada Pendakwa Raya.
 

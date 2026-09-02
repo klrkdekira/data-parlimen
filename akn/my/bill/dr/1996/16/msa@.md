@@ -46,9 +46,13 @@ memasukkan selepas perenggan (35) perenggan yang berikut:
 
 <!-- page 2 -->
 
-Bahagian
+<!-- marginal: Bahagian -->
 
-4. Akta ibu adalah dipinda dengan memasukkan selepas baru XIXB. Bahagian XIXA Bahagian yang berikut: "
+4. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru XIXB. -->
+
+Bahagian XIXA Bahagian yang berikut: "
 
 ## PART XIXB
 
@@ -56,19 +60,61 @@ Bahagian
 
 ## THE JOINT DEVELOPMENT AREA
 
-Movement
+<!-- marginal: Movement -->
 
-163H. (1) The movement of goods from a of goods country other than Malaysia or the Kingdom into or from Joint of Thailand or from a licensed warehouse of Develop- Malaysia or the Kingdom of Thailand into the ment Area. Joint Development Area shall be deemed to be an importation of such goods into the Joint Development Area.
+163H. (1) The movement of goods from a
+
+<!-- marginal: of goods -->
+
+country other than Malaysia or the Kingdom
+
+<!-- marginal: into or -->
+
+<!-- marginal: from Joint -->
+
+of Thailand or from a licensed warehouse of
+
+<!-- marginal: Develop- -->
+
+Malaysia or the Kingdom of Thailand into the
+
+<!-- marginal: ment Area. -->
+
+Joint Development Area shall be deemed to be an importation of such goods into the Joint Development Area.
 
 (2) The movement of goods produced in the Joint Development Area from the Joint Development Area into Malaysia, the Kingdom of Thailand or any other country shall be deemed to be an exportation of such goods from the Joint Development Area.
 
 (3) The movement of goods from Malaysia or the Kingdom of Thailand into the Joint Development Area for use in the Joint Development Area and the movement of such goods from the Joint Development Area into Malaysia or the Kingdom of Thailand shall be deemed to be an internal movement of such goods.
 
-Customs 163I. (1) Import duty shall be payable on all duty payable goods imported into the Joint Development Area. on importa- tion into or exportation (2) Export duty shall be payable on all goods from Joint exported from the Joint Development Area.". Develop- ment Area.
+<!-- marginal: Customs -->
+
+163I. (1) Import duty shall be payable on all
+
+<!-- marginal: duty payable -->
+
+goods imported into the Joint Development Area.
+
+<!-- marginal: on importa- -->
+
+<!-- marginal: tion into or -->
+
+<!-- marginal: exportation -->
+
+(2) Export duty shall be payable on all goods
+
+<!-- marginal: from Joint -->
+
+exported from the Joint Development Area.".
+
+<!-- marginal: Develop- -->
+
+<!-- marginal: ment Area. -->
 
 ## HURAIAN
 
-Rang Undang-Undang ini bertujuan meminda Akta Kastam 1967 ("Akta").
+Rang Undang-Undang ini bertujuan meminda Akta Kastam 1967
+
+<!-- marginal: ("Akta"). -->
 
 <!-- page 3 -->
 

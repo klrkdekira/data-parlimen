@@ -1,0 +1,2667 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-34-2023",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~sched_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~sched_2"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Public Finance and Fiscal Responsibility Bill 2023"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_I__cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_I__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_I__cl_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY Short title and commencement"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_9"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRINCIPLES OF FISCAL POLICY Fiscal policy objectives"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_25"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "KEY COMPONENTS OF FISCAL POLICY Division 1 Revenue Formulation of revenue policy"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_10__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister is responsible for formulating and implementing revenue policy of the Government based on the principle of efficiency, fairness and equitability, and the principle of responsible fiscal management under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_10__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_10__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_10__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_10__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The formulation of revenue policy shall be based on the following objectives:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_10__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to achieve sufficient and sustainable revenue generation in the medium term and long term;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_10__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to manage and administer revenue consistent with international best practices;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_10__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to have an efficient tax system and fair legislative framework; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_10__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to maintain a reasonable degree of predictability and stability of tax policy. Revenue policy"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_11__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_11__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The revenue policy shall be competitive in the global environment, encourage investment and support long term economic growth."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall ensure the revenue generation is able to finance operating expenditure and development expenditure or at least to finance operating expenditure."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_11__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_11__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_11__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Government shall adopt effective and efficient revenue policies that—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_11__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_11__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ensure sustainable revenue generation; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_11__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_11__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "minimise possible revenue losses. Responsibility of Minister in relation to revenue policy"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_12__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_12__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_12__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall formulate medium term revenue strategy and conduct a review of the revenue policy including but not limited to legislative framework and incentives structure in optimising revenue sources."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall, in respect of every financial year, prepare annual revenue estimates based on the changes in the revenue policy and legislation consistent with underlying assumptions of economic indicators and other related factors."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_12__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall make an assessment of the potential loss or gain of revenues and shall specify measures that can minimise such revenue losses."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_12__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall ensure revenue management and administration is in accordance with the objectives under subsection 10(2) and policy under section 11 relating to revenue. Division 2 Public expenditure Formulation of public expenditure policy"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_13__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_13__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister is responsible for formulating and implementing public expenditure policy in an effective and efficient manner to enhance fiscal discipline, public service delivery and resource allocation towards achieving overall socio-economic objectives in accordance with principles of responsible fiscal management under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_13__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_13__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_13__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_13__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The formulation of public expenditure policy shall be based on the following objectives:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_13__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to instil fiscal discipline in public expenditure management;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_13__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to ensure the alignment of public expenditure with revenue generation over the medium term;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_13__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to ensure transparency in public expenditure; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_13__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to improve efficiency in public expenditure."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_13__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In formulating public expenditure policy under this section, the Minister shall take into account the annual development expenditure as a percentage of gross domestic product as specified in the First Schedule. Public expenditure policy"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_14__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_14__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The formulation of public expenditure policy shall be comprehensive, realistic and transparent with a clear line of responsibility and accountability."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_14__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_14__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_14__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_14__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Government shall adopt effective and efficient public expenditure policies that—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_14__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_14__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ensure public expenditure is managed prudently;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_14__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_14__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "resources are efficiently and effectively allocated;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_14__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_14__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "programmes and projects implemented have high impact and multiplier effect to the economy; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_14__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_14__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ensure that allocation spent are value for money."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_14__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Government shall, before making any decision and policy that involves additional expenditure, assess the financial implication together with expenditure recalibration or reprioritisation strategies and revenue measures. Responsibility of Minister in relation to public expenditure"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_15__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_15__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_15__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_15__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_15__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall formulate medium term public expenditure policy as a comprehensive framework for the public expenditure planning."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall, in respect of every financial year, prepare a statement of the estimated expenditure based on the Government’s mandate and policy consistent with underlying assumptions of economic indicators and other related factors."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_15__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall monitor the performance of programmes and projects in the expenditure estimates and report its outcome to ensure optimal resource utilisation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_15__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall publish a mid-year expenditure performance report under section 36 of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_15__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall, during the tabling of supplementary supply bill, state the purpose and source of funding in relation to the supplementary and excess expenditure, in the event the expenditure of that financial year exceeds the approved expenditure estimates either through saving, recalibration of expenditure, additional receipt or borrowing."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_15__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall conduct programmes and projects evaluation in the medium term and report his findings and recommendations to the Cabinet. Division 3 Borrowing and debt management Formulation of borrowing and debt management policy"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_16__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_16__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_16__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister is responsible for formulating and implementing borrowing and debt management policy of the Government in a responsible and prudent manner with the aim of ensuring debt affordability and sustainability."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_16__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_16__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_16__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_16__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The formulation of borrowing and debt management policy shall be based on the following objectives:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_16__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_16__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to ensure the borrowing and debt management obligations of the Government are met in a timely manner at the lowest possible cost with a reasonable degree of risk;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_16__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_16__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to promote the development and efficient function of the domestic financial market; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_16__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_16__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to ensure debt affordability and debt consolidation over the medium term and long term. Borrowing management policy"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The borrowing made by the Government shall be in accordance with the Acts specified in the Second Schedule and shall be used for the purposes specified in the First Schedule of the Development Funds Act 1966 and for the repayment of debt. Debt management policy"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_18__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The total debt of the Government shall not exceed the percentage of gross domestic product as specified in the First Schedule."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall, in the event of total revenue exceeding total expenditure during the financial year, transfer any surplus between total revenue and total expenditure to the sinking fund created under section 12 of the Loan (Local) Act 1959 [Act 637] to reduce the Government debt. Responsibility of Minister in relation to borrowing and debt management"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_19__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_19__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_19__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_19__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall, before the commencement of a financial year, prepare a borrowing programme to finance expenditure for the purposes specified in the First Schedule of the Development Funds Act 1966 and to repay the maturing debt for that financial year."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may revise the borrowing programmes as he may deem necessary."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_19__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall, at all times, monitor borrowing, debt service charges and total debt."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_19__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall make an assessment of the debt sustainability in the medium term and report his findings and recommendations to the Government."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_19__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall ensure the execution of the borrowing and debt management policy are consistent and in accordance with the provisions of this Act. Division 4 Fiscal risk management Formulation of fiscal risk management policy"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_20__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_20__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_20__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister is responsible for formulating the fiscal risk management policy of the Government with the aim to minimise and mitigate the risk exposure of the Government consistent with the principle of responsible fiscal management under subsection 6(2) of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_20__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_20__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_20__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_20__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_20__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Fiscal risk means any transactions or circumstances that bind or may bind the Government to financial liability, including but not limited to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_20__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_20__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "financial commitment to the Government arising from any financial guarantee, public-private partnership and Government entities;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_20__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_20__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "changes in any economic indicator that may result in additional financial commitment to the Government;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_20__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_20__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the impact of natural disasters, climate change, pandemics and geopolitical situations that may result in additional financial commitment to the Government; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_20__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_20__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other circumstances that can potentially expose the Government to a financial commitment. Responsibility of Minister in relation to fiscal risk management"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_21__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_21__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_21__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The responsibilities of the Minister in relation to fiscal risk management shall be as follows:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_21__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to identify the source of fiscal risk that may expose the Government to any financial liabilities;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_21__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_21__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_21__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_21__para_b__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_21__para_b__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to assess and determine, during the financial year and after the end of each financial year—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_21__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_21__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the financial performance of Government entities and recipients of financial guarantees that may result in exposing the Government to liabilities;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_21__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_21__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any decision by the Government that may bind the Government to an additional financial commitment;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_21__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_21__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any natural disaster and other circumstances that resulted in additional financial commitment and debt obligation; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_21__para_b__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_21__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "changes in economic indicators that may alter the fiscal position; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_21__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to formulate a plan to mitigate material risk to the fiscal position of the Government arising from matters specified under subsection 20(2). Disclosure of fiscal risk"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_22__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_22__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister in carrying out the assessment under paragraph 21(b), shall provide financial allocation and disclose fiscal risk based on the following conditions:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_22__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where the fiscal risk assessed can be quantified with reasonable accuracy and the financial commitment that can be assigned in the medium term arises, that financial commitment shall be disclosed in the fiscal outlook report; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_22__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where the fiscal risk assessed cannot be quantified with reasonable accuracy or the financial commitment cannot be assigned in the medium term, that fiscal risk shall be disclosed in the fiscal risk statement. Limiting exposure to fiscal risk"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_23__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_23__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_23__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall prepare and publish guidelines or policy framework to limit exposure to fiscal risk on the fiscal position of the Government arising from financial guarantee, public-private partnership and Government entities."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_23__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_23__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_23__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_23__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No financial guarantee shall be given unless—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_23__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the guarantee is consistent with the principles of responsible fiscal management under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_23__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the terms and conditions of the guarantee are consistent with the guidelines or policy framework; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_23__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the amount of the guarantee shall not exceed the quantified value specified in the First Schedule. Mitigation plan in relation to financial guarantee"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_24__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_24__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_24__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where there is a possibility for an event of default or there is a significant event that may result in a default by the recipient of the financial guarantee, the Minister shall lay the mitigation plan before the House of Representatives."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_24__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the mitigation plan involves the utilization of amount from the Consolidated Fund, the amount shall be appropriated for in the expenditure estimates. Responsibilities to submit financial statement"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_25__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_25__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_25__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_25__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_25__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Government entities and the recipient of the financial guarantee shall submit an audited financial statement to the Treasury not later than six months from the financial year end."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_25__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In the event where the audited financial statement has not been issued, the Government entities and the recipient of the financial guarantee shall submit an unaudited financial statement."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_25__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsections (1) and (2), the Minister may, at any time, direct the Government entities and the recipient of the financial guarantee to submit their financial statement."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_25__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_III__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of subsection (1), ‘financial year’ means financial year as defined under the Companies Act 2016."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister is responsible for formulating and implementing fiscal policy of the Government with the objectives of ensuring sustainability of public finance, preserving macroeconomic stability and safeguarding the well-being of the people. Formulation of fiscal policy, etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_6__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_6__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_6__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_6__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_6__subsec_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The formulation of fiscal policy shall be based on but not limited to the following general principles:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_6__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "accountability, which means the accountability of the Government in carrying out its responsibilities to manage fiscal policies;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_6__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "responsibility, which means the responsible management of Government resources and management of fiscal risks to maintain fiscal and environmental sustainability;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_6__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "transparency, which means timely publication of financial and non-financial information relating to the management of fiscal policy so as to allow the effective assessment on the conduct of fiscal policy and the state of the public finances; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_6__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "intergenerational equity, which means the management of fiscal policy shall consider the impact on the well-being of the current and future generations."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_6__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_6__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_6__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_6__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "To achieve the fiscal policy objectives in section 5, the Government’s fiscal policy shall be based on the principles of responsible fiscal management as follows:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_6__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ensuring macroeconomic stability;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_6__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "achieving and maintaining a sustainable fiscal balance;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_6__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "achieving and maintaining a prudent debt level; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_6__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ensuring effective fiscal risk management. Gross domestic product"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Gross domestic product shall be the latest available nominal gross domestic product of Malaysia as confirmed by the Minister. Fiscal objectives and quantified values"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_8__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_8__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_8__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_8__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_8__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_8__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_8__subsec_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In accordance with the principles of responsible fiscal management in subsection 6(2), the Government shall pursue its fiscal objectives as follows:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_8__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to ensure a minimum annual development expenditure incurred as a percentage of gross domestic product in generating economic growth;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_8__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to achieve a sustainable fiscal balance as a percentage of gross domestic product in the medium term;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_8__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to achieve a prudent debt level as a percentage of gross domestic product in the medium term; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_8__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to limit the exposure to fiscal risk in relation to any financial guarantees as a percentage of gross domestic product."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The fiscal objectives shall be measured by the quantified values specified in the First Schedule."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_8__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The quantified values shall consist of at least one numerical target to be achieved over the medium term."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_8__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The key components of fiscal policy in achieving the fiscal objectives shall be as provided under Part III of this Act. Medium Term Fiscal Framework"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_9__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall formulate a Medium Term Fiscal Framework to guide fiscal planning, strategies and priorities in the medium term."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Medium Term Fiscal Framework shall be a three to five years projection of the Government’s fiscal position together with underlying assumptions of economic indicators forecast by the Government."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Medium Term Fiscal Framework shall be supported by a revenue strategy and a public expenditure policy."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_27"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "FISCAL ADJUSTMENT PLAN Temporary deviation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_26__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_26__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_26__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_26__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_26__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_26__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_26__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Government may deviate temporarily from the fiscal objectives referred to in section 8 upon the occurrence of a sudden and unpredictable event that may pose significant risks to human life, economy and fiscal position."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_26__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Prior to any deviation referred to in subsection (1), the Minister shall carry out an assessment to determine whether such event will cause a significant economic downturn, health crisis or affect the fiscal position of the Government."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_26__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall table such assessment referred to in subsection (2) to the Cabinet for approval."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_26__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the Cabinet is satisfied that such event will cause a significant economic downturn, health crisis or affect fiscal position of the Government, the Minister shall prepare and table a fiscal adjustment plan to the Cabinet for approval."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_26__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_26__subsec_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_26__subsec_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_26__subsec_5__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_26__subsec_5__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The fiscal adjustment plan shall consist of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_26__subsec_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_26__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the reasons for the deviation from the fiscal objectives and its quantified values;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_26__subsec_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_26__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the measures to be taken to return to the fiscal objectives and its quantified values;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_26__subsec_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_26__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the expected period of time to be taken to return to the fiscal objectives and its quantified values; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_26__subsec_5__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_26__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "other relevant information relating to the fiscal adjustment plan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_26__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall lay the fiscal adjustment plan at the next meeting of the House of Representatives after the approval given by the Cabinet in subsection (4). Non-achievement of fiscal objectives and quantified values"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_27__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_27__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_27__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_27__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_27__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the fiscal objectives and the quantified values as specified in the First Schedule is not achieved, the Minister shall lay a fiscal adjustment plan to be approved by resolution of the House of Representatives."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_27__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_27__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_27__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_27__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_27__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The fiscal adjustment plan shall consist of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_27__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "reasons for not achieving the fiscal objectives and the quantified values;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_27__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "measures to be taken by the Government to achieve the fiscal objectives and the quantified values;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_27__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the expected period of time to be taken by the Government to achieve the fiscal objectives and the quantified values; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_27__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "other relevant information relating to the fiscal adjustment plan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_27__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the fiscal adjustment plan is not approved, the House of Representatives may pass a resolution to require the Minister to improve the fiscal adjustment plan to be laid in the House of Representatives as soon as practicable."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_27__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall update the progress of the measures stated in paragraph (2)(b) in the following annual fiscal outlook report."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Public Finance and Fiscal Responsibility Act 2023."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette, and the Minister may appoint different dates for the coming into operation of different parts or provisions of this Act. Application"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall apply to the Government and Government entities. Act to be read together with relevant written laws"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_I__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall be read together with the relevant written laws and the provisions of this Act shall be in addition to, and not in derogation of, the provisions of the relevant written laws. Interpretation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_I__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_I__cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_I__cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_I__cl_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "“borrowing” means loans raised or moneys received under the Acts as specified in the Second Schedule; “Committee” means the Fiscal Policy Committee established under section 28; “debt” means all accumulated borrowings made by the Government; “debt service charges” means any interest or profit rate and other expenses incurred in connection with the borrowing for which the Government is liable and is charged to the Federal Consolidated Fund; “development expenditure” means moneys applied for the purposes specified in the First Schedule of the Development Funds Act 1966 [Act 406]; “economic indicator” means an indicator used in preparing a forecasted fiscal position, including but not limited to gross domestic product, commodity prices and foreign currency exchange rate; “financial guarantee” means any guarantee given under subsection 14(1) of the Financial Procedure Act 1957 [Act 61], section 2 of the Loan Guarantee Act 1972 [Act 66], subsection 2(1) of the Loans Guarantee (Bodies Corporate) Act 1965 [Act 96] and section 2 of the Loan Guarantee Act 1963 [Act 412]; “financial year” means a period of twelve months ending on the 31st day of December in any year; “fiscal balance” means the difference between total revenue and total expenditure; “fiscal objectives” means the objectives set by the Government under section 8; “fiscal position” means the financial position of the Government consisting of revenue, expenditure, loan recovery and fiscal balance; “fiscal risk” means transactions or circumstances referred to in subsection 20(2); “Government entities” means—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_I__cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_I__cl_4__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_I__cl_4__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_I__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any company incorporated under the Companies Act 2016 [Act 777] where—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_I__cl_4__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_I__cl_4__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of a company limited by shares, the Minister of Finance incorporated under the Minister of Finance (Incorporation) Act 1957 [Act 375] is a shareholder having more than fifty per cent of the shares of the company; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_I__cl_4__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_I__cl_4__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of a company limited by guarantee, the Minister of Finance incorporated under the Minister of Finance (Incorporation) Act 1957 is a member of the company;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_I__cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_I__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any body corporate incorporated under the Trustees (Incorporation) Act 1952 [Act 258] by the Government; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_I__cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_I__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any statutory body established under an Act of Parliament and is a public authority or an agency of the Government but does not include local authority; “gross domestic product” has the meaning assigned to it under section 7; “long term” means a period beyond five years; “Minister” means the Minister charged with the responsibility for finance; “medium term” means a period between three to five years; “Medium Term Fiscal Framework” means the framework formulated by the Minister under section 9; “operating expenditure” means expenditures referred to in Articles 98, 100, 101, 102 and 103 of the Federal Constitution; “other liabilities” means other financial liabilities arising from realisation of financial guarantee or any other obligation that requires allocation from the Federal Consolidated Fund; “public-private partnership” means a form of cooperation between the Government and private sector whereby a stand-alone business is created, funded and managed by the private sector on behalf of the Government that encompasses construction, management, maintenance and repair works, and replacement of public amenities such as buildings, infrastructures, equipment and facilities; “quantified values” means the numerical target for fiscal objectives; “revenue” means moneys received by the Government and paid into the Federal Consolidated Fund in accordance with Clause (1) of Article 97 of the Federal Constitution and accounted in the Consolidated Revenue Account under paragraph 7(a) of the Financial Procedure Act 1957; “the Government” means the Federal Government."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_31"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "FISCAL POLICY COMMITTEE Establishment of Committee"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_38"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "REPORTING Division 1 Annual budget documents Economic outlook report"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_32__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_32__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_32__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall, in respect of every financial year, lay before the House of Representatives the economic outlook report together with the statement of the estimated receipts and expenditure for that year."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_32__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_32__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_32__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_32__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_32__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The economic outlook report shall contain information on the current economic performance and economic forecast consistent with the fiscal objectives and shall include the macroeconomic forecasts for that financial year, setting out actual, estimated and projected values of the economic indicators, consisting of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_32__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_32__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "gross domestic product and its components;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_32__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_32__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "inflation;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_32__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_32__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "labour market; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_32__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_32__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "other relevant economic indicators. Fiscal outlook report"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_33__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_33__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_33__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_33__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall, in respect of every financial year, lay before the House of Representatives the fiscal outlook report together with the statement of the estimated receipts and expenditure for that year."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_33__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_33__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_33__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_33__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_33__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_33__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_33__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_33__subsec_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_33__subsec_2__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The fiscal outlook report shall contain the following information:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_33__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_33__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "total revenue;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_33__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_33__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "total expenditure;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_33__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_33__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the fiscal balance;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_33__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_33__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the level of total debt and other liabilities;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_33__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_33__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the consolidated public sector fiscal position;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_33__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_33__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Medium Term Fiscal Framework;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_33__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_33__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any fiscal adjustment plan referred to under Part IV where applicable; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_33__subsec_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_33__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "other relevant fiscal indicators."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_33__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The fiscal outlook report shall contain the performance and strategy of the Government to achieve the fiscal objectives for each financial year and for the Medium Term Fiscal Framework period. Revenue estimates"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall, in respect of the statement of estimated receipt under Clause (1) of Article 99 of the Federal Constitution, provide information on the actual revenue collection for the preceding financial year, revised revenue estimates for the current financial year, revenue estimates for the following financial year and information on tax and non-tax revenue items. Expenditure estimates"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_35__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_35__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_35__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall, in respect of the statement of estimated expenditure under Clause (1) of Article 99 of the Federal Constitution, provide information on the expenditure estimates of the Government."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_35__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_35__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_35__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_35__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_35__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The expenditure estimates shall contain the following information:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_35__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_35__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "programmes and activities for operating expenditure;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_35__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_35__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "programmes and projects for development expenditure;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_35__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_35__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "programmes performance; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_35__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_35__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "other relevant information relating to expenditure estimates. Division 2 Mid-year expenditure performance report, fiscal risk statement and tax expenditure statement Mid-year expenditure performance report"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_36__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_36__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_36__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_36__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall cause to be published a mid-year expenditure performance report not later than 30 September in respect of each financial year."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_36__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_36__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_36__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_36__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_36__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_36__subsec_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The mid-year expenditure performance report shall contain the following information:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_36__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_36__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "actual expenditure against expenditure estimates;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_36__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_36__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "supplementary expenditure and excess expenditure under Article 101 of the Federal Constitution;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_36__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_36__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the use of the Contingencies Fund under Article 103 of the Federal Constitution and Contingencies Reserve under section 6 of the Development Funds Act 1966;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_36__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_36__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "progress on the implementation of budget initiatives or measures of the Government in respect of that financial year; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_36__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_36__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "other relevant information relating to mid-year expenditure performance report."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_36__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The mid-year expenditure performance report shall be used for the purpose of assessing the expenditure performance of the Government against the expenditure estimates for that financial year as set out in the expenditure estimates under section 35 of this Act. Fiscal risk statement"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_37__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_37__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_37__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_37__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall cause to be published an annual fiscal risk statement."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_37__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_37__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_37__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_37__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_37__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_37__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_37__subsec_2__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The fiscal risk statement shall contain the following information:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_37__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_37__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "macroeconomic risks;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_37__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_37__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "level of financial guarantees;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_37__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_37__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "exposure to other liabilities;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_37__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_37__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "disclosure stated under section 22 of this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_37__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_37__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "mitigation plan referred to in section 24 of this Act; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_37__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_37__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "other relevant information relating to fiscal risk."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_37__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The fiscal risk statement shall be used for the purpose of assessing the exposure to fiscal risk to the Government. Tax expenditure statement"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_38__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_38__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_38__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_38__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall cause to be published an annual tax expenditure statement."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_38__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_38__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_38__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_38__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_38__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The tax expenditure statement shall contain the following information:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_38__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_38__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "actual tax expenditure and estimated tax expenditure;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_38__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_38__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "actual tax expenditures against the estimated tax expenditure;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_38__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_38__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any changes in tax policies and tax legislation; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_38__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_38__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "other relevant information relating to tax expenditure."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_38__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_VI__cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The tax expenditure statement shall be used for the purpose of assessing revenue foregone arising from changes in the tax policy of the Government, including but not limited to exemption, remission, allowance, preferential tax rate, deferral or offset, that reduces tax obligation to achieve its intended objective."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "There shall be a committee called the “Fiscal Policy Committee” which may make recommendations to the Cabinet in respect of matters relating to the fiscal policy of the Government. Members of Committee"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29__subsec_1__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29__subsec_1__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29__subsec_1__para_i"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Committee shall consist of the following members:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Prime Minister as Chairman;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Deputy Prime Minister;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Minister charged with the responsibility for finance;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Minister charged with the responsibility for economy;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chief Secretary to the Government;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Secretary General of Treasury;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Secretary General of the Ministry of Economy;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29__subsec_1__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Governor of Central Bank of Malaysia; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29__subsec_1__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "not more than two other persons who shall be appointed by the Committee who shall be from among persons of standing and experience in fiscal or public finance."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The head of division in charge of fiscal policy affairs in the Treasury shall be the secretary to the Committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chairman may invite any person to attend the meeting of the Committee for the purpose of obtaining views on any matter under discussion."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Committee may determine its own procedure. Duties and responsibilities of Committee"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_30__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_30__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_30__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Committee shall have duties and responsibilities to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_30__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "oversee the fiscal matters, debt and liabilities, and fiscal risks;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_30__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "deliberate and propose policies to the Government towards achieving the fiscal objectives as specified in section 8 of this Act; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_30__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "fulfil its fiduciary duty to ensure the conduct of fiscal policy is consistent with the principles of responsible fiscal management as specified in subsection 6(2) of this Act. Subcommittee"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_31__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_31__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_31__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_31__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_31__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_31__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Committee may establish a subcommittee to assess the fiscal risk, debt and other liabilities exposure to the Government."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_31__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This subcommittee shall report and make recommendations to the Committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_31__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Committee shall determine the membership of this subcommittee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_31__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The subcommittee may determine its own procedure."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_31__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~part_V__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The subcommittee shall be subject to, and act in accordance with any directions given to the subcommittee by the Committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Subsection 8(2)] Fiscal Objectives and Quantified Values Fiscal Objectives Annual development expenditure incurred as a percentage of gross domestic product Fiscal balance as a percentage of gross domestic product Debt level as a percentage of gross domestic product Financial guarantee as a percentage of gross domestic product"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~sched_2",
+      "@type": "akn:schedule",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~sched_2__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~sched_2__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~sched_2__para_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~sched_2__para_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~sched_2__para_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Sections 4 and 17] Borrowing and Debt Legislations"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~sched_2__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~sched_2",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Treasury Bills (Local) Act 1946 [Act 188]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~sched_2__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~sched_2",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Loan (Local) Act 1959"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~sched_2__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~sched_2",
+      "schema:name": {
+        "@language": "en",
+        "@value": "External Loans Act 1963 [Act 403]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~sched_2__para_4",
+      "@type": "akn:paragraph",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~sched_2",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Loans (Islamic Development Bank) Act 1977 [Act 187]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~sched_2__para_5",
+      "@type": "akn:paragraph",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/eng@/~sched_2",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Government Funding Act 1983 [Act 275]"
+      }
+    }
+  ]
+}

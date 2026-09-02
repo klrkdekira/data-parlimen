@@ -86,9 +86,23 @@ Pindaan kepada subseksyen 33A(2) adalah pindaan penggubalan untuk melaksanakan k
 
 (4) The Official Assignee shall, upon the application of any interested person, issue a copy of the certificate of discharge to the applicant upon payment of the prescribed fee.
 
-Objection by
+<!-- marginal: Objection by -->
 
-33B. (1) Before issuing a certificate of discharge creditor to under section 33A, the Official Assignee shall discharge of bankrupt serve on each creditor who has filed a proof of under section debt a notice of his intention to issue the
+33B. (1) Before issuing a certificate of discharge
+
+<!-- marginal: creditor to -->
+
+under section 33A, the Official Assignee shall
+
+<!-- marginal: discharge of -->
+
+<!-- marginal: bankrupt -->
+
+serve on each creditor who has filed a proof of
+
+<!-- marginal: under section -->
+
+debt a notice of his intention to issue the
 
 33A. certificate, together with a statement of his reasons for wanting to do so.
 
@@ -116,7 +130,13 @@ Objection by
 
 35 dengan seksyen yang berikut:
 
-"Effect of 35. (1) Subject to this section and any condition discharge. imposed by the court under section 33, where a bankrupt is discharged, the discharge shall release him from all his debts provable in the bankruptcy but shall have no effect—
+<!-- marginal: "Effect of -->
+
+35. (1) Subject to this section and any condition
+
+<!-- marginal: discharge. -->
+
+imposed by the court under section 33, where a bankrupt is discharged, the discharge shall release him from all his debts provable in the bankruptcy but shall have no effect—
 
 (a) on the functions (so far as they remain to be carried out) of the Official Assignee; or
 
@@ -128,17 +148,15 @@ Objection by
 
 (a) any debt, due to the Government of Malaysia or of any State; or
 
-(b) any debt with which the bankrupt may be chargeable at the suit of— (i) the Government of Malaysia or of any State or any other person for any offence under any written law relating to any branch of the public revenue; or (ii) any other public officer on a bail bond entered into for
-
-<!-- marginal: the -->
-
-appearance of any person prosecuted for any such offence; or
+(b) any debt with which the bankrupt may be chargeable at the suit of— (i) the Government of Malaysia or of any State or any other person for any offence under any written law relating to any branch of the public revenue; or (ii) any other public officer on a bail bond entered into for the appearance of any person prosecuted for any such offence; or
 
 (c) any provable debt which he incurred in respect of, or forbearance in respect of which was secured by means of, any fraud or fraudulent breach of trust to which he was party; or
 
 (d) any liability in respect of a fine imposed for an offence.
 
-(3) A bankrupt may be discharged from any of the debts excepted under subsection (2) by a certificate in writing of the Minister of Finance in the case of a debt due to the Government of Malaysia or the Menteri Besar or Chief Minister of any State in the case of a debt due to the State or of the Attorney General in the case of such bail bond as is referred to in subsection (2).
+(3) A bankrupt may be discharged from any of the debts excepted under subsection (2) by a certificate in writing of the Minister of Finance in the case of a debt due to the Government of Malaysia or the Menteri Besar or Chief Minister of any State in the case of a debt due to the State or of the Attorney General in the case of such bail bond as is referred to in subsection
+
+(2).
 
 (4) An order of discharge or a certificate of discharge shall be conclusive evidence of the bankruptcy and of the validity of the proceedings therein, and in any proceedings that are instituted against a bankrupt who has obtained an order of discharge or a certificate of discharge in
 
@@ -168,21 +186,23 @@ appearance of any person prosecuted for any such offence; or
 
 <!-- marginal: Seksyen baru -->
 
-### 5. Akta ibu adalah dipinda dengan memasukkan selepas
+5. Akta ibu adalah dipinda dengan memasukkan selepas
 
 <!-- marginal: 35A. -->
 
 ### seksyen 35 seksyen yang berikut;
 
-Discharged
+<!-- marginal: Discharged -->
 
-### 35A. A discharged bankrupt shall, not-
+35A. A discharged bankrupt shall, not-
 
-bankrupt
+<!-- marginal: bankrupt -->
 
 ### withstanding his discharge, give such assistance
 
-to give assistance.
+<!-- marginal: to give -->
+
+<!-- marginal: assistance. -->
 
 ### as the Official Assignee requires in the realization
 
@@ -216,21 +236,25 @@ to give assistance.
 
 <!-- marginal: Pindaan -->
 
-### 6. Akta ibu adalah dipinda dengan menggantikan seksyen
+6. Akta ibu adalah dipinda dengan menggantikan seksyen
 
 <!-- marginal: seksyen 39. -->
 
 ### 39 dengan seksyen yang berikut:
 
-List of
+<!-- marginal: List of -->
 
-### 39. (1) The Official Assignee shall keep and
+39. (1) The Official Assignee shall keep and
 
-undis-
+<!-- marginal: undis- -->
 
 ### maintain a list of undischarged bankrupts.
 
-charged bankrupts to be kept.
+<!-- marginal: charged -->
+
+<!-- marginal: bankrupts -->
+
+<!-- marginal: to be kept. -->
 
 <!-- page 7 -->
 
@@ -268,9 +292,7 @@ bantuan kepada Pegawai Pemegang Harta dalam menghasilkan dan membahagikan hartan
 
 IMPLIKASl KEWANGAN
 
-Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
-
-<!-- marginal: [PN. (U2) 2014.] -->
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN. (U2) 2014.]
 
 <!-- page 9 -->
 

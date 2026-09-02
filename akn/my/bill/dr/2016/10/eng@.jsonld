@@ -322,7 +322,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/eng@/~cl_4",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (4)— ‘ “Municipal Council” means a Municipal Council for a local authority area that has been declared and determined in accordance with paragraph 3(d) of the Local Government Act 1976, paragraph 6(1)(cc) of the Local Government Ordinance 1961 and paragraph 3(1)(e) of the Local Authorities Ordinance 1996.’. Substitution of section 4"
+        "@value": "in subsection (4)—"
       }
     },
     {
@@ -342,7 +342,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/eng@/~cl_4__para_c",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after the definition of “Mayor of a City Council” the following definition:"
+        "@value": "by inserting after the definition of “Mayor of a City Council” the following definition: ‘ “Municipal Council” means a Municipal Council for a local authority area that has been declared and determined in accordance with paragraph 3(d) of the Local Government Act 1976, paragraph 6(1)(cc) of the Local Government Ordinance 1961 and paragraph 3(1)(e) of the Local Authorities Ordinance 1996.’. Substitution of section 4"
       }
     },
     {

@@ -207,7 +207,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/9/eng@/~cl_18",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (2)— “(ca) the disclosure is made with the consent of the person from whom the information or document was obtained; (cb) the disclosure is made in circumstances where the information provided is framed in such a manner that the source of the information could not be ascertained; (cc) the information is already in the public domain;”;"
+        "@value": "in subsection (2)—"
       }
     },
     {
@@ -257,7 +257,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/9/eng@/~cl_18__para_b",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after paragraph (c) the following paragraphs:"
+        "@value": "by inserting after paragraph (c) the following paragraphs: “(ca) the disclosure is made with the consent of the person from whom the information or document was obtained; (cb) the disclosure is made in circumstances where the information provided is framed in such a manner that the source of the information could not be ascertained; (cc) the information is already in the public domain;”;"
       }
     },
     {

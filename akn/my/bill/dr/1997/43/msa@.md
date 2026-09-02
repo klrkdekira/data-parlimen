@@ -60,19 +60,105 @@ B. 1 Parlhnen 36,723,100 B. 2 Pejabat Penyimpan Mohor Besar 1,075,600 Raja-Raja 
 
 <!-- page 3 -->
 
-### Maksud
+<!-- marginal: Maksud -->
 
 ### Tajuk
 
 ### Amaun
 
-<!-- marginal: (RM) -->
+(RM)
 
-B.24 Jabatan Muzium dan Antikuiti 6,206,800 B.25 Kementerian Pertahanan 3,736,892,000 B.26 Kementerian Pendidikan 9,883,828,200 B.27 Jabatan Perpustakaan Negara 28,619,400 B.28 Perbendaharaan 411,303,600 B.29 Perkhidmatan Am Perbendaharaan 640,654,600 B.30 Peruntukan kepada Kumpulan 3,776,453,110 Wang Terkanun B.31 Jabatan Kastam dan Eksais Diraja 284,546.900 B.32 Jabatan Hasil Dalam Negeri
+<!-- marginal: B.24 -->
 
-<!-- marginal: 10 -->
+Jabatan Muzium dan Antikuiti 6,206,800
 
-B.33 Jabatan Penilaian dan 37,038,800 Perkhidmatan Harta B.34 Kementerian Kesihatan 3,494,774,000 B.35 Kementerian Dalam Negeri 154,924,100 B.36 Polls Diraja Malaysia 1,826,369,100 B.37 Jabatan Imigresen 168,063,300 B.38 Jabatan Pendaftaran Pertubuhan 6,702,800 B.39 Jabatan Pendaftaran Negara 74,555,400 B.40 Jabatan Penjara 162,002,900 B.41 Jabatan Pertahanan Awam 8,008,900 B.42 Kementerian Perpaduan Negara 234,563,000 dan Pembangunan Masyarakat B.43 Kementerian Tanah dan 280,038,900 Pembangunan Koperasi B. 44 Kementerian Penerangan 335,065,200 B.45 Kementerian Sumber Manusia 101,496,100 B.46 Kementerian Sains, Teknologi 219,338,800 dan Alam Sekitar B. 47 Kementerian Pengangkutan 376,620,700 B. 48 Kementerian Pembangunan 322,454,400 Luar Bandar B.49 Kementerian Tenaga, Telekom 67,459,200 dan Pos
+<!-- marginal: B.25 -->
+
+Kementerian Pertahanan 3,736,892,000
+
+<!-- marginal: B.26 -->
+
+Kementerian Pendidikan 9,883,828,200
+
+<!-- marginal: B.27 -->
+
+Jabatan Perpustakaan Negara 28,619,400
+
+<!-- marginal: B.28 -->
+
+Perbendaharaan 411,303,600
+
+<!-- marginal: B.29 -->
+
+Perkhidmatan Am Perbendaharaan 640,654,600
+
+<!-- marginal: B.30 -->
+
+Peruntukan kepada Kumpulan 3,776,453,110 Wang Terkanun
+
+<!-- marginal: B.31 -->
+
+Jabatan Kastam dan Eksais Diraja 284,546.900
+
+<!-- marginal: B.32 -->
+
+Jabatan Hasil Dalam Negeri 10
+
+<!-- marginal: B.33 -->
+
+Jabatan Penilaian dan 37,038,800 Perkhidmatan Harta
+
+<!-- marginal: B.34 -->
+
+Kementerian Kesihatan 3,494,774,000
+
+<!-- marginal: B.35 -->
+
+Kementerian Dalam Negeri 154,924,100
+
+<!-- marginal: B.36 -->
+
+Polls Diraja Malaysia 1,826,369,100
+
+<!-- marginal: B.37 -->
+
+Jabatan Imigresen 168,063,300
+
+<!-- marginal: B.38 -->
+
+Jabatan Pendaftaran Pertubuhan 6,702,800
+
+<!-- marginal: B.39 -->
+
+Jabatan Pendaftaran Negara 74,555,400
+
+<!-- marginal: B.40 -->
+
+Jabatan Penjara 162,002,900
+
+<!-- marginal: B.41 -->
+
+Jabatan Pertahanan Awam 8,008,900 B.42 Kementerian Perpaduan Negara 234,563,000 dan Pembangunan Masyarakat
+
+<!-- marginal: B.43 -->
+
+Kementerian Tanah dan 280,038,900 Pembangunan Koperasi B. 44 Kementerian Penerangan 335,065,200
+
+<!-- marginal: B.45 -->
+
+Kementerian Sumber Manusia 101,496,100
+
+<!-- marginal: B.46 -->
+
+Kementerian Sains, Teknologi 219,338,800 dan Alam Sekitar
+
+<!-- marginal: B. 47 -->
+
+Kementerian Pengangkutan 376,620,700
+
+<!-- marginal: B. 48 -->
+
+Kementerian Pembangunan 322,454,400 Luar Bandar B.49 Kementerian Tenaga, Telekom 67,459,200 dan Pos
 
 <!-- page 4 -->
 
@@ -80,9 +166,11 @@ B.33 Jabatan Penilaian dan 37,038,800 Perkhidmatan Harta B.34 Kementerian Kesiha
 
 ### Tajuk
 
-### Amaun
+<!-- marginal: Amaun -->
 
-(RM) B.50 Kementerian Pembangunan 921,993,000 Usahawan B.51 Kementerian Luar Negeri 249,130,100 B.52 Kementerian Kerja Raya 980,480,480
+<!-- marginal: (RM) -->
+
+B.50 Kementerian Pembangunan 921,993,000 Usahawan B.51 Kementerian Luar Negeri 249,130,100 B.52 Kementerian Kerja Raya 980,480,480
 
 ## JUMLAH
 

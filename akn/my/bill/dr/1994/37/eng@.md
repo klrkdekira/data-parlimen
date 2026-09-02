@@ -68,7 +68,123 @@ B. 7 Prime Minister's Department
 
 <!-- page 2 -->
 
-Purpose Title -Amount RM B. Public Service Department 422.786.900 B. 9 Statistics Department 53.56:3.200 B. 10 Attorney General's Chambers 20.333.800 B. 11 Ann-Corruption Agency 29.934.500 B. 12 Office of the Federal Secretary, Sabah 714.900 B. 13 Office of the Federal Secretary. Sarawak 653.000 B. 14 Ministry of Housing and Local 73.478.300 Government B 15 Town and Country Planning Department 14.192.100 B. 16 Fire Service-. Department 110.224.800 B. 17 Ministy. of Youth and Sports 71.720.200 ^ 18 Ministry of Primary Industries 135.066.100 .. 19 Ministr ofAgnculture 876.361.900 B. 20 Ministry of International Trade and 144.999.200 industry B. 2 1 Ministry ot' Domestic Trade and 8 1.3 1 2.700 Consumer Affairs B. 22 Ministry of Culture. Arts and Tourism 151.358.200 B. 23 Department of the National Archives 12.178.400 B, 24 Museum and Antiquity Department 5,574.200 B. 25 Ministry of Defence 3.417,997.500 B. 26 Ministry of Education 7.900,567.000 B. 27 Department of National Library 29,323.700 B. 28 Treasury 214.455.600 B. 29 Treasury General Services 506.891.500 B. 30 Contribution to Statutory Funds 1.146.500.000 B. 31 Royal Customs and Excise Department 215.002.000 B. 32 Inland Revenue Department 165,000.000 B. 33 Valuation and Property Services 34,921.200 Department B. 34 Ministry of Health 2.165.265.000 B. 35 Ministry of Home Affairs 110,966.500 B. 36 Royal Malaysia Police 1,499,940.400 B. 37 Immigration Department 89.676,400 B. 38 Registration of Societies Department 6.085.200 B. 39 National Registration Department 66,205,800 B. 40 Prisons Department 143,159.900 B. 41 Civil Defence Department 5,322.500
+Purpose Title
+
+<!-- marginal: -Amount -->
+
+<!-- marginal: RM -->
+
+B. Public Service Department 422.786.900 B. 9 Statistics Department
+
+<!-- marginal: 53.56:3.200 -->
+
+B. 10 Attorney General's Chambers
+
+<!-- marginal: 20.333.800 -->
+
+B. 11 Ann-Corruption Agency
+
+<!-- marginal: 29.934.500 -->
+
+B. 12 Office of the Federal Secretary, Sabah
+
+<!-- marginal: 714.900 -->
+
+B. 13 Office of the Federal Secretary. Sarawak
+
+<!-- marginal: 653.000 -->
+
+B. 14 Ministry of Housing and Local
+
+<!-- marginal: 73.478.300 -->
+
+Government B 15 Town and Country Planning Department
+
+<!-- marginal: 14.192.100 -->
+
+B. 16 Fire Service-. Department
+
+<!-- marginal: 110.224.800 -->
+
+B. 17 Ministy. of Youth and Sports
+
+<!-- marginal: 71.720.200 -->
+
+^ 18 Ministry of Primary Industries
+
+<!-- marginal: 135.066.100 -->
+
+.. 19 Ministr ofAgnculture
+
+<!-- marginal: 876.361.900 -->
+
+B. 20 Ministry of International Trade and
+
+<!-- marginal: 144.999.200 -->
+
+industry B. 2 1 Ministry ot' Domestic Trade and
+
+<!-- marginal: 8 1.3 1 2.700 -->
+
+Consumer Affairs B. 22 Ministry of Culture. Arts and Tourism
+
+<!-- marginal: 151.358.200 -->
+
+B. 23 Department of the National Archives
+
+<!-- marginal: 12.178.400 -->
+
+B, 24 Museum and Antiquity Department
+
+<!-- marginal: 5,574.200 -->
+
+B. 25 Ministry of Defence 3.417,997.500 B. 26 Ministry of Education 7.900,567.000 B. 27 Department of National Library
+
+<!-- marginal: 29,323.700 -->
+
+B. 28 Treasury
+
+<!-- marginal: 214.455.600 -->
+
+B. 29 Treasury General Services
+
+<!-- marginal: 506.891.500 -->
+
+B. 30 Contribution to Statutory Funds 1.146.500.000 B. 31 Royal Customs and Excise Department
+
+<!-- marginal: 215.002.000 -->
+
+B. 32 Inland Revenue Department
+
+<!-- marginal: 165,000.000 -->
+
+B. 33 Valuation and Property Services
+
+<!-- marginal: 34,921.200 -->
+
+Department B. 34 Ministry of Health 2.165.265.000 B. 35 Ministry of Home Affairs
+
+<!-- marginal: 110,966.500 -->
+
+B. 36 Royal Malaysia Police 1,499,940.400 B. 37 Immigration Department
+
+<!-- marginal: 89.676,400 -->
+
+B. 38 Registration of Societies Department
+
+<!-- marginal: 6.085.200 -->
+
+B. 39 National Registration Department
+
+<!-- marginal: 66,205,800 -->
+
+B. 40 Prisons Department
+
+<!-- marginal: 143,159.900 -->
+
+B. 41 Civil Defence Department
+
+<!-- marginal: 5,322.500 -->
 
 <!-- page 3 -->
 

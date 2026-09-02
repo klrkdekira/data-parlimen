@@ -54,7 +54,11 @@ subseksyen (2) dengan perkataan-perkataan "not more than three Deputy Gewernors"
 
 (d) dengan memasukkan, selepas perkataan- perkataan "Governor or" dalam subseksyen (5), perkataan "any".
 
-Pindaan 4. Seksyen 9 Ordinan adalah dipinda— seksyen 9.
+<!-- marginal: Pindaan -->
+
+4. Seksyen 9 Ordinan adalah dipinda—
+
+<!-- marginal: seksyen 9. -->
 
 (a) dengan menggantikan subseksyen (1) dengan yang berikut:
 
@@ -62,7 +66,11 @@ Pindaan 4. Seksyen 9 Ordinan adalah dipinda— seksyen 9.
 
 (b) dengan menggantikan perkataan "Governor" yang terdapat selepas perkataan "Deputy" dalam subseksyen (2), (3), (4) dan (5) dengan perkataan "Governors".
 
-Pindaan 5. Seksyen 11 Ordinan adalah dipinda— seksyen 11.
+<!-- marginal: Pindaan -->
+
+5. Seksyen 11 Ordinan adalah dipinda—
+
+<!-- marginal: seksyen 11. -->
 
 (a) dengan memotong perkataan-perkataan ", Deputy Governor," dalam subseksyen (2); dan
 
@@ -70,7 +78,11 @@ Pindaan 5. Seksyen 11 Ordinan adalah dipinda— seksyen 11.
 
 "(3) The Minister may terminate the appointment of any Deputy Governor on the grounds specified in subsection (2).".
 
-Pindaan 6. Seksyen 12 Ordinan adalah dipinda— seksyen 12.
+<!-- marginal: Pindaan -->
+
+6. Seksyen 12 Ordinan adalah dipinda—
+
+<!-- marginal: seksyen 12. -->
 
 (a) dengan menggantikan perkataan "the" yang terdapat sebelum perkataan-perkataan "Deputy Governor" dengan perkataan "any"; dan
 

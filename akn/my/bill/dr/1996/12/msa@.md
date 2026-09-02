@@ -14,9 +14,7 @@
 
 ## PERMULAAN
 
-1. Tajuk ringkas dan mula berkuatkuasa.
-
-2. Tafsiran.
+1. Tajuk ringkas dan mula berkuatkuasa. 2. Tafsiran.
 
 ## BAHAGIAN
 
@@ -24,19 +22,7 @@ II
 
 ## LEMBAGA
 
-3. Penubuhan Lembaga.
-
-4. Fungsi Lembaga.
-
-5. Keanggotaan Lembaga.
-
-6. Timbalan Pengerusi.
-
-7. Saraan dan elaun.
-
-8. Jawatankuasa.
-
-9. Peruntukan berhubungan dengan Pengerusi, anggota Lembaga dan Jawatankuasa.
+3. Penubuhan Lembaga. 4. Fungsi Lembaga. 5. Keanggotaan Lembaga. 6. Timbalan Pengerusi. 7. Saraan dan elaun. 8. Jawatankuasa. 9. Peruntukan berhubungan dengan Pengerusi, anggota Lembaga dan Jawatankuasa.
 
 10. Perwakilan fungsi Lembaga.
 
@@ -52,19 +38,7 @@ III
 
 ## KETUA EKSEKUTIF, PEGAWAI, PENGKHIDMAT
 
-13. Pengerusi sebagai ketua eksekutif.
-
-14. Setiausaha.
-
-15. Perlantikan pegawai dan pengkhidmat Lembaga.
-
-16. Peraturan-peraturan mengenai syarat perkhidmatan.
-
-17. Kuasa untuk memberikan pinjaman dan wang pendahuluan kepada pegawai dan pengkhidmat.
-
-18. Bayaran faedah persaraan, gratuiti dan elaun lain.
-
-19. Kelulusan Perbendaharaan, Jabatan Perkhidmatan Awam, dll. hendaklah diperolehi terlebih dahulu.
+13. Pengerusi sebagai ketua eksekutif. 14. Setiausaha. 15. Perlantikan pegawai dan pengkhidmat Lembaga. 16. Peraturan-peraturan mengenai syarat perkhidmatan. 17. Kuasa untuk memberikan pinjaman dan wang pendahuluan kepada pegawai dan pengkhidmat. 18. Bayaran faedah persaraan, gratuiti dan elaun lain. 19. Kelulusan Perbendaharaan, Jabatan Perkhidmatan Awam, dll. hendaklah diperolehi terlebih dahulu.
 
 20. Tatatertib pegawai dan pengkhidmat.
 
@@ -136,37 +110,15 @@ IV
 
 46. Anggapan.
 
-47. Tanggungan pengarah syarikat, dll. bagi kesalahan yang dilakukan oleh institusi pendidikan tinggi swasta yang ditubuhkan olehnya, dsb.
+47. Tanggungan pengarah syarikat, dll. bagi kesalahan yang dilakukan oleh institusi pendidikan tinggi swasta yang ditubuhkan olehnya, dsb. 48. Tafsiran pegawai penyiasat,
 
-48. Tafsiran pegawai penyiasat,
-
-49. Kuasa pegawai penyiasat.
-
-50. Kuasa untuk menggeledah dan menyita.
-
-51. Menggeledah dan menyita tanpa waran.
-
-52. Kuasa untuk memanggil bagi tujuan pemeriksaan.
-
-53. Kuasa untuk mengkompaun.
-
-54. Memulakan dan menjalankan pendakwaan.
-
-55. Tiada hak ke atas kos prosiding, kerugian atau relief lain, dsb.
+49. Kuasa pegawai penyiasat. 50. Kuasa untuk menggeledah dan menyita. 51. Menggeledah dan menyita tanpa waran. 52. Kuasa untuk memanggil bagi tujuan pemeriksaan. 53. Kuasa untuk mengkompaun. 54. Memulakan dan menjalankan pendakwaan. 55. Tiada hak ke atas kos prosiding, kerugian atau relief lain, dsb.
 
 ## BAHAGIAN VII
 
 AM
 
-56. Kuasa untuk membuat peraturan-peraturan.
-
-57. Obligasi menyimpan rahsia.
-
-58. Pengkhidmat awam.
-
-59. Akta Perlindungan Pihak Berkuasa Awam 1948.
-
-60. Perkara yang dilakukan pada menjangkakan bahawa Akta ini akan diperbuat.
+56. Kuasa untuk membuat peraturan-peraturan. 57. Obligasi menyimpan rahsia. 58. Pengkhidmat awam. 59. Akta Perlindungan Pihak Berkuasa Awam 1948. 60. Perkara yang dilakukan pada menjangkakan bahawa Akta ini akan diperbuat.
 
 ## JADUAL
 
@@ -212,7 +164,11 @@ yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta, dan Menteri bole
 
 "ijazah" ertinya kelayakan akademik yang dianugerahkan kepada seseorang di peringkat Sarjana Muda atau Sarjana atau Kedoktoran oleh institusi pendidikan tinggi swasta yang bertaraf Universiti atau Kolej Universiti, sesudah orang itu tamat mengikuti dengan jayanya suatu kursus pengajian yang dirancangkan supaya membawa kepada penganugerahan ijazah itu atau yang setaraf dengannya;
 
-"institusi pendidikan tinggi swasta" ertinya institusi pendidikan tinggi swasta yang ditubuhkan atau disifatkan Akta telah ditubuhkan dan didaftarkan di bawah Akta Institusi Pendidikan Tinggi Swasta 1996;
+"institusi pendidikan tinggi swasta" ertinya institusi pendidikan tinggi swasta yang ditubuhkan atau disifatkan
+
+<!-- marginal: Akta -->
+
+telah ditubuhkan dan didaftarkan di bawah Akta Institusi Pendidikan Tinggi Swasta 1996;
 
 "jawatankuasa" ertinya jawatankuasa yang ditubuhkan di bawah seksyen 8;
 
@@ -274,9 +230,11 @@ memindahmilikkan, atau dengan apa-apa cara lain melupuskan, atau membuat apa-apa
 
 yang terletakhak pada Lembaga.
 
-Fungsi
+<!-- marginal: Fungsi -->
 
-4. (1) Fungsi-fungsi Lembaga adalah— Lembaga.
+4. (1) Fungsi-fungsi Lembaga adalah—
+
+<!-- marginal: Lembaga. -->
 
 (a) untuk merumuskan dasar mengenai kawalan standard dan kualiti—
 
@@ -290,7 +248,11 @@ Fungsi
 
 (ii) sijil, diploma dan ijazah bagi tujuan pengakreditan;
 
-(c) untuk menentukan tahap pencapaian bagi bahasa kebangsaan dan mata pelajaran wajib yang Akta ditetapkan dalam Akta Institusi Pendidikan Tinggi Swasta 1996 sebagai pra-syarat bagi penganugerahan sijil, diploma atau ijazah; dan
+(c) untuk menentukan tahap pencapaian bagi bahasa kebangsaan dan mata pelajaran wajib yang
+
+<!-- marginal: Akta -->
+
+ditetapkan dalam Akta Institusi Pendidikan Tinggi Swasta 1996 sebagai pra-syarat bagi penganugerahan sijil, diploma atau ijazah; dan
 
 (d) untuk menasihatkan dan membuat syor kepada Menteri bagi kelulusannya ke atas kursus pengajian yang hendak dikendalikan oleh sesuatu institusi pendidikan tinggi swasta mengenai—
 
@@ -342,9 +304,13 @@ elaun sebagaimana yang ditetapkan oleh Menteri, selepas berunding dengan Menteri
 
 (2) Tiap-tiap anggota Lembaga hendaklah dibayar elaun mengikut kadar yang ditetapkan oleh Menteri, selepas berunding dengan Menteri Kewangan.
 
-Jawatan-
+<!-- marginal: Jawatan- -->
 
-8. (1) Lembaga boleh menubuhkan jawatankuasa- kuasa. jawatankuasa yang difikirkannya suaimanfaat—
+8. (1) Lembaga boleh menubuhkan jawatankuasa-
+
+<!-- marginal: kuasa. -->
+
+jawatankuasa yang difikirkannya suaimanfaat—
 
 (a) untuk menasihatkannya mengenai perkara- perkara berkaitan dengan fungsi-fungsinya;
 
@@ -416,7 +382,17 @@ apa-apa pengusahaan yang melibatkan institusi pendidikan tinggi swasta.
 
 <!-- page 12 -->
 
-10. (1) Lembaga boleh mewakilkan mana-mana fungsi Perwakilan fungsi dan kuasanya, kecuali kuasanya untuk membuat peraturan- Lembaga. peraturan, kepada—
+10. (1) Lembaga boleh mewakilkan mana-mana fungsi
+
+<!-- marginal: Perwakilan -->
+
+<!-- marginal: fungsi -->
+
+dan kuasanya, kecuali kuasanya untuk membuat peraturan-
+
+<!-- marginal: Lembaga. -->
+
+peraturan, kepada—
 
 (a) Pengerusi;
 
@@ -430,15 +406,31 @@ apa-apa pengusahaan yang melibatkan institusi pendidikan tinggi swasta.
 
 (2) Perwakilan di bawah seksyen ini tidaklah menghalang Lembaga sendiri daripada melaksanakan atau menjalankan mana-mana fungsi atau kuasanya yang diwakilkan sedemikian pada bila-bila masa.
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-11. (1) Lembaga hendaklah bertanggungjawab kepada Menteri Menteri. untuk memberikan arahan. (2) Menteri boleh, dari semasa ke semasa, memberikan arahan-arahan yang tidak tak konsisten dengan peruntukan Akta ini kepada Lembaga.
+11. (1) Lembaga hendaklah bertanggungjawab kepada
+
+<!-- marginal: Menteri -->
+
+Menteri.
+
+<!-- marginal: untuk -->
+
+<!-- marginal: memberikan -->
+
+<!-- marginal: arahan. -->
+
+(2) Menteri boleh, dari semasa ke semasa, memberikan arahan-arahan yang tidak tak konsisten dengan peruntukan Akta ini kepada Lembaga.
 
 (3) Arahan-arahan yang diberikan oleh Menteri di bawah subseksyen (2) bolehlah yang berhubungan dengan—
 
 (a) apa-apa perkara yang didapati oleh Menteri menyentuh Dasar Pendidikan Kebangsaan; atau
 
-(b) pelaksanaan yang sepatutnya akan dasar, strategi dan garis panduan kebangsaan mengenai pendidikan tinggi yang dirumuskan oleh Majlis Pendidikan Tinggi Negara yang ditubuhkan di Akta bawah Akta Majlis Pendidikan Tinggi Negara 1996.
+(b) pelaksanaan yang sepatutnya akan dasar, strategi dan garis panduan kebangsaan mengenai pendidikan tinggi yang dirumuskan oleh Majlis Pendidikan Tinggi Negara yang ditubuhkan di
+
+<!-- marginal: Akta -->
+
+bawah Akta Majlis Pendidikan Tinggi Negara 1996.
 
 (4) Lembaga hendaklah melaksanakan kesemua arahan yang diberikan di bawah seksyen ini dengan seberapa segera yang boleh.
 
@@ -472,7 +464,7 @@ III
 
 (7) Jika ketua eksekutif tidak ada di Malaysia buat sementara atau tak berupaya buat sementara, oleh sebab sakit atau kerana apa-apa sebab lain yang mencukupi, untuk melaksanakan kawajipan-kewajipannya, Lembaga boleh mengarahkan Setiausaha untuk menjalankan kewajipan-kewajipan ketua eksekutif semasa ketua eksekutif tidak ada atau tak berupaya buat sementara itu.
 
-Setiausaha.
+<!-- marginal: Setiausaha. -->
 
 14. (1) Ketua eksekutif hendaklah, dengan persetujuan Lembaga, melantik seorang Setiausaha Lembaga.
 
@@ -602,13 +594,29 @@ tanpa kelulusan Perbendaharaan, Jabatan Perkhidmatan Awam atau pihak berkuasa la
 
 <!-- page 16 -->
 
-Tatatertib
+<!-- marginal: Tatatertib -->
 
-20. Lembaga hendaklah mempunyai kuasa tatatertib ke pegawai dan atas semua pegawai dan pengkhidmatnya dan hendaklah pengkhidmat. menjalankan kawalan tatatertib berkenaan dengan semua orang sedemikian mengikut Akta ini dan mana-mana peraturan yang dibuat di bawah seksyen 23.
+20. Lembaga hendaklah mempunyai kuasa tatatertib ke
 
-Jawatan-
+<!-- marginal: pegawai dan -->
 
-21. (1) Maka hendaklah ditubuhkan suatu jawatankuasa kuasa tatatertib Lembaga berkenaan dengan Setiausaha yang tatatertib. terdiri daripada—
+atas semua pegawai dan pengkhidmatnya dan hendaklah
+
+<!-- marginal: pengkhidmat. -->
+
+menjalankan kawalan tatatertib berkenaan dengan semua orang sedemikian mengikut Akta ini dan mana-mana peraturan yang dibuat di bawah seksyen 23.
+
+<!-- marginal: Jawatan- -->
+
+21. (1) Maka hendaklah ditubuhkan suatu jawatankuasa
+
+<!-- marginal: kuasa -->
+
+tatatertib Lembaga berkenaan dengan Setiausaha yang
+
+<!-- marginal: tatatertib. -->
+
+terdiri daripada—
 
 (a) Ketua Setiausaha Kementerian Pendidikan yang hendaklah menjadi pengerusi jawatankuasa itu; dan
 
@@ -658,9 +666,21 @@ bawah subseksyen 21(1) bolehlah dirayu kepada Menteri.
 
 <!-- page 18 -->
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-23. (1) Lembaga boleh, dengan kelulusan Menteri, membuat membuat peraturan-peraturan untuk mengadakan peraturan- peraturan peruntukan bagi tatatertib pegawai dan pengkhidmatnya. tatatertib.
+23. (1) Lembaga boleh, dengan kelulusan Menteri,
+
+<!-- marginal: membuat -->
+
+membuat peraturan-peraturan untuk mengadakan
+
+<!-- marginal: peraturan- -->
+
+<!-- marginal: peraturan -->
+
+peruntukan bagi tatatertib pegawai dan pengkhidmatnya.
+
+<!-- marginal: tatatertib. -->
 
 (2) Peraturan-peraturan tatatertib yang dibuat di bawah seksyen ini—
 
@@ -698,11 +718,7 @@ di bawah mana-mana undang-undang berhubungan dengan keselamatan Persekutuan atau
 
 (d) boleh mengadakan peruntukan bagi penahanan kerja dengan pengurangan emolumen pegawai atau pengkhidmat Lembaga sementara menanti selesainya presiding jenayah atau presiding tatatertib terhadapnya dengan tujuan membuang kerja atau menurunkan pangkatnya; dan
 
-(e) boleh mengadakan peruntukan
-
-<!-- marginal: bagi -->
-
-penggantungan tanpa emolumen seseorang pegawai atau pengkhidmat Lembaga—
+(e) boleh mengadakan peruntukan bagi penggantungan tanpa emolumen seseorang pegawai atau pengkhidmat Lembaga—
 
 (i) jika pegawai atau pengkhidmat itu telah disabitkan oleh suatu mahkamah jenayah; atau
 
@@ -762,9 +778,7 @@ memintanya menunjukkan sebab mengapa dia tidak patut disurcaj.
 
 <!-- marginal: surcaj. -->
 
-berkenaan dengan surcaj yang dikenakan di bawah seksyen
-
-24.
+berkenaan dengan surcaj yang dikenakan di bawah seksyen 24.
 
 <!-- marginal: Penarik- -->
 
@@ -794,9 +808,19 @@ seksyen 24 dan tidak ditarik balik di bawah seksyen 27 hendaklah menjadi hutang 
 
 dengan ansuran bulanan yang sama banyak yang tidak melebihi satu perempat daripada jumlah gaji atau pencen bulanan, mengikut mana-mana yang berkenaan, orang itu.
 
-Lembaga
+<!-- marginal: Lembaga -->
 
-29. Dalam membuat peraturan-peraturan di bawah boleh Bahagian ini, Lembaga boleh, dengan kelulusan Menteri, menerimapakai peraturan, dsb. menerimapakai dengan apa-apa ubahsuaian mana-mana peraturan, kaedah, dasar, pekeliling dan arahan yang diperbuat atau dikeluarkan oleh Kerajaan Persekutuan.
+29. Dalam membuat peraturan-peraturan di bawah
+
+<!-- marginal: boleh -->
+
+Bahagian ini, Lembaga boleh, dengan kelulusan Menteri,
+
+<!-- marginal: menerimapakai -->
+
+<!-- marginal: peraturan, dsb. -->
+
+menerimapakai dengan apa-apa ubahsuaian mana-mana peraturan, kaedah, dasar, pekeliling dan arahan yang diperbuat atau dikeluarkan oleh Kerajaan Persekutuan.
 
 ## BAHAGIAN
 
@@ -804,9 +828,13 @@ IV
 
 ## PERUNTUKAN KEWANGAN
 
-Kumpulan
+<!-- marginal: Kumpulan -->
 
-30. (1) Maka dengan ini tertubuhlah suatu kumpulan wang. wang bagi maksud Akta ini yang hendaklah ditadbir dan dikawal oleh Lembaga.
+30. (1) Maka dengan ini tertubuhlah suatu kumpulan
+
+<!-- marginal: wang. -->
+
+wang bagi maksud Akta ini yang hendaklah ditadbir dan dikawal oleh Lembaga.
 
 (2) Kumpulan wang itu hendaklah terdiri daripada—
 
@@ -878,17 +906,35 @@ dalam apa-apa bentuk dan pada apa-apa kadar bunga dan bagi apa-apa tempoh dan at
 
 <!-- page 24 -->
 
-Deposit dan
+<!-- marginal: Deposit dan -->
 
-34. Lembaga boleh, dengan kelulusan Menteri— pelaburan kumpulan
+34. Lembaga boleh, dengan kelulusan Menteri—
 
-(a) menempatkan kumpulan wang sebagai deposit wang. dalam bank di Malaysia; dan
+<!-- marginal: pelaburan -->
+
+<!-- marginal: kumpulan -->
+
+(a) menempatkan kumpulan wang sebagai deposit
+
+<!-- marginal: wang. -->
+
+dalam bank di Malaysia; dan
 
 (b) melaburkan dalam sekuriti Kerajaan atau apa- apa sekuriti yang dibenarkan oleh Menteri Kewangan, apa-apa wang daripada kumpulan wang yang tidak diperlukan untuk dibelanjakan dengan segera di bawah Akta.
 
-Perbelanjaan
+<!-- marginal: Perbelanjaan -->
 
-35. (1) Perbelanjaan Lembaga hingga sebanyak amaun dan yang dibenarkan oleh Menteri bagi mana-mana satu tahun penyediaan anggaran hendaklah dibayar daripada kumpulan wang.
+35. (1) Perbelanjaan Lembaga hingga sebanyak amaun
+
+<!-- marginal: dan -->
+
+yang dibenarkan oleh Menteri bagi mana-mana satu tahun
+
+<!-- marginal: penyediaan -->
+
+<!-- marginal: anggaran -->
+
+hendaklah dibayar daripada kumpulan wang.
 
 (2) Sebelum permulaan bulan September setiap tahun, Lembaga hendaklah mengemukakan kepada Menteri suatu anggaran perbelanjaan (termasuklah perbelanjaan bagi program penyelidekan dan pembangunan) bagi tahun berikutnya dalam apa-apa bentuk dan yang mengandungi apa-apa butir sebagaimana yang diarahkan oleh Menteri.
 
@@ -896,7 +942,13 @@ Perbelanjaan
 
 (4) Lembaga boleh, pada bila-bila masa, mengemukakan kepada Menteri suatu anggaran per- belanjaan tambahan bagi mana-mana satu tahun dan Menteri boleh membenarkan kesemua atau mana-mana bahagian daripada perbelanjaan tambahan yang termasuk dalam anggaran perbelanjaan tambahan itu.
 
-36. (1) Lembaga hendaklah menyebabkan disimpan Akaun dan laporan. akaun yang sepatutnya bagi kumpulan wang dan laporan yang sepatutnya mengenai aktiviti-aktivitinya dan
+36. (1) Lembaga hendaklah menyebabkan disimpan
+
+<!-- marginal: Akaun dan -->
+
+<!-- marginal: laporan. -->
+
+akaun yang sepatutnya bagi kumpulan wang dan laporan yang sepatutnya mengenai aktiviti-aktivitinya dan
 
 <!-- page 25 -->
 
@@ -958,15 +1010,27 @@ yang ditetapkan oleh Lembaga.
 
 tanpa menjejaskan hak institusi pendidikan tinggi swasta itu untuk mengemukakan permohonan baru.
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-39. (1) Selepas menimbangkan permohonan di bawah Lembaga subseksyen 38(1), Lembaga— untuk membenarkan
+39. (1) Selepas menimbangkan permohonan di bawah
+
+<!-- marginal: Lembaga -->
+
+subseksyen 38(1), Lembaga—
+
+<!-- marginal: untuk -->
+
+<!-- marginal: membenarkan -->
 
 (a) boleh meluluskan permohonan
 
 <!-- marginal: itu dan -->
 
-atau menolak permohonan. memberikan perakuan akreditasi kepada institusi pendidikan tinggi swasta berkenaan selepas ia membayar fee yang ditetapkan;
+<!-- marginal: atau menolak -->
+
+<!-- marginal: permohonan. -->
+
+memberikan perakuan akreditasi kepada institusi pendidikan tinggi swasta berkenaan selepas ia membayar fee yang ditetapkan;
 
 (b) boleh, pada meluluskan permohonan itu, memberikan kepada institusi pendidikan tinggi swasta yang berkenaan suatu perakuan akreditasi bagi kelayakan akademik yang berlainan daripada yang dipohon oleh institusi pendidikan tinggi swasta itu dalam borang permohonannya, selepas ia membayar fee yang ditetapkan; atau
 
@@ -974,9 +1038,23 @@ atau menolak permohonan. memberikan perakuan akreditasi kepada institusi pendidi
 
 (2) Keputusan Lembaga adalah muktamad.
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-40. Lembaga boleh, sama ada pada masa memberikan Lembaga perakuan akreditasi atau pada bila-bila masa selepasnya, untuk mengenakan mengenakan apa-apa syarat yang didapati oleh Lembaga syarat. adalah perlu atau suaimanfaat dan syarat-syarat itu boleh diubah, dipinda atau dibatalkan dari semasa ke semasa.
+40. Lembaga boleh, sama ada pada masa memberikan
+
+<!-- marginal: Lembaga -->
+
+perakuan akreditasi atau pada bila-bila masa selepasnya,
+
+<!-- marginal: untuk -->
+
+<!-- marginal: mengenakan -->
+
+mengenakan apa-apa syarat yang didapati oleh Lembaga
+
+<!-- marginal: syarat. -->
+
+adalah perlu atau suaimanfaat dan syarat-syarat itu boleh diubah, dipinda atau dibatalkan dari semasa ke semasa.
 
 <!-- page 27 -->
 
@@ -1054,7 +1132,7 @@ perenggan 39(a) atau (b)—
 
 (c) boleh tidak mengambil apa-apa tindakan lanjut.
 
-Daftar.
+<!-- marginal: Daftar. -->
 
 44. (1) Setiausaha hendaklah menyimpan
 
@@ -1068,9 +1146,13 @@ menyebabkan supaya disimpan suatu daftar yang dalamnya hendaklah dicatatkan buti
 
 ## KESALAHAN DAN PENGUATKUASAAN
 
-Kesalahan
+<!-- marginal: Kesalahan -->
 
-45. (1) Jikamana-manaorang atau institusi pendidikan tinggi dan penalti. swasta membuat apa-apa pernyataan atau representasi, sama ada secara bertulis atau selainnya, dengan merujuk kepada mana-mana kursus pengajian yang memberikan atau berkemungkinan memberikan tanggapan bahawa sijil, diploma atau ijazah berkenaan dengan kursus pengajian itu, yang tidak
+45. (1) Jikamana-manaorang atau institusi pendidikan tinggi
+
+<!-- marginal: dan penalti. -->
+
+swasta membuat apa-apa pernyataan atau representasi, sama ada secara bertulis atau selainnya, dengan merujuk kepada mana-mana kursus pengajian yang memberikan atau berkemungkinan memberikan tanggapan bahawa sijil, diploma atau ijazah berkenaan dengan kursus pengajian itu, yang tidak
 
 <!-- page 29 -->
 
@@ -1092,7 +1174,7 @@ maka orang atau institusi pendidikan tinggi swasta itu adalah melakukan suatu ke
 
 <!-- page 30 -->
 
-Anggapan.
+<!-- marginal: Anggapan. -->
 
 46. Dalam apa-apa presiding bagi suatu kesalahan di bawah Akta ini—
 
@@ -1118,11 +1200,49 @@ menyediakannya; dan
 
 seseorang atau suatu institusi pendidikan tinggi swasta, maka hendaklah dianggapkan sehingga dibuktikan sebaliknya bahawa sijil, diploma atau ijazah yang dianugerahkan oleh institusi pendidikan tinggi swasta itu tidak diakreditkan.
 
-Tanggungan
+<!-- marginal: Tanggungan -->
 
-47. (1) Jika suatu kesalahan terhadap mana-mana pengarah peruntukan Akta ini telah dilakukan oleh suatu institusi syarikat, dll. bagi pendidikan tinggi swasta, maka mana-mana orang yang kesalahan pada masa kesalahan itu dilakukan ialah— yang dilakukan
+47. (1) Jika suatu kesalahan terhadap mana-mana
 
-(a) anggota lembaga pengarah, pengurus, setiausaha oleh institusi pendidikan atau seseorang yang memegang jawatan atau tinggi swasta kedudukan yang serupa dengan pengurus atau yang setiausaha syarikat yang menubuhkan institusi ditubuhkan olehnya, dsb. pendidikan tinggi swasta itu; dan
+<!-- marginal: pengarah -->
+
+peruntukan Akta ini telah dilakukan oleh suatu institusi
+
+<!-- marginal: syarikat, -->
+
+<!-- marginal: dll. bagi -->
+
+pendidikan tinggi swasta, maka mana-mana orang yang
+
+<!-- marginal: kesalahan -->
+
+pada masa kesalahan itu dilakukan ialah—
+
+<!-- marginal: yang -->
+
+<!-- marginal: dilakukan -->
+
+(a) anggota lembaga pengarah, pengurus, setiausaha
+
+<!-- marginal: oleh institusi -->
+
+<!-- marginal: pendidikan -->
+
+atau seseorang yang memegang jawatan atau
+
+<!-- marginal: tinggi swasta -->
+
+kedudukan yang serupa dengan pengurus atau
+
+<!-- marginal: yang -->
+
+setiausaha syarikat yang menubuhkan institusi
+
+<!-- marginal: ditubuhkan -->
+
+<!-- marginal: olehnya, dsb. -->
+
+pendidikan tinggi swasta itu; dan
 
 (b) ketua eksekutif, pegawai, pengkhidmat atau ejen institusi pendidikan tinggi swasta itu,
 
@@ -1192,9 +1312,21 @@ adalah melakukan suatu kesalahan, dan apabila disabitkan boleh didenda tidak mel
 
 (6) Seksyen ini tidak boleh ditafsirkan sebagai menghadkan atau menyentuh apa-apa kuasa yang serupa yang diberikan kepada mana-mana orang di bawah mana- mana undang-undang bertulis yang lain.
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-50. (1) Jika didapati oleh Majistret, daripada maklumat untuk bertulis yang dibuat atas sumpah dan selepas apa-apa menggeledah siasatan yang difikirkannya perlu, bahawa terdapat sebab dan menyita. yang munasabah untuk mempercayai bahawa—
+50. (1) Jika didapati oleh Majistret, daripada maklumat
+
+<!-- marginal: untuk -->
+
+bertulis yang dibuat atas sumpah dan selepas apa-apa
+
+<!-- marginal: menggeledah -->
+
+siasatan yang difikirkannya perlu, bahawa terdapat sebab
+
+<!-- marginal: dan menyita. -->
+
+yang munasabah untuk mempercayai bahawa—
 
 (a) mana-mana premis telah digunakan atau hendak digunakan bagi; atau
 
@@ -1224,9 +1356,17 @@ pelakuan suatu kesalahan di bawah Akta ini, maka Majistret boleh mengeluarkan wa
 
 <!-- page 34 -->
 
-Menggeledah
+<!-- marginal: Menggeledah -->
 
-51. Jika seseorang pegawai penyiasat mempunyai sebab dan menyita yang munasabah untuk mempercayai bahawa disebabkan tanpa waran. kelengahan mendapatkan waran geledah di bawah seksyen 50—
+51. Jika seseorang pegawai penyiasat mempunyai sebab
+
+<!-- marginal: dan menyita -->
+
+yang munasabah untuk mempercayai bahawa disebabkan
+
+<!-- marginal: tanpa waran. -->
+
+kelengahan mendapatkan waran geledah di bawah seksyen 50—
 
 (a) penyiasatan itu akan terjejas;
 
@@ -1238,9 +1378,19 @@ Menggeledah
 
 maka dia boleh menjalankan, di dalam dan berkenaan dengan premis itu, segala kuasa yang disebutkan dalam seksyen 50 secara yang sepenuhnya dan secukupnya seolah-olah dia telah diberikuasa berbuat sedemikian melalui waran yang dikeluarkan di bawah seksyen itu.
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-52. (1) Pegawai penyiasat boleh, melalui notis secara memanggil bertulis, menghendaki mana-mana orang yang tahu tentang bagi tujuan pemeriksaan. fakta dan keadaan sesuatu kes hadir di hadapannya dan untuk diperiksa secara lisan dan hendaklah mengubah ke dalam bentuk bertulis apa-apa pernyataan yang dibuat oleh orang yang diperiksa sedemikian.
+52. (1) Pegawai penyiasat boleh, melalui notis secara
+
+<!-- marginal: memanggil -->
+
+bertulis, menghendaki mana-mana orang yang tahu tentang
+
+<!-- marginal: bagi tujuan -->
+
+<!-- marginal: pemeriksaan. -->
+
+fakta dan keadaan sesuatu kes hadir di hadapannya dan untuk diperiksa secara lisan dan hendaklah mengubah ke dalam bentuk bertulis apa-apa pernyataan yang dibuat oleh orang yang diperiksa sedemikian.
 
 (2) Orang itu hendaklah terikat di sisi undang-undang untuk menjawab soalan-soalan berhubungan dengan kes itu yang dikemukakan kepadanya oleh pegawai penyiasat dan untuk menyatakan yang benar, sama ada atau tidak pernyataan itu dibuat keseluruhannya atau sebahagiannya bagi menjawab apa-apa soalan dan tidak boleh enggan menjawab apa-apa soalan atas alasan bahawa soalan itu mungkin menunjukkan bahawa dia bersalah.
 
@@ -1298,9 +1448,7 @@ yang dilakukan oleh institusi pendidikan tinggi swasta atau seseorang di bawah A
 
 <!-- marginal: Memulakan -->
 
-54.
-
-(1) Seseorang pegawai penyiasat adalah mempunyai
+54. (1) Seseorang pegawai penyiasat adalah mempunyai
 
 <!-- marginal: dan -->
 
@@ -1376,17 +1524,33 @@ bagi pelaksanaan peruntukan-peruntukan Akta ini.
 
 (i) apa-apa perkara lain yang dikehendaki oleh Akta ini supaya ditetapkan atau dinyatakan atau yang perlu atau suaimanfaat untuk ditetapkan atau dinyatakan bagi melaksanakan Akta ini.
 
-Obligasi
+<!-- marginal: Obligasi -->
 
-57. (1) Kecuali bagi mana-mana maksud Akta ini atau menyimpan bagi maksud apa-apa prosiding sivil atau jenayah di bawah rahsia. mana-mana undang-undang bertulis, tiada anggota Lembaga, anggota jawatankuasa, pegawai atau pengkhidmat Lembaga boleh mendedahkan apa-apa maklumat yang telah diperolehinya semasa menjalankan kewajipan-kewajipannya dan yang tidak disiarkan menurut Akta ini.
+57. (1) Kecuali bagi mana-mana maksud Akta ini atau
+
+<!-- marginal: menyimpan -->
+
+bagi maksud apa-apa prosiding sivil atau jenayah di bawah
+
+<!-- marginal: rahsia. -->
+
+mana-mana undang-undang bertulis, tiada anggota Lembaga, anggota jawatankuasa, pegawai atau pengkhidmat Lembaga boleh mendedahkan apa-apa maklumat yang telah diperolehinya semasa menjalankan kewajipan-kewajipannya dan yang tidak disiarkan menurut Akta ini.
 
 (2) Mana-mana orang yang melanggar subseksyen
 
 (1) adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi sepuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu bulan, atau kedua-duanya.
 
-Pengkhidmat
+<!-- marginal: Pengkhidmat -->
 
-58. Pengerusi, semua anggota Lembaga dan anggota awam. mana-mana jawatankuasa, pegawai, pengkhidmat dan ejen Lembaga hendaklah disifatkan sebagai pengkhidmat awam N.M.B. mengikut pengertian Kanun Keseksaan, semasa
+58. Pengerusi, semua anggota Lembaga dan anggota
+
+<!-- marginal: awam. -->
+
+mana-mana jawatankuasa, pegawai, pengkhidmat dan ejen Lembaga hendaklah disifatkan sebagai pengkhidmat awam
+
+<!-- marginal: N.M.B. -->
+
+mengikut pengertian Kanun Keseksaan, semasa
 
 ## Bab 45.
 
@@ -1454,9 +1618,7 @@ suratcara perlantikannya, Pengerusi dan anggota Lembaga hendaklah
 
 <!-- marginal: perletakan jawatan. -->
 
-memegang jawatan selama tempoh yang tidak melebihi tiga tahun dan adalah layak untuk dilantik semula.
-
-(2) Perlantikan—
+memegang jawatan selama tempoh yang tidak melebihi tiga tahun dan adalah layak untuk dilantik semula. (2) Perlantikan—
 
 (a) Pengerusi boleh, pada bila-bila masa, dibatalkan oleh Yang di-Pertuan Agong; dan
 
@@ -1470,9 +1632,35 @@ tanpa memberikan apa-apa sebab baginya.
 
 <!-- page 40 -->
 
-Pengerusi 2. Pengerusi dan tiap-tiap anggota hendaklah menumpukan masa dan kepada urusan Lembaga sebagaimana yang perlu untuk menunaikan anggota hendaklah kewajipan mereka secara berkesan. menumpukan masa kepada Lembaga.
+<!-- marginal: Pengerusi -->
 
-Pengosongan 3. (1) Jawatan Pengerusi atau seseorang anggota Lembaga hendaklah jawalan. menjadi kosong—
+2. Pengerusi dan tiap-tiap anggota hendaklah menumpukan masa
+
+<!-- marginal: dan -->
+
+kepada urusan Lembaga sebagaimana yang perlu untuk menunaikan
+
+<!-- marginal: anggota -->
+
+<!-- marginal: hendaklah -->
+
+kewajipan mereka secara berkesan.
+
+<!-- marginal: menumpukan -->
+
+<!-- marginal: masa -->
+
+<!-- marginal: kepada -->
+
+<!-- marginal: Lembaga. -->
+
+<!-- marginal: Pengosongan -->
+
+3. (1) Jawatan Pengerusi atau seseorang anggota Lembaga hendaklah
+
+<!-- marginal: jawalan. -->
+
+menjadi kosong—
 
 (a) jika dia mati;
 
@@ -1494,7 +1682,9 @@ Pengosongan 3. (1) Jawatan Pengerusi atau seseorang anggota Lembaga hendaklah ja
 
 (i) dalam hal Pengerusi, jika perlantikannya dibatalkan oleh Yang di-Pertuan Agong dan dalam hal anggota Lembaga, jika perlantikannya dibatalkan oleh Menteri.
 
-Mesyuarat 4. (1) Lembaga hendaklah mengadakan mesyuarat sebagaimana dan apabila dikehendaki berbuat sedemikian oleh Pengerusi.
+<!-- marginal: Mesyuarat -->
+
+4. (1) Lembaga hendaklah mengadakan mesyuarat sebagaimana dan apabila dikehendaki berbuat sedemikian oleh Pengerusi.
 
 <!-- page 41 -->
 
@@ -1550,7 +1740,15 @@ hendaklah menzahirkan kepada Lembaga hakikat dan jenis kepentingannya itu.
 
 ## RANG UNDANG-UNDANG
 
-8. Tiada apa-apa tindakan yang dilakukan atau prosiding yang Kesahan tindakan dan dibuat di bawah Akta ini boleh dipersoalkan atas alasan bahawa— prosiding
+8. Tiada apa-apa tindakan yang dilakukan atau prosiding yang
+
+<!-- marginal: Kesahan -->
+
+<!-- marginal: tindakan dan -->
+
+dibuat di bawah Akta ini boleh dipersoalkan atas alasan bahawa—
+
+<!-- marginal: prosiding -->
 
 (a) ada suatu kekosongan dalam keanggotaan, atau ada suatu kecacatan dalam penubuhan, Lembaga;
 
@@ -1558,7 +1756,9 @@ hendaklah menzahirkan kepada Lembaga hakikat dan jenis kepentingannya itu.
 
 (c) ada suatu peninggalan, kecacatan atau ketakteraturan yang tidak menyentuh merit kes itu.
 
-Meterai biasa. 9. (1) Lembaga hendaklah mempunyai suatu meterai biasa yang mengandungi suatu tan da yang diluluskan oleh Lembaga.
+<!-- marginal: Meterai biasa. -->
+
+9. (1) Lembaga hendaklah mempunyai suatu meterai biasa yang mengandungi suatu tan da yang diluluskan oleh Lembaga.
 
 (2) Meterai biasa itu boleh, dari semasa ke semasa, dipecahkan, ditukar, diubah dan dibuat baharu sebagaimana yang difikirkan patut oleh Lembaga.
 
@@ -1574,7 +1774,9 @@ Meterai biasa. 9. (1) Lembaga hendaklah mempunyai suatu meterai biasa yang menga
 
 (8) Meterai biasa Lembaga hendaklah diberikan pengiktirafan rasmi dan kehakiman.
 
-Prosedur. 10. Tertakluk kepada Akta ini, Lembaga hendaklah, mengikut budi bicaranya, menentukan prosedurnya sendiri.
+<!-- marginal: Prosedur. -->
+
+10. Tertakluk kepada Akta ini, Lembaga hendaklah, mengikut budi bicaranya, menentukan prosedurnya sendiri.
 
 <!-- page 43 -->
 

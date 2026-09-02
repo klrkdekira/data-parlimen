@@ -74,56 +74,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/36/msa@/~cl_2",
       "@type": "akn:clause",
       "eli:number": "2",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/36/msa@/~cl_2__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/36/msa@/~cl_2__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/36/msa@/~cl_2__para_c",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/36/msa@/~cl_2__para_d"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/36/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta Rukun Tetangga 2012 [Akta 751], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 2 dengan memasukkan selepas takrif “Menteri” takrif yang berikut: ‘ “orang yang mempunyai kepentingan”, berhubung dengan suatu Kawasan, ertinya seseorang—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/36/msa@/~cl_2__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/36/msa@/~cl_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "yang memiliki atau mempunyai apa-apa jenis harta, sama ada harta kediaman, perdagangan, perindustrian atau pertanian atau selainnya di dalam Kawasan itu;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/36/msa@/~cl_2__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/36/msa@/~cl_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "yang menjalankan perniagaan di dalam Kawasan itu, atau yang diambil kerja atau mempunyai tempat pekerjaan di dalam Kawasan itu;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/36/msa@/~cl_2__para_c",
-      "@type": "akn:paragraph",
-      "eli:number": "c",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/36/msa@/~cl_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "yang memegang apa-apa jawatan dalam mana-mana organisasi, persatuan, institusi atau badan yang ditubuhkan di dalam Kawasan itu atau yang beroperasi atau menjalankan aktiviti di dalam Kawasan itu; atau"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/36/msa@/~cl_2__para_d",
-      "@type": "akn:paragraph",
-      "eli:number": "d",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/36/msa@/~cl_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "yang mempunyai pertalian keluarga dengan mana-mana pemastautin di dalam Kawasan itu.’. Pindaan seksyen 3"
+        "@value": "Akta Rukun Tetangga 2012 [Akta 751], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 2 dengan memasukkan selepas takrif “Menteri” takrif yang berikut: ‘ “orang yang mempunyai kepentingan”, berhubung dengan suatu Kawasan, ertinya seseorang— (a) yang memiliki atau mempunyai apa-apa jenis harta, sama ada harta kediaman, perdagangan, perindustrian atau pertanian atau selainnya di dalam Kawasan itu; (b) yang menjalankan perniagaan di dalam Kawasan itu, atau yang diambil kerja atau mempunyai tempat pekerjaan di dalam Kawasan itu; (c) yang memegang apa-apa jawatan dalam mana-mana organisasi, persatuan, institusi atau badan yang ditubuhkan di dalam Kawasan itu atau yang beroperasi atau menjalankan aktiviti di dalam Kawasan itu; atau (d) yang mempunyai pertalian keluarga dengan mana-mana pemastautin di dalam Kawasan itu.’. Pindaan seksyen 3"
       }
     },
     {

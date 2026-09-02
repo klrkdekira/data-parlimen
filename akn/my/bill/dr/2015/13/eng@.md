@@ -4,27 +4,41 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 pRELIMINARY
 
 1. Short title and commencement 2. Interpretation
 
-## Part II
+## PART II
 
 ThE COMMISSION
 
-3. Establishment of the Commission 4. Common seal 5. Membership of the Commission 6. Alternate members 7. Tenure of office 8. Remuneration and allowances 9. Revocation of appointment and resignation 10. Vacation of office 11. Effect of cessation of membership 12. Committees 13. Disclosure of interest 14.
+3. Establishment of the Commission 4. Common seal 5. Membership of the Commission 6. Alternate members 7. Tenure of office 8. Remuneration and allowances 9. Revocation of appointment and resignation
+
+10. Vacation of office
+
+11. Effect of cessation of membership
+
+12. Committees
+
+13. Disclosure of interest
+
+14.
 
 ## First Schedule
 
-15. Code of conduct 16. Disciplinary panel and disciplinary proceedings
+15. Code of conduct
 
-## Part III
+16. Disciplinary panel and disciplinary proceedings
+
+## PART III
 
 FUNCTIONS AND pOwERS OF ThE COMMISSION AND ThE EXECUTIVE ChAIRMAN
 
-17. Functions of the Commission 18. powers of the Commission
+17. Functions of the Commission
+
+18. powers of the Commission
 
 <!-- page 2 -->
 
@@ -36,7 +50,7 @@ FUNCTIONS AND pOwERS OF ThE COMMISSION AND ThE EXECUTIVE ChAIRMAN
 
 22. Temporary exercise of functions of the Executive Chairman
 
-## Part IV
+## PART IV
 
 EMpLOYEES OF ThE COMMISSION
 
@@ -44,7 +58,7 @@ EMpLOYEES OF ThE COMMISSION
 
 24. Conditions of service, conduct and discipline
 
-## Part V
+## PART V
 
 ## FINANCE
 
@@ -68,7 +82,7 @@ EMpLOYEES OF ThE COMMISSION
 
 34. Accounts and reports
 
-## Part VI
+## PART VI
 
 LICENSING AND ChARGES
 
@@ -98,7 +112,7 @@ LICENSING AND ChARGES
 
 46. power to set charges
 
-## Part VII
+## PART VII
 
 COMpETITION
 
@@ -174,13 +188,13 @@ TRAFFIC RIGhTS AND SLOT ALLOCATION
 
 67. Slot allocation
 
-## Part IX
+## PART IX
 
 pUBLIC SERVICE OBLIGATIONS
 
 68. public service obligations
 
-## Part X
+## PART X
 
 CONSUMER pROTECTION
 
@@ -196,7 +210,7 @@ CONSUMER pROTECTION
 
 <!-- page 5 -->
 
-## Part XI
+## PART XI
 
 DISpUTE RESOLUTION
 
@@ -210,7 +224,7 @@ DISpUTE RESOLUTION
 
 78. Enforcement of decisions
 
-## Part XII
+## PART XII
 
 ## ENFORCEMENT AND INVESTIGATION
 
@@ -262,7 +276,7 @@ DISpUTE RESOLUTION
 
 <!-- page 6 -->
 
-## Part XIV
+## PART XIV
 
 ## SAVINGS AND TRANSITIONAL
 
@@ -276,7 +290,13 @@ DISpUTE RESOLUTION
 
 104. Existing agreements
 
-105. Things done in anticipation of the enactment of this Act F Irst s chedule second s chedule thIrd s chedule
+105. Things done in anticipation of the enactment of this Act
+
+## F IRST S CHEDULE
+
+## SECOND S CHEDULE
+
+## THIRD S CHEDULE
 
 <!-- page 7 -->
 
@@ -288,7 +308,7 @@ An Act to establish the Malaysian Aviation Commission to regulate economic matte
 
 ENACTED by the parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 pRELIMINARY
 
@@ -366,7 +386,7 @@ whether or not such service is provided by a licensee, permit holder or otherwis
 
 “appointed date” means the date of this Act comes into operation.
 
-## Part II
+## PART II
 
 ThE COMMISSION
 
@@ -606,7 +626,7 @@ when the matter is discussed or decided upon.
 
 (6) After receiving the recommendation of the Disciplinary panel under paragraph (5)(a), the prime Minister or the Commission, as the case may be, shall revoke the appointment of the member of the Commission or the committee and impose a financial penalty of not less than ten thousand ringgit and not more than five hundred thousand ringgit.
 
-## Part III
+## PART III
 
 FUNCTIONS AND pOwERS OF ThE COMMISSION AND ThE EXECUTIVE ChAIRMAN
 
@@ -740,7 +760,7 @@ FUNCTIONS AND pOwERS OF ThE COMMISSION AND ThE EXECUTIVE ChAIRMAN
 
 (c) when the Executive Chairman is, for any other reason, unable to perform the duties of his office.
 
-## Part IV
+## PART IV
 
 EMpLOYEES OF ThE COMMISSION
 
@@ -776,7 +796,7 @@ of an employee of the Commission during the pendency of the disciplinary proceed
 
 (6) The regulations prescribed under this section shall, in prescribing the procedure for disciplinary proceedings, provide for an opportunity for representations to be made by the employee of the Commission against whom the disciplinary proceedings are taken before a decision is arrived at by the disciplinary committee on such disciplinary charge laid against such person.
 
-## Part V
+## PART V
 
 ## FINANCE
 
@@ -874,7 +894,7 @@ of an employee of the Commission during the pendency of the disciplinary proceed
 
 (3) The Statutory Bodies (Accounts and Annual Reports) Act 1980 [Act 240] shall apply to the Commission.
 
-## Part VI
+## PART VI
 
 LICENSING AND ChARGES
 
@@ -1038,7 +1058,7 @@ LICENSING AND ChARGES
 
 (4) The Commission shall publish all the charges determined by the Commission in the Gazette.
 
-## Part VII
+## PART VII
 
 COMpETITION
 
@@ -1572,7 +1592,7 @@ AIR TRAFFIC RIGhTS AND SLOT ALLOCATION
 
 (3) For the purposes of this section, “slot allocation” means the allocation of time slots for the purpose of granting aircraft access to aerodrome facilities for landing and taking-off at specific dates and times.
 
-## Part IX
+## PART IX
 
 pUBLIC SERVICE OBLIGATIONS
 
@@ -1596,7 +1616,7 @@ pUBLIC SERVICE OBLIGATIONS
 
 <!-- page 56 -->
 
-## Part X
+## PART X
 
 CONSUMER pROTECTION
 
@@ -1646,7 +1666,7 @@ CONSUMER pROTECTION
 
 <!-- page 58 -->
 
-## Part XI
+## PART XI
 
 DISpUTE RESOLUTION
 
@@ -1686,7 +1706,7 @@ DISpUTE RESOLUTION
 
 (2) For the purposes of subsection (1), if the high Court finds that a person referred to in the decision has failed to comply with the decision, the high Court shall make an order requiring such person to comply with the decision.
 
-## Part XII
+## PART XII
 
 ## ENFORCEMENT AND INVESTIGATION
 
@@ -1982,7 +2002,7 @@ in respect of any act, neglect or default done or committed by it or him in good
 
 99. The Minister may, upon the recommendation of the Commission, amend any Schedule by order published in the Gazette.
 
-## Part XIV
+## PART XIV
 
 ## SAVINGS AND TRANSITIONAL
 
@@ -2028,7 +2048,9 @@ in respect of any act, neglect or default done or committed by it or him in good
 
 105. All acts and things done on behalf of the Commission in preparation for or in anticipation of the enactment of this Act and any expenditure incurred in relation thereto shall be deemed to have been authorized under this Act, provided that the acts and things done are consistent with the general intention and purposes of this Act, and all rights and obligations acquired or incurred as a result of the doing of those acts or things including any expenditure incurred in relation thereto shall upon the coming into operation of this Act be deemed to be the rights and obligations of the Commission.
 
-FIrst s chedule [Section 14]
+## FIRST S CHEDULE
+
+[Section 14]
 
 ## MEETINGS
 
@@ -2140,7 +2162,9 @@ The Committee
 
 4. Subject to this Act, the committee may regulate its own procedure.
 
-second s chedule [Section 37]
+## SECOND S CHEDULE
+
+[Section 37]
 
 LIST OF GROUND hANDLING SERVICES
 
@@ -2242,7 +2266,9 @@ LIST OF GROUND hANDLING SERVICES
 
 13. Any other services as may be determined by the Commission from time to time.
 
-thIrd s chedule [Section 48]
+## THIRD S CHEDULE
+
+[Section 48]
 
 ## EXCLUDED COMMERCIAL ACTIVITIES, AGREEMENTS AND MERGERS
 
@@ -2260,7 +2286,7 @@ EXpLANATORY STATEMENT
 
 The proposed Malaysian Aviation Commission Act 2015 (“the proposed Act”) seeks to establish the Malaysian Aviation Commission to regulate economic matters relating to the civil aviation industry and to provide for its functions and powers and related matters.
 
-## Part I
+## PART I
 
 2. part I deals with preliminary matters.
 
@@ -2270,7 +2296,7 @@ Clause 1 contains the short title and the commencement of the proposed Act.
 
 Clause 2 contains the definitions of certain words used in the proposed Act.
 
-## Part II
+## PART II
 
 3. part II contains provisions relating to the establishment of the Commission.
 
@@ -2304,7 +2330,7 @@ Clause 16 seeks to provide for a disciplinary panel that shall carry out discipl
 
 <!-- page 81 -->
 
-## Part III
+## PART III
 
 4. part III deals with the functions and powers of the Commission and the Executive Chairman.
 
@@ -2318,7 +2344,7 @@ Clause 21 sets out the functions of the Executive Chairman.
 
 Clause 22 confers on the prime Minister power to appoint any member of the Commission for the temporary exercise of functions of the Executive Chairman.
 
-## Part IV
+## PART IV
 
 5. part IV deals with employees of the Commission.
 
@@ -2326,7 +2352,7 @@ Clause 23 empowers the Commission to employ its employees.
 
 Clause 24 allows the Commission to determine the conditions of service of its employees and empowers the Commission to have disciplinary authority and control over all its employees.
 
-## Part V
+## PART V
 
 6. part V contains provisions on finance.
 
@@ -2346,7 +2372,7 @@ Clause 33 states that the financial year of the Commission shall begin on 1 Janu
 
 Clause 34 requires the Commission to keep proper accounts of the Aviation Commission Fund and the public Service Fund and proper records of its activities. The Commission is required to have its statement of accounts and a statement of its activities for the financial year to be sent to the Minister who will then cause them to be laid before both houses of parliament. This clause also provides that the Statutory Bodies (Accounts and Annual Reports) Act 1980 shall apply to the Commission.
 
-## Part VI
+## PART VI
 
 7. part VI contains provisions on licensing and charges.
 
@@ -2376,7 +2402,7 @@ Clause 45 prohibits the transfer or assignment of a licence or permit, except in
 
 Clause 46 empowers the Commission to regulate charges. The Commission has the power to set charges including maximum charges or establishing the method for determining the charges having regard to specified factors, carry out reviews of the charges it set and subsequently any charges as it thinks fit.
 
-## Part VII
+## PART VII
 
 8. part VII deals with competition in any commercial activity, agreement or merger affecting aviation services.
 
@@ -2432,7 +2458,7 @@ Clause 66 provides that the Commission will be responsible to administer, alloca
 
 Clause 67 empowers the Commission to supervise and issue directions to such persons relating to the allocation of slots. The Commission shall have the power to prescribe regulations and determine disputes relating to allocation of slots.
 
-## Part IX
+## PART IX
 
 10. part IX deals with the Commission’s power to control and manage public service obligations.
 
@@ -2440,7 +2466,7 @@ Clause 68 empowers the Commission to administer and manage public service obliga
 
 <!-- page 86 -->
 
-## Part X
+## PART X
 
 11. part X deals with consumer protection.
 
@@ -2454,13 +2480,13 @@ Clause 72 provides for the recovery of financial penalties under clause 69 or co
 
 Clause 73 provides for the enforcement of the decisions of the Commission under part X.
 
-## Part XI
+## PART XI
 
 12. part XI deals with resolution of disputes.
 
 Clauses 74 to 78 provide that disputes between two or more aviation service providers about matters under the proposed Act should first be resolved by mediation. however, if the parties fail to resolve a dispute through mediation, the Commission shall decide on the dispute. The Commission must register its decision on a dispute and the decision may be enforced by the Commission.
 
-## Part XII
+## PART XII
 
 13. part XII deals with the investigative and enforcement powers of the Commission.
 
@@ -2514,7 +2540,7 @@ Clause 98 seeks to empower the Commission to prescribe regulations under the pro
 
 Clause 99 seeks to empower the Minister to amend any Schedule to the proposed Act by an order published in the Gazette upon recommendation of the Commission.
 
-## Part XIV
+## PART XIV
 
 15. part XIV deals with transitional provisions.
 

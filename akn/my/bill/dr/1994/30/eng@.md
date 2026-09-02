@@ -8,15 +8,31 @@ An Act to amend the Widows' and Orphans' Pensions Ordinance of Sarawak. [ ]
 
 BE IT ENACTED by the Seri Paduka Baginda Yang di-Pertuan Agong with the advice and consent of the Dewan Negara and Dewan Rakyat in Parliament assembled, and by the authority of the same, as follows:
 
-Short title
+<!-- marginal: Short title -->
 
-1. (1) This Act may be cited as the Widows' and and commence- Orphans' Pensions (Sarawak) (Amendment) Act 1994. ment.
+1. (1) This Act may be cited as the Widows' and
+
+<!-- marginal: and commence- -->
+
+Orphans' Pensions (Sarawak) (Amendment) Act 1994.
+
+<!-- marginal: ment. -->
 
 (2) This Act shall come into force on such date as the Minister may, by notification in the Gazette, appoint.
 
-Amendment
+<!-- marginal: Amendment -->
 
-2. The Widows' and Orphans' Pensions Ordinance of of section 2. Sarawak, which in this Act is referred to as the Sarawak Cap 90. "Ordinance", is amended in section 2—
+2. The Widows' and Orphans' Pensions Ordinance of
+
+<!-- marginal: of section 2. -->
+
+Sarawak, which in this Act is referred to as the
+
+<!-- marginal: Sarawak -->
+
+<!-- marginal: Cap 90. -->
+
+"Ordinance", is amended in section 2—
 
 (a) by deleting the definition of "actuary"; and
 
@@ -28,9 +44,11 @@ Amendment
 
 <!-- page 2 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-3. Section 3 of the Ordinance is amended— of section 3.
+3. Section 3 of the Ordinance is amended—
+
+<!-- marginal: of section 3. -->
 
 (a) by substituting for subsection (2) the following subsection:
 
@@ -52,6 +70,10 @@ Amendment
 
 (2s) The Board shall appoint a Secretary who shall assist the Board in the administration of the Fund.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. Section 7 of the Ordinance is amended by of section 7. substituting for the words "approved by the Minister" the words "appointed by the Minister".
+4. Section 7 of the Ordinance is amended by
+
+<!-- marginal: of section 7. -->
+
+substituting for the words "approved by the Minister" the words "appointed by the Minister".

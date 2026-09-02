@@ -10,7 +10,9 @@ BE IT ENACTED by the Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Ag
 
 <!-- marginal: Short title. -->
 
-1. This Act may be cited as the Excise (Amendment) Act 1990.
+1. This Act may be cited as the Excise (Amendment) Act
+
+1990.
 
 <!-- marginal: Amendment -->
 
@@ -44,11 +46,33 @@ Act 235. of the Customs Act 1967, for the warehousing of goods of a similar clas
 
 <!-- page 2 -->
 
-Amendment 3. Section 4 of the principal Act is amended— of section 4.
+<!-- marginal: Amendment -->
+
+3. Section 4 of the principal Act is amended—
+
+<!-- marginal: of section 4. -->
 
 (a) by deleting the words "Deputy Director," in the second line of subsection (1); and
 
-(b) by substituting for the full stop at the end of that subsection a comma and inserting immediately thereafter the words "other than those conferred by section 18.". Amendment 4. Section 14 of the principal Act is amended by of section 14. substituting for the words "by unavoidable accident, lost, damaged or destroyed" in subsection (1) the words "damaged, destroyed or, by unvoidable accident, lost". Amendment 5. Section 15 of the principal Act is amended by of section 15. renumbering it as "15. (1)" and inserting immediately thereafter the following new subsections (2), (3), (4) and (5):
+(b) by substituting for the full stop at the end of that subsection a comma and inserting immediately thereafter the words "other than those conferred by section 18.".
+
+<!-- marginal: Amendment -->
+
+4. Section 14 of the principal Act is amended by
+
+<!-- marginal: of section 14. -->
+
+substituting for the words "by unavoidable accident, lost, damaged or destroyed" in subsection (1) the words "damaged, destroyed or, by unvoidable accident, lost".
+
+<!-- marginal: Amendment -->
+
+5. Section 15 of the principal Act is amended by
+
+<!-- marginal: of section 15. -->
+
+renumbering it as "15. (1)" and inserting immediately thereafter the following new subsections (2), (3), (4) and
+
+(5):
 
 "(2) Where any amount is payable in accordance with subsection (1), the Director General may allow the amount to be paid by instalments in such amounts and on such dates as he may determine.
 
@@ -56,9 +80,23 @@ Amendment 3. Section 4 of the principal Act is amended— of section 4.
 
 (4) The proceeds of sale of any such goods shall be applied to the payment of the amount due, and the surplus, if any, shall be paid to such person.
 
-(5) If the sale of such goods is by auction, such auction shall be conducted by or in the presence of a senior officer of excise.". Amendment 6. Section 16 of the principal Act is amended by inserting, of section 16. immediately after the word "stored", the words "or from any other place under excise control".
+(5) If the sale of such goods is by auction, such auction shall be conducted by or in the presence of a senior officer of excise.".
 
-Substitution 7. The principal Act is amended by substituting for of section 19. section 19 the following: "Drawback. 19. (1) Where any goods are exported by the manufacturer as part or ingredient of any goods manufactured in the Federation or as the packing,
+<!-- marginal: Amendment -->
+
+6. Section 16 of the principal Act is amended by inserting,
+
+<!-- marginal: of section 16. -->
+
+immediately after the word "stored", the words "or from any other place under excise control".
+
+<!-- marginal: Substitution -->
+
+7. The principal Act is amended by substituting for
+
+<!-- marginal: of section 19. -->
+
+section 19 the following: "Drawback. 19. (1) Where any goods are exported by the manufacturer as part or ingredient of any goods manufactured in the Federation or as the packing,
 
 <!-- page 3 -->
 
@@ -86,13 +124,69 @@ or part or ingredient of the packing, of such manufactured goods, then if excise
 
 <!-- page 4 -->
 
-New sections 9. The principal Act is amended by inserting in Part IV, 23A and 23B. immediately after section 23, the following new sections 23 A and 23B: "Liquidator 23A. (1) Where an effective resolution is of company passed or an order is made for the winding-up of to give notice of a company to which a licence under this Act is winding- issued, the liquidator of the company shall give up and set aside duty. notice thereof to the Director General within fourteen days thereafter, and shall before disposing of any of the assets of the company set aside such sum out of the assets as appears to the Director General to be sufficient to provide for any excise duty that is or will thereafter become payable in respect of the company.
+<!-- marginal: New sections -->
+
+9. The principal Act is amended by inserting in Part IV,
+
+<!-- marginal: 23A and 23B. -->
+
+immediately after section 23, the following new sections 23 A and 23B:
+
+<!-- marginal: "Liquidator -->
+
+23A. (1) Where an effective resolution is
+
+<!-- marginal: of company -->
+
+passed or an order is made for the winding-up of
+
+<!-- marginal: to give -->
+
+<!-- marginal: notice of -->
+
+a company to which a licence under this Act is
+
+<!-- marginal: winding- -->
+
+issued, the liquidator of the company shall give
+
+<!-- marginal: up and set -->
+
+<!-- marginal: aside duty. -->
+
+notice thereof to the Director General within fourteen days thereafter, and shall before disposing of any of the assets of the company set aside such sum out of the assets as appears to the Director General to be sufficient to provide for any excise duty that is or will thereafter become payable in respect of the company.
 
 (2) A liquidator of any such company who fails to give notice to the Director General within the time specified in subsection (1) or fails to provide for payment of the excise duty as required by that subsection shall be personally liable for any excise duty that is or becomes payable as aforesaid.
 
 (3) Where two or more persons are appointed liquidators or are required by law to carry out the winding-up of any such company, subject to a right of contribution between themselves as in cases of contract, the obligations and liabilities attaching to a liquidator under this section shall attach to all such persons jointly and severally.
 
-Appoint- 23B. (1) Where a receiver is. appointed of the ment of property of a company to which a licence under receiver to be this Act is issued, the receiver shall give notice notified thereof to the Director General within fourteen to the Director days thereafter, and shall before disposing of General. any of the assets of that company set aside such sum out of the assets as appears to the Director General to be sufficient to provide for any excise duty that is or will thereafter become payable in respect of the dutiable goods that have been sold by the company before the appointment of the receiver.
+<!-- marginal: Appoint- -->
+
+23B. (1) Where a receiver is. appointed of the
+
+<!-- marginal: ment of -->
+
+property of a company to which a licence under
+
+<!-- marginal: receiver -->
+
+<!-- marginal: to be -->
+
+this Act is issued, the receiver shall give notice
+
+<!-- marginal: notified -->
+
+thereof to the Director General within fourteen
+
+<!-- marginal: to the -->
+
+<!-- marginal: Director -->
+
+days thereafter, and shall before disposing of
+
+<!-- marginal: General. -->
+
+any of the assets of that company set aside such sum out of the assets as appears to the Director General to be sufficient to provide for any excise duty that is or will thereafter become payable in respect of the dutiable goods that have been sold by the company before the appointment of the receiver.
 
 <!-- page 5 -->
 
@@ -146,9 +240,27 @@ subsection (5).
 
 <!-- page 6 -->
 
-Substitution
+<!-- marginal: Substitution -->
 
-15. The principal Act is amended by substituting for of section 55. section 55 the following: "Return or 55. (1) Where any goods have been'seized disposal of under this Act, a senior officer of excise may, at movable property. his discretion—
+15. The principal Act is amended by substituting for
+
+<!-- marginal: of section 55. -->
+
+section 55 the following:
+
+<!-- marginal: "Return or -->
+
+55. (1) Where any goods have been'seized
+
+<!-- marginal: disposal of -->
+
+under this Act, a senior officer of excise may, at
+
+<!-- marginal: movable -->
+
+<!-- marginal: property. -->
+
+his discretion—
 
 (a) temporarily return the goods to the owner thereof or to the person from whose possession, custody or control they were seized, or to such person as a senior officer of excise may consider entitled thereto, subject to such terms and conditions as such officer may impose, and subject, in any case, to sufficient security being furnished to the satisfaction of such officer that the goods shall be surrendered to him on demand being made by him and that the said terms and conditions, if any, shall be complied with; or
 
@@ -174,7 +286,55 @@ shall be guilty of an offence and shall, on conviction, be liable to imprisonmen
 
 <!-- page 8 -->
 
-(6) No person shall be entitled to maintain any action on account of any act done or any decision taken by or on behalf of the Minister or by or on behalf of a senior officer of excise under this section, and no court shall have any jurisdiction to entertain any such action.". New 16. The principal Act is amended by inserting, section 55A. immediately after section 55, the following new section 55A: "Production 55A. (1) In any proceedings in respect of any of a certifi- offence against this Act or any regulations made cate of an analyst, or thereunder in which the existence, description, a senior classification, composition, quantity, quality or officer of excise, or value of, or any other matter in relation to, any a person goods returned under paragraph (a) or (b) of authorized by the subsection (1) of section 55 or sold or destroyed Minister. under paragraph (c) of the said subsection, is in question, any document produced by the prosecutor purporting to be a certificate in respect of any such matter given and signed by—
+(6) No person shall be entitled to maintain any action on account of any act done or any decision taken by or on behalf of the Minister or by or on behalf of a senior officer of excise under this section, and no court shall have any jurisdiction to entertain any such action.".
+
+<!-- marginal: New -->
+
+16. The principal Act is amended by inserting,
+
+<!-- marginal: section 55A. -->
+
+immediately after section 55, the following new section
+
+<!-- marginal: 55A: -->
+
+<!-- marginal: "Production -->
+
+55A. (1) In any proceedings in respect of any
+
+<!-- marginal: of a certifi- -->
+
+offence against this Act or any regulations made
+
+<!-- marginal: cate of an -->
+
+<!-- marginal: analyst, or -->
+
+thereunder in which the existence, description,
+
+<!-- marginal: a senior -->
+
+classification, composition, quantity, quality or
+
+<!-- marginal: officer of -->
+
+<!-- marginal: excise, or -->
+
+value of, or any other matter in relation to, any
+
+<!-- marginal: a person -->
+
+goods returned under paragraph (a) or (b) of
+
+<!-- marginal: authorized -->
+
+<!-- marginal: by the -->
+
+subsection (1) of section 55 or sold or destroyed
+
+<!-- marginal: Minister. -->
+
+under paragraph (c) of the said subsection, is in question, any document produced by the prosecutor purporting to be a certificate in respect of any such matter given and signed by—
 
 (a) any analyst within the meaning of section 61 (5); or
 
@@ -246,9 +406,7 @@ person had been the defendant in a prosecution under this Act.".
 
 section 68 the following:
 
-"Goods or
-
-68. The Minister may, upon application made to amount him in writing through the Director General, forfeited may be order— delivered or refunded
+"Goods or 68. The Minister may, upon application made to amount him in writing through the Director General, forfeited may be order— delivered or refunded
 
 (a) any goods seized under this Act; or to the owner or other
 

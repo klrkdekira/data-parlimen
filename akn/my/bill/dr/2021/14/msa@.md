@@ -268,7 +268,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 15. Akta ibu dipinda dengan memasukkan selepas Bahagian VIa bahagian yang berikut:
 
-“bahagian VIaa
+## “BAHAGIAN VIAA
 
 ## TEKNOLOGI PENSTRIMAN
 

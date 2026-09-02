@@ -16,13 +16,33 @@
 
 ## THE MALAYSIAN ACCOUNTING STANDARDS BOARD
 
-3. Establishment of the Foundation. 4. Functions of the Foundation. 5. Members of the Foundation. 6. Meetings of the Foundation. 7. Establishment and functions of the Board. 8. Members of the Board. 9. Meetings of the Board. 10. Disqualification. 11. Remuneration. 12. Term of office. 13. Resignation and revocation of appointment. 14. Vacation of office. 15. Minister's directions. 16. Other powers and duties of the Foundation and Board. 17. Engagement of Technical Director and other persons. 18. Employment of officers and servants.
+3. Establishment of the Foundation. 4. Functions of the Foundation. 5. Members of the Foundation. 6. Meetings of the Foundation. 7. Establishment and functions of the Board. 8. Members of the Board. 9. Meetings of the Board.
+
+10. Disqualification.
+
+11. Remuneration.
+
+12. Term of office.
+
+13. Resignation and revocation of appointment.
+
+14. Vacation of office.
+
+15. Minister's directions.
+
+16. Other powers and duties of the Foundation and Board.
+
+17. Engagement of Technical Director and other persons.
+
+18. Employment of officers and servants.
 
 ## PART III
 
 ## FINANCE
 
-19. The Fund. 20. Expenditure charged on the Fund.
+19. The Fund.
+
+20. Expenditure charged on the Fund.
 
 <!-- page 2 -->
 
@@ -78,21 +98,37 @@ Act 1996.
 
 "Board" means the Malaysian Accounting Standards Board established under section 7;
 
-"Central Bank" means the Central Bank of Malaysia Act 519. established under the Central Bank of Malaysia Act 1958;
+"Central Bank" means the Central Bank of Malaysia
+
+<!-- marginal: Act 519. -->
+
+established under the Central Bank of Malaysia Act 1958;
 
 "Foundation" means the Financial Reporting Foundation established under section 3;
 
 "Fund" means the Fund established under subsection 19(1);
 
-"Malaysian Institute of Accountants" means the body Act 94. established under section 3 of the Accountants Act 1967;
+"Malaysian Institute of Accountants" means the body
+
+<!-- marginal: Act 94. -->
+
+established under section 3 of the Accountants Act 1967;
 
 "Minister" means the Minister for the time being charged with the responsibility for finance;
 
 "principal officer", in relation to a public listed company, means a person by whatever name called who is responsible for the conduct of the business and administration of the public listed company, and includes a non-executive chairman of the public listed company;
 
-"Registrar of Companies" means the Registrar of Act 125 Companies appointed under the Companies Act 1965;
+"Registrar of Companies" means the Registrar of
 
-"Securities Commission" means the Securities Act 498. Commission established under the Securities Commission Act 1993.
+<!-- marginal: Act 125 -->
+
+Companies appointed under the Companies Act 1965;
+
+"Securities Commission" means the Securities
+
+<!-- marginal: Act 498. -->
+
+Commission established under the Securities Commission Act 1993.
 
 ## PART II
 
@@ -100,9 +136,17 @@ Act 1996.
 
 ## MALAYSIAN ACCOUNTING STANDARDS BOARD
 
-Establish-
+<!-- marginal: Establish- -->
 
-3. There is hereby established a body corporate by the ment of the name of the "Financial Reporting Foundation" with Foundation perpetual succession and a common seal, which may sue and be sued in its name and, subject to and for the purposes of this Act, may enter into contracts and may acquire, purchase, take, hold and enjoy movable and immovable
+3. There is hereby established a body corporate by the
+
+<!-- marginal: ment of the -->
+
+name of the "Financial Reporting Foundation" with
+
+<!-- marginal: Foundation -->
+
+perpetual succession and a common seal, which may sue and be sued in its name and, subject to and for the purposes of this Act, may enter into contracts and may acquire, purchase, take, hold and enjoy movable and immovable
 
 <!-- page 5 -->
 
@@ -156,15 +200,33 @@ members who shall be appointed by the Minister:
 
 (2) The Minister shall appoint a Chairman of the Foundation from amongst the persons referred to in subsection (1).
 
-Meetings
+<!-- marginal: Meetings -->
 
-6. (1) The Chairman of the Foundation and eight other of the members shall form the quorum at all meetings of the Foundation. Foundation.
+6. (1) The Chairman of the Foundation and eight other
+
+<!-- marginal: of the -->
+
+members shall form the quorum at all meetings of the
+
+<!-- marginal: Foundation. -->
+
+Foundation.
 
 (2) The Foundation shall have power to determine the conduct of its proceedings.
 
-Establish-
+<!-- marginal: Establish- -->
 
-7. (1) There is hereby established a body by the name ment and of the "Malaysian Accounting Standards Board" whose functions of the Board. functions shall be—
+7. (1) There is hereby established a body by the name
+
+<!-- marginal: ment and -->
+
+of the "Malaysian Accounting Standards Board" whose
+
+<!-- marginal: functions of -->
+
+<!-- marginal: the Board. -->
+
+functions shall be—
 
 (a) to issue new accounting standards as approved accounting standards;
 
@@ -206,9 +268,13 @@ and may—
 
 (b) "associated corporation" means a corporation where not less than thirty per centum and not more than fifty per centum of that corporation's shares are held by another corporation, the first mentioned corporation thereby being an associated corporation of the other corporation.
 
-Members of
+<!-- marginal: Members of -->
 
-8. (1) Subject to subsection (2), the Board shall consist the Board. of the following members who shall be appointed by the Minister:
+8. (1) Subject to subsection (2), the Board shall consist
+
+<!-- marginal: the Board. -->
+
+of the following members who shall be appointed by the Minister:
 
 (a) a Chairman;
 
@@ -276,17 +342,35 @@ necessary for the performance of its functions.
 
 shall be disqualified from being appointed as a member of the Foundation or the Board, or if he is a member of the Foundation or the Board shall cease to be such a member.
 
-Remune-
+<!-- marginal: Remune- -->
 
-11. Members of the Foundation and the Board and ration. advisors to the Board shall not be entitled to any remuneration but may be paid such honorarium and travelling and subsistence allowances as the Minister may determine.
+11. Members of the Foundation and the Board and
 
-Term of
+<!-- marginal: ration. -->
 
-12. Subject to sections 10, 13 and 14, a member of office. the Foundation or the Board other than an ex-officio member shall hold office for a term not exceeding three years and shall be eligible for re-appointment for one successive term only.
+advisors to the Board shall not be entitled to any remuneration but may be paid such honorarium and travelling and subsistence allowances as the Minister may determine.
 
-Resignation
+<!-- marginal: Term of -->
 
-13. (1) A member of the Foundation or the Board may and revo- at any time resign his office by written notice addressed cation of to— appointment.
+12. Subject to sections 10, 13 and 14, a member of
+
+<!-- marginal: office. -->
+
+the Foundation or the Board other than an ex-officio member shall hold office for a term not exceeding three years and shall be eligible for re-appointment for one successive term only.
+
+<!-- marginal: Resignation -->
+
+13. (1) A member of the Foundation or the Board may
+
+<!-- marginal: and revo- -->
+
+at any time resign his office by written notice addressed
+
+<!-- marginal: cation of -->
+
+to—
+
+<!-- marginal: appointment. -->
 
 (a) the Minister, in the case of the Chairman; or
 
@@ -294,9 +378,13 @@ Resignation
 
 (2) The Minister may at any time revoke, without assigning any reason therefor, the appointment of a member of the Foundation or the Board if he thinks it is expedient to do so.
 
-Vacation
+<!-- marginal: Vacation -->
 
-14. (1) A member of the Foundation or the Board ceases of office. to hold office upon his death.
+14. (1) A member of the Foundation or the Board ceases
+
+<!-- marginal: of office. -->
+
+to hold office upon his death.
 
 (2) A member of the Foundation or the Board shall be deemed to have vacated his office upon his failure to attend three consecutive meetings of the Foundation or the Board without leave of—
 
@@ -304,9 +392,13 @@ Vacation
 
 (b) the Chairman, in the case of any other member.
 
-Minister's
+<!-- marginal: Minister's -->
 
-15. (1) The Minister may give to the Foundation or the directions. Board directions of a general nature which are consistent with the provisions of this Act as to the performance of
+15. (1) The Minister may give to the Foundation or the
+
+<!-- marginal: directions. -->
+
+Board directions of a general nature which are consistent with the provisions of this Act as to the performance of
 
 <!-- page 11 -->
 
@@ -372,7 +464,7 @@ III
 
 ## FINANCE
 
-The Fund.
+<!-- marginal: The Fund. -->
 
 19. (1) There is hereby established, for the purposes of this Act, a fund to be administered by the Foundation.
 
@@ -396,9 +488,13 @@ The Fund.
 
 (4) Any delegation under subsection (3) shall not prevent the concurrent performance by the Foundation of the Foundation's function so delegated.
 
-Expenditure
+<!-- marginal: Expenditure -->
 
-20. The Fund shall be expended for the purpose of— charged on the Fund.
+20. The Fund shall be expended for the purpose of—
+
+<!-- marginal: charged on -->
+
+<!-- marginal: the Fund. -->
 
 (a) paying any expenditure lawfully incurred by the Foundation or the Board including fees and costs, legal or otherwise, and the remuneration of officers and servants employed by the Foundation, including the granting of loans, superannuation allowances or gratuities;
 
@@ -444,25 +540,53 @@ the end of each financial year, prepare a report on the activities of both the F
 
 (3) The Foundation shall as soon as practicable send a copy of the audited statement of accounts together with a copy of the auditor's report thereon to the Minister who shall cause a copy thereof to be laid before both Houses of Parliament.
 
-Non-
+<!-- marginal: Non- -->
 
-25. The Statutory Bodies (Accounts and Annual Reports) application Act 1980 shall not apply to the Foundation. of Act 240.
+25. The Statutory Bodies (Accounts and Annual Reports)
 
-Power to
+<!-- marginal: application -->
 
-26. The Foundation may from time to time, with the borrow approval of the Minister, borrow, at such rate of interest and for such period and upon such terms as to the time and method of repayment and otherwise as the Minister may approve, any sums required by the Foundation for meeting any of its or the Board's obligations or performing any of its or the Board's functions.
+Act 1980 shall not apply to the Foundation.
+
+<!-- marginal: of Act 240. -->
+
+<!-- marginal: Power to -->
+
+26. The Foundation may from time to time, with the
+
+<!-- marginal: borrow -->
+
+approval of the Minister, borrow, at such rate of interest and for such period and upon such terms as to the time and method of repayment and otherwise as the Minister may approve, any sums required by the Foundation for meeting any of its or the Board's obligations or performing any of its or the Board's functions.
 
 ## PART IV
 
 ## GENERAL
 
-Compliance
+<!-- marginal: Compliance -->
 
-27. Where financial statements are required to be prepared with or lodged under any law administered by the Securities approved accounting Commission, the Central Bank or the Registrar of standards. Companies, and approved accounting standards have been issued or adopted by the Board under subsection 7(1), such financial statements shall be deemed not to have complied with the requirement of such law unless they have been prepared and are kept in accordance with the approved accounting standards.
+27. Where financial statements are required to be prepared
 
-Confiden-
+<!-- marginal: with -->
 
-28. Except for any of the purposes of this Act or for tiality. the purpose of any civil or criminal proceedings under any written law or for the purpose of assisting any authority or agency in the performance or exercise of its functions or power under any written law in Malaysia, the Foundation and the Board shall take all reasonable measures to protect from unauthorised use or disclosure any information given to the Foundation or the Board in confidence.
+or lodged under any law administered by the Securities
+
+<!-- marginal: approved -->
+
+<!-- marginal: accounting -->
+
+Commission, the Central Bank or the Registrar of
+
+<!-- marginal: standards. -->
+
+Companies, and approved accounting standards have been issued or adopted by the Board under subsection 7(1), such financial statements shall be deemed not to have complied with the requirement of such law unless they have been prepared and are kept in accordance with the approved accounting standards.
+
+<!-- marginal: Confiden- -->
+
+28. Except for any of the purposes of this Act or for
+
+<!-- marginal: tiality. -->
+
+the purpose of any civil or criminal proceedings under any written law or for the purpose of assisting any authority or agency in the performance or exercise of its functions or power under any written law in Malaysia, the Foundation and the Board shall take all reasonable measures to protect from unauthorised use or disclosure any information given to the Foundation or the Board in confidence.
 
 <!-- page 15 -->
 
@@ -496,9 +620,7 @@ Clause 26 seeks to empower the Foundation to borrow for the purpose of meeting a
 
 <!-- page 16 -->
 
-## Part IV also contains provisions which seek to ensure that the
-
-Foundation and the Board take all reasonable measures to prevent unauthorised use or disclosure of information given to the Foundation or the Board in confidence and provisions which seek to confer upon the Minister the power to make regulations.
+Part IV also contains provisions which seek to ensure that the Foundation and the Board take all reasonable measures to prevent unauthorised use or disclosure of information given to the Foundation or the Board in confidence and provisions which seek to confer upon the Minister the power to make regulations.
 
 ## FINANCIAL
 

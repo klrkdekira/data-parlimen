@@ -20,7 +20,17 @@
 
 ## PERMULAAN
 
-1. Tajuk ringkas, permulaan kuat kuasa dan pemakaian 2. Tafsiran 3. Orang bersekutu 4. Kepentingan dalam sekuriti 5. Penetapan sekuriti dan kontrak niaga hadapan 6. Kesan apabila perjanjian menjadi kontrak niaga hadapan
+1. Tajuk ringkas, permulaan kuat kuasa dan pemakaian
+
+2. Tafsiran
+
+3. Orang bersekutu
+
+4. Kepentingan dalam sekuriti
+
+5. Penetapan sekuriti dan kontrak niaga hadapan
+
+6. Kesan apabila perjanjian menjadi kontrak niaga hadapan
 
 ## BAHAGIAN II
 
@@ -34,7 +44,11 @@ Penggal 2
 
 Institusi pasaran Subpenggal 1 - Bursa dan syarikat pemegangan bursa
 
-8. Kuasa Menteri untuk meluluskan bursa saham atau bursa niaga hadapan 9. Suruhanjaya hendaklah meluluskan pindaan kepada kaedah-kaedah bursa saham, bursa niaga hadapan atau pusat penjelasan diluluskan 10. Pelantikan pengarah syarikat pemegangan bursa, bursa saham dan bursa niaga hadapan
+8. Kuasa Menteri untuk meluluskan bursa saham atau bursa niaga hadapan
+
+9. Suruhanjaya hendaklah meluluskan pindaan kepada kaedah-kaedah bursa saham, bursa niaga hadapan atau pusat penjelasan diluluskan
+
+10. Pelantikan pengarah syarikat pemegangan bursa, bursa saham dan bursa niaga hadapan
 
 <!-- page 3 -->
 
@@ -84,9 +98,7 @@ Subpenggal 2 — Syarikat pemegangan bursa
 
 Subpenggal 3 — Am
 
-32. Penyiaran notis penggantungan perdagangan atau penutupan
-
-33. Hak bursa saham, bursa niaga hadapan atau pusat penjelasan diluluskan tidak tersentuh oleh undang-undang yang berhubungan dengan kontrak
+32. Penyiaran notis penggantungan perdagangan atau penutupan 33. Hak bursa saham, bursa niaga hadapan atau pusat penjelasan diluluskan tidak tersentuh oleh undang-undang yang berhubungan dengan kontrak
 
 <!-- page 4 -->
 
@@ -214,15 +226,35 @@ Penjalanan urusan
 
 Subpenggal I - Am
 
-89. Representasi tertentu dilarang 90. Pengeluaran nota kontrak 91. Penzahiran kepentingan tertentu dalam sekuriti 92. Syor oleh orang berlesen 93. Keutamaan diberikan kepada pesanan klien 94. Perniagaan oleh pekerja pemegang lesen atau organisasi peserta 95. Kewajipan untuk memberi Suruhanjaya apa-apa penyata dan maklumat yang dikehendaki oleh Suruhanjaya 96. Obligasi tambahan ke atas orang berlesen
+89. Representasi tertentu dilarang
+
+90. Pengeluaran nota kontrak
+
+91. Penzahiran kepentingan tertentu dalam sekuriti
+
+92. Syor oleh orang berlesen
+
+93. Keutamaan diberikan kepada pesanan klien
+
+94. Perniagaan oleh pekerja pemegang lesen atau organisasi peserta
+
+95. Kewajipan untuk memberi Suruhanjaya apa-apa penyata dan maklumat yang dikehendaki oleh Suruhanjaya
+
+96. Obligasi tambahan ke atas orang berlesen
 
 Subpenggal 2 - Sekuriti
 
-97. Berurusan sebagai prinsipal 98. Penjualan pendek
+97. Berurusan sebagai prinsipal
+
+98. Penjualan pendek
 
 Subpenggal 3 - Kontrak niaga hadapan
 
-99. Perdagangan dalam kontrak niaga hadapan atas akaun sendiri 100. Dokumen hendaklah diberikan kepada bakal klien 101. Had dagangan dalam kontrak niaga hadapan
+99. Perdagangan dalam kontrak niaga hadapan atas akaun sendiri
+
+100. Dokumen hendaklah diberikan kepada bakal klien
+
+101. Had dagangan dalam kontrak niaga hadapan
 
 <!-- page 7 -->
 
@@ -274,7 +306,17 @@ Subpenggal 3 - Perlakuan terhadap aset klien berkenaan kontrak niaga hadapan
 
 <!-- page 8 -->
 
-Subpenggal 4 — Perlakuan terhadap aset klien berkenaan dengan pengurusan kumpulan wang 120. Pemakaian Subpenggal ini 121. Tafsiran 122. Pengendalian akaun amanah 123. Aset klien 124. Hak kepada salinan kemasukan buku, memeriksa nota kontrak, dsb.
+Subpenggal 4 — Perlakuan terhadap aset klien berkenaan dengan pengurusan kumpulan wang
+
+120. Pemakaian Subpenggal ini
+
+121. Tafsiran
+
+122. Pengendalian akaun amanah
+
+123. Aset klien
+
+124. Hak kepada salinan kemasukan buku, memeriksa nota kontrak, dsb.
 
 Subpenggal 5 — Bidang tindakan yang boleh diambil oleh Suruhanjaya untuk melindungi klien orang berlesen dalam hal keadaan tertentu
 
@@ -282,7 +324,27 @@ Subpenggal 5 — Bidang tindakan yang boleh diambil oleh Suruhanjaya untuk melin
 
 Subpenggal 6 — Audit
 
-126. Pelantikan juruaudit 127. Orang yang berkaitan hendaklah menyerah simpan laporan juruaudit 128. Kewajipan juruaudit 129. Kewajipan orang yang berkaitan atau pengarah atau pegawainya untuk memberikan maklumat 130. Kuasa Suruhanjaya untuk melantik juruaudit bebas, dsb. 131. Kuasa Suruhanjaya untuk melantik juruaudit bebas, dsb., atas permohonan 132. Juruaudit bebas, dsb., hendaklah melaporkan kepada Suruhanjaya 133. Kuasa juruaudit bebas yang dilantik oleh Suruhanjaya 134. Larangan terhadap pemberitahuan perkara tertentu oleh juruaudit bebas, dsb., dan pekerja 135. Buku, akaun dan rekod hendaklah dikemukakan apabila diminta 136. Penalti kerana membinasakan, menyembunyikan atau mengubah buku atau menghantar buku atau harta ke luar Malaysia
+126. Pelantikan juruaudit
+
+127. Orang yang berkaitan hendaklah menyerah simpan laporan juruaudit
+
+128. Kewajipan juruaudit
+
+129. Kewajipan orang yang berkaitan atau pengarah atau pegawainya untuk memberikan maklumat
+
+130. Kuasa Suruhanjaya untuk melantik juruaudit bebas, dsb.
+
+131. Kuasa Suruhanjaya untuk melantik juruaudit bebas, dsb., atas permohonan
+
+132. Juruaudit bebas, dsb., hendaklah melaporkan kepada Suruhanjaya
+
+133. Kuasa juruaudit bebas yang dilantik oleh Suruhanjaya
+
+134. Larangan terhadap pemberitahuan perkara tertentu oleh juruaudit bebas, dsb., dan pekerja
+
+135. Buku, akaun dan rekod hendaklah dikemukakan apabila diminta
+
+136. Penalti kerana membinasakan, menyembunyikan atau mengubah buku atau menghantar buku atau harta ke luar Malaysia
 
 137. Hak bursa saham untuk mengenakan obligasi
 
@@ -302,13 +364,51 @@ Peletakhakan
 
 Penggal 1 Tabung pampasan
 
-140. Tafsiran 141. Penubuhan tabung pampasan 142. Wang yang menjadi tabung pampasan 143. Tabung pampasan hendaklah disimpan dalam akaun berasingan 144. Pembayaran daripada tabung pampasan 145. Akaun tabung pampasan 146. Bursa saham yang berkaitan dikehendaki membayar sebahagian daripada pendapatan bersih ke dalam tabung pampasan 147. Caruman kepada tabung pampasan 148. Peruntukan jika tabung pampasan melebihi lima puluh juta ringgit 149. Levi sebagai tambahan kepada caruman tahunan 150. Kuasa bursa saham yang berkaitan untuk membuat pendahuluan kepada tabung pampasan 151. Pelaburan wang dalam tabung pampasan 152. Penggunaan tabung pampasan 153. Kuasa bursa saham yang berkaitan untuk menghendaki pengemukaan dokumen 154. Pensubrogasian bursa saham yang berkaitan mengenai hak dan remedi pihak menuntut apabila pembayaran dibuat daripada tabung pampasan 155. Pembayaran tuntutan hanya daripada tabung pampasan 156. Kuasa bursa saham yang berkaitan untuk membuat kontrak insurans 157. Penggunaan wang insurans 158. Wang dalam tabung pampasan apabila bursa saham yang berkaitan digulung
+140. Tafsiran
+
+141. Penubuhan tabung pampasan
+
+142. Wang yang menjadi tabung pampasan
+
+143. Tabung pampasan hendaklah disimpan dalam akaun berasingan
+
+144. Pembayaran daripada tabung pampasan
+
+145. Akaun tabung pampasan
+
+146. Bursa saham yang berkaitan dikehendaki membayar sebahagian daripada pendapatan bersih ke dalam tabung pampasan
+
+147. Caruman kepada tabung pampasan
+
+148. Peruntukan jika tabung pampasan melebihi lima puluh juta ringgit
+
+149. Levi sebagai tambahan kepada caruman tahunan
+
+150. Kuasa bursa saham yang berkaitan untuk membuat pendahuluan kepada tabung pampasan
+
+151. Pelaburan wang dalam tabung pampasan
+
+152. Penggunaan tabung pampasan
+
+153. Kuasa bursa saham yang berkaitan untuk menghendaki pengemukaan dokumen
+
+154. Pensubrogasian bursa saham yang berkaitan mengenai hak dan remedi pihak menuntut apabila pembayaran dibuat daripada tabung pampasan
+
+155. Pembayaran tuntutan hanya daripada tabung pampasan
+
+156. Kuasa bursa saham yang berkaitan untuk membuat kontrak insurans
+
+157. Penggunaan wang insurans
+
+158. Wang dalam tabung pampasan apabila bursa saham yang berkaitan digulung
 
 Penggal 2
 
 Tabung kesetiaan
 
-159. Penubuhan tabung kesetiaan 160. Wang yang menjadi tabung kesetiaan
+159. Penubuhan tabung kesetiaan
+
+160. Wang yang menjadi tabung kesetiaan
 
 <!-- page 10 -->
 
@@ -696,13 +796,59 @@ Penggal 6 Sekuriti Islam
 
 ## ORGANISASI PENGAWALSELIAAN SENDIRI
 
-322. Tafsiran 323. Pengiktirafan organisasi pengawalseliaan sendiri 324. Kewajipan organisasi pengawalseliaan sendiri 325. Kaedah-kaedah organisasi pengawalseliaan sendiri yang diiktiraf 326. Pelantikan pengarah organisasi pengawalseliaan sendiri yang diiktiraf 327. Kuasa untuk mengeluarkan arahan ke atas organisasi pengawalseliaan sendiri yang diiktiraf 328. Penarikan balik pengiktirafan 329. Perlindungan bagi organisasi pengawalseliaan sendiri yang diiktiraf 330. Akaun dan laporan berkenaan dengan organisasi pengawalseliaan sendiri yang diiktiraf 331. Pemberian bantuan kepada Suruhanjaya
+322. Tafsiran
+
+323. Pengiktirafan organisasi pengawalseliaan sendiri
+
+324. Kewajipan organisasi pengawalseliaan sendiri
+
+325. Kaedah-kaedah organisasi pengawalseliaan sendiri yang diiktiraf
+
+326. Pelantikan pengarah organisasi pengawalseliaan sendiri yang diiktiraf
+
+327. Kuasa untuk mengeluarkan arahan ke atas organisasi pengawalseliaan sendiri yang diiktiraf
+
+328. Penarikan balik pengiktirafan
+
+329. Perlindungan bagi organisasi pengawalseliaan sendiri yang diiktiraf
+
+330. Akaun dan laporan berkenaan dengan organisasi pengawalseliaan sendiri yang diiktiraf
+
+331. Pemberian bantuan kepada Suruhanjaya
 
 ## BAHAGIAN IX
 
 ## DANA PEMBANGUNAN PASARAN MODAL
 
-332. Penubuhan Dana Pembangunan Pasaran Modal 333. Aset yang membentuk Dana 334. Matlamat Dana, dsb. 335. Keanggotaan Lembaga 336. Tempoh jawatan 337. Peletakan jawatan dan pembatalan pelantikan 338. Pengosongan jawatan 339. Kuorum dan tatacara mesyuarat 340. Penzahiran kepentingan 341. Pemeliharaan Dana 342. Tahun kewangan 343. Akaun dan audit 344. Kuasa Menteri berhubung dengan Lembaga 345. Pembubaran Dana 346. Kuasa untuk membuat peraturan-peraturan
+332. Penubuhan Dana Pembangunan Pasaran Modal
+
+333. Aset yang membentuk Dana
+
+334. Matlamat Dana, dsb.
+
+335. Keanggotaan Lembaga
+
+336. Tempoh jawatan
+
+337. Peletakan jawatan dan pembatalan pelantikan
+
+338. Pengosongan jawatan
+
+339. Kuorum dan tatacara mesyuarat
+
+340. Penzahiran kepentingan
+
+341. Pemeliharaan Dana
+
+342. Tahun kewangan
+
+343. Akaun dan audit
+
+344. Kuasa Menteri berhubung dengan Lembaga
+
+345. Pembubaran Dana
+
+346. Kuasa untuk membuat peraturan-peraturan
 
 <!-- page 18 -->
 
@@ -712,7 +858,9 @@ Penggal 6 Sekuriti Islam
 
 Penggal 1
 
-Pemakaian Fasal 347. Pemakaian Bahagian ini
+Pemakaian Fasal
+
+347. Pemakaian Bahagian ini
 
 Penggal 2
 
@@ -720,25 +868,93 @@ Penzahiran maklumat
 
 348. Kuasa Suruhanjaya untuk menghendaki pengemukaan buku
 
-349. Kesalahan 350. Kuasa untuk menentukan bentuk dan cara pengemukaan 351. Perlindungan 352. Penzahiran kepada Suruhanjaya 353. Penzahiran maklumat yang berhubungan dengan berniaga dalam sekuriti atau berdagang dalam kontrak niaga hadapan
+349. Kesalahan
+
+350. Kuasa untuk menentukan bentuk dan cara pengemukaan
+
+351. Perlindungan
+
+352. Penzahiran kepada Suruhanjaya
+
+353. Penzahiran maklumat yang berhubungan dengan berniaga dalam sekuriti atau berdagang dalam kontrak niaga hadapan
 
 ## BAHAGIAN XI
 
 ## TINDAKAN PENTADBIRAN DAN SIVIL
 
-354. Kuasa Suruhanjaya untuk mengambil tindakan 355. Kuasa Suruhanjaya untuk mengambil tindakan terhadap bursa niaga hadapan, pusat penjelasan diluluskan, dsb., kerana tidak mematuhi kaedah-kaedah, peraturan-peraturan, dsb. 356. Kuasa berkenaan dengan pematuhan syarat lesen, dsb., oleh orang berlesen 357. Tanggungan sivil orang yang melanggar undang-undang sekuriti 358. Suruhanjaya boleh mendapatkan kehilangan atau kerugian 359. Sebutan mengenai perlakuan 360. Kuasa mahkamah untuk membuat perintah tertentu 361. Permohonan untuk penggulungan
+354. Kuasa Suruhanjaya untuk mengambil tindakan
+
+355. Kuasa Suruhanjaya untuk mengambil tindakan terhadap bursa niaga hadapan, pusat penjelasan diluluskan, dsb., kerana tidak mematuhi kaedah-kaedah, peraturan-peraturan, dsb.
+
+356. Kuasa berkenaan dengan pematuhan syarat lesen, dsb., oleh orang berlesen
+
+357. Tanggungan sivil orang yang melanggar undang-undang sekuriti
+
+358. Suruhanjaya boleh mendapatkan kehilangan atau kerugian
+
+359. Sebutan mengenai perlakuan
+
+360. Kuasa mahkamah untuk membuat perintah tertentu
+
+361. Permohonan untuk penggulungan
 
 <!-- page 19 -->
 
 ## BAHAGIAN XII
 
-AM 362. Larangan tentang penggunaan gelaran tertentu 363. Salinan buku sebagai keterangan prima facie 364. Permohonan kajian semula oleh orang yang terkilan 365. Masa bagi permohonan untuk kajian semula 366. Keputusan Menteri adalah muktamad 367. Kesalahan oleh kumpulan orang dan oleh pekerja dan ejen 368. Pemalsuan rekod 369. Laporan palsu kepada Suruhanjaya, bursa atau pusat penjelasan diluluskan 370. Percubaan, persubahatan dan komplot 371. Pemusnahan, penyembunyian, pencacatan dan pengubahan rekod 372. Penalti am 373. Pengkompaunan kesalahan 374. Orang disabitkan bertanggungan membayar pampasan 375. Penjalanan pendakwaan 376. Tanggung rugi 377. Garis panduan dan nota amalan Suruhanjaya 378. Kuasa untuk membuat peraturan-peraturan 379. Penyelesaian pertikaian 380. Kuasa untuk meminda Jadual
+AM
+
+362. Larangan tentang penggunaan gelaran tertentu
+
+363. Salinan buku sebagai keterangan prima facie
+
+364. Permohonan kajian semula oleh orang yang terkilan
+
+365. Masa bagi permohonan untuk kajian semula
+
+366. Keputusan Menteri adalah muktamad
+
+367. Kesalahan oleh kumpulan orang dan oleh pekerja dan ejen
+
+368. Pemalsuan rekod
+
+369. Laporan palsu kepada Suruhanjaya, bursa atau pusat penjelasan diluluskan
+
+370. Percubaan, persubahatan dan komplot
+
+371. Pemusnahan, penyembunyian, pencacatan dan pengubahan rekod
+
+372. Penalti am
+
+373. Pengkompaunan kesalahan
+
+374. Orang disabitkan bertanggungan membayar pampasan
+
+375. Penjalanan pendakwaan
+
+376. Tanggung rugi
+
+377. Garis panduan dan nota amalan Suruhanjaya
+
+378. Kuasa untuk membuat peraturan-peraturan
+
+379. Penyelesaian pertikaian
+
+380. Kuasa untuk meminda Jadual
 
 ## BAHAGIAN XIII
 
 ## PERUNTUKAN PEMANSUHAN, KECUALIAN DAN PERALIHAN
 
-381. Pemansuhan Akta Perindustrian Sekuriti 1983 dan Akta Perindustrian Niaga Hadapan 1993 dan kecualian dan peralihan berkenaan dengannya 382. Syarikat pemegangan bursa, bursa dan pusat penjelasan diluluskan disifatkan telah diluluskan 383. Kemudahan elektronik disifatkan berdaftar 384. Kecualian berkenaan dengan lesen yang dikeluarkan di bawah Akta termansuh 385. Permohonan lesen yang belum selesai
+381. Pemansuhan Akta Perindustrian Sekuriti 1983 dan Akta Perindustrian Niaga Hadapan 1993 dan kecualian dan peralihan berkenaan dengannya
+
+382. Syarikat pemegangan bursa, bursa dan pusat penjelasan diluluskan disifatkan telah diluluskan
+
+383. Kemudahan elektronik disifatkan berdaftar
+
+384. Kecualian berkenaan dengan lesen yang dikeluarkan di bawah Akta termansuh
+
+385. Permohonan lesen yang belum selesai
 
 <!-- page 20 -->
 
@@ -904,19 +1120,11 @@ yang mengawal keanggotaan, pengurusan, pengendalian atau tatacara bursa saham it
 
 (iii) kaedah-kaedah untuk memastikan pematuhan oleh organisasi peserta mengenai mana-mana obligasi yang dikenakan oleh Akta ini atau mana-mana undang-undang bertulis lain; dan
 
-(iv) kaedah-kaedah berkenaan dengan perkara lain yang perlu atau wajar bagi pengendalian dan pengurusan yang sepatutnya dan cekap bursa saham
-
-<!-- marginal: itu, -->
-
-termasuk kaedah-kaedah yang menetapkan fi dan caj;
+(iv) kaedah-kaedah berkenaan dengan perkara lain yang perlu atau wajar bagi pengendalian dan pengurusan yang sepatutnya dan cekap bursa saham itu, termasuk kaedah-kaedah yang menetapkan fi dan caj;
 
 (b) suatu pusat penjelasan diluluskan, ertinya memorandum persatuan dan perkara persatuan, atau kaedah-kaedah atau arahan, dengan apa jua nama disebut dan di mana-mana jua terkandung, yang mengawal keanggotaan, pengurusan, pengendalian atau prosedur pusat penjelasan yang diluluskan itu dan, tanpa mengehadkan keluasan makna yang terdahulu, termasuklah kaedah-kaedah dan arahan yang berhubungan dengan —
 
-(i) penyediaan perkhidmatan penjelasan
-
-<!-- marginal: dan -->
-
-penyelesaian, dan penggantungan atau penarikan balik perkhidmatan itu;
+(i) penyediaan perkhidmatan penjelasan dan penyelesaian, dan penggantungan atau penarikan balik perkhidmatan itu;
 
 (ii) penyediaan perkhidmatan selain perkhidmatan yang disebut dalam subperenggan (i);
 
@@ -970,7 +1178,9 @@ kedudukan panjang" —
 
 <!-- marginal: tidak -->
 
-diperbadankan atau mana-mana orang lain
+diperbadankan atau mana-mana orang
+
+<!-- marginal: lain -->
 
 <!-- marginal: atau -->
 
@@ -1126,11 +1336,7 @@ pihak yang lain, yang boleh dijalankan pada atau sebelum masa yang dinyatakan �
 
 (b) tawaran atau pelawaan yang bermaksud, atau semunasabahnya dijangka, menyebabkan, sama ada secara langsung atau tidak langsung, dalam membuat atau menyetuju terima tawaran untuk menjual, membeli atau membuat pertukaran sekuriti lazimnya dibuat; atau
 
-(c) maklumat mengenai harga atau balasan, yang baginya, orang tertentu, atau kelas orang tertentu, bercadang, atau boleh dengan munasabahnya dijangkakan akan menjual, membeli atau membuat pertukaran sekuriti
-
-<!-- marginal: lazimnya -->
-
-disediakan;
+(c) maklumat mengenai harga atau balasan, yang baginya, orang tertentu, atau kelas orang tertentu, bercadang, atau boleh dengan munasabahnya dijangkakan akan menjual, membeli atau membuat pertukaran sekuriti lazimnya disediakan;
 
 "pasaran saham terkecuali" ertinya pasaran saham yang diisytiharkan sebagai pasaran saham terkecuali di bawah perenggan l(3)(a);
 
@@ -2086,11 +2292,7 @@ dan syarikat pemegangan bursa itu hendaklah mematuhi kehendak itu.
 
 <!-- page 72 -->
 
-(iii) bahawa terdapat perniagaan sekuriti yang teratur untuk perniagaan sekuriti yang didepositkan atau diserah simpan di suatu depositori pusat melalui kemudahan depositori pusat suatu
-
-<!-- marginal: syarikat -->
-
-pemegangan bursa atau melalui kemudahan mana- mana anak syarikatnya yang telah diluluskan dengan sewajarnya sebagai suatu depositori pusat, mengikut mana-mana yang berkenaan;
+(iii) bahawa terdapat perniagaan sekuriti yang teratur untuk perniagaan sekuriti yang didepositkan atau diserah simpan di suatu depositori pusat melalui kemudahan depositori pusat suatu syarikat pemegangan bursa atau melalui kemudahan mana- mana anak syarikatnya yang telah diluluskan dengan sewajarnya sebagai suatu depositori pusat, mengikut mana-mana yang berkenaan;
 
 (i v) bahawa terdapat perkiraan penjelasan dan penyelesaian yang teratur, jelas dan cekap bagi apa-apa transaksi sekuriti yang dijelaskan atau diselesaikan melalui kemudahan pusat penjelasan bagi pasaran saham suatu bursa saham atau melalui kemudahan mana- mana anak syarikat suatu syarikat pemegangan bursa yang merupakan pusat penjelasan diluluskan, mengikut mana-mana yang berkenaan; dan
 
@@ -2112,11 +2314,7 @@ pemegangan bursa atau melalui kemudahan mana- mana anak syarikatnya yang telah d
 
 (a) apa-apa perkara yang menjejaskan atau yang berkemungkinan menjejaskan —
 
-(i) kemampuan syarikat pemegangan bursa itu untuk menunaikan obligasinya berkenaan
-
-<!-- marginal: dengan -->
-
-urusannya sebagai suatu syarikat pemegangan bursa, bursa saham, bursa niaga hadapan, pusat penjelasan diluluskan atau depositori pusat, mengikut mana-mana yang berkenaan, termasuk kemampuannya untuk mematuhi apa-apa kehendak sebagaimana yang ditentukan oleh Suruhanjaya, jika berkenaan; atau
+(i) kemampuan syarikat pemegangan bursa itu untuk menunaikan obligasinya berkenaan dengan urusannya sebagai suatu syarikat pemegangan bursa, bursa saham, bursa niaga hadapan, pusat penjelasan diluluskan atau depositori pusat, mengikut mana-mana yang berkenaan, termasuk kemampuannya untuk mematuhi apa-apa kehendak sebagaimana yang ditentukan oleh Suruhanjaya, jika berkenaan; atau
 
 (ii) kemampuan mana-mana anak syarikat syarikat pemegangan bursa itu untuk menunaikan obligasinya berkenaan dengan urusannya sebagai bursa saham, bursa niaga hadapan, pusat penjelasan diluluskan atau depositori pusat, mengikut mana-mana yang berkenaan, termasuk kemampuan mana-mana anak syarikat itu untuk mematuhi apa-apa kehendak yang ditentukan oleh Suruhanjaya, jika terpakai;
 
@@ -2230,7 +2428,9 @@ yang menyatakan sebab bagi menyokong alasan notis itu dan mengarahkan mana-mana 
 
 (3) Menteri hendaklah menentukan alasan bagi penutupan itu dalam arahan yang diberikan di bawah subseksyen (1) dan alasan bagi apa-apa pelanjutan penutupan di bawah subseksyen (2).
 
-(4) Menteri hendaklah, secepat yang dapat dilaksanakan, memberi pusat penjelasan diluluskan suatu salinan arahan di bawah subseksyen (1) atau pelanjutan di bawah subseksyen (2) dan mengarahkan pusat penjelasan diluluskan itu supaya melakukan segala yang semunasabahnya dapat dilakukan untuk memberi kesan kepada arahan di bawah subseksyen (1) atau pelanjutan di bawah subseksyen (2) semasa arahan atau pelanjutan itu terus berkuat kuasa.
+(4) Menteri hendaklah, secepat yang dapat dilaksanakan, memberi pusat penjelasan diluluskan suatu salinan arahan di bawah subseksyen (1) atau pelanjutan di bawah subseksyen (2) dan mengarahkan pusat penjelasan diluluskan itu supaya melakukan segala yang semunasabahnya dapat dilakukan untuk memberi kesan kepada arahan di bawah subseksyen (1) atau pelanjutan di bawah subseksyen
+
+(2) semasa arahan atau pelanjutan itu terus berkuat kuasa.
 
 (5) Dalam seksyen ini —
 
@@ -2372,9 +2572,7 @@ di bawah perenggan 1(a) kepada suatu bursa saham, bursa niaga hadapan, pusat pen
 
 (d) kecuali dalam pelikuidasian, melarang pembayaran apa-apa jumlah wang yang kena dibayar oleh suatu syarikat pemegangan bursa atas syer itu, sama ada berkenaan dengan modal atau selainnya.
 
-(2) Suatu perintah permulaan yang dibuat di bawah subseksyen
-
-(1) hendaklah disampaikan kepada orang yang ingkar secepat yang dapat dilaksanakan, dan boleh disiarkan mengikut apa-apa cara sebagaimana yang difikirkan patut oleh Suruhanjaya, jika, pada pendapat Suruhanjaya, perintah itu perlu disiarkan.
+(2) Suatu perintah permulaan yang dibuat di bawah subseksyen (1) hendaklah disampaikan kepada orang yang ingkar secepat yang dapat dilaksanakan, dan boleh disiarkan mengikut apa-apa cara sebagaimana yang difikirkan patut oleh Suruhanjaya, jika, pada pendapat Suruhanjaya, perintah itu perlu disiarkan.
 
 (3) Suatu perintah permulaan hendaklah mengikat orang yang ingkar, mana-mana orang yang pada masa ini memegang syer mengundi yang baginya perintah itu terpakai, dan mana-mana orang lain yang ditentukan dalam perintah itu atau yang kepadanya perintah itu diarahkan.
 
@@ -2598,7 +2796,9 @@ menghentikan penyediaan atau pengendalian, atau menghentikan untuk menyediakan k
 
 (b) melindungi pelabur atau demi kepentingan awam.
 
-(5) Jika Suruhanjaya telah memberikan kebenaran kepada orang yang diluluskan untuk menyediakan kemudahan penjelasan di bawah subseksyen (4), orang itu tidak boleh, atas sebab dia menjalankan aktiviti mengikut kebenaran itu, dianggap telah melanggar seksyen 37.
+(5) Jika Suruhanjaya telah memberikan kebenaran kepada orang yang diluluskan untuk menyediakan kemudahan penjelasan di bawah subseksyen (4), orang itu tidak boleh, atas sebab dia menjalankan aktiviti mengikut kebenaran itu, dianggap telah melanggar seksyen
+
+37.
 
 (6) Suruhanjaya tidak boleh mengambil apa-apa tindakan di bawah subseksyen (1) tanpa memberi orang itu peluang untuk didengar.
 
@@ -3088,7 +3288,11 @@ hendaklah—
 
 <!-- page 113 -->
 
-(3) Jika syarat atau sekatan yang dicadangkan untuk dikenakan berkemungkinan menjejaskan kepentingan orang berlesen, Suruhanjaya hendaklah memberi kepada orang berlesen itu peluang untuk didengar.
+(3) Jika syarat atau sekatan yang dicadangkan untuk dikenakan berkemungkinan menjejaskan kepentingan orang
+
+<!-- marginal: berlesen, -->
+
+Suruhanjaya hendaklah memberi kepada orang berlesen itu peluang untuk didengar.
 
 ### Fi lesen
 
@@ -3128,19 +3332,11 @@ hendaklah—
 
 (iv) telah melibatkan diri dalam apa-apa amalan urusan yang ternyata pada Suruhanjaya sebagai memperdaya atau menindas atau selainnya tidak wajar (sama ada menyalahi undang-undang atau tidak) atau yang selainnya mencerminkan kesangsian mengenai kaedah ia atau dia menjalankan urusan;
 
-(v) telah melibatkan diri dalam atau pernah dikaitkan dengan apa-apa amalan urusan lain atau selainnya berkelakuan dengan cara demikian
-
-<!-- marginal: yang -->
-
-menimbulkan keraguan mengenai kewibawaan dan kebijaksanaannya membuat keputusan; atau
+(v) telah melibatkan diri dalam atau pernah dikaitkan dengan apa-apa amalan urusan lain atau selainnya berkelakuan dengan cara demikian yang menimbulkan keraguan mengenai kewibawaan dan kebijaksanaannya membuat keputusan; atau
 
 (vi) merupakan seorang bankrap yang belum dilepaskan sama ada di dalam atau di luar Malaysia;
 
-(i) Suruhanjaya mempunyai sebab untuk mempercayai bahawa pemohon atau mana-mana pengarah, ketua eksekutif, pengurus atau pengawalnya tidak dapat bertindak demi kepentingan terbaik kliennya setelah mengambil kira reputasi, kelakuan, integriti kewangan
-
-<!-- marginal: dan -->
-
-kebolehpercayaannya;
+(i) Suruhanjaya mempunyai sebab untuk mempercayai bahawa pemohon atau mana-mana pengarah, ketua eksekutif, pengurus atau pengawalnya tidak dapat bertindak demi kepentingan terbaik kliennya setelah mengambil kira reputasi, kelakuan, integriti kewangan dan kebolehpercayaannya;
 
 <!-- page 115 -->
 
@@ -3190,7 +3386,9 @@ kebolehpercayaannya;
 
 (g) pemohon telah—
 
-(i) disabitkan, sama ada di dalam atau di luar Malaysia, atas suatu kesalahan yang melibatkan fraud atau ketidakjujuran atau keganasan atau
+(i) disabitkan, sama ada di dalam atau di luar Malaysia, atas suatu kesalahan yang melibatkan fraud atau ketidakjujuran atau keganasan
+
+<!-- marginal: atau -->
 
 <!-- marginal: yang -->
 
@@ -3374,7 +3572,9 @@ Dengan syarat bahawa dalam hal pemegang Lesen Perkhidmatan Pasaran Modal yang me
 
 (ii) pemegang itu telah disabitkan atas mana-mana kesalahan yang diperihalkan dalam subperenggan 65(l)teXi) atau (ii).
 
-(6) Tanpa menjejaskan subseksyen (2) dan (3), Suruhanjaya boleh, atas mana-mana alasan yang diperihalkan dalam subseksyen (2), mengenakan apa-apa sekatan ke atas aktiviti orang berlesen yang dimaksudkan oleh lesennya dan sekatan itu boleh kekal atau dibuat bagi apa-apa tempoh sebagaimana yang ditentukan oleh Suruhanjaya.
+(6) Tanpa menjejaskan subseksyen (2) dan (3), Suruhanjaya boleh, atas mana-mana alasan yang diperihalkan dalam subseksyen
+
+(2), mengenakan apa-apa sekatan ke atas aktiviti orang berlesen yang dimaksudkan oleh lesennya dan sekatan itu boleh kekal atau dibuat bagi apa-apa tempoh sebagaimana yang ditentukan oleh Suruhanjaya.
 
 (7) Suruhanjaya tidak boleh mengenakan apa-apa sekatan di bawah subseksyen (6) tanpa memberi peluang untuk didengar kepada orang berlesen itu.
 
@@ -3500,29 +3700,17 @@ memenuhi kriteria layak dan sesuai yang disebut di bawah subseksyen (1), pemegan
 
 (4) Jika Suruhanjaya melalui notis secara bertulis meminda atau membatalkan mana-mana terma atau syarat atau mengenakan apa- apa syarat baru di bawah subseksyen (3), pindaan, pembatalan atau pengenaan itu hendaklah mula berkuat kuasa pada masa penyampaian notis itu atau pada apa-apa masa yang ditentukan dalam notis itu, mengikut mana-mana yang terkemudian.
 
-(5) Berkenaan dengan orang berdaftar yang disebut dalam perenggan \(a) sebagaimana yang dinyatakan dalam ruang ketiga
-
-## Bahagian 1 Jadual 4, orang berdaftar itu hendaklah mematuhi apa-
-
-apa garis panduan yang dikeluarkan oleh Suruhanjaya di bawah seksyen 377 berkenaan dengan penjalanan aktiviti terkawal tertentu oleh orang berdaftar itu.
+(5) Berkenaan dengan orang berdaftar yang disebut dalam perenggan \(a) sebagaimana yang dinyatakan dalam ruang ketiga Bahagian 1 Jadual 4, orang berdaftar itu hendaklah mematuhi apa- apa garis panduan yang dikeluarkan oleh Suruhanjaya di bawah seksyen 377 berkenaan dengan penjalanan aktiviti terkawal tertentu oleh orang berdaftar itu.
 
 <!-- page 129 -->
 
 (6) Berkenaan dengan orang yang disebut dalam perenggan (l)(a), yang berikut hendaklah terpakai:
 
-(a) orang berdaftar yang dinyatakan dalam ruang ketiga
-
-## Bahagian 1 Jadual 4 hanya boleh menjalankan aktiviti
-
-terkawal yang dinyatakan dalam ruang kedua Bahagian 1
+(a) orang berdaftar yang dinyatakan dalam ruang ketiga Bahagian 1 Jadual 4 hanya boleh menjalankan aktiviti terkawal yang dinyatakan dalam ruang kedua Bahagian 1
 
 ## Jadual 4;
 
-(b) orang berdaftar yang dinyatakan dalam ruang ketiga
-
-## Bahagian 2 Jadual 4 hanya boleh menjalankan aktiviti
-
-terkawal yang dinyatakan dalam ruang kedua Bahagian 2
+(b) orang berdaftar yang dinyatakan dalam ruang ketiga Bahagian 2 Jadual 4 hanya boleh menjalankan aktiviti terkawal yang dinyatakan dalam ruang kedua Bahagian 2
 
 ## Jadual 4;
 
@@ -3798,11 +3986,7 @@ mengikut mana-mana yang berkenaan.
 
 (a) kepentingan seseorang dalam pelupusan sekuriti termasuklah apa-apa faedah atau keuntungan kewangan yang akan, atau berkemungkinan, terakru secara langsung atau secara tidak langsung kepada orang itu apabila dilupuskan, atau berbangkit daripada pelupusan sekuriti itu;
 
-(b) tanpa mengehadkan keluasan makna yang
-
-<!-- marginal: terdahulu, -->
-
-seseorang yang telah membuat suatu perjanjian taja jamin berkenaan dengan sekuriti hendaklah disifatkan mempunyai kepentingan dalam pemerolehan atau pelupusan sekuriti itu; dan
+(b) tanpa mengehadkan keluasan makna yang terdahulu, seseorang yang telah membuat suatu perjanjian taja jamin berkenaan dengan sekuriti hendaklah disifatkan mempunyai kepentingan dalam pemerolehan atau pelupusan sekuriti itu; dan
 
 (c) walau apa pun peruntukan seksyen 3, seseorang tidak bersekutu dengan seseorang yang lain berhubung dengan penghantaran surat pekeliling atau perhubungan lain atau pembuatan suatu syor hanya oleh sebab dia seorang pengarah pertubuhan perbadanan yang orang yang satu lagi itu juga seorang pengarah, sama ada atau tidak pertubuhan perbadanan itu menjalankan urusan berniaga dalam sekuriti, melainkan jika orang itu atau orang yang satu lagi itu bertindak bersesama, atau selainnya bertindak bersama atau di bawah atau mengikut suatu perkiraan yang dibuat antara mereka, berhubung dengan penghantaran surat pekeliling atau perhubungan itu atau pembuatan syor itu.
 
@@ -3978,7 +4162,9 @@ Subpenggal 2 — Sekuriti
 
 (4) Subseksyen (1) tidak terpakai bagi transaksi penjualan atau pembelian sekuriti berlot ganjil yang dibuat oleh pemegang Lesen Perkhidmatan Pasaran Modal yang merupakan organisasi peserta dan mahir dalam transaksi yang berhubungan dengan sekuriti berlot ganjil.
 
-(5) Jika pemegang Lesen Perkhidmatan Pasaran Modal yang menjalankan urusan berniaga sekuriti melanggar subseksyen (1) atau (3) berkenaan dengan suatu kontrak —
+(5) Jika pemegang Lesen Perkhidmatan Pasaran Modal yang menjalankan urusan berniaga sekuriti melanggar subseksyen (1) atau
+
+(3) berkenaan dengan suatu kontrak —
 
 (a) bagi penjualan sekuriti oleh pemegang itu, pembeli sekuriti itu boleh, jika dia belum lagi melupuskannya, membatalkan kontrak itu melalui suatu notis pembatalan secara bertulis yang diberikan kepada pemegang itu tidak lewat daripada empat belas hari selepas penerimaan nota kontrak itu atau apabila menyedari tentang pelanggaran subseksyen (1) atau (3), mengikut mana-mana yang terkemudian; atau
 
@@ -4258,11 +4444,7 @@ yang berkemungkinan memudaratkan kepentingan awam;
 
 (i) undang-undang sekuriti;
 
-(ii) kaedah-kaedah bursa niaga hadapan atau pusat penjelasan diluluskan yang pemegang Lesen Perkhidmatan Pasaran Modal yang menjalankan urusan berdagang dalam kontrak niaga hadapan atau menjalankan urusan pengurusan kumpulan wang itu berhubung dengan kontrak niaga
-
-<!-- marginal: hadapan -->
-
-merupakan gabungan; atau
+(ii) kaedah-kaedah bursa niaga hadapan atau pusat penjelasan diluluskan yang pemegang Lesen Perkhidmatan Pasaran Modal yang menjalankan urusan berdagang dalam kontrak niaga hadapan atau menjalankan urusan pengurusan kumpulan wang itu berhubung dengan kontrak niaga hadapan merupakan gabungan; atau
 
 <!-- page 160 -->
 
@@ -6038,11 +6220,7 @@ selainnya berusaha untuk mendapatkan arahan orang yang lain itu untuk membuat tr
 
 atau perjanjian bukannya sekuriti yang dibenarkan di pasaran saham sesuatu bursa saham;
 
-(b) mahkamah berpuas hati bahawa pihak yang satu lagi dalam transaksi atau perjanjian/ itu mengetahui,
-
-<!-- marginal: atau -->
-
-semunasabahnya patut mengetahui, tentang maklumat itu sebelum membuat transaksi atau perjanjian itu; dan
+(b) mahkamah berpuas hati bahawa pihak yang satu lagi dalam transaksi atau perjanjian/ itu mengetahui, atau semunasabahnya patut mengetahui, tentang maklumat itu sebelum membuat transaksi atau perjanjian itu; dan
 
 (c) orang itu memperoleh atau melupuskan sekuriti itu atas apa-apa terma dan dalam hal keadaan bahawa—
 
@@ -6328,7 +6506,9 @@ Cadangan berhubung dengan sekuriti
 
 212. (1) Dalam Penggal ini dan Jadual 5, melainkan jika konteksnya menghendaki yang lain —
 
-"cadangan" ertinya cadangan yang disebut dalam subseksyen (2);
+"cadangan" ertinya cadangan yang disebut dalam subseksyen
+
+(2);
 
 "pakar" termasuklah jurutera, penilai, akauntan dan mana-mana orang lain yang profesionnya memberi kewibawaan kepada pernyataan yang dibuat olehnya;
 
@@ -6896,7 +7076,11 @@ pengambilalihan itu masih terbuka untuk penerimaan.
 
 (6) Mahkamah hanya boleh memberikan perintah di bawah subseksyen (5) apabila berpuas hati bahawa—
 
-(a) kegagalan pembuat tawaran itu untuk mendapatkan penerimaan yang sedemikian adalah disebabkan ketidakupayaannya mengesan seorang atau lebih orang yang memegang syer yang dimaksudkan oleh tawaran pengambilalihan itu selepas membuat siasatan yang munasabah;
+(a) kegagalan pembuat tawaran itu untuk mendapatkan penerimaan yang sedemikian adalah
+
+<!-- marginal: disebabkan -->
+
+ketidakupayaannya mengesan seorang atau lebih orang yang memegang syer yang dimaksudkan oleh tawaran pengambilalihan itu selepas membuat siasatan yang munasabah;
 
 (b) syer yang telah diperoleh atau dibuat kontrak untuk diperoleh oleh pembuat tawaran itu menurut penerimaan tawaran pengambilalihan itu, bersama dengan syer yang dipegang oleh orang yang disebut dalam perenggan (a), adalah tidak kurang daripada amaun minimum yang ditentukan dalam subseksyen 222(1); dan
 
@@ -7072,11 +7256,7 @@ hendaklah disifatkan sebagai suatu prospektus setakat yang memorandum itu berhub
 
 <!-- page 276 -->
 
-(f) Suruhanjaya berpendapat bahawa penerbit telah melanggar mana-mana peruntukan undang-undang sekuriti atau Akta Syarikat 1965 dan bahawa pelanggaran
-
-<!-- marginal: itu akan -->
-
-menimbulkan keraguan tentan^ sama ada penerbit itu seorang yang layak dan sesuai untuk menerbitkan, menawarkan bagi langganan atau pembelian, atau pelawaan untuk melanggan atau membeli, apa-apa sekuriti.
+(f) Suruhanjaya berpendapat bahawa penerbit telah melanggar mana-mana peruntukan undang-undang sekuriti atau Akta Syarikat 1965 dan bahawa pelanggaran itu akan menimbulkan keraguan tentan^ sama ada penerbit itu seorang yang layak dan sesuai untuk menerbitkan, menawarkan bagi langganan atau pembelian, atau pelawaan untuk melanggan atau membeli, apa-apa sekuriti.
 
 (2) Tiada prospektus boleh didaftarkan melainkan jika prospektus itu dikemukakan kepada Suruhanjaya bersama-sama dengan—
 
@@ -7464,11 +7644,7 @@ pelawaan atau cadangan pelawaan berkenaan dengan sekuriti.
 
 (vi) dalam hal debentur, nama dan alamat pemegang amanah bagi pemegang debentur;
 
-(vii) suatu perihalan ringkas tentang status penyenaraian perbadanan, skim unit amanah atau skim pelaburan ditetapkan di mana-mana bursa saham atau bursa lain yang seumpamanya di luar Malaysia, atau suatu pernyataan yang bermaksud untuk memohon kebenaran untuk menyenaraikan perbadanan, skim unit amanah atau skim pelaburan ditetapkan di mana-mana bursa saham atau bursa lain yang seumpamanya di luar Malaysia tetapi tiada jaminan telah diberikan bahawa perbadanan, skim unit amanah atau skim pelaburan ditetapkan
-
-<!-- marginal: itu, -->
-
-mengikut mana-mana yang berkenaan, akan disenaraikan;
+(vii) suatu perihalan ringkas tentang status penyenaraian perbadanan, skim unit amanah atau skim pelaburan ditetapkan di mana-mana bursa saham atau bursa lain yang seumpamanya di luar Malaysia, atau suatu pernyataan yang bermaksud untuk memohon kebenaran untuk menyenaraikan perbadanan, skim unit amanah atau skim pelaburan ditetapkan di mana-mana bursa saham atau bursa lain yang seumpamanya di luar Malaysia tetapi tiada jaminan telah diberikan bahawa perbadanan, skim unit amanah atau skim pelaburan ditetapkan itu, mengikut mana-mana yang berkenaan, akan disenaraikan;
 
 (viii) hakikat bahawa suatu prospektus sedang disediakan dan bahawa suatu terbitan, tawaran bagi langganan atau pembelian, atau pelawaan untuk melanggan atau membeli, sekuriti adalah dicadangkan,
 
@@ -7586,7 +7762,11 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi 
 
 (a) apa-apa dokumen yang tawaran bagi pembelian itu dibuat hendaklah, bagi segala maksud, disifatkan sebagai suatu prospektus yang dikeluarkan oleh penerbit; dan
 
-(b) semua undang-undang yang mengawal selia kandungan prospektus dan yang memperuntukkan tanggungan berkenaan dengan pernyataan dan peninggalan dalam prospektus, atau selainnya yang berhubungan dengan prospektus, hendaklah terpakai dan mempunyai kesan yang sewajarnya seolah-olah orang yang menerima tawaran berkenaan dengan mana-mana sekuriti ialah pelanggan sekuriti itu.
+(b) semua undang-undang yang mengawal selia kandungan prospektus dan yang memperuntukkan
+
+<!-- marginal: tanggungan -->
+
+berkenaan dengan pernyataan dan peninggalan dalam prospektus, atau selainnya yang berhubungan dengan prospektus, hendaklah terpakai dan mempunyai kesan yang sewajarnya seolah-olah orang yang menerima tawaran berkenaan dengan mana-mana sekuriti ialah pelanggan sekuriti itu.
 
 (2) Tiada apa-apa jua dalam subseksyen (1) boleh menjejaskan tanggungan orang yang tawaran bagi pembelian itu dibuat berkenaan dengan pernyataan dalam, atau peninggalan dalam, dokumen yang tawaran bagi pembelian itu dibuat atau selainnya.
 
@@ -7664,7 +7844,11 @@ Suruhanjaya boleh, atas permohonan penerbit, melalui perintah yang disiarkan dal
 
 (i) sebutan mengenai pembelian digantikan dengan sebutan mengenai penguntukan;
 
-(ii) orang yang membuat tawaran itu, dan bukan penerbit, adalah bertanggungan di bawah subseksyen (2) untuk membayar balik wang yang diterima daripada pemohon, dan sebutan mengenai tanggungan penerbit di bawah subseksyen itu ditafsirkan dengan sewajarnya; dan
+(ii) orang yang membuat tawaran itu, dan bukan penerbit, adalah bertanggungan di bawah subseksyen (2) untuk membayar balik wang yang diterima daripada pemohon, dan sebutan mengenai
+
+<!-- marginal: tanggungan -->
+
+penerbit di bawah subseksyen itu ditafsirkan dengan sewajarnya; dan
 
 (iii) sebutan dalam subseksyen (7) mengenai penerbit dan tiap-tiap pegawai penerbit itu yang ingkar di bawah subseksyen (2) digantikan dengan
 
@@ -7824,9 +8008,7 @@ amaun kehilangan atau kerugian daripada semua atau mana-mana orang yang dinyatak
 
 (d) penjalanan perundingan, pembuatan apa-apa perkiraan atau perlakuan apa-apa tindakan lain sebagai persediaan bagi atau dengan apa-apa cara lain berhubung dengan apa-apa perkara yang disebut dalam perenggan (a), (b) atau (c).
 
-(2) Seseorang yang melanggar seksyen ini tidak melakukan suatu kesalahan tetapi seseorang yang memperoleh, melanggan atau membeli sekuriti dan mengalami kehilangan atau kerugian akibat daripada apa-apa tindakan yang disebut dalam perenggan
-
-(l)(a), (b), (c) atau (d) boleh mendapatkan amaun kehilangan atau kerugian itu di bawah seksyen 357.
+(2) Seseorang yang melanggar seksyen ini tidak melakukan suatu kesalahan tetapi seseorang yang memperoleh, melanggan atau membeli sekuriti dan mengalami kehilangan atau kerugian akibat daripada apa-apa tindakan yang disebut dalam perenggan (l)(a), (b), (c) atau (d) boleh mendapatkan amaun kehilangan atau kerugian itu di bawah seksyen 357.
 
 <!-- page 307 -->
 
@@ -8140,11 +8322,7 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi 
 
 (ii) pemegang amanah sedia ada gagal atau enggan bertindak mengikut peruntukan atau waad surat ikatan amanah itu atau peruntukan Akta ini;
 
-(iii) seorang penerima dilantik ke atas keseluruhan atau sebahagian yang substansial daripada aset atau pengusahaan pemegang amanah sedia ada itu dan belum terhenti bertindak di bawah pelantikan itu, atau suatu petisyen dikemukakan bagi penggulungan pemegang amanah sedia ada (selain bagi maksud dan diikuti oleh suatu penyusunan
-
-<!-- marginal: semula, -->
-
-melainkan jika semasa atau berikutan penyusunan semula itu pemegang amanah sedia ada menjadi atau diisytiharkan sebagai tidak solven); atau
+(iii) seorang penerima dilantik ke atas keseluruhan atau sebahagian yang substansial daripada aset atau pengusahaan pemegang amanah sedia ada itu dan belum terhenti bertindak di bawah pelantikan itu, atau suatu petisyen dikemukakan bagi penggulungan pemegang amanah sedia ada (selain bagi maksud dan diikuti oleh suatu penyusunan semula, melainkan jika semasa atau berikutan penyusunan semula itu pemegang amanah sedia ada menjadi atau diisytiharkan sebagai tidak solven); atau
 
 (iv) pemegang amanah itu sedang disiasat bagi perlakuan yang melanggar Akta Syarikat Amanah 1949, Akta Pemegang Amanah 1949, Akta Syarikat 1965 atau undang-undang sekuriti.
 
@@ -8408,7 +8586,11 @@ menyebabkan atau boleh menyebabkan, satu atau lebih daripada yang berikut:
 
 ### keterangan keberhutangan, dsb.
 
-270. (1) Peminjam hendaklah, dalam masa dua minggu atau apa-apa tempoh lain sebagaimana yang ditentukan oleh Suruhanjaya, selepas penerimaan wang sebagai respons kepada suatu terbitan, tawaran bagi langganan atau pembelian, atau pelawaan untuk melanggan atau membeli, suatu bilangan atau nilai tertentu debentur, memberikan kepada orang itu suatu dokumen yang mengesahkan, yang merupakan keterangan atau yang merupakan pengesahan keberhutangan peminjam itu berkenaan dengan penerimaan wang sebagai respons kepada terbitan, tawaran atau pelawaan itu.
+270. (1) Peminjam hendaklah, dalam masa dua minggu atau apa-apa tempoh lain sebagaimana yang ditentukan oleh Suruhanjaya, selepas penerimaan wang sebagai respons kepada suatu terbitan, tawaran bagi langganan atau pembelian, atau pelawaan untuk melanggan atau membeli, suatu bilangan atau nilai tertentu debentur, memberikan kepada orang itu suatu dokumen yang mengesahkan, yang merupakan keterangan atau yang merupakan
+
+<!-- marginal: pengesahan -->
+
+keberhutangan peminjam itu berkenaan dengan penerimaan wang sebagai respons kepada terbitan, tawaran atau pelawaan itu.
 
 <!-- page 329 -->
 
@@ -8450,11 +8632,7 @@ hendaklah —
 
 (iii) seorang juruaudit syarikat yang diluluskan yang dilantik oleh pemegang amanah untuk menjalankan pemeriksaan itu,
 
-dan memberi orang yang menjalankan pemeriksaan itu apa- apa maklumat, penerangan atau bantuan
-
-<!-- marginal: lain yang -->
-
-diperlukan oleh orang itu;
+dan memberi orang yang menjalankan pemeriksaan itu apa- apa maklumat, penerangan atau bantuan lain yang diperlukan oleh orang itu;
 
 (c) memberikan apa-apa maklumat yang berhubungan dengan diri penjamin sendiri yang dikehendaki di bawah subseksyen 266(3) supaya dimuatkan dalam laporan suku tahunan kepada peminjam, dalam masa empat belas hari dari tarikh peminjam meminta maklumat itu melalui notis secara bertulis atau dalam apa-apa tempoh lain yang tidak kurang daripada empat belas hari sebagaimana yang ditentukan dalam notis itu; dan
 
@@ -8540,11 +8718,7 @@ diperlukan oleh orang itu;
 
 (ii) dipanggil oleh pemegang amanah di bawah subseksyen 278(1);
 
-(f) memohon kepada Suruhanjaya untuk suatu arahan di bawah subseksyen 280(1) jika pemegang amanah selepas siasatan yang sewajarnya berpendapat bahawa aset peminjam dan penjamin yang ada atau boleh digunakan, sama ada secara jaminan atau selainnya, adalah tidak mencukupi atau berkemungkinan menjadi tidak mencukupi
-
-<!-- marginal: untuk -->
-
-membayar balik amaun yang dijamin atau kena dibayar di bawah debentur itu yang dimaksudkan oleh surat ikatan amanah itu apabila ia menjadi kena dibayar;
+(f) memohon kepada Suruhanjaya untuk suatu arahan di bawah subseksyen 280(1) jika pemegang amanah selepas siasatan yang sewajarnya berpendapat bahawa aset peminjam dan penjamin yang ada atau boleh digunakan, sama ada secara jaminan atau selainnya, adalah tidak mencukupi atau berkemungkinan menjadi tidak mencukupi untuk membayar balik amaun yang dijamin atau kena dibayar di bawah debentur itu yang dimaksudkan oleh surat ikatan amanah itu apabila ia menjadi kena dibayar;
 
 (g) memohon kepada mahkamah bagi suatu perintah di bawah seksyen 282 jika—
 
@@ -9014,11 +9188,7 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi 
 
 (iv) pemegang amanah itu sedang disiasat bagi kelakuan yang melanggar Akta Syarikat Amanah 1949, Akta Pemegang Amanah 1949, Akta Syarikat 1965 atau mana-mana undang-undang sekuriti.
 
-(3) Kecuali bagi subperenggan 2 ( a ) ( i i ) ,
-
-<!-- marginal: seseorang -->
-
-pemegang amanah hendaklah diberi peluang untuk didengar sebelum Suruhanjaya mengambil apa-apa tindakan di bawah subseksyen (2).
+(3) Kecuali bagi subperenggan 2 ( a ) ( i i ) , seseorang pemegang amanah hendaklah diberi peluang untuk didengar sebelum Suruhanjaya mengambil apa-apa tindakan di bawah subseksyen (2).
 
 (4) Sesuatu syarikat pengurusan yang melanggar subseksyen (1) melakukan suatu kesalahan.
 
@@ -9606,7 +9776,11 @@ secara langsung atau secara tidak langsung mempunyai perkaitan, atau untuk menga
 
 mahkamah boleh membuat suatu perintah bahawa ketua eksekutif atau pengarah yang berkenaan dipecat daripada jawatan mulai dari tarikh yang dinyatakan dalam perintah itu, walau apa pun apa-apa dalam mana-mana undang-undang bertulis yang lain atau apa-apa sekatan yang terkandung dalam memorandum syarikat dan perkara persatuan perbadanan tersenarai itu, dan, khususnya, walau apa pun apa-apa sekatan dalamnya tentang bilangan minimum atau maksimum pengarah dalam perbadanan tersenarai itu.
 
-(6) Seseorang ketua eksekutif atau pengarah yang dipecat daripada jawatan di bawah subseksyen (5) hendaklah terhenti daripada memegang jawatan mulai dari tarikh yang dinyatakan dalam perintah itu, dan tidaklah boleh selepas daripada itu memegang apa-apa jawatan lain dalam perbadanan tersenarai itu atau dalam apa-apa cara, sama ada secara langsung atau secara tidak langsung, mempunyai perkaitan dalam, atau mengambil bahagian, atau melibatkan diri, dalam apa-apa aktiviti, hal ehwal atau urusan perbadanan tersenarai itu atau berhubung dengan perbadanan tersenarai itu.
+(6) Seseorang ketua eksekutif atau pengarah yang dipecat daripada jawatan di bawah subseksyen (5) hendaklah terhenti daripada memegang jawatan mulai dari tarikh yang dinyatakan dalam perintah itu, dan tidaklah boleh selepas daripada itu memegang apa-apa jawatan lain dalam perbadanan tersenarai itu atau dalam apa-apa cara, sama ada secara langsung atau secara tidak
+
+<!-- marginal: langsung, -->
+
+mempunyai perkaitan dalam, atau mengambil bahagian, atau melibatkan diri, dalam apa-apa aktiviti, hal ehwal atau urusan perbadanan tersenarai itu atau berhubung dengan perbadanan tersenarai itu.
 
 ### Pengemukaan maklumat
 
@@ -9648,7 +9822,11 @@ dalam masa dua minggu dari berlakunya pertukaran atau kejadian itu.
 
 (2) Tiada juruaudit boleh bertanggungan untuk dibawa guaman terhadapnya dalam mana-mana mahkamah bagi apa-apa laporan yang dikemukakan oleh juruaudit itu dengan suci hati dan atas niat untuk melaksanakan apa-apa kewajipan yang dikenakan ke atas juruaudit itu di bawah seksyen ini.
 
-(3) Suruhanjaya boleh, pada bila-bila masa semasa atau selepas sesuatu audit, menghendaki juruaudit perbadanan tersenarai supaya—
+(3) Suruhanjaya boleh, pada bila-bila masa semasa atau selepas sesuatu audit, menghendaki juruaudit perbadanan
+
+<!-- marginal: tersenarai -->
+
+supaya—
 
 (a) mengemukakan apa-apa maklumat tambahan berhubung dengan pengauditannya sebagaimana yang ditentukan oleh Suruhanjaya;
 
@@ -9888,7 +10066,11 @@ pengawalseliaan sendiri yang diiktiraf itu, menghendaki organisasi pengawalselia
 
 (c) organisasi pengawalseliaan sendiri yang diiktiraf itu telah tidak menjalankan fungsinya atau menunaikan kewajipannya di bawah subseksyen 324(1) atau kaedah- kaedahnya atau apa-apa garis panduan yang dikeluarkan oleh Suruhanjaya menurut seksyen 377,
 
-Suruhanjaya boleh menyampaikan suatu notis bertulis kepada organisasi pengawalseliaan sendiri yang diiktiraf itu yang menyatakan sebab bagi menyokong alasan bagi notis itu dan mengarahkan organisasi pengawalseliaan sendiri yang diiktiraf itu dengan segera mengambil apa-apa langkah yang dinyatakan dalam notis itu, termasuk langkah berhubung dengan mana-mana hal ehwal, urusan atau hartanya bagi maksud menguruskan percanggahan kepentingan itu atau perkara yang boleh menimbulkan percanggahan kepentingan itu dan penjalanan fungsinya dan penunaian kewajipannya dengan memuaskan.
+Suruhanjaya boleh menyampaikan suatu notis bertulis kepada organisasi pengawalseliaan sendiri yang diiktiraf
+
+<!-- marginal: itu yang -->
+
+menyatakan sebab bagi menyokong alasan bagi notis itu dan mengarahkan organisasi pengawalseliaan sendiri yang diiktiraf itu dengan segera mengambil apa-apa langkah yang dinyatakan dalam notis itu, termasuk langkah berhubung dengan mana-mana hal ehwal, urusan atau hartanya bagi maksud menguruskan percanggahan kepentingan itu atau perkara yang boleh menimbulkan percanggahan kepentingan itu dan penjalanan fungsinya dan penunaian kewajipannya dengan memuaskan.
 
 (2) Suatu notis yang disampaikan di bawah subseksyen (1) hendaklah berkuat kuasa dengan serta-merta.
 
@@ -9918,11 +10100,7 @@ melanggar mana-mana peruntukan undang-undang sekuriti atau apa-apa garis panduan
 
 (e) organisasi pengawalseliaan sendiri yang diiktiraf itu sedang digulung atau selainnya dibubarkan;
 
-(f) suatu hutang penghakiman terhadap
-
-<!-- marginal: organisasi -->
-
-pengawalseliaan sendiri yang diiktiraf itu tidak dijelaskan sepenuhnya atau sebahagiannya;
+(f) suatu hutang penghakiman terhadap organisasi pengawalseliaan sendiri yang diiktiraf itu tidak dijelaskan sepenuhnya atau sebahagiannya;
 
 (g) seorang penerima, seorang penerima dan pengurus, atau seorang yang setaraf dengannya telah dilantik, berhubung dengan mana-mana harta organisasi pengawalseliaan sendiri yang diiktiraf itu;
 
@@ -10556,7 +10734,9 @@ if) seseorang yang baginya kaedah-kaedah sesuatu bursa niaga hadapan, pusat penj
 
 <!-- page 412 -->
 
-boleh mengambil mana-mana satu atau lebih daripada tindakan yang berikut:
+boleh mengambil mana-mana satu atau lebih daripada tindakan yang
+
+<!-- marginal: berikut: -->
 
 (a) mengarahkan syarikat pemegangan bursa atau bursa niaga hadapan, mengikut mana-mana yang berkenaan —
 
@@ -10638,7 +10818,15 @@ restitusi itu sebagai suatu hutang sivil yang kena dibayar kepada orang yang ter
 
 (a) melanggar atau tidak mematuhi, menuruti, menguatkuasakan atau melaksanakan mana-mana kehendak atau peruntukan Akta ini, mana-mana undang-undang sekuriti, notis bertulis, garis panduan, mana-mana syarat, atau sekatan ke atas, lesen yang diberikan di bawah atau menurut Akta ini; atau
 
-(b) melaksanakan atau meninggalkan daripada melaksanakan apa-apa perbuatan berkenaan dengan apa-apa urusan yang dijalankan oleh orang berlesen menurut lesen yang diberikan di bawah atau menurut Akta ini, yang berkemungkinan —
+(b) melaksanakan atau meninggalkan daripada melaksanakan apa-apa perbuatan berkenaan dengan apa-apa urusan yang dijalankan oleh orang berlesen menurut
+
+<!-- marginal: lesen yang -->
+
+diberikan di bawah atau menurut Akta
+
+<!-- marginal: ini, yang -->
+
+berkemungkinan —
 
 (i) membahayakan kepentingan klien orang berlesen itu; atau
 
@@ -10810,9 +10998,7 @@ mahkamah boleh, tanpa menjejaskan apa-apa perintah yang boleh dibuat selain menu
 
 <!-- page 423 -->
 
-Pasaran Modal dan Perkhidmatan
-
-<!-- marginal: All -->
+Pasaran Modal dan Perkhidmatan All
 
 (J) jika seseorang telah enggan atau tidak, masih enggan atau tidak, atau bercadang untuk mengenggani daripada atau tidak, melakukan apa-apa perbuatan atau benda yang dia dikehendaki melakukan di bawah suatu kehendak yang berkaitan, suatu perintah yang menghendaki orang itu melakukan perbuatan atau benda itu;
 
@@ -10824,11 +11010,7 @@ Pasaran Modal dan Perkhidmatan
 
 (L) dalam hal jika orang itu merupakan seorang ketua eksekutif atau pengarah, suatu perintah yang memecatnya daripada jawatan atau bahawa dia dihalang daripada menjadi seorang ketua eksekutif, pengarah atau menyertai dalam pengurusan secara langsung atau secara tidak langsung, mana-mana syarikat awam yang lain bagi apa-apa tempoh masa sebagaimana yang ditentukan oleh mahkamah;
 
-(M) suatu perintah yang menghendaki orang itu, atau mana- mana orang lain yang diketahui terlibat dalam pelanggaran itu, untuk mengambil apa-apa langkah sebagaimana yang diarahkan oleh mahkamah untuk meremedi
-
-<!-- marginal: atau -->
-
-mengurangkan kesannya termasuk membuat restitusi kepada mana-mana orang lain yang terkilan dengan pelanggaran itu;
+(M) suatu perintah yang menghendaki orang itu, atau mana- mana orang lain yang diketahui terlibat dalam pelanggaran itu, untuk mengambil apa-apa langkah sebagaimana yang diarahkan oleh mahkamah untuk meremedi atau mengurangkan kesannya termasuk membuat restitusi kepada mana-mana orang lain yang terkilan dengan pelanggaran itu;
 
 (N) bagi maksud memastikan pematuhan apa-apa perintah lain di bawah seksyen ini, suatu perintah yang mengarahkan seseorang untuk melakukan atau menahan diri daripada melakukan suatu perbuatan yang ditentukan;
 
@@ -11108,11 +11290,7 @@ jumlah wang yang tidak melebihi denda maksimum (termasuk denda harian dalam hal 
 
 ### Orang disabitkan bertanggungan membayar pampasan
 
-374. Seseorang yang disabitkan atas suatu kesalahan di bawah
-
-## Bahagian V atau VI adalah bertanggungan membayar apa-apa pampasan
-
-sebagaimana yang ditentukan oleh mahkamah kepada mana-mana orang yang telah mengalami kehilangan atau kerugian akibat daripada kesalahan yang dilakukan oleh orang yang disabit itu.
+374. Seseorang yang disabitkan atas suatu kesalahan di bawah Bahagian V atau VI adalah bertanggungan membayar apa-apa pampasan sebagaimana yang ditentukan oleh mahkamah kepada mana-mana orang yang telah mengalami kehilangan atau kerugian akibat daripada kesalahan yang dilakukan oleh orang yang disabit itu.
 
 <!-- page 436 -->
 
@@ -11320,11 +11498,7 @@ didaftarkan di bawah subseksyen 34(1).
 
 <!-- page 444 -->
 
-(vi) lesen penasihat pelaburan yang diberikan di bawah Akta Perindustrian Sekuriti 1983
-
-<!-- marginal: yang -->
-
-dimansuhkan;
+(vi) lesen penasihat pelaburan yang diberikan di bawah Akta Perindustrian Sekuriti 1983 yang dimansuhkan;
 
 (vii) lesen wakil broker niaga hadapan yang diberikan di bawah Akta Perindustrian Niaga Hadapan 1993 yang dimansuhkan;
 
@@ -11512,9 +11686,7 @@ dibenarkan untuk meneruskan apa-apa aktiviti tanpa memegang Lesen Perkhidmatan P
 
 394. (1) Seseorang eksekutif kewangan korporat—
 
-(a) yang diambil kerja oleh suatu syarikat pembrokeran saham dan yang berdaftar dengan Suruhanjaya menurut Garis Panduan Suruhanjaya bagi Peniaga dan Wakil Peniaga di bawah Akta Perindustrian Sekuriti
-
-<!-- marginal: 1983 -->
+(a) yang diambil kerja oleh suatu syarikat pembrokeran saham dan yang berdaftar dengan Suruhanjaya menurut Garis Panduan Suruhanjaya bagi Peniaga dan Wakil Peniaga di bawah Akta Perindustrian Sekuriti 1983
 
 <!-- marginal: yang -->
 
@@ -11654,7 +11826,11 @@ Mana-mana syarikat yang didaftarkan di bawah Akta Syarikat Amanah 1949 yang penj
 
 8. Mana-mana perbadanan yang penjalanan aktiviti terkawal nasihat pelaburan olehnya adalah semata-mata bagi faedah syarikat berkaitan.
 
-9. Mana-mana perbadanan yang penjalanan aktiviti terkawal menasihati kewangan korporatnya adalah semata-mata bagi faedah syarikat yang berhubungannya dan jika syarikat yang berhubungan itu ialah suatu perbadanan tersenarai, nasihat itu tidak diedarkan kepada pemegang saham syarikat yang berhubungan itu atau selainnya diberitahu kepada umum.
+9. Mana-mana perbadanan yang penjalanan aktiviti terkawal menasihati kewangan korporatnya adalah semata-mata bagi faedah syarikat yang berhubungannya dan jika syarikat yang berhubungan itu
+
+<!-- marginal: ialah suatu -->
+
+perbadanan tersenarai, nasihat itu tidak diedarkan kepada pemegang saham syarikat yang berhubungan itu atau selainnya diberitahu kepada umum.
 
 10. Mana-mana orang yang menjalankan aktiviti terkawal berniaga dalam sekuriti bagi akaunnya sendiri atau bagi perbadanan yang berhubungannya melalui seorang pemegang Lesen Perkhidmatan Pasaran Modal yang menjalankan urusan berniaga dalam sekuriti.
 
@@ -11712,69 +11888,69 @@ Orang berdaftar
 
 ## Bahagian 1
 
-Ruang Ruang kedua Ruang ketiga pertama
+<!-- marginal: Ruang -->
 
-Butiran Aktiviti Kategori orang berdaftar 1 Berniaga dalam sekuriti Menyebut harga jualan dan belian bagi, Bank Islam dan
+Ruang kedua Ruang ketiga
 
-<!-- marginal: semua -->
+<!-- marginal: pertama -->
 
-(a) dan berniaga dalam— institusi berlesen (i) debentur, saham atau bon Kerajaan Persekutuan, mana-mana Kerajaan Negeri atau badan berkanun; atau (ii) debentur korporat bagi instrumen lain yang tidak disenaraikan untuk didagangkan dalam mana-mana bursa saham
+<!-- marginal: Butiran -->
 
-Membuat perkiraan bagi jualan atau Bank Islam, bank berlesen, (b) belian sekuriti yang diterbitkan oleh, bank saudagar berlesen dan dimiliki oleh atau bagi pihak pelanggan syarikat kewangan berlesen melalui pemegang Lesen Perkhidmatan Pasaran Modal yang menjalankan urusan berniaga dalam sekuriti
+Aktiviti Kategori orang berdaftar 1 Berniaga dalam sekuriti Menyebut harga jualan dan belian bagi, Bank Islam dan semua
 
-Membuat perkiraan bagi jualan atau Bank Islam, bank berlesen, (c) belian sekuriti yang tidak disenaraikan bank saudagar
+(a) dan berniaga dalam— institusi berlesen
 
-<!-- marginal: berlesen, -->
+(i) debentur, saham atau bon Kerajaan Persekutuan, mana-mana Kerajaan Negeri atau badan berkanun; atau
 
-di pasaran saham sesuatu bursa saham, pusat diskaun berlesen dan yang diterbitkan oleh, dimiliki oleh atau syarikat kewangan berlesen bagi pihak, pelanggan
+(ii) debentur korporat bagi instrumen lain yang tidak disenaraikan untuk didagangkan dalam mana-mana bursa saham
 
-Penajajaminan sekuriti dan penempatan Bank Islam, bank berlesen (d) keluar apa-apa sekuriti yang ditaja dan bank saudagar jamin sama ada melalui pemegang berlesen Lesen Perkhidmatan Pasaran Modal yang menjalankan urusan berniaga dalam sekuriti atau selainnya
+Membuat perkiraan bagi jualan atau Bank Islam, bank berlesen,
 
-Penajajaminan terbitan bon yang Syarikat insurans berlesen di (e) semata-mata bersampingan kepada bawah Akta Insurans 1996 pengurusan dan pentadbiran perniagaan dan pengendali
+(b) belian sekuriti yang diterbitkan oleh, bank saudagar berlesen dan dimiliki oleh atau bagi pihak pelanggan syarikat kewangan berlesen melalui pemegang Lesen Perkhidmatan Pasaran Modal yang menjalankan urusan berniaga dalam sekuriti
 
-<!-- marginal: takaful -->
+Membuat perkiraan bagi jualan atau Bank Islam, bank berlesen,
 
-insurans atau takafulnya berdaftar di bawah Akta Takaful 1984
+(c) belian sekuriti yang tidak disenaraikan bank saudagar berlesen, di pasaran saham sesuatu bursa saham, pusat diskaun berlesen dan yang diterbitkan oleh, dimiliki oleh atau syarikat kewangan berlesen bagi pihak, pelanggan
+
+Penajajaminan sekuriti dan penempatan Bank Islam, bank berlesen
+
+(d) keluar apa-apa sekuriti yang ditaja dan bank saudagar jamin sama ada melalui pemegang berlesen Lesen Perkhidmatan Pasaran Modal yang menjalankan urusan berniaga dalam sekuriti atau selainnya
+
+Penajajaminan terbitan bon yang Syarikat insurans berlesen di
+
+(e) semata-mata bersampingan kepada bawah Akta Insurans 1996 pengurusan dan pentadbiran perniagaan dan pengendali takaful insurans atau takafulnya berdaftar di bawah Akta Takaful 1984
 
 <!-- page 460 -->
 
-Ruang kedua Ruang ketiga Ruang pertama Butiran Aktiviti Kategori orang berdaftar Bank saudagar berlesen dan Penempatan secara persendirian (f) bank Islam
+Ruang kedua Ruang ketiga
 
-<!-- marginal: berkenaan -->
+<!-- marginal: Ruang -->
 
-terbitan sekuriti bagi pihak dengan produk Islam pelanggan Perkiraan atau penawaran bagi jualan Bank Islam, bank berlesen (g) atau belian sebagai ejen untuk mana- dan syarikat
+<!-- marginal: pertama -->
 
-<!-- marginal: kewangan -->
+<!-- marginal: Butiran -->
 
-mana orang, apa-apa kepentingan berlesen dalam skim unit amanah
+Aktiviti Kategori orang berdaftar Bank saudagar berlesen dan Penempatan secara persendirian
 
-Bertindak atau menawarkan untuk Bank Islam, bank berlesen, (h) bertindak sebagai ejen bagi mana-mana bank saudagar berlesen dan pusat terbitan berhubung dengan syarikat kewangan berlesen penerbitan atau penyenaraian mana- mana sekuriti
+(f) bank Islam berkenaan terbitan sekuriti bagi pihak dengan produk Islam pelanggan Perkiraan atau penawaran bagi jualan Bank Islam, bank berlesen
 
-Pemberian pinjaman atau peminjaman Bank Islam, bank berlesen, (0 sekuriti hutang tidak tersenarai bagi syarikat kewangan berlesen akaun sendiri atau bagi akaun pelanggan dan bank
+(g) atau belian sebagai ejen untuk mana- dan syarikat kewangan mana orang, apa-apa kepentingan berlesen dalam skim unit amanah
 
-<!-- marginal: saudagar -->
+Bertindak atau menawarkan untuk Bank Islam, bank berlesen,
 
-di bawah Garis Panduan untuk Program berlesen Pinjaman dan Pemberian Pinjaman di bawah RENTAS atau apa-apa garis panduan lain yang bersamaan yang dikeluarkan oleh Bank Negara
+(h) bertindak sebagai ejen bagi mana-mana bank saudagar berlesen dan pusat terbitan berhubung dengan syarikat kewangan berlesen penerbitan atau penyenaraian mana- mana sekuriti
 
-2. Menasihati kewangan korporat Bank berlesen,
+Pemberian pinjaman atau peminjaman Bank Islam, bank berlesen, (0 sekuriti hutang tidak tersenarai bagi syarikat kewangan berlesen akaun sendiri atau bagi akaun pelanggan dan bank saudagar di bawah Garis Panduan untuk Program berlesen Pinjaman dan Pemberian Pinjaman di bawah RENTAS atau apa-apa garis panduan lain yang bersamaan yang dikeluarkan oleh Bank Negara
 
-<!-- marginal: bank -->
+2. Menasihati kewangan korporat Bank berlesen, bank Debentur yang tidak boleh ubah kepada
 
-Debentur yang tidak boleh ubah kepada (a) saudagar berlesen, pusat ekuiti diskaun berlesen dan bank Islam berkenaan dengan debentur Islam
+(a) saudagar berlesen, pusat ekuiti diskaun berlesen dan bank Islam berkenaan dengan debentur Islam
 
-Sekuriti Islam sebagaimana yang Bank berlesen,
+Sekuriti Islam sebagaimana yang Bank berlesen, bank
 
-<!-- marginal: bank -->
+(b) ditentukan dalam garis panduan saudagar berlesen, bank Suruhanjaya berkenaan dengan sekuriti Islam dan syarikat diskaun Islam berlesen
 
-(b) ditentukan dalam garis panduan saudagar berlesen,
-
-<!-- marginal: bank -->
-
-Suruhanjaya berkenaan dengan sekuriti Islam dan syarikat diskaun Islam berlesen
-
-Produk berstruktur sebagaimana yang Bank berlesen,
-
-<!-- marginal: bank -->
+Produk berstruktur sebagaimana yang Bank berlesen, bank
 
 (c) diperuntukkan di bawah garis panduan saudagar berlesen dan bank Suruhanjaya berkenaan dengan produk Islam berkenaan dengan berstruktur produk berstruktur Islam
 
@@ -11784,33 +11960,31 @@ Bank saudagar berlesen,
 
 <!-- page 461 -->
 
-Ruang Ruang kedua Ruang ketiga pertama Butiran Aktiviti Kategori orang berdaftar
+<!-- marginal: Ruang -->
 
-Membuat pengemukaan bagi pihak Bank saudagar berlesen dan (e) pelanggan kepada pihak berkuasa atau bank Islam
+Ruang kedua Ruang ketiga
 
-<!-- marginal: berkenaan -->
+<!-- marginal: pertama -->
 
-orang yang berkaitan berkenaan dengan dengan produk Islam penerbitan sekuriti bagi wang tunai atau balasan lain
+<!-- marginal: Butiran -->
 
-Mengeluarkan apa-apa dokumen yang Bank berlesen,
+Aktiviti Kategori orang berdaftar
 
-<!-- marginal: syarikat -->
+Membuat pengemukaan bagi pihak Bank saudagar berlesen dan
 
-(!) merupakan atau disifatkan sebagai kewangan berlesen, bank suatu prospektus di bawah undang- saudagar berlesen dan bank undang sekuriti dan Akta Syarikat 1965 Islam
+(e) pelanggan kepada pihak berkuasa atau bank Islam berkenaan orang yang berkaitan berkenaan dengan dengan produk Islam penerbitan sekuriti bagi wang tunai atau balasan lain
+
+Mengeluarkan apa-apa dokumen yang Bank berlesen, syarikat (!) merupakan atau disifatkan sebagai kewangan berlesen, bank suatu prospektus di bawah undang- saudagar berlesen dan bank undang sekuriti dan Akta Syarikat 1965 Islam
 
 3. Nasihat pelaburan
 
-Menjalankan suatu urusan menasihati Bank Islam dan
+Menjalankan suatu urusan menasihati Bank Islam dan semua orang lain mengenai sekuriti atau institusi berlesen kontrak niaga hadapan; atau sebahagian daripada urusan, mengeluarkan atau memasyhurkan analisis atau laporan berkenaan dengan sekuriti atau kontrak niaga hadapan.
 
-<!-- marginal: semua -->
+4. Pengurusan Kumpulan Wang Bertindak atau menawarkan untuk Bank saudagar berlesen dan bertindak sebagai pengurus portfolio bank Islam berkenaan bagi pelanggan atau sebagai pengurus dengan dana Islam. pelaburan atau pelaburan bersama dana negara, dana amanah, dana usaha niaga, dana unit amanah atau dana lain termasuk—
 
-orang lain mengenai sekuriti atau institusi berlesen kontrak niaga hadapan; atau sebahagian daripada urusan, mengeluarkan atau memasyhurkan analisis atau laporan berkenaan dengan sekuriti atau kontrak niaga hadapan.
+(i) peruntukan mengenai nasihat pelaburan; dan
 
-4. Pengurusan Kumpulan Wang Bertindak atau menawarkan untuk Bank saudagar berlesen dan bertindak sebagai pengurus portfolio bank Islam
-
-<!-- marginal: berkenaan -->
-
-bagi pelanggan atau sebagai pengurus dengan dana Islam. pelaburan atau pelaburan bersama dana negara, dana amanah, dana usaha niaga, dana unit amanah atau dana lain termasuk— (i) peruntukan mengenai nasihat pelaburan; dan (ii) pemerolehan atau pelupusan melalui pemegang suatu Lesen Perkhidmatan Pasaran Modal yang menjalankan perniagaan dalam sekuriti, berhubung dengan aktiviti itu
+(ii) pemerolehan atau pelupusan melalui pemegang suatu Lesen Perkhidmatan Pasaran Modal yang menjalankan perniagaan dalam sekuriti, berhubung dengan aktiviti itu
 
 Nota: Jadual 4 tidak terpakai bagi bank saudagar berlesen yang memegang Lesen Perkhidmatan Pasaran Modal yang menjalankan urusan berniaga dalam sekuriti.
 
@@ -11818,83 +11992,35 @@ Nota: Jadual 4 tidak terpakai bagi bank saudagar berlesen yang memegang Lesen Pe
 
 ## BAHAGIAN 2
 
-Ruang Ruang kedua Ruang ketiga pertama Perkara Aktiviti Kategori orang berdaftar
+<!-- marginal: Ruang -->
 
-Menasihati kewangan korporat dan Bank
+Ruang kedua Ruang ketiga
 
-<!-- marginal: Pembangunan -->
+<!-- marginal: pertama -->
+
+<!-- marginal: Perkara -->
+
+Aktiviti Kategori orang berdaftar
+
+Menasihati kewangan korporat dan Bank Pembangunan
 
 1. penajajaminan berhubung dengan Malaysia Berhad cadangan bagi syarikat projek infrastruktur sebagaimana yang ditentukan oleh Suruhanjaya sama ada untuk tujuan penyenaraian atau sebaliknya
 
-Perniagaan dalam sekuriti berhubung Mana-mana
+Perniagaan dalam sekuriti berhubung Mana-mana perbadanan
 
-<!-- marginal: perbadanan -->
+2. dengan pelaburan yang dibuat oleh modal usaha niaga dan perbadanan modal usaha niaga dan syarikat pengurusan dana perbadanan pengurusan dana usaha usaha niaga yang berdaftar niaga di bawah Garis Panduan Suruhanjaya bagi Pendaftaran Perbadanan Modal Usaha Niaga dan Perbadanan Pengurusan Modal Usaha Niaga
 
-2. dengan pelaburan yang dibuat oleh modal usaha niaga dan perbadanan modal usaha niaga dan syarikat pengurusan dana perbadanan pengurusan dana usaha usaha niaga yang berdaftar niaga di bawah Garis Panduan Suruhanjaya
+Nasihat pelaburan berhubung dengan Agensi perkadaran kredit
 
-<!-- marginal: bagi -->
+3. peruntukan perkadaran untuk debentur yang diiktiraf oleh Suruhanjaya di bawah Nota Amalan Penawaran Sekuriti Hutang Persendirian dan Garis Panduan mengenai Penawaran Sekuriti Islam
 
-Pendaftaran
+Suatu agensi penentuan Nasihat pelaburan berhubung dengan
 
-<!-- marginal: Perbadanan -->
+4. harga bon yang berdaftar di penentuan harga debentur bawah Garis Panduan Suruhanjaya mengenai Pendaftaran Agensi Penentuan Harga Bon
 
-Modal Usaha Niaga dan Perbadanan
+Berniaga dalam sekuriti berhubung Pengurusan Danaharta
 
-<!-- marginal: Pengurusan -->
-
-Modal Usaha Niaga
-
-Nasihat pelaburan berhubung dengan Agensi perkadaran kredit 3. peruntukan perkadaran untuk debentur yang diiktiraf
-
-<!-- marginal: oleh -->
-
-Suruhanjaya di bawah Nota Amalan Penawaran Sekuriti Hutang Persendirian dan Garis Panduan mengenai Penawaran
-
-<!-- marginal: Sekuriti -->
-
-Islam
-
-Suatu agensi
-
-<!-- marginal: penentuan -->
-
-Nasihat pelaburan berhubung dengan 4. harga bon yang berdaftar di penentuan harga debentur bawah Garis
-
-<!-- marginal: Panduan -->
-
-Suruhanjaya
-
-<!-- marginal: mengenai -->
-
-Pendaftaran
-
-<!-- marginal: Agensi -->
-
-Penentuan Harga Bon
-
-Berniaga dalam sekuriti berhubung Pengurusan
-
-<!-- marginal: Danaharta -->
-
-5. dengan pentadbiran kewajipan Nasional Berhad dan semua Pengurusan Danaharta Nasional subsidiarinya
-
-<!-- marginal: yang -->
-
-Berhad ditetapkan
-
-<!-- marginal: di -->
-
-<!-- marginal: bawah -->
-
-subseksyen
-
-<!-- marginal: 60(2) Akta -->
-
-Pengurusan
-
-<!-- marginal: Danaharta -->
-
-Nasional Berhad 1998
+5. dengan pentadbiran kewajipan Nasional Berhad dan semua Pengurusan Danaharta Nasional subsidiarinya yang Berhad ditetapkan di bawah subseksyen 60(2) Akta Pengurusan Danaharta Nasional Berhad 1998
 
 <!-- page 463 -->
 
@@ -12106,7 +12232,9 @@ Terbitan terkecuali
 
 30. Suatu terbitan sekuriti suatu perbadanan yang dibuat kepada anggota sedia ada suatu syarikat mengikut pengertian seksyen 270 Akta Syarikat 1965.
 
-31. Suatu terbitan bonus sekuriti yang dibuat oleh sesuatu perbadanan. 32. Suatu terbitan berkenaan dengan sekuriti syarikat asing yang sekuriti atau kelas sekuritinya mendapat kemasukan ke mana-mana bursa di luar Malaysia yang diiktiraf di bawah kaedah-kaedah suatu bursa saham, dibuat kepada anggota atau pemegang debentur yang sedia ada perbadanan syarikat asing itu secara terbitan hak.
+31. Suatu terbitan bonus sekuriti yang dibuat oleh sesuatu perbadanan.
+
+32. Suatu terbitan berkenaan dengan sekuriti syarikat asing yang sekuriti atau kelas sekuritinya mendapat kemasukan ke mana-mana bursa di luar Malaysia yang diiktiraf di bawah kaedah-kaedah suatu bursa saham, dibuat kepada anggota atau pemegang debentur yang sedia ada perbadanan syarikat asing itu secara terbitan hak.
 
 33. Suatu terbitan sekuriti suatu perbadanan asing yang sekuriti atau kelas sekuritinya yang mendapat kemasukan ke mana-mana bursa di luar Malaysia yang diiktiraf di bawah kaedah-kaedah suatu bursa saham, dibuat kepada anggota atau pemegang debentur yang sedia ada perbadanan asing itu melalui terbitan hak dengan syarat bahawa terbitan itu telah disertakan dengan prospektus atau dokumen penzahiran yang diluluskan oleh pihak berkuasa menyelia asing perbadanan asing itu.
 
@@ -12120,13 +12248,15 @@ Terbitan terkecuali yang baginya seksyen 232, 233, 234, 235, 236, 237, 238, 239,
 
 Terbitan debentur
 
-Penerbitan, tawaran bagi langganan atau pembelian, atau pelawaan untuk melanggan atau membeli, debentur yang baginya Subpenggal 1 Penggal 4
+Penerbitan, tawaran bagi langganan atau pembelian, atau pelawaan untuk melanggan atau membeli, debentur yang baginya Subpenggal 1 Penggal 4 Bahagian VI dan seksyen 283 Subpenggal 2 Penggal 4 Bahagian VI tidak terpakai.
 
-## Bahagian VI dan seksyen 283 Subpenggal 2 Penggal 4 Bahagian VI tidak terpakai.
+1. Suatu terbitan, tawaran bagi langganan atau pembelian, atau pelawaan untuk melanggan atau membeli, debentur yang dibuat oleh Kerajaan Persekutuan atau mana-mana Kerajaan Negeri atau mana-mana badan berkanun.
 
-1. Suatu terbitan, tawaran bagi langganan atau pembelian, atau pelawaan untuk melanggan atau membeli, debentur yang dibuat oleh Kerajaan Persekutuan atau mana-mana Kerajaan Negeri atau mana-mana badan berkanun. 2. Suatu terbitan, tawaran bagi langganan atau pembelian, atau pelawaan untuk melanggan atau membeli, debentur yang dijamin oleh Kerajaan Persekutuan atau Bank Negara.
+2. Suatu terbitan, tawaran bagi langganan atau pembelian, atau pelawaan untuk melanggan atau membeli, debentur yang dijamin oleh Kerajaan Persekutuan atau Bank Negara.
 
-3. Suatu terbitan, tawaran bagi langganan atau pembelian, atau pelawaan untuk melanggan atau membeli, debentur yang menurut termanya hanya boleh dipegang oleh anggota penerbit. 4. Suatu terbitan, tawaran bagi langganan atau pembelian, atau pelawaan untuk melanggan atau membeli, debentur yang menurut termanya hanya boleh dipegang oleh seorang pemegang tunggal debentur itu.
+3. Suatu terbitan, tawaran bagi langganan atau pembelian, atau pelawaan untuk melanggan atau membeli, debentur yang menurut termanya hanya boleh dipegang oleh anggota penerbit.
+
+4. Suatu terbitan, tawaran bagi langganan atau pembelian, atau pelawaan untuk melanggan atau membeli, debentur yang menurut termanya hanya boleh dipegang oleh seorang pemegang tunggal debentur itu.
 
 <!-- page 471 -->
 
@@ -12742,9 +12872,7 @@ dipertuduh atas suatu kesalahan. Suruhanjaya boleh mendapatkan suatu amaun yang 
 
 <!-- marginal: perlanggaran -->
 
-## Bahagian VI Akta yang dicadangkan. la memperuntukkan bahawa mana-mana
-
-orang yang mengalami kehilangan atau kerugian akibat daripada perlakuan seorang lain yang melanggar mana-mana peruntukan Bahagian VI atau
+Bahagian VI Akta yang dicadangkan. la memperuntukkan bahawa mana-mana orang yang mengalami kehilangan atau kerugian akibat daripada perlakuan seorang lain yang melanggar mana-mana peruntukan Bahagian VI atau
 
 <!-- page 493 -->
 
@@ -12818,4 +12946,4 @@ IMPLIKASl KEWANGAN
 
 Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
 
-[PN(U2)2538]
+<!-- marginal: [PN(U2)2538] -->

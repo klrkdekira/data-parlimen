@@ -140,252 +140,20 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_4",
       "@type": "akn:clause",
       "eli:number": "4",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_4__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_4__subsec_3"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan menggantikan seksyen 5 dengan seksyen yang berikut: \"5. The Code is amended by inserting after section 20 the following section: \"Procedure on search of a person 20A. ( 1 ) Any search of a person shall comply with the procedure on body search as specified in the Fourth Schedule of this Code."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_4__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_4",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Notwithstanding any written law, the provisions of the Fourth Schedule shall apply to any search of a person conducted by any officer of any enforcement agency conferred with the power of arrest or search of a person under any law."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_4__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_4",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "The Minister charged with the responsibility for internal security and public order may amend the Fourth Schedule by order published in the Gazette.\" \". Pindaan seksyen 7"
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 5 dengan seksyen yang berikut: \"5. The Code is amended by inserting after section 20 the following section: \"Procedure on search of a person 20A. ( 1 ) Any search of a person shall comply with the procedure on body search as specified in the Fourth Schedule of this Code. (2) Notwithstanding any written law, the provisions of the Fourth Schedule shall apply to any search of a person conducted by any officer of any enforcement agency conferred with the power of arrest or search of a person under any law. (3) The Minister charged with the responsibility for internal security and public order may amend the Fourth Schedule by order published in the Gazette.\" \". Pindaan seksyen 7"
       }
     },
     {
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5",
       "@type": "akn:clause",
       "eli:number": "5",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_3",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_4",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_5",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_6",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_7",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_8",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_9",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_10",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_11"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan menggantikan seksyen 7 dengan seksyen yang berikut: \"7. The Code is amended by inserting after section 28 the following section: \"Rights of person arrested 28A. (1) A person arrested without a warrant shall be informed as soon as may be of the grounds of his arrest by the police officer making the arrest."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_10",
-      "@type": "akn:subsection",
-      "eli:number": "10",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "The police officer giving the authorization under subsection (9) shall record the grounds of belief of the police officer that the conditions specified under subsection (8) will arise and such record shall be made as soon as practicable."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_11",
-      "@type": "akn:subsection",
-      "eli:number": "11",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "The investigating officer shall comply with the requirements under subsections (2), (3), (4), (5), (6) and (7) as soon as possible after the conditions specified under subsection (8) have ceased to apply where the person arrested is still under detention under this section or under section 117.\" \". Pindaan seksyen 10"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_2__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_2__para_b"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "A police officer shall, before commencing any form of questioning or recording of any statement from the person arrested, inform the person that he may —"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_2__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "communicate or attempt to communicate, with a relative or friend to inform of his whereabouts; and"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_2__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "communicate or attempt to communicate and consult with a legal practitioner of his choice."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Where the person arrested wishes to communicate or attempt to communicate with.the persons referred to in paragraphs (2) (a) and (b), the police officer shall, as soon as may be, allow the arrested person to do so."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_4",
-      "@type": "akn:subsection",
-      "eli:number": "4",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_4__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_4__para_b"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Where the person arrested has requested for a legal practitioner to be consulted, the police officer shall allow a reasonable time —"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_4__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_4",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "for the legal practitioner to be present to meet the person arrested at his place of detention; and"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_4__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_4",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "for the consultation to take place."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_5",
-      "@type": "akn:subsection",
-      "eli:number": "5",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "The consultation under subsection (4) shall be within the sight of a police officer and in circumstances, in so far as practicable, where their communication will not be overheard."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_6",
-      "@type": "akn:subsection",
-      "eli:number": "6",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "The police officer shall defer any questioning or recording of any statement from the person arrested for a reasonable time until the communication or attempted communication under paragraph 2(b) or the consultation under subsection (4) has been made."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_7",
-      "@type": "akn:subsection",
-      "eli:number": "7",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "The police officer shall provide reasonable facilities for the communication and consultation under this section and all such facilities provided shall be free of charge."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_8",
-      "@type": "akn:subsection",
-      "eli:number": "8",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_8__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_8__para_b"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "The requirements under subsections (2), (3), (4), (5), (6) and (7) shall not apply where the police officer reasonably believes that—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_8__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_8__para_a__subpara_i",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_8__para_a__subpara_ii"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_8",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "compliance with any of the requirements is likely to result in-"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_8__para_a__subpara_i",
-      "@type": "akn:subparagraph",
-      "eli:number": "i",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_8__para_a",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "an accomplice of the person arrested taking steps to avoid apprehension; or"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_8__para_a__subpara_ii",
-      "@type": "akn:subparagraph",
-      "eli:number": "ii",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_8__para_a",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "the concealment, fabrication or destruction of evidence or the intimidation of a witless; or"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_8__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_8",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "having regard to the safety of other persons the questioning or recording of any statement is so urgent that it should not be delayed."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5__subsec_9",
-      "@type": "akn:subsection",
-      "eli:number": "9",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_5",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Subsection (8) shall only apply upon authorization by a police officer not beloyv the rank of Deputy Superintendent of Police."
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 7 dengan seksyen yang berikut: \"7. The Code is amended by inserting after section 28 the following section: \"Rights of person arrested 28A. (1) A person arrested without a warrant shall be informed as soon as may be of the grounds of his arrest by the police officer making the arrest. (2) A police officer shall, before commencing any form of questioning or recording of any statement from the person arrested, inform the person that he may — (a) communicate or attempt to communicate, with a relative or friend to inform of his whereabouts; and (b) communicate or attempt to communicate and consult with a legal practitioner of his choice. (3) Where the person arrested wishes to communicate or attempt to communicate with.the persons referred to in paragraphs (2) (a) and (b), the police officer shall, as soon as may be, allow the arrested person to do so. (4) Where the person arrested has requested for a legal practitioner to be consulted, the police officer shall allow a reasonable time — (a) for the legal practitioner to be present to meet the person arrested at his place of detention; and (b) for the consultation to take place. (5) The consultation under subsection (4) shall be within the sight of a police officer and in circumstances, in so far as practicable, where their communication will not be overheard. (6) The police officer shall defer any questioning or recording of any statement from the person arrested for a reasonable time until the communication or attempted communication under paragraph 2(b) or the consultation under subsection (4) has been made. (7) The police officer shall provide reasonable facilities for the communication and consultation under this section and all such facilities provided shall be free of charge. (8) The requirements under subsections (2), (3), (4), (5), (6) and (7) shall not apply where the police officer reasonably believes that— (a) compliance with any of the requirements is likely to result in- (i) an accomplice of the person arrested taking steps to avoid apprehension; or (ii) the concealment, fabrication or destruction of evidence or the intimidation of a witless; or (b) having regard to the safety of other persons the questioning or recording of any statement is so urgent that it should not be delayed. (9) Subsection (8) shall only apply upon authorization by a police officer not beloyv the rank of Deputy Superintendent of Police. (10) The police officer giving the authorization under subsection (9) shall record the grounds of belief of the police officer that the conditions specified under subsection (8) will arise and such record shall be made as soon as practicable. (11) The investigating officer shall comply with the requirements under subsections (2), (3), (4), (5), (6) and (7) as soon as possible after the conditions specified under subsection (8) have ceased to apply where the person arrested is still under detention under this section or under section 117.\" \". Pindaan seksyen 10"
       }
     },
     {
@@ -437,57 +205,11 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_7",
       "@type": "akn:clause",
       "eli:number": "7",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_7__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_7__subsec_3",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_7__subsec_4",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_7__subsec_5"
-      ],
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_7__subsec_5",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan menggantikan seksyen 14 dengan seksyen yang berikut: \"14. The Code is amended by substituting for section 113 the following section: \"Admission of statements in evidence 113. (1) Except as provided in this section, no statement made by any person to a police officer in the course of a police investigation made under this Chapter shall be used in evidence."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_7__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_7",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "When any witness is called for the prosecution or for the defence, other than the accused, the court shall, on the request of the accused or the prosecutor, refer to any statement made by that witness to a police officer in the course of a police investigation under this Chapter and may then, if the court thinks fit in the interest of justice, direct the accused to be furnished with a copy of it and the statement may be used to impeach the credit of the witness in the manner provided by the Evidence Act 1950 [Act 56]."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_7__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_7",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Where the accused had made a statement during the course of a police investigation, such statement may be admitted in evidence in support of his defence during the course of the trial."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_7__subsec_4",
-      "@type": "akn:subsection",
-      "eli:number": "4",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_7__subsec_4__para_j",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_7",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Nothing in this section shall be deemed to apply to any statement made in the course of an identification parade or falling within section 27 or paragraphs 32(1)(a), (i) and"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_7__subsec_4__para_j",
-      "@type": "akn:paragraph",
-      "eli:number": "j",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_7__subsec_4",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "of the Evidence Act 1950."
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 14 dengan seksyen yang berikut: \"14. The Code is amended by substituting for section 113 the following section: \"Admission of statements in evidence 113. (1) Except as provided in this section, no statement made by any person to a police officer in the course of a police investigation made under this Chapter shall be used in evidence. (2) When any witness is called for the prosecution or for the defence, other than the accused, the court shall, on the request of the accused or the prosecutor, refer to any statement made by that witness to a police officer in the course of a police investigation under this Chapter and may then, if the court thinks fit in the interest of justice, direct the accused to be furnished with a copy of it and the statement may be used to impeach the credit of the witness in the manner provided by the Evidence Act 1950 [Act 56]. (3) Where the accused had made a statement during the course of a police investigation, such statement may be admitted in evidence in support of his defence during the course of the trial. (4) Nothing in this section shall be deemed to apply to any statement made in the course of an identification parade or falling within section 27 or paragraphs 32(1)(a), (i) and (j) of the Evidence Act 1950."
       }
     },
     {
@@ -529,8 +251,8 @@
       "@type": "akn:clause",
       "eli:number": "8",
       "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_8__para_ii",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_8__para_iii"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_8__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_8__subpara_iii"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@",
       "schema:text": {
@@ -539,8 +261,8 @@
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_8__para_ii",
-      "@type": "akn:paragraph",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_8__subpara_ii",
+      "@type": "akn:subparagraph",
       "eli:number": "ii",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_8",
       "schema:text": {
@@ -549,8 +271,8 @@
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_8__para_iii",
-      "@type": "akn:paragraph",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_8__subpara_iii",
+      "@type": "akn:subparagraph",
       "eli:number": "iii",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_8",
       "schema:text": {
@@ -562,21 +284,14 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_9",
       "@type": "akn:clause",
       "eli:number": "9",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_9__para_e",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@",
       "schema:name": {
         "@language": "ms",
         "@value": "Seksyen 33 Akta ibu dipinda dengan menggantikan perenggan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_9__para_e",
-      "@type": "akn:paragraph",
-      "eli:number": "e",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/14/msa@/~cl_9",
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan perenggan yang berikut: \"(e) in the item relating to section 225B of the Penal Code, in column 7, by substituting for the words \"Fine of four hundred ringgit\" the words \"Imprisonment for twelve months, or fine of two thousand ringgit, or both\"; \". Pindaan seksyen 34"
+        "@value": "(e) dengan perenggan yang berikut: \"(e) in the item relating to section 225B of the Penal Code, in column 7, by substituting for the words \"Fine of four hundred ringgit\" the words \"Imprisonment for twelve months, or fine of two thousand ringgit, or both\"; \". Pindaan seksyen 34"
       }
     }
   ]

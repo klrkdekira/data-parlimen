@@ -96,11 +96,23 @@ sama ada di sisi ekuiti atau undang-undang, dalam, ke atas atau daripada harta, 
 
 "Menteri" ertinya Menteri yang sedang di- pertanggungkan dengan tanggungjawab bagi penerbangan awam;
 
-"Perbadanan" ertinya Menteri Kewangan yang Akta 375. diperbadankan melalui Akta Menteri Kewangan (Pemerbadanan) 1957;
+"Perbadanan" ertinya Menteri Kewangan yang
 
-"Pesuruhjaya Tanah Persekutuan" ertinya Pesuruhjaya Akta 349. Tanah Persekutuan yang dilantik di bawah Akta Pesuruhjaya Tanah Persekutuan 1957;
+<!-- marginal: Akta 375. -->
 
-"syarikat pengendali" ertinya syarikat yang dinamakan Akta 3. dan dilesenkan di bawah subseksyen 24A(1) Akta Penerbangan Awam 1969;
+diperbadankan melalui Akta Menteri Kewangan (Pemerbadanan) 1957;
+
+"Pesuruhjaya Tanah Persekutuan" ertinya Pesuruhjaya
+
+<!-- marginal: Akta 349. -->
+
+Tanah Persekutuan yang dilantik di bawah Akta Pesuruhjaya Tanah Persekutuan 1957;
+
+"syarikat pengendali" ertinya syarikat yang dinamakan
+
+<!-- marginal: Akta 3. -->
+
+dan dilesenkan di bawah subseksyen 24A(1) Akta Penerbangan Awam 1969;
 
 "tarikh peletakhakan" ertinya tarikh harta, hak-hak dan liabiliti-Uabiliti Kerajaan Malaysia berpindah kepada dan terletakhak pada syarikat pengendali sebagaimana yang dinyatakan oleh Menteri dari semasa ke semasa dalam perintah di bawah subseksyen 3(1).
 
@@ -112,7 +124,17 @@ II
 
 ## SYARIKAT PENGENDALI
 
-Peruntukan- 3. (1) Tertakluk kepada Akta ini, Menteri boleh, dari peruntukan semasa ke semasa, melalui perintah yang disiarkan dalam peletakhakan. Warta, menetapkan tarikh peletakhakan dan pada tarikh itu segala harta, hak atau liabiliti Kerajaan Malaysia yang berhubungan dengan penerbangan awam yang dinyatakan oleh Menteri dalam perintah itu hendaklah, menurut kuasa
+<!-- marginal: Peruntukan- -->
+
+3. (1) Tertakluk kepada Akta ini, Menteri boleh, dari
+
+<!-- marginal: peruntukan -->
+
+semasa ke semasa, melalui perintah yang disiarkan dalam
+
+<!-- marginal: peletakhakan. -->
+
+Warta, menetapkan tarikh peletakhakan dan pada tarikh itu segala harta, hak atau liabiliti Kerajaan Malaysia yang berhubungan dengan penerbangan awam yang dinyatakan oleh Menteri dalam perintah itu hendaklah, menurut kuasa
 
 <!-- page 5 -->
 
@@ -138,7 +160,7 @@ Akta ini, berpindah kepada dan terletakhak pada syarikat pengendali tanpa apa-ap
 
 ### pengendali, peruntukan-peruntukan Bahagian Tiga Puluh
 
-Akta 56/65
+<!-- marginal: Akta 56/65 -->
 
 ### Kanun Tanah Negara hendaklah, bagi maksud
 
@@ -170,21 +192,25 @@ Akta 56/65
 
 ### menjadi pihak kepada perjanjian itu.
 
-Pemegangan
+<!-- marginal: Pemegangan -->
 
-4. (1) Sebagai akibat peletakhakan harta, hak-hak dan Kerajaan
+4. (1) Sebagai akibat peletakhakan harta, hak-hak dan
+
+<!-- marginal: Kerajaan -->
 
 ### liabiliti-liabiliti di bawah seksyen 3 pada syarikat
 
-yang mula- mula dalam
+<!-- marginal: yang mula- -->
+
+<!-- marginal: mula dalam -->
 
 ### pengendali, syarikat itu hendaklah menerbitkan apa-apa
 
-syarikat
+<!-- marginal: syarikat -->
 
 ### sekuriti syarikat itu kepada Perbadanan sebagaimana yang
 
-pengendali.
+<!-- marginal: pengendali. -->
 
 ### diarahkan oleh Menteri Kewangan, selepas berunding
 
@@ -208,7 +234,9 @@ pengendali.
 
 dan
 
-(b) hendaklah diterbitkan sebagai berbayar penuh Akta 125
+(b) hendaklah diterbitkan sebagai berbayar penuh
+
+<!-- marginal: Akta 125 -->
 
 ### dan dikira bagi maksud-maksud Akta Syarikat
 
@@ -262,7 +290,11 @@ di bawah subperenggan 8 (3) (a) (iv) Akta Prosedur Kewangan 1957.
 
 (5) Duti setem tidak boleh dikenakan—
 
-(a) berkenaan dengan apa-apa pertambahan dalam modal syer dibenarkan syarikat pengendali yang— (i) dilaksanakan pada masa syarikat pengendali dipunyai sepenuhnya oleh Kerajaan; dan
+(a) berkenaan dengan apa-apa pertambahan dalam modal syer dibenarkan syarikat pengendali yang— (i) dilaksanakan pada masa
+
+<!-- marginal: syarikat -->
+
+pengendali dipunyai sepenuhnya oleh Kerajaan; dan
 
 <!-- page 8 -->
 
@@ -270,9 +302,29 @@ di bawah subperenggan 8 (3) (a) (iv) Akta Prosedur Kewangan 1957.
 
 (b) atas apa-apa suratcara yang diperakui oleh Perbendaharaan sebagai telah dibuat atau dilaksanakan menurut seksyen 4.
 
-Pelantikan
+<!-- marginal: Pelantikan -->
 
-6. (1) Menteri Kewangan boleh, dari semasa ke semasa, wakil-wakil selepas berunding dengan Menteri, selagi Kerajaan Kerajaan menganggotai Malaysia memegang tidak kurang daripada lima peratus lembaga daripada kesemua sekuriti diterbitkan dalam syarikat syarikat pengendali. pengendali, menamakan sekian bilangan orang yang sesuai untuk menjadi pengarah dalam lembaga syarikat itu.
+6. (1) Menteri Kewangan boleh, dari semasa ke semasa,
+
+<!-- marginal: wakil-wakil -->
+
+selepas berunding dengan Menteri, selagi Kerajaan
+
+<!-- marginal: Kerajaan -->
+
+<!-- marginal: menganggotai -->
+
+Malaysia memegang tidak kurang daripada lima peratus
+
+<!-- marginal: lembaga -->
+
+daripada kesemua sekuriti diterbitkan dalam syarikat
+
+<!-- marginal: syarikat -->
+
+<!-- marginal: pengendali. -->
+
+pengendali, menamakan sekian bilangan orang yang sesuai untuk menjadi pengarah dalam lembaga syarikat itu.
 
 (2) Syarikat pengendali hendaklah menyebabkan tiap- tiap orang yang dinamakan oleh Menteri Kewangan di bawah subseksyen (1) dilantik menganggotai lembaga syarikat itu.
 
@@ -282,9 +334,17 @@ Pelantikan
 
 (5) Tiada apa-apa jua dalam seksyen ini boleh ditafsirkan sebagai menyentuh apa-apa kuasa, hak atau keistimewaan yang diberikan kepada Kerajaan Malaysia oleh dokumen konstituen syarikat pengendali itu.
 
-Struktur
+<!-- marginal: Struktur -->
 
-7. (1) Jika Menteri Kewangan, selepas berunding dengan kewangan Menteri, mengarahkan sedemikian pada bila-bila masa syarikat pengendali.
+7. (1) Jika Menteri Kewangan, selepas berunding dengan
+
+<!-- marginal: kewangan -->
+
+Menteri, mengarahkan sedemikian pada bila-bila masa
+
+<!-- marginal: syarikat -->
+
+<!-- marginal: pengendali. -->
 
 <!-- page 9 -->
 

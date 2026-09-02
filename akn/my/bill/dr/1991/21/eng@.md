@@ -22,13 +22,29 @@ III
 
 ## RAILWAY SCHEME
 
-7. Railway scheme. 8. Approval of railway scheme and deposit of plans, sections, etc. 9. Railway to be constructed according to approved plans. 10. Private land may be acquired for railway.
+7. Railway scheme. 8. Approval of railway scheme and deposit of plans, sections, etc. 9. Railway to be constructed according to approved plans.
+
+10. Private land may be acquired for railway.
 
 ## PART IV
 
 ## CONSTRUCTION AND WORKS
 
-11. Power of railway company to execute all necessary works. 12. Powers in case of accident. 13. Payment of compensation. 14. Accommodation works. 15. Additional works. 16. Fences, screens, gates and bars. 17. Graded crossings. 18. Road crossings.
+11. Power of railway company to execute all necessary works.
+
+12. Powers in case of accident.
+
+13. Payment of compensation.
+
+14. Accommodation works.
+
+15. Additional works.
+
+16. Fences, screens, gates and bars.
+
+17. Graded crossings.
+
+18. Road crossings.
 
 <!-- page 2 -->
 
@@ -94,29 +110,95 @@ III
 
 ## ACCIDENTS
 
-45. Notice of accident to be given. 46. Inquiry. 47. Minister may order inquiry. 48. Meaning of "accident". 49. Power to make regulations relating to notices of accident, etc. 50. Submission of return of accidents. 51. Penalty for failure to comply with section 45. 52. Penalty for failure to comply with section 50. 53. Compulsory medical examination of persons injured in railway accident.
+45. Notice of accident to be given.
+
+46. Inquiry.
+
+47. Minister may order inquiry.
+
+48. Meaning of "accident".
+
+49. Power to make regulations relating to notices of accident, etc.
+
+50. Submission of return of accidents.
+
+51. Penalty for failure to comply with section 45.
+
+52. Penalty for failure to comply with section 50.
+
+53. Compulsory medical examination of persons injured in railway accident.
 
 ## PART IX
 
 ## OFFENCES AND PENALTIES
 
-54. Intoxication or breach of duty. 55. Unlawfully bringing dangerous or offensive goods upon railway. 56. Entering or leaving railway coach, etc. while coach in motion, or travelling irregularly. 57. Entering or leaving railway coach irregularly. 58. Resisting entry, and entering and refusing to leave full train. 59. Penalty for disorderly or offensive behaviour or nuisance. 60. Penalty for improper use of emergency signal apparatus. 61. Penalty for removing, etc., stakes, pegs or other marks. 62. Penalty for trespass. 63. Penalty for driving any vehicle or animal upon or across a railway. 64. Penalty for damage, whether wilful or negligent. 65. Opening or not properly shutting gates. 66. Maliciously obstructing or attempting to obstruct a railway. 67. Maliciously hurting or attempting to hurt persons travelling by train. 68. Penalty for causing train to stop. 69. Penalty for wilful act or omission endangering passenger. 70. Penalty for negligent act. 71. Making false statements, etc.
+54. Intoxication or breach of duty.
+
+55. Unlawfully bringing dangerous or offensive goods upon railway.
+
+56. Entering or leaving railway coach, etc. while coach in motion, or travelling irregularly.
+
+57. Entering or leaving railway coach irregularly.
+
+58. Resisting entry, and entering and refusing to leave full train.
+
+59. Penalty for disorderly or offensive behaviour or nuisance.
+
+60. Penalty for improper use of emergency signal apparatus.
+
+61. Penalty for removing, etc., stakes, pegs or other marks.
+
+62. Penalty for trespass.
+
+63. Penalty for driving any vehicle or animal upon or across a railway.
+
+64. Penalty for damage, whether wilful or negligent.
+
+65. Opening or not properly shutting gates.
+
+66. Maliciously obstructing or attempting to obstruct a railway.
+
+67. Maliciously hurting or attempting to hurt persons travelling by train.
+
+68. Penalty for causing train to stop.
+
+69. Penalty for wilful act or omission endangering passenger.
+
+70. Penalty for negligent act.
+
+71. Making false statements, etc.
 
 <!-- page 4 -->
 
-72. Penalty for breach of Act or regulations for which no special penalty is provided. 73. Legal duties of railway officials. 74. Apprehension of offenders. 75. Recovery of fares, charges or damages. 76. Offence by bodies corporate. 77. Compounding of offences. 78. Prosecution.
+72. Penalty for breach of Act or regulations for which no special penalty is provided.
+
+73. Legal duties of railway officials.
+
+74. Apprehension of offenders. 75. Recovery of fares, charges or damages.
+
+76. Offence by bodies corporate.
+
+77. Compounding of offences.
+
+78. Prosecution.
 
 ## PART X
 
 ## SUSPENSION OR REVOCATION OF LICENCE
 
-79. Suspension or revocation of licence. 80. Action by Minister in certain circumstances. 81. Provisions relating to appointment under section 80. 82. Provisions relating to assumption of control under section 80.
+79. Suspension or revocation of licence. 80. Action by Minister in certain circumstances.
+
+81. Provisions relating to appointment under section 80. 82. Provisions relating to assumption of control under section 80.
 
 ## PART XI
 
 ## MISCELLANEOUS PROVISIONS
 
-83. Power of entry. 84. Disposal of differences between railway companies regarding conduct of joint traffic. 85. Submission of memorandum for any change in existing structure of fares, etc. 86. Special powers in emergency. 87. Restriction on execution against railway property. 88. Power to make regulations.
+83. Power of entry.
+
+84. Disposal of differences between railway companies regarding conduct of joint traffic. 85. Submission of memorandum for any change in existing structure of fares, etc. 86. Special powers in emergency.
+
+87. Restriction on execution against railway property. 88. Power to make regulations.
 
 ## PART XII
 
@@ -124,19 +206,21 @@ III
 
 ## RAILWAY PROPERTY
 
-89. Establishment, membership and functions of the Railway Assets Corporation. 90. Appointment of the Railway Assets Manager. 91. Power of Minister to give directions. 92. Dissolution of Malayan Railway Administration and vesting of its property in the Corporation. 93. Vesting of property in the Corporation. 94. Vesting of property situated in the Republic of Singapore in the Federal Lands Commissioner.
+89. Establishment, membership and functions of the Railway Assets Corporation.
+
+90. Appointment of the Railway Assets Manager.
+
+91. Power of Minister to give directions.
+
+92. Dissolution of Malayan Railway Administration and vesting of its property in the Corporation.
+
+93. Vesting of property in the Corporation.
+
+94. Vesting of property situated in the Republic of Singapore in the Federal Lands Commissioner.
 
 <!-- page 5 -->
 
-95. Liabilities enforceable against the Corporation or Federal Lands Commissioner.
-
-96. Appointment of officers, etc., of the Corporation.
-
-97. Public Authorities Protection Act 1948.
-
-98. Establishment of Railway Assets Corporation Fund.
-
-99. Ineligibility for employment as officers or servants of the Corporation.
+95. Liabilities enforceable against the Corporation or Federal Lands Commissioner. 96. Appointment of officers, etc., of the Corporation. 97. Public Authorities Protection Act 1948. 98. Establishment of Railway Assets Corporation Fund. 99. Ineligibility for employment as officers or servants of the Corporation.
 
 100. Audited accounts, returns, reports, accounts and information.
 
@@ -224,7 +308,11 @@ Land Code of Sarawak, as the case may be;
 
 "fare" includes all sums received or receivable and all sums charged or chargeable for the conveyance of passengers;
 
-"Federal Lands Commissioner" means the Federal Lands Commissioner appointed under the Federal Lands Act 349. Commissioner Act 1957;
+"Federal Lands Commissioner" means the Federal Lands Commissioner appointed under the Federal Lands
+
+<!-- marginal: Act 349. -->
+
+Commissioner Act 1957;
 
 "freight" includes all sums received or receivable and all sums charged or chargeable for the transport of goods;
 
@@ -288,7 +376,13 @@ but does not include—
 
 "rate" includes any fare, freight, charge or other payment for the transport of any passenger or goods;
 
-MU. "repealed Ordinance" means the Railway Ordinance Ord. 8148. 1948;
+<!-- marginal: MU. -->
+
+"repealed Ordinance" means the Railway Ordinance
+
+<!-- marginal: Ord. 8148. -->
+
+1948;
 
 "rolling-stock" includes tenders, motors, coaches, wagons, trucks, trolleys, carriages of any kind and locomotive and other kinds of engine used on a railway;
 
@@ -356,11 +450,29 @@ shall be as follows:
 
 (e) current policies of the Government in respect of social and economic development and environmental protection.
 
-Power to 5. (1) The Director General may, in writing, delegate to delegate any public officer, subject to such conditions, limitations or restrictions as he thinks fit to impose, any of his duties or functions under this Act except the power to make regulations.
+<!-- marginal: Power to -->
+
+5. (1) The Director General may, in writing, delegate to
+
+<!-- marginal: delegate -->
+
+any public officer, subject to such conditions, limitations or restrictions as he thinks fit to impose, any of his duties or functions under this Act except the power to make regulations.
 
 (2) Any delegation made under this section shall not prevent the Director General himself from performing the duty or exercising the function so delegated.
 
-Power of 6. The Minister may, from time to time, give to the the Minister Director General directions not inconsistent with the to give directions. provisions of this Act and the Director General shall give effect to all such directions.
+<!-- marginal: Power of -->
+
+6. The Minister may, from time to time, give to the
+
+<!-- marginal: the Minister -->
+
+Director General directions not inconsistent with the
+
+<!-- marginal: to give -->
+
+<!-- marginal: directions. -->
+
+provisions of this Act and the Director General shall give effect to all such directions.
 
 <!-- page 13 -->
 
@@ -382,7 +494,11 @@ without the approval of the Minister.
 
 (b) the general routes and terminal points of the proposed railway system;
 
-(c) the safety aspects of the proposed railway system;
+(c) the safety aspects of the proposed
+
+<!-- marginal: railway -->
+
+system;
 
 (d) the proposed fare or freight structure; and
 
@@ -398,7 +514,27 @@ without the approval of the Minister.
 
 <!-- page 14 -->
 
-Approval of 8. (1) The Minister may reject or grant conditional railway approval to a railway scheme. scheme and deposit of plans, (2) Where the Minister grants conditional approval to sections, etc. the railway scheme under subsection (1), the applicant shall deposit, in the office of the Director General, for public inspection—
+<!-- marginal: Approval of -->
+
+8. (1) The Minister may reject or grant conditional
+
+<!-- marginal: railway -->
+
+approval to a railway scheme.
+
+<!-- marginal: scheme and -->
+
+<!-- marginal: deposit -->
+
+<!-- marginal: of plans, -->
+
+(2) Where the Minister grants conditional approval to
+
+<!-- marginal: sections, -->
+
+<!-- marginal: etc. -->
+
+the railway scheme under subsection (1), the applicant shall deposit, in the office of the Director General, for public inspection—
 
 (a) plans and sections on a scale specified by the Director General showing the lines and levels of the proposed railway and also—
 
@@ -428,19 +564,51 @@ Approval of 8. (1) The Minister may reject or grant conditional railway approval
 
 (7) In the case where paragraph (6) (b) applies, the Minister may, after considering the amendments made to the plans and sections and having regard to the objections made under subsection (4), give final approval to or reject the railway scheme.
 
-(8) The plans and sections, if approved by the Minister, whether under paragraph (6) (a) or subsection (7), shall be deemed to be deposited plans referred to in this Act.
+(8) The plans and sections, if approved by the Minister, whether under paragraph (6) (a) or subsection
+
+(7), shall be deemed to be deposited plans referred to in this Act.
 
 (9) The Minister may, in approving any railway scheme, impose any requirement or condition as he considers appropriate.
 
 <!-- page 16 -->
 
-9. (1) Any railway constructed under this Act shall be Railway to be constructed made and maintained according to the lines and levels according to shown on the deposited plans with all proper bridges, approved plans. viaducts, stations, sidings, approaches, junctions, roads, buildings, yards, works and conveniences connected therewith and incidental thereto.
+9. (1) Any railway constructed under this Act shall be
+
+<!-- marginal: Railway to -->
+
+<!-- marginal: be constructed -->
+
+made and maintained according to the lines and levels
+
+<!-- marginal: according to -->
+
+shown on the deposited plans with all proper bridges,
+
+<!-- marginal: approved -->
+
+<!-- marginal: plans. -->
+
+viaducts, stations, sidings, approaches, junctions, roads, buildings, yards, works and conveniences connected therewith and incidental thereto.
 
 (2) A railway route may deviate from the line of railway shown on the deposited plans, but no such deviation shall extend beyond the limits of deviation shown on the plans.
 
-Private
+<!-- marginal: Private -->
 
-10. (1) Such of the lands as are required for the purpose land may of constructing a railway and shown on the plans and be acquired for railway, sections and mentioned in the book of reference deposited under subsection 8(2) shall be deemed to be lands required for a public purpose within the meaning Act 34160. of the Land Acquisition Act 1960.
+10. (1) Such of the lands as are required for the purpose
+
+<!-- marginal: land may -->
+
+of constructing a railway and shown on the plans and
+
+<!-- marginal: be acquired -->
+
+<!-- marginal: for railway, -->
+
+sections and mentioned in the book of reference deposited under subsection 8(2) shall be deemed to be lands required for a public purpose within the meaning
+
+<!-- marginal: Act 34160. -->
+
+of the Land Acquisition Act 1960.
 
 (2) Proceedings under the Land Acquisition Act 1960 shall be taken separately in respect of each land shown on the plans and sections and mentioned in the book of reference.
 
@@ -452,9 +620,25 @@ IV
 
 ## CONSTRUCTION AND WORKS
 
-Power of
+<!-- marginal: Power of -->
 
-11. (1) Subject to this Act, whenever it is necessary so railway to do, a railway company may, for the purpose of company to execute all constructing a railway or the accommodation or other necessary works connected therewith— works.
+11. (1) Subject to this Act, whenever it is necessary so
+
+<!-- marginal: railway -->
+
+to do, a railway company may, for the purpose of
+
+<!-- marginal: company to -->
+
+<!-- marginal: execute all -->
+
+constructing a railway or the accommodation or other
+
+<!-- marginal: necessary -->
+
+works connected therewith—
+
+<!-- marginal: works. -->
 
 (a) make or construct in, upon, across, under or over any land or river, such temporary works or structures, including roads, bridges, rails, ways, conduits and drains, as the railway company thinks proper; and
 
@@ -462,7 +646,9 @@ Power of
 
 (b) alter temporarily the course of any roads, streets or ways, as the railway company thinks proper.
 
-(2) In exercising the powers conferred by subsection (1), the railway company shall be subject to any direction which may be given by the Director General from time to time.
+(2) In exercising the powers conferred by subsection
+
+(1), the railway company shall be subject to any direction which may be given by the Director General from time to time.
 
 (3) A railway company shall, before exercising the powers conferred by subsection (1), give notice to the proprietor or occupier of the land of his intention to enter the land.
 
@@ -488,7 +674,17 @@ embankment or other work under the control of a railway company, authorise that 
 
 (3) If after considering the report the Director General is of the opinion that there is no danger or apprehended danger to the public, the railway company shall immediately cease work on such lands.
 
-Payment 13. (1) In exercising the powers under sections 11 and of compen- 12, a railway company shall cause as little damage as sation. possible to the lands and adequate compensation shall be paid for any damage caused by the exercise thereof.
+<!-- marginal: Payment -->
+
+13. (1) In exercising the powers under sections 11 and
+
+<!-- marginal: of compen- -->
+
+12, a railway company shall cause as little damage as
+
+<!-- marginal: sation. -->
+
+possible to the lands and adequate compensation shall be paid for any damage caused by the exercise thereof.
 
 (2) Any person claiming compensation from a railway company may lodge his claim with the Administrator who shall forward such claim to the railway company.
 
@@ -496,7 +692,17 @@ Payment 13. (1) In exercising the powers under sections 11 and of compen- 12, a 
 
 (4) Nothing in this section shall prevent the settling by agreement of the amount of compensation to be paid in respect of lands damaged or injuriously affected by the exercise of the powers conferred by this section.
 
-Accom- 14. (1) Every railway company shall, subject to sub- modation sections (3) and (4), construct and maintain for the works. accommodation of the proprietors and occupiers of lands adjoining any railway—
+<!-- marginal: Accom- -->
+
+14. (1) Every railway company shall, subject to sub-
+
+<!-- marginal: modation -->
+
+sections (3) and (4), construct and maintain for the
+
+<!-- marginal: works. -->
+
+accommodation of the proprietors and occupiers of lands adjoining any railway—
 
 (a) such and so many convenient crossings, bridges, arches, culverts and passages over, under or by the sides of or leading to or from the railway, as are in the opinion of the Director General necessary for the purpose of making good any interruptions caused to the use of the lands by the construction of
 
@@ -530,7 +736,9 @@ inconvenience as possible to persons interested in the lands or affected by the 
 
 <!-- marginal: works. -->
 
-(a) a proprietor or an occupier of any land adjoining a railway considers that
+(a) a proprietor or an occupier of any land adjoining a railway considers
+
+<!-- marginal: that -->
 
 <!-- marginal: the -->
 
@@ -542,9 +750,19 @@ accommodation works made under section 14 are insufficient for the commodious us
 
 the proprietor, occupier, Government department or local authority may, at his or their own expense, cause to be made such further accommodation works as the proprietor, occupier, Government department or local authority considers necessary and if agreed to by the railway company or, in the case of a difference of opinion between the proprietor, occupier, Government department or local authority and the railway company, such further accommodation works as authorised by the Director General.
 
-Fences,
+<!-- marginal: Fences, -->
 
-16. (1) The Director General may, within a time to be screens, specified in the requisition or within such further time gates and bars. as he may prescribe, require a railway company—
+16. (1) The Director General may, within a time to be
+
+<!-- marginal: screens, -->
+
+specified in the requisition or within such further time
+
+<!-- marginal: gates and -->
+
+<!-- marginal: bars. -->
+
+as he may prescribe, require a railway company—
 
 (a) to provide or renew, as the case may be, fences or boundary marks for its railway and any road constructed in connection therewith; or
 
@@ -552,9 +770,13 @@ Fences,
 
 (2) Any railway company which fails to comply with any requisition made under this section shall be guilty of an offence.
 
-Graded
+<!-- marginal: Graded -->
 
-17. Where a railway company has constructed a railway crossings. track across an existing public road on the level, the Director General may, if it appears to him necessary for public safety and convenience, at any time, require the railway company, within such time as he thinks fit, to carry the road either under or over the railway track by means of a bridge or arch with convenient ascents and descents and other convenient approaches instead of crossing the road on the level, or to execute such other
+17. Where a railway company has constructed a railway
+
+<!-- marginal: crossings. -->
+
+track across an existing public road on the level, the Director General may, if it appears to him necessary for public safety and convenience, at any time, require the railway company, within such time as he thinks fit, to carry the road either under or over the railway track by means of a bridge or arch with convenient ascents and descents and other convenient approaches instead of crossing the road on the level, or to execute such other
 
 <!-- page 21 -->
 
@@ -578,13 +800,25 @@ railway track across an existing public road on the level (such crossing not bei
 
 (5) Where a Government department, local authority or any other person constructs a public road across an existing railway track, the Government department, local authority or any other person charged with the responsibility for the maintenance of such road shall be liable to pay to the railway company the cost of the construction of any gate or barrier erected by the company at the point where the road crosses the railway track and an annual rent for the maintenance thereof.
 
-Private 19. (1) A railway company may, at its discretion, on a crossings. request made by any person, construct and open private crossings at any place on a railway track, and may impose conditions regarding the use thereof.
+<!-- marginal: Private -->
+
+19. (1) A railway company may, at its discretion, on a
+
+<!-- marginal: crossings. -->
+
+request made by any person, construct and open private crossings at any place on a railway track, and may impose conditions regarding the use thereof.
 
 (2) The cost of the construction of a private crossing and an annual rent for the maintenance thereof shall be paid by the person for whom such crossing has been constructed.
 
 (3) The railway company may, in the event of failure by the person for whom such crossing has been constructed to comply with the conditions imposed, or if it is expedient so to do in the interests of the railway, close any private crossing.
 
-Occupation 20. (1) The Director General may, at any time, by crossings. notification in the Gazette declare any road or path which a railway track crosses to be an "occupation crossing".
+<!-- marginal: Occupation -->
+
+20. (1) The Director General may, at any time, by
+
+<!-- marginal: crossings. -->
+
+notification in the Gazette declare any road or path which a railway track crosses to be an "occupation crossing".
 
 (2) When any such declaration has been made, the railway company shall provide, at such occupation crossing, gates or barriers across the road or path, which shall not be capable of closing across the railway track, and which shall be kept locked when not in use. The keys of such gates or barriers shall be kept by a railway official.
 
@@ -626,13 +860,33 @@ a railway, or on the route of any telegraph, telephone, signal, electric light o
 
 <!-- page 24 -->
 
-(3) When the tree referred to in subsections (1) and
+(3) When the tree referred to in subsections (1) and (2) was in existence before the railway was constructed, or the telegraph, telephone, signal, electric light or electric power wire was laid, or the post, structure or fitting was erected or installed, or the signal was fixed, adequate compensation shall be paid by the railway company to the proprietor or occupier of the land the tree is on.
 
-(2) was in existence before the railway was constructed, or the telegraph, telephone, signal, electric light or electric power wire was laid, or the post, structure or fitting was erected or installed, or the signal was fixed, adequate compensation shall be paid by the railway company to the proprietor or occupier of the land the tree is on.
+<!-- marginal: Notice of -->
 
-Notice of
+22. (1) The proprietor or occupier of any land shall,
 
-22. (1) The proprietor or occupier of any land shall, felling or before felling or clearing any tree or jungle adjacent to clearing of trees or a railway, give seven days' previous notice in writing to jungle the railway company of his intention to do so and shall adjacent take all reasonable precautions for the protection of the to railway. railway or any telegraph or telephone erected thereon.
+<!-- marginal: felling or -->
+
+before felling or clearing any tree or jungle adjacent to
+
+<!-- marginal: clearing of -->
+
+<!-- marginal: trees or -->
+
+a railway, give seven days' previous notice in writing to
+
+<!-- marginal: jungle -->
+
+the railway company of his intention to do so and shall
+
+<!-- marginal: adjacent -->
+
+take all reasonable precautions for the protection of the
+
+<!-- marginal: to railway. -->
+
+railway or any telegraph or telephone erected thereon.
 
 (2) Where any damage is caused to the railway or any telegraph or telephone erected thereon, the railway company may, in default of agreement, recover compensation from the proprietor or occupier by action at law.
 
@@ -642,9 +896,17 @@ Notice of
 
 ## AND OPENING OF RAILWAY
 
-Licence to
+<!-- marginal: Licence to -->
 
-23. (1) Except pursuant to an order made under section operate a 80, no person shall operate any railway except under a railway. licence issued by the Minister under this section.
+23. (1) Except pursuant to an order made under section
+
+<!-- marginal: operate a -->
+
+80, no person shall operate any railway except under a
+
+<!-- marginal: railway. -->
+
+licence issued by the Minister under this section.
 
 (2) Any application for the grant of a licence under this section shall be made in writing, and shall contain, or be accompanied by, such information and documents as may be specified by the Director General.
 
@@ -692,7 +954,19 @@ in writing of its intention to open the railway.
 
 <!-- page 26 -->
 
-Minister 10 25. (1) No railway shall be opened without the approve Minister's approval. opening of railway. (2) The Minister shall only give his approval to the opening of a railway after he has received a written report from an engineer appointed by the Director General that—
+<!-- marginal: Minister 10 -->
+
+25. (1) No railway shall be opened without the
+
+<!-- marginal: approve -->
+
+Minister's approval.
+
+<!-- marginal: opening of -->
+
+<!-- marginal: railway. -->
+
+(2) The Minister shall only give his approval to the opening of a railway after he has received a written report from an engineer appointed by the Director General that—
 
 (a) he has made a careful inspection of the railway;
 
@@ -706,9 +980,23 @@ Minister 10 25. (1) No railway shall be opened without the approve Minister's ap
 
 (b) to any reconstruction materially affecting the structural character of any railway.
 
-Inspection. 26. After a railway has been opened, the railway shall be inspected by an engineer, to be appointed by the Director General, in such manner and at such intervals as may be prescribed by any regulations made under this Act.
+<!-- marginal: Inspection. -->
 
-Power to 27. (1) If after inspection of a railway the engineer is close rail- of the opinion that the use of the railway will cause way when opened. danger to the public or damage to the goods carried thereon, he shall inform the Director General of his opinion together with the grounds thereof.
+26. After a railway has been opened, the railway shall be inspected by an engineer, to be appointed by the Director General, in such manner and at such intervals as may be prescribed by any regulations made under this Act.
+
+<!-- marginal: Power to -->
+
+27. (1) If after inspection of a railway the engineer is
+
+<!-- marginal: close rail- -->
+
+of the opinion that the use of the railway will cause
+
+<!-- marginal: way when -->
+
+<!-- marginal: opened. -->
+
+danger to the public or damage to the goods carried thereon, he shall inform the Director General of his opinion together with the grounds thereof.
 
 (2) The Director General may thereupon order the railway to be closed, or in the case of a rolling-stock,
 
@@ -772,29 +1060,53 @@ ringgit or to imprisonment for a term not exceeding five years or to both.
 
 ## DUTIES OF RAILWAY COMPANIES
 
-Duties of 31. It shall be the duty of every railway company— a railway company. (a) to provide railway services and facilities specified in its licence to such extent as is necessary for the railway company to meet any standard of performance determined by the Director General under this Act; and
+<!-- marginal: Duties of -->
+
+31. It shall be the duty of every railway company—
+
+<!-- marginal: a railway -->
+
+<!-- marginal: company. -->
+
+(a) to provide railway services and facilities specified in its licence to such extent as is necessary for the railway company to meet any standard of performance determined by the Director General under this Act; and
 
 (b) to develop and maintain an efficient railway system.
 
-Standards 32. (1) The Director General may, with the approval of of perfor- the Minister, by regulations, prescribe such standards of mance. performance in connection with the provision of railway services and facilities as, in his opinion, ought to be achieved by a railway company.
+<!-- marginal: Standards -->
 
-(2) Without prejudice to the generality of subsection (1), regulations made under that subsection may—
+32. (1) The Director General may, with the approval of
 
-(a) make provisions for procedures to be followed for the enforcement of the
+<!-- marginal: of perfor- -->
 
-<!-- marginal: standards -->
+the Minister, by regulations, prescribe such standards of
 
-prescribed; and
+<!-- marginal: mance. -->
 
-(b) prescribe circumstances in which a railway company may be exempted
+performance in connection with the provision of railway services and facilities as, in his opinion, ought to be achieved by a railway company.
 
-<!-- marginal: from -->
+(2) Without prejudice to the generality of subsection
+
+(1), regulations made under that subsection may—
+
+(a) make provisions for procedures to be followed for the enforcement of the standards prescribed; and
+
+(b) prescribe circumstances in which a railway company may be exempted from
 
 <!-- marginal: the -->
 
 requirements of the regulations.
 
-Submission 33. (1) Within three months after the end of each of reports, financial year of a railway company or such longer accounts, etc. period as the Director General may allow, the directors of the railway company shall deliver to the Director General—
+<!-- marginal: Submission -->
+
+33. (1) Within three months after the end of each
+
+<!-- marginal: of reports, -->
+
+financial year of a railway company or such longer
+
+<!-- marginal: accounts, etc. -->
+
+period as the Director General may allow, the directors of the railway company shall deliver to the Director General—
 
 (a) a report of its operation during that financial year containing such information as
 
@@ -822,7 +1134,11 @@ require a railway company to submit to him—
 
 (b) its passengers or goods forecast, as the case may be, over such period and in such form as may be determined by the Director General; and
 
-(c) future development plans relating to any service or facility which the company is bound to provide under the conditions of the licence.
+(c) future development plans relating
+
+<!-- marginal: to any -->
+
+service or facility which the company is bound to provide under the conditions of the licence.
 
 <!-- marginal: Submission of -->
 
@@ -882,13 +1198,43 @@ company;
 
 ## POWERS OF RAILWAY COMPANIES
 
-Time-tables
+<!-- marginal: Time-tables -->
 
-37. Every railway company shall keep, at every railway and lists of station, a copy of the time-tables for the time being in fares to be posted up force on the railway, and a list of the general fares at stations. chargeable for travelling from the station where the lists are posted to every place for which tickets are ordinarily issued to passengers at that station, and shall allow all persons to inspect it free of charge at all reasonable hours.
+37. Every railway company shall keep, at every railway
 
-Fares to be
+<!-- marginal: and lists of -->
 
-38. (1) No person shall travel on a railway without first prepaid and having paid his fare and obtaining a ticket. passengers' tickets to be delivered up (2) Every person intending to travel on a railway on demand. shall, upon payment of his fare, be furnished with a ticket specifying the class of coach or accommodation for, and the station or place from, and the station or place to, which the fare has been paid, and shall, when required to do so, show his ticket to any railway official duly authorised to examine the ticket, and shall deliver up the ticket upon demand to any railway official duly authorised to collect tickets.
+station, a copy of the time-tables for the time being in
+
+<!-- marginal: fares to be -->
+
+<!-- marginal: posted up -->
+
+force on the railway, and a list of the general fares
+
+<!-- marginal: at stations. -->
+
+chargeable for travelling from the station where the lists are posted to every place for which tickets are ordinarily issued to passengers at that station, and shall allow all persons to inspect it free of charge at all reasonable hours.
+
+<!-- marginal: Fares to be -->
+
+38. (1) No person shall travel on a railway without first
+
+<!-- marginal: prepaid and -->
+
+having paid his fare and obtaining a ticket.
+
+<!-- marginal: passengers' -->
+
+<!-- marginal: tickets to be -->
+
+<!-- marginal: delivered up -->
+
+(2) Every person intending to travel on a railway
+
+<!-- marginal: on demand. -->
+
+shall, upon payment of his fare, be furnished with a ticket specifying the class of coach or accommodation for, and the station or place from, and the station or place to, which the fare has been paid, and shall, when required to do so, show his ticket to any railway official duly authorised to examine the ticket, and shall deliver up the ticket upon demand to any railway official duly authorised to collect tickets.
 
 <!-- page 31 -->
 
@@ -932,7 +1278,17 @@ railway company together with all expenses of such detention, notice and sale, i
 
 (6) Notwithstanding anything in this section, the railway company may recover by suit or action any such sum as is referred to in subsection (1).
 
-Disposal of 40. (1) When any goods have come into the possession unclaimed of a railway company for transport or otherwise, and are goods. not claimed by the owner or other person appearing to the railway company to be entitled thereto, the railway company shall, if such owner or person is known, cause a notice to be served upon him requiring him to remove the goods.
+<!-- marginal: Disposal of -->
+
+40. (1) When any goods have come into the possession
+
+<!-- marginal: unclaimed -->
+
+of a railway company for transport or otherwise, and are
+
+<!-- marginal: goods. -->
+
+not claimed by the owner or other person appearing to the railway company to be entitled thereto, the railway company shall, if such owner or person is known, cause a notice to be served upon him requiring him to remove the goods.
 
 (2) If such owner or person is not known, or the notice cannot be served upon him, or he does not comply with the notice, the railway company may, after a reasonable time, sell the goods as nearly as may be in accordance with section 39 and render the surplus, if any, of the proceeds of the sale to any person entitled thereto.
 
@@ -978,7 +1334,17 @@ of any railway official authorised in that behalf by the railway company, delive
 
 (7) Any person adversely affected by the provisions of subsection (3) or (5) may, unless he has previously admitted his liability, within seven days of the making of a claim by or on behalf of the railway company under any of the preceding subsections, require, by written notice, the railway company to recover such claim by suit or action, and until the termination of such suit or action, the right of the railway company to recover such claim by sale and retention of the proceeds thereof in the manner prescribed under this section shall be suspended.
 
-Dangerous 42. (1) No person shall bring or cause to be brought or offensive onto a railway or require a railway company to transport goods. or hold any dangerous or offensive goods upon the railway except in accordance with regulations made under this Act.
+<!-- marginal: Dangerous -->
+
+42. (1) No person shall bring or cause to be brought
+
+<!-- marginal: or offensive -->
+
+onto a railway or require a railway company to transport
+
+<!-- marginal: goods. -->
+
+or hold any dangerous or offensive goods upon the railway except in accordance with regulations made under this Act.
 
 (2) Nothing in this section or in any regulations made under this Act shall be construed as to derogate from any written law in force relating to the possession or transport of dangerous or offensive goods.
 
@@ -1100,7 +1466,11 @@ Minister, make regulations relating to—
 
 45, and the particulars of the accident which those notices are to contain;
 
-(b) the class of accidents in respect of which notice is to be sent by any form of telecommunication immediately after
+(b) the class of accidents in respect of which notice is to be sent by any
+
+<!-- marginal: form of -->
+
+telecommunication immediately after
 
 <!-- marginal: the -->
 
@@ -1112,19 +1482,71 @@ fc) the duties of railway officials or police officers on the occurrence of an a
 
 (d) the procedures of any inquiry into an accident.
 
-Submission
+<!-- marginal: Submission -->
 
-50. Every railway company shall send to the Director of return of General a return of accidents occurring upon its railway, accidents. whether attended with personal injury or not, in such form and manner and at such intervals or time as the Director General directs.
+50. Every railway company shall send to the Director
 
-Penalty for
+<!-- marginal: of return of -->
 
-51. (1) Any railway company which fails to give notice failure to of an accident as is required by section 45 shall pay to comply with section 45. the Government a sum of one hundred ringgit for every day during which the default continues.
+General a return of accidents occurring upon its railway,
+
+<!-- marginal: accidents. -->
+
+whether attended with personal injury or not, in such form and manner and at such intervals or time as the Director General directs.
+
+<!-- marginal: Penalty for -->
+
+51. (1) Any railway company which fails to give notice
+
+<!-- marginal: failure to -->
+
+of an accident as is required by section 45 shall pay to
+
+<!-- marginal: comply with -->
+
+<!-- marginal: section 45. -->
+
+the Government a sum of one hundred ringgit for every day during which the default continues.
 
 (2) Any railway official in charge of a station who omits to give such notice of an accident as is required by section 45 shall be guilty of an offence and shall on conviction be liable to a fine not exceeding five hundred ringgit or to imprisonment for a term not exceeding one month or to both.
 
-Penalty for 52. Any railway company which fails to comply with failure to section 50 shall pay to the Government a sum of fifty comply with section 50. ringgit for every day during which the default continues after the fourteenth day from the date prescribed for the submission of the returns.
+<!-- marginal: Penalty for -->
 
-Compulsory 53. Whenever any person injured by an accident on a medical railway claims compensation on account of the injury, examination of persons any court having jurisdiction over such matter may order injured in railway that the person injured be examined by a duly qualified accident. medical practitioner who is not a witness on either side, and may make such order with respect to the costs of the examination as it thinks fit.
+52. Any railway company which fails to comply with
+
+<!-- marginal: failure to -->
+
+section 50 shall pay to the Government a sum of fifty
+
+<!-- marginal: comply with -->
+
+<!-- marginal: section 50. -->
+
+ringgit for every day during which the default continues after the fourteenth day from the date prescribed for the submission of the returns.
+
+<!-- marginal: Compulsory -->
+
+53. Whenever any person injured by an accident on a
+
+<!-- marginal: medical -->
+
+railway claims compensation on account of the injury,
+
+<!-- marginal: examination -->
+
+<!-- marginal: of persons -->
+
+any court having jurisdiction over such matter may order
+
+<!-- marginal: injured in -->
+
+<!-- marginal: railway -->
+
+that the person injured be examined by a duly qualified
+
+<!-- marginal: accident. -->
+
+medical practitioner who is not a witness on either side, and may make such order with respect to the costs of the examination as it thinks fit.
 
 <!-- page 39 -->
 
@@ -1222,11 +1644,25 @@ similar place appointed by the railway company as a place for persons to enter o
 
 shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one thousand ringgit,
 
-Resisting
+<!-- marginal: Resisting -->
 
-58. Any passenger who— entry, and entering and refusing to
+58. Any passenger who—
 
-(a) resists the lawful entry of another passenger leave full into a railway coach or portion of a railway train. coach not reserved by the railway company for the use of the passenger resisting;
+<!-- marginal: entry, and -->
+
+<!-- marginal: entering and -->
+
+<!-- marginal: refusing to -->
+
+(a) resists the lawful entry of another passenger
+
+<!-- marginal: leave full -->
+
+into a railway coach or portion of a railway
+
+<!-- marginal: train. -->
+
+coach not reserved by the railway company for the use of the passenger resisting;
 
 (b) after having been refused admission onto a train by a railway official, on account of the train being full, nevertheless persists
 
@@ -1238,11 +1674,21 @@ entering or attempting to enter the train; or
 
 shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one thousand ringgit and, in addition, may be removed from the train by any railway official.
 
-Penalty for
+<!-- marginal: Penalty for -->
 
-59. Any person who— disorderly or offensive behaviour or
+59. Any person who—
 
-(a) behaves in a disorderly or offensive manner or nuisance. commits any nuisance on a railway coach or upon any railway premises; or
+<!-- marginal: disorderly or -->
+
+<!-- marginal: offensive -->
+
+<!-- marginal: behaviour or -->
+
+(a) behaves in a disorderly or offensive manner or
+
+<!-- marginal: nuisance. -->
+
+commits any nuisance on a railway coach or upon any railway premises; or
 
 (b) assaults, hinders or obstructs a railway official in the execution of his duties,
 
@@ -1322,11 +1768,21 @@ may lawfully do so, shall be guilty of an offence and shall on conviction be lia
 
 <!-- page 42 -->
 
-Penalty for
+<!-- marginal: Penalty for -->
 
-64. (1) Any person who— damage, whether
+64. (1) Any person who—
 
-(a) wilfully or negligently damages any railway or wilful or any property belonging to a railway company; negligent.
+<!-- marginal: damage, -->
+
+<!-- marginal: whether -->
+
+(a) wilfully or negligently damages any railway or
+
+<!-- marginal: wilful or -->
+
+any property belonging to a railway company;
+
+<!-- marginal: negligent. -->
 
 (b) removes sand, stone, earth or any other matter or thing from banks, bridges, culverts, retaining walls or the railway track belonging to a railway company; or
 
@@ -1374,7 +1830,11 @@ he shall be guilty of an offence and shall on conviction be liable to a fine not
 
 across a railway any wood, stone or other matter or thing;
 
-(b) takes up, removes, loosens, or displaces any rail, sleeper or other matter or thing appertaining to a railway;
+(b) takes up, removes, loosens, or displaces any rail, sleeper or other matter or
+
+<!-- marginal: thing -->
+
+appertaining to a railway;
 
 (c) turns, moves, unlocks or diverts any railway points or other machinery appertaining to a railway;
 
@@ -1388,21 +1848,63 @@ across a railway any wood, stone or other matter or thing;
 
 with intent, or with the knowledge that he is likely, to obstruct the working of the railway, or to endanger the safety of any person travelling or being upon the railway, he shall be guilty of an offence and shall on conviction be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding twenty years.
 
-Maliciously
+<!-- marginal: Maliciously -->
 
-67. If any person unlawfully throws or causes to fall or hurting or strike at, against, into, or upon any rolling-stock forming attempting to hurt persons part of a train any wood, stone or other matter or thing travelling by with intent, or with the knowledge that he is likely, to train. endanger the safety of any person being in or upon such rolling-stock or in or upon any other rolling-stock forming part of the same train, he shall be guilty of an offence and shall on conviction be liable to a fine not exceeding twenty-five thousand ringgit or
+67. If any person unlawfully throws or causes to fall or
+
+<!-- marginal: hurting or -->
+
+strike at, against, into, or upon any rolling-stock forming
+
+<!-- marginal: attempting to -->
+
+<!-- marginal: hurt persons -->
+
+part of a train any wood, stone or other matter or thing
+
+<!-- marginal: travelling by -->
+
+with intent, or with the knowledge that he is likely, to
+
+<!-- marginal: train. -->
+
+endanger the safety of any person being in or upon such rolling-stock or in or upon any other rolling-stock forming part of the same train, he shall be guilty of an offence and shall on conviction be liable to a fine not exceeding twenty-five thousand ringgit or
 
 <!-- marginal: to -->
 
 imprisonment for a term not exceeding ten years or to both.
 
-Penalty for
+<!-- marginal: Penalty for -->
 
-68. If any person not being a railway official, without causing reasonable excuse, by making any gesture or exhibiting train to stop. any signal or otherwise, causes a moving train to be brought to a standstill, he shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one thousand ringgit or to imprisonment for a term not exceeding three months or to both.
+68. If any person not being a railway official, without
 
-Penalty for
+<!-- marginal: causing -->
 
-69. Whoever wilfully does any act, or wilfully omits to wilful act or do what he is legally bound to do, intending by such act omission endangering or omission to cause or knowing that he is thereby likely passenger. to cause the safety of any person travelling or being upon a railway to be endangered, shall be guilty of an offence and shall on conviction be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding seven years or to both.
+reasonable excuse, by making any gesture or exhibiting
+
+<!-- marginal: train to -->
+
+<!-- marginal: stop. -->
+
+any signal or otherwise, causes a moving train to be brought to a standstill, he shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one thousand ringgit or to imprisonment for a term not exceeding three months or to both.
+
+<!-- marginal: Penalty for -->
+
+69. Whoever wilfully does any act, or wilfully omits to
+
+<!-- marginal: wilful act or -->
+
+do what he is legally bound to do, intending by such act
+
+<!-- marginal: omission -->
+
+<!-- marginal: endangering -->
+
+or omission to cause or knowing that he is thereby likely
+
+<!-- marginal: passenger. -->
+
+to cause the safety of any person travelling or being upon a railway to be endangered, shall be guilty of an offence and shall on conviction be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding seven years or to both.
 
 <!-- page 45 -->
 
@@ -1482,15 +1984,45 @@ Provided that a railway official shall not effect any such arrest outside the ra
 
 <!-- page 46 -->
 
-Recovery of 75. (1) When any person is convicted before a court of fares, charges criminal jurisdiction for an offence against any of the or damages. provisions of this Act or any regulations made thereunder, the court may, in addition to imposing any penalty under this Act, fix or assess the amount of any fare, charge, damages, expenses or sum of money whatsoever which may have become payable by such person to the railway company, and order such amount to be paid by such person to the railway company.
+<!-- marginal: Recovery of -->
+
+75. (1) When any person is convicted before a court of
+
+<!-- marginal: fares, charges -->
+
+criminal jurisdiction for an offence against any of the
+
+<!-- marginal: or damages. -->
+
+provisions of this Act or any regulations made thereunder, the court may, in addition to imposing any penalty under this Act, fix or assess the amount of any fare, charge, damages, expenses or sum of money whatsoever which may have become payable by such person to the railway company, and order such amount to be paid by such person to the railway company.
 
 (2) Nothing in subsection (1) shall prevent the recovery of any fare, charge, damages, expenses or other sum of money whatsoever which may have become payable by any person to a railway company by way of a civil claim before a court of civil jurisdiction.
 
-Offence by 76. (1) Where a body corporate is guilty of an offence bodies under this Act and that offence is proved to have been corporate. committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or any person who was purporting to act in any such capacity, he, as well as the body corporate, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+<!-- marginal: Offence by -->
+
+76. (1) Where a body corporate is guilty of an offence
+
+<!-- marginal: bodies -->
+
+under this Act and that offence is proved to have been
+
+<!-- marginal: corporate. -->
+
+committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or any person who was purporting to act in any such capacity, he, as well as the body corporate, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
 (2) Where the affairs of a body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
 
-Compoun- 77. (1) The Director General or any officer authorised ding of by him may compound any such offence against this Act offences. or any regulations made thereunder as may be prescribed as an offence which may be compounded by the Director General or any officer authorised by him by collecting from any person reasonably suspected of having committed the same a sum of money not exceeding three hundred ringgit.
+<!-- marginal: Compoun- -->
+
+77. (1) The Director General or any officer authorised
+
+<!-- marginal: ding of -->
+
+by him may compound any such offence against this Act
+
+<!-- marginal: offences. -->
+
+or any regulations made thereunder as may be prescribed as an offence which may be compounded by the Director General or any officer authorised by him by collecting from any person reasonably suspected of having committed the same a sum of money not exceeding three hundred ringgit.
 
 <!-- page 47 -->
 
@@ -1532,7 +2064,19 @@ and is likely again to contravene, any of the conditions of its licence, the Dir
 
 (6) The decision of the Minister under this section shall be final and conclusive.
 
-Action by 80. (1) Where a licence has been suspended or revoked the Minister under section 79 and the Minister is satisfied that it is in certain circumstances. in the public interest for any of the services or facilities provided by the railway company to be continued, he may by order published in the Gazette—
+<!-- marginal: Action by -->
+
+80. (1) Where a licence has been suspended or revoked
+
+<!-- marginal: the Minister -->
+
+under section 79 and the Minister is satisfied that it is
+
+<!-- marginal: in certain -->
+
+<!-- marginal: circumstances. -->
+
+in the public interest for any of the services or facilities provided by the railway company to be continued, he may by order published in the Gazette—
 
 (a) provide for the Director General to assume control of the whole of the property, business and affairs of that railway company, and carry on the whole of its business and affairs, or to assume control of such part of its property, business and affairs and carry on such part of its business and affairs, as may be set out in the order, or for the Director General to appoint any person to do so on behalf of the Director General and for the costs and expenses of the Director General, or the remuneration of the person so appointed, as the case may be, to be payable out of the funds and properties of the company as a first charge thereon;
 
@@ -1576,7 +2120,23 @@ but not exceeding, in any case, two years, but may be reappointed, with the prio
 
 (4) Where a receiver or manager has been appointed in respect of a railway company by the High Court under paragraph 80 (1) (b), all proper costs, charges and expenses, including the remuneration of such receiver or manager, shall be payable out of the assets of the railway company in priority to all other claims.
 
-Provisions 82. (1) Where control of a railway company has been relating to assumed in pursuance of an order under section 80, the assumption of control under company and its directors and officers shall submit its section 80. property, business and affairs to such control, and shall provide the Director General or, if the control is assumed by a person appointed by the Director General (hereinafter in this Part referred to as "the appointed person"), to such appointed person, all such facilities as may be required to carry on the business and affairs of the railway company.
+<!-- marginal: Provisions -->
+
+82. (1) Where control of a railway company has been
+
+<!-- marginal: relating to -->
+
+assumed in pursuance of an order under section 80, the
+
+<!-- marginal: assumption of -->
+
+<!-- marginal: control under -->
+
+company and its directors and officers shall submit its
+
+<!-- marginal: section 80. -->
+
+property, business and affairs to such control, and shall provide the Director General or, if the control is assumed by a person appointed by the Director General (hereinafter in this Part referred to as "the appointed person"), to such appointed person, all such facilities as may be required to carry on the business and affairs of the railway company.
 
 (2) Where control of a railway company has been assumed in pursuance of an order under section 80, the Director General or the appointed person, as the case may be, shall remain in control of the property, business and affairs of the railway company concerned, and carry on the business and affairs of that company in the name and on behalf of that company, as provided in the said order, until such time as the said order is revoked under subsection 80 (3).
 
@@ -1630,17 +2190,55 @@ them, their joint traffic safety, the Director General,
 
 <!-- marginal: traffic. -->
 
-upon the application of either or of any of such companies, may decide the matters in dispute between them, so far as those matters relate to the safety of the public, and may determine whether the whole or what proportion of the expenses attending to such arrangements shall be borne by either or any of the companies respectively.
+upon the application of either or of any of such companies, may decide the matters in dispute between them, so far as those matters relate to the safety of the public, and may determine whether the whole or what proportion of the expenses attending
+
+<!-- marginal: to such -->
+
+arrangements shall be borne by either or any of the companies respectively.
 
 <!-- page 52 -->
 
-Submission 85. (1) Any railway company licensed under this Act of memo- shall prepare and submit to the Director General a randum for any change memorandum for any change in the existing structure of in existing fares, rates or charges, for the approval of the Minister, structure of and where no reply is received from the Minister within fares, etc. six months of its submission, the change in the existing structure of fares, rates or charges shall take effect on the expiration of such period.
+<!-- marginal: Submission -->
+
+85. (1) Any railway company licensed under this Act
+
+<!-- marginal: of memo- -->
+
+shall prepare and submit to the Director General a
+
+<!-- marginal: randum for -->
+
+<!-- marginal: any change -->
+
+memorandum for any change in the existing structure of
+
+<!-- marginal: in existing -->
+
+fares, rates or charges, for the approval of the Minister,
+
+<!-- marginal: structure of -->
+
+and where no reply is received from the Minister within
+
+<!-- marginal: fares, etc. -->
+
+six months of its submission, the change in the existing structure of fares, rates or charges shall take effect on the expiration of such period.
 
 (2) The railway company shall, as soon as practicable, publish the change in the existing structure of fares, rates or charges in not less than two national newspapers, one of which shall be in the national language.
 
 (3) The Director General shall, as soon as practicable, make the necessary notification in the Gazette in respect of the change in the existing structure of fares, rates or charges.
 
-Special 86. (1) The Yang di-Pertuan Agong may, on the powers in occurrence of any industrial unrest, strike, lockout or emergency. any other event which gives rise to an emergency or in the interest of public order or safety, authorise the Minister to—
+<!-- marginal: Special -->
+
+86. (1) The Yang di-Pertuan Agong may, on the
+
+<!-- marginal: powers in -->
+
+occurrence of any industrial unrest, strike, lockout or
+
+<!-- marginal: emergency. -->
+
+any other event which gives rise to an emergency or in the interest of public order or safety, authorise the Minister to—
 
 (a) take temporary possession of any railway or railway service or facility established, maintained or worked by a railway company;
 
@@ -1648,7 +2246,9 @@ Special 86. (1) The Yang di-Pertuan Agong may, on the powers in occurrence of an
 
 (2) If any doubt arises as to the existence of a public emergency or whether any act done under subsection (1) was in the interest of public order or safety, a certificate signed by the Yang di-Pertuan Agong and exhibited at such places as the Minister deems fit shall be conclusive proof on the point.
 
-(3) Where the Government takes possession of any railway or railway service or facility under paragraph (1) (a), adequate compensation shall be paid.
+(3) Where the Government takes possession of any railway or railway service or facility under paragraph
+
+(1) (a), adequate compensation shall be paid.
 
 <!-- page 53 -->
 
@@ -1684,9 +2284,7 @@ the Minister, from time to time, make such regulations
 
 as may be necessary or expedient for carrying out or achieving the objects and purposes of this Act.
 
-(2) Without prejudice to the generality of subsection
-
-(1), regulations may be made—
+(2) Without prejudice to the generality of subsection (1), regulations may be made—
 
 (a) to ensure and regulate the safe carriage of passengers and goods by any railway company;
 
@@ -1724,7 +2322,33 @@ specifications in respect of the design, construction and maintenance of the gat
 
 ## RAILWAY PROPERTY
 
-Establish- 89. (1) There shall be established a body corporate by ment mem- the name of "Railway Assets Corporation" (hereinafter bership and functions referred to as "the Corporation") with perpetual of the succession and a common seal and may sue and be sued Railway in its name and subject to and for the purposes of this Asset Cor- poration. Act, may enter into contracts, and may acquire, purchase, take, hold and enjoy movable and immovable property of every description and may convey, assign, surrender, yield up, charge, mortgage, demise, reassign, transfer or otherwise dispose of, or deal with, any movable or immovable property or any interest therein vested in the Corporation upon such terms as it deems fit.
+<!-- marginal: Establish- -->
+
+89. (1) There shall be established a body corporate by
+
+<!-- marginal: ment mem- -->
+
+the name of "Railway Assets Corporation" (hereinafter
+
+<!-- marginal: bership and -->
+
+<!-- marginal: functions -->
+
+referred to as "the Corporation") with perpetual
+
+<!-- marginal: of the -->
+
+succession and a common seal and may sue and be sued
+
+<!-- marginal: Railway -->
+
+in its name and subject to and for the purposes of this
+
+<!-- marginal: Asset Cor- -->
+
+<!-- marginal: poration. -->
+
+Act, may enter into contracts, and may acquire, purchase, take, hold and enjoy movable and immovable property of every description and may convey, assign, surrender, yield up, charge, mortgage, demise, reassign, transfer or otherwise dispose of, or deal with, any movable or immovable property or any interest therein vested in the Corporation upon such terms as it deems fit.
 
 <!-- page 55 -->
 
@@ -1772,11 +2396,41 @@ and to manage and administer all liabilities in respect thereof;
 
 (c) to carry out and perform such other functions as may be prescribed by the Minister under this Act.
 
-Appoint- 90. (1) The Minister may, from time to time, appoint a ment of the fit and proper person to be the Railway Assets Manager Railway Assets who shall be the chief executive officer of the Manager. Corporation.
+<!-- marginal: Appoint- -->
+
+90. (1) The Minister may, from time to time, appoint a
+
+<!-- marginal: ment of the -->
+
+fit and proper person to be the Railway Assets Manager
+
+<!-- marginal: Railway -->
+
+<!-- marginal: Assets -->
+
+who shall be the chief executive officer of the
+
+<!-- marginal: Manager. -->
+
+Corporation.
 
 (2) There shall be paid to the Railway Assets Manager such remuneration or allowances as the Minister, with the concurrence of the Minister of Finance, may determine.
 
-Power of 91. (1) The Corporation shall be responsible to the Minister Minister, and the Minister may, from time to time, give to give directions not inconsistent with the provisions of this directions. Act and the Corporation shall, as soon as possible, give effect to all such directions.
+<!-- marginal: Power of -->
+
+91. (1) The Corporation shall be responsible to the
+
+<!-- marginal: Minister -->
+
+Minister, and the Minister may, from time to time, give
+
+<!-- marginal: to give -->
+
+directions not inconsistent with the provisions of this
+
+<!-- marginal: directions. -->
+
+Act and the Corporation shall, as soon as possible, give effect to all such directions.
 
 (2) In carrying out any direction of the Minister under subsection (1), the Corporation shall have power to do all things expedient or reasonably necessary or incidental to the discharge of its functions, and in particular, but without prejudice to the generality of the foregoing, shall have power—
 
@@ -1844,19 +2498,71 @@ Ordinance shall vest in the Corporation under this Act without any conveyance, a
 
 property in any instrument, deed, title, document or written law shall be construed as if all such references were references to the "Railway Assets Corporation".
 
-Vesting of
+<!-- marginal: Vesting of -->
 
-94. (1) All lands in the Republic of Singapore vested in property the Government of Malaysia or the Federal Lands situated in the Republic Commissioner for the purposes of operating and of Singapore managing railway services in the Republic pursuant to in the Federal Lands Com- or under the Singapore Railway Transfer Ordinance missioner. 1918 or the Railway Act 1987 of the Republic shall continue to vest in the Government of Malaysia or the Federal Lands Commissioner, as the case may be, under this Act.
+94. (1) All lands in the Republic of Singapore vested in
+
+<!-- marginal: property -->
+
+the Government of Malaysia or the Federal Lands
+
+<!-- marginal: situated in -->
+
+<!-- marginal: the Republic -->
+
+Commissioner for the purposes of operating and
+
+<!-- marginal: of Singapore -->
+
+managing railway services in the Republic pursuant to
+
+<!-- marginal: in the Federal -->
+
+<!-- marginal: Lands Com- -->
+
+or under the Singapore Railway Transfer Ordinance
+
+<!-- marginal: missioner. -->
+
+1918 or the Railway Act 1987 of the Republic shall continue to vest in the Government of Malaysia or the Federal Lands Commissioner, as the case may be, under this Act.
 
 (2) All property situated in the Republic of Singapore and which are vested in, held or were acquired by the Federal Lands Commissioner under the repealed Ordinance shall continue to vest in the Federal Lands Commissioner under this Act.
 
-Liabilities
+<!-- marginal: Liabilities -->
 
-95. All existing liabilities incurred by or on behalf of or enforceable for the purposes of the Malayan Railway may be against the Corporation enforced against the Corporation or the Federal Lands or Federal Commissioner, as the case may be. Lands Com- missioner.
+95. All existing liabilities incurred by or on behalf of or
 
-Appointment
+<!-- marginal: enforceable -->
 
-96. (1) The Corporation may, with the concurrence of of officer, the Public Services Department and the Treasury, from etc., of the Corporation. time to time, appoint such number of officers and servants on such terms and conditions as the Minister may prescribe in rules made under this Part as may be necessary for carrying out the purposes of this Part.
+for the purposes of the Malayan Railway may be
+
+<!-- marginal: against the -->
+
+<!-- marginal: Corporation -->
+
+enforced against the Corporation or the Federal Lands
+
+<!-- marginal: or Federal -->
+
+Commissioner, as the case may be.
+
+<!-- marginal: Lands Com- -->
+
+<!-- marginal: missioner. -->
+
+<!-- marginal: Appointment -->
+
+96. (1) The Corporation may, with the concurrence of
+
+<!-- marginal: of officer, -->
+
+the Public Services Department and the Treasury, from
+
+<!-- marginal: etc., of the -->
+
+<!-- marginal: Corporation. -->
+
+time to time, appoint such number of officers and servants on such terms and conditions as the Minister may prescribe in rules made under this Part as may be necessary for carrying out the purposes of this Part.
 
 (2) The Corporation may, from time to time, employ and pay agents and technical advisers, including advocates and solicitors, bankers, stockbrokers, surveyors, valuers and other persons, to transact any business or to do any act required to be transacted or done in the performance of its functions, the exercise of its powers or the discharge of its duties or for the better carrying into effect the purposes of this Act.
 
@@ -1916,17 +2622,55 @@ development projects) for the following year in such form and containing such pa
 
 (6) The Corporation may, at any time, submit to the Minister of Finance a supplementary estimate for any one year and the Minister of Finance may, after consultation with the Minister, allow the whole or any part of the additional expenditure.
 
-Ineligibiiity
+<!-- marginal: Ineligibiiity -->
 
-99. (1) No person shall be eligible for employment as for employ- an officer or servant of the Corporation who has, directly ment as officers or or indirectly, by himself or his partner, any share or servants interest in any contract or proposed contract with, for or of the Cor- poration. on behalf of the Corporation.
+99. (1) No person shall be eligible for employment as
+
+<!-- marginal: for employ- -->
+
+an officer or servant of the Corporation who has, directly
+
+<!-- marginal: ment as -->
+
+<!-- marginal: officers or -->
+
+or indirectly, by himself or his partner, any share or
+
+<!-- marginal: servants -->
+
+interest in any contract or proposed contract with, for or
+
+<!-- marginal: of the Cor- -->
+
+<!-- marginal: poration. -->
+
+on behalf of the Corporation.
 
 (2) Any officer or servant of the Corporation who has or acquires any such share or interest shall be liable in the discretion of the Corporation to be dismissed.
 
 (3) If any officer or servant of the Corporation at the time of his appointment as such officer or servant already owns or controls any share or interest in any property which, subsequent to his appointment as such officer or servant, is included or is intended to be included in any contract or proposed contract with, for or on behalf of the Corporation, he shall disclose the same in writing to the Corporation.
 
-Audited
+<!-- marginal: Audited -->
 
-100. (1) The Corporation shall furnish the Minister accounts, with the annual audited accounts of each financial year returns, reports, within six months of the following year. accounts and infor- mation. (2) The Corporation shall furnish the Minister with all such returns, reports, accounts and information with respect to its property and activities as the Minister may from time to time require.
+100. (1) The Corporation shall furnish the Minister
+
+<!-- marginal: accounts, -->
+
+with the annual audited accounts of each financial year
+
+<!-- marginal: returns, -->
+
+<!-- marginal: reports, -->
+
+within six months of the following year.
+
+<!-- marginal: accounts -->
+
+<!-- marginal: and infor- -->
+
+<!-- marginal: mation. -->
+
+(2) The Corporation shall furnish the Minister with all such returns, reports, accounts and information with respect to its property and activities as the Minister may from time to time require.
 
 <!-- page 61 -->
 
@@ -2030,9 +2774,15 @@ of the Malayan Railway, shall be deemed to be railway reserves under this Act wh
 
 ## REPEAL AND SAVINGS
 
-Repeal
+<!-- marginal: Repeal -->
 
-105. (1) The Railway Ordinance 1948 is repealed. and savings. (2) Notwithstanding subsection (1), all subsidiary legislations made under or in accordance with the repealed Ordinance shall, in so far as they are not inconsistent with this Act, continue in force until amended, revoked or replaced by this Act.
+105. (1) The Railway Ordinance 1948 is repealed.
+
+<!-- marginal: and -->
+
+<!-- marginal: savings. -->
+
+(2) Notwithstanding subsection (1), all subsidiary legislations made under or in accordance with the repealed Ordinance shall, in so far as they are not inconsistent with this Act, continue in force until amended, revoked or replaced by this Act.
 
 (3) Except in so far as it is expressly provided to the contrary, nothing in this Act shall—
 
@@ -2128,27 +2878,49 @@ hold office for a term not exceeding three years and is eligible for re appointm
 
 (2) Where any person ceases to be a member by reason of any of the provisions of this Act, another person shall be appointed in his place in accordance with the provisions applying.
 
-Remunera-
+<!-- marginal: Remunera- -->
 
 3. There may by paid to members of the Corporation
 
 <!-- marginal: such -->
 
-tion or remuneration or allowance as the Minister may determine. allowance. Meetings.
+<!-- marginal: tion or -->
+
+remuneration or allowance as the Minister may determine.
+
+<!-- marginal: allowance. -->
+
+<!-- marginal: Meetings. -->
 
 4. (1) The Corporation shall meet as and when required.
 
 (2) Subject to the provisions of this Act, the Corporation shall determine its own procedure.
 
-Corporation
+<!-- marginal: Corporation -->
 
-5. The Corporation may request any person (not being a member may invite of the Corporation) to attend any meeting or deliberation of the others to Corporation for the purpose of advising it on any matter under meetings. discussion, but any person so attending shall have no right to vote at the said meeting or deliberation.
+5. The Corporation may request any person (not being a member
 
-Disclosure
+<!-- marginal: may invite -->
 
-6. A member of the Corporation having, directly or indirectly, by of interest. himself or his partner, any interest in any company or undertaking with which the Corporation proposes to make any contract or having any interests in any such contract or in any matter under discussion by the Corporation shall disclose to the Corporation the fact of his interest and the nature thereof, and such disclosure shall be recorded in the minuies of the Corporation and. unless specifically authorised thereto by the Chairman, such member shall take no part in the deliberation or decision of the Corporation relating to the contract or matter.
+of the Corporation) to attend any meeting or deliberation of the
 
-Minutes.
+<!-- marginal: others to -->
+
+Corporation for the purpose of advising it on any matter under
+
+<!-- marginal: meetings. -->
+
+discussion, but any person so attending shall have no right to vote at the said meeting or deliberation.
+
+<!-- marginal: Disclosure -->
+
+6. A member of the Corporation having, directly or indirectly, by
+
+<!-- marginal: of interest. -->
+
+himself or his partner, any interest in any company or undertaking with which the Corporation proposes to make any contract or having any interests in any such contract or in any matter under discussion by the Corporation shall disclose to the Corporation the fact of his interest and the nature thereof, and such disclosure shall be recorded in the minuies of the Corporation and. unless specifically authorised thereto by the Chairman, such member shall take no part in the deliberation or decision of the Corporation relating to the contract or matter.
+
+<!-- marginal: Minutes. -->
 
 7. The Corporation shall cause minutes of all its meetings to be maintained and kept in a proper form.
 
@@ -2348,7 +3120,13 @@ IX
 
 62. Clause 93 vests all property vested in or held or acquired by the Federal Lands Commissioner under the Railway Ordinance 1948 in the Corporation.
 
-63. Clause 94 continues to vest all property situated in the Republic of Singapore and which are vested in or held or were acquired by the Government of Malaysia or the Federal Lands Commissioner under the Railway Ordinance 1948 in the Government of Malaysia or the Federal Lands Commissioner, as the case may be.
+63. Clause 94 continues to vest all property situated in the Republic of Singapore and which are vested in or held or were acquired by the Government of Malaysia or the Federal Lands Commissioner under the Railway Ordinance 1948
+
+<!-- marginal: in -->
+
+<!-- marginal: the -->
+
+Government of Malaysia or the Federal Lands Commissioner, as the case may be.
 
 64. Clause 95 stipulates that all existing liabilities incurred by or on behalf of or for the purposes of the Malayan Railway may be enforced against the Corporation or the Federal Lands Commissioner.
 

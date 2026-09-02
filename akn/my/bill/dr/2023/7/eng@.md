@@ -4,13 +4,13 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Amendments of Acts
 
-## Part II
+## PART II
 
 ## AMENDMENTS TO THE PENAL CODE
 
@@ -78,7 +78,7 @@
 
 39. Transitional
 
-## Part III
+## PART III
 
 ## AMENDMENTS TO THE FIREARMS (INCREASED PENALTIES) ACT 1971
 
@@ -96,7 +96,7 @@
 
 46. Transitional
 
-## Part IV
+## PART IV
 
 ## AMENDMENTS TO THE ARMS ACT 1960
 
@@ -112,7 +112,7 @@
 
 51. Transitional
 
-## Part V
+## PART V
 
 ## AMENDMENT TO THE KIDNAPPING ACT 1961
 
@@ -120,7 +120,7 @@
 
 53. Transitional
 
-## Part VI
+## PART VI
 
 ## AMENDMENT TO THE DANGEROUS DRUGS ACT 1952
 
@@ -128,7 +128,7 @@
 
 55. Transitional
 
-## Part VII
+## PART VII
 
 ## AMENDMENTS TO THE STRATEGIC TRADE ACT 2010
 
@@ -166,7 +166,7 @@ An Act to amend the Penal Code, the Firearms (Increased Penalties) Act 1971, the
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -182,7 +182,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 2. The Penal Code [Act 574], the Firearms (Increased Penalties) Act 1971 [Act 37], the Arms Act 1960 [Act 206], the Kidnapping Act 1961 [Act 365], the Dangerous Drugs Act 1952 [Act 234], the Strategic Trade Act 2010 [Act 708] and the Criminal Procedure Code [Act 593] are amended in the manner specified in Parts II, III, IV, V, VI, VII and VIII respectively.
 
-## Part II
+## PART II
 
 ## AMENDMENTS TO THE PENAL CODE
 
@@ -346,7 +346,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 39. Upon the coming into operation of this Act, if a person is convicted by any court for the commission of an offence under section 121, 121a, 302 or 364 or paragraph 130c(1)(a), 130i(a), 130n(a), 130o(1)(aa), 130qa(a), 130zb(a) or 374a(a) of the Code, the person, whether at a trial or on an appeal, shall be sentenced in accordance with the provisions of the Code as amended by this Act even though the offence was committed before the date of coming into operation of this Act.
 
-## Part III
+## PART III
 
 ## AMENDMENTS TO THE FIREARMS
 
@@ -386,7 +386,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 14 -->
 
-## Part IV
+## PART IV
 
 ## AMENDMENTS TO THE ARMS ACT 1960
 
@@ -426,7 +426,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 51. Upon the coming into operation of this Act, if a person is convicted by any court for the commission of an offence under paragraph 14(1)(a) of the principal Act, the person, whether at a trial or on an appeal, shall be sentenced in accordance with the provisions of the principal Act as amended by this Act even though the offence was committed before the date of coming into operation of this Act.
 
-## Part V
+## PART V
 
 ## AMENDMENT TO THE KIDNAPPING ACT 1961
 
@@ -440,7 +440,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 16 -->
 
-## Part VI
+## PART VI
 
 ## AMENDMENT TO THE DANGEROUS DRUGS ACT 1952
 
@@ -456,7 +456,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 55. Upon the coming into operation of this Act, if a person is convicted by any court for the commission of an offence under section 39b of the principal Act, the person, whether at a trial or on an appeal, shall be sentenced in accordance with the provisions of the principal Act as amended by this Act even though the offence was committed before the date of coming into operation of this Act.
 
-## Part VII
+## PART VII
 
 ## AMENDMENTS TO THE STRATEGIC TRADE ACT 2010
 
@@ -598,23 +598,21 @@ ENACTED by the Parliament of Malaysia as follows:
 
 The Abolition of Mandatory Death Penalty Bill 2023 (“the proposed Act”) seeks to abolish the mandatory death penalty, to vary the sentence of imprisonment for natural life and whipping, and to provide for matters connected therewith by amending the Penal Code (“Act 574”), the Firearms (Increased Penalties) Act 1971 (“Act 37”), the Arms Act 1960 (“Act 206”), the Kidnapping Act 1961 (“Act 365”), the Dangerous Drugs Act 1952 (“Act 234”), the Strategic Trade Act 2010 (“Act 708”) and the Criminal Procedure Code (“Act 593”) in line with the Government policy to abolish the mandatory death penalty in all legislation.
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
-## Part I of the proposed Act deals with preliminary matters.
+Part I of the proposed Act deals with preliminary matters.
 
 2. Clause 1 contains the short title of the proposed Act and the power of the Minister to appoint the commencement date of the proposed Act.
 
 3. Clause 2 contains the list of Acts amended under the proposed Act.
 
-## Part II
+## PART II
 
 ## AMENDMENTS TO THE PENAL CODE
 
-## Part II of the proposed Act deals with the amendments to the Penal Code
-
-which seek to, among others, abolish the mandatory death penalty.
+Part II of the proposed Act deals with the amendments to the Penal Code which seek to, among others, abolish the mandatory death penalty.
 
 4. The amendments to Act 574 seek to substitute the mandatory death penalty with the discretionary death penalty for the offences under sections 121a, 130c, 130i, 130n, 130o, 130qa, 130zb, 302 and 374a.
 
@@ -636,13 +634,11 @@ which seek to, among others, abolish the mandatory death penalty.
 
 12. Clause 39 seeks to provide for a transitional provision relating to any person who has committed an offence under section 121, 121a, 302 or 364 or paragraph 130c(1)(a), 130i(a), 130n(a), 130o(1)(aa), 130qa(a), 130zb(a) or 374a(a) of Act 574 before the date of coming into operation of this Act.
 
-## Part III
+## PART III
 
 ## AMENDMENTS TO THE FIREARMS (INCREASED PENALTIES) ACT 1971
 
-## Part III of the proposed Act deals with the amendments to the Firearms
-
-(Increased Penalties) Act 1971.
+Part III of the proposed Act deals with the amendments to the Firearms (Increased Penalties) Act 1971.
 
 13. Clause 40 seeks to amend subsection 2(1) of Act 37 to delete the definition of “imprisonment for life”.
 
@@ -658,11 +654,11 @@ which seek to, among others, abolish the mandatory death penalty.
 
 18. Clause 46 seeks to provide for a transitional provision relating to any person who has committed an offence under section 3, 3a or 7 of Act 37 before the date of coming into operation of this Act.
 
-## Part IV
+## PART IV
 
 ## AMENDMENTS TO THE ARMS ACT 1960
 
-## Part IV of the proposed Act deals with the amendments to the Arms Act 1960.
+Part IV of the proposed Act deals with the amendments to the Arms Act 1960.
 
 19. Clause 47 seeks to amend subsection 2(1) of Act 206 to delete the definition of “imprisonment for life”.
 
@@ -674,23 +670,21 @@ which seek to, among others, abolish the mandatory death penalty.
 
 <!-- page 26 -->
 
-## Part V
+## PART V
 
 ## AMENDMENT TO THE KIDNAPPING ACT 1961
 
-## Part V of the proposed Act deals with the amendment to the Kidnapping Act 1961.
+Part V of the proposed Act deals with the amendment to the Kidnapping Act 1961.
 
 23. Clause 52 seeks to amend section 3 of Act 365 to vary the penalty for the offence of abduction, wrongful restraint or wrongful confinement for ransom by, among others, abolishing the death penalty.
 
 24. Clause 53 seeks to provide for a transitional provision relating to any person who has committed an offence under section 3 of Act 365 before the date of coming into operation of this Act.
 
-## Part VI
+## PART VI
 
 ## AMENDMENT TO THE DANGEROUS DRUGS ACT 1952
 
-## Part VI of the proposed Act deals with the amendment to the Dangerous
-
-Drugs Act 1952.
+Part VI of the proposed Act deals with the amendment to the Dangerous Drugs Act 1952.
 
 25. Clause 54 seeks to amend section 39b of Act 234.
 
@@ -700,13 +694,11 @@ Subclause 54(b) seeks to delete subsections 39b(2a) and (2b) of Act 234 in order
 
 26. Clause 55 seeks to provide for a transitional provision relating to any person who has committed an offence under section 39b of Act 234 before the date of coming into operation of this Act.
 
-## Part VII
+## PART VII
 
 ## AMENDMENTS TO THE STRATEGIC TRADE ACT 2010
 
-## Part VII of the proposed Act deals with the amendments to the Strategic
-
-Trade Act 2010.
+Part VII of the proposed Act deals with the amendments to the Strategic Trade Act 2010.
 
 27. Clauses 56, 57, 58 and 59 seek to amend subsubparagraph 9(4)(a)(i)(A), subsubparagraph 9(5)(a)(i)(A), subsubparagraph 9(6)(a)(i)(A), paragraph 10(2)(a), subparagraph 11(2)(a)(i) and subsubparagraph 12(4)(a)(i)(A) of Act 708 to substitute the sentence of imprisonment for natural life with imprisonment for a term of not less than thirty years but not exceeding forty years.
 
@@ -718,9 +710,7 @@ Trade Act 2010.
 
 ## AMENDMENTS TO THE CRIMINAL PROCEDURE CODE
 
-## Part VIII of the proposed Act deals with the amendments to the Criminal
-
-Procedure Code consequential to the amendments made to Act 574 to, among others, abolish the mandatory death penalty.
+Part VIII of the proposed Act deals with the amendments to the Criminal Procedure Code consequential to the amendments made to Act 574 to, among others, abolish the mandatory death penalty.
 
 29. Clause 61 seeks to amend subsection 15(3) of Act 593 to provide that nothing in section 15 of Act 593 gives the right, to a police officer or any other person, when making an arrest to cause the death of a person who is not accused of an offence punishable with death or with imprisonment for a term of not less than thirty years but not exceeding forty years.
 

@@ -56,6 +56,4 @@ Rang Undang-Undang ini bertujuan meminda Akta Kesalahan Pilihanraya 1954.
 
 2. Fasal 2 bertujuan meminda seksyen 41 Akta bagi memperuntukkan tentang kemuktamadan keputusan ketua tempat mengundi dalam menolak kertas-kertas undi semasa pengiraan undi bagi maksud sesuatu petisyen pilihanraya. Pindaan yang dicadangkan dalam fasal 3 adalah berbangkit daripada penukaran nama sebutan "pegawai pengetua" kepada "ketua tempat mengundi".
 
-IMPLIKASl KEWANGAN Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
-
-<!-- marginal: [PN. (IP) 1506.] -->
+IMPLIKASl KEWANGAN Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN. (IP) 1506.]

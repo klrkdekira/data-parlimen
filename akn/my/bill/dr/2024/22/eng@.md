@@ -6,7 +6,7 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -14,7 +14,7 @@
 
 2. Interpretation
 
-## Part II
+## PART II
 
 ## ESTABLISHMENT OF MALAYSIA BORDER CONTROL AND PROTECTION AGENCY
 
@@ -26,7 +26,7 @@
 
 5. Appointment of other officers of Agency
 
-## Part III
+## PART III
 
 ## FUNCTIONS AND POWERS OF AGENCY
 
@@ -44,7 +44,7 @@
 
 12. Assistance and coordination
 
-## Part IV
+## PART IV
 
 ## GENERAL
 
@@ -74,15 +74,15 @@
 
 24. Power to amend Schedules
 
-## Part V
+## PART V
 
 ## SAVING
 
 25. Saving provisions
 
-## First schedule
+## FIRST SCHEDULE
 
-## second schedule
+## SECOND SCHEDULE
 
 <!-- page 3 -->
 
@@ -94,7 +94,7 @@ An Act to provide for the establishment of the Malaysia Border Control and Prote
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -144,7 +144,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 “relevant written laws” means the federal written laws specified in the Second Schedule and includes any subsidiary legislation made under the written laws.
 
-## Part II
+## PART II
 
 ## ESTABLISHMENT OF MALAYSIA BORDER CONTROL AND
 
@@ -178,7 +178,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (2) The officer appointed under subsection (1) shall have such powers as may be provided for him under this Act and shall be subject to the directions, command, control and supervision of the Director General.
 
-## Part III
+## PART III
 
 ## FUNCTIONS AND POWERS OF AGENCY
 
@@ -260,7 +260,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (2) The Agency and the competent authorities shall closely coordinate, consult and liaise with each other and render to each other assistance for carrying out the provisions of this Act.
 
-## Part IV
+## PART IV
 
 ## GENERAL
 
@@ -360,7 +360,7 @@ commits an offence and shall, on first conviction, be liable to imprisonment for
 
 24. The Minister may, after consultation with the Minister in charge with the responsibility for the relevant written laws, by order published in the Gazette, amend the First Schedule and the Second Schedule.
 
-## Part V
+## PART V
 
 ## SAVING
 
@@ -372,7 +372,7 @@ commits an offence and shall, on first conviction, be liable to imprisonment for
 
 <!-- page 15 -->
 
-## First schedule
+## FIRST SCHEDULE
 
 [Section 2]
 
@@ -386,9 +386,7 @@ commits an offence and shall, on first conviction, be liable to imprisonment for
 
 ## A. ENTRY BY LAND
 
-No. Immigration Control Posts
-
-<!-- marginal: Approved routes -->
+No. Immigration Control Posts Approved routes
 
 1. Kedah
 
@@ -410,9 +408,7 @@ D09 Rantau Panjang (Railway By train from Thailand to Rantau Station) Panjang Ra
 
 ## B. ENTRY BY SEA
 
-No. Point of entry
-
-<!-- marginal: Authorized landing place -->
+No. Point of entry Authorized landing place
 
 1. Penang
 
@@ -466,7 +462,9 @@ L51 Kota Kinabalu Wharf Within port limits
 
 ## ENTRY BY AIR
 
-No. Authorized airport
+<!-- marginal: No. -->
+
+Authorized airport
 
 1. U05 Pulau Pinang Airport, Bayan Lepas, Penang
 
@@ -502,53 +500,53 @@ No. Customs port Legal landing place
 
 <!-- page 18 -->
 
-No. Customs port Legal landing place
+<!-- marginal: No. Customs port -->
+
+Legal landing place
 
 (f) The jetty of Star Cruise Sdn. Bhd. extending for a distance of 247.31 metres to the sea on the west bank of Pulau lndah north of Sungai Chondong Besar located at—
 
-Latitude
+Latitude Longitude
 
-<!-- marginal: Longitude -->
+02° 59’ 05.415” N 101° 20’ 15.723” E
 
-02° 59’ 05.415” N
-
-<!-- marginal: 101° 20’ 15.723” E -->
-
-02° 59’ 06.003” N
-
-<!-- marginal: 101° 20’ 16.921” E; -->
+02° 59’ 06.003” N 101° 20’ 16.921” E;
 
 (g) The jetties of ASA Niaga Sdn. Bhd. at Port Klang located on the left bank of Sungai Klang between—
 
-Latitude
+Latitude Longitude
 
-<!-- marginal: Longitude -->
-
-03° 00’ 31.9294”N
-
-<!-- marginal: 101° 23’ 28.4299”E -->
-
-to
-
-<!-- marginal: to -->
-
-03° 00’ 26.1835”N
-
-<!-- marginal: 101° 23’ 26.4980”E; -->
+03° 00’ 31.9294”N 101° 23’ 28.4299”E to to 03° 00’ 26.1835”N 101° 23’ 26.4980”E;
 
 (h) Jetty of ASA Niaga Harbour City Sdn. Bhd., Jalan Foreshore, Port Klang, Selangor located at—
 
 Latitude Longitude 101° 23’ 22.1”N 2° 59’ 58.8”E 101° 23’ 22.8”N 2° 59’ 56.3”E 101° 23’ 22.3”N 2° 59’ 56.2”E 101° 23’ 22.1”N 2° 59’ 56.9”E 101° 23’ 22.6”N 2° 59’ 56.7”E 101° 23’ 21.5”N 2° 59’ 56.9”E 101° 23’ 22.0”N 2° 59’ 55.8”E 101° 23’ 21.8”N 2° 59’ 57.7”E 101° 23’ 21.3”N 2° 59’ 57.6”E 101° 23’ 21.2”N 2° 59’ 57.7”E 101° 23’ 21.8”N 2° 59’ 57.9”E 101° 23’ 21.5”N 2° 59’ 58.6”E 101° 23’ 31.8”N 2° 00’ 10.3”E 101° 23’ 35.4”N 2° 59’ 55.4”E 101° 23’ 31.8”N 2° 59’ 53.3”E 101° 23’ 21.6”N 2° 59’ 56.1”E 101° 23’ 20.9”N 2° 59’ 58.3”E
 
-2. Tanjung Pelepas The left bank of Sungai Pulai— Port, Johor Latitude: 01° 22’ 27.885” N, Bahru Longitude: 103° 32’ 37. 0024” E; until Latitude: 01° 21’ 20.4208” N, Longitude: 103° 32’ 56.7317” E
+2. Tanjung Pelepas The left bank of Sungai Pulai—
+
+<!-- marginal: Port, Johor -->
+
+Latitude: 01° 22’ 27.885” N,
+
+<!-- marginal: Bahru -->
+
+Longitude: 103° 32’ 37. 0024” E; until Latitude: 01° 21’ 20.4208” N, Longitude: 103° 32’ 56.7317” E
 
 <!-- page 19 -->
 
-No. Customs port Legal landing place
+<!-- marginal: No. Customs port -->
 
-3. Pasir Gudang,
+Legal landing place
 
-(a) That portion of the fenced in area of the foreshore, Johor Bahru including the mouth of Sungai Buluh, all jetties and all wharves of the Johor Port Authority, situated between the west bank of Sungai Perembi located at latitude 01° 26’ 28’’ North, longitude 103° 53’ 16’’ East, thus to a line joining the westernmost dolphin of DCJ 4 located at latitude 01° 26’ 27’’ N, longitude 103° 53’ 06’’ E, and finally joining the line of Johor Port Water Limit at Latitude 01° 26’ 14’’ N, longitude 103° 53’ 06’’ E;
+3.
+
+<!-- marginal: Pasir Gudang, -->
+
+(a) That portion of the fenced in area of the foreshore,
+
+<!-- marginal: Johor Bahru -->
+
+including the mouth of Sungai Buluh, all jetties and all wharves of the Johor Port Authority, situated between the west bank of Sungai Perembi located at latitude 01° 26’ 28’’ North, longitude 103° 53’ 16’’ East, thus to a line joining the westernmost dolphin of DCJ 4 located at latitude 01° 26’ 27’’ N, longitude 103° 53’ 06’’ E, and finally joining the line of Johor Port Water Limit at Latitude 01° 26’ 14’’ N, longitude 103° 53’ 06’’ E;
 
 (b) On the eastern side, the area along the wharf No. 11 located at latitude 01° 26’ 03.5’’ N, longitude 103° 55’ 23’’ E on the northern part, and at the southern part of wharf No. 11 located at latitude 01° 25’ 52’’ N, longitude 103° 55’ 20’’ E, adjacent to the west bank of Sungai Latoh located at latitude 01° 26’ 12’’ N, longitude 103° 55’ 29’’ E.
 
@@ -562,7 +560,11 @@ No. Customs port Legal landing place
 
 5. Kuantan,
 
-(a) The wharves of the Kuantan Port Authority in Tanjung Gelang the First Basin (Basin A);
+(a) The wharves of the Kuantan Port Authority in
+
+<!-- marginal: Tanjung Gelang -->
+
+the First Basin (Basin A);
 
 (b) The whole dolphin jetty located at the southern part of the First by Basin (Basin A);
 
@@ -584,83 +586,37 @@ No. Customs port Legal landing place
 
 <!-- page 20 -->
 
-No. Customs port Legal landing place
+<!-- marginal: No. Customs port -->
+
+Legal landing place
 
 7. Bintulu
 
 (a) The wharf of Bintulu Port Authority at Tanjung Kedurong which is located at—
 
-Wharf Latitude
+Wharf Latitude Longitude
 
-<!-- marginal: Longitude -->
+1 3°15’53.3785” N 113°3’57.5312” E 3°15’53.3855” N 113°3’52.0233” E
 
-1 3°15’53.3785” N
+2 3°15’53.3714” N 11°4’3.0390” E 3°15’53.3785” N 113°3’57.5312” E
 
-<!-- marginal: 113°3’57.5312” E -->
+3 3°15’53.3641” N 113°4’8.6927” E 3°15’53.3714” N 113°4’3.0390” E
 
-3°15’53.3855” N
+4 3°15’53.3545” N 113°4’16.1283” E 3°15’53.3641” N 113°4’8.6927” E
 
-<!-- marginal: 113°3’52.0233” E -->
+5 3°15’53.3449” N 113°4’23.5647” E 3°15’53.3545” N 113°4’16.1283” E
 
-2 3°15’53.3714” N
+Ro-Ro 3°15’52.7343” N 113°3’52.0225” E Ramp 3°15’52.7354” N 113°3’51.1963” E
 
-<!-- marginal: 11°4’3.0390” E -->
-
-3°15’53.3785” N
-
-<!-- marginal: 113°3’57.5312” E -->
-
-3 3°15’53.3641” N
-
-<!-- marginal: 113°4’8.6927” E -->
-
-3°15’53.3714” N
-
-<!-- marginal: 113°4’3.0390” E -->
-
-4 3°15’53.3545” N
-
-<!-- marginal: 113°4’16.1283” E -->
-
-3°15’53.3641” N
-
-<!-- marginal: 113°4’8.6927” E -->
-
-5 3°15’53.3449” N
-
-<!-- marginal: 113°4’23.5647” E -->
-
-3°15’53.3545” N
-
-<!-- marginal: 113°4’16.1283” E -->
-
-Ro-Ro 3°15’52.7343” N
-
-<!-- marginal: 113°3’52.0225” E -->
-
-Ramp 3°15’52.7354” N
-
-<!-- marginal: 113°3’51.1963” E -->
-
-Bulk 3°15’52.7354” N
-
-<!-- marginal: 113°3’51.1963” E -->
-
-Cargo 3°15’43.9436” N
-
-<!-- marginal: 113°3’16.1851” E; -->
+Bulk 3°15’52.7354” N 113°3’51.1963” E Cargo 3°15’43.9436” N 113°3’16.1851” E;
 
 (b) LNG Jetty located at—
 
-MD/BD Latitude
-
-<!-- marginal: Longitude -->
+MD/BD Latitude Longitude
 
 M.D. 1 3° 15’ 49.689” N 113° 3’ 14.095” E
 
-B.D. 1 3°15’ 51.215” N
-
-<!-- marginal: 113° 3’ 17.920” E -->
+B.D. 1 3°15’ 51.215” N 113° 3’ 17.920” E
 
 B.D. 5 3° 15’ 53.653” N 113° 3’ 20.807” E
 
@@ -674,11 +630,23 @@ M.D. 7 3° 15’ 56.256” N 113° 3’ 22.560” E;
 
 (b) The area known as the West Wharf located at Lot PT 3410, Mukim of Teluk Kalong in the District of Kemaman operated by Sukma Samudra Sdn. Bhd.
 
-9. Jeti Dermaga Jeti Dermaga Kimia Cecair (LCB) Pelabuhan Kemaman Kimia Cecair located at— (LCB) Latitude
+9.
 
-<!-- marginal: Longitude -->
+<!-- marginal: Jeti Dermaga -->
 
-Pelabuhan Kemaman 4° 14’ 44.183652” N 103° 27’ 38.66652” E
+Jeti Dermaga Kimia Cecair (LCB) Pelabuhan Kemaman
+
+<!-- marginal: Kimia Cecair -->
+
+located at—
+
+(LCB) Latitude Longitude
+
+<!-- marginal: Pelabuhan -->
+
+<!-- marginal: Kemaman -->
+
+4° 14’ 44.183652” N 103° 27’ 38.66652” E
 
 <!-- page 21 -->
 
@@ -688,13 +656,9 @@ No. Customs port Legal landing place
 
 11. Tanjung Sulong Loading Pier Gas Export Terminal operated by Petroliam Kemaman Nasional Sdn. Bhd. (PETRONAS) extending for a distance of 300 metres to the sea at the coordination—
 
-Latitude
+Latitude Longitude
 
-<!-- marginal: Longitude -->
-
-4° 14’ 24” N
-
-<!-- marginal: 103° 27’ 48” E -->
+4° 14’ 24” N 103° 27’ 48” E
 
 12. Kota Kinabalu (a) The wharves of the Sabah Port Authority;
 
@@ -702,31 +666,25 @@ Latitude
 
 13. Teluk The wharf and jetty of the Sabah Port Authority Sapangar located at—
 
-Latitude
+Latitude Longitude
 
-<!-- marginal: Longitude -->
-
-06° 05’ 06” N
-
-<!-- marginal: 116° 07’ 23” E -->
+06° 05’ 06” N 116° 07’ 23” E
 
 14. Tawau The wharf of the Sabah Port Authority
 
 15. Senari Port, Kuching Port Authority’s wharf at Kampung Senari Kuching with a length of 635 metres and width of 45 metres located at—
 
-Latitude
+Latitude Longitude
 
-<!-- marginal: Longitude -->
-
-01° 37.01’ 0” N
-
-<!-- marginal: 110° 26.89’ 0” E -->
+01° 37.01’ 0” N 110° 26.89’ 0” E
 
 ## PART III
 
 ## CUSTOMS AIRPORT
 
-No. Location
+<!-- marginal: No. -->
+
+Location
 
 1. Bayan Lepas, Pulau Pinang
 
@@ -740,7 +698,9 @@ No. Location
 
 <!-- page 22 -->
 
-No. Location
+<!-- marginal: No. -->
+
+Location
 
 6. Sandakan, Sabah
 
@@ -752,15 +712,25 @@ No. Location
 
 ## PLACE OF IMPORT AND EXPORT BY ROAD OR RAILWAY
 
-No. Location Place of import and export
+<!-- marginal: No. -->
+
+<!-- marginal: Location -->
+
+Place of import and export
 
 1. Bukit Kayu
 
-(a) The Customs Office and all its ancillary building Hitam and structure situated within the Bukit Kayu Hitam Immigration Complex which is located along Sadao/Changlun trunk road between 8.9km north of Changlun and 0.69km south of Danork (Thailand) Immigration/ Customs Check Point in the Mukim of Laka Temin, Kubang Pasu, Kedah;
+(a) The Customs Office and all its ancillary building
+
+<!-- marginal: Hitam -->
+
+and structure situated within the Bukit Kayu Hitam Immigration Complex which is located along Sadao/Changlun trunk road between 8.9km north of Changlun and 0.69km south of Danork (Thailand) Immigration/ Customs Check Point in the Mukim of Laka Temin, Kubang Pasu, Kedah;
 
 (b) The Customs Office and all its ancillary buildings and structure situated within The Lembaga Kemajuan Ikan Malaysia (LKIM) Examination Complex which is located along Sadao/Changlun trunk road between 9.1km north of Changlun and 0.67km south of Danok (Thailand) Immigration/ Customs Check Point as prescribed in plan Plot No. PT 890 and PT 2180 in the Mukim of Laka Temin, Kubang Pasu, Kedah.
 
-2. Johor Bahru
+2.
+
+<!-- marginal: Johor Bahru -->
 
 (a) The passenger Examination Gate, i.e. the area allocated for Immigration and Customs examination;
 
@@ -772,21 +742,47 @@ No. Location Place of import and export
 
 <!-- page 23 -->
 
-No. Location Place of import and export
+<!-- marginal: No. -->
+
+<!-- marginal: Location -->
+
+Place of import and export
 
 (e) The Customs Office and all buildings and additional construction located within the Bangunan Sultan Iskandar (BSI), Bukit Chagar, Mukim of Johor Bahru, District of Johor Bahru, Johor enclosed within the perimeter fence, commencing from the south at the entry/exit gate along the perimeter fence nearest to the Bangunan Sultan Iskandar (BSI) from the direction of Singapore and terminating at the exit/entry gate facing the Lingkaran Dalam Road.
 
-3. Tanjung The Sultan Abu Bakar Complex, Mukim of Tanjung Kupang Kupang, District of Johor Bahru, enclosed within the Johor Bahru perimeter fence, commencing from the south by the entry/exit gate along the perimeter fence nearest to the Import Holding Area from the direction of Singapore and terminating at the exit/entry gate along the perimeter fence nearest to the Export Holding Area
+3. Tanjung The Sultan Abu Bakar Complex, Mukim of Tanjung
 
-4. Pasir
+<!-- marginal: Kupang -->
 
-(a) For imports into the free zone— Customs Complex Gudang – at Pasir Gudang that is an area allocated for Free Zone examination by the Free Zone Authority and Customs which includes the railway yard and the road leading out of the free zone;
+Kupang, District of Johor Bahru, enclosed within the
+
+<!-- marginal: Johor Bahru -->
+
+perimeter fence, commencing from the south by the entry/exit gate along the perimeter fence nearest to the Import Holding Area from the direction of Singapore and terminating at the exit/entry gate along the perimeter fence nearest to the Export Holding Area
+
+4.
+
+<!-- marginal: Pasir -->
+
+(a) For imports into the free zone— Customs Complex
+
+<!-- marginal: Gudang – -->
+
+at Pasir Gudang that is an area allocated for
+
+<!-- marginal: Free Zone -->
+
+examination by the Free Zone Authority and Customs which includes the railway yard and the road leading out of the free zone;
 
 (b) For exports from the free zone— Customs Complex at Pasir Gudang that is an area allocated for examination by the Free Zone Authority and Customs which includes the railway yard and the road leading out of the free zone.
 
 5. Rantau
 
-(a) The Immigration Check-Point at the Railway Panjang Bridge spanning the Sungai Golok;
+(a) The Immigration Check-Point at the Railway
+
+<!-- marginal: Panjang -->
+
+Bridge spanning the Sungai Golok;
 
 (b) The railway track at Rantau Panjang commencing from the Malaysian end of the railway bridge on the right bank of Sungai Golok and extending southerly approximately 155.4 metres to the road level crossing including the railway station platform running parallel to the track;
 
@@ -794,7 +790,11 @@ No. Location Place of import and export
 
 <!-- page 24 -->
 
-No. Location Place of import and export
+<!-- marginal: No. -->
+
+<!-- marginal: Location -->
+
+Place of import and export
 
 and the imaginary straight line projecting from the northern end of the building complex till it meets the north gate including the passage connecting the check-point area to the railway station platform adjoining the Customs Office;
 
@@ -806,9 +806,15 @@ and the imaginary straight line projecting from the northern end of the building
 
 ## INSPECTION SERVICES ACT 2011
 
-No. Location Entry point
+<!-- marginal: No. -->
 
-1. Port Klang
+<!-- marginal: Location -->
+
+Entry point
+
+1.
+
+<!-- marginal: Port Klang -->
 
 (a) The wharf and jetty of the Port Klang Authority on the east bank of the Klang Straits between Sungai Tiga and Sungai Puloh;
 
@@ -820,11 +826,31 @@ No. Location Entry point
 
 <!-- page 25 -->
 
-No. Location Entry point
+<!-- marginal: No. -->
+
+<!-- marginal: Location -->
+
+Entry point
 
 (e) The jetty of ASA Niaga Sdn. Bhd. at Port Klang located on the left bank of Sungai Klang between Latitude 03˚ 00’ 31.9294” North to 03˚ 00’ 26.1835” North Longitude 101˚ 23’ 28.4299” East to 101˚ 23’ 26.4980” East.
 
-2. Mukim of All those lands situated in the Mukim of Kapar, Kapar, District in the District of Klang, Selangor bounded by the of Klang, grey line as shown in the Gazette Plan 882 deposited Selangor in the Office of the Director of Survey, Selangor (Free Zone) excluding the areas specified as follows:
+2. Mukim of All those lands situated in the Mukim of Kapar,
+
+<!-- marginal: Kapar, District -->
+
+in the District of Klang, Selangor bounded by the
+
+<!-- marginal: of Klang, -->
+
+grey line as shown in the Gazette Plan 882 deposited
+
+<!-- marginal: Selangor -->
+
+in the Office of the Director of Survey, Selangor
+
+<!-- marginal: (Free Zone) -->
+
+excluding the areas specified as follows:
 
 (a) land occupied by the Klang Port Management Sdn. Bhd., comprising Export Stacking Bay (6 blocks: TA - TG), Refers Stack (2 Blocks: RA -RB), Customs Examination Bay (3 Blocks: 1 -3), Godown Q (an area of 220’ x 150’), Godown P (an area of 600’ x 150’), Open Yard P (an area of 660’ x 217’), Transit Shed No. 13 (an area of 100’ x 101’), Transit Shed No. 16 (an area of 177’ x 105’), Transit Shed No. 18 (an area of 177’ x 105’) and Dock Area (an area of 700’ x 105’);
 
@@ -832,7 +858,23 @@ No. Location Entry point
 
 (c) land occupied by Port Klang Distribution Park Sdn. Bhd., comprising the Customs Holding Area (an area of 20,000 square feet).
 
-3. West Port, All those lands situated in the Mukim of Klang, District Pulau Indah, of Klang, Selangor bounded by the grey line as shown Mukim of in the Gazette Plan 1174 deposited in the Office of Klang, District the Director of Survey, Selangor of Klang (Free Zone)
+3. West Port, All those lands situated in the Mukim of Klang, District
+
+<!-- marginal: Pulau Indah, -->
+
+of Klang, Selangor bounded by the grey line as shown
+
+<!-- marginal: Mukim of -->
+
+in the Gazette Plan 1174 deposited in the Office of
+
+<!-- marginal: Klang, District -->
+
+the Director of Survey, Selangor
+
+<!-- marginal: of Klang -->
+
+<!-- marginal: (Free Zone) -->
 
 <!-- page 26 -->
 
@@ -852,17 +894,61 @@ No. Location Entry point
 
 <!-- page 27 -->
 
-No. Location Entry point
+<!-- marginal: No. -->
 
-8. Pasir Gudang
+<!-- marginal: Location -->
 
-(a) for import into the Zone-Customs Complex at (Free Zone) Pasir Gudang, i.e. the area allocated for the Zone Authority and Customs Imports Examination which includes the railway yard of the road leading into the Zone;
+Entry point
+
+8.
+
+<!-- marginal: Pasir Gudang -->
+
+(a) for import into the Zone-Customs Complex at
+
+<!-- marginal: (Free Zone) -->
+
+Pasir Gudang, i.e. the area allocated for the Zone Authority and Customs Imports Examination which includes the railway yard of the road leading into the Zone;
 
 (b) for export from the Zone-Customs Complex at Pasir Gudang, the area allocated for the Zone Authority and Customs Exports Examination which includes the railway yard and the road leading out of the Zone.
 
-9. Tanjung The left bank of Sungai Pulai stretching from Latitude Pelepas 01˚ 22’ 27.885” North Longitude 103˚ 32’ 37” East Port, Johor and Latitude 01˚ 21’ 20.4208” North Longitude Bahru 103˚ 32’ 56.7317” East
+9. Tanjung The left bank of Sungai Pulai stretching from Latitude
 
-10. Tanjung Lot PTD 2423 Mukim of Tanjung Kupang, District Pelepas, of Johor Bahru, Johor, as shown by the grey line in Mukim of the Gazette Plan 2749 deposited in the office of the Tanjung Director of Survey, Johore Kupang, District of Johor Bahru, Johor (Phase 1) (Free Zone)
+<!-- marginal: Pelepas -->
+
+01˚ 22’ 27.885” North Longitude 103˚ 32’ 37” East
+
+<!-- marginal: Port, Johor -->
+
+and Latitude 01˚ 21’ 20.4208” North Longitude
+
+<!-- marginal: Bahru -->
+
+103˚ 32’ 56.7317” East
+
+10. Tanjung Lot PTD 2423 Mukim of Tanjung Kupang, District
+
+<!-- marginal: Pelepas, -->
+
+of Johor Bahru, Johor, as shown by the grey line in
+
+<!-- marginal: Mukim of -->
+
+the Gazette Plan 2749 deposited in the office of the
+
+<!-- marginal: Tanjung -->
+
+Director of Survey, Johore
+
+<!-- marginal: Kupang, -->
+
+<!-- marginal: District of -->
+
+<!-- marginal: Johor Bahru, -->
+
+<!-- marginal: Johor (Phase 1) -->
+
+<!-- marginal: (Free Zone) -->
 
 11. Kuantan
 
@@ -870,13 +956,25 @@ No. Location Entry point
 
 (b) the wharf of the Pahang Consolidated Co. Ltd.
 
-12. Tanjung The wharf of Kuantan Port Authority in the First Gelang, Basin (Basin A) Kuantan
+12. Tanjung The wharf of Kuantan Port Authority in the First
 
-13. Chukai, The Government wharf Kemaman
+<!-- marginal: Gelang, -->
+
+Basin (Basin A)
+
+<!-- marginal: Kuantan -->
+
+13. Chukai, The Government wharf
+
+<!-- marginal: Kemaman -->
 
 14. Kemaman
 
-(a) the wharf of the Kemaman Port Authority located Port on the reclaimed land at Lot PT 3180;
+(a) the wharf of the Kemaman Port Authority located
+
+<!-- marginal: Port -->
+
+on the reclaimed land at Lot PT 3180;
 
 (b) the area known as the West Wharf situated at Lot PT 3410, Mukim of Teluk Kalong in the District of Kemaman operated by PTB West Wharf Sdn. Bhd.
 
@@ -892,11 +990,43 @@ No. Location Entry point
 
 <!-- page 28 -->
 
-No. Location Entry point
+<!-- marginal: No. -->
 
-17. Deep Water All those lands situated in Section 4, City of Butterworth, Wharf, Northern District, Seberang Prai bounded by the grey Section 4, line as shown in the Gazette Plan 573 deposited in City of the Office of the Director of Survey, Pulau Pinang, Butterworth, excluding the areas specified as follows: District of North
+<!-- marginal: Location -->
 
-(a) land occupied by the Pulau Pinang Port Sdn. Bhd. Seberang Prai comprising of— (Free Zone) (i) Warehouse W2;
+Entry point
+
+17. Deep Water All those lands situated in Section 4, City of Butterworth,
+
+<!-- marginal: Wharf, -->
+
+Northern District, Seberang Prai bounded by the grey
+
+<!-- marginal: Section 4, -->
+
+line as shown in the Gazette Plan 573 deposited in
+
+<!-- marginal: City of -->
+
+the Office of the Director of Survey, Pulau Pinang,
+
+<!-- marginal: Butterworth, -->
+
+excluding the areas specified as follows:
+
+<!-- marginal: District -->
+
+<!-- marginal: of North -->
+
+(a) land occupied by the Pulau Pinang Port Sdn. Bhd.
+
+<!-- marginal: Seberang Prai -->
+
+comprising of—
+
+<!-- marginal: (Free Zone) -->
+
+(i) Warehouse W2;
 
 (ii) Export Blocks (Block A-D: Slot No. 1-45) (Block E-H: Slot No. 1-23);
 
@@ -910,31 +1040,75 @@ No. Location Entry point
 
 19. Prai (Inland
 
-(a) the Inland Clearance Depot Kontena Nasional Clearance No. 2443, Lorong Perusahaaan Satu, Kawasan Depot) Perusahaan Prai;
+(a) the Inland Clearance Depot Kontena Nasional
+
+<!-- marginal: Clearance -->
+
+No. 2443, Lorong Perusahaaan Satu, Kawasan
+
+<!-- marginal: Depot) -->
+
+Perusahaan Prai;
 
 (b) the North Terminal Sdn. Bhd. 4935, Dermaga Prai.
 
 20. Bukit Kayu
 
-(a) the Customs Office and all its ancillary buildings Hitam and structures situated within the Bukit Kayu Hitam Immigration Complex which is located along Sadao/ Changlun trunk road between 8.9 kilometre north of Changlun and 0.69 kilometre south of Danork (Thailand) Immigration or Customs Check-Point in the Mukim of Laka Temin, Kubang Pasu, Kedah;
+(a) the Customs Office and all its ancillary buildings
+
+<!-- marginal: Hitam -->
+
+and structures situated within the Bukit Kayu Hitam Immigration Complex which is located along Sadao/ Changlun trunk road between 8.9 kilometre north of Changlun and 0.69 kilometre south of Danork (Thailand) Immigration or Customs Check-Point in the Mukim of Laka Temin, Kubang Pasu, Kedah;
 
 (b) the Customs Office and all its ancillary buildings and structures situated within the Lembaga Kemajuan Ikan Malaysia Examination Complex which is located along Sadao/Changlun trunk road between 9.1 kilometre north of Changlun and 0.67 kilometre south of Danork (Thailand) Immigration or Customs Check Point as prescribed in plan Lot No. PT 890 and PT 2180 in the Mukim of Laka Temin, Kubang Pasu, Kedah.
 
 <!-- page 29 -->
 
-No. Location Entry point
+<!-- marginal: No. -->
 
-21. Bukit Kayu All those lands situated in Bukit Kayu Hitam Town Hitam Town and Mukim of Sungai Laka, District of Kubang Pasu, and Mukim of Kedah, bounded by the grey line as shown in the Sungai Laka, Gazette Plan 1385 deposited in the office of the Director District of of Survey, Kedah Kubang Pasu, Kedah (Free Zone)
+<!-- marginal: Location -->
+
+Entry point
+
+21. Bukit Kayu All those lands situated in Bukit Kayu Hitam Town
+
+<!-- marginal: Hitam Town -->
+
+and Mukim of Sungai Laka, District of Kubang Pasu,
+
+<!-- marginal: and Mukim of -->
+
+Kedah, bounded by the grey line as shown in the
+
+<!-- marginal: Sungai Laka, -->
+
+Gazette Plan 1385 deposited in the office of the Director
+
+<!-- marginal: District of -->
+
+of Survey, Kedah
+
+<!-- marginal: Kubang Pasu, -->
+
+<!-- marginal: Kedah -->
+
+<!-- marginal: (Free Zone) -->
 
 22. Rantau
 
-(a) the Immigration Check-Point at the Railway Bridge Panjang spanning the Sungai Golok;
+(a) the Immigration Check-Point at the Railway Bridge
+
+<!-- marginal: Panjang -->
+
+spanning the Sungai Golok;
 
 (b) the railway track at Rantau Panjang commencing from the Malaysian end of the railway bridge on the right bank of Sungai Golok and extending to southern approximately 155.4 metres to the road level crossing including the railway station platform running parallel to the track;
 
 (c) that area in Lot 251 in the village of Rantau Panjang, district of Pasir Mas, Kelantan comprising the Immigration Complex Check-Point and shed bounded on the north by the north gate and fence on the Malaysian end of the road bridge connecting Rantau Panjang and Golok on the south by the south gate, to the west, the fencing linking both the gates and to the east, the building complex and the imaginary straight line projecting from the northern end of the building complex till it meets the north gate including the passage connecting the check-point area to the railway station platform adjoining the Customs Office.
 
-23. Johor Bahru
+23.
+
+<!-- marginal: Johor Bahru -->
 
 (a) for import by a motor car, bus, motorcycle, scooter, bicycle and foot passenger, the passenger Examination Gate, i.e. the area allocated for Immigration and Customs Examination;
 
@@ -942,7 +1116,11 @@ No. Location Entry point
 
 <!-- page 30 -->
 
-No. Location Entry point
+<!-- marginal: No. -->
+
+<!-- marginal: Location -->
+
+Entry point
 
 (c) for export by road during normal working hours, the Customs Export Bay in the Customs Complex at Tanjung Putri bounded within the perimeter fence commencing from the north by the entry gate nearest to Customs Booth No. 3 and terminating at the exit gate nearest to Customs Export Exit CheckPoint at Booth No. 2 of the northern boundary;
 
@@ -950,15 +1128,55 @@ No. Location Entry point
 
 (e) the Customs Office and buildings and additional construction located within the Customs, Immigration and Quarantine Complex Bukit Chagar, Mukim Johor Bahru, District of Johor Bahru, Johor enclosed within the perimeter fence, commencing from the south at the entry/exit gate facing the Lingkaran Dalam Road.
 
-24. Mukim of All those lands situated in the Mukim of Plentong, Plentong, District of Johor Bahru, Johor bounded by the grey District of line as shown in the Gazette Plan 2233 and 2234 Johor Bahru deposited in the Office of the Director of Survey, Johor (Free Zone ) excluding the Customs Examination Area, an area of 0.459 hectare at Container Terminal in Lot 66208
+24. Mukim of All those lands situated in the Mukim of Plentong,
 
-25. Tanjung The Sultan Abu Bakar Complex, Mukim of Tanjung Kupang, Johor Kupang, District of Johor Bahru, enclosed within the Bahru perimeter fence, commencing from the south by the entry/exit gate along the perimeter fence nearest to the Import Holding Area from the direction of Singapore and terminating at the exit/entry gate along the perimeter fence nearest to the Export Holding Area
+<!-- marginal: Plentong, -->
+
+District of Johor Bahru, Johor bounded by the grey
+
+<!-- marginal: District of -->
+
+line as shown in the Gazette Plan 2233 and 2234
+
+<!-- marginal: Johor Bahru -->
+
+deposited in the Office of the Director of Survey, Johor
+
+<!-- marginal: (Free Zone ) -->
+
+excluding the Customs Examination Area, an area of 0.459 hectare at Container Terminal in Lot 66208
+
+25. Tanjung The Sultan Abu Bakar Complex, Mukim of Tanjung
+
+<!-- marginal: Kupang, Johor -->
+
+Kupang, District of Johor Bahru, enclosed within the
+
+<!-- marginal: Bahru -->
+
+perimeter fence, commencing from the south by the entry/exit gate along the perimeter fence nearest to the Import Holding Area from the direction of Singapore and terminating at the exit/entry gate along the perimeter fence nearest to the Export Holding Area
 
 26. Penang International Airport, Bayan Lepas (Pulau Pinang)
 
 27. Kuala Lumpur International Airport, Sepang (Selangor)
 
-28. Kuala Lumpur All those lands situated in the Town Area of Sepang International International Airport, District of Sepang bounded Airport, by the grey line as shown in the Gazette Plan 1207 Sepang (Free deposited in the office of the Director of Survey, State Zone) of Selangor
+28. Kuala Lumpur All those lands situated in the Town Area of Sepang
+
+<!-- marginal: International -->
+
+International Airport, District of Sepang bounded
+
+<!-- marginal: Airport, -->
+
+by the grey line as shown in the Gazette Plan 1207
+
+<!-- marginal: Sepang (Free -->
+
+deposited in the office of the Director of Survey, State
+
+<!-- marginal: Zone) -->
+
+of Selangor
 
 <!-- page 31 -->
 
@@ -980,15 +1198,13 @@ Health Quarantine Centre, International Entry Point, Kuala Lumpur International 
 
 4. Sabah Health Office of Kota Kinabalu International Airport, Kota Kinabalu, Sabah
 
-## second schedule
+## SECOND SCHEDULE
 
 [Section 2]
 
 ## RELEVANT WRITTEN LAWS
 
-No. Written Laws
-
-<!-- marginal: Description -->
+No. Written Laws Description
 
 1. Passport Act 1966 [Act 150] The whole Act
 
@@ -1000,9 +1216,7 @@ No. Written Laws
 
 <!-- page 32 -->
 
-No. Written Laws
-
-<!-- marginal: Description -->
+No. Written Laws Description
 
 5. Free Zones Act 1990 [Act 438] Section 8b and Parts IV and V
 
@@ -1020,7 +1234,7 @@ No. Written Laws
 
 11. Lembaga Kemajuan Ikan Subsection 4(2a) and section 11a Malaysia Act 1971 [Act 49]
 
-12. Road Transport Act 1987 Sections 6, 48, 55, 58, 59, 60, 62, [Act 333] 63, 64, 65, 66, 66h, 66i, 66j, 66k, 67, 74, 75, 76, 88a, 88b, 88c, 88d, 88F and Parts II and V
+12. Road Transport Act 1987 Sections 6, 48, 55, 58, 59, 60, 62, [Act 333] 63, 64, 65, 66, 66H, 66I, 66J, 66K, 67, 74, 75, 76, 88A, 88B, 88C, 88D, 88F and Parts II and V
 
 13. Land Public Transport Act Part Va 2010 [Act 715]
 
@@ -1028,7 +1242,7 @@ No. Written Laws
 
 15. Food Act 1983 [Act 281] The whole act
 
-16. Poisons Act 1952 [Act 366] Sections 8, 9, 10, 29, 30, 31, 31a, 31b, 31c, 31d, 31e, 31F, 32, 32a, 33, 34, 34b and 34c
+16. Poisons Act 1952 [Act 366] Sections 8, 9, 10, 29, 30, 31, 31a, 31B, 31C, 31D, 31E, 31F, 32, 32A, 33, 34, 34B AND 34C
 
 17. Prevention and Control of The whole act Infectious Diseases Act 1988 [Act 342]
 
@@ -1040,9 +1254,7 @@ No. Written Laws
 
 <!-- page 33 -->
 
-No. Written Laws
-
-<!-- marginal: Description -->
+No. Written Laws Description
 
 21. International Trade i n Sections 10, 11, 12, 13 and 15, and Endangered Species Act 2008 Parts V and VI [Act 686]
 
@@ -1090,7 +1302,7 @@ No. Written Laws
 
 The Malaysia Border Control and Protection Agency Bill (“the proposed Act”) seeks to provide for the establishment of the Malaysia Border Control and Protection Agency, its functions and powers relating to border control and protection, and to provide for related matters.
 
-## Part I
+## PART I
 
 2. Part I of the proposed Act deals with preliminary matters.
 
@@ -1098,7 +1310,7 @@ The Malaysia Border Control and Protection Agency Bill (“the proposed Act”) 
 
 4. Clause 2 contains the definitions of certain words and expressions used in the proposed Act.
 
-## Part II
+## PART II
 
 5. Part II of the proposed Act deals with provisions relating to the establishment of the Malaysia Border Control and Protection Agency and the appointments of Director General, Deputy Director General and officer of the Agency.
 
@@ -1108,7 +1320,7 @@ The Malaysia Border Control and Protection Agency Bill (“the proposed Act”) 
 
 8. Clause 5 seeks to provide for the appointment of officers of the Agency by the Minister.
 
-## Part III
+## PART III
 
 9. Part III of the proposed Act deals with provisions relating to functions and powers of the Agency.
 
@@ -1130,7 +1342,7 @@ derivative of wildlife, taken into or out of Malaysia, prevention and investigat
 
 16. Clause 12 seeks to allow the Agency to require assistance from any person or competent authority in relation to any matters dealt with by the Agency. This clause also seeks to provide that the Agency and the competent authorities shall closely coordinate, consult and liaise with each other in carrying out the provisions of the proposed Act.
 
-## Part IV
+## PART IV
 
 17. Part IV of the proposed Act deals with general provisions.
 

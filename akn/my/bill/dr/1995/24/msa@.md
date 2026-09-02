@@ -38,9 +38,15 @@ Bandar dan Desa (Pindaan) 1995.
 
 (3) Walau apa pun subseksyen (2), Pihakberkuasa Negeri boleh, melalui pemberitahuan di dalam Warta Negeri, mengecualikan mana-mana bahagian mana-mana kawasan pihakberkuasa tempatan daripada mana-mana atau kesemua peruntukan di dalam Akta ini atau apa-apa kaedah yang dibuat di bawahnya.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-2. Akta Perancangan Bandar dan Desa 1976, yang disebut seksyen 2. Akta 172. "Akta ibu" dalam Akta ini, adalah dipinda di dalam subseksyen 2(1)—
+2. Akta Perancangan Bandar dan Desa 1976, yang disebut
+
+<!-- marginal: seksyen 2. -->
+
+<!-- marginal: Akta 172. -->
+
+"Akta ibu" dalam Akta ini, adalah dipinda di dalam subseksyen 2(1)—
 
 (a) dengan memasukkan selepas takrif "kerja kejuruteraan", takrif yang berikut:
 
@@ -76,11 +82,7 @@ Pindaan
 
 (a) dengan menggantikan perenggan (f) dengan perenggan yang berikut:
 
-"(f) Pengarah Unit Perancang Ekonomi Negeri atau pegawai
-
-<!-- marginal: yang -->
-
-bertanggungjawab bagi hal-ehwal sedemikian di Negeri itu;"; dan
+"(f) Pengarah Unit Perancang Ekonomi Negeri atau pegawai yang bertanggungjawab bagi hal-ehwal sedemikian di Negeri itu;"; dan
 
 (b) dengan memotong perkataan "dan" di hujung perenggan (h) dan memasukkan selepasnya, perenggan yang berikut:
 
@@ -94,19 +96,25 @@ bertanggungjawab bagi hal-ehwal sedemikian di Negeri itu;"; dan
 
 (hc) Pengarah Jabatan Alam Sekitar Negeri atau pegawai yang bertanggungjawab bagi hal-ehwal sedemikian di Negeri itu; dan".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-4. Subseksyen 10(5) Akta ibu adalah dipinda dengan seksyen 10. menggantikan perkataan "tiga" dengan perkataan "enam".
+4. Subseksyen 10(5) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 10. -->
 
-5. Subseksyen 12(3) Akta ibu adalah dipinda dengan seksyen 12. menggantikan perenggan (a) dengan perenggan yang berikut:
+menggantikan perkataan "tiga" dengan perkataan "enam".
 
-"(a) membuat rumusan, yang mengandungi apa-apa perincian yang difikirkan
+<!-- marginal: Pindaan -->
 
-<!-- marginal: sesuai oleh -->
+5. Subseksyen 12(3) Akta ibu adalah dipinda dengan
 
-pihakberkuasa perancang tempatan mengenai cadangannya bagi—
+<!-- marginal: seksyen 12. -->
+
+menggantikan perenggan (a) dengan perenggan yang
+
+<!-- marginal: berikut: -->
+
+"(a) membuat rumusan, yang mengandungi apa-apa perincian yang difikirkan sesuai oleh pihakberkuasa perancang tempatan mengenai cadangannya bagi—
 
 (i) memajukan;
 
@@ -178,11 +186,7 @@ cadangan pemajuan yang hendaklah mengandungi yang berikut:
 
 ## RANG UNDANG-UNDANG
 
-(d) (i) perihal tanah, termasuklah alam sekitarnya dari segi
-
-<!-- marginal: fizikal -->
-
-topografinya, lanskapnya, geologinya, konturnya, salirannya, air dan tadahan air dan bentuk-bentuk semulajadi di atasnya;
+(d) (i) perihal tanah, termasuklah alam sekitarnya dari segi fizikal topografinya, lanskapnya, geologinya, konturnya, salirannya, air dan tadahan air dan bentuk-bentuk semulajadi di atasnya;
 
 (ii) hasil tinjauan pokok-pokok dan semua jenis tumbuh-tumbuhan; dan (iii) butir-butir bangunan,
 
@@ -202,7 +206,13 @@ yang berkemungkinan disentuh oleh pemajuan itu;
 
 (g) seksyen-kecil (1).
 
-Pelan 21B. (1) Pelan-pelan susunatur di bawah susunatur. perenggan (f) seksyen 2 lA( l) hendaklah menunjukkan pemajuan yang dicadangkan dan khususnya—
+<!-- marginal: Pelan -->
+
+21B. (1) Pelan-pelan susunatur di bawah
+
+<!-- marginal: susunatur. -->
+
+perenggan (f) seksyen 2 lA( l) hendaklah menunjukkan pemajuan yang dicadangkan dan khususnya—
 
 (a) jika pemajuan itu berkenaan dengan mana- mana tanah—
 
@@ -238,15 +248,35 @@ Pelan 21B. (1) Pelan-pelan susunatur di bawah susunatur. perenggan (f) seksyen 2
 
 (4) Jika pelan-pelan susunatur itu tidak di- sampaikan semula dalam masa tempoh atau tempoh lanjutan yang ditentukan, permohonan untuk kebenaran merancang itu hendaklah disifatkan telah ditarikbalik tetapi pemohon boleh menyampaikan permohonan yang baru.
 
-Penyediaan 21c. Semua pelan, butir-butir, pelan susunatur pelan, dsb. dan dokumen lain yang dikehendaki supaya oleh seseorang disampaikan di bawah Akta ini hendaklah yang ber- disediakan oleh— kelayakan.
+<!-- marginal: Penyediaan -->
+
+21c. Semua pelan, butir-butir, pelan susunatur
+
+<!-- marginal: pelan, dsb. -->
+
+dan dokumen lain yang dikehendaki supaya
+
+<!-- marginal: oleh -->
+
+<!-- marginal: seseorang -->
+
+disampaikan di bawah Akta ini hendaklah
+
+<!-- marginal: yang ber- -->
+
+disediakan oleh—
+
+<!-- marginal: kelayakan. -->
 
 (a) seseorang yang kelayakannya ditetapkan di bawah perenggan (h) seksyen 58(2); atau
 
 (b) seseorang yang berhak berbuat sedemikian di bawah mana-mana undang-undang bertulis lain.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-9. Seksyen 22 Akta ibu adajah dipinda— seksyen 22.
+9. Seksyen 22 Akta ibu adajah dipinda—
+
+<!-- marginal: seksyen 22. -->
 
 (a) dengan memotong perkataan "dan" di hujung perenggan (2)(ba) dan memasukkan selepasnya, perenggan yang berikut:
 
@@ -286,9 +316,15 @@ baru itu bersepadu dengan senibina, ciri atau rupa yang tergambar pada bangunan-
 
 "(5A) Maka hendaklah menjadi kewajipan pihakberkuasa perancang tempatan untuk memastikan yang perintah pemeliharaan pokok, jika ada, dipatuhi, jika kebenaran merancang diberikan.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-10. Subseksyen 26(1) Akta ibu adalah dipinda dengan seksyen 26. menggantikan perkataan "lima puluh" dan "lima ratus" masing-masing dengan perkataan "satu ratus" dan "satu ribu".
+10. Subseksyen 26(1) Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 26. -->
+
+menggantikan perkataan "lima puluh" dan "lima ratus" masing-masing dengan perkataan "satu ratus" dan "satu
+
+<!-- marginal: ribu". -->
 
 <!-- page 11 -->
 
@@ -366,17 +402,51 @@ atau kelompok pokok dalam kawasannya, ia boleh membuat suatu perintah pemelihara
 
 <!-- page 13 -->
 
-Perintah 35B. Walau apa pun seksyen 35A, suatu perintah pemeliharaan pemeliharaan pokok tidak boleh dibuat berkenaan pokok tidak boleh dibuat dengan pokok, pokok-pokok atau kelompok jika pokok pokok yang tertakluk kepada syarat-syarat yang tertakluk kepada dikenakan di bawah perenggan (f) dan (g) syarat- seksyen 22(5). syaratnya.
+<!-- marginal: Perintah -->
 
-Rayuan 35c. Mana-mana orang yang terkilan dengan— terhadap perintah pemeliharaan
+35B. Walau apa pun seksyen 35A, suatu perintah
 
-(a) suatu perintah pemeliharaan pokok; pokok, dll.
+<!-- marginal: pemeliharaan -->
 
-(b) mana-mana peruntukan dalam
+pemeliharaan pokok tidak boleh dibuat berkenaan
 
-<!-- marginal: suatu -->
+<!-- marginal: pokok tidak -->
 
-perintah pemeliharaan pokok;
+<!-- marginal: boleh dibuat -->
+
+dengan pokok, pokok-pokok atau kelompok
+
+<!-- marginal: jika pokok -->
+
+pokok yang tertakluk kepada syarat-syarat yang
+
+<!-- marginal: tertakluk -->
+
+<!-- marginal: kepada -->
+
+dikenakan di bawah perenggan (f) dan (g)
+
+<!-- marginal: syarat- -->
+
+seksyen 22(5).
+
+<!-- marginal: syaratnya. -->
+
+<!-- marginal: Rayuan -->
+
+35c. Mana-mana orang yang terkilan dengan—
+
+<!-- marginal: terhadap -->
+
+<!-- marginal: perintah -->
+
+<!-- marginal: pemeliharaan -->
+
+(a) suatu perintah pemeliharaan pokok;
+
+<!-- marginal: pokok, dll. -->
+
+(b) mana-mana peruntukan dalam suatu perintah pemeliharaan pokok;
 
 (c) (i) penolakan pemberian kebenaran bertulis; atau
 
@@ -390,13 +460,29 @@ di bawah perenggan (a) seksyen 35A(2); atau
 
 boleh merayu kepada Lembaga Rayuan, dalam masa satu bulan dari tarikh dia diberitahu tentang perintah, penolakan atau pengenaan syarat-syarat itu.
 
-Pampasan 35D. (1) Jika pemunya tanah yang tanahnya di bawah dimaksudkan oleh suatu perintah pemeliharaan perintah pemeliharaan pokok membuktikan bahawa dia mengalami pokok. kerugian berupa kesusutan dalam nilai tanahnya, kerana mematuhi perenggan (a) hingga (d) seksyen 35c(l), dia boleh menuntut pampasan daripada pihak berkuasa perancang tempatan.
+<!-- marginal: Pampasan -->
+
+35D. (1) Jika pemunya tanah yang tanahnya
+
+<!-- marginal: di bawah -->
+
+dimaksudkan oleh suatu perintah pemeliharaan
+
+<!-- marginal: perintah -->
+
+<!-- marginal: pemeliharaan -->
+
+pokok membuktikan bahawa dia mengalami
+
+<!-- marginal: pokok. -->
+
+kerugian berupa kesusutan dalam nilai tanahnya, kerana mematuhi perenggan (a) hingga (d) seksyen 35c(l), dia boleh menuntut pampasan daripada pihak berkuasa perancang tempatan.
 
 <!-- page 14 -->
 
 ## RANG UNDANG-UNDANG
 
-14
+<!-- marginal: 14 -->
 
 (2) Suatu tuntutan pampasan di bawah seksyen-kecil (1) hendaklah disampaikan kepada pihakberkuasa perancang tempatan—
 
@@ -414,7 +500,13 @@ itu diberitahu kepada pemunya tanah itu; atau
 
 (3) Jika pemunya tanah itu tidak berpuas hati dengan amaun pampasan yang diawardkan, dia boleh dalam masa satu bulan dari tarikh award itu merayu kepada Lembaga Rayuan yang mempunyai kuasa untuk mengesahkan atau mengubah amaun pampasan yang diawardkan itu.
 
-Penggantian 35E. (1) Maka orang yang didapati bersalah di pokok. bawah seksyen 35A(4) kerana menebang mana- mana pokok yang berkenaan dengannya suatu perintah pemeliharaan pokok berkuatkuasa pada masa ini, secara yang bersalahan dengan perintah pemeliharaan pokok itu, adalah berkewajipan untuk menggantikan pokok itu dengan menanam suatu pokok yang lain—
+<!-- marginal: Penggantian -->
+
+35E. (1) Maka orang yang didapati bersalah di
+
+<!-- marginal: pokok. -->
+
+bawah seksyen 35A(4) kerana menebang mana- mana pokok yang berkenaan dengannya suatu perintah pemeliharaan pokok berkuatkuasa pada masa ini, secara yang bersalahan dengan perintah pemeliharaan pokok itu, adalah berkewajipan untuk menggantikan pokok itu dengan menanam suatu pokok yang lain—
 
 (a) daripada saiz dan spesis yang sesuai;
 
@@ -448,15 +540,101 @@ boleh merayu kepada Lembaga Rayuan, dalam masa satu bulan dari tarikh diberitahu
 
 <!-- page 16 -->
 
-(4) Berhubungan dengan mana-mana pokok yang ditanam semula di bawah seksyen-kecil (1), perintah pemeliharaan pokok yang relevan hendaklah terpakai baginya sebagaimana ia terpakai bagi pokok asal.
+(4) Berhubungan dengan mana-mana pokok yang ditanam semula di bawah seksyen-kecil
+
+(1), perintah pemeliharaan pokok yang relevan hendaklah terpakai baginya sebagaimana ia terpakai bagi pokok asal.
 
 (5) Jika orang yang berkewajipan untuk menggantikan pokok di bawah seksyen-kecil (1) tidak berbuat sedemikian, dia adalah melakukan suatu kesalahan dan boleh dikenakan, apabila disabitkan, denda tidak lebih daripada lima puluh ribu ringgit.
 
-Pihak- 35F. Dalam hal suatu kegagalan untuk berkuasa menggantikan pokok di bawah seksyen 35E(1), perancang tempatan pihakberkuasa perancang tempatan boleh bolehlah meneruskan untuk menggantikan pokok itu dan, menggantikan pokok jika walaupun denda di bawah seksyen 35E(5) telah orang yang dijelaskan, kesemua kos dan perbelanjaan yang berkewajipan untuk semunasabahnya dilakukan oleh pihakberkuasa mengganti- perancang tempatan untuk menggantikan pokok kannya itu hendaklah dibayar ganti oleh orang yang tidak berbuat sedemikian. berkewajipan untuk menggantikannya.
+<!-- marginal: Pihak- -->
 
-Pembatalan 35G. Pihakberkuasa perancang tempatan boleh perintah meminda atau membatalkan suatu perintah pemeliharaan pokok. pemeliharaan pokok termasuklah bagi maksud memberikan kebenaran merancang di bawah seksyen 22(3) berkenaan dengan suatu kawasan yang mengenainya suatu perintah pemeliharaan pokok berkuatkuasa pada masa ini.
+35F. Dalam hal suatu kegagalan untuk
 
-Larangan 35H. (1) Tiada seorangpun boleh menebang untuk suatu pokok yang lilitannya melebihi 0.8 meter memotong, dsb. pokok yang tidak tertakluk kepada suatu perintah yang pemeliharaan pokok, tanpa kebenaran bertulis lilitannya pihakberkuasa perancang tempatan, melainkan melebihi 0.8 meter. jika penebangan itu—
+<!-- marginal: berkuasa -->
+
+menggantikan pokok di bawah seksyen 35E(1),
+
+<!-- marginal: perancang -->
+
+<!-- marginal: tempatan -->
+
+pihakberkuasa perancang tempatan boleh
+
+<!-- marginal: bolehlah -->
+
+meneruskan untuk menggantikan pokok itu dan,
+
+<!-- marginal: menggantikan -->
+
+<!-- marginal: pokok jika -->
+
+walaupun denda di bawah seksyen 35E(5) telah
+
+<!-- marginal: orang yang -->
+
+dijelaskan, kesemua kos dan perbelanjaan yang
+
+<!-- marginal: berkewajipan -->
+
+<!-- marginal: untuk -->
+
+semunasabahnya dilakukan oleh pihakberkuasa
+
+<!-- marginal: mengganti- -->
+
+perancang tempatan untuk menggantikan pokok
+
+<!-- marginal: kannya -->
+
+itu hendaklah dibayar ganti oleh orang yang
+
+<!-- marginal: tidak berbuat -->
+
+<!-- marginal: sedemikian. -->
+
+berkewajipan untuk menggantikannya.
+
+<!-- marginal: Pembatalan -->
+
+35G. Pihakberkuasa perancang tempatan boleh
+
+<!-- marginal: perintah -->
+
+meminda atau membatalkan suatu perintah
+
+<!-- marginal: pemeliharaan -->
+
+<!-- marginal: pokok. -->
+
+pemeliharaan pokok termasuklah bagi maksud memberikan kebenaran merancang di bawah seksyen 22(3) berkenaan dengan suatu kawasan yang mengenainya suatu perintah pemeliharaan pokok berkuatkuasa pada masa ini.
+
+<!-- marginal: Larangan -->
+
+35H. (1) Tiada seorangpun boleh menebang
+
+<!-- marginal: untuk -->
+
+suatu pokok yang lilitannya melebihi 0.8 meter
+
+<!-- marginal: memotong, -->
+
+<!-- marginal: dsb. pokok -->
+
+yang tidak tertakluk kepada suatu perintah
+
+<!-- marginal: yang -->
+
+pemeliharaan pokok, tanpa kebenaran bertulis
+
+<!-- marginal: lilitannya -->
+
+pihakberkuasa perancang tempatan, melainkan
+
+<!-- marginal: melebihi 0.8 -->
+
+<!-- marginal: meter. -->
+
+jika penebangan itu—
 
 (a) adalah berkenaan dengan pokok sedemikian yang hampir mati atau telah mati;
 
@@ -476,7 +654,11 @@ Larangan 35H. (1) Tiada seorangpun boleh menebang untuk suatu pokok yang lilitan
 
 <!-- marginal: seksyen 36. -->
 
-menggantikan subseksyen (10) dengan subseksyen yang berikut: " (10) Berkenaan dengan suatu rayuan di hadapannya, Lembaga Rayuan—
+menggantikan subseksyen (10) dengan subseksyen yang
+
+<!-- marginal: berikut: -->
+
+" (10) Berkenaan dengan suatu rayuan di hadapannya, Lembaga Rayuan—
 
 (a) hendaklah mendengar perayu dan pihakberkuasa perancang tempatan;
 
@@ -494,35 +676,39 @@ menggantikan subseksyen (10) dengan subseksyen yang berikut: " (10) Berkenaan de
 
 (g) boleh membuat apa-apa perintah sama ada yang diperuntukkan atau tidak oleh, dan yang tidak tak konsisten dengan, Akta ini.".
 
-17. Akta ibu adalah dipinda dengan memasukkan selepas baru 52A. seksyen 52, seksyen yang berikut:
+<!-- marginal: Seksyen -->
 
-"Kesalahan 52A. Jika sesuatu kesalahan di bawah Akta ini oleh telah dilakukan oleh sesuatu pertubuhan pertubuhan perbadanan. perbadanan, maka seseorang yang pada masa kesalahan itu dilakukan ialah seorang pengarah, pengurus, setiausaha atau pegawai serupa itu bagi pertubuhan perbadanan itu atau seseorang yang berupa sebagai bertindak atas sifat itu hendaklah, di samping pertubuhan perbadanan itu, disifatkan telah melakukan kesalahan itu, melainkan jika dia membuktikan bahawa kesalahan itu telah dilakukan
+17. Akta ibu adalah dipinda dengan memasukkan selepas
 
-<!-- marginal: tanpa -->
+<!-- marginal: baru 52A. -->
 
-pengetahuannya atau bahawa dia
+seksyen 52, seksyen yang berikut:
 
-<!-- marginal: telah -->
+<!-- marginal: "Kesalahan -->
 
-mengambil langkah yang munasabah untuk mencegahnya daripada berlaku.".
+52A. Jika sesuatu kesalahan di bawah Akta ini
 
-Pindaan
+<!-- marginal: oleh -->
 
-18. Seksyen 58 Akta ibu adalah dipinda— seksyen 58.
+telah dilakukan oleh sesuatu pertubuhan
+
+<!-- marginal: pertubuhan -->
+
+<!-- marginal: perbadanan. -->
+
+perbadanan, maka seseorang yang pada masa kesalahan itu dilakukan ialah seorang pengarah, pengurus, setiausaha atau pegawai serupa itu bagi pertubuhan perbadanan itu atau seseorang yang berupa sebagai bertindak atas sifat itu hendaklah, di samping pertubuhan perbadanan itu, disifatkan telah melakukan kesalahan itu, melainkan jika dia membuktikan bahawa kesalahan itu telah dilakukan tanpa pengetahuannya atau bahawa dia telah mengambil langkah yang munasabah untuk mencegahnya daripada berlaku.".
+
+<!-- marginal: Pindaan -->
+
+18. Seksyen 58 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 58. -->
 
 (a) di dalam subseksyen (2)—
 
 (i) di dalam perenggan
 
-(h), dengan memasukkan selepas
-
-<!-- marginal: perkataan -->
-
-"rancangan-rancangan"
-
-<!-- marginal: perkataan -->
-
-", dokumen-dokumen, butir-butir dan pelan-pelan susunatur"; dan
+(h), dengan memasukkan selepas perkataan "rancangan-rancangan" perkataan ", dokumen-dokumen, butir-butir dan pelan-pelan susunatur"; dan
 
 (ii) di dalam perenggan ( i ), dengan menggantikan perkataan "dokumen- dokumen dan rancangan-rancangan yang hendak disampaikan dengan permohonan itu" dengan perkataan "rancangan- rancangan, dokumen-dokumen, butir-butir dan pelan-pelan susunatur yang hendaklah disampaikan dengan permohonan itu dan bentuk serta skalanya"; dan
 
@@ -566,7 +752,9 @@ Seksyen baru 21c menghendaki seseorang yang berkelayakan untuk menyediakan kesem
 
 Seksyen baru 35A bertujuan memperkatakan perintah pemeliharaan pokok.
 
-Di bawah subseksyen (1) pihakberkuasa perancang tempatan diberi kuasa untuk membuat suatu perintah pemeliharaan pokok. Subseksyen (2) menetapkan peruntukan yang boleh dibuat di dalam suatu perintah pemeliharaan pokok.
+Di bawah subseksyen (1) pihakberkuasa perancang tempatan diberi kuasa untuk membuat suatu perintah pemeliharaan pokok. Subseksyen
+
+(2) menetapkan peruntukan yang boleh dibuat di dalam suatu perintah pemeliharaan pokok.
 
 Subseksyen (3) memperkatakan keadaan di mana kebenaran untuk menebang, memotong, memangkas, mencantas atau mencabut sesuatu pokok tidak perlu didapatkan.
 
@@ -592,7 +780,9 @@ Pokok itu hendaklah digantikan dalam masa yang ditentukan oleh pihak berkuasa pe
 
 Subseksyen (3) mengadakan peruntukan bagi rayuan.
 
-Subseksyen (4) menghendaki supaya perintah pemeliharaan pokok terpakai juga bagi pokok yang ditanam semula di bawah subseksyen (1) sebagaimana ia terpakai bagi pokok asal.
+Subseksyen (4) menghendaki supaya perintah pemeliharaan pokok terpakai juga bagi pokok yang ditanam semula di bawah subseksyen
+
+(1) sebagaimana ia terpakai bagi pokok asal.
 
 Subseksyen (5) mengandungi penalti kerana kegagalan mematuhi seksyen ini.
 
@@ -602,9 +792,7 @@ Jika seseorang yang berkewajipan untuk menggantikan pokok tidak berbuat sedemiki
 
 Seksyen baru 35G bertujuan memberikan kuasa kepada pihakberkuasa perancang tempatan untuk meminda atau membatalkan suatu perintah pemeliharaan pokok.
 
-Seksyen baru 35H bertujuan melarang menebang, memotong, memangkas, mencantas atau mencabut pokok yang lilitannya melebihi
-
-0.8 meter kecuali berkenaan dengan dan bagi maksud hal keadaan di dalam perenggan (a), (b) dan (c) subseksyen (1). Subseksyen (2) memperkatakan cara mengukur lilitan suatu pokok. Subseksyen (3) mengandungi penalti bagi kesalahan di bawah seksyen ini.
+Seksyen baru 35H bertujuan melarang menebang, memotong, memangkas, mencantas atau mencabut pokok yang lilitannya melebihi 0.8 meter kecuali berkenaan dengan dan bagi maksud hal keadaan di dalam perenggan (a), (b) dan (c) subseksyen (1). Subseksyen (2) memperkatakan cara mengukur lilitan suatu pokok. Subseksyen (3) mengandungi penalti bagi kesalahan di bawah seksyen ini.
 
 12. Fasal 16 bertujuan meminda subseksyen 36(10) Akta untuk memperkemas prosedur dan kuasa Lembaga Rayuan.
 

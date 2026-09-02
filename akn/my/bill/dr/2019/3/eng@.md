@@ -136,9 +136,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ### “Powers of police officers
 
-4a. For the purposes of this Act, all police officers not below the rank of Inspector shall have and may exercise all the powers conferred by Part X of this Act on senior officers of excise, and all police officers below the rank of Inspector shall have and may exercise all the powers conferred by
-
-## Part X of this Act on officers of excise.”.
+4a. For the purposes of this Act, all police officers not below the rank of Inspector shall have and may exercise all the powers conferred by Part X of this Act on senior officers of excise, and all police officers below the rank of Inspector shall have and may exercise all the powers conferred by Part X of this Act on officers of excise.”.
 
 ### Amendment of Part IIa
 
@@ -254,7 +252,9 @@ or other money were paid or the refund was made, as the case may be, and without
 
 “(3) If there is default in payment of any instalment under subsection (2) on its due date, the whole outstanding balance shall become due and payable on that date and shall, without any further notice being served on the person liable to pay the amount due, be subject to a surcharge equal to ten per cent of that outstanding balance and the surcharge shall be recoverable as if it were due and payable.
 
-(4) Nothing in subsections (2) and (3) shall prejudice the exercise of the rights and powers under this section by the Director General to seize or, subject to subsection (5), sell any goods under excise control belonging to the person liable to pay such excise duty, surcharge, penalty, fee or other money for the recovery of the amount payable under subsections (1), (2) or (3), or any outstanding balance thereof.
+(4) Nothing in subsections (2) and (3) shall prejudice the exercise of the rights and powers under this section by the Director General to seize or, subject to subsection (5), sell any goods under excise control belonging to the person liable to pay such excise duty, surcharge, penalty, fee or other money for the recovery of the amount payable under subsections (1),
+
+(2) or (3), or any outstanding balance thereof.
 
 (5) If the excise duty, surcharge, penalty, fee or other money or deficiency, or the refund to be repaid remain unpaid, as the case may be, the Director General may sell such goods after giving not less than thirty days notice in writing from the date of seizure to the owner or his agent, or if the name and address of such owner or agent is not known to him, by notification in the Gazette.”; and
 
@@ -1184,7 +1184,7 @@ thousand ringgit
 
 79. The principal Act is amended by inserting after Part XVc the following Part:
 
-“Part XVd
+## “PART XVD
 
 ## SPECIAL PROVISIONS DEALING WITH PANGKOR
 
@@ -1296,9 +1296,7 @@ Subclause 2(b) seeks to introduce a new subsection 2(1a) into Act 176 to clarify
 
 4. Clause 3 seeks to amend section 4 of Act 176 to provide that the Deputy Director shall be subject to the general direction of the Director General and to provide that Deputy Director General, Assistant Director General, Director, Deputy Director, Senior Assistant Director and Assistant Director shall have and exercise all powers conferred on the Director General under Act 176 other than the powers conferred by section 18.
 
-5. Clause 4 seeks to introduce a new section 4a into Act 176 to clarify that the powers exercisable by all police officers are only in relation to
-
-## Part X of Act 176 (Inspection, Investigation, Search, Seizure and Arrest).
+5. Clause 4 seeks to introduce a new section 4a into Act 176 to clarify that the powers exercisable by all police officers are only in relation to Part X of Act 176 (Inspection, Investigation, Search, Seizure and Arrest).
 
 6. Clause 6 seeks to introduce a new section 5f into Act 176 to empower the Director General to make public rulings on the application of any provision of Act 176.
 

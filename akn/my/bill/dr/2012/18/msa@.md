@@ -302,11 +302,7 @@ Rang Undang-Undang ini bertujuan untuk meminda Kanun Keseksaan [Akta 574] sejaja
 
 6. Fasal 5 bertujuan untuk menambah satu subseksyen baru kepada seksyen 120B berkenaan dengan hukuman komplot jenayah. Subseksyen baru ini memperkatakan formula bagi hukuman jika kesalahan itu, yang pelakuan kesalahan itu menjadi objek komplot, merupakan kesalahan kecil di bawah Akta Kesalahan Kecil 1955 [Akta 336].
 
-7. Fasal 6 bertujuan untuk memasukkan tiga belas kesalahan baru ke dalam
-
-## Bab VI (Kesalahan terhadap Negara). Tujuh kesalahan tersebut merupakan
-
-kesalahan baru, iaitu aktiviti yang menjejaskan demokrasi berparlimen, cubaan untuk melakukan aktiviti yang menjejaskan demokrasi berparlimen, penyebaran maklumat, sabotaj, cubaan untuk melakukan sabotaj, pengintipan dan cubaan untuk melakukan pengintipan. Walau bagaimanapun, seksyen 124D, 124E, 124F, 124G, 124I dan 124J yang dicadangkan memperkatakan kesalahan yang dahulunya terdapat dalam Akta Keselamatan Dalam Negeri 1960 [Akta 82] tetapi dengan ubah suaian.
+7. Fasal 6 bertujuan untuk memasukkan tiga belas kesalahan baru ke dalam Bab VI (Kesalahan terhadap Negara). Tujuh kesalahan tersebut merupakan kesalahan baru, iaitu aktiviti yang menjejaskan demokrasi berparlimen, cubaan untuk melakukan aktiviti yang menjejaskan demokrasi berparlimen, penyebaran maklumat, sabotaj, cubaan untuk melakukan sabotaj, pengintipan dan cubaan untuk melakukan pengintipan. Walau bagaimanapun, seksyen 124D, 124E, 124F, 124G, 124I dan 124J yang dicadangkan memperkatakan kesalahan yang dahulunya terdapat dalam Akta Keselamatan Dalam Negeri 1960 [Akta 82] tetapi dengan ubah suaian.
 
 8. Fasal 7 bertujuan untuk memasukkan takrif baru ke dalam Bab VI untuk memenuhi keperluan bagi kesalahan baru di bawah fasal 6. Takrif baru itu ialah “activity detrimental to parliamentary democracy”, “document or publication detrimental to parliamentary democracy”, “espionage”, “essential services”, “publication”, “sabotage” dan “sensitive information”.
 

@@ -42,4 +42,4 @@ B. 11 Perkhidmatan Am Perbendaharaan 6,292,000,000 B. 12 Peruntukan kepada Kumpu
 
 Rang Undang-Undang ini bertujuan untuk mengadakan peruntukan bagi pengeluaran wang daripada Kumpulan Wang Disatukan sebanyak sembiian bilion satu ratus dua juta dua ratus cnam puluh sembiian ribu sembiian ratus sembiian puluh dua ringgit (RM9,102,269,992) untuk perkhidmatan dan maksud yang dinyatakan dalam Jadual bagi tahun 2005.
 
-[PN(U2)2206]
+<!-- marginal: [PN(U2)2206] -->

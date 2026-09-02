@@ -24,6 +24,10 @@ oleh Menteri melalui pemberitahuan dalam Warta dan Menteri boleh menetapkan tari
 
 (a) dengan memotong takrif “Institut latihan yang diiktiraf”;
 
+<!-- marginal: WJW24/0671 BM.indd 1 -->
+
+<!-- marginal: 12/07/2024 6:32 PM -->
+
 <!-- page 2 -->
 
 (b) dengan memasukkan selepas takrif “ditetapkan” takrif yang berikut:
@@ -56,6 +60,10 @@ bertulis yang lain;’;
 
 (a) dalam perenggan (b), dengan menggantikan perkataan “sembilan” dengan perkataan “lima”; dan
 
+<!-- marginal: WJW24/0671 BM.indd 2 -->
+
+<!-- marginal: 12/07/2024 6:32 PM -->
+
 <!-- page 3 -->
 
 (b) dalam perenggan (d), dengan menggantikan perkataan “tiga” dengan perkataan “tujuh”.
@@ -79,6 +87,10 @@ bertulis yang lain;’;
 ### Pindaan seksyen 14
 
 5. Perenggan 14(2a)(a) Akta ibu dipinda dengan menggantikan perkataan “program latihan yang diiktiraf di mana-mana institut latihan yang diiktiraf” dengan perkataan “program latihan di mana-mana institusi sebagaimana yang ditentukan oleh Majlis”.
+
+<!-- marginal: WJW24/0671 BM.indd 3 -->
+
+<!-- marginal: 12/07/2024 6:32 PM -->
 
 <!-- page 4 -->
 
@@ -106,6 +118,10 @@ bertulis yang lain;’;
 
 (2) Walau apa pun perenggan (1)(b) atau (c), mana-mana orang berhak didaftarkan sebagai seorang Pakar di bawah seksyen 14c jika Menteri, dengan syor Majlis, berpuas hati bahawa orang itu mempunyai apa-apa kelulusan kepakaran setanding yang lain atau latihan kepakaran setanding yang lain, mengikut mana-mana yang berkenaan, yang mempunyai nilai khusus kepada negara ini, tertakluk pada apa-apa sekatan dan syarat sebagaimana yang difikirkan patut oleh Menteri.
 
+<!-- marginal: WJW24/0671 BM.indd 4 -->
+
+<!-- marginal: 12/07/2024 6:32 PM -->
+
 <!-- page 5 -->
 
 (3) Latihan kepakaran yang disebut dalam Akta ini hendaklah ditafsirkan sebagaimana suatu sebutan kepada—
@@ -131,6 +147,10 @@ bertulis yang lain;’;
 14c. (1) Apabila kehendak di bawah seksyen 14b telah dipenuhi, Majlis hendaklah mempertimbangkan permohonan yang dibuat di bawah subseksyen 18(1) dan boleh menghendaki pemohon supaya mengemukakan maklumat atau dokumen lanjut untuk menyokong permohonan itu.
 
 (2) Jika Majlis memutuskan untuk meluluskan permohonan itu, Majlis hendaklah mengarahkan Pendaftar supaya memasukkan nama pemohon ke dalam Daftar.
+
+<!-- marginal: WJW24/0671 BM.indd 5 -->
+
+<!-- marginal: 12/07/2024 6:32 PM -->
 
 <!-- page 6 -->
 
@@ -160,51 +180,145 @@ seksyen yang berikut:
 
 “(dda) semua perkara yang berhubungan dengan latihan kepakaran; dan”.
 
+<!-- marginal: 12/07/2024 6:32 PM -->
+
 <!-- page 7 -->
 
-### Jadual baharu Keempat dan Kelima
+<!-- marginal: Jadual baharu Keempat dan Kelima -->
 
-10. Akta ibu dipinda dengan memasukkan selepas Jadual Ketiga jadual yang berikut:
+10. Akta ibu dipinda dengan memasukkan selepas Jadual Ketiga
 
-“Jadual Keempat
+<!-- marginal: jadual yang berikut: -->
 
-[Perenggan 14b(1)(b) dan (3)(b)]
+<!-- marginal: “JADUAL KEEMPAT -->
+
+<!-- marginal: [Perenggan 14b(1)(b) dan (3)(b)] -->
 
 ## SENARAI KELULUSAN KEPAKARAN YANG BOLEH
 
-## DIDAFTARKAN
+<!-- marginal: DIDAFTARKAN -->
 
 (1)
 
 (2)
 
-(3) (4) Kepakaran Negara atau Nama institusi yang Perihal kelulusan kumpulan memberikan kelulusan negara tempat di mana kelulusan diberikan
+(3) (4)
+
+<!-- marginal: Kepakaran -->
+
+<!-- marginal: Negara atau -->
+
+<!-- marginal: Nama institusi yang -->
+
+Perihal kelulusan
+
+<!-- marginal: kumpulan -->
+
+<!-- marginal: memberikan kelulusan -->
+
+<!-- marginal: negara -->
+
+<!-- marginal: tempat -->
+
+<!-- marginal: di mana -->
+
+<!-- marginal: kelulusan -->
+
+<!-- marginal: diberikan -->
 
 (1) Anestesiologi dan
 
 (a) Malaysia
 
-(i) International Sarjana Perubatan Rawatan Kritikal Islamic (Anestesiologi) University, Malaysia
+(i)
 
-(ii) Universiti Doktor Pakar Kebangsaan Anestesiologi & Malaysia Rawatan Klinikal Kelulusan sebelum ini dikenali sebagai Sarjana Perubatan (Anestesiologi)
+<!-- marginal: International -->
 
-(iii) Universiti Sarjana Malaya Anestesiologi
+Sarjana Perubatan
 
-(iv) Universiti Putra Master Perubatan Malaysia (Anestesiologi)
+<!-- marginal: Rawatan Kritikal -->
 
-(v) Universiti Sains Sarjana Perubatan Malaysia (Anestesiologi dan Rawatan Kritikal) Kelulusan sebelum ini dikenali sebagai Sarjana Perubatan (Anestesiologi)
+<!-- marginal: Islamic -->
+
+(Anestesiologi)
+
+<!-- marginal: University, -->
+
+<!-- marginal: Malaysia -->
+
+(ii) Universiti Doktor Pakar
+
+<!-- marginal: Kebangsaan -->
+
+Anestesiologi &
+
+<!-- marginal: Malaysia -->
+
+Rawatan Klinikal Kelulusan sebelum ini dikenali sebagai Sarjana Perubatan (Anestesiologi)
+
+(iii) Universiti Sarjana
+
+<!-- marginal: Malaya -->
+
+Anestesiologi
+
+(iv) Universiti Putra Master Perubatan
+
+<!-- marginal: Malaysia -->
+
+(Anestesiologi)
+
+(v) Universiti Sains Sarjana Perubatan
+
+<!-- marginal: Malaysia -->
+
+(Anestesiologi dan Rawatan Kritikal) Kelulusan sebelum ini dikenali sebagai Sarjana Perubatan (Anestesiologi)
 
 (b) Amerika
 
-(i) American Diplomate of the Syarikat Board of American Board of Anaesthesiology Anaesthesiology
+(i)
+
+<!-- marginal: American -->
+
+Diplomate of the
+
+<!-- marginal: Syarikat -->
+
+<!-- marginal: Board of -->
+
+American Board of
+
+<!-- marginal: Anaesthesiology -->
+
+Anaesthesiology
+
+<!-- marginal: WJW24/0671 BM.indd 7 -->
 
 <!-- page 8 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Kepakaran Negara atau Nama institusi yang Perihal kelulusan kumpulan memberikan kelulusan negara tempat di mana kelulusan diberikan
+<!-- marginal: Kepakaran -->
+
+<!-- marginal: Negara atau -->
+
+Nama institusi yang Perihal kelulusan
+
+<!-- marginal: kumpulan -->
+
+memberikan kelulusan
+
+<!-- marginal: negara -->
+
+<!-- marginal: tempat -->
+
+<!-- marginal: di mana -->
+
+<!-- marginal: kelulusan -->
+
+<!-- marginal: diberikan -->
 
 (c) Australia
 
@@ -212,11 +326,21 @@ seksyen yang berikut:
 
 (d) Australia
 
-(i) Australian and Fellowship of the dan New New Zealand Australian and New Zealand College of Zealand College of Anaesthesia Anaesthesia
+(i) Australian and Fellowship of the
+
+<!-- marginal: dan New -->
+
+New Zealand Australian and New
+
+<!-- marginal: Zealand -->
+
+College of Zealand College of Anaesthesia Anaesthesia
 
 (e) Belgium (i) Ghent University Certificate of Specialization in Anaesthesiology
 
-(f) Ireland
+(f)
+
+<!-- marginal: Ireland -->
 
 (i) College of Fellowship of Anaesthesiologists the College of of Ireland Anaesthesiologists of Ireland
 
@@ -228,17 +352,41 @@ seksyen yang berikut:
 
 (g) United
 
-(i) Royal College of Fellowship of the Kingdom Anaesthetists of Royal College of England Anaesthetists
+(i) Royal College of Fellowship of the
+
+<!-- marginal: Kingdom -->
+
+Anaesthetists of Royal College of England Anaesthetists
 
 (ii) Royal College Fellowship of of Surgeons of the Faculty of England Anaesthetists of Royal College of Surgeons Kelulusan ini diiktiraf sehingga tahun 1988
+
+<!-- marginal: WJW24/0671 BM.indd 8 -->
 
 <!-- page 9 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Kepakaran Negara atau Nama institusi yang Perihal kelulusan kumpulan memberikan kelulusan negara tempat di mana kelulusan diberikan
+<!-- marginal: Kepakaran -->
+
+<!-- marginal: Negara atau -->
+
+Nama institusi yang Perihal kelulusan
+
+<!-- marginal: kumpulan -->
+
+memberikan kelulusan
+
+<!-- marginal: negara -->
+
+<!-- marginal: tempat -->
+
+<!-- marginal: di mana -->
+
+<!-- marginal: kelulusan -->
+
+<!-- marginal: diberikan -->
 
 (2) Hematologi
 
@@ -262,7 +410,11 @@ seksyen yang berikut:
 
 (c) United
 
-(i) Royal College of Fellowship of the Kingdom Pathologists of Royal College of United Kingdom Pathologists
+(i) Royal College of Fellowship of the
+
+<!-- marginal: Kingdom -->
+
+Pathologists of Royal College of United Kingdom Pathologists
 
 Kelulusan sebelum ini dikenali sebagai Membership of the Royal College of Pathologists of United Kingdom
 
@@ -272,13 +424,33 @@ Kelulusan sebelum ini dikenali sebagai Membership of the Royal College of Pathol
 
 (ii) Universiti Doktor Kesihatan Kebangsaan Masyarakat Malaysia
 
+<!-- marginal: WJW24/0671 BM.indd 9 -->
+
 <!-- page 10 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Kepakaran Negara atau Nama institusi yang Perihal kelulusan kumpulan memberikan kelulusan negara tempat di mana kelulusan diberikan
+<!-- marginal: Kepakaran -->
+
+<!-- marginal: Negara atau -->
+
+Nama institusi yang Perihal kelulusan
+
+<!-- marginal: kumpulan -->
+
+memberikan kelulusan
+
+<!-- marginal: negara -->
+
+<!-- marginal: tempat -->
+
+<!-- marginal: di mana -->
+
+<!-- marginal: kelulusan -->
+
+<!-- marginal: diberikan -->
 
 (iii) Universiti Sarjana Kesihatan Kebangsaan Masyarakat Malaysia Kelulusan ini diiktiraf sehingga tahun 2000, kecuali program empat tahun
 
@@ -296,13 +468,33 @@ Kelulusan sebelum ini dikenali sebagai Membership of the Royal College of Pathol
 
 (x) Universiti Putra Master Kesihatan Malaysia Awam Kelulusan ini diiktiraf sehingga tahun 2000, kecuali program empat tahun
 
+<!-- marginal: WJW24/0671 BM.indd 10 -->
+
 <!-- page 11 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Kepakaran Negara atau Nama institusi yang Perihal kelulusan kumpulan memberikan kelulusan negara tempat di mana kelulusan diberikan
+<!-- marginal: Kepakaran -->
+
+<!-- marginal: Negara atau -->
+
+Nama institusi yang Perihal kelulusan
+
+<!-- marginal: kumpulan -->
+
+memberikan kelulusan
+
+<!-- marginal: negara -->
+
+<!-- marginal: tempat -->
+
+<!-- marginal: di mana -->
+
+<!-- marginal: kelulusan -->
+
+<!-- marginal: diberikan -->
 
 (xi) Universiti Sains Doktor Kesihatan Malaysia Awam atau Doktor Kesihatan Awam (Epidemiologi) atau Doktor Kesihatan Awam (Kesihatan Persekitaran dan Pekerjaan) atau Doktor Kesihatan Awam (Kesihatan Keluarga)
 
@@ -310,7 +502,11 @@ Kelulusan sebelum ini dikenali sebagai Membership of the Royal College of Pathol
 
 (b) Amerika
 
-(i) Department of Master of Public Syarikat Epidemiology Health and Public Kelulusan ini Health, School diiktiraf sehingga of Medicine, tahun 2000 Yale University
+(i) Department of Master of Public
+
+<!-- marginal: Syarikat -->
+
+Epidemiology Health and Public Kelulusan ini Health, School diiktiraf sehingga of Medicine, tahun 2000 Yale University
 
 (ii) Graduate School Master of Public of Public Health, Health University of Kelulusan ini Pittsburgh diiktiraf sehingga tahun 2000
 
@@ -322,13 +518,33 @@ Kelulusan sebelum ini dikenali sebagai Membership of the Royal College of Pathol
 
 (vi) School of Master of Public Hygiene and Health Public Health, Kelulusan ini John Hopkins diiktiraf sehingga University tahun 2000
 
+<!-- marginal: WJW24/0671 BM.indd 11 -->
+
 <!-- page 12 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Kepakaran Negara atau Nama institusi yang Perihal kelulusan kumpulan memberikan kelulusan negara tempat di mana kelulusan diberikan
+<!-- marginal: Kepakaran -->
+
+<!-- marginal: Negara atau -->
+
+Nama institusi yang Perihal kelulusan
+
+<!-- marginal: kumpulan -->
+
+memberikan kelulusan
+
+<!-- marginal: negara -->
+
+<!-- marginal: tempat -->
+
+<!-- marginal: di mana -->
+
+<!-- marginal: kelulusan -->
+
+<!-- marginal: diberikan -->
 
 (vii) School of Public Master of Public Health and Health Administrative Kelulusan ini Medicine, diiktiraf sehingga Columbia tahun 2000 University
 
@@ -346,13 +562,33 @@ Kelulusan sebelum ini dikenali sebagai Membership of the Royal College of Pathol
 
 (xiv) School of Doctor of Public Public Health, Health University of California, Berkeley
 
+<!-- marginal: WJW24/0671 BM.indd 12 -->
+
 <!-- page 13 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Kepakaran Negara atau Nama institusi yang Perihal kelulusan kumpulan memberikan kelulusan negara tempat di mana kelulusan diberikan
+<!-- marginal: Kepakaran -->
+
+<!-- marginal: Negara atau -->
+
+Nama institusi yang Perihal kelulusan
+
+<!-- marginal: kumpulan -->
+
+memberikan kelulusan
+
+<!-- marginal: negara -->
+
+<!-- marginal: tempat -->
+
+<!-- marginal: di mana -->
+
+<!-- marginal: kelulusan -->
+
+<!-- marginal: diberikan -->
 
 (xv) School of Master of Public Public Health, Health University of Kelulusan ini California, diiktiraf sehingga Berkeley tahun 2000
 
@@ -370,13 +606,33 @@ Kelulusan sebelum ini dikenali sebagai Membership of the Royal College of Pathol
 
 (xxii) School of Master of Public Public Health, Health University of Kelulusan ini North Carolina diiktiraf sehingga tahun 2000
 
+<!-- marginal: WJW24/0671 BM.indd 13 -->
+
 <!-- page 14 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Kepakaran Negara atau Nama institusi yang Perihal kelulusan kumpulan memberikan kelulusan negara tempat di mana kelulusan diberikan
+<!-- marginal: Kepakaran -->
+
+<!-- marginal: Negara atau -->
+
+Nama institusi yang Perihal kelulusan
+
+<!-- marginal: kumpulan -->
+
+memberikan kelulusan
+
+<!-- marginal: negara -->
+
+<!-- marginal: tempat -->
+
+<!-- marginal: di mana -->
+
+<!-- marginal: kelulusan -->
+
+<!-- marginal: diberikan -->
 
 (xxiii) School of Master of Public Public Health, Health University of Kelulusan ini Oklahoma diiktiraf sehingga tahun 2000
 
@@ -398,13 +654,33 @@ Kelulusan sebelum ini dikenali sebagai Membership of the Royal College of Pathol
 
 (ii) University of Master of Public Manila Health Kelulusan ini diiktiraf sehingga tahun 2000
 
+<!-- marginal: WJW24/0671 BM.indd 14 -->
+
 <!-- page 15 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Kepakaran Negara atau Nama institusi yang Perihal kelulusan kumpulan memberikan kelulusan negara tempat di mana kelulusan diberikan
+<!-- marginal: Kepakaran -->
+
+<!-- marginal: Negara atau -->
+
+Nama institusi yang Perihal kelulusan
+
+<!-- marginal: kumpulan -->
+
+memberikan kelulusan
+
+<!-- marginal: negara -->
+
+<!-- marginal: tempat -->
+
+<!-- marginal: di mana -->
+
+<!-- marginal: kelulusan -->
+
+<!-- marginal: diberikan -->
 
 (e) Kanada
 
@@ -412,7 +688,11 @@ Kelulusan sebelum ini dikenali sebagai Membership of the Royal College of Pathol
 
 (f) United
 
-(i) London School Doctorate of Public Kingdom of Hygiene Health & Tropical Medicine
+(i) London School Doctorate of Public
+
+<!-- marginal: Kingdom -->
+
+of Hygiene Health & Tropical Medicine
 
 (ii) University of Master of Science London in Community Health in Developing Countries Kelulusan ini diiktiraf sehingga tahun 2000
 
@@ -424,15 +704,39 @@ Kelulusan sebelum ini dikenali sebagai Membership of the Royal College of Pathol
 
 (a) Malaysia
 
-(i) Universiti Doktor Pakar Perubatan Kebangsaan Patologi Malaysia (Mirobiologi Perubatan) Kelulusan sebelum ini dikenali sebagai Sarjana Patologi (Mikrobiologi Perubatan)
+(i) Universiti Doktor Pakar
+
+<!-- marginal: Perubatan -->
+
+Kebangsaan Patologi Malaysia (Mirobiologi Perubatan) Kelulusan sebelum ini dikenali sebagai Sarjana Patologi (Mikrobiologi Perubatan)
+
+<!-- marginal: WJW24/0671 BM.indd 15 -->
 
 <!-- page 16 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Kepakaran Negara atau Nama institusi yang Perihal kelulusan kumpulan memberikan kelulusan negara tempat di mana kelulusan diberikan
+<!-- marginal: Kepakaran -->
+
+<!-- marginal: Negara atau -->
+
+Nama institusi yang Perihal kelulusan
+
+<!-- marginal: kumpulan -->
+
+memberikan kelulusan
+
+<!-- marginal: negara -->
+
+<!-- marginal: tempat -->
+
+<!-- marginal: di mana -->
+
+<!-- marginal: kelulusan -->
+
+<!-- marginal: diberikan -->
 
 (ii) Universiti Sarjana Patologi Malaya (Mikrobiologi Perubatan)
 
@@ -450,13 +754,21 @@ Kelulusan sebelum ini dikenali sebagai Membership of the Royal College of Pathol
 
 (c) United
 
-(i) Royal College of Fellowship of the Kingdom Pathologists of Royal College of United Kingdom Pathologists Kelulusan sebelum ini dikenali sebagai Membership of the Royal College of Pathologists of United Kingdom
+(i) Royal College of Fellowship of the
+
+<!-- marginal: Kingdom -->
+
+Pathologists of Royal College of United Kingdom Pathologists Kelulusan sebelum ini dikenali sebagai Membership of the Royal College of Pathologists of United Kingdom
 
 (5) Obstetrik dan
 
 (a) Malaysia
 
-(i) International Sarjana Obstetrik Ginekologi Islamic dan Ginekologi University, Malaysia
+(i) International Sarjana Obstetrik
+
+<!-- marginal: Ginekologi -->
+
+Islamic dan Ginekologi University, Malaysia
 
 (ii) Universiti Doktor Pakar Kebangsaan Obstetrik & Malaysia Ginekologi Kelulusan sebelum ini dikenali sebagai Sarjana Obstetrik & Ginekologi
 
@@ -464,21 +776,53 @@ Kelulusan sebelum ini dikenali sebagai Membership of the Royal College of Pathol
 
 (iv) Universiti Sains Sarjana Perubatan Malaysia (Obstetrik & Ginekologi)
 
+<!-- marginal: WJW24/0671 BM.indd 16 -->
+
 <!-- page 17 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Kepakaran Negara atau Nama institusi yang Perihal kelulusan kumpulan memberikan kelulusan negara tempat di mana kelulusan diberikan
+<!-- marginal: Kepakaran -->
+
+<!-- marginal: Negara atau -->
+
+Nama institusi yang Perihal kelulusan
+
+<!-- marginal: kumpulan -->
+
+memberikan kelulusan
+
+<!-- marginal: negara -->
+
+<!-- marginal: tempat -->
+
+<!-- marginal: di mana -->
+
+<!-- marginal: kelulusan -->
+
+<!-- marginal: diberikan -->
 
 (b) Australia
 
-(i) Royal Fellowship of the dan New Australian and Royal Australian Zealand New Zealand and New Zealand College of College of Obstetricians and Obstetricians and Gynaecologists Gynaecologists
+(i) Royal Fellowship of the
+
+<!-- marginal: dan New -->
+
+Australian and Royal Australian
+
+<!-- marginal: Zealand -->
+
+New Zealand and New Zealand College of College of Obstetricians and Obstetricians and Gynaecologists Gynaecologists
 
 (c) United
 
-(i) Royal College of Membership of the Kingdom Obstetricians and Royal College of Gynaecologist of Obstetricians and United Kingdom Gynaecologist
+(i) Royal College of Membership of the
+
+<!-- marginal: Kingdom -->
+
+Obstetricians and Royal College of Gynaecologist of Obstetricians and United Kingdom Gynaecologist
 
 (6) Oftalmologi
 
@@ -492,7 +836,11 @@ Kelulusan sebelum ini dikenali sebagai Membership of the Royal College of Pathol
 
 (b) Amerika
 
-(i) American Diplomate from the Syarikat Board of American Board of Ophthalmology Ophthalmology
+(i) American Diplomate from the
+
+<!-- marginal: Syarikat -->
+
+Board of American Board of Ophthalmology Ophthalmology
 
 (c) Australia
 
@@ -500,27 +848,61 @@ Kelulusan sebelum ini dikenali sebagai Membership of the Royal College of Pathol
 
 (d) Australia
 
-(i) Royal Fellowship of the dan New Australian and Royal Australian Zealand New Zealand and New Zealand College of College of Ophthalmologists Ophthalmologists
+(i) Royal Fellowship of the
+
+<!-- marginal: dan New -->
+
+Australian and Royal Australian
+
+<!-- marginal: Zealand -->
+
+New Zealand and New Zealand College of College of Ophthalmologists Ophthalmologists
 
 (e) Kanada
 
 (i) Royal College Fellowship of the of Physicians Royal College of and Surgeons of Surgeons of Canada Canada in Ophthalmology Kelulusan ini diiktiraf sehingga Disember 2023
 
+<!-- marginal: WJW24/0671 BM.indd 17 -->
+
 <!-- page 18 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Kepakaran Negara atau Nama institusi yang Perihal kelulusan kumpulan memberikan kelulusan negara tempat di mana kelulusan diberikan
+<!-- marginal: Kepakaran -->
 
-(f) Ireland
+<!-- marginal: Negara atau -->
+
+Nama institusi yang Perihal kelulusan
+
+<!-- marginal: kumpulan -->
+
+memberikan kelulusan
+
+<!-- marginal: negara -->
+
+<!-- marginal: tempat -->
+
+<!-- marginal: di mana -->
+
+<!-- marginal: kelulusan -->
+
+<!-- marginal: diberikan -->
+
+(f)
+
+<!-- marginal: Ireland -->
 
 (i) Royal College Fellowship of the of Surgeons in Royal College of Ireland Surgeons in Ireland in Ophthalmology
 
 (g) United
 
-(i) Royal College Fellowship of the Kingdom of Physicians Royal College and Surgeons of of Surgeons Glasgow of Glasgow in Ophthalmology Kelulusan ini diiktiraf sehingga tahun 1999
+(i) Royal College Fellowship of the
+
+<!-- marginal: Kingdom -->
+
+of Physicians Royal College and Surgeons of of Surgeons Glasgow of Glasgow in Ophthalmology Kelulusan ini diiktiraf sehingga tahun 1999
 
 (ii) Royal College of Fellowship of the Ophthalmologists Royal College of of United Ophthalmologists Kingdom
 
@@ -540,7 +922,11 @@ Kelulusan sebelum ini dikenali sebagai Sarjana Radioterapi & Onkologi
 
 (c) United
 
-(i) Royal College of Fellowship of the Kingdom Radiologists of Royal College of United Kingdom Radiologists
+(i) Royal College of Fellowship of the
+
+<!-- marginal: Kingdom -->
+
+Radiologists of Royal College of United Kingdom Radiologists
 
 (8) Ortopedik
 
@@ -548,13 +934,33 @@ Kelulusan sebelum ini dikenali sebagai Sarjana Radioterapi & Onkologi
 
 (i) International Sarjana Islamic Pembedahan University, Ortopedik Malaysia
 
+<!-- marginal: WJW24/0671 BM.indd 18 -->
+
 <!-- page 19 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Kepakaran Negara atau Nama institusi yang Perihal kelulusan kumpulan memberikan kelulusan negara tempat di mana kelulusan diberikan
+<!-- marginal: Kepakaran -->
+
+<!-- marginal: Negara atau -->
+
+Nama institusi yang Perihal kelulusan
+
+<!-- marginal: kumpulan -->
+
+memberikan kelulusan
+
+<!-- marginal: negara -->
+
+<!-- marginal: tempat -->
+
+<!-- marginal: di mana -->
+
+<!-- marginal: kelulusan -->
+
+<!-- marginal: diberikan -->
 
 (ii) Universiti Doktor Pakar Kebangsaan Ortopedik & Malaysia Traumatologi Kelulusan sebelum ini dikenali sebagai Sarjana Surgeri (Ortopedik)
 
@@ -574,7 +980,13 @@ Kelulusan sebelum ini dikenali sebagai Sarjana Radioterapi & Onkologi
 
 (c) United
 
-(i) Royal College Fellowship of the Kingdom of Surgeons of Royal College of United Kingdom Surgeons
+(i) Royal College Fellowship of the
+
+<!-- marginal: Kingdom -->
+
+of Surgeons of Royal College of United Kingdom Surgeons
+
+<!-- marginal: WJW24/0671 BM.indd 19 -->
 
 <!-- page 20 -->
 
@@ -582,31 +994,121 @@ Kelulusan sebelum ini dikenali sebagai Sarjana Radioterapi & Onkologi
 
 (2)
 
-(3) (4) Kepakaran Negara atau Nama institusi yang Perihal kelulusan kumpulan memberikan kelulusan negara tempat di mana kelulusan diberikan
+(3) (4)
 
-(ii) Royal College Fellowship of the of Physicians Royal College and Surgeons of of Surgeons of Glasgow Glasgow in Trauma and Orthopaedic Surgery
+<!-- marginal: Kepakaran -->
 
-(iii) Royal College Fellowship of the of Surgeons of Royal College Edinburgh of Surgeons of Edinburgh in Trauma and Orthopaedic Surgery
+<!-- marginal: Negara atau -->
 
-(iv) Royal College Fellowship of the of Surgeons of Royal College of England Surgeons in Trauma and Orthopaedic Surgery
+<!-- marginal: Nama institusi yang -->
+
+Perihal kelulusan
+
+<!-- marginal: kumpulan -->
+
+<!-- marginal: memberikan kelulusan -->
+
+<!-- marginal: negara -->
+
+<!-- marginal: tempat -->
+
+<!-- marginal: di mana -->
+
+<!-- marginal: kelulusan -->
+
+<!-- marginal: diberikan -->
+
+(ii) Royal College Fellowship of the
+
+<!-- marginal: of Physicians -->
+
+Royal College
+
+<!-- marginal: and Surgeons of -->
+
+of Surgeons of
+
+<!-- marginal: Glasgow -->
+
+Glasgow in Trauma and Orthopaedic Surgery
+
+(iii) Royal College Fellowship of the
+
+<!-- marginal: of Surgeons of -->
+
+Royal College
+
+<!-- marginal: Edinburgh -->
+
+of Surgeons of Edinburgh in Trauma and Orthopaedic Surgery
+
+(iv) Royal College Fellowship of the
+
+<!-- marginal: of Surgeons of -->
+
+Royal College of
+
+<!-- marginal: England -->
+
+Surgeons in Trauma and Orthopaedic Surgery
 
 (9) Otorinolaringologi
 
 (a) Malaysia
 
-(i) Universiti Doktor Pakar Kebangsaan Otorinolaringologi- Malaysia Surgeri Kepala dan Leher Kelulusan sebelum ini dikenali sebagai Sarjana Surgeri (Otorinolaringologi)
+(i)
 
-(ii) Universiti Sarjana Malaya Otorinolaringologi- Surgeri Kepala & Leher Kelulusan sebelum ini dikenali sebagai Sarjana Otorinolaringologi
+<!-- marginal: Universiti -->
 
-(iii) Universiti Sains Sarjana Perubatan Malaysia (Otorinolaringologi, Pembedahan Kepala dan Leher) Kelulusan sebelum ini dikenali sebagai Sarjana Perubatan (Otorinolaringologi)
+Doktor Pakar
+
+<!-- marginal: Kebangsaan -->
+
+Otorinolaringologi-
+
+<!-- marginal: Malaysia -->
+
+Surgeri Kepala dan Leher Kelulusan sebelum ini dikenali sebagai Sarjana Surgeri (Otorinolaringologi)
+
+(ii) Universiti Sarjana
+
+<!-- marginal: Malaya -->
+
+Otorinolaringologi- Surgeri Kepala & Leher Kelulusan sebelum ini dikenali sebagai Sarjana Otorinolaringologi
+
+(iii) Universiti Sains Sarjana Perubatan
+
+<!-- marginal: Malaysia -->
+
+(Otorinolaringologi, Pembedahan Kepala dan Leher) Kelulusan sebelum ini dikenali sebagai Sarjana Perubatan (Otorinolaringologi)
+
+<!-- marginal: WJW24/0671 BM.indd 20 -->
 
 <!-- page 21 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Kepakaran Negara atau Nama institusi yang Perihal kelulusan kumpulan memberikan kelulusan negara tempat di mana kelulusan diberikan
+<!-- marginal: Kepakaran -->
+
+<!-- marginal: Negara atau -->
+
+Nama institusi yang Perihal kelulusan
+
+<!-- marginal: kumpulan -->
+
+memberikan kelulusan
+
+<!-- marginal: negara -->
+
+<!-- marginal: tempat -->
+
+<!-- marginal: di mana -->
+
+<!-- marginal: kelulusan -->
+
+<!-- marginal: diberikan -->
 
 (iv) Kolej Universiti Master of KPJ Healthcare Otorhinolaryngology – Head and Neck Surgery
 
@@ -618,7 +1120,11 @@ Kelulusan sebelum ini dikenali sebagai Sarjana Radioterapi & Onkologi
 
 (c) United
 
-(i) Royal College Fellowship of the Kingdom of Physicians Royal College and Surgeons of of Surgeons Glasgow of Glasgow in Laryngology
+(i) Royal College Fellowship of the
+
+<!-- marginal: Kingdom -->
+
+of Physicians Royal College and Surgeons of of Surgeons Glasgow of Glasgow in Laryngology
 
 (ii) Royal College Fellowship of the of Physicians Royal College and Surgeons of of Surgeons Glasgow of Glasgow in Otorhinolaryngology Head & Neck Surgery
 
@@ -626,13 +1132,33 @@ Kelulusan sebelum ini dikenali sebagai Sarjana Radioterapi & Onkologi
 
 (iv) Royal College Fellowship of the of Surgeons of Royal College Edinburgh of Surgeons of Edinburgh in Otorhinolaryngology Head & Neck Surgery
 
+<!-- marginal: WJW24/0671 BM.indd 21 -->
+
 <!-- page 22 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Kepakaran Negara atau Nama institusi yang Perihal kelulusan kumpulan memberikan kelulusan negara tempat di mana kelulusan diberikan
+<!-- marginal: Kepakaran -->
+
+<!-- marginal: Negara atau -->
+
+Nama institusi yang Perihal kelulusan
+
+<!-- marginal: kumpulan -->
+
+memberikan kelulusan
+
+<!-- marginal: negara -->
+
+<!-- marginal: tempat -->
+
+<!-- marginal: di mana -->
+
+<!-- marginal: kelulusan -->
+
+<!-- marginal: diberikan -->
 
 (v) Royal College Fellowship of the of Surgeons of Royal College England of Surgeons in Laryngology
 
@@ -660,15 +1186,39 @@ Kelulusan sebelum ini dikenali sebagai Sarjana Radioterapi & Onkologi
 
 (c) United
 
-(i) Royal College of Fellowship of the Kingdom Pathologists of Royal College of United Kingdom Pathologists Kelulusan sebelum ini dikenali sebagai Membership of the Royal College of Pathologists of United Kingdom
+(i) Royal College of Fellowship of the
+
+<!-- marginal: Kingdom -->
+
+Pathologists of Royal College of United Kingdom Pathologists Kelulusan sebelum ini dikenali sebagai Membership of the Royal College of Pathologists of United Kingdom
+
+<!-- marginal: WJW24/0671 BM.indd 22 -->
 
 <!-- page 23 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Kepakaran Negara atau Nama institusi yang Perihal kelulusan kumpulan memberikan kelulusan negara tempat di mana kelulusan diberikan
+<!-- marginal: Kepakaran -->
+
+<!-- marginal: Negara atau -->
+
+Nama institusi yang Perihal kelulusan
+
+<!-- marginal: kumpulan -->
+
+memberikan kelulusan
+
+<!-- marginal: negara -->
+
+<!-- marginal: tempat -->
+
+<!-- marginal: di mana -->
+
+<!-- marginal: kelulusan -->
+
+<!-- marginal: diberikan -->
 
 (11) Patologi Anatomi
 
@@ -692,15 +1242,39 @@ Kelulusan sebelum ini dikenali sebagai Sarjana Radioterapi & Onkologi
 
 (c) United
 
-(i) Royal College of Fellowship of the Kingdom Pathologists of Royal College of United Kingdom Pathologists Kelulusan sebelum ini dikenali sebagai Membership of the Royal College of Pathologists of United Kingdom
+(i) Royal College of Fellowship of the
+
+<!-- marginal: Kingdom -->
+
+Pathologists of Royal College of United Kingdom Pathologists Kelulusan sebelum ini dikenali sebagai Membership of the Royal College of Pathologists of United Kingdom
+
+<!-- marginal: WJW24/0671 BM.indd 23 -->
 
 <!-- page 24 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Kepakaran Negara atau Nama institusi yang Perihal kelulusan kumpulan memberikan kelulusan negara tempat di mana kelulusan diberikan
+<!-- marginal: Kepakaran -->
+
+<!-- marginal: Negara atau -->
+
+Nama institusi yang Perihal kelulusan
+
+<!-- marginal: kumpulan -->
+
+memberikan kelulusan
+
+<!-- marginal: negara -->
+
+<!-- marginal: tempat -->
+
+<!-- marginal: di mana -->
+
+<!-- marginal: kelulusan -->
+
+<!-- marginal: diberikan -->
 
 (12) Patologi Forensik
 
@@ -716,7 +1290,11 @@ Kelulusan sebelum ini dikenali sebagai Sarjana Radioterapi & Onkologi
 
 (c) United
 
-(i) Academy of Fellowship of Kingdom Forensic Medical Academy of Sciences of Forensic Medical United Kingdom Sciences
+(i) Academy of Fellowship of
+
+<!-- marginal: Kingdom -->
+
+Forensic Medical Academy of Sciences of Forensic Medical United Kingdom Sciences
 
 (ii) Royal College of Fellowship of the Pathologists of Royal College of United Kingdom Pathologists in Forensic Pathology
 
@@ -724,13 +1302,33 @@ Kelulusan sebelum ini dikenali sebagai Sarjana Radioterapi & Onkologi
 
 (iv) Society of Diploma in Medical Apothecaries, Jurisprudence London, United (Pathology) Kingdom Kelulusan ini dihentikan selepas tahun 2024
 
+<!-- marginal: WJW24/0671 BM.indd 24 -->
+
 <!-- page 25 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Kepakaran Negara atau Nama institusi yang Perihal kelulusan kumpulan memberikan kelulusan negara tempat di mana kelulusan diberikan
+<!-- marginal: Kepakaran -->
+
+<!-- marginal: Negara atau -->
+
+Nama institusi yang Perihal kelulusan
+
+<!-- marginal: kumpulan -->
+
+memberikan kelulusan
+
+<!-- marginal: negara -->
+
+<!-- marginal: tempat -->
+
+<!-- marginal: di mana -->
+
+<!-- marginal: kelulusan -->
+
+<!-- marginal: diberikan -->
 
 (v) University of Master of Science Glasgow (Medical Science) in Forensic Medicine Kelulusan ini dihentikan selepas tahun 2006
 
@@ -762,15 +1360,39 @@ Kelulusan sebelum ini dikenali sebagai Sarjana Radioterapi & Onkologi
 
 (c) United
 
-(i) Royal College of Fellowship of the Kingdom Pathologists of Royal College of United Kingdom Pathologists Kelulusan sebelum ini dikenali sebagai Membership of the Royal College of Pathologists of United Kingdom
+(i) Royal College of Fellowship of the
+
+<!-- marginal: Kingdom -->
+
+Pathologists of Royal College of United Kingdom Pathologists Kelulusan sebelum ini dikenali sebagai Membership of the Royal College of Pathologists of United Kingdom
+
+<!-- marginal: WJW24/0671 BM.indd 25 -->
 
 <!-- page 26 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Kepakaran Negara atau Nama institusi yang Perihal kelulusan kumpulan memberikan kelulusan negara tempat di mana kelulusan diberikan
+<!-- marginal: Kepakaran -->
+
+<!-- marginal: Negara atau -->
+
+Nama institusi yang Perihal kelulusan
+
+<!-- marginal: kumpulan -->
+
+memberikan kelulusan
+
+<!-- marginal: negara -->
+
+<!-- marginal: tempat -->
+
+<!-- marginal: di mana -->
+
+<!-- marginal: kelulusan -->
+
+<!-- marginal: diberikan -->
 
 (15) Pediatrik Am
 
@@ -786,7 +1408,11 @@ Kelulusan sebelum ini dikenali sebagai Sarjana Radioterapi & Onkologi
 
 (b) Amerika
 
-(i) American Board Diplomate from the Syarikat of Paediatrics American Board of Paediatrics
+(i) American Board Diplomate from the
+
+<!-- marginal: Syarikat -->
+
+of Paediatrics American Board of Paediatrics
 
 (c) Australia
 
@@ -798,17 +1424,41 @@ Kelulusan sebelum ini dikenali sebagai Sarjana Radioterapi & Onkologi
 
 (e) United
 
-(i) Royal College of Membership of Kingdom Paediatrics and the Royal College Child Health of of Paediatrics and United Kingdom Child Health
+(i) Royal College of Membership of
+
+<!-- marginal: Kingdom -->
+
+Paediatrics and the Royal College Child Health of of Paediatrics and United Kingdom Child Health
 
 (ii) Royal College Membership of the of Physicians of Royal College of United Kingdom Physicians Kelulusan ini diiktiraf sehingga tahun 2000
+
+<!-- marginal: WJW24/0671 BM.indd 26 -->
 
 <!-- page 27 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Kepakaran Negara atau Nama institusi yang Perihal kelulusan kumpulan memberikan kelulusan negara tempat di mana kelulusan diberikan
+<!-- marginal: Kepakaran -->
+
+<!-- marginal: Negara atau -->
+
+Nama institusi yang Perihal kelulusan
+
+<!-- marginal: kumpulan -->
+
+memberikan kelulusan
+
+<!-- marginal: negara -->
+
+<!-- marginal: tempat -->
+
+<!-- marginal: di mana -->
+
+<!-- marginal: kelulusan -->
+
+<!-- marginal: diberikan -->
 
 (16) Pembedahan Am (a) Malaysia
 
@@ -824,7 +1474,11 @@ Kelulusan sebelum ini dikenali sebagai Sarjana Radioterapi & Onkologi
 
 (b) Amerika
 
-(i) American Board Diplomate from the Syarikat of Surgical American Board of Specialties Surgical Specialties
+(i) American Board Diplomate from the
+
+<!-- marginal: Syarikat -->
+
+of Surgical American Board of Specialties Surgical Specialties
 
 (c) Australia
 
@@ -836,23 +1490,49 @@ Kelulusan sebelum ini dikenali sebagai Sarjana Radioterapi & Onkologi
 
 (i) Royal College Fellowship of the of Physicians Royal College and Surgeons of of Surgeons of Canada Canada
 
-(f) Ireland
+(f)
+
+<!-- marginal: Ireland -->
 
 (i) Royal College Fellowship of the of Surgeons in Royal College of Ireland Surgeons in Ireland Kelulusan ini diiktiraf sehingga tahun 2003
+
+<!-- marginal: WJW24/0671 BM.indd 27 -->
 
 <!-- page 28 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Kepakaran Negara atau Nama institusi yang Perihal kelulusan kumpulan memberikan kelulusan negara tempat di mana kelulusan diberikan
+<!-- marginal: Kepakaran -->
+
+<!-- marginal: Negara atau -->
+
+Nama institusi yang Perihal kelulusan
+
+<!-- marginal: kumpulan -->
+
+memberikan kelulusan
+
+<!-- marginal: negara -->
+
+<!-- marginal: tempat -->
+
+<!-- marginal: di mana -->
+
+<!-- marginal: kelulusan -->
+
+<!-- marginal: diberikan -->
 
 (ii) Royal College Fellowship of the of Surgeons in Royal College of Ireland Surgeons in Ireland in General Surgery
 
 (g) United
 
-(i) Royal College Fellowship of the Kingdom of Physicians Royal College and Surgeons of of Surgeons of Glasgow Glasgow in General Surgery
+(i) Royal College Fellowship of the
+
+<!-- marginal: Kingdom -->
+
+of Physicians Royal College and Surgeons of of Surgeons of Glasgow Glasgow in General Surgery
 
 (ii) Royal College Fellowship of the of Surgeons of Royal College Edinburgh of Surgeons of Edinburgh in General Surgery
 
@@ -864,19 +1544,45 @@ Kelulusan sebelum ini dikenali sebagai Sarjana Radioterapi & Onkologi
 
 (vi) Royal College Fellowship of the of Surgeons of Royal College of England Surgeons Kelulusan ini diiktiraf sehingga tahun 2000
 
+<!-- marginal: WJW24/0671 BM.indd 28 -->
+
 <!-- page 29 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Kepakaran Negara atau Nama institusi yang Perihal kelulusan kumpulan memberikan kelulusan negara tempat di mana kelulusan diberikan
+<!-- marginal: Kepakaran -->
+
+<!-- marginal: Negara atau -->
+
+Nama institusi yang Perihal kelulusan
+
+<!-- marginal: kumpulan -->
+
+memberikan kelulusan
+
+<!-- marginal: negara -->
+
+<!-- marginal: tempat -->
+
+<!-- marginal: di mana -->
+
+<!-- marginal: kelulusan -->
+
+<!-- marginal: diberikan -->
 
 (17) Pembedahan
 
 (a) Amerika
 
-(i) American Board American Board of Kardiotorasik Syarikat of Thoracic Thoracic Surgery Surgery Certification (ABTS Board Certification)
+(i) American Board American Board of
+
+<!-- marginal: Kardiotorasik -->
+
+<!-- marginal: Syarikat -->
+
+of Thoracic Thoracic Surgery Surgery Certification (ABTS Board Certification)
 
 (b) Australia
 
@@ -894,17 +1600,41 @@ Kelulusan sebelum ini dikenali sebagai Sarjana Radioterapi & Onkologi
 
 (e) United
 
-(i) Royal College Fellowship of the Kingdom of Physicians Royal College and Surgeons of of Surgeons Glasgow of Glasgow in Cardiothoracic Surgery
+(i) Royal College Fellowship of the
+
+<!-- marginal: Kingdom -->
+
+of Physicians Royal College and Surgeons of of Surgeons Glasgow of Glasgow in Cardiothoracic Surgery
 
 (ii) Royal College Fellowship of the of Surgeons of Royal College Edinburgh of Surgeons of Edinburgh in Cardiothoracic Surgery
+
+<!-- marginal: WJW24/0671 BM.indd 29 -->
 
 <!-- page 30 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Kepakaran Negara atau Nama institusi yang Perihal kelulusan kumpulan memberikan kelulusan negara tempat di mana kelulusan diberikan
+<!-- marginal: Kepakaran -->
+
+<!-- marginal: Negara atau -->
+
+Nama institusi yang Perihal kelulusan
+
+<!-- marginal: kumpulan -->
+
+memberikan kelulusan
+
+<!-- marginal: negara -->
+
+<!-- marginal: tempat -->
+
+<!-- marginal: di mana -->
+
+<!-- marginal: kelulusan -->
+
+<!-- marginal: diberikan -->
 
 (iii) Royal College Fellowship of the of Surgeons of Royal College England of Surgeons in Cardiothoracic Surgery
 
@@ -912,13 +1642,21 @@ Kelulusan sebelum ini dikenali sebagai Sarjana Radioterapi & Onkologi
 
 (a) Malaysia
 
-(i) Universiti Doctor of Pediatrik Kebangsaan Paediatric Surgery Malaysia Kelulusan sebelum ini dikenali sebagai Sarjana Surgeri Pediatrik
+(i) Universiti Doctor of
+
+<!-- marginal: Pediatrik -->
+
+Kebangsaan Paediatric Surgery Malaysia Kelulusan sebelum ini dikenali sebagai Sarjana Surgeri Pediatrik
 
 (ii) Universiti Sarjana Malaya Pembedahan Kanak-Kanak
 
 (b) Amerika
 
-(i) American Board Diplomate from the Syarikat of Paediatric American Board of Surgery Paediatric Surgery
+(i) American Board Diplomate from the
+
+<!-- marginal: Syarikat -->
+
+of Paediatric American Board of Surgery Paediatric Surgery
 
 (c) Australia
 
@@ -932,21 +1670,47 @@ Kelulusan sebelum ini dikenali sebagai Sarjana Radioterapi & Onkologi
 
 (i) European Board Fellowship of the of Paediatric European Board of Surgery Paediatric Surgery
 
-(f) Ireland
+(f)
+
+<!-- marginal: Ireland -->
 
 (i) Royal College Fellowship of the of Surgeons in Royal College of Ireland Surgeons in Ireland in Paediatric Surgery
 
 (g) United
 
-(i) Royal College Fellowship of the Kingdom of Physicians Royal College and Surgeons of of Surgeons Glasgow of Glasgow in Paediatric Surgery
+(i) Royal College Fellowship of the
+
+<!-- marginal: Kingdom -->
+
+of Physicians Royal College and Surgeons of of Surgeons Glasgow of Glasgow in Paediatric Surgery
+
+<!-- marginal: WJW24/0671 BM.indd 30 -->
 
 <!-- page 31 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Kepakaran Negara atau Nama institusi yang Perihal kelulusan kumpulan memberikan kelulusan negara tempat di mana kelulusan diberikan
+<!-- marginal: Kepakaran -->
+
+<!-- marginal: Negara atau -->
+
+Nama institusi yang Perihal kelulusan
+
+<!-- marginal: kumpulan -->
+
+memberikan kelulusan
+
+<!-- marginal: negara -->
+
+<!-- marginal: tempat -->
+
+<!-- marginal: di mana -->
+
+<!-- marginal: kelulusan -->
+
+<!-- marginal: diberikan -->
 
 (ii) Royal College Fellowship of the of Surgeons of Royal College Edinburgh of Surgeons of Edinburgh in Paediatric Surgery
 
@@ -956,11 +1720,19 @@ Kelulusan sebelum ini dikenali sebagai Sarjana Radioterapi & Onkologi
 
 (a) Malaysia
 
-(i) Universiti Sains Sarjana Surgeri Plastik Malaysia (Surgeri Plastik)
+(i) Universiti Sains Sarjana Surgeri
+
+<!-- marginal: Plastik -->
+
+Malaysia (Surgeri Plastik)
 
 (b) Amerika
 
-(i) American Board Diplomate of the Syarikat of Plastic and American Board Reconstructive of Plastic and Surgery Reconstructive Surgery
+(i) American Board Diplomate of the
+
+<!-- marginal: Syarikat -->
+
+of Plastic and American Board Reconstructive of Plastic and Surgery Reconstructive Surgery
 
 (c) Australia
 
@@ -976,15 +1748,39 @@ Kelulusan sebelum ini dikenali sebagai Sarjana Radioterapi & Onkologi
 
 (f) United
 
-(i) Royal College Fellowship of the Kingdom of Physicians Royal College and Surgeons of of Surgeons of Glasgow Glasgow in Plastic Surgery
+(i) Royal College Fellowship of the
+
+<!-- marginal: Kingdom -->
+
+of Physicians Royal College and Surgeons of of Surgeons of Glasgow Glasgow in Plastic Surgery
+
+<!-- marginal: WJW24/0671 BM.indd 31 -->
 
 <!-- page 32 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Kepakaran Negara atau Nama institusi yang Perihal kelulusan kumpulan memberikan kelulusan negara tempat di mana kelulusan diberikan
+<!-- marginal: Kepakaran -->
+
+<!-- marginal: Negara atau -->
+
+Nama institusi yang Perihal kelulusan
+
+<!-- marginal: kumpulan -->
+
+memberikan kelulusan
+
+<!-- marginal: negara -->
+
+<!-- marginal: tempat -->
+
+<!-- marginal: di mana -->
+
+<!-- marginal: kelulusan -->
+
+<!-- marginal: diberikan -->
 
 (ii) Royal College Fellowship of the of Surgeons of Royal College Edinburgh of Surgeons of Edinburgh in Plastic Surgery
 
@@ -998,7 +1794,11 @@ Kelulusan sebelum ini dikenali sebagai Sarjana Radioterapi & Onkologi
 
 (b) Amerika
 
-(i) American Board Diplomate from the Syarikat of Neurosurgery American Board of Neurosurgery
+(i) American Board Diplomate from the
+
+<!-- marginal: Syarikat -->
+
+of Neurosurgery American Board of Neurosurgery
 
 (c) Australia
 
@@ -1012,21 +1812,47 @@ Kelulusan sebelum ini dikenali sebagai Sarjana Radioterapi & Onkologi
 
 (i) Royal College Fellowship of the of Physicians Royal College of and Surgeons of Surgeons of Canada Canada in Neurosurgery
 
-(f) Ireland
+(f)
+
+<!-- marginal: Ireland -->
 
 (i) Royal College Fellowship of the of Surgeons in Royal College of Ireland Surgeons in Ireland in Neurosurgery
 
 (g) United
 
-(i) Royal College Fellowship of the Kingdom of Physicians Royal College and Surgeons of of Surgeons Glasgow of Glasgow in Neurosurgery
+(i) Royal College Fellowship of the
+
+<!-- marginal: Kingdom -->
+
+of Physicians Royal College and Surgeons of of Surgeons Glasgow of Glasgow in Neurosurgery
+
+<!-- marginal: WJW24/0671 BM.indd 32 -->
 
 <!-- page 33 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Kepakaran Negara atau Nama institusi yang Perihal kelulusan kumpulan memberikan kelulusan negara tempat di mana kelulusan diberikan
+<!-- marginal: Kepakaran -->
+
+<!-- marginal: Negara atau -->
+
+Nama institusi yang Perihal kelulusan
+
+<!-- marginal: kumpulan -->
+
+memberikan kelulusan
+
+<!-- marginal: negara -->
+
+<!-- marginal: tempat -->
+
+<!-- marginal: di mana -->
+
+<!-- marginal: kelulusan -->
+
+<!-- marginal: diberikan -->
 
 (ii) Royal College Fellowship of the of Surgeons of Royal College Edinburgh of Surgeons of Edinburgh in Neurosurgery
 
@@ -1052,15 +1878,39 @@ Kelulusan sebelum ini dikenali sebagai Sarjana Radioterapi & Onkologi
 
 (b) Amerika
 
-(i) American Board Diplomate of the Syarikat of Internal American Board of Medicine Internal Medicine
+(i) American Board Diplomate of the
+
+<!-- marginal: Syarikat -->
+
+of Internal American Board of Medicine Internal Medicine
+
+<!-- marginal: WJW24/0671 BM.indd 33 -->
 
 <!-- page 34 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Kepakaran Negara atau Nama institusi yang Perihal kelulusan kumpulan memberikan kelulusan negara tempat di mana kelulusan diberikan
+<!-- marginal: Kepakaran -->
+
+<!-- marginal: Negara atau -->
+
+Nama institusi yang Perihal kelulusan
+
+<!-- marginal: kumpulan -->
+
+memberikan kelulusan
+
+<!-- marginal: negara -->
+
+<!-- marginal: tempat -->
+
+<!-- marginal: di mana -->
+
+<!-- marginal: kelulusan -->
+
+<!-- marginal: diberikan -->
 
 (c) Australia
 
@@ -1074,19 +1924,29 @@ Kelulusan sebelum ini dikenali sebagai Sarjana Radioterapi & Onkologi
 
 (ii) Royal College Membership of of Physicians the Royal College and Surgeons of of Physicians of Canada Canada
 
-(f) Ireland
+(f)
+
+<!-- marginal: Ireland -->
 
 (i) Royal College Membership of of Physicians of the Royal College Ireland of Physicians of Ireland
 
 (g) United
 
-(i) Royal College Membership of the Kingdom of Physicians of Royal College of United Kingdom Physicians
+(i) Royal College Membership of the
+
+<!-- marginal: Kingdom -->
+
+of Physicians of Royal College of United Kingdom Physicians
 
 (22) Perubatan
 
 (a) Malaysia
 
-(i) Universiti Doktor Pakar Kecemasan Kebangsaan Perubatan Malaysia Kecemasan
+(i) Universiti Doktor Pakar
+
+<!-- marginal: Kecemasan -->
+
+Kebangsaan Perubatan Malaysia Kecemasan
 
 Kelulusan sebelum ini dikenali sebagai Sarjana Perubatan Kecemasan
 
@@ -1098,17 +1958,41 @@ Kelulusan sebelum ini dikenali sebagai Sarjana Perubatan Kecemasan
 
 (i) Australasian Fellowship of College of the Australasian Emergency College of Medicine Emergency Medicine
 
+<!-- marginal: WJW24/0671 BM.indd 34 -->
+
 <!-- page 35 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Kepakaran Negara atau Nama institusi yang Perihal kelulusan kumpulan memberikan kelulusan negara tempat di mana kelulusan diberikan
+<!-- marginal: Kepakaran -->
+
+<!-- marginal: Negara atau -->
+
+Nama institusi yang Perihal kelulusan
+
+<!-- marginal: kumpulan -->
+
+memberikan kelulusan
+
+<!-- marginal: negara -->
+
+<!-- marginal: tempat -->
+
+<!-- marginal: di mana -->
+
+<!-- marginal: kelulusan -->
+
+<!-- marginal: diberikan -->
 
 (c) United
 
-(i) Royal College Fellowship of the Kingdom of Emergency Royal College Medicine of of Emergency United Kingdom Medicine
+(i) Royal College Fellowship of the
+
+<!-- marginal: Kingdom -->
+
+of Emergency Royal College Medicine of of Emergency United Kingdom Medicine
 
 (ii) Royal College Fellowship of the of Surgeons of Royal College of United Kingdom Surgeons (Accident & Emergency) Kelulusan ini diiktiraf sehingga tahun 2000
 
@@ -1134,13 +2018,33 @@ Keluarga)
 
 (i) Royal Australian Fellowship of the College of Royal Australian General College of General Practitioners Practitioners
 
+<!-- marginal: WJW24/0671 BM.indd 35 -->
+
 <!-- page 36 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Kepakaran Negara atau Nama institusi yang Perihal kelulusan kumpulan memberikan kelulusan negara tempat di mana kelulusan diberikan
+<!-- marginal: Kepakaran -->
+
+<!-- marginal: Negara atau -->
+
+Nama institusi yang Perihal kelulusan
+
+<!-- marginal: kumpulan -->
+
+memberikan kelulusan
+
+<!-- marginal: negara -->
+
+<!-- marginal: tempat -->
+
+<!-- marginal: di mana -->
+
+<!-- marginal: kelulusan -->
+
+<!-- marginal: diberikan -->
 
 (ii) Royal Australian International College of Conjoint General Fellowship of the Practitioners Royal Australian College of General Practitioners
 
@@ -1150,7 +2054,11 @@ Keluarga)
 
 (d) United
 
-(i) Royal College Membership of Kingdom of General the Royal College Practitioners of General United Kingdom Practitioners
+(i) Royal College Membership of
+
+<!-- marginal: Kingdom -->
+
+of General the Royal College Practitioners of General United Kingdom Practitioners
 
 (24) Perubatan Nuklear
 
@@ -1170,13 +2078,33 @@ Keluarga)
 
 (vii) Universiti Sains Sarjana Perubatan Malaysia (Radiologi)
 
+<!-- marginal: WJW24/0671 BM.indd 36 -->
+
 <!-- page 37 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Kepakaran Negara atau Nama institusi yang Perihal kelulusan kumpulan memberikan kelulusan negara tempat di mana kelulusan diberikan
+<!-- marginal: Kepakaran -->
+
+<!-- marginal: Negara atau -->
+
+Nama institusi yang Perihal kelulusan
+
+<!-- marginal: kumpulan -->
+
+memberikan kelulusan
+
+<!-- marginal: negara -->
+
+<!-- marginal: tempat -->
+
+<!-- marginal: di mana -->
+
+<!-- marginal: kelulusan -->
+
+<!-- marginal: diberikan -->
 
 (viii) Universiti Sarjana Perubatan Teknologi Dalaman
 
@@ -1184,7 +2112,11 @@ Keluarga)
 
 (b) Amerika
 
-(i) American Board Diplomate from the Syarikat of Nuclear American Board of Medicine Internal Medicine
+(i) American Board Diplomate from the
+
+<!-- marginal: Syarikat -->
+
+of Nuclear American Board of Medicine Internal Medicine
 
 (ii) American Board Diplomate from the of Nuclear American Board of Medicine Nuclear Medicine
 
@@ -1206,19 +2138,47 @@ Keluarga)
 
 (f) New
 
-(i) Royal New Fellowship of Zealand Zealand College the Royal New of Radiologists Zealand College of Radiologists
+(i) Royal New Fellowship of
+
+<!-- marginal: Zealand -->
+
+Zealand College the Royal New of Radiologists Zealand College of Radiologists
 
 (g) United
 
-(i) Royal College Membership of the Kingdom of Physicians of Royal College of United Kingdom Physicians
+(i) Royal College Membership of the
+
+<!-- marginal: Kingdom -->
+
+of Physicians of Royal College of United Kingdom Physicians
+
+<!-- marginal: WJW24/0671 BM.indd 37 -->
 
 <!-- page 38 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Kepakaran Negara atau Nama institusi yang Perihal kelulusan kumpulan memberikan kelulusan negara tempat di mana kelulusan diberikan
+<!-- marginal: Kepakaran -->
+
+<!-- marginal: Negara atau -->
+
+Nama institusi yang Perihal kelulusan
+
+<!-- marginal: kumpulan -->
+
+memberikan kelulusan
+
+<!-- marginal: negara -->
+
+<!-- marginal: tempat -->
+
+<!-- marginal: di mana -->
+
+<!-- marginal: kelulusan -->
+
+<!-- marginal: diberikan -->
 
 (ii) Royal College of Fellowship of the Radiologists of Royal College of United Kingdom Radiologists
 
@@ -1226,11 +2186,19 @@ Keluarga)
 
 (a) Malaysia
 
-(i) Universiti Sarjana Perubatan Rehabilitasi Malaya Pemulihan Kelulusan sebelum ini dikenali sebagai Sarjana Perubatan Rehabilitasi
+(i) Universiti Sarjana Perubatan
+
+<!-- marginal: Rehabilitasi -->
+
+Malaya Pemulihan Kelulusan sebelum ini dikenali sebagai Sarjana Perubatan Rehabilitasi
 
 (b) Amerika
 
-(i) American Board Diplomate of the Syarikat of Physical American Board of Medicine and Physical Medicine Rehabilitation & Rehabilitation Certification
+(i) American Board Diplomate of the
+
+<!-- marginal: Syarikat -->
+
+of Physical American Board of Medicine and Physical Medicine Rehabilitation & Rehabilitation Certification
 
 (c) Australia
 
@@ -1238,7 +2206,11 @@ Keluarga)
 
 (d) United
 
-(i) Royal College Diploma in Medical Kingdom of Physicians of Rehabilitation London Kelulusan ini diiktiraf sehingga tahun 1997
+(i) Royal College Diploma in Medical
+
+<!-- marginal: Kingdom -->
+
+of Physicians of Rehabilitation London Kelulusan ini diiktiraf sehingga tahun 1997
 
 (26) Perubatan Sukan
 
@@ -1252,13 +2224,33 @@ Keluarga)
 
 (i) Australian Fellowship College of Australian of Sports College of Sports Physicians Physicians Kelulusan ini diiktiraf sehingga tahun 2002
 
+<!-- marginal: WJW24/0671 BM.indd 38 -->
+
 <!-- page 39 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Kepakaran Negara atau Nama institusi yang Perihal kelulusan kumpulan memberikan kelulusan negara tempat di mana kelulusan diberikan
+<!-- marginal: Kepakaran -->
+
+<!-- marginal: Negara atau -->
+
+Nama institusi yang Perihal kelulusan
+
+<!-- marginal: kumpulan -->
+
+memberikan kelulusan
+
+<!-- marginal: negara -->
+
+<!-- marginal: tempat -->
+
+<!-- marginal: di mana -->
+
+<!-- marginal: kelulusan -->
+
+<!-- marginal: diberikan -->
 
 (ii) University of Master of Sports Canberra Medicine Kelulusan ini diiktiraf sehingga tahun 2002
 
@@ -1268,13 +2260,21 @@ Keluarga)
 
 (d) United
 
-(i) University of Master (MSc) in Kingdom London Sports Medicine Kelulusan ini diiktiraf sehingga tahun 2002
+(i) University of Master (MSc) in
+
+<!-- marginal: Kingdom -->
+
+London Sports Medicine Kelulusan ini diiktiraf sehingga tahun 2002
 
 (27) Perubatan
 
 (a) Malaysia
 
-(i) Universiti Sains Sarjana Perubatan Transfusi Malaysia (Perubatan Transfusi)
+(i) Universiti Sains Sarjana Perubatan
+
+<!-- marginal: Transfusi -->
+
+Malaysia (Perubatan Transfusi)
 
 (28) Psikiatri
 
@@ -1288,13 +2288,33 @@ Keluarga)
 
 (iv) Universiti Sains Sarjana Perubatan Malaysia (Psikiatri)
 
+<!-- marginal: WJW24/0671 BM.indd 39 -->
+
 <!-- page 40 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Kepakaran Negara atau Nama institusi yang Perihal kelulusan kumpulan memberikan kelulusan negara tempat di mana kelulusan diberikan
+<!-- marginal: Kepakaran -->
+
+<!-- marginal: Negara atau -->
+
+Nama institusi yang Perihal kelulusan
+
+<!-- marginal: kumpulan -->
+
+memberikan kelulusan
+
+<!-- marginal: negara -->
+
+<!-- marginal: tempat -->
+
+<!-- marginal: di mana -->
+
+<!-- marginal: kelulusan -->
+
+<!-- marginal: diberikan -->
 
 (v) Universiti Sarjana Perubatan Teknologi (Psikiatri)
 
@@ -1302,11 +2322,23 @@ Keluarga)
 
 (b) Australia
 
-(i) Royal Australian Fellowship of the dan New and New Royal Australian Zealand Zealand College and New Zealand of Psychiatrists College of Psychiatrists
+(i) Royal Australian Fellowship of the
+
+<!-- marginal: dan New -->
+
+and New Royal Australian
+
+<!-- marginal: Zealand -->
+
+Zealand College and New Zealand of Psychiatrists College of Psychiatrists
 
 (c) United
 
-(i) Royal College of Membership of the Kingdom Psychiatrists of Royal College of United Kingdom Psychiatrists
+(i) Royal College of Membership of the
+
+<!-- marginal: Kingdom -->
+
+Psychiatrists of Royal College of United Kingdom Psychiatrists
 
 (29) Radiologi Klinikal
 
@@ -1330,15 +2362,43 @@ Keluarga)
 
 (c) Australia
 
-(i) Royal Australian Fellowship of The dan New and New Royal Australian Zealand Zealand College and New Zealand of Radiologists College of Radiologists
+(i) Royal Australian Fellowship of The
+
+<!-- marginal: dan New -->
+
+and New Royal Australian
+
+<!-- marginal: Zealand -->
+
+Zealand College and New Zealand of Radiologists College of Radiologists
+
+<!-- marginal: WJW24/0671 BM.indd 40 -->
 
 <!-- page 41 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Kepakaran Negara atau Nama institusi yang Perihal kelulusan kumpulan memberikan kelulusan negara tempat di mana kelulusan diberikan
+<!-- marginal: Kepakaran -->
+
+<!-- marginal: Negara atau -->
+
+Nama institusi yang Perihal kelulusan
+
+<!-- marginal: kumpulan -->
+
+memberikan kelulusan
+
+<!-- marginal: negara -->
+
+<!-- marginal: tempat -->
+
+<!-- marginal: di mana -->
+
+<!-- marginal: kelulusan -->
+
+<!-- marginal: diberikan -->
 
 (d) Ireland
 
@@ -1346,17 +2406,29 @@ Keluarga)
 
 (e) New
 
-(i) Royal New Fellowship of Zealand Zealand College the Royal New of Radiologists Zealand College of Radiologists
+(i) Royal New Fellowship of
+
+<!-- marginal: Zealand -->
+
+Zealand College the Royal New of Radiologists Zealand College of Radiologists
 
 (f) United
 
-(i) Royal College of Fellowship of the Kingdom Radiologists of Royal College of United Kingdom Radiologists
+(i) Royal College of Fellowship of the
+
+<!-- marginal: Kingdom -->
+
+Radiologists of Royal College of United Kingdom Radiologists
 
 (30) Urologi
 
 (a) Amerika
 
-(i) American Board Diplomate of Syarikat of Urology American Board of Urology
+(i) American Board Diplomate of
+
+<!-- marginal: Syarikat -->
+
+of Urology American Board of Urology
 
 (b) Australia
 
@@ -1368,35 +2440,47 @@ Keluarga)
 
 (d) United
 
-(i) Royal College Fellowship of the Kingdom of Physicians Royal College and Surgeons of of Surgeons Glasgow of Glasgow in Surgical Urology
+(i) Royal College Fellowship of the
+
+<!-- marginal: Kingdom -->
+
+of Physicians Royal College and Surgeons of of Surgeons Glasgow of Glasgow in Surgical Urology
 
 (ii) Royal College Fellowship of the of Physicians Royal College and Surgeons of of Surgeons Glasgow of Glasgow in Urology
 
 (iii) Royal College Fellowship of the of Surgeons of Royal College Edinburgh of Surgeons of Edinburgh in Urology
 
+<!-- marginal: WJW24/0671 BM.indd 41 -->
+
 <!-- page 42 -->
 
 (1)
 
-(2)
+(2) (3) (4)
 
-(3) (4) Kepakaran Negara atau Nama institusi yang Perihal kelulusan kumpulan memberikan kelulusan negara tempat di mana kelulusan diberikan
+<!-- marginal: Kepakaran -->
+
+Negara atau Nama institusi yang Perihal kelulusan kumpulan memberikan kelulusan negara tempat di mana kelulusan diberikan
 
 (iv) Royal College Fellowship of the of Surgeons of Royal College England of Surgeons in Urology
 
-## Jadual Kelima
+## JADUAL KELIMA
 
 [Perenggan 14b(3)(b) dan seksyen 14d]
 
 ## SENARAI SUBKEPAKARAN
 
-(1)
+(1) (2)
 
-(2) Kepakaran Subkepakaran
+<!-- marginal: Kepakaran -->
+
+Subkepakaran
 
 (1) Anestesiologi dan
 
-(a) Penjagaan Intensif Rawatan Kritikal
+(a) Penjagaan Intensif
+
+<!-- marginal: Rawatan Kritikal -->
 
 (2) Kesihatan Awam
 
@@ -1416,7 +2500,9 @@ Keluarga)
 
 (3) Obstetrik dan
 
-(a) Gynae-Oncology Ginekologi
+(a) Gynae-Oncology
+
+<!-- marginal: Ginekologi -->
 
 (b) Perubatan Fetomaternal
 
@@ -1430,11 +2516,15 @@ Keluarga)
 
 (b) Onkologi Radiasi
 
+<!-- marginal: WJW24/0671 BM.indd 42 -->
+
 <!-- page 43 -->
 
-(1)
+(1) (2)
 
-(2) Kepakaran Subkepakaran
+<!-- marginal: Kepakaran -->
+
+Subkepakaran
 
 (5) Ortopedik
 
@@ -1498,11 +2588,15 @@ Keluarga)
 
 (b) Pembedahan Hepatobiliari
 
+<!-- marginal: WJW24/0671 BM.indd 43 -->
+
 <!-- page 44 -->
 
-(1)
+(1) (2)
 
-(2) Kepakaran Subkepakaran
+<!-- marginal: Kepakaran -->
+
+Subkepakaran
 
 (c) Pembedahan Payudara dan Endokrin
 
@@ -1558,6 +2652,8 @@ Keluarga)
 
 (g) Psikiatri Konsultasi-Liaison ”.
 
+<!-- marginal: WJW24/0671 BM.indd 44 -->
+
 <!-- page 45 -->
 
 ### Kecualian dan peralihan
@@ -1579,6 +2675,10 @@ Keluarga)
 (i) suatu latihan dalam suatu kepakaran yang disediakan oleh Kementerian Kesihatan;
 
 (ii) suatu latihan dalam suatu kepakaran yang disediakan oleh suatu institusi pendidikan tinggi tempatan yang latihannya dijalankan di kemudahan Kementerian Kesihatan; atau
+
+<!-- marginal: WJW24/0671 BM.indd 45 -->
+
+<!-- marginal: 12/07/2024 6:32 PM -->
 
 <!-- page 46 -->
 
@@ -1614,6 +2714,8 @@ hendaklah disifatkan berhak untuk didaftarkan sebagai seorang Pakar di bawah Akt
 
 (c) mana-mana institusi yang lain di dalam atau di luar Malaysia,
 
+<!-- marginal: 12/07/2024 6:32 PM -->
+
 <!-- page 47 -->
 
 bagi maksud untuk berhak didaftarkan sebagai seorang Pakar, hendaklah disifatkan sedang menjalani latihan kepakaran di bawah Akta ini.
@@ -1640,6 +2742,10 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk meminda Akt
 
 3. Fasal 2 bertujuan untuk meminda seksyen 2 Akta 50 dengan memotong takrif “Institut latihan yang diiktiraf” dan memasukkan takrif baharu “institusi pendidikan tinggi tempatan”. Fasal ini juga bertujuan untuk memotong takrif “kelayakan pakar yang diiktiraf” kerana kelulusan kepakaran dinyatakan dalam Jadual baharu Keempat yang dicadangkan. Selanjutnya, fasal ini juga bertujuan untuk meminda takrif “pengamal perubatan berdaftar” untuk memasukkan Pakar sebagai sebahagian daripada pengamal perubatan berdaftar di bawah Akta ini.
 
+<!-- marginal: WJW24/0671 BM.indd 47 -->
+
+<!-- marginal: 12/07/2024 6:32 PM -->
+
 <!-- page 48 -->
 
 4. Fasal 3 bertujuan untuk meminda seksyen 3a Akta 50 mengenai keanggotaan Majlis.
@@ -1658,14 +2764,20 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk meminda Akt
 
 11. Fasal 10 bertujuan memasukkan Jadual baharu Keempat dan Jadual baharu Kelima ke dalam Akta 50 yang menyenaraikan kelulusan kepakaran yang boleh didaftarkan dan untuk mengadakan senarai subkepakaran.
 
+<!-- marginal: 12/07/2024 6:32 PM -->
+
 <!-- page 49 -->
 
 12. Fasal 11 mengandungi peruntukan kecualian dan peralihan.
 
 13. Fasal 12 mengandungi peruntukan pengesahan.
 
-## IMPLIKASI KEWANGAN
+<!-- marginal: IMPLIKASI KEWANGAN -->
 
-Rang Undang-Undang tidak melibatkan Kerajaan dalam perbelanjaan wang tambahan.
+Rang Undang-Undang tidak melibatkan Kerajaan dalam perbelanjaan wang
+
+<!-- marginal: tambahan. -->
 
 [PN(U2)3362]
+
+<!-- marginal: WJW24/0671 BM.indd 49 -->

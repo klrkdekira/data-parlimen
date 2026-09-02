@@ -12,7 +12,23 @@
 
 ## SUSUNAN FASAL
 
-1. Tajuk ringkas dan mula berkuatkuasa. 2. Tafsiran. 3. Organisasi antarabangsa dan organisasi seberang laut. 4. Keistimewaan dan kekebalan organisasi antarabangsa dan orang tertentu. 5. Keistimewaan dan kekebalan wakil yang menghadiri persidangan antarabangsa tertentu atau yang terlibat dalam misi di Malaysia. 6. Keistimewaan dan kekebalan hakim dan pegawai dan orang yang terlibat dalam urusan di hadapan, Mahkamah Keadilan Antarabangsa. 7. Perakuan oleh Menteri. 8. Penarikan balik keistimewaan dan kekebalan wakil negara yang tidak memberikan layanan salingan. 9. Perlindungan bagi nama, dll., organisasi antarabangsa.
+1. Tajuk ringkas dan mula berkuatkuasa.
+
+2. Tafsiran.
+
+3. Organisasi antarabangsa dan organisasi seberang laut.
+
+4. Keistimewaan dan kekebalan organisasi antarabangsa dan orang tertentu.
+
+5. Keistimewaan dan kekebalan wakil yang menghadiri persidangan antarabangsa tertentu atau yang terlibat dalam misi di Malaysia.
+
+6. Keistimewaan dan kekebalan hakim dan pegawai dan orang yang terlibat dalam urusan di hadapan, Mahkamah Keadilan Antarabangsa.
+
+7. Perakuan oleh Menteri.
+
+8. Penarikan balik keistimewaan dan kekebalan wakil negara yang tidak memberikan layanan salingan.
+
+9. Perlindungan bagi nama, dll., organisasi antarabangsa.
 
 10. Kebenaran memegang tanah di Persekutuan.
 
@@ -118,9 +134,19 @@ hendaklah setiap seorangnya disifatkan sebagai kakitangan rasmi wakil itu.
 
 (4) Sebutan-sebutan dalam Akta ini mengenai negara- negara hendaklah dibaca sebagai termasuk sebutan- sebutan mengenai kerajaan negara-negara.
 
-Organisasi
+<!-- marginal: Organisasi -->
 
-3. (1) Menteri boleh, melalui peraturan-peraturan, antarabangsa mengisytiharkan sesuatu organisasi— dan organisasi seberang laut.
+3. (1) Menteri boleh, melalui peraturan-peraturan,
+
+<!-- marginal: antarabangsa -->
+
+mengisytiharkan sesuatu organisasi—
+
+<!-- marginal: dan -->
+
+<!-- marginal: organisasi -->
+
+<!-- marginal: seberang laut. -->
 
 (a) yang dianggotai oleh Malaysia dan suatu negara atau negara-negara selain daripada Malaysia; atau
 
@@ -188,11 +214,7 @@ menjalankan kuasa-kuasa dan melak- sanakan fungsi-fungsi organisasi itu; dan
 
 (b) memberi—
 
-(i) seseorang yang menjadi atau yang sedang melaksanakan
-
-<!-- marginal: kewajipan- -->
-
-kewajipan seorang pegawai tinggi semua atau mana-mana keistimewaan dan kekebalan yang dinyatakan dalam
+(i) seseorang yang menjadi atau yang sedang melaksanakan kewajipan- kewajipan seorang pegawai tinggi semua atau mana-mana keistimewaan dan kekebalan yang dinyatakan dalam
 
 ## Bahagian I Jadual Kedua; dan
 
@@ -216,9 +238,15 @@ semua atau mana-mana keistimewaan atau kekebalan yang dinyatakan dalam
 
 ## Bahagian II Jadual Ketiga;
 
-(d) memberi— (i) seseorang (yang bukan pegawai tinggi) yang memegang jawatan dalam sesuatu organisasi antarabangsa semua atau mana-mana keistimewaan dan kekebalan yang dinyatakan dalam Bahagian I Jadual Keempat; dan (ii) seseorang yang tidak lagi memegang jawatan sedemikian kekebalan-kekebalan yang dinyatakan dalam Bahagian II Jadual Keempat; dan
+(d) memberi—
 
-(e) memberi— (i) seseorang yang sedang berkhidmat dalam sesuatu jawatankuasa, atau yang sedang mengambil bahagian dalam kerja, sesuatu organisasi antarabangsa atau yang sedang melaksanakan suatu misi bagi pihak organisasi sedemikian sama ada seorang diri atau bersama dengan orang lain semua atau mana-mana keistimewaan dan kekebalan yang dinyatakan dalam Bahagian I Jadual Kelima; dan
+(i) seseorang (yang bukan pegawai tinggi) yang memegang jawatan dalam sesuatu organisasi antarabangsa semua atau mana-mana keistimewaan dan kekebalan yang dinyatakan dalam Bahagian I Jadual Keempat; dan
+
+(ii) seseorang yang tidak lagi memegang jawatan sedemikian kekebalan-kekebalan yang dinyatakan dalam Bahagian II Jadual Keempat; dan
+
+(e) memberi—
+
+(i) seseorang yang sedang berkhidmat dalam sesuatu jawatankuasa, atau yang sedang mengambil bahagian dalam kerja, sesuatu organisasi antarabangsa atau yang sedang melaksanakan suatu misi bagi pihak organisasi sedemikian sama ada seorang diri atau bersama dengan orang lain semua atau mana-mana keistimewaan dan kekebalan yang dinyatakan dalam Bahagian I Jadual Kelima; dan
 
 <!-- page 9 -->
 
@@ -418,9 +446,37 @@ keistimewaan atau kekebalan.
 
 <!-- page 14 -->
 
-Penarikan
+<!-- marginal: Penarikan -->
 
-8. Jika Menteri berpuas hati bahawa orang-orang, atau balik anggota-anggota kakitangan rasmi orang-orang, yang keistimewaan dan kekebalan mewakili Malaysia di sesuatu persidangan antarabangsa wakil negara di sesuatu negara tidak akan menerima, di negara itu, yang tidak memberikan keistimewaan-keistimewaan dan kekebalan-kekebalan layanan yang bersamaan dengan keistimewaan-keistimewaan salingan. dan kekebalan-kekebalan yang diberikan di Malaysia oleh Akta ini atau peraturan-peraturan kepada orang- orang, atau kepada anggota-anggota kakitangan rasmi orang-orang, yang mewakili negara itu, Menteri boleh, melalui perintah yang disiarkan dalam Warta, menarik balik semua atau mana-rnana keistimewaan dan kekebalan itu daripada wakil-wakil, atau daripada anggota-anggota kakitangan rasmi wakil-wakil, negara itu.
+8. Jika Menteri berpuas hati bahawa orang-orang, atau
+
+<!-- marginal: balik -->
+
+anggota-anggota kakitangan rasmi orang-orang, yang
+
+<!-- marginal: keistimewaan -->
+
+<!-- marginal: dan kekebalan -->
+
+mewakili Malaysia di sesuatu persidangan antarabangsa
+
+<!-- marginal: wakil negara -->
+
+di sesuatu negara tidak akan menerima, di negara itu,
+
+<!-- marginal: yang tidak -->
+
+<!-- marginal: memberikan -->
+
+keistimewaan-keistimewaan dan kekebalan-kekebalan
+
+<!-- marginal: layanan -->
+
+yang bersamaan dengan keistimewaan-keistimewaan
+
+<!-- marginal: salingan. -->
+
+dan kekebalan-kekebalan yang diberikan di Malaysia oleh Akta ini atau peraturan-peraturan kepada orang- orang, atau kepada anggota-anggota kakitangan rasmi orang-orang, yang mewakili negara itu, Menteri boleh, melalui perintah yang disiarkan dalam Warta, menarik balik semua atau mana-rnana keistimewaan dan kekebalan itu daripada wakil-wakil, atau daripada anggota-anggota kakitangan rasmi wakil-wakil, negara itu.
 
 9. (1) Kecuali dengan keizinan secara bertulis daripada Menteri, seseorang (termasuk sesuatu pertubuhan perbadanan) tidak boleh—
 
@@ -472,9 +528,19 @@ diisytiharkan melalui peraturan-peraturan menjadi meterai atau lambang rasmi sua
 
 (6) Prosiding di bawah seksyen ini tidak boleh dimulakan tanpa keizinan secara bertulis daripada Peguam Negara.
 
-Kebenaran
+<!-- marginal: Kebenaran -->
 
-10. (1) Walau apa pun peruntukan-peruntukan mana- memegang mana undang-undang yang berlawanan, adalah sari bagi tanah di Persekutuan. tanah di mana-mana bahagian Persekutuan atau apa-apa kepentingan mengenai tanah itu diberikan, diberi- milikkan, dipajakkan atau dipindahmilikkan kepada atau dipunyai atau dipegang oleh sesuatu organisasi antarabangsa bagi maksud-maksud organisasi itu atau kediaman-kediaman atau pejabat-pejabat mana-mana orang yang dinyatakan dalam mana-mana peraturan yang dibuat di bawah perenggan 4(1)(b) dan 4(1)(d).
+10. (1) Walau apa pun peruntukan-peruntukan mana-
+
+<!-- marginal: memegang -->
+
+mana undang-undang yang berlawanan, adalah sari bagi
+
+<!-- marginal: tanah di -->
+
+<!-- marginal: Persekutuan. -->
+
+tanah di mana-mana bahagian Persekutuan atau apa-apa kepentingan mengenai tanah itu diberikan, diberi- milikkan, dipajakkan atau dipindahmilikkan kepada atau dipunyai atau dipegang oleh sesuatu organisasi antarabangsa bagi maksud-maksud organisasi itu atau kediaman-kediaman atau pejabat-pejabat mana-mana orang yang dinyatakan dalam mana-mana peraturan yang dibuat di bawah perenggan 4(1)(b) dan 4(1)(d).
 
 (2) Jika menurut kuasa subseksyen (1) adalah sah bagi tanah atau sesuatu kepentingan mengenai tanah diberikan, diberimilikkan, dipajakkan atau dipindah- milikkan kepada atau dipunyai atau dipegang oleh sesuatu organisasi antarabangsa, maka tanah atau
 
@@ -520,9 +586,15 @@ pengangkutan yang lain yang dipunyai atau dipandu oleh orang itu, atau berkenaan
 
 (5) Peraturan-peraturan yang dibuat di bawah seksyen 4 atau 5 tidak boleh memberi mana-mana orang atau organisasi apa-apa keistimewaan atau kekebalan yang lebih luas daripada keistimewaan-keistimewaan atau kekebalan-kekebalan yang, pada masa peraturan- peraturan itu dibuat, diberikan atau dikehendaki diberikan kepada orang atau organisasi itu untuk memberikan kuatkuasa kepada mana-mana perjanjian antarabangsa bagi maksud itu.
 
-Pemansuhan
+<!-- marginal: Pemansuhan -->
 
-12. Peruntukan-peruntukan Ordinan Keistimewaan dan pindaan. Diplomatik dan Konsular 1957 adalah dipinda— ord. 5311957.
+12. Peruntukan-peruntukan Ordinan Keistimewaan
+
+<!-- marginal: dan pindaan. -->
+
+Diplomatik dan Konsular 1957 adalah dipinda—
+
+<!-- marginal: ord. 5311957. -->
 
 (a) dengan memansuhkan Bahagian III Ordinan itu; dan
 
@@ -754,6 +826,8 @@ Pindaan
 
 <!-- page 24 -->
 
+<!-- marginal: Seksyen -->
+
 Pindaan
 
 (b) gantikan perkataan-perkataan "such sovereign, government or organisation" di mana-mana jua ia terdapat dengan perkataan-perkataan "such sovereign or government";
@@ -766,11 +840,7 @@ Pindaan
 
 (3) Dalam subseksyen (5)—
 
-(a) gantikan perkataan-perkataan
-
-<!-- marginal: "any -->
-
-sovereign, government or international organisation" dengan perkataan-perkataan "any sovereign or government";
+(a) gantikan perkataan-perkataan "any sovereign, government or international organisation" dengan perkataan-perkataan "any sovereign or government";
 
 (b) gantikan perkataan-perkataan "such sovereign, government or organisation" di mana-mana jua ia terdapat dengan perkataan-perkataan "such sovereign or government";
 

@@ -12,13 +12,21 @@ __________________
 
 ## PRELIMINARY
 
-1. Short title and commencement 2. Interpretation
+1. Short title and commencement
+
+2. Interpretation
 
 ## PART II
 
 ## FORENSIC DNA DATABANK MALAYSIA
 
-3. Establishment of DNA Databank 4. Objectives of DNA Databank 5. Function DNA Databank 6. Power of Minister to designate agency or body to carry out forensic DNA analysis
+3. Establishment of DNA Databank
+
+4. Objectives of DNA Databank
+
+5. Function DNA Databank
+
+6. Power of Minister to designate agency or body to carry out forensic DNA analysis
 
 ## PART III
 
@@ -26,7 +34,13 @@ __________________
 
 ## AND DNA DATABANK OFFICERS
 
-7. Appointment of Head of DNA Databank, Deputy Head and other officers 8. Functions and powers of Head of DNA Databank 9. Rectification of particulars in DNA profile and information 10. Power of Minister to give directions Clause
+7. Appointment of Head of DNA Databank, Deputy Head and other officers
+
+8. Functions and powers of Head of DNA Databank
+
+9. Rectification of particulars in DNA profile and information
+
+10. Power of Minister to give directions Clause
 
 <!-- page 2 -->
 
@@ -38,13 +52,31 @@ __________________
 
 ## SAMPLES AND REMOVAL OF DNA PROFILE AND INFORMATION
 
-12. Taking of intimate sample 13. Taking of non-intimate sample 14. Refusal to give sample 15. Sample given voluntarily 16. DNA sample of prisoner 17. Storage and disposal of intimate and non-intimate samples 18. Removal of DNA profile and information from suspected persons index
+12. Taking of intimate sample
+
+13. Taking of non-intimate sample
+
+14. Refusal to give sample
+
+15. Sample given voluntarily
+
+16. DNA sample of prisoner
+
+17. Storage and disposal of intimate and non-intimate samples
+
+18. Removal of DNA profile and information from suspected persons index
 
 ## PART V
 
 ## OFFENCES
 
-19. Offence of tampering, abetting or attempting to tamper with sample 20. Unauthorized use or communication of DNA profile or information 21. Obligation of secrecy 22. Offence of tampering, abetting or attempting to tamper with DNA profile or information
+19. Offence of tampering, abetting or attempting to tamper with sample
+
+20. Unauthorized use or communication of DNA profile or information
+
+21. Obligation of secrecy
+
+22. Offence of tampering, abetting or attempting to tamper with DNA profile or information
 
 ## PART VI
 
@@ -144,7 +176,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ### Establishment of DNA Databank
 
-3. (1) A DNA databank by the name of “the Forensic DNA Databank Malaysia” is established.
+3.
+
+(1) A DNA databank by the name of “the Forensic DNA Databank Malaysia” is established.
 
 (2) The DNA Databank shall be under the management, control and supervision of the Head of DNA Databank.
 
@@ -184,7 +218,9 @@ information in relation thereto derived from an intimate sample or a non-intimat
 
 ### Objectives of DNA Databank
 
-4. (1) The primary objective of the DNA Databank is to keep and maintain the indices referred to in subsection 3(3) for the purpose of human identification in relation to forensic investigation.
+4.
+
+(1) The primary objective of the DNA Databank is to keep and maintain the indices referred to in subsection 3(3) for the purpose of human identification in relation to forensic investigation.
 
 <!-- page 10 -->
 
@@ -572,9 +608,7 @@ in respect of any act, neglect, default or omission done by him in good faith in
 
 This Bill seeks to provide for the establishment of a Forensic DNA Databank, the taking of DNA samples, forensic DNA analysis, the use of DNA profiles and any information related to it and for matters connected therewith.
 
-2.
-
-## Part I of the proposed Act contains preliminary matters.
+2. Part I of the proposed Act contains preliminary matters.
 
 3. Clause 1 contains the short title of the proposed Act and empowers the Minister to appoint a date of coming into operation of the proposed Act.
 
@@ -600,9 +634,7 @@ to carry out forensic DNA analysis in the event the Chemistry Department of Mala
 
 ## PART III
 
-9.
-
-## Part III of the proposed Act deals with matters of administration.
+9. Part III of the proposed Act deals with matters of administration.
 
 10. Clause 7 provides for the appointment of Head of DNA Databank, Deputy Head of DNA Databank and DNA Databank officers.
 

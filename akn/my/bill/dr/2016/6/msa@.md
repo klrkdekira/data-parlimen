@@ -80,11 +80,11 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ## “PART III
 
-Ship perSonnel
+## SHIP PERSONNEL
 
 Preliminary
 
-Application.
+<!-- marginal: Application. -->
 
 69. This Part shall, unless otherwise provided, apply to all ships except—
 
@@ -130,17 +130,39 @@ Interpretation. 70. In this Part, unless the context otherwise requires—
 
 Manning and qualification
 
-Safe-manning
+<!-- marginal: Safe-manning -->
 
-71. (1) A safe-manning document that provides for document. the minimum number of ship personnel required to safely and securely man a ship shall be issued—
+71. (1) A safe-manning document that provides for
+
+<!-- marginal: document. -->
+
+the minimum number of ship personnel required to safely and securely man a ship shall be issued—
 
 (a) in the case of a Malaysian ship, by the Director of Marine; or
 
 (b) in the case of a foreign ship, by or on behalf of the government of the flag State.
 
-Manning and
+<!-- marginal: Manning and -->
 
-72. (1) Every owner or master shall ensure that their prohibition ship has a sufficient number of ship personnel on of going on board in accordance with the safe-manning document a voyage or before the ship can go on a voyage or an excursion. an excursion undermanned. (2) When a ship is not on a voyage or an excursion the owner or master shall ensure that sufficient number of ship personnel are on board the ship at all times to adequately respond to any situation which may affect the safety of the ship, ship personnel or environment.
+72. (1) Every owner or master shall ensure that their
+
+<!-- marginal: prohibition -->
+
+ship has a sufficient number of ship personnel on
+
+<!-- marginal: of going on -->
+
+board in accordance with the safe-manning document
+
+<!-- marginal: a voyage or -->
+
+before the ship can go on a voyage or an excursion.
+
+<!-- marginal: an excursion -->
+
+<!-- marginal: undermanned. -->
+
+(2) When a ship is not on a voyage or an excursion the owner or master shall ensure that sufficient number of ship personnel are on board the ship at all times to adequately respond to any situation which may affect the safety of the ship, ship personnel or environment.
 
 (3) If a ship goes on a voyage or an excursion or attempts to go on a voyage or an excursion in contravention of subsection (1), the owner or master of the ship commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit, and the ship, if in Malaysia, may be detained until the manning requirements are met.
 
@@ -158,9 +180,13 @@ Minimum age. 73. (1) Subject to the Children and Young Persons (Employment) Act 
 
 (3) Notwithstanding subsection (2), the Director of Marine may give an exemption to any person undergoing an approved training programme on board a ship subject to any condition that may be determined by the Director of Marine.
 
-Certification
+<!-- marginal: Certification -->
 
-74. (1) Every seafarer shall hold a certificate that of seafarer. verifies the competency and qualification of the seafarer to work on a ship—
+74. (1) Every seafarer shall hold a certificate that
+
+<!-- marginal: of seafarer. -->
+
+verifies the competency and qualification of the seafarer to work on a ship—
 
 (a) issued by the Director of Marine in accordance with the rules made under this Part; or
 
@@ -176,9 +202,17 @@ Certification
 
 <!-- page 7 -->
 
-Suspension or
+<!-- marginal: Suspension or -->
 
-75. (1) The Director of Marine shall give a seafarer cancellation of notice in writing that he intends to suspend or cancel certificate. the seafarer’s certificate issued under this Part if it appears to the Director of Marine that the seafarer—
+75. (1) The Director of Marine shall give a seafarer
+
+<!-- marginal: cancellation of -->
+
+notice in writing that he intends to suspend or cancel
+
+<!-- marginal: certificate. -->
+
+the seafarer’s certificate issued under this Part if it appears to the Director of Marine that the seafarer—
 
 (a) is unfit to be the holder of the certificate, whether by reason of incompetence or misconduct;
 
@@ -210,9 +244,13 @@ Suspension or
 
 (b) pursuant to subsection (5), the holder of the certificate may appeal to the Minister against the decision of the Director of Marine before the effective date of cancellation specified in the notice.
 
-Appeal
+<!-- marginal: Appeal -->
 
-76. (1) The Minister may establish an appeal Committee. committee to advise him on the decision by the Director of Marine in section 75.
+76. (1) The Minister may establish an appeal
+
+<!-- marginal: Committee. -->
+
+committee to advise him on the decision by the Director of Marine in section 75.
 
 (2) The Minister may appoint the following persons to be the Committee members:
 
@@ -226,7 +264,7 @@ Appeal
 
 <!-- page 9 -->
 
-Dispensation.
+<!-- marginal: Dispensation. -->
 
 77. (1) Subject to subsection (3), the Director of Marine may, in circumstances of exceptional necessity and if in his opinion it does not cause danger to person, property or the environment, issue a dispensation permitting a specified seafarer to serve in a specified ship in a capacity for which he does not hold the appropriate certificate, for a period not exceeding six months.
 
@@ -244,9 +282,11 @@ Dispensation.
 
 (6) Records of all dispensations issued under this section shall be kept by the owner and readily available for inspection, and an annual report on the dispensation shall be submitted to the Director of Marine and such other parties as may be required by the Director of Marine.
 
-Forgery of
+<!-- marginal: Forgery of -->
 
-78. (1) Any person shall not— certificate, etc.
+78. (1) Any person shall not—
+
+<!-- marginal: certificate, etc. -->
 
 (a) forge or assist in forging or procure to be forged any certificate, dispensation, or other document required under this Part;
 
@@ -260,9 +300,17 @@ Forgery of
 
 (2) Any person who fails to comply with subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both.
 
-Training and
+<!-- marginal: Training and -->
 
-79. (1) Every owner shall provide adequate training familiarization and familiarization to seafarers to ensure that the of seafarer. seafarers—
+79. (1) Every owner shall provide adequate training
+
+<!-- marginal: familiarization -->
+
+and familiarization to seafarers to ensure that the
+
+<!-- marginal: of seafarer. -->
+
+seafarers—
 
 (a) are adequately trained and familiarized with their specific duties and with all the ship arrangements, installations, equipments, procedures and ship characteristics that are relevant to their routine or emergency duties; and
 
@@ -272,33 +320,79 @@ Training and
 
 <!-- page 11 -->
 
-Accessibility
+<!-- marginal: Accessibility -->
 
-80. (1) The owner shall ensure that all documentations to seafarers’ and data relevant to all seafarers employed on the documentations. owner’s ship including documentation and data on their experience, training, medical fitness and competency in assigned duties are maintained and readily accessible.
+80. (1) The owner shall ensure that all documentations
+
+<!-- marginal: to seafarers’ -->
+
+and data relevant to all seafarers employed on the
+
+<!-- marginal: documentations. -->
+
+owner’s ship including documentation and data on their experience, training, medical fitness and competency in assigned duties are maintained and readily accessible.
 
 (2) Any seafarer employed to serve on board any ship and hold a certificate issued or recognized under this Part shall, on demand, produce the seafarer’s certificate to the Port Officer or any authorized officer.
 
 (3) Any person who fails to comply with subsections (1) and (2) commits an offence and shall, on conviction, be liable to a fine not exceeding twenty-five thousand ringgit.
 
-Accessibility
+<!-- marginal: Accessibility -->
 
-81. (1) Every owner shall ensure that the latest to legislations Malaysian legislations, notices, international rules and and publications, and other documents relating publications. to maritime transport safety, security and marine environment are readily accessible on board the owner’s ship.
+81. (1) Every owner shall ensure that the latest
+
+<!-- marginal: to legislations -->
+
+Malaysian legislations, notices, international rules
+
+<!-- marginal: and -->
+
+and publications, and other documents relating
+
+<!-- marginal: publications. -->
+
+to maritime transport safety, security and marine environment are readily accessible on board the owner’s ship.
 
 (2) For the purposes of subsection (1), the Director of Marine may determine the list of legislations and publications through Malaysia Shipping Notices.
 
 (3) The owner who fails to comply with subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding twenty-five thousand ringgit for each ship in respect of which an offence is committed.
 
-Order or
+<!-- marginal: Order or -->
 
-82. (1) Every owner shall ensure that the order or instruction instruction given to seafarers who are on board a in national ship is either in the national language or English language language. or English language. (2) The owner who fails to comply with subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding twenty-five thousand ringgit.
+82. (1) Every owner shall ensure that the order or
+
+<!-- marginal: instruction -->
+
+instruction given to seafarers who are on board a
+
+<!-- marginal: in national -->
+
+ship is either in the national language or English
+
+<!-- marginal: language -->
+
+language.
+
+<!-- marginal: or English -->
+
+<!-- marginal: language. -->
+
+(2) The owner who fails to comply with subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding twenty-five thousand ringgit.
 
 <!-- page 12 -->
 
 Conditions of Service
 
-Seafarer
+<!-- marginal: Seafarer -->
 
-83. (1) A contract between a seafarer employed employment on board a Malaysian ship and the owner shall be contract. made in writing and shall be signed by the seafarer and the owner or any other person authorized by the owner.
+83. (1) A contract between a seafarer employed
+
+<!-- marginal: employment -->
+
+on board a Malaysian ship and the owner shall be
+
+<!-- marginal: contract. -->
+
+made in writing and shall be signed by the seafarer and the owner or any other person authorized by the owner.
 
 (2) A seafarer shall be given the opportunity to examine the seafarer employment contract to have a clear understanding of his rights and responsibilities before signing the contract.
 
@@ -306,13 +400,33 @@ Seafarer
 
 (4) The owner or any other person who fails to comply with this section commits an offence and shall, on conviction, be liable to a fine not exceeding twenty-five thousand ringgit.
 
-Breach of
+<!-- marginal: Breach of -->
 
-84. A seafarer employment contract shall be deemed seafarer to be breached by an owner if he fails to provide employment work. contract.
+84. A seafarer employment contract shall be deemed
 
-Termination
+<!-- marginal: seafarer -->
 
-85. (1) Either party to a seafarer employment contract of seafarer may at any time give to the other party a written employment notice of his intention to terminate the contract. contract.
+to be breached by an owner if he fails to provide
+
+<!-- marginal: employment -->
+
+work.
+
+<!-- marginal: contract. -->
+
+<!-- marginal: Termination -->
+
+85. (1) Either party to a seafarer employment contract
+
+<!-- marginal: of seafarer -->
+
+may at any time give to the other party a written
+
+<!-- marginal: employment -->
+
+notice of his intention to terminate the contract.
+
+<!-- marginal: contract. -->
 
 (2) If the seafarer employment contract has been made for a specified period of time, the contract is terminated when the time has expired unless otherwise terminated in accordance with this Part.
 
@@ -328,15 +442,33 @@ Termination
 
 (b) the time of expiry after arrival before the seafarer should be discharged.
 
-Termination
+<!-- marginal: Termination -->
 
-86. (1) Either party to a seafarer employment contract of contract may terminate the contract without notice or, if without notice. notice has already been given in accordance with section 85, without waiting for the expiry of that notice, by paying to the other party an indemnity of a sum equal to the amount of wages which would have been accrued to the seafarer during the term of such notice or during the unexpired term of such notice.
+86. (1) Either party to a seafarer employment contract
+
+<!-- marginal: of contract -->
+
+may terminate the contract without notice or, if
+
+<!-- marginal: without notice. -->
+
+notice has already been given in accordance with section 85, without waiting for the expiry of that notice, by paying to the other party an indemnity of a sum equal to the amount of wages which would have been accrued to the seafarer during the term of such notice or during the unexpired term of such notice.
 
 (2) Either party to a seafarer employment contract may terminate the contract without notice in the event of any wilful breach by the other party of a condition of the contract.
 
-Termination
+<!-- marginal: Termination -->
 
-87. (1) An owner may, on the grounds of misconduct of contract or breach of the express or implied conditions of the for special seafarer employment contract, after due inquiry— reasons.
+87. (1) An owner may, on the grounds of misconduct
+
+<!-- marginal: of contract -->
+
+or breach of the express or implied conditions of the
+
+<!-- marginal: for special -->
+
+seafarer employment contract, after due inquiry—
+
+<!-- marginal: reasons. -->
 
 (a) dismiss the seafarer without notice; or
 
@@ -344,9 +476,13 @@ Termination
 
 (2) For the purposes of an inquiry under subsection (1), the owner may suspend the seafarer from work for a period not exceeding two weeks but shall pay him not less than half of his wages for such period and if the inquiry does not disclose any misconduct on the part of the seafarer, the owner shall forthwith restore to the seafarer the full amount of wages so withheld.
 
-Discharge of
+<!-- marginal: Discharge of -->
 
-88. (1) If a seafarer employed on board a Malaysian seafarers. ship is to be discharged from the Article of Agreement, the master shall notify the Port Officer of the discharge.
+88. (1) If a seafarer employed on board a Malaysian
+
+<!-- marginal: seafarers. -->
+
+ship is to be discharged from the Article of Agreement, the master shall notify the Port Officer of the discharge.
 
 <!-- page 14 -->
 
@@ -360,9 +496,25 @@ Discharge of
 
 (6) The master or owner who fails to comply with subsection (1) or (2) commits an offence and shall, on conviction, be liable to a fine not exceeding five thousand ringgit.
 
-Obligation of
+<!-- marginal: Obligation of -->
 
-89. (1) Notwithstanding any agreement to the owner with contrary, there shall be an implied obligation on the respect to owner in every seafarer employment contract that seaworthiness the owner and every agent charged with the loading, of ship. preparing or sending of the ship on a voyage or an excursion shall use all reasonable means—
+89. (1) Notwithstanding any agreement to the
+
+<!-- marginal: owner with -->
+
+contrary, there shall be an implied obligation on the
+
+<!-- marginal: respect to -->
+
+owner in every seafarer employment contract that
+
+<!-- marginal: seaworthiness -->
+
+the owner and every agent charged with the loading,
+
+<!-- marginal: of ship. -->
+
+preparing or sending of the ship on a voyage or an excursion shall use all reasonable means—
 
 (a) to ensure the seaworthiness of the ship for a voyage or an excursion at the time when the voyage or excursion commences; and
 
@@ -426,9 +578,13 @@ the immediate safety of the ship, person on board or cargo or for the purposes o
 
 (13) Any master or owner who fails to comply with this section commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit.
 
-Entitlement to
+<!-- marginal: Entitlement to -->
 
-91. (1) The owner shall ensure that every seafarer leave. employed on board a Malaysian ship is given paid annual leave as calculated on the basis of a minimum of 2.5 calendar days per month of employment.
+91. (1) The owner shall ensure that every seafarer
+
+<!-- marginal: leave. -->
+
+employed on board a Malaysian ship is given paid annual leave as calculated on the basis of a minimum of 2.5 calendar days per month of employment.
 
 (2) Seafarers shall be granted shore leave to benefit their health and well-being and consistent with the operational requirements of their positions.
 
@@ -438,7 +594,7 @@ Entitlement to
 
 <!-- page 18 -->
 
-Repatriation.
+<!-- marginal: Repatriation. -->
 
 92. (1) A seafarer on board a Malaysian ship shall be entitled to repatriation at no cost.
 
@@ -458,9 +614,25 @@ Repatriation.
 
 <!-- page 19 -->
 
-Relief and
+<!-- marginal: Relief and -->
 
-93. (1) If a seafarer on board a Malaysian ship return of is left behind in any country outside Malaysia or seafarer left is taken to any country outside Malaysia in the behind and event of a shipwreck, the owner who last employed shipwrecked. him as a seafarer shall make such provisions for his return and for his relief and maintenance for a period of not more than two months or until his return, whichever is earlier.
+93. (1) If a seafarer on board a Malaysian ship
+
+<!-- marginal: return of -->
+
+is left behind in any country outside Malaysia or
+
+<!-- marginal: seafarer left -->
+
+is taken to any country outside Malaysia in the
+
+<!-- marginal: behind and -->
+
+event of a shipwreck, the owner who last employed
+
+<!-- marginal: shipwrecked. -->
+
+him as a seafarer shall make such provisions for his return and for his relief and maintenance for a period of not more than two months or until his return, whichever is earlier.
 
 (2) For the purposes of subsection (1), the Port Officer or any authorized officer may issue a conveyance order to the master of any Malaysian ship to convey the person to a place agreed in the seafarer employment contract.
 
@@ -468,9 +640,21 @@ Relief and
 
 (4) If any expense is incurred by any person in respect of any matter for which the owner of a seafarer is required to provide or perform under subsection (1) or (2), such person shall be entitled to recover the expenses incurred from the owner.
 
-Duty of
+<!-- marginal: Duty of -->
 
-94. (1) The owner of a Malaysian ship, at his cost, owner in case shall ensure that the body and property of a seafarer of death of who dies on board the owner’s ship are properly seafarer. maintained and delivered to the next of kin named in the Article of Agreement.
+94. (1) The owner of a Malaysian ship, at his cost,
+
+<!-- marginal: owner in case -->
+
+shall ensure that the body and property of a seafarer
+
+<!-- marginal: of death of -->
+
+who dies on board the owner’s ship are properly
+
+<!-- marginal: seafarer. -->
+
+maintained and delivered to the next of kin named in the Article of Agreement.
 
 (2) Any claim on board the ship against the deceased property is prohibited.
 
@@ -478,7 +662,7 @@ Duty of
 
 Wages
 
-Wages.
+<!-- marginal: Wages. -->
 
 95. (1) The owner of a Malaysian ship shall pay seafarers’ wages not later than the end of the month and in accordance with the seafarer employment contract or any applicable collective agreement.
 
@@ -506,13 +690,37 @@ commits an offence and shall, on conviction, be liable to a fine of not less tha
 
 <!-- page 21 -->
 
-Mode of
+<!-- marginal: Mode of -->
 
-96. Wages shall be paid in legal tender by way payment of of a bank transfer, bank cheque, postal cheque or wages. money order.
+96. Wages shall be paid in legal tender by way
 
-Payment on
+<!-- marginal: payment of -->
 
-97. (1) If an owner terminates the seafarer termination employment contract without notice in accordance of contract with subsection 86(1) or (2), or paragraph 87(1)(a), in special the owner shall pay the followings to the seafarer not circumstances. later than the day on which the seafarer employment contract is terminated:
+of a bank transfer, bank cheque, postal cheque or
+
+<!-- marginal: wages. -->
+
+money order.
+
+<!-- marginal: Payment on -->
+
+97. (1) If an owner terminates the seafarer
+
+<!-- marginal: termination -->
+
+employment contract without notice in accordance
+
+<!-- marginal: of contract -->
+
+with subsection 86(1) or (2), or paragraph 87(1)(a),
+
+<!-- marginal: in special -->
+
+the owner shall pay the followings to the seafarer not
+
+<!-- marginal: circumstances. -->
+
+later than the day on which the seafarer employment contract is terminated:
 
 (a) the wages, less any deductions which the owner is entitled to make under section 98, earned by the seafarer up to and including the day immediately preceding the day on which the termination of the seafarer employment contract takes effect; and
 
@@ -520,9 +728,13 @@ Payment on
 
 (2) If a seafarer terminates his employment contract with an owner without notice in accordance with section 86, the wages, less any deduction which the owner is entitled to make under section 98, earned by the seafarer up to and including the day immediately preceding the day on which the termination of the seafarer employment contract takes effect shall be paid by the owner to the seafarer not later than the third day after the day on which the seafarer employment contract is terminated.
 
-Lawful
+<!-- marginal: Lawful -->
 
-98. (1) The owner of a Malaysian ship shall not deductions. make any deduction from the wages of a seafarer otherwise than in accordance with this Part.
+98. (1) The owner of a Malaysian ship shall not
+
+<!-- marginal: deductions. -->
+
+make any deduction from the wages of a seafarer otherwise than in accordance with this Part.
 
 (2) It shall be lawful for an owner to make the following deductions:
 
@@ -540,9 +752,13 @@ Lawful
 
 (5) Notwithstanding subsections (2), (3) and (4), the Director of Marine may, on an application by an owner or a specified class or classes of owners, permit any deduction for a specified purpose from the wages of a seafarer or a specified class or classes of seafarers subject to such conditions as he considers fit to impose.
 
-Allotment
+<!-- marginal: Allotment -->
 
-99. (1) The owner of a Malaysian ship shall provide of wages. a mechanism for every seafarer, at the time when the seafarer enter into employment or during the employment, to allot, if the seafarer so desire, a proportion of the seafarer wages for remittance at regular intervals to his families or dependants.
+99. (1) The owner of a Malaysian ship shall provide
+
+<!-- marginal: of wages. -->
+
+a mechanism for every seafarer, at the time when the seafarer enter into employment or during the employment, to allot, if the seafarer so desire, a proportion of the seafarer wages for remittance at regular intervals to his families or dependants.
 
 (2) Any allotment agreed to be made by the seafarer shall be included in the seafarer employment contract.
 
@@ -556,25 +772,53 @@ Allotment
 
 (6) The owner who fails to comply with any of the requirements of this section, or the requirements determined by the Director of Marine as provided in subsection (5), commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit.
 
-Protection of
+<!-- marginal: Protection of -->
 
-100. (1) A seafarer’s lien, his remedies for the certain rights recovery of his wages, his right to wages in the and remedies. case of wreck or loss of the ship, and any right he may have or may obtain in the nature of salvage shall not be renounced by any agreement.
+100. (1) A seafarer’s lien, his remedies for the
+
+<!-- marginal: certain rights -->
+
+recovery of his wages, his right to wages in the
+
+<!-- marginal: and remedies. -->
+
+case of wreck or loss of the ship, and any right he may have or may obtain in the nature of salvage shall not be renounced by any agreement.
 
 (2) Subsection (1) does not affect any terms of the seafarer employment contract entered by the seafarer employed on a ship that provides salvage services, where the terms of that contract provide for remuneration to be paid to the seafarers for salvage services rendered by that ship.
 
 Health, accommodation and provisions
 
-Standards of
+<!-- marginal: Standards of -->
 
-101. (1) Every owner shall comply with the minimum health and standard for health and medical care, occupational medical care, safety, accommodation, recreational facilities and occupational provisions to be provided on board the Malaysian safety, etc. ship as prescribed by the Minister.
+101. (1) Every owner shall comply with the minimum
+
+<!-- marginal: health and -->
+
+standard for health and medical care, occupational
+
+<!-- marginal: medical care, -->
+
+safety, accommodation, recreational facilities and
+
+<!-- marginal: occupational -->
+
+provisions to be provided on board the Malaysian
+
+<!-- marginal: safety, etc. -->
+
+ship as prescribed by the Minister.
 
 (2) Any owner who fails to comply with subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit.
 
 <!-- page 24 -->
 
-Fitness of
+<!-- marginal: Fitness of -->
 
-102. (1) Every seafarer shall not be permitted seafarer. to work on board a Malaysian ship unless he is medically fit.
+102. (1) Every seafarer shall not be permitted
+
+<!-- marginal: seafarer. -->
+
+to work on board a Malaysian ship unless he is medically fit.
 
 (2) The owner shall ensure that the seafarer employed on board is medically fit in accordance with the rules made under this Part.
 
@@ -582,9 +826,19 @@ Fitness of
 
 (4) Any person who fails to comply with subsection (1) or (2) commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit.
 
-Health
+<!-- marginal: Health -->
 
-103. (1) The owner of every Malaysian ship and protection, any foreign ship within Malaysian waters shall medical care, provide— etc.
+103. (1) The owner of every Malaysian ship and
+
+<!-- marginal: protection, -->
+
+any foreign ship within Malaysian waters shall
+
+<!-- marginal: medical care, -->
+
+provide—
+
+<!-- marginal: etc. -->
 
 (a) adequate health protection and medical care for seafarers employed on board the ship; and
 
@@ -608,23 +862,67 @@ Health
 
 (b) subsection (3) commits an offence and shall, on conviction, be liable to a fine not exceeding twenty-five thousand ringgit.
 
-Inspection
+<!-- marginal: Inspection -->
 
-104. (1) A Port Officer or Port Health Officer may of health enter on board any ship within Malaysian waters protection, to inspect the health protection, medical care and medical care, medical supplies provided to seafarers employed on etc. board the ship.
+104. (1) A Port Officer or Port Health Officer may
+
+<!-- marginal: of health -->
+
+enter on board any ship within Malaysian waters
+
+<!-- marginal: protection, -->
+
+to inspect the health protection, medical care and
+
+<!-- marginal: medical care, -->
+
+medical supplies provided to seafarers employed on
+
+<!-- marginal: etc. -->
+
+board the ship.
 
 (2) The Port Officer or Port Health Officer may, if he is satisfied after the inspection that the ship has failed to comply with section 103, cause the ship to be detained until the deficiency has been rectified.
 
-Occupational
+<!-- marginal: Occupational -->
 
-105. The owner of a Malaysian ship and foreign ship safety and within Malaysian waters shall ensure that seafarers health are provided with occupational health protection and live, work and train on board the ship in a safe and hygienic environment as prescribed in the rules.
+105. The owner of a Malaysian ship and foreign ship
 
-Accommodation
+<!-- marginal: safety and -->
 
-106. The owner of a Malaysian ship shall provide and and maintain accommodation and recreational recreational facilities for every seafarer on board taking into facilities. consideration the seafarer’s health and well-being.
+within Malaysian waters shall ensure that seafarers
 
-Provisions of
+<!-- marginal: health -->
 
-107. (1) The owner of a Malaysian ship shall ensure drinking water that sufficient drinking water and food that are of and food. reasonable nutritional value, quality and variety are provided to every seafarer during the period of the seafarer’s employment on board the ship.
+are provided with occupational health protection and live, work and train on board the ship in a safe and hygienic environment as prescribed in the rules.
+
+<!-- marginal: Accommodation -->
+
+106. The owner of a Malaysian ship shall provide
+
+<!-- marginal: and -->
+
+and maintain accommodation and recreational
+
+<!-- marginal: recreational -->
+
+facilities for every seafarer on board taking into
+
+<!-- marginal: facilities. -->
+
+consideration the seafarer’s health and well-being.
+
+<!-- marginal: Provisions of -->
+
+107. (1) The owner of a Malaysian ship shall ensure
+
+<!-- marginal: drinking water -->
+
+that sufficient drinking water and food that are of
+
+<!-- marginal: and food. -->
+
+reasonable nutritional value, quality and variety are provided to every seafarer during the period of the seafarer’s employment on board the ship.
 
 <!-- page 26 -->
 
@@ -632,9 +930,13 @@ Provisions of
 
 Social Security
 
-Social security
+<!-- marginal: Social security -->
 
-108. (1) Every owner shall ensure that all seafarers for seafarers. who are either Malaysians or permanent residents of Malaysia employed on board a Malaysian ship are covered by the scheme set out in the following Acts:
+108. (1) Every owner shall ensure that all seafarers
+
+<!-- marginal: for seafarers. -->
+
+who are either Malaysians or permanent residents of Malaysia employed on board a Malaysian ship are covered by the scheme set out in the following Acts:
 
 (a) the Employees Social Security Act 1969 [Act 4]; and
 
@@ -658,9 +960,13 @@ Social security
 
 Documents and Returns
 
-Article of
+<!-- marginal: Article of -->
 
-109. (1) The master of every ship shall enter into Agreement. an agreement called Article of Agreement on behalf of the owner with every seafarer whom the master carries to sea from any port in Malaysia.
+109. (1) The master of every ship shall enter into
+
+<!-- marginal: Agreement. -->
+
+an agreement called Article of Agreement on behalf of the owner with every seafarer whom the master carries to sea from any port in Malaysia.
 
 (2) The Article of Agreement mentioned in subsection (1) shall be signed by the master and every seafarer in front of the Port Officer or any other officer authorized by the Director of Marine.
 
@@ -674,9 +980,13 @@ Article of
 
 (5) Any owner or master who fails to comply with subsection (1), (2) or (3) commits an offence and shall, on conviction, be liable to a fine not exceeding twenty-five thousand ringgit.
 
-Official
+<!-- marginal: Official -->
 
-110. (1) The master of a Malaysian ship shall log-book. maintain an official log-book of the ship in which shall be recorded all the required information as determined by the Director of Marine.
+110. (1) The master of a Malaysian ship shall
+
+<!-- marginal: log-book. -->
+
+maintain an official log-book of the ship in which shall be recorded all the required information as determined by the Director of Marine.
 
 (2) The master who fails to comply with subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding twenty-five thousand ringgit.
 
@@ -684,9 +994,17 @@ Official
 
 (3) Any person who wilfully destroys, mutilate or renders illegible any entry in an official log-book, commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding three years.
 
-Seafarer
+<!-- marginal: Seafarer -->
 
-111. (1) Every Malaysian seafarer shall hold a valid identity seafarer identity document issued in accordance with document. the rules made under this Part.
+111. (1) Every Malaysian seafarer shall hold a valid
+
+<!-- marginal: identity -->
+
+seafarer identity document issued in accordance with
+
+<!-- marginal: document. -->
+
+the rules made under this Part.
 
 (2) Every foreign seafarer employed on board a Malaysian ship shall—
 
@@ -698,17 +1016,33 @@ Seafarer
 
 (4) Any person who makes a false statement for the purpose of obtaining a Malaysian seafarer identity document for himself or another person commits an offence and shall, on conviction, be liable to a fine not exceeding twenty thousand ringgit or to imprisonment for a term not exceeding three years or to both.
 
-Seafarer record
+<!-- marginal: Seafarer record -->
 
-112. (1) Every seafarer employed on board book. a Malaysian ship shall hold a seafarer record book issued or recognized by the Director of Marine.
+112. (1) Every seafarer employed on board
+
+<!-- marginal: book. -->
+
+a Malaysian ship shall hold a seafarer record book issued or recognized by the Director of Marine.
 
 (2) Any seafarer who fails to comply with subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding five thousand ringgit.
 
 <!-- page 29 -->
 
-Handing over
+<!-- marginal: Handing over -->
 
-113. (1) If a person ceases to be the master of of documents a Malaysian ship, he shall immediately deliver or on change of cause to be delivered to his successor all documents master. relating to the ship and its crew which are in his custody.
+113. (1) If a person ceases to be the master of
+
+<!-- marginal: of documents -->
+
+a Malaysian ship, he shall immediately deliver or
+
+<!-- marginal: on change of -->
+
+cause to be delivered to his successor all documents
+
+<!-- marginal: master. -->
+
+relating to the ship and its crew which are in his custody.
 
 (2) The successor shall, immediately on assuming the command of the ship, enter in the official log-book a list of the documents delivered to him.
 
@@ -716,9 +1050,25 @@ Handing over
 
 Conduct, Discipline and Inquiries
 
-Conduct
+<!-- marginal: Conduct -->
 
-114. (1) Any seafarer or any other person on board endangering a Malaysian ship or on board any foreign ship in ships, any port in Malaysia or within Malaysian waters, structures or who by wilful breach or neglect of duty, or under individuals. the influence of alcohol, drugs or otherwise, does, omits or fails to do the following, commits an offence and shall, on conviction, be liable to a fine not exceeding two hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both:
+114. (1) Any seafarer or any other person on board
+
+<!-- marginal: endangering -->
+
+a Malaysian ship or on board any foreign ship in
+
+<!-- marginal: ships, -->
+
+any port in Malaysia or within Malaysian waters,
+
+<!-- marginal: structures or -->
+
+who by wilful breach or neglect of duty, or under
+
+<!-- marginal: individuals. -->
+
+the influence of alcohol, drugs or otherwise, does, omits or fails to do the following, commits an offence and shall, on conviction, be liable to a fine not exceeding two hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both:
 
 (a) does any act which causes or is likely to cause—
 
@@ -766,9 +1116,17 @@ Conduct
 
 (b) in relation to a master, includes the master’s duty with respect to the good management of his ship and the safety of operation of his ship, its machinery and equipment.
 
-Concerted
+<!-- marginal: Concerted -->
 
-115. (1) A seafarer employed on board a Malaysian disobedience ship shall not— and neglect of duty.
+115. (1) A seafarer employed on board a Malaysian
+
+<!-- marginal: disobedience -->
+
+ship shall not—
+
+<!-- marginal: and neglect of -->
+
+<!-- marginal: duty. -->
 
 (a) disobey lawful commands which are required to be obeyed while the ship is at sea;
 
@@ -784,7 +1142,7 @@ Concerted
 
 Maritime Labour Certificate or Interim Maritime Labour Certificate
 
-Application.
+<!-- marginal: Application. -->
 
 116. (1) This Chapter applies to—
 
@@ -798,9 +1156,27 @@ Application.
 
 (3) This Chapter does not apply to any ship which navigates exclusively in inland waters or waters within, or closely adjacent to, sheltered waters or areas where port regulations apply.
 
-Maritime
+<!-- marginal: Maritime -->
 
-117. (1) The owner shall ensure that his ship holds Labour a valid Maritime Labour Certificate or Interim Certificate Maritime Labour Certificate, as the case may be, and Interim before the ship can go on a voyage or an excursion. Maritime Labour Certificate.
+117. (1) The owner shall ensure that his ship holds
+
+<!-- marginal: Labour -->
+
+a valid Maritime Labour Certificate or Interim
+
+<!-- marginal: Certificate -->
+
+Maritime Labour Certificate, as the case may be,
+
+<!-- marginal: and Interim -->
+
+before the ship can go on a voyage or an excursion.
+
+<!-- marginal: Maritime -->
+
+<!-- marginal: Labour -->
+
+<!-- marginal: Certificate. -->
 
 (2) The owner of the ship shall make an application for the Maritime Labour Certificate to the Director of Marine.
 
@@ -836,11 +1212,37 @@ Maritime
 
 <!-- page 34 -->
 
-Suspension
+<!-- marginal: Suspension -->
 
-118. (1) The Director of Marine may direct the or revocation owner to take corrective action and suspend the of Maritime Maritime Labour Certificate or Interim Maritime Labour Certificate Labour Certificate, as the case may be, if he is and Interim satisfied that— Maritime Labour
+118. (1) The Director of Marine may direct the
 
-(a) there has been a contravention of any Certificate. provision of this Part or any rules made under this Part; or
+<!-- marginal: or revocation -->
+
+owner to take corrective action and suspend the
+
+<!-- marginal: of Maritime -->
+
+Maritime Labour Certificate or Interim Maritime
+
+<!-- marginal: Labour -->
+
+<!-- marginal: Certificate -->
+
+Labour Certificate, as the case may be, if he is
+
+<!-- marginal: and Interim -->
+
+satisfied that—
+
+<!-- marginal: Maritime -->
+
+<!-- marginal: Labour -->
+
+(a) there has been a contravention of any
+
+<!-- marginal: Certificate. -->
+
+provision of this Part or any rules made under this Part; or
 
 (b) there has been a breach of any condition of the Maritime Labour Certificate or Interim Maritime Labour Certificate.
 
@@ -848,25 +1250,83 @@ Suspension
 
 (3) The Maritime Labour Certificate or Interim Maritime Labour Certificate shall not be revoked unless the owner of the ship has been given a reasonable opportunity to make a representation against the intended revocation.
 
-Surrender
+<!-- marginal: Surrender -->
 
-119. (1) Upon the revocation or expiry of the of Maritime Maritime Labour Certificate or Interim Maritime Labour Labour Certificate, the owner or master shall Certificate and Interim surrender the certificate to the Director of Marine Maritime within fourteen days from the date of its revocation Labour or expiry. Certificate.
+119. (1) Upon the revocation or expiry of the
+
+<!-- marginal: of Maritime -->
+
+Maritime Labour Certificate or Interim Maritime
+
+<!-- marginal: Labour -->
+
+Labour Certificate, the owner or master shall
+
+<!-- marginal: Certificate -->
+
+<!-- marginal: and Interim -->
+
+surrender the certificate to the Director of Marine
+
+<!-- marginal: Maritime -->
+
+within fourteen days from the date of its revocation
+
+<!-- marginal: Labour -->
+
+or expiry.
+
+<!-- marginal: Certificate. -->
 
 (2) Any owner or master who fails to comply with subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding twenty-five thousand ringgit.
 
 <!-- page 35 -->
 
-Replacement
+<!-- marginal: Replacement -->
 
-120. (1) If the Maritime Labour Certificate or of Maritime Interim Maritime Labour Certificate issued under Labour section 117 is lost, defaced or destroyed, the Director Certificate of Marine may, upon receipt of an application from and Interim the owner and upon payment of the prescribed Maritime Labour fee, issue a replacement of the Maritime Labour Certificate. Certificate or Interim Maritime Labour Certificate.
+120. (1) If the Maritime Labour Certificate or
+
+<!-- marginal: of Maritime -->
+
+Interim Maritime Labour Certificate issued under
+
+<!-- marginal: Labour -->
+
+section 117 is lost, defaced or destroyed, the Director
+
+<!-- marginal: Certificate -->
+
+of Marine may, upon receipt of an application from
+
+<!-- marginal: and Interim -->
+
+the owner and upon payment of the prescribed
+
+<!-- marginal: Maritime -->
+
+<!-- marginal: Labour -->
+
+fee, issue a replacement of the Maritime Labour
+
+<!-- marginal: Certificate. -->
+
+Certificate or Interim Maritime Labour Certificate.
 
 (2) If the original Maritime Labour Certificate or Interim Maritime Labour Certificate is found after the replacement of the Maritime Labour Certificate or Interim Maritime Labour Certificate has been issued under of subsection (1), the original Maritime Labour Certificate or Interim Maritime Labour Certificate shall be deemed to have been revoked and of no effect.
 
 Miscellaneous
 
-Licence
+<!-- marginal: Licence -->
 
-121. (1) The Director of Marine may issue a licence to to supply a person to carry on the business of a private seafarers. employment agency to supply seafarers to serve on board ships.
+121. (1) The Director of Marine may issue a licence to
+
+<!-- marginal: to supply -->
+
+a person to carry on the business of a private
+
+<!-- marginal: seafarers. -->
+
+employment agency to supply seafarers to serve on board ships.
 
 (2) The Director of Marine may cancel the licence issued under subsection (1) if he is satisfied that the licensee—
 
@@ -884,9 +1344,13 @@ Licence
 
 (4) Any person who carries on the business of a private employment agency to supply seafarers without a valid licence commits an offence and shall, on conviction, be liable to a fine not exceeding two hundred thousand ringgit.
 
-Powers to
+<!-- marginal: Powers to -->
 
-122. (1) In addition to and not in derogation of investigate. any powers conferred on the Director of Marine or any authorized officer by this Ordinance in relation to enforcement, inspection and investigation, the Criminal Procedure Code [Act 593] shall apply to the Director of Marine or any authorized officer appointed by him as it applies to a police officer.
+122. (1) In addition to and not in derogation of
+
+<!-- marginal: investigate. -->
+
+any powers conferred on the Director of Marine or any authorized officer by this Ordinance in relation to enforcement, inspection and investigation, the Criminal Procedure Code [Act 593] shall apply to the Director of Marine or any authorized officer appointed by him as it applies to a police officer.
 
 (2) The Director of Marine or any authorized officer shall have the power to—
 
@@ -910,15 +1374,35 @@ Powers to
 
 commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding two years or to both.
 
-Inspection and
+<!-- marginal: Inspection and -->
 
-123. (1) The Director of Marine or any authorized detention. officer may enter on board and inspect any ship while in any port in Malaysia or within Malaysian waters and if he is satisfied after the inspection that there is a contravention of any provision of this Part or any rules made under this Part, the Director of Marine or the authorized officer may detain the ship.
+123. (1) The Director of Marine or any authorized
+
+<!-- marginal: detention. -->
+
+officer may enter on board and inspect any ship while in any port in Malaysia or within Malaysian waters and if he is satisfied after the inspection that there is a contravention of any provision of this Part or any rules made under this Part, the Director of Marine or the authorized officer may detain the ship.
 
 (2) The Director of Marine or any authorized officer may allow the detained ship under subsection (1) to leave any port in Malaysia or Malaysian waters for the purpose of continuing its voyage upon rectification of the defects or assurance by the owner to rectify the defects at the nearest port, to the satisfactory of the Director of Marine or any authorized officer.
 
-Reports of
+<!-- marginal: Reports of -->
 
-124. (1) The master of a Malaysian ship or any birth and foreign ship in Malaysian waters shall make a report death on board to the Director of Marine or to the nearest Port Malaysian Officer of any birth, death, accident or incident of ships, etc. a missing person occurring on board the ship during the voyage within twenty-four hours.
+124. (1) The master of a Malaysian ship or any
+
+<!-- marginal: birth and -->
+
+foreign ship in Malaysian waters shall make a report
+
+<!-- marginal: death on board -->
+
+to the Director of Marine or to the nearest Port
+
+<!-- marginal: Malaysian -->
+
+Officer of any birth, death, accident or incident of
+
+<!-- marginal: ships, etc. -->
+
+a missing person occurring on board the ship during the voyage within twenty-four hours.
 
 (2) If death, an accident or incident of a missing person occurred on board the ship or in relation to the ship, the master shall conduct an inquiry to
 
@@ -938,23 +1422,43 @@ determine the cause and nature of the event and shall immediately make a written
 
 (b) in the Article of Agreement and he is not absent without leave.
 
-Penalty for
+<!-- marginal: Penalty for -->
 
-125. (1) Any person who receives or takes into his detaining possession or under his control any money or effects seafarer’s of a seafarer, and does not return the same or pay effects. the value thereof, when required by the seafarer, subject to any deduction as is justly due to him from the seafarer in respect of board or lodging or otherwise, or absconds therewith commits an offence and shall, on conviction, be liable to a fine of not less than fifty thousand ringgit but not exceeding two hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both.
+125. (1) Any person who receives or takes into his
+
+<!-- marginal: detaining -->
+
+possession or under his control any money or effects
+
+<!-- marginal: seafarer’s -->
+
+of a seafarer, and does not return the same or pay
+
+<!-- marginal: effects. -->
+
+the value thereof, when required by the seafarer, subject to any deduction as is justly due to him from the seafarer in respect of board or lodging or otherwise, or absconds therewith commits an offence and shall, on conviction, be liable to a fine of not less than fifty thousand ringgit but not exceeding two hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both.
 
 (2) For the purposes of this section, “effects” includes personal belongings and documents.
 
 <!-- page 39 -->
 
-Procedures
+<!-- marginal: Procedures -->
 
-126. (1) Every owner of a Malaysian ship shall for making maintain a complaint procedures in accordance with complaint. the guidelines issued by the Director of Marine for the fair, effective, well-documented and expeditious handling of seafarer complaints.
+126. (1) Every owner of a Malaysian ship shall
+
+<!-- marginal: for making -->
+
+maintain a complaint procedures in accordance with
+
+<!-- marginal: complaint. -->
+
+the guidelines issued by the Director of Marine for the fair, effective, well-documented and expeditious handling of seafarer complaints.
 
 (2) The owner shall ensure that each seafarer employed on board the ship is provided with a copy of the complaint procedures.
 
 (3) Any owner who fails to comply with subsections (1) and (2) commits an offence and shall, on conviction, be liable to a fine not exceeding twenty-five thousand ringgit.
 
-Stowaway.
+<!-- marginal: Stowaway. -->
 
 127. (1) If a stowaway is detected on board a ship, the master shall—
 
@@ -984,17 +1488,33 @@ Stowaway.
 
 (c) reported as a stowaway by the owner and master to the appropriate authorities.
 
-Unauthorized
+<!-- marginal: Unauthorized -->
 
-128. (1) Any person other than an authorized officer presence on shall not board a vessel without the consent of the board ship. master.
+128. (1) Any person other than an authorized officer
+
+<!-- marginal: presence on -->
+
+shall not board a vessel without the consent of the
+
+<!-- marginal: board ship. -->
+
+master.
 
 (2) Any person other than an authorized officer shall not remain on board a vessel without the consent of the master.
 
 (3) Any person who fails to comply with this section commits an offence and shall, on conviction, be liable to a fine not exceeding five thousand ringgit.
 
-Master of
+<!-- marginal: Master of -->
 
-129. (1) The master of a Malaysian ship may ship’s power cause any person on board the ship to be put under to restrain. restraint if and for so long as it appears to him to be neces sary or expedient in the interest of safety or security, or for the preservation of good order or discipline on board the ship.
+129. (1) The master of a Malaysian ship may
+
+<!-- marginal: ship’s power -->
+
+cause any person on board the ship to be put under
+
+<!-- marginal: to restrain. -->
+
+restraint if and for so long as it appears to him to be neces sary or expedient in the interest of safety or security, or for the preservation of good order or discipline on board the ship.
 
 (2) If, in exercising his powers under subsection (1), the master restrains any person on board the ship, he shall notify a Port Officer as soon as possible of such restraint.
 
@@ -1002,9 +1522,13 @@ Master of
 
 (3) The master who fails to comply with subsection (2) commits an offence and shall, on conviction, be liable to a fine not exceeding five thousand ringgit.
 
-Power to
+<!-- marginal: Power to -->
 
-130. (1) The Minister may, after consultation with exempt. the owners’ and seafarers’ organizations, exempt by notification in the Gazette—
+130. (1) The Minister may, after consultation with
+
+<!-- marginal: exempt. -->
+
+the owners’ and seafarers’ organizations, exempt by notification in the Gazette—
 
 (a) any Malaysian ship or particular categories of Malaysian ships; or
 
@@ -1014,7 +1538,7 @@ from any of the provisions of this Part or any rules made under this Part if the
 
 (2) The Minister may, in granting any exemption under subsection (1), impose any terms and conditions on the Malaysian ship or particular categories of Malaysian ships, or any seafarer or particular categories of seafarer as he considers fit.
 
-Rules.
+<!-- marginal: Rules. -->
 
 131. (1) The Minister may make such rules as are necessary for the carrying into effect the provisions of this Part.
 
@@ -1088,7 +1612,13 @@ Rules.
 
 5. Ordinan dipinda dengan memasukkan selepas seksyen 404 seksyen yang berikut:
 
-“Minister may 404a. (1) Without prejudice to any provision make rules. under this Part or any other power to make rules or regulations conferred upon the Minister by this Part, the Minister may make rules for the carrying into effect the provisions of this Part and such rules may provide for—
+<!-- marginal: “Minister may -->
+
+404a. (1) Without prejudice to any provision
+
+<!-- marginal: make rules. -->
+
+under this Part or any other power to make rules or regulations conferred upon the Minister by this Part, the Minister may make rules for the carrying into effect the provisions of this Part and such rules may provide for—
 
 (a) the manner for the dealing of wrecks;
 
@@ -1154,11 +1684,7 @@ Rang Undang-Undang ini bertujuan untuk meminda Ordinan Perkapalan Saudagar 1952 
 
 4. Fasal 4 bertujuan untuk menggantikan Bahagian III Ordinan. Bahagian III yang dicadangkan memasukkan peruntukan baru yang selaras dengan kehendak di bawah Maritime Labour Convention 2006.
 
-Seksyen 69 baharu yang dicadangkan memperuntukkan pemakaian
-
-## Bahagian III yang dicadangkan. Bahagian III yang dicadangkan terpakai kepada
-
-semua kapal kecuali kapal yang disenaraikan dalam perenggan (a) hingga (i).
+Seksyen 69 baharu yang dicadangkan memperuntukkan pemakaian Bahagian III yang dicadangkan. Bahagian III yang dicadangkan terpakai kepada semua kapal kecuali kapal yang disenaraikan dalam perenggan (a) hingga (i).
 
 Seksyen 70 baharu yang dicadangkan mengandungi takrif perkataan dan ungkapan yang digunakan dalam Bahagian III yang dicadangkan.
 
@@ -1288,4 +1814,6 @@ Seksyen 131 baharu yang dicadangkan memberi Menteri kuasa untuk membuat kaedah-k
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN(U2)2912]
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
+
+<!-- marginal: [PN(U2)2912] -->

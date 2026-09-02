@@ -315,7 +315,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/27/msa@/~cl_20",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (1) yang dinomborkan semula itu— “(d) ahli Kumpulan Wang itu telah mencapai umur lima puluh lima tahun.”; dan"
+        "@value": "dalam subseksyen (1) yang dinomborkan semula itu—"
       }
     },
     {
@@ -345,7 +345,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/27/msa@/~cl_20__para_b",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perenggan (c) perenggan yang berikut:"
+        "@value": "dengan memasukkan selepas perenggan (c) perenggan yang berikut: “(d) ahli Kumpulan Wang itu telah mencapai umur lima puluh lima tahun.”; dan"
       }
     },
     {
@@ -470,7 +470,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/27/msa@/~cl_4",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam perenggan (a)— “(ii) bank atau bank pelaburan yang dilesenkan dengan sewajarnya di bawah Akta Perkhidmatan Kewangan 2013 [Akta 758]; atau”; “(iii) bank Islam yang dilesenkan dengan sewajarnya di bawah Akta Perkhidmatan Kewangan Islam 2013 [Akta 759]; atau”; dan “(iv) institusi kewangan pembangunan yang dikawal selia di bawah Akta Institusi Kewangan Pembangunan 2002 [Akta 618];”;"
+        "@value": "dalam perenggan (a)—"
       }
     },
     {
@@ -480,7 +480,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/27/msa@/~cl_4__para_a",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan subperenggan (ii) dengan subperenggan yang berikut:"
+        "@value": "dengan menggantikan subperenggan (ii) dengan subperenggan yang berikut: “(ii) bank atau bank pelaburan yang dilesenkan dengan sewajarnya di bawah Akta Perkhidmatan Kewangan 2013 [Akta 758]; atau”;"
       }
     },
     {
@@ -490,7 +490,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/27/msa@/~cl_4__para_a",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan subperenggan (iii) dengan subperenggan yang berikut:"
+        "@value": "dengan menggantikan subperenggan (iii) dengan subperenggan yang berikut: “(iii) bank Islam yang dilesenkan dengan sewajarnya di bawah Akta Perkhidmatan Kewangan Islam 2013 [Akta 759]; atau”; dan"
       }
     },
     {
@@ -500,7 +500,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/27/msa@/~cl_4__para_a",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas subperenggan (iii) subperenggan yang berikut:"
+        "@value": "dengan memasukkan selepas subperenggan (iii) subperenggan yang berikut: “(iv) institusi kewangan pembangunan yang dikawal selia di bawah Akta Institusi Kewangan Pembangunan 2002 [Akta 618];”;"
       }
     },
     {

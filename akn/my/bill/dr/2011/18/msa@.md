@@ -178,7 +178,9 @@ disiarkan dalam Warta; dan amaun yang berlainan boleh ditentukan berkenaan denga
 
 (11) Apa-apa minit yang dibuat mengenai mesyuarat jawatankuasa hendaklah, jika ditandatangani dengan sewajarnya, boleh diterima sebagai keterangan dalam semua prosiding undang-undang tanpa bukti selanjutnya.
 
-(12) Tiap-tiap mesyuarat jawatankuasa yang berkenaan dengan prosidingnya minit telah dibuat menurut subseksyen (10) dan (11) hendaklah disifatkan telah dipanggil dan diadakan dengan sewajarnya dan semua anggota dalam mesyuarat itu layak dengan sewajarnya untuk bertindak.
+(12) Tiap-tiap mesyuarat jawatankuasa yang berkenaan dengan prosidingnya minit telah dibuat menurut subseksyen
+
+(10) dan (11) hendaklah disifatkan telah dipanggil dan diadakan dengan sewajarnya dan semua anggota dalam mesyuarat itu layak dengan sewajarnya untuk bertindak.
 
 <!-- page 8 -->
 

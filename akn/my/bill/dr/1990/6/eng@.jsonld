@@ -136,7 +136,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/eng@/~cl_3",
       "schema:text": {
         "@language": "en",
-        "@value": "All goods vehicle levies charged and levied under the principal Act before the commencement of this Act are hereby validated and deemed to have been lawfully charged and levied pursuant to subsection (1) of section 3 of the principal Act as amended by subsection (1) (a) of this section, as if the said subsection (1) (a) had been in force when the same were charged and levied. Amendment"
+        "@value": "All goods vehicle levies charged and levied under the principal Act before the commencement of this Act are hereby validated and deemed to have been lawfully charged and levied pursuant to subsection (1) of section 3 of the principal Act as amended by subsection (1) (a) of this section, as if the said subsection (1) (a) had been in force when the same were charged and levied."
       }
     },
     {
@@ -144,9 +144,13 @@
       "@type": "akn:clause",
       "eli:number": "4",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 4 of the principal Act is amended by"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Section 4 of the principal Act is amended by of section 4. renumbering it as \"4. (1)\" and inserting immediately thereafter, the following new subsection (2): \"(2) The Minister may, if he is satisfied that it would be just and proper to do so, in the case of any particular goods vehicle or class of goods vehicle, direct the refund of the whole or any part of the goods vehicle levy paid pursuant subsection (4) of section 3 during such period as he may specify in the direction, and, in directing such refund, impose such conditions as he may deem fit\". New"
+        "@value": "renumbering it as \"4. (1)\" and inserting immediately thereafter, the following new subsection (2): \"(2) The Minister may, if he is satisfied that it would be just and proper to do so, in the case of any particular goods vehicle or class of goods vehicle, direct the refund of the whole or any part of the goods vehicle levy paid pursuant subsection (4) of section 3 during such period as he may specify in the direction, and, in directing such refund, impose such conditions as he may deem fit\"."
       }
     },
     {
@@ -154,9 +158,13 @@
       "@type": "akn:clause",
       "eli:number": "5",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "The principal Act is amended by inserting section 4A. immediately after section 4, the following new section 4A: \"Return 4A. It shall be lawful for the Director of goods General, if it is proved to his satisfaction that vehicle levy over- any money has been overpaid or erroneously paid or paid as goods vehicle levy under this Act, to erroneously order the refund of the money so overpaid or paid. erroneously paid: Provided that no such refund shall be allowed unless a claim in respect thereof is made within one year after the overpayment or erroneous payment was made.\"."
+        "@value": "immediately after section 4, the following new section 4A: \"Return 4A. It shall be lawful for the Director of goods General, if it is proved to his satisfaction that vehicle levy over- any money has been overpaid or erroneously paid or paid as goods vehicle levy under this Act, to erroneously order the refund of the money so overpaid or paid. erroneously paid: Provided that no such refund shall be allowed unless a claim in respect thereof is made within one year after the overpayment or erroneous payment was made.\"."
       }
     },
     {

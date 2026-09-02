@@ -132,7 +132,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 6 -->
 
-investigation together with the investigation papers in respect of such investigation within one week of the expiry of the period of three months from the date of the information given under section 107.
+investigation together with the investigation papers in respect of such investigation within one week of the expiry of the period of three months from the date of the information given under section
+
+107.
 
 (2) Notwithstanding subsection (1), the Public Prosecutor may at any time, regardless that the period of three months mentioned in subsection (1) has not expired, direct the officer making the investigation or the Officer in charge of the Police District to submit to the Public Prosecutor a report in the form in the Second Schedule and the investigation papers in respect of the police investigation.
 
@@ -292,19 +294,11 @@ Whether Penal Offence Whether Whether Whether
 
 <!-- marginal: Maximum -->
 
-a warrant or bailable compoundable Code the police
-
-<!-- marginal: punishment -->
-
-may a summons or not or not
+a warrant or bailable compoundable Code the police punishment may a summons or not or not
 
 <!-- marginal: under the -->
 
-ordinarily shall
-
-<!-- marginal: Penal Code -->
-
-arrest ordinarily without issue in warrant the first or not instance
+ordinarily shall Penal Code arrest ordinarily without issue in warrant the first or not instance
 
 ## CHAPTER VIA - OFFENCES RELATING TO TERRORISM
 
@@ -364,255 +358,19 @@ terrorist groups or to participate in terrorist acts
 
 <!-- page 12 -->
 
-5 6 1 3 4 2
+5 6 1 3 4 2 Maximum Whether Penal Offence Code Whether Whether Whether compoundable punishment the police a warrant or bailable under the or not or not !3QF a summons may Penal Code Providing ordinarily shall training and ordinarily arrest instruction to issue in without terrorist the first warrant groups and instance or not persons Imprisonment do. committing do. do. do. for thirty years, terrorist acts and fine 130G
 
-<!-- marginal: Maximum -->
+Inciting, promoting or soliciting property for the com miss ion of Imprisonment do. do. do. do. terrorist acts for thirty years, and fine 130H
 
-Whether Penal Offence Code Whether Whether Whether compoundable
+Providing facilities in support of Imprisonment do. do. do. do. terrorist acts for thirty years, and fine 130I
 
-<!-- marginal: punishment -->
-
-the police a warrant or bailable
-
-<!-- marginal: under -->
-
-<!-- marginal: the -->
-
-or not or not !3QF a summons may
-
-<!-- marginal: Penal Code -->
-
-Providing ordinarily shall training and ordinarily arrest instruction to issue in without terrorist the first warrant groups and instance or not persons
-
-<!-- marginal: Imprisonment -->
-
-do. committing do. do. do.
-
-<!-- marginal: for thirty years, -->
-
-terrorist acts
-
-<!-- marginal: and fine -->
-
-130G
-
-Inciting, promoting or soliciting property for the com miss ion of
-
-<!-- marginal: Imprisonment -->
-
-do. do. do. do. terrorist acts
-
-<!-- marginal: for thirty years, -->
-
-<!-- marginal: and fine -->
-
-130H
-
-Providing facilities in support of
-
-<!-- marginal: Imprisonment -->
-
-do. do. do. do. terrorist acts
-
-<!-- marginal: for thirty years, -->
-
-<!-- marginal: and fine -->
-
-130I
-
-Directing do. do.
-
-<!-- marginal: Death; or -->
-
-do. do. activities of
-
-<!-- marginal: imprisonment -->
-
-terrorist groups
-
-<!-- marginal: for not less than -->
-
-<!-- marginal: seven years but -->
-
-<!-- marginal: not exceeding -->
-
-<!-- marginal: thirty years, and -->
-
-<!-- marginal: fine -->
-
-<!-- marginal: Imprisonment for -->
-
-do. do. do. do. Soliciting or 130J
-
-<!-- marginal: life, or -->
-
-giving support
-
-<!-- marginal: imprisonment for -->
-
-to terrorist
-
-<!-- marginal: thirty years; or -->
-
-groups or the
-
-<!-- marginal: fine, and -->
-
-commission of
-
-<!-- marginal: forfeiture of -->
-
-terrorist acts
-
-<!-- marginal: certain property -->
-
-<!-- marginal: Imprisonment for -->
-
-<!-- marginal: life, and fine; or -->
-
-do. Harbouring do. do. do. 130K
-
-<!-- marginal: imprisonment -->
-
-persons
-
-<!-- marginal: for twenty years; -->
-
-committing
-
-<!-- marginal: or fine -->
-
-terrorist acts
-
-<!-- marginal: Imprisonment -->
-
-do. do. do. Intentional do. 130M
-
-<!-- marginal: for seven years, -->
-
-omission to
-
-<!-- marginal: or fine, or both -->
-
-give information relating to terrorist acts
+Directing do. do. Death; or do. do. activities of imprisonment terrorist groups for not less than seven years but not exceeding thirty years, and fine Imprisonment for do. do. do. do. Soliciting or 130J life, or giving support imprisonment for to terrorist thirty years; or groups or the fine, and commission of forfeiture of terrorist acts certain property Imprisonment for life, and fine; or do. Harbouring do. do. do. 130K imprisonment persons for twenty years; committing or fine terrorist acts Imprisonment do. do. do. Intentional do. 130M for seven years, omission to or fine, or both give information relating to terrorist acts
 
 <!-- page 13 -->
 
-Penal Offence Whether Whether Whether Whether
+Penal Offence Whether Whether Whether Whether Maximum Code the police a warrant or bailable . "ompoundable punishment may a summons or not or not under the ordinarily shall Penal Code arrest ordinarily without issue in warrant the first or not instance Suppression of financing of terrorist acts
 
-<!-- marginal: Maximum -->
-
-Code the police a warrant or bailable . "ompoundable punishment may a summons or not or not
-
-<!-- marginal: under the -->
-
-ordinarily shall
-
-<!-- marginal: Penal Code -->
-
-arrest ordinarily without issue in warrant the first or not instance Suppression of financing of terrorist acts
-
-130N Providing or do. do. do. do.
-
-<!-- marginal: Death; or -->
-
-collecting
-
-<!-- marginal: imprisonme -->
-
-property for
-
-<!-- marginal: for not less -->
-
-terrorist acts
-
-<!-- marginal: than seven -->
-
-<!-- marginal: years but not -->
-
-<!-- marginal: exceeding thirty -->
-
-<!-- marginal: years, and fine, -->
-
-<!-- marginal: and forfeiture of -->
-
-<!-- marginal: certain property -->
-
-<!-- marginal: Death; or -->
-
-<!-- marginal: imprisonment -->
-
-Providing do. do. do. do. 130o
-
-<!-- marginal: for not -->
-
-services for
-
-<!-- marginal: less than seven -->
-
-terrorist
-
-<!-- marginal: years but not -->
-
-purposes
-
-<!-- marginal: exceeding thirty -->
-
-<!-- marginal: years, and fine -->
-
-<!-- marginal: Imprisonment for -->
-
-<!-- marginal: thirty years, and -->
-
-Arranging for 130P do. do. do. do.
-
-<!-- marginal: fine, and -->
-
-retention or
-
-<!-- marginal: forfeiture of -->
-
-control of
-
-<!-- marginal: certain property -->
-
-terrorist property
-
-<!-- marginal: Imprisonment for -->
-
-<!-- marginal: twenty years; or -->
-
-Dealing with do. do. do. do. 130Q
-
-<!-- marginal: fine, and -->
-
-terrorist
-
-<!-- marginal: forfeiture of -->
-
-property
-
-<!-- marginal: certain property -->
-
-<!-- marginal: Imprisonment for -->
-
-<!-- marginal: seven years, or -->
-
-<!-- marginal: fine, or both -->
-
-Intentional 130R do. do. do. do. omission to give information
-
-<!-- marginal: Imprisonment for -->
-
-about terrorist
-
-<!-- marginal: seven years, -->
-
-property
-
-<!-- marginal: or fine, or both ', -->
-
-Intentional 130s do. do. do. do. omission to give information relating to terrorism financing offence
+130N Providing or do. do. do. do. Death; or collecting imprisonme property for for not less terrorist acts than seven years but not exceeding thirty years, and fine, and forfeiture of certain property Death; or imprisonment Providing do. do. do. do. 130o for not services for less than seven terrorist years but not purposes exceeding thirty years, and fine Imprisonment for thirty years, and Arranging for 130P do. do. do. do. fine, and retention or forfeiture of control of certain property terrorist property Imprisonment for twenty years; or Dealing with do. do. do. do. 130Q fine, and terrorist forfeiture of property certain property Imprisonment for seven years, or fine, or both Intentional 130R do. do. do. do. omission to give information Imprisonment for about terrorist seven years, property or fine, or both ', Intentional 130s do. do. do. do. omission to give information relating to terrorism financing offence
 
 (c) dalam butiran yang berhubungan dengan seksyen 304 Kanun Keseksaan, dalam ruang 7, dengan menggantikan perkataan "twenty" dengan perkataan "thirty";
 
@@ -620,17 +378,37 @@ Intentional 130s do. do. do. do. omission to give information relating to terror
 
 (d) dalam butiran yang berhubungan dengan seksyen 364 Kanun Keseksaan, dalam ruang 7, dengan menggantikan perkataan "twenty" dengan perkataan "thirty";
 
-(e) dengan memasukkan selepas butiran yang berhubungan dengan seksyen 374 Kanun Keseksaan, butiran yang berikut di bawah ruang masing-masing: 4 5 6
+(e) dengan memasukkan selepas butiran yang berhubungan dengan seksyen 374 Kanun Keseksaan, butiran yang berikut di bawah ruang masing-masing: 4 5 6 7
 
-<!-- marginal: 7 -->
+<!-- marginal: 1 -->
 
-1 2 3 Penal Offence Whether Whether Whether Whether Maximum Code the police a warrant or bailable compoundable punishment sectio a summons or not or not may under the shall ordinarily Penal Code ordinarily arrest issue in without warrant the first or not instance Ho stage-Taking 374A Hostage- May Warrant Not bailable Not Death; or compoundabie taking arrest imprisonment without for not less warrant than seven years but not exceeding thirty years, and fine
+2 3 Penal Offence Whether Whether Whether Whether Maximum
 
-(f) dengan menggantikan butiran yang berhubungan dengan seksyen 376 Kanun Keseksaan dengan butiran yang berikut di bawah ruang masing-masing: 1 4 5 6
+<!-- marginal: Code -->
 
-<!-- marginal: 7 -->
+the police a warrant or bailable compoundable punishment
 
-3 1 i. Penal Offence Whether Whether Whether Whether Maximum Code the police a warrant or bailable compoundable punishment a summons or not or not may under the shall ordinarily Penal Code ordinarily arrest issue in without warrant the first or not instance "376(1) Rape May arrest Warrant Not bailable Not Imprisonment compoundable without for not less warrant than five years and not more than twenty years, and whipping 376(2) Incestuous do. do. do. do. Imprisonment rape for not less than fifteen years and not more than thirty years, and whipping for not less than ten strokes
+<!-- marginal: sectio -->
+
+a summons or not or not may under the shall ordinarily Penal Code ordinarily arrest issue in without warrant the first or not instance Ho stage-Taking 374A Hostage- May Warrant Not bailable Not Death; or compoundabie taking arrest imprisonment without for not less warrant than seven years but not exceeding thirty years, and fine
+
+(f) dengan menggantikan butiran yang berhubungan dengan seksyen 376 Kanun Keseksaan dengan butiran yang berikut di bawah ruang masing-masing:
+
+<!-- marginal: 1 -->
+
+4 5 6 7 3
+
+<!-- marginal: 1 i. -->
+
+Penal Offence Whether Whether Whether Whether Maximum
+
+<!-- marginal: Code -->
+
+the police a warrant or bailable compoundable punishment a summons or not or not
+
+<!-- marginal: section -->
+
+may under the shall ordinarily Penal Code ordinarily arrest issue in without warrant the first or not instance "376(1) Rape May arrest Warrant Not bailable Not Imprisonment compoundable without for not less warrant than five years and not more than twenty years, and whipping 376(2) Incestuous do. do. do. do. Imprisonment rape for not less than fifteen years and not more than thirty years, and whipping for not less than ten strokes
 
 <!-- page 15 -->
 
@@ -646,15 +424,7 @@ the police Code a warrant or bailable compoundable punishment may a summons or n
 
 <!-- marginal: under the -->
 
-ordinarily shall
-
-<!-- marginal: Penal Code -->
-
-arrest ordinarily without issue in warrant the first or not instance do. 376(3) Causing do. do. do.
-
-<!-- marginal: Death"; -->
-
-death while committing or attempting to commit rape
+ordinarily shall Penal Code arrest ordinarily without issue in warrant the first or not instance do. 376(3) Causing do. do. do. Death"; death while committing or attempting to commit rape
 
 (g) dalam butiran yang berhubungan dengan seksyen 396 Kanun Keseksaan, dalam ruang 7, dengan menggantikan perkataan "twenty" dengan perkataan "thirty"; dan
 

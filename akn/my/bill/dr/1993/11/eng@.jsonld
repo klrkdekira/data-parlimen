@@ -1,0 +1,100 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/11/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/11"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-11-1993",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/11/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/11/eng@/~cl_2"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Town and Country Planning (Amendment) Bill 1993"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/11/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/11/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Town and Country"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Planning (Amendment) Act 1993 and shall come into force on such date as the Minister may, by notification in the Gazette, appoint."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/11/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/11/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/11/eng@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/11/eng@/~cl_2__para_ba"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/11/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 22 of the Town and Country Planning Act"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "1976, which in this Act is referred to as the \"principal Act\", is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/11/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/11/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the word \"and\" at the end of paragraph (b) of subsection (2); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/11/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/11/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (b) of subsection (2) the following new paragraph (ba):"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/11/eng@/~cl_2__para_ba",
+      "@type": "akn:paragraph",
+      "eli:number": "ba",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/11/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the provisions of the Sewerage Act Services Act 1993; and\". 2 BILL"
+      }
+    }
+  ]
+}

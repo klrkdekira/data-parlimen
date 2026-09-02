@@ -38,7 +38,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 3. The principal act is amended by inserting after Part ii the following Part:
 
-“Part iia
+## “PART IIA
 
 aDMiNiSTRaTiON
 
@@ -140,7 +140,7 @@ express or do anything which may reasonably be construed as expressing support f
 
 7. The principal act is amended by inserting after Part iV the following Part:
 
-“Part iVa
+## “PART IVA
 
 REGiSTER aND DaTabaSE
 

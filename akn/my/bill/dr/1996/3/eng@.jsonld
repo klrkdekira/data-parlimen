@@ -1,0 +1,492 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-3-1996",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_21"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Companies (Amendment) Bill 1996"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_10__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_10__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 84(1) of the principal Act is amended"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of \"interest\"—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the word \"or\" appearing at the end of paragraph (f);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting the word \"or\" at the end of subparagraph (g)(ii); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_10__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (g) the following paragraph: \" (h) any participatory interest in a unit trust scheme as defined in section 2 of the Act 280. Securities Industry Act 1983;\""
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_11__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 121 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1) by substituting for the words \"The name of a company shall (whether or not it is carrying on business under a business name) appear in legible romanised letters on - \" the words \"The name of the company (whether or not it is carrying on business under a business name) in legible romanised letters and the company number of the company shall appear on - \"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (3) the following subsection: \" (4) In this section, \"company number\" means the number allocated by the Registrar to a company on incorporation.\""
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 132D of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "inserting after subsection (6) the following subsections: \"(6A) Notwithstanding subsection (1), the directors of a company shall not be required to obtain the prior approval of the company in a general meeting to issue shares where the said shares are to be issued as consideration or part consideration for the acquisition of shares or assets by the company and members of the company have been notified of the intention to issue the said shares at least fourteen days before the date of the issue of the said shares. (6B) For the purpose of subsection (6A), members of the company are deemed to have been notified of the intention to issue shares of the company if— (a) a copy of the statement explaining the purpose of the intended issue of shares has been sent to every member at his last known address according to the register of members; and (b) the copy of the statement has been advertised in a national language and an English language newspaper circulating generally throughout Malaysia.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 164(8) of the principal Act is amended"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"Yang di-Pertuan Agong\" the word \"Minister\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 194 of the principal Act is amended in the"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "definition of \"declared company\" by substituting for the words \"Yang di-Pertuan Agong\" the word \"Minister\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 195 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for the words \"Yang di-Pertuan Agong\" the word \"Minister\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 210 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for the words \"Yang di-Pertuan Agong\" wherever they appear the word \"Minister\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 319 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for the words \"Yang di-Pertuan Agong\" wherever they appear the word \"Minister\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Paragraph 324(b) of the principal Act is amended"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"Yang di-Pertuan Agong\" the word \"Minister\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_19__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_19__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 338 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph ( 1 )( b) by inserting after the word \"name\" the words \", company number\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_19__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsection: \"(3) In this section, \"company number\" means the number allocated by the Registrar to a foreign company on its registration.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Companies (Amendment) Act 1996."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall come into force on such date as the Minister may, by notification in the Gaiette appoint."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Companies Act 1965, which in this Act is referred"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "to as the \"principal Act\", is amended in paragraph 14(3)(a) by substituting for the words \"proclamation of the Yang di-Pertuan Agong\" the words \"the Minister\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 373 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for the words \"Yang di-Pertuan Agong\" the word \"Minister\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 374 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for the words \"Yang di-Pertuan Agong\" the word \"Minister\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 21 of the principal Act is amended by inserting"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "after subsection (1) the following subsections: \" (1A) Notwithstanding subsection (1) and subject to section 33 and section 181, if a provision of the memorandum of a company could lawfully have been contained in the articles of the company, the company may, by special resolution, alter the memorandum— (a) by altering; or (b) by deleting, the provision, unless the memorandum itself prohibits the alteration or deletion of that provision. 2 BILL (1B) Nothing in subsection (1A) permits the alteration or deletion of a provision of the memorandum that relates to rights to which only members included in a particular class of members are entitled.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 37 of the principal Act is amended by inserting"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "after subsection (2) the following subsection: \" (2A) Nothing in this Division and Division 4 of this Part shall apply to an offer or irwitation in respect of shares or debentures for sale to the public where the offer or invitation relates to shares or debentures that have previously been issued and the shares or debentures are of a class that are listed for quotation on a stock exchange.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_5__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 38(1 B) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting the word \"or\" at the end of paragraph (a);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"; or\" appearing at the end of paragraph (b) a full-stop; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting paragraph (c)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "39A the following section: \"Relief from 39B. (1) Without prejudice to subsection 37(2), requirements the Registrar may, on the application in writing as 10 form by any person referred to under subsection 37(1), and content of a make an order relieving him or approving any prospectus. variation from the requirements of this Act relating to the form and content of a prospectus. (2) In making an order under subsection (1), the Registrar may impose such terms and conditions as he deerris fit. (3) The Registrar shall not make an order under subsection (1) unless he is satisfied, having considered the nature and objectives of the corporation, that— (a) such relief or variation shall not cause the non-disclosure to the public of information necessary for the assessment of the investment in the shares or debentures of the corporation as the case may be; and (b) compliance with the requirements, for which such relief or variation is applied for, would impose unreasonable burden on the applicant. (4) A prospectus shall be deemed to have complied with all the requirements of this Act relating to the form and content of a prospectus if it is issued in compliance with an order made under subsection (1).\""
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 42 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (2)(c) the following paragraph: \" (c) there are also lodged with the Registrar copies verified as prescribed of any consents required by section 45 to the issue of the prospectus.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (4) the following subsection: \"(4) A corporation to which the prospectus relates shall— (a) cause a copy of— (i) every document referred to in subsection (2)(c); and (ii) all material contracts referred to in the prospectus and, in the case of such a contract not reduced into writing, a memorandum giving full particulars thereof, verified as prescribed, to be deposited within three days after the registration of the prospectus at the registered office of the corporation and if it has no registered office in Malaysia, at the address in Malaysia specified in the prospectus; and (b) keep each such copy for a period of at least six months after the registration of the prospectus for inspection by any person without charge.\""
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "42 the following section: 42A. (1) If, after the registration of a prospectus, but before its issue, the person who lodged the prospectus became aware that— (a) a significant new matter has arisen being a matter, the information of which is required by this Act or by any requirements or guidelines of any authority, to be disclosed in a prospectus; (b) there has been a significant change affecting a matter disclosed in the prospectus; (c) the prospectus contained a material statement that is false or misleading; (d) there is a material omission from the prospectus, the person shall lodge with the Registrar a supplemental prospectus that contains information relating to the new matter or change or correct the false or misleading statement or omission as the case requires. (2) A supplemental prospectus shall clearly identify the prospectus to which it relates and shall contain a statement in bold or coloured print that it is a supplemental prospectus to be read in conjunction with the prospectus. (3) A supplemental prospectus shall be deemed to be part of the prospectus to which it relates and all written laws and rules of law as to the contents of prospectuses and to liability in respect of statements and non-disclosures in prospectuses or otherwise relating to prospectuses, shall apply and have effect accordingly. (4) Where a supplemental prospectus has been lodged with the Registrar pursuant to subsection (1), every copy of the prospectus shall be issued, accompanied by a copy of the supplemental prospectus. (5) A supplemental prospectus may be lodged for the purpose of subsection (1), notwithstanding that the prospectus to which it relates has been issued, if— (a) the prospectus relates to an invitation or offer which is addressed to an identifiable category of persons to whom it is directly communicated by the person making the invitation or offer or by his appointed agent, and a copy of the supplemental prospectus is sent to each of those persons in compliance with subsection (6); or (b) the prospectus relates to an invitation or offer to the general public and a copy of the supplemental prospectus is advertised in every newspaper which originally advertised the invitation or offer or calling attention to the invitation or offer in compliance with subsection (6). (6) For the purpose of subsection (5), a notice shall— (a) in the case of subsection (5)(a), be sent together with a copy of the supplemental prospectus to every person referred to in that subsection; (b) in the case of subsection (5)(b), be advertised together w i th the supplemental prospectus, stating— (aa) that a copy of the supplemental prospectus has been lodged with the Registrar; and (bb) that every person who has submitted his application prior to the date of the notice is entitled to withdraw his application within seven days of the date of the notice and all application money received in respect thereof will be repaid in full without penalty. (7) If default is made in complying with this section, every person who is in default shall be guilty of an offence against this Act. Penalty: Imprisonment for five years or one hundred thousand ringgit or both.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/3/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "47 the following sections: 47A. (1) Subject to subsection (2) the Minister may, on the application in writing by any person interested and subject to the recommendation of the Registrar, by order declare that Division 1 and Division 4 of this Part shall not apply to any person making an offer of shares or debentures to the public, either unconditionally or subject to such terms and conditions as the Minister thinks fit to impose. (2) Recommendation shall not be made by the Registrar to the Minister unless he is of the opinion that circumstances exist whereby— (a) the cost of providing a prospectus outweighs the resulting protection to investors; or (b) it would not be prejudicial to the public interest if a prospectus were dispensed with. 47B. (1) Nothing in Division 1 and Division 4 of this Part shall apply to an offer of shares or debentures, whether or not they have been previously issued, made to— (a) a prescribed corporation; (b) an insurance company registered under any written law relating to insurance companies; (c) a trustee corporation; (d) a statutory body established by an Act of Parliament or an Enactment of any State; (e) a pension fund approved by the Director General of Inland Revenue under section 150 of the Income Tax Act 1967; (f) a unit trust scheme as defined under the Securities Industry Act 1983; (g) a person licensed as a dealer or investment adviser under the Securities Industry Act 1983; (h) a corporation incorporated outside Malaysia; (i) a public company which is engaged primarily in the making of investments in marketable securities for the purpose of revenue and for profit and not for the purpose of exercising control; and (j) such other person as the Minister may, by order published in the Gazette, declare to be exempt purchasers, who or which pursuant to the offer, acquires the shares or debentures as principal, trustee or agent for accounts fully managed by him or it who, for the purposes of this section, shall be deemed to be dealing as principal. (2) In this section, the term \"prescribed corporation\" has the same meaning as assigned to it in section 38(7). (3) Any information memorandum purporting to describe the business and affairs of the person making the offer issued by the said person or his agent shall be deemed to be a prospectus, in so far as regarding the liability of the person or his agent, for any untrue statement or non- disclosure of material information and a copy of the memorandum shall be lodged with the Registrar within seven days after it is first issued.\""
+      }
+    }
+  ]
+}

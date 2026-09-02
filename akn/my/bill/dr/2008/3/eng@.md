@@ -18,7 +18,53 @@ Bill
 
 ## SCHEDULE
 
-Title Purpose Amount (RM) 1,630,000 B. 1 Parliament 60,000,000 B. 7 Public Services Department 16,810,108,100 B. 12 Contribution to Statutory Funds 46,087,700 B. 13 Ministry of Foreign Affairs 100,000 B. 21 Ministry of Agriculture and Agro-based Industry B. 25 Ministry of Domestic Trade and Consumer 7,000,000 Affairs B. 27 Ministry of Works 76,373,900 10,000,000 B. 31 Ministry of Tourism 200,006,100 B. 42 Ministry of Health 1,550,000 B. 44 Ministry of Culture, Arts and Heritage 157,147,300 B. 60 Ministry of Defence 175,168,700 B. 62 Ministry of Internal Security
+Title Purpose
+
+<!-- marginal: Amount -->
+
+<!-- marginal: (RM) -->
+
+<!-- marginal: 1,630,000 -->
+
+B. 1 Parliament
+
+<!-- marginal: 60,000,000 -->
+
+B. 7 Public Services Department 16,810,108,100 B. 12 Contribution to Statutory Funds
+
+<!-- marginal: 46,087,700 -->
+
+B. 13 Ministry of Foreign Affairs
+
+<!-- marginal: 100,000 -->
+
+B. 21 Ministry of Agriculture and Agro-based Industry B. 25 Ministry of Domestic Trade and Consumer
+
+<!-- marginal: 7,000,000 -->
+
+Affairs B. 27 Ministry of Works
+
+<!-- marginal: 76,373,900 -->
+
+<!-- marginal: 10,000,000 -->
+
+B. 31 Ministry of Tourism
+
+<!-- marginal: 200,006,100 -->
+
+B. 42 Ministry of Health
+
+<!-- marginal: 1,550,000 -->
+
+B. 44 Ministry of Culture, Arts and Heritage
+
+<!-- marginal: 157,147,300 -->
+
+B. 60 Ministry of Defence
+
+<!-- marginal: 175,168,700 -->
+
+B. 62 Ministry of Internal Security
 
 ## TOTAL
 

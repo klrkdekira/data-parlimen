@@ -38,9 +38,13 @@
       "@type": "akn:clause",
       "eli:number": "1",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/12/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Keterangan (Pindaan)"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ini bolehlah dinamakan Akta Keterangan (Pindaan) 2015. Seksyen baru 32a"
+        "@value": "2015. Seksyen baru 32a"
       }
     },
     {

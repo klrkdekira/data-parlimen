@@ -134,7 +134,9 @@ be disqualified from being, and shall not become or remain, such trustee or one 
 
 (2) The trustee or trustees shall immediately inform the Minister of the happening of the event referred to in paragraph
 
-(l)(a) or the decision or agreement referred to in paragraph (l)(b).
+(l)(a) or the decision or agreement referred to in paragraph
+
+(l)(b).
 
 <!-- page 6 -->
 
@@ -420,4 +422,6 @@ This Bill seeks to amend the Trustees (Incorporation) Act 1952 ("Act 258").
 
 ## FINANCIAL IMPLICATIONS
 
-This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained. [PN(U2)2324]
+This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained.
+
+<!-- marginal: [PN(U2)2324] -->

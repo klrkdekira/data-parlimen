@@ -1,0 +1,749 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-21-1990",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_28"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Lembaga Pelabuhan (Pindaan) 1990"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Lembaga Pelabuhan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "(Pindaan) 1990 dan hendaklah mula berkuatkuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_10__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 29M Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan-perkataan \"under section\" dalam subseksyen (1) perkataan- perkataan \"29CA (1) or\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan-perkataan \"29H (1)\" dalam subseksyen (1) perkataan-perkataan \"or the authorisation given by the authority to any person to pilot vessels passing through a pilotage district pursuant to section 29CB (2)\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 29o Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan perkataan-perkataan \"two thousand dollars\" dalam subseksyen 2 dengan perkataan-perkataan \"five thousand ringgit\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 31 Akta ibu adalah dipinda dengan mengganti-"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kan perkataan-perkataan \"five hundred dollars\" dengan perkataan-perkataan \"two thousand ringgit\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 32 Akta ibu adalah dipinda dengan mengganti-"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kan perkataan-perkataan \"five hundred dollars\" dalam subseksyen (2) dan (4) dengan perkataan-perkataan \"two thousand ringgit\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seksyen 34 seksyen baru 34A yang berikut: \"Penalty for 34A. Any person who hinders or obstructs any hindrances member, officer or servant of the authority in the or obstruct- ions to any performance or execution of his duty or in carrying member, out anything which he is empowered or required officer or to do by virtue of or in consequence of this Act servant of the shall be guilty of an offence under this Act and authority. shall be liable on conviction to a fine not exceeding one thousand ringgit or to imprisonment for a term not exceeding six months or to both such fine and imprisonment\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 35 Akta ibu adalah dipinda dengan mengganti-"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kan perkataan-perkataan \"one thousand dollars\" dalam subseksyen (2) dengan perkataan-perkataan \"two thousand ringgit\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_16__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 35A Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_16__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_16__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_16__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_16__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan-perkataan \"not being an authority pilot\" perkataan-per- kataan \"or an employee licensed under section 29CA (1) of a licensed operator or a person authorised by the authority to pilot vessels pursuant to section 29CH (2)\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_16__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_16__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan-perkataan \"one thousand dollars\" dengan perkataan- perkataan\"two thousand ringgit\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_16__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_16__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_16__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_16__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan-per- kataan \"not an authority pilot\" perkataan- perkataan \"or an employee licensed under section 29cA (1) of a licensed operator or a person authorised by the authority to pilot vessels pursuant to section 29cB (2)\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_16__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_16__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan-perkataan \"one thousand dollars\" dengan perkataan- perkataan \"two thousand ringgit\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_17__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_17__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_17__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 35B Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_17__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan-perkataan \"authority pilot\" dalam subseksyen (1) perkataan- perkataan \"or an employee licensed under section 29cA (1) of a licensed operator\":"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan-perkataan \"authority pilot,\" dalarn subseksyen (2) perkataan- perkataan \"an employee of a licensed operator,\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_17__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan-perkataan \"one hundred dollars\" dalam subseksyen (2) perkataan- perkataan \"five hundred ringgit\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_18__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 35C Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan-perkataan \", either within or without the districts for which he is licensed,\" dalam baris pertama dan kedua sub- seksyen (1) dengan perkataan-perkataan \"or any employee licensed under section 29CA (1) of a licensed operator or any person authorised by the authority to pilot vessels passing through a pilotage district pursuant to section 29CB (2)\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen (4) baru yang berikut: \"(4) Any employee licensed under section 29cA (1) of a licensed operator or any person authorised to pilot vessels under section 29CB (2) who commits an offence under this section, or procures, aids, abets or connives at the commission of any such offence shall be liable on conviction to suspension or revocation of the licence or authorisation as the case may be.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_19__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_19__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 35D Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas sahaja perkataan- perkataan \"authority pilot\" dalam baris pertama perkataan-perkataan \"or an employee licensed under section 29CA (1) of a licensed operator\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_19__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah yang terdapat di hujungnya dengan noktah bertindih dan memasuk- kan selepas sahaja itu proviso yang berikut: \"Provided that no employee licensed under section 29CA (1) of a licensed operator shall be dismissed by the authority,\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 3 Akta Lembaga Pelabuhan 1963, yang di-"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sebut'Akta ibu\" dalam Akta ini, adalah dipinda dengan memotong perenggan (u) subseksyen (2)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan menggantikan seksyen"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "35E dengan seksyen 35E baru yang berikut: 35E. (1) The master, owner or agent of a vessel navigating in circumstances in which the vessel is required by the authority under section 29B to be under pilotage who does not employ an authority pilot or an employee licensed under section 29CA (1) of a licensed operator or a person authorised by the authority under section 29CB (2), for such purpose shall be guilty of an offence under this Act and shall be liable on conviction to a fine not exceeding five thousand ringgit. (2) Upon being found guilty of any offence under subsection (1), the Court before which the master, owner or agent of the vessel is found guilty shall order such master, owner or agent to pay to the authority the amount certified by the accountant of the authority to be the amount of dues and rates which would have been payable to the authority if the vessel had been under pilotage as required by this Act and such amount shall be recoverable in the same manner as a fine.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 36 Akta ibu adalah dipinda dengan mengganti-"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kan perkataan-perkataan \"one thousand dollars\" dengan perkataan-perkataan \"two thousand ringgit\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_22__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_22__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 36A Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_22__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan-perkataan \"either knowingly or recklessly,\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_22__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan-perkataan \"one thousand dollars\" dengan perkataan-perkataan \"five thousand ringgit\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seksyen 37 seksyen baru 37A yang berikut: 37A. (1) When any person without lawful excuse refuses or neglects to obey any direction lawfully given under this Act or the by-laws made thereunder, the authority may, irrespective of whether any proceedings have been instituted against or any punishment imposed on such person for the refusal or neglect, do or cause to be done all such acts as are in its opinion reasonable or necessary for the purpose of carrying out such direction. (2) The powers conferred by subsection (1) include the power to hire and employ such persons as are necessary and proper for making good whatever loss or damage that has been caused by any refusal or neglect of the person to whom the direction has been given. (3) Any expenses incurred in the exercise of the powers conferred under subsection (1) or (2) shall be recoverable from the person to whom the direction had been given as a civil debt.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 38 Akta ibu adalah dipinda dengan meng-"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "gantikan perkataan-perkataan \"five hundred dollars\" dengan perkataan-perkataan \"one thousand ringgit\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seksyen 39 seksyen baru 39A yang berikut: 39A. Where an offence under this Act or under any of the regulations or by-laws made thereunder is committed by a body corporate (whether or not the body corporate has been prosecuted), every director, secretary or manager of the body corpo- rate shall be deemed to be guilty of the offence unless he proves that the offence was committed without his consent or connivance and that he exercised all due diligence to prevent the commis- sion of the offence as be ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances of the case.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seksyen 4lA seksyen baru 41B yang berikut: 4lB. (1) In the event of fire breaking out on board any vessel in the port, the General Manager or any person authorised by him may proceed to board the vessel with such persons and assistance as may seem fit to him and may give such orders to the master of the vessel as are necessary for scuttling the vessel or for removing that vessel or any other vessel, and he may take such other measures as are necessary and proper for the protection of life or property. (2) If the orders given pursuant to subsection (1) are not carried out forthwith by the master of the vessel, the General Manager or the person authorised by him may himself proceed to carry the orders into effect. (3) Any expenses incurred in the exercise of the powers conferred by subsections (1) and (2) shall be recoverable from the master or the owner of the vessel concerned as a civil debt.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seksyeri 46 seksyen baru 46A yang berikut: \"Power to 46A. (1) The Minister may by order to be published compound in the Gazette prescribe any offence against the offence. provisions of this Act or of any regulations or by- laws made thereunder as an offence which may be compounded by the authority. (2) The General Manager may in his discretion compound such offence prescribed under sub- (1) by accepting from the person reasonably suspected of having committed any such offence a sum of money not exceeding five hundred ringgit. (3) The Minister may by the same order made under subsection (1) prescribe the method and procedure for compounding any offence against the provisions of this Act or of any regulations or by-laws made thereunder.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 59 Akta ibu adalah dipinda dengan memasuk-"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kan selepas takrif perkataan \"land\" takrif baru yang berikut: ' \"licensed operator\" means a licensed operator licensed under Part III of the Ports (Privatisation) Act 1990;'."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seksyen 3A, seksyen baru 3B yang berikut: \"Additional 3B. (1) In addition to the functions provided function of under this Act, the authority may, with the the authority. 'approval of the Minister, operate any port-related activities. (2) In the exercise of the function in subsection (1) the authority may expend such moneys as are necessary. (3) For the purposes of this section, \"port- related activities\" means— (a) activities performed outside a port which relate to any function or duty of the authority or to operate or maintain a port or the transportation of goods through the port; or (b) the development, operation or maintenance outside the port of marinas and other pro- perties necessary for the furtherance of any function or duty of the authority.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seksyen 8 seksyen baru 8A yang berikut: \"Power to 8A. The authority may, from time to time with the borrow approval of the Minister of Finance, borrow, by money. way of overdraft or otherwise, such sums as it may require for meeting its obligations and dis- charging its functions under this Act and may secure the repayment of any sum borrowed by way of a mortgage or charge, legal or equitable, of any property vested in the authority, or of any revenue received by the authority under this Act\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 9 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan-perkataan \"Accounts and audit\" dalam nota birai dengan perkataan-perkataan \"Accounts and records to be open for inspection\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perenggan (b) subseksyen (1); dan (c) dengan memotong subseksyen 3."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_6__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seksyen 29C seksyen baru 29CA dan 29CB yang berikut: 29CB. \"Power of 29cA. (1) Notwithstanding anything to the con- Pilotage trary in the Act the authority may, if it considers committee expedient, authorise the Pilotage Committee to to license employees issue a licence to any employee of a licensed of a operator to pilot vessels in a pilotage district of licensed operator. such authority subject to such terms and con- ditions as the authority thinks fit: Provided that no such licence shall be issued to any such employee unless the Pilotage Committee has examined the employee and be satisfied as to the employee's general fitness and competency, including his physical fitness to act as a pilot for the licensed operator. (2) A licence issued under subsection (1) shall cease to be valid if the employee to whom it was issued ceases to be employed by the licensed operator. 29cB. (1) No vessel shall be piloted in a pilotage district by any person other than an authority pilot or an employee licensed under section 29CA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "of a licensed operator."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Notwithstanding the provisions of sub- section (1) the authority may, if it considers expedient, authorise any person to pilot vessels passing through its pilotage district, subject to such terms and conditions as the authority may impose.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 29D Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (a) dengan perenggan (a) baru yang berikut: \"(a) holding examinations and issuing, on behalf of the authority, licenses to act as an authority pilot or as a pilot employed by a licensed operator;\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (b) dengan perenggan (b) baru yang berikut: \"(fr) holding inquiries concerning the conduct of— (i) authority pilots; (ii) employees, licensed to pilot vessels in pilotage district pursuant to section 29CA (1), of a licensed operator; (iii) persons authorised under section 29CB (2) to pilot vessels passing through a pilotage district, in the discharge of their duties as directed by the authority and make recommendations thereto;\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_8__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 29I Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan-perkataan \"an authority pilot\" dalam subseksyen (1) per- kataan-perkataan \"or any person licensed under section 29CA (1) or any person authorised to pilot vessels under section 29CB (2)\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan-perkataan \"Five hundred dollars\" dalam subseksyen (3) dengan perkataan-perkataan \"two thousand ringgit\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_9__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_9__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 29J Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan-perkataan \"an authority pilot\" dalam subseksyen (1) per- kataan-perkataan \"or an employee licensed under section 29CA (1) of a licensed operator or any person authorised by the authority to pilot vessels pursuant to section 29CB (2)\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan-perkataan \"such authority pilot\" dalam subseksyen (2) perkataan-perkataan \"or employee licensed under section 29CA(l) of a licensed operator, or, in the case of such person authorised by the authority to pilot vessels pursuant to section 29CB (2), revoke such authorisation,\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_9__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan-perkataan \"Any authority pilot,\" dalam subseksyen 3 per- kataan-perkataan \"or an employee licensed under section 29CA (1) of a licensed operator,\"."
+      }
+    }
+  ]
+}

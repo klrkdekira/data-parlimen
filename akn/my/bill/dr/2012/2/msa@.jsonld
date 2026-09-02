@@ -1,0 +1,3071 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-2-2012",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Institut Penyelidikan Keselamatan Jalan Raya Malaysia 2012"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_I__cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_I__cl_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERMULAAN Tajuk ringkas dan permulaan kuat kuasa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_9"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "INSTITUT Institut Penyelidikan Keselamatan Jalan Raya Malaysia"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_24"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "LEMBAGA PENGARAH INSTITUT Lembaga Pengarah"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu lembaga pengarah yang dikenali sebagai “Lembaga Pengarah Institut Penyelidikan Keselamatan Jalan Raya Malaysia” ditubuhkan. Keanggotaan Lembaga"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_11__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_11__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_11__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_11__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_11__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_11__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_11__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_11__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_11__subsec_1__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_11__subsec_1__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Lembaga hendaklah terdiri daripada anggota yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_11__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengerusi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_11__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_11__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Polis Negara atau wakilnya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_11__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah Jabatan Pengangkutan Jalan atau wakilnya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_11__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah Jabatan Keselamatan Jalan Raya atau wakilnya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_11__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seorang wakil daripada Kementerian Pengangkutan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_11__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seorang wakil daripada Kementerian Kewangan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_11__subsec_1__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tidak kurang daripada dua dan tidak lebih daripada enam anggota yang, pada pendapat Menteri, mempunyai pengalaman dan menunjukkan keupayaan dan profesionalisme dalam perkara yang berhubung dengan keselamatan jalan raya termasuk pengangkutan, pendidikan, media, kejuruteraan, perubatan, penyelidikan dan sumber manusia, atau selainnya yang sesuai bagi lantikan berdasarkan pengetahuan khusus dan pengalaman dalam perkara yang berhubung dengan keselamatan jalan raya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah melantik anggota dalam perenggan (1)(a), (f), (g) dan (h)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_11__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jadual hendaklah terpakai kepada anggota Lembaga. Wakil organisasi yang dinamakan semula"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_12__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika seseorang anggota Lembaga ialah wakil sesuatu kementerian, jabatan atau organisasi dan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kementerian, jabatan atau organisasi itu telah dinamakan semula; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "fungsi kementerian, jabatan atau organisasi itu diambil alih oleh kementerian, jabatan atau organisasi lain, anggota itu hendaklah dinamakan semula sebagai wakil kepada kementerian, jabatan atau organisasi sebagaimana yang dinamakan semula atau kepada kementerian, jabatan atau organisasi yang mengambil alih fungsi tersebut. Timbalan Pengerusi dan Setiausaha"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_13__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah melantik Timbalan Pengerusi Lembaga dari kalangan anggota Lembaga."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Lembaga hendaklah melantik seorang pegawai Institut sebagai Setiausaha Lembaga. Fungsi Lembaga"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_14__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_14__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_14__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_14__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Fungsi Lembaga adalah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengkaji semula dasar dan hala tuju strategik Institut;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menasihati Menteri dalam perkara yang berhubung dengan Akta ini dan perkembangan berkaitan penyelidikan keselamatan jalan raya dengan rujukan khusus kepada implikasi perkembangan sedemikian bagi Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_14__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk membuat pengesyoran kepada Menteri berkenaan dengan kaedah, langkah dan dasar untuk diterima pakai bagi memudahkan pembangunan penyelidikan keselamatan jalan raya, dan jika diluluskan oleh Menteri, untuk melaksanakan dan membantu di dalam pelaksanaannya melalui Institut;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_14__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk membuat apa-apa perkara yang perlu atau berfaedah dan sesuai bagi pentadbiran, pengawalan dan pengurusan Institut; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_14__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk membuat apa-apa perkara lain yang timbul atau berbangkit daripada fungsi Lembaga di bawah Akta ini yang tidak bercanggah dengan maksud Akta ini, sama ada diarahkan oleh Menteri atau tidak. Kuasa Lembaga"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Lembaga hendaklah menjadi badan eksekutif Institut dan boleh menjalankan semua kuasa yang diberi kepada Institut oleh Akta ini. Tempoh jawatan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_16__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_16__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_16__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada apa-apa syarat yang dinyatakan dalam surat cara pelantikan, anggota Lembaga yang dilantik di bawah perenggan 11(1)(a), (f), (g) atau (h) hendaklah, melainkan dia meletak jawatan atau mengosongkan jawatannya atau pelantikannya ditamatkan, memegang jawatan bagi suatu tempoh yang tidak melebihi tiga tahun."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_16__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Anggota Lembaga yang dilantik di bawah perenggan 11(1)(a), (f), (g) atau (h) adalah layak untuk dilantik semula. Pembatalan pelantikan dan peletakan jawatan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_17__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_17__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh pada bila-bila masa membatalkan pelantikan mana-mana anggota Lembaga yang dilantik di bawah perenggan 11(1)(a), (f), (g) atau (h) tanpa memberikan apa-apa alasan bagi pembatalan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Anggota Lembaga yang dilantik di bawah perenggan 11(1)(a), (f), (g) atau (h) boleh meletak jawatan dengan memberikan notis bertulis yang dialamatkan kepada Menteri tidak kurang daripada empat belas hari sebelum tarikh peletakan jawatan yang dimaksudkan. Pengosongan jawatan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_18__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_18__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_18__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_18__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_18__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_18__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatan anggota Lembaga yang dilantik di bawah perenggan 11(1)(a), (f), (g) atau (h) hendaklah menjadi kosong—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika dia mati;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_18__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_18__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_18__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika telah dibuktikan terhadapnya, atau dia telah disabitkan atas, suatu pertuduhan berkenaan dengan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_18__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_18__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu kesalahan yang melibatkan fraud, kecurangan atau keburukan akhlak;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_18__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_18__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu kesalahan di bawah mana-mana undang- undang yang berhubung dengan rasuah; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_18__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_18__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa kesalahan lain yang boleh dihukum dengan pemenjaraan (sama ada pemenjaraan sahaja atau sebagai tambahan kepada atau sebagai ganti denda) selama tempoh yang melebihi dua tahun;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_18__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sekiranya kelakuannya, sama ada yang berkaitan dengan tugasnya sebagai anggota Lembaga atau tidak, adalah sedemikian cara sehingga mencemarkan nama Lembaga;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_18__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika dia menjadi bankrap;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_18__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika dia tidak sempurna akal atau selainnya tidak berupaya menunaikan kewajipannya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_18__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam hal Pengerusi, jika dia tidak menghadiri mesyuarat Lembaga tiga kali berturut-turut tanpa kebenaran secara bertulis daripada Menteri; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_18__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam hal anggota Lembaga yang dilantik di bawah perenggan 11(1)(f), (g) atau (h), jika dia tidak menghadiri mesyuarat Lembaga tiga kali berturut-turut tanpa kebenaran secara bertulis daripada Pengerusi. Penjalanan sementara fungsi Pengerusi"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_19__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_19__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_19__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh melantik secara sementara mana-mana anggota Lembaga untuk bertindak sebagai Pengerusi bagi tempoh apabila—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jawatan Pengerusi kosong;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_19__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengerusi tidak hadir bertugas atau tidak ada di Malaysia; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_19__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengerusi, kerana apa-apa sebab lain, tidak dapat menjalankan kewajipan jawatannya. Pewakilan fungsi"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_20__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_20__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_20__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_20__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_20__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_20__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_20__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Lembaga boleh, tertakluk kepada apa-apa syarat, batasan atau sekatan yang difikirkan patut dikenakan, mewakilkan mana-mana fungsinya, kecuali fungsinya di bawah seksyen 59, kepada—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_20__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_20__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seorang anggota Lembaga; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_20__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_20__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu jawatankuasa yang ditubuhkan di bawah seksyen 21."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_20__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang atau jawatankuasa yang diwakilkan dengan fungsi sedemikian hendaklah terikat untuk mematuhi dan mengambil kira akan segala syarat dan sekatan yang dikenakan oleh Lembaga dan segala kehendak, tatacara dan perkara yang ditentukan oleh Lembaga."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_20__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana fungsi yang diwakilkan di bawah seksyen ini hendaklah dilaksanakan dan dijalankan atas nama dan bagi pihak Lembaga."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_20__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pewakilan di bawah seksyen ini tidak menghalang Lembaga sendiri daripada melaksanakan atau menjalankan pada bila-bila masa mana-mana fungsi yang telah diwakilkan itu. Jawatankuasa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21__subsec_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21__subsec_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21__subsec_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21__subsec_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21__subsec_12"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Lembaga boleh menubuhkan apa-apa jawatankuasa sebagaimana yang difikirkannya perlu atau suai manfaat untuk membantunya dalam pelaksanaan fungsinya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21__subsec_10",
+      "@type": "akn:subsection",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Lembaga boleh membatalkan pelantikan mana-mana anggota jawatankuasa tanpa memberikan apa-apa alasan bagi pembatalan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21__subsec_11",
+      "@type": "akn:subsection",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang anggota jawatankuasa boleh meletakkan jawatan dengan memberikan notis bertulis kepada Lembaga tidak kurang daripada empat belas hari sebelum tarikh peletakan jawatan yang dimaksudkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21__subsec_12",
+      "@type": "akn:subsection",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21__subsec_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21__subsec_12__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sesuatu jawatankuasa hendaklah menyebabkan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21__subsec_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21__subsec_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "minit kesemua mesyuaratnya disenggarakan dan disimpan dalam bentuk yang sepatutnya; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21__subsec_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21__subsec_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "salinan minit semua mesyuaratnya dikemukakan kepada Lembaga dengan secepat yang dapat dilaksanakan. Elaun"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Lembaga boleh melantik mana-mana orang untuk menjadi anggota sesuatu jawatankuasa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sesuatu jawatankuasa yang ditubuhkan di bawah seksyen ini boleh memilih mana-mana anggotanya menjadi pengerusi jawatankuasa itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sesuatu jawatankuasa boleh mengawal selia tatacaranya sendiri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sesuatu jawatankuasa hendaklah tertakluk kepada, dan bertindak mengikut apa-apa arahan yang diberikan kepada jawatankuasa itu oleh Lembaga."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mesyuarat sesuatu jawatankuasa hendaklah diadakan pada masa dan tempat yang ditentukan oleh pengerusi jawatankuasa itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sesuatu jawatankuasa boleh mengundang mana-mana orang yang bukan anggota jawatankuasa untuk menghadiri mana-mana mesyuaratnya bagi maksud menasihatinya tentang apa-apa perkara yang sedang dibincangkan, tetapi orang itu tidak berhak untuk mengundi pada mesyuarat itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Anggota jawatankuasa atau mana-mana orang yang diundang di bawah subseksyen (7) untuk menghadiri mana-mana mesyuarat jawatankuasa boleh dibayar apa-apa elaun dan belanja lain yang ditentukan oleh Lembaga."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21__subsec_9",
+      "@type": "akn:subsection",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada subseksyen (10), (11) dan (12), seseorang anggota jawatankuasa hendaklah memegang jawatan atas apa- apa syarat dan bagi suatu tempoh yang dinyatakan dalam surat pelantikannya dan layak untuk dilantik semula."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Maka hendaklah dibayar kepada setiap anggota Lembaga yang bukan pegawai atau pekhidmat Institut apa-apa elaun daripada Kumpulan Wang pada apa-apa kadar yang ditentukan oleh Menteri, selepas berunding dengan Menteri Kewangan. Kuasa Menteri untuk memberikan arahan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_23__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_23__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_23__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Lembaga hendaklah bertanggungjawab kepada Menteri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_23__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh memberi Lembaga arahan yang bersifat umum selaras dengan Akta ini yang berhubungan dengan pelaksanaan fungsi Lembaga, dan Lembaga hendaklah melaksanakan arahan itu. Kesahan tindakan dan prosiding"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_24__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_24__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada tindakan yang dilakukan atau prosiding yang diambil di bawah Akta ini boleh dipersoalkan atas alasan bahawa—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_24__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ada apa-apa kekosongan dalam keanggotaan atau apa-apa kecacatan dalam penubuhan Lembaga; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_24__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_III__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ada apa-apa peninggalan, kecacatan atau ketidakteraturan yang tidak menyentuh merit hal itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_4__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu pertubuhan perbadanan dengan nama “Institut Penyelidikan Keselamatan Jalan Raya Malaysia” atau “MIROS” ditubuhkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut adalah kekal turun-temurun dan boleh membawa guaman dan dibawa guaman terhadapnya atas nama perbadanannya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_4__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_4__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada dan bagi maksud Akta ini, Institut boleh atas apa-apa terma yang difikirkannya patut—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_4__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_4__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membuat kontrak; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_4__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_4__subsec_3__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_4__subsec_3__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_4__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "berkenaan dengan apa-apa jenis harta alih dan tak alih dan kepentingan mengenai harta alih dan tak alih—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_4__subsec_3__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_4__subsec_3__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memperoleh, membeli dan mengambil harta dan kepentingan itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_4__subsec_3__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_4__subsec_3__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memegang, menikmati, memindahhakkan, menyerahhakkan, menyerahkan balik, memulangkan, menggadaikan, menggadaijanjikan, mendemiskan, menyerahhakkan semula, memindahkan hakmilik atau dengan apa-apa cara lain melupuskan, atau membuat urusan mengenai apa-apa harta dan kepentingan yang terletak hak pada Institut. Meterai perbadanan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_5__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_5__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_5__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_5__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut hendaklah mempunyai suatu meterai perbadanan dan meterai itu bolehlah dari semasa ke semasa diubah dan dibuat baharu sebagaimana yang difikirkan patut oleh Institut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sehingga suatu meterai diadakan oleh Institut, suatu cap yang mengandungi perkataan “Institut Penyelidikan Keselamatan Jalan Raya Malaysia” bolehlah digunakan dan hendaklah disifatkan sebagai meterai perbadanan Institut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Meterai perbadanan itu hendaklah disimpan dalam jagaan Ketua Pengarah atau mana-mana orang lain yang diberi kuasa oleh Institut secara bertulis, dan hendaklah ditentusahkan sama ada oleh Ketua Pengarah atau mana-mana orang lain yang diberi kuasa oleh Ketua Pengarah secara bertulis."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_5__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Segala surat ikatan, dokumen dan surat cara lain yang berupa sebagai dimeteraikan dengan meterai perbadanan itu dan ditentusahkan dengan sewajarnya hendaklah, sehingga dibuktikan sebaliknya, disifatkan telah disempurnakan dengan sah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_5__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa surat ikatan, dokumen dan surat cara lain yang, jika disempurnakan oleh seseorang yang bukan suatu pertubuhan perbadanan dan tidak dikehendaki supaya dimeteraikan boleh disempurnakan mengikut cara yang serupa oleh seorang pegawai Institut yang diberi kuasa bagi pihak Institut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_5__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Meterai perbadanan Institut hendaklah diberi pengiktirafan rasmi dan kehakiman. Fungsi Institut"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6__para_l",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6__para_m"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Fungsi Institut adalah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menjalankan penyelidikan yang menyeluruh ke atas keselamatan jalan raya, dan memberikan hala tuju umum untuk aktiviti berkenaan dengan penyelidikan keselamatan jalan raya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk membantu dalam pembangunan objektif, dasar dan keutamaan nasional bagi pembangunan dan pentadbiran keselamatan jalan raya yang teratur;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menambah baik dan meningkatkan pengetahuan berasaskan kepada perkembangan terkini berkaitan dengan isu berhubung dengan keselamatan jalan raya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk meningkatkan tahap kesedaran awam terhadap keselamatan jalan raya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mencadangkan penyelesaian yang praktikal dengan keberkesanan optimum terhadap isu keselamatan jalan raya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengumpul, menganalisis dan menguruskan data berhubung dengan keselamatan jalan raya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk membangunkan, mempromosikan penggunaan, menambahkan nilai dan mengkomersialkan dapatan penyelidikan mengenai keselamatan jalan raya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengumpul, mengumpul semak dan menyebarkan maklumat berhubung dengan dapatan penyelidikan mengenai keselamatan jalan raya dengan cara menerbitkan atau menaja penerbitan terbitan berkala, jurnal, buku dan apa-apa cara lain yang ada, dan untuk menyediakan khidmat perundingan dan nasihat mengenai isu keselamatan jalan raya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk merancang dan menilai program keselamatan jalan raya, dan untuk menjalankan latihan berhubung dengannya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengkaji semula piawaian dan hasil pembelajaran kurikulum bagi kursus memandu yang disediakan oleh institusi memandu dan mengaudit tanda aras berkenaan dengan sistem penyampaian institusi memandu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengkaji semula kaedah ujian yang dijalankan oleh organisasi pemeriksaan kenderaan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menjadi anggota, bergabungan dengan atau menjalin hubungan dengan mana-mana organisasi lain, kedua-dua awam dan swasta, tempatan dan asing, yang mempunyai fungsi atau aktiviti yang serupa dengan fungsi dan aktiviti Institut termasuk organisasi yang melibatkan diri dalam penyelidikan saintifik, teknikal, ekonomi dan sosiologi berkaitan keselamatan jalan raya; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6__para_m",
+      "@type": "akn:paragraph",
+      "eli:number": "m",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk bekerjasama dengan mana-mana orang, persatuan atau organisasi, kedua-dua tempatan dan asing, dengan matlamat untuk meningkatkan prestasi Institut secara efektif. Kuasa Institut"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_7__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut hendaklah mempunyai kuasa untuk melakukan semua perkara yang perlu atau suai manfaat bagi atau berkaitan dengan pelaksanaan fungsinya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_7__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_7__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_7__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_7__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tanpa menjejaskan keluasan subseksyen (1), kuasa Institut hendaklah termasuk kuasa—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_7__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_7__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengenakan fi atau caj berhubung dengan apa-apa aktiviti atau perkhidmatan yang diberikan oleh Institut atau penggunaan kemudahan Institut, dan untuk mengutip dan menerima wang yang berkenaan dengannya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_7__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_7__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk memperoleh hak yang berkaitan dengan apa-apa dapatan penyelidikan mengenai keselamatan jalan raya yang dimiliki oleh mana-mana orang atau organisasi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_7__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_7__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk memegang, melupuskan atau memberikan hak berkaitan dengan apa-apa dapatan penyelidikan berkaitan keselamatan jalan raya yang dijalankan oleh atau untuk Institut, atau hak dapatan penyelidikan yang terletak hak pada Institut; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_7__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_7__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk melantik mana-mana orang atau badan untuk menjalankan aktiviti penyelidikan dan pembangunan berhubung dengan keselamatan jalan raya bagi pihak Institut. Kuasa tambahan Institut"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tanpa menjejaskan seksyen 9, Institut boleh, dengan kebenaran Menteri dan persetujuan Menteri Kewangan menubuhkan syarikat di bawah Akta Syarikat 1965 [Akta 125] bagi maksud menjalankan atau terlibat dalam apa-apa aktiviti yang telah dirancang atau dijalankan oleh Institut yang berkaitan dengan pelaksanaan fungsi dan kuasanya. Pengkomersialan dapatan penyelidikan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut boleh memasuki apa-apa perkiraan untuk membuat tersedia apa-apa dapatan penyelidikan yang terletak hak pada Institut kepada mana-mana orang atau badan atas apa-apa terma, syarat dan pembayaran apa-apa fi, royalti atau balasan lain, jika ada, sebagaimana yang ditentukan oleh Lembaga, dengan kelulusan Menteri, bagi maksud pengkomersialan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_31"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "KETUA PENGARAH, TIMBALAN KETUA PENGARAH, PEGAWAI DAN PEKHIDMAT INSTITUT Pelantikan Ketua Pengarah"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_25__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_25__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_25__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_25__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_25__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_25__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_25__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh, di atas syor Lembaga, melantik mana- mana orang yang mempunyai kemahiran atau kepakaran yang sesuai untuk berkhidmat sebagai Ketua Pengarah Institut dan hendaklah meletak hak padanya apa-apa kuasa dan mengenakan ke atasnya apa-apa kewajipan sebagaimana yang ditentukan oleh Lembaga."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_25__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah hendaklah bertanggungjawab bagi pentadbiran dan pengurusan keseluruhan fungsi dan hal ehwal harian Institut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_25__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah hendaklah mempunyai kawalan am ke atas pegawai dan pekhidmat Institut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_25__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah hendaklah melaksanakan apa-apa kewajipan tambahan sebagaimana yang diarahkan oleh Lembaga dari semasa ke semasa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_25__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam menunaikan kewajipannya, Ketua Pengarah hendaklah bertindak di bawah kuasa dan arahan am Lembaga."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_25__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika Ketua Pengarah tidak ada buat sementara waktu di Malaysia atau tidak dapat oleh sebab sakit atau kerana apa-apa sebab lain, untuk melaksanakan kewajipannya, Ketua Pengarah hendaklah melantik mana-mana orang untuk menjalankan kewajipan Ketua Pengarah semasa ketiadaan atau ketidakupayaan sementara waktu itu. Pelantikan Timbalan Ketua Pengarah"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh melantik individu yang mempunyai kemahiran atau kepakaran yang sesuai, sebagaimana yang disyorkan oleh Ketua Pengarah, sebagai Timbalan Ketua Pengarah Institut untuk membantu Ketua Pengarah dalam melaksanakan kewajipannya. Kuasa untuk mewakilkan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_27__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_27__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_27__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_27__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_27__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah boleh secara bertulis mewakilkan mana- mana fungsinya, tertakluk kepada apa-apa syarat, batasan atau sekatan yang difikirkannya patut, kepada Timbalan Ketua Pengarah atau mana-mana pegawai Institut, dan orang yang kepadanya fungsi itu diwakilkan hendaklah melaksanakan fungsi itu mengikut cara yang sama dan dengan kesan yang sama seolah-olah fungsi itu telah diberikan kepadanya di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_27__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang yang berupa sebagai bertindak menurut pewakilan yang dibuat di bawah seksyen ini hendaklah, jika tiada bukti yang berlawanan, dianggap sebagai bertindak mengikut terma pewakilan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_27__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pewakilan yang dibuat di bawah seksyen ini boleh pada bila-bila masa dibatalkan oleh Ketua Pengarah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_27__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pewakilan yang dibuat di bawah seksyen ini tidaklah menghalang Ketua Pengarah daripada menjalankan pada bila-bila masa fungsi yang diwakilkan itu. Pelantikan pegawai, pekhidmat, dsb."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut boleh melantik atau mengambil kerja apa-apa bilangan pegawai dan pekhidmat yang difikirkannya perlu, dan atas apa- apa terma yang difikirkannya sesuai, untuk menjalankan fungsi dan melaksanakan kuasa Institut. Syarat-syarat perkhidmatan, tatatertib dan surcaj"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_29__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_29__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_29__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut boleh menentukan syarat-syarat perkhidmatan pegawai dan pekhidmatnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_29__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Badan-Badan Berkanun (Tatatertib dan Surcaj) 2000 [Akta 605] hendaklah terpakai kepada pegawai dan pekhidmat Institut. Pinjaman dan pendahuluan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut boleh memberikan pinjaman dan membuat pendahuluan kepada pegawai dan pekhidmatnya bagi apa-apa maksud dan atas apa-apa terma yang ditentukan oleh Institut. Pembayaran faedah persaraan, dsb."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut boleh membuat perkiraan bagi pembayaran kepada pegawai dan pekhidmatnya, dan tanggungan mereka, apa-apa faedah persaraan, ganjaran dan elaun lain yang ditentukan oleh Institut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Institut Penyelidikan Keselamatan Jalan Raya Malaysia 2012."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pemakaian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini hendaklah terpakai bagi semua orang termasuk Kerajaan Persekutuan dan Kerajaan Negeri. Tafsiran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_I__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "“data” ertinya apa-apa maklumat yang direkod atau dokumen yang berkaitan dengan atau relevan kepada keselamatan jalan raya, tidak kira dalam apa jua bentuk, yang meliputi data utama, data sekunder, data kasar atau data agregat, termasuk data kemalangan, laporan, pelan lakar kemalangan jalan raya, data kecederaan dan jumlah trafik; “dokumen” mempunyai erti seperti yang dinyatakan dalam seksyen 3 Akta Keterangan 1950 [Akta 56]; “entiti fizikal” ertinya apa-apa kelengkapan, alat, artikel, barang atau benda yang direka bentuk, dibina, dibuat, diedar, dijual atau dikatakan untuk kegunaan di jalan raya atau yang secara umumnya berhubung dengan pengangkutan darat atau berkaitan dengan atau relevan kepada keselamatan jalan raya, dan termasuk kenderaan bermotor, perkakas jalan raya dan tanda lalu lintas; “harta” ertinya semua harta alih atau tak alih, termasuk harta intelek dan semua kepentingan, hak dan liabiliti, sama ada di bawah ekuiti atau undang-undang, dalam harta itu, dan termasuk hak dalam tindakan, pelaburan, wang dan nama baik; “Institut” ertinya Institut Penyelidikan Keselamatan Jalan Raya Malaysia atau MIROS; “institusi memandu” ertinya sekolah memandu atau institut memandu yang kepadanya permit dikeluarkan di bawah Kaedah-Kaedah Kenderaan Motor (Sekolah Memandu) 1992 [P.U. (A) 60/1992]; “Ketua Pengarah” ertinya Ketua Pengarah Institut yang dilantik di bawah subseksyen 25(1); “Kumpulan Wang” ertinya Kumpulan Wang Institut Penyelidikan Keselamatan Jalan Raya Malaysia yang ditubuhkan di bawah seksyen 32; “Lembaga” ertinya Lembaga Pengarah Institut Penyelidikan Keselamatan Jalan Raya Malaysia yang ditubuhkan di bawah seksyen 10; “Menteri” ertinya Menteri yang bertanggungjawab bagi pengangkutan; “pegawai yang ditugaskan” ertinya seorang pegawai yang dilantik dibawah seksyen 42; “Pengerusi” ertinya Pengerusi Lembaga yang dilantik di bawah subseksyen 11(2); “sampel” ertinya apa-apa amaun, bahagian atau kuantiti yang diambil daripada entiti fizikal sebagai suatu sampel representatif; “Timbalan Ketua Pengarah” ertinya Timbalan Ketua Pengarah Institut yang dilantik di bawah seksyen 26."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_41"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "KEWANGAN Penubuhan Kumpulan Wang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_44",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_45"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PEGAWAI YANG DITUGASKAN Pelantikan pegawai yang ditugaskan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII",
+      "@type": "akn:part",
+      "eli:number": "VII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_46",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_47",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_48",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_49",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_50",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_51",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_52",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_53",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_54",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_55",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_56",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_57",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_58",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_59",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_60"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "TAMBAHAN Hak pemilikan bagi dapatan penyelidikan, dsb."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_46",
+      "@type": "akn:clause",
+      "eli:number": "46",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_46__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_46__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_46__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_46__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_46",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Hak pemilikan bagi setiap dapatan penyelidikan atau program yang dijalankan oleh Institut dan dibiayai sepenuhnya oleh pemberian yang diberikan kepada Institut oleh Kerajaan Persekutuan atau Kerajaan Negeri hendaklah terletak hak pada Institut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_46__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_46",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun dalam subseksyen (1), Institut boleh memberi ganjaran kepada pegawai atau orang yang bertanggungjawab bagi dapatan penyelidikan atau program itu dengan cara yang difikirkan sesuai."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_46__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_46",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Hak pemilikan bagi setiap dapatan penyelidikan atau program yang dijalankan oleh Institut yang dibiayai oleh badan perusahaan atau organisasi persendirian hendaklah terletak hak bersama pada Institut dan badan perusahaan atau organisasi persendirian tersebut, tertakluk kepada terma dalam apa-apa perjanjian antara Institut dengan badan perusahaan atau organisasi persendirian tersebut. Akses kepada dapatan penyelidikan dan kemudahan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_47",
+      "@type": "akn:clause",
+      "eli:number": "47",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_47__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_47__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_47__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_47",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut boleh, tertakluk kepada apa-apa syarat, batasan dan sekatan yang ditentukan, termasuk pengenaan fi, membenarkan mana-mana orang mendapat akses kepada dapatan penyelidikan dan kemudahan Institut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_47__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_47",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud seksyen ini, “kemudahan” termasuk peralatan, makmal dan pengkalan data. Penyimpanan data"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_48",
+      "@type": "akn:clause",
+      "eli:number": "48",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_48__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_48__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_48__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_48",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Data yang diambil daripada agensi lain untuk maksud analisis di bawah Akta ini tidak boleh disimpan melebihi tempoh yang diperlukan bagi memenuhi maksud berkenaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_48__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_48",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut berkewajipan untuk mengambil semua langkah yang munasabah untuk memastikan bahawa data berkenaan telah dimusnahkan atau dipadam secara kekal jika ia tidak lagi diperlukan bagi maksud ianya diambil. Simbol, reka bentuk dan representasi Institut"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_49",
+      "@type": "akn:clause",
+      "eli:number": "49",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_49__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_49__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_49__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_49__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_49",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut mempunyai hak eksklusif untuk menggunakan simbol, rekabentuk atau representasi yang direka oleh Institut dan kemudiannya boleh memperaga atau mempamerkannya dalam aktiviti atau hal ehwal yang berkaitan dengannya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_49__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_49",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Simbol, rekabentuk atau representasi yang direka oleh Institut hendaklah disiarkan dalam Warta."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_49__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_49",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang menggunakan simbol, rekabentuk atau representasi Institut atau yang mempunyai persamaan dengannya, atau mereka sebarang simbol, rekabentuk atau representasi yang merujuk kepada Institut untuk memperdaya atau menyebabkan kekeliruan, atau boleh memperdaya atau menyebabkan kekeliruan, melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya. Pekhidmat awam"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_50",
+      "@type": "akn:clause",
+      "eli:number": "50",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah, Timbalan Ketua Pengarah, mana-mana anggota Lembaga, mana-mana anggota jawatankuasa, mana-mana pegawai atau pekhidmat Institut, mana-mana pegawai yang ditugaskan atau mana-mana orang yang diupah oleh Institut semasa menunaikan kewajipannya atau melaksanakan fungsinya atau menjalankan kuasanya di bawah Akta ini atas kapasitinya yang sedemikian, hendaklah disifatkan sebagai pekhidmat awam mengikut pengertian Kanun Keseksaan [Akta 574]. Akta Perlindungan Pihak Berkuasa Awam 1948"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_51",
+      "@type": "akn:clause",
+      "eli:number": "51",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Perlindungan Pihak Berkuasa Awam 1948 [Akta 198] hendaklah terpakai bagi apa-apa tindakan, guaman, pendakwaan atau prosiding terhadap Institut, Ketua Pengarah, Timbalan Ketua Pengarah, mana-mana anggota Lembaga, atau anggota jawatankuasa, mana-mana pegawai atau pekhidmat Institut, pegawai yang ditugaskan atau mana-mana orang yang diupah oleh Institut berkenaan dengan apa-apa perbuatan, pengabaian atau keingkaran yang dilakukan atau apa-apa peninggalan olehnya atas sifat sedemikian. Perlindungan anggota Lembaga daripada liabiliti diri"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_52",
+      "@type": "akn:clause",
+      "eli:number": "52",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada seorang pun anggota Lembaga hendaklah menanggung apa-apa liabiliti diri bagi apa-apa kerugian atau kerosakan yang disebabkan oleh apa-apa perbuatan atau peninggalan dalam pengurusan atau pengendalian hal ehwal Institut atau Lembaga, melainkan jika kerugian atau kerosakan itu disebabkan oleh sesuatu perbuatan salah atau peninggalan yang disengajakan oleh dirinya. Perlindungan daripada tindakan guaman dan prosiding undang-undang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_53",
+      "@type": "akn:clause",
+      "eli:number": "53",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada tindakan, guaman, pendakwaan atau prosiding lain boleh diambil atau dibawa, dimulakan atau dibuat dalam mana-mana mahkamah terhadap Institut, Ketua Pengarah, Timbalan Ketua Pengarah, mana-mana anggota Lembaga, mana-mana anggota jawatankuasa, mana-mana pegawai atau pekhidmat Institut, mana- mana pegawai yang ditugaskan atau mana-mana orang yang diupah oleh Institut berkenaan dengan apa-apa perbuatan yang dibuatnya atau peninggalan olehnya dengan suci hati, atas sifat sedemikian. Pewakilan dalam prosiding sivil"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_54",
+      "@type": "akn:clause",
+      "eli:number": "54",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_54__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_54__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Walau apa pun dalam mana-mana undang-undang bertulis yang lain—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_54__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_54",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam mana-mana prosiding sivil oleh atau terhadap Institut; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_54__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_54",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam mana-mana prosiding sivil yang lain yang dalamnya Institut dikehendaki atau dibenarkan oleh mahkamah untuk diwakili, atau didengar, atau selainnya berhak untuk diwakili atau didengar, mana-mana orang yang diberi kuasa oleh Institut bagi maksud itu boleh, bagi pihak Institut, memulakan prosiding sedemikian atau hadir dalam prosiding itu dan boleh membuat semua kehadiran dan permohonan dan melakukan semua perbuatan yang berkenaan dengan prosiding itu bagi pihak Institut. Obligasi kerahsiaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_55",
+      "@type": "akn:clause",
+      "eli:number": "55",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_55__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_55__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_55__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_55__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_55__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_55",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kecuali bagi apa-apa maksud Akta ini atau bagi maksud apa-apa prosiding sivil atau jenayah di bawah mana-mana undang- undang bertulis atau jika selainnya dibenarkan oleh Menteri—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_55__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_55__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah, Timbalan Ketua Pengarah, mana-mana anggota Lembaga, mana-mana anggota jawatankuasa, mana-mana pegawai atau pekhidmat Institut, mana- mana pegawai yang ditugaskan atau mana-mana orang yang diupah oleh Institut, sama ada dalam atau selepas tempoh jawatan, pekerjaan atau upahannya, hendaklah tidak menzahirkan apa-apa maklumat yang diketahuinya atau didapatinya dalam penjalanan tugas; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_55__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_55__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tiada seorang pun yang, melalui apa-apa cara, mempunyai akses kepada apa-apa maklumat atau dokumen yang berhubungan dengan hal ehwal Institut atau Lembaga Pengarah boleh menzahirkan maklumat atau dokumen itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_55__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_55",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi sepuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya. Penyampaian notis atau dokumen lain"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_56",
+      "@type": "akn:clause",
+      "eli:number": "56",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_56__subsec_1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_56__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_56__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_56__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_56__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_56",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Penyampaian notis atau dokumen lain kepada mana-mana orang hendaklah dilakukan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_56__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_56__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menyampaikan notis atau dokumen lain kepada orang itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_56__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_56__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan meninggalkan notis atau dokumen lain di alamat kediaman atau tempat perniagaan orang itu yang terakhir diketahui dalam sampul yang beralamat kepada orang itu; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_56__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_56__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menghantar notis atau dokumen lain melalui pos berdaftar A.T. yang dialamatkan kepada orang itu di alamat kediaman atau tempat perniagaannya yang terakhir diketahui. Permulaan pendakwaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_57",
+      "@type": "akn:clause",
+      "eli:number": "57",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada pendakwaan bagi sesuatu kesalahan di bawah Akta ini boleh dimulakan kecuali oleh atau dengan keizinan bertulis Pendakwa Raya. Pemakaian peraturan-peraturan, dsb."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_58",
+      "@type": "akn:clause",
+      "eli:number": "58",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh, selepas berunding dengan Lembaga, menerima pakai dengan ubahsuaian sebagaimana yang dianggap sesuai, mana-mana peraturan, kaedah, dasar, pekeliling dan arahan yang diperbuat atau dikeluarkan oleh Kerajaan Persekutuan, bagi maksud melaksanakan peruntukan Akta ini. Kuasa untuk membuat peraturan-peraturan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_59",
+      "@type": "akn:clause",
+      "eli:number": "59",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_59__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_59__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_59__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_59",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh, selepas berunding dengan Lembaga, membuat peraturan-peraturan yang suai manfaat atau perlu bagi maksud melaksanakan peruntukan Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_59__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_59__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_59__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_59__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_59__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_59__subsec_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_59",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tanpa menjejaskan kuasa am yang diberikan oleh subseksyen (1), Menteri boleh, selepas berunding dengan Lembaga, membuat peraturan-peraturan untuk semua atau mana-mana maksud di bawah:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_59__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_59__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menetapkan fi atau caj yang akan dikenakan berhubung dengan khidmat perundingan dan nasihat yang diberikan oleh Institut;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_59__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_59__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk memperuntukkan dan menetapkan apa-apa fi yang kena dibayar berhubung dengan pemberian apa-apa perkhidmatan atau apa-apa perkara di bawah Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_59__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_59__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menetapkan prosedur untuk mendapatkan, berurusan dengan dan penyimpanan sampel;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_59__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_59__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menetapkan apa-apa perkara yang mana Akta ini membuat peruntukan nyata supaya dibuat melalui peraturan-peraturan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_59__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_59__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menetapkan semua perkara lain yang suai manfaat atau perlu untuk ditetapkan bagi memberikan kuat kuasa kepada Akta ini. Perkara yang dilakukan pada menjangkakan Akta ini diperbuat"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_60",
+      "@type": "akn:clause",
+      "eli:number": "60",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_60__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_60__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_60__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_60",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Segala perbuatan dan perkara yang dilakukan oleh mana-mana orang atau pihak berkuasa bagi pihak Institut sebagai persediaan bagi atau pada menjangkakan Akta ini diperbuat dan apa-apa perbelanjaan yang dilakukan berhubungan dengannya hendaklah disifatkan sebagai telah dibenarkan di bawah Akta ini, dengan syarat bahawa perbuatan dan perkara yang dilakukan itu adalah selaras dengan niat dan maksud am Akta ini; dan segala hak dan obligasi yang diperoleh atau ditanggung akibat pelakuan perbuatan atau perkara itu termasuk apa-apa perbelanjaan yang ditanggung berhubungan dengannya, hendaklah apabila Akta ini mula berkuat kuasa disifatkan sebagai hak dan obligasi Institut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_60__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VII__cl_60",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun dalam subseksyen (1), seksyen ini tidak boleh disifatkan sebagai telah memberi kuasa untuk pengenaan apa-apa hukuman ke atas seseorang bagi apa-apa perbuatan atau perkara yang dilakukan sebagai persediaan bagi atau pada menjangkakan Akta ini diperbuat."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_42__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_42__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_42__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_42",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah boleh melantik apa-apa bilangan pegawai Institut dan pegawai awam yang difikirkan perlu untuk menjadi pegawai yang ditugaskan bagi maksud menjalankan kuasa yang dinyatakan di dalam Bahagian ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_42__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_42__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_42__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_42",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah hendaklah mengeluarkan kepada setiap pegawai yang ditugaskan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_42__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_42__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu sijil berkenaan pelantikan pegawai yang ditugaskan yang ditandatangani oleh Ketua Pengarah, di mana sijil tersebut hendaklah dalam apa-apa prosiding undang- undang diterima sebagai keterangan dan hendaklah menjadi keterangan prima facie berkenaan fakta yang diperakukan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_42__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_42__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu kad kuasa yang ditandatangani oleh Ketua Pengarah. Akses dan pendedahan data"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_43__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_43__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_43__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_43__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_43",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut atau seorang pegawai yang ditugaskan boleh meminta mana-mana orang untuk memberi akses kepada atau mendedahkan data di dalam milikannya, di mana data tersebut diperlukan untuk menjalankan penyelidikan keselamatan jalan raya menurut fungsi dan kuasa Institut di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_43__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_43__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_43__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_43",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada mana-mana undang-undang bertulis, garis panduan atau arahan, orang itu boleh, apabila permintaan dibuat menurut subseksyen (1), memberikan akses atau mendedahkan data di dalam milikannya, dengan syarat—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_43__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_43__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa data yang bersifat sulit atau yang didedahkan atas dasar kerahsiaan hendaklah dianggap secara berterusan sebagai sulit oleh Institut atau pegawai yang ditugaskan dan hendaklah digunakan hanya oleh Institut; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_43__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_43__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tiada pendedahan data seterusnya boleh dibuat dalam bentuk yang dijangka dengan munasabahnya boleh mengenalpasti mana-mana orang yang ada kaitan dengannya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_43__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_43__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_43__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_43",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika seseorang memberikan akses kepada atau mendedahkan data di bawah subseksyen (2), pegawai yang ditugaskan bolehlah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_43__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_43__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memeriksa buku, dokumen atau rekod yang mengandungi data tersebut; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_43__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_43__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membuat atau menyebabkan dibuat salinan, atau mengambil atau menyebabkan diambil cabutan, dari mana-mana buku, dokumen atau rekod yang mengandungi data yang bukan bersifat sulit, dan salinan atau cabutan tersebut sebagaimana diperakukan oleh pegawai yang ditugaskan hendaklah, melainkan dibuktikan sebaliknya, dianggap sebagai salinan dan cabutan yang benar dan betul. Pemeriksaan entiti fizikal"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_44__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_44__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_44__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_44__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_44",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada mana-mana undang-undang bertulis, pegawai yang ditugaskan boleh memeriksa mana-mana entiti fizikal dan mengambil gambar entiti fizikal tersebut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_44__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_44",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud subseksyen (1), jika entiti fizikal tersebut ditemui di mana-mana premis, pegawai yang ditugaskan boleh, tertakluk kepada kebenaran pemunya premis tersebut atau orang yang menghuni premis tersebut, memasuki premis tersebut pada masa yang munasabah pada waktu siang."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_44__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_44",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika perlu, pegawai yang ditugaskan hendaklah antara lainnya menanda, memeterai, memastikan keselamatan, menimbang, mengira atau mengukur mana-mana entiti fizikal yang diperiksa di bawah subseksyen (1). Pengumpulan sampel, dsb."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_45",
+      "@type": "akn:clause",
+      "eli:number": "45",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_45__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_45__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_45__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_45",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seorang pegawai yang ditugaskan boleh, tanpa sebarang bayaran, memohon untuk mendapatkan atau menyimpan sampel entiti fizikal dari mana-mana orang yang mempunyai milikan ke atas entiti fizikal tersebut, yang dia percaya mengandungi maklumat berkaitan dengan atau relevan bagi maksud penyelidikan keselamatan jalan raya, dan, setelah menerima sampel itu, memeriksa atau menganalisis semua kandungan fizikal atau kimianya dan apa-apa benda yang dia percaya digunakan atau boleh digunakan untuk pereka bentukan, pembinaan, pembuatan, penyimpanan, pengedaran atau penjualan entiti fizikal tersebut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_45__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_45__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_45__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_45",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud seksyen 43, 44 dan 45—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_45__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_45__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "setiap pegawai yang ditugaskan hendaklah mengisytiharkan jawatannya dan jika diminta menunjukkan kepada orang yang diambil tindakan olehnya, kad kuasanya; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_45__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_VI__cl_45__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana orang boleh menolak permintaan atau arahan pegawai yang ditugaskan jika pegawai tersebut enggan mengisytiharkan jawatannya dan menunjukkan kad kuasanya apabila diminta berbuat demikian oleh orang itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_32__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_32__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_32__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_32",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu kumpulan wang yang dikenali sebagai “Kumpulan Wang Institut Penyelidikan Keselamatan Jalan Raya Malaysia” ditubuhkan dan hendaklah ditadbirkan dan dikawal oleh Institut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_32__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_32__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_32__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_32__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_32__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_32__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_32__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_32__subsec_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_32__subsec_2__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_32__subsec_2__para_i"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_32",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kumpulan Wang hendaklah terdiri daripada—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_32__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_32__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa jumlah yang diperuntukkan dari semasa ke semasa oleh Parlimen bagi maksud Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_32__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_32__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "semua fi, caj pentadbiran, levi atau caj lain yang dikenakan oleh atau yang kena dibayar kepada Institut berhubung dengan penyelidikan keselamatan jalan raya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_32__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_32__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "semua wang yang diperoleh sebagai pendapatan daripada pelaburan oleh Institut di bawah seksyen 38;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_32__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_32__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "semua wang yang diperoleh daripada penjualan, pelupusan, pemajakan atau penyewaan atau apa-apa urus niaga lain mengenai apa-apa harta, gadai janji, gadaian atau debentur yang terletak hak pada atau yang diperoleh oleh Institut;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_32__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_32__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "semua wang yang diperoleh daripada perkhidmatan perundingan dan nasihat dan apa-apa perkhidmatan lain yang diberi oleh Institut;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_32__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_32__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "semua wang dan harta lain yang boleh dalam apa-apa cara menjadi kena dibayar kepada atau terletak hak pada Institut berkenaan dengan apa-apa perkara yang bersampingan dengan fungsi dan kuasanya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_32__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_32__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa wang yang dipinjam oleh Institut di bawah seksyen 37;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_32__subsec_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_32__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa wang atau pemberian daripada mana-mana sumber, sumbangan, biaya, hadiah atau bekues yang boleh dibuat kepada atau bagi faedah Institut; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_32__subsec_2__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_32__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "semua wang dan harta lain yang diterima dengan sah oleh Institut, termasuk bunga. Perbelanjaan yang hendaklah dipertanggungkan pada Kumpulan Wang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_33__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_33__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_33__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_33__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_33__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_33__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kumpulan Wang hendaklah dibelanjakan bagi maksud yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_33__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membayar saraan, elaun, bayaran balik dan perbelanjaan lain Ketua Pengarah, Timbalan Ketua Pengarah, anggota Lembaga, anggota jawatankuasa, pegawai dan pekhidmat Institut, pegawai yang ditugaskan, mana-mana orang yang diundang oleh Lembaga atau jawatankuasa dan mana-mana orang yang diupah oleh Institut, termasuk memberikan pinjaman dan wang pendahuluan, elaun persaraan, faedah persaraan, pencen dan ganjaran;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_33__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menjelaskan apa-apa belanja yang ditanggung dalam memperuntukkan bagi kebajikan pegawai dan pekhidmat Institut, dengan kelulusan Lembaga;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_33__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membayar apa-apa belanja, fi, kos, perbelanjaan, pemberian atau pembayaran lain yang ditanggung atau diterima dengan sah oleh Institut dalam melaksanakan fungsinya atau menjalankan kuasanya, termasuk fi dan kos guaman;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_33__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membeli atau menyewa kelengkapan, mesin dan apa-apa bahan lain, memperoleh tanah dan aset lain, membina bangunan, dan menjalankan apa-apa kerja dan perusahaan lain dalam pelaksanaan fungsinya atau penjalanan kuasanya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_33__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membayar balik apa-apa wang yang dipinjam di bawah seksyen 37 dan bunga yang kena dibayar atas wang itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_33__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "secara amnya, membayar apa-apa belanja bagi melaksanakan peruntukan Akta ini. Pemeliharaan Kumpulan Wang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut berkewajipan memelihara Kumpulan Wang dengan melaksanakan fungsinya dan menjalankan kuasanya di bawah Akta ini dengan sedemikian cara supaya dapat dipastikan bahawa jumlah hasil Institut mencukupi untuk membayar semua jumlah wang yang boleh dipertanggungkan dengan sepatutnya kepada akaun hasilnya untuk setiap tahun kewangan, termasuk susut nilai dan bunga atas modal. Perbelanjaan dan penyediaan anggaran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_35__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_35__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_35__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_35__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_35__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_35",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perbelanjaan Institut setakat amaun yang dibenarkan oleh Menteri bagi mana-mana satu tahun hendaklah dibayar daripada Kumpulan Wang."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_35__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_35",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sebelum 1 September setiap tahun, Institut hendaklah mengemukakan kepada Menteri suatu anggaran perbelanjaan, termasuk perbelanjaan bagi program penyelidikan dan pembangunan, bagi tahun yang berikutnya dalam apa-apa bentuk dan yang mengandungi apa-apa butir sebagaimana yang diarahkan oleh Menteri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_35__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_35",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah, sebelum 31 Disember setiap tahun, memberitahu Institut mengenai amaun yang dibenarkan bagi perbelanjaan secara amnya atau mengenai amaun yang dibenarkan bagi setiap perihalan perbelanjaan berdasarkan anggaran yang disediakan di bawah subseksyen (2) untuk tahun berikutnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_35__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_35",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut boleh, pada bila-bila masa, mengemukakan kepada Menteri, suatu anggaran tambahan perbelanjaannya bagi mana- mana satu tahun dan Menteri boleh membenarkan keseluruhan atau mana-mana bahagian perbelanjaan tambahan yang termasuk dalam anggaran tambahan itu. Akaun bank"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut hendaklah membuka dan menyenggara akaun atau akaun-akaun dengan mana-mana institusi kewangan atau institusi- institusi kewangan dalam Malaysia sebagaimana yang difikirkan patut oleh Institut, dan setiap akaun itu hendaklah dikendalikan setakat yang boleh dilaksanakan melalui cek yang ditandatangani oleh mana-mana orang yang diberi kuasa oleh Institut bagi maksud itu dari semasa ke semasa. Kuasa untuk meminjam"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut boleh, dari semasa ke semasa, meminjam dalam apa- apa bentuk, pada apa-apa kadar bunga, bagi apa-apa tempoh dan atas apa-apa terma mengenai masa dan cara pembayaran balik, sebagaimana yang diluluskan oleh Menteri, dengan persetujuan Menteri Kewangan, apa-apa jumlah yang diperlukan oleh Institut bagi memenuhi mana-mana obligasinya atau menunaikan mana- mana kewajipannya. Pelaburan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Wang Institusi hendaklah, setakat yang tidak dikehendaki untuk dibelanjakan dengan segera oleh Institut di bawah Akta ini, dilaburkan mengikut apa-apa cara yang diluluskan oleh Menteri dengan persetujuan Menteri Kewangan. Tatacara kewangan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada Akta ini dan kelulusan Menteri, Institut hendaklah menentukan tatacara kewangannya sendiri. Tahun kewangan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tahun kewangan Institut hendaklah bermula pada 1 Januari dan berakhir pada 31 Disember setiap tahun. Akaun dan laporan tahunan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V__cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Badan Berkanun (Akaun dan Laporan Tahunan) 1980 [Akta 240] hendaklah terpakai bagi Institut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "(Subseksyen 11(3)) Mesyuarat"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_1__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_1__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_1__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_1__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Lembaga hendaklah bermesyuarat bagi melaksanakan urusannya sekurang-kurangnya sekali setiap tiga bulan pada masa dan tempat sebagaimana ditentukan oleh Pengerusi dari semasa ke semasa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi mana-mana mesyuarat Lembaga, lima orang anggota hendaklah membentuk kuorum."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengerusi hendaklah mempengerusikan semua mesyuarat Lembaga."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_1__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun dalam subperenggan (3), jika Pengerusi atas apa-apa sebab tidak dapat menghadiri mesyuarat Lembaga, Timbalan Pengerusi hendaklah menjalankan kuasa Pengerusi semasa ketiadaan Pengerusi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_1__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam keadaan di mana kedua-dua Pengerusi dan Timbalan Pengerusi tidak dapat menghadiri mesyuarat Lembaga, anggota Lembaga yang tinggal hendaklah memilih seorang di kalangan mereka untuk mempengerusikan mesyuarat dan orang yang dipilih hendaklah mempunyai semua kuasa Pengerusi bagi maksud dan untuk tempoh mesyuarat tersebut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_1__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika mengenai apa-apa persoalan yang hendak ditentukan oleh Lembaga, terdapat bilangan undi yang sama banyak, Pengerusi hendaklah mempunyai undi pemutus sebagai tambahan kepada undi biasanya. Tatacara"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada Akta ini, Lembaga boleh mengawal selia tatacaranya sendiri. Minit"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_3__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Lembaga hendaklah menyebabkan minit semua mesyuarat Lembaga disenggarakan dan disimpan dalam bentuk yang sepatutnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Minit mesyuarat Lembaga, jika ditandatangani dengan sewajarnya, hendaklah dalam mana-mana prosiding undang-undang diterima sebagai keterangan prima facie mengenai fakta yang dinyatakan dalam minit itu tanpa bukti selanjutnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Setiap mesyuarat Lembaga yang berkenaan dengannya minit telah dibuat mengikut subperenggan (1) dan (2) hendaklah disifatkan telah dipanggil dan diadakan dengan sewajarnya semua anggota dalam mesyuarat itu adalah layak dengan sewajarnya untuk bertindak. Lembaga boleh mengundang orang lain untuk menghadiri mesyuarat"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_4",
+      "@type": "akn:paragraph",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_4__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Lembaga boleh mengundang mana-mana orang untuk menghadiri mana- mana mesyuarat atau pertimbangtelitian Lembaga bagi maksud menasihatinya tentang apa-apa perkara yang sedang dibincangkan, tetapi mana-mana orang yang hadir itu tidak berhak untuk mengundi pada mesyuarat atau pertimbangtelitian itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang yang diundang di bawah subperenggan (1) hendaklah dibayar elaun sebagaimana yang ditentukan oleh Lembaga. Penzahiran kepentingan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5",
+      "@type": "akn:paragraph",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang anggota Lembaga, yang mempunyai, secara langsung atau tidak langsung, dengan sendiri, menerusi anggota keluarganya atau menerusi sekutunya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu kepentingan dalam syarikat atau perusahaan yang mana pihak Institut bercadang untuk mengikat kontrak; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu kepentingan di dalam suatu kontrak atau perkara yang dibincangkan oleh Lembaga, hendaklah menzahirkan kepada Lembaga hakikat kepentingannya dan jenis kepentingan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Penzahiran di bawah subperenggan (1) hendaklah direkodkan dalam minit mesyuarat Lembaga dan anggota yang berkenaan tidak boleh mengambil bahagian dalam perbincangan atau keputusan Lembaga berhubung dengan kontrak atau perkara itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_3__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_3__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud perenggan ini— “anggota keluarganya”, berhubungan dengan seseorang anggota Lembaga, ertinya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_3__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_3__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_3__list_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_3__list_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_3__list_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_3__list_1__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_3__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suami atau isterinya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_3__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ibu atau bapanya (termasuk ibu atau bapa suami atau isterinya);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_3__list_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "anaknya (termasuk anak angkat atau anak tiri);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_3__list_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "adik-beradiknya (termasuk adik-beradik suami atau isterinya); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_3__list_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suami atau isteri anak atau adik-beradiknya; dan “sekutunya”, berhubungan dengan seseorang anggota Lembaga, ertinya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_3__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_3__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_3__list_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_3__list_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_3__list_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_3__list_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_3__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_3__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "orang yang merupakan penama atau pekerja anggota itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_3__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_3__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "firma yang anggota itu atau mana-mana penamanya merupakan seorang pekongsinya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_3__list_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_3__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pekongsi anggota itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_3__list_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_3__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pemegang amanah sesuatu amanah yang di bawahnya anggota itu atau seorang ahli keluarganya ialah seorang benefisiari; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_3__list_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/2/msa@/~sched_1__para_5__subsec_3__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana perbadanan mengikut pengertian Akta Syarikat 1965 [Akta 125], yang mana anggota itu atau mana-mana penamanya atau seorang ahli keluarga anggota itu ialah pengarah atau mempunyai pemegangan syer yang substansial dalam perbadanan itu."
+      }
+    }
+  ]
+}

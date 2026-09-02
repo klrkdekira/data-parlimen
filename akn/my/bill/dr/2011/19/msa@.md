@@ -6,7 +6,9 @@
 
 bernama
 
-Suatu Akta untuk meminda Akta Pasaran Modal dan Perkhidmatan 2007. [ ]
+Suatu Akta untuk meminda Akta Pasaran Modal dan Perkhidmatan
+
+2007. [ ]
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
@@ -168,7 +170,9 @@ aset, kadar, indeks atau mana-mana kombinasinya, sama ada ia suatu derivatif ter
 
 “ (c) Menteri boleh, atas syor Suruhanjaya, mengubah bilangan pengarah berkepentingan awam yang dilantik di bawah perenggan (a).”;
 
-(d) dalam subseksyen (2), dengan menggantikan perkataan “pelantikan atau pemilihan” dengan perkataan “pelantikan, pelantikan semula, pemilihan atau pemilihan semula”; dan
+(d) dalam subseksyen (2), dengan menggantikan perkataan “pelantikan atau pemilihan” dengan perkataan “pelantikan, pelantikan semula, pemilihan atau pemilihan semula”;
+
+<!-- marginal: dan -->
 
 <!-- page 7 -->
 
@@ -856,7 +860,9 @@ Suruhanjaya boleh mengarahkan—
 
 ### Pindaan seksyen 107
 
-35. Seksyen 107 Akta ibu dipinda dengan menggantikan perkataan “seksyen 99, 100, 101, 102 dan 104” pada nota bahu dan di mana- mana jua terdapat dengan perkataan “seksyen 99, 101 dan 104.”
+35. Seksyen 107 Akta ibu dipinda dengan menggantikan perkataan “seksyen 99, 100, 101, 102 dan 104” pada nota bahu dan di mana- mana jua terdapat dengan perkataan “seksyen 99, 101 dan
+
+104.”
 
 ### Subpenggal 4 Penggal 3 Bahagian III baru
 
@@ -954,7 +960,7 @@ Suruhanjaya boleh mengarahkan—
 
 (b) dalam hal jika mana-mana orang yang disebut di bawah subseksyen 107j(1) telah diisytiharkan muflis di dalam atau di luar Malaysia;
 
-(c) bagi maksud memulakan, atau sedang dalam, apa- apa tindakan sivil antara repositori dagangan dan mana-mana orang yang disebut di bawah subseksyen 107j(1);
+(c) bagi maksud memulakan, atau sedang dalam, apa- apa tindakan sivil antara repositori dagangan dan mana-mana orang yang disebut di bawah subseksyen 107J(1);
 
 (d) kepada mana-mana orang yang diberi kuasa untuk menyiasat apa-apa kesalahan di bawah mana-mana undang-undang, dan penzahiran itu, dalam apa-apa hal, terhad kepada hal ehwal mana-mana orang yang disebut di bawah subseksyen 107j(1);
 
@@ -1096,7 +1102,9 @@ Suruhanjaya boleh mengambil mana-mana satu atau lebih tindakan yang berikut:
 
 (iii) supaya memindahkan mana-mana rekod atau dokumen berhubung dengan wang atau harta kepada mana-mana orang lain sebagaimana yang boleh ditentukan oleh Suruhanjaya;
 
-(B) melarang mana-mana orang dalam perenggan (1)(a), (d), (e) dan (f) daripada—
+(B) melarang mana-mana orang dalam perenggan
+
+(1)(a), (d), (e) dan (f) daripada—
 
 (i) membuat urus niaga daripada perihalan tertentu, dalam hal keadaan tertentu atau takat tertentu;
 
@@ -1158,7 +1166,7 @@ saman pemula secara ex parte bagi mendapatkan apa-apa perintah mahkamah sebagaim
 
 45. Akta ibu dipinda dengan memasukkan selepas Bahagian III Bahagian yang berikut:
 
-“bahagIan IIIa
+## “BAHAGIAN IIIA
 
 ## INDUSTRI SKIM PERSARAAN SWASTA
 
@@ -1448,7 +1456,7 @@ oleh pentadbir skim persaraan swasta dalam menjalankan kewajipan dan tanggungjaw
 
 (5) Jika aset terkawal itu dipindahkan kepada orang di bawah perenggan (2)(b), pentadbir skim persaraan swasta berhak kepada apa-apa pampasan sebagaimana yang boleh ditentukan oleh Suruhanjaya bagi sistem yang dibangunkan, dikendalikan atau disenggarakan oleh pentadbir skim persaraan swasta itu.
 
-(6) Subseksyen (5) tidak terpakai jika penarikan balik kelulusan itu adalah bagi alasan yang dinyatakan di bawah subperenggan 139d(h)(i), (ii), (iii), (iv), (v) atau perenggan 139f(1)(e).
+(6) Subseksyen (5) tidak terpakai jika penarikan balik kelulusan itu adalah bagi alasan yang dinyatakan di bawah subperenggan 139d(h)(i), (ii), (iii), (iv), (v) atau perenggan 139F(1)(E).
 
 ### Kewajipan untuk mengambil langkah keselamatan
 
@@ -1510,11 +1518,11 @@ Subpenggal 2 – Penyedia skim persaraan swasta
 
 (b) skim persaraan swasta itu di bawah seksyen 139v; dan
 
-(c) pemegang amanah skim itu di bawah seksyen 139zc.
+(c) pemegang amanah skim itu di bawah seksyen 139ZC.
 
 (2) Seseorang tidak boleh mengambil atau menggunakan atau menerima pakai nama atau gelaran “skim persaraan swasta” atau “skim persaraan” berhubung dengan urusannya atau membuat apa-apa representasi bagi tujuan itu mengikut apa-apa cara melainkan jika—
 
-(a) ia adalah skim yang diluluskan di bawah seksyen 139v;
+(a) ia adalah skim yang diluluskan di bawah seksyen 139V;
 
 <!-- page 60 -->
 
@@ -1574,7 +1582,7 @@ Subpenggal 2 – Penyedia skim persaraan swasta
 
 (a) penyedia skim persaraan swasta yang diluluskan itu berhenti daripada memegang Lesen Perkhidmatan Pasaran Modal yang menjalankan urusan pengurusan kumpulan wang;
 
-(b) wujud alasan yang berdasarkannya Suruhanjaya boleh menolak suatu permohonan di bawah seksyen 139r;
+(b) wujud alasan yang berdasarkannya Suruhanjaya boleh menolak suatu permohonan di bawah seksyen 139R;
 
 (c) penyedia skim persaraan swasta yang diluluskan itu tidak melancarkan skim persaraan swasta yang diluluskan itu dalam masa enam bulan dari tarikh skim persaraan swasta itu diluluskan;
 
@@ -1662,7 +1670,7 @@ Subpenggal 3 – Skim persaraan swasta
 
 <!-- page 66 -->
 
-(b) permohonan itu tidak dibuat mengikut seksyen 139v;
+(b) permohonan itu tidak dibuat mengikut seksyen 139V;
 
 (c) skim persaraan swasta itu tidak mematuhi mana-mana kehendak Akta ini atau mana-mana garis panduan yang dibuat di bawah Akta ini;
 
@@ -1674,7 +1682,7 @@ Subpenggal 3 – Skim persaraan swasta
 
 139x. (1) Suruhanjaya boleh menarik balik suatu kelulusan yang diberikan kepada skim persaraan swasta yang diluluskan jika Suruhanjaya berpuas hati bahawa—
 
-(a) wujud alasan yang berdasarkannya Suruhanjaya boleh menolak suatu permohonan di bawah seksyen 139w;
+(a) wujud alasan yang berdasarkannya Suruhanjaya boleh menolak suatu permohonan di bawah seksyen 139W;
 
 (b) skim persaraan swasta yang diluluskan itu tidak dilancarkan dalam masa enam bulan dari tarikh kelulusan itu;
 
@@ -1784,7 +1792,7 @@ Subpenggal 4 – Pemegang amanah skim
 
 (d) pemegang amanah skim itu tidak mematuhi mana- mana arahan yang dikeluarkan oleh Suruhanjaya di bawah Akta ini; atau
 
-(e) pemegang amanah skim itu tidak memberikan bantuan kepada Suruhanjaya atau kepada seseorang yang bertindak bagi pihak atau dengan kuasa Suruhanjaya sebagaimana yang dikehendaki di bawah subseksyen 139zl(2).
+(e) pemegang amanah skim itu tidak memberikan bantuan kepada Suruhanjaya atau kepada seseorang yang bertindak bagi pihak atau dengan kuasa Suruhanjaya sebagaimana yang dikehendaki di bawah subseksyen 139ZL(2).
 
 Penggal 3
 
@@ -1808,7 +1816,7 @@ Pemegang amanah bagi skim persaraan tajaan majikan
 
 139zg. Jika suatu permohonan dibuat di bawah seksyen 139zf, Suruhanjaya boleh menolak permohonan itu atas mana-mana alasan yang berikut:
 
-(a) permohonan itu tidak dibuat mengikut seksyen 139zf;
+(a) permohonan itu tidak dibuat mengikut seksyen 139ZF;
 
 (b) pemohon itu tidak mematuhi apa-apa kehendak Akta ini atau mana-mana garis panduan yang dibuat di bawah Akta ini;
 
@@ -1972,7 +1980,7 @@ Suruhanjaya boleh mengeluarkan suatu arahan bertulis kepada mana-mana orang untu
 
 56. Akta ibu dipinda dengan memasukkan selepas Bahagian IX Bahagian yang berikut:
 
-“bahagIan Ixa
+## “BAHAGIAN IXA
 
 ## PENGURUSAN RISIKO SISTEMIK DALAM PASARAN MODAL
 
@@ -2244,7 +2252,7 @@ Wakil Perkhidmatan Pasaran Modal sebaik sebelum tarikh kuat kuasa Akta ini (dise
 
 “ubah suaian” ertinya pindaan, penambahan, pemotongan dan penggantian bagi mana-mana peruntukan Akta ini.
 
-## jadual
+## JADUAL
 
 [Seksyen 2]
 
@@ -2280,25 +2288,17 @@ ini digantikan dengan perkataan seksyen 119, seksyen 123, seksyen “berniaga da
 
 <!-- marginal: “menentukan”, -->
 
-ruang (2) butiran ini digantikan “menutupkan”, “skim unit amanah” dan dengan perkataan “derivatif”; “urusan atau transaksi pasaran modal Islam”), seksyen 5, seksyen 6, seksyen 7, seksyen 8, seksyen 9, seksyen 11, seksyen 12, seksyen 18, seksyen 21, seksyen 28, seksyen 33, seksyen 38, seksyen 39, seksyen 52, seksyen 92, seksyen 98, seksyen 106, seksyen 117 (dalam takrif “menyelesaikan”), subsubtajuk Subpenggal 3 Penggal 4
-
-## Bahagian III, seksyen 119, seksyen
-
-120, seksyen 174, subtajuk Penggal 2 Bahagian V, seksyen 202, seksyen 203, seksyen 204, seksyen 205, seksyen 207, perenggan 208(c), subperenggan 348(1)(a)(C), subseksyen 352(2) dan (3), seksyen 353 (kecuali bagi perkataan “perdagangan dalam kontrak niaga hadapan”), seksyen 355 dan seksyen 360;
+ruang (2) butiran ini digantikan “menutupkan”, “skim unit amanah” dan dengan perkataan “derivatif”; “urusan atau transaksi pasaran modal Islam”), seksyen 5, seksyen 6, seksyen 7, seksyen 8, seksyen 9, seksyen 11, seksyen 12, seksyen 18, seksyen 21, seksyen 28, seksyen 33, seksyen 38, seksyen 39, seksyen 52, seksyen 92, seksyen 98, seksyen 106, seksyen 117 (dalam takrif “menyelesaikan”), subsubtajuk Subpenggal 3 Penggal 4 Bahagian III, seksyen 119, seksyen 120, seksyen 174, subtajuk Penggal 2 Bahagian V, seksyen 202, seksyen 203, seksyen 204, seksyen 205, seksyen 207, perenggan 208(c), subperenggan 348(1)(a)(C), subseksyen 352(2) dan (3), seksyen 353 (kecuali bagi perkataan “perdagangan dalam kontrak niaga hadapan”), seksyen 355 dan seksyen 360;
 
 <!-- page 91 -->
 
-(1)
-
-<!-- marginal: (2) -->
+(1) (2)
 
 ### Jenis pindaan
 
 ### Peruntukan yang dipinda
 
-6. Perkataan “niaga hadapan” di Seksyen 2
-
-<!-- marginal: (dalam -->
+6. Perkataan “niaga hadapan” di Seksyen 2 (dalam
 
 <!-- marginal: takrif “Bursa -->
 
@@ -2306,9 +2306,7 @@ mana-mana jua terdapat dalam Ditentukan”, “gabungan”, “kaedah- peruntuka
 
 <!-- marginal: awam”, -->
 
-dengan perkataan “derivatif”; “peserta”,
-
-<!-- marginal: “syarikat -->
+dengan perkataan “derivatif”; “peserta”, “syarikat
 
 <!-- marginal: pemegangan -->
 
@@ -2326,7 +2324,9 @@ ruang (2) butiran ini digantikan perenggan 352(4)(b) dan seksyen 353; dengan per
 
 <!-- page 92 -->
 
-(1) (2)
+(1)
+
+<!-- marginal: (2) -->
 
 ### Jenis pindaan
 

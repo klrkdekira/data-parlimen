@@ -56,7 +56,7 @@ Maksud Tajuk
 
 <!-- marginal: Peruntukan -->
 
-<!-- marginal: kepada maksud -->
+kepada maksud
 
 <!-- marginal: RM -->
 
@@ -64,11 +64,7 @@ B. 3 Jabatan Audit
 
 <!-- marginal: 1,050.000 -->
 
-B. 7 Jabatan Perdana Menteri
-
-<!-- marginal: 62,921,000 -->
-
-B. 16 Jabatan Perkhidmatan
+B. 7 Jabatan Perdana Menteri 62,921,000 B. 16 Jabatan Perkhidmatan
 
 <!-- marginal: 1,430,000 -->
 
@@ -84,9 +80,7 @@ B. 39 Jabatan Pendaftaran Negara
 
 <!-- marginal: 7,745,300 -->
 
-Jumlah ...
-
-<!-- marginal: 138,146,300 -->
+Jumlah ... 138,146,300
 
 ## HURAIAN
 
@@ -94,6 +88,4 @@ Tujuan Rang Undang-Undang ini ialah untuk memberikan kuasa berkanun supaya beber
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan.
-
-<!-- marginal: [PN. (U2) 1892.] -->
+Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan. [PN. (U2) 1892.]

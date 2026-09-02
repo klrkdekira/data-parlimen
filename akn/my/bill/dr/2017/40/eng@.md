@@ -4,13 +4,13 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## ChApTER I
+## CHAPTER I
 
 ## PRELIMINARY
 
 1. Short title 2. Amendment of Acts
 
-## ChApTER II
+## CHAPTER II
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
@@ -26,7 +26,7 @@
 
 14. Amendment of Schedule 6
 
-## ChApTER III
+## CHAPTER III
 
 ## AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976
 
@@ -40,7 +40,7 @@
 
 <!-- page 2 -->
 
-## ChApTER IV
+## CHAPTER IV
 
 ## AMENDMENTS TO THE GOODS AND SERVICES TAX ACT 2014
 
@@ -54,7 +54,7 @@
 
 23. Amendment of Second Schedule
 
-## ChApTER V
+## CHAPTER V
 
 ## AMENDMENT TO THE FINANCE ACT 2013
 
@@ -72,7 +72,7 @@ An Act to amend the Income Tax Act 1967, the Real Property Gains Tax Act 1976, t
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## ChApTER I
+## CHAPTER I
 
 ## PRELIMINARY
 
@@ -86,7 +86,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 4 -->
 
-## ChApTER II
+## CHAPTER II
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
@@ -146,7 +146,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 “(10b) The management expenses incurred for the basis period for a year of assessment under—
 
-(a) subsubparagraph (9)(b)(iii)(B) or (C) shall be determined in accordance with the following formula:
+(a) subsubparagraph (9)(b)(iii)(B) or (C) shall be determined in accordance with the following
+
+<!-- marginal: formula: -->
 
 AxC B
 
@@ -156,7 +158,9 @@ B is the total amount of gross income for that period referred to in subparagrap
 
 C is the total management expenses incurred under subparagraph (9)(b)(iii); or
 
-(b) subsubparagraph (10)(b)(iii)(B) or (C) shall be determined in accordance with the following formula:
+(b) subsubparagraph (10)(b)(iii)(B) or (C) shall be determined in accordance with the following
+
+<!-- marginal: formula: -->
 
 AxC B
 
@@ -212,7 +216,9 @@ C is the total management expenses incurred under subparagraph (10)(b)(iii).”.
 
 (d) in subsection (5)—
 
-(i) by substituting for the words “or the financial assistance referred to in subsection (2) or (4) respectively,” the words “referred
+(i) by substituting for the words “or the financial assistance referred to in subsection (2) or (4) respectively,” the words
+
+<!-- marginal: “referred -->
 
 <!-- marginal: to -->
 
@@ -252,7 +258,7 @@ subsection (2)”; and
 
 <!-- page 10 -->
 
-## ChApTER III
+## CHAPTER III
 
 ## AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976
 
@@ -294,7 +300,7 @@ subsection (2)”; and
 
 18. Part III of Schedule 5 to the principal Act is amended by substituting for the words “In the case of an individual who is not a citizen and not a permanent resident” the words “In the case of a disposer who is not a citizen and not a permanent resident, or an executor of the estate of a deceased person who is not a citizen and not a permanent resident”.
 
-## ChApTER IV
+## CHAPTER IV
 
 ## AMENDMENTS TO THE GOODS AND SERVICES TAX ACT 2014
 
@@ -352,7 +358,7 @@ the Director General may asses to the best of his judgment the amount of tax and
 
 <!-- page 13 -->
 
-## ChApTER V
+## CHAPTER V
 
 ## AMENDMENT TO THE FINANCE ACT 2013
 
@@ -370,7 +376,7 @@ This Bill seeks to amend the Income Tax Act 1967 (“Act 53”), the Real Proper
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
-## Chapter II of this Bill seeks to amend the Income Tax Act 1967.
+Chapter II of this Bill seeks to amend the Income Tax Act 1967.
 
 1. Clause 4 seeks to introduce a new subsection 21A(3A) into Act 53.
 
@@ -436,9 +442,7 @@ This amendment comes into operation on the coming into operation of this Act.
 
 ## AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976
 
-## Chapter III of this Bill seeks to amend the Real Property Gains Tax
-
-Act 1976.
+Chapter III of this Bill seeks to amend the Real Property Gains Tax Act 1976.
 
 12. Clause 16 seeks to amend section 21b of Act 169. Subclause 16(b) seeks to introduce a new subsection (1A). Under the new subsection, the retention sum relating to the disposal of a chargeable asset involving a disposer who is not a citizen and not a permanent resident is seven per cent.
 
@@ -466,7 +470,7 @@ This amendment comes into operation on 1 January 2018.
 
 ## AMENDMENT TO THE GOODS AND SERVICES TAX ACT 2014
 
-## Chapter IV of this Bill seeks to amend the Goods and Services Tax Act 2014.
+Chapter IV of this Bill seeks to amend the Goods and Services Tax Act 2014.
 
 15. Clause 20 seeks to amend paragraph 22(3)(a) of Act 762 to clarify that in respect of any goods supplied or to be supplied by any person due to cessation of business, the value of such supply is not included in the value to determine the threshold value.
 
@@ -488,7 +492,7 @@ This amendment comes into operation on the coming into operation of this Act.
 
 ## AMENDMENT TO THE FINANCE ACT 2013
 
-## Chapter V of this Bill seeks to amend the Finance Act 2013.
+Chapter V of this Bill seeks to amend the Finance Act 2013.
 
 19. Clause 24 seeks to amend subsection 3(7) of Act 755 to extend the period in which an individual can claim personal deduction of RM6,000.00 for deposits into the Skim Simpanan Pendidikan Nasional account until the year of assessment 2020.
 

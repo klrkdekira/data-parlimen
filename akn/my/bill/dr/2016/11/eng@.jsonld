@@ -1,0 +1,489 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-11-2016",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_15"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Civil Defence (Amendment) Bill 2016"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 6 of the principal Act is amended by substituting for the words “civil defence forces and services” the word “Force”. New section 6a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 6 the following section: “Public Authorities Protection Act 1948 6a. The Public Authorities Protection Act 1948 [Act 198] shall apply to any suit, action, prosecution or proceedings against the Chief Commissioner, Deputy Chief Commissioner, Commissioner, Deputy Commissioner, Assistant Commissioner, Colonel, officers or any member of the Force in respect of any act, neglect or default done or committed by him in good faith or any omission by him in good faith, in such capacity.”. Amendment of section 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_12__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_12__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 7 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the words “the civil defence forces and services for service” the words “the Force for service”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words “the civil defence forces or services” the words “the Force”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_12__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_12__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_12__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_12__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_12__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “the civil defence forces or services” the words “the Force”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_12__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_12__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “the Director General for Civil Defence” the words “the Chief Commissioner”. New sections 7a, 7b, 7c, 7d, 7e, 7f, 7g and 7h"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 7 the following sections: “Refusal, retirement or resignation during call out by the Yang di-Pertuan Agong 7a. (1) No member of the Force shall refuse to serve, retire or resign, as the case may be, during call out by the Yang di-Pertuan Agong under subsection 7(1). (2) Notwithstanding subsection (1), a member of the Force may be allowed to retire or resign, as the case may be, if so recommended by the Chief Commissioner. Resignation while pending disciplinary proceedings 7b. No member of the Force shall, without the permission in writing of the Chief Commissioner, retire or resign, as the case may be, from the Force during the pendency of any disciplinary proceedings or prosecution instituted against him in respect of any offence of which he may be charged. Protection of employee’s rights 7c. Any volunteer member or auxiliary member of the Force who, during call out by the Yang di-Pertuan Agong is absent from his usual employment by reason of carrying out duties in connection with civil defence in any capacity shall not be liable for dismissal, or loss of annual leave or other benefits to which he may be entitled under any award or agreement applicable to his usual employment, by reason only of such absence, whether or not his usual employer has consented to his absence. Civil defence training for civilian population 7d. The Minister may from time to time make arrangements for the civilian population to be trained in matters of civil defence and for the conduct of exercises for the purposes of civil defence. Ranks for the Force 7e. The ranks for the Force are as set out in the Schedule. Power of Minister to amend Schedule 7f. The Minister may by order published in the Gazette amend the Schedule. Honorary and Associate Commission 7g. The Minister may grant Honorary Commission and Associate Commission of the Force to any person as he deems fit. Personation 7h. Any person not being a member of the Force who— (a) pretends to be a member of the Force knowing that he is not; (b) falsely personates a member of the Force; or (c) in such assumed character does or attempts to do any act under colour of being a member of the Force, commits an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding five years or to both.”. Amendment of section 8"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_14__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 8 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_14__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_14__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_14__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_14__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “Director General for Civil Defence” the words “Chief Commissioner”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_14__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_14__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “civil defence forces and services” the words “the Force”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words “civil defence forces and services” the words “the Force”. New Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 9 the following schedule: “SCHEDULE [Section 7e] RANKS FOR THE FORCE 1. SENIOR OFFICERS (a) Chief Commissioner for the Force (b) Deputy Chief Commissioner for the Force (c) Commissioner for the Force (d) Deputy Commissioner for the Force (e) Assistant Commissioner for the Force (f) Colonel for the Force 2. OFFICERS (a) Lieutenant Colonel for the Force (b) Major for the Force (c) Captain for the Force (d) Lieutenant for the Force (e) Second Lieutenant for the Force 3. STAFF OFFICERS (a) Higher Staff for the Force (b) Senior Staff for the Force (c) Junior Staff for the Force 4. OTHER RANKS (a) Sergeant Major for the Force (b) Sergeant for the Force (c) Corporal for the Force (d) Lance Corporal for the Force (e) Private for the Force”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Civil Defence (Amendment) Act 2016."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Amendment of long title"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Civil Defence Act 1951 [Act 221], which is referred to as the “principal Act” in this Act, is amended by substituting for the long title the following long title: “An Act to provide for the establishment of the Malaysia Civil Defence Force and to provide for its functions and powers and related matters.”. Amendment of section 1"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 1 of the principal Act is amended by substituting for the words “Civil Defence Act 1951” the words “Malaysia Civil Defence Force Act 1951”. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 2 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting before the definition of “civil defence” the following definitions: ‘ “auxiliary member” means any person appointed by the Chief Commissioner under subsection 4h(1); “Chief Commissioner” means the Chief Commissioner for the Force appointed under subsection 4(1);’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “civil defence” the following definitions: ‘ “civil defence services” means any service rendered or task undertaken by the Force in connection with civil defence functions; “disaster” means a catastrophe, mishap or grave occurence in any area, arising from natural, or man made causes whether or not attributable to an attack by an enemy or to any warlike act, or by accident or negligence, which results in substantial loss of life or human suffering, or damage to, or destruction of, property, or damage to, or degradation of, environment or that in any way endangers the safety of the public; “disaster management”, in relation to civil defence, means a continuous and integrated process of planning, organizing, coordinating and implementing measures which are necessary or expedient for— (a) prevention of danger or treat of any disaster; (b) mitigation or reduction of risk of any disaster or its severity or consequences; (c) capacity building; (d) preparedness to deal with any disaster; (e) prompt response to any threatening disaster situation or disaster; (f) evacuation, rescue and relief; and (g) rehabilitation and reconstruction; “employer” means any employer who is within the definition of “employer” in the Employment Act 1955 [Act 265], Labour Ordinance [Sabah Cap. 67], Labour Ordinance [Sarawak Cap. 76] or Industrial Relations Act 1967 [Act 177]; “Force” means the Malaysia Civil Defence Force established under section 2a; “Minister” means the Minister charged with the responsibility for civil defence; “regular member” means any person employed on a full-time service in the Force; “volunteer member” means any person enrolled in the Force under section 4g.’; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the definition of ‘ “civil defence forces” and “civil defence services” ’. New sections 2a, 2b and 2c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 2 the following sections: “Establishment of Malaysia Civil Defence Force 2a. The Malaysia Civil Defence Force is established which shall consist of regular members, volunteer members and auxiliary members. Functions of the Force 2b. The functions of the Force are to carry out civil defence duties as follows: (a) to carry out disaster management; (b) to perform humanitarian services; (c) to instruct the civilian population regarding civil defence and to equip them for the purposes of such defence; (d) to train the following persons for civil defence purposes: (i) civil defence forces; (ii) police force; (iii) fire officer; and (iv) employees of statutory and other bodies, whether corporate or unincorporate, employed primarily for purposes other than for civil defence purposes; (e) to requisition, purchase and hire land, buildings, materials, property and goods required for civil defence purposes; (f) to provide advice to the Minister on matters relating to civil defence; (g) to identify hazards and risks that the Chief Commissioner considers are of national significance; (h) to train and equip the civilian population to cope and assist with any civil defence purposes; (i) to inform and advice the civilian population relating to civil defence; (j) to rescue and to transfer endangered persons to areas of safety; (k) to set up emergency and first-aid posts and provide first-aid to casualties and to transfer the casualties to hospitals or areas of safety; (l) to assist relevant public authorities and other agencies to provide for the relief of distress and for welfare generally, including the accommodation of the homeless and the conserving and supplying of food, fuel, clothing, first-aid and medical supplies and other necessities; (m) to assist relevant public authorities to undertake measures for the disposal of the dead in the event of emergency; (n) to assist relevant public authorities to carry out clean-up works, clear streets, roads and other public places and remove and dispose of dangerous structures and materials; (o) to assist relevant public authorities to carry out repairs to essential utilities and government buildings in the event of emergency; (p) to control and coordinate lighting and the distribution of clean water and other essential supplies; (q) to provide, maintain, control and operate prescribed public warning devices; (r) to manage all shelters including air-raid shelters and temporary shelters in the event of emergency; (s) to provide and maintain emergency ambulance service; (t) to take lawful measures in order to protect life and property in case of fire by providing auxiliary fire service; and (u) to execute such other duties as may be imposed on it by this Act or any other written law. Overlapping of functions 2c. (1) Where there is any overlapping of functions relating to handling of disaster between the Force and any agency or authority, such overlapping of functions shall be resolved and dealt with administratively. (2) For the purpose of this section, “any agency or authority” includes the police force and fire officer.”. Amendment of section 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_6__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_6__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_6__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_6__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 3 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (2)(a), by substituting for the words “civil defence forces and services” the words “the Force”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (2)(h), by substituting for the words “civil defence forces or services” the word “Force”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_6__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_6__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (2)(i)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_6__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_6__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words “in States”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_6__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_6__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the word “and” at the end of that paragraph;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_6__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (2)(j), by substituting for the words “imprisonment for a term of three years and a fine of five thousand ringgit” the words “a fine of ten thousand ringgit or imprisonment for a term of five years or both; and”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_6__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (2)(j) the following paragraph: “(k) the duties, powers and privileges of a civil defence auxiliary member and the area in which such duties, powers and privileges may be exercised or enjoyed by such members.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_6__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection 3(3). Substitution of section 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 4 the following section: “Appointment of Chief Commissioner, Deputy Chief Commissioner, etc. 4. (1) The Yang di-Pertuan Agong may appoint a Chief Commissioner for the Force. (2) The Yang di-Pertuan Agong may appoint such number of Deputy Chief Commissioners, Commissioners, Deputy Commissioners, Assistant Commissioners, Colonel and civil defence officers from among regular members and volunteer members as he may consider necessary for the purposes of this Act.”. New sections 4a, 4b, 4c, 4d, 4e, 4f, 4g, 4h, 4i and 4j"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 4 the following sections: “Functions of Chief Commissioner 4a. (1) The Chief Commissioner shall— (a) be responsible for the general conduct, administration and management of the Force; and (b) carry out any other functions conferred by or under this Act and perform any other functions that are supplemental, incidental or consequential to any of the functions specified in this section or in furtherance of the functions of civil defence. (2) The Chief Commissioner may in writing, subject to such conditions, limitations or restrictions as he thinks fit to impose, delegate all or any of his functions under this Act to the Deputy Chief Commissioner or to any other civil defence officer. (3) The delegation under subsection (2) shall not affect the performance of such functions by the Chief Commissioner at any time. Chief Commissioner’s Standing Orders 4b. The Chief Commissioner may make and issue orders, to be known as the Chief Commissioner’s Standing Orders, consistent with this Act or any subsidiary legislation made under this Act for the carrying out of or giving full effect to the provisions of this Act. Powers of member of the Force 4c. (1) In exercising any function under this Act, a member of the Force shall have the following powers: (a) to take any measures as appear to him to be necessary or expedient for the protection of life and property; (b) to order the evacuation of any area, building or place, and the exclusion of persons from any area, building or place and in the exercise of that power may remove or cause to be removed a person who does not comply with a direction to evacuate a person who enters or is found in any area, building or place in respect of which a direction for the exclusion of persons has been given; (c) to remove any person interfering by his presence or actions with the operations of the Force; (d) to remove from a place, any vehicle, any structure or anything that is impeding civil defence emergency management operations and in order to facilitate its removal may use such force as is reasonably necessary or may break into such place, vehicle, structure or thing; (e) to enter upon and, if necessary, break into any place, building, premises or land where he believes on reasonable grounds that it is necessary to do so for saving life or preventing injury or rescuing injured or endangered persons or for facilitating the carrying out of any urgent measures in respect of the relief of suffering and distress; and (f) to restrict the movement of persons and close to the traffic any road, street and any place to which the public have access. (2) Any person who does not comply with any order given under this section commits an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding five years or to both. Execution of duties and powers 4d. Every member of the Force shall perform such duties and exercise such powers as are by this Act imposed or conferred upon a member of the Force and shall obey all orders in respect of the execution of his office which he may from time to time receive from his superior officers in the Force. Service outside Malaysia 4e. The Minister may, if he thinks it expedient, order any member of the Force to serve outside Malaysia. Attachment of member of the Force outside Malaysia 4f. The Minister may attach temporarily any member of the Force to any foreign civil defence forces or any organization outside Malaysia. Volunteer member of the Force 4g. (1) The Chief Commissioner may enrol persons to serve voluntarily as a member of the Force. (2) The enrolment under subsection (1) may be made in the prescribed manner. (3) The volunteer member of the Force shall not be entitled to any remuneration for such service, save for such allowances as may be prescribed by the Minister from time to time in relation to specific duties. Auxiliary member of the Force 4h. (1) The Chief Commissioner may, with the concurrence of the Minister, appoint any person to serve as an auxiliary member of the Force and may prescribe the area in which such auxiliary member shall serve. (2) An auxiliary member of the Force shall serve voluntarily and shall not be entitled to any remuneration for such service, save for such allowances as may be prescribed by the Minister from time to time in relation to specific duties. Establishment of Civil Defence Cadet Corps 4i. The Minister may establish a body to be known as the Civil Defence Cadet Corps for any area in Malaysia. Member of Civil Defence Cadet Corps 4j. (1) The following persons may apply to be a member of the Civil Defence Cadet Corps: (a) any person not below the age of twelve years and not above the age of thirty years who is in possession of such qualifications as the Minister may determine; (b) any pupil of any secondary school as defined under the Education Act 1996 [Act 550], as the Minister may determine, upon consultation with the Minister charged with the responsibility for education; or (c) any person who is a registered student of any training or educational institution following a course of study or training on a full-time or part-time basis in such training or educational institution, as the Minister may determine, upon consultation with the Minister charged with the responsibility for such training or educational institution. (2) An application under subsection (1) may be made in the prescribed manner.”. Amendment of section 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_9__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_9__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 5 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the words “Director General for Civil Defence” the words “Chief Commissioner”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “Director General for Civil Defence” the words “Chief Commissioner”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_9__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/11/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “civil defence forces and services” the words “the Force, for civil defence services”. Amendment of section 6"
+      }
+    }
+  ]
+}

@@ -24,33 +24,69 @@ oleh Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan De
 
 ## RANG UNDANG-UNDANG
 
-3. (1) Maka adalah dibenarkan supaya dikeluarkan sejumlah wang yang tidak melebihi dua ratus sembilan puluh tujuh juta satu ratus tujuh puluh enam ribu tiga ratus ringgit (RM297,176,300) daripada Kumpulan Wang Disatukan bagi perbelanjaan untuk perkhidmatan yang dinyatakan dalam Jadual Kedua bagi perkhidmatan tahun 1994, yang tidak diperuntukkan atau yang tidak diperuntukkan dengan sepenuhnya oleh Akta Perbekalan
-
-1994.
+3. (1) Maka adalah dibenarkan supaya dikeluarkan sejumlah wang yang tidak melebihi dua ratus sembilan puluh tujuh juta satu ratus tujuh puluh enam ribu tiga ratus ringgit (RM297,176,300) daripada Kumpulan Wang Disatukan bagi perbelanjaan untuk perkhidmatan yang dinyatakan dalam Jadual Kedua bagi perkhidmatan tahun 1994, yang tidak diperuntukkan atau yang tidak diperuntukkan dengan sepenuhnya oleh Akta Perbekalan 1994.
 
 (2) Wang yang tersebut itu adalah diperuntukkan bagi maksud-maksud yang dinyatakan dalam Jadual Kedua.
 
 ## JADUAL PERTAMA
 
-(Seksyen 2) Peruntukan Tajuk Maksud kepada maksud RM
-
-B. 10 Jabatan Peguam Negara 4,958,700 B. 15 Jabatan Perancangan Bandar dan 35,828 Desa B. 17 Kementerian Belia dan Sukan 1,342,800 B. 18 Kementerian Perusahaan Utama 19,650,000 B. 19 Kementerian Pertanian 21,700,000 B. 20 Kementerian Perdagangan 6,664,300 Antarabangsa dan Industri B. 21 Kementerian Perdagangan 9,931,300 Dalam Negeri dan Hal Ehwal Pengguna B. 22 Kementerian Kebudayaan, 916,000 Kesenian dan Pelancongan B. 25 Kementerian Pertahanan 93,971,200 B. 26 Kementerian Pendidikan 86,087,300 B. 28 Perbendaharaan 37,265,400 B. 29 Perkhidmatan Am Perbendaharaan 8,500,000 B. 30 Peruntukan Kepada Kumpulan 9,000,000,000 Wang Terkanun B. 31 Jabatan Kastam dan Eksais Diraja 3,258,995 B. 32 Jabatan Hasil Dalam Negeri 7,720,700 B. 33 Jabatan Penilaian dan Perkhidmatan 961,200 Harta B. 34 Kementerian Kesihatan 52,515,130
-
-<!-- page 3 -->
-
-Maksud Tajuk
+(Seksyen 2)
 
 <!-- marginal: Peruntukan -->
 
-kepada maksud
+Tajuk Maksud kepada maksud
 
 <!-- marginal: RM -->
 
-B. 36 Polis Diraja Malaysia
+B. 10 Jabatan Peguam Negara
 
-<!-- marginal: 32,337,276 -->
+<!-- marginal: 4,958,700 -->
 
-B. 37 Jabatan Imigresen
+B. 15 Jabatan Perancangan Bandar dan
+
+<!-- marginal: 35,828 -->
+
+Desa B. 17 Kementerian Belia dan Sukan
+
+<!-- marginal: 1,342,800 -->
+
+B. 18 Kementerian Perusahaan Utama 19,650,000 B. 19 Kementerian Pertanian 21,700,000 B. 20 Kementerian Perdagangan
+
+<!-- marginal: 6,664,300 -->
+
+Antarabangsa dan Industri B. 21 Kementerian Perdagangan
+
+<!-- marginal: 9,931,300 -->
+
+Dalam Negeri dan Hal Ehwal Pengguna B. 22 Kementerian Kebudayaan,
+
+<!-- marginal: 916,000 -->
+
+Kesenian dan Pelancongan B. 25 Kementerian Pertahanan 93,971,200 B. 26 Kementerian Pendidikan 86,087,300 B. 28 Perbendaharaan 37,265,400 B. 29 Perkhidmatan Am Perbendaharaan
+
+<!-- marginal: 8,500,000 -->
+
+B. 30 Peruntukan Kepada Kumpulan 9,000,000,000 Wang Terkanun B. 31 Jabatan Kastam dan Eksais Diraja
+
+<!-- marginal: 3,258,995 -->
+
+B. 32 Jabatan Hasil Dalam Negeri
+
+<!-- marginal: 7,720,700 -->
+
+B. 33 Jabatan Penilaian dan Perkhidmatan
+
+<!-- marginal: 961,200 -->
+
+Harta B. 34 Kementerian Kesihatan 52,515,130
+
+<!-- page 3 -->
+
+Maksud Tajuk Peruntukan kepada maksud
+
+<!-- marginal: RM -->
+
+B. 36 Polis Diraja Malaysia 32,337,276 B. 37 Jabatan Imigresen
 
 <!-- marginal: 9,650,400 -->
 
@@ -74,11 +110,7 @@ B. 46 Kementerian Sains, Teknologi dan
 
 <!-- marginal: 9,762,300 -->
 
-Alam Sekitar B. 47 Kementerian Pengangkutan
-
-<!-- marginal: 24,737,300 -->
-
-B. 51 Kementerian Luar Negeri
+Alam Sekitar B. 47 Kementerian Pengangkutan 24,737,300 B. 51 Kementerian Luar Negeri
 
 <!-- marginal: 8,627,765 -->
 
@@ -102,15 +134,7 @@ B. 7 Jabatan Perdana Menteri
 
 <!-- marginal: 3,766,300 -->
 
-B. 26 Kementerian Pendidikan
-
-<!-- marginal: 23,410,000 -->
-
-B. 52 Kementerian Kerja Raya 200,000,000 B. 53 Kementerian Tanah dan
-
-<!-- marginal: 70,000,000 -->
-
-Pembangunan Koperasi
+B. 26 Kementerian Pendidikan 23,410,000 B. 52 Kementerian Kerja Raya 200,000,000 B. 53 Kementerian Tanah dan 70,000,000 Pembangunan Koperasi
 
 ## JUMLAH
 

@@ -1,0 +1,3393 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-8-2019",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_XI"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Departure Levy Bill 2019"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_I__cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_I__cl_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY Short title and commencement"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ADMINISTRATION Functions and powers of Director General and other officers"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_12"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "IMPOSITION AND SCOPE OF DEPARTURE LEVY Imposition of departure levy"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The departure levy chargeable under section 9 shall be due when the person leaves Malaysia. Rate of departure levy"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_11__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_11__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_11__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, by order published in the Gazette—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_11__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "fix the rate of the departure levy to be charged and levied; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_11__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "vary or amend the rate of the departure levy fixed under paragraph (a)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_11__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_11__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any order made under subsection (1) shall—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_11__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_11__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "be laid before the Dewan Rakyat at the next meeting of the Dewan Rakyat; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_11__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_11__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "at the expiration of one hundred and twenty days from being laid under paragraph (a) or of such extended period as the Dewan Rakyat may, by resolution, direct, cease to have effect in whole if the order is not confirmed, or in part in so far as the order is not confirmed, by resolution passed by the Dewan Rakyat within the said one hundred and twenty days or, if such period has been extended, within such extended period. Refund of departure levy"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_12__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_12__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where an order ceases to have effect in whole or in part as provided in subsection 11(2), any departure levy charged and levied in pursuance of the order or such part of the order as ceases to have effect shall, subject to subsections (2) and (3), be refundable to the persons by whom such departure levy was paid."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Unless the Minister otherwise directs, no departure levy refundable under subsection (1) shall be refunded, unless the person by whom the departure levy was paid makes a claim in writing to the Director General within one year from the date on which the order ceases to have effect in whole or in part and the claim shall contain such particulars as the Director General may require."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_12__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may reduce or disallow any departure levy refundable under subsection (1) to the extent that the refund would unjustly enrich the person by whom the departure levy was paid."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_9__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who leaves Malaysia shall pay a departure levy."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_9__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_9__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The departure levy shall be charged and levied on any person who leaves Malaysia—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_9__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_9__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case the person is carried by any operator, by a registered person; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_9__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_9__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case other than paragraph (a), by any person authorised by Minister, at the rate specified by the Minister in accordance with section 11 of the Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1) or paragraph 2(a), commits an offence and shall, on conviction be liable to a fine not exceeding five hundred thousand ringgit or to imprisonment for a term not exceeding three years or to both. Departure levy due"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_4__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_4__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_4__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General shall have the superintendence of all matters relating to the departure levy, subject to the direction and control of the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to the general direction and supervision of the Director General, a senior officer of customs shall have and exercise all powers conferred on the Director General by or under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any officer of customs shall have the duties and powers to enforce and ensure due compliance with the provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_4__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person other than an officer of customs may be appointed by, or employed with the concurrence of, the Director General for any duty or service relating to departure levy and such person shall be deemed to be an officer of customs for that duty or service."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_4__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may, by authorization in writing, confer on any person appointed or employed under subsection (4) all or any of the powers of a senior officer of customs by or under this Act, for a period not exceeding ninety days in respect of any one authorization. Persons appointed or employed to be public servants"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every person appointed or employed under subsection 4(4) for any duty or service relating to departure levy shall be deemed to be a public servant within the meaning of the Penal Code [Act 574]. Recognition of office"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_6__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every officer of customs when discharging his duties shall, on demand made by any person, declare his office and produce to the person the authority card or badge prescribed under section 8a of the Customs Act 1967 or in the case of any officer of customs appointed under subsection 4(4), any other authority card as may be approved by the Director General."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "It shall not be an offence for any person to refuse to comply with any request, demand or order made by any officer of customs acting or purporting to act under this Act if such officer refuses to declare his office and produce his authority card or badge on demand being made by the person."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_6__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_6__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person, not being an officer of customs, who unlawfully wears, uses, possesses or displays, otherwise than in the course of a stage play or other theatrical performance—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_6__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_6__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any uniform prescribed under section 8a of the Customs Act 1967 or any dress having the appearance of, or bearing the distinctive marks of, such uniform; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_6__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_6__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any prescribed authority card or badge, or authority card as approved by the Director, referred to in subsection (1), commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both. Confidentiality of information"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_7__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_7__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every person, having any official duty or being appointed or employed under this Act, shall regard and deal with all documents, information, returns or declarations relating to the business or value of the provision of services by any registered person as confidential."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_7__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_7__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to subsection 8(1), every person having possession or control over any document, information, return or declaration or copies of such document, information, return or declaration, in relation to the business or the value of the departure levy by any person, who at any time, otherwise than for the purposes of this Act or with the express authority of the Director General—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_7__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_7__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "communicates or attempts to communicate the information or anything contained in the document, return or declaration or copies of such document, return or declaration to any person; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_7__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_7__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "suffers or permits any person to have access to any information or to anything contained in the document, return or declaration or copies of such document, return or declaration, commits an offence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_7__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No person having any official duty or being appointed or employed under this Act or who is referred to in subsection 8(1) shall be required to produce in any matters or proceedings in any court or tribunal any document, information, return or declaration or to divulge or communicate in the matters or proceedings of any matter or thing, coming under his notice in the performance of his duties under this Act, except as may be necessary for the purposes of carrying into effect the provisions of this Act or in order to institute a prosecution or in the course of a prosecution for any offence committed under this Act. Director General may transmit, etc., document etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_8__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may, as he deems fit, transmit or communicate any document, information, return or declaration referred to in subsection 7(1) or anything contained in such document, information, return or declaration to the Chief Statistician of the Department of Statistics Malaysia which may be required in the performance of his official duty."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (1), the Minister may, as he deems fit, allow the Director General to transmit or communicate any document, information, return or declaration referred to in subsection 7(1) or anything contained in such document, information, return or declaration to any other person."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_16"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "REGISTRATION Liability to be registered"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_13__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_13__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any operator is liable to be registered under this Act and for such purpose shall apply to the Director General to be registered, in the manner as may be prescribed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The application referred to in subsection (1) shall be made not less than thirty days before the commencement of the operation of carrying any person leaving Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_13__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any operator who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding one year or to both. Duty to appoint an agent"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_14__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_14__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A foreign operator shall appoint an agent who shall apply to be registered under section 13."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where there is a change of an agent appointed under subsection (1), the foreign operator shall appoint another agent to act on his behalf not less than thirty days before the changes and such agent shall apply for registration within thirty days after the date of appointment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_14__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any foreign operator who contravenes subsection (1) or (2) commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding one year or to both. Registration of operator or agent of foreign operator"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_15__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_15__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General shall register any operator or agent of foreign operator with effect from the first day of the commencement of the operation of the operator or foreign operator of carrying any person leaving Malaysia or any date as the Director General may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General shall have the power to register any operator or agent of foreign operator who has not applied under section 13 with effect from the first day of the following month after the information became known to the Director General."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_15__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General shall notify the person registered under subsection (2) in the manner as he deems fit. Notification of cessation of liability and cancellation of registration"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_16__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_16__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_16__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_16__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_16__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_16__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any registered person—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_16__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_16__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "who intends to cease carrying on operations of an operator; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_16__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_16__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "who intends to cease being an agent of a foreign operator, shall notify the Director General in writing of that fact sixty days before the date of cessation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_16__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon receipt of the notification under subsection (1), the Director General may cancel the registration of the registered person from such date as the Director General may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_16__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IV__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any registered person who contravenes subsection (1), commits an offence and shall on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding one year or to both."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX",
+      "@type": "akn:part",
+      "eli:number": "IX",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_45",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_46",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_47",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_48",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_49",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_50",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_51",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_52",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_53",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_54"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "TRIALS AND PROCEEDINGS Prosecution"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_45",
+      "@type": "akn:clause",
+      "eli:number": "45",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No prosecution for an offence under this Act shall be instituted except by or with the written consent of the Public Prosecutor. Jurisdiction to try offences"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_46",
+      "@type": "akn:clause",
+      "eli:number": "46",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding any written law to the contrary, a Sessions Court shall have jurisdiction to try any offence under this Act and to impose punishment for the offence under this Act for such offence. Evidential provisions"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_47",
+      "@type": "akn:clause",
+      "eli:number": "47",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_47__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_47__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_47__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_47__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_47__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_47__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_47__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_47__subsec_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_47__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_47",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In any proceedings under this Act or the regulations made under this Act, any statement purporting to be signed by the Director General or an officer authorized by him which forms part of or is annexed to the information, complaint or statement of claim, shall be prima facie evidence of any fact stated therein."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_47__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_47",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A transcript of any particulars contained in a return or other document relating to departure levy, if it is certified under the hand of the Director General or an officer authorized by him to be a true copy of the particulars, shall be prima facie evidence of the facts stated therein."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_47__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_47",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No statement made or document produced by or on behalf of any person shall be inadmissible in evidence against the person in any proceedings against him to which this section applies, by reason only of the fact that he was or may have been induced to make the statement or produce the document by any inducement, promise or threat made by any person having any official duty under, or being appointed for the due administration of, this Act or the regulations made under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_47__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_47",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Nothing in this Act shall affect the operation of Chapter IX of Part III of the Evidence Act 1950."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_47__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_47__subsec_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_47__subsec_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_47",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where in any proceedings it is proved that any false statement or entry has been made in any return rendered under this Act by or on behalf of any person or in any books of account or records of any person—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_47__subsec_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_47__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the person shall be presumed, until the contrary is proved, to have made the false statement or entry or to have caused the false statement or entry to be made or to have allowed it to be made with intent to evade the payment of departure levy or to obtain a refund of departure levy to which the person is not entitled, as the case may be; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_47__subsec_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_47__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other person who made the false statement or entry shall be presumed, until the contrary is proved, to have made the false statement or entry with intent to assist the first-mentioned person to evade the payment of departure levy or to obtain a refund of departure levy to which he is not entitled."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_47__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_47",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any officer of customs has obtained any document or other evidence in exercise of his powers under this Act, the document or copy of the document or other evidence, as the case may be, shall be prima facie evidence of the facts stated therein, notwithstanding anything to the contrary in any written law."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_47__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_47",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any document which is to be used in any proceedings against any person for an offence under this Act or the regulations made under this Act is in a language other than the national language or English language, a translation of the document into the national language or English language shall be admissible in evidence where the translation is accompanied by a certificate of the person who translated the document setting out that it is an accurate, faithful and true translation and the translation had been done by the person at the instance of any officer of customs."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_47__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_47",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection (7) shall apply to a document which is translated, regardless of whether the document was made in or outside Malaysia, or whether the translation was done in or outside Malaysia, or whether possession of the document was obtained by any officer of customs in or outside Malaysia. Evidentiary value of copies of electronic notice"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_48",
+      "@type": "akn:clause",
+      "eli:number": "48",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_48__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_48__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_48__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_48",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the avoidance of doubt, any electronic notice or any electronic record of an electronic notice or any copy or print out thereof shall not be inadmissible in evidence merely on the basis that it was filed, lodged or transmitted through the electronic service, without the delivery of any equivalent document or counterpart in paper form."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_48__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_48__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_48__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_48",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding any other written law, in any proceedings under this Act or the regulations made under this Act, any electronic notice or any electronic record of an electronic notice or any copy or print out thereof which is—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_48__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_48__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "certified by the Director General to contain all or any information filed, lodged or transmitted through the electronic service in accordance with this Part; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_48__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_48__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "duly authenticated in the manner specified in section 47 or is otherwise authenticated in the manner provided in the Evidence Act 1950 for the authentication of document produced by computer, shall be prima facie evidence of the facts stated therein. Imprisonment for non-payment of fine"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_49",
+      "@type": "akn:clause",
+      "eli:number": "49",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_49__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_49__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_49__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding sections 283 and 284 of the Criminal Procedure Code [Act 593], the period of imprisonment imposed by any court in respect of the non-payment of any fine under this Act or the regulations made under this Act, or in respect of the default of a sufficient distress to satisfy any such fine, shall be such period of such description, as in the opinion of the court will satisfy the justice of the case, but shall not exceed in any case the maximum period as follows:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_49__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_49",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where the fine does not exceed five thousand ringgit, the maximum period shall be two months;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_49__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_49",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where the fine exceeds five thousand ringgit but does not exceed ten thousand ringgit, the maximum period shall be four months; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_49__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_49",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where the fine exceeds ten thousand ringgit but does not exceed twenty thousand ringgit, the maximum period shall be six months; with two additional months for every ten thousand ringgit after the first twenty thousand ringgit of the fine until a maximum period of six years is reached. No costs or damages arising from seizure to be recoverable unless seizure without reasonable or probable cause"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_50",
+      "@type": "akn:clause",
+      "eli:number": "50",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No person shall in any proceedings before any court in respect of the seizure of any thing seized in the exercise or the purported exercise of any power conferred under this Act, be entitled to the costs of the proceedings or to any damages or other relief other than an order for the return of the thing or the payment of the value unless the seizure was made without reasonable or probable cause. Compounding of offences"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_51",
+      "@type": "akn:clause",
+      "eli:number": "51",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_51__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_51__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_51__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_51__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_51__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_51__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_51__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_51__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_51__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_51",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, with the approval of the Public Prosecutor, make regulations prescribing—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_51__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_51__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any offence under this Act or any regulations made under this Act as an offence which may be compounded;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_51__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_51__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the criteria for compounding such offence; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_51__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_51__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the method and procedure for compounding such offence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_51__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_51",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any senior officer of customs may, with the consent in writing of the Public Prosecutor, at any time before a charge is being instituted, compound any offence prescribed as an offence which may be compounded by making a written offer to the person reasonably suspected of having committed the offence to compound the offence upon payment to the Director General of a sum of money not exceeding fifty per centum of the amount of the maximum fine to which the person would have been liable to if he had been convicted of the offence, within such time as may be specified in the written offer."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_51__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_51",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An offer under subsection (2) may be made at any time after the offence has been committed, but before any prosecution for it has been instituted, and where the amount specified in the offer is not paid within the time specified in the offer or such extended time as the Director General may grant, prosecution for the offence may be instituted at any time after that against the person to whom the offer was made."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_51__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_51",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where an offence has been compounded under subsection (2), no prosecution shall be instituted in respect of the offence against the person to whom the offer to compound was made, and any document or thing seized in connection with the offence may be released by the Director General, subject to such terms as the Director General thinks fit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_51__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_51",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All sums of monies received by the Director General under this section shall be paid into and form part of the Consolidated Fund. Court order"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_52",
+      "@type": "akn:clause",
+      "eli:number": "52",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_52__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_52__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_52__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_52",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any person is found guilty of an offence under this Act, the court before which that person is found guilty shall order that person to pay to the Director General the amount of departure levy due and payable or any penalty payable under this Act, if any, as certified by the Director General and the departure levy or penalty shall be recoverable in the same manner as a fine as provided under section 283 of the Criminal Procedure Code."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_52__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_52",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any person is found not guilty of an offence under this Act, and if he has paid the amount of departure levy due and payable or penalty payable in respect of the offence charged, the court may order the amount paid to be refunded to such person where no notice of appeal is filed. Obligation of secrecy"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_53",
+      "@type": "akn:clause",
+      "eli:number": "53",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_53__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_53__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_53__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_53",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Except as provided under section 54, the name, identification card number, passport number, address of an informer or any other information which can lead to identity of an informer and the substance of the information received from an informer shall be kept secret and shall not be disclosed by any officer of customs or any person who in the ordinary course of his duties comes into possession of, or has control of or access, to the information to any person except the officer of customs authorized by the Director General."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_53__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_53",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding one year or to both. Protection of informers from discovery"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_54",
+      "@type": "akn:clause",
+      "eli:number": "54",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_54__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_54__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_54__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_54__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_54",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Except as hereinafter provided, no witness in any civil or criminal proceedings shall be obliged or permitted to disclose the name, address or any information of an informer or the substance of the information received from him or to state any matter which might lead to his discovery of the informer."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_54__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_54",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If any books, documents or papers which are produced in evidence or liable to inspection in any civil or criminal proceeding contain any entry in which any informer is named or described or which might lead to his discovery, the court shall cause all the passages to be concealed from view or to be obliterated so far only as may be necessary to protect the informer from discovery."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_54__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_IX__cl_54",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If in the trial for any offence under this Act, the court, after full enquiry into the case, believes that the informer wilfully made in his complaint a material statement which he knew or believed to be false or did not believe to be true, or if in any other proceedings the court is of the opinion that justice cannot be fully done between the parties thereto without the discovery of the informer, it shall be lawful for the court to require the production of the original complaint, if in writing, and permit enquiry, and require full disclosure, concerning the informer."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_I__cl_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_I__cl_1__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Departure Levy Act 2019."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall come into operation on a date to be appointed by the Minister by notification in the Gazette and the Minister may appoint different dates for the coming into operation of different parts or different provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_I__cl_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (2), the Minister may by notification in the Gazette, appoint the effective date for the charging and levying of departure levy under this Act. Territorial and extra-territorial application"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_I__cl_2__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_I__cl_2__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_I__cl_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall apply both within and outside Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_I__cl_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (1), this Act shall apply to any person whatever his nationality or citizenship, beyond the geographical limits of Malaysia and its territorial waters, if the person is a foreign operator under this Act. Interpretation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_I__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_I__cl_3__subsec_1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_I__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires— “prescribed” means prescribed by the Minister in the regulations made under this Act; “document” has the meaning assigned to it under section 3 of the Evidence Act 1950 [Act 56]; “electronic” has the meaning assigned to it under section 5 of the Electronic Government Activities Act 2007 [Act 680]; “Director General” means the Director General of Customs and Excise, appointed under subsection 3(1) of the Customs Act 1967 [Act 235]; “computer” has the meaning assigned to it under section 3 of the Evidence Act 1950; “departure levy” means a levy payable under this Act; “Minister” means the Minister charged with the responsibility for finance; “person” includes an individual, a company, limited liability partnership, firm, society and every other juridical person; “registered person” means any operator or agent of foreign operator registered under section 15; “officer of customs” means any officer of customs as defined in subsection 2(1) of the Customs Act 1967 and includes any person appointed and employed under subsection 4(4); “senior officer of customs” means any officer of customs as defined in subsection 2(1) of the Customs Act 1967; “operator” means any person who operates any vehicle to carry any person leaving Malaysia and “foreign operator” means any person, who operates any vehicle to carry any person leaving Malaysia, but who has no business or place of business in Malaysia; “effective date” means the date appointed under subsection 1(3)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_30"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "RECORDS, RETURNS, ASSESSMENT AND RECOVERY Duty to keep records"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_34"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "EXEMPTION, REMISSION AND REFUND Power of Minister to exempt and refund"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VII",
+      "@type": "akn:part",
+      "eli:number": "VII",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VII__cl_35",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ENFORCEMENT Powers of enforcement, inspection and investigation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII",
+      "@type": "akn:part",
+      "eli:number": "VIII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_44"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "OFFENCES Obstruction"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_36__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_36__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Any person who—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_36__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in any way assaults, obstructs, hinders, threatens or molest the officer of customs in the discharge of his functions under this Act or the regulations made under this Act; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_36__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "fails to give reasonable facilities or assistance to any officer of customs in the exercise of his functions under this Act, commits an offence and shall, on conviction, be punished with imprisonment for a term not less than six months and not exceeding three years or with a fine not exceeding five hundred thousand ringgit or to both. Incorrect return and short paid"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_37__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_37__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any registered person who makes an incorrect return or gives any incorrect information in relation to any matter affecting his liability to charge the departure levy or the departure levy charged commits an offence and shall, on conviction, be liable—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_37__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to a fine not exceeding five hundred thousand ringgit or to imprisonment for a term not exceeding three years or to both; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_37__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where the offence relates to the deficiency of departure levy, to a penalty equal to the deficient amount. Evasion of departure levy, fraud"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_1__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who with intent to evade or to assist any other person to evade departure levy—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "omits from a return any information in relation to any matter affecting his liability to charge departure levy or the amount of the levy collected;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "makes any false statement or false entry in any return furnished, or claim or application made, under this Act or the regulations made under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "gives any false answer whether in writing or otherwise to any question asked or request for information made in accordance with the provisions of this Act or the regulations made under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "prepares or maintains or authorizes the preparation or maintenance of any false book of accounts or other false records, or falsifies or authorizes the falsification of any book of accounts or records; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "makes, uses or authorizes the use of any fraud, artifice or contrivance, commits an offence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who commits an offence under subsection (1) shall, on conviction—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "be liable to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding five years or to both; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where the offence relates to the deficiency of departure levy, to a penalty equal to the deficient amount."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where in any proceedings under this section it is proved that a false statement or false entry, whether by omission or otherwise, has been made in any return furnished, or claim or application made, under this Act or the regulations made under this Act by or on behalf of any person or in any books of account or other records maintained by or on behalf of any person, that person shall be presumed until the contrary is proved to have made that false statement or false entry with intent to evade departure levy."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any reference in this section to a person who makes, uses or authorizes the use of any fraud, artifice or contrivance includes a reference to a person who, without the authority of the Director General or a senior officer of customs—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "destroys, damages, erases, alters or manipulates data stored in, or used in connection with, a computer;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_4__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_4__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "introduces into, or records or stores in, a computer by any means data for the purpose of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_4__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_4__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "destroying, damaging, erasing, altering or manipulating data stored in, or used in connection with, a computer; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_4__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_4__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "interfering with, interrupting or obstructing the lawful use of a computer, or the data stored in, or used in connection with, a computer; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "otherwise uses a computer, the purpose or effect of which is to evade departure levy."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of subsection (4), “data” includes any computer program or part of a computer program."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In any prosecution under this section, any evasion of departure levy shall be deemed to be with the knowledge of the accused unless the contrary be proved by the accused. Refusing to answer question or giving false information"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_39__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_39__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_39__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who, being required under this Act or the regulations made under this Act to give any information which may reasonably be required by the officer of customs which it is in his power to give, refuses to give the information or furnishes as true the information which he knows or has reason to believe to be false, commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding one year or to both."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_39__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "When any of the information is proved to be untrue or incorrect in whole or in part, it shall be no defence to allege that the information or any part of the information was furnished inadvertently or without criminal or fraudulent intent, or was misinterpreted or not fully interpreted by an interpreter provided by the informant. Attempts and abetments"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who attempts to commit an offence punishable under this Act or the regulations made under this Act, or abets the commission of the offence, shall be punishable with the punishment provided for the offence. General penalty"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who commits an offence under this Act or the regulations made under this Act for which no penalty is expressly provided shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding one year or to both. Offences by company, etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_42__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_42__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any person who commits an offence under this Act or the regulations made under this Act is a company, limited liability partnership, firm, society or other body of persons, a person who at the time of the commission of the offence was a director, compliance officer, partner, manager, secretary or other similar officer of the company, limited liability partnership, firm, society or other body of persons or was purporting to act in the capacity or was in any manner or to any extent responsible for the management of any of the affairs of the company, limited liability partnership, firm, society or other body of persons or was assisting in its management—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_42__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_42",
+      "schema:text": {
+        "@language": "en",
+        "@value": "may be charged severally or jointly in the same proceedings with the company, limited liability partnership, firm, society or the body of persons; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_42__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_42__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_42__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_42",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if the company, limited liability partnership, firm, society or the body of persons is found guilty of the offence, shall be deemed to be guilty of that offence and shall be liable to the same punishment or penalty as an individual unless, having regard to the nature of his functions in that capacity and to all circumstances, he proves—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_42__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_42__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "that the offence was committed without his knowledge; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_42__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_42__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "that the offence was committed without his consent or connivance and that he had taken all reasonable precautions and exercised due diligence to prevent the commission of the offence. Liability of person for act, etc., of employee, etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_43__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_43__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_43__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any person would be liable to any punishment or penalty under this Act or the regulations made under this Act for any act, omission, neglect or default committed—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_43__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by that person’s employee in the course of his employment;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_43__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by that person’s agent when acting on behalf of that person; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_43__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by the employee of that person’s agent when acting in the course of his employment by the person’s agent or otherwise on behalf of the person’s agent acting on behalf of that person, that person shall be liable to the same punishment or penalty for every such act, omission, neglect or default of the person’s employee or agent, or of the employee of the person’s agent. Departure levy, etc., to be payable notwithstanding any proceedings, etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII__cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VIII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The institution of proceedings or the imposition of a penalty, fine or term of imprisonment under this Act or the compounding of an offence under section 51 shall not relieve any person from the liability to pay for departure levy or penalty under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VII__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of this Act, every officer of customs shall have all powers conferred under the Customs Act 1967, and such powers shall be in addition to the powers provided for under this Act and not in derogation thereof."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_31__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_31__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_31__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_31__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_31__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_31__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_31__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_31__subsec_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, by order published in the Gazette, in any particular case and subject to such conditions as he may deem fit, exempt—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_31__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_31__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any person or class of persons from the payment of the whole or any part of the departure levy;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_31__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_31__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any registered person from charging the whole or any part of the departure levy;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_31__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_31__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any person authorised under paragraph 9(2)(b) from charging the departure levy; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_31__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_31__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any operator from the requirement to register."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_31__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_31__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_31__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_31__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (1), the Minister may, in any particular case and subject to such conditions as he deems fit, exempt—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_31__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_31__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any person from the payment of the whole or any part of the departure levy;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_31__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_31__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any registered person from charging the whole or any part of the departure levy; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_31__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_31__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any operator from the requirement to register."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_31__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where a person who has been granted exemption under subsection (1)(a) or (2)(a) has paid any of the departure levy to which the exemption relates and has been granted approval by the Minister for a refund of the amount of departure levy which has been paid, the person shall be entitled to such refund. Remission"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_32__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_32__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_32__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_32__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may remit the whole or any part of the departure levy due and payable where he deems fit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_32__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may, if he deems fit and subject to any conditions as he may determine, remit penalty under subsection 20(2)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_32__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where a person who has been granted remission under subsection (1) or (2) has paid any departure levy or penalty to which the remission relates, he shall be entitled to a refund of the amount of the departure levy or penalty paid which had been remitted. Refund of departure levy overpaid or erroneously paid, etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_33__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_33__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_33__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_33__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_33__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who has overpaid or erroneously paid any departure levy or penalty or is entitled to a refund of the departure levy or penalty under section 31 or 32 may make a claim in the form as the Director General may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_33__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A claim under subsection (1) shall be made to the Director General within one year from the time such overpayment or erroneous payment occurred or such entitlement of the refund occurred."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_33__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may reduce or disallow any refund in respect of the claim under subsection (1) to the extent that the refund would unjustly enrich the person referred to in subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_33__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Except as provided under this section, the Director General shall not be liable to refund an amount paid to the person referred to in subsection (1) by way of departure levy by virtue of the fact that it was not departure levy due and payable to him. Refund upon satisfaction of Director General and with supporting evidence"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_34__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_34__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_34__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may make such refund in respect of the claim under subsection 33(1) after being satisfied that the person has properly established the claim."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_34__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_VI__cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A claim under this section shall be supported by such evidence as required by the Director General."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_17__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_17__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_17__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_17__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_17__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every registered person shall keep complete and true records of any person carried by them leaving Malaysia and all transactions which affect or may affect his liability to charge departure levy, in such books of account or other records as the Director General may direct."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any record kept under this section shall be preserved for a period of seven years from the latest date to which the record relates."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_17__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the record is in an electronically readable form, the record shall be kept in such manner as to enable the record to be readily accessible and convertible into writing."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_17__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the record is originally in a manual form and is subsequently converted into an electronic form, the record shall be retained in its original form prior to the conversion."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_17__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any registered person who contravenes this section commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding one year or to both. Copy of record admissible in evidence"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A copy of a record under section 17 shall be admissible in evidence in any proceedings to the same extent as the record itself. Furnishing of returns"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_19__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_19__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_19__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_19__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_19__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every registered person shall—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_19__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_19__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "account for the departure levy due on a monthly period in the return as may be prescribed; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_19__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_19__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "furnish the return to the Director General in the prescribed manner not later than the last day of the month following the end of the monthly period to which the return relates."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any registered person who ceases to be registered under section 16 shall, not later than thirty days after such cessation or such later date as the Director General may allow, furnish a return as the Director General may determine in respect of that part of the last period during which the person was registered."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_19__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The return referred to in subsections (1) and (2) shall be furnished whether or not there is any departure levy to be paid."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_19__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any registered person who fails to furnish a return commits an offence and shall, on conviction, be liable to a fine not exceeding five hundred thousand ringgit or to imprisonment for a term not exceeding three years or to both. Payment of departure levy"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_20__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_20__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_20__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_20__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_20__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any registered person who is required to furnish a return under section 19 shall pay to the Director General the amount of departure levy due and payable by the registered person in respect of the period to which the return relates not later than the last day on which the operator is required to furnish the return."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_20__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_20__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_20__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_20__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any departure levy due and payable is not paid wholly or partly by any registered person after the last day on which it is due and payable under subsection (1) and no prosecution is instituted, the registered person shall pay—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_20__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_20__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for the first thirty-day period that the departure levy is not paid wholly or partly after the expiry of the period specified under subsection (1), a penalty of ten per cent of the amount of the departure levy remaining unpaid;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_20__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_20__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for the second thirty-day period that the departure levy is not paid wholly or partly after the expiry of the period specified under subsection (1) an additional penalty of fifteen per cent of the amount of the departure levy remaining unpaid; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_20__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_20__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for the third thirty-day period that the departure levy is not paid wholly or partly after the expiry of the period specified under subsection (1) an additional penalty of fifteen per cent of the amount of the departure levy remaining unpaid."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_20__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any registered person who fails to pay to the Director General the amount of the departure levy due and payable under subsection (1), commits an offence and shall, on conviction, be liable to a fine not exceeding five hundred thousand ringgit or to imprisonment for a term not exceeding three years or to both."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_20__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In addition to any fine imposed by the court under subsection (3), the court may order any registered person who is convicted for an offence under subsection (3) to pay the penalty as specified in subsection (2). Period for institution of prosecution for non-payment of departure levy"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_21__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_21__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_21__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to subsection (2), prosecution for an offence under subsection 20(3) may be instituted after the expiry of the period specified in paragraph 20(2)(c)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_21__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No prosecution for an offence under subsection 20(3) shall be instituted against the registered person who has paid the amount of the departure levy due and payable, and the penalty specified under subsection 20(2) within the period specified in the same subsection. Power to assess"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_22__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_22__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_22__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_22__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_22__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_22__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_22__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_22__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any operator or agent fails to apply for registration;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_22__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_22__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any registered person fails to furnish a return; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_22__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_22__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any registered person furnishes a return which appears to the Director General to be incomplete or incorrect, the Director General may assess to the best of his judgement the amount of departure levy due and payable, and the penalty payable under subsection 20(2), if any, by such person, and the Director General shall notify such person of the assessment in writing."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_22__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The assessment under subsection (1) shall not be made more than six years from the date on which the departure levy was due and payable. Assessment of departure levy at amount greater than appropriate"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_23__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_23__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_23__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_23__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_23__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_23__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_23__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_23__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Director General makes an assessment under paragraph 22(1)(b) or (c);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_23__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_23__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the departure levy assessed has been paid but no return has been furnished for the period to which the assessment relates; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_23__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_23__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the registered person fails to furnish a return for any subsequent period, the Director General may, as he deems fit, assess the amount of the departure levy greater than that which otherwise would have been considered to be appropriate."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_23__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where it appears to the Director General that the amount which ought to have been assessed in the assessment under subsection (1) exceeds the amount which was so assessed, the Director General may under the same provisions as that assessment was made and within the period during which that assessment could have been made, make a supplementary assessment and shall notify the registered person in writing accordingly. Assessment to make good loss of departure levy attributable to fraud, etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where in the opinion of the Director General any form of fraud or default has been committed by or on behalf of any person in connection with or in relation to departure levy, the Director General may, for the purposes of making good any loss of departure levy attributable to the fraud or default, make an assessment at any time. Registered person to pay departure levy and penalty upon notified"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_25__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_25__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_25__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the amount of the departure levy and penalty, if any, have been assessed and notified to any registered person, it shall be deemed to be the amount of departure levy due and payable and penalty payable, if any, and may be recovered accordingly and the amount of departure levy and penalty, if any, shall be paid by the registered person, unless or except to the extent that the assessment has been withdrawn or reduced by the Director General."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_25__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The amount of departure levy due and payable and penalty payable shall be paid by the registered person whether or not that registered person applies for a review under section 59 against the assessment. Director General may alter assessment, etc., to ensure correctness"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may make any alteration in or addition to any assessment made as he deems fit to ensure the correctness thereof and shall forthwith notify the registered person in writing. Power to collect departure levy, etc., from persons owing money to registered person"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_27__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_27__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_27__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_27__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_27__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_27__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any departure levy is due and payable or any penalty is payable by any registered person, the Director General may, by notice in writing, require—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_27__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any person by whom any money is due or accruing or may become due and payable to the registered person;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_27__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any person who holds or may subsequently hold money for or on account of the registered person; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_27__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any person having authority from any other person to pay money to the registered person, to pay to the Director General forthwith, or within such period as the Director General allows, such money, not being salary or wages due or accruing to the registered person, or so much of such money as is sufficient to pay the departure levy due and payable, accruing or penalty, payable, by the registered person."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_27__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All payments made pursuant to a notice under subsection (1) shall be deemed to be made on behalf of the registered person and with the authority of the registered person and all other persons concerned. Recovery of departure levy, etc., erroneously refunded"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_28__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_28__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_28__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_28__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any departure levy or penalty after having been paid has been erroneously refunded to any person, the person shall pay the departure levy or penalty erroneously refunded to him whether or not a demand is made by the Director General."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_28__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The demand referred to in subsection (1) shall be made by the Director General within six years from the date the refund was made."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_28__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon receipt of the demand under subsection (2), the person shall repay the refund erroneously paid to him. Recovery of departure levy, etc., as civil debt"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_29__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_29__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_29__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_29__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to any other remedy and notwithstanding any decision of the officer of customs, any departure levy due and payable or penalty payable by the registered person under this Act may be recovered as a civil debt due to the Government."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_29__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In any proceedings to recover the departure levy or penalty if any, under subsection (1), the production of a certificate signed by the Director General giving the name and address of the registered person and the amount of the departure levy due and payable or penalty payable, if any, shall be sufficient evidence of the amount as due and payable or payable by him and shall be sufficient authority for the court to give judgment for that amount."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_29__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any penalty imposed under this Act shall, for the purposes of this Act and the Limitation Act 1953 [Act 254], the Limitation Ordinance of Sabah [Sabah Cap. 72] or the Limitation Ordinance of Sarawak [Sarawak Cap. 49], as the case may be, be recoverable as if it were penalty payable under this Act and accordingly subsection 6(4) of the Limitation Act 1953, section 3 of the Limitation Ordinance of Sabah or section 3 of the Limitation Ordinance of Sarawak, as the case may be, shall not apply to that penalty. Liability of directors, etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_30__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_30__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_30__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding any written law to the contrary, and subject to subsection (2), where departure levy is due and payable or penalty is payable under this Act by any company, limited liability partnership, firm, society, or other body of persons, the directors of such company, the compliance officer of the limited liability partnership, the partners of such firm, the office-bearers of such society or the persons responsible for the management of the body of person, as the case may be, shall, together with such company, limited liability partnership, firm, society, or other body of persons be jointly and severally liable for the departure levy or penalty."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_30__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In relation to a company that is being wound up, the directors of the company shall only be so liable where the assets of the company are insufficient to meet the amount due, after paying any sum having priority under the Companies Act 2016 [Act 777] in relation to the application of the assets of the company in winding up over the departure levy or penalty."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X",
+      "@type": "akn:part",
+      "eli:number": "X",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_55",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_56",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_57",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_58",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_59",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_60",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_61",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_62"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "MISCELLANEOUS Service of notices, etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_XI",
+      "@type": "akn:part",
+      "eli:number": "XI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_XI__cl_63",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_XI__cl_64"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "TRANSITIONAL Registration before effective date"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_XI__cl_63",
+      "@type": "akn:clause",
+      "eli:number": "63",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_XI__cl_63__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_XI__cl_63__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_XI__cl_63__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_XI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_XI__cl_63__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_XI__cl_63",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding section 13, any person and any agent of foreign operator who operates services of carrying any person leaving Malaysia before the effective date and such services are subjected to the departure levy shall apply to the Director General to be registered within thirty days before the effective date, in the manner provided in section 13."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_XI__cl_63__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_XI__cl_63",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may register the person referred to in subsection (1) on or after the effective date."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_XI__cl_63__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_XI__cl_63",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding one year or to both. Payment before effective date"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_XI__cl_64",
+      "@type": "akn:clause",
+      "eli:number": "64",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_XI__cl_64__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_XI__cl_64__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_XI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_XI__cl_64__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_XI__cl_64",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Departure levy shall not be charged on or payable by any person who has made full payment before the effective date for his travel to leave Malaysia on or after the effective date."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_XI__cl_64__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_XI__cl_64",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any person who made payment to travel to leave Malaysia partly before the effective date and partly on or after the effective date, the departure levy shall be charged and payable by the person for the part payment made on or after the effective date."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_55",
+      "@type": "akn:clause",
+      "eli:number": "55",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_55__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_55__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_55__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_55__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_55__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_55__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_55__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_55",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every notice, direction or any other document required by this Act or the regulations made under this Act to be served on any person may be served—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_55__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_55__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "personally upon the person;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_55__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_55__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by sending it to the person by registered post; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_55__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_55__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by electronic service."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_55__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_55__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_55__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_55",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The notice, direction or other document sent by registered post to a person shall be deemed to have been served on that person at the time at which it would have been delivered to that person in the ordinary course of the post if the notice, direction or other document was addressed—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_55__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_55__subsec_2__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_55__subsec_2__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_55__subsec_2__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_55__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of a company, limited liability partnership, firm, society or other body of persons—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_55__subsec_2__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_55__subsec_2__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to its registered office;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_55__subsec_2__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_55__subsec_2__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to its last-known address; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_55__subsec_2__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_55__subsec_2__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to any person authorized by it to accept service of process; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_55__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_55__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of an individual, to his last known address."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_55__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_55",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where a person has given his consent for a notice to be served on him through the electronic service, the notice shall be deemed to have been served at the time when the electronic notice is transmitted to his account through the electronic service. Use of electronic service"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_56",
+      "@type": "akn:clause",
+      "eli:number": "56",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_56__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_56__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_56__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_56__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_56__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_56__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_56__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_56",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding any other provision of this Act and subject to regulations made under this Act, the Director General may provide an electronic service to any registered user for—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_56__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_56__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the filing or furnishing of any application, return or any other document; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_56__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_56__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the service of any notice, direction, order, permit or any other document."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_56__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_56",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where an electronic notice is made and transmitted to the Director General, the Director General shall not be liable for any loss or damage suffered by the registered user by reason of any error or omission of whatever nature or however arising appearing in any electronic notice obtained by the registered user under the electronic service if the error or omission was made in good faith and in the ordinary course of the discharge of the duties of the Director General or occurred or arose as a result of any defect or breakdown in the service or in the equipment used for the provision of the service."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_56__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_56",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any electronic notice made and transmitted by the registered user shall be deemed to have been filed, furnished or served at the time the electronic notice is received by the Director General."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_56__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_56",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of this section, “registered user” means any person who is authorized in writing by the Director General to gain access to and use the electronic service. Authentication of notices, etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_57",
+      "@type": "akn:clause",
+      "eli:number": "57",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_57__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_57__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_57__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_57__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_57",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to subsection (2), every notice or any other document served for the purposes of this Act by the Director General or an officer authorized by him shall be sufficiently authenticated if the name and office of the Director General is printed, stamped or otherwise written thereon."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_57__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_57",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where this Act provides for a notice or any other document to be under the hand of any officer of customs, the notice or the other document shall be signed in manuscript by the officer of customs."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_57__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_57",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A notice or any other document served for the purposes of this Act and purporting to be signed in manuscript by the Director General or an officer authorized by him shall be presumed, until the contrary is proved, to have been so signed. Transaction of business on behalf of registered person"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_58",
+      "@type": "akn:clause",
+      "eli:number": "58",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_58__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_58__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who transact on behalf of any registered person on any matters in relation to this Act shall—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_58__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_58",
+      "schema:text": {
+        "@language": "en",
+        "@value": "produce a letter of authorization from the registered person whom the person represents; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_58__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_58",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where any prescribed form is required to be submitted for the purposes of the matters being transacted, submit the form that has been signed by the registered person, except where otherwise allowed by a senior officer of customs. Application for review"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_59",
+      "@type": "akn:clause",
+      "eli:number": "59",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_59__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_59__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_59__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_59__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_59__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_59",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person may apply to the Director General within thirty days from the date the person has been notified of any decision made by an officer of customs for the review of the decision."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_59__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_59",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where an application has been made under subsection (1), the Director General shall make the review and notify the decision of the review to the person, where practicable, within sixty days from the date the application."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_59__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_59",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No review may be made in any matter relating to compound."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_59__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_59",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An application under subsection (1) shall be made in the prescribed form and manner. Liquidator of registered person to give notice of winding up, and set aside departure levy"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_60",
+      "@type": "akn:clause",
+      "eli:number": "60",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_60__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_60__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_60__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_60__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_60__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_60__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_60__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_60__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_60",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where a resolution is passed and becomes effective, or an order is made for the winding up of company which is a registered person, the liquidator of the company shall—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_60__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_60__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "give notice of the winding up of the company to the Director General within fourteen days after the resolution is effective or order is made;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_60__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_60__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "before disposing of any of the assets of the company, set aside such sum out of the assets as appears to the Director General to be sufficient to provide for any departure levy that is or will thereafter become due and payable in respect of the company; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_60__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_60__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "pay the departure levy referred to in paragraph (b)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_60__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_60",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A liquidator of any company referred to in subsection (1) who fails to give notice to the Director General within the time specified in paragraph (1)(a) or fails to provide for payment of the departure levy as required under paragraph (1)(c) shall be personally liable for any departure levy that is or will become due and payable as aforesaid."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_60__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_60",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any liquidator who fails to comply with subsection (1) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one hundred thousand ringgit or imprisonment for a term not exceeding one year or to both."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_60__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_60",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where two or more persons are appointed as liquidators or are required by law to carry out the winding up of the company referred to in subsection (1), the obligations and liabilities attaching to a liquidator under this section shall attach to all such persons jointly and severally, subject to a right of contribution between themselves as in cases of contract. Appointment of receiver to be notified to the Director General"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_61",
+      "@type": "akn:clause",
+      "eli:number": "61",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_61__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_61__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_61__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_61__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_61__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_61",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where a receiver of the property of a registered person is appointed, the receiver shall give notice of his appointment to the Director General within fourteen days after the appointment being made, and shall before disposing of any of the assets of that registered person set aside such sum out of the assets as appears to the Director General to be sufficient to provide for any departure levy that is or will thereafter become payable by that registered person before the appointment of the receiver, and shall pay such departure levy."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_61__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_61",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person appointed as receiver who fails to give notice to the Director General within the time specified in subsection (1) or fails to provide for payment of the departure levy as required by that subsection shall be personally liable for any departure levy that is or will become due and payable as aforesaid."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_61__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_61",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any receiver who fails to comply with subsection (1) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one hundred thousand ringgit or imprisonment for a term not exceeding one year or to both"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_61__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_61",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where two or more persons are appointed as receivers, the obligations and liabilities attaching to a receiver under this section shall attach to all such persons jointly and severally, subject to a right of contribution between themselves as in cases of contract. Power to make regulations"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_62",
+      "@type": "akn:clause",
+      "eli:number": "62",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_62__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_62__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_62__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_62__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_62",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may make regulations as may be necessary or expedient for the purposes of carrying into effect the provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_62__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_62__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_62__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_62__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_62__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_62__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_62__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_62__subsec_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_62__subsec_2__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_62",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to the generality of subsection (1), Minister may prescribe—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_62__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_62__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all matters relating to registration of registered person;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_62__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_62__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all matters relating to furnishing returns;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_62__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_62__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all matters relating to payment of departure levy;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_62__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_62__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all matters relating to refund and remission of departure levy or penalty;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_62__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_62__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all matters relating to electronic service;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_62__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_62__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all matters relating to offices for the administration of the departure levy;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_62__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_62__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all forms to be prescribed for the purposes of this Act; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_62__subsec_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_62__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other matters required by this Act to be prescribed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_62__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/8/eng@/~part_X__cl_62",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any regulations made under this section may prescribe an act or omission in contravention of the regulation to be an offence and may prescribe penalties of a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding one years or both for such offence."
+      }
+    }
+  ]
+}

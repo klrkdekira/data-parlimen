@@ -18,7 +18,25 @@
 
 ## PINDAAN KEPADA AKTA CUKAI PENDAPATAN 1967
 
-3. Permulaan kuat kuasa pindaan kepada Akta Cukai Pendapatan 1967 4. Pindaan seksyen 3B 5. Pindaan seksyen 5 6. Pindaan seksyen 6 7. Pindaan seksyen 27 8. Pindaan seksyen 34 9. Seksyen baru 34c 10. Pindaan seksyen 44 11. Pindaan seksyen 44a 12. Pindaan seksyen 46 13. Pemotongan seksyen 46a 14. Pindaan seksyen 54a 15. Pindaan seksyen 60aa 16. Seksyen baru 60I 17. Pindaan seksyen 67 18. Pindaan seksyen 80
+3. Permulaan kuat kuasa pindaan kepada Akta Cukai Pendapatan 1967 4. Pindaan seksyen 3B 5. Pindaan seksyen 5 6. Pindaan seksyen 6 7. Pindaan seksyen 27 8. Pindaan seksyen 34 9. Seksyen baru 34c
+
+10. Pindaan seksyen 44
+
+11. Pindaan seksyen 44a
+
+12. Pindaan seksyen 46
+
+13. Pemotongan seksyen 46a
+
+14. Pindaan seksyen 54a
+
+15. Pindaan seksyen 60aa
+
+16. Seksyen baru 60I
+
+17. Pindaan seksyen 67
+
+18. Pindaan seksyen 80
 
 <!-- page 2 -->
 
@@ -84,19 +102,59 @@
 
 <!-- page 3 -->
 
-47. Pengurangan baki 108 48. Dividen yang dibayar melebihi baki 108 tersemak 49. Cukai tidak dipotong 50. Opsyen untuk tidak mengambil kira baki 51. Tolakan di bawah seksyen 110 52. Baki 108 atau baki 108 tersemak selepas 31 Disember 2013 53. Pendapatan berkanun disifatkan jumlah pendapatan 54. Hutang dilepaskan 55. Kuasa untuk meremit 56. Cukai hendaklah dipotong 57. Ketidakpakaian
+47. Pengurangan baki 108
+
+48. Dividen yang dibayar melebihi baki 108 tersemak
+
+49. Cukai tidak dipotong
+
+50. Opsyen untuk tidak mengambil kira baki
+
+51. Tolakan di bawah seksyen 110
+
+52. Baki 108 atau baki 108 tersemak selepas 31 Disember 2013
+
+53. Pendapatan berkanun disifatkan jumlah pendapatan
+
+54. Hutang dilepaskan
+
+55. Kuasa untuk meremit
+
+56. Cukai hendaklah dipotong
+
+57. Ketidakpakaian
 
 ## BaB III
 
 ## PINDAAN KEPADA AKTA SETEM 1949
 
-58. Permulaan kuat kuasa pindaan kepada Akta Setem 1949 59. Pindaan seksyen 2 60. Seksyen baru 36a dan 36B 61. Pindaan seksyen 37 62. Pindaan seksyen 38 63. Pindaan seksyen 38a 64. Pindaan seksyen 39
+58. Permulaan kuat kuasa pindaan kepada Akta Setem 1949
+
+59. Pindaan seksyen 2
+
+60. Seksyen baru 36a dan 36B
+
+61. Pindaan seksyen 37
+
+62. Pindaan seksyen 38
+
+63. Pindaan seksyen 38a
+
+64. Pindaan seksyen 39
 
 ## BaB IV
 
 ## PINDAAN KEPADA AKTA PETROLEUM (CUKAI PENDAPATAN) 1967
 
-65. Permulaan kuat kuasa pindaan kepada Akta Petroleum (Cukai Pendapatan) 1967 66. Pindaan seksyen 16 67. Pindaan seksyen 22 68. Pindaan seksyen 33 69. Pindaan Jadual Ketiga
+65. Permulaan kuat kuasa pindaan kepada Akta Petroleum (Cukai Pendapatan) 1967
+
+66. Pindaan seksyen 16
+
+67. Pindaan seksyen 22
+
+68. Pindaan seksyen 33
+
+69. Pindaan Jadual Ketiga
 
 <!-- page 4 -->
 
@@ -300,7 +358,7 @@ Provided that if any withdrawal is made from the account by that individual in t
 
 13. Akta ibu dipinda dengan memotong seksyen 46a.
 
-### Pindaan seksyen 54a
+<!-- marginal: Pindaan seksyen 54a -->
 
 14. Subseksyen 54a(3) Akta ibu dipinda—
 
@@ -514,7 +572,9 @@ Provided that in the case of inward re-takaful business or offshore takaful busi
 
 (iii) the amount of management expenses incurred by him in that period in connection with his family and general businesses.
 
-(11) The adjusted income as ascertained under subsections (9) and (10) shall be deemed to be the statutory income from that source.
+(11) The adjusted income as ascertained under subsections
+
+(9) and (10) shall be deemed to be the statutory income from that source.
 
 (12) Where an operator carrying on general business has re-takaful the risks or part of the risks with a re-takaful operator who either does not carry on the business of takaful of that kind in Malaysia or does not re-takaful the risks through a branch in Malaysia, there may be deducted under subparagraph (5)(b)(ii) or (7)(b)(ii) in respect of such risks which are re-takaful only ninety-five per cent of the amount which would otherwise be deductible:
 
@@ -1112,7 +1172,9 @@ dalam borang yang ditetapkan yang mengandungi apa-apa butir sebagaimana yang dik
 
 (c) syarikat itu tidak layak untuk memotong cukai atas dividen yang dibayar atau dikreditkan dalam tempoh dari 1 Januari 2008 hingga 31 Disember 2013, syarikat itu hendaklah dalam masa tujuh bulan berikutan dengan penutupan tempoh perakaunan yang merupakan tempoh asas syarikat itu bagi tahun taksiran 2008, 2009, 2010, 2011, 2012, 2013, atau 2014 (jika terpakai) mengemukakan kepada Ketua Pengarah suatu penyata dalam borang yang ditetapkan yang mengandungi butir-butir dividen yang dibayar atau dikreditkan itu.
 
-(2) Kegagalan syarikat itu untuk mematuhi subseksyen (1) merupakan suatu kesalahan di bawah subseksyen 120(1) Akta ibu.
+(2) Kegagalan syarikat itu untuk mematuhi subseksyen (1) merupakan suatu kesalahan di bawah subseksyen 120(1) Akta
+
+<!-- marginal: ibu. -->
 
 (3) Suatu penyata di bawah seksyen ini boleh dikemukakan kepada Ketua Pengarah mengikut seksyen 152a Akta ibu.
 

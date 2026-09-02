@@ -38,17 +38,45 @@ disebut "Akta ibu" dalam Akta ini, adalah dipinda—
 
 (c) dengan memasukkan selepas takrif "pegawai pengangkutan jalan" takrif yang berikut: ' "pegawai polis" termasuklah seorang pegawai polis tambahan, pegawai polis simpanan sukarela atau pegawai polis pembantu yang dilantik di bawah Akta Polis 1967;'; dan
 
-(d) dengan menggantikan takrif "pemandu" dengan takrif yang berikut: ' "pemandu" ertinya orang yang pada masa itu sedang memandu
+(d) dengan menggantikan takrif "pemandu" dengan takrif yang berikut: ' "pemandu" ertinya orang yang pada masa itu sedang memandu sesuatu kenderaan motor dan, dalam hal sesuatu kenderaan motor yang tidak bergerak, termasuklah orang yang pada masa itu bertanggungjawab bagi memandu kenderaan motor itu;'.
 
-<!-- marginal: sesuatu -->
+<!-- marginal: Seksyen baru -->
 
-kenderaan motor dan, dalam hal sesuatu kenderaan motor yang tidak bergerak, termasuklah orang yang pada masa itu bertanggungjawab bagi memandu kenderaan motor itu;'.
-
-Seksyen baru 3. Akta ibu adalah dipinda dengan memasukkan selepas
+3. Akta ibu adalah dipinda dengan memasukkan selepas
 
 3A. seksyen 3 seksyen yang berikut:
 
-Pemberi- 3A. (1) Menteri boleh, melalui perintah yang kuasaan disiarkan dalam Warta, apabila dibuat kepada permohonan oleh Datuk Bandar sesuatu Majlis Datuk Bandar Bandaraya, memberikuasa Datuk Bandar dan dan pegawai-pegawai atau orang-orang dalam pegawai Majlis perkhidmatan Majlis Bandaraya itu untuk Bandaraya. menjalankan kuasa-kuasa yang diberikan dan melaksanakan tugas-tugas yang dikenakan oleh Akta ini ke atas Dato Bandar atau warden lalulintas, mengikut mana-mana yang ber- kenaan.
+<!-- marginal: Pemberi- -->
+
+3A. (1) Menteri boleh, melalui perintah yang
+
+<!-- marginal: kuasaan -->
+
+disiarkan dalam Warta, apabila dibuat
+
+<!-- marginal: kepada -->
+
+permohonan oleh Datuk Bandar sesuatu Majlis
+
+<!-- marginal: Datuk -->
+
+<!-- marginal: Bandar -->
+
+Bandaraya, memberikuasa Datuk Bandar dan
+
+<!-- marginal: dan -->
+
+pegawai-pegawai atau orang-orang dalam
+
+<!-- marginal: pegawai -->
+
+<!-- marginal: Majlis -->
+
+perkhidmatan Majlis Bandaraya itu untuk
+
+<!-- marginal: Bandaraya. -->
+
+menjalankan kuasa-kuasa yang diberikan dan melaksanakan tugas-tugas yang dikenakan oleh Akta ini ke atas Dato Bandar atau warden lalulintas, mengikut mana-mana yang ber- kenaan.
 
 (2) Perintah yang dibuat di bawah subseksyen (1) boleh menghadkan kuasa-kuasa yang akan diberikan kepada dan tugas-tugas yang akan dilaksanakan oleh Datuk Bandar dan pegawai-pegawai atau orang-orang dalam perkhidmatan Majlis Bandaraya itu.
 
@@ -94,27 +122,31 @@ terletak,".
 
 <!-- page 4 -->
 
-Pindaan 6. Seksyen 12 Akta ibu adalah dipinda— seksyen 12.
+<!-- marginal: Pindaan -->
+
+6. Seksyen 12 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 12. -->
 
 (a) dalam subseksyen (2) dengan menggantikan perkataan-perkataan "memberitahu Pengarah" dengan perkataan-perkataan "memberitahu Pengarah sesuatu kawasan pendaftaran"; dan
 
 (b) dengan memasukkan selepas subseksyen (2) subseksyen yang berikut:
 
-"(2A) Pemunya berdaftar hendaklah, dalam hal pertukaran
-
-<!-- marginal: casis -->
+"(2A) Pemunya berdaftar hendaklah, dalam hal pertukaran casis
 
 <!-- marginal: sesuatu -->
 
-kenderaan motor, mendapatkan kelulusan terdahulu Ketua
-
-<!-- marginal: Pengarah -->
+kenderaan motor, mendapatkan kelulusan terdahulu Ketua Pengarah
 
 <!-- marginal: sebelum -->
 
 pertukaran itu.".
 
-Pindaan 7. Seksyen 13 Akta ibu adalah dipinda— seksyen 13.
+<!-- marginal: Pindaan -->
+
+7. Seksyen 13 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 13. -->
 
 (a) dalam perenggan (1}(a) dengan menggantikan perkataan-perkataan "yang dalam kawasan pendaftarannya kenderaan motor itu didaftar- kan" dengan perkataan-perkataan "sesuatu kawasan pendaftaran"; dan
 
@@ -124,9 +156,19 @@ Pindaan 7. Seksyen 13 Akta ibu adalah dipinda— seksyen 13.
 
 didaftarkan" dengan perkataan-perkataan "sesuatu kawasan pendaftaran".
 
-Pindaan 8. Subseksyen 14(4) Akta ibu adalah dipinda dengan seksyen 14 menggantikan perkataan "dua" dengan perkataan "tiga".
+<!-- marginal: Pindaan -->
 
-Pindaan 9. Seksyen 17 Akta ibu adalah dipinda— seksyen 17.
+8. Subseksyen 14(4) Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 14 -->
+
+menggantikan perkataan "dua" dengan perkataan "tiga".
+
+<!-- marginal: Pindaan -->
+
+9. Seksyen 17 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 17. -->
 
 (a) dalam subseksyen (1)—
 
@@ -136,11 +178,7 @@ Pindaan 9. Seksyen 17 Akta ibu adalah dipinda— seksyen 17.
 
 (ii) dengan memasukkan selepas perkataan- perkataan "Akta ini" dalam perenggan
 
-(d) perkataan-perkataan "atau Akta Lembaga Pelesenan
-
-<!-- marginal: Kenderaan -->
-
-Perdagangan 1987"; dan
+(d) perkataan-perkataan "atau Akta Lembaga Pelesenan Kenderaan Perdagangan 1987"; dan
 
 (b) dengan memasukkan selepas subseksyen ( I) subseksyen yang berikut: "(1A) Bagi maksud-maksud perenggan (e) subseksyen (1), suatu
 
@@ -182,19 +220,45 @@ menggantikan perkataan-perkataan "bagi kawasan pendaftaran di mana pemohon untuk
 
 <!-- page 6 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-14. Akta ibu adalah dipinda dengan menggantikan seksyen 36. seksyen 36 dengan seksyen yang berikut:
+14. Akta ibu adalah dipinda dengan menggantikan
 
-Kuasa 36. (1) Walau apa pun apa-apa jua yang untuk terkandung dalam Akta ini atau mana-mana meng- gantung undang-undang bertulis yang lain, Ketua lesen Pengarah boleh menggantung lesen memandu memandu penagih seseorang bagi suatu tempoh yang tidak kurang dadah. daripada dua tahun jika dia mempunyai sebab untuk mempercayai bahawa orang itu adalah penagih dadah.
+<!-- marginal: seksyen 36. -->
+
+seksyen 36 dengan seksyen yang berikut:
+
+<!-- marginal: Kuasa -->
+
+36. (1) Walau apa pun apa-apa jua yang
+
+<!-- marginal: untuk -->
+
+terkandung dalam Akta ini atau mana-mana
+
+<!-- marginal: meng- -->
+
+<!-- marginal: gantung -->
+
+undang-undang bertulis yang lain, Ketua
+
+<!-- marginal: lesen -->
+
+Pengarah boleh menggantung lesen memandu
+
+<!-- marginal: memandu -->
+
+<!-- marginal: penagih -->
+
+seseorang bagi suatu tempoh yang tidak kurang
+
+<!-- marginal: dadah. -->
+
+daripada dua tahun jika dia mempunyai sebab untuk mempercayai bahawa orang itu adalah penagih dadah.
 
 (2) Jika Ketua Pengarah mempunyai sebab untuk mempercayai bahawa seseorang yang lesennya pada bila-bila masa telah digantung di bawah subseksyen (1) masih menjadi atau tidak berhenti daripada menjadi penagih dadah pada bila-bila masa selepas tempoh peng- gantungannya itu, maka Ketua Pengarah hendaklah menghilangkan kelayakan orang itu untuk memegang atau mendapatkan lesen memandu.
 
-(3) Bagi maksud-maksud seksyen
-
-<!-- marginal: ini, -->
-
-seorang pegawai polis atau Pegawai Pemulihan hendaklah, apabila mana-mana orang yang disyaki menjadi penagih dadah ditangkap atau secara sukarela menyerah diri, menahan mana- mana lesen memandu yang dipunyai oleh orang itu sehingga orang itu diperakui sebagai penagih dadah.
+(3) Bagi maksud-maksud seksyen ini, seorang pegawai polis atau Pegawai Pemulihan hendaklah, apabila mana-mana orang yang disyaki menjadi penagih dadah ditangkap atau secara sukarela menyerah diri, menahan mana- mana lesen memandu yang dipunyai oleh orang itu sehingga orang itu diperakui sebagai penagih dadah.
 
 (4) Apabila seorang pengamal perubatan kerajaan memperakukan bahawa orang itu adalah penagih dadah, pegawai polis atau Pegawai Pemulihan itu hendaklah, dalam tempoh dua minggu selepas pemerakuan itu, memberitahu sedemikian dan menyerahkan lesen memandu itu kepada Ketua Pengarah yang hendaklah dengan serta merta mem- beritahu penagih dadah itu secara bertulis mengenai niat untuk menggantung atau menghilangkan kelayakan itu.
 
@@ -208,11 +272,11 @@ seorang pegawai polis atau Pegawai Pemulihan hendaklah, apabila mana-mana orang 
 
 (6) Jika seseorang memuaskan hati Ketua Pengarah bahawa dia bukan lagi seorang penagih dadah, Ketua Pengarah hendaklah menghapuskan penggantungan atau kehilangan kelayakan itu, mengikut mana-mana yang berkenaan, dan mengembalikan kepada orang itu mana-mana lesen memandu yang ditahan di bawah seksyen ini.
 
-(7) Dalam ini,
+(7) Dalam ini, "Pegawai Pemulihan" dan "penagih dadah" hendaklah mempunyai pengertian yang sama seperti
 
-<!-- marginal: "Pegawai -->
+<!-- marginal: Akta 283. -->
 
-Pemulihan" dan "penagih dadah" hendaklah mempunyai pengertian yang sama seperti Akta 283. dalam Akta Penagih Dadah (Rawatan dan Pemulihan) 1983.".
+dalam Akta Penagih Dadah (Rawatan dan Pemulihan) 1983.".
 
 <!-- marginal: Pindaan -->
 
@@ -238,11 +302,45 @@ memotong perkataan-perkataan "atau 36" di mana jua terdapat dalamnya.
 
 <!-- marginal: 45A-45G -->
 
-selepas seksyen 45 seksyen yang berikut: Memandu 45A. (1) Mana-mana orang yang, apabila atau memandu atau cuba memandu
+selepas seksyen 45 seksyen yang berikut:
 
-<!-- marginal: sesuatu -->
+<!-- marginal: Memandu -->
 
-menjaga kenderaan kenderaan motor atau apabila menjaga sesuatu motor kenderaan motor di sesuatu jalan atau tempat dengan awam lain, mempunyai sebegitu banyak kepekatan alkohol alkohol di dalam badannya sehingga kadar melebihi alkohol di dalam nafas, darah atau air had yang ditetapkan. kencingnya melebihi had yang ditetapkan,
+45A. (1) Mana-mana orang yang, apabila
+
+<!-- marginal: atau -->
+
+memandu atau cuba memandu sesuatu
+
+<!-- marginal: menjaga -->
+
+<!-- marginal: kenderaan -->
+
+kenderaan motor atau apabila menjaga sesuatu
+
+<!-- marginal: motor -->
+
+kenderaan motor di sesuatu jalan atau tempat
+
+<!-- marginal: dengan -->
+
+awam lain, mempunyai sebegitu banyak
+
+<!-- marginal: kepekatan -->
+
+<!-- marginal: alkohol -->
+
+alkohol di dalam badannya sehingga kadar
+
+<!-- marginal: melebihi -->
+
+alkohol di dalam nafas, darah atau air
+
+<!-- marginal: had yang -->
+
+<!-- marginal: ditetapkan. -->
+
+kencingnya melebihi had yang ditetapkan,
 
 <!-- page 8 -->
 
@@ -252,7 +350,13 @@ adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak mele
 
 (3) Apabila disabitkan bagi kali kedua atau kali kemudian bagi sesuatu kesalahan di bawah seksyen ini, pesalah itu hendaklah, melainkan jika mahkamah kerana sebab-sebab khas memikirkan patut diperintah selainnya dan tanpa menjejaskan kuasa mahkamah untuk memerintahkan tempoh kehilangan kelayakan yang lebih panjang, dihilangkan kelayakan bagi tempoh yang tidak kurang daripada dua belas bulan dari tarikh sabitan itu daripada memegang atau mendapatkan lesen memandu.
 
-Ujian 45e. (1) Jika seseorang pegawai polis yang nafas. berpakaian seragam mempunyai sebab yang munasabah untuk mengesyaki—
+<!-- marginal: Ujian -->
+
+45e. (1) Jika seseorang pegawai polis yang
+
+<!-- marginal: nafas. -->
+
+berpakaian seragam mempunyai sebab yang munasabah untuk mengesyaki—
 
 (a) bahawa seseorang telah melakukan sesuatu kesalahan di bawah seksyen 44 atau 45 melibatkan minuman yang memabukkan atau di bawah seksyen 45A; atau
 
@@ -260,7 +364,9 @@ Ujian 45e. (1) Jika seseorang pegawai polis yang nafas. berpakaian seragam mempu
 
 <!-- page 9 -->
 
-PENGANGKUTAN JALAN (pINDAAN) 9
+PENGANGKUTAN JALAN (pINDAAN)
+
+<!-- marginal: 9 -->
 
 kemalangan yang melibatkan satu kenderaan atau lebih di sesuatu jalan awam atau tempat awam lain,
 
@@ -284,7 +390,19 @@ seksyen ini dan pegawai polis itu mempunyai sebab yang munasabah untuk mengesyak
 
 tetapi seseorang tidak boleh ditangkap menurut kuasa subseksyen ini apabila dia berada di hospital sebagai seorang pesakit.
 
-Pengadaan 45c. (1) Dalam menjalankan penyiasatan spesimen sama ada seseorang telah melakukan kesalahan bagi analisis. di bawah seksyen 44 atau 45 melibatkan minuman yang memabukkan atau di bawah seksyen 45A, seseorang pegawai polis boleh, tertakluk kepada seksyen ini dan seksyen 45D, menghendakinya—
+<!-- marginal: Pengadaan -->
+
+45c. (1) Dalam menjalankan penyiasatan
+
+<!-- marginal: spesimen -->
+
+sama ada seseorang telah melakukan kesalahan
+
+<!-- marginal: bagi -->
+
+<!-- marginal: analisis. -->
+
+di bawah seksyen 44 atau 45 melibatkan minuman yang memabukkan atau di bawah seksyen 45A, seseorang pegawai polis boleh, tertakluk kepada seksyen ini dan seksyen 45D, menghendakinya—
 
 (a) supaya mengadakan dua spesimen nafas bagi analisis melalui alat penganalisis nafas yang ditetapkan; atau
 
@@ -294,11 +412,7 @@ walaupun dia telah dikehendaki supaya mengadakan spesimen nafas bagi ujian nafas
 
 (2) Kehendak supaya mengadakan spesimen nafas di bawah seksyen ini hanya boleh dibuat di suatu balai polis.
 
-(3) Ujian nafas di bawah seksyen
-
-<!-- marginal: ini -->
-
-hanya boleh dilakukan oleh seorang pegawai polis yang berpangkat tidak rendah daripada sarjan atau oleh seorang pegawai yang ber- tanggungjawab bagi sesuatu balai polis dan hanya boleh dilakukan di suatu balai polis.
+(3) Ujian nafas di bawah seksyen ini hanya boleh dilakukan oleh seorang pegawai polis yang berpangkat tidak rendah daripada sarjan atau oleh seorang pegawai yang ber- tanggungjawab bagi sesuatu balai polis dan hanya boleh dilakukan di suatu balai polis.
 
 (4) Kehendak di bawah seksyen ini supaya mengadakan suatu spesimen darah atau air kencing hanya boleh dibuat di balai polis atau
 
@@ -306,7 +420,7 @@ hanya boleh dilakukan oleh seorang pegawai polis yang berpangkat tidak rendah da
 
 ## PENGANGKUTAN JALAN (PINDAAN)
 
-<!-- marginal: 1 1 -->
+1 1
 
 di hospital, tetapi ia tidak boleh dibuat di suatu balai polis melainkan jika—
 
@@ -320,7 +434,19 @@ dan boleh dibuat walaupun orang yang dikehendaki mengadakan spesimen itu telah m
 
 (6) Seseorang yang, tanpa alasan yang munasabah, gagal mengadakan spesimen apabila dikehendaki berbuat demikian menurut seksyen ini adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak meiebihi dua ribu ringgit atau dipenjarakan selama tempoh tidak meiebihi enam bulan atau kedua-duanya.
 
-Perlin- 45o. (1) Seseorang yang berada di hospital dungan sebagai pesakit tidak boleh dikehendaki supaya pesakit hospital. mengadakan suatu spesimen bagi ujian nafas atau mengadakan suatu spesimen bagi ujian makmal melainkan jika pengamal perubatan yang bertanggungjawab secara langsung bagi kesnya membenarkannya dan spesimen itu dikehendaki diadakan di hospital itu.
+<!-- marginal: Perlin- -->
+
+45o. (1) Seseorang yang berada di hospital
+
+<!-- marginal: dungan -->
+
+sebagai pesakit tidak boleh dikehendaki supaya
+
+<!-- marginal: pesakit -->
+
+<!-- marginal: hospital. -->
+
+mengadakan suatu spesimen bagi ujian nafas atau mengadakan suatu spesimen bagi ujian makmal melainkan jika pengamal perubatan yang bertanggungjawab secara langsung bagi kesnya membenarkannya dan spesimen itu dikehendaki diadakan di hospital itu.
 
 <!-- page 12 -->
 
@@ -328,15 +454,61 @@ Perlin- 45o. (1) Seseorang yang berada di hospital dungan sebagai pesakit tidak 
 
 ' (2) Pengamal perubatan yang disebut dalam subseksyen (1) tidak boleh membenarkan spesimen diambil jika ia akan memudaratkan penjagaan dan perawatan sempurna pesaklt itu.
 
-Penahanan. 45E. (1) Seseorang yang dikehendaki mengadakan spesimen nafas, darah atau air kencing boleh selepas itu ditahan di balai polis sehingga ternyata kepada seorang pegawai polis bahawa jika orang itu memandu atau cuba memandu kenderaan motor di jalan pada masa itu dia tidak akan melakukan kesalahan di bawah seksyen 44 atau 45 melibatkan minuman yang memabukkan atau di bawah seksyen 45A, tetapi tempoh penahanan itu tidak boleh melebihi dua puluh empat jam.
+<!-- marginal: Penahanan. -->
+
+45E. (1) Seseorang yang dikehendaki mengadakan spesimen nafas, darah atau air kencing boleh selepas itu ditahan di balai polis sehingga ternyata kepada seorang pegawai polis bahawa jika orang itu memandu atau cuba memandu kenderaan motor di jalan pada masa itu dia tidak akan melakukan kesalahan di bawah seksyen 44 atau 45 melibatkan minuman yang memabukkan atau di bawah seksyen 45A, tetapi tempoh penahanan itu tidak boleh melebihi dua puluh empat jam.
 
 (2) Seseorang tidak boleh ditahan menurut seksyen ini jika ternyata kepada seorang pegawai polis bahawa oleh sebab keadaannya tidak mungkin dia boleh memandu atau cuba memandu kenderaan motor.
 
-Keterangan 45F. (1) Dalam presiding bagi
+<!-- marginal: Keterangan -->
 
-<!-- marginal: suatu -->
+45F. (1) Dalam presiding bagi suatu
 
-dalam kesalahan di bawah seksyen 44 atau 45 prosiding bagi meiibatkan minuman yang memabukkan atau kesalahan presiding bagi suatu kesalahan di bawah di bawah seksyen 45A, keterangan mengenai kadar seksyen 44 atau 45 alkohol di dalam suatu spesimen nafas, darah melibatkan atau air kencing yang diadakan oleh tertuduh minuman yang hendaklah diambil kira dan hendaklah memabuk- diandaikan bahawa kadar alkohol di dalam kan dan nafas, darah atau air kencing tertuduh pada 45A. masa kesalahan dikatakan itu tidak kurang daripada yang di dalam spesimen itu; tetapi andaian itu tidak boleh dibuat jika tertuduh membuktikan—
+<!-- marginal: dalam -->
+
+kesalahan di bawah seksyen 44 atau 45
+
+<!-- marginal: prosiding -->
+
+<!-- marginal: bagi -->
+
+meiibatkan minuman yang memabukkan atau
+
+<!-- marginal: kesalahan -->
+
+presiding bagi suatu kesalahan di bawah
+
+<!-- marginal: di bawah -->
+
+seksyen 45A, keterangan mengenai kadar
+
+<!-- marginal: seksyen 44 -->
+
+<!-- marginal: atau 45 -->
+
+alkohol di dalam suatu spesimen nafas, darah
+
+<!-- marginal: melibatkan -->
+
+atau air kencing yang diadakan oleh tertuduh
+
+<!-- marginal: minuman -->
+
+<!-- marginal: yang -->
+
+hendaklah diambil kira dan hendaklah
+
+<!-- marginal: memabuk- -->
+
+diandaikan bahawa kadar alkohol di dalam
+
+<!-- marginal: kan dan -->
+
+<!-- marginal: seksyen -->
+
+nafas, darah atau air kencing tertuduh pada
+
+45A. masa kesalahan dikatakan itu tidak kurang daripada yang di dalam spesimen itu; tetapi andaian itu tidak boleh dibuat jika tertuduh membuktikan—
 
 (a) bahawa dia mengambil alkohol setelah dia berhenti memandu, cuba memandu atau menjaga sesuatu kenderaan motor di jalan atau tempat awam lain dan sebelum dia mengadakan spesimen itu; dan
 
@@ -344,11 +516,13 @@ dalam kesalahan di bawah seksyen 44 atau 45 prosiding bagi meiibatkan minuman ya
 
 ## PENGANGKUTAN JALAN (P1NDAAN)
 
-<!-- marginal: 13 -->
+13
 
 (b) bahawa jika dia tidak berbuat demikian, kadar alkohol di dalam nafas, darah atau air kencingnya tidak akan melebihi had yang ditetapkan dan, jika presiding itu adalah bagi kesalahan di bawah sek- syen 44 atau 45 melibatkan minuman yang memabukkan, kadar alkohol itu tidaklah sebegitu banyak sehingga menjadikannya tak daya untuk me- ngawal kenderaan dengan sepatutnya.
 
-(2) Keterangan mengenai kadar alkohol di dalam suatu spesimen nafas, darah atau air kencing boleh, tertakluk kepada subseksyen (4) dan (5), diberikan dengan mengemukakan dokumen atau dokumen-dokumen yang berupa sebagai sama ada—
+(2) Keterangan mengenai kadar alkohol di dalam suatu spesimen nafas, darah atau air kencing boleh, tertakluk kepada subseksyen
+
+(4) dan (5), diberikan dengan mengemukakan dokumen atau dokumen-dokumen yang berupa sebagai sama ada—
 
 (a) suatu pernyataan yang dikeluarkan secara automatik oleh suatu alat penganalisis nafas yang ditetapkan dan suatu perakuan yang ditandatangani oleh seorang pegawai polis (yang boleh tetapi tidak semestinya terkandung dalam dokumen yang sama dengan pernyataan itu) bahawa pernyataan itu adalah berhubungan dengan suatu spesimen yang diadakan oleh tertuduh pada tarikh dan masa yang ditunjukkan dalam pernyataan itu; atau
 
@@ -360,11 +534,7 @@ dalam kesalahan di bawah seksyen 44 atau 45 prosiding bagi meiibatkan minuman ya
 
 mengemukakan suatu dokumen yang berupa sebagai memperakui fakta itu dan ditanda- tangani oleh seorang pengamal perubatan kerajaan.
 
-(4) Suatu dokumen yang berupa sebagai pernyataan atau perakuan sedemikian, atau kedua-duanya, sebagaimana yang disebut dalam subseksyen (2) boleh diterima dalam keterangan bagi pihak pendakwa menurut seksyen ini hanya jika suatu salinannya sama ada telah diserahkan kepada tertuduh apabila dokumen itu dikemukakan atau telah di- sampaikan kepadanya tidak lewat daripada tujuh hari sebelum pendengaran itu, dan mana- mana dokumen lain boleh diterima sedemikian hanya jika suatu salinannya telah disampaikan kepada tertuduh tidak lewat daripada tujuh hari sebelum pendengaran itu; tetapi suatu dokumen yang berupa sebagai
-
-<!-- marginal: sesuatu -->
-
-perakuan (atau sekian banyak daripada suatu dokumen yang berupa sebagai suatu perakuan) tidaklah boleh diterima sedemikian jika tertuduh, tidak lewat daripada tiga hari sebelum pendengaran itu atau dalam apa-apa masa selanjutnya yang dibenarkan oleh mahkamah dalam hal keadaan khas, telah menyampaikan notis kepada pihak pendakwa menghendaki orang yang olehnya dokumen itu berupa sebagai ditandatangani supaya hadir di pendengaran itu.
+(4) Suatu dokumen yang berupa sebagai pernyataan atau perakuan sedemikian, atau kedua-duanya, sebagaimana yang disebut dalam subseksyen (2) boleh diterima dalam keterangan bagi pihak pendakwa menurut seksyen ini hanya jika suatu salinannya sama ada telah diserahkan kepada tertuduh apabila dokumen itu dikemukakan atau telah di- sampaikan kepadanya tidak lewat daripada tujuh hari sebelum pendengaran itu, dan mana- mana dokumen lain boleh diterima sedemikian hanya jika suatu salinannya telah disampaikan kepada tertuduh tidak lewat daripada tujuh hari sebelum pendengaran itu; tetapi suatu dokumen yang berupa sebagai sesuatu perakuan (atau sekian banyak daripada suatu dokumen yang berupa sebagai suatu perakuan) tidaklah boleh diterima sedemikian jika tertuduh, tidak lewat daripada tiga hari sebelum pendengaran itu atau dalam apa-apa masa selanjutnya yang dibenarkan oleh mahkamah dalam hal keadaan khas, telah menyampaikan notis kepada pihak pendakwa menghendaki orang yang olehnya dokumen itu berupa sebagai ditandatangani supaya hadir di pendengaran itu.
 
 (5) Jika, pada masa suatu spesimen darah atau air kencing dikehendaki diadakan oleh tertuduh, dia telah meminta supaya diberikan spesimen itu, maka keterangan mengenai kadar alkohol di dalam spesimen itu tidak boleh diterima bagi pihak pendakwa melainkan jika—
 
@@ -376,7 +546,15 @@ perakuan (atau sekian banyak daripada suatu dokumen yang berupa sebagai suatu pe
 
 (6) Suatu salinan perakuan yang di- kehendaki oleh seksyen ini supaya disampai- kan kepada tertuduh atau notis yang dikehendaki oleh seksyen ini supaya disampai- kan kepada pihak pendakwa bolehlah dihantar sendiri atau dihantar melalui pos berdaftar.
 
-Tafsiran 45o. (1) Bagi maksud-maksud seksyen 45B hingga 45E— 45E hingga
+<!-- marginal: Tafsiran -->
+
+45o. (1) Bagi maksud-maksud seksyen 45B
+
+<!-- marginal: seksyen -->
+
+hingga 45E—
+
+<!-- marginal: 45E hingga -->
 
 45F. "balai polis" termasuklah mana-mana tempat atau pengangkutan yang dibenarkan atau ditetapkan oleh Ketua Polis Negara untuk digunakan sebagai balai polis;
 
@@ -398,31 +576,47 @@ Tafsiran 45o. (1) Bagi maksud-maksud seksyen 45B hingga 45E— 45E hingga
 
 (3) Seseorang mengadakan suatu spesimen darah jika dan hanya jika dia bersetuju spesimen itu diambil oleh seorang pengamal perubatan kerajaan dan ia diambil se- demikian.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-18. Seksyen 48 Akta ibu adalah dipinda dengan seksyen 48. menggantikan perkataan-perkataan "Jika mana-mana orang yang menjaga" dengan perkataan-perkataan "Jika mana-mana pemandu".
+18. Seksyen 48 Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 48. -->
 
-19. Subseksyen 50(3) Akta ibu adalah dipinda— seksyen 50.
+menggantikan perkataan-perkataan "Jika mana-mana orang yang menjaga" dengan perkataan-perkataan "Jika mana-mana pemandu".
+
+<!-- marginal: Pindaan -->
+
+19. Subseksyen 50(3) Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 50. -->
 
 (a) dengan menggantikan perkataan-perkataan "berada di mana-mana tempat letak kereta" dengan perkataan-perkataan ", melainkan dengan kuasa yang sah, berada di atas mana- mana jalan atau di mana-mana tempat letak kereta"; dan
 
 (b) dengan menggantikan perkataan-perkataan "di tempat tersebut" dengan perkataan-perkataan "di atas jalan atau di tempat itu".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-20. Subseksyen 53(1) Akta ibu adalah dipinda dengan seksyen 53. memasukkan selepas perkataan-perkataan "Jika seseorang pegawai polis" perkataan-perkataan ", warden lalulintas".
+20. Subseksyen 53(1) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 53. -->
 
-21. Subseksyen 58(2) Akta ibu adalah dipinda dengan seksyen 58. memotong perkataan-perkataan "yang mempunyai sebab bagi mempercayai bahawa dia telah melakukan suatu kesalahan di bawah Akta ini".
+memasukkan selepas perkataan-perkataan "Jika seseorang pegawai polis" perkataan-perkataan ", warden lalulintas".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-### 22.
+21. Subseksyen 58(2) Akta ibu adalah dipinda dengan
 
-Subseksyen 65(4) Akta ibu adalah dipinda dalam seksyen 65. teks bahasa kebangsaan sahaja dengan memasukkan selepas perkataan-perkataan "kepada Dato Bandar jika" perkataan-perkataan "yang menyebabkan 'kenderaan motor itu dialih adalah".
+<!-- marginal: seksyen 58. -->
+
+memotong perkataan-perkataan "yang mempunyai sebab bagi mempercayai bahawa dia telah melakukan suatu kesalahan di bawah Akta ini".
+
+<!-- marginal: Pindaan -->
+
+22. Subseksyen 65(4) Akta ibu adalah dipinda dalam
+
+<!-- marginal: seksyen 65. -->
+
+teks bahasa kebangsaan sahaja dengan memasukkan selepas perkataan-perkataan "kepada Dato Bandar jika" perkataan-perkataan "yang menyebabkan 'kenderaan motor itu dialih adalah".
 
 <!-- page 17 -->
 
@@ -450,19 +644,23 @@ Subseksyen 65(4) Akta ibu adalah dipinda dalam seksyen 65. teks bahasa kebangsaa
 
 kelengkapan lain yang hendak di- gunakan, cara penggunaannya dan fee yang akan dikenakan berkenaan dengan penahanan sesuatu kenderaan motor berbangkit daripada peng- gunaan pengapit roda.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-24. Seksyen 69 Akta ibu adalah dipinda dengan seksyen 69. memasukkan selepas subseksyen (1) subseksyen yang berikut:
+24. Seksyen 69 Akta ibu adalah dipinda dengan
 
-"(1A) Mana-mana orang yang gagal mematuhi had laju kebangsaan yang ditetapkan di bawah subseksyen (1) adalah melakukan
+<!-- marginal: seksyen 69. -->
 
-<!-- marginal: suatu -->
+memasukkan selepas subseksyen (1) subseksyen yang
 
-kesalahan.".
+<!-- marginal: berikut: -->
 
-Pindaan
+"(1A) Mana-mana orang yang gagal mematuhi had laju kebangsaan yang ditetapkan di bawah subseksyen (1) adalah melakukan suatu kesalahan.".
 
-25. Seksyen 70 Akta ibu adalah dipinda— seksyen 70.
+<!-- marginal: Pindaan -->
+
+25. Seksyen 70 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 70. -->
 
 (a) dalam subseksyen (1) dengan memotong perkataan-perkataan ", tertakluk kepada apa- apa pengecualian dan syarat mengenai pengguna sekali-sekala atau selainnya sebagaimana yang dinyatakan dalam perintah itu,"; dan
 
@@ -470,21 +668,39 @@ Pindaan
 
 "(1A) Sesuatu perintah yang dibuat di bawah subseksyen (1) boleh memperuntuk- kan bahawa jenis atau kategori tertentu kenderaan motor yang dikenalpasti dalam perintah itu boleh dikecualikan daripada mematuhi perintah itu oleh mana-mana orang yang dinyatakan dalamnya.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-26. Akta ibu adalah dipinda dengan menggantikan seksyen 71. seksyen 71 dengan seksyen yang berikut:
+26. Akta ibu adalah dipinda dengan menggantikan
 
-"Kuasa 71. ( I) Tanpa menjejaskan seksyen 70, untuk mana-mana pihak berkuasa yang berkenaan menghad- kan yang diluluskan oleh Menteri boleh, melalui kenderaan. perintah yang disiarkan dalam Warta, melarang atau menghadkan pemanduan atau
+<!-- marginal: seksyen 71. -->
+
+seksyen 71 dengan seksyen yang berikut:
+
+<!-- marginal: "Kuasa -->
+
+71. ( I) Tanpa menjejaskan seksyen 70,
+
+<!-- marginal: untuk -->
+
+mana-mana pihak berkuasa yang berkenaan
+
+<!-- marginal: menghad- -->
+
+<!-- marginal: kan -->
+
+yang diluluskan oleh Menteri boleh, melalui
+
+<!-- marginal: kenderaan. -->
+
+perintah yang disiarkan dalam Warta, melarang atau menghadkan pemanduan atau
 
 <!-- page 19 -->
 
 penggunaan mana-mana kelas atau perihalan kenderaan atau kenderaan dengan sekian bilangan penumpang yang ditentukan di sepanjang mana-mana jalan atau di sepanjang jalan-jalan di dalam kawasan pihak berkuasa itu.
 
-(2) Larangan atau had di bawah subseksyen (1) bolehlah tertakluk kepada pembayaran fee dan dalam hal sedemikian perintah
+(2) Larangan atau had di bawah subseksyen
 
-<!-- marginal: itu -->
-
-hendaklah menyatakan fee yang kena dibayar dan cara pemungutannya.".
+(1) bolehlah tertakluk kepada pembayaran fee dan dalam hal sedemikian perintah itu hendaklah menyatakan fee yang kena dibayar dan cara pemungutannya.".
 
 27. Seksyen 72 Akta ibu adalah dipinda—
 
@@ -508,7 +724,19 @@ hendaklah menyatakan fee yang kena dibayar dan cara pemungutannya.".
 
 selepas seksyen 85 seksyen yang berikut:
 
-Pembinaan 85A. (1) Menteri yang dipertanggungkan struktur dengan tanggungjawab bagi kerj'a raya (dalam bagi iklan, dsb. seksyen ini disebut "Menteri" kemudian daripada ini) berhubungan dengan mana-mana
+<!-- marginal: Pembinaan -->
+
+85A. (1) Menteri yang dipertanggungkan
+
+<!-- marginal: struktur -->
+
+dengan tanggungjawab bagi kerj'a raya (dalam
+
+<!-- marginal: bagi iklan, -->
+
+<!-- marginal: dsb. -->
+
+seksyen ini disebut "Menteri" kemudian daripada ini) berhubungan dengan mana-mana
 
 <!-- page 20 -->
 
@@ -518,9 +746,13 @@ jalan rizab yang bersempadanan dengan jalan Persekutuan atau pihak berkuasa yang
 
 (3) Menteri atau pihak berkuasa yang berkenaan, mengikut mana-mana yang berkenaan, boleh membuat kaedah-kaedah untuk mengawalselia dan mengawal pem- binaan struktur itu.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-29. Subperenggan 90(5)(a)(iii) Akta ibu adalah dipinda seksyen 90. dengan memasukkan selepas perkataan^perkataan "kerajaan tempatan" perkataan-perkataan "kecuali bagi kenderaan perkhidmatan awam, selain daripada suatu kenderaan pekerja".
+29. Subperenggan 90(5)(a)(iii) Akta ibu adalah dipinda
+
+<!-- marginal: seksyen 90. -->
+
+dengan memasukkan selepas perkataan^perkataan "kerajaan tempatan" perkataan-perkataan "kecuali bagi kenderaan perkhidmatan awam, selain daripada suatu kenderaan pekerja".
 
 <!-- page 21 -->
 
@@ -574,13 +806,33 @@ perkataan "tepat"; dan
 
 <!-- page 22 -->
 
-Pindaan 33. Seksyen 118 Akta ibu adalah dipinda dengan seksyen 118. menggantikan subseksyen (4) dengan subseksyen yang berikut:
+<!-- marginal: Pindaan -->
+
+33. Seksyen 118 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 118. -->
+
+menggantikan subseksyen (4) dengan subseksyen yang berikut:
 
 "(4) Tiap-tiap notis yang hendak diberikan di bawah Akta ini oleh Ketua Pengarah, Pengarah, pegawai pengangkutan jalan atau pegawai polls hendaklah ditandatangani oleh Ketua Pengarah, Pengarah, pegawai pengangkutan jalan atau pegawai polis, mengikut mana-mana yang berkenaan, atau oleh orang atau orang-orang yang dari semasa ke semasa diberikuasa bagi maksud itu oleh Ketua Pengarah, Pengarah, pegawai pengangkutan jalan atau pegawai polis dan tiap-tiap notis itu adalah sah jika tandatangan Ketua Pengarah, Pengarah, pegawai pengangkutan jalan atau pegawai polis atau orang yang disebut terdahulu itu, dicetak atau ditulis di atasnya:
 
 Dengan syarat bahawa apa-apa notis bertulis di bawah Akta ini kepada mana-mana orang supaya memberikan butir-butir kepada Ketua Pengarah, atau apa-apa notis di bawah Akta i ni yang menghendaki kehadiran mana-mana orang atau saksi di hadapan Ketua Pengarah, hendaklah ditandatangani oleh Ketua Pengarah atau oleh mana-mana orang yang diberikuasa olehnya sepertt disebut terdahulu.".
 
-Pindaan 34. Perenggan 120(l)(a) Akta ibu adalah dipinda seksyen 120. dengan memasukkan selepas perkataan-perkataan "Ketua Pegawai Polis" perkataan-perkataan ", Pesuruhjaya Polis". 35. Akta ibu adalah dipinda dengan memasukkan baru 124A selepas seksyen 124 seksyen yang berikut:
+<!-- marginal: Pindaan -->
+
+34. Perenggan 120(l)(a) Akta ibu adalah dipinda
+
+<!-- marginal: seksyen 120. -->
+
+dengan memasukkan selepas perkataan-perkataan "Ketua Pegawai Polis" perkataan-perkataan ", Pesuruhjaya Polis".
+
+<!-- marginal: Seksyen -->
+
+35. Akta ibu adalah dipinda dengan memasukkan
+
+<!-- marginal: baru 124A -->
+
+selepas seksyen 124 seksyen yang berikut:
 
 Pensytiharan 124A. Menteri boleh mengisytiharkan mana- badan mana badan sebagai badan awam bagi maksud awam. Akta ini.".
 
@@ -682,11 +934,7 @@ penjagaan atau penyucian sesuatu kenderaan motor atau bagi maksud mengarahkan ma
 
 28. Fasal 35 bertujuan memberi Menteri kuasa untuk mengisytiharkan mana-mana badan sebagai badan awam bagi maksud-maksud Akta.
 
-.29. Fasal 36 bertujuan meminda
-
-<!-- marginal: 128 untuk -->
-
-mencerminkan secara betul niat bahawa hanya peruntukan- peruntukan yang tidak berhubungan dengan pelesenan kenderaan perdagangan sahaja yang sepatutnya dimansuhkan di bawah Akta. Berikutan dengan itu seksyen 57 Akta Lembaga Pelesenan Kenderaan Perdagangan 1987 dipinda untuk menjelaskan bahawa hanya peruntukan yang berhubungan dengan pelesenan kenderaan perdagangan sahaja dimansuhkan oleh Akta itu dan bahawa perundangan subsidiari berkenaan dengan pelesenan kenderaan perdagangan dikekalkan di bawah Akta itu.
+.29. Fasal 36 bertujuan meminda 128 untuk mencerminkan secara betul niat bahawa hanya peruntukan- peruntukan yang tidak berhubungan dengan pelesenan kenderaan perdagangan sahaja yang sepatutnya dimansuhkan di bawah Akta. Berikutan dengan itu seksyen 57 Akta Lembaga Pelesenan Kenderaan Perdagangan 1987 dipinda untuk menjelaskan bahawa hanya peruntukan yang berhubungan dengan pelesenan kenderaan perdagangan sahaja dimansuhkan oleh Akta itu dan bahawa perundangan subsidiari berkenaan dengan pelesenan kenderaan perdagangan dikekalkan di bawah Akta itu.
 
 30. Fasal 37 bertujuan menjadikan pindaan dalam fasal 36 sebagai bahagian integral Akta itu masing-masing dari tarikh mula berkuatkuasanya Akta-Akta itu dan untuk mengesahkan apa-apa tindakan atau presiding semasa tempoh antara tarikh mula berkuatkuasanya Akta-Akta itu dan mula berkuatkuasanya Akta ini.
 

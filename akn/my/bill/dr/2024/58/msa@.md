@@ -32,13 +32,19 @@ berhubungan dengannya butiran dan butir-butir yang berikut:
 
 <!-- page 2 -->
 
-Penal Offence Whether Whether a Whether Whether
+<!-- marginal: Penal -->
+
+Offence Whether Whether a Whether Whether
 
 <!-- marginal: Maximum -->
 
-Code the police warrant or bailable compoundable
+<!-- marginal: Code -->
+
+the police warrant or bailable compoundable
 
 <!-- marginal: punishment -->
+
+<!-- marginal: section -->
 
 may a summons or not or not
 
@@ -50,9 +56,9 @@ ordinarily shall
 
 arrest ordinarily without issue in warrant the first or not instance
 
-“507b Causing do. do. do.
+<!-- marginal: “507b -->
 
-<!-- marginal: do. -->
+Causing do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -70,9 +76,9 @@ fear or
 
 alarm
 
-507c Causing do. do. do.
+<!-- marginal: 507c -->
 
-<!-- marginal: do. -->
+Causing do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -90,9 +96,7 @@ fear or
 
 alarm to a person likely to feel harassed, distressed, fear or alarmed
 
-507d(1) Causing do. do. do.
-
-<!-- marginal: do. -->
+507d(1) Causing do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -110,9 +114,7 @@ that harm
 
 will be caused
 
-507d(2) To provoke do. do. do.
-
-<!-- marginal: do. -->
+507d(2) To provoke do. do. do. do.
 
 <!-- marginal: Imprisonment -->
 
@@ -126,9 +128,9 @@ cause harm
 
 <!-- marginal: both -->
 
-507d(2) If the do. do. Not
+<!-- marginal: 507d(2) -->
 
-<!-- marginal: do. -->
+If the do. do. Not do.
 
 <!-- marginal: Imprisonment -->
 
@@ -146,9 +148,9 @@ to commit
 
 suicide or commits suicide
 
-507e Publishing, do. do. Bailable
+<!-- marginal: 507e -->
 
-<!-- marginal: do. -->
+Publishing, do. do. Bailable do.
 
 <!-- marginal: Imprisonment -->
 

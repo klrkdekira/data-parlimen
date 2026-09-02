@@ -1,0 +1,1444 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-33-2002",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Finance (No. 2) Bill 2002"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_I",
+      "@type": "akn:chapter",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY Short title"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II",
+      "@type": "akn:chapter",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "AMENDMENTS TO THE INCOME TAX ACT 1967 Commencement of amendments to the Income Tax Act 1967"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_III",
+      "@type": "akn:chapter",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_III__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_III__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_III__cl_32"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "AMENDMENTS TO THE INCOME TAX (AMENDMENT) ACT 2002 Commencement of amendments to the Income Tax (Amendment) Act 2002"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_III__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Sections 31 and 32 shall have effect only for the year of assessment 2003. Amendment of section 30"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_III__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Income Tax (Amendment) Act 2002, which is referred to as the \"principal Act\" in this Chapter, is amended in paragraph 30(3)(d) by substituting for the words \"paragraph 46(l)(a)or section 47 or 48\" the words \"section 45A, 47, 48, paragraph 46(l)(a) or 46(l)(e)' wherever it appears. Amendment of section 31"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_III__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 31 of the principal Act is amended in subsection (2) by inserting after the words \"30(3)(d) of this Act\" the words \"which does not exceed thirty-five thousand ringgit\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 37. Amendment of section 38"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_11__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_11__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 38 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subparagraph (l)(b)(ii) the following subparagraph: \"(ii) any expenses incurred for the repair or maintenance of the premises (excluding expenses of a capital nature and expenses incurred in connection with the upkeep of land attached to the premises for use by way of amenity as garden or grounds) which the employee, pursuant to the terms on which that accommodation is so provided, is legally bound to meet in respect of that accommodation during that period;\""
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4) by substituting for the words \"paragraph 37(3)(b)\" the words \"subsection (6)\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_11__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (5) the following subsection: \"(6) In the application of subsection (4) in relation to a person's gross income from his employment where the expense, to which subparagraph (l)(b)(ii) applies is payable for a period (in this subsection referred to as the \"overlapping period\") which overlaps the basis 6 Bill period or part of the basis period, the amount of the expense to be deducted from that gross income shall be determined in accordance with the following formula: AxC B where A is the number of days accommodation is provided in the basis period or part of the basis period that falls in the overlapping period; B is the total number of days in the overlapping period; and C is the amount of expenses to which subparagraph (l)(b)(ii) applies.\". Amendment of section 60c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 60c of the principal Act is amended by inserting after the word \"derived\" the words \"excluding the gross income, adjusted income or adjusted loss and statutory income attributable to an offshore business activity of a licensed Malaysian offshore bank\". Deletion of section 60E"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 60E. Amendment of section 75"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_14__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 75 of the principal Act is amended in sub- section (1) —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"Notwithstanding anything to the contrary to this Act or any other written law, the\" the word \"The\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"including the payment of tax\". New section 75 A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 75 the following section: \"Director's liability 75A. (1) Notwithstanding anything to the contrary to this Act or any other written law, where any tax is due and payable under this Act by a company, any person who is a director of that company during the period in which that tax is liable to be paid, shall be jointly and severally liable for such tax that is due and payable and shall be recoverable under section 106 from that person. (2) In this section, \"director\" means any person who — (a) is occupying the position of director (by whatever name called), including any person who is concerned in the management of the company's business; and (b) is, either on his own or with one or more associates within the meaning of subsection 139(7), the owner of, or able directly or through the medium of other companies or by any other indirect means to control, more than fifty per cent of the ordinary share capital of the company (\"ordinary share capital\" here having the same meaning as in the definition of \"director\" in section 2).\". Amendment of section 82"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 82 of the principal Act is amended in subsection (1), by substituting for the word \"Subject\" the words \"Notwithstanding section 82A and subject\". New section 82A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 82 the following section: \"Duty to keep documents for ascertaining chargeable income and tax payable 82A. (1) Subject to this section, every person who is required to furnish a return of his income for a year of assessment under 8 Bill this Act shall keep and retain in safe custody sufficient documents for a period of seven years from the end of that year of assessment for the purposes of ascertaining his chargeable income and tax payable. (2) Where a person referred to in subsection (1) has not furnished a return as required under this Act for a year of assessment, that person shall keep and retain the documents referred to in subsection (1) that relate to that year of assessment for a period of seven years after the end of the year in which the return is furnished. (3) The Director General may waive all or any of the provisions of subsection (1) in respect of any income or deductions. (4) Any person who is required by this section to keep documents and— (a) does so electronically shall retain them in an electronically readable form and shall keep the documents in such a manner as to enable the documents to be readily accessible and convertible into writing; or (b) has originally kept documents in a manual form and subsequently converts those documents into an electronic form shall retain those documents prior to the conversion in their original form. (5) All documents that relate to any income in Malaysia shall be kept and retained in Malaysia. (6) For the purposes of this section, \"documents\" means—. (a) statement of income and expenditure; and (b) invoices, vouchers, receipts and such other documents as are necessary to verify the particulars in a return.\". Amendment of section 107A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_18__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 107A of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (l)(a), by substituting for the word \"fifteen\" the word \"ten\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (1)(b), by substituting for the word \"five\" the word \"three\". Amendment of section 108"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_19__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_19__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 108 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after.subsection (1) the following subsection: \"(1A) For the purpose of subsection (1),where a company to which paragraph 2A of Schedule 1 applies, the rate applicable to that company shall be the lower of the two rates specified in that paragraph.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_19__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (15) the following subsection: \"(16) Notwithstanding the foregoing subsections, where — (a) the excess is increased by an amount under subsection (7) or (9); or (b) the amount due is increased by an amount under subsection (10), the Director General may in his discretion, for any good cause shown, remit the whole-or any part of that amount and, where the amount remitted has been paid, the Director General shall repay the same.\". Amendment of section 111"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 111 of the principal Act is amended by inserting after subsection (1) the following subsections: \"(1A) Where a company has furnished a return in accordance with subsection 77 (1A) to the Director General for a year of assessment and that company has paid tax in excess of the amount payable— (a) that return shall be deemed to be a notification under subsection (1); and (b) that company is deemed to have been notified of the excess amount on the day that return is furnished. 10 Bill (1B) Where subsection (1A) applies — (a) the reference to tax shall be taken to be a reference to an amount of tax set-off under section 110; and (b) the reference to amount payable shall be taken to be a reference to the amount of tax payable before taking into account the tax set-off under section 110.\". Deletion of section 128"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 128. Amendment of section 131"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 131 of the principal Act is amended in subsection (2) by deleting the words \"and section 128(5)\". Amendment of Schedule 1"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_23__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_23__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Schedule 1 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_23__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_23__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_23__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Part I—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_23__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_23__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph 2(a), by inserting after the word \"company\" the words \"other than a company to which paragraph 2A applies\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_23__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_23__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph 2 the following paragraph: \"2A. Subject to paragraph 3, income tax shall be charged for a year of assessment on the chargeable income of a company resident in Malaysia which has a paid-up capital in respect of ordinary shares of less than two million five hundred thousand ringgit at the beginning of the basis period for a year of assessment at the following rates: Chargeable income RM For every ringgit 100,000 of the first For every ringgit 100,000 exceeding"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_23__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting Part VII. Amendment of Schedule 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_24__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_24__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_24__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Schedule 3 of the principal Act is amended by inserting after paragraph 79 the following paragraph: \"80. The Minister may prescribe a building which is constructed or purchased by any person and used by him for the purposes of his business as an industrial building and the amount of the allowance or allowances which would otherwise fall to be made to him under paragraph 12, 16 or 42.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_24__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_24__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_24__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the Minister has approved a building to be an industrial building or an amount of allowance or allowances as an amount of allowance or allowances which would otherwise fall to be made under paragraph 12, 16 or 42 of Schedule 3 of the principal Act, before the coming into operation of subsection (1) —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_24__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_24__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "such approval shall be treated as a prescription made under paragraph 80 of Schedule 3 of the principal Act as introduced in the amendment in subsection (1); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_24__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_24__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Minister may impose conditions on such approval and where conditions had already been imposed on such approval, the Minister may impose additional conditions. Amendment of Schedule 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Schedule 4 of the principal Act is amended in sub- paragraph 2(a) by substituting for the words \"may elect to claim, within three months after the beginning of the year of assessment in the basis period in which the expenditure was incurred or within such period in that year of assessment as the Director General may allow,\" the words \"in the basis period for a year of assessment may elect to claim in a return of his income for that year of assessment\". Amendment of Schedule 4A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Schedule 4A of the principal Act is amended in paragraph 3 by substituting for the words \"may elect to claim within three months after the beginning of the year of assessment in the basis period in which that business commenced or within such further 12 Bill period as the Director General may allow,\" the words \"in the basis period for a year of assessment may elect to claim in a return of his income for that year of assessment\". Amendment of Schedule 4c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Schedule 4c of the principal Act is amended in subparagraph 2(a) by substituting for the word \"2003\" the word \"2005\". Amendment of Schedule 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_28__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_28__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Schedule 6 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_28__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsubparagraph15(l)(b), by substituting for the word \"four\" the word \"six\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_28__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_28__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_28__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_28__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 35 —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_28__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_28__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (a), by inserting after the word \"issued\" the words \"or guaranteed\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_28__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_28__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subparagraph (b) the following subparagraph: \"(b) in respect of debentures, other than convertible loan stock, approved by the Securities Commission; or\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_28__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_28__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subparagraph (c). Amendment of Schedule 7A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_j"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Schedule 7A of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph l( b ), by inserting after the word \"project\" the words \"referred to under subparagraph 8(a) or (b)\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph1A, by inserting after the words \"qualifying project\" the words \"referred to under subparagraph 8(c)\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph1B the following paragraph: \"lc. Where a person carries on a business and that business has been in operation for not tess than twelve months and that person is a resident in Malaysia for the basis year for a year of assessment has incurred in the basis period for that year of assessment, capital expenditure in relation to an agriculture project in Malaysia for the purpose of any qualifying project referred to under subparagraph 8(d), there shall be given to that person for that year of assessment a reinvestment allowance of sixty per cent of that expenditure: Provided that where this paragraph applies to an individual, that individual must be a citizen in the basis year for that year of assessment.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_d__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"or 1A\" the words \" , 1A or lc\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"the capital expenditure was first incurred.\" the words \"a claim for that allowance was first made in the return of his income in respect of that capital expenditure.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_e__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_e__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 2A—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_e__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"or IA\" the words \",1A or lc\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_e__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"company\" the word \"person\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_f__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_f__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_f__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 3 —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_f__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_f",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"company\" the word \"person\" wherever it appears;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_f__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_f",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"or 1A\" the words \", 1A or lc\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_f__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_f",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the proviso, by inserting after the words \"Sarawak,\" the words \"the Federal Territory of Labuan,\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 4, by substituting for the word \"company\" the word \"person\" wherever it appears; Bill"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 8 —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (b), by deleting the word \"or\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (c), by substituting for the full stop at the end of the subparagraph the words \"excluding the business of rearing chicken and ducks; or\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i__subpara_iii__subpara_i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subparagraph (c) the following subparagraph: \"(d) a project undertaken by a person in transforming his business of rearing chicken and ducks from an opened house to a closed house system as verified by the Minister of Agriculture.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i__subpara_iii__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i__subpara_iii__subpara_i__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i__subpara_iii__subpara_i__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i__subpara_iii__subpara_i__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i__subpara_iii__subpara_i__subpara_iv",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i__subpara_iii__subpara_i__subpara_v",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i__subpara_iii__subpara_i__subpara_vi",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i__subpara_iii__subpara_i__subpara_vii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i__subpara_iii__subpara_i__subpara_viii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i__subpara_iii__subpara_i__subpara_ix",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i__subpara_iii__subpara_i__subpara_x"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i__subpara_iii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 9—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i__subpara_iii__subpara_i__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i__subpara_iii__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of \"capital expenditure\", by substituting for the words \"paragraph1A\" the words \"paragraphs 1A and lc\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i__subpara_iii__subpara_i__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i__subpara_iii__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (e), by deleting the word \"or\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i__subpara_iii__subpara_i__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i__subpara_iii__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (f), by substituting for the comma at the end of the subparagraph the words \"; or\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i__subpara_iii__subpara_i__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i__subpara_iii__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subparagraph (f) the following subparagraph: \"(g) the construction of chicken and duck houses,\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i__subpara_iii__subpara_i__subpara_ix",
+      "@type": "akn:subparagraph",
+      "eli:number": "ix",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i__subpara_iii__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the full stop at the end of the definition of \"incurred\" a semi-colon; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i__subpara_iii__subpara_i__subpara_v",
+      "@type": "akn:subparagraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i__subpara_iii__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (ee), by deleting the word \"and\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i__subpara_iii__subpara_i__subpara_vi",
+      "@type": "akn:subparagraph",
+      "eli:number": "vi",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i__subpara_iii__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (ff), by inserting after the semi- colon at the end of the subparagraph the word \"and\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i__subpara_iii__subpara_i__subpara_vii",
+      "@type": "akn:subparagraph",
+      "eli:number": "vii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i__subpara_iii__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subparagraph (ff), the following subparagraph: \"(gg) rearing of chicken and ducks;\""
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i__subpara_iii__subpara_i__subpara_viii",
+      "@type": "akn:subparagraph",
+      "eli:number": "viii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i__subpara_iii__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of \"Eastern Conidor of Peninsular Malaysia\" the following definition: ' \"Eastern Corridor of Peninsular Malaysia\" means the States of Kelantan, Terengganu and Pahang, and the District of Mersing in the State of Johor;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i__subpara_iii__subpara_i__subpara_x",
+      "@type": "akn:subparagraph",
+      "eli:number": "x",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_i__subpara_iii__subpara_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"incurred\" the following definition: ' \"operation\" means an activity which consists of the carrying on of a business referred to in paragraph 8.'; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph 10, the following paragraphs: \"11. For the purpose of paragraph lc, where — (a) a company or a partnership (hereinafter referred to in this subparagraph as \"new partnership\") commences to carry on a business of rearing chicken and ducks; and (b) that business is a continuation of a business carried out by a sole proprietor or a partnership (hereinafter referred to in this subparagraph as \"old partnership\") for a period of not less than twelve months prior to that commencement, that period, in relation to that company and the new partnership, shall be taken into account in ascertaining the period of not less than twelve months referred to in that paragraph: Provided that the sole proprietor or any of the partners in the old partnership holds any share in that company or is the partner of the new partnership, as the case may be. 12. Where a person has a source within the meaning of sections 55 to 58, the rules prescribed under paragraph 74 of Schedule 3 shall apply, mutatis mutandis, in ascertaining the allowance to be made to that person for a year of assessment under this Schedule.\". 16 Bill"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_3__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_3__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_3__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_3__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Sections4,6,8,9, 10, 11,12, 13, 16, 17,paragraph 19(0), sections 20, 21, 22, 23, 28 and 29 shall have effect for the year of assessment 2003 and subsequent years of assessment. 4 Bill"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 5 is deemed to have effect from the year of assessment 2002 and subsequent years of assessment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Sections 7, 18 and 24 shall come into operation on 21 September 2002."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_3__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Sections 14, 15 and 27 shall have effect on the coming into operation of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_3__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph19(b) is deemed to have effect from the year of assessment 2001 and subsequent years of assessment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_3__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Sections 25 and 26 are deemed to have effect from the year of assessment 2000 (current year) and subsequent years of assessment. Amendment of section 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 6 of the principal Act is amended by deleting paragraph (l)(g). Amendment of section 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 7 of the principal Act is amended in paragraph (1)(b) in the proviso, by inserting after the words \"such period\" the words \"or that period, as the case may be, if he is in Malaysia immediately prior to and after that temporary absence\". Deletion of section 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 11. Amendment of section 15A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 15A of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the full stop at the end of sub- paragraph (iii) a colon; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting below subparagraph (iii) the following proviso to section 15A: \"Provided that in respect of paragraphs (a) and (b), this section shall apply to the amount attributable to services which are performed in Malaysia.\". Amendment of section 18"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 18 of the principal Act is amended by inserting after the definition of \"insurance\" the following definition; ' \"licensed Malaysian offshore bank\" has the meaning assigned to it by the Labuan Offshore Business Activity Tax Act 1990 [Act 445]:. Deletion of section 31"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 31. Deletion of section 37"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_IV",
+      "@type": "akn:chapter",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_IV__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_IV__cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_IV__cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_IV__cl_36"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "AMENDMENTS TO THE STAMP ACT 1949 Commencement of amendments to the Stamp Act 1949"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_IV__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Sections 34, 35 and 36 shall come into operation on 1 January"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "2003. Amendment of section 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_IV__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Stamp Act 1949, which is referred to as the principal Act in this Chapter, is amended in paragraph 9(l)(c), by substituting for the words \"five hundred ringgit\" the words \"two hundred ringgit\". Amendment of section 47 A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_IV__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_IV__cl_35__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_IV__cl_35__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_IV__cl_35__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 47A of the principal Act is amended in sub- section (1) —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_IV__cl_35__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_IV__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by substituting for the words \"fifty per centum\" the words \"five per centum\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_IV__cl_35__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_IV__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by substituting for the words \"one hundred per centum\" the words \"ten per centum\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_IV__cl_35__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_IV__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c), by substituting for the words \"two hundred per centum\" the words \"twenty per centum\". Amendment of First Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_IV__cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_IV__cl_36__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_IV__cl_36__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The First Schedule of the principal Act is amended —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_IV__cl_36__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_IV__cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in item 22 by inserting after subitem (4) the following subitem: \"(5) Being the security for The same duty as a securing the payment for LEASE\"; and the provision of services or facilities or to other matters or things in connection with the lease of any immovable property"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_IV__cl_36__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_IV__cl_36__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_IV__cl_36__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_IV__cl_36__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_IV__cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in item 49 under the heading \"Description of Instrument\" —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_IV__cl_36__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_IV__cl_36__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"LEASE OR AGREEMENT FOR LEASE\" the words \"of any immovable property and for securing the payment for the provision of services or facilities or to other matters or things in connection with such lease\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_IV__cl_36__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_IV__cl_36__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (a), by inserting after the words \"average rent\" the words \"and other considerations\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_IV__cl_36__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_IV__cl_36__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (c), by inserting after the words \"a rent\" the words \"or other considerations\". 18 Bill"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Finance (No. 2) Act 2002. Amendment of Acts"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Income Tax Act 1967 [Act 53], the Income Tax (Amendment) Act 2002 [Act A1151], the Stamp Act 1949 [Act 378] and the Labuan Offshore Business Activity Tax Act 1990 [Act 445] are amended in the manner specified in Chapters II, III, IV and V respectively."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V",
+      "@type": "akn:chapter",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V__cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V__cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V__cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V__cl_40"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "AMENDMENTS TO THE LABUAN OFFSHORE BUSINESS ACTIVITY TAX ACT 1990 Commencement of amendments to the Labuan Offshore Business Activity Tax Act 1990"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V__cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Sections 38,39 and 40 shall have effect for the year of assessment 2004 and subsequent years of assessment. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V__cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V__cl_38__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V__cl_38__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Labuan Offshore Business Activity Tax Act 1990, which is referred'to as the \"principal Act\" in this Chapter, is amended in section 2 —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V__cl_38__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V__cl_38__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V__cl_38__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V__cl_38__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V__cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1) —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V__cl_38__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V__cl_38__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"Labuan\" the following definition: ' \"licensed Malaysian offshore bank\" has the meaning assigned to it by the Offshore Banking Act 1990 [Act 443]', which is an office of a Malaysia Bank;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V__cl_38__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V__cl_38__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of \"offshore company\", by inserting after the words \"that Act\" the words \" , a licensed Malaysian offshore bank, an offshore limited partnership\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V__cl_38__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V__cl_38__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the defmition of \"offshore insurance business\" the following definition: \"offshore limited partnership\" has the meaning assigned to it in the Labuan Offshore Limited Partnership Act 1997 [Act 565];' and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V__cl_38__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V__cl_38__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V__cl_38__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V__cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3) —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V__cl_38__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V__cl_38__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by inserting after the semi-colon the word \"or\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V__cl_38__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V__cl_38__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting paragraph (b). Amendment of section 16"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V__cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V__cl_39__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V__cl_39__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V__cl_39__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended in section 16 —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V__cl_39__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V__cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (e), by deleting the word \"and\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V__cl_39__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V__cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (f), by substituting for the full stop at the end of the paragraph the words \"; and\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V__cl_39__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V__cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (f) the following paragraph: \"(g) in the case of a partnership, the partner or partners.\". New section 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V__cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/33/eng@/~chp_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 25 the following section: \"Exemptions by Minister 26. (1) The Minister may, by order published in the Gazette, exempt any offshore company from all or any of the provisions of this Act either generally or in respect of any chargeable profits of that company. (2) Any order made under subsection (1) shall be laid before the Dewan Rakyat.\"."
+      }
+    }
+  ]
+}

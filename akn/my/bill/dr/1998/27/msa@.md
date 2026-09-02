@@ -8,9 +8,7 @@ D.R. 27/98
 
 bernama
 
-Suatu Akta untuk meminda Akta Perindustrian Niaga Hadapan
-
-1993.
+Suatu Akta untuk meminda Akta Perindustrian Niaga Hadapan 1993.
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
@@ -58,9 +56,49 @@ tetapi tidaklah termasuk suatu perbuatan yang dilakukan oleh seseorang—
 
 3. Akta ibu dipinda dengan memasukkan selepas seksyen 3A seksyen yang berikut:
 
-Sekatan 3e. (1) Tiada seorang pun boleh menubuhkan, terhadap mengendalikan, menyenggara atau membantu penubuhan menubuhkan, mengendalikan atau menyenggara atau pasaran niaga mengemukakan dirinya sebagai mengadakan, hadapan mengendalikan atau menyenggara suatu pasaran niaga bagi kontrak hadapan di dalam atau di luar Malaysia, di mana kontrak niaga niaga hadapan yang berasaskan, atau boleh diselesaikan hadapan tertentu. dengan merujuk kepada, atau berkenaan dengan yang berikut, didagangkan secara tetap:
+<!-- marginal: Sekatan -->
 
-(a) suatu sekuriti yang telah diterima untuk disebut harga di suatu pasaran saham sesuatu bursa saham Akta 280. yang diluluskan di bawah subseksyen 8(1) Akta Perindustrian Sekuriti 1983;
+3e. (1) Tiada seorang pun boleh menubuhkan,
+
+<!-- marginal: terhadap -->
+
+mengendalikan, menyenggara atau membantu
+
+<!-- marginal: penubuhan -->
+
+menubuhkan, mengendalikan atau menyenggara atau
+
+<!-- marginal: pasaran -->
+
+<!-- marginal: niaga -->
+
+mengemukakan dirinya sebagai mengadakan,
+
+<!-- marginal: hadapan -->
+
+mengendalikan atau menyenggara suatu pasaran niaga
+
+<!-- marginal: bagi -->
+
+<!-- marginal: kontrak -->
+
+hadapan di dalam atau di luar Malaysia, di mana kontrak
+
+<!-- marginal: niaga -->
+
+niaga hadapan yang berasaskan, atau boleh diselesaikan
+
+<!-- marginal: hadapan -->
+
+<!-- marginal: tertentu. -->
+
+dengan merujuk kepada, atau berkenaan dengan yang berikut, didagangkan secara tetap:
+
+(a) suatu sekuriti yang telah diterima untuk disebut harga di suatu pasaran saham sesuatu bursa saham
+
+<!-- marginal: Akta 280. -->
+
+yang diluluskan di bawah subseksyen 8(1) Akta Perindustrian Sekuriti 1983;
 
 (b) suatu paras nilai berangka bagi mana-mana indeks yang terdiri daripada nilai atau harga atau yang terbentuk dengan merujuk kepada nilai atau harga mana-mana sekuriti yang disebut dalam perenggan (a);
 
@@ -180,7 +218,11 @@ Rang Undang-Undang
 
 "wang atau harta klien" ertinya apa-apa wang atau harta yang diterima atau disimpan oleh seseorang pengurus kumpulan wang niaga hadapan daripada, untuk atau bagi pihak seorang klien, berkaitan dengan perdagangan dalam kontrak niaga hadapan yang telah dilaksanakan atau yang dicadangkan untuk dilaksanakan, sama ada di Malaysia atau di luar Malaysia, oleh pengurus kumpulan wang niaga hadapan itu bagi pihak klien itu.
 
-52D. (1) Tertakluk kepada seksyen 52G, seseorang akaun pengurus kumpulan wang niaga hadapan hendaklah membuka suatu akaun amanah bagi wang atau harta kliennya dan hendaklah membuat perkiraan untuk mendapatkan seorang penjaga untuk menyenggara akaun amanah itu.
+52D. (1) Tertakluk kepada seksyen 52G, seseorang
+
+<!-- marginal: akaun -->
+
+pengurus kumpulan wang niaga hadapan hendaklah membuka suatu akaun amanah bagi wang atau harta kliennya dan hendaklah membuat perkiraan untuk mendapatkan seorang penjaga untuk menyenggara akaun amanah itu.
 
 (2) Suruhanjaya boleh, sekiranya difikirkannya patut untuk berbuat demikian, mengecualikan seseorang pengurus kumpulan wang niaga hadapan daripada kehendak di bawah subseksyen (1) untuk mendapatkan seorang penjaga untuk menyenggara suatu akaun amanah dan membenarkan mana-mana orang lain untuk menyenggara suatu akaun amanah.
 
@@ -212,11 +254,25 @@ membayar wang itu atau mendepositkan harta itu ke dalam suatu akaun amanah yang 
 
 (c) suatu catatan yang berasingan dalam buku hendaklah direkodkan dan disenggara olehnya bagi setiap klien mengikut Akta ini atau mana-mana peraturan-peraturan yang dibuat di bawah Akta ini, berhubungan dengan wang atau harta klien itu.
 
-52F. (1) Seseorang pengurus kumpulan wang niaga hadapan hendaklah membekalkan, apabila diminta, kepada kliennya atau mana-mana orang yang diberi kuasa oleh klien itu, salinan segala catatan dalam bukunya buku berhubungan dengan apa-apa transaksi. nota '
+52F. (1) Seseorang pengurus kumpulan wang niaga hadapan hendaklah membekalkan, apabila diminta, kepada kliennya atau mana-mana orang yang diberi kuasa oleh klien itu, salinan segala catatan dalam bukunya
 
-(2) Seseorang klien seorang pengurus kumpulan wang niaga hadapan berhak untuk memeriksa, sama ada sendiri atau melalui ejennya, mana-mana nota kontrak dan pernyataan-pernyataan lain berhubungan dengan apa-apa transaksi secara percuma.
+<!-- marginal: buku -->
 
-52G. Tiada apa-apa pun dalam seksyen 52D, 52E atau 52F boleh terpakai bagi suatu perbadanan yang bagi menguruskan wang atau harta semata-mata untuk atau bagi pihak mana-mana perbadanan yang berkaitan berkaitan. dengannya, dengan syarat bahawa wang atau harta 125, perbadanan yang disebut kali kedua itu yang sedang diuruskan oleh perbadanan yang mula-mula disebut itu bukan merupakan wang atau harta yang dipegang sebagai
+berhubungan dengan apa-apa transaksi.
+
+<!-- marginal: nota -->
+
+' (2) Seseorang klien seorang pengurus kumpulan wang niaga hadapan berhak untuk memeriksa, sama ada sendiri atau melalui ejennya, mana-mana nota kontrak dan pernyataan-pernyataan lain berhubungan dengan apa-apa transaksi secara percuma.
+
+52G. Tiada apa-apa pun dalam seksyen 52D, 52E atau 52F boleh terpakai bagi suatu perbadanan yang
+
+<!-- marginal: bagi -->
+
+menguruskan wang atau harta semata-mata untuk atau bagi pihak mana-mana perbadanan yang berkaitan
+
+<!-- marginal: berkaitan. -->
+
+dengannya, dengan syarat bahawa wang atau harta 125, perbadanan yang disebut kali kedua itu yang sedang diuruskan oleh perbadanan yang mula-mula disebut itu bukan merupakan wang atau harta yang dipegang sebagai
 
 <!-- page 11 -->
 
@@ -268,9 +324,7 @@ Rang Undang-Undang ini bertujuan meminda Akta Perindustrian Niaga Hadapan 1993 (
 
 5. Fasal 5 bertujuan meminda seksyen 16 Akta 499 bagi memperuntukkan bahawa seorang pemegang lesen pengurus kumpuan wang niaga hadapan boleh berdagang dalam kontrak niaga hadapan bagi pihak orang lain tanpa perlu dilesenkan sebagai seorang broker niaga hadapan.
 
-6. Fasal 6 bertujuan menggantikan seksyen 20 Akta 499 dengan suatu seksyen 20 yang baru yang memperkatakan kuasa Menteri untuk mengecualikan orang atau orang-orang atau kelas orang, atas syor Suruhanjaya, daripada kehendak- kehendak pelesenan di bawah Akta 499 dalam perenggan (1)(a) dan penetapan orang lain yang dikecualikan daripada kehendak yang sama dalam perenggan
-
-(1)(b)
+6. Fasal 6 bertujuan menggantikan seksyen 20 Akta 499 dengan suatu seksyen 20 yang baru yang memperkatakan kuasa Menteri untuk mengecualikan orang atau orang-orang atau kelas orang, atas syor Suruhanjaya, daripada kehendak- kehendak pelesenan di bawah Akta 499 dalam perenggan (1)(a) dan penetapan orang lain yang dikecualikan daripada kehendak yang sama dalam perenggan (1)(b)
 
 7. Fasal 7 bertujuan meminda seksyen 49 Akta 499 bagi membolehkan Menteri membuat peraturan-peraturan tentang nota kontrak yang diberikan oleh pengurus kumpulan wang niaga hadapan juga.
 
@@ -290,4 +344,6 @@ Perindustrian Niaga Hadapan (Pindaan)
 
 ## KEWANGAN
 
-Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN. (U2) 2056.]
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
+
+<!-- marginal: [PN. (U2) 2056.] -->

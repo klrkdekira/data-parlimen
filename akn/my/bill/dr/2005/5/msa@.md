@@ -6,9 +6,7 @@
 
 ### bernama
 
-Suatu Akta untuk meminda Akta Kesalahan-Kesalahan Penerbangan
-
-1984.
+Suatu Akta untuk meminda Akta Kesalahan-Kesalahan Penerbangan 1984.
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 

@@ -1298,17 +1298,13 @@ relief dalam prosiding sivil dalam mahkamah di bawah seksyen ini terhadap mana-m
 
 ### Aktiviti yang tidak tertakluk kepada Bab 1 dan 2 Bahagian II
 
-## Bab 1 dan 2 Bahagian II tidak terpakai bagi—
+Bab 1 dan 2 Bahagian II tidak terpakai bagi—
 
 (a) suatu perjanjian atau perlakuan setakat yang ia terlibat dalam suatu perintah untuk mematuhi suatu kehendak perundangan;
 
 (b) aktiviti perundingan kolektif atau perjanjian kolektif berkenaan dengan terma dan syarat penggajian dan yang dirunding atau diikat antara pihak yang termasuk kedua-dua majikan dan pekerja atau organisasi yang ditubuhkan untuk mewakili kepentingan majikan atau pekerja;
 
-(c) suatu perusahaan yang diamanahkan dengan pengendalian perkhidmatan yang berkepentingan ekonomi am atau yang mempunyai ciri monopoli pengeluaran hasil setakat yang larangan di bawah
-
-## Bab 1 dan Bab 2 Bahagian II akan menghalang pelaksanaan, di sisi
-
-undang-undang atau hakikat, tugas tertentu yang diberikan kepada perusahaan itu.
+(c) suatu perusahaan yang diamanahkan dengan pengendalian perkhidmatan yang berkepentingan ekonomi am atau yang mempunyai ciri monopoli pengeluaran hasil setakat yang larangan di bawah Bab 1 dan Bab 2 Bahagian II akan menghalang pelaksanaan, di sisi undang-undang atau hakikat, tugas tertentu yang diberikan kepada perusahaan itu.
 
 ## HURAIAN
 
@@ -1412,11 +1408,7 @@ Akta ini membuat peruntukan bagi mengadakan undang-undang persaingan dengan meng
 
 37. Fasal 35 memberi Suruhanjaya kuasa, sementara selesainya suatu penyiasatan, untuk mengenakan langkah interim yang difikirkannya perlu untuk menghalang kerugian serius dan tidak boleh dibaiki kepada seseorang atau kategori orang atau untuk melindungi kepentingan awam.
 
-38. Fasal 36 memperuntukkan bahawa Suruhanjaya hendaklah memberikan notis mengenai keputusan yang dicadangkan bahawa salah satu larangan dalam
-
-## Bahagian II telah atau sedang dilanggar dan memberi perusahaan yang terlibat
-
-peluang untuk membuat representasi.
+38. Fasal 36 memperuntukkan bahawa Suruhanjaya hendaklah memberikan notis mengenai keputusan yang dicadangkan bahawa salah satu larangan dalam Bahagian II telah atau sedang dilanggar dan memberi perusahaan yang terlibat peluang untuk membuat representasi.
 
 39. Fasal 37 dan 38 masing-masing memperkatakan tatacara untuk membuat representasi lisan oleh perusahaan yang terlibat dan perjalanan pendengaran oleh Suruhanjaya.
 

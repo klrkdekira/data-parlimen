@@ -8,9 +8,7 @@ Naskhah Sahih—Bahasa Malaysia
 
 bernama
 
-Suatu Akta untuk meminda Akta Ahli Parlimen (Saraan)
-
-1980. [ ]
+Suatu Akta untuk meminda Akta Ahli Parlimen (Saraan) 1980. [ ]
 
 ## MAKA INILAH DIPERBUAT UNDANG-UNDANG
 
@@ -50,7 +48,33 @@ oleh Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong dengan nasih
 
 (b) dengan menggantikan seksyen 4 dengan seksyen yang berikut:
 
-" Saraan 4. Saraan bagi Yang di-Pertua dan bagi Yang Timbalan Yang di-Pertua Dewan di-Pertua Negara dan Yang di-Pertua dan Dewan Negara, Timbalan Yang di-Pertua Dewan Yang di- Rakyat hendaklah berupa— Pertua Dewan Rakyat, dll.
+<!-- marginal: " Saraan -->
+
+4. Saraan bagi Yang di-Pertua dan
+
+<!-- marginal: bagi Yang -->
+
+Timbalan Yang di-Pertua Dewan
+
+<!-- marginal: di-Pertua -->
+
+Negara dan Yang di-Pertua dan
+
+<!-- marginal: Dewan -->
+
+<!-- marginal: Negara, -->
+
+Timbalan Yang di-Pertua Dewan
+
+<!-- marginal: Yang di- -->
+
+Rakyat hendaklah berupa—
+
+<!-- marginal: Pertua -->
+
+<!-- marginal: Dewan -->
+
+<!-- marginal: Rakyat, dll. -->
 
 (a) bagi Yang di-Pertua Dewan Negara, gaji bulanan sebanyak enam ribu dua ratus sepuluh ringgit selain daripada elaun bulanan yang kena dibayar kepadanya sebagai ahli Dewan Negara seperti yang dinyata- kan dalam perenggan (a) seksyen-kecil (1) seksyen 3;
 
@@ -66,7 +90,19 @@ kepadanya sebagai ahli Dewan Negara seperti yang dinyata- kan dalam perenggan (a
 
 (c) dengan menggantikan seksyen 6 dengan seksyen yang berikut:
 
-" Saraan 6. (1) Saraan bagi Anggota Pentad- bagi biran hendaklah berupa— Anggota Pentad- biran.
+<!-- marginal: " Saraan -->
+
+6. (1) Saraan bagi Anggota Pentad-
+
+<!-- marginal: bagi -->
+
+biran hendaklah berupa—
+
+<!-- marginal: Anggota -->
+
+<!-- marginal: Pentad- -->
+
+<!-- marginal: biran. -->
 
 (a) bagi Perdana Menteri, gaji bulanan sebanyak sembilan ribu seratus lapan puluh ringgit;
 
@@ -86,7 +122,9 @@ kepadanya sebagai ahli Dewan Negara seperti yang dinyata- kan dalam perenggan (a
 
 (3) Jika seseorang Anggota Pentadbiran dilantik sebagai Ketua Dewan Rakyat, dia adalah berhak, selain daripada gaji yang dinyatakan dalam seksyen-kecil (1) dan elaun bulanan yang dinyatakan dalam perenggan (b) seksyen-kecil (1) seksyen 3, mendapat elaun bulanan sebanyak dua ribu seratus enam puluh ringgit.
 
-(4) Jika seseorang Anggota Pentadbiran dilantik sebagai Timbalan Ketua Dewan Rakyat, dia adalah berhak, selain daripada gaji yang dinyatakan dalam seksyen-kecil (1) dan elaun bulanan yang dinyata- kan dalam perenggan (b) seksyen- kecil (1) seksyen 3, mendapat elaun bulanan sebanyak seribu lapan puluh ringgit.
+(4) Jika seseorang Anggota Pentadbiran dilantik sebagai Timbalan Ketua Dewan Rakyat, dia adalah berhak, selain daripada gaji yang dinyatakan dalam seksyen-kecil
+
+(1) dan elaun bulanan yang dinyata- kan dalam perenggan (b) seksyen- kecil (1) seksyen 3, mendapat elaun bulanan sebanyak seribu lapan puluh ringgit.
 
 (5) Anggota Pentadbiran adalah juga berhak mendapat apa-apa elaun
 
@@ -124,7 +162,33 @@ dan keistimewaan lain mengikut apa- apa kadar dan atas apa-apa had dan syarat se
 
 (b) dengan menggantikan seksyen 4 sebagaimana yang dipinda oleh subseksyen 2(1) dengan seksyen yang berikut:
 
-" Saraan 4. Saraan bagi Yang di-Pertua dan bagi Yang Timbalan Yang di-Pertua Dewan di-Pertua Dewan Negara dan Yang di-Pertua dan Negara, Timbalan Yang di-Pertua Dewan Yang di- Pertua Rakyat hendaklah berupa— Dewan Rakyat, dll.
+<!-- marginal: " Saraan -->
+
+4. Saraan bagi Yang di-Pertua dan
+
+<!-- marginal: bagi Yang -->
+
+Timbalan Yang di-Pertua Dewan
+
+<!-- marginal: di-Pertua -->
+
+<!-- marginal: Dewan -->
+
+Negara dan Yang di-Pertua dan
+
+<!-- marginal: Negara, -->
+
+Timbalan Yang di-Pertua Dewan
+
+<!-- marginal: Yang di- -->
+
+<!-- marginal: Pertua -->
+
+Rakyat hendaklah berupa—
+
+<!-- marginal: Dewan -->
+
+<!-- marginal: Rakyat, dll. -->
 
 (a) bagi Yang di-Pertua Dewan Negara, gaji bulanan sebanyak sembilan ribu dua ratus ringgit selain daripada elaun bulanan yang kena dibayar kepadanya sebagai ahli Dewan Negara seperti yang dinyatakan dalam perenggan (a) seksyen-kecil (1) seksyen 3;
 
@@ -140,9 +204,23 @@ dan keistimewaan lain mengikut apa- apa kadar dan atas apa-apa had dan syarat se
 
 (c) dengan menggantikan seksyen 6 sebagaimana yang dipinda oleh subseksyen 2(1) dengan seksyen yang berikut:
 
-" Saraan 6. (1) Saraan bagi Anggota Pentad- bagi biran hendaklah berupa— Anggota Pentad-
+<!-- marginal: " Saraan -->
 
-(a) bagi Perdana Menteri, gaji biran. bulanan sebanyak tujuh belas ribu ringgit;
+6. (1) Saraan bagi Anggota Pentad-
+
+<!-- marginal: bagi -->
+
+biran hendaklah berupa—
+
+<!-- marginal: Anggota -->
+
+<!-- marginal: Pentad- -->
+
+(a) bagi Perdana Menteri, gaji
+
+<!-- marginal: biran. -->
+
+bulanan sebanyak tujuh belas ribu ringgit;
 
 (b) bagi Timbalan Perdana Menteri, gaji bulanan se- banyak tiga belas ribu lima ratus ringgit;
 

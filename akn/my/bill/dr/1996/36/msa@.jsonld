@@ -1,0 +1,236 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-36-1996",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_5"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Ahli Parlimen (Saraan) (Pindaan) 1996"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Ahli Parlimen"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "(Saraan) (Pindaan) 1996 dan hendaklah disifatkan telah mula berkuatkuasa pada 1 Januari 1995."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Ahli Parlimen (Saraan) 1980, yang disebut \"Akta"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ibu\" dalam Akta ini, adalah dipinda dalam seksyen 3—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_2__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_2__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_2__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a) dengan memasukkan selepas perkataan \"ribu\" perkataan \"sembilan puluh\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_2__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b) dengan memasukkan selepas perkataan \"ratus\" perkataan \"sembilan puluh\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2) dengan memasukkan selepas perkataan \"ratus\" perkataan \"sembilan puluh\". 2 Rang Undang-Undang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_3__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_3__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 4 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_3__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_3__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_3__list_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_3__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a) dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_3__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"dua ratus\" dengan perkataan \"tiga ratus lima puluh\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_3__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_3__list_2__para_b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_3__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_3__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c) dan (d) dengan memasukkan selepas perkataan \"ribu\" perkataan \"sembilan puluh\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 6 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_4__para_a__subpara_i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_4__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_4__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a) dengan memasuk- kan selepas perkataan \"ribu\" perkataan \"seratus lima puluh\"; (ii) dalam perenggan (b) dengan meng- gantikan perkataan \"lima ratus\" dengan perkataan \"enam ratus lima puluh\"; (iii) dalam perenggan (c) menggantikan perkataan \"lima puluh\" dengan perkataan \"dua ratus\"; (iv) dalam perenggan (d) dengan memasuk- kan selepas perkataan \"ribu\" perkataan \"seratus lima puluh\"; dan (v) dalam perenggan (e) dengan meng- gantikan perkataan \"dua ratus lima puluh\" dengan perkataan \"empat ratus\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3) dan (4) dengan memasukkan selepas perkataan \"ratus\" perkataan \"sembilan puluh\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/36/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Walau apa pun seksyen 7 Akta ibu, semua gaji dan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "elaun yang dinyatakan dalam pindaan kepada Akta ibu dalam seksyen 2, 3 dan 4 dan yang kena dibayar hendaklah bermula dari 1 Januari 1995 atau dari tarikh pelantikan atau pemilihan, mengikut mana-mana yang terkemudian, Ahli Parlimen, Yang di-Pertua atau Timbalan Yang di- Pertua Dewan Negara, Yang di-Pertua atau Timbalan Yang di-Pertua Dewan Rakyat, Anggota Pentadbiran, Ketua atau Timbalan Ketua Dewan Rakyat atau Ketua Pembangkang, mengikut mana-mana yang berkenaan."
+      }
+    }
+  ]
+}

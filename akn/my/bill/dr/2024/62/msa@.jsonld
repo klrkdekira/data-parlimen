@@ -1,0 +1,320 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-62-2024",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_8"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU BERNAMA (Pindaan) 2024"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta BERNAMA (Pindaan) 2024."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta BERNAMA 1967 [Akta 780], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa kebangsaan, dalam takrif “Lembaga”, dengan menggantikan noktah di hujung takrif itu dengan koma bernoktah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “Lembaga” takrif yang berikut: ‘ “organisasi media” ertinya mana-mana entiti yang menjalankan aktiviti penyebaran berita atau bahan berita melalui surat khabar, penerbitan, radio, televisyen, atau apa-apa bentuk komunikasi massa yang lain, termasuk platform elektronik atau digital.’. Pindaan seksyen 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 7 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (2)(c), dengan menggantikan perkataan “tuan punya surat khabar di Malaysia yang” dengan perkataan “organisasi media di Malaysia yang”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4), dengan menggantikan perkataan “tuan punya surat khabar di Malaysia yang” dengan perkataan “organisasi media di Malaysia yang”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (5), dengan menggantikan perkataan “tuan punya surat khabar di Malaysia yang” dengan perkataan “organisasi media di Malaysia yang”. Pindaan seksyen 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 10(b) Akta ibu dipinda dengan menggantikan perkataan “surat khabar, radio atau televisyen yang merupakan pelanggan” dengan perkataan “pelanggan”. Pindaan seksyen 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 11(1)(c) Akta ibu dipinda dengan menggantikan perkataan “surat khabar di Malaysia” dengan perkataan “organisasi media di Malaysia yang merupakan pelanggan BERNAMA”. Penggantian seksyen 21"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 21 dengan seksyen yang berikut: “Pelanggan 21. Golongan yang berikut berhak membuat perkiraan untuk mendapatkan perkhidmatan BERNAMA: (a) organisasi media; dan (b) mana-mana institusi, badan, organisasi, individu atau mana-mana pelanggan lain, yang dibenarkan oleh Lembaga.”. Pindaan seksyen 25"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 25 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “surat khabar yang” dengan perkataan “organisasi media yang”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan menggantikan perkataan “surat khabar” dengan perkataan “organisasi media”. Pindaan Jadual"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_8__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jadual kepada Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_8__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_8__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_8__para_a__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_8__para_a__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Bahagian I—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_8__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_8__para_a__subpara_i__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_8__para_a__subpara_i__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_8__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan 1—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_8__para_a__subpara_i__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_8__para_a__subpara_i",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subperenggan (2) dengan subperenggan yang berikut: “(2) Anggota Lembaga yang mewakili organisasi media hendaklah memegang jawatan sebagai wakil organisasi media mereka.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_8__para_a__subpara_i__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_8__para_a__subpara_i",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subperenggan (3) dengan subperenggan yang berikut: “(3) Empat orang anggota Lembaga yan g mewakili Keraj aa n M alaysia hendaklah merupakan wakil daripada Kementerian yang dipertanggungkan dengan tanggungjawab bagi komunikasi dan Kementerian yang dipertanggungkan dengan tanggungjawab bagi hal ehwal luar negeri.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_8__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_8__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subsubperenggan 3(2)(a) dengan subsubperenggan yang berikut: “(a) seseorang anggota yang mewakili suatu organisasi media, anggota Lembaga itu hendaklah mengosongkan jawatannya jika dia tidak lagi mempunyai apa-apa hubungan dengan organisasi media yang diwakilinya, atau apabila organisasi media yang diwakilinya itu tidak lagi menjadi pelanggan BERNAMA; dan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_8__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_8__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subperenggan 4(1) dengan subperenggan yang berikut: “(1) Tatacara yang berikut hendaklah diterima pakai bagi mengisi kekosongan dalam Lembaga yang timbul daripada apa-apa sebab yang disenaraikan dalam perenggan 3: (a) dalam hal anggota yang mewakili organisasi media, pelantikan bagi maksud mengisi apa-apa kekosongan hendaklah dibuat atas syor organisasi media yang wakilnya telah mengosongkan jawatannya; dan (b) dalam hal suatu kekosongan yang timbul disebabkan oleh organisasi media yang wakilnya diwakili dalam Lembaga tidak lagi menjadi pelanggan BERNAMA, organisasi media yang masih menjadi pelanggan BERNAMA hendaklah membuat syor kepada Yang di-Pertuan Agong.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_8__para_a__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_8__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan 5(4), dengan menggantikan perkataan “tuan punya surat khabar” dengan perkataan “organisasi media”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/62/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Bahagian II, dalam subperenggan 3(2), dengan menggantikan perkataan “sesuatu surat khabar, radio atau televisyen yang menjadi pelanggan” dengan perkataan “pelanggan”."
+      }
+    }
+  ]
+}

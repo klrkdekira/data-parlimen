@@ -54,9 +54,11 @@
 
 <!-- page 2 -->
 
-### 2
+<!-- marginal: 2 -->
 
 ## BILL
+
+<!-- marginal: Clause -->
 
 13. Offence committed by a body corporate.
 
@@ -138,9 +140,23 @@ Animals Ordinance 1953 and includes the Deputy Director General appointed under 
 
 ## AND REVOCATION OF LICENCE
 
-Power of
+<!-- marginal: Power of -->
 
-3. (1) The Minister may grant a licence to any person Minister or body of persons whose tender or proposal to operate to grant licence to an abattoir has been accepted by the Government. operate an abattoir.
+3. (1) The Minister may grant a licence to any person
+
+<!-- marginal: Minister -->
+
+or body of persons whose tender or proposal to operate
+
+<!-- marginal: to grant -->
+
+<!-- marginal: licence to -->
+
+an abattoir has been accepted by the Government.
+
+<!-- marginal: operate -->
+
+<!-- marginal: an abattoir. -->
 
 (2) Without prejudice to the generality of subsection
 
@@ -156,9 +172,27 @@ Power of
 
 (3) The issue of a licence to any person or body of persons under subsection (1) shall not impose any liability on the Government of Malaysia for any loss or damage occasioned by any act, omission or default of such person or body of persons.
 
-Suspension
+<!-- marginal: Suspension -->
 
-4. (1) Where the Director General is satisfied that a or revocation licensed operator is contravening, or has contravened of licence on breach of and is likely again to contravene, any of the conditions condition of of its licence, the Director General may give notice in licence. writing to the licensed operator requiring it to comply with that condition within the period prescribed in the notice.
+4. (1) Where the Director General is satisfied that a
+
+<!-- marginal: or revocation -->
+
+licensed operator is contravening, or has contravened
+
+<!-- marginal: of licence -->
+
+<!-- marginal: on breach of -->
+
+and is likely again to contravene, any of the conditions
+
+<!-- marginal: condition of -->
+
+of its licence, the Director General may give notice in
+
+<!-- marginal: licence. -->
+
+writing to the licensed operator requiring it to comply with that condition within the period prescribed in the notice.
 
 (2) If, on the expiry of the period prescribed in such notice, the licensed operator fails to comply with the condition mentioned therein, the Director General shall submit to the Minister a report of such failure by the licensed operator and the report shall be in such form as the Director General considers appropriate.
 
@@ -224,9 +258,19 @@ breach or non-compliance was of a serious nature or has affected or is likely to
 
 ## DUTIES OF A LICENSED OPERATOR
 
-General
+<!-- marginal: General -->
 
-6. (1) It shall be the duty of a licensed operator to duties of a ensure that the services provided by it meet the licensed operator. performance standards prescribed by the Director General under subsection 15 (2).
+6. (1) It shall be the duty of a licensed operator to
+
+<!-- marginal: duties of a -->
+
+ensure that the services provided by it meet the
+
+<!-- marginal: licensed -->
+
+<!-- marginal: operator. -->
+
+performance standards prescribed by the Director General under subsection 15 (2).
 
 (2) A licensed operator shall have due regard to the efficiency, economy and safety of operations in respect
 
@@ -282,13 +326,51 @@ such longer period as the Director General may allow—
 
 ## CHARGES AND FEES
 
-Power of
+<!-- marginal: Power of -->
 
-8. Notwithstanding any provision of this Act or the licensed Financial Procedure Act 1957, all charges and fees operator to collect prescribed under rules made pursuant to paragraph charges 11 (2) (f) for the provision of abattoir services shall be and fees. Act 61. collected by and shall form part of the revenue of the licensed operator.
+8. Notwithstanding any provision of this Act or the
 
-Submission
+<!-- marginal: licensed -->
 
-9. (1) A licensed operator may submit to the Minister of for his approval a memorandum containing proposals memorandum for change for any change in the existing charges and fees in existing prescribed under paragraph 11 (2) (f). charges and fees.
+Financial Procedure Act 1957, all charges and fees
+
+<!-- marginal: operator -->
+
+<!-- marginal: to collect -->
+
+prescribed under rules made pursuant to paragraph
+
+<!-- marginal: charges -->
+
+11 (2) (f) for the provision of abattoir services shall be
+
+<!-- marginal: and fees. -->
+
+<!-- marginal: Act 61. -->
+
+collected by and shall form part of the revenue of the licensed operator.
+
+<!-- marginal: Submission -->
+
+9. (1) A licensed operator may submit to the Minister
+
+<!-- marginal: of -->
+
+for his approval a memorandum containing proposals
+
+<!-- marginal: memorandum -->
+
+<!-- marginal: for change -->
+
+for any change in the existing charges and fees
+
+<!-- marginal: in existing -->
+
+prescribed under paragraph 11 (2) (f).
+
+<!-- marginal: charges -->
+
+<!-- marginal: and fees. -->
 
 (2) The Minister shall consider the memorandum submitted within six months of its submission.
 
@@ -298,7 +380,9 @@ Submission
 
 (b) reject the memorandum.
 
-(4) Where the Minister rejects the memorandum, the licensed operator may, where there is a change in the circumstances relating to the proposal in
+(4) Where the Minister rejects the memorandum, the licensed operator may, where there is a change in the circumstances relating to the proposal
+
+<!-- marginal: in -->
 
 <!-- marginal: the -->
 
@@ -308,9 +392,31 @@ Provided that such application for review shall be made before the expiration of
 
 (5) The Minister shall consider an application for review within three months of its submission.
 
-Minister
+<!-- marginal: Minister -->
 
-10. Where the Minister approves a memorandum, with to make amendments or without any modifications, he shall, as soon as to rules in practicable, make the necessary amendments to the rules respect of change in made pursuant to paragraph 11 (2) (f) in respect of the charges and fees. change in the existing charges and fees.
+10. Where the Minister approves a memorandum, with
+
+<!-- marginal: to make -->
+
+<!-- marginal: amendments -->
+
+or without any modifications, he shall, as soon as
+
+<!-- marginal: to rules in -->
+
+practicable, make the necessary amendments to the rules
+
+<!-- marginal: respect of -->
+
+<!-- marginal: change in -->
+
+made pursuant to paragraph 11 (2) (f) in respect of the
+
+<!-- marginal: charges -->
+
+<!-- marginal: and fees. -->
+
+change in the existing charges and fees.
 
 <!-- page 9 -->
 
@@ -362,27 +468,65 @@ comply with any of the conditions of the licence or any of the provisions of thi
 
 ## BILL
 
-Offence
+<!-- marginal: Offence -->
 
-13. Where an offence under this Act or under any of committed the rules made thereunder is committed by a body by a body corporate. corporate (whether or not the body corporate has been prosecuted), every director, secretary or manager of the body corporate shall be deemed to be guilty of the offence unless he proves that the offence was committed without his consent or connivance and that he had exercised all due diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances of the case.
+13. Where an offence under this Act or under any of
 
-Conduct of
+<!-- marginal: committed -->
 
-14. Prosecutions in respect of offences committed under prosecution. this Act or any rules made thereunder may be conducted by the Director General or any officer or servant of the Government specially authorised in that behalf by the Director General.
+the rules made thereunder is committed by a body
+
+<!-- marginal: by a body -->
+
+<!-- marginal: corporate. -->
+
+corporate (whether or not the body corporate has been prosecuted), every director, secretary or manager of the body corporate shall be deemed to be guilty of the offence unless he proves that the offence was committed without his consent or connivance and that he had exercised all due diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances of the case.
+
+<!-- marginal: Conduct of -->
+
+14. Prosecutions in respect of offences committed under
+
+<!-- marginal: prosecution. -->
+
+this Act or any rules made thereunder may be conducted by the Director General or any officer or servant of the Government specially authorised in that behalf by the Director General.
 
 ## PART VI
 
 ## MISCELLANEOUS
 
-Powers,
+<!-- marginal: Powers, -->
 
-15. (1) The Director General shall, in addition to the functions powers conferred and the functions and duties imposed and duties of Director upon him by any written law, exercise regulatory General. functions in respect of the provision of abattoir services and the running of abattoir facilities by a licensed operator.
+15. (1) The Director General shall, in addition to the
+
+<!-- marginal: functions -->
+
+powers conferred and the functions and duties imposed
+
+<!-- marginal: and duties -->
+
+<!-- marginal: of Director -->
+
+upon him by any written law, exercise regulatory
+
+<!-- marginal: General. -->
+
+functions in respect of the provision of abattoir services and the running of abattoir facilities by a licensed operator.
 
 (2) The Director General shall, with the approval of the Minister, by rules, prescribe such standards of performance in the provision of abattoir services as, in his opinion, ought to be achieved by a licensed operator.
 
-Inspectorial
+<!-- marginal: Inspectorial -->
 
-16. The Director General and any officer duly power of authorised by him in writing may, for the purposes of Director General. this Act or any of the rules made thereunder, enter upon any of the premises occupied by a licensed operator to
+16. The Director General and any officer duly
+
+<!-- marginal: power of -->
+
+authorised by him in writing may, for the purposes of
+
+<!-- marginal: Director -->
+
+<!-- marginal: General. -->
+
+this Act or any of the rules made thereunder, enter upon any of the premises occupied by a licensed operator to
 
 <!-- page 11 -->
 

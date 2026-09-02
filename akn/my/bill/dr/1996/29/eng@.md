@@ -28,21 +28,31 @@ is amended in section 2 by inserting before the definition of "Chairman" the fol
 
 <!-- page 2 -->
 
-New sections
+<!-- marginal: New sections -->
 
-3. The principal Act is amended by inserting after section 17A, 17B, 17c, 17 the following sections: 17D, 17E, 17F, 17G and 17F.
+3. The principal Act is amended by inserting after section
 
-"Disciplinary 17A. (1) The Lembaga shall have disciplinary committees. authority over all its officers and servants and shall exercise disciplinary control in respect of all such persons in accordance with this Act and any regulations made under section 17c.
+<!-- marginal: 17A, 17B, 17c, -->
+
+17 the following sections:
+
+<!-- marginal: 17D, 17E, 17F, -->
+
+<!-- marginal: 17G and 17F. -->
+
+<!-- marginal: "Disciplinary -->
+
+17A. (1) The Lembaga shall have disciplinary
+
+<!-- marginal: committees. -->
+
+authority over all its officers and servants and shall exercise disciplinary control in respect of all such persons in accordance with this Act and any regulations made under section 17c.
 
 (2) For the purposes of this section—
 
 (a) there shall be established a disciplinary committee of the Lembaga in respect of the General Manager consisting of—
 
-(i) the Secretary General of the Ministry, who shall be
-
-<!-- marginal: the -->
-
-chairman of the committee; and
+(i) the Secretary General of the Ministry, who shall be the chairman of the committee; and
 
 (ii) two members of the Lembaga to be appointed by the Lembaga; and
 
@@ -62,7 +72,23 @@ chairman of the committee; and
 
 (5) In the exercise of its disciplinary functions and powers, a disciplinary committee referred to under subsection (2) shall have the power to take disciplinary action and impose any disciplinary punishment or any combination of two or more disciplinary punishments as may be provided for under any regulations made under section 17c.
 
-Appeal 17B. (1) A decision of the disciplinary committee against under section 17A(2)(a) shall be appealable to decision of disciplinary the Minister. committee. (2) A decision of the disciplinary committee under section 17A(2)(b) shall be appealable to the Disciplinary Appeal Committee which shall consist of the following members:
+<!-- marginal: Appeal -->
+
+17B. (1) A decision of the disciplinary committee
+
+<!-- marginal: against -->
+
+under section 17A(2)(a) shall be appealable to
+
+<!-- marginal: decision of -->
+
+<!-- marginal: disciplinary -->
+
+the Minister.
+
+<!-- marginal: committee. -->
+
+(2) A decision of the disciplinary committee under section 17A(2)(b) shall be appealable to the Disciplinary Appeal Committee which shall consist of the following members:
 
 (a) the Chairman of the Lembaga, who shall be the chairman of the Disciplinary Appeal Committee and having a casting vote; and
 
@@ -76,9 +102,23 @@ Appeal 17B. (1) A decision of the disciplinary committee against under section 1
 
 whose decision the appeal is made who is also a member of the Lembaga shall not be present or in any way participate in any proceedings relating to that appeal.
 
-(5) The decision of the Minister or the Disciplinary Appeal Committee under subsection (3) shall be final and conclusive.
+(5) The decision of the Minister or the Disciplinary Appeal Committee under subsection
 
-Power to 17c. (1) The Lembaga may, with the approval make of the Minister, make such regulations as it disciplinary regulations. deems necessary or expedient to provide for the discipline of the officers and servants of the Lembaga.
+(3) shall be final and conclusive.
+
+<!-- marginal: Power to -->
+
+17c. (1) The Lembaga may, with the approval
+
+<!-- marginal: make -->
+
+of the Minister, make such regulations as it
+
+<!-- marginal: disciplinary -->
+
+<!-- marginal: regulations. -->
+
+deems necessary or expedient to provide for the discipline of the officers and servants of the Lembaga.
 
 (2) The disciplinary regulations made under this section—
 
@@ -104,7 +144,17 @@ Power to 17c. (1) The Lembaga may, with the approval make of the Minister, make 
 
 <!-- page 6 -->
 
-Imposition 17D. (1) A person who is or was in the of employment of the Lembaga may be surcharged surcharge. if it appears to the Lembaga that the person—
+<!-- marginal: Imposition -->
+
+17D. (1) A person who is or was in the
+
+<!-- marginal: of -->
+
+employment of the Lembaga may be surcharged
+
+<!-- marginal: surcharge. -->
+
+if it appears to the Lembaga that the person—
 
 (a) has failed to collect money owing to the Lembaga for the collection of which he is or was responsible;
 
@@ -130,15 +180,41 @@ Imposition 17D. (1) A person who is or was in the of employment of the Lembaga m
 
 (b) in the case of subsections (1)(d) and (e), surcharge against the person, such sum as the Lembaga may think fit.
 
-Notification 17E. The Lembaga shall notify the person of surcharged in respect of any surcharge made surcharge. under section 17D(3).
+<!-- marginal: Notification -->
 
-Withdrawal 17F. Notwithstanding sections 17D(3) and of 17E, the Lembaga may at any time withdraw surcharge. any surcharge in respect of which a satisfactory explanation has been received or
+17E. The Lembaga shall notify the person
 
-<!-- marginal: if it -->
+<!-- marginal: of -->
 
-otherwise appears that no surcharge should have been made, and the Lembaga shall forthwith notify the person surcharged of the withdrawal.
+surcharged in respect of any surcharge made
 
-Recovery 17G. The amount of any surcharge made under of section 17D(3) and not withdrawn under section surcharge. 17F shall be a debt due to the Lembaga from the person surcharged and may be sued for and recovered in any court at the suit of the Lembaga and may also, if the Lembaga so directs, be recovered by deduction—
+<!-- marginal: surcharge. -->
+
+under section 17D(3).
+
+<!-- marginal: Withdrawal -->
+
+17F. Notwithstanding sections 17D(3) and
+
+<!-- marginal: of -->
+
+17E, the Lembaga may at any time withdraw
+
+<!-- marginal: surcharge. -->
+
+any surcharge in respect of which a satisfactory explanation has been received or if it otherwise appears that no surcharge should have been made, and the Lembaga shall forthwith notify the person surcharged of the withdrawal.
+
+<!-- marginal: Recovery -->
+
+17G. The amount of any surcharge made under
+
+<!-- marginal: of -->
+
+section 17D(3) and not withdrawn under section
+
+<!-- marginal: surcharge. -->
+
+17F shall be a debt due to the Lembaga from the person surcharged and may be sued for and recovered in any court at the suit of the Lembaga and may also, if the Lembaga so directs, be recovered by deduction—
 
 (a) from the salary of the person surcharged; or
 
@@ -146,7 +222,23 @@ Recovery 17G. The amount of any surcharge made under of section 17D(3) and not w
 
 by equal monthly instalments not exceeding one- fourth of the total monthly salary or pension, as the case may be, of that person.
 
-Composition 17H. In any action for surcharge against the of the General Manager, composition of the Lembaga Lembaga in special for the purposes of sections 17D and 17G shall cases. not include the General Manager.''.
+<!-- marginal: Composition -->
+
+17H. In any action for surcharge against the
+
+<!-- marginal: of the -->
+
+General Manager, composition of the Lembaga
+
+<!-- marginal: Lembaga -->
+
+<!-- marginal: in special -->
+
+for the purposes of sections 17D and 17G shall
+
+<!-- marginal: cases. -->
+
+not include the General Manager.''.
 
 <!-- page 8 -->
 

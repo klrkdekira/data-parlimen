@@ -4,21 +4,33 @@
 
 RANG UNDANG-UNDANG teNAGA boleh bAhARU 2010 SUSUNAN FASAl
 
-## Bahagian I
+## BAHAGIAN I
 
 PeRMUlAAN 1. tajuk ringkas dan permulaan kuat kuasa 2. tafsiran
 
-## Bahagian ii
+## BAHAGIAN II
 
-SISteM tARIF GAlAkAN 3. Pewujudan sistem tarif galakan 4. kelayakan bagi menyertai sistem tarif galakan 5. Permohonan bagi kelulusan galakan 6. Maklumat atau dokumen tambahan 7. Pemberian atau keengganan memberikan kelulusan galakan 8. Syarat bagi kelulusan galakan 9. kuasa untuk mengenakan syarat tambahan dan untuk mengubah atau membatalkan syarat 10. Pembatalan kelulusan galakan 11. Rayuan
+SISteM tARIF GAlAkAN 3. Pewujudan sistem tarif galakan 4. kelayakan bagi menyertai sistem tarif galakan 5. Permohonan bagi kelulusan galakan 6. Maklumat atau dokumen tambahan 7. Pemberian atau keengganan memberikan kelulusan galakan 8. Syarat bagi kelulusan galakan 9. kuasa untuk mengenakan syarat tambahan dan untuk mengubah atau membatalkan syarat
 
-## Bahagian iii
+10. Pembatalan kelulusan galakan
 
-PeNyAMbUNGAN, PeMbelIAN DAN PeNGAGIhAN teNAGA boleh bAhARU 12. Perjanjian pembelian kuasa tenaga boleh baharu 13. Penyambungan kepada talian bekalan 14. keutamaan pembelian dan pengagihan 15. kehendak teknikal dan pengendalian
+11. Rayuan
+
+## BAHAGIAN III
+
+PeNyAMbUNGAN, PeMbelIAN DAN PeNGAGIhAN teNAGA boleh bAhARU
+
+12. Perjanjian pembelian kuasa tenaga boleh baharu
+
+13. Penyambungan kepada talian bekalan
+
+14. keutamaan pembelian dan pengagihan
+
+15. kehendak teknikal dan pengendalian
 
 <!-- page 2 -->
 
-## Bahagian iV
+## BAHAGIAN IV
 
 tARIF GAlAkAN
 
@@ -36,7 +48,7 @@ tARIF GAlAkAN
 
 22. Penggunaan sumber secara curang untuk menjana elektrik
 
-## Bahagian V
+## BAHAGIAN V
 
 kUMPUlAN WANG teNAGA boleh bAhARU
 
@@ -50,7 +62,7 @@ kUMPUlAN WANG teNAGA boleh bAhARU
 
 27. Akaun
 
-## Bahagian Vi
+## BAHAGIAN VI
 
 kUASA MeNGUMPUlkAN MAklUMAt
 
@@ -72,13 +84,65 @@ kUASA MeNGUMPUlkAN MAklUMAt
 
 <!-- page 3 -->
 
-## Bahagian Vii
+## BAHAGIAN VII
 
-PeNGUAtkUASAAN 36. Pegawai diberi kuasa 37. kad kuasa 38. kuasa penyiasatan 39. Penggeledahan dan penyitaan dengan waran 40. Penggeledahan dan penyitaan tanpa waran 41. Capaian kepada data berkomputer 42. Waran boleh diterima walaupun cacat 43. Senarai benda yang disita 44. Pelepasan benda yang disita 45. kuasa untuk menghendaki kehadiran orang yang mempunyai pengetahuan tentang kes 46. Pemeriksaan orang yang mempunyai pengetahuan tentang kes 47. kebolehterimaan pernyataan sebagai keterangan 48. Pegawai diberi kuasa hendaklah menyiapkan penyiasatan dan menyerahkannya kepada polis 49. kos bagi memegang kelengkapan dsb., yang disita 50. tiada kos atau ganti rugi yang berbangkit daripada penyitaan boleh didapatkan 51. halangan 52. kuasa tambahan 53. Pengkompaunan kesalahan 54. Pendakwaan 55. kesalahan oleh pertubuhan perbadanan
+PeNGUAtkUASAAN
 
-## Bahagian Viii
+36. Pegawai diberi kuasa
 
-AM 56. laporan tentang pelaksanaan dan prestasi sistem tarif galakan 57. Pematuhan semua undang-undang lain 58. Arahan oleh Pihak berkuasa 59. Daftar 60. kuasa Menteri untuk membuat peraturan-peraturan 61. kuasa Pihak berkuasa untuk membuat kaedah-kaedah
+37. kad kuasa
+
+38. kuasa penyiasatan
+
+39. Penggeledahan dan penyitaan dengan waran
+
+40. Penggeledahan dan penyitaan tanpa waran
+
+41. Capaian kepada data berkomputer
+
+42. Waran boleh diterima walaupun cacat
+
+43. Senarai benda yang disita
+
+44. Pelepasan benda yang disita
+
+45. kuasa untuk menghendaki kehadiran orang yang mempunyai pengetahuan tentang kes
+
+46. Pemeriksaan orang yang mempunyai pengetahuan tentang kes
+
+47. kebolehterimaan pernyataan sebagai keterangan
+
+48. Pegawai diberi kuasa hendaklah menyiapkan penyiasatan dan menyerahkannya kepada polis
+
+49. kos bagi memegang kelengkapan dsb., yang disita
+
+50. tiada kos atau ganti rugi yang berbangkit daripada penyitaan boleh didapatkan
+
+51. halangan
+
+52. kuasa tambahan
+
+53. Pengkompaunan kesalahan
+
+54. Pendakwaan
+
+55. kesalahan oleh pertubuhan perbadanan
+
+## BAHAGIAN VIII
+
+AM
+
+56. laporan tentang pelaksanaan dan prestasi sistem tarif galakan
+
+57. Pematuhan semua undang-undang lain
+
+58. Arahan oleh Pihak berkuasa
+
+59. Daftar
+
+60. kuasa Menteri untuk membuat peraturan-peraturan
+
+61. kuasa Pihak berkuasa untuk membuat kaedah-kaedah
 
 <!-- page 4 -->
 
@@ -86,25 +150,29 @@ AM 56. laporan tentang pelaksanaan dan prestasi sistem tarif galakan 57. Pematuh
 
 63. kuasa Menteri untuk meminda Jadual
 
-## Bahagian iX
+## BAHAGIAN IX
 
 keCUAlIAN DAN PeRAlIhAN
 
 64. Penjana tenaga boleh baharu yang sedia ada
 
-65. lesen yang sedia ada J adual
+65. lesen yang sedia ada
+
+## J ADUAL
 
 <!-- page 5 -->
 
 bernama Suatu Akta untuk mengadakan peruntukan bagi mewujudkan dan melaksanakan suatu sistem tarif khas untuk memangkin penjanaan tenaga boleh baharu dan untuk mengadakan peruntukan bagi perkara yang berkaitan. [ ] DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian i
+## BAHAGIAN I
 
 PeRMUlAAN
 
 ### Tajuk ringkas dan permulaan kuat kuasa
 
-1. (1) Akta ini bolehlah dinamakan Akta tenaga boleh baharu 2010. (2) Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta, dan Menteri boleh menetapkan tarikh yang berlainan—
+1. (1) Akta ini bolehlah dinamakan Akta tenaga boleh baharu
+
+2010. (2) Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta, dan Menteri boleh menetapkan tarikh yang berlainan—
 
 (a) bagi permulaan kuat kuasa Akta ini di bahagian-bahagian yang berlainan di Malaysia;
 
@@ -130,7 +198,7 @@ PeRMUlAAN
 
 “tenaga boleh baharu” ertinya elektrik yang dijana atau dihasilkan daripada sumber boleh baharu.
 
-## Bahagian ii
+## BAHAGIAN II
 
 SISteM tARIF GAlAkAN
 
@@ -250,7 +318,7 @@ SISteM tARIF GAlAkAN
 
 <!-- page 15 -->
 
-## Bahagian iii
+## BAHAGIAN III
 
 PeNyAMbUNGAN, PeMbelIAN DAN PeNGAGIhAN teNAGA boleh bAhARU
 
@@ -290,7 +358,7 @@ PeNyAMbUNGAN, PeMbelIAN DAN PeNGAGIhAN teNAGA boleh bAhARU
 
 <!-- page 18 -->
 
-## Bahagian iV
+## BAHAGIAN IV
 
 tARIF GAlAkAN
 
@@ -364,7 +432,7 @@ tahun selepas tarikh Akta ini mula berkuat kuasa bagi maksud mempertingkatkan pr
 
 (3) Pihak berkuasa hendaklah menghendaki orang yang disebut dalam subseksyen (1) supaya membayar kepada Pihak berkuasa jumlah kerugian kepada kumpulan Wang yang disebabkan oleh pembayaran atau pembayaran yang lebih tinggi tarif galakan kepada orang itu di bawah subseksyen (1). (4) Jumlah yang dinyatakan dalam pernyataan bertulis di bawah subseksyen (2) yang tidak dibayar hendaklah dianggap sebagai suatu hutang sivil yang kena dibayar kepada Pihak berkuasa oleh orang itu dan boleh didapatkan melalui tindakan sivil di mahkamah.
 
-## Bahagian V
+## BAHAGIAN V
 
 kUMPUlAN WANG teNAGA boleh bAhARU
 
@@ -386,7 +454,9 @@ kUMPUlAN WANG teNAGA boleh bAhARU
 
 <!-- page 23 -->
 
-cara dan pada apa-apa kadar yang dinyatakan dalam perintah itu, sebahagian daripada tarif yang dikenakan oleh pemegang lesen pengagihan itu di bawah subseksyen 26(1) Akta bekalan elektrik 1990. (2) Seseorang pemegang lesen pengagihan yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu juta ringgit. (3) Suatu pernyataan bertulis oleh seorang pegawai Pihak berkuasa atau mana-mana orang yang diberi kuasa oleh Pihak berkuasa yang menyatakan—
+cara dan pada apa-apa kadar yang dinyatakan dalam perintah itu, sebahagian daripada tarif yang dikenakan oleh pemegang lesen pengagihan itu di bawah subseksyen 26(1) Akta bekalan elektrik
+
+1990. (2) Seseorang pemegang lesen pengagihan yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu juta ringgit. (3) Suatu pernyataan bertulis oleh seorang pegawai Pihak berkuasa atau mana-mana orang yang diberi kuasa oleh Pihak berkuasa yang menyatakan—
 
 (a) sebahagian tarif yang belum dibayar di bawah subseksyen (1) yang kena dibayar kepada kumpulan Wang; dan
 
@@ -418,7 +488,7 @@ cara dan pada apa-apa kadar yang dinyatakan dalam perintah itu, sebahagian darip
 
 <!-- page 25 -->
 
-## Bahagian Vi
+## BAHAGIAN VI
 
 kUASA MeNGUMPUlkAN MAklUMAt
 
@@ -440,7 +510,15 @@ kUASA MeNGUMPUlkAN MAklUMAt
 
 <!-- page 26 -->
 
-(b) supaya mengemukakan apa-apa dokumen sedemikian, sama ada dalam bentuk fizikal atau dalam media elektronik, kepada pegawai diberi kuasa mengikut cara dan dalam tempoh yang dinyatakan dalam notis itu atau apa-apa tempoh lanjutan yang diberikan oleh Pihak berkuasa; (C) supaya membuat salinan apa-apa dokumen sedemikian dan supaya mengemukakan salinan itu kepada pegawai diberi kuasa mengikut cara dan dalam tempoh yang dinyatakan dalam notis itu atau apa-apa tempoh lanjutan yang diberikan oleh Pihak berkuasa; (D) jika orang itu ialah seorang individu, supaya hadir, pada suatu pendengaran tertutup, di hadapan pegawai diberi kuasa pada masa dan di tempat yang dinyatakan dalam notis itu untuk memberikan apa-apa keterangan, sama ada secara lisan atau bertulis, dan mengemukakan apa- apa dokumen, sama ada dalam bentuk fizikal atau dalam media elektronik, mengikut cara dan dalam tempoh yang dinyatakan dalam notis itu atau apa-apa tempoh lanjutan yang diberikan oleh Pihak berkuasa; (e) jika orang itu ialah suatu pertubuhan perbadanan atau badan awam, supaya menyebabkan pegawai berwibawa pertubuhan perbadanan atau badan itu untuk hadir, pada suatu pendengaran tertutup, di hadapan pegawai diberi kuasa pada masa dan di tempat yang dinyatakan dalam notis itu untuk memberikan apa-apa keterangan, sama ada secara lisan atau bertulis, dan mengemukakan apa- apa dokumen, sama ada dalam bentuk fizikal atau dalam media elektronik, mengikut cara dan dalam tempoh yang dinyatakan dalam notis itu atau apa-apa tempoh lanjutan yang diberikan oleh Pihak berkuasa; atau (F) jika orang itu ialah suatu perkongsian, supaya menyebabkan seorang individu yang merupakan seorang rakan kongsi dalam perkongsian itu atau seorang pekerja dalam perkongsian itu untuk hadir, pada suatu pendengaran tertutup, di hadapan pegawai diberi kuasa pada masa dan di tempat yang dinyatakan dalam notis itu untuk memberikan apa-apa keterangan, sama ada secara lisan atau bertulis, dan mengemukakan apa-apa dokumen, sama ada dalam bentuk fizikal atau dalam media elektronik, mengikut cara dan dalam tempoh yang dinyatakan dalam notis itu atau apa-apa tempoh lanjutan yang diberikan oleh Pihak berkuasa.
+(b) supaya mengemukakan apa-apa dokumen sedemikian, sama ada dalam bentuk fizikal atau dalam media elektronik, kepada pegawai diberi kuasa mengikut cara dan dalam tempoh yang dinyatakan dalam notis itu atau apa-apa tempoh lanjutan yang diberikan oleh Pihak berkuasa;
+
+(C) supaya membuat salinan apa-apa dokumen sedemikian dan supaya mengemukakan salinan itu kepada pegawai diberi kuasa mengikut cara dan dalam tempoh yang dinyatakan dalam notis itu atau apa-apa tempoh lanjutan yang diberikan oleh Pihak berkuasa;
+
+(D) jika orang itu ialah seorang individu, supaya hadir, pada suatu pendengaran tertutup, di hadapan pegawai diberi kuasa pada masa dan di tempat yang dinyatakan dalam notis itu untuk memberikan apa-apa keterangan, sama ada secara lisan atau bertulis, dan mengemukakan apa- apa dokumen, sama ada dalam bentuk fizikal atau dalam media elektronik, mengikut cara dan dalam tempoh yang dinyatakan dalam notis itu atau apa-apa tempoh lanjutan yang diberikan oleh Pihak berkuasa;
+
+(e) jika orang itu ialah suatu pertubuhan perbadanan atau badan awam, supaya menyebabkan pegawai berwibawa pertubuhan perbadanan atau badan itu untuk hadir, pada suatu pendengaran tertutup, di hadapan pegawai diberi kuasa pada masa dan di tempat yang dinyatakan dalam notis itu untuk memberikan apa-apa keterangan, sama ada secara lisan atau bertulis, dan mengemukakan apa- apa dokumen, sama ada dalam bentuk fizikal atau dalam media elektronik, mengikut cara dan dalam tempoh yang dinyatakan dalam notis itu atau apa-apa tempoh lanjutan yang diberikan oleh Pihak berkuasa; atau
+
+(F) jika orang itu ialah suatu perkongsian, supaya menyebabkan seorang individu yang merupakan seorang rakan kongsi dalam perkongsian itu atau seorang pekerja dalam perkongsian itu untuk hadir, pada suatu pendengaran tertutup, di hadapan pegawai diberi kuasa pada masa dan di tempat yang dinyatakan dalam notis itu untuk memberikan apa-apa keterangan, sama ada secara lisan atau bertulis, dan mengemukakan apa-apa dokumen, sama ada dalam bentuk fizikal atau dalam media elektronik, mengikut cara dan dalam tempoh yang dinyatakan dalam notis itu atau apa-apa tempoh lanjutan yang diberikan oleh Pihak berkuasa.
 
 <!-- page 27 -->
 
@@ -480,7 +558,7 @@ kUASA MeNGUMPUlkAN MAklUMAt
 
 35. Seseorang yang tidak mematuhi perintah Pihak berkuasa mengikut bahagian ini melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya.
 
-## Bahagian Vii
+## BAHAGIAN VII
 
 PeNGUAtkUASAAN
 
@@ -652,7 +730,7 @@ perbuatan, peninggalan, pengabaian atau keingkaran mana-mana pekerja atau ejenny
 
 (c) oleh pekerja kepada ejen itu dalam penjalanan pekerjaannya dengan ejen itu atau selainnya bagi pihak ejen itu yang bertindak bagi pihak orang itu.
 
-## Bahagian Viii
+## BAHAGIAN VIII
 
 AM
 
@@ -688,7 +766,9 @@ AM
 
 <!-- page 43 -->
 
-(5) Selepas menimbangkan dengan sewajarnya apa-apa sebab yang diberikan oleh orang itu, Pihak berkuasa boleh, dengan notis bertulis, mengeluarkan suatu arahan di bawah subseksyen (1) secepat yang dapat dilaksanakan yang menghendaki orang itu supaya mengambil tindakan yang dinyatakan dengan tujuan untuk memastikan bahawa orang itu tidak melanggar atau tidak terus melanggar mana-mana syarat kelulusan galakan atau mana-mana peruntukan Akta ini atau perundangan subsidiarinya. (6) orang itu hendaklah mematuhi arahan yang dikeluarkan oleh Pihak berkuasa di bawah subseksyen (5). (7) Suatu arahan yang dibuat oleh Pihak berkuasa di bawah bahagian ini hendaklah didaftarkan dengan secepat yang dapat dilaksanakan. (8) Arahan itu hendaklah berkuat kuasa dari tarikh pendaftaran itu atau apa-apa tarikh kemudian yang dinyatakan oleh Pihak berkuasa dalam arahan itu. (9) Arahan itu hendaklah habis tempohnya pada apa-apa tarikh yang dinyatakan oleh Pihak berkuasa dalam notis bertulis itu atau jika tiada tarikh dinyatakan, arahan itu hendaklah terus berkuat kuasa sehingga arahan itu dibatalkan. (10) Pihak berkuasa boleh mengubah atau membatalkan sesuatu arahan dan tatacara yang dinyatakan dalam subseksyen (2), (3), (4), (5), (7), (8) dan (9) hendaklah terpakai mutatis mutandis berkenaan dengan apa-apa pengubahan atau pembatalan sesuatu arahan. (11) Seseorang yang tidak mematuhi arahan Pihak berkuasa di bawah seksyen ini melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya. (12) Pihak berkuasa hendaklah menyenggarakan suatu daftar mengenai semua arahan yang dikeluarkan oleh Pihak berkuasa di bawah seksyen ini, termasuk apa-apa pengubahan atau pembatalan sesuatu arahan.
+(5) Selepas menimbangkan dengan sewajarnya apa-apa sebab yang diberikan oleh orang itu, Pihak berkuasa boleh, dengan notis bertulis, mengeluarkan suatu arahan di bawah subseksyen (1) secepat yang dapat dilaksanakan yang menghendaki orang itu supaya mengambil tindakan yang dinyatakan dengan tujuan untuk memastikan bahawa orang itu tidak melanggar atau tidak terus melanggar mana-mana syarat kelulusan galakan atau mana-mana peruntukan Akta ini atau perundangan subsidiarinya. (6) orang itu hendaklah mematuhi arahan yang dikeluarkan oleh Pihak berkuasa di bawah subseksyen (5). (7) Suatu arahan yang dibuat oleh Pihak berkuasa di bawah bahagian ini hendaklah didaftarkan dengan secepat yang dapat dilaksanakan. (8) Arahan itu hendaklah berkuat kuasa dari tarikh pendaftaran itu atau apa-apa tarikh kemudian yang dinyatakan oleh Pihak berkuasa dalam arahan itu. (9) Arahan itu hendaklah habis tempohnya pada apa-apa tarikh yang dinyatakan oleh Pihak berkuasa dalam notis bertulis itu atau jika tiada tarikh dinyatakan, arahan itu hendaklah terus berkuat kuasa sehingga arahan itu dibatalkan. (10) Pihak berkuasa boleh mengubah atau membatalkan sesuatu arahan dan tatacara yang dinyatakan dalam subseksyen (2), (3),
+
+(4), (5), (7), (8) dan (9) hendaklah terpakai mutatis mutandis berkenaan dengan apa-apa pengubahan atau pembatalan sesuatu arahan. (11) Seseorang yang tidak mematuhi arahan Pihak berkuasa di bawah seksyen ini melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya. (12) Pihak berkuasa hendaklah menyenggarakan suatu daftar mengenai semua arahan yang dikeluarkan oleh Pihak berkuasa di bawah seksyen ini, termasuk apa-apa pengubahan atau pembatalan sesuatu arahan.
 
 <!-- page 44 -->
 
@@ -744,7 +824,7 @@ AM
 
 <!-- page 46 -->
 
-## Bahagian iX
+## BAHAGIAN IX
 
 keCUAlIAN DAN PeRAlIhAN
 
@@ -762,25 +842,25 @@ keCUAlIAN DAN PeRAlIhAN
 
 <!-- page 47 -->
 
-### a
+<!-- marginal: a -->
 
 ### n
 
-### m
+<!-- marginal: m -->
 
 ### a
 
-### i
+<!-- marginal: i -->
 
 ### g
 
-### l
+<!-- marginal: l -->
 
 ### n
 
 ### r
 
-### e
+<!-- marginal: e -->
 
 ### a
 
@@ -794,7 +874,7 @@ keCUAlIAN DAN PeRAlIhAN
 
 ### n
 
-### K
+<!-- marginal: K -->
 
 ### d
 
@@ -802,13 +882,7 @@ keCUAlIAN DAN PeRAlIhAN
 
 ### u
 
-<!-- marginal: 5 -->
-
-<!-- marginal: 5 -->
-
-<!-- marginal: 5 -->
-
-<!-- marginal: 5 -->
+5 5 5 5
 
 ### a
 
@@ -816,23 +890,17 @@ keCUAlIAN DAN PeRAlIhAN
 
 ### u
 
-### g
+<!-- marginal: g -->
 
 ### h
 
-<!-- marginal: 0 -->
-
-<!-- marginal: 0 -->
-
-<!-- marginal: 0 -->
-
-<!-- marginal: 0 -->
+0 0 0 0
 
 ### g
 
 ### K
 
-### n
+<!-- marginal: n -->
 
 ### a
 
@@ -840,17 +908,17 @@ keCUAlIAN DAN PeRAlIhAN
 
 ### n
 
-### a
+<!-- marginal: a -->
 
 ### e
 
-### u
+<!-- marginal: u -->
 
 ### p
 
-### R
+<!-- marginal: R -->
 
-### t
+<!-- marginal: t -->
 
 ### t
 
@@ -858,7 +926,7 @@ keCUAlIAN DAN PeRAlIhAN
 
 ### a
 
-### a
+<!-- marginal: a -->
 
 ### a
 
@@ -866,7 +934,7 @@ keCUAlIAN DAN PeRAlIhAN
 
 ### a
 
-### p
+<!-- marginal: p -->
 
 ### u
 
@@ -888,21 +956,15 @@ keCUAlIAN DAN PeRAlIhAN
 
 ### r
 
-### m
+<!-- marginal: m -->
 
 ### k
 
-<!-- marginal: n -->
-
-<!-- marginal: n -->
-
-<!-- marginal: n -->
-
-<!-- marginal: n -->
+n n n n
 
 ### m
 
-N
+<!-- marginal: N -->
 
 ### i
 
@@ -910,21 +972,15 @@ N
 
 ### r
 
-### e
+<!-- marginal: e -->
 
 ### a
 
 ### r
 
-<!-- marginal: u -->
+u u u u
 
-<!-- marginal: u -->
-
-<!-- marginal: u -->
-
-<!-- marginal: u -->
-
-A
+<!-- marginal: A -->
 
 ### n
 
@@ -936,19 +992,13 @@ A
 
 ### a
 
-### e
+<!-- marginal: e -->
 
 ### e
 
-<!-- marginal: h -->
+h h h h
 
-<!-- marginal: h -->
-
-<!-- marginal: h -->
-
-<!-- marginal: h -->
-
-D
+<!-- marginal: D -->
 
 ### a
 
@@ -958,31 +1008,19 @@ D
 
 ### k
 
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
+a a a a
 
 ### b
 
 ### t
 
-### K
+<!-- marginal: K -->
 
 ### a
 
 ### a
 
-<!-- marginal: t -->
-
-<!-- marginal: t -->
-
-<!-- marginal: t -->
-
-<!-- marginal: t -->
+t t t t
 
 ### (
 
@@ -990,7 +1028,7 @@ D
 
 ### l
 
-A
+<!-- marginal: A -->
 
 ### s
 
@@ -1000,21 +1038,15 @@ A
 
 ### h
 
-S
+<!-- marginal: S -->
 
-### g
+<!-- marginal: g -->
 
 ### u
 
 ### a
 
-<!-- marginal: 6 -->
-
-<!-- marginal: 6 -->
-
-<!-- marginal: 6 -->
-
-<!-- marginal: 6 -->
+6 6 6 6
 
 ### a
 
@@ -1024,19 +1056,13 @@ S
 
 ### k
 
-A
+<!-- marginal: A -->
 
-### n
+<!-- marginal: n -->
 
 ### s
 
-<!-- marginal: 1 -->
-
-<!-- marginal: 1 -->
-
-<!-- marginal: 1 -->
-
-<!-- marginal: 1 -->
+1 1 1 1
 
 ### i
 
@@ -1048,11 +1074,11 @@ A
 
 ### m
 
-### a
+<!-- marginal: a -->
 
 ### r
 
-U
+<!-- marginal: U -->
 
 ### a
 
@@ -1064,11 +1090,11 @@ U
 
 ### a
 
-### u
+<!-- marginal: u -->
 
 ### u
 
-k
+<!-- marginal: k -->
 
 ### e
 
@@ -1078,59 +1104,53 @@ k
 
 ### p
 
-### R
+<!-- marginal: R -->
 
-t A U
+<!-- marginal: t -->
 
-<!-- marginal: s -->
+<!-- marginal: A -->
 
-k
+<!-- marginal: U -->
 
-<!-- marginal: n -->
+s
 
-<!-- marginal: a -->
+<!-- marginal: k -->
+
+n a
 
 ### t
 
-R
+<!-- marginal: R -->
 
-<!-- marginal: a -->
-
-<!-- marginal: s -->
+a s
 
 ### m
 
 ### t
 
-### a
+<!-- marginal: a -->
 
-<!-- marginal: s -->
+s r s
 
-<!-- marginal: r -->
-
-s e
+<!-- marginal: e -->
 
 ### i
 
-<!-- marginal: h -->
+h
 
 ### f
 
-<!-- marginal: u -->
+u
 
 ### a
 
-f
-
-<!-- marginal: f -->
+f f
 
 ### a
 
-### g
+<!-- marginal: g -->
 
-<!-- marginal: a -->
-
-<!-- marginal: a -->
+a a
 
 ### i
 
@@ -1140,29 +1160,23 @@ a
 
 ### g
 
-i
+i i
+
+<!-- marginal: b -->
+
+a
 
 <!-- marginal: i -->
 
-b
-
-<!-- marginal: a -->
-
-### i
-
-<!-- marginal: n -->
+n
 
 ### r
 
-s
+s d
 
-<!-- marginal: d -->
+<!-- marginal: t -->
 
-### t
-
-r
-
-<!-- marginal: r -->
+r r
 
 ### w
 
@@ -1170,25 +1184,17 @@ r
 
 ### a
 
-<!-- marginal: b -->
-
-<!-- marginal: o -->
-
-<!-- marginal: n -->
+b o n
 
 ### a
 
-### e
+<!-- marginal: e -->
 
-a
+a a
 
-<!-- marginal: a -->
+<!-- marginal: h -->
 
-h a
-
-<!-- marginal: a -->
-
-<!-- marginal: 2 -->
+a a 2
 
 ### o
 
@@ -1198,1147 +1204,577 @@ h a
 
 ### )
 
-<!-- marginal: b -->
+b
 
 ### t
 
-<!-- marginal: a -->
-
-t
-
-<!-- marginal: t -->
-
-<!-- marginal: m -->
+a t t m
 
 ### l
 
-<!-- marginal: k -->
+k
 
 ### (
 
-<!-- marginal: 2 -->
+2 0 8 0
 
-<!-- marginal: 0 -->
-
-<!-- marginal: 8 -->
-
-<!-- marginal: 0 -->
-
-o
+<!-- marginal: o -->
 
 ### i
-
-### K
-
-<!-- marginal: k -->
-
-N .
-
-<!-- marginal: a -->
-
-n
-
-### t
-
-<!-- marginal: 3 -->
-
-<!-- marginal: 3 -->
-
-<!-- marginal: 2 -->
-
-P
-
-### m
-
-r
-
-<!-- marginal: r -->
-
-### r
-
-<!-- marginal: t -->
-
-<!-- marginal: n -->
-
-### i
-
-### k
-
-<!-- marginal: a -->
-
-. . .
-
-<!-- marginal: 0 -->
-
-<!-- marginal: a -->
-
-A a
-
-### n
-
-<!-- marginal: l -->
-
-### a
-
-a
-
-<!-- marginal: a -->
-
-### g
-
-### a
-
-<!-- marginal: a -->
-
-### g
-
-M
-
-<!-- marginal: 0 -->
-
-<!-- marginal: 0 -->
-
-<!-- marginal: 0 -->
-
-k
-
-<!-- marginal: d -->
-
-<!-- marginal: i -->
-
-### j
-
-N
-
-### a
-
-<!-- marginal: a -->
-
-d
-
-<!-- marginal: d -->
-
-<!-- marginal: k -->
-
-### p
-
-### n
-
-### d
-
-### g
-
-e + a
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-U
-
-### k
-
-<!-- marginal: g -->
-
-a
-
-<!-- marginal: a -->
-
-l
-
-<!-- marginal: a -->
-
-### a
-
-### a
-
-### a
-
-t
-
-### n
-
-<!-- marginal: p -->
-
-<!-- marginal: g -->
-
-<!-- marginal: l -->
-
-### i
-
-### a
-
-### i
-
-h a ,
-
-<!-- marginal: f -->
-
-### u
-
-K
 
 <!-- marginal: K -->
 
+k
+
+<!-- marginal: N -->
+
+. a n
+
+### t
+
+3 3 2
+
+<!-- marginal: P -->
+
+### m
+
+r r
+
+### r
+
+t n
+
+### i
+
+### k
+
+a . . . 0 a
+
+<!-- marginal: A -->
+
+a
+
+### n
+
+l
+
+### a
+
+a a
+
+<!-- marginal: g -->
+
+### a
+
+a
+
+### g
+
+<!-- marginal: M -->
+
+0 0 0 k d i
+
+### j
+
+<!-- marginal: N -->
+
+### a
+
+a d d k
+
+### p
+
+<!-- marginal: n -->
+
+### d
+
+### g
+
 <!-- marginal: e -->
+
++ a a a
+
+<!-- marginal: U -->
+
+### k
+
+g a a l a
+
+### a
+
+<!-- marginal: a -->
+
+### a
+
+<!-- marginal: t -->
+
+### n
+
+p g l
+
+### i
+
+### a
+
+### i
+
+<!-- marginal: h -->
+
+a , f
+
+<!-- marginal: u -->
+
+K K e
 
 ### t
 
 ### l
 
-<!-- marginal: a -->
-
-<!-- marginal: a -->
+a a
 
 ### K
 
 ### r
 
-<!-- marginal: i -->
+i
 
-A g
+<!-- marginal: A -->
 
-<!-- marginal: k -->
+g k
 
 ### e
 
-N
+<!-- marginal: N -->
 
 ### a
 
-<!-- marginal: b -->
+b r g
 
-<!-- marginal: r -->
+<!-- marginal: R -->
 
-<!-- marginal: g -->
-
-### R
-
-t
+<!-- marginal: t -->
 
 ### s
 
-<!-- marginal: e -->
+e
 
 ### g
 
-A
+<!-- marginal: A -->
 
-<!-- marginal: a -->
-
-<!-- marginal: s -->
-
-)
-
-<!-- marginal: t -->
-
-k N 2 A A l l
-
-<!-- marginal: t -->
-
-<!-- marginal: i -->
-
-n G a
-
-<!-- marginal: a -->
-
-e
-
-<!-- marginal: u -->
-
-A N u
-
-<!-- marginal: y -->
-
-y
+a s ) t
 
 <!-- marginal: k -->
 
-G A
+<!-- marginal: N -->
 
-<!-- marginal: i -->
+<!-- marginal: 2 -->
 
-d s
+<!-- marginal: A -->
 
-<!-- marginal: n -->
+<!-- marginal: A -->
 
-<!-- marginal: n -->
-
-<!-- marginal: r -->
-
-R a F
-
-### u
-
-k
-
-<!-- marginal: u -->
-
-<!-- marginal: a -->
-
-<!-- marginal: e -->
-
-<!-- marginal: n -->
-
-I J
-
-<!-- marginal: n -->
-
-U
-
-### r
-
-e
-
-<!-- marginal: p -->
-
-<!-- marginal: a -->
-
-<!-- marginal: d -->
-
-<!-- marginal: b -->
-
-R
-
-<!-- marginal: a -->
-
-### a
-
-G S
-
-<!-- marginal: d -->
-
-<!-- marginal: g -->
-
-A
-
-<!-- marginal: m -->
-
-(
-
-### h
-
-<!-- marginal: a -->
-
-N
-
-<!-- marginal: g -->
-
-t
-
-<!-- marginal: n -->
-
-<!-- marginal: e -->
-
-<!-- marginal: t -->
-
-### a
-
-<!-- marginal: a -->
-
-<!-- marginal: g -->
-
-e
-
-<!-- marginal: n -->
-
-<!-- marginal: t -->
-
-<!-- marginal: e -->
-
-P
-
-<!-- marginal: g -->
-
-<!-- marginal: g -->
-
-### b
-
-<!-- marginal: m -->
-
-R
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-<!-- marginal: d -->
-
-g :
-
-<!-- marginal: g -->
-
-<!-- marginal: n -->
-
-<!-- marginal: y -->
-
-% A R
-
-<!-- marginal: i -->
-
-<!-- marginal: s -->
-
-<!-- marginal: g -->
-
-n
-
-<!-- marginal: w -->
-
-### h
-
-<!-- marginal: n -->
-
-<!-- marginal: s -->
-
-<!-- marginal: 0 -->
-
-D
-
-<!-- marginal: a -->
-
-a
-
-<!-- marginal: i -->
-
-<!-- marginal: h -->
-
-<!-- marginal: n -->
-
-<!-- marginal: a -->
-
-A
-
-### e
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-<!-- marginal: t -->
-
-<!-- marginal: 4 -->
-
-### l
-
-<!-- marginal: e -->
-
-<!-- marginal: i -->
-
-<!-- marginal: a -->
-
-y A
-
-<!-- marginal: h -->
-
-<!-- marginal: g -->
-
-D
-
-<!-- marginal: g -->
-
-<!-- marginal: a -->
-
-<!-- marginal: r -->
-
-<!-- marginal: s -->
-
-### o
-
-<!-- marginal: e -->
-
-<!-- marginal: y -->
-
-<!-- marginal: e -->
-
-<!-- marginal: i -->
-
-k A
-
-<!-- marginal: e -->
-
-<!-- marginal: s -->
-
-u
-
-<!-- marginal: i -->
-
-### b
-
-<!-- marginal: h -->
-
-<!-- marginal: t -->
-
-<!-- marginal: n -->
-
-, r
-
-<!-- marginal: n -->
-
-<!-- marginal: u -->
-
-k
-
-<!-- marginal: m -->
-
-<!-- marginal: i -->
-
-<!-- marginal: i -->
-
-<!-- marginal: i -->
-
-:
-
-<!-- marginal: d -->
-
-<!-- marginal: r -->
-
-<!-- marginal: j -->
-
-U a
-
-<!-- marginal: r -->
-
-<!-- marginal: a -->
-
-<!-- marginal: n -->
-
-<!-- marginal: b -->
-
-g
-
-### a
-
-<!-- marginal: a -->
-
-)
-
-<!-- marginal: n -->
-
-<!-- marginal: 4 -->
-
-h
-
-<!-- marginal: k -->
-
-### a
-
-<!-- marginal: a -->
-
-<!-- marginal: d -->
-
-R
-
-<!-- marginal: e -->
-
-n
-
-### g
-
-<!-- marginal: h -->
+<!-- marginal: L -->
 
 <!-- marginal: l -->
 
-<!-- marginal: e -->
+t i
+
+<!-- marginal: n -->
+
+<!-- marginal: G -->
+
+<!-- marginal: A -->
 
 a
 
-<!-- marginal: a -->
+<!-- marginal: e -->
 
-<!-- marginal: d -->
+u
+
+<!-- marginal: A -->
+
+<!-- marginal: N -->
+
+<!-- marginal: U -->
+
+y
+
+<!-- marginal: y -->
+
+k
+
+<!-- marginal: G -->
+
+<!-- marginal: A -->
+
+i
+
+<!-- marginal: D -->
+
+<!-- marginal: s -->
+
+n n r
+
+<!-- marginal: R -->
+
+<!-- marginal: A -->
+
+<!-- marginal: F -->
 
 ### u
 
-A a
+<!-- marginal: k -->
+
+u a e n
+
+<!-- marginal: I -->
+
+<!-- marginal: J -->
+
+n
+
+<!-- marginal: U -->
+
+### r
+
+<!-- marginal: e -->
+
+p a d b
+
+<!-- marginal: R -->
+
+a
+
+### a
+
+<!-- marginal: G -->
+
+<!-- marginal: S -->
+
+d g
+
+<!-- marginal: A -->
+
+m (
+
+### h
+
+a
+
+<!-- marginal: N -->
+
+g
 
 <!-- marginal: t -->
 
-<!-- marginal: t -->
+n e t
 
-,
+### a
+
+a g
+
+<!-- marginal: e -->
+
+n t e
+
+<!-- marginal: P -->
+
+g g
+
+### b
+
+m
+
+<!-- marginal: R -->
+
+a a d g : g n y %
+
+<!-- marginal: A -->
+
+<!-- marginal: R -->
+
+i s g n w
+
+### h
+
+n s 0
+
+<!-- marginal: D -->
+
+a a i h n a
+
+<!-- marginal: A -->
+
+### e
+
+a a t 4
+
+### l
+
+e i a y
+
+<!-- marginal: A -->
+
+h g
+
+<!-- marginal: D -->
+
+g a r s
+
+### o
+
+e y e i
+
+<!-- marginal: k -->
+
+<!-- marginal: A -->
+
+e s u i
+
+### b
+
+h t n , r n u
+
+<!-- marginal: k -->
+
+m i i i : d r j
+
+<!-- marginal: U -->
+
+a r a n b g
+
+### a
+
+a ) n 4 h k
+
+<!-- marginal: a -->
+
+a d
+
+<!-- marginal: R -->
+
+e n
+
+### g
+
+h l e a a d
+
+<!-- marginal: u -->
+
+<!-- marginal: A -->
+
+a t t ,
 
 ### k
 
 ### a
 
-(
+( a e k h t t b t s i
 
-<!-- marginal: a -->
+<!-- marginal: d -->
 
-<!-- marginal: e -->
-
-<!-- marginal: k -->
+,
 
 <!-- marginal: h -->
 
-<!-- marginal: t -->
-
-<!-- marginal: t -->
-
-b
-
-<!-- marginal: t -->
-
-s
-
-<!-- marginal: i -->
-
-### d
-
-, h
-
 ### a
 
-<!-- marginal: i -->
-
-<!-- marginal: t -->
+i t
 
 ### n
 
-<!-- marginal: b -->
+b u a a t a
 
-<!-- marginal: u -->
+<!-- marginal: e -->
 
-<!-- marginal: a -->
+g m a
 
-<!-- marginal: a -->
-
-<!-- marginal: t -->
+### y
 
 a
 
 ### e
 
-<!-- marginal: g -->
+b
 
-<!-- marginal: m -->
+<!-- marginal: A -->
 
-<!-- marginal: a -->
-
-### y
-
-<!-- marginal: a -->
-
-### e
-
-<!-- marginal: b -->
-
-A
-
-<!-- marginal: t -->
-
-<!-- marginal: s -->
-
-h p
+t s h p
 
 ### t
 
-<!-- marginal: h -->
-
-<!-- marginal: o -->
-
-<!-- marginal: w -->
-
-<!-- marginal: w -->
-
-<!-- marginal: d -->
-
-<!-- marginal: e -->
+h o w w d e
 
 ### a
 
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-b e r
-
-### K
-
-<!-- marginal: l -->
-
-<!-- marginal: w -->
-
-<!-- marginal: l -->
-
-### l
-
-<!-- marginal: k -->
-
-<!-- marginal: e -->
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-l
-
-<!-- marginal: a -->
-
-e
-
-<!-- marginal: i -->
-
-<!-- marginal: l -->
-
-<!-- marginal: a -->
-
-<!-- marginal: o -->
-
-<!-- marginal: w -->
-
-<!-- marginal: m -->
-
-### n
-
-<!-- marginal: g -->
-
-<!-- marginal: g -->
-
-t o
-
-<!-- marginal: p -->
-
-<!-- marginal: r -->
-
-h
-
-### g
-
-<!-- marginal: o -->
-
-<!-- marginal: r -->
-
-<!-- marginal: a -->
-
-<!-- marginal: g -->
-
-### g
-
-<!-- marginal: u -->
-
-<!-- marginal: n -->
-
-<!-- marginal: t -->
-
-### a
-
-<!-- marginal: e -->
-
-<!-- marginal: e -->
-
-<!-- marginal: e -->
-
-b e i
-
-### n
-
-<!-- marginal: e -->
-
-<!-- marginal: e -->
+a a
 
 <!-- marginal: b -->
 
-<!-- marginal: a -->
+e r
 
-<!-- marginal: g -->
+<!-- marginal: K -->
 
-<!-- marginal: k -->
+l w l
 
-<!-- marginal: k -->
+### l
+
+k e a a l a e i l a o w m
 
 ### n
 
+g g t o p r
+
+<!-- marginal: h -->
+
+<!-- marginal: g -->
+
+o r a g
+
 ### g
 
-<!-- marginal: k -->
-
-t
-
-<!-- marginal: t -->
-
-l
-
-<!-- marginal: t -->
-
-<!-- marginal: m -->
-
-<!-- marginal: m -->
+u n t
 
 ### a
+
+e e e b
 
 <!-- marginal: e -->
 
 i
 
-<!-- marginal: e -->
+<!-- marginal: n -->
 
-<!-- marginal: e -->
-
-a
-
-### a
-
-<!-- marginal: a -->
+e e b a g k k
 
 ### n
 
-<!-- marginal: m -->
+### g
 
-<!-- marginal: a -->
-
-<!-- marginal: t -->
+k t t
 
 <!-- marginal: l -->
 
-o s
+t m m
 
-### u
+<!-- marginal: a -->
 
-g
-
-<!-- marginal: n -->
-
-### y
-
-<!-- marginal: n -->
-
-<!-- marginal: g -->
+e i e e a
 
 ### a
 
-<!-- marginal: m -->
+a
 
-<!-- marginal: e -->
+### n
 
-<!-- marginal: 0 -->
+m a t l
 
-<!-- marginal: 0 -->
+<!-- marginal: o -->
 
-a b a
+s
 
-<!-- marginal: a -->
+<!-- marginal: u -->
 
-<!-- marginal: a -->
+g n
+
+### y
+
+n g
+
+### a
+
+m e 0 0 a
+
+<!-- marginal: b -->
+
+a a a
 
 ### s
 
-<!-- marginal: 0 -->
+0 a u n
 
-<!-- marginal: a -->
+<!-- marginal: R -->
 
-<!-- marginal: u -->
-
-<!-- marginal: n -->
-
-### R
-
-<!-- marginal: 1 -->
-
-<!-- marginal: 3 -->
-
-p
-
-<!-- marginal: t -->
-
-n
-
-<!-- marginal: h -->
-
-<!-- marginal: d -->
+1 3 p t n h d
 
 ### a
 
-<!-- marginal: 4 -->
+4 1 a n n
 
-<!-- marginal: 1 -->
+<!-- marginal: R -->
 
-<!-- marginal: a -->
-
-<!-- marginal: n -->
-
-<!-- marginal: n -->
-
-R a
-
-<!-- marginal: a -->
-
-e
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-<!-- marginal: e -->
-
-<!-- marginal: a -->
+a a e a a e a
 
 ### p
 
-e
+<!-- marginal: e -->
 
-<!-- marginal: k -->
-
-<!-- marginal: k -->
-
-t k
-
-<!-- marginal: i -->
-
-<!-- marginal: i -->
-
-<!-- marginal: s -->
-
-<!-- marginal: t -->
-
-<!-- marginal: a -->
-
-<!-- marginal: b -->
-
-<!-- marginal: n -->
-
-<!-- marginal: p -->
+k k t k i i s t a b n p
 
 ### e
 
-<!-- marginal: u -->
+u u
 
-<!-- marginal: u -->
+<!-- marginal: b -->
 
-b
-
-<!-- marginal: h -->
-
-<!-- marginal: h -->
-
-<!-- marginal: g -->
-
-i
-
-<!-- marginal: a -->
-
-<!-- marginal: i -->
-
-<!-- marginal: i -->
-
-<!-- marginal: u -->
-
-<!-- marginal: s -->
-
-<!-- marginal: s -->
-
-n
-
-<!-- marginal: n -->
-
-<!-- marginal: a -->
+h h g i a i i u s s n n a
 
 ### p
 
-<!-- marginal: m -->
+m g a
 
-<!-- marginal: g -->
+<!-- marginal: M -->
 
-a M
+a a k b b g a a n a n y t
 
-<!-- marginal: a -->
+<!-- marginal: U -->
 
-<!-- marginal: a -->
-
-<!-- marginal: k -->
-
-<!-- marginal: b -->
-
-<!-- marginal: b -->
-
-<!-- marginal: g -->
-
-a
-
-<!-- marginal: a -->
-
-<!-- marginal: n -->
-
-<!-- marginal: a -->
-
-<!-- marginal: n -->
-
-y
-
-<!-- marginal: t -->
-
-U
-
-<!-- marginal: e -->
-
-<!-- marginal: e -->
-
-<!-- marginal: e -->
-
-<!-- marginal: g -->
-
-g
-
-<!-- marginal: g -->
+e e e g g g
 
 ### n
 
-<!-- marginal: a -->
+a i m m l l n
 
-<!-- marginal: i -->
+<!-- marginal: S -->
 
-<!-- marginal: m -->
-
-<!-- marginal: m -->
-
-<!-- marginal: l -->
-
-<!-- marginal: l -->
-
-n S
-
-<!-- marginal: c -->
-
-<!-- marginal: n -->
-
-n
-
-<!-- marginal: n -->
+c n n n
 
 ### a
 
-<!-- marginal: i -->
-
-<!-- marginal: r -->
-
-<!-- marginal: r -->
-
-<!-- marginal: h -->
-
-<!-- marginal: e -->
-
-<!-- marginal: e -->
-
-<!-- marginal: m -->
-
-<!-- marginal: e -->
+i r r h e e m e
 
 ### l
 
-u
-
-<!-- marginal: e -->
-
-a
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-<!-- marginal: e -->
-
-<!-- marginal: e -->
-
-<!-- marginal: e -->
-
--
-
-<!-- marginal: t -->
-
-<!-- marginal: t -->
-
-<!-- marginal: k -->
+u e a a a e e e - t t k
 
 ### a
 
-p s
-
-<!-- marginal: s -->
-
-<!-- marginal: s -->
-
-<!-- marginal: m -->
-
-<!-- marginal: m -->
-
-<!-- marginal: p -->
-
-<!-- marginal: g -->
-
-<!-- marginal: a -->
-
-a
-
-<!-- marginal: a -->
+p s s s m m p g a a a
 
 ### h
 
-<!-- marginal: a -->
-
-m
-
-<!-- marginal: n -->
+a m n
 
 ### i
 
-p
-
-<!-- marginal: p -->
-
-<!-- marginal: b -->
-
-e
-
-<!-- marginal: a -->
-
-)
+p p b e a )
 
 ### r
 
-) e
-
-<!-- marginal: e -->
-
-<!-- marginal: i -->
-
-) )
-
-<!-- marginal: e -->
-
-<!-- marginal: i -->
+) e e i ) ) e i
 
 ### e
 
-<!-- marginal: i -->
-
-<!-- marginal: i -->
-
-<!-- marginal: i -->
-
-<!-- marginal: i -->
-
-P m
-
-<!-- marginal: P -->
-
-<!-- marginal: m -->
-
-<!-- marginal: s -->
-
-<!-- marginal: i -->
-
-( ( (
+i i i i P m P m s i ( ( (
 
 ### P
 
-( ) ) a
-
-<!-- marginal: b -->
-
-( (
+( ) ) a b ( (
 
 ### r
 
-### a
+<!-- marginal: a -->
 
 ### u
 
@@ -2346,7 +1782,7 @@ P m
 
 ### e
 
-### g
+<!-- marginal: g -->
 
 ### h
 
@@ -2354,11 +1790,11 @@ P m
 
 ### g
 
-### m
+<!-- marginal: m -->
 
 ### b
 
-### n
+<!-- marginal: n -->
 
 ### e
 
@@ -2370,13 +1806,13 @@ s
 
 ### l
 
-### a
+<!-- marginal: a -->
 
-### a
+<!-- marginal: a -->
 
 a
 
-### t
+<!-- marginal: t -->
 
 ### h
 
@@ -2386,11 +1822,11 @@ a
 
 ### n
 
-### u
+<!-- marginal: u -->
 
 g
 
-### r
+<!-- marginal: r -->
 
 ### a
 
@@ -2400,7 +1836,7 @@ g
 
 ### b
 
-### e
+<!-- marginal: e -->
 
 o
 
@@ -2408,37 +1844,37 @@ o
 
 ### b
 
-### R
+<!-- marginal: R -->
 
 ### S
 
 i
 
-### P
+<!-- marginal: P -->
 
 b
 
 <!-- page 48 -->
 
-### a
+<!-- marginal: a -->
 
 ### n
 
-### m
+<!-- marginal: m -->
 
 ### a
 
-### i
+<!-- marginal: i -->
 
 ### g
 
-### l
+<!-- marginal: l -->
 
 ### n
 
 ### r
 
-### e
+<!-- marginal: e -->
 
 ### a
 
@@ -2452,7 +1888,7 @@ b
 
 ### n
 
-### K
+<!-- marginal: K -->
 
 ### d
 
@@ -2460,9 +1896,7 @@ b
 
 ### u
 
-5 8 5 5
-
-<!-- marginal: 5 -->
+5 8 5 5 5
 
 <!-- marginal: 5 -->
 
@@ -2472,13 +1906,11 @@ b
 
 ### u
 
-### g
+<!-- marginal: g -->
 
 ### h
 
-0 1 0 0
-
-<!-- marginal: 0 -->
+0 1 0 0 0
 
 <!-- marginal: 0 -->
 
@@ -2486,7 +1918,7 @@ b
 
 ### K
 
-### n
+<!-- marginal: n -->
 
 ### a
 
@@ -2494,17 +1926,17 @@ b
 
 ### n
 
-### a
+<!-- marginal: a -->
 
 ### e
 
-### u
+<!-- marginal: u -->
 
 ### p
 
-### R
+<!-- marginal: R -->
 
-### t
+<!-- marginal: t -->
 
 ### t
 
@@ -2512,7 +1944,7 @@ b
 
 ### a
 
-### a
+<!-- marginal: a -->
 
 ### a
 
@@ -2520,7 +1952,7 @@ b
 
 ### a
 
-### p
+<!-- marginal: p -->
 
 ### u
 
@@ -2542,13 +1974,11 @@ b
 
 ### r
 
-### m
+<!-- marginal: m -->
 
 ### k
 
-n n n n
-
-<!-- marginal: n -->
+n n n n n
 
 <!-- marginal: n -->
 
@@ -2560,13 +1990,11 @@ n n n n
 
 ### r
 
-### e
+<!-- marginal: e -->
 
 ### a
 
-u u u u
-
-<!-- marginal: u -->
+u u u u u
 
 <!-- marginal: u -->
 
@@ -2582,13 +2010,11 @@ u u u u
 
 ### a
 
-### e
+<!-- marginal: e -->
 
 ### e
 
-h h h h
-
-<!-- marginal: h -->
+h h h h h
 
 <!-- marginal: h -->
 
@@ -2600,9 +2026,7 @@ h h h h
 
 ### k
 
-a a a a
-
-<!-- marginal: a -->
+a a a a a
 
 <!-- marginal: a -->
 
@@ -2610,15 +2034,13 @@ a a a a
 
 ### t
 
-### K
+<!-- marginal: K -->
 
 ### a
 
 ### a
 
-t t t t
-
-<!-- marginal: t -->
+t t t t t
 
 <!-- marginal: t -->
 
@@ -2636,15 +2058,13 @@ t t t t
 
 ### h
 
-### g
+<!-- marginal: g -->
 
 ### u
 
 ### a
 
-6 6 6 6
-
-<!-- marginal: 6 -->
+6 6 6 6 6
 
 <!-- marginal: 6 -->
 
@@ -2656,11 +2076,9 @@ t t t t
 
 ### k
 
-### n
+<!-- marginal: n -->
 
-1 1 1 1
-
-<!-- marginal: 1 -->
+1 1 1 1 1
 
 <!-- marginal: 1 -->
 
@@ -2676,7 +2094,7 @@ t t t t
 
 ### m
 
-### a
+<!-- marginal: a -->
 
 ### r
 
@@ -2690,7 +2108,7 @@ t t t t
 
 ### a
 
-### u
+<!-- marginal: u -->
 
 ### u
 
@@ -2702,7 +2120,7 @@ t t t t
 
 ### p
 
-### R
+<!-- marginal: R -->
 
 <!-- marginal: s -->
 
@@ -2714,13 +2132,13 @@ t t t t
 
 <!-- marginal: a -->
 
-<!-- marginal: s -->
+s
 
 ### m
 
 ### t
 
-### a
+<!-- marginal: a -->
 
 <!-- marginal: s -->
 
@@ -2734,17 +2152,15 @@ s
 
 ### f
 
-<!-- marginal: u -->
+u
 
 ### a
 
-f
-
-<!-- marginal: f -->
+f f
 
 ### a
 
-### g
+<!-- marginal: g -->
 
 <!-- marginal: a -->
 
@@ -2758,15 +2174,13 @@ a
 
 ### g
 
-i
-
-<!-- marginal: i -->
+i i
 
 <!-- marginal: a -->
 
-### i
+<!-- marginal: i -->
 
-<!-- marginal: n -->
+n
 
 ### r
 
@@ -2774,11 +2188,9 @@ s
 
 <!-- marginal: d -->
 
-### t
+<!-- marginal: t -->
 
-r
-
-<!-- marginal: r -->
+r r
 
 ### w
 
@@ -2788,23 +2200,19 @@ r
 
 <!-- marginal: b -->
 
-<!-- marginal: o -->
+o
 
 <!-- marginal: n -->
 
 ### a
 
-### e
+<!-- marginal: e -->
 
 a
 
 <!-- marginal: a -->
 
-a
-
-<!-- marginal: a -->
-
-1 8
+a a 1 8
 
 <!-- marginal: 2 -->
 
@@ -2816,15 +2224,13 @@ a
 
 ### )
 
-<!-- marginal: b -->
+b
 
 <!-- marginal: a -->
 
 ### t
 
-t
-
-<!-- marginal: t -->
+t t
 
 <!-- marginal: m -->
 
@@ -2834,17 +2240,13 @@ t
 
 ### (
 
-1 9
-
-<!-- marginal: 7 -->
-
-0 0
+1 9 7 0 0
 
 <!-- marginal: 0 -->
 
 ### i
 
-### K
+<!-- marginal: K -->
 
 <!-- marginal: k -->
 
@@ -2856,21 +2258,17 @@ n
 
 ### t
 
-3 2
-
-<!-- marginal: 2 -->
+3 2 2
 
 ### m
 
-r
-
-<!-- marginal: r -->
+r r
 
 ### r
 
 <!-- marginal: t -->
 
-<!-- marginal: n -->
+n
 
 ### i
 
@@ -2892,23 +2290,17 @@ a
 
 ### a
 
-a
+a a
 
-<!-- marginal: a -->
-
-### g
+<!-- marginal: g -->
 
 ### a
 
-<!-- marginal: a -->
+a
 
 ### g
 
-0 0
-
-<!-- marginal: 0 -->
-
-k
+0 0 0 k
 
 <!-- marginal: d -->
 
@@ -2920,15 +2312,11 @@ k
 
 <!-- marginal: a -->
 
-d
-
-<!-- marginal: d -->
-
-<!-- marginal: k -->
+d d k
 
 ### p
 
-### n
+<!-- marginal: n -->
 
 ### d
 
@@ -2944,17 +2332,11 @@ d
 
 <!-- marginal: g -->
 
-a
-
-<!-- marginal: a -->
-
-l
-
-<!-- marginal: a -->
+a a l a
 
 ### a
 
-### a
+<!-- marginal: a -->
 
 ### a
 
@@ -2964,7 +2346,7 @@ l
 
 <!-- marginal: g -->
 
-<!-- marginal: l -->
+l
 
 ### i
 
@@ -2976,11 +2358,9 @@ a
 
 <!-- marginal: f -->
 
-### u
+<!-- marginal: u -->
 
-K
-
-<!-- marginal: K -->
+K K
 
 <!-- marginal: e -->
 
@@ -2990,7 +2370,7 @@ K
 
 <!-- marginal: a -->
 
-<!-- marginal: a -->
+a
 
 ### K
 
@@ -3010,9 +2390,9 @@ g
 
 <!-- marginal: r -->
 
-<!-- marginal: g -->
+g
 
-### R
+<!-- marginal: R -->
 
 ### s
 
@@ -3026,55 +2406,25 @@ g
 
 <!-- marginal: t -->
 
-t a
-
-<!-- marginal: a -->
-
-u
+t a a u i
 
 <!-- marginal: i -->
 
-<!-- marginal: i -->
-
-b
-
-<!-- marginal: r -->
-
-n
-
-<!-- marginal: n -->
-
-i
+b r n n i
 
 ### u
 
 <!-- marginal: d -->
 
-<!-- marginal: e -->
-
-a
-
-<!-- marginal: a -->
-
-<!-- marginal: t -->
-
-d
+e a a t d
 
 ### r
 
-d
-
-<!-- marginal: d -->
-
-<!-- marginal: i -->
-
-)
+d d i )
 
 ### a
 
-<!-- marginal: r -->
-
-s i g
+r s i g
 
 <!-- marginal: a -->
 
@@ -3082,61 +2432,29 @@ t a
 
 ### h
 
-a
-
-<!-- marginal: a -->
-
-<!-- marginal: k -->
-
-p ( t n g
+a a k p ( t n g
 
 ### a
 
-g
-
-<!-- marginal: g -->
-
-a a a
-
-<!-- marginal: h -->
+g g a a a h
 
 <!-- marginal: a -->
 
-g
-
-<!-- marginal: g -->
+g g
 
 ### b
 
 <!-- marginal: n -->
 
-<!-- marginal: i -->
-
-y g
-
-<!-- marginal: g -->
-
-u w n
+i y g g u w n
 
 <!-- marginal: d -->
 
-n
-
-<!-- marginal: n -->
+n n
 
 <!-- marginal: a -->
 
-<!-- marginal: b -->
-
-i
-
-<!-- marginal: i -->
-
-a n
-
-<!-- marginal: n -->
-
-a a
+b i i a n n a a
 
 <!-- marginal: a -->
 
@@ -3146,23 +2464,7 @@ s
 
 <!-- marginal: s -->
 
-t
-
-<!-- marginal: e -->
-
-a
-
-<!-- marginal: a -->
-
-h
-
-<!-- marginal: h -->
-
-g
-
-<!-- marginal: l -->
-
-h
+t e a a h h g l h
 
 ### e
 
@@ -3176,15 +2478,7 @@ n a
 
 ### l
 
-e
-
-<!-- marginal: e -->
-
-y
-
-<!-- marginal: y -->
-
-e a
+e e y y e a
 
 <!-- marginal: e -->
 
@@ -3192,29 +2486,17 @@ g
 
 <!-- marginal: g -->
 
-a s
-
-<!-- marginal: s -->
+a s s
 
 ### o
 
-t
-
-<!-- marginal: u -->
-
-b
+t u b
 
 <!-- marginal: k -->
 
 <!-- marginal: e -->
 
-n m u
-
-<!-- marginal: u -->
-
-a
-
-<!-- marginal: a -->
+n m u u a a
 
 ### b
 
@@ -3222,17 +2504,7 @@ n a
 
 <!-- marginal: g -->
 
-r
-
-<!-- marginal: r -->
-
-n
-
-<!-- marginal: n -->
-
-<!-- marginal: t -->
-
-r i : p
+r r n n t r i : p
 
 <!-- marginal: n -->
 
@@ -3240,17 +2512,7 @@ s j
 
 <!-- marginal: n -->
 
-0 a
-
-<!-- marginal: a -->
-
-a
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-e g
+0 a a a a a e g
 
 ### a
 
@@ -3260,17 +2522,11 @@ u
 
 <!-- marginal: e -->
 
-n 1 h
+n 1 h h
 
-<!-- marginal: h -->
+<!-- marginal: a -->
 
-### a
-
-d
-
-<!-- marginal: d -->
-
-m b n
+d d m b n
 
 ### g
 
@@ -3280,21 +2536,11 @@ p e
 
 <!-- marginal: p -->
 
+u a a e
+
 <!-- marginal: u -->
 
-a
-
-<!-- marginal: a -->
-
-e
-
-### u
-
-a t
-
-<!-- marginal: t -->
-
-, ,
+a t t , ,
 
 ### k
 
@@ -3302,67 +2548,39 @@ a t
 
 <!-- marginal: a -->
 
-<!-- marginal: t -->
-
-t u m k t
-
-<!-- marginal: t -->
-
-b
-
-<!-- marginal: b -->
-
-t
-
-<!-- marginal: t -->
-
-s i
+t t u m k t t b b t t s i
 
 <!-- marginal: i -->
 
 l
 
-### d
+<!-- marginal: d -->
 
-<!-- marginal: a -->
+a
 
 ### a
 
 <!-- marginal: b -->
 
-t
-
-<!-- marginal: t -->
+t t
 
 ### n
 
-u u a
+u u a a a e s
 
-<!-- marginal: a -->
-
-a e
-
-<!-- marginal: s -->
-
-### e
+<!-- marginal: e -->
 
 g
 
 <!-- marginal: g -->
 
-a a
-
-<!-- marginal: a -->
+a a a
 
 ### y
 
 ### e
 
-s s h
-
-<!-- marginal: h -->
-
-r
+s s h h r
 
 <!-- marginal: m -->
 
@@ -3374,29 +2592,19 @@ p o
 
 <!-- marginal: o -->
 
-w
-
-<!-- marginal: w -->
+w w
 
 ### a
 
-a e
+a e e r
 
-<!-- marginal: e -->
-
-r
-
-### K
+<!-- marginal: K -->
 
 l
 
 <!-- marginal: l -->
 
-<!-- marginal: a -->
-
-a w
-
-<!-- marginal: w -->
+a a w w
 
 <!-- marginal: a -->
 
@@ -3404,47 +2612,23 @@ i
 
 ### l
 
-a
-
-<!-- marginal: a -->
-
-l
-
-<!-- marginal: l -->
+a a l l
 
 <!-- marginal: t -->
 
-e c a
-
-<!-- marginal: a -->
-
-a o
+e c a a a o
 
 <!-- marginal: o -->
 
-<!-- marginal: n -->
-
-k m
+n k m
 
 ### n
 
-g
+g g t o o
 
 <!-- marginal: g -->
 
-t o
-
-<!-- marginal: o -->
-
-### g
-
-e r
-
-<!-- marginal: a -->
-
-g
-
-<!-- marginal: g -->
+e r a g g
 
 ### g
 
@@ -3458,23 +2642,11 @@ n a
 
 ### a
 
-e
+e e b b s i
 
-<!-- marginal: e -->
+<!-- marginal: n -->
 
-b
-
-<!-- marginal: b -->
-
-s i
-
-### n
-
-e e
-
-<!-- marginal: e -->
-
-a
+e e e a
 
 <!-- marginal: a -->
 
@@ -3486,15 +2658,9 @@ k p
 
 ### g
 
-t t
+t t m m m
 
-<!-- marginal: m -->
-
-m
-
-<!-- marginal: m -->
-
-### a
+<!-- marginal: a -->
 
 i b
 
@@ -3504,9 +2670,7 @@ e a
 
 <!-- marginal: e -->
 
-a
-
-<!-- marginal: a -->
+a a
 
 ### a
 
@@ -3514,11 +2678,7 @@ a
 
 ### n
 
-m
-
-<!-- marginal: m -->
-
-g t t
+m m g t t
 
 <!-- marginal: t -->
 
@@ -3526,13 +2686,9 @@ s e
 
 <!-- marginal: a -->
 
-### u
+<!-- marginal: u -->
 
-<!-- marginal: a -->
-
-g
-
-<!-- marginal: g -->
+a g g
 
 ### y
 
@@ -3540,59 +2696,31 @@ n
 
 ### a
 
-n 0
-
-<!-- marginal: 0 -->
-
-a s
+n 0 0 a s
 
 <!-- marginal: b -->
 
-a
-
-<!-- marginal: a -->
-
-a
-
-<!-- marginal: n -->
+a a a n
 
 ### s
 
-0
-
-<!-- marginal: 0 -->
-
-n n
+0 0 n n
 
 <!-- marginal: n -->
 
 a
 
-### R
+<!-- marginal: R -->
 
-2
-
-<!-- marginal: 3 -->
-
-p
+2 3 p
 
 <!-- marginal: e -->
 
-<!-- marginal: a -->
-
-n
-
-<!-- marginal: n -->
-
-d s
+a n n d s
 
 ### a
 
-1
-
-<!-- marginal: 2 -->
-
-a a
+1 2 a a
 
 <!-- marginal: a -->
 
@@ -3600,33 +2728,13 @@ n a
 
 <!-- marginal: s -->
 
-e
-
-<!-- marginal: e -->
-
-a a a
+e e a a a
 
 <!-- marginal: a -->
 
 ### p
 
-a k
-
-<!-- marginal: k -->
-
-t
-
-<!-- marginal: t -->
-
-k
-
-<!-- marginal: m -->
-
-i
-
-<!-- marginal: i -->
-
-a
+a k k t t k m i i a
 
 <!-- marginal: t -->
 
@@ -3636,91 +2744,41 @@ p n n
 
 ### e
 
-h u
+h u u h h i g i i
 
 <!-- marginal: u -->
 
-h
-
-<!-- marginal: h -->
-
-i g i
-
-<!-- marginal: i -->
+u u i i
 
 <!-- marginal: u -->
 
-u u i
-
-<!-- marginal: i -->
-
-<!-- marginal: u -->
-
-s
-
-<!-- marginal: s -->
-
-a n
-
-<!-- marginal: n -->
+s s a n n
 
 ### p
 
-d g a
-
-<!-- marginal: a -->
+d g a a
 
 <!-- marginal: k -->
 
-a
-
-<!-- marginal: a -->
-
-g g b
-
-<!-- marginal: b -->
+a a g g b b
 
 <!-- marginal: g -->
 
-a
-
-<!-- marginal: a -->
-
-b
+a a b
 
 <!-- marginal: i -->
 
-n y
+n y y e e g g
 
-<!-- marginal: y -->
-
-e
-
-<!-- marginal: e -->
+<!-- marginal: g -->
 
 g g
-
-<!-- marginal: g -->
-
-g
-
-<!-- marginal: g -->
 
 <!-- marginal: r -->
 
 ### n
 
-i u m
-
-<!-- marginal: m -->
-
-l
-
-<!-- marginal: l -->
-
-m n
-
-<!-- marginal: n -->
+i u m m l l m n n
 
 <!-- marginal: e -->
 
@@ -3728,105 +2786,57 @@ n n
 
 <!-- marginal: n -->
 
-n
-
-<!-- marginal: n -->
+n n
 
 ### a
 
-a r
-
-<!-- marginal: r -->
-
-h e
-
-<!-- marginal: e -->
-
-u
+a r r h e e u
 
 ### l
 
-u
-
-<!-- marginal: u -->
-
-t e e
+u u t e e
 
 <!-- marginal: e -->
 
-a
-
-<!-- marginal: a -->
+a a
 
 <!-- marginal: b -->
 
-e
-
-<!-- marginal: e -->
-
-e a k t
-
-<!-- marginal: t -->
+e e e a k t t
 
 ### a
 
-p
+p p s s p p s m m
 
 <!-- marginal: p -->
 
-s
-
-<!-- marginal: s -->
-
-p p s m
-
-<!-- marginal: m -->
-
-<!-- marginal: p -->
-
-: a
-
-<!-- marginal: a -->
+: a a
 
 <!-- marginal: g -->
 
 ### h
 
-m
-
-<!-- marginal: m -->
+m m
 
 <!-- marginal: s -->
 
 ### i
 
-p
-
-<!-- marginal: p -->
+p p
 
 <!-- marginal: n -->
 
-e
-
-<!-- marginal: e -->
-
-) )
+e e ) )
 
 <!-- marginal: a -->
 
 ### r
 
-) ) e
-
-<!-- marginal: e -->
+) ) e e
 
 <!-- marginal: a -->
 
-i
-
-<!-- marginal: i -->
-
-) )
+i i ) )
 
 <!-- marginal: t -->
 
@@ -3834,7 +2844,471 @@ i i
 
 ### e
 
+i i i
+
+<!-- marginal: i -->
+
+i i P m P m
+
+<!-- marginal: y -->
+
+<!-- marginal: a -->
+
+i i ( ( ( (
+
+### P
+
+( ( ) ) a b ( (
+
+### r
+
+<!-- marginal: a -->
+
+### u
+
+### a
+
+### e
+
+<!-- marginal: g -->
+
+### h
+
+### r
+
+### g
+
+m
+
+<!-- marginal: m -->
+
+### b
+
+<!-- marginal: n -->
+
+### e
+
 i
+
+### a
+
+### a
+
+### l
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+s
+
+<!-- marginal: t -->
+
+### h
+
+### m
+
+### o
+
+i
+
+### n
+
+<!-- marginal: u -->
+
+j
+
+<!-- marginal: r -->
+
+### a
+
+### e
+
+### u
+
+### b
+
+<!-- marginal: e -->
+
+o
+
+### t
+
+### b
+
+<!-- marginal: R -->
+
+### S
+
+i
+
+<!-- marginal: P -->
+
+b
+
+<!-- page 49 -->
+
+% % % % % % % % % %
+
+<!-- marginal: 5 -->
+
+<!-- marginal: 5 -->
+
+8 0 0 0 0 0 . . . . . . . . 0 0
+
+<!-- marginal: 0 -->
+
+<!-- marginal: 0 -->
+
+1 8 8 8 8 8
+
+<!-- marginal: n -->
+
+<!-- marginal: n -->
+
+n n n n n n n n
+
+<!-- marginal: u -->
+
+<!-- marginal: u -->
+
+u u u u u u u u
+
+<!-- marginal: h -->
+
+<!-- marginal: h -->
+
+h h h h h h h h
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+a a a a a a a a
+
+<!-- marginal: t -->
+
+<!-- marginal: t -->
+
+t t t t t t t t
+
+<!-- marginal: 6 -->
+
+<!-- marginal: 6 -->
+
+6 1 1 1 1 1 1 1
+
+<!-- marginal: 1 -->
+
+<!-- marginal: 1 -->
+
+1 2 2 2 2 2 2 2 s f a i s r a a
+
+<!-- marginal: 1 -->
+
+<!-- marginal: 1 -->
+
+0 4 3 t 3 0 8 4 5
+
+<!-- marginal: 0 -->
+
+<!-- marginal: 0 -->
+
+1 2 2 . . . n 2 2 1 1 9 . . r . . . . .
+
+<!-- marginal: 0 -->
+
+<!-- marginal: 0 -->
+
+0 a 0 0 a 1 1 1 1 0 k d + + + a a l a K g i i a a y y n n n
+
+<!-- marginal: g -->
+
+n n a a a n
+
+<!-- marginal: n -->
+
+u u n
+
+<!-- marginal: k -->
+
+<!-- marginal: n -->
+
+d a d d
+
+<!-- marginal: a -->
+
+<!-- marginal: i -->
+
+n p p a
+
+<!-- marginal: a -->
+
+<!-- marginal: r -->
+
+d
+
+<!-- marginal: y -->
+
+a
+
+<!-- marginal: t -->
+
+<!-- marginal: t -->
+
+d a a a r m m
+
+<!-- marginal: n -->
+
+<!-- marginal: a -->
+
+<!-- marginal: k -->
+
+g t a g g a , e e
+
+<!-- marginal: a -->
+
+<!-- marginal: n -->
+
+<!-- marginal: p -->
+
+t g k
+
+<!-- marginal: e -->
+
+t g g g g d
+
+<!-- marginal: a -->
+
+<!-- marginal: p -->
+
+<!-- marginal: l -->
+
+t a n u m m n
+
+<!-- marginal: s -->
+
+<!-- marginal: m -->
+
+g n n
+
+<!-- marginal: a -->
+
+n
+
+<!-- marginal: e -->
+
+a s a i i i
+
+<!-- marginal: a -->
+
+w
+
+<!-- marginal: e -->
+
+a n
+
+<!-- marginal: k -->
+
+a y g g h
+
+<!-- marginal: t -->
+
+w i h h
+
+<!-- marginal: g -->
+
+o
+
+<!-- marginal: n -->
+
+<!-- marginal: e -->
+
+b e t l n n a e e h r
+
+<!-- marginal: e -->
+
+m
+
+<!-- marginal: a -->
+
+<!-- marginal: c -->
+
+t i s
+
+<!-- marginal: a -->
+
+u s s a a r g e e
+
+<!-- marginal: a -->
+
+<!-- marginal: g -->
+
+<!-- marginal: e -->
+
+a
+
+<!-- marginal: r -->
+
+r k : i s y y e e p
+
+<!-- marginal: n -->
+
+<!-- marginal: n -->
+
+<!-- marginal: a -->
+
+a
+
+<!-- marginal: k -->
+
+% n t n n g p w
+
+<!-- marginal: a -->
+
+<!-- marginal: e -->
+
+<!-- marginal: c -->
+
+4 h a
+
+<!-- marginal: 4 -->
+
+m l a a n u u a n a
+
+<!-- marginal: j -->
+
+<!-- marginal: e -->
+
+<!-- marginal: n -->
+
+<!-- marginal: p -->
+
+a n r r d a
+
+<!-- marginal: 1 -->
+
+a d d a t g
+
+<!-- marginal: n -->
+
+<!-- marginal: s -->
+
+j
+
+<!-- marginal: a -->
+
+k a t b a a 0 s n
+
+<!-- marginal: i -->
+
+d e t ,
+
+<!-- marginal: e -->
+
+<!-- marginal: i -->
+
+t t , , e
+
+<!-- marginal: g -->
+
+u a d t t h h 1 a t t a t t
+
+<!-- marginal: g -->
+
+<!-- marginal: g -->
+
+<!-- marginal: p -->
+
+<!-- marginal: h -->
+
+t , p s t t h
+
+<!-- marginal: n -->
+
+a a a m a a p
+
+<!-- marginal: i -->
+
+h t
+
+<!-- marginal: o -->
+
+w i
+
+<!-- marginal: n -->
+
+a e a a a a e
+
+<!-- marginal: e -->
+
+t r
+
+<!-- marginal: l -->
+
+b b a
+
+<!-- marginal: b -->
+
+a l w
+
+<!-- marginal: a -->
+
+h w w p g a e
+
+<!-- marginal: d -->
+
+0
+
+<!-- marginal: m -->
+
+<!-- marginal: o -->
+
+w i
+
+<!-- marginal: e -->
+
+b w w m
+
+<!-- marginal: s -->
+
+a g t o o o g
+
+<!-- marginal: l -->
+
+<!-- marginal: e -->
+
+h h 3 r a
+
+<!-- marginal: n -->
+
+b
+
+<!-- marginal: a -->
+
+l l w o o e
+
+<!-- marginal: t -->
+
+a g b r
+
+<!-- marginal: e -->
+
+e e i n i i l l e g e
+
+<!-- marginal: k -->
+
+<!-- marginal: m -->
+
+<!-- marginal: s -->
+
+s
+
+<!-- marginal: p -->
+
+o e l l t i i i t e l k
+
+<!-- marginal: i -->
 
 <!-- marginal: i -->
 
@@ -3842,7 +3316,2007 @@ i
 
 <!-- marginal: i -->
 
-i i P m
+k k m l e i
+
+<!-- marginal: e -->
+
+a
+
+<!-- marginal: m -->
+
+<!-- marginal: t -->
+
+o o h i k k e
+
+<!-- marginal: s -->
+
+<!-- marginal: t -->
+
+s b u s
+
+<!-- marginal: d -->
+
+m g
+
+<!-- marginal: s -->
+
+n e b b k m s 4 2 0 a a
+
+<!-- marginal: n -->
+
+s m a m 4 2
+
+<!-- marginal: n -->
+
+<!-- marginal: n -->
+
+n a
+
+<!-- marginal: u -->
+
+2 7 1 1 p
+
+<!-- marginal: a -->
+
+<!-- marginal: n -->
+
+n a a d u 4 2 7 1
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+a
+
+<!-- marginal: a -->
+
+a
+
+<!-- marginal: a -->
+
+g g m e
+
+<!-- marginal: h -->
+
+s g g
+
+<!-- marginal: t -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+a k k k k t k i i i i r a
+
+<!-- marginal: k -->
+
+n n
+
+<!-- marginal: u -->
+
+a a
+
+<!-- marginal: a -->
+
+<!-- marginal: n -->
+
+<!-- marginal: n -->
+
+n i u u u u e h h h h
+
+<!-- marginal: r -->
+
+<!-- marginal: s -->
+
+a a g i n n t
+
+<!-- marginal: u -->
+
+<!-- marginal: u -->
+
+u i i i i a s s s s n
+
+<!-- marginal: t -->
+
+<!-- marginal: a -->
+
+s s
+
+<!-- marginal: u -->
+
+g a e e a a a a
+
+<!-- marginal: g -->
+
+<!-- marginal: g -->
+
+g b b b b a
+
+<!-- marginal: a -->
+
+<!-- marginal: l -->
+
+g
+
+<!-- marginal: s -->
+
+t t a a t n y n e e e e
+
+<!-- marginal: e -->
+
+a
+
+<!-- marginal: g -->
+
+<!-- marginal: g -->
+
+g g
+
+<!-- marginal: u -->
+
+<!-- marginal: a -->
+
+t i p p m m m m l l l l a n
+
+<!-- marginal: r -->
+
+<!-- marginal: s -->
+
+b r r a
+
+<!-- marginal: n -->
+
+<!-- marginal: n -->
+
+n n n n
+
+<!-- marginal: b -->
+
+r r r r h e e e e d
+
+<!-- marginal: e -->
+
+<!-- marginal: e -->
+
+<!-- marginal: i -->
+
+u e e e
+
+<!-- marginal: e -->
+
+<!-- marginal: e -->
+
+e a a a e e e e e w t t
+
+<!-- marginal: b -->
+
+<!-- marginal: k -->
+
+<!-- marginal: d -->
+
+s t t t t p s
+
+<!-- marginal: p -->
+
+<!-- marginal: p -->
+
+p s m m m m g g a a a i i n n m g g t t p a a i i e ) ) ) ) e g ) ) ) e s s
+
+<!-- marginal: i -->
+
+i ) s s
+
+<!-- marginal: i -->
+
+i v v n
+
+<!-- marginal: i -->
+
+i i v a a
+
+<!-- marginal: i -->
+
+i P m a a m i i i
+
+<!-- marginal: i -->
+
+i ( ( ( ( ( ( p p ( ( p p h e e a 0 a e ) P k 1 P k s a ( a s a a t l u o k v o l a r i o i t d c r i o e u h k F s
+
+<!-- page 50 -->
+
+t a a p
+
+<!-- marginal: a -->
+
+l m
+
+<!-- marginal: n -->
+
+e e
+
+<!-- marginal: m -->
+
+<!-- marginal: a -->
+
+k t
+
+<!-- marginal: i -->
+
+<!-- marginal: g -->
+
+<!-- marginal: l -->
+
+<!-- marginal: n -->
+
+<!-- marginal: r -->
+
+<!-- marginal: e -->
+
+a g
+
+<!-- marginal: a -->
+
+<!-- marginal: n -->
+
+<!-- marginal: a -->
+
+% % % % % d n
+
+<!-- marginal: a -->
+
+<!-- marginal: n -->
+
+<!-- marginal: K -->
+
+<!-- marginal: d -->
+
+a a
+
+<!-- marginal: r -->
+
+<!-- marginal: u -->
+
+<!-- marginal: 0 -->
+
+<!-- marginal: 0 -->
+
+<!-- marginal: 0 -->
+
+<!-- marginal: 0 -->
+
+<!-- marginal: 0 -->
+
+<!-- marginal: a -->
+
+p y . . . . .
+
+<!-- marginal: u -->
+
+<!-- marginal: g -->
+
+<!-- marginal: h -->
+
+e
+
+<!-- marginal: 8 -->
+
+<!-- marginal: 8 -->
+
+<!-- marginal: 8 -->
+
+<!-- marginal: 8 -->
+
+<!-- marginal: 8 -->
+
+<!-- marginal: g -->
+
+<!-- marginal: K -->
+
+<!-- marginal: n -->
+
+<!-- marginal: a -->
+
+k n
+
+<!-- marginal: t -->
+
+<!-- marginal: n -->
+
+<!-- marginal: a -->
+
+a
+
+<!-- marginal: e -->
+
+<!-- marginal: u -->
+
+h n
+
+<!-- marginal: p -->
+
+a u
+
+<!-- marginal: R -->
+
+l k u p p a r n e
+
+<!-- marginal: t -->
+
+<!-- marginal: t -->
+
+e
+
+<!-- marginal: t -->
+
+p
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+g
+
+<!-- marginal: l -->
+
+<!-- marginal: a -->
+
+i t
+
+<!-- marginal: p -->
+
+<!-- marginal: u -->
+
+<!-- marginal: u -->
+
+<!-- marginal: f -->
+
+<!-- marginal: u -->
+
+<!-- marginal: h -->
+
+d
+
+<!-- marginal: i -->
+
+a
+
+<!-- marginal: k -->
+
+### )
+
+<!-- marginal: k -->
+
+<!-- marginal: r -->
+
+<!-- marginal: m -->
+
+<!-- marginal: k -->
+
+<!-- marginal: n -->
+
+<!-- marginal: n -->
+
+<!-- marginal: n -->
+
+<!-- marginal: n -->
+
+<!-- marginal: n -->
+
+p
+
+<!-- marginal: m -->
+
+<!-- marginal: i -->
+
+<!-- marginal: n -->
+
+<!-- marginal: r -->
+
+h
+
+<!-- marginal: e -->
+
+<!-- marginal: a -->
+
+<!-- marginal: r -->
+
+<!-- marginal: u -->
+
+<!-- marginal: u -->
+
+<!-- marginal: u -->
+
+<!-- marginal: u -->
+
+<!-- marginal: u -->
+
+<!-- marginal: n -->
+
+<!-- marginal: r -->
+
+<!-- marginal: e -->
+
+m
+
+<!-- marginal: t -->
+
+<!-- marginal: a -->
+
+a
+
+<!-- marginal: e -->
+
+<!-- marginal: e -->
+
+<!-- marginal: h -->
+
+<!-- marginal: h -->
+
+<!-- marginal: h -->
+
+<!-- marginal: h -->
+
+<!-- marginal: h -->
+
+l
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+e
+
+<!-- marginal: b -->
+
+<!-- marginal: k -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: b -->
+
+t
+
+<!-- marginal: t -->
+
+<!-- marginal: K -->
+
+k
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: t -->
+
+<!-- marginal: t -->
+
+<!-- marginal: t -->
+
+<!-- marginal: t -->
+
+<!-- marginal: t -->
+
+### (
+
+<!-- marginal: a -->
+
+<!-- marginal: l -->
+
+a
+
+<!-- marginal: s -->
+
+<!-- marginal: l -->
+
+<!-- marginal: i -->
+
+<!-- marginal: h -->
+
+a
+
+<!-- marginal: g -->
+
+<!-- marginal: u -->
+
+d
+
+<!-- marginal: a -->
+
+<!-- marginal: 1 -->
+
+<!-- marginal: 1 -->
+
+<!-- marginal: 1 -->
+
+<!-- marginal: 1 -->
+
+<!-- marginal: 1 -->
+
+<!-- marginal: a -->
+
+<!-- marginal: r -->
+
+<!-- marginal: a -->
+
+<!-- marginal: k -->
+
+d
+
+<!-- marginal: n -->
+
+n
+
+<!-- marginal: s -->
+
+<!-- marginal: 2 -->
+
+<!-- marginal: 2 -->
+
+<!-- marginal: 2 -->
+
+<!-- marginal: 2 -->
+
+<!-- marginal: 2 -->
+
+<!-- marginal: i -->
+
+<!-- marginal: u -->
+
+<!-- marginal: g -->
+
+<!-- marginal: a -->
+
+<!-- marginal: m -->
+
+a e
+
+<!-- marginal: a -->
+
+<!-- marginal: r -->
+
+<!-- marginal: a -->
+
+<!-- marginal: k -->
+
+<!-- marginal: d -->
+
+<!-- marginal: r -->
+
+p h
+
+<!-- marginal: a -->
+
+<!-- marginal: u -->
+
+<!-- marginal: u -->
+
+<!-- marginal: e -->
+
+<!-- marginal: T -->
+
+<!-- marginal: k -->
+
+i
+
+<!-- marginal: p -->
+
+h
+
+<!-- marginal: R -->
+
+i n i b e l l
+
+<!-- marginal: s -->
+
+<!-- marginal: n -->
+
+a
+
+<!-- marginal: a -->
+
+<!-- marginal: t -->
+
+<!-- marginal: a -->
+
+u
+
+<!-- marginal: s -->
+
+u
+
+<!-- marginal: m -->
+
+<!-- marginal: t -->
+
+<!-- marginal: a -->
+
+<!-- marginal: s -->
+
+<!-- marginal: r -->
+
+<!-- marginal: i -->
+
+<!-- marginal: h -->
+
+<!-- marginal: f -->
+
+a
+
+<!-- marginal: u -->
+
+d
+
+<!-- marginal: a -->
+
+<!-- marginal: f -->
+
+<!-- marginal: a -->
+
+<!-- marginal: g -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: i -->
+
+t
+
+<!-- marginal: l -->
+
+<!-- marginal: g -->
+
+<!-- marginal: i -->
+
+<!-- marginal: a -->
+
+<!-- marginal: i -->
+
+a
+
+<!-- marginal: n -->
+
+<!-- marginal: r -->
+
+a
+
+<!-- marginal: d -->
+
+<!-- marginal: t -->
+
+<!-- marginal: r -->
+
+<!-- marginal: w -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: b -->
+
+J
+
+<!-- marginal: o -->
+
+<!-- marginal: n -->
+
+<!-- marginal: a -->
+
+<!-- marginal: e -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: 6 -->
+
+<!-- marginal: 5 -->
+
+<!-- marginal: 3 -->
+
+<!-- marginal: 1 -->
+
+<!-- marginal: o -->
+
+<!-- marginal: d -->
+
+<!-- marginal: b -->
+
+### )
+
+<!-- marginal: b -->
+
+<!-- marginal: t -->
+
+<!-- marginal: a -->
+
+<!-- marginal: t -->
+
+a
+
+<!-- marginal: m -->
+
+<!-- marginal: l -->
+
+<!-- marginal: k -->
+
+### (
+
+<!-- marginal: 5 -->
+
+<!-- marginal: 2 -->
+
+<!-- marginal: 2 -->
+
+<!-- marginal: 0 -->
+
+<!-- marginal: 0 -->
+
+h
+
+<!-- marginal: i -->
+
+<!-- marginal: K -->
+
+<!-- marginal: k -->
+
+. . . .
+
+<!-- marginal: a -->
+
+<!-- marginal: t -->
+
+<!-- marginal: 8 -->
+
+<!-- marginal: m -->
+
+a
+
+<!-- marginal: r -->
+
+<!-- marginal: r -->
+
+m
+
+<!-- marginal: t -->
+
+<!-- marginal: n -->
+
+<!-- marginal: i -->
+
+<!-- marginal: k -->
+
+<!-- marginal: a -->
+
+.
+
+<!-- marginal: 0 -->
+
+<!-- marginal: 0 -->
+
+<!-- marginal: 0 -->
+
+<!-- marginal: 0 -->
+
+<!-- marginal: a -->
+
+i
+
+<!-- marginal: n -->
+
+<!-- marginal: l -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: g -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: g -->
+
+l w
+
+<!-- marginal: 0 -->
+
+<!-- marginal: d -->
+
+<!-- marginal: i -->
+
+<!-- marginal: j -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: d -->
+
+<!-- marginal: k -->
+
+<!-- marginal: p -->
+
+<!-- marginal: n -->
+
+<!-- marginal: d -->
+
+<!-- marginal: g -->
+
+a + + + +
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: k -->
+
+<!-- marginal: g -->
+
+a
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+b
+
+<!-- marginal: n -->
+
+<!-- marginal: p -->
+
+<!-- marginal: g -->
+
+<!-- marginal: l -->
+
+<!-- marginal: i -->
+
+<!-- marginal: a -->
+
+<!-- marginal: i -->
+
+k
+
+<!-- marginal: f -->
+
+<!-- marginal: u -->
+
+<!-- marginal: K -->
+
+<!-- marginal: e -->
+
+<!-- marginal: t -->
+
+<!-- marginal: l -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: K -->
+
+<!-- marginal: r -->
+
+i
+
+<!-- marginal: i -->
+
+g
+
+<!-- marginal: k -->
+
+<!-- marginal: e -->
+
+<!-- marginal: a -->
+
+<!-- marginal: b -->
+
+<!-- marginal: r -->
+
+<!-- marginal: g -->
+
+<!-- marginal: R -->
+
+d n
+
+<!-- marginal: s -->
+
+<!-- marginal: e -->
+
+<!-- marginal: g -->
+
+<!-- marginal: a -->
+
+a
+
+<!-- marginal: s -->
+
+<!-- marginal: t -->
+
+d a n a m d a t
+
+<!-- marginal: a -->
+
+<!-- marginal: i -->
+
+k
+
+<!-- marginal: i -->
+
+<!-- marginal: g -->
+
+.
+
+<!-- marginal: r -->
+
+m
+
+<!-- marginal: n -->
+
+t
+
+<!-- marginal: u -->
+
+u
+
+<!-- marginal: d -->
+
+<!-- marginal: e -->
+
+<!-- marginal: n -->
+
+<!-- marginal: g -->
+
+a
+
+<!-- marginal: a -->
+
+a
+
+<!-- marginal: t -->
+
+<!-- marginal: r -->
+
+j
+
+<!-- marginal: a -->
+
+<!-- marginal: n -->
+
+<!-- marginal: d -->
+
+<!-- marginal: i -->
+
+<!-- marginal: m -->
+
+m ) p
+
+<!-- marginal: a -->
+
+<!-- marginal: r -->
+
+<!-- marginal: y -->
+
+<!-- marginal: a -->
+
+t
+
+<!-- marginal: a -->
+
+<!-- marginal: n -->
+
+<!-- marginal: n -->
+
+<!-- marginal: a -->
+
+<!-- marginal: n -->
+
+t
+
+<!-- marginal: h -->
+
+<!-- marginal: a -->
+
+<!-- marginal: l -->
+
+<!-- marginal: k -->
+
+<!-- marginal: y -->
+
+m (
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+g
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+a
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: g -->
+
+<!-- marginal: t -->
+
+<!-- marginal: t -->
+
+e
+
+<!-- marginal: i -->
+
+n
+
+<!-- marginal: n -->
+
+<!-- marginal: h -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: d -->
+
+<!-- marginal: a -->
+
+<!-- marginal: g -->
+
+e
+
+<!-- marginal: r -->
+
+<!-- marginal: b -->
+
+w
+
+<!-- marginal: i -->
+
+a
+
+<!-- marginal: i -->
+
+<!-- marginal: u -->
+
+<!-- marginal: g -->
+
+<!-- marginal: p -->
+
+<!-- marginal: p -->
+
+<!-- marginal: d -->
+
+<!-- marginal: n -->
+
+k
+
+<!-- marginal: u -->
+
+<!-- marginal: n -->
+
+<!-- marginal: r -->
+
+o
+
+<!-- marginal: b -->
+
+y
+
+<!-- marginal: i -->
+
+<!-- marginal: g -->
+
+<!-- marginal: n -->
+
+<!-- marginal: n -->
+
+<!-- marginal: s -->
+
+l
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: h -->
+
+<!-- marginal: u -->
+
+<!-- marginal: e -->
+
+i
+
+<!-- marginal: m -->
+
+<!-- marginal: m -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: h -->
+
+<!-- marginal: n -->
+
+g
+
+<!-- marginal: e -->
+
+<!-- marginal: l -->
+
+<!-- marginal: p -->
+
+<!-- marginal: s -->
+
+<!-- marginal: n -->
+
+n
+
+<!-- marginal: e -->
+
+<!-- marginal: e -->
+
+k
+
+<!-- marginal: l -->
+
+<!-- marginal: e -->
+
+<!-- marginal: a -->
+
+<!-- marginal: y -->
+
+<!-- marginal: g -->
+
+<!-- marginal: g -->
+
+<!-- marginal: e -->
+
+n
+
+<!-- marginal: t -->
+
+<!-- marginal: t -->
+
+<!-- marginal: u -->
+
+a
+
+<!-- marginal: s -->
+
+<!-- marginal: o -->
+
+<!-- marginal: b -->
+
+<!-- marginal: a -->
+
+<!-- marginal: n -->
+
+<!-- marginal: n -->
+
+<!-- marginal: u -->
+
+a
+
+<!-- marginal: k -->
+
+<!-- marginal: g -->
+
+<!-- marginal: t -->
+
+k p
+
+<!-- marginal: u -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: b -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+y
+
+<!-- marginal: l -->
+
+<!-- marginal: n -->
+
+<!-- marginal: r -->
+
+<!-- marginal: n -->
+
+<!-- marginal: t -->
+
+a a
+
+<!-- marginal: r -->
+
+<!-- marginal: r -->
+
+<!-- marginal: s -->
+
+<!-- marginal: s -->
+
+<!-- marginal: n -->
+
+<!-- marginal: n -->
+
+l
+
+<!-- marginal: o -->
+
+i
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: g -->
+
+<!-- marginal: a -->
+
+t
+
+<!-- marginal: a -->
+
+n a
+
+<!-- marginal: v -->
+
+<!-- marginal: b -->
+
+<!-- marginal: h -->
+
+<!-- marginal: a -->
+
+<!-- marginal: d -->
+
+<!-- marginal: c -->
+
+<!-- marginal: c -->
+
+<!-- marginal: p -->
+
+<!-- marginal: h -->
+
+e
+
+<!-- marginal: n -->
+
+<!-- marginal: g -->
+
+a
+
+<!-- marginal: h -->
+
+g
+
+<!-- marginal: o -->
+
+<!-- marginal: u -->
+
+<!-- marginal: a -->
+
+<!-- marginal: e -->
+
+<!-- marginal: e -->
+
+s
+
+<!-- marginal: u -->
+
+<!-- marginal: e -->
+
+<!-- marginal: a -->
+
+<!-- marginal: t -->
+
+,
+
+<!-- marginal: k -->
+
+<!-- marginal: o -->
+
+<!-- marginal: r -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: t -->
+
+<!-- marginal: t -->
+
+h
+
+<!-- marginal: s -->
+
+<!-- marginal: s -->
+
+<!-- marginal: t -->
+
+<!-- marginal: b -->
+
+<!-- marginal: t -->
+
+<!-- marginal: p -->
+
+<!-- marginal: b -->
+
+<!-- marginal: d -->
+
+f
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: y -->
+
+<!-- marginal: u -->
+
+<!-- marginal: b -->
+
+<!-- marginal: o -->
+
+u
+
+<!-- marginal: t -->
+
+<!-- marginal: n -->
+
+i
+
+<!-- marginal: a -->
+
+i
+
+<!-- marginal: t -->
+
+l
+
+<!-- marginal: f -->
+
+<!-- marginal: s -->
+
+<!-- marginal: e -->
+
+<!-- marginal: y -->
+
+<!-- marginal: a -->
+
+<!-- marginal: n -->
+
+<!-- marginal: e -->
+
+<!-- marginal: i -->
+
+<!-- marginal: i -->
+
+r g
+
+<!-- marginal: g -->
+
+<!-- marginal: g -->
+
+<!-- marginal: h -->
+
+<!-- marginal: m -->
+
+<!-- marginal: k -->
+
+u
+
+<!-- marginal: t -->
+
+<!-- marginal: w -->
+
+<!-- marginal: e -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: l -->
+
+a a
+
+<!-- marginal: e -->
+
+<!-- marginal: n -->
+
+<!-- marginal: n -->
+
+<!-- marginal: K -->
+
+<!-- marginal: a -->
+
+<!-- marginal: w -->
+
+<!-- marginal: a -->
+
+<!-- marginal: l -->
+
+<!-- marginal: u -->
+
+p t
+
+<!-- marginal: a -->
+
+<!-- marginal: l -->
+
+<!-- marginal: p -->
+
+<!-- marginal: g -->
+
+<!-- marginal: g -->
+
+<!-- marginal: t -->
+
+<!-- marginal: u -->
+
+b
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: r -->
+
+<!-- marginal: a -->
+
+r
+
+<!-- marginal: n -->
+
+<!-- marginal: n -->
+
+<!-- marginal: g -->
+
+<!-- marginal: o -->
+
+<!-- marginal: t -->
+
+<!-- marginal: s -->
+
+<!-- marginal: s -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: g -->
+
+<!-- marginal: d -->
+
+e
+
+<!-- marginal: t -->
+
+r
+
+<!-- marginal: a -->
+
+<!-- marginal: g -->
+
+<!-- marginal: g -->
+
+<!-- marginal: i -->
+
+t
+
+<!-- marginal: a -->
+
+<!-- marginal: e -->
+
+<!-- marginal: s -->
+
+<!-- marginal: b -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: b -->
+
+<!-- marginal: b -->
+
+<!-- marginal: o -->
+
+i
+
+<!-- marginal: a -->
+
+<!-- marginal: n -->
+
+a
+
+<!-- marginal: e -->
+
+p
+
+<!-- marginal: a -->
+
+<!-- marginal: n -->
+
+<!-- marginal: g -->
+
+<!-- marginal: l -->
+
+<!-- marginal: p -->
+
+<!-- marginal: p -->
+
+<!-- marginal: e -->
+
+<!-- marginal: e -->
+
+<!-- marginal: m -->
+
+g
+
+<!-- marginal: m -->
+
+<!-- marginal: a -->
+
+d
+
+<!-- marginal: g -->
+
+<!-- marginal: i -->
+
+<!-- marginal: i -->
+
+<!-- marginal: u -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+-
+
+<!-- marginal: s -->
+
+<!-- marginal: s -->
+
+<!-- marginal: m -->
+
+<!-- marginal: a -->
+
+<!-- marginal: n -->
+
+<!-- marginal: m -->
+
+n a g
+
+<!-- marginal: a -->
+
+<!-- marginal: u -->
+
+<!-- marginal: a -->
+
+<!-- marginal: d -->
+
+<!-- marginal: d -->
+
+<!-- marginal: a -->
+
+<!-- marginal: g -->
+
+<!-- marginal: y -->
+
+<!-- marginal: a -->
+
+<!-- marginal: t -->
+
+a
+
+<!-- marginal: 0 -->
+
+k n
+
+<!-- marginal: b -->
+
+<!-- marginal: a -->
+
+<!-- marginal: n -->
+
+<!-- marginal: n -->
+
+<!-- marginal: n -->
+
+<!-- marginal: n -->
+
+<!-- marginal: n -->
+
+<!-- marginal: s -->
+
+<!-- marginal: 0 -->
+
+<!-- marginal: R -->
+
+i
+
+<!-- marginal: a -->
+
+p
+
+<!-- marginal: 3 -->
+
+<!-- marginal: e -->
+
+<!-- marginal: u -->
+
+<!-- marginal: u -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: n -->
+
+r
+
+<!-- marginal: a -->
+
+<!-- marginal: 1 -->
+
+a
+
+<!-- marginal: s -->
+
+n
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: e -->
+
+<!-- marginal: n -->
+
+<!-- marginal: p -->
+
+<!-- marginal: t -->
+
+<!-- marginal: t -->
+
+<!-- marginal: k -->
+
+<!-- marginal: t -->
+
+n
+
+<!-- marginal: m -->
+
+<!-- marginal: i -->
+
+a
+
+<!-- marginal: n -->
+
+<!-- marginal: n -->
+
+<!-- marginal: n -->
+
+<!-- marginal: n -->
+
+<!-- marginal: t -->
+
+<!-- marginal: a -->
+
+<!-- marginal: e -->
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: u -->
+
+e m
+
+<!-- marginal: h -->
+
+d
+
+<!-- marginal: u -->
+
+<!-- marginal: u -->
+
+<!-- marginal: u -->
+
+<!-- marginal: u -->
+
+<!-- marginal: i -->
+
+<!-- marginal: u -->
+
+<!-- marginal: i -->
+
+<!-- marginal: n -->
+
+<!-- marginal: s -->
+
+<!-- marginal: n -->
+
+<!-- marginal: p -->
+
+a g
+
+<!-- marginal: t -->
+
+<!-- marginal: t -->
+
+<!-- marginal: a -->
+
+<!-- marginal: g -->
+
+<!-- marginal: g -->
+
+<!-- marginal: g -->
+
+<!-- marginal: g -->
+
+<!-- marginal: k -->
+
+l
+
+<!-- marginal: a -->
+
+<!-- marginal: b -->
+
+<!-- marginal: u -->
+
+<!-- marginal: a -->
+
+g
+
+<!-- marginal: a -->
+
+<!-- marginal: a -->
+
+<!-- marginal: i -->
+
+n
+
+<!-- marginal: y -->
+
+a
+
+<!-- marginal: g -->
+
+<!-- marginal: g -->
+
+<!-- marginal: g -->
+
+<!-- marginal: g -->
+
+<!-- marginal: e -->
+
+<!-- marginal: g -->
+
+<!-- marginal: g -->
+
+<!-- marginal: r -->
+
+<!-- marginal: n -->
+
+n a
+
+<!-- marginal: u -->
+
+<!-- marginal: u -->
+
+<!-- marginal: m -->
+
+<!-- marginal: l -->
+
+<!-- marginal: n -->
+
+d
+
+<!-- marginal: n -->
+
+<!-- marginal: n -->
+
+<!-- marginal: n -->
+
+<!-- marginal: n -->
+
+<!-- marginal: e -->
+
+<!-- marginal: n -->
+
+<!-- marginal: n -->
+
+<!-- marginal: a -->
+
+<!-- marginal: r -->
+
+e a
+
+<!-- marginal: b -->
+
+<!-- marginal: b -->
+
+<!-- marginal: e -->
+
+<!-- marginal: l -->
+
+<!-- marginal: e -->
+
+<!-- marginal: e -->
+
+<!-- marginal: e -->
+
+<!-- marginal: e -->
+
+<!-- marginal: u -->
+
+r
+
+<!-- marginal: a -->
+
+<!-- marginal: i -->
+
+<!-- marginal: i -->
+
+<!-- marginal: a -->
+
+<!-- marginal: b -->
+
+<!-- marginal: e -->
+
+p t
+
+<!-- marginal: t -->
+
+<!-- marginal: a -->
+
+<!-- marginal: p -->
+
+<!-- marginal: p -->
+
+<!-- marginal: p -->
+
+<!-- marginal: p -->
+
+<!-- marginal: p -->
+
+<!-- marginal: s -->
+
+a
+
+<!-- marginal: m -->
+
+<!-- marginal: b -->
+
+<!-- marginal: d -->
+
+<!-- marginal: d -->
+
+a t :
+
+<!-- marginal: a -->
+
+<!-- marginal: g -->
+
+<!-- marginal: h -->
+
+n p
+
+<!-- marginal: m -->
+
+<!-- marginal: s -->
+
+<!-- marginal: i -->
+
+n
+
+<!-- marginal: p -->
+
+<!-- marginal: n -->
+
+a
+
+<!-- marginal: e -->
+
+)
+
+<!-- marginal: a -->
+
+) )
+
+<!-- marginal: r -->
+
+a )
+
+<!-- marginal: e -->
+
+m
+
+<!-- marginal: a -->
+
+<!-- marginal: i -->
+
+)
+
+<!-- marginal: t -->
+
+<!-- marginal: i -->
+
+k r
+
+<!-- marginal: i -->
+
+<!-- marginal: e -->
+
+<!-- marginal: v -->
+
+<!-- marginal: i -->
+
+<!-- marginal: i -->
+
+e
+
+<!-- marginal: i -->
 
 <!-- marginal: P -->
 
@@ -3852,2807 +5326,143 @@ i i P m
 
 <!-- marginal: a -->
 
-i
+<!-- marginal: v -->
 
 <!-- marginal: i -->
 
-( ( ( (
+b e
 
-### P
-
-( ( ) ) a
-
-<!-- marginal: b -->
+<!-- marginal: i -->
 
 ( (
 
-### r
+<!-- marginal: P -->
 
-### a
+e ( ( ( a p k b ) e n
 
-### u
+<!-- marginal: b -->
 
-### a
+g y a ( n a n a r e i y g m
 
-### e
+<!-- marginal: r -->
 
-### g
+<!-- marginal: a -->
 
-### h
-
-### r
-
-### g
-
-m
-
-### m
-
-### b
-
-### n
-
-### e
-
-i
-
-### a
-
-### a
-
-### l
-
-### a
-
-### a
-
-s
-
-### t
-
-### h
-
-### m
-
-### o
-
-i
-
-### n
-
-### u
-
-j
-
-### r
-
-### a
-
-### e
-
-### u
-
-### b
-
-### e
-
-o
-
-### t
-
-### b
-
-### R
-
-### S
-
-i
-
-### P
-
-b
-
-<!-- page 49 -->
-
-% % % % % % % % % % 5 5 8
-
-<!-- marginal: 0 -->
-
-<!-- marginal: 0 -->
-
-<!-- marginal: 0 -->
-
-<!-- marginal: 0 -->
-
-<!-- marginal: 0 -->
-
-. . . . . . . . 0 0 0 0 1
-
-<!-- marginal: 8 -->
-
-<!-- marginal: 8 -->
-
-<!-- marginal: 8 -->
-
-<!-- marginal: 8 -->
-
-<!-- marginal: 8 -->
-
-n n n n n
-
-<!-- marginal: n -->
-
-<!-- marginal: n -->
-
-<!-- marginal: n -->
-
-<!-- marginal: n -->
-
-<!-- marginal: n -->
-
-u u u u u
+n
 
 <!-- marginal: u -->
 
-<!-- marginal: u -->
+n
 
-<!-- marginal: u -->
+<!-- marginal: a -->
 
-<!-- marginal: u -->
+<!-- marginal: e -->
 
-<!-- marginal: u -->
-
-h h h h h
+<!-- marginal: g -->
 
 <!-- marginal: h -->
 
-<!-- marginal: h -->
+e h
 
-<!-- marginal: h -->
-
-<!-- marginal: h -->
-
-<!-- marginal: h -->
-
-a a a a a
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-t t t t t
-
-<!-- marginal: t -->
-
-<!-- marginal: t -->
-
-<!-- marginal: t -->
-
-<!-- marginal: t -->
-
-<!-- marginal: t -->
-
-6 6 6 1 1
-
-<!-- marginal: 1 -->
-
-<!-- marginal: 1 -->
-
-<!-- marginal: 1 -->
-
-<!-- marginal: 1 -->
-
-<!-- marginal: 1 -->
-
-1 1 1 2 2
-
-<!-- marginal: 2 -->
-
-<!-- marginal: 2 -->
-
-<!-- marginal: 2 -->
-
-<!-- marginal: 2 -->
-
-<!-- marginal: 2 -->
-
-s f a i s r a a 1 1 0 4 3 t
-
-<!-- marginal: 3 -->
-
-<!-- marginal: 0 -->
-
-<!-- marginal: 8 -->
-
-<!-- marginal: 4 -->
-
-<!-- marginal: 5 -->
-
-0 0 1 2 2 . . . n
-
-<!-- marginal: 2 -->
-
-<!-- marginal: 2 -->
-
-<!-- marginal: 1 -->
-
-<!-- marginal: 1 -->
-
-<!-- marginal: 9 -->
-
-. . r . . . . . 0 0 0 a 0 0 a
-
-<!-- marginal: 1 -->
-
-<!-- marginal: 1 -->
-
-<!-- marginal: 1 -->
-
-<!-- marginal: 1 -->
-
-<!-- marginal: 0 -->
-
-k d + + + a a l a K g i i a a y y
-
-<!-- marginal: n -->
-
-<!-- marginal: n -->
-
-<!-- marginal: n -->
-
-g n n
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-<!-- marginal: n -->
-
-n u u n k n
-
-<!-- marginal: d -->
-
-<!-- marginal: a -->
-
-<!-- marginal: d -->
-
-<!-- marginal: d -->
-
-a i n p p a a r
-
-<!-- marginal: d -->
-
-y a t t d
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-r m m n a k
-
-<!-- marginal: g -->
-
-<!-- marginal: t -->
-
-<!-- marginal: a -->
-
-<!-- marginal: g -->
-
-<!-- marginal: g -->
-
-a , e e a n p
-
-<!-- marginal: t -->
-
-g k e t
-
-<!-- marginal: g -->
-
-<!-- marginal: g -->
-
-<!-- marginal: g -->
-
-<!-- marginal: g -->
-
-d a p l t
-
-<!-- marginal: a -->
-
-n u m m
-
-<!-- marginal: n -->
-
-s m
-
-<!-- marginal: g -->
-
-<!-- marginal: n -->
-
-<!-- marginal: n -->
-
-a n e a s a
-
-<!-- marginal: i -->
-
-<!-- marginal: i -->
-
-<!-- marginal: i -->
+<!-- marginal: r -->
 
 a
 
-<!-- marginal: w -->
+<!-- marginal: g -->
 
-e a
+<!-- marginal: m -->
 
-<!-- marginal: n -->
-
-k a y g g
-
-<!-- marginal: h -->
-
-t w
-
-<!-- marginal: i -->
-
-<!-- marginal: h -->
-
-<!-- marginal: h -->
-
-g
-
-<!-- marginal: o -->
-
-n e b
-
-<!-- marginal: e -->
-
-t
-
-<!-- marginal: l -->
-
-n n a
-
-<!-- marginal: e -->
-
-<!-- marginal: e -->
-
-<!-- marginal: h -->
-
-r e m a c t
-
-<!-- marginal: i -->
-
-<!-- marginal: s -->
-
-a u
-
-<!-- marginal: s -->
-
-<!-- marginal: s -->
-
-a a r g
-
-<!-- marginal: e -->
-
-e a g e a r r
-
-<!-- marginal: k -->
-
-: i
-
-<!-- marginal: s -->
-
-y y e e p n n a a k %
+<!-- marginal: b -->
 
 <!-- marginal: n -->
 
-t
+<!-- marginal: e -->
 
-<!-- marginal: n -->
+a p
 
-<!-- marginal: n -->
-
-g p w a e c
-
-<!-- marginal: 4 -->
+<!-- marginal: a -->
 
 h
 
 <!-- marginal: a -->
 
-4 m l
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-<!-- marginal: n -->
-
-u u a n a j e n p a n r r
-
-<!-- marginal: d -->
-
-a 1
-
-<!-- marginal: a -->
-
-<!-- marginal: d -->
-
-<!-- marginal: d -->
-
-a
-
-<!-- marginal: t -->
-
-g n s j a
-
-<!-- marginal: k -->
-
-a
-
-<!-- marginal: t -->
-
-b a a 0 s n i
-
-<!-- marginal: d -->
-
-e
-
-<!-- marginal: t -->
-
-, e i
-
-<!-- marginal: t -->
-
-<!-- marginal: t -->
-
-, , e g
-
-<!-- marginal: u -->
-
-<!-- marginal: a -->
-
-d
-
-<!-- marginal: t -->
-
-<!-- marginal: t -->
-
-h h 1 a
-
-<!-- marginal: t -->
-
-<!-- marginal: t -->
-
-a
-
-<!-- marginal: t -->
-
-<!-- marginal: t -->
-
-g g p h
-
-<!-- marginal: t -->
-
-, p
-
-<!-- marginal: s -->
-
-<!-- marginal: t -->
-
-<!-- marginal: t -->
-
-h n
-
-<!-- marginal: a -->
-
-a a m
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-p i h
-
-<!-- marginal: t -->
-
-o
-
-<!-- marginal: w -->
-
-i n
-
-<!-- marginal: a -->
-
-e
-
-<!-- marginal: a -->
-
-a
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-e e
-
-<!-- marginal: t -->
-
-r l b b a b
+<!-- marginal: l -->
 
 <!-- marginal: a -->
 
 l
 
-<!-- marginal: w -->
-
-a h
-
-<!-- marginal: w -->
-
-<!-- marginal: w -->
-
-p g
-
 <!-- marginal: a -->
-
-e d 0 m o
-
-<!-- marginal: w -->
-
-i e b
-
-<!-- marginal: w -->
-
-<!-- marginal: w -->
-
-<!-- marginal: m -->
-
-s
-
-<!-- marginal: a -->
-
-<!-- marginal: g -->
-
-t o
-
-<!-- marginal: o -->
-
-<!-- marginal: o -->
-
-g l e h h 3
-
-<!-- marginal: r -->
-
-<!-- marginal: a -->
-
-n b a
-
-<!-- marginal: l -->
-
-<!-- marginal: l -->
-
-<!-- marginal: w -->
-
-<!-- marginal: o -->
-
-<!-- marginal: o -->
-
-<!-- marginal: e -->
-
-t a
-
-<!-- marginal: g -->
-
-b r e e e i n
-
-<!-- marginal: i -->
-
-<!-- marginal: i -->
-
-<!-- marginal: l -->
-
-<!-- marginal: l -->
-
-<!-- marginal: e -->
-
-<!-- marginal: g -->
-
-e k m s s p
-
-<!-- marginal: o -->
-
-<!-- marginal: e -->
-
-l l t i
-
-<!-- marginal: i -->
-
-<!-- marginal: i -->
-
-<!-- marginal: t -->
-
-e l k i i i i
-
-<!-- marginal: k -->
-
-<!-- marginal: k -->
-
-<!-- marginal: m -->
-
-<!-- marginal: l -->
-
-<!-- marginal: e -->
-
-i e a m t o o h
-
-<!-- marginal: i -->
-
-<!-- marginal: k -->
-
-<!-- marginal: k -->
-
-e s t s b u s d
-
-<!-- marginal: m -->
-
-g s
-
-<!-- marginal: n -->
-
-e b b
-
-<!-- marginal: k -->
-
-<!-- marginal: m -->
-
-s
-
-<!-- marginal: 4 -->
-
-<!-- marginal: 2 -->
-
-<!-- marginal: 0 -->
-
-a a n s m
-
-<!-- marginal: a -->
-
-m
-
-<!-- marginal: 4 -->
-
-<!-- marginal: 2 -->
-
-n n n a u
-
-<!-- marginal: 2 -->
-
-<!-- marginal: 7 -->
-
-<!-- marginal: 1 -->
-
-<!-- marginal: 1 -->
-
-p a n n a a
-
-<!-- marginal: d -->
 
 u
 
-<!-- marginal: 4 -->
+<!-- marginal: t -->
 
-<!-- marginal: 2 -->
+<!-- marginal: h -->
 
-<!-- marginal: 7 -->
+<!-- marginal: m -->
 
-<!-- marginal: 1 -->
+<!-- marginal: o -->
 
-a a a a a a g g m e h s g g t a a a
+<!-- marginal: n -->
 
-<!-- marginal: k -->
+k l a
 
-<!-- marginal: k -->
+<!-- marginal: u -->
 
-<!-- marginal: k -->
-
-<!-- marginal: k -->
-
-t k
-
-<!-- marginal: i -->
-
-<!-- marginal: i -->
-
-<!-- marginal: i -->
-
-<!-- marginal: i -->
-
-r
+<!-- marginal: r -->
 
 <!-- marginal: a -->
 
-k n n u a a a n n n i
-
-<!-- marginal: u -->
-
-<!-- marginal: u -->
-
-<!-- marginal: u -->
-
-<!-- marginal: u -->
-
-e
-
-<!-- marginal: h -->
-
-<!-- marginal: h -->
-
-<!-- marginal: h -->
-
-<!-- marginal: h -->
-
-r s a a
-
-<!-- marginal: g -->
-
-i n n t u u u
-
-<!-- marginal: i -->
-
-<!-- marginal: i -->
-
-<!-- marginal: i -->
-
-<!-- marginal: i -->
+<!-- marginal: e -->
 
 a
 
-<!-- marginal: s -->
-
-<!-- marginal: s -->
-
-<!-- marginal: s -->
-
-<!-- marginal: s -->
-
-n t a s s u
-
-<!-- marginal: g -->
-
-a e e
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-g g g
-
-<!-- marginal: b -->
-
-<!-- marginal: b -->
-
-<!-- marginal: b -->
-
-<!-- marginal: b -->
-
-a a l g s t t a a t
-
-<!-- marginal: n -->
-
-y n
-
-<!-- marginal: e -->
-
-<!-- marginal: e -->
-
-<!-- marginal: e -->
-
-<!-- marginal: e -->
-
-e a g g g g u a t
-
-<!-- marginal: i -->
-
-p p
-
-<!-- marginal: m -->
-
-<!-- marginal: m -->
-
-<!-- marginal: m -->
-
-<!-- marginal: m -->
-
-<!-- marginal: l -->
-
-<!-- marginal: l -->
-
-<!-- marginal: l -->
-
-<!-- marginal: l -->
-
-a n r s b r r a n n n n n n b
-
-<!-- marginal: r -->
-
-<!-- marginal: r -->
-
-<!-- marginal: r -->
-
-<!-- marginal: r -->
-
-<!-- marginal: h -->
-
-<!-- marginal: e -->
-
-<!-- marginal: e -->
-
-<!-- marginal: e -->
-
-<!-- marginal: e -->
-
-d e e i u e e e e e e a a a
-
-<!-- marginal: e -->
-
-<!-- marginal: e -->
-
-<!-- marginal: e -->
-
-<!-- marginal: e -->
-
-<!-- marginal: e -->
-
-w t t b k d s
-
-<!-- marginal: t -->
-
-<!-- marginal: t -->
-
-<!-- marginal: t -->
-
-<!-- marginal: t -->
-
-p s p p p
-
-<!-- marginal: s -->
-
-<!-- marginal: m -->
-
-<!-- marginal: m -->
-
-<!-- marginal: m -->
-
-<!-- marginal: m -->
-
-g g a a a i i n n m g g t t p a a i i e ) ) ) ) e g ) ) ) e s s i
-
-<!-- marginal: i -->
-
-) s s i
-
-<!-- marginal: i -->
-
-v
-
-<!-- marginal: v -->
-
-n i
-
-<!-- marginal: i -->
-
-<!-- marginal: i -->
-
-<!-- marginal: v -->
-
-a a i
-
-<!-- marginal: i -->
-
-P m a a m i
-
-<!-- marginal: i -->
-
-i i
-
-<!-- marginal: i -->
-
-( ( ( ( ( ( p p ( ( p p h e e a 0 a e ) P k 1 P k s a ( a s a a t l u o k v o l a r i o i t d c r i o e u h k F s
-
-<!-- page 50 -->
-
-<!-- marginal: t -->
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-<!-- marginal: p -->
-
-### a
-
-<!-- marginal: l -->
-
-<!-- marginal: m -->
-
-### n
-
-<!-- marginal: e -->
-
-<!-- marginal: e -->
-
-### m
-
-### a
-
-<!-- marginal: k -->
-
-<!-- marginal: t -->
-
-### i
-
-### g
-
-### l
-
-### n
-
-### r
-
-### e
-
-<!-- marginal: a -->
-
-<!-- marginal: g -->
-
-### a
-
-### n
-
-### a
-
-% % % % %
-
-<!-- marginal: d -->
-
-<!-- marginal: n -->
-
-### a
-
-### n
-
-### K
-
-### d
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-### r
-
-### u
-
-0 0
-
-<!-- marginal: 0 -->
-
-<!-- marginal: 0 -->
-
-<!-- marginal: 0 -->
-
-### a
-
-<!-- marginal: p -->
-
-<!-- marginal: y -->
-
-. . . . .
-
-### u
-
-### g
-
-### h
-
-<!-- marginal: e -->
-
-8 8
-
-<!-- marginal: 8 -->
-
-<!-- marginal: 8 -->
-
-<!-- marginal: 8 -->
-
-### g
-
-### K
-
-### n
-
-### a
-
-<!-- marginal: k -->
-
-<!-- marginal: n -->
-
-### t
-
-### n
-
-### a
-
-<!-- marginal: a -->
-
-### e
-
-### u
-
-<!-- marginal: h -->
-
-<!-- marginal: n -->
-
-### p
-
-<!-- marginal: a -->
-
 <!-- marginal: u -->
 
-### R
-
-<!-- marginal: l -->
-
-<!-- marginal: k -->
-
-<!-- marginal: u -->
-
-<!-- marginal: p -->
-
-<!-- marginal: p -->
-
-<!-- marginal: a -->
-
-<!-- marginal: r -->
-
-<!-- marginal: n -->
-
-<!-- marginal: e -->
-
-### t
-
-### t
-
-<!-- marginal: e -->
-
-### t
-
-<!-- marginal: p -->
-
-### a
-
-### a
-
-### a
-
-<!-- marginal: g -->
-
-### l
-
-### a
-
-<!-- marginal: i -->
-
-<!-- marginal: t -->
-
-### p
-
-### u
-
-### u
-
-### f
-
-### u
-
-### h
-
-<!-- marginal: d -->
-
-### i
-
-<!-- marginal: a -->
-
-### k
-
-### )
-
-### k
-
-### r
-
-### m
-
-### k
-
-n n
-
-<!-- marginal: n -->
-
-<!-- marginal: n -->
-
-<!-- marginal: n -->
-
-<!-- marginal: p -->
-
-### m
-
-### i
-
-### n
-
-### r
-
-<!-- marginal: h -->
-
-### e
-
-### a
-
-### r
+<!-- marginal: b -->
 
 u u
 
-<!-- marginal: u -->
-
-<!-- marginal: u -->
-
-<!-- marginal: u -->
-
-### n
-
-### r
-
-### e
-
-<!-- marginal: m -->
-
-### t
-
-### a
-
-<!-- marginal: a -->
-
-### e
-
-### e
-
-h h
-
-<!-- marginal: h -->
-
-<!-- marginal: h -->
-
-<!-- marginal: h -->
-
-<!-- marginal: l -->
-
-### a
-
-### a
-
 <!-- marginal: e -->
 
-### b
-
-### k
-
-a a
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-### b
-
 <!-- marginal: t -->
-
-### t
-
-### K
-
-<!-- marginal: k -->
-
-### a
-
-### a
-
-t t
-
-<!-- marginal: t -->
-
-<!-- marginal: t -->
-
-<!-- marginal: t -->
-
-### (
-
-### a
-
-### l
-
-<!-- marginal: a -->
-
-### s
-
-### l
-
-### i
-
-### h
-
-<!-- marginal: a -->
-
-### g
-
-### u
-
-<!-- marginal: d -->
-
-### a
-
-1 1
-
-<!-- marginal: 1 -->
-
-<!-- marginal: 1 -->
-
-<!-- marginal: 1 -->
-
-### a
-
-### r
-
-### a
-
-### k
-
-<!-- marginal: d -->
-
-### n
-
-<!-- marginal: n -->
-
-### s
-
-2 2
-
-<!-- marginal: 2 -->
-
-<!-- marginal: 2 -->
-
-<!-- marginal: 2 -->
-
-### i
-
-### u
-
-### g
-
-### a
-
-### m
-
-<!-- marginal: a -->
-
-<!-- marginal: e -->
-
-### a
-
-### r
-
-### a
-
-### k
-
-### d
-
-### r
-
-<!-- marginal: p -->
-
-<!-- marginal: h -->
-
-### a
-
-### u
-
-### u
-
-### e
-
-### T
-
-### k
-
-<!-- marginal: i -->
-
-### p
-
-<!-- marginal: h -->
-
-### R
-
-<!-- marginal: i -->
-
-<!-- marginal: n -->
-
-<!-- marginal: i -->
 
 <!-- marginal: b -->
 
-<!-- marginal: e -->
-
-<!-- marginal: l -->
-
-<!-- marginal: l -->
-
-s n
-
-<!-- marginal: a -->
-
-a
-
-### t
-
-a
-
-<!-- marginal: u -->
-
-s
-
-<!-- marginal: u -->
-
-### m
-
-### t
-
-### a
-
-s r
-
-### i
-
-h
-
-### f
-
-<!-- marginal: a -->
-
-u
-
-<!-- marginal: d -->
-
-### a
-
-f
-
-### a
-
-### g
-
-a a
-
-### i
-
-<!-- marginal: t -->
-
-### l
-
-### g
-
-i a
-
-### i
-
-<!-- marginal: a -->
-
-n
-
-### r
-
-<!-- marginal: a -->
+<!-- marginal: R -->
 
 d
-
-### t
-
-r
-
-### w
-
-### a
-
-### a
-
-b
-
-<!-- marginal: J -->
-
-o n
-
-### a
-
-### e
-
-a a 6
-
-<!-- marginal: 5 -->
-
-<!-- marginal: 3 -->
-
-<!-- marginal: 1 -->
-
-### o
-
-### d
-
-### b
-
-### )
-
-b
-
-### t
-
-a t
-
-<!-- marginal: a -->
-
-m
-
-### l
-
-k
-
-### (
-
-5 2
-
-<!-- marginal: 2 -->
-
-<!-- marginal: 0 -->
-
-<!-- marginal: 0 -->
-
-<!-- marginal: h -->
-
-### i
-
-### K
-
-k . . . . a
-
-### t
-
-8
-
-### m
-
-<!-- marginal: a -->
-
-r
-
-### r
-
-<!-- marginal: m -->
-
-t n
-
-### i
-
-### k
-
-a . 0
-
-<!-- marginal: 0 -->
-
-<!-- marginal: 0 -->
-
-<!-- marginal: 0 -->
-
-a
-
-<!-- marginal: i -->
-
-### n
-
-l
-
-### a
-
-a
-
-### g
-
-### a
-
-a
-
-### g
-
-<!-- marginal: l -->
-
-<!-- marginal: w -->
-
-0 d i
-
-### j
-
-### a
-
-a d k
-
-### p
-
-### n
-
-### d
-
-### g
-
-<!-- marginal: a -->
-
-+ + + + a a
-
-### k
-
-g
-
-<!-- marginal: a -->
-
-a a
-
-### a
-
-### a
-
-### a
-
-<!-- marginal: b -->
-
-### n
-
-p g l
-
-### i
-
-### a
-
-### i
-
-<!-- marginal: k -->
-
-f
-
-### u
-
-K e
-
-### t
-
-### l
-
-a a
-
-### K
-
-### r
-
-<!-- marginal: i -->
-
-i
-
-<!-- marginal: g -->
-
-k
-
-### e
-
-### a
-
-b r g
-
-### R
-
-<!-- marginal: d -->
-
-<!-- marginal: n -->
-
-### s
-
-e
-
-### g
-
-a
-
-<!-- marginal: a -->
-
-s t
-
-<!-- marginal: d -->
-
-<!-- marginal: a -->
-
-<!-- marginal: n -->
-
-<!-- marginal: a -->
-
-<!-- marginal: m -->
-
-<!-- marginal: d -->
-
-<!-- marginal: a -->
-
-<!-- marginal: t -->
-
-a i
-
-<!-- marginal: k -->
-
-i
-
-<!-- marginal: g -->
-
-. r
-
-<!-- marginal: m -->
-
-n
-
-<!-- marginal: t -->
-
-### u
-
-<!-- marginal: u -->
-
-d e
-
-<!-- marginal: n -->
-
-<!-- marginal: g -->
-
-<!-- marginal: a -->
-
-a
-
-<!-- marginal: a -->
-
-t
-
-### r
-
-<!-- marginal: j -->
-
-<!-- marginal: a -->
-
-<!-- marginal: n -->
-
-d i m
-
-<!-- marginal: m -->
-
-)
-
-<!-- marginal: p -->
-
-### a
-
-r
-
-<!-- marginal: y -->
-
-<!-- marginal: a -->
-
-<!-- marginal: t -->
-
-a
-
-<!-- marginal: n -->
-
-<!-- marginal: n -->
-
-a
-
-<!-- marginal: n -->
-
-<!-- marginal: t -->
-
-### h
-
-a l k
-
-<!-- marginal: y -->
-
-<!-- marginal: m -->
-
-(
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-<!-- marginal: g -->
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-a
-
-### a
-
-g
-
-<!-- marginal: t -->
-
-<!-- marginal: t -->
-
-<!-- marginal: e -->
-
-<!-- marginal: i -->
-
-<!-- marginal: n -->
-
-<!-- marginal: n -->
-
-h
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-d a g
-
-<!-- marginal: e -->
-
-<!-- marginal: r -->
-
-### b
-
-<!-- marginal: w -->
-
-i
-
-<!-- marginal: a -->
-
-<!-- marginal: i -->
-
-<!-- marginal: u -->
-
-g
-
-<!-- marginal: p -->
-
-<!-- marginal: p -->
-
-d n
-
-<!-- marginal: k -->
-
-<!-- marginal: u -->
-
-n
-
-<!-- marginal: r -->
-
-<!-- marginal: o -->
-
-b
-
-<!-- marginal: y -->
-
-i
-
-<!-- marginal: g -->
-
-n n
-
-<!-- marginal: s -->
-
-<!-- marginal: l -->
-
-a a
-
-### h
-
-<!-- marginal: u -->
-
-e
-
-<!-- marginal: i -->
-
-<!-- marginal: m -->
-
-<!-- marginal: m -->
-
-a a h
-
-<!-- marginal: n -->
-
-<!-- marginal: g -->
-
-### e
-
-l p
-
-<!-- marginal: s -->
-
-n
-
-<!-- marginal: n -->
-
-<!-- marginal: e -->
-
-<!-- marginal: e -->
-
-<!-- marginal: k -->
-
-### l
-
-e
-
-<!-- marginal: a -->
-
-y
-
-<!-- marginal: g -->
-
-g e
-
-<!-- marginal: n -->
-
-<!-- marginal: t -->
-
-<!-- marginal: t -->
-
-u
-
-<!-- marginal: a -->
-
-s
-
-### o
-
-<!-- marginal: b -->
-
-<!-- marginal: a -->
-
-<!-- marginal: n -->
-
-n u
-
-<!-- marginal: a -->
-
-k g
-
-<!-- marginal: t -->
-
-<!-- marginal: k -->
-
-<!-- marginal: p -->
-
-u
-
-<!-- marginal: a -->
-
-a a
-
-### b
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-<!-- marginal: y -->
-
-<!-- marginal: l -->
-
-n r n t
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-<!-- marginal: r -->
-
-<!-- marginal: r -->
-
-<!-- marginal: s -->
-
-s
-
-<!-- marginal: n -->
-
-n
-
-<!-- marginal: l -->
-
-<!-- marginal: o -->
-
-<!-- marginal: i -->
-
-a a a a
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-a
-
-<!-- marginal: a -->
-
-<!-- marginal: g -->
-
-### a
-
-<!-- marginal: t -->
-
-a
-
-<!-- marginal: n -->
-
-<!-- marginal: a -->
-
-<!-- marginal: v -->
-
-b h
-
-### a
-
-d
-
-<!-- marginal: c -->
-
-<!-- marginal: c -->
-
-p
-
-<!-- marginal: h -->
-
-<!-- marginal: e -->
-
-<!-- marginal: n -->
-
-### g
-
-<!-- marginal: a -->
-
-h
-
-<!-- marginal: g -->
-
-<!-- marginal: o -->
-
-u a
-
-<!-- marginal: e -->
-
-<!-- marginal: e -->
-
-<!-- marginal: s -->
-
-### u
-
-e
-
-<!-- marginal: a -->
-
-t ,
-
-### k
-
-<!-- marginal: o -->
-
-r
-
-### a
-
-a
-
-<!-- marginal: t -->
-
-t
-
-<!-- marginal: h -->
-
-<!-- marginal: s -->
-
-<!-- marginal: s -->
-
-t b t p
-
-<!-- marginal: b -->
-
-### d
-
-<!-- marginal: f -->
-
-a
-
-### a
-
-<!-- marginal: y -->
-
-u b
-
-<!-- marginal: o -->
-
-<!-- marginal: u -->
-
-t
-
-### n
-
-<!-- marginal: i -->
-
-a
-
-<!-- marginal: i -->
-
-t
-
-<!-- marginal: l -->
-
-<!-- marginal: f -->
-
-s
-
-### e
-
-### y
-
-a
-
-<!-- marginal: n -->
-
-### e
-
-i
-
-<!-- marginal: i -->
-
-<!-- marginal: r -->
-
-<!-- marginal: g -->
-
-<!-- marginal: g -->
-
-<!-- marginal: g -->
-
-h m k
-
-<!-- marginal: u -->
-
-### t
-
-w
-
-<!-- marginal: e -->
-
-### a
-
-a
-
-<!-- marginal: a -->
-
-<!-- marginal: l -->
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-e
-
-<!-- marginal: n -->
-
-<!-- marginal: n -->
-
-### K
-
-a w a
-
-### l
-
-u
-
-<!-- marginal: p -->
-
-<!-- marginal: t -->
-
-a l
-
-<!-- marginal: p -->
-
-g
-
-<!-- marginal: g -->
-
-t
-
-<!-- marginal: u -->
-
-<!-- marginal: b -->
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-r a
-
-<!-- marginal: r -->
-
-n
-
-### n
-
-g o t
-
-<!-- marginal: s -->
-
-<!-- marginal: s -->
-
-a
-
-<!-- marginal: a -->
-
-### g
-
-<!-- marginal: d -->
-
-<!-- marginal: e -->
-
-<!-- marginal: t -->
-
-<!-- marginal: r -->
-
-a g
-
-### g
-
-i
-
-<!-- marginal: t -->
-
-### a
-
-e s b
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-b
-
-<!-- marginal: b -->
-
-<!-- marginal: o -->
-
-<!-- marginal: i -->
-
-<!-- marginal: a -->
-
-### n
-
-<!-- marginal: a -->
-
-e
-
-<!-- marginal: p -->
-
-a
-
-### n
-
-### g
-
-<!-- marginal: l -->
-
-<!-- marginal: p -->
-
-<!-- marginal: p -->
-
-e
-
-<!-- marginal: e -->
-
-m
-
-<!-- marginal: g -->
-
-m
-
-### a
-
-<!-- marginal: d -->
-
-g
-
-<!-- marginal: i -->
-
-<!-- marginal: i -->
-
-u a
-
-### a
-
-- s
-
-<!-- marginal: s -->
-
-<!-- marginal: m -->
-
-<!-- marginal: a -->
-
-### n
-
-m
-
-<!-- marginal: n -->
-
-<!-- marginal: a -->
-
-<!-- marginal: g -->
-
-a
-
-### u
-
-a
-
-<!-- marginal: d -->
-
-<!-- marginal: d -->
-
-a g
-
-### y
-
-### a
-
-t
-
-<!-- marginal: a -->
-
-0
-
-<!-- marginal: k -->
-
-<!-- marginal: n -->
-
-b a n
-
-<!-- marginal: n -->
-
-<!-- marginal: n -->
-
-<!-- marginal: n -->
-
-n
-
-### s
-
-0
-
-### R
-
-<!-- marginal: i -->
-
-a
-
-<!-- marginal: p -->
-
-3 e
-
-<!-- marginal: u -->
-
-<!-- marginal: u -->
-
-a
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-a n
-
-<!-- marginal: r -->
-
-### a
-
-1
-
-<!-- marginal: a -->
-
-s
-
-<!-- marginal: n -->
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-a
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-e n
-
-### p
-
-<!-- marginal: t -->
-
-<!-- marginal: t -->
-
-k t
-
-<!-- marginal: n -->
-
-m i
-
-<!-- marginal: a -->
-
-n
-
-<!-- marginal: n -->
-
-<!-- marginal: n -->
-
-<!-- marginal: n -->
-
-t a
-
-### e
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-u
-
-<!-- marginal: e -->
-
-<!-- marginal: m -->
-
-h
-
-<!-- marginal: d -->
-
-u
-
-<!-- marginal: u -->
-
-<!-- marginal: u -->
-
-<!-- marginal: u -->
-
-i u i n s n
-
-### p
-
-<!-- marginal: a -->
-
-<!-- marginal: g -->
-
-<!-- marginal: t -->
-
-<!-- marginal: t -->
-
-a g
-
-<!-- marginal: g -->
-
-<!-- marginal: g -->
-
-<!-- marginal: g -->
-
-k
-
-<!-- marginal: l -->
-
-a b u a
-
-<!-- marginal: g -->
-
-<!-- marginal: a -->
-
-<!-- marginal: a -->
-
-i
-
-<!-- marginal: n -->
-
-y
-
-<!-- marginal: a -->
-
-g
-
-<!-- marginal: g -->
-
-<!-- marginal: g -->
-
-<!-- marginal: g -->
-
-e g g r
-
-### n
-
-<!-- marginal: n -->
-
-<!-- marginal: a -->
-
-<!-- marginal: u -->
-
-<!-- marginal: u -->
-
-m l n
-
-<!-- marginal: d -->
-
-n
-
-<!-- marginal: n -->
-
-<!-- marginal: n -->
-
-<!-- marginal: n -->
-
-e n n
-
-### a
-
-r
-
-<!-- marginal: e -->
-
-<!-- marginal: a -->
-
-<!-- marginal: b -->
-
-<!-- marginal: b -->
-
-e
-
-### l
-
-e
-
-<!-- marginal: e -->
-
-<!-- marginal: e -->
-
-<!-- marginal: e -->
-
-u
-
-<!-- marginal: r -->
-
-a
-
-<!-- marginal: i -->
-
-<!-- marginal: i -->
-
-a b e
-
-<!-- marginal: p -->
-
-<!-- marginal: t -->
-
-t
-
-### a
-
-p
-
-<!-- marginal: p -->
-
-<!-- marginal: p -->
-
-<!-- marginal: p -->
-
-p s
-
-<!-- marginal: a -->
-
-m b
-
-<!-- marginal: d -->
-
-<!-- marginal: d -->
-
-<!-- marginal: a -->
-
-<!-- marginal: t -->
-
-: a g
-
-### h
-
-<!-- marginal: n -->
-
-<!-- marginal: p -->
-
-m s
-
-### i
-
-<!-- marginal: n -->
-
-p n
-
-<!-- marginal: a -->
-
-e ) a ) )
-
-### r
-
-<!-- marginal: a -->
-
-) e
-
-<!-- marginal: m -->
-
-a
-
-<!-- marginal: i -->
-
-) t i
-
-<!-- marginal: k -->
-
-<!-- marginal: r -->
-
-<!-- marginal: i -->
-
-### e
-
-<!-- marginal: v -->
-
-<!-- marginal: i -->
-
-i
-
-<!-- marginal: e -->
-
-<!-- marginal: i -->
-
-P m y a v
-
-<!-- marginal: i -->
-
-<!-- marginal: b -->
-
-<!-- marginal: e -->
-
-<!-- marginal: i -->
-
-( (
-
-### P
-
-<!-- marginal: e -->
-
-( ( (
-
-<!-- marginal: a -->
-
-<!-- marginal: p -->
-
-<!-- marginal: k -->
-
-<!-- marginal: b -->
-
-)
-
-<!-- marginal: e -->
-
-<!-- marginal: n -->
-
-b
-
-<!-- marginal: g -->
-
-<!-- marginal: y -->
-
-<!-- marginal: a -->
-
-(
-
-<!-- marginal: n -->
-
-<!-- marginal: a -->
-
-<!-- marginal: n -->
-
-<!-- marginal: a -->
-
-<!-- marginal: r -->
-
-<!-- marginal: e -->
-
-<!-- marginal: i -->
-
-<!-- marginal: y -->
-
-<!-- marginal: g -->
-
-<!-- marginal: m -->
-
-### r
-
-### a
-
-<!-- marginal: n -->
-
-### u
-
-<!-- marginal: n -->
-
-### a
-
-### e
-
-### g
-
-### h
-
-<!-- marginal: e -->
-
-<!-- marginal: h -->
-
-### r
-
-<!-- marginal: a -->
-
-### g
-
-### m
-
-### b
-
-### n
-
-### e
-
-<!-- marginal: a -->
-
-<!-- marginal: p -->
-
-### a
-
-<!-- marginal: h -->
-
-### a
-
-### l
-
-### a
-
-<!-- marginal: l -->
-
-### a
-
-<!-- marginal: u -->
-
-### t
-
-### h
-
-### m
-
-### o
-
-### n
-
-<!-- marginal: k -->
-
-<!-- marginal: l -->
-
-<!-- marginal: a -->
-
-### u
-
-### r
-
-### a
-
-### e
-
-<!-- marginal: a -->
-
-### u
-
-### b
-
-<!-- marginal: u -->
-
-<!-- marginal: u -->
-
-### e
-
-### t
-
-### b
-
-### R
-
-<!-- marginal: d -->
-
-### S
-
-<!-- marginal: p -->
-
-### P
-
-<!-- marginal: m -->
-
-<!-- marginal: r -->
-
-<!-- marginal: n -->
-
-<!-- marginal: e -->
-
-<!-- marginal: e -->
-
-<!-- marginal: e -->
 
 <!-- marginal: S -->
 
-<!-- marginal: p -->
+p
 
-<!-- marginal: h -->
+<!-- marginal: P -->
+
+m r n e e e S p h
 
 <!-- page 51 -->
 
 hURAIAN Rang Undang-Undang tenaga boleh baharu 2010 (“Akta yang dicadangkan”) bertujuan untuk mengadakan peruntukan bagi mewujudkan dan melaksanakan suatu sistem tarif khas untuk memangkin penjanaan tenaga boleh baharu, dan bagi perkara yang berkaitan dengannya.
 
-## Bahagian i
+## BAHAGIAN I
 
-2. bahagian I memperkatakan perkara permulaan. 3. Fasal 1 mengandungi tajuk ringkas Akta yang dicadangkan. Akta yang dicadangkan terpakai di seluruh Malaysia. Walau bagaimanapun, Menteri diberi kuasa untuk menetapkan tarikh yang berlainan bagi permulaan kuat kuasa peruntukan yang berlainan dalam Akta di bahagian yang berlainan di Malaysia. 4. Fasal 2 mengandungi takrif perkataan dan ungkapan tertentu yang digunakan dalam Akta yang dicadangkan.
+2. bahagian I memperkatakan perkara permulaan.
 
-## Bahagian ii
+3. Fasal 1 mengandungi tajuk ringkas Akta yang dicadangkan. Akta yang dicadangkan terpakai di seluruh Malaysia. Walau bagaimanapun, Menteri diberi kuasa untuk menetapkan tarikh yang berlainan bagi permulaan kuat kuasa peruntukan yang berlainan dalam Akta di bahagian yang berlainan di Malaysia.
 
-5. bahagian II mengadakan peruntukan bagi mewujudkan sistem tarif galakan dan perkara yang berkaitan dengannya. 6. Fasal 3 bertujuan untuk menubuhkan sistem tarif galakan yang menyediakan penyambungan kepada tempat sambungan talian bekalan bagi pengagihan tenaga boleh baharu yang dijana daripada pepasangan tenaga boleh baharu yang dipunyai oleh pemegang kelulusan galakan dan keutamaan pembelian dan pengagihan oleh pemegang lesen pengagihan bagi tenaga boleh baharu yang dijana dan dijual oleh pepasangan tenaga boleh baharu itu. Sistem ini juga memperuntukkan tarif galakan ini hendaklah dibayar kepada pemegang kelulusan galakan bagi tenaga boleh baharu itu. Sistem tarif galakan ini hendaklah ditadbirkan dan dilaksanakan oleh Pihak berkuasa Pembangunan tenaga lestari Malaysia (“Pihak berkuasa”) yang, dalam menjalankan fungsinya, akan memberikan pertimbangan yang sewajarnya kepada perkara-perkara yang dinyatakan dalam subfasal 3(3). 7. Fasal 4 bertujuan untuk mengadakan peruntukan bagi kriteria kelayakan untuk memohon bagi kelulusan galakan. Seseorang itu layak untuk memohon bagi kelulusan galakan jika orang itu mencadangkan penjanaan tenaga boleh baharu daripada pepasangan tenaga boleh baharu yang mempunyai kapasiti terpasang yang tidak melebihi tiga puluh megawatt atau apa-apa kapasiti terpasang yang lebih tinggi yang diluluskan oleh Menteri dan jika orang itu memenuhi kriteria lain yang ditetapkan oleh Pihak berkuasa. 8. Fasal 5 memperkatakan permohonan bagi kelulusan galakan di bawah Akta yang dicadangkan.
+4. Fasal 2 mengandungi takrif perkataan dan ungkapan tertentu yang digunakan dalam Akta yang dicadangkan.
+
+## BAHAGIAN II
+
+5. bahagian II mengadakan peruntukan bagi mewujudkan sistem tarif galakan dan perkara yang berkaitan dengannya.
+
+6. Fasal 3 bertujuan untuk menubuhkan sistem tarif galakan yang menyediakan penyambungan kepada tempat sambungan talian bekalan bagi pengagihan tenaga boleh baharu yang dijana daripada pepasangan tenaga boleh baharu yang dipunyai oleh pemegang kelulusan galakan dan keutamaan pembelian dan pengagihan oleh pemegang lesen pengagihan bagi tenaga boleh baharu yang dijana dan dijual oleh pepasangan tenaga boleh baharu itu. Sistem ini juga memperuntukkan tarif galakan ini hendaklah dibayar kepada pemegang kelulusan galakan bagi tenaga boleh baharu itu. Sistem tarif galakan ini hendaklah ditadbirkan dan dilaksanakan oleh Pihak berkuasa Pembangunan tenaga lestari Malaysia (“Pihak berkuasa”) yang, dalam menjalankan fungsinya, akan memberikan pertimbangan yang sewajarnya kepada perkara-perkara yang dinyatakan dalam subfasal 3(3).
+
+7. Fasal 4 bertujuan untuk mengadakan peruntukan bagi kriteria kelayakan untuk memohon bagi kelulusan galakan. Seseorang itu layak untuk memohon bagi kelulusan galakan jika orang itu mencadangkan penjanaan tenaga boleh baharu daripada pepasangan tenaga boleh baharu yang mempunyai kapasiti terpasang yang tidak melebihi tiga puluh megawatt atau apa-apa kapasiti terpasang yang lebih tinggi yang diluluskan oleh Menteri dan jika orang itu memenuhi kriteria lain yang ditetapkan oleh Pihak berkuasa.
+
+8. Fasal 5 memperkatakan permohonan bagi kelulusan galakan di bawah Akta yang dicadangkan.
 
 <!-- page 52 -->
 
@@ -6668,7 +5478,7 @@ hURAIAN Rang Undang-Undang tenaga boleh baharu 2010 (“Akta yang dicadangkan”
 
 14. Fasal 11 bertujuan untuk membenarkan mana-mana orang yang terkilan dengan keputusan Pihak berkuasa di bawah fasal 7, 9 dan 10 untuk membuat rayuan kepada Menteri yang keputusannya adalah muktamad.
 
-## Bahagian iii
+## BAHAGIAN III
 
 15. bahagian III memperkatakan perjanjian pembelian kuasa tenaga boleh baharu, dan penyambungan kepada tempat sambungan talian bekalan dan keutamaan pembelian dan pengagihan oleh pemegang lesen pengagihan bagi tenaga boleh baharu yang dijana oleh pepasangan tenaga boleh baharu.
 
@@ -6676,11 +5486,21 @@ hURAIAN Rang Undang-Undang tenaga boleh baharu 2010 (“Akta yang dicadangkan”
 
 <!-- page 53 -->
 
-17. Fasal 13 bertujuan untuk menghendaki pemegang lesen pengagihan untuk menyambung pepasangan tenaga boleh baharu yang dipunyai oleh pemegang kelulusan galakan kepada talian bekalan dalam apa-apa tempoh yang ditetapkan oleh Pihak berkuasa. Seseorang yang melanggar fasal ini melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu juta ringgit. 18. Fasal 14 bertujuan untuk menghendaki pemegang lesen pengagihan, sebagai keutamaan daripada elektrik yang dijana daripada sumber selain daripada sumber boleh baharu, untuk membeli dan mengagihkan melalui talian bekalan keseluruhan kuantiti tenaga boleh baharu yang ada yang dijana oleh pepasangan tenaga boleh baharu yang dipunyai oleh pemegang kelulusan galakan melainkan jika dikecualikan oleh Pihak berkuasa dengan mengambil kira keselamatan awam dan keselamatan diri. Seseorang yang melanggar fasal ini melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu juta ringgit. 19. Fasal 15 bertujuan untuk memberi Pihak berkuasa kuasa, dengan persetujuan Suruhanjaya tenaga, untuk menetapkan kaedah-kaedah yang menentukan kehendak teknikal dan pengendalian yang hendaklah dipatuhi oleh pemegang lesen pengagihan dan pemegang kelulusan galakan dalam pelaksanaan bahagian III Akta yang dicadangkan.
+17. Fasal 13 bertujuan untuk menghendaki pemegang lesen pengagihan untuk menyambung pepasangan tenaga boleh baharu yang dipunyai oleh pemegang kelulusan galakan kepada talian bekalan dalam apa-apa tempoh yang ditetapkan oleh Pihak berkuasa. Seseorang yang melanggar fasal ini melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu juta ringgit.
 
-## Bahagian iV
+18. Fasal 14 bertujuan untuk menghendaki pemegang lesen pengagihan, sebagai keutamaan daripada elektrik yang dijana daripada sumber selain daripada sumber boleh baharu, untuk membeli dan mengagihkan melalui talian bekalan keseluruhan kuantiti tenaga boleh baharu yang ada yang dijana oleh pepasangan tenaga boleh baharu yang dipunyai oleh pemegang kelulusan galakan melainkan jika dikecualikan oleh Pihak berkuasa dengan mengambil kira keselamatan awam dan keselamatan diri. Seseorang yang melanggar fasal ini melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu juta ringgit.
 
-20. bahagian IV memperkatakan peruntukan yang berhubungan dengan tarif galakan yang kena dibayar kepada pemegang kelulusan galakan, kadar pengurangan dan kajian semula tarif galakan, dan kesetaraan grid bagi pepasangan tenaga boleh baharu. 21. Fasal 16 bertujuan untuk mengadakan peruntukan bahawa pemegang kelulusan galakan hendaklah dibayar tarif galakan berdasarkan kadar tarif galakan yang terpakai sebagaimana yang dilaraskan di bawah fasal 18 bagi tenaga boleh baharu yang dijana oleh pepasangan tenaga boleh baharunya. 22. Fasal 17 bertujuan untuk mengadakan peruntukan bagi pengurangan progresif kadar tarif galakan setiap tahun berdasarkan kadar pengurangan yang terpakai yang bermula pada 1 Januari tiap-tiap tahun selepas tarikh permulaan kuat kuasa Akta yang dicadangkan. Walau bagaimanapun, tiada pengurangan selanjutnya boleh dibuat kepada kadar tarif galakan yang terpakai bagi pemegang kelulusan galakan selepas tarikh permulaan kuat kuasa tarif galakan berkenaan dengan pemegang kelulusan galakan itu. 23. Fasal 18 memperkatakan tatacara kajian semula dan pelarasan kadar pengurangan bagi maksud mempertingkatkan prestasi keseluruhan sistem tarif galakan untuk mencapai objektif Akta yang dicadangkan dengan lebih baik. kadar pengurangan yang diubah tidak terpakai bagi pemegang kelulusan galakan yang wujud sebelum kadar pengurangan yang diubah itu berkuat kuasa.
+19. Fasal 15 bertujuan untuk memberi Pihak berkuasa kuasa, dengan persetujuan Suruhanjaya tenaga, untuk menetapkan kaedah-kaedah yang menentukan kehendak teknikal dan pengendalian yang hendaklah dipatuhi oleh pemegang lesen pengagihan dan pemegang kelulusan galakan dalam pelaksanaan bahagian III Akta yang dicadangkan.
+
+## BAHAGIAN IV
+
+20. bahagian IV memperkatakan peruntukan yang berhubungan dengan tarif galakan yang kena dibayar kepada pemegang kelulusan galakan, kadar pengurangan dan kajian semula tarif galakan, dan kesetaraan grid bagi pepasangan tenaga boleh baharu.
+
+21. Fasal 16 bertujuan untuk mengadakan peruntukan bahawa pemegang kelulusan galakan hendaklah dibayar tarif galakan berdasarkan kadar tarif galakan yang terpakai sebagaimana yang dilaraskan di bawah fasal 18 bagi tenaga boleh baharu yang dijana oleh pepasangan tenaga boleh baharunya.
+
+22. Fasal 17 bertujuan untuk mengadakan peruntukan bagi pengurangan progresif kadar tarif galakan setiap tahun berdasarkan kadar pengurangan yang terpakai yang bermula pada 1 Januari tiap-tiap tahun selepas tarikh permulaan kuat kuasa Akta yang dicadangkan. Walau bagaimanapun, tiada pengurangan selanjutnya boleh dibuat kepada kadar tarif galakan yang terpakai bagi pemegang kelulusan galakan selepas tarikh permulaan kuat kuasa tarif galakan berkenaan dengan pemegang kelulusan galakan itu.
+
+23. Fasal 18 memperkatakan tatacara kajian semula dan pelarasan kadar pengurangan bagi maksud mempertingkatkan prestasi keseluruhan sistem tarif galakan untuk mencapai objektif Akta yang dicadangkan dengan lebih baik. kadar pengurangan yang diubah tidak terpakai bagi pemegang kelulusan galakan yang wujud sebelum kadar pengurangan yang diubah itu berkuat kuasa.
 
 <!-- page 54 -->
 
@@ -6692,7 +5512,7 @@ hURAIAN Rang Undang-Undang tenaga boleh baharu 2010 (“Akta yang dicadangkan”
 
 27. Subfasal 22(1) bertujuan untuk menjadikan sebagai suatu kesalahan bagi seseorang untuk menjana elektrik secara curang daripada pepasangan tenaga boleh baharu dengan menggunakan sumber selain sumber boleh baharu yang dinyatakan dalam kelulusan galakan yang terpakai bagi pepasangan tenaga boleh baharu itu untuk menerima pembayaran atau pembayaran lebih tinggi tarif galakan. orang yang melakukan kesalahan ini boleh, apabila disabitkan, didenda tidak melebihi satu juta ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya. Subfasal 22(3) memberi Pihak berkuasa kuasa untuk menghendaki orang itu untuk membayar kerugian kepada kumpulan Wang yang disebabkan oleh pembayaran atau pembayaran lebih tinggi tarif galakan dalam subfasal 22(1) yang jika masih belum dibayar hendaklah dianggap sebagai hutang sivil yang kena dibayar kepada Pihak berkuasa.
 
-## Bahagian V
+## BAHAGIAN V
 
 28. bahagian V mengadakan peruntukan bagi penubuhan kumpulan Wang tenaga boleh baharu dan perkara yang berkaitan dengannya.
 
@@ -6700,11 +5520,23 @@ hURAIAN Rang Undang-Undang tenaga boleh baharu 2010 (“Akta yang dicadangkan”
 
 <!-- page 55 -->
 
-30. Subfasal 24(1) bertujuan untuk memberi Menteri kuasa untuk menghendaki pemegang lesen pengagihan untuk memperuntukkan dan membayar ke dalam kumpulan Wang sebahagian tarif yang dikenakan oleh pemegang lesen pengagihan itu di bawah subseksyen 26(1) Akta bekalan elektrik 1990. Pemegang lesen pengagihan yang melanggar subfasal 24(1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu juta ringgit. Subfasal 24(4) memberi Pihak berkuasa kuasa untuk menghendaki pemegang lesen pengagihan membayar ke dalam kumpulan Wang sebahagian tarif yang belum dibayar yang jika masih belum dibayar hendaklah dianggap sebagai hutang sivil yang kena dibayar kepada Pihak berkuasa. Subfasal 24(6) bertujuan untuk membenarkan Menteri untuk membatalkan kehendak dalam subfasal 24(1) jika dia berpuas hati bahawa terdapat wang yang mencukupi dalam kumpulan Wang untuk memenuhi maksud Akta yang dicadangkan. 31. Fasal 25 menyatakan perbelanjaan yang boleh dipertanggungkan pada kumpulan Wang. 32. Fasal 26 menghendaki supaya wang daripada kumpulan Wang, setakat yang wang itu tidak dikehendaki atau tidak dikehendaki dengan serta-merta untuk dibelanjakan oleh Pihak berkuasa di bawah Akta yang dicadangkan, dilaburkan mengikut apa-apa cara yang diluluskan oleh Menteri dengan persetujuan Menteri kewangan. 33. Fasal 27 menghendaki Pihak berkuasa supaya menyebabkan akaun yang sepatutnya bagi kumpulan Wang dan laporan yang sepatutnya mengenai aktivitinya berkenaan dengan kumpulan Wang disimpan dan mengemukakan akaun dan laporan juruaudit kepada Menteri yang hendaklah menyebabkan akaun dan laporan juruaudit itu dibentangkan di hadapan kedua-dua Majlis Parlimen.
+30. Subfasal 24(1) bertujuan untuk memberi Menteri kuasa untuk menghendaki pemegang lesen pengagihan untuk memperuntukkan dan membayar ke dalam kumpulan Wang sebahagian tarif yang dikenakan oleh pemegang lesen pengagihan itu di bawah subseksyen 26(1) Akta bekalan elektrik 1990. Pemegang lesen pengagihan yang melanggar subfasal 24(1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu juta ringgit. Subfasal 24(4) memberi Pihak berkuasa kuasa untuk menghendaki pemegang lesen pengagihan membayar ke dalam kumpulan Wang sebahagian tarif yang belum dibayar yang jika masih belum dibayar hendaklah dianggap sebagai hutang sivil yang kena dibayar kepada Pihak berkuasa. Subfasal 24(6) bertujuan untuk membenarkan Menteri untuk membatalkan kehendak dalam subfasal 24(1) jika dia berpuas hati bahawa terdapat wang yang mencukupi dalam kumpulan Wang untuk memenuhi maksud Akta yang dicadangkan.
 
-## Bahagian Vi
+31. Fasal 25 menyatakan perbelanjaan yang boleh dipertanggungkan pada kumpulan Wang.
 
-34. bahagian VI memperkatakan kuasa Pihak berkuasa untuk mengumpulkan maklumat. 35. Fasal 28 bertujuan untuk memberi Pihak berkuasa kuasa untuk menjalankan atau melantik juruaudit untuk menjalankan suatu audit ke atas operasi pemegang lesen pengagihan atau pemegang kelulusan galakan untuk menilai pematuhan mereka terhadap Akta yang dicadangkan, perundangan subsidiarinya dan syarat kelulusan galakan. 36. Fasal 29 bertujuan untuk membenarkan Pihak berkuasa untuk memerintahkan seseorang untuk memberikan apa-apa maklumat atau dokumen yang berkaitan, atau keterangan yang dipercayai dengan munasabah oleh Pihak berkuasa adalah berkaitan, bagi maksud menjalankan fungsi dan kuasanya di bawah Akta yang dicadangkan. 37. Fasal 30 memperuntukkan bahawa seseorang hendaklah memberikan kepada Pihak berkuasa atau pegawai diberi kuasanya semua dokumen dan maklumat yang dipunyai oleh orang itu yang berhubungan dengan pematuhannya terhadap Akta yang dicadangkan atau perundangan subsidiarinya jika dikehendaki oleh Pihak berkuasa bagi kes yang tertentu.
+32. Fasal 26 menghendaki supaya wang daripada kumpulan Wang, setakat yang wang itu tidak dikehendaki atau tidak dikehendaki dengan serta-merta untuk dibelanjakan oleh Pihak berkuasa di bawah Akta yang dicadangkan, dilaburkan mengikut apa-apa cara yang diluluskan oleh Menteri dengan persetujuan Menteri kewangan.
+
+33. Fasal 27 menghendaki Pihak berkuasa supaya menyebabkan akaun yang sepatutnya bagi kumpulan Wang dan laporan yang sepatutnya mengenai aktivitinya berkenaan dengan kumpulan Wang disimpan dan mengemukakan akaun dan laporan juruaudit kepada Menteri yang hendaklah menyebabkan akaun dan laporan juruaudit itu dibentangkan di hadapan kedua-dua Majlis Parlimen.
+
+## BAHAGIAN VI
+
+34. bahagian VI memperkatakan kuasa Pihak berkuasa untuk mengumpulkan maklumat.
+
+35. Fasal 28 bertujuan untuk memberi Pihak berkuasa kuasa untuk menjalankan atau melantik juruaudit untuk menjalankan suatu audit ke atas operasi pemegang lesen pengagihan atau pemegang kelulusan galakan untuk menilai pematuhan mereka terhadap Akta yang dicadangkan, perundangan subsidiarinya dan syarat kelulusan galakan.
+
+36. Fasal 29 bertujuan untuk membenarkan Pihak berkuasa untuk memerintahkan seseorang untuk memberikan apa-apa maklumat atau dokumen yang berkaitan, atau keterangan yang dipercayai dengan munasabah oleh Pihak berkuasa adalah berkaitan, bagi maksud menjalankan fungsi dan kuasanya di bawah Akta yang dicadangkan.
+
+37. Fasal 30 memperuntukkan bahawa seseorang hendaklah memberikan kepada Pihak berkuasa atau pegawai diberi kuasanya semua dokumen dan maklumat yang dipunyai oleh orang itu yang berhubungan dengan pematuhannya terhadap Akta yang dicadangkan atau perundangan subsidiarinya jika dikehendaki oleh Pihak berkuasa bagi kes yang tertentu.
 
 <!-- page 56 -->
 
@@ -6718,7 +5550,7 @@ hURAIAN Rang Undang-Undang tenaga boleh baharu 2010 (“Akta yang dicadangkan”
 
 42. Fasal 35 memperuntukkan bahawa seseorang yang tidak mematuhi perintah Pihak berkuasa mengikut bahagian VI melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya.
 
-## Bahagian Vii
+## BAHAGIAN VII
 
 43. bahagian VII memperkatakan peruntukan penguatkuasaan.
 
@@ -6736,9 +5568,31 @@ hURAIAN Rang Undang-Undang tenaga boleh baharu 2010 (“Akta yang dicadangkan”
 
 <!-- page 57 -->
 
-50. Fasal 43 mengenakan kewajipan ke atas seorang pegawai diberi kuasa untuk menyediakan suatu senarai mana-mana kelengkapan, peralatan, bahan, buku, rekod, akaun, dokumen atau benda yang disita di bawah Akta yang dicadangkan. 51. Fasal 44 memperkatakan pelepasan apa-apa benda yang disita di bawah Akta yang dicadangkan menurut fasal 43. 52. Fasal 45 membolehkan seorang pegawai diberi kuasa untuk mengarahkan kehadiran mana-mana orang yang mempunyai pengetahuan tentang kes. 53. Fasal 46 memberikan kuasa kepada pegawai diberi kuasa yang menyiasat sesuatu kes di bawah Akta yang dicadangkan untuk memeriksa secara lisan mana-mana orang yang dikatakan mempunyai pengetahuan tentang fakta dan hal keadaaan kes itu. 54. Fasal 47 memperkatakan peruntukan yang berhubungan dengan kebolehterimaan pernyataan sebagai keterangan. 55. Fasal 48 mengenakan suatu obligasi ke atas pegawai diberi kuasa untuk memberikan semua maklumat yang berkaitan dengan pelakuan suatu kesalahan dengan segera kepada pegawai penjaga suatu balai polis setelah penyiasatan selesai. 56. Fasal 49 memperkatakan kos bagi memegang apa-apa benda yang telah disita manakala fasal 50 memperkatakan kos atau ganti rugi yang berbangkit daripada penyitaan itu. 57. Fasal 51 menjadikan sebagai suatu kesalahan untuk menghalang pegawai diberi kuasa yang menjalankan penggeledahan dengan tidak memberikan akses kepada premis, mengamang, menghalang, menggalang atau melengahkan pegawai diberi kuasa dalam pelaksanaan fungsinya di bawah Akta yang dicadangkan, atau enggan memberikan apa-apa maklumat yang berhubung dengan kesalahan di bawah Akta yang dicadangkan. 58. Fasal 52 memperuntukkan kuasa tambahan kepada seorang pegawai diberi kuasa bagi maksud pelaksanaan Akta yang dicadangkan. 59. Fasal 53 memperuntukkan pengkompaunan kesalahan di bawah Akta yang dicadangkan. 60. Fasal 54 memperuntukkan bahawa pendakwaan bagi sesuatu kesalahan hendaklah dimulakan dengan keizinan Pendakwa Raya. 61. Fasal 55 memperkatakan peruntukan yang berhubungan dengan kesalahan yang dilakukan di bawah Akta yang dicadangkan oleh pertubuhan perbadanan.
+50. Fasal 43 mengenakan kewajipan ke atas seorang pegawai diberi kuasa untuk menyediakan suatu senarai mana-mana kelengkapan, peralatan, bahan, buku, rekod, akaun, dokumen atau benda yang disita di bawah Akta yang dicadangkan.
 
-## Bahagian Viii
+51. Fasal 44 memperkatakan pelepasan apa-apa benda yang disita di bawah Akta yang dicadangkan menurut fasal 43.
+
+52. Fasal 45 membolehkan seorang pegawai diberi kuasa untuk mengarahkan kehadiran mana-mana orang yang mempunyai pengetahuan tentang kes.
+
+53. Fasal 46 memberikan kuasa kepada pegawai diberi kuasa yang menyiasat sesuatu kes di bawah Akta yang dicadangkan untuk memeriksa secara lisan mana-mana orang yang dikatakan mempunyai pengetahuan tentang fakta dan hal keadaaan kes itu.
+
+54. Fasal 47 memperkatakan peruntukan yang berhubungan dengan kebolehterimaan pernyataan sebagai keterangan.
+
+55. Fasal 48 mengenakan suatu obligasi ke atas pegawai diberi kuasa untuk memberikan semua maklumat yang berkaitan dengan pelakuan suatu kesalahan dengan segera kepada pegawai penjaga suatu balai polis setelah penyiasatan selesai.
+
+56. Fasal 49 memperkatakan kos bagi memegang apa-apa benda yang telah disita manakala fasal 50 memperkatakan kos atau ganti rugi yang berbangkit daripada penyitaan itu.
+
+57. Fasal 51 menjadikan sebagai suatu kesalahan untuk menghalang pegawai diberi kuasa yang menjalankan penggeledahan dengan tidak memberikan akses kepada premis, mengamang, menghalang, menggalang atau melengahkan pegawai diberi kuasa dalam pelaksanaan fungsinya di bawah Akta yang dicadangkan, atau enggan memberikan apa-apa maklumat yang berhubung dengan kesalahan di bawah Akta yang dicadangkan.
+
+58. Fasal 52 memperuntukkan kuasa tambahan kepada seorang pegawai diberi kuasa bagi maksud pelaksanaan Akta yang dicadangkan.
+
+59. Fasal 53 memperuntukkan pengkompaunan kesalahan di bawah Akta yang dicadangkan.
+
+60. Fasal 54 memperuntukkan bahawa pendakwaan bagi sesuatu kesalahan hendaklah dimulakan dengan keizinan Pendakwa Raya.
+
+61. Fasal 55 memperkatakan peruntukan yang berhubungan dengan kesalahan yang dilakukan di bawah Akta yang dicadangkan oleh pertubuhan perbadanan.
+
+## BAHAGIAN VIII
 
 62. bahagian VIII memperkatakan peruntukan am.
 
@@ -6758,7 +5612,7 @@ hURAIAN Rang Undang-Undang tenaga boleh baharu 2010 (“Akta yang dicadangkan”
 
 69. Fasal 63 bertujuan untuk membenarkan Menteri untuk meminda Jadual melalui perintah yang disiarkan dalam Warta.
 
-## Bahagian iX
+## BAHAGIAN IX
 
 70. bahagian IX memperkatakan peruntukan kecualian dan peralihan.
 
@@ -6766,6 +5620,8 @@ hURAIAN Rang Undang-Undang tenaga boleh baharu 2010 (“Akta yang dicadangkan”
 
 <!-- page 59 -->
 
-di bawah Akta ini atau meneruskan di bawah perjanjian sedia adanya dengan pemegang lesen pengagihan dan tidak menyertai sistem tarif galakan. Di bawah pilihan yang terdahulu itu, tempoh berkuat kuasa yang terpakai bagi pemegang kelulusan galakan itu hendaklah dikurangkan dengan suatu tempoh yang bersamaan dengan tempoh yang dalamnya pepasangan tenaga boleh baharunya telah menjana elektrik bagi penjualan komersial kepada pemegang lesen pengagihan sebelum pemberian kelulusan galakan itu. 72. Fasal 65 menjelaskan bahawa tiada apa-apa dalam Akta yang dicadangkan boleh ditafsirkan sebagai mengurangkan atau melanjutkan tempoh sesuatu lesen yang dikeluarkan di bawah seksyen 9 Akta bekalan elektrik 1990. impliKASi KeWAngAn Rang Undang-Undang ini akan melibatkan kerajaan dalam perbelanjaan wang tambahan yang amaunnya belum dapat ditentukan sekarang ini.
+di bawah Akta ini atau meneruskan di bawah perjanjian sedia adanya dengan pemegang lesen pengagihan dan tidak menyertai sistem tarif galakan. Di bawah pilihan yang terdahulu itu, tempoh berkuat kuasa yang terpakai bagi pemegang kelulusan galakan itu hendaklah dikurangkan dengan suatu tempoh yang bersamaan dengan tempoh yang dalamnya pepasangan tenaga boleh baharunya telah menjana elektrik bagi penjualan komersial kepada pemegang lesen pengagihan sebelum pemberian kelulusan galakan itu.
+
+72. Fasal 65 menjelaskan bahawa tiada apa-apa dalam Akta yang dicadangkan boleh ditafsirkan sebagai mengurangkan atau melanjutkan tempoh sesuatu lesen yang dikeluarkan di bawah seksyen 9 Akta bekalan elektrik 1990. impliKASi KeWAngAn Rang Undang-Undang ini akan melibatkan kerajaan dalam perbelanjaan wang tambahan yang amaunnya belum dapat ditentukan sekarang ini.
 
 <!-- marginal: [PN(U2)2745] -->

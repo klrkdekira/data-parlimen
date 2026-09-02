@@ -22,7 +22,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 4 -->
 
-“Part I
+## “PART I
 
 ## PRELIMINARY”
 
@@ -120,7 +120,29 @@ ENACTED by the Parliament of Malaysia as follows:
 
 7. The Ordinance is amended by inserting after section 4 the following section:
 
-“Pupil 4a. (1) The Chief Judge may, upon application made may be in Chambers by a master at the commencement of the permitted pupillage of the master’s pupil, make an order that the to appear pupil be permitted to appear on behalf of the master before or of the firm in which the master is practising— admission on the roll.
+<!-- marginal: “Pupil -->
+
+4a. (1) The Chief Judge may, upon application made
+
+<!-- marginal: may be -->
+
+in Chambers by a master at the commencement of the
+
+<!-- marginal: permitted -->
+
+pupillage of the master’s pupil, make an order that the
+
+<!-- marginal: to appear -->
+
+pupil be permitted to appear on behalf of the master
+
+<!-- marginal: before -->
+
+or of the firm in which the master is practising—
+
+<!-- marginal: admission -->
+
+<!-- marginal: on the roll. -->
 
 (a) during the period of three months from the date of the order—
 
@@ -180,7 +202,17 @@ Attorney-General and the Law Society have been served with the application and h
 
 ## SABAH LAW SOCIETY
 
-Establishment 7a. (1) A body corporate which shall be known of Sabah as the “Sabah Law Society” is established with Law Society. perpetual succession and a common seal.
+<!-- marginal: Establishment -->
+
+7a. (1) A body corporate which shall be known
+
+<!-- marginal: of Sabah -->
+
+as the “Sabah Law Society” is established with
+
+<!-- marginal: Law Society. -->
+
+perpetual succession and a common seal.
 
 (2) The Law Society shall consist of the following:
 
@@ -214,7 +246,13 @@ Establishment 7a. (1) A body corporate which shall be known of Sabah as the “S
 
 (5) The Constitution and rules of the Law Society shall be set out in Part VI of this Act.
 
-Common 7b. (1) The common seal of the Law Society shall seal. bear a device as approved by the Law Society and the seal may from time to time be broken, changed, altered and made anew as the Law Society thinks fit.
+<!-- marginal: Common -->
+
+7b. (1) The common seal of the Law Society shall
+
+<!-- marginal: seal. -->
+
+bear a device as approved by the Law Society and the seal may from time to time be broken, changed, altered and made anew as the Law Society thinks fit.
 
 (2) Until a seal is provided by the Law Society, a stamp bearing the words “Sabah Law Society” may be used and shall be deemed to be its common seal.
 
@@ -230,7 +268,13 @@ Common 7b. (1) The common seal of the Law Society shall seal. bear a device as a
 
 (7) Every document to which the common seal of the Law Society is affixed shall be signed by two members of the Law Society appointed by the President of the Law Society in that behalf.
 
-Annual 7c. (1) Subject to sections 7d and 7e, the Law Certificate. Society shall at any time after the month of June in the preceding year issue an Annual Certificate to an advocate within twenty-eight days of the receipt of an application under subsection (2) if—
+<!-- marginal: Annual -->
+
+7c. (1) Subject to sections 7d and 7e, the Law
+
+<!-- marginal: Certificate. -->
+
+Society shall at any time after the month of June in the preceding year issue an Annual Certificate to an advocate within twenty-eight days of the receipt of an application under subsection (2) if—
 
 (a) the Law Society is satisfied that the application complies with that subsection and any rules made under this section;
 
@@ -248,7 +292,21 @@ Annual 7c. (1) Subject to sections 7d and 7e, the Law Certificate. Society shall
 
 (4) Subject to this Ordinance, the Law Society may make rules regulating the issue of Annual Certificates.
 
-(5) Any rules made by the Law Society under this section shall be signed by the President of the Law Society and published in the Sabah Government Gazette. Issue of Annual 7d. (1) Subsection (2) shall have effect in relation Certificate to an application for an Annual Certificate made in certain by an advocate— conditions.
+(5) Any rules made by the Law Society under this section shall be signed by the President of the Law Society and published in the Sabah Government Gazette.
+
+<!-- marginal: Issue of Annual -->
+
+7d. (1) Subsection (2) shall have effect in relation
+
+<!-- marginal: Certificate -->
+
+to an application for an Annual Certificate made
+
+<!-- marginal: in certain -->
+
+by an advocate—
+
+<!-- marginal: conditions. -->
 
 (a) after more than twelve months have elapsed since his admission and if he has held no valid certificate to practise during that period;
 
@@ -272,7 +330,15 @@ Annual 7c. (1) Subject to sections 7d and 7e, the Law Certificate. Society shall
 
 (a) issue an Annual Certificate; or
 
-(b) notify the applicant that he is required to make an application to the Court under section 7e. Applicant to 7e. An advocate who is— apply to Court.
+(b) notify the applicant that he is required to make an application to the Court under section 7e.
+
+<!-- marginal: Applicant to -->
+
+7e. An advocate who is—
+
+<!-- marginal: apply to -->
+
+<!-- marginal: Court. -->
 
 (a) required to make an application under this section; or
 
@@ -280,7 +346,19 @@ Annual 7c. (1) Subject to sections 7d and 7e, the Law Certificate. Society shall
 
 may apply to the Chief Judge by originating summons for an order directing the Law Society to issue him with an Annual Certificate.
 
-Law Society 7f. (1) The Law Society shall maintain a register to maintain of firm names under which advocates practise. register of firm names. (2) The Law Society may refuse the registration of any firm name on the ground that the proposed firm name is offensive or is likely to be confused with a registered firm name or is likely to mislead the public.
+<!-- marginal: Law Society -->
+
+7f. (1) The Law Society shall maintain a register
+
+<!-- marginal: to maintain -->
+
+of firm names under which advocates practise.
+
+<!-- marginal: register of firm -->
+
+<!-- marginal: names. -->
+
+(2) The Law Society may refuse the registration of any firm name on the ground that the proposed firm name is offensive or is likely to be confused with a registered firm name or is likely to mislead the public.
 
 <!-- page 14 -->
 
@@ -372,7 +450,13 @@ and the Registrar shall on being satisfied that all the necessary documents are 
 
 14. The Ordinance is amended by inserting after section 9 the following sections:
 
-“Disqualification for 9a. (1) An advocate shall not apply for a certificate certificate to practise. to practise—
+<!-- marginal: “Disqualification for -->
+
+9a. (1) An advocate shall not apply for a certificate
+
+<!-- marginal: certificate to practise. -->
+
+to practise—
 
 (a) unless he is practising or intends to practise either on his own account or in partnership in Sabah under a firm registered under section 7f;
 
@@ -384,7 +468,13 @@ and the Registrar shall on being satisfied that all the necessary documents are 
 
 (3) Any advocate who is gainfully employed in accordance with paragraph (1)(c) shall surrender his certificate to practise to the Registrar.
 
-Register of 9b. (1) Upon the issue of every certificate to Advocates. practise the Registrar shall cause to be entered in an annual register known as the “Register of Advocates”, the particulars contained in the declaration delivered under subsection 9(2), and any person may inspect the Register of Advocates during office hours without payment.
+<!-- marginal: Register of -->
+
+9b. (1) Upon the issue of every certificate to
+
+<!-- marginal: Advocates. -->
+
+practise the Registrar shall cause to be entered in an annual register known as the “Register of Advocates”, the particulars contained in the declaration delivered under subsection 9(2), and any person may inspect the Register of Advocates during office hours without payment.
 
 (2) If there is any change with respect to any advocate in the particulars referred to in subsection (1) that advocate shall within one month thereafter notify the Registrar and the Law Society, and the Registrar shall then cause the entry to be made in respect of that advocate in the Register of Advocates.”.
 
@@ -394,9 +484,17 @@ Register of 9b. (1) Upon the issue of every certificate to Advocates. practise t
 
 15. The Ordinance is amended by substituting for section 10 the following section:
 
-“Permission to
+<!-- marginal: “Permission to -->
 
-10. (1) Notwithstanding anything contained in this practise in special Ordinance, the Chief Judge may in his absolute cases. discretion upon application by or on behalf of any person who possesses any of the qualifications mentioned in subsection 4(1) grant permission to such person to practise in any one case or matter subject to any conditions he may think fit and to the payment of the prescribed fee if—
+10. (1) Notwithstanding anything contained in this
+
+<!-- marginal: practise in special -->
+
+Ordinance, the Chief Judge may in his absolute
+
+<!-- marginal: cases. -->
+
+discretion upon application by or on behalf of any person who possesses any of the qualifications mentioned in subsection 4(1) grant permission to such person to practise in any one case or matter subject to any conditions he may think fit and to the payment of the prescribed fee if—
 
 (a) such person has been instructed by a local advocate; and
 
@@ -428,7 +526,7 @@ Register of 9b. (1) Upon the issue of every certificate to Advocates. practise t
 
 16. The Ordinance is amended by inserting before section 12 the following Part:
 
-“Part V
+## “PART V
 
 ## DISCIPLINARY PROCEEDINGS AGAINST ADVOCATES”.
 
@@ -442,7 +540,13 @@ Register of 9b. (1) Upon the issue of every certificate to Advocates. practise t
 
 18. The Ordinance is amended by substituting for section 12a the following section:
 
-“Disciplinary 12a. (1) A Disciplinary Board is established for Board. the purposes of disciplinary proceedings under this Part.
+<!-- marginal: “Disciplinary -->
+
+12a. (1) A Disciplinary Board is established for
+
+<!-- marginal: Board. -->
+
+the purposes of disciplinary proceedings under this Part.
 
 (2) The Disciplinary Board shall consist of the following members:
 
@@ -562,7 +666,21 @@ and the Law Society considers that it would be in the public interest or in the 
 
 (7) For the purpose of this section, “pupil” includes a person who has completed the prescribed period of pupillage but has yet to be admitted as an advocate.
 
-Complaint 12c. (1) Any complaint concerning the conduct of against any advocate or of any pupil shall be in writing and advocate or shall be made or referred to the Disciplinary Board pupil. which shall deal with such complaint in accordance with such rules as may from time to time be made under this Ordinance.
+<!-- marginal: Complaint -->
+
+12c. (1) Any complaint concerning the conduct of
+
+<!-- marginal: against -->
+
+any advocate or of any pupil shall be in writing and
+
+<!-- marginal: advocate or -->
+
+shall be made or referred to the Disciplinary Board
+
+<!-- marginal: pupil. -->
+
+which shall deal with such complaint in accordance with such rules as may from time to time be made under this Ordinance.
 
 (2) Any Court including the Industrial Court and a Syariah Court, a Judge, Sessions Court Judge or Magistrate or the State Attorney-General may at any time refer to the Disciplinary Board any complaint against an advocate or a pupil.
 
@@ -592,9 +710,27 @@ unless the legal firm satisfies the Disciplinary Board of the identity of the ad
 
 (8) For the purpose of this section, “legal firm” includes an international partnership or a qualified foreign law firm licensed under Part VII.
 
-Disciplinary 12d. (1) Before the Disciplinary Board commences Board its hearing in respect of any matter, the Disciplinary to serve Board shall serve on the advocate concerned— application, etc., on
+<!-- marginal: Disciplinary -->
 
-(a) a copy of any written application or complaint advocate. and of any statutory declaration or affidavit that has been made in support of the written application or complaint; and
+12d. (1) Before the Disciplinary Board commences
+
+<!-- marginal: Board -->
+
+its hearing in respect of any matter, the Disciplinary
+
+<!-- marginal: to serve -->
+
+Board shall serve on the advocate concerned—
+
+<!-- marginal: application, -->
+
+<!-- marginal: etc., on -->
+
+(a) a copy of any written application or complaint
+
+<!-- marginal: advocate. -->
+
+and of any statutory declaration or affidavit that has been made in support of the written application or complaint; and
 
 <!-- page 27 -->
 
@@ -606,7 +742,21 @@ Disciplinary 12d. (1) Before the Disciplinary Board commences Board its hearing 
 
 (2) The Disciplinary Board shall give the advocate concerned a reasonable opportunity to be heard and shall give due consideration to any explanation he may make.
 
-Power of 12e. (1) For the purpose of any written application Disciplinary or complaint heard by the Disciplinary Board under Board to this Ordinance, the Disciplinary Board— procure evidence, etc.
+<!-- marginal: Power of -->
+
+12e. (1) For the purpose of any written application
+
+<!-- marginal: Disciplinary -->
+
+or complaint heard by the Disciplinary Board under
+
+<!-- marginal: Board to -->
+
+this Ordinance, the Disciplinary Board—
+
+<!-- marginal: procure -->
+
+<!-- marginal: evidence, etc. -->
 
 (a) may procure and receive all evidence and examine any person as witness as the Disciplinary Board deems necessary or desirable;
 
@@ -642,11 +792,35 @@ Power of 12e. (1) For the purpose of any written application Disciplinary or com
 
 commits an offence and shall, on conviction, be liable to a fine not exceeding two thousand ringgit or to imprisonment for a term not exceeding three months or to both.
 
-Failure 12f. (1) If a person having been duly served with to attend a subpoena to attend the proceedings referred to in proceedings. paragraph 12e(1)(f) fails to do so, the Disciplinary Board may proceed with the proceedings without further notice to such person.
+<!-- marginal: Failure -->
+
+12f. (1) If a person having been duly served with
+
+<!-- marginal: to attend -->
+
+a subpoena to attend the proceedings referred to in
+
+<!-- marginal: proceedings. -->
+
+paragraph 12e(1)(f) fails to do so, the Disciplinary Board may proceed with the proceedings without further notice to such person.
 
 (2) If the person whose conduct is the subject of inquiry fails to attend before the Disciplinary Board, the inquiry or proceeding may be proceeded with without further notice to such person upon proof of service by affidavit or statutory declaration or in such other manner as the Disciplinary Board may direct.
 
-Findings 12g. (1) Upon conclusion of the hearing of any of the matter referred to it, the Disciplinary Board shall Disciplinary record its finding in relation to the facts of the case Board. and according to those facts shall determine and make any one of the following orders:
+<!-- marginal: Findings -->
+
+12g. (1) Upon conclusion of the hearing of any
+
+<!-- marginal: of the -->
+
+matter referred to it, the Disciplinary Board shall
+
+<!-- marginal: Disciplinary -->
+
+record its finding in relation to the facts of the case
+
+<!-- marginal: Board. -->
+
+and according to those facts shall determine and make any one of the following orders:
 
 (a) that as no cause of sufficient gravity for disciplinary action exists and that the application or complaint be dismissed;
 
@@ -666,7 +840,27 @@ Findings 12g. (1) Upon conclusion of the hearing of any of the matter referred t
 
 (2) The Disciplinary Board may in appropriate cases in addition to its order of penalty or punishment, make an order of restitution by the advocate of the complainant’s monies if it is established that such monies were or are held by the advocate in his professional capacity and the complainant is entitled to the return of such monies or part thereof.
 
-Appeal from 12h. (1) Any person aggrieved by any final order the final order or decision of the Disciplinary Board may appeal or decision to the High Court within one month from the date of the of the receipt of that final order or decision. Disciplinary Board. (2) Any person aggrieved by the decision of the High Court may appeal to the Court of Appeal within one month from the date of the receipt of that decision.
+<!-- marginal: Appeal from -->
+
+12h. (1) Any person aggrieved by any final order
+
+<!-- marginal: the final order -->
+
+or decision of the Disciplinary Board may appeal
+
+<!-- marginal: or decision -->
+
+to the High Court within one month from the date
+
+<!-- marginal: of the -->
+
+of the receipt of that final order or decision.
+
+<!-- marginal: Disciplinary -->
+
+<!-- marginal: Board. -->
+
+(2) Any person aggrieved by the decision of the High Court may appeal to the Court of Appeal within one month from the date of the receipt of that decision.
 
 (3) Any person aggrieved by the decision of the Court of Appeal may appeal to the Federal Court within one month from the date of the receipt of that decision.
 
@@ -688,11 +882,29 @@ Appeal from 12h. (1) Any person aggrieved by any final order the final order or 
 
 (11) Nothing in this section shall be construed so as to deprive an advocate of any right of appeal which he may have to the Yang di-Pertuan Agong.
 
-Power of 12i. (1) The Disciplinary Board may, from time to Disciplinary time, make rules to regulate the procedure pertaining Board to to disciplinary proceedings. make rules.
+<!-- marginal: Power of -->
+
+12i. (1) The Disciplinary Board may, from time to
+
+<!-- marginal: Disciplinary -->
+
+time, make rules to regulate the procedure pertaining
+
+<!-- marginal: Board to -->
+
+to disciplinary proceedings.
+
+<!-- marginal: make rules. -->
 
 (2) Any rules made under this section shall not come into operation until they have been published in the Sabah Government Gazette.
 
-Discipline 12j. (1) A fund which shall be known as the Fund. “Discipline Fund” is established and shall be administered and maintained by the Law Society.
+<!-- marginal: Discipline -->
+
+12j. (1) A fund which shall be known as the
+
+<!-- marginal: Fund. -->
+
+“Discipline Fund” is established and shall be administered and maintained by the Law Society.
 
 (2) Every advocate shall on each occasion he applies for his Annual Certificate pay to the Law Society a contribution to the Discipline Fund of such sum as the Law Society may from time to time determine.
 
@@ -702,15 +914,57 @@ Discipline 12j. (1) A fund which shall be known as the Fund. “Discipline Fund�
 
 (4) All costs, charges and expenses for the purposes of any disciplinary proceedings under this Ordinance shall be defrayed out of the Discipline Fund.
 
-Payment of 12k. (1) There shall be paid into the Discipline Fund fees, fines, the contribution mentioned under subsection 12j(2) etc., into and any fine, penalty or any other payment ordered Discipline by the Disciplinary Board to be paid. Fund.
+<!-- marginal: Payment of -->
+
+12k. (1) There shall be paid into the Discipline Fund
+
+<!-- marginal: fees, fines, -->
+
+the contribution mentioned under subsection 12j(2)
+
+<!-- marginal: etc., into -->
+
+and any fine, penalty or any other payment ordered
+
+<!-- marginal: Discipline -->
+
+by the Disciplinary Board to be paid.
+
+<!-- marginal: Fund. -->
 
 (2) Where the Disciplinary Board has ordered a fine to be paid by an advocate or has ordered a restitution to be made by an advocate, such fine shall be paid or such restitution shall be made within one month from the date of the order or such further date as the Disciplinary Board may allow and in default thereof, the Disciplinary Board may order suspension of the advocate from practice until payment of such fine or sum to be restituted or if the advocate is not currently in possession of a certificate to practise, order that no Annual Certificate shall be issued to him until payment of the fine or sum to be restituted is made or in the case of a foreign lawyer, suspend his registration until the payment of such fine or sum to be restituted is made.
 
 (3) A fine payable under this section shall be deemed to be a debt outstanding to the Law Society and may be recoverable as a civil debt.
 
-Protection 12l. No action, suit, prosecution or other proceeding against suit shall be brought, instituted or maintained in any and legal court against any members of the Disciplinary proceedings. Board for or on account of or in respect of any act done for the purpose of carrying into effect of this Ordinance if the act was done in good faith and in the reasonable belief that it was necessary for the purpose intended to be served by it.
+<!-- marginal: Protection -->
 
-Interpretation 12m. For the purposes of disciplinary proceedings of “advocate” under this Part, “advocate” includes a foreign lawyer in certain registered under section 14j.”. provisions.
+12l. No action, suit, prosecution or other proceeding
+
+<!-- marginal: against suit -->
+
+shall be brought, instituted or maintained in any
+
+<!-- marginal: and legal -->
+
+court against any members of the Disciplinary
+
+<!-- marginal: proceedings. -->
+
+Board for or on account of or in respect of any act done for the purpose of carrying into effect of this Ordinance if the act was done in good faith and in the reasonable belief that it was necessary for the purpose intended to be served by it.
+
+<!-- marginal: Interpretation -->
+
+12m. For the purposes of disciplinary proceedings
+
+<!-- marginal: of “advocate” -->
+
+under this Part, “advocate” includes a foreign lawyer
+
+<!-- marginal: in certain -->
+
+registered under section 14j.”.
+
+<!-- marginal: provisions. -->
 
 <!-- page 33 -->
 
@@ -718,7 +972,7 @@ Interpretation 12m. For the purposes of disciplinary proceedings of “advocate�
 
 20. The Ordinance is amended by deleting section 13.
 
-### New Part VI
+<!-- marginal: New Part VI -->
 
 21. The Ordinance is amended by inserting before section 14 the following Part:
 
@@ -726,7 +980,15 @@ Interpretation 12m. For the purposes of disciplinary proceedings of “advocate�
 
 ## CONSTITUTION AND RULES OF THE SABAH LAW SOCIETY
 
-Objects and 13a. The objects and powers of the Law Society powers of the shall be— Law Society.
+<!-- marginal: Objects and -->
+
+13a. The objects and powers of the Law Society
+
+<!-- marginal: powers of the -->
+
+shall be—
+
+<!-- marginal: Law Society. -->
 
 (a) to uphold the cause of justice without regard to its own interests or that of its members, uninfluenced by fear or favour;
 
@@ -766,7 +1028,29 @@ Objects and 13a. The objects and powers of the Law Society powers of the shall b
 
 <!-- page 35 -->
 
-Members 13b. Every advocate shall without election, admission of the Law or appointment become a member of the Law Society Society. and shall remain a member under this section so long as he has a valid certificate to practise. Annual 13c. (1) The amount of the annual subscription subscription, shall be paid by every ordinary member of the Law levies, etc. Society and shall, subject to subsections (3) and (4), be fixed by the Law Society from time to time.
+<!-- marginal: Members -->
+
+13b. Every advocate shall without election, admission
+
+<!-- marginal: of the Law -->
+
+or appointment become a member of the Law Society
+
+<!-- marginal: Society. -->
+
+and shall remain a member under this section so long as he has a valid certificate to practise.
+
+<!-- marginal: Annual -->
+
+13c. (1) The amount of the annual subscription
+
+<!-- marginal: subscription, -->
+
+shall be paid by every ordinary member of the Law
+
+<!-- marginal: levies, etc. -->
+
+Society and shall, subject to subsections (3) and (4), be fixed by the Law Society from time to time.
 
 (2) The Law Society may from time to time fix levies payable by members for any of the purposes of the Law Society.
 
@@ -774,7 +1058,13 @@ Members 13b. Every advocate shall without election, admission of the Law or appo
 
 (4) All annual subscriptions shall be paid by the 30th day of June of each year. Any payment made after this date shall bear a penalty sum of an amount equivalent to the amount so due.
 
-Executive 13d. (1) The management of the Law Society and of Committee. its funds shall be vested in the Executive Committee of the Law Society.
+<!-- marginal: Executive -->
+
+13d. (1) The management of the Law Society and of
+
+<!-- marginal: Committee. -->
+
+its funds shall be vested in the Executive Committee of the Law Society.
 
 (2) The Executive Committee shall consist of the following members:
 
@@ -818,7 +1108,23 @@ Executive 13d. (1) The management of the Law Society and of Committee. its funds
 
 (ii) any political party; or
 
-(iii) any other organization, body or group of persons, whether or not it is established under any law, whether it is within or outside Sabah, and which has objectives or carries on activities which can be construed as being political in nature, character or effect. Specific 13e. (1) Without prejudice to the general powers powers of conferred by section 13a, or the specific powers the Executive to make rules conferred by any other provisions of Committee. this Ordinance, the Executive Committee shall have power—
+(iii) any other organization, body or group of persons, whether or not it is established under any law, whether it is within or outside Sabah, and which has objectives or carries on activities which can be construed as being political in nature, character or effect.
+
+<!-- marginal: Specific -->
+
+13e. (1) Without prejudice to the general powers
+
+<!-- marginal: powers of -->
+
+conferred by section 13a, or the specific powers
+
+<!-- marginal: the Executive -->
+
+to make rules conferred by any other provisions of
+
+<!-- marginal: Committee. -->
+
+this Ordinance, the Executive Committee shall have power—
 
 (a) to fill casual vacancies of the Executive Committee and to appoint sub-committees;
 
@@ -854,17 +1160,65 @@ Executive 13d. (1) The management of the Law Society and of Committee. its funds
 
 (2) The rules referred to in paragraph (1)(b) shall only come into operation after the rules have been adopted by the general meeting.
 
-Right to 13f. The Executive Committee shall be entitled, inspect without payment of any fee, to inspect the file of files of proceedings in bankruptcy relating to any advocate proceedings against whom proceedings in bankruptcy has been in taken, and to be supplied with office or certified bankruptcy. copies of the proceedings on payment of the usual charge for such copies.
+<!-- marginal: Right to -->
 
-Power to 13g. (1) The Executive Committee may on behalf accept gifts, of the Law Society accept by way of grant, gift, etc. testamentary disposition or otherwise property or money in aid of the finances or purposes of the Law Society on such conditions as the Executive Committee may determine.
+13f. The Executive Committee shall be entitled,
+
+<!-- marginal: inspect -->
+
+without payment of any fee, to inspect the file of
+
+<!-- marginal: files of -->
+
+proceedings in bankruptcy relating to any advocate
+
+<!-- marginal: proceedings -->
+
+against whom proceedings in bankruptcy has been
+
+<!-- marginal: in -->
+
+taken, and to be supplied with office or certified
+
+<!-- marginal: bankruptcy. -->
+
+copies of the proceedings on payment of the usual charge for such copies.
+
+<!-- marginal: Power to -->
+
+13g. (1) The Executive Committee may on behalf
+
+<!-- marginal: accept gifts, -->
+
+of the Law Society accept by way of grant, gift,
+
+<!-- marginal: etc. -->
+
+testamentary disposition or otherwise property or money in aid of the finances or purposes of the Law Society on such conditions as the Executive Committee may determine.
 
 (2) Registers shall be kept of all donations to the Law Society including the names of the donors and any special conditions on which any donation has been given.
 
 (3) All property, monies or funds donated to the Law Society for any specific purposes shall, subject to the law relating to charities, be applied and administered in accordance with the purposes for which they have been donated and shall be separately accounted for.
 
-Representation 13h. The Law Society may be represented or appear in court. in any court by any advocate whether he is a member of the Executive Committee or not.
+<!-- marginal: Representation -->
 
-Meeting of 13i. (1) The Executive Committee shall meet from the Executive time to time whenever necessary but shall meet at Committee. least once in every three months, and the President of the Executive Committee may on his own or at the request in writing of not less than one half of its members call an emergency meeting of the Executive Committee to consider any urgent matter.
+13h. The Law Society may be represented or appear
+
+<!-- marginal: in court. -->
+
+in any court by any advocate whether he is a member of the Executive Committee or not.
+
+<!-- marginal: Meeting of -->
+
+13i. (1) The Executive Committee shall meet from
+
+<!-- marginal: the Executive -->
+
+time to time whenever necessary but shall meet at
+
+<!-- marginal: Committee. -->
+
+least once in every three months, and the President of the Executive Committee may on his own or at the request in writing of not less than one half of its members call an emergency meeting of the Executive Committee to consider any urgent matter.
 
 <!-- page 40 -->
 
@@ -876,9 +1230,25 @@ Meeting of 13i. (1) The Executive Committee shall meet from the Executive time t
 
 (5) Subject to any rules of the Law Society, the Executive Committee may regulate its own proceedings and in particular the holding of meetings, the notice to be given of any meetings, the proceedings at the meeting, the keeping of minutes and the custody, production and inspection of the minutes.
 
-Expenses of 13j. No fees shall be paid to any member of the members. Executive Committee but a member may be reimbursed from the funds of the Law Society for expenses properly incurred by him in relation to the affairs of the Law Society.
+<!-- marginal: Expenses of -->
 
-Annual 13k. (1) The Law Society shall each year convene general an annual general meeting of the Law Society to be meeting. held in June or soon thereafter—
+13j. No fees shall be paid to any member of the
+
+<!-- marginal: members. -->
+
+Executive Committee but a member may be reimbursed from the funds of the Law Society for expenses properly incurred by him in relation to the affairs of the Law Society.
+
+<!-- marginal: Annual -->
+
+13k. (1) The Law Society shall each year convene
+
+<!-- marginal: general -->
+
+an annual general meeting of the Law Society to be
+
+<!-- marginal: meeting. -->
+
+held in June or soon thereafter—
 
 (a) to receive the report of the President of the Executive Committee;
 
@@ -894,7 +1264,13 @@ Annual 13k. (1) The Law Society shall each year convene general an annual genera
 
 (2) If any member of the Law Society desires to propose any motion to be considered at the annual or other general meeting to be convened under this section he shall, in not less than seven days before the date of the proposed meeting, serve upon the Secretary of the Law Society notice of such motion in writing.
 
-General 13l. (1) The Executive Committee may convene a meeting. general meeting of the Law Society other than the annual general meeting at any time the Executive Committee considers it necessary or expedient.
+<!-- marginal: General -->
+
+13l. (1) The Executive Committee may convene a
+
+<!-- marginal: meeting. -->
+
+general meeting of the Law Society other than the annual general meeting at any time the Executive Committee considers it necessary or expedient.
 
 (2) If a request in writing is made to the President, Vice-President or Secretary of the Law Society by not less than thirty percent of the number of ordinary members, the Executive Committee shall convene a general meeting within three weeks of the receipt of such request.
 
@@ -902,9 +1278,29 @@ General 13l. (1) The Executive Committee may convene a meeting. general meeting 
 
 (4) If any member of the Law Society desires to propose any motion to be considered at an annual general meeting to be convened under this section he shall, in not less than seven days before the date of the proposed meeting, serve upon the Secretary of the Law Society notice of such motion in writing.
 
-Notice of 13m. At least two weeks’ notice of a general meeting general shall be sent to all members with an agenda of the meeting. matters to be discussed.
+<!-- marginal: Notice of -->
 
-Quorum 13n. (1) The quorum for a general meeting of the of general Law Society shall be fifty ordinary members of the meeting. Law Society or twenty-five percent of the number of ordinary members of the Law Society personally present, whichever figure is the lower.
+13m. At least two weeks’ notice of a general meeting
+
+<!-- marginal: general -->
+
+shall be sent to all members with an agenda of the
+
+<!-- marginal: meeting. -->
+
+matters to be discussed.
+
+<!-- marginal: Quorum -->
+
+13n. (1) The quorum for a general meeting of the
+
+<!-- marginal: of general -->
+
+Law Society shall be fifty ordinary members of the
+
+<!-- marginal: meeting. -->
+
+Law Society or twenty-five percent of the number of ordinary members of the Law Society personally present, whichever figure is the lower.
 
 (2) If within half an hour from the time appointed for the meeting a quorum is not present, the meeting if convened at the requisition of members shall be dissolved, and in any other case the meeting shall stand adjourned to such date (of not less than fourteen days), time and place as the members present shall decide.
 
@@ -940,7 +1336,7 @@ Names of 13q. The names of the members of the Executive Executive Committee incl
 
 ## FIRMS AND REGISTRATION OF FOREIGN LAWYERS
 
-Interpretation.
+<!-- marginal: Interpretation. -->
 
 ### 14a.
 
@@ -966,9 +1362,25 @@ In this Part unless the context otherwise requires—
 
 “qualified foreign law firm” means a foreign law firm licensed under section 14g.
 
-Licence required 14b. (1) Any foreign law firm may practise in for foreign law Sabah provided it is licensed under this Part. firm. (2) Any foreign law firm who contravenes the condition stated in subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit.
+<!-- marginal: Licence required -->
 
-Selection 14c. (1) A Selection Committee is established to Committee. make recommendations to the Law Society for the granting of licence for international partnerships, qualified foreign law firms and to Sabah law firms to employ foreign lawyers and the registration of foreign lawyers to practise in the permitted practice areas.
+14b. (1) Any foreign law firm may practise in
+
+<!-- marginal: for foreign law -->
+
+Sabah provided it is licensed under this Part.
+
+<!-- marginal: firm. -->
+
+(2) Any foreign law firm who contravenes the condition stated in subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit.
+
+<!-- marginal: Selection -->
+
+14c. (1) A Selection Committee is established to
+
+<!-- marginal: Committee. -->
+
+make recommendations to the Law Society for the granting of licence for international partnerships, qualified foreign law firms and to Sabah law firms to employ foreign lawyers and the registration of foreign lawyers to practise in the permitted practice areas.
 
 (2) The Selection Committee shall consist of the following members:
 
@@ -982,7 +1394,13 @@ Selection 14c. (1) A Selection Committee is established to Committee. make recom
 
 (3) The appointment of the members under paragraphs 2(c) and (d) shall be on an ad hoc basis.
 
-Alternate 14d. (1) The State Attorney-General may, in respect members. of the member appointed under paragraph 14c(2)(c), appoint a person to be an alternate member to attend, in place of the member, meetings of the Selection Committee.
+<!-- marginal: Alternate -->
+
+14d. (1) The State Attorney-General may, in respect
+
+<!-- marginal: members. -->
+
+of the member appointed under paragraph 14c(2)(c), appoint a person to be an alternate member to attend, in place of the member, meetings of the Selection Committee.
 
 (2) The Law Society may, in respect of each member appointed under paragraph 14c(2)(d), appoint a person to be an alternate member to attend, in place of the member, meetings of the Selection Committee.
 
@@ -992,7 +1410,17 @@ Alternate 14d. (1) The State Attorney-General may, in respect members. of the me
 
 (4) An alternate member shall, unless he sooner resigns his membership or his appointment is sooner revoked, cease to be an alternate member when the member in respect of whom he is an alternate member ceases to be a member of the Selection Committee.
 
-Meetings of 14e. (1) Meetings of the Selection Committee the Selection shall be co-chaired by the State Attorney-General Committee. and the President of the Law Society.
+<!-- marginal: Meetings of -->
+
+14e. (1) Meetings of the Selection Committee
+
+<!-- marginal: the Selection -->
+
+shall be co-chaired by the State Attorney-General
+
+<!-- marginal: Committee. -->
+
+and the President of the Law Society.
 
 (2) The Selection Committee shall meet on such date and at such time and place as the State Attorney-General and the President of the Law Society may determine.
 
@@ -1004,7 +1432,13 @@ Meetings of 14e. (1) Meetings of the Selection Committee the Selection shall be 
 
 (6) The Law Society shall be the Secretariat for the Selection Committee.
 
-International 14f. (1) A foreign law firm and a Sabah law partnership. firm may apply jointly to the Law Society for an international partnership licence if they satisfy such conditions as the Law Society may think fit to impose in any particular case.
+<!-- marginal: International -->
+
+14f. (1) A foreign law firm and a Sabah law
+
+<!-- marginal: partnership. -->
+
+firm may apply jointly to the Law Society for an international partnership licence if they satisfy such conditions as the Law Society may think fit to impose in any particular case.
 
 (2) A foreign law firm shall not be part of more than one international partnership in Sabah at any one time.
 
@@ -1034,7 +1468,17 @@ International 14f. (1) A foreign law firm and a Sabah law partnership. firm may 
 
 (9) The permissible equity ownership and voting rights of the foreign law firm in the international partnership shall be as determined by the Selection Committee from time to time.
 
-Qualified 14g. (1) A foreign law firm may apply for a foreign law qualified foreign law firm licence if it satisfies firm. such conditions as the Law Society may deem fit to impose in any particular case.
+<!-- marginal: Qualified -->
+
+14g. (1) A foreign law firm may apply for a
+
+<!-- marginal: foreign law -->
+
+qualified foreign law firm licence if it satisfies
+
+<!-- marginal: firm. -->
+
+such conditions as the Law Society may deem fit to impose in any particular case.
 
 <!-- page 47 -->
 
@@ -1056,7 +1500,21 @@ Qualified 14g. (1) A foreign law firm may apply for a foreign law qualified fore
 
 (8) A Sabah lawyer employed in a qualified foreign law firm shall be disqualified from obtaining a certificate to practise under Part II.
 
-Employment of 14h. (1) A Sabah law firm may apply to the Law a foreign lawyer Society for a licence to employ a foreign lawyer by a Sabah law to practise in the permitted practice areas in the firm. Sabah law firm if it satisfies such conditions as the Law Society may deem fit to impose in any particular case.
+<!-- marginal: Employment of -->
+
+14h. (1) A Sabah law firm may apply to the Law
+
+<!-- marginal: a foreign lawyer -->
+
+Society for a licence to employ a foreign lawyer
+
+<!-- marginal: by a Sabah law -->
+
+to practise in the permitted practice areas in the
+
+<!-- marginal: firm. -->
+
+Sabah law firm if it satisfies such conditions as the Law Society may deem fit to impose in any particular case.
 
 (2) Upon receiving the application, the Law Society shall refer such application to the Selection Committee for consideration and recommendation.
 
@@ -1066,7 +1524,17 @@ Employment of 14h. (1) A Sabah law firm may apply to the Law a foreign lawyer So
 
 (4) Any Sabah law firm which employs a foreign lawyer in contravention of this section commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit.
 
-Suspension or 14i. (1) The Law Society may, by notice in writing, revocation of suspend or revoke the licence granted under this licence. Part if the Law Society is satisfied that there is sufficient reason for doing so.
+<!-- marginal: Suspension or -->
+
+14i. (1) The Law Society may, by notice in writing,
+
+<!-- marginal: revocation of -->
+
+suspend or revoke the licence granted under this
+
+<!-- marginal: licence. -->
+
+Part if the Law Society is satisfied that there is sufficient reason for doing so.
 
 (2) Without prejudice to the generality of subsection (1), a licence under this Part shall be suspended or revoked if—
 
@@ -1096,7 +1564,33 @@ Suspension or 14i. (1) The Law Society may, by notice in writing, revocation of 
 
 (4) A licence shall not be suspended or revoked without the international partnership or qualified foreign law firm being given a reasonable opportunity to make representations to the Law Society.
 
-Registration of 14j. (1) A foreign lawyer may practise in an a foreign lawyer international partnership, a qualified foreign law to practise in firm or a Sabah law firm, or in any other manner, an international provided he is registered under this section. partnership, a qualified foreign law firm or a (2) A foreign lawyer who satisfies such Sabah law firm. requirements as may be prescribed and wishes to practise in an international partnership, a qualified foreign law firm or a Sabah law firm may apply to the Law Society to be registered to practise in the permitted practice areas in an international partnership, a qualified foreign law firm or a Sabah law firm.
+<!-- marginal: Registration of -->
+
+14j. (1) A foreign lawyer may practise in an
+
+<!-- marginal: a foreign lawyer -->
+
+international partnership, a qualified foreign law
+
+<!-- marginal: to practise in -->
+
+firm or a Sabah law firm, or in any other manner,
+
+<!-- marginal: an international -->
+
+provided he is registered under this section.
+
+<!-- marginal: partnership, a -->
+
+<!-- marginal: qualified foreign -->
+
+<!-- marginal: law firm or a -->
+
+(2) A foreign lawyer who satisfies such
+
+<!-- marginal: Sabah law firm. -->
+
+requirements as may be prescribed and wishes to practise in an international partnership, a qualified foreign law firm or a Sabah law firm may apply to the Law Society to be registered to practise in the permitted practice areas in an international partnership, a qualified foreign law firm or a Sabah law firm.
 
 (3) Upon receiving the application, the Law Society shall refer such application to the Selection Committee for consideration and recommendation.
 
@@ -1116,7 +1610,17 @@ Registration of 14j. (1) A foreign lawyer may practise in an a foreign lawyer in
 
 (8) Any foreign lawyer who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit.
 
-Suspension or 14k. (1) The Law Society may, by notice in writing, revocation of suspend or revoke the registration of a foreign registration. lawyer under section 14j if the Law Society is satisfied that there is sufficient reason for doing so.
+<!-- marginal: Suspension or -->
+
+14k. (1) The Law Society may, by notice in writing,
+
+<!-- marginal: revocation of -->
+
+suspend or revoke the registration of a foreign
+
+<!-- marginal: registration. -->
+
+lawyer under section 14j if the Law Society is satisfied that there is sufficient reason for doing so.
 
 (2) Without prejudice to the generality of subsection (1), the registration of a foreign lawyer under this Part may be suspended or revoked if—
 
@@ -1130,21 +1634,67 @@ Suspension or 14k. (1) The Law Society may, by notice in writing, revocation of 
 
 (d) the foreign lawyer has been found guilty by the Disciplinary Board of any disciplinary misconduct and the Disciplinary Board has recommended the suspension or revocation of the foreign lawyer’s registration.
 
-Professional 14l. (1) International partnerships, qualified conduct, ethics foreign law firms and registered foreign lawyers and accounts. shall comply with such laws, rulings and directives applicable to advocates under this Ordinance relating to professional conduct or ethics.
+<!-- marginal: Professional -->
+
+14l. (1) International partnerships, qualified
+
+<!-- marginal: conduct, ethics -->
+
+foreign law firms and registered foreign lawyers
+
+<!-- marginal: and accounts. -->
+
+shall comply with such laws, rulings and directives applicable to advocates under this Ordinance relating to professional conduct or ethics.
 
 (2) Any rules made under this Ordinance shall apply to a foreign lawyer registered under section 14j with such modifications as may be prescribed by the Law Society.
 
 (3) For the avoidance of doubt, nothing in this Part shall affect any solicitor-client privilege that may exist independently of this Part.
 
-Disciplinary 14m. International partnerships, qualified foreign authority. law firms and registered foreign lawyers shall adhere to all the rules and rulings of the Law Society and shall be subject to, for the purposes of all disciplinary actions, the control of the Disciplinary Board.
+<!-- marginal: Disciplinary -->
 
-Power to 14n. The Law Society may require any international require partnership, qualified foreign law firm, Sabah law documents, etc. firm or foreign lawyer to provide the Law Society with such documents, particulars or information as the Law Society considers necessary for the purpose of ascertaining compliance of this Part.
+14m. International partnerships, qualified foreign
+
+<!-- marginal: authority. -->
+
+law firms and registered foreign lawyers shall adhere to all the rules and rulings of the Law Society and shall be subject to, for the purposes of all disciplinary actions, the control of the Disciplinary Board.
+
+<!-- marginal: Power to -->
+
+14n. The Law Society may require any international
+
+<!-- marginal: require -->
+
+partnership, qualified foreign law firm, Sabah law
+
+<!-- marginal: documents, etc. -->
+
+firm or foreign lawyer to provide the Law Society with such documents, particulars or information as the Law Society considers necessary for the purpose of ascertaining compliance of this Part.
 
 <!-- page 52 -->
 
-Power to make 14o. The Law Society may, with the approval of rules relating the State Attorney-General, make rules to provide to foreign for— law firm, international
+<!-- marginal: Power to make -->
 
-(a) the conditions and criteria for the granting partnership and foreign lawyer. of an international partnership licence, a qualified foreign law firm licence or a licence under section 14h and for the registration of a foreign lawyer under section 14j;
+14o. The Law Society may, with the approval of
+
+<!-- marginal: rules relating -->
+
+the State Attorney-General, make rules to provide
+
+<!-- marginal: to foreign -->
+
+for—
+
+<!-- marginal: law firm, -->
+
+<!-- marginal: international -->
+
+(a) the conditions and criteria for the granting
+
+<!-- marginal: partnership and -->
+
+<!-- marginal: foreign lawyer. -->
+
+of an international partnership licence, a qualified foreign law firm licence or a licence under section 14h and for the registration of a foreign lawyer under section 14j;
 
 (b) the manner and means of application and the information and documents to be furnished for the application of international partnership and qualified foreign law firm licences and licences under section 14h, including but not limited to the forms, proceedings, fees, information and documents in connection therewith;
 
@@ -1210,7 +1760,9 @@ Power to make 14o. The Law Society may, with the approval of rules relating the 
 
 (b) in subsection (3)—
 
-(i) by deleting the word “or” at the end of paragraphs (b), (c) and (d);
+(i) by deleting the word “or” at the end of paragraphs
+
+(b), (c) and (d);
 
 (ii) in paragraph (d), by inserting after the word “prepares” the words “for a fee or reward”;
 
@@ -1268,9 +1820,19 @@ the Second Schedule, other than paragraph 7, shall apply in relation to that adv
 
 (3) In this section, “trust” and “trustee” extend to implied and constructive trusts and to cases where the trustee has a beneficial interest in the trust property and to the duties incidental to the office of a personal representative, and “trustee”, where the context admits, includes a personal representative.
 
-Personal 16c. (1) Where— representatives liable for acts of
+<!-- marginal: Personal -->
 
-(a) the Law Society has reasonable cause to advocate. believe that the personal representatives of a deceased advocate who immediately before his death was practising as an advocate in his own name, or as a sole advocate under a firm name, have been guilty of dishonesty or undue delay in administering the affairs of that advocate’s practice or in connection with any trust of which that advocate was the sole trustee or co-trustee only with one or more of his clerks or servants; or
+16c. (1) Where—
+
+<!-- marginal: representatives -->
+
+<!-- marginal: liable for acts of -->
+
+(a) the Law Society has reasonable cause to
+
+<!-- marginal: advocate. -->
+
+believe that the personal representatives of a deceased advocate who immediately before his death was practising as an advocate in his own name, or as a sole advocate under a firm name, have been guilty of dishonesty or undue delay in administering the affairs of that advocate’s practice or in connection with any trust of which that advocate was the sole trustee or co-trustee only with one or more of his clerks or servants; or
 
 (b) an advocate dies and immediately before his death the provisions of the Second Schedule applied to him,
 
@@ -1280,7 +1842,21 @@ the provisions of the Second Schedule, other than paragraph 7, shall apply in re
 
 <!-- page 59 -->
 
-Power to 16d. (1) The Law Society may, with the approval make rules on of the State Attorney-General, make rules concerning professional the taking out of professional indemnity for indemnity. advocates against any class of professional liability and the rules may for the purpose of providing such indemnity do all or any of the following:
+<!-- marginal: Power to -->
+
+16d. (1) The Law Society may, with the approval
+
+<!-- marginal: make rules on -->
+
+of the State Attorney-General, make rules concerning
+
+<!-- marginal: professional -->
+
+the taking out of professional indemnity for
+
+<!-- marginal: indemnity. -->
+
+advocates against any class of professional liability and the rules may for the purpose of providing such indemnity do all or any of the following:
 
 (a) authorize the Law Society to take out and maintain insurance in the name of the Law Society with any person permitted by law to carry on professional liability insurance business and covering every practising advocate;
 
@@ -1314,7 +1890,13 @@ Power to 16d. (1) The Law Society may, with the approval make rules on of the St
 
 (4) Any rules made under this section shall not come into operation until they have been published in the Sabah Government Gazette.
 
-Compensation 16 e. (1) A “Compensation Fund” shall be Fund. maintained and administered by the Law Society in accordance with this section.
+<!-- marginal: Compensation -->
+
+16 e. (1) A “Compensation Fund” shall be
+
+<!-- marginal: Fund. -->
+
+maintained and administered by the Law Society in accordance with this section.
 
 (2) Every advocate shall on each occasion he applies for an Annual Certificate pay to the Law Society a contribution of such sum as the Law Society may from time to time determine and the Law Society shall pay that contribution into the Fund.
 
@@ -1392,7 +1974,7 @@ Compensation 16 e. (1) A “Compensation Fund” shall be Fund. maintained and a
 
 30. The Ordinance is amended by inserting after the First Schedule the following Schedule:
 
-“Second Schedule
+## “SECOND SCHEDULE
 
 (Sections 16b and 16c)
 

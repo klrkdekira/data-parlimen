@@ -1,0 +1,1916 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-27-2008",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Suruhanjaya Pelantikan Kehakiman 2008"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_I__cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_I__cl_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "peRmUlaan Tajuk ringkas, permulaan kuat kuasa dan pemakaian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_20"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penUbUhan SURUhanjaya pelantikan kehakiman Penubuhan Suruhanjaya Pelantikan Kehakiman"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_III__cl_21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "fUngSi dan kUaSa SURUhanjaya Fungsi dan kuasa Suruhanjaya"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_III__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_III__cl_21__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_III__cl_21__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_III__cl_21__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_III__cl_21__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_III__cl_21__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_III__cl_21__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_III__cl_21__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_III__cl_21__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_III__cl_21__subsec_1__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "fungsi Suruhanjaya adalah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_III__cl_21__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_III__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk memilih orang berkelayakan yang sesuai yang wajar dilantik sebagai hakim mahkamah atasan untuk pertimbangan perdana menteri;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_III__cl_21__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_III__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menerima permohonan daripada orang berkelayakan bagi pemilihan hakim-hakim ke mahkamah atasan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_III__cl_21__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_III__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk merumuskan dan melaksanakan mekanisme bagi pemilihan dan pelantikan hakim mahkamah atasan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_III__cl_21__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_III__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengkaji semula dan mengesyorkan program kepada perdana menteri bagi memperbaik pentadbiran keadilan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_III__cl_21__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_III__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk membuat syor lain berkenaan dengan badan kehakiman; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_III__cl_21__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_III__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk melakukan apa-apa benda lain sebagaimana yang difikirkannya patut untuk membolehkannya melaksanakan fungsinya secara berkesan atau yang bersampingan dengan pelaksanaan fungsinya di bawah akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_III__cl_21__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suruhanjaya hendaklah mempunyai segala kuasa yang perlu bagi, atau yang berhubungan dengan, atau yang semunasabahnya bersampingan dengan, pelaksanaan fungsinya di bawah akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10__subsec_1__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jawatan seseorang anggota Suruhanjaya hendaklah menjadi kosong jika—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dia mati;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10__subsec_1__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10__subsec_1__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10__subsec_1__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "telah dibuktikan terhadapnya, atau dia telah disabitkan atas, suatu pertuduhan berkenaan dengan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10__subsec_1__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10__subsec_1__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu kesalahan yang melibatkan fraud, kecurangan atau keburukan akhlak;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10__subsec_1__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10__subsec_1__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu kesalahan di bawah mana-mana undang-undang yang berhubungan dengan rasuah; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10__subsec_1__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10__subsec_1__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa kesalahan lain yang boleh dihukum dengan pemenjaraan (sama ada pemenjaraan sahaja atau sebagai tambahan kepada atau sebagai ganti denda) selama lebih daripada dua tahun;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dia menjadi bankrap;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dia tidak sempurna akal atau selainnya tidak berupaya menunaikan kewajipannya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dia tidak menghadiri tiga mesyuarat Suruhanjaya berturut- turut tanpa kebenaran pengerusi atau, dalam hal pengerusi, tanpa kebenaran perdana menteri;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pelantikannya dibatalkan oleh perdana menteri; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "peletakan jawatannya diterima oleh perdana menteri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika jawatan seseorang anggota Suruhanjaya menjadi kosong menurut subseksyen (1), perdana menteri boleh melantik mana- mana orang yang difikirkannya sesuai untuk mengisi kekosongan yang wujud itu bagi baki tempoh yang dikosongkan oleh anggota itu atau bagi tempoh interim sehingga orang yang baru dilantik ke jawatan atau kedudukan yang dipegang oleh anggota itu sebelum dia mengosongkan jawatan atau kedudukan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa tempoh pelantikan di bawah subseksyen (2) tidak boleh diambil pertimbangan dalam mengambil kira tempoh pelantikan yang dinyatakan dalam seksyen 6. Penzahiran kepentingan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana anggota Suruhanjaya yang bersaudara atau berkaitan dengan mana-mana calon yang dipertimbangkan bagi pemilihan hendaklah menzahirkan hubungannya dengan calon itu kepada Suruhanjaya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penzahiran di bawah subseksyen (1) hendaklah direkodkan dalam minit mesyuarat Suruhanjaya yang dalamnya perkara itu dibincangkan atau ditimbangtelitikan dan, selepas penzahiran itu, anggota itu—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tidak boleh hadir semasa mana-mana perbincangan atau pertimbangtelitian, atau keputusan Suruhanjaya apabila perkara itu dibincangkan atau ditimbangtelitikan, atau diputuskan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tidak boleh dikira bagi maksud membentuk kuorum Suruhanjaya apabila perkara itu dibincangkan atau ditimbangtelitikan, atau diputuskan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bagi maksud seksyen ini— “bersaudara”, berhubung dengan seseorang anggota Suruhanjaya, ertinya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_1__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_1__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_1__para_i"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suami atau isteri atau bekas suami atau isteri anggota Suruhanjaya itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "saudara lelaki atau perempuan anggota Suruhanjaya itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "saudara lelaki atau perempuan kepada suami atau isteri atau bekas suami atau isteri anggota Suruhanjaya itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "orang yang mempunyai pertalian nasab langsung ke atas atau ke bawah dengan anggota Suruhanjaya itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "orang yang mempunyai pertalian nasab langsung ke atas atau ke bawah dengan suami atau isteri atau bekas suami atau isteri anggota Suruhanjaya itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suami atau isteri atau bekas suami atau isteri mana-mana orang yang disebut dalam perenggan (b), (c), (d) atau (e);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "orang yang mempunyai pertalian nasab langsung ke bawah dengan orang yang disebut dalam perenggan (b), (c) atau (f);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_1__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bapa saudara, ibu saudara atau sepupu kepada anggota Suruhanjaya itu, atau bapa saudara, ibu saudara atau sepupu kepada suami atau isteri atau bekas suami atau isteri anggota Suruhanjaya itu; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_1__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "orang yang mempunyai pertalian nasab langsung ke atas atau ke bawah kepada orang yang disebut dalam perenggan (h); “berkaitan”, berhubung dengan seseorang anggota Suruhanjaya, ertinya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seseorang yang merupakan penama anggota Suruhanjaya itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pekongsi anggota Suruhanjaya itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bekas pekongsi anggota Suruhanjaya itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suami atau isteri kepada pekongsi atau bekas pekongsi anggota Suruhanjaya itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bekas suami atau isteri kepada pekongsi atau bekas suami atau isteri kepada bekas pekongsi anggota Suruhanjaya itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2__para_f__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2__para_f__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2__para_f__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2__para_f__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seseorang yang menjalankan amalan dalam suatu firma yang dalamnya anggota Suruhanjaya itu atau penamanya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2__para_f__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2__para_f",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menjadi pekongsi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2__para_f__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2__para_f",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menjadi orang yang bertanggungjawab bagi atau mengawal perniagaannya atau hal ehwalnya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2__para_f__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2__para_f",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menjadi perunding; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2__para_f__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2__para_f",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "diambil bekerja;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2__para_g__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2__para_g__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seseorang yang merupakan pengarah mana-mana perbadanan yang dalamnya anggota Suruhanjaya itu atau penamanya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2__para_g__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2__para_g",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menjadi pengarah; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2__para_g__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2__para_g",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bertanggungjawab bagi atau mengawal perniagaannya atau hal ehwalnya; atau mempunyai kepentingan mengawal atau syer yang nilainya berjumlah tidak kurang daripada tiga puluh peratus daripada modal terbitan keseluruhan perbadanan itu; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_3__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pemegang amanah sesuatu amanah yang anggota Suruhanjaya itu atau keluarga anggota itu merupakan benefisiari."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana anggota Suruhanjaya yang tidak menzahirkan kepentingannya sebagaimana yang dikehendaki di bawah subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya. Perlindungan daripada liabiliti persendirian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tiada anggota Suruhanjaya boleh menanggung liabiliti persendirian bagi apa-apa kerugian atau kerosakan yang disebabkan oleh apa-apa perbuatan atau peninggalan dalam mentadbirkan hal ehwal Suruhanjaya, melainkan jika kerugian atau kerosakan itu disebabkan oleh perbuatan atau peninggalan yang salah yang disengajakan olehnya. Mesyuarat"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_13__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_13__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_13__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_13__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_13__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_13__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suruhanjaya hendaklah bermesyuarat sekurang-kurangnya sekali sebulan pada bila-bila masa dan di mana-mana tempat yang ditentukan oleh pengerusi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "notis sekurang-kurangnya sepuluh hari secara bertulis atau melalui mel elektronik hendaklah diberikan kepada anggota-anggota Suruhanjaya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_13__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pengerusi hendaklah mempengerusikan mana-mana mesyuarat Suruhanjaya dan jika bagi apa-apa sebab pengerusi tidak hadir, hakim yang paling kanan selepasnya hendaklah menjadi pengerusi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_13__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kuorum Suruhanjaya ialah tujuh orang termasuk pengerusi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_13__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika tidak ada kuorum sebagaimana yang diperuntukkan oleh subseksyen (4) disebabkan oleh anggota menjadi tidak layak di bawah seksyen 11 atau 25, maka kuorum tidak boleh kurang daripada lima orang."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_13__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tiap-tiap anggota Suruhanjaya yang hadir berhak mendapat satu undi melalui undi sulit dan jika terdapat persamaan bilangan undi yang dibuang, pengerusi atau anggota Suruhanjaya yang mempengerusikan mesyuarat itu sebagai pengerusi hendaklah mempunyai undi pemutus."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_13__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suruhanjaya boleh mengundang mana-mana orang untuk menghadiri sesuatu mesyuarat Suruhanjaya bagi maksud menasihatinya tentang apa-apa perkara yang dibincangkan, tetapi orang itu tidak berhak untuk mengundi dalam mesyuarat itu. Minit"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_14__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suruhanjaya hendaklah menyebabkan minit kesemua mesyuaratnya disenggarakan dan disimpan dalam bentuk yang sepatutnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tiap-tiap mesyuarat Suruhanjaya berkenaan dengan prosiding yang mengenainya minit telah dibuat sedemikian hendaklah disifatkan telah dipanggil dan diadakan dengan sewajarnya dan semua anggota pada mesyuarat itu layak sewajarnya untuk bertindak. Kesahan perbuatan dan prosiding"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_15__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_15__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tiada perbuatan yang dilakukan atau prosiding yang diambil di bawah akta ini boleh dipersoalkan atas alasan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "terdapat kekosongan dalam keanggotaan, atau terdapat kecacatan dalam penubuhan, Suruhanjaya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "terdapat pelanggaran peruntukan seksyen 11 oleh mana- mana anggota Suruhanjaya; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_15__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "terdapat peninggalan, kecacatan atau ketidakteraturan yang tidak menyentuh merit hal itu. Tatacara"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tertakluk kepada akta ini, Suruhanjaya hendaklah menentukan tatacaranya sendiri. Anggota Suruhanjaya hendaklah menumpukan masa kepada urusan Suruhanjaya"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tiap-tiap anggota Suruhanjaya hendaklah menumpukan masa kepada urusan Suruhanjaya sebagaimana yang perlu untuk menunaikan kewajipannya dengan berkesan. Jawatankuasa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_18__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_18__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_18__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_18__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_18__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suruhanjaya boleh menubuhkan apa-apa jawatankuasa sebagaimana yang difikirkannya patut untuk membantunya dalam pelaksanaan fungsinya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suruhanjaya boleh melantik mana-mana anggotanya untuk menjadi pengerusi atau anggota jawatankuasa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_18__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suruhanjaya boleh pada bila-bila masa memberhentikan atau membuat apa-apa perubahan dalam komposisi anggota jawatankuasa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_18__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tertakluk kepada apa-apa peraturan-peraturan yang dibuat oleh perdana menteri, sesuatu jawatankuasa yang ditubuhkan oleh Suruhanjaya boleh menentukan tatacaranya sendiri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_18__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pengerusi sesuatu jawatankuasa hendaklah menyebabkan minit mesyuaratnya disenggarakan dan disimpan dalam bentuk yang sepatutnya dan salinan minit kesemua mesyuaratnya hendaklah dikemukakan kepada anggota Suruhanjaya seberapa segera yang mungkin."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_18__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sesuatu jawatankuasa boleh mengundang mana-mana orang yang bukan anggota jawatankuasa itu untuk menghadiri mana-mana mesyuarat jawatankuasa itu bagi maksud menasihatinya tentang apa-apa perkara yang dibincangkan tetapi orang itu tidak berhak untuk mengundi pada mesyuarat itu. Setiausaha kepada Suruhanjaya"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_19__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_19__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_19__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "hendaklah dilantik seorang Setiausaha kepada Suruhanjaya oleh perdana menteri daripada kalangan anggota perkhidmatan awam am persekutuan bagi apa-apa tempoh dan atas apa-apa terma dan syarat sebagaimana yang dinyatakan dalam surat cara pelantikannya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_19__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_19__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Setiausaha hendaklah bertanggungjawab bagi—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_19__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_19__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penjalanan, pentadbiran dan pengurusan am fungsi dan aktiviti Suruhanjaya; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_19__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_19__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pelaksanaan keputusan Suruhanjaya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_19__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Setiausaha hendaklah melaksanakan apa-apa kewajipan lain sebagaimana yang diarahkan oleh Suruhanjaya dari semasa ke semasa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_19__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam menunaikan kewajipannya Setiausaha hendaklah bertindak di bawah kuasa dan arahan am Suruhanjaya. Pegawai dan pekhidmat Suruhanjaya"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_20__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_20__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_20__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "hendaklah dilantik apa-apa bilangan pegawai dan pekhidmat Suruhanjaya sebagaimana yang perlu daripada kalangan anggota perkhidmatan awam am persekutuan bagi apa-apa tempoh dan atas apa-apa terma dan syarat sebagaimana yang dinyatakan dalam surat cara pelantikan mereka untuk membantu Suruhanjaya dalam melaksanakan peruntukan dalam akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_20__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tiap-tiap pegawai dan pekhidmat Suruhanjaya hendaklah tertakluk kepada arahan, kawalan dan pengawasan Setiausaha."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suruhanjaya pelantikan kehakiman ditubuhkan. Keanggotaan Suruhanjaya"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_5__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_5__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_5__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_5__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_5__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_5__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_5__subsec_1__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suruhanjaya hendaklah terdiri daripada anggota yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_5__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ketua hakim negara mahkamah persekutuan yang hendaklah menjadi pengerusi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_5__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "presiden mahkamah Rayuan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_5__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "hakim besar mahkamah tinggi di malaya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_5__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "hakim besar mahkamah tinggi di Sabah dan Sarawak;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_5__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seorang hakim mahkamah persekutuan yang hendaklah dilantik oleh perdana menteri; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_5__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "empat orang yang terkemuka, yang bukan merupakan anggota eksekutif atau perkhidmatan awam lain, yang dilantik oleh perdana menteri selepas berunding dengan majlis peguam malaysia, persatuan Undang-Undang Sabah, persatuan peguam bela Sarawak, peguam negara persekutuan, peguam besar perkhidmatan perundangan negeri atau mana-mana badan berkaitan yang lain."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pelantikan anggota Suruhanjaya dan tempoh pelantikan itu hendaklah disiarkan dalam Warta. Tempoh jawatan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_6__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "anggota Suruhanjaya yang dilantik di bawah perenggan 5(1)(e) dan (f) hendaklah memegang jawatan selama tempoh dua tahun dan adalah layak dilantik semula tetapi tiada anggota boleh memegang jawatan selama lebih daripada dua penggal."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "anggota Suruhanjaya yang dilantik di bawah perenggan 5(1)(f) adalah tidak layak dipertimbangkan bagi apa-apa pelantikan ke mahkamah atasan selama tempoh jawatannya sebagai anggota dan selama tempoh dua tahun selepas terhenti pelantikannya sebagai anggota Suruhanjaya. Elaun"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "anggota Suruhanjaya hendaklah dibayar apa-apa elaun yang ditentukan oleh perdana menteri. Penjalanan sementara fungsi Pengerusi"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_8__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_8__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_8__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_8__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "presiden mahkamah Rayuan hendaklah bertindak sebagai pengerusi Suruhanjaya selama tempoh apabila—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_8__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jawatan pengerusi menjadi kosong;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_8__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pengerusi tidak hadir bertugas atau tidak ada di malaysia; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_8__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pengerusi, kerana apa-apa sebab lain, tidak berupaya melaksanakan fungsinya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "presiden mahkamah Rayuan hendaklah, selama tempoh dia melaksanakan fungsi pengerusi di bawah seksyen ini, disifatkan sebagai pengerusi Suruhanjaya. Pembatalan pelantikan dan peletakan jawatan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_9__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pelantikan mana-mana anggota yang dilantik di bawah perenggan 5(1)(f) boleh pada bila-bila masa dibatalkan oleh perdana menteri tanpa memberikan apa-apa sebab bagi pembatalan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang anggota yang dilantik di bawah perenggan 5(1)(f) boleh pada bila-bila masa meletakkan jawatannya dengan memberikan notis bertulis yang dialamatkan kepada perdana menteri. Pengosongan jawatan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_29"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pemilihan ke jawatan ketUa hakim negaRa mahkamah peRSekUtUan, pReSiden mahkamah RayUan, hakim-hakim beSaR mahkamah tinggi, hakim mahkamah peRSekUtUan, mahkamah RayUan, mahkamah tinggi dan peSURUhjaya kehakiman Proses pemilihan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_22__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_22__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_22__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apabila diterima suatu permintaan, Suruhanjaya hendaklah memberitahu anggota-anggota Suruhanjaya dan membuat persediaan bagi mesyuarat pemilihan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_22__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_22__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_22__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam mesyuarat pemilihan, Suruhanjaya hendaklah menggunakan proses pemilihan sebagaimana yang ditetapkan oleh peraturan-peraturan yang dibuat di bawah akta ini dan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_22__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_22__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memilih tidak kurang daripada tiga orang bagi setiap kekosongan jawatan di mahkamah tinggi; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_22__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_22__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memilih tidak kurang daripada dua orang bagi setiap kekosongan jawatan jika kekosongan jawatan itu adalah bagi hakim mahkamah atasan selain mahkamah tinggi. Kriteria pemilihan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_23__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_23__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_23__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_23__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_23__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang calon layak bagi pemilihan jika dia memenuhi kehendak di bawah perkara 123 perlembagaan persekutuan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_23__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_23__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_23__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_23__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_23__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_23__subsec_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam memilih calon, Suruhanjaya hendaklah mengambil kira antara lain, kriteria yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_23__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "integriti, kompetensi dan pengalaman;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_23__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "objektif, tidak berat sebelah, adil dan peribadi moral yang baik;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_23__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ketegasan, kebolehan membuat penghakiman tepat pada masanya dan kemahiran yang baik dalam penulisan undang-undang;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_23__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kerajinan dan kebolehan untuk menguruskan kes dengan baik; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_23__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kesihatan fizikal dan mental."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_23__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang yang merupakan hakim atau pesuruhjaya kehakiman yang sedang berkhidmat tidak boleh dilantik jika dia mempunyai tiga penghakiman atau lebih yang belum selesai atau alasan penghakiman yang belum ditulis yang terlewat enam puluh hari atau lebih dari tarikh penghakiman atau alasan penghakiman itu disifatkan cukup tempoh."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_23__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam memilih calon, Suruhanjaya mestilah juga mengambil kira keperluan untuk menggalakkan kepelbagaian dalam lingkungan kepakaran dan pengetahuan undang-undang dalam badan kehakiman. Mesyuarat pemilihan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_24__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_24__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_24__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_24__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_24__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_24__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pengerusi hendaklah juga menjadi pengerusi bagi mesyuarat pemilihan kecuali jika mesyuarat pemilihan itu adalah untuk mempertimbangkan pemilihan orang bagi kekosongan jawatan di mahkamah tinggi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_24__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pengerusi boleh mencalonkan seseorang hakim daripada kalangan anggota Suruhanjaya untuk menjadi pengerusi bagi suatu mesyuarat pemilihan untuk mempertimbangkan pemilihan orang bagi kekosongan jawatan di mahkamah tinggi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_24__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika pengerusi menjadi tidak upaya, hilang kelayakan atau tiada, hakim yang paling kanan selepasnya dalam Suruhanjaya yang tidak hilang kelayakan dan ada akan menjadi pengerusi mesyuarat pemilihan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_24__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kuorum bagi tiap-tiap mesyuarat pemilihan ialah tujuh."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_24__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa undi yang diambil pada mesyuarat pemilihan mestilah dibuat melalui undi sulit dan keputusan majoriti. Kehilangan kelayakan daripada mesyuarat pemilihan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang anggota Suruhanjaya hilang kelayakan daripada menghadiri atau mengambil bahagian dalam sesuatu mesyuarat pemilihan jika dia sedang dipertimbangkan bagi pemilihan atau jika seksyen 11 terpakai. Laporan tentang syor"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_26__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_26__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_26__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_26__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_26__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_26__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Selepas membuat pemilihannya, Suruhanjaya hendaklah mengemukakan suatu laporan kepada perdana menteri yang hendaklah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_26__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_26__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menyatakan siapa yang telah dipilih oleh Suruhanjaya untuk disyorkan bagi pelantikan ke jawatan yang berkenaan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_26__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_26__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menyatakan alasan bagi pemilihan itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_26__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_26__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mengandungi apa-apa maklumat lain yang disifatkan perlu oleh Suruhanjaya untuk dibawa kepada pengetahuan perdana menteri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_26__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Selepas mengemukakan laporan itu, Suruhanjaya hendaklah memberikan apa-apa maklumat lanjut sebagaimana yang dikehendaki oleh perdana menteri. Permintaan bagi pemilihan lanjut oleh Perdana Menteri"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perdana menteri boleh, selepas menerima laporan di bawah seksyen 26, meminta dua nama lagi untuk dipilih dan disyorkan bagi pertimbangannya berkenaan dengan apa-apa kekosongan ke jawatan ketua hakim negara mahkamah persekutuan, presiden mahkamah Rayuan, hakim besar mahkamah tinggi di malaya, hakim besar mahkamah tinggi di Sabah dan Sarawak, hakim mahkamah persekutuan dan mahkamah Rayuan, dan Suruhanjaya hendaklah, dengan seberapa segera yang dapat dilaksanakan, mematuhi permintaan itu mengikut proses pemilihan sebagaimana yang ditetapkan dalam peraturan-peraturan yang dibuat di bawah akta ini. Pemberian nasihat"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apabila perdana menteri telah menerima mana-mana orang yang disyorkan oleh Suruhanjaya, dia bolehlah seterusnya memberikan nasihatnya mengikut perkara 122B perlembagaan persekutuan. Pesuruhjaya Kehakiman boleh memohon untuk menjadi hakim Mahkamah Tinggi"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua pesuruhjaya kehakiman yang dilantik sebelum permulaan kuat kuasa akta ini boleh memfailkan permohonan mereka dengan Suruhanjaya jika mereka berhasrat untuk dipilih sebagai hakim mahkamah tinggi mengikut peruntukan akta ini dalam masa dan mengikut cara yang dinyatakan oleh Suruhanjaya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_I__cl_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_I__cl_1__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "akta ini bolehlah dinamakan akta Suruhanjaya pelantikan kehakiman 2008."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh perdana menteri melalui pemberitahuan dalam Warta."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_I__cl_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "akta ini terpakai bagi pelantikan hakim-hakim mahkamah persekutuan, mahkamah Rayuan dan mahkamah tinggi dan pesuruhjaya kehakiman dan hendaklah termasuk pelantikan ketua hakim negara mahkamah persekutuan, presiden mahkamah Rayuan, hakim besar mahkamah tinggi di malaya, hakim besar mahkamah tinggi di Sabah dan Sarawak yang dibuat pada atau selepas permulaan kuat kuasa akta ini. Mendukung kebebasan badan kehakiman"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_I__cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_I__cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_I__cl_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perdana menteri mestilah mendukung kebebasan berterusan badan kehakiman dan mestilah mengambil kira—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_I__cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perlunya mempertahankan kebebasan itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_I__cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perlunya badan kehakiman mempunyai sokongan yang perlu untuk membolehkannya menjalankan fungsinya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_I__cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perlunya kepentingan awam diwakili dengan sepatutnya berkenaan dengan perkara-perkara yang berhubungan dengan badan kehakiman, pentadbiran keadilan dan perkara-perkara yang berkaitan. Tafsiran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_I__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "dalam akta ini, melainkan jika konteksnya menghendaki makna yang lain—"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "“anggota Suruhanjaya” ertinya orang yang dilantik di bawah seksyen 5; “hakim-hakim mahkamah atasan” ertinya hakim-hakim mahkamah tinggi, mahkamah Rayuan dan mahkamah persekutuan dan hendaklah termasuk ketua hakim negara mahkamah persekutuan, presiden mahkamah Rayuan, hakim besar mahkamah tinggi di malaya dan hakim besar mahkamah tinggi di Sabah dan Sarawak; “mahkamah atasan” ertinya mahkamah persekutuan, mahkamah Rayuan, mahkamah tinggi di malaya dan mahkamah tinggi di Sabah dan Sarawak kecuali jika dinyatakan dengan khusus selainnya; “mesyuarat pemilihan” ertinya suatu mesyuarat yang dipanggil untuk mempertimbangkan pemilihan orang yang layak untuk mengisi kekosongan dalam mahkamah atasan; “pengerusi” ertinya pengerusi Suruhanjaya; “Setiausaha” ertinya Setiausaha kepada Suruhanjaya; “Suruhanjaya” ertinya Suruhanjaya pelantikan kehakiman."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V__cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V__cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V__cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V__cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V__cl_37"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "am Peraturan-peraturan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perdana menteri boleh, atas syor Suruhanjaya, membuat peraturan-peraturan bagi maksud melaksanakan atau menguatkuasakan peruntukan akta ini, termasuk peraturan-peraturan berhubungan dengan proses dan kaedah pemilihan yang hendaklah digunakan oleh Suruhanjaya dalam membuat pemilihan dan syornya di bawah akta ini. Laporan tahunan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V__cl_31__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V__cl_31__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V__cl_31__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V__cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suruhanjaya mestilah menyediakan laporan tahunan tiap- tiap tahun."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V__cl_31__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V__cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suruhanjaya hendaklah, tidak lewat daripada mesyuarat pertama parlimen tahun yang berikutnya, mengemukakan laporan tahunannya kepada parlimen mengenai segala aktivitinya dalam tahun yang dengannya laporan itu berhubungan. Obligasi kerahsiaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "(1) tiada anggota Suruhanjaya dan pegawai dan pekhidmat Suruhanjaya, sama ada semasa atau selepas tempoh jawatan atau pekerjaannya, boleh mendedahkan apa-apa maklumat atau dokumen yang diperolehnya semasa menjalankan tugasnya. (2) tiada orang lain yang dengan apa-apa cara mempunyai akses kepada apa-apa maklumat atau dokumen berhubungan dengan hal ehwal Suruhanjaya boleh mendedahkan maklumat atau dokumen itu. (3) jika mana-mana orang terhenti menjadi anggota Suruhanjaya, dia hendaklah memulangkan segala kertas dan dokumen yang dipertanggungjawabkan kepadanya oleh sebab keanggotaannya dalam Suruhanjaya kepada Setiausaha. (4) mana-mana orang yang melanggar subseksyen (1), (2) atau (3) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya. Memberikan maklumat palsu kepada Suruhanjaya"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana orang yang dengan sengaja memberi Suruhanjaya apa-apa maklumat yang palsu atau mengelirukan bagi menyokong mana-mana pencalonan bagi pemilihan di bawah akta ini melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya. Mempengaruhi atau cuba untuk mempengaruhi Suruhanjaya"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana orang yang, selain dalam menjalankan tugasnya, secara langsung atau tidak langsung dengan sendiri atau melalui mana-mana orang lain dengan apa jua cara mempengaruhi atau cuba untuk mempengaruhi apa-apa keputusan Suruhanjaya atau mana-mana anggotanya melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya. Memulakan dan menjalankan pendakwaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tiada pendakwaan berkenaan dengan mana-mana kesalahan di bawah akta ini boleh dimulakan kecuali oleh atau dengan keizinan pendakwa Raya. Pekhidmat awam"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V__cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tiap-tiap anggota Suruhanjaya, Setiausaha atau mana-mana pegawai atau pekhidmat lain Suruhanjaya, semasa menunaikan kewajipannya sebagai anggota, pegawai atau pekhidmat sedemikian hendaklah disifatkan sebagai pekhidmat awam mengikut pengertian kanun keseksaan [Akta 574]. Pencegahan kesulitan atau anomali"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V__cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V__cl_37__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V__cl_37__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V__cl_37__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V__cl_37__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V__cl_37",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perdana menteri boleh, bilamana ternyata padanya adalah perlu atau suai manfaat untuk berbuat demikian, sama ada bagi maksud menghapuskan kesulitan atau mencegah anomali berikutan dengan pembuatan akta ini, melalui perintah yang disiarkan dalam Warta membuat apa-apa ubah suaian kepada mana-mana peruntukan akta ini sebagaimana yang difikirkannya patut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V__cl_37__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V__cl_37",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perdana menteri tidak boleh menjalankan kuasa yang diberikan oleh seksyen ini selepas habis tempoh dua tahun dari tarikh permulaan kuat kuasa akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V__cl_37__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/27/msa@/~part_V__cl_37",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam seksyen ini, “ubah suaian” termasuk pindaan, tambahan, pemotongan, penggantian, penyesuaian, perubahan, pengubahan dan ketidakpakaian mana-mana peruntukan akta ini."
+      }
+    }
+  ]
+}

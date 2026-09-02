@@ -26,7 +26,11 @@
 
 ## SPECIAL PROCEDURES RELATING TO SENSITIVE INFORMATION
 
-8. Sensitive information to be used as evidence by the Public Prosecutor 9. Notice of accused’s intention to disclose sensitive information 10. Hearing of the disclosure of sensitive information by the accused 11. Sensitive information that arises during trial
+8. Sensitive information to be used as evidence by the Public Prosecutor 9. Notice of accused’s intention to disclose sensitive information
+
+10. Hearing of the disclosure of sensitive information by the accused
+
+11. Sensitive information that arises during trial
 
 <!-- page 2 -->
 
@@ -646,9 +650,7 @@ The proposed Security Offences (Special Measures) Act 2012 (“the proposed Act�
 
 2. A highlight of Article 149 is that it allows for inconsistencies with Articles 5, 9, 10 and 13 of the Constitution as well as allows Parliament to make laws outside its normal legislative competency.
 
-3. The proposed Act is divided into eight Parts. The preliminary provisions of the proposed Act are set out in clause 1 (short title and commencement), clause 2 (application) and clause 3 (interpretation) after which follows
-
-## Part II on special powers for security offences.
+3. The proposed Act is divided into eight Parts. The preliminary provisions of the proposed Act are set out in clause 1 (short title and commencement), clause 2 (application) and clause 3 (interpretation) after which follows Part II on special powers for security offences.
 
 4. Of all the provisions of the proposed Act, clause 4 is the most important. Under clause 4 a police officer has special powers of arrest and detention over persons whom he has reason to believe to be involved in security offences. The clause is a departure from Article 5 of the Constitution where after twenty-four hours of police detention, a person may be further detained up to twenty- eight days by the police for the purpose of investigation. Within that clause
 

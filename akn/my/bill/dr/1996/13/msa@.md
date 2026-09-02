@@ -42,15 +42,21 @@ dengan perkataan "ketua pegawai eksekutif"; dan
 
 (b) dengan memotong perkataan "Timbalan Pengurus Besar" di mana-mana jua terdapat dalamnya.
 
-Pmdaan
+<!-- marginal: Pmdaan -->
 
-3. Seksyen 2 Akta ibu adalah dipinda dengan memasukkan, seksyen 2. selepas takrif "hari ditetapkan", takrif yang berikut:
+3. Seksyen 2 Akta ibu adalah dipinda dengan memasukkan,
+
+<!-- marginal: seksyen 2. -->
+
+selepas takrif "hari ditetapkan", takrif yang berikut:
 
 ' "ketua pegawai eksekutif' ertinya seseorang yang dilantik sebagai ketua pegawai eksekutif di bawah seksyen 30 Akta;'.
 
-Pmdaan
+<!-- marginal: Pmdaan -->
 
-4. Perenggan 26A(2)(c) Akta ibu adalah dipinda— seksyen 26A.
+4. Perenggan 26A(2)(c) Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 26A. -->
 
 (a) dengan menggantikan koma bernoktah dengan noktah bertindih; dan
 
@@ -58,17 +64,23 @@ Pmdaan
 
 " Dengan syarat Menteri boleh mengubah apa- apa had yang dikenakan ke atas jumlah amaun pinjaman syarikat diluluskan dalam perenggan ini;".
 
-Pmdaan
+<!-- marginal: Pmdaan -->
 
-5. Subseksyen 26B(3) Akta ibu adalah dipinda— seksyen 26B.
+5. Subseksyen 26B(3) Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 26B. -->
 
 (a) dalam perenggan (c), dengan memasukkan selepas koma bernoktah perkataan "dan"; dan
 
 (b) dengan memotong perenggan (d).
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
-6. Akta ibu adalah dipinda dengan memasukkan, selepas 26c. seksyen 26B, seksyen yang berikut:
+6. Akta ibu adalah dipinda dengan memasukkan, selepas
+
+<!-- marginal: 26c. -->
+
+seksyen 26B, seksyen yang berikut:
 
 "Kuasa 26c. (1) Lembaga boleh, dalam melaksanakan Lembaga kuasa pelaburan di bawah Akta ini, dari semasa untuk me- nubuhkan ke semasa, dengan kelulusan khas Menteri— perbadanan atau syarikat.
 
@@ -76,11 +88,19 @@ Seksyen baru
 
 <!-- page 3 -->
 
-(b) menubuhkan sesuatu syarikat di bawah Akta 125. Akta Syarikat 1965 dengan apa-apa nama yang difikirkan sesuai oleh Lembaga; atau
+(b) menubuhkan sesuatu syarikat di bawah
+
+<!-- marginal: Akta 125. -->
+
+Akta Syarikat 1965 dengan apa-apa nama yang difikirkan sesuai oleh Lembaga; atau
 
 (c) mengambil alih apa-apa syarikat, untuk menjalankan, mentadbirkan, melakukan dan menguruskan apa-apa projek, usahasama, program penswastaan, skim, perusahaan atau apa-apa perkara lain yang telah dirancangkan atau diusahakan oleh Lembaga.
 
-(2) Peruntukan Jadual Ketujuh hendaklah terpakai bagi sesuatu perbadanan yang ditubuhkan Akta 125. di bawah perenggan (1)(a) dan Akta Syarikat 1965 hendaklah terpakai bagi sesuatu syarikat yang ditubuhkan atau diambil alih di bawah perenggan (1)(b) atau (c), masing-masingnya.".
+(2) Peruntukan Jadual Ketujuh hendaklah terpakai bagi sesuatu perbadanan yang ditubuhkan
+
+<!-- marginal: Akta 125. -->
+
+di bawah perenggan (1)(a) dan Akta Syarikat 1965 hendaklah terpakai bagi sesuatu syarikat yang ditubuhkan atau diambil alih di bawah perenggan (1)(b) atau (c), masing-masingnya.".
 
 <!-- marginal: Bahagian -->
 
@@ -96,7 +116,19 @@ Seksyen baru
 
 ## PELABURAN OLEH AHLI KUMPULAN WANG
 
-Pelaburan 29A. (1) Walau apa pun apa-apa peruntukan oleh ahli yang berlawanan dengan Akta ini, Lembaga Kumpulan Wang. boleh, tertakluk kepada apa-apa peraturan- peraturan dan kaedah-kaedah yang dibuat di bawah Akta ini, membenarkan sesuatu permohonan bagi pelaburan, yang dibuat oleh seseorang ahli Kumpulan Wang, sebahagian apa-apa amaun yang ada pada kredit ahli Kumpulan Wang itu dalam institusi pengurusan dana yang diluluskan oleh Menteri, tertakluk kepada apa-apa terma dan syarat yang difikirkannya sesuai.
+<!-- marginal: Pelaburan -->
+
+29A. (1) Walau apa pun apa-apa peruntukan
+
+<!-- marginal: oleh ahli -->
+
+yang berlawanan dengan Akta ini, Lembaga
+
+<!-- marginal: Kumpulan -->
+
+<!-- marginal: Wang. -->
+
+boleh, tertakluk kepada apa-apa peraturan- peraturan dan kaedah-kaedah yang dibuat di bawah Akta ini, membenarkan sesuatu permohonan bagi pelaburan, yang dibuat oleh seseorang ahli Kumpulan Wang, sebahagian apa-apa amaun yang ada pada kredit ahli Kumpulan Wang itu dalam institusi pengurusan dana yang diluluskan oleh Menteri, tertakluk kepada apa-apa terma dan syarat yang difikirkannya sesuai.
 
 (2) Jika Lembaga' telah membenarkan pemindahan suatu jumlah wang yang ada pada kredit ahli itu di bawah subseksyen (1), jumlah
 
@@ -104,9 +136,11 @@ Pelaburan 29A. (1) Walau apa pun apa-apa peruntukan oleh ahli yang berlawanan de
 
 wang itu tidaklah boleh dibayar dividen sebagaimana yang diisytiharkan oleh Lembaga di bawah seksyen 27.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-8. Seksyen 30 Akta ibu adalah dipinda— seksyen 30.
+8. Seksyen 30 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 30. -->
 
 (a) dengan menggantikan subseksyen (1) dengan subseksyen yang berikut:
 
@@ -116,9 +150,11 @@ Pindaan
 
 " (3) Lembaga hendaklah melantik seberapa orang pegawai atau pengkhidmat lain, sebagaimana yang difikirkan perlu bagi penjalanan cekap urusan Lembaga, atas apa- apa terma dan syarat sebagaimana yang ditentukan oleh Lembaga, yang boleh diberikan apa-apa jua nama jawatan sebagaimana yang ditentukannya.".
 
-Pmdaan
+<!-- marginal: Pmdaan -->
 
-9. Seksyen 31 Akta ibu adalah dipinda— seksyen 31.
+9. Seksyen 31 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 31. -->
 
 (a) dengan memotong subseksyen (1), (1A) dan (1B);
 
@@ -166,13 +202,17 @@ dipinda dengan menggantikannya dengan proviso yang berikut:
 
 <!-- page 6 -->
 
-(c) dengan memotong proviso kepada subseksyen (2); dan
+(c) dengan memotong proviso kepada subseksyen
+
+(2); dan
 
 (d) dengan memotong subseksyen (5).
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-13. Seksyen 54 Akta ibu adalah dipinda— seksyen 54.
+13. Seksyen 54 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 54. -->
 
 (a) dalam subseksyen (2), dengan memasukkan selepas perkataan "di bawah subseksyen 1(b)" dengan perkataan "atau 1( d )"; dan
 
@@ -180,13 +220,57 @@ Pindaan
 
 " (6) Bagi maksud subseksyen (5), tarikh pengeluaran hendaklah sebagaimana yang diperuntukkan dalam seksyen 54B.".
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
-14. Akta ibu adalah dipinda dengan memasukkan, selepas 54A dan 54B. seksyen 54, seksyen yang berikut:
+14. Akta ibu adalah dipinda dengan memasukkan, selepas
 
-"Pem- 54A. Jika apa-apa amaun dikeluarkan daripada bayaran Kumpulan Wang di bawah seksyen 54, 55 atau dividen mengikut yang dibayar daripada Kumpulan Wang di bawah apa-apa seksyen 56, Lembaga hendaklah membayar cara sebagai- dividen, ke atas amaun yang dikeluarkan, dan mana yang ditentukan mengikut apa-apa cara sebagaimana yang oleh ditentukan oleh Lembaga dari semasa ke semasa. Lembaga.
+<!-- marginal: 54A dan 54B. -->
 
-Tarikh pe- 54B. Bagi maksud pengeluaran di bawah Akta ngeluaran. ini, tarikh pengeluaran hendaklah—
+seksyen 54, seksyen yang berikut:
+
+<!-- marginal: "Pem- -->
+
+54A. Jika apa-apa amaun dikeluarkan daripada
+
+<!-- marginal: bayaran -->
+
+Kumpulan Wang di bawah seksyen 54, 55 atau
+
+<!-- marginal: dividen -->
+
+<!-- marginal: mengikut -->
+
+yang dibayar daripada Kumpulan Wang di bawah
+
+<!-- marginal: apa-apa -->
+
+seksyen 56, Lembaga hendaklah membayar
+
+<!-- marginal: cara -->
+
+<!-- marginal: sebagai- -->
+
+dividen, ke atas amaun yang dikeluarkan, dan
+
+<!-- marginal: mana yang -->
+
+<!-- marginal: ditentukan -->
+
+mengikut apa-apa cara sebagaimana yang
+
+<!-- marginal: oleh -->
+
+ditentukan oleh Lembaga dari semasa ke semasa.
+
+<!-- marginal: Lembaga. -->
+
+<!-- marginal: Tarikh pe- -->
+
+54B. Bagi maksud pengeluaran di bawah Akta
+
+<!-- marginal: ngeluaran. -->
+
+ini, tarikh pengeluaran hendaklah—
 
 (a) jika pembayaran dibuat dengan waran, pada tarikh waran bagi pengeluaran itu dikeluarkan; dan
 
@@ -202,7 +286,13 @@ Tarikh pe- 54B. Bagi maksud pengeluaran di bawah Akta ngeluaran. ini, tarikh pen
 
 seksyen 59, seksyen yang berikut:
 
-"Perintah 59A. Jika seseorang yang didapati bersalah bagi Mahkamah. kesalahan di bawah subseksyen 59(b), mahkamah yang di hadapannya seseorang itu didapati bersalah hendaklah memerintahkan orang itu untuk memberikan atau mengemukakan apa-apa perisytiharan, penyata, sijil atau dokumen lain yang dikehendaki oleh Akta ini atau mana-mana peraturan-peraturan atau kaedah-kaedah di bawahnya untuk diberikan atau dikemukakan.".
+<!-- marginal: "Perintah -->
+
+59A. Jika seseorang yang didapati bersalah bagi
+
+<!-- marginal: Mahkamah. -->
+
+kesalahan di bawah subseksyen 59(b), mahkamah yang di hadapannya seseorang itu didapati bersalah hendaklah memerintahkan orang itu untuk memberikan atau mengemukakan apa-apa perisytiharan, penyata, sijil atau dokumen lain yang dikehendaki oleh Akta ini atau mana-mana peraturan-peraturan atau kaedah-kaedah di bawahnya untuk diberikan atau dikemukakan.".
 
 <!-- marginal: Pindaan -->
 
@@ -242,15 +332,19 @@ berkenaan dengan perlantikan, peng- urusan, pentadbiran, tugas, terma dan syarat
 
 "(n) untuk menetapkan apa-apa yang berhubungan dengan pelaburan di bawah Bahagian IIIA termasuklah prosedur bagi pelaburan; dan".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
 18. Jadual Pertama Akta ibu adalah dipinda—
 
 ## Jadual
 
-Pertama.
+<!-- marginal: Pertama. -->
 
-(a) dalam perenggan (5), dengan memasukkan selepas perkataan "hospital mental," perkataan "pusat pemulihan yang mempunyai erti yang Akta 283. sama dalam Akta Penagih Dadah (Rawatan dan Pemulihan) 1983,"; dan
+(a) dalam perenggan (5), dengan memasukkan selepas perkataan "hospital mental," perkataan "pusat pemulihan yang mempunyai erti yang
+
+<!-- marginal: Akta 283. -->
+
+sama dalam Akta Penagih Dadah (Rawatan dan Pemulihan) 1983,"; dan
 
 (b) dalam perenggan (6), (7) dan (8), dengan memotong perkataan—
 
@@ -260,23 +354,31 @@ Pertama.
 
 di mana-mana jua terdapat dalamnya.
 
-Pmdaan
+<!-- marginal: Pmdaan -->
 
 19. Jadual Kelima Akta ibu adalah dipinda dengan
 
 ## Jadual
 
-memasukkan, selepas perenggan (3), perenggan yang Kelima. berikut:
+memasukkan, selepas perenggan (3), perenggan yang
+
+<!-- marginal: Kelima. -->
+
+berikut:
 
 " (4) Bagi maksud Jadual ini, kredit seseorang ahli pada masa kematian tidaklah termasuk amaun yang dilaburkan di bawah Bahagian IIIA.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
 20. Jadual Keenam Akta ibu adalah dipinda dengan
 
 ## Jadual
 
-memasukkan, selepas perenggan (3), perenggan yang Keenam. berikut:
+memasukkan, selepas perenggan (3), perenggan yang
+
+<!-- marginal: Keenam. -->
+
+berikut:
 
 " (4) Bagi maksud Jadual ini, kredit seseorang ahli pada masa ketakupayaan tidaklah termasuk amaun yang dilaburkan di bawah Bahagian IIIA.".
 

@@ -60,7 +60,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 7. The principal Act is amended by substituting for the Second Schedule the following schedule:
 
-“Second Schedule
+## “SECOND SCHEDULE
 
 [Sections 4 and 5]
 

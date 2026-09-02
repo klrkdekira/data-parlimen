@@ -24,7 +24,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 2. Akta Cukai Jualan 2018 [Akta 806], yang disebut “Akta ibu” dalam Akta ini, dipinda dengan memasukkan selepas Bahagian III bahagian yang berikut:
 
-“Bahagian iiia
+## “BAHAGIAN IIIA
 
 ## PENGENAAN CUKAI JUALAN KE ATAS BARANG BERNILAI RENDAH
 
@@ -128,7 +128,7 @@ atau benda itu tidak dapat disempurnakan dalam tempoh itu disebabkan oleh berlak
 
 8. Akta ibu dipinda dengan memasukkan selepas seksyen 109 jadual yang berikut:
 
-“Jadual
+## “JADUAL
 
 [Seksyen 11B]
 
@@ -142,9 +142,13 @@ Seksyen 2 Dalam tafsiran “orang kena cukai” gantikan perkataan “seorang pe
 
 <!-- page 6 -->
 
-Peruntukan Akta ini Ubah suaian
+<!-- marginal: Peruntukan Akta ini -->
 
-Seksyen 8 Gantikan seksyen 8 dengan seksyen yang berikut:
+Ubah suaian
+
+<!-- marginal: Seksyen 8 -->
+
+Gantikan seksyen 8 dengan seksyen yang berikut:
 
 ### “Pengenaan dan skop cukai jualan
 
@@ -164,7 +168,9 @@ Seksyen 8 Gantikan seksyen 8 dengan seksyen yang berikut:
 
 (5) Jika terdapat apa-apa ketidakselarasan antara peruntukan Akta Kastam 1967 atau Akta Eksais 1976 dengan peruntukan Akta ini, peruntukan Akta ini hendaklah terpakai.”.
 
-Seksyen 9 Gantikan seksyen 9 dengan seksyen yang berikut:
+<!-- marginal: Seksyen 9 -->
+
+Gantikan seksyen 9 dengan seksyen yang berikut:
 
 ### “Penentuan nilai jualan barang bernilai rendah
 
@@ -172,9 +178,13 @@ Seksyen 9 Gantikan seksyen 9 dengan seksyen yang berikut:
 
 <!-- page 7 -->
 
-Peruntukan Akta ini Ubah suaian
+<!-- marginal: Peruntukan Akta ini -->
 
-Seksyen 10 1. Dalam subseksyen (1)—
+Ubah suaian
+
+<!-- marginal: Seksyen 10 -->
+
+1. Dalam subseksyen (1)—
 
 (a) gantikan perkataan “barang bercukai yang dijual, digunakan atau dilupuskan atau diimport” dengan perkataan “barang bernilai rendah yang dijual”; dan
 
@@ -182,7 +192,9 @@ Seksyen 10 1. Dalam subseksyen (1)—
 
 2. Potong subseksyen (4), (5) dan (6).
 
-Seksyen 11 Gantikan seksyen 11 dengan seksyen yang berikut:
+<!-- marginal: Seksyen 11 -->
+
+Gantikan seksyen 11 dengan seksyen yang berikut:
 
 ### “Cukai jualan yang genap masa
 
@@ -190,25 +202,45 @@ Seksyen 11 Gantikan seksyen 11 dengan seksyen yang berikut:
 
 ## Bahagian IV
 
-1. Gantikan perkataan “barang bercukai” dengan (kecuali jika perkataan “barang bernilai rendah”. diperuntukkan selainnya) 2. Gantikan perkataan “pengilang” dengan perkataan “penjual”.
+1. Gantikan perkataan “barang bercukai” dengan
+
+<!-- marginal: (kecuali jika -->
+
+perkataan “barang bernilai rendah”.
+
+<!-- marginal: diperuntukkan -->
+
+<!-- marginal: selainnya) -->
+
+2. Gantikan perkataan “pengilang” dengan perkataan “penjual”.
 
 3. Gantikan perkataan “pengilang berdaftar” dengan perkataan “penjual berdaftar”.
 
 4. Gantikan perkataan “mengilang” dengan perkataan “menjual”.
 
-Seksyen 12 1. Dalam perenggan 3(b), gantikan perkataan “pendaftaran pengilang” dengan perkataan “pendaftaran penjual”.
+<!-- marginal: Seksyen 12 -->
+
+1. Dalam perenggan 3(b), gantikan perkataan “pendaftaran pengilang” dengan perkataan “pendaftaran penjual”.
 
 2. Potong subseksyen (4).
 
-Seksyen 17 Gantikan perkataan “pengilangan” dengan perkataan “penjualan”.
+<!-- marginal: Seksyen 17 -->
 
-Seksyen 18 Gantikan perkataan “seksyen 13 atau 14” dengan perkataan “seksyen 13”.
+Gantikan perkataan “pengilangan” dengan perkataan “penjualan”.
+
+<!-- marginal: Seksyen 18 -->
+
+Gantikan perkataan “seksyen 13 atau 14” dengan perkataan “seksyen 13”.
 
 <!-- page 8 -->
 
-Peruntukan Akta ini Ubah suaian
+<!-- marginal: Peruntukan Akta ini -->
 
-Seksyen 19 1. Dalam subseksyen (1), gantikan perkataan “pendaftaran pengilang” dengan perkataan “pendaftaran penjual”.
+Ubah suaian
+
+<!-- marginal: Seksyen 19 -->
+
+1. Dalam subseksyen (1), gantikan perkataan “pendaftaran pengilang” dengan perkataan “pendaftaran penjual”.
 
 2. Gantikan subseksyen (3) dengan subseksyen yang berikut:
 
@@ -218,13 +250,25 @@ Seksyen 19 1. Dalam subseksyen (1), gantikan perkataan “pendaftaran pengilang�
 
 ## Bahagian V
 
-1. Gantikan perkataan “barang bercukai” dengan (kecuali jika perkataan “barang bernilai rendah”. diperuntukkan selainnya) 2. Gantikan perkataan “pengilang” dengan perkataan “penjual”.
+1. Gantikan perkataan “barang bercukai” dengan
+
+<!-- marginal: (kecuali jika -->
+
+perkataan “barang bernilai rendah”.
+
+<!-- marginal: diperuntukkan -->
+
+<!-- marginal: selainnya) -->
+
+2. Gantikan perkataan “pengilang” dengan perkataan “penjual”.
 
 3. Gantikan perkataan “pengilang berdaftar” dengan perkataan “penjual berdaftar”.
 
 4. Gantikan perkataan “mengilang” dengan perkataan “menjual”.
 
-Seksyen 21 1. Gantikan nota bahu dengan nota bahu yang berikut:
+<!-- marginal: Seksyen 21 -->
+
+1. Gantikan nota bahu dengan nota bahu yang berikut:
 
 ### “Invois dan dokumen”.
 
@@ -234,15 +278,21 @@ Seksyen 21 1. Gantikan nota bahu dengan nota bahu yang berikut:
 
 <!-- page 9 -->
 
-Peruntukan Akta ini Ubah suaian
+<!-- marginal: Peruntukan Akta ini -->
 
-Seksyen 22 1. Gantikan nota bahu dengan nota bahu yang berikut:
+Ubah suaian
+
+<!-- marginal: Seksyen 22 -->
+
+1. Gantikan nota bahu dengan nota bahu yang berikut:
 
 ### “Pengeluaran invois atau dokumen oleh komputer”.
 
 2. Gantikan perkataan “Bagi maksud mana-mana peruntukan di bawah Akta ini yang berhubungan dengan suatu invois, pengilang berdaftar hendaklah dianggap sebagai telah mengeluarkan suatu invois kepada pembeli” dengan perkataan “Bagi maksud mana-mana peruntukan di bawah Akta ini yang berhubungan dengan suatu invois atau dokumen yang dikeluarkan di bawah subseksyen 21(1), penjual berdaftar hendaklah dianggap sebagai telah mengeluarkan suatu invois atau dokumen di bawah subseksyen 21(1) kepada pembeli”.
 
-Seksyen 24 1. Gantikan subseksyen (1) dengan subseksyen yang berikut:
+<!-- marginal: Seksyen 24 -->
+
+1. Gantikan subseksyen (1) dengan subseksyen yang berikut:
 
 “(1) Setiap orang kena cukai hendaklah menyimpan rekod bertulis yang lengkap dan benar yang terkini tentang semua transaksi yang menyentuh atau boleh menyentuh liabilitinya terhadap cukai jualan.”.
 
@@ -254,7 +304,9 @@ Seksyen 24 1. Gantikan subseksyen (1) dengan subseksyen yang berikut:
 
 4. Dalam subseksyen (6), gantikan perkataan “subseksyen (1), (2), (3) atau (4)” dengan perkataan “subseksyen (1), (2) atau (3)”.
 
-Seksyen 25 1. Dalam subseksyen (1), gantikan perkataan “dua bulan” dengan perkataan “tiga bulan”.
+<!-- marginal: Seksyen 25 -->
+
+1. Dalam subseksyen (1), gantikan perkataan “dua bulan” dengan perkataan “tiga bulan”.
 
 2. Potong subseksyen (2).
 
@@ -262,31 +314,45 @@ Seksyen 25 1. Dalam subseksyen (1), gantikan perkataan “dua bulan” dengan pe
 
 <!-- page 10 -->
 
-Peruntukan Akta ini Ubah suaian
+<!-- marginal: Peruntukan Akta ini -->
 
-Seksyen 26 1. Potong subseksyen (4).
+Ubah suaian
+
+<!-- marginal: Seksyen 26 -->
+
+1. Potong subseksyen (4).
 
 2. Dalam subseksyen (6), gantikan perkataan “subseksyen (1), (2), (3) dan (4)” dengan perkataan “subseksyen (1), (2) dan (3)”.
 
 3. Dalam subseksyen (7), gantikan perkataan “subseksyen (1), (2), (3) atau (4)” dengan perkataan “subseksyen (1), (2) atau (3)”.
 
-Seksyen 27 1. Potong subseksyen (4), (5) dan (6).
+<!-- marginal: Seksyen 27 -->
+
+1. Potong subseksyen (4), (5) dan (6).
 
 2. Dalam subseksyen (8), gantikan perkataan “di bawah subseksyen (1), (2), (4), (6) atau (7)” dengan perkataan “di bawah subseksyen (1), (2) atau (7)”.
 
 3. Dalam subseksyen (9), gantikan perkataan “di bawah subseksyen (1), (2), (6) atau (8)” dengan perkataan “di bawah subseksyen (1), (2) atau (8)”.
 
-Seksyen 28 1. Gantikan perkataan “invois itu” dengan perkataan “invois atau dokumen itu”.
+<!-- marginal: Seksyen 28 -->
+
+1. Gantikan perkataan “invois itu” dengan perkataan “invois atau dokumen itu”.
 
 2. Dalam subseksyen (2), gantikan perkataan “invois” dengan perkataan “invois atau dokumen”.
 
 3. Dalam subseksyen (3), gantikan perkataan “ialah suatu invois” dengan perkataan “ialah suatu invois atau dokumen”.
 
-Seksyen 29 Potong subseksyen (2).
+<!-- marginal: Seksyen 29 -->
 
-Seksyen 31 Dalam subseksyen (3), masukkan selepas perkataan “pos berdaftar” perkataan “atau melalui kaedah elektronik”.
+Potong subseksyen (2).
 
-Seksyen 33 Gantikan seksyen 33 dengan seksyen yang berikut:
+<!-- marginal: Seksyen 31 -->
+
+Dalam subseksyen (3), masukkan selepas perkataan “pos berdaftar” perkataan “atau melalui kaedah elektronik”.
+
+<!-- marginal: Seksyen 33 -->
+
+Gantikan seksyen 33 dengan seksyen yang berikut:
 
 ### “Barang bernilai rendah yang tertakluk kepada
 
@@ -300,7 +366,9 @@ Seksyen 33 Gantikan seksyen 33 dengan seksyen yang berikut:
 
 <!-- page 11 -->
 
-Peruntukan Akta ini Ubah suaian
+<!-- marginal: Peruntukan Akta ini -->
+
+Ubah suaian
 
 (b) dikenakan pada kadar lebih rendah daripada kadar sebagaimana yang ditetapkan di bawah seksyen 10; atau
 
@@ -312,45 +380,83 @@ tiada seorang pun berhak untuk mendapatkan serahan barang bernilai rendah itu da
 
 ## Bahagian VI
 
-Gantikan perkataan “pengilang berdaftar” dengan (kecuali jika perkataan “penjual berdaftar”. diperuntukkan selainnya)
+Gantikan perkataan “pengilang berdaftar” dengan
 
-Seksyen 35a Dalam subseksyen (1), gantikan perkataan “pembayaran balik cukai jualan di bawah perenggan 35(3)(c) atau telah membuat potongan di bawah seksyen 23 atau 41a” dengan perkataan “pembayaran balik cukai jualan di bawah seksyen 39”.
+<!-- marginal: (kecuali jika -->
 
-Seksyen 39 Gantikan subseksyen (1) dan (2) dengan subseksyen yang berikut:
+perkataan “penjual berdaftar”.
+
+<!-- marginal: diperuntukkan -->
+
+<!-- marginal: selainnya) -->
+
+<!-- marginal: Seksyen 35a -->
+
+Dalam subseksyen (1), gantikan perkataan “pembayaran balik cukai jualan di bawah perenggan 35(3)(c) atau telah membuat potongan di bawah seksyen 23 atau 41a” dengan perkataan “pembayaran balik cukai jualan di bawah seksyen 39”.
+
+<!-- marginal: Seksyen 39 -->
+
+Gantikan subseksyen (1) dan (2) dengan subseksyen yang berikut:
 
 “(1) Pembayaran balik keseluruhan atau mana-mana bahagian daripada amaun cukai jualan, yang telah dibayar kepada Ketua Pengarah oleh penjual berdaftar, boleh dibuat atau dituntut di bawah hal keadaan yang ditetapkan.
 
 (2) Walau apa pun subseksyen (1), Ketua Pengarah boleh memegang keseluruhan atau mana-mana bahagian amaun yang akan dibayar balik di bawah subseksyen (1) untuk dikreditkan kepada mana-mana tempoh bercukai yang berikut atau yang seterusnya dan Ketua Pengarah hendaklah menganggap amaun yang dikreditkan sebagai pembayaran atau sebahagian pembayaran diterima daripada penjual berdaftar.”.
 
-Seksyen 62 Dalam subseksyen (3), gantikan perkataan “menghendaki pembekal atau, atas kegagalan pembekal” dengan perkataan “menghendaki penjual atau, atas kegagalan penjual”.
+<!-- marginal: Seksyen 62 -->
+
+Dalam subseksyen (3), gantikan perkataan “menghendaki pembekal atau, atas kegagalan pembekal” dengan perkataan “menghendaki penjual atau, atas kegagalan penjual”.
 
 <!-- page 12 -->
 
-Peruntukan Akta ini Ubah suaian
+<!-- marginal: Peruntukan Akta ini -->
 
-Seksyen 64 1. Gantikan perkataan “pengilang atau pengimport” dengan perkataan “pengilang, pengimport atau penjual”.
+Ubah suaian
+
+<!-- marginal: Seksyen 64 -->
+
+1. Gantikan perkataan “pengilang atau pengimport” dengan perkataan “pengilang, pengimport atau penjual”.
 
 2. Gantikan perkataan “barang bercukai” dengan perkataan “barang bernilai rendah”.
 
-Seksyen 69 Dalam subseksyen (1), gantikan perkataan “seksyen 13 dan 14” dengan perkataan “seksyen 13”.
+<!-- marginal: Seksyen 69 -->
 
-Seksyen 70 Dalam subseksyen (1), gantikan perkataan “barang bercukai” dengan perkataan “barang bernilai rendah”.
+Dalam subseksyen (1), gantikan perkataan “seksyen 13 dan 14” dengan perkataan “seksyen 13”.
 
-Seksyen 74 1. Dalam perenggan (1)(a), gantikan perkataan “pengilang” dengan perkataan “penjual”.
+<!-- marginal: Seksyen 70 -->
+
+Dalam subseksyen (1), gantikan perkataan “barang bercukai” dengan perkataan “barang bernilai rendah”.
+
+<!-- marginal: Seksyen 74 -->
+
+1. Dalam perenggan (1)(a), gantikan perkataan “pengilang” dengan perkataan “penjual”.
 
 2. Dalam perenggan (1)(e), potong perkataan “atau ketetapan kastam dibuat di bawah seksyen 43”.
 
-Seksyen 83 Dalam perenggan (c), gantikan perkataan “barang bercukai” dengan perkataan “barang bernilai rendah”.
+<!-- marginal: Seksyen 83 -->
+
+Dalam perenggan (c), gantikan perkataan “barang bercukai” dengan perkataan “barang bernilai rendah”.
 
 ## Bahagian XII
 
-1. Gantikan perkataan “barang bercukai” dengan (kecuali jika perkataan “barang bernilai rendah”. diperuntukkan selainnya) 2. Gantikan perkataan “pengilang” dengan perkataan “penjual”.
+1. Gantikan perkataan “barang bercukai” dengan
+
+<!-- marginal: (kecuali jika -->
+
+perkataan “barang bernilai rendah”.
+
+<!-- marginal: diperuntukkan -->
+
+<!-- marginal: selainnya) -->
+
+2. Gantikan perkataan “pengilang” dengan perkataan “penjual”.
 
 3. Gantikan perkataan “pengilang berdaftar” dengan perkataan “penjual berdaftar”.
 
 4. Gantikan perkataan “mengilang” dengan perkataan “menjual”.
 
-Seksyen 86a 1. Gantikan nota bahu dengan nota bahu yang berikut:
+<!-- marginal: Seksyen 86a -->
+
+1. Gantikan nota bahu dengan nota bahu yang berikut:
 
 ### “Pengelakan cukai jualan atas barang bernilai
 
@@ -358,7 +464,9 @@ Seksyen 86a 1. Gantikan nota bahu dengan nota bahu yang berikut:
 
 2. Dalam subseksyen (1), gantikan perkataan “pengimportan barang bercukai” dengan perkataan “barang bernilai rendah yang dijual”.
 
-Seksyen 88 Gantikan perkataan “seksyen 10, 36 atau 39” dengan perkataan “seksyen 39”.
+<!-- marginal: Seksyen 88 -->
+
+Gantikan perkataan “seksyen 10, 36 atau 39” dengan perkataan “seksyen 39”.
 
 <!-- page 13 -->
 

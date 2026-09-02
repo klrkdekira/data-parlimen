@@ -32,15 +32,19 @@
 
 ### seperti yang berikut:
 
-Tajuk
+<!-- marginal: Tajuk -->
 
-1. Akta ini bolehlah dinamakan Akta Kanun Tanah Negara ringkas.
+1. Akta ini bolehlah dinamakan Akta Kanun Tanah Negara
+
+<!-- marginal: ringkas. -->
 
 ### (Pindaan) 1998.
 
-Mula berkuat
+<!-- marginal: Mula berkuat -->
 
-2. (1) Akta ini mula berkuat kuasa di setiap Negeri pada kuasa.
+2. (1) Akta ini mula berkuat kuasa di setiap Negeri pada
+
+<!-- marginal: kuasa. -->
 
 ### tarikh yang boleh ditetapkan oleh Menteri, dengan kelulusan
 
@@ -56,9 +60,11 @@ Mula berkuat
 
 <!-- page 2 -->
 
-Bahagian
+<!-- marginal: Bahagian -->
 
-3. Kanun Tanah Negara, yang disebut "Kanun" dalam baru Satu
+3. Kanun Tanah Negara, yang disebut "Kanun" dalam
+
+<!-- marginal: baru Satu -->
 
 ### Akta ini, adalah dipinda dengan memasukkan selepas
 
@@ -126,13 +132,15 @@ Acl Act 56/65.
 
 ### provisions.".
 
-Jadual baru
+<!-- marginal: Jadual baru -->
 
-4. Kanun adalah dipinda dengan memasukkan selepas Kelima
+### 4. Kanun adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: Kelima -->
 
 ### Jadual Keempat Belas Jadual yang berikut:
 
-Belas.
+<!-- marginal: Belas. -->
 
 "FlFTEENTH SCHEDULE"
 
@@ -144,15 +152,17 @@ Belas.
 
 ## NASIONAL BERHAD ACT 1998
 
-interpretation.
-
-1. For the purposes of this Schedule—
+interpretation. 1. For the purposes of this Schedule—
 
 "acquiree" has the meaning assigned to it in the Pengurusan Danaharta Nasional Berhad Act 1998;
 
 <!-- page 3 -->
 
-"Danaharta" means Pengurusan Danaharta Nasional Berhad, the corporation established pursuant to the Act Pengurusan Danaharta Nasional Berhad Act 1998 (which expression shall include any of its subsidiaries defined under the Act);
+"Danaharta" means Pengurusan Danaharta Nasional Berhad, the corporation established pursuant to the
+
+<!-- marginal: Act -->
+
+Pengurusan Danaharta Nasional Berhad Act 1998 (which expression shall include any of its subsidiaries defined under the Act);
 
 "seller" has the meaning assigned to it in the Pengurusan Danaharta Nasional Berhad Act 1998;
 
@@ -162,25 +172,71 @@ interpretation.
 
 "vesting certificate" has the meaning assigned to it in the Pengurusan Danaharta Nasional Berhad Act 1998.
 
-Lienholder's
+<!-- marginal: Lienholder's -->
 
-2. For the purposes of subsection (1) of section 214, a caveat or lienholder's caveat or private caveat vested in Danaharta private caveat capable or the acquiree, as the case may be, pursuant to a statutory of lransfer. vesting effected under the Pengurusan Danaharta Nasional Berhad Act 1998 shall be capable of transfer.
+2. For the purposes of subsection (1) of section 214, a
 
-Stalutory
+<!-- marginal: caveat or -->
 
-3. (1) For the purposes of section 415, in the case of a vesling to statutory vesting pursuant to the Pengurusan Danaharta Danaharta. Nasional Berhad Act 1998, the vesting certificate and the transfer certificate shall be conclusive evidence of the vesting of any registered or registrable interest.
+lienholder's caveat or private caveat vested in Danaharta
+
+<!-- marginal: private -->
+
+<!-- marginal: caveat capable -->
+
+or the acquiree, as the case may be, pursuant to a statutory
+
+<!-- marginal: of lransfer. -->
+
+vesting effected under the Pengurusan Danaharta Nasional Berhad Act 1998 shall be capable of transfer.
+
+<!-- marginal: Stalutory -->
+
+3. (1) For the purposes of section 415, in the case of a
+
+<!-- marginal: vesling to -->
+
+statutory vesting pursuant to the Pengurusan Danaharta
+
+<!-- marginal: Danaharta. -->
+
+Nasional Berhad Act 1998, the vesting certificate and the transfer certificate shall be conclusive evidence of the vesting of any registered or registrable interest.
 
 (2) The Registrar shall, upon receiving the vesting certificate or the transfer certificate from Danaharta register such vesting and shall dispense with all other requirements pertaining to the application of a statutory vesting under subsection (1) of section 415.
 
-(3) The effective date of the vesting under subparagraph
-
-(2) shall be the date specified in the vesting certificate or the transfer certificate, as the case may be.
+(3) The effective date of the vesting under subparagraph (2) shall be the date specified in the vesting certificate or the transfer certificate, as the case may be.
 
 (4) Where any land or lease has been vested in the acquiree pursuant to this paragraph, any further dealings thereof shall be subject to the provisions of the Code.
 
-Transfer of
+<!-- marginal: Transfer of -->
 
-4. (1) Where any land or lease vested in Danaharta is lienholder'5 subject to any lienholder's caveat, private caveat or caveat, private caveat and prohibitory order, the transfer of such lienholder' s caveat, prohibitory order in private caveat or prohibitory order shall be effected by respect of land or an instrument in Form 1(B)A. lease vesled in Danaharla.
+4. (1) Where any land or lease vested in Danaharta is
+
+<!-- marginal: lienholder'5 -->
+
+subject to any lienholder's caveat, private caveat or
+
+<!-- marginal: caveat, private -->
+
+<!-- marginal: caveat and -->
+
+prohibitory order, the transfer of such lienholder' s caveat,
+
+<!-- marginal: prohibitory -->
+
+<!-- marginal: order in -->
+
+private caveat or prohibitory order shall be effected by
+
+<!-- marginal: respect of -->
+
+<!-- marginal: land or -->
+
+an instrument in Form 1(B)A.
+
+<!-- marginal: lease vesled -->
+
+<!-- marginal: in Danaharla. -->
 
 <!-- page 4 -->
 
@@ -198,9 +254,13 @@ Transfer of
 
 (5) The registration of such transfer shall be effected under this paragraph notwithstanding anything inconsistent therewith or contrary thereto contained in Chapter 6 of Part Sixteen and Part Nineteen.
 
-Sale by private
+<!-- marginal: Sale by private -->
 
-5. (1) For the purposes of Chapter 3 of Part Sixteen, treaty. Danaharta shall have, in addition to the remedies of a chargee, the option of exercising a sale by private treaty.
+5. (1) For the purposes of Chapter 3 of Part Sixteen,
+
+<!-- marginal: treaty. -->
+
+Danaharta shall have, in addition to the remedies of a chargee, the option of exercising a sale by private treaty.
 
 (2) In this paragraph—
 
@@ -236,19 +296,19 @@ And provided further that the price to be paid by the purchaser is the market va
 
 (b) secondly, as provided in the order specified in paragraphs (c), (d) and (e) of subsection (1) and subsections (2) and (3) of section 268.
 
-Power of
+<!-- marginal: Power of -->
 
-6. A power of attorney in favour of a seller which attorney. before the vesting date was duly registered under Chapter 5 of Part Eighteen shall be read and construed as a reference to and proof of a power of attorney given to Danaharta, upon production of a vesting certificate to the Registrar or as a reference to a power of attorney given to the acquiree upon production of a transfer certificate to the Registrar.
+6. A power of attorney in favour of a seller which
+
+<!-- marginal: attorney. -->
+
+before the vesting date was duly registered under Chapter 5 of Part Eighteen shall be read and construed as a reference to and proof of a power of attorney given to Danaharta, upon production of a vesting certificate to the Registrar or as a reference to a power of attorney given to the acquiree upon production of a transfer certificate to the Registrar.
 
 <!-- page 6 -->
 
-Rights as &
+Rights as & 7. Notwithstanding section 281, where Danaharta as chargee. holder of a lien has obtained judgment for the amount due to him, paragraph 5 of this Schedule shall apply as if Danaharta was a chargee of the land or the lease.
 
-7. Notwithstanding section 281, where Danaharta as chargee. holder of a lien has obtained judgment for the amount due to him, paragraph 5 of this Schedule shall apply as if Danaharta was a chargee of the land or the lease.
-
-Caveat or
-
-8. Any caveat or prohibitory order which was registered, prohibitory endorsed or entered prior to a vesting shall not prevent order shall not prevent a transfer of any registered interest or the registrable a transfer. interest or other right or entitlement whatsoever stipulated in the vesting certificate or transfer certificate, as the case may be.
+Caveat or 8. Any caveat or prohibitory order which was registered, prohibitory endorsed or entered prior to a vesting shall not prevent order shall not prevent a transfer of any registered interest or the registrable a transfer. interest or other right or entitlement whatsoever stipulated in the vesting certificate or transfer certificate, as the case may be.
 
 ## NATIONAL LAND CODE
 

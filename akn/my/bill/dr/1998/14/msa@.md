@@ -50,7 +50,13 @@ sepenuhnya oleh Akta Perbekalan 1998.
 
 (Seksyen 2)
 
-Maksud Tajuk Peruntukan kepada Maksud (RM)
+Maksud Tajuk
+
+<!-- marginal: Peruntukan -->
+
+kepada Maksud
+
+<!-- marginal: (RM) -->
 
 B. 29 Perkhidmatan Am Perbendaharaan 400,000,000
 
@@ -60,6 +66,4 @@ B. 29 Perkhidmatan Am Perbendaharaan 400,000,000
 
 ## HURAIAN
 
-Tujuan Rang Undang-Undang ini adalah untuk memberikan kuasa berkanun supaya beberapa pembayaran tambahan tertentu dibuat bagi perkhidmatan-perkhidmatan awam persekutuan dalam tahun 1998 melebihi perbelanjaan yang dibenarkan oleh Akta Perbekalan
-
-1998. [PN.(U2)2091.]
+Tujuan Rang Undang-Undang ini adalah untuk memberikan kuasa berkanun supaya beberapa pembayaran tambahan tertentu dibuat bagi perkhidmatan-perkhidmatan awam persekutuan dalam tahun 1998 melebihi perbelanjaan yang dibenarkan oleh Akta Perbekalan 1998. [PN.(U2)2091.]

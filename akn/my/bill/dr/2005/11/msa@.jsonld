@@ -202,7 +202,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_15",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (3) — Pindaan seksyen 25"
+        "@value": "dalam subseksyen (3) —"
       }
     },
     {
@@ -222,7 +222,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_15__para_c",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perkataan \"seksyen ini\" perkataan \", tertakluk kepada apa-apa syarat yang dia boleh kenakan\"."
+        "@value": "dengan memasukkan selepas perkataan \"seksyen ini\" perkataan \", tertakluk kepada apa-apa syarat yang dia boleh kenakan\". Pindaan seksyen 25"
       }
     },
     {
@@ -567,7 +567,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_2",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam takrif \"kapal layar persendirian\" — \"(c) pemajak atau pencarter;\";"
+        "@value": "dalam takrif \"kapal layar persendirian\" —"
       }
     },
     {
@@ -597,7 +597,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_2__para_a",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perenggan (b) perenggan yang berikut:"
+        "@value": "dengan memasukkan selepas perenggan (b) perenggan yang berikut: \"(c) pemajak atau pencarter;\";"
       }
     },
     {
@@ -777,7 +777,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_34",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (2) — Seksyen baru 51A"
+        "@value": "dalam subseksyen (2) —"
       }
     },
     {
@@ -797,7 +797,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_34__para_b",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perkataan \"dibayar kepada\" perkataan \"nakhoda atau\"."
+        "@value": "dengan memasukkan selepas perkataan \"dibayar kepada\" perkataan \"nakhoda atau\". Seksyen baru 51A"
       }
     },
     {

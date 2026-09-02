@@ -60,9 +60,17 @@ B. 14 Ministry of Housing and 55,200,000 Local Government B. 17 Ministry of Yout
 
 Appropriation Purpose Title to purpose
 
-### RM
+<!-- marginal: RM -->
 
-B. 36 Royal Malaysia Police 49,600,000 B. 42 Ministry of National Unity and 255,250 Social Development B. 44 Ministry of Information 13,332,200 B. 49 Ministry of Energy, 123,163,600 Telecommunications and Posts B. 53 Ministry of Land and 4,000,000 Co-operative Development
+B. 36 Royal Malaysia Police 49,600,000 B. 42 Ministry of National Unity and
+
+<!-- marginal: 255,250 -->
+
+Social Development B. 44 Ministry of Information 13,332,200 B. 49 Ministry of Energy, 123,163,600 Telecommunications and Posts B. 53 Ministry of Land and
+
+<!-- marginal: 4,000,000 -->
+
+Co-operative Development
 
 Total ... 249,550,950
 

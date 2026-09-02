@@ -1,0 +1,853 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-24-2004",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_26"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-undang Lembaga Pemasaran Pertanian Persekutuan (Pindaan) 2004"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan sebelum seksyen 7 seksyen yang berikut: \"Protection of Director General, duly appointed officers, authorized officers, etc. 6c. No action or prosecution shall be brought, instituted or maintained in any court against the Director General, any officer duly appointed under this Act, any authorized officer, or any other person acting under the order, direction or instruction of the Director General or any officer duly appointed under this Act, for or on account of or in respect of any act done or purported to be done by him, if the act was done in good faith and in the reasonable belief that it was necessary for the purpose intended to be served by it.\" Pindaan seksyen 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_11__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 9 Akta ibu dipinda dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan \"(hereinafter referred to as the Fund)\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_11__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_11__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_11__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (l)(a)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_11__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_11__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (iv), dengan memotong perkataan \"and\" di hujung subperenggan itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_11__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_11__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (v), dengan memotong perkataan \"and\" di hujung subperenggan itu; dan Rang Undang-Undang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_11__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_11__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subperenggan (v) subperenggan yang berikut: \"(vi) all moneys earned from technical, advisory or consultancy services or any other services provided by the Authority; and (vii) all moneys collected by the Authority under the regulations made under this Act; and\". Pemotongan seksyen 11A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 11A. Pindaan seksyen 12"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_13__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 12 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan memotong perkataan \"and\" di hujung perenggan itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (b) perenggan yang berikut: \"(ba) prescribe the offences under this Act and the regulations made thereunder which may be compounded; and\". Pemotongan seksyen 12A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 12A. Pindaan seksyen 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_15__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 14 Akta ibu dipinda dalam perenggan (l)(b)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"established,\" perkataan \"incorporated,\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"3(4)\" dengan perkataan \"3(3A)”. Lembaga Pemasaran Pertanian Persekutuan (Pindaan) Seksyen baru 15A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 15 seksyen yang berikut: \"Power to compound offences 15A. (1) The Director General may, with the consent of the Public Prosecutor, compound any offence under this Act or the regulations made under this Act which has been prescribed to be compoundable by accepting from the person reasonably suspected of having committed the offence such amount, not exceeding fifty per centum of the amount of maximum fine for that offence, within such time as may be specified in a written offer to compound made to such person. (2) An offer to compound under subsection (1) may be made at any time after the offence has been committed, but before any prosecution for it has been instituted. (3) Where the amount specified in the offer to compound is not paid within the time specified in that offer, or within such extended time as the Director General may grant, prosecution for the offence may be instituted at any time after that against the person to whom the offer to compound was made. (4) Where an offence has been compounded under subsection (1), no prosecution shall, within the time specified in subsection (3), be instituted in respect of the offence against the person to whom the offer to compound was made. (5) The Director General may in writing delegate his functions and duties under this section to any officer of the Authority subject to such terms and conditions as he thinks fit, but a delegation under this subsection shall not preclude the Director General from performing or exercising at any time the functions and duties that have been delegated.\" 8 Rang Undang-Undang Pindaan seksyen 18"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 18(1) Akta ibu dipinda dengan memasukkan selepas perkataan \"commission of an offence\" perkataan \"against this Act or any regulations made thereunder,\". Pindaan seksyen 19"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_18__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 19 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: \"(1) Whenever it appears to any Magistrate upon written information on oath and after such inquiry as he considers necessary, that there is reasonable cause to believe that in or on any dwelling house, shop, or other building or place there is concealed or deposited any agricultural produce as to which an offence against this Act or any regulations made thereunder has been committed, the Magistrate may issue a warrant authorizing any authorized officer or police officer named therein, at any reasonable time by day or night and with or without assistance, to enter the dwelling house, shop, or other building or place, and there— (a) search for, inspect, collect samples of, or seize any agricultural produce as to which such offence is suspected to have been committed; (b) search for and seize any book, record, account, computerized data or other documents which are reasonably believed to contain information in respect of such offence suspected to have been committed; (c) inspect, make copies of, or take extracts from, any book, record, account, computerized data or other documents so seized; or Lembaga Pemasaran Pertanian Persekutuan (Pindaan) (d) search for, inspect or seize any machinery, contrivance, or other equipment or article.\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: \"(3) A list of all things seized in the course of a search made under this section and of the places in which they are respectively found shall be prepared by the authorized officer or police officer conducting the search and signed by him. (4) The occupant of the premises entered under subsection (1), or some person on his behalf, shall in every instance be permitted to attend during the search, and a copy of the list prepared and signed under subsection (3) shall immediately be delivered to such occupant or person.\" Pindaan seksyen 21A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_19__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_19__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_19__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 21A Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"conveyance or other article\" di mana-mana jua terdapat dengan perkataan \"conveyance, machinery, contrivance, or other equipment or article\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_19__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (2)(b), dengan memasukkan selepas perkataan \"possession\" perkataan \"of the agricultural produce\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_19__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (3)(b), dengan memasukkan selepas perkataan \"possession\" perkataan \"of the conveyance, machinery, contrivance, or other equipment or article\". 10 Rang Undang-Undang Pindaan seksyen 22"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Lembaga Pemasaran Pertanian Persekutuan (Pindaan) 2004."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan tajuk panjang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Lembaga Pemasaran Pertanian Persekutuan 1965 [Akta 141], yang disebut \"Akta ibu\" dalam Akta ini, dipinda dalam tajuk panjang—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_20__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_20__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 22 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_20__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: \"(1A) An authorized officer or police officer may, for the purpose of investigating an offence under this Act or any regulations made there under- (a) require any person, orally or in writing, to produce books, records, accounts, computerized data or other documents which may, in the opinion of the authorized officer or police officer, assist in the investigation of the offence, and to inspect, make copies of, or take extracts from, any of the books, records, accounts, computerized data or other documents; (b) require a person suspected to have committed any offence or involved in the commission of any offence under this Act or any regulations made there under to produce documents verifying his identity; and (c) make such inquiry as may be necessary.\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_20__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan \"document or matter\" di mana-mana jua terdapat dengan perkataan \"record, account, computerized data or other document\". Pemotongan seksyen 23"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 23. Pindaan seksyen 24"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 24 Akta ibu dipinda dengan menggantikan perkataan \"shall be guilty of an offence under this Act\" dengan perkataan \"commits an offence and shall be liable on conviction to a fine not exceeding fifteen thousand ringgit or to imprisonment for a term not exceeding two years or to both and, for a second or subsequent offence to a fine not exceeding twenty-five thousand ringgit or to imprisonment for a term not exceeding five years or to both\". Lembaga Pemasaran Pertanian Persekutuan (Pindaan) Seksyen baru 24A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 24 seksyen yang berikut: \"False declaration, return, certificate or other document or information, etc. 24A. A person who makes or causes to be made, orally or in writing, or signs or furnishes, any declaration, return, certificate or other document or information required under this Act which is false, inaccurate or misleading in any material particular commits an offence and shall be liable on conviction to a fine not exceeding fifteen thousand ringgit or to imprisonment for a term not exceeding two years or to both and, for a second or subsequent offence to a fine not exceeding twenty-five thousand ringgit or to imprisonment for a term not exceeding five years or to both.\". Pindaan seksyen 25"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_24__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_24__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 25 dengan seksyen yang berikut: \"Offences by body corporate, etc. 25. (1) Any body corporate which commits an offence under, or fails to comply with, this Act or any regulations made there under, shall be liable on conviction to a fine not exceeding twenty-five thousand ringgit and, for a second or subsequent offence to a fine not exceeding fifty thousand ringgit. (2) Where a person charged with an offence under this Act or any regulations made there under is a body corporate— (a) every person who, at the time of the commission of the offence is a director or officer of the body corporate may be charged jointly in the same proceedings with the body corporate; and 12 Rang Undang-Undang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_24__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "where the body corporate is convicted of the offence charged, every such director or officer shall be deemed to have committed that offence and shall be liable on conviction to a fine not exceeding fifteen thousand ringgit or to imprisonment for a term not exceeding two years or to both and, for a second or subsequent offence to a fine not exceeding twenty-five thousand ringgit or to imprisonment for a term not exceeding five years or to both, unless he proves that the offence was committed without his knowledge or that he took reasonable precautions to prevent its commission."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_24__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Any person who would have been liable under this Act or any regulations made there under to any penalty for anything done or omitted if the thing had been done or omitted by him personally, shall be liable to the same penalty if the thing had been done or omitted by his partner, agent or servant, unless he proves that he took reasonable precautions to prevent the doing or omission of the thing.\" Pindaan seksyen 27"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 21(b) Akta ibu dipinda dengan menggantikan perkataan \"or other article\" dengan perkataan \", machinery, contrivance or other equipment or article\". Kecualian dan peralihan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_26__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_26__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_26__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_26__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa presiding yang masih belum selesai pada tarikh mula berkuatkuasanya Akta Badan-Badan Berkanun (Tatatertib dan Surcaj) 2000 [Akta 605] di hadapan Jawatankuasa Tatatertib atau Lembaga Rayuan Tatatertib yang ditubuhkan di bawah Akta ibu hendaklah, selepas tarikh mula berkuatkuasanya Akta ini, diteruskan seolah-olah Akta ibu tidak dipinda oleh Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_26__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa kesalahan tatatertib yang dilakukan atau yang dikatakan telah dilakukan oleh seseorang pegawai atau pekhidmat Lembaga sebelum tarikh mula berkuatkuasanya Akta Badan-Badan Berkanun (Tatatertib dan Surcaj) 2000 hendaklah, selepas tarikh mula berkuatkuasanya Akta ini, diuruskan mengikut Akta ibu seolah-olah Akta ibu tidak dipinda oleh Akta ini. Lembaga Pemasaran Pertanian Persekutuan (Pindaan)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_26__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun subseksyen (2), pegawai atau pekhidmat yang disebut dalam subseksyen itu hendaklah diberitahu bahawa dia boleh memilih untuk kesalahan tatatertib itu diuruskan mengikut peruntukan Akta Badan-Badan Berkanun (Tatatertib dan Surcaj) 2000, dan jika dia memilih sedemikian kesalahan tatatertib itu hendaklah diuruskan mengikut Akta itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"co-ordinate\" perkataan \", regulate\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"Malaysia,\" perkataan \"including the importing and exporting of agricultural produce,\". 2 Rang Undang-Undang Pindaan seksyen 1A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 1A Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_3__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_3__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif \"agricultural produce\"—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_3__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_3__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan menggantikan perkataan \"Yang di-Pertuan Agong.\" dengan perkataan \"Minister,\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_3__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_3__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"rubber,\" perkataan \"oil palm,\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif \"Director General\" takrif yang berikut: ' \"export\" means to take or cause to be taken out of Malaysia by land, water or air any agricultural produce for purposes of trade; \"Fund\" means the fund established by section 9; \"import\" means to bring or cause to be brought into Malaysia from any place outside Malaysia by land, water or air any agricultural produce for purposes of trade;'; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif \"marketing\", dengan memasukkan selepas perkataan \"packaging\" perkataan \", labelling, preserving, exporting, importing\". Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 2 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (4); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (6) subseksyen yang berikut: \"(7) No member of the Authority shall incur personal liability for any loss or damage caused by any act undertaken by him in administering the affairs of the Authority, unless the loss or damage is occasioned by an intentionally wrongful act on his part.\" Lembaga Pemasaran Pertanian 3 Persekutuan (Pindaan) Pindaan seksyen 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 3 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (e), dengan memotong perkataan \"and\" di hujung perenggan itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (f), dengan menggantikan noktah di hujung perenggan itu dengan perkataan \"; and\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (f) perenggan yang berikut: \"(g) to deal with any other matter relating to the marketing of agricultural produce.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5__para_b__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5__para_b__subpara_iv",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5__para_b__subpara_v",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5__para_b__subpara_vi",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5__para_b__subpara_vii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5__para_b__subpara_viii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan menggantikan perkataan \"particularly through\" dengan perkataan \"including by the\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c), dengan menggantikan perkataan \"packing\" dengan perkataan \"packaging, labelling\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (d) dengan perenggan yang berikut: \"(d) construct, establish, equip, maintain, let, lease, control, manage or operate markets or market premises for purposes of facilitating and regulating the purchase and sale of any agricultural produce;\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5__para_b__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (f), dengan memotong perkataan \"processing or\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5__para_b__subpara_v",
+      "@type": "akn:subparagraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (j), dengan memasukkan sebelum perkataan \"receive\" perkataan \"provide technical, advisory or consultancy services, or any other services to any person, corporation or party, and to\"; 4 Rang Undang-Undang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5__para_b__subpara_vi",
+      "@type": "akn:subparagraph",
+      "eli:number": "vi",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (I), dengan memotong perkataan \"and\" di hujung perenggan itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5__para_b__subpara_vii",
+      "@type": "akn:subparagraph",
+      "eli:number": "vii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (m), dengan menggantikan noktah di hujung perenggan itu dengan koma bertitik; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5__para_b__subpara_viii",
+      "@type": "akn:subparagraph",
+      "eli:number": "viii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (m) perenggan yang berikut: \"(n) acquire, purchase, establish, construct, equip, maintain, let, lease, control, manage or operate a warehouse for the storage and inspection of any agricultural produce in any public quay, wharf or street, adjacent to any airport or sea port or any waterway connected to such sea port; and (o) prescribe the manner in which credit facilities are provided, including administrative fees payable, the period of credit, the method of repayment and the type of securities to be provided.\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (3)(b), dengan menggantikan perkataan \"establish or promote the establishment\" dengan perkataan \"incorporate or promote the incorporation\". Pindaan seksyen 3A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 3A Akta ibu dipinda dengan memotong perkataan \"processing or\". Pemotongan seksyen 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 6. Pemotongan seksyen 6A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 6A. Lembaga Pemasaran Pertanian Persekutuan (Pindaan) Pemotongan seksyen 6B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/24/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 6B. Seksyen baru 6c"
+      }
+    }
+  ]
+}

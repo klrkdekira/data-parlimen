@@ -8,29 +8,37 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Matlamat utama Akta 3. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## SURUHANJAYA PENCEGAHAN RASUAH MALAYSIA
 
-4. Penubuhan Suruhanjaya Pencegahan Rasuah Malaysia 5. Ketua Pesuruhjaya 6. Pelantikan pegawai lain Suruhanjaya 7. Fungsi pegawai Suruhanjaya 8. Pengemukaan kad kuasa 9. Pegawai disifatkan sentiasa bertugas 10. Kuasa pegawai Suruhanjaya 11. Kewajipan pegawai Suruhanjaya 12. Perintah tetap
+4. Penubuhan Suruhanjaya Pencegahan Rasuah Malaysia 5. Ketua Pesuruhjaya 6. Pelantikan pegawai lain Suruhanjaya 7. Fungsi pegawai Suruhanjaya 8. Pengemukaan kad kuasa 9. Pegawai disifatkan sentiasa bertugas
 
-## Bahagian III
+10. Kuasa pegawai Suruhanjaya
+
+11. Kewajipan pegawai Suruhanjaya
+
+12. Perintah tetap
+
+## BAHAGIAN III
 
 ## PERUNTUKAN TENTANG LEMBAGA PENASIHAT, JAWATANKUASA KHAS DAN
 
 ## JAWATANKUASA ADUAN
 
-13. Lembaga Penasihat Pencegahan Rasuah 14. Jawatankuasa Khas mengenai Rasuah
+13. Lembaga Penasihat Pencegahan Rasuah
+
+14. Jawatankuasa Khas mengenai Rasuah
 
 <!-- page 2 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## KESALAHAN DAN PENALTI
 
@@ -60,7 +68,7 @@
 
 28. Percubaan, persediaan, persubahatan dan komplot jenayah boleh dihukum sebagaimana kesalahan
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PENYIASATAN, PEMERIKSAAN DAN PENGGELEDAHAN, PENYITAAN DAN
 
@@ -84,19 +92,59 @@
 
 <!-- page 3 -->
 
-37. Arahan untuk tidak melepaskan, berurusan tentang, harta alih di bank, dsb. 38. Penyitaan harta tak alih 39. Larangan urusan tentang harta di luar Malaysia 40. Pelucuthakan harta apabila pendakwaan dibuat bagi sesuatu kesalahan 41. Pelucuthakan harta jika tiada pendakwaan bagi sesuatu kesalahan 42. Membuat urusan tentang harta selepas penyitaan adalah tidak sah 43. Kuasa untuk memintas perhubungan 44. Penyerahan dokumen perjalanan 45. Kuasa untuk meminda atau membatalkan apa-apa perintah atau notis di bawah Akta ini 46. Peguam bela dan peguam cara boleh dikehendaki mendedahkan maklumat 47. Obligasi di sisi undang-undang untuk memberikan maklumat 48. Menghalang penyiasatan dan penggeledahan 49. Kesalahan di bawah Akta menjadi kesalahan boleh tangkap dan kuasa pegawai Suruhanjaya berhubungan dengan penyiasatan
+37. Arahan untuk tidak melepaskan, berurusan tentang, harta alih di bank, dsb.
 
-## Bahagian VI
+38. Penyitaan harta tak alih
+
+39. Larangan urusan tentang harta di luar Malaysia
+
+40. Pelucuthakan harta apabila pendakwaan dibuat bagi sesuatu kesalahan
+
+41. Pelucuthakan harta jika tiada pendakwaan bagi sesuatu kesalahan
+
+42. Membuat urusan tentang harta selepas penyitaan adalah tidak sah
+
+43. Kuasa untuk memintas perhubungan
+
+44. Penyerahan dokumen perjalanan
+
+45. Kuasa untuk meminda atau membatalkan apa-apa perintah atau notis di bawah Akta ini
+
+46. Peguam bela dan peguam cara boleh dikehendaki mendedahkan maklumat
+
+47. Obligasi di sisi undang-undang untuk memberikan maklumat
+
+48. Menghalang penyiasatan dan penggeledahan
+
+49. Kesalahan di bawah Akta menjadi kesalahan boleh tangkap dan kuasa pegawai Suruhanjaya berhubungan dengan penyiasatan
+
+## BAHAGIAN VI
 
 ## KETERANGAN
 
-50. Anggapan dalam kesalahan tertentu 51. Keterangan sokongan 52. Keterangan rakan sejenayah dan ejen provokasi 53. Kebolehterimaan pernyataan orang tertuduh 54. Kebolehterimaan pernyataan dan dokumen orang yang sudah mati atau tidak dapat dikesan, dsb. 55. Perakuan tentang kedudukan atau jawatan yang dipegang 56. Kebolehterimaan terjemahan dokumen 57. Keterangan tentang kelaziman tidak boleh diterima
+50. Anggapan dalam kesalahan tertentu
 
-## Bahagian VII
+51. Keterangan sokongan
+
+52. Keterangan rakan sejenayah dan ejen provokasi
+
+53. Kebolehterimaan pernyataan orang tertuduh
+
+54. Kebolehterimaan pernyataan dan dokumen orang yang sudah mati atau tidak dapat dikesan, dsb.
+
+55. Perakuan tentang kedudukan atau jawatan yang dipegang
+
+56. Kebolehterimaan terjemahan dokumen
+
+57. Keterangan tentang kelaziman tidak boleh diterima
+
+## BAHAGIAN VII
 
 ## PENDAKWAAN DAN PERBICARAAN KESALAHAN
 
-58. Pendakwaan kesalahan 59. Bidang kuasa Mahkamah Sesyen
+58. Pendakwaan kesalahan
+
+59. Bidang kuasa Mahkamah Sesyen
 
 <!-- page 4 -->
 
@@ -108,7 +156,7 @@
 
 63. Pemeriksaan pesalah
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 AM
 
@@ -130,7 +178,7 @@ AM
 
 72. Kekebalan
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## PEMANSUHAN DAN KECUALIAN
 
@@ -138,7 +186,7 @@ AM
 
 74. Kecualian
 
-## Jadual
+## JADUAL
 
 <!-- page 5 -->
 
@@ -148,7 +196,7 @@ Suatu Akta untuk menubuhkan Suruhanjaya Pencegahan Rasuah Malaysia, untuk membua
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -344,7 +392,7 @@ mengawal, atau syer yang nilainya berjumlah tidak kurang daripada tiga puluh per
 
 (c) apa-apa perbuatan yang menghasilkan apa-apa hak, kepentingan, hakmilik atau keistimewaan, sama ada pada masa sekarang atau akan datang atau sama ada terletak hak atau kontingen, dalam semua atau sebahagian daripada mana-mana harta yang diberikan kepada mana-mana orang.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## SURUHANJAYA PENCEGAHAN RASUAH MALAYSIA
 
@@ -470,7 +518,7 @@ Tatacara Jenayah [Akta 593] dan Akta Pendaftaran Penjenayah dan Orang-Orang Yang
 
 12. Ketua Pesuruhjaya boleh mengeluarkan perintah-perintah pentadbiran yang disebut “Perintah-Perintah Tetap”, yang selaras dengan peruntukan Akta ini tentang kawalan am, latihan, tugas dan tanggungjawab pegawai-pegawai dan pegawai-pegawai rendah Suruhanjaya, dan bagi apa-apa perkara lain yang perlu atau suai manfaat untuk pentadbiran baik Suruhanjaya atau bagi mencegah penyalahgunaan kuasa atau pengabaian tugas, dan pada amnya untuk memastikan Suruhanjaya berfungsi dengan cekap dan berkesan.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PERUNTUKAN TENTANG LEMBAGA PENASIHAT, JAWATANKUASA
 
@@ -542,7 +590,7 @@ Tatacara Jenayah [Akta 593] dan Akta Pendaftaran Penjenayah dan Orang-Orang Yang
 
 (2) Menteri boleh melantik tidak lebih daripada lima orang, yang difikirkannya patut dan sesuai, untuk menjadi anggota Jawatankuasa Aduan.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## KESALAHAN DAN PENALTI
 
@@ -738,7 +786,7 @@ melakukan kesalahan itu dan apabila disabitkan boleh dikenakan hukuman yang sama
 
 (3) Perenggan (1)(a) tidaklah terpakai jika suatu percubaan untuk melakukan apa-apa perbuatan dijadikan dengan nyata suatu kesalahan di bawah Akta ini, dan perenggan (1)(c) tidaklah terpakai bagi kes sesuatu persubahatan suatu kesalahan sebagaimana yang diperuntukkan di bawah seksyen 164 Kanun Keseksaan.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PENYIASATAN, PEMERIKSAAN DAN PENGGELEDAHAN,
 
@@ -796,7 +844,9 @@ dengan perkara yang berhubungan dengannya dia diperiksa, dan menjawab dengan ben
 
 (8) Seseorang pegawai Suruhanjaya yang memeriksa seseorang di bawah perenggan (1)(a) hendaklah merekodkan secara bertulis apa-apa pernyataan yang dibuat oleh orang itu dan pernyataan yang direkodkan sedemikian hendaklah dibacakan kepada dan ditandatangani oleh orang itu, dan jika orang itu enggan menandatangani rekod itu, pegawai itu hendaklah mencatatkan pada rekod itu di bawah tandatangannya hakikat keengganan itu dan sebab-sebabnya, jika ada, yang dinyatakan oleh orang yang diperiksa itu.
 
-(9) Rekod sesuatu pemeriksaan di bawah perenggan (1)(a), atau sesuatu pernyataan bertulis dengan bersumpah atau berikrar yang dibuat menurut perenggan (1)(c), atau apa-apa buku, dokumen, rekod, akaun atau data komputer, atau barang yang dikemukakan di bawah perenggan (1)(b) atau selainnya semasa pemeriksaan di bawah perenggan (1)(a), atau di bawah suatu pernyataan bertulis dengan bersumpah atau berikrar yang dibuat menurut perenggan (1)(c), atau rekod pemeriksaan sampel yang diambil di bawah perenggan (1)(d) hendaklah, walau apa pun mana-mana undang- undang bertulis atau rukun undang-undang yang berlawanan, boleh diterima sebagai keterangan dalam mana-mana prosiding di mana-mana mahkamah—
+(9) Rekod sesuatu pemeriksaan di bawah perenggan (1)(a), atau sesuatu pernyataan bertulis dengan bersumpah atau berikrar yang dibuat menurut perenggan (1)(c), atau apa-apa buku, dokumen, rekod, akaun atau data komputer, atau barang yang dikemukakan di bawah perenggan (1)(b) atau selainnya semasa pemeriksaan di bawah perenggan (1)(a), atau di bawah suatu pernyataan bertulis dengan bersumpah atau berikrar yang dibuat menurut perenggan
+
+(1)(c), atau rekod pemeriksaan sampel yang diambil di bawah perenggan (1)(d) hendaklah, walau apa pun mana-mana undang- undang bertulis atau rukun undang-undang yang berlawanan, boleh diterima sebagai keterangan dalam mana-mana prosiding di mana-mana mahkamah—
 
 (a) bagi sesuatu kesalahan di bawah Akta ini;
 
@@ -956,9 +1006,13 @@ atau tuntutan oleh mana-mana orang di bawah atau menurut kuasa mana-mana undang-
 
 (ii) yang mengenal pasti tiap-tiap harta yang dihantar keluar dari Malaysia olehnya dalam tempoh yang dinyatakan dalam notis itu;
 
-(iii) yang menyatakan nilai anggaran dan tempat terletaknya setiap harta yang dikenal pasti di bawah subperenggan (i) dan (ii), dan jika mana-mana harta itu tidak dapat diketahui tempat letaknya, sebab mengapa;
+(iii) yang menyatakan nilai anggaran dan tempat terletaknya setiap harta yang dikenal pasti di bawah subperenggan
 
-(iv) yang menyatakan berkenaan dengan setiap harta yang dikenal pasti di bawah subperenggan (i) dan (ii) sama ada harta itu dipegang olehnya atau oleh mana-mana orang lain bagi pihaknya, sama ada harta itu telah dipindah hakmilik, dijual kepada atau disimpan dengan mana-mana orang, sama ada harta itu telah susut nilainya sejak dia memperolehnya, dan sama ada ia telah berbaur dengan harta lain yang tidak dapat dipisahkan atau dibahagikan tanpa kesukaran;
+(i) dan (ii), dan jika mana-mana harta itu tidak dapat diketahui tempat letaknya, sebab mengapa;
+
+(iv) yang menyatakan berkenaan dengan setiap harta yang dikenal pasti di bawah subperenggan (i) dan
+
+(ii) sama ada harta itu dipegang olehnya atau oleh mana-mana orang lain bagi pihaknya, sama ada harta itu telah dipindah hakmilik, dijual kepada atau disimpan dengan mana-mana orang, sama ada harta itu telah susut nilainya sejak dia memperolehnya, dan sama ada ia telah berbaur dengan harta lain yang tidak dapat dipisahkan atau dibahagikan tanpa kesukaran;
 
 (v) menyatakan segala maklumat lain yang berhubungan dengan setiap harta yang dikenal pasti di bawah subperenggan (i) dan (ii), dan perniagaan, perjalanan, atau kegiatan-kegiatan lain orang itu; dan
 
@@ -1020,13 +1074,17 @@ atau tuntutan oleh mana-mana orang di bawah atau menurut kuasa mana-mana undang-
 
 (c) dengan menyampaikan suatu salinan Notis itu pada Pentadbir Tanah atau Pendaftar Hakmilik, mengikut mana-mana yang berkenaan, di Semenanjung Malaysia, atau Pendaftar Hakmilik atau Pemungut Hasil Tanah, mengikut mana-mana yang berkenaan, di Sabah, atau pada Pengarah Tanah dan Ukur atau Pendaftar yang bertanggungjawab bagi hakmilik tanah, mengikut mana- mana yang berkenaan, di Sarawak, bagi kawasan tempat terletaknya harta tak alih itu.
 
-(2) Pentadbir Tanah, Pemungut Hasil Tanah, Pengarah Tanah dan Ukur, Pendaftar Hakmilik atau Pendaftar yang bertanggungjawab bagi hakmilik tanah, mengikut mana-mana yang berkenaan, yang disebut dalam subseksyen (1) hendaklah dengan serta-merta apabila disampaikan kepadanya Notis Penyitaan di bawah subseksyen (1) mencatatkan terma Notis Penyitaan itu pada dokumen hakmilik yang berkenaan dengan harta tak alih itu dalam Daftar di pejabatnya.
+(2) Pentadbir Tanah, Pemungut Hasil Tanah, Pengarah Tanah dan Ukur, Pendaftar Hakmilik atau Pendaftar yang bertanggungjawab bagi hakmilik tanah, mengikut mana-mana yang berkenaan, yang disebut dalam subseksyen (1) hendaklah dengan serta-merta apabila disampaikan kepadanya Notis Penyitaan di bawah subseksyen
+
+(1) mencatatkan terma Notis Penyitaan itu pada dokumen hakmilik yang berkenaan dengan harta tak alih itu dalam Daftar di pejabatnya.
 
 (3) Jika catatan tentang Notis Penyitaan telah dibuat di bawah subseksyen (2), Notis itu hendaklah mempunyai kesan melarang segala urusan berkenaan dengan harta tak alih itu, dan selepas catatan itu dibuat tiada urusan berkenaan dengan harta tak alih itu boleh didaftarkan, tidak kira sama ada ia disempurnakan sebelum atau selepas pengeluaran Notis itu atau pembuatan catatan itu.
 
 (4) Subseksyen (3) tidaklah terpakai bagi sesuatu urusan yang dilaksanakan oleh seseorang pegawai badan awam atas sifatnya sebagai pegawai sedemikian, atau selainnya oleh atau bagi pihak Kerajaan Malaysia atau Kerajaan sesuatu Negeri, atau suatu pihak berkuasa tempatan atau badan berkanun lain.
 
-(5) Mana-mana orang yang melanggar subseksyen (2) atau (3) atau melakukan apa-apa perbuatan yang menghasilkan, atau menyebabkan, pelanggaran subseksyen (2) atau (3) melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi dua kali ganda nilai harta yang berkenaan dengannya perintah Pendakwa Raya telah dilanggar, atau lima puluh ribu ringgit, mengikut mana-mana yang lebih tinggi, dan boleh dipenjarakan selama tempoh tidak melebihi dua tahun.
+(5) Mana-mana orang yang melanggar subseksyen (2) atau
+
+(3) atau melakukan apa-apa perbuatan yang menghasilkan, atau menyebabkan, pelanggaran subseksyen (2) atau (3) melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi dua kali ganda nilai harta yang berkenaan dengannya perintah Pendakwa Raya telah dilanggar, atau lima puluh ribu ringgit, mengikut mana-mana yang lebih tinggi, dan boleh dipenjarakan selama tempoh tidak melebihi dua tahun.
 
 <!-- page 46 -->
 
@@ -1100,7 +1158,9 @@ ini, boleh, atas permohonan seseorang pegawai Suruhanjaya yang berpangkat Pengua
 
 (2) Jika mana-mana orang dipertuduh atas suatu kesalahan di bawah Akta ini, apa-apa maklumat yang diperoleh oleh pegawai Suruhanjaya menurut subseksyen (1), sama ada sebelum atau selepas orang itu dipertuduh, hendaklah boleh diterima sebagai keterangan dalam perbicaraannya.
 
-(3) Sesuatu pemberikuasaan oleh Pendakwa Raya atau seorang pegawai Suruhanjaya yang berpangkat Pesuruhjaya atau yang lebih tinggi yang diberi kuasa oleh Pendakwa Raya di bawah subseksyen (1) boleh diberikan sama ada secara lisan atau bertulis; tetapi jika pemberikuasaan lisan diberikan, Pendakwa Raya atau pegawai Suruhanjaya yang berpangkat Pesuruhjaya atau yang lebih tinggi yang diberi kuasa oleh Pendakwa Raya itu hendaklah, dengan seberapa segera yang praktik, mengubah pemberikuasaan itu ke dalam bentuk bertulis.
+(3) Sesuatu pemberikuasaan oleh Pendakwa Raya atau seorang pegawai Suruhanjaya yang berpangkat Pesuruhjaya atau yang lebih tinggi yang diberi kuasa oleh Pendakwa Raya di bawah subseksyen
+
+(1) boleh diberikan sama ada secara lisan atau bertulis; tetapi jika pemberikuasaan lisan diberikan, Pendakwa Raya atau pegawai Suruhanjaya yang berpangkat Pesuruhjaya atau yang lebih tinggi yang diberi kuasa oleh Pendakwa Raya itu hendaklah, dengan seberapa segera yang praktik, mengubah pemberikuasaan itu ke dalam bentuk bertulis.
 
 (4) Sesuatu perakuan oleh Pendakwa Raya atau pegawai Suruhanjaya yang berpangkat Pesuruhjaya atau yang lebih tinggi yang diberi kuasa oleh Pendakwa Raya itu yang menyatakan bahawa tindakan yang diambil oleh seseorang pegawai Suruhanjaya menurut subseksyen (1) telah diberi kuasa olehnya di bawah subseksyen itu hendaklah menjadi keterangan muktamad bahawa tindakan itu telah diberi kuasa sedemikian, dan perakuan itu hendaklah boleh diterima sebagai keterangan tanpa bukti tandatangan Pendakwa Raya atau pegawai Suruhanjaya yang berpangkat Pesuruhjaya atau yang lebih tinggi yang diberi kuasa oleh Pendakwa Raya.
 
@@ -1222,7 +1282,7 @@ melakukan suatu kesalahan.
 
 (8) Jika seseorang telah ditangkap dan dibenarkan diikat jamin dan penjamin gagal untuk mengemukakannya atau jika syarat- syarat yang berdasarkannya atau tertakluk kepadanya seseorang dilepaskan tidak dipatuhi, Pendakwa Raya boleh memohon kepada Mahkamah Majistret untuk suatu perintah pelucuthakan jumlah wang yang telah didepositkan dan Mahkamah itu hendaklah menguruskan permohonan itu mengikut seksyen 404 Kanun Tatacara Jenayah.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## KETERANGAN
 
@@ -1336,7 +1396,7 @@ hendaklah boleh diterima sebagai keterangan dalam mana-mana prosiding di bawah A
 
 <!-- page 62 -->
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PENDAKWAAN DAN PERBICARAAN KESALAHAN
 
@@ -1390,7 +1450,7 @@ sebagaimana saksi yang enggan sedemikian boleh diperlakukan di sisi undang-undan
 
 (4) Sesuatu permohonan oleh Pendakwa Raya di bawah subseksyen (1) boleh dikemukakan kepada mahkamah oleh pegawai yang menjalankan pendakwaan.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 AM
 
@@ -1478,7 +1538,7 @@ bagi atau kerana, atau berkenaan dengan, apa-apa perbuatan yang dilakukan atau p
 
 Dengan syarat bahawa perbuatan atau pernyataan itu dilakukan atau dibuat, atau ditinggalkan daripada dilakukan atau dibuat, dengan suci hati.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## PEMANSUHAN DAN KECUALIAN
 
@@ -1498,7 +1558,7 @@ Pencegahan Rasuah 1997 hendaklah disifatkan telah dilakukan atau diambil di bawa
 
 (3) Peruntukan Akta ini yang berhubungan semata-mata dengan tatacara dan keterangan hendaklah terpakai bagi apa-apa kesalahan terhadap undang-undang yang dimansuhkan di bawah seksyen 73 dan peruntukan itu boleh digunakan dalam apa-apa penyiasatan yang belum selesai dan dalam mana-mana prosiding mahkamah yang dimulakan sebelum atau selepas Akta ini mula berkuat kuasa berkenaan dengan kesalahan itu.
 
-## Jadual
+## JADUAL
 
 [Perenggan 3(a), takrif “kesalahan ditetapkan”]
 
@@ -1546,9 +1606,7 @@ Fasal 15 bertujuan untuk menubuhkan Jawatankuasa Aduan untuk memantau pengendali
 
 Fasal 22 ialah peruntukan baru yang bertujuan untuk mengadakan peruntukan bagi kesalahan menyogok pegawai awam asing untuk membolehkan Malaysia mematuhi Konvensyen Bangsa-Bangsa Bersatu Menentang Rasuah.
 
-## Bahagian IV juga bertujuan untuk menghendaki seseorang yang ditawarkan
-
-suapan atau mana-mana orang yang suapan diminta daripadanya untuk melaporkan tawaran atau permintaan itu. Ini terkandung dalam fasal 25.
+Bahagian IV juga bertujuan untuk menghendaki seseorang yang ditawarkan suapan atau mana-mana orang yang suapan diminta daripadanya untuk melaporkan tawaran atau permintaan itu. Ini terkandung dalam fasal 25.
 
 Di bawah fasal 26, seseorang melakukan kesalahan jika dia berurus niaga, menggunakan, memegang, menerima atau menyembunyikan apa-apa harta yang menjadi hal perkara mana-mana kesalahan yang dicadangkan dalam fasal 16, 17, 18, 20, 21, 22 atau 23.
 
@@ -1556,11 +1614,7 @@ Fasal 27 bertujuan untuk menjadikan kesalahan bagi mana-mana orang membuat apa-a
 
 Fasal 28 bertujuan untuk menjadikan tiap-tiap cubaan, persediaan, persubahatan dan komplot jenayah untuk melakukan kesalahan di bawah Akta yang dicadangkan boleh dihukum dengan penalti yang sama yang diperuntukkan bagi kesalahan-kesalahan itu.
 
-6. Bahagian V mengandungi peruntukan mengenai penyiasatan, pemeriksaan dan penggeledahan, penyitaan dan penangkapan. Bahagian ini meliputi peruntukan yang sekarang ini terdapat dalam Bahagian IV dan V Akta 575. Memandangkan bahawa beberapa kuasa berhubungan dengan penyiasatan yang terdapat dalam
-
-## Bahagian V Akta 575 sekarang ini dicadangkan diberikan kepada pegawai-
-
-pegawai Suruhanjaya yang diberi kuasa oleh Pendakwa Raya dan tidak lagi akan berada dalam lingkungan kuasa Pendakwa Raya semata-mata, maka tidak perlu dikekalkan bahagian tentang kuasa Pendakwa Raya.
+6. Bahagian V mengandungi peruntukan mengenai penyiasatan, pemeriksaan dan penggeledahan, penyitaan dan penangkapan. Bahagian ini meliputi peruntukan yang sekarang ini terdapat dalam Bahagian IV dan V Akta 575. Memandangkan bahawa beberapa kuasa berhubungan dengan penyiasatan yang terdapat dalam Bahagian V Akta 575 sekarang ini dicadangkan diberikan kepada pegawai- pegawai Suruhanjaya yang diberi kuasa oleh Pendakwa Raya dan tidak lagi akan berada dalam lingkungan kuasa Pendakwa Raya semata-mata, maka tidak perlu dikekalkan bahagian tentang kuasa Pendakwa Raya.
 
 Fasal 29 bertujuan untuk memberi pegawai Suruhanjaya kuasa untuk menyiasat aduan dan maklumat.
 

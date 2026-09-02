@@ -1,0 +1,332 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-14-2009",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_12"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Capital Markets and Services (Amendment) Bill 2009"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 320 the following section: “False or misleading financial statements of a listed corporation 320a. (1) A person shall not influence, coerce, mislead or authorize any person engaged in— (a) the preparation of the financial statements of a listed corporation or any of its related corporations; or (b) the performance of an audit of the financial statements of a listed corporation or any of its related corporations, to do anything which he knows or ought reasonably to have known may cause the financial statements or audited financial statements to be false or misleading in a material particular. (2) A person who contravenes subsection (1) commits an offence and shall, on conviction, be punished with imprisonment for a term not exceeding ten years and be liable to a fine not exceeding ten million ringgit.”. Amendment of section 368"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 368(1) of the principal Act is amended by substituting for the words “and a holder of a Capital Markets Services Licence” the words “, a holder of a Capital Markets Services Licence or a listed corporation or any of its related corporations”. Amendment of section 371"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_12__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 371 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “any record or account required to be kept or maintained under this Act” the words “any books, record or account required to be kept or maintained under the securities laws, any guidelines issued under the securities laws”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “any power under this Act” the words “any power under the securities laws”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Capital Markets and Services (Amendment) Act 2009."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_1__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_1__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette, and the Minister may appoint different dates for the coming into operation of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_1__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_1__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "different provisions of this Act; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_1__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_1__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all or different provisions of this Act in respect of different classes or categories of persons or securities. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_2__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_2__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Capital Markets and Services Act 2007 [Act 671], which is referred to as the “principal Act” in this Act, is amended in section 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_2__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_2__list_1__para_a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_2__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_2__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “settlement” the following definition: “ Shariah Advisory Council” means Shariah Advisory Council established under section 316a;”; and (b) by inserting after the definition of “Islamic bank” the following definition: ‘ “Islamic capital market business or transaction” means—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_2__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_2__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_2__list_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_2__list_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_2__list_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_2__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the business of carrying on any regulated activity;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_2__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any proposal that falls within subsection 212(2);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_2__list_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any transaction relating to a futures contract; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_2__list_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_2__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the establishing, operating or maintaining of a stock market or a futures market, which does not involve any element that is inconsistent with the principles of Shariah as may be determined by the Shariah Advisory Council;’. Amendment of section 63"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 63(2) of the principal Act is amended by substituting for the words “and form part of the Federal Consolidated Fund” the words “the Fund established under section 23 of the Securities Commission Act 1993”. Amendment of section 216"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 216(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “control”— (i) by substituting for the words “voting rights of thirty per centum or more” the words “voting rights of more than thirty-three per centum”; and (ii) by inserting after the words “in a company” the words “, howsoever effected”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “take-over offer” the following definition: ‘ “take-over offer” means an offer made to acquire all or part of the voting shares or voting rights, or any class or classes of voting shares or voting rights, in a company and includes— (a) a take-over or merger transaction howsoever effected which has the effect or potential effect of obtaining or consolidating control in the company; (b) a partial offer as defined in the Code; (c) a take-over offer by a parent company for the voting shares or voting rights in its subsidiary; or (d) an arrangement or reorganization that involves the voting shares or voting rights of a listed company;’. Amendment of section 220"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 220(1)(a) of the principal Act is amended by inserting after the words “provision of” the words “this Division,”. Amendment of section 222"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 222(1) of the principal Act is amended by substituting for the words “including shares already held” the words “excluding shares already held”. New sections 316a, 316b, 316c, 316d, 316e, 316f, 316g and 316h"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 316 the following sections: “Establishment of Shariah Advisory Council for Islamic capital market 316a. (1) The Commission may establish a Shariah Advisory Council for Islamic capital market which shall be the authority for the ascertainment of the application of Shariah principles for the purposes of Islamic capital market business or transaction. (2) The Shariah Advisory Council may determine its own procedures. Functions of Shariah Advisory Council 316b. The Shariah Advisory Council shall have the following functions: (a) to ascertain the application of Shariah principles on any matter pertaining to Islamic capital market business or transaction and issue a ruling upon reference made to it in accordance with this Division; (b) to advise the Commission on any Shariah issue relating to Islamic capital market business or transaction; (c) to provide advice to any person on any Shariah issue relating to Islamic capital market business or transaction; and (d) such other functions as may be prescribed by the Minister. Appointment of members of Shariah Advisory Council 316c. (1) The Yang di-Pertuan Agong may, on the advice of the Minister after consultation with the Commission, appoint persons as members of the Shariah Advisory Council who are qualified in— (a) fiqh muamalah; (b) Islamic jurisprudence; (c) Islamic finance; or (d) any other relevant discipline. (2) If a judge of the High Court, the Court of Appeal or the Federal Court, or a judge of the Shariah Appeal Court of a State or Federal Territory is to be appointed under subsection (1), such appointment shall not be made except— (a) in the case of a judge of the High Court, the Court of Appeal or the Federal Court, after consultation by the Commission with the Chief Justice of the Federal Court; and (b) in the case of a judge of the Shariah Appeal Court of a State or Federal Territory, after consultation by the Commission with the Chief Shariah Judge of that State or Federal Territory, as the case may be. (3) A member of the Shariah Advisory Council appointed under subsection (1) shall hold office on such terms and conditions as may be provided in their respective letters of appointment, and shall be eligible for reappointment. (4) The members of the Shariah Advisory Council shall be paid such remuneration and allowances as may be determined by the Commission. Secretariat to Shariah Advisory Council 316d. The Commission may— (a) establish a secretariat and such other committees as it considers necessary to assist the Shariah Advisory Council in carrying out of its functions under section 316b; and (b) appoint an officer of the Commission or any other person to be a member of the secretariat or any of such committees. Advice or ruling of Shariah Advisory Council 316e. Any licensed person, stock exchange, futures exchange, clearing house, central depository, listed corporation or any other person may— (a) seek the advice; or (b) refer for a ruling, of the Shariah Advisory Council on any matter relating to its Islamic capital market business or transaction to ascertain whether such Islamic capital market business or transaction involves any element which is inconsistent with the Shariah. Reference to Shariah Advisory Council for ruling from court or arbitrator 316f. (1) Where in any proceedings before any court or arbitrator concerning a Shariah matter in relation to Islamic capital market business or transaction, the court or the arbitrator, as the case may be, shall— (a) take into consideration any ruling of the Shariah Advisory Council; or (b) refer such matter to the Shariah Advisory Council for its ruling. (2) Any request for advice or a ruling of the Shariah Advisory Council under this Act or any other law shall be submitted to the secretariat. Effect of Shariah ruling 316g. Any ruling made by the Shariah Advisory Council under section 316e or 316f shall be binding on— (a) the licensed person, stock exchange, futures exchange, clearing house, central depository, listed corporation or any other person referred to in section 316e; and (b) the court or arbitrator referred to in section 316f. Shariah Advisory Council ruling prevails 316h. (1) Where a ruling given by a registered Shariah adviser to a person engaging in any Islamic capital market business or transaction is different from the ruling given by the Shariah Advisory Council, the ruling of the Shariah Advisory Council shall prevail. (2) For the purpose of this section, “registered Shariah adviser” means a person who is registered under any guidelines issued by the Commission under section 377.”. New section 317a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 317 the following section: “Prohibited conduct of director or officer of a listed corporation 317a. (1) A director or an officer of a listed corporation or any of its related corporations shall not do or cause anyone to do anything with the intention of causing wrongful loss to the listed corporation or any of its related corporations irrespective of whether the conduct causes actual wrongful loss. (2) This section is in addition to and not in derogation of any law relating to the duties or liabilities of directors or officers of a listed corporation. (3) A person who contravenes subsection (1) commits an offence and shall, on conviction, be punished with imprisonment for a term not exceeding ten years and be liable to a fine not exceeding ten million ringgit. (4) For the purpose of this section— “director” includes a person who is a director, chief executive officer, chief operating officer, chief financial controller or any other person primarily responsible for the operations or financial management of a company, by whatever name called; “property” has the same meaning as in section 138; “wrongful loss” means loss of property by unlawful means to which the person losing is legally entitled.”. Amendment of section 319"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 319(4) of the principal Act is amended by substituting for the words “subsection (1)” the words “subsection (3)”. New section 320a"
+      }
+    }
+  ]
+}

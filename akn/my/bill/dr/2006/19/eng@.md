@@ -36,4 +36,6 @@ This Bill seeks to amend the Tunku Abdul Rahman Foundation Fund Act 1966 ("Act 3
 
 ## FINANCIAL IMPLICATIONS
 
-This Bill will not involve the Government in any extra financial expenditure. LPN(U2)24271
+This Bill will not involve the Government in any extra financial expenditure.
+
+<!-- marginal: LPN(U2)24271 -->

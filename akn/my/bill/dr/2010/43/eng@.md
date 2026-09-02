@@ -14,13 +14,35 @@
 
 ## THE AUTHORITY
 
-3. Establishment of the Authority 4. Common seal 5. Membership of the Authority 6. Temporary exercise of functions of the Chairman 7. Schedule 8. Approval to hold other offices 9. Tenure of office 10. Remuneration and allowances 11. Revocation of appointment and resignation 12. Vacation of office 13. Committees 14. Disclosure of interest
+3. Establishment of the Authority 4. Common seal 5. Membership of the Authority 6. Temporary exercise of functions of the Chairman 7. Schedule 8. Approval to hold other offices 9. Tenure of office
+
+10. Remuneration and allowances
+
+11. Revocation of appointment and resignation
+
+12. Vacation of office
+
+13. Committees
+
+14. Disclosure of interest
 
 ## PART III
 
 ## FUNCTIONS AND POWERS OF THE AUTHORITY
 
-15. Functions of the Authority 16. Powers of the Authority 17. Additional functions of the Authority 18. Delegation of the Authority’s functions and powers 19. Direction by Minister 20. Returns, reports, accounts and information 21. Authority may establish and participate in bodies corporate
+15. Functions of the Authority
+
+16. Powers of the Authority
+
+17. Additional functions of the Authority
+
+18. Delegation of the Authority’s functions and powers
+
+19. Direction by Minister
+
+20. Returns, reports, accounts and information
+
+21. Authority may establish and participate in bodies corporate
 
 <!-- page 2 -->
 

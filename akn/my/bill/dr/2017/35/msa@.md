@@ -12,15 +12,17 @@ Warga Emas Swasta
 
 ## SUSUNAN FASAL
 
-## Bahagian i
+## BAHAGIAN I
 
-PERMULaan 1. Tajuk ringkas dan permulaan kuat kuasa
+## PERMULAAN
+
+1. Tajuk ringkas dan permulaan kuat kuasa
 
 2. Tafsiran
 
 3. Ketidakpakaian
 
-## Bahagian II
+## BAHAGIAN II
 
 ## KELULUSAN UNTUK MENYEDIAKAN DAN LESEN UNTUK
 
@@ -32,7 +34,7 @@ PERMULaan 1. Tajuk ringkas dan permulaan kuat kuasa
 
 5. Premis bagi kemudahan dan perkhidmatan jagaan kesihatan warga emas swasta berlesen
 
-## Bahagian III
+## BAHAGIAN III
 
 ## KELULUSAN
 
@@ -48,7 +50,7 @@ PERMULaan 1. Tajuk ringkas dan permulaan kuat kuasa
 
 <!-- page 2 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## LESEN
 
@@ -70,7 +72,7 @@ PERMULaan 1. Tajuk ringkas dan permulaan kuat kuasa
 
 19. Pemindahan atau penyerahan hak lesen
 
-## Bahagian V
+## BAHAGIAN V
 
 ## KEWAJIPAN PEMEGANG LESEN DAN ORANG YANG BERTANGGUNGJAWAB
 
@@ -94,7 +96,7 @@ PERMULaan 1. Tajuk ringkas dan permulaan kuat kuasa
 
 29. Larangan terhadap pembesaran atau pengubahan
 
-## Bahagian Vi
+## BAHAGIAN VI
 
 ## PEMBATALAN
 
@@ -112,9 +114,11 @@ PERMULaan 1. Tajuk ringkas dan permulaan kuat kuasa
 
 Warga Emas Swasta
 
-## Bahagian Vii
+## BAHAGIAN VII
 
-PEnUTUPan KEMUDahan Dan PERKhiDMaTan Jagaan KESihaTan WaRga EMaS SWaSTa
+## PENUTUPAN KEMUDAHAN DAN PERKHIDMATAN JAGAAN
+
+## KESIHATAN WARGA EMAS SWASTA
 
 35. Penutupan sukarela
 
@@ -122,7 +126,7 @@ PEnUTUPan KEMUDahan Dan PERKhiDMaTan Jagaan KESihaTan WaRga EMaS SWaSTa
 
 37. Penutupan kemudahan dan perkhidmatan jagaan kesihatan warga emas swasta tidak berlesen
 
-## Bahagian Viii
+## BAHAGIAN VIII
 
 ## PENGUATKUASAAN
 
@@ -134,7 +138,7 @@ PEnUTUPan KEMUDahan Dan PERKhiDMaTan Jagaan KESihaTan WaRga EMaS SWaSTa
 
 41. Pemulaan dan penjalanan pendakwaan
 
-## Bahagian IX
+## BAHAGIAN IX
 
 AM
 
@@ -162,9 +166,9 @@ AM
 
 53. Kecualian dan peralihan
 
-## JaDUaL PERTaMa
+## JADUAL PERTAMA
 
-## JaDUaL KEDUa
+## JADUAL KEDUA
 
 <!-- page 5 -->
 
@@ -176,9 +180,9 @@ Suatu Akta untuk mengadakan peruntukan bagi pengawalseliaan kemudahan dan perkhi
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian i
+## BAHAGIAN I
 
-PERMULaan
+## PERMULAAN
 
 ### Tajuk ringkas dan permulaan kuat kuasa
 
@@ -248,7 +252,7 @@ Warga Emas Swasta
 
 <!-- page 8 -->
 
-## Bahagian II
+## BAHAGIAN II
 
 ## KELULUSAN UNTUK MENYEDIAKAN DAN LESEN UNTUK
 
@@ -298,7 +302,7 @@ Warga Emas Swasta
 
 (3) Ketua Pengarah boleh menentukan standard atau kehendak yang berlainan bagi jenis premis yang berlainan yang di dalamnya kemudahan dan perkhidmatan jagaan kesihatan warga emas akan disediakan.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## KELULUSAN
 
@@ -356,7 +360,7 @@ Warga Emas Swasta
 
 (b) jika pemegang kelulusan ialah suatu pertubuhan perbadanan, perkongsian atau pertubuhan, didenda tidak melebihi tiga puluh ribu ringgit.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## LESEN
 
@@ -386,9 +390,7 @@ kemudahan dan perkhidmatan jagaan kesihatan warga emas swasta itu yang berhubung
 
 ### Pemberian lesen
 
-14.
-
-(1) Jika Ketua Pengarah berpuas hati dengan laporan pemeriksaan di bawah subseksyen 13(2), Ketua Pengarah boleh memberikan lesen untuk mengendalikan kemudahan dan perkhidmatan jagaan kesihatan warga emas swasta di premis itu.
+14. (1) Jika Ketua Pengarah berpuas hati dengan laporan pemeriksaan di bawah subseksyen 13(2), Ketua Pengarah boleh memberikan lesen untuk mengendalikan kemudahan dan perkhidmatan jagaan kesihatan warga emas swasta di premis itu.
 
 <!-- page 13 -->
 
@@ -460,7 +462,7 @@ Warga Emas Swasta
 
 (b) jika pemegang lesen atau pemegang lesen sementara ialah suatu pertubuhan perbadanan, perkongsian atau pertubuhan, didenda tidak melebihi tiga puluh ribu ringgit.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## KEWAJIPAN PEMEGANG LESEN DAN ORANG YANG
 
@@ -598,9 +600,9 @@ dengan peti pertolongan kecemasan bagi rawatan kecemasan yang hendaklah disimpan
 
 (2) Permohonan bagi apa-apa pembesaran atau pengubahan hendaklah dibuat kepada Ketua Pengarah mengikut cara yang ditentukan oleh Ketua Pengarah dan hendaklah disertakan dengan fi yang ditetapkan.
 
-## Bahagian Vi
+## BAHAGIAN VI
 
-PEMBaTaLan
+## PEMBATALAN
 
 ### Alasan pembatalan
 
@@ -654,9 +656,11 @@ Warga Emas Swasta
 
 Warga Emas Swasta
 
-## Bahagian Vii
+## BAHAGIAN VII
 
-PEnUTUPan KEMUDahan Dan PERKhiDMaTan Jagaan KESihaTan WaRga EMaS SWaSTa
+## PENUTUPAN KEMUDAHAN DAN PERKHIDMATAN JAGAAN
+
+## KESIHATAN WARGA EMAS SWASTA
 
 ### Penutupan sukarela
 
@@ -710,9 +714,9 @@ Warga Emas Swasta
 
 (3) Apa-apa kos yang dilakukan yang berhubungan dengan penutupan kemudahan dan perkhidmatan jagaan kesihatan warga emas swasta tidak berlesen di bawah subseksyen (1) hendaklah ditanggung oleh orang yang menyediakan atau mengendalikan kemudahan dan perkhidmatan jagaan kesihatan itu dan dianggap sebagai hutang yang kena dibayar kepada Kerajaan.
 
-## Bahagian Viii
+## BAHAGIAN VIII
 
-PEngUaTKUaSaan
+## PENGUATKUASAAN
 
 ### Kuasa penguatkuasaan
 
@@ -736,7 +740,7 @@ PEngUaTKUaSaan
 
 (2) Mana-mana pegawai yang diberi kuasa secara bertulis oleh Pendakwa Raya boleh menjalankan pendakwaan bagi mana-mana kesalahan di bawah Akta ini.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 AM
 
@@ -874,7 +878,7 @@ Warga Emas Swasta
 
 (4) Apa-apa keputusan, perintah, rayuan, arahan, siasatan, perbicaraan dan prosiding yang telah dibuat, diambil atau dimulakan di bawah Akta Pusat Jagaan 1993 berhubung dengan pusat jagaan di bawah subseksyen (1) sebaik sebelum tarikh permulaan kuat kuasa Akta ini hendaklah diteruskan atau dimuktamadkan di bawah dan mengikut peruntukan Akta Pusat Jagaan 1993.
 
-## JaDUaL PERTaMa
+## JADUAL PERTAMA
 
 [Seksyen 2 dan 48]
 
@@ -896,7 +900,7 @@ Warga Emas Swasta
 
 Warga Emas Swasta
 
-## JaDUaL KEDUa
+## JADUAL KEDUA
 
 [Seksyen 2 dan 48]
 
@@ -920,7 +924,7 @@ Warga Emas Swasta
 
 Akta Kemudahan dan Perkhidmatan Jagaan Kesihatan Warga Emas Swasta 2017 yang dicadangkan (“Akta yang dicadangkan”) bertujuan untuk mengadakan peruntukan bagi pengawalseliaan kemudahan dan perkhidmatan jagaan kesihatan warga emas swasta dan perkara berkaitan.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I memperkatakan perkara permulaan.
 
@@ -932,7 +936,7 @@ Fasal 3 mengandungi peruntukan mengenai ketidakpakaian Akta yang dicadangkan.
 
 <!-- page 34 -->
 
-## Bahagian II
+## BAHAGIAN II
 
 3. Bahagian II bertujuan untuk mengadakan peruntukan bagi kelulusan untuk menyediakan kemudahan dan perkhidmatan jagaan kesihatan warga emas swasta dan lesen untuk mengendalikan kemudahan dan perkhidmatan jagaan kesihatan warga emas swasta.
 
@@ -940,7 +944,7 @@ Fasal 4 bertujuan untuk memberikan Ketua Pengarah Kesihatan kuasa untuk memberik
 
 Fasal 5 bertujuan untuk menyatakan premis yang di dalamnya kemudahan dan perkhidmatan jagaan kesihatan warga emas swasta boleh disediakan dan dikendalikan.
 
-## Bahagian III
+## BAHAGIAN III
 
 4. Bahagian III memperkatakan perkara yang berhubungan dengan permohonan kelulusan untuk menyediakan kemudahan dan perkhidmatan jagaan kesihatan warga emas swasta.
 
@@ -954,7 +958,7 @@ Fasal 9 mengadakan peruntukan bagi pemberian kelulusan.
 
 Fasal 10 memperkatakan pemindahan atau penyerahan hak kelulusan.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 5. Bahagian IV memperkatakan perkara yang berhubungan dengan permohonan lesen untuk mengendalikan kemudahan dan perkhidmatan jagaan kesihatan warga emas swasta.
 
@@ -980,7 +984,7 @@ Suatu lesen boleh dibaharui di bawah fasal 18.
 
 Fasal 19 memperkatakan pemindahan atau penyerahan hak lesen.
 
-## Bahagian V
+## BAHAGIAN V
 
 6. Bahagian V menyatakan kewajipan pemegang lesen dan orang yang bertanggungjawab.
 
@@ -1000,11 +1004,11 @@ Fasal 29 memperkatakan larangan mengenai pembesaran atau pengubahan struktur ata
 
 <!-- page 36 -->
 
-## Bahagian VI
+## BAHAGIAN VI
 
 7. Bahagian VI memperkatakan pembatalan kelulusan, lesen atau lesen sementara. Alasan bagi pembatalan dinyatakan dalam fasal 30. Tatacara bagi pembatalan dinyatakan dalam fasal 31 dan 32. Setelah pembatalan, kelulusan, lesen atau lesen sementara yang telah dibatalkan hendaklah diserahkan kepada Ketua Pengarah Kesihatan di bawah fasal 33. Fasal 34 memperkatakan pemberhentian pengendalian kemudahan dan perkhidmatan jagaan kesihatan warga emas swasta yang lesennya telah dibatalkan.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 8. Bahagian VII memperkatakan penutupan kemudahan dan perkhidmatan jagaan kesihatan warga emas swasta.
 
@@ -1014,17 +1018,15 @@ Fasal 36 bertujuan untuk mengawal selia penutupan kemudahan dan perkhidmatan jag
 
 Fasal 37 bertujuan untuk memberikan Ketua Pengarah Kesihatan kuasa untuk mengarahkan mana-mana orang yang melanggar fasal 4 untuk menutup kemudahan dan perkhidmatan jagaan kesihatan warga emas swasta yang tidak berlesen.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
-9.
-
-## Bahagian VIII memperkatakan kuasa penguatkuasaan.
+9. Bahagian VIII memperkatakan kuasa penguatkuasaan.
 
 Fasal 38 memberikan kuasa penguatkuasaan di bawah Akta yang dicadangkan kepada Ketua Pengarah Kesihatan dan mana-mana Inspektor yang dilantik di bawah Akta Kemudahan dan Perkhidmatan Jagaan Kesihatan Swasta 1998 [Akta 586] termasuklah kuasa untuk menjalankan penyiasatan dan pemeriksaan kemudahan dan perkhidmatan jagaan kesihatan warga emas swasta yang dinyatakan dalam fasal 39 dan 40.
 
 Fasal 41 memperuntukkan bahawa pendakwaan bagi suatu kesalahan di bawah Akta yang dicadangkan hendaklah dimulakan hanya dengan keizinan bertulis Pendakwa Raya.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 10. Bahagian IX memperkatakan peruntukan am.
 

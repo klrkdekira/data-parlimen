@@ -16,7 +16,25 @@ II
 
 ## BOARD OF GEOLOGISTS
 
-3. Establishment of Board 4. Functions and powers of the Board 5. Common seal 6. Membership of Board 7. Procedure of the Board 8. Tenure of office 9. Allowances 10. Revocation of appointment and resignation 11. Vacation of office 12. Appointment of replacement for member 13. Temporary exercise of functions of Chairman 14. Committees 15. Non-liability of member of Board 16. Application of Public Authorities Protection Act 1948 17. Member, etc., deemed to be public servant 18. Returns, reports, accounts and information
+3. Establishment of Board 4. Functions and powers of the Board 5. Common seal 6. Membership of Board 7. Procedure of the Board 8. Tenure of office 9. Allowances
+
+10. Revocation of appointment and resignation
+
+11. Vacation of office
+
+12. Appointment of replacement for member
+
+13. Temporary exercise of functions of Chairman
+
+14. Committees
+
+15. Non-liability of member of Board
+
+16. Application of Public Authorities Protection Act 1948
+
+17. Member, etc., deemed to be public servant
+
+18. Returns, reports, accounts and information
 
 ## PART
 
@@ -24,11 +42,29 @@ III
 
 ## REGISTRATION OF GEOLOGISTS
 
-Register 19. Registered graduate geologist and registered professional geologist 20.
+Register
+
+19. Registered graduate geologist and registered professional geologist
+
+20.
 
 <!-- page 2 -->
 
-2 Bill 2 1. Practice by practitioner 22. Practice by foreign geologist 2 3. Restrictions on non-registered professional geologist 24. Exception in respect of registered graduate geologist 2 5. Exception in respect of registered practitioner 26. Exception in respect of registered foreign geologist 27. Submission of geological reports or studies 28. Form and manner of application for registration 29. Appointment and duties of Registrar 30. Certificate of registration 3 1. Registrar to publish Register and particulars 32. Notification of change of address
+2 Bill 2 1. Practice by practitioner
+
+22. Practice by foreign geologist 2 3. Restrictions on non-registered professional geologist
+
+24. Exception in respect of registered graduate geologist 2 5. Exception in respect of registered practitioner
+
+26. Exception in respect of registered foreign geologist
+
+27. Submission of geological reports or studies
+
+28. Form and manner of application for registration
+
+29. Appointment and duties of Registrar
+
+30. Certificate of registration 3 1. Registrar to publish Register and particulars 32. Notification of change of address
 
 ## PART
 
@@ -266,11 +302,7 @@ Geologists
 
 (2) The Board shall have all such powers as may be necessary for, or in connection with, or reasonably incidental to, the performance of its functions under subsection (1).
 
-(3) Without affecting the general powers conferred by subsection (2), the Board shall have the power- ( a ) to purchase or lease any land or building
-
-<!-- marginal: as may be -->
-
-required for the proper exercise of its functions under this Act;
+(3) Without affecting the general powers conferred by subsection (2), the Board shall have the power- ( a ) to purchase or lease any land or building as may be required for the proper exercise of its functions under this Act;
 
 (b) subject to subsection (4), to borrow or raise money by bank overdraft or otherwise for the purposes specified in paragraph (a); and
 
@@ -1208,19 +1240,11 @@ IV
 
 ## PART V
 
-2 8.
-
-## Part V of the Bill contains provisions relating to the appointment and
-
-powers of Inspectors, offences and penalties, the institution of prosecutions under the proposed Act, the jurisdiction to try offences under the proposed Act and the protection of the Board, its members and its officers.
+2 8. Part V of the Bill contains provisions relating to the appointment and powers of Inspectors, offences and penalties, the institution of prosecutions under the proposed Act, the jurisdiction to try offences under the proposed Act and the protection of the Board, its members and its officers.
 
 ## PART VI
 
-29.
-
-## Part VI of the Bill deals with general matters such as the defrayment
-
-of monies received by the Board under the proposed Act, appeals, the power to make regulations and the power of the Minister to make modifications to any existing laws to prevent anomalies.
+29. Part VI of the Bill deals with general matters such as the defrayment of monies received by the Board under the proposed Act, appeals, the power to make regulations and the power of the Minister to make modifications to any existing laws to prevent anomalies.
 
 ## FINANCIAL
 

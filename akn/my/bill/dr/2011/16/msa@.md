@@ -6,13 +6,13 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran 3. Pelantikan Pengawal, Timbalan Pengawal, Penolong Pengawal, dsb. 4. Pelantikan Pendaftar Perintah Perihal Dagangan
 
-## Bahagian II
+## BAHAGIAN II
 
 ## LARANGAN PERIHAL DAGANGAN PALSU
 
@@ -24,7 +24,7 @@
 
 12. Dalam milikan untuk pembekalan
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PERNYATAAN SILAP SELAIN DARIPADA PERIHAL DAGANGAN PALSU
 
@@ -48,7 +48,7 @@
 
 21. Pelanggaran Bahagian III menjadi suatu kesalahan
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PEMBELAAN
 
@@ -60,7 +60,7 @@
 
 25. Penyiaran iklan tanpa niat salah
 
-## Bahagian V
+## BAHAGIAN V
 
 ## LARANGAN PENGIMPORTAN BARANG-BARANG TERTENTU, DSB.
 
@@ -68,7 +68,7 @@
 
 27. Menyubahati kesalahan yang dilakukan di luar negeri
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## KUASA UNTUK MENTAKRIFKAN ISTILAH, MENGHENDAKI
 
@@ -78,7 +78,7 @@
 
 29. Perintah cap bermaklumat dan perakuan
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PENYIASATAN DAN PENGUATKUASAAN
 
@@ -150,7 +150,7 @@ Kuasa-kuasa menangkap, penggeledahan dan penyitaan
 
 <!-- page 4 -->
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 AM
 
@@ -186,7 +186,7 @@ AM
 
 71. Kecualian dan peralihan
 
-## Jadual
+## JADUAL
 
 <!-- page 5 -->
 
@@ -198,7 +198,7 @@ Suatu Akta bagi maksud untuk menggalakkan amalan perdagangan yang baik dengan me
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -280,7 +280,7 @@ melalui apa-apa cara termasuk melalui cara elektronik;
 
 (2) Menteri hendaklah melantik, daripada kalangan pegawai awam, seorang Pendaftar Perintah Perihal Dagangan yang akan menyebabkan suatu daftar awam perintah perihal dagangan diadakan dan disenggarakan.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## LARANGAN PERIHAL DAGANGAN PALSU
 
@@ -456,7 +456,7 @@ yang menyebabkan mungkin atau tidak mungkin seseorang yang kepadanya dibekalkan 
 
 <!-- page 16 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PERNYATAAN SILAP SELAIN PERIHAL DAGANGAN PALSU
 
@@ -590,7 +590,7 @@ tentang mana-mana perkara yang berikut:
 
 <!-- page 21 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PEMBELAAN
 
@@ -640,7 +640,7 @@ dan bahawa dia telah mengambil segala langkah berjaga-jaga yang munasabah dan me
 
 <!-- page 23 -->
 
-## Bahagian V
+## BAHAGIAN V
 
 ## LARANGAN PENGIMPORTAN BARANG-BARANG TERTENTU, DSB.
 
@@ -668,7 +668,7 @@ dan bahawa dia telah mengambil segala langkah berjaga-jaga yang munasabah dan me
 
 (3) Mana-mana orang yang, di Malaysia, membantu atau mendorong pelakuan sesuatu perbuatan di mana-mana negara lain, berkenaan dengan barang-barang yang jika perbuatan itu dilakukan di Malaysia akan menjadi suatu kesalahan di bawah seksyen 26, melakukan suatu kesalahan.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## KUASA UNTUK MENTAKRIFKAN ISTILAH, MENGHENDAKI
 
@@ -734,7 +734,7 @@ barang-barang daripada perihalan itu dengan melanggar perintah itu melakukan sua
 
 <!-- page 27 -->
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PENYIASATAN DAN PENGUATKUASAAN
 
@@ -1070,7 +1070,7 @@ melakukan suatu kesalahan.
 
 55. Mana-mana Penolong Pengawal yang menyiasat apa-apa pelakuan kesalahan di bawah Akta ini boleh menjalankan semua atau mana-mana kuasa yang berhubungan dengan penyiasatan polis dalam kes boleh tangkap yang diperuntukkan oleh Kanun Tatacara Jenayah [Akta 593].
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 AM
 
@@ -1256,7 +1256,7 @@ Akta Jualan Dadah 1952 [Akta 368]
 
 Rang Undang-Undang Perihal Dagangan 2011 (“Rang Undang-Undang”) diperbuat untuk membuat pembaharuan undang-undang mengenai perihal dagangan. Maksud Rang Undang-Undang ini adalah untuk menggalakkan amalan perdagangan yang baik dengan melarang perihal dagangan palsu dan pernyataan, pelakuan dan amalan palsu atau mengelirukan berhubungan dengan pembekalan barang-barang dan perkhidmatan, dan dengan itu melindungi kepentingan pengguna.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I memperkatakan perkara permulaan.
 
@@ -1270,7 +1270,7 @@ Rang Undang-Undang Perihal Dagangan 2011 (“Rang Undang-Undang”) diperbuat un
 
 6. Fasal 4 memperuntukkan pelantikan seorang Pendaftar Perintah Perihal Dagangan yang akan menyebabkan suatu daftar awam perintah perihal dagangan diadakan dan disenggarakan.
 
-## Bahagian II
+## BAHAGIAN II
 
 7. Bahagian II mengandungi peruntukan tentang larangan terhadap perihal dagangan palsu.
 
@@ -1292,7 +1292,7 @@ Rang Undang-Undang Perihal Dagangan 2011 (“Rang Undang-Undang”) diperbuat un
 
 15. Fasal 12 memperkatakan milikan tiga atau lebih barang-barang yang sama yang mempunyai perihal yang serupa dan menggunakan perihal dagangan yang sama.
 
-## Bahagian III
+## BAHAGIAN III
 
 16. Bahagian III memperkatakan peruntukan berhubung dengan pernyataan silap selain perihal dagangan palsu.
 
@@ -1316,7 +1316,7 @@ Rang Undang-Undang Perihal Dagangan 2011 (“Rang Undang-Undang”) diperbuat un
 
 <!-- page 54 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 26. Bahagian IV mengandungi peruntukan tentang pembelaan.
 
@@ -1328,7 +1328,7 @@ Rang Undang-Undang Perihal Dagangan 2011 (“Rang Undang-Undang”) diperbuat un
 
 30. Fasal 25 bertujuan untuk mengadakan peruntukan bagi pembelaan bagi penyiaran iklan tanpa niat salah.
 
-## Bahagian V
+## BAHAGIAN V
 
 31. Bahagian V mengandungi peruntukan tentang larangan pengimportan barang-barang tertentu, dsb..
 
@@ -1336,13 +1336,13 @@ Rang Undang-Undang Perihal Dagangan 2011 (“Rang Undang-Undang”) diperbuat un
 
 33. Fasal 27 bertujuan untuk menjadikan kesalahan bagi seseorang yang menyubahati kesalahan yang dilakukan di luar negara.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 34. Bahagian VI mengandungi peruntukan tentang kuasa untuk mentakrifkan istilah, menghendaki maklumat diberi, dsb..
 
 35. Fasal 28 dan 29 memberi Menteri kuasa untuk memberi apa-apa ungkapan yang digunakan berhubungan dengan barang-barang atau perkhidmatan itu sebagai mempunyai erti yang tertentu. Menteri boleh melalui perintah, memberikan apa-apa pengertian sama ada bagi ungkapan apabila digunakan dalam perjalanan perdagangan atau perniagaan atau apabila digunakan dalam hal keadaan yang dinyatakan dalam perintah itu. Menteri juga boleh, melalui perintah, mengenakan kehendak untuk menjamin bahawa barang-barang itu diperakukan, ditandakan atau disertai dengan apa-apa maklumat sedemikian dan mengawal selia atau melarang pembekalan barang-barang dan kehendak itu boleh meliputi bentuk dan cara maklumat atau arahan itu diberikan.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 36. Bahagian VII mengandungi peruntukan tentang penyiasatan dan penguatkuasaan. Bahagian ini dibahagikan kepada 3 Bab. Bab 1 mengandungi peruntukan tentang penyiasatan dan aduan, Bab 2 mengandungi peruntukan tentang kuasa mengumpul maklumat dan Bab 3 mengandungi peruntukan tentang kuasa menangkap, penggeledahan dan penyitaan.
 
@@ -1402,7 +1402,7 @@ Rang Undang-Undang Perihal Dagangan 2011 (“Rang Undang-Undang”) diperbuat un
 
 <!-- page 57 -->
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 62. Bahagian VIII memperkatakan peruntukan am.
 

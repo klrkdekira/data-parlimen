@@ -36,9 +36,7 @@ Cukai Berasaskan Penyata
 
 Cukai Dikenakan atas Pemilihan
 
-7. Pemilihan.
-
-8. Ketiadaan tempoh asas.
+7. Pemilihan. 8. Ketiadaan tempoh asas.
 
 ## BAHAGIAN III
 
@@ -78,9 +76,7 @@ Pentadbiran
 
 17. Ketua Pengarah.
 
-18. Perwakilan fungsi-fungsi Ketua Pengarah.
-
-19. Kuasa Menteri untuk memberi arahan.
+18. Perwakilan fungsi-fungsi Ketua Pengarah. 19. Kuasa Menteri untuk memberi arahan.
 
 20. Penyata keuntungan, dll., dianggap sulit.
 
@@ -142,13 +138,21 @@ Dengan syarat bahawa—
 
 (i) berhubungan dengan suatu syarikat luar pesisir yang menjalankan perniagaan bank luar pesisir atau perniagaan insurans luar pesisir, aktiviti itu bolehlah dijalankan dengan pemastautin;
 
-(ii) berhubungan dengan perniagaan bank luar pesisir, transaksi boleh, jika dibenarkan di bawah Akta subseksyen (2) seksyen 20 Akta Bank Luar Pesisir 1990, dijalankan dalam mata wang Malaysia; dan
+(ii) berhubungan dengan perniagaan bank luar pesisir, transaksi boleh, jika dibenarkan di bawah
+
+<!-- marginal: Akta -->
+
+subseksyen (2) seksyen 20 Akta Bank Luar Pesisir 1990, dijalankan dalam mata wang Malaysia; dan
 
 (iii) berhubungan dengan perniagaan insurans luar pesisir, insurans semula perniagaan insurans domestik boleh diurusniagakan dalam ringgit Malaysia;
 
 "amanah luar pesisir" ertinya suatu amanah yang diwujudkan di Labuan di mana penyelesai dan benefisiari- benefisiari terdiri daripada bukan pemastautin;
 
-"Ketua Pengarah" ertinya Ketua Pengarah Hasil Dalam Akta 53. Negeri yang disebutkan dalam seksyen 134 Akta Cukai Pendapatan 1967;
+"Ketua Pengarah" ertinya Ketua Pengarah Hasil Dalam
+
+<!-- marginal: Akta 53. -->
+
+Negeri yang disebutkan dalam seksyen 134 Akta Cukai Pendapatan 1967;
 
 "Labuan" ertinya Wilayah Persekutuan Labuan;
 
@@ -210,11 +214,37 @@ II
 
 Skop Pengenaan
 
-Aktiviti per- 3. Tertakluk kepada Akta ini, suatu syarikat luar pesisir niagaan luar yang menjalankan suatu aktiviti perniagaan luar pesisir pesisir boleh hendaklah dikenakan cukai mengikut Akta ini bagi setiap dikenakan cukai. tahun taksiran berkenaan dengan aktiviti perniagaan luar pesisir itu.
+<!-- marginal: Aktiviti per- -->
+
+3. Tertakluk kepada Akta ini, suatu syarikat luar pesisir
+
+<!-- marginal: niagaan luar -->
+
+yang menjalankan suatu aktiviti perniagaan luar pesisir
+
+<!-- marginal: pesisir boleh -->
+
+hendaklah dikenakan cukai mengikut Akta ini bagi setiap
+
+<!-- marginal: dikenakan -->
+
+<!-- marginal: cukai. -->
+
+tahun taksiran berkenaan dengan aktiviti perniagaan luar pesisir itu.
 
 Cukai Berasaskan Penyata
 
-Akliviti 4. (1) Cukai atas kadar tiga peratus hendaklah dikenakan perdagangan bagi suatu tahun taksiran ke atas keuntungan yang boleh luar pesisir. dikenakan cukai bagi suatu syarikat luar pesisir yang menjalankan suatu aktiviti perniagaan luar pesisir yang adalah aktiviti perdagangan luar pesisir untuk tempoh asas bagi tahun taksiran itu.
+<!-- marginal: Akliviti -->
+
+4. (1) Cukai atas kadar tiga peratus hendaklah dikenakan
+
+<!-- marginal: perdagangan -->
+
+bagi suatu tahun taksiran ke atas keuntungan yang boleh
+
+<!-- marginal: luar pesisir. -->
+
+dikenakan cukai bagi suatu syarikat luar pesisir yang menjalankan suatu aktiviti perniagaan luar pesisir yang adalah aktiviti perdagangan luar pesisir untuk tempoh asas bagi tahun taksiran itu.
 
 (2) Keuntungan yang boleh dikenakan cukai bagi suatu syarikat luar pesisir yang menjalankan suatu aktiviti perniagaan luar.pesisir yang adalalh aktiviti perdagangan luar pesisir bagi suatu tahun taksiran adalah keuntungan bersih seperti yang ditunjukkan di dalam akaun teraudit berkenaan dengan aktiviti perdagangan luar pesisir sedemikian bagi syarikat luar pesisir itu untuk tempoh asas bagi tahun taksiran itu.
 
@@ -266,9 +296,41 @@ III
 
 ## KETAKBOLEHKENAAN CUKAI
 
-Aktiviti 9. Walau apa pun seksyen 3, suatu syarikat luar pesisir bukan perda- yang rnenjalankan suatu aktiviti perhiagaan luar pesisir gangan luar pesisir. yang adalah aktiviti bukan perdagangan luar pesisir bagi tempoh asas bagi suatu tahun taksiran tidaklah boleh dikenakan cukai bagi tahun taksiran itu.
+<!-- marginal: Aktiviti -->
 
-Akuan 10. Suatu syarikat luar pesisir yang menjalankan suatu berkanun aktiviti perniagaan luar pesisir yang adalah aktiviti bukan mengenai akti- viti bukan perdagangan luar pesisir hendaklah, dalam tempoh tiga perdagangan bulan (atau apa-apa tempoh lanjutan yang dibenarkan oleh luar pesisir. Ketua Pengarah) dari permulaan suatu tahun taksiran, memfailkan dengan Ketua Pengarah suatu akuan berkanun dalam borang yang ditetapkan.
+9. Walau apa pun seksyen 3, suatu syarikat luar pesisir
+
+<!-- marginal: bukan perda- -->
+
+yang rnenjalankan suatu aktiviti perhiagaan luar pesisir
+
+<!-- marginal: gangan luar -->
+
+<!-- marginal: pesisir. -->
+
+yang adalah aktiviti bukan perdagangan luar pesisir bagi tempoh asas bagi suatu tahun taksiran tidaklah boleh dikenakan cukai bagi tahun taksiran itu.
+
+<!-- marginal: Akuan -->
+
+10. Suatu syarikat luar pesisir yang menjalankan suatu
+
+<!-- marginal: berkanun -->
+
+aktiviti perniagaan luar pesisir yang adalah aktiviti bukan
+
+<!-- marginal: mengenai akti- -->
+
+<!-- marginal: viti bukan -->
+
+perdagangan luar pesisir hendaklah, dalam tempoh tiga
+
+<!-- marginal: perdagangan -->
+
+bulan (atau apa-apa tempoh lanjutan yang dibenarkan oleh
+
+<!-- marginal: luar pesisir. -->
+
+Ketua Pengarah) dari permulaan suatu tahun taksiran, memfailkan dengan Ketua Pengarah suatu akuan berkanun dalam borang yang ditetapkan.
 
 ## BAHAGIAN
 
@@ -276,7 +338,11 @@ IV
 
 ## PEMBAYARAN DAN MENDAPATKAN CUKAI
 
-Pembayaran 11. Suatu syarikat luar pesisir hendaklah— cukai.
+<!-- marginal: Pembayaran -->
+
+11. Suatu syarikat luar pesisir hendaklah—
+
+<!-- marginal: cukai. -->
 
 (a) semasa memfailkan akuan berkanun dan penyata keuntungan syarikat luar pesisir itu bagi suatu tahun taksiran di bawah seksyen 5, membuat bayaran penuh atas akaun bagi cukai yang akan dikenakan bagi tahun taksiran itu; atau
 
@@ -322,15 +388,11 @@ bolehlah didapatkan oleh Kerajaan melalui prosiding sivil
 
 <!-- marginal: guaman. -->
 
-sebagai suatu hutang yang genap masanya dibayar kepada Kerajaan.
-
-(2) Ketua Pengarah dan semua pegawai diberikuasa hendaklah disifatkan sebagai pegawai awam yang diberikuasa oleh Menteri di bawah subseksyen (1) seksyen
+sebagai suatu hutang yang genap masanya dibayar kepada Kerajaan. (2) Ketua Pengarah dan semua pegawai diberikuasa hendaklah disifatkan sebagai pegawai awam yang diberikuasa oleh Menteri di bawah subseksyen (1) seksyen
 
 <!-- marginal: Akta 359. -->
 
-25 Akta Prosiding Kerajaan 1956, berkenaan dengan semua prosiding di bawah seksyen ini.
-
-(3) Seorang "pegawai diberikuasa" ertinya seorang pegawai rasmi yang diberikuasa oleh Ketua Pengarah bagi maksud-maksud seksyen ini.
+25 Akta Prosiding Kerajaan 1956, berkenaan dengan semua prosiding di bawah seksyen ini. (3) Seorang "pegawai diberikuasa" ertinya seorang pegawai rasmi yang diberikuasa oleh Ketua Pengarah bagi maksud-maksud seksyen ini.
 
 ## BAHAGIAN V
 
@@ -350,9 +412,23 @@ Akta ini.
 
 <!-- page 10 -->
 
-Pegawai-
+<!-- marginal: Pegawai- -->
 
-16. Tanggungjawab bagi melakukan segala tindakan dan pegawai yang perkara yang dikehendaki dilakukan oleh atau bagi pihak bertanggung- jawab bagi suatu syarikat luar pesisir bagi maksud-maksud Akta ini pematuhan. adalah terletak bersesama dan berasingan pada—
+16. Tanggungjawab bagi melakukan segala tindakan dan
+
+<!-- marginal: pegawai yang -->
+
+perkara yang dikehendaki dilakukan oleh atau bagi pihak
+
+<!-- marginal: bertanggung- -->
+
+<!-- marginal: jawab bagi -->
+
+suatu syarikat luar pesisir bagi maksud-maksud Akta ini
+
+<!-- marginal: pematuhan. -->
+
+adalah terletak bersesama dan berasingan pada—
 
 (a) pengurus atau pegawai utama lain di Malaysia;
 
@@ -372,13 +448,27 @@ Pegawai-
 
 Pentadbiran
 
-Ketua
+<!-- marginal: Ketua -->
 
-17. Ketua Pengarah adalah berkuasa menjaga dan Pengarah. menguruskan cukai.
+17. Ketua Pengarah adalah berkuasa menjaga dan
 
-Perwakilan
+<!-- marginal: Pengarah. -->
 
-18. (1) Mana-mana fungsi Ketua Pengarah di bawah Akta fungsi-fungsi ini boleh dilaksanakan oleh Timbalan Ketua Pengarah, Ketua Pengarah. Penolong Ketua Pengarah, Penolong Kanan Pengarah atau Penolong Pengarah, Hasil Dalam Negeri yang disebutkan dalam seksyen 134 Akta Cukai Pendapatan 1967.
+menguruskan cukai.
+
+<!-- marginal: Perwakilan -->
+
+18. (1) Mana-mana fungsi Ketua Pengarah di bawah Akta
+
+<!-- marginal: fungsi-fungsi -->
+
+ini boleh dilaksanakan oleh Timbalan Ketua Pengarah,
+
+<!-- marginal: Ketua -->
+
+<!-- marginal: Pengarah. -->
+
+Penolong Ketua Pengarah, Penolong Kanan Pengarah atau Penolong Pengarah, Hasil Dalam Negeri yang disebutkan dalam seksyen 134 Akta Cukai Pendapatan 1967.
 
 (2) Ketua Pengarah boleh secara bertulis mewakilkan mana-mana fungsinya di bawah Akta ini kepada mana- mana pegawai rasmi lain.
 
@@ -440,15 +530,15 @@ menghendaki mana-mana orang memberi apa-apa maklumat
 
 atau butir sebagaimana yang dikehendaki olehnya bagi maksud-maksud Akta ini.
 
-(2) Jika mana-mana orang,tanpa alasan yang munasabah, gagal mematuhi notis yang disebutkan dalam subseksyen
-
-(1), dia adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi tiga ribu ringgit.
+(2) Jika mana-mana orang,tanpa alasan yang munasabah, gagal mematuhi notis yang disebutkan dalam subseksyen (1), dia adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi tiga ribu ringgit.
 
 <!-- page 12 -->
 
-Kesalahan dan
+<!-- marginal: Kesalahan dan -->
 
-23. Mana-mana orang yang tanpa alasan yang munasabah— penalti.
+23. Mana-mana orang yang tanpa alasan yang munasabah—
+
+<!-- marginal: penalti. -->
 
 (a) gagal mengemukakan suatu akuan berkanun dan penyata keuntungan di bawah seksyen 5; atau
 
@@ -456,9 +546,17 @@ Kesalahan dan
 
 adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi Hma ribu ringgit atau dipenjarakan selama tempoh dua tahun atau kedua-duanya.
 
-Pengkom-
+<!-- marginal: Pengkom- -->
 
-24. Ketua Pengarah boleh, dalam hal dimana difikirannya paunan patut dan wajar untuk berbuat demikian, mengkompaunkan kesalahan. apa-apa kesalahan yang dilakukan oleh mana-mana orang di bawah seksyen 22 atau 23, dengan membuat suatu tawaran bertulis kepada orang itu untuk mengkompaunkan kesalahan itu dengan membayar kepada Ketua Pengarah dalam masa yang ditentukan dalam tawaran itu apa-apa jumlah wang sebagaimana yang ditentukan dalam tawaran itu yang tidaklah boleh melebihi lima puluh peratus daripada amaun denda maksimum yang boleh dikenakan kepada orang itu jika dia telah disabitkan atas kesalahan itu.
+24. Ketua Pengarah boleh, dalam hal dimana difikirannya
+
+<!-- marginal: paunan -->
+
+patut dan wajar untuk berbuat demikian, mengkompaunkan
+
+<!-- marginal: kesalahan. -->
+
+apa-apa kesalahan yang dilakukan oleh mana-mana orang di bawah seksyen 22 atau 23, dengan membuat suatu tawaran bertulis kepada orang itu untuk mengkompaunkan kesalahan itu dengan membayar kepada Ketua Pengarah dalam masa yang ditentukan dalam tawaran itu apa-apa jumlah wang sebagaimana yang ditentukan dalam tawaran itu yang tidaklah boleh melebihi lima puluh peratus daripada amaun denda maksimum yang boleh dikenakan kepada orang itu jika dia telah disabitkan atas kesalahan itu.
 
 (2) Sesuatu tawaran di bawah subseksyen (1) boleh dibuat pada bila-bila masa selepas kesalahan itu telah dilakukan, tetapi sebelum apa-apa pendakwaan baginya telah dimulakan, dan jika amaun yang ditentukan dalam tawaran itu tidak dibayar dalam masa yang ditentukan dalam tawaran itu, atau dalam apa-apa perlanjutan masa yang boleh diberikan oleh Ketua Pengarah, pendakwaan bagi kesalahan itu boleh dimulakan pada bila-bila masa selepas itu terhadap orang yang kepadanya tawaran itu dibuat.
 

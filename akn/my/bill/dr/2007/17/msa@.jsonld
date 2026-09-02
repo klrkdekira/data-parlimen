@@ -1,0 +1,110 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/17/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/17"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-17-2007",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/17/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/17/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/17/msa@/~cl_3"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Pendaftaran Sewa Beli (Sarawak) (Pemansuhan) 2007"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/17/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Pendaftaran Sewa Beli (Sarawak) (Pemansuhan) 2007. Pemansuhan Ordinan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/17/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ordinan Pendaftaran Sewa Beli (Bab 71), yang disebut \"Ordinan\" dalam Akta ini, dimansuhkan. Kecualian dan peraiihan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/17/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/17/msa@/~cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/17/msa@/~cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/17/msa@/~cl_3__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/17/msa@/~cl_3__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/17/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/17/msa@/~cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/17/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pemansuhan Ordinan di bawah seksyen 2 tidak menjejaskan apa-apa dokumen atau surat cara sewa beli yang telah disempurnakan sebelum tarikh mula berkuat kuasanya Akta ini. Rang Undang-Undang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/17/msa@/~cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/17/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika suatu permohonan untuk pendaftaran apa-apa dokumen atau surat cara sewa beli telah dibuat dan proses pendaftarannya belum selesai sebaik sebelum Ordinan dimansuhkan, prosiding berkenaan dengan permohonan tersebut boleh diteruskan di bawah Ordinan yang dimansuhkan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/17/msa@/~cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/17/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun subseksyen (2), apa-apa fi yang telah dibayar untuk pendaftaran apa-apa dokumen atau surat cara sewa beli, tidak boleh dibayar balik."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/17/msa@/~cl_3__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/17/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud subseksyen 10(2), seksyen 11 dan 12 Ordinan, apabila Ordinan dimansuhkan di bawah seksyen 2, Pendaftar hendaklah, tertakluk kepada peruntukan Ordinan Pustaka Negeri Sarawak 1999 (Bab 29), memegang simpan suatu salinan dokumen atau surat cara sewa beli berdaftar dan dalam masa enam bulan dari tarikh pemansuhan itu mengemukakan dokumen itu kepada Pemegang Simpanan Negeri yang ditubuhkan di bawah Bahagian IV Bab 29."
+      }
+    }
+  ]
+}

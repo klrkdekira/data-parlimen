@@ -58,7 +58,7 @@ didaftarkan di bawah Akta Syarikat Amanah 1949 [Akta 100] atau mana-mana syarika
 
 (3c) Hal keadaan yang disebut dalam subseksyen (3b) hendaklah terpakai bagi hal keadaan di dalam atau di luar Malaysia.”.
 
-### Pindaan seksyen 6
+<!-- marginal: Pindaan seksyen 6 -->
 
 4. Seksyen 6 Akta ibu dipinda—
 

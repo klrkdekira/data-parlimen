@@ -58,13 +58,7 @@ IV
 
 12. Tempat bersidang dan orang yang boleh hadir di Mahkamah Bagi Kanak-Kanak
 
-13. Tempoh yang dinyatakan dalam mana-mana perintah yang dibuat oleh Mahkamah Bagi Kanak-Kanak tidak boleh melampaui tarikh kanak- kanak mencapai umur lapan belas tahun
-
-14. Mahkamah Bagi Kanak-Kanak boleh memerintahkan supaya penahanan, dsb. melampaui tarikh kanak-kanak mencapai umur lapan belas tahun
-
-15. Sekatan ke atas laporan dan penyiaran media
-
-16. Anggapan mengenai umur
+13. Tempoh yang dinyatakan dalam mana-mana perintah yang dibuat oleh Mahkamah Bagi Kanak-Kanak tidak boleh melampaui tarikh kanak- kanak mencapai umur lapan belas tahun 14. Mahkamah Bagi Kanak-Kanak boleh memerintahkan supaya penahanan, dsb. melampaui tarikh kanak-kanak mencapai umur lapan belas tahun 15. Sekatan ke atas laporan dan penyiaran media 16. Anggapan mengenai umur
 
 ## BAHAGIAN V
 
@@ -84,9 +78,7 @@ AM
 
 ## DAN RAWATAN PERUBATAN
 
-18. Pengambilan kanak-kanak ke dalam jagaan sementara
-
-19. Pengemukaan di hadapan Mahkamah Bagi Kanak-Kanak
+18. Pengambilan kanak-kanak ke dalam jagaan sementara 19. Pengemukaan di hadapan Mahkamah Bagi Kanak-Kanak
 
 20. Kanak-Kanak yang memerlukan pemeriksaan atau rawatan perubatan
 
@@ -134,11 +126,7 @@ Kanak-Kanak
 
 34. Pemakaian dan tafsiran
 
-35. Pemberitahuan tentang pengambilan kanak-kanak ke dalam pemeliharaan, jagaan atau kawalan
-
-36. Obligasi kemudiannya
-
-37. Kuasa Pelindung untuk menghendaki supaya kanak-kanak dikemukakan di hadapannya
+35. Pemberitahuan tentang pengambilan kanak-kanak ke dalam pemeliharaan, jagaan atau kawalan 36. Obligasi kemudiannya 37. Kuasa Pelindung untuk menghendaki supaya kanak-kanak dikemukakan di hadapannya
 
 ## BAHAGIAN VI
 
@@ -150,9 +138,7 @@ Kanak-Kanak
 
 AM
 
-38. Pengertian kanak-kanak yang memerlukan pelindungan dan pemulihan
-
-39. Memindahkan kanak-kanak ke tempat perlindungan
+38. Pengertian kanak-kanak yang memerlukan pelindungan dan pemulihan 39. Memindahkan kanak-kanak ke tempat perlindungan
 
 40. Perintah apabila siasatan selesai
 
@@ -168,7 +154,11 @@ Rang Undang-Undang
 
 ## KESALAHAN-KESALAHAN
 
-43. Kesalahan-kesalahan 44. Anggapan berhubung dengan seksyen 43 45. Penahanan sementara menanti prosiding
+43. Kesalahan-kesalahan
+
+44. Anggapan berhubung dengan seksyen 43
+
+45. Penahanan sementara menanti prosiding
 
 ## BAHAGIAN
 
@@ -176,13 +166,25 @@ VII
 
 ## TIDAK TERKAWAL
 
-46. Kanak-kanak yang tidak terkawal 47. Pengawasan oleh pegawai akhlak
+46. Kanak-kanak yang tidak terkawal
+
+47. Pengawasan oleh pegawai akhlak
 
 ## BAHAGIAN VIII
 
 ## PEMERDAGANGAN DAN PEMELARIAN KANAK-KANAK
 
-48. Pemindahan milikan, jagaan atau kawalan kanak-kanak dengan menyalahi undang-undang 49. Pembawaan masuk kanak-kanak melalui dakwaan palsu 50. Pemeriksaan kanak-kanak dan orang yang menjaganya 51. Pelindung boleh menghendaki jaminan 52. Kesalahan membawa atau menghantar keluar kanak-kanak tanpa keizinan yang sepatutnya orang yang mempunyai jagaan yang sah 53. Perintah mendapatkan balik
+48. Pemindahan milikan, jagaan atau kawalan kanak-kanak dengan menyalahi undang-undang
+
+49. Pembawaan masuk kanak-kanak melalui dakwaan palsu
+
+50. Pemeriksaan kanak-kanak dan orang yang menjaganya
+
+51. Pelindung boleh menghendaki jaminan
+
+52. Kesalahan membawa atau menghantar keluar kanak-kanak tanpa keizinan yang sepatutnya orang yang mempunyai jagaan yang sah
+
+53. Perintah mendapatkan balik
 
 ## BAHAGIAN
 
@@ -194,7 +196,13 @@ IX
 
 ## TEMPAT SELAMAT DAN TEMPAT PERLINDUNGAN
 
-54. Tempat selamat 55. Tempat perlindungan 56. Kanak-kanak yang lepas lari atau dipindahkan dari tempat selamat atau tempat perlindungan 57. Kesalahan memindahkan atau menolong kanak-kanak lepas lari dari tempat selamat atau tempat perlindungan
+54. Tempat selamat
+
+55. Tempat perlindungan
+
+56. Kanak-kanak yang lepas lari atau dipindahkan dari tempat selamat atau tempat perlindungan
+
+57. Kesalahan memindahkan atau menolong kanak-kanak lepas lari dari tempat selamat atau tempat perlindungan
 
 <!-- page 5 -->
 
@@ -204,19 +212,35 @@ Kanak-Kanak
 
 ## TEMPAT TAHANAN
 
-58. Tempat tahanan 59. Kanak-kanak yang lepas lari atau dipindahkan dari tempat tahanan 60. Kesalahan memindahkan atau menolong kanak-kanak lepas lari dari tempat tahanan
+58. Tempat tahanan
+
+59. Kanak-kanak yang lepas lari atau dipindahkan dari tempat tahanan
+
+60. Kesalahan memindahkan atau menolong kanak-kanak lepas lari dari tempat tahanan
 
 ## BAB 3
 
 ## ASRAMA AKHLAK
 
-61. Asrama akhlak 62. Kanak-kanak di bawah umur sepuluh tahun tidak boleh dihantar ke asrama akhlak 63. Kanak-kanak yang lepas lari atau dipindahkan dari asrama akhlak 64. Kesalahan memindahkan atau menolong kanak-kanak lepas lari dari asrama akhlak
+61. Asrama akhlak
+
+62. Kanak-kanak di bawah umur sepuluh tahun tidak boleh dihantar ke asrama akhlak
+
+63. Kanak-kanak yang lepas lari atau dipindahkan dari asrama akhlak
+
+64. Kesalahan memindahkan atau menolong kanak-kanak lepas lari dari asrama akhlak
 
 ## BAB 4
 
 ## SEKOLAH DILULUSKAN
 
-65. Sekolah diluluskan 66. Kanak-kanak di bawah umur sepuluh tahun tidak boleh dihantar ke sekolah diluluskan 67. Bila kanak-kanak boleh dihantar ke sekolah diluluskan 68. Perintah sekolah diluluskan hendaklah diserahkan kepada pihak berkuasa, dsb. yang membawa kanak-kanak ke sekolah itu 69. Penahanan lanjut di sekolah diluluskan melampaui tempoh perintah 70. Jagaan susul kanak-kanak yang dilepaskan dari sekolah diluluskan 71. Lepas lari dari sekolah diluluskan, dsb. atau tidak kembali ke sekolah diluluskan selepas tamat cuti, dsb. 72. Kesalahan memindahkan atau membantu kanak-kanak lepas lari dari sekolah diluluskan
+65. Sekolah diluluskan
+
+66. Kanak-kanak di bawah umur sepuluh tahun tidak boleh dihantar ke sekolah diluluskan
+
+67. Bila kanak-kanak boleh dihantar ke sekolah diluluskan
+
+68. Perintah sekolah diluluskan hendaklah diserahkan kepada pihak berkuasa, dsb. yang membawa kanak-kanak ke sekolah itu 69. Penahanan lanjut di sekolah diluluskan melampaui tempoh perintah 70. Jagaan susul kanak-kanak yang dilepaskan dari sekolah diluluskan 71. Lepas lari dari sekolah diluluskan, dsb. atau tidak kembali ke sekolah diluluskan selepas tamat cuti, dsb. 72. Kesalahan memindahkan atau membantu kanak-kanak lepas lari dari sekolah diluluskan
 
 ## BAB 5
 
@@ -236,13 +260,23 @@ Rang Undang-Undang
 
 ## SEKOLAH HENRY GURNEY
 
-76. Kuasa berkenaan dengan orang yang berumur lapan belas tahun tetapi di bawah umur dua puluh satu tahun 77. Kuasa Menteri untuk memindahkan orang yang menjalani hukuman pemenjaraan ke Sekolah Henry Gurney 78. Kuasa Menteri untuk memindahkan kanak-kanak yang menjalani hukuman pemenjaraan ke sekolah diluluskan atau Sekolah Henry Gurney 79. Kuasa untuk menggantikan tempoh tahanan dengan tempoh pemenjaraan 80. Pemindahan kanak-kanak dari satu tempat selamat atau tempat perlindungan ke suatu tempat selamat atau tempat perlindungan yang lain
+76. Kuasa berkenaan dengan orang yang berumur lapan belas tahun tetapi di bawah umur dua puluh satu tahun
+
+77. Kuasa Menteri untuk memindahkan orang yang menjalani hukuman pemenjaraan ke Sekolah Henry Gurney
+
+78. Kuasa Menteri untuk memindahkan kanak-kanak yang menjalani hukuman pemenjaraan ke sekolah diluluskan atau Sekolah Henry Gurney
+
+79. Kuasa untuk menggantikan tempoh tahanan dengan tempoh pemenjaraan
+
+80. Pemindahan kanak-kanak dari satu tempat selamat atau tempat perlindungan ke suatu tempat selamat atau tempat perlindungan yang lain
 
 ## BAB 7
 
 ## PELBAGAI
 
-81. Kanak-kanak atau orang yang ditahan hendaklah tertakluk kepada peraturan-peraturan 82. Lembaga Pelawat
+81. Kanak-kanak atau orang yang ditahan hendaklah tertakluk kepada peraturan-peraturan
+
+82. Lembaga Pelawat
 
 ## BAHAGIAN X
 
@@ -252,7 +286,15 @@ Rang Undang-Undang
 
 ## PERTUDUHAN, JAMINAN. DSB.
 
-83. Perbicaraan kanak-kanak hendaklah menepati Akta ini 84. Jaminan 85. Pengasingan kanak-kanak daripada orang dewasa di balai polis atau Mahkamah 86. Penjagaan kanak-kanak yang tidak dilepaskan atas jaminan selepas ditangkap 87. Pengemukaan maklumat oleh pegawai polis selepas penangkapan
+83. Perbicaraan kanak-kanak hendaklah menepati Akta ini
+
+84. Jaminan
+
+85. Pengasingan kanak-kanak daripada orang dewasa di balai polis atau Mahkamah
+
+86. Penjagaan kanak-kanak yang tidak dilepaskan atas jaminan selepas ditangkap
+
+87. Pengemukaan maklumat oleh pegawai polis selepas penangkapan
 
 <!-- page 7 -->
 
@@ -302,7 +344,9 @@ BAP 4
 
 102. Pindaan perintah percubaan
 
-103. Pelepasan perintah percubaan 104. Mahkamah hendaklah memberikan salinan perintah pindaan atau pelepasan kepada pegawai akhlak
+103. Pelepasan perintah percubaan
+
+104. Mahkamah hendaklah memberikan salinan perintah pindaan atau pelepasan kepada pegawai akhlak
 
 <!-- page 8 -->
 
@@ -394,11 +438,7 @@ Kanak-Kan a k
 
 132. Penerusan Majlis, dsb.
 
-133. Penerusan kaedah-kaedah, dsb.
-
-134. Institusi yang ditubuhkan atau ditetapkan
-
-135. Pencegahan anomali
+133. Penerusan kaedah-kaedah, dsb. 134. Institusi yang ditubuhkan atau ditetapkan 135. Pencegahan anomali
 
 ## JADUAL
 
@@ -1278,7 +1318,9 @@ membuat suatu perintah menyerahkan kanak-kanak itu untuk diangkat oleh ibu atau 
 
 (5) Dalam menentukan apakah perintah yang hendak dibuat di bawah subseksyen (1), Mahkamah Bagi Kanak-Kanak hendaklah memberikan pertimbangan utama kepada kepentingan kanak-kanak itu.
 
-(6) Sebelum membuat sesuatu perintah di bawah subseksyen (1) atau (4), Mahkamah Bagi Kanak-Kanak hendaklah menimbangkan dan mengambil kira apa-apa laporan yang disediakan oleh Pelindung yang—
+(6) Sebelum membuat sesuatu perintah di bawah subseksyen
+
+(1) atau (4), Mahkamah Bagi Kanak-Kanak hendaklah menimbangkan dan mengambil kira apa-apa laporan yang disediakan oleh Pelindung yang—
 
 (a) hendaklah mengandungi apa-apa maklumat tentang latar belakang keluarga, kelakuan secara am, suasana di rumah, rekod sekolah dan riwayat perubatan seseorang kanak- kanak yang dapat membolehkan Mahkamah Bagi Kanak- Kanak itu menguruskan kes itu demi kepentingan kanak- kanak itu; dan
 
@@ -1438,7 +1480,9 @@ melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi li
 
 hendaklah, tidak lewat daripada satu minggu selepas itu, memberitahu Pelindung tentang pengambilan itu.
 
-(2) Apabila diterima apa-apa pemberitahuan di bawah subseksyen (1), Pelindung hendaklah membuat apa-apa siasatan yang difikirkannya patut tentang—
+(2) Apabila diterima apa-apa pemberitahuan di bawah subseksyen
+
+(1), Pelindung hendaklah membuat apa-apa siasatan yang difikirkannya patut tentang—
 
 (a) hal keadaan dan sebab bagi pengambilan itu; dan
 
@@ -2006,7 +2050,9 @@ tanpa keizinan orang yang mempunyai jagaan yang sah kanak- kanak itu melakukan s
 
 (d) memberi kuasa mana-mana pegawai polis untuk memasuki mana-mana premis yang dinyatakan dalam perintah itu dan mencari kanak-kanak itu, dengan menggunakan kekerasan yang munasabah, jika perlu.
 
-(4) Mana-mana orang yang dengan sengaja menghalang seseorang orang diberi kuasa daripada menjalankan kuasa di bawah subseksyen (3) melakukan suatu kesalahan dan apabila disabitkan boleh dipenjarakan selama tempoh tidak melebihi tiga tahun dan disebat tidak melebihi enam sebatan.
+(4) Mana-mana orang yang dengan sengaja menghalang seseorang orang diberi kuasa daripada menjalankan kuasa di bawah subseksyen
+
+(3) melakukan suatu kesalahan dan apabila disabitkan boleh dipenjarakan selama tempoh tidak melebihi tiga tahun dan disebat tidak melebihi enam sebatan.
 
 <!-- page 72 -->
 
@@ -2894,9 +2940,7 @@ dan Yang di-Pertuan Agong atau Raja atau Yang di-Pertua Negeri boleh sesudah itu
 
 berpendapat bahawa dengan mengambil kira hal keadaan, termasuk jenis kesalahan dan watak kanak-kanak itu, patut Mahkamah itu berbuat demikian, Mahkamah Bagi Kanak-Kanak itu boleh membuat suatu perintah percubaan.
 
-(2) Sebelum membuat perintah percubaan di bawah subseksyen
-
-(1), Mahkamah Bagi Kanak-Kanak itu hendaklah menjelaskan kepada kanak-kanak itu dalam bahasa yang mudah sesuai dengan umur, kematangan dan pemahamannya—
+(2) Sebelum membuat perintah percubaan di bawah subseksyen (1), Mahkamah Bagi Kanak-Kanak itu hendaklah menjelaskan kepada kanak-kanak itu dalam bahasa yang mudah sesuai dengan umur, kematangan dan pemahamannya—
 
 (a) natijah perintah itu; dan
 
@@ -3914,7 +3958,11 @@ dan 10.
 
 ## BAHAGIAN XV
 
-98. Peruntukan kecualian dan peralihan diperuntukkan dalam Bahagian XV dalam fasal 729 hingga 135 yang, antara lain, memansuhkan Akta 90 dan Akta
+98. Peruntukan kecualian dan peralihan diperuntukkan dalam Bahagian XV
+
+<!-- marginal: dalam -->
+
+fasal 729 hingga 135 yang, antara lain, memansuhkan Akta 90 dan Akta
 
 468.
 

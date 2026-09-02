@@ -20,7 +20,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 by section 2 of the Consolidated Fund (Expenditure on Account) Act 2022 [Act A1678], amounting in the aggregate to two hundred and five billion seven hundred and forty-seven million three hundred and fifty-three thousand three hundred ringgit (RM205,747,353,300) are hereby appropriated and shall be deemed to have been appropriated as from the date of coming into operation of the Consolidated Fund (Expenditure on Account) Act 2022 for the purposes specified in the Schedule.
 
-## Schedule
+## SCHEDULE
 
 Purpose Title
 
@@ -186,7 +186,7 @@ B. 64 Ministry of Higher Education
 
 <!-- marginal: 11,700,000,000 -->
 
-ToTal
+## TOTAL
 
 <!-- marginal: 205,747,353,300 -->
 

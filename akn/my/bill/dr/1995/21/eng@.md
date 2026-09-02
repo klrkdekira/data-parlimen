@@ -70,11 +70,7 @@ section 2—
 
 (i) by inserting before the definition of "licensed institution" the following definition:
 
-' "licence" means any licence issued under- Act 280.
-
-## Part IV of the Securities Industry Act 1983
-
-Act 499. or Part III of the Futures Industry Act 1993;';
+' "licence" means any licence issued under- Act 280. Part IV of the Securities Industry Act 1983 Act 499. or Part III of the Futures Industry Act 1993;';
 
 (j) by inserting after the definition of "licensed institution" the following definitions:
 
@@ -122,15 +118,21 @@ has the same meaning as in the Futures Industry Act 1993;'.
 
 <!-- page 4 -->
 
-New
+<!-- marginal: New -->
 
-3. The principal Act is amended by inserting after section section 2A. 2 the following section:
+3. The principal Act is amended by inserting after section
+
+<!-- marginal: section 2A. -->
+
+2 the following section:
 
 "References 2A. Any reference in this Act to "this Act" or to "this a "securities law" shall, unless otherwise Act" and "securities expressly stated, include a reference to any law". regulations, rules, orders, notifications or other subsidiary legislation made under this Act or a securities law, as the case may be.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. Section 13 of the principal Act is amended— of section
+4. Section 13 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 13.
 
@@ -142,9 +144,13 @@ Amendment
 
 (d) by deleting subsection (6).
 
-Substitution
+<!-- marginal: Substitution -->
 
-5. The principal Act is amended by substituting for section of section 15 the following section:
+5. The principal Act is amended by substituting for section
+
+<!-- marginal: of section -->
+
+15 the following section:
 
 15.
 
@@ -172,11 +178,7 @@ Substitution
 
 (j) to consider and make recommendations for the reform of the law relating to securities and futures contracts;
 
-(k) to encourage and promote
-
-<!-- marginal: the -->
-
-development of securities and futures markets in Malaysia including research and training in connection thereto;
+(k) to encourage and promote the development of securities and futures markets in Malaysia including research and training in connection thereto;
 
 (I) to encourage and promote self-regulation by professional associations or market bodies in the securities and futures industries;
 
@@ -192,21 +194,107 @@ development of securities and futures markets in Malaysia including research and
 
 (4) Nothing in paragraph (1)(7) shall limit or otherwise affect the functions of the Commission.".
 
-Substitution
+<!-- marginal: Substitution -->
 
-6. The principal Act is amended by substituting for section of section 16 the following section: 16 Powers 16. The Commission shall have all such powers of the as may be necessary for or in connection with, Com- or reasonably incidental to, the performance of mission. its functions under the securities laws.".
+6. The principal Act is amended by substituting for section
 
-Substitution
+<!-- marginal: of section -->
 
-7. The principal Act is amended by substituting for section of section 19 the following section:
+16 the following section:
 
-19. Power of 19. (1) The Minister may, from time to time, the give to the Commission directions of a general Minister character not inconsistent with this Act relating to give directions to the Commission's functions and such and require directions shall be binding on the Commission. informa- tion. (2) The Commission shall furnish the Minister with such returns, accounts and information with respect to the performance of any of its functions under the securities laws as the Minister may from time to time require.".
+<!-- marginal: 16 -->
 
-Substitution
+<!-- marginal: Powers -->
 
-8. The principal Act is amended by substituting for section of section 22 the following section:
+16. The Commission shall have all such powers
 
-22. Power to 22. (1) The Commission may grant loans and grant make advances, including study loans and loans and make scholarships, to its officers and servants or to advances other persons on such terms and conditions as to its officers the Commission may determine. and servants.
+<!-- marginal: of the -->
+
+as may be necessary for or in connection with,
+
+<!-- marginal: Com- -->
+
+or reasonably incidental to, the performance of
+
+<!-- marginal: mission. -->
+
+its functions under the securities laws.".
+
+<!-- marginal: Substitution -->
+
+7. The principal Act is amended by substituting for section
+
+<!-- marginal: of section -->
+
+19 the following section:
+
+19.
+
+<!-- marginal: Power of -->
+
+19. (1) The Minister may, from time to time,
+
+<!-- marginal: the -->
+
+give to the Commission directions of a general
+
+<!-- marginal: Minister -->
+
+character not inconsistent with this Act relating
+
+<!-- marginal: to give -->
+
+<!-- marginal: directions -->
+
+to the Commission's functions and such
+
+<!-- marginal: and require -->
+
+directions shall be binding on the Commission.
+
+<!-- marginal: informa- -->
+
+<!-- marginal: tion. -->
+
+(2) The Commission shall furnish the Minister with such returns, accounts and information with respect to the performance of any of its functions under the securities laws as the Minister may from time to time require.".
+
+<!-- marginal: Substitution -->
+
+8. The principal Act is amended by substituting for section
+
+<!-- marginal: of section -->
+
+22 the following section:
+
+22.
+
+<!-- marginal: Power to -->
+
+22. (1) The Commission may grant loans and
+
+<!-- marginal: grant -->
+
+make advances, including study loans and
+
+<!-- marginal: loans and -->
+
+<!-- marginal: make -->
+
+scholarships, to its officers and servants or to
+
+<!-- marginal: advances -->
+
+other persons on such terms and conditions as
+
+<!-- marginal: to its -->
+
+<!-- marginal: officers -->
+
+the Commission may determine.
+
+<!-- marginal: and -->
+
+<!-- marginal: servants. -->
 
 <!-- page 7 -->
 
@@ -220,7 +308,31 @@ Substitution
 
 22 the following section:
 
-Com- 22A. The Commission may, with the approval mission of the Minister, establish and participate in any may establish body corporate for the purpose of promoting and parti- research and training in relation to the securities cipate in body cor- and futures industries.". porate.
+<!-- marginal: Com- -->
+
+22A. The Commission may, with the approval
+
+<!-- marginal: mission -->
+
+of the Minister, establish and participate in any
+
+<!-- marginal: may -->
+
+<!-- marginal: establish -->
+
+body corporate for the purpose of promoting
+
+<!-- marginal: and parti- -->
+
+research and training in relation to the securities
+
+<!-- marginal: cipate in -->
+
+<!-- marginal: body cor- -->
+
+and futures industries.".
+
+<!-- marginal: porate. -->
 
 <!-- marginal: Amendment -->
 
@@ -236,7 +348,11 @@ Com- 22A. The Commission may, with the approval mission of the Minister, establi
 
 (b) by substituting for subsection (6) the following subsection:
 
-"(6) For the purposes of this section, the terms "short position" and "long position" have the same meanings as in the Futures Act 499. Industry Act 1993.".
+"(6) For the purposes of this section, the terms "short position" and "long position" have the same meanings as in the Futures
+
+<!-- marginal: Act 499. -->
+
+Industry Act 1993.".
 
 <!-- marginal: Substitution -->
 
@@ -244,7 +360,7 @@ Com- 22A. The Commission may, with the approval mission of the Minister, establi
 
 <!-- marginal: of Part IV. -->
 
-## Part IV the following Part:
+Part IV the following Part:
 
 <!-- page 8 -->
 
@@ -258,7 +374,29 @@ Com- 22A. The Commission may, with the approval mission of the Minister, establi
 
 ## PROPOSALS IN RELATION TO SECURITIES
 
-Proposals 32. (1) In this Division and the Schedule— to be "an applicant" means any person referred to in submitted to the subsection 32(2); Com- mission. "Central Bank of Malaysia" means the Central Bank established under the Central Bank of Act 519. Malaysia Act 1958;
+<!-- marginal: Proposals -->
+
+32. (1) In this Division and the Schedule—
+
+<!-- marginal: to be -->
+
+"an applicant" means any person referred to in
+
+<!-- marginal: submitted -->
+
+<!-- marginal: to the -->
+
+subsection 32(2);
+
+<!-- marginal: Com- -->
+
+<!-- marginal: mission. -->
+
+"Central Bank of Malaysia" means the Central Bank established under the Central Bank of
+
+<!-- marginal: Act 519. -->
+
+Malaysia Act 1958;
 
 "expert" includes engineer, valuer, accountant and any other person whose profession gives authority to a statement made by him;
 
@@ -272,7 +410,11 @@ Proposals 32. (1) In this Division and the Schedule— to be "an applicant" mean
 
 but does not include a receiver who is not also a manager, a receiver and manager appointed by a Court and a liquidator appointed by a Court;
 
-"private company" and "public company" have the same meanings as in subsection 4(1) of the Act 125. Companies Act 1965;
+"private company" and "public company" have the same meanings as in subsection 4(1) of the
+
+<!-- marginal: Act 125. -->
+
+Companies Act 1965;
 
 <!-- page 9 -->
 
@@ -304,13 +446,7 @@ in cash or distribution of assets to members of the public company on its windin
 
 (g) effect a restructuring exercise involving an acquisition or disposal of assets (whether or not by way of issue of securities) which results in a significant change in the business direction or policy of a listed public company.
 
-(3) An applicant shall submit
-
-<!-- marginal: to -->
-
-<!-- marginal: the -->
-
-Commission such documents and such other information in relation to the proposal in such form and manner and at such times as the Commission may require.
+(3) An applicant shall submit to the Commission such documents and such other information in relation to the proposal in such form and manner and at such times as the Commission may require.
 
 (4) Subject to section 32A, no person referred to subsection (2) shall implement or carry out a proposal unless the Commission has approved the proposal under this section.
 
@@ -334,15 +470,9 @@ Commission such documents and such other information in relation to the proposal
 
 ## SECURITIES COMMISSION (AMENDMENT)
 
-<!-- marginal: 1 1 -->
+1 1
 
-(c) there is any change or development in the circumstances relating to a proposal occurring subsequent to the Commission giving its approval under subsection (5), and if such change or development, if known
-
-<!-- marginal: to -->
-
-<!-- marginal: the -->
-
-Commission prior to the approval, would have affected its decision as regards the proposal,
+(c) there is any change or development in the circumstances relating to a proposal occurring subsequent to the Commission giving its approval under subsection (5), and if such change or development, if known to the Commission prior to the approval, would have affected its decision as regards the proposal,
 
 the Commission may—
 
@@ -350,11 +480,7 @@ the Commission may—
 
 (bb) revise an approval; or
 
-(cc) impose such further
-
-<!-- marginal: terms or -->
-
-conditions in relation to a proposal approved by it under subsection (5):
+(cc) impose such further terms or conditions in relation to a proposal approved by it under subsection (5):
 
 Provided that the Commission may only revoke or revise such approval or impose such further terms and conditions where such revocation, revision or imposition shall not affect the rights of third parties that may have been created by or arising from the carrying out or implementation of a proposal in accordance with an approval given under subsection (5).
 
@@ -362,7 +488,11 @@ Provided that the Commission may only revoke or revise such approval or impose s
 
 (9) Where the Commission has granted its approval to a proposal under subsection (5)—
 
-(a) if registration of a prospectus is required Act 125. under Part IV of the Companies Act 1965 in connection with the proposal, the prospectus shall include a statement that the Commission has approved the proposal pursuant to this section and that the Commission's approval of the
+(a) if registration of a prospectus is required
+
+<!-- marginal: Act 125. -->
+
+under Part IV of the Companies Act 1965 in connection with the proposal, the prospectus shall include a statement that the Commission has approved the proposal pursuant to this section and that the Commission's approval of the
 
 <!-- page 12 -->
 
@@ -370,7 +500,11 @@ Provided that the Commission may only revoke or revise such approval or impose s
 
 proposal shall not be taken to indicate that the Commission recommends the proposal; or
 
-(b) if registration of a prospectus is not required under Part IV of the Companies Act 125. Act 1965 in connection with the proposal, the applicant shall include in any document issued with respect to the proposal, in such form as the Commission may require, a statement that the Commission has approved the proposal pursuant to this section and that the Commission's approval of the proposal shall not be taken to indicate that the Commission recommends the proposal.
+(b) if registration of a prospectus is not required under Part IV of the Companies
+
+<!-- marginal: Act 125. -->
+
+Act 1965 in connection with the proposal, the applicant shall include in any document issued with respect to the proposal, in such form as the Commission may require, a statement that the Commission has approved the proposal pursuant to this section and that the Commission's approval of the proposal shall not be taken to indicate that the Commission recommends the proposal.
 
 (10) Where—
 
@@ -390,11 +524,35 @@ the person shall not be taken, for the purposes of subsection (4), to have taken
 
 (12) For the purpose of subsection (11), an "announcement" includes any publication by press notice or in any other form of a firm intention to make an offer for any securities.
 
-(13) Any person who contravenes subsection (3), (4), (9) or (11) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding ten years or to both.
+(13) Any person who contravenes subsection
 
-Classes or 32A. (1) Subsection 32(4) shall not apply to categories the following: of transac- tions or
+(3), (4), (9) or (11) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding ten years or to both.
 
-(a) such classes or categories of securities securities not subject to or classes or categories of transactions subsection as specified in the Schedule; 32(4).
+<!-- marginal: Classes or -->
+
+32A. (1) Subsection 32(4) shall not apply to
+
+<!-- marginal: categories -->
+
+the following:
+
+<!-- marginal: of transac- -->
+
+<!-- marginal: tions or -->
+
+(a) such classes or categories of securities
+
+<!-- marginal: securities not -->
+
+<!-- marginal: subject to -->
+
+or classes or categories of transactions
+
+<!-- marginal: subsection -->
+
+as specified in the Schedule;
+
+<!-- marginal: 32(4). -->
 
 (b) the making available, offering for subscription or purchase, or issuing an invitation to subscribe for or purchase securities as may be prescribed by the Minister on the basis of the manner or total value thereof or the characteristics, types or numbers of investors in relation thereto;
 
@@ -404,7 +562,21 @@ Classes or 32A. (1) Subsection 32(4) shall not apply to categories the following
 
 (3) Any prescription made under this section shall be subject to any condition, restriction or limitation as the Minister may impose.
 
-False or 32B. (1) Where any statement or information misleading is required to be submitted to the Commission statements, under this Division in relation to or in connection etc. with any proposal submitted pursuant to section 32—
+<!-- marginal: False or -->
+
+32B. (1) Where any statement or information
+
+<!-- marginal: misleading -->
+
+is required to be submitted to the Commission
+
+<!-- marginal: statements, -->
+
+under this Division in relation to or in connection
+
+<!-- marginal: etc. -->
+
+with any proposal submitted pursuant to section 32—
 
 (a) an applicant, any of its officers or associates;
 
@@ -422,13 +594,9 @@ shall not—
 
 (cc) engage in or aid or abet conduct that he knows to be misleading or deceptive or is likely to mislead or deceive the Commission.
 
-(2) It shall be a defence to a prosecution or any proceeding for a contravention of subsection (1) if it is proved that the defendant, after making enquiries as were reasonable
+(2) It shall be a defence to a prosecution or any proceeding for a contravention of subsection
 
-<!-- marginal: in -->
-
-<!-- marginal: the -->
-
-circumstances, had reasonable grounds to believe, and did until the time of the making of the statement or provision of the information or engaging in the conduct, was of the belief that—
+(1) if it is proved that the defendant, after making enquiries as were reasonable in the circumstances, had reasonable grounds to believe, and did until the time of the making of the statement or provision of the information or engaging in the conduct, was of the belief that—
 
 (a) the statement or information was true and not misleading;
 
@@ -452,11 +620,7 @@ circumstances, had reasonable grounds to believe, and did until the time of the 
 
 the person shall forthwith advise the Commission of the facts referred to in subparagraph (b)(i) or (b)(ii), where applicable, and shall take such action as the Commission may require pursuant to subsection 32(7).
 
-(4) A person who contravenes subsection (1) or subsection (3) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding three million ringgit or
-
-<!-- marginal: to -->
-
-imprisonment for a term not exceeding ten years or to both.
+(4) A person who contravenes subsection (1) or subsection (3) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding three million ringgit or to imprisonment for a term not exceeding ten years or to both.
 
 ## DIVISION 2
 
@@ -464,7 +628,9 @@ imprisonment for a term not exceeding ten years or to both.
 
 ## ACQUISITIONS
 
-Definition. 33. (1) In this Division—
+<!-- marginal: Definition. -->
+
+33. (1) In this Division—
 
 "acquirer" means—
 
@@ -476,11 +642,7 @@ Definition. 33. (1) In this Division—
 
 "Code" means the Malaysian Code on Take- Overs and Mergers made in accordance with section 33A;
 
-"company", in relation to a company being taken over, means a public company, whether or not it is listed on any stock exchange, and includes such private company as
-
-<!-- marginal: the -->
-
-Commission may determine;
+"company", in relation to a company being taken over, means a public company, whether or not it is listed on any stock exchange, and includes such private company as the Commission may determine;
 
 "control", in relation to an acquisition of shares, means the acquisition or holding of, or entitlement to exercise or control the exercise of, voting shares of more than thirty-three per centum in a company;
 
@@ -504,7 +666,11 @@ Commission may determine;
 
 but does not include a receiver who is not also a manager, a receiver and manager appointed by a Court and a liquidator appointed by a Court;
 
-"private company" and "public company" have the same meanings as in subsection 4(1) of the Act 125. Companies Act 1965;
+"private company" and "public company" have the same meanings as in subsection 4(1) of the
+
+<!-- marginal: Act 125. -->
+
+Companies Act 1965;
 
 "related", in relation to a corporation, means related within the meaning of section 6 of the Companies Act 1965;
 
@@ -542,21 +708,29 @@ but does not include a receiver who is not also a manager, a receiver and manage
 
 <!-- page 19 -->
 
-Malaysian 33A. (1) The Minister may, on
+<!-- marginal: Malaysian -->
 
-<!-- marginal: the -->
+33A. (1) The Minister may, on the
 
-Code on recommendation of the Commission, prescribe Take-Overs a Code which shall be published in the Gazette. and Mergers (2) The Minister may, from time to time on the recommendation of the Commission, amend any of the provisions of the Code and any amendment thereto shall be published in the Gazette.
+<!-- marginal: Code on -->
+
+recommendation of the Commission, prescribe
+
+<!-- marginal: Take-Overs -->
+
+a Code which shall be published in the Gazette.
+
+<!-- marginal: and -->
+
+<!-- marginal: Mergers -->
+
+(2) The Minister may, from time to time on the recommendation of the Commission, amend any of the provisions of the Code and any amendment thereto shall be published in the Gazette.
 
 (3) The Code shall contain principles and rules governing the conduct of all persons or parties involved in a take-over offer, merger or compulsory acquisition, including an acquirer, offeror, offeree and their officers and associates.
 
 (4) The Commission shall administer the Code according to the objectives specified in subsection (5) and may do all such things as may be necessary or expedient to give full effect to the provisions of this Division and the Code; and without limiting the generality of the foregoing, may—
 
-(a) issue rulings from time to
-
-<!-- marginal: time, -->
-
-interpreting the Code;
+(a) issue rulings from time to time, interpreting the Code;
 
 (b) issue rulings on the practice and conduct of persons involved in or affected by any take-over offer, merger or compulsory acquisition, or in the course of any take-over, merger or compulsory acquisition; and
 
@@ -586,23 +760,63 @@ Act, the Commission shall take into account the desirability of ensuring that th
 
 in this subsection, and that minority shareholders are not subject to oppression or disadvantaged by the treatment and conduct of the directors of the offeree or the acquirer.
 
-Compliance 33B. (1) A person who makes a take-over offer with Code shall do so in accordance with the provisions and rulings. of the Code and any ruling made under subsection 33A(4).
+<!-- marginal: Compliance -->
+
+33B. (1) A person who makes a take-over offer
+
+<!-- marginal: with Code -->
+
+shall do so in accordance with the provisions
+
+<!-- marginal: and rulings. -->
+
+of the Code and any ruling made under subsection 33A(4).
 
 (2) Subject to section 33c, an acquirer who has obtained control in a company shall make a take-over offer, other than in respect of voting shares of the company which at the date of the offer are already held by the acquirer or which the acquirer is entitled to exercise, in accordance with the provisions of the Code and any ruling made under subsection 33A(4).
 
 (3) Subject to section 33c, an acquirer who has obtained more than thirty-three per centum of the voting shares in a company but less than fifty per centum of voting shares in that company, shall not acquire any additional voting shares in that company, except in accordance with the provisions of the Code and any ruling made under subsection 33A(4).
 
-(4) Any person who contravenes subsection (1), (2) or (3) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding ten years or to both.
+(4) Any person who contravenes subsection
 
-Exemptions. 33c. (1) Subject to subsection 33A(5), the Commission may grant exemption in writing to any particular person or take-over offer or to any particular class, category or description of persons or take-over offers from the provisions of this Division, the Code and any ruling made under subsection 33A(4).
+(1), (2) or (3) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding ten years or to both.
+
+<!-- marginal: Exemptions. -->
+
+33c. (1) Subject to subsection 33A(5), the Commission may grant exemption in writing to any particular person or take-over offer or to any particular class, category or description of persons or take-over offers from the provisions of this Division, the Code and any ruling made under subsection 33A(4).
 
 <!-- page 22 -->
 
 ## BILL
 
-(2) Any exemption granted under subsection (1) may be subject to any conditions, restrictions or limitations as may be imposed by the Commission.
+(2) Any exemption granted under subsection
 
-Action by 33D. (1) Where any person who is under an Commission obligation to comply with, observe or give effect in cases of to the provisions of the Code or any ruling non- compliance made under subsection 33A(4), fails to comply with Code with, observe or give effect to any such provision and rulings of the Code or ruling (hereinafter referred to as the "defaulting person"), the Commission may take one or more of the following actions:
+(1) may be subject to any conditions, restrictions or limitations as may be imposed by the Commission.
+
+<!-- marginal: Action by -->
+
+33D. (1) Where any person who is under an
+
+<!-- marginal: Commission -->
+
+obligation to comply with, observe or give effect
+
+<!-- marginal: in cases of -->
+
+to the provisions of the Code or any ruling
+
+<!-- marginal: non- -->
+
+<!-- marginal: compliance -->
+
+made under subsection 33A(4), fails to comply
+
+<!-- marginal: with Code -->
+
+with, observe or give effect to any such provision
+
+<!-- marginal: and rulings -->
+
+of the Code or ruling (hereinafter referred to as the "defaulting person"), the Commission may take one or more of the following actions:
 
 (a) direct the defaulting person to comply with, observe or give effect to any such provision of the Code or ruling;
 
@@ -614,13 +828,7 @@ Action by 33D. (1) Where any person who is under an Commission obligation to com
 
 (e) where the defaulting person is a listed corporation, direct the stock exchange—
 
-(i) to suspend trading
-
-<!-- marginal: in -->
-
-<!-- marginal: the -->
-
-securities of the corporation;
+(i) to suspend trading in the securities of the corporation;
 
 (ii) to suspend the listing of the corporation; or
 
@@ -632,11 +840,31 @@ securities of the corporation;
 
 (g) direct a stock exchange to prohibit the defaulting person from engaging in transactions to be executed through the use of the facilities of the stock exchange.
 
-(2) The Commission shall give a written notice to a defaulting person of its intention to take action under subsection (1) and shall give the defaulting person an opportunity to be heard prior to it taking any action under subsection (1).
+(2) The Commission shall give a written notice to a defaulting person of its intention to take action under subsection (1) and shall give the defaulting person an opportunity to be heard prior to it taking any action under subsection
 
-(3) The Court may, in a case where the Commission gives a direction under paragraph (1)(a), on an application by the Commission, make an order directing the defaulting person to comply with, observe or give effect to those provisions of the Code or rulings.
+(1).
 
-False or 33E. (1) Where any document or information misleading is required to be submitted to the Commission documents, under this Division or the Code in relation to information, etc. or in connection with a take-over offer, merger or compulsory acquisition—
+(3) The Court may, in a case where the Commission gives a direction under paragraph
+
+(1)(a), on an application by the Commission, make an order directing the defaulting person to comply with, observe or give effect to those provisions of the Code or rulings.
+
+<!-- marginal: False or -->
+
+33E. (1) Where any document or information
+
+<!-- marginal: misleading -->
+
+is required to be submitted to the Commission
+
+<!-- marginal: documents, -->
+
+under this Division or the Code in relation to
+
+<!-- marginal: information, -->
+
+<!-- marginal: etc. -->
+
+or in connection with a take-over offer, merger or compulsory acquisition—
 
 (a) an acquirer, an offeror or a person making a compulsory acquisition or effecting a merger, its officers or associates;
 
@@ -658,13 +886,9 @@ shall not—
 
 ## BILL
 
-(2) It shall be a defence to a prosecution or any proceeding for a contravention of subsection (1) if it is proved that the defendant, after making enquiries as were reasonable
+(2) It shall be a defence to a prosecution or any proceeding for a contravention of subsection
 
-<!-- marginal: in -->
-
-<!-- marginal: the -->
-
-circumstances, had reasonable grounds to believe, and did until the time of the provision of the document or information or engaging in the conduct was of the belief that—
+(1) if it is proved that the defendant, after making enquiries as were reasonable in the circumstances, had reasonable grounds to believe, and did until the time of the provision of the document or information or engaging in the conduct was of the belief that—
 
 (a) the document or information was true and not misleading;
 
@@ -676,7 +900,13 @@ circumstances, had reasonable grounds to believe, and did until the time of the 
 
 (3) A person who contravenes subsection (1) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding three million ringgit or to imprisonment for a term not exceeding ten years or to both.
 
-Compulsory 34. (1) Subject to section 34B, where a take- acquisition. over offer by an offerer to acquire all the shares or all the shares in any particular class or classes in an offeree has, within four months after the making of the take-over offer, been accepted by the holders of not less than nine-tenths in the nominal value of those shares or of the shares of that class or classes (other than shares already held at the date of the take-over offer by the offerer or by a nominee for or a related corporation of the offerer), the offerer may, at any time within two months after the take-over offer has been so accepted, give notice in the manner prescribed under the Code to any dissenting shareholder that it desires to acquire his shares together with a statutory declaration by the offeror that the conditions for the giving of the notice are satisfied.
+<!-- marginal: Compulsory -->
+
+34. (1) Subject to section 34B, where a take-
+
+<!-- marginal: acquisition. -->
+
+over offer by an offerer to acquire all the shares or all the shares in any particular class or classes in an offeree has, within four months after the making of the take-over offer, been accepted by the holders of not less than nine-tenths in the nominal value of those shares or of the shares of that class or classes (other than shares already held at the date of the take-over offer by the offerer or by a nominee for or a related corporation of the offerer), the offerer may, at any time within two months after the take-over offer has been so accepted, give notice in the manner prescribed under the Code to any dissenting shareholder that it desires to acquire his shares together with a statutory declaration by the offeror that the conditions for the giving of the notice are satisfied.
 
 <!-- page 25 -->
 
@@ -704,7 +934,9 @@ shall be guilty of an offence.
 
 the offeror shall be treated for the purposes of this section as having acquired or contracted to acquire those shares by virtue of acceptances of the take-over offer but in relation to any other case those shares shall be treated as excluded from those to which the take-over offer relates.
 
-(7) Subject to section 34B, where a notice has been given by the offeror under subsection (1), the offeror shall, after the expiration of one month after the date on which the notice has been given, or where subsection (2) applies after fourteen days from the date the statement has been posted to the dissenting shareholder—
+(7) Subject to section 34B, where a notice has been given by the offeror under subsection
+
+(1), the offeror shall, after the expiration of one month after the date on which the notice has been given, or where subsection (2) applies after fourteen days from the date the statement has been posted to the dissenting shareholder—
 
 (a) send a copy of the notice to the offeree together with an instrument of transfer
 
@@ -722,7 +954,19 @@ and the offeree shall thereupon register the offerer as the holder of those shar
 
 (10) The Minister shall sell or dispose of any consideration received under subsection (9) in such manner as he thinks fit and shall deal with the proceeds of the sale or disposal as if it were moneys paid to him pursuant to the law relating to unclaimed moneys.
 
-Right of 34A. (1) Subject to section 34B, if a take-over minority offer relates to all the shares or to all shares share- holder. in any class or classes in an offeree and, at any time before the end of the period within which the take-over offer can be accepted—
+<!-- marginal: Right of -->
+
+34A. (1) Subject to section 34B, if a take-over
+
+<!-- marginal: minority -->
+
+offer relates to all the shares or to all shares
+
+<!-- marginal: share- -->
+
+<!-- marginal: holder. -->
+
+in any class or classes in an offeree and, at any time before the end of the period within which the take-over offer can be accepted—
 
 (a) the offerer has, by virtue of the acceptances of the take-over offer, acquired some (but not all) of the shares to which the take-over offer relates or shares of any class or classes to which the take-over offer relates; and
 
@@ -732,7 +976,9 @@ Right of 34A. (1) Subject to section 34B, if a take-over minority offer relates 
 
 the holder of any shares or any class or classes of shares to which the take-over offer relates may, by notice to the offeror, require him to acquire those shares, and the offeror shall be bound to acquire those shares on the terms of the take-over offer or such other terms as may be agreed.
 
-(2) Within one month of the time specified in subsection (1), the offeror shall give any shareholder who has not accepted the take-over offer, notice in the manner prescribed under the Code of the rights that are exercisable by him under subsection (1) and, if the notice is given before the period mentioned in subsection (1), it shall state that the take-over offer is still open for acceptance.
+(2) Within one month of the time specified in subsection (1), the offeror shall give any shareholder who has not accepted the take-over offer, notice in the manner prescribed under the Code of the rights that are exercisable by him under subsection (1) and, if the notice is given before the period mentioned in subsection
+
+(1), it shall state that the take-over offer is still open for acceptance.
 
 (3) A notice under subsection (2) may specify the period for the exercise of the rights conferred by this section and in that event the rights shall not be exercisable after the end of that period; but no such period shall end less than three months after the end of the period within which the take-over offer can be accepted.
 
@@ -742,7 +988,13 @@ the holder of any shares or any class or classes of shares to which the take-ove
 
 <!-- page 29 -->
 
-Application 34B. (1) Where a notice is given under to. Court. subsection 34(1), the Court may, on an application made by any dissenting shareholder within one month from the date on which the notice was given—
+<!-- marginal: Application -->
+
+34B. (1) Where a notice is given under
+
+<!-- marginal: to. Court. -->
+
+subsection 34(1), the Court may, on an application made by any dissenting shareholder within one month from the date on which the notice was given—
 
 (a) order that the offerer shall not be entitled and shall not be bound to acquire those shares; or
 
@@ -776,7 +1028,39 @@ for entitling him to give notices under subsection 34(1), make an order authoris
 
 Provided that the Court shall not make such an order unless it considers that it is just and equitable to do so having regard, in particular, to the number of shareholders who have been traced but who have not accepted the take-over offer.
 
-Section 180 34c. The provisions of section 180 of the of the Companies Act 1965 shall not apply in respect Companies Act 1965 of take-over offers to which subsection 34(1) shall not applies.". apply to take-over offers to which subsection 34(1) applies. Act 125.
+<!-- marginal: Section 180 -->
+
+34c. The provisions of section 180 of the
+
+<!-- marginal: of the -->
+
+Companies Act 1965 shall not apply in respect
+
+<!-- marginal: Companies -->
+
+<!-- marginal: Act 1965 -->
+
+of take-over offers to which subsection 34(1)
+
+<!-- marginal: shall not -->
+
+applies.".
+
+<!-- marginal: apply to -->
+
+<!-- marginal: take-over -->
+
+<!-- marginal: offers to -->
+
+<!-- marginal: which -->
+
+<!-- marginal: subsection -->
+
+<!-- marginal: 34(1) -->
+
+<!-- marginal: applies. -->
+
+<!-- marginal: Act 125. -->
 
 <!-- page 31 -->
 
@@ -800,25 +1084,45 @@ the words "a securities law".
 
 39 the following sections:
 
-39A. (1) Any person who contravenes a General penalty. requirement or any provision of this Act shall be guilty of an offence.
+39A. (1) Any person who contravenes a
+
+<!-- marginal: General -->
+
+<!-- marginal: penalty. -->
+
+requirement or any provision of this Act shall be guilty of an offence.
 
 (2) Where no penalty is expressly provided for an offence under this Act, a person who is guilty of the offence shall on conviction be liable to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding five years, or to both; and in the case of a continuing offence, shall be liable to a daily fine not exceeding five thousand ringgit for every day during which the offence continues.
 
-Offences 39B. (1) Where a person convicted in respect by body of any offence under this Act is a body corporate, corporate. it shall only be liable to the imposition of any fine provided therein.
+<!-- marginal: Offences -->
+
+39B. (1) Where a person convicted in respect
+
+<!-- marginal: by body -->
+
+of any offence under this Act is a body corporate,
+
+<!-- marginal: corporate. -->
+
+it shall only be liable to the imposition of any fine provided therein.
 
 (2) Where a person convicted of an offence under this Act is a body corporate, every person who at the time of the commission of the offence was a director, an executive officer, an employee or the secretary of the body corporate or was purporting to act in such capacity shall be deemed to be guilty of that offence unless he proves that the offence was committed without his consent or connivance and that he exercised all such diligence to prevent the commission of the offence as he ought to exercise having regard to the nature of his functions in that capacity and to all the circumstances.".
 
 <!-- page 32 -->
 
-Substitution
+<!-- marginal: Substitution -->
 
-14. The principal Act is amended by substituting for of section section 41 the following section:
+14. The principal Act is amended by substituting for
+
+<!-- marginal: of section -->
+
+section 41 the following section:
 
 41.
 
 Power to 41. The Commission may, either generally or engage in a particular matter, engage under such terms persons to and conditions of engagement as the Commission render assistance. may determine from time to time, any person who is not an officer of the Commission to render such assistance as the Commission may require or specify in connection with the performance of its functions, or the discharge of its duties under a securities law, or to perform or discharge the same on behalf of and in the name of the Commission.".
 
-New section
+<!-- marginal: New section -->
 
 15. The principal Act is amended by inserting after section
 
@@ -826,9 +1130,15 @@ New section
 
 "Decision 42A. Except as otherwise provided in this Act, of Com- any decision made by the Commission under mission this Act, whether an original decision by it or shall be final. a decision upon being reviewed under subsection 42(1), shall be final.".
 
-New sections
+<!-- marginal: New sections -->
 
-16. The principal Act is amended by inserting after 43A, 43B section 43 the following sections: and 43c.
+16. The principal Act is amended by inserting after
+
+<!-- marginal: 43A, 43B -->
+
+section 43 the following sections:
+
+<!-- marginal: and 43c. -->
 
 ".Assistance 43A. Notwithstanding section 43,
 
@@ -844,25 +1154,61 @@ make use of such copy of such book statement, record or other document as may be
 
 (b) allow a police officer or any other public officer to have access to and inspect any property, book, other document, article or thing which had been produced before, or seized, detained or taken possession of by an Investigating Officer under this Act, and such police officer or other public officer may make such use of any knowledge gained by such access or inspection as may be necessary or expedient in relation to the exercise of his powers, the performance of his functions, or the discharge of his duties, in respect of any person.
 
-Assistance 43B. (1) Notwithstanding section 43, the to and co- Commission may, upon request by a foreign operation with foreign supervisory authority, provide such assistance supervisory to the foreign supervisory authority as the authorities. Commission thinks fit.
+<!-- marginal: Assistance -->
+
+43B. (1) Notwithstanding section 43, the
+
+<!-- marginal: to and co- -->
+
+Commission may, upon request by a foreign
+
+<!-- marginal: operation -->
+
+<!-- marginal: with foreign -->
+
+supervisory authority, provide such assistance
+
+<!-- marginal: supervisory -->
+
+to the foreign supervisory authority as the
+
+<!-- marginal: authorities. -->
+
+Commission thinks fit.
 
 (2) In this section, "foreign supervisory authority" means a foreign authority which exercises functions corresponding to the functions of the Commission under a securities law or any person outside Malaysia exercising regulatory functions and in respect of which the Commission considers desirable and necessary to render assistance.
 
-Power of 43c. Where under this Act, power is given to Com- the Commission to require any person, or where mission to any person is required under this Act, to submit require informa- to the Commission any information, document tion or book, the Commission may require that the
+<!-- marginal: Power of -->
+
+43c. Where under this Act, power is given to
+
+<!-- marginal: Com- -->
+
+the Commission to require any person, or where
+
+<!-- marginal: mission to -->
+
+any person is required under this Act, to submit
+
+<!-- marginal: require -->
+
+<!-- marginal: informa- -->
+
+to the Commission any information, document
+
+<!-- marginal: tion -->
+
+or book, the Commission may require that the
 
 <!-- page 34 -->
 
-same shall be submitted within such period, at such intervals, in such manner, in such form, and in writing or by means of any visual recording (whether of still or moving images) or sound recording, or any electronic, magnetic, mechanical or other recording whatsoever, on any substance, material, thing or article, as the Commission may set out
+same shall be submitted within such period, at such intervals, in such manner, in such form, and in writing or by means of any visual recording (whether of still or moving images) or sound recording, or any electronic, magnetic, mechanical or other recording whatsoever, on any substance, material, thing or article, as the Commission may set out in the specification.".
 
-<!-- marginal: in -->
+<!-- marginal: Amendment -->
 
-<!-- marginal: the -->
+17. Section 44 of the principal Act is amended—
 
-specification.".
-
-Amendment
-
-17. Section 44 of the principal Act is amended— of section
+<!-- marginal: of section -->
 
 44.
 
@@ -876,9 +1222,13 @@ Amendment
 
 "(3) Regulations made under this section may provide for the imposition of penalties which shall not exceed twenty-five thousand ringgit for any offence thereunder.".
 
-New section
+<!-- marginal: New section -->
 
-18. The principal Act is amended by inserting after section 44A 44 the following section:
+18. The principal Act is amended by inserting after section
+
+<!-- marginal: 44A -->
+
+44 the following section:
 
 Indemnity. 44A. The Commission, any member of the Commission or of any committee established by the Commission, the Chairman and any officer of the Commission shall not be liable to an action or other proceedings for damages for or on account of, or in respect of, any act done or statement made, omitted to be done or made, in pursuance of or in execution of a securities law or in the performance of any function, or in exercise of any power, conferred or expressed to be conferred by or under a securities law:
 
@@ -924,25 +1274,39 @@ Classes Or Categories Of Securities Or Classes Or Categories Of Transactions Not
 
 <!-- page 36 -->
 
-9. An offer or invitation with respect to securities of a corporation which is not listed made to existing members or debenture holders of such corporation by means of a rights issue and is not an offer to which section 39A of the Companies Act 1965 applies.
+9. An offer or invitation with respect to securities of a corporation which is not listed made to existing members or debenture holders of such corporation by means of a rights issue and is not an offer to which section 39A of the Companies Act 1965 applies. 10. The making available, offering for subscription or purchase or issuing an invitation to subscribe for or purchase, securities of a corporation to existing members of a company within the meaning of section 270 of the Companies Act 1965. 11. Issuance or allotment of securities by a listed corporation pursuant to the exercise of a warrant, convertible note, option or transferable subscription right, in respect of which the Commission has given its prior approval under subsection 32(4).".
 
-10. The making available, offering for subscription or purchase or issuing an invitation to subscribe for or purchase, securities of a corporation to existing members of a company within the meaning of section 270 of the Companies Act 1965.
+<!-- marginal: Savings -->
 
-11. Issuance or allotment of securities by a listed corporation pursuant to the exercise of a warrant, convertible note, option or transferable subscription right, in respect of which the Commission has given its prior approval under subsection 32(4).".
+20. (1) All actions, regulations, orders, directions,
 
-Savings
+<!-- marginal: and -->
 
-20. (1) All actions, regulations, orders, directions, and notifications, approvals, decisions, guidelines and other transitional. executive acts howsoever called, made, given or done under, or in accordance with, or by virtue of the principal Act before the commencement of this Act shall be deemed to have been made, given or done under, or in accordance with, or by virtue of, the corresponding provision introduced or amended by this Act, and shall continue to remain in full force and effect in relation to the persons to whom they apply until amended, repealed or rescinded under, in accordance with, or by virtue of, the corresponding provision introduced or amended by this Act.
+notifications, approvals, decisions, guidelines and other
+
+<!-- marginal: transitional. -->
+
+executive acts howsoever called, made, given or done under, or in accordance with, or by virtue of the principal Act before the commencement of this Act shall be deemed to have been made, given or done under, or in accordance with, or by virtue of, the corresponding provision introduced or amended by this Act, and shall continue to remain in full force and effect in relation to the persons to whom they apply until amended, repealed or rescinded under, in accordance with, or by virtue of, the corresponding provision introduced or amended by this Act.
 
 (2) Nothing in the principal Act or this Act shall affect any person's liability to be prosecuted or punished for offences committed under the principal Act before the commencement of this Act or any proceeding brought or sentence imposed before that day in respect of such offence.
 
 (3) If any difficulty arises with respect to the provisions introduced or amended by this Act and transitional provisions, the Minister may, by order published in the Gazette, make such modifications in these provisions as may appear to him necessary for preventing anomalies.
 
-This Act to
+<!-- marginal: This Act to -->
 
-21. For the avoidance of doubt, the provisions introduced apply to or amended by this Act shall apply to— pending. proposals,
+21. For the avoidance of doubt, the provisions introduced
 
-(a) all proposals submitted; etc.
+<!-- marginal: apply to -->
+
+or amended by this Act shall apply to—
+
+<!-- marginal: pending. -->
+
+<!-- marginal: proposals, -->
+
+(a) all proposals submitted;
+
+<!-- marginal: etc. -->
 
 <!-- page 37 -->
 
@@ -1066,9 +1430,7 @@ Section 43B seeks to empower the Commission to provide assistance to foreign sup
 
 Section 43c empowers the Commission to specify the manner and form in which information may be required from a person and the period for complying with the request.
 
-18. Clause / 7 seeks to amend section 44 of the Act by substituting new paragraphs (c) and (d) consequential to the amendments to
-
-## Part IV of the Act.
+18. Clause / 7 seeks to amend section 44 of the Act by substituting new paragraphs (c) and (d) consequential to the amendments to Part IV of the Act.
 
 19. Clause 18 seeks to insert a new section 44A which confers an indemnity on the Commission, a member of the Commission or committee, the Chairman or any officer of the Commission who has acted in good faith in the performance of their duties under the securities laws. This is necessary to ensure that the discharge of regulatory functions or the performance of duties by these persons may be carried on efficaciously and are not fraught with legal liabilities.
 

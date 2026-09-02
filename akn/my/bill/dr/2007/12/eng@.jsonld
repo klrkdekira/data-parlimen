@@ -1,0 +1,779 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-12-2007",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_27"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Securities Commission (Amendment) Bill 2007"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_10__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_10__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 127 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the marginal note, by deleting the words \"licensed person's\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection ( 1 ) the following subsection: \"(1) For the purposes of an examination under section 126, a person under examination, its directors and officers shall accord any person carrying out the examination access to all its books or other documents and accounts, including documents of title to its assets, all securities held by it in respect of securities transactions, all its cash, and all such documents, information and facilities as may be required by that person who carries out the examination, and shall produce to that person who carries out the examination all such books or other documents, accounts, titles, securities or cash, and give all such information, as he may require, but so far as is consistent with the conduct of the examination, such books or documents, accounts, titles, securities and cash shall not be required to be produced at such times or at such places as may interfere with the proper conduct of the normal daily business of that person.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_10__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by deleting the word \"licensed\" wherever it appears. Amendment of section 128"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_11__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 128 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_11__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_11__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_11__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_11__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_11__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the word \"and\" at the end of paragraph (b);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_11__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_11__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the full stop at the end of paragraph (c) the words \"; and\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_11__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_11__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (c) the following paragraph: \"(d) detain all or any persons found on the premises searched under this subsection until such premises have been searched.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (8), by substituting for the words \"this Act\" the words \"the securities laws\". Amendment of section 134"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_12__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_12__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 134 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by inserting after the words \"taken down in writing\" the words \"or recorded and subsequently taken down in writing\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_12__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_12__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_12__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (5)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_12__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_12__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the word \"or\" at the end of paragraph (b)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_12__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_12__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the comma at the end of paragraph (c) a semicolon; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_12__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_12__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (c) the following paragraph: \"(d) obstructs an Investigating Officer of the Commission in carrying out an investigation under this section,\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_12__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (10), by substituting for the words \"this Act\" the words \"the securities laws\". Amendment of section 139"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 139(2) of the principal Act is amended in the English language text by substituting for the word \"composition\" the word \"compound\". Amendment of section 146"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 146(1) of the principal Act is amended by substituting for the words \"this Act\" the words \"the securities laws\". Amendment of section 147"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 147 of the principal Act is amended by substituting for the words \"this Act\" wherever they appear the words \"the securities laws\". Amendment of section 148"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 148(1) of the principal Act is amended by substituting for the words \"this Act\" wherever they appear the words \"the securities laws\". Amendment of section 149"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 149(b) of the principal Act is amended by substituting for the words \"this Act\" the words \"the securities laws\". Amendment of section 150"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 150(1) of the principal Act is amended by substituting for the words \"this Act\" the words \"the securities laws\". New section 150A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 150 the following section: \"Admissibility of evidence obtained through assistance from a foreign supervisory authority 150A. ( 1 ) If an Investigating Officer of the Commission in the course of his investigation obtains evidence, oral or documentary, through assistance obtained from a foreign supervisory authority, such evidence shall be admissible as prima facie evidence. (2) In this section, a copy of a documentary evidence shall not be admissible in evidence unless the person who has custody or control of the document affirms that he has examined and verified the copy of that document with the original. (3) Notwithstanding subsection (2), where the original document is not found or is lost, it shall be sufficient for the person who has custody or control of the document to state orally or in an affidavit given under this section that he had made reasonable efforts to locate the original documents and thereafter the copy of such documents shall be admissible as prima facie evidence of such documents in any legal proceedings. (4) The oral evidence referred to in subsection (1) shall be admissible as prima facie evidence if a person authorized by the foreign supervisory authority records the oral evidence in writing, affirms in an affidavit that the statement attached to the affidavit has been recorded from a person acquainted with the circumstances of the case and the recording of the oral evidence was made in accordance with the laws enforced or administered by the foreign supervisory authority. (5) An affidavit under this section shall not be admissible as prima facie evidence unless it is sworn— (a) in the Republic of Singapore, before any Judge, District Judge, Assistant District Judge, Registrar, Deputy Registrar, police, Magistrate or before any person authorized to take affidavits by any written law in force in the Republic of Singapore; (b) in England, Scotland, Ireland or the Channel Islands or in any colony, island or place under the dominion or jurisdiction or protection of Her Britannic Majesty, before any Judge, Court, Notary Public or other person lawfully authorized to administer oaths; or (c) in any other place, before any officer exercising consular functions on behalf of Malaysia. (6) The court shall take judicial notice of the seal or signature, as the case may be, of any Judge, Court, Notary Public, Consul, Vice Consul, or other person whose seal or signature is appended or subscribed to any affidavit.\". Amendment of section 151"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Securities Commission (Amendment) Act 2007."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_1__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_1__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette, and the Minister may appoint different dates for the coming into operation of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_1__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_1__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "different provisions of this Act; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_1__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_1__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all or different provisions of this Act in respect of different classes or categories of persons or securities. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_2__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_2__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_2__para_j"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Securities Commission Act 1993 [Act 498], which is referred to as the \"principal Act\" in this Act, is amended in section 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 151 of the principal Act is amended by substituting for the words \"this Act\" wherever they appear the words \"the securities laws\". New section 152A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 152 the following section: \"Power of Commission to publish information 152A. The Commission may, where it thinks necessary or expedient in the interest of the public or for the protection of investors and in such form or manner as it thinks fit, publish any information in relation to— (a) the grant of, lapsing, revocation or suspension of an approval, licence or exemption granted under the securities laws to any person; (b) the issuance of any rulings under subsection 217(4) of the Capital Markets and Services Act 2007; (c) any action taken under section 354, 355 or 356 of the Capital Markets and Services Act 2007; (d) an order by the court under section 360 of the Capital Markets and Services Act 2007; (e) the compounding of any offence— (i) under the securities laws; or (ii) under any other law, whether the law of Malaysia or any territory or country outside Malaysia; (f) any civil or criminal proceedings brought— (i) under the securities laws against any person and the outcome of such proceedings, including any settlement, whether in or out of court; or (ii) under any other law, whether the law of Malaysia or any territory or country outside Malaysia, against any person and the outcome of such proceedings, including any settlement, whether in or out of court; or0 (g) any other action as may be taken by the Minister, the Commission, a stock exchange, a futures exchange or an approved clearing house against any person.\". Deletion of section 153"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 153. Deletion of section 155"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 155. Deletion of section 156"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 156. Amendment of section 158"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_25__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_25__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_25__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_25__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 158 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_25__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by deleting the words \"this Act or\" wherever they appear;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_25__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words \"the provisions of Part I and Part IV\" the words \"any written notices, circulars, conditions or guidelines\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_25__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsections (3), (5), (6) and (7); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_25__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (8), by deleting the words \"this Act or\". Amendment of section 159"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting paragraphs 159(2)(c) and (d). Deletion of Schedules 1, 2, 3, 4 and 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting Schedules 1, 2, 3, 4 and 5."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of \"affiliate\" the following definition: \"affiliate\" has the meaning assigned to it in the Capital Markets and Services Act 2007 [Act ]';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the definition of \"associated person\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of \"books\" the following definition: ' \"books\" has the meaning assigned to it in the Capital Markets and Services Act 2007;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the definition of \"borrower\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the definition of \"Central Bank of Malaysia\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of \"central depository\" the following definition: ' \"central depository\" has the meaning assigned to it in the Capital Markets and Services Act 2007;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of \"clearing house\", by substituting for the words \"subsection 6B(1) of the Futures Industry Act 1993\" the words \"section 38 of the Capital Markets and Services Act 2007\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of \"dealing in securities\" the following definition: \"dealing in securities\" has the meaning assigned to it in the Capital Markets and Services Act 2007;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_2__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the definition of \"debenture\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_2__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of \"exchange\" the following definition: ‘ \"exchange\" means a stock exchange established under the Capital Markets and Services Act 2007;'; (k) by deleting the definition of \"exchange company\"; (I) by substituting for the definition of \"exchange holding company\" the following definition: ' \"exchange holding company\" has the meaning assigned to it in the Capital Markets and Services Act 2007;'; (m) by deleting the definition of \"exempt dealer\"; (n) by substituting for the definition of \"futures contract\" the following definition: ' \"futures contract\" has the meaning assigned to it in the Capital Markets and Services Act 2007;'; (o) by inserting after the definition of \"futures contract\" the following definition: \"futures exchange\" has the meaning assigned to it in the Capital Markets and Services Act 2007;'; (p) by substituting for the definition of \"futures market\" the following definition: \"futures market\" has the meaning assigned to it in the Capital Markets and Services Act 2007;'; (q) by deleting the definition of \"guarantor\"; (r) by deleting the definition of \"issue\"; (s) by deleting the definition of \"issuer\"; (t) by deleting the definition of \"licence\"; (u) by deleting the definition of \"licensed institution\"; (v) in the definition of \"licensed person\", by substituting for the words \"Part IV of the Securities Industry Act 1983 or Part III of the Futures Industry Act 1993\" the words \"the Capital Markets and Services Act 2007\"; (w) by deleting the definition of \"listed\"; (x) by deleting the definition of \"management company\"; (y) by deleting the definition of \"official list\"; (z) by substituting for the definition of \"participant\" the following definition: \"participant\" has the meaning assigned to it in the Capital Markets and Services Act 2007;'; (aa) by substituting for the definition of \"participating organization\" the following definition: \"participating organization\" has the meaning assigned to it in the Capital Markets and Services Act 2007;'; (bb) in the definition of \"prescribed investment\", by substituting for the words \"subsection 2B(3)\" the words \"subsection 5(3) of the Capital Markets and Services Act 2007\"; (cc) by deleting the definition of \"Registrar\"; (dd) by substituting for the definition of \"stock exchange\" the following definition: ' \"stock exchange\" has the meaning assigned to it in the Capital Markets and Services Act 2007;'; (ee) by deleting the definition of \"stock market\"; iff) by substituting for the definition of \"securities\" the following definition: ' \"securities\" has the meaning assigned to it in the Capital Markets and Services Act 2007;'; (gg) by substituting for the definition of \"securities laws\" the following definition: ' \"securities laws\" means this Act, the Securities Industry (Central Depositories) Act 1991 [Act 453] and the Capital Markets and Services Act 2007;'; (hh) by deleting the definition of \"trade\"; (ii) by deleting the definition of \"unit\"; (jj) by deleting the definition of \"unit holder\"; and (kk) by deleting the definition of \"unlisted recreational club\". Deletion of section 2B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 2B. Deletion of section 2c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 2c. Amendment of section 18"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 18(1) of the principal Act is amended by substituting for the words \"this Act\" the words \"the securities laws\". Amendment of section 24"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_6__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 24 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words \"an exchange company\" the words \"a futures exchange\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsection: \"(2A) In the case of every purchase and sale of securities or every futures contract effected on an electronic facility registered under section 34 of the Capital Markets and Services Act 2007, the Commission may impose a levy at such rate as may be specified by the Minister, by order published in the Gazette.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (6) the following subsection: \"(6) For the purposes of this section, the terms \"short position\" and \"long position\" have the meanings assigned to them in the Capital Markets and Services Act 2007.\". Deletion of Parts IV and IVA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting Parts IV and IVA. Amendment of section 125"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 125 of the principal Act is amended by substituting for the words \"this Act, the Securities Industry Act 1983, the Securities Industry (Central Depositories) Act 1991 and the Futures Industry Act 1993\" wherever they appear the words \"the securities laws\". Amendment of section 126"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_9__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_9__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_9__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 126 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the marginal note, by substituting for the words \"of licensed persons\" the words \"by Commission\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: \"(1) The Commission may, from time to time, examine, without giving any prior notice, the books or other documents, accounts and transactions of— (a) an exchange holding company; (b) a stock exchange; (c) an approved clearing house; (d) a futures exchange; and (e) a licensed person.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_9__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (2) the following subsection: \"(2) Any person and any of the servants or agents of such person shall, on being required by the Commission so to do, produce any documents, records or matter referred to in subsection (1).\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_9__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/12/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsection: \"(3) For the purposes of this section and section 127, \"person\" means any person listed under paragraphs to (e):”. Amendment of section 127"
+      }
+    }
+  ]
+}

@@ -6,7 +6,7 @@ RANG UNDANG-UNDANG veteRAN 2011
 
 sUsUNAN fAsAl
 
-## Bahagian I
+## BAHAGIAN I
 
 PeRMUlAAN
 
@@ -14,7 +14,7 @@ PeRMUlAAN
 
 2. tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 PeNUBUHAN DAN fUNGsI MAJlIs veteRAN KeBANGsAAN
 
@@ -26,7 +26,7 @@ PeNUBUHAN DAN fUNGsI MAJlIs veteRAN KeBANGsAAN
 
 6. Majlis dibantu oleh Jabatan
 
-## Bahagian III
+## BAHAGIAN III
 
 PeNDAftARAN veteRAN
 
@@ -44,7 +44,7 @@ PeNDAftARAN veteRAN
 
 <!-- page 2 -->
 
-## Bahagian Iv
+## BAHAGIAN IV
 
 PeNDAftARAN DAN PeNYelIAAN PeRsA tUAN veteRAN
 
@@ -70,13 +70,13 @@ PeNDAftARAN DAN PeNYelIAAN PeRsA tUAN veteRAN
 
 23. Kesan penolakan, pembatalan atau penggantungan pendaftaran
 
-## Bahagian v
+## BAHAGIAN V
 
 AM
 
 24. Kuasa untuk membuat peraturan-peraturan
 
-## Jadual
+## JADUAL
 
 <!-- page 3 -->
 
@@ -86,7 +86,7 @@ suatu Akta untuk menubuhkan Majlis veteran Kebangsaan, untuk membuat peruntukan 
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 PeRMUlAAN
 
@@ -142,7 +142,7 @@ PeRMUlAAN
 
 <!-- page 5 -->
 
-## Bahagian II
+## BAHAGIAN II
 
 PeNUBUHAN DAN fUNGsI MAJlIs veteRAN KeBANGsAAN
 
@@ -198,7 +198,7 @@ PeNUBUHAN DAN fUNGsI MAJlIs veteRAN KeBANGsAAN
 
 6. Majlis hendaklah dibantu oleh Jabatan dalam melaksanakan fungsinya dan menjalankan kuasanya di bawah Akta ini.
 
-## Bahagian III
+## BAHAGIAN III
 
 PeNDAftARAN veteRAN
 
@@ -250,7 +250,7 @@ PeNDAftARAN veteRAN
 
 (3) Mana-mana orang yang kepadanya suatu Kad Bekas tentera telah dikeluarkan oleh Jabatan Arah Rekod dan Pencen Markas Angkatan tentera Malaysia sebelum sahaja Akta ini mula berkuat kuasa dan disifatkan sebagai seorang veteran di bawah subseksyen 11(4) hendaklah dikeluarkan suatu Kad veteran di bawah Akta ini.
 
-## Bahagian Iv
+## BAHAGIAN IV
 
 PeNDAftARAN DAN PeNYelIAAN PeRsA tUAN veteRAN
 
@@ -360,7 +360,7 @@ boleh, dalam tempoh tiga puluh hari dari tarikh pemberitahuan keputusan Pendafta
 
 (b) persatuan itu tidak boleh menerima atau terus menerima pembiayaan bagi apa-apa aktiviti veteran atau apa-apa perkara yang berkaitan dengan kepentingan, hal ehwal atau kebajikan veteran daripada Kerajaan atau mana- mana badan berkanun.
 
-## Bahagian v
+## BAHAGIAN V
 
 AM
 
@@ -388,7 +388,7 @@ AM
 
 (h) apa-apa perkara lain yang dikehendaki oleh Akta ini supaya ditetapkan atau yang perlu atau suai manfaat untuk ditetapkan bagi melaksanakan Akta ini.
 
-## Jadual
+## JADUAL
 
 [seksyen 14]
 

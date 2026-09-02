@@ -6,15 +6,7 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-1. Short title and commencement
-
-2. Interpretation
-
-3. .Repeal and dissolution
-
-4. Transfer of powers, rights, etc.
-
-5. Prevention of difficulties or anomalies
+1. Short title and commencement 2. Interpretation 3. .Repeal and dissolution 4. Transfer of powers, rights, etc. 5. Prevention of difficulties or anomalies
 
 <!-- page 2 -->
 

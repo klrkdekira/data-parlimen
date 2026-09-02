@@ -1,0 +1,68 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/29/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/29"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-29-2011",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/29/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/29/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/29/eng@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Supply Bill 2012"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/29/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/29/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This act may be cited as the Supply act 2012. Issue and appropriation for the service of the year 2012"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/29/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/29/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The issue of a sum not exceeding one hundred and forty-six billion two hundred and ninety-five million one hundred and thirteen thousand and eight hundred ringgit (RM146,295,113,800) from the Consolidated Fund for the service of the year 2012 is hereby authorised and that sum is appropriated for purposes specified in the Schedule."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/29/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/29/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Purpose Title b. 1 Parliament b. 2 Office of the Keeper of the Rulers’ Seal b. 3 audit Department b. 4 Election Commission b. 5 Public Services Commission b. 6 Prime Minister’s Department b. 7 Public Service Department b. 8 attorney General’s Chambers b. 9 Malaysian anti-Corruption Commission b. 10 Treasury b. 11 Treasury General Services b. 12 Contribution to Statutory Funds b. 13 Ministry of Foreign affairs b. 20 Ministry of Plantation industries and Commodities b. 21 Ministry of agriculture and agro-based industry b. 22 Ministry of Rural and Regional Development b. 23 Ministry of Natural Resources and Environment b. 24 Ministry of international Trade and industry b. 25 Ministry of Domestic Trade, Cooperatives and Consumerism b. 27 Ministry of Works b. 28 Ministry of Transport b. 29 Ministry of Energy, Green Technology and Water b. 30 Ministry of Science, Technology and innovations Purpose Title b. 31 Ministry of Tourism b. 32 Ministry of the Federal Territories and Urban Wellbeing b. 40 Education Service Commission b. 41 Ministry of Education b. 42 Ministry of Health b. 43 Ministry of Housing and local Government b. 45 Ministry of Youth and Sports b. 46 Ministry of Human Resources b. 47 Ministry of information, Communication and Culture b. 48 Ministry of Women, Family and Community Development b. 49 Ministry of Higher Education b. 60 Ministry of Defence b. 62 Ministry of Home affairs TOTAL"
+      }
+    }
+  ]
+}

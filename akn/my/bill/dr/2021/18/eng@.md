@@ -4,13 +4,13 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Interpretation
 
-## Part II
+## PART II
 
 ## TRIBUNAL FOR ANTI-SEXUAL HARASSMENT
 
@@ -30,7 +30,15 @@ Jurisdiction of Tribunal
 
 Conduct of proceedings
 
-10. Commencement of proceedings 11. Notice of complaint of sexual harassment 12. Sittings of Tribunal 13. Right to appear at hearing 14. Hearings to be closed
+10. Commencement of proceedings
+
+11. Notice of complaint of sexual harassment
+
+12. Sittings of Tribunal
+
+13. Right to appear at hearing
+
+14. Hearings to be closed
 
 <!-- page 5 -->
 
@@ -56,7 +64,7 @@ Award and order of Tribunal
 
 23. Challenging award on ground of serious irregularity
 
-## Part III
+## PART III
 
 ## ADMINISTRATOR OF ANTI-SEXUAL HARASSMENT
 
@@ -64,7 +72,7 @@ Award and order of Tribunal
 
 25. Functions and powers of Administrator
 
-## Part IV
+## PART IV
 
 ## GENERAL
 
@@ -82,7 +90,7 @@ An Act to provide for a right of redress for any person who has been sexually ha
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -126,7 +134,7 @@ and includes any directions about the conduct of that proceedings, but does not 
 
 “Tribunal” means the Tribunal for Anti-Sexual Harassment established under section 3.
 
-## Part II
+## PART II
 
 ## TRIBUNAL FOR ANTI-SEXUAL HARASSMENT
 
@@ -400,7 +408,7 @@ Award and order of Tribunal
 
 <!-- page 18 -->
 
-## Part III
+## PART III
 
 ## ADMINISTRATOR OF ANTI-SEXUAL HARASSMENT
 
@@ -422,7 +430,7 @@ Award and order of Tribunal
 
 (2) The Administrator shall have all such powers as may be necessary for, or in connection with, or incidental to, the performance of its functions under this Act.
 
-## Part IV
+## PART IV
 
 ## GENERAL
 
@@ -448,7 +456,7 @@ Award and order of Tribunal
 
 This Bill (“the proposed Act”) seeks to provide for a right of redress for any person who have been sexually harassed, the establishment of the Tribunal for Anti-Sexual Harassment, the promotion of awareness of sexual harassment, and to provide for related matters.
 
-## Part I
+## PART I
 
 2. Part I of the proposed Act deals with preliminary matters.
 
@@ -456,7 +464,7 @@ This Bill (“the proposed Act”) seeks to provide for a right of redress for a
 
 4. Clause 2 contains the definitions of certain words and expressions used in the proposed Act.
 
-## Part II
+## PART II
 
 5. Part II of the proposed Act contains four chapters relating to the establishment of the Tribunal for Anti-Sexual Harassment (“Tribunal”), jurisdiction of the Tribunal, conduct of proceedings of the Tribunal and award and order of the Tribunal.
 
@@ -560,7 +568,7 @@ Subclause 20(3) seeks to provide that the Tribunal may dismiss any complaint of 
 
 30. Clause 23 seeks to provide that any party to the proceedings of the Tribunal may apply to the High Court challenging an award in the proceedings only on the ground of serious irregularity affecting the award. If there is shown to be serious irregularity affecting the award, the High Court may remit the award in whole or in part to the Tribunal for reconsideration or set aside the award in whole or in part.
 
-## Part III
+## PART III
 
 31. Part III of the proposed Act contains provisions relating to the Administrator of Anti-Sexual Harassment.
 
@@ -568,7 +576,7 @@ Subclause 20(3) seeks to provide that the Tribunal may dismiss any complaint of 
 
 33. Clause 25 seeks to provide for the functions and powers of the Administrator of Anti-Sexual Harassment.
 
-## Part IV
+## PART IV
 
 34. Part IV of the proposed Act contains general provisions.
 

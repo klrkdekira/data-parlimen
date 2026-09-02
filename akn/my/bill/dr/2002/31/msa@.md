@@ -24,7 +24,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 2 -->
 
-2 Rang Undang-Undang
+<!-- marginal: 2 -->
+
+Rang Undang-Undang
 
 (ii) dengan menggantikan perenggan (c) dengan perenggan yang berikut:
 
@@ -72,4 +74,6 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Majlis Amanah Rakyat 1966 ("
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan. [PN(U2)2286]
+Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan.
+
+<!-- marginal: [PN(U2)2286] -->

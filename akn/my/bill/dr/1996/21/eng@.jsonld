@@ -244,7 +244,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@/~cl_18",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after paragraph (b) the following paragraph: \"(c) for a period of twelve months from the date of revocation of the driving licence under section 35, 35A, 41, 42, 43, 44, 45, 45A, 45B or 45c.\". Amendment"
+        "@value": "by inserting after paragraph (b) the following paragraph: \"(c) for a period of twelve months from the date of revocation of the driving licence under section 35, 35A, 41, 42, 43, 44, 45, 45A, 45B or 45c.\"."
       }
     },
     {
@@ -259,7 +259,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@",
       "schema:name": {
         "@language": "en",
-        "@value": "Section 29 of the principal Act is amended— of section"
+        "@value": "Section 29 of the principal Act is amended—"
       },
       "schema:text": {
         "@language": "en",
@@ -277,7 +277,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@/~cl_19",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (1)— \"(a) he has held a probationary driving licence for a period of two years and makes the application within one year after the expiry of that period;\";"
+        "@value": "in subsection (1)—"
       }
     },
     {
@@ -297,7 +297,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@/~cl_19__para_a",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for paragraph (a) the following paragraph:"
+        "@value": "by substituting for paragraph (a) the following paragraph: \"(a) he has held a probationary driving licence for a period of two years and makes the application within one year after the expiry of that period;\";"
       }
     },
     {
@@ -307,7 +307,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@/~cl_19",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after subsection (1) the following subsection: \"(1A) Notwithstanding the provision of this section, no driving licence shall be granted to any applicant unless he satisfies the Director that on the date on which he makes the application he has no outstanding matter or case with the Road Transport Department or the Police relating to any contravention of or offence against this Act or the Commercial Act 334. Vehicle Licensing Board Act 1987.\"; and"
+        "@value": "by inserting after subsection (1) the following subsection: \"(1A) Notwithstanding the provision of this section, no driving licence shall be granted to any applicant unless he satisfies the Director that on the date on which he makes the application he has no outstanding matter or case with the Road Transport Department or the Police relating to any contravention of or offence against this Act or the Commercial Vehicle Licensing Board Act 1987.\"; and"
       }
     },
     {
@@ -434,7 +434,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@/~cl_20",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after subsection (8) the following subsection: \"(9) For the purposes of this section, \"driving licence\" shall not include a probationary driving licence.\". New section"
+        "@value": "by inserting after subsection (8) the following subsection: \"(9) For the purposes of this section, \"driving licence\" shall not include a probationary driving licence.\"."
       }
     },
     {
@@ -448,7 +448,7 @@
       },
       "schema:text": {
         "@language": "en",
-        "@value": "35A. 35 the following section: \"Power of 35A. (1) Notwithstanding anything contained Director in this Act, the Director General shall revoke General to a probationary driving licence of a person if revoke a proba- within a period of twenty-four months from tionary the date of the grant of the probationary driving driving licence. licence such person's record, as kept by the Director General, as a driver of a motor vehicle, or his conduct or habits as such driver, establishes that it would not be in the interests of public safety for him to hold a valid driving licence or that such person is not competent to drive a motor vehicle. (2) For the purpose of establishing that it would not be in the interests of public safety for a person to hold a driving licence or that such person is not competent to drive a motor vehicle, the Minister may make rules establishing a system of awarding points against a person for the commission of an offence under this Act or any rules made thereunder: Provided that such rules may make provision for requiring any such person to undergo such course as the Director General may prescribe. (3) The rules made under subsection (2) shall specify the maximum number of points to be awarded against a person before it may be established that it would not be in the interests of public safety for him to hold a driving licence or that such person is not competent to drive a motor vehicle. (4) The power conferred upon the Director General by this section to revoke the driving licence of a person shall be exercised at such time after the maximum number of points referred to in subsection (3) has been awarded against such person as the Director General considers fit. (5) Where the person whose probationary driving licence has been revoked and is disqualified by an order of a court from holding or obtaining a driving licence for such period of time as may be specified in such order, every point awarded against him under the rules made under subsection (2) shall thereupon be cancelled (6) For the purposes of this section, a person shall be deemed to have committed an offence under this Act if he pays the prescribed penalty for that offence under section 119.\"."
+        "@value": "35A. 35 the following section: 35A. (1) Notwithstanding anything contained in this Act, the Director General shall revoke a probationary driving licence of a person if within a period of twenty-four months from the date of the grant of the probationary driving licence such person's record, as kept by the Director General, as a driver of a motor vehicle, or his conduct or habits as such driver, establishes that it would not be in the interests of public safety for him to hold a valid driving licence or that such person is not competent to drive a motor vehicle. (2) For the purpose of establishing that it would not be in the interests of public safety for a person to hold a driving licence or that such person is not competent to drive a motor vehicle, the Minister may make rules establishing a system of awarding points against a person for the commission of an offence under this Act or any rules made thereunder: Provided that such rules may make provision for requiring any such person to undergo such course as the Director General may prescribe. (3) The rules made under subsection (2) shall specify the maximum number of points to be awarded against a person before it may be established that it would not be in the interests of public safety for him to hold a driving licence or that such person is not competent to drive a motor vehicle. (4) The power conferred upon the Director General by this section to revoke the driving licence of a person shall be exercised at such time after the maximum number of points referred to in subsection (3) has been awarded against such person as the Director General considers fit. (5) Where the person whose probationary driving licence has been revoked and is disqualified by an order of a court from holding or obtaining a driving licence for such period of time as may be specified in such order, every point awarded against him under the rules made under subsection (2) shall thereupon be cancelled (6) For the purposes of this section, a person shall be deemed to have committed an offence under this Act if he pays the prescribed penalty for that offence under section 119.\"."
       }
     },
     {
@@ -600,7 +600,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@/~cl_22",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (4)— Amendment"
+        "@value": "in subsection (4)—"
       }
     },
     {
@@ -634,9 +634,9 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@/~cl_23__para_d"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@",
-      "schema:text": {
+      "schema:name": {
         "@language": "en",
-        "@value": "Section 38 of the principal Act is amended— of section 38."
+        "@value": "Section 38 of the principal Act is amended—"
       }
     },
     {
@@ -853,7 +853,7 @@
       },
       "schema:text": {
         "@language": "en",
-        "@value": "inserting after subsection (3) the following section: \"(4) Notwithstanding subsection (1), where a person who is a holder of a probationary driving licence is convicted under this section, the court shall thereupon revoke his driving licence.\". Amendment"
+        "@value": "inserting after subsection (3) the following section: \"(4) Notwithstanding subsection (1), where a person who is a holder of a probationary driving licence is convicted under this section, the court shall thereupon revoke his driving licence.\"."
       }
     },
     {
@@ -861,9 +861,13 @@
       "@type": "akn:clause",
       "eli:number": "29",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 45A of the principal Act is amended by"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Section 45A of the principal Act is amended by of section inserting after subsection (3) the following subsection: 45A. \"(4) Notwithstanding subsection (1), where a person who is a holder of a probationary driving licence is convicted under this section, the court shall thereupon revoke his driving licence.\". Amendment"
+        "@value": "inserting after subsection (3) the following subsection: 45A. \"(4) Notwithstanding subsection (1), where a person who is a holder of a probationary driving licence is convicted under this section, the court shall thereupon revoke his driving licence.\"."
       }
     },
     {
@@ -893,7 +897,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@/~cl_2",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after the definition of \"police officer\" the following definition: ' \"probationary driving licence\" means a licence for a probationary period of two years which is granted to any person who has passed the prescribed tests of competence;'. Amendment"
+        "@value": "by inserting after the definition of \"police officer\" the following definition: ' \"probationary driving licence\" means a licence for a probationary period of two years which is granted to any person who has passed the prescribed tests of competence;'."
       }
     },
     {
@@ -901,9 +905,13 @@
       "@type": "akn:clause",
       "eli:number": "3",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "The principal Act is amended by substituting for section of section 8. 8 the following section: \"Keeping 8. (1) A licensed registrar assigned to a of register. registration area shall keep and maintain a register of all motor vehicles registered under this Act in the registration area to which he is assigned. (2) Such register shall be in such form and contain such information, details and particulars as the Director General may from time to time direct.\". Amendment"
+        "@value": "8 the following section: \"Keeping 8. (1) A licensed registrar assigned to a of register. registration area shall keep and maintain a register of all motor vehicles registered under this Act in the registration area to which he is assigned. (2) Such register shall be in such form and contain such information, details and particulars as the Director General may from time to time direct.\"."
       }
     },
     {
@@ -917,7 +925,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@",
       "schema:name": {
         "@language": "en",
-        "@value": "Section 45B of the principal Act is amended— of section"
+        "@value": "Section 45B of the principal Act is amended—"
       },
       "schema:text": {
         "@language": "en",
@@ -941,7 +949,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@/~cl_30",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after subsection (4) the following subsections: \"(4A) On a second or subsequent conviction of an offence under this section, the offender shall, unless the court for special reasons thinks fit to order otherwise and without prejudice to the power of the court to order a longer period of disqualification, be disqualified for a period of not less than twelve months from the date of conviction from holding or obtaining a driving licence. (4B) Notwithstanding subsections (4) and (4A), where a person who is a holder of a probationary driving licence is convicted under this section, the court shall thereupon revoke his driving licence.\". Amendment"
+        "@value": "by inserting after subsection (4) the following subsections: \"(4A) On a second or subsequent conviction of an offence under this section, the offender shall, unless the court for special reasons thinks fit to order otherwise and without prejudice to the power of the court to order a longer period of disqualification, be disqualified for a period of not less than twelve months from the date of conviction from holding or obtaining a driving licence. (4B) Notwithstanding subsections (4) and (4A), where a person who is a holder of a probationary driving licence is convicted under this section, the court shall thereupon revoke his driving licence.\"."
       }
     },
     {
@@ -953,9 +961,9 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@/~cl_31__para_b"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@",
-      "schema:text": {
+      "schema:name": {
         "@language": "en",
-        "@value": "Section 45c of the principal Act is amended— of section 45c."
+        "@value": "Section 45c of the principal Act is amended—"
       }
     },
     {
@@ -965,7 +973,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@/~cl_31",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (6) by inserting after the words \"or to both\" the words \"and, in the case of a second or subsequent offence, to a fine not exceeding four thousand ringgit or imprisonment for a term not exceeding one year or to both\"; and"
+        "@value": "in subsection (6) by inserting after the words \"or to both\" the words \"and, in the case of a second or subsequent offence, to a fine not exceeding four thousand ringgit or to imprisonment for a term not exceeding one year or to both\"; and"
       }
     },
     {
@@ -1145,7 +1153,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@/~cl_33",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (3)— Amendment"
+        "@value": "in subsection (3)—"
       }
     },
     {
@@ -1173,9 +1181,13 @@
       "@type": "akn:clause",
       "eli:number": "34",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsections 59(3) and (6) of the principal Act is"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Subsections 59(3) and (6) of the principal Act is of section amended by substituting for the words \"Director of 59. wherever appearing the words \"licensed registrar assigned to\". Amendment"
+        "@value": "amended by substituting for the words \"Director of 59. wherever appearing the words \"licensed registrar assigned to\"."
       }
     },
     {
@@ -1189,7 +1201,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@",
       "schema:name": {
         "@language": "en",
-        "@value": "Subsection 66(1) of the principal Act is amended— of section"
+        "@value": "Subsection 66(1) of the principal Act is amended—"
       },
       "schema:text": {
         "@language": "en",
@@ -1213,7 +1225,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@/~cl_35",
       "schema:text": {
         "@language": "en",
-        "@value": "in paragraph (y) by deleting the words \"and learner's licences\". Amendment"
+        "@value": "in paragraph (y) by deleting the words \"and learner's licences\"."
       }
     },
     {
@@ -1221,9 +1233,13 @@
       "@type": "akn:clause",
       "eli:number": "36",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 102(2) of the principal Act is amended"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Subsection 102(2) of the principal Act is amended of section by substituting for the word \"Director\" the words \"licensed 102. registrar\". Amendment"
+        "@value": "by substituting for the word \"Director\" the words \"licensed 102. registrar\"."
       }
     },
     {
@@ -1231,9 +1247,13 @@
       "@type": "akn:clause",
       "eli:number": "37",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 117(3) of the principal Act is amended"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Subsection 117(3) of the principal Act is amended of section by substituting for the words \"or a Deputy Director\" 117. and \"or Deputy Director\" the words \", Deputy Director or licensed registrar\"."
+        "@value": "by substituting for the words \"or a Deputy Director\" 117. and \"or Deputy Director\" the words \", Deputy Director or licensed registrar\"."
       }
     },
     {
@@ -1269,9 +1289,13 @@
       "@type": "akn:clause",
       "eli:number": "4",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended in section 9 by"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "The principal Act is amended in section 9 by of section 9. substituting for the words \"Every Director\" the words \"A licensed registrar\". Amendment"
+        "@value": "substituting for the words \"Every Director\" the words \"A licensed registrar\"."
       }
     },
     {
@@ -1293,9 +1317,13 @@
       "@type": "akn:clause",
       "eli:number": "5",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended in section 10 by"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "The principal Act is amended in section 10 by of section substituting for the words \"the Director of a registration 10. area\" the words \"a licensed registrar\". Amendment"
+        "@value": "substituting for the words \"the Director of a registration 10. area\" the words \"a licensed registrar\"."
       }
     },
     {
@@ -1310,7 +1338,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@",
       "schema:name": {
         "@language": "en",
-        "@value": "Section 11 of the principal Act is amended— of section"
+        "@value": "Section 11 of the principal Act is amended—"
       },
       "schema:text": {
         "@language": "en",
@@ -1379,14 +1407,13 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@/~cl_6",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsections (3), (4) and (5) by substituting for the word \"Director\" wherever appearing the words \"licensed registrar\". New section"
+        "@value": "in subsections (3), (4) and (5) by substituting for the word \"Director\" wherever appearing the words \"licensed registrar\"."
       }
     },
     {
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@/~cl_7",
       "@type": "akn:clause",
       "eli:number": "7",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@/~cl_7__subsec_2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@",
       "schema:name": {
         "@language": "en",
@@ -1394,41 +1421,7 @@
       },
       "schema:text": {
         "@language": "en",
-        "@value": "11A. 11 the following section: 11A. (1) A person may propose his own \"Person may registration number but the proposed registration propose number shall be subject to subsection (2) and own registra- such terms and conditions as may be prescribed tion by the Director General. number."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@/~cl_7__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@/~cl_7__subsec_2__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@/~cl_7__subsec_2__para_b"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@/~cl_7",
-      "schema:text": {
-        "@language": "en",
-        "@value": "For the purposes of this section, the words \"registration number\" mean—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@/~cl_7__subsec_2__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@/~cl_7__subsec_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": "any combination of letters whether or not they constitute a word; or"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@/~cl_7__subsec_2__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@/~cl_7__subsec_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": "any combination of letters and numbers.\". Amendment"
+        "@value": "11A. 11 the following section: 11A. (1) A person may propose his own \"Person may registration number but the proposed registration propose number shall be subject to subsection (2) and own registra- such terms and conditions as may be prescribed tion by the Director General. number. (2) For the purposes of this section, the words \"registration number\" mean— (a) any combination of letters whether or not they constitute a word; or (b) any combination of letters and numbers.\"."
       }
     },
     {
@@ -1443,7 +1436,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@",
       "schema:name": {
         "@language": "en",
-        "@value": "Section 12 of the principal Act is amended— of section 12"
+        "@value": "Section 12 of the principal Act is amended—"
       }
     },
     {
@@ -1473,7 +1466,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@/~cl_8",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsections (3) and (4) by substituting for the word \"Director\" wherever appearing the words \"licensed registrar\". Amendment"
+        "@value": "in subsections (3) and (4) by substituting for the word \"Director\" wherever appearing the words \"licensed registrar\"."
       }
     },
     {
@@ -1481,9 +1474,13 @@
       "@type": "akn:clause",
       "eli:number": "9",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 13 of the principal Act is amended by"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Section 13 of the principal Act is amended by of section substituting for the words \"Director of a registration area\" 13. and \"Director\" wherever appearing the words \"licensed registrar\"."
+        "@value": "substituting for the words \"Director of a registration area\" 13. and \"Director\" wherever appearing the words \"licensed registrar\"."
       }
     }
   ]

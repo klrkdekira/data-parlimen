@@ -994,7 +994,29 @@ Provided that the expenditure incurred in the relevant period shall be deemed to
 
 ## TO THE INCOME TAX ACT 1967
 
-3. Commencement of amendments to the Income Tax Act 1967 4. Amendment of section 2 5. Amendment of section 6 6. Amendment of section 6A 7. Amendment of section 34 8. Amendment of section 44 9. Amendment of section 45A 10. Amendment of section 46 11. Amendment of section 47 12. Amendment of section 49 13. Amendment of section 61 14. New section 61A 15. Amendment of section 63A 16. Amendment of section 63B 17. New section 63c 18. Special provision relating to section 63c 19. New section 63D 20. Amendment of section 77
+3. Commencement of amendments to the Income Tax Act 1967 4. Amendment of section 2 5. Amendment of section 6 6. Amendment of section 6A 7. Amendment of section 34 8. Amendment of section 44 9. Amendment of section 45A
+
+10. Amendment of section 46
+
+11. Amendment of section 47
+
+12. Amendment of section 49
+
+13. Amendment of section 61
+
+14. New section 61A
+
+15. Amendment of section 63A
+
+16. Amendment of section 63B
+
+17. New section 63c
+
+18. Special provision relating to section 63c
+
+19. New section 63D
+
+20. Amendment of section 77
 
 <!-- page 35 -->
 
@@ -1300,9 +1322,7 @@ Provided that the Director General may—
 
 ### Amendment of Schedule 1
 
-27. Schedule 1 of the principal Act is amended by inserting after
-
-## Part IX the following Part:
+27. Schedule 1 of the principal Act is amended by inserting after Part IX the following Part:
 
 ## "PART X
 
@@ -1618,7 +1638,7 @@ This amendment is deemed to have come into operation on 11 September
 
 ## AMENDMENTS TO THE PETROLEUM (INCOME TAX| ACT 1967
 
-## Chapter III of this Bill seeks to amend the Petroleum (Income Tax) Act 1967.
+Chapter III of this Bill seeks to amend the Petroleum (Income Tax) Act 1967.
 
 25. Clause 35 seeks to amend section 2 of Act 543 to extend the meaning of "petroleum operations" to include any sale or disposal by Petroleum National Berhad within Malaysia of petroleum obtained from outside of Malaysia and also includes the transportation within Malaysia by any person of such petroleum to any point of sale or delivery.
 
@@ -1648,11 +1668,13 @@ This amendment is deemed to have come into operation on 11 September 2004.
 
 ## AMENDMENT TO THE STAMP ACT 1949
 
-## Chapter V of this Bill seeks to amend the Stamp Act 1949.
+Chapter V of this Bill seeks to amend the Stamp Act 1949.
 
 29. Clause 43 seeks to amend the First Schedule of Act 378 to provide for the exemption on any additional instrument executed for the purpose of complying with the Syariah principles.
 
-This amendment is deemed to have come into operation on 11 September 2004.
+This amendment is deemed to have come into operation on 11 September
+
+2004.
 
 ## GENERAL
 

@@ -10,9 +10,7 @@ BE IT ENACTED by the Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Ag
 
 <!-- marginal: Short title. -->
 
-1. This Act may be cited as the Sales Tax (Amendment) Act
-
-1990.
+1. This Act may be cited as the Sales Tax (Amendment) Act 1990.
 
 <!-- marginal: Amendment -->
 
@@ -48,9 +46,13 @@ immediately after the words "sales tax", the words ", or any person or class of 
 
 <!-- page 2 -->
 
-Substitution
+<!-- marginal: Substitution -->
 
-5. The principal Acf is amended by substituting for section 17 of section 17. the following;
+5. The principal Acf is amended by substituting for section 17
+
+<!-- marginal: of section 17. -->
+
+the following;
 
 "Invoices. 17. (1) Every taxable person who sells any taxable goods shall issue an invoice in the national language or in English to the purchaser in respect of the transaction, and shall state thereon the amount of sales tax payable separately to the prices for which the goods are sold.
 
@@ -62,9 +64,13 @@ Substitution
 
 (3) The amount of sales tax payable shall be recoverable by the taxable person from the purchaser in addition to the price and any other amount due by the purchaser in respect of the goods.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-6. Section 30 of the principal Act is amended by inserting, of section 30. immediately after subsection (1), the following new subsections
+6. Section 30 of the principal Act is amended by inserting,
+
+<!-- marginal: of section 30. -->
+
+immediately after subsection (1), the following new subsections
 
 (1A), (1B)and(1c);
 
@@ -130,6 +136,4 @@ This Bill seeks to amend the Sales Tax Act 1972 (hereinafter referred to as "the
 
 ## IMPLICATIONS
 
-This Bill will not involve the Government in any extra financial expenditure.
-
-<!-- marginal: [PN. (U2)1510.] -->
+This Bill will not involve the Government in any extra financial expenditure. [PN. (U2)1510.]

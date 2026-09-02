@@ -301,14 +301,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/33/msa@/~cl_2",
       "@type": "akn:clause",
       "eli:number": "2",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/33/msa@/~cl_2__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/33/msa@/~cl_2__para_b"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/33/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta Syarikat 2016 [Akta 777], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 2 dengan menggantikan takrif “pemunya benefisial” dengan takrif yang berikut: ‘ “pemunya benefisial” ertinya—"
+        "@value": "Akta Syarikat 2016 [Akta 777], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 2 dengan menggantikan takrif “pemunya benefisial” dengan takrif yang berikut: ‘ “pemunya benefisial” ertinya— (a) berhubung dengan syer, pemilik mutlak syer itu dan tidak termasuk penama bagi apa-apa perihalan; dan (b) berhubung dengan suatu syarikat, seseorang sebagaimana yang diperuntukkan dalam seksyen 60a;’. Penggal baharu 8a"
       }
     },
     {
@@ -508,26 +504,6 @@
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/33/msa@/~cl_2__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/33/msa@/~cl_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "berhubung dengan syer, pemilik mutlak syer itu dan tidak termasuk penama bagi apa-apa perihalan; dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/33/msa@/~cl_2__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/33/msa@/~cl_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "berhubung dengan suatu syarikat, seseorang sebagaimana yang diperuntukkan dalam seksyen 60a;’. Penggal baharu 8a"
-      }
-    },
-    {
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/33/msa@/~cl_3",
       "@type": "akn:clause",
       "eli:number": "3",
@@ -544,7 +520,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/33/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan memasukkan selepas Jadual Kesembilan jadual yang berikut: “Jadual Kesembilan a [Subseksyen 430a(4)] JENIS BARANGAN DAN PERKHIDMATAN PERLU 1. Bekalan air 2. Bekalan elektrik 3. Bekalan gas 4. Terminal pusat jualan 5. Perisian dan perkakasan komputer 6. Maklumat, nasihat dan bantuan teknikal yang berkaitan dengan penggunaan teknologi maklumat 7. Pemprosesan dan penyimpanan data 8. Penganjur laman sesawang”. Kecualian"
+        "@value": "Akta ibu dipinda dengan memasukkan selepas Jadual Kesembilan jadual yang berikut: “JADUAL KESEMBILAN A [Subseksyen 430a(4)] JENIS BARANGAN DAN PERKHIDMATAN PERLU 1. Bekalan air 2. Bekalan elektrik 3. Bekalan gas 4. Terminal pusat jualan 5. Perisian dan perkakasan komputer 6. Maklumat, nasihat dan bantuan teknikal yang berkaitan dengan penggunaan teknologi maklumat 7. Pemprosesan dan penyimpanan data 8. Penganjur laman sesawang”. Kecualian"
       }
     },
     {

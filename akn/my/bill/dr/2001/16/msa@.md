@@ -30,7 +30,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 2 -->
 
-2 Rang Undang-Undang
+<!-- marginal: 2 -->
+
+Rang Undang-Undang
 
 (b) dalam takrif "certificate of registration", dengan memotong perkataan "or deemed to be issued";
 
@@ -50,7 +52,35 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 3. Akta ibu dipinda dengan menggantikan seksyen 3 dengan seksyen yang berikut:
 
-''Registrar, 3. (1) The Chief Executive Officer of the Commission Deputy shall be the Registrar of Businesses. and Assistant Registrars (2) The Commission shall appoint on such terms and of Businesses, conditions as it may determine from amongst persons in inspectors, the employment of the Commission such number of Deputy etc. Registrars, Assistant Registrars, inspectors and other officers as may be necessary for the proper administration of this Act.
+<!-- marginal: ''Registrar, -->
+
+3. (1) The Chief Executive Officer of the Commission
+
+<!-- marginal: Deputy -->
+
+shall be the Registrar of Businesses.
+
+<!-- marginal: and -->
+
+<!-- marginal: Assistant -->
+
+<!-- marginal: Registrars -->
+
+(2) The Commission shall appoint on such terms and
+
+<!-- marginal: of -->
+
+<!-- marginal: Businesses, -->
+
+conditions as it may determine from amongst persons in
+
+<!-- marginal: inspectors, -->
+
+the employment of the Commission such number of Deputy
+
+<!-- marginal: etc. -->
+
+Registrars, Assistant Registrars, inspectors and other officers as may be necessary for the proper administration of this Act.
 
 (3) The persons holding office as Deputy Registrars, Assistant Registrars or inspectors and other officers in the office of the Registrar of Businesses immediately before the appointed date and who have opted to serve as employees of the Commission shall, on the appointed
 
@@ -108,7 +138,19 @@ date, be deemed to have been appointed Deputy Registrars, Assistant Registrars, 
 
 ### Seksyen baru 5A, 5B, 5C, 5D, 5E dan 5F
 
-7. Akta ibu dipinda dengan memasukkan selepas seksyen 5 seksyen yang berikut: " Renewal 5A. (1) An application for the renewal of the registration of of a business shall be made in the prescribed form and registration. manner to the Registrar within thirty days before the date of expiry of the registration or the previous renewal.
+7. Akta ibu dipinda dengan memasukkan selepas seksyen 5 seksyen yang berikut: "
+
+<!-- marginal: Renewal -->
+
+5A. (1) An application for the renewal of the registration
+
+<!-- marginal: of -->
+
+of a business shall be made in the prescribed form and
+
+<!-- marginal: registration. -->
+
+manner to the Registrar within thirty days before the date of expiry of the registration or the previous renewal.
 
 (2) Subject to subsection (3), upon receipt of an application for the renewal of the registration of a business and upon payment of the prescribed fee, the Registrar shall renew the registration of the business for a period which shall not exceed five years at each renewal.
 
@@ -118,7 +160,17 @@ date, be deemed to have been appointed Deputy Registrars, Assistant Registrars, 
 
 (5) The new expiry date shall be stated in the certificate of registration.
 
-Changes in 5B. (1) Whenever a change is made or occurs in any registered. of the particulars registered in respect of any associate particulars. of a business or of the business, that associate or, in the case of the particulars of the business, the person responsible for the business shall, within thirty days after the change is made or occurs, submit to the Registrar in the prescribed form the particulars of the change.
+<!-- marginal: Changes in -->
+
+5B. (1) Whenever a change is made or occurs in any
+
+<!-- marginal: registered. -->
+
+of the particulars registered in respect of any associate
+
+<!-- marginal: particulars. -->
+
+of a business or of the business, that associate or, in the case of the particulars of the business, the person responsible for the business shall, within thirty days after the change is made or occurs, submit to the Registrar in the prescribed form the particulars of the change.
 
 <!-- page 6 -->
 
@@ -132,11 +184,41 @@ Changes in 5B. (1) Whenever a change is made or occurs in any registered. of the
 
 the Registrar shall issue a new certificate of registration in respect of such business, and cancel the existing certificate of registration.
 
-Refusal to 5c. (1) Notwithstanding anything to the contrary in this register or Act, the Registrar shall refuse to register any business revocation of if the Registrar is satisfied that the business is likely to registration be used for unlawful purposes or any purpose prejudicial of, to or incompatible with the security of the Federation, business. public order or morality.
+<!-- marginal: Refusal to -->
+
+5c. (1) Notwithstanding anything to the contrary in this
+
+<!-- marginal: register or -->
+
+Act, the Registrar shall refuse to register any business
+
+<!-- marginal: revocation -->
+
+<!-- marginal: of -->
+
+if the Registrar is satisfied that the business is likely to
+
+<!-- marginal: registration -->
+
+be used for unlawful purposes or any purpose prejudicial
+
+<!-- marginal: of, -->
+
+to or incompatible with the security of the Federation,
+
+<!-- marginal: business. -->
+
+public order or morality.
 
 (2) Where a business has been registered, the Registrar shall revoke its registration if the Registrar is satisfied that the business is being used for unlawful purposes or any purpose prejudicial to or incompatible with the security of the Federation, public order or morality.
 
-Termination 5D. (1) Where a business registered under this Act has of business. been terminated, the person responsible for the business shall within thirty days of the termination notify the Registrar in the prescribed form of such termination.
+<!-- marginal: Termination -->
+
+5D. (1) Where a business registered under this Act has
+
+<!-- marginal: of business. -->
+
+been terminated, the person responsible for the business shall within thirty days of the termination notify the Registrar in the prescribed form of such termination.
 
 (2) Where a business terminates upon the death of an associate of the business and there is no surviving associate of the business or person responsible for the business, the personal representative or the next-of-kin of the deceased associate shall within four months from the date of such death notify the Registrar in the prescribed form of such termination.
 
@@ -146,13 +228,49 @@ Termination 5D. (1) Where a business registered under this Act has of business. 
 
 Pendaftaran Perniagaan (Pindaan) 7
 
-Removal of 5E. (1) Where the Registrar has reasonable cause to registered believe that any business registered under this Act is not business from being carried on, the Registrar may send to the person register. or persons registered as the associate or associates of the business a notice notifying the Registrar's intention to revoke the registration of the business and the Registrar shall give such person or persons an opportunity to make written representation on the intended revocation within thirty days from the date of service of the notice.
+<!-- marginal: Removal of -->
+
+5E. (1) Where the Registrar has reasonable cause to
+
+<!-- marginal: registered -->
+
+believe that any business registered under this Act is not
+
+<!-- marginal: business -->
+
+<!-- marginal: from -->
+
+being carried on, the Registrar may send to the person
+
+<!-- marginal: register. -->
+
+or persons registered as the associate or associates of the business a notice notifying the Registrar's intention to revoke the registration of the business and the Registrar shall give such person or persons an opportunity to make written representation on the intended revocation within thirty days from the date of service of the notice.
 
 (2) After the expiry of the period of thirty days provided for in subsection (1), if the Registrar receives a reply from such person or persons to the effect that such person or persons are not carrying on such business, or the Registrar does not receive any reply to the notice, the Registrar shall revoke the registration of the business and cancel the certificate of registration.
 
 (3) The Registrar shall publish in the Gazette such particulars as the Registrar thinks fit of any person the registration of whose business has been revoked under this section.
 
-Certificate 5F. A certificate of registration having a registration of number, and carrying the applicant's name or business registration is name, issued under this Act by the Registrar shall be conclusive conclusive evidence that all the requirements of this Act evidence. in respect of the registration and matters precedent and incidental to such registration have been complied with, and the business referred to in such certificate is duly registered under this Act.".
+<!-- marginal: Certificate -->
+
+5F. A certificate of registration having a registration
+
+<!-- marginal: of -->
+
+number, and carrying the applicant's name or business
+
+<!-- marginal: registration -->
+
+<!-- marginal: is -->
+
+name, issued under this Act by the Registrar shall be
+
+<!-- marginal: conclusive -->
+
+conclusive evidence that all the requirements of this Act
+
+<!-- marginal: evidence. -->
+
+in respect of the registration and matters precedent and incidental to such registration have been complied with, and the business referred to in such certificate is duly registered under this Act.".
 
 ### Pindaan seksyen 9
 
@@ -216,21 +334,57 @@ Pendaftaran Perniagaan (Pindaan)
 
 <!-- page 10 -->
 
-10 Rang Undang-Undang
+<!-- marginal: 10 -->
+
+Rang Undang-Undang
 
 ### Seksyen baru 12A
 
-13. Akta ibu dipinda dengan memasukkan selepas seksyen 12 seksyen yang berikut: " General 12A. Any person who is guilty of an offence under this penalty. Act or any rules made under this Act for which no penalty is expressly provided for shall on conviction be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding one year or to both.".
+13. Akta ibu dipinda dengan memasukkan selepas seksyen 12 seksyen yang berikut: "
+
+<!-- marginal: General -->
+
+12A. Any person who is guilty of an offence under this
+
+<!-- marginal: penalty. -->
+
+Act or any rules made under this Act for which no penalty is expressly provided for shall on conviction be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding one year or to both.".
 
 ### Pindaan seksyen 13
 
-14. Akta ibu dipinda dengan menggantikan seksyen 13 dengan seksyen yang berikut: " Institution 13. No prosecution for or in relation to any offence of under this Act shall be instituted except by or with the prosecu- tion. written consent of the Public Prosecutor.".
+14. Akta ibu dipinda dengan menggantikan seksyen 13 dengan seksyen yang berikut: "
+
+<!-- marginal: Institution -->
+
+13. No prosecution for or in relation to any offence
+
+<!-- marginal: of -->
+
+under this Act shall be instituted except by or with the
+
+<!-- marginal: prosecu- -->
+
+<!-- marginal: tion. -->
+
+written consent of the Public Prosecutor.".
 
 ### Pindaan seksyen 14
 
 15. Akta ibu dipinda dengan menggantikan seksyen 14 dengan seksyen yang berikut:
 
-"Com- 14. (1) The Registrar may compound any offence pounding committed by any person under this Act or any rules of offences. made under this Act by making a written offer to the person to compound the offence upon payment by that person of a sum of money not exceeding fifty per centum of the amount of the maximum fine.
+<!-- marginal: "Com- -->
+
+14. (1) The Registrar may compound any offence
+
+<!-- marginal: pounding -->
+
+committed by any person under this Act or any rules
+
+<!-- marginal: of -->
+
+<!-- marginal: offences. -->
+
+made under this Act by making a written offer to the person to compound the offence upon payment by that person of a sum of money not exceeding fifty per centum of the amount of the maximum fine.
 
 (2) An offer under subsection (1) may be made at any time after the offence has been committed but before any prosecution for it has been instituted.
 
@@ -250,11 +404,47 @@ Pendaftaran Perniagaan (Pindaan)
 
 ### Seksyen baru 18A
 
-17. Akta ibu dipinda dengan memasukkan selepas seksyen 18 seksyen yang berikut: " Service of 18A. Any notice, certificate or other document required notice, to be given or served under this Act or the rules made etc under this Act shall be deemed to have been duly given or served if sent by registered post to the registered principal place of business of the person to whom it is addressed.".
+17. Akta ibu dipinda dengan memasukkan selepas seksyen 18 seksyen yang berikut: "
+
+<!-- marginal: Service of -->
+
+18A. Any notice, certificate or other document required
+
+<!-- marginal: notice, -->
+
+to be given or served under this Act or the rules made
+
+<!-- marginal: etc -->
+
+under this Act shall be deemed to have been duly given or served if sent by registered post to the registered principal place of business of the person to whom it is addressed.".
 
 ### Pindaan seksyen 19
 
-18. Akta ibu dipinda dengan menggantikan seksyen 19 dengan seksyen yang berikut: " Request 19. (1) The Registrar may on the request of any person, for copy and upon payment of such fees as may be prescribed, of certify a copy of a certificate of registration issued to certificate of any person or a copy of or an extract from any document registration, filed with the Registrar. etc
+18. Akta ibu dipinda dengan menggantikan seksyen 19 dengan seksyen yang berikut:
+
+<!-- marginal: " Request -->
+
+19. (1) The Registrar may on the request of any person,
+
+<!-- marginal: for copy -->
+
+and upon payment of such fees as may be prescribed,
+
+<!-- marginal: of -->
+
+certify a copy of a certificate of registration issued to
+
+<!-- marginal: certificate -->
+
+<!-- marginal: of -->
+
+any person or a copy of or an extract from any document
+
+<!-- marginal: registration, -->
+
+filed with the Registrar.
+
+<!-- marginal: etc -->
 
 (2) Any copy or extract if duly certified under the hand of the Registrar to be a true copy or extract under subsection (1) shall be admissible as prima facie evidence
 
@@ -268,7 +458,19 @@ in any proceedings without proof being given that the certificate was signed by 
 
 ### Seksyen baru 22A
 
-20. Akta ibu dipinda dengan memasukkan selepas seksyen 22 seksyen yang berikut: " Electronic 22A. (1) The Registrar may provide a service for the filing of electronic filing or lodging of documents required by documents. this Act to be filed or lodged with the Registrar.
+20. Akta ibu dipinda dengan memasukkan selepas seksyen 22 seksyen yang berikut: "
+
+<!-- marginal: Electronic -->
+
+22A. (1) The Registrar may provide a service for the
+
+<!-- marginal: filing of -->
+
+electronic filing or lodging of documents required by
+
+<!-- marginal: documents. -->
+
+this Act to be filed or lodged with the Registrar.
 
 (2) A person who intends to use the service provided under subsection (1) shall become a subscriber to the service by paying the prescribed fee and by complying with such terms and conditions as may be determined by the Registrar.
 

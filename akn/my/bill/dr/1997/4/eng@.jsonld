@@ -53,21 +53,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/4/eng@/~cl_2",
       "@type": "akn:clause",
       "eli:number": "2",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/4/eng@/~cl_2__subsec_1",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/4/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "Section 6 of the Offshore Insurance Act 1990, which in this Act is referred to as the \"principal Act\", is amended by substituting for the words \"one million ringgit\" in subparagraph"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/4/eng@/~cl_2__subsec_1",
-      "@type": "akn:subsection",
-      "eli:number": "1",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/4/eng@/~cl_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": "(b)(iii) the words \"three hundred thousand ringgit\"."
+        "@value": "Section 6 of the Offshore Insurance Act 1990, which in this Act is referred to as the \"principal Act\", is amended by substituting for the words \"one million ringgit\" in subparagraph (1)(b)(iii) the words \"three hundred thousand ringgit\"."
       }
     },
     {

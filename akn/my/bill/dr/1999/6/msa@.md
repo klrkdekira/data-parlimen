@@ -14,7 +14,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Tajuk ringkas dan permulaan kuat kuasa
 
-1. (1) Akta ini bolehlah dinamakan Akta Cukai Jualan (Pindaan) 1999.
+1. (1) Akta ini bolehlah dinamakan Akta Cukai Jualan (Pindaan)
+
+1999.
 
 (2) Akta ini hendaklah mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta, dan Menteri boleh menetapkan tarikh yang berlainan bagi peruntukan yang berlainan dalam Akta ini.
 
@@ -70,9 +72,7 @@ arahan itu dan orang kena cukai tunggal itu tidak boleh terus menjalankan aktivi
 
 (a) tarikh orang itu mula mengilang barang-barang kena cukai itu; atau
 
-(b) jika tarikh arahan sebelumnya adalah lebih kemudian daripada tarikh yang disebut dalam perenggan (a), tarikh yang mulai darinya orang kena cukai tunggal yang disebut dalam arahan sebelumnya itu dilesenkan
-
-<!-- marginal: di -->
+(b) jika tarikh arahan sebelumnya adalah lebih kemudian daripada tarikh yang disebut dalam perenggan (a), tarikh yang mulai darinya orang kena cukai tunggal yang disebut dalam arahan sebelumnya itu dilesenkan di
 
 <!-- marginal: bawah -->
 
@@ -128,7 +128,9 @@ tambahan yang berhubungan dengan perniagaan itu (sebagai orang yang bersama-sama
 
 7. Akta ibu dipinda dengan memasukkan selepas seksyen 17 seksyen yang berikut:
 
-1 7 A. (1) Tertakluk kepada subseksyen (2), bagi maksud mana-mana peruntukan di bawah Akta ini berhubung dengan invois, seseorang orang kena cukai hendaklah dianggap telah mengeluarkan suatu invois kepada seseorang pembeli walaupun tiada apa-apa dokumen yang bersamaan dalam bentuk kertas telah diserahkan kepada pembeli itu jika maklumat yang dikehendaki telah dirakamkan dalam komputer dan—
+<!-- marginal: 1 -->
+
+7 A. (1) Tertakluk kepada subseksyen (2), bagi maksud mana-mana peruntukan di bawah Akta ini berhubung dengan invois, seseorang orang kena cukai hendaklah dianggap telah mengeluarkan suatu invois kepada seseorang pembeli walaupun tiada apa-apa dokumen yang bersamaan dalam bentuk kertas telah diserahkan kepada pembeli itu jika maklumat yang dikehendaki telah dirakamkan dalam komputer dan—
 
 (a) dihantar kepada pembeli dengan cara elektronik; atau
 
@@ -174,7 +176,9 @@ bagi jualan barang-barang kena cukai itu.
 
 <!-- page 9 -->
 
-(5) Subseksyen (4) hendaklah juga terpakai jika—
+(5) Subseksyen (4) hendaklah juga terpakai
+
+<!-- marginal: jika— -->
 
 (a) invois itu, yang menyatakan suatu amaun yang berupa sebagai cukai jualan yang boleh dikenakan, bukan suatu invois yang dikeluarkan di bawah seksyen 17 atau
 
@@ -184,11 +188,11 @@ bagi jualan barang-barang kena cukai itu.
 
 dan apa-apa amaun yang berupa sebagai cukai jualan hendaklah dibayar dengan serta-merta oleh orang itu dan, jika dia ingkar membayarnya, boleh didapatkan sebagai hutang sivil yang kena dibayar kepada Kerajaan.".
 
-### Pindaan seksyen 24
+<!-- marginal: Pindaan seksyen 24 -->
 
 9. Perenggan 24(b) Akta ibu dipinda dengan menggantikan perkataan "dua" dengan perkataan "sepuluh".
 
-### Pindaan seksyen 26
+<!-- marginal: Pindaan seksyen 26 -->
 
 10. Seksyen 26 Akta ibu dipinda—
 
@@ -224,15 +228,15 @@ hendaklah membayar cukai jualan, penalti atau wang lain, atau cukai jualan, pena
 
 (c) dengan memasukkan selepas subseksyen (1) subseksyen yang berikut:
 
-"(1AA) Tanpa menjejaskan subseksyen (1), apa-apa barang kepunyaan orang yang disebut dalam subseksyen (1) yang mungkin berada dalam kawalan Eksais atau Kastam atau di suatu tempat atau tempat-tempat yang dinyatakan dalam lesen yang dikeluarkan di bawah seksyen 13 boleh disita sehingga cukai jualan, penalti atau wang lain, atau cukai jualan, penalti atau wang lain yang terkurang dibayar itu, telah dibayar, atau pulangan balik yang tersilap dibayar kepadanya itu dibayar balik.";
+"(1AA) Tanpa menjejaskan subseksyen (1), apa-apa barang kepunyaan orang yang disebut dalam subseksyen
+
+(1) yang mungkin berada dalam kawalan Eksais atau Kastam atau di suatu tempat atau tempat-tempat yang dinyatakan dalam lesen yang dikeluarkan di bawah seksyen 13 boleh disita sehingga cukai jualan, penalti atau wang lain, atau cukai jualan, penalti atau wang lain yang terkurang dibayar itu, telah dibayar, atau pulangan balik yang tersilap dibayar kepadanya itu dibayar balik.";
 
 fd) dengan menggantikan subseksyen (1 A) dengan subseksyen yang berikut:
 
-"(1A) Ketua Pengarah boleh membenarkan cukai jualan atau penalti yang disebut di dalam subseksyen (1) dibayar secara ansuran, dalam hal keadaan yang ditetapkan melalui peraturan-peraturan yang dibuat di bawah Akta ini, dalam amaun dan pada tarikh yang boleh ditentukan olehnya; dan jika amaun cukai jualan itu dibenarkan dibayar secara ansuran di bawah subseksyen ini, seksyen 24(b) tidaklah terpakai bagi amaun itu mulai dari
+"(1A) Ketua Pengarah boleh membenarkan cukai jualan atau penalti yang disebut di dalam subseksyen
 
-<!-- marginal: tarikh Ketua Pengarah -->
-
-membenarkan pembayaran dengan ansuran itu.";
+(1) dibayar secara ansuran, dalam hal keadaan yang ditetapkan melalui peraturan-peraturan yang dibuat di bawah Akta ini, dalam amaun dan pada tarikh yang boleh ditentukan olehnya; dan jika amaun cukai jualan itu dibenarkan dibayar secara ansuran di bawah subseksyen ini, seksyen 24(b) tidaklah terpakai bagi amaun itu mulai dari tarikh Ketua Pengarah membenarkan pembayaran dengan ansuran itu.";
 
 (e) dalam subseksyen (1B)— (i) dengan menggantikan perkataan "ditambah dengan satu jumlah" dengan perkataan "dikenakan surcaj"; dan (ii) dengan menggantikan perkataan "jumlah itu" dengan perkataan "surcaj itu";
 
@@ -264,15 +268,15 @@ Seksyen baru 43A
 
 18. Akta ibu dipinda dengan memasukkan selepas seksyen 43 seksyen yang berikut:
 
-cukai 43A. (1) Mana-mana orang yang dengan sengaja an. bertujuan hendak lari cukai jualan atau menolong mana- mana orang lain untuk lari cukai jualan —
+cukai 43A. (1) Mana-mana orang yang dengan sengaja
+
+<!-- marginal: an. -->
+
+bertujuan hendak lari cukai jualan atau menolong mana- mana orang lain untuk lari cukai jualan —
 
 (a) meninggalkan daripada suatu penyata yang dibuat di bawah Akta ini atau mana-mana peraturan yang dibuat di bawah Akta ini apa-apa maklumat yang berhubung dengan apa-apa perkara yang menyentuh amaun yang boleh dikenakan ke atasnya atau orang lain itu sebagai cukai jualan;
 
-(b) membuat apa-apa pernyataan atau catatan palsu dalam mana-mana penyata,
-
-<!-- marginal: tuntutan atau -->
-
-permohonan yang dibuat di bawah Akta ini atau mana-mana peraturan yang dibuat di bawah Akta ini;
+(b) membuat apa-apa pernyataan atau catatan palsu dalam mana-mana penyata, tuntutan atau permohonan yang dibuat di bawah Akta ini atau mana-mana peraturan yang dibuat di bawah Akta ini;
 
 (c) memberikan apa-apa jawapan palsu, sama ada secara lisan atau bertulis, kepada apa-apa soalan atau permintaan untuk mendapatkan maklumat yang ditanyakan atau dibuat menurut Akta ini atau mana- mana peraturan yang dibuat di bawah Akta ini;
 

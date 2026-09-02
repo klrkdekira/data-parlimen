@@ -32,17 +32,19 @@ contravening the provisions of subsection (2), be liable to whipping of not more
 
 4. Subsection 16(2) of the principal Act is amended by
 
-### Amendment
+<!-- marginal: Amendment -->
 
-### of section
+<!-- marginal: of section -->
 
 substituting for the words "person who is licensed to
 
 16. sell by retail poisons" the words "licensed pharmacist".
 
-### Amendment
+<!-- marginal: Amendment -->
 
-5. Paragraph 37(da) of the principal Act is amended— of section
+5. Paragraph 37(da) of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 37.
 
@@ -102,9 +104,13 @@ weight of N-methyl-l-(3, 4- methylenedioxyphenyl)-2-butanamine;
 
 <!-- page 4 -->
 
-### Amendment
+<!-- marginal: Amendment -->
 
-7. The principal Act is amended by substituting for section of section 38B the following section:
+7. The principal Act is amended by substituting for section
+
+<!-- marginal: of section -->
+
+38B the following section:
 
 38B.
 
@@ -112,11 +118,11 @@ weight of N-methyl-l-(3, 4- methylenedioxyphenyl)-2-butanamine;
 
 (2) A person required to undergo supervision under subsection (1) shall be deemed to have been placed under such supervision under paragraph (b) of subsection (1) of section 6 of the Drug Dependants (Treatment and Rehabilitation) Act 1983.".
 
-Amendment
+<!-- marginal: Amendment -->
 
 8. Section 39A of the principal Act is amended—
 
-### of section
+<!-- marginal: of section -->
 
 39A.
 
@@ -136,23 +142,23 @@ Amendment
 
 <!-- page 5 -->
 
-(p) 5 grammes or more but less than 30 grammes in weight of Dimethoxybromoamphetamine (DOB);
+(p) 5 grammes or more but less than 30 grammes in weight of Dimethoxybromoamphetamine
+
+(DOB);
 
 (q) 5 grammes or more but less than 30 grammes in weight of 2,5- Dimethoxy-4-ethylamphetamine
 
-## (DOET);
+(DOET);
 
 (r) 5 grammes or more but less than 30 grammes in weight of Methamphetamine;
 
-(s) 5 grammes or more but less than 30 grammes
-
-<!-- marginal: in -->
-
-weight of 5-Methoxy-3, 4- Methylenedioxy amphetamine
+(s) 5 grammes or more but less than 30 grammes in weight of 5-Methoxy-3, 4- Methylenedioxy amphetamine
 
 ## (MMDA);
 
-(t) 5 grammes or more but less than 30 grammes in weight of Methylenedioxyamphetamine (MDA);
+(t) 5 grammes or more but less than 30 grammes in weight of Methylenedioxyamphetamine
+
+(MDA);
 
 (u) 5 grammes or more but less than 30 grammes in weight of N-ethyl MDA;
 
@@ -162,9 +168,11 @@ weight of 5-Methoxy-3, 4- Methylenedioxy amphetamine
 
 (x) 5 grammes or more but less than 30 grammes in weight of 3, 4- Methylenedioxymethamphetamine
 
-## (MDMA);
+(MDMA);
 
-(y) 5 grammes or more but less than 30 grammes in weight of Paramethoxyamphetamine (PMA); or
+(y) 5 grammes or more but less than 30 grammes in weight of Paramethoxyamphetamine
+
+(PMA); or
 
 <!-- page 6 -->
 
@@ -182,27 +190,25 @@ weight of 5-Methoxy-3, 4- Methylenedioxy amphetamine
 
 (n) 30 grammes or more in weight of Amphetamine;
 
-(o) 30 grammes or more in weight of 2,5-Dimethoxyamphetamine (DMA);
+(o) 30 grammes or more in weight of 2,5-Dimethoxyamphetamine
 
-(p) 30 grammes or more in weight of Dimethoxybromoamphetamine (DOB);
+(DMA);
 
-(q) 30 grammes or more
+(p) 30 grammes or more in weight of Dimethoxybromoamphetamine
 
-<!-- marginal: in -->
+(DOB);
 
-weight of 2, 5-Dimethoxy-4- ethylamphetamine (DOET);
+(q) 30 grammes or more in weight of 2, 5-Dimethoxy-4- ethylamphetamine (DOET);
 
 (r) 30 grammes or more in weight of Methamphetamine;
 
-(s) 30 grammes or more
+(s) 30 grammes or more in weight of 5-Methoxy-3,4- Methylenedioxy amphetamine
 
-<!-- marginal: in -->
+(MMDA);
 
-weight of 5-Methoxy-3,4- Methylenedioxy amphetamine
+(t) 30 grammes or more in weight of Methylenedioxyamphetamine
 
-## (MMDA);
-
-(t) 30 grammes or more in weight of Methylenedioxyamphetamine (MDA);
+(MDA);
 
 <!-- page 7 -->
 

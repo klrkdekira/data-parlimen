@@ -392,9 +392,7 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Suruhanjaya Sekuriti 1993 ("
 
 3. Fasal 2 bertujuan untuk meminda seksyen 2 Akta 498 untuk meminda atau memotong ungkapan tertentu supaya selaras dengan ungkapan yang digunakan dalam Akta Pasaran Modal dan Perkhidmatan 2007.
 
-4. Fasal 3 dan 4 masing-masing bertujuan untuk memotong seksyen 2B dan 2c Akta 498 kerana kedua-dua peruntukan itu kini diperuntukkan dalam
-
-## Bahagian VI dan subseksyen 378(3) Akta Pasaran Modal dan Perkhidmatan
+4. Fasal 3 dan 4 masing-masing bertujuan untuk memotong seksyen 2B dan 2c Akta 498 kerana kedua-dua peruntukan itu kini diperuntukkan dalam Bahagian VI dan subseksyen 378(3) Akta Pasaran Modal dan Perkhidmatan
 
 2007.
 
@@ -440,4 +438,6 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Suruhanjaya Sekuriti 1993 ("
 
 ## 1MPLIKASI KEWANGAN
 
-Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN(U2)2595]
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
+
+<!-- marginal: [PN(U2)2595] -->

@@ -1,0 +1,2672 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-14-2015",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_44",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_45",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_46",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_47",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_48",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_49",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_50",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_51",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_52",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_53",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_54",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_55",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_56",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_57",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_58",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_59",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_60",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_61",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_62",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_63",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Securities Commission (Amendment) Bill 2015"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 5 the following section: “Disqualification of Board members 5. (1) No person shall be appointed to be or remain as a member of the Board if he— (a) is or becomes a full-time officer in any public listed company; (b) is or becomes an officer or a director of an entity that is licensed, registered, recognized or approved under the securities laws; (c) is or becomes a member of the Senate or House of Representatives or any Legislative Assembly; (d) is convicted of a criminal offence involving fraud, dishonesty, corruption or violence; (e) is or becomes a bankrupt or suspends payment or compounds with his creditors; or (f) is or becomes involved in any activity which may interfere with his independence in discharging his functions. (2) The prohibition in paragraph (a) shall not apply to a member of the Board who is from the Ministry that is charged with the responsibility for finance.”. Substitution of section 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 6 the following section: “Tenure of office 6. (1) The Chairman shall be appointed for a term of three years and shall be eligible for reappointment for the same term. (2) The Deputy Chief Executive and any other member of the Board shall be appointed for a term of two years and shall be eligible for reappointment for the same term.”. Substitution of section 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 7 the following section: “Resignation 7. A member of the Board may, at any time, resign his office by giving notice in writing to the Minister.”. Substitution of section 8"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 8 the following section: “Revocation of appointment 8. The Minister may, at any time, revoke the appointment of a member of the Board if the member— (a) becomes of unsound mind or otherwise becomes incapable of discharging his functions; (b) is absent from three consecutive meetings of the Board, in the case of the Chairman, without leave of the Minister and in the case of the Deputy Chief Executive or other members of the Board, without leave of the Chairman; (c) conducts himself in such a way as to bring disrepute to the Commission; (d) fails to comply with his obligations under section 13; or (e) is disqualified under section 5.”. Amendment of section 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 9 of the principal Act is amended by substituting for the word “Commission” wherever appearing the word “Board”. Amendment of section 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_15__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 10 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “Commission” wherever appearing the word “Board”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: “(1a) The Chairman shall preside at all meetings of the Board.”. Substitution of section 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 11 the following section: “Board may invite others to meeting 11. The Board may invite any person to attend any meeting or deliberation of the Board for the purpose of advising the Board on any matter under discussion, but the person so invited shall not be entitled to vote at the said meeting or deliberation.”. Amendment of section 13"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_17__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_17__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_17__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_17__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 13 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_17__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: “(1) A member of the Board or any member of the Board committee who has or acquires a direct or indirect interest in relation to any matter under discussion by the Board or Board committee shall disclose to the Board or Board committee, as the case may be, the existence of his interest and the nature of that interest.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the words “Commission or committee” wherever appearing the words “Board or Board committee”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_17__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4), by substituting for the words “Commission or committee” wherever appearing the words “Board or Board committee”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_17__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (5), by substituting for the words “Commission or committee” wherever appearing the words “Board or Board committee”. Amendment of section 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_18__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 14 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words “Commission or committee” the words “Board or Board committee”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (2) the following subsection: “(2) Every meeting of the Board or Board committee in respect of the proceedings of which minutes have been so made shall be deemed to have been duly convened and held and all members thereat to have been duly qualified to act.”. Amendment of section 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19__para_l",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19__para_m",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19__para_n",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19__para_o"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 15 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by substituting for the words “securities and derivatives industries” the words “the capital market”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by substituting for the words “securities and derivatives” the words “the capital market”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (e), by inserting after the words “unit trust schemes” the words “and private retirement schemes”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (f), by substituting for the words “exchange holding company, exchange” the words “exchange holding company, stock exchange, derivatives exchange”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (g), by substituting for the words “securities and derivatives markets” the words “capital market”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19__para_f__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19__para_f__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (i)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19__para_f__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19__para_f",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “dealings in securities and dealing in derivatives” the words “the capital market”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19__para_f__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19__para_f",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “securities or derivatives” the words “the capital market”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (j), by substituting for the words “law relating to securities and derivatives” the words “securities laws”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (k), by substituting for the words “securities and derivatives markets” the words “the capital market”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (l), by substituting for the words “market bodies in the securities and derivatives industries” the words “market institutions in the capital market”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (m), by substituting for the words “authorize and supervise” the words “authorize, approve and supervise”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (n), by substituting for the words “in the securities and derivatives industries” the words “, registered persons, approved persons and participants in the capital market”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (o) the following paragraph: “ (o) to register or recognize all auditors of public interest entities or schedule funds for the purposes of this Act, and to exercise oversight over any person who prepares a report in relation to financial information of public interest entities or schedule funds, in relation to capital market activities;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19__para_m",
+      "@type": "akn:paragraph",
+      "eli:number": "m",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (o) the following paragraph: “ (oa) to promote confidence in the quality and reliability of audited financial statements in Malaysia, and to promote and develop an effective and robust audit oversight framework in Malaysia;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19__para_n",
+      "@type": "akn:paragraph",
+      "eli:number": "n",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (p), by substituting for the words “securities and derivatives markets” the words “capital market”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19__para_o",
+      "@type": "akn:paragraph",
+      "eli:number": "o",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (r), by substituting for the words “ securities and derivatives markets;” the words “capital market.”. Amendment of section 17"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Securities Commission (Amendment) Act 2015."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_1__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_1__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette, and the Minister may appoint different dates for the coming into operation of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_1__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_1__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "different provisions of this Act; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_1__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_1__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all or different provisions of this Act in respect of different classes or categories of persons or capital market products, including Islamic capital market products. General amendment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Securities Commission Act 1993 [Act 498], which is referred to as the “principal Act” in this Act, is amended by inserting after the words “Securities Commission” wherever appearing the word “Malaysia” including in the long title, short title, Parts and shoulder notes of the principal Act. Change in reference to short title of principal Act"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_20__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_20__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_20__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_20__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 17 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_20__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the shoulder note the following shoulder note: “Delegation of Board’s and Chairman’s functions”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_20__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: “(1) The Board may delegate any of its functions to— (a) any of the members of the Board; (b) any Board committee established by the Board; or (c) any officer of the Commission.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_20__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: “(1a) The Chairman may delegate any of his functions to— (a) any committee established by the Chairman; or (b) any officer of the Commission.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_20__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the word “Commission” the words “Board or Chairman”. Amendment of section 18"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_21__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_21__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_21__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_21__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_21__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 18 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_21__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the words “Commission may establish” the word “Board”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_21__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words “The Commission may establish such committee as it considers necessary or expedient to assist it” the words “The Board may establish such committee, in any form and by whatever name called, as the Board considers fit or necessary to assist the Board”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_21__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (2) the following subsection: “(2) A Board committee established under subsection (1) may comprise— (a) any Board member; and (b) any other person, as may be appointed by the Board.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_21__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsections: “(2a) In appointing a person under paragraph (2)(b), the Board shall have regard to the person’s integrity, reputation, knowledge, skills and experience, which will enable him to discharge his functions as a member of the Board committee. (2b) The functions of a Board committee established under subsection (1) shall be determined by the Board.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_21__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsections (3), (4), (5), (6) and (7). New section 18a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 18 the following section: “Procedures of Board committee 18a. (1) The Board committee may elect any of its members to be the chairman and may regulate its own procedure and, in the exercise of its powers under this subsection, such committee shall be subject to and act in accordance with any direction given to the Board committee by the Board. (2) Meetings of the Board committee established under section 18 shall be held at such time, place and in such manner as the chairman of the Board committee may, subject to subsection (1), determine. (3) The Board committee may invite any person to attend any meeting of the Board committee for the purpose of advising the Board committee on any matter under discussion but the person so invited shall not be entitled to vote at any such meeting. (4) The members of the Board committee or any person invited to attend any meeting of the Board committee may be paid such allowances and other expenses as the Board may determine.”. Amendment of section 20"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_23__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_23__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 20 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_23__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by deleting the words “and servants”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_23__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by deleting the words “and servants”. Substitution of section 21"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 21 the following section: “Commission may issue policies on discipline and ethical behaviour 21. The Commission may, from time to time, issue policies with respect to discipline and ethical behaviour, by whatever name called or in any form, for officers of the Commission or any business stakeholders dealing with the Commission.”. Amendment of section 22"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_25__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_25__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_25__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 22 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_25__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by deleting the words “and servants”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_25__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by deleting the words “and servants”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_25__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by deleting the words “and servants”. Substitution of section 22a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 22a the following section: “Commission may establish or participate in body corporate 22a. (1) The Commission may, with the approval of the Minister, establish or participate in any body corporate for the purpose of promoting research and training in relation to the capital market, or for the purpose of carrying out its functions under this Act. (2) The Commission may— (a) receive a grant or donation; (b) make a grant or donation; or (c) provide any other form of assistance, for the establishment or operations of the body corporate under subsection (1). (3) Monies received under paragraph (2)(a) shall be kept in a designated trust account. (4) The Commission shall disburse the monies in the designated trust account to the person entitled in accordance with the purpose for which the monies were received by the Commission. (5) Where the Commission establishes a body corporate under subsection (1), the Commission may take any action or do all such things as may be necessary or expedient for— (a) the interest of the public or for the protection of investors; (b) the effective administration of the securities laws; or (c) ensuring compliance with any conditions or restrictions as imposed on the body corporate under the securities laws.”. Amendment of section 23"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_27__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_27__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_27__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 23(2) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_27__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (d), by deleting the word “and” at the end of the paragraph;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_27__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (e), by substituting for the full-stop at the end of the paragraph the words “; and”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_27__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (e) the following paragraph: “ (f) all other monies lawfully received by the Commission.”. Amendment of section 24"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_28__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_28__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 24 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_28__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2a), by substituting for the words “an electronic facility registered” the words “a recognized market”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_28__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by inserting after the word “exchanges” the words “or the operator of a recognized market, as the case may be,”. Amendment of section 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_29__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_29__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 26 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_29__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by substituting for the word “servants” the word “agents”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_29__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (e) the following paragraph: “ (e) generally, making any payment or grant for carrying into effect the provisions of the securities laws.”. Amendment of section 29"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All references to the Securities Commission Act 1993 in any written law or document shall, when this Act comes into operation, be construed as references to the Securities Commission Malaysia Act 1993. Change of name of Commission"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 29(3) of the principal Act is amended by substituting for the word “possible” the word “practicable”. Amendment of section 30"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 30 of the principal Act is amended by substituting for the words “The Commission may from time to time, with the approval of the Minister, borrow,” the words “The Minister may, on the recommendation of the Board, approve for the Commission to borrow,”. Amendment of section 31a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_32__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_32__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_32__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_32__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_32__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 31a of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_32__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the definition of “public interest entity”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_32__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “auditor”, by inserting after the words “public interest entity” the words “or schedule fund”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_32__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “registered auditor”, by inserting after the words “public interest entity” the words “or schedule fund”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_32__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “recognised auditor”, by inserting after the words “public interest entity” the words “or schedule fund”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_32__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “auditor” the following definition: ‘ “executive chairman” refers to the executive chairman of the Audit Oversight Board appointed under section 31c;’. Amendment of section 31b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_33__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_33__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_33__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_33__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 31b of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_33__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “relating to audit oversight” the words “for the purposes of Part IIIA”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_33__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by deleting the word “and” at the end of the paragraph;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_33__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c), by substituting for the words “public interest entities.” the words “public interest entities or schedule funds; and”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_33__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (c) the following paragraph: “ (d) to exercise oversight over any person who prepares a report in relation to financial information of public interest entities or schedule funds, in relation to capital market activities, as may be required to be prepared under the securities laws or guidelines issued by the Commission.”. Amendment of section 31c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_34__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_34__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_34__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_34__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 31c of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_34__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by inserting after the words “section 31b” the words “relating to audit oversight”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_34__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the word “Commission” the word “Board”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_34__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_34__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_34__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_34__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_34__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “Commission” the word “Board”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_34__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_34__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c), by inserting after the words “public interest entities” the words “or schedule funds”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_34__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_34__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_34__para_d__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_34__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_34__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words “shall serve on a full-time basis and” after the words “executive chairman”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_34__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_34__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by inserting after the words “public interest entity” the words “or schedule fund”. Amendment of section 31d"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 31d of the principal Act is amended by deleting subsection (2). Amendment of section 31e"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_36__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_36__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_36__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_36__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_36__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 31e(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_36__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words “under section 31b,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_36__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by inserting after the words “public interest entities” the words “or schedule funds”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_36__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (f), by inserting after the words “public interest entities” the words “or schedule funds”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_36__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (g), by deleting the word “and” at the end of the paragraph; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_36__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (g) the following paragraph: “(ga) to carry out inspection on persons specified under paragraph 31b(d); and”. Amendment of section 31ea"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_37__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_37__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_37__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_37__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_37__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 31ea of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_37__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by inserting after the word “committee” the words “, subject to any terms or conditions as may be specified by the Audit Oversight Board”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_37__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (5) in the English language text, by substituting for the word “entitle” the word “entitled”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_37__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (11);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_37__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (12), by substituting for the words “subsections (10) and (11)” the words “subsection (10)”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_37__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (13) in the English language text, by substituting for the word “having” the word “has”. Amendment of section 31l"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 31l(2)(b) of the principal Act is amended by inserting after the words “public interest entities” the words “and schedule funds”. Amendment of the heading under Division 4 of Part IIIa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The heading of Division 4 of Part IIIa of the principal Act is amended by inserting after the words “Public Interest Entity” the words “or Schedule Fund”. Amendment of section 31n"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Securities Commission established under section 3 of the principal Act shall, when this Act comes into operation, be known as the “Securities Commission Malaysia”. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_40__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_40__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 31n of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_40__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_40",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by inserting after the words “public interest entity” the words “or schedule fund”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_40__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_40__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_40__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_40__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_40",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_40__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_40__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by inserting after the words “public interest entity” the words “or schedule fund”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_40__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_40__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by inserting after the words “public interest entity” the words “or schedule fund”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_40__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_40__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c), by inserting after the words “public interest entity” the words “or schedule fund”. Amendment of section 31o"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_41__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_41__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_41__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 31o of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_41__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_41",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the words “registration, renewal of registration and recognition as auditor of public interest entity” the words “registration or recognition as an auditor of a public interest entity or schedule fund”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_41__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_41",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (1)(a), by deleting the words “or renewal of registration”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_41__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_41",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsections (3),(4) and (5) the following subsections: “(3) The Audit Oversight Board may upon the— (a) registration of an applicant as a registered auditor; or (b) grant of recognition of an applicant as a recognized auditor, impose such conditions as the Board deems necessary or expedient and from time to time amend any such conditions or impose new or additional conditions. (4) The Audit Oversight Board shall serve a written notice to the auditor concerned of the amendment of any conditions imposed under subsection (3), and such conditions as amended or such new or additional conditions shall take effect at the time the notice is served or at such time as specified in the notice, whichever is the later. (5) Subject to section 31p, the Audit Oversight Board may— (a) approve or refuse the registration of an applicant as a registered auditor; or (b) approve or refuse the grant of recognition of an applicant as a recognized auditor.”. Amendment of section 31p"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_42__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_42__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_42__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 31p of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_42__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_42",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by deleting the words “, renew registration”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_42__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_42__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_42__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_42",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_42__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_42__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words “or the renewal of registration of a registered auditor”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_42__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_42__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words “or the registered auditor”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_42__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_42",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (2) the following subsection: “(2) Where the Audit Oversight Board refuses— (a) the registration of an applicant as a registered auditor; or (b) to grant recognition of an applicant as a recognized auditor, the Audit Oversight Board shall give the applicant an opportunity to be heard by serving a written notice on the applicant stating the grounds for such refusal.”. Amendment of section 31q"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_43__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_43__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_43__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 31q(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_43__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (b)(A), by deleting the word “or” at the end of the subparagraph;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_43__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (b)(B), by substituting for the words “this Part.” the words “this Part; or”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_43__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subparagraph (b)(B) the following subparagraph: “(C) the auditor fails to pay any fee as specified by the Audit Oversight Board.”. Amendment of section 31r"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 31r of the principal Act is amended by substituting for the words “paragraph 31q(1)(bb)” the words “subparagraph 31q(1)(b)(B)”. Deletion of section 31s"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_45",
+      "@type": "akn:clause",
+      "eli:number": "45",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 31S. Amendment of section 31v"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_46",
+      "@type": "akn:clause",
+      "eli:number": "46",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_46__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_46__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 31v of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_46__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for paragraph (b) the following paragraph: “ (b) the sufficiency and appropriateness of the audit evidence obtained in relation to the audit report prepared by an auditor relating to the audited financial statements of public interest entities or schedule funds.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_46__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (5) the following subsection: “(5a) Notwithstanding section 31z, the Audit Oversight Board may direct the auditor to take any remedial measure to rectify matters raised in the inspection report.”. Substitution of section 31w"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_47",
+      "@type": "akn:clause",
+      "eli:number": "47",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 31w the following section: “Inquiry 31w. The Audit Oversight Board may appoint such number of Inquiry Officers as the Board considers necessary for the purposes of carrying out an inquiry where there has been a— (a) contravention of any provision of this Part; or (b) breach or failure to comply with— (i) any condition imposed under subsection 31o(3); or (ii) any written notice or guidelines issued by the Commission.”. Amendment of section 31y"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_48",
+      "@type": "akn:clause",
+      "eli:number": "48",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 31y of the principal Act is amended by inserting after the words “public interest entities” wherever appearing the words “or schedule funds”. Amendment of section 31z"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_49",
+      "@type": "akn:clause",
+      "eli:number": "49",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_49__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_49__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_49__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_49__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 31z of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_49__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_49",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (1)(b), by substituting for the words “subsection 31o(4)” the words “this Part”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_49__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_49__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_49__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_49",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_49__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_49__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by substituting for the words “subsection 31o(4)” the words “this Part”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_49__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_49__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraphs (f) and (g) the following paragraphs: “(f) prohibit the person concerned from accepting any public interest entity or schedule fund as its client or preparing reports in relation to financial information of any public interest entity or schedule fund, as may be required under the securities laws or guidelines issued by the Commission, for a period not exceeding twelve months; (g) prohibit the person concerned from auditing financial statements or preparing reports in relation to financial information of a public interest entity or schedule fund, as may be required under the securities laws or guidelines issued by the Commission, for a period not exceeding twelve months or permanently; and”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_49__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_49",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (3)(b), by substituting for the words “subsection 31o(4)” the words “this Part”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_49__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_49",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4), by inserting after the words “public interest entity” the words “or schedule fund”. Amendment of section 31zd"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 2(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_50",
+      "@type": "akn:clause",
+      "eli:number": "50",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_50__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_50__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_50__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_50__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 31zd of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_50__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_50",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the shoulder note the following shoulder note: “Cooperation, coordination and sharing of information”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_50__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_50",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: “(1a) In determining whether it is necessary to exercise its power under paragraph (1)(b), the Commission shall have regard to— (a) whether the relevant authorities or relevant foreign authorities will pay to the Commission any costs and expenses incurred for providing the assistance; and (b) whether the relevant authorities or relevant foreign authorities will be able and willing to provide reciprocal assistance in response to a comparable request for assistance from the Commission.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_50__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_50",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (2)(b) the following paragraph: “(b) the sufficiency and appropriateness of the audit evidence obtained in relation to the audit report prepared by an auditor relating to the audited financial statements.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_50__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_50",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsection: “(3) The Audit Oversight Board may disclose and share any findings under Division 6 of this Part with any public interest entity or schedule fund if the Audit Oversight Board considers that the sharing of such findings is pursuant to the functions of the Audit Oversight Board under section 31b.”. New Parts IIIb and IIIc"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_51",
+      "@type": "akn:clause",
+      "eli:number": "51",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after Part IIIa the following Parts: “part IIIb MANAGEMENT OF SYSTEMIC RISK IN THE CAPITAL MARKET Interpretation 31ze. For the purposes of this Part— “market participant” includes an investor, issuer, intermediary, capital market service provider, exchange holding company, stock exchange, derivatives exchange, central depository and clearing facility; “systemic risk in the capital market” means a situation when one or more of the following events occur or is likely to occur: (a) financial distress in a significant market participant or in a number of market participants; (b) an impairment in the orderly functioning of the capital market; or (c) an erosion of public confidence in the integrity of the capital market. Information for purpose of systemic risk 31zf. (1) The Commission may, notwithstanding any provision under the securities laws, by notice in writing request any person to submit to the Commission any information or document— (a) which the Commission considers necessary for the purposes of monitoring, mitigating and managing systemic risks in the capital market; or (b) where the Commission receives a request from Bank Negara Malaysia under section 30 of the Central Bank of Malaysia Act 2009. (2) For the purposes of subsection (1), where the person concerned is solely under the supervision or oversight of Bank Negara Malaysia, the notice shall be issued through Bank Negara Malaysia. (3) Any person who is required to submit any information or document under this section shall provide such information or document notwithstanding any obligation under any contract, agreement or arrangement whether express or implied to the contrary. (4) Any person who fails to comply with the notice issued under subsection (1) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding ten million ringgit or to imprisonment for a term not exceeding ten years or to both. Power of Commission to issue directive for systemic risk 31zg. (1) Where the Commission considers it necessary in the interest of monitoring, mitigating or managing systemic risk in the capital market, the Commission may issue a directive in writing requiring any person to take such measures as the Commission may consider necessary. (2) In exercising its power under subsection (1), the Commission shall take into consideration the interest of financial stability. (3) For the purposes of subsection (1), where the person concerned is solely under the supervision or oversight of Bank Negara Malaysia, the Commission shall make a recommendation to Bank Negara Malaysia to issue such directive. (4) Before issuing a directive under subsection (1), the Commission shall give the person an opportunity to be heard. (5) Notwithstanding subsection (4), the Commission may issue a directive under subsection (1) without first giving the person an opportunity to be heard if any delay in issuing such directive would aggravate systemic risk in the capital market. (6) Where a directive is issued pursuant to subsection (5) the person shall be given an opportunity to be heard after the directive has been issued. (7) When a person is given an opportunity to be heard under subsection (6), a directive issued under subsection (1) may be amended or modified. (8) Any person who fails to comply with the directive issued under subsection (1) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding ten million ringgit or to imprisonment for a term not exceeding ten years or to both. Arrangements with other supervisory authorities 31zh. (1) Notwithstanding any provision in the securities laws, the Commission may for the purposes of monitoring, mitigating and managing systemic risk in the capital market or contributing towards financial stability— (a) provide assistance to any supervisory authority or Government agency responsible for promoting financial stability; (b) obtain any information or document from, or share any information or document with, any supervisory authority or Government agency responsible for promoting financial stability if the Commission considers it necessary that such information or document be so obtained or shared in managing systemic risk in the capital market or promoting financial stability; or (c) enter into arrangements to cooperate with other supervisory authorities and co-ordinate stability measures with such supervisory authorities. (2) Where the Commission shares any information or document under paragraph (1)(b)— (a) with any supervisory authority or Government agency responsible for promoting financial stability in Malaysia, such information or document shall not be disclosed to any person except with the written consent of the Commission; or (b) with any supervisory authority outside Malaysia, such supervisory authority shall give an appropriate undertaking for protecting the confidentiality of such information or document and the purposes for which the information or document may be used. (3) For the purposes of this section, “supervisory authority” means any authority, body, agency or entity— (a) responsible for monitoring, mitigating and managing systemic risk in the capital market or promoting financial stability; or (b) responsible for the supervision or oversight of capital market intermediaries or participants. PART IIIC SHARIAH ADVISORY COUNCIL Establishment of Shariah Advisory Council for Islamic capital market 31zi. (1) The Commission may establish a Shariah Advisory Council for Islamic capital market which shall be the authority for the ascertainment of the application of Shariah principles for the purposes of Islamic capital market business or transaction. (2) The Shariah Advisory Council may determine its own procedures. Functions of Shariah Advisory Council 31zj. The Shariah Advisory Council shall have the following functions: (a) to ascertain the application of Shariah principles on any matter relating to Islamic capital market business or transaction; (b) to issue ruling on any matter relating to Islamic capital market business or transaction; (c) to advise the Commission on any Shariah issue relating to Islamic capital market business or transaction; (d) to provide advice to any person on any Shariah issue relating to Islamic capital market business or transaction; and (e) such other functions as may be prescribed by the Minister. Appointment of members of Shariah Advisory Council 31zk. (1) The Yang di-Pertuan Agong may, on the advice of the Minister after consultation with the Commission, appoint persons as members of the Shariah Advisory Council who are qualified in— (a) fiqh muamalah; (b) Islamic jurisprudence; (c) Islamic finance; or (d) any other related discipline. (2) If a judge of the High Court, the Court of Appeal or the Federal Court, or a judge of the Shariah Appeal Court of a State or Federal Territory, is to be appointed under subsection (1), such appointment shall not be made except— (a) in the case of a judge of the High Court, the Court of Appeal or the Federal Court, after consultation by the Commission with the Chief Justice; and (b) in the case of a judge of the Shariah Appeal Court of a State or Federal Territory, after consultation by the Commission with the Chief Shariah Judge of that State or Federal Territory, as the case may be. (3) A member of the Shariah Advisory Council appointed under subsection (1) shall hold office on such terms and conditions as may be provided in their respective letters of appointment, and shall be eligible for reappointment. (4) The members of the Shariah Advisory Council shall be paid such remuneration and allowances as may be determined by the Commission. Secretariat to Shariah Advisory Council 31zl. The Commission may— (a) establish a secretariat and such other committees as the Commission considers necessary to assist the Shariah Advisory Council in carrying out of its functions; and (b) appoint an officer of the Commission or any other person to be a member of the secretariat or such other committees. Advice or ruling of Shariah Advisory Council 31zm. Any licensed person, stock exchange, derivatives exchange, clearing house, central depository, listed corporation or any other person may— (a) seek the advice of; or (b) refer a matter for a ruling by, the Shariah Advisory Council relating to its Islamic capital market business or transaction in order to ascertain that it does not involve any element which is inconsistent with the Shariah. Reference to Shariah Advisory Council for ruling from court or arbitrator 31zn. (1) Where in any proceedings before any court or arbitrator concerning a Shariah matter in relation to Islamic capital market business or transaction, the court or the arbitrator, as the case may be, shall— (a) take into consideration any ruling of the Shariah Advisory Council; or (b) refer such matter to the Shariah Advisory Council for its ruling. (2) Any request for advice or a ruling of the Shariah Advisory Council under this Act or any other law shall be submitted to the secretariat. Effect of Shariah ruling 31zo. Any ruling made by the Shariah Advisory Council under section 31zm or 31zn shall be binding on— (a) the licensed person, stock exchange, derivatives exchange, clearing house, central depository, listed corporation or any other person referred to in section 31zm; and (b) the court or arbitrator referred to in section 31zn. Shariah Advisory Council ruling prevails 31zp. (1) Where a ruling given by a registered Shariah adviser to a person engaging in any Islamic capital market business or transaction is different from the ruling given by the Shariah Advisory Council, the ruling of the Shariah Advisory Council shall prevail. (2) For the purpose of this section, “registered Shariah adviser” means a person who is registered under any guidelines issued by the Commission under section 377 of the Capital Markets and Services Act 2007.”. Substitution of section 126"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_52",
+      "@type": "akn:clause",
+      "eli:number": "52",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 126 the following section: “Examination by Commission 126. (1) The Commission may, from time to time, examine, without giving any prior notice, the books or other documents, accounts and transactions of— (a) any person licensed, registered, approved, recognized or authorized under any securities laws; (b) any person performing any outsourced functions for persons referred to in paragraph (a); or (c) a branch or subsidiary of a licensed person. (2) Any person referred to in subsection (1) and any person acting on its behalf shall provide all assistance and produce any documents, records or matter, as may be required by the Commission, to enable the Commission to carry out its functions. (3) For the purposes of paragraphs (1)(a) and (b), “person” does not include persons specified under the Third Column of Part 1 of Schedule 4 to the Capital Markets and Services Act 2007.”. Substitution of section 135"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_53",
+      "@type": "akn:clause",
+      "eli:number": "53",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 135 the following section: “Destruction, concealment, mutilation and alteration of records 135. Any person who— (a) destroys, conceals, mutilates or alters; (b) causes another person to destroy, conceal, mutilate or alter; or (c) sends or attempts to send or conspires with any other person to remove from his premises or send out of Malaysia, any document, record or account with intent to defraud any person, or to prevent, delay or obstruct the carrying out of an examination, audit or investigation, or the exercise of any function or power under the securities laws shall be guilty of an offence and shall, on conviction, be punished with imprisonment for a term not exceeding ten years and shall also be liable to a fine not exceeding ten million ringgit.”. Substitution of section 148"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_54",
+      "@type": "akn:clause",
+      "eli:number": "54",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 148 the following section: “Obligation of secrecy 148. (1) Subject to section 124 of the Evidence Act 1950, persons specified in subsection (2) shall not disclose any information which has been obtained by him in the course of his functions and which is not published in accordance with the securities laws, except— (a) where the disclosure is authorized under a provision of the securities laws; (b) for the purposes of assisting or enabling the Commission in the discharge of its functions under the securities laws or any other written law; (c) in any criminal or civil proceedings by or against the Commission; or (d) where the disclosure is authorized by the Commission. (2) Subsection (1) shall apply to the following persons: (a) a member of— (i) the Commission; (ii) the Shariah Advisory Council; (iii) the Audit Oversight Board; or (iv) the Capital Market Development Fund Board; (b) a member of any committee of the Commission, the Shariah Advisory Council, the Audit Oversight Board, or the Capital Market Development Fund Board; (c) an officer or agent of the Commission; or (d) a person attending any meeting of— (i) the Commission; (ii) any committee of the Commission; (iii) the Shariah Advisory Council; (iv) the Audit Oversight Board; (v) the Capital Market Development Fund Board. (3) Any person who contravenes subsection (1) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding five years or to both.”. New sections 148a and 148b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_55",
+      "@type": "akn:clause",
+      "eli:number": "55",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 148 the following sections: “Permitted disclosure in civil enforcement proceedings 148a. (1) In any civil enforcement proceedings by the Commission, the Commission may be ordered to give discovery of or produce for inspection under Order 24 of the Rules of Court 2012 [P.U. (A) 205/2012] the following documents which are or have been in the Commission’s possession, custody or power as a result of the performance or exercise by the Commission of any of its functions under the securities laws: (a) any document voluntarily produced or disclosed by the defendant to the Commission pursuant to the exercise of the Commission’s powers under the securities laws; (b) any document seized from the defendant or its officer or agent pursuant to section 128; (c) any list prepared by the Commission and signed by the defendant or his officer or agent pursuant to section 129; (d) any correspondence between the Commission and the defendant or his solicitors or agents; (e) any statement of the defendant recorded by the Commission under sections 31x and 134; (f) any notices served to the defendant under subsections 31x(1), 128(5) and 134(1); (g) trading information relating to the defendant’s trading activities which the Commission relies on or will rely on in the civil proceedings; and (h) any document that the Commission intends to tender in the civil proceedings. (2) The Commission may not be ordered to give discovery of or produce for inspection under Order 24 of the Rules of Court 2012 any document apart from those listed in subsection (1) unless the court is of the opinion that there are strong and exceptional grounds and it is not injurious to public interest, to order the Commission to give discovery of or produce for inspection of such document. (3) The court shall not make an order under subsection (2) in respect of the following documents: (a) any documents, other than documents referred to in subsection (1), which are or have been in the possession, custody or power of the Commission as a result of the performance or exercise by the Commission of any of its supervisory and enforcement functions or powers under the securities laws; (b) complaints, reports or requests received by the Commission to investigate or provide assistance on any possible or alleged contravention of the securities laws; (c) the Commission’s internal documents; (d) any correspondence or communication between the Commission and— (i) any public officer; (ii) any statutory body; (iii) any foreign supervisory authority; (iv) any stock exchange, derivatives exchange, recognized market, clearing house or central depository; (v) any person engaged by the Commission to assist its investigation; or (vi) any person who has filed a complaint or made a report or request to the Commission pursuant to paragraph (b); (e) any document or copy of such document, sent to or received by the Commission from, persons specified under paragraph (d); and (f) all statements recorded by the Commission under sections 31x and 134 other than statements recorded from the defendant. (4) This section shall prevail and have full force and effect notwithstanding anything inconsistent therewith, or contrary thereto, contained in the Rules of Court 2012 or any provision of the securities laws or any written law or any rule of law or practice relating to discovery and inspection of documents in civil proceedings. Confidentiality of supervisory information 148b. (1) Without affecting the generality of section 148, where the Commission produces any document or information in relation to— (a) any rating assigned by the Commission to; or (b) any supervisory assessment made by the Commission on, any person specified under subsection 126(1), the person, or any of its directors, officers or auditors shall not disclose the document or information to any other person, unless authorized by the Commission. (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall, on conviction, be liable with imprisonment for a term not exceeding five years or be liable to a fine not exceeding one million ringgit or to both.”. Amendment of section 150"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_56",
+      "@type": "akn:clause",
+      "eli:number": "56",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_56__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_56__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_56__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_56__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_56__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 150 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_56__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_56",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, in the shoulder note by substituting for the words “pihak berkuasa menyelia” the words “pihak berkuasa penyeliaan asing”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_56__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_56__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_56__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_56",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_56__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_56__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “in” the word “under”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_56__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_56__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, by substituting for the words “pihak berkuasa menyelia asing” wherever appearing the words “pihak berkuasa penyeliaan asing”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_56__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_56__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_56__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_56",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_56__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_56__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “In this section” the words “For the purposes of this section and section 150a”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_56__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_56__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, by substituting for the words “pihak berkuasa menyelia asing” the words “pihak berkuasa penyeliaan asing”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_56__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_56",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3) in the English language text, by substituting for the words “a securities law” the words “the securities laws”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_56__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_56__para_e__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_56__para_e__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_56",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_56__para_e__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_56__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, in paragraph (a) by substituting for the words “pihak berkuasa menyelia asing” wherever appearing the words “pihak berkuasa penyeliaan asing”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_56__para_e__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_56__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, in paragraph (b) by substituting for the words “pihak berkuasa menyelia asing” the words “pihak berkuasa penyeliaan asing”. Amendment of section 150a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_57",
+      "@type": "akn:clause",
+      "eli:number": "57",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_57__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_57__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_57__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 150a of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_57__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_57",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, in the shoulder note by substituting for the words “pihak berkuasa menyelia asing” the words “pihak berkuasa penyeliaan asing”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_57__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_57",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1) in the national language text, by substituting for the words “pihak berkuasa menyelia asing” the words “pihak berkuasa penyeliaan asing”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_57__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_57__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_57__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_57",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_57__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_57__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, by substituting for the words “pihak berkuasa menyelia asing” the words “pihak berkuasa penyeliaan asing”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_57__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_57__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, in paragraph (a) by substituting for the words “pihak berkuasa menyelia asing” the words “pihak berkuasa penyeliaan asing”. Deletion of section 151"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_58",
+      "@type": "akn:clause",
+      "eli:number": "58",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 151. Substitution of section 151a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_59",
+      "@type": "akn:clause",
+      "eli:number": "59",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 151a the following section: “Evidential provision 151a. In any criminal or civil proceedings, any— (a) statement purporting to be signed by the Chairman or any other person to whom power has been delegated under section 17, which forms part of or is annexed to any letter, register, record or document, howsoever expressed, described or represented; or (b) minutes made of meetings of the Board, the Audit Oversight Board, or any committee of the Board or Audit Oversight Board, if duly signed, shall be admissible as prima facie evidence of the facts stated therein.”. Amendment of section 152a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1__para_l",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1__para_m",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1__para_n",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1__para_o",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1__para_p",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1__para_q",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1__para_r",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1__para_s"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “Audit Oversight Board” the following definition: ‘ “Bank Negara Malaysia” means the Central Bank of Malaysia established under the Central Bank of Malaysia Act 2009 [Act 701];’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “Court” the following definition: ‘ “dealing in derivatives” has the meaning assigned to it in the Capital Markets and Services Act 2007;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “document” the following definition: ‘ “document” has the meaning assigned to it in the Evidence Act 1950 [Act 56];’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “private retirement scheme” the following definition: ‘ “public interest entity” means the entity specified in Part 1 of Schedule 1;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the definition of “committee”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “Board” the following definition: ‘ “Board committee” means any committee established by the Board under section 18;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “record” the following definition: ‘ “schedule fund” means the funds specified in Part 2 of Schedule 1;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “books” the following definition: ‘ “Board” means the Board established under section 4;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “Shariah Advisory Council”, by substituting for the words “the Capital Markets and Services Act 2007” the words “section 31zi”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “securities laws” the following definition: ‘ “self-regulatory organization” has the meaning assigned to it in the Capital Markets and Services Act 2007;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “public interest entity” the following definition: ‘ “recognized market” has the meaning assigned to it in the Capital Markets and Services Act 2007;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “Board committee” the following definition: ‘ “capital market” has the meaning assigned to it in the Capital Markets and Services Act 2007;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1__para_m",
+      "@type": "akn:paragraph",
+      "eli:number": "m",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “officer” the following definition: ‘ “officer”, in relation to— (a) the Commission, means any officer employed under section 20 and includes an Investigating Officer of the Commission appointed under section 125; and (b) a corporation, has the meaning assigned to it in the Companies Act 1965;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1__para_n",
+      "@type": "akn:paragraph",
+      "eli:number": "n",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “prescribed investment” the following definition: ‘ “prescribed investment” has the meaning assigned to it in the Capital Markets and Services Act 2007;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1__para_o",
+      "@type": "akn:paragraph",
+      "eli:number": "o",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “director” the following definition: ‘ “director” has the meaning assigned to it in the Capital Markets and Services Act 2007;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1__para_p",
+      "@type": "akn:paragraph",
+      "eli:number": "p",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “Chairman”, by substituting for the words “paragraph 4(1)(a)” the words “paragraph 4(2) (a)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1__para_q",
+      "@type": "akn:paragraph",
+      "eli:number": "q",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “corporation” the following definition: ‘ “corporation” has the meaning assigned to it in the Companies Act 1965;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1__para_r",
+      "@type": "akn:paragraph",
+      "eli:number": "r",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “capital market” the following definition: ‘ “capital market products” has the meaning assigned to it in the Capital Markets and Services Act 2007;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1__para_s",
+      "@type": "akn:paragraph",
+      "eli:number": "s",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “Islamic capital market business or transaction” the following definition: ‘ “Islamic capital market product” has the meaning assigned to it in the Capital Markets and Services Act (t) by substituting for the definition of “clearing house” the following definition: ‘ “clearing house” means a clearing house approved under the Capital Markets and Services Act 2007;’; (u) by substituting for the definition of “record” the following definition: ‘ “record” includes information stored or recorded by means of a computer, electronic or digital medium or any other means of storage or recording;’; (v) by inserting after the definition of “specify” the following definition: ‘ “trade repository” has the meaning assigned to it in the Capital Markets and Services Act 2007;’; (w) by substituting for the definition of “prescribed investment scheme” the following definition: ‘ “prescribed investment scheme” has the meaning assigned to it in the Capital Markets and Services Act 2007;’; (x) by inserting after the definition of “prescribed investment scheme” the following definition: ‘ “private retirement scheme” has the meaning assigned to it in the Capital Markets and Services Act 2007;’; (y) by substituting for the definition of “unit trust scheme” the following definition: ‘ “unit trust scheme” has the meaning assigned to it in the Capital Markets and Services Act 2007;’; (z) by substituting for the definition of “company” the following definition: ‘ “company” has the meaning assigned to it in the Companies Act 1965 [Act 125];’; (aa) in the definition of “Deputy Chief Executive”, by substituting for the words “paragraph 4(1)(aa)” the words “paragraph 4(2)(b)”; (bb) by substituting for the definition of “securities laws” the following definition: ‘ “securities laws” means—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Capital Markets and Services Act 2007;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Securities Industry (Central Depositories) Act 1991 [Act 453];"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other legislation which the Commission is empowered to administer or enforce; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_2__para_e__subpara_cc",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other regulations, rules, orders, notifications or other subsidiary legislation made under paragraphs (a), (b), (c) and (d);’; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_2__para_e__subpara_cc",
+      "@type": "akn:subparagraph",
+      "eli:number": "cc",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_5__list_2__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “Fund” the following definitions: ‘ “Islamic capital market business or transaction” means— (a) the business of carrying any regulated activity; (b) any proposal, scheme, transaction, arrangement, activity or matter relating to any capital market product, or under Part IIIA or Part VI of the Capital Markets and Services Act 2007; (c) any transaction relating to a derivative; or (d) the establishing, operating or maintaining of a securities market or a derivatives market, which is consistent with the principles of Shariah as may be determined by the Shariah Advisory Council;’. Amendment of section 2a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_6__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 2a of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_60",
+      "@type": "akn:clause",
+      "eli:number": "60",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_60__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_60__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 152a of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_60__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_60",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (b) the following paragraph: “ (b) any rulings issued under the securities laws;”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_60__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_60",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (g), by inserting after the word “action” the words “or measure”. Substitution of section 160"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_61",
+      "@type": "akn:clause",
+      "eli:number": "61",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 160 the following section: “Immunity 160. No action, suit, prosecution or other proceeding shall lie or be brought, instituted, or maintained in any court or before any other authority against— (a) the Commission; (b) any person who is or has been— (i) a member of the Board, Shariah Advisory Council, Audit Oversight Board, Capital Market Development Fund or Capital Market Compensation Fund Corporation, or any committee established by the Commission, Shariah Advisory Council, Audit Oversight Board, Capital Market Development Fund or Capital Market Compensation Fund Corporation; or (ii) an officer of the Commission; or (c) any person engaged by the Commission under section 145, for or on account of, or in respect of, any act done or statement made, omitted to be done or made by the persons specified in paragraphs (a), (b) or (c), in the performance of their functions, in the administration of the securities laws or in the exercise of any power conferred, whether expressed or implied, by or under any securities laws: Provided that such act, statement, performance of functions or exercise of power was done or made, in good faith.”. New section 160a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_62",
+      "@type": "akn:clause",
+      "eli:number": "62",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 160 the following section: “Power to issue directions to discharge Government’s international obligation under United Nations Security Council Resolutions 160a. (1) Where the Security Council of the United Nations decides, in pursuant to the Charter of the United Nations, on measures to be employed to give effect to any of its decisions and calls upon the Government of Malaysia to apply such measures, the Commission may, in relation to the measures that are within the functions of the Commission, issue directions in writing to any persons licensed, registered, approved, recognized or authorized under any securities laws, to enable those measures to be effectively applied. (2) A direction issued under subsection (1) may include, but not be limited to a direction to freeze securities accounts, monies and assets. (3) A person to whom a direction is issued under subsection (1) shall comply with the direction notwithstanding any other duty imposed on the said person by any contract or law or international agreement. (4) A person who carries out any act in compliance with the directions issued under subsection (1), shall not be treated as being in breach of any such contract or law or international agreement. (5) This section does not apply to a registered person as specified in the Third Column of Part 1 of Schedule 4 to the Capital Markets and Services Act 2007. (6) A person who fails to comply with any direction issued under this section shall be guilty of an offence.”. Substitution of Schedule 1"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_63",
+      "@type": "akn:clause",
+      "eli:number": "63",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for Schedule 1 the following Schedule: “SCHEDULE 1 Part 1 [Section 2] (a) a public listed company or a corporation listed on the stock exchange; (b) a bank licensed under the Financial Services Act 2013 [Act 758]; (c) an insurer licensed under the Financial Services Act 2013; (d) a takaful operator licensed under the Islamic Financial Services Act 2013 [Act 759]; (e) an Islamic bank licensed under the Islamic Financial Services Act 2013 [Act 759]; (f) a financial institution prescribed under section 212 or 223 of the Financial Services Act 2013; (g) a development financial institution prescribed under the Development Financial Institutions Act 2002 [Act 618]; (h) a holder of the Capital Markets Services Licence for the carrying on of the regulated activities of dealing in securities, dealing in derivatives or fund management; (i) an exchange holding company approved under the securities laws; (j) an exchange approved under the securities laws; (k) a central depository approved under the securities laws; (l) a clearing house approved under the securities laws; (m) a self-regulatory organization recognized under the securities laws; (n) a private retirement scheme administrator approved under the securities laws; (o) a trade repository approved under the securities laws; (p) the Capital Market Compensation Fund Corporation; (q) any other person as the Minister may prescribe by order published in the Gazette. Part 2 (a) a private retirement scheme approved by the Commission under the Capital Markets and Services Act 2007; (b) a unit trust scheme approved, authorized or recognized by the Commission under the Capital Markets and Services Act 2007; (c) any other capital market funds as may be specified by the Commission.”. Saving and transitional"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64",
+      "@type": "akn:clause",
+      "eli:number": "64",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64__subsec_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of this section— “effective date” means the relevant date of coming into operation of this Act or the respective provisions of this Act; “repealed Part” means Part IXa of the Capital Markets and Services Act 2007 before the effective date; “repealed sections” means sections 316a, 316b, 316c, 316d, 316e, 316f, 316g and 316h of the Capital Markets and Services Act 2007 before the effective date."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64__subsec_2__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In respect of the Commission—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the change of name from the “Securities Commission” to the “Securities Commission Malaysia” shall not affect any powers, rights, privileges, liabilities, duties or obligations of the Securities Commission, or render defective any legal proceedings by or against it;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any legal proceedings that could not have been continued or commenced by or against the Securities Commission before the effective date may be continued or commenced on or after the effective date in the name of the Securities Commission Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all regulations, orders, directions, notifications, exemptions and other subsidiary legislation, howsoever called, made, given or done by the Commission before the effective date shall be deemed to have been made, given or done by the Securities Commission Malaysia, and shall continue to remain in full force and effect;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all approvals, directions, notices, guidelines, circulars, guidance notes, practice notes, rulings, decisions, notifications, exemptions and other executive acts, howsoever called, given, made or done by the Commission before the effective date shall be deemed to have been given, made or done by the Securities Commission Malaysia, and shall continue to remain in full force and effect;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any application for an approval or consent, or for any other purpose whatsoever, or any appeal relating to such application, made by any person to the Minister or to the Commission before the effective date, and pending immediately before the effective date, shall, if there is a corresponding provision in the principal Act as amended by this Act, be dealt with as if it was made under that provision and, if there is no such corresponding provision, such application or appeal shall lapse on the effective date; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all monies contained in or due to be paid to the Fund established under section 23 of the principal Act under the administration and control of the Securities Commission shall, on the effective date, be deemed to be under the administration and control of the Securities Commission Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Nothing in this Act shall affect any person’s liability to be prosecuted or punished for offences or breaches committed under the securities laws before the effective date or any proceeding brought, sentence imposed or action taken before such date in respect of such offence or breach."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any right, privilege, obligation or liability acquired, accrued or incurred before the effective date or any legal proceedings, remedy or investigation in respect of such right, privilege, obligation or liability shall not be affected by this Act and shall continue to remain in force as if this Act had not been enacted."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64__subsec_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64__subsec_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In respect of the Shariah Advisory Council—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64__subsec_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Shariah Advisory Council established under the repealed sections and its members appointed under the same repealed sections shall be deemed to be established and appointed, as the case may be, under or in accordance with the principal Act as amended by this Act; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64__subsec_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any decision or ruling made by the Shariah Advisory Council established under the repealed sections shall be deemed to have been validly made under the principal Act as amended by this Act and shall continue to remain in full force and effect in relation to the person to whom it applies until amended."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where in any written law, any reference is made to any specific provision of the repealed Part, it shall be construed as a reference to a provision of the principal Act as amended by this Act which corresponds as nearly as may be to such specific provision."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Nothing in the repealed Part or repealed sections shall affect any person’s liability to be prosecuted or punished for offences or breaches committed under the repealed Part or repealed sections before the effective date or any proceeding brought, sentence imposed or action taken before such date in respect of such offence or breach."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_64",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any right, privilege, obligation or liability acquired, accrued or incurred before the effective date or any legal proceedings, remedy or investigation in respect of such right, privilege, obligation or liability shall not be affected by this Act and shall continue to remain in force as if this Act had not been enacted."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by deleting the words ‘and “securities law” ’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words ‘Any reference in this Act to “this Act” or a “securities law” ’ the words ‘Any reference in this Act to “this Act” ’; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “subsidiary legislation made under this Act or a securities law, as the case may be” the words “subsidiary legislation made under this Act”. Amendment of section 2g"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 2g of the principal Act is amended by substituting for subsection (1) the following subsection: “(1) Where under any of the provisions of the securities laws, power is given to the Commission— (a) to inspect and make copies of or take extracts from any book required under any of the provisions of the securities laws to be kept or maintained; or (b) to require any person, or where any person is required under the securities laws, to submit to the Commission any information, document or book, the Commission shall have access to the same and may— (A) require that the same be submitted within such period, at such intervals, in such manner, in such form, and in writing or by means of any visual recording, whether of still or moving images, or sound recording, or any electronic, magnetic, mechanical or other recording whatsoever, on any substance, material, thing or article, as the Commission may set out in the specification; (B) obtain clear reproductions in writing; or (C) copy or move it to a storage or recording device.”. Substitution of section 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 4 the following section: “Board of Commission 4. (1) There shall be a Board of the Commission. (2) The Board shall consist of the following members who shall be appointed by the Minister: (a) a Chairman; (b) a Deputy Chief Executive; and (c) seven other members, who may include persons representing the government and private sector. (3) The Board shall— (a) be responsible for monitoring the overall governance of the Commission; (b) be responsible for reviewing and approving the strategic plan and budget of the Commission; (c) be responsible for reviewing and adopting appropriate systems and controls to manage the enterprise risks of the Commission; (d) have oversight of the affairs and business of the Commission and keep under constant review the performance of the Commission in giving effect to its objects, carrying out its functions and the use of the financial resources of the Commission; and (e) be responsible for such other matters as may be provided under the securities laws. (4) A member of the Board shall at all times act honestly and in the best interest of the Commission and use reasonable diligence in the discharge of his functions. (5) A member of the Board shall not make improper use of any information acquired or exercise any improper influence by virtue of his position to gain directly or indirectly an advantage for himself or for any other person.”. New sections 4a and 4b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 4 the following sections: “Appointment of members of Board 4a. (1) A person to be appointed as the Chairman or the Deputy Chief Executive under section 4 shall be a person of integrity and impeccable reputation with proven experience and recognized knowledge in the financial or capital markets. (2) The Minister, in appointing other members of the Board under subsection 4(2), shall have regard to— (a) diversity of the Board members in terms of interest, knowledge, skills and experience; and (b) the person’s probity and standing and his knowledge, skills and experience in law, economics, finance, accounting or in any other relevant discipline, which will enable him to discharge his functions as a member of the Board. Chairman and Deputy Chief Executive 4b. (1) The Chairman shall be entrusted with the day-to- day administration and management of the Commission and may, unless otherwise provided under the securities laws or any other written law, exercise all powers and do all acts which may be exercised or done by the Commission under the securities laws or any other written law. (2) During the absence of the Chairman or inability of the Chairman to act due to any cause, the Deputy Chief Executive shall carry out the functions of the Chairman. (3) For the purposes of subsection (2), in the case where the Deputy Chief Executive is absent or unable to act due to any cause, a senior member of management of the Commission designated by the Board shall carry out the functions of the Chairman. (4) Notwithstanding subsection (1), the Chairman may bring any matter in relation to the Commission’s functions to the Board for deliberation or direction, where he deems it necessary.”. Substitution of section 5"
+      }
+    }
+  ]
+}

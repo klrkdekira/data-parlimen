@@ -26,11 +26,49 @@ Rang Undang-Undang
 
 ## JADUAL
 
-(Seksyen 2) Maksud Tajuk Peruntukan kepada Maksud (RM) B. 8 Jabatan Perkhidmatan Awam 30,308,862 B. 13 Pejabat Setiausaha Persekutuan, 68,278 Sarawak B. 16 Jabatan Perkhidmatan Bomba 15,341,224 B. 24 Jabatan Muzium dan Antikuiti 191,607 B. 25 Kementerian Pertahanan 138,027,952 B. 26 Kementerian Pendidikan 39,818,633 B. 27 Jabatan Perpustakaan Negara
+(Seksyen 2) Maksud Tajuk
+
+<!-- marginal: Peruntukan -->
+
+kepada Maksud
+
+<!-- marginal: (RM) -->
+
+B. 8 Jabatan Perkhidmatan Awam 30,308,862 B. 13 Pejabat Setiausaha Persekutuan,
+
+<!-- marginal: 68,278 -->
+
+Sarawak B. 16 Jabatan Perkhidmatan Bomba 15,341,224 B. 24 Jabatan Muzium dan Antikuiti
+
+<!-- marginal: 191,607 -->
+
+B. 25 Kementerian Pertahanan 138,027,952 B. 26 Kementerian Pendidikan 39,818,633 B. 27 Jabatan Perpustakaan Negara
 
 <!-- marginal: 3,694 -->
 
-B. 30 Peruntukan kepada Kumpulan 6,692,199,889 Wang Terkanun B. 34 Kementerian Kesihatan 18,573,641 B. 36 Polis Diraja Malaysia 50,440,253 B. 40 Jabatan Penjara 1,599,108 B. 45 Kementerian Sumber Manusia 2,731,551 B. 47 Kementerian Pengangkutan 19,386,068 B. 51 Kementerian Luar Negeri 11,729,503
+B. 30 Peruntukan kepada Kumpulan 6,692,199,889 Wang Terkanun B. 34 Kementerian Kesihatan
+
+<!-- marginal: 18,573,641 -->
+
+B. 36 Polis Diraja Malaysia
+
+<!-- marginal: 50,440,253 -->
+
+B. 40 Jabatan Penjara
+
+<!-- marginal: 1,599,108 -->
+
+B. 45 Kementerian Sumber Manusia
+
+<!-- marginal: 2,731,551 -->
+
+B. 47 Kementerian Pengangkutan
+
+<!-- marginal: 19,386,068 -->
+
+B. 51 Kementerian Luar Negeri
+
+<!-- marginal: 11,729,503 -->
 
 ## JUMLAH
 

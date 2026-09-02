@@ -22,13 +22,19 @@
 
 Objektif dan operasi
 
-3. Perbadanan yang ditubuhkan di bawah Akta Perbadanan Insurans Deposit Malaysia 2005 4. Matlamat Perbadanan 5. Meterai perbadanan dan meterai faksimile 6. Penyempurnaan dokumen 7. Penubuhan jawatankuasa 8. Pejabat Perbadanan 9. Kuasa untuk melantik wakil dan ejen 10. Penubuhan subsidiari
+3. Perbadanan yang ditubuhkan di bawah Akta Perbadanan Insurans Deposit Malaysia 2005 4. Matlamat Perbadanan 5. Meterai perbadanan dan meterai faksimile 6. Penyempurnaan dokumen 7. Penubuhan jawatankuasa 8. Pejabat Perbadanan 9. Kuasa untuk melantik wakil dan ejen
+
+10. Penubuhan subsidiari
 
 ## Bab 2
 
 Lembaga Pengarah
 
-11. Tugas dan komposisi 12. Lembaga boleh membuat undang-undang kecil 13. Tempoh jawatan pengarah
+11. Tugas dan komposisi
+
+12. Lembaga boleh membuat undang-undang kecil
+
+13. Tempoh jawatan pengarah
 
 <!-- page 2 -->
 
@@ -88,13 +94,25 @@ Kewangan
 
 <!-- page 3 -->
 
-33. Juruaudit 34. Penyata kewangan dan laporan tahunan 35. Penyata kewangan tidak disatukan
+33. Juruaudit
+
+34. Penyata kewangan dan laporan tahunan
+
+35. Penyata kewangan tidak disatukan
 
 ## BAHAGIAN III
 
 ## KEANGGOTAAN, PEMBATALAN DAN PENAMATAN
 
-36. Keanggotaan disifatkan 37. Terma dan syarat keanggotaan 38. Pembatalan keanggotaan 39. Penamatan keanggotaan 40. Kesan pembatalan atau penamatan
+36. Keanggotaan disifatkan
+
+37. Terma dan syarat keanggotaan
+
+38. Pembatalan keanggotaan
+
+39. Penamatan keanggotaan
+
+40. Kesan pembatalan atau penamatan
 
 ## BAHAGIAN IV
 
@@ -104,13 +122,29 @@ Kewangan
 
 Skop perlindungan
 
-41. Takrif 42. Skop perlindungan bagi deposit 43. Pemindahan deposit di antara anggota penerima deposit 44. Deposit anggota penerima deposit diperoleh oleh bukan anggota penerima deposit 45. Deposit disifatkan 46. Bukan sebahagian deposit
+41. Takrif
+
+42. Skop perlindungan bagi deposit
+
+43. Pemindahan deposit di antara anggota penerima deposit
+
+44. Deposit anggota penerima deposit diperoleh oleh bukan anggota penerima deposit
+
+45. Deposit disifatkan
+
+46. Bukan sebahagian deposit
 
 ## Bab 2
 
 Premium
 
-47. Premium pertama berkenaan dengan anggota penerima deposit 48. Premium tahunan berkenaan dengan anggota penerima deposit 49. Pengiraan premium tahunan berkenaan dengan anggota penerima deposit 50. Tiada tolakan berkenaan dengan anggota penerima deposit
+47. Premium pertama berkenaan dengan anggota penerima deposit
+
+48. Premium tahunan berkenaan dengan anggota penerima deposit
+
+49. Pengiraan premium tahunan berkenaan dengan anggota penerima deposit
+
+50. Tiada tolakan berkenaan dengan anggota penerima deposit
 
 <!-- page 4 -->
 
@@ -170,13 +204,59 @@ Skop perlindungan
 
 ## Bab 2
 
-Premium 71. Premium pertama berkenaan dengan anggota penanggung insurans 72. Premium tahunan berkenaan dengan anggota penanggung insurans 73. Pengiraan premium tahunan berkenaan dengan anggota penanggung insurans 74. Tiada tolakan berkenaan dengan anggota penanggung insurans 75. Surcaj premium berkenaan dengan anggota penanggung insurans 76. Caj lampau tempoh berkenaan dengan anggota penanggung insurans 77. Peraturan-peraturan premium berkenaan dengan anggota penanggung insurans 78. Premium dan surcaj atas anggota penanggung insurans disifatkan diperoleh
+Premium
+
+71. Premium pertama berkenaan dengan anggota penanggung insurans
+
+72. Premium tahunan berkenaan dengan anggota penanggung insurans
+
+73. Pengiraan premium tahunan berkenaan dengan anggota penanggung insurans
+
+74. Tiada tolakan berkenaan dengan anggota penanggung insurans
+
+75. Surcaj premium berkenaan dengan anggota penanggung insurans
+
+76. Caj lampau tempoh berkenaan dengan anggota penanggung insurans
+
+77. Peraturan-peraturan premium berkenaan dengan anggota penanggung insurans
+
+78. Premium dan surcaj atas anggota penanggung insurans disifatkan diperoleh
 
 ## Bab 3
 
 Bayaran
 
-79. Bayaran berkenaan dengan manfaat dilindungi 80. Bayaran wajib berkenaan dengan manfaat dilindungi 81. Bayaran budi bicara berkenaan dengan manfaat dilindungi 82. Bayaran pendahuluan berkenaan dengan manfaat dilindungi 83. Pemberhentian polisi insurans dan sijil takaful dalam penggulungan 84. Penentuan bayaran wajib bagi sijil takaful perpaduan keluarga dan polisi hayat 85. Penentuan bayaran wajib bagi sijil takaful am dan polisi am 86. Pemberitahuan oleh Perbadanan 87. Pengiraan pulangan atau bunga atas manfaat dilindungi bagi bayaran wajib 88. Perbadanan boleh membayar pulangan atau bunga atas bayaran wajib berkenaan dengan manfaat dilindungi 89. Pengiraan pulangan atau bunga atas manfaat dilindungi bagi bayaran budi bicara 90. Pelepasan liabiliti, dsb., berkenaan dengan manfaat dilindungi 91. Subrogasi berkenaan dengan manfaat dilindungi 92. Penyerahhakan berkenaan dengan manfaat dilindungi 93. Had masa bagi tuntutan berkenaan dengan manfaat dilindungi 94. Aktuari bebas
+79. Bayaran berkenaan dengan manfaat dilindungi
+
+80. Bayaran wajib berkenaan dengan manfaat dilindungi
+
+81. Bayaran budi bicara berkenaan dengan manfaat dilindungi
+
+82. Bayaran pendahuluan berkenaan dengan manfaat dilindungi
+
+83. Pemberhentian polisi insurans dan sijil takaful dalam penggulungan
+
+84. Penentuan bayaran wajib bagi sijil takaful perpaduan keluarga dan polisi hayat
+
+85. Penentuan bayaran wajib bagi sijil takaful am dan polisi am
+
+86. Pemberitahuan oleh Perbadanan
+
+87. Pengiraan pulangan atau bunga atas manfaat dilindungi bagi bayaran wajib
+
+88. Perbadanan boleh membayar pulangan atau bunga atas bayaran wajib berkenaan dengan manfaat dilindungi
+
+89. Pengiraan pulangan atau bunga atas manfaat dilindungi bagi bayaran budi bicara
+
+90. Pelepasan liabiliti, dsb., berkenaan dengan manfaat dilindungi
+
+91. Subrogasi berkenaan dengan manfaat dilindungi
+
+92. Penyerahhakan berkenaan dengan manfaat dilindungi
+
+93. Had masa bagi tuntutan berkenaan dengan manfaat dilindungi
+
+94. Aktuari bebas
 
 <!-- page 6 -->
 
@@ -242,7 +322,29 @@ Tindakan berkenaan dengan institusi anggota tidak berdaya maju
 
 ## Bab 2
 
-Peruntukan berhubung dengan institusi perantaraan 118. Penamaan institusi perantaraan 119. Siaran notis 120. Institusi perantaraan diberi kuasa untuk menjalankan perniagaan 121. Ketidakpakaian kehendak 122. Institusi perantaraan bukan majikan pengganti 123. Kuasa memberikan arahan 124. Pengambilalihan sebahagian liabiliti deposit yang tidak diinsuranskan atau manfaat yang tidak dilindungi 125. Penggantungan berkenaan dengan institusi perantaraan 126. Notis mengenai niat untuk meneruskan prosiding 127. Bantuan kepada institusi perantaraan 128. Perbadanan boleh memegang syer institusi anggota
+Peruntukan berhubung dengan institusi perantaraan
+
+118. Penamaan institusi perantaraan
+
+119. Siaran notis
+
+120. Institusi perantaraan diberi kuasa untuk menjalankan perniagaan
+
+121. Ketidakpakaian kehendak
+
+122. Institusi perantaraan bukan majikan pengganti
+
+123. Kuasa memberikan arahan
+
+124. Pengambilalihan sebahagian liabiliti deposit yang tidak diinsuranskan atau manfaat yang tidak dilindungi
+
+125. Penggantungan berkenaan dengan institusi perantaraan
+
+126. Notis mengenai niat untuk meneruskan prosiding
+
+127. Bantuan kepada institusi perantaraan
+
+128. Perbadanan boleh memegang syer institusi anggota
 
 ## Bab 3
 
@@ -268,7 +370,9 @@ Peruntukan khusus mengenai penggulungan anggota penerima deposit
 
 Peruntukan khusus mengenai penggulungan anggota penanggung insurans
 
-135. Tafsiran 136. Penggulungan anggota penanggung insurans atas permohonan oleh orang selain Perbadanan
+135. Tafsiran
+
+136. Penggulungan anggota penanggung insurans atas permohonan oleh orang selain Perbadanan
 
 <!-- page 8 -->
 
@@ -336,7 +440,59 @@ Pemerolehan dan pelupusan oleh Perbadanan
 
 Peruntukan berkaitan dengan konservator
 
-160. Tafsiran 161. Kuasa untuk melantik konservator dan konservator tambahan, dsb. 162. Kelayakan konservator 163. Dua konservator atau lebih 164. Tempoh pentadbiran 165. Pemberitahuan pelantikan konservator 166. Kesan pelantikan konservator 167. Kuasa am konservator 168. Tugas am konservator 169. Konservator sebagai ejen orang terjejas 170. Pegawai orang terjejas hendaklah melaksanakan atau menjalankan fungsi dengan kelulusan bertulis 171. Urus niaga dengan aset orang terjejas 172. Pampasan 173. Obligasi pegawai orang terjejas 174. Penyiasatan urusan dan hal ehwal 175. Hak konservator ke atas buku, rekod, akaun atau dokumen lain orang terjejas 176. Hak konservator ke atas aset orang terjejas 177. Menyekat atau menghalang konservator 178. Penafian tuntutan 179. Moratorium 180. Perjanjian kewangan yang layak dengan orang terjejas 181. Mendapatkan balik balasan wang daripada aset yang diperoleh atau dijual sebelum pelantikan konservator 182. Keutamaan tidak wajar 183. Pengosongan jawatan penerima, dsb. 184. Konservator hendaklah menyediakan cadangan 185. Mesyuarat pemiutang bercagar 186. Pelaksanaan cadangan
+160. Tafsiran
+
+161. Kuasa untuk melantik konservator dan konservator tambahan, dsb.
+
+162. Kelayakan konservator
+
+163. Dua konservator atau lebih
+
+164. Tempoh pentadbiran
+
+165. Pemberitahuan pelantikan konservator
+
+166. Kesan pelantikan konservator
+
+167. Kuasa am konservator
+
+168. Tugas am konservator
+
+169. Konservator sebagai ejen orang terjejas
+
+170. Pegawai orang terjejas hendaklah melaksanakan atau menjalankan fungsi dengan kelulusan bertulis
+
+171. Urus niaga dengan aset orang terjejas
+
+172. Pampasan
+
+173. Obligasi pegawai orang terjejas
+
+174. Penyiasatan urusan dan hal ehwal
+
+175. Hak konservator ke atas buku, rekod, akaun atau dokumen lain orang terjejas
+
+176. Hak konservator ke atas aset orang terjejas
+
+177. Menyekat atau menghalang konservator
+
+178. Penafian tuntutan
+
+179. Moratorium
+
+180. Perjanjian kewangan yang layak dengan orang terjejas
+
+181. Mendapatkan balik balasan wang daripada aset yang diperoleh atau dijual sebelum pelantikan konservator
+
+182. Keutamaan tidak wajar
+
+183. Pengosongan jawatan penerima, dsb.
+
+184. Konservator hendaklah menyediakan cadangan
+
+185. Mesyuarat pemiutang bercagar
+
+186. Pelaksanaan cadangan
 
 <!-- page 10 -->
 
@@ -708,7 +864,9 @@ dan tidak termasuk suatu institusi anggota;
 
 “takaful am” ertinya takaful selain takaful perpaduan keluarga;
 
-“takaful perpaduan keluarga” mempunyai erti yang sama sebagaimana yang ditakrifkan di bawah seksyen 2 Akta Takaful 1984.
+“takaful perpaduan keluarga” mempunyai erti yang sama sebagaimana yang ditakrifkan di bawah seksyen 2 Akta Takaful
+
+1984.
 
 (2) Apa-apa sebutan dalam Akta ini mengenai “Akta ini” hendaklah, melainkan jika konteksnya mengkehendaki makna yang lain, disifatkan sebagai termasuk sebutan mengenai mana-mana kaedah-kaedah, peraturan-peraturan, undang-undang kecil, perintah, pemberitahuan, garis panduan, pekeliling, nota atau mana-mana perundangan subsidiari lain yang dibuat atau dikeluarkan di bawah Akta ini.
 
@@ -1026,7 +1184,9 @@ atau menyampaikan apa-apa maklumat berhubungan dengan kesalahan itu kepada mana-
 
 (6) Subseksyen (5) hendaklah berkuat kuasa dan berkesan sepenuhnya, walau apa pun apa-apa ketidakselarasan berkenaan dengannya atau yang bertentangan dengannya, dalam Akta ini atau mana-mana undang-undang lain.
 
-(7) Mana-mana orang yang melanggar subseksyen (1), (2) atau (4) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi tiga juta ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.
+(7) Mana-mana orang yang melanggar subseksyen (1), (2) atau
+
+(4) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi tiga juta ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.
 
 ### Kuasa Perbadanan
 
@@ -1308,7 +1468,9 @@ melalui penyiaran dalam sekurang-kurangnya dua akhbar harian yang disiarkan di M
 
 <!-- page 49 -->
 
-(8) Mana-mana bekas institusi anggota yang melanggar perenggan (1)(a) atau perenggan (5)(a) atau (b) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima juta ringgit dan boleh, sebagai tambahan, dikenakan denda harian tidak melebihi lima puluh ribu ringgit bagi tiap-tiap hari kesalahan itu berterusan selepas sabitan.
+(8) Mana-mana bekas institusi anggota yang melanggar perenggan
+
+(1)(a) atau perenggan (5)(a) atau (b) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima juta ringgit dan boleh, sebagai tambahan, dikenakan denda harian tidak melebihi lima puluh ribu ringgit bagi tiap-tiap hari kesalahan itu berterusan selepas sabitan.
 
 ## BAHAGIAN IV
 
@@ -1424,7 +1586,9 @@ yang telah dizahirkan sedemikian dalam rekod anggota penerima deposit, suatu dep
 
 43. (1) Jika liabiliti deposit anggota penerima deposit (dalam seksyen ini disebut sebagai “anggota pemindah”) dipindahkan kepada dan diambil alih oleh anggota penerima deposit yang lain, deposit itu, ditolak apa-apa pengeluaran daripada deposit itu, disifatkan sebagai dan akan terus diinsuranskan secara berasingan oleh Perbadanan setakat apa-apa amaun yang ditetapkan di bawah subseksyen 42(2) selama tempoh dua tahun, atau sehingga deposit itu matang atau dikeluarkan kesemuanya, mengikut mana-mana yang lebih awal, selepas tarikh pemindahan dan pengambilalihan.
 
-(2) Jika terdapat pemindahan liabiliti deposit di bawah subseksyen (1)—
+(2) Jika terdapat pemindahan liabiliti deposit di bawah subseksyen
+
+(1)—
 
 (a) anggota pemindah itu hendaklah memberikan notis mengenai pemindahan liabiliti deposit dan insurans yang berasingan yang berterusan yang disebut dalam subseksyen (1); dan
 
@@ -2170,7 +2334,9 @@ Bayaran
 
 (c) kesahan tuntutan itu.
 
-(4) Jika mana-mana syarat yang disebut dalam subseksyen (2) dan (3) tidak dipenuhi, amaun bayaran wajib hendaklah berdasarkan amaun yang sepatutnya kena dibayar sebagai hutang yang kena dibayar kepada pemunya sijil atau pemunya polisi pada tarikh sijil takaful atau polisi itu terhenti berkuat kuasa sebagai pembayaran balik bahagian prorata sumbangan atau premiumnya yang mengikut kadar tempoh mulai pada tarikh sijil takaful atau polisi itu terhenti berkuat kuasa dan berahir pada tarikh sijil takaful atau polisi itu sepatutnya tamat jika mengikut termanya sendiri.
+(4) Jika mana-mana syarat yang disebut dalam subseksyen
+
+(2) dan (3) tidak dipenuhi, amaun bayaran wajib hendaklah berdasarkan amaun yang sepatutnya kena dibayar sebagai hutang yang kena dibayar kepada pemunya sijil atau pemunya polisi pada tarikh sijil takaful atau polisi itu terhenti berkuat kuasa sebagai pembayaran balik bahagian prorata sumbangan atau premiumnya yang mengikut kadar tempoh mulai pada tarikh sijil takaful atau polisi itu terhenti berkuat kuasa dan berahir pada tarikh sijil takaful atau polisi itu sepatutnya tamat jika mengikut termanya sendiri.
 
 (5) Walau apa pun peruntukan seksyen 80 atau 81, Perbadanan boleh membuat bayaran yang disebut dalam seksyen ini pada bila- bila masa selepas suatu petisyen penggulungan terhadap anggota penanggung insurans itu dikemukakan di mahkamah.
 
@@ -3138,7 +3304,7 @@ Peruntukan khusus mengenai penggulungan anggota penanggung insurans
 
 (2) Walau apa pun seksyen 67 Akta Takaful 1984 dan seksyen 199 Akta Insurans 1996, jika terdapat apa-apa percanggahan atau ketidakselarasan antara peruntukan Akta ini dengan peruntukan Akta-Akta itu, peruntukan Akta ini, dan Akta Syarikat 1965 setakat yang terpakai, hendaklah mengatasi.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## PERLINDUNGAN PENSTABILAN
 
@@ -3330,7 +3496,7 @@ berkenaan dengan institusi anggota itu, peruntukan khas hendaklah terus terpakai
 
 (e) jika, sebelum tempoh perlindungan penstabilan itu habis tempoh, Perbadanan berkewajipan atau diberi kuasa untuk membuat suatu bayaran perlindungan penstabilan berkenaan dengan perbadanan yang ditetapkan, peruntukan khas hendaklah terus terpakai bagi dan berkenaan dengan perbadanan yang ditetapkan itu seolah-olah tempoh perlindungan penstabilan itu belum habis tempoh.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 KUASA BERHUBUNG DENGAN ASET yANG DIPEROLEH
 
@@ -3618,7 +3784,9 @@ dalam borang yang ditetapkan di bawah Akta ini; dan
 
 <!-- page 147 -->
 
-(3) Kecuali sebagaimana yang diperuntukkan dalam subseksyen (2) dan walau apa pun mana-mana undang-undang atau kontrak lain, tiada apa-apa jua pun jenis saraan akan terakru atau boleh dibayar kepada mana-mana pegawai orang terjejas kecuali sebagaimana yang diluluskan secara bertulis oleh konservator itu berhubung dengan mana-mana aktiviti yang dikehendaki atau diberi kuasa oleh konservator bagi tempoh pentadbiran orang terjejas.
+(3) Kecuali sebagaimana yang diperuntukkan dalam subseksyen
+
+(2) dan walau apa pun mana-mana undang-undang atau kontrak lain, tiada apa-apa jua pun jenis saraan akan terakru atau boleh dibayar kepada mana-mana pegawai orang terjejas kecuali sebagaimana yang diluluskan secara bertulis oleh konservator itu berhubung dengan mana-mana aktiviti yang dikehendaki atau diberi kuasa oleh konservator bagi tempoh pentadbiran orang terjejas.
 
 (4) Bagi maksud subseksyen (1), konservator berhak untuk menjalankan segala fungsi lembaga pengarah orang terjejas.
 
@@ -3738,7 +3906,9 @@ tetapi konservator itu berhak untuk memeriksa dan membuat salinan buku, rekod, a
 
 konservator boleh dalam tempoh dua belas bulan selepas dia menyedari akan mana-mana aset yang tersebut di atas, menafikan tuntutan mana-mana aset sedemikian.
 
-(2) Hak mana-mana orang yang terjejas oleh konservator menurut penjalanan kuasanya untuk menafikan tuntutan di bawah subseksyen (1) hendaklah diuruskan mengikut cara yang dinyatakan dalam cadangan itu dan apa-apa pampasan kepada orang itu hendaklah ditarafkan sebagai suatu hutang tidak bercagar.
+(2) Hak mana-mana orang yang terjejas oleh konservator menurut penjalanan kuasanya untuk menafikan tuntutan di bawah subseksyen
+
+(1) hendaklah diuruskan mengikut cara yang dinyatakan dalam cadangan itu dan apa-apa pampasan kepada orang itu hendaklah ditarafkan sebagai suatu hutang tidak bercagar.
 
 (3) Konservator boleh tidak menjalankan kuasanya di bawah subseksyen (1) untuk menafikan tuntutan apa-apa kontrak pasaran.
 
@@ -3778,11 +3948,15 @@ kecuali dengan persetujuan bertulis Perbadanan terlebih dahulu;
 
 (h) tiada tindakan, guaman, prosiding, pelaksanaan atau proses undang-undang boleh dimulakan atau diteruskan terhadap mana-mana orang yang menyediakan suatu jaminan atau yang bertindak sebagai seorang penjamin bagi liabiliti orang terjejas kecuali dengan persetujuan bertulis Perbadanan terlebih dahulu.
 
-(2) Tempoh moratorium yang diperuntukkan dalam subseksyen (1) hendaklah bagi suatu tempoh dua belas bulan bermula dari tarikh pelantikan konservator dan boleh ditamatkan pada bila-bila masa oleh Perbadanan.
+(2) Tempoh moratorium yang diperuntukkan dalam subseksyen
+
+(1) hendaklah bagi suatu tempoh dua belas bulan bermula dari tarikh pelantikan konservator dan boleh ditamatkan pada bila-bila masa oleh Perbadanan.
 
 (3) Walau apa pun subseksyen (2), Perbadanan boleh melanjutkan moratorium itu bagi apa-apa tempoh sebagaimana yang disifatkan sesuai oleh Perbadanan bagi membolehkan konservator menyediakan atau melaksanakan suatu cadangan di bawah Bahagian ini.
 
-(4) Jika tempoh moratorium itu dilanjutkan menurut subseksyen (3), suatu notis mengenai pelanjutan itu hendaklah disiarkan dalam sekurang-kurangnya dua akhbar harian di Malaysia, satu daripadanya hendaklah dalam bahasa kebangsaan.
+(4) Jika tempoh moratorium itu dilanjutkan menurut subseksyen
+
+(3), suatu notis mengenai pelanjutan itu hendaklah disiarkan dalam sekurang-kurangnya dua akhbar harian di Malaysia, satu daripadanya hendaklah dalam bahasa kebangsaan.
 
 (5) Perbadanan tidaklah bertanggungan bagi sesuatu tindakan atau ganti rugi berkenaan dengan sesuatu keengganan untuk memberikan persetujuannya di bawah subseksyen (1).
 
@@ -3946,7 +4120,9 @@ menyebabkan disiarkan dalam sekurang-kurangnya dua akhbar harian di Malaysia, sa
 
 (9) Jika suatu cadangan memberi kesan kepada modal syer orang terjejas, konservator hendaklah dalam tempoh empat belas hari selepas cadangan itu diluluskan mengikut Bahagian ini, memberitahu Pendaftar Syarikat bagaimana cadangan itu menjejaskan modal syer orang terjejas.
 
-(10) Suatu notis di bawah subseksyen (9) hendaklah dalam borang sebagaimana yang ditetapkan di bawah Akta Syarikat 1965.
+(10) Suatu notis di bawah subseksyen (9) hendaklah dalam borang sebagaimana yang ditetapkan di bawah Akta Syarikat
+
+1965.
 
 (11) Apabila suatu notis diserahkan di bawah subseksyen (9), kesemua kehendak di bawah Akta Syarikat 1965 atau mana-mana undang-undang lain yang berkenaan dengan perubahan dalam modal syer orang terjejas hendaklah disifatkan telah dipatuhi dan, berkuat kuasa dari tarikh yang dinyatakan dalam cadangan itu, modal syer orang terjejas hendaklah sebagaimana yang dinyatakan dalam notis itu.
 
@@ -4026,7 +4202,7 @@ dan syarat kelulusan dikenakan oleh badan kawal selia itu, Perbadanan boleh, wal
 
 mempunyai kuat kuasa bagi maksud Akta ini dan tidaklah terbatal, boleh batal atau dianggap sebagai suatu keutamaan tidak wajar dalam penggulungan orang terjejas.
 
-## Bahagian X
+## BAHAGIAN X
 
 ## KESALAHAN
 
@@ -4116,7 +4292,7 @@ yang disabitkan itu untuk membayar, walau apa pun amaun maksimum mana-mana denda
 
 201. Segala denda yang kena dibayar di bawah Akta ini boleh didapatkan kembali dan dikuatkuasakan, dengan kos, atas guaman oleh Perbadanan, dimulakan oleh Perbadanan dan, apabila didapatkan kembali, hendaklah dibayar ke dalam dan menjadi sebahagian daripada Kumpulan Wang Disatukan.
 
-## Bahagian XI
+## BAHAGIAN XI
 
 ## PERUNTUKAN AM
 
@@ -4262,7 +4438,7 @@ sebagaimana yang perlu atau suai manfaat untuk melaksanakan sepenuhnya peruntuka
 
 <!-- page 176 -->
 
-## Bahagian XII
+## BAHAGIAN XII
 
 ## PEMANSUHAN, KECUALIAN DAN PERALIHAN
 
@@ -4308,7 +4484,7 @@ disifatkan telah disempurnakan, dibuat atau dilakukan menurut undang-undang dan 
 
 212. Pada suatu tarikh yang ditetapkan oleh Menteri atas syor Perbadanan dan Bank Negara Malaysia, wang dan apa-apa aset lain yang berada dalam kredit kumpulan wang skim jaminan insurans am dan hayat yang ditubuhkan di bawah seksyen 173 Akta Insurans 1996 hendaklah dipindahkan oleh Bank Negara Malaysia kepada Perbadanan dan dikreditkan secara bersamaan oleh Perbadanan kepada kumpulan wang perlindungan insurans am dan kumpulan wang perlindungan insurans hayat.
 
-## Jadual Pertama
+## JADUAL PERTAMA
 
 [Seksyen 104]
 
@@ -4430,7 +4606,7 @@ dan dalam semua keadaan ia hendaklah menolak nilai manfaat yang diperoleh daripa
 
 <!-- page 183 -->
 
-## Jadual Kedua
+## JADUAL KEDUA
 
 [Subseksyen 99(5), 115(6) dan 180(5)]
 
@@ -4650,7 +4826,7 @@ daftar atau rekod yang disimpan oleh pendaftar itu sebagaimana yang perlu untuk 
 
 (2) Atas permintaan penerima pindahan, pemindah, atas kosnya sendiri, hendaklah mengambil segala langkah yang perlu untuk memastikan peletakhakan mana-mana aset pemindah di luar Malaysia diberi kesan sepenuhnya di bawah undang-undang yang terpakai di negara atau wilayah di mana aset itu terletak.
 
-## Jadual Ketiga
+## JADUAL KETIGA
 
 [Seksyen 158]
 
@@ -4918,7 +5094,7 @@ dengan mengeluarkan suatu perakuan peletakhakan, yang hendaklah mempunyai kesan 
 
 (2) Atas permintaan Perbadanan, penjual, atas kosnya sendiri, hendaklah mengambil segala langkah yang perlu untuk memastikan peletakhakan mana- mana aset penjual di luar Malaysia diberi kesan sepenuhnya di bawah undang- undang yang terpakai di negara atau wilayah di mana aset itu terletak.
 
-## Jadual KeemPat
+## JADUAL KEEMPAT
 
 [Seksyen 159]
 
@@ -4978,7 +5154,7 @@ Tujuan Rang Undang-Undang ini adalah untuk menggantikan Akta 642 yang sedia ada 
 
 (b) pindaan kepada Akta yang sedia ada untuk memperbaik bentuk mekanisme jaring keselamatan kewangan, secara lebih spesifik, untuk melengkapkan Perbadanan Insurans Deposit Malaysia dengan kuasa yang mencukupi untuk menguruskan institusi anggota yang bermasalah secara efektif, sejajar dengan perkembangan di negara lain berikutan krisis kewangan global. Ini termasuklah opsyen resolusi tambahan melalui penggunaan institusi perantaraan.
 
-## Bahagian i
+## BAHAGIAN I
 
 2. Bahagian I memperkatakan perkara permulaan.
 
@@ -4986,7 +5162,7 @@ Tujuan Rang Undang-Undang ini adalah untuk menggantikan Akta 642 yang sedia ada 
 
 4. Fasal 2 mengandungi takrif perkataan dan istilah yang digunakan dalam Akta yang dicadangkan ini.
 
-## Bahagian ii
+## BAHAGIAN II
 
 5. Bahagian II mengandungi enam Bab dan mengadakan peruntukan bagi perkara berhubungan dengan objektif dan fungsi Perbadanan, lembaga pengarah, pegawai dan pekerjanya termasuk Ketua Pegawai Eksekutif dan bagi perkara kewangan berhubung dengan Perbadanan.
 
@@ -5062,7 +5238,7 @@ Tujuan Rang Undang-Undang ini adalah untuk menggantikan Akta 642 yang sedia ada 
 
 38. Fasal 35 bertujuan untuk membenarkan Perbadanan dan subsidiarinya menyediakan penyata kewangan yang berasingan dan bukan penyata kewangan yang disatukan.
 
-## Bahagian iii
+## BAHAGIAN III
 
 39. Bahagian III mengandungi peruntukan berhubungan dengan keanggotaan di bawah Akta yang dicadangkan ini dan pembatalan dan penamatan keanggotaan.
 
@@ -5078,7 +5254,7 @@ Tujuan Rang Undang-Undang ini adalah untuk menggantikan Akta 642 yang sedia ada 
 
 44. Fasal 40 mengandungi peruntukan mengenai kesan pembatalan atau penamatan keanggotaan.
 
-## Bahagian iV
+## BAHAGIAN IV
 
 45. Bahagian IV mengandungi peruntukan berhubungan dengan deposit diinsuranskan.
 
@@ -5138,7 +5314,7 @@ Tujuan Rang Undang-Undang ini adalah untuk menggantikan Akta 642 yang sedia ada 
 
 71. Fasal 67 mengadakan peruntukan bagi had masa untuk memulakan suatu tindakan terhadap Perbadanan berkenaan dengan kewajipannya untuk membuat suatu bayaran wajib berhubung dengan suatu deposit.
 
-## Bahagian V
+## BAHAGIAN V
 
 72. Bahagian V mengandungi peruntukan berhubungan dengan manfaat takaful dan insurans dilindungi.
 
@@ -5200,7 +5376,7 @@ Tujuan Rang Undang-Undang ini adalah untuk menggantikan Akta 642 yang sedia ada 
 
 98. Fasal 94 mengandungi peruntukan berhubungan dengan pelantikan seorang aktuari bebas oleh Perbadanan.
 
-## Bahagian Vi
+## BAHAGIAN VI
 
 99. Bahagian VI mengandungi peruntukan berhubungan dengan pemeriksaan institusi anggota.
 
@@ -5212,7 +5388,7 @@ Tujuan Rang Undang-Undang ini adalah untuk menggantikan Akta 642 yang sedia ada 
 
 102. Fasal 97 bertujuan untuk memberi Perbadanan kuasa untuk menjalankan pemeriksaan khas.
 
-## Bahagian Vii
+## BAHAGIAN VII
 
 103. Bahagian VII mengandungi peruntukan berhubungan dengan kuasa resolusi Perbadanan untuk menyelesaikan kegagalan institusi anggota.
 
@@ -5314,7 +5490,7 @@ Tujuan Rang Undang-Undang ini adalah untuk menggantikan Akta 642 yang sedia ada 
 
 <!-- page 217 -->
 
-## Bahagian Viii
+## BAHAGIAN VIII
 
 149. Bahagian VIII mengandungi peruntukan berhubungan dengan peruntukan perlindungan penstabilan di bawah Akta yang dicadangkan ini.
 
@@ -5348,7 +5524,7 @@ Tujuan Rang Undang-Undang ini adalah untuk menggantikan Akta 642 yang sedia ada 
 
 162. Fasal 157 mengadakan peruntukan bagi pemakaian yang berterusan peruntukan khas dalam hal keadaan yang dinyatakan dalam fasal ini.
 
-## Bahagian iX
+## BAHAGIAN IX
 
 163. Bahagian IX mengandungi peruntukan berhubungan dengan kuasa khusus Perbadanan berhubung dengan pemerolehan dan pelupusan aset dan fungsi konservator yang dilantik di bawah Akta yang dicadangkan ini.
 
@@ -5418,7 +5594,7 @@ Tujuan Rang Undang-Undang ini adalah untuk menggantikan Akta 642 yang sedia ada 
 
 193. Fasal 191 mengadakan peruntukan bagi kesahan tindakan dan transaksi konservator walau apa pun penggulungan orang terjejas.
 
-## Bahagian X
+## BAHAGIAN X
 
 194. Bahagian X mengandungi peruntukan berhubungan dengan kesalahan di bawah Akta yang dicadangkan ini.
 
@@ -5444,7 +5620,7 @@ Tujuan Rang Undang-Undang ini adalah untuk menggantikan Akta 642 yang sedia ada 
 
 204. Fasal 201 mengadakan peruntukan bahawa apa-apa denda yang kena dibayar di bawah Akta yang dicadangkan ini boleh didapatkan dan dikuatkuasakan oleh Perbadanan dan setelah didapatkan, denda itu hendaklah dibayar ke dalam Kumpulan Wang Disatukan.
 
-## Bahagian Xi
+## BAHAGIAN XI
 
 205. Bahagian XI mengandungi peruntukan am.
 
@@ -5466,7 +5642,7 @@ Tujuan Rang Undang-Undang ini adalah untuk menggantikan Akta 642 yang sedia ada 
 
 <!-- page 222 -->
 
-## Bahagian XII
+## BAHAGIAN XII
 
 214. Bahagian XII memperkatakan perkara pemansuhan, kecualian dan peralihan.
 

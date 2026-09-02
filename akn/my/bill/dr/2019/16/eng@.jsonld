@@ -110,7 +110,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/16/eng@/~cl_10",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (3)— Amendment of section 52"
+        "@value": "in subsection (3)—"
       }
     },
     {
@@ -130,7 +130,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/16/eng@/~cl_10__para_d",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after the words “subsection 11(3)” the words “or 11(3a)”."
+        "@value": "by inserting after the words “subsection 11(3)” the words “or 11(3a)”. Amendment of section 52"
       }
     },
     {

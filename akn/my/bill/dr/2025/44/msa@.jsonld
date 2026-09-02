@@ -1,0 +1,829 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-44-2025",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_9"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Perjanjian Penyelesaian Antarabangsa Yang Terhasil Daripada Pengantaraan 2025"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Perjanjian Penyelesaian Antarabangsa yang Terhasil daripada Pengantaraan 2025."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Tafsiran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "“institusi” ertinya suatu badan, entiti atau organisasi yang menjalankan prosiding; “Konvensyen” ertinya Konvensyen Pertubuhan Bangsa-Bangsa Bersatu mengenai Perjanjian Penyelesaian Antarabangsa yang Terhasil daripada Pengantaraan; “Mahkamah Tinggi” ertinya Mahkamah Tinggi di Malaya dan Mahkamah Tinggi di Sabah dan Sarawak atau mana-mana satu daripadanya, mengikut kehendak keadaan; “Menteri” ertinya Menteri yang dipertanggungkan dengan tanggungjawab bagi hal ehwal undang-undang; “Negara” ertinya suatu Negara yang berdaulat dan bukan suatu negeri komponen di Malaysia; daripada Pengantaraan “pengantara” ertinya seseorang yang dilantik oleh pihak-pihak kepada pengantaraan untuk membantu pihak-pihak itu untuk mencapai penyelesaian secara baik bagi pertikaiannya; “pengantaraan” ertinya suatu proses, tanpa mengira ungkapan yang digunakan atau asas yang berdasarkannya proses itu dijalankan, yang melaluinya dua atau lebih pihak-pihak kepada pengantaraan cuba untuk mencapai penyelesaian secara baik bagi pertikaian komersialnya dengan bantuan seseorang pengantara; “perjanjian penyelesaian” ertinya suatu perjanjian secara bertulis yang terhasil daripada pengantaraan dan dipersetujui antara pihak-pihak kepada pengantaraan itu bagi penyelesaian suatu pertikaian komersial; “perjanjian penyelesaian antarabangsa” ertinya suatu perjanjian penyelesaian yang baginya Akta ini terpakai sebagaimana yang disebut dalam seksyen 3; “pihak” atau “pihak-pihak” ertinya suatu pihak atau pihak-pihak kepada suatu perjanjian penyelesaian antarabangsa, tetapi tidak termasuk pengantara yang membantu pihak atau pihak-pihak kepada pengantaraan yang menghasilkan perjanjian penyelesaian antarabangsa itu; “prosiding” ertinya apa-apa prosiding daripada jenis sivil dan termasuklah apa-apa permohonan yang dibuat pada mana-mana peringkat prosiding itu; “tandatangan” termasuklah tandatangan elektronik sebagaimana yang ditakrifkan dalam Akta Perdagangan Elektronik 2006 [Akta 658]. Pemakaian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada subseksyen (2), Akta ini hendaklah terpakai bagi suatu perjanjian penyelesaian antarabangsa yang merupakan suatu perjanjian penyelesaian yang bersifat antarabangsa pada masa ia dipersetujui jika—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sekurang-kurangnya dua daripada pihak-pihak mempunyai tempat perniagaannya di Negara yang berbeza; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3__subsec_1__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3__subsec_1__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Negara yang dalamnya pihak-pihak itu mempunyai tempat perniagaannya adalah berbeza daripada mana-mana satu—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3__subsec_1__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3__subsec_1__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Negara yang dalamnya sebahagian besar kewajipan di bawah perjanjian penyelesaian itu dilaksanakan; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3__subsec_1__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3__subsec_1__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Negara yang dengannya hal perkara perjanjian penyelesaian itu paling berkait rapat."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini tidak terpakai bagi perjanjian penyelesaian antarabangsa yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang telah dipersetujui untuk menyelesaikan suatu pertikaian yang timbul daripada transaksi yang dilakukan oleh salah satu pihak yang merupakan seorang pengguna bagi maksud peribadi, keluarga, atau rumah tangga;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang timbul daripada undang-undang keluarga, pewarisan atau pekerjaan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang telah dipersetujui atau direkodkan sebagai suatu penghakiman mahkamah semasa penjalanan prosiding mahkamah dan boleh dikuatkuasakan sebagai suatu penghakiman mahkamah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang boleh dikuatkuasakan sebagai suatu award timbang tara."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika suatu pihak mempunyai lebih daripada satu tempat perniagaan, tempat perniagaan yang relevan adalah yang mempunyai hubungan yang paling rapat dengan pertikaian yang diselesaikan melalui perjanjian penyelesaian antarabangsa itu, dengan mengambil kira hal keadaan yang diketahui, atau dicadangkan oleh, pihak-pihak pada masa perjanjian penyelesaian antarabangsa itu dipersetujui; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_3__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika suatu pihak tidak mempunyai tempat perniagaan, tempat perniagaan itu merujuk kepada pemastautinan lazim pihak itu. daripada Pengantaraan Permohonan bagi penguatkuasaan perjanjian penyelesaian antarabangsa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_4__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_4__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_4__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu pihak kepada perjanjian penyelesaian antarabangsa boleh membuat suatu permohonan kepada Mahkamah Tinggi supaya perjanjian penyelesaian antarabangsa itu direkodkan sebagai suatu perintah Mahkamah Tinggi bagi maksud menguatkuasakan perjanjian penyelesaian antarabangsa itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_4__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_4__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Permohonan di bawah subseksyen (1) hendaklah disertakan dengan dokumen dan keterangan yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_4__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_4__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perjanjian penyelesaian antarabangsa asal atau salinan perjanjian itu yang diperakui dengan sempurnanya yang ditandatangani oleh pihak-pihak; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_4__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_4__subsec_2__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_4__subsec_2__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_4__subsec_2__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_4__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "keterangan bahawa perjanjian penyelesaian antarabangsa itu terhasil daripada pengantaraan, seperti—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_4__subsec_2__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_4__subsec_2__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tandatangan pengantara yang membantu pihak-pihak kepada pengantaraan itu pada perjanjian penyelesaian antarabangsa itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_4__subsec_2__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_4__subsec_2__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu dokumen yang ditandatangani oleh pengantara yang mengesahkan bahawa pengantaraan itu telah dijalankan; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_4__subsec_2__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_4__subsec_2__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu aku saksi oleh badan atau organisasi yang menyediakan perkhidmatan pengantaraan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam ketiadaan keterangan yang disebut dalam perenggan (2)(b), pihak itu boleh mengemukakan apa-apa keterangan lain yang boleh diterima oleh Mahkamah Tinggi untuk menyokong permohonan di bawah subseksyen (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_4__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila menerima suatu permohonan di bawah subseksyen (1) bersama-sama dengan dokumen yang disebut dalam perenggan (2)(a) dan keterangan yang disebut dalam perenggan (2)(b) atau subseksyen (3), Mahkamah Tinggi boleh merekodkan atau menolak untuk merekodkan perjanjian penyelesaian antarabangsa itu sebagai suatu perintah Mahkamah Tinggi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_4__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_4__subsec_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_4__subsec_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika Mahkamah Tinggi merekodkan perjanjian penyelesaian antarabangsa itu sebagai suatu perintah Mahkamah Tinggi di bawah seksyen ini—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_4__subsec_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_4__subsec_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perjanjian penyelesaian antarabangsa itu boleh dikuatkuasakan mengikut cara yang sama sebagaimana suatu penghakiman atau perintah Mahkamah Tinggi; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_4__subsec_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_4__subsec_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana pihak boleh bergantung kepada perjanjian penyelesaian antarabangsa itu sebagai pembelaan, tolakan atau selainnya dalam mana-mana prosiding. Penerimaan perjanjian penyelesaian antarabangsa sebagai keterangan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_5__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_5__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_5__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika suatu pertikaian komersial timbul berhubung dengan suatu perkara yang dinyatakan oleh suatu pihak kepada perjanjian penyelesaian antarabangsa telah diselesaikan melalui perjanjian penyelesaian antarabangsa itu, perjanjian penyelesaian antarabangsa itu hendaklah diterima sebagai keterangan dalam mana-mana prosiding di mana-mana mahkamah atau institusi bagi maksud membuktikan bahawa perkara itu telahpun diselesaikan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_5__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_5__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu pihak kepada perjanjian penyelesaian antarabangsa yang berhasrat untuk mengemukakan perjanjian penyelesaian antarabangsa itu sebagai suatu keterangan dalam mana-mana prosiding di mana-mana mahkamah atau institusi hendaklah mengemukakan kepada mahkamah atau institusi itu, mengikut mana-mana yang berkenaan, dokumen dan keterangan yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_5__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perjanjian penyelesaian antarabangsa asal atau salinan perjanjian itu yang diperakui dengan sempurnanya yang ditandatangani oleh pihak-pihak; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_5__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_5__subsec_2__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_5__subsec_2__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_5__subsec_2__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "keterangan bahawa perjanjian penyelesaian antarabangsa itu terhasil daripada pengantaraan, seperti—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_5__subsec_2__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_5__subsec_2__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tandatangan pengantara yang membantu pihak-pihak kepada pengantaraan itu pada perjanjian penyelesaian antarabangsa itu; daripada Pengantaraan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_5__subsec_2__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_5__subsec_2__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu dokumen yang ditandatangani oleh pengantara yang mengesahkan bahawa pengantaraan itu telah dijalankan; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_5__subsec_2__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_5__subsec_2__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu aku saksi oleh badan atau organisasi yang menyediakan perkhidmatan pengantaraan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam ketiadaan keterangan yang disebut dalam perenggan (2)(b), pihak itu boleh mengemukakan apa-apa keterangan lain yang boleh diterima oleh mahkamah atau institusi itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_5__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila menerima dokumen yang disebut dalam perenggan (2)(a) dan keterangan yang disebut dalam perenggan (2)(b) atau subseksyen (3), mahkamah atau institusi itu boleh menerima atau menolak untuk menerima perjanjian penyelesaian antarabangsa itu sebagai keterangan dalam prosidingnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_5__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud seksyen ini, sebutan mengenai mahkamah termasuklah Mahkamah Tinggi. Bahasa perjanjian penyelesaian antarabangsa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika perjanjian penyelesaian antarabangsa yang berkenaan adalah dalam bahasa selain bahasa kebangsaan atau bahasa Inggeris, pihak yang membuat permohonan supaya suatu perjanjian penyelesaian antarabangsa direkodkan sebagai suatu perintah Mahkamah Tinggi di bawah subseksyen 4(1), atau pihak yang berhasrat untuk mengemukakan suatu perjanjian penyelesaian antarabangsa sebagai keterangan dalam mana-mana prosiding di mana-mana mahkamah atau institusi di bawah subseksyen 5(2), hendaklah membekalkan kepada Mahkamah Tinggi atau mana-mana mahkamah lain atau institusi, mengikut mana-mana yang berkenaan, suatu terjemahan perjanjian penyelesaian antarabangsa itu yang diperakui dengan sempurnanya dalam bahasa Inggeris. Alasan untuk menolak permohonan bagi penguatkuasaan dan penerimaan perjanjian penyelesaian antarabangsa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Permohonan supaya suatu perjanjian penyelesaian antarabangsa direkodkan sebagai suatu perintah Mahkamah Tinggi di bawah subseksyen 4(1), atau pengemukaan perjanjian penyelesaian antarabangsa sebagai keterangan dalam mana-mana prosiding di bawah subseksyen 5(2), oleh suatu pihak boleh ditolak oleh Mahkamah Tinggi atau mana-mana mahkamah lain atau institusi, mengikut mana-mana yang berkenaan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_a__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_a__subpara_iv",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_a__subpara_v",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_a__subpara_vi"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika pihak yang lain itu memberikan bukti bahawa—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu pihak adalah tidak berkeupayaan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_a__subpara_ii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_a__subpara_ii__subpara_B",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_a__subpara_ii__subpara_C"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perjanjian penyelesaian antarabangsa itu—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_a__subpara_ii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_a__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "batal dan tidak sah, tidak berkuat kuasa atau tidak dapat dilaksanakan di bawah undang-undang yang terpakai yang berhubungan dengan perjanjian penyelesaian antarabangsa itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_a__subpara_ii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_a__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tidak mengikat, atau tidak muktamad, menurut termanya; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_a__subpara_ii__subpara_C",
+      "@type": "akn:subparagraph",
+      "eli:number": "C",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_a__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "telah kemudiannya diubah suai;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_a__subpara_iii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_a__subpara_iii__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kewajipan di bawah perjanjian penyelesaian antarabangsa itu—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_a__subpara_iii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_a__subpara_iii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "telah dilaksanakan dengan sempurnanya; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_a__subpara_iii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_a__subpara_iii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tidak jelas atau tidak boleh difahami;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_a__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membenarkan permohonan atau pengemukaan itu adalah bertentangan dengan terma perjanjian penyelesaian antarabangsa itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_a__subpara_v",
+      "@type": "akn:subparagraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "terdapat kemungkiran yang serius oleh pengantara terhadap standard yang terpakai bagi pengantara, atau pengantaraan, yang tanpa kemungkiran itu pihak itu tidak akan membuat perjanjian penyelesaian antarabangsa itu; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_a__subpara_vi",
+      "@type": "akn:subparagraph",
+      "eli:number": "vi",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "terdapat kegagalan oleh pengantara untuk menzahirkan kepada pihak-pihak hal keadaan yang menimbulkan keraguan yang boleh diwajarkan terhadap kesaksamaan atau kebebasan pengantara itu dan kegagalan untuk menzahirkan itu memberi daripada Pengantaraan kesan material atau pengaruh tidak wajar atas suatu pihak, yang tanpa kegagalan itu pihak itu tidak akan membuat perjanjian penyelesaian antarabangsa itu; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika Mahkamah Tinggi atau mana-mana mahkamah lain atau institusi mendapati bahawa—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "terma perjanjian penyelesaian antarabangsa itu bercanggah dengan dasar awam Malaysia; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_7__subsec_1__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "hal perkara pertikaian komersial itu tidak dapat diselesaikan melalui pengantaraan di bawah undang-undang Malaysia. Pengetepian perintah mahkamah yang berhubungan dengan penguatkuasaan perjanjian penyelesaian antarabangsa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_8__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_8__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_8__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika suatu perintah Mahkamah Tinggi untuk merekodkan suatu perjanjian penyelesaian antarabangsa dibuat di bawah subseksyen 4(4) tanpa kehadiran suatu pihak kepada perjanjian penyelesaian antarabangsa itu, pihak itu boleh memohon untuk mengetepikan perintah Mahkamah Tinggi itu—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_8__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_8__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memberikan mana-mana bukti yang disebut dalam perenggan 7(1)(a); atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_8__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_8__subsec_1__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_8__subsec_1__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_8__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan mengemukakan keterangan bahawa—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_8__subsec_1__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_8__subsec_1__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "terma perjanjian penyelesaian antarabangsa itu bercanggah dengan dasar awam Malaysia; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_8__subsec_1__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_8__subsec_1__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "hal perkara pertikaian komersial itu tidak dapat diselesaikan melalui pengantaraan di bawah undang-undang Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila menerima suatu permohonan di bawah subseksyen (1) bersama-sama dengan bukti dan keterangan yang diberikan atau dikemukakan sedemikian, Mahkamah Tinggi boleh mengetepikan perintah yang dibuat di bawah subseksyen 4(4). Permohonan atau tuntutan selari"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_9__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika permohonan supaya suatu perjanjian penyelesaian antarabangsa direkodkan sebagai suatu perintah Mahkamah Tinggi telah dibuat kepada Mahkamah Tinggi di bawah subseksyen 4(1) dan belum selesai, dan suatu permohonan atau tuntutan selari yang berhubungan dengan perjanjian penyelesaian antarabangsa yang sama juga telah dibuat dan belum selesai di mana-mana mahkamah lain, tribunal timbang tara atau badan lain yang mempunyai bidang kuasa di Malaysia atau di mana-mana Negara lain, dan Mahkamah Tinggi itu berpendapat bahawa prosiding permohonan atau tuntutan selari itu boleh atau berkemungkinan menjejaskan permohonan di bawah subseksyen 4(1), Mahkamah Tinggi itu boleh—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menangguhkan keputusannya mengenai permohonan yang dibuat di bawah subseksyen 4(1) sehingga prosiding permohonan atau tuntuan selari itu berakhir; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/44/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "atas permohonan suatu pihak, memerintahkan pihak yang satu lagi itu untuk memberi jaminan yang sesuai."
+      }
+    }
+  ]
+}

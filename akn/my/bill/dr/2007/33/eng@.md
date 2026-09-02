@@ -4,7 +4,9 @@
 
 intituled
 
-An Act to amend the Pembangunan Sumber Manusia Berhad Act 2001.
+An Act to amend the Pembangunan Sumber Manusia Berhad Act
+
+2001.
 
 ENACTED by the Parliament of Malaysia as follows:
 
@@ -120,4 +122,6 @@ This Bill seeks to amend the Pembangunan Sumber Manusia Berhad Act 2001 ("Act 61
 
 ## FINANCIAL IMPLICATIONS
 
-This Bill will not involve the Government in any extra financial expenditure. [PN(U2)2544]
+This Bill will not involve the Government in any extra financial expenditure.
+
+<!-- marginal: [PN(U2)2544] -->

@@ -30,9 +30,15 @@ Maksud Tajuk Amaun
 
 (RM)
 
-B. 03 Jabatan Audit 208,070
+B. 03 Jabatan Audit
 
-B. 07 Jabatan Perkhidmatan Awam 14,975,640 B. 09 Badan Pencegah Rasuah 1,310 B. 12 Perkhidmatan Am Perbendaharaan 234,263.951 B. 13 Peruntukan kepada Kumpulan Wang 8,099,133,644 Terkanun B. 14 Jabalan Kastam Diraja Malaysia 18,750,350 B. 15 Kementerian Luar Negeri 99,520,050 B. 41 Kementerian Pelajaran 960,064,800 B. 50 Kementerian Pertahanan 311,790,240
+<!-- marginal: 208,070 -->
+
+B. 07 Jabatan Perkhidmatan Awam 14,975,640 B. 09 Badan Pencegah Rasuah
+
+<!-- marginal: 1,310 -->
+
+B. 12 Perkhidmatan Am Perbendaharaan 234,263.951 B. 13 Peruntukan kepada Kumpulan Wang 8,099,133,644 Terkanun B. 14 Jabalan Kastam Diraja Malaysia 18,750,350 B. 15 Kementerian Luar Negeri 99,520,050 B. 41 Kementerian Pelajaran 960,064,800 B. 50 Kementerian Pertahanan 311,790,240
 
 ## JUMLAH
 
@@ -42,4 +48,4 @@ B. 07 Jabatan Perkhidmatan Awam 14,975,640 B. 09 Badan Pencegah Rasuah 1,310 B. 
 
 Rang Undang-Undang ini bertujuan untuk mengadakan peruntukan bagi pengeluaran wang daripada Kumpulan Wang Disatukan sebanyak sembilan bilion tujuh ratus tiga puluh lapan juta tujuh ratus lapan ribu lima puluh lima ringgit (RM9,738,708,055) untuk perkhidmatan dan maksud yang dinyatakan dalam Jadual bagi tahun 2004.
 
-[PN(U2)2206]
+<!-- marginal: [PN(U2)2206] -->

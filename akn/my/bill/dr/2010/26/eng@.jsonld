@@ -1,0 +1,2692 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-26-2010",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Perbadanan Stadium Malaysia Bill 2010"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY Short title and commencement"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "THE PERBADANAN The Perbadanan and its objectives"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_18"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "CHIEF EXECUTIVE OFFICER, OFFICERS AND SERVANTS OF THE PERBADANAN The Chief Executive Officer"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall appoint a Chief Executive Officer on such terms and conditions as the Perbadanan may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chief Executive Officer shall be responsible for—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the general conduct, administration and management of the functions, activities and day-to-day affairs of the Perbadanan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16__subsec_2__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16__subsec_2__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16__subsec_2__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the preparation of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16__subsec_2__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16__subsec_2__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "programmes, schemes, projects and activities;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16__subsec_2__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16__subsec_2__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an estimate of expenditure for the implementation of the annual programmes; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16__subsec_2__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16__subsec_2__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all estimates of income, for the approval of the Perbadanan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the execution of all programmes, schemes and projects of the Perbadanan; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the carrying out of the decisions and directions of the Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chief Executive Officer shall be the Secretary to the Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chief Executive Officer shall perform such other duties as the Perbadanan may direct."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In discharging his duties, the Chief Executive Officer shall act under the general authority and direction of the Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the Chief Executive Officer is temporarily absent from Malaysia or is temporarily incapacitated through illness or for any other reason from performing his duties, or if the office of the Chief Executive Officer is for the time being vacant, the Perbadanan may direct any other officer to perform his duties during such temporary absence or incapacity. Employment of other officers and servants of the Perbadanan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_17__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_17__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_17__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_17__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_17__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to any regulations made under subsection (4), the Perbadanan may employ such number of other officers and servants as the Perbadanan thinks desirable and necessary and on such terms and conditions as the Perbadanan considers appropriate."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chief Executive Officer shall have general control of the officers and servants of the Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_17__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No person shall be eligible for employment as an officer or servant of the Perbadanan if he has, directly or indirectly, by himself or through his partner, any share or interest in any contract or proposed contract with, for or on behalf of the Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_17__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Perbadanan may, with the approval of the Minister, make regulations with respect to the conditions of service of its officers and servants."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_17__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Perbadanan may adopt, with such modifications as it deems fit, any regulations, rules, policies, circulars and directives enacted or issued by the Federal Government in relation to any matters under this Part. Financial assistance to officers, servants and other persons"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_18__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_18__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_18__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_18__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Perbadanan may provide—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the payment of retirement benefits, gratuities and other allowances as the Perbadanan may determine to the officers and servants of the Perbadanan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "subsidies, grants, financing or credit facilities, with or without interest, and other compassionate financing or loans, to the officers and servants of the Perbadanan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_18__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "subsidies, grants, financing or credit facilities, with or without interest, for medical purposes to the officers and servants of the Perbadanan, and their dependants;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_18__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "financing or credit facilities, with or without interest, for educational purposes or scholarships to the officers and servants of the Perbadanan or any other person; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_18__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "donations to any person, on such terms and conditions as the Perbadanan may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_10__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_10__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_10__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_10__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_10__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_10__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_10__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_10__subsec_1__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The office of a member of the Perbadanan appointed under paragraph 6(1)(a), (d) or (e) shall be vacated—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_10__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if he dies;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_10__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_10__subsec_1__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_10__subsec_1__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_10__subsec_1__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if there has been proved against him, or he has been convicted on, a charge in respect of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_10__subsec_1__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_10__subsec_1__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an offence involving fraud, dishonesty or moral turpitude;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_10__subsec_1__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_10__subsec_1__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an offence under any law relating to corruption; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_10__subsec_1__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_10__subsec_1__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other offence punishable with imprisonment (in itself only or in addition to or in lieu of a fine) for more than two years;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_10__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if he becomes a bankrupt;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_10__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if he is of unsound mind or is otherwise incapable of discharging his duties;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_10__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if he absents himself from three consecutive meetings of the Perbadanan without leave of the Chairman or in the case of the Chairman, without leave of the Minister;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_10__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if his resignation is accepted by the Minister; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_10__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if his appointment is revoked by the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where a member appointed under paragraph 6(1)(a), (d) or (e) ceases to be a member of the Perbadanan, the Minister may appoint another person to fill the vacancy for the remainder of the term for which the vacating member was appointed in accordance with the provisions applying. Allowance"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The members of the Perbadanan shall be paid such allowances at the rate as the Minister may determine after consultation with the Minister of Finance. Power of Minister to give directions"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Perbadanan shall be responsible to the Minister, and the Minister may, from time to time, give directions not inconsistent with the provisions of this Act and the Perbadanan shall, as soon as possible, give effect to all such directions. Returns, reports, accounts and information"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_13__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_13__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Perbadanan shall furnish to the Minister, and such public authority as may be specified by the Minister, such returns, reports, accounts and information with respect to its property and activities as the Minister may, from time to time, require or direct."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to the generality of subsection (1), the Perbadanan shall, as soon as practicable after the end of each financial year, cause to be made and transmitted to the Minister and, if so directed by the Minister, to any other public authority a report dealing with the activities of the Perbadanan during the preceding financial year."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_13__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The report under subsection (2) shall be in such form and shall contain such information relating to the proceedings and policy of the Perbadanan as the Minister may, from time to time, specify. Delegation of the Perbadanan’s functions and powers"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_14__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_14__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_14__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_14__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_14__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_14__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Perbadanan may, subject to subsection (2) and such conditions, limitations and restrictions as it thinks fit to impose, delegate in writing any of its functions or powers, except its power to borrow money, grant loans, establish companies and make regulations, to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_14__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_14__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any member;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_14__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_14__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a committee established by the Perbadanan; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_14__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_14__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an officer or servant of the Perbadanan, and any function or power so delegated may be performed or exercised by the member, committee, officer or servant, as the case may be, in the name and on behalf of the Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any member, committee, officer or servant delegated with such functions and powers shall be bound to observe and have regard to all conditions, limitations and restrictions imposed by the Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_14__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Perbadanan may delegate to the Chaiman the authority to sanction expenditure from the Fund or any other moneys vested in or under the control of the Perbadanan up to such limit as the Perbadanan shall specify."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_14__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A delegation under this section shall not preclude the Perbadanan itself from performing or exercising at any time any of the delegated functions or powers. The Perbadanan may establish committees"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15__subsec_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15__subsec_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15__subsec_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15__subsec_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15__subsec_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15__subsec_13"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Perbadanan may establish such committees as it considers necessary or expedient to assist it in the performance of its functions under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15__subsec_10",
+      "@type": "akn:subsection",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of a committee may at any time resign his office by a written notice addressed to the Chairman of the Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15__subsec_11",
+      "@type": "akn:subsection",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15__subsec_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15__subsec_11__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A committee shall cause—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15__subsec_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15__subsec_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "minutes of all its meetings to be maintained and kept in proper form; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15__subsec_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15__subsec_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "copies of the minutes of all its meetings to be submitted to the Perbadanan as soon as practicable."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15__subsec_12",
+      "@type": "akn:subsection",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any minutes made of a meeting of a committee shall, if duly signed, be admissible in evidence in all legal proceedings without further proof."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15__subsec_13",
+      "@type": "akn:subsection",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every meeting of a committee in respect of the proceedings of which minutes have been made in accordance with subsections (11) and (12) shall be deemed to have been duly convened and held and all members thereat to have been duly qualified to act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Perbadanan may elect any of its members to be the chairman of the committee established under subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Perbadanan may appoint any person to be a member of the committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A committee may regulate its own procedure and, in the exercise of its powers under this subsection, such committee shall be subject to and act in accordance with any direction given to the committee by the Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Meetings of a committee shall be held at such times and places as the chairman of the committee may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A committee may invite any person who is not a member to attend any meeting of the committee, for the purpose of advising it on any matter under discussion but that person is not entitled to vote at the meeting."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Members of a committee or any person invited under subsection (6) to attend any meeting of a committee may be paid such allowances and other expenses as the Perbadanan may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of a committee shall hold office for such term as may be specified in his instrument of appointment and is eligible for reappointment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15__subsec_9",
+      "@type": "akn:subsection",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Perbadanan may, at any time revoke the appointment of any member of a committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_3__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_3__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A body corporate by the name of “Perbadanan Stadium Malaysia” is established."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Perbadanan shall have perpetual succession and a common seal and may sue and be sued in its name."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_3__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_3__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_3__subsec_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to and for the purposes of this Act, the Perbadanan may, upon such terms as it deems fit—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_3__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_3__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "enter into contracts;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_3__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_3__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "acquire, purchase, take, hold and enjoy movable and immovable property of every description; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_3__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_3__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "convey, assign, surrender, yield up, charge, mortgage, demise, lease, reassign, transfer or otherwise dispose of, or deal with, any movable or immovable property or any interest vested in the Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_3__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The objectives of the Perbadanan are to develop, operate and manage the stadiums in accordance with the standards determined by the Perbadanan. Functions of the Perbadanan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_4__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_4__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_4__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_4__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_4__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_4__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_4__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_4__para_j"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The functions of the Perbadanan are as follows:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to establish, manage, operate and maintain the stadiums;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to implement policies and development programmes to ensure the viability of the stadiums;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to develop and improve the stadiums and to furnish and equip the stadiums with plant, machinery, equipment and apparatus as the Perbadanan thinks appropriate;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_4__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to promote the stadiums, at national and international level, as multi-purpose venues for sports, recreational, cultural, educational, commercial and entertainment events and such other events as the Perbadanan thinks fit;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_4__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to develop and provide at the stadiums such facilities and services of a commercial nature complementary to the stadiums, including residential accommodation;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_4__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to encourage and promote the use of the stadiums by any person, whether local or foreign, on such terms and conditions as the Perbadanan deems fit;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_4__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to provide technical, advisory, consultancy services and other services related to sports and stadiums;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_4__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to co-operate and enter into arrangements with any person interested in the development of educational, medical and research facilities for sports at the stadiums, and if appropriate, elsewhere for the development of such facilities;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_4__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to develop a system and process that will make the stadiums accessible, affordable and appealing to the public; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_4__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to carry out any other functions as it deems fit to enable it to perform its functions effectively or which is incidental to the performance of its functions. Powers of the Perbadanan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Perbadanan shall have the power to do all things expedient or reasonably necessary for or incidental to the carrying out of its functions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5__subsec_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5__subsec_2__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5__subsec_2__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5__subsec_2__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5__subsec_2__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5__subsec_2__para_l"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to the generality of subsection (1), the powers of the Perbadanan shall include the power—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to carry on all activities, particularly activities which are commercial in nature, which appear to it to be requisite, advantageous or convenient for or in connection with the performance of its functions;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to initiate and carry out studies of possible development and redevelopment of stadiums and to propose plans outlining development or redevelopment activities and surveys to determine if the undertaking and carrying out of development or redevelopment of the stadiums are feasible;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to erect any building on any immovable property of the Perbadanan and lay out and prepare such property for any sports, games, recreations, pastimes, exhibitions and parades which may be suitably or conveniently held thereon, to provide pavilions, gymnasiums, refreshment rooms, shops, stalls, lavaratories and such other related amenities as the Perbadanan deems fit and to maintain or reconstruct any building standing on the Perbadanan land;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to hold or promote any sports, games, recreations, pastimes, exhibitions and parades, and to grant or contribute towards prizes, awards and distinctions;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to undertake activities relating to research and development on activities, services and other matters related to sports and stadiums, and to commission any person or body to carry out such research and development;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to co-operate with or act as authorized agent of, or otherwise act in association with or on behalf of, any company or corporation, or any body or person, whether local or foreign for the development of stadium facilities and services;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to directly or indirectly approach any investor or potential investor, whether local or foreign, in order to promote investment in the development, operation and management of stadiums;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5__subsec_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to liaise and co-ordinate with the States’ authorities in respect of any activities relating to stadiums;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5__subsec_2__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to apply for and accept the alienation or transfer of land for development, operation and management of stadiums;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5__subsec_2__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to appoint such agents as it may deem fit for the purpose of performing its functions;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5__subsec_2__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to impose fees, costs, levies, contributions or any other charges as it deems fit for giving effect to any of its functions or powers; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5__subsec_2__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to do all things expedient or necessary for or incidental to the performance of its functions under this Act. Membership of the Perbadanan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_6__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_6__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_6__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_6__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_6__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_6__subsec_1__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Perbadanan shall consist of the following members:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_6__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chairman, who shall be appointed by the Minister from amongst the members;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_6__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chief Executive Officer;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_6__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_6__subsec_1__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_6__subsec_1__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_6__subsec_1__para_c__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_6__subsec_1__para_c__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "five representatives of the Federal Government consisting of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_6__subsec_1__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_6__subsec_1__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "one representative from the Ministry responsible for youth and sports;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_6__subsec_1__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_6__subsec_1__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "one representative from the Prime Minister’s Department;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_6__subsec_1__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_6__subsec_1__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "one representative from the Ministry of Finance; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_6__subsec_1__para_c__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_6__subsec_1__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "two representatives from other agencies of the Federal Government;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_6__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "five persons to represent sports organizations who shall be appointed by the Minister; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_6__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "five other persons who shall be appointed by the Minister who, in the opinion of the Minister, have the experience, shown capacity and professionalism in matters relating to the development, operation and management of stadiums, sport complexes and facilities."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, in his discretion, appoint a Deputy Chairman from amongst the members of the Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The provisions of the Schedule shall apply to the Perbadanan. Tenure of office"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_7__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to such conditions as may be specified in his instrument of appointment, a member of the Perbadanan appointed under paragraph 6(1)(a), (d) or (e) shall, unless he sooner resigns or vacates his office or his appointment is sooner revoked, hold office for a term not exceeding two years."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Perbadanan appointed under paragraph 6(1)(a), (d) or (e) shall be eligible for reappointment but no member shall hold the office for more than two terms either continuously or otherwise. Temporary exercise of functions of Chairman"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_8__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "When the office of the Chairman is vacant or the Chairman is absent from duty in Malaysia or the Chairman is, for any other reason, unable to perform the duties of his office, the member appointed under subsection 6(2) shall temporarily act as the Chairman, and if that member is for any reason unable to act under this subsection, the member under subparagraph 6(1)(c)(i) shall act as the Chairman."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member acting as the Chairman under subsection (1) shall be deemed to be the Chairman. Revocation of appointment and resignation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_9__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The appointment of any member under paragraph 6(1)(a), (d) or (e) may at any time be revoked by the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member may at any time resign his office by a written notice addressed to the Minister. Vacation of office and filling of vacancy"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_27"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "FINANCE The Fund"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_19__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_19__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of this Act, a fund to be known as the “Perbadanan Stadium Malaysia Fund” is established."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Fund shall be controlled, maintained and operated by the Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_19__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_19__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_19__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_19__subsec_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_19__subsec_3__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_19__subsec_3__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_19__subsec_3__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_19__subsec_3__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_19__subsec_3__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_19__subsec_3__para_i"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Fund shall consist of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_19__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_19__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "such sums as may be provided by Parliament for the purposes of this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_19__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_19__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "moneys earned by the operation of any project, scheme or enterprise financed from the Fund;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_19__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_19__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "moneys earned or arising from any property, investment, mortgage, lease, tenancy, charge or debenture acquired by or vested in the Perbadanan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_19__subsec_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_19__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any property, investment, mortgage, charge or debenture acquired by or vested in the Perbadanan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_19__subsec_3__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_19__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "fees, costs, levies, contributions and other charges imposed by the Perbadanan under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_19__subsec_3__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_19__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all moneys earned from consultancy and advisory services and any other services rendered by the Perbadanan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_19__subsec_3__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_19__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "donations and contributions received from any organizations within or outside Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_19__subsec_3__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_19__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all other sums or property which may in any manner become payable to or vested in the Perbadanan in respect of any matter incidental to its functions and powers; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_19__subsec_3__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_19__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all other moneys lawfully received by the Perbadanan. Expenditure to be charged on the Fund"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_20__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_20__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_20__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_20__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_20__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Fund shall be expended for the following purposes:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_20__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_20__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_20__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_20__para_a__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_20__para_a__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "paying any expenditure lawfully incurred by the Perbadanan, including—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_20__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_20__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the remuneration, allowances and other expenses of the members of the Perbadanan and any committee and the officers and servants of the Perbadanan, including the granting of loans and advances, superannuation allowances, retirement benefits, pensions and gratuities;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_20__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_20__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "insurance coverage for the officers and servants of the Perbadanan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_20__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_20__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "costs incurred in providing for the welfare of the officers and servants of the Perbadanan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_20__para_a__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_20__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "legal fees and costs and any other fees and costs;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_20__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "paying other expenses, costs and expenditure lawfully incurred or accepted by the Perbadanan in the performance of its functions or the exercise of its powers under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_20__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "purchasing or hiring plant, equipment, machinery and materials, acquiring land and other assets, erecting buildings, and carrying out any other works and undertakings in the performance of its functions or the exercise of its powers under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_20__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "granting financial assistance under section 18; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_20__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "generally paying any expenses for carrying into effect the provisions of this Act. Conservation of the Fund"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "It shall be the duty of the Perbadanan to conserve the Fund by so performing its functions and exercising its powers under this Act to secure that the total revenues of the Perbadanan are sufficient to meet all sums properly chargeable to its revenue account, including depreciation and interest on capital, taking one year with another. Reserve fund"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Perbadanan shall establish and manage a reserve fund within the Fund. Expenditure and preparation of estimates"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_23__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_23__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_23__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_23__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_23__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_23__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The expenditure of the Perbadanan up to such amount as may be authorized by the Minister for any one year shall be defrayed out of the Fund."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_23__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Before the 30 September of each year, the Perbadanan shall submit to the Minister an estimate of the expenditure, including the expenditure for development, operation or management of stadiums, for the following year in such form and containing such particulars as the Minister may direct."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_23__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall, before the beginning of the following year, notify the Perbadanan of the amount authorized for expenditure generally or of the amounts authorized for each description of expenditure based on the estimate prepared under subsection (2)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_23__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Perbadanan may, at any time, submit to the Minister a supplementary estimate of its expenditure for any one year and the Minister may allow the whole or any part of the additional expenditure included in the supplementary estimate."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_23__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may direct the Perbadanan to submit a copy of the estimate or supplementary estimate, as the case may be, to such other public authority as may be specified in the direction. Financial year"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The financial year of the Perbadanan shall begin on 1 January and end on 31 December of each year. Accounts and reports"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Perbadanan shall cause proper accounts of the Fund to be kept and shall, as soon as practicable after the end of each financial year, cause to be prepared for that financial year a statement of accounts of the Perbadanan which shall include a balance sheet and an account of income and expenditure. Bank account"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Perbadanan shall open and maintain an account or accounts with such banks in Malaysia as the Perbadanan thinks fit, and every account shall be operated as far as practicable by cheques signed by any person as may be authorized by the Perbadanan for such purpose from time to time. Statutory Bodies (Accounts and Annual Reports) Act 1980"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Statutory Bodies (Accounts and Annual Reports) Act 1980 [Act 240] shall apply to the Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Perbadanan Stadium Malaysia Act 2010."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Interpretation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires−"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "“prescribed” means prescribed by rules, regulations or orders published in the Gazette; “committee” means a committee established by the Perbadanan under section 15; “Chief Executive Officer” means the Chief Executive Officer appointed under subsection 16(1) and includes any officer directed under subsection 16(6) to perform the duties of the Chief Executive Officer; “Fund” means the Perbadanan Stadium Malaysia Fund established under section 19; “Minister” means the Minister charged with the responsibility for sports; “Chairman” means the Chairman of the Perbadanan appointed under section 6; “Perbadanan” means the Perbadanan Stadium Malaysia established under section 3; “stadium” means any stadium, sports complex and sports facility established by the Perbadanan or under the purview of the Perbadanan; “appointed date” means the date on which this Act comes into operation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_V__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_V__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_V__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_V__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_V__cl_32"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "OTHER POWERS OF THE PERBADANAN Power to borrow"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_39"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "GENERAL Offence for giving false or misleading information"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII",
+      "@type": "akn:part",
+      "eli:number": "VII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_44",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_45",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_46",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_47",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_48",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_49"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "REPEAL, SAVINGS AND TRANSITIONAL Repeal and dissolution"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Merdeka Stadium Corporation Act 1963 [Act 433] (the “repealed Act”) is repealed and the Merdeka Stadium Corporation (the “dissolved Corporation”) established under the repealed Act is dissolved from the appointed date. Transfer of powers, etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The powers, rights, privileges, liabilities, obligations and duties which immediately before the appointed date were those of the dissolved Corporation shall devolve on the Perbadanan established by this Act as from that date. Transfer of property"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_42__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_42__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_42__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_42",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All lands which before the appointed date were vested in, or reserved under any written law relating to land for the purposes of the dissolved Corporation shall, on that date, by virtue of this Act, be vested in or be deemed to be reserved for the purposes of the Perbadanan established by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_42__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_42",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All property and assets, other than land, that immediately before the appointed date were vested in the dissolved Corporation or in any person on behalf of the dissolved Corporation, shall, as the case may be, on that date, vest in the Perbadanan established by this Act. Existing contracts"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All deeds, bonds, agreements, instruments and working arrangements subsisting before the appointed date and affecting any of the property transferred under section 42 shall have full force and effect against or in favour of the Perbadanan established by this Act and shall be enforceable as fully and effectually as if, instead of the dissolved Corporation or any person acting on behalf of the dissolved Corporation, the Perbadanan had been named therein or been a party thereto. Transfer of moneys in funds"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All moneys standing in or due to be paid to the funds of the dissolved Corporation shall on the appointed date be transferred to and be deemed to be part of the Fund established under section 19. Membership of dissolved Corporation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_45",
+      "@type": "akn:clause",
+      "eli:number": "45",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_45__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_45__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_45__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_45",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding anything to the contrary, the members of the dissolved Corporation and the members of any committee appointed under the repealed Act who held office before the appointed date shall cease to hold office on that date."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_45__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_45",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Nothing in subsection (1) shall affect the accountability of the outgoing members of the dissolved Corporation and as soon as practicable after the appointed date, the dissolved Corporation shall prepare and submit to the Minister a report including the financial statements required under the repealed Act, but the report shall be limited to the period from 1 January of the relevant year to the day before the appointed date. Continuance of officers and servants"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_46",
+      "@type": "akn:clause",
+      "eli:number": "46",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_46__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_46__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_46__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_46__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The persons who immediately before the appointed date were employed as officers and servants of the dissolved Corporation shall, on the appointed date, be deemed to have been employed by the Perbadanan established by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_46__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every person who immediately before the appointed date was employed as an officer or servant of the dissolved Corporation shall, on the appointed date, be employed as an officer or servant of the Perbadanan established by this Act upon terms and conditions of service not less favourable than the terms and conditions of service to which he was entitled immediately before the appointed date."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_46__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If changes are made on and after the appointed date with respect to the conditions of service of the officers and servants of the dissolved Corporation who are deemed under subsection (1) to have been employed by the Perbadanan established by this Act, they shall be given an option whether to continue to be subject to the existing conditions of service or to be subject to the new conditions of service. Continuance of civil and criminal proceedings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_47",
+      "@type": "akn:clause",
+      "eli:number": "47",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_47__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_47__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_47__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_47__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_47",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Neither the repeal under section 40 nor anything contained in this Act shall affect any person’s liability to be prosecuted or punished for offences committed under the repealed Act immediately before the appointed date, or any proceedings brought before that date in respect of such offences."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_47__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_47",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any proceedings, whether civil or criminal, or cause of action pending or existing immediately before the appointed date by or against the dissolved Corporation or any person acting on behalf of the dissolved Corporation may be continued or instituted by or against the Perbadanan established by this Act as if it might have been by or against the dissolved Corporation or such person if this Act had not been enacted."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_47__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_47",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any appeal brought or any leave to appeal applied for on or after the appointed date against a decision given immediately before the appointed date in any legal proceedings to which the dissolved Corporation was a party may be brought by or against the Perbadanan established by this Act. Reference in law or document to dissolved Corporation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_48",
+      "@type": "akn:clause",
+      "eli:number": "48",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A reference in any law or document in force before the appointed date to the dissolved Corporation shall be construed as a reference to the Perbadanan established by this Act. Continuence of use of name"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII__cl_49",
+      "@type": "akn:clause",
+      "eli:number": "49",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding sections 40 and 48, the Perbadanan established by this Act may continue to use the name “Perbadanan Stadium Merdeka” for the purpose of maintaining goodwill or for any purpose the Perbadanan deems fit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person who discloses or provides information to the Perbadanan which he knows or has reason to believe is false or misleading, commits an offence and shall, on conviction, be liable to a fine not exceeding five thousand ringgit. Duty to maintain secrecy"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_34__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_34__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_34__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Except for any of the purposes of this Act or for the purpose of any civil or criminal proceedings under any written law, no member, officer or servant of the Perbadanan, or any person invited to attend any meeting of the Perbadanan or any committee shall disclose any information which has been obtained by him in the course of his duties and which is not published in pursuance of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_34__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding six months or to both. Protection against suit and legal proceedings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_35__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_35__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_35__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No action shall lie or prosecution shall be brought, instituted or maintained in any court against—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_35__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Perbadanan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_35__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any member of the Perbadanan, any member of a committee, or any officer, servant or agent of the Perbadanan; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_35__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other person lawfully acting on behalf of the Perbadanan, in respect of any act or omission done or omitted by it or him in good faith in such capacity. Public Authorities Protection Act 1948"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Public Authorities Protection Act 1948 [Act 198] shall apply to any action, suit, prosecution or proceedings against the Perbadanan or against any member, any member of a committee, or any officer, servant or agent of the Perbadanan in respect of any act, neglect, default or omission done or committed by it or him in such capacity. Public servant"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every member of the Perbadanan, or any member of a committee, or any officer, servant or agent of the Perbadanan, while discharging his duty under this Act as such member, officer, servant or agent, shall be deemed to be a public servant within the meaning of the Penal Code [Act 574]. Power to make regulations"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_38__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_38__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_38__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_38__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, after consultation with the Perbadanan, make regulations as may be necessary for the better carrying out of the provisions of this Act or for prescribing anything that may be or is required to be prescribed under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_38__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_38__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_38__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_38__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_38__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_38__subsec_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to the generality of subsection (1), regulations may be made for or in respect of all or any of the following matters:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_38__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_38__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "imposing fees, costs, levies, contributions or any other charges in such cases as may be determined by the Perbadanan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_38__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_38__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "prescribing fees or charges for services provided by the Perbadanan and for admission of persons to the stadiums or any exhibitions or activities organized or conducted by the Perbadanan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_38__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_38__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "regulating the admission or removal of any person or things into or from the stadiums managed or controlled by the Perbadanan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_38__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_38__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for the care, protection and management of land and buildings owned by or under the control and management of the Perbadanan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_38__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_38__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "providing for such other matters as are contemplated by, or necessary for giving full effect to the provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_38__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Regulations made under this section may prescribe any act in contravention of the regulations to be an offence and may prescribe penalties of a fine not exceeding ten thousand ringgit or imprisonment for a term not exceeding two years or to both, and in the case of a continuing offence, may prescribe a further fine of one thousand ringgit for every day or part of a day during which the offence continues after conviction. Acts done in anticipation of the enactment of this Act"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI__cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All acts and things done on behalf of the Perbadanan in preparation for or in anticipation of the enactment of this Act and any expenditure incurred in relation thereto shall be deemed to have been authorized under this Act, provided that the acts and things done are consistent with the general intention and purposes of this Act; and all rights and obligations acquired or incurred as a result of the doing of those acts or things including any expenditure incurred in relation thereto shall, upon the coming into operation of this Act, be deemed to be the rights and obligations of the Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_V__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Perbadanan may, with the approval of the Minister and the Minister of Finance, borrow, at such rate of interest and for such period and upon such terms as to the time and method of repayment and otherwise as the Minister and the Minister of Finance may approve, any sums required by the Perbadanan for meeting any of its obligations or discharging any of its duties. Investment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_V__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The moneys of the Perbadanan shall, insofar as they are not required to be expended by the Perbadanan under this Act, be invested in such manner as the Minister and the Minister of Finance may approve. Power to employ agents, etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_V__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Perbadanan may employ, appoint and pay agents, contractors and technical advisers, including advocates and solicitors, bankers, stockbrokers, surveyors, valuers and other persons, to transact any business, to carry out any project, scheme or enterprise, or to do any act required to be transacted or done in the performance of its functions, the exercise of its powers or the discharge of its duties or for the better carrying into effect the purposes of this Act. Commercialization of research finding"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_V__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Perbadanan may make available any research finding vested in the Perbadanan to any person or body subject to such conditions and the payment of such fees, royalties or other consideration, if any, as the Perbadanan may, with the approval of the Minister, determine for the purpose of its commercialization. Power to establish companies"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_V__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Perbadanan may establish companies under the Companies Act 1965 [Act 125] to carry out and have the charge, conduct and management of any project, scheme or enterprise which has been planned or undertaken by the Perbadanan in the performance of its functions or the exercise of its powers."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Subsection 6(3)] Meetings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_1__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_1__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_1__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Perbadanan shall meet at such times and places as the Chairman may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chairman shall preside at a meeting of the Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chairman who presides at a meeting of the Perbadanan and four other members shall constitute a quorum at any meeting of the Perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_1__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every member present at a meeting of the Perbadanan shall be entitled to one vote."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_1__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If on any question to be determined by the Perbadanan there is an equality of votes, the Chairman shall have a casting votes as well as his deliberative vote. Perbadanan may invite others to meetings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_2__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_2__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Perbadanan may invite any person to attend any meeting or deliberation of the Perbadanan for the purpose of advising it on any matter under discussion, but that person shall not be entitled to vote at the meeting or deliberation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person invited under subparagraph (1) may be paid such allowances and other expenses as the Perbadanan may determine. Common seal"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_3__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Perbadanan shall have a common seal which shall bear such device as the Perbadanan shall approve and such seal may be broken, changed, altered or made anew as the Perbadanan deems fit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The common seal shall be kept in the custody of the Chief Executive Officer or such other person as may be authorized by the Perbadanan, and shall be authenticated by the Chief Executive Officer or such authorized person or by any officer authorized by the Chief Executive Officer in writing; and all deeds, documents and other instruments purporting to be sealed with the said seal, authenticated as aforesaid, shall, until the contrary is proved, be deemed to have been validly executed: Provided that any document or instrument which if executed by a person not being a body corporate would not be required to be under seal may in like manner be executed by the Perbadanan; and any such document or instrument may be executed on behalf of the Perbadanan by any officer or servant of the Perbadanan generally or specially authorized by the Perbadanan in that behalf."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The common seal of the Perbadanan shall be officially and judicially noticed. Disclosure of interest"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_4",
+      "@type": "akn:paragraph",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Perbadanan having, directly or indirectly, by himself or his partner, any interest in any company or undertaking with which the Perbadanan proposes to make any contract or having any interest in any such contract or in any matter under discussion by the Perbadanan shall disclose to the Perbadanan the fact of his interest and the nature thereof, and such disclosure shall be recorded in the minutes of the Perbadanan and, unless specifically authorized thereto by the Chairman, such member shall take no part in any deliberation or decision of the Perbadanan relating to the contract or matter. Minutes"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_5",
+      "@type": "akn:paragraph",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_5__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Perbadanan shall cause minutes of all its meetings to be maintained and kept in proper form."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Minutes made of meetings of the Perbadanan shall, if duly signed, be admissible in evidence in all legal proceedings without further proof."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every meeting of the Perbadanan in respect of the proceedings of which minutes have been so made shall be deemed to have been duly convened and held and all members thereat to have been duly qualified to act. Validity of acts and proceedings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_6",
+      "@type": "akn:paragraph",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_6__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No act done or proceedings taken under this Act shall be questioned on the ground of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a vacancy in the membership of, or a defect in the constitution of, the Perbadanan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the contravention by any member of the Perbadanan of the provisions of paragraph 4; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any omission, defect or an irregularity not affecting the merits of the case. Procedure"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_7",
+      "@type": "akn:paragraph",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to this Act, the Perbadanan may determine its own procedure. Member of Perbadanan to devote time to business of the Perbadanan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1__para_8",
+      "@type": "akn:paragraph",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/26/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every member of the Perbadanan shall devote such time to the business of the Perbadanan as may be necessary to discharge his duties effectively."
+      }
+    }
+  ]
+}

@@ -18,17 +18,43 @@ D.R. 52/2007
 
 ## MAJLIS KEBANGSAAN BAGI ORANG KURANG UPAYA
 
-3. Majlis Kebangsaan bagi Orang Kurang Upaya 4. Anggota silih ganti 5. Pembatalan pelantikan 6. Keterhentian keanggotaan 7. Mesyuarat Majlis 8. Setiausaha Majlis 9. Fungsi Majlis 10. Majlis hendaklah dibantu oleh Jabatan 11. Penubuhan Jawatankuasa 12. Pewakilan fungsi dan kuasa 13. Majlis hendaklah mengesyorkan perubahan pada undang-undang 14. Tanggungjawab Kerajaan 15. Tanggungjawab kementerian yang berkaitan, dll. 16. Tanggungjawab sektor swasta dan pertubuhan bukan kerajaan 17. Tindakan susulan 18. Dana 19. Laporan tahunan
+3. Majlis Kebangsaan bagi Orang Kurang Upaya 4. Anggota silih ganti 5. Pembatalan pelantikan 6. Keterhentian keanggotaan 7. Mesyuarat Majlis 8. Setiausaha Majlis 9. Fungsi Majlis
+
+10. Majlis hendaklah dibantu oleh Jabatan
+
+11. Penubuhan Jawatankuasa
+
+12. Pewakilan fungsi dan kuasa
+
+13. Majlis hendaklah mengesyorkan perubahan pada undang-undang
+
+14. Tanggungjawab Kerajaan
+
+15. Tanggungjawab kementerian yang berkaitan, dll.
+
+16. Tanggungjawab sektor swasta dan pertubuhan bukan kerajaan
+
+17. Tindakan susulan
+
+18. Dana
+
+19. Laporan tahunan
 
 <!-- page 2 -->
 
-Orang Kurang Upaya 3 36. Pencegahan daripada berlakunya ketidakupayaan selanjutnya 37. Pengadaan personel kesihatan
+Orang Kurang Upaya 3
+
+36. Pencegahan daripada berlakunya ketidakupayaan selanjutnya
+
+37. Pengadaan personel kesihatan
 
 ## Bab 4
 
 Perlindungan. orang dengan ketidakupayaan teruk
 
-38. Perlindungan sepanjang hayat dan sistem sokongan sosial 39. Pengertian "orang dengan ketidakupayaan teruk"
+38. Perlindungan sepanjang hayat dan sistem sokongan sosial
+
+39. Pengertian "orang dengan ketidakupayaan teruk"
 
 ## Bab 5
 
@@ -40,7 +66,17 @@ Keadaan berisiko dan kecemasan kemanusiaan
 
 AM
 
-41. Perlindungan terhadap tindakan guaman dan prosiding undang-undang 42. Akta Perlindungan Pihak Berkuasa Awam 1948 43. Kuasa membuat peraturan-peraturan 44. Perkara yang dilakukan dalam menjangkakan Akta ini diperbuat 45. Kecualian dan peralihan 46. Pencegahan anomali
+41. Perlindungan terhadap tindakan guaman dan prosiding undang-undang
+
+42. Akta Perlindungan Pihak Berkuasa Awam 1948
+
+43. Kuasa membuat peraturan-peraturan
+
+44. Perkara yang dilakukan dalam menjangkakan Akta ini diperbuat
+
+45. Kecualian dan peralihan
+
+46. Pencegahan anomali
 
 <!-- page 3 -->
 
@@ -648,7 +684,11 @@ anggota dan jurupulih kerja, atau mana-mana personel kesihatan sebagaimana yang 
 
 (a) yang berdaftar di bawah Akta Pusat Jagaan 1993 [Akta 506], hendaklah dalam masa enam bulan dari permulaan kuat kuasa Akta ini mengemukakan kepada Majlis bilangan personel itu dalam penggajiannya; atau
 
-(b) yang memohon untuk didaftarkan di bawah Akta Pusat Jagaan 1993 hendaklah pada dan selepas permulaan kuat kuasa Akta ini mengemukakan kepada Majlis, sebelum memulakan operasi, bilangan personel itu dalam penggajiannya.
+(b) yang memohon untuk didaftarkan di bawah Akta Pusat Jagaan 1993 hendaklah pada dan selepas permulaan kuat kuasa Akta ini mengemukakan kepada Majlis, sebelum memulakan operasi, bilangan personel
+
+<!-- marginal: itu dalam -->
+
+penggajiannya.
 
 (3) Walau apa pun subseksyen (1), Menteri boleh mengecualikan mana-mana sektor swasta atau pertubuhan bukan kerajaan yang menyediakan jagaan institusi bagi orang kurang upaya, sebagaimana yang disifatkannya patut dan perlu, daripada mengambil khidmat personel kesihatan dalam institusi dan sebaliknya boleh membenarkan lawatan berkala personel kesihatan itu ke institusi swasta itu.
 

@@ -52,11 +52,7 @@ is amended in section 1 in the marginal note by substituting for the word "Citat
 
 "property-based business" includes a hotel, motel, hostel, plantation, quarry, marina, port, golf course, cinema, stadium, sports complex and hospital;
 
-"property management" means
-
-<!-- marginal: the -->
-
-management and control of any land, building and any interest therein, excluding the management of property-based businesses, on behalf of the owner for a fee and includes but is not limited to the following responsibilities:
+"property management" means the management and control of any land, building and any interest therein, excluding the management of property-based businesses, on behalf of the owner for a fee and includes but is not limited to the following responsibilities:
 
 (a) monitoring outgoings for the property and making payments out of the income from the property;
 
@@ -84,15 +80,21 @@ management and control of any land, building and any interest therein, excluding
 
 (g) by inserting after the definition of "Register" the following definitions:
 
-' "Register of Firms" means the Register of Firms kept under paragraph (c) of subsection (1) of section 14;
+' "Register of Firms" means the Register of Firms kept under paragraph (c) of subsection
 
-"Register of Probationary Valuers/ Probationary Estate Agents" means the Register of Probationary Valuers/Probationary Estate Agents kept under paragraph (b) of subsection (1) of section 14;'; and
+(1) of section 14;
+
+"Register of Probationary Valuers/ Probationary Estate Agents" means the Register of Probationary Valuers/Probationary Estate Agents kept under paragraph (b) of subsection
+
+(1) of section 14;'; and
 
 (h) by substituting for the definitions of "registered appraiser", "registered estate agent" and
 
 <!-- page 4 -->
 
-4 Bill
+<!-- marginal: 4 -->
+
+Bill
 
 "registered valuer" the following definitions respectively:
 
@@ -102,9 +104,11 @@ management and control of any land, building and any interest therein, excluding
 
 "registered valuer" means a person whose name has been entered under Part I of the Register and to whom an authority to practise has been issued by the Board under section 16;'.
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. Section 4 of the principal Act is amended— of section 4.
+4. Section 4 of the principal Act is amended—
+
+<!-- marginal: of section 4. -->
 
 (a) in subsection (1)—
 
@@ -144,13 +148,19 @@ substituting for the word "five" the word "ten".
 
 <!-- page 6 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-6. Subsection 6(3) of the principal Act is amended by of section 6. substituting for the word "five" the word "ten".
+6. Subsection 6(3) of the principal Act is amended by
 
-Amendment
+<!-- marginal: of section 6. -->
 
-7. Section 9 of the principal Act is amended— of section 9.
+substituting for the word "five" the word "ten".
+
+<!-- marginal: Amendment -->
+
+7. Section 9 of the principal Act is amended—
+
+<!-- marginal: of section 9. -->
 
 (a) in subsection (2)—
 
@@ -162,9 +172,11 @@ Amendment
 
 (b) in subsection (3) by substituting for the words "and (cc)" the words ", (cc) and (d)".
 
-Amendment
+<!-- marginal: Amendment -->
 
-8. Section 10 of the principal Act is amended— of section 10.
+8. Section 10 of the principal Act is amended—
+
+<!-- marginal: of section 10. -->
 
 (a) by substituting for paragraph (a) the following paragraph:
 
@@ -214,7 +226,9 @@ Valuers, Appraisers and Estate Agents 7 (Amendment)
 
 <!-- page 8 -->
 
-(iii) in paragraph (f) by substituting for the full stop at the end of that paragraph a semicolon; and (iv) by inserting after paragraph (f) the following paragraphs:
+(iii) in paragraph (f) by substituting for the full stop at the end of that paragraph a semicolon; and
+
+(iv) by inserting after paragraph (f) the following paragraphs:
 
 "(g) the payment of monies towards awards, grants and donations made by the Board;
 
@@ -224,25 +238,29 @@ Valuers, Appraisers and Estate Agents 7 (Amendment)
 
 (c) by substituting for subsection (3) the following subsection:
 
-"(3) Monies not
+"(3) Monies not immediately required may be invested in any immovable property or in any investments specified under section 4
 
-<!-- marginal: immediately -->
+<!-- marginal: Act 208. -->
 
-required may be invested in any immovable property or
+of the Trustee Act 1949 as the Board may determine.".
 
-<!-- marginal: in any -->
+<!-- marginal: Amendment -->
 
-investments specified under section 4 Act 208. of the Trustee Act 1949 as the Board may determine.".
+10. The principal Act is amended by substituting for the
 
-Amendment
+<!-- marginal: of heading -->
 
-10. The principal Act is amended by substituting for the of heading heading of Part IV the following heading: of Part IV
+heading of Part IV the following heading:
+
+<!-- marginal: of Part IV -->
 
 ## "REGISTERS".
 
-Amendment
+<!-- marginal: Amendment -->
 
-11. Section 14 of the principal Act is amended— of section 14.
+11. Section 14 of the principal Act is amended—
+
+<!-- marginal: of section 14. -->
 
 (a) by substituting for subsection (1) the following subsection:
 
@@ -250,15 +268,7 @@ Amendment
 
 (a) a Register of Valuers, Appraisers and Estate Agents which shall be in three Parts:
 
-(i) Part I which shall contain the names, business addresses, qualifications
-
-<!-- marginal: and other -->
-
-particulars of
-
-<!-- marginal: registered -->
-
-valuers;
+(i) Part I which shall contain the names, business addresses, qualifications and other particulars of registered valuers;
 
 <!-- page 9 -->
 
@@ -294,17 +304,33 @@ valuers;
 
 "(5) Every person whose name appears on the Register of Estate Agents under the deleted subsection ( 1A) before the coming into force of such deletion shall be deemed to be transferred to Part III of the Register.".
 
-New section
+<!-- marginal: New section -->
 
 12. The principal Act is amended by inserting after section
 
 15A. 15 the following section:
 
-"Application 15A. A registered valuer, appraiser or estate for agent shall apply to the Board for an authority authority to practise to practise where he intends to practise as a registered valuer or appraiser under section 19 or as a registered estate agent under section 22B.".
+<!-- marginal: "Application -->
 
-Amendment
+15A. A registered valuer, appraiser or estate
 
-13. Section 16 of the principal Act is amended— of section 16
+<!-- marginal: for -->
+
+agent shall apply to the Board for an authority
+
+<!-- marginal: authority -->
+
+<!-- marginal: to practise -->
+
+to practise where he intends to practise as a registered valuer or appraiser under section 19 or as a registered estate agent under section
+
+22B.".
+
+<!-- marginal: Amendment -->
+
+13. Section 16 of the principal Act is amended—
+
+<!-- marginal: of section 16 -->
 
 (a) in subsection (2) by inserting after the words "prescribed fee" the words "and upon the applicant satisfying and complying with such conditions as may be prescribed by the Minister";
 
@@ -328,17 +354,15 @@ and such change shall be entered in the appropriate Register."; and
 
 "(7 A) For the purposes of paragraph (b) of subsection (7), a notice given by a partner, shareholder or director of the person concerned shall be deemed to be sufficient compliance with that paragraph.
 
-(7B) Paragraph (a) of subsection (7) shall also apply to all probationary valuers and probationary estate agents and any changes shall be entered in the Register of Probationary Valuers/Probationary Estate
-
-<!-- marginal: Agents -->
-
-accordingly.".
+(7B) Paragraph (a) of subsection (7) shall also apply to all probationary valuers and probationary estate agents and any changes shall be entered in the Register of Probationary Valuers/Probationary Estate Agents accordingly.".
 
 <!-- page 12 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-14. Section 17 of the principal Act is amended— of section 17
+14. Section 17 of the principal Act is amended—
+
+<!-- marginal: of section 17 -->
 
 (a) in subsection (1)—
 
@@ -350,11 +374,7 @@ Amendment
 
 (iii) in the national language text in paragraph
 
-(b) by inserting before
-
-<!-- marginal: the word -->
-
-"memenuhi" the word "telah";
+(b) by inserting before the word "memenuhi" the word "telah";
 
 (b) by inserting after subsection (1) the following subsection:
 
@@ -362,17 +382,39 @@ Amendment
 
 (c) in subsections (2) and (3) by deleting the words "of Valuers and Appraisers".
 
-Substitution
+<!-- marginal: Substitution -->
 
-15. The principal Act is amended by substituting for of section 18. section 18 the following section:
+15. The principal Act is amended by substituting for
 
-"Qualifica- 18. (1) Subject to the provisions of this Act, tions for no person shall be entitled to have his name registration entered under Part I of the Register unless he of valuers and proba- has been registered as a probationary valuer tionary under this Act. valuers
+<!-- marginal: of section 18. -->
 
-(2) Any person who has passed
+section 18 the following section:
 
-<!-- marginal: the -->
+<!-- marginal: "Qualifica- -->
 
-examinations prescribed by the Board or who has obtained qualifications which the Board recognises as equivalent to such examinations may apply to the Board to be registered as a probationary valuer.
+18. (1) Subject to the provisions of this Act,
+
+<!-- marginal: tions for -->
+
+no person shall be entitled to have his name
+
+<!-- marginal: registration -->
+
+entered under Part I of the Register unless he
+
+<!-- marginal: of valuers -->
+
+<!-- marginal: and proba- -->
+
+has been registered as a probationary valuer
+
+<!-- marginal: tionary -->
+
+under this Act.
+
+<!-- marginal: valuers -->
+
+(2) Any person who has passed the examinations prescribed by the Board or who has obtained qualifications which the Board recognises as equivalent to such examinations may apply to the Board to be registered as a probationary valuer.
 
 <!-- page 13 -->
 
@@ -382,7 +424,9 @@ examinations prescribed by the Board or who has obtained qualifications which th
 
 (4) Where a probationary valuer has complied with the requirements of subsection (3), he may apply to the Board to have his name entered in the Register.
 
-(5) Notwithstanding subsections (1), (2) and (3), a person who is a graduate member of the Property Consultancy and Valuation Surveying Section of the Institution of Surveyors (Malaysia) who has complied with the requirements of subsection (3) may apply to the Board to have his name entered in the Register.
+(5) Notwithstanding subsections (1), (2) and
+
+(3), a person who is a graduate member of the Property Consultancy and Valuation Surveying Section of the Institution of Surveyors (Malaysia) who has complied with the requirements of subsection (3) may apply to the Board to have his name entered in the Register.
 
 (6) A person who is not a citizen or permanent resident of Malaysia shall not qualify for registration as a valuer or as a probationary valuer unless he is or has been a registered valuer or appraiser before the coming into force of this section.".
 
@@ -442,7 +486,11 @@ inserting after the words "feasibility studies," the words "project management,"
 
 (Amendment)
 
-(c) a lessee whose interest is registered Act 56/1965. under the National Land Code,
+(c) a lessee whose interest is registered
+
+<!-- marginal: Act 56/1965. -->
+
+under the National Land Code,
 
 but shall not include a shareholder in the company owning such land, building and any interest therein unless such land, building and interest is wholly owned by the company and such person is the sole shareholder thereof.".
 
@@ -492,9 +540,13 @@ but shall not include a shareholder in the company owning such land, building an
 
 (b) subject to the same conditions and restrictions that the Board may have imposed upon him before the coming into force of subsection (1A).".
 
-Amendment
+<!-- marginal: Amendment -->
 
-20. Section 22c of the principal Act is amended— of section 22c.
+20. Section 22c of the principal Act is amended—
+
+<!-- marginal: of section -->
+
+<!-- marginal: 22c. -->
 
 (a) in subsection (1)—
 
@@ -524,7 +576,9 @@ Amendment
 
 Provided that where foreign properties are to be marketed in Malaysia, such offer or invitation shall be made by or through an estate agent practising and residing in Malaysia on behalf of a principal practising or residing outside Malaysia;"; and
 
-(b) by substituting for subsection (2) the following subsection:
+(b) by substituting for subsection (2) the following
+
+<!-- marginal: subsection: -->
 
 "(2) Notwithstanding subsection (1)—
 
@@ -534,19 +588,49 @@ Provided that where foreign properties are to be marketed in Malaysia, such offe
 
 <!-- page 18 -->
 
-(c) a holder of a power of attorney in respect of any land, building and any interest therein, acting gratuitiously and for
+(c) a holder of a power of attorney in respect of any land, building and any interest therein, acting gratuitiously and for no commission, fee, reward or other consideration, may sell, purchase or rent, or offer to sell, purchase or rent, such land, building and interest.".
 
-<!-- marginal: no -->
+<!-- marginal: New section -->
 
-commission, fee, reward or other consideration, may sell, purchase or rent, or offer to sell, purchase or rent, such land, building and interest.".
+21. The principal Act is amended by inserting after section
 
-New section
+<!-- marginal: 22C -->
 
-21. The principal Act is amended by inserting after section 22C 22c the following section: " Qualifica- 22D. (1) Subject to the provisions of this Act, tions for no person shall be entitled to have his name registration of estate entered under Part III of the Register unless agents and he has been registered as a probationary estate probationary estate agent under this Act. agents. (2) Any person who has passed the examinations prescribed by the Board or who has obtained qualifications which the Board recognises as equivalent to such examinations may apply to the Board to be registered as a probationary estate agent.
+22c the following section: "
+
+<!-- marginal: Qualifica- -->
+
+22D. (1) Subject to the provisions of this Act,
+
+<!-- marginal: tions for -->
+
+no person shall be entitled to have his name
+
+<!-- marginal: registration -->
+
+<!-- marginal: of estate -->
+
+entered under Part III of the Register unless
+
+<!-- marginal: agents and -->
+
+he has been registered as a probationary estate
+
+<!-- marginal: probationary -->
+
+<!-- marginal: estate -->
+
+agent under this Act.
+
+<!-- marginal: agents. -->
+
+(2) Any person who has passed the examinations prescribed by the Board or who has obtained qualifications which the Board recognises as equivalent to such examinations may apply to the Board to be registered as a probationary estate agent.
 
 (3) A probationary estate agent shall be required to obtain the practical experience and to pass the Test of Professional Competence prescribed by the Board or any equivalent test or examination recognised by the Board.
 
-(4) Where a probationary estate agent has complied with the requirements of subsection (3), he may apply to the Board to have his name entered in the Register.
+(4) Where a probationary estate agent has complied with the requirements of subsection
+
+(3), he may apply to the Board to have his name entered in the Register.
 
 (5) A person who is not a citizen or permanent resident of Malaysia shall not qualify for registration as an estate agent or as a probationary estate agent unless he is or has been a registered estate agent before the coming into force of this section.".
 
@@ -588,7 +672,9 @@ section 23 the following section: " Practice
 
 <!-- page 20 -->
 
-20 Bill
+<!-- marginal: 20 -->
+
+Bill
 
 (b) the shares in the partnership or body corporate are held—
 
@@ -618,11 +704,9 @@ section 23 the following section: " Practice
 
 as the case may be, notify the Board in writing of such occurrence or change.".
 
-<!-- marginal: Amendment -->
+Amendment
 
-24. Section 24 of the principal Act is amended—
-
-<!-- marginal: of section 24 -->
+24. Section 24 of the principal Act is amended— of section 24
 
 (a) in subsection (1)—
 
@@ -638,15 +722,13 @@ as the case may be, notify the Board in writing of such occurrence or change.".
 
 (vi) by substituting for paragraph (iii) the following paragraph:
 
-"(iii) admonishing him and recording such admonishment in
-
-<!-- marginal: the -->
-
-appropriate Register;"; and
+"(iii) admonishing him and recording such admonishment in the appropriate Register;"; and
 
 <!-- page 22 -->
 
-22 Bill
+<!-- marginal: 22 -->
+
+Bill
 
 (vii) by inserting after paragraph (iii) the following paragraphs:
 
@@ -680,11 +762,7 @@ appropriate Register;"; and
 
 (e) in subsections (4) and (5) by substituting for the word "ten" the word "twenty-one".
 
-25. Section 25 of the principal Act is amended—
-
-<!-- marginal: Amendment -->
-
-<!-- marginal: of section 25. -->
+25. Section 25 of the principal Act is amended— Amendment of section 25.
 
 (a) in subsection (1)—
 
@@ -706,13 +784,17 @@ appropriate Register;"; and
 
 <!-- page 24 -->
 
-24 Bill
+<!-- marginal: 24 -->
+
+Bill
 
 (b) which has contravened or failed to comply with any of the terms or conditions of its registration.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-26. Section 26 of the principal Act is amended— of section 26.
+26. Section 26 of the principal Act is amended—
+
+<!-- marginal: of section 26. -->
 
 (a) by inserting after the word "Register" wherever it appears the words "or the Register of Probationary Valuers/Probationary Estate Agents, as the case may be,"; and
 
@@ -726,9 +808,11 @@ Amendment
 
 (iii) by inserting after the word "charges" the words ", and upon satisfying such other conditions,".
 
-Amendment
+<!-- marginal: Amendment -->
 
-27. Subsection 27(1) of the principal Act is amended— of section 27.
+27. Subsection 27(1) of the principal Act is amended—
+
+<!-- marginal: of section 27. -->
 
 (a) in paragraph (b)—
 
@@ -802,7 +886,19 @@ cause to believe that an offence under this Act or any rules made under this Act
 
 (3) A person who, without lawful authority, breaks, tampers with or damages the seal referred to in subsection (2) or removes any signboard, card, letter, pamphlet, leaflet, notice, device, document, article or item under seal or attempts to do so commits an offence.
 
-Search and 30B. If a police officer not below the rank of seizure Inspector in any of the circumstances referred without warrant. to in section 30A has reasonable cause to believe that by reason of delay in obtaining a search warrant under that section the investigation would be adversely affected or evidence of the commission of an offence is likely to be tampered with, removed, damaged or destroyed, such officer may enter such premises and exercise in, upon and in respect of the premises all the
+<!-- marginal: Search and -->
+
+30B. If a police officer not below the rank of
+
+<!-- marginal: seizure -->
+
+Inspector in any of the circumstances referred
+
+<!-- marginal: without -->
+
+<!-- marginal: warrant. -->
+
+to in section 30A has reasonable cause to believe that by reason of delay in obtaining a search warrant under that section the investigation would be adversely affected or evidence of the commission of an offence is likely to be tampered with, removed, damaged or destroyed, such officer may enter such premises and exercise in, upon and in respect of the premises all the
 
 <!-- page 27 -->
 
@@ -810,7 +906,17 @@ Search and 30B. If a police officer not below the rank of seizure Inspector in a
 
 powers referred to in section 30A in as full and ample a manner as if he were authorised to do so by a warrant issued under that section.
 
-List of 30c. (1) Except as provided in subsection (2), things where any signboard, card, letter, pamphlet, seized. leaflet, notice, device, document, article or item is seized under section 30A or 30fi, the seizing officer or person shall prepare a list of the things seized and immediately deliver a copy of the list signed by him to the occupier of the premises which have been searched, or to his agent or servant, at those premises.
+<!-- marginal: List of -->
+
+30c. (1) Except as provided in subsection (2),
+
+<!-- marginal: things -->
+
+where any signboard, card, letter, pamphlet,
+
+<!-- marginal: seized. -->
+
+leaflet, notice, device, document, article or item is seized under section 30A or 30fi, the seizing officer or person shall prepare a list of the things seized and immediately deliver a copy of the list signed by him to the occupier of the premises which have been searched, or to his agent or servant, at those premises.
 
 (2) Where the premises are unoccupied, the seizing officer or person shall whenever possible post a list of the things seized conspicuously on the premises.".
 
@@ -836,19 +942,35 @@ List of 30c. (1) Except as provided in subsection (2), things where any signboar
 
 <!-- marginal: 3lA. -->
 
-31 the following section: " Immunity 31 A. No action or proceeding shall lie against of Board. the Board or any member of the Board for any act or thing done under this Act or rules made under this Act unless it is proved to the court that the act or thing was done in bad faith.".
+31 the following section: "
+
+<!-- marginal: Immunity -->
+
+31 A. No action or proceeding shall lie against
+
+<!-- marginal: of Board. -->
+
+the Board or any member of the Board for any act or thing done under this Act or rules made under this Act unless it is proved to the court that the act or thing was done in bad faith.".
 
 <!-- page 28 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-34. Section 32 of the principal Act is amended by of section 32. substituting for the words "Part VII" the words "Part
+34. Section 32 of the principal Act is amended by
+
+<!-- marginal: of section 32. -->
+
+substituting for the words "Part VII" the words "Part
 
 ## VIII".
 
-Amendment
+<!-- marginal: Amendment -->
 
-35. The First Schedule to the principal Act is amended of First in the English language text in subparagraph 2(6) by
+35. The First Schedule to the principal Act is amended
+
+<!-- marginal: of First -->
+
+in the English language text in subparagraph 2(6) by
 
 ## Schedule.
 

@@ -4,7 +4,7 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -16,7 +16,7 @@
 
 4. Interpretation
 
-## Part II
+## PART II
 
 ## ADMINISTRATION
 
@@ -44,7 +44,7 @@
 
 <!-- page 2 -->
 
-## Part III
+## PART III
 
 ## URBAN RENEWAL
 
@@ -72,7 +72,7 @@ Urban revitalization
 
 23. Urban revitalization project
 
-## Part IV
+## PART IV
 
 ## PROTECTION OF INTEREST
 
@@ -86,7 +86,7 @@ Urban revitalization
 
 28. Disclosure of interests of State Urban Renewal Mediation Committee
 
-## Part V
+## PART V
 
 ## GENERAL
 
@@ -110,11 +110,15 @@ AND WHEREAS it is expedient that provisions be made to confer executive authorit
 
 AND WHEREAS it is also expedient for the purpose of ensuring uniformity of law and policy to make a law for the proper control and regulation of matters relating to urban renewal in respect of town planning throughout Peninsular Malaysia and the Federal Territory of Labuan:
 
-NOW, THEREFORE, in accordance with Clauses (1) and (2) of Article 74, Clause (4) of Article 76 and Clause (3) of Article 80 of the Federal Constitution, IT IS ENACTED by the Parliament of Malaysia as follows:
+NOW, THEREFORE, in accordance with Clauses (1) and (2) of
+
+## Article 74, Clause (4) of Article 76 and Clause (3) of Article 80
+
+of the Federal Constitution, IT IS ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 4 -->
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -212,7 +216,7 @@ NOW, THEREFORE, in accordance with Clauses (1) and (2) of Article 74, Clause (4)
 
 “Secretary of the Federal Executive Committee” means the Secretary of the Federal Executive Committee referred to in section 9.
 
-## Part II
+## PART II
 
 ## ADMINISTRATION
 
@@ -392,7 +396,7 @@ NOW, THEREFORE, in accordance with Clauses (1) and (2) of Article 74, Clause (4)
 
 (3) The Secretary of the State Executive Committee shall prepare a progress report of the urban renewal project carried out in the State as directed by the Federal Executive Committee under subsection 6(3).
 
-## Part III
+## PART III
 
 ## URBAN RENEWAL
 
@@ -530,7 +534,7 @@ Urban revitalization
 
 <!-- page 19 -->
 
-## Part IV
+## PART IV
 
 ## PROTECTION OF INTEREST
 
@@ -618,7 +622,7 @@ Urban revitalization
 
 (b) the State Executive Committee may appoint another person to fill the vacancy and any person so appointed shall hold office for the remaining period.
 
-## Part V
+## PART V
 
 ## GENERAL
 
@@ -660,7 +664,7 @@ Urban revitalization
 
 This Bill (“the proposed Act”) seeks to provide for control and supervision of urban renewal for the purposes of town planning and for other related matters.
 
-## Part I
+## PART I
 
 2. Part I of the proposed Act deals with preliminary matters.
 
@@ -674,7 +678,7 @@ This Bill (“the proposed Act”) seeks to provide for control and supervision 
 
 <!-- page 24 -->
 
-## Part II
+## PART II
 
 7. Part II of the proposed Act deals with provisions relating to the Federal Executive Committee and the State Executive Committee.
 
@@ -700,7 +704,7 @@ This Bill (“the proposed Act”) seeks to provide for control and supervision 
 
 18. Clause 15 seeks to provide that the Secretary of the State Executive Committee shall prepare a proposal report for the State Executive Committee and submit the approved proposal report to the Federal Executive Committee for its advice. This clause also provides for the preparation of a progress report as directed by the Federal Executive Committee.
 
-## Part III
+## PART III
 
 19. Part III of the proposed Act deals with the provisions relating to requirements and procedures of an urban renewal project.
 
@@ -732,7 +736,7 @@ Urban revitalization
 
 <!-- page 26 -->
 
-## Part IV
+## PART IV
 
 28. Part IV of the proposed Act deals with the provisions relating to the protection of interest of the interested person who has agreed to participate in an urban renewal project.
 
@@ -746,7 +750,7 @@ Urban revitalization
 
 33. Clause 28 seeks to require a member of the State Urban Renewal Mediation Committee to disclose his interest in an urban renewal project. This clause also provides that a member of the State Urban Renewal Mediation Committee shall cease to be a member of the State Urban Renewal Mediation Committee if he fails to disclose his interest.
 
-## Part V
+## PART V
 
 34. Part V of the proposed Act deals with general provisions.
 

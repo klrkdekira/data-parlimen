@@ -18,13 +18,23 @@ Division 1
 
 Personal Data Protection Principles
 
-5. Personal Data Protection Principles 6. General Principle 7. Notice and Choice Principle 8. Disclosure Principle 9. Security Principle 10. Retention Principle 11. Data Integrity Principle 12. Access Principle
+5. Personal Data Protection Principles 6. General Principle 7. Notice and Choice Principle 8. Disclosure Principle 9. Security Principle
+
+10. Retention Principle
+
+11. Data Integrity Principle
+
+12. Access Principle
 
 Division 2
 
 Registration
 
-13. Application of this Division 14. Registration of data users 15. Application for registration
+13. Application of this Division
+
+14. Registration of data users
+
+15. Application for registration
 
 <!-- page 2 -->
 
@@ -88,25 +98,61 @@ Rights of data subject
 
 <!-- page 3 -->
 
-41. Repeated collection of personal data in same circumstances 42. Right to prevent processing likely to cause damage or distress 43. Right to prevent processing for purposes of direct marketing 44. Record to be kept by data user
+41. Repeated collection of personal data in same circumstances
+
+42. Right to prevent processing likely to cause damage or distress
+
+43. Right to prevent processing for purposes of direct marketing
+
+44. Record to be kept by data user
 
 ## PART III
 
 ## EXEMPTION
 
-45. Exemption 46. Power to make further exemptions
+45. Exemption
+
+46. Power to make further exemptions
 
 ## PART IV
 
 ## APPOINTMENT, FUNCTIONS AND POWERS OF COMMISSIONER
 
-47. Appointment of Commissioner 48. Functions of Commissioner 49. Powers of Commissioner 50. Appointment of Deputy Commissioners and Assistant Commissioners 51. Appointment of other officers and servants 52. Loans and advances to officers and servants 53. Tenure of office 54. Revocation of appointment and resignation 55. Temporary exercise of functions and powers of Commissioner 56. Vacation of office 57. Remuneration and allowances 58. Delegation of Commissioner’s functions and powers 59. Direction by Minister 60. Returns, reports, accounts and information
+47. Appointment of Commissioner
+
+48. Functions of Commissioner
+
+49. Powers of Commissioner
+
+50. Appointment of Deputy Commissioners and Assistant Commissioners
+
+51. Appointment of other officers and servants
+
+52. Loans and advances to officers and servants
+
+53. Tenure of office
+
+54. Revocation of appointment and resignation
+
+55. Temporary exercise of functions and powers of Commissioner
+
+56. Vacation of office
+
+57. Remuneration and allowances
+
+58. Delegation of Commissioner’s functions and powers
+
+59. Direction by Minister
+
+60. Returns, reports, accounts and information
 
 ## PART V
 
 ## PERSONAL DATA PROTECTION FUND
 
-61. Establishment of Fund 62. Expenditure to be charged on Fund
+61. Establishment of Fund
+
+62. Expenditure to be charged on Fund
 
 <!-- page 4 -->
 
@@ -172,19 +218,63 @@ Rights of data subject
 
 <!-- page 5 -->
 
-89. Temporary exercise of functions of Chairman 90. Vacation of office 91. Allowances 92. Disclosure of interest 93. Appeal to Appeal Tribunal 94. Record of decision of Commissioner 95. Stay of decision pending appeal 96. Composition of Appeal Tribunal 97. Sitting of Appeal Tribunal 98. Procedure of Appeal Tribunal 99. Decision of Appeal Tribunal 100. Enforcement of decision of Appeal Tribunal
+89. Temporary exercise of functions of Chairman
+
+90. Vacation of office
+
+91. Allowances
+
+92. Disclosure of interest
+
+93. Appeal to Appeal Tribunal
+
+94. Record of decision of Commissioner
+
+95. Stay of decision pending appeal
+
+96. Composition of Appeal Tribunal
+
+97. Sitting of Appeal Tribunal
+
+98. Procedure of Appeal Tribunal
+
+99. Decision of Appeal Tribunal
+
+100. Enforcement of decision of Appeal Tribunal
 
 ## PART VIII
 
 ## INSPECTION, COMPLAINT AND INVESTIGATION
 
-101. Inspection of personal data system 102. Relevant data user, etc., to be informed of result of inspection 103. Reports by Commissioner 104. Complaint 105. Investigation by Commissioner 106. Restriction on investigation initiated by complaint 107. Commissioner may carry out or continue investigation initiated by complaint notwithstanding withdrawal of complaint 108. Enforcement notice 109. Variation or cancellation of enforcement notice
+101. Inspection of personal data system
+
+102. Relevant data user, etc., to be informed of result of inspection
+
+103. Reports by Commissioner
+
+104. Complaint
+
+105. Investigation by Commissioner
+
+106. Restriction on investigation initiated by complaint
+
+107. Commissioner may carry out or continue investigation initiated by complaint notwithstanding withdrawal of complaint
+
+108. Enforcement notice
+
+109. Variation or cancellation of enforcement notice
 
 ## PART IX
 
 ## ENFORCEMENT
 
-110. Authorized officers 111. Authority card 112. Power of investigation 113. Search and seizure with warrant
+110. Authorized officers
+
+111. Authority card
+
+112. Power of investigation
+
+113. Search and seizure with warrant
 
 <!-- page 6 -->
 

@@ -136,9 +136,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ### Short title and commencement
 
-1.
-
-(1) This Act may be cited as the Gas Supply (Amendment) Act 2016.
+1. (1) This Act may be cited as the Gas Supply (Amendment) Act 2016.
 
 (2) This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette and the Minister may appoint different dates for the coming into operation of different provisions of this Act in different parts of Malaysia.
 
@@ -1916,15 +1914,11 @@ Provided that such money shall not be so applied if the court is satisfied that 
 
 (2) The term for which the court directs that person to be imprisoned in default of payment or of a sufficient distress to satisfy any sum shall not exceed the following scale:
 
-When the money to be paid does not exceed RM500…………………...……
-
-<!-- marginal: One month -->
+When the money to be paid does not exceed RM500…………………...…… One month
 
 When the money to be paid exceeds RM500 but does not exceed RM1000……………………..………… Two months
 
-In any other case………......…………
-
-<!-- marginal: Six months -->
+In any other case………......………… Six months
 
 <!-- page 73 -->
 
@@ -2348,4 +2342,4 @@ Clause 42 also seeks to introduce new section 37g into Act 501 pertaining to lic
 
 This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained.
 
-[PN(U2)2850]
+<!-- marginal: [PN(U2)2850] -->

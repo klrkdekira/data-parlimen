@@ -56,9 +56,11 @@ seksyen 8 seksyen yang berikut: Minister 8A. The Minister may, by order publishe
 
 <!-- page 2 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-5. Seksyen 9 Akta ibu adalah dipinda — seksyen 9.
+5. Seksyen 9 Akta ibu adalah dipinda —
+
+<!-- marginal: seksyen 9. -->
 
 (a) dalam subseksyen (1) dan (2), dengan memasukkan sebelum perkataan "authority card" perkataan "badge or";
 
@@ -68,25 +70,79 @@ Pindaan
 
 (c) dalam nota birai, dengan menggantikan perkataan "Authority" dengan perkataan "Badges and authority".
 
-6. Akta ibu adalah dipinda dengan memasukkan selepas baru 9A. seksyen 9 seksyen yang berikut: "Unlawful 9A. Any person, not being an officer of customs, use, who unlawfully wears, uses, possesses or possession, etc. of displays otherwise than in the course of a stage uniform, play or other theatrical performance, any etc. prescribed uniform or badge or authority card, or any dress having the appearance of or bearing the distinctive marks of such uniform shall be guilty of an offence under this Act.".
+<!-- marginal: Seksyen -->
 
-Pemotongan
+6. Akta ibu adalah dipinda dengan memasukkan selepas
 
-7. Seksyen 11 Akta ibu adalah dipinda dengan memotong subseksyen subseksyen (6). 11(6).
+<!-- marginal: baru 9A. -->
 
-Pindaan
+seksyen 9 seksyen yang berikut:
 
-8. Akta ibu adalah dipinda dengan menggantikan seksyen 13. subseksyen 13(1) dengan subseksyen yang berikut:
+<!-- marginal: "Unlawful -->
 
-"CIassifi- 13. (1) The proper officer of customs may, in cation and respect of any dutiable or uncustomed goods,— valuation by proper
+9A. Any person, not being an officer of customs,
 
-(a) determine the class of goods to which officer of customs. such dutiable or uncustomed goods belong; and
+<!-- marginal: use, -->
+
+who unlawfully wears, uses, possesses or
+
+<!-- marginal: possession, -->
+
+<!-- marginal: etc. of -->
+
+displays otherwise than in the course of a stage
+
+<!-- marginal: uniform, -->
+
+play or other theatrical performance, any
+
+<!-- marginal: etc. -->
+
+prescribed uniform or badge or authority card, or any dress having the appearance of or bearing the distinctive marks of such uniform shall be guilty of an offence under this Act.".
+
+<!-- marginal: Pemotongan -->
+
+7. Seksyen 11 Akta ibu adalah dipinda dengan memotong
+
+<!-- marginal: subseksyen -->
+
+subseksyen (6).
+
+<!-- marginal: 11(6). -->
+
+<!-- marginal: Pindaan -->
+
+8. Akta ibu adalah dipinda dengan menggantikan
+
+<!-- marginal: seksyen 13. -->
+
+subseksyen 13(1) dengan subseksyen yang berikut:
+
+<!-- marginal: "CIassifi- -->
+
+13. (1) The proper officer of customs may, in
+
+<!-- marginal: cation and -->
+
+respect of any dutiable or uncustomed goods,—
+
+<!-- marginal: valuation -->
+
+<!-- marginal: by proper -->
+
+(a) determine the class of goods to which
+
+<!-- marginal: officer of -->
+
+<!-- marginal: customs. -->
+
+such dutiable or uncustomed goods belong; and
 
 <!-- page 3 -->
 
 ## KASTAM (PINDAAN)
 
-<!-- marginal: 3 -->
+3
 
 (b) value, weigh, measure or otherwise examine, or cause to be valued, weighed, measured or otherwise examined such dutiable or uncustomed goods,
 
@@ -102,9 +158,45 @@ seksyen 13 seksyen yang berikut:
 
 <!-- marginal: dan 13B. -->
 
-"Payment 13A. Any person who is dissatisfied with a of customs decision of a proper officer of customs under duty under protest. section 13(1) as to whether any particular goods are or are not included in a class of goods appearing in an order made under section 11(1) or with the valuation, weighing, measuring or examining of any goods may pay the customs duty Ievied under protest.
+<!-- marginal: "Payment -->
 
-Director 13B. Where customs duty has been paid under General to protest, the proper officer of customs shall, within determine thirty days of such payment being made, refer questions on classifi- any question as to classification or valuation cation and of goods to the Director General for his valuation. decision.".
+13A. Any person who is dissatisfied with a
+
+<!-- marginal: of customs -->
+
+decision of a proper officer of customs under
+
+<!-- marginal: duty under -->
+
+<!-- marginal: protest. -->
+
+section 13(1) as to whether any particular goods are or are not included in a class of goods appearing in an order made under section 11(1) or with the valuation, weighing, measuring or examining of any goods may pay the customs duty Ievied under protest.
+
+<!-- marginal: Director -->
+
+13B. Where customs duty has been paid under
+
+<!-- marginal: General to -->
+
+protest, the proper officer of customs shall, within
+
+<!-- marginal: determine -->
+
+thirty days of such payment being made, refer
+
+<!-- marginal: questions -->
+
+<!-- marginal: on classifi- -->
+
+any question as to classification or valuation
+
+<!-- marginal: cation and -->
+
+of goods to the Director General for his
+
+<!-- marginal: valuation. -->
+
+decision.".
 
 <!-- marginal: Seksyen -->
 
@@ -116,7 +208,27 @@ seksyen 22 seksyen yang berikut:
 
 <!-- marginal: dan 22B. -->
 
-"Certificate 22A. Notwithstanding anything contained in any of Director other written law or rule of evidence to the General admissible contrary, where in any proceedings a document in purporting to be a certificate under the hand of evidence. the Director General in respect of a decision made by him under section 13B or 22 is produced, such document shall be admissible in evidence and shall be accepted as sufficient evidence of the facts therein stated and the Director General shall not be required to give evidence in respect of such decision unless the court otherwise orders.
+<!-- marginal: "Certificate -->
+
+22A. Notwithstanding anything contained in any
+
+<!-- marginal: of Director -->
+
+other written law or rule of evidence to the
+
+<!-- marginal: General -->
+
+<!-- marginal: admissible -->
+
+contrary, where in any proceedings a document
+
+<!-- marginal: in -->
+
+purporting to be a certificate under the hand of
+
+<!-- marginal: evidence. -->
+
+the Director General in respect of a decision made by him under section 13B or 22 is produced, such document shall be admissible in evidence and shall be accepted as sufficient evidence of the facts therein stated and the Director General shall not be required to give evidence in respect of such decision unless the court otherwise orders.
 
 <!-- page 4 -->
 
@@ -126,13 +238,19 @@ seksyen 22 seksyen yang berikut:
 
 Recovery 22B. Without prejudice to any other remedy, of customs any customs duty payable under this Act may duty as a civil debt. be recovered by the Minister as a civil debt due to the Government of Malaysia, or where the customs duty is a duty of a category assigned to the State by Article 112c of the Federal Constitution, to the Government of that State.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-11. Seksyen 129 Akta ibu adalah dipinda dengan seksyen 129. memasukkan selepas perkataan "or other person entitled thereto" perkataan "on payment of such amount and".
+11. Seksyen 129 Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 129. -->
 
-12. Seksyen 131 Akta ibu adalah dipinda— seksyen 131.
+memasukkan selepas perkataan "or other person entitled thereto" perkataan "on payment of such amount and".
+
+<!-- marginal: Pindaan -->
+
+12. Seksyen 131 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 131. -->
 
 (a) dalam subseksyen (1), dengan menggantikan perkataan "Any" dengan perkataan "Except as provided in subsection (2A), any"; dan
 

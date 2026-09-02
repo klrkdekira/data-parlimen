@@ -8,13 +8,29 @@ An Act to amend the Merchant Shipping Ordinance 1952, among other things to enab
 
 BE IT ENACTED by the Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong with the advice and consent of the Dewan Negara and Dewan Rakyat in Parliament assembled, and by the authority of the same, as follows:
 
-1. (1) This Act may be cited as the Merchant Shipping Short title and com- (Amendment) Act 1991. mencement.
+1. (1) This Act may be cited as the Merchant Shipping
+
+<!-- marginal: Short title -->
+
+<!-- marginal: and com- -->
+
+(Amendment) Act 1991.
+
+<!-- marginal: mencement. -->
 
 (2) This Act shall come into force on such date as the Minister may, by notification in the Gazette, appoint and the Minister may appoint differenl dates for different provisions of this Act.
 
-Amendment
+<!-- marginal: Amendment -->
 
-2. Section 2 of the Merchant Shipping Ordinance 1952. of section 2. which in this Act is referred to as the "Ordinance", is r.M. 70/1952. amended—
+2. Section 2 of the Merchant Shipping Ordinance 1952.
+
+<!-- marginal: of section 2. -->
+
+which in this Act is referred to as the "Ordinance", is
+
+<!-- marginal: r.M. 70/1952. -->
+
+amended—
 
 (a) by inserting, immediately after the definition of "buoys and beacons", the following new definition:
 
@@ -44,9 +60,11 @@ Amendment
 
 ' "Safely Convention" means the International Convention for the Safety of Life at Sea signed in London on the Ist November 1974; and if any amendment of the Safety Convention comes into force with respect to Malaysia, reterences in this Ordinance to the Safety Convention shall, unless the context otherwise requires, be construed as references to the Safety Convention as amended;'.
 
-Amendment
+<!-- marginal: Amendment -->
 
-3. Section 10 of the Ordinance is amended— of section 10.
+3. Section 10 of the Ordinance is amended—
+
+<!-- marginal: of section 10. -->
 
 (a) by deleting the words ", either generally or for special purposes and on special occasions," tn subsection (1);
 
@@ -54,13 +72,13 @@ Amendment
 
 (b) by inserting, immediately after subsection (2), the following new subsection (2A): "(2A) The Minister may appoint, for special purposes and on special occasions, any person, whether or not a citizen of Malaysia, to perform any specific functions of a Surveyor of Ships or a Radio Surveyor under this Ordinance at any place, whether within or outside Malaysia; and in connection with the performance of those functions such a person shall be deemed for the purposes of this Ordinance to be a Surveyor of Ships or a Radio Surveyor, as the case may be, appointed under subsection (1)."; and
 
-(c) by substituting the word "persons" in subsection
+(c) by substituting the word "persons" in subsection (4) with the words "public 6fficers".
 
-(4) with the words "public 6fficers".
+<!-- marginal: Amendment -->
 
-Amendment
+4. Section 18 of the Ordinance is amended—
 
-4. Section 18 of the Ordinance is amended— of section 18.
+<!-- marginal: of section 18. -->
 
 (a) by inserting, immediately after the word "yellow" and the word "black" in paragraph (a) of subsection (1), the words "Roman capital";
 
@@ -68,9 +86,11 @@ Amendment
 
 (c) by inserting, immediately after subsection (2). the following new subsection (2A): "(2A) The Registrar General may require that the proposed name for a ship intended to be registered under this Part be submitted to him for his approval and he may forthis purpose prescribe such form as he thinks fit.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-5. Section 69 of the Ordinance is amended— of section 69.
+5. Section 69 of the Ordinance is amended—
+
+<!-- marginal: of section 69. -->
 
 (a) by substituting the words "British and Malayan" in the fifth line of subsection (2) wilh the word "Malaysian";
 
@@ -86,13 +106,25 @@ Amendment
 
 (f) by substituting the words "British or Malayan" in subsection (3) with the word "Malaysian" and deleting the words "under the Merchant Shipping Acts or" in that subsection.
 
-Deletion
+<!-- marginal: Deletion -->
 
-6. The Ordinance is amended by deleting sections 71 to of sections 87 and the caption "Certificates of Competency" for those 71 to87. sections.
+6. The Ordinance is amended by deleting sections 71 to
 
-New
+<!-- marginal: of sections -->
 
-7. The Ordinance is amended by inserting, immediately section 71. after section 70, the following caption and new section 71:
+87 and the caption "Certificates of Competency" for those
+
+<!-- marginal: 71 to87. -->
+
+sections.
+
+<!-- marginal: New -->
+
+7. The Ordinance is amended by inserting, immediately
+
+<!-- marginal: section 71. -->
+
+after section 70, the following caption and new section 71:
 
 Qualifications and Manning Rules 71. The Minister may make such rules as he relating to considers necessary or expedient to provide for qualifica- the qualjfications of officers and seamen of, and tions of officers the manning requirements for, ships and for and seamen, matters connected therewith, and without tlie manning of ships, etc. prejudice to the generality of such powers, may make rules providing for—
 
@@ -136,49 +168,113 @@ relation to the operation and maintenance of ships;
 
 (l) penalties for the contravention of the provision of any rules made under this section of a fine not exceeding ten thousand ringgit or imprisonment for a term not exceeding two years or both.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-8. Section 98 of the Ordinance is amended by substituting of section98. the words "home-trade or local-trade" in subsection (2) with the words "near-coastal trade".
+8. Section 98 of the Ordinance is amended by substituting
 
-Amendment
+<!-- marginal: of section98. -->
 
-9. Section 101 of the Ordinance is amended by of section 101, substituting the words "home-trade or local-trade" with the words "near-coastal trade".
+the words "home-trade or local-trade" in subsection (2) with the words "near-coastal trade".
+
+<!-- marginal: Amendment -->
+
+9. Section 101 of the Ordinance is amended by
+
+<!-- marginal: of section 101, -->
+
+substituting the words "home-trade or local-trade" with the words "near-coastal trade".
 
 <!-- page 7 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-10. Section 104 of the Ordinance is amended by of section substituting the words "home-trade ship or local-trade 104. ship" in subsection (1) and the words "home-trade or local-trade" in the marginal note with, respectively, the words "near-coastal trade ship" and the words "near- coastal trade".
+10. Section 104 of the Ordinance is amended by
 
-Amendment
+<!-- marginal: of section -->
 
-11. Section 113 of the Ordinance is amended by of section substituting the words "foreign-going, home-trade or 113. local-trade" in subsection (1) with the words "foreign going or near-coastal trade".
+substituting the words "home-trade ship or local-trade
 
-Amendment
+<!-- marginal: 104. -->
 
-12. Section 123 of the Ordinance is amended by of section substituting the words "home-trade or local-trade" in 123. subsection (1) with the words "near-coastal trade".
+ship" in subsection (1) and the words "home-trade or local-trade" in the marginal note with, respectively, the words "near-coastal trade ship" and the words "near- coastal trade".
 
-Amendment
+<!-- marginal: Amendment -->
 
-13. Section 168 of the Ordinance is amended— of section 168.
+11. Section 113 of the Ordinance is amended by
+
+<!-- marginal: of section -->
+
+substituting the words "foreign-going, home-trade or
+
+<!-- marginal: 113. -->
+
+local-trade" in subsection (1) with the words "foreign going or near-coastal trade".
+
+<!-- marginal: Amendment -->
+
+12. Section 123 of the Ordinance is amended by
+
+<!-- marginal: of section -->
+
+substituting the words "home-trade or local-trade" in
+
+<!-- marginal: 123. -->
+
+subsection (1) with the words "near-coastal trade".
+
+<!-- marginal: Amendment -->
+
+13. Section 168 of the Ordinance is amended—
+
+<!-- marginal: of section -->
+
+<!-- marginal: 168. -->
 
 (a) by substituting the words "home-trade ship or a local-trade ship" in subsection (1) with the words "near-coastal trade ship"; and
 
 (b) by substituting the words "home-trade ship nor a local-trade ship" in subsection (2) with the words "near-coastal trade ship".
 
-Amendment
+<!-- marginal: Amendment -->
 
-14. Section 198 of the Ordinance is amended by of section substituting the words "local-trade" in subsection (1) with 198. the words "near-coastal trade",
+14. Section 198 of the Ordinance is amended by
 
-Amendment
+<!-- marginal: of section -->
 
-15. Section 208 of the Ordinance is amended by deleting of section subsection (6). 208. Amendment
+substituting the words "local-trade" in subsection (1) with
 
-16. Section 223 of the Ordinance is amended by of section substituting the words "home-trade or local-trade" in 223. subsection (2) with the words "near-coastal trade".
+<!-- marginal: 198. -->
 
-Amendment
+the words "near-coastal trade",
 
-17. Section 236 of the Ordinance is amended— of section 236.
+<!-- marginal: Amendment -->
+
+15. Section 208 of the Ordinance is amended by deleting
+
+<!-- marginal: of section -->
+
+subsection (6).
+
+<!-- marginal: 208. -->
+
+<!-- marginal: Amendment -->
+
+16. Section 223 of the Ordinance is amended by
+
+<!-- marginal: of section -->
+
+substituting the words "home-trade or local-trade" in
+
+<!-- marginal: 223. -->
+
+subsection (2) with the words "near-coastal trade".
+
+<!-- marginal: Amendment -->
+
+17. Section 236 of the Ordinance is amended—
+
+<!-- marginal: of section -->
+
+<!-- marginal: 236. -->
 
 (a) by inserting, immediately after the words "on board" in subsection (1) the words ", or if there has been received on board of any passenger steamer,"; and
 
@@ -186,35 +282,61 @@ Amendment
 
 <!-- page 8 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-18. Section 244 of the Ordinance ts amended— of section
+18. Section 244 of the Ordinance ts amended—
 
-244.
+<!-- marginal: of section -->
 
-(a)by inserting, immediately after the word "Federation" in paragraph (k) of subsection (1), the words "and the fees to be paid in respect of the embarkation or discharge of passengers"; and
+244. (a)by inserting, immediately after the word "Federation" in paragraph (k) of subsection (1), the words "and the fees to be paid in respect of the embarkation or discharge of passengers"; and
 
 (b) by substituting subsection (2) with the following:
 
 "(2) The Minister, in making a rule under this section, may direct that any person who commits a breach of it shall be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding one year or to both.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-19. Section 245 of the Ordinance is amended by of section substituting the words "local-trade" with the words "near-
+19. Section 245 of the Ordinance is amended by
+
+<!-- marginal: of section -->
+
+substituting the words "local-trade" with the words "near-
 
 245. coastal trade".
 
-Substitution
+<!-- marginal: Substitution -->
 
-20. The Ordinance is amended by substituting the caption of caption for sections 256A to 264 with the caption "Construction, for sections 256A to 264. Life-saving Appliances and Eguipment".
+20. The Ordinance is amended by substituting the caption
 
-Amendment
+<!-- marginal: of caption -->
 
-21. Section 256A of the Ordinance is amended by of section inserting, immediately after the words "and machinery of 25 6A. in each place where they occur in subsection (1), the words "and the fuel used in".
+for sections 256A to 264 with the caption "Construction,
 
-New
+<!-- marginal: for sections -->
 
-22. The Ordinance is amended by inserting, immediately after section 256A, the following new section 256s:
+<!-- marginal: 256A to 264. -->
+
+Life-saving Appliances and Eguipment".
+
+<!-- marginal: Amendment -->
+
+21. Section 256A of the Ordinance is amended by
+
+<!-- marginal: of section -->
+
+inserting, immediately after the words "and machinery of
+
+<!-- marginal: 25 6A. -->
+
+in each place where they occur in subsection (1), the words "and the fuel used in".
+
+<!-- marginal: New -->
+
+22. The Ordinance is amended by inserting, immediately
+
+<!-- marginal: section -->
+
+after section 256A, the following new section 256s:
 
 256B. "Cargo 256s. (1) The Minister may make rules (in this ship Ordinance referred to as "cargo ship construc- tion and construction and survey rules") prescribing survey requirements for the hull, equipment and rules. machinery of and the fuel used in ships to which this section applies and requiring any such ships which are registered in Malaysia to be surveyed to such extent, in such manner and at such intervals as may be prescribed by the rules,
 
@@ -254,13 +376,43 @@ Ships, the definition of "declaration of survey" in section 2 shall not apply.
 
 (8) A port clearance shall not be granted to the ship; and the ship shall be detained until a certificate under the hand of a Surveyor of Ships is produced to the effect that the failure has been remedied.".
 
-New
+<!-- marginal: New -->
 
-23. The Ordinance is amended by inserting, immediately after section 268, the following new section 268A:
+23. The Ordinance is amended by inserting, immediately
 
-268A. "Cargo
+<!-- marginal: section -->
 
-268A. (1) If the Surveyor-General of Ships or ship such person as he may authorise for the purpose safety construc- is satisfied, on receipt of declarations of survey tion certi- in respect of a ship to which section 256s applies ficates and exemption and which is registered in Malaysia, that the ship certificates. complies with the cargo ship construction and survey rules applicable to the ship and such voyages as she is to be engaged on he shall, on the application of the owner, issue in respect of the ship—
+after section 268, the following new section 268A:
+
+268A.
+
+<!-- marginal: "Cargo -->
+
+268A. (1) If the Surveyor-General of Ships or
+
+<!-- marginal: ship -->
+
+such person as he may authorise for the purpose
+
+<!-- marginal: safety -->
+
+<!-- marginal: construc- -->
+
+is satisfied, on receipt of declarations of survey
+
+<!-- marginal: tion certi- -->
+
+in respect of a ship to which section 256s applies
+
+<!-- marginal: ficates and -->
+
+<!-- marginal: exemption -->
+
+and which is registered in Malaysia, that the ship
+
+<!-- marginal: certificates. -->
+
+complies with the cargo ship construction and survey rules applicable to the ship and such voyages as she is to be engaged on he shall, on the application of the owner, issue in respect of the ship—
 
 (a) if the ship is or not less than five hundred tons gross tonnage and is to be engaged on international voyages, a certificate in the form prescribed by the Safety Convention;
 
@@ -270,11 +422,7 @@ New
 
 (2) If the Surveyor-General of Ships, on receipt of declarations of survey in respect of such a ship, is satisfied that the ship is exempt, by virtue of any exercise by him of a power conferred on him by section 282 or the cargo ship construction and survey rules, from any of the requirements of those rules applicable to the ship and to such voyages as she is to be engaged on, and that she complies with the rest of those requirements, he shall, on the application of the owner, issue in respect of the ship—
 
-(a) if she is of not less than five hundred tons gross tonnage and is to be engaged on international voyages—
-
-(i) an exemption certificate stating which of the requirements of the Safety Convention, being require- ments implemented by the rules and applicable as aforesaid, the ship is exempt from and that the exemption is conditional on the ship's plying on the voyages and complying with the other conditions (if any) specified in the certificate; and
-
-(ii) a certificate showing that the ship complies with the rest of those requirements;
+(a) if she is of not less than five hundred tons gross tonnage and is to be engaged on international voyages— (i) an exemption certificate stating which of the requirements of the Safety Convention, being require- ments implemented by the rules and applicable as aforesaid, the ship is exempt from and that the exemption is conditional on the ship's plying on the voyages and complying with the other conditions (if any) specified in the certificate; and (ii) a certificate showing that the ship complies with the rest of those requirements;
 
 (b) in any other case, a certificate showing that the ship complies with such of the requirements of the cargo ship construction and survey rules applicable to the ship and to the voyages she is to be engaged on as she is not exempt from, and any certittcate issued under paragraph (a)(ii) or paragraph (b) of this subsection is in this
 
@@ -298,9 +446,13 @@ shall apply as they apply in relation to certificates issued by the Surveyor-Gen
 
 Ships, but in making rules under section 271(10), the Minister may provide for fees to be payable to the authorised person.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-24. Section 269 of the Ordinance is amended— of section 269.
+24. Section 269 of the Ordinance is amended—
+
+<!-- marginal: of section -->
+
+<!-- marginal: 269. -->
 
 (a) by substituting the words "five hundred" in subsection (3) with the words "five thousand"; and
 
@@ -308,13 +460,43 @@ Amendment
 
 (4) with the words "Surveyor General of Ships".
 
-New
+<!-- marginal: New -->
 
-25. The Ordinance is atnended by inserting, immediately after section 269, the following new section 269A: 269A.
+25. The Ordinance is atnended by inserting, immediately
 
-"Notice
+<!-- marginal: section -->
 
-269A. (1) The duty of the owner or master of a of altera- ship under subsection (2) of section 269 to notify tions and additional alterations shall extend, in relation to any ship in surveys in respect of which any certificate under section relation to cargo 268A is in force, to the hull, machinery and any ships. equiprnent other than that mentioned in that subsection, but may, if the certificate was issued by a-person authorised under that section, be discharged by notifying him instead of the Surveyor-General of Ships.
+after section 269, the following new section 269A:
+
+<!-- marginal: 269A. -->
+
+<!-- marginal: "Notice -->
+
+269A. (1) The duty of the owner or master of a
+
+<!-- marginal: of altera- -->
+
+ship under subsection (2) of section 269 to notify
+
+<!-- marginal: tions and -->
+
+<!-- marginal: additional -->
+
+alterations shall extend, in relation to any ship in
+
+<!-- marginal: surveys in -->
+
+respect of which any certificate under section
+
+<!-- marginal: relation -->
+
+<!-- marginal: to cargo -->
+
+268A is in force, to the hull, machinery and any
+
+<!-- marginal: ships. -->
+
+equiprnent other than that mentioned in that subsection, but may, if the certificate was issued by a-person authorised under that section, be discharged by notifying him instead of the Surveyor-General of Ships.
 
 (2) Subsection (4) of section 269 shall have effect, in relation to any such ship, as if—
 
@@ -326,17 +508,39 @@ and the power of the Surveyor-General of Ships under that subsection to cancel s
 
 <!-- page 14 -->
 
-New
+<!-- marginal: New -->
 
-26. The Ordinance is amended by inserting, immediately after section 270, the following new section 270A:
+26. The Ordinance is amended by inserting, immediately
+
+<!-- marginal: section -->
+
+after section 270, the following new section 270A:
 
 270A.
 
-"Prohibition
+"Prohibition 270A. (1) No ship to which section 256B
 
-270A. (1) No ship to which section 256B on applies and which is registered in Malaysia shall proceeding to sea proceed to sea unless there is in force in respect without of the ship either— appropriate certificates
+<!-- marginal: on -->
 
-(a) a cargo ship safety construction in the case of cargo certificate; or ships.
+applies and which is registered in Malaysia shall proceeding
+
+<!-- marginal: to sea -->
+
+proceed to sea unless there is in force in respect
+
+<!-- marginal: without -->
+
+of the ship either— appropriate certificates
+
+(a) a cargo ship safety construction
+
+<!-- marginal: in the case -->
+
+<!-- marginal: of cargo -->
+
+certificate; or
+
+<!-- marginal: ships. -->
 
 (b) a qualified cargo ship safety construction certificate and, if the ship is about to proceed on an international voyage, a corresponding exemption certificate; or
 
@@ -348,9 +552,11 @@ applicable to the ship and to the voyage on which she is about to proceed.
 
 (3) The master of every ship to which section 256B applies and which is registered in Malaysia shall produce to the Port Officer at the time a clearance for the ship is demanded the certificate or certificates required by subsection (1); and the clearance shall not be granted, and the ship may be detained, until the said certificate or certificates are so produced.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-27. Section 271 of the Ordinance is amended— of section
+27. Section 271 of the Ordinance is amended—
+
+<!-- marginal: of section -->
 
 271.
 
@@ -366,37 +572,65 @@ Amendment
 
 (e) by inserting, immediately after subsection (9), the following new subsection (10): "(10) The Minister may make rules to prescribe the fees to be paid in respect of any certificate issued, or any extension of any certificate granted, under this Part.".
 
-New
+<!-- marginal: New -->
 
-28. The Ordinance is amended by inserting, immediately after section 274, the following new section 274A: 274A. "Exemption
+28. The Ordinance is amended by inserting, immediately
 
-274A. Where there is produced in respect of a of ships ship not registered in Malaysia— holdmg appropnate
+<!-- marginal: section -->
+
+after section 274, the following new section 274A:
+
+<!-- marginal: 274A. -->
+
+"Exemption 274A. Where there is produced in respect of a of ships ship not registered in Malaysia— holdmg appropnate
 
 (a) an accepted Safety Convention certificate Convention certificates equivalent to a cargo ship safety from cargo construction certificate; or ship contruc- tion and
 
 (b) accepted Safety Convention certificates survey rules. equivalent respectively to a qualified cargo ship safety construction certificate and to a corresponding exemption certificate, the ship shall be exempt from the cargo ship construction and survey rules.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-29. Section 284 of the Ordinance is amended by of section substituting the words "section 3 of the Merchant 284. Shipping (Amendment) Act, 1965," and the words "section 4 of the Merchant Shipping (Amendment) Act, 1965" in paragraph (b) of subsection (4) with, respectively, the words "section 256B of this Ordinance" and the words "section 268A of this Ordinance".
+29. Section 284 of the Ordinance is amended by
 
-Deletion
+<!-- marginal: of section -->
 
-30. The Ordinance is amended by deleting section 285 of section and the Seventh Schedule. 285 and Seventh
+substituting the words "section 3 of the Merchant
+
+<!-- marginal: 284. -->
+
+Shipping (Amendment) Act, 1965," and the words "section 4 of the Merchant Shipping (Amendment) Act, 1965" in paragraph (b) of subsection (4) with, respectively, the words "section 256B of this Ordinance" and the words "section 268A of this Ordinance".
+
+<!-- marginal: Deletion -->
+
+30. The Ordinance is amended by deleting section 285
+
+<!-- marginal: of section -->
+
+and the Seventh Schedule.
+
+<!-- marginal: 285 and -->
+
+<!-- marginal: Seventh -->
 
 ## Schedule.
 
 <!-- page 16 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-31. Section 286 of the Ordinance is amended by of section substituting the words "home-trade and local-trade" in
+31. Section 286 of the Ordinance is amended by
+
+<!-- marginal: of section -->
+
+substituting the words "home-trade and local-trade" in
 
 286. subsection (1) with the words "near-coastal trade".
 
-Amendment
+<!-- marginal: Amendment -->
 
-32. Section 289 of the Ordinance is amended— of section
+32. Section 289 of the Ordinance is amended—
+
+<!-- marginal: of section -->
 
 289.
 
@@ -416,9 +650,11 @@ Amendment
 
 (d) any other goods which may be declared to be dangerous goods by rules made or, as the case may be, having application under section 293.".
 
-Substitution
+<!-- marginal: Substitution -->
 
-33. Section 290 of the Ordinance is amended— of section
+33. Section 290 of the Ordinance is amended—
+
+<!-- marginal: of section -->
 
 290.
 
@@ -428,21 +664,39 @@ Substitution
 
 <!-- page 17 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-34. Section 291 of the Ordinance is amended by deleting of section the words ", British, Malayan or foreign," in subsections 291.
+34. Section 291 of the Ordinance is amended by deleting
+
+<!-- marginal: of section -->
+
+the words ", British, Malayan or foreign," in subsections
+
+<!-- marginal: 291. -->
 
 (1) and (2).
 
-Amendment
+<!-- marginal: Amendment -->
 
-35. Section 292 of the Ordinance is amended by deleting of section the words ", British, Malayan or foreign," in subsection 292.
+35. Section 292 of the Ordinance is amended by deleting
+
+<!-- marginal: of section -->
+
+the words ", British, Malayan or foreign," in subsection
+
+<!-- marginal: 292. -->
 
 (1).
 
-Substitution
+<!-- marginal: Substitution -->
 
-36. The Ordinance is amended by substituting section of section 293 with the following: 293.
+36. The Ordinance is amended by substituting section
+
+<!-- marginal: of section -->
+
+293 with the following:
+
+<!-- marginal: 293. -->
 
 -carriage 293. (1) The Minister may make rules for dlangerous regulating in the interests of safety the carriage goods. of dangerous goods in ships to which this section applies.
 
@@ -456,9 +710,7 @@ Substitution
 
 (4) Until rules are made under subsection (1), the rules made from time to time under the Merchant Shipping Acts with respect to the carriage of dangerous goods shall apply to ships to which this section applies.
 
-(5) If any of the rules made under subsection
-
-(1) or, as the case may be, having application under subsection (4), is not complied with in relation to any ship to which the rule applies, the person specified in the rules as being guilty of an offence for the non-compliance or, if no person is so specified, the owner or master of the ship
+(5) If any of the rules made under subsection (1) or, as the case may be, having application under subsection (4), is not complied with in relation to any ship to which the rule applies, the person specified in the rules as being guilty of an offence for the non-compliance or, if no person is so specified, the owner or master of the ship
 
 <!-- page 18 -->
 
@@ -468,9 +720,11 @@ Substitution
 
 shall be liable in respect of each offence to a fine not exceeding fifteen thousand ringgit or such lesser amount as may be prescribed in the rules for the offence, and the ship shall be deemed for the purposes of this Part to be unsafe by reason of improper loading.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-37. Section 297 of the Ordinance is amended— of section
+37. Section 297 of the Ordinance is amended—
+
+<!-- marginal: of section -->
 
 297.
 
@@ -486,49 +740,105 @@ Amendment
 
 "(6) In this section the expression "grain" includes wheat, maize or corn, oats, rye, barley, rice, pulses and seeds, and processed forms thereof whose behaviour is similar to that of grain in its natural state.".
 
-New
+<!-- marginal: New -->
 
-38. The Ordinance is amended by inserting, immediately after section 299, before the caption "Unseaworthy Ships",
+38. The Ordinance is amended by inserting, immediately
+
+<!-- marginal: section -->
+
+after section 299, before the caption "Unseaworthy Ships",
 
 299A. the following caption and new section 299A:
 
-Nuclear Ships Nuclear
-
-299A. The Minister may make regulations with ship respect to ships provided with nuclear power regulations. plants for the purpose of enabling effect to be given to the provisions of Chapter VIII of the Annex to the Safety Conyention.".
+Nuclear Ships Nuclear 299A. The Minister may make regulations with ship respect to ships provided with nuclear power regulations. plants for the purpose of enabling effect to be given to the provisions of Chapter VIII of the Annex to the Safety Conyention.".
 
 <!-- page 19 -->
 
-New
+<!-- marginal: New -->
 
-39. The Ordinance is amended by inserting, immediately after the new section 299A, before the caption 29 9B. "Unseaworthy Ships", the following caption and new section 299B: " Transitional Regulations Power
+39. The Ordinance is amended by inserting, immediately
 
-299B. The Minister may make regulations to to make provide that for such purposes, for such a period transitional regulations. and subject to such conditions as may be specified by or under the regulations—
+<!-- marginal: section -->
+
+<!-- marginal: after -->
+
+the new section 299A, before the caption
+
+<!-- marginal: 29 9B. -->
+
+"Unseaworthy Ships", the following caption and new section 299B: " Transitional Regulations
+
+<!-- marginal: Power -->
+
+299B. The Minister may make regulations to
+
+<!-- marginal: to make -->
+
+provide that for such purposes, for such a period
+
+<!-- marginal: transitional -->
+
+<!-- marginal: regulations. -->
+
+and subject to such conditions as may be specified by or under the regulations—
 
 (a) any country which, immediately before the commencement of this section, was a country to which the International Convention for the Safety of Life at Sea 1960 applied shall be treated for the purposes of this Ordinance as if it were a country to which the Safety Convention applies; and
 
 (b) any certificate which, immediately before the commencement of this section, was an accepted Safety Convention certificate within the meaning then of this Ordinance may be treated as if it were an accepted Safety Convention certificate within the meaning presently of this Ordinance.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-40. Section 305 of the Ordinance is amended by deleting of section subsection (2). 305.
+40. Section 305 of the Ordinance is amended by deleting
 
-New
+<!-- marginal: of section -->
 
-41. The Ordinance is amended by inserting in Part V, immediately after section 306, the following caption and 306A. new section 306A:
+subsection (2).
 
-Supplemental Countries
+<!-- marginal: 305. -->
 
-306A. The Minister, if satisfied— lo which safety
+<!-- marginal: New -->
 
-(a) that the government of a country has convention accepted, or denounced, the Safety applies. Convention; or
+41. The Ordinance is amended by inserting in Part V,
+
+<!-- marginal: section -->
+
+immediately after section 306, the following caption and
+
+<!-- marginal: 306A. -->
+
+new section 306A:
+
+Supplemental
+
+<!-- marginal: Countries -->
+
+306A. The Minister, if satisfied—
+
+<!-- marginal: lo which -->
+
+<!-- marginal: safety -->
+
+(a) that the government of a country has
+
+<!-- marginal: convention -->
+
+accepted, or denounced, the Safety
+
+<!-- marginal: applies. -->
+
+Convention; or
 
 (b) that the Safety Convention extends, or has ceased to extend, to any territory, may by order make a declaration to that effect.".
 
 <!-- page 20 -->
 
-New
+<!-- marginal: New -->
 
-42. The Ordinance is amended by inserting, immediately Part VA. after Part V, the following new Part VA which shall apply throughout Malaysia:
+42. The Ordinance is amended by inserting, immediately
+
+<!-- marginal: Part VA. -->
+
+after Part V, the following new Part VA which shall apply throughout Malaysia:
 
 ## PART VA
 
@@ -588,9 +898,17 @@ Definition. 306c. For the purposes of this Part and the rules made thereunder, u
 
 substance from the ship shall, for the purposes of this Part, be deemed to be an escape or likely escape of oil orharmful substance from the ship.
 
-Powers of
+<!-- marginal: Powers of -->
 
-306D. (1) Where oil or harmful substance is Director escaping from, or where the Director of Marine of Marine. is satisfied that oil or harmful substance is likely to escape from, a ship, then, for the purpose of preventing or reducing the extent of the pollution or likely pollution by the oil or harmful substance of any Malaysian waters, any part of the Malaysian coast or any Malaysian reef, the Director of Marine, in consultation with the Director-General of Environmental Quality, may, by notice in writing addressed to the owner of the ship and served in accordance with section 306E, do all or any of the following:
+306D. (1) Where oil or harmful substance is
+
+<!-- marginal: Director -->
+
+escaping from, or where the Director of Marine
+
+<!-- marginal: of Marine. -->
+
+is satisfied that oil or harmful substance is likely to escape from, a ship, then, for the purpose of preventing or reducing the extent of the pollution or likely pollution by the oil or harmful substance of any Malaysian waters, any part of the Malaysian coast or any Malaysian reef, the Director of Marine, in consultation with the Director-General of Environmental Quality, may, by notice in writing addressed to the owner of the ship and served in accordance with section 306E, do all or any of the following:
 
 (a) require such action to be taken in relation to the ship or its cargo as is specified in the notice;
 
@@ -618,9 +936,13 @@ by the Director of Marine to such place, if any, as is so specified; and
 
 (6) This section applies to a ship registered in Malaysia and to a foreign ship which is in Malaysian waters.
 
-Service
+<!-- marginal: Service -->
 
-306E. Service of a notice under section 306D in of notice. respect of a ship shall be effected by—
+306E. Service of a notice under section 306D in
+
+<!-- marginal: of notice. -->
+
+respect of a ship shall be effected by—
 
 (a) serving it personally on the owner of the ship or, if the owner is a body corporate, on a director, secretary or other officer of the body corporate; or
 
@@ -632,7 +954,9 @@ Service
 
 <!-- page 24 -->
 
-Offence. 3Q6F. (1) Where——
+<!-- marginal: Offence. -->
+
+3Q6F. (1) Where——
 
 (a) a notice under subsection (1) of section 306D is served; and
 
@@ -658,9 +982,29 @@ the owner and master of the ship shall be guilty of an offence and shall be liab
 
 prove that the discharge or failure to comply with a notice was caused for the purpose of securing the safety of the ship or for the purpose of saving life but the defence shall not operate if the court is satisfied that the discharge or non- compliance was not necessary for the alleged purpose or was not a reasonable step to take in the circumstances.
 
-Powers of
+<!-- marginal: Powers of -->
 
-306G. (1) Where a requirement specified in a Director notice served under section 306D is not complied of Marine in cases with, the Director of Marine may, whether or not of non- the owner or master of the ship has been compliance with notice. convicted of an offence against this Part by reason of the requirement not having been complied with, cause such things to be done as he thinks proper for the carrying out of the action required by the notice.
+306G. (1) Where a requirement specified in a
+
+<!-- marginal: Director -->
+
+notice served under section 306D is not complied
+
+<!-- marginal: of Marine -->
+
+<!-- marginal: in cases -->
+
+with, the Director of Marine may, whether or not
+
+<!-- marginal: of non- -->
+
+the owner or master of the ship has been
+
+<!-- marginal: compliance -->
+
+<!-- marginal: with notice. -->
+
+convicted of an offence against this Part by reason of the requirement not having been complied with, cause such things to be done as he thinks proper for the carrying out of the action required by the notice.
 
 (2) Where a notice under subsection (1) of section 306o is served and—
 
@@ -672,9 +1016,7 @@ the Director of Marine may, whether or not the owner or master of the ship has b
 
 <!-- page 26 -->
 
-(3) Any expense or other liability incurred by the Director of Marine in, or by reason of, the exercise of his powers under subsection (1) or
-
-(2)-
+(3) Any expense or other liability incurred by the Director of Marine in, or by reason of, the exercise of his powers under subsection (1) or (2)-
 
 (a) shall be a debt due to the Government by, and may be recovered by the Government from, the owner of the ship; and
 
@@ -682,15 +1024,55 @@ the Director of Marine may, whether or not the owner or master of the ship has b
 
 (4) For the purposes of paragraph (b) of subsection (3) the word "ship" includes every article or thing or collection of things being or forming part of the tackle, equipment, cargo, stores or ballast of the ship.
 
-Escape 306n. Where oil or harmful substance has of oil or escaped or is likely to escape from two or more harmful substance ships and it is not reasonably practicable to from two identify the oil or harmful substance that has or more ships. escaped from a particular ship, then all the oil or harmful substance that has escaped from those ships shall, for the purposes of this Part, be deemed to have escaped from each of those ships:
+<!-- marginal: Escape -->
+
+306n. Where oil or harmful substance has
+
+<!-- marginal: of oil or -->
+
+escaped or is likely to escape from two or more
+
+<!-- marginal: harmful -->
+
+<!-- marginal: substance -->
+
+ships and it is not reasonably practicable to
+
+<!-- marginal: from two -->
+
+identify the oil or harmful substance that has
+
+<!-- marginal: or more -->
+
+<!-- marginal: ships. -->
+
+escaped from a particular ship, then all the oil or harmful substance that has escaped from those ships shall, for the purposes of this Part, be deemed to have escaped from each of those ships:
 
 Provided that the Government shall not, by virtue of this section, be entitled to recover from the owners of those ships amounts that, in the aggregate, exceed the total amount of the expenses and liabilities incurred by the Director of Marine in the exercise of his powers under this Part.
 
 <!-- page 27 -->
 
-Action
+<!-- marginal: Action -->
 
-306I. (1) Where as a result of a maritime to be casualty or in consequence of any act resulting laken in cases of therefrom, there is or is likely to be, in the maritime opinion of the Director of Marine, an escape of casualty. oil or harmful substance or any other threat of pollution to Malaysian waters, any Malaysian coast or Malaysian reef, the Director of Marine, in consultation with the Director-General of Environmental Quality, may take such actions as he deems necessary and issue the notice under the provisions of section 306D.
+306I. (1) Where as a result of a maritime
+
+<!-- marginal: to be -->
+
+casualty or in consequence of any act resulting
+
+<!-- marginal: laken in -->
+
+<!-- marginal: cases of -->
+
+therefrom, there is or is likely to be, in the
+
+<!-- marginal: maritime -->
+
+opinion of the Director of Marine, an escape of
+
+<!-- marginal: casualty. -->
+
+oil or harmful substance or any other threat of pollution to Malaysian waters, any Malaysian coast or Malaysian reef, the Director of Marine, in consultation with the Director-General of Environmental Quality, may take such actions as he deems necessary and issue the notice under the provisions of section 306D.
 
 (2) If in the opinion of the Director of Marine the actions taken and the notice issued under subsection (1) are ineffective to prevent, reduce or eliminate the pollution or threat of pollution, the Director of Marine may, after giving due consideration to the rights of the fiag state, any third state or any other person having an interest in the ship—
 
@@ -712,9 +1094,17 @@ Action
 
 ## BILL
 
-Report of
+<!-- marginal: Report of -->
 
-306J. (1) The master of a ship in Malaysian maritime waters which experiences a maritime casualty casualty. as defined in section 306i or which has discharged any oil or harmful substance shall report such incident to—
+306J. (1) The master of a ship in Malaysian
+
+<!-- marginal: maritime -->
+
+waters which experiences a maritime casualty
+
+<!-- marginal: casualty. -->
+
+as defined in section 306i or which has discharged any oil or harmful substance shall report such incident to—
 
 (a) the port officer, within twenty-four hours or as soon as possible, where the ship is in a port;
 
@@ -728,9 +1118,13 @@ Provided that where a report is made by verbal radio communication, it shall be 
 
 (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding ten thousand ringgit.
 
-Powers of
+<!-- marginal: Powers of -->
 
-306K. (1) The Minister may make such rules as Minister. he considers necessary or expedient to provide for the carriage or storage of oil or harmful substance at sea, the control of pollution from ships and for matters connected therewith, and without prejudice to the generality of such powers may make rules for—
+306K. (1) The Minister may make such rules as
+
+<!-- marginal: Minister. -->
+
+he considers necessary or expedient to provide for the carriage or storage of oil or harmful substance at sea, the control of pollution from ships and for matters connected therewith, and without prejudice to the generality of such powers may make rules for—
 
 (a) the design, construction, subdivision and alteration of ships, their equipment, machinery and electrical installations;
 
@@ -768,9 +1162,13 @@ Powers of
 
 <!-- page 30 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-43. Section 309 of the Ordinance is amended by inserting, of section immediately after subsection (3), the following new
+43. Section 309 of the Ordinance is amended by inserting,
+
+<!-- marginal: of section -->
+
+immediately after subsection (3), the following new
 
 309. subsection (4):
 
@@ -782,9 +1180,11 @@ Amendment
 
 (c) may, in the case of surveys and inspections carried out by persons appointed by organisations specihed in the rules, provide for fees to be payable to those persons or organisations.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-44. Section 315 of the Ordinance is amended— of section
+44. Section 315 of the Ordinance is amended—
+
+<!-- marginal: of section -->
 
 315.
 
@@ -796,11 +1196,31 @@ Amendment
 
 (b) by substituting the word "person" first appearing in subsection (3) with the words "public officer".
 
-New
+<!-- marginal: New -->
 
-45. The Ordinance is amended by inserting in Part VI, immediately after section 331, the following new 33lA. section 33 1A: 'Countries 33lA. The Minister, if satistied— to which Load Line
+45. The Ordinance is amended by inserting in Part VI,
 
-(a) that the government of a country has Convention ratified or acceded to, or denounced, the applies. Load Line Convention; or
+<!-- marginal: section -->
+
+immediately after section 331, the following new
+
+<!-- marginal: 33lA. -->
+
+section 33 1A:
+
+<!-- marginal: 'Countries -->
+
+33lA. The Minister, if satistied—
+
+<!-- marginal: to which -->
+
+<!-- marginal: Load Line -->
+
+(a) that the government of a country has Convention ratified or acceded to, or denounced, the
+
+<!-- marginal: applies. -->
+
+Load Line Convention; or
 
 (b) that the Load Line Convention has been applied, or has ceased to apply, to any territory,
 
@@ -808,11 +1228,17 @@ may by order make a declaration to that effect.".
 
 <!-- page 31 -->
 
-Substitution
+<!-- marginal: Substitution -->
 
-46. The Ordinance is amended by substituting section of section 332 with the following: 332. "Shipping
+46. The Ordinance is amended by substituting section
 
-332. For the purpose of inquiries and casualties. investigations under this Part a shipping casualty shall be deemed to occur—
+<!-- marginal: of section -->
+
+332 with the following:
+
+<!-- marginal: 332. -->
+
+"Shipping 332. For the purpose of inquiries and casualties. investigations under this Part a shipping casualty shall be deemed to occur—
 
 (a) when on or near the coasts of the Federation any ship is lost, abandoned or materially damaged;
 
@@ -828,21 +1254,41 @@ Substitution
 
 (g) when any Malaysian ship is lost or is supposed to have been lost.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-47. Section 333 of the Ordinance is amended by of section substituting the definition of "the holder of a local 333. certificate" with the following:
+47. Section 333 of the Ordinance is amended by
+
+<!-- marginal: of section -->
+
+substituting the definition of "the holder of a local
+
+<!-- marginal: 333. -->
+
+certificate" with the following:
 
 ' "the holder of a local certificate" means the holder of any certificate granted under this Ordinance;'.
 
-Amendment
+<!-- marginal: Amendment -->
 
-48. Section 335 of the Ordinance is amended by of section substituting the words "that part of Her Majesty's 335. dominions" in the proviso to subsection (1) with the words "the country".
+48. Section 335 of the Ordinance is amended by
+
+<!-- marginal: of section -->
+
+substituting the words "that part of Her Majesty's
+
+<!-- marginal: 335. -->
+
+dominions" in the proviso to subsection (1) with the words "the country".
 
 <!-- page 32 -->
 
-Substitution
+<!-- marginal: Substitution -->
 
-49. The Ordinance is amended by substituting Part IX of Part IX. with the following Part;
+49. The Ordinance is amended by substituting Part IX
+
+<!-- marginal: of Part IX. -->
+
+with the following Part;
 
 ## PART
 
@@ -850,9 +1296,19 @@ IX
 
 ## LIABILITY OF SHIPOWNERS
 
-Interpre-
+<!-- marginal: Interpre- -->
 
-358. (1) In this Part— tation and "Convention" means the International application Convention relating to the limitation of the liability of owners of sea-going ships signed in Brussels on the lOth October 1957;
+358. (1) In this Part—
+
+<!-- marginal: tation -->
+
+<!-- marginal: and -->
+
+"Convention" means the International
+
+<!-- marginal: application -->
+
+Convention relating to the limitation of the liability of owners of sea-going ships signed in Brussels on the lOth October 1957;
 
 "Convention country" means any country in respect of which the Convention is in force, including any country to which the Convention extends by virtue of article 14 thereof; and for the purpose of this definition an order made by the Minister declaring a country to be a Convention country shall be conclusive evidence that that country is a Convention country;
 
@@ -888,19 +1344,67 @@ Interpre-
 
 <!-- page 34 -->
 
-Limitation
+<!-- marginal: Limitation -->
 
-359. The owner of a Malaysian ship, or any of share therein, shall not be liable to make good to shipowner's liability in any extent whatever any loss or damage certain happening without his actual fault or privity in cases of loss of the following cases: or damage to goods.
+359. The owner of a Malaysian ship, or any
+
+<!-- marginal: of -->
+
+share therein, shall not be liable to make good to
+
+<!-- marginal: shipowner's -->
+
+<!-- marginal: liability in -->
+
+any extent whatever any loss or damage
+
+<!-- marginal: certain -->
+
+happening without his actual fault or privity in
+
+<!-- marginal: cases of -->
+
+<!-- marginal: loss of -->
+
+the following cases:
+
+<!-- marginal: or damage -->
+
+<!-- marginal: to goods. -->
 
 (a) where any goods, merchandise or other thing whatsoever taken in or put on board his ship are lost or damaged by reason of fire on board the ship; or
 
 (b) where any gold, silver, diamonds, watches, jewels or precious stones taken in or put on board his ship, the true nature and value of which have not at the time of shipment been declared by the owner or shipper thereof to the owner or master of the ship in the bills of lading or otherwise in writing, are lost or damaged by reason of any robbery, theft, breach of trust or misappropriation thereof.
 
-Limitation
+<!-- marginal: Limitation -->
 
-360. (1) The owner of a Malaysian or foreign of owner's ship shall not, where all or any of the following liability in certain occurrences take place without his actual fault cases of or privity, namely: loss of life, injury or
+360. (1) The owner of a Malaysian or foreign
 
-(a) where any loss of life or personal injury is damage. caused to any person being carried in the shlp;
+<!-- marginal: of owner's -->
+
+ship shall not, where all or any of the following
+
+<!-- marginal: liability -->
+
+<!-- marginal: in certain -->
+
+occurrences take place without his actual fault
+
+<!-- marginal: cases of -->
+
+or privity, namely:
+
+<!-- marginal: loss of -->
+
+<!-- marginal: life, -->
+
+<!-- marginal: injury or -->
+
+(a) where any loss of life or personal injury is
+
+<!-- marginal: damage. -->
+
+caused to any person being carried in the shlp;
 
 (b) where any damage or loss is caused to any goods, merchandise or other things whatsoever on board the ship;
 
@@ -944,9 +1448,13 @@ be liable to damages beyond the following amounts:
 
 (5) Nothing in this section shall apply to any liability in respect of loss of life or personal injury caused to, or loss of or damage to any property or infringement of any right of a person who is on board or employed in connection with the ship under a contract of service with all or any of the persons whose Habilities are limited by this section, if that contract is governed by the law of any country outside Malaysia and that law either does not set any limit to that liability or sets a limit exceeding that set to it by this section.
 
-Release of
+<!-- marginal: Release of -->
 
-361. (1) Where a ship or other property is ship, etc. arrested in connection with a claim which appears to the Court to be founded on a Hability to which a limit is set by section 360, or security is given to prevent or obtain release from such an arrest, the Court may, and in the circumstances mentioned in subsection (3) shall, order the release of the ship, property or security if the conditions specified in subsection (2) are satisfied; but where the release is ordered, the person on whose application it is ordered shall be deemed to have submitted to the jurisdiction of the Court to adjudicate on the claim.
+361. (1) Where a ship or other property is
+
+<!-- marginal: ship, etc. -->
+
+arrested in connection with a claim which appears to the Court to be founded on a Hability to which a limit is set by section 360, or security is given to prevent or obtain release from such an arrest, the Court may, and in the circumstances mentioned in subsection (3) shall, order the release of the ship, property or security if the conditions specified in subsection (2) are satisfied; but where the release is ordered, the person on whose application it is ordered shall be deemed to have submitted to the jurisdiction of the Court to adjudicate on the claim.
 
 <!-- page 38 -->
 
@@ -972,9 +1480,23 @@ Release of
 
 available to a claimant, that part shall not be taken to correspond to his claim if any other part may be available to a claimant in respect of a liability to which no limit is set as mentioned in sub- section (1).
 
-Restriction
+<!-- marginal: Restriction -->
 
-362. (1) No judgement or decree for a claim on enforce- founded on a liability to which a limit is set by ment after giving of section 360 shall be enforced, except so far as it secunty. is for costs, if security for an amount not less than that limit has been given, whether in Malaysia or elsewhere, in respect of the liability or any other liability incurred on the same occasion and the court is of opinion that the security is satisfactory and is satisfied that the amount for which it was given, or such part thereof as corresponds to the claim, will be actually available to the person in whose favour the judgment or decree was given or made.
+362. (1) No judgement or decree for a claim
+
+<!-- marginal: on enforce- -->
+
+founded on a liability to which a limit is set by
+
+<!-- marginal: ment after -->
+
+<!-- marginal: giving of -->
+
+section 360 shall be enforced, except so far as it
+
+<!-- marginal: secunty. -->
+
+is for costs, if security for an amount not less than that limit has been given, whether in Malaysia or elsewhere, in respect of the liability or any other liability incurred on the same occasion and the court is of opinion that the security is satisfactory and is satisfied that the amount for which it was given, or such part thereof as corresponds to the claim, will be actually available to the person in whose favour the judgment or decree was given or made.
 
 (2) For the purposes of this section—
 
@@ -982,9 +1504,31 @@ Restriction
 
 (b) where part only of the amount for which security has been given will be available to the person in whose favour the judgement or decree was given or made that part shall not be taken to correspond to his claim if any other part may be available to a claimant in respect of a liability to which no limit is set as mentioned in subsection (1).
 
-Power of
+<!-- marginal: Power of -->
 
-363. (1) Where any liability is alleged to have Court to been incurred by the owner of a Malaysian or consoli- date foreign ship in respect of any occurrence in claims respect of which his liability is limited under againsl section 360, and several claims are made or owners, etc.
+363. (1) Where any liability is alleged to have
+
+<!-- marginal: Court to -->
+
+been incurred by the owner of a Malaysian or
+
+<!-- marginal: consoli- -->
+
+<!-- marginal: date -->
+
+foreign ship in respect of any occurrence in
+
+<!-- marginal: claims -->
+
+respect of which his liability is limited under
+
+<!-- marginal: againsl -->
+
+section 360, and several claims are made or
+
+<!-- marginal: owners, -->
+
+<!-- marginal: etc. -->
 
 <!-- page 40 -->
 
@@ -994,25 +1538,75 @@ apprehended in respect of that liability, then the owner may apply to the High C
 
 (3) No lien or other right in respect of any ship or property shall affect the proportions in which, under this section, any amount is distributed amongst several claimants.
 
-Part
+<!-- marginal: Part -->
 
-364. All sums paid for or on account of any loss owners to or damage in respect whereof the liability of account in respect of owners is limited under this Part, and all costs damages. incurred in relation thereto, may be brought into account among part owners of the same ship in the same manner as money disbursed for the use thereof.
+364. All sums paid for or on account of any loss
 
-Insurances
+<!-- marginal: owners to -->
 
-365. An insurance effected against the of certain happening, without the owner's fault or privity, risks not invalid. of any or all of the events in respect of which the liability of owners is limited under this Part shall not be invalid by reason of the nature of the risk.
+or damage in respect whereof the liability of
+
+<!-- marginal: account in -->
+
+<!-- marginal: respect of -->
+
+owners is limited under this Part, and all costs
+
+<!-- marginal: damages. -->
+
+incurred in relation thereto, may be brought into account among part owners of the same ship in the same manner as money disbursed for the use thereof.
+
+<!-- marginal: Insurances -->
+
+365. An insurance effected against the
+
+<!-- marginal: of certain -->
+
+happening, without the owner's fault or privity,
+
+<!-- marginal: risks not -->
+
+<!-- marginal: invalid. -->
+
+of any or all of the events in respect of which the liability of owners is limited under this Part shall not be invalid by reason of the nature of the risk.
 
 <!-- page 41 -->
 
-Proof of
+<!-- marginal: Proof of -->
 
-365A. In any proceeding under this Part against passengers the owner of a ship or share therein with respect on board ship. to loss of life, the passenger lists under Part IV of this Ordinance shall be received as evidence that the person upon whose death proceedings are taken under this Part was a passenger on board the ship at the time of death.".
+365A. In any proceeding under this Part against
 
-Substitution
+<!-- marginal: passengers -->
 
-50. The Ordinance is amended by substituting section of section 381 with the following: 381. "Removal
+the owner of a ship or share therein with respect
 
-381. (1) Where any ship is sunk, stranded or of wreck by abandoned in any port, navigable river, tidal receiver. waters or in any place within Malaysian waters in such manner as, in the opinion of the receiver, to be or likely to become an obstruction 01 danger to navigation or a public nuisance or to cause inconvenience, the receiver may either—
+<!-- marginal: on board -->
+
+<!-- marginal: ship. -->
+
+to loss of life, the passenger lists under Part IV of this Ordinance shall be received as evidence that the person upon whose death proceedings are taken under this Part was a passenger on board the ship at the time of death.".
+
+<!-- marginal: Substitution -->
+
+50. The Ordinance is amended by substituting section
+
+<!-- marginal: of section -->
+
+381 with the following:
+
+<!-- marginal: 381. -->
+
+<!-- marginal: "Removal -->
+
+381. (1) Where any ship is sunk, stranded or
+
+<!-- marginal: of wreck by -->
+
+abandoned in any port, navigable river, tidal
+
+<!-- marginal: receiver. -->
+
+waters or in any place within Malaysian waters in such manner as, in the opinion of the receiver, to be or likely to become an obstruction 01 danger to navigation or a public nuisance or to cause inconvenience, the receiver may either—
 
 (a) take possession of, and raise, remove 01 destroy, the whole or any part of the ship;
 
@@ -1040,9 +1634,11 @@ receiver may consider necessary for the purpose of ensuring the performance of a
 
 (1), he may recover the difference from the owner or master of the ship concerned.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-51. Section 445 of the Ordinance is amended— of section
+51. Section 445 of the Ordinance is amended—
+
+<!-- marginal: of section -->
 
 445.
 
@@ -1068,9 +1664,13 @@ Amendment
 
 (c) by substituting the words "one hundred dollars" in subsection (2) with the words "ten thousand ringgit or to imprisonment for a term not exceeding one year or to both.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-52. Section 477 of the Ordinance is amended— of section 477.
+52. Section 477 of the Ordinance is amended—
+
+<!-- marginal: of section -->
+
+<!-- marginal: 477. -->
 
 (a) by substituting subsection (1) with the following:
 
@@ -1078,13 +1678,25 @@ Amendment
 
 (b) by substituting the words "one hundred" in subsection (3) with the words "one thousand".
 
-Araendment
+<!-- marginal: Araendment -->
 
-53. Section 492 of the Ordinance is amended by deleting of section the words ", provided that no Magistrate's Court shall, 492. except where the context otherwise requires, try any such offence which is punishable with a fine exceeding five hundred dollars, or with imprisonment of either description for a term which may exceed six months".
+53. Section 492 of the Ordinance is amended by deleting
 
-Miscellaneous
+<!-- marginal: of section -->
 
-54. The Ordinance is amended— amendments: penalties.
+the words ", provided that no Magistrate's Court shall,
+
+<!-- marginal: 492. -->
+
+except where the context otherwise requires, try any such offence which is punishable with a fine exceeding five hundred dollars, or with imprisonment of either description for a term which may exceed six months".
+
+<!-- marginal: Miscellaneous -->
+
+54. The Ordinance is amended—
+
+<!-- marginal: amendments: -->
+
+<!-- marginal: penalties. -->
 
 (a) by substituting the word "five" in section 211(2) with the word "fifty";
 
@@ -1200,9 +1812,19 @@ deleting the words ", or if the offence is prosecuted before a Magistrate's Cour
 
 (ax) by substituting the words "twenty-five" in section 485 with the words "five hundred".
 
-Repeal of
+<!-- marginal: Repeal of -->
 
-55. The Merchant Shipping (Amendment) Act 1966 and Act 15/1966 the Merchant Shipping (Amendment) Act 1973 are and repealed. ActA212.
+55. The Merchant Shipping (Amendment) Act 1966 and
+
+<!-- marginal: Act 15/1966 -->
+
+the Merchant Shipping (Amendment) Act 1973 are
+
+<!-- marginal: and -->
+
+repealed.
+
+<!-- marginal: ActA212. -->
 
 ## EXPLANATORY STATEMENT
 
@@ -1216,7 +1838,7 @@ This Bill seeks to amend the Merchant Shipping Ordinance 1952, among other thing
 
 <!-- page 48 -->
 
-48
+<!-- marginal: 48 -->
 
 ## BILL
 
@@ -1224,15 +1846,7 @@ machinery of passenger steamers. The Minister is required to include in such rul
 
 (c) Clause 36. This clause seeks to substitute section 293, which adopts rules made under the Merchant Shipping Acts of the United Kingdom with respect to the carriage of dangerous goods, The new section empowers the Minister to make rules for regulating the carriage of dangerous goods in ships. Under the new section, rules may be made to implement the relevant provisions of the 1974 Safety Convention.
 
-(d) Clause 37. This clause seeks to amend section 297, which concerns the precautions to be taken to prevent grain cargo laden in ships from shifting.
-
-(i) Subsection (1) makes it an offence for any ship laden with grain cargo to proceed from or arrive at any port or place in the Federation unless precautions have been taken to prevent the grain cargo from shifting. It is proposed (under paragraph (b)) to amend that subsection so as also to make it an offence for a Malaysian ship so laden to proceed from or arrive at any port or place in any country unless such precautions have been taken.
-
-(ii) Under paragraph (c), the penalty in subsection (2) is increased.
-
-(iii) Subsection (3) requires compliance with regulations made by the Minister prescribing the precautions to be taken to prevent grain cargo from shifting, but such compliance is not necessary if the ship is loaded in accordance with regulations approved by the appropriate United Kingdom authority or is constructed and loaded in accordance with any plan approved by him. It is proposed (under paragraph (d)) to amend that subsection so as to end the dependence on the United Kingdom regulations and plan and to have instead dependence on provisions approved by the Minister as respects the loading in question other than regulations made under that subsection.
-
-(iv) It is proposed (under paragraph (e)) to substitute the definition of "grain" in subsection (6) with one which accords with the definition in the 1974 Safety Convention.
+(d) Clause 37. This clause seeks to amend section 297, which concerns the precautions to be taken to prevent grain cargo laden in ships from shifting. (i) Subsection (1) makes it an offence for any ship laden with grain cargo to proceed from or arrive at any port or place in the Federation unless precautions have been taken to prevent the grain cargo from shifting. It is proposed (under paragraph (b)) to amend that subsection so as also to make it an offence for a Malaysian ship so laden to proceed from or arrive at any port or place in any country unless such precautions have been taken. (ii) Under paragraph (c), the penalty in subsection (2) is increased. (iii) Subsection (3) requires compliance with regulations made by the Minister prescribing the precautions to be taken to prevent grain cargo from shifting, but such compliance is not necessary if the ship is loaded in accordance with regulations approved by the appropriate United Kingdom authority or is constructed and loaded in accordance with any plan approved by him. It is proposed (under paragraph (d)) to amend that subsection so as to end the dependence on the United Kingdom regulations and plan and to have instead dependence on provisions approved by the Minister as respects the loading in question other than regulations made under that subsection. (iv) It is proposed (under paragraph (e)) to substitute the definition of "grain" in subsection (6) with one which accords with the definition in the 1974 Safety Convention.
 
 <!-- page 49 -->
 
@@ -1240,9 +1854,7 @@ machinery of passenger steamers. The Minister is required to include in such rul
 
 (f) Clause 39. This clause seeks to introduce a new section 299B which empowers the Minister to make regulations to provide that any country to which the 1960 Safety Convention applied shall be treated for the purposes of the Ordinance as if it were a country to which the 1974 Safety Convention applies and that any certificate recognised as a Safety Convention certificate under the 1960 Safety Convention may be treated as a Safety Convention certificate under the 1974 Safety Convention.
 
-(g) Clause 41. At present the definition of "country to which the Safety Convention applies" in section 2 refers to countries and territories declared by the United Kingdom. Clause 41 seeks to introduce a new section 306A which empowers the Minister to declare such countries and territories. In consequence the said definition in section 2 is amended by clause 2(c) so that the definition will refer to a country or territory declared by the Minister under the new section
-
-306A.
+(g) Clause 41. At present the definition of "country to which the Safety Convention applies" in section 2 refers to countries and territories declared by the United Kingdom. Clause 41 seeks to introduce a new section 306A which empowers the Minister to declare such countries and territories. In consequence the said definition in section 2 is amended by clause 2(c) so that the definition will refer to a country or territory declared by the Minister under the new section 306A.
 
 3. The Merchant Shipping (Amendment) Act 1966, which purports to amend the Merchant Shipping Ordinance 1952, among other things to give effect to the 1960 Safety Convention, contains provisions which do not textually form part of the Ordinance. Certain clauses in this Bill seek to re-enact those provisions into the Ordinance, with necessary changes and modification, so that, as has been the case in connection with other, amendments before and after the 1966 Act, the merchant shipping law as amended from time to time will continue, as long as it is convenient, to be contained in a single text. The clauses in question are as follows:
 
@@ -1258,13 +1870,7 @@ any ship for the purpose of seeing that she complies with the rules. Those secti
 
 <!-- page 51 -->
 
-(d) Clause 26. This clause seeks to introduce a new section 270A which re-enacts section 6of the 1966 Act. That section prohibits a ship to which section 3 of the 1966 Act (now the new section 256 B) applies from proceeding to sea unless there is in force in respect of the ship the appropriate certificates. That section is re-enacted with the following changes;
-
-(i) The penalty for contravening the prohibition is increased from a fine of $1,000.00, as presently provided in section 6(2) of the 1966 Act, to $10,000.00, as in subsection (2) of the new section
-
-270A.
-
-(ii) Under subsection (3) of the new section 270A, the appropriate certificates required to be produced in order to obtain clearance for a ship are to be produced to the Port Officer instead of, as in subsection (3) of section 6 of the 1966 Act, to the officer of customs.
+(d) Clause 26. This clause seeks to introduce a new section 270A which re-enacts section 6of the 1966 Act. That section prohibits a ship to which section 3 of the 1966 Act (now the new section 256 B) applies from proceeding to sea unless there is in force in respect of the ship the appropriate certificates. That section is re-enacted with the following changes; (i) The penalty for contravening the prohibition is increased from a fine of $1,000.00, as presently provided in section 6(2) of the 1966 Act, to $10,000.00, as in subsection (2) of the new section 270A. (ii) Under subsection (3) of the new section 270A, the appropriate certificates required to be produced in order to obtain clearance for a ship are to be produced to the Port Officer instead of, as in subsection (3) of section 6 of the 1966 Act, to the officer of customs.
 
 (e) Clause 28. This clause seeks to introduce a new section 274A which re-enacts section? of the 1966 Act. That section exempts from the cargo ship construction and survey rules ships not registered in Malaysia which have accepted Safety Convention certificates equivalent to the certificates mentioned in section 4 of that Act (now the new section 268A).
 

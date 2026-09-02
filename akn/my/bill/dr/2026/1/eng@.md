@@ -6,7 +6,7 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -20,13 +20,13 @@
 
 5. Reciprocal arrangement by the Government of the Republic of Singapore
 
-## Part II
+## PART II
 
 ## INTERMEDIARY ENTITY
 
 6. Intermediary entity
 
-## Part III
+## PART III
 
 ## DEPLOYMENT OF ENFORCEMENT OFFICER
 
@@ -38,7 +38,7 @@
 
 10. Deployment prior to the commencement of the Rapid Transit System Link service
 
-## Part IV
+## PART IV
 
 ## POWERS OF ENFORCEMENT OFFICER
 
@@ -48,7 +48,7 @@
 
 <!-- page 2 -->
 
-## Part V
+## PART V
 
 ## CROSS-BORDER INCIDENT MANAGEMENT
 
@@ -64,7 +64,7 @@
 
 18. Powers of Republic of Singapore cross-border incident management officer
 
-## Part VI
+## PART VI
 
 ## CRIMINAL JURISDICTION
 
@@ -74,7 +74,7 @@
 
 21. Jurisdiction of court of Malaysia
 
-## Part VII
+## PART VII
 
 ## PROTECTION AND PRIVILEGES
 
@@ -98,7 +98,7 @@
 
 28. Power to amend Schedule
 
-## Schedule
+## SCHEDULE
 
 <!-- page 5 -->
 
@@ -118,7 +118,7 @@ AND WHEREAS under Article 18(2) of the Supplementary Agreement between the Gover
 
 NOW, THEREFORE, IT IS ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -254,7 +254,7 @@ NOW, THEREFORE, IT IS ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 11 -->
 
-## Part II
+## PART II
 
 ## INTERMEDIARY ENTITY
 
@@ -262,7 +262,7 @@ NOW, THEREFORE, IT IS ENACTED by the Parliament of Malaysia as follows:
 
 6. An intermediary entity shall co-ordinate, manage and facilitate the deployment of the Malaysian enforcement officers at Woodlands North Station and of the Republic of Singapore enforcement officers at Bukit Chagar Station.
 
-## Part III
+## PART III
 
 ## DEPLOYMENT OF ENFORCEMENT OFFICER
 
@@ -352,7 +352,7 @@ NOW, THEREFORE, IT IS ENACTED by the Parliament of Malaysia as follows:
 
 (3) The Malaysian enforcement officers and the Republic of Singapore enforcement officers deployed under this section shall be deemed to have been deployed for the purpose of performing official duties and shall have the same powers conferred on and the same protection given to the enforcement officers performing official duties under this Act.
 
-## Part IV
+## PART IV
 
 ## POWERS OF ENFORCEMENT OFFICER
 
@@ -426,7 +426,7 @@ NOW, THEREFORE, IT IS ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 19 -->
 
-## Part V
+## PART V
 
 ## CROSS-BORDER INCIDENT MANAGEMENT
 
@@ -536,7 +536,7 @@ NOW, THEREFORE, IT IS ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 24 -->
 
-## Part VI
+## PART VI
 
 ## CRIMINAL JURISDICTION
 
@@ -574,7 +574,7 @@ NOW, THEREFORE, IT IS ENACTED by the Parliament of Malaysia as follows:
 
 21. Notwithstanding any other written laws of Malaysia, any offence committed under any written law of Malaysia in which the criminal jurisdiction of which is provided under this Act, may be inquired into or tried before the court of competent jurisdiction in Malaysia and where such offence is committed outside Malaysia, the offence shall be deemed to have been committed at any place within Malaysia.
 
-## Part VII
+## PART VII
 
 ## PROTECTION AND PRIVILEGES
 
@@ -788,7 +788,7 @@ NOW, THEREFORE, IT IS ENACTED by the Parliament of Malaysia as follows:
 
 This Bill (“the proposed Act”) seeks to give effect to the Government of Malaysia’s obligations under certain provisions in the Agreements between the Government of Malaysia and the Government of the Republic of Singapore concerning the Johor Bahru–Singapore Rapid Transit System Link relating to the performance of customs, immigration and quarantine clearance functions and security functions at the co-located customs, immigration and quarantine facilities within the designated area at Bukit Chagar Station, Johor Bahru in Malaysia and Woodlands North Station in the Republic of Singapore and the management of cross-border incident and to provide for related matters.
 
-## Part I
+## PART I
 
 2. Part I of the proposed Act deals with preliminary matters.
 
@@ -806,13 +806,13 @@ to Malaysian enforcement officers and Republic of Singapore enforcement officers
 
 7. Clause 5 seeks to provide that any duty, power, protection or privilege conferred under the proposed Act to the Republic of Singapore enforcement officers and Republic of Singapore cross-border incident management officers pursuant to the Agreements, may only take effect if the Government of the Republic of Singapore provides equivalent and reciprocal provisions in respect of Malaysian enforcement officers and Malaysian cross-border incident management officers under its written laws.
 
-## Part II
+## PART II
 
 8. Part II of the proposed Act deals with the provision relating to intermediary entity.
 
 9. Clause 6 seeks to provide that an intermediary entity which is an entity appointed by the Government of Malaysia for the purposes of the Agreements is responsible for coordinating, managing and facilitating the deployment of Malaysian enforcement officers and Republic of Singapore enforcement officers at Woodlands North Station and Bukit Chagar Station respectively.
 
-## Part III
+## PART III
 
 10. Part III of the proposed Act deals with provisions relating to the deployment of Malaysian enforcement officers and the Republic of Singapore enforcement officers for the purposes of the enforcement officers performing his official duties under the proposed Act.
 
@@ -826,7 +826,7 @@ to Malaysian enforcement officers and Republic of Singapore enforcement officers
 
 14. Clause 10 seeks to provide for the deployment of Malaysian enforcement officers and the Republic of Singapore enforcement officers prior to the commencement of the Rapid Transit System Link service at Bukit Chagar Station or Woodlands North Station for the purposes of the enforcement officers carrying out any preparatory works related to the performance of their official duties.
 
-## Part IV
+## PART IV
 
 15. Part IV of the proposed Act deals with powers of the Malaysian enforcement officers and the Republic of Singapore enforcement officers in the designated areas.
 
@@ -834,7 +834,7 @@ to Malaysian enforcement officers and Republic of Singapore enforcement officers
 
 17. Clause 12 seeks to provide for the applicable written laws for the purposes of the performance of official duties and exercise of powers in the designated areas at Bukit Chagar Station and Woodlands North Station by the Malaysian enforcement officers and Republic of Singapore enforcement officers.
 
-## Part V
+## PART V
 
 18. Part V of the proposed Act deals with cross-border incident management.
 
@@ -852,7 +852,7 @@ to Malaysian enforcement officers and Republic of Singapore enforcement officers
 
 24. Clause 18 seeks to provide for the powers of a Republic of Singapore cross-border incident management officer when performing incident management duties in respect of a cross-border incident. This clause also provides that a Malaysian cross-border incident management officers shall have the same powers as conferred on a Republic of Singapore cross-border incident management officers under this clause.
 
-## Part VI
+## PART VI
 
 25. Part VI of the proposed Act deals with criminal jurisdiction for an offence relating to Rapid Transit System Link.
 
@@ -864,7 +864,7 @@ to Malaysian enforcement officers and Republic of Singapore enforcement officers
 
 <!-- page 36 -->
 
-## Part VII
+## PART VII
 
 29. Part VII of the proposed Act deals with protection and privileges conferred on a Republic of Singapore enforcement officer and Republic of Singapore cross-border incident management officer, official documents, devices and equipment of the Government of the Republic of Singapore, any information or data collected or generated by the Republic of Singapore enforcement officers and Republic of Singapore cross-border incident management officer and goods for official use of the Republic of Singapore enforcement officers and Republic of Singapore cross-border incident management officer.
 

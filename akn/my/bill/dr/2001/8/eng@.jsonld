@@ -73,7 +73,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/8/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "(Section 2) Purpose Title Amount (RM) B. 7 Prime Minister's Department 15,000.000 B. 15 Town and Country Planning Department 180,700 B. 16 Fire and Rescue Department 2,961,400 B. 18 Ministry of Primary Industries B. 19 Ministry of Agriculture 1,077,845 B. 20 Ministry of International Trade and Industry 2,000,000 B. 23 Department of National Archives 357,000 B. 24 Museum and Antiquities Department 180,000 B. 26 Ministry of Education 462.803,500 B. 28 Treasury 4,328,420 B. 29 Treasury General Services 356,000,000 B. 30 Contribution to Statutory Funds 4,343,756,956 B. 31 Royal Customs and Excise Department 147,600 B. 35 Ministry of Home Affairs 13,355,700 B. 36 Royal Malaysia Police 236,283,300 B. 42 Ministry of National Unity and Social 500,000 Development B. 46 Ministry of Science, Technology and the 20,000,000 Environment B. 51 Ministry of Foreign Affairs 1,749,600 TOTAL 5,460,712,821"
+        "@value": "(Section 2) Title Amount (RM) Prime Minister's Department 15,000.000 Town and Country Planning Department 180,700 Fire and Rescue Department 2,961,400 Ministry of Primary Industries Ministry of Agriculture 1,077,845 Ministry of International Trade and Industry 2,000,000 Department of National Archives 357,000 Museum and Antiquities Department 180,000 Ministry of Education 462.803,500 Treasury 4,328,420 Treasury General Services 356,000,000 Contribution to Statutory Funds 4,343,756,956 Royal Customs and Excise Department 147,600 Ministry of Home Affairs 13,355,700 Royal Malaysia Police 236,283,300 Ministry of National Unity and Social 500,000 Development Ministry of Science, Technology and the 20,000,000 Environment Ministry of Foreign Affairs 1,749,600 TOTAL 5,460,712,821"
       }
     },
     {
@@ -83,7 +83,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/8/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "(Section 3) Purpose Title Amount (RM) B. 18 Ministry of Primary Industries 300,000,000 TOTAL 300,000,000"
+        "@value": "(Section 3) Title Amount (RM) Ministry of Primary Industries 300,000,000 TOTAL 300,000,000"
       }
     }
   ]

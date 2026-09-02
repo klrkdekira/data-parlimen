@@ -56,21 +56,35 @@ kepadanya di bawah Akta Kastam 1967;';
 
 "tempat pendaratan yang sah di sisi undang- undang" hendaklah mempunyai erti yang sama yang diberikan kepadanya di bawah Akta Kastam 1967;'.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Subseksyen 17(1) Akta ibu adalah dipinda dengan subseksyen memotong perkataan "perindustrian" yang terdapat selepas 17(1). perkataan "zon".
+3. Subseksyen 17(1) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: subseksyen -->
 
-4. Seksyen 42 Akta ibu adalah dipinda dengan seksyen 42. menomborkannya semula sebagai subseksyen (1) seksyen itu dan dengan memasukkan selepas subseksyen (1) yang telah dinomborkan semula itu subseksyen yang berikut:
+memotong perkataan "perindustrian" yang terdapat selepas
+
+<!-- marginal: 17(1). -->
+
+perkataan "zon".
+
+<!-- marginal: Pindaan -->
+
+4. Seksyen 42 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 42. -->
+
+menomborkannya semula sebagai subseksyen (1) seksyen itu dan dengan memasukkan selepas subseksyen (1) yang telah dinomborkan semula itu subseksyen yang berikut:
 
 "(2) Apa-apa pemindahan dari kapal ke kapal dalam had-had pelabuhan zon bebas hendaklah disifatkan telah dilakukan dalam zon itu.".
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
 5. Akta ibu adalah dipinda dengan memasukkan selepas
 
-42A. 42B seksyen 42 seksyen yang berikut: dan 42c
+42A. 42B seksyen 42 seksyen yang berikut:
+
+<!-- marginal: dan 42c -->
 
 Pemin- 42A. (1) Tiada barang-barang boleh dibawa dahan masuk ke, atau dimuatkan atau diangkut melalui barang- barang ke air untuk dimuatkan bagi dibawa keluar dari, dalam dan mana-mana zon bebas melalui laut— dari zon bebas
 

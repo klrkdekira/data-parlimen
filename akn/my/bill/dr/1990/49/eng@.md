@@ -54,7 +54,17 @@ Procedure Act 1957.
 
 (3) The Accountant-General Malaysia shall be responsible for the day to day administration and management of the affairs of the Fund.
 
-Pensions 4. (1) There is hereby established a council of trustees to Trust Fund be known as the Pensions Trust Fund Council. Council. (2) The trustees shall be appointed by the Minister and shall consist of—
+<!-- marginal: Pensions -->
+
+4. (1) There is hereby established a council of trustees to
+
+<!-- marginal: Trust Fund -->
+
+be known as the Pensions Trust Fund Council.
+
+<!-- marginal: Council. -->
+
+(2) The trustees shall be appointed by the Minister and shall consist of—
 
 (a) a Chairman who shall be the Secretary-General of the Ministry of Finance;
 
@@ -74,7 +84,13 @@ Pensions 4. (1) There is hereby established a council of trustees to Trust Fund 
 
 (3) The Council shall have such powers and shall perform such duties as are given or imposed by this Act or as may be prescribed from time to time by the Minister and may by instrument in writing delegate to any person all or any of such powers and duties.
 
-Investment 5. (1) There shall be established an Investment Panel Panel. responsible for matters pertaining to the investment of the assets of the Fund which shall be responsible to the Minister.
+<!-- marginal: Investment -->
+
+5. (1) There shall be established an Investment Panel
+
+<!-- marginal: Panel. -->
+
+responsible for matters pertaining to the investment of the assets of the Fund which shall be responsible to the Minister.
 
 (2) The Investment Panel shall consist of—
 
@@ -164,7 +180,17 @@ Fund be applied to meet, whether wholly or partly, the cost of payment of pensio
 
 ## BILL
 
-Investment 10. (1) The Investment Panel may invest money standing of the to the credit of the Fund— moneys of the Fund.
+<!-- marginal: Investment -->
+
+10. (1) The Investment Panel may invest money standing
+
+<!-- marginal: of the -->
+
+to the credit of the Fund—
+
+<!-- marginal: moneys -->
+
+<!-- marginal: of the Fund. -->
 
 (a) on deposit in any bank, in or outside Malaysia, in any currency including the ringgit;
 
@@ -184,11 +210,27 @@ Investment 10. (1) The Investment Panel may invest money standing of the to the 
 
 (4) Investments referred to in paragraph (1) (e) shall not any time exceed five percentum of the disposable assets of the Fund.
 
-Administra- 11. Any cost, expense or other payment directly tion fees. attributable to the administration of the Fund shall be charged to the Fund.
+<!-- marginal: Administra- -->
 
-Power of the
+11. Any cost, expense or other payment directly
 
-12. (1) The Minister may give the Council such Minister in directions of a general nature as are not inconsistent with relation to the Council. the provisions of this Act as relate to the exercise and performance of its functions and the Council shall give effect to all such directions.
+<!-- marginal: tion fees. -->
+
+attributable to the administration of the Fund shall be charged to the Fund.
+
+<!-- marginal: Power of the -->
+
+12. (1) The Minister may give the Council such
+
+<!-- marginal: Minister in -->
+
+directions of a general nature as are not inconsistent with
+
+<!-- marginal: relation to -->
+
+<!-- marginal: the Council. -->
+
+the provisions of this Act as relate to the exercise and performance of its functions and the Council shall give effect to all such directions.
 
 <!-- page 5 -->
 
@@ -258,11 +300,41 @@ carrying out of the provisions of this Act.
 
 ## BILL
 
-Provisions 18. Save as otherwise provided in this Act, the provisions of the of the Financial Procedure Act 1957 and regulations made Financial Procedure and instructions issued thereunder shall apply to the Fund, Act 1957 to apply.
+<!-- marginal: Provisions -->
+
+18. Save as otherwise provided in this Act, the provisions
+
+<!-- marginal: of the -->
+
+of the Financial Procedure Act 1957 and regulations made
+
+<!-- marginal: Financial -->
+
+<!-- marginal: Procedure -->
+
+and instructions issued thereunder shall apply to the Fund,
+
+<!-- marginal: Act 1957 -->
+
+<!-- marginal: to apply. -->
 
 ## FIRST SCHEDULE
 
-[Section 6] Appointment, 1. (1) A member of the Council and the Investment Panel shall, revocation subject to such conditions as may be specified in his instrument of and resignation. appointment, hold office for a term not exceeding three years and is eligible for reappointment.
+[Section 6]
+
+<!-- marginal: Appointment, -->
+
+1. (1) A member of the Council and the Investment Panel shall,
+
+<!-- marginal: revocation -->
+
+subject to such conditions as may be specified in his instrument of
+
+<!-- marginal: and -->
+
+<!-- marginal: resignation. -->
+
+appointment, hold office for a term not exceeding three years and is eligible for reappointment.
 
 (2) The appointment of any member may at any time be revoked by the Minister without assigning any reason therefor.
 
@@ -270,7 +342,13 @@ Provisions 18. Save as otherwise provided in this Act, the provisions of the of 
 
 (4) Every member shall devote such time to the business of the Council and the Investment Panel as is necessary to discharge his duties effectively.
 
-Vacation 2. (1) The office of a member of the Council and the Investment of office. Panel shall be vacated—
+<!-- marginal: Vacation -->
+
+2. (1) The office of a member of the Council and the Investment
+
+<!-- marginal: of office. -->
+
+Panel shall be vacated—
 
 (a) if he dies;
 
@@ -364,6 +442,4 @@ This Bill seeks to establish the Pensions Trust Fund by law and to constitute a 
 
 ## IMPLICATIONS
 
-Under clause 8 (1) (a), (b) and (c) of the Bill, moneys may, from time to time, be appropriated from Consolidated Fund and paid into the Fund. Otherwise, the Bill will not involve the Government in any extra financial expenditure.
-
-<!-- marginal: [PN. (U2) 1630.] -->
+Under clause 8 (1) (a), (b) and (c) of the Bill, moneys may, from time to time, be appropriated from Consolidated Fund and paid into the Fund. Otherwise, the Bill will not involve the Government in any extra financial expenditure. [PN. (U2) 1630.]

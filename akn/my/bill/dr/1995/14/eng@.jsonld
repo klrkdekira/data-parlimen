@@ -105,7 +105,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~cl_2",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for the words \"regular armed forces\" wherever appearing therein the words \"regular forces\". Amendment"
+        "@value": "by substituting for the words \"regular armed forces\" wherever appearing therein the words \"regular forces\"."
       }
     },
     {
@@ -113,9 +113,13 @@
       "@type": "akn:clause",
       "eli:number": "3",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for the"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "The principal Act is amended by substituting for the of long title. long title the following long title: \"An Act to provide for the establishment of a fund to be known as the Tabung Angkatan Tentera for the primary purposes of providing superannuation and other benefits for contributors, and for the ancillary purposes of promoting the socio-economic development and welfare of, and providing other benefits for, retiring and retired personnel of the regular forces of Malaysia.\". Amendment"
+        "@value": "long title the following long title: \"An Act to provide for the establishment of a fund to be known as the Tabung Angkatan Tentera for the primary purposes of providing superannuation and other benefits for contributors, and for the ancillary purposes of promoting the socio-economic development and welfare of, and providing other benefits for, retiring and retired personnel of the regular forces of Malaysia.\"."
       }
     },
     {
@@ -123,9 +127,13 @@
       "@type": "akn:clause",
       "eli:number": "4",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The short title of the principal Act is amended by"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "The short title of the principal Act is amended by of short title. deleting the words \"and Tabung Bekas Perajurit\". Amendment"
+        "@value": "deleting the words \"and Tabung Bekas Perajurit\"."
       }
     },
     {
@@ -133,9 +141,13 @@
       "@type": "akn:clause",
       "eli:number": "5",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 2 of the principal Act is amended by inserting"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Section 2 of the principal Act is amended by inserting of section 2. after the definition of \"serviceman\" the following definition: ' \"Tabung\" means the Tabung Angkatan Tentera established under section 3;'. Amendment"
+        "@value": "after the definition of \"serviceman\" the following definition: ' \"Tabung\" means the Tabung Angkatan Tentera established under section 3;'."
       }
     },
     {
@@ -143,9 +155,13 @@
       "@type": "akn:clause",
       "eli:number": "6",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The heading to Part II is amended by deleting the"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "The heading to Part II is amended by deleting the of heading to words \"AND TABUNG BEKAS PERAJURIT\"."
+        "@value": "words \"AND TABUNG BEKAS PERAJURIT\"."
       }
     },
     {
@@ -161,11 +177,7 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_12",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_13"
       ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@",
-      "schema:text": {
-        "@language": "en",
-        "@value": "Amendment"
-      }
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@"
     },
     {
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_10",
@@ -295,9 +307,9 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_7__para_c"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II",
-      "schema:text": {
+      "schema:name": {
         "@language": "en",
-        "@value": "Section 3 of the principal Act is amended— of section 3."
+        "@value": "Section 3 of the principal Act is amended—"
       }
     },
     {

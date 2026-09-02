@@ -1,0 +1,163 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/40/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/40"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-40-1990",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/40/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/40/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/40/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/40/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/40/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/40/eng@/~cl_6"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Statutory and Local Authorities Pensions (Amendment) Bill 1990"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/40/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/40/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Statutory and Local Authorities Pensions (Amendment) Act 1990."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/40/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Statutory and Local Authorities Pensions Act 1980,"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "which in this Act is referred to as the \"principal Act\", is amended by inserting after section 6 the following new section 6A: \"Exercise 6A. (1) An employee appointed on or after the of option. commencement of this section shall, before being confirmed in his appointment, be entitled to opt for the Employees Provident Fund Scheme. (2) The option under subsection (1) shall be made to the appropriate appointing authority in such manner as may be determined by the pensions authority. (3) The exercise of the option by an employee under this section shall take effect on his being confirmed in his appointment and shall thereupon be irrevocable. (4) Where an employee opts for the Employees Provident Fund Scheme, the provisions of this Act, except this section, shall not apply to such employee. (5) An employee who opts for the Employees Provident Fund Scheme shall retire from the service of a statutory or local authority on attaining the age of fifty-five years. BILL (6) An appropriate authority may, with the consent of the pensions authority, require an employee who opts for the Employees Provident Fund Scheme to retire from the service of a statu- tory or local authority in any circumstances refer- red to in paragraphs (a), (b), (c), (d), (e) and (f) of subsection (5) of section 10. (7) In this section \"Employees Provident Fund Scheme\" refers to a provident fund established under the Employees Provident Fund Act 1951, including a fund declared by the Employees Provident Fund Board under section 16 of that Act to be an approved fund.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/40/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 7 of the principal Act is amended by substituting"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "for the words \"permanently transferred\" in paragraph (c) the words \"permanently transferred by appointment\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/40/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/40/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/40/eng@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/40/eng@/~cl_4__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/40/eng@/~cl_4__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 10 of the principal Act is amended —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/40/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/40/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the word \"or\" at the end of paragraph (d) of subsection (5);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/40/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/40/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the full stop at the end of para- graph (e) of subsection (5) the words \"; or\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/40/eng@/~cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/40/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (e) of subsection (5) the following new paragraph (f): \"(f) on the ground that the employee had, for the purpose of his appointment to the service of a statutory or local authority;— (i) made any statement or given any information, whether orally or writing, whether on oath or otherwise; or (ii) supplied any document, which was false, erroneous, inaccurate, in- complete, or misleading or likely to mislead, and his appointment into the service of a statutory or local authority was made partly or wholly in reliance on that statement, information or document: Provided that retirement under this para- graph shall not be effected unless the PENSIONS (AMENDMENT) employee has been given a reasonable opportunity to make representations thereon to the said appropriate authority.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/40/eng@/~cl_4__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/40/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (5) the following new subsection (6): \"(6) Paragraph (f) of subsection (5) shall apply only to employees appointed to the service of a statutory or local authority after the commencement of this subsection.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/40/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "12 the following: 12. (1) An appropriate authority may, with the approval of the pensions authority on the emplo- yee's application, consent to the retirement of an employee on or after attaining the age of forty years. (2) Where an employee who is appointed before the commencement of this section retires under subsection (1), such employee may be granted a pension, gratuity or other benefit only on attaining the age of— (a) forty-five years for— (i) a female employee; and (ii) an employee of the fire service holding the rank of sub-officer and below; or (b) fifty years for a male employee, other than an employee referred to in subparagraph (ii) of paragraph (a). (3) Where an employee who is appointed after the commencement of this section retires under subsection (1), such employee may be granted a pension, gratuity or other benefit only on attaining the age of fifty-five years. BILL 4 (4) Where an employee who has retired under subsection (1) dies before attaining forty-five years of age, fifty years of age or fifty five years of age, as the case may be, the Minister may forthwith grant to the person prescribed in the regulations a derivative pension of not less than one-fifth of the deceased employee's last drawn salary and a derivative gratuity or a derivative gratuity only. (5) Subject to section 17, a derivative pension granted in the circumstances of subsection (4) shall be payable for a period not exceeding twelve and a half years from the date imme- diately following the date of death of the employee; and thereafter the recipient, provided he is a resident in Malaysia, shall continue to receive seventy percent of the amount granted.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/40/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 14 of the principal Act is amended by substitu-"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "ting for the words \"in the public interest\" the words \"under section 10(5)(d) or section 10(5)(f)\"."
+      }
+    }
+  ]
+}

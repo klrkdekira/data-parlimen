@@ -258,7 +258,7 @@ hendaklah disifatkan sebagai transaksi daripada jenis yang subseksyen (1) terpak
 
 (6) Dalam seksyen ini “transaksi” mempunyai erti yang sama yang diberikan kepadanya di bawah perenggan 17c(6)(b).”.
 
-### Seksyen baharu 22b, 22c, 22d, 22e dan 22f
+## SEKSYEN BAHARU 22B, 22C, 22D, 22E DAN 22F
 
 11. Akta ibu dipinda dengan memasukkan selepas seksyen 22a seksyen yang berikut:
 

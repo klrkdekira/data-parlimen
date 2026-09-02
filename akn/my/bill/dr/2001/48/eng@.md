@@ -486,7 +486,9 @@ be false or misleading commits an offence and shall on conviction be liable to a
 
 (5) Any transaction, including any agreement or arrangement in relation to any shares, or interest in shares, or security, which is in contravention of a preliminary order, or an order confirmed under subsection 23(1), or of any direction of the Bank under subsection 24(1), shall be void and of no effect.
 
-(6) A person is not entitled to be given an opportunity to be heard before the Bank makes a preliminary order under subsection (1) against him or which affects him in any manner.
+(6) A person is not entitled to be given an opportunity to be heard before the Bank makes a preliminary order under subsection
+
+(1) against him or which affects him in any manner.
 
 Preliminary order by the Bank
 
@@ -1060,9 +1062,7 @@ Development Financial Institutions
 
 (2) Where the High Court makes an order under subsection (1) to reduce the share capital of the prescribed institution, the Court may, if, on the expiry of thirty days from the date of any call made by the prescribed institution on its members to pay on their respective shares, payment on any such shares has not been made, order that such shares for which payment has not been made be cancelled.
 
-(3) Where the share capital of a prescribed institution is reduced under subsection (1), or any of its shares is cancelled under subsection
-
-(2), the Bank, or the appointed person, as the case may be, may
+(3) Where the share capital of a prescribed institution is reduced under subsection (1), or any of its shares is cancelled under subsection (2), the Bank, or the appointed person, as the case may be, may
 
 <!-- page 48 -->
 
@@ -1506,7 +1506,9 @@ as may be specified in this Act, the Central Bank of Malaysia Act 1958 or other 
 
 (5) A person making a statement under paragraph (2)(c) shall be legally bound to state the truth, whether or not such statement is made wholly or partly in answer to the questions of the investigating officer.
 
-(6) An investigating officer examining a person under subsection (2) shall first inform that person of the provisions of sub- sections (4) and (5).
+(6) An investigating officer examining a person under subsection
+
+(2) shall first inform that person of the provisions of sub- sections (4) and (5).
 
 (7) A statement made by any person under paragraph (2)(c) shall, whenever possible, be reduced into writing and signed by the person making it or affixed with his thumb print—
 
@@ -1604,9 +1606,7 @@ commits an offence and shall on conviction shall be liable to a fine not exceedi
 
 release any property, record, report or other document seized, detained or removed by him or any other investigating officer, to such person as he determines to be lawfully entitled to the property, record, report or document if he is satisfied that it is not required for the purpose of any prosecution or proceedings under this Act, or for the purpose of any prosecution under any other written law.
 
-(2) The investigating officer effecting the release under subsection
-
-(1) shall record in writing the circumstances of, and the reason for such release.
+(2) The investigating officer effecting the release under subsection (1) shall record in writing the circumstances of, and the reason for such release.
 
 (3) Where the investigating officer is unable to determine the person who is lawfully entitled to the property, record, report or document or where there is more than one claimant to such property, record, report or document or where the investigating officer is unable to locate the person under subsection (1) who is lawfully entitled to the property, record, report or document, the investigating officer shall report the matter to a magistrate who shall then deal with the property, record, report or document as provided for in paragraphs 413(ii), (iii) and (iv) and sections 414, 415 and 416 of the Criminal Procedure Code [Act 593).
 

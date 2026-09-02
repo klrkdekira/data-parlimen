@@ -122,7 +122,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 8. The principal Act is amended by inserting after Part Va the following part:
 
-“Part Vb
+## “PART VB
 
 ## ELECTION BY MEMBER OF THE FUND TO TRANSFER HIS
 
@@ -172,7 +172,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 11. The principal Act is amended by inserting after the Seventh Schedule the following schedule:
 
-“Eighth SchEdulE
+## “EIGHTH SCHEDULE
 
 [Sections 53d and 53E]
 
@@ -200,9 +200,19 @@ Criteria of a Criteria of a
 
 <!-- marginal: Rate of -->
 
-member of the member of contributions to be Fund who elects the Fund who transferred to transfer his receives the contributions contributions transferred
+member of the member of
 
-The member of the The member of 2%
+<!-- marginal: contributions to be -->
+
+Fund who elects the Fund who
+
+<!-- marginal: transferred -->
+
+to transfer his receives the contributions contributions transferred
+
+The member of the The member of
+
+<!-- marginal: 2% -->
 
 <!-- marginal: the -->
 
@@ -210,7 +220,9 @@ Fund— the Fund is a
 
 <!-- marginal: x employee’s -->
 
-Malaysian citizen 11%
+Malaysian citizen
+
+<!-- marginal: 11% -->
 
 <!-- marginal: contributions -->
 
@@ -240,7 +252,19 @@ employer’s
 
 <!-- marginal: contributions -->
 
-contributions on a monthly basis The total contributions which includes cents shall be rounded to the ”. next ringgit
+contributions on a monthly basis
+
+<!-- marginal: The total -->
+
+<!-- marginal: contributions which -->
+
+<!-- marginal: includes cents shall -->
+
+<!-- marginal: be rounded to the -->
+
+”.
+
+<!-- marginal: next ringgit -->
 
 ## EXPLANATORY STATEMENT
 

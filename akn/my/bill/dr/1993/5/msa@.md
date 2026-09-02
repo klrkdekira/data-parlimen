@@ -30,7 +30,7 @@ oleh Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong dengan nasih
 
 2. Perkara 113 Perlembagaan Persekutuan adalah
 
-<!-- marginal: Perkara 113. -->
+## Perkara 113.
 
 dipinda—
 
@@ -48,17 +48,23 @@ dipinda—
 
 Dewan Undangan sesuatu Negeri yang disebut dalam perenggan (i) Fasal (3A) mula berkuat- kuasa selepas lapan tahun berlalu dari tarikh siapnya kajian semula yang terakhir di bawah Fasal (2) dan Suruhanjaya Pilihanraya berpendapat bahawa adalah perlu dijalankan suatu kajian semula di bawah Fasal (2), maka Suruhanjaya Pilihanraya tidak boleh men- jalankan kajian semula di bawah perenggan (i) Fasal (3A) tetapi sebaliknya hendaklah menjalankan kajian semula di bawah Fasal (2) dan dalam mengendalikan kajian semula sedemikian hendaklah mengambil kira mana- mana kawasan yang tersentuh berikutan dengan pindaan atau undang-undang yang disebut dalam perenggan (i) Fasal (3A).".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
 3. Jadual Kelapan kepada Perlembagaan Persekutuan
 
 ## Jadual
 
-adalah dipinda dengan memasukkan, selepas perkataan Kelapan. "seksyen 1(2)," dalam seksyen 22, perkataan "seksyen lA,".
+adalah dipinda dengan memasukkan, selepas perkataan
 
-Pindaan
+<!-- marginal: Kelapan. -->
 
-4. Akta Perlembagaan (Pindaan) 1992 adalah dipinda— Akta A837.
+"seksyen 1(2)," dalam seksyen 22, perkataan "seksyen lA,".
+
+<!-- marginal: Pindaan -->
+
+4. Akta Perlembagaan (Pindaan) 1992 adalah dipinda—
+
+<!-- marginal: Akta A837. -->
 
 (a) dengan memansuhkan seksyen 3 seolah-olah seksyen itu tidak pernah menjadi sebahagian daripada Akta itu; dan
 

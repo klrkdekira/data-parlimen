@@ -80,9 +80,7 @@ Consumerism
 
 <!-- marginal: 251,000,000 -->
 
-B. 27 Ministry of Work
-
-8.28 Ministry of Transport
+B. 27 Ministry of Work 8.28 Ministry of Transport
 
 <!-- marginal: 193,759,900 -->
 

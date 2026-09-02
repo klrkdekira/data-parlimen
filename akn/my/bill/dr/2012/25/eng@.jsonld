@@ -68,21 +68,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/25/eng@/~cl_2",
       "@type": "akn:clause",
       "eli:number": "2",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/25/eng@/~cl_2__para_b",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/25/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "The Safeguards Act 2006 [Act 657], which is referred to as the “principal Act” in this Act, is amended in subsection 28(2) by substituting for the words “(1)(a) and (b)” the words “(1)(a),"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/25/eng@/~cl_2__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/25/eng@/~cl_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": "and (c)”. New section 40a"
+        "@value": "The Safeguards Act 2006 [Act 657], which is referred to as the “principal Act” in this Act, is amended in subsection 28(2) by substituting for the words “(1)(a) and (b)” the words “(1)(a), (b) and (c)”. New section 40a"
       }
     },
     {

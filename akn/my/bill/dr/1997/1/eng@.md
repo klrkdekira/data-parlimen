@@ -58,15 +58,17 @@ forty-five thousand ringgit (RM362,745,000) from the Consolidated Fund for expen
 
 <!-- page 2 -->
 
-in the Second Schedule for the service of the year 1997, Act A976. not provided for or not fully provided for by the Supply Act 1997. (2) The said sum is appropriated for the purpose specified in the Second Schedule.
+in the Second Schedule for the service of the year 1997,
+
+<!-- marginal: Act A976. -->
+
+not provided for or not fully provided for by the Supply Act 1997. (2) The said sum is appropriated for the purpose specified in the Second Schedule.
 
 ## FIRST SCHEDULE
 
 (Section 2)
 
-Purpose Title
-
-<!-- marginal: Appropriation -->
+Purpose Title Appropriation
 
 <!-- marginal: to Purpose -->
 
@@ -80,11 +82,7 @@ B. 5 Public Services Commission
 
 <!-- marginal: 500,000 -->
 
-B. 7 Prime Minister's Department
-
-<!-- marginal: 28,167,880 -->
-
-B. 11 Anti-Corruption Agency
+B. 7 Prime Minister's Department 28,167,880 B. 11 Anti-Corruption Agency
 
 <!-- marginal: 720,000 -->
 
@@ -120,99 +118,23 @@ Archives B. 24 Museum and Antiquities
 
 <!-- marginal: 250,000 -->
 
-Department B. 25 Ministry of Defence
-
-<!-- marginal: 291,795,961 -->
-
-B. 26 Ministry of Education
-
-<!-- marginal: 860,213,740 -->
+Department B. 25 Ministry of Defence 291,795,961 B. 26 Ministry of Education 860,213,740
 
 <!-- page 3 -->
 
-Purpose Title
-
-<!-- marginal: Appropriation -->
-
-<!-- marginal: to Purpose -->
-
-<!-- marginal: (RM) -->
-
-B. 27 Department of National Library
-
-<!-- marginal: 1,678,300 -->
-
-B. 30 Contribution to Statutory
-
-<!-- marginal: 13,943,613,123 -->
-
-Funds B. 33 Valuation and Property Services
-
-<!-- marginal: 1,700,000 -->
-
-Department B. 34 Ministry of Health
-
-<!-- marginal: 119,880,987 -->
-
-B. 35 Ministry of Home Affairs
-
-<!-- marginal: 4,400,000 -->
-
-B. 37 Immigration Department
-
-<!-- marginal: 3,500,000 -->
-
-B. 41 Civil Defence Department
-
-<!-- marginal: 758,300 -->
-
-B. 42 Ministry of National Unity and
-
-<!-- marginal: 1,200,000 -->
-
-Social Development B. 43 Department of Orang Asli
-
-<!-- marginal: 1,074,961 -->
-
-Affairs B. 44 Ministry of Information
-
-<!-- marginal: 7,000,000 -->
-
-B. 45 Ministry of Human Resources
-
-<!-- marginal: 16,141,600 -->
-
-B. 48 Ministry of Rural Development
-
-<!-- marginal: 18,677,620 -->
-
-B. 49 Ministry of Energy,
-
-<!-- marginal: 1,464,000 -->
-
-Telecommunications and Posts
+Purpose Title Appropriation to Purpose (RM) B. 27 Department of National Library 1,678,300 B. 30 Contribution to Statutory 13,943,613,123 Funds B. 33 Valuation and Property Services 1,700,000 Department B. 34 Ministry of Health 119,880,987 B. 35 Ministry of Home Affairs 4,400,000 B. 37 Immigration Department 3,500,000 B. 41 Civil Defence Department 758,300 B. 42 Ministry of National Unity and 1,200,000 Social Development B. 43 Department of Orang Asli 1,074,961 Affairs B. 44 Ministry of Information 7,000,000 B. 45 Ministry of Human Resources 16,141,600 B. 48 Ministry of Rural Development 18,677,620 B. 49 Ministry of Energy, 1,464,000 Telecommunications and Posts
 
 ## TOTAL
 
-<!-- marginal: 15,377,923,192 -->
+15,377,923,192
 
 ## SECOND SCHEDULE
 
-(Section 3) Purpose Title
-
-<!-- marginal: Appropriation -->
-
-<!-- marginal: to Purpose -->
-
-<!-- marginal: (RM) -->
-
-B. 34 Ministry of Health
-
-<!-- marginal: 362,745,000 -->
+(Section 3) Purpose Title Appropriation to Purpose (RM) B. 34 Ministry of Health 362,745,000
 
 ## TOTAL
 
-<!-- marginal: 362,745,000 -->
+362,745,000
 
 <!-- page 4 -->
 

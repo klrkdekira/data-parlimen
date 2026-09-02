@@ -8,9 +8,7 @@ Naskhah Sahih—Bahasa Inggeris
 
 bernama
 
-Suatu Akta untuk meminda Akta Perempuan Bersuami
-
-1957.
+Suatu Akta untuk meminda Akta Perempuan Bersuami 1957.
 
 ## MAKA INILAH DIPERBUAT UNDANG-UNDANG
 

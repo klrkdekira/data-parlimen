@@ -245,7 +245,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/20/eng@/~cl_8",
       "schema:text": {
         "@language": "en",
-        "@value": "in Form MS 5, by deleting “Before me, ......................….... Judge/Registrar”;"
+        "@value": "in Form MS 5, by deleting the words “Before me, ......................….... Judge/Registrar”;"
       }
     },
     {
@@ -261,7 +261,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/20/eng@/~cl_8",
       "schema:text": {
         "@language": "en",
-        "@value": "in Form MS 24— “*CONFINED IN PRISON/DETAINED UNDER ANY WRITTEN LAW”; *Delete where not applicable.”; and"
+        "@value": "in Form MS 24—"
       }
     },
     {
@@ -271,7 +271,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/20/eng@/~cl_8__para_c",
       "schema:text": {
         "@language": "en",
-        "@value": "in the heading of Form MS 24, by substituting for the words “IN PRISON” the words"
+        "@value": "in the heading of Form MS 24, by substituting for the words “IN PRISON” the words “*CONFINED IN PRISON/DETAINED UNDER ANY WRITTEN LAW”;"
       }
     },
     {
@@ -301,7 +301,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/20/eng@/~cl_8__para_c",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for the words “Sworn (as in Form MS 26).” the words “Sworn (as in Form MS 26)."
+        "@value": "by substituting for the words “Sworn (as in Form MS 26).” the words “Sworn (as in Form MS 26). *Delete where not applicable.”; and"
       }
     },
     {
@@ -315,7 +315,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/20/eng@/~cl_8",
       "schema:text": {
         "@language": "en",
-        "@value": "in Form MS 25— “*CONFINED IN PRISON/DETAINED UNDER ANY WRITTEN LAW”; and (Amendment)"
+        "@value": "in Form MS 25—"
       }
     },
     {
@@ -325,7 +325,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/20/eng@/~cl_8__para_d",
       "schema:text": {
         "@language": "en",
-        "@value": "in the heading of Form MS 25, by substituting for the words “IN PRISON” the words"
+        "@value": "in the heading of Form MS 25, by substituting for the words “IN PRISON” the words “*CONFINED IN PRISON/DETAINED UNDER ANY WRITTEN LAW”; and"
       }
     },
     {
@@ -335,7 +335,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/20/eng@/~cl_8__para_d",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for the words “a prisoner in the ........................................” the words “*a person confined in the ............................../ detained in the .....................................”."
+        "@value": "by substituting for the words “a prisoner in the ........................................” the words “*a person confined in the ............................../ detained in the .....................................”. (Amendment)"
       }
     }
   ]

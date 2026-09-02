@@ -104,11 +104,7 @@ apa-apa liabiiiti cukai yang berkenaan dengan mana-mana perkhidmatan yang disedi
 
 ### Penerimaan dua ketetapan kastam
 
-6E. Jika seseorang pemohon menerima dua atau lebih ketetapan kastam yang berbeza mengenai hal perkara yang sama, ketetapan yang sedemikian hendaklah disifatkan sebagai batal dan tak sah serta pemohon sedemikian hendaklah dengan
-
-<!-- marginal: serta-merta -->
-
-memberitahu Ketua Pengarah yang hendaklah, dalam tempoh tiga puluh hari dari tarikh pemberitahuan itu, mengeluarkan suatu ketetapan kastam yang baru.".
+6E. Jika seseorang pemohon menerima dua atau lebih ketetapan kastam yang berbeza mengenai hal perkara yang sama, ketetapan yang sedemikian hendaklah disifatkan sebagai batal dan tak sah serta pemohon sedemikian hendaklah dengan serta-merta memberitahu Ketua Pengarah yang hendaklah, dalam tempoh tiga puluh hari dari tarikh pemberitahuan itu, mengeluarkan suatu ketetapan kastam yang baru.".
 
 ### Seksyen baru 7B
 
@@ -138,11 +134,7 @@ suatu dokumen yang berupa sebagai suatu perakuan yang ditandatangani oleh Ketua 
 
 (a) dengan menggantikan subseksyen (2) dengan subseksyen yang berikut:
 
-"(2) Mana-mana orang yang
-
-<!-- marginal: terkilan dengan -->
-
-keputusan Ketua Pengarah boleh, kecuali dalam apa-apa perkara yang berhubungan dengan kompaun, dalam tempoh tiga puluh hari diberitahu mengenai keputusan yang sedemikian secara bertulis, merayu kepada Tribunal Rayuan Kastam yang keputusannya adalah muktamad."; dan
+"(2) Mana-mana orang yang terkilan dengan keputusan Ketua Pengarah boleh, kecuali dalam apa-apa perkara yang berhubungan dengan kompaun, dalam tempoh tiga puluh hari diberitahu mengenai keputusan yang sedemikian secara bertulis, merayu kepada Tribunal Rayuan Kastam yang keputusannya adalah muktamad."; dan
 
 (b) dengan memasukkan selepas subseksyen (2) subseksyen yang berikut:
 

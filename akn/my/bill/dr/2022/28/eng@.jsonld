@@ -197,7 +197,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_4",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (2)— “(ca) a representative from the Ministry of Defence;”; “(d) a representative from the Ministry of Finance;”; and “(e) four other members with experience and expertise in business, investment, investment risks management, actuary, banking, legal or finance who shall be appointed by the Minister on the advice of the Lembaga.”; and"
+        "@value": "in subsection (2)—"
       }
     },
     {
@@ -207,7 +207,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_4__para_a",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after paragraph (c) the following paragraph:"
+        "@value": "by inserting after paragraph (c) the following paragraph: “(ca) a representative from the Ministry of Defence;”;"
       }
     },
     {
@@ -217,7 +217,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_4__para_a",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for paragraph (d) the following paragraph:"
+        "@value": "by substituting for paragraph (d) the following paragraph: “(d) a representative from the Ministry of Finance;”; and"
       }
     },
     {
@@ -227,7 +227,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_4__para_a",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for paragraph (e) the following paragraph:"
+        "@value": "by substituting for paragraph (e) the following paragraph: “(e) four other members with experience and expertise in business, investment, investment risks management, actuary, banking, legal or finance who shall be appointed by the Minister on the advice of the Lembaga.”; and"
       }
     },
     {
@@ -377,7 +377,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_8",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (2)— “(c) the Lembaga is satisfied with the ability of the Tabung to meet all payments required to be paid under this Act is not endangered by the declaration of the rate.”; and"
+        "@value": "in subsection (2)—"
       }
     },
     {
@@ -407,7 +407,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_8__para_b",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for paragraph (c) the following paragraph:"
+        "@value": "by substituting for paragraph (c) the following paragraph: “(c) the Lembaga is satisfied with the ability of the Tabung to meet all payments required to be paid under this Act is not endangered by the declaration of the rate.”; and"
       }
     },
     {

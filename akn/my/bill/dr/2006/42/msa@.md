@@ -124,11 +124,7 @@ maka ketetapan kastam yang telah dibuat sebelum pindaan, pengubahsuaian atau pem
 
 ### Penerimaan dua ketetapan kastam
 
-HE. Jika seseorang pemohon menerima dua atau lebih ketetapan kastam yang berbeza mengenai hal perkara yang sama, ketetapan yang sedemikian hendaklah disifatkan sebagai batal dan tak sah serta pemohon sedemikian hendaklah dengan
-
-<!-- marginal: serta-merta -->
-
-memberitahu Ketua Pengarah yang hendaklah, dalam tempoh tiga puluh hari dari tarikh pemberitahuan itu, mengeluarkan suatu ketetapan kastam yang baru.".
+HE. Jika seseorang pemohon menerima dua atau lebih ketetapan kastam yang berbeza mengenai hal perkara yang sama, ketetapan yang sedemikian hendaklah disifatkan sebagai batal dan tak sah serta pemohon sedemikian hendaklah dengan serta-merta memberitahu Ketua Pengarah yang hendaklah, dalam tempoh tiga puluh hari dari tarikh pemberitahuan itu, mengeluarkan suatu ketetapan kastam yang baru.".
 
 ### Seksyen baru 12B
 

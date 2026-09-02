@@ -1,0 +1,145 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/15/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/15"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-15-1990",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/15/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/15/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/15/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/15/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/15/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/15/eng@/~cl_6"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Malaysian Agricultural Research and Development Institute (Amendment) Bill 1990"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/15/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/15/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Malaysian Agricultural Research and Development Institute (Amendment) Act 1990."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/15/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/15/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 3 of the Malaysian Agricultural Research and"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Development Institute Act 1969, which in this Act is referred to as \"the principal Act\" is.amended by substituting the full stop at the end of paragraph (f) with a semicolon, and by inserting, immediately after paragraph (f), the following new paragraph (g): \"(g) to conduct commercial research and production for the effective promotion and utilisation of its research findings.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/15/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/15/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/15/eng@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/15/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 5 of the principal Act is amended in subsection"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "(2)-"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/15/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/15/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting immediately after paragraph (a), the following new paragraph (aa): \"(aa) the Director General;\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/15/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/15/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"five\" in paragraph (g), the word \"four\". 2 BILL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/15/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/15/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting immediately"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "after section 5, the following new section 5A: \"Alternate 5A (1) The Minister may, in respect of each member members. of the Board appointed under paragraphs (b), (c), (d), (e) and (f) of subsection (2) of section 5, appoint one person to be an alternate member to attend in place of the member at the meetings of the Board if that member is for any reason unable to attend. (2) When attending meetings of the Board, an alternate member shall for all purposes be deemed to be a member of the Board. (3) An alternate member shall, unless he sooner resigns or his appointment is sooner revoked, cease to be an alternate member if the member in respect of whom he is an alternate ceases to be a member of the Board.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/15/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/15/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting immediately"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "after section 6, the following new section 6A: \"Power to 6A. The Board may, with the approval of the enter into Minister and the concurrence of the Minister of equity participation Finance, enter into equity participation in or joint or joint venture with any enterprise where such participation venture. or venture appears to it to be requisite, advantageous or convenient for or in connection with the discharge of the functions of the Institute.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/15/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/15/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting immediately"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "after section 21, the following new section 2lA: \"Remunera 2lA. There may be paid to members of the Board, tion or the Scientific Council, the committees or any other allowance. person (not being an officer or servant of the Board who is within the ambit of the provisions of this Act relating to the terms and conditions of service applicable to his case) such remuneration or allowance as the Minister may determine.\". DEVELOPMENT INSTITUTE (AMENDMENT) '1. The Schedule to the principal Act is amended by substituting for paragraph 6, the following new paragraph 6: 6. (1) The Board may appoint committees for any \"Appoint- ment of purpose arising out of or connected with any of its committees. powers, duties and functions under this Act; any committee so appointed shall include not less than one member of the Board, and there may be appointed to such committee such other persons as the Board may think fit. (2) Any committee so appointed shall conform to any instructions from time to time given to it by the Board, and the Board may at any time discontinue or alter the constitution of any committee so appointed. (3) The Board or the committee, respectively, may invite any person who, in its opinion, is possessed of special knowledge of advantage to it, to attend any meeting of the Board or the committee and the person so invited shall not be entitled to vote at any such meeting.\"."
+      }
+    }
+  ]
+}

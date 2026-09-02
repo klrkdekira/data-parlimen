@@ -34,15 +34,13 @@ ENACTED by the Parliament of Malaysia as follows:
 
 4. The principal act is amended by inserting after section 40 the following Part:
 
-“Part iVa
+## “PART IVA
 
 iNTERNaTiONal PaRTNERSHiPS, QUaliFiED FOREiGN laW FiRMS aND REGiSTRaTiON OF FOREiGN laWYERS
 
 ### Interpretation
 
-### 40a.
-
-in this Part, unless the context otherwise requires—
+40A. in this Part, unless the context otherwise requires—
 
 “foreign law” means the law of any state or territory other than Malaysia;
 

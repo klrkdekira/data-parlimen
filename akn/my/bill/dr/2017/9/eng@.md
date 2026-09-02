@@ -128,7 +128,9 @@ credit facility provider, or the dealer, as the case may be, shall serve on the 
 
 notwithstanding that the credit sale agreement is void, commits an offence.
 
-(14) A credit facility provider who enters into a credit sale agreement in contravention of subsection (1), (5), (6), (8) or (9), notwithstanding that the credit sale agreement is void, commits an offence.
+(14) A credit facility provider who enters into a credit sale agreement in contravention of subsection (1), (5), (6),
+
+(8) or (9), notwithstanding that the credit sale agreement is void, commits an offence.
 
 (15) A credit facility provider who fails to comply with subsection (3), (4) or (10) commits an offence.
 

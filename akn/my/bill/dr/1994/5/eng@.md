@@ -40,11 +40,7 @@ Malaysia, references in this Ordinance to the Load Lines Convention shall, unles
 
 (c) may prescribe on any other matter which may appear to the Minister to be expedient or necessary for the better carrying out of this section.
 
-(3) Any ship to which a
-
-<!-- marginal: terminable -->
-
-certificate of registry is granted under the
+(3) Any ship to which a terminable certificate of registry is granted under the
 
 <!-- page 3 -->
 
@@ -132,11 +128,7 @@ with the Emergency (Essential Powers) Ordinance, No. 7 1969;
 
 "ship" means a vessel of any type whatsoever operating in the maritime environment and includes any hydrofoil boat, air-cushioned vehicle, submersible, floating craft and any fixed or floating platform.
 
-(2) This Part shall apply
-
-<!-- marginal: throughout -->
-
-Malaysia.
+(2) This Part shall apply throughout Malaysia.
 
 491B. (1) Any ship which is engaged or intends to engage in any of the following activities:
 
@@ -146,11 +138,7 @@ Malaysia.
 
 (c) cable and pipe laying;
 
-(d) marine construction, including
-
-<!-- marginal: the -->
-
-construction of jetties and wharves;
+(d) marine construction, including the construction of jetties and wharves;
 
 (e) dumping of any material;
 
@@ -176,7 +164,9 @@ in Malaysian waters shall be required to notify the Director of Marine, in such 
 
 (3) The Director of Marine, upon receiving the notification, may impose such terms and conditions as he thinks fit, including prescribing the fees for anything to be done or permitted to be done under this Ordinance, on the activity.
 
-(4) The owner, master or agent of the ship or any person who contravenes subsection (1) or (3) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding two years or to both.
+(4) The owner, master or agent of the ship or any person who contravenes subsection (1) or
+
+(3) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding two years or to both.
 
 491c. (1) The Director of Marine may, where he has reason to believe that an offence has been committed under this Part, with a warrant—
 
@@ -220,11 +210,7 @@ section shall be guilty of an offence and shall, on conviction, be liable to a f
 
 18. The Ordinance is amended by inserting after section 512 under the subheading "Application of Penalties and Costs of Prosecutions" the following section:
 
-512A. (1) The Director of Marine may, in a case where he deems it fit and proper to do so, compound any offence committed by any person which is punishable under any provision of this Ordinance, by making a written offer to such person to compound the offence by paying to the Director of Marine within such time as may be specified in the offer such sum of money as may be determined in the offer which shall not exceed fifty per centum of the amount of the maximum fine (including the daily fine, if any, in the case of a continuing offence) to which that person would have been liable
-
-<!-- marginal: if he had been -->
-
-convicted.
+512A. (1) The Director of Marine may, in a case where he deems it fit and proper to do so, compound any offence committed by any person which is punishable under any provision of this Ordinance, by making a written offer to such person to compound the offence by paying to the Director of Marine within such time as may be specified in the offer such sum of money as may be determined in the offer which shall not exceed fifty per centum of the amount of the maximum fine (including the daily fine, if any, in the case of a continuing offence) to which that person would have been liable if he had been convicted.
 
 (2) An offer under subsection (1) may be made at any time after the offence has been committed, but before any prosecution for it has been instituted, and where the amount specified in the offer is not paid within the time specified in the offer or within such extended period as the Director of Marine may grant, prosecution for the offence may be instituted at any time thereafter against the person to whom the offer was made.
 
@@ -272,6 +258,4 @@ This Bill seeks to amend the Merchant Shipping Ordinance 1952 (the "Ordinance").
 
 ## IMPLICATIONS
 
-This Bill will not involve the Government in any extra financial expenditure.
-
-<!-- marginal: [PN. (U2) 1432.] -->
+This Bill will not involve the Government in any extra financial expenditure. [PN. (U2) 1432.]

@@ -12,7 +12,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Tajuk ringkas dan pcrmulaan kuat kuasa
 
-1. ( 1 ) Akta ini bolehlah dinamakan Akta Syarikat (Pindaan) 2007.
+1. ( 1 ) Akta ini bolehlah dinamakan Akta Syarikat (Pindaan)
+
+2007.
 
 (2) Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
 
@@ -26,7 +28,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 2 -->
 
-(6B) Statements made by virtue of subsection (6A) shall be deemed to be such declarations as are referred to in sections 199 and 200 of the Penal Code [Act 574].
+(6B) Statements made by virtue of subsection
+
+(6A) shall be deemed to be such declarations as are referred to in sections 199 and 200 of the Penal Code [Act 574].
 
 (6c) Where a document that is required to be signed and attested under this Act is to be filed and lodged electronically, the requirement for attestation of the signature does not apply."; dan
 
@@ -198,7 +202,9 @@ lie. Any information supplied by the Registrar which is certified under his hand
 
 (d) any committee to the board of directors on which the director did not serve in relation to matters within the committee's authority.
 
-(ID) The director's reliance made under subsection (lc) is deemed to be made on reasonable grounds if it was made—
+(ID) The director's reliance made under subsection
+
+(lc) is deemed to be made on reasonable grounds if it was made—
 
 (a) in good faith; and
 
@@ -330,7 +336,9 @@ whichever is the highest.";
 
 (3) The resolution of the company or its holding company at the general meeting of the company or its holding company to consider the arrangement or transaction shall be subject to the director, substantial shareholder or person connected with such director or substantial shareholder, as the case may be, abstaining from voting on the resolution whether or not to approve the arrangement or transaction.
 
-(4) Where an arrangement or transaction is carried into effect by a company in contravention of subsections (1) and (2) that director, substantial shareholder or person connected with such director or substantial shareholder and any director who knowingly authorized the arrangement or transaction shall, in addition to any other liability, be liable —
+(4) Where an arrangement or transaction is carried into effect by a company in contravention of subsections (1) and
+
+(2) that director, substantial shareholder or person connected with such director or substantial shareholder and any director who knowingly authorized the arrangement or transaction shall, in addition to any other liability, be liable —
 
 (a) to account to the company for any gain which he had made directly or indirectly by the arrangement or transaction; and
 
@@ -454,7 +462,9 @@ Penalty: Imprisonment of six months or ten thousand ringgit or both.".
 
 ### "Duty to inform upon ceasing to hold office as auditor
 
-172A. Where an auditor has made written representations to the company pursuant to subsection 172(5) or if an auditor gives notice to the directors of the company of his desire to resign as auditor of the company pursuant to subsection 172(15), he shall within seven days of the submission of the written representations or the submission of his notice of resignation, submit a copy of the written representations or his written explanations of his resignation, to the Registrar and, to the Stock Exchange where the company is a company whose shares or debentures are listed on the official list of a Stock Exchange as defined in the Securities Industry Act 1983.".
+172A. Where an auditor has made written representations to the company pursuant to subsection 172(5) or if an auditor gives notice to the directors of the company of his desire to resign as auditor of the company pursuant to subsection 172(15), he shall within seven days of the submission of the written representations or the submission of his notice of resignation, submit a copy of the written representations or his written explanations of his resignation, to the Registrar and, to the Stock Exchange where the company is a company whose shares or debentures are listed on the official list of a Stock Exchange as defined in the Securities Industry Act
+
+1983.".
 
 ### Pindaan seksyen 174
 

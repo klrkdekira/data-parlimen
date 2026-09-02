@@ -14,7 +14,19 @@
 
 ## ESTABLISHMENT OF FUTURES EXCHANGES
 
-3. Establishment of futures market. 4. Power of Minister to approve establishment of a futures exchange. 5. Management of an exchange company. 6. Approval of the amendment of constitution and business rules and amendments thereto. 7. Revocation of approval. 8. Suspension of trading in Heu of revocation of approval. 9. Closure of the exchange in an emergency. 10. Power of the Commission to take action against exchange company. clearing house, etc. for failure to comply with rules, regulations, etc. 11. Commission may recommend revocation of approval. 12. Publication of notice of revocation, suspension of trading or closure. 13. Trading in futures contracts prohibited during suspension of trading or closure of a futures exchange. 14. Prevention of entry into a futures exchange. 15. Emergency powers of the Commission.
+3. Establishment of futures market. 4. Power of Minister to approve establishment of a futures exchange. 5. Management of an exchange company. 6. Approval of the amendment of constitution and business rules and amendments thereto. 7. Revocation of approval. 8. Suspension of trading in Heu of revocation of approval. 9. Closure of the exchange in an emergency.
+
+10. Power of the Commission to take action against exchange company. clearing house, etc. for failure to comply with rules, regulations, etc.
+
+11. Commission may recommend revocation of approval.
+
+12. Publication of notice of revocation, suspension of trading or closure.
+
+13. Trading in futures contracts prohibited during suspension of trading or closure of a futures exchange.
+
+14. Prevention of entry into a futures exchange.
+
+15. Emergency powers of the Commission.
 
 ## PART III
 
@@ -22,13 +34,13 @@
 
 ## TRADING ADVISERS AND REPRESENTATIVES
 
-16. Putures brokers to be licensed. 17. Putures trading advisers to be licensed.
+16. Putures brokers to be licensed.
+
+17. Putures trading advisers to be licensed.
 
 <!-- page 2 -->
 
-18. Futures broker's representative to be licensed.
-
-19. Futures trading adviser's representative to be licensed.
+18. Futures broker's representative to be licensed. 19. Futures trading adviser's representative to be licensed.
 
 20. Persons exempt from being licensed under this Act.
 
@@ -98,13 +110,63 @@
 
 ## TRAD1NG PRACTICES
 
-49. Issue of contract notes. 50. Trading as principal. 51. Futures broker to provide certain information, etc. to customer. 52. Segregation of customer's funds, etc, by futures brokers. 53. Risk disclosure by futures broker and futures trading adviser. 54. Futures broker io give priority to customer's order. 55. Fixing of positions and trading limits in futures contracts. 56. Failure to comply with provisions of this Part.
+49. Issue of contract notes.
+
+50. Trading as principal.
+
+51. Futures broker to provide certain information, etc. to customer.
+
+52. Segregation of customer's funds, etc, by futures brokers.
+
+53. Risk disclosure by futures broker and futures trading adviser.
+
+54. Futures broker io give priority to customer's order.
+
+55. Fixing of positions and trading limits in futures contracts.
+
+56. Failure to comply with provisions of this Part.
 
 ## PART VI
 
 ## FIDELITY FUND
 
-57. Interpretation. 58. Establishment of fidelity fund. 59. Fidelity fund committee. 60. Money constituting fidelity fund. 61. Fidelity fund to be kept in separate account. 62. Payments out of fidelity fund. 63. Accounts of fidelity fund. 64. Contributions to Cidelity fund. 65.. Power of exchange company to make advances to fidelily fund. 66. Investment of money in the Cidelity fund. 67. Claims against the fidelity fund. 68. Limits on compensation. 69. Notice calling for claims against the fidelity fund. 70. Power of exchange company in respect of claims. 71. Exchange company may require production of documents, etc. 72. Right of appeal against determination of the exchange company. 73. Subrogation of the exchange company to rights, etc., of claimant upon payment from fidelity fund. 74. Payment of claims only from fidelity fund. 75. Provision where fidelity fund insufficient to meet claims or where claims exceed total amount payable.
+57. Interpretation.
+
+58. Establishment of fidelity fund.
+
+59. Fidelity fund committee.
+
+60. Money constituting fidelity fund.
+
+61. Fidelity fund to be kept in separate account.
+
+62. Payments out of fidelity fund.
+
+63. Accounts of fidelity fund.
+
+64. Contributions to Cidelity fund.
+
+65.. Power of exchange company to make advances to fidelily fund.
+
+66. Investment of money in the Cidelity fund.
+
+67. Claims against the fidelity fund.
+
+68. Limits on compensation.
+
+69. Notice calling for claims against the fidelity fund.
+
+70. Power of exchange company in respect of claims.
+
+71. Exchange company may require production of documents, etc.
+
+72. Right of appeal against determination of the exchange company.
+
+73. Subrogation of the exchange company to rights, etc., of claimant upon payment from fidelity fund.
+
+74. Payment of claims only from fidelity fund.
+
+75. Provision where fidelity fund insufficient to meet claims or where claims exceed total amount payable.
 
 <!-- page 4 -->
 
@@ -168,7 +230,27 @@
 
 <!-- page 5 -->
 
-99. Offences by corporations, etc. 100. Futures contract not short-selling or gaming or wagering contract. 101. Restriction on business in a futures market. 102. Trading in futures contracts outside Malaysia. 103. Deposits to be paid for trading in Specified Exchanges. 104. Settlement of disputes. 105. Prohibition of use of certain titles. 106. Power to make regulations. 107. Exemption in respect of Securities Industry Act 1983. 108. Exemption in respect of Commodities Trading Act 1985. 109. Offshore bank, offshore company. etc., exempted.
+99. Offences by corporations, etc.
+
+100. Futures contract not short-selling or gaming or wagering contract.
+
+101. Restriction on business in a futures market.
+
+102. Trading in futures contracts outside Malaysia.
+
+103. Deposits to be paid for trading in Specified Exchanges.
+
+104. Settlement of disputes.
+
+105. Prohibition of use of certain titles.
+
+106. Power to make regulations.
+
+107. Exemption in respect of Securities Industry Act 1983.
+
+108. Exemption in respect of Commodities Trading Act 1985.
+
+109. Offshore bank, offshore company. etc., exempted.
 
 <!-- page 7 -->
 
@@ -226,9 +308,17 @@ whether those rules are made by the exchange company or amended or supplemented 
 
 (b) makes adjustments to the contractual obligations arising out of those futures contracts;
 
-"Commission" means the Securities Commission Act established under the Securities Commission Act 1992;
+"Commission" means the Securities Commission
 
-"commodity futures contract" means a futures contract that involves a delivery of a commodity specified Act324 pursuant to section 24 of the Commodities Trading Act 1985;
+<!-- marginal: Act -->
+
+established under the Securities Commission Act 1992;
+
+"commodity futures contract" means a futures contract that involves a delivery of a commodity specified
+
+<!-- marginal: Act324 -->
+
+pursuant to section 24 of the Commodities Trading Act 1985;
 
 "constitution", in relation to a company, means the memorandum and articles of association of the company;
 
@@ -316,11 +406,7 @@ Act 1949 or thc Labuan Trust Companies Act 1990;
 
 <!-- marginal: Act 301 -->
 
-Presses and Publications Act 1984 where— ( i) insofar as thc ncwspaper is distributed generally to the public, it is distributed only to subscribers for, and purchasers of, the newspaper for value; (ii) the advice is given or the analyses or rcports are issued or promulgatcd only through that newspaper; ( i i i) that person rcceives no commission or other consideration for
-
-<!-- marginal: issuing or -->
-
-promulgating the analyses or reports; and ( i v) the advice is given and thc analyses and reports are issued or promulgated solely as incidental to the conduct of that persorTs business as a ncwspaper proprietor; or
+Presses and Publications Act 1984 where— ( i) insofar as thc ncwspaper is distributed generally to the public, it is distributed only to subscribers for, and purchasers of, the newspaper for value; (ii) the advice is given or the analyses or rcports are issued or promulgatcd only through that newspaper; ( i i i) that person rcceives no commission or other consideration for issuing or promulgating the analyses or reports; and ( i v) the advice is given and thc analyses and reports are issued or promulgated solely as incidental to the conduct of that persorTs business as a ncwspaper proprietor; or
 
 (g) such other person as the Commission may by regulations prescribe.
 
@@ -336,7 +422,11 @@ as long as the carrying on of the business by the above- mentioned person is sol
 
 performs for that futures trading adviser any of the functions of the futures trading adviser in connection with trading in futures contracts, other than work ordinarily-performed by accountants, clerks or cashiers, whether his remuneration is by way of salary, wages, commission or otherwise;
 
-"Islamic bank" means a bank licensed under the Act276 Islamic Banking Act 1983;
+"Islamic bank" means a bank licensed under the
+
+<!-- marginal: Act276 -->
+
+Islamic Banking Act 1983;
 
 "instruments" include securities, currencies, futures contracts, interest rate instruments, share indices, a group of share indices and such other instruments as the Commission may by order prescribe, but does not include any commodity specified pursuant to section 24 of the Commodities Trading Act 1985;
 
@@ -352,7 +442,11 @@ performs for that futures trading adviser any of the functions of the futures tr
 
 as the case may be, issued under Part III;
 
-"licensed bank" means a bank licensed under the Act 372. Banking and Financial Institutions Act 1989 and includes an Islamic bank;
+"licensed bank" means a bank licensed under the
+
+<!-- marginal: Act 372. -->
+
+Banking and Financial Institutions Act 1989 and includes an Islamic bank;
 
 "licensed institution" means any institution licensed or deemed to be licensed under subsection 6(4) of the Banking and Financial Institutions Act 1989;
 
@@ -408,19 +502,47 @@ II
 
 ## ESTABLISHMENT OF FUTURES EXCHANGES
 
-Establishment
+<!-- marginal: Establishment -->
 
-3. (1) No person shall establish or maintain or assist in of futures establishing or maintaining or hold himself out as market. providing or maintaining a futures market that is not the futures market of a futures exchange established and operated by a company that has been granted approval under subsection 4(1).
+3. (1) No person shall establish or maintain or assist in
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding one million ringgit or
+<!-- marginal: of futures -->
+
+establishing or maintaining or hold himself out as
+
+<!-- marginal: market. -->
+
+providing or maintaining a futures market that is not the futures market of a futures exchange established and operated by a company that has been granted approval under subsection 4(1).
+
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding one million ringgit
+
+<!-- marginal: or -->
 
 <!-- marginal: to -->
 
 imprisonment for a term not exceeding ten years or to both.
 
-Power of
+<!-- marginal: Power of -->
 
-4. (1) The Minister may, on application made to him Mmister lo by a company, approve in writing the establishment and approve eMablisment operation by the company of a futures exchange if he of a futures is satisfied that the company complies with the exchange. requirements specified in subsection (3).
+4. (1) The Minister may, on application made to him
+
+<!-- marginal: Mmister lo -->
+
+by a company, approve in writing the establishment and
+
+<!-- marginal: approve -->
+
+<!-- marginal: eMablisment -->
+
+operation by the company of a futures exchange if he
+
+<!-- marginal: of a futures -->
+
+is satisfied that the company complies with the
+
+<!-- marginal: exchange. -->
+
+requirements specified in subsection (3).
 
 (2) An application under subsection (1) shall be made in writing and shall be accompanied by—
 
@@ -434,11 +556,7 @@ Power of
 
 <!-- page 15 -->
 
-(b) that the company shall— (i) maintain to the sartisfaction of the Minister an adequate and properly equipped place of business; (ii) establish and operate futures markets only at places approved by the Minister; (iii) establish or make arrangements for the establishment of a clearing house for the clearing, registration and settlement of futures contracts and the day-to-day adjustment of the financial position of such contracts; and (iv) ensure or make arrangements to ensure that futures contracts registered by its clearing house are fulfilled in the event of default by either of
-
-<!-- marginal: the parties to -->
-
-such contracts, and take out adequate insurance in that respect;
+(b) that the company shall— (i) maintain to the sartisfaction of the Minister an adequate and properly equipped place of business; (ii) establish and operate futures markets only at places approved by the Minister; (iii) establish or make arrangements for the establishment of a clearing house for the clearing, registration and settlement of futures contracts and the day-to-day adjustment of the financial position of such contracts; and (iv) ensure or make arrangements to ensure that futures contracts registered by its clearing house are fulfilled in the event of default by either of the parties to such contracts, and take out adequate insurance in that respect;
 
 (c) that the constitution of the company provides for the making of business rules applicable to the company in its capacity as an exchange company and of business rules of its futures market;
 
@@ -478,13 +596,29 @@ be vested in its Board of Directors.
 
 (6) The Board of Directors shall meet as often as may be necessary for the performance of its functions and shall determine its own procedures.
 
-Approval of
+<!-- marginal: Approval of -->
 
-6. (1) An exchange company shall submit or cause to amendment 'f be submitted to the Commission for its approval— conslitution and businesf
+6. (1) An exchange company shall submit or cause to
 
-(a) any amendment to its constitution; rules and amendments
+<!-- marginal: amendment -->
 
-(b) the business rules of its futures exchange and thereto. every amendment thereto; and
+'f be submitted to the Commission for its approval—
+
+<!-- marginal: conslitution -->
+
+<!-- marginal: and businesf -->
+
+(a) any amendment to its constitution;
+
+<!-- marginal: rules and -->
+
+<!-- marginal: amendments -->
+
+(b) the business rules of its futures exchange and
+
+<!-- marginal: thereto. -->
+
+every amendment thereto; and
 
 (c) the business rules of its clearing house and every amendment thereto.
 
@@ -570,11 +704,51 @@ direction if the Minister is of the opinion that the orderly transaction of such
 
 (2) The Minister may extend the closure of the futures exchange under subsection (1) for further periods each not exceeding five days.
 
-(3) The Minister shall specify the grounds for the closure in the direction given under subsection (1) and the grounds for any extension of closure under subsection (2).
+(3) The Minister shall specify the grounds for the closure in the direction given under subsection (1) and the grounds for any extension of closure under subsection
 
-Power of the 10. (1) Where it is shown that— Comnmsion to take
+(2).
 
-(a) an exchange company or clearing house— action against exchange (i) has failed to comply with or observe its company, own rules and regulations; clearing house, elc. (ii) has contravened any provisions of this for failure Act or any regulations or orders made to comply with rules, under this Act; or regulations, etc. (iii) has failed to comply with any directives given by the Commission under this Act; or
+<!-- marginal: Power of the -->
+
+10. (1) Where it is shown that—
+
+<!-- marginal: Comnmsion -->
+
+<!-- marginal: to take -->
+
+(a) an exchange company or clearing house—
+
+<!-- marginal: action against -->
+
+<!-- marginal: exchange -->
+
+(i) has failed to comply with or observe its
+
+<!-- marginal: company, -->
+
+own rules and regulations;
+
+<!-- marginal: clearing -->
+
+<!-- marginal: house, elc. -->
+
+(ii) has contravened any provisions of this
+
+<!-- marginal: for failure -->
+
+Act or any regulations or orders made
+
+<!-- marginal: to comply -->
+
+<!-- marginal: with rules, -->
+
+under this Act; or
+
+<!-- marginal: regulations, -->
+
+<!-- marginal: etc. -->
+
+(iii) has failed to comply with any directives given by the Commission under this Act; or
 
 (b) the exchange company or clearing house, any member of their respective Boards of Directors or any officer or employee of the exchange company or clearing house has acted in any way relating to the operation of the futures exchange, any futures market or the clearing house which has prejudiced or is likely to be prejudicial to the public interest,
 
@@ -590,13 +764,11 @@ time as the exchange company has, to the satisfaction of the Commission, complie
 
 (cc) reprimand the exchange company, clearing house or the individual concerned.
 
-(2) The Commission shall give
+(2) The Commission shall give the exchange company, clearing house or individual not less than fourteen days' notice of its intention to take any of the actions under subsection (1) and the notice shall specify the grounds for the action taken.
 
-<!-- marginal: the exchange -->
+(3) A direction, penalty or reprimand under subsection
 
-company, clearing house or individual not less than fourteen days' notice of its intention to take any of the actions under subsection (1) and the notice shall specify the grounds for the action taken.
-
-(3) A direction, penalty or reprimand under subsection (1) shall be conclusive unless, within fourteen days thereafter, the exchange company, clearing house or individual concerned appeals to the Minister in writing against the direction, penalty or reprimand, as the case may be.
+(1) shall be conclusive unless, within fourteen days thereafter, the exchange company, clearing house or individual concerned appeals to the Minister in writing against the direction, penalty or reprimand, as the case may be.
 
 (4) An appeal under subsection (3) shall not act as a stay of a direction to suspend trading given under paragraph ( \ ) ( a a) unless otherwise determined by the Commission.
 
@@ -622,23 +794,81 @@ officer of the exchange company, referred to in section
 
 10, is of such a serious nature as to warrant a revocation of the approval granted to the exchange company under section 4, the Commission may make a recommendation to the Minister to revoke the approval granted by him to the exchange company.
 
-Publication 12. Where— of notice of revocation,
+<!-- marginal: Publication -->
 
-(a) an approval is revoked under section 7; or suspension of trading
+12. Where—
 
-(b) an exchange company is directed to suspend or closure. trading under section 8 or 10, or to close its futures exchange under section 9,
+<!-- marginal: of notice of -->
+
+<!-- marginal: revocation, -->
+
+(a) an approval is revoked under section 7; or
+
+<!-- marginal: suspension -->
+
+<!-- marginal: of trading -->
+
+(b) an exchange company is directed to suspend
+
+<!-- marginal: or closure. -->
+
+trading under section 8 or 10, or to close its futures exchange under section 9,
 
 the Commission shall publish a notice of the revocation of the licence or the direction for the suspension of trading or for the closure of the futures exchange, as the case may be.
 
-Trading in 13. (1) Notwithstanding any other provision of this Act, futures no person shall— contracts prohibited
+<!-- marginal: Trading in -->
 
-(a) during the period trading is suspended as during suspension directed under section 8 or 10, trade in the of trading futures markets specified in the direction; or or closure of a futures
+13. (1) Notwithstanding any other provision of this Act,
 
-(b) during the period a futures exchange is closed exchange. as directed under section 9, transact any trading in futures contract in any instrument specified in the direction.
+<!-- marginal: futures -->
+
+no person shall—
+
+<!-- marginal: contracts -->
+
+<!-- marginal: prohibited -->
+
+(a) during the period trading is suspended as
+
+<!-- marginal: during -->
+
+<!-- marginal: suspension -->
+
+directed under section 8 or 10, trade in the
+
+<!-- marginal: of trading -->
+
+futures markets specified in the direction; or
+
+<!-- marginal: or closure -->
+
+<!-- marginal: of a futures -->
+
+(b) during the period a futures exchange is closed
+
+<!-- marginal: exchange. -->
+
+as directed under section 9, transact any trading in futures contract in any instrument specified in the direction.
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and is liable on conviction to a fine not exceeding five hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both.
 
-Prevention 14. (1) Where trading in any futures contract is of entry suspended under section 8 or 10 or where a futures into a futures exchange is closed under section 9 for the transaction exchange. of any trading in futures contracts, any officer of the Commission authorised in writing or any police officer not below the rank of Inspector may, during the period of suspension or closure, take such steps as may be necessary to ensure that the premises or facilities of the
+<!-- marginal: Prevention -->
+
+14. (1) Where trading in any futures contract is
+
+<!-- marginal: of entry -->
+
+suspended under section 8 or 10 or where a futures
+
+<!-- marginal: into a -->
+
+<!-- marginal: futures -->
+
+exchange is closed under section 9 for the transaction
+
+<!-- marginal: exchange. -->
+
+of any trading in futures contracts, any officer of the Commission authorised in writing or any police officer not below the rank of Inspector may, during the period of suspension or closure, take such steps as may be necessary to ensure that the premises or facilities of the
 
 <!-- page 21 -->
 
@@ -686,7 +916,11 @@ considers necessary to maintain or restore orderly trading on a futures exchange
 
 and the exchange company or clearing house shall comply with that direction.
 
-(3) Where directions are given pursuant to subsection (2) and the exchange company or clearing house fails to comply with the directions, the Commission may itself take action to set emergency margin levels in any futures contracts, or class of futures contracts, or to fix limits that may apply to market positions acquired in good faith prior to the date of any action taken under subsection (1) or any direction given under subsection (2) as it thinks are necessary to maintain or restore orderly trading in or liquidation of futures contracts or any class of futures contracts.
+(3) Where directions are given pursuant to subsection
+
+(2) and the exchange company or clearing house fails to comply with the directions, the Commission may itself take action to set emergency margin levels in any futures contracts, or class of futures contracts, or to fix limits that may apply to market positions acquired in good faith prior to the date of any action taken under subsection
+
+(1) or any direction given under subsection (2) as it thinks are necessary to maintain or restore orderly trading in or liquidation of futures contracts or any class of futures contracts.
 
 (4) In this section, "emergency" means a situation or the occurrence of any event which threatens a futures market and shall include—
 
@@ -776,9 +1010,23 @@ unless he is licensed as a futures trading adviser under this Act.
 
 (5) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding ten years or to both.
 
-Futures
+<!-- marginal: Futures -->
 
-18. (1) No person shall perform for a futures broker any broker"s e of the functions of a futures broker within the meaning represem to be of section 16 for remuneration by way of salary, licensed. commission or otherwise other than work ordinarily performed by an accountant, clerk or cashier unless such person is licensed as a futures broker's representative under this Act in respect of such futures broker.
+18. (1) No person shall perform for a futures broker any
+
+<!-- marginal: broker"s -->
+
+e of the functions of a futures broker within the meaning
+
+<!-- marginal: represem -->
+
+<!-- marginal: to be -->
+
+of section 16 for remuneration by way of salary,
+
+<!-- marginal: licensed. -->
+
+commission or otherwise other than work ordinarily performed by an accountant, clerk or cashier unless such person is licensed as a futures broker's representative under this Act in respect of such futures broker.
 
 <!-- page 25 -->
 
@@ -840,13 +1088,27 @@ who, in the course of discharging his duties in such capacity pursuant to any wr
 
 (2) Nothing in subsection (1) shall be deemed to exempt the person specified therein from complying with other provisions of this Act in relation to such futures contract unless such person is specifically exempted by order of the Minister from complying with those provisions.
 
-Licensing
+<!-- marginal: Licensing -->
 
-21. The Minister shall appoint a public officer to be a Officer. Licensing Officer.
+21. The Minister shall appoint a public officer to be a
 
-Licensing
+<!-- marginal: Officer. -->
 
-22. (1) Subject to sections 23 and 24, the Licensing of persons Officer shall, on application made to him by any person under this Part. in the prescribed manner and on payment of the prescribed fee, license that person as—
+Licensing Officer.
+
+<!-- marginal: Licensing -->
+
+22. (1) Subject to sections 23 and 24, the Licensing
+
+<!-- marginal: of persons -->
+
+Officer shall, on application made to him by any person
+
+<!-- marginal: under this -->
+
+<!-- marginal: Part. -->
+
+in the prescribed manner and on payment of the prescribed fee, license that person as—
 
 (a) a futures broker;
 
@@ -868,9 +1130,15 @@ as the case may be.
 
 (4) The granting of a licence to a person shall not authorise such person to carry on the business under any name other than that specified in the licence.
 
-Restriction
+<!-- marginal: Restriction -->
 
-23. (1) A licence to carry on business as a futures broker on grant shall only be granted to a corporation. of licence.
+23. (1) A licence to carry on business as a futures broker
+
+<!-- marginal: on grant -->
+
+shall only be granted to a corporation.
+
+<!-- marginal: of licence. -->
 
 (2) A licence to carry on business as a futures trading adviser may be granted to an individual or a corporation.
 
@@ -878,17 +1146,13 @@ Restriction
 
 (3) A licence to act as a futures broker's representative or as a futures trading adviser's representative shall only be granted to an individual.
 
-<!-- marginal: Refusal to -->
+Refusal to
 
-24. The Licensing Officer may refuse to grant a licence
+24. The Licensing Officer may refuse to grant a licence grant a under section 22— licence
 
-<!-- marginal: grant a -->
+(a) if the applicant is an individual, on the grounds
 
-under section 22—
-
-<!-- marginal: licence -->
-
-(a) if the applicant is an individual, on the grounds that—
+<!-- marginal: that— -->
 
 (i) the applicant has not provided the Licensing Officer with such information relating to him or any person employed by or associated with him for the purposes of his business, and any circumstances likely to affect his method of conducting business, as may be prescribed under this Act;
 
@@ -916,9 +1180,13 @@ under section 22—
 
 (v) the applicant fails to comply with any requirement under this Act or any regulations made under this Act relating to an application for a licence.
 
-Renewal of
+<!-- marginal: Renewal of -->
 
-25. (1) Subject to subsection (3), the Licensing Officer Licence. shall, on an application made to him by a licensed person in the prescribed manner not later than thirty days before the day on which his licence, if not renewed, would expire and on payment of the prescribed fee, renew such licence.
+25. (1) Subject to subsection (3), the Licensing Officer
+
+<!-- marginal: Licence. -->
+
+shall, on an application made to him by a licensed person in the prescribed manner not later than thirty days before the day on which his licence, if not renewed, would expire and on payment of the prescribed fee, renew such licence.
 
 (2) The Licensing Officer may require an applicant under subsection (1) to supply him with any further information that he considers necessary to deal with the application.
 
@@ -956,17 +1224,37 @@ Renewal of
 
 <!-- page 30 -->
 
-30
+<!-- marginal: 30 -->
 
 ## BILL
 
 (2) The Licensing Officer may revoke a licence—
 
-(a) granted to an individual— (i) on any ground on which the Licensing Oficer may refuse, under paragraph 24(a), to grant a licence; (ii) if a levy of execution in respect of him has not been satisfied; (iii) if he fails or ceases to carry on business for which he was licensed for a continuous period of three months; (iv) if, in the case of a representative, the licence of the futures broker or futures trading adviser in relation to whom the licence was granted is revoked; or (v) if the licensed person contravenes or fails to comply with the business rules or any condition or restriction applicable in respect of the licence;
+(a) granted to an individual—
+
+(i) on any ground on which the Licensing Oficer may refuse, under paragraph 24(a), to grant a licence;
+
+(ii) if a levy of execution in respect of him has not been satisfied;
+
+(iii) if he fails or ceases to carry on business for which he was licensed for a continuous period of three months;
+
+(iv) if, in the case of a representative, the licence of the futures broker or futures trading adviser in relation to whom the licence was granted is revoked; or
+
+(v) if the licensed person contravenes or fails to comply with the business rules or any condition or restriction applicable in respect of the licence;
 
 (b) granted to a corporation—
 
-(i) on any ground on which the Licensing Officer may refuse under paragraph 24(b) to grant a licence; (ii) if it is being or has been wound up; (iii) if a levy of execution in respect of it has not been satisfied; (iv) if it has entered into any composition or arrangement with its creditors; (v) if it fails or ceases to carry on the business for which it was licensed for a continuous period of three months; or (vi) if the licensed person contravenes or fails to comply with the business rules or any conditions or restrictions applicable in respect of the licence.
+(i) on any ground on which the Licensing Officer may refuse under paragraph 24(b) to grant a licence;
+
+(ii) if it is being or has been wound up;
+
+(iii) if a levy of execution in respect of it has not been satisfied;
+
+(iv) if it has entered into any composition or arrangement with its creditors;
+
+(v) if it fails or ceases to carry on the business for which it was licensed for a continuous period of three months; or
+
+(vi) if the licensed person contravenes or fails to comply with the business rules or any conditions or restrictions applicable in respect of the licence.
 
 (3) The Licensing Officer shall not revoke the licence of a licensed person under subsection (2) without first giving such person an opportunity of being heard.
 
@@ -1030,11 +1318,23 @@ inquiry into any allegation that a licensed person—
 
 (b) any act or omission relating to the conduct of business of a licensed person which is or is likely to be prejudicial to the public interest.
 
-Effect of
+<!-- marginal: Effect of -->
 
-29. (1) A revocation, suspension or surrender of the revocation, licence of a licensed person shall not operate so as to— suspension or surrender
+29. (1) A revocation, suspension or surrender of the
 
-(a) avoid or affect any agreement, transaction or of hcence. arrangemerit relating to the trading in futures
+<!-- marginal: revocation, -->
+
+licence of a licensed person shall not operate so as to—
+
+<!-- marginal: suspension -->
+
+<!-- marginal: or surrender -->
+
+(a) avoid or affect any agreement, transaction or
+
+<!-- marginal: of hcence. -->
+
+arrangemerit relating to the trading in futures
 
 <!-- page 33 -->
 
@@ -1080,9 +1380,21 @@ a licence or for the renewal of a licence, makes a statement which is false or m
 
 <!-- page 34 -->
 
-Information
+<!-- marginal: Information -->
 
-32. (1) Every licensed person shall forthwith notify the to be Licensing Officer of any change which, while his licence provided by licensed is in force, may occur— persons.
+32. (1) Every licensed person shall forthwith notify the
+
+<!-- marginal: to be -->
+
+Licensing Officer of any change which, while his licence
+
+<!-- marginal: provided -->
+
+<!-- marginal: by licensed -->
+
+is in force, may occur—
+
+<!-- marginal: persons. -->
 
 (a) in the address in Malaysia at which he carries on business as a licensed person;
 
@@ -1146,9 +1458,23 @@ fit, the names and addresses of all licensed persons.
 
 <!-- page 36 -->
 
-Futures
+<!-- marginal: Futures -->
 
-35. (1) A futures exchange shall provide such assistance exchange to the Licensing Officer as he reasonably requires for lo provide assistance the performance of his functions and duties. to Licensing Officer.
+35. (1) A futures exchange shall provide such assistance
+
+<!-- marginal: exchange -->
+
+to the Licensing Officer as he reasonably requires for
+
+<!-- marginal: lo provide -->
+
+<!-- marginal: assistance -->
+
+the performance of his functions and duties.
+
+<!-- marginal: to Licensing -->
+
+<!-- marginal: Officer. -->
 
 (2) Where a futures exchange reprimands, fines, suspends, expels or otherwise takes disciplinary action against a licensed person, it shall within seven days give the Licensing Officer in writing particulars of the licensed person, the reasons for and nature of the action taken, the amount of the fine, if any, and the period of suspension, if any,
 
@@ -1158,11 +1484,19 @@ IV
 
 ## ACCOUNTS AND AUDIT
 
-Accounts
+<!-- marginal: Accounts -->
 
-36. (1) A futures broker shall— lo be kept by futures
+36. (1) A futures broker shall—
 
-(a) cause to be kept and maintained such accounting brokers. and other records as will sufficiently explain the transactions and reflect the financial position of the business of trading in futures contracts carried on by him and as will enable true and fair profit and loss accounts and balance-sheets to be prepared from time to time; and
+<!-- marginal: lo be kept -->
+
+<!-- marginal: by futures -->
+
+(a) cause to be kept and maintained such accounting
+
+<!-- marginal: brokers. -->
+
+and other records as will sufficiently explain the transactions and reflect the financial position of the business of trading in futures contracts carried on by him and as will enable true and fair profit and loss accounts and balance-sheets to be prepared from time to time; and
 
 (b) cause those records to be kept in such a manner as will enable them to be conveniently and properly audited.
 
@@ -1208,17 +1542,35 @@ any matter that is entered, recorded or stored; or
 
 he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding five hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both.
 
-Futures
+<!-- marginal: Futures -->
 
-37. (1) A futures broker shall appoint an auditor to audit brokers 10 its accounts including all segregated trust accounts appoint auditors. required to be kept by the futures broker under section 52, and where for any reason the auditor ceases to act for the futures broker, the futures broker shall, as soon as practicable thereafter, appoint another auditor to replace him.
+37. (1) A futures broker shall appoint an auditor to audit
+
+<!-- marginal: brokers 10 -->
+
+its accounts including all segregated trust accounts
+
+<!-- marginal: appoint -->
+
+<!-- marginal: auditors. -->
+
+required to be kept by the futures broker under section 52, and where for any reason the auditor ceases to act for the futures broker, the futures broker shall, as soon as practicable thereafter, appoint another auditor to replace him.
 
 (2) A futures broker shall, as soon as practicable, notify the Commission of the appointment of an auditor under subsection (1).
 
-Futures
+<!-- marginal: Futures -->
 
-38. (1) A futures broker shall— brokers to submit annual
+38. (1) A futures broker shall—
 
-(a) in respect of the financial year beginning before accounts, etc and ending after the day on which this Act comes into operation or the day on which the futures broker commences to carry on business as a futures broker, whichever is the later; and
+<!-- marginal: brokers to -->
+
+<!-- marginal: submit annual -->
+
+(a) in respect of the financial year beginning before
+
+<!-- marginal: accounts, etc -->
+
+and ending after the day on which this Act comes into operation or the day on which the futures broker commences to carry on business as a futures broker, whichever is the later; and
 
 (b) in respect of each subsequent financial year,
 
@@ -1284,9 +1636,21 @@ the Commission may, if it is satisfied that it is in the interest of the futures
 
 (4) An independent auditor appointed under this section shall, on the conclusion of the examination and audit referred to in subsection (1), submit a report thereon to the Commission.
 
-Power of
+<!-- marginal: Power of -->
 
-41. (1) An independent auditor appointed under section auditors 40 may, for the purpose of carrying out the examination appointed by the and audit under that section— Commission.
+41. (1) An independent auditor appointed under section
+
+<!-- marginal: auditors -->
+
+40 may, for the purpose of carrying out the examination
+
+<!-- marginal: appointed -->
+
+<!-- marginal: by the -->
+
+and audit under that section—
+
+<!-- marginal: Commission. -->
 
 (a) examine on oath any of the futures broker's directors, employees or agents and any other auditor appointed under this Act in relation to the books, accounts and records referred to in that section;
 
@@ -1332,17 +1696,47 @@ or record relating to the business of a futures broker; or
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding ten years or to both.
 
-Restriction on
+<!-- marginal: Restriction on -->
 
-43. Except as may be necessary for the carrying into auditor's and effect of the proyisions of this Act or so far as may be employee"s nghl to required for the purposes of any legal proceedings, divulge whether civil or criminal, an independent auditor certain matters. appointed under section 40 and any employee of such auditor shall not divulge any information which may come to his knowledge in the course of performing his duties as such auditor or employee, as the case may be, to any person other than—
+43. Except as may be necessary for the carrying into
+
+<!-- marginal: auditor's and -->
+
+effect of the proyisions of this Act or so far as may be
+
+<!-- marginal: employee"s -->
+
+<!-- marginal: nghl to -->
+
+required for the purposes of any legal proceedings,
+
+<!-- marginal: divulge -->
+
+whether civil or criminal, an independent auditor
+
+<!-- marginal: certain -->
+
+<!-- marginal: matters. -->
+
+appointed under section 40 and any employee of such auditor shall not divulge any information which may come to his knowledge in the course of performing his duties as such auditor or employee, as the case may be, to any person other than—
 
 (a) the Commission; and
 
 (b) in the case of an employee, the auditor by whom he is employed.
 
-Additional
+<!-- marginal: Additional -->
 
-44. Nothing in this Part shall prevent the Commission obligations or exchange company from imposing on a futures broker on futures broker. any further obligation or requirement which either of them thinks necessary with respect to—
+44. Nothing in this Part shall prevent the Commission
+
+<!-- marginal: obligations -->
+
+or exchange company from imposing on a futures broker
+
+<!-- marginal: on futures -->
+
+<!-- marginal: broker. -->
+
+any further obligation or requirement which either of them thinks necessary with respect to—
 
 (a) the audit of accounts;
 
@@ -1350,9 +1744,35 @@ Additional
 
 (c) the keeping of accounts, books and records.
 
-Maintenance
+<!-- marginal: Maintenance -->
 
-45. (1) Every futures trading adviser shall cause to be of books and kept such books and records, and file such reports, in records and furnishing such form and manner as may be prescribed by the of accounts, Commission. etc., by futures trading (2) Every futures trading adviser shall make full and adviser. complete disclosure to his subscribers or customers of all futures market positions taken or held by the futures trading adyiser on their behalf or, if a corporation, by any director, manager or employee of the corporation, whether directly or indirectly.
+45. (1) Every futures trading adviser shall cause to be
+
+<!-- marginal: of books and -->
+
+kept such books and records, and file such reports, in
+
+<!-- marginal: records and -->
+
+<!-- marginal: furnishing -->
+
+such form and manner as may be prescribed by the
+
+<!-- marginal: of accounts, -->
+
+Commission.
+
+<!-- marginal: etc., by -->
+
+<!-- marginal: futures -->
+
+<!-- marginal: trading -->
+
+(2) Every futures trading adviser shall make full and
+
+<!-- marginal: adviser. -->
+
+complete disclosure to his subscribers or customers of all futures market positions taken or held by the futures trading adyiser on their behalf or, if a corporation, by any director, manager or employee of the corporation, whether directly or indirectly.
 
 (3) The disclosures referred to in subsection (2) shall be in such form and manner as may be prescribed by
 
@@ -1508,9 +1928,13 @@ contract entered into by him, whether as principal or agent, make out a contract
 
 (n) the rate or amount of commission payable in respect of the contract.
 
-Trading as
+<!-- marginal: Trading as -->
 
-50. (1) A futures broker shall not, as principal, trade in pnncipal. futures contracts with a person who is not a futures broker unless he first informs the person with whom he is trading that he is acting in the transaction as principal and not as agent.
+50. (1) A futures broker shall not, as principal, trade in
+
+<!-- marginal: pnncipal. -->
+
+futures contracts with a person who is not a futures broker unless he first informs the person with whom he is trading that he is acting in the transaction as principal and not as agent.
 
 (2) A reference in this section to a futures broker trading or entering into a transaction as principal includes a reference—
 
@@ -1562,11 +1986,23 @@ times during the futures broker's ordinary hours of business, the futures broker
 
 (2) Subsection (1) does not require a futures broker to provide, or keep available for inspection, a copy of any contract note which relates to a dealing transacted or any account which relates to a dealing transacted more than five years before the date of the request.
 
-Segregation
+<!-- marginal: Segregation -->
 
-52. (1) Subject to this section, every futures broker of customer' shall— funds, etc.. by futures
+52. (1) Subject to this section, every futures broker
 
-(a) treat and deal with any money, security or brokers. document of title relating to any property received by him from a customer to margin, guarantee or secure a contract in futures trading, or accming to a customer as a result of such trading, as belonging to that customer; and
+<!-- marginal: of customer' -->
+
+shall—
+
+<!-- marginal: funds, etc.. -->
+
+<!-- marginal: by futures -->
+
+(a) treat and deal with any money, security or
+
+<!-- marginal: brokers. -->
+
+document of title relating to any property received by him from a customer to margin, guarantee or secure a contract in futures trading, or accming to a customer as a result of such trading, as belonging to that customer; and
 
 (b) account in a separate trust account, designated or evidenced as such, for any money, security or document of the title relating to any property received from the customer or accruing to the customer pursuant to paragraph (a),
 
@@ -1608,7 +2044,29 @@ and shall not commingle that money, security or property with the funds of the f
 
 (9) In this section, "customer" means a person on whose account a futures broker carries on trading in futures contracts but does not include directors, employees and representatives and related corporations of the futures broker.
 
-Risk 53. (1) No futures broker shall open a futures contract disclosure account for a customer unless he furnishes the customer by futures broker and with a separate written risk disclosure document which futures shall be in such form and manner as may be prescribed Irading adviser by the Commission, and receives from the customer an acknowledgement signed and dated by the customer that he has receiyed and understood the nature and contents of the risk disclosure document.
+<!-- marginal: Risk -->
+
+53. (1) No futures broker shall open a futures contract
+
+<!-- marginal: disclosure -->
+
+account for a customer unless he furnishes the customer
+
+<!-- marginal: by futures -->
+
+<!-- marginal: broker and -->
+
+with a separate written risk disclosure document which
+
+<!-- marginal: futures -->
+
+shall be in such form and manner as may be prescribed
+
+<!-- marginal: Irading -->
+
+<!-- marginal: adviser -->
+
+by the Commission, and receives from the customer an acknowledgement signed and dated by the customer that he has receiyed and understood the nature and contents of the risk disclosure document.
 
 (2) No futures trading adviser shall solicit or enter into an agreement with a prospective customer for the purpose of managing his futures trading account or guiding the customer's futures trading by means of a systematic programme that recommends specific transactions unless the futures trading adviser, at or before the time he engages in the solicitation or enters
 
@@ -1656,7 +2114,29 @@ contracts on behalf of the customer to be effected only on specified conditions 
 
 (3) In this section, "associated person" means a director, employee or representative of the futures broker and includes any corporation in which the futures broker has an interest in more than fifty per centum of the shares of that corporation or has the power to appoint or cause to be appointed a majority of the directors of that corporation or has the power to make or cause to be made decisions in respect of the business or administration of that corporation.
 
-Fixing of 55. (1) For the purpose of diminishing, eliminating or positions preventing excessive speculation in any futures contracts and trading or any class of futures contracts, the Commission or an limits in exchange company with the approval of the Commission futures contracts. may, by notice in writing from time to time, establish, fix or vary such limits as it considers necessary on the amount of trading which may be done or positions which may be held by any person under a futures contract on a futures market or subject to the business rules of the futures market.
+<!-- marginal: Fixing of -->
+
+55. (1) For the purpose of diminishing, eliminating or
+
+<!-- marginal: positions -->
+
+preventing excessive speculation in any futures contracts
+
+<!-- marginal: and -->
+
+<!-- marginal: trading -->
+
+or any class of futures contracts, the Commission or an
+
+<!-- marginal: limits in -->
+
+exchange company with the approval of the Commission
+
+<!-- marginal: futures -->
+
+<!-- marginal: contracts. -->
+
+may, by notice in writing from time to time, establish, fix or vary such limits as it considers necessary on the amount of trading which may be done or positions which may be held by any person under a futures contract on a futures market or subject to the business rules of the futures market.
 
 (2) In determining whether a person has exceeded the limits referred to in subsection (1), the positions held and trading done by any persons directly or indirectly controlled by such a person shall be included with the positions held and trading done by that person.
 
@@ -1702,11 +2182,31 @@ offence and shall be liable on conviction to a fine not exceeding one million ri
 
 <!-- page 54 -->
 
-Establishment 58. (1) An exchange company shall establish and of fidelily maintain a fidelity fund which shall be administered by fund. a committee on behalf of the exchange company.
+<!-- marginal: Establishment -->
+
+58. (1) An exchange company shall establish and
+
+<!-- marginal: of fidelily -->
+
+maintain a fidelity fund which shall be administered by
+
+<!-- marginal: fund. -->
+
+a committee on behalf of the exchange company.
 
 (2) The assets of the fidelity fund shall be the property of the exchange company but shall be kept separate from all other property of the exchange company and shall be held in trust for the purposes set out in this Part.
 
-Fidelity 59. (1) A committee to be known as the fidelity fund fund committee shall be constituted and shall consist of the committee. members of the Board of Directors appointed by the Minister under paragraph 5 ( 2 ) ( c ), other than the Executive Chairman, and three other members who shall be appointed by the exchange company on such terms and conditions including remuneration and other allowances which shall be specified in the letters of appointment.
+<!-- marginal: Fidelity -->
+
+59. (1) A committee to be known as the fidelity fund
+
+<!-- marginal: fund -->
+
+committee shall be constituted and shall consist of the
+
+<!-- marginal: committee. -->
+
+members of the Board of Directors appointed by the Minister under paragraph 5 ( 2 ) ( c ), other than the Executive Chairman, and three other members who shall be appointed by the exchange company on such terms and conditions including remuneration and other allowances which shall be specified in the letters of appointment.
 
 (2) The committee shall be responsible to the exchange company and shall exercise on behalf of the exchange company such of the powers, duties and functions of the exchange company as may be delegated to the committee by the exchange company.
 
@@ -1714,7 +2214,15 @@ Fidelity 59. (1) A committee to be known as the fidelity fund fund committee sha
 
 (4) The exchange company may at any time remove any member of the committee appointed under this section and may fill any vacancy howsoever arising.
 
-Money 60. The fidelity fund of an exchange company shall constiluling consist of— fidelity fund.
+<!-- marginal: Money -->
+
+60. The fidelity fund of an exchange company shall
+
+<!-- marginal: constiluling -->
+
+consist of—
+
+<!-- marginal: fidelity fund. -->
 
 (a) all moneys paid to the exchange company by futures brokers in accordance with the provisions of this Part;
 
@@ -1788,13 +2296,45 @@ accounts and a balance-sheet in respect of such accounts to be made out as at th
 
 (4) Not later than six months after the end of each financial year, the exchange company shall cause a copy of the audited profit and loss accounts and balance-sheet of its fidelity fund to be sent to the Commission together with the auditor's report.
 
-Contributions 64. (1) A futures broker shall, upon being licensed to fidelily under this Act, pay to the exchange company the amount fund. of thirty thousand ringgit as a contribution to the fidelity fund and shall thereafter on or before the thirty-first of December in each of the five years following in which he is licensed pay to the exchange company the amount of ten thousand ringgit as a contribution to the fidelity fund.
+<!-- marginal: Contributions -->
+
+64. (1) A futures broker shall, upon being licensed
+
+<!-- marginal: to fidelily -->
+
+under this Act, pay to the exchange company the amount
+
+<!-- marginal: fund. -->
+
+of thirty thousand ringgit as a contribution to the fidelity fund and shall thereafter on or before the thirty-first of December in each of the five years following in which he is licensed pay to the exchange company the amount of ten thousand ringgit as a contribution to the fidelity fund.
 
 (2) All contributions made under this section shall not be refundable.
 
 (3) Notwithstanding anything in this section, the exchange company may, from time to time with the approval of the Commission, vary the amount and the manner of the contribution by futures brokers to the fidelity fund.
 
-Power of 65. (1) An exchange company may, from time to time exchange from its general funds, give or advance on such terms company as the exchange company thinks fit any sum of money to make advances to its fidelity fund. to fidelity fund. (2) Any money advanced under subsection (1) may from time to time be repaid from the fidelity fund to the general funds of the exchange company.
+<!-- marginal: Power of -->
+
+65. (1) An exchange company may, from time to time
+
+<!-- marginal: exchange -->
+
+from its general funds, give or advance on such terms
+
+<!-- marginal: company -->
+
+as the exchange company thinks fit any sum of money
+
+<!-- marginal: to make -->
+
+<!-- marginal: advances -->
+
+to its fidelity fund.
+
+<!-- marginal: to fidelity -->
+
+<!-- marginal: fund. -->
+
+(2) Any money advanced under subsection (1) may from time to time be repaid from the fidelity fund to the general funds of the exchange company.
 
 <!-- page 57 -->
 
@@ -1850,9 +2390,35 @@ or receivable by him in reduction of the loss from any source other than the fid
 
 (5) In addition to any compensation payable under this Part, interest shall be payable out of the fidelity fund concerned on the amount of the compensation less any amount attributable to costs and disbursements at the rate of eight per centum per annum calculated from the day upon which the default was committed and continuing until the day upon which the claim is satisfied.
 
-Limits on 68. The amount that may be paid to any person, and the compensation amount or the aggregate of the amounts that may be paid in respect of any futures broker as compensation under subsection 67(1), shall be limited to the amounts specified in the rules of the exchange company.
+<!-- marginal: Limits on -->
 
-Notice 69. (1) Where an exchange company has reason to calling for believe that a futures broker has committed a default claims against the which might give rise to compensation under this Part, fidelity the exchange company shall cause to be published in two fund. daily newspapers published and circulated generally in Malaysia, one in the national language and one in the English language, a notice specifying a date, not being earlier than three months after publication of the notice, on or before which claims for compensation from the fidelity fund may be made in relation to the futures broker specified in the notice.
+68. The amount that may be paid to any person, and the
+
+<!-- marginal: compensation -->
+
+amount or the aggregate of the amounts that may be paid in respect of any futures broker as compensation under subsection 67(1), shall be limited to the amounts specified in the rules of the exchange company.
+
+<!-- marginal: Notice -->
+
+69. (1) Where an exchange company has reason to
+
+<!-- marginal: calling for -->
+
+believe that a futures broker has committed a default
+
+<!-- marginal: claims -->
+
+<!-- marginal: against the -->
+
+which might give rise to compensation under this Part,
+
+<!-- marginal: fidelity -->
+
+the exchange company shall cause to be published in two
+
+<!-- marginal: fund. -->
+
+daily newspapers published and circulated generally in Malaysia, one in the national language and one in the English language, a notice specifying a date, not being earlier than three months after publication of the notice, on or before which claims for compensation from the fidelity fund may be made in relation to the futures broker specified in the notice.
 
 (2) Where any person wishes to claim compensation from a fidelity fund under this Part, he shall make a claim in writing to the exchange company—
 
@@ -1902,9 +2468,23 @@ allowing the claim.
 
 determination of the appeal.
 
-Exchange
+<!-- marginal: Exchange -->
 
-71. (1) An exchange company may require any person company to produce any futures contracts, documents or may require production statements— of documents, etc.
+71. (1) An exchange company may require any person
+
+<!-- marginal: company -->
+
+to produce any futures contracts, documents or
+
+<!-- marginal: may require -->
+
+<!-- marginal: production -->
+
+statements—
+
+<!-- marginal: of documents, -->
+
+<!-- marginal: etc. -->
 
 (a) in order to substantiate any claim for compensation under this Part;
 
@@ -1914,9 +2494,27 @@ Exchange
 
 (2) Where any claimant who is required by an exchange company to produce any futures contract, document or statement under subsection (1) fails to produce it within thirty days or such longer period as the exchange company may allow in any particular case, the exchange company may, if it is satisfied that the futures contracts, documents or statements of evidence are in the possession of or available to the claimant, disallow the claimant's claim.
 
-Right of
+<!-- marginal: Right of -->
 
-72. Any person who is aggrieved by a determination appeal agamst made by an exchange company under section 70 or determination of the subsection 71(2) may, within one month after he is . exchange notified of the determination, appeal to the Commission company. whose decision shall be final.
+72. Any person who is aggrieved by a determination
+
+<!-- marginal: appeal agamst -->
+
+made by an exchange company under section 70 or
+
+<!-- marginal: determination -->
+
+<!-- marginal: of the -->
+
+subsection 71(2) may, within one month after he is .
+
+<!-- marginal: exchange -->
+
+notified of the determination, appeal to the Commission
+
+<!-- marginal: company. -->
+
+whose decision shall be final.
 
 <!-- page 61 -->
 
@@ -2020,17 +2618,77 @@ claimants in such manner as the exchange company thinks equitable, and upon paym
 
 shall be absolutely discharged.
 
-Power of 76. (1) An exchange company may insure its fidelity exchange fund with any registered insurance business in Malaysia company to enter into for the purposes of insuring the fidelity fund against any contract of depletions due to claims under this Part. msurance and (2) A claimant against the fidelity fund shall not have application of any right or action against any insurer with whom a proceeds. contract of insurance or indemnity is made under this section, nor have any right or claim in respect of any money paid by the insurer in accordance with any such contract.
+<!-- marginal: Power of -->
 
-Exchange 77. (1) Notwithstanding anything in this Part, an company's exchange company shall be fully liable and shall indemnity. indemnify futures brokers for its own default.
+76. (1) An exchange company may insure its fidelity
 
-(2) A claimant against the fidelity
+<!-- marginal: exchange -->
 
-<!-- marginal: fund for -->
+fund with any registered insurance business in Malaysia
 
-compensation due to the defalcation of a futures broker and any other person suffering pecuniary loss due to the defalcation of futures brokers shall not have any right of action against the exchange company personally and may only claim against such broker and the fidelity fund, as the case may be.
+<!-- marginal: company to -->
 
-Money m 78. In the event of an exchange company being wound the fidelity up under the Companies Act 1965, the exchange fund upon winding-up company shall, after the satisfaction of all outstanding of the liabilities against its fidelity fund, make available to the exchange company. liquidator of the exchange company the balance of the amount available in the fidelity fund which shall form part of the assets of the exchange company and be available to the liquidator for distribution in accordance with the Companies Act 1965.
+<!-- marginal: enter into -->
+
+for the purposes of insuring the fidelity fund against any
+
+<!-- marginal: contract of -->
+
+depletions due to claims under this Part.
+
+<!-- marginal: msurance -->
+
+<!-- marginal: and -->
+
+(2) A claimant against the fidelity fund shall not have
+
+<!-- marginal: application -->
+
+<!-- marginal: of -->
+
+any right or action against any insurer with whom a
+
+<!-- marginal: proceeds. -->
+
+contract of insurance or indemnity is made under this section, nor have any right or claim in respect of any money paid by the insurer in accordance with any such contract.
+
+<!-- marginal: Exchange -->
+
+77. (1) Notwithstanding anything in this Part, an
+
+<!-- marginal: company's -->
+
+exchange company shall be fully liable and shall
+
+<!-- marginal: indemnity. -->
+
+indemnify futures brokers for its own default.
+
+(2) A claimant against the fidelity fund for compensation due to the defalcation of a futures broker and any other person suffering pecuniary loss due to the defalcation of futures brokers shall not have any right of action against the exchange company personally and may only claim against such broker and the fidelity fund, as the case may be.
+
+<!-- marginal: Money m -->
+
+78. In the event of an exchange company being wound
+
+<!-- marginal: the fidelity -->
+
+up under the Companies Act 1965, the exchange
+
+<!-- marginal: fund upon -->
+
+<!-- marginal: winding-up -->
+
+company shall, after the satisfaction of all outstanding
+
+<!-- marginal: of the -->
+
+liabilities against its fidelity fund, make available to the
+
+<!-- marginal: exchange -->
+
+<!-- marginal: company. -->
+
+liquidator of the exchange company the balance of the amount available in the fidelity fund which shall form part of the assets of the exchange company and be available to the liquidator for distribution in accordance with the Companies Act 1965.
 
 <!-- page 63 -->
 
@@ -2108,25 +2766,63 @@ likely to operate as a fraud or deception, of that other person; or
 
 (c) make any false statement of a material fact, or omit to state a material fact necessary in order to make the statements made, in the light of the circumstances under which they were made, not misleading.
 
-False or
+<!-- marginal: False or -->
 
-84. No person shall, directly or indirectly, for the misleading purposes of inducing the purchase or sale of a futures statements contract, make—
+84. No person shall, directly or indirectly, for the
+
+<!-- marginal: misleading -->
+
+purposes of inducing the purchase or sale of a futures
+
+<!-- marginal: statements -->
+
+contract, make—
 
 (a) any statement which, at the time and in the light of the circumstances in which it is made, is false, misleading or deceptive with respect to any material fact; or
 
 (b) any statement which, by reason of the omission of a material fact, is rendered false or misleading.
 
-Restriction on
+<!-- marginal: Restriction on -->
 
-85. (1) No employee of an exchange company or a employees clearing house shall— of exchange company and
+85. (1) No employee of an exchange company or a
 
-(a) engage directly or indirectly in trading in futures clearing house. contracts; or
+<!-- marginal: employees -->
+
+clearing house shall—
+
+<!-- marginal: of exchange -->
+
+<!-- marginal: company and -->
+
+(a) engage directly or indirectly in trading in futures
+
+<!-- marginal: clearing -->
+
+<!-- marginal: house. -->
+
+contracts; or
 
 (b) directly or indirectly make unauthorised disclosure of any confidential, financial or other information that may come into his possession as a result of his function as an employee of the exchange company or clearing house.
 
-Prohibition
+<!-- marginal: Prohibition -->
 
-86. Any person who, in relation to trading in futures of abuse of contracts, has any information which if generally known information might reasonably be expected to affect materially the obtamed in officia1 price of the subject-matter of such trading and which— capacity.
+86. Any person who, in relation to trading in futures
+
+<!-- marginal: of abuse of -->
+
+contracts, has any information which if generally known
+
+<!-- marginal: information -->
+
+might reasonably be expected to affect materially the
+
+<!-- marginal: obtamed in -->
+
+<!-- marginal: officia1 -->
+
+price of the subject-matter of such trading and which—
+
+<!-- marginal: capacity. -->
 
 (a) he holds by virtue of his official capacity or former official capacity;
 
@@ -2180,13 +2876,27 @@ transactions, conditions, assets or accounts of the exchange company, futures br
 
 ## ENFORCEMENT AND INVESTIGATION
 
-Interpretation. 89. In this Part, unless the context otherwise requires—
+<!-- marginal: Interpretation. -->
+
+89. In this Part, unless the context otherwise requires—
 
 "book" includes any register or other record of information, any accounts or accounting record, however compiled, recorded or stored, and any document;
 
 "Investigating Officer" means an Investigating Officer of the Commission appointed under the Securities Commission Act 1992.
 
-Powers 90. (1) An Investigating Officer shall have all the of the powers to carry out investigation of any offence under Investigating this Act. Officer.
+<!-- marginal: Powers -->
+
+90. (1) An Investigating Officer shall have all the
+
+<!-- marginal: of the -->
+
+powers to carry out investigation of any offence under
+
+<!-- marginal: Investigating -->
+
+this Act.
+
+<!-- marginal: Officer. -->
 
 (2) An Investigating Officer carrying out an investigation or inspection under this Act may enter any place or building and may—
 
@@ -2256,7 +2966,13 @@ IX
 
 ## GENERAL
 
-Conduct of 93. (1) No prosecution for any offence under this Act prosecution. shall be instituted except with the consent in writing of the Public Prosecutor.
+<!-- marginal: Conduct of -->
+
+93. (1) No prosecution for any offence under this Act
+
+<!-- marginal: prosecution. -->
+
+shall be instituted except with the consent in writing of the Public Prosecutor.
 
 (2) Any officer of the Commission authorised in writing by the Chairman of the Commission may conduct any prosecution for any offence under this Act.
 
@@ -2300,15 +3016,39 @@ as the Commission may require.
 
 (2) If any exchange company, clearing house or any licensed person fails to comply with any requirement under subsection (1), the exchange company, clearing house or licensed person, as the case may be, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding ten years or to both.
 
-General 96. Any person who is guilty of an offence under this penalty. Act for which no penalty is expressly provided shall be liable, on corwiction, to a fine not exceeding five hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both.
+<!-- marginal: General -->
 
-Compounding 97. (1) The Licensing Officer, in a case where he deems of offences. it fit to do so, may compound any offence committed by any person under Part III or IV by making a written offer to such person to compound the offence upon payment to the Licensing Officer of such sum of money within such time as may be specified in the offer.
+96. Any person who is guilty of an offence under this
+
+<!-- marginal: penalty. -->
+
+Act for which no penalty is expressly provided shall be liable, on corwiction, to a fine not exceeding five hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both.
+
+<!-- marginal: Compounding -->
+
+97. (1) The Licensing Officer, in a case where he deems
+
+<!-- marginal: of offences. -->
+
+it fit to do so, may compound any offence committed by any person under Part III or IV by making a written offer to such person to compound the offence upon payment to the Licensing Officer of such sum of money within such time as may be specified in the offer.
 
 (2) An offer under subsection (1) may be made at any time after the offence has been committed, but before any prosecution for it has been instituted, and where the amount specified in the offer is not paid within the time specified in the offer or within such extended period as the Licensing Officer may grant, prosecution for the offence may be instituted at any time thereatter against the person to whom the offer was made.
 
 (3) Where an offence has been compounded under subsection (1), no prosecution shall thereafter be instituted in respect of such offence against the person to whom the offer to compound was made.
 
-Coiwicted 98. (1) A person who contravenes any of the provisions persons of this Act and has been corwicted of an offence in liable to pay compensation. respect of the contravention shall be liable to pay compensation to any other person who, in trading in futures contracts with the first-mentioned person or a
+<!-- marginal: Coiwicted -->
+
+98. (1) A person who contravenes any of the provisions
+
+<!-- marginal: persons -->
+
+of this Act and has been corwicted of an offence in
+
+<!-- marginal: liable to pay -->
+
+<!-- marginal: compensation. -->
+
+respect of the contravention shall be liable to pay compensation to any other person who, in trading in futures contracts with the first-mentioned person or a
 
 <!-- page 71 -->
 
@@ -2362,13 +3102,65 @@ connection with a futures contract shall not be regarded as short selling within
 
 (b) a futures contract lawfully made under this Act shall not be regarded as a gaming or wagering contract.
 
-Restnction 101. The trading in futures contracts in a futures market on business shall be in respect of such instruments as may be m a futures market. approved by the Commission from time to time.
+<!-- marginal: Restnction -->
 
-Tradmg 102. (1) A futures broker shall not trade in futures in futures contracts in any futures exchange outside Malaysia contracts outside except in the futures market of a Specified Exchange. Malaysia. (2) Any futures broker who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding ten years or to both.
+101. The trading in futures contracts in a futures market
 
-Deposits to 103. A futures broker shall not trade in the futures be paid for market of a Specified Exchange unless he has paid to tradmg m Specified the Commission a deposit of not less than one hundred Exchanges. thousand ringgit in cash or in such other form as the Commission may allow.
+<!-- marginal: on business -->
 
-Settlemenl 104. Any dispute arising out of the business of trading of disputes in futures contracts in the futures market of an exchange company—
+shall be in respect of such instruments as may be
+
+<!-- marginal: m a futures -->
+
+<!-- marginal: market. -->
+
+approved by the Commission from time to time.
+
+<!-- marginal: Tradmg -->
+
+102. (1) A futures broker shall not trade in futures
+
+<!-- marginal: in futures -->
+
+contracts in any futures exchange outside Malaysia
+
+<!-- marginal: contracts -->
+
+<!-- marginal: outside -->
+
+except in the futures market of a Specified Exchange.
+
+<!-- marginal: Malaysia. -->
+
+(2) Any futures broker who contravenes subsection
+
+(1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding ten years or to both.
+
+<!-- marginal: Deposits to -->
+
+103. A futures broker shall not trade in the futures
+
+<!-- marginal: be paid for -->
+
+market of a Specified Exchange unless he has paid to
+
+<!-- marginal: tradmg m -->
+
+<!-- marginal: Specified -->
+
+the Commission a deposit of not less than one hundred
+
+<!-- marginal: Exchanges. -->
+
+thousand ringgit in cash or in such other form as the Commission may allow.
+
+<!-- marginal: Settlemenl -->
+
+104. Any dispute arising out of the business of trading
+
+<!-- marginal: of disputes -->
+
+in futures contracts in the futures market of an exchange company—
 
 (a) between futures brokers;
 
@@ -2378,7 +3170,19 @@ Settlemenl 104. Any dispute arising out of the business of trading of disputes i
 
 shall not be taken to Court unless all the facilities for the settlement thereof as provided in this Act or regulations made under this Act or the business rules have been exhausted.
 
-Prohibition 105. (1) Unless the Commission otherwise permits, no of use of person other than an exchange company shall take or use, certain titles or have attached to or exhibited at any place, any title which resembles the title "Futures Exchange" or any title
+<!-- marginal: Prohibition -->
+
+105. (1) Unless the Commission otherwise permits, no
+
+<!-- marginal: of use of -->
+
+person other than an exchange company shall take or use,
+
+<!-- marginal: certain -->
+
+<!-- marginal: titles -->
+
+or have attached to or exhibited at any place, any title which resembles the title "Futures Exchange" or any title
 
 <!-- page 73 -->
 
@@ -2418,15 +3222,65 @@ may be expedient or necessary for the better carryine out make . 01 the provisio
 
 (b) may provide for the imposition of penalties which shall not exceed one hundred thousand ringgit for such offence.
 
-Exemption 107. The provisions of this Act shall not apply to a m respect of Stock Exchange established under the Securities Industry Secunties Industry Act 1983 and trading in futures contracts under this Act Act 1983. shall not be deemed to be dealing in securities under the Securities Industry Act 1983.
+<!-- marginal: Exemption -->
 
-Exemption 108. The provisions of this Act shall not apply to a in respect of Commodities Exchange and trading in commodities Commdities Trading futures contracts as provided by the Commodities Act 1985. Trading Act 1985 and trading in futures contracts under Act 324. this Act shall not be deemed to be trading in commodities futures contracts under the Commodities Trading Act 1985.
+107. The provisions of this Act shall not apply to a
 
-offshore 109. Ttie provisions of this Act that relate to a person bank, carrying on the business of a futures trading adyiser shall offshore , company, etc., not apply ——
+<!-- marginal: m respect of -->
 
-(a) to a licensed offshore bank as defined in the Offshore Banking Act 1990; Act 443-
+Stock Exchange established under the Securities Industry
 
-(b) to an offshore company or a foreign offshore company, as defined in the Offshore Companies Act441 Act 1990,
+<!-- marginal: Secunties -->
+
+<!-- marginal: Industry -->
+
+Act 1983 and trading in futures contracts under this Act
+
+<!-- marginal: Act 1983. -->
+
+shall not be deemed to be dealing in securities under the Securities Industry Act 1983.
+
+<!-- marginal: Exemption -->
+
+108. The provisions of this Act shall not apply to a
+
+<!-- marginal: in respect of -->
+
+Commodities Exchange and trading in commodities
+
+<!-- marginal: Commdities -->
+
+<!-- marginal: Trading -->
+
+futures contracts as provided by the Commodities
+
+<!-- marginal: Act 1985. -->
+
+Trading Act 1985 and trading in futures contracts under
+
+<!-- marginal: Act 324. -->
+
+this Act shall not be deemed to be trading in commodities futures contracts under the Commodities Trading Act 1985.
+
+offshore 109. Ttie provisions of this Act that relate to a person
+
+<!-- marginal: bank, -->
+
+carrying on the business of a futures trading adyiser shall
+
+<!-- marginal: offshore -->
+
+, company, etc., not apply ——
+
+(a) to a licensed offshore bank as defined in the Offshore Banking Act 1990;
+
+<!-- marginal: Act 443- -->
+
+(b) to an offshore company or a foreign offshore company, as defined in the Offshore Companies
+
+<!-- marginal: Act441 -->
+
+Act 1990,
 
 such bank or company gives advice on futures contracts within the meaning of this Act to any person who is not a resident.
 
@@ -2686,9 +3540,7 @@ IX
 
 100. Clause 106 empowers the Minister to make regulations for the purposes of the proposed Act.
 
-101. Clauses 107, 108 and 109 contain exemption provisions in relation to the Securities Industry Act 1983, Commodities Trading Act 1985, Offshore Banking Act 1990 and Offshore Companies Act
-
-1990.
+101. Clauses 107, 108 and 109 contain exemption provisions in relation to the Securities Industry Act 1983, Commodities Trading Act 1985, Offshore Banking Act 1990 and Offshore Companies Act 1990.
 
 ## FINANCIAL
 

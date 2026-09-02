@@ -290,7 +290,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/42/msa@/~cl_13",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (3)— Pindaan seksyen 48a"
+        "@value": "dalam subseksyen (3)—"
       }
     },
     {
@@ -310,7 +310,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/42/msa@/~cl_13__para_c",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan perkataan “or aircraft” dengan perkataan “, aircraft or train”."
+        "@value": "dengan menggantikan perkataan “or aircraft” dengan perkataan “, aircraft or train”. Pindaan seksyen 48a"
       }
     },
     {

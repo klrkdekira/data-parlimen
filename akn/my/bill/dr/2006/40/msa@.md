@@ -134,11 +134,13 @@ then the customs ruling which was made prior to the amendment, modification or r
 
 (bb) be liable for a second offence or any subsequent offence to a fine of not less than twenty times the amount of the customs duty and of not more than forty times the amount of the customs duty, or to imprisonment for a term not exceeding five years or to both:
 
-Provided that when the amount of the customs duty cannot be ascertained, the penalty may amount to a fine not exceeding five hundred thousand ringgit or
+Provided that when the amount of the customs duty cannot be ascertained, the penalty may amount to a fine not
 
-<!-- marginal: to -->
+<!-- marginal: exceeding -->
 
-imprisonment for a term not exceeding five years or to both;" and
+five hundred thousand ringgit or to imprisonment for a term not exceeding five years or to
+
+<!-- marginal: both;" and -->
 
 (b) dengan menggantikan subperenggan (l)(a)(m) dengan subperenggan yang berikut:
 
@@ -424,7 +426,9 @@ fa J to affirm the decision of the Director General;
 
 141z. (1) The Tribunal may, at the conclusion of the proceedings before it, order that any document, record, material, thing, goods or other property produced during the proceedings be delivered to the rightful owner or be disposed of in such manner as it thinks fit.
 
-(2) Where no person has taken delivery of the document, record, material, things, goods or other property referred to in subsection (1) after a period of six months, the ownership in the document, record, material, thing, goods or other property shall be deemed to have passed to and become vested in the Government.
+(2) Where no person has taken delivery of the document, record, material, things, goods or other property referred to in subsection
+
+(1) after a period of six months, the ownership in the document, record, material, thing, goods or other property shall be deemed to have passed to and become vested in the Government.
 
 ### Act or omission done in good faith
 
@@ -518,4 +522,4 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Kastam 1967 ("Akta 235").
 
 Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya belum dapat ditentukan sekarang ini.
 
-[PN(U2)2559]
+<!-- marginal: [PN(U2)2559] -->

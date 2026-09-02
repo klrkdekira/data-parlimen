@@ -1,0 +1,3325 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-31-2014",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Malaysian Airline System Berhad (Administration) Bill 2014"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_I__cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_I__cl_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY short title and commencement"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_17"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ADMINISTRATION Placement of the company, etc., under administration"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_23"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PROPOSAL OF ADMINISTRATOR AND APPOINTMENT OF INDEPENDENT ADVISOR administrator may re-negotiate contracts or prepare proposal or both"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_18__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_18__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_18__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_18__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_18__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Administrator may, in the administration of the Administered Companies, at his sole discretion, take any one or both of the following actions:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_18__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_18__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "re-negotiate the terms and conditions of any contracts or agreements of the Administered Companies with the counterparties;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_18__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_18__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "prepare a proposal with respect to the Administered Companies or any claims and liabilities against or of the Administered Companies."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The proposal referred to in subsection (1)(b) may include any provision as the Administrator thinks fit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_18__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_18__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_18__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to the generality of subsection (2), the proposal may provide for the transfer of any property, business or liability of the Administered Companies to a person named in the proposal—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_18__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_18__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by means of vesting under Part V; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_18__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_18__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in accordance with the relevant law applicable to effect the transfer of such property, business or liability."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_18__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Administrator shall, upon the completion of the proposal under subsection (1), submit the proposal to the Independent Advisor and the appointer. appointment and qualifications of independent advisor"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_19__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon being notified by the Administrator that a proposal will be prepared under section 18, the appointer shall appoint an Independent Advisor."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_19__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_19__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_19__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No person shall be appointed as an Independent Advisor unless—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_19__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_19__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the person has consented in writing to the appointment;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_19__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_19__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the person is independent of the appointer, management and board of directors of the Administered Companies and the Malaysia Airlines Berhad, and has no interest whatsoever in the Administered Companies and the Malaysia Airlines Berhad; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_19__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_19__subsec_2__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_19__subsec_2__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_19__subsec_2__para_c__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_19__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the person is—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_19__subsec_2__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_19__subsec_2__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an investment bank;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_19__subsec_2__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_19__subsec_2__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a firm of accountants; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_19__subsec_2__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_19__subsec_2__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a person (other than a natural person) who is permitted to carry on the activity of advising on corporate finance which is a regulated activity under the Capital Markets and Services Act 2007 [Act 671] and who, in the opinion of the appointer, has the requisite experience or is capable of performing the duties of an Independent Advisor. review of proposal by independent advisor"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_20__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_20__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_20__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_20__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Independent Advisor shall carry out a review of the proposal prepared by the Administrator under section 18."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_20__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_20__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_20__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In reviewing the proposal, the Independent Advisor may take into consideration—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_20__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_20__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the interests of all persons affected by the proposal, including the creditors, the Administered Companies and the Malaysia Airlines Berhad, if applicable, giving each category of persons affected by the proposal such weightage as he thinks fit; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_20__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_20__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "such other matters or consideration as the Independent Advisor may consider relevant or appropriate under the circumstances."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_20__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon the completion of the review, the Independent Advisor shall prepare a report on his review and submit the report to the Administrator and the appointer. decision of the appointer"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_21__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_21__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_21__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_21__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The appointer shall consider the proposal of the Administrator together with the report of the Independent Advisor submitted to the appointer under subsection 20(3)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_21__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the appointer approves the proposal, the Administrator shall implement the proposal in accordance with its terms."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_21__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_21__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_21__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_21__subsec_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the appointer rejects the proposal, the appointer may—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_21__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_21__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "direct the Administrator to revise the proposal;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_21__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_21__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "direct the Administrator to prepare a new proposal; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_21__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_21__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "terminate the administration of the Administered Companies. implementation of proposal"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_22__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_22__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_22__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_22__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_22__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_22__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_22__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the approval of a regulatory body is required to implement the proposal and conditions are imposed by the regulatory body, the Administrator shall refer the conditions imposed to the appointer."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_22__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_22__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_22__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_22__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the appointer thinks that the conditions are not in the interest of the Administered Companies, the appointer may—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_22__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_22__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "direct the Administrator to revise the proposal;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_22__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_22__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "direct the Administrator to prepare a new proposal; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_22__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_22__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "terminate the administration of the Administered Companies."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_22__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Prior to the implementation of the proposal, the Administrator shall send a copy of the proposal and the report of the Independent Advisor by registered post to the last-known address of or through electronic medium to each of the creditors of the Administered Companies affected by the proposal and any other persons affected by the terms of the proposal."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_22__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding the provisions of any law or contract, the Administrator shall have the power to implement and do all things necessary to fully and effectively carry out and give effect to the proposal or any part of the proposal without the need for any notice to or approval or consent of any member or creditor of the Administered Companies or any other person affected by the proposal and the proposal shall be binding on the Administered Companies, the creditors of the Administered Companies and all persons affected by the terms of the proposal, including the Malaysia Airlines Berhad, if applicable."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_22__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_22__subsec_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_22__subsec_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding anything to the contrary in any law of guarantee—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_22__subsec_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_22__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the implementation of a proposal under this section shall not release or discharge any security provided by any person to secure any duty or liability owed by the Administered Companies to any of its creditor; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_22__subsec_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_22__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "each such security and any such duty or liability of the person providing the security shall remain valid and enforceable against that person notwithstanding the implementation of the proposal, or any compromise, arrangement, reconstruction or amalgamation in connection with the Administered Companies."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_22__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding the failure to notify any creditors of the Administered Companies and persons affected by the terms of the proposal in accordance with the requirements of subsection (3), such failure shall not affect the validity of the proposal. transfer of property or liabilities"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_23__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_23__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_23__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the proposal directs that property or liabilities are to be transferred, the Administrator shall transfer the property or liabilities to the transferee in accordance with the vesting provisions under Part V and the terms and conditions set out in the proposal."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_23__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_III__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purpose of this section, a reference to “Malaysia Airlines Berhad” in Part V shall be construed as a reference to the proposed transferee named in the proposal."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_l",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_m",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_n",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_o",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_p",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_q",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_r",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_s",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_t",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_u",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_v",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_w",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_x"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In performing his functions under section 9, the Administrator shall have the following powers:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to carry on the business of the Administered Companies;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to do all things (including the carrying out of works) as may be necessary for the management, realization and preservation of the property, undertakings and affairs of the Administered Companies;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to appoint any person as a director of any of the Administered Companies, whether to fill a vacancy or otherwise, and to remove or suspend from office any director of the Administered Companies notwithstanding the Memorandum and Articles of Association or any other law;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to take possession of the property of the Administered Companies and for that purpose, to take such proceedings as may seem to him expedient;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to sell or otherwise dispose of all or part of the property, business, undertaking or property of the Administered Companies by public auction or private contract;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to raise or borrow money and grant security over the property of the Administered Companies for the raising or borrowing of such money;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to appoint a solicitor or an accountant, or other professionally qualified person to assist him in the performance of his functions;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to bring or defend any action or other legal proceedings in the name and on behalf of the Administered Companies;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to refer to arbitration any question affecting the Administered Companies;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to effect and maintain insurances in respect of the property of the Administered Companies;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to use the common seal of the Administered Companies;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to do all acts and to execute in the name and on behalf of the Administered Companies any deed, receipt or other document;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_m",
+      "@type": "akn:paragraph",
+      "eli:number": "m",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to draw, accept, make and endorse any bill of exchange or promissory note in the name and on behalf of the Administered Companies;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_n",
+      "@type": "akn:paragraph",
+      "eli:number": "n",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to employ or terminate employees, and to determine the compensation payable to such dismissed employees;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_o",
+      "@type": "akn:paragraph",
+      "eli:number": "o",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to transfer any property, business, liabilities and affairs of the Administered Companies to the Malaysia Airlines Berhad or any of the Malaysia Airlines Berhad’s subsidiary companies;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_p",
+      "@type": "akn:paragraph",
+      "eli:number": "p",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to purchase the shares, property and equipment of any company, in which the Administered Companies are existing shareholders, that supplies goods or services or both which are essential to ensure the uninterrupted continuation of the business vested or to be vested in the Malaysia Airlines Berhad pursuant to Part V;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_q",
+      "@type": "akn:paragraph",
+      "eli:number": "q",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to grant or accept a surrender of a lease or tenancy of the property of the Administered Companies, and to take a lease or tenancy of any property required or convenient for the property of the Administered Companies;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_r",
+      "@type": "akn:paragraph",
+      "eli:number": "r",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to call up any uncalled capital of the Administered Companies, alter or reduce all or part of the share capital of the Administered Companies;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_s",
+      "@type": "akn:paragraph",
+      "eli:number": "s",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to rank and claim in the bankruptcy, insolvency or liquidation of any person indebted to the Administered Companies and to receive dividends, and to accede to trust deeds for the creditors of any such person;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_t",
+      "@type": "akn:paragraph",
+      "eli:number": "t",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to present or defend a petition for the winding up of the Administered Companies;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_u",
+      "@type": "akn:paragraph",
+      "eli:number": "u",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to change the location of any of the Administered Companies’ registered offices;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_v",
+      "@type": "akn:paragraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to appoint any agent to do any business which the Administrator is unable to do himself or which can more conveniently be done by an agent;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_w",
+      "@type": "akn:paragraph",
+      "eli:number": "w",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to make any payment which is necessary or incidental to the performance of his functions; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10__para_x",
+      "@type": "akn:paragraph",
+      "eli:number": "x",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to do all other things incidental to the performance of the Administrator’s functions. effect of appointment of administrator"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_1__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "On the appointment of the Administrator, a moratorium shall take effect during which—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "no petition for the winding up of the Administered Companies may be filed by any person in any court;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "no resolution may be passed or order made for the winding up of the Administered Companies;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "no receiver, receiver and manager or provisional liquidator, may be appointed, or if appointed, his appointment shall immediately cease and he shall vacate his office;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_1__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_1__para_d__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_1__para_d__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_1__para_d__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "no steps may be taken—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_1__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_1__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to create, perfect or enforce any security over any property of the Administered Companies;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_1__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_1__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to enforce a judgment over any property of the Administered Companies;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_1__para_d__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_1__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to re-possess any property in the possession, custody or control of the Administered Companies; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_1__para_d__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_1__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to set off any debt owing to the Administered Companies in respect of any claim against the Administered Companies, except with the prior written consent of the Administrator;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "no proceedings and no execution or other legal process in any court or tribunal may be commenced or continued with, and no distress may be levied, against the Administered Companies or their property except with the prior written consent of the Administrator;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any application made under section 176 of the Companies Act 1965 shall be adjourned sine die and any restraining order issued under subsection 176(10) of the Companies Act 1965 shall be immediately discharged and set aside; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "no proceedings and no execution or other legal process in any court or tribunal may be commenced, or continued with, against any person providing a guarantee or acting as a guarantor for the liability of the Administered Companies in respect of that liability except with the prior written consent of the Administrator."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Administrator shall not be liable to an action or other damages in respect of a refusal to give his consent under subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_3__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_3__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_3__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_3__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The appointment of the Administrator shall not—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "be regarded as placing the Administrator or the Administered Companies in breach of or in default under any contract, or in breach of confidence;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_3__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_3__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_3__para_b__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_3__para_b__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "be regarded as placing the Administered Companies in breach of or in default under any contract or be regarded as giving rise to a right or duty for any person to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_3__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_3__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "terminate, cancel or modify an agreement;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_3__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_3__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "enforce or accelerate the performance of an obligation of the Administered Companies;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_3__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_3__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "require the performance of an obligation not otherwise arising for performance; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_3__para_b__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_3__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "refuse or discontinue the performance of his obligations;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "be regarded as placing the Administrator or the Administered Companies in breach of any law or agreement prohibiting, restricting or regulating the assignment, sale, disposition or transfer of any property or disclosure of information;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "release a surety from an obligation;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_3__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "invalidate or discharge a contract or security;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_3__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "be regarded as terminating, cancelling or varying any right, privilege, exemption or priorities in relation to a property of the Administered Companies; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_3__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "be regarded as placing the Administered Companies or the Administrator in breach of any law or any order of any court."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Nothing in this section shall prevent any civil or criminal proceedings from being instituted or continued by any regulatory body against the Administered Companies. Moratorium"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_12__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_12__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The duration of the moratorium referred to in section 11, unless the administration is sooner terminated under section 6 or paragraph 21(3)(c), shall be for a period of twelve months commencing from the date of the appointment of the Administrator under subsection 5(1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, upon the written request of the Administrator or the appointer, extend the moratorium for a period of not more than twelve months upon being satisfied that the circumstances warrant such extension, and such power of extension shall not be exercisable more than once."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_12__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the period of the moratorium is extended under subsection (2), the Administrator shall cause a notice of the extension to be published in at least two national daily newspapers, one of which shall be in the national language. Undue preference"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_13__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "On the appointment of the Administrator, any transfer, mortgage, execution, attachment, obligation, settlement, charge, assignment, delivery of goods, payment or other act relating to any property made, incurred or done by or against the Administered Companies which, had it been made, incurred or done by or against an individual, would in his bankruptcy under the law of bankruptcy be void or voidable, may be avoided or recoverable by the Administrator."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where a reference is made in the law of bankruptcy to a date for the purpose of determining the effect of bankruptcy on transactions mentioned in subsection (1), that date shall be the date on which this Act comes into operation. transition services"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_14__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_14__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_14__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_14__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_14__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to subsection (2), where any person is under a contract or obligation to provide goods or services or both to the Administered Companies, the Administrator may direct such person to provide the goods or services or both to the Malaysia Airlines Berhad and its subsidiary companies instead of the Administered Companies, and the Malaysia Airlines Berhad and its subsidiary companies shall pay for such goods or services or both at the same rate as would have been paid by the Administered Companies."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The direction by the Administrator under subsection (1) shall be given only for the purpose of ensuring that the services of the Malaysia Airlines Berhad and its subsidiary companies are not disrupted."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_14__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_14__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_14__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding any other provisions of this Act or any other law, if the transition service provider fails to comply with the direction of the Administrator under subsection (1), the Minister may, if he thinks it necessary for public interest, by order published in the Gazette, direct—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_14__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_14__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Administrator or any other person to assume control of the whole or part of the property, business and affairs of a transition service provider and to carry on the whole or part of the transition service provider’s business and affairs; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_14__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_14__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "that the expenses of the Administrator or other person, as the case may be, be payable out of the assets of the transition service provider in priority to all other claims whether secured or unsecured."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_14__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The determination of what amounts to public interest shall be made by the Minister and such determination shall be final and binding upon all persons."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_14__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to Part III, this section shall not affect the rights and entitlements of the transition service provider to recover any pre-existing debts owing by the Administered Companies to the transition service provider."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_14__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "It shall not be a pre-requisite that the Malaysia Airlines Berhad and its subsidiary companies shall first pay any pre-existing debts owing by the Administered Companies to the transition service provider prior to receiving any goods or services or both under subsection (1). effect of assumption of control of transition service provider"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_15__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_15__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_15__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_15__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_15__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the control of a transition service provider has been assumed under an order made under section 14, the transition service provider and its officers shall—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_15__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_15__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "submit the control over its property, business and affairs to the Administrator or other person, as the case may be; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_15__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_15__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "provide to the Administrator or other person, as the case may be, all such facilities as may be required to carry on the business and affairs of the transition service provider."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Administrator or other person, as the case may be, shall remain in control of the property, business and affairs of the transition service provider and carry on the business and affairs of that transition service provider in the name and on behalf of that transition service provider until such time when the order is revoked."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_15__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_15__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_15__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_15__subsec_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "During the period that an order made under section 14 is in force—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_15__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_15__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all the powers of the transition service provider and of its officers under the transition service provider’s constituent documents, or exercisable by the transition service provider or its officers under any written law, shall be vested in the Administrator or other person, as the case may be, regardless whether such powers are exercisable by resolution, special resolution or in any other manner and any difficulty arising from the vesting may be resolved by the Minister by a direction in writing;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_15__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_15__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "no officer of the transition service provider shall, either directly or indirectly, engage in any activity in relation to the transition service provider, except as may be required or authorized by the Administrator or other person, as the case may be; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_15__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_15__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Administrator or other person, as the case may be, shall exercise the powers of the transition service provider vested in him to secure the delivery of goods or services or both to the Malaysia Airlines Berhad and its subsidiary companies and shall not otherwise do anything to disrupt the business of the transition service provider."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_15__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An order under section 14 shall not have the effect of conferring on or vesting in the Administrator or other person, as the case may be, any title to or any beneficial interest in any property of the transition service provider. investigation by administrator"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_16__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_16__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_16__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Administrator may require any officer of the Administered Companies to verify and submit to the Administrator a statement as to the affairs of the Administered Companies within twenty-one days."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_16__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_16__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_16__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_16__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_16__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_16__subsec_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The statement shall be in such form as may be determined by the Administrator and shall contain the following information:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_16__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_16__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the particulars of all property and liabilities;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_16__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_16__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the names and addresses of the creditors;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_16__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_16__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the securities held by the creditors and the dates when the securities were given;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_16__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_16__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a statutory declaration made under the Statutory Declarations Act 1960 [Act 13], declaring the information in the statement of affairs as being true and correct; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_16__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_16__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other information as may be required by the Administrator. duties of officers to assist in investigation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_17__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_17__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_17__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_17__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_17__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An officer of the Administered Companies shall within seven days after a request from the Administrator—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_17__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_17__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "deliver to the Administrator all books, records and documents of the Administered Companies in the possession of the officer; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_17__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_17__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if the officer knows the location of other books, records and documents relating to the Administered Companies, inform the Administrator of the location of those books, records and documents."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_17__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_17__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An officer of the Administered Companies shall—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_17__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_17__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "attend to the Administrator at such times; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_17__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_17__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "give the Administrator such information concerning the Administered Companies’ property, affairs and financial circumstances, as the Administrator may reasonably require."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_17__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Administrator shall, on the completion of the administration under this Act, return to the Administered Companies any books, records and documents received under subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to the prior written approval of the Minister, a member of the Company, or the board of directors of the Company pursuant to a resolution of the board of directors, may place—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Company;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any wholly owned subsidiary company of the Company; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_4__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_4__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_4__para_c__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the following partially owned subsidiary companies of the Company:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_4__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_4__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Abacus Distribution Systems (Malaysia) Sdn. Bhd. (Company No. 180535-T);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_4__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_4__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Aerokleen Services Sdn. Bhd. (Company No. 277266-X); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_4__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_4__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "MAS Awana Services Sdn. Bhd. (Company No. 372384-D), under administration in accordance with this Act. appointment of administrator"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_5__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The member of the Company or the board of directors of the Company referred to in section 4 shall appoint an Administrator for the Administered Companies."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The appointer may at any time after the appointment of the Administrator under subsection (1) appoint a new Administrator to replace the existing Administrator."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the Administrator is released from his appointment, he shall, with effect from such release, be discharged from all duties and liabilities in respect of his administration or in relation to his conduct as the Administrator. duration of administration"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The administration of the Administered Companies by the Administrator shall commence from the date of appointment of the Administrator under subsection 5(1) and shall continue until the administration is terminated by the appointer. Qualifications of administrator"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No person shall be appointed as an Administrator unless he—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "is a natural person; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "has consented in writing to his appointment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The following persons shall be qualified to be appointed as an Administrator:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a company auditor approved under the Companies Act 1965; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a person who is, in the opinion of the appointer, capable of performing the duties of an administrator."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7__subsec_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7__subsec_3__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7__subsec_3__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7__subsec_3__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The following persons shall not be qualified to be appointed as an Administrator:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an undischarged bankrupt;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a mortgagee of any property of the Administered Companies;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a person with direct or indirect shareholding in the Administered Companies;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7__subsec_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a person who is, directly or indirectly, interested in any contract or arrangement to provide goods or services to the Administered Companies;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7__subsec_3__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an auditor of the Administered Companies; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7__subsec_3__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_7__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an officer of the Administered Companies. Notification of appointment of administrator"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_8__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_8__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_8__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_8__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_8__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Administrator shall within seven days after his appointment—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_8__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "lodge a notice of the appointment with the Registrar of Companies; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_8__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "cause a notice of his appointment to be published in at least two national daily newspapers, one of which shall be in the national language."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every invoice, order for goods or services, business letter, cheque, credit note, negotiable instrument or bill of lading which is issued by or on behalf of the Administered Companies or the Administrator after the appointment of the Administrator shall contain the words “Administrator Appointed”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_8__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any non-compliance of subsections (1) and (2) shall not affect the validity of the acts of the Administrator in the administration of the Administered Companies."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_8__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purpose of this section, “Registrar of Companies” has the meaning assigned to it under section 4 of the Companies Act 1965. functions of administrator"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_9__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_9__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_9__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_9__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_9__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_9__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_9__subsec_1__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Administrator shall have the following functions:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_9__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to carry out the business and operations (including the restructuring of such operations) of the Administered Companies;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_9__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to take into his custody or under his control the property, liabilities, businesses and affairs of the Administered Companies and all the property to which the Administered Companies are or appear to be entitled;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_9__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to manage the property, business, liabilities and affairs of the Administered Companies in the name and on behalf of the Administered Companies, including the disposal of property and liabilities;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_9__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to assume control and exercise all powers conferred on the directors under the Companies Act 1965 or by the constitution of the Administered Companies, and the powers of the directors of the Administered Companies shall then cease except in so far as the Administrator may permit;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_9__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to make any arrangement or compromise on behalf of the Administered Companies with their creditors or any class of them or between the specified subsidiary companies and their members or any class of them or between the Administered Companies and their debtors or any class of them; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_9__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to perform any function that the Administered Companies or any of their officers could perform or exercise if the Administrator had not been appointed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Nothing in paragraph (1)(d) shall require the Administrator to call any meetings of the Administered Companies. Powers of administrator"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_29"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "MALAYSIA AIRLINES BERHAD incorporation of Malaysia airlines Berhad"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The corporation incorporated under the Companies Act 1965 by the name of “Malaysia Airlines Berhad” shall have the main objective of operating the national carrier of Malaysia and shall carry on the business of the national carrier as a commercial enterprise and such other businesses as the board of directors of the Malaysia Airlines Berhad thinks fit. offer of employment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Malaysia Airlines Berhad may, in its sole discretion, offer employment to any person who immediately before the date of that offer is in the employment or service of the Administered Companies on such terms and conditions as the Malaysia Airlines Berhad may determine. Malaysia airlines Berhad, etc. not a successor employer"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_26__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_26__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_26__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_26__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_26__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_26__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding anything to the contrary in this Act or under any law, where the Administrator assumes control of the Administered Companies, or where the Malaysia Airlines Berhad makes an offer of employment to a person in the employment or service of the Administered Companies, or where the Malaysia Airlines Berhad enters into a transition service agreement with the Administered Companies, the Administrator, appointer or the Malaysia Airlines Berhad shall not—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_26__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_26__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "be regarded as the successor, assignee or transferee or a successor employer to the Administered Companies;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_26__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_26__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "be liable for any obligation relating to any retirement plan or other post-employment benefit plans in respect of the employees or former employees of the Administered Companies or any predecessor of the Administered Companies that exists prior to the assumption of control or appointment; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_26__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_26__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "be liable for any sum which is calculated by reference to a period of time prior to Malaysia Airlines Berhad becoming the employer of the person in question."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_26__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Malaysia Airlines Berhad, the appointer and the Administrator shall not be named as a party in any claim or application made or joined as a party in any proceeding commenced or continued by or on behalf of any employees or former employees of the Administered Companies pursuant to the Industrial Relations Act 1967 [Act 177], Employment Act 1955 [Act 265], Sabah Labour Ordinance 1950 [Sabah Cap. 67], Sarawak Labour Ordinance 1952 [Sarawak Cap. 76] or the Trade Unions Act 1959 [Act 262]. work rules, code of conduct and regulations"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Malaysia Airlines Berhad may, it thinks fit, impose any work rules, code of conduct and regulations in relation to its employees in accordance with all applicable laws. Negotiation with trade unions and associations"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_28__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_28__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_28__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_28__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_28__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_28__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_28__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_28__subsec_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_28__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_28__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_28__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All matters to be discussed or negotiated between the Malaysia Airlines Berhad and—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_28__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_28__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any trade union duly recognized by the Malaysia Airlines Berhad in accordance with the Industrial Relations Act 1967 and the Trade Unions Act 1959; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_28__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_28__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any association recognized by the Malaysia Airlines Berhad, shall be by way of meetings."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_28__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A meeting to be convened under subsection (1) shall not proceed unless all of the trade unions and associations are duly represented in the meeting."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_28__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If after half an hour from the time appointed for a meeting, not all of the trade unions and associations are duly represented, the meeting shall stand adjourned to the subsequent week, on the same day and time and at the same venue without any further notice."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_28__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the meeting is adjourned to a day which is a public holiday, the adjourned meeting shall be reconvened on the next working day."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_28__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "When the adjourned meeting is reconvened on the new date, the non-attendance by any trade union or association shall not prevent the meeting from proceeding."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_28__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any decision made during the meeting by the Malaysia Airlines Berhad and the trade unions and associations present at the meeting shall be valid and binding on the Malaysia Airlines Berhad and all of the trade unions and associations recognized by the Malaysia Airlines Berhad."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_28__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In a meeting under this section, where the trade unions and associations unanimously resolve that the matter for discussion or negotiation relates solely to a specific trade union or association, the meeting shall be dissolved and a separate meeting shall be convened between the Malaysia Airlines Berhad and that specific trade union or association."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_28__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The separate meeting between the Malaysia Airlines Berhad and the specific trade union or association shall not discuss any matter other than the matter resolved under subsection (7). Matters relating to productivity or effective utilization of workforce"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_29__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_29__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_29__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_29__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_29__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_29__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_29__subsec_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding section 28, the following matters that relate to or impact the productivity or effective utilization of the workforce in the Malaysia Airlines Berhad shall be determined by the Malaysia Airlines Berhad:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_29__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "resourcing and allocation of resources;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_29__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "assessment of employees;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_29__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "leave entitlement; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_29__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "working hours and scheduling of work, including flight time limitation and flight duty periods."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_29__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_IV__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Malaysia Airlines Berhad in determining any matters under subsection (1) shall comply with all applicable laws and international standards."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Malaysian Airline System Berhad (Administration) Act 2014."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. application"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_I__cl_2__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_I__cl_2__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_I__cl_2__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_I__cl_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_I__cl_2__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_I__cl_2__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall apply—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_I__cl_2__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_I__cl_2__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for a period of five years from the date of the coming into operation of this Act; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_I__cl_2__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_I__cl_2__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "until the listing and quotation of the shares of the Malaysia Airlines Berhad on the official list of Bursa Malaysia Berhad, whichever is earlier."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_I__cl_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (1), the Minister may, by order published in the Gazette, declare an earlier cessation of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_I__cl_2__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (1), this Act may, by a resolution passed by both Houses of Parliament, be extended for a further period as may be specified in the resolution. interpretation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_I__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "“regulatory body” means an authority that is responsible for the enforcement of laws; “proposal” means the proposal under paragraph 18(1)(b); “rights” means all rights, powers, privileges and immunities, whether actual, contingent or prospective; “property” includes all property, movable and immovable, and all interests, easement or rights, whether equitable or legal in, to or out of the property, choses in action, money and goodwill; “Malaysia Airlines Berhad” means the corporation referred to in section 24; “Minister” means the Prime Minister of Malaysia; “officer” has the meaning assigned to it in section 4 and subsection 132(6) of the Companies Act 1965 [Act 125]; “appointer” means the person who appoints an Administrator under section 5; “transition service provider” means the person directed by the Administrator under subsection 14(1) to provide goods or services or both to the Malaysia Airlines Berhad and its subsidiary companies; “creditor” includes counterparties in an agreement, contract or arrangement with the Administered Companies; “Independent Advisor” means the person appointed under section 19; “Administrator” means the person appointed under section 5; “Company” means the Malaysian Airline System Berhad; “specified subsidiary companies” means the partially owned subsidiary companies listed in paragraph 4(c); “Administered Companies” means the Company, its wholly owned subsidiary companies, and the specified subsidiary companies that have been placed under administration under section 4; “liabilities” includes debts, charges and obligations of every description whether present or future, actual or contingent, and whether payable or to be observed or performed in Malaysia or elsewhere."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_V__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_V__cl_31"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "VESTING OF PROPERTY AND LIABILITIES Vesting provisions"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_37"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "GENERAL Non-application of section 132e of the companies act 1965"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 132e of the Companies Act 1965 shall not apply to any disposition by any arrangement or transaction between the Company and the Malaysia Airlines Berhad. indemnity for administrator, etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_33__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_33__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_33__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_33__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_33__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_33__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_33__subsec_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Administrator, the appointer and any other person are entitled to be indemnified out of the Administered Companies’ property for—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_33__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_33__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of the Administrator, his costs, expenses and remuneration as provided under the terms of his appointment;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_33__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_33__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of the appointer, the repayment of any credit facility provided by the appointer to the Administrator or to the Administered Companies during the administration of the Administered Companies;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_33__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_33__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of the Malaysia Airlines Berhad, the repayment of any credit facility provided by the Malaysia Airlines Berhad to the Administrator or to the Administered Companies during the administration of the Administered Companies; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_33__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_33__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of any other person, the repayment of any credit facility provided by that person to the Administrator or the Administered Companies during the administration of the Administered Companies with the approval of the appointer."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_33__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding any other law, a right of indemnity under subsection (1) shall have priority over the property of the Administered Companies and shall be paid in priority to all other secured and unsecured debts. immunity"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_34__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_34__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_34__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_34__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_34__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_34__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_34__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_34__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_34__subsec_1__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No action, suit, prosecution or proceeding whatsoever shall lie or be brought, instituted or maintained in any court or tribunal or before any authority against–"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_34__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_34__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Minister;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_34__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_34__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the appointer;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_34__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_34__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Administrator;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_34__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_34__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Independent Advisor;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_34__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_34__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any officer of the persons referred to in paragraphs (b) and (d); or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_34__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_34__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any person lawfully acting on behalf of the appointer, the Administrator and the Independent Advisor, for any loss or damage for or on account of, or in respect of any act or matter done or ordered to be done or omitted to be done by him in good faith and in the exercise of any power or discharge of any duty conferred on him or it under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_34__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No action, suit, prosecution or proceeding whatsoever shall lie or be brought, instituted or maintained in any court or tribunal or before any authority against the Administrator appointed under this Act and any person lawfully acting on behalf of the Administrator by any party for any loss or damage caused by any act or matter done or statement made or omitted to be done by him in good faith and in the exercise of any function or power, conferred or imposed on him under this Act except where such loss or damage is due to wilful misconduct or gross negligence of the Administrator appointed under this Act and any person lawfully acting on behalf of the Administrator. Limits on the grant of orders of court"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_35__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_35__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_35__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_35__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_35__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_35__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding any law, an order of a court cannot be granted—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_35__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_35__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "which stays, restrains or affects the powers of the Administrator under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_35__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_35__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "which stays, restrains or affects any action taken or proposed to be taken by the Administrator under this Act; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_35__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_35__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "which compels the Administrator to do or perform any act, and any such order, if granted, shall be void and unenforceable and shall not be the subject of any process of execution whether for the purpose of compelling obedience of the order or otherwise."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_35__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The decisions of the appointer in sections 4 and 5, the Minister in subsection 12(2) and the Administrator in subsection 18(1) shall be final. Validity of transaction"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding any written law or rule of law, any payment made, transaction entered into, or any other act or thing done in good faith by or with the consent of the Administrator shall be valid and effective for the purposes of this Act and shall not be considered as an undue preference in the winding up of the Administered Companies. things done in anticipation of the enactment of this act"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_37__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_37__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_37__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All acts and things done by any person in connection with the property, liabilities, businesses and affairs of the Administered Companies in preparation for or in anticipation of the enactment of this Act and any expenditure incurred in relation to the acts and things done shall be deemed to have been authorized under this Act, if the acts and things done are consistent with the general intention and purposes of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_37__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_VI__cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The incorporation of the Malaysia Airlines Berhad and all acts and things done by any person on behalf of the Malaysia Airlines Berhad and all rights and obligations acquired or incurred on behalf of the Malaysia Airlines Berhad shall, upon the coming into operation of this Act, be deemed to be done under this Act and shall be the rights and obligations of the Malaysia Airlines Berhad."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_V__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_V__cl_30__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_V__cl_30__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_V__cl_30__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, from time to time, by order published in the Gazette, appoint a vesting date for each order and on such date any property or liabilities of the Administered Companies specified by the Minister in such order shall be transferred to and vested in the Malaysia Airlines Berhad without any conveyance, assignment or transfer whatsoever."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_V__cl_30__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The vesting pursuant to subsection (1) shall have the effect set out in the Schedule notwithstanding any written law or rule of law and shall be binding on any person affected by such vesting. replacement vesting order"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_V__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_V__cl_31__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_V__cl_31__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_V__cl_31__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_V__cl_31__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_V__cl_31__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_V__cl_31__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_V__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may issue a new vesting order (“replacement vesting order”) to replace any vesting order previously issued in order to rectify any omission or error in the vesting order."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_V__cl_31__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_V__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any replacement vesting order issued under subsection (1), stating that a property or liability has been transferred to and vested in the Malaysia Airlines Berhad, shall be conclusive evidence of such transfer and vesting as of the vesting date stipulated in the replacement vesting order."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_V__cl_31__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_V__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If any law stipulates a time period within which a transfer of any property or liability stated to be the subject of a replacement vesting order shall be registered or filed, that period shall commence from the vesting date stipulated in the replacement vesting order or the date the replacement vesting order is issued, whichever is later."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_V__cl_31__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_V__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any act done by the Malaysia Airlines Berhad or any other person, in reliance on a vesting order previously issued shall not be affected by any omission or error rectified in a replacement vesting order."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_V__cl_31__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~part_V__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of this Act, any reference to a vesting order shall be deemed to include a reference to a replacement vesting order."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Section 30] VESTING OF PROPERTY AND LIABILITIES interpretation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In this Schedule, unless the context otherwise requires— “transferor” and “transferee” mean the respective parties identified as such in the vesting order; “vesting order” means the order made by the Minister under section 30. “transfer date” means the date stated in the vesting order on which any property or liability is transferred and vested;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A reference in this Schedule to “liability” means the whole or such part of a liability as is transferred by way of the vesting order. effect of vesting order"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where a property is transferred under the vesting order—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case where the property is held by the transferor alone immediately before the transfer date, the property shall on and from the transfer date vest in the transferee; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case where the property is held jointly by the transferor with any other person immediately before the transfer date, the property shall on and from the transfer date vest in the transferee jointly with that other person."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The transferee shall, on and from the transfer date of the property, acquire and be vested with all of the transferor’s present and future rights, title and interest in, and obligations with respect to, such property, free of any encumbrances save for any registered interest prevailing as at the transfer date."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A vesting order stating that a property or liability has been transferred to and vested in the transferee shall be conclusive evidence of such transfer and vesting as of the transfer date."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No provision in any agreement limiting or prohibiting the right of the transferor or requiring any consent to assign, sell, dispose of or transfer of a property shall have any application or effect in respect of the transfer and vesting of the property to the transferee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In relation to a liability transferred under a vesting order—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the transferee shall be deemed to assume the liability and be liable to discharge the liability; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the transferor shall be released and discharged from the liability."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_6__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_6__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_6__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_6__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_6__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_6__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_6__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_6__para_j"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In relation to a transfer under a vesting order—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an existing agreement, instrument, or an order of any court under or by virtue of which the transferor has title, ownership, interest or rights to such property or liability shall be construed and shall have effect as if the reference to the transferor in that agreement, instrument or order were substituted with a reference to the transferee;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an existing agreement to which the transferor is a party shall have effect as if the transferee had been a party to that agreement instead of the transferor;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an existing instruction, direction, mandate, power of attorney, authority, undertaking or consent, whether or not in relation to an account that was given to the transferor, either alone or jointly with another person, shall have effect as if given to the transferee either alone or jointly with the other person;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_6__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any security held immediately before the transfer date by the transferor or by a nominee or trustee of the transferor as security for the payment or discharge of any liability of any person, shall be held by the transferee or that nominee or trustee as the nominee or trustee of the transferee, with the same priority as the transferor had, and to the extent of that liability shall be available to the transferee as security for the payment or discharge of that liability; and if any such security extends to future advances or future liabilities, the security shall be held by and be available to the transferee as security for future advances by or future liabilities of the transferee in the same manner as the future advances by or future liabilities of the transferor were secured immediately before the transfer date;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_6__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in addition to any other right, power or remedy granted to the transferee, the transferee shall have the rights, powers and remedies (and in particular the rights and powers as to taking or resisting legal or other proceedings or making or resisting applications to any authority) for ascertaining, protecting or enforcing the rights, titles and interests vested in the transferee including those rights, titles or interests in respect of any legal or other proceedings or applications to any authority pending immediately before the transfer date by or against the transferor, and resisting any claim, liability or registered interest as if they had at all times been the rights, titles and interests of the transferee;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_6__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a judgement, award or order obtained by the transferor and not fully satisfied before the transfer date shall be enforceable by the transferee;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_6__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "no transfer to or acquisition by the transferee shall be void or voidable by reason of the application of any law;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_6__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where the custody of any goods, things or documents is held by the transferor as bailee immediately before the transfer date, such goods, things or documents shall be deemed to have passed to the transferee and the rights and obligations of the transferor under any contract of bailment relating to such goods, things or documents shall be transferred to the transferee;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_6__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a negotiable instrument or order for payment of money given to or drawn on or accepted by the transferor, or payable at the place of business of the transferor, whether so given, drawn or accepted before, on or after the transfer date, shall have the same effect on and from the transfer date, as if that negotiable instrument or order for payment of money had been given to or drawn on or accepted by the transferee or were payable at the place of business of the transferee; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_6__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any account between the transferor and its customer shall become an account between the transferee and the customer, subject to the conditions and incidents that relate to such account up to the transfer date, and such account shall be deemed for all purposes to be a single continuing account."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_7__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_7__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_7__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_7__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A transfer of a property or liability under a vesting order shall not—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "be regarded as placing the transferor, transferee or any person deriving title from the transferee or any other person in breach of or default under any contract or in breach of confidence;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_7__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_7__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_7__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "be regarded as giving rise to a right or duty for any person to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_7__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_7__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "terminate or amend an agreement;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_7__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_7__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "enforce or accelerate the performance of an obligation; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_7__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_7__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "require the performance of an obligation not otherwise arising for performance;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "be regarded as placing the transferor, transferee or any other person in breach of any law, rule of law or agreement prohibiting, restricting or regulating the assignment, sale, disposal or transfer of any property or liability or disclosure of information;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_7__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "release a surety from an obligation;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_7__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "invalidate or discharge a contract or security; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_7__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/31/eng@/~sched_1__para_2__subsec_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "be regarded as terminating or varying any rights, privileges, exemptions (including any tax exemptions) or priorities to which the transferor was entitled and which by virtue of this Schedule have vested in the transferee or existed in favour of the transferor in relation to any property or liability transferred to the transferee pursuant to this Schedule."
+      }
+    }
+  ]
+}

@@ -52,7 +52,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 5. The principal Act is amended by inserting after section 21 the following part:
 
-“Part IIa
+## “PART IIA
 
 ## BENEFICIAL OWNERSHIP
 

@@ -1,0 +1,842 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-2-2001",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_26"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Perkhidmatan Pos (Pindaan) 2001"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_10__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 10(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan titik bertindih yang terdapat selepas perkataan \"seksyen 8\" dengan noktah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong proviso kepada subseksyen itu. Pindaan seksyen 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 14(2) Akta ibu dipinda dengan memasukkan selepas perkataan \"agensi kerajaan\" perkataan \"atau agensi Suruhanjaya\". Pindaan seksyen 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 15(1) Akta ibu dipinda dengan menggantikan perkataan \"golongan-golongan orang tertentu\" dengan perkataan \"Kerajaan, agensi-agensinya atau mana-mana golongan orang\". Pindaan seksyen 20"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 20 Akta ibu dipinda dalam nota birai dan subseksyen"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "(1), dengan menggantikan perkataan \"Ketua Pengarah\" dengan perkataan \"Suruhanjaya\". Pindaan seksyen 21"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 21(1), (2), (3) dan (4) Akta ibu dipinda dengan menggantikan perkataan \"Ketua Pengarah\" di mana-mana jua terdapat dengan perkataan \"Suruhanjaya\". Pindaan seksyen 29"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 29 Akta ibu dipinda dengan menggantikan perkataan \"Ketua Pengarah\" dengan perkataan \"Suruhanjaya\". Pindaan seksyen 32"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 32 Akta ibu dipinda dengan menggantikan perkataan \"Ketua Pengarah\" dengan perkataan \"Suruhanjaya\". Findaan seksyen 34"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 34 Akta ibu dipinda dengan menggantikan perkataan \"Ketua Pengarah\" dengan perkataan \"Suruhanjaya\". Penggantian seksyen 40"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_18__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_18__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_18__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 40 dengan seksyen yang berikut: Kuasa 40. (1) Pengerusi Suruhanjaya boleh, dengan keizinan Pengerusi bertulis Pendakwa Ray a, mengkompaun apa-apa kesalahan Suruhan- yang dilakukan oleh mana-mana orang di bawah Akta ini jaya untuk meng- atau mana-mana kaedah yang dibuat di bawahnya dan kompaun yang ditetapkan oleh Menteri sebagai suatu kesalahan kesalahan. boleh kompaun melalui kaedah-kaedah yang dibuat di bawah Akta ini dengan membuat suatu tawaran secara bertulis kepada orang yang disyaki telah melakukan kesalahan itu untuk mengkompaun kesalahan itu dengan membayar kepada Pengerusi suatu amaun wang yang tidak melebihi lima puluh peratus daripada amaun maksimum denda bagi kesalahan itu dalam masa yang dinyatakan dalam tawaran itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu tawaran di bawah subseksyen (1) boleh dibuat pada bila-bila masa selepas kesalahan itu dilakukan, tetapi sebelum apa-apa pendakwaan baginya dimulakan, dan jika amaun yang dinyatakan dalam tawaran itu tidak dibayar dalam masa yang dinyatakan dalam tawaran itu atau dalam apa-apa tempoh lanjutan yang diberikan oleh Pengerusi, pendakwaan bagi kesalahan itu boleh dimulakan pada bila-bila masa selepas itu terhadap orang yang kepadanya tawaran itu dibuat."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_18__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika suatu kesalahan telah dikompaun di bawah subseksyen (1), tiada pendakwaan boleh dimulakan Rang Undang-Undang berkenaan dengan kesalahan itu terhadap orang yang kepadanya tawaran untuk mengkompaun itu dibuat dan apa-apa benda yang disita berkaitan dengan kesalahan itu boleh dilepaskan atau dilucuthakkan oleh Pengerusi, tertakluk kepada apa-apa terma dan syarat yang difikirkan patut olehnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_18__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua jumlah wang yang diterima oleh Pengerusi di bawah seksyen ini hendaklah dibayar ke dalam dan menjadi sebahagian daripada Kumpulan Wang Disatukan Persekutuan.\". Penggantian seksyen 41"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_19__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_19__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_19__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_19__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 41 dengan seksyen yang berikut: 41. (1) Menteri boleh secara bertulis memberi kuasa mana-mana pegawai awam atau pengawai Suruhanjaya untuk menjalankan kuasa penguatkuasaan di bawah Akta ini atau mana-mana kaedah yang dibuat di bawahnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana pegawai yang sedemikian hendaklah disifatkan sebagai pekhidmat awam mengikut pengertian Kanun Keseksaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_19__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pada menjalankan mana-manakuasapenguatkuasaan di bawah Akta ini atau mana-mana kaedah yang dibuat di bawahnya, seseorang pegawai yang diberi kuasa di bawah subseksyen (1) hendaklah, apabila diminta, menunjukkan kepada orang yang terhadapnya dia bertindak kuasa yang dikeluarkan kepadanya oleh Menteri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_19__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walauapapun subseksyen (1), mana-mana pegawai polis yang berpangkat tidak rendah daripada Inspektor hendaklah mempunyai dan boleh menjalankan kuasa penguatkuasaan yang diberikan di bawah Akta ini atau mana-mana kaedah yang dibuat di bawahnya kepada seseorang pegawai yang diberi kuasa di bawah subseksyen (1). Perkhidmatan Pos (Pindaan) 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_19__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pada menjalankan mana-mana kuasa penguatkuasaan yang diberikan di bawah Akta ini atau mana-mana kaedah yang dibuat di bawahnya kepada seseorang pegawai polis yang berpangkat tidak rendah daripada Inspektor, pegawai polis itu hendaklah, jika tidak berpakaian seragam, apabila diminta, menyatakan jawatannya dan menunjukkan kepada orang yang terhadapnya dia bertindak kad kuasa yang diarahkan oleh Ketua Polis Negara supaya dibawa oleh pegawai polis itu.\". Pindaan seksyen 42"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Perkhidmatan Pos (Pindaan) 2001."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Perkhidmatan Pos 1991 [Akta 465], yang disebut \"Akta ibu\" dalam Akta ini, dipinda dalam seksyen 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_20__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_20__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_20__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 42 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_20__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan \"membuat sesuatu penyiasatan di bawah seksyen 41\" dengan perkataan \"diberi kuasa di bawah seksyen 41 yang menj alankan kuasa penguatkuasaan yang diberikan di bawah Akta ini atau mana-mana kaedah yang dibuat di bawahnya\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_20__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan \"pegawai tersebut\" dengan perkataan \"pegawai yang disebut dalam subseksyen (1)\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_20__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan menggantikan perkataan \"Ketua Pengarah\" dengan perkataan \"Suruhanjaya\". Pindaan seksyen 43"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_21__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_21__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_21__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 43 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_21__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan \"membuat sesuatu penyiasatan di bawah seksyen 41\" dengan perkataan \"diberi kuasa di bawah seksyen 41 yang menj alankan kuasa penguatkuasaan yang diberikan di bawah Akta ini atau mana-mana kaedah yang dibuat di bawahnya\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_21__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_21__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_21__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_21__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_21__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"pegawai tersebut\" dengan perkataan \"pegawai yang disebut dalam subseksyen (1)\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_21__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_21__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam proviso, dengan menggantikan perkataan \"Ketua Pengarah\" dengan perkataan \"Menteri\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_21__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4), dengan memasukkan selepas perkataan \"pegawai\" perkataan \"yang diberi kuasa di bawah seksyen 41\". Pindaan seksyen 44"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 44 Akta ibu dipinda dengan menggantikan perkataan \"Ketua Pengarah atau seorang pegawai diberikuasa dan sama ada atau tidak diterjemahkan kepadanya oleh seorang pegawai diberikuasa\" dengan perkataan \"seseorang pegawai yang diberi kuasa di bawah seksyen 41 dan sama ada atau tidak diterjemahkan kepadanya oleh seorang pegawai yang diberi kuasa di bawah seksyen 41\". Pindaan seksyen 45"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_23__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_23__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 45 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_23__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"Ketua Pengarah atau mana-mana pegawai diberikuasa\" dengan perkataan \"seseorang pegawai yang diberi kuasa di bawah seksyen 41\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_23__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"Ketua Pengarah, atau pegawai diberikuasa tersebut\" dengan perkataan \"pegawai tersebut\". Penggantian seksyen 46"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 46 dengan seksyen yang berikut: Menghalang 46. Mana-mana orang yang menghalang Suruhanjaya atau pelaksanaan menyerang, menggalang, merintangi atau menghalang tugas. Pengerusi Suruhanjaya, mana-mana pegawai diberikuasa atau mana-mana pegawai yang diberi kuasa di bawah seksyen 41 dalam melaksanakan tugas-tugasnya di bawah Akta ini adalah melakukan suatu kesalahan.\". Penggantian seksyen 47"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 47 dengan seksyen yang berikut: Pendak- 47. Tiada pendakwaan boleh dimulakan bagi suatu waan kesalahan di bawah Akta ini atau mana-mana kaedah yang dibuat di bawahnya kecuali melalui atau dengan keizinan bertulis Pendakwa Raya.\". Kecualian dan peralihan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_26__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_26__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_26__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_26__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_26__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_26__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_26__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila Akta ini mula berkuat kuasa, sebutan tentang Kerajaan, Menteri, Ketua Pengarah Pos atau pegawai diberikuasa dalam mana-mana undang-undang bertulis termasuk mana-mana perundangan subsidiari, atau dalam apa-apa surat cara, lesen, perakuan, dokumen, pendaftaran, kelulusan, arahan, perintah, garis panduan, pemberitahuan, perjanjian atau dokumen lain yang dibuat, dikeluarkan atau diberikan sebelum permulaan kuat kuasa Akta ini hendaklah ditafsirkan sebagaimana yang diperuntukkan dalam subseksyen (2), (3), (4), (5) dan (6)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_26__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sebutan tentang Kerajaan atau Ketua Pengarah Pos berhubung dengan fungsi Kerajaan atau Ketua Pengarah itu yang apabila Akta ini mula berkuat kuasa menjadi fungsi Suruhanjaya hendaklah ditafsirkan sebagai sebutan tentang Suruhanjaya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_26__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sebutan tentang Ketua Pengarah Pos berhubung dengan fungsi Ketua Pengarah itu yang apabila Akta ini mula berkuat kuasa menjadi fungsi Menteri hendaklah ditafsirkan sebagai sebutan tentang Menteri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_26__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sebutan tentang Ketua Pengarah Pos berhubung dengan fungsi Ketua Pengarah itu yang apabila Akta ini mula berkuat kuasa menjadi fungsi Pengerusi Suruhanjaya hendaklah ditafsirkan sebagai sebutan tentang Pengerusi itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_26__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sebutan tentang pegawai diberikuasa hendaklah ditafsirkan sebagai sebutan tentang pegawai diberikuasa sebagaimana yang ditakrifkan dalam Akta ibu seperti yang dipinda oleh Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_26__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua lesen, perakuan, dokumen, pendaftaran, kelulusan, arahan, perintah, garis panduan, pemberitahuan, perjanjian, dan apa-apa dokumen lain yang dibuat, dikeluarkan atau diberikan oleh Ketua Pengarah Pos, sebelum permulaan kuat kuasa Akta ini hendaklah, apabila Akta ini mula berkuat kuasa, ditafsirkan sebagai telah dibuat, dikeluarkan atau diberikan oleh Suruhanjaya atau Pengerusi Suruhanjaya, mengikut mana-mana yang berkenaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong takrif \"Jabatan Pos\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong takrif \"Ketua Pengarah\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan takrif \"pegawai diberikuasa\" dengan takrif yang berikut: ' \"pegawai diberikuasa\" ertinya mana-mana pegawai yang diambil bekerja oleh Suruhanjaya dan diberi kuasa bagi maksud-maksud Akta ini oleh Suruhanjaya;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif \"surat\" takrif yang berikut: ' \"Suruhanjaya\" ertinya Suruhanjaya Komunikasi dan Multimedia Malaysia yang Akta 589. ditubuhkan di bawah Akta Suruhanjaya Komunikasi dan Multimedia Malaysia 1998;'; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa Inggeris, dengan menggantikan koma bertitik yang terdapat di hujung takrif \"postal article\" dengan noktah. Pindaan Bahagian II"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bahagian II Akta ibu dipinda dengan menggantikan tajuknya dengan tajuk yang berikut: \"FUNGSI DAN TUGAS SURUHANJAYA\". Penggantian seksyen 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 4 dengan seksyen yang berikut: Suruhan- 4. Suruhanjaya hendaklah melaksanakan fungsi-fungsi jaya dan tugas-tugas yang diberikan kepadanya di bawah Akta hendaklah ini.\". melaksana- kan fungsi dan tugas. Pemotongan seksyen 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 5. Pindaan seksyen 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 6 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_6__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_6__para_a__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_6__para_a__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)— (i) dengan menggantikan perkataan \"Ketua Pengarah\" dengan perkataan \"Suruhanjaya\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_6__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_6__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas koma bertitik di hujung perenggan (j) perkataan \"dan\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_6__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_6__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perenggan (k); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_6__para_a__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_6__para_a__subpara_iv__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_6__para_a__subpara_iv__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_6__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_6__para_a__subpara_iv__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_6__para_a__subpara_iv",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"Ketua Pengarah\" dengan perkataan \"Suruhanjaya\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_6__para_a__subpara_iv__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_6__para_a__subpara_iv",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa Inggeris, dengan menggantikan perkataan \"his\" dengan perkataan \"its\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (2) dengan subseksyen yang berikut: \"(2) Suruhanjaya boleh membenarkan Pengerusi Suruhanjaya dan mana-mana pegawai diberikuasa menjalankan mana-mana fungsi dan tugas yang dinyatakan dalam subseksyen (1).\". Pindaan seksyen 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_7__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 7 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan \"Ketua Pengarah\" dengan perkataan \"Suruhanjaya\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan memasukkan selepas perkataan \"oleh\" perkataan \"Suruhanjaya atau\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (5), dengan menggantikan perkataan \"Kerajaan\" dengan perkataan \"Suruhanjaya\". Pindaan seksyen 8"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 8(2) Akta ibu dipinda dengan menggantikan perkataan \"Ketua Pengarah\" dengan perkataan \"Suruhanjaya\". Pindaan seksyen 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_9__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_9__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 9 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota birai, dengan memotong perkataan \"Kerajaan\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"Kerajaan\" perkataan \"dan Suruhanjaya\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_9__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"Jabatan Pos\" dengan perkataan \"Suruhanjaya\". Pindaan seksyen 10"
+      }
+    }
+  ]
+}

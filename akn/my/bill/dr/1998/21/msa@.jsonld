@@ -1,0 +1,3112 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-21-1998",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Francais 1998"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERMULAAN"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_17"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PELANTIKAN PENDAFTAR FRANCAIS, PENDAFTARAN, DSB."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_28"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERJANJIAN PRANCAIS"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perjanjian francais hendaklah dalam bentuk bertulis."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2__para_l",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2__para_m"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perjanjian francais hendaklah mengandungi tetapi tidak terhad kepada—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "nama dan perihal keluaran dan perniagaan di bawah francais;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "hak wilayah yang diberikan kepada pemegang francais;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "fi francais, fi promosi, royalti atau apa-apajenis bayaran yang berkaitan yang boleh dikenakan atas pemegang francais, jika ada;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kewajipan pemberi francais;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kewajipan pemegang francais;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "hak pemegang francais untuk menggunakan cap atau apa-apa harta intelektual lain, sementara menanti pendaftaran atau selepas pendaftaran francais;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "syarat-syarat yang di bawahnya pemegang francais boleh menyerahhakkan hak di bawah francais;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pernyataan tentang tempoh bertenang sebagaimana yang diperuntukkan dalam subseksyen (4);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perihal mengenai cap atau apa-apa harta intelektual lain yang dipunyai oleh atau yang berkaitan dengan pemberi francais yang digunakan dalam francais;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika perjanjian itu adalah berkaitan dengan pemegang francais induk, identiti pemberi francais dan hak yang diperoleh oleh pemegang francais induk daripada pemberi francais;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jenis dan butir-butir bantuan yang diberikan oleh pemberi francais;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tempoh francais dan terma-terma pembaharuan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2__para_m",
+      "@type": "akn:paragraph",
+      "eli:number": "m",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kesan penamatan atau habis tempoh perjanjian francais."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kegagalan mematuhi subseksyen (2) menjadikan perjanjian francais batal dan tidak sah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perjanjian francais hendaklah mempunyai tempoh bertenang, yang hendaklah ditentukan oleh kedua-dua pihak yang berkontrak tetapi tidak boleh kurang daripada tujuh hari bekerja, dan dalam tempoh itu pemegang trancais mempunyai pilihan untuk menamatkan perjanjian itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila tamat perjanjian francais di bawah subseksyen (4), suatu amaun untuk menampung perbelanjaan munasabah yang dilakukan oleh pemberi francais untuk menyediakan perjanjian boleh disimpan oleh pemberi francais daripada fi permulaan yang dibayar di bawah seksyen 19; walau bagaimanapun, semua wang lain hendaklah dipulangkan kepada penerima francais."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang yang tidak mematuhi subseksyen (5) adalah melakukan suatu kesalahan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jika pemberi francais menghendaki pemegang francais"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membuat apa-apa bayaran sebelum menandatangani perjanjian francais, termasuklah bayaran yang merupakan sebahagian daripada fi francais, pemberi francais hendaklah menyatakan secara bertulis maksud bayaran itu dan syarat- syarat bagi penggunaan dan pembayaran balik wang itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_20__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_20__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_20__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_20__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_20__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Francais menjadi tidak adil dan melanggar Akta ini"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika mana-mana pemberi francais mendiskriminasi dengan cara yang tidak munasabah dan dengan ketara antara pemegang-pemegang francais yang mengendalikan francais tentang bayaran yang ditawarkan atau dibuat bagi fi francais, royalti, barangan, perkhidmatan, kelengkapan, sewa atau perkhidmatan pengiklanan jika diskriminasi itu boleh menyebabkan persaingan yang memudaratkan mana-mana pemegang francais yang bersaing dengan pemegang francais yang menerima faedah daripada diskriminasi itu, melainkan jika dan setakat yang apa-apa pengelasan atau diskriminasi antara pemegang-pemegang francais adalah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_20__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "berdasarkan kepada francais yang diberikan pada masa yang berlainan, dan diskriminasi itu adalah berhubung dengan munasabahnya dengan perbezaan masa itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_20__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "berhubung dengan satu program atau lebih bagi membuatkan francais tersedia kepada orang yang tidak cukup modal, latihan, pengalaman perniagaan atau pendidikan, atau kurang kelayakan yang lain;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_20__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "berhubung dengan usaha oleh Kerajaan atau mana-mana agensinya untuk menggalakkan kepelbagaian dalam keluaran atau bidang perkhidmatan atau format atau reka bentuk perniagaan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_20__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "berhubung dengan usaha oleh seorang pemegang francais atau lebih untuk membaiki kekurangan dalam pengendalian perniagaan difrancaiskan atau keingkaran dalam perjanjian francais; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_20__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "berdasarkan pada perbezaan-perbezaan lain yang munasabah dengan mengambil kira maksud- maksud Akta ini dan tidaklah dibuat sewenang- wenang."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jika pemegang francais dikehendaki membayar apa-"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa fi francais atau royalti kepada pemberi francais, kadar fi francais atau royalti hendaklah kadar yang diperuntukkan dalam dokumen penzahiran."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_22__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_22__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_22__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_22__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_22__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_22__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pemberi francais yang menghendaki seseorang pemegang francais membuat apa-apa bayaran bagi maksud promosi sesuatu francais hendaklah menubuhkan Kumpulan Wang Promosi (\"Kumpulan Wang\")."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_22__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kumpulan Wang itu hendaklah diuruskan di bawah akaun yang berasingan dan hendaklah digunakan hanya bagi promosi keluaran di bawah francais itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_22__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika pemegang francais dikehendaki membuat apa- apa bayaran di bawah seksyen 23, pemberi francais hendaklah mengemukakan penyata kewangan mengenai Kumpulan Wang, yang telah diendors oleh akauntan awam berdaftar, kepada Pendaftar dalam tempoh tiga puluh hari selepas tamat penggal kewangan terakhir."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_22__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Penyata kewangan dalam subseksyen (3) hendaklah dikemukakan kepada Pendaftar berserta dengan laporan tahunan di bawah seksyen 16."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_22__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang yang tidak mematuhi seksyen ini adalah melakukan kesalahan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_23__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_23__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_23__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika seseorang penerima francais dikehendaki membuat apa-apa bayaran bagi maksud promosi atau membayar fi promosi kepada pemberi francais, bayaran itu hendaklah pada kadar yang diperuntukkan dalam dokumen penzahiran."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_23__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bayaran yang dikehendaki dibuat di bawah subseksyen (1) hendaklah dimasukkan ke dalam Kumpulan Wang."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Pemberi francais adalah dikehendaki mendaftarkan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "cap dagangannya atau cap perkhidmatannya yang berkaitan dengan francaisnya mengikut Akta Cap Dagangan 1976 (jika boleh didaftarkan di bawah Akta itu) sebelum memohon pendaftaran francaisnya di bawah seksyen 7."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Tempoh francais tidak boleh kurang daripada lima"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tahun."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_26__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_26__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_26__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_26__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pemegang francais hendaklah memberikanjaminan bertulis kepada pemberi francais bahawa pemegang francais dan pekerja-pekerjanya tidak akan menzahirkan kepada mana-mana orang apa-apa maklumat yang terkandung dalam manual pengendalian atau yang diperoleh semasa menjalani latihan yang dianjurkan oleh pemberi francais semasa tempoh perjanjian francais itu dan selama dua tahun selepas perjanjian francais itu habis tempoh atau ditamatkan lebih awal."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_26__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pemegang francais dan pekerjanya hendaklah mematuhi terma jaminan bertulis yang diberikan di bawah subseksyen (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_26__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang yang tidak mematuhi subseksyen (1) atau (2) adalah melakukan suatu kesalahan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_27__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_27__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_27__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_27__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pemegangfrancaishendaklahmemberikanjaminan bertulis kepada pemberi francais bahawa pemegang francais dan pekerja-pekerjanya tidak akan menjalankan apa-apa perniagaan lain yang serupa dengan perniagaan yang difrancaiskan yang dikendalikan oleh pemegang francais semasa tempoh perjanjian francais itu dan selama dua tahun selepas perjanjian francais itu habis tempoh atau ditamatkan lebih awal."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_27__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pemegang francais dan pekerjanya hendaklah mematuhi terma jaminan bertulis yang diberikan di bawah subseksyen (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_27__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang yang tidak mematuhi subseksyen (1) atau (2) adalah melakukan suatu kesalahan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_28__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_28__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_28__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa syarat, ketetapan atau peruntukan dalam perjanjian francais yang berupa mengikat pemegang francais supaya menepikan pematuhan mana-mana peruntukan dalam Akta ini adalah tidak sah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_28__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_III__cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen ini tidak menghalang mana-mana orang daripada membuat apa-apa perjanjian penyelesaian atau melaksanakan pelepasan am berkenaan dengan suatu tindakan sivil yang mungkin akan atau sebenarnya difailkan berkenaan dengan francais dan juga tidak menghalang timbang tara apa-apa tuntutan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Pendaftaran sesuatu francais hendaklah terus berkuat"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kuasa melainkan jika Pendaftar mengeluarkan suatu perintah yang dibuat melalui notis bertulis kepada pemohon atau pemberi francais untuk menggantung, menamatkan, melarang atau menolak penjualan atau pendaftaran francais di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_11__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_11__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika terdapat apa-apa perubahan matan dalam dokumen penzahiran yang disebut dalam perenggan 7(1)(a) dan (f), pemohon atau pengarah atau pengurusnya hendaklah meminda dokumen itu mengikut bentuk yang ditetapkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dokumen dalam subseksyen (1) hendaklah difailkan dengan Pendaftar."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_11__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pendaftar boleh, pada bila-bila masa, menghendaki maklumat tambahan mengenai pindaan yang dibuat di bawah seksyen ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_12__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_12__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada seksyen 13, jika Pendaftar bercadang untuk menggantung, menamatkan, melarang atau menolak penjualan atau pendaitaran sesuatu francais, dia hendaklah memberi pemohon atau pemberi francais notis bertulis tentang niatnya untuk berbuat demikian, dengan menyatakan jenis tindakan yang dicadangkan dan alasan yang berdasarkannya dia bercadang untuk mengambil tindakan itu, dan dia hendaklah memberi pemohon atau pemberi francais itu peluang untuk membuat representasi bertulis tentang perkara itu dalam tempoh empat belas hari dari tarikh penyampaian notis itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Setelah habis tempoh empat belas hari yang disebut dalam subseksyen (1) dan setelah menimbangkan apa- apa representasi yang dibuat oleh pemohon atau pemberi francais di bawah subseksyen itu, Pendaftar hendaklah memutuskan sama ada akan meneruskan tindakan yang dicadangkan atau tidak mengambil tindakan selanjutnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_12__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pendaftar hendaklah memberi pemohon atau pemberi francais notis bertulis tentang keputusannya di bawah subseksyen (2) dan keputusan itu hendaklah mula berkuat kuasa dari tarikh notis bertulis itu disampaikan kepada pemohon atau pemberi francais itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_13__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pemberi francais boleh, pada bila-bila masa selepas tempoh irancais itu, memohon kepada Pendaftar bagi pembatalan pendaftaran francais itu daripada daftar."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pendaftar hendaklah dengan sewajarnya membatalkan pendaftaran francais itu daripada daftar jika dia berpuas hati bahawa pemberi francais tidak lagi memberikan hak-hak di bawah francais itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_14__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_14__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_14__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_14__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_14__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_14__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_14__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Broker francais hendaklah mendaftarkan dirinya dengan Pendaftar mengikut cara yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_14__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_14__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggunakan borang permohonan yang ditetapkan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_14__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_14__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memfailkan dengan Pendaftar apa-apa maklumat, yang hendaklah ditentukan oleh Pendaftar, berkenaan dengan mana-mana wakil atau ejen yang dilantik oleh broker francais itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Broker francais itu mestilah memenuhi kesemua kehendak yang ditetapkan tentang kelayakan broker francais sebelum dia boleh didaftarkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_14__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pendaftar boleh mengenakan syarat-syarat bagi pendaftaran seseorang broker francais."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_14__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Syarat-syarat dalam subseksyen (3) bolehlah termasuk syarat-syarat yang mentadbir penjualan francais oleh broker francais dan syarat-syarat mengenai kelakuan, penggantungan, penamatan, larangan atau penolakan pendaftaran seseorang broker francais."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_14__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pendaftaran di bawah seksyen ini hendaklah berkuat kuasa selama satu tahun dari tarikh pendaftaran, melainkan jika ditentukan selainnya oleh Pendaftar."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_14__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Peruntukan berkenaan dengan maklumat rahsia dan larangan menjalankan perniagaan yang serupa dalam seksyen 26 dan 27 adalah juga terpakai bagi broker francais."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_15__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_15__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pemberi francais hendaklah mengemukakan perjanjian francais dan dokumen penzahiran kepada seseorang pemegang francais sekurang-kurangnya sepuluh hari sebelum pemegang francais itu menandatangani perjanjian dengan pemberi francais itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dokumen penzahiran dalam subseksyen (1) hendaklah dokumen yang sama yang diserahkan kepada Pendaftar."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_15__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang yang tidak mematuhi seksyen ini adalah melakukan suatu kesalahan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_16__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_16__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_16__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_16__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Setiap tahun pemberi francais hendaklah, dalam masa tiga puluh hari dari tarikh ulang tahun pendaftaran, mengemukakan laporan kepada Pendaftar dalam bentuk yang ditetapkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_16__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Laporan itu hendaklah mengandungi dokumen penzahiran yang telah dikemaskinikan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_16__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_16__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_16__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pendaftar boleh mengkaji laporan dan dokumen penzahiran itu dan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_16__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_16__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memberitahu pemberi francais jika apa-apa maklumat tambahan atau ubahsuaian dokumen penzahiran itu perlu dimasukkan atau dipotong; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_16__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_16__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mengeluarkan suatu perintah untuk menggantung, menamatkan, melarang atau menolak penjualan atau pendaftaran francais demi kepentingan awam atau bagi maksud melindungi bakal pemegang francais sehingga apa-apa kekurangan yang dinyatakan oleh Pendaftar telah dibetulkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_17__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_17__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang yang terkilan dengan apa-apa keputusan Pendaftar di bawah Bahagian ini boleh merayu kepada Menteri mengikut cara yang ditetapkan dalam tempoh satu bulan dari tarikh keputusan itu diberitahukan kepada orang itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Keputusan Menteri tentang rayuan itu adalah muktamad."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_5__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_5__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_5__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_5__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh melantik seorang pegawai awam sebagai Pendaftar Francais dan apa-apa bilangan Timbalan Pendaftar Francais, Penolong Pendaftar Francais dan pegawai lain yang perlu bagi maksud-maksud Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pendaftar hendaklah, tertakluk kepada arahan umum dan kawalan Menteri, melaksanakan kewajipan-kewajipan yang dikenakan dan menjalankan kuasa yang diberikan kepadanya di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Timbalan Pendaftar, Penolong Pendaftar dan pegawai-pegawai lain yang dilantik di bawah subseksyen (1) adalah di bawah arahan dan kawalan Pendaftar."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_5__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Timbalan Pendaftar boleh melaksanakan semua kewajipan dan menjalankan semua kuasa yang diberikan kepada Pendaftar di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_5__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pendaftar atau Timbalan Pendaftar boleh melaksanakan semua kewajipan yang dikenakan dan menjalankan semua kuasa yang diberikan kepada Penolong Pendaftar di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_5__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua pegawai yang dilantik di bawah seksyen ini adalah disifatkan sebagai pengkhidmat awam mengikut pengertian Kanun Keseksaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_6__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang pemberi francais hendaklah mendaftarkan pendaftaran. francaisnya dengan Pendaftar sebelum dia boleh membuat tawaran untuk menjual francais kepada mana-mana orang."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang yang tidak mematuhi seksyen ini adalah melakukan suatu kesalahan melainkan jika dia telah dikecualikan oleh Menteri di bawah seksyen 58 daripada kehendak untuk mendaftar di bawah seksyen ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_7__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_7__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_7__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_7__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_7__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_7__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_7__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_7__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_7__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_7__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_7__subsec_1__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pemberi francais hendaklah membuat permohonan untuk mendaftarkan francaisnya dengan mengemukakan permohonan kepada Pendaftar dalam borang yang ditetapkan berserta dengan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_7__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dokumen penzahiran yang lengkap dengan kesemua butir yang perlu telah diisi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_7__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu sampel perjanjian francais itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_7__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "manual pengendalian francais itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_7__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "manual latihan francais itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_7__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu salinan terbaru akaun teraudit, penyata kewangan, dan laporan, jika ada, juruaudit dan pengarah pemohon; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_7__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa maklumat atau dokumen tambahan lain yang dikehendaki oleh Pendaftar bagi maksud menentukan permohonan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pada bila-bila masa selepas menerima sesuatu permohonan dan sebelum permohonan itu ditentukan, Pendaftar boleh, dengan notis bertulis, menghendaki pemohon, atau pengarah atau pengurus pemohon, supaya memberikan maklumat atau dokumen tambahan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_7__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perkara-perkara yang dinyatakan di bawah perenggan (1)(f) atau kehendak di bawah subseksyen (2) boleh berbeza antara pemohon yang berlainan, atau kelas, kategori atau perihal pemohon yang berlainan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_7__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sesuatu permohonan di bawah seksyen ini boleh ditarik balik pada bila-bila masa sebelum permohonan itu diluluskan atau ditolak."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_7__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika apa-apa maklumat atau dokumen tambahan yang dikehendaki di bawah subseksyen (2) tidak diberikan oleh pemohon atau pengarah atau pengurusnya dalam masa yang dinyatakan dalam kehendak itu atau apa-apa masa lanjutan yang diberikan oleh Pendaftar, permohonan itu hendaklah disifatkan telah ditarik balik dan tidak boleh diteruskan, tetapi tanpa menjejaskan apa-apa permohonan baru yang dibuat oleh pemohon."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_7__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang yang memberikan maklumat atau dokumen palsu atau mengelirukan di bawah seksyen ini adalah melakukan suatu kesalahan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_8__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_8__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_8__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila diterima permohonan bagi pendaftaran berserta dengan maklumat atau dokumen yang dikehendaki di bawah seksyen 7, Pendaftar boleh meluluskan atau menolak permohonan itu dan hendaklah memberikan sebab bagi penolakan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sesuatu permohonan bagi pendaftaran yang diluluskan di bawah seksyen ini boleh dijadikan tertakluk kepada apa-apa syarat yang dikenakan oleh Pendaftar."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_8__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila meluluskan sesuatu permohonan di bawah subseksyen (1), Pendaftar boleh menghendaki pemohon membayar apa-apa jumlah fi yang ditetapkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_8__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pendaftar hendaklah memberi pemohon notis bertulis tentang keputusannya di bawah seksyen ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_9__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jika pendaftaran francais diluluskan di bawah seksyen"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "8, pendaftaran itu hendaklah berkuat kuasa pada tarikh yang dinyatakan dalam notis bertulis yang diberikan oleh Pendaftar dan tarikh itu hendaklah selepas tarikh pemfailan kesemua maklumat atau dokumen yang dikehendaki melainkan jika, sebelum itu, salah satu daripada perkara yang berikut berlaku:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pendaftar telah memberitahu pemohon bahawa pemohon telah tidak mematuhi kehendak- kehendak seksyen 6 dan subseksyen 7(1), (2) dan (3); atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pendaftar telah mengeluarkan suatu perintah di bawah seksyen 10 atau perenggan 16(3)(b)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_34"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "KELAKUAN PIHAK-PIHAK DAN PENAMATAN PERJANJIAN PRANCAIS"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_29__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_29__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_29__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pemberi francais dan pemegang francais hendaklah bertindak dengan jujur dan sah di sisi undang-undang dan hendaklah berusaha untuk meneruskan amalan perniagaan francais yang terbaik mengikut masa dan tempat."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_29__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_29__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_29__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_29__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pemberi francais dan pemegang francais semasa mereka berurusan antara satu sama lain hendaklah mengelakkan kelakuan yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_29__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_29__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penilaian berlebihan yang banyak dan tidak munasabah tentang fi dan harga;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_29__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_29__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kelakuan yang tidak perlu dan tidak munasabah berhubung dengan risiko yang dilakukan oleh satu pihak; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_29__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_29__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kelakuan yang tidak dengan munasabahnya perlu bagi melindungi kepentingan perniagaan pemberi francais, pemegang francais atau sistem francais yang sah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_30__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_30__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_30__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_30__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_30__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pemberi francais hendaklah memberikan notis bertulis mengenai kemungkiran kontrak oleh pemegang francais dan memberikan pemegang francais masa untuk memulihkan kemungkiran itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_30__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pemegang francais hendaklah membayar fi francais, royalti, fi promosi atau apa-apa bayaran lain yang diperuntukkan dalam perjanjian francais."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_30__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pemberi francais hendaklah memberikan bantuan kepada pemegang francais untuk mengendalikan perniagaannya, seperti peruntukan atau pembekalan bahan dan perkhidmatan, latihan, pemasaran dan bantuan perniagaan atau teknik."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_30__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pemberi francis dan pemegang francais hendaklah melindungi kepentingan pengguna pada setiap masa. Francais"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_31__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_31__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_31__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_31__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada pemberi francais boleh menamatkan perjanjian francais sebelum tarikh habis tempoh kecuali dengan sebab yang baik yang diperuntukkan dalam subseksyen (2) dan (3)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_31__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_31__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_31__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "\"Sebab yang baik\" hendaklah termasuk, tetapi tidak terhad kepada—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_31__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_31__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kegagalan pemegang francais untuk mematuhi apa-apa terma perjanjian francais atau mana- mana perjanjian lain yang berkaitan yang dibuat antara pemberi francais dengan pemegang francais; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_31__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_31__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kegagalan pemegang francais untuk memulihkan apa-apa kemungkiran yang telah dilakukannya atau mana-mana pekerjanya dalam tempoh yang dinyatakan dalam notis bertulis yang diberikan oleh pemberi francais, yang tidak boleh kurang daripada empat belas hari, bagi pemulihan kemungkiran itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_31__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_31__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_31__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_31__subsec_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_31__subsec_3__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "\"Sebab yang baik\" hendaklah termasuk, tetapi tanpa kehendak notis dan suatu peluang untuk memulihkan kemungkiran, hal keadaan apabila pemegang francais—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_31__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_31__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membuat penyerahhakan hak francais itu bagi faedah pemiutang atau pelupusan seumpamanya aset francais itu kepada mana-mana orang lain;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_31__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_31__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "meninggalkan perniagaan francais dengan sengaja;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_31__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_31__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "disabitkan atas apa-apa kesalahan jenayah yang dengan ketara merosakkan nama baik yang dikaitkan dengan cap atau apa-apa harta intelektual lain pemegang francais; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_31__subsec_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_31__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "secara berulang kali tidak mematuhi terma perjanjian francais."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_32__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_32__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Pemberi francais melakukan suatu kesalahan jika"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dia enggan membaharui perjanjian francais atau melanjutkan tempoh francais tanpa membayar pampasan kepada pemegang francais sama ada dengan cara membeli semula atau cara lain pada harga yang dipersetujui antara 22 Rang Undang-Undang pemberi francais dengan pemegang francais setelah mengambil kira pengurangan nilai perniagaan yang difrancaiskan itu disebabkan oleh habis tempoh francais itu jika—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_32__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_32",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penerima francais dihalang oleh perjanjian francais, atau dengan keengganan pemberi francais sekurang-kurangnya enam bulan sebelum tarikh habis tempoh perjanjian francais untuk melepaskan mana-mana bahagian perjanjian francais yang melarang pemegang francais, daripada terus menjalankan secara matannya perniagaan yang sama di bawah cap yang lain dalam kawasan yang sama selepas habis tempoh perjanjian francais itu; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_32__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_32",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pemegang francais itu tidak diberi notis bertulis tentang niat pemberi francais untuk tidak membaharui perjanjian francais sekurang- kurangnya enam bulan sebelum tarikh habis tempoh perjanjian francais itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_33__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_33__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Walau apa pun seksyen 25, tempoh francais boleh"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ditamatkan sebelum habis tempoh minimum lima tahun dalam hal keadaan yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_33__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika kedua-dua pihak dalam perjanjian itu bersetuju dengan penamatan; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_33__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika mahkamah memutuskan bahawa terdapat syarat-syarat tertentu dalam perjanjian francais itu yang mewajarkan perjanjian itu ditamatkan lebih awal daripada tempoh minimum."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_34__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_34__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_34__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_34__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_34",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pada bila-bila masa sebelum habis tempoh francais, pemegang francais hendaklah mengikut pilihannya memberikan notis bertulis kepada pemberi francais untuk melanjutkan tempoh francais itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_34__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_34",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kecuali apabila pemegang francais telah memungkiri terma-terma perjanjian francais yang sebelumnya, pemberi francais hendaklah melanjutkan tempoh francais itu kepada suatu tempoh lain jika pemegang francais telah memohon pelanjutan tempoh itu mengikut subseksyen (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_34__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_IV__cl_34",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perjanjian francais yang tempoh francaisnya dilanjutkan hendaklah mengandungi syarat-syarat yang serupa atau tidak kurang menguntungkan daripada syarat- syarat dalam perjanjian francais yang sebelumnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Francais 1998. Tajuk"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "oleh Menteri melalui pemberitahuan dalam Warta."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_3__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini terpakai di seluruh Malaysia bagi penjualan apa-apa francais di dalam Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_3__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_3__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Penjualan sesuatu francais adalah disifatkan di dalam Malaysia jika—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_3__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_3__subsec_2__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_3__subsec_2__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu tawaran untuk menjual atau membeli francais—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_3__subsec_2__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_3__subsec_2__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dibuat di dalam Malaysia dan diterima di dalam atau di luar Malaysia; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_3__subsec_2__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_3__subsec_2__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dibuat di luar Malaysia dan diterima di dalam Malaysia; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_3__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perniagaan yang difrancaiskan itu dikendalikan atau akan dikendalikan di dalam Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada apa-apa jua dalam Akta ini boleh menjejaskan peruntukan mana-mana undang-undang bertulis lain, tetapi jika ada apa-apa percanggahan antara peruntukan- peruntukan Akta ini dengan peruntukan-peruntukan undang- undang bertulis lain itu, peruntukan-peruntukan Akta ini hendaklah terpakai."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_4__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_4__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Dalam Akta"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ini, melainkan jika konteksnya menghendaki makna yang lain— \"Akta ini\" termasuklah apa-apa peraturan yang dibuat di bawah Akta ini; \"broker francais\" ertinya seseorang yang menjalankan perniagaan sebagai ejen atau wakil kepada mana-mana pemberi francais untuk menjual francais kepada mana- mana orang dengan balasan yang tertentu tetapi tidak termasuk mana-mana pengarah, pegawai atau pekerja pemberi francais atau pemegang francais; \"cap\" termasuklah cap dagangan, cap perkhidmatan, simbol, reka bentuk, jenama, tajuk, label, tiket, nama, tandatangan, perkataan dan huruf atau apa-apa gabungannya; \"ditetapkan\" ertinya ditetapkan melalui peraturan- peraturan yang dibuat di bawah Akta ini; \"dokumen penzahiran\" ertinya apa-apa dokumen penzahiran yang ditetapkan oleh Menteri; \"francais\" ertinya kontrak atau perjanjian, sama ada secara nyata atau tersirat, sama ada secara lisan atau bertulis, antara dua orang atau lebih yang dengannya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_4__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_4__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_4__list_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_4__list_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_4__list_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_4__list_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_4__list_1__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_4"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_4__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_4__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pemberi francais memberi pemegang francais hak untuk mengendalikan perniagaan mengikut sistem francais yang ditentukan oleh pemberi francais selama tempoh yang ditentukan oleh pemberi francais;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_4__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_4__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pemberi francais memberi pemegang francais hak untuk menggunakan cap, atau rahsia dagangan, atau apa-apa maklumat sulit atau harta intelektual, yang dipunyai oleh pemberi francais atau berhubungan dengan pemberi francais, dan termasuk keadaan apabila pemberi francais, yang merupakan pengguna berdaftar, atau dilesenkan oleh orang lain untuk menggunakan, apa-apa harta intelektual, memberikan apa-apa hak yang dimilikinya untuk membenarkan pemegang francais untuk menggunakan harta intelektual itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_4__list_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_4__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pemberi francais memiliki hak untuk melaksanakan kawalan berterusan sepanjang tempoh francais terhadap pengendalian perniagaan pemegang francais mengikut sistem francais;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_4__list_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_4__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pemberi francais mempunyai tanggungjawab untuk memberikan bantuan kepada pemegang francais untuk mengendalikan perniagaannya termasuklah apa-apa bantuan seperti peruntukan atau pembekalan bahan dan perkhidmatan, latihan, pemasaran, dan bantuan perniagaan atau teknik;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_4__list_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_4__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sebagai balasan kepada pemberian hak-hak itu, pemegang francais dikehendaki membayar fi atau bentuk balasan yang lain; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_4__list_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_4__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pemegang francais mengendalikan perniagaan secara berasingan daripada pemberi francais, dan hubungan pemegang francais dengan pemberi francais tidak boleh pada bila-bila masa dianggap sebagai suatu perkongsian, kontrak perkhidmatan atau agensi; \"iklan\" ertinya apa-apa bentuk penerbitan, pekeliling, notis, atau apa-apa komunikasi lisan atau bertulis, sama ada disiarkan melalui media elektronik, atau apa-apa media penyiaran yang lain, atau apa-apa bentuk alat komunikasi elektronik kepada orang ramai bagi maksud menawarkan penjualan francais atau mempromosi penjualan francais; \"Menteri\" ertinya Menteri yang pada masa ini dipertanggungjawabkan dengan tanggungjawab bagi perkara-perkara yang berhubungan dengan francais; \"orang\" termasuklah orang sebenar, perbadanan, perkongsian, persatuan, firma, usaha sama atau amanah; \"pegawai diberi kuasa\" ertinya seseorang pegawai yang diberi kuasa secara bertulis oleh Menteri di bawah seksyen 42 untuk menjalankan kuasa penguatkuasaan di bawah Akta ini; \"pemberi francais\" ertinya orang yang memberikan francais kepada pemegang francais dan termasuk pemegang francais induk berkenaan dengan hubungannya dengan pemegang subfrancais, melainkan jika dinyatakan selainnya dalam Akta ini; \"pemegang francais\" ertinya orang yang kepadanya francais diberikan dan termasuk, melainkan jika dinyatakan selainnya dalam Akta ini—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_4__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_4__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_4__list_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_4"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_4__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_4__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pemegang francais induk berkenaan dengan hubungannya dengan pemberi francais; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_4__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_I__cl_4__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pemegang subfrancais berkenaan dengan hubungannya dengan pemegang francais induk; \"pemegang francais induk\" ertinya seseorang yang diberi hak oleh pemberi francais untuk mensubfrancaiskan kepada orang lain, atas perbelanjaannya sendiri, francais kepunyaan pemberi francais itu; \"Pendaftar\", \"Timbalan Pendaftar\" dan \"Penolong Pendaftar\" masing-masing ertinya Pendaftar Francais, Timbalan Pendaftar Francais dan Penolong Pendaftar Francais yang dilantik di bawah seksyen 5; \"peraturan\" ertinya peraturan yang dibuat di bawah Akta ini; \"perjanjian francais\" ertinya kontrak atau perjanjian yang dibuat antara pemberi francais dengan pemegang Francais francais berkenaan dengan sesuatu francais sebagai balasan terhadap apa-apa bentuk balasan tetapi tidak termasuk apa-apa kontrak atau perjanjian yang dibuat bagi maksud jualan langsung sebagaimana yang di-peruntukkan oleh Akta Jualan Langsung 1993."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_V__cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_V__cl_36"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "LEMBAGA PENASIHAT FRANCAIS"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_41"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "KESALAHAN DAN PENALTI"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII",
+      "@type": "akn:part",
+      "eli:number": "VII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_44",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_45",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_46",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_47",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_48",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_49",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_50",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_51",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_52"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PENGUATKUASAAN"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII",
+      "@type": "akn:part",
+      "eli:number": "VIII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_53",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_54",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_55",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_56",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_57",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_58",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_59",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_60",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_61"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PELBAGAI"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_53",
+      "@type": "akn:clause",
+      "eli:number": "53",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Pemberi francais yang bercadang untuk menjual suatu"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "francais kepada seseorang yang bukan warganegara Malaysia hendaklah memperoleh kelulusan, dan tertakluk kepada syarat-syarat yang boleh dikenakan oleh, Pendaftar."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_54",
+      "@type": "akn:clause",
+      "eli:number": "54",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_54__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_54__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_54__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_54__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_54",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Orang asing yang bercadang menjual francaisnya di Malaysia atau kepada mana-mana warganegara Malaysia hendaklah mengemukakan permohonan kepada Pendaftar."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_54__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_54",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pendaftar boleh meluluskan atau menolak permohonan di bawah subseksyen (1) tanpa memberikan sebab bagi penolakan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_54__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_54",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Permohonan yang diluluskan di bawah seksyen ini boleh dijadikan tertakluk kepada apa-apa syarat yang boleh dikenakan oleh Pendaftar."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_55",
+      "@type": "akn:clause",
+      "eli:number": "55",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_55__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_55__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_55__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_55",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun seksyen 6, seseorang pemegang francais pemberi francais asing hendaklah mendaftarkan francaisnya dengan Pendaftar dengan menggunakan borang permohonan yang ditetapkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_55__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_55",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pendaftar boleh mengenakan syarat-syarat atas pendaftaran pemegang francais yang disebut dalam subseksyen (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_56",
+      "@type": "akn:clause",
+      "eli:number": "56",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Pendaftar boleh membenarkan pemeriksaan awam"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana dokumen penzahiran yang difailkan kepada Pendaftarmelainkan jika, pada pendapatnya, pemeriksaan itu boleh mendatangkan mudarat kepada pemberi francais atau pemegang francais atau mana-mana orang yang terlibat dalam perniagaan francais yang berhubungan dengan pemeriksaan itu atau pemeriksaan itu tidak perlu atau sesuai demi kepentingan awam."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_57",
+      "@type": "akn:clause",
+      "eli:number": "57",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_57__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_57__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_57__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_57__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_57",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang berhasrat untuk menerbitkan, mengedarkan atau menggunakan apa-apa iklan yang menawarkan untuk menjual atau membeli francais di bawah Akta ini hendaklah memfailkan dengan Pendaftar satu salinan asal iklan itu sekurang-kurangnya lima hari sebelum penerbitan, pengeluaran atau penggunaan yang pertama iklan itu atau apa-apa tempoh yang lebih singkat yang diluluskan oleh Pendaftar, atau melainkan jika iklan itu telah dikecualikan oleh Pendaftar daripada seksyen ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_57__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_57",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pendaftar boleh, melalui perintah, melarang penggunaan apa-apa iklan yang disifatkan palsu, fraud, mengelirukan atau memperdayakan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_57__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_57",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang yang tidak mematuhi subseksyen (1) adalah melakukan suatu kesalahan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_58",
+      "@type": "akn:clause",
+      "eli:number": "58",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Menteri boleh, melalui perintah yang disiarkan dalam"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Warta, mengecualikan, tertakluk kepada apa-apa syarat yang difikirkan sesuai untuk dikenakan, mana-mana orang atau kelas orang atau perniagaan atau industri daripada kesemua atau mana-mana peruntukan Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_59",
+      "@type": "akn:clause",
+      "eli:number": "59",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_59__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_59__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Tiada tindakan atau pendakwaan boleh dibawa,"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dimulakan atau disenggara dalam mana-mana mahkamah terhadap—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_59__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_59",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pendaftar, Timbalan Pendaftar, Penolong Pendaftar atau mana-mana pegawai yang diberi kuasa sewajarnya di bawah Akta ini bagi atau berkenaan dengan apa-apa tindakan yang diarahkan atau dilakukan bagi maksud melaksanakan Akta ini; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_59__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_59",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana orang lain bagi atau atas sebab atau berkenaan dengan apa-apa tindakan yang dilakukan atau dikatakan dilakukan olehnya di bawah perintah, arahan atau suruhan Menteri, Pendaftar, Timbalan Pendaftar, Penolong Pendaftar, atau mana-mana pegawai atau orang yang diberi kuasa sewajarnya di bawah Akta ini jika perbuatan itu dibuat dengan suci hati dan dengan mempercayai dengan munasabah bahawa perbuatan itu perlu bagi maksud yang hendak dicapai olehnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_60",
+      "@type": "akn:clause",
+      "eli:number": "60",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_60__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_60__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_60__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_60__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_60__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_60__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_60__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_60__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_60__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_60__subsec_1__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_60",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh membuat peraturan-peraturan bagi semua atau mana-mana maksud yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_60__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_60__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menetapkan borang, tatacara dan kehendak- kehendak lain bagi maksud Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_60__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_60__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menetapkan bentuk dan kandungan dokumen penzahiran;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_60__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_60__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menetapkan fi dan bayaran yang kena dibayar kepada Pendaftar berkenaan dengan pendaftaran francais dan cara memungut dan membayar fi atau bayaran itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_60__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_60__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menetapkan tatacara rayuan di bawah Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_60__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_60__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menetapkan tatacara dan kehendak-kehendak bagi pendaftaran apa-apa francais yang diberikan atau dijual di dalam atau di luar Malaysia oleh pemberi francais atau broker francais sebelum Akta ini mula berkuat kuasa;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_60__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_60__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menetapkan saraan bagi perkhidmatan Lembaga Penasihat Francais; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_60__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_60__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mengadakan peruntukan bagi apa-apa perkara lain yang dicadangkan oleh, atau perlu bagi melaksanakan sepenuhnya, peruntukan Akta ini dan bagi pentadbirannya yang sewajarnya. 34 Rang Undang-Undang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_60__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_60",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Peraturan-peraturan yang dibuat di bawah subseksyen (1) boleh menetapkan apa-apa perbuatan yang melanggar peraturan-peraturan itu sebagai suatu kesalahan dan boleh menetapkan penalti denda tidak melebihi sepuluh ribu ringgit atau pemenjaraan selama tempoh tidak melebihi lima tahun atau kedua-duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII__cl_61",
+      "@type": "akn:clause",
+      "eli:number": "61",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VIII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Pemberi francais atau broker francais yang telah"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memberikan atau menjual di dalam atau di luar Malaysia francais kepada penerima francais sebelum Akta ini mula berkuat kuasa hendaklah, tidak lewat daripada dua belas bulan dari permulaan kuat kuasa itu, mendaftarkan francaisnya dengan Pendaftar mengikut tatacara dan kehendak yang ditetapkan di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_42__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_42__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_42__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_42",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh, secara bertulis, memberi kuasa Pendaftar atau mana-mana Timbalan Pendaftar, Penolong Pendaftar atau pegawai awam untuk menjalankan kuasa penguatkuasaan di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_42__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_42",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pada menjalankan mana-mana kuasa penguatkuasaan di bawah Akta ini, seseorang pegawai diberi kuasa hendaklah apabila diminta mengemukakan kepada orang yang terhadapnya dia bertindak kad kuasa yang ditandatangani Menteri dan yang dikeluarkan kepadanya. Francais"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_43__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_43__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_43__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_43__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_43",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pegawai diberi kuasa boleh menyiasat aktiviti- aktiviti pemberi francais, broker francais atau pemegang francais bagi maksud menentukan sama ada dia mematuhi Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_43__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_43",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud subseksyen (1), pegawai diberi kuasa boleh mengeluarkan perintah kepada pemberi francais, broker francais atau pemegang francais untuk membantu melaksanakan penyiasatannya dan memastikan pematuhan kepada Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_43__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_43",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sebagai tambahan kepada kuasanya di bawah subseksyen (1) dan (2), dalam apa-apa hal berhubung dengan pelakuan sesuatu kesalahan di bawah Akta ini, seseorang pegawai diberi kuasa yang menjalankan penyiasatan boleh menjalankan segala atau mana-mana kuasa yang berhubungan dengan penyiasatan polis dalam kes-kes boleh tangkap yang diberikan di bawah Kanun Bab 6. Tatacara Jenayah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_44__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_44__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_44__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_44__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_44__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_44__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_44__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_44",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika pada hemat seseorang Majistret, berdasarkan maklumat bertulis bersumpah dan selepas apa-apa siasatan yang difikirkannya perlu, bahawa terdapat sebab yang munasabah untuk mempercayai bahawa suatu kesalahan di bawah Akta ini sedang atau telah dilakukan di mana- mana premis, Majistret itu boleh mengeluarkan waran yang memberi kuasa mana-mana pegawai diberi kuasa yang dinamakan dalamnya untuk masuk ke dalam premis itu pada bila-bila masa yang munasabah sama ada pada waktu siang atau malam, dengan atau tanpa bantuan dan jika perlu dengan kekerasan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_44__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_44__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_44__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_44__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_44",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang pegawai diberi kuasa boleh, dalam premis yang dimasuki di bawah subseksyen (1), menggeledah dan menyita—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_44__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_44__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "salinan apa-apa buku, akaun atau dokumen lain, termasuklah data terkomputer, yang mengandungi atau yang disyaki dengan munasabah mengandungi maklumat tentang apa-apa kesalahan yang disyaki telah dilakukan sedemikian;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_44__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_44__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa cap, papan tanda, kad, surat, risalah atau peranti atau benda lain yang menggambarkan atau membayangkan bahawa orang itu ialah pemberi francais, broker francais atau pemegang francais;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_44__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_44__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa dokumen atau barang lain yang dengan munasabahnya dipercayai memberikan keterangan mengenai pelakuan kesalahan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_44__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_44",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang pegawai diberi kuasa yang menjalankan penggeledahan di bawah subseksyen (1) boleh, jika pada pendapatnya adalah dengan munasabahnya perlu untuk berbuat demikian bagi maksud penyisatan kesalahan itu, memeriksa mana-mana orang yang berada dalam atau di premis itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_44__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_44",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang pegawai diberi kuasa yang membuat penggeledahan seseorang di bawah subseksyen (3) boleh menyita, menahan atau mengambil milik apa-apa buku, akaun, dokumen, data terkomputer, cap, kad, surat, risalah, peranti atau benda yang dijumpai pada orang itu bagi maksud penyiasatan yang dijalankan oleh pegawai itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_44__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_44",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika, oleh sebab jenis, saiz atau jumlahnya, adalah tidak praktik untuk memindahkan apa-apa buku, akaun, dokumen, data terkomputer, cap, papan tanda, kad, surat, risalah, peranti atau benda yang disita di bawah seksyen ini, pegawai yang menyita itu hendaklah, dengan apa-apa cara, mengelak buku, akaun, dokumen, data terkomputer, cap, papan tanda, kad, surat, risalah, peranti atau benda itu dalam premis atau dalam bekas yang di dalamnya ia dijumpai."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_44__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_44",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang yang, tanpa kuasa sah, memecahkan, mengusik atau merosakkan lak yang disebut dalam subseksyen (5) atau memindahkan apa-apa buku, akaun, dokumen, data terkomputer, cap, papan tanda, kad, surat, risalah, peranti atau benda yang dilak atau mencuba untuk berbuat demikian adalah melakukan suatu kesalahan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_45",
+      "@type": "akn:clause",
+      "eli:number": "45",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jika seseorang pegawai diberi kuasa dalam mana-"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana hal keadaan yang disebut dalam seksyen 44 mempunyai sebab munasabah untuk mempercayai bahawa oleh sebab kelewatan dalam memperoleh suatu waran geledah di bawah seksyen itu penyiasatan akan terjejas atau keterangan mengenai pelakuan sesuatu kesalahan berkemungkinan diusik, dipindahkan, dirosakkan atau dimusnahkan, pegawai itu boleh masuk ke dalam premis itu dan menjalankan dalam, di atas dan berkenaan dengan premis itu semua kuasa yang di sebut dalam seksyen 44 dengan cara yang sepenuhnya dan secukupnya seolah- olah dia diberi kuasa untuk berbuat demikian oleh suatu waran yang dikeluarkan di bawah seksyen itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_46",
+      "@type": "akn:clause",
+      "eli:number": "46",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Tiada wanita boleh diperiksa di bawah seksyen 44"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "atau 45 kecuali oleh seorang wanita lain."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_47",
+      "@type": "akn:clause",
+      "eli:number": "47",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seseorang pegawai diberi kuasa yang menjalankan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penggeledahan di bawah seksyen 44 atau 45 hendaklah diberikan akses kepada data terkomputer sama ada distorkan dalam suatu komputer atau selainnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_48",
+      "@type": "akn:clause",
+      "eli:number": "48",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_48__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_48__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_48__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_48",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kecuali sebagaimana yang diperuntukkan dalam subseksyen (2), jika apa-apa buku, akaun, dokumen, data terkomputer, cap, papan tanda, kad, surat, risalah, peranti atau benda disita di bawah seksyen 44 atau 45, pegawai yang menyita itu hendaklah menyediakan senarai benda disita dan dengan serta-merta menyerahkan sesalinan senarai itu yang ditandatangani olehnya kepada penghuni premis yang digeledah, atau kepada ejen atau pengkhidmatnya, di premis itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_48__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_48",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika premis itu tidak didiami, pegawai yang menyita itu hendaklah, bilamasa mungkin, melekatkan senarai benda disita itu dengan ketara di premis itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_49",
+      "@type": "akn:clause",
+      "eli:number": "49",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_49__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_49__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_49__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_49",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang pegawai diberi kuasa yang membuat penyiasatan di bawah Akta ini boleh melalui perintah secara bertulis menghendaki kehadiran di hadapannya orang yang pada hemat pegawai diberi kuasa itu tahu tentang hal keadaan kes itu, dan orang itu hendaklah hadir apabila dikehendaki sedemikian."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_49__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_49",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika orang itu tidak hadir sebagaimana yang dikehendaki, pegawai diberi kuasa itu boleh melaporkan ketidakhadiran itu kepada Majistret yang hendaklah mengeluarkan waran untuk memastikan kehadiran orang itu,"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_50",
+      "@type": "akn:clause",
+      "eli:number": "50",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_50__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_50__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_50__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_50__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_50__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_50__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_50",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang pegawai diberi kuasa yang membuat penyiasatan di bawah Akta ini boleh memeriksa secara lisan seseorang yang dijangka tahu akan fakta dan hal keadaan kes itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_50__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_50",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Orang itu adalah terikat di sisi undang-undang untuk menjawab kesemua soalan berhubung dengan kes itu yang dikemukakan kepadanya oleh pegawai diberi kuasa itu, tetapi orang itu boleh enggan menjawab apa-apa soalan yang jawapannya cenderung untuk mendedahkannya kepada pertuduhan jenayah atau penalti atau pelucuthakan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_50__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_50",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang yang membuat pernyataan di bawah seksyen ini adalah terikat di sisi undang-undang untuk menyatakan yang benar, sama ada atau tidak pernyataan itu dibuat secara keseluruhannya atau sebahagiannya sebagai jawapan kepada soalan-soalan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_50__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_50",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pegawai diberi kuasa yang memperoleh maklumat daripada seseorang hendaklah terlebih dahulu memberitahu orang itu tentang peruntukan subseksyen (2) dan (3)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_50__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_50",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sesuatu pernyataan yang dibuat oleh seseorang di bawah seksyen ini hendaklah, seboleh-bolehnya, diubah ke dalam bentuk bertulis dan ditandatangani oleh orang yang membuatnya atau ditandakan dengan cap ibu jarinya selepas pernyataan itu dibacakan kepadanya dalam bahasa dia membuatnya dan selepas dia telah diberi peluang untuk membuat apa-apa pembetulan yang dia mahu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_51",
+      "@type": "akn:clause",
+      "eli:number": "51",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_51__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_51__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_51__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seseorang pegawai diberi kuasa hendaklah, bagi"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "maksud melaksanakan Akta ini, mempunyai kuasa untuk melakukan semua atau mana-mana daripada yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_51__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_51",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menghendaki pengemukaan rekod, akaun, data terkomputer dan dokumen yang disimpan oleh pemberi francais, broker francais atau pemegang francais dan menyemak, memeriksa dan menyalin mana-mana akaun, data terkomputer dan dokumen itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_51__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_51",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menghendaki pengemukaan apa-apa dokumen pengenalan daripada mana-mana orang berhubung dengan mana-mana kes atau kesalahan di bawah Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_51__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_51",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membuat apa-apa siasatan yang perlu untuk menentukan sama ada peruntukan-peruntukan Akta ini dipatuhi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII__cl_52",
+      "@type": "akn:clause",
+      "eli:number": "52",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada pendakwaan boleh dimulakan di bawah Akta ini tanpa keizinan bertulis Pendakwa Raya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_37__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_37__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_37__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seseorang yang, sama ada secara langsung atau tidak"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "langsung—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_37__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_37",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggunakan apa-apa muslihat atau rancangan untuk menipu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_37__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_37",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membuat apa-apa pernyataan tidak benar tentang fakta material atau tidak menyatakan fakta material yang menyebabkan pernyataannya itu mengelirukan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_37__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_37",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "terlibat dalam apa-apa perbuatan, amalan atau penjalanan perniagaan, yang bertindak atau akan bertindak sebagai fraud atau perdayaan atas mana- mana orang, berhubungan dengan tawaran untuk menjual atau penjualan francais, adalah melakukan suatu kesalahan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_38__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_38__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_38__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seseorang yang—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_38__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_38",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menghalang mana-mana orang yang dilantik di bawah Akta ini yang bertindak menurut Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_38__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_38",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tidak mematuhi apa-apa kehendak yang dibuat dengan sepatutnya kepadanya oleh pegawai yang diberi kuasa di bawah Akta ini; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_38__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_38",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tanpa sebab yang munasabah tidak memberi seseorang pegawai diberi kuasa apa-apa bantuan atau maklumat yang dikehendaki dengan munasabah oleh pegawai itu bagi maksud pelaksanaan kewajipannya di bawah Akta ini, adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi dua ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_39__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_39__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_39__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_39__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_39__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_39",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang melakukan kesalahan di bawah Akta ini yang baginya tiada penalti diperuntukkan secara nyata, boleh apabila disabitkan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_39__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_39__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bagi kesalahan pertama, didenda tidak kurang daripada lima ribu ringgit dan tidak lebih daripada lima puluh ribu ringgit; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_39__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_39__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bagi kesalahan kali kedua atau kali kemudian, didenda tidak kurang daripada sepuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya. Francais"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_39__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_39__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_39__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_39__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_39",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila menghukum pemberi francais bagi kesalahan pertama, mahkamah boleh—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_39__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_39__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mengisytiharkan perjanjian francais antara pemberi francais dengan pemegang francais menjadi batal dan tidak sah;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_39__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_39__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memerintahkan supaya pemberi francais membayar balik apa-apa bentuk bayaran yang diperolehnya daripada mana-mana pemegang francais; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_39__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_39__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "melarang pemberi francais daripada membuat apa-apa perjanjian francais baru atau melantik mana-mana pemegang francais baru."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_40__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_40__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jika apa-apa kesalahan terhadap mana-mana"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "peruntukan Akta ini telah dilakukan oleh sesuatu pertubuhan perbadanan, mana-mana orang yang pada masa kesalahan itu dilakukan ialah seorang pengarah, pengurus, setiausaha atau pegawai serupa itu yang lain dalam pertubuhan perbadanan itu atau berupa sebagai bertindak atas mana- mana sifat sedemikian, atau dengan apa-apa cara atau hingga apa-apa takat bertanggungjawab atas pengurusan apa-apa hal ehwal pertubuhan perbadanan itu, atau membantu dalam pengurusan sedemikian, adalah disifatkan telah melakukan kesalahan itu melainkan jika, setelah mengambil kira jenis fungsi-fungsinya atas sifat itu dan segala hal keadaan, dia membuktikan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_40__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_40",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bahawa kesalahan itu telah dilakukan tanpa pengetahuan, keizinan atau pembiarannya; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_40__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_40",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bahawa dia telah mengambil segala langkah berjaga-jaga yang munasabah dan menjalankan usaha yang wajar untuk mencegah pelakuan kesalahan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_41__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_41__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_41__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_41__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_41__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_41__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_41",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pendaftar boleh, dengan keizinan bertulis Pendakwa Raya, mengkompaunkan apa-apa kesalahan yang telah dilakukan oleh mana-mana orang di bawah Akta ini dan ditetapkan oleh Menteri sebagai kesalahan boleh kompaun dengan membuat suatu tawaran bertulis kepada orang yang disyaki telah melakukan kesalahan itu untuk mengkompaunkan kesalahan itu apabila dibayar 26 Rang Undang-Undang kepada Pendaftar sejumlah wang yang tidak melebihi lima puluh peratus jumlah maksimum denda itu bagi kesalahan itu dalarn masa yang dinyatakan dalam tawaran itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_41__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_41",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sesuatu tawaran di bawah subseksyen (1) boleh dibuat pada bila-bila masa selepas kesalahan dilakukan, tetapi sebelum apa-apa pendakwaan baginya dimulakan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_41__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_41",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika jumlah yang dinyatakan dalam tawaran itu tidak dibayar dalam masa yang dinyatakan dalam tawaran itu atau dalarn apa-apa tempoh lanjutan yang diberikan oleh Pendaftar, pendakwaan bagi kesalahan itu boleh dimulakan pada bila-bila masa selepas itu terhadap orang yang kepadanya tawaran itu dibuat."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_41__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_41",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika suatu kesalahan dikompaunkan di bawah subseksyen (1), tiada pendakwaan boleh dimulakan berkenaan dengan kesalahan itu terhadap orang yang kepadanya tawaran untuk mengkompaun itu telah dibuat."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_41__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_VI__cl_41",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kesemua jumlah wang yang diterima oleh Pendaftar di bawah seksyen ini hendaklah dibayar ke dalam dan menjadi sebahagian daripada Kumpulan Wang Disatukan Persekutuan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_V__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_V__cl_35__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_V__cl_35__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_V__cl_35__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_V__cl_35__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_V__cl_35__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_V__cl_35",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Maka adalah ditubuhkan Lembaga Penasihat Prancais."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_V__cl_35__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_V__cl_35",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Lembaga Penasihat Francais hendaklah terdiri daripada orang, yang bilangannya tidak melebihi lima belas orang, yang boleh dilantik oleh Menteri dari semasa ke semasa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_V__cl_35__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_V__cl_35",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Anggota-anggota yang dilantik di bawah subseksyen (1) hendaklah orang yang mempunyai pengetahuan dan pengalaman yang luas dalam perkara-perkara yang berhubungan dengan francais."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_V__cl_35__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_V__cl_35",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Anggota-anggota Lembaga Penasihat Francais boleh menerima apa-apa saraan yang ditetapkan bagi perkhidmatan mereka,"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_V__cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_V__cl_36__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_V__cl_36__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_V__cl_36__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_V__cl_36",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Lembaga Penasihat Francais hendaklah menasihati Menteri dan Pendaftar mengenai perkara-perkara yang berhubungan dengan francais, dan pentadbiran dan penguatkuasaan wajar undang-undang yang berhubungan dengan francais."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_V__cl_36__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/21/msa@/~part_V__cl_36",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri dan Pendaftar tidaklah terikat untuk bertindak atas nasihat atau laporan Lembaga Penasihat Francais."
+      }
+    }
+  ]
+}

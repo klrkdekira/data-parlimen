@@ -114,21 +114,47 @@ memasukkan selepas perkataan "seorang ahli lain Lembaga," perkataan "atau mana-m
 
 <!-- page 4 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-6. Akta ibu adalah dipinda dengan menggantikan seksyen 26. seksyen 26 dengan seksyen yang berikut:
+6. Akta ibu adalah dipinda dengan menggantikan
 
-26. (1) Lembaga boleh tertakluk kepada seksyen 'Kuasa Lembaga 18(2), melabur wang kepunyaan Kumpulan untuk Wang mengikut cara yang berikut: melabur.
+<!-- marginal: seksyen 26. -->
+
+seksyen 26 dengan seksyen yang berikut:
+
+26. (1) Lembaga boleh tertakluk kepada seksyen
+
+<!-- marginal: 'Kuasa -->
+
+<!-- marginal: Lembaga -->
+
+18(2), melabur wang kepunyaan Kumpulan
+
+<!-- marginal: untuk -->
+
+Wang mengikut cara yang berikut:
+
+<!-- marginal: melabur. -->
 
 (a) didepositkan dalam—
 
 (i) Bank Negara Malaysia; atau
 
-(ii) Bank yang dilesenkan sewajarnya di Aka 372 bawah Akta Bank dan Institusi- Institusi Kewangan 1989; atau (iii) mana-mana institusi kewangan lain yang dilesenkan sewajarnya di bawah Akta Bank dan Institusi-Institusi Kewangan 1989 dan diluluskan oleh Menteri;
+(ii) Bank yang dilesenkan sewajarnya di
+
+<!-- marginal: Aka 372 -->
+
+bawah Akta Bank dan Institusi- Institusi Kewangan 1989; atau
+
+(iii) mana-mana institusi kewangan lain yang dilesenkan sewajarnya di bawah Akta Bank dan Institusi-Institusi Kewangan 1989 dan diluluskan oleh Menteri;
 
 (b) dilabur dalam—
 
-(i) saham mana-mana syarikat awam yang tersenarai dalam bursa saham yang ditubuhkan di Malaysia dan pembelian saham baru, terbitan atau jualan yang baginya telah diluluskan di bawah Akta Perindustrian Sekuriti Akta 280 1983, dalam mana-mana syarikat awam berhad yang diperbadankan di Malaysia yang tersenarai dalam suatu bursa saham di Malaysia atau yang penyenaraiannya dalam suatu bursa saham di Malaysia telah di- luluskan di bawah Akta Perindustrian Sekuriti 1983; atau
+(i) saham mana-mana syarikat awam yang tersenarai dalam bursa saham yang ditubuhkan di Malaysia dan pembelian saham baru, terbitan atau jualan yang baginya telah diluluskan di bawah Akta Perindustrian Sekuriti
+
+<!-- marginal: Akta 280 -->
+
+1983, dalam mana-mana syarikat awam berhad yang diperbadankan di Malaysia yang tersenarai dalam suatu bursa saham di Malaysia atau yang penyenaraiannya dalam suatu bursa saham di Malaysia telah di- luluskan di bawah Akta Perindustrian Sekuriti 1983; atau
 
 (ii) debentur mana-mana syarikat awam;
 
@@ -136,9 +162,11 @@ Pindaan
 
 <!-- page 5 -->
 
-Akta 204. pengertian Akta Bil-Bil Pertukaran 1949 dan instrumen bolehniaga lain jenis yang seumpamanya;
+<!-- marginal: Akta 204. -->
 
-Akta 208.
+pengertian Akta Bil-Bil Pertukaran 1949 dan instrumen bolehniaga lain jenis yang seumpamanya;
+
+<!-- marginal: Akta 208. -->
 
 (d) mengikut peruntukan-peruntukan Akta Pemegang Amanah 1949:
 
@@ -156,7 +184,11 @@ Dengan syarat bagaimanapun, jika Lembaga melaburkan dalam atau atas hakmilik-hak
 
 (c) menyertai dalam apa-apa program pen- swastaan;
 
-(d) memberi pinjaman kepada mana-mana syarikat yang diperbadankan di bawah Akta Akta 125. Syarikat 1965 atau mana-mana perbadanan yang ditubuhkan oleh atau di bawah mana- mana undang-undang bertulis;
+(d) memberi pinjaman kepada mana-mana syarikat yang diperbadankan di bawah Akta
+
+<!-- marginal: Akta 125. -->
+
+Syarikat 1965 atau mana-mana perbadanan yang ditubuhkan oleh atau di bawah mana- mana undang-undang bertulis;
 
 (e) dengan melabur dalam apa-apa pelaburan di luar Malaysia; atau
 
@@ -170,15 +202,39 @@ Dengan syarat bagaimanapun, jika Lembaga melaburkan dalam atau atas hakmilik-hak
 
 "saham" ertinya saham-saham berbayar (sama ada dibayar secara penuh atau tidak) dalam modal saham syarikat dan termasuklah stok-stok dan hak-hak untuk melanggan bagi mana-mana stok dan saham.'.
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
-7. Akta ibu adalah dipinda dengan memasukkan selepas 26A dan 26B. seksyen 26 seksyen yang berikut:
+7. Akta ibu adalah dipinda dengan memasukkan selepas
 
-Kuasa
+<!-- marginal: 26A dan 26B. -->
 
-26A. (1) Sebagai tambahan kepada kuasa Lembaga Lembaga untuk melabur mengikut seksyen 26, untuk melabur Lembaga boleh melabur— dalam syarikat
+seksyen 26 seksyen yang berikut:
 
-(a) secara pinjaman kepada sesuatu syarikat yang diluluskan. diluluskan atau pembelian syer dalam sesuatu syarikat diluluskan; atau
+<!-- marginal: Kuasa -->
+
+26A. (1) Sebagai tambahan kepada kuasa
+
+<!-- marginal: Lembaga -->
+
+Lembaga untuk melabur mengikut seksyen 26,
+
+<!-- marginal: untuk -->
+
+<!-- marginal: melabur -->
+
+Lembaga boleh melabur—
+
+<!-- marginal: dalam -->
+
+<!-- marginal: syarikat -->
+
+(a) secara pinjaman kepada sesuatu syarikat
+
+<!-- marginal: yang -->
+
+<!-- marginal: diluluskan. -->
+
+diluluskan atau pembelian syer dalam sesuatu syarikat diluluskan; atau
 
 (b) secara pinjaman perumahan khas kepada sesuatu syarikat diluluskan.
 
@@ -204,17 +260,29 @@ terakhir sebelum masa pelaburan itu dan jika syarikat diluluskan itu adalah suat
 
 (c) subseksyen ini;
 
-(ii) syarikat diluluskan itu
-
-<!-- marginal: tidak -->
-
-mendapatkan suatu perakuan dalam terma-terma dan mengikut cara yang dinyatakan dalam perenggan (d) subseksyen ini; atau
+(ii) syarikat diluluskan itu tidak mendapatkan suatu perakuan dalam terma-terma dan mengikut cara yang dinyatakan dalam perenggan (d) subseksyen ini; atau
 
 (iii) Menteri boleh, pada bila-bila masa melalui pemberitahuan dalam Warta, mengarahkan bahawa syarikat itu hendaklah terhenti daripada menjadi suatu syarikat diluluskan akibat daripada pertimbangannya bahawa syarikat itu telah menyimpang daripada tujuan tunggal atau utamanya,
 
 dan apa-apa wang kepunyaan Kumpulan Wang hendaklah sesudah itu kena dibayar balik dengan serta-merta.
 
-Lembaga 26B. (1) Tertakluk kepada apa-apa perubahan melabur yang boleh dibuat oleh Menteri di bawah dalam Sekunti subseksyen (2), Lembaga hendaklah melaburkan Kerajaan. atau melaburkan semula sekurang-kurangnya lima puluh peratus, daripada wang yang dipunyai oleh Kumpulan Wang dan dilaburkan atau dilaburkan semula dalam mana-mana satu tahun, dalam sekuriti-sekuriti yang diterbitkan oleh Kerajaan Malaysia dengan syarat bahawa jumlah amaun wang dilaburkan sedemikian dalam sekuriti- sekuriti itu pada bila-bila masa tertentu tidaklah boleh kurang daripada tujuh puluh peratus daripada jumlah pelaburan Kumpulan Wang.
+<!-- marginal: Lembaga -->
+
+26B. (1) Tertakluk kepada apa-apa perubahan
+
+<!-- marginal: melabur -->
+
+yang boleh dibuat oleh Menteri di bawah
+
+<!-- marginal: dalam -->
+
+<!-- marginal: Sekunti -->
+
+subseksyen (2), Lembaga hendaklah melaburkan
+
+<!-- marginal: Kerajaan. -->
+
+atau melaburkan semula sekurang-kurangnya lima puluh peratus, daripada wang yang dipunyai oleh Kumpulan Wang dan dilaburkan atau dilaburkan semula dalam mana-mana satu tahun, dalam sekuriti-sekuriti yang diterbitkan oleh Kerajaan Malaysia dengan syarat bahawa jumlah amaun wang dilaburkan sedemikian dalam sekuriti- sekuriti itu pada bila-bila masa tertentu tidaklah boleh kurang daripada tujuh puluh peratus daripada jumlah pelaburan Kumpulan Wang.
 
 <!-- page 9 -->
 
@@ -230,25 +298,37 @@ Lembaga 26B. (1) Tertakluk kepada apa-apa perubahan melabur yang boleh dibuat ol
 
 (d) apa-apa jua bon dengan tempoh matang sekurang-kurangnya dua tahun dari tarikh terbitan; dan
 
-(e) apa-apa deposit dalam akaun sumbangan pendahuluan di bawah 26(1)(a)(i).".
+(e) apa-apa deposit dalam akaun sumbangan pendahuluan di bawah
 
-Pmdaan
+<!-- marginal: seksyen -->
 
-8. Seksyen 27 Akta ibu adalah dipinda dengan seksyen 27. memasukkan selepas perkataan "Lembaga hendaklah" perkataan "dengan kelulusan Menteri,".
+26(1)(a)(i).".
 
-9. Seksyen 30 Akta ibu adalah dipinda— Pindaan seksyen 30.
+<!-- marginal: Pmdaan -->
+
+8. Seksyen 27 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 27. -->
+
+memasukkan selepas perkataan "Lembaga hendaklah" perkataan "dengan kelulusan Menteri,".
+
+9. Seksyen 30 Akta ibu adalah dipinda—
+
+<!-- marginal: Pindaan -->
+
+<!-- marginal: seksyen 30. -->
 
 (a) dengan menggantikan perkataan "hendaklah menjadi Pengurus Besar" dengan perkataan "hendaklah menjalankan tugas-tugas Pengurus Besar dan hendaklah dikenali sebagai Pengerusi Eksekutif dan apa-apa saraan atau elaun yang dibayar hendaklah ditentukan oleh Menteri" dalam subseksyen (2); dan
 
-(b) dengan memotong perkataan "dan Penolong- Penolong Pengurus Besar" dalam perenggan
-
-(3)(a).
+(b) dengan memotong perkataan "dan Penolong- Penolong Pengurus Besar" dalam perenggan (3)(a).
 
 <!-- page 10 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-10. Seksyen 31 Akta ibu adalah dipinda— seksyen 31.
+10. Seksyen 31 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 31. -->
 
 (a) dengan memotong perkataan "dan Penolong- Penolong Pengurus Besar" selepas perkataan "Timbalan-Timbalan Pengurus Besar" dalam subseksyen (1);
 
@@ -256,7 +336,11 @@ Pindaan
 
 (c) dengan memasukkan selepas subseksyen (1) subseksyen yang berikut:
 
-"(1A) Pengerusi Jawatankuasa Tatatertib Lembaga dan dua orang ahli Jawatankuasa adalah membentuk suatu kuorum pada semua mesyuarat Jawatankuasa Tatatertib.
+"(1A) Pengerusi Jawatankuasa Tatatertib Lembaga dan dua orang
+
+<!-- marginal: ahli -->
+
+Jawatankuasa adalah membentuk suatu kuorum pada semua mesyuarat Jawatankuasa Tatatertib.
 
 (1B) Jawatankuasa Tatatertib hendaklah mempunyai kuasa untuk menentukan penjalanan prosidingnya.";
 
@@ -266,7 +350,11 @@ Pindaan
 
 (f) dengan memasukkan selepas proviso kepada subseksyen (2) subseksyen yang berikut:
 
-"(2A) Pengerusi Jawatankuasa Tatatertib Lembaga dan dua orang ahli Jawatankuasa adalah membentuk suatu kuorum dalam semua mesyuarat Jawatankuasa Tatatertib.
+"(2A) Pengerusi Jawatankuasa Tatatertib Lembaga dan dua orang
+
+<!-- marginal: ahli -->
+
+Jawatankuasa adalah membentuk suatu kuorum dalam semua mesyuarat Jawatankuasa Tatatertib.
 
 (2B) Jawatankuasa Tatatertib hendaklah mempunyai kuasa untuk menentukan penjalanan prosidingnya."; dan
 
@@ -280,23 +368,25 @@ Pindaan
 
 dengan perkataan "kepada Lembaga dalam tempoh tiga puluh hari daripada tarikh keputusan disampaikan di alamat terakhir yang diketahui pegawai atau pengkhidmat dan keputusan Lembaga itu adalah muktamad." dalam subseksyen (7).
 
-Pmdaan
+<!-- marginal: Pmdaan -->
 
-11. Seksyen 33 Akta ibu adalah dipinda— seksyen 33.
+11. Seksyen 33 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 33. -->
 
 (a) dengan menggantikan perkataan "dua" dengan perkataan "empat" dalam perenggan (1)(b);
 
-(b) dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: "(1A) Pengerusi Jawatankuasa Kenaikan Pangkat dan dua orang ahli lain Jawatankuasa Kenaikan Pangkat adalah membentuk suatu kuorum pada semua mesyuarat Jawatankuasa Kenaikan Pangkat.
-
-(1B) Jika atas apa-apa soal yang hendaklah ditentukan terdapat kesamarataan undi, Pengerusi Jawatankuasa Kenaikan Pangkat hendaklah mempunyai undi pemutus sebagai tambahan kepada undi asalnya. (1c) Jawatankuasa Kenaikan Pangkat hendak- lah mempunyai kuasa untuk menentukan penjalanan prosidingnya."; dan
+(b) dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: "(1A) Pengerusi Jawatankuasa Kenaikan Pangkat dan dua orang ahli lain Jawatankuasa Kenaikan Pangkat adalah membentuk suatu kuorum pada semua mesyuarat Jawatankuasa Kenaikan Pangkat. (1B) Jika atas apa-apa soal yang hendaklah ditentukan terdapat kesamarataan undi, Pengerusi Jawatankuasa Kenaikan Pangkat hendaklah mempunyai undi pemutus sebagai tambahan kepada undi asalnya. (1c) Jawatankuasa Kenaikan Pangkat hendak- lah mempunyai kuasa untuk menentukan penjalanan prosidingnya."; dan
 
 (c) dengan menggantikan perkataan "yang bolehlah memberi apa-apa keputusan mengenainya yang difikirkannya patut dan sesuai" dengan perkataan "dalam masa tiga puluh hari dari tarikh keputusan disampaikan di alamat terakhir yang diketahui pegawai atau pengkhidmat, dan keputusan Lembaga itu adalah muktamad" dalam subseksyen
 
 (4).
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-12. Seksyen 34 Akta ibu adalah dipinda— seksyen 34.
+12. Seksyen 34 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 34. -->
 
 (a) dengan memasukkan selepas perkataan "bagi maksud-maksud Akta ini" perkataan "daripada mana-mana pegawai dan pengkhidmat yang dilantik di bawah seksyen 30(3)(b)" dalam subseksyen (1); dan
 
@@ -304,29 +394,43 @@ Pindaan
 
 (b) dengan menggantikan perkataan ", Timbalan- Timbalan Pengurus Besar dan Penolong-Penolong Pengurus Besar" dengan perkataan "dan Timbalan- Timbalan Pengurus Besar" dalam subseksyen (4).
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-13. Seksyen 35 Akta ibu adalah dipinda dengan memotong seksyen 35. perkataan "dan dalam had tempatan bidang kuasanya jika ada yang baginya dia dilantik".
+13. Seksyen 35 Akta ibu adalah dipinda dengan memotong
 
-Pindaan
+<!-- marginal: seksyen 35. -->
 
-14. Seksyen 36 Akta ibu adalah dipinda dengan seksyen 36. memasukkan selepas subseksyen (1) subseksyen yang berikut:
+perkataan "dan dalam had tempatan bidang kuasanya jika ada yang baginya dia dilantik".
+
+<!-- marginal: Pindaan -->
+
+14. Seksyen 36 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 36. -->
+
+memasukkan selepas subseksyen (1) subseksyen yang berikut:
 
 "(1A) Bagi maksud seksyen ini, Pemeriksa hendaklah termasuk mana-mana pegawai yang diletakhak dengan kuasa Pemeriksa.".
 
-Pmdaan
+<!-- marginal: Pmdaan -->
 
-15. Seksyen 37 Akta ibu adalah dipinda— seksyen 37.
+15. Seksyen 37 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 37. -->
 
 (a) dengan memotong perkataan "dalam borang yang
 
 (b) dengan memotong subseksyen (6).
 
-16. Akta ibu adalah dipinda dengan memasukkan selepas baru 37A. seksyen 37 seksyen yang berikut:
+<!-- marginal: Seksyen -->
 
-Kuasa
+16. Akta ibu adalah dipinda dengan memasukkan selepas
 
-37A. (1) Seseorang Pemeriksa atau pegawai yang Lembaga diletakhak dengan kuasa Pemeriksa boleh, menaksir caruman menaksirkan apa-apa caruman yang kena dibayar berdasarkan oleh mana-mana majikan berdasarkan kepada kepada maklumat yang ada jika majikan itu— maklumat yang ada.
+<!-- marginal: baru 37A. -->
+
+seksyen 37 seksyen yang berikut:
+
+Kuasa 37A. (1) Seseorang Pemeriksa atau pegawai yang Lembaga diletakhak dengan kuasa Pemeriksa boleh, menaksir caruman menaksirkan apa-apa caruman yang kena dibayar berdasarkan oleh mana-mana majikan berdasarkan kepada kepada maklumat yang ada jika majikan itu— maklumat yang ada.
 
 (a) tidak menyimpan atau menyenggara apa- apa penyata, butir-butir, buku daftar atau apa-apa rekod berkenaan dengan setiap pekerja yang dikehendaki dilaksanakan olehnya di bawah Akta ini; atau
 
@@ -338,9 +442,11 @@ Kuasa
 
 (1) hendaklah menjadi bukti mencukupi tuntutan Lembaga bagi mendapatkan kembali apa-apa caruman di bawah seksyen 65.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-17. Seksyen 43 Akta ibu adalah dipinda— seksyen 43.
+17. Seksyen 43 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 43. -->
 
 (a) dengan memasukkan selepas perkataan "caruman bulanan" perkataan "berkenaan dengan amaun upah bagi bulan itu" dalam subseksyen (1); dan
 
@@ -356,19 +462,35 @@ Pindaan
 
 boleh, dengan memberi notis mengikut apa-apa cara dan bentuk sebagaimana yang ditetapkan oleh Lembaga, memilih untuk membayar caruman bulanan mengikut kadar yang ditetapkan oleh Lembaga.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-18. Akta ibu adalah dipinda dengan menggantikan seksyen seksyen 44. 44 dengan seksyen yang berikut:
+18. Akta ibu adalah dipinda dengan menggantikan seksyen
 
-Pemin-
+<!-- marginal: seksyen 44. -->
 
-44. Sebagai tambahan kepada dan bukannya dahan sebagai pengurangan kepada seksyen 43(3), faedah persaraan. majikan boleh dengan persetujuan pekerja, meremit kepada Lembaga pada bila-bila masa apa-apa wang yang merupakan faedah persaraan mana-mana pekerja mengikut apa-apa cara yang ditetapkan oleh Lembaga dan jika mana-mana wang sedemikian telah diterima, Lembaga hendaklah menyebabkan wang sedemikian dibayar ke dalam Kumpulan Wang mengikut seksyen 50.".
+44 dengan seksyen yang berikut:
+
+<!-- marginal: Pemin- -->
+
+44. Sebagai tambahan kepada dan bukannya
+
+<!-- marginal: dahan -->
+
+sebagai pengurangan kepada seksyen 43(3),
+
+<!-- marginal: faedah -->
+
+<!-- marginal: persaraan. -->
+
+majikan boleh dengan persetujuan pekerja, meremit kepada Lembaga pada bila-bila masa apa-apa wang yang merupakan faedah persaraan mana-mana pekerja mengikut apa-apa cara yang ditetapkan oleh Lembaga dan jika mana-mana wang sedemikian telah diterima, Lembaga hendaklah menyebabkan wang sedemikian dibayar ke dalam Kumpulan Wang mengikut seksyen 50.".
 
 <!-- page 14 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-19. Seksyen 45 Akta ibu adalah dipinda— seksyen 45.
+19. Seksyen 45 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 45. -->
 
 (a) dengan memasukkan selepas perkataan "kadar" perkataan "terakhir" dalam proviso kepada subseksyen (3); dan
 
@@ -376,9 +498,11 @@ Pindaan
 
 "(4) Mana-mana majikan yang melanggar peruntukan subseksyen (3) adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh dipenjarakan selama suatu tempoh yang tidak melebihi tiga tahun atau didenda tidak melebihi sepuluh ribu ringgit atau kedua-duanya.".
 
-Pmdaan
+<!-- marginal: Pmdaan -->
 
-20. Seksyen 46 Akta ibu adalah dipinda— seksyen 46.
+20. Seksyen 46 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 46. -->
 
 (a) dengan memotong selepas perkataan "jika apa- apa" perkataan "jumlah wang dengan cara" dan selepas perkataan "caruman" perkataan "bersama dengan apa-apa dividen yang kena dibayar ke atasnya";
 
@@ -388,33 +512,59 @@ Pmdaan
 
 "(2) Dalam seksyen ini perkataan "caruman" hendaklah disifatkan sebagai termasuk apa-apa dividen dan faedah yang kena dibayar ke atas mana-mana caruman.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-21. Seksyen 47 Akta ibu adalah dipinda dengan seksyen 47. menggantikan subseksyen (1) dengan subseksyen yang berikut:
+21. Seksyen 47 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 47. -->
+
+menggantikan subseksyen (1) dengan subseksyen yang
+
+<!-- marginal: berikut: -->
 
 "(1) Walau apa pun apa-apa kontrak yang berlawanan, majikan tidaklah berhak memotong atau selainnya mendapatkan kembali daripada upah atau saraan pekerja, caruman majikan daripada pekerja.".
 
-Pmdaan
+<!-- marginal: Pmdaan -->
 
-22. Seksyen 48 Akta ibu adalah dipinda dengan memotong seksyen 48. subseksyen (6).
+22. Seksyen 48 Akta ibu adalah dipinda dengan memotong
+
+<!-- marginal: seksyen 48. -->
+
+subseksyen (6).
 
 <!-- page 15 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-23. Seksyen 50 Akta ibu adalah dipinda dengan seksyen 50. memasukkan selepas perkataan "pada kadar dividen" perkataan "terakhir" dalam subperenggan (a)(ii) proviso kepada subseksyen (2).
+23. Seksyen 50 Akta ibu adalah dipinda dengan
 
-24. Akta ibu adalah dipinda dengan memasukkan selepas baru 50A. seksyen 50 seksyen yang berikut:
+<!-- marginal: seksyen 50. -->
 
-Bayaran
+memasukkan selepas perkataan "pada kadar dividen" perkataan "terakhir" dalam subperenggan (a)(ii) proviso kepada subseksyen (2).
 
-50A. Sebagai tambahan kepada bayaran dividen dividen yang dibayar di bawah proviso kepada seksyer tambahan. 50(2), Lembaga bolehlah membayar kepada ahli Kumpulan Wang yang membuat pengeluaran di bawah seksyen 54(1), suatu dividen tambahan yang ditentukan oleh Lembaga.".
+<!-- marginal: Seksyen -->
 
-25. Seksyen 51 Akta ibu adalah dipinda dengan Pindaan seksyen 51. menggantikan titik bertindih selepas perkataan "apa-apa jumlah wang atau amaun tersebut" dengan noktah dan dengan memotong proviso kepada seksyen tersebut.
+24. Akta ibu adalah dipinda dengan memasukkan selepas
 
-Pindaan
+<!-- marginal: baru 50A. -->
 
-26. Seksyen 54 Akta ibu adalah dipinda— seksyen 54.
+seksyen 50 seksyen yang berikut:
+
+Bayaran 50A. Sebagai tambahan kepada bayaran dividen dividen yang dibayar di bawah proviso kepada seksyer tambahan. 50(2), Lembaga bolehlah membayar kepada ahli Kumpulan Wang yang membuat pengeluaran di bawah seksyen 54(1), suatu dividen tambahan yang ditentukan oleh Lembaga.".
+
+25. Seksyen 51 Akta ibu adalah dipinda dengan
+
+<!-- marginal: Pindaan -->
+
+<!-- marginal: seksyen 51. -->
+
+menggantikan titik bertindih selepas perkataan "apa-apa jumlah wang atau amaun tersebut" dengan noktah dan dengan memotong proviso kepada seksyen tersebut.
+
+<!-- marginal: Pindaan -->
+
+26. Seksyen 54 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 54. -->
 
 (a) dengan menggantikan subseksyen (1), (2), (3) dan (4) dengan subseksyen yang berikut:
 
@@ -454,15 +604,43 @@ perenggan 26(l)(f) untuk pembelian atau pembinaannya; atau
 
 (3)(b)" dengan perkataan "subseksyen (3)" dalam subseksyen (5).
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-27. Akta ibu adalah dipinda dengan menggantikan seksyen seksyen 55. 55 dengan seksyen yang berikut:
+27. Akta ibu adalah dipinda dengan menggantikan seksyen
 
-"Pem-
+<!-- marginal: seksyen 55. -->
 
-55. (1) Walau apa pun seksyen 54(1), mana- bayaran mana ahli Kumpulan Wang yang telah mencapai berkala sebagai umur lima puluh lima tahun boleh— ganti pem- bayaran
+55 dengan seksyen yang berikut:
 
-(a) memohon untuk mengeluarkan amaun jumlah yang ada pada kreditnya dalam bentuk wang pukal. pembayaran berkala sebagai ganti pembayaran suatu jumlah wang pukal; atau
+<!-- marginal: "Pem- -->
+
+55. (1) Walau apa pun seksyen 54(1), mana-
+
+<!-- marginal: bayaran -->
+
+mana ahli Kumpulan Wang yang telah mencapai
+
+<!-- marginal: berkala -->
+
+<!-- marginal: sebagai -->
+
+umur lima puluh lima tahun boleh—
+
+<!-- marginal: ganti pem- -->
+
+<!-- marginal: bayaran -->
+
+(a) memohon untuk mengeluarkan amaun
+
+<!-- marginal: jumlah -->
+
+yang ada pada kreditnya dalam bentuk
+
+<!-- marginal: wang -->
+
+<!-- marginal: pukal. -->
+
+pembayaran berkala sebagai ganti pembayaran suatu jumlah wang pukal; atau
 
 (b) memohon untuk mengeluarkan dividen sahaja ke atas amaun yang ada pada kreditnya sebagai ganti pembayaran suatu jumlah wang pukal,
 
@@ -474,17 +652,31 @@ dan Lembaga boleh, tertakluk kepada mana- mana kaedah yang dibuat di bawah seksy
 
 <!-- page 18 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-28. Seksyen 58 Akta ibu adalah dipinda dengan seksyen 58. memasukkan selepas subseksyen (1) seksyen yang berikut:
+28. Seksyen 58 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 58. -->
+
+memasukkan selepas subseksyen (1) seksyen yang berikut:
 
 "(1A) Walau apa pun subseksyen (1), Lembaga bolehlah tidak membayar amaun tambahan itu, jika Lembaga berpuashati bahawa ahli Kumpulan Wang tiada meninggalkan mana-mana orang yang diluluskan oleh Lembaga.".
 
-Pmdaan
+<!-- marginal: Pmdaan -->
 
-29. Akta ibu adalah dipinda dengan menggantikan seksyen seksyen 63. 63 dengan seksyen yang berikut:
+29. Akta ibu adalah dipinda dengan menggantikan seksyen
 
-Perin-tah 63. (1) Walau apa pun peruntukan mana-mana Mahkamah. undang-undang bertulis yang lain, jika seseorang majikan didapati bersalah atas suatu kesalahan di bawah seksyen 43(2) atau 48(3), Mahkamah yang di hadapannya majikan itu didapati bersalah hendaklah memerintahkan majikan itu membayar kepada Kumpulan Wang amaun caruman, bersama-sama dengan apa-apa dividen yang dikreditkan ke atasnya, yang genap masa untuk dibayar dan kena dibayar kepada Lembaga dan diperakui oleh seorang pegawai yang diberikuasa oleh Lembaga sebagai kena dibayar daripada majikan itu sebelum tarikh dapatan bersalah itu.
+<!-- marginal: seksyen 63. -->
+
+63 dengan seksyen yang berikut:
+
+<!-- marginal: Perin-tah -->
+
+63. (1) Walau apa pun peruntukan mana-mana
+
+<!-- marginal: Mahkamah. -->
+
+undang-undang bertulis yang lain, jika seseorang majikan didapati bersalah atas suatu kesalahan di bawah seksyen 43(2) atau 48(3), Mahkamah yang di hadapannya majikan itu didapati bersalah hendaklah memerintahkan majikan itu membayar kepada Kumpulan Wang amaun caruman, bersama-sama dengan apa-apa dividen yang dikreditkan ke atasnya, yang genap masa untuk dibayar dan kena dibayar kepada Lembaga dan diperakui oleh seorang pegawai yang diberikuasa oleh Lembaga sebagai kena dibayar daripada majikan itu sebelum tarikh dapatan bersalah itu.
 
 (2) Jika seseorang majikan didapati bersalah atas suatu kesalahan di bawah seksyen 45(3), Mahkamah yang di hadapannya majikan itu didapati bersalah hendaklah memerintahkan majikan itu membayar kepada Kumpulan Wang amaun apa-apa dividen ke atasnya yang genap masa untuk dibayar dan kena dibayar kepada Lembaga dan diperakui oleh seorang pegawai yang diberikuasa oleh Lembaga sebagai kena dibayar daripada majikan itu.
 
@@ -494,15 +686,29 @@ Perin-tah 63. (1) Walau apa pun peruntukan mana-mana Mahkamah. undang-undang ber
 
 dan atas sebab-sebab yang khas kesalahan itu dilakukan, Mahkamah bolehlah memerintahkan pembayaran tunggakan caruman dibuat secara yang tidak melebihi enam ansuran bulanan mulai tarikh perintah itu.
 
-(4) Jika majikan tidak mematuhi mana-mana perintah di bawah subseksyen (3), Mahkamah hendaklah mengeluarkan suatu waran untuk melevi keseluruhan jumlah tunggakan itu secara distres dan jualan harta majikan mengikut cara yang sama seperti pelaksanaan di bawah kaedah PU(A) 30 Kaedah-Kaedah Mahkamah Rendah 1980 dan 328/80 kaedah ini hendaklah terpakai secara mutatis mutandis walau apa pun amaun perintah tunggakan caruman atau dividen atau kedua- duanya.".
+(4) Jika majikan tidak mematuhi mana-mana perintah di bawah subseksyen (3), Mahkamah hendaklah mengeluarkan suatu waran untuk melevi keseluruhan jumlah tunggakan itu secara distres dan jualan harta majikan mengikut cara yang sama seperti pelaksanaan di bawah kaedah
 
-Pindaan
+<!-- marginal: PU(A) -->
 
-30. Subseksyen 65(1) Akta ibu adalah dipinda dengan seksyen 65. menggantikan perkataan "Kesemua caruman" dengan perkataan "Walau apa pun peruntukan mana-mana undang- undang bertulis yang lain kesemua caruman".
+30 Kaedah-Kaedah Mahkamah Rendah 1980 dan
 
-Pindaan
+<!-- marginal: 328/80 -->
 
-31. Seksyen 66 Akta ibu adalah dipinda— seksyen 66.
+kaedah ini hendaklah terpakai secara mutatis mutandis walau apa pun amaun perintah tunggakan caruman atau dividen atau kedua- duanya.".
+
+<!-- marginal: Pindaan -->
+
+30. Subseksyen 65(1) Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 65. -->
+
+menggantikan perkataan "Kesemua caruman" dengan perkataan "Walau apa pun peruntukan mana-mana undang- undang bertulis yang lain kesemua caruman".
+
+<!-- marginal: Pindaan -->
+
+31. Seksyen 66 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 66. -->
 
 (a) dengan memotong perkataan "dalam masa dua belas bulan sebelum tarikh perintah itu" dalam subseksyen (1); dan
 
@@ -510,9 +716,13 @@ Pindaan
 
 "(2) Dalam seksyen ini perkataan "caruman" hendaklah disifatkan sebagai termasuk apa-apa dividen dan faedah yang kena dibayar ke atas mana-mana caruman.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-32. Akta ibu adalah dipinda dengan memasukkan selepas seksyen 72. perenggan 72 ( b) perenggan yang berikut:
+32. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: seksyen 72. -->
+
+perenggan 72 ( b) perenggan yang berikut:
 
 "(c) mengisytiharkan mana-mana orang atau golongan orang yang diambil kerja, yang terlibat atau berkontrak untuk menjalankan kerja dalam mana- mana pekerjaan dalam apa-apa kegiatan pertanian
 
@@ -530,13 +740,13 @@ atau perusahaan, kerja binaan, tred, peraiagaan atau tempat kerja sebagai pekerj
 
 (d) dengan menomborkan semula perenggan (n) yang sedia ada sebagai perenggan (o).
 
-Pemotongan
+<!-- marginal: Pemotongan -->
 
 34. Jadual Keempat Akta ibu adalah dipotong.
 
 ## Jadual
 
-Keempat.
+<!-- marginal: Keempat. -->
 
 <!-- page 21 -->
 

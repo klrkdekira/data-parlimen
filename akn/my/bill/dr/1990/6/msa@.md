@@ -48,9 +48,11 @@ dipinda—
 
 ## RANG UNDANG-UNDANG
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. (1) Seksyen 3 Akta ibu adalah dipinda— seksyen 3.
+3. (1) Seksyen 3 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 3. -->
 
 (a) dengan memasukkan, selepas sahaja per- kataan-perkataan "suatu levi" dalam subsek- syen (1), perkataan-perkataan "sebanyak satu ratusringgit";dan
 
@@ -62,9 +64,17 @@ Pindaan
 
 (1) (a) tersebut telah berkuatkuasa semasa levi itu dikenakan dan dilevikan.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-4. Seksyen 4 Akta ibu adalah dipinda dengan seksyen 4. menomborkanny a semula sebagai "4. (1)" dan memasukkan selepas itu, subseksyen baru (2) yang berikut;
+4. Seksyen 4 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 4. -->
+
+menomborkanny a semula sebagai "4.
+
+<!-- marginal: (1)" dan -->
+
+memasukkan selepas itu, subseksyen baru (2) yang berikut;
 
 "(2) Menteri boleh, jika dia berpuas hati bahawa adalah adil dan wajar berbuat demikian, dalam hal mana-mana kenderaan barang-barang atau kelas kenderaan barang-barang yang tertentu, mengarahkan dibayar balik kesemua atau apa-apa bahagian levi kenderaan barang- barang yang dibayar menurut subseksyen (4) seksyen 3 dalam apa-apa tempoh sebagaimana yang ditentukannya dalam arahan itu, dan, dalam mengarahkan pembayaran balik itu, mengenakan apa-apa syarat sebagaimana yang difikirkannya patut.".
 
@@ -78,9 +88,7 @@ Pindaan
 
 selepas sahaja seksyen 4, seksyen baru 4A yang berikut:
 
-"Pemulang-
-
-4A. Adalah sah di sisi undang-undang bagi an levi Ketua Pengarah, jika dibuktikan dengan kenderaan memuaskan hatinya bahawa apa-apa wang barang- barang yang telah terlebih bayar atau tersalah bayar terlebih sebagai levi kenderaan barang-barang di bayar atau tersalah bawah Akta ini, mengarahkan supaya wang bayar. yang telah terlebih bayar atau tersalah bayar itu dibayar balik:
+"Pemulang- 4A. Adalah sah di sisi undang-undang bagi an levi Ketua Pengarah, jika dibuktikan dengan kenderaan memuaskan hatinya bahawa apa-apa wang barang- barang yang telah terlebih bayar atau tersalah bayar terlebih sebagai levi kenderaan barang-barang di bayar atau tersalah bawah Akta ini, mengarahkan supaya wang bayar. yang telah terlebih bayar atau tersalah bayar itu dibayar balik:
 
 Dengan syarat bahawa pembayaran balik demikian tidaklah boleh dibenarkan melainkan suatu tuntutan berkenaan dengannya dibuat dalam masa satu tahun selepas pembayaran lebih atau pembayaran salah itu dibuat.".
 

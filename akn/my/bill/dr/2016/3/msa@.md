@@ -8,7 +8,7 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -16,7 +16,7 @@
 
 2. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## INSTITUT DAN FUNGSINYA, KUASANYA, DSB.
 
@@ -46,7 +46,7 @@
 
 <!-- page 2 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 ## KETUA PENGARAH, PEGAWAI DAN PEKHIDMAT INSTITUT
 
@@ -66,7 +66,7 @@
 
 22. Pewakilan kewajipan Ketua Pengarah
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## KEWANGAN
 
@@ -82,7 +82,7 @@
 
 28. Akta Badan Berkanun (Akaun dan Laporan Tahunan) 1980
 
-## Bahagian V
+## BAHAGIAN V
 
 ## KUASA LAIN INSTITUT
 
@@ -104,7 +104,7 @@
 
 <!-- page 3 -->
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PELBAGAI
 
@@ -124,7 +124,7 @@
 
 44. Pekhidmat awam
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PERUNTUKAN PEMANSUHAN, PEMBUBARAN,
 
@@ -154,7 +154,7 @@
 
 56. Sebutan dalam undang-undang atau dokumen mengenai Lembaga yang dibubarkan
 
-## Jadual
+## JADUAL
 
 <!-- page 5 -->
 
@@ -164,7 +164,7 @@ Suatu Akta untuk mengadakan peruntukan bagi kewujudan berterusan Institut Penyel
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -212,7 +212,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 8 -->
 
-## Bahagian II
+## BAHAGIAN II
 
 ## INSTITUT DAN FUNGSINYA, KUASANYA, DSB.
 
@@ -412,7 +412,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (9) Seseorang anggota sesuatu jawatankuasa boleh, pada bila-bila masa, meletakkan jawatannya dengan memberikan notis bertulis yang ditujukan kepada Pengerusi Institut.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## KETUA PENGARAH, PEGAWAI DAN PEKHIDMAT INSTITUT
 
@@ -488,7 +488,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 20 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## KEWANGAN
 
@@ -526,7 +526,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Perbelanjaan hendaklah dipertanggungkan pada Kumpulan
 
-### Wang
+<!-- marginal: Wang -->
 
 24. Kumpulan Wang hendaklah dibelanjakan bagi maksud—
 
@@ -590,7 +590,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 28. Akta Badan Berkanun (Akaun dan Laporan Tahunan) 1980 [Akta 240] hendaklah terpakai bagi Institut.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## KUASA LAIN INSTITUT
 
@@ -648,7 +648,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 36. Institut boleh, dengan kelulusan Menteri, membuat apa-apa peraturan-peraturan sebagaimana yang perlu atau suai manfaat untuk melaksanakan peruntukan Akta ini.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PELBAGAI
 
@@ -722,7 +722,7 @@ berkenaan dengan apa-apa perbuatan, keabaian, keingkaran atau peninggalan yang d
 
 44. Tiap-tiap anggota Institut atau mana-mana jawatankuasanya, atau mana-mana pegawai, pekhidmat atau ejen Institut, semasa melaksanakan kewajipannya sebagai anggota, pegawai, pekhidmat atau ejen sedemikian hendaklah disifatkan sebagai pekhidmat awam mengikut pengertian Kanun Keseksaan [Akta 574].
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PERUNTUKAN PEMANSUHAN, PEMBUBARAN,
 
@@ -830,7 +830,7 @@ sehingga hari sebelum tarikh permulaan kuat kuasa.
 
 56. Sesuatu sebutan dalam mana-mana undang-undang atau dokumen yang berkuat kuasa sebelum tarikh permulaan kuat kuasa mengenai Lembaga yang dibubarkan hendaklah ditafsirkan sebagai sebutan mengenai Institut.
 
-## Jadual
+## JADUAL
 
 [Subseksyen 3(4)]
 
@@ -956,7 +956,7 @@ Bagi mengukuhkan pentadbiran Institut, Akta yang dicadangkan juga bertujuan untu
 
 Untuk sekian lama Institut telah menjadi pusat rujukan kepada pelajar universiti yang meminta bantuan Institut untuk penyeliaan bersama penyelidikan mereka bagi pengajian siswazah dan Institut menyediakan bantuan itu tanpa kos. Dengan Akta yang dicadangkan, Institut diberi kuasa untuk menawarkan kursus atau latihan teknikal dan bukan teknikal dan kemudiannya untuk memberikan perakuan kepada orang yang telah mengikuti kursus atau latihan itu. Akta yang dicadangkan seterusnya membenarkan Institut untuk berusaha sesama dengan mana-mana institusi atau organisasi di dalam atau di luar Malaysia.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I memperkatakan perkara permulaan.
 
@@ -964,7 +964,7 @@ Fasal 1 mengadakan peruntukan bagi tajuk ringkas.
 
 Fasal 2 mengandungi takrif perkataan dan ungkapan yang digunakan dalam Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 3. Bahagian II mengandungi peruntukan yang berhubungan dengan Institut, fungsi dan kuasanya.
 
@@ -994,7 +994,7 @@ Fasal 13 mengadakan peruntukan bagi pelantikan Setiausaha Institut.
 
 Fasal 14 bertujuan untuk memberi Institut kuasa bagi menubuhkan jawatankuasa untuk membantunya dalam melaksanakan fungsinya dan menjalankan kuasanya di bawah Akta yang dicadangkan.
 
-## Bahagian III
+## BAHAGIAN III
 
 4. Bahagian III mengandungi peruntukan yang berhubungan dengan Ketua Pengarah, pegawai dan pekhidmat Institut.
 
@@ -1016,7 +1016,7 @@ Fasal 21 menetapkan peruntukan bagi penerimapakaian peraturan-peraturan, kaedah-
 
 Fasal 22 bertujuan untuk memberi Ketua Pengarah kuasa untuk mewakilkan kewajipannya tetapi pewakilan itu tidaklah menghalang Ketua Pengarah sendiri daripada melaksanakan kewajipan yang diwakilkan sedemikian.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 5. Bahagian IV memperkatakan perkara kewangan.
 
@@ -1032,7 +1032,7 @@ Fasal 27 menghendaki Institut untuk menubuhkan dan menyenggarakan kumpulan wang 
 
 Fasal 28 bertujuan untuk mengadakan peruntukan bagi pemakaian Akta Badan Berkanun (Akaun dan Laporan Tahunan) 1980 kepada Institut.
 
-## Bahagian V
+## BAHAGIAN V
 
 6. Bahagian V memperkatakan kuasa lain Institut.
 
@@ -1054,7 +1054,7 @@ Fasal 35 bertujuan untuk membenarkan Institut mengambil khidmat dan membayar eje
 
 Fasal 36 bertujuan untuk memberi Institut kuasa, dengan kelulusan Menteri, untuk membuat peraturan-peraturan.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 7. Bahagian VI memperkatakan perkara pelbagai.
 
@@ -1076,7 +1076,7 @@ Fasal 43 mengadakan peruntukan bagi pemakaian Akta Perlindungan Pihak Berkuasa A
 
 Fasal 44 memperuntukkan bahawa tiap-tiap anggota, pegawai dan pekhidmat Institut hendaklah disifatkan sebagai pekhidmat awam mengikut pengertian Kanun Keseksaan semasa melaksanakan kewajipannya.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 8. Bahagian VII memperkatakan peruntukan pemansuhan, pembubaran, kecualian dan peralihan, dsb.
 

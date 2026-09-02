@@ -24,6 +24,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 3. Subseksyen 1(2) Akta ibu dipinda dengan menggantikan perkataan “States of Peninsular Malaysia only” dengan perkataan “whole of Malaysia”.
 
+<!-- marginal: JW516067 Teks BM.indd 1 -->
+
 <!-- marginal: 7/8/10 5:47:39 PM -->
 
 <!-- page 2 -->
@@ -56,6 +58,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (f) dalam takrif “police officer”, dengan memotong perkataan “senior”; dan
 
+<!-- marginal: JW516067 Teks BM.indd 2 -->
+
 <!-- marginal: 7/8/10 5:47:39 PM -->
 
 <!-- page 3 -->
@@ -83,6 +87,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 8. Seksyen 5 Akta ibu dipinda—
 
 (a) dalam subseksyen (1), dengan menggantikan perkataan “conduct business as a moneylender” dengan perkataan “carry on or advertise or announce himself or hold himself out in any way as carrying on the business of moneylending”;
+
+<!-- marginal: JW516067 Teks BM.indd 3 -->
 
 <!-- marginal: 7/8/10 5:47:39 PM -->
 
@@ -118,6 +124,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (i) in the case of Peninsular Malaysia and the Federal Territory of Labuan, under the Registration of Businesses Act 1956 [Act 197];
 
+<!-- marginal: JW516067 Teks BM.indd 4 -->
+
 <!-- marginal: 7/8/10 5:47:39 PM -->
 
 <!-- page 5 -->
@@ -147,6 +155,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 “(3) A licensee may surrender his licence on his own initiative by forwarding the licence to the Registrar with a written notice of the surrender of the licence.
 
 (4) The surrender of the licence shall take effect fourteen days from the date the Registrar receives the licence and the written notice or such other date as may be specified by the Registrar.
+
+<!-- marginal: JW516067 Teks BM.indd 5 -->
 
 <!-- marginal: 7/8/10 5:47:39 PM -->
 
@@ -182,6 +192,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 not later than fourteen days after the cessation.
 
+<!-- marginal: JW516067 Teks BM.indd 6 -->
+
 <!-- marginal: 7/8/10 5:47:39 PM -->
 
 <!-- page 7 -->
@@ -209,6 +221,8 @@ not later than fourteen days after the cessation.
 (a) dalam subseksyen (1)—
 
 (i) dengan memasukkan selepas perkataan “any premises,” perkataan “or any evidence necessary to establish the commission of an offence under this Act,”;
+
+<!-- marginal: JW516067 Teks BM.indd 7 -->
 
 <!-- marginal: 7/8/10 5:47:39 PM -->
 
@@ -274,6 +288,8 @@ not later than fourteen days after the cessation.
 
 (2) Where any book, record or other document, or any machine or equipment containing any book, record or other document is seized under paragraph (1)(d), the seizing officer
 
+<!-- marginal: JW516067 Teks BM.indd 9 -->
+
 <!-- marginal: 7/8/10 5:47:39 PM -->
 
 <!-- page 10 -->
@@ -337,6 +353,8 @@ shall prepare a list of the things seized and immediately deliver a copy signed 
 (b) any police officer authorized in writing in that behalf by the Chief Police Officer or Commissioner of Police,
 
 having custody of the records in which such conviction is kept, shall be admissible as evidence and shall constitute prima facie proof of any fact stated therein.
+
+<!-- marginal: JW516067 Teks BM.indd 11 -->
 
 <!-- marginal: 7/8/10 5:47:39 PM -->
 
@@ -406,6 +424,8 @@ Provided that if the Inspector or police officer who has made the investigation 
 
 ### and accounts in permanent books”;
 
+<!-- marginal: JW516067 Teks BM.indd 13 -->
+
 <!-- marginal: 7/8/10 5:47:39 PM -->
 
 <!-- page 14 -->
@@ -438,6 +458,8 @@ for a period of not less than seven years from the end of the year in which the 
 
 (b) dalam subseksyen (1) dan (2), dengan menggantikan perkataan “moneylender” dengan perkataan “licensee”.
 
+<!-- marginal: JW516067 Teks BM.indd 14 -->
+
 <!-- marginal: 7/8/10 5:47:40 PM -->
 
 <!-- page 15 -->
@@ -467,6 +489,8 @@ for a period of not less than seven years from the end of the year in which the 
 27a. (1) No moneylender shall employ any agent or canvasser for the purpose of inviting any person to borrow money or to enter into any transaction involving the borrowing of money from a moneylender.
 
 (2) No person shall act as agent or canvasser, or demand or receive directly or indirectly any sum or other value consideration by way of commission or otherwise for introducing or undertaking to introduce to a moneylender any person desiring to borrow money.
+
+<!-- marginal: JW516067 Teks BM.indd 15 -->
 
 <!-- marginal: 7/8/10 5:47:40 PM -->
 
@@ -529,6 +553,8 @@ under this Act and shall be liable to imprisonment for a term not exceeding two 
 42. Seksyen 29f Akta ibu dipinda—
 
 (a) dalam subseksyen (1), dengan memasukkan selepas perkataan “Public Prosecutor” perkataan “in writing”; dan
+
+<!-- marginal: JW516067 Teks BM.indd 17 -->
 
 <!-- marginal: 7/8/10 5:47:40 PM -->
 
@@ -594,11 +620,15 @@ under this Act and shall be liable to imprisonment for a term not exceeding two 
 
 45. Akta ibu dipinda dengan menggantikan Jadual Pertama dengan Jadual yang berikut:
 
-“first s chedule [Subsection 2a(1)]
+## “FIRST S CHEDULE
+
+[Subsection 2a(1)]
 
 1. Any authority or body established, appointed or constituted by any written law, including any local authority.
 
 2. Any co-operative society registered under the Co-operative Societies Act 1993 [Act 502].
+
+<!-- marginal: JW516067 Teks BM.indd 19 -->
 
 <!-- marginal: 7/8/10 5:47:40 PM -->
 
@@ -648,9 +678,11 @@ under this Act and shall be liable to imprisonment for a term not exceeding two 
 
 46. Akta ibu dipinda dengan memasukkan selepas Jadual Pertama Jadual yang berikut:
 
-“first s chedule A [Section 19]
+## “FIRST S CHEDULE A
 
-table 1
+[Section 19]
+
+## TABLE 1
 
 ## PRINCIPAL AND INTEREST
 
@@ -658,7 +690,7 @@ Principal Date on which loan was Rate per centum per made annum or the Amount of
 
 <!-- marginal: interest -->
 
-table 2
+## TABLE 2
 
 ## REPAYMENT
 
@@ -666,7 +698,7 @@ Amounts repaid Date
 
 1. 2. 3. 4. 5. 6.
 
-table 3
+## TABLE 3
 
 ## AMOUNT OF ARREARS
 
@@ -676,15 +708,19 @@ Principal Date due Interest
 
 1. 2. 3. 4. 5. 6. 7.
 
+<!-- marginal: JW516067 Teks BM.indd 21 -->
+
 <!-- marginal: 7/8/10 5:47:40 PM -->
 
 <!-- page 22 -->
 
-table 4
+## TABLE 4
 
 ## SUMS NOT YET DUE
 
-Principal Date due Interest Date Due
+Principal Date due Interest
+
+<!-- marginal: Date Due -->
 
 1.
 
@@ -740,6 +776,8 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Pemberi Pinjam Wang 1951 (�
 
 11. Fasal 13 Rang Undang-Undang bertujuan untuk meminda seksyen 9f Akta 400 untuk membenarkan seseorang pemegang lesen menyerahkan balik lesennya atas inisiatifnya sendiri pada bila-bila masa melalui notis bertulis kepada Pendaftar. Walau bagaimanapun, penyerahan balik itu hendaklah hanya mula berkuat kuasa empat belas hari selepas notis penyerahan balik itu diterima
 
+<!-- marginal: JW516067 Teks BM.indd 23 -->
+
 <!-- marginal: 7/8/10 5:47:40 PM -->
 
 <!-- page 24 -->
@@ -779,6 +817,8 @@ wang. Seksyen 10ob yang dicadangkan bertujuan untuk membolehkan rekod sabitan te
 24. Fasal 43 Rang Undang-Undang bertujuan untuk meminda seksyen 29h Akta 400 untuk memberi Menteri kuasa untuk membuat peraturan-peraturan yang berhubungan dengan bentuk jaminan bagi pembayaran balik pinjaman yang tidak boleh diminta oleh pemegang lesen dan bentuk penyata tahunan.
 
 25. Fasal 44 bertujuan untuk memasukkan seksyen baru 29i, 29j dan 29k. Seksyen 29i yang dicadangkan memperkatakan peruntukan yang berhubungan dengan ganjaran bagi mana-mana pemberi maklumat yang maklumatnya membawa kepada suatu sabitan bagi mana-mana kesalahan di bawah Akta 400. Seksyen 29j yang dicadangkan bertujuan untuk menunjukkan pemeluasan Akta 400 ke Wilayah Persekutuan Labuan, Negeri Sabah dan Negeri Sarawak yang hasil yang dinyatakan dalam seksyen itu diserahhakkan kepada Negeri Sabah
+
+<!-- marginal: JW516067 Teks BM.indd 25 -->
 
 <!-- marginal: 7/8/10 5:47:40 PM -->
 

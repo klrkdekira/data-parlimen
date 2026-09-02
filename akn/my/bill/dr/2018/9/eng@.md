@@ -4,7 +4,23 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-1. Short title and commencement 2. Interpretation 3. Repeal of Goods and Services Tax Act 2014 4. Continuance of liability, etc. 5. Pending application for review and pending appeal 6. Furnishing of return for last taxable period and payment of goods and services tax 7. Furnishing of declaration and payment of goods and services tax 8. Claim for input tax and refund 9. Continuance of appointment and employment
+1. Short title and commencement
+
+2. Interpretation
+
+3. Repeal of Goods and Services Tax Act 2014
+
+4. Continuance of liability, etc.
+
+5. Pending application for review and pending appeal
+
+6. Furnishing of return for last taxable period and payment of goods and services tax
+
+7. Furnishing of declaration and payment of goods and services tax
+
+8. Claim for input tax and refund
+
+9. Continuance of appointment and employment
 
 10. Tax agent
 

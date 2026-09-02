@@ -8,13 +8,13 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran 3. Skop wilayah kesalahan di bawah Akta ini 4. Akta hendaklah dibaca bersama-sama dengan undang-undang lain
 
-## Bahagian II
+## BAHAGIAN II
 
 ## LEMBAGA ANGKASA MALAYSIA
 
@@ -30,7 +30,7 @@
 
 14. Pelantikan Penguasa Angkasa
 
-## Bahagian III
+## BAHAGIAN III
 
 ## LARANGAN
 
@@ -38,7 +38,7 @@
 
 <!-- page 2 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PELESENAN, DSB.
 
@@ -82,7 +82,7 @@
 
 35. Pegawai Keselamatan Pelancaran
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PENDAFTARAN OBJEK ANGKASA
 
@@ -92,7 +92,7 @@
 
 38. Daftar objek angkasa
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## TANGGUNGAN
 
@@ -102,7 +102,7 @@
 
 <!-- page 3 -->
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## KESALAHAN LAIN
 
@@ -110,7 +110,7 @@
 
 42. Mengusik, dsb., objek angkasa, dsb.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## INSIDEN DAN KEMALANGAN
 
@@ -122,7 +122,7 @@
 
 46. Lesen, dsb., disifatkan digantung sekiranya berlaku kemalangan
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## PENGUATKUASAAN
 
@@ -162,7 +162,7 @@
 
 <!-- page 4 -->
 
-## Bahagian X
+## BAHAGIAN X
 
 AM
 
@@ -194,7 +194,7 @@ Suatu Akta untuk menubuhkan Lembaga Angkasa Malaysia untuk mengawal selia aktivi
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -278,7 +278,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 9 -->
 
-## Bahagian II
+## BAHAGIAN II
 
 ## LEMBAGA ANGKASA MALAYSIA
 
@@ -412,7 +412,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (2) Penguasa Angkasa hendaklah melaksanakan fungsi dan kewajipan yang dikenakan dan menjalankan kuasa yang diberikan kepadanya di bawah Akta ini.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## LARANGAN
 
@@ -438,7 +438,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (b) jika orang itu ialah suatu pertubuhan perbadanan, didenda tidak melebihi satu ratus juta ringgit.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PELESENAN, DSB.
 
@@ -688,7 +688,7 @@ boleh, dalam masa tiga puluh hari selepas dimaklumkan secara bertulis mengenai k
 
 (c) memberi apa-apa arahan kepada pemegang permit pelancaran berhubung dengan pelancaran objek angkasa ke angkasa atau kemasukan semula objek angkasa yang dia fikirkan perlu untuk mengelak apa-apa bahaya kepada kesihatan awam atau kepada mana-mana orang atau apa-apa harta, termasuk arahan untuk menghentikan pelancaran atau kemasukan semula, atau memusnahkan, objek angkasa itu.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PENDAFTARAN OBJEK ANGKASA
 
@@ -730,7 +730,7 @@ boleh, dalam masa tiga puluh hari selepas dimaklumkan secara bertulis mengenai k
 
 (3) Daftar boleh dijadikan tersedia bagi orang awam untuk diperiksa mengikut cara sebagaimana yang ditentukan oleh Penguasa Angkasa.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## TANGGUNGAN
 
@@ -754,7 +754,7 @@ boleh, dalam masa tiga puluh hari selepas dimaklumkan secara bertulis mengenai k
 
 (4) Apa-apa penanggungrugian yang genap masa dan kena dibayar di bawah subseksyen (1), (2) dan (3) boleh dituntut sebagai suatu hutang sivil yang terhutang kepada Kerajaan.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## KESALAHAN LAIN
 
@@ -782,7 +782,7 @@ boleh, dalam masa tiga puluh hari selepas dimaklumkan secara bertulis mengenai k
 
 (b) jika orang itu ialah suatu pertubuhan perbadanan, didenda tidak melebihi dua puluh ribu ringgit.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## INSIDEN DAN KEMALANGAN
 
@@ -840,7 +840,7 @@ boleh, dalam masa tiga puluh hari selepas dimaklumkan secara bertulis mengenai k
 
 <!-- page 31 -->
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## PENGUATKUASAAN
 
@@ -1020,7 +1020,7 @@ berkomputer, papan tanda, kad, surat, risalah, lembaran, notis, kemudahan, radas
 
 63. Mana-mana orang yang mengamang, menghalang, merintangi atau mengganggu, atau enggan memberi akses ke mana-mana tapak, premis, kenderaan atau data berkomputer kepada, Penguasa Angkasa, pegawai diberi kuasa, Pegawai Keselamatan Pelancaran atau penyiasat dalam pelaksanaan kewajipannya di bawah Akta ini atau mana-mana peraturan-peraturan yang dibuat di bawah Akta ini melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya.
 
-## Bahagian X
+## BAHAGIAN X
 
 AM
 
@@ -1160,7 +1160,7 @@ orang itu boleh dikenakan hukuman atau penalti yang sama bagi tiap-tiap perbuata
 
 Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk menubuhkan Lembaga Angkasa Malaysia (“Lembaga”) untuk mengawal selia aktiviti berkaitan angkasa yang tertentu bagi tujuan keselamatan, untuk mengawal selia pendaftaran objek angkasa dan untuk mengadakan peruntukan bagi kesalahan berkaitan angkasa yang tertentu dan perkara yang berkaitan.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I Akta yang dicadangkan memperkatakan perkara permulaan.
 
@@ -1172,7 +1172,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk menubuhkan 
 
 6. Fasal 4 bertujuan untuk mengadakan peruntukan bahawa Akta yang dicadangkan hendaklah dibaca bersama-sama dengan undang-undang bertulis lain dan bahawa Akta yang dicadangkan ini hendaklah menjadi tambahan kepada, dan tidak mengurangkan, peruntukan mana-mana undang-undang bertulis yang lain. Pada masa kini, terdapat aktiviti berkaitan angkasa yang tertakluk di bawah undang-undang bertulis lain seperti Akta Komunikasi dan Multimedia 1998 [Akta 588] iaitu pelesenan kemudahan rangkaian, termasuk hub satelit dan perkhidmatan rangkaian dan perkhidmatan angkasa. Di bawah Peraturan-Peraturan Komunikasi dan Multimedia (Pelesenan) 2000 [P.U.(A) 129/2000], “perkhidmatan angkasa” ditakrifkan sebagai suatu perkhidmatan radio komunikasi menggunakan suatu stesen angkasa atau apa-apa stesen lain yang terletak melepasi, atau diniatkan untuk melepasi, atau yang telah melepasi, sebahagian besar atmosfera bumi. Fasal ini juga memperuntukkan bahawa jika undang-undang bertulis lain mengandungi apa-apa peruntukan yang berhubungan dengan aktiviti berkaitan angkasa yang dikawal selia di bawah Akta yang dicadangkan, peruntukan Akta yang dicadangkan ini hendaklah dipakai dan peruntukan undang-undang bertulis lain itu hendaklah disifatkan digantikan.
 
-## Bahagian II
+## BAHAGIAN II
 
 7. Bahagian II Akta yang dicadangkan memperkatakan penubuhan Lembaga.
 
@@ -1198,13 +1198,13 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk menubuhkan 
 
 17. Fasal 14 bertujuan untuk mengadakan peruntukan bagi pelantikan Penguasa Angkasa.
 
-## Bahagian III
+## BAHAGIAN III
 
 18. Bahagian III Akta yang dicadangkan mengandungi suatu peruntukan mengenai aktiviti yang dilarang.
 
 19. Fasal 15 bertujuan untuk mengadakan peruntukan bagi aktiviti berkaitan angkasa yang dilarang menurut triti antarabangsa yang mentadbir aktiviti di angkasa bagi memastikan angkasa digunakan untuk tujuan keamanan. Aktiviti yang dilarang ini termasuk aktiviti yang melibatkan penggunaan senjata pemusnah besar-besaran dan penubuhan pangkalan tentera, pepasangan dan kubu, pengujian apa-apa jenis senjata dan penjalanan apa-apa manuver tentera di angkasa. Memandangkan angkasa hanya boleh digunakan untuk tujuan keamanan, apa-apa aktiviti yang melibatkan penggunaan personel tentera bagi penyelidikan saintifik atau apa-apa tujuan keamanan yang lain tidak menjadi suatu kesalahan.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 20. Bahagian IV Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan lesen, permit pelancaran dan perakuan pelancaran.
 
@@ -1252,7 +1252,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk menubuhkan 
 
 40. Fasal 35 bertujuan untuk mengadakan peruntukan bagi pelantikan Pegawai Keselamatan Pelancaran oleh Penguasa Angkasa untuk menentukan pematuhan pemegang permit pelancaran kepada Akta yang dicadangkan atau mana-mana peraturan-peraturan yang dibuat di bawah Akta yag dicadangkan, atau kepada syarat atau syarat tambahan permit pelancaran.
 
-## Bahagian V
+## BAHAGIAN V
 
 41. Bahagian V Akta yang dicadangkan memperkatakan pendaftaran suatu objek angkasa.
 
@@ -1264,7 +1264,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk menubuhkan 
 
 44. Fasal 38 bertujuan untuk mengadakan peruntukan bagi kewajipan Penguasa Angkasa untuk menyimpan dan menyenggara daftar objek angkasa di bawah Akta yang dicadangkan.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 45. Bahagian VI Akta yang dicadangkan memperkatakan tanggungan bagi kerosakan yang diakibatkan oleh pelancaran dan pengendalian suatu objek angkasa.
 
@@ -1272,7 +1272,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk menubuhkan 
 
 47. Fasal 40 bertujuan untuk memperuntukkan bahawa penyedia perkhidmatan pelancaran atau pemunya suatu objek angkasa hendaklah menanggung rugi Kerajaan bagi apa-apa tuntutan dan prosiding yang dibawa terhadap Kerajaan berkenaan dengan kerosakan yang diakibatkan oleh pelancaran objek angkasa. Fasal ini juga memperuntukkan bahawa pemunya suatu objek angkasa hendaklah menanggung rugi Kerajaan bagi apa-apa tuntutan dan prosiding yang dibawa terhadap Kerajaan berkenaan dengan kerosakan yang diakibatkan oleh pengendalian objek angkasa yang telah dilancarkan ke orbit bumi atau melepasinya. Konvensyen Liabiliti Antarabangsa bagi Kerosakan Disebabkan oleh Objek Angkasa memperuntukkan bahawa negara pelancar, termasuk negara yang melancarkan atau memperoleh pelancaran suatu objek angkasa dan negara dari wilayahnya atau kemudahannya suatu objek angkasa dilancarkan, hendaklah bertanggungan bagi apa-apa kerosakan yang disebabkan oleh pelancaran suatu objek angkasa.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 48. Bahagian VII Akta yang dicadangkan memperkatakan kesalahan lain.
 
@@ -1282,7 +1282,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk menubuhkan 
 
 <!-- page 52 -->
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 51. Bahagian VIII Akta yang dicadangkan memperkatakan perkara yang berhubungan dengan insiden dan kemalangan.
 
@@ -1294,7 +1294,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk menubuhkan 
 
 55. Fasal 46 bertujuan untuk mengadakan peruntukan bagi penggantungan lesen, permit pelancaran atau perakuan pelancaran sekiranya berlaku kemalangan.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 56. Bahagian IX Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan penguatkuasaan.
 
@@ -1334,7 +1334,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk menubuhkan 
 
 73. Fasal 63 bertujuan untuk memperuntukkan bahawa adalah menjadi suatu kesalahan bagi mana-mana orang yang menghalang mana-mana Penguasa Angkasa, pegawai diberi kuasa, Pegawai Keselamatan Pelancaran dan mana-mana penyiasat dalam pelaksanaan kewajipannya di bawah Akta yang dicadangkan.
 
-## Bahagian X
+## BAHAGIAN X
 
 74. Bahagian X Akta yang dicadangkan memperkatakan peruntukan am.
 

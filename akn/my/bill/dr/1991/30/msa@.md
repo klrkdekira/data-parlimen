@@ -66,13 +66,31 @@ dan Akta Perbekalan Tambahan (1990 dan 1991) 1991.
 
 (Seksyen 2)
 
-Maksud Tajuk Peruntukan kepada maksud
+Maksud Tajuk
 
-B. 26 Kementerian Pendidikan 92,600 B. 27 Kementerian Luar Negeri 3,334,900 B. 43 Jabatan Pertahanan Awam 800 B. 59 Jabatan Perpaduan Negara 1,799,000
+<!-- marginal: Peruntukan -->
+
+kepada maksud
+
+B. 26 Kementerian Pendidikan
+
+<!-- marginal: 92,600 -->
+
+B. 27 Kementerian Luar Negeri
+
+<!-- marginal: 3,334,900 -->
+
+B. 43 Jabatan Pertahanan Awam
+
+<!-- marginal: 800 -->
+
+B. 59 Jabatan Perpaduan Negara
+
+<!-- marginal: 1,799,000 -->
 
 ## JUMLAH
 
-5,227,300
+<!-- marginal: 5,227,300 -->
 
 ## JADUAL KEPUA
 
@@ -80,13 +98,25 @@ B. 26 Kementerian Pendidikan 92,600 B. 27 Kementerian Luar Negeri 3,334,900 B. 4
 
 Maksud Tajuk Peruntukan kepada maksud
 
-B. 7 Jabatan Perdana Menteri 40,000,000 B. 14 Kementerian Perumahan dan 483,800 Kerajaan Tempatan B. 20 Kementerian Perdagangan 10,674,700 Antarabangsa dan Industri B. 26 Kementerian Pendidikan 150,000,000 B. 28 Perbendaharaan 20,513,700 B. 36 Polis DiRaja Malaysia 32,179,100
+B. 7 Jabatan Perdana Menteri 40,000,000 B. 14 Kementerian Perumahan dan
+
+<!-- marginal: 483,800 -->
+
+Kerajaan Tempatan B. 20 Kementerian Perdagangan 10,674,700 Antarabangsa dan Industri B. 26 Kementerian Pendidikan 150,000,000 B. 28 Perbendaharaan 20,513,700 B. 36 Polis DiRaja Malaysia 32,179,100
 
 <!-- page 3 -->
 
 (1990 DAN 1991) (NO. 2)
 
-Maksud Tajuk Peruntukan kepada maksud $ B. 39 Jabatan Pendaftaran Negara 2,399,200 B. 47 Kementerian Pengangkutan 1,587,100 B. 52 Kementerian Kerja Raya 213,700,000 B. 56 Kementerian Perpaduan Negara 20,000,000 dan Pembangunan Masyarakat
+Maksud Tajuk Peruntukan kepada maksud $ B. 39 Jabatan Pendaftaran Negara
+
+<!-- marginal: 2,399,200 -->
+
+B. 47 Kementerian Pengangkutan
+
+<!-- marginal: 1,587,100 -->
+
+B. 52 Kementerian Kerja Raya 213,700,000 B. 56 Kementerian Perpaduan Negara 20,000,000 dan Pembangunan Masyarakat
 
 ## JUMLAH
 

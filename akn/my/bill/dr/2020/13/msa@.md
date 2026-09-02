@@ -486,7 +486,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 25. Akta ibu dipinda dengan memasukkan selepas Bahagian VI bahagian yang berikut:
 
-“bahagian Via
+## “BAHAGIAN VIA
 
 ## PEMBERITAHUAN MENDUDUKI TEMPAT KERJA,
 
@@ -684,7 +684,7 @@ yang melarang pengendalian loji itu atau boleh menyebabkan loji itu tidak boleh 
 
 32. Akta ibu dipinda dengan memasukkan selepas Bahagian VII bahagian yang berikut:
 
-“bahagian Viia
+## “BAHAGIAN VIIA
 
 ## ORANG KOMPETEN DAN PENYEDIA LATIHAN BERDAFTAR
 
@@ -1000,7 +1000,9 @@ dan bahawa maklumat itu telah diisytiharkan sebagai rahsia pengeluaran atau perd
 
 52. Akta ibu dipinda dengan menggantikan Jadual Pertama dengan jadual yang berikut:
 
-“Jadual Pertama (Subseksyen 1(3)) Ketidakpakaian
+## “JADUAL PERTAMA
+
+(Subseksyen 1(3)) Ketidakpakaian
 
 1. Pengambilan kerja domestik berhubung dengan seseorang yang mengambil kerja orang lain, atau yang diambil kerja, sebagai pembantu rumah mengikut pengertian Akta Kerja 1955 [Akta 265]
 
@@ -1024,7 +1026,9 @@ dan bahawa maklumat itu telah diisytiharkan sebagai rahsia pengeluaran atau perd
 
 54. Akta ibu dipinda dengan memasukkan selepas Jadual Ketiga jadual yang berikut:
 
-“Jadual KeemPat [Subseksyen 3(1)] Kecederaan badan yang serius
+## “JADUAL KEEMPAT
+
+[Subseksyen 3(1)] Kecederaan badan yang serius
 
 1. Emaskulasi
 
@@ -1066,7 +1070,7 @@ dan bahawa maklumat itu telah diisytiharkan sebagai rahsia pengeluaran atau perd
 
 17. Apa-apa kecederaan atau luka terbakar lain yang berhubungan dengan kerja yang mengakibatkan orang yang tercedera dimasukkan ke dalam hospital dengan serta-merta selama lebih daripada 24 jam
 
-## Jadual Kelima
+## JADUAL KELIMA
 
 [Perenggan 31b(1)(a)] Aktiviti
 

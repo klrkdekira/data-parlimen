@@ -14,15 +14,27 @@ Suatu Akta untuk meminda Akta Pihak Berkuasa Kemajuan Pekebun Kecil Perusahaan G
 
 oleh Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan Dewan Negara dan Dewan Rakyat yang bersidang dalam Parlimen, dan dengan kuasa daripadanya, seperti berikut:
 
-Tajuk
+<!-- marginal: Tajuk -->
 
-1. Akta ini bolehlah dinamakan Akta Pihak Berkuasa ringkas. Kemajuan Pekebun Kecil Perusahaan Getah (Pindaan)
+1. Akta ini bolehlah dinamakan Akta Pihak Berkuasa
+
+<!-- marginal: ringkas. -->
+
+Kemajuan Pekebun Kecil Perusahaan Getah (Pindaan)
 
 1996.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-2. Akta Pihak Berkuasa Kemajuan Pekebun Kecil seksyen 2 Perusahaan Getah 1972, yang disebut "Akta ibu" dalam Akta 85 Akta ini, adalah dipinda dalam seksyen 2 dengan menggantikan subseksyen (1) dengan subseksyen yang berikut:
+2. Akta Pihak Berkuasa Kemajuan Pekebun Kecil
+
+<!-- marginal: seksyen 2 -->
+
+Perusahaan Getah 1972, yang disebut "Akta ibu" dalam
+
+<!-- marginal: Akta 85 -->
+
+Akta ini, adalah dipinda dalam seksyen 2 dengan menggantikan subseksyen (1) dengan subseksyen yang berikut:
 
 " (1) Dalam Akta ini, melainkan jika konteksnya menghendaki makna.yang lain—
 
@@ -34,11 +46,31 @@ Pindaan
 
 menerima atau mengakaunkan, apa-apa wang dalam Kumpulan Wang, atau yang dipertanggungkan dengan kewajipan bagi membayar, atau yang sebenarnya membayar, apa-apa wang itu, dan tiap- tiap pegawai dan penjawat yang dipertanggungkan dengan kewajipan bagi membayar, atau yang sebenarnya membayar, apa-apa wang, dan tiap- tiap pegawai dan penjawat yang dipertanggungkan dengan penerimaan, penjagaan atau pelupusan, atau pengakaunan, apa-apa barang simpanan dan harta Pihak Berkuasa atau yang sebenarnya menerima, memegang atau melupuskan barang simpanan dan harta itu."
 
-2. Akta ibu adalah dipinda dengan memasukkan selepas baru 11B, seksyen 1 1A seksyen yang berikut: 11c, 11D,. 11E, 11F, Penubuhan
+<!-- marginal: Seksyen -->
 
-11B. (1) Maka hendaklah ditubuhkan suatu 11G, 11H, Jawatan- 11I, 11J dan Jawatankuasa Perjawatan yang hendaklah terdiri kuasa Per-
+2. Akta ibu adalah dipinda dengan memasukkan selepas
 
-11K. daripada ahli-ahli yang berikut; jawatan.
+<!-- marginal: baru 11B, -->
+
+seksyen 1 1A seksyen yang berikut:
+
+<!-- marginal: 11c, 11D,. -->
+
+<!-- marginal: 11E, 11F, -->
+
+Penubuhan 11B. (1) Maka hendaklah ditubuhkan suatu
+
+<!-- marginal: 11G, 11H, -->
+
+Jawatan-
+
+<!-- marginal: 11I, 11J dan -->
+
+Jawatankuasa Perjawatan yang hendaklah terdiri kuasa Per-
+
+11K. daripada ahli-ahli yang berikut;
+
+<!-- marginal: jawatan. -->
 
 (a) Ketua Pengarah Pihak Berkuasa yang hendaklah menjadi pengerusi Jawatan- kuasa itu dan mempunyai undi pemutus; dan
 
@@ -50,9 +82,23 @@ menerima atau mengakaunkan, apa-apa wang dalam Kumpulan Wang, atau yang dipertan
 
 ## PERUSAHAAN GETAH (PINDAAN)
 
-Penubuhan
+<!-- marginal: Penubuhan -->
 
-11C. (1) Maka hendaklah ditubuhkan suatu Jawatan- Jawatankuasa Rayuan Perjawatan yang kuasa Rayuan hendaklah terdiri daripada ahli-ahli yang Perjawatan. berikut:
+11C. (1) Maka hendaklah ditubuhkan suatu
+
+<!-- marginal: Jawatan- -->
+
+Jawatankuasa Rayuan Perjawatan yang
+
+<!-- marginal: kuasa -->
+
+<!-- marginal: Rayuan -->
+
+hendaklah terdiri daripada ahli-ahli yang
+
+<!-- marginal: Perjawatan. -->
+
+berikut:
 
 (a) Pengerusi Pihak Berkuasa yang hendaklah menjadi pengerusi Jawatankuasa Rayuan Perjawatan dan mempunyai undi pemutus; dan
 
@@ -64,9 +110,17 @@ Penubuhan
 
 (4) Keputusan Jawatankuasa Rayuan Perjawatan adalah muktamad.
 
-Jawatan-
+<!-- marginal: Jawatan- -->
 
-11D. (1) Pihak berkuasa hendaklah mempunyai kuasa tata- kuasa tatatertib terhadap semua pegawai dan tertib. penjawatnya dan hendaklah menjalankan kawalan tatatertib berkenaan dengan semua orang sedemikian mengikut Akta ini dan mana- mana peraturan yang dibuat di bawah seksyen 11F.
+11D. (1) Pihak berkuasa hendaklah mempunyai
+
+<!-- marginal: kuasa tata- -->
+
+kuasa tatatertib terhadap semua pegawai dan
+
+<!-- marginal: tertib. -->
+
+penjawatnya dan hendaklah menjalankan kawalan tatatertib berkenaan dengan semua orang sedemikian mengikut Akta ini dan mana- mana peraturan yang dibuat di bawah seksyen 11F.
 
 <!-- page 4 -->
 
@@ -94,9 +148,23 @@ Jawatan-
 
 (5) Pada menjalankan tugas dan kuasa tatatertibnya, sesuatu jawatankuasa tatatertib yang disebut dalam subseksyen (2) hendaklah mempunyai kuasa untuk mengambil tindakan tatatertib dan mengenakan apa-apa hukuman tatatertib atau apa-apa kombinasi dua hukuman tatatertib atau lebih sebagaimana yang diperuntukkan di bawah mana-mana peraturan yang dibuat di bawah seksyen 11F.
 
-Rayuan
+<!-- marginal: Rayuan -->
 
-11E. (1) Sesuatu keputusan jawatankuasa terhadap tatatertib di bawah seksyen 11D(2)(a) bolehlah keputusan jawatan- dirayu kepada Menteri. kuasa tatatertib.
+11E. (1) Sesuatu keputusan jawatankuasa
+
+<!-- marginal: terhadap -->
+
+tatatertib di bawah seksyen 11D(2)(a) bolehlah
+
+<!-- marginal: keputusan -->
+
+<!-- marginal: jawatan- -->
+
+dirayu kepada Menteri.
+
+<!-- marginal: kuasa -->
+
+<!-- marginal: tatatertib. -->
 
 (2) Sesuatu keputusan jawatankuasa tata- tertib di bawah seksyen 11D(2)(b) bolehlah dirayu kepada Jawatankuasa Rayuan Tatatertib yang hendaklah terdiri daripada ahli-ahli yang berikut:
 
@@ -114,7 +182,23 @@ tatatertib yang terhadap keputusannya rayuan itu dibuat yang juga ahli Pihak Ber
 
 (5) Keputusan Menteri atau Jawatankuasa Rayuan Tatatertib di bawah subseksyen (3) adalah muktamad dan konklusif.
 
-11F. (1) Pihak Berkuasa boleh, dengan kelulusan Kuasa membuat Menteri, membuat apa-apa peraturan yang peraturan- difikirkannya perlu atau suaimanfaat untuk peraturan tatatertib. mengadakan peruntukan bagi tatatertib Ketua Pengarah, pegawai-pegawai dan penjawat- penjawat Pihak Berkuasa.
+11F. (1) Pihak Berkuasa boleh, dengan kelulusan
+
+<!-- marginal: Kuasa -->
+
+<!-- marginal: membuat -->
+
+Menteri, membuat apa-apa peraturan yang
+
+<!-- marginal: peraturan- -->
+
+difikirkannya perlu atau suaimanfaat untuk
+
+<!-- marginal: peraturan -->
+
+<!-- marginal: tatatertib. -->
+
+mengadakan peruntukan bagi tatatertib Ketua Pengarah, pegawai-pegawai dan penjawat- penjawat Pihak Berkuasa.
 
 (2) Peraturan-peraturan tatatertib yang dibuat di bawah seksyen ini—
 
@@ -140,9 +224,13 @@ mahkamah jenayah atau jika suatu perintah tahanan atau sekatan telah dibuat berk
 
 (3) Bagi mengelakkan keraguan, "pegawai" dalam seksyen ini termasuklah Ketua Pengarah.
 
-Pengenaan
+<!-- marginal: Pengenaan -->
 
-11G. (1) Seseorang yang sedang atau telah surcaj. bekerja dengan Pihak Berkuasa boleh disurcaj jika ternyata kepada Pihak Berkuasa bahawa orang itu—
+11G. (1) Seseorang yang sedang atau telah
+
+<!-- marginal: surcaj. -->
+
+bekerja dengan Pihak Berkuasa boleh disurcaj jika ternyata kepada Pihak Berkuasa bahawa orang itu—
 
 (a) tidak memungut apa-apa wang yang terhutang kepada Pihak Berkuasa yang pemungutannya menjadi tanggung- jawabnya;
 
@@ -166,17 +254,37 @@ Pengenaan
 
 (b) dalam hal subseksyen (1)(d) dan (e), mensurcajkan apa-apa jumlah wang terhadap orang itu sebagaimana yang difikirkannya patut.
 
-Pemberi-
+<!-- marginal: Pemberi- -->
 
-11H. Pihak Berkuasa hendaklah memberitahu tahuan orang yang disurcajkan berkenaan dengan surcaj surcaj. yang dikenakan di bawah seksyen 11G(3).
+11H. Pihak Berkuasa hendaklah memberitahu
 
-Penarik-
+<!-- marginal: tahuan -->
 
-11I. Walau apa pun seksyen 11G(3) dan 11H, balikan Pihak Berkuasa boleh pada bila-bila masa surcaj. menarik balik apa-apa surcaj yang berkenaan dengannya penjelasan yang memuaskan hati telah diterima atau jika ternyata selainnya bahawa tiada surcaj patut dibuat, dan Pihak Berkuasa hendaklah dengan serta-merta memberitahu orang yang disurcaj akan penarikbalikan itu.
+orang yang disurcajkan berkenaan dengan surcaj
 
-Mendapat-
+<!-- marginal: surcaj. -->
 
-11J. Amaun apa-apa surcaj yang dikenakan di kan surcaj. bawah seksyen 11G(3) dan tidak ditarik balik di bawah seksyen 11I hendaklah menjadi hutang yang kena dibayar kepada Pihak Berkuasa daripada orang yang terhadapnya surcaj itu
+yang dikenakan di bawah seksyen 11G(3).
+
+<!-- marginal: Penarik- -->
+
+11I. Walau apa pun seksyen 11G(3) dan 11H,
+
+<!-- marginal: balikan -->
+
+Pihak Berkuasa boleh pada bila-bila masa
+
+<!-- marginal: surcaj. -->
+
+menarik balik apa-apa surcaj yang berkenaan dengannya penjelasan yang memuaskan hati telah diterima atau jika ternyata selainnya bahawa tiada surcaj patut dibuat, dan Pihak Berkuasa hendaklah dengan serta-merta memberitahu orang yang disurcaj akan penarikbalikan itu.
+
+<!-- marginal: Mendapat- -->
+
+11J. Amaun apa-apa surcaj yang dikenakan di
+
+<!-- marginal: kan surcaj. -->
+
+bawah seksyen 11G(3) dan tidak ditarik balik di bawah seksyen 11I hendaklah menjadi hutang yang kena dibayar kepada Pihak Berkuasa daripada orang yang terhadapnya surcaj itu
 
 <!-- page 10 -->
 

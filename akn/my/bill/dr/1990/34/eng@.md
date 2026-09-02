@@ -10,19 +10,13 @@
 
 ## PRELIMINARY
 
-1. Short title and commencement.
-
-2. Interpretation.
+1. Short title and commencement. 2. Interpretation.
 
 ## PART II
 
 ## MALAYSIA-THAILAND JOINT AUTHORITY
 
-3. Establishment of Malaysia-Thailand Joint Authority.
-
-4. Powers and functions of Joint Authority.
-
-5. Exploration and exploitation of natural resources.
+3. Establishment of Malaysia-Thailand Joint Authority. 4. Powers and functions of Joint Authority. 5. Exploration and exploitation of natural resources.
 
 ## PART III
 
@@ -256,7 +250,7 @@ by straight lines joining the following coordinated points:
 
 ## ROYALTY
 
-Royalty .
+<!-- marginal: Royalty . -->
 
 7. The Joint Authority shall pay to each of the Governments royalty in the amount of five per centum of gross production of petroleum, in the manner and at such times as may be prescribed by regulations.
 
@@ -264,9 +258,17 @@ Royalty .
 
 ## FINANCIAL PROVISIONS
 
-Cost, benefit
+<!-- marginal: Cost, benefit -->
 
-8. (1) All costs incurred and benefits derived by the Joint and annual Authority from activities carried out in the Joint payment. Development Area shall be equally borne and shared by the Governments.
+8. (1) All costs incurred and benefits derived by the Joint
+
+<!-- marginal: and annual -->
+
+Authority from activities carried out in the Joint
+
+<!-- marginal: payment. -->
+
+Development Area shall be equally borne and shared by the Governments.
 
 (2) Until such time as the Joint Authority shall have sufficient income to finance its annual operational expenditure, the Government of Malaysia shall pay to the Fund such annual payments as may be determined in accordance with the Agreement subject to equal payments being made by the Government of the Kingdom of Thailand.
 
@@ -276,9 +278,13 @@ Cost, benefit
 
 ## AUTHORITY FUND
 
-Establishment
+<!-- marginal: Establishment -->
 
-9. (1) For the purposes of this Act and the Agreement, of Fund. there is hereby established a fund called the Malaysia-
+9. (1) For the purposes of this Act and the Agreement,
+
+<!-- marginal: of Fund. -->
+
+there is hereby established a fund called the Malaysia-
 
 <!-- page 7 -->
 
@@ -320,9 +326,23 @@ accruing to the Joint Authority after deducting the expenditures referred to in 
 
 (b) including such other expenditures as may be agreed to by the Governments.
 
-Reserve 11. The Joint Authority shall establish and manage a Fund. reserve fund within the Fund in accordance with such terms and conditions as the Governments may jointly decide.
+<!-- marginal: Reserve -->
 
-Restriction 12. (1) The Joint Authority shall not, without the prior on financial approval of the Governments— dealings.
+11. The Joint Authority shall establish and manage a
+
+<!-- marginal: Fund. -->
+
+reserve fund within the Fund in accordance with such terms and conditions as the Governments may jointly decide.
+
+<!-- marginal: Restriction -->
+
+12. (1) The Joint Authority shall not, without the prior
+
+<!-- marginal: on financial -->
+
+approval of the Governments—
+
+<!-- marginal: dealings. -->
 
 (a) give financial assistance to any company, body or person by the taking up of shares or debentures or by way of loan, advance, grant or otherwise;
 
@@ -332,13 +352,59 @@ Restriction 12. (1) The Joint Authority shall not, without the prior on financia
 
 (2) In giving any consent under subsection (1) the Governments may jointly impose such terms and conditions as they may deem appropriate.
 
-Liability of 13. Nothing in this Act shall be construed as creating any Joint responsibility whatsoever for the Government of Malaysia Authority not the or the Government of the Kingdom of Thailand in respect responsibility of any liability of the Joint Authority. of Govern- ments.
+<!-- marginal: Liability of -->
+
+13. Nothing in this Act shall be construed as creating any
+
+<!-- marginal: Joint -->
+
+responsibility whatsoever for the Government of Malaysia
+
+<!-- marginal: Authority -->
+
+<!-- marginal: not the -->
+
+or the Government of the Kingdom of Thailand in respect
+
+<!-- marginal: responsibility -->
+
+of any liability of the Joint Authority.
+
+<!-- marginal: of Govern- -->
+
+<!-- marginal: ments. -->
 
 ## PART VII
 
 ## CONTRACT FOR EXPLORATION AND EXPLOITATION
 
-Prohibition 14. (1) Notwithstanding the provisions of any other on explora- written law, no business of exploration and exploitation of tion or exploitation any natural resources, including petroleum, may be carried of natural out in the Joint Development Area by any person other resources without than the Joint Authority unless there is in respect of any contract. such business a contract entered into between the Joint Authority and such person to explore and exploit such natural resources.
+<!-- marginal: Prohibition -->
+
+14. (1) Notwithstanding the provisions of any other
+
+<!-- marginal: on explora- -->
+
+written law, no business of exploration and exploitation of
+
+<!-- marginal: tion or -->
+
+<!-- marginal: exploitation -->
+
+any natural resources, including petroleum, may be carried
+
+<!-- marginal: of natural -->
+
+out in the Joint Development Area by any person other
+
+<!-- marginal: resources -->
+
+<!-- marginal: without -->
+
+than the Joint Authority unless there is in respect of any
+
+<!-- marginal: contract. -->
+
+such business a contract entered into between the Joint Authority and such person to explore and exploit such natural resources.
 
 <!-- page 9 -->
 
@@ -374,9 +440,19 @@ gross production which is applied for the purpose of recovery of costs under par
 
 ## REGULATIONS
 
-Power of
+<!-- marginal: Power of -->
 
-15. The Minister may, with the approval of the Minister Governments, make regulations in respect of the to make regulations. following:
+15. The Minister may, with the approval of the
+
+<!-- marginal: Minister -->
+
+Governments, make regulations in respect of the
+
+<!-- marginal: to make -->
+
+<!-- marginal: regulations. -->
+
+following:
 
 (a) the conduct of or the carrying on of any business
 
@@ -384,15 +460,17 @@ Power of
 
 or service relating to the exploration and exploitation of the natural resources in the Joint Development Area;
 
-(b) the payment of any monies due to the Governments from the Joint Authority under section 7 and paragraph (d) of section 10;
+(b) the payment of any monies due
+
+<!-- marginal: to the -->
+
+Governments from the Joint Authority under section 7 and paragraph (d) of section 10;
 
 (c) the terms and conditions of the appointment of, and the emoluments, travelling and subsistence allowances payable to. the Co-Chairmen and other members of the Joint Authority;
 
 (d) the procedure for the tender and award of any contract that may be entered into under section 14, including the terms and conditions that may be included in such contract;
 
-(e) the keeping of proper accounts and other records of the transactions and affairs of the Joint Authority in accordance with generally accepted accounting principles;
-
-(f) the preparation of annual statements of accounts and, subject to the provisions of this Act, the allocation of profits;
+(e) the keeping of proper accounts and other records of the transactions and affairs of the Joint Authority in accordance with generally accepted accounting principles; (f) the preparation of annual statements of accounts and, subject to the provisions of this Act, the allocation of profits;
 
 (g) the audit of accounts and its subsequent submission to the Governments;
 
@@ -430,31 +508,47 @@ be a public servant within the meaning of the Penal Code.
 
 12
 
-Jurisdiction
+<!-- marginal: Jurisdiction -->
 
-17. (1) Notwithstanding anything contained in any other of Sessions written law to the contrary, a Sessions Court shall have Court. jurisdiction to try any offence under this Act or any regulation made thereunder and, on conviction, to impose the full penalty prescribed therefor. (2) For the purpose of the exercise of jurisdiction over any offence committed under this Act or any regulation made under section 15, subsection (2), and paragraphs (b) and (d) of subsection (6) of section 18 shall apply.
+17. (1) Notwithstanding anything contained in any other
+
+<!-- marginal: of Sessions -->
+
+written law to the contrary, a Sessions Court shall have
+
+<!-- marginal: Court. -->
+
+jurisdiction to try any offence under this Act or any regulation made thereunder and, on conviction, to impose the full penalty prescribed therefor. (2) For the purpose of the exercise of jurisdiction over any offence committed under this Act or any regulation made under section 15, subsection (2), and paragraphs (b) and (d) of subsection (6) of section 18 shall apply.
 
 ## PART X
 
 ## JURISDICTION
 
-Jurisdiction
+<!-- marginal: Jurisdiction -->
 
-18. (1) Subject to subsections (2) and (3), Malaysia shall over Joint Development continue to have and exercise jurisdiction over the Joint Area. Development Area. (2) The civil and criminal jurisdiction of—
+18. (1) Subject to subsections (2) and (3), Malaysia shall
+
+<!-- marginal: over Joint -->
+
+<!-- marginal: Development -->
+
+continue to have and exercise jurisdiction over the Joint
+
+<!-- marginal: Area. -->
+
+Development Area. (2) The civil and criminal jurisdiction of—
 
 (a) Malaysia in the Joint Development Area shall extend over the area bounded by straight lines joining the following coordinated points: (A) N6°50'.0 E 102° 21'.2 (X) N 7° 35'.0 E 103° 23'.0 (D) N 7° 22'.0 E 103° 42'.5 (E) N 7° 20'.0 E 103° 39'.0 (F) N 7° 03'.0 E 103° 06'.0 (G) N 6° 53'.0 E 102° 34'.0; and
 
-(b) the Kingdom of Thailand in the Joint Development Area shall extend over the area bounded by straight lines joining the following coordinated points: (A)N6°50'.0 E 102° 21'.2 (B) N 7° 10'.25 E 102° 29'.0 (C)N7°49'.0 E 103°02'.5 (X) N 7° 35'.0 E 103° 23'.0. (3) Nothing in this Act shall in any way affect the sovereign rights of Malaysia over the Joint Development Area, and any waiver of jurisdiction under this section
+(b) the Kingdom of Thailand in
+
+<!-- marginal: the Joint -->
+
+Development Area shall extend over the area bounded by straight lines joining the following coordinated points: (A)N6°50'.0 E 102° 21'.2 (B) N 7° 10'.25 E 102° 29'.0 (C)N7°49'.0 E 103°02'.5 (X) N 7° 35'.0 E 103° 23'.0. (3) Nothing in this Act shall in any way affect the sovereign rights of Malaysia over the Joint Development Area, and any waiver of jurisdiction under this section
 
 <!-- page 13 -->
 
-shall have no force and effect beyond the period of validity of the Agreement.
-
-(4) The consent by Malaysia to the exercise of civil and criminal jurisdiction by the Kingdom of Thailand under paragraph (b) of subsection (2) and the continued exercise of jurisdiction over matters relating to customs and excise, and taxation in the Joint Development Area are conditional upon a reciprocal recognition of Malaysia's rights under paragraph (a) of subsection (2).
-
-(5) Any jurisdiction that may be vested in Malaysia or the Kingdom of Thailand under this section in respect of the Joint Development Area shall only be over matters and to the extent provided for in any law relating to the continental shelf and as recognised under international law.
-
-(6) For the purpose of this section—
+shall have no force and effect beyond the period of validity of the Agreement. (4) The consent by Malaysia to the exercise of civil and criminal jurisdiction by the Kingdom of Thailand under paragraph (b) of subsection (2) and the continued exercise of jurisdiction over matters relating to customs and excise, and taxation in the Joint Development Area are conditional upon a reciprocal recognition of Malaysia's rights under paragraph (a) of subsection (2). (5) Any jurisdiction that may be vested in Malaysia or the Kingdom of Thailand under this section in respect of the Joint Development Area shall only be over matters and to the extent provided for in any law relating to the continental shelf and as recognised under international law. (6) For the purpose of this section—
 
 (a) "civil and criminal jurisdiction" shall not include jurisdiction over matters relating to customs and excise, and taxation;
 
@@ -470,17 +564,53 @@ the Kingdom of Thailand shall be in accordance with the designation of such plat
 
 ## RIGHTS IN SUPERJACENT WATERS
 
-Right 19. Nothing in this Act shall in any way regulate, or affect liberty or any claims in respect of, any rights, liberties and privilege in super- privileges, including but not limited to those relating to jacent fishing, that Malaysia or the Kingdom of Thailand may waters have over the superjacent waters of the Joint Development Area by virtue of Article IV of the Memorandum of Understanding, 1979.
+<!-- marginal: Right -->
+
+19. Nothing in this Act shall in any way regulate, or affect
+
+<!-- marginal: liberty or -->
+
+any claims in respect of, any rights, liberties and
+
+<!-- marginal: privilege -->
+
+<!-- marginal: in super- -->
+
+privileges, including but not limited to those relating to
+
+<!-- marginal: jacent -->
+
+fishing, that Malaysia or the Kingdom of Thailand may
+
+<!-- marginal: waters -->
+
+have over the superjacent waters of the Joint Development Area by virtue of Article IV of the Memorandum of Understanding, 1979.
 
 ## PART XII
 
 ## OFFENCES AND PENALTIES
 
-Contraven-
+<!-- marginal: Contraven- -->
 
-20. Subject to section 22, any person, including a director tion of or officer of a body corporate, who acts in contravention subsection (1) of section 4. of the provision of subsection (1) of section 14 shall be guilty of an offence and shall, on conviction, be liable to imprisonment for a term not exceeding five years or to a fine not exceeding fifty thousand ringgit or to both, and, in the case of a continuing offence, be liable to a further fine not exceeding one thousand ringgit for each day or part of a day during which the offence continues after the first day in respect of which the conviction is recorded; and any machinery, tools, plants, buildings and other properties or things used or intended to be used in the commission of the offence shall be liable to forfeiture. Other
+20. Subject to section 22, any person, including a director
 
-21. Subject to sections 20 and 22, any person, including a offences director or officer of a body corporate, who acts in contravention of any provision of this Act or regulation made under section 15 shall be guilty of an offence and shall, on conviction, be liable to imprisonment for a term not exceeding two years or to a fine not exceeding twenty
+<!-- marginal: tion of -->
+
+or officer of a body corporate, who acts in contravention
+
+<!-- marginal: subsection (1) -->
+
+<!-- marginal: of section 4. -->
+
+of the provision of subsection (1) of section 14 shall be guilty of an offence and shall, on conviction, be liable to imprisonment for a term not exceeding five years or to a fine not exceeding fifty thousand ringgit or to both, and, in the case of a continuing offence, be liable to a further fine not exceeding one thousand ringgit for each day or part of a day during which the offence continues after the first day in respect of which the conviction is recorded; and any machinery, tools, plants, buildings and other properties or things used or intended to be used in the commission of the offence shall be liable to forfeiture.
+
+<!-- marginal: Other -->
+
+21. Subject to sections 20 and 22, any person, including a
+
+<!-- marginal: offences -->
+
+director or officer of a body corporate, who acts in contravention of any provision of this Act or regulation made under section 15 shall be guilty of an offence and shall, on conviction, be liable to imprisonment for a term not exceeding two years or to a fine not exceeding twenty
 
 <!-- page 15 -->
 

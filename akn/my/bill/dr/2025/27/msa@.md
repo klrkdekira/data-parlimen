@@ -6,19 +6,19 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PERJANJIAN PERKHIDMATAN
 
 3. Perjanjian perkhidmatan 4. Kecualian bagi perjanjian perkhidmatan sedia ada 5. Terma dan syarat yang mengatasi 6. Kesahan terma dan syarat 7. Perkara yang tidak diperuntukkan di bawah Akta ini
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PEKERJA GIG
 
@@ -40,7 +40,7 @@
 
 16. Kewajipan entiti kontrak di bawah Bahagian ini
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PENYELESAIAN PERTIKAIAN
 
@@ -58,7 +58,7 @@
 
 23. Pemakaian Akta Perlindungan Pihak Berkuasa Awam 1948
 
-## Bahagian V
+## BAHAGIAN V
 
 ## TRIBUNAL PEKERJA GIG
 
@@ -108,7 +108,7 @@
 
 45. Penalti jenayah kerana kegagalan untuk mematuhi
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## MAJLIS PERUNDINGAN
 
@@ -160,7 +160,7 @@
 
 68. Pemakaian Akta Perlindungan Pihak Berkuasa Awam 1948
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PERUNTUKAN YANG BERHUBUNGAN DENGAN PENGAWALSELIAAN DAN
 
@@ -184,7 +184,7 @@
 
 77. Pemakaian Akta Perlindungan Pihak Berkuasa Awam 1948
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## PERLINDUNGAN KESELAMATAN SOSIAL
 
@@ -224,7 +224,7 @@
 
 94. Perkara yang akan diputuskan oleh Tribunal di bawah Akta Keselamatan Sosial Pekerjaan Sendiri 2017
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## KESELAMATAN DAN KESIHATAN PEKERJAAN
 
@@ -254,7 +254,7 @@
 
 <!-- page 6 -->
 
-## Bahagian X
+## BAHAGIAN X
 
 ## PELBAGAI
 
@@ -270,7 +270,7 @@
 
 112. Kuasa untuk membuat peraturan-peraturan
 
-## Jadual
+## JADUAL
 
 <!-- page 7 -->
 
@@ -282,7 +282,7 @@ Suatu Akta untuk melindungi hak pekerja gig, untuk mengadakan peruntukan bagi ke
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -354,7 +354,7 @@ yang terlibat dan membuat suatu perjanjian perkhidmatan dengan seseorang pekerja
 
 “Tribunal” ertinya Tribunal Pekerja Gig yang ditubuhkan di bawah Bahagian V Akta ini.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PERJANJIAN PERKHIDMATAN
 
@@ -398,7 +398,7 @@ yang terlibat dan membuat suatu perjanjian perkhidmatan dengan seseorang pekerja
 
 <!-- page 12 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PEKERJA GIG
 
@@ -544,7 +544,7 @@ Dengan syarat bahawa jumlah amaun pendapatan mana-mana pekerja gig yang menjadi 
 
 <!-- page 18 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PENYELESAIAN PERTIKAIAN
 
@@ -616,7 +616,7 @@ Dengan syarat bahawa jumlah amaun pendapatan mana-mana pekerja gig yang menjadi 
 
 <!-- page 21 -->
 
-## Bahagian V
+## BAHAGIAN V
 
 ## TRIBUNAL PEKERJA GIG
 
@@ -714,11 +714,7 @@ Dengan syarat bahawa jumlah amaun pendapatan mana-mana pekerja gig yang menjadi 
 
 ### Bidang kuasa dan kuasa Tribunal
 
-33. (1) Tribunal hendaklah mempunyai bidang kuasa untuk mendengar dan memutuskan apa-apa pertikaian atau perkara yang dirujuk kepadanya oleh Pendamai atau Menteri di bawah
-
-## Bahagian IV Akta ini dan boleh memberikan apa-apa award yang
-
-difikirkan adil dan wajar.
+33. (1) Tribunal hendaklah mempunyai bidang kuasa untuk mendengar dan memutuskan apa-apa pertikaian atau perkara yang dirujuk kepadanya oleh Pendamai atau Menteri di bawah Bahagian IV Akta ini dan boleh memberikan apa-apa award yang difikirkan adil dan wajar.
 
 <!-- page 25 -->
 
@@ -888,7 +884,7 @@ difikirkan adil dan wajar.
 
 (2) Dalam hal suatu kesalahan yang berterusan, pesalah boleh, sebagai tambahan kepada penalti di bawah subseksyen (1), didenda tidak melebihi lima ratus ringgit bagi setiap hari atau sebahagian daripadanya selama kesalahan itu berterusan selepas sabitan.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## MAJLIS PERUNDINGAN
 
@@ -1172,7 +1168,7 @@ difikirkan adil dan wajar.
 
 <!-- page 42 -->
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PERUNTUKAN YANG BERHUBUNGAN DENGAN
 
@@ -1236,9 +1232,7 @@ difikirkan adil dan wajar.
 
 <!-- page 44 -->
 
-(b) untuk memasuki mana-mana premis dan untuk memeriksa apa-apa dokumen, rekod atau benda lain yang berkaitan untuk memastikan pematuhan terhadap mana-mana peruntukan yang berkaitan dalam Bahagian III,
-
-## Bahagian V dan Bahagian VI;
+(b) untuk memasuki mana-mana premis dan untuk memeriksa apa-apa dokumen, rekod atau benda lain yang berkaitan untuk memastikan pematuhan terhadap mana-mana peruntukan yang berkaitan dalam Bahagian III, Bahagian V dan Bahagian VI;
 
 (c) untuk menyita apa-apa dokumen, rekod atau benda lain yang berkaitan bagi maksud penyiasatan di bawah
 
@@ -1252,11 +1246,7 @@ difikirkan adil dan wajar.
 
 ### Pengkompaunan kesalahan
 
-75. (1) Bagi maksud Bahagian ini, Ketua Pengarah boleh, dengan keizinan secara bertulis Pendakwa Raya, mengkompaun apa-apa kesalahan yang dilakukan oleh mana-mana orang di bawah Bahagian III,
-
-## Bahagian V dan Bahagian VI yang ditetapkan sebagai suatu
-
-kesalahan yang boleh dikompaun dengan membuat suatu tawaran bertulis kepada orang yang disyaki telah melakukan kesalahan itu untuk mengkompaun kesalahan itu apabila dibayar kepada Ketua Pengarah suatu amaun tidak melebihi lima puluh peratus amaun denda maksimum bagi kesalahan itu dalam masa yang dinyatakan dalam tawaran bertulisnya.
+75. (1) Bagi maksud Bahagian ini, Ketua Pengarah boleh, dengan keizinan secara bertulis Pendakwa Raya, mengkompaun apa-apa kesalahan yang dilakukan oleh mana-mana orang di bawah Bahagian III, Bahagian V dan Bahagian VI yang ditetapkan sebagai suatu kesalahan yang boleh dikompaun dengan membuat suatu tawaran bertulis kepada orang yang disyaki telah melakukan kesalahan itu untuk mengkompaun kesalahan itu apabila dibayar kepada Ketua Pengarah suatu amaun tidak melebihi lima puluh peratus amaun denda maksimum bagi kesalahan itu dalam masa yang dinyatakan dalam tawaran bertulisnya.
 
 (2) Suatu tawaran di bawah subseksyen (1) boleh dibuat pada bila-bila masa selepas kesalahan itu dilakukan tetapi sebelum apa-apa pendakwaan baginya dimulakan.
 
@@ -1280,7 +1270,7 @@ kesalahan yang boleh dikompaun dengan membuat suatu tawaran bertulis kepada oran
 
 77. Akta Perlindungan Pihak Berkuasa Awam 1948 hendaklah terpakai bagi apa-apa tindakan, guaman, pendakwaan atau prosiding terhadap mana-mana pegawai berkenaan dengan apa-apa perbuatan, pengabaian atau keingkaran yang dibuat atau dilakukan olehnya dengan suci hati atau apa-apa peninggalan olehnya dengan suci hati, atas sifat sedemikian.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## PERLINDUNGAN KESELAMATAN SOSIAL
 
@@ -1444,7 +1434,7 @@ melakukan suatu kesalahan dan boleh, jika disabitkan, dipenjarakan selama tempoh
 
 94. Tribunal yang ditubuhkan di bawah Bahagian VII Akta Keselamatan Sosial Pekerja Sendiri 2017 hendaklah mempunyai kuasa untuk memutuskan apa-apa perkara berkenaan dengan Bahagian ini yang dirujuk kepada Tribunal oleh mana-mana orang.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## KESELAMATAN DAN KESIHATAN PEKERJAAN
 
@@ -1560,7 +1550,7 @@ melakukan suatu kesalahan dan boleh, jika disabitkan, dipenjarakan selama tempoh
 
 106. Akta Perlindungan Pihak Berkuasa Awam 1948 hendaklah terpakai bagi apa-apa tindakan, guaman, pendakwaan atau prosiding terhadap mana-mana pegawai berkenaan dengan apa-apa perbuatan, pengabaian atau keingkaran yang dibuat atau dilakukan olehnya dengan suci hati atau apa-apa peninggalan olehnya dengan suci hati, atas sifat sedemikian.
 
-## Bahagian X
+## BAHAGIAN X
 
 ## PELBAGAI
 
@@ -1616,11 +1606,15 @@ boleh dipertuduh secara bersesama atau berasingan dengan pertubuhan perbadanan, 
 
 (e) apa-apa perkara lain untuk melaksanakan peruntukan Akta ini dengan lebih baik.
 
-## Jadual
+## JADUAL
 
 [Seksyen 2]
 
-(1) (2) (3) Bil. Perkhidmatan Pekerja gig yang berkenaan
+(1) (2)
+
+<!-- marginal: (3) -->
+
+Bil. Perkhidmatan Pekerja gig yang berkenaan
 
 1. Lakonan Pelakon
 
@@ -1674,7 +1668,7 @@ Bil. Perkhidmatan Pekerja gig yang berkenaan
 
 Akta Pekerja Gig 2025 (“Akta yang dicadangkan”) bertujuan untuk melindungi hak pekerja gig, untuk mengadakan peruntukan bagi kewajipan entiti kontrak, untuk mengawal selia terma dan syarat perjanjian perkhidmatan yang dibuat antara entiti kontrak dengan pekerja gig, untuk mengadakan peruntukan bagi mekanisme penyelesaian pertikaian, untuk mengadakan peruntukan bagi penubuhan Majlis Perundingan, untuk mengadakan peruntukan bagi penubuhan Tribunal Pekerja Gig dan untuk mengadakan peruntukan bagi perkara yang berkaitan.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I Akta yang dicadangkan memperkatakan perkara permulaan.
 
@@ -1684,7 +1678,7 @@ Akta Pekerja Gig 2025 (“Akta yang dicadangkan”) bertujuan untuk melindungi h
 
 <!-- page 62 -->
 
-## Bahagian II
+## BAHAGIAN II
 
 5. Bahagian II Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan perjanjian perkhidmatan dan semua perkara yang berkaitan.
 
@@ -1698,7 +1692,7 @@ Akta Pekerja Gig 2025 (“Akta yang dicadangkan”) bertujuan untuk melindungi h
 
 10. Fasal 7 bertujuan untuk memperuntukkan bahawa jika apa-apa perkara tidak diperuntukkan di bawah Akta yang dicadangkan, perkara itu tidak dihalang daripada diperuntukkan dalam perjanjian perkhidmatan atau dirundingkan antara entiti kontrak dengan pekerja gig.
 
-## Bahagian III
+## BAHAGIAN III
 
 11. Bahagian III Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan pekerja gig dan hak mereka yang dilindungi di bawah Akta yang dicadangkan.
 
@@ -1722,7 +1716,7 @@ Akta Pekerja Gig 2025 (“Akta yang dicadangkan”) bertujuan untuk melindungi h
 
 20. Fasal 16 bertujuan untuk mengadakan peruntukan bagi kewajipan entiti kontrak untuk memenuhi hak pekerja gig sebagaimana yang diperuntukkan di bawah Akta ini.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 21. Bahagian IV Akta yang dicadangkan memperkatakan mekanisme kilanan dalaman dan proses pendamaian di bawah Akta yang dicadangkan.
 
@@ -1742,7 +1736,7 @@ Akta Pekerja Gig 2025 (“Akta yang dicadangkan”) bertujuan untuk melindungi h
 
 28. Fasal 23 bertujuan untuk mengadakan peruntukan bagi pemakaian Akta Perlindungan Pihak Berkuasa Awam 1948.
 
-## Bahagian V
+## BAHAGIAN V
 
 29. Bahagian V Akta yang dicadangkan memperkatakan Tribunal Pekerja Gig dan perkara berkaitan yang lain.
 
@@ -1792,7 +1786,7 @@ Akta Pekerja Gig 2025 (“Akta yang dicadangkan”) bertujuan untuk melindungi h
 
 51. Fasal 45 bertujuan untuk mengadakan peruntukan bagi penalti jenayah kerana tidak mematuhi award.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 52. Bahagian VI Akta yang dicadangkan memperkatakan penubuhan, fungsi dan kuasa Majlis Perundingan.
 
@@ -1844,11 +1838,9 @@ Akta Pekerja Gig 2025 (“Akta yang dicadangkan”) bertujuan untuk melindungi h
 
 75. Fasal 68 bertujuan untuk mengadakan peruntukan bagi pemakaian Akta Perlindungan Pihak Berkuasa Awam 1948.
 
-## Bahagian VII
+## BAHAGIAN VII
 
-76. Bahagian VII Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan pengawalseliaan dan penguatkuasaan Bahagian III,
-
-## Bahagian V dan Bahagian VI.
+76. Bahagian VII Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan pengawalseliaan dan penguatkuasaan Bahagian III, Bahagian V dan Bahagian VI.
 
 77. Fasal 69 bertujuan untuk mengadakan peruntukan bagi kuasa, fungsi dan kewajipan Ketua Pengarah Tenaga Kerja bagi maksud memberi kesan kepada Bahagian ini.
 
@@ -1870,7 +1862,7 @@ Akta Pekerja Gig 2025 (“Akta yang dicadangkan”) bertujuan untuk melindungi h
 
 85. Fasal 77 bertujuan untuk mengadakan peruntukan bagi pemakaian Akta Perlindungan Pihak Berkuasa Awam 1948.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 86. Bahagian VIII Akta yang dicadangkan memperkatakan perlindungan keselamatan sosial.
 
@@ -1910,7 +1902,7 @@ Akta Pekerja Gig 2025 (“Akta yang dicadangkan”) bertujuan untuk melindungi h
 
 103. Fasal 94 bertujuan untuk mengadakan peruntukan bahawa Tribunal yang ditubuhkan di bawah Akta Keselamatan Sosial Pekerja Sendiri 2017 hendaklah mempunyai kuasa untuk memutuskan apa-apa perkara berkenaan dengan Bahagian ini.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 104. Bahagian IX Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan keselamatan dan kesihatan pekerjaan pekerja gig.
 
@@ -1940,7 +1932,7 @@ Akta Pekerja Gig 2025 (“Akta yang dicadangkan”) bertujuan untuk melindungi h
 
 116. Fasal 106 bertujuan untuk mengadakan peruntukan bagi pemakaian Akta Perlindungan Pihak Berkuasa Awam 1948.
 
-## Bahagian X
+## BAHAGIAN X
 
 117. Bahagian X memperkatakan peruntukan pelbagai.
 

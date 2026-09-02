@@ -432,11 +432,7 @@ daripada apa-apa terbitan atau gantian tembakau, yang digulung dalam bungkusan k
 
 <!-- marginal: menyerahkan, -->
 
-memulangkan, menggadai, menggadai
-
-<!-- marginal: janji, mendemis, -->
-
-memajakkan, menyerahhakkan semula, memindahkan atau selainnya melupuskan, atau memperlakukan, mana-mana harta alih atau tak alih atau apa-apa kepentingan dalamnya yang terletak hak pada Lembaga.
+memulangkan, menggadai, menggadai janji, mendemis, memajakkan, menyerahhakkan semula, memindahkan atau selainnya melupuskan, atau memperlakukan, mana-mana harta alih atau tak alih atau apa-apa kepentingan dalamnya yang terletak hak pada Lembaga.
 
 (4) Objektif Lembaga adalah –
 
@@ -460,17 +456,11 @@ memajakkan, menyerahhakkan semula, memindahkan atau selainnya melupuskan, atau m
 
 <!-- page 13 -->
 
-yang berhubungan dengan penanaman, pemprosesan, penyelidikan, pergerakan, penyimpanan, penggredan, pemasaran, pengeksportan dan pengimportan kenaf dan keluaran kenaf,
-
-<!-- marginal: termasuk untuk -->
-
-mengawal selia harga minimum berhubung dengan kualiti atau gred tertentu yang pada harga itu kenaf boleh dijual selain untuk eksport;
+yang berhubungan dengan penanaman, pemprosesan, penyelidikan, pergerakan, penyimpanan, penggredan, pemasaran, pengeksportan dan pengimportan kenaf dan keluaran kenaf, termasuk untuk mengawal selia harga minimum berhubung dengan kualiti atau gred tertentu yang pada harga itu kenaf boleh dijual selain untuk eksport;
 
 (d) untuk melaksanakan dasar bagi mengawal selia industri tembakau;
 
-(e) untuk merancang, mengendalikan, menyelaraskan, melaksanakan dan memantau semua aktiviti penyelidikan dan pembangunan yang berhubungan dengan penanaman,
-
-<!-- marginal: pengeluaran, -->
+(e) untuk merancang, mengendalikan, menyelaraskan, melaksanakan dan memantau semua aktiviti penyelidikan dan pembangunan yang berhubungan dengan penanaman, pengeluaran,
 
 <!-- marginal: penuaian, -->
 
@@ -512,11 +502,7 @@ pembangunan sumber manusia selaras dengan keperluan industri kenaf dan industri 
 
 <!-- page 15 -->
 
-(r) untuk melakukan apa-apa benda lain sebagaimana yang difikirkannya patut untuk membolehkannya melaksanakan
-
-<!-- marginal: fungsinya secara -->
-
-berkesan atau yang bersampingan dengan pelaksanaan fungsinya.
+(r) untuk melakukan apa-apa benda lain sebagaimana yang difikirkannya patut untuk membolehkannya melaksanakan fungsinya secara berkesan atau yang bersampingan dengan pelaksanaan fungsinya.
 
 ### Kuasa Lembaga
 
@@ -820,11 +806,15 @@ dan atas apa-apa terma dan syarat sebagaimana yang difikirkan sesuai oleh Lembag
 
 ## KEWANGAN
 
-### Kumpulan Wang
+<!-- marginal: Kumpulan Wang -->
 
-22. (1) Bagi maksud Akta ini suatu kumpulan wang yang dikenali sebagai “Kumpulan Wang Lembaga Kenaf dan Tembakau Negara” ditubuhkan.
+22.
 
-(2) Kumpulan Wang hendaklah dikawal, disenggara dan dikendalikan oleh Lembaga.
+(1) Bagi maksud Akta ini suatu kumpulan wang yang dikenali sebagai “Kumpulan Wang Lembaga Kenaf dan Tembakau Negara” ditubuhkan.
+
+(2) Kumpulan Wang hendaklah dikawal, disenggara dan dikendalikan oleh
+
+<!-- marginal: Lembaga. -->
 
 (3) Kumpulan Wang hendaklah terdiri daripada–
 
@@ -848,11 +838,7 @@ dan atas apa-apa terma dan syarat sebagaimana yang difikirkan sesuai oleh Lembag
 
 (i) derma atau sumbangan yang diterima daripada mana-mana organisasi di dalam atau di luar Malaysia;
 
-(j) semua jumlah wang atau harta lain yang boleh dalam apa-apa cara menjadi kena dibayar kepada atau terletak hak pada Lembaga berkenaan dengan
-
-<!-- marginal: apa-apa -->
-
-<!-- marginal: perkara -->
+(j) semua jumlah wang atau harta lain yang boleh dalam apa-apa cara menjadi kena dibayar kepada atau terletak hak pada Lembaga berkenaan dengan apa-apa perkara
 
 <!-- marginal: yang -->
 
@@ -1832,15 +1818,9 @@ tembakau daripada semua atau mana-mana peruntukan Akta ini.
 
 <!-- page 68 -->
 
-(g) mengawal selia, menguruskan dan mengawal pergerakan, pengangkutan dan penyimpanan
+(g) mengawal selia, menguruskan dan mengawal pergerakan, pengangkutan dan penyimpanan tembakau atau keluaran tembakau;
 
-<!-- marginal: tembakau atau keluaran -->
-
-tembakau;
-
-(h) menetapkan amalan yang hendaklah dipatuhi atau dielakkan dalam industri kenaf atau industri
-
-<!-- marginal: tembakau -->
+(h) menetapkan amalan yang hendaklah dipatuhi atau dielakkan dalam industri kenaf atau industri tembakau
 
 <!-- marginal: termasuk -->
 
@@ -1848,11 +1828,7 @@ penanaman tembakau dan penyelidikan mengenai kenaf atau tembakau;
 
 (i) mengadakan peruntukan bagi penyenggaraan piawaian pengendalian yang sesuai dalam menjalankan industri kenaf atau industri tembakau dan bagi menguruskan pelanggaran piawaian itu;
 
-(j) menetapkan cara penyimpanan dan pengangkutan kenaf atau tembakau dan langkah yang hendaklah diambil untuk mengelakkan kemusnahan atau kemerosotan kenaf atau tembakau, atau berlakunya atau merebaknya penyakit yang memberi kesan kepada kenaf atau
-
-<!-- marginal: tembakau, semasa -->
-
-penyimpanan atau pengangkutan;
+(j) menetapkan cara penyimpanan dan pengangkutan kenaf atau tembakau dan langkah yang hendaklah diambil untuk mengelakkan kemusnahan atau kemerosotan kenaf atau tembakau, atau berlakunya atau merebaknya penyakit yang memberi kesan kepada kenaf atau tembakau, semasa penyimpanan atau pengangkutan;
 
 (k) menetapkan cara dan tatacara pengambilan sampel kenaf, keluaran kenaf, tembakau atau keluaran
 
@@ -2110,9 +2086,7 @@ Akta Lembaga Kenaf dan Tembakau Negara 2008 yang dicadangkan (“Akta yang dicad
 
 ## BAHAGIAN I
 
-2.
-
-## Bahagian I Rang Undang-Undang mengandungi peruntukan permulaan.
+2. Bahagian I Rang Undang-Undang mengandungi peruntukan permulaan.
 
 3. Fasal 1 mengandungi tajuk ringkas dan bertujuan untuk membenarkan Menteri menetapkan tarikh permulaan kuat kuasa Akta yang dicadangkan.
 

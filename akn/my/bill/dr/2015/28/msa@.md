@@ -28,6 +28,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ‘ “anggota penerima deposit” ertinya suatu institusi anggota yang merupakan bank Islam atau bank berlesen;’;
 
+<!-- marginal: WJW005220 BM.indd 1 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 2 -->
@@ -53,6 +55,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 (ix) dengan menggantikan takrif “institusi kewangan” dengan takrif yang berikut:
 
 ‘ “institusi kewangan” ertinya suatu bank berlesen, suatu bank Islam, suatu syarikat insurans atau suatu pengendali takaful;’;
+
+<!-- marginal: WJW005220 BM.indd 2 -->
 
 <!-- marginal: 10/15/15 9:23 AM -->
 
@@ -80,6 +84,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ‘ “perniagaan perbankan Islam” mempunyai erti yang sama sebagaimana yang ditakrifkan di bawah subseksyen 2(1) Akta Perkhidmatan Kewangan Islam 2013;’;
 
+<!-- marginal: WJW005220 BM.indd 3 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 4 -->
@@ -103,6 +109,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 (xxi) dengan menggantikan takrif “surat cara modal” dengan takrif yang berikut:
 
 ‘ “surat cara modal” ertinya syer keutamaan, saham pinjaman, hutang berjangka subordinat atau surat cara lain yang diluluskan oleh Bank Negara Malaysia sebagai layak untuk menjadi modal bagi maksud Akta Perkhidmatan Kewangan 2013 atau Akta Perkhidmatan Kewangan Islam 2013;’;
+
+<!-- marginal: WJW005220 BM.indd 4 -->
 
 <!-- marginal: 10/15/15 9:23 AM -->
 
@@ -130,6 +138,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (i) wang tunai atau yang bersamaan dengan wang tunai, termasuk surat cara boleh niaga dan deposit tuntutan;
 
+<!-- marginal: WJW005220 BM.indd 5 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 6 -->
@@ -147,6 +157,8 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 (i) suatu agensi penjelasan; atau
 
 (ii) seseorang, termasuk broker, bank atau syarikat amanah, yang dalam penjalanan biasa perniagaan menyenggara akaun sekuriti, akaun sekuriti Islam atau akaun niaga hadapan untuk orang lain;
+
+<!-- marginal: WJW005220 BM.indd 6 -->
 
 <!-- marginal: 10/15/15 9:23 AM -->
 
@@ -166,7 +178,7 @@ dan jika suatu perjanjian adalah juga berkenaan dengan satu atau lebih transaksi
 
 (ii) suatu perjanjian yang berhubungan dengan cagaran kewangan, termasuk perjanjian sokongan kredit pindah hakmilik, berkenaan dengan satu atau lebih transaksi kewangan yang layak di bawah suatu perjanjian induk yang disebut dalam subperenggan (i);
 
-<!-- marginal: 10/15/15 9:23 AM -->
+<!-- marginal: WJW005220 BM.indd 7 -->
 
 <!-- page 8 -->
 
@@ -183,6 +195,8 @@ dan jika suatu perjanjian adalah juga berkenaan dengan satu atau lebih transaksi
 (ii) suatu perjanjian beli semula, beli semula songsang atau jual beli balik berkenaan dengan sekuriti atau sekuriti Islam.”; dan
 
 (c) dalam subseksyen (2), dengan memasukkan selepas perkataan “pemberitahuan,” perkataan “arahan,”.
+
+<!-- marginal: WJW005220 BM.indd 8 -->
 
 <!-- marginal: 10/15/15 9:23 AM -->
 
@@ -207,6 +221,8 @@ dan jika suatu perjanjian adalah juga berkenaan dengan satu atau lebih transaksi
 ### Pindaan Bab 4
 
 6. Tajuk Bab 4 Bahagian II Akta ibu dipinda dengan memasukkan selepas perkataan “Pegawai dan pekerja” perkataan “, dsb.”.
+
+<!-- marginal: WJW005220 BM.indd 9 -->
 
 <!-- marginal: 10/15/15 9:23 AM -->
 
@@ -240,6 +256,8 @@ dan jika suatu perjanjian adalah juga berkenaan dengan satu atau lebih transaksi
 
 ### penyediaan pembiayaan”; dan
 
+<!-- marginal: WJW005220 BM.indd 10 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 11 -->
@@ -272,6 +290,8 @@ dan jika suatu perjanjian adalah juga berkenaan dengan satu atau lebih transaksi
 
 (a) dengan menomborkan semula seksyen sedia ada sebagai subseksyen (1); dan
 
+<!-- marginal: WJW005220 BM.indd 11 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 12 -->
@@ -297,6 +317,8 @@ dan jika suatu perjanjian adalah juga berkenaan dengan satu atau lebih transaksi
 (a) dari tarikh berkuatkuasanya Akta ini; atau
 
 (b) jika ia mula wujud selepas tarikh berkuatkuasanya Akta ini, dari tarikh ia didaftarkan di bawah Akta Takaful 1984 [Akta 312], atau dilesenkan di bawah Akta Insurans 1996 [Akta 553], Akta Perkhidmatan Kewangan Islam 2013 atau Akta Perkhidmatan Kewangan 2013.
+
+<!-- marginal: WJW005220 BM.indd 12 -->
 
 <!-- marginal: 10/15/15 9:23 AM -->
 
@@ -327,6 +349,8 @@ dan jika suatu perjanjian adalah juga berkenaan dengan satu atau lebih transaksi
 (b) mengeluarkan suatu notis bertulis mengenai penamatan keanggotaan kepada institusi anggota yang keanggotaannya hendaklah ditamatkan apabila habis tempoh yang ditentukan dalam notis itu.”;
 
 (b) dengan memotong subseksyen (5) dan (6); dan
+
+<!-- marginal: WJW005220 BM.indd 13 -->
 
 <!-- marginal: 10/15/15 9:23 AM -->
 
@@ -379,6 +403,8 @@ tetapi tidak termasuk, melainkan jika ditentukan selainnya oleh Perbadanan di ba
 (b) “akaun amanah” termasuklah wang yang dipegang dalam akaun bagi maksud suatu amanah.
 
 (2) Bagi mengelakkan keraguan, liabiliti atau surat cara kewangan yang disebut di bawah subperenggan 41(1)(a)(iv) dan perenggan 41(1)(a)(F) termasuklah apa-apa liabiliti atau surat cara yang di bawahnya suatu jumlah wang atau nilai wang diterima atau dibayar mengikut terma oleh mana-mana orang, yang penerimaan dan pembayaran balik adalah mengikut terma mana-mana perjanjian yang selaras dengan Shariah atas apa-apa asas, sama ada terdapat obligasi untuk membayar balik wang tersebut sepenuhnya atau tidak.”.
+
+<!-- marginal: WJW005220 BM.indd 15 -->
 
 <!-- marginal: 10/15/15 9:23 AM -->
 
@@ -450,6 +476,8 @@ tetapi tidak termasuk, melainkan jika ditentukan selainnya oleh Perbadanan di ba
 
 ### dengan deposit diinsuranskan”; dan
 
+<!-- marginal: WJW005220 BM.indd 17 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 18 -->
@@ -516,6 +544,8 @@ tetapi tidak termasuk, melainkan jika ditentukan selainnya oleh Perbadanan di ba
 
 35. Tajuk Bab 2 Bahagian V Akta ibu dipinda dengan menggantikan perkataan “Premium” dengan perkataan “Levi”.
 
+<!-- marginal: WJW005220 BM.indd 19 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 20 -->
@@ -570,6 +600,8 @@ tetapi tidak termasuk, melainkan jika ditentukan selainnya oleh Perbadanan di ba
 
 (2) Bagi mengelakkan keraguan, jika liabiliti bagi sijil takaful atau polisi insurans suatu anggota penanggung insurans dipindahkan kepada dan diambil alih oleh anggota penanggung insurans lain, jumlah sumbangan bersih atau jumlah premium bersih yang diterima oleh anggota penanggung insurans pemindah berkenaan dengan liabiliti tersebut pada tahun
 
+<!-- marginal: WJW005220 BM.indd 21 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 22 -->
@@ -595,6 +627,8 @@ taksiran yang sebelumnya hendaklah disifatkan diterima oleh anggota penanggung i
 (c) dengan menggantikan subseksyen (2) dengan subseksyen yang berikut:
 
 “(2) Surcaj levi yang kena dibayar oleh anggota penanggung insurans di bawah subseksyen (1) dalam mana-mana tahun taksiran tertentu tidak boleh melebihi levi yang kena dibayar oleh anggota penanggung insurans itu berkenaan dengan tahun taksiran yang sebelumnya atau satu juta ringgit, mengikut mana-mana yang lebih tinggi.”;
+
+<!-- marginal: WJW005220 BM.indd 22 -->
 
 <!-- marginal: 10/15/15 9:23 AM -->
 
@@ -627,6 +661,8 @@ taksiran yang sebelumnya hendaklah disifatkan diterima oleh anggota penanggung i
 ### insurans
 
 76. Jika mana-mana levi atau surcaj levi yang terhutang dan kena dibayar di bawah seksyen 71, 72 atau 75 belum dibayar oleh anggota penanggung insurans pada tarikh kena dibayar, levi atau surcaj levi yang belum dibayar itu hendaklah, tanpa penyampaian notis lanjutan kepada anggota penanggung insurans itu, dinaikkan ke suatu jumlah yang ditetapkan dalam peraturan-peraturan levi yang belum dibayar.”.
+
+<!-- marginal: WJW005220 BM.indd 23 -->
 
 <!-- marginal: 10/15/15 9:23 AM -->
 
@@ -696,6 +732,8 @@ taksiran yang sebelumnya hendaklah disifatkan diterima oleh anggota penanggung i
 
 (c) nilai pelaburan atau simpanan yang dipegang secara berasingan berkenaan dengan sijil takaful itu; atau
 
+<!-- marginal: WJW005220 BM.indd 25 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 26 -->
@@ -724,6 +762,8 @@ yang hendaklah dipastikan atas apa-apa asas sebagaimana yang ditetapkan oleh Per
 
 (4) Jika pemunya sijil atau pemunya polisi menyerahkan sijil takaful keluarga atau polisi hayatnya sebelum tarikh perintah penggulungan, amaun bayaran wajib hendaklah dikira berdasarkan nilai serahan sijil takaful keluarga atau polisi hayat itu pada masa serahan.”.
 
+<!-- marginal: WJW005220 BM.indd 26 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 27 -->
@@ -749,6 +789,8 @@ yang hendaklah dipastikan atas apa-apa asas sebagaimana yang ditetapkan oleh Per
 ### Pindaan seksyen 96
 
 52. Perenggan 96(2)(b) Akta ibu dipinda dengan menggantikan perkataan “premium atau liabiliti takaful atau insuransnya” dengan perkataan “premium, levi, liabiliti deposit, liabiliti takaful atau liabiliti insuransnya”.
+
+<!-- marginal: WJW005220 BM.indd 27 -->
 
 <!-- marginal: 10/15/15 9:23 AM -->
 
@@ -778,6 +820,8 @@ kepada mana-mana orang, selain Perbadanan dan mana-mana subsidiari Perbadanan, m
 
 “(1a) Jika Perbadanan menjalankan mana-mana kuasa di bawah subseksyen (1), institusi anggota hendaklah membayar kos, caj dan perbelanjaan Perbadanan atau orang dilantik, termasuk saraan orang dilantik, daripada aset institusi anggota itu mendahului semua tuntutan lain.”;
 
+<!-- marginal: WJW005220 BM.indd 28 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 29 -->
@@ -793,6 +837,8 @@ kepada mana-mana orang, selain Perbadanan dan mana-mana subsidiari Perbadanan, m
 54. Seksyen 104 Akta ibu dipinda dengan memasukkan selepas subseksyen (2) subseksyen yang berikut:
 
 “(2a) Jika Perbadanan membuat suatu pemindahan yang disebut dalam perenggan 99(1)(ga) atau menghapuskan hak yang disebut dalam perenggan 128b(7)(b), suatu permohonan untuk mengkaji semula mengikut Jadual Pertama ialah satu-satunya cara untuk mempersoalkan amaun balasan yang diterima atau boleh diterima dalam pemindahan itu atau amaun pampasan yang diterima atau boleh diterima berkenaan dengan hak yang dihapuskan itu, dan tiada mahkamah yang boleh mendengar apa-apa tindakan, guaman atau prosiding yang bertujuan untuk mempersoalkan amaun balasan atau pampasan itu.
+
+<!-- marginal: WJW005220 BM.indd 29 -->
 
 <!-- marginal: 10/15/15 9:23 AM -->
 
@@ -850,6 +896,8 @@ kepada mana-mana orang, selain Perbadanan dan mana-mana subsidiari Perbadanan, m
 
 (e) dalam subseksyen (5), dengan menggantikan perkataan “suatu perjanjian yang disebut dalam perenggan (1)(i)”
 
+<!-- marginal: WJW005220 BM.indd 31 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 32 -->
@@ -884,9 +932,7 @@ dengan perkataan “suatu perjanjian kewangan yang layak yang berhubungan dengan
 
 ### Bab baharu 2a Bahagian VII
 
-61. Bahagian VII Akta ibu dipinda dengan memasukkan selepas
-
-## Bab 2 bab yang berikut:
+61. Bahagian VII Akta ibu dipinda dengan memasukkan selepas Bab 2 bab yang berikut:
 
 “Bab 2a
 
@@ -909,6 +955,8 @@ Peruntukan yang berhubungan dengan pemindahan wajib syer
 ### Pemindahan wajib syer
 
 128b. (1) Apa-apa pemindahan syer yang dikeluarkan oleh suatu institusi anggota di bawah perenggan 99(1)(ga) hendaklah dilaksanakan dengan perintah pindah milik yang dikeluarkan oleh Perbadanan mengikut Bab ini.
+
+<!-- marginal: WJW005220 BM.indd 33 -->
 
 <!-- marginal: 10/15/15 9:23 AM -->
 
@@ -936,6 +984,8 @@ Peruntukan yang berhubungan dengan pemindahan wajib syer
 
 (b) penghapusan hak pemegang waran atau surat cara lain yang dikeluarkan oleh institusi anggota yang memberi hak kepada pemegang untuk memperoleh syer dalam institusi anggota itu;
 
+<!-- marginal: WJW005220 BM.indd 34 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 35 -->
@@ -954,6 +1004,8 @@ Peruntukan yang berhubungan dengan pemindahan wajib syer
 
 (b) penerima pindahan tidak dikehendaki untuk membuat suatu tawaran mengambil alih atau dikehendaki untuk memperoleh syer pemegang syer lain institusi anggota atau syer peminjam di bawah apa-apa perkiraan pinjaman dan peminjaman syer, walau apa pun apa-apa kontrak atau apa-apa jua dalam mana-mana undang-undang; dan
 
+<!-- marginal: WJW005220 BM.indd 35 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 36 -->
@@ -971,6 +1023,8 @@ Peruntukan yang berhubungan dengan pemindahan wajib syer
 (3) Perbadanan boleh, dengan kelulusan Bank Negara Malaysia, dalam menjalankan kuasanya di bawah perenggan 99(1)(ga), melalui notis secara bertulis—
 
 (a) memecat daripada jawatan, berkuat kuasa dari apa-apa tarikh sebagaimana yang dinyatakan dalam notis itu, mana-mana pengarah, pegawai atau pekerja institusi anggota;
+
+<!-- marginal: WJW005220 BM.indd 36 -->
 
 <!-- marginal: 10/15/15 9:23 AM -->
 
@@ -994,6 +1048,8 @@ Peruntukan yang berhubungan dengan pemindahan wajib syer
 
 (8) Perintah pindah milik yang dikeluarkan mengikut Bab ini adalah muktamad dan mengikat semua orang yang baginya perintah pindah milik itu dibuat atau yang terjejas oleh perintah pindah milik itu tidak kira bahawa orang itu tidak mengetahui mengenai apa-apa hal keadaan yang
 
+<!-- marginal: WJW005220 BM.indd 37 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 38 -->
@@ -1013,6 +1069,8 @@ menyebabkan perintah pindah milik itu dibuat, atau tidak mempunyai peluang untuk
 (2) Apa-apa perintah pindah milik gantian yang dikeluarkan oleh Perbadanan di bawah subseksyen (1) yang menyatakan bahawa mana-mana syer yang dikeluarkan oleh institusi anggota telah dipindahkan kepada penerima pindahan hendaklah menjadi keterangan muktamad mengenai pemindahan itu pada tarikh pindah milik yang dinyatakan dalam perintah pindah milik gantian itu.
 
 (3) Apa-apa perbuatan yang dilakukan oleh penerima pindahan, pemindah atau mana-mana orang lain, dengan bergantung kepada suatu perintah pindah milik yang dikeluarkan terdahulu tidaklah terjejas oleh mana-mana peninggalan atau khilaf yang dibetulkan dalam suatu perintah pindah milik gantian yang dikeluarkan di bawah subseksyen (1).”.
+
+<!-- marginal: WJW005220 BM.indd 38 -->
 
 <!-- marginal: 10/15/15 9:23 AM -->
 
@@ -1048,6 +1106,8 @@ menyebabkan perintah pindah milik itu dibuat, atau tidak mempunyai peluang untuk
 
 (a) boleh menjalankan perniagaan takaful keluarga pengendali takaful itu dengan tujuan untuk perniagaan itu dipindahkan sebagai perniagaan yang sudah berjalan kepada pengendali takaful lain tetapi tidak boleh mengeluarkan sijil takaful baru; dan
 
+<!-- marginal: WJW005220 BM.indd 39 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 40 -->
@@ -1073,6 +1133,8 @@ dan Mahkamah Tinggi boleh mengurangkan liabiliti itu setakat yang perlu dengan m
 131 b. (1) Walau apa pun seksyen 83 Akta ini dan perenggan 236(1)(a) Akta Syarikat 1965, pelikuidasi syarikat insurans yang menjalankan perniagaan hayat—
 
 (a) boleh menjalankan perniagaan hayat syarikat insurans itu dengan tujuan untuk perniagaan itu dipindahkan sebagai perniagaan yang sudah berjalan kepada syarikat insurans yang lain tetapi tidak boleh mengeluarkan polisi baharu; dan
+
+<!-- marginal: WJW005220 BM.indd 40 -->
 
 <!-- marginal: 10/15/15 9:23 AM -->
 
@@ -1103,6 +1165,8 @@ dan Mahkamah Tinggi boleh mengurangkan liabiliti itu setakat yang perlu dengan m
 (b) dalam perenggan (2)(b), dengan memotong perkataan “selain yang dikemukakan oleh Bank Negara Malaysia”; dan
 
 (c) dalam subseksyen (3), dengan memotong perkataan “dan kecuali jika petisyen bagi penggulungan dikemukakan oleh Bank Negara Malaysia,”.
+
+<!-- marginal: WJW005220 BM.indd 41 -->
 
 <!-- marginal: 10/15/15 9:23 AM -->
 
@@ -1152,6 +1216,8 @@ menunaikan liabiliti yang ditanggung dalam penjalanan perniagaannya selain perni
 
 (ii) hendaklah tersedia untuk menunaikan semua liabiliti anggota penerima deposit itu berkenaan dengan deposit Islamnya di Malaysia dalam keutamaan daripada semua liabiliti tidak bercagar yang lain yang ditanggung dalam penjalanan perniagaan perbankan Islamnya, selain hutang keutamaan yang dinyatakan dalam subseksyen 292(1) Akta Syarikat 1965 dalam turutan yang dinyatakan dalam subseksyen itu dan hutang yang kena dibayar dan tuntutan terhutang kepada Kerajaan di bawah seksyen 10 Akta Prosiding Kerajaan 1956, yang berpunca daripada perniagaan perbankan Islamnya sebagaimana yang ditentukan oleh Perbadanan dan aturan keutamaan bagi pembayaran kategori yang berlainan bagi deposit Islam boleh ditetapkan melalui peraturan-peraturan yang dibuat di bawah seksyen 209; dan
 
+<!-- marginal: WJW005220 BM.indd 43 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 44 -->
@@ -1167,6 +1233,8 @@ menunaikan liabiliti yang ditanggung dalam penjalanan perniagaannya selain perni
 134b. (1) Dalam penggulungan anggota penerima deposit yang merupakan bank Islam di dalam atau di luar Malaysia, aset anggota penerima deposit itu hendaklah tersedia untuk menunaikan semua liabiliti anggota penerima deposit itu berkenaan dengan deposit Islamnya di Malaysia dalam keutamaan daripada semua liabiliti tidak bercagar lain anggota penerima deposit itu selain hutang keutamaan yang dinyatakan dalam subseksyen 292(1) Akta Syarikat 1965 dalam turutan yang dinyatakan dalam subseksyen itu dan hutang yang kena dibayar dan tuntutan terhutang kepada Kerajaan di bawah seksyen 10 Akta Prosiding Kerajaan 1956 dan aturan keutamaan bagi pembayaran kategori yang berlainan bagi deposit Islam boleh ditetapkan melalui peraturan-peraturan yang dibuat di bawah seksyen 209.
 
 (2) Walau apa pun subseksyen (1), peraturan-peraturan boleh ditetapkan di bawah seksyen 209 untuk menentukan dan mengelaskan aset yang tersedia dan penggunaan hasil pelupusan aset itu bagi menunaikan mana-mana atau mana-mana bahagian liabiliti anggota penerima deposit itu.”.
+
+<!-- marginal: WJW005220 BM.indd 44 -->
 
 <!-- marginal: 10/15/15 9:23 AM -->
 
@@ -1196,6 +1264,8 @@ menunaikan liabiliti yang ditanggung dalam penjalanan perniagaannya selain perni
 
 (i) pertama, untuk menunaikan liabiliti kumpulan wang takaful lain yang diuruskan oleh pengendali takaful yang tidak mencukupi dan sekiranya bagi
 
+<!-- marginal: WJW005220 BM.indd 45 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 46 -->
@@ -1216,6 +1286,8 @@ maksud ini terdapat dua atau lebih kumpulan wang takaful—
 
 (c) menurut subperenggan (b)(ii), jika aset kumpulan wang pemegang syer berlebihan, lebihan aset itu hendaklah digunakan untuk menunaikan liabiliti mana-mana kumpulan wang takaful yang tidak mencukupi, dan sekiranya lebihan aset itu digunakan untuk menunaikan liabiliti dua atau lebih kumpulan wang takaful yang asetnya tidak mencukupi, lebihan aset itu hendaklah digunakan mengikut kadar amaun yang tidak mencukupi itu.
 
+<!-- marginal: WJW005220 BM.indd 46 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 47 -->
@@ -1234,6 +1306,8 @@ maksud ini terdapat dua atau lebih kumpulan wang takaful—
 
 (b) jika aset suatu kumpulan wang insurans, selain suatu kumpulan wang hayat yang berhubungan dengan polisi hayat sertaan, melebihi liabilitinya, lebihan aset itu boleh digunakan untuk menunaikan liabiliti kumpulan wang insuransnya yang lain yang tidak mencukupi dan sekiranya lebihan aset bagi dua atau lebih kumpulan wang insurans digunakan, lebihan aset itu hendaklah digunakan mengikut kadar atas amaun lebihan itu dan sekiranya lebihan aset itu digunakan untuk menunaikan liabiliti dua atau lebih kumpulan wang insurans yang tidak mencukupi, lebihan aset itu hendaklah digunakan mengikut kadar amaun yang tidak mencukupi itu;
 
+<!-- marginal: WJW005220 BM.indd 47 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 48 -->
@@ -1249,6 +1323,8 @@ maksud ini terdapat dua atau lebih kumpulan wang takaful—
 142c. (1) Dalam penggulungan pengendali takaful, termasuk bekas anggota penanggung insurans yang keanggotaannya telah dibatalkan di bawah seksyen 38 atau ditamatkan di bawah seksyen 39 dan sama ada kumpulan wang pemegang syernya atau mana-mana kumpulan wang takaful yang diuruskan olehnya tidak solven atau tidak, nilai aset dan liabiliti kumpulan wang pemegang syer dan kumpulan wang takaful itu, termasuk liabiliti berkenaan dengan sijil takaful, hendaklah dipastikan atas asas sebagaimana yang ditentukan oleh Perbadanan dan undang-undang yang berhubungan dengan kebankrapan atau ketidaksolvenan tidak terpakai bagi penilaian liabiliti itu.
 
 (2) Dalam penggulungan apa-apa syarikat insurans, termasuk bekas anggota penanggung insurans yang keanggotaannya telah dibatalkan di bawah seksyen 38 atau ditamatkan di bawah seksyen 39 dan sama ada ia tidak solven atau tidak, nilai aset dan liabilitinya, termasuk liabiliti berkenaan dengan polisi, hendaklah dipastikan atas apa-apa asas sebagaimana yang ditentukan oleh Perbadanan dan undang-undang yang berhubungan dengan kebankrapan atau ketidaksolvenan tidak terpakai bagi penilaian liabilitinya.”.
+
+<!-- marginal: WJW005220 BM.indd 48 -->
 
 <!-- marginal: 10/15/15 9:23 AM -->
 
@@ -1289,6 +1365,8 @@ maksud ini terdapat dua atau lebih kumpulan wang takaful—
 (c) dalam perenggan (e), dengan menggantikan perkataan “perbadanan” dengan perkataan “orang”; dan
 
 (d) dalam perenggan (f), dengan menggantikan perkataan “perbadanan” dengan perkataan “orang”.
+
+<!-- marginal: WJW005220 BM.indd 49 -->
 
 <!-- marginal: 10/15/15 9:23 AM -->
 
@@ -1360,6 +1438,8 @@ maksud ini terdapat dua atau lebih kumpulan wang takaful—
 
 (a) dalam subseksyen (3), dengan memasukkan selepas perkataan “premium” perkataan “atau levi”; dan
 
+<!-- marginal: WJW005220 BM.indd 51 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 52 -->
@@ -1420,6 +1500,8 @@ pihak ketiga yang layak semua atau tidak satu pun transaksi kewangan yang layak 
 
 wajar bagi nilai liabiliti berkenaan dengan sijil takaful atau polisi insurans anggota penanggung insurans itu ditentukan, Perbadanan boleh melantik seorang aktuari bebas untuk menentukan nilai itu.
 
+<!-- marginal: WJW005220 BM.indd 53 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 54 -->
@@ -1439,6 +1521,8 @@ wajar bagi nilai liabiliti berkenaan dengan sijil takaful atau polisi insurans a
 ### “Niat untuk menggulung institusi anggota
 
 204. (1) Suatu institusi anggota tidak boleh digulungkan secara sukarela tanpa kelulusan bertulis terdahulu Bank Negara Malaysia.
+
+<!-- marginal: WJW005220 BM.indd 54 -->
 
 <!-- marginal: 10/15/15 9:23 AM -->
 
@@ -1472,6 +1556,8 @@ menurut penjalanan mana-mana kuasa di bawah Akta ini.”.
 
 ### “undang-undang kecil,” perkataan “pemberitahuan,”;
 
+<!-- marginal: WJW005220 BM.indd 55 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 56 -->
@@ -1495,6 +1581,8 @@ menurut penjalanan mana-mana kuasa di bawah Akta ini.”.
 (f) dengan memotong perenggan (3)(f); dan
 
 (g) dalam perenggan (3)(h), dengan menggantikan perkataan “jika seseorang berhak kepada manfaat takaful atau insurans daripada dua atau lebih anggota penanggung insurans yang bergabung dan terus beroperasi sebagai satu anggota penanggung insurans” dengan perkataan “jika liabiliti sijil takaful atau polisi insurans suatu anggota penanggung insurans dipindahkan kepada dan diambil alih oleh anggota penanggung insurans lain”.
+
+<!-- marginal: WJW005220 BM.indd 56 -->
 
 <!-- marginal: 10/15/15 9:23 AM -->
 
@@ -1522,6 +1610,8 @@ menurut penjalanan mana-mana kuasa di bawah Akta ini.”.
 
 (v) dalam takrif “pemiutang menentang” dengan menggantikan noktah di hujung takrif itu dengan koma bernoktah;
 
+<!-- marginal: WJW005220 BM.indd 57 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 58 -->
@@ -1540,7 +1630,9 @@ menurut penjalanan mana-mana kuasa di bawah Akta ini.”.
 
 (b) dalam subperenggan 2(3), dengan menggantikan perkataan “ditetapkan” dengan perkataan “ditentukan”;
 
-(c) dengan memasukkan selepas perenggan 2 perenggan yang berikut:
+(c) dengan memasukkan selepas perenggan 2 perenggan yang
+
+<!-- marginal: berikut: -->
 
 ### “Notis perintah pindah milik
 
@@ -1551,6 +1643,8 @@ menurut penjalanan mana-mana kuasa di bawah Akta ini.”.
 (b) menyatakan pampasan, jika ada; dan
 
 (c) menentukan yang seorang pemindah atau seseorang yang haknya dihapuskan di bawah perenggan 128b(7)(b), mengikut mana-mana yang berkenaan, boleh dalam masa dua puluh satu hari dari tarikh penyiaran notis itu,
+
+<!-- marginal: WJW005220 BM.indd 58 -->
 
 <!-- marginal: 10/15/15 9:23 AM -->
 
@@ -1582,6 +1676,8 @@ memohon secara bertulis kepada Perbadanan untuk meminta suatu kajian semula oleh
 
 4a. (1) Apabila suatu permohonan dirujuk kepada Jawatankuasa Pentaksir di bawah subperenggan 3(1) berkenaan dengan suatu kajian semula kemunasabahan balasan atau pampasan, ia hendaklah mengkaji semula kemunasabahan balasan atau pampasan mengikut permintaan yang terkandung dalam permohonan itu.
 
+<!-- marginal: WJW005220 BM.indd 59 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 60 -->
@@ -1604,6 +1700,8 @@ dan dalam semua keadaan Jawatankuasa Pentaksir hendaklah menolak nilai manfaat y
 
 (a) pampasan adalah lebih rendah daripada amaun yang pada pendapatnya adalah amaun munasabah bagi hak yang dihapuskan di bawah
 
+<!-- marginal: WJW005220 BM.indd 60 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 61 -->
@@ -1617,6 +1715,8 @@ perenggan 128b(7)(b) (dalam subperenggan ini disebut “amaun munasabah”), Jaw
 (6) Jika Jawatankuasa Pentaksir memutuskan bahawa adalah adil dan munasabah sekiranya bunga atau pulangan lain dibayar atas suatu amaun yang kena dibayar di bawah subsubperenggan (3)(a) atau (4)(a), bunga atau pulangan itu hendaklah dibayar oleh Perbadanan pada kadar atau dalam amaun yang diputuskan oleh Jawatankuasa Pentaksir itu sebagai adil dan munasabah dalam apa-apa tempoh yang ditentukan oleh Jawatankuasa Pentaksir.
 
 (7) Jika Jawatankuasa Pentaksir memutuskan bahawa adalah adil dan munasabah bahawa kos prosiding di hadapan Jawatankuasa Pentaksir diawardkan kepada satu pihak terhadap pihak prosiding yang lain, amaun yang diputuskan oleh Jawatankuasa Pentaksir itu sebagai adil dan munasabah untuk diawardkan kepada suatu pihak berkenaan dengan kosnya hendaklah dibayar oleh pihak yang lain itu dalam apa-apa tempoh yang ditentukan oleh Jawatankuasa Pentaksir.
+
+<!-- marginal: WJW005220 BM.indd 61 -->
 
 <!-- marginal: 10/15/15 9:23 AM -->
 
@@ -1662,6 +1762,8 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Perbadanan Insurans Deposit 
 
 9. Fasal 9 bertujuan untuk meminda seksyen 27 Akta 720 untuk membenarkan penetapan keanggotaan dilanjutkan kepada “orang” dan tidak terhad kepada “perbadanan”.
 
+<!-- marginal: WJW005220 BM.indd 63 -->
+
 <!-- marginal: 10/15/15 9:23 AM -->
 
 <!-- page 64 -->
@@ -1703,6 +1805,8 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Perbadanan Insurans Deposit 
 25. Fasal 26 bertujuan untuk meminda perenggan 56(1)(c) Akta 720 untuk menjelaskan bahawa perintah penggulungan hendaklah dibuat dalam tahun taksiran bagi pemindahan itu, memandangkan perlindungan yang diberikan oleh Perbadanan di bawah subseksyen 44(1) Akta 720 adalah untuk baki tahun taksiran.
 
 26. Fasal 35, 36, 37, 39, 40, 42, 43, 52, 76, 78, 79, 81 dan 83 bertujuan untuk meminda subtajuk Bab 2 Bahagian V, seksyen 71, 72, 74, 75, 77, 78, 96, 149, 151, 152, 154 dan 156 Akta 720, untuk menunjukkan bahawa amaun yang diterima oleh Perbadanan (sebagai pihak berkuasa) daripada anggota penanggung insurans berkenaan dengan Sistem Perlindungan Manfaat Takaful dan Insurans disebut sebagai “levi”.
+
+<!-- marginal: WJW005220 BM.indd 65 -->
 
 <!-- marginal: 10/15/15 9:23 AM -->
 
@@ -1757,5 +1861,7 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Perbadanan Insurans Deposit 
 ## IMPLIKASI KEWANGAN
 
 Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
+
+<!-- marginal: WJW005220 BM.indd 67 -->
 
 <!-- marginal: 10/15/15 9:23 AM -->

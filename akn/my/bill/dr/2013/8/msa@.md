@@ -398,7 +398,7 @@ in the exercise of its discretionary power in accordance with this Act, except i
 
 23. Akta ibu dipinda dengan memasukkan selepas Bahagian IV Bahagian yang berikut:
 
-“ParT IVa
+## “PART IVA
 
 ## DETENTION ORDERS
 
@@ -506,7 +506,9 @@ the detention or extended detention shall be deemed to be undergone concurrently
 
 28. Akta ibu dipinda dengan memasukkan selepas Jadual Kedua Jadual yang berikut:
 
-“ThIrd s chedule [Section 7a]
+## “THIRD S CHEDULE
+
+[Section 7a]
 
 ## FORM
 

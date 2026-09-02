@@ -65,7 +65,7 @@
       },
       "schema:text": {
         "@language": "en",
-        "@value": "22 the following sections: \"Certificate 22A. Notwithstanding anything contained in any of Director other written law or rule of evidence to the General admissible contrary, where in any proceedings a document in purporting to be a certificate under the hand of evidence. the Director General in respect of a decision made by him under section 13B or 22 is produced, such document shall be admissible in evidence and shall be accepted as sufficient evidence of the facts therein stated and the Director General shall not be required to give evidence in respect of such decision unless the court otherwise orders. Recovery 22B. Without prejudice to any other remedy, of customs any customs duty payable under this Act may duty as a be recovered by the Minister as a civil debt civil debt. due to the Government of Malaysia, or where the customs duty is a duty of a category assigned to the State by Article 112c of the Federal Constitution, to the Government of that State.\". 4 BILL Amendment"
+        "@value": "22 the following sections: \"Certificate 22A. Notwithstanding anything contained in any of Director other written law or rule of evidence to the General admissible contrary, where in any proceedings a document in purporting to be a certificate under the hand of evidence. the Director General in respect of a decision made by him under section 13B or 22 is produced, such document shall be admissible in evidence and shall be accepted as sufficient evidence of the facts therein stated and the Director General shall not be required to give evidence in respect of such decision unless the court otherwise orders. Recovery 22B. Without prejudice to any other remedy, of customs any customs duty payable under this Act may duty as a be recovered by the Minister as a civil debt civil debt. due to the Government of Malaysia, or where the customs duty is a duty of a category assigned to the State by Article 112c of the Federal Constitution, to the Government of that State.\". 4 BILL"
       }
     },
     {
@@ -73,9 +73,13 @@
       "@type": "akn:clause",
       "eli:number": "11",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/4/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 129 of the principal Act is amended by"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Section 129 of the principal Act is amended by of section inserting after the words \"or other person entitled thereto\" 129. the words \"on payment of such amount and\". Amendment"
+        "@value": "inserting after the words \"or other person entitled thereto\" 129. the words \"on payment of such amount and\"."
       }
     },
     {
@@ -89,7 +93,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/4/eng@",
       "schema:name": {
         "@language": "en",
-        "@value": "Section 131 of the principal Act is amended— of section"
+        "@value": "Section 131 of the principal Act is amended—"
       },
       "schema:text": {
         "@language": "en",
@@ -113,7 +117,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/4/eng@/~cl_12",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after subsection (2) the following subsection: \" (2A) The Director General may compound an offence under paragraph (a), (b), (c), (d) or (e) of subsection (1) of section 135 by accepting from the person reasonably suspected of having committed such offence a sum of money which shall be a sum not less than two times and not more than ten times the customs duty.\". Amendment"
+        "@value": "by inserting after subsection (2) the following subsection: \" (2A) The Director General may compound an offence under paragraph (a), (b), (c), (d) or (e) of subsection (1) of section 135 by accepting from the person reasonably suspected of having committed such offence a sum of money which shall be a sum not less than two times and not more than ten times the customs duty.\"."
       }
     },
     {
@@ -127,7 +131,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/4/eng@",
       "schema:name": {
         "@language": "en",
-        "@value": "Section 138 of the principal Act is amended— of section"
+        "@value": "Section 138 of the principal Act is amended—"
       },
       "schema:text": {
         "@language": "en",
@@ -186,10 +190,6 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/4/eng@/~cl_4",
       "@type": "akn:clause",
       "eli:number": "4",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/4/eng@/~cl_4__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/4/eng@/~cl_4__para_b"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/4/eng@",
       "schema:name": {
         "@language": "en",
@@ -197,72 +197,21 @@
       },
       "schema:text": {
         "@language": "en",
-        "@value": "8 the following section: \"Minister 8A. The Minister may, by order published in may the Gazette, prescribe— prescribe uniforms,"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/4/eng@/~cl_4__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/4/eng@/~cl_4",
-      "schema:text": {
-        "@language": "en",
-        "@value": "uniforms and rank markings for any rank etc. of officers of customs; and"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/4/eng@/~cl_4__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/4/eng@/~cl_4",
-      "schema:text": {
-        "@language": "en",
-        "@value": "the authority card and badge to be carried by any rank of officers of customs.\"."
+        "@value": "8 the following section: \"Minister 8A. The Minister may, by order published in may the Gazette, prescribe— prescribe uniforms, (a) uniforms and rank markings for any rank etc. of officers of customs; and (b) the authority card and badge to be carried by any rank of officers of customs.\"."
       }
     },
     {
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/4/eng@/~cl_5",
       "@type": "akn:clause",
       "eli:number": "5",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/4/eng@/~cl_5__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/4/eng@/~cl_5__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/4/eng@/~cl_5__para_c"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/4/eng@",
       "schema:name": {
         "@language": "en",
         "@value": "Section 9 of the principal Act is amended—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/4/eng@/~cl_5__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/4/eng@/~cl_5",
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "in subsections (1) and (2), by inserting before the words \"authority card\" the words \"badge or\";"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/4/eng@/~cl_5__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/4/eng@/~cl_5",
-      "schema:text": {
-        "@language": "en",
-        "@value": "by inserting after subsection (2) the following subsection: \" (3) A badge or an authority card issued to an officer of customs shall be the property of the Government and shall be surrendered by such officer to the person appointed by the Director General for that purpose when such officer ceases to be an officer of customs or when instructed to do so.\"; and"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/4/eng@/~cl_5__para_c",
-      "@type": "akn:paragraph",
-      "eli:number": "c",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/4/eng@/~cl_5",
-      "schema:text": {
-        "@language": "en",
-        "@value": "in the marginal note, by substituting for the word \"Authority\" the words \"Badges and authority\". New"
+        "@value": "(a) in subsections (1) and (2), by inserting before the words \"authority card\" the words \"badge or\"; (b) by inserting after subsection (2) the following subsection: \" (3) A badge or an authority card issued to an officer of customs shall be the property of the Government and shall be surrendered by such officer to the person appointed by the Director General for that purpose when such officer ceases to be an officer of customs or when instructed to do so.\"; and (c) in the marginal note, by substituting for the word \"Authority\" the words \"Badges and authority\"."
       }
     },
     {
@@ -270,9 +219,13 @@
       "@type": "akn:clause",
       "eli:number": "6",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/4/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "The principal Act is amended by inserting after section section 9A. 9 the following section: \"Unlawful 9A. Any person, not being an officer of customs, use, who unlawfully wears, uses, possesses or possession, etc. of displays otherwise than in the course of a stage uniform, play or other theatrical performance, any etc. prescribed uniform or badge or authority card, or any dress having the appearance of or bearing the distinctive marks of such uniform shall be guilty of an offence under this Act.\". Deletion of"
+        "@value": "9 the following section: \"Unlawful 9A. Any person, not being an officer of customs, use, who unlawfully wears, uses, possesses or possession, etc. of displays otherwise than in the course of a stage uniform, play or other theatrical performance, any etc. prescribed uniform or badge or authority card, or any dress having the appearance of or bearing the distinctive marks of such uniform shall be guilty of an offence under this Act.\"."
       }
     },
     {
@@ -280,9 +233,13 @@
       "@type": "akn:clause",
       "eli:number": "7",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/4/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 11 of the principal Act is amended by deleting"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Section 11 of the principal Act is amended by deleting subsection subsection (6). 11(6)."
+        "@value": "subsection (6)."
       }
     },
     {
@@ -294,9 +251,13 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/4/eng@/~cl_8__para_b"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/4/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "The principal Act is amended by substituting for Amendment of section subsection 13(1) the following subsection: 13. 13. (1) The proper officer of customs may, in \"Classifi- cation and respect of any dutiable or uncustomed goods,— valuation by proper"
+        "@value": "subsection 13(1) the following subsection: 13. 13. (1) The proper officer of customs may, in \"Classifi- cation and respect of any dutiable or uncustomed goods,— valuation by proper"
       }
     },
     {

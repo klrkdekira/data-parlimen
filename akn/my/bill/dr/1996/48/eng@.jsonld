@@ -92,7 +92,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_2",
       "schema:text": {
         "@language": "en",
-        "@value": "in paragraph (c), by deleting the words \"to hear the complainant (if any) and\"; 2 Bill"
+        "@value": "in paragraph (c), by deleting the words \"to hear the complainant (if any) and\"; Bill"
       }
     },
     {
@@ -102,7 +102,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_2",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for paragraph (f) the following paragraph: \"(f) (1) When the case for the prosecution is concluded the Court shall consider whether the prosecution has made out a prima facie case against the accused. (2) If the Court finds that the prosecution has not made out a prima facie case against the accused, the Court shall record an order of acquittal.\";"
+        "@value": "by substituting for paragraph (f) the following \"(f) (1) When the case for the prosecution is concluded the Court shall consider whether the prosecution has made out a prima facie case against the accused. (2) If the Court finds that the prosecution has not made out a prima facie case against the accused, the Court shall record an order of acquittal.\";"
       }
     },
     {
@@ -112,7 +112,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_2",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for paragraph (h) the following paragraph: \"(h) (1) If the Court finds that a prima facie case has been made out against the accused on the offence charged, the Court shall call upon the accused to enter on his defence. (2) If the Court finds that a prima facie case has been made out against the accused on an offence other than the offence charged which such Court is competent to try and which in the opinion of the Court it ought to try, the Court shall amend the charge.\";"
+        "@value": "by substituting for paragraph (h) the following \"(h) (1) If the Court finds that a prima facie case has been made out against the accused on the offence charged, the Court shall call upon the accused to enter on his defence. (2) If the Court finds that a prima facie case has been made out against the accused on an offence other than the offence charged which such Court is competent to try and which in the opinion of the Court it ought to try, the Court shall amend the charge.\";"
       }
     },
     {
@@ -132,7 +132,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_2",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for paragraph (j) the following paragraph: \"(j) (1) If the accused pleads guilty to the charge as amended, the plea shall be recorded and he may be convicted thereon and the Court shall pass sentence according to law: Provided that before a plea of guilty is recorded the Court shall ascertain that the understands the nature consequences of his plea and intends to admit, without qualification, the offence alleged against him. (2) If the accused does not plead guilty to the charge as amended, the accused shall be called upon to enter on his defence. (3) When the accused is called upon to enter on his defence, he may produce his evidence and shall be allowed to recall and cross-examine any witness present in the Court or its precincts: Provided that if the accused elects to be called as a witness, his evidence shall be taken before that of other witnesses for the defence: Provided further that any accused person who elects to be called as a witness may be cross-examined on behalf of any other accused person.\"; and"
+        "@value": "by substituting for paragraph (j) the following \"(j) (1) If the accused pleads guilty to the charge as amended, the plea shall be recorded and he may be convicted thereon and the Court shall pass sentence according to law: Provided that before a plea of guilty is recorded the Court shall ascertain that the accused understands the nature and consequences of his plea and intends to admit, without qualification, the offence alleged against him. (2) If the accused does not plead guilty to the charge as amended, the accused shall be called upon to enter on his defence. (3) When the accused is called upon to enter on his defence, he may produce his evidence and shall be allowed to recall and cross-examine any witness present in the Court or its precincts: Provided that if the accused elects to be called as a witness, his evidence shall be taken before that of other witnesses for the defence: Provided further that any accused person who elects to be called as a witness may be cross-examined on behalf of any other accused person.\"; and"
       }
     },
     {
@@ -142,7 +142,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_2",
       "schema:text": {
         "@language": "en",
-        "@value": "by substituting for paragraph (m) the following paragraph: \"(m) (1) At the conclusion of the trial, the Court shall consider all the evidence adduced before it and shall decide whether the prosecution has proved its case beyond reasonable doubt. 4 Bill (2) If the Court finds prosecution has proved its case beyond reasonable doubt, the Court shall find the accused guilty and he may be convicted thereon and the Court shall pass sentence according to law. (3) If the Court finds prosecution has not proved its case beyond reasonable doubt, the Court shall record an order of acquittal.\". Amendment of ."
+        "@value": "by substituting for paragraph (m) the following \"(m) (1) At the conclusion of the trial, the Court shall consider all the evidence adduced before it and shall decide whether the prosecution has proved its case beyond reasonable doubt. Bill (2) If the Court finds that the prosecution has proved its case beyond reasonable doubt, the Court shall find the accused guilty and he may be convicted thereon and the Court shall pass sentence according to law. (3) If the Court finds that the prosecution has not proved its case beyond reasonable doubt, the Court shall record an order of acquittal.\". ."
       }
     },
     {
@@ -150,43 +150,27 @@
       "@type": "akn:clause",
       "eli:number": "3",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 178 of the Code is amended in subsection"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Section 178 of the Code is amended in subsection section 178 (ii) by substituting for the full stop at the end of the subsection a colon and by adding thereafter the following proviso: \"Provided that before a plea of guilty is recorded the Court shall ascertain that the accused understands the nature and consequences of his plea and intends to admit, without qualification, the offence alleged against him.\". Amendment of"
+        "@value": "(ii) by substituting for the full stop at the end of the subsection a colon and by adding thereafter the following \"Provided that before a plea of guilty is recorded the Court shall ascertain that the accused understands the nature and consequences of his plea and intends to admit, without qualification, the offence alleged against him.\"."
       }
     },
     {
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_4",
       "@type": "akn:clause",
       "eli:number": "4",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_4__para_ii",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_4__para_iii"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Code is amended by substituting for section 180"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "The Code is amended by substituting for section 180 section 180. the following section: \" Procedure 180. (i) When the case for the prosecution is after concluded, the Court shall consider whether the conclusion of case for prosecution has made out a prima facie case prosecu- against the accused. tion."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_4__para_ii",
-      "@type": "akn:paragraph",
-      "eli:number": "ii",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_4",
-      "schema:text": {
-        "@language": "en",
-        "@value": "If the Court finds that the prosecution has not made out a prima facie case against the accused, the Court shall record an order of acquittal."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_4__para_iii",
-      "@type": "akn:paragraph",
-      "eli:number": "iii",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_4",
-      "schema:text": {
-        "@language": "en",
-        "@value": "If the Court finds that a prima facie case has been made out against the accused on the offence charged the Court shall call upon the accused to enter on his defence.\". Criminal Procedure Code (Amendment)"
+        "@value": "the following section: \" 180. (i) When the case for the prosecution is concluded, the Court shall consider whether the prosecution has made out a prima facie case against the accused. (ii) If the Court finds that the prosecution has not made out a prima facie case against the accused, the Court shall record an order of acquittal. (iii) If the Court finds that a prima facie case has been made out against the accused on the offence charged the Court shall call upon the accused to enter on his defence.\". Criminal Procedure Code (Amendment)"
       }
     },
     {
@@ -207,10 +191,6 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_6",
       "@type": "akn:clause",
       "eli:number": "6",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_6__para_ii",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_6__para_iii"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@",
       "schema:name": {
         "@language": "en",
@@ -218,27 +198,7 @@
       },
       "schema:text": {
         "@language": "en",
-        "@value": "the following section: \" Procedure 182A. (i) At the conclusion of the trial, the Court at the shall consider all the evidence adduced before conclusion of the trial. it and shall decide whether the prosecution has proved its case beyond reasonable doubt."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_6__para_ii",
-      "@type": "akn:paragraph",
-      "eli:number": "ii",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_6",
-      "schema:text": {
-        "@language": "en",
-        "@value": "If the Court finds that the prosecution has proved its case beyond reasonable doubt, the Court shall find the accused guilty and he may be convicted thereon."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_6__para_iii",
-      "@type": "akn:paragraph",
-      "eli:number": "iii",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_6",
-      "schema:text": {
-        "@language": "en",
-        "@value": "If the Court finds that the prosecution has not proved its case beyond reasonable doubt, the Court shall record an order of acquittal.\"."
+        "@value": "the following section: \" Procedure 182A. (i) At the conclusion of the trial, the Court at the shall consider all the evidence adduced before conclusion of the trial. it and shall decide whether the prosecution has proved its case beyond reasonable doubt. (ii) If the Court finds that the prosecution has proved its case beyond reasonable doubt, the Court shall find the accused guilty and he may be convicted thereon. (iii) If the Court finds that the prosecution has not proved its case beyond reasonable doubt, the Court shall record an order of acquittal.\"."
       }
     },
     {

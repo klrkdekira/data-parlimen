@@ -74,9 +74,11 @@ section 2—
 
 * "vessel" includes any ship or boat or any other description of vessel registered in Malaysia, or licensed to be used, or habitually kept, in Malaysia or the territorial waters of Malaysia.'.
 
-Amendment
+<!-- marginal: Amendment -->
 
-3. Section 3 of the principal Act is amended— of section 3
+3. Section 3 of the principal Act is amended—
+
+<!-- marginal: of section 3 -->
 
 (a) in paragraph (b)—
 
@@ -86,9 +88,11 @@ Amendment
 
 (b) in paragraph (c), by substituting for the words "ship or aircraft" the words "premises, aircraft, vessel, train or vehicle".
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. Section 4 of the principal Act is amended— of section 4.
+4. Section 4 of the principal Act is amended—
+
+<!-- marginal: of section 4. -->
 
 (a) by substituting for subsection (1) the following subsection:
 
@@ -106,23 +110,31 @@ Amendment
 
 "(5) The Minister may, by order published in the Gazette, amend the Schedule.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-5. Section 5 of the principal Act is amended— of section 5
+5. Section 5 of the principal Act is amended—
+
+<!-- marginal: of section 5 -->
 
 (a) by substituting for the word "broadcast" appearing after the word "who" the word "broadcasts"; and
 
 (b) by inserting after the word "licence" the words "or contravenes any condition of his licence".
 
-Amendment
+<!-- marginal: Amendment -->
 
-6. The principal Act is amended by substituting for section of section 7. 7 the following section:
+6. The principal Act is amended by substituting for section
+
+<!-- marginal: of section 7. -->
+
+7 the following section:
 
 "Validity 7. A licence granted under this Part shall be of licence, subject to such conditions as may be endorsed therein and shall, unless sooner revoked or suspended, be valid for such period as may be specified by the Minister in the licence.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-7. Section 9 of the principal Act is amended— of section 9
+7. Section 9 of the principal Act is amended—
+
+<!-- marginal: of section 9 -->
 
 (a) in subsection (1)—
 
@@ -162,21 +174,31 @@ III the following Part:
 
 ## TO TRANSMIT FROM MALAYSIA
 
-Licence to
+<!-- marginal: Licence to -->
 
-11A. (1) No person shall— receive in Malaysia
+11A. (1) No person shall—
 
-(a) receive in Malaysia any foreign broadcast and to transmit matter direct from; or from Malaysia.
+<!-- marginal: receive in -->
+
+<!-- marginal: Malaysia -->
+
+(a) receive in Malaysia any foreign broadcast
+
+<!-- marginal: and to -->
+
+<!-- marginal: transmit -->
+
+matter direct from; or
+
+<!-- marginal: from -->
+
+<!-- marginal: Malaysia. -->
 
 (b) transmit from Malaysia any broadcast matter to,
 
 any satellite, except under or in accordance with a licence granted by the Minister under this Part.
 
-(2) This section shall not apply to a person operating under a licence granted pursuant to
-
-## Part II to broadcast any broadcast matter from
-
-Malaysia.
+(2) This section shall not apply to a person operating under a licence granted pursuant to Part II to broadcast any broadcast matter from Malaysia.
 
 (3) For the purpose of paragraph (l) (b), "broadcast matter" means any sign or signal transmitted for aural or visual reception or both and includes any music, film, documentary, theatrical or other entertainment, concert, lecture, speech, address, news, advertisement and information of any kind.
 
@@ -190,11 +212,15 @@ Malaysia.
 
 (7) The Minister shall give not less than fourteen days notice in writing of his intention to amend, vary or revoke any of the conditions or restrictions of the licence imposed under subsection (5) or to impose further conditions and restrictions and shall specify in the notice the amendment, variation or revocation proposed or the condition or restriction to be imposed.
 
-(8) Any person who contravenes subsection (1) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding three years or to both.".
+(8) Any person who contravenes subsection
 
-Amendment
+(1) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding three years or to both.".
 
-10. Section 12 of the principal Act is amended— of section
+<!-- marginal: Amendment -->
+
+10. Section 12 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 12.
 
@@ -238,13 +264,21 @@ text, in paragraph I 3 ( l )( a ), by substituting for the word
 
 (i) by substituting for the word "three" the word "ten"; and
 
-(ii) in the national language text, by substituting for the word "dipasang" the word "ditempatkan";
+(ii) in the national language
+
+<!-- marginal: text, by -->
+
+substituting for the word "dipasang" the word "ditempatkan";
 
 (c) in subsection (3)—
 
 (i) by substituting for the words "in which" the words "or the owner of any aircraft, vessel, train or vehicle in which is found a"; and
 
-(ii) in the national language text, by substituting for the words "berkenaan dengan mana" the words "yang berkenaan dengannya"; and
+(ii) in the national language
+
+<!-- marginal: text, by -->
+
+substituting for the words "berkenaan dengan mana" the words "yang berkenaan dengannya"; and
 
 <!-- page 8 -->
 
@@ -254,21 +288,25 @@ text, in paragraph I 3 ( l )( a ), by substituting for the word
 
 (ii) by substituting for the words "or premises" the words ", premises, aircraft, vessel, train or vehicle".
 
-Deletion of
+<!-- marginal: Deletion of -->
 
 13. Section 15 of the principal Act is deleted.
 
-### section 15.
+<!-- marginal: section 15. -->
 
-Deletion of
+<!-- marginal: Deletion of -->
 
 14. Section 16 of the principal Act is deleted.
 
-### section 16.
+<!-- marginal: section 16. -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-15. Section 18 of the principal Act is amended— of section 18
+15. Section 18 of the principal Act is amended—
+
+<!-- marginal: of section -->
+
+<!-- marginal: 18 -->
 
 (a) by substituting for the words "Part V" the words "this Act for the purposes of this Part";
 
@@ -276,17 +314,29 @@ Amendment
 
 (c) by substituting for the words "one thousand five hundred" the words "three thousand".
 
-Amendment
+<!-- marginal: Amendment -->
 
-16. The heading to Part V of the principal Act is amended of heading by substituting for the word "MISCELLANEOUS" the to Part V. words "GENERAL POWERS".
+16. The heading to Part V of the principal Act is amended
 
-Deletion of
+<!-- marginal: of heading -->
 
-17. Section 19 of the principal Act is deleted. section 19.
+by substituting for the word "MISCELLANEOUS" the
 
-### Amendment
+<!-- marginal: to Part V. -->
 
-18. Section 21 of the principal Act is amended— of section
+words "GENERAL POWERS".
+
+<!-- marginal: Deletion of -->
+
+17. Section 19 of the principal Act is deleted.
+
+<!-- marginal: section 19. -->
+
+<!-- marginal: Amendment -->
+
+18. Section 21 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 21.
 
@@ -314,7 +364,23 @@ Deletion of
 
 <!-- marginal: and 21c -->
 
-"Licence 2lA. (1) No person shall distribute any to broadcast matter for the purposes of any of the distribute broadcast broadcasting services specified in the Schedule matter. except under and in accordance with a licence granted by the Minister under this section.
+<!-- marginal: "Licence -->
+
+2lA. (1) No person shall distribute any
+
+<!-- marginal: to -->
+
+broadcast matter for the purposes of any of the
+
+<!-- marginal: distribute -->
+
+<!-- marginal: broadcast -->
+
+broadcasting services specified in the Schedule
+
+<!-- marginal: matter. -->
+
+except under and in accordance with a licence granted by the Minister under this section.
 
 (2) A licence granted under this section shall be in such prescribed form and shall be valid for such period as the Minister may determine.
 
@@ -330,7 +396,19 @@ Deletion of
 
 (1) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding three years or to both.
 
-Power of 21e. (1) The Minister shall have the power the Minister to suspend or revoke any licence granted under to suspend or revoke. section 11A, 14, 21 or 2lA.
+<!-- marginal: Power of -->
+
+21e. (1) The Minister shall have the power
+
+<!-- marginal: the Minister -->
+
+to suspend or revoke any licence granted under
+
+<!-- marginal: to suspend -->
+
+<!-- marginal: or revoke. -->
+
+section 11A, 14, 21 or 2lA.
 
 (2) The Minister shall, before suspending or revoking any licence under subsection (1), give the licensee notice in writing—
 
@@ -340,7 +418,13 @@ Power of 21e. (1) The Minister shall have the power the Minister to suspend or r
 
 (c) calling upon the licensee to show cause to him, within thirty days from the date of receipt of the notice, why his licence should not be suspended or revoked.
 
-Power to 21c. (1) Notwithstanding sections 4, HA, 14 exempt. and 2lA, the Minister may, by order published in the Gazette, exempt, subject to such conditions as the Minister may deem fit to impose, any person or class of persons from all or any such provisions.
+<!-- marginal: Power to -->
+
+21c. (1) Notwithstanding sections 4, HA, 14
+
+<!-- marginal: exempt. -->
+
+and 2lA, the Minister may, by order published in the Gazette, exempt, subject to such conditions as the Minister may deem fit to impose, any person or class of persons from all or any such provisions.
 
 (2) The Minister may at any time by order, published in the Gazette, revoke any order made under subsection (1) if he is satisfied that such exemption should no longer be granted.".
 
@@ -358,7 +442,19 @@ Power to 21c. (1) Notwithstanding sections 4, HA, 14 exempt. and 2lA, the Minist
 
 ## ENFORCEMENT
 
-Power to 21 D. (1) An authorized officer may at any time enter , enter any place or premises, and stop and enter search and seize. any aircraft, vessel, train or vehicle—
+<!-- marginal: Power to -->
+
+21 D. (1) An authorized officer may at any time
+
+<!-- marginal: enter , -->
+
+enter any place or premises, and stop and enter
+
+<!-- marginal: search and -->
+
+<!-- marginal: seize. -->
+
+any aircraft, vessel, train or vehicle—
 
 (a) where such authorized officer has reasonable cause to believe that—
 
@@ -382,7 +478,19 @@ which appears to him to have been used, is being used or is about to be used, in
 
 (2) Any person who refuses entrance to or obstructs or hinders an authorized officer while the officer is exercising any of the powers under this section shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding six months or to both.
 
-Search and 2lE. (1) For the purpose of exercising the seize with powers under section 2 ID, an authorized officer and without warrant. may enter any place, premises, aircraft, vessel, train or vehicle by force, if necessary.
+<!-- marginal: Search and -->
+
+2lE. (1) For the purpose of exercising the
+
+<!-- marginal: seize with -->
+
+powers under section 2 ID, an authorized officer
+
+<!-- marginal: and without -->
+
+<!-- marginal: warrant. -->
+
+may enter any place, premises, aircraft, vessel, train or vehicle by force, if necessary.
 
 (2) Notwithstanding subsection (1), no authorized officer shall enter any place, premises, aircraft, vessel, train or vehicle without a search warrant issued by a Magistrate unless he has reasonable grounds to believe that by reason of the delay in obtaining a search warrant—
 
@@ -390,13 +498,35 @@ Search and 2lE. (1) For the purpose of exercising the seize with powers under se
 
 (b) the object of the entry is likely to be frustrated.
 
-List of
+<!-- marginal: List of -->
 
-2IF. An authorized officer shall prepare a list things of the things seized under section 21o and seized forthwith deliver a copy signed by him to the occupier of the place or premises or to the owner of the aircraft, vessel, train or vehicle or to their agent or servant.
+2IF. An authorized officer shall prepare a list
 
-Forfeiture
+<!-- marginal: things -->
 
-21G. (1) For the purposes of this section, of radio "officer-in-charge" means the officer-in-charge broadcast receiver, of the Division, in the Ministry of Information, etc. responsible for matters relating to the enforcement of this Act.
+of the things seized under section 21o and
+
+<!-- marginal: seized -->
+
+forthwith deliver a copy signed by him to the occupier of the place or premises or to the owner of the aircraft, vessel, train or vehicle or to their agent or servant.
+
+<!-- marginal: Forfeiture -->
+
+21G. (1) For the purposes of this section,
+
+<!-- marginal: of radio -->
+
+"officer-in-charge" means the officer-in-charge
+
+<!-- marginal: broadcast -->
+
+<!-- marginal: receiver, -->
+
+of the Division, in the Ministry of Information,
+
+<!-- marginal: etc. -->
+
+responsible for matters relating to the enforcement of this Act.
 
 <!-- page 13 -->
 
@@ -422,9 +552,7 @@ Forfeiture
 
 may personally or by any person authorized by him in writing give written notice to an authorized officer that he claims the same.
 
-(7) On receipt of a notice under subsection
-
-(6), the authorized officer shall refer the claim to the officer-in-charge who may, after such enquiry as may be necessary, direct that the radio broadcast receiver or television broadcast receiver or any other equipment or apparatus be released or refer the matter to a court for decision.
+(7) On receipt of a notice under subsection (6), the authorized officer shall refer the claim to the officer-in-charge who may, after such enquiry as may be necessary, direct that the radio broadcast receiver or television broadcast receiver or any other equipment or apparatus be released or refer the matter to a court for decision.
 
 (8) The court to which the matter under subsection (7) is referred shall issue a summons requiring the person asserting that he is the owner of the radio broadcast receiver or television broadcast receiver or any other equipment or apparatus and the person from whom it was seized to appear before it and upon the appearance or default to appear of both of them or either one of them, due service of the summons being proved, the court shall proceed to the examination of the matter.
 
@@ -436,31 +564,87 @@ be forfeited or may, in the absence of such proof, order its release.
 
 (10) Any radio broadcast receiver or television broadcast receiver or any other equipment or apparatus forfeited or deemed to be forfeited shall be disposed of in such manner as the officer-in-charge deems fit.
 
-Power to
+<!-- marginal: Power to -->
 
-21H. (1) Whenever it appears to any authorized seal. officer that it is not practicable to remove from where it is found any radio broadcast receiver or television broadcast receiver or any other equipment or apparatus seized by him in the exercise of his powers under this Act by reason of its nature, size or amount, he may seal such radio broadcast receiver or television broadcast receiver or equipment or apparatus.
+21H. (1) Whenever it appears to any authorized
+
+<!-- marginal: seal. -->
+
+officer that it is not practicable to remove from where it is found any radio broadcast receiver or television broadcast receiver or any other equipment or apparatus seized by him in the exercise of his powers under this Act by reason of its nature, size or amount, he may seal such radio broadcast receiver or television broadcast receiver or equipment or apparatus.
 
 (2) Any unauthorized person who breaks, tampers with or damages such seal or removes such radio broadcast receiver or television broadcast receiver or equipment or apparatus or attempts or causes to do so shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding three years or to both.
 
-Power to
+<!-- marginal: Power to -->
 
-21I. (1) An authorized officer may by notice require in writing require any person to produce to him production of books, such books, registers or other documents as are registers in the possession, custody or under the control and other documents. of that person or within the power of that person to produce.
+21I. (1) An authorized officer may by notice
+
+<!-- marginal: require -->
+
+in writing require any person to produce to him
+
+<!-- marginal: production -->
+
+<!-- marginal: of books, -->
+
+such books, registers or other documents as are
+
+<!-- marginal: registers -->
+
+in the possession, custody or under the control
+
+<!-- marginal: and other -->
+
+<!-- marginal: documents. -->
+
+of that person or within the power of that person to produce.
 
 (2) Where a person fails to comply with the notice under subsection (1) he shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding six months or to both.
 
 <!-- page 16 -->
 
-Power to
+<!-- marginal: Power to -->
 
-21J. (1) An authorized officer making an require investigation under this Act shall have the power information and to require information, whether orally or in examine writing, from any person acquainted with the persons facts and circumstances of the case under investigation.
+21J. (1) An authorized officer making an
+
+<!-- marginal: require -->
+
+investigation under this Act shall have the power
+
+<!-- marginal: information -->
+
+<!-- marginal: and -->
+
+to require information, whether orally or in
+
+<!-- marginal: examine -->
+
+writing, from any person acquainted with the
+
+<!-- marginal: persons -->
+
+facts and circumstances of the case under investigation.
 
 (2) Whoever, on being required by an authorized officer to give information under this section, refuses to comply with such request or furnishes as true any information which he knows or has reason to believe to be false, untrue or incorrect, in whole or in part, shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding six months or to both.
 
 (3) When any information furnished under subsection (2) is proved to be false, untrue or incorrect, in whole or in part, it shall be no defence to allege that such information or any part thereof was misinterpreted or furnished inadvertently or without criminal or fraudulent intent.
 
-(4) An authorized officer making an investigation under this Act may exercise any or all of the powers conferred by section 111 F.M.S. of the Criminal Procedure Code, and sections Cap 6. 112 to 116 and section 119 of the Code shall apply to statements made by the persons examined in the course of such investigation.
+(4) An authorized officer making an investigation under this Act may exercise any or all of the powers conferred by section 111
 
-Power to 2lK. (1) An authorized officer may compound compound. any offence under—
+<!-- marginal: F.M.S. -->
+
+of the Criminal Procedure Code, and sections
+
+<!-- marginal: Cap 6. -->
+
+112 to 116 and section 119 of the Code shall apply to statements made by the persons examined in the course of such investigation.
+
+<!-- marginal: Power to -->
+
+2lK. (1) An authorized officer may compound
+
+<!-- marginal: compound. -->
+
+any offence under—
 
 (a) Parts II, I II and VI;
 
@@ -492,17 +676,37 @@ by making a written offer to the person reasonably suspected of having committed
 
 the authorized officer may grant, prosecution for the offence may be instituted at any time thereafter against the person to whom the offer to compound was made.
 
-Power to 2lL. An authorized officer, not below the rank prosecute. of Assistant Enforcement Officer, may appear and conduct any prosecution for any offence committed under this Act or any regulations made under this Act.".
+<!-- marginal: Power to -->
 
-New Part
+2lL. An authorized officer, not below the rank
 
-21. The principal Act is amended by inserting after section VII; 2lL the following Part:
+<!-- marginal: prosecute. -->
+
+of Assistant Enforcement Officer, may appear and conduct any prosecution for any offence committed under this Act or any regulations made under this Act.".
+
+<!-- marginal: New Part -->
+
+21. The principal Act is amended by inserting after section
+
+<!-- marginal: VII; -->
+
+2lL the following Part:
 
 ## "PART VII
 
 ## MISCELLANEOUS
 
-Offences by 2lM. (1) Where a body corporate commits an body offence under this Act or any regulations made corporate. under this Act, any person who, at the time of the commission of such offence, was a director, manager, secretary or other similar officer of such body corporate or was purporting to act in any such capacity, or was in any manner or to any extent responsible for the management of any of the affairs of such body corporate, or was assisting in such management—
+<!-- marginal: Offences by -->
+
+2lM. (1) Where a body corporate commits an
+
+<!-- marginal: body -->
+
+offence under this Act or any regulations made
+
+<!-- marginal: corporate. -->
+
+under this Act, any person who, at the time of the commission of such offence, was a director, manager, secretary or other similar officer of such body corporate or was purporting to act in any such capacity, or was in any manner or to any extent responsible for the management of any of the affairs of such body corporate, or was assisting in such management—
 
 (a) may be charged severally or jointly in the same proceedings with the body corporate; and
 
@@ -522,21 +726,45 @@ Offences by 2lM. (1) Where a body corporate commits an body offence under this A
 
 (c) by the employee of such agent in the course of his employment by such agent or otherwise on behalf of the agent.
 
-Protection 2 lN. No action, suit, prosecution or other against proceedings shall be brought, instituted or legal proceedings. maintained in any court against any authorized officer on account of or in respect of any act done or omitted to be done for the purpose of carrying into effect this Act unless it can be proven that the act was done or omitted to be done in bad faith and not in a reasonable belief that it was necessary for the purpose intended to be served thereby.
+<!-- marginal: Protection -->
 
-Indemnity. 21O. (1) The Government shall not be liable to make good any damage which a radio broadcast receiver or television broadcast receiver or any other equipment or apparatus may sustain as a result of an entry, search or seizure under this Act, unless such damage was caused by the wilful neglect or default of a public officer.
+2 lN. No action, suit, prosecution or other
+
+<!-- marginal: against -->
+
+proceedings shall be brought, instituted or
+
+<!-- marginal: legal -->
+
+<!-- marginal: proceedings. -->
+
+maintained in any court against any authorized officer on account of or in respect of any act done or omitted to be done for the purpose of carrying into effect this Act unless it can be proven that the act was done or omitted to be done in bad faith and not in a reasonable belief that it was necessary for the purpose intended to be served thereby.
+
+<!-- marginal: Indemnity. -->
+
+21O. (1) The Government shall not be liable to make good any damage which a radio broadcast receiver or television broadcast receiver or any other equipment or apparatus may sustain as a result of an entry, search or seizure under this Act, unless such damage was caused by the wilful neglect or default of a public officer.
 
 <!-- page 20 -->
 
 (2) In the event of any dispute as to the amount of compensation in respect of any damage so caused, such amount shall be summarily ascertained and determined by a Magistrate's court.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-22. Subsection 22(1) of the principal Act is amended of section by substituting for the words "authroized" and "licesed" 22 the words "authorized" and "licensed", respectively.
+22. Subsection 22(1) of the principal Act is amended
 
-Amendment
+<!-- marginal: of section -->
 
-23. Section 23 of the principal Act is amended— of section 23.
+by substituting for the words "authroized" and "licesed"
+
+<!-- marginal: 22 -->
+
+the words "authorized" and "licensed", respectively.
+
+<!-- marginal: Amendment -->
+
+23. Section 23 of the principal Act is amended—
+
+<!-- marginal: of section 23. -->
 
 (a) in the national language text, in paragraph (a)—
 
@@ -652,7 +880,9 @@ This Bill seeks to amend the Broadcasting Act 1988 ("the Act").
 
 <!-- page 24 -->
 
-24 Bill
+<!-- marginal: 24 -->
+
+Bill
 
 19. Other amendments not specifically referred to are minor or consequential in nature.
 

@@ -34,31 +34,49 @@ the "principal Act", is amended—
 
 <!-- page 2 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-3. The principal Act is amended by substituting for the of long title. long title the following long title:
+3. The principal Act is amended by substituting for the
+
+<!-- marginal: of long title. -->
+
+long title the following long title:
 
 "An Act to provide for the establishment of a fund to be known as the Tabung Angkatan Tentera for the primary purposes of providing superannuation and other benefits for contributors, and for the ancillary purposes of promoting the socio-economic development and welfare of, and providing other benefits for, retiring and retired personnel of the regular forces of Malaysia.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. The short title of the principal Act is amended by of short title. deleting the words "and Tabung Bekas Perajurit".
+4. The short title of the principal Act is amended by
 
-Amendment
+<!-- marginal: of short title. -->
 
-5. Section 2 of the principal Act is amended by inserting of section 2. after the definition of "serviceman" the following definition:
+deleting the words "and Tabung Bekas Perajurit".
+
+<!-- marginal: Amendment -->
+
+5. Section 2 of the principal Act is amended by inserting
+
+<!-- marginal: of section 2. -->
+
+after the definition of "serviceman" the following definition:
 
 ' "Tabung" means the Tabung Angkatan Tentera established under section 3;'.
 
-Amendment
+<!-- marginal: Amendment -->
 
-6. The heading to Part II is amended by deleting the of heading to words "AND TABUNG BEKAS PERAJURIT".
+6. The heading to Part II is amended by deleting the
+
+<!-- marginal: of heading to -->
+
+words "AND TABUNG BEKAS PERAJURIT".
 
 ## Part II
 
-Amendment
+<!-- marginal: Amendment -->
 
-7. Section 3 of the principal Act is amended— of section 3.
+7. Section 3 of the principal Act is amended—
+
+<!-- marginal: of section 3. -->
 
 (a) by substituting for subsection (1) the following subsections:
 

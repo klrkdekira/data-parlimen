@@ -106,7 +106,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (3) Where the result of the secret ballot shows a tie, a further secret ballot shall be carried out by the Director General until the highest number of votes indicating the preference for a trade union of workmen to have the sole bargaining rights to represent such workmen or class of workmen is ascertained.
 
-(4) Upon ascertaining the matter under subsection (1), (2) or (3), the Director General shall decide that the trade union of workmen which obtained the highest number of votes shall have the sole bargaining rights to represent such workmen or class of workmen.
+(4) Upon ascertaining the matter under subsection (1),
+
+(2) or (3), the Director General shall decide that the trade union of workmen which obtained the highest number of votes shall have the sole bargaining rights to represent such workmen or class of workmen.
 
 (5) For the purposes of carrying out his functions under subsection (1), (2) or (3), the Director General—
 
@@ -420,7 +422,7 @@ Provided that the Court, on an application made by the aggrieved party within th
 
 34. The principal Act is amended by substituting for the First Schedule the following schedule:
 
-“First schedule
+## “FIRST SCHEDULE
 
 ## ESSENTIAL SERVICES
 

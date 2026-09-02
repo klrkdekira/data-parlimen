@@ -8,7 +8,7 @@
 
 ## SUSUNAN FASAL
 
-## BAhAgiAN I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -20,9 +20,9 @@
 
 4. Tafsiran
 
-## BAhAgiAN II
+## BAHAGIAN II
 
-KEKEBALAN BiDANg KUASA NEgARA ASiNg
+## KEKEBALAN BIDANG KUASA NEGARA ASING
 
 ## Bab I
 
@@ -62,7 +62,7 @@ Had kekebalan daripada bidang kuasa
 
 16. Had kekebalan jika ada perjanjian mengenai timbang tara
 
-## BAhAgiAN III
+## BAHAGIAN III
 
 ## KEKEBALAN DARIPADA TINDAKAN ATAU PENGHAKIMAN TERHADAP
 
@@ -74,7 +74,7 @@ Had kekebalan daripada bidang kuasa
 
 19. Kesan persetujuan kepada bidang kuasa bagi tindakan praperbicaraan atau penguatkuasaan penghakiman dan perintah terhadap harta Negara asing
 
-## BAhAgiAN IV
+## BAHAGIAN IV
 
 ## MAJLIS KEKEBALAN NEGARA ASING
 
@@ -100,13 +100,13 @@ Had kekebalan daripada bidang kuasa
 
 29. Setiausaha Majlis
 
-## BAhAgiAN V
+## BAHAGIAN V
 
 ## LAYANAN SALINGAN
 
 30. Penarikan balik kekebalan Negara asing apabila tiada layanan salingan
 
-## BAhAgiAN VI
+## BAHAGIAN VI
 
 AM
 
@@ -124,7 +124,7 @@ Suatu Akta untuk mengadakan peruntukan bagi kekebalan Negara asing dan hartanya,
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## BAhAgiAN I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -178,7 +178,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (c) apa-apa kontrak atau transaksi yang bersifat komersial, perindustrian, perdagangan atau profesional yang lain, tetapi tidak termasuk suatu kontrak kerja.
 
-## BAhAgiAN II
+## BAHAGIAN II
 
 ## KEKEBALAN BIDANG KUASA NEGARA ASING
 
@@ -396,7 +396,7 @@ jika pada masa kausa tindakan berbangkit, kapal itu digunakan selain bagi maksud
 
 (c) pengesahan atau mengetepikan award.
 
-## BAhAgiAN III
+## BAHAGIAN III
 
 ## KEKEBALAN DARIPADA TINDAKAN ATAU PENGHAKIMAN
 
@@ -458,7 +458,7 @@ jika pada masa kausa tindakan berbangkit, kapal itu digunakan selain bagi maksud
 
 19. Persetujuan terhadap penjalanan bidang kuasa di bawah perenggan 7(1)(a) tidak boleh disifatkan sebagai persetujuan kepada pengambilan tindakan atau penguatkuasaan penghakiman dan perintah masing-masing di bawah seksyen 17 dan 18.
 
-## BAhAgiAN IV
+## BAHAGIAN IV
 
 ## MAJLIS KEKEBALAN NEGARA ASING
 
@@ -580,7 +580,7 @@ jika pada masa kausa tindakan berbangkit, kapal itu digunakan selain bagi maksud
 
 (3) Setiausaha hendaklah, dalam menjalankan tanggungjawabnya, bertindak di bawah arahan Majlis.
 
-## BAhAgiAN V
+## BAHAGIAN V
 
 ## LAYANAN SALINGAN
 
@@ -592,7 +592,7 @@ jika pada masa kausa tindakan berbangkit, kapal itu digunakan selain bagi maksud
 
 <!-- page 22 -->
 
-## BAhAgiAN VI
+## BAHAGIAN VI
 
 AM
 
@@ -620,7 +620,7 @@ AM
 
 Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengawal selia kekebalan yang diberikan kepada sesuatu Negara asing dan hartanya, seseorang ketua Negara dan seseorang ketua Kerajaan sesuatu Negara asing daripada bidang kuasa mahkamah Malaysia. Kekebalan yang diberikan adalah tertakluk kepada had tertentu sebagaimana yang diperuntukkan dalam Akta yang dicadangkan. Akta yang dicadangkan ini juga memperuntukkan bahawa kekebalan sesuatu Negara asing itu akan ditarik balik apabila tiada layanan salingan diterima oleh Malaysia.
 
-## BAhAgiAN I
+## BAHAGIAN I
 
 2. Bahagian I Akta yang dicadangkan memperkatakan tentang perkara permulaan.
 
@@ -632,7 +632,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengawal se
 
 6. Fasal 4 mengandungi takrif perkataan dan ungkapan tertentu yang digunakan dalam Akta yang dicadangkan.
 
-## BAhAgiAN II
+## BAHAGIAN II
 
 7. Bahagian II Akta yang dicadangkan memperkatakan tentang peruntukan yang berhubungan dengan kekebalan sesuatu Negara asing dan hartanya, seseorang ketua Negara dan seseorang ketua Kerajaan, penepian kekebalan dan had kekebalan.
 
@@ -670,7 +670,7 @@ Subfasal 7(3) bertujuan untuk memperuntukkan bahawa mana-mana peruntukan dalam p
 
 19. Fasal 16 bertujuan untuk memperuntukkan bahawa jika wujud suatu perjanjian antara sesuatu Negara asing, seseorang ketua Negara atau seseorang ketua Kerajaan dengan mana-mana orang untuk mengemukakan kepada timbang tara di Malaysia apa-apa pertikaian yang berhubungan dengan transaksi komersial, Negara asing, ketua Negara atau ketua Kerajaan itu tidak kebal daripada bidang kuasa mahkamah dalam mana-mana prosiding yang berhubungan dengan kesahan, tafsiran atau pemakaian perjanjian timbang tara, tatacara timbang tara, atau pengesahan atau pengetepian award.
 
-## BAhAgiAN III
+## BAHAGIAN III
 
 20. Bahagian III Akta yang dicadangkan memperkatakan tentang peruntukan yang berhubungan dengan kekebalan daripada tindakan atau penghakiman terhadap harta sesuatu Negara asing.
 
@@ -682,7 +682,7 @@ Subfasal 7(3) bertujuan untuk memperuntukkan bahawa mana-mana peruntukan dalam p
 
 23. Fasal 19 bertujuan untuk memperuntukkan bahawa persetujuan kepada penjalanan bidang kuasa di bawah perenggan 7(1)(a) tidak boleh disifatkan sebagai persetujuan kepada pengambilan tindakan atau penguatkuasaan penghakiman dan perintah masing-masing di bawah seksyen 17 dan 18.
 
-## BAhAgiAN IV
+## BAHAGIAN IV
 
 24. Bahagian IV Akta yang dicadangkan memperkatakan tentang penubuhan Majlis Kekebalan Negara Asing dan fungsi dan kuasanya.
 
@@ -704,13 +704,13 @@ Subfasal 7(3) bertujuan untuk memperuntukkan bahawa mana-mana peruntukan dalam p
 
 <!-- page 27 -->
 
-## BAhAgiAN V
+## BAHAGIAN V
 
 33. Bahagian V Akta yang dicadangkan memperkatakan tentang peruntukan yang berhubungan dengan layanan salingan.
 
 34. Fasal 30 bertujuan untuk memperuntukkan bahawa Perdana Menteri boleh menarik balik semua atau mana-mana kekebalan di bawah Akta yang dicadangkan ini terhadap mana-mana Negara asing jika Perdana Menteri berpuas hati bahawa Malaysia tidak menerima apa-apa kekebalan yang bersamaan dengan yang diberikan oleh Malaysia di bawah Akta yang dicadangkan ini.
 
-## BAhAgiAN VI
+## BAHAGIAN VI
 
 35. Bahagian V Akta yang dicadangkan mengandungi peruntukan am.
 

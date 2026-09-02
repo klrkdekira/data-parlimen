@@ -8,17 +8,23 @@ Naskhah Sahih—Bahasa Inggeris
 
 b ernama
 
-Suatu Akta untuk meminda Akta Penggalakan Pelaburan
-
-1986. [ ]
+Suatu Akta untuk meminda Akta Penggalakan Pelaburan 1986. [ ]
 
 ## MAKA INILAH DIPERBUAT UNDANG-UNDANG
 
 oleh Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan Dewan Negara dan Dewan Rakyat yang bersidang dalam Parlimen, dan dengan kuasa daripadanya, seperti berikut:
 
-Tajuk ringkas
+<!-- marginal: Tajuk ringkas -->
 
-1. (1) Akta ini bolehlah dinamakan Akta Penggalakan dan mula ber- Pelaburan (Pindaan) 1993 dan hendaklah disifatkan telah kuatkuasa. mula berkuatkuasa pada Ihb November 1991 dan hendaklah berkuatkuasa bagi tahun taksiran 1992 dan tahun-tahun taksiran yang kemudiannya.
+1. (1) Akta ini bolehlah dinamakan Akta Penggalakan
+
+<!-- marginal: dan mula ber- -->
+
+Pelaburan (Pindaan) 1993 dan hendaklah disifatkan telah
+
+<!-- marginal: kuatkuasa. -->
+
+mula berkuatkuasa pada Ihb November 1991 dan hendaklah berkuatkuasa bagi tahun taksiran 1992 dan tahun-tahun taksiran yang kemudiannya.
 
 (2) Walau apa pun subseksyen (1)—
 
@@ -34,9 +40,17 @@ Tajuk ringkas
 
 (e) seksyen 19, 20 dan 22 hendaklah disifatkan telah mula berkuatkuasa pada 1hb Januari 1992.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-2. Subseksyen 2(1) Akta Penggalakan Pelaburan 1986, seksyen 2. yang disebut "Akta ibu" dalam Akta ini, adalah Akta 327 dipinda—
+2. Subseksyen 2(1) Akta Penggalakan Pelaburan 1986,
+
+<!-- marginal: seksyen 2. -->
+
+yang disebut "Akta ibu" dalam Akta ini, adalah
+
+<!-- marginal: Akta 327 -->
+
+dipinda—
 
 (a) dengan memasukkan, selepas perkataan "seksyen 4" dalam takrif "aktiviti digalakkan", perkataan "dan termasuk aktiviti yang disebut dalam seksyen 4A";
 
@@ -46,9 +60,11 @@ Pindaan
 
 (d) dengan memotong takrif "program kerajaan terdaftar".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Seksyen 4 Akta ibu adalah dipinda— seksyen 4.
+3. Seksyen 4 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 4. -->
 
 (a) dengan memasukkan, selepas koma bernoktah dalam perenggan (3)(a), perkataan "atau";
 
@@ -66,7 +82,17 @@ Pindaan
 
 seksyen 4, seksyen baru 4A yang berikut:
 
-"Aktiviti 4A. Walau apa pun seksyen 4, Menteri, dengan iSuaran persetujuan bertulis Menteri Kewangan, boleh yang di- berdasarkan kes ke kes menyifatkan apa-apa aktwitf aktiviti atau keluaran yang mempunyai penting digaiakkan dari segi nasional dan strategi bagi Malaysia kduaran sebagai suatu aktiviti digaiakkan atau keluaran digalakkan. digaiakkan,".
+<!-- marginal: "Aktiviti -->
+
+4A. Walau apa pun seksyen 4, Menteri, dengan iSuaran persetujuan bertulis Menteri Kewangan, boleh yang di- berdasarkan kes ke kes menyifatkan apa-apa
+
+<!-- marginal: aktwitf -->
+
+aktiviti atau keluaran yang mempunyai penting digaiakkan dari segi nasional dan strategi bagi Malaysia
+
+<!-- marginal: kduaran -->
+
+sebagai suatu aktiviti digaiakkan atau keluaran digalakkan. digaiakkan,".
 
 <!-- marginal: Pindaan -->
 
@@ -94,37 +120,67 @@ seksyen 4, seksyen baru 4A yang berikut:
 
 (c) dengan memasukkan, selepas subseksyen (!A), subseksyen baru (1AB) yang berikut:
 
-"(1AB) Apabila diterima sesuatu per- mohonan di bawah seksyen 5(1 A) Menteri boleh, tertakluk kepada subseksyen (2) hingga
+"(1AB) Apabila diterima sesuatu per- mohonan di bawah seksyen 5(1 A) Menteri boleh, tertakluk kepada subseksyen (2) hingga (6), memberikan taraf perintis jika dia berpuas hati bahawa aktiviti atau keluaran itu layak disifatkan sebagai aktiviti digalakkan atau keluaran digalakkan di bawah seksyen 4A."; dan
 
-(6), memberikan taraf perintis jika dia berpuas hati bahawa aktiviti atau keluaran itu layak disifatkan sebagai aktiviti digalakkan atau keluaran digalakkan di bawah seksyen 4A."; dan
+(d) dengan menggantikan perkataan "keputusan untuk memberikan taraf perintis di bawah subseksyen (1A)" dalam perenggan
 
-(d) dengan menggantikan perkataan "keputusan untuk memberikan taraf perintis di bawah subseksyen (1A)" dalam perenggan (3)(a) dengan perkataan "pemberian taraf perintis di bawah subseksyen (1A) atau (1AB)".
+<!-- marginal: (3)(a) -->
 
-Pindaan
+dengan perkataan "pemberian taraf perintis di bawah subseksyen (1A) atau (1AB)".
 
-7. Subseksyen 14A(1) Akta ibu adalah dipinda— seksyen 14A.
+<!-- marginal: Pindaan -->
+
+7. Subseksyen 14A(1) Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 14A. -->
 
 (a) dengan menggantikan perkataan "Menteri boleh" dengan perkataan "Tertakluk kepada seksyen HB, Menteri boleh"; dan
 
 (b) dengan memasukkan, selepas perkataan "pengilangan" dalam baris 5, perkataan "atau suatu aktiviti yang berhubungan dengan pemerosesan air".
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
-8. Akta ibu adalah dipinda dengan memasukkan, 14B dan 14c. selepas seksyen 14A, seksyen baru 14B dan 14c yang berikut:
+8. Akta ibu adalah dipinda dengan memasukkan,
 
-* Tiada per-
+<!-- marginal: 14B dan 14c. -->
 
-14B. Seksyen 14A tidaklah terpakai bagi suatu lanjutan syarikat perintis yang permohonan bagi taraf tempoh pelepasan perintis diterima pada atau selepas Ihb cukai untuk per- November 1991. mohonan bagi taraf perintis yang di- terima pada atau selepas 1hb November 1991,
+selepas seksyen 14A, seksyen baru 14B dan 14c yang berikut:
+
+* Tiada per- 14B. Seksyen 14A tidaklah terpakai bagi suatu lanjutan syarikat perintis yang permohonan bagi taraf tempoh pelepasan perintis diterima pada atau selepas Ihb cukai untuk per- November 1991. mohonan bagi taraf perintis yang di- terima pada atau selepas 1hb November 1991,
 
 <!-- page 5 -->
 
-Perlanjutan 14c. (1) Walau apa pun seksyen 14B, suatu tempoh syarikat yang telah diberikan taraf perintis di pelepasan cukai bagi bawah seksyen 6 (1AB) boleh memohon secara laraf penn- bertulis bagi suatu perlanjutan
+<!-- marginal: Perlanjutan -->
+
+14c. (1) Walau apa pun seksyen 14B, suatu
 
 <!-- marginal: tempoh -->
 
-tis yang diberikan pelepasan cukai yang telah diberikan di bawah di bawah seksyen 14.
+syarikat yang telah diberikan taraf perintis di
 
-### 6(lAB).
+<!-- marginal: pelepasan -->
+
+<!-- marginal: cukai bagi -->
+
+bawah seksyen 6 (1AB) boleh memohon secara
+
+<!-- marginal: laraf penn- -->
+
+bertulis bagi suatu perlanjutan tempoh
+
+<!-- marginal: tis yang -->
+
+<!-- marginal: diberikan -->
+
+pelepasan cukai yang telah diberikan di bawah
+
+<!-- marginal: di bawah -->
+
+<!-- marginal: seksyen -->
+
+seksyen 14.
+
+<!-- marginal: 6(lAB). -->
 
 (2) Menteri dengan persetujuan bertulis Menteri Kewangan boleh melanjutkan tempoh pelepasan cukai yang diberikan di bawah seksyen 14.
 
@@ -148,23 +204,67 @@ tis yang diberikan pelepasan cukai yang telah diberikan di bawah di bawah seksye
 
 <!-- page 6 -->
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
-10. Akta ibu adalah dipinda dengan memasukkan, 21B dan 2lc. selepas seksyen 21 A, seksyen baru 2lB dan 21c yang berikut:
+10. Akta ibu adalah dipinda dengan memasukkan,
 
-"Peng- 21B. (1) Seksyen ini hendaklah terpakai bagi hitungan suatu syarikat yang telah diberikan taraf pendapatan semasa perintis menurut suatu permohonan bagi taraf tempoh pelepasan perintis yang diterima pada atau selepas 1hb cukai ber- November 1991 selain daripada suatu syarikat kenaan dengan yang telah diberikan taraf perintis di bawah permohonan seksyen 6(lAB). yang di- terima pada atau selepas Ihb (2) Tertakluk kepada apa-apa syarat yang November
+<!-- marginal: 21B dan 2lc. -->
 
-1991. dinyatakan dalam perakuan perintis suatu syarikat yang dikeluarkan di bawah seksyen 7, pendapatan sesuatu syarikat perintis bagi setiap tempoh perakaunan perniagaan perintisnya hendaklah dihitung mengikut Akta
+selepas seksyen 21 A, seksyen baru 2lB dan 21c yang
 
-<!-- marginal: ibu -->
+<!-- marginal: berikut: -->
 
-dengan—
+<!-- marginal: "Peng- -->
+
+21B. (1) Seksyen ini hendaklah terpakai bagi
+
+<!-- marginal: hitungan -->
+
+suatu syarikat yang telah diberikan taraf
+
+<!-- marginal: pendapatan -->
+
+<!-- marginal: semasa -->
+
+perintis menurut suatu permohonan bagi taraf
+
+<!-- marginal: tempoh -->
+
+<!-- marginal: pelepasan -->
+
+perintis yang diterima pada atau selepas 1hb
+
+<!-- marginal: cukai ber- -->
+
+November 1991 selain daripada suatu syarikat
+
+<!-- marginal: kenaan -->
+
+<!-- marginal: dengan -->
+
+yang telah diberikan taraf perintis di bawah permohonan seksyen 6(lAB).
+
+<!-- marginal: yang di- -->
+
+<!-- marginal: terima -->
+
+<!-- marginal: pada atau -->
+
+<!-- marginal: selepas Ihb -->
+
+(2) Tertakluk kepada apa-apa syarat yang
+
+<!-- marginal: November -->
+
+1991. dinyatakan dalam perakuan perintis suatu syarikat yang dikeluarkan di bawah seksyen 7, pendapatan sesuatu syarikat perintis bagi setiap tempoh perakaunan perniagaan perintisnya hendaklah dihitung mengikut Akta ibu dengan—
 
 (a) menyifatkan setiap tempoh perakaunan itu sebagai tempoh asas bagi tahun taksiran yang termasuklah hari terakhir bagi tempoh perakaunan yang ber- kenaan itu; dan
 
 (b) menentukan pendapatan yang berkenaan seolah-olah ia adalah pendapatan statutori daripada perniagaan perintis bagi tahun taksiran itu.
 
-(3) Tujuh puluh peratus daripada amaun pendapatan yang didapati di bawah subseksyen (2) hendaklah tertakluk kepada—
+(3) Tujuh puluh peratus daripada amaun pendapatan yang didapati di bawah subseksyen
+
+(2) hendaklah tertakluk kepada—
 
 (a) apa-apa sekatan di bawah seksyen 2lA; dan
 
@@ -178,7 +278,57 @@ dengan—
 
 (6) Bagi maksud-maksud seksyen 97 dan 99 Akta ibu, suatu penyata yang disampaikan di bawah subseksyen (5) hendaklah disifatkan sebagai suatu notis taksiran yang disampaikan di bawah Akta ibu (yang bukannya notis berhubungan dengan taksiran yang dibuat di bawah seksyen 92 Akta ibu).
 
-Peng- 21c. (1) Seksyen ini hendaklah terpakai bagi hitungan syarikat yang telah diberikan taraf perintis di pendapatan semasa bawah seksyen 6(lAB). lempoh pelepasan cukai (2) Tertakluk kepada apa-apa syarat yang berkenaan dinyatakan dalam perakuan perintis suatu dengan taraf syarikat yang dikeluarkan di bawah seksyen 7, perintis pendapatan sesuatu syarikat perintis bagi setiap yang diberikan tempoh perakaunan perniagaan perintisnya di bawah hendaklah dihitung mengikut Akta ibu 6(1AB). dengan—
+<!-- marginal: Peng- -->
+
+21c. (1) Seksyen ini hendaklah terpakai bagi
+
+<!-- marginal: hitungan -->
+
+syarikat yang telah diberikan taraf perintis di
+
+<!-- marginal: pendapatan -->
+
+<!-- marginal: semasa -->
+
+bawah seksyen 6(lAB).
+
+<!-- marginal: lempoh -->
+
+<!-- marginal: pelepasan -->
+
+<!-- marginal: cukai -->
+
+(2) Tertakluk kepada apa-apa syarat yang
+
+<!-- marginal: berkenaan -->
+
+dinyatakan dalam perakuan perintis suatu
+
+<!-- marginal: dengan -->
+
+<!-- marginal: taraf -->
+
+syarikat yang dikeluarkan di bawah seksyen 7,
+
+<!-- marginal: perintis -->
+
+pendapatan sesuatu syarikat perintis bagi setiap
+
+<!-- marginal: yang -->
+
+<!-- marginal: diberikan -->
+
+tempoh perakaunan perniagaan perintisnya
+
+<!-- marginal: di bawah -->
+
+hendaklah dihitung mengikut Akta ibu
+
+<!-- marginal: seksyen -->
+
+<!-- marginal: 6(1AB). -->
+
+dengan—
 
 (a) menyifatkan setiap tempoh perakaunan itu sebagai tempoh asas bagi tahun taksiran yang termasuklah hari terakhir bagi tempoh perakaunan yang ber- kenaan itu; dan
 
@@ -196,13 +346,21 @@ Peng- 21c. (1) Seksyen ini hendaklah terpakai bagi hitungan syarikat yang telah 
 
 (5) Bagi maksud-maksud seksyen 97 dan 99 Akta ibu, suatu penyata yang disampaikan di bawah subseksyen (4) hendaklah disifatkan sebagai suatu notis taksiran yang disampaikan di bawah Akta ibu (yang bukannya notis berhubungan dengan taksiran yang dibuat di bawah seksyen 92 Akta ibu).".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-11. Seksyen 22 Akta ibu adalah dipinda dengan seksyen 22. memasukkan, selepas perkataan "seksyen 21" dalam subseksyen (1) dan (2) masing-masingnya, perkataan ", 2lB atau 21c".
+11. Seksyen 22 Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 22. -->
 
-12. Seksyen 25 Akta ibu adalah dipinda dengan seksyen 25. memasukkan, selepas perkataan "seksyen 21(1)" dalam subseksyen (1) dan perenggan (2)(b) masing-masingnya, perkataan ", 21u(2) atau 21c(2)".
+memasukkan, selepas perkataan "seksyen 21" dalam subseksyen (1) dan (2) masing-masingnya, perkataan ", 2lB atau 21c".
+
+<!-- marginal: Pindaan -->
+
+12. Seksyen 25 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 25. -->
+
+memasukkan, selepas perkataan "seksyen 21(1)" dalam subseksyen (1) dan perenggan (2)(b) masing-masingnya, perkataan ", 21u(2) atau 21c(2)".
 
 <!-- page 9 -->
 
@@ -212,7 +370,77 @@ Pindaan
 
 <!-- marginal: 26A. -->
 
-selepas seksyen 26, seksyen baru 26A yang berikut: "Per- 26A. (1) Mana-mana syarikat yang bercadang mohonan untuk men- hendak menubuhkan atau menyertai dalam dapat kelu- sesuatu aktiviti atau hendak menyertai dalam lusan bagi elaun cukai mengeluarkan suatu keluaran di Malaysia yang pelaburan disifatkan di bawah seksyen 4A sebagai aktiviti berkenaan dengan digalakkan atau keluaran digalakkan boleh suatu membuat permohonan bertulis kepada Menteri aktiviti atau suatu untuk kelulusan bagi maksud-maksud suatu keluaran elaun cukai pelaburan. yang di- sifaikan di bawah sek- (2) Suatu permohonan yang dibuat di bawah syen 4A sebagai subseksyen (1) hendaklah mengikut apa-apa aktiviti di- peraturan yang dibuat di bawah Akta ini.". galakkan atau keluaran digalakkan.
+selepas seksyen 26, seksyen baru 26A yang berikut:
+
+<!-- marginal: "Per- -->
+
+26A. (1) Mana-mana syarikat yang bercadang
+
+<!-- marginal: mohonan -->
+
+<!-- marginal: untuk men- -->
+
+hendak menubuhkan atau menyertai dalam
+
+<!-- marginal: dapat kelu- -->
+
+sesuatu aktiviti atau hendak menyertai dalam
+
+<!-- marginal: lusan bagi -->
+
+<!-- marginal: elaun cukai -->
+
+mengeluarkan suatu keluaran di Malaysia yang
+
+<!-- marginal: pelaburan -->
+
+disifatkan di bawah seksyen 4A sebagai aktiviti
+
+<!-- marginal: berkenaan -->
+
+<!-- marginal: dengan -->
+
+digalakkan atau keluaran digalakkan boleh
+
+<!-- marginal: suatu -->
+
+membuat permohonan bertulis kepada Menteri
+
+<!-- marginal: aktiviti -->
+
+<!-- marginal: atau suatu -->
+
+untuk kelulusan bagi maksud-maksud suatu
+
+<!-- marginal: keluaran -->
+
+elaun cukai pelaburan.
+
+<!-- marginal: yang di- -->
+
+<!-- marginal: sifaikan di -->
+
+<!-- marginal: bawah sek- -->
+
+(2) Suatu permohonan yang dibuat di bawah
+
+<!-- marginal: syen 4A -->
+
+<!-- marginal: sebagai -->
+
+subseksyen (1) hendaklah mengikut apa-apa
+
+<!-- marginal: aktiviti di- -->
+
+peraturan yang dibuat di bawah Akta ini.".
+
+<!-- marginal: galakkan -->
+
+<!-- marginal: atau -->
+
+<!-- marginal: keluaran -->
+
+<!-- marginal: digalakkan. -->
 
 <!-- marginal: Pindaan -->
 
@@ -230,7 +458,41 @@ Akta ibu adalah dipinda dengan menggantikan perkataan "lima tahun" dengan perkat
 
 selepas seksyen 27, seksyen baru 27A yang berikut:
 
-Pemberian 27A. (1) Menteri boleh memberi kelulusan kelulusan berkenaan dengan permohonan bagi elaun permohonan bagi elaun cukai pelaburan yang dibuat di bawah seksyen cukai 26A(1) tertakluk kepada apa-apa terma dan pelaburan yang syarat sebagaimana yang difikirkannya patut: dibuat di bawah Dengan syarat bahawa — 26M1). (i) jika Menteri berpuas hati bahawa syarikat itu telah melibatkan diri dalam suatu aktiviti atau dalam mengeluarkan suatu keluaran, atau telah selainnya melakukan per- belanjaan modal berhubungan dengannya, dari suatu tarikh sebelum tarikh yang aktiviti atau keluaran itu telah disifatkan sebagai suatu aktiviti digalakkan atau keluaran digalak- kan, mengikut mana-mana yang
+<!-- marginal: Pemberian -->
+
+27A. (1) Menteri boleh memberi kelulusan
+
+<!-- marginal: kelulusan -->
+
+berkenaan dengan permohonan bagi elaun
+
+<!-- marginal: permohonan -->
+
+<!-- marginal: bagi elaun -->
+
+cukai pelaburan yang dibuat di bawah seksyen
+
+<!-- marginal: cukai -->
+
+26A(1) tertakluk kepada apa-apa terma dan
+
+<!-- marginal: pelaburan -->
+
+<!-- marginal: yang -->
+
+syarat sebagaimana yang difikirkannya patut:
+
+<!-- marginal: dibuat di -->
+
+<!-- marginal: bawah -->
+
+Dengan syarat bahawa —
+
+<!-- marginal: seksyen -->
+
+<!-- marginal: 26M1). -->
+
+(i) jika Menteri berpuas hati bahawa syarikat itu telah melibatkan diri dalam suatu aktiviti atau dalam mengeluarkan suatu keluaran, atau telah selainnya melakukan per- belanjaan modal berhubungan dengannya, dari suatu tarikh sebelum tarikh yang aktiviti atau keluaran itu telah disifatkan sebagai suatu aktiviti digalakkan atau keluaran digalak- kan, mengikut mana-mana yang
 
 <!-- page 10 -->
 
@@ -242,21 +504,15 @@ berkenaan, di bawah seksyen 4A, maka kelulusan itu boleh diberikan dengan kuatku
 
 (3) Pada menjalankan kuasanya di bawah subseksyen (1) dan (2), Menteri hendaklah bertindak dengan persetujuan bertulis Menteri Kewangan.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-16. Seksyen 28 Akta ibu adalah dipinda— seksyen 28
+16. Seksyen 28 Akta ibu adalah dipinda—
 
-(a) dalam subseksyen (1)—
+<!-- marginal: seksyen 28 -->
 
-(i) dengan memasukkan, selepas nombor "27", perkataan "atau 27A";
+(a) dalam subseksyen (1)— (i) dengan memasukkan, selepas nombor "27", perkataan "atau 27A"; (ii) dengan memasukkan, selepas nombor "27(2)", nombor ", 2?A(1), 27A(2)"; dan
 
-(ii) dengan memasukkan, selepas nombor "27(2)", nombor ", 2?A(1), 27A(2)"; dan
-
-(b) dalam subseksyen (2)—
-
-(i) dengan memasukkan, selepas nombor "27(1)", perkataan "atau 27A(1)"; dan
-
-(ii) dengan memasukkan, selepas nombor "27(2)" dalam perenggan (b), nombor ", 27A(1), 27A(2)".
+(b) dalam subseksyen (2)— (i) dengan memasukkan, selepas nombor "27(1)", perkataan "atau 27A(1)"; dan (ii) dengan memasukkan, selepas nombor "27(2)" dalam perenggan (b), nombor ", 27A(1), 27A(2)".
 
 <!-- page 11 -->
 
@@ -284,7 +540,49 @@ Pindaan
 
 <!-- marginal: 29A dan 29B. -->
 
-selepas seksyen 29, seksyen baru 29A dan 29B yang berikut: Elaun 29A. (1) Seksyen ini hendaklah terpakai bagi cukai syarikat yang telah diberikan kelulusan bagi pelaburan berkenaan maksud-maksud elaun cukai pelaburan menurut dengan suatu permohonan yang diterima pada atau permohonan selepas 1hb November 1991 selain daripada yang di- terima syarikat yang telah diberikan kelulusan bagi pada atau maksud-maksud elaun cukai pelaburan di seiepas 1hb bawah seksyen 27A. November
+selepas seksyen 29, seksyen baru 29A dan 29B yang
+
+<!-- marginal: berikut: -->
+
+<!-- marginal: Elaun -->
+
+29A. (1) Seksyen ini hendaklah terpakai bagi
+
+<!-- marginal: cukai -->
+
+syarikat yang telah diberikan kelulusan bagi
+
+<!-- marginal: pelaburan -->
+
+<!-- marginal: berkenaan -->
+
+maksud-maksud elaun cukai pelaburan menurut
+
+<!-- marginal: dengan -->
+
+suatu permohonan yang diterima pada atau
+
+<!-- marginal: permohonan -->
+
+selepas 1hb November 1991 selain daripada
+
+<!-- marginal: yang di- -->
+
+<!-- marginal: terima -->
+
+syarikat yang telah diberikan kelulusan bagi
+
+<!-- marginal: pada atau -->
+
+maksud-maksud elaun cukai pelaburan di
+
+<!-- marginal: seiepas -->
+
+<!-- marginal: 1hb -->
+
+bawah seksyen 27A.
+
+<!-- marginal: November -->
 
 1991. (2) Jika sesuatu syarikat yang telah di- berikan kelulusan di bawah seksyen 27 telah melakukan, dalam tempoh asas bagi tahun taksiran berkenaan dengan aktiviti digalakkan atau keluaran digalakkan, perbelanjaan modal bagi maksud-maksud aktiviti digalakkan atau
 
@@ -334,7 +632,43 @@ Dengan syarat bahawa elaun atau elaun-elaun yang berbangkit di bawah subseksyen 
 
 (8) Peruntukan-peruntukan subseksyen (7) dan (8) seksyen 29 berhubungan dengan perbelanjaan modal hendaklah terpakai, mutatis mutandis, bagi maksud-maksud seksyen ini.
 
-Elaun cukai 29B, (1) Jika sesuatu syarikat yang telah pelaburan diberikan kelulusan di bawah seksyen 27A telah bagi per- mohonan melakukan, dalam tempoh asas bagi tahun di bawah taksiran berkenaan dengan suatu aktiviti atau seksyen 26A yang telah mengeluarkan suatu keluaran yang disifatkan diberikan di bawah seksyen 4A sebagai aktiviti digalak- kelulusan di bawah kan atau keluaran digalakkan, perbelanjaan modal bagi maksud-maksud aktiviti itu atau pengeluaran keluaran itu, hendaklah diberikan kepada syarikat bagi tahun taksiran itu elaun cukai pelaburan sebanyak seratus peratus daripada perbelanjaan itu.
+<!-- marginal: Elaun cukai -->
+
+29B, (1) Jika sesuatu syarikat yang telah
+
+<!-- marginal: pelaburan -->
+
+diberikan kelulusan di bawah seksyen 27A telah
+
+<!-- marginal: bagi per- -->
+
+<!-- marginal: mohonan -->
+
+melakukan, dalam tempoh asas bagi tahun
+
+<!-- marginal: di bawah -->
+
+taksiran berkenaan dengan suatu aktiviti atau
+
+<!-- marginal: seksyen 26A -->
+
+<!-- marginal: yang telah -->
+
+mengeluarkan suatu keluaran yang disifatkan
+
+<!-- marginal: diberikan -->
+
+di bawah seksyen 4A sebagai aktiviti digalak-
+
+<!-- marginal: kelulusan -->
+
+<!-- marginal: di bawah -->
+
+kan atau keluaran digalakkan, perbelanjaan
+
+<!-- marginal: seksyen -->
+
+modal bagi maksud-maksud aktiviti itu atau pengeluaran keluaran itu, hendaklah diberikan kepada syarikat bagi tahun taksiran itu elaun cukai pelaburan sebanyak seratus peratus daripada perbelanjaan itu.
 
 (2) Elaun bagi perbelanjaan yang diberikan di bawah subseksyen (1)
 
@@ -342,11 +676,7 @@ Elaun cukai 29B, (1) Jika sesuatu syarikat yang telah pelaburan diberikan kelulu
 
 (b) hendaklah diberikan berkenaan dengan perbelanjaan yang dilakukan dalam tempoh lima tahun dari tarikh yang kelulusan itu akan mula berkuatkuasa:
 
-Dengan syarat bahawa— (i) jika - sesuatu syarikat melaku- kan perbelanjaan modal dari tarikh yang kelulusan
-
-<!-- marginal: itu -->
-
-akan mula berkuatkuasa
+Dengan syarat bahawa— (i) jika - sesuatu syarikat melaku- kan perbelanjaan modal dari tarikh yang kelulusan itu akan mula berkuatkuasa
 
 <!-- page 16 -->
 
@@ -366,25 +696,39 @@ berhubungan dengan suatu perniagaan yang hampir hendak dijalankannya ber- kenaan
 
 <!-- page 18 -->
 
-(7) Bagi maksud-maksud seksyen ini dan tertakluk kepada subseksyen (8) istilah "perbelanjaan modal" mempunyai erti yang diberikan kepadanya di bawah subseksyen (7) seksyen 29 dan hendaklah termasuk per- belanjaan modal yang dilakukan berkenaan dengan aset-aset yang ditentukan oleh Menteri dengan persetujuan bertulis Menteri Kewangan melalui perintah statutori yang disiarkan dalam Warta.
+(7) Bagi maksud-maksud seksyen ini dan tertakluk kepada subseksyen (8)
 
-(8) Walau apa pun subseksyen (7), "perbelanjaan modal" tidaklah termasuk perbelanjaan modal yang dilakukan mengenai bangunan-bangunan (yang digunakan sebagai tempat tinggal bagi orang), loji dan jentera jika bangunan, loji atau jentera itu diperuntukkan keseluruhannya atau sebahagiannya untuk kegunaan pengarah atau orang individu yang menjadi ahli pihak pengurusan, pentadbiran atau kakitangan pekeranian".
+<!-- marginal: istilah -->
 
-Pmdaan
+"perbelanjaan modal" mempunyai erti yang diberikan kepadanya di bawah subseksyen (7) seksyen 29 dan hendaklah termasuk per- belanjaan modal yang dilakukan berkenaan dengan aset-aset yang ditentukan oleh Menteri dengan persetujuan bertulis Menteri Kewangan melalui perintah statutori yang disiarkan dalam Warta.
 
-19. Seksyen 32 Akta ibu adalah dipinda dengan seksyen 32. menggantikan subseksyen (5) dengan yang berikut:
+(8) Walau apa pun subseksyen
+
+<!-- marginal: (7), -->
+
+"perbelanjaan modal" tidaklah termasuk perbelanjaan modal yang dilakukan mengenai bangunan-bangunan (yang digunakan sebagai tempat tinggal bagi orang), loji dan jentera jika bangunan, loji atau jentera itu diperuntukkan keseluruhannya atau sebahagiannya untuk kegunaan pengarah atau orang individu yang menjadi ahli pihak pengurusan, pentadbiran atau kakitangan pekeranian".
+
+<!-- marginal: Pmdaan -->
+
+19. Seksyen 32 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 32. -->
+
+menggantikan subseksyen (5) dengan yang berikut:
 
 "(5) Seksyen ini tidaklah terpakai—
 
 (a) bagi sesuatu syarikat yang tidak bermastautin di Malaysia bagi tahun asas bagi sesuatu tahun taksiran; atau
 
-(b) bagi sesuatu syarikat jika pendapatan syarikat itu diperolehi daripada operasi suatu kilang dalam kawasan industri digalakkan dan kilang tersebut telah memulakan operasinya pada atau selepas 1hb Januari
+(b) bagi sesuatu syarikat jika pendapatan syarikat itu diperolehi daripada operasi suatu kilang dalam kawasan industri digalakkan dan kilang tersebut telah memulakan operasinya pada atau selepas 1hb Januari 1992.".
 
-1992.".
+<!-- marginal: Pmdaan -->
 
-Pmdaan
+20. Seksyen 33 Akta ibu adalah dipinda dengan
 
-20. Seksyen 33 Akta ibu adalah dipinda dengan seksyen 33, memasukkan, selepas subseksyen (4), subseksyen baru
+<!-- marginal: seksyen 33, -->
+
+memasukkan, selepas subseksyen (4), subseksyen baru
 
 (5) yang berikut: "(5) Seksyen ini tidaklah terpakai bagi sesuatu syarikat kecil-kecilan yang memulakan perniagaan mengilang keluaran di Malaysia pada atau selepas Ihb Januari 1992.".
 
@@ -510,9 +854,13 @@ menggantikan perkataan "larasan" di mana-mana jua terdapat dalamnya dengan perka
 
 <!-- page 22 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-30. Seksyen 50B Akta ibu adalah dipinda dengan seksyen 50B memasukkan, selepas perkataan "pengurangan pendapatan larasan" dalam subseksyen (1), (2) dan (4) masing-masingnya, perkataan "atau pendapatan statutori, mengikut mana-mana yang berkenaan,".
+30. Seksyen 50B Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 50B -->
+
+memasukkan, selepas perkataan "pengurangan pendapatan larasan" dalam subseksyen (1), (2) dan (4) masing-masingnya, perkataan "atau pendapatan statutori, mengikut mana-mana yang berkenaan,".
 
 ## HURAIAN
 

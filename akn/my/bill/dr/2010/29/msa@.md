@@ -8,27 +8,33 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran 3. Pelantikan Pengawal Harga, Timbalan Pengawal Harga, Penolong Pengawal Harga, dsb.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PENENTUAN HARGA DAN CAJ
 
-4. Kuasa Pengawal untuk menentukan harga barangan 5. Kuasa Pengawal untuk menentukan caj bagi perkhidmatan 6. Kuasa Pengawal untuk menentukan harga atau caj mengikut kawasan 7. Kuasa Pengawal untuk menentukan amaun deposit 8. Harga yang ditentukan termasuk cukai 9. Penjual hendaklah mempamerkan senarai harga 10. Perintah penandaan harga
+4. Kuasa Pengawal untuk menentukan harga barangan 5. Kuasa Pengawal untuk menentukan caj bagi perkhidmatan 6. Kuasa Pengawal untuk menentukan harga atau caj mengikut kawasan 7. Kuasa Pengawal untuk menentukan amaun deposit 8. Harga yang ditentukan termasuk cukai 9. Penjual hendaklah mempamerkan senarai harga
 
-## Bahagian III
+10. Perintah penandaan harga
+
+## BAHAGIAN III
 
 ## KESALAHAN
 
-11. Kesalahan untuk menjual barangan harga terkawal, menyediakan perkhidmatan caj terkawal, dsb., selain mengikut harga atau caj yang ditentukan 12. Kesalahan membeli barangan harga terkawal atau memperoleh perkhidmatan caj terkawal, dsb., selain mengikut harga atau caj yang ditentukan 13. Syarat-syarat yang menyalahi undang-undang
+11. Kesalahan untuk menjual barangan harga terkawal, menyediakan perkhidmatan caj terkawal, dsb., selain mengikut harga atau caj yang ditentukan
+
+12. Kesalahan membeli barangan harga terkawal atau memperoleh perkhidmatan caj terkawal, dsb., selain mengikut harga atau caj yang ditentukan
+
+13. Syarat-syarat yang menyalahi undang-undang
 
 <!-- page 2 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## ANTIPENCATUTAN
 
@@ -40,13 +46,13 @@
 
 17. Tawaran membekal
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PENALTI
 
 18. Penalti
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PENYIASATAN DAN PENGUATKUASAAN
 
@@ -80,17 +86,67 @@ Kuasa mengumpul maklumat
 
 ## Bab 3
 
-Kuasa-kuasa penggeledahan dan penyitaan 28. Akses kepada tempat atau premis 29. Kuasa untuk memasuki premis dengan waran geledah 30. Kuasa memasuki dan menggeledah dan menyita tanpa waran 31. Akses kepada maklumat berekod, data berkomputer, dsb. 32. Pemberian maklumat 33. Waran boleh diterima walaupun cacat 34. Senarai benda yang disita 35. Pelucuthakan barangan 36. Pelepasan benda yang disita 37. Penyitaan barangan mudah musnah 38. Tiada kos atau ganti rugi yang berbangkit daripada penyitaan boleh didapatkan balik 39. Halangan 40. Kuasa penyiasatan oleh pegawai polis
+Kuasa-kuasa penggeledahan dan penyitaan
 
-## Bahagian VII
+28. Akses kepada tempat atau premis
+
+29. Kuasa untuk memasuki premis dengan waran geledah
+
+30. Kuasa memasuki dan menggeledah dan menyita tanpa waran
+
+31. Akses kepada maklumat berekod, data berkomputer, dsb.
+
+32. Pemberian maklumat
+
+33. Waran boleh diterima walaupun cacat
+
+34. Senarai benda yang disita
+
+35. Pelucuthakan barangan
+
+36. Pelepasan benda yang disita
+
+37. Penyitaan barangan mudah musnah
+
+38. Tiada kos atau ganti rugi yang berbangkit daripada penyitaan boleh didapatkan balik
+
+39. Halangan
+
+40. Kuasa penyiasatan oleh pegawai polis
+
+## BAHAGIAN VII
 
 ## MAJLIS PENASIHAT HARGA
 
-41. Majlis Penasihat Harga 42. Keanggotaan Majlis 43. Penjalanan sementara fungsi Pengerusi 44. Pengosongan jawatan 45. Pembatalan pelantikan 46. Peletakan jawatan 47. Mengisi kekosongan 48. Setiausaha kepada Majlis dan pegawai lain 49. Elaun 50. Mesyuarat 51. Majlis boleh mengundang orang lain untuk menghadiri mesyuarat 52. Kesahan perbuatan dan prosiding 53. Peraturan-peraturan yang berhubungan dengan Majlis
+41. Majlis Penasihat Harga
+
+42. Keanggotaan Majlis
+
+43. Penjalanan sementara fungsi Pengerusi
+
+44. Pengosongan jawatan
+
+45. Pembatalan pelantikan
+
+46. Peletakan jawatan
+
+47. Mengisi kekosongan
+
+48. Setiausaha kepada Majlis dan pegawai lain
+
+49. Elaun
+
+50. Mesyuarat
+
+51. Majlis boleh mengundang orang lain untuk menghadiri mesyuarat
+
+52. Kesahan perbuatan dan prosiding
+
+53. Peraturan-peraturan yang berhubungan dengan Majlis
 
 <!-- page 4 -->
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 AM
 
@@ -122,7 +178,7 @@ Suatu Akta untuk mengawal harga barangan dan caj bagi perkhidmatan dan melarang 
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -198,7 +254,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (7) Semua pegawai yang dilantik di bawah seksyen ini hendaklah disifatkan sebagai pekhidmat awam dalam pengertian Kanun Keseksaan [Akta 574].
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PENENTUAN HARGA DAN CAJ
 
@@ -256,7 +312,7 @@ yang boleh termasuk caj bagi apa-apa perkhidmatan yang berhubungan dengan pembek
 
 (2) Menteri boleh menetapkan penalti denda tidak melebihi satu ratus ribu ringgit bagi pelanggaran atau ketidakpatuhan peruntukan perintah itu.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## KESALAHAN
 
@@ -292,7 +348,7 @@ yang boleh termasuk caj bagi apa-apa perkhidmatan yang berhubungan dengan pembek
 
 melakukan suatu kesalahan.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## ANTIPENCATUTAN
 
@@ -338,7 +394,7 @@ hendaklah disifatkan sebagai menawarkan atau membekalkannya.
 
 <!-- page 13 -->
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PENALTI
 
@@ -350,7 +406,7 @@ hendaklah disifatkan sebagai menawarkan atau membekalkannya.
 
 (b) jika orang itu bukan suatu pertubuhan perbadanan, didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua- duanya dan, bagi kesalahan kali yang kedua atau yang berikutnya, didenda tidak melebihi dua ratus lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PENYIASATAN DAN PENGUATKUASAAN
 
@@ -402,9 +458,13 @@ mana-mana yang berkenaan, kepada Penolong Pengawal dalam tempoh dan mengikut car
 
 (f) jika orang itu suatu perkongsian, untuk menyebabkan individu yang merupakan seorang pekongsi dalam perkongsian itu atau pekerja perkongsian itu untuk hadir di hadapan Penolong Pengawal pada masa dan di tempat yang dinyatakan dalam notis itu untuk memberikan apa- apa maklumat, sama ada secara lisan atau bertulis, dan untuk mengemukakan apa-apa dokumen yang disebut dalam subseksyen (1), sama ada dalam bentuk fizikal atau media elektronik; atau
 
-(g) untuk membuat suatu pernyataan kepada Penolong Pengawal dengan memberikan suatu penjelasan mengenai apa-apa maklumat atau dokumen yang disebut dalam subseksyen (1) dalam tempoh dan mengikut cara dan bentuk yang dinyatakan dalam notis itu.
+(g) untuk membuat suatu pernyataan kepada Penolong Pengawal dengan memberikan suatu penjelasan mengenai apa-apa maklumat atau dokumen yang disebut dalam subseksyen
 
-(3) Jika Penolong Pengawal mengarahkan mana-mana orang supaya mengemukakan apa-apa dokumen di bawah subseksyen (2) dan orang itu tidak mempunyai jagaan ke atas dokumen itu, orang itu hendaklah—
+(1) dalam tempoh dan mengikut cara dan bentuk yang dinyatakan dalam notis itu.
+
+(3) Jika Penolong Pengawal mengarahkan mana-mana orang supaya mengemukakan apa-apa dokumen di bawah subseksyen
+
+(2) dan orang itu tidak mempunyai jagaan ke atas dokumen itu, orang itu hendaklah—
 
 (a) menyatakan, sepanjang pengetahuan dan kepercayaannya, di mana dokumen itu boleh dijumpai; dan
 
@@ -584,7 +644,9 @@ melakukan suatu kesalahan di bawah Akta ini.
 
 ### Senarai benda yang disita
 
-34. (1) Kecuali sebagaimana yang diperuntukkan dalam subseksyen (2), jika apa-apa buku, rekod, akaun, dokumen, data berkomputer, barangan atau benda disita di bawah Bahagian ini, Penolong Pengawal yang melakukan penyitaan itu hendaklah dengan secepat yang dapat dilaksanakan menyediakan senarai benda yang disita itu dan dengan segera menyerahkan suatu salinan yang ditandatangani olehnya kepada penghuni premis yang digeledah itu, atau kepada ejen atau pekhidmatnya, di premis itu.
+34. (1) Kecuali sebagaimana yang diperuntukkan dalam subseksyen
+
+(2), jika apa-apa buku, rekod, akaun, dokumen, data berkomputer, barangan atau benda disita di bawah Bahagian ini, Penolong Pengawal yang melakukan penyitaan itu hendaklah dengan secepat yang dapat dilaksanakan menyediakan senarai benda yang disita itu dan dengan segera menyerahkan suatu salinan yang ditandatangani olehnya kepada penghuni premis yang digeledah itu, atau kepada ejen atau pekhidmatnya, di premis itu.
 
 <!-- page 24 -->
 
@@ -644,7 +706,7 @@ melakukan suatu kesalahan.
 
 40. Mana-mana Penolong Pengawal yang menyiasat apa-apa pelakuan kesalahan di bawah Akta ini, boleh menjalankan semua atau mana-mana kuasa yang berhubungan dengan penyiasatan polis dalam kes boleh tangkap yang diperuntukkan oleh Kanun Tatacara Jenayah [Akta 593].
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## MAJLIS PENASIHAT HARGA
 
@@ -768,7 +830,7 @@ seorang lain untuk mengisi kekosongan itu untuk baki tempoh yang baginya anggota
 
 53. Menteri boleh membuat apa-apa peraturan yang difikirkannya perlu atau suai manfaat berkenaan dengan Bahagian ini.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 AM
 
@@ -868,7 +930,7 @@ AM
 
 Rang Undang-Undang Kawalan Harga dan Antipencatutan 2010 (“Rang Undang- Undang”) digubal untuk pembaharuan undang-undang mengenai kawalan harga dan memperbuat peruntukan berhubung dengan larangan pencatutan. Maksud Rang Undang-Undang ini adalah untuk membolehkan Kerajaan menentukan harga barangan atau caj bagi perkhidmatan dan pada masa yang sama untuk mencegah aktiviti pencatutan, dengan demikian itu melindungi kepentingan pengguna.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I memperkatakan perkara permulaan.
 
@@ -880,7 +942,7 @@ Rang Undang-Undang Kawalan Harga dan Antipencatutan 2010 (“Rang Undang- Undang
 
 5. Fasal 3 mengadakan peruntukan bagi pelantikan Pengawal Harga, apa- apa bilangan Timbalan Pengawal Harga dan Penolong Pengawal Harga oleh Menteri untuk melaksanakan dan menguatkuasakan peruntukan di bawah Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 6. Bahagian II mengandungi peruntukan tentang penentuan harga barangan dan caj bagi perkhidmatan.
 
@@ -898,7 +960,7 @@ Rang Undang-Undang Kawalan Harga dan Antipencatutan 2010 (“Rang Undang- Undang
 
 13. Fasal 10 bertujuan untuk mengadakan peruntukan bagi kuasa Menteri untuk membuat perintah penandaan harga berhubungan dengan maklumat mengenai barangan atau perkhidmatan yang dibekalkan.
 
-## Bahagian III
+## BAHAGIAN III
 
 14. Bahagian III mengadakan peruntukan bagi kesalahan-kesalahan di bawah Akta yang dicadangkan.
 
@@ -910,7 +972,7 @@ Rang Undang-Undang Kawalan Harga dan Antipencatutan 2010 (“Rang Undang- Undang
 
 17. Fasal 13 mengadakan peruntukan bagi kesalahan mengenakan syarat- syarat yang menyalahi undang-undang dalam menjual atau menyediakan apa- apa barangan harga terkawal atau perkhidmatan caj terkawal.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 18. Bahagian IV memperkatakan peruntukan yang berhubungan dengan larangan ke atas aktiviti pencatutan.
 
@@ -922,15 +984,13 @@ Rang Undang-Undang Kawalan Harga dan Antipencatutan 2010 (“Rang Undang- Undang
 
 22. Fasal 17 mengadakan peruntukan menyifatkan tentang tawaran untuk membekalkan barangan atau perkhidmatan.
 
-## Bahagian V
+## BAHAGIAN V
 
 23. Bahagian V memperuntukkan penalti bagi kesalahan-kesalahan.
 
-24. Fasal 18 memperuntukkan penalti bagi kesalahan-kesalahan di bawah
+24. Fasal 18 memperuntukkan penalti bagi kesalahan-kesalahan di bawah Bahagian III dan IV.
 
-## Bahagian III dan IV.
-
-## Bahagian VI
+## BAHAGIAN VI
 
 25. Bahagian VI bertujuan untuk memperuntukkan kuasa Penolong Pengawal berkenaan dengan penyiasatan dan penguatkuasaan.
 
@@ -980,7 +1040,7 @@ Rang Undang-Undang Kawalan Harga dan Antipencatutan 2010 (“Rang Undang- Undang
 
 46. Fasal 40 bertujuan untuk memperuntukkan Penolong Pengawal dengan semua kuasa penyiasatan dalam kes boleh tangkap yang diberikan oleh Kanun Tatacara Jenayah.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 47. Bahagian VII memperkatakan Majlis Penasihat Harga.
 
@@ -1012,7 +1072,7 @@ Rang Undang-Undang Kawalan Harga dan Antipencatutan 2010 (“Rang Undang- Undang
 
 60. Fasal 53 bertujuan untuk memperuntukkan kuasa Menteri untuk membuat peraturan-peraturan berkenaan dengan Majlis.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 61. Bahagian VIII memperkatakan peruntukan am.
 

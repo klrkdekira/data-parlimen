@@ -40,7 +40,9 @@ Akta ini, adalah dipinda dengan menggantikan seksyen
 
 ' " D i s- 24, Whoever does anything with the intention honestly" of causing wrongful gain to one person, or wrongful loss to another person irrespective of whether the act causes actual wrongful loss or gain, is said to do that thing "dishonestly".
 
-Explanation—In relation to the offences of criminal misappropriation or criminal breach of trust it
+Explanation—In relation to the offences of criminal misappropriation or criminal breach of trust
+
+<!-- marginal: it -->
 
 <!-- marginal: is -->
 
@@ -48,13 +50,21 @@ immaterial whether there was an intention to defraud or to deceive any person,'.
 
 <!-- page 2 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Kanun adalah dipinda dengan menggantikan seksyen seksyen 29 29 dengan seksyen yang berikut:
+3. Kanun adalah dipinda dengan menggantikan seksyen
 
-" Docu-
+<!-- marginal: seksyen 29 -->
 
-29. ( 1) The word "document" means any ment" matter expressed, described, or howsoever represented, upon any substance, material, thing or article, including any matter embodied in a disc, tape, film, sound track or other device whatsoever, by means of—
+29 dengan seksyen yang berikut:
+
+<!-- marginal: " Docu- -->
+
+29. ( 1) The word "document" means any
+
+<!-- marginal: ment" -->
+
+matter expressed, described, or howsoever represented, upon any substance, material, thing or article, including any matter embodied in a disc, tape, film, sound track or other device whatsoever, by means of—
 
 (a) letters, figures, marks, symbols, signals, signs, or other forms of expression, description, or representation what- soever;
 
@@ -90,11 +100,7 @@ A map, plan, graph or sketch is a document.
 
 An inscription on wood, metal, stone or any other substance, material or thing is a document.
 
-A drawing, painting, picture or caricature
-
-<!-- marginal: is a -->
-
-document.
+A drawing, painting, picture or caricature is a document.
 
 A photograph or a negative is a document.
 
@@ -112,19 +118,61 @@ A. writes his name on the back of a bill of exchange payable to his order. The m
 
 <!-- page 4 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-4. Kanun adalah dipinda dengan menggantikan seksyen seksyen 43 43 dengan seksyen yang berikut:
+4. Kanun adalah dipinda dengan menggantikan seksyen
 
-' "Illegal"
+<!-- marginal: seksyen 43 -->
 
-43. The word "illegal" or "unlawful" is "Unlawful" applicable to everything which is an offence, and or which is prohibited by law, or which "legally hound furnishes ground for a civil action. to do" And in respect of the word "illegal", a person is said to be "legally bound to do" whatever it is illegal in him to omit.1.
+43 dengan seksyen yang berikut:
 
-5. Kanun adalah dipinda dengan memasukkan selepas ham 402A. sahaja seksyen 402 dan di bawah tajuk "Of Criminal Misappropriation of Property" seksyen yang berikut:
+<!-- marginal: ' "Illegal" -->
 
-"'Defintion
+43. The word "illegal" or "unlawful" is
 
-402A. For the purposes of sections 403, 403A, of "agent", 403B and 403C, 404, 405, 406, 407, 408, 409, "company" "director". '409A, 409B, 415, 416, 417. 418, 419 and 420 "olteer" of this Chapter, unless the contrary appears from the context:
+<!-- marginal: "Unlawful" -->
+
+applicable to everything which is an offence,
+
+<!-- marginal: and -->
+
+or which is prohibited by law, or which
+
+<!-- marginal: "legally -->
+
+<!-- marginal: hound -->
+
+furnishes ground for a civil action.
+
+<!-- marginal: to do" -->
+
+And in respect of the word "illegal", a person is said to be "legally bound to do" whatever it is illegal in him to omit.1.
+
+<!-- marginal: Seksyen -->
+
+5. Kanun adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: ham 402A. -->
+
+sahaja seksyen 402 dan di bawah tajuk "Of Criminal Misappropriation of Property" seksyen yang berikut:
+
+<!-- marginal: "'Defintion -->
+
+402A. For the purposes of sections 403, 403A,
+
+<!-- marginal: of "agent", -->
+
+403B and 403C, 404, 405, 406, 407, 408, 409,
+
+<!-- marginal: "company" -->
+
+<!-- marginal: "director". -->
+
+'409A, 409B, 415, 416, 417. 418, 419 and 420
+
+<!-- marginal: "olteer" -->
+
+of this Chapter, unless the contrary appears from the context:
 
 "agent" includes any corporation or other person acting or having been acting or desirous or intending to act for or on behalf of any company or other person whether as agent, partner, co-owner, clerk, servant, employee, banker, broker, auctioneer, architect, clerk of works, engineer, advocate and solicitor, accountant, auditor, surveyor, buyer, salesman, trustee executor, administrator, liquidator, trustee within the meaning of any Act relating to trusteeship or bankruptcy, receiver, director, manager or other officer of any company, club, partnership or association or in any other capacity either alone or jointly with any other person and whether in his own name or in the name of his principal or not;
 
@@ -146,9 +194,11 @@ Pindaan
 
 (c) any liquidator of a company appointed in a voluntary winding up, but does not include— (i) any receiver who is not also a manager; (ii) any receiver and manager appointed by the Court; or ( i i i) any liquidator appointed by the Court or by the creditors.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-6. Seksyen 403 Kanun adalah dipinda— seksyen 403.
+6. Seksyen 403 Kanun adalah dipinda—
+
+<!-- marginal: seksyen 403. -->
 
 (a) dengan memasukkan selepas sahaja perkataan "misappropriates" koma;
 
@@ -158,13 +208,15 @@ Pindaan
 
 <!-- page 6 -->
 
-### 6
+<!-- marginal: 6 -->
 
 ## RANG UNDANG-UNDANG
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-7. Seksyen 404 Kanun adalah dipinda— seksyen 404.
+7. Seksyen 404 Kanun adalah dipinda—
+
+<!-- marginal: seksyen 404. -->
 
 (a) dengan memasukkan selepas sahaja perkataan
 
@@ -196,9 +248,11 @@ Pindaan
 
 ### shall also be liable to fine".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-8. Section 405 Kanun adalah dipinda— seksyen 405
+8. Section 405 Kanun adalah dipinda—
+
+<!-- marginal: seksyen 405 -->
 
 (a) dengan memasukkan selepas sahaja perkataan-
 
@@ -228,43 +282,67 @@ Pindaan
 
 ## (PINDAAN)
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-9. Seksyen 406 Kanun adalah dipinda dengan seksyen 406. menggantikan perkataan-perkataan "may extend to three years, or with fine, or with both" dengan perkataan- perkataan "shall not be less than one year and not more than ten years and with whipping, and shall also be liable to fine".
+9. Seksyen 406 Kanun adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 406. -->
 
-10. Seksyen 407 Kanun adalah dipinda dengan seksyen 407 menggantikan perkataan-perkataan "may extend to ten years, and shall also be liable to fine" dengan perkataan- perkataan "shall not be less than one year and not more than ten years and with whipping, and shall also be liable to fine".
+menggantikan perkataan-perkataan "may extend to three years, or with fine, or with both" dengan perkataan- perkataan "shall not be less than one year and not more than ten years and with whipping, and shall also be liable to fine".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-11. Seksyen 408 Kanun adalah dipinda dengan seksyen 408. menggantikan perkataan-perkataan "may extend to ten years, and shall also be liable to fine" dengan perkataan- perkataan "shall not be less than one year and not more than ten years and with whipping, and shall also be liable to fine".
+10. Seksyen 407 Kanun adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 407 -->
 
-12. Seksyen 409 Kanun adalah dipinda— seksyen 409.
+menggantikan perkataan-perkataan "may extend to ten years, and shall also be liable to fine" dengan perkataan- perkataan "shall not be less than one year and not more than ten years and with whipping, and shall also be liable to fine".
+
+<!-- marginal: Pindaan -->
+
+11. Seksyen 408 Kanun adalah dipinda dengan
+
+<!-- marginal: seksyen 408. -->
+
+menggantikan perkataan-perkataan "may extend to ten years, and shall also be liable to fine" dengan perkataan- perkataan "shall not be less than one year and not more than ten years and with whipping, and shall also be liable to fine".
+
+<!-- marginal: Pindaan -->
+
+12. Seksyen 409 Kanun adalah dipinda—
+
+<!-- marginal: seksyen 409. -->
 
 (a) dengan menggantikan perkataan-perkataan "in the way of the business as a banker, merchant, factor, booker. attorney or" perkataan "an"; dan
 
 (b) dengan menggantikan perkataan-perkataan "may extend to twenty years, and shall also be liable to fine" dengan perkataan-perkataan "shall not be less than two years and not more than twenty years, and with whipping, and shall also be liable to fine.".
 
-Seksyen-
+<!-- marginal: Seksyen- -->
 
-13. Kanun adalah dipinda dengan memasukkan selepas seksyen baru sahaja seksyen 409, seksyen-seksyen yang berikut: 409 a. 409B. "De1ence
+13. Kanun adalah dipinda dengan memasukkan selepas
 
-409A. It is no defence for any offence not prescribed in sections 403, 404, 405, 406, 407, available. 408 and 409 to show that the property was openly appropriated or that the appropriation was duly recorded and entered in the books and accounts of any company or association or body of person whether incorporated or not.
+<!-- marginal: seksyen baru -->
+
+sahaja seksyen 409, seksyen-seksyen yang berikut:
+
+<!-- marginal: 409 a. 409B. -->
+
+"De1ence 409A. It is no defence for any offence not prescribed in sections 403, 404, 405, 406, 407, available. 408 and 409 to show that the property was openly appropriated or that the appropriation was duly recorded and entered in the books and accounts of any company or association or body of person whether incorporated or not.
 
 <!-- page 8 -->
 
-8
+<!-- marginal: 8 -->
 
 ## RANG UNDANG-UNDANG
 
 Explanation—The property of a company shall be regarded as belonging ro the company notwithstanding that the directors of the said company are, either singly or jointly, entitled to the entire beneficial interest, of the shareholding in the said company.
 
-Pre-
+<!-- marginal: Pre- -->
 
-409B. (l)Where in any proceeding it is sumption. proved—
+409B. (l)Where in any proceeding it is
+
+<!-- marginal: sumption. -->
+
+proved—
 
 (a) for any offence prescribed in sections 403 and 404, that any person had misappropriated any property; or
 
@@ -286,9 +364,11 @@ it shall be presumed that he had acted dishonestly until the contrary is proved.
 
 ## (PINDAAN)
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-14. Kanun adalah dipinda— seksyen 415.
+14. Kanun adalah dipinda—
+
+<!-- marginal: seksyen 415. -->
 
 (a) dengan menggantikan seksyen 415, tidak termasuk Huraian-huraian dan Gambaran- gambaran dengan seksyen yang berikut:
 
@@ -302,7 +382,11 @@ is said to "cheat".'; dan
 
 (b) dengan memasukkan selepas sahaja Huraian 2 Huraian yang berikut: "Explanation 3—Whoever makes any represen- tation through any person acting as an agent, or otherwise, for him, shall be deemed to have made the representation himself.".
 
-15. Seksyen 420 Kanun adalah dipinda— Pindaan seksyen 420.
+15. Seksyen 420 Kanun adalah dipinda—
+
+<!-- marginal: Pindaan -->
+
+<!-- marginal: seksyen 420. -->
 
 (a) dengan memasukkan selepas sahaja perkataan "deceived" perkataan-perkataan ", whether or not the deception practised was the sole or main inducement,"; dan
 
@@ -314,7 +398,11 @@ is said to "cheat".'; dan
 
 Rang Undang-Undang ini bertujuan meminda Kanun Keseksaan (N.M.B. Bab 45).
 
-2. Fasal 2 bertujuan meminda seksyen 24 bagi memperuntukkan bahawa seorang yang membuat sesuatu dengan niat mendapat keuntungan salah atau menyebabkan kerugian salah masih dikatakan membuatnya "dishonestly" suiigguhpun tidak ada keuntungan salah atau kerugian salah yang berlaku.
+2. Fasal 2 bertujuan meminda seksyen 24 bagi memperuntukkan bahawa seorang yang membuat sesuatu dengan niat mendapat keuntungan salah atau menyebabkan kerugian salah masih dikatakan membuatnya "dishonestly" suiigguhpun
+
+<!-- marginal: tidak ada -->
+
+keuntungan salah atau kerugian salah yang berlaku.
 
 3. Fasal 3 bertujuan meminda seksyen 29 bagi memperuntukkan taknf "dokumen" yang selaras dengan pindaan yang dibuat pada takrif perkataan yang sama di dalam Akta Keterangan 1950.
 

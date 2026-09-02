@@ -86,7 +86,15 @@ mematuhi keputusan pendakwaan atau tuntutan itu" dengan perkataan "untuk mematuh
 
 ### Seksyen baru 30A
 
-7. Akta ibu dipinda dengan memasukkan selepas seksyen 30 seksyen yang berikut: " Kewajipan 30A. (1) Kecuali sebagaimana yang diperuntukkan di kerahsiaan. bawah seksyen 31, nama dan alamat seseorang pemberi maklumat dan substans maklumat yang diterima daripada seseorang pemberi maklumat hendaklah dirahsiakan dan tidak boleh didedahkan oleh mana-mana pegawai kastam yang hak atau mana-mana orang yang dalam perjalanan biasa tugasnya memperoleh atau mengawal atau mendapat akses kepada maklumat itu kepada mana-mana orang kecuali pegawai kastam ditetapkan yang diberi kuasa oleh Ketua Pengarah.
+7. Akta ibu dipinda dengan memasukkan selepas seksyen 30 seksyen yang berikut: "
+
+<!-- marginal: Kewajipan -->
+
+30A. (1) Kecuali sebagaimana yang diperuntukkan di
+
+<!-- marginal: kerahsiaan. -->
+
+bawah seksyen 31, nama dan alamat seseorang pemberi maklumat dan substans maklumat yang diterima daripada seseorang pemberi maklumat hendaklah dirahsiakan dan tidak boleh didedahkan oleh mana-mana pegawai kastam yang hak atau mana-mana orang yang dalam perjalanan biasa tugasnya memperoleh atau mengawal atau mendapat akses kepada maklumat itu kepada mana-mana orang kecuali pegawai kastam ditetapkan yang diberi kuasa oleh Ketua Pengarah.
 
 (2) Mana-mana orang yang melanggar subseksyen (1) adalah melakukan suatu kesalahan dan bolehlah, apabila disabitkan, dikenakan denda tidak melebihi sepuluh ribu ringgit atau hukuman penjara bagi suatu tempoh tidak melebihi lima tahun atau kedua-duanya.".
 
@@ -104,7 +112,9 @@ mematuhi keputusan pendakwaan atau tuntutan itu" dengan perkataan "untuk mematuh
 
 ### Pindaan seksyen 33
 
-9. Seksyen 33 Akta ibu dipinda dengan menggantikan subseksyen (2) dengan subseksyen yang berikut:
+9. Seksyen 33 Akta ibu dipinda dengan menggantikan subseksyen
+
+(2) dengan subseksyen yang berikut:
 
 "(2) Apabila jumlah wang yang sedemikian dibayar—
 

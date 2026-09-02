@@ -14,11 +14,21 @@ Suatu Akta untuk meminda Akta Kastam 1967. [ ]
 
 oleh Dull Yang Maha Mulia Sen Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan Dewan Negara dan Dewan Rakyat yang bersidang dalam Parlimen, dan dengan kuasa daripadanya, seperti berikut:
 
-Tajuk
+<!-- marginal: Tajuk -->
 
-1. Akta inibolehlahdinamakan Akta Kastam (Pindaan) 1990. ringkas. Pindaan
+1. Akta inibolehlahdinamakan Akta Kastam (Pindaan) 1990.
 
-2. Seksyen 2 Akta Kastam 1967, yang disebut "Akta ibu" seksyen 2. dalam Akta ini, adalah dipinda— Akta 235.
+<!-- marginal: ringkas. -->
+
+<!-- marginal: Pindaan -->
+
+2. Seksyen 2 Akta Kastam 1967, yang disebut "Akta ibu"
+
+<!-- marginal: seksyen 2. -->
+
+dalam Akta ini, adalah dipinda—
+
+<!-- marginal: Akta 235. -->
 
 (a) dengan memasukkan, selepas sahajatakrif'dutiable goods", takrif baru yang berikut:
 
@@ -28,15 +38,21 @@ Tajuk
 
 "inland clearance depot" means a common- user inland facility equipped with fixed installations and offering services for handling and temporary storage of any kind of goods carried in transit by land and placed under customs control;';
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Seksyen 3 Akta ibu adalah dipinda dengan menggantikan seksyen 3. perkataan-perkataan "section 22" dalam subseksyen (3) dengan perkataan-perkataan "sections 22 and 145".
+3. Seksyen 3 Akta ibu adalah dipinda dengan menggantikan
+
+<!-- marginal: seksyen 3. -->
+
+perkataan-perkataan "section 22" dalam subseksyen (3) dengan perkataan-perkataan "sections 22 and 145".
 
 <!-- page 2 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-4. Seksyen 17 Akta ibu adalah dipinda— seksyen 17.
+4. Seksyen 17 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 17. -->
 
 (a) dengan menomborkan semula seksyen itu sebagai "17. (1)"; dan
 
@@ -44,15 +60,27 @@ Pindaan
 
 "(2) Where any amount is payable in accordance with subsection (1) the Director General may allow the amount to be paid by instalments in such amounts and on such dates as he may determine.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-5. Seksyen 18 Akta ibu adalah dipinda dengan menggantikan seksyen 18. perkataan-perkataan "by unavoidable accident, lost, damaged or destroyed" dalam subseksyen (1) dengan perkataan- perkataan "damaged, destroyed, or by unavoidable accident, lost".
+5. Seksyen 18 Akta ibu adalah dipinda dengan menggantikan
 
-6. Seksyen 44 Akta ibu adalah dipinda dengan memotong Pindaan seksyen 44. perkataan-perkataan "the President of a Sessions Court in West Malaysia or" dan perkataan-perkataan "in the States of Sabah and Sarawak" dalam subseksyen (3).
+<!-- marginal: seksyen 18. -->
 
-Pindaan
+perkataan-perkataan "by unavoidable accident, lost, damaged or destroyed" dalam subseksyen (1) dengan perkataan- perkataan "damaged, destroyed, or by unavoidable accident, lost".
 
-7. Seksyen 55 Akta ibu adalah dipinda— seksyen 55.
+6. Seksyen 44 Akta ibu adalah dipinda dengan memotong
+
+<!-- marginal: Pindaan -->
+
+<!-- marginal: seksyen 44. -->
+
+perkataan-perkataan "the President of a Sessions Court in West Malaysia or" dan perkataan-perkataan "in the States of Sabah and Sarawak" dalam subseksyen (3).
+
+<!-- marginal: Pindaan -->
+
+7. Seksyen 55 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 55. -->
 
 (a) dengan menggantikan perkataan "one" di baris keenam subseksyen (2) dengan perkataan "five";
 
@@ -60,9 +88,13 @@ Pindaan
 
 (c) dengan memotong perkataan-perkataan "a Sessions Court in West Malaysia or" dan perkataan-perkataan "in Sabah and Sarawak" dalam subseksyen (3).
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
-8. Akta ibu adalah dipinda dengan memasukkan, selepas 65o dan 65E. sahaja seksyen 65c, seksyen baru 65o dan 65E yang berikut:
+8. Akta ibu adalah dipinda dengan memasukkan, selepas
+
+<!-- marginal: 65o dan 65E. -->
+
+sahaja seksyen 65c, seksyen baru 65o dan 65E yang berikut:
 
 "Licensing 65D (1) The Director General may at his absolute of duly free discretion on payment of such fee as may be shop. prescribed, grant a licence to operate a duty free shop to any person, hereinafter in this section referred to as "the licensee", and when granted, may suspend or withdraw such licence.
 
@@ -74,9 +106,19 @@ Seksyen baru
 
 (4) If it appears at any time that any goods have been sold or removed from such duty free shop otherwise than in accordance with all the conditions of a licence granted under this section, the licensee of such duty free shop shall, in the absence of proof to the contrary, be presumed to have illegally removed such goods and shall, without prejudice to any proceedings under this Act, be liable to pay to the proper officer of customs the customs duty leviable on the goods sold or removed.
 
-Licensing
+<!-- marginal: Licensing -->
 
-65E. (1) The Director General may at his absolute of inland discretion on payment of such fee as may be clearance depot. prescribed, grant a licence to operate an inland clearance depot to any person, hereinafter in this section referred to as "the licensee", and when granted,-may suspend or withdraw such licence.
+65E. (1) The Director General may at his absolute
+
+<!-- marginal: of inland -->
+
+discretion on payment of such fee as may be
+
+<!-- marginal: clearance -->
+
+<!-- marginal: depot. -->
+
+prescribed, grant a licence to operate an inland clearance depot to any person, hereinafter in this section referred to as "the licensee", and when granted,-may suspend or withdraw such licence.
 
 (2) Any such licence shall be for such period and subject to such conditions as the Director General in each case may specify in the licence.
 
@@ -90,19 +132,29 @@ Provided that if it is shown to the satisfaction of the Director General that su
 
 caused by any leakage, breakage or other unavoidable accident, the Director General may remit the whole or any part of the customs duty leviable on the goods found deficient.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-9. Seksyen 66 Akta ibu adalah dipinda dengan memasukkan, seksyen 86. selepas sahaja subseksyen (4), subseksyen baru (5) yang berikut:
+9. Seksyen 66 Akta ibu adalah dipinda dengan memasukkan,
+
+<!-- marginal: seksyen 86. -->
+
+selepas sahaja subseksyen (4), subseksyen baru (5) yang berikut:
 
 "(5) Notwithstanding anything contained in sub- section (1), if the Director General is of the opinion that having regard to any particular goods imported into Malaysia it would be in the public interest not to require such goods to be deposited by the importer or his agent in accordance with the said subsection, he may direct such goods to be released subject to such conditions as he may impose.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-10. Seksyen 78 Akta ibu adalah dipinda dengan memasukkan seksyen 78. selepas sahajaperkataan-perkataan "charges leviable thereon" dalam subseksyen (2) perkataan-perkataan "within fourteen days of such declaration".
+10. Seksyen 78 Akta ibu adalah dipinda dengan memasukkan
 
-Pindaan
+<!-- marginal: seksyen 78. -->
 
-11. Seksyen 90 Akta ibu adalah dipinda— seksyen 90 .
+selepas sahajaperkataan-perkataan "charges leviable thereon" dalam subseksyen (2) perkataan-perkataan "within fourteen days of such declaration".
+
+<!-- marginal: Pindaan -->
+
+11. Seksyen 90 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 90 . -->
 
 (a) dengan memasukkan, selepas sahaja perkataan- perkataan "senior officer of customs" dalam subseksyen (1), perkataan-perkataan "and subject to such terms and conditions as he may impose";
 
@@ -112,17 +164,47 @@ Pindaan
 
 <!-- page 5 -->
 
-Penggantian
+<!-- marginal: Penggantian -->
 
-12. Akta ibu adalah dipinda dengan menggantikan seksyen seksyen 91. 91 dengan yang berikut:
+12. Akta ibu adalah dipinda dengan menggantikan seksyen
+
+<!-- marginal: seksyen 91. -->
+
+91 dengan yang berikut:
 
 91. Notwithstanding anything contained in section 90 the person in charge of any goods imported or exported by road shall be deemed to be the agent of the importer or exporter, as the case may be.".
 
-Penggantian
+<!-- marginal: Penggantian -->
 
-13. Akta ibu adalah dipinda dengan menggantikan seksyen seksyen 99. 99 dengan yang berikut:
+13. Akta ibu adalah dipinda dengan menggantikan seksyen
 
-99. (1) Where any imported goods are re-exported "Drawback on by the manufacturer as part or ingredient of any imported goods used goods manufactured in Malaysia or as the packing, in manu- or part or ingredient of the packing, of such facture or in packing. manufactured goods, then, if customs duty has been paid on such imported goods, the Director General may, on such re-export, allow to the manufacturer a full drawback of the duty so paid, if—
+<!-- marginal: seksyen 99. -->
+
+99 dengan yang berikut:
+
+99. (1) Where any imported goods are re-exported
+
+<!-- marginal: "Drawback -->
+
+<!-- marginal: on -->
+
+by the manufacturer as part or ingredient of any
+
+<!-- marginal: imported -->
+
+<!-- marginal: goods used -->
+
+goods manufactured in Malaysia or as the packing,
+
+<!-- marginal: in manu- -->
+
+or part or ingredient of the packing, of such
+
+<!-- marginal: facture or in -->
+
+<!-- marginal: packing. -->
+
+manufactured goods, then, if customs duty has been paid on such imported goods, the Director General may, on such re-export, allow to the manufacturer a full drawback of the duty so paid, if—
 
 (a) the finished goods exported have been manufactured on premises approved by the Director General;
 
@@ -136,21 +218,31 @@ Penggantian
 
 (2) In this section the expression "manufacturer" includes any person to whom the manufactured goods have been sold or otherwise disposed of.".
 
-Pmdaan
+<!-- marginal: Pmdaan -->
 
-14. Seksyen 115 Akta ibu adalah dipinda— seksyen 115.
+14. Seksyen 115 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 115. -->
 
 (a) dengan memasukkan, selepas sahaja perkataan- perkataan "section 127 (1A)" dalam perenggan (b) subseksyen (1), perkataan-perkataan "or 128 (4)"; dan
 
 (b) dengan memasukkan, selepas sahaja perkataan "perishable" dalam perenggan (c) subseksyen itu, perkataan-perkataan "or dangerous".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-15. Seksyen 127 Akta ibu adalah dipinda dengan memasukkan seksyen 127. selepas sahaja perkataan "paragraph" dalam barisan pertama subseksyen (1A) perkataan-perkataan "(a) or".
+15. Seksyen 127 Akta ibu adalah dipinda dengan memasukkan
 
-Penggantian
+<!-- marginal: seksyen 127. -->
 
-16. Akta ibu adalah dipinda dengan menggantikan seksyen seksyen 128. 128 dengan yang berikut:
+selepas sahaja perkataan "paragraph" dalam barisan pertama subseksyen (1A) perkataan-perkataan "(a) or".
+
+<!-- marginal: Penggantian -->
+
+16. Akta ibu adalah dipinda dengan menggantikan seksyen
+
+<!-- marginal: seksyen 128. -->
+
+128 dengan yang berikut:
 
 "Goods 128. (1) If there be no prosecution with regard to seized any goods seized under this Act, such goods or the or in respect of proceeds of sale of such goods which are held which there pursuant to paragraph (c) of subsection (1) of section is no prosecution, 115 shall be taken and deemed to be forfeited at the or the expiration of one calendar month from the date of proceeds of sale seizure of the goods unless before such expiration— thereof, are forfeited
 
@@ -168,9 +260,7 @@ Penggantian
 
 (4) The Magistrate of the First Class shall issue a summons requiring the person asserting that he is the owner of the goods or the proceeds of sale of such goods, and the person from whom the goods were seized, to appear before him, and upon their appearance or default to appear, due service of such summons being proved, the Magistrate of the First Class shall proceed to the examination of the matter, and upon proof that an offence against this Act or any regulations made thereunder has been com- mitted and that such goods were the subject matter, or were used in the commission, of such offence, shall order such goods or the proceeds of sale of such goods or the amount secured under paragraph
 
-(a) or (b) of subsection (1) of section 115, as the case may be, to be forfeited, or in the absence of such proof, may order the release of such goods or the proceeds of sale of such goods or the security furnished under paragraph (a) or (b) of subsection
-
-(1) of section 115, as the case may be.
+(a) or (b) of subsection (1) of section 115, as the case may be, to be forfeited, or in the absence of such proof, may order the release of such goods or the proceeds of sale of such goods or the security furnished under paragraph (a) or (b) of subsection (1) of section 115, as the case may be.
 
 (5) In any proceedings under subsection (4), section 119 shall apply to the person asserting that he is the owner of the goods and to the person from whom they were seized as if such owner or person had been the defendant in a prosecution under this Act.".
 
@@ -178,9 +268,13 @@ Penggantian
 
 ## 8 RANG UNDANG-UNDANG
 
-Penggantian
+<!-- marginal: Penggantian -->
 
-17. Akta ibu adalah dipinda dengan menggantikan seksyen seksyen 129. 129 dengan yang berikut:
+17. Akta ibu adalah dipinda dengan menggantikan seksyen
+
+<!-- marginal: seksyen 129. -->
+
+129 dengan yang berikut:
 
 "Goods or, 129. The Minister may, upon application made to amount him in writing through the Director General, order— secured maybe delivered or
 
@@ -194,9 +288,11 @@ whether forfeited, or taken and deemed to be forfeited pursuant to section 127 o
 
 Provided that any such application shall be made before the expiration of one calendar month from the date on which such goods or amount are forfeited or are taken and deemed to be forfeited, as the case may be.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-18. Seksyen 131 Akta ibu adalah dipinda— seksyen 131.
+18. Seksyen 131 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 131. -->
 
 (a) dengan menggantikan perkataan "two" dalam subseksyen (1) dengan perkataan "five"; dan
 
@@ -204,15 +300,21 @@ Pindaan
 
 "Provided that where the prohibition is conditional upon a licence being issued in respect of the import of such goods, a senior officer of customs may release such goods if a licence is subsequently issued by any relevant authority.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-19. Seksyen 138 Akta ibu adalah dipinda dengan mengganti- seksyen 138. kan perkataan "four" dengan perkataan "five".
+19. Seksyen 138 Akta ibu adalah dipinda dengan mengganti-
+
+<!-- marginal: seksyen 138. -->
+
+kan perkataan "four" dengan perkataan "five".
 
 <!-- page 9 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-20. Seksyen 142 Akta ibu adalah dipinda— seksyen 142.
+20. Seksyen 142 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 142. -->
 
 (a) dengan memasukkan, selepas sahaja perenggan (34), perenggan baru (35) yang berikut:
 

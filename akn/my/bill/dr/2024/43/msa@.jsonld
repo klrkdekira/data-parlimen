@@ -182,7 +182,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/43/msa@/~cl_3",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (2)— Pindaan seksyen 86"
+        "@value": "dalam subseksyen (2)—"
       }
     },
     {
@@ -212,7 +212,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/43/msa@/~cl_3__para_d",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan perkataan “satu tahun” dengan perkataan “sepuluh tahun”."
+        "@value": "dengan menggantikan perkataan “satu tahun” dengan perkataan “sepuluh tahun”. Pindaan seksyen 86"
       }
     },
     {
@@ -385,7 +385,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/43/msa@/~cl_7",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan— Pindaan seksyen 123"
+        "@value": "dengan menggantikan—"
       }
     },
     {
@@ -405,7 +405,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/43/msa@/~cl_7__para_c",
       "schema:text": {
         "@language": "ms",
-        "@value": "perkataan “enam bulan” dengan perkataan “sepuluh tahun”."
+        "@value": "perkataan “enam bulan” dengan perkataan “sepuluh tahun”. Pindaan seksyen 123"
       }
     },
     {

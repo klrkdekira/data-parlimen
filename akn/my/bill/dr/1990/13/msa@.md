@@ -22,17 +22,27 @@ oleh Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong dengan nasih
 
 (2) Wang yang tersebut itu adalah diperuntukkan bagi maksud-maksud yang dinyatakan dalam Jadual Pertama.
 
-Perbelanjaan 3. (1) Maka adalah dibenarkan supaya dikeluarkan se- tambahan jumlah wang yang tidak melebihi satu ratus dua puluh dua bagi tahun 1990. juta dua ratus empat puluh tiga ribu empat ratus ringgit ($122,243,400) daripada Kumpulan Wang Disatukan bagi perbelanjaan untuk perkhidmatan-perkhidmatan yang dinyatakan dalam Jadual Kedua bagi perkhidmatan tahun 1990, yang tidak diperuntukkan atau yang tidak diperuntuk- Akta A744. kan dengan sepenuhnya oleh Akta Perbekalan 1990.
+<!-- marginal: Perbelanjaan -->
+
+3. (1) Maka adalah dibenarkan supaya dikeluarkan se-
+
+<!-- marginal: tambahan -->
+
+jumlah wang yang tidak melebihi satu ratus dua puluh dua
+
+<!-- marginal: bagi tahun -->
+
+1990. juta dua ratus empat puluh tiga ribu empat ratus ringgit ($122,243,400) daripada Kumpulan Wang Disatukan bagi perbelanjaan untuk perkhidmatan-perkhidmatan yang dinyatakan dalam Jadual Kedua bagi perkhidmatan tahun 1990, yang tidak diperuntukkan atau yang tidak diperuntuk-
+
+<!-- marginal: Akta A744. -->
+
+kan dengan sepenuhnya oleh Akta Perbekalan 1990.
 
 (2) Wang yang tersebut itu adalah diperuntukkan bagi maksud-maksud yang dinyatakan dalam Jadual Kedua.
 
 ## JADUAL PERTAMA
 
-<!-- marginal: {Seksyen 2) -->
-
-Maksud
-
-<!-- marginal: Tajuk -->
+{Seksyen 2) Maksud Tajuk
 
 <!-- marginal: Peruntukan -->
 
@@ -48,17 +58,13 @@ B. 30 Peruntukan kepada Kumpulan Wang
 
 Terkanun
 
-<!-- marginal: JUMLAH -->
+## JUMLAH
 
-<!-- marginal: 1,252,478,700 -->
+1,252,478,700
 
 ## JADUAL KEDUA
 
-<!-- marginal: (Seksyen 3) -->
-
-Maksud
-
-<!-- marginal: Tajuk -->
+(Seksyen 3) Maksud Tajuk
 
 <!-- marginal: Peruntukan -->
 
@@ -96,7 +102,7 @@ B. 57 Jabatan Setiausaha Persekutuan Sarawak
 
 <!-- marginal: 632,800 -->
 
-<!-- marginal: JUMLAH -->
+## JUMLAH
 
 <!-- marginal: 122,243.400 -->
 
@@ -108,6 +114,4 @@ B. 57 Jabatan Setiausaha Persekutuan Sarawak
 
 ## HURAIAN
 
-Tujuan Rang Undang-Undang ini ialah untuk memberikan kuasa ber- kanun supaya beberapa pembayaran tambahan tertentu dibuat untuk perkhidmatan-perkhidmatan awam persekutuan dalam tahun 1989 dan 1990 melebihi perbelanjaan yang dibenarkan oleh Akta Perbekalan 1989, Akta Perbekalan Tambahan (1988 dan 1989) 1989, Akta Perbekalan Tambahan (1988 dan 1989) 1990, Akta Perbekalan Tambahan (1989) 1990 dan Akta Perbekalan 1990.
-
-<!-- marginal: [PN.(U2) 1621.] -->
+Tujuan Rang Undang-Undang ini ialah untuk memberikan kuasa ber- kanun supaya beberapa pembayaran tambahan tertentu dibuat untuk perkhidmatan-perkhidmatan awam persekutuan dalam tahun 1989 dan 1990 melebihi perbelanjaan yang dibenarkan oleh Akta Perbekalan 1989, Akta Perbekalan Tambahan (1988 dan 1989) 1989, Akta Perbekalan Tambahan (1988 dan 1989) 1990, Akta Perbekalan Tambahan (1989) 1990 dan Akta Perbekalan 1990. [PN.(U2) 1621.]

@@ -48,11 +48,7 @@ Now, THEREFORE, pursuant to Clause (4) of Article 76 of the Federal Constitution
 
 ' "building plans" means plans that include site plans, key plans, floor plans, sections and elevations as set out specifically in any by-laws made under this Act;';
 
-(b) by substituting for the definition of "Certificate of fitness for occupation, temporary certificate of fitness
-
-<!-- marginal: for -->
-
-occupation and partial certificate of fitness for occupation" the following definition:
+(b) by substituting for the definition of "Certificate of fitness for occupation, temporary certificate of fitness for occupation and partial certificate of fitness for occupation" the following definition:
 
 ' "certificate of completion and compliance" means the certificate given or granted under any by-laws made under this Act;';
 

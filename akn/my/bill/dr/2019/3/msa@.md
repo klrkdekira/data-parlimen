@@ -880,7 +880,9 @@ bagi atau berkenaan dengan apa-apa perbuatan, pengabaian atau keingkaran yang di
 
 (3) Tiada pernyataan yang dibuat atau dokumen yang dikemukakan oleh atau bagi pihak mana-mana orang tidak boleh diterima dalam keterangan terhadap orang itu dalam apa-apa prosiding terhadapnya yang seksyen ini terpakai baginya semata-mata oleh sebab bahawa orang itu telah atau mungkin telah didorong untuk membuat pernyataan itu atau mengemukakan dokumen itu atas apa-apa dorongan atau janji yang diberi atau dibuat secara sah oleh mana-mana orang yang mempunyai apa-apa kewajipan rasmi di bawah, atau diambil kerja dalam pentadbiran Akta ini.
 
-(4) Tiada apa-apa jua dalam Akta ini boleh menjejaskan perjalanan kuat kuasa Bab IX Bahagian III Akta Keterangan 1950.
+(4) Tiada apa-apa jua dalam Akta ini boleh menjejaskan perjalanan kuat kuasa Bab IX Bahagian III Akta Keterangan
+
+1950.
 
 (5) Bagi maksud perenggan 74(1)(e), seksyen 74b dan 74c, jika dalam apa-apa prosiding dibuktikan bahawa apa-apa pernyataan atau catatan palsu telah dibuat dalam apa-apa akuan yang diberikan di bawah Akta ini oleh atau bagi pihak mana-mana orang, atau dalam apa-apa buku akaun atau rekod mana-mana orang—
 
@@ -1194,11 +1196,11 @@ melebihi sepuluh ribu ringgit … enam bulan”; dan tetapi tidak melebihi dua p
 
 78. Seksyen 91m Akta ibu dipinda dengan menggantikan perkataan “vessel atau pesawat udara” di mana-mana jua terdapat dengan perkataan “kenderaan, vesel atau kapal udara”.
 
-## Bahagian XVd baharu
+### Bahagian XVd baharu
 
 79. Akta ibu dipinda dengan memasukkan selepas Bahagian XVc Bahagian yang berikut:
 
-“bahagian XVd
+## “BAHAGIAN XVD
 
 ## PERUNTUKAN KHAS BERKENAAN DENGAN PANGKOR
 
@@ -1250,9 +1252,7 @@ melebihi sepuluh ribu ringgit … enam bulan”; dan tetapi tidak melebihi dua p
 
 ### atau ke kawasan utama kastam
 
-### 91v.
-
-Jika barang-barang diangkut—
+91V. Jika barang-barang diangkut—
 
 (a) dari Pangkor ke kawasan utama kastam; atau
 

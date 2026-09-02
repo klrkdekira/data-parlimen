@@ -106,7 +106,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Tajuk ringkas dan permulaan kuat kuasa
 
-1. (1) Akta ini bolehlah dinamakan Akta Rukun Tetangga 2012.
+1. (1) Akta ini bolehlah dinamakan Akta Rukun Tetangga
+
+2012.
 
 (2) Akta ini mula berkuat kuasa pada 22 Jun 2012.
 

@@ -12,31 +12,35 @@ Kesan Penyakit Koronavirus 2019 (COVID-19)
 
 ## SUSUNAN FASAL
 
-## Bahagian i
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Pengubahsuaian kepada Akta dan Ordinan 3. Undang-undang yang mengatasi 4. Sebutan mengenai COVID-19
 
-## Bahagian II
+## BAHAGIAN II
 
 ## KETIDAKUPAYAAN UNTUK MELAKSANAKAN OBLIGASI
 
 ## KONTRAKTUAL
 
-5. Permulaan kuat kuasa Bahagian ini 6. Tafsiran 7. Ketidakupayaan untuk melaksanakan obligasi kontraktual 8. Kuasa untuk meminda Jadual 9. Pengantaraan 10. Kecualian
+5. Permulaan kuat kuasa Bahagian ini 6. Tafsiran 7. Ketidakupayaan untuk melaksanakan obligasi kontraktual 8. Kuasa untuk meminda Jadual 9. Pengantaraan
+
+10. Kecualian
 
 ## JADUAL
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PENGUBAHSUAIAN KEPADA AKTA HAD MASA 1953
 
-11. Permulaan kuat kuasa pengubahsuaian kepada Akta Had Masa 1953 12. Tempoh had masa dalam seksyen 6 dilanjutkan
+11. Permulaan kuat kuasa pengubahsuaian kepada Akta Had Masa 1953
+
+12. Tempoh had masa dalam seksyen 6 dilanjutkan
 
 <!-- page 2 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PENGUBAHSUAIAN KEPADA ORDINAN HAD MASA SABAH
 
@@ -44,7 +48,7 @@ Kesan Penyakit Koronavirus 2019 (COVID-19)
 
 14. Tempoh had masa dilanjutkan
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PENGUBAHSUAIAN KEPADA ORDINAN HAD MASA SARAWAK
 
@@ -52,7 +56,7 @@ Kesan Penyakit Koronavirus 2019 (COVID-19)
 
 16. Tempoh had masa dilanjutkan
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PENGUBAHSUAIAN KEPADA AKTA PERLINDUNGAN PIHAK
 
@@ -62,7 +66,7 @@ Kesan Penyakit Koronavirus 2019 (COVID-19)
 
 18. Tempoh had masa dalam seksyen 2 dilanjutkan
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PENGUBAHSUAIAN KEPADA AKTA INSOLVENSI 1967
 
@@ -72,7 +76,7 @@ Kesan Penyakit Koronavirus 2019 (COVID-19)
 
 21. Kecualian
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## PENGUBAHSUAIAN KEPADA AKTA SEWA BELI 1967
 
@@ -86,35 +90,59 @@ Kesan Penyakit Koronavirus 2019 (COVID-19)
 
 Kesan Penyakit Koronavirus 2019 (COVID-19)
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## PENGUBAHSUAIAN KEPADA AKTA PERLINDUNGAN PENGGUNA 1999
 
-25. Permulaan kuat kuasa pengubahsuaian kepada Akta Perlindungan Pengguna 1999 26. Pengubahsuaian kepada seksyen 24v 27. Kecualian 28. Pengubahsuaian kepada seksyen 99
+25. Permulaan kuat kuasa pengubahsuaian kepada Akta Perlindungan Pengguna 1999
 
-## Bahagian X
+26. Pengubahsuaian kepada seksyen 24v
+
+27. Kecualian
+
+28. Pengubahsuaian kepada seksyen 99
+
+## BAHAGIAN X
 
 ## PENGUBAHSUAIAN KEPADA AKTA DISTRES 1951
 
-29. Permulaan kuat kuasa pengubahsuaian kepada Akta Distres 1951 30. Pengubahsuaian kepada seksyen 5 31. Kecualian
+29. Permulaan kuat kuasa pengubahsuaian kepada Akta Distres 1951
 
-## Bahagian XI
+30. Pengubahsuaian kepada seksyen 5
+
+31. Kecualian
+
+## BAHAGIAN XI
 
 ## PENGUBAHSUAIAN KEPADA AKTA PEMAJUAN PERUMAHAN
 
 ## (KAWALAN DAN PELESENAN) 1966
 
-32. Permulaan kuat kuasa pengubahsuaian kepada Akta Pemajuan Perumahan (Kawalan dan Pelesenan) 1966 33. Tafsiran 34. Caj pembayaran lewat 35. Penyerahan pemilikan kosong dan ganti rugi jumlah tertentu 36. Tempoh liabiliti kecacatan 37. Kecualian 38. Pengubahsuaian kepada seksyen 16n
+32. Permulaan kuat kuasa pengubahsuaian kepada Akta Pemajuan Perumahan (Kawalan dan Pelesenan) 1966
 
-## Bahagian XII
+33. Tafsiran
+
+34. Caj pembayaran lewat
+
+35. Penyerahan pemilikan kosong dan ganti rugi jumlah tertentu
+
+36. Tempoh liabiliti kecacatan
+
+37. Kecualian
+
+38. Pengubahsuaian kepada seksyen 16n
+
+## BAHAGIAN XII
 
 ## PENGUBAHSUAIAN KEPADA AKTA PERHUBUNGAN PERUSAHAAN 1967
 
-39. Permulaan kuat kuasa pengubahsuaian kepada Akta Perhubungan Perusahaan 1967 40. Tempoh bagi pemberian pengiktirafan, membuat laporan dan pemfailan representasi
+39. Permulaan kuat kuasa pengubahsuaian kepada Akta Perhubungan Perusahaan 1967
+
+40. Tempoh bagi pemberian pengiktirafan, membuat laporan dan pemfailan representasi
 
 <!-- page 4 -->
 
-## Bahagian XIII
+## BAHAGIAN XIII
 
 ## PENGUBAHSUAIAN KEPADA AKTA AGENSI PEKERJAAN SWASTA 1981
 
@@ -122,7 +150,7 @@ Kesan Penyakit Koronavirus 2019 (COVID-19)
 
 42. Tempoh masa bagi pembaharuan lesen di bawah seksyen 11
 
-## Bahagian XIV
+## BAHAGIAN XIV
 
 ## PENGUBAHSUAIAN KEPADA AKTA PENGANGKUTAN AWAM DARAT 2010
 
@@ -132,7 +160,7 @@ Kesan Penyakit Koronavirus 2019 (COVID-19)
 
 45. Pengubahsuaian kepada seksyen 56
 
-## Bahagian XV
+## BAHAGIAN XV
 
 ## PENGUBAHSUAIAN KEPADA AKTA LEMBAGA PELESENAN
 
@@ -144,7 +172,7 @@ Kesan Penyakit Koronavirus 2019 (COVID-19)
 
 48. Pengubahsuaian kepada seksyen 24
 
-## Bahagian XVI
+## BAHAGIAN XVI
 
 ## PENGUBAHSUAIAN KEPADA AKTA MAHKAMAH KEHAKIMAN 1964
 
@@ -160,7 +188,7 @@ Kesan Penyakit Koronavirus 2019 (COVID-19)
 
 Kesan Penyakit Koronavirus 2019 (COVID-19)
 
-## Bahagian XVII
+## BAHAGIAN XVII
 
 ## PENGUBAHSUAIAN KEPADA AKTA MAHKAMAH RENDAH 1948
 
@@ -168,7 +196,7 @@ Kesan Penyakit Koronavirus 2019 (COVID-19)
 
 54. Seksyen baharu 3a
 
-## Bahagian XVIII
+## BAHAGIAN XVIII
 
 ## PENGUBAHSUAIAN KEPADA AKTA KAEDAH-KAEDAH
 
@@ -178,7 +206,7 @@ Kesan Penyakit Koronavirus 2019 (COVID-19)
 
 56. Pengubahsuaian kepada seksyen 3
 
-## Bahagian XIX
+## BAHAGIAN XIX
 
 ## PELBAGAI
 
@@ -200,7 +228,7 @@ Suatu Akta untuk mengadakan peruntukan bagi langkah-langkah sementara untuk meng
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -236,7 +264,7 @@ Kesan Penyakit Koronavirus 2019 (COVID-19)
 
 4. Dalam Akta ini, apa-apa sebutan mengenai “COVID-19” ialah sebutan mengenai “Penyakit Koronavirus 2019 (COVID-19)”.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## KETIDAKUPAYAAN UNTUK MELAKSANAKAN OBLIGASI
 
@@ -312,7 +340,7 @@ Kesan Penyakit Koronavirus 2019 (COVID-19)
 
 <!-- page 12 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PENGUBAHSUAIAN KEPADA AKTA HAD MASA 1953
 
@@ -326,7 +354,7 @@ Kesan Penyakit Koronavirus 2019 (COVID-19)
 
 12. Apa-apa tempoh had masa yang dinyatakan dalam seksyen 6 Akta Had Masa 1953 yang habis tempoh semasa tempoh dari 18 Mac 2020 hingga 31 Ogos 2020 hendaklah dilanjutkan hingga 31 Disember 2020.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PENGUBAHSUAIAN KEPADA ORDINAN HAD MASA SABAH
 
@@ -340,7 +368,7 @@ Kesan Penyakit Koronavirus 2019 (COVID-19)
 
 14. Apa-apa tempoh had masa yang dinyatakan dalam perenggan 1 hingga 4, subperenggan 5(a), perenggan 8, perenggan 10 hingga 33, perenggan 35 hingga 79, perenggan 83 hingga 88, perenggan 90 hingga 95 dan perenggan 98, 100, 106, 107, 111 dan 113 dalam Jadual kepada Ordinan Had Masa Sabah yang habis tempoh semasa tempoh dari 18 Mac 2020 hingga 31 Ogos 2020 hendaklah dilanjutkan hingga 31 Disember 2020.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PENGUBAHSUAIAN KEPADA ORDINAN HAD MASA SARAWAK
 
@@ -358,7 +386,7 @@ Kesan Penyakit Koronavirus 2019 (COVID-19)
 
 16. Apa-apa tempoh had masa yang dinyatakan dalam perenggan 1 hingga 4, subperenggan 5(a), perenggan 8 hingga 29, perenggan 31 dan 32, perenggan 34 hingga 78, perenggan 82 hingga 94 dan perenggan 96, 98, 100, 106, 107, 111 dan 113 dalam Jadual kepada Ordinan Had Masa Sarawak yang habis tempoh semasa tempoh dari 18 Mac 2020 hingga 31 Ogos 2020 hendaklah dilanjutkan hingga 31 Disember 2020.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PENGUBAHSUAIAN KEPADA AKTA PERLINDUNGAN PIHAK
 
@@ -374,7 +402,7 @@ Kesan Penyakit Koronavirus 2019 (COVID-19)
 
 18. Tempoh had masa yang dinyatakan dalam perenggan 2(a) Akta Perlindungan Pihak Berkuasa Awam 1948 yang habis tempoh semasa tempoh dari 18 Mac 2020 hingga 31 Ogos 2020 hendaklah dilanjutkan hingga 31 Disember 2020.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PENGUBAHSUAIAN KEPADA AKTA INSOLVENSI 1967
 
@@ -408,7 +436,7 @@ Kesan Penyakit Koronavirus 2019 (COVID-19)
 
 Kesan Penyakit Koronavirus 2019 (COVID-19)
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## PENGUBAHSUAIAN KEPADA AKTA SEWA BELI 1967
 
@@ -440,7 +468,7 @@ Kesan Penyakit Koronavirus 2019 (COVID-19)
 
 24. Walau apa pun seksyen 19, mana-mana pemunya yang telah menjalankan kuasanya untuk mengambil milikan barangan yang terkandung dalam suatu perjanjian sewa beli di bawah seksyen 16 Akta Sewa Beli 1967 sebelum tarikh penyiaran Akta ini, hendaklah disifatkan telah menjalankan dengan sah kuasa untuk mengambil milikan barangan itu seolah-olah Akta Sewa Beli 1967 tidak diubah suai oleh Akta ini.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## PENGUBAHSUAIAN KEPADA AKTA PERLINDUNGAN
 
@@ -492,7 +520,7 @@ Kesan Penyakit Koronavirus 2019 (COVID-19)
 
 28. Tempoh pengehadan yang dinyatakan dalam subseksyen 99(2) Akta Perlindungan Pengguna 1999 yang habis tempoh semasa tempoh dari 18 Mac 2020 hingga 15 Jun 2020 hendaklah dilanjutkan hingga 31 Disember 2020.
 
-## Bahagian X
+## BAHAGIAN X
 
 ## PENGUBAHSUAIAN KEPADA AKTA DISTRES 1951
 
@@ -512,7 +540,7 @@ Kesan Penyakit Koronavirus 2019 (COVID-19)
 
 Kesan Penyakit Koronavirus 2019 (COVID-19)
 
-## Bahagian XI
+## BAHAGIAN XI
 
 ## PENGUBAHSUAIAN KEPADA AKTA PEMAJUAN PERUMAHAN
 
@@ -584,7 +612,7 @@ Kesan Penyakit Koronavirus 2019 (COVID-19)
 
 38. Walau apa pun subseksyen 16n(2) Akta Pemajuan Perumahan (Kawalan dan Pelesenan) 1966, jika tempoh had masa bagi pembeli rumah untuk memfailkan suatu tuntutan telah habis tempoh semasa tempoh dari 18 Mac 2020 hingga 9 Jun 2020, pembeli rumah itu berhak untuk memfailkan tuntutan itu dari 4 Mei 2020 hingga 31 Disember 2020 dan Tribunal Tuntutan Pembeli Rumah hendaklah mempunyai bidang kuasa untuk mendengar tuntutan itu.
 
-## Bahagian XII
+## BAHAGIAN XII
 
 ## PENGUBAHSUAIAN KEPADA AKTA PERHUBUNGAN
 
@@ -602,7 +630,7 @@ Kesan Penyakit Koronavirus 2019 (COVID-19)
 
 40. Tempoh dari 18 Mac 2020 hingga 9 Jun 2020 hendaklah dikecualikan daripada pengiraan tempoh di bawah Akta Perhubungan Perusahaan 1967 bagi pemberian pengiktirafan atau pemberitahuan secara bertulis kepada kesatuan sekerja pekerja alasan-alasan untuk tidak memberi pengiktirafan yang berkenaan di bawah subseksyen 9(3), membuat suatu laporan secara bertulis kepada Ketua Pengarah Perhubungan Perusahaan di bawah subseksyen 9(4) dan pemfailan representasi di bawah subseksyen 20(1a).
 
-## Bahagian XIII
+## BAHAGIAN XIII
 
 ## PENGUBAHSUAIAN KEPADA AKTA AGENSI PEKERJAAN
 
@@ -622,7 +650,7 @@ Kesan Penyakit Koronavirus 2019 (COVID-19)
 
 42. Tempoh dari 18 Mac 2020 hingga 9 Jun 2020 hendaklah dikecualikan daripada pengiraan tempoh bagi permohonan untuk membaharui lesen di bawah subseksyen 11(1) Akta Agensi Pekerjaan Swasta 1981.
 
-## Bahagian XIV
+## BAHAGIAN XIV
 
 ## PENGUBAHSUAIAN KEPADA AKTA PENGANGKUTAN
 
@@ -688,7 +716,7 @@ yang tidak melebihi dua belas bulan untuk pengendali berlesen bagi kelas kendera
 
 (4) Apa-apa kenderaan barangan yang dibenarkan untuk digunakan bagi maksud kenderaan pelancongan hendaklah dikendalikan oleh pengendali pelancongan berlesen di bawah Akta Industri Pelancongan 1992 [Akta 482].”.
 
-## Bahagian XV
+## BAHAGIAN XV
 
 ## PENGUBAHSUAIAN KEPADA AKTA LEMBAGA PELESENAN
 
@@ -754,7 +782,7 @@ Kesan Penyakit Koronavirus 2019 (COVID-19)
 
 <!-- page 28 -->
 
-## Bahagian XVI
+## BAHAGIAN XVI
 
 ## PENGUBAHSUAIAN KEPADA AKTA MAHKAMAH
 
@@ -798,7 +826,7 @@ Kesan Penyakit Koronavirus 2019 (COVID-19)
 
 52. Subseksyen 17a(1) Akta Mahkamah Kehakiman 1964 diubah suai dengan memotong perkataan “tetapi supaya ada sekurang-kurangnya satu mesyuarat pada setiap tahun”.
 
-## Bahagian XVII
+## BAHAGIAN XVII
 
 ## PENGUBAHSUAIAN KEPADA AKTA MAHKAMAH
 
@@ -822,7 +850,7 @@ Kesan Penyakit Koronavirus 2019 (COVID-19)
 
 3a. Ketua Hakim Negara boleh, jika Ketua Hakim Negara berpendapat bahawa hal keadaan mewajarkan dan adalah perlu demi kepentingan pelaksanaan keadilan, kesejahteraan awam, keselamatan awam, kesihatan atau kesusilaan awam atau bagi sebab lain yang mencukupi untuk berbuat demikian, mengeluarkan apa-apa arahan yang berhubungan dengan urusan Mahkamah Rendah sebagaimana yang perlu.”.
 
-## Bahagian XVIII
+## BAHAGIAN XVIII
 
 ## PENGUBAHSUAIAN KEPADA AKTA KAEDAH-KAEDAH
 
@@ -846,7 +874,7 @@ Kesan Penyakit Koronavirus 2019 (COVID-19)
 
 untuk berbuat demikian, mengubah suai mana-mana peruntukan kaedah-kaedah mahkamah atau menggantung pemakaian kaedah-kaedah mahkamah itu sebagaimana yang perlu untuk melakukan keadilan sepenuhnya dalam apa-apa kausa atau perkara yang belum selesai di hadapan Mahkamah dan untuk memastikan bahawa pentadbiran keadilan dilaksanakan.”.
 
-## Bahagian XIX
+## BAHAGIAN XIX
 
 ## PELBAGAI
 
@@ -880,7 +908,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk menyokong P
 
 Kesan Penyakit Koronavirus 2019 (COVID-19)
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -890,7 +918,7 @@ Kesan Penyakit Koronavirus 2019 (COVID-19)
 
 4. Fasal 3 bertujuan untuk memperuntukkan bahawa Akta yang dicadangkan hendaklah mengatasi mana-mana undang-undang bertulis lain sekiranya terdapat apa-apa percanggahan atau ketidakselarasan.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## KETIDAKUPAYAAN UNTUK MELAKSANAKAN OBLIGASI KONTRAKTUAL
 
@@ -912,7 +940,7 @@ Subfasal (3) hingga (5) bertujuan untuk memperkatakan tentang penyelesaian perti
 
 <!-- page 34 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PENGUBAHSUAIAN KEPADA AKTA HAD MASA 1953
 
@@ -920,7 +948,7 @@ Subfasal (3) hingga (5) bertujuan untuk memperkatakan tentang penyelesaian perti
 
 12. Fasal 12 bertujuan untuk melanjutkan tempoh had masa dalam seksyen 6 Akta Had Masa 1953.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PENGUBAHSUAIAN KEPADA ORDINAN HAD MASA SABAH
 
@@ -928,7 +956,7 @@ Subfasal (3) hingga (5) bertujuan untuk memperkatakan tentang penyelesaian perti
 
 14. Fasal 14 bertujuan untuk melanjutkan tempoh had masa dalam perenggan yang berkaitan dalam Jadual kepada Ordinan Had Masa Sabah.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PENGUBAHSUAIAN KEPADA ORDINAN HAD MASA SARAWAK
 
@@ -936,7 +964,7 @@ Subfasal (3) hingga (5) bertujuan untuk memperkatakan tentang penyelesaian perti
 
 16. Fasal 16 bertujuan untuk melanjutkan tempoh had masa dalam perenggan yang berkaitan dalam Jadual kepada Ordinan Had Masa Sarawak.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## PENGUBAHSUAIAN KEPADA AKTA PERLINDUNGAN PIHAK
 
@@ -946,7 +974,7 @@ Subfasal (3) hingga (5) bertujuan untuk memperkatakan tentang penyelesaian perti
 
 18. Fasal 18 bertujuan untuk melanjutkan tempoh had masa dalam seksyen 2 Akta Perlindungan Pihak Berkuasa Awam 1948.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PENGUBAHSUAIAN KEPADA AKTA INSOLVENSI 1967
 
@@ -960,7 +988,7 @@ Kesan Penyakit Koronavirus 2019 (COVID-19)
 
 21. Fasal 21 bertujuan untuk mengadakan peruntukan bagi kecualian.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## PENGUBAHSUAIAN KEPADA AKTA SEWA BELI 1967
 
@@ -970,7 +998,7 @@ Kesan Penyakit Koronavirus 2019 (COVID-19)
 
 24. Fasal 24 bertujuan untuk mengadakan peruntukan bagi kecualian.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## PENGUBAHSUAIAN KEPADA AKTA PERLINDUNGAN PENGGUNA 1999
 
@@ -998,7 +1026,7 @@ Subfasal 26(2) bertujuan untuk memperuntukkan bahawa seksyen 24v Akta Perlindung
 
 28. Fasal 28 bertujuan untuk melanjutkan tempoh had masa di bawah subseksyen 99(2) Akta Perlindungan Pengguna 1999.
 
-## Bahagian X
+## BAHAGIAN X
 
 ## PENGUBAHSUAIAN KEPADA AKTA DISTRES 1951
 
@@ -1008,7 +1036,7 @@ Subfasal 26(2) bertujuan untuk memperuntukkan bahawa seksyen 24v Akta Perlindung
 
 31. Fasal 31 bertujuan untuk mengadakan peruntukan bagi kecualian.
 
-## Bahagian XI
+## BAHAGIAN XI
 
 ## PENGUBAHSUAIAN KEPADA AKTA PEMAJUAN PERUMAHAN
 
@@ -1044,7 +1072,7 @@ Subfasal 36(2) dan (3) bertujuan untuk memperkatakan tentang permohonan bagi pel
 
 37. Fasal 38 bertujuan untuk mengubah suai tempoh had masa bagi pembeli rumah memfailkan suatu tuntutan di bawah subseksyen 16n(2) Akta Pemajuan Perumahan (Kawalan dan Pelesenan) 1966.
 
-## Bahagian XII
+## BAHAGIAN XII
 
 ## PENGUBAHSUAIAN KEPADA AKTA PERHUBUNGAN PERUSAHAAN 1967
 
@@ -1054,7 +1082,7 @@ Subfasal 36(2) dan (3) bertujuan untuk memperkatakan tentang permohonan bagi pel
 
 <!-- page 38 -->
 
-## Bahagian XIII
+## BAHAGIAN XIII
 
 ## PENGUBAHSUAIAN KEPADA AKTA AGENSI PEKERJAAN SWASTA 1981
 
@@ -1062,7 +1090,7 @@ Subfasal 36(2) dan (3) bertujuan untuk memperkatakan tentang permohonan bagi pel
 
 41. Fasal 42 bertujuan untuk mengecualikan tempoh dari 18 Mac 2020 hingga 9 Jun 2020 daripada pengiraan tempoh bagi permohonan untuk membaharui lesen di bawah subseksyen 11(1) Akta Agensi Pekerjaan Swasta 1981.
 
-## Bahagian XIV
+## BAHAGIAN XIV
 
 ## PENGUBAHSUAIAN KEPADA AKTA PENGANGKUTAN AWAM DARAT 2010
 
@@ -1072,7 +1100,7 @@ Subfasal 36(2) dan (3) bertujuan untuk memperkatakan tentang permohonan bagi pel
 
 44. Fasal 45 bertujuan untuk menggantikan seksyen 56 Akta Pengangkutan Awam Darat 2010 untuk membolehkan Ketua Pengarah Pengangkutan Awam Darat membenarkan mana-mana pengendali berlesen kenderaan barangan menggunakan secara sementara kenderaan itu sebagai kenderaan perkhidmatan awam, kenderaan pelancongan atau kenderaan barangan daripada mana-mana kelas lain.
 
-## Bahagian XV
+## BAHAGIAN XV
 
 ## PENGUBAHSUAIAN KEPADA AKTA LEMBAGA PELESENAN KENDERAAN
 
@@ -1088,7 +1116,7 @@ Kesan Penyakit Koronavirus 2019 (COVID-19)
 
 47. Fasal 48 bertujuan untuk menggantikan seksyen 24 Akta Lembaga Pelesenan Kenderaan Perdagangan 1987 untuk membolehkan Lembaga Pelesenan Kenderaan Perdagangan membenarkan pemegang suatu lesen pembawa kenderaan ‘C’ atau kenderaan ‘A’ untuk menggunakan kenderaan itu bagi maksud kenderaan perkhidmatan awam atau kenderaan barangan daripada mana-mana kelas lain.
 
-## Bahagian XVI
+## BAHAGIAN XVI
 
 ## PENGUBAHSUAIAN KEPADA AKTA MAHKAMAH KEHAKIMAN 1964
 
@@ -1104,7 +1132,7 @@ Subfasal 51(c) bertujuan untuk memasukkan subseksyen baharu (8) ke dalam seksyen
 
 51. Fasal 52 bertujuan untuk mengubah suai subseksyen 17a(1) Akta Mahkamah Kehakiman 1964 untuk mengecualikan kehendak mandatori untuk memanggil Majlis Hakim sekurang-kurangnya satu mesyuarat pada setiap tahun.
 
-## Bahagian XVII
+## BAHAGIAN XVII
 
 ## PENGUBAHSUAIAN KEPADA AKTA MAHKAMAH RENDAH 1948
 
@@ -1114,7 +1142,7 @@ Subfasal 51(c) bertujuan untuk memasukkan subseksyen baharu (8) ke dalam seksyen
 
 53. Fasal 54 bertujuan untuk memasukkan seksyen baharu 3a ke dalam Akta Mahkamah Rendah 1948 bagi membolehkan Ketua Hakim Negara mengeluarkan arahan yang berhubungan dengan urusan Mahkamah Rendah bilamana Ketua Hakim Negara berpendapat bahawa ia adalah demi kepentingan pelaksanaan keadilan, kesihatan awam, dsb.
 
-## Bahagian XVIII
+## BAHAGIAN XVIII
 
 ## PENGUBAHSUAIAN KEPADA AKTA KAEDAH-KAEDAH
 
@@ -1124,7 +1152,7 @@ Subfasal 51(c) bertujuan untuk memasukkan subseksyen baharu (8) ke dalam seksyen
 
 55. Fasal 56 bertujuan untuk memasukkan subseksyen baharu (7) ke dalam seksyen 3 Akta Kaedah-Kaedah Mahkamah Rendah 1955 bagi membolehkan Ketua Hakim Negara untuk mengubah suai mana-mana peruntukan kaedah-kaedah mahkamah atau untuk menggantung pemakaian kaedah-kaedah itu sebagaimana yang perlu untuk melakukan keadilan sepenuhnya dalam mana-mana kausa atau perkara yang belum selesai di hadapan Mahkamah.
 
-## Bahagian XIX
+## BAHAGIAN XIX
 
 ## PELBAGAI
 

@@ -24,9 +24,13 @@ Appointment
 
 Panel of solicitors
 
-7. Panels of solicitors for legal aid 8. Panels of solicitors for public defence services 9. Payment for assigned solicitor 10. Removal of name of solicitor from panel of solicitors
+7. Panels of solicitors for legal aid 8. Panels of solicitors for public defence services 9. Payment for assigned solicitor
 
-11. Disciplinary committee for solicitor 12. Legal aid or public defence services cannot be terminated without permission
+10. Removal of name of solicitor from panel of solicitors
+
+11. Disciplinary committee for solicitor
+
+12. Legal aid or public defence services cannot be terminated without permission
 
 <!-- page 2 -->
 
@@ -80,19 +84,57 @@ Legal aid in civil and syariah proceedings
 
 <!-- page 3 -->
 
-25. Additional powers to issue legal aid certificate in civil and syariah proceedings 26. Issuance of legal aid certificate after obtaining authorization of Minister in civil and syariah proceedings 27. Contribution from aided person after obtaining legal aid certificate for civil and syariah proceedings 28. Record and filing of legal aid certificate in civil and syariah proceedings 29. Revocation of certificate in civil and syariah proceedings 30. Advances for unexpected expenses in civil and syariah proceedings 31. Cost 32. Stay of proceedings upon making application for legal aid 33. Appeal of aided person against decision of court 34. Appeal against decision of court by person other than aided person 35. New application for legal aid at appeal stage
+25. Additional powers to issue legal aid certificate in civil and syariah proceedings
+
+26. Issuance of legal aid certificate after obtaining authorization of Minister in civil and syariah proceedings
+
+27. Contribution from aided person after obtaining legal aid certificate for civil and syariah proceedings
+
+28. Record and filing of legal aid certificate in civil and syariah proceedings
+
+29. Revocation of certificate in civil and syariah proceedings
+
+30. Advances for unexpected expenses in civil and syariah proceedings
+
+31. Cost
+
+32. Stay of proceedings upon making application for legal aid
+
+33. Appeal of aided person against decision of court
+
+34. Appeal against decision of court by person other than aided person
+
+35. New application for legal aid at appeal stage
 
 ## Chapter 4
 
 Legal companion services
 
-36. Scope of legal companion services 37. Purpose of legal companion services 38. Application for legal companion services 39. Issuance of legal aid certificate for legal companion services 40. Contribution from aided person after obtaining legal aid certificate for legal companion services 41. Record and filing of legal aid certificate for legal companion services 42. Revocation of legal aid certificate for legal companion services
+36. Scope of legal companion services
+
+37. Purpose of legal companion services
+
+38. Application for legal companion services
+
+39. Issuance of legal aid certificate for legal companion services
+
+40. Contribution from aided person after obtaining legal aid certificate for legal companion services
+
+41. Record and filing of legal aid certificate for legal companion services
+
+42. Revocation of legal aid certificate for legal companion services
 
 ## Chapter 5
 
 Mediation
 
-43. Scope of mediation services 44. Application for mediation services 45. Reference to mediation by Director General 46. Mediator
+43. Scope of mediation services
+
+44. Application for mediation services
+
+45. Reference to mediation by Director General
+
+46. Mediator
 
 <!-- page 4 -->
 
@@ -152,23 +194,47 @@ Mediation
 
 <!-- page 5 -->
 
-70. Protection against suit and legal proceedings 71. Power to suspend 72. Power to amend Schedule 73. Power to make regulations
+70. Protection against suit and legal proceedings
+
+71. Power to suspend
+
+72. Power to amend Schedule
+
+73. Power to make regulations
 
 ## Part VI
 
 ## REPEAL, SAVING AND TRANSITIONAL
 
-74. Repeal 75. Person holding office, etc. 76. Transfer of powers, rights, duties, etc. 77. Transfer of moneys in trust account 78. Contributions, etc. 79. Application for legal aid 80. Continuance of legal aid 81. Continuance of legal aid certificate 82. Continuance of panel of solicitors 83. Continuance of decisions, etc.
+74. Repeal
 
-## First schedule
+75. Person holding office, etc.
 
-## second schedule
+76. Transfer of powers, rights, duties, etc.
 
-## third schedule
+77. Transfer of moneys in trust account
 
-## Fourth schedule
+78. Contributions, etc.
 
-## FiFth schedule
+79. Application for legal aid
+
+80. Continuance of legal aid
+
+81. Continuance of legal aid certificate
+
+82. Continuance of panel of solicitors
+
+83. Continuance of decisions, etc.
+
+## FIRST SCHEDULE
+
+## SECOND SCHEDULE
+
+## THIRD SCHEDULE
+
+## FOURTH SCHEDULE
+
+## FIFTH SCHEDULE
 
 <!-- page 7 -->
 
@@ -228,13 +294,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 “aided person” means—
 
-(a) a person who has been given a legal aid certificate under
+(a) a person who has been given a legal aid certificate under Chapter 3 or 4 of Part III; or
 
-## Chapter 3 or 4 of Part III; or
-
-(b) a person who has been given legal aid services under
-
-## Chapter 2 or 5 of Part III;
+(b) a person who has been given legal aid services under Chapter 2 or 5 of Part III;
 
 “panel of solicitors” means a panel of solicitors under section 7 or 8;
 
@@ -264,7 +326,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 “Deputy Director General” means the Deputy Director General of Legal Aid appointed under subsection 3(1).
 
-## Part II
+## PART II
 
 ## ADMINISTRATION
 
@@ -1368,7 +1430,7 @@ may be appealed to the Minister and the Minister may confirm, reverse or vary an
 
 83. All decisions, directions and notices made or issued by the Director General of Legal Aid or the Minister under the repealed Act shall, in so far as those decisions, directions and notices are consistent with this Act, on the date of coming into operation of this Act, continue in force until such decisions, directions and notices are revoked or amended.
 
-## First schedule
+## FIRST SCHEDULE
 
 [Section 16]
 
@@ -1380,7 +1442,7 @@ Legal advice on all legal matters in relation to laws of Malaysia
 
 <!-- page 53 -->
 
-## second schedule
+## SECOND SCHEDULE
 
 [Section 20]
 
@@ -1392,21 +1454,85 @@ Legal advice on all legal matters in relation to laws of Malaysia
 
 Proceedings in Civil Courts
 
-(1) (2) No. Proceedings 1. Proceedings under the Married Women and Children (Maintenance) Act 1950 [Act 263]. 2. Proceedings under the Maintenance Ordinance 1959 [Sabah No. 7 of 1959] 3. Proceedings under the Married Women and Children (Enforcement of Maintenance) Act 1968 [Act 794]. 4. Proceedings under the Sarawak Native Customary Marriage (Maintenance) Ordinance 2003 [Chapter 55]. 5. Proceedings under the Maintenance Orders (Facilities for Enforcement) Act 1949 [Act 34] for provisional order 6. Proceedings relating to rights and liabilities regarding divorce and custody 7. Proceedings relating to rights and liabilities under the Adoption Act 1952 [Act 257] 8. Proceedings relating to rights and liabilities under the Adoption Ordinance 1960 (Sabah No. 23 of 1960) 9. Proceedings under the Sarawak Adoption Ordinance (Chapter 91) 10. Proceedings relating to rights and liabilities under the Small Estates (Distribution) Act 1955 [Act 98] 11. Application for Probate and Letter of Administration of the Estate 12. Proceedings relating to rights and liabilities under the Sabah Probate and Administration Ordinance 1947 (Chapter 109) 13. Proceedings relating to rights and liabilities under the Sarawak Administration of Estates Ordinance (Chapter 80) 14. Proceedings relating to rights and liabilities under the Padi Cultivators (Control of Rent and Security of Tenure) Act 1967 [Act 793]
+(1) (2)
+
+<!-- marginal: No. -->
+
+Proceedings
+
+1. Proceedings under the Married Women and Children (Maintenance) Act 1950 [Act 263].
+
+2. Proceedings under the Maintenance Ordinance 1959 [Sabah No. 7 of 1959]
+
+3. Proceedings under the Married Women and Children (Enforcement of Maintenance) Act 1968 [Act 794].
+
+4. Proceedings under the Sarawak Native Customary Marriage (Maintenance) Ordinance 2003 [Chapter 55].
+
+5. Proceedings under the Maintenance Orders (Facilities for Enforcement) Act 1949 [Act 34] for provisional order
+
+6. Proceedings relating to rights and liabilities regarding divorce and custody
+
+7. Proceedings relating to rights and liabilities under the Adoption Act 1952 [Act 257]
+
+8. Proceedings relating to rights and liabilities under the Adoption Ordinance 1960 (Sabah No. 23 of 1960)
+
+9. Proceedings under the Sarawak Adoption Ordinance (Chapter 91)
+
+10. Proceedings relating to rights and liabilities under the Small Estates (Distribution) Act 1955 [Act 98]
+
+11. Application for Probate and Letter of Administration of the Estate
+
+12. Proceedings relating to rights and liabilities under the Sabah Probate and Administration Ordinance 1947 (Chapter 109)
+
+13. Proceedings relating to rights and liabilities under the Sarawak Administration of Estates Ordinance (Chapter 80)
+
+14. Proceedings relating to rights and liabilities under the Padi Cultivators (Control of Rent and Security of Tenure) Act 1967 [Act 793]
 
 <!-- page 54 -->
 
-(1) (2) No. Proceedings 15. Proceedings relating to rights and liabilities regarding civil actions for damages arising from accidents involving motor vehicles within the meaning of the Road Transport Act 1987 [Act 333] 16. Proceedings relating to rights and liabilities under the Moneylenders Act 1951 [Act 400] 17. Proceedings relating to rights and liabilities regarding proceedings relating to tenancy 18. Proceedings relating to rights and responsibilities under the Hire- Purchase Act 1967 [Act 212] 19. Consumer claims which include—
+(1) (2)
+
+<!-- marginal: No. -->
+
+Proceedings
+
+15. Proceedings relating to rights and liabilities regarding civil actions for damages arising from accidents involving motor vehicles within the meaning of the Road Transport Act 1987 [Act 333]
+
+16. Proceedings relating to rights and liabilities under the Moneylenders Act 1951 [Act 400]
+
+17. Proceedings relating to rights and liabilities regarding proceedings relating to tenancy
+
+18. Proceedings relating to rights and responsibilities under the Hire- Purchase Act 1967 [Act 212]
+
+19. Consumer claims which include—
 
 (a) matters relating to enforcement of the Tribunal for Consumer Claims award; and
 
-(b) judicial review proceedings naming the user as a respondent in the legal action 20. Application for an order on presumption of death 21. Proceedings under the Guardianship of Infants Act 1961 [Act 351] 22. Proceedings under the Sarawak Guardianship of Infants Ordinance (Chapter 93) 23. Proceedings under the Sabah Guardianship of Infants Ordinance (Chapter 54) 24. Judicial review or appeal of a decision made in relation to labour and industrial relations law naming an employee as respondent by his employer or former employer in the legal action
+(b) judicial review proceedings naming the user as a respondent in the legal action
+
+20. Application for an order on presumption of death
+
+21. Proceedings under the Guardianship of Infants Act 1961 [Act 351]
+
+22. Proceedings under the Sarawak Guardianship of Infants Ordinance (Chapter 93)
+
+23. Proceedings under the Sabah Guardianship of Infants Ordinance (Chapter 54)
+
+24. Judicial review or appeal of a decision made in relation to labour and industrial relations law naming an employee as respondent by his employer or former employer in the legal action
 
 ## Part II
 
 Proceedings in Syariah Courts
 
-(1) (2) No. Proceedings 1. Proceedings relating to engagement (damages), wali hakim, maintenance, custody, divorce, ruju’, marital debt, muta’ah and harta sepencarian, harta dom (harta bawaan) including proceedings relating to the enforcement and execution of orders for these proceedings 2. Proceedings relating to gift inter vivos (hibah) and will
+(1) (2)
+
+<!-- marginal: No. -->
+
+Proceedings
+
+1. Proceedings relating to engagement (damages), wali hakim, maintenance, custody, divorce, ruju’, marital debt, muta’ah and harta sepencarian, harta dom (harta bawaan) including proceedings relating to the enforcement and execution of orders for these proceedings
+
+2. Proceedings relating to gift inter vivos (hibah) and will
 
 <!-- page 55 -->
 
@@ -1414,7 +1540,7 @@ Proceedings in Syariah Courts
 
 Note: For the purposes of this Schedule, any words and expressions in the Arabic language, shall be deemed to have the meaning assigned to them under any relevant Federal Acts or State Enactment.
 
-## third schedule
+## THIRD SCHEDULE
 
 [Section 36]
 
@@ -1424,7 +1550,7 @@ Note: For the purposes of this Schedule, any words and expressions in the Arabic
 
 All offences against children as provided for in any written law
 
-## Fourth schedule
+## FOURTH SCHEDULE
 
 [Section 52]
 
@@ -1436,7 +1562,7 @@ All offences against children as provided for in any written law
 
 <!-- page 56 -->
 
-## FiFth schedule
+## FIFTH SCHEDULE
 
 [Section 56]
 

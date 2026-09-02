@@ -26,13 +26,21 @@ DIPERBUAT UNDANG-UNDANG oleh Seri Paduka Baginda Yang di-Pertuan Agong dengan na
 
 bersidang dalam Parlimen, dan dengan kuasa daripadanya, seperti berikut:
 
-Tajuk ringkas.
+<!-- marginal: Tajuk ringkas. -->
 
 1. Akta ini bolehlah dinamakan Akta (Perbadanan) Synod Diocese Malaysia Barat (Pindaan) 1996.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-2. Akta (Perbadanan) Synod Diocese Malaysia Barat 1971 seksyen 3 adalah dipinda dalam subseksyen 3(2) dan 3(5) dengan Akta 36 menggantikan perkataan "of Canterbury" dengan perkataan "of the South-east Asia Province".
+2. Akta (Perbadanan) Synod Diocese Malaysia Barat 1971
+
+<!-- marginal: seksyen 3 -->
+
+adalah dipinda dalam subseksyen 3(2) dan 3(5) dengan
+
+<!-- marginal: Akta 36 -->
+
+menggantikan perkataan "of Canterbury" dengan perkataan "of the South-east Asia Province".
 
 ## HURAIAN
 

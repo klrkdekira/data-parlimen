@@ -24,7 +24,11 @@ Ministerial Direction
 
 Ministerial Determination
 
-10. Determination by the Minister. 11. Variation of a determination. 12. Register of determinations.
+10. Determination by the Minister.
+
+11. Variation of a determination.
+
+12. Register of determinations.
 
 ## Chapter 3
 
@@ -34,7 +38,9 @@ Ministerial Declaration
 
 <!-- page 2 -->
 
-14. Modification, variation or revocation of a declaration. 15. Register of declarations.
+14. Modification, variation or revocation of a declaration.
+
+15. Register of declarations.
 
 ## Chapter 4
 
@@ -48,7 +54,23 @@ III
 
 ## APPEAL TRIBUNAL
 
-17. Establishment of the Appeal Tribunal. 18. Matters which the Appeal Tribunal may review. 19. Qualifications of members. 20. Resignation and termination of an appointment. 21. Vacation of office and acting appointments. 22. Quorum for the Appeal Tribunal. 23. Decision. 24. Appeal Tribunal procedures. 25. Suspension of member. 26. Disclosure of interest.
+17. Establishment of the Appeal Tribunal.
+
+18. Matters which the Appeal Tribunal may review. 19. Qualifications of members.
+
+20. Resignation and termination of an appointment.
+
+21. Vacation of office and acting appointments.
+
+22. Quorum for the Appeal Tribunal.
+
+23. Decision.
+
+24. Appeal Tribunal procedures.
+
+25. Suspension of member.
+
+26. Disclosure of interest.
 
 ## PART IV
 
@@ -58,17 +80,59 @@ III
 
 Individual Licence
 
-27. Application for an individual licence. 28. Further information. 29. Recommendation by the Commission. 30. Grant of an individual licence. 31. Restriction on the grant of an individual licence. 32. Compliance with the conditions of an individual licence. 33. Modification, variation or revocation of individual licence conditions. 34. Renewal of an individual licence. 35. Surrender of an individual licence.
+27. Application for an individual licence.
+
+28. Further information.
+
+29. Recommendation by the Commission.
+
+30. Grant of an individual licence.
+
+31. Restriction on the grant of an individual licence.
+
+32. Compliance with the conditions of an individual licence.
+
+33. Modification, variation or revocation of individual licence conditions.
+
+34. Renewal of an individual licence.
+
+35. Surrender of an individual licence.
 
 <!-- page 3 -->
 
-36. Transfer of an individual licence or change of ownership. 37. Recommendation for the suspension or cancellation of an individual licence. 38. Suspension or cancellation of an individual licence by the Minister. 39. Effective date of suspension or cancellation of an individual licence. 40. Publication on suspension or cancellation of an individual licence. 41. Effect of suspension, cancellation, surrender or expiry of an individual licence. 42. Register of individual licences. 43. Rights and obligations attached to an individual licence.
+36. Transfer of an individual licence or change of ownership.
+
+37. Recommendation for the suspension or cancellation of an individual licence.
+
+38. Suspension or cancellation of an individual licence by the Minister.
+
+39. Effective date of suspension or cancellation of an individual licence.
+
+40. Publication on suspension or cancellation of an individual licence.
+
+41. Effect of suspension, cancellation, surrender or expiry of an individual licence.
+
+42. Register of individual licences.
+
+43. Rights and obligations attached to an individual licence.
 
 ## Chapter 2
 
 Class Licence
 
-44. Minister may grant class licence. 45. Application for registration. 46. Requirement for registration. 47. Recommendation by the Commission. 48. Cancellation of registration by the Minister. 49. Register of class licences. 50. Register of registration notices.
+44. Minister may grant class licence.
+
+45. Application for registration.
+
+46. Requirement for registration.
+
+47. Recommendation by the Commission.
+
+48. Cancellation of registration by the Minister.
+
+49. Register of class licences.
+
+50. Register of registration notices.
 
 ## PART V
 
@@ -86,29 +150,73 @@ Directions
 
 ## Chapter 2
 
-Determination 55. Determination by the Commission. 56. Modification, variation or revocation of a determination by the Commission. 57. Register of determinations.
+Determination
+
+55. Determination by the Commission.
+
+56. Modification, variation or revocation of a determination by the Commission.
+
+57. Register of determinations.
 
 ## Chapter 3
 
 Inquiry
 
-58. Inquiry by the Commission. 59. Combining two or more inquiries. 60. Conduct of an inquiry. 61. Inquiry shall be public. 62. Exceptions to a public inquiry. 63. Confidential material not to be disclosed. 64. Directions about an inquiry. 65. Report on an inquiry. 66. Protection from civil action. 67. Register of reports.
+58. Inquiry by the Commission.
+
+59. Combining two or more inquiries.
+
+60. Conduct of an inquiry.
+
+61. Inquiry shall be public.
+
+62. Exceptions to a public inquiry.
+
+63. Confidential material not to be disclosed.
+
+64. Directions about an inquiry.
+
+65. Report on an inquiry.
+
+66. Protection from civil action.
+
+67. Register of reports.
 
 ## Chapter 4
 
 Investigation For Purposes Of Administration, Inquiry, Etc.
 
-68. Investigation by the Commission. 69. Complaints to the Commission. 70. Conduct of investigation. 71. Report on investigation. 72. Publication of reports.
+68. Investigation by the Commission.
+
+69. Complaints to the Commission.
+
+70. Conduct of investigation.
+
+71. Report on investigation.
+
+72. Publication of reports.
 
 ## Chapter 5
 
 Information-gathering Powers
 
-73. Provision of information. 74. Offence for non-compliance. 75. Offence for giving false or misleading information, evidence or document, etc.
+73. Provision of information.
+
+74. Offence for non-compliance.
+
+75. Offence for giving false or misleading information, evidence or document, etc.
 
 <!-- page 5 -->
 
-76. Proof of compliance. 77. Commission may retain documents. 78. Incorrect record. 79. Record of information. 80. Publication of information.
+76. Proof of compliance.
+
+77. Commission may retain documents.
+
+78. Incorrect record.
+
+79. Record of information.
+
+80. Publication of information.
 
 ## Chapter 6
 
@@ -120,47 +228,109 @@ Register
 
 Notification And Resolution Of Disputes
 
-82. Disputes. 83. Notification of a dispute. 84. Commission to act only upon notification. 85. Commission to publish guidelines. 86. Commission to decide notified dispute. 87. Decision to be in writing. 88. Register of decisions. 89. Enforcement.
+82. Disputes.
+
+83. Notification of a dispute.
+
+84. Commission to act only upon notification.
+
+85. Commission to publish guidelines.
+
+86. Commission to decide notified dispute.
+
+87. Decision to be in writing.
+
+88. Register of decisions.
+
+89. Enforcement.
 
 ## Chapter 8
 
 Registration Of Agreements
 
-90. Application for the registration of agreements. 91. When the Commission shall register the agreement. 92. Effect of registration. 93. Content of the register of agreements.
+90. Application for the registration of agreements.
+
+91. When the Commission shall register the agreement.
+
+92. Effect of registration.
+
+93. Content of the register of agreements.
 
 ## Chapter 9
 
 Voluntary Industry Codes
 
-94. Industry forum. 95. Code by the industry forum. 96. Commission may determine a voluntary industry code.
+94. Industry forum.
+
+95. Code by the industry forum.
+
+96. Commission may determine a voluntary industry code.
 
 <!-- page 6 -->
 
-97. Applicable voluntary industry code. 98. Compliance with a registered voluntary industry code a legal defence. 99. Directions to comply with a registered voluntary industry code. 100. Civil penalty for non-compliance. 101. Revocation of a code. 102. Submission of new voluntary industry code by an industry forum. 103. Register of current voluntary industry code.
+97. Applicable voluntary industry code. 98. Compliance with a registered voluntary industry code a legal defence. 99. Directions to comply with a registered voluntary industry code.
+
+100. Civil penalty for non-compliance.
+
+101. Revocation of a code.
+
+102. Submission of new voluntary industry code by an industry forum.
+
+103. Register of current voluntary industry code.
 
 ## Chapter 10
 
 Mandatory Standards
 
-104. Determination of a mandatory standard. 105. Mandatory standard to be consistent. 106. Modification, variation or revocation of a mandatory standard. 107. Mandatory standard to take precedence. 108. Compliance with a mandatory standard a legal defence. 109. Civil penalty for non-compliance.
+104. Determination of a mandatory standard.
+
+105. Mandatory standard to be consistent.
+
+106. Modification, variation or revocation of a mandatory standard.
+
+107. Mandatory standard to take precedence.
+
+108. Compliance with a mandatory standard a legal defence.
+
+109. Civil penalty for non-compliance.
 
 ## Chapter 11
 
 Undertakings
 
-110. Undertaking by a person. 111. Registration of an undertaking. 112. Rules regarding undertakings. 113. Withdrawal of an undertaking. 114. Replacement of an undertaking. 115. Register of undertakings. 116. Enforcement of an undertaking.
+110. Undertaking by a person.
+
+111. Registration of an undertaking.
+
+112. Rules regarding undertakings.
+
+113. Withdrawal of an undertaking.
+
+114. Replacement of an undertaking.
+
+115. Register of undertakings.
+
+116. Enforcement of an undertaking.
 
 ## Chapter 12
 
 Regulatory Forbearance
 
-117. Regulatory forbearance. 118. Determination by the Minister.
+117. Regulatory forbearance.
+
+118. Determination by the Minister.
 
 <!-- page 7 -->
 
 ## Chapter 13
 
-Review Of Decisions 119. Review by the Commission. 120. Review by the Appeal Tribunal. 121. Judicial review.
+Review Of Decisions
+
+119. Review by the Commission.
+
+120. Review by the Appeal Tribunal.
+
+121. Judicial review.
 
 ## Chapter 14
 
@@ -172,7 +342,11 @@ Regulatory Review
 
 Monitoring And Reporting
 
-123. Report to the Minister on industry performance. 124. Matters to monitor and report. 125. Report to be published.
+123. Report to the Minister on industry performance.
+
+124. Matters to monitor and report.
+
+125. Report to be published.
 
 ## PART VI
 
@@ -182,7 +356,19 @@ Monitoring And Reporting
 
 Licensing
 
-126. Licensing of network facilities, network services and applications services. 127. Compliance with licence conditions. 128. Definition of network boundary. 129. Exemption for applications service provider not subject to a class licence. 130. Nominated facilities provider. 131. Providers under a class licence shall register. 132. Separate licence.
+126. Licensing of network facilities, network services and applications services.
+
+127. Compliance with licence conditions.
+
+128. Definition of network boundary.
+
+129. Exemption for applications service provider not subject to a class licence.
+
+130. Nominated facilities provider.
+
+131. Providers under a class licence shall register.
+
+132. Separate licence.
 
 ## Chapter 2
 
@@ -192,13 +378,49 @@ General Competition Practices
 
 <!-- page 8 -->
 
-134. Commission may publish guidelines. 135. Prohibition on entering into collusive agreements. 136. Prohibition on tying or linking arrangements. 137. Determination of dominant licensee. 138. Guidelines as to the meaning of "dominant position". 139. Commission may direct a licensee in a dominant position. 140. Authorisation of a conduct. 141. Register of authorisations. 142. Remedies for non-compliance. 143. Penalty for offence. 144. Minister may make rules.
+134. Commission may publish guidelines.
+
+135. Prohibition on entering into collusive agreements.
+
+136. Prohibition on tying or linking arrangements.
+
+137. Determination of dominant licensee.
+
+138. Guidelines as to the meaning of "dominant position".
+
+139. Commission may direct a licensee in a dominant position.
+
+140. Authorisation of a conduct.
+
+141. Register of authorisations.
+
+142. Remedies for non-compliance.
+
+143. Penalty for offence.
+
+144. Minister may make rules.
 
 ## Chapter 3
 
 Access To Services
 
-145. Facilities and services which may be included in the access list. 146. Determination of facilities and services by the Commission. 147. Recommendation by access forum. 148. Register of access list. 149. Standard access obligations for facilities and services. 150. Registration of access agreements. 151. Notification of access disputes. 152. Access forum. 153. Access code. 154. Registration of the access code. 155. Industry access undertakings. 156. Registration of an undertaking.
+145. Facilities and services which may be included in the access list.
+
+146. Determination of facilities and services by the Commission.
+
+147. Recommendation by access forum.
+
+148. Register of access list.
+
+149. Standard access obligations for facilities and services.
+
+150. Registration of access agreements. 151. Notification of access disputes.
+
+152. Access forum.
+
+153. Access code.
+
+154. Registration of the access code. 155. Industry access undertakings. 156. Registration of an undertaking.
 
 ## PART VII
 
@@ -212,13 +434,57 @@ Spectrum Assignment
 
 <!-- page 9 -->
 
-158. Power of the Minister to make regulations. 159. Issue of spectrum assignment. 160. Spectrum assignment to comply with spectrum plan. 161. Reissue of spectrum assignment. 162. Third party transfers. 163. Transfer rules. 164. Issue of apparatus assignment. 165. Apparatus assignment to comply with spectrum plan. 166. Situation where apparatus assignment shall not be issued. 167. Third party authorisation. 168. Maximum term for an apparatus assignment. 169. Class assignment. 170. Class assignment to comply with spectrum plan. 171. Situation where class assignment shall not be issued. 172. Spectrum plan. 173. Contents of spectrum plan. 174. Preferential rights. 175. Dispute about interference. 176. Minister may determine spectrum for spectrum assignment. 177. Spectrum plan to include procedures for spectrum assignment and apparatus assignment. 178. Compulsory acquisition of assignments in determined spectrum.
+158. Power of the Minister to make regulations.
+
+159. Issue of spectrum assignment.
+
+160. Spectrum assignment to comply with spectrum plan.
+
+161. Reissue of spectrum assignment.
+
+162. Third party transfers.
+
+163. Transfer rules.
+
+164. Issue of apparatus assignment.
+
+165. Apparatus assignment to comply with spectrum plan.
+
+166. Situation where apparatus assignment shall not be issued.
+
+167. Third party authorisation.
+
+168. Maximum term for an apparatus assignment.
+
+169. Class assignment.
+
+170. Class assignment to comply with spectrum plan.
+
+171. Situation where class assignment shall not be issued.
+
+172. Spectrum plan.
+
+173. Contents of spectrum plan.
+
+174. Preferential rights.
+
+175. Dispute about interference.
+
+176. Minister may determine spectrum for spectrum assignment.
+
+177. Spectrum plan to include procedures for spectrum assignment and apparatus assignment.
+
+178. Compulsory acquisition of assignments in determined spectrum.
 
 ## Chapter 2
 
 Numbering And Electronic Addressing
 
-179. Control, planning and administration of numbering and electronic addressing. 180. Numbering and electronic addressing plan. 181. Management or maintenance of an integrated public number or electronic address database.
+179. Control, planning and administration of numbering and electronic addressing.
+
+180. Numbering and electronic addressing plan.
+
+181. Management or maintenance of an integrated public number or electronic address database.
 
 ## Chapter 3
 
@@ -228,7 +494,13 @@ Technical Standards
 
 <!-- page 10 -->
 
-183. Compromising public safety an offence. 184. Technical standards forum. 185. Matters for technical code. 186. Certifying agencies.
+183. Compromising public safety an offence.
+
+184. Technical standards forum.
+
+185. Matters for technical code.
+
+186. Certifying agencies.
 
 ## PART VIII
 
@@ -238,25 +510,45 @@ Technical Standards
 
 Quality Of Service
 
-187. Exemptions from offence provisions. 188. Provision of network services or applications services. 189. Consumer forum. 190. Matters for consumer code. 191. Publication of consumer code.
+187. Exemptions from offence provisions.
+
+188. Provision of network services or applications services.
+
+189. Consumer forum.
+
+190. Matters for consumer code.
+
+191. Publication of consumer code.
 
 ## Chapter 2
 
 Required Applications Services
 
-192. Required applications services. 193. Minister's direction to provide required applications services. 194. Direction may specify operational details.
+192. Required applications services.
+
+193. Minister's direction to provide required applications services.
+
+194. Direction may specify operational details.
 
 ## Chapter 3
 
 Resolution Of Consumer Disputes
 
-195. Disputes between consumers and licensees. 196. Procedures for consumer complaints.
+195. Disputes between consumers and licensees.
+
+196. Procedures for consumer complaints.
 
 ## Chapter 4
 
 Rate Regulation
 
-197. Rate setting by providers. 198. Principles on rate setting. 199. Rate setting by the Minister. 200. Power of the Minister to determine persons or areas for special rates.
+197. Rate setting by providers.
+
+198. Principles on rate setting.
+
+199. Rate setting by the Minister.
+
+200. Power of the Minister to determine persons or areas for special rates.
 
 <!-- page 11 -->
 
@@ -266,7 +558,11 @@ Rate Regulation
 
 Universal Service Provision
 
-202. System of universal service provision. 203. Definition of "underserved areas" and "underserved groups within the community", etc. 204. Universal Service Provision Fund.
+202. System of universal service provision.
+
+203. Definition of "underserved areas" and "underserved groups within the community", etc.
+
+204. Universal Service Provision Fund.
 
 ## PART IX
 
@@ -276,13 +572,27 @@ Universal Service Provision
 
 Licensing
 
-205. Prohibition on the provision of content applications service. 206. Compliance with licence conditions. 207. Closed content applications service. 208. Exemptions for incidental content. 209. Limited content applications service. 210. Opinion on category of service.
+205. Prohibition on the provision of content applications service.
+
+206. Compliance with licence conditions.
+
+207. Closed content applications service.
+
+208. Exemptions for incidental content.
+
+209. Limited content applications service.
+
+210. Opinion on category of service.
 
 ## Chapter 2
 
 ### Content Requirements
 
-211. Prohibition on provision of offensive content. 212. Content forum. 213. Content code.
+211. Prohibition on provision of offensive content.
+
+212. Content forum.
+
+213. Content code.
 
 ## PART X
 
@@ -292,27 +602,109 @@ Licensing
 
 Installation Of Network Facilities, Access To Network Facilities, Etc,
 
-214. Inspection of land. 215. Installation of network facilities.
+214. Inspection of land.
+
+215. Installation of network facilities.
 
 <!-- page 12 -->
 
-216. Minimal damage. 217. Network facilities provider to restore land. 218. Management of activity. 219. Agreement with public utility. 220. Conditions to which a network facilities installation permit is subject. 221. Notice to owner of land. 222. Notice to owner of land for lopping of trees, etc. 223. Notice to road authority, public utility, etc. 224. Road, etc. to remain open for passage. 225. Network facilities installation permit. 226. Criteria for issue of network facilities installation permit. 227. Network facilities installation permit has effect subject to this Act and other laws. 228. Access to post, network facilities or right-of-way. 229. Commission to regulate matters on access to post, etc. 230. Minister may make regulations.
+216. Minimal damage.
+
+217. Network facilities provider to restore land.
+
+218. Management of activity.
+
+219. Agreement with public utility.
+
+220. Conditions to which a network facilities installation permit is subject.
+
+221. Notice to owner of land.
+
+222. Notice to owner of land for lopping of trees, etc.
+
+223. Notice to road authority, public utility, etc.
+
+224. Road, etc. to remain open for passage.
+
+225. Network facilities installation permit.
+
+226. Criteria for issue of network facilities installation permit.
+
+227. Network facilities installation permit has effect subject to this Act and other laws.
+
+228. Access to post, network facilities or right-of-way.
+
+229. Commission to regulate matters on access to post, etc.
+
+230. Minister may make regulations.
 
 ## Chapter 2
 
 Additional Offences And Penalties
 
-231. Offence if use apparatus or device without authority. 232. Fraudulent use of network facilities, network services, etc. 233. Improper use of network facilities or network service, etc. 234. Interception and disclosure of communications prohibited. 235. Damage to network facilities, etc. 236. Fraud and related activity in connection with access devices, etc. 237. Prohibition on call back service. 238. Emission from non-standard equipment or device. 239. Unlawful use, possession or supply of non-standard equipment or device. 240. Offence for distributing or advertising any communications equipment or device for interception of communication. 241. Offence for giving false and misleading statement. 242. General offence and penalty.
+231. Offence if use apparatus or device without authority.
+
+232. Fraudulent use of network facilities, network services, etc.
+
+233. Improper use of network facilities or network service, etc.
+
+234. Interception and disclosure of communications prohibited.
+
+235. Damage to network facilities, etc.
+
+236. Fraud and related activity in connection with access devices, etc.
+
+237. Prohibition on call back service.
+
+238. Emission from non-standard equipment or device.
+
+239. Unlawful use, possession or supply of non-standard equipment or device.
+
+240. Offence for distributing or advertising any communications equipment or device for interception of communication.
+
+241. Offence for giving false and misleading statement.
+
+242. General offence and penalty.
 
 <!-- page 13 -->
 
-243. Compounding of offences. 244. Offences by body corporate.
+243. Compounding of offences.
+
+244. Offences by body corporate.
 
 ## Chapter 3
 
 Powers Of Entry, Investigation Into Offences And Prosecution
 
-245. Authorised officer. 246. Power to investigate. 247. Search by warrant. 248. Search and seizure without warrant. 249. Access to computerised data. 250. List of things seized, 251. Release of things seized. 252. Power to intercept communications. 253. Obstruction to search. 254. Additional powers. 255. Power to require attendance of person acquainted with case. 256. Examination of person acquainted with case. 257. Admissibility of statements in evidence. 258. Authorised officer to complete investigation and hand over to police. 259. Prosecution. 260. Forfeiture. 261. Jurisdiction to try offences. 262. Rewards.
+245. Authorised officer.
+
+246. Power to investigate.
+
+247. Search by warrant.
+
+248. Search and seizure without warrant.
+
+249. Access to computerised data.
+
+250. List of things seized,
+
+251. Release of things seized.
+
+252. Power to intercept communications.
+
+253. Obstruction to search.
+
+254. Additional powers.
+
+255. Power to require attendance of person acquainted with case. 256. Examination of person acquainted with case.
+
+257. Admissibility of statements in evidence.
+
+258. Authorised officer to complete investigation and hand over to police.
+
+259. Prosecution. 260. Forfeiture.
+
+261. Jurisdiction to try offences. 262. Rewards.
 
 ## Chapter 4
 
@@ -324,7 +716,17 @@ National Interest Matters
 
 ## Chapter 5
 
-Miscellaneous 268. Minister may make rules on record-keeping. 269. Interworking with other authorities. 270. Instruments granted under this Act. 271. This Act prevails over other Acts. 272. Protection of officers and other persons.
+Miscellaneous
+
+268. Minister may make rules on record-keeping.
+
+269. Interworking with other authorities.
+
+270. Instruments granted under this Act.
+
+271. This Act prevails over other Acts.
+
+272. Protection of officers and other persons.
 
 ## PART XI
 
@@ -334,13 +736,29 @@ Miscellaneous 268. Minister may make rules on record-keeping. 269. Interworking 
 
 Repeal And Savings
 
-273. Repeal. 274. Dissolution of the Telecommunications Fund. 275. Savings.
+273. Repeal.
+
+274. Dissolution of the Telecommunications Fund.
+
+275. Savings.
 
 ## Chapter 2
 
 Transitional Provisions For Licences
 
-276. Old licences to have effect. 277. New class licences to supersede old licences. 278. Old licences shall.be registered. 279. A registered licence shall confer no new benefit. 280. Old licensees shall indicate intention. 281. Registered licensee may apply for an individual licence under this Act. 282. Determination of listed facilities and services.
+276. Old licences to have effect.
+
+277. New class licences to supersede old licences.
+
+278. Old licences shall.be registered.
+
+279. A registered licence shall confer no new benefit.
+
+280. Old licensees shall indicate intention.
+
+281. Registered licensee may apply for an individual licence under this Act.
+
+282. Determination of listed facilities and services.
 
 ## SCHEDULE
 
@@ -384,11 +802,7 @@ by the Minister by notification in the Gazette, and the Minister may appoint dif
 
 (d) to establish powers and procedures for the administration of this Act.
 
-(2) The national policy objectives
-
-<!-- marginal: for che -->
-
-communications and multimedia industry are—
+(2) The national policy objectives for che communications and multimedia industry are—
 
 (a) to establish Malaysia as a major global centre and hub for communications and multimedia information and content services;
 
@@ -640,11 +1054,7 @@ service, applications service or content applications service, equipment, or fac
 
 "required applications service" means an applications service which is in a list determined by the Minister under section 192;
 
-"spectrum" means the continuous
-
-<!-- marginal: range of -->
-
-electromagnetic wave frequencies up to and including a frequency of 420 terahertz;
+"spectrum" means the continuous range of electromagnetic wave frequencies up to and including a frequency of 420 terahertz;
 
 "spectrum assignment" means the assignment issued under section 159;
 
@@ -668,9 +1078,13 @@ electromagnetic wave frequencies up to and including a frequency of 420 terahert
 
 Ministerial Direction
 
-Direction by
+<!-- marginal: Direction by -->
 
-7. (1) The Minister may, from time to time, issue the Minister. directions to the Commission on the exercise of the Commission's powers and the performance of the Commission's functions and duties under this Act, whether of a general character or otherwise.
+7. (1) The Minister may, from time to time, issue
+
+<!-- marginal: the Minister. -->
+
+directions to the Commission on the exercise of the Commission's powers and the performance of the Commission's functions and duties under this Act, whether of a general character or otherwise.
 
 (2) Any Ministerial direction shall be consistent with the objects and provisions of this Act which are relevant to the particular matter or activity.
 
@@ -700,9 +1114,7 @@ revoke a direction.
 
 <!-- marginal: directions. -->
 
-directions issued by the Minister in accordance with
-
-## Chapter 6 of Part V.
+directions issued by the Minister in accordance with Chapter 6 of Part V.
 
 ## Chapter 2
 
@@ -734,23 +1146,41 @@ Ministerial determination, without consultation with licensees or persons.
 
 <!-- page 26 -->
 
-Variation 11. (1) The Minister may at any time modify, vary or of a revoke a determination. determination.
+<!-- marginal: Variation -->
+
+11. (1) The Minister may at any time modify, vary or
+
+<!-- marginal: of a -->
+
+revoke a determination.
+
+<!-- marginal: determination. -->
 
 (2) The procedure set out in section 10 shall apply mutatis mutandis in respect of any modification, variation or revocation of a determination.
 
-Register of
+<!-- marginal: Register of -->
 
-12. The Commission shall maintain a register of all determinations. determinations made by the Minister in accordance with
+12. The Commission shall maintain a register of all
 
-## Chapter 6 of Part V.
+<!-- marginal: determinations. -->
+
+determinations made by the Minister in accordance with Chapter 6 of Part V.
 
 ## Chapter 3
 
 Ministerial Declaration
 
-Declaration
+<!-- marginal: Declaration -->
 
-13. (1) The Minister may, from time to time, make a by the written declaration that an individual licence, or a class Minister. of individual licences, or a class licence—
+13. (1) The Minister may, from time to time, make a
+
+<!-- marginal: by the -->
+
+written declaration that an individual licence, or a class
+
+<!-- marginal: Minister. -->
+
+of individual licences, or a class licence—
 
 (a) is subject to such conditions; or
 
@@ -764,7 +1194,9 @@ as the Minister deems fit.
 
 (4) Before making a declaration under subsection (2), the Minister shall give the affected licensees written notice of his intention to do so together with a draft copy of the declaration, and the licensees may make submissions to the Minister by submitting them to the Commission within the time period specified by the Minister but the time period shall not be less than thirty days.
 
-(5) After expiry of the notice specified in subsection (4), the Minister shall, on the recommendation of the Commission, decide on the next course of action, taking
+(5) After expiry of the notice specified in subsection
+
+(4), the Minister shall, on the recommendation of the Commission, decide on the next course of action, taking
 
 <!-- page 27 -->
 
@@ -774,7 +1206,9 @@ Communications and Multimedia
 
 into consideration any submission made by the affected licensees.
 
-(6) The Minister shall give the affected licensees a written notice of the declaration made under subsection (2) as soon as practicable.
+(6) The Minister shall give the affected licensees a written notice of the declaration made under subsection
+
+(2) as soon as practicable.
 
 (7) Any declaration shall be consistent with the objects and provisions of this Act which are relevant to the particular matter or activity.
 
@@ -808,9 +1242,7 @@ revoke a declaration regarding a licence.
 
 <!-- marginal: declarations. -->
 
-declarations made by the Minister in accordance with
-
-## Chapter 6 of Part V.
+declarations made by the Minister in accordance with Chapter 6 of Part V.
 
 <!-- page 28 -->
 
@@ -820,9 +1252,21 @@ declarations made by the Minister in accordance with
 
 Ministerial Regulations
 
-Minister's
+<!-- marginal: Minister's -->
 
-16. (1) The Minister may, on the recommendation of power to the Commission or otherwise, make regulations, to be make published in the Gazette, for all or any of the following regulations. purposes:
+16. (1) The Minister may, on the recommendation of
+
+<!-- marginal: power to -->
+
+the Commission or otherwise, make regulations, to be
+
+<!-- marginal: make -->
+
+published in the Gazette, for all or any of the following
+
+<!-- marginal: regulations. -->
+
+purposes:
 
 (a) the procedures for the Commission and the Appeal Tribunal in the exercise of their powers and functions under this Act;
 
@@ -906,9 +1350,13 @@ but not from a determination by the Commission.
 
 (2) Any decision by the Appeal Tribunal is final and binding on the parties to the appeal and is not subject to further appeal.
 
-Qualifications
+<!-- marginal: Qualifications -->
 
-19. A person is qualified to be a member of the Appeal of members. Tribunal if he has knowledge of or experience in—
+19. A person is qualified to be a member of the Appeal
+
+<!-- marginal: of members. -->
+
+Tribunal if he has knowledge of or experience in—
 
 (a) the communications and multimedia industry;
 
@@ -920,9 +1368,21 @@ Qualifications
 
 (e) public administration.
 
-Resignation
+<!-- marginal: Resignation -->
 
-20. (1) The Minister may at any time terminate the and appointment of the Chairman or any other member of termination of an the Appeal Tribunal if— appointment.
+20. (1) The Minister may at any time terminate the
+
+<!-- marginal: and -->
+
+appointment of the Chairman or any other member of
+
+<!-- marginal: termination -->
+
+<!-- marginal: of an -->
+
+the Appeal Tribunal if—
+
+<!-- marginal: appointment. -->
 
 (a) he resigns his.office;
 
@@ -990,7 +1450,9 @@ for the purposes of the functions of the Appeal Tribunal under this Act.
 
 <!-- page 32 -->
 
-Decision. 23. The decision of the Appeal Tribunal, on any matter, shall be decided on a majority of votes of the members.
+<!-- marginal: Decision. -->
+
+23. The decision of the Appeal Tribunal, on any matter, shall be decided on a majority of votes of the members.
 
 24. The Minister may determine, in accordance with section 10, and make regulations regarding the operating procedures of the Appeal Tribunal, including but not limited to—
 
@@ -1008,9 +1470,21 @@ Decision. 23. The decision of the Appeal Tribunal, on any matter, shall be decid
 
 (g) the employment of staff, if any.
 
-Suspension of 25. The Minister may, at his discretion, suspend any member. member of the Appeal Tribunal on the ground of misbehaviour or incapacity.
+<!-- marginal: Suspension of -->
 
-Disclosure of 26. (1) A member of the Appeal Tribunal shall disclose, interest. as soon as practicable, to the Chairman any interest, whether substantial or not, which may conflict with the member's duties as a member of the Tribunal, in a particular matter.
+25. The Minister may, at his discretion, suspend any
+
+<!-- marginal: member. -->
+
+member of the Appeal Tribunal on the ground of misbehaviour or incapacity.
+
+<!-- marginal: Disclosure of -->
+
+26. (1) A member of the Appeal Tribunal shall disclose,
+
+<!-- marginal: interest. -->
+
+as soon as practicable, to the Chairman any interest, whether substantial or not, which may conflict with the member's duties as a member of the Tribunal, in a particular matter.
 
 (2) If the Chairman is of the opinion that the member's interest is in conflict with the member's duties, the Chairman shall inform all the parties, including the appellants and the respondents, to the matter of the conflict.
 
@@ -1086,9 +1560,17 @@ provide a written recommendation to the Minister specifying—
 
 (c) the reasons for its recommendation.
 
-Grant of
+<!-- marginal: Grant of -->
 
-30. (1) The Minister shall have due regard to the an individual recommendation of the Commission given under section licence. 29 before making a decision.
+30. (1) The Minister shall have due regard to the
+
+<!-- marginal: an individual -->
+
+recommendation of the Commission given under section
+
+<!-- marginal: licence. -->
+
+29 before making a decision.
 
 (2) The Minister may, acting on the recommendation of the Commission, by written notice—
 
@@ -1190,9 +1672,17 @@ conditions of an existing individual licence;
 
 (2) The procedures set out in section 13 shall apply mutatis mutandis to the modification, variation, or revocation of a licence condition under this section.
 
-Renewal of
+<!-- marginal: Renewal of -->
 
-34. (1) The licensee may apply for the renewal of an an individual individual licence not later than sixty days before its licence. expiry.
+34. (1) The licensee may apply for the renewal of an
+
+<!-- marginal: an individual -->
+
+individual licence not later than sixty days before its
+
+<!-- marginal: licence. -->
+
+expiry.
 
 (2) The renewal fee, to be determined by the Minister, shall be payable upon approval of the application.
 
@@ -1306,21 +1796,105 @@ communications and multimedia industry;
 
 (e) the suspension or cancellation is in the public interest.
 
-Suspension
+<!-- marginal: Suspension -->
 
-38. (1) The Minister may, by declaration in accordance or with section 13, suspend or cancel an individual licence cancellation of an granted under this Part in any one of the circumstances individual set out in section 37. licence by the Minister. (2) The procedures set out in section 13 shall apply mutatis mutandis to the suspension or cancellation of an individual licence under this section.
+38. (1) The Minister may, by declaration in accordance
 
-Effective
+<!-- marginal: or -->
 
-39. The suspension or cancellation of an individual licence date of shall take effect on the expiration of fourteen days from suspension or cancella- the date on which the notice of suspension or cancellation tion of an is served on the licensee. individual licence. Publication
+with section 13, suspend or cancel an individual licence
 
-40. (1) Where the suspension or cancellation of an on individual licence has taken effect, the Commission shall, suspension or cancella- as soon as practicable, cause the suspension or cancellation tion of an to be published in at least one national language and individual one English language national daily newspapers for at licence. least three consecutive days.
+<!-- marginal: cancellation -->
+
+<!-- marginal: of an -->
+
+granted under this Part in any one of the circumstances
+
+<!-- marginal: individual -->
+
+set out in section 37.
+
+<!-- marginal: licence by -->
+
+<!-- marginal: the Minister. -->
+
+(2) The procedures set out in section 13 shall apply mutatis mutandis to the suspension or cancellation of an individual licence under this section.
+
+<!-- marginal: Effective -->
+
+39. The suspension or cancellation of an individual licence
+
+<!-- marginal: date of -->
+
+shall take effect on the expiration of fourteen days from
+
+<!-- marginal: suspension -->
+
+<!-- marginal: or cancella- -->
+
+the date on which the notice of suspension or cancellation
+
+<!-- marginal: tion of an -->
+
+is served on the licensee.
+
+<!-- marginal: individual -->
+
+<!-- marginal: licence. -->
+
+<!-- marginal: Publication -->
+
+40. (1) Where the suspension or cancellation of an
+
+<!-- marginal: on -->
+
+individual licence has taken effect, the Commission shall,
+
+<!-- marginal: suspension -->
+
+<!-- marginal: or cancella- -->
+
+as soon as practicable, cause the suspension or cancellation
+
+<!-- marginal: tion of an -->
+
+to be published in at least one national language and
+
+<!-- marginal: individual -->
+
+one English language national daily newspapers for at
+
+<!-- marginal: licence. -->
+
+least three consecutive days.
 
 (2) Any delay or failure to publish the notice of suspension or cancellation shall not in any manner affect the validity of the suspension or cancellation.
 
-Effect of
+<!-- marginal: Effect of -->
 
-41. (1) Where the suspension or cancellation of an suspension, individual licence under section 37, or the surrender of cancellation, surrender or an individual licence under section 35, has taken effect, expiry of or where the individual licence has expired, the licensee an individual shall immediately cease to provide any facility or service licence. in respect of which the individual licence was granted.
+41. (1) Where the suspension or cancellation of an
+
+<!-- marginal: suspension, -->
+
+individual licence under section 37, or the surrender of
+
+<!-- marginal: cancellation, -->
+
+<!-- marginal: surrender or -->
+
+an individual licence under section 35, has taken effect,
+
+<!-- marginal: expiry of -->
+
+or where the individual licence has expired, the licensee
+
+<!-- marginal: an individual -->
+
+shall immediately cease to provide any facility or service
+
+<!-- marginal: licence. -->
+
+in respect of which the individual licence was granted.
 
 (2) Notwithstanding subsection (1), the Minister may, on the recommendation of the Commission, authorise
 
@@ -1364,9 +1938,25 @@ Commission of—
 
 (4) The Commission shall maintain the registers in accordance with Chapter 6 of Part V.
 
-Rights and
+<!-- marginal: Rights and -->
 
-43. (1) The grant of certain individual licences may obligations be conditional on the registration of undertakings by a attached to an prospective licensee. individual licence. (2) In granting individual licences, the Minister may declare specified benefits only for licensees who have current registered undertakings under this section.
+43. (1) The grant of certain individual licences may
+
+<!-- marginal: obligations -->
+
+be conditional on the registration of undertakings by a
+
+<!-- marginal: attached to -->
+
+<!-- marginal: an -->
+
+prospective licensee.
+
+<!-- marginal: individual -->
+
+<!-- marginal: licence. -->
+
+(2) In granting individual licences, the Minister may declare specified benefits only for licensees who have current registered undertakings under this section.
 
 (3) The Minister may make regulations on the types of matters which may be included in an undertaking by a prospective licensee and the commensurate benefits for which the licensee shall be eligible in respect of such matters.
 
@@ -1380,9 +1970,15 @@ Rights and
 
 Class Licence
 
-Minister may
+<!-- marginal: Minister may -->
 
-44. (1) The Minister may grant a class licence in respect grant of any matter requiring a licence under this Act. class licence.
+44. (1) The Minister may grant a class licence in respect
+
+<!-- marginal: grant -->
+
+of any matter requiring a licence under this Act.
+
+<!-- marginal: class licence. -->
 
 (2) A class licence granted under subsection (1) may include the relevant standard conditions as set out in the Schedule and/or such other standard conditions as may be declared by the Minister from time to time.
 
@@ -1462,9 +2058,15 @@ Commission made under section 47.
 
 (2) The person whose registration has been cancelled shall cease the activity to which the registration applied until such time as the Commission, with the prior express direction of the Minister, has agreed to reregister the person.
 
-Register of
+<!-- marginal: Register of -->
 
-49. The Commission shall maintain a separate register, class which shall be made available to the public, of— licences.
+49. The Commission shall maintain a separate register,
+
+<!-- marginal: class -->
+
+which shall be made available to the public, of—
+
+<!-- marginal: licences. -->
 
 (a) all class licences;
 
@@ -1472,9 +2074,17 @@ Register of
 
 (c) all written notices by the Minister cancelling any registration.
 
-Register of
+<!-- marginal: Register of -->
 
-50. The Commission shall maintain a register of all registration registration notices approved and registered under this notices. Act, in accordance with Chapter 6 of Part V.
+50. The Commission shall maintain a register of all
+
+<!-- marginal: registration -->
+
+registration notices approved and registered under this
+
+<!-- marginal: notices. -->
+
+Act, in accordance with Chapter 6 of Part V.
 
 ## PART V
 
@@ -1486,9 +2096,17 @@ Register of
 
 Directions
 
-Directions by
+<!-- marginal: Directions by -->
 
-51. (1) The Commission may, from time to time, issue the directions in writing to any person regarding the Commission. compliance or non-compliance of any licence conditions, and including but not limited to the remedy of a breach of a licence condition, and the provisions of this Act or its subsidiary legislation.
+51. (1) The Commission may, from time to time, issue
+
+<!-- marginal: the -->
+
+directions in writing to any person regarding the
+
+<!-- marginal: Commission. -->
+
+compliance or non-compliance of any licence conditions, and including but not limited to the remedy of a breach of a licence condition, and the provisions of this Act or its subsidiary legislation.
 
 (2) Before issuing a direction under subsection (1), . the Commission shall issue a notice in writing to the person specifying the nature of required compliance.
 
@@ -1496,7 +2114,9 @@ Directions by
 
 <!-- page 43 -->
 
-(4) After the expiry of the notice specified in subsection (3), the Commission shall take into consideration any reasons provided by the person before making a decision in relation to the relevant conduct or activity of the person.
+(4) After the expiry of the notice specified in subsection
+
+(3), the Commission shall take into consideration any reasons provided by the person before making a decision in relation to the relevant conduct or activity of the person.
 
 (5) After due consideration of any reasons provided by the person, the Commission may issue a direction under subsection (1) requiring the person to take specified action directed towards ensuring that the person does not contravene or continue to contravene any of the conditions of his licence and/or any of the provisions of this Act or its subsidiary legislation.
 
@@ -1556,17 +2176,29 @@ exceeding three years or to both.
 
 <!-- page 44 -->
 
-Register of
+<!-- marginal: Register of -->
 
-54. The Commission shall maintain a register of all directions. directions issued by the Commission, including any written instruments modifying, varying or revoking a direction, in accordance with Chapter 6 of this Part.
+54. The Commission shall maintain a register of all
+
+<!-- marginal: directions. -->
+
+directions issued by the Commission, including any written instruments modifying, varying or revoking a direction, in accordance with Chapter 6 of this Part.
 
 ## Chapter 2
 
 Determination
 
-Determination
+<!-- marginal: Determination -->
 
-55. (1) The Commission may, from time to time, by the determine any matter specified in this Act as being subject Commission. to the Commission's determination.
+55. (1) The Commission may, from time to time,
+
+<!-- marginal: by the -->
+
+determine any matter specified in this Act as being subject
+
+<!-- marginal: Commission. -->
+
+to the Commission's determination.
 
 (2) The Commission may conduct an inquiry to decide whether a determination should be made, either—
 
@@ -1576,11 +2208,7 @@ Determination
 
 (3) Notwithstanding subsection (1), the Commission shall not conduct an inquiry unless it is satisfied that the matter is of significant interest to either the public or to current or prospective licensees under this Act.
 
-(4) An inquiry shall be carried out in accordance with
-
-## Chapter 3 of this Part, and at a standard and in a manner
-
-consistent with the provisions of this Act and its subsidiary legislation and any instrument issued, made or given under this Act.
+(4) An inquiry shall be carried out in accordance with Chapter 3 of this Part, and at a standard and in a manner consistent with the provisions of this Act and its subsidiary legislation and any instrument issued, made or given under this Act.
 
 (5) Within forty-five days from the conclusion of the inquiry, the Commission shall determine the matter,
 
@@ -1676,9 +2304,13 @@ as and when the Commission thinks fit.
 
 (2) The Commission may, for the purposes of an inquiry, exercise any or all of its investigation and information-gathering powers under Chapters 4 and 5 of this Part.
 
-Inquiry shall
+<!-- marginal: Inquiry shall -->
 
-61. (1) Subject to section 62, if the Commission decides be public. to hold a public inquiry or is directed to hold a public inquiry, the Commission shall publish, in the manner that it deems appropriate, notice of—
+61. (1) Subject to section 62, if the Commission decides
+
+<!-- marginal: be public. -->
+
+to hold a public inquiry or is directed to hold a public inquiry, the Commission shall publish, in the manner that it deems appropriate, notice of—
 
 (a) the fact that it is holding the inquiry;
 
@@ -1698,7 +2330,17 @@ Inquiry shall
 
 (4) The submissions made by the members of the public shall be in the form and of the nature as specified in the notice.
 
-Exceptions to 62. Notwithstanding section 61, an inquiry or a part of a public an inquiry may be conducted in private if the Commission inquiry. is satisfied that—
+<!-- marginal: Exceptions to -->
+
+62. Notwithstanding section 61, an inquiry or a part of
+
+<!-- marginal: a public -->
+
+an inquiry may be conducted in private if the Commission
+
+<!-- marginal: inquiry. -->
+
+is satisfied that—
 
 (a) the documents or information that may be given, or a matter that may arise during the inquiry or a part of the inquiry, is of a confidential nature; or
 
@@ -1774,25 +2416,45 @@ out its findings as a result of any inquiry it conducts.
 
 (d) that is the subject of a direction under section 63 or 64.
 
-Protection
+<!-- marginal: Protection -->
 
-66. Civil proceedings shall not lie against a person in from civil respect of any loss, damage or injury of any kind suffered action. by another person because of any of the following acts done in good faith:
+66. Civil proceedings shall not lie against a person in
+
+<!-- marginal: from civil -->
+
+respect of any loss, damage or injury of any kind suffered
+
+<!-- marginal: action. -->
+
+by another person because of any of the following acts done in good faith:
 
 (a) the making of a request under section 58;
 
 (b) the making of a statement, or giving of a document or information, to the Commission in relation to an inquiry under this Chapter.
 
-Register of
+<!-- marginal: Register of -->
 
-67. The Commission shall maintain a register of all reports. reports made pursuant to an inquiry under this Chapter, in accordance with the provisions in Chapter 6 of this Part.
+67. The Commission shall maintain a register of all
+
+<!-- marginal: reports. -->
+
+reports made pursuant to an inquiry under this Chapter, in accordance with the provisions in Chapter 6 of this Part.
 
 ## Chapter 4
 
 Investigation For Purposes Of Administration, Inquiry, Etc.
 
-Investigation
+<!-- marginal: Investigation -->
 
-68. Notwithstanding the provisions of any other written by the law, the Commission shall investigate any matter pertaining Commission. to the administration of this Act or its subsidiary legislation if—
+68. Notwithstanding the provisions of any other written
+
+<!-- marginal: by the -->
+
+law, the Commission shall investigate any matter pertaining
+
+<!-- marginal: Commission. -->
+
+to the administration of this Act or its subsidiary legislation if—
 
 (a) the Minister directs the Commission to conduct an investigation into any civil or criminal offence
 
@@ -1856,13 +2518,15 @@ to which the complaint relates, the Commission shall inform the respondent that 
 
 (6) The Commission shall consider the submissions made by the complainant or the respondent under subsection (5) before making its decision.
 
-Report on
+<!-- marginal: Report on -->
 
 71. (1) After concluding an investigation,
 
 <!-- marginal: the -->
 
-investigation. Commission may prepare and give to the Minister a report.
+<!-- marginal: investigation. -->
+
+Commission may prepare and give to the Minister a report.
 
 (2) The report under subsection (1) shall cover—
 
@@ -1874,9 +2538,13 @@ investigation. Commission may prepare and give to the Minister a report.
 
 (d) such other matters relating to, or arising out of, the investigation as the Commission thinks fit or as the Minister directs.
 
-Publication
+<!-- marginal: Publication -->
 
-72. The Minister may direct the Commission to publish of reports. a report of an investigation if the Minister is satisfied that the publication would be in the national interest.
+72. The Minister may direct the Commission to publish
+
+<!-- marginal: of reports. -->
+
+a report of an investigation if the Minister is satisfied that the publication would be in the national interest.
 
 <!-- page 51 -->
 
@@ -1926,13 +2594,41 @@ Commission at a time and place specified in the notice to give any such evidence
 
 (4) Any person required to provide information under subsection (2) shall ensure that the information provided is true, accurate and complete and such person shall provide a representation to that effect, including a representation that he is not aware of any other information which would make the information provided untrue or misleading.
 
-Offence for
+<!-- marginal: Offence for -->
 
-74. Notwithstanding section 53, a person who fails to non- comply with a direction of the Commission under this compliance. Chapter commits an offence and shall, on conviction, be liable to a fine not exceeding twenty thousand ringgit or to imprisonment for a term not exceeding six months or to both.
+74. Notwithstanding section 53, a person who fails to
 
-Offence for
+<!-- marginal: non- -->
 
-75. Notwithstanding section 53, a person who fails to giving false disclose or omits to give any relevant information or or misleading information, evidence or document, or provides information or evidence evidence or or document that he knows or has reason to believe is document, etc. false or misleading, in response to a direction issued by the Commission commits an offence and shall, on conviction, be liable to a fine not exceeding twenty thousand ringgit.
+comply with a direction of the Commission under this
+
+<!-- marginal: compliance. -->
+
+Chapter commits an offence and shall, on conviction, be liable to a fine not exceeding twenty thousand ringgit or to imprisonment for a term not exceeding six months or to both.
+
+<!-- marginal: Offence for -->
+
+75. Notwithstanding section 53, a person who fails to
+
+<!-- marginal: giving false -->
+
+disclose or omits to give any relevant information or
+
+<!-- marginal: or misleading -->
+
+<!-- marginal: information, -->
+
+evidence or document, or provides information or evidence
+
+<!-- marginal: evidence or -->
+
+or document that he knows or has reason to believe is
+
+<!-- marginal: document, -->
+
+<!-- marginal: etc. -->
+
+false or misleading, in response to a direction issued by the Commission commits an offence and shall, on conviction, be liable to a fine not exceeding twenty thousand ringgit.
 
 <!-- page 53 -->
 
@@ -1986,9 +2682,17 @@ information, evidence or documents received pursuant to the directions given und
 
 54 Bill
 
-Publication
+<!-- marginal: Publication -->
 
-80. (1) The Commission may publish information of received in the course of exercising its powers and information. functions under this Chapter if it is satisfied that the publication is consistent with the objects of this Act.
+80. (1) The Commission may publish information
+
+<!-- marginal: of -->
+
+received in the course of exercising its powers and
+
+<!-- marginal: information. -->
+
+functions under this Chapter if it is satisfied that the publication is consistent with the objects of this Act.
 
 (2) The Commission shall consider the commercial interest of the parties to whom the information relates before publishing the information.
 
@@ -1996,9 +2700,13 @@ Publication
 
 Register
 
-Register of
+<!-- marginal: Register of -->
 
-81. (1) The Commission shall maintain a register, in all matters. both physical and electronic form, of all matters which are required to be registered under this Act and its subsidiary legislation.
+81. (1) The Commission shall maintain a register, in
+
+<!-- marginal: all matters. -->
+
+both physical and electronic form, of all matters which are required to be registered under this Act and its subsidiary legislation.
 
 (2) A person may, on payment of the charge (if any) to be decided by the Commission—
 
@@ -2016,7 +2724,7 @@ Register of
 
 Notification And Resolution Of Disputes
 
-Disputes.
+<!-- marginal: Disputes. -->
 
 82. (1) A dispute between two or more persons ("the parties") regarding any matter under this Act or its subsidiary legislation shall first be attempted to be resolved by negotiation between the parties.
 
@@ -2076,7 +2784,9 @@ referred to in section 83, the Commission shall, as soon
 
 as practicable, convene to decide the dispute.
 
-(2) The Commission shall be bound under subsection (1) to convene to decide a dispute if it is satisfied that—
+(2) The Commission shall be bound under subsection
+
+(1) to convene to decide a dispute if it is satisfied that—
 
 (a) an agreement will not be reached, or will not be reached within a reasonable time;
 
@@ -2088,13 +2798,29 @@ as practicable, convene to decide the dispute.
 
 <!-- page 56 -->
 
-Decision to 87. (1) The terms and conditions of any resolution of be in a dispute by the Commission under this Chapter shall writing. be accompanied with reasons and be in writing.
+<!-- marginal: Decision to -->
+
+87. (1) The terms and conditions of any resolution of
+
+<!-- marginal: be in -->
+
+a dispute by the Commission under this Chapter shall
+
+<!-- marginal: writing. -->
+
+be accompanied with reasons and be in writing.
 
 (2) The Commission shall provide the parties to the dispute with a copy of its decision as soon as practicable.
 
 (3) The decision of the Commission shall be binding on the parties.
 
-Register of 88. (1) The Commission shall register all decisions it decisions. makes under this Chapter, in accordance with Chapter 6 of this Part.
+<!-- marginal: Register of -->
+
+88. (1) The Commission shall register all decisions it
+
+<!-- marginal: decisions. -->
+
+makes under this Chapter, in accordance with Chapter 6 of this Part.
 
 (2) The register shall contain—
 
@@ -2106,7 +2832,11 @@ Register of 88. (1) The Commission shall register all decisions it decisions. ma
 
 but not the terms and conditions of the decision.
 
-89. (1) The Commission may direct a party to a dispute Enforcement. to abide by the decision of the Commission in that dispute.
+89. (1) The Commission may direct a party to a dispute
+
+<!-- marginal: Enforcement. -->
+
+to abide by the decision of the Commission in that dispute.
 
 (2) A decision made by the Commission under this Chapter may be enforced by the High Court as if the decision was a judgement of such Court provided that a certificate has been issued by the Commission to the complainant for leave to proceed to the Court for the enforcement of the decision except in the case of an injunction.
 
@@ -2116,9 +2846,21 @@ but not the terms and conditions of the decision.
 
 Registration Of Agreements
 
-Application
+<!-- marginal: Application -->
 
-90. The parties to a written agreement shall apply to for the the Commission for the registration of the agreement, if registration of this Act requires such registration. agreements.
+90. The parties to a written agreement shall apply to
+
+<!-- marginal: for the -->
+
+the Commission for the registration of the agreement, if
+
+<!-- marginal: registration -->
+
+<!-- marginal: of -->
+
+this Act requires such registration.
+
+<!-- marginal: agreements. -->
 
 <!-- page 57 -->
 
@@ -2190,9 +2932,13 @@ but not the terms and conditions of the agreement.
 
 Voluntary Industry Codes
 
-Industry
+<!-- marginal: Industry -->
 
-94. (1) The Commission may designate an industry body forum. to be an industry forum for the purposes of this Act by notifying that body in writing, if the Commission is satisfied that—
+94. (1) The Commission may designate an industry body
+
+<!-- marginal: forum. -->
+
+to be an industry forum for the purposes of this Act by notifying that body in writing, if the Commission is satisfied that—
 
 (a) the membership of the body is open to all relevant parties;
 
@@ -2206,9 +2952,17 @@ Industry
 
 (4) A designation or withdrawal of designation under this section shall take effect from the date of registration, or a later date specified.
 
-Code by the
+<!-- marginal: Code by the -->
 
-95. (1) An industry forum may prepare a voluntary industry industry code dealing with any matter provided for in forum. this Act —
+95. (1) An industry forum may prepare a voluntary
+
+<!-- marginal: industry -->
+
+industry code dealing with any matter provided for in
+
+<!-- marginal: forum. -->
+
+this Act —
 
 (a) on its own initiative; or
 
@@ -2268,9 +3022,19 @@ an applicable section of this Act; and
 
 <!-- page 60 -->
 
-Applicable
+<!-- marginal: Applicable -->
 
-97. (1) The Commission shall ensure that there is only voluntary one voluntary industry code in operation that is applicable industry code. to a particular matter for a particular person or class of persons at a given time.
+97. (1) The Commission shall ensure that there is only
+
+<!-- marginal: voluntary -->
+
+one voluntary industry code in operation that is applicable
+
+<!-- marginal: industry -->
+
+<!-- marginal: code. -->
+
+to a particular matter for a particular person or class of persons at a given time.
 
 (2) If there is any uncertainty or ambiguity, a person may apply to the Commission for its opinion on which voluntary industry code is the applicable code in relation to the circumstances of the applicant.
 
@@ -2280,19 +3044,55 @@ Applicable
 
 (5) The opinion shall be binding on the Commission and the applicant for a period of three years from the date that the opinion is provided under subsection (3).
 
-(6) The Commission shall maintain a register of opinions provided under this section, in accordance with
-
-## Chapter 6 of this Part.
+(6) The Commission shall maintain a register of opinions provided under this section, in accordance with Chapter 6 of this Part.
 
 (7) Notwithstanding subsection (5), the Commission may withdraw an opinion under this section if the Commission is satisfied that the nature of the activity engaged in by the applicant has changed materially.
 
-Compliance
+<!-- marginal: Compliance -->
 
-98. (1) Subject to section 99, compliance with a with a registered voluntary industry code shall not be mandatory. registered voluntary industry (2) Compliance with a registered voluntary industry code code shall be a defence against any prosecution, action a legal defence. or proceeding of any nature, whether in a court or otherwise, taken against a person (who is subject to the voluntary industry code) regarding a matter dealt with in that code.
+98. (1) Subject to section 99, compliance with a
 
-Directions
+<!-- marginal: with a -->
 
-99. The Commission may direct a person or a class of to comply persons, in accordance with section 51, to comply with with a registered a registered voluntary industry code. voluntary industry code.
+registered voluntary industry code shall not be mandatory.
+
+<!-- marginal: registered -->
+
+<!-- marginal: voluntary -->
+
+<!-- marginal: industry -->
+
+(2) Compliance with a registered voluntary industry
+
+<!-- marginal: code -->
+
+code shall be a defence against any prosecution, action
+
+<!-- marginal: a legal -->
+
+<!-- marginal: defence. -->
+
+or proceeding of any nature, whether in a court or otherwise, taken against a person (who is subject to the voluntary industry code) regarding a matter dealt with in that code.
+
+<!-- marginal: Directions -->
+
+99. The Commission may direct a person or a class of
+
+<!-- marginal: to comply -->
+
+persons, in accordance with section 51, to comply with
+
+<!-- marginal: with a -->
+
+<!-- marginal: registered -->
+
+a registered voluntary industry code.
+
+<!-- marginal: voluntary -->
+
+<!-- marginal: industry -->
+
+<!-- marginal: code. -->
 
 <!-- page 61 -->
 
@@ -2356,7 +3156,7 @@ current voluntary industry codes, in accordance with
 
 <!-- marginal: industry code. -->
 
-## Chapter 6 of this Part.
+Chapter 6 of this Part.
 
 ## Chapter 10
 
@@ -2400,9 +3200,15 @@ continue to fail, to promote industry conduct which is consistent with—
 
 (4) The determination of the Commission under this section shall be in accordance with section 55.
 
-Mandatory
+<!-- marginal: Mandatory -->
 
-105. (1) A mandatory standard determined by the standard to Commission under this Chapter shall be consistent with— be consistent.
+105. (1) A mandatory standard determined by the
+
+<!-- marginal: standard to -->
+
+Commission under this Chapter shall be consistent with—
+
+<!-- marginal: be consistent. -->
 
 (a) the objects of this Act;
 
@@ -2414,17 +3220,29 @@ Mandatory
 
 (3) A person subject to a mandatory standard shall comply with the mandatory standard.
 
-Modification,
+<!-- marginal: Modification, -->
 
 106. (1) The Commission may determine
 
 <!-- marginal: the -->
 
-variation or modification, variation or revocation of a mandatory revocation of a mandatory standard, in accordance with section 55, if it is satisfied standard.
+<!-- marginal: variation or -->
+
+modification, variation or revocation of a mandatory
+
+<!-- marginal: revocation of -->
+
+<!-- marginal: a mandatory -->
+
+standard, in accordance with section 55, if it is satisfied
+
+<!-- marginal: standard. -->
 
 <!-- page 63 -->
 
-that the mandatory standard is no longer consistent with all the matters listed in paragraphs 105(l)f«J, (b) and (c).
+that the mandatory standard is no longer consistent with all the matters listed in paragraphs 105(l)f«J, (b) and
+
+(c).
 
 (2) Any modification or variation of a mandatory standard under subsection (1) shall be deemed to be a new standard for the purposes of this Chapter and shall be subject to the provisions of this Chapter.
 
@@ -2506,9 +3324,19 @@ Commission regarding any matter which may be the subject of a voluntary industry
 
 and the undertaking may include the effective date of the undertaking and/or the date of its expiry.
 
-Registration
+<!-- marginal: Registration -->
 
-111. (1) An undertaking provided under this Chapter of shall only be valid and enforceable upon its registration. an under- taking. (2) A person may submit a written application to the Commission to have an undertaking registered by the Commission.
+111. (1) An undertaking provided under this Chapter
+
+<!-- marginal: of -->
+
+shall only be valid and enforceable upon its registration.
+
+<!-- marginal: an under- -->
+
+<!-- marginal: taking. -->
+
+(2) A person may submit a written application to the Commission to have an undertaking registered by the Commission.
 
 (3) The Commission shall register an undertaking if it is satisfied that the undertaking—
 
@@ -2584,9 +3412,17 @@ existing undertakings, in accordance with Chapter 6.
 
 <!-- page 66 -->
 
-Enforcement
+<!-- marginal: Enforcement -->
 
-116. (1) Subject to subsection (2), the Commission or of an a person may apply to a court for the enforcement of undertaking. a registered undertaking against the person providing the undertaking if an undertaking has not been complied with.
+116. (1) Subject to subsection (2), the Commission or
+
+<!-- marginal: of an -->
+
+a person may apply to a court for the enforcement of
+
+<!-- marginal: undertaking. -->
+
+a registered undertaking against the person providing the undertaking if an undertaking has not been complied with.
 
 (2) If a sum of money is payable by any person, or where anything, other than the payment of money, is required to be done or not to be done by any person because of any direction given by the Commission under section 112, and the direction has not been complied with by the person to whom it is addressed, then the direction shall, for all purposes, be enforceable as a judgement of the High Court, in accordance with such rules of court as may be applicable or in such manner as the Court may deem just or expedient provided that a certificate has been issued by the Commission to the complainant for leave to proceed to the Court for the enforcement of a registered undertaking except in the case of an injunction.
 
@@ -2596,9 +3432,13 @@ Enforcement
 
 Regulatory Forbearance
 
-Regulatory
+<!-- marginal: Regulatory -->
 
-117. (1) Notwithstanding anything contained in this Act, forbearance. the Minister may, on the recommendation of the Commission, direct the Commission to forbear from applying any provision of this Act or its subsidiary legislation to a licensee or class of licensees, or to a person or class of persons, if the Minister determines that-
+117. (1) Notwithstanding anything contained in this Act,
+
+<!-- marginal: forbearance. -->
+
+the Minister may, on the recommendation of the Commission, direct the Commission to forbear from applying any provision of this Act or its subsidiary legislation to a licensee or class of licensees, or to a person or class of persons, if the Minister determines that-
 
 (a) the enforcement of such provision is not necessary to ensure the achievement of the objects of this Act;
 
@@ -2664,15 +3504,27 @@ the decision within a period of not more than thirty days from the date of recei
 
 (4) In this Chapter, "decision" includes any action, order, report or delegated authority.
 
-Review by
+<!-- marginal: Review by -->
 
-120. (1) Subject to subsection (2), a person who is the Appeal aggrieved or whose interest is adversely affected by a Tribunal. decision or direction (but not a determination) of the Commission made pursuant to the performance its powers and functions under this Act or its subsidiary legislation, may appeal to the Appeal Tribunal for a review of the merits and the process of certain decisions or directions of the Commission, unless the matter is not subject to an appeal to the Appeal Tribunal.
+120. (1) Subject to subsection (2), a person who is
+
+<!-- marginal: the Appeal -->
+
+aggrieved or whose interest is adversely affected by a
+
+<!-- marginal: Tribunal. -->
+
+decision or direction (but not a determination) of the Commission made pursuant to the performance its powers and functions under this Act or its subsidiary legislation, may appeal to the Appeal Tribunal for a review of the merits and the process of certain decisions or directions of the Commission, unless the matter is not subject to an appeal to the Appeal Tribunal.
 
 (2) Subject to subsection 17(1), the Minister may determine the decisions or directions of the Commission which are not subject to appeal to the Appeal Tribunal under subsection (1).
 
-Judicial
+<!-- marginal: Judicial -->
 
-121. (1) A person affected by a decision or other action review. of the Minister or Commission may apply to the court for a judicial review of such decision or other action.
+121. (1) A person affected by a decision or other action
+
+<!-- marginal: review. -->
+
+of the Minister or Commission may apply to the court for a judicial review of such decision or other action.
 
 (2) A person shall not apply to the court for a judicial review unless that person has first exhausted all other remedies provided under this Act.
 
@@ -2734,9 +3586,15 @@ providers, network service providers, applications service providers and content
 
 <!-- page 70 -->
 
-Matters to
+<!-- marginal: Matters to -->
 
-124. Matters upon which the Commission shall monitor monitor and report include, but are not limited to, the following: and report.
+124. Matters upon which the Commission shall monitor
+
+<!-- marginal: monitor -->
+
+and report include, but are not limited to, the following:
+
+<!-- marginal: and report. -->
 
 (a) the operation and administration of this Act and its subsidiary legislation;
 
@@ -2756,9 +3614,13 @@ Matters to
 
 (i) other matters that the Commission is satisfied are relevant.
 
-Report to
+<!-- marginal: Report to -->
 
-125. The Commission shall publish the report, in the be published. manner it deems appropriate, as soon as practicable following the date on which the Commission conveys the report to the Minister.
+125. The Commission shall publish the report, in the
+
+<!-- marginal: be published. -->
+
+manner it deems appropriate, as soon as practicable following the date on which the Commission conveys the report to the Minister.
 
 ## PART VI
 
@@ -2768,11 +3630,27 @@ Report to
 
 Licensing
 
-Licensing of
+<!-- marginal: Licensing of -->
 
-126. (1) Subject to such exemptions as may be network determined by the Minister by order published in the facilities, Gazette, no person shall— network services and applications
+126. (1) Subject to such exemptions as may be
 
-(a) own or provide any network facilities; services.
+<!-- marginal: network -->
+
+determined by the Minister by order published in the
+
+<!-- marginal: facilities, -->
+
+Gazette, no person shall—
+
+<!-- marginal: network -->
+
+<!-- marginal: services and -->
+
+<!-- marginal: applications -->
+
+(a) own or provide any network facilities;
+
+<!-- marginal: services. -->
 
 (b) provide any network services; or
 
@@ -2826,7 +3704,43 @@ boundary for the purposes of this Act.
 
 (3) The ownership of any network facilities and the provision of any network services or applications services, solely on the customer side of the network boundary, are exempted from the provisions of this Part.
 
-Exemption 129. An applications service provider who is not subject for to a class licence under section 126 shall be deemed to applications service be exempted from the provisions of this Chapter, but provider not not from the provisions of Part VII regarding technical subject to a class regulation. licence. Nominated 130. (1) The Minister may, on the recommendation of facilities the Commission, determine that a licensed network provider. facilities provider, other than the owner of any network facilities, be a nominated facilities provider for the network facilities for the purposes of this Act, if the Minister is satisfied that the nomination will not impede—
+<!-- marginal: Exemption -->
+
+129. An applications service provider who is not subject
+
+<!-- marginal: for -->
+
+to a class licence under section 126 shall be deemed to
+
+<!-- marginal: applications -->
+
+<!-- marginal: service -->
+
+be exempted from the provisions of this Chapter, but
+
+<!-- marginal: provider not -->
+
+not from the provisions of Part VII regarding technical
+
+<!-- marginal: subject to -->
+
+<!-- marginal: a class -->
+
+regulation.
+
+<!-- marginal: licence. -->
+
+<!-- marginal: Nominated -->
+
+130. (1) The Minister may, on the recommendation of
+
+<!-- marginal: facilities -->
+
+the Commission, determine that a licensed network
+
+<!-- marginal: provider. -->
+
+facilities provider, other than the owner of any network facilities, be a nominated facilities provider for the network facilities for the purposes of this Act, if the Minister is satisfied that the nomination will not impede—
 
 (a) the achievement of the objects of this Act; and
 
@@ -2834,15 +3748,45 @@ Exemption 129. An applications service provider who is not subject for to a clas
 
 (2) Upon the determination of the nominated facilities provider under subsection (1), the owner shall then be deemed to be exempted from the provisions of this Chapter.
 
-Providers 131. A person shall not operate under a class licence under a class in respect of any network facilities or network service licence shall register. or applications service unless that person is registered by the Commission.
+<!-- marginal: Providers -->
 
-Separate 132. A licence obtained under this Chapter does not licence. exempt any person from the obligation to obtain a licence under any other relevant section of this Act.
+131. A person shall not operate under a class licence
+
+<!-- marginal: under a class -->
+
+in respect of any network facilities or network service
+
+<!-- marginal: licence shall -->
+
+<!-- marginal: register. -->
+
+or applications service unless that person is registered by the Commission.
+
+<!-- marginal: Separate -->
+
+132. A licence obtained under this Chapter does not
+
+<!-- marginal: licence. -->
+
+exempt any person from the obligation to obtain a licence under any other relevant section of this Act.
 
 ## Chapter 2
 
 General Competition Practices
 
-133. A licensee shall not engage in any conduct which Prohibition on anti- has the purpose of substantially lessening competition competitive in a communications market. conduct.
+133. A licensee shall not engage in any conduct which
+
+<!-- marginal: Prohibition -->
+
+<!-- marginal: on anti- -->
+
+has the purpose of substantially lessening competition
+
+<!-- marginal: competitive -->
+
+in a communications market.
+
+<!-- marginal: conduct. -->
 
 <!-- page 73 -->
 
@@ -2926,7 +3870,23 @@ in a dominant position in a communications market.
 
 <!-- page 74 -->
 
-Guidelines as 138. (1) The Commission may publish guidelines which to the clarify how it will apply the test of "dominant position" meaning of "dominant to a licensee. position". (2) The guidelines may specify the matters which the Commission may take into account, including—
+<!-- marginal: Guidelines as -->
+
+138. (1) The Commission may publish guidelines which
+
+<!-- marginal: to the -->
+
+clarify how it will apply the test of "dominant position"
+
+<!-- marginal: meaning of -->
+
+<!-- marginal: "dominant -->
+
+to a licensee.
+
+<!-- marginal: position". -->
+
+(2) The guidelines may specify the matters which the Commission may take into account, including—
 
 (a) the relevant economic market;
 
@@ -2940,9 +3900,23 @@ Guidelines as 138. (1) The Commission may publish guidelines which to the clarif
 
 (f) any other matters which the Commission is satisfied are relevant,
 
-Commission
+<!-- marginal: Commission -->
 
-139. (1) The Commission may direct a licensee in a may direct a dominant position in a communications market to cease licensee in a dominant a conduct in that communications market which has, or position. may have, the effect of substantially lessening competition in any communications market, and to implement appropriate remedies.
+139. (1) The Commission may direct a licensee in a
+
+<!-- marginal: may direct a -->
+
+dominant position in a communications market to cease
+
+<!-- marginal: licensee in -->
+
+<!-- marginal: a dominant -->
+
+a conduct in that communications market which has, or
+
+<!-- marginal: position. -->
+
+may have, the effect of substantially lessening competition in any communications market, and to implement appropriate remedies.
 
 (2) The Commission may only issue a direction under subsection (1) if the Commission is satisfied that the direction is consistent with—
 
@@ -2950,7 +3924,13 @@ Commission
 
 (b) any relevant instrument under this Act.
 
-Authorisation 140. (1) A licensee may apply to the Commission, prior of a conduct. to engaging into any conduct which may be construed to have the purpose or the effect of substantially lessening competition in a communications market, for authorisation of the conduct.
+<!-- marginal: Authorisation -->
+
+140. (1) A licensee may apply to the Commission, prior
+
+<!-- marginal: of a conduct. -->
+
+to engaging into any conduct which may be construed to have the purpose or the effect of substantially lessening competition in a communications market, for authorisation of the conduct.
 
 <!-- page 75 -->
 
@@ -3016,11 +3996,27 @@ of agreements between licensees, under this Act, and foreign network facilities 
 
 Access To Services
 
-Facilities
+<!-- marginal: Facilities -->
 
-145. (1) The list of facilities and services which may and services be included in the access list, as determined by the which may be Commission under this Chapter, are— included in the access
+145. (1) The list of facilities and services which may
 
-(a) network facilities; list.
+<!-- marginal: and services -->
+
+be included in the access list, as determined by the
+
+<!-- marginal: which may -->
+
+<!-- marginal: be -->
+
+Commission under this Chapter, are—
+
+<!-- marginal: included in -->
+
+<!-- marginal: the access -->
+
+(a) network facilities;
+
+<!-- marginal: list. -->
 
 (b) network services; and
 
@@ -3028,7 +4024,19 @@ Facilities
 
 (2) The facilities or services listed in paragraph (l)(c) do not have to be owned or provided by the licensees under this Act.
 
-Determination 146. Subject to subsection 147(2), the Commission may of facilities determine that— and services by the Commission.
+<!-- marginal: Determination -->
+
+146. Subject to subsection 147(2), the Commission may
+
+<!-- marginal: of facilities -->
+
+determine that—
+
+<!-- marginal: and services -->
+
+<!-- marginal: by the -->
+
+<!-- marginal: Commission. -->
 
 (a) a network facility;
 
@@ -3114,15 +4122,33 @@ who makes a written request for access to such network facilities provider or ne
 
 (3) A person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding five hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both.
 
-Registration
+<!-- marginal: Registration -->
 
-150. (1) A written access agreement for the provision of access of listed network facilities or network services shall be agreements. registered with the Commission in accordance with section 91.
+150. (1) A written access agreement for the provision
+
+<!-- marginal: of access -->
+
+of listed network facilities or network services shall be
+
+<!-- marginal: agreements. -->
+
+registered with the Commission in accordance with section
+
+91.
 
 (2) No written access agreement for the provision of listed network facilities or network services shall be enforceable unless it has been registered.
 
-Notification
+<!-- marginal: Notification -->
 
-151. (1) A party to a dispute over the compliance with of access the standard access obligation under section 149 may disputes. notify the Commission of the dispute under Chapter 7 of Part V.
+151. (1) A party to a dispute over the compliance with
+
+<!-- marginal: of access -->
+
+the standard access obligation under section 149 may
+
+<!-- marginal: disputes. -->
+
+notify the Commission of the dispute under Chapter 7 of Part V.
 
 <!-- page 79 -->
 
@@ -3184,9 +4210,17 @@ in accordance with section 110.
 
 <!-- page 80 -->
 
-Registration
+<!-- marginal: Registration -->
 
-156. The Commission shall not register an undertaking, of an in accordance with its general powers in section 111, undertaking. unless it is satisfied that the undertaking is consistent with the standard access obligations.
+156. The Commission shall not register an undertaking,
+
+<!-- marginal: of an -->
+
+in accordance with its general powers in section 111,
+
+<!-- marginal: undertaking. -->
+
+unless it is satisfied that the undertaking is consistent with the standard access obligations.
 
 ## PART VII
 
@@ -3196,9 +4230,23 @@ Registration
 
 Spectrum Assignment
 
-Prohibition
+<!-- marginal: Prohibition -->
 
-157. (1) Subject to such exemptions as may be on using determined by the Minister by order published in the spectrum without Gazette, no person shall intentionally transmit in any assignment. part of the spectrum to provide a network service unless—
+157. (1) Subject to such exemptions as may be
+
+<!-- marginal: on using -->
+
+determined by the Minister by order published in the
+
+<!-- marginal: spectrum -->
+
+<!-- marginal: without -->
+
+Gazette, no person shall intentionally transmit in any
+
+<!-- marginal: assignment. -->
+
+part of the spectrum to provide a network service unless—
 
 (a) the person holds a spectrum assignment issued under this Part;
 
@@ -3208,13 +4256,29 @@ Prohibition
 
 (2) A person who contravenes any prohibition under this Chapter commits an offence and shall, on conviction, be liable to a fine not exceeding five hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both.
 
-Power of
+<!-- marginal: Power of -->
 
-158. The Minister may make regulations in relation to the Minister any matter under this Part. to make regulations.
+158. The Minister may make regulations in relation to
 
-Issue of
+<!-- marginal: the Minister -->
 
-159. (1) The Commission may issue a spectrum spectrum assignment which confers rights on a person to use one assignment. or more specified frequency bands for any purpose consistent with the assignment conditions.
+any matter under this Part.
+
+<!-- marginal: to make -->
+
+<!-- marginal: regulations. -->
+
+<!-- marginal: Issue of -->
+
+159. (1) The Commission may issue a spectrum
+
+<!-- marginal: spectrum -->
+
+assignment which confers rights on a person to use one
+
+<!-- marginal: assignment. -->
+
+or more specified frequency bands for any purpose consistent with the assignment conditions.
 
 <!-- page 81 -->
 
@@ -3408,9 +4472,33 @@ auction;
 
 (e) a conversion plan for the conversion of designated apparatus assignments into spectrum assignments.
 
-Compulsory 178. (1) The Minister may direct the Commission to acquisition develop procedures for the compulsory acquisition by of assignments the Commission of assignments in a determined spectrum. in determined (2) The Commission may recommend to the Minister spectrum. that assignments in a determined spectrum be compulsorily acquired by the Commission in accordance with a reassignment of spectrum consistent with the spectrum plan.
+<!-- marginal: Compulsory -->
 
-(3) The Minister may, after taking into account the recommendation of the Commission under subsection (2), direct that assignments in a determined spectrum be compulsorily acquired by the Commission.
+178. (1) The Minister may direct the Commission to
+
+<!-- marginal: acquisition -->
+
+develop procedures for the compulsory acquisition by
+
+<!-- marginal: of -->
+
+<!-- marginal: assignments -->
+
+the Commission of assignments in a determined spectrum.
+
+<!-- marginal: in -->
+
+<!-- marginal: determined -->
+
+(2) The Commission may recommend to the Minister
+
+<!-- marginal: spectrum. -->
+
+that assignments in a determined spectrum be compulsorily acquired by the Commission in accordance with a reassignment of spectrum consistent with the spectrum plan.
+
+(3) The Minister may, after taking into account the recommendation of the Commission under subsection
+
+(2), direct that assignments in a determined spectrum be compulsorily acquired by the Commission.
 
 (4) The Commission may pay a reasonable amount of compensation to the holder of an assignment whose assignment has been acquired prior to its expiry, by a direction made under this section.
 
@@ -3420,9 +4508,25 @@ Compulsory 178. (1) The Minister may direct the Commission to acquisition develo
 
 Numbering And Electronic Addressing
 
-Control,
+<!-- marginal: Control, -->
 
-179. (1) The Commission shall be vested with the planning and control, planning, administration, management and administration assignment of the numbering and electronic addressing of numbering and electronic of network services and applications services. addressing.
+179. (1) The Commission shall be vested with the
+
+<!-- marginal: planning and -->
+
+control, planning, administration, management and
+
+<!-- marginal: administration -->
+
+assignment of the numbering and electronic addressing
+
+<!-- marginal: of numbering -->
+
+<!-- marginal: and electronic -->
+
+of network services and applications services.
+
+<!-- marginal: addressing. -->
 
 <!-- page 85 -->
 
@@ -3506,17 +4610,59 @@ to itself.
 
 Technical Standards
 
-Hindering 182. A person who uses any technical equipment or inter- systems which hinder network interoperability commits operability an offence. an offence and shall, on conviction, be liable to a fine not exceeding five hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both.
+<!-- marginal: Hindering -->
 
-Compromising 183. A person who uses any technical equipment or public safety systems which compromise public safety commits an an offence. offence and shall, on conviction, be liable to a fine not exceeding five hundred thousand ringgit or
+182. A person who uses any technical equipment or
+
+<!-- marginal: inter- -->
+
+systems which hinder network interoperability commits
+
+<!-- marginal: operability -->
+
+<!-- marginal: an offence. -->
+
+an offence and shall, on conviction, be liable to a fine not exceeding five hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both.
+
+<!-- marginal: Compromising -->
+
+183. A person who uses any technical equipment or
+
+<!-- marginal: public safety -->
+
+systems which compromise public safety commits an
+
+<!-- marginal: an offence. -->
+
+offence and shall, on conviction, be liable to a fine not exceeding five hundred thousand ringgit or
 
 <!-- marginal: to -->
 
 imprisonment for a term not exceeding five years or to both.
 
-Technical 184. The Commission may designate an industry body standards to be a forum for technical standards ("technical standards forum. forum") for the purposes of this Part.
+<!-- marginal: Technical -->
 
-Matters for 185. (1) A technical code prepared by the technical technical standards forum or the Commission under this section code. shall include, but is not limited to, the following:
+184. The Commission may designate an industry body
+
+<!-- marginal: standards -->
+
+to be a forum for technical standards ("technical standards
+
+<!-- marginal: forum. -->
+
+forum") for the purposes of this Part.
+
+<!-- marginal: Matters for -->
+
+185. (1) A technical code prepared by the technical
+
+<!-- marginal: technical -->
+
+standards forum or the Commission under this section
+
+<!-- marginal: code. -->
+
+shall include, but is not limited to, the following:
 
 (a) requirements for network interoperability, including, but not limited to, the provision of certain network capabilities such as calling line identification capability and pre-selection capability; and
 
@@ -3572,19 +4718,43 @@ not require an individual licence, and is not subject to a class licence, under 
 
 <!-- page 88 -->
 
-Provision of 188. (1) A person who provides any network service network or applications service shall— services or applications
+<!-- marginal: Provision of -->
 
-(a) deal reasonably with consumers; and services.
+188. (1) A person who provides any network service
+
+<!-- marginal: network -->
+
+or applications service shall—
+
+<!-- marginal: services or -->
+
+<!-- marginal: applications -->
+
+(a) deal reasonably with consumers; and
+
+<!-- marginal: services. -->
 
 (b) adequately address consumer complaints.
 
 (2) A person who contravenes subsection (1) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding twenty thousand ringgit or to imprisonment for a term not exceeding six months or to both.
 
-Consumer
+<!-- marginal: Consumer -->
 
-189. The Commission may designate an industry body forum. to be a consumer forum for the purposes of this Chapter.
+189. The Commission may designate an industry body
 
-Matters for 190. (1) A consumer code prepared by a consumer forum consumer or the Commission shall include model procedures for— code.
+<!-- marginal: forum. -->
+
+to be a consumer forum for the purposes of this Chapter.
+
+<!-- marginal: Matters for -->
+
+190. (1) A consumer code prepared by a consumer forum
+
+<!-- marginal: consumer -->
+
+or the Commission shall include model procedures for—
+
+<!-- marginal: code. -->
 
 (a) reasonably meeting consumer requirements;
 
@@ -3604,7 +4774,17 @@ Matters for 190. (1) A consumer code prepared by a consumer forum consumer or th
 
 (e) any other matter of concern to consumers.
 
-Publication 191. After the preparation of a consumer code, the of consumer consumer code shall be published and notice of it shall code. be advertised in at least one national language and one English language national daily newspapers for at least three consecutive days.
+<!-- marginal: Publication -->
+
+191. After the preparation of a consumer code, the
+
+<!-- marginal: of consumer -->
+
+consumer code shall be published and notice of it shall
+
+<!-- marginal: code. -->
+
+be advertised in at least one national language and one English language national daily newspapers for at least three consecutive days.
 
 <!-- page 89 -->
 
@@ -3652,7 +4832,9 @@ applications services.
 
 <!-- marginal: services. -->
 
-(2) The Commission shall direct the class of licensees providing network services, determined under subsection (1), to provide the required applications services.
+(2) The Commission shall direct the class of licensees providing network services, determined under subsection
+
+(1), to provide the required applications services.
 
 <!-- marginal: Direction -->
 
@@ -3694,25 +4876,45 @@ consumer protection including, but not limited to, the failure by a licensee to 
 
 <!-- page 90 -->
 
-Procedures
+<!-- marginal: Procedures -->
 
-196. The Commission shall establish procedures or for consumer guidelines for the making, receipt and handling of complaints. complaints of consumers regarding the conduct or operation of licensees.
+196. The Commission shall establish procedures or
+
+<!-- marginal: for consumer -->
+
+guidelines for the making, receipt and handling of
+
+<!-- marginal: complaints. -->
+
+complaints of consumers regarding the conduct or operation of licensees.
 
 ## Chapter 4
 
 Rate Regulation
 
-Rate setting
+<!-- marginal: Rate setting -->
 
-197. (1) Except as otherwise provided in this Chapter, by providers. a network facilities provider, network service provider, applications service provider or content applications service provider may set rates in accordance with the market rates.
+197. (1) Except as otherwise provided in this Chapter,
+
+<!-- marginal: by providers. -->
+
+a network facilities provider, network service provider, applications service provider or content applications service provider may set rates in accordance with the market rates.
 
 (2) All of the providers mentioned in subsection (1) are required to publish the rates charged to customers for one or more services.
 
 (3) For the purposes of this Chapter, "network facilities provider" includes a nominated facilities provider.
 
-Principles
+<!-- marginal: Principles -->
 
-198. The rates established by a provider mentioned in on rate subsection 197(1) shall be on the basis of the following setting. principles:
+198. The rates established by a provider mentioned in
+
+<!-- marginal: on rate -->
+
+subsection 197(1) shall be on the basis of the following
+
+<!-- marginal: setting. -->
+
+principles:
 
 (a) rates must be fair and, for similarly situated persons, not unreasonably discriminatory;
 
@@ -3792,15 +4994,47 @@ for specified or classes of network facilities, network services, applications s
 
 Universal Service Provision
 
-System of
+<!-- marginal: System of -->
 
-202. (1) The Minister may direct the Commission to universal determine a system to promote the widespread availability service provision. and usage of network services and/or applications services throughout Malaysia by encouraging the installation of network facilities and the provision for network services and/or applications services in underserved areas or for underserved groups within the community.
+202. (1) The Minister may direct the Commission to
+
+<!-- marginal: universal -->
+
+determine a system to promote the widespread availability
+
+<!-- marginal: service -->
+
+<!-- marginal: provision. -->
+
+and usage of network services and/or applications services throughout Malaysia by encouraging the installation of network facilities and the provision for network services and/or applications services in underserved areas or for underserved groups within the community.
 
 (2) The Minister may make regulations under section 16 for the implementation of subsection (1).
 
-Definition of
+<!-- marginal: Definition of -->
 
-203. (1) A determination by the Commission under "underserved subsection 202(1) shall include definitions of "underserved areas" and "underserved areas" and "underserved groups within the community". groups within the (2) In determining the definition of "underserved community", etc. areas", the Commission may have regard to—
+203. (1) A determination by the Commission under
+
+<!-- marginal: "underserved -->
+
+subsection 202(1) shall include definitions of "underserved
+
+<!-- marginal: areas" and -->
+
+<!-- marginal: "underserved -->
+
+areas" and "underserved groups within the community".
+
+<!-- marginal: groups -->
+
+<!-- marginal: within the -->
+
+(2) In determining the definition of "underserved
+
+<!-- marginal: community", -->
+
+<!-- marginal: etc. -->
+
+areas", the Commission may have regard to—
 
 (a) the level of competition in particular areas or places;
 
@@ -3814,9 +5048,19 @@ Definition of
 
 (b) any barriers to the use of available services.
 
-Universal
+<!-- marginal: Universal -->
 
-204. (1) For the purposes of this Act, a fund to be Service known as the "Universal Service Provision Fund" ("USP Provision Fund. Fund") is established and it shall be controlled and operated by the Commission.
+204. (1) For the purposes of this Act, a fund to be
+
+<!-- marginal: Service -->
+
+known as the "Universal Service Provision Fund" ("USP
+
+<!-- marginal: Provision -->
+
+<!-- marginal: Fund. -->
+
+Fund") is established and it shall be controlled and operated by the Commission.
 
 <!-- page 93 -->
 
@@ -3876,9 +5120,19 @@ with the Schedule.
 
 (3) A content applications service provider shall not provide any service except in accordance with the conditions of the licence granted to that licensee under this Chapter or the conditions of a class licence to which such content applications service provider is subject.
 
-Closed
+<!-- marginal: Closed -->
 
-207. (1) The Minister may determine the definition of content a "closed content applications service" for the purposes applications of this Act. service.
+207. (1) The Minister may determine the definition of
+
+<!-- marginal: content -->
+
+a "closed content applications service" for the purposes
+
+<!-- marginal: applications -->
+
+of this Act.
+
+<!-- marginal: service. -->
 
 (2) In the absence of such determination, a closed content applications service shall be—
 
@@ -3888,17 +5142,39 @@ Closed
 
 (3) The provision of any closed content applications service shall be exempt from the provisions of this Part.
 
-Exemptions
+<!-- marginal: Exemptions -->
 
-208. (1) An applications service provider is exempted for from the provisions under section 205 to the extent that incidental the content in question is content incidental to the service content. provided.
+208. (1) An applications service provider is exempted
+
+<!-- marginal: for -->
+
+from the provisions under section 205 to the extent that
+
+<!-- marginal: incidental -->
+
+the content in question is content incidental to the service
+
+<!-- marginal: content. -->
+
+provided.
 
 (2) For the purposes of this section, the Minister may determine guidelines to clarify the meaning of "content incidental to the service provided" and all matters related to it.
 
 (3) The guidelines determined by the Minister shall be published by the Commission, in the manner it deems appropriate, and shall be registered in the register as soon as practicable.
 
-Limited
+<!-- marginal: Limited -->
 
-209. (1) A person providing a limited content content applications service is not required to hold an individual applications service. licence but he may be subject to a class licence.
+209. (1) A person providing a limited content
+
+<!-- marginal: content -->
+
+applications service is not required to hold an individual
+
+<!-- marginal: applications -->
+
+<!-- marginal: service. -->
+
+licence but he may be subject to a class licence.
 
 (2) A limited content applications service provider to which no class licence applies shall be deemed to be exempted from all the provisions under this Part.
 
@@ -3958,9 +5234,17 @@ provide content which is indecent, obscene, false, menacing, or offensive in cha
 
 not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding one year or to both and shall also be liable to a further fine of one thousand ringgit for every day or part of a day during which the offence is continued after conviction.
 
-Content 212. The Commission may designate an industry body forum. to be a content forum for the purposes of this Part.
+<!-- marginal: Content -->
 
-Content code. 213. (1) A content code prepared by the content forum or the Commission sha include model procedures for dealing with offensive or indecent content.
+212. The Commission may designate an industry body
+
+<!-- marginal: forum. -->
+
+to be a content forum for the purposes of this Part.
+
+<!-- marginal: Content code. -->
+
+213. (1) A content code prepared by the content forum or the Commission sha include model procedures for dealing with offensive or indecent content.
 
 (2) The matters which the code may address may include, but are not limited to—
 
@@ -3984,7 +5268,13 @@ Content code. 213. (1) A content code prepared by the content forum or the Commi
 
 Installation Of Network Facilities, Access To Network Facilities, Etc.
 
-Inspection 214. A network facilities provider, may for the purposes of land. of determining whether any land is suitable for his purpose of installing, or obtaining access to, network facilities—
+<!-- marginal: Inspection -->
+
+214. A network facilities provider, may for the purposes
+
+<!-- marginal: of land. -->
+
+of determining whether any land is suitable for his purpose of installing, or obtaining access to, network facilities—
 
 (a) enter on, and inspect, the land; and
 
@@ -4036,15 +5326,35 @@ out the installation of network facilities if—
 
 (4) For the purposes of subsection (1), the Minister may, on the recommendation of the Commission, determine that specified network facilities are low-impact network facilities.
 
-Minimal
+<!-- marginal: Minimal -->
 
-216. In engaging in an activity under this Chapter, a damage. network facilities provider shall take all reasonable steps to ensure that he causes as little detriment and inconvenience, and does as little damage, as is practicable.
+216. In engaging in an activity under this Chapter, a
 
-Network
+<!-- marginal: damage. -->
 
-217. If a network facilities provider engages in an activity facilities under this Chapter in relation to any land, the provider provider to restore land. shall take all reasonable steps to restore the land to a condition that is similar to its condition before the activity began.
+network facilities provider shall take all reasonable steps to ensure that he causes as little detriment and inconvenience, and does as little damage, as is practicable.
 
-Management 218. A network facilities provider shall, in connection of activity. with carrying out an activity covered by this Chapter, take all reasonable steps—
+<!-- marginal: Network -->
+
+217. If a network facilities provider engages in an activity
+
+<!-- marginal: facilities -->
+
+under this Chapter in relation to any land, the provider
+
+<!-- marginal: provider to -->
+
+<!-- marginal: restore land. -->
+
+shall take all reasonable steps to restore the land to a condition that is similar to its condition before the activity began.
+
+<!-- marginal: Management -->
+
+218. A network facilities provider shall, in connection
+
+<!-- marginal: of activity. -->
+
+with carrying out an activity covered by this Chapter, take all reasonable steps—
 
 (a) to act in accordance with good engineering practice;
 
@@ -4084,7 +5394,7 @@ utility that makes provision for the manner in which the provider will engage in
 
 <!-- marginal: Conditions -->
 
-### 220. If—
+220. If—
 
 <!-- marginal: to which a -->
 
@@ -4160,9 +5470,21 @@ shall give written notice of his intention to do so—
 
 (c) the land is a public place.
 
-Notice to 222. (1) At least fourteen days before— owner of land for
+<!-- marginal: Notice to -->
 
-(a) cutting down or lopping a tree on private land; lopping of or trees, etc.
+222. (1) At least fourteen days before—
+
+<!-- marginal: owner of -->
+
+<!-- marginal: land for -->
+
+(a) cutting down or lopping a tree on private land;
+
+<!-- marginal: lopping of -->
+
+or
+
+<!-- marginal: trees, etc. -->
 
 (b) clearing or removing undergrowth or vegetation on private land,
 
@@ -4220,7 +5542,9 @@ under section 215, a network facilities provider shall give written notice of hi
 
 <!-- page 102 -->
 
-(2) A person or authority may waive the person's or authority's right to be given a notice under subsection (1).
+(2) A person or authority may waive the person's or authority's right to be given a notice under subsection
+
+(1).
 
 (3) Subsection (1) does not apply if—
 
@@ -4238,13 +5562,57 @@ under section 215, a network facilities provider shall give written notice of hi
 
 (v) the maintenance of an adequate level of service.
 
-Road, etc.
+<!-- marginal: Road, etc. -->
 
-224. If a network facilities provider engages in an activity to remain covered by section 215, the provider shall ensure that open for passage. the network facilities installed over a road, bridge, path or navigable water are installed in a way that will allow reasonable passage by persons, vehicles and vessels.
+224. If a network facilities provider engages in an activity
 
-Network 225. A network facilities provider may apply to the facilities Commission, in the manner as provided in the regulations, installation for a network facilities installation permit authorising permit. the network facilities provider to carry out the installation of one or more network facilities.
+<!-- marginal: to remain -->
 
-Criteria for 226. The Commission shall issue a network facilities issue of installation permit that authorises a network facilities network provider to carry out the installation of one or more facilities installation facilities if the network facilities provider has satisfied permit. the Commission that—
+covered by section 215, the provider shall ensure that
+
+<!-- marginal: open for -->
+
+<!-- marginal: passage. -->
+
+the network facilities installed over a road, bridge, path or navigable water are installed in a way that will allow reasonable passage by persons, vehicles and vessels.
+
+<!-- marginal: Network -->
+
+225. A network facilities provider may apply to the
+
+<!-- marginal: facilities -->
+
+Commission, in the manner as provided in the regulations,
+
+<!-- marginal: installation -->
+
+for a network facilities installation permit authorising
+
+<!-- marginal: permit. -->
+
+the network facilities provider to carry out the installation of one or more network facilities.
+
+<!-- marginal: Criteria for -->
+
+226. The Commission shall issue a network facilities
+
+<!-- marginal: issue of -->
+
+installation permit that authorises a network facilities
+
+<!-- marginal: network -->
+
+provider to carry out the installation of one or more
+
+<!-- marginal: facilities -->
+
+<!-- marginal: installation -->
+
+facilities if the network facilities provider has satisfied
+
+<!-- marginal: permit. -->
+
+the Commission that—
 
 (a] both of the following conditions are satisfied:
 
@@ -4274,15 +5642,75 @@ section 215, be required, for carrying out the installation; and
 
 (f) the advantages that are likely to be derived from the operation of the network facilities outweigh any form of degradation of the environment that is likely to result from the installation of the network facilities.
 
-Network 227. A network facilities installation permit has effect facilities subject to this Act and any other relevant written law. installation permit has effect subject to this Act and other laws. Access to 228. (1) Notwithstanding the provisions of any other post, network written law, a network facilities provider or a public facilities or utility shall provide a network facilities provider with right-of-way. non-discriminatory access to any post, network facilities or right-of-way owned or controlled by him.
+<!-- marginal: Network -->
+
+227. A network facilities installation permit has effect
+
+<!-- marginal: facilities -->
+
+subject to this Act and any other relevant written law.
+
+<!-- marginal: installation -->
+
+<!-- marginal: permit has -->
+
+<!-- marginal: effect subject -->
+
+<!-- marginal: to this Act -->
+
+<!-- marginal: and other -->
+
+<!-- marginal: laws. -->
+
+<!-- marginal: Access to -->
+
+228. (1) Notwithstanding the provisions of any other
+
+<!-- marginal: post, network -->
+
+written law, a network facilities provider or a public
+
+<!-- marginal: facilities or -->
+
+utility shall provide a network facilities provider with
+
+<!-- marginal: right-of-way. -->
+
+non-discriminatory access to any post, network facilities or right-of-way owned or controlled by him.
 
 (2) Notwithstanding subsection (1), a network facilities provider or a public utility may deny any network facilities provider access to his post, network facilities or right- of-way on a non-discriminatory basis where there is insufficient capacity, or for reasons of safety, security, reliability, or difficulty of a technical or engineering nature.
 
-Commission 229. (1) The Commission may regulate the rates, to regulate terms and conditions for access to any post, network matters on access to facilities or right-of-way and provide that such rates, post, etc. terms and conditions are just and reasonable and may adopt procedures necessary and appropriate to hear and resolve disputes in accordance with Chapter 7 of Part V.
+<!-- marginal: Commission -->
+
+229. (1) The Commission may regulate the rates,
+
+<!-- marginal: to regulate -->
+
+terms and conditions for access to any post, network
+
+<!-- marginal: matters on -->
+
+<!-- marginal: access to -->
+
+facilities or right-of-way and provide that such rates,
+
+<!-- marginal: post, etc. -->
+
+terms and conditions are just and reasonable and may adopt procedures necessary and appropriate to hear and resolve disputes in accordance with Chapter 7 of Part V.
 
 (2) Nothing in this section shall be construed to apply to, or to give the Commission jurisdiction with respect to access to any posts, network facilities or right-of-way where such matters are regulated by a State Authority, local authority or other authority.
 
-Minister 230. The Minister may, on the recommendation of the may make Commission, make regulations regarding the manner for regulations. the carrying out of the provisions of this Chapter.
+<!-- marginal: Minister -->
+
+230. The Minister may, on the recommendation of the
+
+<!-- marginal: may make -->
+
+Commission, make regulations regarding the manner for
+
+<!-- marginal: regulations. -->
+
+the carrying out of the provisions of this Chapter.
 
 <!-- page 105 -->
 
@@ -4306,11 +5734,7 @@ or addressee of any communication without an approval
 
 <!-- marginal: authority. -->
 
-by a registered certifying agency under Chapter 3 of
-
-## Part VII commits an offence and shall, on conviction,
-
-be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding two years or to both.
+by a registered certifying agency under Chapter 3 of Part VII commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding two years or to both.
 
 <!-- marginal: Fraudulent -->
 
@@ -4342,7 +5766,9 @@ with intent to avoid payment of any rate or fee applicable to the provision of t
 
 (2) A person who possesses, obtains or creates a system designed to fraudulently use or obtain any network facilities, network service, applications service or content applications service commits an offence.
 
-(3) A person who commits an offence under subsection (1) or (2) shall, on conviction, be liable to a fine not exceeding three hundred thousand ringgit or to imprisonment for a term not exceeding three years or to both.
+(3) A person who commits an offence under subsection
+
+(1) or (2) shall, on conviction, be liable to a fine not exceeding three hundred thousand ringgit or to imprisonment for a term not exceeding three years or to both.
 
 <!-- marginal: Improper -->
 
@@ -4384,17 +5810,25 @@ commits an offence.
 
 (3) A person who commits an offence under this section shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding one year or to both and shall also be liable to a further fine of one thousand ringgit for every day during which the offence is continued after conviction.
 
-Interception
+<!-- marginal: Interception -->
 
-234. (1) A person who, without lawful authority under and disclosure this Act or any other written law— of communi- cations prohibited.
+234. (1) A person who, without lawful authority under
+
+<!-- marginal: and disclosure -->
+
+this Act or any other written law—
+
+<!-- marginal: of communi- -->
+
+<!-- marginal: cations -->
+
+<!-- marginal: prohibited. -->
 
 (a) intercepts, attempts to intercept, or procures any other person to intercept or attempt to intercept, any communications;
 
 <!-- page 107 -->
 
-(b) discloses, or attempts to disclose, to any other person the contents of any communications, knowing or having reason to believe that the information was obtained
-
-<!-- marginal: through -->
+(b) discloses, or attempts to disclose, to any other person the contents of any communications, knowing or having reason to believe that the information was obtained through
 
 <!-- marginal: the -->
 
@@ -4410,9 +5844,7 @@ commits an offence.
 
 (2) A person authorised under this Act who intentionally discloses, or attempts to disclose, to any other person the contents of any communications, intercepted by means authorised by this Act—
 
-(a) knowing or having reason to believe that the information was obtained
-
-<!-- marginal: through -->
+(a) knowing or having reason to believe that the information was obtained through
 
 <!-- marginal: the -->
 
@@ -4428,7 +5860,9 @@ connection with a criminal investigation;
 
 commits an offence.
 
-(3) A person who commits an offence under subsection (1) or (2) shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding one year or to both.
+(3) A person who commits an offence under subsection
+
+(1) or (2) shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding one year or to both.
 
 (4) It shall be lawful under this Chapter for an officer, employee or agent of any network facilities provider, network service provider, applications service provider or content applications service provider whose facilities or services are used in communications, to intercept, disclose, or use those communications in the normal course of his employment while engaged in any activity which
 
@@ -4436,15 +5870,39 @@ commits an offence.
 
 is a necessary incident to the rendition of his facilities or services or to the protection of the rights or property of the provider of the facilities or services, but the provider shall not utilise the facilities or services for observing or random monitoring unless it is for mechanical or service quality control checks.
 
-Damage to
+<!-- marginal: Damage to -->
 
-235. A person who, by any wilful, dishonest or negligent network act or omission, extends, tampers with, adjusts, alters, facilities, etc. removes, destroys or damages any network facilities or any part of them commits an offence and shall, on conviction, be liable to a fine not exceeding three hundred thousand ringgit or to imprisonment for a term not exceeding three years or to both.
+235. A person who, by any wilful, dishonest or negligent
 
-Fraud and
+<!-- marginal: network -->
 
-236. (1) A person who knowingly or with intention to related defraud— activity in connection with access
+act or omission, extends, tampers with, adjusts, alters,
 
-(a) produces, assembles, uses, imports, sells, supplies devices, etc. or lets for hire any counterfeit access devices;
+<!-- marginal: facilities, -->
+
+<!-- marginal: etc. -->
+
+removes, destroys or damages any network facilities or any part of them commits an offence and shall, on conviction, be liable to a fine not exceeding three hundred thousand ringgit or to imprisonment for a term not exceeding three years or to both.
+
+<!-- marginal: Fraud and -->
+
+236. (1) A person who knowingly or with intention to
+
+<!-- marginal: related -->
+
+defraud—
+
+<!-- marginal: activity -->
+
+<!-- marginal: in connection -->
+
+<!-- marginal: with access -->
+
+(a) produces, assembles, uses, imports, sells, supplies
+
+<!-- marginal: devices, etc. -->
+
+or lets for hire any counterfeit access devices;
 
 (b) possesses any counterfeit access device or unauthorised access device;
 
@@ -4468,7 +5926,9 @@ commits an offence.
 
 commits an offence.
 
-(3) A person who commits an offence under subsection (1) or (2) shall, on conviction, be liable to a fine not exceeding five hundred thousand ringgit or
+(3) A person who commits an offence under subsection
+
+(1) or (2) shall, on conviction, be liable to a fine not exceeding five hundred thousand ringgit or
 
 <!-- marginal: to -->
 
@@ -4502,15 +5962,37 @@ a call back service under this Act.
 
 a result of such other signalling arrangements as the Commission may determine, enables a user in Malaysia to call a foreign point without paying the rate imposed by an authorised Malaysian network facilities provider, network service provider and/or applications service provider for a call from Malaysia to such point.
 
-Emission from 238. (1) A person who, knowingly or without reasonable non-standard excuse, causes a radio emission from any non-standard equipment or device. equipment or device commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding one year or to both.
+<!-- marginal: Emission from -->
+
+238. (1) A person who, knowingly or without reasonable
+
+<!-- marginal: non-standard -->
+
+excuse, causes a radio emission from any non-standard
+
+<!-- marginal: equipment -->
+
+<!-- marginal: or device. -->
+
+equipment or device commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding one year or to both.
 
 (2) For the purposes of this Chapter, "non-standard equipment or device" means any equipment or device that does not comply with the technical or procedural standards prepared or determined under this Act.
 
-Unlawful use,
+<!-- marginal: Unlawful use, -->
 
-239. (1) A person who— possession or supply of
+239. (1) A person who—
 
-(a) uses any non-standard equipment or device; non-standard equipment or device.
+<!-- marginal: possession or -->
+
+<!-- marginal: supply of -->
+
+(a) uses any non-standard equipment or device;
+
+<!-- marginal: non-standard -->
+
+<!-- marginal: equipment -->
+
+<!-- marginal: or device. -->
 
 (b) has in his possession any non-standard equipment or device that he knows or has reason to believe is a non-standard equipment or device for the purpose of installing, working, operating or using the equipment or device; or
 
@@ -4594,15 +6076,39 @@ knowing or having reason to believe that the advertisement will be sent through 
 
 commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding two years or to both.
 
-Offence for 241. A person who— giving false and
+<!-- marginal: Offence for -->
 
-(a) subject to the provisions of subsection 256(2), misleading refuses to give to an authorised officer any statement. information relating to an offence under this Act or its subsidiary legislation; or
+241. A person who—
+
+<!-- marginal: giving -->
+
+<!-- marginal: false and -->
+
+(a) subject to the provisions of subsection 256(2),
+
+<!-- marginal: misleading -->
+
+refuses to give to an authorised officer any
+
+<!-- marginal: statement. -->
+
+information relating to an offence under this Act or its subsidiary legislation; or
 
 (b) knowingly gives false information,
 
 commits an offence and shall, on conviction, be liable to a fine not exceeding twenty thousand ringgit or to imprisonment for a term not exceeding six months or to both.
 
-General 242. Every omission or neglect to comply with, and offence and every act done or attempted to be done contrary to, this penalty. Act or its subsidiary legislation or any written instrument made under this Act, or in breach of the conditions subject to which any licence has been granted, or assignment issued, shall be an offence against this Act or its subsidiary legislation, and for every such offence, where the penalty is not otherwise specifically provided for, the offender shall, in addition to the forfeiture of any thing seized, be liable to a fine not exceeding one hundred thousand
+<!-- marginal: General -->
+
+242. Every omission or neglect to comply with, and
+
+<!-- marginal: offence and -->
+
+every act done or attempted to be done contrary to, this
+
+<!-- marginal: penalty. -->
+
+Act or its subsidiary legislation or any written instrument made under this Act, or in breach of the conditions subject to which any licence has been granted, or assignment issued, shall be an offence against this Act or its subsidiary legislation, and for every such offence, where the penalty is not otherwise specifically provided for, the offender shall, in addition to the forfeiture of any thing seized, be liable to a fine not exceeding one hundred thousand
 
 <!-- page 113 -->
 
@@ -4658,9 +6164,13 @@ affairs of the body corporate or was assisting in such management—
 
 Powers Of Entry, Investigation Into Offences And Prosecution
 
-Authorised
+<!-- marginal: Authorised -->
 
-245. (1) The Minister may in writing authorise any officer. public officer or officer of the Commission to exercise the powers of enforcement under this Act.
+245. (1) The Minister may in writing authorise any
+
+<!-- marginal: officer. -->
+
+public officer or officer of the Commission to exercise the powers of enforcement under this Act.
 
 <!-- page 115 -->
 
@@ -4714,7 +6224,9 @@ as to any offence so suspected to have been committed;
 
 (6) If, by reason of its nature, size or amount, it is not practicable to remove any book, accounts, document, computerised data, signboard, card, letter, pamphlet, leaflet, notice, facility, apparatus, equipment, device, thing or matter seized under this section, the seizing officer shall, by any means, seal such book, accounts, document, computerised data, signboard, card, letter, pamphlet, leaflet, notice, facility, apparatus, equipment, device, thing or matter in the premises or container in which it is found.
 
-(7) A person who, without lawful authority, breaks, tampers with or damages the seal referred to in subsection (6) or removes any book, accounts, document,
+(7) A person who, without lawful authority, breaks, tampers with or damages the seal referred to in subsection
+
+(6) or removes any book, accounts, document,
 
 <!-- page 117 -->
 
@@ -4776,13 +6288,33 @@ a list of the things seized and immediately deliver a copy of the list signed by
 
 (2) If the premises are unoccupied, the seizing officer shall whenever possible post a list of the things seized conspicuously on the premises.
 
-Release of
+<!-- marginal: Release of -->
 
-251. (1) If any thing has been seized under this Act, things a designated police officer other than the police officer seized. who effected the seizure, may at any time after that before it is forfeited under this Act release the thing to the person as he determines to be lawfully entitled to the thing if he is satisfied that the thing is not liable to forfeiture under this Act and is not otherwise required for the purpose of any proceedings under this Act, or for the purpose of any prosecution under any other law, and in such event neither the officer effecting the seizure, nor the Government or any person acting on behalf of the Government, shall be liable to any proceedings by any person if the seizure and the release of the thing had been effected in good faith.
+251. (1) If any thing has been seized under this Act,
+
+<!-- marginal: things -->
+
+a designated police officer other than the police officer
+
+<!-- marginal: seized. -->
+
+who effected the seizure, may at any time after that before it is forfeited under this Act release the thing to the person as he determines to be lawfully entitled to the thing if he is satisfied that the thing is not liable to forfeiture under this Act and is not otherwise required for the purpose of any proceedings under this Act, or for the purpose of any prosecution under any other law, and in such event neither the officer effecting the seizure, nor the Government or any person acting on behalf of the Government, shall be liable to any proceedings by any person if the seizure and the release of the thing had been effected in good faith.
 
 (2) A record in writing shall be made by the officer effecting the release of any thing under subsection (1) specifying in detail the circumstances of, and the reason for, the release, and he shall send a copy of the record to the Public Prosecutor and to the Inspector-General of Police within seven days of the release.
 
-Power to 252. (1) Notwithstanding the provisions of any other intercept written law, the Public Prosecutor, if he considers that communica- tions. any communications is likely to contain any information which is relevant for the purpose of any investigation into an offence under this Act or its subsidiary legislation, may, on the application of an authorised officer or a police officer of or above the rank of Superintendent, authorise the officer to intercept or to listen to any communication transmitted or received by any communications.
+<!-- marginal: Power to -->
+
+252. (1) Notwithstanding the provisions of any other
+
+<!-- marginal: intercept -->
+
+written law, the Public Prosecutor, if he considers that
+
+<!-- marginal: communica- -->
+
+<!-- marginal: tions. -->
+
+any communications is likely to contain any information which is relevant for the purpose of any investigation into an offence under this Act or its subsidiary legislation, may, on the application of an authorised officer or a police officer of or above the rank of Superintendent, authorise the officer to intercept or to listen to any communication transmitted or received by any communications.
 
 <!-- page 119 -->
 
@@ -4818,15 +6350,43 @@ execution of this Act or its subsidiary legislation, have power to do all or any
 
 (c) to make such inquiry as may be necessary to ascertain whether the provisions of this Act or its subsidiary legislation have been complied with.
 
-Power to
+<!-- marginal: Power to -->
 
-255. (1) An authorised officer making an investigation require under this Act may by order in writing require the attendance of person attendance before himself of a person who appears to acquainted the authorised officer to be acquainted with the with case. circumstances of the case, and the person shall attend as so required.
+255. (1) An authorised officer making an investigation
+
+<!-- marginal: require -->
+
+under this Act may by order in writing require the
+
+<!-- marginal: attendance -->
+
+<!-- marginal: of person -->
+
+attendance before himself of a person who appears to
+
+<!-- marginal: acquainted -->
+
+the authorised officer to be acquainted with the
+
+<!-- marginal: with case. -->
+
+circumstances of the case, and the person shall attend as so required.
 
 (2) If the person fails to attend as required, the authorised officer may report the failure to a Magistrate who shall issue a warrant to secure the attendance of the person.
 
-Examination
+<!-- marginal: Examination -->
 
-256. (1) An authorised officer making an investigation of person under this Act may examine orally a person supposed acquainted with case. to be acquainted with the facts and circumstances of the case.
+256. (1) An authorised officer making an investigation
+
+<!-- marginal: of person -->
+
+under this Act may examine orally a person supposed
+
+<!-- marginal: acquainted -->
+
+<!-- marginal: with case. -->
+
+to be acquainted with the facts and circumstances of the case.
 
 (2) The person shall be legally bound to answer all questions relating to the case put to him by the authorised officer, but the person may refuse to answer any question the answer to which would have a tendency to expose him to a criminal charge or penalty or forfeiture.
 
@@ -4864,15 +6424,35 @@ to a confession or not or whether it is oral or in writing, made at any time, wh
 
 (3) A statement made by a person before there is time to caution him shall not be rendered inadmissible in evidence merely by reason of his not having been cautioned if he is cautioned as soon as possible after that.
 
-Authorised
+<!-- marginal: Authorised -->
 
-258. Upon completion of his investigation into an offence officer to under this Act or its subsidiary legislation, the authorised complete investigation officer shall immediately give all information relating to and hand the commission of the offence to an officer in charge over to police. of a police station and a police officer may, by warrant, arrest a person who may have committed an offence under this Act or its subsidiary legislation.
+258. Upon completion of his investigation into an offence
 
-Prosecution.
+<!-- marginal: officer to -->
+
+under this Act or its subsidiary legislation, the authorised
+
+<!-- marginal: complete -->
+
+<!-- marginal: investigation -->
+
+officer shall immediately give all information relating to
+
+<!-- marginal: and hand -->
+
+the commission of the offence to an officer in charge
+
+<!-- marginal: over to -->
+
+<!-- marginal: police. -->
+
+of a police station and a police officer may, by warrant, arrest a person who may have committed an offence under this Act or its subsidiary legislation.
+
+<!-- marginal: Prosecution. -->
 
 259. No prosecution shall be instituted for an offence under this Act without the consent in writing of the Public Prosecutor.
 
-Forfeiture.
+<!-- marginal: Forfeiture. -->
 
 260. (1) Any facility, apparatus, equipment, device, thing or matter seized under this Act may be liable to forfeiture.
 
@@ -4896,19 +6476,53 @@ shall be taken or deemed to be forfeited at the expiration of one calendar month
 
 124 Bill
 
-Jurisdiction 261. Notwithstanding any written law to the contrary, to try a Sessions Court shall have jurisdiction to try any offence offences. under this Act.
+<!-- marginal: Jurisdiction -->
 
-Rewards. 262. The Commission may order such rewards as it may deem fit to be paid to any police officer or other public officer or other person for services rendered in connection with the detection of any offence under this Act or it's subsidiary legislation, or in relation to any forfeiture proceeding, or any seizure made, under this Act.
+261. Notwithstanding any written law to the contrary,
+
+<!-- marginal: to try -->
+
+a Sessions Court shall have jurisdiction to try any offence
+
+<!-- marginal: offences. -->
+
+under this Act.
+
+<!-- marginal: Rewards. -->
+
+262. The Commission may order such rewards as it may deem fit to be paid to any police officer or other public officer or other person for services rendered in connection with the detection of any offence under this Act or it's subsidiary legislation, or in relation to any forfeiture proceeding, or any seizure made, under this Act.
 
 ## Chapter 4
 
 National Interest Matters
 
-General 263. (1) A licensee shall use his best endeavour to duty of prevent the network facilities that he owns or provides licensees. or the network service , applications service or content applications service that he provides from being used in, or in relation to the commission of any offence under any law of Malaysia.
+<!-- marginal: General -->
+
+263. (1) A licensee shall use his best endeavour to
+
+<!-- marginal: duty of -->
+
+prevent the network facilities that he owns or provides
+
+<!-- marginal: licensees. -->
+
+or the network service , applications service or content applications service that he provides from being used in, or in relation to the commission of any offence under any law of Malaysia.
 
 (2) A licensee shall, upon written request by the Commission or any other authority, assist the Commission or other authority as far as reasonably necessary in preventing the commission or attempted commission of an offence under any written law of Malaysia or otherwise in enforcing the laws of Malaysia, including, but not limited to, the protection of the public revenue and preservation of national security.
 
-Persons not 264. Any network facilities provider, network service liable for provider, applications service provider or content act done in good faith. applications service provider or any of his employees, shall not be liable in any criminal proceedings of any nature for any damage (including punitive damages), loss, cost, or expenditure suffered or to be suffered (whether directly or indirectly) for any act or omission done in good faith in the performance of the duty imposed under section 263.
+<!-- marginal: Persons not -->
+
+264. Any network facilities provider, network service
+
+<!-- marginal: liable for -->
+
+provider, applications service provider or content
+
+<!-- marginal: act done in -->
+
+<!-- marginal: good faith. -->
+
+applications service provider or any of his employees, shall not be liable in any criminal proceedings of any nature for any damage (including punitive damages), loss, cost, or expenditure suffered or to be suffered (whether directly or indirectly) for any act or omission done in good faith in the performance of the duty imposed under section 263.
 
 <!-- page 125 -->
 
@@ -4956,15 +6570,41 @@ applications service or customer equipment under subsection (1), the person lice
 
 (4), Nothing in this section shall prevent the use of any network facilities, network service, applications service, content applications service or customer equipment for the purpose of making a distress call.
 
-267. The Commission may direct a licensee or class of Disaster plan. licensees to develop, in consultation with the authorities specified by the Commission, a disaster plan for the survivability and recovery of any network facilities, network service, applications service or content applications service in case of a disaster, crisis or civil emergency.
+267. The Commission may direct a licensee or class of
+
+<!-- marginal: Disaster plan. -->
+
+licensees to develop, in consultation with the authorities specified by the Commission, a disaster plan for the survivability and recovery of any network facilities, network service, applications service or content applications service in case of a disaster, crisis or civil emergency.
 
 ## Chapter 5
 
 Miscellaneous
 
-Minister may 268. The Minister may make rules, to be published in make rules on the Gazette, to provide for record-keeping and to require record- one or more licensees or persons to keep and retain records. keeping.
+<!-- marginal: Minister may -->
 
-Interworking 269. (1) The Minister may direct the Commission with other regarding the interworking arrangements between the authorities. Commission and any other authority in Malaysia or in a foreign jurisdiction, or any international organisation.
+268. The Minister may make rules, to be published in
+
+<!-- marginal: make rules on -->
+
+the Gazette, to provide for record-keeping and to require
+
+<!-- marginal: record- -->
+
+one or more licensees or persons to keep and retain records.
+
+<!-- marginal: keeping. -->
+
+<!-- marginal: Interworking -->
+
+269. (1) The Minister may direct the Commission
+
+<!-- marginal: with other -->
+
+regarding the interworking arrangements between the
+
+<!-- marginal: authorities. -->
+
+Commission and any other authority in Malaysia or in a foreign jurisdiction, or any international organisation.
 
 (2) The Minister may make rules, to be published in the Gazette, and/or determine arrangements for interworking with, or membership of, international organisations regarding the interworking arrangements between licensees under this Act and international organisations.
 
@@ -5038,17 +6678,49 @@ subsidiary legislation made under this Act, and shall be deemed for all purposes
 
 (3) The Minister may, whenever it appears to him necessary or expedient so to do whether for the purpose of removing difficulties or in consequence of the passing of this Act, by order to be published in the Gazette, make such modifications to any subsidiary legislation as he deems fit.
 
-Dissolution 274. (1) The Telecommunications Fund is dissolved. of the Telecommuni- (2) All moneys standing in the Telecommunications cations Fund. Fund shall, on the date of coming into operation of this Act, be transferred to and vested in the Fund established under the Malaysian Communications and Multimedia Commission Act 1998.
+<!-- marginal: Dissolution -->
 
-Savings. 275. Any registration, act, order, direction, approval or decision done, made or given before the date of coming into operation of this Act shall be deemed to have been done, made or given under this Act and shall continue in full force and effect in relation to whom they apply until amended or revoked under this Act or new rules, regulations or other subsidiary legislation are made under it or until the date of its expiry.
+274. (1) The Telecommunications Fund is dissolved.
+
+<!-- marginal: of the -->
+
+<!-- marginal: Telecommuni- -->
+
+(2) All moneys standing in the Telecommunications
+
+<!-- marginal: cations Fund. -->
+
+Fund shall, on the date of coming into operation of this Act, be transferred to and vested in the Fund established under the Malaysian Communications and Multimedia Commission Act 1998.
+
+<!-- marginal: Savings. -->
+
+275. Any registration, act, order, direction, approval or decision done, made or given before the date of coming into operation of this Act shall be deemed to have been done, made or given under this Act and shall continue in full force and effect in relation to whom they apply until amended or revoked under this Act or new rules, regulations or other subsidiary legislation are made under it or until the date of its expiry.
 
 ## Chapter 2
 
 Transitional Provisions For Licences
 
-Old licences 276. Subject to section 278, licences issued under the tohave effect. repealed Acts ("old licences") shall continue to have effect under this Act.
+<!-- marginal: Old licences -->
 
-New class 277. Notwithstanding section 276, an old licence shall licences to not have effect to the extent of any conflict with a class supersede old licences. licence granted under this Act.
+276. Subject to section 278, licences issued under the
+
+<!-- marginal: tohave effect. -->
+
+repealed Acts ("old licences") shall continue to have effect under this Act.
+
+<!-- marginal: New class -->
+
+277. Notwithstanding section 276, an old licence shall
+
+<!-- marginal: licences to -->
+
+not have effect to the extent of any conflict with a class
+
+<!-- marginal: supersede -->
+
+<!-- marginal: old licences. -->
+
+licence granted under this Act.
 
 <!-- page 129 -->
 
@@ -5410,9 +7082,7 @@ Annual licence fee schedule: Annual turnover % RM.......... ...........% RM.....
 
 <!-- page 139 -->
 
-Communications and Multimedia
-
-<!-- marginal: 139 -->
+Communications and Multimedia 139
 
 Licensed area.
 

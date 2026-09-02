@@ -26,8 +26,7 @@
       "eli:number": "DR-38-1992",
       "hasPart": [
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/38/eng@/~cl_1",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/38/eng@/~cl_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/38/eng@/~sched_1"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/38/eng@/~cl_2"
       ],
       "schema:name": {
         "@language": "en",
@@ -55,17 +54,7 @@
       },
       "schema:text": {
         "@language": "en",
-        "@value": "amended by substituting for subsection (2) of section 1"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/38/eng@/~sched_1",
-      "@type": "akn:schedule",
-      "eli:number": "1",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/38/eng@",
-      "schema:text": {
-        "@language": "en",
-        "@value": "the following: \"(2) In assessing the market value— (a) the effect of any express or implied condition of title restricting the use to which the scheduled land may be put; and (b) the effect of any prohibition, restriction or requirement imposed by Act 168. or under the Antiquities Act 1976 in relation to any ancient monument or historical site within the meaning of that Act on the scheduled land, shall be taken into account.\"."
+        "@value": "amended by substituting for subsection (2) of section 1 Schedule. the following: \"(2) In assessing the market value— (a) the effect of any express or implied condition of title restricting the use to which the scheduled land may be put; and (b) the effect of any prohibition, restriction or requirement imposed by Act 168. or under the Antiquities Act 1976 in relation to any ancient monument or historical site within the meaning of that Act on the scheduled land, shall be taken into account.\"."
       }
     }
   ]

@@ -308,7 +308,11 @@ Fungsi konsular terdiri daripada:
 
 Hubungan Konsular (Konvensyen Vienna)
 
-(j) menghantar dokumen kehakiman dan luar kehakiman atau menyempurnakan suratan rogatori atau tugas mengambil keterangan bagi mahkamah Negara penghantar mengikut perjanjian antarabangsa yang berkuat kuasa atau, jika tiada perjanjian antarabangsa sedemikian. mengikut apa-apa cara lain yang serasi dengan undang-undang dan peraturan-peraturan Negara penerima;
+(j) menghantar dokumen kehakiman dan
+
+<!-- marginal: luar kehakiman atau -->
+
+menyempurnakan suratan rogatori atau tugas mengambil keterangan bagi mahkamah Negara penghantar mengikut perjanjian antarabangsa yang berkuat kuasa atau, jika tiada perjanjian antarabangsa sedemikian. mengikut apa-apa cara lain yang serasi dengan undang-undang dan peraturan-peraturan Negara penerima;
 
 (k) menjalankan hak pengawalseliaan dan pemeriksaan yang diperuntukkan dalam undang-undang dan peraturan-peraturan Negara penghantar berkenaan dengan vesel yang mempunyai kerakyatan Negara penghantar, dan berkenaan dengan pesawat udara yang didaftarkan di Negara itu, dan berkenaan dengan anak kapalnya;
 
@@ -576,7 +580,9 @@ Tanggungan untuk memberikan keterangan
 
 Penepian keistimewaan dan kekebalan
 
-1. Negara penghantar boleh menepikan, mengenai seseorang anggota jawatan konsular, mana-mana keistimewaan dan kekebalan yang diperuntukkan dalam Perkara 41, 43 dan 44.
+1. Negara penghantar boleh menepikan, mengenai seseorang anggota jawatan konsular, mana-mana keistimewaan dan kekebalan yang diperuntukkan dalam
+
+## Perkara 41, 43 dan 44.
 
 2. Penepian itu hendaklah dalam segala hal dibuat secara nyata, kecuali sebagaimana yang diperuntukkan dalam perenggan 3 Perkara ini, dan hendaklah disampaikan kepada Negara penerima secara bertulis.
 
@@ -632,7 +638,9 @@ Pengecualian daripada pencukaian
 
 <!-- page 26 -->
 
-(c) duti harta pusaka, pewarisan, dan duti pemindahmilikan, yang dilevi oleh Negara penerima, tertakluk kepada peruntukan perenggan (b) Perkara 51;
+(c) duti harta pusaka, pewarisan, dan duti pemindahmilikan, yang dilevi oleh Negara penerima, tertakluk kepada peruntukan perenggan (b)
+
+## Perkara 51;
 
 (d) dius dan cukai ke atas pendapatan sendiri, termasuk laba modal, yang mempunyai sumbernya di Negara penerima dan cukai modal yang berhubungan dengan pelaburan yang dibuat dalam pengusahaan komersial atau kewangan di Negara penerima;
 

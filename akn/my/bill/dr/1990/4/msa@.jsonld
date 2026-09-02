@@ -1,0 +1,273 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-4-1990",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_9"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Ubat (Iklan dan Penjualan) (Pindaan) 1990"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Ubat (Iklan dan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Penjualan) (Pindaan) 1990."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 2 Akta Ubat (Iklan dan Penjualan) 1956,"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang disebut \"Akta ibu\" dalam Akta ini, adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan, selepas takrif \"hospital awam\", takrif yang berikut: \"hospital swasta\" ertinya hos- pital yang didaftarkan di bawah Akta 43. Akta Hospital Persendirian 1971;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan, selepas perkataan \"pekeliling,\" dalam takrif \"iklan\", perkataan- perkataan \"laporan, ulasan,\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan \"berdaftar\" dalam takrif \"pegawai berkuasa\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 3 Akta ibu adalah dipinda, dalam"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan, selepas perkataan- perkataan \"sebagai suatu ubat\", perkataan- perkataan \", alat atau penyembuh\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah bertindih di akhir perenggan (c) dengan koma bernoktah dan dengan memasukkan selepas perenggan itu perenggan yang berikut: \"(d) mendiagnosis sesuatu penyakit seperti yang dinyatakan dalam Jadual:\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 4A Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikannya dengan seksyen yang berikut: 4A. Tertakluk kepada Akta ini, tiada seorang pun boleh mengambil bahagian dalam penyiaran apa-apa iklan— (a) yang merujuk kepada apa-apa ke- mahiran atau perkhidmatan yang berhubungan dengan rawatan, pen- cegahan atau diagnosis bagi apa-apa ailmen, penyakit, kecederaan, kele- mahan atau keadaan yang melibatkan tubuh manusia; dan (b) yang dapat mendorong, atau yang mengandungi pelawaan, sama ada nyata atau tersirat, kepada, mana-mana orang untuk mendapatkan nasihat pengiklan atau mana-mana orang yang dirujuk dalam iklan itu berkaitan dengan kemahiran atau perkhidmatan itu: Dengan syarat bahawa seksyen ini tidaklah terpakai bagi apa-apa iklan yang disiarkan— (aa) dengan kelulusan Menteri, oleh mana-mana badan profesional yang berhubungan dengan profesion per- ubatan atau dengan mana-mana profesion berkaitan yang lain yang ditubuhkan oleh atau didaftarkan di bawah mana-mana undang-undang bertulis; atau (bb) dengan kelulusan Lembaga Iklan Ubat yang ditubuhkan oleh Menteri, oleh mana-mana hospital swasta atau oleh mana-mana— (i) klinik swasta; (ii) klinik radiologi swasta; (iii) makmal perubatan swasta, yang dikendalikan oleh seseorang pengamal perubatan berdaftar yang mempunyai perakuan pengalaman Akta 50. tahunan yang sah di bawah Akta Perubatan 1971.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 4B Akta ibu adalah dipinda, dalam"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan, selepas perkataan- perkataan \"sebagai ubat\", perkataan- perkataan \", alat atau penyembuh\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan-perkataan \"yang ditubuhkan bagi maksud Menteri\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 6A Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memotong perkataan \"berdaftar\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 6B Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menomborkan seksyen yang ada sebagai subseksyen (1) seksyen 6B dan dengan memasukkan, selepas itu, subseksyen-subseksyen yang berikut: \"(2) Seseorang pegawai berkuasa yang mem- buat penyiasatan di bawah Akta ini boleh, melalui perintah bertulis, menghendaki supaya nadir di hadapannya mana-mana orang yang, daripada maklumat yang diberikan atau selainnya, didapati tahu tentang hal-hal keadaan kes itu, dan orang itu 4 RANG UNDANG-UNDANG hendaklah hadir sebagaimana yang dikehendaki sedemikian: Dengan syarat bahawa tiada seorang pun boleh dikehendaki di bawah seksyen ini melakukan perjalanan yang lebih daripada dua belas kilometer dari tempat tinggalnya yang biasa, tidak termasuk apa-apa bahagian perjalanan itu yang boleh dilakukan dengan keretapi, kereta motor atau kenderaan lain. (3) Jika mana-mana orang enggan hadir sebagaimana yang dikehendaki oleh perintah yang dikeluarkan di bawah subseksyen (2), maka pegawai berkuasa yang mengeluarkan perintah itu boleh melaporkan keengganan itu kepada Majistret yang boleh sesudah mengikut budi bicaranya, mengeluarkan waran untuk memastikan kehadiran orang bagaimana yang dikehendaki oleh perintah itu.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 6r Akta ibu adalah dipinda dalam"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "subseksyen (2) dengan menggantikan perkataan- perkataan \"ahli farmasi berdaftar dalam perkhidmatan awam yang diberi kuasa secara bertulis oleh Pendakwa Raya\" dengan perkataan-perkataan \"pegawai ber- kuasa\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_9__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 7 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan memasukkan, selepas perkataan-perkataan \"bagi maksud\", perkataan-perkataan \"seksyen 4A dan\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/4/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan memasukkan, selepas perkataan-perkataan \"diluluskan di bawah\", perkataan-perkataan \"seksyen 4A dan\"."
+      }
+    }
+  ]
+}

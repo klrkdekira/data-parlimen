@@ -46,7 +46,13 @@ shall, in accordance with Clause (3) of Article 55, stand dissolved, such casual
 
 numerical strength of the party that constitutes a majority of all the members of the House of Representatives is being affected by such vacancy, in which event such vacancy shall be filled within sixty days from the date of the receipt of that notification.".
 
-Amendment 4. The Eighth Schedule to the Federal Constitution is of Eighth amended in section 9 by substituting for the proviso to
+<!-- marginal: Amendment -->
+
+4. The Eighth Schedule to the Federal Constitution is
+
+<!-- marginal: of Eighth -->
+
+amended in section 9 by substituting for the proviso to
 
 ## Schedule.
 
@@ -54,7 +60,13 @@ subsection (5) the following new proviso:
 
 "Provided that if a casual vacancy is established on a date within two years of the date the Legislative Assembly shall, in accordance with subsection (3), stand dissolved, such casual vacancy shall not be filled unless the Speaker notifies the Election Commission in writing that the numerical strength of the party that constitutes a majority of all the members of the Legislative Assembly is being affected by such vacancy, in which event such vacancy shall be filled within sixty days from the date of the receipt of that notification.".
 
-Amendment 5. The Eleventh Schedule to the Federal Constitution of Eleventh is amended by inserting in the first column in the place
+<!-- marginal: Amendment -->
+
+5. The Eleventh Schedule to the Federal Constitution
+
+<!-- marginal: of Eleventh -->
+
+is amended by inserting in the first column in the place
 
 ## Schedule.
 

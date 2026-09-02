@@ -1,0 +1,1366 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-47-2001",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Cukai Pendapatan (Pindaan) 2001"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_I__cl_1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERMULAAN Tajuk ringkas dan permulaan kuat kuasa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_25"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PINDAAN KHUSUS AKTA CUKAI PENDAPATAN 1967 Pindaan seksyen 21"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_III__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_III__cl_27"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERUNTUKAN KHAS Anggaran cukai yang kena dibayar bagi tahun taksiran 2004"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_III__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi tahun taksiran 2004 anggaran cukai yang kena dibayar berkenaan dengan sesuatu badan amanah atau koperasi yang dikemukakan kepada Ketua Pengarah di bawah subseksyen 107c(2) Akta ibu tidak boleh kurang daripada amaun cukai yang kena dibayar bagi tahun taksiran 2002 atau, jika cukai yang kena dibayar itu belum lagi ditentukan, cukai yang kena dibayar bagi tahun taksiran 2001. Peruntukan khas berhubung dengan subskesyen 21(3)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_III__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun peruntukan subseksyen 21(3) Akta ibu, jika seseorang, selain suatu syarikat, badan amanah atau koperasi, telah menyusun akaun perniagaannya untuk tempoh dua belas bulan yang berakhir pada suatu hari selain 31 Disember dalam tahun asas 2001, dan terdapat kegagalan untuk menyusun akaun perniagaan itu berakhir pada hari yang bersamaan dalam tahun asas yang berikutnya, tempoh yang bermula pada hari selepas berakhirnya tempoh dua belas bulan itu sehingga hari yang bersamaan itu hendaklah menjadi tempoh asas bagi tahun taksiran 2002 bagi perniagaan orang itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 86 dengan seksyen yang berikut: \" Return by 86. (1) Where a business is carried on by a partner- partnership— ship. (a) the precedent partner, that is to say, the partner who, being an acting partner present Malaysia— (i) is first named in the partnership agreement; or (ii) if there is no partnership agreement, is specified by name or initial singly or with precedence to the other partners in the usual name of the firm; or (b) if no acting partner is present in Malaysia, any attorney, agent, manager or factor of the partnership in Malaysia, shall for each year of assessment furnish to the Director General a return in the prescribed form not later than 30 April in the year following that year of assessment. (2) For the purposes of subsection (1), a return for a year of assessment shall— (a) specify the divisible income or the divisible loss as ascertained under the appropriate provisions of sections 55, 56, 57, 58 and 59 in relation to the partnership for that year; (b) contain such information as is necessary to determine the statutory income from all sources of the partners of the partnership; and (c) contain such other information as may be required by the Director General. (3) If a partnership has been dissolved as to all its partners, this section shall continue to apply in relation to the dissolved partnership, and those persons who were partners of the partnership immediately before the dissolution shall be deemed to continue to be partners for the purposes of this section.\". Pindaan seksyen 90"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_11__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_11__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 90 dengan seksyen yang berikut: 90. ( 1) Where a person has furnished a return in accordance with section 77 or 77A to the Director General for a year of assessment, the Director General shall be deemed to have made, on the day on which the return is furnished, an assessment in respect of that person in the amount of tax on the chargeable income, the tax and the chargeable income being the respective amounts as specified in the return."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_11__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_11__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "For the purposes of this Act, where the Director General is deemed to have made an assessment under subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_11__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_11__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "the return referred to in that subsection shall be deemed to be a notice of assessment; and Cukai Pendapatan (Pindaan) 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_11__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_11__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "the deemed notice of assessment shall be deemed to have been served on the person on the day on which the Director General is deemed to have made the assessment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_11__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Where a person for a year of assessment has not furnished a return in accordance with section 77 or 77A, the Director General may according to the best of his judgment determine the amount of the chargeable income of that person for that year and make an assessment accordingly: Provided that the making of an assessment in respect of a person under this subsection shall not affect any liability otherwise incurred by that person by reason of his failure to deliver the return.\". Pindaan seksyen 93"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 93 Akta ibu dipinda dengan menggantikan perkataan \"90(1A)\" dengan perkataan \"90(1)\". Pindaan seksyen 96"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_13__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 96 Akta ibu dipinda —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan \"90(lA)\" dengan perkataan \"90(1)\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (4)(c)(ii), dengan menggantikan perkataan \"103(4), 103(5A), 103A(6) or 103A(7)\" dengan perkataan \"103(5), (6), (7) or (8)\". Pindaan seksyen 96A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_14__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 96A Akta ibu dipinda —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (1)(a), dengan menggantikan perkataan \"77(1A)\" dengan perkataan \"77A(1)\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (l) (b), dengan menggantikan perkataan \"77(2) or (3)\" dengan perkataan \"77(3)\". Pindaan seksyen 103"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 103 dengan seksyen yang berikut: \""
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "103. (1) Except as provided in subsection (2), tax payable under an assessment for a year of assessment shall be due and payable on the due date whether or not that person appeals against the assessment. (2) Where an assessment is made under section 90(3), 91, 92 or 96A, or where an assessment is increased under section 101(2), the tax payable under the assessment or increased assessment shall, on the service of the notice of assessment or composite assessment or increased assessment, as the case may be, be due and payable on the person assessed at the place specified in that notice whether or not that person appeals against the assessment or increased assessment. (3) Where any tax due and payable under subsection (1) has not been paid by the due date, so much of the tax as is unpaid upon the expiration of that date shall without any further notice being served be increased by a sum equal to ten per cent of the tax so unpaid, and that sum shall be recoverable as if it were tax due and payable under this Act. (4) Where the tax due and payable has been increased under subsection (3), any balance remaining unpaid upon the expiration of sixty days from the due date shall without any further notice being served be further increased by a sum equal to five per cent of the balance unpaid, and that sum shall be recoverable as if it were tax due and payable under this Act. (5) Subject to subsection (7), where any tax due and payable under subsection (2) has not been paid within thirty days after the service of the notice, so much of the tax as is unpaid upon the expiration of that period shall without any further notice being served be increased by a sum equal to ten per cent of the tax so unpaid, and that sum shall be recoverable as if it were tax due and payable under this Act. (6) Where the tax due and payable has been increased under subsection (5). any balance remaining unpaid upon the expiration of sixty days from the date of such increase shall without any further notice being served be further increased by a sum equal to five per cent of the balance unpaid, and that sum shall be recoverable as if it were tax due and payable under this Act. (7) Where any tax is payable in accordance with subsection (2), the Director General may allow the tax to be paid by instalments in such amounts and on such dates as he may determine and in the event of default in payment of any one instalment on the date specified for payment the balance of the tax then outstanding shall be due and payable on that date and shall without any further notice being served be increased by a sum equal to ten per cent of that balance, and that sum shall be recoverable as if it were tax due and payable under this Act. (8) Where the tax due and payable has been increased under subsection (7), any balance remaining unpaid upon the expiration of sixty days from the date of such increase shall without any further notice being served be further increased by a sum equal to five per cent of the balance unpaid, and that sum shall be recoverable as if it were tax due and payable under this Act. (9) Notwithstanding the foregoing subsections, where tax due and payable is increased by a sum under subsection (3), (4), (5), (6), (7) or (8), the Director General may in his discretion for any good cause shown remit the whole or any part of that sum and, where the amount remitted has been paid, the Director General shall repay that amount. (10) Where section 45(2) applies for a year of assessment, the portion of the tax charged for that year upon the husband or the wife in whose name the assessment was made which is attributable to the total income for that year of the wife who elects or the husband who elects, as the case may be, may, if necessary, be collected from the wife who elects or the husband who elects; and this Part shall apply (with any necessary modifications) as if, on the day on which a notice of assessment or a notice of increased assessment for that year is served on the husband or the wife that notice of assessment or notice of increased assessment had been served on the wife who elects or the husband who elects, as the case may be: Provided that nothing in this subsection shall be construed as conferring on the wife who elects or the husband who elects, as the case may be, any right of appeal under section 99. (11) For the purposes of subsection (10), the part of the tax charged for a year of assessment upon the husband or the wife which is attributable to the total income for that year of the wife who elects or the husband who elects, as the case may be, shall be determined in accordance with the formula— where— (a) in the case of the wife who elects— A is that wife's total income for a year of assessment; B is the aggregate of the husband's and that wife's or wives' total income; and C is the tax charged for the year of assessment where section 45(2)(a) applies; or (b) in the case of the husband who elects— A is that husband's total income for a year of assessment; B is the aggregate of the wife's and that husband's total income; and C is the tax charged for the year of assessment where section 45(2)(b) applies. (12) For the purposes of this section, \"due date\" means— (a) in the case of a company, trust body or co-operative society the last day of the sixth month from the date following the close of the accounting period; and (b) in any other case, 30 April in the year following the year of assessment.\". Pindaan seksyen 103A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 103A. Pindaan seksyen 104"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 104(1)(b) Akta ibu dipinda dengan menggantikan perkataan \"103(4), (5) or (5A)\" dengan perkataan \"103(3), (4), (5), (6), (7) or (8)\". Pindaan seksyen 106"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 106(3) Akta ibu dipinda dengan menggantikan perkataan \"103(4), 103(5), 103(5A), 103A(4), 103A(5), 103A(6), 103A(7), 103A(8) or 103A(9)\" dengan perkataan \"103(3), (4), (5), (6), (7) or (8)\". Pindaan seksyen 107B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_19__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_19__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_19__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 107B Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: \"(1) Subject to this section, every person chargeable to tax for a year of assessment, other than a company, trust body or co-operative society to which section 107c applies shall make payment by instalments on account of tax, excluding tax in respect of gains or profits from an employment, which is or may be payable by that person for that year of assessment, at such times and in such amounts as the Director General may direct, whether or not the tax has been assessed.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_19__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_19__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_19__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_19__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_19__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah di hujung sub- seksyen (4) dengan noktah bertindih; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_19__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_19__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (4) proviso yang berikut: \"Provided that in the case of an individual whose income includes gains or profits from an employment, the tax payable under an assessment for that year of assessment shall be reduced by the amount of tax which is attributable to those gains or profits.\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_19__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (4) subseksyen yang berikut: \"(4A) For the purposes of subsection (4), the amount of tax which is attributable to the income in respect of gains or profits from an employment of an individual shall be determined in accordance with formula— where A is his statutory income in respect of gains or profits from employment for a year of assessment; B is his total income for that year of assessment; and C is his tax payable for that year of assessment.\". Pindaan seksyen 107c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Cukai Pendapatan 1967 [Akta 55], yang disebut \"Akta ibu\" dalam Akta ini, dipinda dengan menggantikan seksyen 21 dengan seksyen yang berikut: \" Basis 21. The basis year for a year of assessment shall constitute, period of in relation to a source of a person other than a company, a person other trust body or co-operative society, the basis period for than a that year of assessment.\". company, trust body or co- operative society. Pindaan seksyen 21A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_20__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_20__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_20__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 107c Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_20__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"company\" di mana- mana jua terdapat perkataan \", trust body or co-operative society\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_20__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan ( 7 )( a) dan (b), dengan menggantikan perkataan \"that have been paid for that year\" dengan perkataan \"which is payable in that year prior to that revised estimate\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_20__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (11) subseksyen yang berikut: \"(11A) Nothing in this section shall prevent the collection of any tax from a person to whom this section applies in accordance with section 103 or the payment of that tax being enforced in accordance with section 106.\". Pindaan seksyen 108"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_21__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_21__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 108 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_21__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_21__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_21__list_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_21__list_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_21__list_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_21"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_21__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_21__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan \"under section 111\" dalam subperenggan (5)(b)(i);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_21__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_21__list_1__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_21__list_1__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_21__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (11)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_21__list_1__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_21__list_1__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"103A\" dengan perkataan \"103\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_21__list_1__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_21__list_1__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan \"under section 111\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_21__list_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_21__list_1__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_21__list_1__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_21__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (14)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_21__list_1__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_21__list_1__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif \"due date\", dengan menggantikan perkataan \" 103A( 12)\" dengan perkataan \" 103(12)(a)\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_21__list_1__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_21__list_1__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif \"tax paid\", dengan memotong perkataan \"103A,\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_21__list_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_21__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (14) subseksyen yang berikut: '(14A) In this section, a reference to \"tax refunded\" or \"a refund of tax\" is a reference to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_21__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_21__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_21__list_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_21"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_21__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_21__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "the amount of instalments that has been paid under section 107c for a year of assessment less the amount of tax payable (excluding any penalty imposed under section 112 or 113) for that year of assessment; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_21__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_21__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "the amount of tax payable (excluding any penalty imposed under section 112 or 113) discharged by virtue of the assessment that has been reduced or discharged: Provided that the amount of tax payable (excluding any penalty imposed under section 112 or 113) under that assessment has been paid.'. Pindaan seksyen 110"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 110(13) Akta ibu dipinda dengan menggantikan perkataan \"103A\" dengan perkataan \"103\". Pindaan seksyen 112"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_23__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_23__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 112 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_23__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_23__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_23__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_23__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_23__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"77(lA)\" dengan perkataan \"77A(1)\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_23__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_23__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"77(2) or (3)\" dengan perkataan \"77(3)\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_23__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_23__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_23__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_23__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_23__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"77(1A)\" dengan perkataan \"77A(1)\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_23__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_23__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"77(2) or (3)\" dengan perkataan \"77(3)\". Pindaan seksyen 140"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_24__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_24__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Perenggan 140(4)(b) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_24__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"103\" perkataan \"or 103A,\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_24__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan \"or 103A,\". Pindaan Jadual 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_25__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_25__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jadual 3 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_25__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_25__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_25__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan 77(2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_25__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_25__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"delivered\" dengan perkataan \"furnished\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_25__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_25__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"77\" perkataan \"or 77A\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_25__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_25__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_25__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan 79—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_25__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_25__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"21(3)\" perkataan \"or 2lA(3)\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_25__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_25__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan \"21(3) or\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 2lA Akta ibu dipinda dengan memasukkan selepas perkataan \"company\" di mana-mana jua terdapat kecuali dalam subseksyen (5) perkataan \", trust body or co-operative society\". Pindaan seksyen 44"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 44(12) Akta ibu dipinda dengan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memotong perkataan \"only\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memasukkan selepas perkataan \"company\" di mana-mana jua terdapat perkataan \", trust body or co-operative society\". Pindaan seksyen 48"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 48(4) Akta ibu dipinda dengan menggantikan perkataan \"which, in the case of any one of those individuals, shall bear the same proportion to that whole deduction as the payment made by that individual bears to the total of the payments made by all those individuals\" dengan perkataan \"of fifty per cent of that whole deduction\". Pindaan seksyen 74"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 74(4) dipinda dengan menggantikan perkataan \"103(4)\" dengan perkataan \"103(3), (4), (5), (6), (7) or (8)\". Pindaan seksyen 77"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 77 dengan seksyen yang berikut: \" Return 77. (1) Every person, other than a company, trust body of or co-operative society to which section 77A applies, income shall for each year of assessment furnish to the Director by a person General a return in the prescribed form not later than other than a 30 April in the year following that year of assessment: company, trust body or co- Provided that that person has— operative society. (a) chargeable income for that year of assessment; or (b) no chargeable income for that year of assessment, but has chargeable income or has furnished a return or has been required under this Act to furnish a return, for the year of assessment immediately preceding that year of assessment. (2) Where a person is required to furnish a return under paragraph (b) of the proviso to subsection (1), the Director General may by way of notification waive that requirement for any year of assessment. (3) An individual who arrives in Malaysia during a particular year of assessment and— (a) is chargeable to tax for that particular year; or (b) is not chargeable to tax for that particular year but is chargeable to tax for the year of assessment following that particular year, shall, within two months of his arrival give notice to the Director General that he will be so chargeable. (4) For the purposes of this section, a return for a year of assessment shall— (a) specify the chargeable income and the amount of tax payable (if any) on that chargeable income for that year; and (b) contain such particulars as may be required by the Director General.\". Seksyen baru 77A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 77 seksyen yang berikut: \""
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "77A. (1) Every company, trust body or co-operative society shall for each year of assessment furnish to the Director General a return in the prescribed form within six months from the date following the close of the accounting period which constitutes the basis period for the year of assessment. (2) Notwithstanding subsection (1), where there is a change in the accounting period of a company, trust body or co-operative society such that the accounts are not closed on any date in a year, that company, trust body or co-operative society shall furnish to the Director General a return in the prescribed form for that year and the year of assessment in which the accounts are closed within six months from the date following the close of the accounting period. (3) For the purposes of this section, a return for a year of assessment shall— (a) specify the chargeable income and the amount of tax payable (if any) on that chargeable income for that year; and (b) contain such particulars as may be required by the Director General.\". Pindaan seksyen 82"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 82(1A) Akta ibu dipinda dengan menggantikan perkataan \"(1A) or (1B)\" dengan perkataan \"77A(1) or (2)\". Pindaan seksyen 86"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_31"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERUNTUKAN PERALIHAN Peruntukan am"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_28__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_28__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_28__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_28__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu hendaklah terpakai bagi maksud Bahagian ini melainkan jika diperuntukkan selainnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_28__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika terdapat apa-apa ketidakselarasan antara mana-mana peruntukan Bahagian ini dengan mana-mana peruntukan Akta ibu, peruntukan Akta ibu adalah terbatal setakat ketidakselarasan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_28__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bahagian ini hendaklah terpakai bagi seseorang selain syarikat, badan amanah dan koperasi. Tempoh asas untuk tahun taksiran 2003"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_29__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_29__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_29__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_29__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_29__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_29__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_29__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kecuali sebagaimana yang diperuntukkan dalam seksyen ini, tahun asas untuk tahun taksiran 2003 hendaklah menjadi, berhubung dengan punca pendapatan seseorang, tempoh asas untuk tahun taksiran itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_29__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada subseksyen (3), jika seseorang telah menyusun akaun perniagaannya untuk tempoh dua belas bulan yang berakhir pada suatu hari selain 31 Disember dalam tahun asas 2003, tempoh yang bermula dari hari pertama tempoh perakaunan itu sehingga 31 Disember 2003 hendaklah menjadi tempoh asas bagi tahun taksiran 2003 bagi perniagaan orang itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_29__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika seseorang memulakan perniagaan pada suatu hari dalam tahun asas 2002 dan akaun perniagaan itu berakhir pada suatu hari selain 31 Disember dalam tahun asas itu tahun asas 2003 hendaklah menjadi tempoh asas bagi tahun taksiran 2003."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_29__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika seseorang menjadi rakan kongsi dalam suatu perkongsian yang sedia ada atau rakan kongsi kepada seseorang yang sedang menjalankan perniagaan sebagai tuan punya tunggal pada suatu hari dalam tahun asas 2002 atau 2003 dan hari itu jatuh dalam tempoh akaun perniagaan perkongsian yang sedia ada atau perniagaan tuan punya tunggal itu telah disusun sehingga tarikh perakaunan biasanya yang berakhir pada suatu hari dalam tahun asas 2003, tempoh yang bermula dari hari orang itu menjadi rakan kongsi sehingga 31 Disember 2003 hendaklah menjadi tempoh asas bagi tahun taksiran 2003 bagi perniagaan orang itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_29__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika seseorang telah menyusun akaun perniagaannya bagi tempoh dua belas bulan yang berakhir pada suatu hari selain 31 Disember dalam tahun asas 2002 dan tempoh itu menjadi tempoh asas bagi tahun taksiran 2002, dan terdapat kegagalan untuk menyusun akaun perniagaan itu berakhir pada hari yang bersamaan dalam tahun asas yang berikutnya, tempoh yang bermula pada hari selepas berakhirnya tempoh asas itu sehingga 31 Disember 2003 hendaklah menjadi tempoh asas bagi tahun taksiran 2003 bagi perniagaan orang itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_29__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika seksyen 27 Akta ini terpakai, tempoh asas seseorang untuk tahun taksiran 2003 ialah tempoh yang bermula pada hari yang mengikuti hari terakhir tempoh asas untuk tahun taksiran 2002 hingga 31 Disember 2003. Cukai yang dikenakan jika tempoh asas tebih daripada dua belas bulan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada seksyen ini, jika tempoh asas seseorang dari mana-mana punca atau punca-punca yang terdiri daripada perniagaan bagi tahun taksiran 2003 adalah lebih daripada dua belas bulan dan perniagaan itu mempunyai pendapatan statutori, cukai yang dikenakan ke atas pendapatan tercukai orang itu bagi tahun taksiran itu ialah jumlah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "cukai yang dikenakan ke atas pendapatan tercukai dari semua punca pendapatan orang itu untuk tempoh dua belas bulan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "cukai yang dikenakan ke atas pendapatan tercukai dari semua punca yang terdiri daripada perniagaan orang itu berkenaan dengan bulan yang selebihnya (iaitu bilangan bulan dalam tempoh asas dari punca atau punca-punca yang terdiri daripada perniagaan bagi tahun taksiran 2003 ditolak dengan dua belas bulan)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Cukai yang dikenakan ke atas pendapatan tercukai dari semua punca pendapatan seseorang untuk tempoh dua belas bulan yang disebut dalam perenggan ( 1 )( a) ditentukan seperti yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_2__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_2__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pertama, pendapatan statutorinya dari setiap punca untuk tempoh itu hendaklah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_2__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_2__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "berhubung dengan punca yang terdiri daripada perniagaan, perkadaran amaun pendapatan statutori yang ditentukan di bawah subseksyen 42(1) Akta ibu dari punca itu, iaitu perkadaran yang hendaklah ditentukan mengikut formula— di mana A ialah amaun pendapatan statutori yang ditentukan di bawah subseksyen 42(1) Akta ibu dari punca yang terdiri daripada perniagaan bagi tahun taksiran 2003; dan B ialah bilangan bulan dalam tempoh asas berhubung dengan punca itu bagi tahun taksiran 2003; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_2__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_2__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "berhubung dengan punca selain perniagaan, amaun pendapatan statutori yang ditentukan di bawah seksyen 42 Akta ibu dari punca itu bagi tahun taksiran 2003;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_2__para_b__subpara_i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seterusnya, pendapatan agregat bagi tempoh itu hendaklah terdiri daripada—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_2__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_2__para_b__subpara_i__subpara_iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_2__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "agregat amaun pendapatan statutorinya yang ditentukan di bawah subperenggan (a)(i) dari setiap puncanya yang terdiri daripada perniagaan, dikurangkan sebanyak apa-apa potongan, jika ada, yang boleh dibuat bagi tahun taksiran 2003 mengikut subseksyen 43(2)Akta ibu: Dengan syarat bahawa, jika mana-mana amaun itu tidak boleh dipotong atau dipotong sepenuhnya daripada agregat pendapatan statutori itu, sekian banyak amaun itu yang tidak boleh dipotong untuk tcmpoh itu hendaklah dipotong daripada agregat pendapatan statutori itu dari punca atau punca-punca yang terdiri daripada perniagaan yang disebut dalam perenggan (3)(b); ( i i) agregat amaun pendapatan statutorinya yang ditentukan di bawah subperenggan (a)(ii) dari setiap puncanya yang lain; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_2__para_b__subpara_i__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_2__para_b__subpara_i",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana tambahan yang boleh dibuat bagi tahun taksiran 2003 menurut Jadual 4 atau 4A Akta ibu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seterusnya, jumlah pendapatannya bagi tempoh itu hendaklah merupakan amaun pendapatan agregatnya yang ditentukan di bawah perenggan (b), dikurangkan sebanyak apa-apa potongan bagi tahun taksiran 2003 mengikut subseksyen 44(1) Akta ibu: Dengan syarat bahawa, jika mana-mana amaun itu tidak boleh dipotong atau dipotong sepenuhnya daripada pendapatan agregat bagi tempoh itu, sekian banyak amaun itu yang tidak boleh dipotong bagi tempoh itu hendaklah dipotong daripada pendapatan agregat yang disebut dalam perenggan (3)(c): Dengan syarat selanjutnya bahawa jika subseksyen 45(2) Akta ibu terpakai, jumlah pendapatan di bawah perenggan (c) hendaklah diagregatkan dengan jumlah pendapatan suami yang memilih atau isteri yang memilih jika tempoh asas suami itu atau isteri itu dari punca yang terdiri daripada perniagaan tidak lebih daripada dua belas bulan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seterusnya, pendapatan tercukai bagi tempoh itu hendaklah merupakan amaun jumlah pendapatan yang ditentukan di bawah perenggan (c), ditolak apa-apa potongan yang dibenarkan bagi tahun taksiran 2003 di bawah Bab 7 Bahagian III Akta ibu: Dengan syarat bahawa dalam menentukan pendapatan tercukai itu bagi seseorang individu yang bermastautin di Malaysia, hendaklah dikecualikan pendapatan yang terdiri daripada bunga yang terakru di dalam atau diperoleh dari Malaysia dan diterima daripada seseorang yang disebut dalam subseksyen 109c(4) Akta ibu berkenaan dengan bunga yang dibayar atau dikreditkan kepada individu itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seterusnya, cukai yang dikenakan ke atas pendapatan tercukainya yang disebut dalam perenggan (d) hendaklah ditentukan dengan menggunakan kadar yang sesuai seperti yang dinyatakan dalam Bahagian I Jadual 1 Akta ibu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_3__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_3__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Cukai yang dikenakan ke atas pendapatan tercukai seseorang dari semua punca yang terdiri daripada perniagaannya berkenaan dengan bulan yang selebihnya yang disebut dalam perenggan ( 1 )( b) hendaklah ditentukan mengikut cara yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pertama, pendapatan statutorinya dari setiap puncanya yang terdiri daripada perniagaan hendaklah merupakan amaun pendapatan statutorinya yang ditentukan di bawah subseksyen 42(1) Akta ibu dari punca itu bagi tahun taksiran 2003, dikurangkan sebanyak amaun pendapatan statutori dari punca itu yang ditentukan di bawah subperenggan (2)(a)(i);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seterusnya, pendapatan agregatnya hendaklah merupakan agregat amaun pendapatan statutorinya yang ditentukan di bawah perenggan (a) dari setiap puncanya yang terdiri daripada perniagaan, dikurangkan sebanyak amaun potongan yang tidak boleh dipotong di bawah subperenggan (2)(b)(i): Dengan syarat bahawa, jika mana-mana amaun itu tidak boleh dipotong atau dipotong sepenuhnya daripada agregat pendapatan statutori itu, sekian banyak amaun itu yang tidak boleh dipotong hendaklah dibawa ke hadapan dan dipotong mengikut seksyen 43 Akta ibu dalam tahun taksiran 2004;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seterusnya, jumlah pendapatannya hendaklah merupakan amaun pendapatan agregatnya yang ditentukan di bawah perenggan (b), dikurangkan sebanyak amaun yang tidak boleh dipotong di bawah perenggan (2)(c), dan amaun itu hendaklah dikurangkan mengikut subseksyen 44(1) Akta ibu: Dengan syarat bahawa, jika amaun itu adalah berkenaan dengan potongan di bawah perenggan 44(1)(a) atau ( 1 )( b ), dan amaun potongan itu tidak boleh dipotong atau dipotong sepenuhnya daripada pendapatan agregat itu, sekian banyak amaun itu yang tidak boleh dipotong hendaklah dibawa ke hadapan dan dipotong mengikut seksyen 43 Akta ibu dalam tahun taksiran 2004;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seterusnya, pendapatan tercukainya hendaklah menjadi amaun jumlah pendapatannya yang ditentukan di bawah perenggan (c), ditolak perkadaran potongan yang dibenarkan bagi tahun taksiran 2003 di bawah perenggan 46(1)(a) atau seksyen 47 atau 48 Akta ibu, iaitu perkadaran yang hendaklah ditentukan mengikut formula— di mana A ialah potongan di bawah perenggan 46(1)(a) atau seksyen 47 atau 48 Akta ibu; B ialah bulan selebihnya yang disebut dalam perenggan ( 1 )( b ), atau dalam hal dua perniagaan atau lebih, yang mana-mana daripada perniagaan itu yang mempunyai bulan selebihnya yang lebih panjang tempohnya: Dengan syarat bahawa, jika tiada jumlah pendapatan di bawah perenggan ( 2 )( c ), pendapatan tercukai hendaklah merupakan amaun jumlah pendapatannya yang ditentukan di bawah perenggan (c) ditolak apa- apa potongan yang dibenarkan di bawah Bab 7 Bahagian III Akta ibu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_3__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_30__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seterusnya, cukai yang dikenakan ke atas pendapatan tercukainya yang disebut dalam perenggan (d) hendaklah ditentukan dengan menggunakan kadar yang sesuai seperti yang dinyatakan dalam Bahagian I Jadual 1 Akta ibu. Rebat cukai"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_31__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_31__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_31__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_31__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika seksyen 30 Akta ini terpakai dan tertakluk kepada subseksyen (2), rebat yang diperuntukkan di bawah subseksyen 6A(2) Akta ibu hendaklah dipotong daripada cukai yang dikenakan ke atas pendapatan tercukai seseorang bagi tahun taksiran 2003 jika pendapatan tercukai yang disebut dalam perenggan 30(2)(d) Akta ini tidak melebihi tiga puluh lima ribu ringgit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_31__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada subseksyen (3), jika seseorang mempunyai pendapatan tercukai daripada perniagaan di bawah perenggan 30(3)(d) Akta ini, rebat yang disebut di bawah subseksyen (1) hendaklah dinaikkan kepada suatu jumlah yang ditentukan mengikut formula— di mana A ialah bulan selebihnya yang disebut dalam perenggan 30(1)(b) Akta ini, atau dalam hal dua perniagaan atau lebih, yang mana-mana daripada perniagaan itu yang mempunyai bulan selebihnya yang lebih panjang tempohnya; B ialah jumlah rebat yang diperuntukkan di bawah subseksyen 6A(2) Akta ibu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_31__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_IV__cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jumlah yang dinyatakan dalam subseksyen (2) tidak boleh melebihi jumlah cukai dikenakan yang ditentukan di bawah perenggan 30(3)(e) Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_I__cl_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_I__cl_1__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_I__cl_1__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_I__cl_1__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_I__cl_1__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_I__cl_1__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Cukai Pendapatan (Pindaan) 2001."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 2, 3 , 4 , 5 , 6 , 7, 8,9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, perenggan 20(a), subperenggan 21(b)(i), subperenggan 21(c)(i) dan (ii), seksyen 22 dan 23, perenggan 24(b) dan 25(a) dan subperenggan 25(b)(ii) hendaklah berkuat kuasa bagi tahun taksiran 2004 dan tahun-tahun taksiran yang berikutnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_I__cl_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 20(b) dan (c), perenggan 21(a), subperenggan 2l(b)(ii) dan perenggan 21(d)(iii) dan (iv) hendaklah disifatkan berkuat kuasa dari tahun taksiran 2001 dan tahun-tahun taksiran yang berikutnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_I__cl_1__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 24(a) dan subperenggan 25(b)(i) hendaklah berkuat kuasa bagi tahun taksiran 2002 dan tahun-tahun taksiran yang berikutnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_I__cl_1__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 26 hendaklah berkuat kuasa bagi tahun taksiran 2004 sahaja."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_I__cl_1__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 27 hendaklah berkuat kuasa bagi tahun taksiran 2002 sahaja."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_I__cl_1__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/47/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 28, 29, 30 dan 31 hendaklah berkuat kuasa bagi tahun taksiran 2003 sahaja."
+      }
+    }
+  ]
+}

@@ -622,7 +622,7 @@ the Electronic Land Administration System, shall be prepared by the use of a com
 
 <!-- page 22 -->
 
-Bar Code................
+<!-- marginal: Bar Code................ -->
 
 National Land Code
 
@@ -654,7 +654,7 @@ Plan
 
 Dated this ........ day of ................, 20.....
 
-[Digital Signature]
+<!-- marginal: [Digital Signature] -->
 
 * Enter as appropriate
 
@@ -698,9 +698,9 @@ Dated this................day of................., 20.....
 
 <!-- page 24 -->
 
-## *CRDT/CIDT
+<!-- marginal: *CRDT/CIDT -->
 
-Bar Code................
+<!-- marginal: Bar Code................ -->
 
 National Land Code
 
@@ -724,7 +724,7 @@ By command of the State Authority
 
 registered this ......... day of .............., 20…...
 
-[Digital Signature]
+<!-- marginal: [Digital Signature] -->
 
 The plan of the land, for the purposes of identification, is in Form B1e .
 
@@ -756,9 +756,9 @@ Title ID : Date : Version No. : Page :
 
 <!-- page 26 -->
 
-## *CRDT/CIDT
+<!-- marginal: *CRDT/CIDT -->
 
-Bar Code................
+<!-- marginal: Bar Code................ -->
 
 National Land Code
 
@@ -790,7 +790,7 @@ By command of the State Authority
 
 registered this ......... day of .............., 20.....
 
-[Digital Signature]
+<!-- marginal: [Digital Signature] -->
 
 <!-- page 27 -->
 
@@ -822,7 +822,7 @@ Title ID : Date : Version No. : Page :
 
 <!-- page 28 -->
 
-## *CRDT/CIDT
+<!-- marginal: *CRDT/CIDT -->
 
 Bar Code………………
 
@@ -848,7 +848,7 @@ By command of the State Authority
 
 registered this ......... day of ................., 20......
 
-[Digital Signature]
+<!-- marginal: [Digital Signature] -->
 
 The plan of the land, for the purposes of identification, is in Form B1e .
 
@@ -876,11 +876,25 @@ No. of immediately preceding title (if different from above): …….......…�
 
 * Enter as appropriate ** Enter when appropriate
 
-Title ID : Date : Version No. : Page :
+<!-- marginal: Title ID -->
+
+:
+
+<!-- marginal: Date -->
+
+:
+
+<!-- marginal: Version No. -->
+
+:
+
+<!-- marginal: Page -->
+
+:
 
 <!-- page 30 -->
 
-## *CRDT/CIDT
+<!-- marginal: *CRDT/CIDT -->
 
 Bar Code………………
 
@@ -912,7 +926,7 @@ By command of the State Authority
 
 registered this ......... day of ............., ...............
 
-[Digital Signature]
+<!-- marginal: [Digital Signature] -->
 
 The plan of the land, for the purposes of identification, is in Form B1e.
 
@@ -944,7 +958,7 @@ Title ID : Date : Version No. : Page :
 
 <!-- page 32 -->
 
-## *CRDT/CIDT
+<!-- marginal: *CRDT/CIDT -->
 
 Bar Code………………
 
@@ -972,11 +986,11 @@ dated .......................
 
 Registered this ......... day of ............., ...............
 
-[Digital Signature]
+<!-- marginal: [Digital Signature] -->
 
 Issue document of title issued this ....... day of ............. 20………
 
-[Digital Signature]
+<!-- marginal: [Digital Signature] -->
 
 The plan of the land, for the purpose of identification, is in Form B2e.
 
@@ -1014,7 +1028,7 @@ Title ID : Date : Version No. : Page :
 
 <!-- page 34 -->
 
-## *CRDT/CIDT
+<!-- marginal: *CRDT/CIDT -->
 
 Bar Code………………
 
@@ -1040,11 +1054,11 @@ Gazette Notification No. ………………......dated .......................
 
 Registered this ......... day of ............., 20......
 
-[Digital Signature]
+<!-- marginal: [Digital Signature] -->
 
 Issue document of title issued this ....... day of ........ 20.......
 
-[Digital Signature]
+<!-- marginal: [Digital Signature] -->
 
 The plan of the land, for the purpose of identification, is in Form B2e.
 
@@ -1114,7 +1128,7 @@ Occupation will be subject to the provisions scheduled below and to any other pr
 
 Issued this ……….day of …………….., …………………
 
-[Digital Signature]
+<!-- marginal: [Digital Signature] -->
 
 ## DESCRIPTION OF LAND
 
@@ -1366,7 +1380,7 @@ is hereby permitted to use the air space above the land described below for the 
 
 Issued this ……….day of …………….. 20……
 
-[Digital Signature]
+<!-- marginal: [Digital Signature] -->
 
 <!-- page 43 -->
 
@@ -1432,7 +1446,7 @@ Plan
 
 Issued this ……………… day of ………….., …………
 
-[Digital Signature]
+<!-- marginal: [Digital Signature] -->
 
 National Land Code
 
@@ -1494,7 +1508,7 @@ Plan
 
 Issued this ……………… day of …………….., …………….
 
-[Digital Signature]
+<!-- marginal: [Digital Signature] -->
 
 National Land Code
 

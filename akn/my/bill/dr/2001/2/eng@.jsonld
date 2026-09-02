@@ -1,0 +1,849 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-2-2001",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_26"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Postal Services (Amendment) Bill 2001"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_10__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 10(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the colon appearing after the words \"section 8\" a full stop; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the proviso to that subsection. Amendment of section 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 14(2) of the principal Act is amended by inserting after the words \"government agency\" the words \"or agency of the Commission\". Amendment of section 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 15(1) of the principal Act is amended by substituting for the words \"certain classes of persons\" the words \"the Government, its agencies or any class of persons\". Amendment of section 20"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 20 of the principal Act is amended in the marginal note and in subsection (1), by substituting for the words \"Director General\" the word \"Commission\". Amendment of section 21"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsections 21(1), (2), (3) and (4) of the principal Act are amended by substituting for the words \"Director General\" wherever appearing the word \"Commission\". Amendment of section 29"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 29 of the principal Act is amended by substituting for the words \"Director General\" the word \"Commission\". Amendment of section 32"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 32 of the principal Act is amended by substituting for the words \"Director General\" the word \"Commission\". Amendment of section 34"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 34 of the principal Act is amended by substituting for the words \"Director General\" the word \"Commission\". Substitution of section 40"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_18__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_18__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_18__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 40 the following section: 40. (1) The Chairman of the Commission may, with the consent in writing of the Public Prosecutor, compound any offence committed by any person under this Act or any rules made thereunder and determined by the Minister to be a compoundable offence by rules made under this Act by making a written offer to the person suspected to have committed the offence to compound the offence upon payment to the Chairman of an amount of money not exceeding fifty per cent of the amount of the maximum fine for that offence within the time specified in the offer."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An offer under subsection (1) may be made at any time after the offence has been committed, but before any prosecution for it has been instituted, and if the amount specified in the offer is not paid within the time specified in the offer or within such extended period as the Chairman may grant, prosecution for the offence may be instituted at any time after that against the person to whom the offer was made."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_18__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If an offence has been compounded under subsection (1), no prosecution shall be instituted in respect of the offence against the person to whom the offer to compound was made and any thing seized in connection with the offence may be released or forfeited by the Chairman, subject to such terms and conditions as he thinks fit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_18__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All sums of money received by the Chairman under this section shall be paid into and form part of the Federal Consolidated Fund.\". Bill Substitution of section 41"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_19__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_19__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_19__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_19__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 41 the following section: 41. (1) The Minister may in writing authorize any public officer or officer of the Commission to exercise the powers of enforcement under this Act or any rules made thereunder."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any such officer shall be deemed to be a public servant within the meaning of the Penal Code."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_19__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In exercising any of the powers of enforcement under this Act or any rules made thereunder, an officer authorized under subsection (1) shall, on demand, produce to the person against whom he is acting the authorization issued to him by the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_19__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (1), any police officer not below the rank of Inspector shall have and may exercise the powers of enforcement conferred under this Act or any rules made thereunder to an officer authorized under subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_19__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In exercising any of the powers of enforcement conferred under this Act or any rules made thereunder on a police officer not below the rank of Inspector, such police officer shall, if not in uniform, on demand, declare his office and produce to the person against whom he is acting such authority card as the Inspector General of Police may direct to be carried by such police officer.\". Amendment of section 42"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Postal Services (Amendment) Act 2001."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Postal Services Act 1991 [Act 465], which in this Act is referred to as the \"principal Act\", is amended in section 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_20__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_20__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_20__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 42 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_20__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words \"making an investigation under section 41\" the words \"authorized under section 41 who is exercising the powers of enforcement conferred under this Act or any rules made thereunder\"; Postal Services (Amendment) 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_20__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words \"such officer\" the words \"the officer referred to in subsection (1)\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_20__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the words \"Director General\" the word \"Commission\". Amendment of section 43"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_21__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_21__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_21__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 43 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_21__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words \"making an investigation under section 41\" the words \"authorized under section 41 who is exercising the powers of enforcement conferred under this Act or any rules made thereunder\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_21__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_21__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_21__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_21__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_21__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"such officer\" the words \"the officer referred to in subsection (1)\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_21__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_21__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the proviso, by substituting for the words \"Director General\" the word \"Minister\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_21__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4), by inserting after the word \"officer\" the words \"authorized under section 41 who is\". Amendment of section 44"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 44 of the principal Act is amended by substituting for the words \"the Director General or an authorized officer and whether or not interpreted to him by an authorized officer\" the words \"an officer authorized under section 41 and whether or not interpreted to him by an officer authorized under section 41\". Amendment of section 45"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_23__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_23__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 45 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_23__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"the Director General or any authorized officer\" the words \"an officer authorized under section 41\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_23__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"the Director General, or such authorized officer\" the words \"such officer\". Substitution of section 46"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 46 the following section: Obstruc- 46. Any person who obstructs the Commission or assaults, ting per- hinders, impedes or obstructs the Chairman of the formance of duties. Commission, any authorized officer or any officer authorized under section 41, in the performance of its or his duties under this Act shall be guilty of an offence.\". Substitution of section 47"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 47 the following section: Prosecu- 47. No prosecution shall be instituted for an offence tion. under this Act or any rules made hereunder except by or with the consent in writing of the Public Prosecutor.\". Saving and transitional"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_26__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_26__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_26__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_26__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_26__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_26__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_26__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon the commencement of this Act, references to the Government, Minister, Director General of Post or an authorized officer, in any written law including any subsidiary legislation, or in any instrument, licence, certificate, document, registration, approval, directive, order, guildeline, notification, agreement or other document made, issued or given before the commencement of this Act shall be construed as provided for in subsections (2), (3), (4), (5) and (6)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_26__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "References to the Government or the Director General of Post in relation to the functions of such Government or Director General which upon the commencement of this Act become the functions of the Commission shall be construed as references to the Commission."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_26__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "References to the Director General of Post in relation to the functions of such Director General which upon the commencement of this Act become the function of the Minister shall be construed as references to the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_26__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "References to the Director General of Post in relation to the functions of such Director General which upon the commencement of this Act become the functions of the Chairman of the Commission shall be construed as references to such Chairman."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_26__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "References to an authorized officer shall be construed as references to an authorized officer as defined in the principal Act as amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_26__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All licences, certificates, documents, registrations, approvals, directives, orders, guidelines, notifications, agreements, and such other documents that have been made, issued or given by the Director General of Post, before the commencement of this All shall, upon the commencement of this Act, be construed as having been made, issued or given by the Commission or Chairman of the Commission, as the case may be."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the definition of \"Postal Department\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the definition of \"Director General\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of \"authorized officer\" the following definition: ' \"authorized officer\" means any officer employed by the Commission and authorized for the purposes of this Act by the Commission;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"authorized officer\" the following definition: ' \"Commission\" means the Malaysian Communications and Multimedia Commission Act 589. established under the Malaysian Communications and Multimedia Commission Act 1998;\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the English language text, by substituting for the semicolon appearing at the end of the definition of \"postal article\" a full stop. Amendment of Part II"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Part II of the principal Act is amended by substituting for the heading the following heading; \"FUNCTIONS AND DUTIES OF THE COMMISSION\". Substitution of section 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 4 the following section: Commis- 4. The Commission shall perform the functions and duties sion to assigned to it under this Act.\". perform functions and duties. Deletion of section 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 5. Amendment of section 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 6 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_6__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_6__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_6__para_a__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_6__para_a__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_6__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_6__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"Director General\" the word \"Commission\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_6__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_6__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the semicolon appearing at the end of paragraph (j) the word \"and\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_6__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_6__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting paragraph (k); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_6__para_a__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_6__para_a__subpara_iv__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_6__para_a__subpara_iv__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_6__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (l)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_6__para_a__subpara_iv__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_6__para_a__subpara_iv",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"Director General\" the word \"Commission\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_6__para_a__subpara_iv__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_6__para_a__subpara_iv",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the English language text, by substituting for the word \"his\" the word \"its\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (2) the following subsection: \"(2) The Commission may authorize the Chairman of the Commission and any authorized officer to carry out any of the functions and duties set out in sub- section (1).\". Amendment of section 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_7__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 7 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words \"Director General\" the word \"Commission\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by inserting after the word \"by\" the words \"the Commission or\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (5), by substituting for the word \"Government\" the word \"Commission\". Amendment of section 8"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 8(2) of the principal Act is amended by substituting for the words \"Director General\" the word \"Commission\". Amendment of section 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_9__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_9__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 9 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the marginal note, by deleting the words \"of Government\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"The Government\" the words \"and the Commission\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_9__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/2/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"Postal Department\" the word \"Commission\". Amendment of section 10"
+      }
+    }
+  ]
+}

@@ -4,7 +4,9 @@
 
 intituled
 
-An Act to amend the Langkawi International Yacht Registry Act 2003.
+An Act to amend the Langkawi International Yacht Registry Act
+
+2003.
 
 ENACTED by the Parliament of Malaysia as follows:
 
@@ -512,4 +514,4 @@ Langkawi International Yacht Registry (Amendment) 17
 
 This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained.
 
-[PN(U2)2454]
+<!-- marginal: [PN(U2)2454] -->

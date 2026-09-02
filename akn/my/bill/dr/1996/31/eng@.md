@@ -22,7 +22,27 @@ III
 
 ## REGISTRATION OF INDUSTRIAL DESIGN
 
-10. Ownership of registered industrial designs. 11. Right to apply for and obtain reglstration. 12. Registrable industrial design. 13. Industrial design contrary to public order or morality. 14. Application for registration. 15. Multiple application. 16. Filing date. 17. Priority date and right of priority under treaty or corwention. 18. Withdrawal of application. 19. Amendment of application. 20. Division of application after amendment.
+10. Ownership of registered industrial designs.
+
+11. Right to apply for and obtain reglstration.
+
+12. Registrable industrial design.
+
+13. Industrial design contrary to public order or morality.
+
+14. Application for registration.
+
+15. Multiple application.
+
+16. Filing date.
+
+17. Priority date and right of priority under treaty or corwention.
+
+18. Withdrawal of application.
+
+19. Amendment of application.
+
+20. Division of application after amendment.
 
 <!-- page 2 -->
 
@@ -30,7 +50,13 @@ III
 
 ## BILL
 
-21. Examination. 22. Registration and publication. 23. Registration of the same industriaL design in respect of other articles. 24. Rectification of Register.
+21. Examination.
+
+22. Registration and publication.
+
+23. Registration of the same industriaL design in respect of other articles.
+
+24. Rectification of Register.
 
 ## PART
 
@@ -38,7 +64,13 @@ IV
 
 ## PERIOD OF REGISTRATION
 
-25. Period of registration. 26. Restoration of lapsed registration. 27. Revocation of registration, and grant of compulsory licence. 28. Order of Court.
+25. Period of registration.
+
+26. Restoration of lapsed registration.
+
+27. Revocation of registration, and grant of compulsory licence.
+
+28. Order of Court.
 
 ## PART V
 
@@ -46,19 +78,35 @@ IV
 
 ## TRANSMISSION
 
-29. Rights of owner are personal property. 30. Registration of assignment, transmission or other operation of law. 31. Joint ownership.
+29. Rights of owner are personal property.
+
+30. Registration of assignment, transmission or other operation of law.
+
+31. Joint ownership.
 
 ## PART VI
 
 ## INFRINGEMENT
 
-32. Infringement of registered industrial design. 33. Infringement proceedings. 34. Defence in action for infringement. 35. Remedies for infringement.
+32. Infringement of registered industrial design.
+
+33. Infringement proceedings.
+
+34. Defence in action for infringement.
+
+35. Remedies for infringement.
 
 ## PART VII
 
 ## OFFENCES
 
-36. Falsification of Register, etc. 37. False representation of registration. 38. Use of title "Industrial Designs Registration Office". 39. Offences by body corporate.
+36. Falsification of Register, etc.
+
+37. False representation of registration.
+
+38. Use of title "Industrial Designs Registration Office".
+
+39. Offences by body corporate.
 
 <!-- page 3 -->
 
@@ -176,9 +224,23 @@ of industrial designs made after the commencement of this Act and to registratio
 
 ## ADMINISTRATION
 
-Registrar,
+<!-- marginal: Registrar, -->
 
-4. (1) The Minister may appoint a Registrar of Industrial Deputy Designs who shall be conferred with powers and functions Registrars and for the proper administration of this Act. Assistant Registrars.
+4. (1) The Minister may appoint a Registrar of Industrial
+
+<!-- marginal: Deputy -->
+
+Designs who shall be conferred with powers and functions
+
+<!-- marginal: Registrars -->
+
+<!-- marginal: and -->
+
+for the proper administration of this Act.
+
+<!-- marginal: Assistant -->
+
+<!-- marginal: Registrars. -->
 
 (2) The Minister may give the Registrar any direction consistent with the provisions of this Act as to the exercise and performance of the powers and functions in relation to any matter which appears to him to concern the development of industrial designs and other matters connected therewith and the Registrar shall give effect to any such direction.
 
@@ -252,9 +314,17 @@ the public at such times as the Minister may by regulations prescribe.
 
 (2) A certified true copy or extract of any entry in the Register sealed with the seal of the Registrar shall be given to any person requiring the same on payment of the prescribed fee.
 
-Certified
+<!-- marginal: Certified -->
 
-9. (1) The Register shall constitute prima facie copies to be evidence of all matters required or authorized by this evidence. Act to be entered therein.
+9. (1) The Register shall constitute prima facie
+
+<!-- marginal: copies to be -->
+
+evidence of all matters required or authorized by this
+
+<!-- marginal: evidence. -->
+
+Act to be entered therein.
 
 (2) The Registrar may supply a copy of or an extract from—
 
@@ -324,9 +394,15 @@ the industrial design.
 
 (2) Where two or more persons own interests in an industrial design, all of the persons owning such interests, acting jointly, are, subject to any agreement among such persons to the contrary, entitled to make an application for the registration of the industrial design.
 
-Registrable
+<!-- marginal: Registrable -->
 
-12. (1) Subject to this Act, an industrial design shall industrial not be registered unless it is new. design.
+12. (1) Subject to this Act, an industrial design shall
+
+<!-- marginal: industrial -->
+
+not be registered unless it is new.
+
+<!-- marginal: design. -->
 
 (2) An industrial design for which an application for registration is made shall not be considered to be new if, before the priority date of that application, it or an industrial design differing from it only in immaterial details or in features commonly used in the relevant trade—
 
@@ -340,9 +416,19 @@ Registrable
 
 (b) it has been disclosed by a person other than the applicant or his predecessor in title as a result of an unlawful act committed by that other person or another person.
 
-Industrial
+<!-- marginal: Industrial -->
 
-13. Industrial designs that are contrary to public order design or morality shall not be registrable. contrary to pubhc order or morality.
+13. Industrial designs that are contrary to public order
+
+<!-- marginal: design -->
+
+or morality shall not be registrable.
+
+<!-- marginal: contrary to -->
+
+<!-- marginal: pubhc order -->
+
+<!-- marginal: or morality. -->
 
 <!-- page 13 -->
 
@@ -386,9 +472,23 @@ of the same application, provided they relate to the same class of the Internati
 
 <!-- page 14 -->
 
-Priority date
+<!-- marginal: Priority date -->
 
-17. (1) Subject to this section, the priority date of an and right application for the registration of an industrial design is of priority under treaty the filing date of the application. or convention.
+17. (1) Subject to this section, the priority date of an
+
+<!-- marginal: and right -->
+
+application for the registration of an industrial design is
+
+<!-- marginal: of priority -->
+
+<!-- marginal: under treaty -->
+
+the filing date of the application.
+
+<!-- marginal: or -->
+
+<!-- marginal: convention. -->
 
 (2) An application may, pursuant to any international treaty or convention to which Malaysia is party, contain a declaration claiming the priority of one or more earlier national, regional or international applications filed by the applicant or his predecessor in title in or for any state party to the said treaty or convention; and in any such case, the priority date shall be the earliest date on which such earlier national, regional or international applications were filed:
 
@@ -402,13 +502,29 @@ Provided that the application made under this Act has been filed within six mont
 
 (5) Where any of the requirements of this section or any regulations pertaining thereto have not been complied with, the declaration referred to in subsection (2) shall be deemed to be invalid.
 
-Withdrawal
+<!-- marginal: Withdrawal -->
 
-18. The applicant for registration of an industrial design of may, by notice in writing to the Registrar, withdraw the application. application at any time during its pendency, and any such withdrawal shall be irrevocable.
+18. The applicant for registration of an industrial design
 
-Amendment
+<!-- marginal: of -->
 
-19. (1) The Registrar may, on request to him in the of prescribed manner, amend an application for the application. registration of an industrial design.
+may, by notice in writing to the Registrar, withdraw the
+
+<!-- marginal: application. -->
+
+application at any time during its pendency, and any such withdrawal shall be irrevocable.
+
+<!-- marginal: Amendment -->
+
+19. (1) The Registrar may, on request to him in the
+
+<!-- marginal: of -->
+
+prescribed manner, amend an application for the
+
+<!-- marginal: application. -->
+
+registration of an industrial design.
 
 <!-- page 15 -->
 
@@ -446,9 +562,17 @@ initial application, the applicant may at any time during the pendency of the in
 
 <!-- page 16 -->
 
-Registration
+<!-- marginal: Registration -->
 
-22. (1) Where the Registrar is satisfied that an application and for the registration of an industrial design complies with publication. the requirements of section 21, he shall—
+22. (1) Where the Registrar is satisfied that an application
+
+<!-- marginal: and -->
+
+for the registration of an industrial design complies with
+
+<!-- marginal: publication. -->
+
+the requirements of section 21, he shall—
 
 (a) register the industrial design by recording the prescribed particulars in the Register; and
 
@@ -464,11 +588,29 @@ Registration
 
 (3) The certificate of registration shall be prima facie evidence of the facts stated therein and of the validity of the registration.
 
-Registration
+<!-- marginal: Registration -->
 
-23. (1) Where an industrial design has been registered of the same in respect of any article and the owner thereof makes industrial an application— design in respect of other
+23. (1) Where an industrial design has been registered
 
-(a) for registration, in respect of one or more other articles. articles, of the registered industrial design; or
+<!-- marginal: of the same -->
+
+in respect of any article and the owner thereof makes
+
+<!-- marginal: industrial -->
+
+an application—
+
+<!-- marginal: design in -->
+
+<!-- marginal: respect of -->
+
+<!-- marginal: other -->
+
+(a) for registration, in respect of one or more other
+
+<!-- marginal: articles. -->
+
+articles, of the registered industrial design; or
 
 (b) for registration, in respect of the same or one or more other articles, of an industrial design consisting of the registered industrial design with modifications or variations not sufficient to alter the character or substantially to affect the identify thereof,
 
@@ -508,9 +650,13 @@ IV
 
 ## PERIOD OF REGISTRATION
 
-Period of
+<!-- marginal: Period of -->
 
-25. (1) The registration of an industrial design shall be registration. deemed to have come into force on the filing date of the application for the registration of the industrial design and shall subsist for five years thereafter.
+25. (1) The registration of an industrial design shall be
+
+<!-- marginal: registration. -->
+
+deemed to have come into force on the filing date of the application for the registration of the industrial design and shall subsist for five years thereafter.
 
 (2) The period of registration of an industrial design may be extended for two further consecutive terms of five years each, if an application for extension is made in the prescribed form, and the prescribed extension fee is paid before the expiration of the current term.
 
@@ -552,11 +698,25 @@ was published in the Gazette, the owner or his successor- in-title may apply for
 
 (7) Any person aggrieved by the Registrar's decision on the grant or refusal of restoration under this section may appeal to the Court.
 
-Revocation
+<!-- marginal: Revocation -->
 
-27. (1) At any time after the registration of an industrial of design, any person may apply to the Court— registration and grant of
+27. (1) At any time after the registration of an industrial
 
-(a) for the revocation of the registration of the compulsory licence. industrial design on the ground, subject to section 12, that the industrial design has been disclosed to the public prior to the priority date of the application for registration of the industrial design;
+<!-- marginal: of -->
+
+design, any person may apply to the Court—
+
+<!-- marginal: registration -->
+
+<!-- marginal: and grant of -->
+
+(a) for the revocation of the registration of the
+
+<!-- marginal: compulsory -->
+
+<!-- marginal: licence. -->
+
+industrial design on the ground, subject to section 12, that the industrial design has been disclosed to the public prior to the priority date of the application for registration of the industrial design;
 
 (b) for the cancellation of the registration of the industrial design on the ground that the registration of the industrial design has been procured by unlawful means; or
 
@@ -654,9 +814,19 @@ benefit and without the consent of or the need to account to the other or others
 
 ## INPRINGEMENT
 
-Infrmgement
+<!-- marginal: Infrmgement -->
 
-32. (1) Subject to the provisions of this Act, the owner of registered of a registered industrial design shall have the exclusive industrial design. right to make or import for sale or hire, or for use for the purposes of any trade or business, or to sell, hire or to offer or expose for sale or hire, any article to which the registered industrial design has been applied.
+32. (1) Subject to the provisions of this Act, the owner
+
+<!-- marginal: of registered -->
+
+of a registered industrial design shall have the exclusive
+
+<!-- marginal: industrial -->
+
+<!-- marginal: design. -->
+
+right to make or import for sale or hire, or for use for the purposes of any trade or business, or to sell, hire or to offer or expose for sale or hire, any article to which the registered industrial design has been applied.
 
 (2) Subject to section 30, a person infringes the rights conferred by the registration of an industrial design if he, without the licence or consent of the owner of the industrial design, does any of the following things while the registration is still in force—
 
@@ -692,13 +862,25 @@ have the right to institute legal proceedings against any person who has infring
 
 <!-- page 24 -->
 
-Defence in
+<!-- marginal: Defence in -->
 
-34. Any ground on which the registration of an industrial action for design may be revoked is available as a defence in an infringement. action for infringement of a registered industrial design.
+34. Any ground on which the registration of an industrial
 
-Remedies for
+<!-- marginal: action for -->
 
-35. (1) If the owner of a registered industrial design infringement. proves that an infringement has been committed or is being committed, the Court may award damages or an account of profits and may grant an injunction to prevent further infringement and any other legal remedies.
+design may be revoked is available as a defence in an
+
+<!-- marginal: infringement. -->
+
+action for infringement of a registered industrial design.
+
+<!-- marginal: Remedies for -->
+
+35. (1) If the owner of a registered industrial design
+
+<!-- marginal: infringement. -->
+
+proves that an infringement has been committed or is being committed, the Court may award damages or an account of profits and may grant an injunction to prevent further infringement and any other legal remedies.
 
 (2) If the owner of a registered industrial design proves that acts are being performed which make it likely that an inMngement will occur, that Court may grant an injunction to prevent infringement and any other legal remedies.
 
@@ -712,9 +894,13 @@ Remedies for
 
 ## OFFENCES
 
-Falsification
+<!-- marginal: Falsification -->
 
-36. Any person who— of Register, etc.
+36. Any person who—
+
+<!-- marginal: of Register, -->
+
+<!-- marginal: etc. -->
 
 (a) makes or causes to be made a false entry in the Register;
 
@@ -754,13 +940,35 @@ an industrial design registration commits an offence and shall be liable on conv
 
 (5) This section shall have effect in relation to a right to apply for the registration of an industrial design as they have effect in relation to a registered industrial design, and references to a registered industrial design shall include references to a right to apply for the registration of an industrial design.
 
-Use of title
+<!-- marginal: Use of title -->
 
-38. Any person who uses on his place of business or "Industrial any document issued by him or otherwise the words Designs Registration "Industrial Designs Registration Office" or any other Office". words suggesting that his place of business is, or is officially connected with, the Industrial Designs Registration Office commits an offence and is liable on conviction to a fine not exceeding fifteen thousand ringgit or to imprisonment for a term not exceeding two years or to both.
+38. Any person who uses on his place of business or
 
-Offences by
+<!-- marginal: "Industrial -->
 
-39. (1) Where an offence under this Act committed by body a body corporate is proved to have been committed with corporate. the consent or connivance of, or to be attributable to any neglect on the part of a director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he, as well as the body corporate, shall be guilty of that offence and shall be liable to be prosecuted against and punished accordingly as provided by this Act.
+any document issued by him or otherwise the words
+
+<!-- marginal: Designs -->
+
+<!-- marginal: Registration -->
+
+"Industrial Designs Registration Office" or any other
+
+<!-- marginal: Office". -->
+
+words suggesting that his place of business is, or is officially connected with, the Industrial Designs Registration Office commits an offence and is liable on conviction to a fine not exceeding fifteen thousand ringgit or to imprisonment for a term not exceeding two years or to both.
+
+<!-- marginal: Offences by -->
+
+39. (1) Where an offence under this Act committed by
+
+<!-- marginal: body -->
+
+a body corporate is proved to have been committed with
+
+<!-- marginal: corporate. -->
+
+the consent or connivance of, or to be attributable to any neglect on the part of a director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he, as well as the body corporate, shall be guilty of that offence and shall be liable to be prosecuted against and punished accordingly as provided by this Act.
 
 (2) Where the affairs of a body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
 
@@ -768,9 +976,19 @@ Offences by
 
 ## OTHER POWERS OF THE REGISTRAR
 
-Amendment
+<!-- marginal: Amendment -->
 
-40. (1) The owner of a registered industrial design may, of registered in accordance with regulations prescribed by the Minister, industrial design. request the Registrar to amend a registered industrial design or any document associated therewith for the purpose of correcting a clerical error, obvious mistake or for any other reason acceptable to the Registrar.
+40. (1) The owner of a registered industrial design may,
+
+<!-- marginal: of registered -->
+
+in accordance with regulations prescribed by the Minister,
+
+<!-- marginal: industrial -->
+
+<!-- marginal: design. -->
+
+request the Registrar to amend a registered industrial design or any document associated therewith for the purpose of correcting a clerical error, obvious mistake or for any other reason acceptable to the Registrar.
 
 <!-- page 27 -->
 
@@ -806,21 +1024,39 @@ this Act—
 
 (3) Costs awarded by the Registrar may in default of payment be recovered in a court of competent jurisdiction by the person to whom the costs were awarded.
 
-Exercise of
+<!-- marginal: Exercise of -->
 
-42. Where any discretionary power is given to the discretionary Registrar by this Act or any regulations made under this power. Act, he shall not exercise the power on any person who may be adversely affected by his decision without giving to the person an opportunity of being heard.
+42. Where any discretionary power is given to the
 
-Extension of
+<!-- marginal: discretionary -->
 
-43. Subject to the provisions of subsection 17(2) and time. section 50, where by this Act or any regulations made under this Act, a time is specified within which an act or thing is to be done, the Registrar may, unless otherwise expressly directed by the Court, extend the time either before or after its expiration, upon payment of the prescribed fee.
+Registrar by this Act or any regulations made under this
+
+<!-- marginal: power. -->
+
+Act, he shall not exercise the power on any person who may be adversely affected by his decision without giving to the person an opportunity of being heard.
+
+<!-- marginal: Extension of -->
+
+43. Subject to the provisions of subsection 17(2) and
+
+<!-- marginal: time. -->
+
+section 50, where by this Act or any regulations made under this Act, a time is specified within which an act or thing is to be done, the Registrar may, unless otherwise expressly directed by the Court, extend the time either before or after its expiration, upon payment of the prescribed fee.
 
 ## PART IX
 
 ## MISCELLANEOUS
 
-44. Any notice required or authorised to be given under Service by post. this Act or regulations made under this Act, and any application or other document so required or authorised to be made or filed, may be given, made or filed by post.
+44. Any notice required or authorised to be given under
 
-Agent.
+<!-- marginal: Service by -->
+
+<!-- marginal: post. -->
+
+this Act or regulations made under this Act, and any application or other document so required or authorised to be made or filed, may be given, made or filed by post.
+
+<!-- marginal: Agent. -->
 
 45. (1) Where by this Act or any regulations made under this Act any act has to be done by or to any person in connection with an industrial design or any procedure relating thereto, the act may, under and in accordance with this Act and any regulations made under this Act or in particular cases by special leave of the Registrar, be done by or to an agent of that person duly authorised in the prescribed manner.
 
@@ -864,9 +1100,13 @@ Agent.
 
 (k) to regulate generally matters pertaining to the business of the registration of industrial designs carried on in the Industrial Designs Registration Office whether or not specially prescribed under this Act.
 
-Convention
+<!-- marginal: Convention -->
 
-48. (1) The Minister may, by order published in Gazette countries. with a view to the fulfilment of a treaty, convention, arrangement or engagement between Malaysia and another country, declare that a country specified in the order is a convention country for the purposes of this Act.
+48. (1) The Minister may, by order published in Gazette
+
+<!-- marginal: countries. -->
+
+with a view to the fulfilment of a treaty, convention, arrangement or engagement between Malaysia and another country, declare that a country specified in the order is a convention country for the purposes of this Act.
 
 (2) Where the Minister, by order declares that an application for protection in respect of an industrial design is, in accordance with the terms of a treaty subsisting between two or more convention countries, equivalent to an application made in one of those convention countries, the first-mentioned application shall, for the purposes of this Act, be deemed to have been made in that convention country.
 

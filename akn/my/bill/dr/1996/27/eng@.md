@@ -68,7 +68,25 @@ ciplinary authority over all its officers and servants and committees. shall exe
 
 any disciplinary punishment or any combination of two or more disciplinary punishments as may be provided for under any regulations that may be made under section 16c.
 
-Appeal 16B. (1) A decision of the disciplinary against committee under section 16A(2)(a) shall be decision of discipli- appealable to the Minister. nary committee. (2) The decision of any disciplinary committee under section l6A(2)(b) shall be appealable to the Disciplinary Appeal Committee which shall consist of the following members:
+<!-- marginal: Appeal -->
+
+16B. (1) A decision of the disciplinary
+
+<!-- marginal: against -->
+
+committee under section 16A(2)(a) shall be
+
+<!-- marginal: decision of -->
+
+<!-- marginal: discipli- -->
+
+appealable to the Minister.
+
+<!-- marginal: nary -->
+
+<!-- marginal: committee. -->
+
+(2) The decision of any disciplinary committee under section l6A(2)(b) shall be appealable to the Disciplinary Appeal Committee which shall consist of the following members:
 
 (a) the Chairman of the Lembaga, who shall be the chairman of the Disciplinary Appeal Committee and having a casting vote; and
 
@@ -80,9 +98,23 @@ Appeal 16B. (1) A decision of the disciplinary against committee under section 1
 
 <!-- page 4 -->
 
-(5) The decision of the Minister or the Disciplinary Appeal Committee under subsection (3) shall be final and conclusive.
+(5) The decision of the Minister or the Disciplinary Appeal Committee under subsection
 
-Power to 16c. (1) The Lembaga may, with the approval make dis- of the Minister, make such regulations as it ciplinary regulations. deems necessary or expedient to provide for the discipline of the officers and servants of the Lembaga.
+(3) shall be final and conclusive.
+
+<!-- marginal: Power to -->
+
+16c. (1) The Lembaga may, with the approval
+
+<!-- marginal: make dis- -->
+
+of the Minister, make such regulations as it
+
+<!-- marginal: ciplinary -->
+
+<!-- marginal: regulations. -->
+
+deems necessary or expedient to provide for the discipline of the officers and servants of the Lembaga.
 
 (2) The disciplinary regulations made under this section—
 
@@ -90,35 +122,33 @@ Power to 16c. (1) The Lembaga may, with the approval make dis- of the Minister, 
 
 (b) may provide for disciplinary punishments as the Lembaga may deem appropriate, and the punishments may extend to warning, fine, forfeiture of emoluments, deferment of salary movement, reduction of salary, reduction in rank and dismissal;
 
-(c) shall provide for an opportunity to the person against whom disciplinary proceedings are taken
-
-<!-- marginal: to make -->
-
-representations against the disciplinary charge laid against him before a decision is arrived at by the disciplinary committee except in the following cases:
+(c) shall provide for an opportunity to the person against whom disciplinary proceedings are taken to make representations against the disciplinary charge laid against him before a decision is arrived at by the disciplinary committee except in the following cases:
 
 (i) where an officer or servant of the Lembaga is dismissed or reduced in rank on the ground of conduct in respect of which a criminal charge has been proved against him;
 
-(ii) where the Lembaga, on
-
-<!-- marginal: the -->
-
-recommendations of the Minister charged with home affairs, is satisfied that in the interest of the security of Malaysia or any part thereof it is not expedient to carry out the requirements of this paragraph; or
+(ii) where the Lembaga, on the recommendations of the Minister charged with home affairs, is satisfied that in the interest of the security of Malaysia or any part thereof it is not expedient to carry out the requirements of this paragraph; or
 
 <!-- page 5 -->
 
 ## (AMENDMENT)
 
-(iii) where there has been made against an officer or servant of the Lembaga any order of detention, supervision, restricted residence, banishment or deportation, or where there has been imposed on such officer or servant of the Lembaga any form of restriction or supervision by bond or otherwise, under any law relating to the security of Malaysia or any part thereof, prevention of crime, preventive detention, restricted residence, banishment,
-
-<!-- marginal: im- -->
-
-migration, or protection of women and girls;
+(iii) where there has been made against an officer or servant of the Lembaga any order of detention, supervision, restricted residence, banishment or deportation, or where there has been imposed on such officer or servant of the Lembaga any form of restriction or supervision by bond or otherwise, under any law relating to the security of Malaysia or any part thereof, prevention of crime, preventive detention, restricted residence, banishment, im- migration, or protection of women and girls;
 
 (d) may provide for the interdiction with reduced emoluments of an officer or servant of the Lembaga during the pendency of a criminal proceedings against him or disciplinary proceedings against him with a view to his dismissal or reduction in rank; and
 
 (e) may provide for the suspension without emoluments of an officer or servant of the Lembaga where the officer or servant has been convicted by any criminal court or where an order of detention or restriction has been made in respect of or imposed on the officer or servant.
 
-Imposition 16D. (1) A person who is or was in the of sur- employment of the Lembaga may be surcharged charge. if it appears to the Lembaga that the person—
+<!-- marginal: Imposition -->
+
+16D. (1) A person who is or was in the
+
+<!-- marginal: of sur- -->
+
+employment of the Lembaga may be surcharged
+
+<!-- marginal: charge. -->
+
+if it appears to the Lembaga that the person—
 
 (a) has failed to collect money owing to the Lembaga for the collection of which he is or was responsible;
 
@@ -134,7 +164,9 @@ Imposition 16D. (1) A person who is or was in the of sur- employment of the Lemb
 
 (2) The Lembaga shall, before the person is surcharged, serve on him a written notice calling on him to show cause why he should not be surcharged.
 
-(3) If a satisfactory explanation is not received within fourteen days from the date of service of the aforesaid notice, the Lembaga may—
+(3) If a satisfactory explanation is not received within fourteen days from the date of service of the aforesaid notice, the Lembaga
+
+<!-- marginal: may— -->
 
 (a) in the case of subsections (1)(a), (b) and
 
@@ -154,11 +186,7 @@ Recovery of 16G. The amount of any surcharge made under surcharge. section 16D(3
 
 (a) from the salary of the person surcharged; or
 
-(b) from the pension of
-
-<!-- marginal: the person -->
-
-surcharged,
+(b) from the pension of the person surcharged,
 
 by equal monthly instalments not exceeding one- fourth of the total monthly salary or pension, as the case may be, of that person.
 

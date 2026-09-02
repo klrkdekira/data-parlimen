@@ -28,7 +28,9 @@ ENACTED by the Parliment of Malaysia as follows:
 
 2. The Income Tax Act 1967 [Act 53], which in this Act is referred to as the "principal Act", is amended in section 7 7-
 
-(a) in subsection (1), by inserting after the words "any person" the words ", other than a company to which subsection (1A) applies,";
+(a) in subsection (1), by inserting after the words "any person" the words ", other than a company to which subsection
+
+(1A) applies,";
 
 (b) by inserting after subsection (1) the following subsections:
 
@@ -114,11 +116,17 @@ the words ", other than a company to which section 103A applies,";
 
 9. The principal Act is amended by inserting after section 103 the following section:
 
-"payment 103A. (1) This section shall apply only to companies. of tax by (2) Except as provided in subsection (3), tax payable under an assessment for a year of assessment shall be due and payable on the due date whether or not that company appeals against the assessment.
+"payment 103A. (1) This section shall apply only to companies.
+
+<!-- marginal: of tax by -->
+
+(2) Except as provided in subsection (3), tax payable under an assessment for a year of assessment shall be due and payable on the due date whether or not that company appeals against the assessment.
 
 (3) Where an assessment is made under section 91, 92 or 96A, or where an assessment is increased under section 101(2), the tax payable under the assessment or increased assessment shall be due and payable on the service of the notice of assessment or composite assessment or increased assessment, as the case may be, on the company assessed whether or not that company appeals against the assessment or increased assessment.
 
-(4) Where any tax due and payable under subsection (2) has not been paid by the due date, so much of the tax as is unpaid upon the expiration of that date shall without any further notice being served be increased by a sum equal to ten per cent of the tax so unpaid, and that sum shall be reccverable as if it were tax due and payable under this Act.
+(4) Where any tax due and payable under subsection
+
+(2) has not been paid by the due date, so much of the tax as is unpaid upon the expiration of that date shall without any further notice being served be increased by a sum equal to ten per cent of the tax so unpaid, and that sum shall be reccverable as if it were tax due and payable under this Act.
 
 (5) Where the tax due and payable has been increased under subsection (4), any balance remaining unpaid upon the expiration of sixty days from the due date shall without any further notice being served be further increased by a sum equal to five per cent of the balance unpaid, and that sum shall be recoverable as if it were tax due and payable under this Act.
 
@@ -136,7 +144,9 @@ by a sum equal to ten per cent of the tax so unpaid, and that sum shall be recov
 
 (10) Subsections (6) and (7) shall apply (with any necessary modification) in relation to a debt due and payable under section 108(5) or 108(7) as it applies in relation to tax due and payable on the service of the notice in accordance with subsection (3).
 
-(11) Notwithstanding the foregoing subsections, where tax due and payable is increased by a sum under subsection (4), (5), (6), (7), (8) or (9), the Director General may in his discretion for any good cause shown remit the
+(11) Notwithstanding the foregoing subsections, where tax due and payable is increased by a sum under subsection
+
+(4), (5), (6), (7), (8) or (9), the Director General may in his discretion for any good cause shown remit the
 
 <!-- page 7 -->
 
@@ -182,7 +192,9 @@ mstalments for companies. (2) Except as provided in subsection (4)(a), the estim
 
 (b) where the amount of instalments that have been paid for that year exceeds the revised estimate, the remaining instalments shall cease immediately.
 
-(8) Notwithstanding subsections (1), (3), (5), (6) and (7), the Director General may direct any company to make payment by instalments on account of tax which is or may be payable by that company for a year of assessment at such times and in such amounts as the Director General may direct.
+(8) Notwithstanding subsections (1), (3), (5), (6) and
+
+(7), the Director General may direct any company to make payment by instalments on account of tax which is or may be payable by that company for a year of assessment at such times and in such amounts as the Director General may direct.
 
 (9) Where any instalment amount due and payable has not been paid by the due date or on the date specified by the Director General, the amount unpaid shall, without any further notice being served, be increased by a sum equal to ten per cent of the amount unpaid, and that sum shall be recoverable as if it were tax due and payable under this Act.
 
@@ -286,7 +298,9 @@ Section 107c also requires the company to pay the estimate of tax payable by the
 
 Subsection 107c(3) provides that the estimate of tax payable shall not be less than the revised estimate or, if no revised estimate is furnished, the estimate of tax payable for the immediately preceding year of assessment. Subsection 107c(7) allows a company to furnish a revised estimate in the sixth month of the basis period.
 
-Except for subsection 107c(3), this amendment is effective from the year of assessment 2001. Subsection 107c(3) is effective from the year of assessment 2002.
+Except for subsection 107c(3), this amendment is effective from the year of assessment 2001. Subsection 107c(3) is effective from the year of assessment
+
+2002.
 
 8. Clause 13 of the Bill seeks to amend section 112 of Act 53 to provide that the failure to furnish a return under the new subsection 77(1A) shall be an offence punishable under section 112. In addition, a new subsection 112(2A) is introduced to empower the court to further order a person convicted of an offence under subsection 112(1) to comply with the relevant provision of Act 53 that has been contravened. This amendment is effective upon the coming into operation of this Act.
 

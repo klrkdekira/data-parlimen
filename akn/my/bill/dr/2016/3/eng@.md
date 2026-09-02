@@ -4,13 +4,13 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title 2. Interpretation
 
-## Part II
+## PART II
 
 ## THE INSTITUTE AND ITS FUNCTIONS, POWERS, ETC.
 
@@ -26,7 +26,7 @@
 
 14. Institute may establish committees
 
-## Part III
+## PART III
 
 ## DIRECTOR GENERAL, OFFICERS AND SERVANTS OF THE INSTITUTE
 
@@ -48,7 +48,7 @@
 
 22. Delegation of Director General’s duties
 
-## Part IV
+## PART IV
 
 ## FINANCE
 
@@ -64,7 +64,7 @@
 
 28. Statutory Bodies (Accounts and Annual Reports) Act 1980
 
-## Part V
+## PART V
 
 ## OTHER POWERS OF THE INSTITUTE
 
@@ -84,7 +84,7 @@
 
 36. Power to make regulations
 
-## Part VI
+## PART VI
 
 ## MISCELLANEOUS
 
@@ -106,7 +106,7 @@
 
 44. Public servants
 
-## Part VII
+## PART VII
 
 ## REPEAL, DISSOLUTION, SAVINGS AND TRANSITIONAL PROVISIONS, ETC.
 
@@ -134,7 +134,7 @@
 
 56. Reference in law or document to dissolved Board
 
-## Schedule
+## SCHEDULE
 
 <!-- page 5 -->
 
@@ -146,7 +146,7 @@ An Act to provide for the continued existence of the Forest Research Institute o
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -192,7 +192,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 “Chairman” means the Chairman of the Institute appointed under paragraph 7(a) and includes any member of the Institute appointed to perform the function of the Chairman under section 10.
 
-## Part II
+## PART II
 
 ## THE INSTITUTE AND ITS FUNCTIONS, POWERS, ETC.
 
@@ -390,7 +390,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 16 -->
 
-## Part III
+## PART III
 
 ## DIRECTOR GENERAL, OFFICERS AND SERVANTS OF THE
 
@@ -464,7 +464,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (2) A delegation under this section shall not preclude the Director General himself from performing or exercising at any time any of the powers or duties so delegated.
 
-## Part IV
+## PART IV
 
 ## FINANCE
 
@@ -564,7 +564,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 28. The Statutory Bodies (Accounts and Annual Reports) Act 1980 [Act 240] shall apply to the Institute.
 
-## Part V
+## PART V
 
 ## OTHER POWERS OF THE INSTITUTE
 
@@ -622,7 +622,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 36. The Institute may, with the approval of the Minister, make such regulations as may be necessary or expedient for the purpose of carrying into effect the provisions of this Act.
 
-## Part VI
+## PART VI
 
 ## MISCELLANEOUS
 
@@ -694,7 +694,7 @@ in respect of any act, neglect, default or omission done or omitted by it or him
 
 44. Every member of the Institute or any of its committees, or any officer, servant or agent of the Institute, while discharging his duties as such member, officer, servant or agent shall be deemed to be a public servant within the meaning of the Penal Code [Act 574].
 
-## Part VII
+## PART VII
 
 ## REPEAL, DISSOLUTION, SAVINGS AND TRANSITIONAL
 
@@ -794,7 +794,7 @@ to the day preceding the commencement date.
 
 56. A reference in any law or document in force before the commencement date to the dissolved Board shall be construed as a reference to the Institute.
 
-## Schedule
+## SCHEDULE
 
 [Subsection 3(4)]
 
@@ -918,7 +918,7 @@ To strengthen the command of the Institute, the proposed Act also seeks to allow
 
 For many years the Institute has been a referral centre to university students who seek the Institute’s assistance to co-supervise their research for postgraduate studies and the Institute provides such assistance at no cost. With the proposed Act, the Institute is empowered to offer technical and non-technical courses or training and subsequently to confer certificates upon persons who have followed such courses or training. The proposed Act further allows the Institute to collaborate with any institution or organization within or outside Malaysia.
 
-## Part I
+## PART I
 
 2. Part I deals with preliminary matters.
 
@@ -926,7 +926,7 @@ Clause 1 provides for the short title of the proposed Act.
 
 Clause 2 contains the definitions of the words and expressions used in the proposed Act.
 
-## Part II
+## PART II
 
 3. Part II contains provisions relating to the Institute, its functions and powers.
 
@@ -956,7 +956,7 @@ Clause 13 provides for the appointment of the Secretary of the Institute.
 
 Clause 14 seeks to empower the Institute to establish committees to assist in the performance of its functions and exercise of its powers under the proposed Act.
 
-## Part III
+## PART III
 
 4. Part III contains provisions relating to the Director General, officers and servants of the Institute.
 
@@ -978,7 +978,7 @@ Clause 22 seeks to empower the Director General to delegate his duties but the d
 
 <!-- page 37 -->
 
-## Part IV
+## PART IV
 
 5. Part IV deals with financial matters.
 
@@ -994,7 +994,7 @@ Clause 27 requires the Institute to establish and maintain a reserve fund.
 
 Clause 28 seeks to provide for the application of the Statutory Bodies (Accounts and Annual Reports) Act 1980 to the Institute.
 
-## Part V
+## PART V
 
 6. Part V deals with other powers of the Institute.
 
@@ -1016,7 +1016,7 @@ Clause 36 seeks to empower the Institute, with the approval of the Minister, to 
 
 <!-- page 38 -->
 
-## Part VI
+## PART VI
 
 7. Part VI deals with miscellaneous matters.
 
@@ -1036,7 +1036,7 @@ Clause 43 provides for the application of the Public Authorities Protection Act 
 
 Clause 44 provides that every member, officer and servant of the Institute shall be deemed to be public servants within the meaning of the Penal Code while discharging his duties as such.
 
-## Part VII
+## PART VII
 
 8. Part VII deals with repeal, dissolution, savings and transitional provisions, etc.
 

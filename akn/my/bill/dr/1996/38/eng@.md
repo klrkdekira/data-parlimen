@@ -4,9 +4,7 @@
 
 intituled
 
-An Act to amend the Employees' Social Security Act
-
-1969. [ ]
+An Act to amend the Employees' Social Security Act 1969. [ ]
 
 BE IT ENACTED by the Seri Paduka Baginda Yang di-Pertuan Agong with the advice and consent of the Dewan Negara and Dewan Rakyat in Parliament assembled, and by the authority of the same, as follows:
 
@@ -46,11 +44,13 @@ substituting for the full stop a colon and inserting thereafter the following pr
 
 <!-- page 2 -->
 
-Deletion of
+<!-- marginal: Deletion of -->
 
-4. Section 42 of the principal Act is deleted. section 42.
+4. Section 42 of the principal Act is deleted.
 
-New section
+<!-- marginal: section 42. -->
+
+<!-- marginal: New section -->
 
 5. Part III of the principal Act is amended by inserting
 
@@ -68,15 +68,23 @@ New section
 
 on such terms and conditions as the Organisation may deem fit to impose.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-6. Section 59 of the principal Act is amended by inserting of section 59 after subsection (2) the following subsection:
+6. Section 59 of the principal Act is amended by inserting
+
+<!-- marginal: of section 59 -->
+
+after subsection (2) the following subsection:
 
 "(2A) If for any period the Director General is temporarily absent from Malaysia or temporarily incapacitated through illness, or for any other reason is unable to perform his duties, or where the office of the Director General becomes vacant, the Minister shall appoint one of the Deputy Directors General to perform the duties of the Director General during such period.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-7. Section 59B of the principal Act is amended— of section 59B
+7. Section 59B of the principal Act is amended—
+
+<!-- marginal: of section -->
+
+<!-- marginal: 59B -->
 
 (a) in the marginal note, by substituting for the words "Appointment of Board." the words "Establishment of the Board.":
 
@@ -98,19 +106,17 @@ Amendment
 
 (cb) an officer representing the Ministry responsible for health;";
 
-(iv) by substituting for the full stop at the end of paragraph (e) a semi-colon and inserting thereafter the
-
-<!-- marginal: following -->
-
-paragraph:
+(iv) by substituting for the full stop at the end of paragraph (e) a semi-colon and inserting thereafter the following paragraph:
 
 "(f) three persons with experience in social security matters to be appointed by the Minister.";
 
 (d) in subsection (4) by substituting for the words "2(d) and (e)" the words "(2)(a), (d), (e) and
 
-### (f)";
+(f)";
 
-(e) in the proviso to subsection (5) by substituting for the words "2(d) and (e)" the words "(2)(a), (d), (e) and (f)";
+(e) in the proviso to subsection (5) by substituting for the words "2(d) and (e)" the words "(2)(a),
+
+(d), (e) and (f)";
 
 (f) by deleting subsection (6); and
 
@@ -126,9 +132,13 @@ Provided that the appointment of the alternate member shall be in consultation w
 
 (10) An alternate member shall, unless he sooner resigns his membership or his appointment is sooner revoked, cease to be an alternate member when the member for whom he is an alternate member ceases to be a member of the Board.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-8. Section 59c of the principal Act is amended— of section 59c.
+8. Section 59c of the principal Act is amended—
+
+<!-- marginal: of section -->
+
+<!-- marginal: 59c. -->
 
 (a) in the marginal note, by substituting for the words "Deputy Chairman to act as Chairman." the words "Minister shall appoint any person to act as Chairman.";
 
@@ -152,7 +162,11 @@ Amendment
 
 (c) dalam subseksyen (2)—
 
-(i) dengan menggantikan perkataan "Timbalan Pengerusi hendaklah" dengan perkataan "Menteri hendaklah melantik mana-mana orang untuk"; dan
+(i) dengan menggantikan
+
+<!-- marginal: perkataan -->
+
+"Timbalan Pengerusi hendaklah" dengan perkataan "Menteri hendaklah melantik mana-mana orang untuk"; dan
 
 (ii) dengan memotong proviso.
 
@@ -200,9 +214,13 @@ menggantikan perkataan "enam bulan" dan "dua ribu" masing-masingnya dengan perka
 
 (b) by deleting the marginal reference to the Penal Code.
 
-Amendment
+<!-- marginal: Amendment -->
 
-17. The Sixth Schedule to the principal Act is amended of Sixth in paragraph 1—
+17. The Sixth Schedule to the principal Act is amended
+
+<!-- marginal: of Sixth -->
+
+in paragraph 1—
 
 ## Schedule
 

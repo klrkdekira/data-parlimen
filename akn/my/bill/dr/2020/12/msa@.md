@@ -8,13 +8,13 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian i
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PENUBUHAN, FUNGSI DAN KUASA SURUHANJAYA
 
@@ -28,7 +28,7 @@
 
 13. Pewakilan fungsi dan kuasa Suruhanjaya
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PENTADBIRAN
 
@@ -50,7 +50,7 @@
 
 21. Perundingan dengan agensi lain
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## ADUAN SALAH LAKU
 
@@ -64,7 +64,7 @@
 
 26. Tanggungjawab untuk merujukkan kejadian melibatkan jenayah seksual dsb., terhadap orang dalam tahanan atau jagaan
 
-## Bahagian V
+## BAHAGIAN V
 
 ## KUASA PENYIASATAN
 
@@ -80,7 +80,7 @@
 
 32. Suruhanjaya boleh memulakan penyiasatan
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## KESALAHAN
 
@@ -90,7 +90,7 @@
 
 <!-- page 3 -->
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PELBAGAI
 
@@ -128,7 +128,7 @@ Suatu Akta untuk mengadakan peruntukan bagi penubuhan Suruhanjaya Bebas Tatakela
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -182,7 +182,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 “Suruhanjaya Pasukan Polis” ertinya Suruhanjaya Pasukan Polis yang ditubuhkan di bawah Perkara 140 Perlembagaan Persekutuan.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PENUBUHAN, FUNGSI DAN KUASA SURUHANJAYA
 
@@ -334,7 +334,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (4) Pewakilan kuasa di bawah seksyen ini tidak akan menghalang Suruhanjaya daripada melaksanakan atau menjalankan sendiri mana-mana fungsi dan kuasa yang telah diwakilkan itu pada bila-bila masa.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PENTADBIRAN
 
@@ -418,7 +418,7 @@ untuk bekerjasama dengan, atau membantu dalam penjalanan kewajipannya, atau untu
 
 21. Suruhanjaya boleh berunding dengan dan berkongsi maklumat kepada agensi penguatkuasaan lain, mana-mana jabatan kerajaan Persekutuan atau Negeri atau mana-mana orang atau badan yang difikirkan sesuai oleh Suruhanjaya.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## ADUAN SALAH LAKU
 
@@ -500,7 +500,7 @@ Jawatankuasa Aduan hendaklah merujukkan aduan itu kepada Suruhanjaya dan membuat
 
 26. Pasukan polis hendaklah merujuk kepada Suruhanjaya apa-apa kejadian yang melibatkan jenayah seksual terhadap, atau apa-apa kejadian yang mengakibatkan cedera parah kepada atau kematian, mana-mana orang dalam tahanan atau jagaan anggota pasukan polis secepat yang dapat dilaksanakan.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## KUASA PENYIASATAN
 
@@ -604,7 +604,7 @@ Malaysia 2009, merujukkan dapatan itu kepada Suruhanjaya Pencegahan Rasuah Malay
 
 (2) Penyiasatan yang disebut dalam subseksyen (1) hendaklah dijalankan mengikut Bahagian V Akta ini.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## KESALAHAN
 
@@ -620,7 +620,7 @@ Malaysia 2009, merujukkan dapatan itu kepada Suruhanjaya Pencegahan Rasuah Malay
 
 <!-- page 25 -->
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## PELBAGAI
 
@@ -730,7 +730,7 @@ Malaysia 2009, merujukkan dapatan itu kepada Suruhanjaya Pencegahan Rasuah Malay
 
 Rang Undang-Undang Suruhanjaya Bebas Tatakelakuan Polis 2020 (“Akta yang dicadangkan”) bertujuan untuk mengadakan peruntukan bagi penubuhan Suruhanjaya Bebas Tatakelakuan Polis (“Suruhanjaya”). Matlamat Akta yang dicadangkan adalah untuk mempertingkat integriti pasukan polis, mengurangkan salah laku dalam kalangan anggota pasukan polis dan menggalakkan keyakinan orang awam terhadap pasukan polis.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I Akta yang dicadangkan memperkatakan perkara permulaan.
 
@@ -738,7 +738,7 @@ Fasal 1 mengandungi tajuk ringkas dan permulaan kuat kuasa Akta yang dicadangkan
 
 Fasal 2 mengandungi tafsiran bagi takrif dan ungkapan tertentu yang digunakan dalam Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 3. Bahagian II Akta yang dicadangkan memperkatakan penubuhan, fungsi dan kuasa Suruhanjaya.
 
@@ -764,7 +764,7 @@ Fasal 13 menyatakan bahawa fungsi dan kuasa Suruhanjaya boleh dijalankan oleh ma
 
 <!-- page 31 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 4. Bahagian III Akta yang dicadangkan memperkatakan pentadbiran Suruhanjaya.
 
@@ -784,7 +784,7 @@ Fasal 20 bertujuan untuk membenarkan Suruhanjaya membuat perkiraan dengan jabata
 
 Fasal 21 bertujuan untuk membenarkan Suruhanjaya untuk bekerjasama dengan mana-mana agensi penguatkuasaan lain, jabatan Kerajaan Persekutuan atau Negeri dan orang lain untuk melaksanakan fungsinya.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 5. Bahagian IV Akta yang dicadangkan mengandungi peruntukan yang berhubungan dengan pengurusan aduan oleh Suruhanjaya.
 
@@ -802,7 +802,7 @@ Fasal 25 bertujuan untuk mengadakan peruntukan bagi pengelasan aduan.
 
 Fasal 26 bertujuan untuk mengenakan kewajipan ke atas pasukan polis untuk merujuk kepada Suruhanjaya mengenai apa-apa kejadian yang melibatkan jenayah seksual atau apa-apa kejadian yang mengakibatkan cedera parah atau kematian terhadap mana-mana orang yang pada masa itu, orang itu berada dalam tahanan atau jagaan anggota pasukan polis.
 
-## Bahagian V
+## BAHAGIAN V
 
 6. Bahagian V Akta yang dicadangkan mengandungi peruntukan mengenai kuasa penyiasatan oleh Suruhanjaya dan pegawai Suruhanjaya.
 
@@ -830,7 +830,7 @@ Fasal 31 bertujuan untuk mengadakan peruntukan bagi penubuhan Pasukan Petugas ba
 
 Fasal 32 bertujuan untuk membolehkan Suruhanjaya memulakan penyiasatan salah laku atas inisiatifnya sendiri.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 7. Bahagian VI mengandungi peruntukan mengenai kesalahan.
 
@@ -838,7 +838,7 @@ Fasal 33 menjadikannya suatu kesalahan bagi seseorang yang mengugut, menghina at
 
 Fasal 34 menjadikannya suatu kesalahan bagi seseorang yang memberikan maklumat palsu kepada Suruhanjaya.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 8. Bahagian VII mengandungi peruntukan pelbagai.
 

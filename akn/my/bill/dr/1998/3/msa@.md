@@ -44,9 +44,11 @@ dipinda dengan memasukkan selepas seksyen 1 seksyen yang berikut:
 
 Rang Undang-Undang
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Akta ibu adalah dipinda dalam seksyen 2— seksyen 2.
+3. Akta ibu adalah dipinda dalam seksyen 2—
+
+<!-- marginal: seksyen 2. -->
 
 (a) dengan memasukkan selepas takrif "barangan" takrif yang berikut:
 
@@ -170,19 +172,21 @@ Rang Undang-Undang
 
 ### sebagaimana yang difikirkannya patut.".
 
-### Pindaan
+<!-- marginal: Pindaan -->
 
-8. Seksyen 11 Akta ibu adalah dipinda dalam teks bahasa seksyen 11
+8. Seksyen 11 Akta ibu adalah dipinda dalam teks bahasa
+
+<!-- marginal: seksyen 11 -->
 
 ### Inggeris dengan menggantikan perkataan "an officer of
 
 ### the Board" dengan perkataan "a Board Officer".
 
-### Pindaan
+<!-- marginal: Pindaan -->
 
 9. Seksyen 14 Akta ibu adalah dipinda—
 
-### seksyen 14.
+<!-- marginal: seksyen 14. -->
 
 (a) dengan menggantikan subseksyen (1) dengan
 
@@ -298,23 +302,47 @@ ini, melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak kurang
 
 14. Akta ibu adalah dipinda dengan memasukkan selepas seksyen baru seksyen 20 seksyen yang berikut: 20A
 
-Permoho- 20A. (1) Jika pemegang lesen yang merupakan nan bagi suatu syarikat atau suatu perkongsian atau suatu kelulusan firma bercadang untuk mengambil bahagian untuk
+<!-- marginal: Permoho- -->
 
-### meng-
+20A. (1) Jika pemegang lesen yang merupakan
 
-dalam apa-apa perniagaan atau perjanjian yang ambil akan menyebabkan— bahagian dalam perniaga-
+<!-- marginal: nan bagi -->
 
-(a) apa-apa perubahan dalam struktur an atau ekuiti; atau perjanjian.
+suatu syarikat atau suatu perkongsian atau suatu
+
+<!-- marginal: kelulusan -->
+
+firma bercadang untuk mengambil bahagian
+
+<!-- marginal: untuk -->
+
+<!-- marginal: meng- -->
+
+dalam apa-apa perniagaan atau perjanjian yang
+
+<!-- marginal: ambil -->
+
+akan menyebabkan—
+
+<!-- marginal: bahagian -->
+
+<!-- marginal: dalam -->
+
+<!-- marginal: perniaga- -->
+
+(a) apa-apa perubahan dalam struktur
+
+<!-- marginal: an atau -->
+
+ekuiti; atau
+
+<!-- marginal: perjanjian. -->
 
 (b) apa-apa perubahan anggota Lembaga Pengarah,
 
 syarikat, perkongsian atau firma itu, mengikut mana-mana yang berkenaan, pemegang lesen itu hendaklah memperoleh kelulusan daripada Lembaga sebelum mengambil bahagian dalam perniagaan atau perjanjian itu.
 
-(2) Lembaga boleh, apabila diterima permohonan di bawah subseksyen
-
-<!-- marginal: (1), -->
-
-meluluskan atau menolak permohonan itu dan, jika Lembaga meluluskan permohonan itu, Lembaga boleh mengenakan apa-apa syarat yang difikirkannya patut.
+(2) Lembaga boleh, apabila diterima permohonan di bawah subseksyen (1), meluluskan atau menolak permohonan itu dan, jika Lembaga meluluskan permohonan itu, Lembaga boleh mengenakan apa-apa syarat yang difikirkannya patut.
 
 (3) Pemegang lesen yang gagal mematuhi seksyen ini adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak
 
@@ -324,19 +352,37 @@ Rang Undang-Undang
 
 kurang daripada satu ribu ringgit tetapi tidak melebihi sepuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya.".
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
 15. Akta ibu adalah dipinda dengan memasukkan selepas
 
-### 2 l A.
+<!-- marginal: 2 l A. -->
 
 seksyen 21 seksyen yang berikut:
 
-Dokumen 21 A. (1) Selain mana-mana dokumen lain yang yang di- dikehendaki di bawah Akta ini, suatu
+<!-- marginal: Dokumen -->
 
-### kehendaki
+21 A. (1) Selain mana-mana dokumen lain yang
 
-untuk permohonan untuk memperbaharui sesuatu lesen memper- hendaklah disertakan dengan dokumen yang baharui berikut: lesen.
+<!-- marginal: yang di- -->
+
+dikehendaki di bawah Akta ini, suatu
+
+<!-- marginal: kehendaki -->
+
+<!-- marginal: untuk -->
+
+permohonan untuk memperbaharui sesuatu lesen
+
+<!-- marginal: memper- -->
+
+hendaklah disertakan dengan dokumen yang
+
+<!-- marginal: baharui -->
+
+berikut:
+
+<!-- marginal: lesen. -->
 
 (a) penyata kewangan teraudit pemohon; dan
 
@@ -352,11 +398,27 @@ untuk permohonan untuk memperbaharui sesuatu lesen memper- hendaklah disertakan 
 
 (2) Walau apa pun subseksyen (1) Lembaga boleh menghendaki supaya apa-apa dokumen tambahan dikemukakan oleh pemohon bagi memperbaharui lesen.".
 
-### Seksyen baru
+<!-- marginal: Seksyen baru -->
 
-16. Akta ibu adalah dipinda dengan memasukkan selepas 25A dan 25B. seksyen 25 seksyen yang berikut:
+16. Akta ibu adalah dipinda dengan memasukkan selepas
 
-"Larangan 25A. (1) Pemegang sesuatu lesen yang hubung lesennya telah digantung di bawah seksyen 25 b e r h u- dengan tidak boleh, dalam tempoh penggantungan itu, lesen yang digantung.
+<!-- marginal: 25A dan 25B. -->
+
+seksyen 25 seksyen yang berikut:
+
+"Larangan 25A. (1) Pemegang sesuatu lesen yang hubung lesennya telah digantung di bawah seksyen 25
+
+<!-- marginal: b -->
+
+e r h u-
+
+<!-- marginal: dengan -->
+
+tidak boleh, dalam tempoh penggantungan itu,
+
+<!-- marginal: lesen yang -->
+
+<!-- marginal: digantung. -->
 
 <!-- page 11 -->
 
@@ -366,19 +428,27 @@ menggunakan, menyebabkan atau membenarkan penggunaan sesuatu kenderaan yang berk
 
 (2) Mana-mana pemegang lesen yang menggunakan, menyebabkan atau membenarkan penggunaan sesuatu kenderaan semasa lesen berkenaan dengan kenderaan itu telah digantung di bawah seksyen 25 adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak kurang daripada satu ribu ringgit tetapi tidak melebihi sepuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya.
 
-### Kuasa
+<!-- marginal: Kuasa -->
 
-25B. (1) Lembaga hendaklah,
+25B. (1) Lembaga hendaklah, pada
 
-<!-- marginal: pada -->
-
-### Lembaga
+<!-- marginal: Lembaga -->
 
 menjalankan kuasa budi bicaranya, mempunyai
 
-### untuk
+<!-- marginal: untuk -->
 
-meng- kuasa untuk menggantikan sesuatu lesen dengan gantikan sesuatu lesen daripada kelas yang berlainan atau lesen. bagi berat dengan muatan atau muatan duduk maksimum dibenarkan atau jenis yang berlainan jika Lembaga berpuas hati bahawa terdapat keperluan untuk membawa barangan yang berlainan daripada kelas lesen yang telah diberikan di bawah Akta ini bagi maksud—
+<!-- marginal: meng- -->
+
+kuasa untuk menggantikan sesuatu lesen dengan
+
+<!-- marginal: gantikan -->
+
+sesuatu lesen daripada kelas yang berlainan atau
+
+<!-- marginal: lesen. -->
+
+bagi berat dengan muatan atau muatan duduk maksimum dibenarkan atau jenis yang berlainan jika Lembaga berpuas hati bahawa terdapat keperluan untuk membawa barangan yang berlainan daripada kelas lesen yang telah diberikan di bawah Akta ini bagi maksud—
 
 (a) menyusun semula atau menyatukan perkhidmatan yang disediakan oleh pemegang-pemegang lesen daripada kelas yang berlainan; atau
 
@@ -442,35 +512,55 @@ Lembaga Pelesenan Kenderaan Perdagangan (Pindaan)
 
 Rang Undang-Undang
 
-28. Akta ibu adalah dipinda dengan memasukkan selepas baru 44B seksyen 44A seksyen yang berikut: dan 44c.
+<!-- marginal: Seksyen -->
 
-### Kuasa
+28. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru 44B -->
+
+seksyen 44A seksyen yang berikut:
+
+<!-- marginal: dan 44c. -->
+
+<!-- marginal: Kuasa -->
 
 44B. Seseorang Pegawai Lembaga adalah
 
-### Pegawai
+<!-- marginal: Pegawai -->
 
-mempunyai kuasa untuk menyiasat atau Lembaga
+mempunyai kuasa untuk menyiasat atau
 
-### untuk
+<!-- marginal: Lembaga -->
 
-mendapatkan apa-apa maklumat, sama ada secara menyiasat, lisan atau bertulis, daripada mana-mana orang
+<!-- marginal: untuk -->
 
-### dsb.
+mendapatkan apa-apa maklumat, sama ada secara
+
+<!-- marginal: menyiasat, -->
+
+lisan atau bertulis, daripada mana-mana orang
+
+<!-- marginal: dsb. -->
 
 yang disangkakan tahu akan fakta-fakta dan hal keadaan berhubungan dengan pelakuan sesuatu kesalahan di bawah Akta ini atau mana-mana undang-undang bertulis lain atau pelanggaran mana-mana syarat yang dikenakan pada sesuatu lesen.
 
-Kuasa unluk 44c. (1) Jika mana-mana pegawai polis atau menyita pegawai pengangkutan jalan atau Pegawai
+<!-- marginal: Kuasa unluk -->
 
-### dokumen,
+44c. (1) Jika mana-mana pegawai polis atau
 
-### dsb.
+<!-- marginal: menyita -->
+
+pegawai pengangkutan jalan atau Pegawai
+
+<!-- marginal: dokumen, -->
+
+<!-- marginal: dsb. -->
 
 Lembaga mempunyai sebab yang munasabah untuk mempercayai bahawa dokumen yang dibawa di atas sesuatu kenderaan, atau apa-apa lesen, rekod atau dokumen lain yang dikemukakan kepadanya menurut Akta ini oleh pemandu atau orang yang menjaga sesuatu kenderaan adalah dokumen, lesen atau rekod yang berhubungan dengannya suatu kesalahan di bawah Akta ini telah dilakukan, dia boleh menyita atau menanggalkan dokumen, lesen atau rekod atau dokumen itu dari kenderaan itu.
 
 (2) Jika lesen yang disita di bawah subseksyen (1) ialah lesen yang telah digantung di bawah seksyen 25, lesen itu hendaklah dikembalikan kepada pemegang lesen apabila tamat tempoh penggantungan.".
 
-### Seksyen baru
+<!-- marginal: Seksyen baru -->
 
 29. Akta ibu adalah dipinda dengan memasukkan selepas
 
@@ -478,7 +568,7 @@ Lembaga mempunyai sebab yang munasabah untuk mempercayai bahawa dokumen yang dib
 
 "Kesalahan 48A. (1) Mana-mana orang yang—
 
-### dan
+<!-- marginal: dan -->
 
 penalti am.
 
@@ -514,15 +604,21 @@ adalah melakukan suatu kesalahan.
 
 Rang Undang-Undang
 
-mempercayai bahawa peruntukan-peruntukan Akta ini tidak dipatuhi berkenaan dengan mana- mana kenderaan motor, dia boleh menghendaki kenderaan itu diberhentikan dan boleh menghendaki pemandu kenderaan
-
-<!-- marginal: itu -->
-
-memandunya ke suatu tempat lain, dan kenderaan itu boleh, jika perlu, ditahan oleh mana-mana pegawai polis yang berpangkat tidak rendah daripada sarjan atau mana-mana pegawai polis yang menjaga sesuatu balai polis bagi maksud pemeriksaan oleh seorang pegawai polis atau oleh pegawai pengangkutan jalan bagi maksud menentukan sama ada peruntukan-peruntukan Akta ini telah dipatuhi.
+mempercayai bahawa peruntukan-peruntukan Akta ini tidak dipatuhi berkenaan dengan mana- mana kenderaan motor, dia boleh menghendaki kenderaan itu diberhentikan dan boleh menghendaki pemandu kenderaan itu memandunya ke suatu tempat lain, dan kenderaan itu boleh, jika perlu, ditahan oleh mana-mana pegawai polis yang berpangkat tidak rendah daripada sarjan atau mana-mana pegawai polis yang menjaga sesuatu balai polis bagi maksud pemeriksaan oleh seorang pegawai polis atau oleh pegawai pengangkutan jalan bagi maksud menentukan sama ada peruntukan-peruntukan Akta ini telah dipatuhi.
 
 (2) Tiada kenderaan motor boleh ditahan di bawah seksyen ini selama tempoh yang melebihi empat puluh lapan jam.
 
-Penentuan 51 B. (1) Adalah sah di sisi undang-undang bagi berat mana-mana pegawai polis yang diberi kuasa kenderaan. secara bertulis bagi maksud itu oleh Ketua Pegawai Polis, atau mana-mana pegawai pengangkutan jalan yang diberi kuasa secara bertulis bagi maksud itu oleh Ketua Pengarah, atau mana-mana Pegawai Lembaga untuk menghendaki orang yang menjaga mana-mana kenderaan motor supaya membenarkan kenderaan motor itu ditimbang oleh pegawai itu, sama ada dengan muatan atau tanpa muatan, dan untuk menguji berat yang dipindahkan ke jalan oleh mana-mana bahagian kenderaan motor itu yang bersentuhan dengan jalan, dan bagi maksud itu, boleh dengan serta-merta menimbang kenderaan motor itu.
+<!-- marginal: Penentuan -->
+
+51 B. (1) Adalah sah di sisi undang-undang bagi
+
+<!-- marginal: berat -->
+
+mana-mana pegawai polis yang diberi kuasa
+
+<!-- marginal: kenderaan. -->
+
+secara bertulis bagi maksud itu oleh Ketua Pegawai Polis, atau mana-mana pegawai pengangkutan jalan yang diberi kuasa secara bertulis bagi maksud itu oleh Ketua Pengarah, atau mana-mana Pegawai Lembaga untuk menghendaki orang yang menjaga mana-mana kenderaan motor supaya membenarkan kenderaan motor itu ditimbang oleh pegawai itu, sama ada dengan muatan atau tanpa muatan, dan untuk menguji berat yang dipindahkan ke jalan oleh mana-mana bahagian kenderaan motor itu yang bersentuhan dengan jalan, dan bagi maksud itu, boleh dengan serta-merta menimbang kenderaan motor itu.
 
 (2) Apabila diminta oleh orang yang menjaga kenderaan motor itu, pegawai yang diberi kuasa itu hendaklah, setelah selesai penimbangan kenderaan itu, mengeluarkan pendua atau salinan perakuan berkenaan dengan penimbangan itu kepada orang itu.
 

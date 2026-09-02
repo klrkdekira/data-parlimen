@@ -82,15 +82,7 @@ B. 6 Suruhanjaya Perkhidmatan
 
 <!-- marginal: 6,009,400 -->
 
-Pendidikan B. 7 Jabatan Perdana Menteri 880,205,900 B. 8 Jabatan Perkhidmatan Awam
-
-<!-- marginal: 400,290,400 -->
-
-B. 9 Jabatan Perangkaan
-
-<!-- marginal: 48,682,600 -->
-
-B. 10 Jabatan Peguam Negara
+Pendidikan B. 7 Jabatan Perdana Menteri 880,205,900 B. 8 Jabatan Perkhidmatan Awam 400,290,400 B. 9 Jabatan Perangkaan 48,682,600 B. 10 Jabatan Peguam Negara
 
 <!-- marginal: 24,413,900 -->
 
@@ -106,39 +98,15 @@ B. 13 Pejabat Setiausaha Persekutuan, Sarawak
 
 <!-- marginal: 718,000 -->
 
-B. 14 Kementerian Perumahan dan Kerajaan
-
-<!-- marginal: 190,990,300 -->
-
-Tempatan B. 15 Jabatan Perancangan Bandar dan Desa
+B. 14 Kementerian Perumahan dan Kerajaan 190,990,300 Tempatan B. 15 Jabatan Perancangan Bandar dan Desa
 
 <!-- marginal: 15,414,000 -->
 
-B. 16 Jabatan Perkhidmatan Bomba
-
-<!-- marginal: 121,928,200 -->
-
-B. 17 Kementerian Belia dan Sukan
-
-<!-- marginal: 110,707,000 -->
-
-B, 18 Kementerian Perusahaan Utama
-
-<!-- marginal: 138,287,100 -->
-
-B. 19 Kementerian Pertanian 1,052,795,400 B. 20 Kementerian Perdagangan
-
-<!-- marginal: 144,797,200 -->
-
-Antarabangsa dan Industri B. 21 Kementerian Perdagangan Dalam
+B. 16 Jabatan Perkhidmatan Bomba 121,928,200 B. 17 Kementerian Belia dan Sukan 110,707,000 B, 18 Kementerian Perusahaan Utama 138,287,100 B. 19 Kementerian Pertanian 1,052,795,400 B. 20 Kementerian Perdagangan 144,797,200 Antarabangsa dan Industri B. 21 Kementerian Perdagangan Dalam
 
 <!-- marginal: 88,096,100 -->
 
-Negeri dan Hal Ehwal Pengguna B. 22 Kementerian Kebudayaan, Kesenian
-
-<!-- marginal: 160,982,000 -->
-
-dan Pelancongan B. 23 Jabatan Arkib Negara
+Negeri dan Hal Ehwal Pengguna B. 22 Kementerian Kebudayaan, Kesenian 160,982,000 dan Pelancongan B. 23 Jabatan Arkib Negara
 
 <!-- marginal: 12,865,000 -->
 
@@ -150,21 +118,7 @@ B. 25 Kementerian Pertahanan 3,738,679,000 B. 26 Kementerian Pendidikan 8,959,71
 
 <!-- marginal: 28,620,700 -->
 
-B. 28 Perbendaharaan
-
-<!-- marginal: 157,426,600 -->
-
-B. 29 Perkhidmatan Am Perbendaharaan
-
-<!-- marginal: 760,312,400 -->
-
-B. 30 Peruntukan kepada Kumpulan Wang 2,991,700,000 Terkanun B. 31 Jabatan Kastam dan Eksais Diraja
-
-<!-- marginal: 290,103,300 -->
-
-B. 32 Jabatan Hasil Dalam Negeri
-
-<!-- marginal: 208,000,000 -->
+B. 28 Perbendaharaan 157,426,600 B. 29 Perkhidmatan Am Perbendaharaan 760,312,400 B. 30 Peruntukan kepada Kumpulan Wang 2,991,700,000 Terkanun B. 31 Jabatan Kastam dan Eksais Diraja 290,103,300 B. 32 Jabatan Hasil Dalam Negeri 208,000,000
 
 <!-- page 3 -->
 

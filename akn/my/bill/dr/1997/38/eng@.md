@@ -8,27 +8,13 @@
 
 ## PRELIMINARY
 
-1. Short title, commencement and application.
-
-2. Interpretation.
+1. Short title, commencement and application. 2. Interpretation.
 
 ## PART II
 
 ## THE MALAYS1AN COUNSELLORS ADVISORY COUNCIL
 
-3. Establishment of Council.
-
-4. Functions of Council.
-
-5. Membership of Council.
-
-6. Tenure of office.
-
-7. Revocation of appointment.
-
-8. Cessation of membership.
-
-9. Resignation.
+3. Establishment of Council. 4. Functions of Council. 5. Membership of Council. 6. Tenure of office. 7. Revocation of appointment. 8. Cessation of membership. 9. Resignation.
 
 10. Meetings of Council.
 
@@ -184,7 +170,11 @@ Minister may, by notification in the Gazette, appoint.
 
 <!-- page 6 -->
 
-"company" has the meaning assigned to it in the Act 125. Companies Act 1965;
+"company" has the meaning assigned to it in the
+
+<!-- marginal: Act 125. -->
+
+Companies Act 1965;
 
 "Council" means the Malaysian Counsellors Advisory Council established under section 3;
 
@@ -196,11 +186,27 @@ Minister may, by notification in the Gazette, appoint.
 
 "health professional" includes a medical practitioner, medical and clinical psychologist, nurse, midwive, medical assistant and any person involved in the giving of medical and health services under the jurisdiction of the Ministry of Health;
 
-"higher educational institution" means any institution Act 30. established under the University and University Colleges Act 173. Act 1971 or the Institut Teknologi MARA Act 1976 or Act 555. the Private Higher Educational Institutions Act 1996;
+"higher educational institution" means any institution
+
+<!-- marginal: Act 30. -->
+
+established under the University and University Colleges
+
+<!-- marginal: Act 173. -->
+
+Act 1971 or the Institut Teknologi MARA Act 1976 or
+
+<!-- marginal: Act 555. -->
+
+the Private Higher Educational Institutions Act 1996;
 
 "Investigation Committee" means the Investigation Committee established under paragraph 36(2)(a);
 
-"local authority" means a local authority established Act 171 under the Local Government Act 1976;
+"local authority" means a local authority established
+
+<!-- marginal: Act 171 -->
+
+under the Local Government Act 1976;
 
 "Minister" means the Minister for the time being charged with the responsibility for social welfare;
 
@@ -268,7 +274,13 @@ members:
 
 <!-- page 8 -->
 
-(ii) professional bodies allied to the counselling profession and approved by the Minister;
+(ii) professional bodies allied
+
+<!-- marginal: to -->
+
+<!-- marginal: the -->
+
+counselling profession and approved by the Minister;
 
 (iii) representatives of higher educational institutions;
 
@@ -278,13 +290,21 @@ members:
 
 (2) No person shall be appointed to be a member of the Council unless he is a Malaysian citizen.
 
-Tenure of
+<!-- marginal: Tenure of -->
 
-6. A member of the Council appointed under paragraph office. 5 ( 1 )( e ), unless he sooner resigns or vacates his office or his appointment is sooner revoked, shall hold office for a term not exceeding two years and is eligible for reappointment.
+6. A member of the Council appointed under paragraph
 
-Revocation of
+<!-- marginal: office. -->
 
-7. The Minister shall revoke the appointment of a member appointment. of the Council appointed under paragraph 5(1)(e)—
+5 ( 1 )( e ), unless he sooner resigns or vacates his office or his appointment is sooner revoked, shall hold office for a term not exceeding two years and is eligible for reappointment.
+
+<!-- marginal: Revocation of -->
+
+7. The Minister shall revoke the appointment of a member
+
+<!-- marginal: appointment. -->
+
+of the Council appointed under paragraph 5(1)(e)—
 
 (a) if his conduct, whether in connection with his duties as a member of the Council or otherwise, has been such as to bring discredit on the Council;
 
@@ -348,9 +368,11 @@ as the "Board of Counsellors" with perpetual succession and a common seal, which
 
 <!-- page 10 -->
 
-Functions of
+<!-- marginal: Functions of -->
 
-12. The functions of the Board shall be— Board.
+12. The functions of the Board shall be—
+
+<!-- marginal: Board. -->
 
 (a) to oversee the provision of counselling services;
 
@@ -374,9 +396,13 @@ Functions of
 
 (k) to do such other things as may be necessary to enable it to carry out its functions effectively.
 
-Membership
+<!-- marginal: Membership -->
 
-13. (1) The Board shall consist of the following members of Board. who shall be appointed by the Minister:
+13. (1) The Board shall consist of the following members
+
+<!-- marginal: of Board. -->
+
+who shall be appointed by the Minister:
 
 (a) a President, who shall be appointed from among the registered counsellors;
 
@@ -440,17 +466,35 @@ the meaning of the Penal Code.
 
 <!-- page 12 -->
 
-Returns,
+<!-- marginal: Returns, -->
 
-16. (1) The Board shall furnish the Minister with all reports, such returns, reports, accounts and information with respect accounts and to its property and activities as the Minister may require information. or direct.
+16. (1) The Board shall furnish the Minister with all
+
+<!-- marginal: reports, -->
+
+such returns, reports, accounts and information with respect
+
+<!-- marginal: accounts and -->
+
+to its property and activities as the Minister may require
+
+<!-- marginal: information. -->
+
+or direct.
 
 (2) Without prejudice to the generality of subsection
 
 (1), the Board shall, as soon as practicable after the end of each financial year, cause to be made and transmitted to the Minister a report dealing with the activities of the Board during the preceding financial year and the report shall be in such form and shall contain such information relating to the proceedings and policy of the Board as the Minister may specify.
 
-Conduct of
+<!-- marginal: Conduct of -->
 
-17. The Board may appoint an advocate and solicitor to civil institute and conduct any civil proceeding on its behalf. proceedings.
+17. The Board may appoint an advocate and solicitor to
+
+<!-- marginal: civil -->
+
+institute and conduct any civil proceeding on its behalf.
+
+<!-- marginal: proceedings. -->
 
 ## PART IV
 
@@ -458,9 +502,17 @@ Conduct of
 
 ## PRACTISING CERTIFICATES
 
-Appointment
+<!-- marginal: Appointment -->
 
-18. (1) The Board shall appoint a Registrar of Counsellors and duties of who shall be under the general direction and supervision Registrar. of the Board.
+18. (1) The Board shall appoint a Registrar of Counsellors
+
+<!-- marginal: and duties of -->
+
+who shall be under the general direction and supervision
+
+<!-- marginal: Registrar. -->
+
+of the Board.
 
 (2) The Registrar shall—
 
@@ -472,9 +524,13 @@ Appointment
 
 (d) carry out any other duty required by this Act or regulations made under this Act to be carried out by him or as directed by the Board for the purposes of this Act.
 
-Register of
+<!-- marginal: Register of -->
 
-19. (1) The Registrar shall keep and maintain a register Counsellors. called the Register of Counsellors.
+19. (1) The Registrar shall keep and maintain a register
+
+<!-- marginal: Counsellors. -->
+
+called the Register of Counsellors.
 
 <!-- page 13 -->
 
@@ -504,9 +560,7 @@ counsellor—
 
 order the Registrar to remove the name and particulars relating to that registered counsellor from the Register.
 
-(2) The Registrar shall publish in the Gazette the name of every person removed from the Register under subsection
-
-(1).
+(2) The Registrar shall publish in the Gazette the name of every person removed from the Register under subsection (1).
 
 <!-- marginal: Reinstatement. -->
 
@@ -518,9 +572,13 @@ order the Registrar to remove the name and particulars relating to that register
 
 (3) The Board shall, upon the application of any person who has been reinstated under subsection (1), issue to him a practising certificate under subsection 27(4) or 28(3) as if such application had been made under subsection 27(2) or subsection 28(1), as the case may be.
 
-Counsellor
+<!-- marginal: Counsellor -->
 
-22. (1) No person shall— must be registered.
+22. (1) No person shall—
+
+<!-- marginal: must be -->
+
+<!-- marginal: registered. -->
 
 (a) practise or carry on or operate, or hold himself out as practising or carrying on or operating, or take up employment, as a counsellor;
 
@@ -532,15 +590,31 @@ unless he is registered under this Act.
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding thirty thousand ringgit or to imprisonment for a term not exceeding three years or to both.
 
-Practising
+<!-- marginal: Practising -->
 
-23. (1) No person shall practise as a counsellor unless certificate he holds a valid practising certificate issued under this required. Act.
+23. (1) No person shall practise as a counsellor unless
+
+<!-- marginal: certificate -->
+
+he holds a valid practising certificate issued under this
+
+<!-- marginal: required. -->
+
+Act.
 
 (2) Any person who contravenes subsection (1) shall be liable to disciplinary proceedings under Part VI and shall not be entitled to recover in any court any fee, charge or remuneration for his counselling services.
 
-Qualification
+<!-- marginal: Qualification -->
 
-24. (1) A person shall be registered as a counsellor if he for satisfies the Board that he is a Malaysian citizen or a registration permanent resident of Malaysia, is not less than twenty- one years of age, is a fit and proper person to be registered as a counsellor and holds any of the qualifications specified in the Second Schedule.
+24. (1) A person shall be registered as a counsellor if he
+
+<!-- marginal: for -->
+
+satisfies the Board that he is a Malaysian citizen or a
+
+<!-- marginal: registration -->
+
+permanent resident of Malaysia, is not less than twenty- one years of age, is a fit and proper person to be registered as a counsellor and holds any of the qualifications specified in the Second Schedule.
 
 <!-- page 15 -->
 
@@ -578,9 +652,13 @@ by such information and documents as may be required by the Board.
 
 (7) The decision of the Minister shall be final.
 
-Temporary
+<!-- marginal: Temporary -->
 
-27. (1) Any person who is neither a Malaysian citizen registration. nor a permanent resident of Malaysia who intends to practise as a counsellor in Malaysia may apply in the prescribed form for temporary registration.
+27. (1) Any person who is neither a Malaysian citizen
+
+<!-- marginal: registration. -->
+
+nor a permanent resident of Malaysia who intends to practise as a counsellor in Malaysia may apply in the prescribed form for temporary registration.
 
 (2) An application under subsection (1) shall be accompanied by an application for a practising certificate and the prescribed fee.
 
@@ -644,15 +722,21 @@ day the biennial practising certificate is issued to him under subsection (2), a
 
 (7) Subsections (2) and (3) shall apply to an application for the renewal of a biennial practising certificate as they apply to a new application.
 
-Certificates
+<!-- marginal: Certificates -->
 
-29. (1) Every registered counsellor shall exhibit, at a to be conspicuous place in the premises in which he practises exhibited. as a counsellor, a copy of his certificate of registration or certificate of temporary registration, as the case may be, and his practising certificate.
+29. (1) Every registered counsellor shall exhibit, at a
+
+<!-- marginal: to be -->
+
+conspicuous place in the premises in which he practises
+
+<!-- marginal: exhibited. -->
+
+as a counsellor, a copy of his certificate of registration or certificate of temporary registration, as the case may be, and his practising certificate.
 
 (2) Where a registered counsellor practises as a counsellor in more than one premises, he shall cause a copy of the certificate of registration or certificate of temporary registration, as the case may be, and the practising certificate, to be exhibited in a conspicuous place in each premises.
 
-(3) Any person who contravenes subsections (1) or
-
-(2) shall be guilty of an offence.
+(3) Any person who contravenes subsections (1) or (2) shall be guilty of an offence.
 
 (4) Any person who exhibits, or permits to be exhibited, in any premises, a certificate of registration or certificate of temporary registration or a practising certificate, or a copy of any of such certificates, bearing his name or photograph at any time when his name does not appear on the Register or when he does not hold a valid certificate of registration or certificate of temporary registration, as the case may be, or a practising certificate shall be guilty of an offence.
 
@@ -686,9 +770,7 @@ of the registered counsellor.
 
 (3) The Registrar may require the registered counsellor to submit any information as he may deem necessary about the premises referred to in subsection (1) and the registered person shall comply with such requirement.
 
-(4) Any person who contravenes subsection (1), (2) or
-
-(3) shall be guilty of an offence.
+(4) Any person who contravenes subsection (1), (2) or (3) shall be guilty of an offence.
 
 (5) The Registrar shall endorse the new address or the address of the new premises where the registered counsellor practises as a counsellor on the registered counsellor's practising certificate and return the certificate to the registered counsellor.
 
@@ -708,9 +790,13 @@ within fourteen days of the change.
 
 <!-- page 20 -->
 
-Duplicate
+<!-- marginal: Duplicate -->
 
-32. (1) A registered counsellor whose certificate of certificate. registration or certificate of temporary registration, as the case may be, is lost shall immediately notify the Registrar of such loss.
+32. (1) A registered counsellor whose certificate of
+
+<!-- marginal: certificate. -->
+
+registration or certificate of temporary registration, as the case may be, is lost shall immediately notify the Registrar of such loss.
 
 (2) The Registrar shall, on application being made and payment of the prescribed fee by the registered counsellor, issue to the registered counsellor a duplicate certificate of registration or certificate of temporary registration, as the case may be.
 
@@ -720,11 +806,25 @@ Duplicate
 
 ## COUNSELLORS
 
-Composition
+<!-- marginal: Composition -->
 
-33. (1) No body corporate shall practise as a counsellor of body unless its board of directors consists— corporate which may practise as
+33. (1) No body corporate shall practise as a counsellor
 
-(a) entirely of individual persons who are registered counsellor. counsellors; or
+<!-- marginal: of body -->
+
+unless its board of directors consists—
+
+<!-- marginal: corporate -->
+
+<!-- marginal: which may -->
+
+<!-- marginal: practise as -->
+
+(a) entirely of individual persons who are registered
+
+<!-- marginal: counsellor. -->
+
+counsellors; or
 
 (b) of a majority of individual persons who are registered counsellors, and other individual persons belonging to a profession which is allied to the counselling profession and approved by the Board.
 
@@ -732,11 +832,19 @@ Composition
 
 (1) shall be guilty of an offence.
 
-Body
+<!-- marginal: Body -->
 
-34. A body corporate practising as a counsellor— corporate practising as
+34. A body corporate practising as a counsellor—
 
-(a) may use the title "registered counsellor" or any counsellor. title in any language which may be reasonably construed to imply that it is a body corporate practising as a counsellor;
+<!-- marginal: corporate -->
+
+<!-- marginal: practising as -->
+
+(a) may use the title "registered counsellor" or any
+
+<!-- marginal: counsellor. -->
+
+title in any language which may be reasonably construed to imply that it is a body corporate practising as a counsellor;
 
 (b) may use or display any sign, board, card or other devices representing or implying that it is a body corporate practising as a counsellor; and
 
@@ -792,9 +900,17 @@ control in respect of all such counsellors in accordance with this Act.
 
 <!-- page 22 -->
 
-Duty of
+<!-- marginal: Duty of -->
 
-37. (1) Every complaint against any registered counsellor Investigation shall be addressed to the Registrar who shall immediately Committee. refer such complaint to the Investigation Committee.
+37. (1) Every complaint against any registered counsellor
+
+<!-- marginal: Investigation -->
+
+shall be addressed to the Registrar who shall immediately
+
+<!-- marginal: Committee. -->
+
+refer such complaint to the Investigation Committee.
 
 (2) The Investigation Committee shall investigate every complaint and shall, as soon as practicable, submit its report on such complaint to the Disciplinary Committee.
 
@@ -804,17 +920,35 @@ Duty of
 
 (b) be accompanied by such evidence as the Investigation Committee may have obtained in support of such statement.
 
-Inquiry by
+<!-- marginal: Inquiry by -->
 
-38. (1) Where the report submitted by the Investigation Disciplinary Committee states that sufficient grounds exist for Committee. disciplinary proceedings to be taken against a registered counsellor, the Disciplinary Commitee shall inquire into the case.
+38. (1) Where the report submitted by the Investigation
+
+<!-- marginal: Disciplinary -->
+
+Committee states that sufficient grounds exist for
+
+<!-- marginal: Committee. -->
+
+disciplinary proceedings to be taken against a registered counsellor, the Disciplinary Commitee shall inquire into the case.
 
 (2) A registered counsellor against whom disciplinary proceedings are taken shall be given an opportunity to make representations against the disciplinary charge laid against him before a decision is arrived at by the Disciplinary Committee.
 
 (3) The registered counsellor against whom disciplinary proceedings have been taken shall be notified by the Registrar by registered post of the decision of the Disciplinary Committee as soon as possible after the making of such decision.
 
-Suspension
+<!-- marginal: Suspension -->
 
-39. (1) The Board may, if it considers fit, suspend the of practice practising certificate of a registered counsellor for a period pending investigation. not exceeding six months pending the completion of an investigation by the Investigation Committee and inquiry by the Disciplinary Committee.
+39. (1) The Board may, if it considers fit, suspend the
+
+<!-- marginal: of practice -->
+
+practising certificate of a registered counsellor for a period
+
+<!-- marginal: pending -->
+
+<!-- marginal: investigation. -->
+
+not exceeding six months pending the completion of an investigation by the Investigation Committee and inquiry by the Disciplinary Committee.
 
 <!-- page 23 -->
 
@@ -864,23 +998,63 @@ impose any one or any. combination of the following disciplinary punishments:
 
 (dd) order the registered counsellor to be reprimanded.
 
-Surrender of
+<!-- marginal: Surrender of -->
 
-41. (1) A registered person shall surrender to the Board certificate on his certificate of registration or certificate of temporary removal from the Register. registration, as the case may be, and his practising certificate within twenty-one days of being notified under subsection 38(3) of the decision of the Disciplinary Committee under section 40 to remove his name from the Register.
+41. (1) A registered person shall surrender to the Board
+
+<!-- marginal: certificate on -->
+
+his certificate of registration or certificate of temporary
+
+<!-- marginal: removal from -->
+
+<!-- marginal: the Register. -->
+
+registration, as the case may be, and his practising certificate within twenty-one days of being notified under subsection 38(3) of the decision of the Disciplinary Committee under section 40 to remove his name from the Register.
 
 (2) A person who contravenes subsection (1) shall be guilty of an offence.
 
-Appeal
+<!-- marginal: Appeal -->
 
-42. (1) Any person who is aggrieved by a decision of against the Disciplinary Committee against him under section 40 decision of the may, within thirty days of being notified of such decision, Disciplinary appeal against the decision to the Minister: Committee.
+42. (1) Any person who is aggrieved by a decision of
+
+<!-- marginal: against -->
+
+the Disciplinary Committee against him under section 40
+
+<!-- marginal: decision of -->
+
+<!-- marginal: the -->
+
+may, within thirty days of being notified of such decision,
+
+<!-- marginal: Disciplinary -->
+
+appeal against the decision to the Minister:
+
+<!-- marginal: Committee. -->
 
 (2) The Minister may confirm, reverse or vary the decision of the Disciplinary Committee.
 
 (3) A decision of the Minister under subsection (2) shall be final.
 
-Publication
+<!-- marginal: Publication -->
 
-43. The Registrar shall publish in the Gazette the name of names of of every registered counsellor whose name has been persons removed removed from the Register— from Register.
+43. The Registrar shall publish in the Gazette the name
+
+<!-- marginal: of names of -->
+
+of every registered counsellor whose name has been
+
+<!-- marginal: persons -->
+
+<!-- marginal: removed -->
+
+removed from the Register—
+
+<!-- marginal: from -->
+
+<!-- marginal: Register. -->
 
 (a) on the expiry of the -period of specified in subsection 42(1), if the registered counsellor does not enter an appeal against the decision of the Disciplinary Committee; or
 
@@ -924,17 +1098,29 @@ shall be guilty of an offence and shall on conviction—
 
 (bb) in the case of a continuing offence, be liable to a fine not exceeding one thousand ringgit for every day or part of a day during which the offence continues after conviction.
 
-General
+<!-- marginal: General -->
 
-45. A person who contravenes any of the provisions of penalty. this Act for which no penalty is expressly provided shall on conviction—
+45. A person who contravenes any of the provisions of
+
+<!-- marginal: penalty. -->
+
+this Act for which no penalty is expressly provided shall on conviction—
 
 (a) be liable to a fine not exceeding five thousand ringgit or imprisonment for a term not exceeding one year or to both; and
 
 (b) in the case of a continuing offence, be liable to a fine not exceeding five hundred ringgit for every day or part of a day during which the offence continues after conviction.
 
-Offence by
+<!-- marginal: Offence by -->
 
-46. Where a body corporate commits an offence under body this Act or any regulations made under this Act, any corporate. person who, at the time of the commission of such offence, was a director, manager, secretary or other similar officer of such body corporate or was purporting to act in any such capacity, or was in any manner or to any extent responsible for the management of any of the affairs of such body corporate, or was assisting in such management—
+46. Where a body corporate commits an offence under
+
+<!-- marginal: body -->
+
+this Act or any regulations made under this Act, any
+
+<!-- marginal: corporate. -->
+
+person who, at the time of the commission of such offence, was a director, manager, secretary or other similar officer of such body corporate or was purporting to act in any such capacity, or was in any manner or to any extent responsible for the management of any of the affairs of such body corporate, or was assisting in such management—
 
 (a) may be charged severally or jointly in the same proceedings with the body corporate; and
 
@@ -1074,7 +1260,7 @@ deliberation of the Board for the purpose of advising it on any matter under dis
 
 <!-- page 30 -->
 
-Common seal
+<!-- marginal: Common seal -->
 
 5. ( 1 ) T he Board shall have a common seal-which shall bear such device as the Board shall, approve and such seal may be broken, changed, altered or made anew as the Board thinks fit.
 
@@ -1086,13 +1272,21 @@ Common seal
 
 (5) The common seal of the Board shall be officially and judicially noticed.
 
-Disclosure of
+<!-- marginal: Disclosure of -->
 
-6. A member of the Board having, directly or indirectly, by himself interest or his partner, any interest in any company or undertaking with which the Board proposes to make any contract or having any interest in any such contractor in any matter under discussion by the Board shall disclose to the Board the fact of his interest and the nature thereof, and such disclosure shall be recorded in the minutes of the Board and, unless specifically authorised thereto by the President, such member shall take no part in deliberation or decision of the Board relating to the contract or matter.
+6. A member of the Board having, directly or indirectly, by himself
 
-Validity of acts and
+<!-- marginal: interest -->
 
-7. No act done or proceeding taken under this Act shall be questioned proceedings on the ground of—
+or his partner, any interest in any company or undertaking with which the Board proposes to make any contract or having any interest in any such contractor in any matter under discussion by the Board shall disclose to the Board the fact of his interest and the nature thereof, and such disclosure shall be recorded in the minutes of the Board and, unless specifically authorised thereto by the President, such member shall take no part in deliberation or decision of the Board relating to the contract or matter.
+
+<!-- marginal: Validity of acts and -->
+
+7. No act done or proceeding taken under this Act shall be questioned
+
+<!-- marginal: proceedings -->
+
+on the ground of—
 
 (a) a vacancy in the membership of, or a defect in the constitution of, the Board;
 
@@ -1100,9 +1294,13 @@ Validity of acts and
 
 (c) an omission, a defect or an irregularity not affecting the merit of the case.
 
-Application of
+<!-- marginal: Application of -->
 
-8. (1) Money received by the Board whether from fees payable money. under this Act or other sources shall be applied by the Board—
+8. (1) Money received by the Board whether from fees payable
+
+<!-- marginal: money. -->
+
+under this Act or other sources shall be applied by the Board—
 
 (a) in the first place to defraying the expenses of registration and other expenses for the administration of this Act including any expenses of the Board that may be allowed under this Act; and
 

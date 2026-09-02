@@ -50,19 +50,11 @@ Maksud Tajuk Peruntukan kepada Maksud
 
 <!-- marginal: RM -->
 
-B. 4 Suruhanjaya Pilihanraya
-
-<!-- marginal: 11,280,000 -->
-
-B. 6 Suruhanjaya Perkhidmatan
+B. 4 Suruhanjaya Pilihanraya 11,280,000 B. 6 Suruhanjaya Perkhidmatan
 
 <!-- marginal: 870,100 -->
 
-Pendidikan B. 7 Jabatan Perdana Menteri
-
-<!-- marginal: 30,000,010 -->
-
-B. 10 Jabatan Peguam Negara
+Pendidikan B. 7 Jabatan Perdana Menteri 30,000,010 B. 10 Jabatan Peguam Negara
 
 <!-- marginal: 1,988,200 -->
 
@@ -70,11 +62,7 @@ B. 11 Badan Pencegah Rasuah
 
 <!-- marginal: 3,220,000 -->
 
-B. 20 Kementerian Perdagangan
-
-<!-- marginal: 10,000,000 -->
-
-Antarabangsa dan Industri B. 30 Peruntukan kepada Kumpulan
+B. 20 Kementerian Perdagangan 10,000,000 Antarabangsa dan Industri B. 30 Peruntukan kepada Kumpulan
 
 <!-- marginal: 830,000 -->
 
@@ -98,11 +86,7 @@ B. 44 Kementerian Penerangan
 
 <!-- marginal: 5,000,000 -->
 
-B. 47 Kementerian Pengangkutan
-
-<!-- marginal: 11,880,000 -->
-
-B. 50 Kementerian Pembangunan Usahawan 493,133,000
+B. 47 Kementerian Pengangkutan 11,880,000 B. 50 Kementerian Pembangunan Usahawan 493,133,000
 
 ## JUMLAH
 

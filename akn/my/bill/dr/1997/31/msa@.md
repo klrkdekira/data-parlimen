@@ -28,7 +28,11 @@ oleh Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan De
 
 Rang Undang-Undang
 
-seksyen baru 3. Akta ibu adalah dipinda dengan memasukkan selepas 6E, 6Fdan6c. seksyen 60 seksyen yang berikut:
+seksyen baru 3. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: 6E, 6Fdan6c. -->
+
+seksyen 60 seksyen yang berikut:
 
 "pekerja 6e. (1) Seseorang pekerja yang telah diberi taraf berpencen pekerja berpencen di bawah seksyen 6 atau boleh disifatkan menjadi pekerja berpencen di bawah memilih perenggan (a), (b) atau (c) seksyen 7, boleh skim memilih Skim Pencen Dan Kumpulan Wang Pencen dan Simpanan rekerja. Simpanan Pekerja. (2) opsyen di bawah subseksyen
 

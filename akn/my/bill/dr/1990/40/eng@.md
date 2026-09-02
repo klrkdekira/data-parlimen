@@ -6,41 +6,53 @@ intituled
 
 An Act to amend the Statutory and Local Authorities Pensions Act 1980. [ ]
 
-BE IT ENACTED by the Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong with the advice and consent of the Dewan Negara and Dewan Rakyat in Parliament assembled, and by the authority of the same, as follows: Short title.
+BE IT ENACTED by the Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong with the advice and consent of the Dewan Negara and Dewan Rakyat in Parliament assembled, and by the authority of the same, as follows:
 
-1. This Act may be cited as the Statutory and Local Authorities Pensions (Amendment) Act 1990. New
+<!-- marginal: Short title. -->
 
-2. The Statutory and Local Authorities Pensions Act 1980, section 6A. which in this Act is referred to as the "principal Act", is Act 239. amended by inserting after section 6 the following new section 6A:
+1. This Act may be cited as the Statutory and Local Authorities Pensions (Amendment) Act 1990.
 
-"Exercise
+<!-- marginal: New -->
 
-6A. (1) An employee appointed on or after the of option. commencement of this section shall, before being confirmed in his appointment, be entitled to opt for the Employees Provident Fund Scheme.
+2. The Statutory and Local Authorities Pensions Act 1980,
 
-(2) The option under subsection (1) shall be made to the appropriate appointing authority in such manner as may be determined by the pensions authority.
+<!-- marginal: section 6A. -->
 
-(3) The exercise of the option by an employee under this section shall take effect on his being confirmed in his appointment and shall thereupon be irrevocable.
+which in this Act is referred to as the "principal Act", is
 
-(4) Where an employee opts for the Employees Provident Fund Scheme, the provisions of this Act, except this section, shall not apply to such employee.
+<!-- marginal: Act 239. -->
 
-(5) An employee who opts for the Employees Provident Fund Scheme shall retire from the service of a statutory or local authority on attaining the age of fifty-five years.
+amended by inserting after section 6 the following new section 6A:
+
+"Exercise 6A. (1) An employee appointed on or after the of option. commencement of this section shall, before being confirmed in his appointment, be entitled to opt for the Employees Provident Fund Scheme. (2) The option under subsection (1) shall be made to the appropriate appointing authority in such manner as may be determined by the pensions authority. (3) The exercise of the option by an employee under this section shall take effect on his being confirmed in his appointment and shall thereupon be irrevocable. (4) Where an employee opts for the Employees Provident Fund Scheme, the provisions of this Act, except this section, shall not apply to such employee. (5) An employee who opts for the Employees Provident Fund Scheme shall retire from the service of a statutory or local authority on attaining the age of fifty-five years.
 
 <!-- page 2 -->
 
 ## BILL
 
-2
+<!-- marginal: 2 -->
 
 (6) An appropriate authority may, with the consent of the pensions authority, require an employee who opts for the Employees Provident Fund Scheme to retire from the service of a statu- tory or local authority in any circumstances refer- red to in paragraphs (a), (b), (c), (d), (e) and (f) of subsection (5) of section 10.
 
-(7) In this section "Employees Provident Fund Scheme" refers to a provident fund established Act 272. under the Employees Provident Fund Act 1951, including a fund declared by the Employees Provident Fund Board under section 16 of that Act to be an approved fund.".
+(7) In this section "Employees Provident Fund Scheme" refers to a provident fund established
 
-Amendment
+<!-- marginal: Act 272. -->
 
-3. Section 7 of the principal Act is amended by substituting of section 7. for the words "permanently transferred" in paragraph (c) the words "permanently transferred by appointment".
+under the Employees Provident Fund Act 1951, including a fund declared by the Employees Provident Fund Board under section 16 of that Act to be an approved fund.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. Section 10 of the principal Act is amended — of section 10.
+3. Section 7 of the principal Act is amended by substituting
+
+<!-- marginal: of section 7. -->
+
+for the words "permanently transferred" in paragraph (c) the words "permanently transferred by appointment".
+
+<!-- marginal: Amendment -->
+
+4. Section 10 of the principal Act is amended —
+
+<!-- marginal: of section 10. -->
 
 (a) by deleting the word "or" at the end of paragraph
 
@@ -54,9 +66,7 @@ Amendment
 
 writing, whether on oath or otherwise; or (ii) supplied any document, which was false, erroneous, inaccurate, in- complete, or misleading or likely to mislead, and his appointment into the service of a statutory or local authority was made partly or wholly in reliance on that statement, information or document:
 
-Provided that retirement under this para- graph shall not be effected unless
-
-<!-- marginal: the -->
+Provided that retirement under this para- graph shall not be effected unless the
 
 <!-- page 3 -->
 
@@ -76,7 +86,13 @@ employee has been given a reasonable opportunity to make representations thereon
 
 12 the following:
 
-"Optional 12. (1) An appropriate authority may, with the retirement. approval of the pensions authority on the emplo- yee's application, consent to the retirement of an employee on or after attaining the age of forty years.
+<!-- marginal: "Optional -->
+
+12. (1) An appropriate authority may, with the
+
+<!-- marginal: retirement. -->
+
+approval of the pensions authority on the emplo- yee's application, consent to the retirement of an employee on or after attaining the age of forty years.
 
 (2) Where an employee who is appointed before the commencement of this section retires under subsection (1), such employee may be granted a pension, gratuity or other benefit only on attaining the age of—
 
@@ -100,9 +116,13 @@ employee has been given a reasonable opportunity to make representations thereon
 
 (5) Subject to section 17, a derivative pension granted in the circumstances of subsection (4) shall be payable for a period not exceeding twelve and a half years from the date imme- diately following the date of death of the employee; and thereafter the recipient, provided he is a resident in Malaysia, shall continue to receive seventy percent of the amount granted.".
 
-Amendment of
+<!-- marginal: Amendment of -->
 
-6. Section 14 of the principal Act is amended by substitu- section 14. ting for the words "in the public interest" the words "under section 10(5)(d) or section 10(5)(f)".
+6. Section 14 of the principal Act is amended by substitu-
+
+<!-- marginal: section 14. -->
+
+ting for the words "in the public interest" the words "under section 10(5)(d) or section 10(5)(f)".
 
 ## EXPLANATORY STATEMENT
 

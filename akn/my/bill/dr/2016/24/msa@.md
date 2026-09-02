@@ -8,7 +8,7 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -16,7 +16,7 @@
 
 2. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## ANUGERAH YANG DI-PERTUAN AGONG
 
@@ -36,7 +36,7 @@
 
 10. Menggunakan anugerah Yang di-Pertuan Agong bilamana tidak berhak
 
-## Bahagian III
+## BAHAGIAN III
 
 ## ANUGERAH ASING
 
@@ -44,7 +44,7 @@
 
 12. Menerima dan menggunakan anugerah asing tidak diiktiraf
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## SUAPAN
 
@@ -58,7 +58,7 @@
 
 16. Meminta, menerima, memberi, dsb., suapan bagi anugerah asing tidak diiktiraf
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PELBAGAI
 
@@ -68,9 +68,9 @@
 
 19. Kuasa untuk meminda Jadual
 
-## Jadual Pertama
+## JADUAL PERTAMA
 
-## Jadual Kedua
+## JADUAL KEDUA
 
 <!-- page 3 -->
 
@@ -80,7 +80,7 @@ Suatu Akta untuk mengadakan peruntukan bagi kesalahan yang berhubungan dengan an
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -122,7 +122,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 “suapan” mempunyai erti yang diberikan kepadanya dalam seksyen 3 Akta Suruhanjaya Pencegahan Rasuah Malaysia 2009 [Akta 694].
 
-## Bahagian II
+## BAHAGIAN II
 
 ## ANUGERAH YANG DI-PERTUAN AGONG
 
@@ -208,7 +208,7 @@ A menerima anugerah tidak diiktiraf pada 2010 yang membawa gelaran dan panggilan
 
 <!-- page 8 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 ## ANUGERAH ASING
 
@@ -242,7 +242,7 @@ A menerima anugerah tidak diiktiraf pada 2010 yang membawa gelaran dan panggilan
 
 A menerima anugerah asing tidak diiktiraf pada 2010 yang membawa gelaran dan panggilan yang A telah menggunakannya sejak 2010. Apabila Akta ini mula berkuat kuasa, A dilarang daripada menggunakan gelaran dan panggilan itu. A menggunakan gelaran dan panggilan itu selepas Akta ini mula berkuat kuasa. A melakukan kesalahan.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## SUAPAN
 
@@ -312,7 +312,7 @@ apa-apa suapan sebagai balasan atau dorongan atau hadiah untuk mendapatkan atau 
 
 <!-- page 12 -->
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PELBAGAI
 
@@ -330,7 +330,7 @@ apa-apa suapan sebagai balasan atau dorongan atau hadiah untuk mendapatkan atau 
 
 19. Yang di-Pertuan Agong boleh, melalui perintah yang disiarkan dalam Warta, meminda Jadual Pertama dan apabila diminta oleh Raja atau Yang di-Pertua Negeri meminda Jadual Kedua.
 
-## Jadual Pertama
+## JADUAL PERTAMA
 
 [Seksyen 11]
 
@@ -352,9 +352,7 @@ Antigua and Barbuda Governor-General of Antigua and Barbuda
 
 <!-- page 13 -->
 
-Negara
-
-<!-- marginal: Ketua Negara -->
+Negara Ketua Negara
 
 Argentina Presidente de la República Argentina
 
@@ -472,9 +470,7 @@ France Président de la République française
 
 <!-- page 15 -->
 
-Negara
-
-<!-- marginal: Ketua Negara -->
+Negara Ketua Negara
 
 Gabon Président de la République gabonaise
 
@@ -604,9 +600,7 @@ Nicaragua Presidente de la República de Nicaragua
 
 <!-- page 17 -->
 
-Negara
-
-<!-- marginal: Ketua Negara -->
+Negara Ketua Negara
 
 Niger Président de la République du Niger
 
@@ -738,9 +732,7 @@ United Republic of Tanzania President of the United Republic of Tanzania
 
 <!-- page 19 -->
 
-Negara
-
-<!-- marginal: Ketua Negara -->
+Negara Ketua Negara
 
 United States of America President of the United States of America
 
@@ -760,7 +752,7 @@ Zambia President of the Republic of Zambia
 
 Zimbabwe President of the Republic of Zimbabwe
 
-## Jadual Kedua
+## JADUAL KEDUA
 
 [Seksyen 17]
 
@@ -770,7 +762,7 @@ Undang-Undang Negeri
 
 Akta Kesalahan yang berhubungan dengan Anugerah 2016 yang dicadangkan ini (“Akta yang dicadangkan”) bertujuan untuk mewujudkan kesalahan yang berhubungan dengan anugerah. Disebabkan oleh penganugerahan gelaran dan kebesaran yang semakin menjadi-jadi oleh orang tanpa kuasa daripada segi perlembagaan dan penganugerahan gelaran dan kebesaran oleh orang selain Ketua Negara negara asing, Kerajaan telah memutuskan untuk mengekang aktiviti tersebut sebagai tanda pengiktirafan keistimewaan berdaulat Yang di-Pertuan Agong, Raja-Raja atau Yang di-Pertua Negeri. Akta yang dicadangkan akan memenuhi semua aspek kesalahan yang berhubungan dengan anugerah Yang di-Pertuan Agong, Raja dan Yang di-Pertua Negeri dan Ketua Negara asing.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I memperkatakan perkara permulaan.
 
@@ -780,7 +772,7 @@ Akta Kesalahan yang berhubungan dengan Anugerah 2016 yang dicadangkan ini (“Ak
 
 <!-- page 20 -->
 
-## Bahagian II
+## BAHAGIAN II
 
 5. Bahagian II mengandungi peruntukan yang berhubungan dengan anugerah Yang di-Pertuan Agong.
 
@@ -804,7 +796,7 @@ di-Pertuan Agong yang sah jika dia tidak pernah dianugerahkan anugerah Yang di-P
 
 13. Fasal 10 bertujuan untuk mengadakan peruntukan bagi kesalahan menggunakan anugerah Yang di-Pertuan Agong bilamana tidak berhak. Seseorang dilarang daripada menggunakan dan menikmati gelaran dan panggilan apa-apa anugerah Yang di-Pertuan Agong dalam apa-apa bentuk dan cara jika orang itu tidak layak menggunakan dan menikmati gelaran dan panggilan tersebut. Kesalahan yang dicadangkan membawa hukuman denda tidak melebihi sepuluh ribu ringgit.
 
-## Bahagian III
+## BAHAGIAN III
 
 14. Bahagian III mengandungi peruntukan yang berhubungan dengan anugerah asing.
 
@@ -812,7 +804,7 @@ di-Pertuan Agong yang sah jika dia tidak pernah dianugerahkan anugerah Yang di-P
 
 16. Fasal 12 bertujuan untuk mengadakan peruntukan bagi kesalahan menerima dan menggunakan anugerah asing tidak diiktiraf. Seseorang warganegara dilarang daripada menerima suatu anugerah asing tidak diiktiraf daripada mana- mana orang sama ada di dalam atau di luar Malaysia dan menggunakan dan menikmati gelaran dan panggilan suatu anugerah asing tidak diiktiraf dalam apa-apa bentuk dan cara. Kesalahan yang dicadangkan membawa hukuman penjara tidak melebihi tiga tahun.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 17. Bahagian IV mengandungi peruntukan yang berhubungan dengan suapan.
 
@@ -832,7 +824,7 @@ lain, dilarang daripada meminta, menerima atau bersetuju untuk menerima bagi dir
 
 orang itu atau orang lain, apa-apa suapan sebagai balasan atau dorongan atau hadiah untuk mendapatkan atau membantu atau berusaha untuk mendapatkan pemberian anugerah asing tidak diiktiraf kepada mana-mana warganegara berkaitan pemberian itu. Kesalahan yang dicadangkan membawa hukuman penjara tidak melebihi dua puluh tahun.
 
-## Bahagian V
+## BAHAGIAN V
 
 22. Bahagian V memperkatakan perkara pelbagai.
 

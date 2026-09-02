@@ -26,7 +26,15 @@ Rang Undang-Undang
 
 Ta juk Amaun Mak sud (RM)
 
-B. 3 Jabatan Audit 994,900 B. 5 Suruhanjaya Perkhidmatan Awam 3.100,000 B. 7 Jabatan Perdana Menteri 26,000,000 8 B. Jabatan Perkhidmatan Awam 170,000,000 B. 10 Jabatan Peguam Negara 5,250,880 B. 11 Badan Pencegah Rasuah 3,378,900 B. 14 Kementerian Perumahan dan 68,440,000 Kerajaan Tempatan B. 18 Kementerian Perusahaan Utama 1 ,000,000 B. 20 Kementerian Perdagangan Antarabangsa 20,787,000 dan Industri B. 24 Jabatan Muzium dan Antikuiti 888,700 B. 25 Kementerian Pertahanan 174,532,700 B. 28 Perbendaharaan 172,700,000 B. 30 Peruntukan kepada Kumpulan Wang 17,484,226,417 Terkanun B. 31 Jabatan Kastam DiRaja Malaysia 4,023,200 B. 33 Kementerian Kerja Raya 33,747,700 B. 34 Kementerian Kcsihatan 528,862,200 B. 35 Kementerian Dalam Negeri 143,557,600 B. 38 Kementerian Pengangkutan 19,193,700 B. 40 Kementerian Pembangunan Luar Bandar 8,116,300 B. 44 Kementerian Penerangan 45,395,500 B. 45 Kementerian Sumber Manusia 74,207,800
+B. 3 Jabatan Audit
+
+<!-- marginal: 994,900 -->
+
+B. 5 Suruhanjaya Perkhidmatan Awam 3.100,000 B. 7 Jabatan Perdana Menteri 26,000,000 8 B. Jabatan Perkhidmatan Awam 170,000,000 B. 10 Jabatan Peguam Negara 5,250,880 B. 11 Badan Pencegah Rasuah 3,378,900 B. 14 Kementerian Perumahan dan 68,440,000 Kerajaan Tempatan B. 18 Kementerian Perusahaan Utama 1 ,000,000 B. 20 Kementerian Perdagangan Antarabangsa 20,787,000 dan Industri B. 24 Jabatan Muzium dan Antikuiti
+
+<!-- marginal: 888,700 -->
+
+B. 25 Kementerian Pertahanan 174,532,700 B. 28 Perbendaharaan 172,700,000 B. 30 Peruntukan kepada Kumpulan Wang 17,484,226,417 Terkanun B. 31 Jabatan Kastam DiRaja Malaysia 4,023,200 B. 33 Kementerian Kerja Raya 33,747,700 B. 34 Kementerian Kcsihatan 528,862,200 B. 35 Kementerian Dalam Negeri 143,557,600 B. 38 Kementerian Pengangkutan 19,193,700 B. 40 Kementerian Pembangunan Luar Bandar 8,116,300 B. 44 Kementerian Penerangan 45,395,500 B. 45 Kementerian Sumber Manusia 74,207,800
 
 ## JUMLAH
 
@@ -36,7 +44,9 @@ B. 3 Jabatan Audit 994,900 B. 5 Suruhanjaya Perkhidmatan Awam 3.100,000 B. 7 Jab
 
 Rang Undang-Undang ini bertujuan untuk mengadakan peruntukan bagi pengeluaran wang daripada Kumpulan Wang Disatukan sebanyak lapan belas bilion sembilan ratus lapan puluh lapan juta empat ratus tiga ribu empat ratus sembilan puluh tujuh ringgit (RM1 8,988,403,497) untuk perkhidmatan dan maksud yang dinyatakan dalam Jadual kepada Rang Undang-Undang ini bagi tahun
 
-2003. [PN(U2)2206]
+2003.
+
+<!-- marginal: [PN(U2)2206] -->
 
 <!-- page 3 -->
 
@@ -64,7 +74,19 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ## SCHEDULE
 
-Pur pose Title Amount (RM) B. 3 Audit Department 994.900 B. 5 Public Services Commission 3,100,000 B. 7 Prime Minister's Department 26,000.000 B. 8 Public Services Department 170,000,000 B. 10 Attorney General's Chambers 5,250,880 B. 11 Anti-Corruption Agency 3,378.900 B. 14 Ministry of Housing and Local 68,440,000 Government B. 18 Ministry of Primary Industries 1,000,000 B. 20 Ministry of International Trade and 20,787,000 Industries B. 24 Museum and Antiquities Department 888,700 B. 25 Ministry of Defence 174,532.700 B. 28 Treasury 172,700.000 B. 30 Contribution to Statutory Funds 17.484,226,417 B. 31 Royal Customs Department Malaysia 4,023.200 B. 33 Ministry of Works 33,747,700 B. 34 Ministry of Health 528,862,200 B. 35 Ministry of Home Affairs 143,557,600 B. 38 Ministry of Transport 19,193,700 B. 40 Ministry of Rural Development 8,116,300 B. 44 Ministry of Information 45,395,500 B. 45 Ministry of Human Resources 74,207,800
+Pur pose Title
+
+<!-- marginal: Amount -->
+
+(RM) B. 3 Audit Department
+
+<!-- marginal: 994.900 -->
+
+B. 5 Public Services Commission 3,100,000 B. 7 Prime Minister's Department 26,000.000 B. 8 Public Services Department 170,000,000 B. 10 Attorney General's Chambers 5,250,880 B. 11 Anti-Corruption Agency 3,378.900 B. 14 Ministry of Housing and Local 68,440,000 Government B. 18 Ministry of Primary Industries 1,000,000 B. 20 Ministry of International Trade and 20,787,000 Industries B. 24 Museum and Antiquities Department
+
+<!-- marginal: 888,700 -->
+
+B. 25 Ministry of Defence 174,532.700 B. 28 Treasury 172,700.000 B. 30 Contribution to Statutory Funds 17.484,226,417 B. 31 Royal Customs Department Malaysia 4,023.200 B. 33 Ministry of Works 33,747,700 B. 34 Ministry of Health 528,862,200 B. 35 Ministry of Home Affairs 143,557,600 B. 38 Ministry of Transport 19,193,700 B. 40 Ministry of Rural Development 8,116,300 B. 44 Ministry of Information 45,395,500 B. 45 Ministry of Human Resources 74,207,800
 
 ## TOTAL
 
@@ -72,4 +94,6 @@ Pur pose Title Amount (RM) B. 3 Audit Department 994.900 B. 5 Public Services Co
 
 ## EXPLANATORY STATEMENT
 
-This Bill seeks to provide for the issue from the Consolidated Fund of a sum of eighteen billion nine hundred and eighty-eight million four hundred and three thousand four hundred and ninety-seven ringgit (RM18,988,403,497) for the services and purposes specified in the Schedule to the Bill for the year 2003. [PN(U2)2206]
+This Bill seeks to provide for the issue from the Consolidated Fund of a sum of eighteen billion nine hundred and eighty-eight million four hundred and three thousand four hundred and ninety-seven ringgit (RM18,988,403,497) for the services and purposes specified in the Schedule to the Bill for the year 2003.
+
+<!-- marginal: [PN(U2)2206] -->

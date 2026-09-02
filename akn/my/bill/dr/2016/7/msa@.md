@@ -278,9 +278,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 24. Subseksyen 36(4) Akta ibu dipinda—
 
-(a) dengan memasukkan selepas perkataan “section 14” perkataan “or compensation made under section 35 or
-
-## Part VII”; dan
+(a) dengan memasukkan selepas perkataan “section 14” perkataan “or compensation made under section 35 or Part VII”; dan
 
 (b) dengan memasukkan selepas perkataan “to such award” perkataan “or compensation”.
 

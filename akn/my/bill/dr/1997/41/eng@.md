@@ -36,9 +36,13 @@ to as the "principal Act", is amended in section 3—
 
 (c) in subsection (2) by substituting for the words "subsection (1)" the words "subsections (1) and (lA)".
 
-New
+<!-- marginal: New -->
 
-3. The principal Act is amended by inserting after section section 3B. 3A the following section:
+3. The principal Act is amended by inserting after section
+
+<!-- marginal: section 3B. -->
+
+3A the following section:
 
 "power of 3e. (1) The Registrar may, in writing, delegate delegation of the powers conferred on him under this Act, except the power of delegation under this section, to any Assistant Registrar appointed under section 3.
 
@@ -46,13 +50,19 @@ New
 
 (3) The power of delegation under subsection (1) shall be exercised by the Registrar personally.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. Subsection 6(3) of the principal Act is amended by of section 6. substituting for the words "two thousand" and "two hundred" the words "five thousand" and "five hundred" respectively.
+4. Subsection 6(3) of the principal Act is amended by
 
-Amendment
+<!-- marginal: of section 6. -->
 
-5. Section 7 of the principal Act is amended— of section 7.
+substituting for the words "two thousand" and "two hundred" the words "five thousand" and "five hundred" respectively.
+
+<!-- marginal: Amendment -->
+
+5. Section 7 of the principal Act is amended—
+
+<!-- marginal: of section 7. -->
 
 (a) by substituting for subsection (1) the following subsection:
 
@@ -124,7 +134,9 @@ substituting for the words "two" and "five" the words "three" and "ten" respecti
 
 (b) in order to restrain the registered society from further infringing or violating any provision of this Act, any regulation made thereunder or any rule of the society.
 
-(2B) An order made under subsection (2A)——
+(2B) An order made under subsection
+
+(2A)——
 
 (a) may contain such conditions as the Registrar deems necessary or expedient; and
 
@@ -170,13 +182,19 @@ by substituting for the word "ten" the word "fifteen".
 
 <!-- page 6 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-12. Subsection 16(2) of the principal Act is amended of section 16 by substituting for the words "cancel the registration of the society" the words "take steps to cancel the registration of the society under section 13".
+12. Subsection 16(2) of the principal Act is amended
 
-Amendment
+<!-- marginal: of section 16 -->
 
-13. Section 21 of the principal Act is amended— of section 21.
+by substituting for the words "cancel the registration of the society" the words "take steps to cancel the registration of the society under section 13".
+
+<!-- marginal: Amendment -->
+
+13. Section 21 of the principal Act is amended—
+
+<!-- marginal: of section 21. -->
 
 (a) in paragraph (1)(a) by substituting for the words "one thousand" the words "two thousand";
 
@@ -188,13 +206,19 @@ Provided that where a mutual benefit society is established in a particular plac
 
 (c) in subsection (2) by inserting after the word "village," the word "mukim,".
 
-Amendment
+<!-- marginal: Amendment -->
 
-14. Section 28 of the principal Act is amended by of section 28. substituting for the word "one" the word "five".
+14. Section 28 of the principal Act is amended by
 
-Amendment
+<!-- marginal: of section 28. -->
 
-15. Section 32 of the principal Act is amended— of section 32.
+substituting for the word "one" the word "five".
+
+<!-- marginal: Amendment -->
+
+15. Section 32 of the principal Act is amended—
+
+<!-- marginal: of section 32. -->
 
 (a) in the marginal note by substituting for the words "Power to change name." the words "Rights, etc. of registered society not affected by change of name."; and
 
@@ -284,19 +308,31 @@ by substituting for the word "ten" the word "fifteen".
 
 "(2) Except where the registration of a society has been cancelled under section 2A or paragraph (b) of subsection (1) of section 13 the restriction imposed on an office-bearer under subsection (1) shall cease upon the expiry of a period of five years beginning from the date of such cancellation.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-24. Subsection 50(3) of the principal Act is amended of section 50. by substituting for the word "one" the word "three".
+24. Subsection 50(3) of the principal Act is amended
 
-Amendment
+<!-- marginal: of section 50. -->
 
-25. Subsection 52(3)of the principal Act is amended by of section 52. substituting for the word "ten" the word "fifteen".
+by substituting for the word "one" the word "three".
 
-Amendment
+<!-- marginal: Amendment -->
 
-26. Subsection 53(3) of the principal Act is amended of section 53. by substituting for the word "two" the word "five".
+25. Subsection 52(3)of the principal Act is amended by
 
-New section
+<!-- marginal: of section 52. -->
+
+substituting for the word "ten" the word "fifteen".
+
+<!-- marginal: Amendment -->
+
+26. Subsection 53(3) of the principal Act is amended
+
+<!-- marginal: of section 53. -->
+
+by substituting for the word "two" the word "five".
+
+<!-- marginal: New section -->
 
 27. The principal Act is amended by inserting after section
 
@@ -304,11 +340,15 @@ New section
 
 "penalty for 53A. Any person who displays or uses any displaying or usingcertificate of registration or copy thereof of a certificate society whose registration has been cancelled of registration- with the knowledge that the certificate of which" registration has been cancelled shall be guilty has been of an offence and shall be liable, on conviction, cancelled. to a fine not exceending two thousand ringgit.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-28. Section 54 of the principal Act is amended by of section 54. substituting for the word "two" the word "five".
+28. Section 54 of the principal Act is amended by
 
-New section
+<!-- marginal: of section 54. -->
+
+substituting for the word "two" the word "five".
+
+<!-- marginal: New section -->
 
 29. The principal Act is amended by inserting after section
 

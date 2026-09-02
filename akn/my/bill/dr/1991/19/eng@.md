@@ -48,9 +48,23 @@ Act", is amended by substituting for the words "only to the States of West" in s
 
 "sweepstakes" means any sweepstake promoted on the result of a horse race.'.
 
-Extension
+<!-- marginal: Extension -->
 
-4. The principal Act as amended by sections 2 and 3 is of Act to extended to the States of Sabah and Sarawak and the Sabah, Sarawak Federal Territory of Labuan. and Labuan.
+4. The principal Act as amended by sections 2 and 3 is
+
+<!-- marginal: of Act to -->
+
+extended to the States of Sabah and Sarawak and the
+
+<!-- marginal: Sabah, -->
+
+<!-- marginal: Sarawak -->
+
+Federal Territory of Labuan.
+
+<!-- marginal: and -->
+
+<!-- marginal: Labuan. -->
 
 ## EXPLANATORY STATEMENT
 

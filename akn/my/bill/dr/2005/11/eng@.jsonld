@@ -202,7 +202,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/eng@/~cl_15",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (3) — Amendment of section 25"
+        "@value": "in subsection (3) —"
       }
     },
     {
@@ -222,7 +222,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/eng@/~cl_15__para_c",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after the words \"this section\" the words \", subject to such conditions as he may impose\"."
+        "@value": "by inserting after the words \"this section\" the words \", subject to such conditions as he may impose\". Amendment of section 25"
       }
     },
     {
@@ -567,7 +567,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/eng@/~cl_2",
       "schema:text": {
         "@language": "en",
-        "@value": "in the definition of \"private yacht\"— \"(c) a lessee or charterer;\";"
+        "@value": "in the definition of \"private yacht\"—"
       }
     },
     {
@@ -597,7 +597,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/eng@/~cl_2__para_a",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after paragraph (b) the following paragraph:"
+        "@value": "by inserting after paragraph (b) the following paragraph: \"(c) a lessee or charterer;\";"
       }
     },
     {
@@ -777,7 +777,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/eng@/~cl_34",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (2) — New section 51A"
+        "@value": "in subsection (2) —"
       }
     },
     {
@@ -797,7 +797,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/eng@/~cl_34__para_b",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after the words \"paid to the\" the words \"master or\"."
+        "@value": "by inserting after the words \"paid to the\" the words \"master or\". New section 51A"
       }
     },
     {

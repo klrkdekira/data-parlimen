@@ -1,0 +1,412 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-27-2004",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_10"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-undang Laporan Kewangan (Pindaan) 2004"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Laporan Kewangan (Pindaan)"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "2004. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 27."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_2__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_2__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Laporan Kewangan 1997 [Akta 558], yang disebut \"Akta ibu\" dalam Akta ini, dipinda dalam seksyen 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_2__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_2__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_2__list_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_2__list_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_2__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_2__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif \"Bank Negara\" takrif yang berikut: ' \"buletin isu\" ertinya pernyataan yang dikeluarkan atau diluluskan oleh Lembaga di bawah subseksyen 7(1) berkenaan dengan tafsiran, pemakaian atau pelaksanaan mana-mana piawaian perakaunan diluluskan atau perkara yang berhubungan dengan piawaian Rang Undang-Undang perakaunan diluluskan atau apa-apa perkara yang berhubungan dengan amalan perakaunan yang digunakan bagi penyediaan penyata kewangan, sama ada secara am atau berhubung dengan apa-apa prinsip atau transaksi perakaunan yang khusus;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_2__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_2__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif \"piawaian perakaunan\" takrif yang berikut: ' \"piawaian perakaunan diiktiraf antarabangsa yang boleh diterima\" ertinya piawaian perakaunan yang dikeluarkan oleh badan-badan pengeluar piawaian perakaunan yang lain yang diberi pengiktirafan oleh Lembaga di bawah seksyen 26A;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_2__list_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_2__list_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan takrif \"piawaian perakaunan diluluskan\" dengan takrif yang berikut: ' \"piawaian perakaunan diluluskan\" ertinya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_2__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_2__list_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_2__list_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_2__list_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_2__list_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_2__list_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_2__list_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_2__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "piawaian perakaunan baru yang dikeluarkan oleh Lembaga di bawah perenggan 7(1 )(a);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_2__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_2__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "piawaian perakaunan yang sedia ada yang diterima pakai oleh Lembaga di bawah perenggan 7(1)(b); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_2__list_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_2__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "berhubung dengan syarikat asing yang disenaraikan di bursa saham di Malaysia,piawaian perakaunan diiktiraf antarabangsa yang boleh diterima;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_2__list_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_2__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif \"piawaian perakaunan diluluskan\" takrif yang berikut: ' \"piawaian perakaunan diluluskan MASB\" ertinya piawaian perakaunan diluluskan selain piawaian perakaunan diiktiraf antarabangsa yang boleh diterima;'; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_2__list_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_2__list_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif \"Suruhanjaya Sekuriti\" takrif yang berikut: ' \"syarikat asing\" mempunyai erti yang sama seperti dalam Akta Syarikat 1965;'. Laporan Kewangan (Pindaan) Pindaan seksyen 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 5(1)(/) Akta ibu dipinda dengan memasukkan sebelum koma bemoktah perkataan \"atau wakilnya yang hendaklah merupakan seorang anggota majlis bagi Institut Akauntan Malaysia\". Pindaan seksyen 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 6 Akta ibu dipinda— '"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan \"Pengerusi Yayasan dan lapan orang anggota lain\" dengan perkataan \"Sembilan orang anggota Yayasan\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (2) dengan subseksyen yang berikut: \"(2) Pengerusi Yayasan hendaklah mempengerusikan semua mesyuarat Yayasan.\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: \"(3) Jika Pengerusi Yayasan tidak hadir pada mana-mana mesyuarat Yayasan, anggota yang hadir pada mesyuarat Yayasan itu hendaklah memilih seorang daripada anggota yang dinyatakan dalam perenggan 5(\\)(a) hingga (f) yang hadir untuk mempengerusikan mesyuarat itu. (4) Mana-mana anggota Yayasan boleh mengambil bahagian dalam sesuatu mesyuarat Yayasan dengan menggunakan cara telepersidangan atau videopersidangan atau cara elektronik yang lain. (5) Seseorang anggota Yayasan yang mengambil bahagian dalam sesuatu mesyuarat Yayasan dengan menggunakan cara telepersidangan atau videopersidangan atau cara elektronik yang lain disifatkan telah menghadiri mesyuarat itu. (6) Tertakluk kepada subseksyen (2), (3), (4) dan (5), Yayasan boleh menentukan penjalanan prosidingnya.\". Rang Undang-Undang Pindaan seksyen 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_5__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_5__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_5__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_5__subpara_iv",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_5__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 7 Akta ibu dipinda— (a)"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan \"perenggan (1 )(a), (1 )(b),( 1 )(c) atau (1 )(g j\" dengan perkataan \"perenggan (l)(a), (b), (ba), (c), (ca) atau (g)\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (4). Pindaan seksyen 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_5__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (b) perenggan yang berikut: \"(ba) meminda, menggantikan, menggantung, menunda, menarik balik atau membatalkan apa-apa piawaian perakaunan diluluskan secara keseluruhan atau sebahagian;\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_5__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (c) dengan perenggan yang berikut: \"(c) mengeluarkan,meluluskan,mengkaji semula, menyemak, meminda, menggantikan, menggantung, menunda, menarik balik atau membatalkan apa-apa buletin isu secara keseluruhan atau sebahagian;\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_5__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (c) perenggan yang berikut: \"(ca) mengeluarkan,meluluskan,mengkaji semula, menyemak, meminda, menggantikan, menggantung, menunda, menarik balik atau membatalkan apa-apa pernyataan prinsip-prinsip, apa-apa keluaran teknikal dan keluaran lain dan apa-apa dokumen lain yang berhubungan dengan laporan kewangan walau dikenali dengan nama apa jua pun secara keseluruhan atau sebahagian;\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_5__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (h), dengan memasukkan selepas perkataan \"melaksanakan\" perkataan \"apa-apa fungsi lain yang diberikan atau dikenakan ke atasnya oleh Akta ini atau\"; Laporan Kewangan (Pindaan)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 9 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: \"(2A) Mana-mana anggota Lembaga boleh mengambil bahagian dalam sesuatu mesyuarat Lembaga dengan menggunakan cara telepersidangan atau videopersidangan atau cara elektronik yang lain. (2B) Mana-mana anggota Lembaga yang mengambil bahagian dalam sesuatu mesyuarat Lembaga dengan menggunakan cara telepersidangan atau videopersidangan atau cara elektronik yang lain disifatkan sebagai telah menghadiri mesyuarat itu.\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (5), dengan menggantikan perkataan \"Lembaga\" dengan perkataan \"Tertakluk kepada subseksyen (2), (2A), (2B), (3), (4) dan (6), Lembaga\". Pindaan seksyen 17"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 17 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan menggantikan perkataan \"Pengarah Teknikal\" dengan perkataan \"ketua pegawai eksekutif'; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan \"Pengarah Teknikal\" dengan perkataan \"ketua pegawai eksekutif. 6 Rang Undang-Undang Pindaan seksyen 18"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 18(2) Akta ibu dipinda dengan menggantikan perkataan \"Pengarah Teknikal\" dengan perkataan \"ketua pegawai eksekutif'. Bahagian baru IIIA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/27/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas Bahagian III Bahagian yang berikut: \"BAHAGIAN IIIA PIAWAIAN Badan-badan pengeluar yang lain 26A. Lembaga boleh memberikan pengiktirafan kepada badan-badan pengeluar piawaian perakaunan yang lain jika Lembaga berpendapat bahawa— (a) badan-badan pengeluar piawaian perakaunan itu mempunyai kedudukan dan reputasi bertaraf antarabangsa; dan (b) piawaian perakaunan badan-badan pengeluar piawaian perakaunan itu boleh diterima bagi maksud penyata kewangan yang dikehendaki supaya disediakan atau diserahkan di bawah mana-mana undang-undang yang ditadbirkan oleh Suruhanjaya Sekuriti, Bank Negara atau Pendaftar Syarikat oleh syarikat asing yang disenaraikan di bursa saham di Malaysia. Piawaian bagi syarikat asing 26B. Penyata kewangan yang dikehendaki supaya disediakan atau diserahkan di bawah mana-mana undang-undang yang ditadbirkan oleh Suruhanjaya Sekuriti, Bank Negara atau Pendaftar Syarikat oleh syarikat asing yang disenaraikan di bursa saham di Malaysia hendaklah mematuhi pada keseluruhannya dengan sama ada— (a) mana-mana piawaian perakaunan diiktiraf antarabangsa yang boleh diterima; atau (b) piawaian perakaunan diluluskan MASB. Laporan Kewangan (Pindaan) Piawaian bagi orang selain syarikat asing 26c. Penyata kewangan yang dikehendaki supaya disediakan atau diserahkan di bawah mana-mana undang-undang yang ditadbirkan oleh Suruhanjaya Sekuriti, Bank Negara atau Pendaftar Syarikat oleh mana-mana orang selain syarikat asing yang disenaraikan di bursa saham di Malaysia hendaklah mematuhi piawaian perakaunan diluluskan MASB sahaja. Pematuhan piawaian perakaunan diluluskan 26D. Jika penyata kewangan dikehendaki supaya disediakan atau diserahkan di bawah mana-mana undang-undang yang ditadbirkan oleh Suruhanjaya Sekuriti, Bank Negara atau Pendaftar Syarikat, penyata kewangan itu hendaklah disifatkan tidak mematuhi kehendak undang-undang itu melainkan jika penyata itu telah disediakan dan disimpan mengikut piawaian perakaunan diluluskan itu.\". Pemotongan seksyen 27"
+      }
+    }
+  ]
+}

@@ -1,0 +1,439 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-38-2024",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_12"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Arbitration (Amendment) Bill 2024"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_10__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_10__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Part III of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the heading of Part III the following heading: “Chapter 1 Proceedings and hearings”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 41a(2)(c), in the national language text by deleting the word “penasihat” after the word “seorang”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_10__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after section 46 the following chapter: “Chapter 2 Third party funding Definition 46a. In this Chapter— (a) “costs or expenses of the arbitration” includes any costs or expenses of the arbitration incurred prior to the commencement of the arbitration or during the arbitral proceedings or the court proceedings relating to the arbitration; (b) “third party funder” means a person who is a party to a third party funding agreement who provides third party funding to the funded party and does not have an interest recognized by law in the arbitration of the funded party, other than under the third party funding agreement; (c) “third party funding” means a funding by a third party funder of all or part of the costs and expenses of the arbitration of the funded party made under a third party funding agreement in return for the third party funder receiving a financial benefit only if the arbitration is successful within the meaning of the third party funding agreement; (d) “third party funding agreement” means an agreement in writing for a third party funding between a funded party and a third party funder; and (e) “funded party” means a person who was or is a party, or is likely to be a party to an arbitration and is a party to a third party funding agreement. Non-application of this Chapter 46b. This Chapter shall not apply to any third party funding agreement made before the date of the commencement of this Chapter. Rule against maintenance and champerty shall cease to apply 46c. (1) The rule of common law against maintenance and champerty shall cease to apply in relation to the third party funding and a third party funding agreement shall not be treated as contrary to public policy on the grounds of maintenance and champerty. (2) The cessation of application of the rule of common law against maintenance and champerty under subsection (1) shall not affect any rule of law as to the cases in which a contract is to be treated as contrary to public policy or otherwise illegal. Code of practice 46d. (1) The Minister may issue a code of practice setting out the practices and standards relating to the third party funding in which third party funders are ordinarily expected to comply. (2) Without prejudice to the generality of subsection (1), the code of practice may provide for— (a) the requirements on promotion of the third party funding; (b) the requirements for a third party funding agreement including the degree of control that a third party funder will have in relation to an arbitration, liability of a funded party and termination of a third party funding agreement; (c) the criteria on a third party funder including the sufficient minimum amount of capital which shall be satisfied by third party funder; (d) procedures for addressing potential, actual or perceived conflicts of interest by a third party funder; and (e) the procedures for enhancing the protection of funded party. (3) The code of practice issued under this section shall be published in the manner as may be determined by the Minister. (4) The Minister may revoke, vary, revise or amend the whole or in part any code of practice issued under this section. (5) The code of practice issued under this section is admissible in evidence in proceedings before any court or arbitral tribunal. Non-compliance with code of practice 46e. (1) Any non-compliance with any of the provision of the code of practice issued under section 46d shall not, in itself, render a third party funder liable to any action or legal proceedings. (2) Notwithstanding subsection (1), any compliance or non-compliance with any of the provisions of the code of practice may be taken into account by any arbitral tribunal or court if such compliance or non-compliance is relevant to a question being decided by the arbitral tribunal or court. Disclosure of information for purpose of seeking or securing third party funding 46f. (1) Notwithstanding section 41a, any information relating to the arbitral proceedings under the arbitration agreement or an award made in those arbitral proceedings may be disclosed or communicated by a party to any person for the purpose of seeking or securing a third party funding from the person. (2) The person referred to in subsection (1) shall not further disclose or communicate the information disclosed or communicated to him under that subsection unless such further disclosure or communication— (a) is made to protect or pursue a legal right or interest of the person; (b) is made to any government body, regulatory body, court or tribunal and the person is obliged by law to make the disclosure or communication; or (c) is made to a professional or any other advisers for the purpose of obtaining advice relating to the third party funding. (3) If a further disclosure or communication is made by the person referred to in subsection (1) to a professional or adviser under paragraph (2)(c), the professional or adviser shall not further disclose or communicate the information received except in accordance with subsection (2). Disclosure on third party funding agreement 46g. (1) Where the funded party has made a third party funding agreement, the funded party shall disclose or communicate to the other party to the arbitration and the arbitral tribunal or the court before which proceedings are brought in respect of the arbitration, as the case may be, the fact that a third party funding agreement has been made and the name of the third party funder in the third party funding agreement. (2) The disclosure or communication under subsection (1) shall be made— (a) where the third party funding agreement is made on or before the commencement of the arbitration or court proceedings in respect of the arbitration, upon the commencement of the arbitration or court proceedings; or (b) where the third party funding agreement is made after the commencement of the arbitration or court proceedings in respect of the arbitration, within fifteen days after the third party funding agreement is made. (3) For the purposes of subsection (2), if there is no arbitral tribunal appointed at the end of the period specified in paragraph (2)(b), the disclosure or communication under subsection (1) to the arbitral tribunal shall be made immediately after the arbitral tribunal is appointed. Disclosure of termination or end of third party funding agreement 46h. Where a third party funding agreement is terminated or has come to an end, the funded party shall, within fifteen days after the termination or end of the third party funding agreement, disclose or communicate to the other party to the arbitration, and the arbitral tribunal or the court before which proceedings are brought in respect of the arbitration, as the case may be, if any, the fact that the third party funding agreement has been terminated or has ended and the date of the termination of the third party funding agreement or the date the third party funding agreement ended. Non-compliance with sections 46f, 46g and 46h 46i. (1) Any non-compliance with any of the provisions under sections 46f, 46g and 46h shall not, in itself, render any third party funder liable to any action or legal proceedings. (2) Notwithstanding subsection (1), any compliance or non-compliance with any of the provisions under sections 46f, 46g and 46h may be taken into account by any arbitral tribunal or court if such compliance or non-compliance is relevant to a question being decided by the arbitral tribunal or court.”. Amendment of section 48"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 48 of the principal Act is amended by substituting for the words “The Director of the Asian International Arbitration Centre (Malaysia) or any other person” the words “Any person”. Saving"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_12__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All appointments, decisions or any other acts made, given or done by the Director of the Asian International Arbitration Centre (Malaysia) before the date of coming into operation of this Act shall, on the date of coming into operation of this Act, be deemed to have been made, given or done by the President of the Asian International Arbitration Centre Court of Arbitration and shall continue to remain in force and have effect until revoked, amended, repealed, rescinded or replaced by the President of the Asian International Arbitration Centre Court of Arbitration."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The law applicable to an arbitration agreement which is made before the date of coming into operation of this Act shall, on the date of coming into operation of this Act, be dealt with under the principal Act as if the principal Act had not been amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Arbitration (Amendment) Act 2024."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette and the Minister may appoint different dates for the coming into operation of different provisions of this Act. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Arbitration Act 2005 [Act 646], which is referred to as the “principal Act” in this Act, is amended in section 2, by inserting after the definition of “party” the following definition: ‘ “President” means the President of the Asian International Arbitration Centre Court of Arbitration;’. Amendment of section 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_3__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 3 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_3__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_3__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_3__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_3__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by substituting for the words “Parts I, II and IV” the words “Parts I and II, Chapter 2 of Part III and Part IV”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_3__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_3__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by substituting for the words “Part III” the words “Chapter 1 of Part III”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_3__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_3__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_3__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_3__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by substituting for the words “Parts I, II and IV” the words “Parts I and II, Chapter 2 of Part III and Part IV”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_3__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_3__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by substituting for the words “Part III” the words “Chapter 1 of Part III”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (3) the following subsection: “(3a) In respect of an international arbitration, where the seat of arbitration is not in Malaysia or there is no seat of arbitration but any of the services in relation to the arbitration are provided in Malaysia, Chapter 2 of Part III of this Act shall apply.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4), by substituting for the words “Part III” wherever appearing the words “Chapter 1 of Part III”. Amendment of section 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 9(4)(b) of the principal Act is amended by inserting after the word “defence” the words “or any other documents”. New section 9a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 9 the following section: “Law applicable to arbitration agreement 9a. (1) The parties are free to agree on the law to be applicable to the arbitration agreement. (2) Where the parties fail to agree under subsection (1), the law applicable to the arbitration agreement shall be the law of the seat of the arbitration. (3) The agreement by the parties on the law applicable to an agreement of which the arbitration agreement forms a part shall not constitute an express agreement that the law shall also be applicable to the arbitration agreement.”. Amendment of section 13"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_6__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_6__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_6__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_6__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_6__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 13 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (3) the following subsection: “(3a) For the purposes of subsection (3), where there are multiple claimants or multiple respondents, all the claimants shall jointly appoint one arbitrator and all the respondents shall jointly appoint one arbitrator.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4), by substituting for the words “Director of the Asian International Arbitration Centre (Malaysia)” the word “President”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (5), by substituting for the words “Director of the Asian International Arbitration Centre (Malaysia)” the word “President”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_6__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (6), by substituting for the words “Director of the Asian International Arbitration Centre (Malaysia)” the word “President”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_6__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (7), by substituting for the words “Director of the Asian International Arbitration Centre (Malaysia)” the word “President”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_6__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (8), by substituting for the words “Director of the Asian International Arbitration Centre (Malaysia)” the word “President”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_6__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (9), by substituting for the words “Director of the Asian International Arbitration Centre (Malaysia)” the word “President”. Amendment of section 17"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for subsection 17(2) the following subsection: “(2) Unless otherwise agreed by the parties, where any arbitrator including the presiding arbitrator is replaced, hearings previously held may be repeated at the discretion of the arbitral tribunal.”. Amendment of section 33"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_8__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 33 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsection: “(2a) For the purposes of subsection (2), “signatures” include digital signatures and electronic signatures.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (8) the following subsection: “(9) In this section— (a) “digital signature” has the meaning assigned to it in the Digital Signature Act 1997 [Act 562]; and (b) “electronic signature” has the meaning assigned to it in the Electronic Commerce Act 2006 [Act 658].”. Amendment of section 38"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for subsection 38(1) the following subsection: “(1) An award made in respect of an arbitration where the seat of arbitration is in Malaysia or an award from a foreign State shall be recognized as binding and, upon an application in writing to the High Court, shall be enforced subject to section 39.”. Amendment of Part III"
+      }
+    }
+  ]
+}

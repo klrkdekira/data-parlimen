@@ -50,11 +50,11 @@ using an agreed message standard to structure the data pertaining
 
 transaction;'.
 
-### Amendment
+<!-- marginal: Amendment -->
 
 3. The proviso to section 48 of the principal Act is
 
-### of section
+<!-- marginal: of section -->
 
 amended by inserting after the words "any form not so
 

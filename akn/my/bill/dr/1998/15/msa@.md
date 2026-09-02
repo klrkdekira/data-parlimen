@@ -12,7 +12,17 @@ D.R. 15/98
 
 ## PERMULAAN
 
-1. Tajuk ringkas. 2. Mula berkuat kuasa. 3. Matlamat. 4. Pemakaian wilayah dan luar wilayah. 5. Kuasa Menteri untuk mengecualikan orang, kawasan geografi tertentu, dll. 6. Tafsiran.
+1. Tajuk ringkas.
+
+2. Mula berkuat kuasa.
+
+3. Matlamat.
+
+4. Pemakaian wilayah dan luar wilayah.
+
+5. Kuasa Menteri untuk mengecualikan orang, kawasan geografi tertentu, dll.
+
+6. Tafsiran.
 
 ## BAHAGIAN
 
@@ -24,13 +34,19 @@ II
 
 Arahan Menteri
 
-7. Arahan oleh Menteri. 8. Perubahan arahan. 9. Daftar arahan.
+7. Arahan oleh Menteri. 8. Perubahan arahan.
+
+9. Daftar arahan.
 
 ## Bab 2
 
 Penentuan Menteri
 
-10. Penentuan oleh Menteri. 11. Perubahan penentuan. 12. Daftar penentuan.
+10. Penentuan oleh Menteri.
+
+11. Perubahan penentuan.
+
+12. Daftar penentuan.
 
 <!-- page 2 -->
 
@@ -52,7 +68,21 @@ III
 
 ## TRIBUNAL RAYUAN
 
-17. Penubuhan Tribunal Rayuan. 18. Perkara yang boleh dikaji semula oleh Tribunal Rayuan. 19. Kelayakan anggota. 20. Peletakan jawatan dan penamatan lantikan. 21. Kekosongan jawatan dan pelantikan pemangku. 22. Kuorum bagi Tribunal Rayuan. 23. Keputusan. 24. Tatacara Tribunal Rayuan. 25. Penggantungan anggota. 26. Pendedahan kepentingan.
+17. Penubuhan Tribunal Rayuan. 18. Perkara yang boleh dikaji semula oleh Tribunal Rayuan. 19. Kelayakan anggota.
+
+20. Peletakan jawatan dan penamatan lantikan.
+
+21. Kekosongan jawatan dan pelantikan pemangku.
+
+22. Kuorum bagi Tribunal Rayuan.
+
+23. Keputusan.
+
+24. Tatacara Tribunal Rayuan.
+
+25. Penggantungan anggota.
+
+26. Pendedahan kepentingan.
 
 ## BAHAGIAN
 
@@ -64,17 +94,59 @@ IV
 
 Lesen Individu
 
-27. Permohonan bagi mendapatkan lesen individu. 28. Maklumat lanjut. 29. Syor oleh Suruhanjaya. 30. Pemberian lesen individu. 31. Sekatan ke atas pemberian lesen individu.
+27. Permohonan bagi mendapatkan lesen individu.
+
+28. Maklumat lanjut.
+
+29. Syor oleh Suruhanjaya.
+
+30. Pemberian lesen individu.
+
+31. Sekatan ke atas pemberian lesen individu.
 
 <!-- page 3 -->
 
-32. Pematuhan syarat-syarat lesen individu. 33. Pengubahsuaian, perubahan atau pembatalan syarat-syarat lesen individu. 34. Pembaharuan lesen individu. 35. Penyerahan lesen individu. 36. Pindah hakmilik lesen individu atau penukaran pemunyaan. 37. Syor bagi penggantungan atau pembatalan lesen individu. 38. Penggantungan atau pembatalan lesen individu oleh Menteri. 39. Tarikh kuat kuasa penggantungan atau pembatalan lesen individu. 40. Penyiaran mengenai penggantungan atau pembatalan lesen individu. 41. Kesan penggantungan, pembatalan, penyerahan atau habis tempoh lesen individu. 42. Daftar lesen individu. 43. Hak dan kewajipan yang disertakan dengan lesen individu.
+32. Pematuhan syarat-syarat lesen individu.
+
+33. Pengubahsuaian, perubahan atau pembatalan syarat-syarat lesen individu.
+
+34. Pembaharuan lesen individu.
+
+35. Penyerahan lesen individu.
+
+36. Pindah hakmilik lesen individu atau penukaran pemunyaan.
+
+37. Syor bagi penggantungan atau pembatalan lesen individu.
+
+38. Penggantungan atau pembatalan lesen individu oleh Menteri.
+
+39. Tarikh kuat kuasa penggantungan atau pembatalan lesen individu.
+
+40. Penyiaran mengenai penggantungan atau pembatalan lesen individu.
+
+41. Kesan penggantungan, pembatalan, penyerahan atau habis tempoh lesen individu.
+
+42. Daftar lesen individu.
+
+43. Hak dan kewajipan yang disertakan dengan lesen individu.
 
 ## Bab 2
 
 Lesen Kelas
 
-44. Menteri boleh memberikan lesen kelas. 45. Permohonan bagi pendaftaran. 46. Kehendak bagi pendaftaran. 47. Syor oleh Suruhanjaya. 48. Pembatalan pendaftaran oleh Menteri. 49. Daftar lesen kelas. 50. Daftar notis pendaftaran.
+44. Menteri boleh memberikan lesen kelas.
+
+45. Permohonan bagi pendaftaran.
+
+46. Kehendak bagi pendaftaran.
+
+47. Syor oleh Suruhanjaya.
+
+48. Pembatalan pendaftaran oleh Menteri.
+
+49. Daftar lesen kelas.
+
+50. Daftar notis pendaftaran.
 
 ## BAHAGIAN V
 
@@ -86,7 +158,9 @@ Lesen Kelas
 
 Arahan
 
-51. Arahan oleh Suruhanjaya. 52. Pengubahsuaian, perubahan atau pembatalan arahan oleh Suruhanjaya. 53. Kesalahan kerana tidak mematuhi arahan Suruhanjaya, 54. Daftar arahan.
+51. Arahan oleh Suruhanjaya.
+
+52. Pengubahsuaian, perubahan atau pembatalan arahan oleh Suruhanjaya. 53. Kesalahan kerana tidak mematuhi arahan Suruhanjaya, 54. Daftar arahan.
 
 <!-- page 4 -->
 
@@ -94,13 +168,35 @@ Arahan
 
 ### Penentuan
 
-55. Penentuan oleh Suruhanjaya. 56. Pengubahsuaian, perubahan atau pembatalan penentuan oleh Suruhanjaya. 57. Daftar penentuan.
+55. Penentuan oleh Suruhanjaya.
+
+56. Pengubahsuaian, perubahan atau pembatalan penentuan oleh Suruhanjaya.
+
+57. Daftar penentuan.
 
 ## Bab 3
 
 Siasatan
 
-58. Siasatan oleh Suruhanjaya. 59. Menggabungkan dua siasatan atau lebih. 60. Penjalanan siasatan. 61. Siasatan hendaklah secara terbuka. 62. Pengecualian terhadap siasatan terbuka. 63. Bahan sulit tidak boleh didedahkan. 64. Arahan mengenai siasatan. 65. Laporan mengenai siasatan. 66. Pelindungan daripada tindakan sivil. 67. Daftar laporan.
+58. Siasatan oleh Suruhanjaya.
+
+59. Menggabungkan dua siasatan atau lebih.
+
+60. Penjalanan siasatan.
+
+61. Siasatan hendaklah secara terbuka.
+
+62. Pengecualian terhadap siasatan terbuka.
+
+63. Bahan sulit tidak boleh didedahkan.
+
+64. Arahan mengenai siasatan.
+
+65. Laporan mengenai siasatan.
+
+66. Pelindungan daripada tindakan sivil.
+
+67. Daftar laporan.
 
 ## Bab 4
 
@@ -112,11 +208,19 @@ Penyiasatan Bagi Maksud Pentadbiran, Siasatan, Dll.
 
 Kuasa Untuk Mengumpul Maklumat
 
-73. Pemberian maklumat. 74. Kesalahan kerana tidak patuh. 75. Kesalahan kerana memberikan maklumat, keterangan atau dokumen, dll. palsu atau mengelirukan. 76. Bukti pematuhan.
+73. Pemberian maklumat. 74. Kesalahan kerana tidak patuh. 75. Kesalahan kerana memberikan maklumat, keterangan atau dokumen, dll. palsu atau mengelirukan.
+
+76. Bukti pematuhan.
 
 <!-- page 5 -->
 
-77. Suruhanjaya boleh menyimpan dokumen. 78. Rekod tidak betul. 79. Rekod maklumat. 80. Penyiaran maklumat.
+77. Suruhanjaya boleh menyimpan dokumen.
+
+78. Rekod tidak betul.
+
+79. Rekod maklumat.
+
+80. Penyiaran maklumat.
 
 ## Bab 6
 
@@ -128,47 +232,109 @@ Daftar
 
 Pemberitahuan Dan Penyelesaian Pertikaian
 
-82. Pertikaian. 83. Pemberitahuan mengenai pertikaian. 84. Suruhanjaya hendaklah bertindak hanya apabila diberitahu. 85. Suruhanjaya boleh menyiarkan garis panduan. 86. Suruhanjaya hendaklah membuat keputusan tentang pertikaian yang telah diberitahukan. 87. Keputusan hendaklah secara bertulis. 88. Daftar keputusan. 89. Penguatkuasaan.
+82. Pertikaian.
+
+83. Pemberitahuan mengenai pertikaian.
+
+84. Suruhanjaya hendaklah bertindak hanya apabila diberitahu.
+
+85. Suruhanjaya boleh menyiarkan garis panduan.
+
+86. Suruhanjaya hendaklah membuat keputusan tentang pertikaian yang telah diberitahukan.
+
+87. Keputusan hendaklah secara bertulis.
+
+88. Daftar keputusan.
+
+89. Penguatkuasaan.
 
 ## Bab 8
 
 Pendaf taran Perjanjian
 
-90. Permohonan bagi pendaftaran perjanjian. 91. Bila Suruhanjaya hendaklah mendaftarkan perjanjian itu. 92. Kesan pendaftaran. 93. Kandungan daftar perjanjian.
+90. Permohonan bagi pendaftaran perjanjian.
+
+91. Bila Suruhanjaya hendaklah mendaftarkan perjanjian itu.
+
+92. Kesan pendaftaran.
+
+93. Kandungan daftar perjanjian.
 
 ## Bab 9
 
 Kod Industri Sukarela
 
-94. Forum industri. 95. Kod oleh forum industri. 96. Suruhanjaya boleh menentukan kod industri sukarela.
+94. Forum industri.
+
+95. Kod oleh forum industri.
+
+96. Suruhanjaya boleh menentukan kod industri sukarela.
 
 <!-- page 6 -->
 
-97. Kod industri sukarela yang terpakai. 98. Pematuhan kod industri sukarela berdaftar suatu pembelaan yang sah. 99. Arahan supaya kod industri sukarela berdaftar dipatuhi. 100. Penalti sivil bagi ketakpatuhan. 101. Pembatalan kod. 102. Pengemukaan kod industri sukarela baru oleh forum industri. 103. Daftar kod industri sukarela semasa.
+97. Kod industri sukarela yang terpakai. 98. Pematuhan kod industri sukarela berdaftar suatu pembelaan yang sah. 99. Arahan supaya kod industri sukarela berdaftar dipatuhi.
+
+100. Penalti sivil bagi ketakpatuhan.
+
+101. Pembatalan kod.
+
+102. Pengemukaan kod industri sukarela baru oleh forum industri.
+
+103. Daftar kod industri sukarela semasa.
 
 ## Bab 10
 
 Standard Mandatori
 
-104. Penentuan standard mandatori. 105. Standard mandatori hendaklah selaras. 106. Pengubahsuaian, pengubahan atau pembatalan standard mandatori. 107. Standard mandatori hendaklah diberi keutamaan. 108. Pematuhan standard mandatori suatu pembelaan yang sah. 109. Penalti sivil bagi ketakpatuhan.
+104. Penentuan standard mandatori.
+
+105. Standard mandatori hendaklah selaras.
+
+106. Pengubahsuaian, pengubahan atau pembatalan standard mandatori.
+
+107. Standard mandatori hendaklah diberi keutamaan.
+
+108. Pematuhan standard mandatori suatu pembelaan yang sah.
+
+109. Penalti sivil bagi ketakpatuhan.
 
 B ab II
 
 Aku Janji
 
-110. Aku janji oleh seseorang. 111. Pendaftaran aku janji. 112. Kaedah-kaedah berkenaan dengan aku janji. 113. Penarikan balik aku janji. 114. Penggantian aku janji. 115. Daftar aku janji. 116. Penguatkuasaan aku janji.
+110. Aku janji oleh seseorang.
+
+111. Pendaftaran aku janji.
+
+112. Kaedah-kaedah berkenaan dengan aku janji.
+
+113. Penarikan balik aku janji.
+
+114. Penggantian aku janji.
+
+115. Daftar aku janji.
+
+116. Penguatkuasaan aku janji.
 
 ## Bab 12
 
 Peninggalan Pengawalseliaan
 
-117. Peninggalan pengawalseliaan. 118. Penentuan oleh Menteri.
+117. Peninggalan pengawalseliaan.
+
+118. Penentuan oleh Menteri.
 
 <!-- page 7 -->
 
 ## Bab 13
 
-Kajian Semula Keputusan 119. Kajian semula oleh Suruhanjaya. 120. Kajian semula oleh Tribunal Rayuan. 121. Kajian semula kehakiman.
+Kajian Semula Keputusan
+
+119. Kajian semula oleh Suruhanjaya.
+
+120. Kajian semula oleh Tribunal Rayuan.
+
+121. Kajian semula kehakiman.
 
 ## Bab 14
 
@@ -180,7 +346,11 @@ Kajian Semula Peraturan
 
 Pengawasan Dan Pelaporan
 
-123. Laporan kepada Menteri mengenai prestasi industri. 124. Perkara untuk diawasi dan dilaporkan. 125. Laporan hendaklah disiarkan.
+123. Laporan kepada Menteri mengenai prestasi industri.
+
+124. Perkara untuk diawasi dan dilaporkan.
+
+125. Laporan hendaklah disiarkan.
 
 ## BAHAGIAN VI
 
@@ -190,7 +360,15 @@ PENGAWALSELIAAN EKONOMl
 
 Pelesenan
 
-126. Pelesenan kemudahan rangkaian, perkhidmatan rangkaian dan perkhidmatan aplikasi. 127. Pematuhan syarat-syarat lesen. 128. Takrif sempadan rangkaian. 129. Pengecualian bagi pemberi perkhidmatan aplikasi yang tidak tertakluk kepada lesen kelas. 130. Pemberi kemudahan yang dinamakan. 131. Pemberi di bawah lesen kelas hendaklah mendaftar. 132. Lesen berasingan.
+126. Pelesenan kemudahan rangkaian, perkhidmatan rangkaian dan perkhidmatan aplikasi.
+
+127. Pematuhan syarat-syarat lesen.
+
+128. Takrif sempadan rangkaian.
+
+129. Pengecualian bagi pemberi perkhidmatan aplikasi yang tidak tertakluk kepada lesen kelas.
+
+130. Pemberi kemudahan yang dinamakan. 131. Pemberi di bawah lesen kelas hendaklah mendaftar. 132. Lesen berasingan.
 
 ## Bab 2
 
@@ -200,13 +378,53 @@ Amalan Persaingan Am
 
 <!-- page 8 -->
 
-135. Larangan terhadap pembuatan perjanjian pakatan sulit. 136. Larangan terhadap perkiraan kaitan atau pautan. 137. Penentuan pemegang lesen dominan. 138. Garis panduan mengenai maksud "kedudukan dominan". 139. Suruhanjaya boleh mengarahkan pemegang lesen pada kedudukan dominan. 140. Pembenaran tingkah laku. 141. Daftar kebenaran. 142. Remedi bagi ketakpatuhan. 143. Penalti bagi kesalahan. 144. Menteri boleh membuat kaedah-kaedah.
+135. Larangan terhadap pembuatan perjanjian pakatan sulit.
+
+136. Larangan terhadap perkiraan kaitan atau pautan.
+
+137. Penentuan pemegang lesen dominan.
+
+138. Garis panduan mengenai maksud "kedudukan dominan".
+
+139. Suruhanjaya boleh mengarahkan pemegang lesen pada kedudukan dominan.
+
+140. Pembenaran tingkah laku.
+
+141. Daftar kebenaran.
+
+142. Remedi bagi ketakpatuhan.
+
+143. Penalti bagi kesalahan.
+
+144. Menteri boleh membuat kaedah-kaedah.
 
 ## Bab 3
 
 Capaian Kepada Perkhidmatan
 
-145. Kemudahan dan perkhidmatan yang boleh dimasukkan dalam senarai capaian. 146. Penentuan kemudahan dan perkhidmatan oleh Suruhanjaya. 147. Syor oleh forum capaian. 148. Daftar senarai capaian. 149. Kewajipan capaian standard bagi kemudahan dan perkhidmatan. 150. Pendaftaran perjanjian capaian. 151. Pemberitahuan pertikaian capaian. 152. Forum capaian. 153. Kod capaian. 154. Pendaftaran kod capaian. 155. Aku janji capaian industri. 156. Pendaftaran aku janji.
+145. Kemudahan dan perkhidmatan yang boleh dimasukkan dalam senarai capaian.
+
+146. Penentuan kemudahan dan perkhidmatan oleh Suruhanjaya.
+
+147. Syor oleh forum capaian.
+
+148. Daftar senarai capaian.
+
+149. Kewajipan capaian standard bagi kemudahan dan perkhidmatan.
+
+150. Pendaftaran perjanjian capaian.
+
+151. Pemberitahuan pertikaian capaian.
+
+152. Forum capaian.
+
+153. Kod capaian.
+
+154. Pendaftaran kod capaian.
+
+155. Aku janji capaian industri.
+
+156. Pendaftaran aku janji.
 
 ## BAHAGIAN VII
 
@@ -284,19 +502,33 @@ Bab t
 
 Mutu Perkhidmatan
 
-187. Pengecualian daripada peruntukan kesalahan. 188. Pemberian perkhidmatan rangkaian atau perkhidmatan aplikasi. 189. Forum pengguna. 190. Perkara-perkara bagi kod pengguna. 191. Penyiaran kod pengguna.
+187. Pengecualian daripada peruntukan kesalahan.
+
+188. Pemberian perkhidmatan rangkaian atau perkhidmatan aplikasi.
+
+189. Forum pengguna.
+
+190. Perkara-perkara bagi kod pengguna.
+
+191. Penyiaran kod pengguna.
 
 ## Bab 2
 
 Perkhidmatan Aplikasi Dikehendaki
 
-192. Perkhidmatan aplikasi dikehendaki. 193. Arahan Menteri supaya perkhidmatan aplikasi dikehendaki disediakan. 194. Arahan boleh menyatakan perincian pengendalian.
+192. Perkhidmatan aplikasi dikehendaki.
+
+193. Arahan Menteri supaya perkhidmatan aplikasi dikehendaki disediakan.
+
+194. Arahan boleh menyatakan perincian pengendalian.
 
 ## Bab 3
 
 Penyelesaian Pertikaian Pengguna
 
-195. Pertikaian antara pengguna dengan pemegang lesen. 196. Tatacara bagi aduan pengguna.
+195. Pertikaian antara pengguna dengan pemegang lesen.
+
+196. Tatacara bagi aduan pengguna.
 
 <!-- page 11 -->
 
@@ -304,13 +536,21 @@ Komunikasi dan Multimedia 11
 
 ## Bab 4
 
-Pengawalseliaan Kadar 197. Penetapan kadar oleh pemberi. 198. Prinsip mengenai penetapan kadar. 199. Penetapan kadar oleh Menteri. 200. Kuasa Menteri untuk menentukan orang atau kawasan bagi kadar khas. 201. Kaedah-kaedah mengenai kadar.
+Pengawalseliaan Kadar 197. Penetapan kadar oleh pemberi. 198. Prinsip mengenai penetapan kadar. 199. Penetapan kadar oleh Menteri.
+
+200. Kuasa Menteri untuk menentukan orang atau kawasan bagi kadar khas.
+
+201. Kaedah-kaedah mengenai kadar.
 
 ## Bab 5
 
 Pemberian Perkhidmatan Sejagat
 
-202. Sistem pemberian perkhidmatan sejagat. 203. Takrif "kawasan yang kurang liputan perkhidmatan" dan "kumpulan yang kurang diberi perkhidmatan dalam masyarakat", dll. 204. Kumpulan Wang Pemberian Perkhidmatan Sejagat.
+202. Sistem pemberian perkhidmatan sejagat.
+
+203. Takrif "kawasan yang kurang liputan perkhidmatan" dan "kumpulan yang kurang diberi perkhidmatan dalam masyarakat", dll.
+
+204. Kumpulan Wang Pemberian Perkhidmatan Sejagat.
 
 ## BAHAGIAN
 
@@ -322,13 +562,25 @@ IX
 
 Pelesenan
 
-205. Larangan terhadap pemberian perkhidmatan aplikasi kandungan. 206. Pematuhan syarat-syarat lesen. 207. Perkhidmatan aplikasi kandungan tertutup. 208. Pengecualian bagi kandungan sampingan. 209. Perkhidmatan aplikasi kandungan terhad. 210. Pendapat mengenai kategori perkhidmatan.
+205. Larangan terhadap pemberian perkhidmatan aplikasi kandungan.
+
+206. Pematuhan syarat-syarat lesen.
+
+207. Perkhidmatan aplikasi kandungan tertutup.
+
+208. Pengecualian bagi kandungan sampingan.
+
+209. Perkhidmatan aplikasi kandungan terhad.
+
+210. Pendapat mengenai kategori perkhidmatan.
 
 ## Bab 2
 
 Kehendak Kandungan
 
-211. Larangan terhadap pemberian kandungan jelik. 212. Forum kandungan. 213. Kod kandungan.
+211. Larangan terhadap pemberian kandungan jelik.
+
+212. Forum kandungan. 213. Kod kandungan.
 
 <!-- page 12 -->
 
@@ -338,35 +590,131 @@ AM
 
 ## Bab 1
 
-Pemasangan Kemudahan Rangkaian, Capaian Kepada Kemudahan Rangkaian, Dll. 214. Pemeriksaan tanah. 215. Pemasangan kemudahan rangkaian. 216. Kerosakan minimum. 217. Pemberi kemudahan rangkaian hendaklah membaik pulih tanah. 218. Pengurusan aktiviti. 219. Perjanjian dengan kemudahan awam. 220. Syarat-syarat yang kepadanya permit pemasangan kemudahan rangkaian tertakluk. 221. Notis kepada pemunya tanah. 222. Notis kepada pemunya tanah bagi pencantasan pokok, dll. 223. Notis kepada pihak berkuasa jalan raya, kemudahan awam, dll. 224. Jalan, dll. hendaklah terus dibuka bagi laluan. 225. Permit pemasangan kemudahan rangkaian. 226. Kriteria bagi pengeluaran permit pemasangan kemudahan rangkaian. 227. Permit pemasangan kemudahan rangkaian mempunyai kuat kuasa tertakluk kepada Akta ini dan undang-undang lain. 228. Akses kepada tiang, kemudahan rangkaian atau hak laluan. 229. Suruhanjaya hendaklah mengawal selia perkara mengenai akses kepada tiang, dll. 230. Menteri boleh membuat peraturan.
+Pemasangan Kemudahan Rangkaian, Capaian Kepada Kemudahan Rangkaian, Dll. 214. Pemeriksaan tanah. 215. Pemasangan kemudahan rangkaian.
+
+216. Kerosakan minimum.
+
+217. Pemberi kemudahan rangkaian hendaklah membaik pulih tanah. 218. Pengurusan aktiviti.
+
+219. Perjanjian dengan kemudahan awam.
+
+220. Syarat-syarat yang kepadanya permit pemasangan kemudahan rangkaian tertakluk.
+
+221. Notis kepada pemunya tanah.
+
+222. Notis kepada pemunya tanah bagi pencantasan pokok, dll.
+
+223. Notis kepada pihak berkuasa jalan raya, kemudahan awam, dll. 224. Jalan, dll. hendaklah terus dibuka bagi laluan.
+
+225. Permit pemasangan kemudahan rangkaian.
+
+226. Kriteria bagi pengeluaran permit pemasangan kemudahan rangkaian.
+
+227. Permit pemasangan kemudahan rangkaian mempunyai kuat kuasa tertakluk kepada Akta ini dan undang-undang lain.
+
+228. Akses kepada tiang, kemudahan rangkaian atau hak laluan.
+
+229. Suruhanjaya hendaklah mengawal selia perkara mengenai akses kepada tiang, dll.
+
+230. Menteri boleh membuat peraturan.
 
 ## Bab 2
 
 Kesalahan Dan Penalti Tambahan
 
-231. Kesalahan jika menggunakan radas atau peranti tanpa kelulusan. 232. Penggunaan secara fraud kemudahan rangkaian, perkhidmatan rangkaian, dll. 233. Penggunaan tidak wajar kemudahan rangkaian atau perkhidmatan rangkaian, dll. 234. Pemintasan dan pendedahan komunikasi dilarang.
+231. Kesalahan jika menggunakan radas atau peranti tanpa kelulusan.
+
+232. Penggunaan secara fraud kemudahan rangkaian, perkhidmatan rangkaian, dll.
+
+233. Penggunaan tidak wajar kemudahan rangkaian atau perkhidmatan rangkaian, dll.
+
+234. Pemintasan dan pendedahan komunikasi dilarang.
 
 <!-- page 13 -->
 
-235. Kerosakan kepada kemudahan rangkaian, dll. 236. Praud dan aktiviti berkaitan berhubung dengan peranti capaian, dll. 237. Larangan terhadap perkhidmatan panggil balik. 238. Pemancaran daripada kelengkapan atau peranti tidak standard. 239. Penggunaan, pemilikan atau pembekalan tidak dibenarkan, kelengkapan atau peranti tidak standard. 240. Kesalahan mengagihkan atau mengiklankan apa-apa kelengkapan atau peranti komunikasi bagi pemintasan komunikasi. 241. Kesalahan kerana memberikan pernyataan palsu dan mengelirukan. 242. Kesalahan dan penalti am, 243. Pengkompaunan kesalahan. 244. Kesalahan oleh pertubuhan perbadanan.
+235. Kerosakan kepada kemudahan rangkaian, dll.
+
+236. Praud dan aktiviti berkaitan berhubung dengan peranti capaian, dll.
+
+237. Larangan terhadap perkhidmatan panggil balik.
+
+238. Pemancaran daripada kelengkapan atau peranti tidak standard.
+
+239. Penggunaan, pemilikan atau pembekalan tidak dibenarkan, kelengkapan atau peranti tidak standard.
+
+240. Kesalahan mengagihkan atau mengiklankan apa-apa kelengkapan atau peranti komunikasi bagi pemintasan komunikasi.
+
+241. Kesalahan kerana memberikan pernyataan palsu dan mengelirukan. 242. Kesalahan dan penalti am, 243. Pengkompaunan kesalahan.
+
+244. Kesalahan oleh pertubuhan perbadanan.
 
 ## Bab 3
 
 Kuasa Untuk Masuk, Penyiasatan Kesalahan Dan Pendakwaan
 
-245. Pegawai diberi kuasa. 246. Kuasa untuk menyiasat. 247. Penggeledahan dengan waran. 248. Penggeledahan dan penyitaan tanpa waran. 249. Capaian kepada data berkomputer. 250. Senarai benda yang disita. 251. Pelepasan benda yang disita. 252. Kuasa untuk memintas komunikasi. 253. Galangan penggeledahan. 254. Kuasa tambahan. 255. Kuasa untuk menghendaki kehadiran orang yang tahu mengenai kes. 256. Pemeriksaan orang yang tahu mengenai kes. 257. Kebolehterimaan pernyataan sebagai keterangan. 258. Pegawai diberi kuasa hendaklah menyempurnakan penyiasatan dan menyerahkannya kepada polis. 259. Pendakwaan. 260. Pelucuthakan. 261. Bidang kuasa untuk membicarakan kesalahan. 262. Ganjaran.
+245. Pegawai diberi kuasa.
+
+246. Kuasa untuk menyiasat.
+
+247. Penggeledahan dengan waran.
+
+248. Penggeledahan dan penyitaan tanpa waran.
+
+249. Capaian kepada data berkomputer.
+
+250. Senarai benda yang disita.
+
+251. Pelepasan benda yang disita.
+
+252. Kuasa untuk memintas komunikasi.
+
+253. Galangan penggeledahan.
+
+254. Kuasa tambahan.
+
+255. Kuasa untuk menghendaki kehadiran orang yang tahu mengenai kes.
+
+256. Pemeriksaan orang yang tahu mengenai kes.
+
+257. Kebolehterimaan pernyataan sebagai keterangan.
+
+258. Pegawai diberi kuasa hendaklah menyempurnakan penyiasatan dan menyerahkannya kepada polis.
+
+259. Pendakwaan.
+
+260. Pelucuthakan.
+
+261. Bidang kuasa untuk membicarakan kesalahan.
+
+262. Ganjaran.
 
 <!-- page 14 -->
 
 ## Bab 4
 
-Perkara Kepentingan Negara 263. Kewajipan am pemegang lesen. 264. Orang yang tidak boleh disabitkan bagi perbuatan yang dilakukan dengan suci hati. 265. Kemampuan pemintasan rangkaian. 266. Kuasa khas semasa darurat. 267. Rancangan bencana.
+Perkara Kepentingan Negara
+
+263. Kewajipan am pemegang lesen.
+
+264. Orang yang tidak boleh disabitkan bagi perbuatan yang dilakukan dengan suci hati.
+
+265. Kemampuan pemintasan rangkaian.
+
+266. Kuasa khas semasa darurat.
+
+267. Rancangan bencana.
 
 ## Bab 5
 
 Pelbagai
 
-268. Menteri boleh membuat kaedah-kaedah mengenai penyirapanan rekod. 269. Kerjasama dengan pihak berkuasa lain. 270. Surat cara yang diberikan di bawah Akta ini. 271. Akta ini mengatasi Akta lain. 272. Pelindungan pegawai dan orang lain.
+268. Menteri boleh membuat kaedah-kaedah mengenai penyirapanan rekod. 269. Kerjasama dengan pihak berkuasa lain.
+
+270. Surat cara yang diberikan di bawah Akta ini.
+
+271. Akta ini mengatasi Akta lain.
+
+272. Pelindungan pegawai dan orang lain.
 
 ## BAHAGIAN XI
 
@@ -436,11 +784,7 @@ yang dltetapkan oleh Menteri melalui pemberitahuan dalam Warta, dan Menteri bole
 
 (d) mewujudkan kuasa dan tatacara bagi pentadbiran Akta ini.
 
-(2) Matlamat dasar kebangsaan bagi
-
-<!-- marginal: industri -->
-
-komunikasi dan multimedia ialah—
+(2) Matlamat dasar kebangsaan bagi industri komunikasi dan multimedia ialah—
 
 (a) menjadikan Malaysia sebagai pusat dan tumpuan utama dunia bagi perkhidmatan komunikasi dan perkhidmatan maklumat dan kandungan multimedia;
 
@@ -646,7 +990,11 @@ lain (termasuklah suatu bangunan) yang disenggarakan oleh sesuatu syarikat pembe
 
 "penentuan" ertinya penentuan yang dibuat oleh Menteri di bawah seksyen 10, atau oleh Suruhanjaya di bawah seksyen 55;
 
-"pengarah" mempunyai erti yang diberikan kepadanya Akta 125. dalam Akta Syarikat 1965;
+"pengarah" mempunyai erti yang diberikan kepadanya
+
+<!-- marginal: Akta 125. -->
+
+dalam Akta Syarikat 1965;
 
 "penguntukan" ertinya penguntukan oleh Suruhanjaya hak untuk menggunakan spektrum, nombor atau alamat elektronik dan boleh termasuk syarat-syarat yang dengannya penjalanan hak sedemikian hendaklah tertakluk;
 
@@ -754,11 +1102,23 @@ mengeluarkan arahan kepada Suruhanjaya mengenai penjalanan kuasa Suruhanjaya dan
 
 (6) Sesuatu arahan hendaklah habis tempoh pada tarikh yang boleh dinyatakan oleh Menteri dalam surat cara bertulis itu atau, jika tiada tarikh dinyatakan, arahan itu hendaklah berkuat kuasa sehingga arahan itu dibatalkan.
 
-Perubahan 8. (1) Menteri boleh pada bila-bila masa arahan. mengubahsuaikan, mengubah atau membatalkan sesuatu arahan.
+<!-- marginal: Perubahan -->
+
+8. (1) Menteri boleh pada bila-bila masa
+
+<!-- marginal: arahan. -->
+
+mengubahsuaikan, mengubah atau membatalkan sesuatu arahan.
 
 (2) Tatacara yang dinyatakan dalam seksyen 7 hendaklah terpakai mutatis mutandis berkenaan dengan apa-apa pengubahsuaian, perubahan atau pembatalan sesuatu arahan.
 
-Daftar 9. Suruhanjaya hendaklah menyenggarakan suatu daftar arahan. semua arahan yang dikeluarkan oleh Menteri mengikut
+<!-- marginal: Daftar -->
+
+9. Suruhanjaya hendaklah menyenggarakan suatu daftar
+
+<!-- marginal: arahan. -->
+
+semua arahan yang dikeluarkan oleh Menteri mengikut
 
 ## Bab 6 Bahagian V.
 
@@ -766,9 +1126,13 @@ Daftar 9. Suruhanjaya hendaklah menyenggarakan suatu daftar arahan. semua arahan
 
 Penentuan Menteri
 
-Penentuan
+<!-- marginal: Penentuan -->
 
-10. (1) Menteri boleh, dari semasa ke semasa, oleh Menteri. menentukan apa-apa perkara yang dinyatakan dalam Akta ini sebagai tertakluk kepada penentuan Menteri, tanpa berunding dengan pemegang lesen atau sesiapa.
+10. (1) Menteri boleh, dari semasa ke semasa,
+
+<!-- marginal: oleh Menteri. -->
+
+menentukan apa-apa perkara yang dinyatakan dalam Akta ini sebagai tertakluk kepada penentuan Menteri, tanpa berunding dengan pemegang lesen atau sesiapa.
 
 (2) Apa-apa penentuan hendaklah selaras dengan matlamat dan peruntukan Akta ini yang berkaitan dengan perkara atau aktiviti yang tertentu itu.
 
@@ -850,9 +1214,7 @@ yang difikirkan patut oleh Menteri.
 
 <!-- marginal: Pengubahsuaian, -->
 
-14. (1) Menteri boleh
-
-<!-- marginal: pada bila-bila masa -->
+14. (1) Menteri boleh pada bila-bila masa
 
 <!-- marginal: perubahan -->
 
@@ -930,9 +1292,17 @@ III
 
 ## TRIBUNAL RAYUAN
 
-Penubuhan
+<!-- marginal: Penubuhan -->
 
-17. (1) Menteri boleh menubuhkan suatu Tribunal Tribunal Rayuan, yang hendaklah bermesyuarat atas dasar ad hoc, Rayuan. sebagaimana yang dianggap perlu atau suaimanfaat oleh
+17. (1) Menteri boleh menubuhkan suatu Tribunal
+
+<!-- marginal: Tribunal -->
+
+Rayuan, yang hendaklah bermesyuarat atas dasar ad hoc,
+
+<!-- marginal: Rayuan. -->
+
+sebagaimana yang dianggap perlu atau suaimanfaat oleh
 
 <!-- page 33 -->
 
@@ -994,9 +1364,19 @@ jika dia mempunyai pengetahuan mengenai atau pengalaman dalam—
 
 (e) pentadbiran awam.
 
-Peletakan
+<!-- marginal: Peletakan -->
 
-20. (1) Menteri boleh pada bila-bila masa menamatkan jawatan dan lantikan Pengerusi atau mana-mana anggota lain Tribunal penamatan Rayuan jika— lantikan.
+20. (1) Menteri boleh pada bila-bila masa menamatkan
+
+<!-- marginal: jawatan dan -->
+
+lantikan Pengerusi atau mana-mana anggota lain Tribunal
+
+<!-- marginal: penamatan -->
+
+Rayuan jika—
+
+<!-- marginal: lantikan. -->
 
 (a) dia meletakkan jawatannya;
 
@@ -1016,9 +1396,17 @@ Peletakan
 
 (2) Pengerusi atau mana-mana anggota boleh, pada bila-bila masa, meletakkan jawatannya dengan memberikan suatu notis bertulis kepada Menteri.
 
-Kekosongan
+<!-- marginal: Kekosongan -->
 
-21. (1) Jawatan Pengerusi atau mana-mana anggota jawatan dan Tribunal Rayuan hendaklah menjadi kosong jika— pelantikan pemangku.
+21. (1) Jawatan Pengerusi atau mana-mana anggota
+
+<!-- marginal: jawatan dan -->
+
+Tribunal Rayuan hendaklah menjadi kosong jika—
+
+<!-- marginal: pelantikan -->
+
+<!-- marginal: pemangku. -->
 
 (a) dia mati;
 
@@ -1086,11 +1474,21 @@ tatacara perjalanan Tribunal Rayuan, termasuklah tetapi tidak terhad kepada—
 
 (g) penggajian kakitangan, jika ada.
 
-Penggantungan 25. Menteri boleh, mengikut budi bicaranya, menggantung anggota. keanggotaan mana-mana anggota Tribunal Rayuan atas alasan perangai buruk atau ketakupayaan.
+<!-- marginal: Penggantungan -->
 
-Pendedahan
+25. Menteri boleh, mengikut budi bicaranya, menggantung
 
-26. (1) Seseorang anggota Tribunal Rayuan hendaklah kepentingan. mendedahkan, secepat yang dapat dilaksanakan, kepada Pengerusi apa-apa. kepentingan, sama ada penting atau tidak, yang mungkin bercanggah dengan tugas anggota itu sebagai anggota Tribunal, dalam sesuatu perkara tertentu.
+<!-- marginal: anggota. -->
+
+keanggotaan mana-mana anggota Tribunal Rayuan atas alasan perangai buruk atau ketakupayaan.
+
+<!-- marginal: Pendedahan -->
+
+26. (1) Seseorang anggota Tribunal Rayuan hendaklah
+
+<!-- marginal: kepentingan. -->
+
+mendedahkan, secepat yang dapat dilaksanakan, kepada Pengerusi apa-apa. kepentingan, sama ada penting atau tidak, yang mungkin bercanggah dengan tugas anggota itu sebagai anggota Tribunal, dalam sesuatu perkara tertentu.
 
 (2) Jika Pengerusi berpendapat bahawa kepentingan anggota itu bercanggah dengan tugas anggota itu, Pengerusi hendaklah memaklumkan semua pihak, termasuklah perayu dan responden, kepada perkara itu tentang percanggahan itu.
 
@@ -1162,9 +1560,17 @@ ini atau apa-apa tempoh lain yang boleh dinyatakan oleh Menteri, memberikan syor
 
 (c) sebab-sebab bagi syornya.
 
-Pemberian
+<!-- marginal: Pemberian -->
 
-30. (1) Menteri hendaklah mengambil kira dengan lesen sewajarnya syor Suruhanjaya yang diberikan di bawah individu. seksyen 29 sebelum membuat keputusan.
+30. (1) Menteri hendaklah mengambil kira dengan
+
+<!-- marginal: lesen -->
+
+sewajarnya syor Suruhanjaya yang diberikan di bawah
+
+<!-- marginal: individu. -->
+
+seksyen 29 sebelum membuat keputusan.
 
 (2) Menteri boleh, bertindak atas syor Suruhanjaya, melalui notis bertulis—
 
@@ -1172,11 +1578,7 @@ Pemberian
 
 (b) mengisytiharkan bahawa sesuatu lesen individu yang diberikan di bawah Bahagian ini adalah tertakluk kepada syarat-syarat khas atau tambahan.
 
-(3) Jika Menteri memberikan suatu lesen individu di bawah subseksyen (2), Suruhanjaya
-
-<!-- marginal: hendaklah -->
-
-memaklumkan pemohon melalui notis bertulis—
+(3) Jika Menteri memberikan suatu lesen individu di bawah subseksyen (2), Suruhanjaya hendaklah memaklumkan pemohon melalui notis bertulis—
 
 (a) bahawa lesen individu itu telah diberikan; dan
 
@@ -1186,9 +1588,7 @@ memaklumkan pemohon melalui notis bertulis—
 
 <!-- page 39 -->
 
-(5) Lesen individu yang diberikan di bawah subseksyen
-
-(2) adalah tertakluk kepada apa-apa kelulusan lain pihak berkuasa yang berkaitan, termasuklah Pihak Berkuasa Negeri, bagi peletakan, pembinaan atau penyenggaraan mana-mana kemudahan rangkaian di atas, melalui, di bawah, atau merentangi mana-mana tanah.
+(5) Lesen individu yang diberikan di bawah subseksyen (2) adalah tertakluk kepada apa-apa kelulusan lain pihak berkuasa yang berkaitan, termasuklah Pihak Berkuasa Negeri, bagi peletakan, pembinaan atau penyenggaraan mana-mana kemudahan rangkaian di atas, melalui, di bawah, atau merentangi mana-mana tanah.
 
 (6) Jika Menteri enggan memberikan suatu lesen individu kepada seseorang pemohon, Menteri hendaklah memberi pemohon itu suatu notis bertulis yang memaklumkannya—
 
@@ -1238,11 +1638,31 @@ mematuhi—
 
 (b) apa-apa syarat khas atau tambahan lesen individu itu sebagaimana yang diisytiharkan oleh Menteri dan dimasukkan dalam lesen individu itu.
 
-Pengubah-
+<!-- marginal: Pengubah- -->
 
-33. (1) Menteri boleh, pada bila-bila masa, melalui suaian, perisytiharan mengikut seksyen 13— perubahan atau pembatalan
+33. (1) Menteri boleh, pada bila-bila masa, melalui
 
-(a) mengubahsuaikan atau mengubah syarat-syarat syarat-syarat khas atau tambahan sesuatu lesen indiyidu yang lesen individu. sedia ada;
+<!-- marginal: suaian, -->
+
+perisytiharan mengikut seksyen 13—
+
+<!-- marginal: perubahan -->
+
+<!-- marginal: atau -->
+
+<!-- marginal: pembatalan -->
+
+(a) mengubahsuaikan atau mengubah syarat-syarat
+
+<!-- marginal: syarat-syarat -->
+
+khas atau tambahan sesuatu lesen indiyidu yang
+
+<!-- marginal: lesen -->
+
+<!-- marginal: individu. -->
+
+sedia ada;
 
 (b) membatalkan syarat-syarat khas atau tambahan sesuatu lesen individu yang sedia ada; atau
 
@@ -1250,9 +1670,17 @@ Pengubah-
 
 (2) Tatacara yang dinyatakan dalam seksyen 13 hendaklah terpakai mutatis mutandis bagi pengubahsuaian, perubahan atau pembatalan sesuatu syarat lesen di bawah seksyen ini.
 
-Pembaharuan
+<!-- marginal: Pembaharuan -->
 
-34. (1) Pemegang lesen boleh memohon bagi lesen pembaharuan sesuatu lesen individu tidak lewat daripada individu. enam puluh hari sebelum tarikh habis tempohnya.
+34. (1) Pemegang lesen boleh memohon bagi
+
+<!-- marginal: lesen -->
+
+pembaharuan sesuatu lesen individu tidak lewat daripada
+
+<!-- marginal: individu. -->
+
+enam puluh hari sebelum tarikh habis tempohnya.
 
 (2) Fi pembaharuan, yang hendaklah ditentukan oleh Menteri, hendaklah dibayar apabila permohonan itu diluluskan.
 
@@ -1298,17 +1726,49 @@ bertulis, menyerahkan lesen individunya kepada Menteri—
 
 sebelum tarikh itu Suruhanjaya, dengan notis secara bertulis kepada pemegang lesen itu, membenarkan penyerahan itu ditarik balik.
 
-Pindah
+<!-- marginal: Pindah -->
 
-36. (1) Pemberian sesuatu lesen individu hendaklah hakmilik bersifat peribadi untuk pemegang lesen dan lesen individu lesen individu atau itu tidaklah boleh diserahhakkan, disublesenkan atau penukaran dipindahkan hakmiliknya kepada mana-mana pihak lain pemunyaan. melainkan jika kelulusan bertulis Menteri telah diberikan terlebih dahulu.
+36. (1) Pemberian sesuatu lesen individu hendaklah
+
+<!-- marginal: hakmilik -->
+
+bersifat peribadi untuk pemegang lesen dan lesen individu
+
+<!-- marginal: lesen -->
+
+<!-- marginal: individu atau -->
+
+itu tidaklah boleh diserahhakkan, disublesenkan atau
+
+<!-- marginal: penukaran -->
+
+dipindahkan hakmiliknya kepada mana-mana pihak lain
+
+<!-- marginal: pemunyaan. -->
+
+melainkan jika kelulusan bertulis Menteri telah diberikan terlebih dahulu.
 
 (2) Menteri boleh meminta nasihat Suruhanjaya sebelum memberikan kelulusan di bawah subseksyen (1).
 
-Syor bagi 37. Menteri boleh, atas syor Suruhanjaya, melalui penggantungan atau perisytiharan mengikut seksyen 13, menggantung atau
+<!-- marginal: Syor bagi -->
 
-### pembatalan
+37. Menteri boleh, atas syor Suruhanjaya, melalui
 
-membatalkan sesuatu lesen individu yang diberikan di lesen individu. bawah Akta ini dalam mana-mana keadaan yang berikut:
+<!-- marginal: penggantungan -->
+
+<!-- marginal: atau -->
+
+perisytiharan mengikut seksyen 13, menggantung atau
+
+<!-- marginal: pembatalan -->
+
+membatalkan sesuatu lesen individu yang diberikan di
+
+<!-- marginal: lesen -->
+
+<!-- marginal: individu. -->
+
+bawah Akta ini dalam mana-mana keadaan yang berikut:
 
 (a) pemegang lesen itu telah tidak membayar apa- apa amaun yang dikehendaki oleh Akta ini atau lesen individu itu;
 
@@ -1320,7 +1780,23 @@ membatalkan sesuatu lesen individu yang diberikan di lesen individu. bawah Akta 
 
 (e) penggantungan atau pembatalan itu adalah demi kepentingan awam.
 
-Penggan- 38. (1) Menteri boleh, melalui perisytiharan mengikut tungan atau pembatalan seksyen 13, menggantung atau membatalkan sesuatu lesen iesen individu individu yang diberikan di bawah Bahagian ini dalam oleh Menteri. salah satu keadaan yang dinyatakan dalam seksyen 37.
+<!-- marginal: Penggan- -->
+
+38. (1) Menteri boleh, melalui perisytiharan mengikut
+
+<!-- marginal: tungan atau -->
+
+<!-- marginal: pembatalan -->
+
+seksyen 13, menggantung atau membatalkan sesuatu lesen
+
+<!-- marginal: iesen individu -->
+
+individu yang diberikan di bawah Bahagian ini dalam
+
+<!-- marginal: oleh Menteri. -->
+
+salah satu keadaan yang dinyatakan dalam seksyen 37.
 
 <!-- page 43 -->
 
@@ -1406,9 +1882,13 @@ pemegang lesen itu hendaklah dengan serta-merta berhenti memberikan apa-apa kemu
 
 (4) Tertakluk kepada subseksyen (2) dan (3), seseorang yang melanggar subseksyen (1) melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
 
-Daftar lesen
+<!-- marginal: Daftar lesen -->
 
-42. (1) Menteri hendaklah memberi Suruhanjaya satu Individu. salinan—
+42. (1) Menteri hendaklah memberi Suruhanjaya satu
+
+<!-- marginal: Individu. -->
+
+salinan—
 
 (a) apa-apa lesen individu yang diberikan di bawah Bahagian ini;
 
@@ -1462,19 +1942,57 @@ bakal pemegang lesen.
 
 Lesen Kelas
 
-Menteri 44. (1) Menteri boleh memberikan suatu lesen kelas boleh berkenaan dengan apa-apa perkara yang menghendaki memberikan lesen kelas. suatu lesen di bawah Akta ini.
+<!-- marginal: Menteri -->
+
+44. (1) Menteri boleh memberikan suatu lesen kelas
+
+<!-- marginal: boleh -->
+
+berkenaan dengan apa-apa perkara yang menghendaki
+
+<!-- marginal: memberikan -->
+
+<!-- marginal: lesen kelas. -->
+
+suatu lesen di bawah Akta ini.
 
 (2) Boleh dimasukkan dalam sesuatu lesen kelas yang diberikan di bawah subseksyen (1) syarat-syarat standard yang berkaitan sebagaimana yang dinyatakan dalam Jadual dan/atau apa-apa syarat standard lain yang boleh diisytiharkan oleh Menteri dari semasa ke semasa.
 
 (3) Menteri hendaklah memberikan satu salinan semua lesen kelas kepada Suruhanjaya secepat- yang dapat dilaksanakan dan Suruhanjaya hendaklah mendaftarkannya.
 
-Permohonan 45. (1) Seseorang yang berhasrat untuk menjalankan bagi urusan di bawah suatu lesen kelas hendaklah mendaftar pendaftaran. dengan Suruhanjaya dengan mengemukakan suatu notis pendaftaran kepada Suruhanjaya.
+<!-- marginal: Permohonan -->
+
+45. (1) Seseorang yang berhasrat untuk menjalankan
+
+<!-- marginal: bagi -->
+
+urusan di bawah suatu lesen kelas hendaklah mendaftar
+
+<!-- marginal: pendaftaran. -->
+
+dengan Suruhanjaya dengan mengemukakan suatu notis pendaftaran kepada Suruhanjaya.
 
 (2) Suatu fi pendaftaran, yang hendaklah ditentukan oleh Menteri melalui pemberitahuan dalam Warta, hendaklah dibayar oleh orang itu kepada Suruhanjaya setelah pendaftaran orang itu.
 
-Kehendak 46. Tertakluk kepada pengecualian yang diperuntukkan bagi dalam Akta ini, tiada seorang pun boleh menjalankan pendartaran. urusan di bawah mana-mana lesen kelas melainkan jika orang itu didaftarkan sewajarnya oleh Suruhanjaya.
+<!-- marginal: Kehendak -->
 
-Syor oleh 47. Suruhanjaya boleh memberikan suatu syor bertulis Suruhanjaya. kepada Menteri bahawa orang yang tertakluk kepada suatu lesen kelas di bawah Bahagian ini dibatalkan pendaftarannya dalam mana-mana keadaan yang berikut:
+46. Tertakluk kepada pengecualian yang diperuntukkan
+
+<!-- marginal: bagi -->
+
+dalam Akta ini, tiada seorang pun boleh menjalankan
+
+<!-- marginal: pendartaran. -->
+
+urusan di bawah mana-mana lesen kelas melainkan jika orang itu didaftarkan sewajarnya oleh Suruhanjaya.
+
+<!-- marginal: Syor oleh -->
+
+47. Suruhanjaya boleh memberikan suatu syor bertulis
+
+<!-- marginal: Suruhanjaya. -->
+
+kepada Menteri bahawa orang yang tertakluk kepada suatu lesen kelas di bawah Bahagian ini dibatalkan pendaftarannya dalam mana-mana keadaan yang berikut:
 
 (a) orang itu telah tidak membayar apa-apa amaun yang dikehendaki oleh Akta ini atau lesen itu;
 
@@ -1542,9 +2060,13 @@ mengenai semua notis pendaftaran yang diluluskan dan didaftarkan di bawah Akta i
 
 Arahan
 
-Arahan oleh
+<!-- marginal: Arahan oleh -->
 
-51. (1) Suruhanjaya boleh, dari semasa ke semasa, Suruhanjaya. mengeluarkan arahan secara bertulis kepada mana-mana orang berkenaan dengan pematuhan atau ketakpatuhan mana-mana syarat lesen, dan termasuklah tetapi tidak terhad kepada remedi sesuatu pelanggaran syarat lesen, dan peruntukan Akta ini atau perundangan subsidiarinya.
+51. (1) Suruhanjaya boleh, dari semasa ke semasa,
+
+<!-- marginal: Suruhanjaya. -->
+
+mengeluarkan arahan secara bertulis kepada mana-mana orang berkenaan dengan pematuhan atau ketakpatuhan mana-mana syarat lesen, dan termasuklah tetapi tidak terhad kepada remedi sesuatu pelanggaran syarat lesen, dan peruntukan Akta ini atau perundangan subsidiarinya.
 
 (2) Sebelum mengeluarkan sesuatu arahan di bawah subseksyen (1), Suruhanjaya hendaklah mengeluarkan suatu notis secara bertulis kepada orang itu dengan menyatakan jenis pematuhan yang dikehendaki.
 
@@ -1552,7 +2074,9 @@ Arahan oleh
 
 (4) Selepas habis tempoh notis yang dinyatakan dalam subseksyen (3), Suruhanjaya hendaklah mengambil kira apa-apa sebab yang diberikan oleh orang itu sebelum membuat keputusan berkenaan dengan tingkah laku atau aktiviti orang itu yang berkaitan.
 
-(5) Selepas menimbangkan dengan sewajarnya apa- apa sebab yang diberikan oleh orang itu, Suruhanjaya boleh mengeluarkan suatu arahan di bawah subseksyen (1) yang menghendaki orang itu mengambil tindakan tertentu yang bertujuan untuk memastikan bahawa orang itu tidak melanggar atau terus melanggar mana-mana syarat lesennya dan/atau mana-mana peruntukan Akta ini atau perundangan subsidiarinya.
+(5) Selepas menimbangkan dengan sewajarnya apa- apa sebab yang diberikan oleh orang itu, Suruhanjaya boleh mengeluarkan suatu arahan di bawah subseksyen
+
+(1) yang menghendaki orang itu mengambil tindakan tertentu yang bertujuan untuk memastikan bahawa orang itu tidak melanggar atau terus melanggar mana-mana syarat lesennya dan/atau mana-mana peruntukan Akta ini atau perundangan subsidiarinya.
 
 <!-- page 49 -->
 
@@ -1618,7 +2142,17 @@ semua arahan yang dikeluarkan oleh Suruhanjaya, termasuklah mana-mana surat cara
 
 Penentuan
 
-Penentuan 55. (1) Suruhanjaya boleh, dari semasa ke semasa, oleh menentukan apa-apa perkara yang dinyatakan dalam Akta Suruhanjaya. ini sebagai tertakluk kepada penentuan Suruhanjaya.
+<!-- marginal: Penentuan -->
+
+55. (1) Suruhanjaya boleh, dari semasa ke semasa,
+
+<!-- marginal: oleh -->
+
+menentukan apa-apa perkara yang dinyatakan dalam Akta
+
+<!-- marginal: Suruhanjaya. -->
+
+ini sebagai tertakluk kepada penentuan Suruhanjaya.
 
 (2) Suruhanjaya boleh menjalankan suatu siasatan untuk membuat keputusan sama ada sesuatu penentuan patut dibuat atau tidak, sama ada—
 
@@ -1708,17 +2242,41 @@ kepada arahan Menteri, mengadakan suatu siasatan awam mengenai apa-apa perkara y
 
 hanya jika Suruhanjaya berpuas hati bahawa perkara itu penting sama ada kepada orang ramai atau kepada pemegang lesen semasa atau bakal pemegang lesen di bawah Akta ini.
 
-Menggabung-
+<!-- marginal: Menggabung- -->
 
-59. Suruhanjaya boleh menggabungkan dua siasatan atau kan dua lebih ke dalam suatu siasatan tunggal. siasatan atau lebih. Penjalanan
+59. Suruhanjaya boleh menggabungkan dua siasatan atau
 
-60. (1) Sesuatu siasatan di bawah Bahagian ini siasatan. hendaklah dijalankan sebagaimana dan apabila difikirkan patut oleh Suruhanjaya.
+<!-- marginal: kan dua -->
+
+lebih ke dalam suatu siasatan tunggal.
+
+<!-- marginal: siasatan atau -->
+
+<!-- marginal: lebih. -->
+
+<!-- marginal: Penjalanan -->
+
+60. (1) Sesuatu siasatan di bawah Bahagian ini
+
+<!-- marginal: siasatan. -->
+
+hendaklah dijalankan sebagaimana dan apabila difikirkan patut oleh Suruhanjaya.
 
 (2) Suruhanjaya boleh, bagi tujuan suatu siasatan, menjalankan mana-mana atau semua kuasa penyiasatan dan pengumpulan maklumatnya di bawah Bab 4 dan 5 Bahagian ini.
 
-Siasatan
+<!-- marginal: Siasatan -->
 
-61. (1) Tertakluk kepada seksyen 62, jika Suruhanjaya hendaklah membuat keputusan untuk mengadakan suatu siasatan secara terbuka. terbuka atau diarahkan supaya mengadakan suatu siasatan terbuka, Suruhanjaya hendaklah menyiarkan, dengan cara yang difikirkannya sesuai, notis mengenai—
+61. (1) Tertakluk kepada seksyen 62, jika Suruhanjaya
+
+<!-- marginal: hendaklah -->
+
+membuat keputusan untuk mengadakan suatu siasatan
+
+<!-- marginal: secara -->
+
+<!-- marginal: terbuka. -->
+
+terbuka atau diarahkan supaya mengadakan suatu siasatan terbuka, Suruhanjaya hendaklah menyiarkan, dengan cara yang difikirkannya sesuai, notis mengenai—
 
 (a) hakikat bahawa Suruhanjaya mengadakan siasatan itu;
 
@@ -1786,7 +2344,15 @@ bersifat sulit, Suruhanjaya boleh mengarahkan supaya—
 
 <!-- page 54 -->
 
-64. (1) Jika sesuatu siasatan atau sebahagian daripada Arahan mengenai sesuatu siasatan diadakan secara tertutup, Suruhanjaya— siasatan.
+64. (1) Jika sesuatu siasatan atau sebahagian daripada
+
+<!-- marginal: Arahan -->
+
+<!-- marginal: mengenai -->
+
+sesuatu siasatan diadakan secara tertutup, Suruhanjaya—
+
+<!-- marginal: siasatan. -->
 
 (a) hendaklah memberikan arahan tentang orang yang boleh menghadiri siasatan atau sebahagian daripada siasatan itu; dan
 
@@ -1794,9 +2360,17 @@ bersifat sulit, Suruhanjaya boleh mengarahkan supaya—
 
 (2) Walau apa pun seksyen 53, seseorang yang tanpa alasan yang munasabah tidak mematuhi sesuatu arahan yang diberikan di bawah subseksyen (1) adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi dua puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua- duanya.
 
-Laporan
+<!-- marginal: Laporan -->
 
-65. (1) Suruhanjaya hendaklah menyiarkan suatu mengenai laporan, yang menyatakan dapatannya hasil daripada apa- siasatan. apa siasatan yang dijalankan olehnya.
+65. (1) Suruhanjaya hendaklah menyiarkan suatu
+
+<!-- marginal: mengenai -->
+
+laporan, yang menyatakan dapatannya hasil daripada apa-
+
+<!-- marginal: siasatan. -->
+
+apa siasatan yang dijalankan olehnya.
 
 (2) Suruhanjaya hendaklah menyiarkan laporan itu dalam masa tiga puluh hari dari tamatnya siasatan itu.
 
@@ -1890,9 +2464,13 @@ maka menjadi tugas Suruhanjaya untuk mengambil langkah yang munasabah untuk memb
 
 (5) Jika Suruhanjaya membuat keputusan untuk tidak menyiasat, atau untuk tidak menyiasat seterusnya, sesuatu perkara yang berkaitan dengan aduan itu, Suruhanjaya hendaklah secepat yang dapat dilaksanakan dan dengan apa-apa cara yang difikirkannya patut, memaklumkan pengadu dan responden mengenai keputusan itu dan sebab- sebab bagi keputusan itu,
 
-Penjalanan
+<!-- marginal: Penjalanan -->
 
-70. (1) Sebelum memulakan penyiasatan mengenai penyiasatan. sesuatu perkara yang berkaitan dengan aduan itu, Suruhanjaya hendaklah memberitahu responden bahawa perkara itu akan disiasat.
+70. (1) Sebelum memulakan penyiasatan mengenai
+
+<!-- marginal: penyiasatan. -->
+
+sesuatu perkara yang berkaitan dengan aduan itu, Suruhanjaya hendaklah memberitahu responden bahawa perkara itu akan disiasat.
 
 (2) Suatu penyiasatan di bawah Bahagian ini hendaklah dijalankan sebagaimana yang difikirkan patut oleh Suruhanjaya.
 
@@ -1942,7 +2520,13 @@ menyiarkan suatu laporan mengenai sesuatu penyiasatan jika Menteri berpuas hati 
 
 Kuasa Untuk Mengumpul Maklumat
 
-Pemberian 73, (1) Seksyen ini terpakai bagi mana-mana orang jika maklumat. Suruhanjaya mempunyai sebab untuk mempercayai bahawa orang itu—
+<!-- marginal: Pemberian -->
+
+73, (1) Seksyen ini terpakai bagi mana-mana orang jika
+
+<!-- marginal: maklumat. -->
+
+Suruhanjaya mempunyai sebab untuk mempercayai bahawa orang itu—
 
 (a) mempunyai apa-apa maklumat (termasuklah tetapi tidak terhad kepada akaun dan rekod) atau apa-apa dokumen yang berkaitan dengan pelaksanaan kuasa dan fungsi Suruhanjaya di bawah Akta ini atau perundangan subsidiarinya; atau
 
@@ -1972,15 +2556,73 @@ apa-apa keterangan sedemikian, sama ada secara lisan atau bertulis, dan mengemuk
 
 <!-- page 60 -->
 
-Kesalahan 74. Walau apa pun seksyen 53, seseorang yang tidak kerana tidak mematuhi sesuatu arahan Suruhanjaya di bawah Bab ini patuh. adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi dua puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya.
+<!-- marginal: Kesalahan -->
 
-Kesalahan 75. Walau apa pun seksyen 53, seseorang yang tidak kerana mendedahkan atau tidak memberikan apa-apa maklumat memberikan maklumat, atau keterangan atau dokumen yang berkaitan, atau keterangan memberikan maklumat atau keterangan atau dokumen atau yang dia tahu atau mempunyai sebab untuk percaya adalah dokumen, dll. palsu atau palsu atau mengelirukan, sebagai gerak balas kepada suatu mengelirukan. arahan yang dikeluarkan oleh Suruhanjaya adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi dua puluh ribu ringgit.
+74. Walau apa pun seksyen 53, seseorang yang tidak
 
-Bukti 76. (1) Seseorang hendaklah, jika pada bila-bila masa pematuhan. dipanggil secara bertulis oleh Suruhanjaya supaya berbuat demikian, mengemukakan kepada Suruhanjaya segala bukti dan memberikan segala maklumat yang dipunya oleh orang itu berkenaan dengan pematuhannya dengan mana- mana peruntukan Akta ini atau perundangan subsidiarinya, sebagaimana yang dikehendaki oleh Suruhanjaya secara am, atau berhubung dengan mana-mana hal tertentu.
+<!-- marginal: kerana tidak -->
+
+mematuhi sesuatu arahan Suruhanjaya di bawah Bab ini
+
+<!-- marginal: patuh. -->
+
+adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi dua puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya.
+
+<!-- marginal: Kesalahan -->
+
+75. Walau apa pun seksyen 53, seseorang yang tidak
+
+<!-- marginal: kerana -->
+
+mendedahkan atau tidak memberikan apa-apa maklumat
+
+<!-- marginal: memberikan -->
+
+<!-- marginal: maklumat, -->
+
+atau keterangan atau dokumen yang berkaitan, atau
+
+<!-- marginal: keterangan -->
+
+memberikan maklumat atau keterangan atau dokumen
+
+<!-- marginal: atau -->
+
+yang dia tahu atau mempunyai sebab untuk percaya adalah
+
+<!-- marginal: dokumen, dll. -->
+
+<!-- marginal: palsu atau -->
+
+palsu atau mengelirukan, sebagai gerak balas kepada suatu
+
+<!-- marginal: mengelirukan. -->
+
+arahan yang dikeluarkan oleh Suruhanjaya adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi dua puluh ribu ringgit.
+
+<!-- marginal: Bukti -->
+
+76. (1) Seseorang hendaklah, jika pada bila-bila masa
+
+<!-- marginal: pematuhan. -->
+
+dipanggil secara bertulis oleh Suruhanjaya supaya berbuat demikian, mengemukakan kepada Suruhanjaya segala bukti dan memberikan segala maklumat yang dipunya oleh orang itu berkenaan dengan pematuhannya dengan mana- mana peruntukan Akta ini atau perundangan subsidiarinya, sebagaimana yang dikehendaki oleh Suruhanjaya secara am, atau berhubung dengan mana-mana hal tertentu.
 
 (2) Peruntukan subseksyen (1) tidaklah menjejaskan mana-mana kuasa lain yang diberikan kepada Suruhanjaya di bawah Akta ini.
 
-Suruhanjaya 77. (1) Suruhanjaya boleh mengambil, dan menyimpan boleh selama tempoh yang perlu, milikan sesuatu dokumen yang menyimpan dokumen. dikemukakan di bawah Bab ini.
+<!-- marginal: Suruhanjaya -->
+
+77. (1) Suruhanjaya boleh mengambil, dan menyimpan
+
+<!-- marginal: boleh -->
+
+selama tempoh yang perlu, milikan sesuatu dokumen yang
+
+<!-- marginal: menyimpan -->
+
+<!-- marginal: dokumen. -->
+
+dikemukakan di bawah Bab ini.
 
 (2) Orang yang jika tidak kerana itu adalah berhak kepada milikan dokumen itu berhak dibekali, secepat yang dapat dilaksanakan, suatu salinan yang diperakui oleh Suruhanjaya sebagai salinan yang benar.
 
@@ -2048,15 +2690,45 @@ daftar, dalam bentuk fizikal dan elektronik kedua-duanya, semua perkara yang dik
 
 Pemberitahuan Dan Penyelesaian Pertikaian
 
-Pertikaian. 82. (1) Sesuatu pertikaian antara dua orang atau lebih ("pihak-pihak") berkenaan dengari apa-apa perkara di bawah Akta ini atau perundangan subsidiarinya hendaklah mula-mula cuba diselesaikan melalui perundingan antara pihak-pihak itu.
+<!-- marginal: Pertikaian. -->
+
+82. (1) Sesuatu pertikaian antara dua orang atau lebih ("pihak-pihak") berkenaan dengari apa-apa perkara di bawah Akta ini atau perundangan subsidiarinya hendaklah mula-mula cuba diselesaikan melalui perundingan antara pihak-pihak itu.
 
 (2) Jika salah seorang daripada pihak-pihak kepada pertikaian itu telah memberikan suatu aku janji yang berkaitan.dengan hal perkara pertikaian itu dan aku janji itu telah didaftarkan oleh Suruhanjaya mengikut Bab 11 Bahagian ini, pihak-pihak itu boleh menerima pakai syarat aku janji itu bagi maksud penyelesaian pertikaian itu.
 
 (3) Jika pihak-pihak kepada pertikaian itu tidak dapat atau selainnya gagal untuk mencapai suatu persetujuan, dan tiada aku janji yang berkaitan telah didaftarkan, atau jika salah seorang daripada pihak-pihak kepada pertikaian itu tidak mahu menerima pakai syarat-syarat aku janji itu, pihak-pihak itu boleh meminta pertikaian itu diselesaikan oleh Suruhanjaya, jika Akta ini atau perundangan subsidiarinya dengan jelas mengadakan peruntukan bagi penyelesaian sedemikian.
 
-Pemberitahu- 83. Sesuatu pihak kepada suatu pertikaian boleh, secara an mengenai bertulis, memberitahu Suruhanjaya mengenai pertikaian pertikaian. itu.
+<!-- marginal: Pemberitahu- -->
 
-Suruhanjaya 84. Tertakluk kepada seksyen 83, Suruhanjaya hanya hendaklah boleh menyelesaikan sesuatu pertikaian di bawah Bab bertindak hanya ini jika Suruhanjaya diberitahu secara bertulis mengenai apabila pertikaian itu. diberitahu.
+83. Sesuatu pihak kepada suatu pertikaian boleh, secara
+
+<!-- marginal: an mengenai -->
+
+bertulis, memberitahu Suruhanjaya mengenai pertikaian
+
+<!-- marginal: pertikaian. -->
+
+itu.
+
+<!-- marginal: Suruhanjaya -->
+
+84. Tertakluk kepada seksyen 83, Suruhanjaya hanya
+
+<!-- marginal: hendaklah -->
+
+boleh menyelesaikan sesuatu pertikaian di bawah Bab
+
+<!-- marginal: bertindak -->
+
+<!-- marginal: hanya -->
+
+ini jika Suruhanjaya diberitahu secara bertulis mengenai
+
+<!-- marginal: apabila -->
+
+pertikaian itu.
+
+<!-- marginal: diberitahu. -->
 
 <!-- page 63 -->
 
@@ -2102,7 +2774,9 @@ untuk membuat keputusan tentang pertikaian itu.
 
 <!-- marginal: diberitahukan. -->
 
-(2) Suruhanjaya hendaklah terikat di bawah subseksyen (1) untuk bermesyuarat bagi membuat keputusan tentang sesuatu pertikaian jika Suruhanjaya berpuas hati bahawa—
+(2) Suruhanjaya hendaklah terikat di bawah subseksyen
+
+(1) untuk bermesyuarat bagi membuat keputusan tentang sesuatu pertikaian jika Suruhanjaya berpuas hati bahawa—
 
 (a) suatu persetujuan tidak akan dicapai, atau tidak akan dicapai dalam tempoh masa yang munasabah;
 
@@ -2152,7 +2826,13 @@ keputusan yang dibuatnya di bawah Bab ini, mengikut
 
 tetapi tidak terma dan syarat keputusan itu.
 
-Penguat- 89. (1) Suruhanjaya boleh mengarahkan suatu pihak kuasaan. kepada sesuatu pertikaian supaya mematuhi keputusan Suruhanjaya dalam pertikaian itu.
+<!-- marginal: Penguat- -->
+
+89. (1) Suruhanjaya boleh mengarahkan suatu pihak
+
+<!-- marginal: kuasaan. -->
+
+kepada sesuatu pertikaian supaya mematuhi keputusan Suruhanjaya dalam pertikaian itu.
 
 (2) Sesuatu keputusan yang dibuat oleh Suruhanjaya di bawah Bab ini boleh dikuatkuasakan oleh Mahkamah Tinggi seolah-olah keputusan itu merupakan suatu penghakiman Mahkamah itu dengan syarat suatu perakuan telah dikeluarkan oleh Suruhanjaya kepada pengadu bagi memberinya kebenaran untuk meneruskan tindakan di Mahkamah bagi penguatkuasaan keputusan itu kecuali dalam hal suatu injunksi.
 
@@ -2162,11 +2842,35 @@ Penguat- 89. (1) Suruhanjaya boleh mengarahkan suatu pihak kuasaan. kepada sesua
 
 Penda/taran Perjanjian
 
-Permohonan 90. Pihak-pihak kepada suatu perjanjian bertulis bagi hendaklah memohon kepada Suruhanjaya bagi pendaftaran pendaftaran perjanjian. perjanjian itu, jika Akta ini menghendaki pendaftaran itu.
+<!-- marginal: Permohonan -->
 
-Bila
+90. Pihak-pihak kepada suatu perjanjian bertulis
 
-91. Suruhanjaya hendaklah mendaftarkan perjanjian Suruhanjaya bertulis itu jika Suruhanjaya berpuas hati bahawa perjanjian hendaklah mendaftarkan itu selaras dengan— perjanjian itu.
+<!-- marginal: bagi -->
+
+hendaklah memohon kepada Suruhanjaya bagi pendaftaran
+
+<!-- marginal: pendaftaran -->
+
+<!-- marginal: perjanjian. -->
+
+perjanjian itu, jika Akta ini menghendaki pendaftaran itu.
+
+<!-- marginal: Bila -->
+
+91. Suruhanjaya hendaklah mendaftarkan perjanjian
+
+<!-- marginal: Suruhanjaya -->
+
+bertulis itu jika Suruhanjaya berpuas hati bahawa perjanjian
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: mendaftarkan -->
+
+itu selaras dengan—
+
+<!-- marginal: perjanjian itu. -->
 
 (a) matlamat Akta ini;
 
@@ -2220,9 +2924,13 @@ tetapi tidak terma dan syarat perjanjian itu.
 
 Kod Industri Sukarela
 
-Forum
+<!-- marginal: Forum -->
 
-94. (1) Suruhanjaya boleh menetapkan suatu badan industri. industri menjadi suatu forum industri bagi maksud Akta ini dengan memberitahu badan itu secara bertulis, jika Suruhanjaya berpuas hati bahawa—
+94. (1) Suruhanjaya boleh menetapkan suatu badan
+
+<!-- marginal: industri. -->
+
+industri menjadi suatu forum industri bagi maksud Akta ini dengan memberitahu badan itu secara bertulis, jika Suruhanjaya berpuas hati bahawa—
 
 (a) keanggotaan badan itu terbuka kepada semua pihak yang berkaitan;
 
@@ -2236,9 +2944,17 @@ Forum
 
 (4) Sesuatu penetapan atau penarikan balik penetapan di bawah seksyen ini hendaklah berkuat kuasa mulai tarikh pendaftaran, atau pada suatu tarikh selepas itu yang dinyatakan.
 
-Kod oleh
+<!-- marginal: Kod oleh -->
 
-95. (1) Sesuatu forum industri boleh menyediakan kod forum industri sukarela berkenaan dengan apa-apa perkara yang industri. diperuntukkan dalam Akta ini—
+95. (1) Sesuatu forum industri boleh menyediakan kod
+
+<!-- marginal: forum -->
+
+industri sukarela berkenaan dengan apa-apa perkara yang
+
+<!-- marginal: industri. -->
+
+diperuntukkan dalam Akta ini—
 
 (a) atas daya usahanya sendiri; atau
 
@@ -2290,9 +3006,17 @@ di bawah seksyen yang berkenaan dalam Akta ini; dan
 
 (3) Kod industri sukarela hendaklah hanya berkuat kuasa setelah didaftarkan.
 
-Kod industri
+<!-- marginal: Kod industri -->
 
-97. (1) Suruhanjaya hendaklah memastikan bahawa sukarela yang hanya terdapat satu kod industri sukarela yang berkuat terpakai. kuasa yang terpakai bagi suatu perkara tertentu bagi orang atau kelas orang tertentu pada suatu masa tertentu.
+97. (1) Suruhanjaya hendaklah memastikan bahawa
+
+<!-- marginal: sukarela yang -->
+
+hanya terdapat satu kod industri sukarela yang berkuat
+
+<!-- marginal: terpakai. -->
+
+kuasa yang terpakai bagi suatu perkara tertentu bagi orang atau kelas orang tertentu pada suatu masa tertentu.
 
 (2) Jika terdapat apa-apa ketidakpastian atau ketaksaan, seseorang boleh memohon kepada Suruhanjaya supaya diberi pendapat Suruhanjaya, tentang kod industri sukarela yang manakah yang menjadi kod yang terpakai berhubung dengan hal keadaan pemohon itu.
 
@@ -2394,17 +3118,35 @@ kod industri sukarela yang sedia ada bagi industri itu.
 
 memperkatakan perkara yang sama sebagaimana suatu kod berdaftar yang sedia ada, kod berdaftar yang sedia ada itu dianggap tidak sah setakat apa-apa percanggahan dengan kod baru itu pada masa kod baru itu didaftarkan di bawah seksyen 95.
 
-Daftar kod
+<!-- marginal: Daftar kod -->
 
-103. Suruhanjaya hendaklah menyenggarakan suatu daftar industri semua kod industri sukarela semasa, mengikut Bab 6 sukarela semasa. Bahagian ini.
+103. Suruhanjaya hendaklah menyenggarakan suatu daftar
+
+<!-- marginal: industri -->
+
+semua kod industri sukarela semasa, mengikut Bab 6
+
+<!-- marginal: sukarela -->
+
+<!-- marginal: semasa. -->
+
+Bahagian ini.
 
 ## Bab 10
 
 Standard Mandatori
 
-Penentuan
+<!-- marginal: Penentuan -->
 
-104. Suruhanjaya boleh menentukan suatu standard standard mandatori bagi apa-apa perkara yang mungkin menjadi mandatori. hal perkara suatu kod industri sukarela jika Suruhanjaya berpuas hati bahawa kod industri sukarela itu telah gagal, dan akan terus gagal, untuk menggalakkan urusan industri yang selaras dengan—
+104. Suruhanjaya boleh menentukan suatu standard
+
+<!-- marginal: standard -->
+
+mandatori bagi apa-apa perkara yang mungkin menjadi
+
+<!-- marginal: mandatori. -->
+
+hal perkara suatu kod industri sukarela jika Suruhanjaya berpuas hati bahawa kod industri sukarela itu telah gagal, dan akan terus gagal, untuk menggalakkan urusan industri yang selaras dengan—
 
 (a) matlamat Akta ini;
 
@@ -2496,13 +3238,39 @@ mandatori.
 
 <!-- page 72 -->
 
-Pematuhan
+<!-- marginal: Pematuhan -->
 
-108. Pematuhan suatu staridard mandatori hendaklah standard menjadi suatu pembelaan terhadap mana-mana mandatori suatu pendakwaan, tindakan atau prosiding daripada apa-apa pembelaan jenis, sama ada dalam mahkamah atau selainnya, yang yang sah. diambil terhadap seseorang (yang tertakluk kepada standard mandatori itu) berkenaan dengan suatu perkara yang diperkatakan dalam standard mandatori itu.
+108. Pematuhan suatu staridard mandatori hendaklah
 
-Penalti sivil
+<!-- marginal: standard -->
 
-109. (1) Walau apa pun seksyen 53, seseorang yang bagi tidak mematuhi sesuatu arahan Suruhanjaya supaya orang ketakpatuhan. itu mematuhi mana-mana peruntukan suatu standard mandatori boleh kena membayar kepada Suruhanjaya suatu denda tidak melebihi dua ratus ribu ringgit.
+menjadi suatu pembelaan terhadap mana-mana
+
+<!-- marginal: mandatori -->
+
+<!-- marginal: suatu -->
+
+pendakwaan, tindakan atau prosiding daripada apa-apa
+
+<!-- marginal: pembelaan -->
+
+jenis, sama ada dalam mahkamah atau selainnya, yang
+
+<!-- marginal: yang sah. -->
+
+diambil terhadap seseorang (yang tertakluk kepada standard mandatori itu) berkenaan dengan suatu perkara yang diperkatakan dalam standard mandatori itu.
+
+<!-- marginal: Penalti sivil -->
+
+109. (1) Walau apa pun seksyen 53, seseorang yang
+
+<!-- marginal: bagi -->
+
+tidak mematuhi sesuatu arahan Suruhanjaya supaya orang
+
+<!-- marginal: ketakpatuhan. -->
+
+itu mematuhi mana-mana peruntukan suatu standard mandatori boleh kena membayar kepada Suruhanjaya suatu denda tidak melebihi dua ratus ribu ringgit.
 
 (2) Walau apa pun peruntukan mana-mana undang- undang bertulis lain, denda yang kena dibayar di bawah seksyen ini boleh didapatkan, tanpa menjejaskan apa- apa remedi atau sanksi lain, sebagai suatu hutang sivil.
 
@@ -2510,9 +3278,17 @@ Penalti sivil
 
 Aku Janji
 
-Aku janji
+<!-- marginal: Aku janji -->
 
-110. (1) Seseorang boleh memberikan suatu aku janji oleh kepada Suruhanjaya berkenaan dengan apa-apa perkara seseorang. yang mungkin menjadi hal perkara suatu kod industri sukarela di bawah Akta ini atau yang baginya Akta membuat peruntukan nyata.
+110. (1) Seseorang boleh memberikan suatu aku janji
+
+<!-- marginal: oleh -->
+
+kepada Suruhanjaya berkenaan dengan apa-apa perkara
+
+<!-- marginal: seseorang. -->
+
+yang mungkin menjadi hal perkara suatu kod industri sukarela di bawah Akta ini atau yang baginya Akta membuat peruntukan nyata.
 
 (2) Suatu aku janji yang diberikan oleh seseorang di bawah subseksyen (1) boleh—
 
@@ -2522,9 +3298,13 @@ Aku janji
 
 dan aku janji itu boleh termasuk tarikh kuat kuasa aku janji itu dan/atau tarikh habis tempohnya.
 
-Pendaftaran
+<!-- marginal: Pendaftaran -->
 
-111. (1) Suatu aku janji yang diberikan di bawah Bab aku janji. ini hendaklah hanya sah dan boleh dikuatkuasakan setelah didaftarkan.
+111. (1) Suatu aku janji yang diberikan di bawah Bab
+
+<!-- marginal: aku janji. -->
+
+ini hendaklah hanya sah dan boleh dikuatkuasakan setelah didaftarkan.
 
 <!-- page 73 -->
 
@@ -2556,27 +3336,65 @@ Pendaftaran
 
 (8) Suatu aku janji yang diberikan di bawah Bab ini hendaklah hanya berkuat kuasa pada tarikh pendaftaran atau pada suatu tarikh selepas itu yang boleh dinyatakan dalam aku janji itu.
 
-Kaedah-
+<!-- marginal: Kaedah- -->
 
-112. (1) Menteri boleh membuat kaedah-kaedah, yang kaedah hendaklah disiarkan dalam Warta, berkenaan dengan aku berkenaan janji dan kaedah-kaedah itu hendaklah mengikat pihak dengan aku janji. yang membuat aku janji itu dan semua orang lain yang bergantung pada aku janji itu seolah-olah aku janji itu ditandatangani oleh setiap orang masing-masing dan mengandungi perjanjian pada pihak setiap orang bagi dirinya sendiri dan bagi penggantinya untuk mematuhi semua peruntukan kaedah-kaedah itu.
+112. (1) Menteri boleh membuat kaedah-kaedah, yang
+
+<!-- marginal: kaedah -->
+
+hendaklah disiarkan dalam Warta, berkenaan dengan aku
+
+<!-- marginal: berkenaan -->
+
+janji dan kaedah-kaedah itu hendaklah mengikat pihak
+
+<!-- marginal: dengan aku -->
+
+<!-- marginal: janji. -->
+
+yang membuat aku janji itu dan semua orang lain yang bergantung pada aku janji itu seolah-olah aku janji itu ditandatangani oleh setiap orang masing-masing dan mengandungi perjanjian pada pihak setiap orang bagi dirinya sendiri dan bagi penggantinya untuk mematuhi semua peruntukan kaedah-kaedah itu.
 
 (2) Suruhanjaya boleh mengarahkan seseorang yang disebut dalam subseksyen (1) supaya mematuhi kaedah- kaedah yang dibuat di bawah subseksyen (1) dan mana- mana aku janji berdaftar yang dikeluarkan di bawah Bab ini.
 
-Penarikan
+<!-- marginal: Penarikan -->
 
-113. Seseorang yang memberikan suatu aku janji boleh balik aku menarik balik aku janji itu pada bila-bila masa dengan janji. memberitahu Suruhanjaya secara bertulis.
+113. Seseorang yang memberikan suatu aku janji boleh
 
-Penggantian
+<!-- marginal: balik aku -->
 
-114. Jika seseorang mengemukakan kepada Suruhanjaya aku janji. suatu aku janji baru yang memperkatakan perkara yang sama sebagaimana suatu aku janji berdaftar yang sedia ada yang diberikan oleh orang itu, aku janji berdaftar yang sedia ada itu dianggap tidak sah setakat apa-apa percanggahan dengan aku janji baru itu pada masa akujanji baru itu didaftarkan di bawah seksyen 111.
+menarik balik aku janji itu pada bila-bila masa dengan
 
-Daftar aku
+<!-- marginal: janji. -->
 
-115. Suruhanjaya hendaklah menyenggarakan suatu daftar janji. semua aku janji yang sedia ada, mengikut Bab 6.
+memberitahu Suruhanjaya secara bertulis.
 
-Penguat-
+<!-- marginal: Penggantian -->
 
-116. (1) Tertakluk kepada subseksyen (2), Suruhanjaya kuasaan aku atau seseorang boleh memohon kepada mahkamah bagi janji. penguatkuasaan suatu aku janji berdaftar terhadap orang yang memberikan aku janji itu jika sesuatu aku janji tidak dipatuhi.
+114. Jika seseorang mengemukakan kepada Suruhanjaya
+
+<!-- marginal: aku janji. -->
+
+suatu aku janji baru yang memperkatakan perkara yang sama sebagaimana suatu aku janji berdaftar yang sedia ada yang diberikan oleh orang itu, aku janji berdaftar yang sedia ada itu dianggap tidak sah setakat apa-apa percanggahan dengan aku janji baru itu pada masa akujanji baru itu didaftarkan di bawah seksyen 111.
+
+<!-- marginal: Daftar aku -->
+
+115. Suruhanjaya hendaklah menyenggarakan suatu daftar
+
+<!-- marginal: janji. -->
+
+semua aku janji yang sedia ada, mengikut Bab 6.
+
+<!-- marginal: Penguat- -->
+
+116. (1) Tertakluk kepada subseksyen (2), Suruhanjaya
+
+<!-- marginal: kuasaan aku -->
+
+atau seseorang boleh memohon kepada mahkamah bagi
+
+<!-- marginal: janji. -->
+
+penguatkuasaan suatu aku janji berdaftar terhadap orang yang memberikan aku janji itu jika sesuatu aku janji tidak dipatuhi.
 
 <!-- page 75 -->
 
@@ -2612,7 +3430,13 @@ mengarahkan Suruhanjaya supaya meninggalkan pemakaian mana-mana peruntukan Akta 
 
 (2) Arahan oleh Menteri hendaklah dibuat mengikut seksyen 7.
 
-Penentuan 118. (1) Menteri hendaklah menimbangkan syor bertulis oleh Menteri. Suruhanjaya sebelum membuat penentuan, mengikut seksyen 10, untuk meninggalkan pemakaian peruntukan yang berkaitan dalam Akta ini atau perundangan subsidiarinya.
+<!-- marginal: Penentuan -->
+
+118. (1) Menteri hendaklah menimbangkan syor bertulis
+
+<!-- marginal: oleh Menteri. -->
+
+Suruhanjaya sebelum membuat penentuan, mengikut seksyen 10, untuk meninggalkan pemakaian peruntukan yang berkaitan dalam Akta ini atau perundangan subsidiarinya.
 
 (2) Menteri hendaklah memberikan suatu notis bertulis secepat yang dapat dilaksanakan mengenai penentuannya tentang sama ada hendak meninggalkan pemakaian peruntukan sedemikian dan sebab bagi penentuannya.
 
@@ -2624,9 +3448,17 @@ Penentuan 118. (1) Menteri hendaklah menimbangkan syor bertulis oleh Menteri. Su
 
 Kajian Setnula Keputusan
 
-Kajian
+<!-- marginal: Kajian -->
 
-119. (1) Seseorang yang terkilan dengan atau yang semula oleh kepentingannya dimudaratkan oleh raana-mana keputusan Suruhanjaya. Suruhanjaya yang dibuat menurut pelaksanaan kuasa dan fungsinya di bawah Akta ini atau perundangan subsidiarinya boleh meminta secara bertulis kepada Suruhanjaya bagi mendapatkan suatu pernyataan sebab- sebab bagi keputusan itu.
+119. (1) Seseorang yang terkilan dengan atau yang
+
+<!-- marginal: semula oleh -->
+
+kepentingannya dimudaratkan oleh raana-mana keputusan
+
+<!-- marginal: Suruhanjaya. -->
+
+Suruhanjaya yang dibuat menurut pelaksanaan kuasa dan fungsinya di bawah Akta ini atau perundangan subsidiarinya boleh meminta secara bertulis kepada Suruhanjaya bagi mendapatkan suatu pernyataan sebab- sebab bagi keputusan itu.
 
 (2) Suruhanjaya hendaklah, apabila dibuat permintaan bertulis sedemikian, memberikan satu salinan pernyataan sebab-sebab bagi keputusan itu dan apa-apa maklumat yang berkaitan yang diambil kira dalam membuat keputusan itu dalam tempoh tidak lebih dari tiga puluh hari dari tarikh penerimaan permintaan itu oleh Suruhanjaya.
 
@@ -2678,9 +3510,25 @@ boleh memohon kepada mahkamah bagi suatu kajian semula kehakiman mengenai keputu
 
 Kajian Semula Peraturan
 
-Kajian
+<!-- marginal: Kajian -->
 
-122. (1) Suruhanjaya hendaklah mengkaji semula semua semula kaedah dan peraturan yang dibuat di bawah Akta ini perundangan subsidiari yang berkuat kuasa pada masa kajian semula itu. oleh Suruhanjaya. (2) Suatu kajian semula kaedah-kaedah dan peraturan- peraturan hendaklah dijalankan oleh Suruhanjaya—
+122. (1) Suruhanjaya hendaklah mengkaji semula semua
+
+<!-- marginal: semula -->
+
+kaedah dan peraturan yang dibuat di bawah Akta ini
+
+<!-- marginal: perundangan -->
+
+<!-- marginal: subsidiari -->
+
+yang berkuat kuasa pada masa kajian semula itu.
+
+<!-- marginal: oleh -->
+
+<!-- marginal: Suruhanjaya. -->
+
+(2) Suatu kajian semula kaedah-kaedah dan peraturan- peraturan hendaklah dijalankan oleh Suruhanjaya—
 
 (a) tiga tahun sekali; atau
 
@@ -2698,9 +3546,27 @@ Kajian
 
 Pengawasan dan Pelaporan
 
-Laporan
+<!-- marginal: Laporan -->
 
-123. (1) Suruhanjaya hendaklah mengawasi semua kepada perkara penting berhubung dengan prestasi pemberi Menteri mengenai kemudahan rangkaian, pemberi perkhidmatan rangkaian, prestasi pemberi perkhidmatan aplikasi dan pemberi aplikasi industri. kandungan dan membuat laporan kepada Menteri pada akhir setiap tahun kewangan.
+123. (1) Suruhanjaya hendaklah mengawasi semua
+
+<!-- marginal: kepada -->
+
+perkara penting berhubung dengan prestasi pemberi
+
+<!-- marginal: Menteri -->
+
+<!-- marginal: mengenai -->
+
+kemudahan rangkaian, pemberi perkhidmatan rangkaian,
+
+<!-- marginal: prestasi -->
+
+pemberi perkhidmatan aplikasi dan pemberi aplikasi
+
+<!-- marginal: industri. -->
+
+kandungan dan membuat laporan kepada Menteri pada akhir setiap tahun kewangan.
 
 <!-- page 79 -->
 
@@ -2760,15 +3626,33 @@ dilaksanakan selepas tarikh Suruhanjaya menyampaikan laporan itu kepada Menteri.
 
 Pelesenan
 
-Pelesenan
+<!-- marginal: Pelesenan -->
 
-126. (1) Tertakluk kepada apa-apa pengecualian yang kemudahan boleh ditentukan oleh Menteri melalui perintah yang rangkaian, perkhidmatan disiarkan dalam Warta, tiada seorang pun boleh— rangkaian dan
+126. (1) Tertakluk kepada apa-apa pengecualian yang
+
+<!-- marginal: kemudahan -->
+
+boleh ditentukan oleh Menteri melalui perintah yang
+
+<!-- marginal: rangkaian, -->
+
+<!-- marginal: perkhidmatan -->
+
+disiarkan dalam Warta, tiada seorang pun boleh—
+
+<!-- marginal: rangkaian -->
+
+<!-- marginal: dan -->
 
 (a) mempunyai atau memberikan
 
 <!-- marginal: apa-apa -->
 
-perkhidmatan kemudahan rangkaian; aplikasi.
+<!-- marginal: perkhidmatan -->
+
+kemudahan rangkaian;
+
+<!-- marginal: aplikasi. -->
 
 (b) memberikan apa-apa perkhidmatan rangkaian; atau
 
@@ -2784,9 +3668,15 @@ yang secara nyata memberi kuasa bagi pemunyaan atau pemberian kemudahan atau per
 
 (2) Seseorang yang melanggar subseksyen (1) adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya dan juga boleh didenda selanjutnya satu ribu ringgit bagi setiap hari atau sebahagian daripada sehari kesalahan itu berterusan selepas pensabitan.
 
-Pematuhan
+<!-- marginal: Pematuhan -->
 
-127. (1) Syarat-syarat standard yang berkaitan bagi syarat-syarat sesuatu lesen di bawah Bahagian ini hendaklah mengikut lesen.
+127. (1) Syarat-syarat standard yang berkaitan bagi
+
+<!-- marginal: syarat-syarat -->
+
+sesuatu lesen di bawah Bahagian ini hendaklah mengikut
+
+<!-- marginal: lesen. -->
 
 ## Jadual.
 
@@ -2838,7 +3728,7 @@ peruntukan Bab ini, tetapi tidak daripada peruntukan
 
 <!-- marginal: kepada lesen -->
 
-## Bahagian VII berkenaan dengan pengawalseliaan teknik.
+Bahagian VII berkenaan dengan pengawalseliaan teknik.
 
 <!-- marginal: kelas. -->
 
@@ -2864,25 +3754,69 @@ rangkaian berlesen, selain pemunya mana-mana kemudahan rangkaian, ialah seorang 
 
 (2) Apabila pemberi kemudahan yang dinamakan ditentukan di bawah subseksyen (1), maka pemunya itu hendaklah disifatkan telah dikecualikan daripada peruntukan Bab ini.
 
-Pemberi di
+<!-- marginal: Pemberi di -->
 
-131. Seseorang tidak boleh menjalankan urusan di bawah bawah lesen suatu lesen kelas berkaitan dengan apa-apa kemudahan kelas hendaklah rangkaian atau perkhidmatan rangkaian atau perkhidmatan mendaftar. aplikasi melainkan jika orang itu didaftarkan oleh Suruhanjaya.
+131. Seseorang tidak boleh menjalankan urusan di bawah
 
-Lesen
+<!-- marginal: bawah lesen -->
 
-132. Lesen yang diperoleh di bawah Bab ini tidak berasingan. mengecualikan mana-mana orang daripada kewajipan untuk memperoleh lesen di bawah mana-mana seksyen lain yang berkaitan dalam Akta ini.
+suatu lesen kelas berkaitan dengan apa-apa kemudahan
+
+<!-- marginal: kelas -->
+
+<!-- marginal: hendaklah -->
+
+rangkaian atau perkhidmatan rangkaian atau perkhidmatan
+
+<!-- marginal: mendaftar. -->
+
+aplikasi melainkan jika orang itu didaftarkan oleh Suruhanjaya.
+
+<!-- marginal: Lesen -->
+
+132. Lesen yang diperoleh di bawah Bab ini tidak
+
+<!-- marginal: berasingan. -->
+
+mengecualikan mana-mana orang daripada kewajipan untuk memperoleh lesen di bawah mana-mana seksyen lain yang berkaitan dalam Akta ini.
 
 ## Bab 2
 
 Amalan Persaingan Am
 
-Larangan
+<!-- marginal: Larangan -->
 
-133. Seseorang pemegang lesen tidak boleh membuat terhadap apa-apa tingkah laku yang mempunyai maksud tingkah laku anti- mengurangkan persaingan dengan cukup besar dalam suatu persaingan. pasaran komunikasi.
+133. Seseorang pemegang lesen tidak boleh membuat
 
-Suruhanjaya
+<!-- marginal: terhadap -->
 
-134. (1) Suruhanjaya boleh menyiarkan garis panduan boleh yang menjelaskan pengertian "mengurangkan persaingan menyiarkan garis dengan cukup besar". panduan.
+apa-apa tingkah laku yang mempunyai maksud
+
+<!-- marginal: tingkah laku -->
+
+<!-- marginal: anti- -->
+
+mengurangkan persaingan dengan cukup besar dalam suatu
+
+<!-- marginal: persaingan. -->
+
+pasaran komunikasi.
+
+<!-- marginal: Suruhanjaya -->
+
+134. (1) Suruhanjaya boleh menyiarkan garis panduan
+
+<!-- marginal: boleh -->
+
+yang menjelaskan pengertian "mengurangkan persaingan
+
+<!-- marginal: menyiarkan -->
+
+<!-- marginal: garis -->
+
+dengan cukup besar".
+
+<!-- marginal: panduan. -->
 
 (2) Garis panduan itu boleh memasukkan rujukan kepada—
 
@@ -3000,9 +3934,29 @@ seseorang pemegang lesen.
 
 (f) apa-apa perkara lain yang Suruhanjaya berpuas hati adalah berkaitan.
 
-Suruhanjaya
+<!-- marginal: Suruhanjaya -->
 
-139. (1) Suruhanjaya boleh mengarahkan seseorang boleh pemegang lesen yang berada pada suatu kedudukan mengarahkan pemegang dominan dalam suatu pasaran komunikasi supaya lesen pada menghentikan tingkah laku dalam pasaran komunikasi kedudukan dominan. itu yang mempunyai, atau mungkin mempunyai, kesan mengurangkan persaingan dengan cukup besar dalam mana-mana pasaran komunikasi, dan supaya melaksanakan langkah pemulihan yang sesuai.
+139. (1) Suruhanjaya boleh mengarahkan seseorang
+
+<!-- marginal: boleh -->
+
+pemegang lesen yang berada pada suatu kedudukan
+
+<!-- marginal: mengarahkan -->
+
+<!-- marginal: pemegang -->
+
+dominan dalam suatu pasaran komunikasi supaya
+
+<!-- marginal: lesen pada -->
+
+menghentikan tingkah laku dalam pasaran komunikasi
+
+<!-- marginal: kedudukan -->
+
+<!-- marginal: dominan. -->
+
+itu yang mempunyai, atau mungkin mempunyai, kesan mengurangkan persaingan dengan cukup besar dalam mana-mana pasaran komunikasi, dan supaya melaksanakan langkah pemulihan yang sesuai.
 
 (2) Suruhanjaya hanya boleh mengeluarkan suatu arahan di bawah subseksyen (1) jika Suruhanjaya berpuas hati bahawa arahan itu selaras dengan—
 
@@ -3010,9 +3964,13 @@ Suruhanjaya
 
 (b) mana-mana surat cara yang berkaitan di bawah Akta ini.
 
-Pembenaran
+<!-- marginal: Pembenaran -->
 
-140. (1) Seseorang pemegang lesen boleh memohon tingkah laku. kepada Suruhanjaya, sebelum membuat apa-apa tingkah laku yang boleh ditafsirkan sebagai mempunyai maksud atau kesan mengurangkan persaingan dengan cukup besar dalam suatu pasaran komunikasi, untuk mendapatkan kebenaran bagi tingkah laku itu.
+140. (1) Seseorang pemegang lesen boleh memohon
+
+<!-- marginal: tingkah laku. -->
+
+kepada Suruhanjaya, sebelum membuat apa-apa tingkah laku yang boleh ditafsirkan sebagai mempunyai maksud atau kesan mengurangkan persaingan dengan cukup besar dalam suatu pasaran komunikasi, untuk mendapatkan kebenaran bagi tingkah laku itu.
 
 (2) Walau apa pun peruntukan Bab ini, Suruhanjaya hendaklah membenarkan tingkah laku itu jika Suruhanjaya berpuas hati bahawa kebenaran itu adalah demi kepentingan negara.
 
@@ -3086,23 +4044,57 @@ Warta, berkenaan dengan perjanjian antara pemegang- pemegang lesen, di bawah Akt
 
 Capaian Kepada Perkhidmatan
 
-Kemudahan
+<!-- marginal: Kemudahan -->
 
-145. (1) Senarai kemudahan dan perkhidmatan yang dan boleh dimasukkan dalam senarai capaian, sebagaimana perkhidmatan yang boleh yang ditentukan oleh Suruhanjaya di bawah Bab ini, dimasukkan ialah— dalam senarai capaian.
+145. (1) Senarai kemudahan dan perkhidmatan yang
+
+<!-- marginal: dan -->
+
+boleh dimasukkan dalam senarai capaian, sebagaimana
+
+<!-- marginal: perkhidmatan -->
+
+<!-- marginal: yang boleh -->
+
+yang ditentukan oleh Suruhanjaya di bawah Bab ini,
+
+<!-- marginal: dimasukkan -->
+
+ialah—
+
+<!-- marginal: dalam senarai -->
+
+<!-- marginal: capaian. -->
 
 (a) kemudahan rangkaian;
 
 (b) perkhidmatan rangkaian; dan
 
-(c) kemudahan dan/atau perkhidmatan lain yang memudahkan pemberian perkhidmatan rangkaian atau perkhidmatan aplikasi, termasuk perkhidmatan aplikasi kandungan.
+(c) kemudahan dan/atau perkhidmatan lain yang memudahkan pemberian perkhidmatan rangkaian atau perkhidmatan aplikasi,
+
+<!-- marginal: termasuk -->
+
+perkhidmatan aplikasi kandungan.
 
 (2) Kemudahan atau perkhidmatan yang disenaraikan dalam perenggan (1)(c) tidak perlu dipunyai atau diberikan oleh pemegang lesen di bawah Akta ini.
 
-Penentuan
+<!-- marginal: Penentuan -->
 
-146. Tertakluk kepada subseksyen 147(2), Suruhanjaya kemudahan boleh menentukan bahawa— dan perkhidmatan oleh
+146. Tertakluk kepada subseksyen 147(2), Suruhanjaya
 
-(a) suatu kemudahan rangkaian; Suruhanjaya.
+<!-- marginal: kemudahan -->
+
+boleh menentukan bahawa—
+
+<!-- marginal: dan -->
+
+<!-- marginal: perkhidmatan -->
+
+<!-- marginal: oleh -->
+
+(a) suatu kemudahan rangkaian;
+
+<!-- marginal: Suruhanjaya. -->
 
 (b) suatu perkhidmatan rangkaian; atau
 
@@ -3136,9 +4128,15 @@ hendaklah dimasukkan atau dikeluarkan daripada senarai capaian.
 
 <!-- page 88 -->
 
-Daftar
+<!-- marginal: Daftar -->
 
-148. Suruhanjaya hendaklah menyenggarakan suatu senarai daftar— capaian.
+148. Suruhanjaya hendaklah menyenggarakan suatu
+
+<!-- marginal: senarai -->
+
+daftar—
+
+<!-- marginal: capaian. -->
 
 (a) kemudahan rangkaian;
 
@@ -3148,9 +4146,27 @@ Daftar
 
 yang dimasukkan dalam senarai capaian.
 
-Kewajipan
+<!-- marginal: Kewajipan -->
 
-149. (1) Tertakluk kepada apa-apa pengecualian yang capaian boleh ditentukan oleh Menteri melalui perintah yang standard bagi kemudahan disiarkan dalam Warta, seseorang pemberi kemudahan dan rangkaian dan seseorang pemberi perkhidmatan rangkaian perkhidmatan. hendaklah memberikan capaian kepada kemudahan rangkaian atau perkhidmatan rangkaian mereka yang tersenarai dalam senarai capaian kepada mana- mana—
+149. (1) Tertakluk kepada apa-apa pengecualian yang
+
+<!-- marginal: capaian -->
+
+boleh ditentukan oleh Menteri melalui perintah yang
+
+<!-- marginal: standard bagi -->
+
+<!-- marginal: kemudahan -->
+
+disiarkan dalam Warta, seseorang pemberi kemudahan
+
+<!-- marginal: dan -->
+
+rangkaian dan seseorang pemberi perkhidmatan rangkaian
+
+<!-- marginal: perkhidmatan. -->
+
+hendaklah memberikan capaian kepada kemudahan rangkaian atau perkhidmatan rangkaian mereka yang tersenarai dalam senarai capaian kepada mana- mana—
 
 (a) pemberi kemudahan rangkaian lain;
 
@@ -3232,19 +4248,33 @@ tunggal untuk menjadi forum capaian bagi maksud Bahagian ini.
 
 (4) Kod capaian boleh mengadakan peruntukan bagi terma dan syarat yang berlainan bagi kemudahan rangkaian dan perkhidmatan rangkaian yang berlainan yang tersenarai dalam senarai capaian.
 
-Pendaftaran
+<!-- marginal: Pendaftaran -->
 
-154. Suruhanjaya tidaklah boleh mendaftarkan suatu kod kod capaian. capaian melainkan jika Suruhanjaya berpuas hati bahawa kod capaian itu selaras dengan kewajipan capaian standard.
+154. Suruhanjaya tidaklah boleh mendaftarkan suatu kod
 
-Aku janji
+<!-- marginal: kod capaian. -->
 
-155. (1) Seorang pemegang lesen boleh memberikan capaian suatu aku janji capaian, mengikut seksyen 110. industri.
+capaian melainkan jika Suruhanjaya berpuas hati bahawa kod capaian itu selaras dengan kewajipan capaian standard.
+
+<!-- marginal: Aku janji -->
+
+155. (1) Seorang pemegang lesen boleh memberikan
+
+<!-- marginal: capaian -->
+
+suatu aku janji capaian, mengikut seksyen 110.
+
+<!-- marginal: industri. -->
 
 (2) Suatu aku janji capaian boleh menyatakan lebih daripada satu set terma dan syarat bagi mendapatkan capaian kepada suatu kemudahan rangkaian atau perkhidmatan rangkaian tertentu yang tersenarai dalam senarai capaian.
 
-Pendaftaran
+<!-- marginal: Pendaftaran -->
 
-156. Suruhanjaya tidak boleh mendaftarkan suatu aku aku janji. janji, mengikut kuasa amnya dalam seksyen 111, melainkan jika Suruhanjaya berpuas hati bahawa aku janji itu selaras dengan kewajipan capaian standard.
+156. Suruhanjaya tidak boleh mendaftarkan suatu aku
+
+<!-- marginal: aku janji. -->
+
+janji, mengikut kuasa amnya dalam seksyen 111, melainkan jika Suruhanjaya berpuas hati bahawa aku janji itu selaras dengan kewajipan capaian standard.
 
 <!-- page 91 -->
 
@@ -3316,27 +4346,77 @@ seseorang untuk menggunakan satu jalur frekuensi tertentu atau lebih bagi apa-ap
 
 (2) Sesuatu penguntukan spektrum boleh dikeluarkan di bawah seksyen ini hanya apabila jalur frekuensi yang berkaitan bagi penguntukan spektrum telah ditentukan oleh Menteri.
 
-Penguntukan
+<!-- marginal: Penguntukan -->
 
-160. Penguntukan spektrum tidak boleh dikeluarkan spektrum melainkan jika penguntukan itu selaras dengan rancangan hendaklah mematuhi spektrum. rancangan spektrum.
+160. Penguntukan spektrum tidak boleh dikeluarkan
 
-Pengeluaran
+<!-- marginal: spektrum -->
 
-161. Kecuali jika Suruhanjaya memutuskan bahawa demi semula kepentingan negara suatu penguntukan spektrum hendaklah penguntukan spektrum. dikeluarkan kepada pemegang penguntukan yang sedia ada, tatacara bagi pengeluaran semula sesuatu penguntukan spektrum hendaklah mengikut seksyen 159 dan 160.
+melainkan jika penguntukan itu selaras dengan rancangan
 
-Pindah
+<!-- marginal: hendaklah -->
 
-162. Seseorang pemegang penguntukan spektrum boleh hakmilik memindahkan kepada atau berurusan dengan mana-mana pihak ketiga. atau semua hak yang diuntukkan di bawah seksyen 159 dengan pihak ketiga hanya jika perbuatan itu mengikut peruntukan seksyen 163.
+<!-- marginal: mematuhi -->
 
-Kaedah-
+spektrum.
 
-163. (1) Menteri boleh membuat kaedah-kaedah, yang kaedah hendaklah disiarkan dalam Warta, bagi pemindahan hak pindah hakmilik. pemegang penguntukan spektrum yang diberikan oleh penguntukan spektrum itu.
+<!-- marginal: rancangan -->
+
+<!-- marginal: spektrum. -->
+
+<!-- marginal: Pengeluaran -->
+
+161. Kecuali jika Suruhanjaya memutuskan bahawa demi
+
+<!-- marginal: semula -->
+
+kepentingan negara suatu penguntukan spektrum hendaklah
+
+<!-- marginal: penguntukan -->
+
+<!-- marginal: spektrum. -->
+
+dikeluarkan kepada pemegang penguntukan yang sedia ada, tatacara bagi pengeluaran semula sesuatu penguntukan spektrum hendaklah mengikut seksyen 159 dan 160.
+
+<!-- marginal: Pindah -->
+
+162. Seseorang pemegang penguntukan spektrum boleh
+
+<!-- marginal: hakmilik -->
+
+memindahkan kepada atau berurusan dengan mana-mana
+
+<!-- marginal: pihak ketiga. -->
+
+atau semua hak yang diuntukkan di bawah seksyen 159 dengan pihak ketiga hanya jika perbuatan itu mengikut peruntukan seksyen 163.
+
+<!-- marginal: Kaedah- -->
+
+163. (1) Menteri boleh membuat kaedah-kaedah, yang
+
+<!-- marginal: kaedah -->
+
+hendaklah disiarkan dalam Warta, bagi pemindahan hak
+
+<!-- marginal: pindah -->
+
+<!-- marginal: hakmilik. -->
+
+pemegang penguntukan spektrum yang diberikan oleh penguntukan spektrum itu.
 
 (2) Suruhanjaya boleh mengarahkan seorang pemegang penguntukan spektrum supaya mematuhi mana-mana kaedah yang dibuat di bawah seksyen ini.
 
-Pengeluaran
+<!-- marginal: Pengeluaran -->
 
-164. (1) Suruhanjaya boleh mengeluarkan suatu penguntukan penguntukan radas yang memberikan hak kepada seseorang radas. untuk menggunakan spektrum bagi mengendalikan suatu kemudahan rangkaian daripada jenis tertentu pada frekuensi tertentu atau dalam mana-mana jalur atau jalur- jalur frekuensi tertentu.
+164. (1) Suruhanjaya boleh mengeluarkan suatu
+
+<!-- marginal: penguntukan -->
+
+penguntukan radas yang memberikan hak kepada seseorang
+
+<!-- marginal: radas. -->
+
+untuk menggunakan spektrum bagi mengendalikan suatu kemudahan rangkaian daripada jenis tertentu pada frekuensi tertentu atau dalam mana-mana jalur atau jalur- jalur frekuensi tertentu.
 
 (2) Sesuatu penguntukan radas yang dikeluarkan di bawah seksyen ini boleh tertakluk kepada apa-apa syarat yang boleh dikenakan oleh Suruhanjaya.
 
@@ -3432,19 +4512,47 @@ spektrum yang diadakan di bawah Bahagian ini.
 
 <!-- page 94 -->
 
-Situasi
+<!-- marginal: Situasi -->
 
-171. Suruhanjaya tidak boleh mengeluarkan penguntukan apabila kelas yang membenarkan penggunaan spektrum yang telah penguntukan kelas ditentukan bagi penguntukan spektrum. tidaklah boleh dikeluarkan.
+171. Suruhanjaya tidak boleh mengeluarkan penguntukan
 
-Rancangan
+<!-- marginal: apabila -->
 
-172. (1) Suruhanjaya boleh mengadakan suatu rancangan spektrum. spektrum berkenaan dengan mana-mana atau semua spektrum.
+kelas yang membenarkan penggunaan spektrum yang telah
+
+<!-- marginal: penguntukan -->
+
+<!-- marginal: kelas -->
+
+ditentukan bagi penguntukan spektrum.
+
+<!-- marginal: tidaklah -->
+
+<!-- marginal: boleh -->
+
+<!-- marginal: dikeluarkan. -->
+
+<!-- marginal: Rancangan -->
+
+172. (1) Suruhanjaya boleh mengadakan suatu rancangan
+
+<!-- marginal: spektrum. -->
+
+spektrum berkenaan dengan mana-mana atau semua spektrum.
 
 (2) Rancangan spektrum hendaklah terbuka kepada orang ramai (termasuk dalam bentuk elektronik) jika dibayar fi yang hendaklah ditentukan oleh Suruhanjaya.
 
-Kandungan
+<!-- marginal: Kandungan -->
 
-173. (1) Sesuatu rancangan spektrum hendaklah rancangan menetapkan bagaimana spektrum akan digunakan dan spektrum. menetapkan perkaedahan bagi penguntukan dan penguntukan semula spektrum.
+173. (1) Sesuatu rancangan spektrum hendaklah
+
+<!-- marginal: rancangan -->
+
+menetapkan bagaimana spektrum akan digunakan dan
+
+<!-- marginal: spektrum. -->
+
+menetapkan perkaedahan bagi penguntukan dan penguntukan semula spektrum.
 
 (2) Dalam menjalankan fungsi di bawah subseksyen
 
@@ -3456,13 +4564,23 @@ Kandungan
 
 (c) mana-mana standard, konvensyen dan perjanjian antarabangsa yang terpakai termasuk, tetapi tidak terhad kepada, Kesatuan Telekomunikasi Antarabangsa dan peraturan-peraturan radionya sebagaimana yang dipersetujui dan diterimapakai oleh Malaysia.
 
-Hak
+<!-- marginal: Hak -->
 
-174. Menteri boleh menentukan bahawa penguntukan keutamaan. spektrum dan/atau penguntukan radas yang dinyatakan hanya boleh dikeluarkan kepada orang tertentu atau kelas orang tertentu yang memenuhi apa-apa syarat yang dinyatakan dalam penentuan yang disiarkan dalam Warta.
+174. Menteri boleh menentukan bahawa penguntukan
 
-Pertikaian
+<!-- marginal: keutamaan. -->
 
-175. (1) Suruhanjaya boleh menyelesaikan pertikaian mengenai mengenai gangguan. gangguan.
+spektrum dan/atau penguntukan radas yang dinyatakan hanya boleh dikeluarkan kepada orang tertentu atau kelas orang tertentu yang memenuhi apa-apa syarat yang dinyatakan dalam penentuan yang disiarkan dalam Warta.
+
+<!-- marginal: Pertikaian -->
+
+175. (1) Suruhanjaya boleh menyelesaikan pertikaian
+
+<!-- marginal: mengenai -->
+
+mengenai gangguan.
+
+<!-- marginal: gangguan. -->
 
 <!-- page 95 -->
 
@@ -3564,11 +4682,49 @@ ditentukan.
 
 Penomboran Dan Pengalamatan Elektronik
 
-Kawalan,
+<!-- marginal: Kawalan, -->
 
-179. (1) Hendaklah diletakhakkan pada Suruhanjaya perancangan kawalan, perancangan, pentadbiran, pengurusan dan dan pentadbiran penguntukan penomboran dan pengalamatan elektronik penomboran bagi perkhidmatan rangkaian dan perkhidmatan aplikasi. dan pengalamatan elektronik. (2) Suruhanjaya boleh mewakilkan mana-mana atau semua fungsinya di bawah Bab ini.
+179. (1) Hendaklah diletakhakkan pada Suruhanjaya
 
-Rancangan 180. (1) Suruhanjaya hendaklah mengadakan rancangan penomboran penomboran dan pemberian alamat elektronik bagi dan pengalamatan penomboran dan pengalamatan elektronik perkhidmatan elektronik. rangkaian dan perkhidmatan aplikasi.
+<!-- marginal: perancangan -->
+
+kawalan, perancangan, pentadbiran, pengurusan dan
+
+<!-- marginal: dan -->
+
+<!-- marginal: pentadbiran -->
+
+penguntukan penomboran dan pengalamatan elektronik
+
+<!-- marginal: penomboran -->
+
+bagi perkhidmatan rangkaian dan perkhidmatan aplikasi.
+
+<!-- marginal: dan -->
+
+<!-- marginal: pengalamatan -->
+
+<!-- marginal: elektronik. -->
+
+(2) Suruhanjaya boleh mewakilkan mana-mana atau semua fungsinya di bawah Bab ini.
+
+<!-- marginal: Rancangan -->
+
+180. (1) Suruhanjaya hendaklah mengadakan rancangan
+
+<!-- marginal: penomboran -->
+
+penomboran dan pemberian alamat elektronik bagi
+
+<!-- marginal: dan -->
+
+<!-- marginal: pengalamatan -->
+
+penomboran dan pengalamatan elektronik perkhidmatan
+
+<!-- marginal: elektronik. -->
+
+rangkaian dan perkhidmatan aplikasi.
 
 (2) Rancangan penomboran dan pengalamatan elektronik boleh menyatakan kaedah-kaedah yang termasuk, tetapi tidak terhad kepada—
 
@@ -3632,21 +4788,65 @@ diskriminasi kepada pangkalan data itu dengan terma dan syarat yang sama dengan 
 
 Standard Teknik
 
-Menghalang 182. Seseorang yang menggunakan apa-apa kelengkapan kesalingboleh- teknik atau sistem yang menghalang kesaling- kendalian suatu bolehkendalian rangkaian adalah melakukan suatu kesalahan. kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
+<!-- marginal: Menghalang -->
 
-Menjejaskan 183. Seseorang yang menggunakan apa-apa kelengkapan keselamatan teknik atau sistem yang menjejaskan keselamatan awam awam suatu kesalahan. adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
+182. Seseorang yang menggunakan apa-apa kelengkapan
 
-Forum 184. Suruhanjaya boleh menetapkan suatu badan industri standard menjadi forum bagi standard teknik ("forum standard teknik. teknik") bagi maksud Bahagian ini.
+<!-- marginal: kesalingboleh- -->
 
-Perkara- 185. (1) Suatu kod teknik yang disediakan oleh forum perkara bagi standard teknik atau Suruhanjaya di bawah seksyen ini kod teknik. hendaklah termasuk, tetapi tidak terhad kepada, yang berikut:
+teknik atau sistem yang menghalang kesaling-
+
+<!-- marginal: kendalian -->
+
+<!-- marginal: suatu -->
+
+bolehkendalian rangkaian adalah melakukan suatu
+
+<!-- marginal: kesalahan. -->
+
+kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
+
+<!-- marginal: Menjejaskan -->
+
+183. Seseorang yang menggunakan apa-apa kelengkapan
+
+<!-- marginal: keselamatan -->
+
+teknik atau sistem yang menjejaskan keselamatan awam
+
+<!-- marginal: awam suatu -->
+
+<!-- marginal: kesalahan. -->
+
+adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
+
+<!-- marginal: Forum -->
+
+184. Suruhanjaya boleh menetapkan suatu badan industri
+
+<!-- marginal: standard -->
+
+menjadi forum bagi standard teknik ("forum standard
+
+<!-- marginal: teknik. -->
+
+teknik") bagi maksud Bahagian ini.
+
+<!-- marginal: Perkara- -->
+
+185. (1) Suatu kod teknik yang disediakan oleh forum
+
+<!-- marginal: perkara bagi -->
+
+standard teknik atau Suruhanjaya di bawah seksyen ini
+
+<!-- marginal: kod teknik. -->
+
+hendaklah termasuk, tetapi tidak terhad kepada, yang berikut:
 
 (a) kehendak bagi kesalingbolehkendalian rangkaian, termasuk, tetapi tidak terhad kepada, penyediaan keupayaan rangkaian tertentu seperti keupayaan mengenal pasti talian panggilan dan keupayaan prapilihan; dan
 
-(b) penggalakkan keselamatan
-
-<!-- marginal: kemudahan -->
-
-rangkaian.
+(b) penggalakkan keselamatan kemudahan rangkaian.
 
 (2) Suatu kod teknik yang disediakan oleh forum standard teknik atau Suruhanjaya di bawah seksyen ini boleh termasuk, tetapi tidak terhad kepada, yang berikut:
 
@@ -3700,11 +4900,25 @@ pemberi perkhidmatan aplikasi yang tidak memerlukan suatu lesen individu, dan ti
 
 <!-- page 100 -->
 
-Pemberian 188. (1) Seseorang yang memberikan
+<!-- marginal: Pemberian -->
+
+188. (1) Seseorang yang memberikan
 
 <!-- marginal: apa-apa -->
 
-perkhidmatan perkhidmatan rangkaian atau perkhidmatan aplikasi rangkaian atau hendaklah— perkhidmatan aptikasi.
+<!-- marginal: perkhidmatan -->
+
+perkhidmatan rangkaian atau perkhidmatan aplikasi
+
+<!-- marginal: rangkaian -->
+
+<!-- marginal: atau -->
+
+hendaklah—
+
+<!-- marginal: perkhidmatan -->
+
+<!-- marginal: aptikasi. -->
 
 (a) berurusan dengan cara yang berpatutan dengan pengguna; dan
 
@@ -3712,9 +4926,27 @@ perkhidmatan perkhidmatan rangkaian atau perkhidmatan aplikasi rangkaian atau he
 
 (2) Seseorang yang melanggar subseksyen (1) adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi dua puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya.
 
-Forum 189. Suruhanjaya boleh menetapkan suatu badan industri pengguna. menjadi forum pengguna bagi maksud Bab ini.
+<!-- marginal: Forum -->
 
-Perkara- 190. (1) Suatu kod pengguna yang disediakan oleh suatu perkara bagi forum pengguna atau Suruhanjaya hendaklah memasukkan kod pengguna. tatacara contoh bagi—
+189. Suruhanjaya boleh menetapkan suatu badan industri
+
+<!-- marginal: pengguna. -->
+
+menjadi forum pengguna bagi maksud Bab ini.
+
+<!-- marginal: Perkara- -->
+
+190. (1) Suatu kod pengguna yang disediakan oleh suatu
+
+<!-- marginal: perkara bagi -->
+
+forum pengguna atau Suruhanjaya hendaklah memasukkan
+
+<!-- marginal: kod -->
+
+<!-- marginal: pengguna. -->
+
+tatacara contoh bagi—
 
 (a) memenuhi kehendak pengguna secara yang munasabah;
 
@@ -3726,11 +4958,7 @@ Perkara- 190. (1) Suatu kod pengguna yang disediakan oleh suatu perkara bagi for
 
 (a) pemberian maklumat kepada pelanggan mengenai perkhidmatan, kadar dan prestasi;
 
-(b) pemberian dan pembaikan
-
-<!-- marginal: kerosakan -->
-
-perkhidmatan;
+(b) pemberian dan pembaikan kerosakan perkhidmatan;
 
 (c) pengiklanan atau pernyataan perkhidmatan;
 
@@ -3804,31 +5032,77 @@ senarai perkhidmatan aplikasi dikehendaki.
 
 (2) Suruhanjaya hendaklah mengarahkan kelas pemegang lesen yang memberikan perkhidmatan rangkaian, yang ditentukan di bawah subseksyen (1), supaya memberikan perkhidmatan aplikasi dikehendaki.
 
-Arahan boleh
+<!-- marginal: Arahan boleh -->
 
-194. Walau apa pun mana-mana peruntukan yang menyatakan bertentangan dalam Akta ini atau mana-mana surat cara perincian pengendalian. yang dibuat, dikeluarkan atau diberikan di bawah Akta ini, suatu arahan oleh Suruhanjaya yang dikeluarkan di bawah seksyen 193 boleh membuat peruntukan bagi atau menyatakan perincian pengendalian berhubung dengan suatu perkhidmatan aplikasi dikehendaki.
+194. Walau apa pun mana-mana peruntukan yang
+
+<!-- marginal: menyatakan -->
+
+bertentangan dalam Akta ini atau mana-mana surat cara
+
+<!-- marginal: perincian -->
+
+<!-- marginal: pengendalian. -->
+
+yang dibuat, dikeluarkan atau diberikan di bawah Akta ini, suatu arahan oleh Suruhanjaya yang dikeluarkan di bawah seksyen 193 boleh membuat peruntukan bagi atau menyatakan perincian pengendalian berhubung dengan suatu perkhidmatan aplikasi dikehendaki.
 
 ## Bab 3
 
 Penyelesaian Pertikaian Pengguna
 
-Periikaian
+<!-- marginal: Periikaian -->
 
-195. Suruhanjaya boleh menggunakan mana-mana antara kuasanya di bawah Akta ini dalam menyelesaikan aduan pengguna dengan yang diterima daripada pengguna berhubung dengan pemegang perkara perkhidmatan pelanggan dan pelindungan lesen. pengguna termasuk, tetapi tidak terhad kepada, kegagalan oleh seseorang pemegang lesen untuk mematuhi kod pengguna yang disediakan di bawah Bahagian ini.
+195. Suruhanjaya boleh menggunakan mana-mana
 
-Tatacara
+<!-- marginal: antara -->
 
-196. Suruhanjaya hendaklah mewujudkan tatacara atau bagi aduan garis panduan bagi pembuatan, penerimaan dan pengguna. pengendalian aduan pengguna berkenaan dengan tingkah laku atau perjalanan urusan pemegang lesen.
+kuasanya di bawah Akta ini dalam menyelesaikan aduan
+
+<!-- marginal: pengguna -->
+
+<!-- marginal: dengan -->
+
+yang diterima daripada pengguna berhubung dengan
+
+<!-- marginal: pemegang -->
+
+perkara perkhidmatan pelanggan dan pelindungan
+
+<!-- marginal: lesen. -->
+
+pengguna termasuk, tetapi tidak terhad kepada, kegagalan oleh seseorang pemegang lesen untuk mematuhi kod pengguna yang disediakan di bawah Bahagian ini.
+
+<!-- marginal: Tatacara -->
+
+196. Suruhanjaya hendaklah mewujudkan tatacara atau
+
+<!-- marginal: bagi aduan -->
+
+garis panduan bagi pembuatan, penerimaan dan
+
+<!-- marginal: pengguna. -->
+
+pengendalian aduan pengguna berkenaan dengan tingkah laku atau perjalanan urusan pemegang lesen.
 
 ## Bab 4
 
 Pengawalseliaan Kadar
 
-Penetapan
+<!-- marginal: Penetapan -->
 
-197. (1) Kecuali sebagaimana yang diperuntukkan dalam kadar oleh Bab ini, seseorang pemberi kemudahan rangkaian, pemberi pemberi. perkhidmatan rangkaian, pemberi perkhidmatan aplikasi atau pemberi perkhidmatan aplikasi kandungan boleh menetapkan kadar menurut kadar pasaran.
+197. (1) Kecuali sebagaimana yang diperuntukkan dalam
 
-(2) Semua pemberi yang disebut dalam subsek,syen (1) adalah dikehendaki menyiarkan kadar yang dikenakan kepada pelanggan bagi satu perkhidmatan atau lebih.
+<!-- marginal: kadar oleh -->
+
+Bab ini, seseorang pemberi kemudahan rangkaian, pemberi
+
+<!-- marginal: pemberi. -->
+
+perkhidmatan rangkaian, pemberi perkhidmatan aplikasi atau pemberi perkhidmatan aplikasi kandungan boleh menetapkan kadar menurut kadar pasaran.
+
+(2) Semua pemberi yang disebut dalam subsek,syen
+
+(1) adalah dikehendaki menyiarkan kadar yang dikenakan kepada pelanggan bagi satu perkhidmatan atau lebih.
 
 <!-- page 103 -->
 
@@ -3898,9 +5172,19 @@ pengawalseliaan kadar—
 
 (b) berkenaan dengan kemudahan atau perkhidmatan yang diberikan oleh seorang pemberi yang disebutkan dalam subseksyen 197(1), bagi suatu kumpulan orang tertentu atau dalam suatu kawasan tertentu.
 
-Kaedah-
+<!-- marginal: Kaedah- -->
 
-201. (1) Menteri boleh membuat kaedah-kaedah, yang kaedah hendaklah disiarkan dalam Warta, untuk menetapkan mengenai kadar. peringkat kadar yang akan dikenakan bagi kemudahan rangkaian, perkhidmatan rangkaian, perkhidmatan aplikasi atau perkhidmatan aplikasi kandungan yang tertentu atau bagi kelas kemudahan atau perkhidmatan itu.
+201. (1) Menteri boleh membuat kaedah-kaedah, yang
+
+<!-- marginal: kaedah -->
+
+hendaklah disiarkan dalam Warta, untuk menetapkan
+
+<!-- marginal: mengenai -->
+
+<!-- marginal: kadar. -->
+
+peringkat kadar yang akan dikenakan bagi kemudahan rangkaian, perkhidmatan rangkaian, perkhidmatan aplikasi atau perkhidmatan aplikasi kandungan yang tertentu atau bagi kelas kemudahan atau perkhidmatan itu.
 
 (2) Kaedah-kaedah yang boleh dibuat oleh Menteri di bawah subseksyen (1) boleh termasuk, tetapi tidak terhad kepada—
 
@@ -3988,9 +5272,23 @@ mengambil kira—
 
 (b) apa-apa rintangan bagi penggunaan perkhidmatan yang ada.
 
-Kumpulan
+<!-- marginal: Kumpulan -->
 
-204. (1) Bagi tujuan Akta ini, suatu Kumpulan Wang Wang yang dikenali sebagai "Kumpulan Wang Pemberian Pemberian Perkhidmatan Perkhidmatan Sejagat" ("Kumpulan Wang PPS") Sejagat. ditubuhkan dan Kumpulan Wang itu hendaklah dikawal dan dikendalikan oleh Suruhanjaya.
+204. (1) Bagi tujuan Akta ini, suatu Kumpulan Wang
+
+<!-- marginal: Wang -->
+
+yang dikenali sebagai "Kumpulan Wang Pemberian
+
+<!-- marginal: Pemberian -->
+
+<!-- marginal: Perkhidmatan -->
+
+Perkhidmatan Sejagat" ("Kumpulan Wang PPS")
+
+<!-- marginal: Sejagat. -->
+
+ditubuhkan dan Kumpulan Wang itu hendaklah dikawal dan dikendalikan oleh Suruhanjaya.
 
 (2) Menteri boleh membuat peraturan-peraturan berkenaan dengan caruman oleh pemegang lesen, di bawah Akta ini, kepada Kumpulan Wang PPS dan apa-apa perkara lain berhubung dengan atau bersampingan dengan penubuhan dan pengendalian Kumpulan Wang PPS.
 
@@ -4004,9 +5302,27 @@ IX
 
 Pelesenan
 
-Larangan
+<!-- marginal: Larangan -->
 
-205. (1) Tertakluk kepada apa-apa pengecualian yang terhadap boleh ditentukan oleh Menteri melalui perintah yang pemberian perkhidmatan disiarkan dalam Warta, tiada seorang pun boleh aplikasi memberikan suatu perkhidmatan aplikasi kandungan kandungan. melainkan jika—
+205. (1) Tertakluk kepada apa-apa pengecualian yang
+
+<!-- marginal: terhadap -->
+
+boleh ditentukan oleh Menteri melalui perintah yang
+
+<!-- marginal: pemberian -->
+
+<!-- marginal: perkhidmatan -->
+
+disiarkan dalam Warta, tiada seorang pun boleh
+
+<!-- marginal: aplikasi -->
+
+memberikan suatu perkhidmatan aplikasi kandungan
+
+<!-- marginal: kandungan. -->
+
+melainkan jika—
 
 (a) orang itu memegang lesen individu yang sah yang diberikan di bawah Bahagian ini untuk memberikan perkhidmatan aplikasi kandungan; atau
 
@@ -4058,19 +5374,41 @@ Akta ini.
 
 <!-- page 108 -->
 
-Pengecualian 208. (1) Seseorang pemberi perkhidmatan aplikasi bagi adalah dikecualikan daripada peruntukan di bawah seksyen kandungan sampingan. 205 setakat yang kandungan yang berkenaan merupakan kandungan yang bersampingan dengan perkhidmatan yang diberikan.
+<!-- marginal: Pengecualian -->
+
+208. (1) Seseorang pemberi perkhidmatan aplikasi
+
+<!-- marginal: bagi -->
+
+adalah dikecualikan daripada peruntukan di bawah seksyen
+
+<!-- marginal: kandungan -->
+
+<!-- marginal: sampingan. -->
+
+205 setakat yang kandungan yang berkenaan merupakan kandungan yang bersampingan dengan perkhidmatan yang diberikan.
 
 (2) Bagi maksud seksyen ini, Menteri boleh menentukan garis panduan untuk menjelaskan erti "kandungan yang bersampingan kepada perkhidmatan yang diberikan" dan semua perkara yang berkaitan dengannya.
 
 (3) Garis panduan yang ditentukan oleh Menteri hendaklah disiarkan oleh Suruhanjaya, mengikut cara yang difikirkannya sesuai, dan hendaklah didaftarkan dalam daftar secepat yang dapat dilaksanakan.
 
-Perkhidmatan
+<!-- marginal: Perkhidmatan -->
 
 209. (1) Seseorang yang memberikan
 
 <!-- marginal: suatu -->
 
-aplikasi perkhidmatan aplikasi kandungan terhad tidak dikehendaki kandungan supaya memegang suatu lesen individu tetapi dia boleh terhad. tertakluk kepada suatu lesen kelas.
+<!-- marginal: aplikasi -->
+
+perkhidmatan aplikasi kandungan terhad tidak dikehendaki
+
+<!-- marginal: kandungan -->
+
+supaya memegang suatu lesen individu tetapi dia boleh
+
+<!-- marginal: terhad. -->
+
+tertakluk kepada suatu lesen kelas.
 
 (2) Seseorang pemberi perkhidmatan aplikasi kandungan terhad yang tiada lesen kelas terpakai baginya hendaklah disifatkan dikecualikan daripada semua peruntukan di bawah Bahagian ini.
 
@@ -4078,9 +5416,19 @@ aplikasi perkhidmatan aplikasi kandungan terhad tidak dikehendaki kandungan supa
 
 (4) Garis panduan yang ditentukan oleh Menteri hendaklah disiarkan oleh Suruhanjaya, mengikut cara yang difikirkannya sesuai, dan hendaklah didaftarkan dalam daftar secepat yang dapat dilaksanakan.
 
-Pendapat
+<!-- marginal: Pendapat -->
 
-210. (1) Seseorang boleh memohon kepada Suruhanjaya mengenai supaya diputuskan sama ada suatu perkhidmatan aplikasi kategori perkhidmatan. kandungan dianggap sebagai suatu perkhidmatan aplikasi kandungan terhad atau sama ada kandungan itu ialah kandungan yang bersampingan dengan perkhidmatan yang diberikan.
+210. (1) Seseorang boleh memohon kepada Suruhanjaya
+
+<!-- marginal: mengenai -->
+
+supaya diputuskan sama ada suatu perkhidmatan aplikasi
+
+<!-- marginal: kategori -->
+
+<!-- marginal: perkhidmatan. -->
+
+kandungan dianggap sebagai suatu perkhidmatan aplikasi kandungan terhad atau sama ada kandungan itu ialah kandungan yang bersampingan dengan perkhidmatan yang diberikan.
 
 <!-- page 109 -->
 
@@ -4128,9 +5476,13 @@ menjadi suatu forum kandungan bagi maksud Bahagian ini.
 
 <!-- page 110 -->
 
-Kod
+<!-- marginal: Kod -->
 
-213. (1) Dalam sesuatu kod kandungan yang disediakan kandungan. oleh forum kandungan atau Suruhanjaya hendaklah dimasukkan tatacara contoh bagl menangani kandungan jelik atau sumbang.
+213. (1) Dalam sesuatu kod kandungan yang disediakan
+
+<!-- marginal: kandungan. -->
+
+oleh forum kandungan atau Suruhanjaya hendaklah dimasukkan tatacara contoh bagl menangani kandungan jelik atau sumbang.
 
 (2) Perkara-perkara yang boleh dikendalikan dalam kod itu termasuk, tetapi tidak terhad kepada—
 
@@ -4158,9 +5510,13 @@ AM
 
 Pemasangan Kemudahan Rangkaian, Capaian Kepada Kemudahan Rangkaian, Dll.
 
-Pemeriksaan
+<!-- marginal: Pemeriksaan -->
 
-214. Seseorang pemberi kemudahan rangkaian, boleh bagi tanah. maksud menentukan sama ada mana-mana tanah sesuai atau tidak bagi maksudnya hendak memasang, atau memperoleh capaian kepada, kemudahan rangkaian—
+214. Seseorang pemberi kemudahan rangkaian, boleh bagi
+
+<!-- marginal: tanah. -->
+
+maksud menentukan sama ada mana-mana tanah sesuai atau tidak bagi maksudnya hendak memasang, atau memperoleh capaian kepada, kemudahan rangkaian—
 
 (a) memasuki, dan memeriksa, tanah itu; dan
 
@@ -4214,17 +5570,43 @@ perkhidmatan rangkaian, menjalankan pemasangan kemudahan rangkaian jika—
 
 (4) Bagi maksud subseksyen (1), Menteri boleh, atas syor Suruhanjaya, menentukan bahawa kemudahan rangkaian tertentu ialah kemudahan rangkaian berimpak rendah.
 
-Kerosakan
+<!-- marginal: Kerosakan -->
 
-216. Dalam menjalankan sesuatu aktiviti di bawah Bab minimum. ini, seseorang pemberi kemudahan rangkaian hendaklah mengambil segala langkah yang munasabah untuk memastikan bahawa dia menyebabkan sesedikit kemudaratan dan kepayahan, dan melakukan sesedikit kerosakan, yang dapat dilaksanakan.
+216. Dalam menjalankan sesuatu aktiviti di bawah Bab
 
-Pemberi
+<!-- marginal: minimum. -->
 
-217. Jika seseorang pemberi kemudahan rangkaian kemudahan melakukan suatu aktiviti di bawah Bab ini berhubung rangkaian hendaklah dengan mana-mana tanah, pemberi itu hendaklah membaik mengambil segala langkah yang munasabah untuk pulih tanah. membaik pulih tanah itu sehingga suatu keadaan yang serupa dengan keadaannya sebelum aktiviti itu bermula.
+ini, seseorang pemberi kemudahan rangkaian hendaklah mengambil segala langkah yang munasabah untuk memastikan bahawa dia menyebabkan sesedikit kemudaratan dan kepayahan, dan melakukan sesedikit kerosakan, yang dapat dilaksanakan.
 
-Pengurusan
+<!-- marginal: Pemberi -->
 
-218. Seseorang pemberi kemudahan rangkaian hendaklah, aktiviti. berkaitan dengan penjalanan suatu aktiviti yang diliputi oleh Bab ini, mengambil segala langkah yang munasabah—
+217. Jika seseorang pemberi kemudahan rangkaian
+
+<!-- marginal: kemudahan -->
+
+melakukan suatu aktiviti di bawah Bab ini berhubung
+
+<!-- marginal: rangkaian -->
+
+<!-- marginal: hendaklah -->
+
+dengan mana-mana tanah, pemberi itu hendaklah
+
+<!-- marginal: membaik -->
+
+mengambil segala langkah yang munasabah untuk
+
+<!-- marginal: pulih tanah. -->
+
+membaik pulih tanah itu sehingga suatu keadaan yang serupa dengan keadaannya sebelum aktiviti itu bermula.
+
+<!-- marginal: Pengurusan -->
+
+218. Seseorang pemberi kemudahan rangkaian hendaklah,
+
+<!-- marginal: aktiviti. -->
+
+berkaitan dengan penjalanan suatu aktiviti yang diliputi oleh Bab ini, mengambil segala langkah yang munasabah—
 
 (a) untuk bertindak mengikut amalan kejuruteraan yang baik;
 
@@ -4266,11 +5648,7 @@ untuk membuat suatu perjanjian dengan suatu kemudahan awam yang membuat peruntuk
 
 (b) berkemungkinan menjejaskan pengendalian kemudahan itu.
 
-(2) Seseorang pemberi kemudahan
-
-<!-- marginal: rangkaian -->
-
-hendaklah mematuhi perjanjian yang berkuat kuasa di bawah subseksyen (1).
+(2) Seseorang pemberi kemudahan rangkaian hendaklah mematuhi perjanjian yang berkuat kuasa di bawah subseksyen (1).
 
 <!-- marginal: Syarat-syarat -->
 
@@ -4304,9 +5682,17 @@ pemberi kemudahan rangkaian itu hendaklah mematuhi syarat-syarat itu.
 
 <!-- page 114 -->
 
-Notis kepada
+<!-- marginal: Notis kepada -->
 
-221. (1) Sebelum melakukan sesuatu aktiviti di bawah pemunya Bab ini berkenaan dengan mana-mana tanah, seseorang tanah. pemberi kemudahan rangkaian hendaklah memberikan notis bertulis mengenai niatnya untuk berbuat demikian—
+221. (1) Sebelum melakukan sesuatu aktiviti di bawah
+
+<!-- marginal: pemunya -->
+
+Bab ini berkenaan dengan mana-mana tanah, seseorang
+
+<!-- marginal: tanah. -->
+
+pemberi kemudahan rangkaian hendaklah memberikan notis bertulis mengenai niatnya untuk berbuat demikian—
 
 (a) kepada pemunya tanah itu; dan
 
@@ -4398,7 +5784,23 @@ suatu notis bertulis yang meminta pokok itu ditebang atau dicantas, atau semak a
 
 (v) penyenggaraan suatu tahap perkhidmatan yang mencukupi.
 
-Notis kepada 223. (1) Tertakluk kepada mana-mana undang-undang pihak bertulis lain yang berkaitan, sekurang-kurangnya empat berkuasa jalan raya, belas hari sebelum— kemudahan awam, dll.
+<!-- marginal: Notis kepada -->
+
+223. (1) Tertakluk kepada mana-mana undang-undang
+
+<!-- marginal: pihak -->
+
+bertulis lain yang berkaitan, sekurang-kurangnya empat
+
+<!-- marginal: berkuasa -->
+
+<!-- marginal: jalan raya, -->
+
+belas hari sebelum—
+
+<!-- marginal: kemudahan -->
+
+<!-- marginal: awam, dll. -->
 
 (a) menutup, melencongkan atau menyempitkan sesuatu jalan atau jambatan;
 
@@ -4566,35 +5968,99 @@ diskriminasi kepada mana-mana tiang, kemudahan rangkaian atau hak laluan yang di
 
 <!-- page 120 -->
 
-Suruhanjaya
+<!-- marginal: Suruhanjaya -->
 
-229. (1) Suruhanjaya boleh mengawal selia kadar, terma hendaklah dan syarat bagi akses kepada mana-mana tiang, kemudahan mengawal selia perkara rangkaian atau hak laluan dan mensyaratkan supaya kadar, mengenai terma dan syarat sedemikian adalah adil dan munasabah akses kepada dan boleh menerima pakai tatacara yang perlu dan sesuai tiang, dll. untuk mendengar dan menyelesaikan pertikaian mengikut
+229. (1) Suruhanjaya boleh mengawal selia kadar, terma
+
+<!-- marginal: hendaklah -->
+
+dan syarat bagi akses kepada mana-mana tiang, kemudahan
+
+<!-- marginal: mengawal -->
+
+<!-- marginal: selia perkara -->
+
+rangkaian atau hak laluan dan mensyaratkan supaya kadar,
+
+<!-- marginal: mengenai -->
+
+terma dan syarat sedemikian adalah adil dan munasabah
+
+<!-- marginal: akses kepada -->
+
+dan boleh menerima pakai tatacara yang perlu dan sesuai
+
+<!-- marginal: tiang, dll. -->
+
+untuk mendengar dan menyelesaikan pertikaian mengikut
 
 ## Bab 7 Bahagian V.
 
 (2) Tiada apa-apa jua dalam seksyen ini boleh ditafsirkan sebagai terpakai bagi, atau memberikan Suruhanjaya bidang kuasa berkenaan dengan, akses kepada mana-mana tiang, kemudahan rangkaian atau hak laluan jika perkara sedemikian dikawal selia oleh Pihak Berkuasa Negeri, pihak berkuasa tempatan atau pihak berkuasa lain.
 
-Menteri
+<!-- marginal: Menteri -->
 
-230. Menteri boleh, atas syor Suruhanjaya, membuat boleh peraturan-peraturan berkenaan dengan cara bagi membuat peraturan. melaksanakan peruntukan Bab ini.
+230. Menteri boleh, atas syor Suruhanjaya, membuat
+
+<!-- marginal: boleh -->
+
+peraturan-peraturan berkenaan dengan cara bagi
+
+<!-- marginal: membuat -->
+
+<!-- marginal: peraturan. -->
+
+melaksanakan peruntukan Bab ini.
 
 ## Bab 2
 
 Kesalahan Dan Penalti Tambahan
 
-Kesalahan
+<!-- marginal: Kesalahan -->
 
-231. Seseorang yang menggunakan apa-apa radas atau jika peranti dengan niat untuk memperoleh maklumat menggunakan radas atau berkenaan dengan kandungan, penghantar atau orang yang peranti tanpa kepadanya dialamatkan apa-apa komunikasi tanpa kelulusan. kelulusan oleh agensi pemerakuan berdaftar di bawah
+231. Seseorang yang menggunakan apa-apa radas atau
 
-## Bab 3 Bahagian VII adalah melakukan suatu kesalahan
+<!-- marginal: jika -->
 
-dan apabila disabitkan boleh didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya.
+peranti dengan niat untuk memperoleh maklumat
 
-Penggunaan
+<!-- marginal: menggunakan -->
 
-232. (1) Seseorang yang— secara fraud kemudahan
+<!-- marginal: radas atau -->
 
-(a) secara tidak jujur menghantar atau membenarkan rangkaian, untuk dihantar mana-mana komunikasi atau perkhidmatan rangkaian, memperoleh suatu perkhidmatan yang diberikan dll. oleh seorang pemberi kemudahan rangkaian, pemberi perkhidmatan rangkaian, pemberi perkhidmatan aplikasi atau
+berkenaan dengan kandungan, penghantar atau orang yang
+
+<!-- marginal: peranti tanpa -->
+
+kepadanya dialamatkan apa-apa komunikasi tanpa
+
+<!-- marginal: kelulusan. -->
+
+kelulusan oleh agensi pemerakuan berdaftar di bawah Bab 3 Bahagian VII adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya.
+
+<!-- marginal: Penggunaan -->
+
+232. (1) Seseorang yang—
+
+<!-- marginal: secara fraud -->
+
+<!-- marginal: kemudahan -->
+
+(a) secara tidak jujur menghantar atau membenarkan
+
+<!-- marginal: rangkaian, -->
+
+untuk dihantar mana-mana komunikasi atau
+
+<!-- marginal: perkhidmatan -->
+
+<!-- marginal: rangkaian, -->
+
+memperoleh suatu perkhidmatan yang diberikan
+
+<!-- marginal: dll. -->
+
+oleh seorang pemberi kemudahan rangkaian, pemberi perkhidmatan rangkaian, pemberi perkhidmatan aplikasi atau
 
 <!-- marginal: pemberi -->
 
@@ -4662,9 +6128,21 @@ adalah melakukan suatu kesalahan.
 
 (3) Seseorang yang melakukan suatu kesalahan di bawah seksyen ini apabila disabitkan boleh didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya dan hendaklah juga boleh didenda selanjutnya satu ribu ringgit bagi setiap hari kesalahan itu diteruskan selepas pensabitan.
 
-Pemintasan
+<!-- marginal: Pemintasan -->
 
-234. (1) Seseorang yang tanpa kebenaran yang sah di dan bawah Akta ini atau mana-mana undang-undang bertulis pendedahan komunikasi yang lain— dilarang.
+234. (1) Seseorang yang tanpa kebenaran yang sah di
+
+<!-- marginal: dan -->
+
+bawah Akta ini atau mana-mana undang-undang bertulis
+
+<!-- marginal: pendedahan -->
+
+<!-- marginal: komunikasi -->
+
+yang lain—
+
+<!-- marginal: dilarang. -->
 
 (a) memintas, cuba untuk memintas, atau mendapatkan mana-mana orang lain supaya memintas, atau cuba untuk memintas, apa-apa komunikasi;
 
@@ -4698,11 +6176,47 @@ adalah melakukan suatu kesalahan.
 
 memintas, mendedahkan atau menggunakan komunikasi sedemikian dalam perjalanan biasa pekerjaannya sementara melakukan apa-apa aktiviti yang merupakan suatu perkara sampingan yang perlu kepada pemberian kemudahan atau perkhidmatannya atau terhadap pelindungan hak atau harta pemberi kemudahan atau perkhidmatan itu, tetapi pemberi itu tidak boleh menggunakan kemudahan atau perkhidmatan itu bagi pemerhatian atau pengawasan rawak melainkan bagi pemeriksaan kawalan mutu mekanikal atau perkhidmatan.
 
-Kerosakan 235. Seseorang yang, dengan apa-apa tindakan atau kepada peninggalan sengaja, tidak jujur atau cuai, memanjangkan, kemudahan rangkaian, mengusik, mengubahsuaikan, mengubah, mengeluarkan, dll. memusnahkan atau merosakkan apa-apa kemudahan rangkaian atau mana-mana bahagian daripadanya adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda. tidak melebihi tiga ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.
+<!-- marginal: Kerosakan -->
 
-Fraud dan 236. (1) Seseorang yang secara sedar atau dengan niat aktiviti untuk melakukan fraud— berkaitan berhubung
+235. Seseorang yang, dengan apa-apa tindakan atau
 
-(a) menghasilkan, memasang, menggunakan, dengan mengimport, menjual, membekalkan atau peranti capaian, dll. menyewakan apa-apa peranti capaian lancung;
+<!-- marginal: kepada -->
+
+peninggalan sengaja, tidak jujur atau cuai, memanjangkan,
+
+<!-- marginal: kemudahan -->
+
+<!-- marginal: rangkaian, -->
+
+mengusik, mengubahsuaikan, mengubah, mengeluarkan,
+
+<!-- marginal: dll. -->
+
+memusnahkan atau merosakkan apa-apa kemudahan rangkaian atau mana-mana bahagian daripadanya adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda. tidak melebihi tiga ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.
+
+<!-- marginal: Fraud dan -->
+
+236. (1) Seseorang yang secara sedar atau dengan niat
+
+<!-- marginal: aktiviti -->
+
+untuk melakukan fraud—
+
+<!-- marginal: berkaitan -->
+
+<!-- marginal: berhubung -->
+
+(a) menghasilkan, memasang, menggunakan,
+
+<!-- marginal: dengan -->
+
+mengimport, menjual, membekalkan atau
+
+<!-- marginal: peranti -->
+
+<!-- marginal: capaian, dll. -->
+
+menyewakan apa-apa peranti capaian lancung;
 
 (b) memiliki apa-apa peranti capaian lancung atau peranti capaian tidak dibenarkan;
 
@@ -4742,17 +6256,43 @@ adalah melakukan suatu kesalahan.
 
 <!-- page 126 -->
 
-Larangan
+<!-- marginal: Larangan -->
 
-237. (1) Tiada seorang pun boleh mengendalikan, atau terhadap memberikan, atau menggunakan, suatu perkhidmatan perkhidmatan panggil balik. panggil balik di bawah Akta ini.
+237. (1) Tiada seorang pun boleh mengendalikan, atau
+
+<!-- marginal: terhadap -->
+
+memberikan, atau menggunakan, suatu perkhidmatan
+
+<!-- marginal: perkhidmatan -->
+
+<!-- marginal: panggil balik. -->
+
+panggil balik di bawah Akta ini.
 
 (2) Seseorang yang melanggar subseksyen (1) adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi tiga ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.
 
 (3) Bagi maksud seksyen ini, "perkhidmatan panggil balik" ertinya suatu perkhidmatan yang menggunakan mana-mana kemudahan rangkaian, perkhidmatan rangkaian atau perkhidmatan aplikasi yang, melalui pengisyaratan atau peninjauan panggilan tidak lengkap dari lokasi asing, atau sebagai hasil apa-apa pengaturan perisyaratan lain sebagaimana yang ditentukan oleh Suruhanjaya, membolehkan seseorang pengguna di Malaysia memanggil suatu titik asing tanpa membayar kadar yang dikenakan oleh seseorang pemberi kemudahan rangkaian, pemberi perkhidmatan rangkaian dan/atau pemberi perkhidmatan aplikasi Malaysia yang dibenarkan bagi suatu panggilan dari Malaysia ke titik sedemikian.
 
-Pemancaran
+<!-- marginal: Pemancaran -->
 
-238. (1) Seseorang yang, dengan sengaja atau tanpa daripada alasan yang munasabah, menyebabkan suatu pancaran kelengkapan atau peranti radio daripada apa-apa kelengkapan atau peranti yang tidak standard. tidak standard adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya.
+238. (1) Seseorang yang, dengan sengaja atau tanpa
+
+<!-- marginal: daripada -->
+
+alasan yang munasabah, menyebabkan suatu pancaran
+
+<!-- marginal: kelengkapan -->
+
+<!-- marginal: atau peranti -->
+
+radio daripada apa-apa kelengkapan atau peranti yang
+
+<!-- marginal: tidak -->
+
+<!-- marginal: standard. -->
+
+tidak standard adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya.
 
 (2) Bagi maksud Bab ini, "kelengkapan atau peranti tidak standard" ertinya apa-apa kelengkapan atau peranti yang tidak menepati standard teknik atau tatacara yang disediakan atau ditentukan di bawah Akta ini.
 
@@ -4812,11 +6352,43 @@ adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak mele
 
 (3) Dalam mana-mana prosiding di bawah Akta ini, apa-apa dokumen yang merupakan suatu perakuan yang diberikan oleh seorang pegawai diberi kuasa yang memperakui bahawa mana-mana kelengkapan atau peranti tertentu ialah kelengkapan atau peranti tidak standard hendaklah diterima sebagai keterangan prima facie mengenai fakta yang dinyatakan dalam perakuan itu sehingga yang akasnya dibuktikan.
 
-Kesalahan
+<!-- marginal: Kesalahan -->
 
-240. Seseorang yang dengan sengaja— mengagihkan atau
+240. Seseorang yang dengan sengaja—
 
-(a) menghantar melalui mel, atau menghantar atau mengiklankan membawa dalam perdagangan dalam negeri atau apa-apa kelengkapan antarabangsa, apa-apa kelengkapan atau peranti atau peranti elektronik, mekanikal atau selainnya, sedangkan komunikasi bagi dia tahu atau mempunyai sebab untuk percaya pemintasan bahawa reka bentuk kelengkapan atau peranti komunikasi. itu menjadikannya berguna terutamanya bagi maksud pemintasan mana-mana komunikasi secara curi-curi; atau
+<!-- marginal: mengagihkan -->
+
+<!-- marginal: atau -->
+
+(a) menghantar melalui mel, atau menghantar atau
+
+<!-- marginal: mengiklankan -->
+
+membawa dalam perdagangan dalam negeri atau
+
+<!-- marginal: apa-apa -->
+
+<!-- marginal: kelengkapan -->
+
+antarabangsa, apa-apa kelengkapan atau peranti
+
+<!-- marginal: atau peranti -->
+
+elektronik, mekanikal atau selainnya, sedangkan
+
+<!-- marginal: komunikasi -->
+
+<!-- marginal: bagi -->
+
+dia tahu atau mempunyai sebab untuk percaya
+
+<!-- marginal: pemintasan -->
+
+bahawa reka bentuk kelengkapan atau peranti
+
+<!-- marginal: komunikasi. -->
+
+itu menjadikannya berguna terutamanya bagi maksud pemintasan mana-mana komunikasi secara curi-curi; atau
 
 (b) meletakkan dalam mana-mana surat khabar, majalah, surat sebaran, atau penerbitan lain apa- apa iklan mengenai—
 
@@ -4874,9 +6446,17 @@ dilakukan bertentangan dengan Akta ini atau perundangan subsidiarinya atau mana-
 
 khusus, pesalah boleh didenda, sebagai tambahan kepada pelucuthakan apa-apa benda yang disita, tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.
 
-Peng-
+<!-- marginal: Peng- -->
 
-243. (1) Pengerusi Suruhanjaya boleh, dengan keizinan kompaunan secara bertulis Pendakwa Raya, mengkompaunkan apa- kesalahan. apa kesalahan yang dilakukan oleh mana-mana orang di bawah Akta ini atau perundangan subsidiarinya dan ditentukan oleh Menteri sebagai suatu kesalahan yang boleh dikompaunkan melalui peraturan-peraturan yang dibuat di bawah Akta.ini dengan membuat tawaran secara bertulis kepada orang yang disyaki telah melakukan kesalahan itu untuk mengkompaunkan kesalahan itu apabila dibayar kepada Pengerusi suatu amaun wang yang tidak melebihi lima puluh peratus daripada amaun denda maksimum bagi kesalahan itu dalam masa yang dinyatakan dalam tawaran itu.
+243. (1) Pengerusi Suruhanjaya boleh, dengan keizinan
+
+<!-- marginal: kompaunan -->
+
+secara bertulis Pendakwa Raya, mengkompaunkan apa-
+
+<!-- marginal: kesalahan. -->
+
+apa kesalahan yang dilakukan oleh mana-mana orang di bawah Akta ini atau perundangan subsidiarinya dan ditentukan oleh Menteri sebagai suatu kesalahan yang boleh dikompaunkan melalui peraturan-peraturan yang dibuat di bawah Akta.ini dengan membuat tawaran secara bertulis kepada orang yang disyaki telah melakukan kesalahan itu untuk mengkompaunkan kesalahan itu apabila dibayar kepada Pengerusi suatu amaun wang yang tidak melebihi lima puluh peratus daripada amaun denda maksimum bagi kesalahan itu dalam masa yang dinyatakan dalam tawaran itu.
 
 (2) Sesuatu tawaran di bawah subseksyen (1) boleh dibuat pada bila-bila masa selepas kesalahan itu dilakukan, tetapi sebelum apa-apa pendakwaan baginya telah dimulakan, dan jika amaun yang dinyatakan dalam tawaran itu tidak dibayar dalam tempoh masa yang dinyatakan dalam tawaran itu atau dalam apa-apa tempoh lanjutan yang dibenarkan oleh Pengerusi, pendakwaan bagi kesalahan itu boleh dimulakan pada bila-bila masa selepas itu terhadap orang yang kepadanya tawaran itu dibuat.
 
@@ -4922,11 +6502,19 @@ subsidiarinya seseorang yang pada masa pelakuan kesalahan itu merupakan seorang 
 
 Kuasa Untuk Masuk, Penyiasatan Kesalahan Dan Pendakwaan
 
-Pegawai
+<!-- marginal: Pegawai -->
 
-245. (1) Menteri boleh secara bertulis memberi kuasa diberi kuasa. mana-mana pegawai awam atau pegawai Suruhanjaya untuk menjalankan kuasa penguatkuasaan di bawah Akta ini.
+245. (1) Menteri boleh secara bertulis memberi kuasa
 
-(2) Mana-mana pegawai yang sedemikian hendaklah disifatkan sebagai pengkhidmat awam mengikut pengertian Akta 574. Kanun Keseksaan.
+<!-- marginal: diberi kuasa. -->
+
+mana-mana pegawai awam atau pegawai Suruhanjaya untuk menjalankan kuasa penguatkuasaan di bawah Akta ini.
+
+(2) Mana-mana pegawai yang sedemikian hendaklah disifatkan sebagai pengkhidmat awam mengikut pengertian
+
+<!-- marginal: Akta 574. -->
+
+Kanun Keseksaan.
 
 (3) Dalam menjalankan mana-mana
 
@@ -4936,11 +6524,19 @@ penguatkuasaan di bawah Akta ini, seseorang pegawai diberi kuasa hendaklah apabi
 
 (4) Bagi maksud subseksyen (1), Suruhanjaya boleh mengeluarkan arahan kepada seseorang pemegang lesen atau orang lain supaya Akta ini atau perundangan subsidiarinya dipatuhi.
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-246. (1) Suruhanjaya boleh menyiasat aktiviti seseorang menyiasat. pemegang lesen atau orang lain berkenaan dengan pematuhannya dengan Akta ini atau perundangan subsidiarinya.
+246. (1) Suruhanjaya boleh menyiasat aktiviti seseorang
 
-(2) Dalam apa-apa hal berhubung dengan pelakuan suatu kesalahan di bawah Akta ini atau perundangan subsidiarinya, mana-mana pegawai diberi kuasa yang menjalankan sesuatu penyiasatan boleh menjalankan semua atau mana-mana kuasa khas yang berhubungan dengan penyiasatan polis dalam kes boleh tangkap yang diberikan N.M.B. oleh Kanun Tatacara Jenayah.
+<!-- marginal: menyiasat. -->
+
+pemegang lesen atau orang lain berkenaan dengan pematuhannya dengan Akta ini atau perundangan subsidiarinya.
+
+(2) Dalam apa-apa hal berhubung dengan pelakuan suatu kesalahan di bawah Akta ini atau perundangan subsidiarinya, mana-mana pegawai diberi kuasa yang menjalankan sesuatu penyiasatan boleh menjalankan semua atau mana-mana kuasa khas yang berhubungan dengan penyiasatan polis dalam kes boleh tangkap yang diberikan
+
+<!-- marginal: N.M.B. -->
+
+oleh Kanun Tatacara Jenayah.
 
 ## Bab 6.
 
@@ -4970,7 +6566,9 @@ apa-apa siasatan yang difikirkannya perlu, bahawa terdapat sebab yang munasabah 
 
 kelengkapan, peranti atau perkara lain yang dengan munasabah dipercayai dapat memberikan keterangan mengenai pelakuan kesalahan itu.
 
-(3) Seorang pegawai polis atau pegawai diberi kuasa yang menjalankan penggeledahan di bawah subseksyen (1) boleh, bagi maksud menyiasat kesalahan itu, memeriksa mana-mana orang yang berada dalam atau di premis itu.
+(3) Seorang pegawai polis atau pegawai diberi kuasa yang menjalankan penggeledahan di bawah subseksyen
+
+(1) boleh, bagi maksud menyiasat kesalahan itu, memeriksa mana-mana orang yang berada dalam atau di premis itu.
 
 <!-- page 134 -->
 
@@ -5042,15 +6640,31 @@ berkomputer, papan tanda, kad, surat, risalah, lembaran, notis, kemudahan, radas
 
 (2) Jika premis itu tidak diduduki, pegawai yang menyita hendaklah apabila mungkin menampalkan dengan ketara di premis itu suatu senarai benda yang disita.
 
-Pelepasan
+<!-- marginal: Pelepasan -->
 
-251. (1) Jika apa-apa benda telah disita di bawah Akta benda yang ini, seorang pegawai polis yang ditentukan, selain pegawai disita. polis yang membuat penyitaan itu, boleh pada bila-bila masa selepas itu sebelum benda itu dilucuthakkan di bawah Akta ini melepaskan benda itu kepada orang yang diputuskan olehnya sebagai berhak secara sah kepada benda itu jika dia berpuas hati bahawa benda itu tidak boleh dilucuthakkan di bawah Akta ini dan tidak diperlukan selainnya bagi maksud mana-mana prosiding di bawah Akta ini, atau bagi maksud apa-apa pendakwaan di bawah mana-mana undang-undang lain, dan jika ini berlaku baik pegawai yang menjalankan penyitaan itu mahupun pihak Kerajaan atau mana-mana orang yang bertindak bagi pihak Kerajaan tidaklah boleh dikenakan apa-apa prosiding oleh mana-mana orang jika penyitaan dan pelepasan benda itu telah dibuat dengan suci hati.
+251. (1) Jika apa-apa benda telah disita di bawah Akta
+
+<!-- marginal: benda yang -->
+
+ini, seorang pegawai polis yang ditentukan, selain pegawai
+
+<!-- marginal: disita. -->
+
+polis yang membuat penyitaan itu, boleh pada bila-bila masa selepas itu sebelum benda itu dilucuthakkan di bawah Akta ini melepaskan benda itu kepada orang yang diputuskan olehnya sebagai berhak secara sah kepada benda itu jika dia berpuas hati bahawa benda itu tidak boleh dilucuthakkan di bawah Akta ini dan tidak diperlukan selainnya bagi maksud mana-mana prosiding di bawah Akta ini, atau bagi maksud apa-apa pendakwaan di bawah mana-mana undang-undang lain, dan jika ini berlaku baik pegawai yang menjalankan penyitaan itu mahupun pihak Kerajaan atau mana-mana orang yang bertindak bagi pihak Kerajaan tidaklah boleh dikenakan apa-apa prosiding oleh mana-mana orang jika penyitaan dan pelepasan benda itu telah dibuat dengan suci hati.
 
 (2) Suatu rekod bertulis hendaklah dibuat oleh pegawai yang membuat pelepasan mana-mana benda di bawah subseksyen (1) yang menyatakan secara terperinci hal keadaan, dan sebab bagi, pelepasan itu, dan dia hendaklah menghantarkan satu salinan rekod itu kepada Pendakwa Raya dan kepada Ketua Polis Negara dalam tempoh tujuh hari dari pelepasan itu.
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-252. (1) Walau apa pun peruntukan mana-mana undang- memintas undang bertulis yang lain, Pendakwa Raya, jika dia komunikasi. berpendapat bahawa maha-mana komunikasi mungkin mengandungi apa-apa maklumat yang berkaitan bagi raaksud mana-mana penyiasatan mengenai suatu kesalahan di bawah Akta ini atau perundangan subsidiarinya, boleh, atas permohonan seorang pegawai diberi kuasa atau seorang pegawai polis .berpangkat Penguasa atau yang lebih tinggi, memberi kuasa pegawai itu untuk memintas atau untuk mendengar mana-mana komunikasi yang dihantar atau diterima melalui mana-mana alat komunikasi.
+252. (1) Walau apa pun peruntukan mana-mana undang-
+
+<!-- marginal: memintas -->
+
+undang bertulis yang lain, Pendakwa Raya, jika dia
+
+<!-- marginal: komunikasi. -->
+
+berpendapat bahawa maha-mana komunikasi mungkin mengandungi apa-apa maklumat yang berkaitan bagi raaksud mana-mana penyiasatan mengenai suatu kesalahan di bawah Akta ini atau perundangan subsidiarinya, boleh, atas permohonan seorang pegawai diberi kuasa atau seorang pegawai polis .berpangkat Penguasa atau yang lebih tinggi, memberi kuasa pegawai itu untuk memintas atau untuk mendengar mana-mana komunikasi yang dihantar atau diterima melalui mana-mana alat komunikasi.
 
 <!-- page 137 -->
 
@@ -5076,9 +6690,13 @@ kuasa, atau enggan memberikan laluan ke mana-mana premis kepada seorang pegawai 
 
 <!-- page 138 -->
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-254. Seorang pegawai diberi kuasa hendaklah, bagi tambahan. maksud pelaksanaan Akta ini atau perundangan subsidiarinya, mempunyai kuasa untuk melakukan semua atau mana-mana yang berikut:
+254. Seorang pegawai diberi kuasa hendaklah, bagi
+
+<!-- marginal: tambahan. -->
+
+maksud pelaksanaan Akta ini atau perundangan subsidiarinya, mempunyai kuasa untuk melakukan semua atau mana-mana yang berikut:
 
 (a) menghendaki pengemukaan rekod, akaun, data berkomputer dan dokumen yang disimpan oleh seseorang pemegang lesen atau orang lain dan untuk memeriksa, meneliti dan untuk memuatturunkan daripadanya, membuat salinannya atau mengambil cabutan daripadanya;
 
@@ -5086,15 +6704,49 @@ Kuasa
 
 (c) membuat apa-apa siasatan yang perlu untuk menentukan sama ada peruntukan Akta ini atau perundangan subsidiarinya telah dipatuhi.
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-255. (1) Seorang pegawai diberi kuasa yang menjalankan menghendaki suatu penyiasatan di bawah Akta ini boleh, melalui perintah kehadiran orang yang secara bertulis, menghendaki supaya hadir di hadapannya tahu seseorang yang pada hemat pegawai diberi kuasa itu tahu mengenai kes. tentang hal keadaan kes itu, dan orang itu hendaklah hadir sebagaimana yang dikehendaki sedemikian.
+255. (1) Seorang pegawai diberi kuasa yang menjalankan
+
+<!-- marginal: menghendaki -->
+
+suatu penyiasatan di bawah Akta ini boleh, melalui perintah
+
+<!-- marginal: kehadiran -->
+
+<!-- marginal: orang yang -->
+
+secara bertulis, menghendaki supaya hadir di hadapannya
+
+<!-- marginal: tahu -->
+
+seseorang yang pada hemat pegawai diberi kuasa itu tahu
+
+<!-- marginal: mengenai -->
+
+<!-- marginal: kes. -->
+
+tentang hal keadaan kes itu, dan orang itu hendaklah hadir sebagaimana yang dikehendaki sedemikian.
 
 (2) Jika orang itu tidak hadir sebagaimana yang dikehendaki, pegawai diberi kuasa itu boleh melaporkan ketidakhadiran itu kepada seorang Majistret yang hendaklah mengeluarkan suatu waran untuk memastikan kehadiran orang itu.
 
-Pemeriksaan
+<!-- marginal: Pemeriksaan -->
 
-256. (1) Seseorang pegawai diberi kuasa yang orang yang menjalankan suatu penyiasatan di bawah Akta ini boleh tahu mengenai memeriksa secara lisan seseorang yang dijangka tahu kes. mengenai fakta dan hal keadaan kes itu.
+256. (1) Seseorang pegawai diberi kuasa yang
+
+<!-- marginal: orang yang -->
+
+menjalankan suatu penyiasatan di bawah Akta ini boleh
+
+<!-- marginal: tahu -->
+
+<!-- marginal: mengenai -->
+
+memeriksa secara lisan seseorang yang dijangka tahu
+
+<!-- marginal: kes. -->
+
+mengenai fakta dan hal keadaan kes itu.
 
 (2) Orang itu adalah terikat di sisi undang-undang untuk menjawab semua soalan berkaitan dengan kes itu yang diajukan kepadanya oleh pegawai diberi kuasa itu,
 
@@ -5104,7 +6756,9 @@ tetapi orang itu boleh enggan menjawab mana-mana soalan yang jawapannya mungkin 
 
 (3) Seseorang yang membuat suatu pernyataan di bawah seksyen ini adalah terikat di sisi undang-undang untuk menyatakan yang sebenar, sama ada pernyataan itu dibuat secara keseluruhannya atau sebahagiannya sebagai jawapan kepada soalan.
 
-(4) Pegawai diberi kuasa yang memperoleh maklumat daripada seseorang hendaklah terlebih dahulu memaklumkan orang itu peruntukan subseksyen (2) dan (3).
+(4) Pegawai diberi kuasa yang memperoleh maklumat daripada seseorang hendaklah terlebih dahulu memaklumkan orang itu peruntukan subseksyen (2) dan
+
+(3).
 
 (5) Sesuatu pernyataan yang dibuat oleh seseorang di bawah seksyen ini hendaklah, apabila mungkin, diubah ke dalam bentuk bertulis dan ditandatangani oleh orang yang membuatnya atau ditandakan dengan cap ibu jarinya, mengikut mana-mana yang berkenaan, selepas pernyataan itu dibacakan kepadanya dalam bahasa dia membuat pernyataan itu dan selepas dia telah diberi peluang untuk membuat apa-apa pembetulan yang dia mahu.
 
@@ -5248,19 +6902,63 @@ dipunyai atau diberikan olehnya atau perkhidmatan rangkaian, perkhidmatan aplika
 
 mencegah pelakuan atau cubaan pelakuan sesuatu kesalahan di bawah mana-mana undang-undang bertulis Malaysia atau selainnya dalam menguatkuasakan undang- undang Malaysia, termasuklah, tetapi tidak terhad kepada, pelindungan hasil awam dan pemeliharaan pertahanan negara.
 
-Orang yang
+<!-- marginal: Orang yang -->
 
-264. Mana-mana pemberi kemudahan rangkaian, pemberi tidak boleh perkhidmatan rangkaian, pemberi perkhidmatan aplikasi disabitkan bagi atau pemberi perkhidmatan aplikasi kandungan atau perbuatan mana-mana daripada pekerjanya, tidak boleh dikenakan yang dilakukan apa-apa prosiding jenayah daripada apa-apa sifat bagi dengan suci apa-apa ganti rugi (termasuklah ganti rugi punitif), hati. kerugian, kos atau perbelanjaan yang ditanggung atau akan ditanggung (sama ada secara langsung atau tidak) kerana apa-apa perbuatan atau peninggalan yang dilakukan dengan suci hati dalam pelaksanaan kewajipan dikenakan di bawah seksyen 263.
+264. Mana-mana pemberi kemudahan rangkaian, pemberi
 
-Kemampuan
+<!-- marginal: tidak boleh -->
 
-265. (1) Menteri boleh menentukan bahawa seseorang pemintasan pemegang lesen atau sesuatu kelas pemegang lesen rangkaian. hendaklah melaksanakan kemampuan untuk membolehkan pemintasan komunikasi yang dibenarkan.
+perkhidmatan rangkaian, pemberi perkhidmatan aplikasi
+
+<!-- marginal: disabitkan -->
+
+<!-- marginal: bagi -->
+
+atau pemberi perkhidmatan aplikasi kandungan atau
+
+<!-- marginal: perbuatan -->
+
+mana-mana daripada pekerjanya, tidak boleh dikenakan
+
+<!-- marginal: yang -->
+
+<!-- marginal: dilakukan -->
+
+apa-apa prosiding jenayah daripada apa-apa sifat bagi
+
+<!-- marginal: dengan suci -->
+
+apa-apa ganti rugi (termasuklah ganti rugi punitif),
+
+<!-- marginal: hati. -->
+
+kerugian, kos atau perbelanjaan yang ditanggung atau akan ditanggung (sama ada secara langsung atau tidak) kerana apa-apa perbuatan atau peninggalan yang dilakukan dengan suci hati dalam pelaksanaan kewajipan dikenakan di bawah seksyen 263.
+
+<!-- marginal: Kemampuan -->
+
+265. (1) Menteri boleh menentukan bahawa seseorang
+
+<!-- marginal: pemintasan -->
+
+pemegang lesen atau sesuatu kelas pemegang lesen
+
+<!-- marginal: rangkaian. -->
+
+hendaklah melaksanakan kemampuan untuk membolehkan pemintasan komunikasi yang dibenarkan.
 
 (2) Suatu penentuan, di bawah subseksyen (1), boleh menyatakan kehendak teknik bagi kemampuan pemintasan yang dibenarkan.
 
-Kuasa khas
+<!-- marginal: Kuasa khas -->
 
-266. (1) Apabila berlaku apa-apa darurat awam atau semasa demi kepentingan keselamatan awam, Yang di-Pertuan darurat. Agong atau Menteri yang diberi kuasa olehnya bagi maksud yang sedemikian boleh—
+266. (1) Apabila berlaku apa-apa darurat awam atau
+
+<!-- marginal: semasa -->
+
+demi kepentingan keselamatan awam, Yang di-Pertuan
+
+<!-- marginal: darurat. -->
+
+Agong atau Menteri yang diberi kuasa olehnya bagi maksud yang sedemikian boleh—
 
 (a) menggantung lesen mana-mana pemegang lesen, mengambil kawalan sementara mana- mana kemudahan rangkaian, perkhidmatan rangkaian, perkhidmatan aplikasi dan/atau perkhidmatan aplikasi kandungan yang dipunyai atau diberikan oleh seseorang pemegang lesen mengikut apa-apa cara yang difikirkannya patut;
 
@@ -5274,29 +6972,85 @@ Kuasa khas
 
 (2) Jika apa-apa keraguan timbul tentang kewujudan suatu darurat awam atau sama ada mana-mana tindakan yang dilakukan di bawah subseksyen (1) adalah demi kepentingan keselamatan awam, suatu perakuan yang ditandatangani oleh Yang di-Pertuan Agong dan dipamerkan di tempat-tempat sebagaimana yang difikirkan patut oleh Menteri hendaklah menjadi bukti muktamad tentang perkara itu.
 
-(3) Jika Menteri mengambil milikan mana-mana kemudahan rangkaian, perkhidmatan
-
-<!-- marginal: rangkaian, -->
-
-perkhidmatan aplikasi, perkhidmatan aplikasi kandungan atau kelengkapan pelanggan di bawah subseksyen (1), orang yang dilesenkan di bawah Akta ini berkenaan dengan kemudahan, perkhidmatan atau kelengkapan itu hendaklah dibayar pampasan secukupnya yang akan ditentukan oleh Menteri selepas memberi pemegang lesen itu peluang untuk didengar tentang perkara itu.
+(3) Jika Menteri mengambil milikan mana-mana kemudahan rangkaian, perkhidmatan rangkaian, perkhidmatan aplikasi, perkhidmatan aplikasi kandungan atau kelengkapan pelanggan di bawah subseksyen (1), orang yang dilesenkan di bawah Akta ini berkenaan dengan kemudahan, perkhidmatan atau kelengkapan itu hendaklah dibayar pampasan secukupnya yang akan ditentukan oleh Menteri selepas memberi pemegang lesen itu peluang untuk didengar tentang perkara itu.
 
 (4) Tiada apa-apa jua dalam seksyen ini boleh menghalang penggunaan mana-mana kemudahan rangkaian, perkhidmatan rangkaian, perkhidmatan aplikasi, perkhidmatan aplikasi kandungan atau kelengkapan pelanggan bagi maksud membuat suatu panggilan kecemasan.
 
 <!-- page 146 -->
 
-Rancangan 267. Suruhanjaya boleh mengarahkan seseorang bencana. pemegang lesen atau sesuatu kelas pemegang lesen supaya mengadakan, dengan berunding dengan pihak berkuasa yang dinyatakan oleh Suruhanjaya, suatu rancangan bencana bagi kebolehterushidupan dan pemulihan mana- mana kemudahan .rangkaian, perkhidmatan rangkaian, perkhidmatan aplikasi atau perkhidmatan aplikasi kandungan sekiranya berlaku bencana, krisis atau darurat awam.
+<!-- marginal: Rancangan -->
+
+267. Suruhanjaya boleh mengarahkan seseorang
+
+<!-- marginal: bencana. -->
+
+pemegang lesen atau sesuatu kelas pemegang lesen supaya mengadakan, dengan berunding dengan pihak berkuasa yang dinyatakan oleh Suruhanjaya, suatu rancangan bencana bagi kebolehterushidupan dan pemulihan mana- mana kemudahan .rangkaian, perkhidmatan rangkaian, perkhidmatan aplikasi atau perkhidmatan aplikasi kandungan sekiranya berlaku bencana, krisis atau darurat awam.
 
 ## Bab 5
 
 Pelbagai
 
-Menteri 268. Menteri boleh membuat kaedah-kaedah, yang boleh hendaklah disiarkan dalam Warta, untuk mengadakan membuat kaedah- peruntukan bagi penyimpanan rekod dan untuk kaedah menghendaki seorang pemegang lesen atau lebih atau mengenai penyimpanan sesiapa jua untuk menyimpan dan menyenggarakan rekod. rekod. Kerjasama 269. (1) Menteri boleh memberikan arahan kepada dengan pihak Suruhanjaya mengenai perkiraan kerjasama antara berkuasa lain. Suruhanjaya dengan mana-mana pihak berkuasa lain di Malaysia atau di negara asing, atau mana-mana organisasi antarabangsa.
+<!-- marginal: Menteri -->
+
+268. Menteri boleh membuat kaedah-kaedah, yang
+
+<!-- marginal: boleh -->
+
+hendaklah disiarkan dalam Warta, untuk mengadakan
+
+<!-- marginal: membuat -->
+
+<!-- marginal: kaedah- -->
+
+peruntukan bagi penyimpanan rekod dan untuk
+
+<!-- marginal: kaedah -->
+
+menghendaki seorang pemegang lesen atau lebih atau
+
+<!-- marginal: mengenai -->
+
+<!-- marginal: penyimpanan -->
+
+sesiapa jua untuk menyimpan dan menyenggarakan rekod.
+
+<!-- marginal: rekod. -->
+
+<!-- marginal: Kerjasama -->
+
+269. (1) Menteri boleh memberikan arahan kepada
+
+<!-- marginal: dengan pihak -->
+
+Suruhanjaya mengenai perkiraan kerjasama antara
+
+<!-- marginal: berkuasa -->
+
+<!-- marginal: lain. -->
+
+Suruhanjaya dengan mana-mana pihak berkuasa lain di Malaysia atau di negara asing, atau mana-mana organisasi antarabangsa.
 
 (2) Menteri boleh membuat kaedah-kaedah, yang hendaklah disiarkan dalam Warta, dan/atau menentukan perkiraan bagi kerjasama dengan, atau keanggotaan dalam, organisasi antarabangsa berkenaan dengan perkiraan kerjasama antara pemegang lesen di bawah Akta ini dengan organisasi antarabangsa.
 
 (3) Suruhanjaya boleh mengarahkan seorang pemegang lesen supaya mematuhi kaedah-kaedah yang dibuat dan/ atau perkiraan yang ditentukan di bawah subseksyen (2).
 
-Surat cara 270. Sesuatu surat cara yang dikeluarkan, dibuat atau yang diberikan di bawah Akta ini boleh membuat peruntukan diberikan di bawah Akla berhubung dengan sesuatu perkara dengan memakai, ini. menerima pakai atau memasukkan (dengan atau tanpa ubahsuaian) peruntukan maria-mana undang-undang bertulis lain yang berkuat kuasa pada masa itu.
+<!-- marginal: Surat cara -->
+
+270. Sesuatu surat cara yang dikeluarkan, dibuat atau
+
+<!-- marginal: yang -->
+
+diberikan di bawah Akta ini boleh membuat peruntukan
+
+<!-- marginal: diberikan di -->
+
+<!-- marginal: bawah Akla -->
+
+berhubung dengan sesuatu perkara dengan memakai,
+
+<!-- marginal: ini. -->
+
+menerima pakai atau memasukkan (dengan atau tanpa ubahsuaian) peruntukan maria-mana undang-undang bertulis lain yang berkuat kuasa pada masa itu.
 
 <!-- page 147 -->
 
@@ -5352,21 +7106,59 @@ Pemansuhan Dan Kecualian
 
 (3) Menteri boleh, apabila pada hematnya perlu atau suaimanfaat untuk berbuat demikian sama ada bagi maksud menghapuskan kesulitan atau akibat daripada lulusnya Akta ini, melalui perintah yang hendaklah disiarkan dalam Warta, membuat apa-apa ubahsuaian kepada mana-mana perundangan subsidiari sebagaimana yang disifatkannya sesuai.
 
-Pembubaran 274. (1) Kumpulan Wang Telekomunikasi adalah Kumpulan dibubarkan. Wang Telekomuni- kasi. (2) Segala wang yang ada dalam Kumpulan Wang Telekomunikasi hendaklah dipindahkan, pada tarikh Akta ini mula berkuat kuasa, kepada dan diletakhakkan pada Kumpulan Wang yang ditubuhkan di bawah Akta Suruhanjaya Komunikasi dan Multimedia Malaysia 1998.
+<!-- marginal: Pembubaran -->
 
-Kecualian. 275. Mana-mana pendaftaran, tindakan, perintah, arahan, kelulusan atau keputusan yang telah dilakukan, dibuat atau diberikan sebelum tarikh Akta ini mula berkuat kuasa hendaklah disifatkan telah dilakukan, dibuat atau diberikan di bawah Akta ini dan hendaklah terus berkuat kuasa dan berkesan berhubung dengan mereka yang terhadapnya ia terpakai sehingga dipinda atau dibatalkan di bawah Akta ini atau kaedah-kaedah, peraturan-peraturan atau perundangan subsidiari lain yang baru dibuat di bawahnya atau sehingga tarikh habis tempohnya.
+274. (1) Kumpulan Wang Telekomunikasi adalah
+
+<!-- marginal: Kumpulan -->
+
+dibubarkan.
+
+<!-- marginal: Wang -->
+
+<!-- marginal: Telekomuni- -->
+
+<!-- marginal: kasi. -->
+
+(2) Segala wang yang ada dalam Kumpulan Wang Telekomunikasi hendaklah dipindahkan, pada tarikh Akta ini mula berkuat kuasa, kepada dan diletakhakkan pada Kumpulan Wang yang ditubuhkan di bawah Akta Suruhanjaya Komunikasi dan Multimedia Malaysia 1998.
+
+<!-- marginal: Kecualian. -->
+
+275. Mana-mana pendaftaran, tindakan, perintah, arahan, kelulusan atau keputusan yang telah dilakukan, dibuat atau diberikan sebelum tarikh Akta ini mula berkuat kuasa hendaklah disifatkan telah dilakukan, dibuat atau diberikan di bawah Akta ini dan hendaklah terus berkuat kuasa dan berkesan berhubung dengan mereka yang terhadapnya ia terpakai sehingga dipinda atau dibatalkan di bawah Akta ini atau kaedah-kaedah, peraturan-peraturan atau perundangan subsidiari lain yang baru dibuat di bawahnya atau sehingga tarikh habis tempohnya.
 
 ## Bab 2
 
 Peruntukan Peralihan Bagi Lesen
 
-Lesen lama 276. Tertakluk kepada seksyen 278,
+<!-- marginal: Lesen lama -->
 
-<!-- marginal: lesen yang -->
+276. Tertakluk kepada seksyen 278, lesen yang
 
-hendaklah dikeluarkan di bawah Akta-Akta yang dimansuhkan ("lesen berkuat kuasa. lama") hendaklah terus berkuat kuasa di bawah Akta ini.
+<!-- marginal: hendaklah -->
 
-Lesen kelas 277. Walau apa pun seksyen 276, suatu lesen lama tidak baru boleh berkuat kuasa setakat apa-apa percanggahan dengan hendaklah menggantikan suatu lesen kelas yang diberikan di bawah Akta ini. lesen lama.
+dikeluarkan di bawah Akta-Akta yang dimansuhkan ("lesen
+
+<!-- marginal: berkuat -->
+
+<!-- marginal: kuasa. -->
+
+lama") hendaklah terus berkuat kuasa di bawah Akta ini.
+
+<!-- marginal: Lesen kelas -->
+
+277. Walau apa pun seksyen 276, suatu lesen lama tidak
+
+<!-- marginal: baru -->
+
+boleh berkuat kuasa setakat apa-apa percanggahan dengan
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: menggantikan -->
+
+suatu lesen kelas yang diberikan di bawah Akta ini.
+
+<!-- marginal: lesen lama. -->
 
 <!-- page 149 -->
 
@@ -5780,11 +7572,7 @@ kandungan yang dibekalkan menerusi kemudahan dan rangkaian itu.
 
 6. Akta bertujuan untuk mengadakan suatu set generik peruntukan pengawalseliaan yang diasaskan kepada takrif generik pasaran dan aktiviti perkhidmatan dan perkhidmatan. Walaupun industri komunikasi dan multimedia boleh merangkumi perkhidmatan dan aktiviti yang dirangkaikan dan tidak dirangkaikan, bidang kuasa Akta ini terhad kepada perkhidmatan dan aktiviti yang dirangkaikan sahaja.
 
-7. Peserta penting dalam industri yang dikawal selia di bawah Akta termasuk yang berikut: — pemberi kemudahan rangkaian, yang merupakan pemunya kemudahan, seperti stesen satelit bumi, kabel optik gentian jalur lebar, ibu .sawat dan talian telekomunikasi, kelengkapan penghantaran radiokomunikasi, stesen pangkalan komunikasi mudah gerak, dan menara dan kelengkapan penghantaran penyiaran; — pemberi perkhidmatan rangkaian, yang menyediakan sambungan dan lebar jalur asas untuk menyokong pelbagai aplikasi; — pemberi perkhidmatan aplikasi, yang menyediakan fungsi tertentu seperti perkhidmatan suara, perkhidmatan data, perkhidmatan berasaskan kandungan, dan perdagangan elektronik dan perkhidmatan penghantaran lain; dan — pemberi perkhidmatan aplikasi
-
-<!-- marginal: kandungan yang -->
-
-merupakan subset khas kepada pemberi perkhidmatan aplikasi termasuklah perkhidmatan penyiaran tradisional dan perkhidmatan yang lebih baru seperti percetakan dan perkhidmatan maklumat dalam talian.
+7. Peserta penting dalam industri yang dikawal selia di bawah Akta termasuk yang berikut: — pemberi kemudahan rangkaian, yang merupakan pemunya kemudahan, seperti stesen satelit bumi, kabel optik gentian jalur lebar, ibu .sawat dan talian telekomunikasi, kelengkapan penghantaran radiokomunikasi, stesen pangkalan komunikasi mudah gerak, dan menara dan kelengkapan penghantaran penyiaran; — pemberi perkhidmatan rangkaian, yang menyediakan sambungan dan lebar jalur asas untuk menyokong pelbagai aplikasi; — pemberi perkhidmatan aplikasi, yang menyediakan fungsi tertentu seperti perkhidmatan suara, perkhidmatan data, perkhidmatan berasaskan kandungan, dan perdagangan elektronik dan perkhidmatan penghantaran lain; dan — pemberi perkhidmatan aplikasi kandungan yang merupakan subset khas kepada pemberi perkhidmatan aplikasi termasuklah perkhidmatan penyiaran tradisional dan perkhidmatan yang lebih baru seperti percetakan dan perkhidmatan maklumat dalam talian.
 
 <!-- page 163 -->
 
@@ -5794,11 +7582,7 @@ merupakan subset khas kepada pemberi perkhidmatan aplikasi termasuklah perkhidma
 
 10. Bahagian II hingga V Akta mewujudkan kuasa Menteri dan suatu Suruhanjaya pengawal selia baru dan suatu Tribunal Rayuan, dan menyatakan tatacara bagi penjalanan kuasa-kuasa sedemikian.
 
-11. Bahagian VI Akta mewujudkan
-
-<!-- marginal: rangka kerja bagi -->
-
-pengawalseliaan ekonomi industri komunikasi dan multimedia, termasuklah pengawalan kemasukan pasaran melalui pelesenan, perlindungan am untuk menggalakkan persaingan yang adil dan dapat dikekalkan dalam induslri dan perlindungan peralihan tertentu, Sebagai tambahan, peruntukan bagi capaian kepada perkhidmatan sambungan memastikan bahawa peserta industri pada setiap peringkat rantaian nilai industri mempunyai capaian kepada kemudahan dan perkhidmatan yang. diperlukan untuk memberikan perkhidmatan mereka sendiri.
+11. Bahagian VI Akta mewujudkan rangka kerja bagi pengawalseliaan ekonomi industri komunikasi dan multimedia, termasuklah pengawalan kemasukan pasaran melalui pelesenan, perlindungan am untuk menggalakkan persaingan yang adil dan dapat dikekalkan dalam induslri dan perlindungan peralihan tertentu, Sebagai tambahan, peruntukan bagi capaian kepada perkhidmatan sambungan memastikan bahawa peserta industri pada setiap peringkat rantaian nilai industri mempunyai capaian kepada kemudahan dan perkhidmatan yang. diperlukan untuk memberikan perkhidmatan mereka sendiri.
 
 12. Bahagian VII Akta menyatakan kehendak bagi pengawalseliaan teknik industri, termasuklah penguntukan sumber terhad (spektrum, penomboran dan pengalamatan elektronik) dan juga menyediakan suatu rangka kerja untuk memastikan keselamatan, perlindungan keselamatan dan keutuhan perkhidmatan rangkaian dan perkhidmatan aplikasi melalui kod dan standard teknik.
 
@@ -5860,11 +7644,7 @@ Tribunal Rayuan:
 
 24. Akta memperuntukkan bahawa anggota Tribunal boleh dilantik selama sebilangan tahun, tidak melebihi tiga tahun, tetapi Tribunal hendaklah hanya bermesyuarat atas dasar ad hoc sebagaimana dan apabila ia dikehendaki untuk mendengar apa-apa rayuan yang dibuat.
 
-25. Anggota Tribunal dilantik oleh Menteri dan mesti termasuk seorang Pengerusi (yang merupakan Hakim Mahkamah Tinggi) dan sekurang-kurangnya dua orang anggota
-
-<!-- marginal: lain. Fasal 22 -->
-
-memperuntukkan bahawa kuorum bagi Tribunal tidak kurang daripada tiga orang dan tidak lebih daripada lima orang (termasuk Pengerusi).
+25. Anggota Tribunal dilantik oleh Menteri dan mesti termasuk seorang Pengerusi (yang merupakan Hakim Mahkamah Tinggi) dan sekurang-kurangnya dua orang anggota lain. Fasal 22 memperuntukkan bahawa kuorum bagi Tribunal tidak kurang daripada tiga orang dan tidak lebih daripada lima orang (termasuk Pengerusi).
 
 26. Bahagian III seterusnya menyatakan tatacara bagi peletakan jawatan atau penamatan pelantikan anggota. la juga mewujudkan kriteria dan kelayakan tertentu yang mesti dipenuhi oleh anggota Tribunal. la juga bertujuan untuk mewujudkan tatacara Tribunal dalam membuat keputusan dan untuk memberikan kuasa kepada Menteri untuk menentukan tatacara pengendalian bagi Tribunal.
 

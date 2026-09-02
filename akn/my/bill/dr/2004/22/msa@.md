@@ -510,11 +510,7 @@ mengkompaunkan mana-mana kesalahan yang dilakukan oleh mana-mana orang di bawah 
 
 (ii) dengan memasukkan selepas butiran 24 butiran yang berikut:
 
-Caruman Caruman Gaji Bulanan
-
-<!-- marginal: Jumlah -->
-
-Majikan Pekerja
+Caruman Caruman Gaji Bulanan Jumlah Majikan Pekerja
 
 "25. Apabila gaji RM35.85 RM10.25 RM46.10 melebihi RM2.000 tetapi tidak melebihi RM2.100
 
@@ -528,13 +524,15 @@ Majikan Pekerja
 
 30. Apabila gaji
 
-### r
+<!-- marginal: r -->
 
 RM44.65 RM12.75 RM57.40 melebihi RM2.500 tetapi tidak melebihi RM2.600
 
 <!-- page 22 -->
 
-Rang Caruman Caruman Majikan Gaji Bulanan Undang-Undang 31. Apabila gaji melebihi Jumlah RM46.35 RM13.25 RM2,600 tetapi tidak RM59.60 melebihi RM2.700 32. Apabila gaji RM48.15 RM13.75 RM61.90 melebihi
+Rang Caruman Caruman Majikan Gaji Bulanan Undang-Undang
+
+31. Apabila gaji melebihi Jumlah RM46.35 RM13.25 RM2,600 tetapi tidak RM59.60 melebihi RM2.700 32. Apabila gaji RM48.15 RM13.75 RM61.90 melebihi
 
 ## RM2/7OO
 
@@ -544,7 +542,7 @@ tetapi tidak melebihi RM2,800
 
 34. Apabila gaji RM51.65 RM14.75 RM66.40' melebihi RM2.900
 
-dan
+<!-- marginal: dan -->
 
 (b) dalam perenggan 4—
 
@@ -552,15 +550,7 @@ dan
 
 (ii) dengan memasukkan selepas butiran 24 butiran yang berikut:
 
-<!-- marginal: Caruma -->
-
-Gaji Bulanan
-
-<!-- marginal: n -->
-
-<!-- marginal: Majikan -->
-
-'25. Apabila gaji melebihi RM2,000 RM25.60 tetapi tidak melebihi RM2,100
+Caruma Gaji Bulanan n Majikan '25. Apabila gaji melebihi RM2,000 RM25.60 tetapi tidak melebihi RM2,100
 
 26. Apabila gaji melebihi RM2.100 tetapi tidak melebihi RM2.200 RM26.90
 
@@ -568,51 +558,21 @@ Gaji Bulanan
 
 <!-- page 23 -->
 
-Gaji Bulanan
+Gaji Bulanan Caruman Majikan
 
-<!-- marginal: Caruman -->
+28. Apabila gaji melebihi RM2.300 RM29.40 tetapi tidak melebihi RM2.400
 
-<!-- marginal: Majikan -->
+29. Apabila gaji melebihi RM2.400 RM30.60 tetapi tidak melebihi RM2,500
 
-28. Apabila gaji melebihi RM2.300
+30. Apabila gaji melebihi RM2,500 RM31.90 tetapi tidak melebihi RM2,600
 
-<!-- marginal: RM29.40 -->
+31. Apabila gaji melebihi RM2,600 RM33.1O tetapi tidak melebihi RM2.700
 
-tetapi tidak melebihi RM2.400
+32. Apabila gaji melebihi RM2J00 RM34.40 tetapi tidak melebihi RM2,800
 
-29. Apabila gaji melebihi RM2.400
+33. Apabila gaji melebihi RM2.800 RM35.60 tetapi tidak melebihi RM2.900
 
-<!-- marginal: RM30.60 -->
-
-tetapi tidak melebihi RM2,500
-
-30. Apabila gaji melebihi RM2,500
-
-<!-- marginal: RM31.90 -->
-
-tetapi tidak melebihi RM2,600
-
-31. Apabila gaji melebihi RM2,600
-
-<!-- marginal: RM33.1O -->
-
-tetapi tidak melebihi RM2.700
-
-32. Apabila gaji melebihi RM2J00
-
-<!-- marginal: RM34.40 -->
-
-tetapi tidak melebihi RM2,800
-
-33. Apabila gaji melebihi RM2.800
-
-<!-- marginal: RM35.60 -->
-
-tetapi tidak melebihi RM2.900
-
-34. Apabila gaji melebihi RM2.900
-
-<!-- marginal: RM36.90". -->
+34. Apabila gaji melebihi RM2.900 RM36.90".
 
 ### Pindaan Jadual Keempat
 
@@ -626,13 +586,7 @@ tetapi tidak melebihi RM2.900
 
 (iii) dengan memasukkan selepas butiran 24 butiran yang berikut:
 
-Gaji bulanan yang Jenis Jenis Gaji bulanan sebenar bagi Pertama Kedua anggapan yang bulan itu
-
-<!-- marginal: bersamaan -->
-
-<!-- marginal: bagi bulan -->
-
-<!-- marginal: itu -->
+Gaji bulanan yang Jenis Jenis Gaji bulanan sebenar bagi Pertama Kedua anggapan yang bulan itu bersamaan bagi bulan itu
 
 '25. Apabila gaji RM46.10 RM25.60 RM2,050.00 melebihi RM2,000 tetapi tidak melebihi RM2,100
 
@@ -656,33 +610,11 @@ Gaji bulanan yang Jenis Jenis Gaji bulanan sebenar bagi Pertama Kedua anggapan b
 
 <!-- page 25 -->
 
-Gaji bulanan yang Jenis Jenis
+Gaji bulanan yang Jenis Jenis Gaji bulanan sebenar bagi Pertama Kedua anggapan bulan itu bersamaan bagi bulan itu
 
-<!-- marginal: Gaji bulanan -->
+32. Apabila gaji RM61.90 RM34.40 RM2,750.00 melebihi RM2,700 tetapi tidak melebihi RM2,800
 
-sebenar bagi Pertama Kedua
-
-<!-- marginal: anggapan -->
-
-bulan itu
-
-<!-- marginal: bersamaan -->
-
-<!-- marginal: bagi bulan -->
-
-<!-- marginal: itu -->
-
-32. Apabila gaji RM61.90 RM34.40
-
-<!-- marginal: RM2,750.00 -->
-
-melebihi RM2,700 tetapi tidak melebihi RM2,800
-
-33. Apabila gaji RM64.10 RM35.60
-
-<!-- marginal: RM2,850.00 -->
-
-melebihi RM2,800 tetapi tidak melebihi RM2,900
+33. Apabila gaji RM64.10 RM35.60 RM2,850.00 melebihi RM2,800 tetapi tidak melebihi RM2,900
 
 34. Apabila gaji RM66.40 RM36.90 RM2,950.00"; melebihi RM2,900
 

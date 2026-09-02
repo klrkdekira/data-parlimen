@@ -28,7 +28,11 @@ Naskhah Sahih—Bahasa Malaysia
 
 bernama
 
-Suatu Akta bagi menggunakan sejumlah wang daripada Kumpulan Wang Disatukan untuk perkhidmatan bagi tahun 1991 dan bagi memperuntukkan jumlah wang itu dan apa-apa jumlah wang lain yang telah dibenarkan sebagai perbelanjaan untuk perkhidmatan bagi sebahagian daripada tahun itu. [ ]
+Suatu Akta bagi menggunakan sejumlah wang daripada Kumpulan Wang Disatukan untuk perkhidmatan bagi tahun 1991 dan bagi memperuntukkan jumlah wang itu dan apa-apa jumlah wang lain yang
+
+<!-- marginal: telah -->
+
+dibenarkan sebagai perbelanjaan untuk perkhidmatan bagi sebahagian daripada tahun itu. [ ]
 
 ## MAKA INILAH DIPERBUAT UNDANG-UNDANG
 
@@ -38,7 +42,7 @@ oleh Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong dengan nasih
 
 <!-- marginal: ringkas. -->
 
-Pengeluaran
+<!-- marginal: Pengeluaran -->
 
 2. (1) Pengeluaran sejumlah wang yang tidak melebihi
 
@@ -50,7 +54,9 @@ dua belas ribu lapan ratus enam juta tujuh ratus lima
 
 <!-- marginal: untuk per- -->
 
-ribu empat ratus sembilan puluh ringgit
+ribu empat ratus sembilan puluh
+
+<!-- marginal: ringgit -->
 
 <!-- marginal: khidmatan -->
 
@@ -104,7 +110,11 @@ B. 6 ... Suruhanjaya Perkhidmatan Pen-
 
 <!-- marginal: 4,299,800 -->
 
-didikan B. 7 ... Jabatan Perdana Menteri 413.467,610 B. 8 ... Jabatan Perkhidmatan Awam
+didikan B. 7 ... Jabatan Perdana Menteri
+
+<!-- marginal: 413.467,610 -->
+
+B. 8 ... Jabatan Perkhidmatan Awam
 
 <!-- marginal: 581,105,900 -->
 
@@ -162,9 +172,101 @@ bangsa dan Industri
 
 ## PERBEKALAN
 
-Maksud Tajuk Amaun
+Maksud Tajuk
 
-B. 21 ... Kementerian Perdagangan Dalam $ 32,340,100 Negeri dan Hal Ehwal Pengguna B. 22 ... Kementerian Kebudayaan, Kese- 104,477,000 nian dan Pelancongan B. 23 ... Jabatan Arkib Negara 8,049,400 B. 24 ... Muzium Negara 4,200,000 B. 25 ... Kementerian Pertahanan 2,500,224,000 B. 26 ... Kementerian Pendidikan 5,551,520,900 B. 27 ... Jabatan Perpustakaan Negara 6,658,000 B. 28 ... Perbendaharaan 105,725,000 B. 29 ... Perkhidmatan Am Perbendaharaan 708,686,070 B. 30 ... Peruntukan kepada Kumpulan 1,958,621,010 Wang Terkanun B. 31 ... Jabatan Kastam dan Eksais Diraja 167,686.300 B. 32 ... Jabatan Hasil Dalam Negeri 108,320,400 B. 33 ... Kementerian Perusahaan Awam 166,501,600 B. 34 ... Kementerian Kesihatan 1,446,500,400 B. 35 ... Kementerian Dalam Negeri 96,911,900 B. 36 ... Polis Diraja Malaysia 1,244,731,400 B. 37 ... Jabatan Imigresen 60,735,000 B. 38 ... Jabatan Pendaftaran Pertubuhan 3,166,500 B. 39 ... Jabatan Pendaftaran Negara 49,141,600 B. 40 ... Jabatan Penjara 111,984,900 B. 41 ... Jabatan Pertahanan Awam 2,838,500 B. 42 ... Jabatan Percetakan Negara 33,500,000 B. 43 ... Kementerian Kehakiman 52,574,600 B. 44 ... Kementerian Penerangan 242,095,100 B. 45 ... Kementerian Sumber Manusia 62,272,100 B. 46 ... Kementerian Sains, Teknologi 99,664,200 dan Alam Sekitar B. 47 ... Kementerian Pengangkutan 162,611,500 B. 48 ... Jabatan Penerbangan Awam 10
+<!-- marginal: Amaun -->
+
+B. 21 ... Kementerian Perdagangan Dalam $
+
+<!-- marginal: 32,340,100 -->
+
+Negeri dan Hal Ehwal Pengguna B. 22 ... Kementerian Kebudayaan, Kese-
+
+<!-- marginal: 104,477,000 -->
+
+nian dan Pelancongan B. 23 ... Jabatan Arkib Negara
+
+<!-- marginal: 8,049,400 -->
+
+B. 24 ... Muzium Negara
+
+<!-- marginal: 4,200,000 -->
+
+B. 25 ... Kementerian Pertahanan 2,500,224,000 B. 26 ... Kementerian Pendidikan 5,551,520,900 B. 27 ... Jabatan Perpustakaan Negara
+
+<!-- marginal: 6,658,000 -->
+
+B. 28 ... Perbendaharaan
+
+<!-- marginal: 105,725,000 -->
+
+B. 29 ... Perkhidmatan Am Perbendaharaan
+
+<!-- marginal: 708,686,070 -->
+
+B. 30 ... Peruntukan kepada Kumpulan 1,958,621,010 Wang Terkanun B. 31 ... Jabatan Kastam dan Eksais Diraja
+
+<!-- marginal: 167,686.300 -->
+
+B. 32 ... Jabatan Hasil Dalam Negeri
+
+<!-- marginal: 108,320,400 -->
+
+B. 33 ... Kementerian Perusahaan Awam
+
+<!-- marginal: 166,501,600 -->
+
+B. 34 ... Kementerian Kesihatan 1,446,500,400 B. 35 ... Kementerian Dalam Negeri
+
+<!-- marginal: 96,911,900 -->
+
+B. 36 ... Polis Diraja Malaysia 1,244,731,400 B. 37 ... Jabatan Imigresen
+
+<!-- marginal: 60,735,000 -->
+
+B. 38 ... Jabatan Pendaftaran Pertubuhan
+
+<!-- marginal: 3,166,500 -->
+
+B. 39 ... Jabatan Pendaftaran Negara
+
+<!-- marginal: 49,141,600 -->
+
+B. 40 ... Jabatan Penjara
+
+<!-- marginal: 111,984,900 -->
+
+B. 41 ... Jabatan Pertahanan Awam
+
+<!-- marginal: 2,838,500 -->
+
+B. 42 ... Jabatan Percetakan Negara
+
+<!-- marginal: 33,500,000 -->
+
+B. 43 ... Kementerian Kehakiman
+
+<!-- marginal: 52,574,600 -->
+
+B. 44 ... Kementerian Penerangan
+
+<!-- marginal: 242,095,100 -->
+
+B. 45 ... Kementerian Sumber Manusia
+
+<!-- marginal: 62,272,100 -->
+
+B. 46 ... Kementerian Sains, Teknologi
+
+<!-- marginal: 99,664,200 -->
+
+dan Alam Sekitar B. 47 ... Kementerian Pengangkutan
+
+<!-- marginal: 162,611,500 -->
+
+B. 48 ... Jabatan Penerbangan Awam
+
+<!-- marginal: 10 -->
 
 <!-- page 5 -->
 
@@ -174,11 +276,41 @@ Maksud Tajuk
 
 <!-- marginal: Amaun -->
 
-B. 49 ... Kementerian Tenaga, Telekom $ 53,515,100 dan Pos B. 50 ... Jabatan Perkhidmatan Pos
+B. 49 ... Kementerian Tenaga, Telekom $
+
+<!-- marginal: 53,515,100 -->
+
+dan Pos B. 50 ... Jabatan Perkhidmatan Pos
 
 <!-- marginal: 10 -->
 
-B. 51 ... Kementerian Luar Negeri 147,523,500 B. 52 ... Kementerian Kerja Raya 407,521,300 B. 53 ... Kementerian Tanah dan Pemba- 124,645,900 ngunan Koperasi B. 54 ... Kementerian Pembangunan Luar 440,777,700 Bandar B. 55 ... Jabatan Hal Ehwal Orang Asli 31,080,800 B. 56 ... Kementerian Perpaduan Negara 80,210,700 dan Pembangunan Masyarakat B. 57 ... Jabatan Perpaduan Negara 18,641,400
+B. 51 ... Kementerian Luar Negeri
+
+<!-- marginal: 147,523,500 -->
+
+B. 52 ... Kementerian Kerja Raya
+
+<!-- marginal: 407,521,300 -->
+
+B. 53 ... Kementerian Tanah dan Pemba-
+
+<!-- marginal: 124,645,900 -->
+
+ngunan Koperasi B. 54 ... Kementerian Pembangunan Luar
+
+<!-- marginal: 440,777,700 -->
+
+Bandar B. 55 ... Jabatan Hal Ehwal Orang Asli
+
+<!-- marginal: 31,080,800 -->
+
+B. 56 ... Kementerian Perpaduan Negara
+
+<!-- marginal: 80,210,700 -->
+
+dan Pembangunan Masyarakat B. 57 ... Jabatan Perpaduan Negara
+
+<!-- marginal: 18,641,400 -->
 
 ## JUMLAH
 

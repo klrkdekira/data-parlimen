@@ -14,9 +14,7 @@ I
 
 ## PERMULAAN
 
-1. Tajuk ringkas dan mula berkuatkuasa.
-
-2. Tafsiran.
+1. Tajuk ringkas dan mula berkuatkuasa. 2. Tafsiran.
 
 ## BAHAGIAN
 
@@ -24,19 +22,9 @@ II
 
 ## PENUBUHAN DAN PENTADBIRAN
 
-3. Kuasa mengisytiharkan penjara.
+3. Kuasa mengisytiharkan penjara. 4. Bangunan sedia ada diisytiharkan sebagai penjara. 5. Perihalan penjara dalam writ, dsb. 6. Penguntukan penjara bagi kategori banduan. 7. Penetapan lokap di balai polis dan bangunan mahkamah sebagai
 
-4. Bangunan sedia ada diisytiharkan sebagai penjara.
-
-5. Perihalan penjara dalam writ, dsb.
-
-6. Penguntukan penjara bagi kategori banduan.
-
-7. Penetapan lokap di balai polis dan bangunan mahkamah sebagai
-
-8. Penjara sementara.
-
-9. Pentadbiran penjara.
+8. Penjara sementara. 9. Pentadbiran penjara.
 
 ## BAHAGIAN
 
@@ -52,19 +40,9 @@ III
 
 <!-- page 2 -->
 
-13. Tugas Ketua Pengarah.
+13. Tugas Ketua Pengarah. 14. Pegawai Perubatan dan Pegawai Pergigian bagi penjara. 15. Tugas Pegawai Perubatan dan Pegawai Pergigian. 16. Terma dan syarat perlantikan. 17. Tugas pegawai penjara.
 
-14. Pegawai Perubatan dan Pegawai Pergigian bagi penjara.
-
-15. Tugas Pegawai Perubatan dan Pegawai Pergigian.
-
-16. Terma dan syarat perlantikan.
-
-17. Tugas pegawai penjara.
-
-18. Senjata, pelengkapan, dsb.
-
-19. Perkhidmatan dalam Malaysia atau di atas vesel, pesawat udara, dsb.
+18. Senjata, pelengkapan, dsb. 19. Perkhidmatan dalam Malaysia atau di atas vesel, pesawat udara, dsb.
 
 20. Pematuhan undang-undang bertulis dan perintah yang sah.
 
@@ -244,11 +222,33 @@ oleh Menteri melalui pemberitahuan dalam Warta.
 
 "ditetapkan" ertinya ditetapkan oleh atau di bawah Akta ini dan jika kuasa tidak ditetapkan, oleh Menteri;
 
-"doktor pergigian berdaftar" ertinya seseorang doktor Akta 51. yang didaftarkan di bawah Akta Pergigian 1971;
+"doktor pergigian berdaftar" ertinya seseorang doktor
+
+<!-- marginal: Akta 51. -->
+
+yang didaftarkan di bawah Akta Pergigian 1971;
 
 "Hakim Pelawat" ertinya seseorang anggota Lembaga Hakim Pelawat yang dilantik di bawah seksyen 64;
 
-"hospital mental" ertinya sesuatu hospital yang ditubuhkan bagi penerimaan dan penahanan orang celaru Ord T.M. mental di bawah seksyen 30 Ordinan Kecelaruan Mental 31/1952. 1952, dan termasuklah sesuatu hospital yang diluluskan Ord. Sarawak yang diwartakan di bawah Ordinan Kesihatan Mental 16/1961. 1961 dan sesuatu rumah sakit di bawah Ordinan Orang Sabah Bab
+"hospital mental" ertinya sesuatu hospital yang ditubuhkan bagi penerimaan dan penahanan orang celaru
+
+<!-- marginal: Ord T.M. -->
+
+mental di bawah seksyen 30 Ordinan Kecelaruan Mental
+
+<!-- marginal: 31/1952. -->
+
+1952, dan termasuklah sesuatu hospital yang diluluskan
+
+<!-- marginal: Ord. Sarawak -->
+
+yang diwartakan di bawah Ordinan Kesihatan Mental
+
+<!-- marginal: 16/1961. -->
+
+1961 dan sesuatu rumah sakit di bawah Ordinan Orang
+
+<!-- marginal: Sabah Bab -->
 
 74. Gila 1961;
 
@@ -296,7 +296,9 @@ kepadanya di bawah Akta Polis 1967;
 
 <!-- page 8 -->
 
-Akta 50 14 Akta Perubatan 1971, mengikut mana-mana yang berkenaan;
+<!-- marginal: Akta 50 -->
+
+14 Akta Perubatan 1971, mengikut mana-mana yang berkenaan;
 
 "penjara" ertinya mana-mana rumah, bangunan, kepungan atau tempat, atau mana-mana bahagiannya, yang diisytiharkan sebagai sesuatu penjara di bawah seksyen 3 dan hendaklah termasuk tanah dan bangunan di sekitar kepungan penjara dan juga tanah lapang dan lain-lain tanah atau bangunan yang dipunyai atau yang bercantum dengannya dan digunakan oleh banduan;
 
@@ -306,7 +308,11 @@ Akta 50 14 Akta Perubatan 1971, mengikut mana-mana yang berkenaan;
 
 "senjata" ertinya apa-apa cota, senjata api, amunisi, dan termasuklah apa-apa alat yang ditentukan oleh Ketua Pengarah;
 
-"senjata api" mempunyai erti yang diberikan kepadanya Akta 206. di bawah Akta Senjata Api 1960;
+"senjata api" mempunyai erti yang diberikan kepadanya
+
+<!-- marginal: Akta 206. -->
+
+di bawah Akta Senjata Api 1960;
 
 "Suruhanjaya" ertinya Suruhanjaya Perkhidmatan Awam yang ditubuhkan di bawah Perkara 139 Perlembagaan Persekutuan;
 
@@ -400,19 +406,61 @@ melalui perintah—
 
 (2) Seseorang banduan daripada kategori yang baginya sesuatu penjara hendak diperuntukkan boleh dihantar dan dipenjarakan dengan sah di penjara itu walaupun waran atau perintah bagi pemenjaraan banduan itu telah dikeluarkan oleh sesuatu mahkamah yang tidak mempunyai bidang kuasa lazimnya di tempat di mana penjara itu terletak.
 
-Penetapan,
+<!-- marginal: Penetapan, -->
 
-7. (1) Adalah sah bagi Menteri, melalui pemberitahuan lokap di dalam Warta, untuk menetapkan lokap di mana-mana balai polis dan balai polis dan bangunan mahkamah sebagaimana yang hangunan dinyatakan dalam pemberitahuan itu sebagai tempat bagi mahkamah sebagai pengurungan orang, yang direman atau dihukum dengan tempat apa-apa tempoh pemenjaraan, tidak melebihi satu bulan, tahanan. sebagaimana yang dinyatakan dalam setiap kes.
+7. (1) Adalah sah bagi Menteri, melalui pemberitahuan
+
+<!-- marginal: lokap di -->
+
+dalam Warta, untuk menetapkan lokap di mana-mana
+
+<!-- marginal: balai polis -->
+
+<!-- marginal: dan -->
+
+balai polis dan bangunan mahkamah sebagaimana yang
+
+<!-- marginal: hangunan -->
+
+dinyatakan dalam pemberitahuan itu sebagai tempat bagi
+
+<!-- marginal: mahkamah -->
+
+<!-- marginal: sebagai -->
+
+pengurungan orang, yang direman atau dihukum dengan
+
+<!-- marginal: tempat -->
+
+apa-apa tempoh pemenjaraan, tidak melebihi satu bulan,
+
+<!-- marginal: tahanan. -->
+
+sebagaimana yang dinyatakan dalam setiap kes.
 
 (2) Sesuatu lokap yang ditetapkan sebagai suatu tempat pengurungan di bawah subseksyen (1)—
 
-(a) tidaklah boleh disifatkan sebagai sesuatu Akta 7. penjara bagi maksud Akta ini, atau Akta Pendaftaran Penjenayah dan Orang-Orang Yang Tak Diingini 1969 dan peraturan-peraturan yang dibuat di bawah Akta ini tidaklah terpakai baginya;
+(a) tidaklah boleh disifatkan sebagai sesuatu
 
-(b) hendaklah disifatkan sebagai sesuatu penjara NM-B.Bab6 bagi maksud Bab XXVII Kanun Prosedur Jenayah Akta 256, atau Akta Penghutang 1957.
+<!-- marginal: Akta 7. -->
 
-Penjara
+penjara bagi maksud Akta ini, atau Akta Pendaftaran Penjenayah dan Orang-Orang Yang Tak Diingini 1969 dan peraturan-peraturan yang dibuat di bawah Akta ini tidaklah terpakai baginya;
 
-8. (1) Bilamana Ketua Pengarah mendapati— sementara.
+(b) hendaklah disifatkan sebagai sesuatu penjara
+
+<!-- marginal: NM-B.Bab6 -->
+
+bagi maksud Bab XXVII Kanun Prosedur Jenayah
+
+<!-- marginal: Akta 256, -->
+
+atau Akta Penghutang 1957.
+
+<!-- marginal: Penjara -->
+
+8. (1) Bilamana Ketua Pengarah mendapati—
+
+<!-- marginal: sementara. -->
 
 (a) bahawa bilangan banduan dalam sesuatu penjara adalah lebih ramai daripada bilangan yang semunasabahnya boleh ditempatkan dalam penjara itu dan bahawa adalah tidak sesuai untuk memindahkan bilangan yang lebih itu ke penjara lain; atau
 
@@ -456,9 +504,13 @@ III
 
 ## PEGAWAI
 
-Perlantikan
+<!-- marginal: Perlantikan -->
 
-10. (1) Yang di-Pertuan Agong boleh melantik seorang pegawai. Ketua Pengarah Penjara bagi Malaysia.
+10. (1) Yang di-Pertuan Agong boleh melantik seorang
+
+<!-- marginal: pegawai. -->
+
+Ketua Pengarah Penjara bagi Malaysia.
 
 (2) Maka hendaklah dilantik seorang Timbalan Ketua Pengarah, yang adalah seorang pegawai penjara, dan sekian bilangan pegawai penjara sebagaimana yang perlu bagi menjalankan peruntukan Akta ini.
 
@@ -466,19 +518,43 @@ Perlantikan
 
 ## Jadual Pertama.
 
-Ketiadaan
+<!-- marginal: Ketiadaan -->
 
-11. (1) Jika Ketua Pengarah tidak ada atau ketakupayaan, atau kuasa dan tugas Ketua Pengarah di bawah Akta ini atau ketakupayaan Ketua mana-mana peraturan yang dibuat di bawahnya boleh Pengarah. dijalankan dan dilaksanakan oleh Timbalan Ketua Pengarah.
+11. (1) Jika Ketua Pengarah tidak ada atau ketakupayaan,
+
+<!-- marginal: atau -->
+
+kuasa dan tugas Ketua Pengarah di bawah Akta ini atau
+
+<!-- marginal: ketakupayaan -->
+
+<!-- marginal: Ketua -->
+
+mana-mana peraturan yang dibuat di bawahnya boleh
+
+<!-- marginal: Pengarah. -->
+
+dijalankan dan dilaksanakan oleh Timbalan Ketua Pengarah.
 
 (2) Jika Timbalan Ketua Pengarah tidak ada atau ketakupayaan, kuasa dan tugas Ketua Pengarah hendaklah dijalankan dan dilaksanakan oleh pegawai penjara yang terkanan dalam jabatan penjara,
 
-Penntah
+<!-- marginal: Penntah -->
 
-12. Ketua Pengarah boleh membuat dan mengeluarkan Tetap Ketua perintah, yang dipanggil Perintah Tetap Ketua Pengarah Pengarah. yang tidak berlawanan dengan Akta ini atau mana-mana peraturan yang dibuat di bawah Akta.
+12. Ketua Pengarah boleh membuat dan mengeluarkan
 
-Tugas Ketua
+<!-- marginal: Tetap Ketua -->
 
-13. (1) Ketua Pengarah hendaklah— Pengarah.
+perintah, yang dipanggil Perintah Tetap Ketua Pengarah
+
+<!-- marginal: Pengarah. -->
+
+yang tidak berlawanan dengan Akta ini atau mana-mana peraturan yang dibuat di bawah Akta.
+
+<!-- marginal: Tugas Ketua -->
+
+13. (1) Ketua Pengarah hendaklah—
+
+<!-- marginal: Pengarah. -->
 
 (a) secara berkala melawat dan memeriksa, atau menyebabkan supaya dilawati dan diperiksa, semua penjara di Malaysia;
 
@@ -540,21 +616,57 @@ Perubatan dan seorang Pegawai Pergigian bagi setiap penjara.
 
 (c) kerana apa-apa sebab lain.
 
-Tugas
+<!-- marginal: Tugas -->
 
-15. Seseorang Pegawai Perubatan dan Pegawai Pergigian Pegawai yang dilantik di bawah seksyen 14 hendaklah berada di Perubatan dan Pegawai bawah kawalan dan penyeliaan Ketua Pengarah semasa Pergigian. dalam penjara dan hendaklah melaksanakan apa-apa tugas yang ditetapkan.
+15. Seseorang Pegawai Perubatan dan Pegawai Pergigian
 
-Terma dan
+<!-- marginal: Pegawai -->
 
-16. Seseorang pegawai penjara yang dilantik di bawah syarat Akta ini hendaklah tertakluk kepada terma dan syarat perlantikan. perkhidmatan yang terpakai baginya pada tarikh perlantikannya.
+yang dilantik di bawah seksyen 14 hendaklah berada di
 
-Tugas
+<!-- marginal: Perubatan -->
 
-17. Seseorang pegawai penjara hendaklah melaksanakan pegawai apa-apa tugas sebagaimana yang ditetapkan. penjara.
+<!-- marginal: dan Pegawai -->
 
-Senjata,
+bawah kawalan dan penyeliaan Ketua Pengarah semasa
 
-18. Seseorang pegawai penjara hendaklah diberikan apa- pelengkapan, apa senjata, kelengkapan, pakaian seragam dan pelengkapan dsb. lain sebagaimana yang ditetapkan oleh Ketua Pengarah sebagai perlu bagi pelaksanaan tugasnya dengan cekap.
+<!-- marginal: Pergigian. -->
+
+dalam penjara dan hendaklah melaksanakan apa-apa tugas yang ditetapkan.
+
+<!-- marginal: Terma dan -->
+
+16. Seseorang pegawai penjara yang dilantik di bawah
+
+<!-- marginal: syarat -->
+
+Akta ini hendaklah tertakluk kepada terma dan syarat
+
+<!-- marginal: perlantikan. -->
+
+perkhidmatan yang terpakai baginya pada tarikh perlantikannya.
+
+<!-- marginal: Tugas -->
+
+17. Seseorang pegawai penjara hendaklah melaksanakan
+
+<!-- marginal: pegawai -->
+
+apa-apa tugas sebagaimana yang ditetapkan.
+
+<!-- marginal: penjara. -->
+
+<!-- marginal: Senjata, -->
+
+18. Seseorang pegawai penjara hendaklah diberikan apa-
+
+<!-- marginal: pelengkapan, -->
+
+apa senjata, kelengkapan, pakaian seragam dan pelengkapan
+
+<!-- marginal: dsb. -->
+
+lain sebagaimana yang ditetapkan oleh Ketua Pengarah sebagai perlu bagi pelaksanaan tugasnya dengan cekap.
 
 <!-- page 15 -->
 
@@ -568,13 +680,39 @@ Dengan syarat bahawa pegawai penjara itu boleh menggunakan senjata api dalam hal
 
 (5) Seseorang pegawai polis semasa bertindak atas sifat sebagai seorang pengawal pengiring atau pengawal dalam atau di sekitar sesuatu penjara atau lokap bagi maksud memastikan jagaan selamat ke atas seseorang banduan hendaklah tertakluk kepada peruntukan seksyen ini.
 
-Pegawai
+<!-- marginal: Pegawai -->
 
-23. Tertakluk kepada apa-apa peruntukan yang dinyatakan penjara sebaliknya, seseorang pegawai penjara semasa bertindak mempunyai kuasa sedemikian hendaklah menurut jawatannya mempunyai pegawai semua kuasa, kewenangan, perlindungan dan keistimewaan polis. seseorang pegawai polis.
+23. Tertakluk kepada apa-apa peruntukan yang dinyatakan
 
-Bantuan
+<!-- marginal: penjara -->
 
-24. (1) Ketua Pengarah boleh, dalam sesuatu darurat atau polis semasa bagi kepentingan keselamatan awam, meminta bantuan darurat. Polis Diraja Malaysia.
+sebaliknya, seseorang pegawai penjara semasa bertindak
+
+<!-- marginal: mempunyai -->
+
+<!-- marginal: kuasa -->
+
+sedemikian hendaklah menurut jawatannya mempunyai
+
+<!-- marginal: pegawai -->
+
+semua kuasa, kewenangan, perlindungan dan keistimewaan
+
+<!-- marginal: polis. -->
+
+seseorang pegawai polis.
+
+<!-- marginal: Bantuan -->
+
+24. (1) Ketua Pengarah boleh, dalam sesuatu darurat atau
+
+<!-- marginal: polis semasa -->
+
+bagi kepentingan keselamatan awam, meminta bantuan
+
+<!-- marginal: darurat. -->
+
+Polis Diraja Malaysia.
 
 (2) Pegawai polis yang membantu di bawah subseksyen
 
@@ -640,7 +778,7 @@ IV
 
 ## JAGAAN DAN PENGALIHAN BANDUAN
 
-Jagaan.
+<!-- marginal: Jagaan. -->
 
 26. (1) Seseorang banduan—
 
@@ -660,9 +798,19 @@ hendaklah disifatkan berada dalam penjara dan hendaklah tertakluk kepada semua k
 
 (2) Jika seseorang banduan telah melarikan diri daripada jagaan sah, tempoh semasa bebas itu tidaklah dikira sebagai sebahagian hukuman yang sedang dijalani pada masa dia melarikan diri.
 
-Penyerahan
+<!-- marginal: Penyerahan -->
 
-27. (1) Seseorang yang ditahan di bawah sesuatu waran orang yang atau sesuatu perintah mahkamah yang mempunyai bidang ditahan secara waran. kuasa sivil atau jenayah hendaklah dibawa di hadapan mahkamah yang mengeluarkan waran atau perintah itu.
+27. (1) Seseorang yang ditahan di bawah sesuatu waran
+
+<!-- marginal: orang yang -->
+
+atau sesuatu perintah mahkamah yang mempunyai bidang
+
+<!-- marginal: ditahan secara -->
+
+<!-- marginal: waran. -->
+
+kuasa sivil atau jenayah hendaklah dibawa di hadapan mahkamah yang mengeluarkan waran atau perintah itu.
 
 (2) Jika mahkamah di bawah subseksyen (1) tidak bersidang, orang itu hendaklah diserahkan kepada seorang Pegawai yang Menjaga bagi jagaan perantaraan.
 
@@ -734,11 +882,29 @@ bidang kuasa sivil atau jenayah, mahkamah itu boleh mengeluarkan suatu perintah 
 
 (4) Sesuatu perintah yang dikeluarkan dari Mahkamah Persekutuan, Mahkamah Rayuan atau Mahkamah Tinggi boleh ditandatangani oleh Pendaftar Mahkamah, dan jika dikeluarkan oleh mana-mana mahkamah lain hendaklah ditandatangani oleh Hakim Mahkamah Sesyen, Majistret, Pendaftar atau mana-mana lain pegawai pengetua mahkamah, mengikut mana-mana yang berkenaan.
 
-Kuasa Ketua
+<!-- marginal: Kuasa Ketua -->
 
-31. (1) Ketua Pengarah— Pengarah memerintah-
+31. (1) Ketua Pengarah—
 
-(a) boleh, setelah berpuas hati bahawa terdapat alasan kan penge- yang munasabah yang menghendaki kehadiran mukaan dalam seseorang banduan di mana-mana tempat di hal tertentu. Malaysia; atau
+<!-- marginal: Pengarah -->
+
+<!-- marginal: memerintah- -->
+
+(a) boleh, setelah berpuas hati bahawa terdapat alasan
+
+<!-- marginal: kan penge- -->
+
+yang munasabah yang menghendaki kehadiran
+
+<!-- marginal: mukaan -->
+
+<!-- marginal: dalam -->
+
+seseorang banduan di mana-mana tempat di
+
+<!-- marginal: hal tertentu. -->
+
+Malaysia; atau
 
 (b) hendaklah, apabila kehadiran seseorang banduan dikehendaki bagi maksud apa-apa siasatan awam,
 
@@ -746,9 +912,19 @@ melalui perintah secara bertulis, mengarahkan supaya banduan itu dibawa ke tempa
 
 (2) Seseorang banduan yang dibawa dari sesuatu penjara di bawah subseksyen (1) hendaklah, semasa berada di luar penjara itu, ditempatkan dalam apa-apa jagaan sebagaimana yang diarahkan oleh Ketua Pengarah, melalui perintah secara bertulis, dan semasa berada dalam jagaan itu hendaklah disifatkan berada dalam jagaan sah.
 
-Pengalihan
+<!-- marginal: Pengalihan -->
 
-32. (1) Ketua Pengarah boleh, melalui perintah secara dan pemm- bertulis, mengalihkan atau memindahkan semua atau dahan banduan. mana-mana banduan yang dikurung dalam sesuatu penjara ke mana-mana penjara lain.
+32. (1) Ketua Pengarah boleh, melalui perintah secara
+
+<!-- marginal: dan pemm- -->
+
+bertulis, mengalihkan atau memindahkan semua atau
+
+<!-- marginal: dahan -->
+
+<!-- marginal: banduan. -->
+
+mana-mana banduan yang dikurung dalam sesuatu penjara ke mana-mana penjara lain.
 
 (2) Tiada banduan yang dialihkan di bawah subseksyen
 
@@ -834,15 +1010,25 @@ hukuman pemenjaraan atau yang dijatuhkan hukuman mati didapati celaru mental ole
 
 (5) Jika seseorang banduan yang ditahan di bawah subseksyen (1) adalah, pada pendapat pegawai perubatan hospital mental itu, masih lagi celaru mental dan tempoh pemenjaraan yang baginya banduan itu ditahan telah habis—
 
-Ord. T.M.
+<!-- marginal: Ord. T.M. -->
 
-(a) dalam hal Malaysia Barat, seksyen 46 Ordinan No. 3111952. Kecelaruan Mental 1952 hendaklah terpakai bagi banduan itu seolah-olah dia telah ditahan mengikut suatu perakuan yang diberi di bawah seksyen 42 Ordinan itu;
+(a) dalam hal Malaysia Barat, seksyen 46 Ordinan
+
+<!-- marginal: No. 3111952. -->
+
+Kecelaruan Mental 1952 hendaklah terpakai bagi banduan itu seolah-olah dia telah ditahan mengikut suatu perakuan yang diberi di bawah seksyen 42 Ordinan itu;
 
 (b) dalam hal Wilayah Persekutuan Labuan, sebagaimana perlu, apa-apa peruntukan Ordinan Kecelaruan Mental 1952 sebagaimana yang diperluaskan ke Wilayah Persekutuan Labuan oleh Yang di-Pertuan Agong, hendaklah terpakai;
 
-(c) dalam hal Sabah, subseksyen 70(4) hingga (14) Ordinan Sabah 7/1956.
+(c) dalam hal Sabah, subseksyen 70(4) hingga (14)
 
-(d) dalam hal Sarawak, subseksyen 34(4) hingga Sarawak
+<!-- marginal: Ordinan -->
+
+<!-- marginal: Sabah 7/1956. -->
+
+(d) dalam hal Sarawak, subseksyen 34(4) hingga
+
+<!-- marginal: Sarawak -->
 
 ## Bab 24
 
@@ -886,9 +1072,23 @@ dipertanggungkan dengan kelarian itu melainkan jika banduan itu telah ditempatka
 
 <!-- page 23 -->
 
-Tugas untuk
+<!-- marginal: Tugas untuk -->
 
-40. (1) Adalah menjadi tugas pegawai perubatan hospital membantu di mana seseorang banduan telah dialihkan di bawah dalam seksyen 37 supaya memberi segala bantuan bagi memastikan mencegah kelarian. bahawa langkah berjaga-jaga yang perlu bagi mencegah kelarian banduan yang menjalani rawatan di hospital itu telah diambil.
+40. (1) Adalah menjadi tugas pegawai perubatan hospital
+
+<!-- marginal: membantu -->
+
+di mana seseorang banduan telah dialihkan di bawah
+
+<!-- marginal: dalam -->
+
+seksyen 37 supaya memberi segala bantuan bagi memastikan
+
+<!-- marginal: mencegah -->
+
+<!-- marginal: kelarian. -->
+
+bahawa langkah berjaga-jaga yang perlu bagi mencegah kelarian banduan yang menjalani rawatan di hospital itu telah diambil.
 
 (2) Adalah sah bagi pegawai perubatan dalam subseksyen
 
@@ -896,9 +1096,17 @@ Tugas untuk
 
 Dengan syarat bahawa tiada apa-apa langkah bagi mencegah seseorang banduan daripada melarikan diri boleh diambil yang, pada pendapat pegawai perubatan, berkemungkinan akan memudaratkan kesihatan banduan itu.
 
-Jagaan khas
+<!-- marginal: Jagaan khas -->
 
-41. Jika disebabkan beratnya kesalahan yang kerananya dalam banduan boleh berada dalam jagaan atau kerana apa-apa hospital. sebab lain, Pegawai yang Menjaga berpendapat adalah wajar untuk mengambil langkah-langkah khas bagi keselamatan seseorang banduan semasa menjalani rawatan dalam sesuatu hospital, Pegawai yang Menjaga boleh, sekiranya tidak ada pegawai penjara, menempatkan banduan itu dalam jagaan dua orang atau lebih daripada dua orang yang layak dan sesuai, seorang daripadanya hendaklah berada dengan banduan pada setiap masa,—
+41. Jika disebabkan beratnya kesalahan yang kerananya
+
+<!-- marginal: dalam -->
+
+banduan boleh berada dalam jagaan atau kerana apa-apa
+
+<!-- marginal: hospital. -->
+
+sebab lain, Pegawai yang Menjaga berpendapat adalah wajar untuk mengambil langkah-langkah khas bagi keselamatan seseorang banduan semasa menjalani rawatan dalam sesuatu hospital, Pegawai yang Menjaga boleh, sekiranya tidak ada pegawai penjara, menempatkan banduan itu dalam jagaan dua orang atau lebih daripada dua orang yang layak dan sesuai, seorang daripadanya hendaklah berada dengan banduan pada setiap masa,—
 
 (a) yang hendaklah diletakhakkan dengan kuasa dan kewenangan penuh untuk melakukan semua perkara yang perlu untuk mencegah banduan itu daripada melarikan diri; dan
 
@@ -946,9 +1154,13 @@ jika difikirkannya patut, melepaskan secara lesen dan atas apa-apa syarat sebaga
 
 <!-- page 25 -->
 
-Peremitan
+<!-- marginal: Peremitan -->
 
-44. (1) Dengan Tujuan untuk menggalakkan kelakuan baik hukuman. dan kerajinan dan untuk memudahkan pemerlakuan pemulihan, seseorang banduan yang dihukum penjara selama lebih daripada sebulan, adalah berhak diberi remitan daripada hukumannya.
+44. (1) Dengan Tujuan untuk menggalakkan kelakuan baik
+
+<!-- marginal: hukuman. -->
+
+dan kerajinan dan untuk memudahkan pemerlakuan pemulihan, seseorang banduan yang dihukum penjara selama lebih daripada sebulan, adalah berhak diberi remitan daripada hukumannya.
 
 (2) Semua atau mana-mana bahagian remitan yang seseorang banduan berhak boleh, apabila melakukan sesuatu kesalahan di bawah seksyen 50, dibatalkan oleh Ketua Pengarah;
 
@@ -958,9 +1170,13 @@ Dengan syarat bahawa tidak dalam mana-mana kes pun perlucuthakan boleh melebihi 
 
 (4) Seseorang banduan yang diberikan remitan sebahagian daripada hukumannya hendaklah dibebaskan apabila habisnya tempoh sekian banyak hukumannya yang tinggal selepas dipotong bahagian yang diremitkan daripada hukuman itu.
 
-Pembebasan
+<!-- marginal: Pembebasan -->
 
-45. (1) Seseorang Pegawai yang Menjaga hendaklah banduan. bertanggungjawab bagi pembebasan banduan yang sewajarnya sebaik sahaja dia menjadi berhak untuk dibebaskan, sama ada kerana—
+45. (1) Seseorang Pegawai yang Menjaga hendaklah
+
+<!-- marginal: banduan. -->
+
+bertanggungjawab bagi pembebasan banduan yang sewajarnya sebaik sahaja dia menjadi berhak untuk dibebaskan, sama ada kerana—
 
 (a) habisnya tempoh hukumannya;
 
@@ -1060,9 +1276,11 @@ memperkenalkan sesuatu skim dan banduan itu boleh atas pilihan mereka sendiri me
 
 (b) hendaklah, pada setiap masa disifatkan berada dalam penjara dan tertakluk kepada semua keadaan yang sama seolah-olah dia sebenarnya berada dalam penjara.
 
-Pengasingan
+<!-- marginal: Pengasingan -->
 
-49. (1) Seseorang banduan— banduan.
+49. (1) Seseorang banduan—
+
+<!-- marginal: banduan. -->
 
 (a) yang dikurung di bawah proses sivil;
 
@@ -1130,29 +1348,59 @@ Dengan syarat bahawa apa-apa hukuman sebat yang diperintahkan hendaklah tertaklu
 
 <!-- page 29 -->
 
-Daftar
+<!-- marginal: Daftar -->
 
-51. Pegawai yang Menjaga hendaklah mencatatkan dalam hukuman. suatu daftar yang hendaklah dibuka bagi pemeriksaan Hakim Pelawat suatu rekod hukuman yang dikenakan olehnya ke atas banduan yang menunjukkan, berkenaan dengan setiap banduan yang dihukum, nama banduan itu, jenis kesalahannya dan takat hukumannya.
+51. Pegawai yang Menjaga hendaklah mencatatkan dalam
 
-Banduan
+<!-- marginal: hukuman. -->
 
-52. Tiada banduan boleh dihukum sehinggalah dia telah boleh diberi peluang— membuat pembelaannya.
+suatu daftar yang hendaklah dibuka bagi pemeriksaan Hakim Pelawat suatu rekod hukuman yang dikenakan olehnya ke atas banduan yang menunjukkan, berkenaan dengan setiap banduan yang dihukum, nama banduan itu, jenis kesalahannya dan takat hukumannya.
+
+<!-- marginal: Banduan -->
+
+52. Tiada banduan boleh dihukum sehinggalah dia telah
+
+<!-- marginal: boleh -->
+
+diberi peluang—
+
+<!-- marginal: membuat -->
+
+<!-- marginal: pembelaannya. -->
 
 (a) untuk mendengar tuduhan atau aduan terhadapnya dan keterangan yang menyokong tuduhan atau aduan itu; dan
 
 (b) untuk membuat pembelaannya dan untuk meminta memberi keterangan bagi menyokong pembelaan itu.
 
-Pendakwaan
+<!-- marginal: Pendakwaan -->
 
-53. Tiada apa-apa dalam Akta ini boleh ditafsirkan sebagai bagi mengecualikan mana-mana banduan daripada tindakan kesalahan. yang diambil terhadap apa-apa kesalahan melalui penjalanan biasa undang-undang, tetapi tiada banduan boleh dihukum dua kali bagi kesalahan yang sama.
+53. Tiada apa-apa dalam Akta ini boleh ditafsirkan sebagai
+
+<!-- marginal: bagi -->
+
+mengecualikan mana-mana banduan daripada tindakan
+
+<!-- marginal: kesalahan. -->
+
+yang diambil terhadap apa-apa kesalahan melalui penjalanan biasa undang-undang, tetapi tiada banduan boleh dihukum dua kali bagi kesalahan yang sama.
 
 ## BAHAGIAN VI
 
 ## KESALAHAN
 
-Kesalahan
+<!-- marginal: Kesalahan -->
 
-54. (1) Tiada seorang pun pegawai penjara, Pegawai mengenai Perubatan, Pegawai Pergigian atau kakitangan yang diambil perbekalan penjara. kerja oleh jabatan penjara boleh—
+54. (1) Tiada seorang pun pegawai penjara, Pegawai
+
+<!-- marginal: mengenai -->
+
+Perubatan, Pegawai Pergigian atau kakitangan yang diambil
+
+<!-- marginal: perbekalan -->
+
+<!-- marginal: penjara. -->
+
+kerja oleh jabatan penjara boleh—
 
 (a) secara langsung atau tak langsung mempunyai apa-apakepentingan kewangan dalam pembelian perbekalan penjara;
 
@@ -1212,9 +1460,23 @@ bagi apa-apa maksud yang disebutkan dalam subseksyen
 
 (1) adalah melakukan suatu kesalahan dan apabila disabitkan, bolehlah didenda sebanyak sepuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
 
-Penyerahan
+<!-- marginal: Penyerahan -->
 
-56. (1) Seseorang, apabila berhenti daripada menjadi pakaian seorang pegawai penjara, hendaklah dengan serta-merta seragam, dsb. semasa menyerahkan kepada Pegawai yang Menjaga penjara yang berhenti. dia berkhidmat pada masa dia berhenti sebagai seorang pegawai penjara, tiap-tiap artikel pakaian seragam, pakaian dan segala senjata, pelengkapan dan tiap-tiap jenis barang lain kepunyaan Kerajaan.
+56. (1) Seseorang, apabila berhenti daripada menjadi
+
+<!-- marginal: pakaian -->
+
+seorang pegawai penjara, hendaklah dengan serta-merta
+
+<!-- marginal: seragam, dsb. -->
+
+<!-- marginal: semasa -->
+
+menyerahkan kepada Pegawai yang Menjaga penjara yang
+
+<!-- marginal: berhenti. -->
+
+dia berkhidmat pada masa dia berhenti sebagai seorang pegawai penjara, tiap-tiap artikel pakaian seragam, pakaian dan segala senjata, pelengkapan dan tiap-tiap jenis barang lain kepunyaan Kerajaan.
 
 (2) Seseorang pegawai penjara yang tidak mematuhi subseksyen (1) adalah melakukan suatu kesalahan dan apabila disabitkan, bolehlah—
 
@@ -1246,9 +1508,7 @@ atau didapati memiliki dan yang gagal
 
 <!-- marginal: kepada -->
 
-menjelaskan dengan memuaskan
-
-<!-- marginal: akan -->
+menjelaskan dengan memuaskan akan
 
 <!-- marginal: pegawai -->
 
@@ -1296,13 +1556,27 @@ dipenjarakan selama suatu tempoh tidak melebihi enam bulan atau kedua-duanya.
 
 adalah melakukan suatu kesalahan dan jika disabitkan, bolehlah didenda tidak melebihi seribu ringgit atau penjara bagi suatu tempoh tidak melebihi enam bulan atau kedua- duanya.
 
-Penyeludupan
+<!-- marginal: Penyeludupan -->
 
-58. (1) Seseorang yang menyeludupkan atau cuba untuk artikel yang menyeludup sesuatu artikel yang dilarang ke dalam sesuatu dilarang ke dalam penjara adalah melakukan suatu kesalahan dan apabila penjara. disabitkan, bolehlah didenda tidak melebihi dua ribu ringgit atau dipenjarakan selama suatu tempoh tidak melebihi enam bulan atau kedua-duanya.
+58. (1) Seseorang yang menyeludupkan atau cuba untuk
+
+<!-- marginal: artikel yang -->
+
+menyeludup sesuatu artikel yang dilarang ke dalam sesuatu
+
+<!-- marginal: dilarang ke -->
+
+<!-- marginal: dalam -->
+
+penjara adalah melakukan suatu kesalahan dan apabila
+
+<!-- marginal: penjara. -->
+
+disabitkan, bolehlah didenda tidak melebihi dua ribu ringgit atau dipenjarakan selama suatu tempoh tidak melebihi enam bulan atau kedua-duanya.
 
 (2) Dalam seksyen ini, "artikel larangan" ertinya apa- apa dadah, wang atau arak dan termasuklah apa-apa alat atau artikel sebagaimana yang ditetapkan oleh Ketua Pengarah dari semasa ke semasa.
 
-Penalti am.
+<!-- marginal: Penalti am. -->
 
 59. Seseorang yang melakukan sesuatu kesalahan di bawah Akta ini atau mana-mana peraturan yang dibuat di bawah Akta yang baginya tiada penalti diperuntukkan dengan nyata hendaklah, apabila disabitkan, didenda tidak melebihi lima ratus ringgit atau dipenjarakan selama suatu tempoh tidak melebihi enatn bulan atau kedua-duanya.
 
@@ -1366,9 +1640,17 @@ bagi maksud —
 
 (c) mendapatkan keselesaan, kemudahan dan lain- lain faedah, yang tidak boleh dikenakan kepada hasil awam, bagi pegawai penjara, bekas pegawai penjara yang telah bersara secara pencen, ganjaran atau elaun atau orang yang pada keseluruhannya atau sebahagiannya bergantung kepada pegawai penjara yang telah meninggal dunia atau bekas pegawai penjara pada masa kematiannya.
 
-Pentadbiran
+<!-- marginal: Pentadbiran -->
 
-62. (1) Maka hendaklah ditubuhkan suatu Jawatankuasa Kumpulan Kumpulan Wang Hadiah Pegawai Penjara yang hendaklah Wang mengelola Kumpulan Wang itu.
+62. (1) Maka hendaklah ditubuhkan suatu Jawatankuasa
+
+<!-- marginal: Kumpulan -->
+
+Kumpulan Wang Hadiah Pegawai Penjara yang hendaklah
+
+<!-- marginal: Wang -->
+
+mengelola Kumpulan Wang itu.
 
 (2) Jawatankuasa hendaklah terdiri daripada anggota yang berikut :
 
@@ -1388,9 +1670,29 @@ Pentadbiran
 
 AM
 
-Pegawai
+<!-- marginal: Pegawai -->
 
-63. (1) Semua pegawai penjara hendaklah tertakluk penjara kepada peraturan-peraturan berhubungan dengan tatatertib tertakluk kepada yang boleh dibuat dari semasa ke semasa oleh Yang di- peraturan- Pertuan Agong di bawah Perkara 132(2) Perlembagaan peraturan Persekutuan. tatatertib.
+63. (1) Semua pegawai penjara hendaklah tertakluk
+
+<!-- marginal: penjara -->
+
+kepada peraturan-peraturan berhubungan dengan tatatertib
+
+<!-- marginal: tertakluk -->
+
+<!-- marginal: kepada -->
+
+yang boleh dibuat dari semasa ke semasa oleh Yang di-
+
+<!-- marginal: peraturan- -->
+
+Pertuan Agong di bawah Perkara 132(2) Perlembagaan
+
+<!-- marginal: peraturan -->
+
+Persekutuan.
+
+<!-- marginal: tatatertib. -->
 
 <!-- page 36 -->
 
@@ -1442,7 +1744,19 @@ bagi maksud menentukan, setakat yang boleh, sama ada peruntukan Akta ini dan man
 
 (4) Seseorang Hakim Pelawat hendaklah, bagi maksud Akta ini, mempunyai kuasa untuk memanggil saksi dan mengendalikan sumpah.
 
-Lawatan oleh 66, (1) Seseorang Hakim Mahkamah Tinggi, Hakim Hakim, Mahkamah Sesyen dan Majistret yang mempunyai bidang Majistret, dsb. kuasa di sesuatu tempat di mana sesuatu penjara terletak boleh, bilamana difikirkannya patut—
+<!-- marginal: Lawatan oleh -->
+
+66, (1) Seseorang Hakim Mahkamah Tinggi, Hakim
+
+<!-- marginal: Hakim, -->
+
+Mahkamah Sesyen dan Majistret yang mempunyai bidang
+
+<!-- marginal: Majistret, -->
+
+<!-- marginal: dsb. -->
+
+kuasa di sesuatu tempat di mana sesuatu penjara terletak boleh, bilamana difikirkannya patut—
 
 (a) memasuki dan memeriksa keadaan penjara dan
 
@@ -1452,9 +1766,13 @@ dan mencatatkan apa-apa pandangan yang difikirkannya patut diberikan mengenai ke
 
 (2) Sesuatu Buku Pelawat hendaklah disimpan bagi maksud subseksyen (1) oleh Pegawai yang Menjaga yang hendaklah dikemukakan kepada Hakim Pelawat pada lawatan mereka yang berikutnya.
 
-Peraturan-
+<!-- marginal: Peraturan- -->
 
-67. (1) Menteri boleh menyiarkan dalam Warta apa-apa peraturan. peraturan yang perlu atau suaimanfaat bagi pengurusan dan pengelolaan penjara yang baik, dan bagi menjalankan atau mencapai tujuan dan maksud Akta.
+67. (1) Menteri boleh menyiarkan dalam Warta apa-apa
+
+<!-- marginal: peraturan. -->
+
+peraturan yang perlu atau suaimanfaat bagi pengurusan dan pengelolaan penjara yang baik, dan bagi menjalankan atau mencapai tujuan dan maksud Akta.
 
 <!-- page 38 -->
 
@@ -1510,7 +1828,25 @@ kadar, kegunaan dan pengagihan pendapatan banduan;
 
 (5) Dalam seksyen ini, "prosiding" bererti apa-apa prosiding walau apa pun mengenai jenis sivil atau jenayah termasuk sesuatu permohonan pada mana-mana peringkat sesuatu prosiding.
 
-(6) Pada tarikh bermulanya berkuatkuasa Akta ini, Kumpulan Wang Hadiah Pegawai Penjara yang ditubuhkan Ord. T.M. di bawah Ordinan Penjara 1952, Kumpulan Wang Hadiah 81/1952. Penjara yang ditubuhkan di bawah Ordinan Penjara Sabah Ord. Sabah 7/1956. dan Kumpulan Wang Hadiah Pegawai Penjara yang Sarawak. ditubuhkan di bawah Ordinan Penjara Sarawak hendaklah
+(6) Pada tarikh bermulanya berkuatkuasa Akta ini, Kumpulan Wang Hadiah Pegawai Penjara yang ditubuhkan
+
+<!-- marginal: Ord. T.M. -->
+
+di bawah Ordinan Penjara 1952, Kumpulan Wang Hadiah
+
+<!-- marginal: 81/1952. -->
+
+Penjara yang ditubuhkan di bawah Ordinan Penjara Sabah
+
+<!-- marginal: Ord. Sabah -->
+
+<!-- marginal: 7/1956. -->
+
+dan Kumpulan Wang Hadiah Pegawai Penjara yang
+
+<!-- marginal: Sarawak. -->
+
+ditubuhkan di bawah Ordinan Penjara Sarawak hendaklah
 
 ## Bab 24
 
@@ -1532,31 +1868,53 @@ Sub-Inspektor Penjara Sarjan Mejar Penjara Sarjan Penjara Koperal Penjara Wardar
 
 ## JADUAL KEDUA
 
-(Subseksyen 68(1))
+<!-- marginal: (Subseksyen 68(1)) -->
 
-## PEMANSUHAN
+<!-- marginal: PEMANSUHAN -->
 
-Ordinan/Kaedah- Kaedah Kaedah
+<!-- marginal: Ordinan/Kaedah- -->
 
-1. Ord.T.M.81/1952 Ordinan Penjara Keseluruhannya
+<!-- marginal: Kaedah -->
 
-2. Ord. Sabah 7/1956 Ordinan Penjara Keseluruhannya kecuali yang berikut:
+<!-- marginal: Kaedah -->
 
-(1) subseksyen 70(4) hingga (14); dan
+1. Ord.T.M.81/1952
+
+<!-- marginal: Ordinan Penjara -->
+
+Keseluruhannya
+
+2. Ord. Sabah 7/1956
+
+<!-- marginal: Ordinan Penjara -->
+
+Keseluruhannya kecuali yang berikut:
+
+(1) subseksyen 70(4) hingga
+
+(14); dan
 
 (2) subseksyen 81(1) ber- kenaan dengan hukuman pemenjaraan yang dijatuh- kan ke atas seseorang banduan sebelum tarikh mula berkuat- kuasa Akta ini.
 
-3. Sarawak Ordinan Penjara Keseluruhannya
+3. Sarawak
+
+<!-- marginal: Ordinan Penjara -->
+
+Keseluruhannya
 
 ## Bab 24
 
 kecuali subseksyen 34(4) hingga (14).
 
-4. Sarawak Kaedah-Kaedah
+4. Sarawak
+
+<!-- marginal: Kaedah-Kaedah -->
 
 ## Bahagian VI
 
-P.A.S. 31/1956 Penjara
+<!-- marginal: P.A.S. 31/1956 -->
+
+<!-- marginal: Penjara -->
 
 <!-- page 42 -->
 

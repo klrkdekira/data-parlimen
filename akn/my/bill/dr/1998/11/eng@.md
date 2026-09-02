@@ -48,15 +48,27 @@ which is not directed there through a chimney or stack, but does not include any
 
 "premises" includes any land.
 
-Owner or 29e. If open burning occurs on any premises— occupier of premises
+<!-- marginal: Owner or -->
 
-(a) the owner; or liable for open burning.
+29e. If open burning occurs on any premises—
+
+<!-- marginal: occupier of -->
+
+<!-- marginal: premises -->
+
+(a) the owner; or
+
+<!-- marginal: liable for -->
+
+open burning.
 
 (b) the occupier,
 
 of the premises who has control over such premises shall be deemed to have contravened subsection 29A(1) unless the contrary is proved.
 
-Defence. 29c. In any prosecution under section 29A or 29B, it shall be a defence if the person, owner or occupier of the premises proves—
+<!-- marginal: Defence. -->
+
+29c. In any prosecution under section 29A or 29B, it shall be a defence if the person, owner or occupier of the premises proves—
 
 (a) that the open burning occurred outside his control or without his knowledge or connivance or consent; or
 
@@ -68,11 +80,19 @@ Defence. 29c. In any prosecution under section 29A or 29B, it shall be a defence
 
 to prevent the commission of the offence as he ought to have taken and exercised having regard to the nature of his responsibility in that capacity and to all the circumstances.'.
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. The principal Act is amended by substituting for section of section 44. 44 the following section:
+4. The principal Act is amended by substituting for section
 
-44. No prosecution shall be instituted for an tion. offence under this Act or the regulations made thereunder without the consent in writing of the Public Prosecutor.".
+<!-- marginal: of section 44. -->
+
+44 the following section:
+
+44. No prosecution shall be instituted for an
+
+<!-- marginal: tion. -->
+
+offence under this Act or the regulations made thereunder without the consent in writing of the Public Prosecutor.".
 
 <!-- page 3 -->
 

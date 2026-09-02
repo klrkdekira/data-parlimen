@@ -6,13 +6,13 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Interpretation
 
-## Part II
+## PART II
 
 ## SYARIE LEGAL PROFESSION QUALIFYING BOARD
 
@@ -20,7 +20,7 @@
 
 10. Power to exempt
 
-## Part III
+## PART III
 
 ## ADMISSION OF PEGUAM SYARIE
 
@@ -60,7 +60,7 @@ Register
 
 27. Restoration of name of Peguam Syarie in the Register
 
-## Part IV
+## PART IV
 
 ## ANNUAL PRACTICING CERTIFICATE
 
@@ -74,7 +74,7 @@ Register
 
 32. Submission of Annual Practising Certificate
 
-## Part V
+## PART V
 
 ## RIGHTS AND PRIVILEGES OF PEGUAM SYARIE
 
@@ -92,7 +92,7 @@ Register
 
 <!-- page 3 -->
 
-## Part VI
+## PART VI
 
 ## NAME OF FIRM
 
@@ -102,7 +102,7 @@ Register
 
 41. Restoration of name of firm in the register of name of firm
 
-## Part VII
+## PART VII
 
 ## BADAN PEGUAM SYARIE AND MAJLIS PEGUAM SYARIE OF THE FEDERAL
 
@@ -200,7 +200,7 @@ Client’s property, document, money, etc.
 
 <!-- page 5 -->
 
-## Part IX
+## PART IX
 
 ## DISCIPLINARY PROCEEDINGS
 
@@ -222,7 +222,7 @@ Client’s property, document, money, etc.
 
 85. Power to make rules in relation to disciplinary proceedings
 
-## Part X
+## PART X
 
 ## DISCIPLINE FUND
 
@@ -232,7 +232,7 @@ Client’s property, document, money, etc.
 
 88. Payment of fine, etc., into Discipline Fund
 
-## Part XI
+## PART XI
 
 ## MISCELLANEOUS
 
@@ -246,11 +246,11 @@ Client’s property, document, money, etc.
 
 93. Power to amend Schedules
 
-## First schedule
+## FIRST SCHEDULE
 
-## second schedule
+## SECOND SCHEDULE
 
-## third schedule
+## THIRD SCHEDULE
 
 <!-- page 7 -->
 
@@ -262,7 +262,7 @@ An Act to provide for the establishment of the Syarie Legal Profession Qualifyin
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -340,7 +340,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 “Secretary to the Board” means the Secretary to the Syarie Legal Profession Qualifying Board mentioned in subsection 7(1).
 
-## Part II
+## PART II
 
 ## SYARIE LEGAL PROFESSION QUALIFYING BOARD
 
@@ -466,7 +466,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 10. The Board may exempt any person or a group of persons who intends to apply for admission as a Peguam Syarie from undergoing courses of instruction, training, education, interview and examination subject to such conditions as the Board thinks fit.
 
-## Part III
+## PART III
 
 ## ADMISSION OF PEGUAM SYARIE
 
@@ -686,7 +686,7 @@ Register
 
 (7) Any person who is aggrieved by the decision of the Syariah High Court may appeal to the Syariah Appeal Court.
 
-## Part IV
+## PART IV
 
 ## ANNUAL PRACTISING CERTIFICATE
 
@@ -772,7 +772,7 @@ Register
 
 32. A Peguam Syarie shall submit his Annual Practising Certificate if he is required by any syariah court to do so.
 
-## Part V
+## PART V
 
 ## RIGHTS AND PRIVILEGES OF PEGUAM SYARIE
 
@@ -852,7 +852,7 @@ commits an offence under this subsection unless he proves that the act was not d
 
 (2) Any payment to an unauthorized person for anything done which is an offence under section 35 or 37 may be recovered in a court of competent jurisdiction by the person who has paid the money.
 
-## Part VI
+## PART VI
 
 ## NAME OF FIRM
 
@@ -900,7 +900,7 @@ commits an offence under this subsection unless he proves that the act was not d
 
 <!-- page 32 -->
 
-## Part VII
+## PART VII
 
 ## BADAN PEGUAM SYARIE AND MAJLIS PEGUAM SYARIE OF THE
 
@@ -1486,7 +1486,7 @@ the provisions of the Third Schedule except paragraph 10 shall apply to the pers
 
 notwithstanding anything to the contrary contained in this Act, vest in the Majlis Peguam Syarie to the exclusion of any personal representatives of the Peguam Syarie and shall be exercisable as from the death of the Peguam Syarie.
 
-## Part IX
+## PART IX
 
 ## DISCIPLINARY PROCEEDINGS
 
@@ -1640,7 +1640,7 @@ and the Majlis Peguam Syarie considers that it would be in the public interest o
 
 (2) Rules made under this section may prescribe any act in contravention of the rules to be an offence and may be prescribe penalties of a fine not exceeding five thousand ringgit or imprisonment for a term not exceeding three years or both for such offence.
 
-## Part X
+## PART X
 
 ## DISCIPLINE FUND
 
@@ -1660,7 +1660,7 @@ and the Majlis Peguam Syarie considers that it would be in the public interest o
 
 <!-- page 62 -->
 
-## Part XI
+## PART XI
 
 ## MISCELLANEOUS
 
@@ -1688,7 +1688,7 @@ and the Majlis Peguam Syarie considers that it would be in the public interest o
 
 <!-- page 63 -->
 
-## First schedule
+## FIRST SCHEDULE
 
 [Subsection 6(5)]
 
@@ -1764,7 +1764,7 @@ and the Majlis Peguam Syarie considers that it would be in the public interest o
 
 <!-- page 65 -->
 
-## second schedule
+## SECOND SCHEDULE
 
 [Subsections 45(2), 48(3) and 56(8)]
 
@@ -1772,7 +1772,7 @@ and the Majlis Peguam Syarie considers that it would be in the public interest o
 
 ## AND MAJLIS PEGUAM SYARIE
 
-## Part I
+## PART I
 
 ## BADAN PEGUAM SYARIE
 
@@ -1818,7 +1818,7 @@ and the Majlis Peguam Syarie considers that it would be in the public interest o
 
 5. At every annual general meeting and extraordinary general meeting of the Badan Peguam Syarie, every member present shall have one vote and where there is an equality of votes, the chairman or the acting chairman of the meeting shall have a casting vote in addition to his deliberative vote.
 
-## Part II
+## PART II
 
 ## MAJLIS PEGUAM SYARIE
 
@@ -1846,7 +1846,7 @@ and the Majlis Peguam Syarie considers that it would be in the public interest o
 
 10. No fees shall be paid to any member of the Majlis Peguam Syarie but a member may be reimbursed from the funds of the Badan Peguam Syarie for the travelling expenses incurred by him in relation to the affairs of the Badan Peguam Syarie.
 
-## third schedule
+## THIRD SCHEDULE
 
 [Subsections 64(1), 71(2), sections 72, 73, 74 and 75]
 
@@ -1914,7 +1914,7 @@ If any person fails to comply with the requirements of any notice given under pa
 
 The proposed Syarie Legal Profession (Federal Territories) Act 2019 (“the proposed Act”) seeks to establish the Syarie Legal Profession Qualifying Board, Badan Peguam Syarie and Majlis Peguam Syarie. The functions of the Syarie Legal Profession Qualifying Board, Badan Peguam Syarie and Majlis Peguam Syarie are mainly to govern and regulate the practice of the Syarie Legal Profession. Currently, the admission of persons as a Peguam Syarie and the conduct of Peguam Syarie are governed by the Peguam Syarie Rules 1993 [P.U.(A) 408/1993] made under subsection 59(2) of the Administration of Islamic Law (Federal Territories) Act 1993 [Act 505]. With the passing of the proposed Act, the Peguam Syarie Rules 1993 is revoked and subsection 59(2) of Act 505 is deleted.
 
-## Part I
+## PART I
 
 2. Part I of the proposed Act contains preliminary matters.
 
@@ -1922,7 +1922,7 @@ Clause 1 contains the short title and seeks to empower the Yang di-Pertuan Agong
 
 Clause 2 contains the definitions of certain expression used in the proposed Act.
 
-## Part II
+## PART II
 
 3. Part II of the proposed Act provides for the establishment of the Syarie Legal Profession Qualifying Board (“the Board”).
 
@@ -1944,7 +1944,7 @@ Clause 9 seeks to empower the Board to make rules in relation to the admission, 
 
 Clause 10 seeks to empower the Board to exempt any person or a group of persons from undergoing courses of instruction, training, etc.
 
-## Part III
+## PART III
 
 4. Part III of the proposed Act provides for the admission of person as a Peguam Syarie.
 
@@ -1982,7 +1982,7 @@ Clause 26 seeks to provide that the Peguam Syarie may apply to the Syariah High 
 
 Clause 27 seeks to provide for the power of the Syariah High Court to order the Chief Registrar to restore the name of a Peguam Syarie, which has been removed or struck off from the Register, in the Register.
 
-## Part IV
+## PART IV
 
 5. Part IV of the proposed Act provides for the procedures for the issuance of an Annual Practising Certificate.
 
@@ -1998,7 +1998,7 @@ Clause 31 requires the Chief Registrar to keep and maintain the Register of Prac
 
 Clause 32 seeks to provide that a Peguam Syarie shall submit his Annual Practicing Certificate if he is required to do so by any syariah court.
 
-## Part V
+## PART V
 
 6. Part V of the proposed Act provides for the rights and privileges of a Peguam Syarie.
 
@@ -2014,7 +2014,7 @@ Clause 37 requires a Peguam Syarie to endorse his name and address or the name a
 
 Clause 38 seeks to provide that any costs in respect of anything done by an unauthorized person as a Peguam Syarie shall not be recoverable by any person in any action, suit or matter.
 
-## Part VI
+## PART VI
 
 7. Part VI of the proposed Act seeks to provide for the registration of name of firm.
 
@@ -2024,7 +2024,7 @@ Clause 40 requires the Majlis Peguam Syarie to keep and maintain a register of n
 
 Clause 41 provides for the restotration of name of firm in the register of name of firm.
 
-## Part VII
+## PART VII
 
 8. Part VII of the proposed Act provides for the establishment of the Badan Peguam Syarie and Majlis Peguam Syarie of the Federal Territories.
 
@@ -2116,7 +2116,7 @@ Clause 75 sets out the circumstances where personal representatives may be liabl
 
 Clause 76 empowers the Majlis Peguam Syarie to operate a bank account of the deceased Peguam Syaries’ client.
 
-## Part IX
+## PART IX
 
 10. Part IX of the proposed Act contains the provision relating to disciplinary proceedings.
 
@@ -2140,13 +2140,13 @@ Clause 84 provides that any party aggrieved by any order or decision made by the
 
 Clause 85 empowers the Disciplinary Board to make rules to regulate the procedure in relation to disciplinary proceedings.
 
-## Part X
+## PART X
 
 11. Part X of the proposed Act contains the provision relating to Disciplinary Fund.
 
 Clauses 86, 87 and 88 seek to provide for the establishment of the Disciplinary Fund which consist of the contribution by every Peguam Syarie when he applies for a Supporting Acknowledgement and any fine, penalty or any other payment ordered by the Disciplinary Board.
 
-## Part XI
+## PART XI
 
 12. Part XI of the proposed Act provides for the miscellaneous provisions.
 

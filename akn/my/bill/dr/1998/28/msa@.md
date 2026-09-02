@@ -76,9 +76,7 @@ kerja, tanpa mengira sama ada penamatan perkhidmatan pegawai atau penjawat itu m
 
 4. Jadual Kedua kepada Akta ibu adalah dipinda dalam perenggan 1—
 
-(a) dengan memotong perkataan "dan" di hujung subperenggan
-
-(1)',
+(a) dengan memotong perkataan "dan" di hujung subperenggan (1)',
 
 (b) dengan menggantikan subperenggan (m) dengan subperenggan yang berikut:
 

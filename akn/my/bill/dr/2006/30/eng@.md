@@ -194,4 +194,4 @@ This Bill seeks to amend the Perbadanan Tabung Pendidikan Tinggi Nasional Act 19
 
 This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained.
 
-[PN(U2)2424]
+<!-- marginal: [PN(U2)2424] -->

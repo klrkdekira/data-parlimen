@@ -12,9 +12,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Tajuk ringkas
 
-1. Akta ini bolehlah dinamakan Akta Cukai Perkhidmatan (Pindaan)
-
-2001.
+1. Akta ini bolehlah dinamakan Akta Cukai Perkhidmatan (Pindaan) 2001.
 
 ### Pindaan seksyen 2
 
@@ -42,19 +40,11 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 dan termasuklah penyediaan polisi insurans untuk melindungi risiko yang berhubungan dengan pengangkutan barang-barang di dalam Malaysia yang merupakan sebahagian daripada pengangkutan yang disebut dalam subperenggan (ii) dan (iii) yang perlindungan itu disediakan oleh orang yang sama;
 
-(b) berhubung dengan penyediaan polisi insurans kredit eksport kepada pengeksport tempatan, bank dan pelabur, ertinya jika polisi insurans kredit eksport itu disediakan untuk melindungi risiko di luar Malaysia yang berhubungan dengan pengeksportan barang-barang, perkhidmatan
-
-<!-- marginal: dan -->
-
-pelaburan; dan
+(b) berhubung dengan penyediaan polisi insurans kredit eksport kepada pengeksport tempatan, bank dan pelabur, ertinya jika polisi insurans kredit eksport itu disediakan untuk melindungi risiko di luar Malaysia yang berhubungan dengan pengeksportan barang-barang, perkhidmatan dan pelaburan; dan
 
 <!-- page 3 -->
 
-(c) dalam mana-mana hal lain, ertinya apa- apa perkhidmatan yang kena dibayar cukai yang dibekalkan untuk dan kepada seseorang di sesuatu negara selain Malaysia, dengan
-
-<!-- marginal: syarat bahawa -->
-
-perkhidmatan itu tidak dibekalkan berkaitan dengan barang atau tanah yang terletak di Malaysia dan orang itu tidak berada di Malaysia semasa perkhidmatan
+(c) dalam mana-mana hal lain, ertinya apa- apa perkhidmatan yang kena dibayar cukai yang dibekalkan untuk dan kepada seseorang di sesuatu negara selain Malaysia, dengan syarat bahawa perkhidmatan itu tidak dibekalkan berkaitan dengan barang atau tanah yang terletak di Malaysia dan orang itu tidak berada di Malaysia semasa perkhidmatan
 
 <!-- marginal: itu -->
 
@@ -74,11 +64,7 @@ dilaksanakan;'; dan
 
 (i) dengan memasukkan selepas perkataan "berhubung dengan invois" perkataan "atau resit"; dan
 
-(ii) dengan memasukkan selepas
-
-<!-- marginal: perkataan -->
-
-"mengeluarkan suatu invois" perkataan "atau resit"; dan
+(ii) dengan memasukkan selepas perkataan "mengeluarkan suatu invois" perkataan "atau resit"; dan
 
 (c) dalam subseksyen (2), dengan menggantikan perkataan "invois berkomputer" dengan perkataan "invois atau resit yang dikeluarkan dengan menggunakan komputer".
 

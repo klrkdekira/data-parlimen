@@ -826,7 +826,7 @@ Akta Binatang (Pindaan) 2012 (“Rang Undang-Undang”) yang dicadangkan oleh Ra
 
 24. Fasal 40, 41, 42, 43, 44, 45 dan 46 Rang Undang-Undang bertujuan untuk meminda masing-masing seksyen 47, 50a, 51, 55, 58 , 60 dan 61 Akta untuk menaikkan penalti yang diperuntukkan di bawah seksyen-seksyen itu.
 
-25. Fasal 47 Rang Undang-Undang bertujuan untuk meminda Akta dengan menggantikan Bahagian VII dengan Bahagian VII yang baru. Bahagian ini mengandungi peruntukan tentang kuasa berhubung dengan penguatkuasaan. Seksyen baru yang dimasukkan ialah seksyen 67, 67a, 68, 68a, 68b, 69, 69a, 69b, 69c ,69d dan 69e.
+25. Fasal 47 Rang Undang-Undang bertujuan untuk meminda Akta dengan menggantikan Bahagian VII dengan Bahagian VII yang baru. Bahagian ini mengandungi peruntukan tentang kuasa berhubung dengan penguatkuasaan. Seksyen baru yang dimasukkan ialah seksyen 67, 67a, 68, 68a, 68b, 69, 69a, 69B, 69C ,69D DAN 69E.
 
 <!-- page 35 -->
 
@@ -858,4 +858,6 @@ Fasal ini juga dipinda bertujuan untuk memotong perenggan 86(2)(c) dan (e) Akta 
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN(U2)2700]
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
+
+<!-- marginal: [PN(U2)2700] -->

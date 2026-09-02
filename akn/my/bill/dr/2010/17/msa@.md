@@ -20,7 +20,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 2. Kanun Tatacara Jenayah [Akta 593], yang disebut “Kanun” dalam Akta ini, dipinda dengan memasukkan selepas Bab XVIII dalam Bahagian VI Bab yang berikut:
 
-“Chapter XVIIIa
+## “CHAPTER XVIIIA
 
 ## PRE-TRIAL PROCESSES
 
@@ -376,7 +376,9 @@ proceedings and subject to the conditions contained in subsection (2), be admiss
 
 ### Pindaan Jadual Kedua
 
-14. Jadual Kedua kepada Kanun dipinda dengan memasukkan selepas Borang 28 Borang yang berikut: “ Form 28a
+14. Jadual Kedua kepada Kanun dipinda dengan memasukkan selepas Borang 28 Borang yang berikut: “
+
+## FORM 28A
 
 <!-- marginal: [Section 172C] -->
 

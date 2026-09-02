@@ -112,11 +112,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (b) from the principal customs area to Pulau 1,
 
-the provisions of this Act, other than sections 81, 82, 83, 84, 85, 86 and 87 and paragraph 87a(1)(b), shall with such modifications and adaptations as may be necessary, apply as if such goods were imported into or, as the case may be, exported from, the principal customs area from or to a place outside Malaysia, and without prejudice to the above generality,
-
-## Part XII shall apply to goods transported to or from Pulau 1 from
-
-or to the principal customs area and to persons and vehicles, vessels and aircrafts transporting such goods.
+the provisions of this Act, other than sections 81, 82, 83, 84, 85, 86 and 87 and paragraph 87a(1)(b), shall with such modifications and adaptations as may be necessary, apply as if such goods were imported into or, as the case may be, exported from, the principal customs area from or to a place outside Malaysia, and without prejudice to the above generality, Part XII shall apply to goods transported to or from Pulau 1 from or to the principal customs area and to persons and vehicles, vessels and aircrafts transporting such goods.
 
 ### Declaration of goods transported from Pulau 1 into
 

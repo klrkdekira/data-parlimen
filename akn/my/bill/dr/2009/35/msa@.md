@@ -22,13 +22,23 @@ Penggal 1
 
 Prinsip Perlindungan Data Peribadi
 
-5. Prinsip Perlindungan Data Peribadi 6. Prinsip Am 7. Prinsip Notis dan Pilihan 8. Prinsip Penzahiran 9. Prinsip Keselamatan 10. Prinsip Penyimpanan 11. Prinsip Integriti Data 12. Prinsip Akses
+5. Prinsip Perlindungan Data Peribadi 6. Prinsip Am 7. Prinsip Notis dan Pilihan 8. Prinsip Penzahiran 9. Prinsip Keselamatan
+
+10. Prinsip Penyimpanan
+
+11. Prinsip Integriti Data
+
+12. Prinsip Akses
 
 Penggal 2
 
 Pendaftaran
 
-13. Pemakaian Penggal ini 14. Pendaftaran pengguna data 15. Permohonan untuk pendaftaran
+13. Pemakaian Penggal ini
+
+14. Pendaftaran pengguna data
+
+15. Permohonan untuk pendaftaran
 
 <!-- page 2 -->
 
@@ -94,25 +104,67 @@ Hak subjek data
 
 <!-- page 3 -->
 
-42. Hak untuk menghalang pemprosesan yang mungkin menyebabkan kerosakan atau distres 43. Hak untuk menghalang pemprosesan bagi maksud pemasaran langsung 44. Rekod disimpan oleh pengguna data
+42. Hak untuk menghalang pemprosesan yang mungkin menyebabkan kerosakan atau distres
+
+43. Hak untuk menghalang pemprosesan bagi maksud pemasaran langsung
+
+44. Rekod disimpan oleh pengguna data
 
 ## BAHAGIAN III
 
 ## PENGECUALIAN
 
-45. Pengecualian 46. Kuasa untuk membuat pengecualian tambahan
+45. Pengecualian
+
+46. Kuasa untuk membuat pengecualian tambahan
 
 ## BAHAGIAN IV
 
 ## PELANTIKAN, FUNGSI DAN KUASA PESURUHJAYA
 
-47. Pelantikan Pesuruhjaya 48. Fungsi Pesuruhjaya 49. Kuasa Pesuruhjaya 50. Pelantikan Timbalan Pesuruhjaya dan Penolong Pesuruhjaya 51. Pelantikan pegawai lain dan pekhidmat 52. Pinjaman dan wang pendahuluan kepada pegawai dan pekhidmat 53. Tempoh jawatan 54. Pembatalan pelantikan dan peletakan jawatan 55. Penjalanan sementara fungsi dan kuasa Pesuruhjaya 56. Pengosongan jawatan 57. Saraan dan elaun 58. Pewakilan fungsi dan kuasa Pesuruhjaya 59. Arahan oleh Menteri 60. Penyata, laporan, akaun dan maklumat
+47. Pelantikan Pesuruhjaya
+
+48. Fungsi Pesuruhjaya
+
+49. Kuasa Pesuruhjaya
+
+50. Pelantikan Timbalan Pesuruhjaya dan Penolong Pesuruhjaya
+
+51. Pelantikan pegawai lain dan pekhidmat
+
+52. Pinjaman dan wang pendahuluan kepada pegawai dan pekhidmat
+
+53. Tempoh jawatan
+
+54. Pembatalan pelantikan dan peletakan jawatan
+
+55. Penjalanan sementara fungsi dan kuasa Pesuruhjaya
+
+56. Pengosongan jawatan
+
+57. Saraan dan elaun
+
+58. Pewakilan fungsi dan kuasa Pesuruhjaya
+
+59. Arahan oleh Menteri
+
+60. Penyata, laporan, akaun dan maklumat
 
 ## BAHAGIAN V
 
 ## KUMPULAN WANG PERLINDUNGAN DATA PERIBADI
 
-61. Penubuhan Kumpulan Wang 62. Perbelanjaan yang hendaklah dipertanggungkan pada Kumpulan Wang 63. Pemeliharaan Kumpulan Wang 64. Kumpulan wang rizab 65. Tahun kewangan 66. Batasan untuk berkontrak
+61. Penubuhan Kumpulan Wang
+
+62. Perbelanjaan yang hendaklah dipertanggungkan pada Kumpulan Wang
+
+63. Pemeliharaan Kumpulan Wang
+
+64. Kumpulan wang rizab
+
+65. Tahun kewangan
+
+66. Batasan untuk berkontrak
 
 <!-- page 4 -->
 
@@ -182,19 +234,67 @@ Hak subjek data
 
 <!-- page 5 -->
 
-95. Penggantungan keputusan sementara menunggu rayuan 96. Keanggotaan Tribunal Rayuan 97. Persidangan Tribunal Rayuan 98. Tatacara Tribunal Rayuan 99. Keputusan Tribunal Rayuan 100. Penguatkuasaan keputusan Tribunal Rayuan
+95. Penggantungan keputusan sementara menunggu rayuan
+
+96. Keanggotaan Tribunal Rayuan
+
+97. Persidangan Tribunal Rayuan
+
+98. Tatacara Tribunal Rayuan
+
+99. Keputusan Tribunal Rayuan
+
+100. Penguatkuasaan keputusan Tribunal Rayuan
 
 ## BAHAGIAN VIII
 
 ## PEMERIKSAAN, ADUAN DAN PENYIASATAN
 
-101. Pemeriksaan sistem data peribadi 102. Pengguna data yang berkaitan, dll., hendaklah dimaklumkan mengenai keputusan pemeriksaan 103. Laporan oleh Pesuruhjaya 104. Aduan 105. Penyiasatan oleh Pesuruhjaya 106. Sekatan terhadap penyiasatan yang dimulakan melalui aduan 107. Pesuruhjaya boleh menjalankan atau meneruskan penyiasatan yang dimulakan melalui aduan walaupun aduan itu ditarik balik 108. Notis penguatkuasaan 109. Perubahan atau pembatalan notis penguatkuasaan
+101. Pemeriksaan sistem data peribadi
+
+102. Pengguna data yang berkaitan, dll., hendaklah dimaklumkan mengenai keputusan pemeriksaan
+
+103. Laporan oleh Pesuruhjaya
+
+104. Aduan
+
+105. Penyiasatan oleh Pesuruhjaya
+
+106. Sekatan terhadap penyiasatan yang dimulakan melalui aduan
+
+107. Pesuruhjaya boleh menjalankan atau meneruskan penyiasatan yang dimulakan melalui aduan walaupun aduan itu ditarik balik
+
+108. Notis penguatkuasaan
+
+109. Perubahan atau pembatalan notis penguatkuasaan
 
 ## BAHAGIAN IX
 
 ## PENGUATKUASAAN
 
-110. Pegawai diberi kuasa 111. Kad kuasa 112. Kuasa penyiasatan 113. Penggeledahan dan penyitaan dengan waran 114. Penggeledahan dan penyitaan tanpa waran 115. Capaian kepada data berkomputer 116. Waran boleh diterima walaupun cacat 117. Senarai komputer, buku, akaun, dsb., yang disita 118. Pelepasan komputer, buku, akaun, dsb., yang disita 119. Tiada kos atau ganti rugi yang berbangkit daripada penyitaan boleh didapatkan 120. Halangan terhadap penggeledahan 121. Kuasa untuk menghendaki pengemukaan komputer, buku, akaun, dsb.
+110. Pegawai diberi kuasa
+
+111. Kad kuasa
+
+112. Kuasa penyiasatan
+
+113. Penggeledahan dan penyitaan dengan waran
+
+114. Penggeledahan dan penyitaan tanpa waran
+
+115. Capaian kepada data berkomputer
+
+116. Waran boleh diterima walaupun cacat
+
+117. Senarai komputer, buku, akaun, dsb., yang disita
+
+118. Pelepasan komputer, buku, akaun, dsb., yang disita
+
+119. Tiada kos atau ganti rugi yang berbangkit daripada penyitaan boleh didapatkan
+
+120. Halangan terhadap penggeledahan
+
+121. Kuasa untuk menghendaki pengemukaan komputer, buku, akaun, dsb.
 
 <!-- page 6 -->
 

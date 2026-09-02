@@ -50,7 +50,25 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 3. Akta ibu dipinda dengan menggantikan seksyen 4 dengan seksyen yang berikut:
 
-Pendaftar, 4. (1) Ketua Pengarah Perbadanan hendaklah menjadi Timbalan Pendaftar Cap Dagangan. Pendafar dan Penolong (2) Perbadanan boleh melantik, atas apa-apa terma Pendaftar. dan syarat yang ditentukannya, daripada kalangan orang dalam penggajian Perbadanan, apa-apa bilangan Timbalan Pendaftar Cap Dagangan, Penolong Pendaftar Cap Dagangan dan pegawai lain yang perlu bagi pentadbiran yang sepatutnya Akta ini, dan boleh membatalkan pelantikan mana-mana orang yang dilantik sedemikian atau disifatkan telah dilantik sedemikian di bawah subseksyen (3).
+<!-- marginal: Pendaftar, -->
+
+4. (1) Ketua Pengarah Perbadanan hendaklah menjadi
+
+<!-- marginal: Timbalan -->
+
+Pendaftar Cap Dagangan.
+
+<!-- marginal: Pendafar -->
+
+<!-- marginal: dan -->
+
+<!-- marginal: Penolong -->
+
+(2) Perbadanan boleh melantik, atas apa-apa terma
+
+<!-- marginal: Pendaftar. -->
+
+dan syarat yang ditentukannya, daripada kalangan orang dalam penggajian Perbadanan, apa-apa bilangan Timbalan Pendaftar Cap Dagangan, Penolong Pendaftar Cap Dagangan dan pegawai lain yang perlu bagi pentadbiran yang sepatutnya Akta ini, dan boleh membatalkan pelantikan mana-mana orang yang dilantik sedemikian atau disifatkan telah dilantik sedemikian di bawah subseksyen (3).
 
 (3) Orang yang memegang jawatan sebagai Timbalan Pendaftar, Penolong Pendaftar dan pegawai lain di bawah Akta ini sebelum tarikh yang ditetapkan yang telah diberi pilihan oleh Kerajaan Malaysia untuk berkhidmat sebagai pekerja Perbadanan dan telah memilih sedemikian hendaklah pada tarikh yang ditetapkan disifatkan telah dilantik sebagai Timbalan Pendaftar, Penolong Pendaftar dan pegawai lain sedemikian di bawah subseksyen (2).
 

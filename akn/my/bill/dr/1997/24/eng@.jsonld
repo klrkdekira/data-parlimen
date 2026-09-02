@@ -1,0 +1,1405 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-24-1997",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_9A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_35"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Land Acquisition (Amendment) Bill 1997"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 14(5) of the principal Act is amended"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word \"costs\" the words \", which shall include any valuation fee imposed by the valuer,\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_11__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 19 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"public purpose\" the words \", or for a public utility in the case of an acquisition under section 3(1)(b),\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"Commissioner\" the words \"State Director\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 20 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "inserting after the words \"not built upon,\" the words \"other than the main access to the building,\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Paragraph 23(a) of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "inserting after the words \"State Authority\" the words \"or, in the case of a parcel of a subdivided building, in the person or corporation on whose behalf the parcel has been acquired\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_14__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 24 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"or other deed or deeds evidencing title\" and the words \"or deed\" wherever they appear in subsection (1); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by deleting the words \", or such deed or deeds relate,\" and the. words \", deed or deeds, as the case may be,\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_15__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_15__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_15__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 27 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the marginal note, by deleting the words \"and deeds\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by deleting the words \"or other deed or deeds evidencing title\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_15__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by deleting the words \"or other deed evidencing title\" and the words \"on the deed\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_15__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"or other deed evidencing title\" wherever they appear in subsection (3)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 29A(5) of the principal Act is amended"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"interest\" the words \"late payment charges\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_17__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_17__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 32 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_17__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the marginal note, by substituting for the words \"Payment of interest\" the words \"Late payment charges\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"interest\" wherever it appears in subsections (1), (1B) and (2) the words \"late payment charges\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "32 the following section; 'Meaning 32A. For the purposes of sections 29A, 32 and of 48, \"payment\" is deemed to have been made \"payment\". on the day as notified in writing by the Land Administrator that the cheque, money order or cash is available for collection by the person interested, or on the day the cheque or money order is sent by registered post to the person interested, or on the day of the delivery of the cheque or money order by the Land Administrator to the Court.'."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_19__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_19__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 35 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: \"(1A) Notification of every withdrawal from the acquisition of any land shall be published in the Gazette\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_19__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (4) the following subsection: \"(5) Notwithstanding anything contained in this section, the State Authority shall reserve the right to forfeit an amount which is sufficient to defray the amount of costs and damages incurred by any person interested and such amount shall be determined by the Land Administrator and shall be deducted from the deposit under section 3(3)(d) in the event of any withdrawal made under this section.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Land Acquisition (Amendment) Act 1997 and shall come into force on such date as the Minister may, with the approval of the National Land Council, appoint by notification in the Gazette."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The amendments in sections 23, 24 and 25 and paragraph 27(b) shall apply only to land acquisition cases referred to the Court after the date of coming into force of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2__para_k"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Land Acquisition Act 1960, which in this Act"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "is referred to as the \"principal Act\", is amended in subsection 2(1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended in subsection 37(2)"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"claimed\" the word \"awarded\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 38(5) of the principal Act is amended"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"three\" the word \"six\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_22__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_22__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 39 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_22__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_22__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_22__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_22__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_22__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_22__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"may\" the word \"shall\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_22__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_22__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"such sum not exceeding one thousand five hundred ringgit, or the amount of the Land Administrator's award,\" the words \"a sum of three thousand ringgit or ten per cent of the amount claimed\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_22__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_22__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \", as he may consider reasonable\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_22__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_22__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_22__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_22__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_22__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"any\" the word \"the\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_22__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_22__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"fourteen\" the word \"thirty\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "39, under the heading \"The Court\", the following sections: \"Constitu- 40A. (1) Except as provided in this section the tion of the Court shall consist of a Judge sitting alone. Court. (2) Where the objection before the Court is in regard to the amount of compensation, the Court shall appoint two assessors (one of whom shall be a valuation officer employed by the Government) for the purpose of aiding the Judge in determining the objection and in arriving at a fair and reasonable amount of compensation. (3) For the purpose of subsection (2) the Court shall appoint the two assessors from the lists of names submitted to the Court under subsections (4) and (5). (4) The President of the Board of Valuers, Appraisers and Estate Agents established under the Valuers, Appraisers and Estate Agents Act 1981 shall submit a list of names and business addresses of valuers and appraisers registered under that Act to every High Court before the thirty-first day of December of each calendar year. (5) The Director General of the Valuation and Property Services Department shall submit a list of names of valuation officers employed by the Government and the offices to which they are attached or posted to every High Court before the thirty-first day of December of each calendar year. 40B. (1) Every person appointed as an assessor under section 40A shall be legally bound to attend and serve as an assessor unless excused for some reason to be approved by the Judge. (2) Without prejudice to subsection (1), if an assessor fails to attend and serve as an assessor without written excuse by the Judge, the Court shall report the matter to the President of the Board of Valuers, Appraisers and Estate Agents for disciplinary proceedings to be taken against the assessor under the Valuers, Appraisers and Estate Agents Act 1981. (3) Without prejudice to subsection (1), if an assessor who is a valuation officer employed by the Government fails to attend and serve as an assessor without writtern excuse by the Judge, the Court shall report the matter to the Director General of the Valuation and Property Services Department for disciplinary proceedings to be taken against the assessor under the appropriate disciplinary regulations applicable to such officer. (4) If an assessor dies, or becomes incapable of acting, or is excused by the Judge, another assessor from the list referred to in section 40A(4) or (5), as the case may be, shall be appointed in his stead. (5) Every assessor who is not a valuation officer employed by the Government shall receive a fee for his service as the Judge shall direct provided that such fee shall not exceed five hundred ringgit a day, or such higher figure as the Minister may, with the approval of the National Land Council, by notification in the Gazette prescribe. (6) The fee of an assessor shall be deemed to be costs in the proceeding. 40C. The opinion of each assessor on the various heads of compensation claimed by all persons interested shall be given in writing and shall be recorded by the Judge. 40D. (1) In a case before the Court as to the amount of compensation or as to the amount of any of its items the amount of compensation to be awarded shall be the amount decided upon by the two assessors. (2) Where the assessors have each arrived at a decision which differs from each other then the Judge, having regard to the opinion of each assessor, shall elect to concur with the decision of one of the assessors and the amount of compensation to be awarded shall be the amount decided upon by that assessor. (3) Any decision made under this section is final and there shall be no further appeal to a higher Court on the matter.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 45 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "inserting after subsection (1) the following subsections: \"(1A) The provisions of the Third Schedule shall apply to every proceeding under this Part. (1B) The Rules Committee appointed under Act 91. the Courts of Judicature Act 1964 may amend the provisions of the Third Schedule relating to the procedure to be followed by the Court in all proceedings under this Act.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 47(1) of the principal Act is amended"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word \"Judge\" the words \"and the assessors\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 48 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for the word \"interest\" in the marginal note and in the section the words \"late payment charges\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_27__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_27__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 49(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_27__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the Words \"Supreme Court\" the words \"Court of Appeal and to the Federal Court\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_27__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"unless the amount awarded by the Court exceeds five thousand ringgit\" in the proviso,"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_28__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_28__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 54 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_28__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the full stop appearing at the end of paragraph (b) the words \"; and\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_28__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (b) the following paragraph: \"(c) where he considers that publication in a newspaper is desirable, publish the notice in such local newspapers circulating in the State as he thinks fit.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_29__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_29__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 63 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_29__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing section as subsection (1); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_29__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: '(2) For the purpose of this section, \"Chief Police Officer\" includes a Act 344. Commanding Officer appointed under the Police Act 1967.'."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of \"building\" the following definition: ' \"building\" includes any house, hut, shed or roofed enclosure, whether used for the purpose of human habitation or otherwise, any wall, fence, platform, sewerage system, underground tank, hoarding, dock, jetty, landing-stage, swimming pool, bridge, railway line, and any other structure, support or foundation related to the building;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the definition of \"Commissioner\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting before the definition of \"Court\" the following definitions: ' \"Committee\" means the Jawatankuasa Khas Pengambilan Tanah established under section 3C; \"Committee for the Federal Territory of Kuala Lumpur\" means the Jawatankuasa Khas Pengambilan Tanah established under section 3C for the Federal Territory of Kuala Lumpur;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"Court\" the following definitions: ' \"development approval\" means any approval for the carrying out of any building, engineering, industrial, or other similar operation in, on, over, or under any land, or for the making of any material change in the restriction or condition relating to land use, that has been duly granted by the appropriate authority under the Town and Country Planning Act 1976 or continues to be in force by virtue of section 59(1) of that Act, or that has been granted under the Federal Territory (Planning) Act 1982, the Street, Drainage and Building Act 1974, or the State land law, as the case may be; \"Economic Planning Unit\" means the Economic Planning Unit of the Prime Minister's Department of Malaysia or any other body or authority authorised by the Government, administratively or otherwise, to perform the functions of the Economic Planning Unit;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of \"Land Administrator\" the following definition: ' \"Land Administrator\" means any Land Administrator or other officer appointed under the State land law, and includes an Assistant Land Administrator;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of \"person interested\", by deleting the words \"by the month or\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"proper registering authority\" the following definition: ' \"public utility\" includes any road, rail transportation, water and electricity supply, gas pipeline, telecommunications, street lighting, sewerage system, drainage system, public works, and any other similar public service or convenience;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"scheduled land\" the following definition: ' \"sewerage system\" has the meaning assigned to it under the Sewerage Services Act 1993;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"State Authority\" the following definitions: ' \"State Director\" means a State Director of Lands and Mines appointed under the State land law and includes a Deputy State Director of Lands and Mines; \"State Economic Planning Unit\" means the Economic Planning Unit of a State or any other body or authority authorised by the Government, administratively or otherwise, to perform the functions of the State Economic Planning Unit;'; 4 Bill"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2__para_j__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2__para_j__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of \"State land law\"—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2__para_j__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2__para_j",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"State law for the time being in force\" the words \"law for the time being in force in the State\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2__para_j__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2__para_j",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the full stop at the end of that definition a semicolon; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"State land law\" the following definition: ' \"valuer\" means a valuation officer employed by the Government or a registered valuer or appraiser registered under the Act 242. Valuers, Appraisers and Estate Agents Act 1981.'."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 3 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_30__list_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_30__list_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 64 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_30__list_1",
+      "@type": "akn:list",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_30__list_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_30__list_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_30"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_30__list_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_30__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing paragraphs (a) and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_30__list_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_30__list_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "as paragraphs (b) and (c) respectively;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_30__list_2",
+      "@type": "akn:list",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_30__list_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_30__list_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_30"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_30__list_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_30__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting before paragraph (b) the following paragraph: \"(a) wilfully obstructs the service of any notice or other document under section 53(1);\" and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_30__list_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_30__list_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"one month, or to a fine not exceeding two hundred ringgit\" the words \"six months, or to a fine not exceeding five thousand ringgit\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 66 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "inserting after the words \"as State land\" the words \"or, in the case of a parcel of a subdivided building, in the person or corporation on whose behalf the parcel was acquired,\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_32__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_32__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 69 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_32__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_32__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_32__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_32__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_32__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"and deeds\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_32__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_32__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"26(3).\" the words \"27(3);\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_32__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (c) the following paragraph: \"(d) prescribe the application form, any fee or deposit to be imposed in respect of the application for acquisition of land under section 3(1)(b) or (c).\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_33__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_33__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The First Schedule to the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_33__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_33__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_33__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_33__para_a__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_33__para_a__subpara_iv",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_33__para_a__subpara_v",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_33__para_a__subpara_vi",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_33__para_a__subpara_vii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 1—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_33__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_33__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in sub-subparagraph (l)(a), by substituting for the word \"six\" the word \"twelve\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_33__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_33__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subparagraph (1) the following subparagraphs: \"(1A) In assessing the market value of any scheduled land, the valuer may use any suitable method of valuation to arrive at the market value provided that regard may be had to the prices paid for the recent sales of lands with similar characteristics as the scheduled land which are situated within the vicinity of the scheduled land and with particular consideration being given to the last transaction on the scheduled land within two years from the date with reference to which the scheduled land is to be assessed under subparagraph (1). (1B) Where only a part of the land is to be acquired, the market value of the scheduled land shall be determined by reference to the whole land as shown in the document of title of the scheduled land and after having regard to the particular features of that part. (1C) In assessing the market value of any scheduled land, regard shall not be had to the evidence of any sales transactions effected after the date with reference to which the scheduled land is to be assessed under subparagraph (1). (1D) Where the scheduled land to be acquired is held under a title for a period of years, in assessing the market value, regard may be had to the date of expiry of the lease as shown in the document of title, but regard shall not be had to the likelihood of a subsequent alienation to the person or body who is the proprietor thereof immediately before the expiry of the lease.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_33__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_33__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (2A), by inserting after the word \"account\" the words \"except where the scheduled land is to be devoted, after the acquisition, solely to a purpose for the benefit of persons who are eligible to hold the land under such written law\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_33__para_a__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_33__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subparagraph (2B);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_33__para_a__subpara_v",
+      "@type": "akn:subparagraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_33__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subparagraph (2B) the following subparagraph: \"(2BA) In assessing the market value of any scheduled land, where the information provided by the State Director of Town and Country Planning or the Commissioner of the City of Kuala Lumpur, as the case may be, under section 9A indicates that the scheduled land is within a local planning authority area, then the land shall be assessed by having regard to the specific land use for that land as indicated in the development plan.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_33__para_a__subpara_vi",
+      "@type": "akn:subparagraph",
+      "eli:number": "vi",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_33__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subparagraph (2C) the following subparagraph: \"(2D) In assessing the market value of any scheduled land which is an estate land, or forms part of an estate land within the meaning of section 214A of the National Land Code, the Act 56/65. market value shall not in any way be affected by the fact that it can be sold to one person.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_33__para_a__subpara_vii",
+      "@type": "akn:subparagraph",
+      "eli:number": "vii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_33__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subparagraph (3) the following subparagraph: \"(3A) The value of any building on any land to be acquired shall be disregarded if that building is not permitted by virtue of— (a) the category of land use; or (b) an express or implied condition or restriction, to which the land is subject or deemed to be subject under the State land law.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_33__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_33__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_33__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_33__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_33__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (b), by inserting after the words \"any increase\" the words \", which shall be deducted from the total compensation,\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_33__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_33__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (d), by deleting the words \"or his actual earnings\". Amendment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_34__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_34__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_34__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_34__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_34__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_34__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Second Schedule to the principal Act is of Second"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Schedule."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_34__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"Commissioner\" wherever it appears in Forms A, B, D, I and K the words \"State Director\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_34__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_34__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_34__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Form E—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_34__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_34__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph 2(d), by deleting the words \"and deeds\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_34__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_34__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph 3(b), by deleting the words \"or of any deed or deeds evidencing title\" and \", deed or deeds\" wherever they appear;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_34__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for Form H the following form: \"FORM H LAND ACQUISITION ACT 1960 (Section 16) NOTICE OF AWARD AND OFFER OF COMPENSATION To ........................................................ You are hereby informed that at the hearing before the undersigned on the ..................... day of .................. an award as in the Schedule hereto was made in respect of the lands specified therein in which you have an interest. 2. In accordance with this award I hereby offer you the sum of RM................................being the amount specified below as full compensation for your interest in this land. 3. Take notice that section 29A of the Land Acquisition Act 1960 requires me to withhold twenty-five per cent of the amount of the award in certain circumstances, subject to the provisions of that Dated this............day of.............................. 19..... Land Administrator SCHEDULE [Relevant extract from Form G including all awards, if any, to other person/persons interested in the land] 1. the undersigned ............................................................................... hereby acknowledge receipt of the above offer. 2. (a) I accept the offer*; and (i) I am prepared to attend the Land Office on any appointed day to receive payment in cash/cheque/money order*; or (ii) I request that the amount due be sent to me by cheque/ money order at the above address.* (b) I accept the offer under protest.* (c) I do not accept the offer.* Dated this ............ day of...............................19..... *Delete as appropriate.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_34__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Form I, by inserting after the words \"public purpose\" wherever they appear the words \"or for a public utility\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_34__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Form J, by substituting for the words \"State Secretary\" the words \"State Director\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_34__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Form L, by deleting the words \"/deeds\", \"/deed/s\" and \"or deeds\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after the"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Schedule. Second Schedule the following Schedule: \"THIRD SCHEDULE EVIDENCE AND PROCEDURE IN LAND REFERENCE CASES Interpretation. 1. In this Schedule, unless the context otherwise requires— \"applicant\" means the person upon whose application in accordance with section 38 reference to the Court is made in respect of an objection under section 37; \"proceeding\" means a proceeding in respect of an objection under section 37; \"valuer's report\", in relation to the report by the valuer of one party to the proceeding, includes his reply to the report of the valuer of the other party to the proceeding. 2. (1) The applicant's valuer's report alone must establish a prima facie case for the applicant. (2) Oral evidence by the applicant's valuer shall only be adduced during cross-examination and re-examination, if any. (3) The respondent's valuer's report must be sufficient to rebut the applicant's valuer's report. (4) Subparagraph (2) shall apply to the respondent's valuer as it applies to the applicant's valuer. 3. (1) Each party to the proceeding shall, not less than seven days before the date of hearing, file in Court four copies of his valuer's report. (2) Each party to the proceeding shall, not less than twenty-one days before the date of hearing, serve on the other party a copy of his valuer's report. (3) Each party to the proceeding shall, not less than seven days before the date of hearing, serve on the other party and file in Court his valuer's reply to the other party's valuer's report. 4. (1) Where the reports of both the applicant's and the respondent's valuers contain comparable sales plans, the applicant's valuer shall prepare a plan, to be known as the \"common plan\", incorporating the comparable sales plans in both such reports. (2) The common plan shall be served on the respondent not less than seven days before the date of hearing. (3) The common plan shall be filed in Court not less than four days before the date of hearing. Evidence to be 5. (1) Except in the case of a valuer, the evidence of by way of affidavit except any other person shall be adduced by way of affidavits. for valuer's report. (2) Except for any statement in writing made or delivered by the applicant and included in or attached to Form O by which the matter is referred to the Court, subparagraph (1) shall also apply to the applicant. (3) Except in the case of a valuer's report, any document to be tendered in evidence shall be tendered by way of an affidavit. (4) The provisions in paragraph 3 as regards the manner and time of service and filing in Court of a valuer's report and reply shall apply to affidavits and affidavits in reply. (5) The deponent may be called to be cross-examined. (6) The party wishing to cross-examine a deponent shall give at least seven days' notice of his intention to do so. Paragraphs 2, 6. No report, affidavit or other document shall be 3, 4 and 5 must be admitted in evidence unless the provisions of paragraphs complied with. 2, 3, 4 and 5 are complied with. Submissions. 7. (1) Unless otherwise ordered by the Court, the final submissions in Court of the counsel for each of the parties to the proceeding shall be written. (2) The Court shall determine the order, the manner and the time of service of the written submissions.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing section as subsection (1);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (l)(c), by substituting for the words \"or industrial purposes\" the words \", industrial or recreational purposes or any combination of such purposes\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsections: \"(2) An application for the acquisition of any land under subsection (l)(b) or (c) shall be made in writing to the Land Administrator in the form as prescribed in the Rules made under this Act. (3) Any application made under subsection (l)(b) or (c) shall be accompanied by— (a) the project proposal; (b) the layout and land acquisition plan; (c) the preliminary Government valuation report of the land to be acquired; and (d) such fee and deposit as may be prescribed in the Rules made under this Act: Provided that the State Authority may grant partial or total exemption from the payment of any fee to any Federal or State corporation expressly empowered to hold land under any written law and where the acquisition is for the purpose of public utility. (4) Subject to subsection (6), the Land Administrator shall transmit the application and the accompanying documents to the State Economic Planning Unit or, in the case of an application made in the Federal Territory of Kuala Lumpur, to the Committee if he is satisfied that they are in order. (5) The Land Administrator may reject any application which does not comply with the requirements in subsection (3). (6) Where in respect of any land applied for under subsection (2) there is a development approval granted to the registered proprietor and the acquisition is not for the purpose of public utility, the State Authority shall not consider the application, and in every such case the Land Administrator shall reject the application.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "3 the following sections: 3A. (1) The State Economic Planning Unit, or the Committee for the Federal Territory of Kuala Lumpur, as the case may be, shall consider the application referred to in section 3(4) on the following aspects: (a) public interest; (b) the capacity and capability of the applicant to carry out the purpose for which the land is to be acquired; (c) the feasibility of the project; and (d) the development approval granted to the registered proprietor. (2) Where there is a development approval granted in respect of any land and the acquisition is for the purpose of public utility, the State Economic Planning Unit, or the Committee for the Federal Territory of Kuala Lumpur, as the case may be, shall determine whether it is appropriate in the circumstances for the registered proprietor to participate in the project for which the land is intended to be acquired. (3) Where the State Economic Planning Unit, or the Committee for the Federal Territory of Kuala Lumpur, as the case may be, is satisfied that it is appropriate for the registered proprietor to participate in the project referred to in section 3(3), it shall give directions to the applicant to negotiate with the registered proprietor within such specified period and on such terms and conditions as it deems fit on the form of co- operation and commercial arrangement regarding the project including, but not limited to, equity participation. (4) The applicant to whom directions are given under subsection (3) shall furnish to the State Economic Planning Unit, or the Committee for the Federal Territory of Kuala Lumpur, as the case may be, a report in such detail of the result of the negotiations as shall be sufficient to determine the nature and extent of the registered proprietor's participation in the project. (5) Where the negotiations made pursuant to subsection (3) are successful then the Land Acquisition (Amendment) 7 application for acquisition shall not be proceeded with any further. (6) Where the State Economic Planning Unit, or the Committee for the Federal Territory of Kuala Lumpur, as the case may be, is satisfied that the negotiations made pursuant to subsection (3) are unsuccessful or no conclusive decision has been achieved within the specified period, the State Economic Planning Unit or the Committee for the Federal Territory of Kuala Lumpur may proceed to consider the application and make any recommendation as it deems fit: Provided that the recommendation shall not extend to compelling the registered proprietor to accept any participation in the project. (7) The State Economic Planning Unit, or the Committee for the Federal Territory of Kuala Lumpur, as the case may be, shall, after it has considered each application under this section, transmit the application with the accompanying documents referred to in section 3(3) and a report of the negotiations referred to in subsection (4), if any, together with its recommendation, to— (a) the Committee, in the case of a State; or (b) the State Authority, in the case of the Federal Territory of Kuala Lumpur: Provided that where the Committee for the Federal Territory of Kuala Lumpur makes a recommendation to the State Authority such recommendation, where applicable, may include the imposition of any condition and restriction in interest on the land as provided in the State land law. 3B. In respect of an application under section 3(2), where there is no development approval for the land, section 3A shall not apply except the provisions contained in subsections (l)(a), (b), (c) and (7): Provided that where the State Economic Planning Unit, or the Committee for the Federal Territory of Kuala Lumpur, as the case may be, finds it appropriate or necessary in the interest of the registered proprietor that the registered proprietor participates in the project, then, in such case, the State Economic Planning Unit, or the Committee for the Federal Territory of Kuala Lumpur, may give directions to the applicant to negotiate with the registered proprietor and the provisions of sections 3A(3), (4), (5), (6) and (7) shall apply with the necessary modifications. 3C. (1) For the purposes of this Act, there shall be established a Committee to be known as the \"Jawatankuasa Khas Pengambilan Tanah\". (2) The Committee shall— (a) in the case of a State, consist of the following members: (i) the State Secretary, as Chairman; (ii) the State Director of Lands and Mines, as Secretary; (iii) the Director of the State Economic Planning Unit or his representative; (iv) the State Director of Town and Country Planning or his representative; and (v) representatives of other related Government departments or agencies as may be determined by the Chairman; and (b) in the case of the Federal Territory of Kuala Lumpur, consist of the following members: (i) the Director General of the Economic Planning Unit or his representative, as Chairman; (ii) the Under Secretary of the Federal Territory Development and Klang Valley Planning Division, Prime Minister's Department; (iii) a representative of the Economic Planning Unit, as Secretary; (iv) the Land Administrator of the Federal Territory; (v) the Director General of Lands and Mines or his representative; (vi) the Commissioner of the City of Kuala Lumpur or his representative; and (vii) representatives of other related Government departments or agencies as may be determined by the Chairman. 3D. (1) On receiving the application referred to in section 3A(7) or 3B, as the case may be, the Committee, in the case of a State, shall evaluate the appropriateness of the application and shall, not later than two months from the date of receiving the application, transmit it to the State Authority together with such recommendation as it thinks fit. (2) The recommendation in subsection (1) may, where applicable, include the imposition of any condition and restriction in interest on the land as provided in the State land law, (3) Where the Committee fails to transmit the application to the State Authority within the period of two months specified in subsection (1), the State Authority may direct the State Economic Planning Unit to transmit forthwith directly to the State Authority the application, the accompanying documents referred to in section 3(3) and a report of the negotiations referred to in section 3A(4), if any, together with the State Economic Planning Unit's recommendations. 3E. (1) On receiving the application referred to in section 3A(7)(b) or 3D, as the case may be, the State Authority may approve or reject the application. (2) Notwithstanding subsection (1), the State Authority shall not approve the application for the acquisition of land for any purpose larger in area than that needed for that purpose. (3) Where the State Authority has approved the application under subsection (1), it shall notify the Land Administrator of the approval and such terms and conditions as the State Authority deems fit to impose and the Land Administrator shall forthwith notify the applicant of the approval and the terms and conditions. (4) On receiving the notification under subsection (3), the applicant shall reply to the Land Administrator within thirty days of the receipt of the notification to confirm his acceptance of the terms and conditions of the approval imposed by the State Authority, failing which the applicant shall be deemed to have withdrawn his application. (5) Where the State Authority has rejected any application under subsection (1), it shall notify the Land Administrator who shall forthwith inform the applicant and refund the full amount of the deposit paid, without payment of any interest, within a period of three months. Withdrawal 3F. (1) Any applicant may withdraw from the from acquisition of any land before the publication acquisition by the of the declaration under section 8 by giving a applicant. notice in writing to the Land Administrator. (2) Where the applicant withdraws from any acquisition under subsection (1), or where the applicant is deemed to have withdrawn his application under section 3E(4), the Land Administrator shall conduct an enquiry to determine the amount of deposit to be forfeited for the payment of compensation to the persons interested. (3) Where there is a withdrawal under this section, sections 35(2) and (3) shall apply with the necessary modifications.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 5(1) of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for the word \"Commissioner\" the words \"State Director\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 8 of the principal Act is amended by inserting"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "after subsection (4) the following subsection: \"(5) Where the declaration under subsection (1) has lapsed, sections 35(2), (3) and (4) shall apply with the necessary modifications.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 9 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_7__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_7__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_7__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_7__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"In States other than the States of Penang and Malacca\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_7__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_7__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"the note\" the words \"The note\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (3)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_9__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 12(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_9A",
+      "@type": "akn:clause",
+      "eli:number": "9A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "9 the following section: 9A. (1) For the purposes of assessing the amount of compensation under the First Schedule, the Land Administrator shall request from the State Director of Town and Country Planning information on the following matters: (a) whether the scheduled land is within a local planning authority area; (b) whether the scheduled land is subject to any development plan under the law applicable to it relating to town and country planning; and (c) if there is a development plan, the land use indicated in the development plan for the scheduled land. (2) The State Director of Town and Country Planning shall, for the purpose of subsection (1), request for the information from the local planning authority. (3) The local planning authority, upon receiving the request for information under subsection (2), shall provide the information required within two weeks of the request being made by the State Director of Town and Country Planning. (4) The State Director of Town and Country Planning shall submit the information requested for by the Land Administrator under subsection (1) within four weeks of the request being made. (5) The information obtained by the Land Administrator under this section shall be conclusive evidence, for the purpose of valuing the scheduled land, with regard to the land use at the date of the acquisition and shall not be used for any purpose other than for the purposes of this Act. (6) Non-compliance with the time period stipulated in subsections (3) and (4) shall not invalidate the acquisition or the award. (7) Subsections 1(b) and (c), (4), (5) and (6) shall apply in respect of the Federal Territory of Kuala Lumpur except that for references to the State Director of Town and Country Planning there shall be substituted references to the Commissioner of the City of Kuala Lumpur.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the full stop a colon; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/24/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after that the following proviso: \"Provided that the Land Administrator may obtain a written opinion on the value of all scheduled lands from a valuer prior to making an award under section 14.\"."
+      }
+    }
+  ]
+}

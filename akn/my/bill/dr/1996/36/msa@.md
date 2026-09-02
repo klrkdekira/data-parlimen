@@ -8,9 +8,7 @@
 
 bernama
 
-Suatu Akta untuk meminda Akta Ahli Parlimen (Saraan)
-
-1980. [ ]
+Suatu Akta untuk meminda Akta Ahli Parlimen (Saraan) 1980. [ ]
 
 ## MAKA INILAH DIPERBUAT UNDANG-UNDANG
 
@@ -50,9 +48,11 @@ ibu" dalam Akta ini, adalah dipinda dalam seksyen 3—
 
 2 Rang Undang-Undang
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Seksyen 4 Akta ibu adalah dipinda— seksyen 4.
+3. Seksyen 4 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 4. -->
 
 (a) dalam perenggan (a) dan
 
@@ -60,27 +60,39 @@ Pindaan
 
 (b) dalam perenggan (c) dan (d) dengan memasukkan selepas perkataan "ribu" perkataan "sembilan puluh".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-4. Seksyen 6 Akta ibu adalah dipinda— seksyen 6.
+4. Seksyen 6 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 6. -->
 
 (a) dalam subseksyen (1)—
 
-(i) dalam perenggan (a) dengan memasuk- kan selepas perkataan "ribu" perkataan "seratus lima puluh";
+(i) dalam perenggan (a) dengan memasuk- kan selepas perkataan "ribu" perkataan "seratus lima puluh"; (ii) dalam perenggan (b) dengan meng- gantikan perkataan "lima ratus" dengan perkataan "enam ratus lima puluh"; (iii) dalam perenggan (c)
 
-(ii) dalam perenggan (b) dengan meng- gantikan perkataan "lima ratus" dengan perkataan "enam ratus lima puluh";
+<!-- marginal: dengan -->
 
-(iii) dalam perenggan (c) dengan menggantikan perkataan "lima puluh" dengan perkataan "dua ratus";
-
-(iv) dalam perenggan (d) dengan memasuk- kan selepas perkataan "ribu" perkataan "seratus lima puluh"; dan
-
-(v) dalam perenggan (e) dengan meng- gantikan perkataan "dua ratus lima puluh" dengan perkataan "empat ratus"; dan
+menggantikan perkataan "lima puluh" dengan perkataan "dua ratus"; (iv) dalam perenggan (d) dengan memasuk- kan selepas perkataan "ribu" perkataan "seratus lima puluh"; dan (v) dalam perenggan (e) dengan meng- gantikan perkataan "dua ratus lima puluh" dengan perkataan "empat ratus"; dan
 
 (b) dalam subseksyen (3) dan (4) dengan memasukkan selepas perkataan "ratus" perkataan "sembilan puluh".
 
-Pembayaran
+<!-- marginal: Pembayaran -->
 
-5. Walau apa pun seksyen 7 Akta ibu, semua gaji dan gaji dan elaun yang dinyatakan dalam pindaan kepada Akta ibu elaun walau apa pun dalam seksyen 2, 3 dan 4 dan yang kena dibayar hendaklah seksyen 7. bermula dari 1 Januari 1995 atau dari tarikh pelantikan atau pemilihan, mengikut mana-mana yang terkemudian, Ahli Parlimen, Yang di-Pertua atau Timbalan Yang di- Pertua Dewan Negara, Yang di-Pertua atau Timbalan Yang di-Pertua Dewan Rakyat, Anggota Pentadbiran, Ketua atau Timbalan Ketua Dewan Rakyat atau Ketua Pembangkang, mengikut mana-mana yang berkenaan.
+5. Walau apa pun seksyen 7 Akta ibu, semua gaji dan
+
+<!-- marginal: gaji dan -->
+
+elaun yang dinyatakan dalam pindaan kepada Akta ibu
+
+<!-- marginal: elaun walau -->
+
+<!-- marginal: apa pun -->
+
+dalam seksyen 2, 3 dan 4 dan yang kena dibayar hendaklah
+
+<!-- marginal: seksyen 7. -->
+
+bermula dari 1 Januari 1995 atau dari tarikh pelantikan atau pemilihan, mengikut mana-mana yang terkemudian, Ahli Parlimen, Yang di-Pertua atau Timbalan Yang di- Pertua Dewan Negara, Yang di-Pertua atau Timbalan Yang di-Pertua Dewan Rakyat, Anggota Pentadbiran, Ketua atau Timbalan Ketua Dewan Rakyat atau Ketua Pembangkang, mengikut mana-mana yang berkenaan.
 
 <!-- page 3 -->
 

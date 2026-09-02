@@ -4,23 +4,43 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Interpretation 3. Non-application
 
-## Part II
+## PART II
 
 ## MALAYSIA BOARD OF TECHNOLOGISTS
 
-4. Establishment of Malaysia Board of Technologists 5. Functions of the Board 6. Powers of the Board 7. Delegation of the functions and powers of the Board 8. Membership of the Board 9. Common seal 10. Tenure of office 11. Allowances 12. Revocation of appointment and resignation 13. Vacation of office 14. Schedule 15. Disclosure of interest
+4. Establishment of Malaysia Board of Technologists 5. Functions of the Board 6. Powers of the Board 7. Delegation of the functions and powers of the Board 8. Membership of the Board 9. Common seal
 
-## Part III
+10. Tenure of office
+
+11. Allowances
+
+12. Revocation of appointment and resignation
+
+13. Vacation of office
+
+14. Schedule
+
+15. Disclosure of interest
+
+## PART III
 
 ## REGISTRATION OF TECHNOLOGISTS AND TECHNICIANS
 
-16. Technical services and technology services 17. Register 18. Appointment and duties of Registrar 19. Professional Technologist 20. Certified Technician
+16. Technical services and technology services
+
+17. Register
+
+18. Appointment and duties of Registrar
+
+19. Professional Technologist
+
+20. Certified Technician
 
 <!-- page 2 -->
 
@@ -36,7 +56,7 @@
 
 26. Notification of change of address
 
-## Part IV
+## PART IV
 
 SUSPENSION, CANCELLATION OF REGISTRATION, eTC.
 
@@ -48,7 +68,7 @@ SUSPENSION, CANCELLATION OF REGISTRATION, eTC.
 
 30. Reinstatement
 
-## Part V
+## PART V
 
 ## FINANCE
 
@@ -72,7 +92,7 @@ SUSPENSION, CANCELLATION OF REGISTRATION, eTC.
 
 40. Accounts and reports
 
-## Part VI
+## PART VI
 
 ## GENERAL
 
@@ -88,7 +108,7 @@ SUSPENSION, CANCELLATION OF REGISTRATION, eTC.
 
 45. Investigating Committee and its powers 46. Penalties for obtaining registration by false pretences, etc. 47. Indemnity 48. Public servant 49. Obligation of secrecy 50. Power to make regulations
 
-## Schedule
+## SCHEDULE
 
 <!-- page 5 -->
 
@@ -100,7 +120,7 @@ An Act to provide for the establishment of the Malaysia Board of Technologists a
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -148,7 +168,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 7 -->
 
-## Part II
+## PART II
 
 ## MALAYSIA BOARD OF TECHNOLOGISTS
 
@@ -254,7 +274,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (vii) at least one but not more than three are from among other related professional boards.
 
-(2) Notwithstanding subsection (1), the first Board shall consist of the following members who shall be appointed by the Minister:
+(2) Notwithstanding subsection (1), the first Board shall consist of the following members who shall be appointed by the
+
+<!-- marginal: Minister: -->
 
 (a) a President who shall be a person qualified to be registered as a registered Professional Technologist; and
 
@@ -390,7 +412,7 @@ when the matter is discussed or decided upon.
 
 (e) any corporation within the meaning of the Companies Act 1965 [Act 125], of which the member or any nominee of his or a member of the member’s family is a director or has a substantial shareholding in the corporation.
 
-## Part III
+## PART III
 
 ## REGISTRATION OF TECHNOLOGISTS AND TECHNICIANS
 
@@ -556,7 +578,7 @@ may apply to be registered as a Certified Technician.
 
 <!-- page 21 -->
 
-## Part IV
+## PART IV
 
 SUSPENSION, CANCELLATION OF REGISTRATION, eTC.
 
@@ -630,7 +652,7 @@ SUSPENSION, CANCELLATION OF REGISTRATION, eTC.
 
 (2) Upon the order of reinstatement being made, the Registrar shall issue a certificate of registration to the registered person.
 
-## Part V
+## PART V
 
 ## FINANCE
 
@@ -716,7 +738,7 @@ SUSPENSION, CANCELLATION OF REGISTRATION, eTC.
 
 (3) The Statutory Bodies (Accounts and Annual Reports) Act 1980 [Act 240] shall apply to the Board.
 
-## Part VI
+## PART VI
 
 ## GENERAL
 
@@ -844,7 +866,7 @@ commits an offence and shall, on conviction, be liable to a fine not exceeding f
 
 (2) The regulations made under this section may include provisions for prescribing fees or charges for any service rendered in the performance of the functions of the Board.
 
-## Schedule
+## SCHEDULE
 
 [Section 14]
 
@@ -902,7 +924,7 @@ The Technologists and Technicians Act 2014 (“the Act”) as proposed by this B
 
 <!-- page 33 -->
 
-## Part I
+## PART I
 
 2. Part I of the Act deals with preliminary matters.
 
@@ -912,7 +934,7 @@ Clause 2 contains the definitions of certain words and expressions used in the A
 
 Clause 3 states that the provision of this Act shall be in addition to, and not in derogation of, the provision of any other written law relating to the registration of professionals.
 
-## Part II
+## PART II
 
 3. Part II contains provisions relating to the establishment of the Board.
 
@@ -938,7 +960,7 @@ Clause 14 provides for the procedures to be adhered to by the members of Board w
 
 Clause 15 requires a member of the Board and a member of the council or committee established by the Board to disclose his interest in any matter under discussion by the Board, council or committee.
 
-## Part III
+## PART III
 
 4. Part III contains provisions relating to the registration of technologists and technicians.
 
@@ -966,7 +988,7 @@ Clause 25 provides for the renewal of registration of Professional Technologists
 
 Clause 26 requires a registered person to notify the Registrar of any change in his address.
 
-## Part IV
+## PART IV
 
 5. Part IV contains provisions relating to suspension and cancellation of registration, removal from and reinstatement in the Register.
 
@@ -978,7 +1000,7 @@ Clause 29 provides for the surrender of certificates of registration issued unde
 
 Clause 30 provides for the reinstatement of a registered person in the Register.
 
-## Part V
+## PART V
 
 6. Part V contains financial provisions.
 
@@ -1004,7 +1026,7 @@ Clause 39 states that the financial year of the Board shall begin on 1 January a
 
 Clause 40 requires the Board to keep proper accounts of the Fund and proper reports of its activities. The Board is required to submit the statement of accounts and statement of activities to be certified by the Auditor General and a copy of the Auditor General’s Report for the financial year is to be sent to the Minister who will then cause them to be laid before both Houses of Parliament. This clause also provides that the Statutory Bodies (Accounts and Annual Reports) Act 1980 [Act 240] shall apply to the Board.
 
-## Part VI
+## PART VI
 
 7. Part VI contains general provisions.
 

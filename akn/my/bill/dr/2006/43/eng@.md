@@ -10,7 +10,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ### Short title and commencement
 
-1. (1) This Act may be cited as the Service Tax (Amendment) Act 2006.
+1. (1) This Act may be cited as the Service Tax (Amendment) Act
+
+2006.
 
 (2) This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette, and the Minister may appoint different dates for the coming into operation of different provisions of this Act.
 

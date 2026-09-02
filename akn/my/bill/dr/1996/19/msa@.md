@@ -26,15 +26,19 @@ Tentera (Pindaan) 1996.
 
 (2) Seksyen 13, 14, 15 (kecuali setakat yang ia berhubungan dengan seksyen 26B), 42, 43 dan 46 hendaklah mula berkuatkuasa pada tarikh yang ditetapkan sebagaimana yang ditakrifkan dalam subperenggan 2(a)(i).
 
-(3) Seksyen 2(a) (setakat yang ia berhubungan dengan subperenggan (ii) dan (iii)), 4, 5, 9,10, 11, 12, 15 (setakat yang ia berhubungan dengan seksyen 26B), 16, 17, 35, 36, 37, 39(b), 40, 43, 44, 45, 47, 48, 49 dan 50(b) hendaklah disifatkan telah mula berkuatkuasa pada 1 Jun
-
-1976.
+(3) Seksyen 2(a) (setakat yang ia berhubungan dengan subperenggan (ii) dan (iii)), 4, 5, 9,10, 11, 12, 15 (setakat yang ia berhubungan dengan seksyen 26B), 16, 17, 35, 36, 37, 39(b), 40, 43, 44, 45, 47, 48, 49 dan 50(b) hendaklah disifatkan telah mula berkuatkuasa pada 1 Jun 1976.
 
 <!-- page 2 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-2. Akta Angkatan Tentera 1972, yang disebut "Akta ibu" seksyen 2. dalam Akta ini, adalah dipinda dalam seksyen 2— Akta 77.
+2. Akta Angkatan Tentera 1972, yang disebut "Akta ibu"
+
+<!-- marginal: seksyen 2. -->
+
+dalam Akta ini, adalah dipinda dalam seksyen 2—
+
+<!-- marginal: Akta 77. -->
 
 (a) dengan memasukkan selepas takrif "kesalahan awam" takrif yang berikut:
 
@@ -54,13 +58,21 @@ Pindaan
 
 (e) dengan memasukkan selepas takrif "tahanan gaji" takrif yang berikut: ' "tarikh yang ditetapkan" ertinya suatu tarikh sebagaimana yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta dan Menteri boleh menetapkan tarikh-tarikh yang berlainan bagi mula berkuatkuasanya berbagai-bagai peruntukan dan tarikh-tarikh itu bolehlah lebih awal daripada tarikh Akta ini disiarkan.'.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Subseksyen 3(5) Akta ibu adalah dipinda dengan seksyen 3. menggantikan perkataan ", kapten tentera laut atau kapten tentera udara" dengan perkataan "atau yang setaraf dengannya".
+3. Subseksyen 3(5) Akta ibu adalah dipinda dengan
 
-Seksyen baru
+<!-- marginal: seksyen 3. -->
 
-4. Akta ibu adalah dipinda dengan memasukkan selepas 5A, 5B, 5c dan seksyen 5 seksyen yang berikut:
+menggantikan perkataan ", kapten tentera laut atau kapten tentera udara" dengan perkataan "atau yang setaraf dengannya".
+
+<!-- marginal: Seksyen baru -->
+
+4. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: 5A, 5B, 5c dan -->
+
+seksyen 5 seksyen yang berikut:
 
 5D. "Perkhid- 5A. Majlis Angkatan Tentera
 
@@ -72,17 +84,57 @@ matan menghendaki seseorang pegawai atau askar- di luar Malaysia. laskar berkhid
 
 ## ANGKATAN TENTERA (PINDAAN)
 
-<!-- marginal: 3 -->
+3
 
-Pertugasan 5B. (1) Majlis Angkatan Tentera boleh pegawai mempertugaskan buat sementara mana-mana atau askar- laskar pegawai atau askar-laskar kepada— kepada angkatan di dalam dan
+<!-- marginal: Pertugasan -->
 
-(a) mana-mana angkatan pelawat yang ada diluar di Malaysia menurut perenggan (b) Malaysia. Aba 432. subseksyen (1) seksyen 17 Akta Angkatan Pelawat 1960; atau
+5B. (1) Majlis Angkatan Tentera boleh
+
+<!-- marginal: pegawai -->
+
+mempertugaskan buat sementara mana-mana
+
+<!-- marginal: atau askar- -->
+
+<!-- marginal: laskar -->
+
+pegawai atau askar-laskar kepada—
+
+<!-- marginal: kepada -->
+
+<!-- marginal: angkatan di -->
+
+<!-- marginal: dalam dan -->
+
+(a) mana-mana angkatan pelawat yang ada
+
+<!-- marginal: diluar -->
+
+di Malaysia menurut perenggan (b)
+
+<!-- marginal: Malaysia. -->
+
+<!-- marginal: Aba 432. -->
+
+subseksyen (1) seksyen 17 Akta Angkatan Pelawat 1960; atau
 
 (b) mana-mana angkatan asing sesuatu negara lain di luar Malaysia.
 
 (2) Sesuatu perintah yang dibuat menurut perenggan (b) subseksyen (1) hendaklah mengikat pegawai atau askar-laskar, mengikut mana-mana yang berkenaan, kepada undang- undang tentera di bawah Akta ini setakat, dan tertakluk kepada apa-apa padanan dan ubahsuaian sebagaimana yang diperuntukkan oleh atau di bawah mana-mana undang-undang bertulis berhubung dengan pertugasan anggota angkatan itu di negara itu.
 
-Peminjaman 5c. Majlis Angkatan Tentera boleh pegawai meminjamkan seseorang pegawai atau askar- atau askar- laskar. laskar ke perkhidmatan—
+<!-- marginal: Peminjaman -->
+
+5c. Majlis Angkatan Tentera boleh
+
+<!-- marginal: pegawai -->
+
+meminjamkan seseorang pegawai atau askar-
+
+<!-- marginal: atau askar- -->
+
+<!-- marginal: laskar. -->
+
+laskar ke perkhidmatan—
 
 (a) sesuatu jabatan Kerajaan Persekutuan;
 
@@ -106,9 +158,11 @@ dibayar oleh jabatan Kerajaan Persekutuan, Negeri, pihak berkuasa atau organisas
 
 Kegunaan 5D. Seksyen 5A, 5B dan 5c tidaklah terpakai bagi berhubungan dengan kegunaan bagi maksud maksud operasi. operasi pegawai atau askar-laskar, mengikut mana-mana yang berkenaan.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-5. Seksyen 6 Akta ibu adalah dipinda— seksyen 6.
+5. Seksyen 6 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 6. -->
 
 (a) dengan menomborkannya semula sebagai subseksyen (1); dan
 
@@ -118,9 +172,11 @@ Pindaan
 
 (3) Bagi maksud subseksyen (2), seksyen 15 hendaklah terpakai.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-6. Seksyen 10 Akta ibu adalah dipinda— seksyen 10.
+6. Seksyen 10 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 10. -->
 
 (a) dengan menggantikan nota birai dengan nota birai yang berikut: "Perlantikan pegawai muda laut dan pegawai kadet."; dan
 
@@ -168,9 +224,11 @@ menggantikan perkataan ", leftenan dalam Tentera Laut dan Ieftenan udara dalam T
 
 (b) dengan memasukkan selepas perkataan "mereka" perkataan ", termasuk penyerapan, pertugasan dan peminjaman mana-mana pegawai kepada mana-mana badan, angkatan atau perkhidmatan,".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-11. Seksyen 16 Akta ibu adalah dipinda— seksyen 16.
+11. Seksyen 16 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 16. -->
 
 (a) dengan menomborkannya semula sebagai subseksyen (1); dan
 
@@ -180,9 +238,11 @@ Pindaan
 
 (3) Bagi maksud subseksyen (2), seksyen 36 hendaklah terpakai.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-12. Seksyen 21 Akta ibu adalah dipinda— seksyen21.
+12. Seksyen 21 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen21. -->
 
 (a) dengan menggantikan subseksyen (2) dengan subseksyen yang berikut:
 
@@ -204,7 +264,61 @@ seksyen 24 seksyen yang berikut:
 
 <!-- marginal: dan 24B. -->
 
-24A. Seksyen 24, 25 dan 26 tidaklah terpakai 24,25 bagi seseorang yang mendaftar dalam angkatan dan 26 tidak tetap pada atau selepas tarikh yang ditetapkan. terpakai. Tempoh 24B. (1) Tempoh dalam mana seseorang yang pen- mendaftar dalam angkatan tetap pada atau selepas daftaran askar- tarikh yang ditetapkan boleh didaftarkan ialah laskar suatu tempoh, mulai dari tarikh penyaksiannya, yang sebagaimana yang tersebut dalam peruntukan mendaftar pada atau yang berikut dalam seksyen ini. selepas tarikh (2) Jika orang yang mendaftar itu telah yang ditetapkan. mencapai umur lapan belas tahun, tempoh tersebut ialah suatu tempoh selama dua belas tahun, iaitu tempoh perkhidmatan penuh masa.
+<!-- marginal: Seksyen -->
+
+24A. Seksyen 24, 25 dan 26 tidaklah terpakai
+
+<!-- marginal: 24,25 -->
+
+bagi seseorang yang mendaftar dalam angkatan
+
+<!-- marginal: dan 26 -->
+
+<!-- marginal: tidak -->
+
+tetap pada atau selepas tarikh yang ditetapkan.
+
+<!-- marginal: terpakai. -->
+
+<!-- marginal: Tempoh -->
+
+24B. (1) Tempoh dalam mana seseorang yang
+
+<!-- marginal: pen- -->
+
+mendaftar dalam angkatan tetap pada atau selepas
+
+<!-- marginal: daftaran -->
+
+<!-- marginal: askar- -->
+
+tarikh yang ditetapkan boleh didaftarkan ialah
+
+<!-- marginal: laskar -->
+
+suatu tempoh, mulai dari tarikh penyaksiannya,
+
+<!-- marginal: yang -->
+
+sebagaimana yang tersebut dalam peruntukan
+
+<!-- marginal: mendaftar -->
+
+<!-- marginal: pada atau -->
+
+yang berikut dalam seksyen ini.
+
+<!-- marginal: selepas -->
+
+<!-- marginal: tarikh -->
+
+(2) Jika orang yang mendaftar itu telah
+
+<!-- marginal: yang -->
+
+<!-- marginal: ditetapkan. -->
+
+mencapai umur lapan belas tahun, tempoh tersebut ialah suatu tempoh selama dua belas tahun, iaitu tempoh perkhidmatan penuh masa.
 
 (3) Jika orang yang mendaftar itu belum mencapai umur lapan belas tahun, tempoh tersebut ialah suatu tempoh yang berakhir dengan tamatnya dua belas tahun, mulai dari tarikh dia mencapai umur itu, iaitu tempoh perkhidmatan penuh masa.".
 
@@ -214,7 +328,53 @@ seksyen 24 seksyen yang berikut:
 
 <!-- marginal: baru 25A. -->
 
-seksyen 25 seksyen yang berikut: "Perlan- 25A. (1) Tertakluk kepada apa-apa peraturan julan yang dibuat di bawah Bahagian ini, seseorang perkhid- matan dalam perkhidmatan penuh masa dan yang askar- mendaftar pada atau selepas tarikh yang laskar ditetapkan boleh, dengan membuat permohonan yang mendaftar bertulis kepada pihak berkuasa yang layak dan pada atau dengan persetujuan pihak berkuasa itu, selepas dibenarkan melanjutkan tempoh perkhidmatan tarikh yang penuh masanya daripada dua belas tahun kepada ditetapkan. lima belas tahun:
+seksyen 25 seksyen yang berikut:
+
+<!-- marginal: "Perlan- -->
+
+25A. (1) Tertakluk kepada apa-apa peraturan
+
+<!-- marginal: julan -->
+
+yang dibuat di bawah Bahagian ini, seseorang
+
+<!-- marginal: perkhid- -->
+
+<!-- marginal: matan -->
+
+dalam perkhidmatan penuh masa dan yang
+
+<!-- marginal: askar- -->
+
+mendaftar pada atau selepas tarikh yang
+
+<!-- marginal: laskar -->
+
+ditetapkan boleh, dengan membuat permohonan
+
+<!-- marginal: yang -->
+
+<!-- marginal: mendaftar -->
+
+bertulis kepada pihak berkuasa yang layak dan
+
+<!-- marginal: pada atau -->
+
+dengan persetujuan pihak berkuasa itu,
+
+<!-- marginal: selepas -->
+
+dibenarkan melanjutkan tempoh perkhidmatan
+
+<!-- marginal: tarikh -->
+
+<!-- marginal: yang -->
+
+penuh masanya daripada dua belas tahun kepada
+
+<!-- marginal: ditetapkan. -->
+
+lima belas tahun:
 
 <!-- page 8 -->
 
@@ -228,9 +388,57 @@ Dengan syarat bahawa permohonan itu hendaklah dibuat sekurang-kurangnya enam bul
 
 orang itu boleh dikehendaki oleh pihak berkuasa yang layak membuat pengakuan, dalam borang yang ditetapkan, supaya tidak menamatkan perkhidmatan penuh masanya sebelum tamat sesuatu tempoh bermula pada hari tamatnya kursus latihan itu sebagaimana yang ditetapkan atau, mengikut mana-mana yang berkenaan, sebelum tamat sesuatu tempoh mengikut sebagaimana yang ditetapkan berhubung dengan faedah atau kemudahan lain itu.".
 
-15. Akta ibu adalah dipinda dengan memasukkan selepas baru 26A, 26B seksyen 26 seksyen yang berikut: dan 26c. "Pertugasan
+<!-- marginal: Seksyen -->
 
-26A. (1) Tertakluk kepada apa-apa peraturan semula yang dibuat di bawah Bahagian ini, sesiapa jua askar- laskar dalam perkhidmatan penuh masa di bawah yang seksyen 24A atau 25A yang mendaftar pada atau mendaftar selepas tarikh yang ditetapkan boleh, jika ia pada atau berkehendakkan sedemikian, memohon kepada selepas pihak berkuasa yang layak dan dengan kelulusan tarikh yang pihak berkuasa yang layak itu, dibenarkan ditetapkan. bertugas semula bagi suatu tempoh atau beberapa tempoh dalam perkhidmatan penuh masa yang semuanya akan berjumlah kepada tempoh dua puluh satu tahun perkhidmatan penuh masa yang terus menerus:
+15. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru 26A, 26B -->
+
+seksyen 26 seksyen yang berikut:
+
+<!-- marginal: dan 26c. -->
+
+<!-- marginal: "Pertugasan -->
+
+26A. (1) Tertakluk kepada apa-apa peraturan
+
+<!-- marginal: semula -->
+
+yang dibuat di bawah Bahagian ini, sesiapa jua
+
+<!-- marginal: askar- -->
+
+<!-- marginal: laskar -->
+
+dalam perkhidmatan penuh masa di bawah
+
+<!-- marginal: yang -->
+
+seksyen 24A atau 25A yang mendaftar pada atau
+
+<!-- marginal: mendaftar -->
+
+selepas tarikh yang ditetapkan boleh, jika ia
+
+<!-- marginal: pada -->
+
+<!-- marginal: atau -->
+
+berkehendakkan sedemikian, memohon kepada
+
+<!-- marginal: selepas -->
+
+pihak berkuasa yang layak dan dengan kelulusan
+
+<!-- marginal: tarikh -->
+
+<!-- marginal: yang -->
+
+pihak berkuasa yang layak itu, dibenarkan
+
+<!-- marginal: ditetapkan. -->
+
+bertugas semula bagi suatu tempoh atau beberapa tempoh dalam perkhidmatan penuh masa yang semuanya akan berjumlah kepada tempoh dua puluh satu tahun perkhidmatan penuh masa yang terus menerus:
 
 <!-- page 9 -->
 
@@ -240,9 +448,55 @@ Dengan syarat bahawa permohonan itu hendaklah dibuat sekurang-kurangnya enam bul
 
 Dengan syarat bahawa permohonan itu hendaklah dibuat sekurang-kurangnya enam bulan sebelum tamat tempoh perkhidmatan penuh masanya selama dua puluh satu tahun.
 
-26B. Tertakluk kepada seksyen 27 dan 30, tiada Tiada perlanjutan seorang pun boleh melanjutkan tempoh atau perkhidmatan penuh masanya atau dibenarkan pertugasan semula bertugas semula jika kesan perlanjutan atau selepas lima pertugasan semula itu menghendakinya puluh lima tahun. berkhidmat selepas mencapai umur lima puluh lima tahun.
+26B. Tertakluk kepada seksyen 27 dan 30, tiada
 
-Perkhid- 26c. (1) Seseorang, sama ada dalam matan perkhidmatan penuh masa dalam angkatan dalam tetap atau dalam simpanan menurut seksyen 24 simpanan bagi askar- hingga 26A dan 27 hendaklah apabila laskar. diberhentikan kerja atau tamat perkhidmatan dalam simpanan, dipindahkan kepada simpanan bagi suatu tempoh selama lima tahun mulai dari hari berikutan hari diberhentikan kerja atau tamat perkhidmatan dalam simpanan:
+<!-- marginal: Tiada -->
+
+<!-- marginal: perlanjutan -->
+
+seorang pun boleh melanjutkan tempoh
+
+<!-- marginal: atau -->
+
+perkhidmatan penuh masanya atau dibenarkan
+
+<!-- marginal: pertugasan -->
+
+<!-- marginal: semula -->
+
+bertugas semula jika kesan perlanjutan atau
+
+<!-- marginal: selepas lima -->
+
+pertugasan semula itu menghendakinya
+
+<!-- marginal: puluh lima -->
+
+<!-- marginal: tahun. -->
+
+berkhidmat selepas mencapai umur lima puluh lima tahun.
+
+<!-- marginal: Perkhid- -->
+
+26c. (1) Seseorang, sama ada dalam
+
+<!-- marginal: matan -->
+
+perkhidmatan penuh masa dalam angkatan
+
+<!-- marginal: dalam -->
+
+tetap atau dalam simpanan menurut seksyen 24
+
+<!-- marginal: simpanan -->
+
+<!-- marginal: bagi askar- -->
+
+hingga 26A dan 27 hendaklah apabila
+
+<!-- marginal: laskar. -->
+
+diberhentikan kerja atau tamat perkhidmatan dalam simpanan, dipindahkan kepada simpanan bagi suatu tempoh selama lima tahun mulai dari hari berikutan hari diberhentikan kerja atau tamat perkhidmatan dalam simpanan:
 
 Dengan syarat bahawa tiada seorang pun boleh dikehendaki berkhidmat dalam simpanan setelah dia mencapai umur lima puluh tahun.
 
@@ -250,31 +504,47 @@ Dengan syarat bahawa tiada seorang pun boleh dikehendaki berkhidmat dalam simpan
 
 <!-- page 10 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-16. Seksyen 36 Akta ibu adalah dipinda— seksyen 36.
+16. Seksyen 36 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 36. -->
 
 (a) dengan memasukkan selepas perkataan "peraturan-peraturan" perkataan "termasuk peraturan-peraturan yang memperuntukkan perkara-perkara yang boleh dikeluarkan melalui Majlis Angkatan Tentera"; dan
 
 (b) dengan memasukkan selepas perkataan "perkhidmatan mereka" perkataan "termasuk penyerapan, pertugasan dan peminjaman kepada mana-mana badan, angkatan atau perkhidmatan,".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-17. Seksyen 51 Akta ibu adalah dipinda dengan seksyen 51. memasukkan selepas subseksyen (2) subseksyen yang berikut:
+17. Seksyen 51 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 51. -->
+
+memasukkan selepas subseksyen (2) subseksyen yang berikut:
 
 " (3) Perintah tetap atau perintah biasa lain yang diperihalkan dalam subseksyen (2) bolehlah—
 
 (a) dibuat; dan
 
-(b) disiarkan dalam apa-apa bentuk sebagaimana yang boleh ditentukan oleh, Ketua Perkhidmatan bagi setiap Perkhidmatan atau mana-mana pegawai yang diberikuasa olehnya.".
+(b) disiarkan dalam apa-apa
 
-Pindaan
+<!-- marginal: bentuk -->
 
-18. Perenggan 81(b) Akta ibu adalah dipinda dengan seksyen81. menggantikan perkataan "pegawai waran, ketua pegawai kecil, pegawai tidak bertauliah atau pegawai kecil" dengan perkataan "askar-laskar".
+sebagaimana yang boleh ditentukan oleh, Ketua Perkhidmatan bagi setiap Perkhidmatan atau mana-mana pegawai yang diberikuasa olehnya.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-19. Seksyen 90 Akta ibu adalah dipinda— seksyen 90.
+18. Perenggan 81(b) Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen81. -->
+
+menggantikan perkataan "pegawai waran, ketua pegawai kecil, pegawai tidak bertauliah atau pegawai kecil" dengan perkataan "askar-laskar".
+
+<!-- marginal: Pindaan -->
+
+19. Seksyen 90 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 90. -->
 
 (a) dalam subseksyen (2)—
 
@@ -306,9 +576,19 @@ seksyen 94 seksyen baru yang berikut:
 
 <!-- marginal: dan 94D. -->
 
-"Ketua
+<!-- marginal: "Ketua -->
 
-94A. (1) Majlis Angkatan Tentera hendaklah Mashal melantik seorang Ketua Mashal Polis Tentera Polis Tentera. bagi ketiga-tiga Perkhidmatan.
+94A. (1) Majlis Angkatan Tentera hendaklah
+
+<!-- marginal: Mashal -->
+
+melantik seorang Ketua Mashal Polis Tentera
+
+<!-- marginal: Polis -->
+
+<!-- marginal: Tentera. -->
+
+bagi ketiga-tiga Perkhidmatan.
 
 (2) Ketua Mashal Polis Tentera hendaklah—
 
@@ -328,21 +608,69 @@ seksyen 94 seksyen baru yang berikut:
 
 untuk membantunya dalam menjalankan tugasnya.
 
-Mashal 94B. (1) Ketua Perkhidmatan berkenaan boleh Polis melantik seorang Mashal Polis Tentera dan Tentera beberapa orang pegawai polis tentera dan pegawai sebagaimana yang dia anggap perlu bagi polis Perkhidmatannya. tentera.
+<!-- marginal: Mashal -->
+
+94B. (1) Ketua Perkhidmatan berkenaan boleh
+
+<!-- marginal: Polis -->
+
+melantik seorang Mashal Polis Tentera dan
+
+<!-- marginal: Tentera -->
+
+beberapa orang pegawai polis tentera
+
+<!-- marginal: dan -->
+
+<!-- marginal: pegawai -->
+
+sebagaimana yang dia anggap perlu bagi
+
+<!-- marginal: polis -->
+
+Perkhidmatannya.
+
+<!-- marginal: tentera. -->
 
 (2) Mashal Polis Tentera dan pegawai polis tentera yang dilantik di bawah subseksyen (1) hendaklah menjalankan tugas yang diberi oleh atau di bawah Akta ini, dan terutamanya hendaklah mempunyai kuasa untuk menyiasat apa-apa kesalahan di bawah Akta ini.
 
-Perlantikan 94c. Walau apa pun peruntukan seksyen 94A atau dan 94B, mana-mana anggota angkatan tentera pemberi- boleh dilantik atau diberikuasa oleh pihak kuasaan pegawai berkuasa yang layak untuk menyiasat apa-apa penyiasat kesalahan di bawah Akta ini. lain.
+<!-- marginal: Perlantikan -->
 
-Pengesahan. 94D. Seseorang Mashal Polis Tentera, pegawai polis tentera, pegawai penyiasat atau pegawai diberikuasa yang dilantik atau diberikuasa sebelum mula berkuatkuasanya seksyen 94B atau 94c hendaklah disifatkan telah dilantik atau diberikuasa di bawah seksyen 94B atau 94c, mengikut mana-mana yang berkenaan, dan apa- apa tindakan atau perkara yang dilakukan oleh orang sedemikian sebelum mula berkuatkuasanya seksyen 94B dan 94c yang akan menjadi sah di sisi undang-undang jika peruntukan-peruntukan itu telah berkuatkuasa pada masa tindakan atau
+94c. Walau apa pun peruntukan seksyen 94A
+
+<!-- marginal: atau -->
+
+dan 94B, mana-mana anggota angkatan tentera
+
+<!-- marginal: pemberi- -->
+
+boleh dilantik atau diberikuasa oleh pihak
+
+<!-- marginal: kuasaan -->
+
+<!-- marginal: pegawai -->
+
+berkuasa yang layak untuk menyiasat apa-apa
+
+<!-- marginal: penyiasat -->
+
+kesalahan di bawah Akta ini.
+
+<!-- marginal: lain. -->
+
+<!-- marginal: Pengesahan. -->
+
+94D. Seseorang Mashal Polis Tentera, pegawai polis tentera, pegawai penyiasat atau pegawai diberikuasa yang dilantik atau diberikuasa sebelum mula berkuatkuasanya seksyen 94B atau 94c hendaklah disifatkan telah dilantik atau diberikuasa di bawah seksyen 94B atau 94c, mengikut mana-mana yang berkenaan, dan apa- apa tindakan atau perkara yang dilakukan oleh orang sedemikian sebelum mula berkuatkuasanya seksyen 94B dan 94c yang akan menjadi sah di sisi undang-undang jika peruntukan-peruntukan itu telah berkuatkuasa pada masa tindakan atau
 
 <!-- page 13 -->
 
 perkara itu dilakukan adalah dengan ini disahkan dan diisytiharkan sebagai telah dilakukan secara sah di sisi undang-undang.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-22. Seksyen 96 Akta ibu adalah dipinda— seksyen 96.
+22. Seksyen 96 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 96. -->
 
 (a) dalam subseksyen (1) dengan menggantikan perkataan ", komander atau komander udara, atau terhadap seseorang pemangku naib leftenan laut" dengan perkataan "atau yang setaraf dengannya atau terhadap";
 
@@ -350,9 +678,11 @@ Pindaan
 
 (c) dalam perenggan (4)(a) dengan memotong perkataan ", pemangku naib leftenan laut".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-23. Seksyen 97 Akta ibu adalah dipinda— seksyen 97.
+23. Seksyen 97 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 97. -->
 
 (a) dengan menggantikan perkataan "seseorang pegawai muda laut, kadet laut, pegawai kadet, kadet udara" di mana jua terdapat dalamnya dengan perkataan "seseorang pegawai yang dilantik";
 
@@ -368,27 +698,49 @@ Pindaan
 
 (f) dalam subseksyen (6)—
 
-(i) dengan menggantikan perkataan ", pemangku ketua pegawai kecil, pemangku pegawai tidak bertauliah, pemangku pegawai kecil atau pemangku ketua laskar" dengan perkataan "atau pemangku pegawai tidak bertauliah"; dan
+(i) dengan menggantikan
+
+<!-- marginal: perkataan -->
+
+", pemangku ketua pegawai kecil, pemangku pegawai tidak bertauliah, pemangku pegawai kecil atau pemangku ketua laskar" dengan perkataan "atau pemangku pegawai tidak bertauliah"; dan
 
 (ii) dengan memotong perkataan "atau memegang sesuatu pangkat atau taraf memangku yang lebih rendah daripada yang dipegangnya tetapi yang lebih tinggi daripada pangkat atau taraf tetapnya"; dan
 
-(g) dalam subseksyen (10) dengan menggantikan perkataan ", kapten laut atau kapten udara" dengan perkataan "atau yang setaraf dengannya".
+(g) dalam subseksyen (10) dengan menggantikan perkataan ", kapten laut atau kapten udara" dengan perkataan "atau yang
 
-Pindaan
+<!-- marginal: setaraf -->
 
-24. Subseksyen 98(1) Akta ibu adalah dipinda dengan seksyen 98. memotong perkataan ", pemangku naib leftenan laut".
+dengannya".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-25. Subseksyen 100(1) Akta ibu adalah dipinda dengan seksyen 100. menggantikan perkataan "kapten laut atau kapten udara" dengan perkataan "yang setaraf dengannya".
+24. Subseksyen 98(1) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 98. -->
 
-26. Subseksyen 101(2) Akta ibu adalah dipinda dengan seksyen 101. menggantikan perkataan ", kapten laut atau kapten udara" dengan perkataan "atau yang setaraf dengannya".
+memotong perkataan ", pemangku naib leftenan laut".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-27. Subseksyen 104(2) Akta ibu adalah dipinda— seksyen 104.
+25. Subseksyen 100(1) Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 100. -->
+
+menggantikan perkataan "kapten laut atau kapten udara" dengan perkataan "yang setaraf dengannya".
+
+<!-- marginal: Pindaan -->
+
+26. Subseksyen 101(2) Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 101. -->
+
+menggantikan perkataan ", kapten laut atau kapten udara" dengan perkataan "atau yang setaraf dengannya".
+
+<!-- marginal: Pindaan -->
+
+27. Subseksyen 104(2) Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 104. -->
 
 (a) dalam perenggan (b) dengan menggantikan perkataan "Ketua Turus Tentera Darat" dengan perkataan "Panglima Tentera Darat";
 
@@ -428,21 +780,35 @@ Pindaan
 
 (b) dengan menggantikan perkataan ", leftenan komander atau komander muda udara" dengan perkataan "atau yang setaraf dengannya".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-30. Perenggan 111(3)(a) Akta ibu adalah dipinda dengan leksyen 111. menggantikan perkataan ", leftenan laut atau leftenan udara" dengan perkataan -"atau yang setaraf dengannya".
+30. Perenggan 111(3)(a) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: leksyen 111. -->
 
-31. Subseksyen 129(1) Akta ibu adalah dipinda dengan ieksyen 129. menggantikan perkataan ", kapten laut atau kapten udara" dengan perkataan "atau yang setaraf dengannya".
+menggantikan perkataan ", leftenan laut atau leftenan udara" dengan perkataan -"atau yang setaraf dengannya".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-32. Subseksyen 136(3) Akta ibu adalah dipinda dengan ieksyen 136. menggantikan perkataan ", komander muda atau komander muda udara" dengan perkataan "atau yang setaraf dengannya".
+31. Subseksyen 129(1) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: ieksyen 129. -->
 
-33. Seksyen 144 Akta ibu adalah dipinda— seksyen 144.
+menggantikan perkataan ", kapten laut atau kapten udara" dengan perkataan "atau yang setaraf dengannya".
+
+<!-- marginal: Pindaan -->
+
+32. Subseksyen 136(3) Akta ibu adalah dipinda dengan
+
+<!-- marginal: ieksyen 136. -->
+
+menggantikan perkataan ", komander muda atau komander muda udara" dengan perkataan "atau yang setaraf dengannya".
+
+<!-- marginal: Pindaan -->
+
+33. Seksyen 144 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 144. -->
 
 (a) dalam subseksyen (1)—
 
@@ -458,7 +824,11 @@ Pindaan
 
 (a) sesuatu permohonan bagi apa-apa perintah prerogatif bagi mandamus, larangan atau certiorari;
 
-(b) sesuatu permohonan bagi suatu perisytiharan atau injunksi; (c) sesuatu writ habeas corpus; atau
+(b) sesuatu permohonan bagi
+
+<!-- marginal: suatu -->
+
+perisytiharan atau injunksi; (c) sesuatu writ habeas corpus; atau
 
 (d) apa-apa guaman lain, tindakan atau lain- lain prosiding undang-undang berhubung dengan atau yang berbangkit daripada apa-apa tindakan yang dilakukan atau keputusan yang dibuat oleh mahkamah tentera atau pihak berkuasa penyidangan mengikut Akta ini.".
 
@@ -496,29 +866,47 @@ memasukkan selepas perkataan "yang baginya peraturan- peraturarT perkataan "dan 
 
 termasuklah sebutan-sebutan mengenai pemangku pegawai-pegawai tidak bertauliah dan pemangku pegawai-pegawai waran.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-37. Subseksyen 157(1) Akta ibu adalah dipinda dengan seksyen 157. memasukkan selepas perkataan "peraturan-peraturan" perkataan "termasuk peraturan-peraturan yang memperuntukkan perkara-perkara yang boleh dikeluarkan melalui Perintah Majlis Angkatan Tentera".
+37. Subseksyen 157(1) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 157. -->
 
-38. Perenggan 166(1)(b) Akta ibu adalah dipinda dengan seksyen 166. menggantikan perkataan "pegawai kecil" dengan perkataan "yang setaraf dengannya".
+memasukkan selepas perkataan "peraturan-peraturan" perkataan "termasuk peraturan-peraturan yang memperuntukkan perkara-perkara yang boleh dikeluarkan melalui Perintah Majlis Angkatan Tentera".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-39. Seksyen 184 Akta ibu adalah dipinda— seksyen 184.
+38. Perenggan 166(1)(b) Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 166. -->
+
+menggantikan perkataan "pegawai kecil" dengan perkataan "yang setaraf dengannya".
+
+<!-- marginal: Pindaan -->
+
+39. Seksyen 184 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 184. -->
 
 (a) dalam subseksyen (2) dengan memotong perkataan "ketua pegawai kecil" dan "atau pegawai kecil"; dan
 
 (b) dalam subseksyen (4) dengan memotong perkataan 'dan perbahasaan "Ketua Turus yang berkenaan" hendaklah diertikan sebagai Ketua Turus Tentera Darat berkenaan dengan seseorang yang berkhidmat dengan Tentera Darat, Ketua Turus Tentera Laut berkenaan dengan seseorang yang berkhidmat dalam Tentera Laut dan Ketua Turus Tentera Udara berkenaan dengan seseorang yang berkhidmat dalam Tentera Udara.'.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-40. Subseksyen 187(1) Akta ibu adalah dipinda dengan seksyen 187. memasukkan selepas perkataan "membuat peraturan- peraturan" perkataan "termasuk peraturan-peraturan yang memperuntukkan perkara-perkara yang boleh dikeluarkan melalui Perintah Majlis Angkatan Tentera".
+40. Subseksyen 187(1) Akta ibu adalah dipinda dengan
 
-Seksyen baru
+<!-- marginal: seksyen 187. -->
 
-41. Akta ibu adalah dipinda dengan memasukkan selepas 187A dan seksyen 187 seksyen yang berikut:
+memasukkan selepas perkataan "membuat peraturan- peraturan" perkataan "termasuk peraturan-peraturan yang memperuntukkan perkara-perkara yang boleh dikeluarkan melalui Perintah Majlis Angkatan Tentera".
+
+<!-- marginal: Seksyen baru -->
+
+41. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: 187A dan -->
+
+seksyen 187 seksyen yang berikut:
 
 187B.
 
@@ -534,9 +922,19 @@ patut bagi maksud meningkatkan kebajikan dan memperuntukkan lain-Iain faedah bag
 
 (4) Bagi maksud seksyen ini, "unit" ertinya markas, formasi, pengkalan, kapal, stesen, depot, pusat latihan atau apa-apa yang bersamaan dengannya.
 
-Pengesahan
+<!-- marginal: Pengesahan -->
 
-187B. Apa-apa caruman yang dipungut dan apa- caruman apa wang yang dibelanjakan daripadanya bagi yang dipungut. mana-mana tempoh sebelum mula berkuatkuasanya peruntukan ini yang akan menjadi sah di sisi undang-undang jika peruntukan ini telah berkuatkuasa adalah dengan ini disahkan dan diisytiharkan telah dipungut dan dibelanjakan secara sah di sisi undang- undang.".
+187B. Apa-apa caruman yang dipungut dan apa-
+
+<!-- marginal: caruman -->
+
+apa wang yang dibelanjakan daripadanya bagi
+
+<!-- marginal: yang -->
+
+<!-- marginal: dipungut. -->
+
+mana-mana tempoh sebelum mula berkuatkuasanya peruntukan ini yang akan menjadi sah di sisi undang-undang jika peruntukan ini telah berkuatkuasa adalah dengan ini disahkan dan diisytiharkan telah dipungut dan dibelanjakan secara sah di sisi undang- undang.".
 
 <!-- marginal: Pindaan -->
 
@@ -554,15 +952,33 @@ Dengan syarat bahawa Majlis Angkatan Tentera boleh atas budi bicaranya mengecual
 
 (2) Subseksyen (1) hendaklah terpakai bagi pegawai-pegawai angkatan tetap yang pada atau selepas tarikh yang ditetapkan itu masih berkhidmat dengan angkatan tetap.".
 
-43. Akta ibu adalah dipinda dengan memasukkan selepas baru 189A. seksyen 189 seksyen yang berikut:
+<!-- marginal: Seksyen -->
+
+43. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru 189A. -->
+
+seksyen 189 seksyen yang berikut:
 
 Pangkat 189A. (1) Seseorang pegawai atau askar-laskar semasa yang berkhidmat dalam Simpanan Angkatan berkhidmat dalam Tetap adalah berhak sepanjang tempoh Simpanan perkhidmatannya dalam simpanan memegang Angkatan Tetap. pangkat hakiki yang akhir dipegang olehnya semasa berkhidmat dalam angkatan tetap.
 
 (2) Bagi maksud Bahagian ini, seseorang pegawai dalam Simpanan Angkatan Tetap yang telah berkhidmat sebagai seorang pegawai yang ditauliahkan bagi suatu tempoh yang ditetapkan dalam angkatan tetap hendaklah disifatkan sebagai seorang pegawai bertauliah.".
 
-44. Seksyen 194 Akta ibu adalah dipinda dengan Pindaan seksyen 194. memasukkan sebelum perkataan "berkenaan dengan" perkataan "termasuk peraturan-peraturan yang memperuntukkan perkara-perkara yang boleh dikeluarkan melalui Perintah Majlis Angkatan Tentera".
+44. Seksyen 194 Akta ibu adalah dipinda dengan
 
-45. Subseksyen 197(1) Akta ibu adalah dipinda dengan Pindaan seksyen 197. menggantikan perkataan "Ketua Turus Tentera Darat", "Ketua Turus Tentera Laut" dan "Ketua Turus Tentera Udara" masing-masing dengan perkataan "Panglima Tentera Darat", "Panglima Tentera Laut" dan "Panglima Tentera Udara".
+<!-- marginal: Pindaan -->
+
+<!-- marginal: seksyen 194. -->
+
+memasukkan sebelum perkataan "berkenaan dengan" perkataan "termasuk peraturan-peraturan yang memperuntukkan perkara-perkara yang boleh dikeluarkan melalui Perintah Majlis Angkatan Tentera".
+
+45. Subseksyen 197(1) Akta ibu adalah dipinda dengan
+
+<!-- marginal: Pindaan -->
+
+<!-- marginal: seksyen 197. -->
+
+menggantikan perkataan "Ketua Turus Tentera Darat", "Ketua Turus Tentera Laut" dan "Ketua Turus Tentera Udara" masing-masing dengan perkataan "Panglima Tentera Darat", "Panglima Tentera Laut" dan "Panglima Tentera Udara".
 
 <!-- page 21 -->
 
@@ -574,9 +990,7 @@ Pangkat 189A. (1) Seseorang pegawai atau askar-laskar semasa yang berkhidmat dal
 
 memasukkan selepas subseksyen (3) subseksyen yang berikut:
 
-" (4) Tiap-tiap anggota sesuatu angkatan sukarela yang telah tamat latihan yang dikehendaki di bawah subseksyen (1) boleh dikehendaki berkhidmat dalam angkatan sukarela bagi apa-apa tempoh minimum sebagaimana yang ditetapkan oleh peraturan-peraturan yang dibuat di bawah seksyen
-
-207.".
+" (4) Tiap-tiap anggota sesuatu angkatan sukarela yang telah tamat latihan yang dikehendaki di bawah subseksyen (1) boleh dikehendaki berkhidmat dalam angkatan sukarela bagi apa-apa tempoh minimum sebagaimana yang ditetapkan oleh peraturan-peraturan yang dibuat di bawah seksyen 207.".
 
 <!-- marginal: Seksyen -->
 
@@ -616,9 +1030,11 @@ memasukkan selepas perkataan "membuat kaedah-kaedah" perkataan "termasuk kaedah-
 
 (ii) dalam perenggan (j) dengan memasukkan selepas perkataan "kesalahan-kesalahan ringan" perkataan "termasuk perkara- perkara prosedur yang berhubung dengannya".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-50. Seksyen 213 Akta ibu adalah dipinda— seksyen 213.
+50. Seksyen 213 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 213. -->
 
 (a) dengan menggantikan perkataan "pangkat- pangkat yang tidak bertauliah" di mana jua terdapat dalamnya dengan perkataan "askar- laskar"; dan
 
@@ -626,9 +1042,13 @@ Pindaan
 
 " (7) Berkenaan dengan Bahagian V, bagi maksud seksyen ini, jika mana-mana peruntukan dalamnya menetapkan bahawa sesuatu tindakan boleh dilakukan oleh seseorang anggota angkatan tetap yang mempunyai suatu pangkat tertentu atau yang memegang sesuatu jawatan tertentu, dan Simpanan Angkatan Tetap atau angkatan sukarela tidak mempunyai seorang anggota yang mempunyai pangkat sedemikian atau memegang jawatan sedemikian, maka seorang anggota angkatan tetap yang mempunyai pangkat itu atau yang memegang jawatan itu boleh menjalankan tindakan sedemikian berhubungan dengan seseorang anggota Simpanan Angkatan Tetap atau angkatan sukarela.".
 
-Pemansuhan.
+<!-- marginal: Pemansuhan. -->
 
-51. Akta Angkatan Tentera (Pindaan) 1984 adalah dengan Akta A583. ini dimansuhkan.
+51. Akta Angkatan Tentera (Pindaan) 1984 adalah dengan
+
+<!-- marginal: Akta A583. -->
+
+ini dimansuhkan.
 
 ## HURAIAN
 
@@ -644,7 +1064,9 @@ Rang Undang-Undang ini bertujuan meminda Akta Angkatan Tentera 1972 ("Akta").
 
 3. Fasal 2 bertujuan memasukkan takrif baru tertentu bagi istilah yang digunakan dalam Akta, iaitu takrif "tarikh yang ditetapkan", "Perintah Majlis Angkatan Tentera" dan "Ketua Perkhidmatan".
 
-4. Fasal 4 bertujuan memasukkan empat seksyen baru. Seksyen 5A memperuntukkan bahawa Majlis Angkatan Tentera boleh menghendaki seseorang pegawai atau askar-laskar berkhidmat di luar Malaysia. Seksyen 5B memberi kepada Majlis Angkatan Tentera kuasa untuk mempertugaskan buat sementara mana-mana pegawai atau askar-laskar kepada mana-mana angkatan asing di dalam atau di luar Malaysia. Seksyen 5c memberi kepada Majlis Angkatan Tentera kuasa untuk meminjamkan mana-mana pegawai atau askar- laskar kepada mana-mana jabatan Kerajaan Persekutuan, Negeri, pihak berkuasa tempatan, pihak berkuasa berkanun atau organisasi, di dalam atau di luar Malaysia. Seksyen 5D bertujuan memperuntukkan bahawa seksyen 5A, 5B dan 5c tidaklah terpakai bagi kegunaan secara operasi pegawai atau askar-laskar. Ini adalah bertepatan dengan Perkara 137(1) Perlembagaan Persekutuan.
+4. Fasal 4 bertujuan memasukkan empat seksyen baru. Seksyen 5A memperuntukkan bahawa Majlis Angkatan Tentera boleh menghendaki seseorang pegawai atau askar-laskar berkhidmat di luar Malaysia. Seksyen 5B memberi kepada Majlis Angkatan Tentera kuasa untuk mempertugaskan buat sementara mana-mana pegawai atau askar-laskar kepada mana-mana angkatan asing di dalam atau di luar Malaysia. Seksyen 5c memberi kepada Majlis Angkatan Tentera kuasa untuk meminjamkan mana-mana pegawai atau askar- laskar kepada mana-mana jabatan Kerajaan Persekutuan, Negeri, pihak berkuasa tempatan, pihak berkuasa berkanun atau organisasi, di dalam atau di luar Malaysia. Seksyen 5D bertujuan memperuntukkan bahawa seksyen 5A, 5B dan 5c tidaklah terpakai bagi kegunaan secara operasi pegawai atau askar-laskar. Ini adalah bertepatan dengan
+
+## Perkara 137(1) Perlembagaan Persekutuan.
 
 5. Fasal 5 bertujuan meminda seksyen 6 Akta untuk memberi kepada Majlis Angkatan Tentera kuasa untuk menerima perkhidmatan yang diambil kira, jika ada, seseorang pegawai angkatan sukarela yang ditauliahkan ke dalam angkatan tetap. Fasal 11 bertujuan melakukan perkara yang sama berkenaan dengan askar-Iaskar.
 

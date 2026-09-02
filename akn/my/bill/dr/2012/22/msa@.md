@@ -38,7 +38,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 4. Akta ibu dipinda dengan memasukkan selepas seksyen 40 Bahagian yang berikut:
 
-“Bahagian IVa
+## “BAHAGIAN IVA
 
 ## PERKONGSIAN ANTARABANGSA, FIRMA GUAMAN ASING
 

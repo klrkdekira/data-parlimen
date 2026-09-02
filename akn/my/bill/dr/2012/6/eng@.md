@@ -128,7 +128,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 “(2) The board shall, in relation to its functions under paragraph (1a)(a), (b), (c), (d), (e), (j) or (k), seek the views of the Foundation.”; and
 
-(d) in subsection (3), by substituting for the words “subsection (1)” the words “subsection (1a)”.
+(d) in subsection (3), by substituting for the words “subsection
+
+(1)” the words “subsection (1a)”.
 
 <!-- page 6 -->
 

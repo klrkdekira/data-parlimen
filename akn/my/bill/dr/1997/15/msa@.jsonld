@@ -1,0 +1,508 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-15-1997",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_12"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Hakcipta (Pindaan) 1997"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Hakcipta (Pindaan)"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "1997 dan hendaklah mula berkuatkuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_10__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_10__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_10__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 41(1) Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (f) dengan memotong perkataan \"atau\" di hujung perenggan itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan koma di hujung perenggan (g) dengan koma bertitik dan memasukkan selepas itu perenggan yang berikut: \"(h) memintas atau menyebabkan dipintas apa-apa langkah teknologi yang berkesan yang disebut dalam subseksyen (3) seksyen 36; (i) membuang atau mengubah apa-apa maklumat pengurusan hak elektronik tanpa kebenaran; atau (j) mengedarkan, mengimport untuk pengedaran atau menyampaikan kepada orang awam, tanpa kebenaran, karya atau salinan karya yang berkenaan dengannya maklumat pengurusan hak elektronik telah dibuang atau diubah tanpa kebenaran,\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_10__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (i) dengan memotong perkataan \"dan\" di hujung perenggan itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_10__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (ii) dengan menggantikan noktah di hujung perenggan itu dengan koma bertitik dan memasukkan selepas itu perenggan yang berikut: \"(iii) dalam hal kesalahan di bawah perenggan (h), (i) dan (j), denda tidak melebihi dua ratus lima puluh ribu ringgit atau penjara bagi suatu tempoh tidak melebihi tiga tahun atau kedua-duanya dan bagi apa-apa kesalahan kali kemudian, denda tidak melebihi lima ratus ribu ringgit atau penjara bagi suatu tempoh tidak melebihi lima tahun atau kedua- duanya.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_11__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 58(2) Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a) dengan raenggantikan perkataan \"menyiarkan, berhubung melalui kabel\" dengan perkataan \"menyampaikan kepada orang awam\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b) dengan menggantikan perkataan \"menyiarkan atau menghubungkan karya-karya itu melalui kabel\" dengan perkataan \", menyampaikan karya-karya itu kepada orang awam\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkari selepas"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seksyen 59A seksyen yang berikut: \"Kuasa 59s. (1) Menteri boleh, melalui perintah, Menteri mengecualikan daripada takrif \"siaran\" untuk menge- berhubungan dengan pemancaran melalui wayar cualikan mana-mana perkhidmatan yang berikut: daripada takrif (a) perkhidmatan saling tindak; \"siaran\". (b) perkhidmatan perniagaan dalaman; (c) perkhidmatan domestik individu; (d) perkhidmatan di premis yang diduduki secara tunggal selain daripada sebagai kemudahan perniagaan; (e) perkhidmatan yang dijalankan bagi orang yang mengadakan perkhidmatan penyiaran melalui cara wayar atau mengadakan rancangan bagi perkhidmatan sedemikian. (2) Menteri boleh, melalui perintah, meminda subseksyen (1) supaya ditambah atau dihapuskan pengecualian yang disebut dalam subseksyen itu.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_2__para_a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Hakcipta 1987, yang disebut \"Akta ibu\" dalam"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini, adalah dipinda dalam seksyen 3—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_2__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_2__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif \"karya sastera\"—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_2__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (g) dengan menggantikan perkataan \"yang dinyatakan dalam perkataan-perkataan, angka-angka atau simbol-simbol (sama ada dalam bentuk yang boleh dilihat atau tidak)\" dengan perkataan \", sama ada atau dinyatakan dalam perkataan, angka atau simbol dan sama ada atau tidak dalam bentuk yang tampak\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_2__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (h) dengan memotong perkataan \"atau penyusunan program- program komputer\"; perenggan (f) dengan . perenggan yang berikut: \"(f) berhubungan dengan siaran yang dipancarkan dari dalam mana-mana negara, ertinya— (i) orang yang memancarkan rancangan itu, jika dia ber- tanggungjawab bagi pemilihan kandungannya; atau (ii) mana-mana orang mengadakan rancangan yang membuat perkiraan yang perlu dengan orang memancarkannya untuk pe- (c) dalam takrif \"penetapan\" dengan memasukkan selepas perkataan \"kedua-duanya\" perkataan \", atau perlambangannya;\"; (d) dengan memasukkan selepas takrif \"pengeluaran semula\" takrif yang berikut: ' \"penyampaian kepada orang awam\" ertinya pemancaran sesuatu karya melalui cara- wayar atau wayarles kepada orang awam, termasuk menjadikan sesuatu karya itu tersedia kepada orang awam dengan cara yang melaluinya orang awam itu boleh mendapatkan akses kepada karya itu dari suatu tempat dan pada masa yang masing-masing dipilih oleh mereka;'; (e) dengan memotong takrif \"perhubungan melalui kabel\"; dan (f) dengan menggantikan takrif \"siaran\" dengan takrif yang berikut: ' \"siaran\" ertinya pemancaran, melalui cara wayar atau wayarles, akan imej tampak, bunyi atau maklumat yang lain yang— (a) boleh diterima dengan sahnya oleh orang awam; atau (b) dipancarkan bagi persembahan kepacla orang awam, dan termasuklah pemancaran isyarat penyulitan jika cara untuk penyahsulitan disediakan kepada orang awam oleh perkhidmatan penyiaran atau dengan persetujuannya;'. Pindaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 7 Akta ibu adalah dipinda dengan seksyen 7. memasukkan selepas subseksyen (2) subseksyen yang \"(2A) Perlindungan hakcipta tidaklah meluas kepada apa-apa ide, prosedur, kaedah pengendalian atau konsep matematik sebagai sedemikian.\". Pindaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 13 Akta ibu adalah dipinda— seksyen 13."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_4__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_4__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_4__para_a__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_4__para_a__subpara_iv",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_4__para_a__subpara_v"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_4__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_4__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"atau rakaman bunyi\" dengan perkataan \"rakaman bunyi atau karya terbitan\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_4__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_4__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (a) perenggan yang berikut: \"(aa) penyampaian kepada orang awam;\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_4__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_4__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perenggan (c) dan (d);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_4__para_a__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_4__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (e) dengan perenggan yang berikut; \"(e) pengedaran salinan-salinan kepada orang awam melalui penjualan atau pemindahan pe- munyaan secara lain; dan\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_4__para_a__subpara_v",
+      "@type": "akn:subparagraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_4__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (e) perenggan yang berikut: \" (f) penyewaan secara komersial kepada orang awam,\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_4__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_4__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_4__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_4__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_4__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (ggg) perenggan yang berikut: \"(gggg) pembuatan salinan daripada siaran televisyen yang mempunyai sari kata atau yang selainnya diubahsuaikan bagi orang yang pekak atau kurang pendengaran, atau yang cacat dari segi fizikal atau mental secara lain dan pengeluaran salinan itu kepada orang awam oleh badan atau institusi yang tidak mencari keuntungan yang ditetapkan oleh Menteri melalui perintah;\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_4__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_4__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (n) dengan memotong perkataan \"dan\" di hujung proviso kepada perenggan itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_4__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_4__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah di hujung perenggan (o) dengan koma bertitik dan perkataan \"dan\" dan memasukkan selepas itu perenggan yang berikut: \"(p) penyewaan secara komersial akan program komputer, jika program itu bukanlah matlamat penting penyewaan itu.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 15(2) Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memasukkan selepas perkataan \"(ggg),\" perkataan \"<gggg>,\"-"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 17 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota birai dengan memotong perkataan \"(selain daripada fotograf)\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), (2) dan (3) dengan memotong perkataan \"(selain daripada fotograf)\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memotong"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seksyen 21."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_8__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 25 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_8__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_8__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen ( 2 )-"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_8__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_8__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a) dengan memasukkan selepas perkataan \"sekalipun,\" perkataan \"tanpa mengenal pasti pencipta atau\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_8__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_8__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b) dengan menggantikan perkataan \"penyampaian karya itu dengan apa cara sekalipun, dalam bentuk yang diubahsuai, jika ubahsuaian itu—\" dengan perkataan \"perosakan, pencacatan atau pengubahsuaian yang lain akan karya itu jika perosakan, pencacatan pengubahsuaian itu—\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_8__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_8__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_8__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_8__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan \", menyiarkan atau berhubungan melalui kabel akan\" dengan perkataan \"atau menyampaikan kepada orang awam\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_8__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_8__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan \", penyiaran atau perhubungan melalui kabel\" dengan perkataan \"atau pe- nyampaian kepada orang awam\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/15/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 36 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memasukkan selepas subseksyen (2) subseksyen yang berikut: \"(3) Pelanggaran terhadap hakcipta berlaku apabila mana-mana orang memintasi atau menyebabkan mana-mana orang yang lain memintasi apa-apa langkah teknologi yang berkesan yang digunakan oleh pencipta-pencipta berkaitan dengan perjalanan hak-hak mereka di bawah Akta ini dan yang menyekat perbuatan, berkenaan dengan karya mereka, yang tidak dibenarkan oleh pencipta yang berkenaan atau yang tidak dibenarkan oleh undang-undang. (4) Pelanggaran terhadap hakcipta berlaku apabila mana-mana orang dengan disedarinya melakukan mana-mana daripada perbuatan yang berikut dengan menyedari atau dengan mempunyai sebab yang munasabah untuk menyedari bahawa ia akan mendorong, membolehkan, memudahkan atau menyembunyikan suatu pelanggaran apa-apa hak di bawah Akta ini: (a) pembuangan atau pengubahan apa-apa maklumat pengurusan hak elektronik tanpa kebenaran; (b) pengedaran, pengimportan untuk pengedaran atau penyampaian kepada orang awam, tanpa kebenaran, karya atau salinan karya dengan menyedari bahawa maklumat pengurusan hak elektronik telah dibuang atau diubah tanpa kebenaran. (5) Bagi maksud subseksyen (4) dan seksyen 41, \"maklumat pengurusan hak\" ertinya maklumat yang mengenal pasti karya, pencipta karya, pemunya apa- apa hak dalam karya, atau maklumat tentang terma- terma dan syarat-syarat penggunaan karya, apa-apa nombor atau kod yang melambangkan maklumat itu, apabila mana-mana perkara maklumat ini dilampirkan pada suatu salinan karya atau terdapat berkaitan dengan penyampaian sesuatu karya kepada orang awam.\"."
+      }
+    }
+  ]
+}

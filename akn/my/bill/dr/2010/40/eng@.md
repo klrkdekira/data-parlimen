@@ -8,15 +8,39 @@ Corporation
 
 ## ARRANGEMENT OF CLAUSES
 
-1. Short title and commencement 2. Interpretation 3. Corporation to be an international organization 4. Juridical personality, common seal and powers of the Corporation 5. Authorization to become a member of the Corporation and to sign the Articles of Agreement 6. Power of the Minister to confer the status of international organization and juridical personality upon a subsidiary 7. Power of the Minister to confer privileges and immunities 8. No immunity in certain circumstances 9. Authority to hold land in the Federation 10. Waiver
+1. Short title and commencement
 
-## Schedule 1
+2. Interpretation
 
-## Schedule 2
+3. Corporation to be an international organization
 
-S chedule 3 S chedule 4 S chedule 5
+4. Juridical personality, common seal and powers of the Corporation
 
-## Schedule 6
+5. Authorization to become a member of the Corporation and to sign the Articles of Agreement
+
+6. Power of the Minister to confer the status of international organization and juridical personality upon a subsidiary
+
+7. Power of the Minister to confer privileges and immunities
+
+8. No immunity in certain circumstances
+
+9. Authority to hold land in the Federation
+
+10. Waiver
+
+## SCHEDULE 1
+
+## SCHEDULE 2
+
+## S CHEDULE 3
+
+## S CHEDULE 4
+
+## S CHEDULE 5
+
+## SCHEDULE 6
+
+<!-- marginal: JW516659 BI.indd 1 -->
 
 <!-- marginal: 12/9/10 11:42:02 PM -->
 
@@ -47,6 +71,8 @@ ENACTED by the Parliament of Malaysia as follows:
 2. In this Act, unless the context otherwise requires—
 
 “this Act” includes any subsidiary legislation made under this Act;
+
+<!-- marginal: JW516659 BI.indd 3 -->
 
 <!-- marginal: 12/9/10 11:42:02 PM -->
 
@@ -114,6 +140,8 @@ Corporation
 
 (b) accept any payment made to it by the Corporation.
 
+<!-- marginal: JW516659 BI.indd 5 -->
+
 <!-- marginal: 12/9/10 11:42:02 PM -->
 
 <!-- page 6 -->
@@ -164,15 +192,15 @@ Corporation
 
 (i) who is serving on the committee of the Corporation, all or any of the privileges and immunities specified in Part I of Schedule 4; and
 
-(ii) who was, or has ceased serving on the committee of the Corporation, the immunities specified in
-
-## Part II of Schedule 4;
+(ii) who was, or has ceased serving on the committee of the Corporation, the immunities specified in Part II of Schedule 4;
 
 (e) a person—
 
 (i) who is an officer of the Corporation, all or any of the privileges and immunities specified in Part I of Schedule 5; and
 
 (ii) who was, or has ceased to perform the duties of, an officer of the Corporation, the immunities specified in Part II of Schedule 5;
+
+<!-- marginal: JW516659 BI.indd 7 -->
 
 <!-- marginal: 12/9/10 11:42:02 PM -->
 
@@ -224,6 +252,8 @@ Corporation
 
 (2) The land or interest referred to in subsection (1) may be held by the Corporation in its name or its behalf by any person nominated for the purposes of this subsection either generally or in a particular case by writing addressed to the Minister charged with the responsibility for foreign affairs by or on behalf of the Corporation, as the case may be, and the Corporation or person, as the case may be, shall be registered accordingly as proprietor, lessee or otherwise, as the case may require, in any register kept under the provisions of the National Land Code.
 
+<!-- marginal: JW516659 BI.indd 9 -->
+
 <!-- marginal: 12/9/10 11:42:02 PM -->
 
 <!-- page 10 -->
@@ -236,7 +266,7 @@ Corporation
 
 (2) Notwithstanding subsection (1), the Corporation shall have a duty to waive any privileges and immunities conferred under this Act in cases where the privileges and immunities conferred would impede the administration of justice.
 
-## Schedule 1
+## SCHEDULE 1
 
 [Paragraph 7(1)(a)]
 
@@ -278,11 +308,11 @@ Corporation
 
 8. Absence of censorship for official communications.
 
-## Schedule 2
+## SCHEDULE 2
 
 [Paragraph 7(1)(b)]
 
-## Part I
+## PART I
 
 ## PRIVILEGES AND IMMUNITIES OF A CHIEF EXECUTIVE OFFICER
 
@@ -298,6 +328,8 @@ Corporation
 
 5. Subject to any written law relating to exchange control, exemption from currency and exchange restrictions.
 
+<!-- marginal: JW516659 BI.indd 11 -->
+
 <!-- marginal: 12/9/10 11:42:03 PM -->
 
 <!-- page 12 -->
@@ -306,17 +338,17 @@ Corporation
 
 7. The right to import furniture and personal effects, including one motor vehicle, free of duties and taxes when first taking up a post in the Corporation in Malaysia and to export furniture and personal effects free of duties and taxes when leaving Malaysia on termination of his functions.
 
-## Part II
+## PART II
 
 ## IMMUNITIES OF A FORMER CHIEF EXECUTIVE OFFICER OF THE CORPORATION
 
 Immunity from suit and from other legal process in respect of acts and things done in his official capacity as a chief executive officer.
 
-## Schedule 3
+## SCHEDULE 3
 
 [Paragraph 7(1)(c)]
 
-## Part I
+## PART I
 
 ## PRIVILEGES AND IMMUNITIES OF A REPRESENTATIVE OF A MEMBER OF THE
 
@@ -338,7 +370,7 @@ Immunity from suit and from other legal process in respect of acts and things do
 
 5. Subject to any written law relating to exchange control, exemption from currency and exchange restrictions.
 
-## Part II
+## PART II
 
 ## IMMUNITIES OF A FORMER REPRESENTATIVE OF A MEMBER OF THE
 
@@ -358,11 +390,11 @@ Immunity from suit and from other legal process in respect of acts and things do
 
 Corporation
 
-## Schedule 4
+## SCHEDULE 4
 
 [Paragraph 7(1)(d)]
 
-## Part I
+## PART I
 
 ## PRIVILEGES AND IMMUNITIES OF A PERSON SERVING ON THE COMMITTEE
 
@@ -380,7 +412,7 @@ Corporation
 
 6. Exemption from income tax on official salaries, emoluments, fees and bonuses received for serving on the committee.
 
-## Part II
+## PART II
 
 ## IMMUNITIES OF A PERSON WHO HAS SERVED ON THE COMMITTEE
 
@@ -388,11 +420,11 @@ Corporation
 
 Immunity from suit and from other legal process in respect of acts and things done in his official capacity as a person serving on the committee.
 
-## Schedule 5
+## SCHEDULE 5
 
 [Paragraph 7(1)(e)]
 
-## Part I
+## PART I
 
 ## PRIVILEGES AND IMMUNITIES OF AN OFFICER
 
@@ -403,6 +435,8 @@ Immunity from suit and from other legal process in respect of acts and things do
 2. Exemption from income tax on official salaries, emoluments, fees and bonuses.
 
 3. Exemption (including exemption of spouse and children under the age of twenty-one years) from the application of laws relating to immigration and the registration of aliens.
+
+<!-- marginal: JW516659 BI.indd 13 -->
 
 <!-- marginal: 12/9/10 11:42:03 PM -->
 
@@ -416,17 +450,17 @@ Immunity from suit and from other legal process in respect of acts and things do
 
 7. The right to import furniture and personal effects, including one motor vehicle, free of duties and taxes when first taking up a post in Malaysia and to export furniture and personal effects free of duties and taxes when leaving Malaysia on termination of his functions.
 
-## Part II
+## PART II
 
 ## IMMUNITIES OF A FORMER OFFICER OF THE CORPORATION
 
 Immunity from suit and from other legal process in respect of acts and things done in his official capacity as an officer.
 
-## Schedule 6
+## SCHEDULE 6
 
 [Paragraphs 7(1)(f) and (g)]
 
-## Part I
+## PART I
 
 ## PRIVILEGES OF A SUBSIDIARY, A SPECIAL PURPOSE VEHICLE, A TRUST OR
 
@@ -450,7 +484,7 @@ Corporation
 
 (iii) on any dealings relating to the sale, purchase, transfer or other disposition or acquisition of movable or immovable property required pursuant to a scheme of financing in accordance with the principles of Shariah approved by the Shariah Committee of the Corporation for the purpose of issuance of Islamic securities by a subsidiary, a special purpose vehicle or a trust or fund of the Corporation.
 
-## Part II
+## PART II
 
 ## PRIVILEGES OF AN OFFICER OF A SUBSIDIARY, A SPECIAL PURPOSE VEHICLE
 
@@ -473,6 +507,8 @@ The International Islamic Liquidity Management Corporation Bill 2010 (“this Bi
 6. Clause 5 contains provisions authorizing the Bank to become a member of the Corporation and to sign the Articles of Agreement and to give the Bank the powers and the right to perform the duties and functions as set out in the Articles of Agreement.
 
 7. Clause 6 seeks to empower the Minister charged with the responsibility of foreign affairs to confer the status of an international organization and juridical personality upon a subsidiary of the Corporation.
+
+<!-- marginal: JW516659 BI.indd 15 -->
 
 <!-- marginal: 12/9/10 11:42:03 PM -->
 

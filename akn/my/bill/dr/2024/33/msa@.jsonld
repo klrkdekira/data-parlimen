@@ -96,10 +96,7 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/33/msa@/~cl_2",
       "@type": "akn:clause",
       "eli:number": "2",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/33/msa@/~cl_2__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/33/msa@/~cl_2__para_b"
-      ],
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/33/msa@/~cl_2__para_a",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/33/msa@",
       "schema:name": {
         "@language": "ms",
@@ -113,17 +110,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/33/msa@/~cl_2",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen 2(1), dengan memasukkan selepas takrif “public ruling” takrif yang berikut: ‘ “Pulau 1” means Pulau 1, Forest City situated in the Mukim of Tanjung Kupang, District of Johor Bahru, Johore as shown in the Gazette Plan PW50276 deposited in the Office of the Director of Survey and Mapping, Johore;’ dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/33/msa@/~cl_2__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/33/msa@/~cl_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dalam subseksyen 2(1b), dalam takrif “principal customs area”, dengan menggantikan perkataan “and Pangkor” dengan perkataan “, Pangkor and Pulau 1”. Pindaan seksyen 154"
+        "@value": "dalam subseksyen 2(1), dengan memasukkan selepas takrif “public ruling” takrif yang berikut: ‘ “Pulau 1” means Pulau 1, Forest City situated in the Mukim of Tanjung Kupang, District of Johor Bahru, Johore as shown in the Gazette Plan PW50276 deposited in the Office of the Director of Survey and Mapping, Johore;’ dan (b) dalam subseksyen 2(1b), dalam takrif “principal customs area”, dengan menggantikan perkataan “and Pangkor” dengan perkataan “, Pangkor and Pulau 1”. Pindaan seksyen 154"
       }
     },
     {

@@ -130,7 +130,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 8. The principal Act is amended by inserting after the Third Schedule the following Schedule:
 
-“Fourth Schedule [Subsection 27a(5)]
+## “FOURTH SCHEDULE
+
+[Subsection 27a(5)]
 
 ## PROCEEDINGS OF THE INVESTMENT PANEL
 

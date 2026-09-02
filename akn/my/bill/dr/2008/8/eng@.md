@@ -26,7 +26,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 2 -->
 
-Bill 2
+Bill
+
+<!-- marginal: 2 -->
 
 (c) by inserting after subsection (5A) the following subsections:
 
@@ -34,7 +36,9 @@ Bill 2
 
 (5c) The option for the compulsory age of retirement of fifty-eight years exercised by an officer for the purpose of subsections (5) and (5A) shall be irrevocable."; and
 
-(d) in subsection (6), by inserting after the words "(e) and (f)" the words "or section 1 1 ".
+(d) in subsection (6), by inserting after the words "(e) and
+
+(f)" the words "or section 1 1 ".
 
 ### Amendment of section 10
 

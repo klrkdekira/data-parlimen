@@ -34,9 +34,11 @@ section 1—
 
 <!-- page 2 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-3. Section 27A of the principal Act is amended— of section
+3. Section 27A of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 27A.
 
@@ -46,11 +48,11 @@ Amendment
 
 "(2A) Where a reply is received from the Authority as regards the memorandum submitted under subsection (1) indicating the decision of the Authority to disallow the change in the existing structure of charges as contained in the memorandum, any person or body of persons who is aggrieved by the decision of the Authority may, within fourteen days from the date of such decision, appeal to the Minister whose decision shall be final.".
 
-New Part
+<!-- marginal: New Part -->
 
 4. The principal Act is amended by inserting after Part VII
 
-## VIIA.
+<!-- marginal: VIIA. -->
 
 the following Part: "
 
@@ -60,9 +62,29 @@ the following Part: "
 
 ## THE PORT AUTHORITY TO OTHER PORTS
 
-Power of 66A. (1) The Minister may, by order published in Minister to the Gazette, extend the functions, powers, duties extend Authority's and jurisdiction of the Authority to other ports. functions to other ports. (2) An order under subsection (1) may provide that the Authority shall, in carrying out the administration of the port to which its control is extended, include among its members such other person or persons as may be specified in the order either by name or by office.
+<!-- marginal: Power of -->
 
-(3) Where an order is made under subsection (1), the Authority shall be deemed for all purposes to be the port authority in respect of the port specified in the order as if it were a port authority established in respect of that port under this Act and shall in carrying out its functions be styled by such name as may be provided in the order.
+66A. (1) The Minister may, by order published in
+
+<!-- marginal: Minister to -->
+
+the Gazette, extend the functions, powers, duties
+
+<!-- marginal: extend -->
+
+<!-- marginal: Authority's -->
+
+and jurisdiction of the Authority to other ports.
+
+<!-- marginal: functions to -->
+
+<!-- marginal: other ports. -->
+
+(2) An order under subsection (1) may provide that the Authority shall, in carrying out the administration of the port to which its control is extended, include among its members such other person or persons as may be specified in the order either by name or by office.
+
+(3) Where an order is made under subsection
+
+(1), the Authority shall be deemed for all purposes to be the port authority in respect of the port specified in the order as if it were a port authority established in respect of that port under this Act and shall in carrying out its functions be styled by such name as may be provided in the order.
 
 <!-- page 3 -->
 

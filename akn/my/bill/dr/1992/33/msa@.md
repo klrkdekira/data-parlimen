@@ -54,9 +54,29 @@ MAKA, OLEH YANG DEMIKIAN, menurut peruntukan- peruntukan yang relevan dalam Perl
 
 UNDANG oleh Duli Yang Maha Mulia Seri Paduka Bagihda Yang di-Pertuan Agong dengan nasihat dan persetujuan Dewan Negara dan Dewan Rakyat yang bersidang dalam Parlimen, dan dengan kuasa daripadanya seperti berikut:
 
-Tajuk 1. Akta ini bolehlah dinamakan Akta Perikanan ringkas (Pindaan) 1992 dan hendaklah mula berkuatkuasa pada dan mula berkuatkuasa. tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
+<!-- marginal: Tajuk -->
 
-Pindaan 2. Seksyen 2 Akta Perikanan 1985, yang disebut "Akta seksyen 2. ibu" dalam Akta ini, adalah dipinda— Akta 317
+1. Akta ini bolehlah dinamakan Akta Perikanan
+
+<!-- marginal: ringkas -->
+
+(Pindaan) 1992 dan hendaklah mula berkuatkuasa pada
+
+<!-- marginal: dan mula -->
+
+<!-- marginal: berkuatkuasa. -->
+
+tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
+
+<!-- marginal: Pindaan -->
+
+2. Seksyen 2 Akta Perikanan 1985, yang disebut "Akta
+
+<!-- marginal: seksyen 2. -->
+
+ibu" dalam Akta ini, adalah dipinda—
+
+<!-- marginal: Akta 317 -->
 
 (a) dengan menggantikan takrif "pencemar" dengan takrif yang berikut;
 
@@ -66,11 +86,7 @@ Pindaan 2. Seksyen 2 Akta Perikanan 1985, yang disebut "Akta seksyen 2. ibu" dal
 
 (b) dengan memasukkan selepas sahaja takrif "peralatan menangkap ikan" takrif baru yang berikut;
 
-' "peralatan menangkap ikan tradisional" ertinya apa-apa peralatan menangkap ikan yang disenaraikan di bawah
-
-<!-- marginal: ini yang -->
-
-dikendalikan dengan menggunakan suatu vesel penangkapan ikan yang tidak bermotor atau suatu vesel penangkapan ikan yang bermotor yang tidak melebihi empat puluh tanan berdaftar kasar:
+' "peralatan menangkap ikan tradisional" ertinya apa-apa peralatan menangkap ikan yang disenaraikan di bawah ini yang dikendalikan dengan menggunakan suatu vesel penangkapan ikan yang tidak bermotor atau suatu vesel penangkapan ikan yang bermotor yang tidak melebihi empat puluh tanan berdaftar kasar:
 
 (a) perangkap;
 
@@ -140,9 +156,13 @@ perenggan (i), (ii) atau (iii) takrif ini; atau
 
 (a) (ii), (a) (iii) atau (a) (iv) takrif ini;'.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Seksyen 8 Akta ibu adalah dipinda dengan seksyen 8. memasukkan selepas sahaja perkataan-perkataan "orang yang" perkataan-perkataan "mengusahakan apa-apa aktiviti penangkapan ikan,".
+3. Seksyen 8 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 8. -->
+
+memasukkan selepas sahaja perkataan-perkataan "orang yang" perkataan-perkataan "mengusahakan apa-apa aktiviti penangkapan ikan,".
 
 <!-- page 7 -->
 
@@ -174,11 +194,19 @@ dengan menggantikan perkataan-perkataan "empat belas" dengan perkataan-perkataan
 
 (b) dengan memasukkan selepas sahaja subseksyen (1) subseksyen baru (1A) yang berikut:
 
-"(1A) Subseksyen (1) tidaklah terpakai bagi mana-mana lesen yang dikeluarkan sebelum tarikh mula berkuatkuasanya subseksyen tersebut, dan mana-mana lesen yang berkuatkuasa pada tarikh itu hendaklah terus berkuatkuasa bagi baki tempoh keesahannya."; dan
+"(1A) Subseksyen (1) tidaklah terpakai bagi mana-mana lesen yang dikeluarkan sebelum tarikh mula berkuatkuasanya subseksyen tersebut, dan mana-mana lesen yang berkuatkuasa pada tarikh itu hendaklah terus berkuatkuasa bagi baki
+
+<!-- marginal: tempoh -->
+
+keesahannya."; dan
 
 (c) dalam subseksyen (4)—
 
-(i) dengan menggantikan perkataan "Sesuatu" yang terdapat
+(i) dengan menggantikan
+
+<!-- marginal: perkataan -->
+
+"Sesuatu" yang terdapat
 
 <!-- marginal: dalam -->
 
@@ -192,9 +220,19 @@ perenggan
 
 (ii) dengan memasukkan selepas sahaja perenggan (a) perenggan baru (aa) yang berikut:
 
-"(aa) Walau apa pun perenggan (a), Ketua Pengarah boleh, atas sesuatu permohonan, mem- benarkan pemindahmilikan mana-mana lesen atau permit yang disebut di bawah perenggan itu jika Ketua Pengarah berpuas hati bahawa pemohon itu adalah orang yang jika tidak kerana itu layak selainnya untuk memegang lesen atau permit itu di bawah Akta ini.".
+"(aa) Walau apa pun perenggan (a), Ketua Pengarah boleh, atas sesuatu permohonan, mem- benarkan pemindahmilikan mana-mana lesen atau permit yang disebut di
 
-7. Akta ibu adalah dipinda dengan memasukkan selepas baru 14A. sahaja seksyen 14 seksyen baru 1 4A yang berikut:
+<!-- marginal: bawah -->
+
+perenggan itu jika Ketua Pengarah berpuas hati bahawa pemohon itu adalah orang yang jika tidak kerana itu layak selainnya untuk memegang lesen atau permit itu di bawah Akta ini.".
+
+<!-- marginal: Seksyen -->
+
+7. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru 14A. -->
+
+sahaja seksyen 14 seksyen baru 1 4A yang berikut:
 
 "Anggapan 14A. Bagi maksud Bahagian ini, jika mana- berkenaan mana orang yang bukan warganegara Malaysia dengan orang yang dijumpai di atas mana-mana
 
@@ -202,9 +240,11 @@ perenggan
 
 dijumpai penangkapan ikan tempatan di dalam perairan di atas mana-mana perikanan Malaysia, maka orang itu hendaklah vesel penang- dianggap, melainkan jika dibuktikan kapan ikan sebaliknya, sebagai anggota kru vesel tempatan. penangkapan ikan itu.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-8. Seksyen 15 Akta ibu adalah dipinda— seksyen 15.
+8. Seksyen 15 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 15. -->
 
 (a) dengan memasukkan sebelum perkataan "menjalankan" yang terdapat dalam perenggan (b) subseksyen (1) perkataan-perkataan "tertakluk kepada subseksyen (1A),"; dan
 
@@ -214,7 +254,9 @@ Pindaan
 
 <!-- marginal: (b) -->
 
-subseksyen (1), sesuatu vesel penangkapan ikan asing boleh menjalankan apa-apa penyelidikan atau pemeriksaan tekno-
+subseksyen (1), sesuatu vesel penangkapan ikan asing boleh menjalankan apa-apa penyelidikan atau pemeriksaan
+
+<!-- marginal: tekno- -->
 
 <!-- page 9 -->
 
@@ -236,7 +278,9 @@ ekonomi ke atas mana-mana perikanan di dalam perairan perikanan Malaysia tertakl
 
 (b) dengan menggantikan subseksyen (1) dan (2) dengan subseksyen (1) dan (2) yang berikut:
 
-"(1) Tertakluk kepada subseksyen (2) dan (3), sesuatu vesel penangkapan ikan asing boleh memasuki perairan perikanan Malaysia bagi maksud laluan menerusi perairan itu dalam masa pelayaran ke destinasi di luar perairan itu.
+"(1) Tertakluk kepada subseksyen (2) dan
+
+(3), sesuatu vesel penangkapan ikan asing boleh memasuki perairan perikanan Malaysia bagi maksud laluan menerusi perairan itu dalam masa pelayaran ke destinasi di luar perairan itu.
 
 (2) Laluan itu, yang hendaklah dilakukan mengikut kaedah-kaedah undang-undang antarabangsa mengenai laut berhubungan dengan rejim kelautan yang relevan yang terpakai bagi perairan perikanan Malaysia itu, termasuk berhenti dan berlabuh hanya—
 
@@ -250,13 +294,31 @@ ekonomi ke atas mana-mana perikanan di dalam perairan perikanan Malaysia tertakl
 
 (c) dengan memasukkan selepas sahaja perkataan "radio" dalam subseksyen (3) perkataan- perkataan ", teleks atau faksimili dalam Bahasa Inggeris atau Melayu".
 
-Pindaan 10. Seksyen 24 Akta ibu adalah dipinda dengan seksyen 24. memasukkan selepas sahaja subseksyen (2) subseksyen baru (3) yang berikut:
+<!-- marginal: Pindaan -->
+
+10. Seksyen 24 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 24. -->
+
+memasukkan selepas sahaja subseksyen (2) subseksyen baru (3) yang berikut:
 
 "(3) Bagi maksud apa-apa kesalahan di bawah Bahagian ini, beban untuk membuktikan bahawa sesuatu vesel penangkapan ikan bukanlah vesel penangkapan ikan asing adalah terletak pada orang yang dipertuduh melakukan kesalahan yang berhubungan dengannya isu itu berbangkit.".
 
-Pindaan 11. Seksyen 25 Akta ibu adalah dipinda dengan Seksyen 25. menggantikan perkataan "lima" yang terdapat dalam perenggan (b) dengan perkataan "dua".
+<!-- marginal: Pindaan -->
 
-Penggantian 12. Akta ibu adalah dipinda dengan menggantikan seksyen 31. seksyen 31 dengan seksyen 31 yang berikut:
+11. Seksyen 25 Akta ibu adalah dipinda dengan
+
+<!-- marginal: Seksyen 25. -->
+
+menggantikan perkataan "lima" yang terdapat dalam perenggan (b) dengan perkataan "dua".
+
+<!-- marginal: Penggantian -->
+
+12. Akta ibu adalah dipinda dengan menggantikan
+
+<!-- marginal: seksyen 31. -->
+
+seksyen 31 dengan seksyen 31 yang berikut:
 
 "Pengkom- 31. (1) Tertakluk kepada subseksyen- paunan subseksyen yang berikut, mana-mana pegawai kesalahan- kesalahan. perikanan boleh mengkompaun apa-apa kesalahan di bawah Akta ini dengan sejumlah wang yang tidak kurang daripada lima ratus ringgit dan tidak melebihi denda maksimum bagi kesalahan itu, dengan syarat bahawa kesalahan itu adalah kesalahan kali pertama, kedua atau ketiga sahaja:
 
@@ -266,11 +328,7 @@ Dengan syarat selanjutnya bahawa bagi apa- apa kesalahan di bawah subseksyen (1)
 
 (2) Apa-apa kesalahan yang dilakukan berlanggaran dengan seksyen 8( a ), 11(3), 15(1) atau 16 yang dibaca dengan seksyen 25 atau 26 tidaklah boleh dikompaun.
 
-(3) Walau apa pun subseksyen (1) dan (2), mana-mana pegawai perikanan
-
-<!-- marginal: boleh -->
-
-mengkompaun apa-apa kesalahan di bawah subseksyen (3) seksyen 11 jika peralatan menangkap ikan yang berhubungan dengannya kesalahan itu dilakukan adalah peralatan menangkap ikan tradisional, dengan sejumlah wang yang tidak kurang daripada lima ratus ringgit dan tidak melebihi denda maksimum bagi kesalahan itu.
+(3) Walau apa pun subseksyen (1) dan (2), mana-mana pegawai perikanan boleh mengkompaun apa-apa kesalahan di bawah subseksyen (3) seksyen 11 jika peralatan menangkap ikan yang berhubungan dengannya kesalahan itu dilakukan adalah peralatan menangkap ikan tradisional, dengan sejumlah wang yang tidak kurang daripada lima ratus ringgit dan tidak melebihi denda maksimum bagi kesalahan itu.
 
 (4) Jika sesuatu peralatan menangkap ikan menjadi hal perkara apa-apa kesalahan yang dikompaun di bawah subseksyen (1), peralatan menangkap ikan itu boleh dirampas dan dilupuskan sebagaimana yang diarahkan oleh Ketua Pengarah.
 
@@ -286,21 +344,19 @@ mengkompaun apa-apa kesalahan di bawah subseksyen (3) seksyen 11 jika peralatan 
 
 <!-- page 12 -->
 
-(b) dengan memasukkan selepas sahaja subseksyen (1) subseksyen baru (2) yang berikut:
+(b) dengan memasukkan selepas sahaja subseksyen
 
-"(2) Bagi maksud perenggan
+(1) subseksyen baru (2) yang berikut:
 
-<!-- marginal: (c) -->
+"(2) Bagi maksud perenggan (c) subseksyen (1), suatu perakuan yang dikeluarkan oleh Menteri yang bertanggung- jawab bagi ukur dan pemetaan atau Menteri yang bertanggungjawab bagi pertahanan yang menyatakan bahawa sesuatu peta, pelan atau carta telah diluluskan oleh Kerajaan Persekutuan atau Kerajaan mana-mana Negeri, mengikut mana-mana yang berkenaan, hendaklah, dalam apa-apa prosiding undang-undang, menjadi bukti muktamad mengenai fakta yang dinyatakan sedemikian.".
 
-subseksyen (1), suatu perakuan yang dikeluarkan oleh Menteri yang bertanggung- jawab bagi ukur dan pemetaan atau Menteri yang bertanggungjawab bagi pertahanan yang menyatakan bahawa sesuatu peta, pelan atau carta telah diluluskan oleh Kerajaan Persekutuan atau Kerajaan mana-mana Negeri, mengikut mana-mana
+<!-- marginal: Pindaan -->
 
-<!-- marginal: yang -->
+14. Seksyen 40 Akta ibu adalah dipinda dengan
 
-berkenaan, hendaklah, dalam apa-apa prosiding undang-undang, menjadi bukti muktamad mengenai fakta yang dinyatakan sedemikian.".
+<!-- marginal: seksyen 40. -->
 
-Pindaan
-
-14. Seksyen 40 Akta ibu adalah dipinda dengan seksyen 40. menggantikan subseksyen (1) dengan subseksyen (1) yang berikut:
+menggantikan subseksyen (1) dengan subseksyen (1) yang berikut:
 
 "(1) Mana-mana orang yang—
 
@@ -356,7 +412,29 @@ selepas sahaja seksyen 41 seksyen baru 41A dan 41B yang berikut:
 
 (l) mana-mana anggota lain yang akan dilantik dari semasa ke semasa.
 
-Fungsi 4lB. Majlis Penasihat Kebangsaan bagi Taman Majlis Laut dan Rizab Laut hendaklah menasihati Penasihat Kebangsaan Menteri mengenai apa-apa perkara yang bagi Taman berhubungan dengan kawasan taman laut atau Laut dan rizab laut khususnya— Rizab Laut.
+<!-- marginal: Fungsi -->
+
+4lB. Majlis Penasihat Kebangsaan bagi Taman
+
+<!-- marginal: Majlis -->
+
+Laut dan Rizab Laut hendaklah menasihati
+
+<!-- marginal: Penasihat -->
+
+<!-- marginal: Kebangsaan -->
+
+Menteri mengenai apa-apa perkara yang
+
+<!-- marginal: bagi Taman -->
+
+berhubungan dengan kawasan taman laut atau
+
+<!-- marginal: Laut dan -->
+
+rizab laut khususnya—
+
+<!-- marginal: Rizab Laut. -->
 
 (a) untuk menentukan garis panduan berkenaan dengan perlindungan, pemuliharaan, penggunaan, kawalan, pengurusan dan kemajuan kawasan- kawasan taman laut dan rizab laut bagi pelaksanaan di peringkat kebangsaan;
 
@@ -364,31 +442,83 @@ Fungsi 4lB. Majlis Penasihat Kebangsaan bagi Taman Majlis Laut dan Rizab Laut he
 
 (c) untuk memberi nasihat teknik kepada Kerajaan Negeri berkenaan dengan apa- apa projek pembangunan di mana-mana pulau yang terletak di dalam kawasan taman laut atau rizab laut.".
 
-Seksyen baru
+<!-- marginal: Seksyen baru -->
 
-16. Akta ibu adalah dipinda dengan memasukkan 47A, 47B, 47c selepas sahaja seksyen 47 seksyen baru 47A, 47B, 47c dan 47D. dan 47D yang berikut:
+16. Akta ibu adalah dipinda dengan memasukkan
 
-"Kuasa 47A. (1) Mana-mana pegawai perikanan penyiasatan hendaklah mempunyai kuasa untuk menyiasat pegawai perikanan. perlakuan apa-apa kesalahan di bawah Akta ini.
+<!-- marginal: 47A, 47B, 47c -->
+
+selepas sahaja seksyen 47 seksyen baru 47A, 47B, 47c
+
+<!-- marginal: dan 47D. -->
+
+dan 47D yang berikut:
+
+<!-- marginal: "Kuasa -->
+
+47A. (1) Mana-mana pegawai perikanan
+
+<!-- marginal: penyiasatan -->
+
+hendaklah mempunyai kuasa untuk menyiasat
+
+<!-- marginal: pegawai -->
+
+<!-- marginal: perikanan. -->
+
+perlakuan apa-apa kesalahan di bawah Akta ini.
 
 (2) Tiap-tiap orang yang dikehendaki oleh pegawai perikanan supaya memberi maklumat atau mengemukakan apa-apa dokumen atau benda lain berhubungan dengan perlakuan kesalahan itu yang adalah dalam kuasa orang itu untuk memberi adalah terikat di sisi
 
 <!-- page 15 -->
 
-undang-undang untuk memberikan maklumat atau mengemukakan dokumen atau benda lain itu. Kuasa 47B. (1) Seseorang pegawai perikanan yang pegawai menjalankan penyiasatan bagi apa-apa perikanan untuk meng- kesalahan di bawah Akta ini boleh melalui hendaki perintah bertulis menghendaki mana-mana kehadiran saksi. orang yang ternyata kepada pegawai itu mengetahui akan hal keadaan kes itu supaya hadir di hadapannya, dan orang itu hendaklah hadir sebagaimana yang dikehendaki.
+undang-undang untuk memberikan maklumat atau mengemukakan dokumen atau benda lain itu.
 
-(2) Jika mana-mana orang sedemikian enggan untuk hadir sebagaimana yang dikehendaki, maka pegawai
+<!-- marginal: Kuasa -->
 
-<!-- marginal: itu boleh -->
+47B. (1) Seseorang pegawai perikanan yang
 
-melaporkan keengganan itu kepada seorang Majistret yang sesudah itu boleh mengikut budi bicaranya mengeluarkan suatu waran untuk memastikan kehadiran orang
+<!-- marginal: pegawai -->
 
-<!-- marginal: itu -->
+menjalankan penyiasatan bagi apa-apa
 
-sebagaimana yang dikehendaki oleh perintah yang disebut terdahulu itu.
+<!-- marginal: perikanan -->
+
+<!-- marginal: untuk meng- -->
+
+kesalahan di bawah Akta ini boleh melalui
+
+<!-- marginal: hendaki -->
+
+perintah bertulis menghendaki mana-mana
+
+<!-- marginal: kehadiran -->
+
+<!-- marginal: saksi. -->
+
+orang yang ternyata kepada pegawai itu mengetahui akan hal keadaan kes itu supaya hadir di hadapannya, dan orang itu hendaklah hadir sebagaimana yang dikehendaki.
+
+(2) Jika mana-mana orang sedemikian enggan untuk hadir sebagaimana yang dikehendaki, maka pegawai itu boleh melaporkan keengganan itu kepada seorang Majistret yang sesudah itu boleh mengikut budi bicaranya mengeluarkan suatu waran untuk memastikan kehadiran orang itu sebagaimana yang dikehendaki oleh perintah yang disebut terdahulu itu.
 
 (3) Seseorang yang hadir sebagaimana yang dikchendaki di bawah subseksyen (1) berhak dibayar perbelanjaan perjalanan dan saraan yang munasabah yang dilakukan olehnya dan adalah sah bagi Ketua Pengarah untuk membayar perbelanjaan tersebut.
 
-Pcme- 47c. (1) Seseorang pegawai perikanan yang riksaan menjalankan penyiasatan di bawah Akta ini saksi oleh pegawai boleh memeriksa secara lisan mana-mana perikanan. orang yang disangkakan mengetahui fakta dan hal keadaan kes itu.
+<!-- marginal: Pcme- -->
+
+47c. (1) Seseorang pegawai perikanan yang
+
+<!-- marginal: riksaan -->
+
+menjalankan penyiasatan di bawah Akta ini
+
+<!-- marginal: saksi oleh -->
+
+<!-- marginal: pegawai -->
+
+boleh memeriksa secara lisan mana-mana
+
+<!-- marginal: perikanan. -->
+
+orang yang disangkakan mengetahui fakta dan hal keadaan kes itu.
 
 (2) Orang sedemikian adalah terikat untuk menjawab segala soalan yang berhubungan dengan kes itu yang dikemukakan kepadanya oleh pegawai itu:
 
@@ -398,19 +528,47 @@ Dengan syarat bahawa orang sedemikian boleh enggan menjawab apa-apa soalan yang 
 
 (3) Seseorang yang membuat sesuatu pernyataan di bawah seksyen ini adalah terikat di sisi undang-undang untuk menyatakan yang benar, sama ada atau tidak pernyataan itu dibuat keseluruhannya atau sebahagiannya sebagai jawapan kepada soalan-soalan.
 
-(4) Seseorang pegawai perikanan yang memeriksa seseorang di bawah subseksyen (1) hendaklah terlebih dahulu memberitahu orang itu tentang peruntukan-peruntukan subseksyen (2) dan (3).
+(4) Seseorang pegawai perikanan yang memeriksa seseorang di bawah subseksyen (1) hendaklah terlebih dahulu memberitahu orang itu tentang peruntukan-peruntukan subseksyen
+
+(2) dan (3).
 
 (5) Sesuatu pernyataan yang dibuat oleh mana-mana orang di bawah seksyen ini hendaklah, bilamasa mungkin, diubahkan ke dalam bentuk bertulis dan ditandatangani oleh orang yang membuatnya atau dicapkan dengan cap jarinya, mengikut mana-mana yang berkenaan, setelah pernyataan itu dibacakan kepadanya dalam bahasa yang dalam mana pernyataan itu dibuat dan setelah dia diberi peluang untuk membuat apa-apa pembetulan yang dia mahu.
 
-Prosedur 47D. (1) Bilamasa mana-mana
+<!-- marginal: Prosedur -->
 
-<!-- marginal: orang -->
+47D. (1) Bilamasa mana-mana orang
 
-jika penyia- ditangkap dan ditahan dalam jagaan oleh satan tidak dapat di- seorang pegawai perikanan kerana sesuatu selesaikan kesalahan di bawah Akta ini, dan ternyata dalam dua bahawa penyiasatan itu tidak
+<!-- marginal: jika penyia- -->
 
-<!-- marginal: dapat -->
+ditangkap dan ditahan dalam jagaan oleh
 
-puluh empat jam oleh diselesaikan dalam tempoh dua puluh empat pegawai jam dari masa orang itu ditangkap, mana-mana perikanan. pegawai perikanan boleh mengemukakan orang itu ke hadapan seorang Majistret bagi maksud subseksyen (2).
+<!-- marginal: satan tidak -->
+
+<!-- marginal: dapat di- -->
+
+seorang pegawai perikanan kerana sesuatu
+
+<!-- marginal: selesaikan -->
+
+kesalahan di bawah Akta ini, dan ternyata
+
+<!-- marginal: dalam dua -->
+
+bahawa penyiasatan itu tidak dapat
+
+<!-- marginal: puluh empat -->
+
+<!-- marginal: jam oleh -->
+
+diselesaikan dalam tempoh dua puluh empat
+
+<!-- marginal: pegawai -->
+
+jam dari masa orang itu ditangkap, mana-mana
+
+<!-- marginal: perikanan. -->
+
+pegawai perikanan boleh mengemukakan orang itu ke hadapan seorang Majistret bagi maksud subseksyen (2).
 
 (2) Majistret yang ke hadapannya orang itu dikemukakan di bawah subseksyen (1) boleh, sama ada dia mempunyai bidang kuasa untuk membicarakan kes itu atau tidak, dari semasa ke masa membenarkan orang itu ditahan dalam jagaan sebagaimana yang difikirkan patut olehnya selama tempoh tidak melebihi lima belas hari pada keseluruhannya.".
 
@@ -452,25 +610,39 @@ mahkamah hendaklah, sebagai tambahan kepada apa- apa penalti lain yang boleh dik
 
 atau alat yang dilarang yang digunakan atau yang dicadang untuk digunakan dalam melakukan kesalahan itu dilucuthakkan.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-19. Seksyen 53 Akta ibu adalah dipinda dengan seksyen 53. menggantikan perkataan-perkataan "lima puluh" dengan perkataan-perkataan "dua puluh".
+19. Seksyen 53 Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 53. -->
 
-20. Seksyen 56 Akta ibu adalah dipinda dengan seksyen 56. menggantikan perkataan-perkataan "mempergunakan haknya untuk lalu dengan ikhlas" dalam perenggan (a) subseksyen (2) dengan perkataan-perkataan "membuat laluannya".
+menggantikan perkataan-perkataan "lima puluh" dengan perkataan-perkataan "dua puluh".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-21. Seksyen 58 Akta ibu adalah dipinda dengan seksyen 58. memasukkan selepas sahaja perkataan "latihan" perkataan-perkataan "atau kaji selidik mengenai kebolehlaksanaan ekonomi apa-apa
+20. Seksyen 56 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 56. -->
+
+menggantikan perkataan-perkataan "mempergunakan haknya untuk lalu dengan ikhlas" dalam perenggan (a) subseksyen (2) dengan perkataan-perkataan "membuat laluannya".
+
+<!-- marginal: Pindaan -->
+
+21. Seksyen 58 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 58. -->
+
+memasukkan selepas sahaja perkataan "latihan" perkataan-perkataan "atau kaji selidik mengenai kebolehlaksanaan ekonomi apa-apa
 
 <!-- marginal: aktiviti -->
 
 penangkapan ikan".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-22. Seksyen 61 Akta ibu adalah dipinda— seksyen 61.
+22. Seksyen 61 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 61. -->
 
 (a) dengan memasukkan selepas sahaja perkataan- perkataan "apa-apa" dalam perenggan (s) perkataan "pemberikuasaan,";
 

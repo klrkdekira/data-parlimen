@@ -18,7 +18,11 @@
 
 4. Functions and powers of the Retirement Fund (Incorporated) 5. Common seal 6. Board 7. Investment Panel 8. Committees 9. Chief Executive Officer
 
-10. Appointment of officer, servant, attorney, agent, etc, 11. Disclosure of interest 12. Power of the Board to make regulations
+10. Appointment of officer, servant, attorney, agent, etc,
+
+11. Disclosure of interest
+
+12. Power of the Board to make regulations
 
 ## PART III
 
@@ -26,7 +30,13 @@
 
 13. The Retirement Fund
 
-14. Investment of the Fund 15. Unclaimed moneys 16. Statutory Bodies (Accounts and Annual Reports) Act 1980 17. Annual estimates
+14. Investment of the Fund
+
+15. Unclaimed moneys
+
+16. Statutory Bodies (Accounts and Annual Reports) Act 1980
+
+17. Annual estimates
 
 <!-- page 2 -->
 
@@ -34,13 +44,33 @@
 
 ## GENERAL
 
-18. Government's guarantee of payments 19. Attempts and abetments punishable as offences 20. Liability of managers, etc. 21. Public servant and protection 22. Power to amend Schedules
+18. Government's guarantee of payments
+
+19. Attempts and abetments punishable as offences
+
+20. Liability of managers, etc.
+
+21. Public servant and protection
+
+22. Power to amend Schedules
 
 ## PART V
 
 ## REPEAL, SAVINGS AND TRANSITIONAL
 
-23. Repeal of the Pensions Trust Fund Act 1991 24. Continuance of laws, etc. 25. Transfer of powers, etc. 26. Transfer of land and property 27. Existing contracts 28. Continuance of civil and criminal proceedings 29. Transfer of Fund
+23. Repeal of the Pensions Trust Fund Act 1991
+
+24. Continuance of laws, etc.
+
+25. Transfer of powers, etc.
+
+26. Transfer of land and property
+
+27. Existing contracts
+
+28. Continuance of civil and criminal proceedings
+
+29. Transfer of Fund
 
 ## SCHEDULES
 
@@ -440,7 +470,9 @@ the Retirement Fund (Incorporated) in accordance with any regulation made under 
 
 (g) any administrative cost, expense, expenditure or other payment attributable or incidental to or in connection with the administration and management of the Fund and for carrying into effect the provisions of this Act.
 
-(7) Any person who causes moneys or any property to be paid or transferred out of the Fund in contravention of subsections (4), (5) and (6) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding two million ringgit or to imprisonment for a term not exceeding ten years or to both.
+(7) Any person who causes moneys or any property to be paid or transferred out of the Fund in contravention of subsections (4),
+
+(5) and (6) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding two million ringgit or to imprisonment for a term not exceeding ten years or to both.
 
 ### Investment of the Fund
 

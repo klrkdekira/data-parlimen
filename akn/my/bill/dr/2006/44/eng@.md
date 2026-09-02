@@ -14,7 +14,19 @@
 
 ## PRESCRIBED ACTIVITIES AND LICENSING
 
-4. Prescribed activities 5. Requirement for licence 6. Licensing authority 7. Application for licence 8. Issue of licence 9. Licence to be exhibited and produced 10. Transfer of licence 11. Assignment of licence 12. Revocation or suspension of licence 13. Appeals 14. Power of Minister to give directions 15. Powers of Minister to make regulations on licensing
+4. Prescribed activities 5. Requirement for licence 6. Licensing authority 7. Application for licence 8. Issue of licence 9. Licence to be exhibited and produced
+
+10. Transfer of licence
+
+11. Assignment of licence
+
+12. Revocation or suspension of licence
+
+13. Appeals
+
+14. Power of Minister to give directions
+
+15. Powers of Minister to make regulations on licensing
 
 ## PART III
 
@@ -22,17 +34,77 @@
 
 ## ARREST, ETC.
 
-16. Appointment of enforcement officers 17. Power of investigation 18. Authority card 19. Power of arrest
+16. Appointment of enforcement officers
+
+17. Power of investigation
+
+18. Authority card
+
+19. Power of arrest
 
 <!-- page 2 -->
 
-20. Search and seizure with warrant 21. Search and seizure without warrant 22. Power to enter premises 23. Access to computerized data 24. Seizure of thing, etc. 25. Power to stop, search and seize conveyances 26. List of things seized 27. Temporary return of conveyance, etc. 28. Sale and disposal of seized fuel 29. Power to require attendance of persons acquainted with case 30. Examination of persons acquainted with case 31. Admissibility of statements in evidence 32. Forfeiture of seized fuel, etc. 33. Property in forfeited fuel, etc. 34. Release of seized fuel, etc. 35. Enforcement officer may seek assistance to examine things related to offence 36. Power to take sample 37. Procedure for taking sample 38. Appointment of analyst 39. Certificate of analysis 40. Examination or testing of seized fuel 41. Cost of holding seized fuel, etc. 42. No cost or damages arising from seizure to be recoverable 43. Power of licensing authority to require information on fuel, etc. 44. Additional powers 45. Offence to assault or obstruct enforcement officer
+20. Search and seizure with warrant
+
+21. Search and seizure without warrant
+
+22. Power to enter premises
+
+23. Access to computerized data
+
+24. Seizure of thing, etc.
+
+25. Power to stop, search and seize conveyances
+
+26. List of things seized
+
+27. Temporary return of conveyance, etc.
+
+28. Sale and disposal of seized fuel
+
+29. Power to require attendance of persons acquainted with case
+
+30. Examination of persons acquainted with case
+
+31. Admissibility of statements in evidence
+
+32. Forfeiture of seized fuel, etc.
+
+33. Property in forfeited fuel, etc.
+
+34. Release of seized fuel, etc.
+
+35. Enforcement officer may seek assistance to examine things related to offence
+
+36. Power to take sample
+
+37. Procedure for taking sample
+
+38. Appointment of analyst
+
+39. Certificate of analysis
+
+40. Examination or testing of seized fuel
+
+41. Cost of holding seized fuel, etc.
+
+42. No cost or damages arising from seizure to be recoverable
+
+43. Power of licensing authority to require information on fuel, etc.
+
+44. Additional powers
+
+45. Offence to assault or obstruct enforcement officer
 
 ## PART IV
 
 ## GENERAL
 
-46. Compounding of offences 47. Institution of prosecution 48. Joinder of offences
+46. Compounding of offences
+
+47. Institution of prosecution
+
+48. Joinder of offences
 
 <!-- page 3 -->
 
@@ -472,7 +544,9 @@ Act has been committed and that the fuel or the proceeds of sale thereof, or the
 
 (5) On receipt of the notice referred to in subsection (4), the enforcement officer shall refer the claim to a Magistrate of the First Class for his decision.
 
-(6) The Magistrate to whom a matter is referred under subsection (5) shall issue a summons requiring the person asserting that he is the owner of the fuel or the proceeds of sale thereof,
+(6) The Magistrate to whom a matter is referred under subsection
+
+(5) shall issue a summons requiring the person asserting that he is the owner of the fuel or the proceeds of sale thereof,
 
 <!-- page 21 -->
 
@@ -544,7 +618,9 @@ or of the conveyance, machinery, contrivance, equipment, book, record, document 
 
 43. (1) The licensing authority may require any person undertaking any activity involving fuel to furnish to the licensing authority information relating to the composition and use of such fuel.
 
-(2) Any person who fails to furnish any information relating to the composition and use of any fuel as may be required under subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding two hundred and fifty thousand
+(2) Any person who fails to furnish any information relating to the composition and use of any fuel as may be required under subsection
+
+(1) commits an offence and shall, on conviction, be liable to a fine not exceeding two hundred and fifty thousand
 
 <!-- marginal: ringgit or -->
 
@@ -658,9 +734,7 @@ if the act was done in good faith and in a reasonable belief that it was necessa
 
 ### Amendment of Schedules
 
-54. The Minister may, after consultation with
-
-<!-- marginal: the -->
+54. The Minister may, after consultation with the
 
 <!-- marginal: licensing -->
 

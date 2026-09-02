@@ -58,7 +58,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 4. The principal Act is amended by inserting after Part I the following part:
 
-“Part Ia
+## “PART IA
 
 ## PRESIDENT OF ESTATE DISTRIBUTION,
 
@@ -416,7 +416,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 24. The principal Act is amended by substituting for the First Schedule the following schedule:
 
-“FIrst schedule [Subsection 15(5)]
+## “FIRST SCHEDULE
+
+[Subsection 15(5)]
 
 ## MATTERS TO BE TAKEN INTO CONSIDERATION BY ESTATE DISTRIBUTION OFFICER
 

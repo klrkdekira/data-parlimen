@@ -131,7 +131,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_11",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (3)— “(f) atas apa-apa sebab lain yang difikirkan wajar oleh Ketua Pendaftar demi kepentingan orang awam atau pelajar.”; dan “(4) Tiada seorang pun boleh menjalankan tugas atau fungsi seorang ketua eksekutif di bawah Akta ini jika– (a) orang itu tidak didaftarkan sebagai ketua eksekutif; atau (b) pendaftarannya sebagai ketua eksekutif telah dikanselkan di bawah subseksyen (3) atau perenggan 37(1)(bb). (5) Mana-mana orang yang melanggar peruntukan subseksyen (4) melakukan suatu kesalahan.”. Seksyen baharu 33a"
+        "@value": "dalam subseksyen (3)—"
       }
     },
     {
@@ -161,7 +161,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_11__para_c",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perenggan (e) perenggan yang berikut:"
+        "@value": "dengan memasukkan selepas perenggan (e) perenggan yang berikut: “(f) atas apa-apa sebab lain yang difikirkan wajar oleh Ketua Pendaftar demi kepentingan orang awam atau pelajar.”; dan"
       }
     },
     {
@@ -171,7 +171,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_11__para_c",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut:"
+        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: “(4) Tiada seorang pun boleh menjalankan tugas atau fungsi seorang ketua eksekutif di bawah Akta ini jika– (a) orang itu tidak didaftarkan sebagai ketua eksekutif; atau (b) pendaftarannya sebagai ketua eksekutif telah dikanselkan di bawah subseksyen (3) atau perenggan 37(1)(bb). (5) Mana-mana orang yang melanggar peruntukan subseksyen (4) melakukan suatu kesalahan.”. Seksyen baharu 33a"
       }
     },
     {
@@ -863,10 +863,6 @@
       "schema:name": {
         "@language": "ms",
         "@value": "Seksyen 19 Akta ibu dipinda—"
-      },
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Pindaan seksyen 24"
       }
     },
     {
@@ -886,7 +882,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_6",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (8), dengan menggantikan perkataan “institusi pendidikan tinggi swasta itu” dengan perkataan “syarikat itu”."
+        "@value": "dalam subseksyen (8), dengan menggantikan perkataan “institusi pendidikan tinggi swasta itu” dengan perkataan “syarikat itu”. Pindaan seksyen 24"
       }
     },
     {

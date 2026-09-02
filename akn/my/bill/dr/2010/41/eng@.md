@@ -4,27 +4,49 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Application 3. Interpretation
 
-## Part II
+## PART II
 
 ## AGENSI INOVASI MALAYSIA
 
-4. Agensi Inovasi Malaysia 5. Functions of the Agency 6. Powers of the Agency 7. Governance Council 8. Alternate members 9. Allowance 10. Vacation of office 11. Meetings 12. Procedure at meetings 13. Minutes 14. Council may invite others to meetings 15. Resolutions without meeting 16. Council may establish committees 17. Vacation of office of member of committee 18. Disclosure of interest
+4. Agensi Inovasi Malaysia 5. Functions of the Agency 6. Powers of the Agency 7. Governance Council 8. Alternate members 9. Allowance
 
-## Part III
+10. Vacation of office
+
+11. Meetings
+
+12. Procedure at meetings
+
+13. Minutes
+
+14. Council may invite others to meetings
+
+15. Resolutions without meeting
+
+16. Council may establish committees
+
+17. Vacation of office of member of committee
+
+18. Disclosure of interest
+
+## PART III
 
 ## CHIEF EXECUTIVE OFFICER, OFFICERS AND EMPLOYEES OF THE AGENCY
 
-19. Chief Executive Officer 20. Employment of officers and employees 21. Conduct and discipline of officers and employees
+19. Chief Executive Officer
+
+20. Employment of officers and employees
+
+21. Conduct and discipline of officers and employees
 
 <!-- page 2 -->
 
-## Part IV
+## PART IV
 
 ## FINANCE
 
@@ -40,7 +62,7 @@
 
 27. Accounts and reports
 
-## Part V
+## PART V
 
 ## PROVISIONS RELATING TO INTELLECTUAL PROPERTY
 
@@ -50,7 +72,7 @@
 
 30. Right to promote, develop and commercialize intellectual property
 
-## Part VI
+## PART VI
 
 ## OTHER POWERS OF THE AGENCY
 
@@ -68,7 +90,7 @@
 
 37. Power to endorse innovative products or services
 
-## Part VII
+## PART VII
 
 ## MISCELLANEOUS
 
@@ -96,13 +118,15 @@ An Act to incorporate the Agensi Inovasi Malaysia, to stimulate and develop the 
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 ### Short title and commencement
 
-1. (1) This Act may be cited as the Agensi Inovasi Malaysia Act 2010.
+1. (1) This Act may be cited as the Agensi Inovasi Malaysia Act
+
+2010.
 
 (2) This Act comes into operation on a date to be appointed by the Prime Minister by notification in the Gazette.
 
@@ -138,7 +162,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 7 -->
 
-## Part II
+## PART II
 
 ## AGENSI INOVASI MALAYSIA
 
@@ -386,7 +410,7 @@ relating to the matter.
 
 <!-- page 15 -->
 
-## Part III
+## PART III
 
 ## CHIEF EXECUTIVE OFFICER, OFFICERS AND EMPLOYEES
 
@@ -456,7 +480,7 @@ of an officer or employee of the Agency during the pendency of the disciplinary 
 
 (5) The regulations made under this section shall, in prescribing the procedure for disciplinary proceedings, provide for an opportunity for representations to be made by the officer or employee of the Agency against whom the disciplinary proceedings are taken before a decision is arrived at by the disciplinary committee on such disciplinary charge laid against such person.
 
-## Part IV
+## PART IV
 
 ## FINANCE
 
@@ -544,7 +568,7 @@ by reference to which the development, performance or position of the Agency can
 
 (3) The Statutory Bodies (Account and Annual Reports) Act 1980 [Act 240] shall apply to the Agency.
 
-## Part V
+## PART V
 
 ## PROVISIONS RELATING TO INTELLECTUAL PROPERTY
 
@@ -574,7 +598,7 @@ subject to the terms of any agreement between the Agency and the private body or
 
 (2) The Agency shall, before promoting, developing or commercializing the intellectual property under section 29, obtain the consent from the owner of the intellectual property.
 
-## Part VI
+## PART VI
 
 ## OTHER POWERS OF THE AGENCY
 
@@ -666,7 +690,7 @@ subject to the terms of any agreement between the Agency and the private body or
 
 (8) All Ministries, Government institutions or agencies and the Federal Government linked companies shall take into consideration of the innovative product or service in their procurement activities.
 
-## Part VII
+## PART VII
 
 ## MISCELLANEOUS
 
@@ -754,7 +778,7 @@ incurred in relation thereto, shall be deemed to have been authorized under this
 
 The proposed Agensi Inovasi Malaysia Act 2010 (“the Act”) seeks to establish a body corporate by the name of “Agensi Inovasi Malaysia” (“the Agency”) with powers to stimulate and develop the innovation eco-system in Malaysia towards achieving Vision 2020, and to provide for related matters.
 
-## Part I
+## PART I
 
 2. Part I deals with the preliminary matters.
 
@@ -764,7 +788,7 @@ Clause 2 provides that the Act shall apply for a period until 31 December 2020 b
 
 Clause 3 contains the definitions of certain words used in the Act.
 
-## Part II
+## PART II
 
 3. Part II contains provisions relating to the establishment of the Agency.
 
@@ -794,7 +818,7 @@ Clause 17 sets out the situations in which the office of a member of a committee
 
 Clause 18 requires a member of the Council or any committee established by the Council to disclose his interest in any matter under discussion by the Council or committee. Non-disclosure is an offence and is subject to a penalty.
 
-## Part III
+## PART III
 
 4. Part III deals with the appointment of the Chief Executive Officer, officers and employees of the Agency.
 
@@ -806,7 +830,7 @@ Clause 21 deals with the conduct and discipline of the officers and employees of
 
 <!-- page 30 -->
 
-## Part IV
+## PART IV
 
 5. Part IV contains provisions on finance.
 
@@ -822,7 +846,7 @@ Clause 26 states that the financial year of the Agency shall begin on 1 January 
 
 Clause 27 requires the Agency to keep proper accounts of the Operational Fund and the Innovation Fund and proper reports of its activities. The Agency is required to have its statement of accounts and a statement of its activities for the financial year to be sent to the Prime Minister who will then cause them to be laid before both Houses of Parliament. This clause also provides that the Statutory Bodies (Accounts and Annual Reports) Act 1980 shall apply to the Agency.
 
-## Part V
+## PART V
 
 6. Part V contains provisions relating to intellectual property.
 
@@ -834,7 +858,7 @@ Clause 30 empowers the Agency to promote, develop and commercialize all intellec
 
 <!-- page 31 -->
 
-## Part VI
+## PART VI
 
 7. Part VI sets out other powers of the Agency.
 
@@ -852,7 +876,7 @@ Clause 36 enables the Agency to delegate its functions and powers.
 
 Clause 37 states that the Agency may endorse any product or service as an innovative product or service.
 
-## Part VII
+## PART VII
 
 8. Part VII deals with miscellaneous provisions.
 

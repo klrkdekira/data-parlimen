@@ -114,11 +114,17 @@ B. 32 Kementerian Wilayah Persekutuan 192,398,200
 
 Perbekalan
 
-Maksud Tajuk Amaun
+Maksud Tajuk
 
-(RM)
+<!-- marginal: Amaun -->
 
-B 40 Suruhanjaya Perkhidmatan Pendidikan 11,555,000 .
+<!-- marginal: (RM) -->
+
+B 40 Suruhanjaya Perkhidmatan Pendidikan
+
+<!-- marginal: 11,555,000 -->
+
+.
 
 B 41 Kementerian Pelajaran 17,542,945,200
 

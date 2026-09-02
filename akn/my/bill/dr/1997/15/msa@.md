@@ -56,11 +56,19 @@ perenggan
 
 (i) orang yang memancarkan rancangan itu, jika dia ber- tanggungjawab bagi pemilihan kandungannya; atau
 
-(ii) mana-mana orang yang mengadakan rancangan
+(ii) mana-mana orang
+
+<!-- marginal: yang -->
+
+mengadakan rancangan
 
 <!-- marginal: itu -->
 
-yang membuat perkiraan yang perlu dengan orang yang memancarkannya untuk pe-
+yang membuat perkiraan yang perlu dengan orang
+
+<!-- marginal: yang -->
+
+memancarkannya untuk pe-
 
 (c) dalam takrif "penetapan" dengan memasukkan selepas perkataan "kedua-duanya" perkataan ", atau perlambangannya;";
 
@@ -80,27 +88,19 @@ yang membuat perkiraan yang perlu dengan orang yang memancarkannya untuk pe-
 
 (b) dipancarkan bagi persembahan kepacla orang awam,
 
-dan termasuklah pemancaran
+dan termasuklah pemancaran isyarat penyulitan jika cara untuk penyahsulitan disediakan kepada orang awam oleh perkhidmatan penyiaran atau dengan persetujuannya;'.
 
-<!-- marginal: isyarat -->
+Pindaan
 
-penyulitan jika cara untuk penyahsulitan disediakan kepada orang awam oleh perkhidmatan penyiaran atau dengan persetujuannya;'.
+3. Seksyen 7 Akta ibu adalah dipinda dengan seksyen 7. memasukkan selepas subseksyen (2) subseksyen yang
 
-<!-- marginal: Pindaan -->
-
-3. Seksyen 7 Akta ibu adalah dipinda dengan
-
-<!-- marginal: seksyen 7. -->
-
-memasukkan selepas subseksyen (2) subseksyen yang berikut:
+<!-- marginal: berikut: -->
 
 "(2A) Perlindungan hakcipta tidaklah meluas kepada apa-apa ide, prosedur, kaedah pengendalian atau konsep matematik sebagai sedemikian.".
 
-<!-- marginal: Pindaan -->
+Pindaan
 
-4. Seksyen 13 Akta ibu adalah dipinda—
-
-<!-- marginal: seksyen 13. -->
+4. Seksyen 13 Akta ibu adalah dipinda— seksyen 13.
 
 (a) dalam subseksyen (1)—
 
@@ -204,9 +204,13 @@ pengubahsuaian itu—"; dan
 
 <!-- page 6 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-9. Seksyen 36 Akta ibu adalah dipinda dengan seksyen 36. memasukkan selepas subseksyen (2) subseksyen yang berikut:
+9. Seksyen 36 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 36. -->
+
+memasukkan selepas subseksyen (2) subseksyen yang berikut:
 
 "(3) Pelanggaran terhadap hakcipta berlaku apabila mana-mana orang memintasi atau menyebabkan mana-mana orang yang lain memintasi apa-apa langkah teknologi yang berkesan yang digunakan oleh pencipta-pencipta berkaitan dengan perjalanan hak-hak mereka di bawah Akta ini dan yang menyekat perbuatan, berkenaan dengan karya mereka, yang tidak dibenarkan oleh pencipta yang berkenaan atau yang tidak dibenarkan oleh undang-undang.
 
@@ -236,11 +240,7 @@ Pindaan
 
 (i) membuang atau mengubah apa-apa maklumat pengurusan hak elektronik tanpa kebenaran; atau
 
-(j) mengedarkan, mengimport untuk pengedaran atau menyampaikan kepada orang awam, tanpa kebenaran, karya atau salinan karya yang berkenaan dengannya maklumat pengurusan hak elektronik telah dibuang atau diubah
-
-<!-- marginal: tanpa -->
-
-kebenaran,";
+(j) mengedarkan, mengimport untuk pengedaran atau menyampaikan kepada orang awam, tanpa kebenaran, karya atau salinan karya yang berkenaan dengannya maklumat pengurusan hak elektronik telah dibuang atau diubah tanpa kebenaran,";
 
 (c) dalam perenggan (i) dengan memotong perkataan "dan" di hujung perenggan itu; dan
 
@@ -252,15 +252,23 @@ kebenaran,";
 
 <!-- page 8 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-11. Subseksyen 58(2) Akta ibu adalah dipinda— seksyen 58.
+11. Subseksyen 58(2) Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 58. -->
 
 (a) dalam perenggan (a) dengan raenggantikan perkataan "menyiarkan, berhubung melalui kabel" dengan perkataan "menyampaikan kepada orang awam"; dan
 
 (b) dalam perenggan (b) dengan menggantikan perkataan "menyiarkan atau menghubungkan karya-karya itu melalui kabel" dengan perkataan ", menyampaikan karya-karya itu kepada orang awam".
 
-12. Akta ibu adalah dipinda dengan memasukkari selepas haru 59B. seksyen 59A seksyen yang berikut:
+<!-- marginal: Seksyen -->
+
+12. Akta ibu adalah dipinda dengan memasukkari selepas
+
+<!-- marginal: haru 59B. -->
+
+seksyen 59A seksyen yang berikut:
 
 "Kuasa 59s. (1) Menteri boleh, melalui perintah, Menteri mengecualikan daripada takrif "siaran" untuk menge- berhubungan dengan pemancaran melalui wayar cualikan mana-mana perkhidmatan yang berikut: daripada takrif
 

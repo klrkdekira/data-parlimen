@@ -36,4 +36,4 @@ This Bill seeks to amend the Members of Parliament (Remuneration) Act 1980 ("Act
 
 This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained.
 
-[PN(UZ)2471]
+<!-- marginal: [PN(UZ)2471] -->

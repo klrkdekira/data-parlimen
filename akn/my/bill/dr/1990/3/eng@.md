@@ -32,19 +32,33 @@
 
 intituled
 
-An Act to provide for the grant of a remembrance allowance to the recipients of the Decoration of Sen Pahlawan Gagah Perkasa and for matters connected therewith. [ 1
+An Act to provide for the grant of a remembrance allowance to the recipients of the Decoration of Sen Pahlawan Gagah Perkasa and for matters connected therewith. [
+
+<!-- marginal: 1 -->
 
 BE IT ENACTED by the Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong with the advice and consent of the Dewan Negara and Dewan Rakyat in Parliament assembled, and by authority of the same, as follows:
 
-Short title
+<!-- marginal: Short title -->
 
 1. This Act may be cited as the Seri Pahlawan Gagah Perkasa (Remembrance Allowance) Act 1990.
 
-Interpre-
+<!-- marginal: Interpre- -->
 
-2. In this Act, unless the context otherwise requires— tation. "child" includes a step-child and a child adopted, before the death of the recipient, under any written law, custom or usage;
+2. In this Act, unless the context otherwise requires—
 
-"Decoration" means the Decoration of Seri Pahlawan Gagah Perkasa conferred under the Statutes G.N. of Seri Pahlawan Gagah Perkasa (S.P.); 3150160. "Minister" means the Prime Minister;
+<!-- marginal: tation. -->
+
+"child" includes a step-child and a child adopted, before the death of the recipient, under any written law, custom or usage;
+
+"Decoration" means the Decoration of Seri Pahlawan Gagah Perkasa conferred under the Statutes
+
+<!-- marginal: G.N. -->
+
+of Seri Pahlawan Gagah Perkasa (S.P.);
+
+<!-- marginal: 3150160. -->
+
+"Minister" means the Prime Minister;
 
 "recipient" means any person who has been conferred the Decoration;
 
@@ -54,17 +68,33 @@ Interpre-
 
 <!-- page 4 -->
 
-Grant of
+<!-- marginal: Grant of -->
 
-3. (1) There may be granted to a recipient a remembrance remembrance allowance of two hundred ringgit per allowance. month, and where the Decoration is conferred on such recipient more than once, there may be granted to him a separate remembrance allowance of two hundred ringgit per month in respect of each Decoration conferred on him, such allowance being payable in arrear not earlier than the end of each month.
+3. (1) There may be granted to a recipient a
+
+<!-- marginal: remembrance -->
+
+remembrance allowance of two hundred ringgit per
+
+<!-- marginal: allowance. -->
+
+month, and where the Decoration is conferred on such recipient more than once, there may be granted to him a separate remembrance allowance of two hundred ringgit per month in respect of each Decoration conferred on him, such allowance being payable in arrear not earlier than the end of each month.
 
 (2) Where the Decoration was conferred before the commencement of this Act and the recipient is living upon such commencement, the remembrance allowance shall be paid retrospectively to the recipient, commencing with the month in which the Decoration was conferred on him, but not earlier, in any case, than the month of June 1983.
 
 (3) Where the Decoration is conferred after the commencement of this Act, the remembrance allowance shall be paid to the recipient monthly in arrear, commencing with the month in which the Decoration is conferred on him.
 
-Cessation
+<!-- marginal: Cessation -->
 
-4. (1) The grant of a remembrance allowance shall of grant of cease— remembrance allowance.
+4. (1) The grant of a remembrance allowance shall
+
+<!-- marginal: of grant of -->
+
+cease—
+
+<!-- marginal: remembrance -->
+
+<!-- marginal: allowance. -->
 
 (a) upon the death of the recipient;
 
@@ -124,7 +154,33 @@ thousand ringgit once only—
 
 <!-- page 6 -->
 
-Grant to 6. Where the Decoration was conferred before the next-of-kin commencement of this Act and the recipient had died of recipient before such commencement, there may be made a who had died grant of a total sum of twenty thousand ringgit once before only— commence- ment of Act.
+<!-- marginal: Grant to -->
+
+6. Where the Decoration was conferred before the
+
+<!-- marginal: next-of-kin -->
+
+commencement of this Act and the recipient had died
+
+<!-- marginal: of recipient -->
+
+before such commencement, there may be made a
+
+<!-- marginal: who had -->
+
+<!-- marginal: died -->
+
+grant of a total sum of twenty thousand ringgit once
+
+<!-- marginal: before -->
+
+only—
+
+<!-- marginal: commence- -->
+
+<!-- marginal: ment of -->
+
+<!-- marginal: Act. -->
 
 (a) to the spouse or spouses and children of the deceased recipient who are living on the date of the commencement of this Act;
 
@@ -132,11 +188,63 @@ Grant to 6. Where the Decoration was conferred before the next-of-kin commenceme
 
 (c) if there is on such date no such parent living, to his grandparents or grandparent living on such date.
 
-7. The amounts to be paid to the spouse or spouses, Minister to apportion children, parents or grandparents, as the case may be, amounts to under section 5 or 6 shall be in such proportions as may be paid. be determined by the Minister.
+7. The amounts to be paid to the spouse or spouses,
 
-Remem- 8. The remembrance allowances and sums granted brance under this Act shall be charged on the Federal allowance Consolidated Fund. and sum to be charged on Federal Consolida- ted Fund.
+<!-- marginal: Minister to -->
 
-Remem- 9. Any remembrance allowance or sum granted under brance this Act shall not be assignable or transferable, or liable allowance to be attached, sequestrated or levied upon in respect and sum not assign- of any claim. able, etc.
+<!-- marginal: apportion -->
+
+children, parents or grandparents, as the case may be,
+
+<!-- marginal: amounts to -->
+
+under section 5 or 6 shall be in such proportions as may
+
+<!-- marginal: be paid. -->
+
+be determined by the Minister.
+
+<!-- marginal: Remem- -->
+
+8. The remembrance allowances and sums granted
+
+<!-- marginal: brance -->
+
+under this Act shall be charged on the Federal
+
+<!-- marginal: allowance -->
+
+Consolidated Fund.
+
+<!-- marginal: and sum to -->
+
+<!-- marginal: be charged -->
+
+<!-- marginal: on Federal -->
+
+<!-- marginal: Consolida- -->
+
+<!-- marginal: ted Fund. -->
+
+<!-- marginal: Remem- -->
+
+9. Any remembrance allowance or sum granted under
+
+<!-- marginal: brance -->
+
+this Act shall not be assignable or transferable, or liable
+
+<!-- marginal: allowance -->
+
+to be attached, sequestrated or levied upon in respect
+
+<!-- marginal: and sum -->
+
+<!-- marginal: not assign- -->
+
+of any claim.
+
+<!-- marginal: able, etc. -->
 
 ## EXPLANATORY STATEMENT
 
@@ -158,10 +266,18 @@ This Bill seeks to provide for the grant of a remembrance allowance to the recip
 
 7. Clause 7 empowers the Prime Minister to apportion the amounts to be paid to a deceased recipient's next-of-kin.
 
-8. Clause 8 provides that the remembrance allowances and sums granted under this Bill shall be charged on the Federal Consolidated Fund, while clause 9 provides that such remembrance allowances and sums shall not be assignable, transferable, etc.
+8. Clause 8 provides that the remembrance allowances and sums granted under this Bill shall be charged on the Federal Consolidated Fund, while clause 9 provides
+
+<!-- marginal: that such -->
+
+remembrance allowances and sums shall not be assignable, transferable, etc.
 
 ## FINANCIAL
 
 ## IMPLICATIONS
 
-This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained. [PN. (IP) 1336.]
+This Bill will involve the Government in extra financial expenditure the amount of which cannot
+
+<!-- marginal: at present -->
+
+be ascertained. [PN. (IP) 1336.]

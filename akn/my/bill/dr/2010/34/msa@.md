@@ -104,7 +104,33 @@ AM
 
 <!-- page 3 -->
 
-35. Penalti am 36. Kesalahan yang dilakukan oleh pertubuhan perbadanan 37. Pelantikan pegawai diberi kuasa 38. Kuasa untuk memasuki premis, memeriksa dan menyita dokumen, dsb. 39. Capaian kepada data berkomputer 40. Kuasa yang menghendaki kehadiran orang yang mempunyai pengetahuan tentang kes 41. Pemeriksaan orang yang mempunyai pengetahuan tentang kes 42. Kebolehterimaan pernyataan sebagai keterangan 43. Pengkompaunan kesalahan 44. Pemulaan pendakwaan 45. Pelantikan penasihat undang-undang 46. Kuasa Menteri untuk mengecualikan 47. Kuasa untuk membuat peraturan-peraturan 48. Peruntukan peralihan
+35. Penalti am
+
+36. Kesalahan yang dilakukan oleh pertubuhan perbadanan
+
+37. Pelantikan pegawai diberi kuasa
+
+38. Kuasa untuk memasuki premis, memeriksa dan menyita dokumen, dsb.
+
+39. Capaian kepada data berkomputer
+
+40. Kuasa yang menghendaki kehadiran orang yang mempunyai pengetahuan tentang kes
+
+41. Pemeriksaan orang yang mempunyai pengetahuan tentang kes
+
+42. Kebolehterimaan pernyataan sebagai keterangan
+
+43. Pengkompaunan kesalahan
+
+44. Pemulaan pendakwaan
+
+45. Pelantikan penasihat undang-undang
+
+46. Kuasa Menteri untuk mengecualikan
+
+47. Kuasa untuk membuat peraturan-peraturan
+
+48. Peruntukan peralihan
 
 <!-- page 5 -->
 
@@ -120,7 +146,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Tajuk ringkas dan permulaan kuat kuasa
 
-1. (1) Akta ini bolehlah dinamakan Akta Juruanalisis Makanan 2010.
+1. (1) Akta ini bolehlah dinamakan Akta Juruanalisis Makanan
+
+2010.
 
 (2) Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
 

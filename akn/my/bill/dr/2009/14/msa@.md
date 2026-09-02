@@ -180,7 +180,9 @@ Majlis Penasihat Syariah mengenai apa-apa perkara yang berhubungan dengan urusan
 
 316h. (1) Jika keputusan yang diberikan oleh seorang penasihat Syariah berdaftar kepada seseorang yang terlibat dalam apa- apa urusan atau transaksi pasaran modal Islam berbeza dengan keputusan yang diberikan oleh Majlis Penasihat Syariah, keputusan Majlis Penasihat Syariah hendaklah terpakai.
 
-(2) Bagi maksud seksyen ini, “penasihat Syariah berdaftar” ertinya seseorang yang berdaftar di bawah mana-mana garis panduan yang dikeluarkan oleh Suruhanjaya di bawah seksyen 377.”.
+(2) Bagi maksud seksyen ini, “penasihat Syariah berdaftar” ertinya seseorang yang berdaftar di bawah mana-mana garis panduan yang dikeluarkan oleh Suruhanjaya di bawah seksyen
+
+377.”.
 
 ### Seksyen baru 317a
 

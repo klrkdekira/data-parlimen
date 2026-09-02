@@ -6,7 +6,29 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-1. Short title and commencement. 2. Interpretation. 3. International organizations and overseas organizations. 4. Privileges and immunities of certain international organizations and persons. 5. Privileges and immunities of representatives attending certain international conferences or engaged on missions in Malaysia. 6. Privileges and immunities of judges and officials of, and persons engaged in business before, the International Court of Justice. 7. Certificates by Minister. 8. Withdrawal of privileges and immunities of representatives of countries not according reciprocal treatment. 9. Protection of names, etc., of international organizations. 10. Authority to hold land in the Federation. 11. Regulations. 12. Repeal and amendment.
+1. Short title and commencement.
+
+2. Interpretation.
+
+3. International organizations and overseas organizations.
+
+4. Privileges and immunities of certain international organizations and persons.
+
+5. Privileges and immunities of representatives attending certain international conferences or engaged on missions in Malaysia.
+
+6. Privileges and immunities of judges and officials of, and persons engaged in business before, the International Court of Justice.
+
+7. Certificates by Minister.
+
+8. Withdrawal of privileges and immunities of representatives of countries not according reciprocal treatment.
+
+9. Protection of names, etc., of international organizations.
+
+10. Authority to hold land in the Federation.
+
+11. Regulations.
+
+12. Repeal and amendment.
 
 ## SCHEDULES.
 
@@ -140,15 +162,33 @@ to be an overseas organization.
 
 (b) the organization is constituted by a person or persons representing Malaysia and a person or persons representing a country or countries other than Malaysia.
 
-Privileges and
+<!-- marginal: Privileges and -->
 
-4. (1) Subject to this section, and to subsections 11(3), immunities of 11(4) and 11(5), the Minister may by regulations either certain inter- with or without restrictions or to the extent or subject national organizations to the conditions prescribed in such regulations— and persons.
+4. (1) Subject to this section, and to subsections 11(3),
+
+<!-- marginal: immunities of -->
+
+11(4) and 11(5), the Minister may by regulations either
+
+<!-- marginal: certain inter- -->
+
+with or without restrictions or to the extent or subject
+
+<!-- marginal: national -->
+
+<!-- marginal: organizations -->
+
+to the conditions prescribed in such regulations—
+
+<!-- marginal: and persons. -->
 
 (a) confer upon an international organization— (i) juridical personality and such legal capacities as are necessary for the exercise of the powers and
 
 <!-- marginal: the -->
 
-performance of the functions of the organization; and (ii) all or any of the privileges and immunities specified in the First
+performance of the functions of the organization; and (ii) all or any of the privileges and immunities specified in
+
+<!-- marginal: the First -->
 
 ## Schedule;
 
@@ -162,27 +202,27 @@ performance of the functions of the organization; and (ii) all or any of the pri
 
 ## Second Schedule;
 
-(c) confer— (i) upon a person who is accredited to, or is in attendance at, an
+(c) confer—
 
-<!-- marginal: international -->
-
-conference convened by an international organization as a representative of— (A) a country other than Malaysia; (B) another international organi- zation; or (C) an overseas organization, all or any of the privileges and immunities specified in Part I of the
+(i) upon a person who is accredited to, or is in attendance at, an international conference convened by an international organization as a representative of— (A) a country other than Malaysia; (B) another international organi- zation; or (C) an overseas organization, all or any of the privileges and immunities specified in Part I of the
 
 ## Third Schedule;
 
 (ii) upon a person who has ceased to be accredited to such an organization, or has attended such a conference, as such a representative the immunities specified in Part II of the Third Schedule;
 
-(d) confer— (i) upon a person (not being a high officer) who holds an office in an international organization all or any of the privileges and immunities specified in Part I of the Fourth Schedule; and (ii) upon a person who has ceased to hold such an office the immunities specified in Part II of the Fourth Schedule; and
+(d) confer—
 
-(e) confer— (i) upon a person who is serving on a committee, or is participating in the work, of an international organization or is performing, whether alone or jointly with other persons, a mission on behalf
+(i) upon a person (not being a high officer) who holds an office in an international organization all or any of the privileges and immunities specified in Part I of the Fourth Schedule; and
+
+(ii) upon a person who has ceased to hold such an office the immunities specified in Part II of the Fourth Schedule; and
+
+(e) confer—
+
+(i) upon a person who is serving on a committee, or is participating in the work, of an international organization or is performing, whether alone or jointly with other persons, a mission on behalf
 
 <!-- page 8 -->
 
-of such an organization all or any of the privileges and immunities specified in
-
-## Part I of the Fifth Schedule; and
-
-(ii) upon a person who has served on such a committee or participated in such work or has performed such a mission the immunities specified in Part II of the
+of such an organization all or any of the privileges and immunities specified in Part I of the Fifth Schedule; and (ii) upon a person who has served on such a committee or participated in such work or has performed such a mission the immunities specified in Part II of the
 
 ## Fifth Schedule.
 
@@ -240,11 +280,41 @@ or a member of the official staff of such a representative during the period whe
 
 <!-- page 10 -->
 
-5. (1) Where— Privileges and
+5. (1) Where—
 
-(a) an international conference is, or is to be, held immunities of representatives in Malaysia; or attending certain
+<!-- marginal: Privileges -->
 
-(b) a mission is, or is to be, sent by— international conferences (i) a country other than Malaysia; or or engaged on missions in (ii) an international organization or an Malaysia. overseas organization,
+<!-- marginal: and -->
+
+(a) an international conference is, or is to be, held
+
+<!-- marginal: immunities of -->
+
+<!-- marginal: representatives -->
+
+in Malaysia; or
+
+<!-- marginal: attending -->
+
+<!-- marginal: certain -->
+
+(b) a mission is, or is to be, sent by—
+
+<!-- marginal: international -->
+
+<!-- marginal: conferences -->
+
+(i) a country other than Malaysia; or
+
+<!-- marginal: or engaged on -->
+
+<!-- marginal: missions in -->
+
+(ii) an international organization or an
+
+<!-- marginal: Malaysia. -->
+
+overseas organization,
 
 to Malaysia,
 
@@ -320,11 +390,43 @@ such privileges and immunities as are required to give effect to the Statute of 
 
 <!-- page 12 -->
 
-Certificates 7. (1) The Minister may give a certificate in writing by Minister certifying any fact relating to the question whether a person is, or was at any time or in respect of any period, entitled, by virtue of this Act or the regulations, to any privileges or immunities.
+<!-- marginal: Certificates -->
+
+7. (1) The Minister may give a certificate in writing
+
+<!-- marginal: by Minister -->
+
+certifying any fact relating to the question whether a person is, or was at any time or in respect of any period, entitled, by virtue of this Act or the regulations, to any privileges or immunities.
 
 (2) In any proceedings, a certificate given under this section is evidence of the facts certified.
 
-Withdrawal of 8. Where the Minister is satisfied that persons, or privileges and members of the official staffs of persons, representing immunities uf representatives Malaysia at an international conference in a country of countries would not receive in that country privileges and not according immunities corresponding to those conferred in reciprocal treatment. Malaysia by this Act or the regulations upon persons, or upon members of the official staffs of persons, representing that country, the Minister may, by order published in the Gazette, withdraw
+<!-- marginal: Withdrawal of -->
+
+8. Where the Minister is satisfied that persons, or
+
+<!-- marginal: privileges and -->
+
+members of the official staffs of persons, representing
+
+<!-- marginal: immunities uf -->
+
+<!-- marginal: representatives -->
+
+Malaysia at an international conference in a country
+
+<!-- marginal: of countries -->
+
+would not receive in that country privileges and
+
+<!-- marginal: not according -->
+
+immunities corresponding to those conferred in
+
+<!-- marginal: reciprocal -->
+
+<!-- marginal: treatment. -->
+
+Malaysia by this Act or the regulations upon persons, or upon members of the official staffs of persons, representing that country, the Minister may, by order published in the Gazette, withdraw
 
 <!-- marginal: from -->
 
@@ -332,7 +434,19 @@ Withdrawal of 8. Where the Minister is satisfied that persons, or privileges and
 
 representatives, or from the members of the official staffs of the representatives, of that country all or any of those privileges and immunities.
 
-Protection of 9. (1) Except with the consent in writing of the names, etc., of Minister, a person (including a body corporate) shall international not— organizations.
+<!-- marginal: Protection of -->
+
+9. (1) Except with the consent in writing of the
+
+<!-- marginal: names, etc., of -->
+
+Minister, a person (including a body corporate) shall
+
+<!-- marginal: international -->
+
+not—
+
+<!-- marginal: organizations. -->
 
 (a) use the name or an abbreviation of the name of an international organization in connection with a trade, business, profession, calling or occupation; or
 
@@ -362,11 +476,7 @@ association,
 
 shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding one thousand ringgit.
 
-(3) No person shall be convicted of an offence against this section in respect of the use of an abbreviation of the name of an
-
-<!-- marginal: international -->
-
-organization if the use occurred in such circumstances or in relation to such matters as to be unlikely to be taken to imply any connection with the organization, unless the prosecution proves that the use was intended to imply such a connection.
+(3) No person shall be convicted of an offence against this section in respect of the use of an abbreviation of the name of an international organization if the use occurred in such circumstances or in relation to such matters as to be unlikely to be taken to imply any connection with the organization, unless the prosecution proves that the use was intended to imply such a connection.
 
 (4) The conviction of a person of an offence under this section in respect of the use of a name, an abbreviation of a name, a seal, emblem or device does not prevent a further conviction of that person in respect of the use of that name, abbreviation, seal, emblem or device at any time after the first-mentioned conviction.
 
@@ -384,11 +494,21 @@ abbreviation of the name of that organization; and
 
 (6) Proceedings under this section shall not be instituted without the consent in writing of the Attorney- General.
 
-Authority to
+<!-- marginal: Authority to -->
 
-10. (1) Notwithstanding the provisions of any written hold land in law to the contrary, it shall be lawful for land in any the Federation part of the Federation or any interest in such land to be granted, alienated, leased or transferred to or owned or held by an international organization for the purposes of the organization or the residences or offices of any of the persons specified in any of the regulations made under paragraphs 4(1)(b) and 4(1)(d).
+10. (1) Notwithstanding the provisions of any written
 
-(2) Where by virtue of subsection (1) it is lawful for land or an interest in land to be granted, alienated, leased or transferred to or owned or held by an international organization, such land or interest may be granted, alienated, leased or transferred to or owned or held by such organization in its name or its behalf to or by any person nominated for the purposes of this subsection either generally or in a particular case by writing addressed to the Minister by or on behalf of such organization, as the case may be, and such organization or person, as the case may be, shall be registered accordingly as proprietor, lessee or otherwise, as the case may require, in any register kept under the provisions of the National Land Code. 5611965.
+<!-- marginal: hold land in -->
+
+law to the contrary, it shall be lawful for land in any
+
+<!-- marginal: the Federation -->
+
+part of the Federation or any interest in such land to be granted, alienated, leased or transferred to or owned or held by an international organization for the purposes of the organization or the residences or offices of any of the persons specified in any of the regulations made under paragraphs 4(1)(b) and 4(1)(d).
+
+(2) Where by virtue of subsection (1) it is lawful for land or an interest in land to be granted, alienated, leased or transferred to or owned or held by an international organization, such land or interest may be granted, alienated, leased or transferred to or owned or held by such organization in its name or its behalf to or by any person nominated for the purposes of this subsection either generally or in a particular case by writing addressed to the Minister by or on behalf of such organization, as the case may be, and such organization or person, as the case may be, shall be registered accordingly as proprietor, lessee or otherwise, as the case may require, in any register kept under the provisions of the National Land Code.
+
+<!-- marginal: 5611965. -->
 
 <!-- page 15 -->
 
@@ -414,7 +534,15 @@ Authority to
 
 (5) Regulations made under section 4 or 5 shall not confer on any person or organization any privileges or immunities greater in extent than those which at the time of the making of the regulations are or are required fo he conferred on that person or organization in order to give effect to any international agreement in that behalf.
 
-Repeal and 12. The provisions of the Diplomatic and Consular amendment. Privileges Ordinance 1957 are amended— Ord. 53/1957.
+<!-- marginal: Repeal and -->
+
+12. The provisions of the Diplomatic and Consular
+
+<!-- marginal: amendment. -->
+
+Privileges Ordinance 1957 are amended—
+
+<!-- marginal: Ord. 53/1957. -->
 
 (a) by repealing Part III thereof; and
 
@@ -436,7 +564,11 @@ Repeal and 12. The provisions of the Diplomatic and Consular amendment. Privileg
 
 3. Inviolability of archives,
 
-4. Subject to section 4 of the Exchange Control Act 1953, Act 17. exemption from currency and exchange restrictions.
+4. Subject to section 4 of the Exchange Control Act 1953,
+
+<!-- marginal: Act 17. -->
+
+exemption from currency and exchange restrictions.
 
 5. Subject to compliance with such conditions as the Minister of Finance may prescribe for the protection of revenue, exemption from all duties and taxes on—
 
@@ -614,11 +746,17 @@ Immunity from suit and from other legal process in respect of acts and things do
 
 ## PRIVILEGES ORDINANCE 1957
 
+<!-- marginal: Section -->
+
 Amendment
 
-2 Delete the definition of the words "international organisation".
+<!-- marginal: 2 -->
 
-9 (1) In subsection (1), delete paragraph (b).
+Delete the definition of the words "international organisation".
+
+<!-- marginal: 9 -->
+
+(1) In subsection (1), delete paragraph (b).
 
 (2) In subsection (2)—
 
@@ -682,6 +820,4 @@ This Bill seeks to make provisions relating to the privileges and immunities of 
 
 ## IMPLICATIONS
 
-This Bill will not involve the Government in any extra financial expenditure.
-
-<!-- marginal: [PN. (U2) 1416.] -->
+This Bill will not involve the Government in any extra financial expenditure. [PN. (U2) 1416.]

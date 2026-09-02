@@ -30,4 +30,6 @@ This Bill seeks to amend the Banking and Financial Institutions Act 1989 ("Act 3
 
 ## FINANCIAL
 
-This Bill will not involve the Government in any extra financial expenditure. [PN(U2)2263]
+This Bill will not involve the Government in any extra financial expenditure.
+
+<!-- marginal: [PN(U2)2263] -->

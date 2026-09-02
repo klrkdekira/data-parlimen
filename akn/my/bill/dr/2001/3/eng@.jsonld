@@ -367,7 +367,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/3/eng@/~cl_6",
       "schema:text": {
         "@language": "en",
-        "@value": "in subsection (4)— Amendment of section 9"
+        "@value": "in subsection (4)—"
       }
     },
     {
@@ -387,7 +387,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/3/eng@/~cl_6__para_b",
       "schema:text": {
         "@language": "en",
-        "@value": "in the English language text, by substituting for the word \"his\" the word \"its\"."
+        "@value": "in the English language text, by substituting for the word \"his\" the word \"its\". Amendment of section 9"
       }
     },
     {

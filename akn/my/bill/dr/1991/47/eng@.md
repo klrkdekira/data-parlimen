@@ -40,9 +40,29 @@ Act", is amended—
 
 (b) by substituting for section 4 the following
 
-" Remu-
+<!-- marginal: section: -->
 
-4. The remuneration of the President neration of and Deputy President of the Senate President of Senate, and the Speaker and Deputy Speaker Speaker, of the House of Representatives shall etc. consist of—
+<!-- marginal: " Remu- -->
+
+4. The remuneration of the President
+
+<!-- marginal: neration of -->
+
+and Deputy President of the Senate
+
+<!-- marginal: President -->
+
+<!-- marginal: of Senate, -->
+
+and the Speaker and Deputy Speaker
+
+<!-- marginal: Speaker, -->
+
+of the House of Representatives shall
+
+<!-- marginal: etc. -->
+
+consist of—
 
 (a) in the case of the President of the Senate, a monthly salary of six thousand two hundred and ten ringgit in addition to the monthly allowance payable to him as a member of the Senate as specified in paragraph (a) of subsection (1) of section 3;
 
@@ -60,7 +80,25 @@ thousand and eighty ringgit in addition to the monthly allowance payable to him 
 
 (c) by substituting for section 6 the following
 
-" Remu- 6. (1) The remuneration of the neration of Members of the Administration shall Members of the consist of— Adminis- tration.
+<!-- marginal: section: -->
+
+<!-- marginal: " Remu- -->
+
+6. (1) The remuneration of the
+
+<!-- marginal: neration of -->
+
+Members of the Administration shall
+
+<!-- marginal: Members -->
+
+<!-- marginal: of the -->
+
+consist of—
+
+<!-- marginal: Adminis- -->
+
+<!-- marginal: tration. -->
 
 (a) in the case of the Prime Minister, a monthly salary of nine thousand one hundred and eighty ringgit;
 
@@ -94,7 +132,11 @@ of subsection (1) of section 3, to a monthly allowance of one thousand and eight
 
 (2) Subsection (1) shall be deemed to have come into force on the Ist January 1989.
 
-(3) Notwithstanding section 7 of the principal Act, all monthly salaries and allowances specified in the amendments to the principal Act in subsection (1) and payable shall commence from the 1st January 1989 or from the date of appointment or election, whichever is the later, of the Members of Parliament, the President or Deputy President of the Senate, the Speaker or Deputy Speaker of the House of Representatives, the Members of the Administration, the Leader or Deputy Leader of the House of Representatives or the Leader of the Opposition, as the case may be.
+(3) Notwithstanding section 7 of the principal Act, all monthly salaries and allowances specified
+
+<!-- marginal: in the -->
+
+amendments to the principal Act in subsection (1) and payable shall commence from the 1st January 1989 or from the date of appointment or election, whichever is the later, of the Members of Parliament, the President or Deputy President of the Senate, the Speaker or Deputy Speaker of the House of Representatives, the Members of the Administration, the Leader or Deputy Leader of the House of Representatives or the Leader of the Opposition, as the case may be.
 
 <!-- marginal: Amendment -->
 
@@ -110,7 +152,11 @@ of subsection (1) of section 3, to a monthly allowance of one thousand and eight
 
 (a) in the case of a member of the liament. Senate, a monthly allowance of two thousand eight hundred ringgit;
 
-(b) in the case of a member of the House of Representatives, a monthly allowance of four thousand eight hundred ringgit.
+(b) in the case of a member of the House of Representatives, a monthly allowance of four thousand eight
+
+<!-- marginal: hundred -->
+
+ringgit.
 
 <!-- page 6 -->
 
@@ -118,9 +164,27 @@ of subsection (1) of section 3, to a monthly allowance of one thousand and eight
 
 (b) by substituting for section 4 as amended by subsection 2(1) the following section:
 
-" Remu-
+<!-- marginal: " Remu- -->
 
-4. The remuneration of the President neration of and Deputy President of the Senate President and the Speaker and Deputy Speaker of Senate. Speaker, of the House of Representatives shall etc. consist of—
+4. The remuneration of the President
+
+<!-- marginal: neration of -->
+
+and Deputy President of the Senate
+
+<!-- marginal: President -->
+
+and the Speaker and Deputy Speaker
+
+<!-- marginal: of Senate. -->
+
+<!-- marginal: Speaker, -->
+
+of the House of Representatives shall
+
+<!-- marginal: etc. -->
+
+consist of—
 
 (a) in the case of the President of the Senate, a monthly salary of nine thousand two hundred ringgit in addition to the monthly allowance payable to him as a member of the Senate as specified in paragraph (a) of subsection (1) of section 3;
 
@@ -134,13 +198,29 @@ of subsection (1) of section 3, to a monthly allowance of one thousand and eight
 
 to the monthly allowance payable to him as a member of the Senate as specified in paragraph (a) of subsection (1) of section 3;
 
-(d) in the case of the Deputy Speaker of the House of Representatives, a monthly allowance of two thousand ringgit in addition to the monthly allowance payable to him as a member of the House of Representatives as specified in paragraph (b) of subsection (1) of section 3."; and
+(d) in the case of the Deputy Speaker of the House of Representatives, a monthly allowance of two thousand ringgit in addition to the monthly allowance payable to him as a member of the House of Representatives as specified in paragraph (b) of subsection
+
+(1) of section 3."; and
 
 (c) by substituting for section 6 as amended by subsection 2(1) the following section:
 
-" Remu-
+<!-- marginal: " Remu- -->
 
-6. (1) The remuneration of the neration of Members of the Administration shall Members of the consist of— Adminis- tration.
+6. (1) The remuneration of the
+
+<!-- marginal: neration of -->
+
+Members of the Administration shall
+
+<!-- marginal: Members -->
+
+<!-- marginal: of the -->
+
+consist of—
+
+<!-- marginal: Adminis- -->
+
+<!-- marginal: tration. -->
 
 (a) in the case of the Prime Minister, a monthly salary of seventeen thousand ringgit;
 
@@ -176,7 +256,13 @@ other allowances and privileges at such rates and on such terms and conditions a
 
 (2) Subsection (1) shall come into force on the 1st January 1992.
 
-(3) Notwithstanding section 7 of the principal Act, all monthly salaries and allowances specified in the amendments to the principal Act in subsection (1) and payable shall commence from the 1st January 1992 or from the date of appointment or election, whichever is the later, of the Members of Parliament, the President or Deputy President of the Senate, the Speaker or Deputy Speaker of the House of Representatives, the Members of the Administration, the Leader or Deputy Leader of the House of Representatives or the Leader of the Opposition, as the case may be.
+(3) Notwithstanding section 7 of the principal Act, all monthly salaries and allowances specified
+
+<!-- marginal: in -->
+
+<!-- marginal: the -->
+
+amendments to the principal Act in subsection (1) and payable shall commence from the 1st January 1992 or from the date of appointment or election, whichever is the later, of the Members of Parliament, the President or Deputy President of the Senate, the Speaker or Deputy Speaker of the House of Representatives, the Members of the Administration, the Leader or Deputy Leader of the House of Representatives or the Leader of the Opposition, as the case may be.
 
 ## EXPLANATORY STATEMENT
 

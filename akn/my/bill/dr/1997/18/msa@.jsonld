@@ -1,0 +1,368 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-18-1997",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_12"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Tafsiran (Pindaan) 1997"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Tafsiran (Pindaan)"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "1997."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 25 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memasukkan selepas perkataan \"enabling,\" perkataan \"whether in the Act or other written law under which it is made or under this Act and\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 27 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan perkataan \"Subsidiary legislation may provide for persons guilty of offences thereunder\" dengan perkataan \"Notwithstanding the absence of any express provision in any Act or other written law, subsidiary legislation may provide that contravention of any provision of the subsidiary legislation shall constitute an offence and for persons guilty of such offence\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seksyen 62 seksyen yang berikut: Use of 62A. Where under any written law any electronic information is permitted or required to be given means or or kept or maintained, and no means or medium medium. is specified, such information may be given or kept or maintained by electronic means and on electronic medium if the identity of the person giving the information or the source of any information given by such means is capable of being determined or verified, and if sufficient precautionary measures have been applied to prevent unauthorised access to any information recorded or fixed by such means or on such medium.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, \"Akta ibu\" ertinya Akta-Akta Tafsiran"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "1948 dan 1967."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_3__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_3__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_3__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada subseksyen (2), (3), (4) dan (5), Akta ini hendaklah mula berkuatkuasa pada hari ia disiarkan dalam Warta."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 4, 6, 8, 9, 10 dan 11 hendaklah disifatkan telah mula berkuatkuasa pada 18 Mei 1967 dan peruntukan- peruntukan yang dimasukkan melalui seksyen-seksyen itu hendaklah masing-masingnya disifatkan telah menjadi suatu bahagian integral tajuk panjang dan seksyen 15, 20, 23, 25 dan 27 Akta ibu mulai dari tarikh itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa perbuatan yang dilakukan atau yang berupa sebagai telah dilakukan menurut atau di bawah kuasa- kuasa yang diberikan oleh seksyen 20, 23, 25 dan 27 Akta ibu hendaklah disifatkan telah dilakukan dengan sah walaupun seksyen-seksyen itu tidak, pada masa perbuatan itu dilakukan, mengandungi peruntukan- peruntukan yang dimasukkan melalui seksyen 8, 9, 10 dan 11."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_3__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen (3) tidaklah menyentuh apa-apa hak yang diberikan atau relif yang diperoleh oleh mana-mana orang menurut kuasa apa-apa keputusan mahkamah yang diumumkan sebelum tarikh Akta ini disiarkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_3__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 5(l)(a) dan 5(l)(c) hendaklah disifatkan telah mula berkuatkuasa pada 24 Jun 1994."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan menggantikan tajuk"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "panjang dengan tajuk panjang yang berikut: \"An Act to provide for the commencement, application, construction, interpretation and operation of written laws; to provide for matters in relation to the exercise of statutory powers and duties; and for matters connected thereto.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_5__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_5__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_5__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_5__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_5__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_5__subsec_1__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 3 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_5__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_5__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan takrif \"Lord President\" dengan takrif yang berikut: ' \"Chief Justice\" means the Chief Justice of the Federal Court;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_5__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_5__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif \"penghulu\" takrif yang berikut: ' \"Peninsular Malaysia\" means the States of Johore, Kedah, Kelantan, Malacca, Negeri Sembilan, Pahang, Penang, Perak, Perlis, Selangor and Terengganu and the Federal Territory of Kuala Lumpur;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_5__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_5__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif \"Rules Committee\", dengan menggantikan perkataan \"Supreme Court\" dengan perkataan \"Federal Court, the Court of Appeal\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_5__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_5__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong takrif \"West Malaysia\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_5__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_5__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan takrif \"writing\" dengan takrif yang berikut: ' \"writing\" or \"written\" includes type- writing, printing, lithography, photography, electronic storage or transmission or any other method of recording information or fixing information in a form capable of being preserved;'."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Segala sebutan tentang \"Malaysia Barat\" dalam mana-mana undang-undang bertulis hendaklah disifatkan sebagai sebutan tentang \"Semenanjung Malaysia\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_6__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 15 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota birai, dengan menggantikan perkataan \"Schedule\" dengan perkataan \"Long title, preamble and schedules\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"Every\" dengan perkataan \"The long title and preamble and every\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"thereto\" dengan perkataan \"to the schedules\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seksyen 17 seksyen yang berikut: Regard to 17A. In the interpretation of a provision of an be had Act, a construction that would promote the to the purpose purpose or object underlying the Act (whether of Act. that purpose or object is expressly stated in the Act or not) shall be preferred to a construction that would not promote that purpose or object.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 20 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan perkataan \"Subsidiary\" dengan perkataan \"Notwithstanding the absence of any express provision in any Act or other written law, where such Act or other written law empowers any person to make subsidiary legislation, such subsidiary\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/18/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 23 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memasukkan selepas subseksyen (1) subseksyen yang berikut: \"(1A) For the purposes of subsection (1), any subsidiary legislation made under an Act is not inconsistent with that Act or any other Act merely by reason of the absence in the Act under which it is made of any provision relating commencement, application, operation, interpretation or construction of the subsidiary legislation or to any other matter in connection with such subsidiary legislation if provisions relating commencement, application, operation, interpretation or construction of, or other matter in connection with, subsidiary legislation generally are contained in this Act.\"."
+      }
+    }
+  ]
+}

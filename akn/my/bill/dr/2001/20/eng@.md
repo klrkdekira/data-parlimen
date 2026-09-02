@@ -48,7 +48,7 @@ and Multimedia
 
 ## TOTAL
 
-130,622,700
+<!-- marginal: 130,622,700 -->
 
 ## EXPLANATORY STATEMENT
 

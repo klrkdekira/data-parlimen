@@ -159,7 +159,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/23/msa@/~cl_13",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (2)— Pindaan seksyen 24a"
+        "@value": "dalam subseksyen (2)—"
       }
     },
     {
@@ -179,7 +179,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/23/msa@/~cl_13__para_b",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam perenggan (b), dengan menggantikan perkataan “satu ratus ribu ringgit” dengan perkataan “dua ratus ribu ringgit”."
+        "@value": "dalam perenggan (b), dengan menggantikan perkataan “satu ratus ribu ringgit” dengan perkataan “dua ratus ribu ringgit”. Pindaan seksyen 24a"
       }
     },
     {
@@ -248,7 +248,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/23/msa@/~cl_18",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (1)— “(a) untuk memerintahkan— (i) syarikat yang diberikan lesen di bawah seksyen 24 a untuk berhenti mengadakan apa-apa perkhidmatan dalam aerodrom atau selainnya; (ii) orang yang dilesenkan oleh Suruhanjaya Penerbangan Malaysia di bawah seksyen 37 Akta Suruhanjaya Penerbangan Malaysia 2015 untuk berhenti mengadakan perkhidmatan pengendalian darat; atau (iii) orang yang dilesenkan oleh Suruhanjaya Penerbangan Malaysia di bawah seksyen 38 Akta Suruhanjaya Penerbangan Malaysia 2015 untuk berhenti mengendalikan aerodrom; atau”; dan"
+        "@value": "dalam subseksyen (1)—"
       }
     },
     {
@@ -268,7 +268,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/23/msa@/~cl_18__para_a",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan perenggan (a) dengan perenggan yang berikut:"
+        "@value": "dengan menggantikan perenggan (a) dengan perenggan yang berikut: “(a) untuk memerintahkan— (i) syarikat yang diberikan lesen di bawah seksyen 24 a untuk berhenti mengadakan apa-apa perkhidmatan dalam aerodrom atau selainnya; (ii) orang yang dilesenkan oleh Suruhanjaya Penerbangan Malaysia di bawah seksyen 37 Akta Suruhanjaya Penerbangan Malaysia 2015 untuk berhenti mengadakan perkhidmatan pengendalian darat; atau (iii) orang yang dilesenkan oleh Suruhanjaya Penerbangan Malaysia di bawah seksyen 38 Akta Suruhanjaya Penerbangan Malaysia 2015 untuk berhenti mengendalikan aerodrom; atau”; dan"
       }
     },
     {
@@ -646,7 +646,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/23/msa@/~cl_8",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (2)— “(aa) mengawal selia keselamatan penerbangan awam termasuk mewujudkan program keselamatan kebangsaan atau apa-apa program keselamatan yang lain;”; “(p) mengecualikan mana-mana kapal udara, penerbangan atau orang atau kelas kapal udara, penerbangan atau orang daripada mana-mana peruntukan mana-mana perundangan subsidiari yang dibuat di bawah Akta ini, orang yang olehnya pengecualian boleh dibuat dan terma dan syarat bagi pengecualian itu;”; “(q) penyiasatan kemalangan, insiden atau insiden serius kapal udara sama ada yang berlaku di Malaysia atau yang berlaku kepada kapal udara Malaysia;”; “(u) menetapkan semua perkara lain yang suai manfaat atau perlu untuk ditetapkan bagi menguatkuasakan Akta ini dan Akta Pihak Berkuasa Penerbangan Awam Malaysia 2016.”;"
+        "@value": "dalam subseksyen (2)—"
       }
     },
     {
@@ -656,7 +656,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/23/msa@/~cl_8__para_a",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perenggan (a) perenggan yang berikut:"
+        "@value": "dengan memasukkan selepas perenggan (a) perenggan yang berikut: “(aa) mengawal selia keselamatan penerbangan awam termasuk mewujudkan program keselamatan kebangsaan atau apa-apa program keselamatan yang lain;”;"
       }
     },
     {
@@ -666,7 +666,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/23/msa@/~cl_8__para_a",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan perenggan (p) dengan perenggan yang berikut:"
+        "@value": "dengan menggantikan perenggan (p) dengan perenggan yang berikut: “(p) mengecualikan mana-mana kapal udara, penerbangan atau orang atau kelas kapal udara, penerbangan atau orang daripada mana-mana peruntukan mana-mana perundangan subsidiari yang dibuat di bawah Akta ini, orang yang olehnya pengecualian boleh dibuat dan terma dan syarat bagi pengecualian itu;”;"
       }
     },
     {
@@ -676,7 +676,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/23/msa@/~cl_8__para_a",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan perenggan (q) dengan perenggan yang berikut:"
+        "@value": "dengan menggantikan perenggan (q) dengan perenggan yang berikut: “(q) penyiasatan kemalangan, insiden atau insiden serius kapal udara sama ada yang berlaku di Malaysia atau yang berlaku kepada kapal udara Malaysia;”;"
       }
     },
     {
@@ -706,7 +706,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/23/msa@/~cl_8__para_a",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perenggan (t) perenggan yang berikut:"
+        "@value": "dengan memasukkan selepas perenggan (t) perenggan yang berikut: “(u) menetapkan semua perkara lain yang suai manfaat atau perlu untuk ditetapkan bagi menguatkuasakan Akta ini dan Akta Pihak Berkuasa Penerbangan Awam Malaysia 2016.”;"
       }
     },
     {

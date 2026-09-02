@@ -26,13 +26,7 @@ following paragraph;
 
 "City Council" includes a Council of a City and a City;
 
-"Mayor of a City Council" includes Commissioner of a City and "Mayor" shall
-
-<!-- marginal: be -->
-
-<!-- marginal: construed -->
-
-accordingly.".
+"Mayor of a City Council" includes Commissioner of a City and "Mayor" shall be construed accordingly.".
 
 <!-- page 2 -->
 
@@ -72,7 +66,9 @@ accordingly.".
 
 (a) by renumbering the existing provision as subsection (1) and substituting for the words "for the purpose of satisfying him" therein the words "or a person licensed to carry out inspection under this Act for the purpose of ensuring"; and
 
-(b) by inserting after the renumbered subsection (1) the following subsections:
+(b) by inserting after the renumbered subsection
+
+(1) the following subsections:
 
 "(2) If, on such inspection, it appears to a road transport officer that, by reason of any defects therein, being defects which are prescribed by rules as serious defects, such motor vehicle is or is likely to become unfit for use, or its use is or is likely to become dangerous unless the defects are remedied, he may prohibit the use of such motor vehicle:
 
@@ -118,11 +114,7 @@ Provided that where in the opinion of such road transport officer the defects ar
 
 (4) The decision of the Director General under subsection (3) shall be final.
 
-66D. (1) Every inspection certificate issued under section 66c shall be fixed
-
-<!-- marginal: to and -->
-
-exhibited on the motor vehicle in respect of which it is issued in such manner and subject to such conditions as may be prescribed.
+66D. (1) Every inspection certificate issued under section 66c shall be fixed to and exhibited on the motor vehicle in respect of which it is issued in such manner and subject to such conditions as may be prescribed.
 
 <!-- page 6 -->
 
@@ -130,21 +122,13 @@ exhibited on the motor vehicle in respect of which it is issued in such manner a
 
 (2) No person shall (either by writing, drawing or in any other manner) alter, deface, mutilate or add anything to any inspection certificate, nor shall any person exhibit on any motor vehicle any inspection certificate which has already been altered, defaced, multilated or added to as aforesaid, or upon which the figures or particulars have been illegible or of which the colour has become altered, by fading or otherwise, nor shall any person exhibit any colourable imitation of any such certificate.
 
-(3) Any person who contravenes
-
-<!-- marginal: this -->
-
-section shall be guilty of an offence.
+(3) Any person who contravenes this section shall be guilty of an offence.
 
 66E. (1) No person other than a person licensed to carry out inspection under this Act may inspect a motor vehicle.
 
 (2) Any person who contravenes this section shall be guilty of an offence and shall on conviction be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding two years or to both.
 
-66F. (1) A person licensed to carry out inspection under this Act shall employ persons with the necessary qualification
-
-<!-- marginal: and -->
-
-competency as prescribed in rules as examiners to carry out inspection and to issue inspection certificates.
+66F. (1) A person licensed to carry out inspection under this Act shall employ persons with the necessary qualification and competency as prescribed in rules as examiners to carry out inspection and to issue inspection certificates.
 
 (2) Any person who contravenes this section shall be guilty of an offence and shall on conviction be liable to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding one year or to both.
 
@@ -228,7 +212,9 @@ foregoing provisions, may make rules with respect to any of the following matter
 
 (c) the duration of the authorisation to demand, collect and retain the charges, fees or levy.
 
-(5) Any person authorised under subsection (3) shall—
+(5) Any person authorised under subsection
+
+(3) shall—
 
 (a) maintain such accounts, books and records in respect of the payment and collection of charges, fees or levy as the Director General may require;
 
@@ -248,9 +234,7 @@ foregoing provisions, may make rules with respect to any of the following matter
 
 . 126A. (1) An authorisation or licence issued under section 126 shall, unless sooner revoked, continue in force for such period as the Minister may determine.
 
-(2) The Minister may
-
-<!-- marginal: revoke -->
+(2) The Minister may revoke
 
 <!-- marginal: any -->
 

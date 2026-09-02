@@ -1,0 +1,130 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/9/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/9"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-9-1993",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/9/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/9/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/9/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/9/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/9/eng@/~cl_5"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Constitution (Amendment) (No. 3) Bill 1993"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/9/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/9/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Constitution (Amendment) (No. 3) Act 1993."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/9/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/9/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Federal Constitution is amended by repealing"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Clause (8) of Article 43."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/9/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/9/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/9/eng@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/9/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 54 of the Federal Constitution is amended,"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/9/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/9/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"by the Election Commission that there is a vacancy\" the words \"by the President of the Senate that there is a vacancy or by the Election Commission that there is a casual vacancy, as the case may be\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/9/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/9/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the second proviso the following new proviso: \"Provided further that, if a casual vacancy in the House of Representatives is established on a date within two years of the date Parliament 2 BILL shall, in accordance with Clause (3) of Article 55, stand dissolved, such casual vacancy shall not be filled unless the Speaker notifies the Election Commission in writing numerical strength of the party that constitutes a majority of all the members of the House of Representatives is being affected by such vacancy, in which event such vacancy shall be filled within sixty days from the date of the receipt of that notification.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/9/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/9/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Eighth Schedule to the Federal Constitution is"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "amended in section 9 by substituting for the proviso to Schedule. subsection (5) the following new proviso: \"Provided that if a casual vacancy is established on a date within two years of the date the Legislative Assembly shall, in accordance with subsection (3), stand dissolved, such casual vacancy shall not be filled unless the Speaker notifies the Election Commission in writing that the numerical strength of the party that constitutes a majority of all the members of the Legislative Assembly is being affected by such vacancy, in which event such vacancy shall be filled within sixty days from the date of the receipt of that notification.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/9/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/9/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Eleventh Schedule to the Federal Constitution"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "is amended by inserting in the first column in the place Schedule. required by the numerical order the figure \"39\" and opposite it in the second column the following: \"Construction of power of extending time— Where in any written law a time is prescribed for doing any act or taking any proceeding and power is given to a court or other authority to extend such time, unless the contrary intention appears the power may be exercised by the court or other authority although the application for the same is not made until after the expiration of the time prescribed.\". CONSTITUTION (AMENDMENT) (NO. 3)"
+      }
+    }
+  ]
+}

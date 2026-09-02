@@ -176,7 +176,9 @@ mempunyai akses, secara langsung atau tidak langsung, kepada dana institusi yang
 
 “(vi) seorang yang mempunyai atau mengawal dua puluh peratus atau lebih syer mengundi bagi suatu perbadanan yang tergolong dalam subperenggan (i) dan mana-mana saudara orang itu, atau mana-mana amanah berkaitan berserta dengan satu atau lebih orang yang tergolong dalam subperenggan (i).”; dan
 
-(d) dengan memasukkan selepas subseksyen (4) subseksyen yang berikut:
+(d) dengan memasukkan selepas subseksyen (4) subseksyen
+
+<!-- marginal: yang berikut: -->
 
 “(5) Apa-apa sebutan dalam Akta ini mengenai kuasa Menteri atau Bank untuk mengenakan atau
 
@@ -488,7 +490,9 @@ dan institusi yang ditetapkan itu hendaklah mematuhi arahan untuk menamatkan pel
 
 ### Pindaan seksyen 27
 
-25. Seksyen 27 Akta ibu dipinda dengan memotong subseksyen (2) dan (4).
+25. Seksyen 27 Akta ibu dipinda dengan memotong subseksyen (2)
+
+<!-- marginal: dan (4). -->
 
 ### Pindaan seksyen 28
 
@@ -558,7 +562,7 @@ dan institusi yang ditetapkan itu hendaklah mematuhi arahan untuk menamatkan pel
 
 31. Akta ibu dipinda dengan memasukkan selepas seksyen 33 Bahagian yang berikut:
 
-“bahagian IIIa
+## “BAHAGIAN IIIA
 
 ## PERNIAGAAN KEWANGAN ISLAM
 
@@ -916,7 +920,7 @@ dan saraan dan perbelanjaan yang berhubungan dengan pelantikan itu hendaklah dit
 
 41. Akta ibu dipinda dengan memasukkan selepas seksyen 42 Bahagian yang berikut:
 
-“bahagian IVa
+## “BAHAGIAN IVA
 
 ## PELAKUAN PERNIAGAAN DAN PERLINDUNGAN PENGGUNA
 
@@ -1626,7 +1630,9 @@ mahkamah mengenai pelupusan harta, rekod, laporan, dokumen, perkakas, kelengkapa
 
 (2) Apa-apa perintah atau notis yang diberikan di bawah Akta ini hendaklah, jika dikehendaki untuk disampaikan kepada suatu pertubuhan perbadanan atau pertubuhan yang tidak diperbadankan, disampaikan dengan menghantar serah perintah atau notis itu kepada seorang pegawai atau ejen pertubuhan perbadanan atau pertubuhan yang tidak diperbadankan itu di alamat berdaftarnya atau alamat perniagaannya.
 
-(3) Sekiranya pegawai yang melaksanakan penyampaian apa-apa perintah atau notis di bawah subseksyen (1) atau (2) berpuas hati, atas sebab yang hendaklah direkodkan olehnya secara bertulis, bahawa perintah atau notis itu tidak dapat disampaikan dengan cara yang diperuntukkan dalam subseksyen (1) atau (2), perintah atau notis itu boleh disampaikan dengan melekatkan perintah atau notis itu pada bahagian premis yang mudah dilihat—
+(3) Sekiranya pegawai yang melaksanakan penyampaian apa-apa perintah atau notis di bawah subseksyen (1) atau (2) berpuas hati, atas sebab yang hendaklah direkodkan olehnya secara bertulis, bahawa perintah atau notis itu tidak dapat disampaikan dengan cara yang diperuntukkan dalam subseksyen
+
+(1) atau (2), perintah atau notis itu boleh disampaikan dengan melekatkan perintah atau notis itu pada bahagian premis yang mudah dilihat—
 
 (a) yang individu bagi perintah atau notis itu diniatkan diketahui terakhir tinggal, terakhir bekerja atau terakhir menjalankan perniagaan; atau
 
@@ -1712,7 +1718,7 @@ keterangan dan diberi perhatian dan pertimbangan yang wajar dalam mana-mana perb
 
 93. Akta ibu dipinda dengan memasukkan selepas seksyen 106 Bahagian yang berikut:
 
-“bahagian VIIIa
+## “BAHAGIAN VIIIA
 
 ## TINDAKAN PENTADBIRAN
 
@@ -1838,7 +1844,7 @@ suatu tindakan di bawah subseksyen (3) boleh diambil terhadap pertubuhan perbada
 
 (3) Jawatankuasa Semakan Penalti Monetari boleh memutuskan untuk mengesahkan keputusan Bank atau menghendaki Bank untuk mempertimbangkan semula dan mencapai suatu keputusan mengikut dapatan Jawatankuasa itu.
 
-bahagian VIIIb
+## BAHAGIAN VIIIB
 
 ## TINDAKAN SIVIL
 
@@ -1980,9 +1986,7 @@ dan kesalahan itu telah mengakibatkan, atau menyebabkan, atau berikutan dengan b
 
 ### Tiada aku janji tentang ganti rugi
 
-### 106j.
-
-Jika Bank membuat suatu permohonan bagi suatu perintah di bawah subseksyen 106f(1) atau 106g(1), mahkamah tidak boleh, sebagai suatu syarat bagi perintah itu diberikan, menghendaki apa-apa aku janji tentang ganti rugi yang kena diberikan oleh atau bagi pihak Bank.
+106J. Jika Bank membuat suatu permohonan bagi suatu perintah di bawah subseksyen 106f(1) atau 106g(1), mahkamah tidak boleh, sebagai suatu syarat bagi perintah itu diberikan, menghendaki apa-apa aku janji tentang ganti rugi yang kena diberikan oleh atau bagi pihak Bank.
 
 ### Tindakan lain
 
@@ -2066,7 +2070,7 @@ kepada Mahkamah Tinggi bagi suatu perintah di bawah subseksyen (4) melalui saman
 
 <!-- page 85 -->
 
-### Seksyen baru 114a, 114b, 114c dan 114d
+## SEKSYEN BARU 114A, 114B, 114C DAN 114D
 
 99. Akta ibu dipinda dengan memasukkan selepas seksyen 114 seksyen yang berikut:
 
@@ -2078,9 +2082,7 @@ kepada Mahkamah Tinggi bagi suatu perintah di bawah subseksyen (4) melalui saman
 
 ### kepada Bank
 
-### 114b. (1)
-
-Jika seseorang menzahirkan secara suci hati kepada Bank pengetahuannya atau kepercayaannya atau apa-apa dokumen atau maklumat bahawa suatu pelanggaran, kemungkiran atau ketidakpatuhan telah dilakukan atau mungkin akan dilakukan di bawah Akta ini—
+114B. (1) Jika seseorang menzahirkan secara suci hati kepada Bank pengetahuannya atau kepercayaannya atau apa-apa dokumen atau maklumat bahawa suatu pelanggaran, kemungkiran atau ketidakpatuhan telah dilakukan atau mungkin akan dilakukan di bawah Akta ini—
 
 (a) orang itu tidak bertanggungan bagi suatu kemungkiran obligasi kerahsiaan yang dikenakan oleh mana-mana undang-undang, kontrak atau kaedah-kaedah amalan profesional;
 
@@ -2354,13 +2356,15 @@ Islam 2013, dan dalam pemakaian mana-mana peruntukan Akta ini bagi mana-mana ora
 
 ### Pindaan Jadual
 
-113. Jadual kepada Akta ibu dipinda dengan menggantikan tajuk “Jadual” dengan tajuk “Jadual Pertama”.
+113. Jadual kepada Akta ibu dipinda dengan menggantikan tajuk
+
+## “JADUAL” DENGAN TAJUK “JADUAL PERTAMA”.
 
 ### Jadual baru Kedua, Ketiga dan Keempat
 
 114. Akta ibu dipinda dengan memasukkan selepas Jadual Pertama Jadual yang berikut:
 
-“Jadual Kedua
+## “JADUAL KEDUA
 
 [Subseksyen 42d(1)]
 
@@ -2386,7 +2390,7 @@ Islam 2013, dan dalam pemakaian mana-mana peruntukan Akta ini bagi mana-mana ora
 
 6. Berpakat sulit dengan mana-mana orang lain untuk menetapkan atau mengawal ciri atau terma apa-apa perkhidmatan atau produk kewangan yang memudaratkan mana-mana pengguna kewangan.
 
-## Jadual Ketiga
+## JADUAL KETIGA
 
 [Perenggan 106a(3)(b)]
 
@@ -2510,17 +2514,23 @@ seksyen 66
 
 56. perenggan 116(1)(b) atau subseksyen 116(4)
 
-## Jadual KeemPat
+## JADUAL KEEMPAT
 
 [Seksyen 120]
 
 ## PENZAHIRAN YANG DIBENARKAN
 
-(1) (2) Maksud bagi atau hal keadaan yang Orang yang kepadanya dokumen atau dokumen atau maklumat pelanggan maklumat pelanggan boleh dizahirkan boleh dizahirkan
+(1)
+
+<!-- marginal: (2) -->
+
+Maksud bagi atau hal keadaan yang Orang yang kepadanya dokumen atau dokumen atau maklumat pelanggan maklumat pelanggan boleh dizahirkan boleh dizahirkan
 
 1. Dokumen atau maklumat yang Mana-mana orang yang dibenarkan dibenarkan secara bertulis oleh oleh pelanggan atau wasi, pentadbir pelanggan, wasi atau pentadbir atau wakil diri yang sah di sisi undang- pelanggan, atau dalam hal pelanggan undang, mengikut mana-mana yang yang tidak upaya, mana-mana wakil berkenaan. diri yang lain yang sah di sisi undang- undang.
 
-2. Berkaitan dengan suatu permohonan Mana-mana orang
+2. Berkaitan dengan suatu permohonan Mana-mana
+
+<!-- marginal: orang -->
 
 <!-- marginal: yang -->
 
@@ -2564,9 +2574,15 @@ mahkamah yang dibuat oleh suatu dikehendaki dibuat di bawah perintah mahkamah ya
 
 <!-- page 102 -->
 
-(1) (2) Maksud bagi atau hal keadaan yang Orang yang kepadanya dokumen atau dokumen atau maklumat pelanggan maklumat pelanggan boleh dizahirkan boleh dizahirkan
+(1)
 
-7. Pematuhan suatu perintah atau Pegawai penyiasat yang diberi kuasa di permintaan yang dibuat oleh suatu bawah undang-undang bertulis untuk agensi penguatkuasa di Malaysia di menyiasat atau mana-mana pegawai bawah mana-mana undang-undang yang diberi kuasa untuk menjalankan bertulis bagi maksud suatu penyiasatan pendakwaan atau
+<!-- marginal: (2) -->
+
+Maksud bagi atau hal keadaan yang Orang yang kepadanya dokumen atau dokumen atau maklumat pelanggan maklumat pelanggan boleh dizahirkan boleh dizahirkan
+
+7. Pematuhan suatu perintah atau Pegawai penyiasat yang diberi kuasa di permintaan yang dibuat oleh suatu bawah undang-undang bertulis untuk agensi penguatkuasa di Malaysia di menyiasat atau mana-mana pegawai bawah mana-mana undang-undang yang diberi kuasa untuk menjalankan bertulis bagi maksud suatu penyiasatan pendakwaan
+
+<!-- marginal: atau -->
 
 <!-- marginal: mana-mana -->
 

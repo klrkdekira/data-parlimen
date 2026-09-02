@@ -1,0 +1,1219 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-30-2023",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_36"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Kesatuan Sekerja (Pindaan) 2023"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_10__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_10__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 25a Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_10__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_10__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_10__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_10__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (a) dengan perenggan yang berikut: “(a) in the case of a trade union of workmen, without first obtaining at least more than one-half of the votes by secret ballot in favour of the proposed strike of at least sixty per centum of its total number of members who are entitled to vote and in respect of whom the strike is to be called; and in the case of a trade union of employers, without first obtaining at least more than one-half of the votes by secret ballot in favour of the proposed lock-out of at least sixty per centum of its total number of members who are entitled to vote;”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_10__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_10__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan menggantikan perkataan “seven days” dengan perkataan “seven working days”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “two thousand ringgit, or to imprisonment for a term not exceeding one year, or to both, and a further fine of one hundred ringgit” dengan perkataan “five thousand ringgit and a further fine of two hundred ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_10__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (7) subseksyen yang berikut: “(8) For the purposes of this section, “working day” means a calendar day but excludes weekends and public holidays applicable at the Federal Territory or State where the registered office of the trade union is situated.”. Pindaan seksyen 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_11__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_11__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_11__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_11__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_11__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 26 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan menggantikan perkataan “of minors” dengan perkataan “of trade union”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “under the age of twenty-one, but above the age of sixteen” dengan perkataan “who has attained the age of fifteen years, but under the age of twenty-one years”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_11__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1a), dengan menggantikan perkataan “employed or engaged in any establishment, trade, occupation or industry in respect of which the trade union is registered” dengan perkataan “a workman or an employer”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_11__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1b) dengan subseksyen yang berikut: “(1b) Notwithstanding subsection (1a)— (a) no workman or employer shall be accepted as a member of a trade union except as provided in the rules of the trade union; and (b) any workman who has been dismissed, discharged, retrenched, or has retired may be retained as a member of a trade union subject to the rules of the trade union.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_11__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1b) subseksyen yang berikut: “(1c) No membership of a trade union shall be confined to a particular race, religion or nationality.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_11__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(2a) A member of a trade union from amongst the workmen who has been dismissed, discharged, retrenched, or has retired shall not be entitled to vote on strike and all matters relating thereto.”. Pindaan seksyen 28"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_12__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_12__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_12__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 28(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c), dengan menggantikan perkataan “subparagraph 15(1)(b)(iv), (v) or (vi)” dengan perkataan “subparagraph 15(1)(b)(vi) or paragraph 15(1)(d)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (c1) dengan perenggan yang berikut: “(ca) he is an office-bearer of a political party;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_12__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (d), dengan memotong perkataan “or of any offence which in the opinion of the Director General renders him unfit to be an officer of a trade union”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_12__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam proviso, dengan menggantikan perkataan “paragraphs (a) and (b)” dengan perkataan “paragraph (a)”. Pindaan seksyen 29"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_13__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 29 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “(1) A registered trade union or registered federation of trade unions may, subject to subsection (2) and the rules of such trade union or federation of trade unions, employ any person as an employee of the registered trade union or of the registered federation of trade unions.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_13__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_13__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_13__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_13__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “subsection (1) or”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_13__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_13__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “imprisonment for a term not exceeding one year, or to a fine not exceeding two thousand ringgit, or to both” dengan perkataan “a fine not exceeding five thousand ringgit”. Pindaan seksyen 31"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_14__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 31 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “(1) Subject to section 34, any registered trade union may, with the consent of more than one-half of its members or delegates, change its name.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan memasukkan selepas perkataan “its members” perkataan “or delegates”. Pindaan seksyen 32"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 32 Akta ibu dipinda dengan memotong perkataan “whose members are employed within similar trades, occupations or industries”. Pindaan seksyen 33"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 33(1)(a) Akta ibu dipinda dengan memotong perkataan “whose members are employed within similar trades, occupations or industries”. Pindaan seksyen 34"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 34(2) Akta ibu dipinda dengan menggantikan perkataan “undesirable” dengan perkataan “would promote feelings of ill-will and hostility between different races, religions or nationalities”. Pindaan seksyen 38"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_18__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_18__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 38(3) Akta ibu dipinda dalam proviso—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “increase of members’ subscription” dengan perkataan “imposition of levy”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “more than one-half” perkataan “of the votes returned”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_18__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “have voted in favour of” dengan perkataan “are in favour of”. Pindaan seksyen 40"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 40(6) Akta ibu dipinda dengan menggantikan perkataan “this Act or any other written law” dengan perkataan “this section or section 25a or any of the provisions of Part IX of the Industrial Relations Act 1967”. Pindaan seksyen 49"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Kesatuan Sekerja (Pindaan) 2023."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta dan Menteri boleh menetapkan tarikh yang berlainan bagi permulaan kuat kuasa peruntukan yang berlainan Akta ini. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Kesatuan Sekerja 1959 [Akta 262], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 49(3) Akta ibu dipinda dengan menggantikan perkataan “imprisonment for a term not exceeding two years, or to a fine not exceeding two thousand ringgit or to both” dengan perkataan “a fine not exceeding ten thousand ringgit”. Pindaan seksyen 54"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 54(3) Akta ibu dipinda dengan menggantikan perkataan “three thousand ringgit, or to imprisonment for a term not exceeding three years, or to both” dengan perkataan “five thousand ringgit”. Pindaan seksyen 56"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 56(5) Akta ibu dipinda dengan menggantikan perkataan “one thousand ringgit, or to imprisonment for a term not exceeding six months, or to both” dengan perkataan “five thousand ringgit”. Pindaan seksyen 57"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 57(4) Akta ibu dipinda dengan menggantikan perkataan “one thousand ringgit, or to imprisonment for a term not exceeding six months, or to both” dengan perkataan “five thousand ringgit”. Pindaan seksyen 61"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 61 Akta ibu dipinda dengan menggantikan perkataan “two hundred ringgit, or to imprisonment for a term not exceeding three months, or to both” dengan perkataan “five thousand ringgit”. Pindaan seksyen 62"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_25__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_25__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 62 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_25__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “one thousand ringgit” dengan perkataan “five thousand ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_25__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “one thousand ringgit, or to imprisonment for a term not exceeding six months, or to both” dengan perkataan “five thousand ringgit”. SEKSYEN BAHARU 63A, 63B, 63C, 63D DAN 63E"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 63 seksyen yang berikut: “Power of enforcement 63a. The Director General shall have all the powers necessary to investigate into any offence or enforce any provision under this Act or any regulations made under this Act. Enforcement officer 63b. (1) The Director General may appoint such number of enforcement officers from amongst the officers appointed under section 4 to perform such duties of the Director General relating to investigation and enforcement under this Act or any regulations made under this Act. (2) There shall be issued to each enforcement officer an authority card to be signed by the Director General. (3) When such enforcement officer exercises any of the powers under this Act or any regulations made under this Act, he shall, on demand, produce to the person against whom the power is being exercised the authority card issued to him under subsection (2). Powers of examination 63c. (1) The Director General in carrying out an investigation into any offence under this Act or any regulations made under this Act may by notice in writing, require the attendance of any person acquainted with the facts and circumstances of a case to appear before him for the purpose of being examined orally by the Director General in relation to any matter which may, in the opinion of the Director General, assist in the investigation. (2) A person to whom a written notice under subsection (1) has been given shall comply with the terms of such written notice and shall attend in accordance with the terms of the written notice to be examined, and shall continue to so attend from day to day as directed by the Director General until the examination is completed, and shall during such examination disclose all information which is within his knowledge, or which is available to him, or which is capable of being obtained by him, in respect of the matter in relation to which he is being examined. (3) An examination under subsection (1) shall be reduced into writing by the Director General and shall be read to and signed by the person being examined, and where such person refuses to sign the statement reduced into writing, the Director General shall endorse thereon under his hand the fact of such refusal and the reasons thereof, if any, stated by the person examined. (4) Any statement made by any person under this section shall be admissible as evidence in any proceedings in court under this Act against the person or any other person. Production, etc., of article or document 63D. In the course of investigation or examination under this Part, the Director General may— (a) require any such person to produce to him such article or document; and (b) inspect, make copies of, take extracts from, remove and detain any article or document. Seizure of article or document 63e. Where the Director General in carrying out an investigation under this Act or any regulations made under this Act, has reason to believe that an offence has been committed against this Act or regulations made under this Act, he may seize any article or document produced under section 63d and such article and document shall be admissible in evidence in any proceedings in court under this Act against the person or any other person.”. Seksyen baharu 65a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 65 seksyen yang berikut: “Liability of president, secretary, treasurer etc., of trade union 65a. Where an offence under this Act or any regulations made under this Act has been committed by a trade union, any person who at the time of commission of the offence was a president, secretary, treasurer or other officer of the trade union or person purporting to act on the instruction of the president, secretary, treasurer or such other officer of the trade union— (a) may be charged severally or jointly in the same proceedings with the trade union; and (b) if the trade union is found guilty of the offence, shall be deemed to be guilty of that offence and shall be liable to the same fine or penalty as an individual unless having regard to the nature of his functions in that capacity and to all circumstances, he proves— (i) that the offence was committed without his knowledge; and (ii) that the offence was committed without his consent or connivance and that he had taken all reasonable precautions and exercised due diligence to prevent the commission of the offence.”. Pindaan seksyen 71"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_28__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_28__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 71(4) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_28__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “may be arrested and detained in custody” dengan perkataan “shall be guilty of an offence”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_28__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “five hundred ringgit” dengan perkataan “five thousand ringgit”. Pindaan seksyen 71a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_29__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_29__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 71a Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_29__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_29__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_29__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_29__para_a__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_29__para_a__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_29__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_29__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perenggan (a);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_29__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_29__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c), dengan memotong perkataan “paragraph 15(2)(b) or”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_29__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_29__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perenggan (e); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_29__para_a__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_29__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (l), dengan menggantikan perkataan “subsection 76c(1)” dengan perkataan “section 76c”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_29__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “An appeal” dengan perkataan “Except in matters relating to cancellation or withdrawal of certificate of registration of trade union, an appeal”. Seksyen baharu 71b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dalam takrif ‘ “trade union” or “union” ’, dengan memotong perenggan (a); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (2). Pindaan seksyen 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 7 Akta ibu dipinda dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: “(1 a) For the purpose of maintaining the register, the Director General may require any officer of a registered trade union to produce such document or provide such information to the Director General in respect of the officer’s registered trade union as the Director General may specify, and the officer shall comply with the requirement of the Director General.”. Pindaan seksyen 8"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 71a seksyen yang berikut: “Admissibility of electronic record 71b. (1) Notwithstanding any other written law, where in any proceedings under this Act an electronic record of— (a) any prescribed form is furnished by way of electronic transmission; or (b) any other document is stored or received by or communicated to the Director General in an electronic medium or by way of electronic transmission, the electronic record or the copy or print-out of that electronic record shall be admissible as evidence of the facts stated or contained therein: Provided that the electronic record or the copy or print-out of that electronic record is— (i) certified by the Director General to contain all or any information furnished, stored, communicated or received in an electronic medium or by way of electronic transmission under this section; or (ii) otherwise authenticated in the manner provided in the Evidence Act 1950 [Act 56] for authentication of documents produced by computer. (2) Where the electronic record of any form prescribed under this Act or any other document, or a copy or print-out of that electronic record is admissible under subsection (1), it shall be presumed, until the contrary is proved, that the record or copy or print-out of that record accurately reproduces the content of that form or document. (3) For the purposes of this Act, “electronic medium” includes data, text, image or any other information stored, received or communicated by means of electronic, magnetic, optical, imaging or any other data processing device.”. Pindaan seksyen 72"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_31__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_31__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_31__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 72 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_31__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “whose members are employed in a similar trade, occupation or industry”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_31__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “consent of the members” perkataan “or delegates”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_31__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “Director General and all members” perkataan “or delegates”. Penggantian seksyen 74"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 74 dengan seksyen yang berikut: “Affiliation with registered federation of trade unions 74. (1) A registered trade union may affiliate with a registered federation of trade unions if a resolution has been passed by majority of votes taken at a general meeting or a meeting of delegates, as the case may be, and upon the acceptance by the federation of such affiliation by notice. (2) The registered trade union shall file with the Director General the notice of resolution to affiliate together with the notice of acceptance by the federation referred to in subsection (1), within one month from the date of the notice of acceptance by the federation. (3) Upon the filing of both the notices under subsection (2), the Director General shall, if he is satisfied that the provisions of this section have been complied with, enter the fact of such affiliation in the register, and thereupon the trade union shall be deemed to be a member of the federation from the date of acceptance of such affiliation by the federation.”. Pindaan seksyen 76a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_33__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_33__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 76a Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_33__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (1)(b), dengan memasukkan selepas perkataan “that the consent of the members” perkataan “or delegates”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_33__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (2)(a), dengan memasukkan selepas perkataan “if the consent of the members” perkataan “or delegates”. Pindaan seksyen 76c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_34__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_34__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 76c Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_34__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_34",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “the Director General is satisfied that”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_34__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_34",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “has acted or is acting in contravention of any provision of this Act or any other written law or any condition imposed by him, he may” dengan perkataan “has been convicted of any of the offences specified in the Fourth Schedule, the Director General may”. Jadual baharu Keempat"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas Jadual Ketiga jadual yang berikut: “FOURTH SCHEDULE [Paragraph 15(1)(d), subsection 15(1a) and section 76c] Offences under Chapters VI, VIa and VIb of the Penal Code [Act 574]”. Kecualian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_36__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_36__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_36__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_36__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_36",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa permohonan yang dibuat di bawah Akta ibu sebaik sebelum tarikh permulaan kuat kuasa Akta ini dan belum selesai di bawah Akta ibu hendaklah, pada tarikh permulaan kuat kuasa Akta ini, terus diuruskan di bawah Akta ibu seolah-olah Akta ibu tidak dipinda oleh Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_36__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_36",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa pandangan, perintah, perisytiharan, penolakan, pembatalan, penarikan balik, arahan atau keputusan, yang dibuat, dikeluarkan, diberikan atau dikuatkuasakan di bawah Akta ibu sebaik sebelum tarikh permulaan kuat kuasa Akta ini hendaklah, pada tarikh permulaan kuat kuasa Akta ini, terus berkuat kuasa dan berkesan sehingga dipinda, dimansuhkan, ditamatkan, dibatalkan atau digantikan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_36__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_36",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa tindakan, rayuan atau prosiding yang dimulakan di bawah Akta ibu sebaik sebelum tarikh permulaan kuat kuasa Akta ini dan belum selesai di bawah Akta ibu hendaklah, pada tarikh permulaan kuat kuasa Akta ini, diteruskan seolah-olah Akta ibu tidak dipinda oleh Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 8 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “one month” dengan perkataan “six months”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dalam proviso, dengan menggantikan perkataan “six months” dengan perkataan “twelve months”. Pindaan seksyen 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 9(1) Akta ibu dipinda dengan menggantikan perkataan “within any particular establishment, trade, occupation or industry, and” dengan perkataan “of such workmen or employers”. Pindaan seksyen 12"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_6__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 12 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (2);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_6__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_6__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_6__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_6__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perenggan (a), (b) dan (c); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_6__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_6__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (e)(ii), dengan menggantikan perkataan “undesirable” dengan perkataan “would promote feelings of ill-will and hostility between different races, religions or nationalities”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: “(4) Where the Director General refuses to register a trade union under this section, he shall inform the trade union in writing of his refusal and the grounds for such refusal.”. Pindaan seksyen 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 15 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7__para_a__subpara_i__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7__para_a__subpara_i__subpara_B",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7__para_a__subpara_i__subpara_C",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7__para_a__subpara_i__subpara_D",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7__para_a__subpara_i__subpara_E"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7__para_a__subpara_i__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7__para_a__subpara_i",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subperenggan (ii);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7__para_a__subpara_i__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7__para_a__subpara_i",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subperenggan (iii) dengan subperenggan yang berikut: “(iii) that the membership of its executive is in contravention of paragraph 28(1)(c) or (d);”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7__para_a__subpara_i__subpara_C",
+      "@type": "akn:subparagraph",
+      "eli:number": "C",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7__para_a__subpara_i",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subperenggan (iv) dan (v);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7__para_a__subpara_i__subpara_D",
+      "@type": "akn:subparagraph",
+      "eli:number": "D",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7__para_a__subpara_i",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subperenggan (vi) dengan subperenggan yang berikut: “(vi) that the funds of the trade union are or have been expended for purposes prejudicial to or incompatible with the security of the Federation or any part thereof or public order, including for purposes which contravene subsection 25a(2) or section 52; or”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7__para_a__subpara_i__subpara_E",
+      "@type": "akn:subparagraph",
+      "eli:number": "E",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7__para_a__subpara_i",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (vii), dengan memotong perkataan “or” di hujung subperenggan itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c), dengan menggantikan noktah di hujung perenggan itu dengan perkataan “; or”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (c) perenggan yang berikut: “(d) if the trade union has been convicted of any of the offences specified in the Fourth Schedule.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: “(1a) The Minister may by order add to, delete from or amend the Fourth Schedule.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (2);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2a), dengan memotong perkataan “or paragraph (2)(a)”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (2b). Pemotongan seksyen 17"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 17. Pindaan seksyen 18"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/30/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 18(8) Akta ibu dipinda dengan menggantikan perkataan “three thousand ringgit, or to imprisonment for a term not exceeding three years, or to both” dengan perkataan “ten thousand ringgit”. Pindaan seksyen 25a"
+      }
+    }
+  ]
+}

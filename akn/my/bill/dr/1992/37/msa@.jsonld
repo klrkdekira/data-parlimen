@@ -83,9 +83,13 @@
       "@type": "akn:clause",
       "eli:number": "3",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/37/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan, selepas"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu adalah dipinda dengan memasukkan, selepas baru 27A. sahaja seksyen 27, seksyen baru 27A yang berikut: \"Bahagian 27A. (1) Bahagian ini tidaklah boleh terpakai VI tidak bagi mana-mana orang yang memegang leser. lerpakai bagi di bawah Akta Bekalan Gas 1992 untuk pemegang pembekalan gas kepada pengguna-pengguna lesen di bawah melalui talian paip dari tangki atau silinder Akta penstoran yang digunakan khusus bagi Bekalan penyeliratan gas ke mana-mana radas di mana- Gas 1992 Akta mana premis. (2) Bagi maksud seksyen ini, istilah \"gas\", \"pengguna\" dan \"talian paip\" hendaklah mempunyai makna yang sama yang diberikan kepadanya masing-masing oleh Akta Bekalan Gas 1992.\"."
+        "@value": "sahaja seksyen 27, seksyen baru 27A yang berikut: \"Bahagian 27A. (1) Bahagian ini tidaklah boleh terpakai VI tidak bagi mana-mana orang yang memegang leser. lerpakai bagi di bawah Akta Bekalan Gas 1992 untuk pemegang pembekalan gas kepada pengguna-pengguna lesen di bawah melalui talian paip dari tangki atau silinder Akta penstoran yang digunakan khusus bagi Bekalan penyeliratan gas ke mana-mana radas di mana- Gas 1992 Akta mana premis. (2) Bagi maksud seksyen ini, istilah \"gas\", \"pengguna\" dan \"talian paip\" hendaklah mempunyai makna yang sama yang diberikan kepadanya masing-masing oleh Akta Bekalan Gas 1992.\"."
       }
     }
   ]

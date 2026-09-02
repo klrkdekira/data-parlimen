@@ -4,11 +4,11 @@ FINANCE (No. 2) BILL 2010
 
 ARRANGEMENT oF CLAUSES
 
-## Chapter I
+## CHAPTER I
 
 1. Short title 2. Amendment of Acts
 
-## Chapter II
+## CHAPTER II
 
 AMENDMENTS To THE INCoME TAX ACT 1967
 
@@ -46,11 +46,13 @@ AMENDMENTS To THE INCoME TAX ACT 1967
 
 25. Amendment of Schedule 7a
 
+<!-- marginal: JW516460 BI.indd 1 -->
+
 <!-- marginal: 10/15/10 3:39:43 AM -->
 
 <!-- page 2 -->
 
-## Chapter III
+## CHAPTER III
 
 AMENDMENTS To THE STAMP ACT 1949
 
@@ -62,7 +64,7 @@ AMENDMENTS To THE STAMP ACT 1949
 
 29. Amendment of Fifth Schedule
 
-## Chapter IV
+## CHAPTER IV
 
 AMENDMENTS To THE PETRoLEUM (INCoME TAX) ACT 1967
 
@@ -72,7 +74,7 @@ AMENDMENTS To THE PETRoLEUM (INCoME TAX) ACT 1967
 
 32. Amendment of section 50
 
-## Chapter V
+## CHAPTER V
 
 AMENDMENTS To THE REAL PRoPERTY GAINS TAX ACT 1976
 
@@ -84,7 +86,7 @@ AMENDMENTS To THE REAL PRoPERTY GAINS TAX ACT 1976
 
 36. Amendment of Schedule 2
 
-## Chapter VI
+## CHAPTER VI
 
 AMENDMENTS To THE FINANCE ACT 2007
 
@@ -94,7 +96,7 @@ AMENDMENTS To THE FINANCE ACT 2007
 
 39. Amendment of section 49
 
-## Chapter VII
+## CHAPTER VII
 
 AMENDMENTS To THE FINANCE ACT 2009
 
@@ -116,7 +118,7 @@ An Act to amend the Income Tax Act 1967, the Stamp Act 1949, the Petroleum (Inco
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Chapter I
+## CHAPTER I
 
 ## PRELIMINARY
 
@@ -128,11 +130,13 @@ ENACTED by the Parliament of Malaysia as follows:
 
 2. The Income Tax Act 1967 [Act 53], the Stamp Act 1949 [Act 378], the Petroleum (Income Tax) Act 1967 [Act 543], the Real Property Gains Tax Act 1976 [Act 169], the Finance Act 2007 [Act 683] and the Finance Act 2009 [Act 693] are amended in the manner specified in Chapters II, III, IV, V, VI and VII respectively.
 
+<!-- marginal: JW516460 BI.indd 3 -->
+
 <!-- marginal: 10/15/10 3:39:43 AM -->
 
 <!-- page 4 -->
 
-## Chapter II
+## CHAPTER II
 
 AMENDMENTS To THE INCoME TAX ACT 1967
 
@@ -190,6 +194,8 @@ AMENDMENTS To THE INCoME TAX ACT 1967
 
 5. The principal Act is amended by deleting section 6C.
 
+<!-- marginal: JW516460 BI.indd 5 -->
+
 <!-- marginal: 10/15/10 3:39:43 AM -->
 
 <!-- page 6 -->
@@ -242,6 +248,8 @@ Provided that the proceeds from the issuance of the bond that relates to that am
 
 (ii) where such tax is deducted or such amount is paid after the due date for the furnishing of a return for a year of assessment that relates to such payment, the tax or amount so paid
 
+<!-- marginal: JW516460 BI.indd 7 -->
+
 <!-- marginal: 10/15/10 3:39:43 AM -->
 
 <!-- page 8 -->
@@ -265,6 +273,8 @@ shall not prejudice the imposition of penalty under subsection 113(2) if a deduc
 (i) in the case of medical treatment or special needs, a receipt on the amount expended; or
 
 (ii) in the case of carer, a written certification or receipt from, or work permit of, the carer:
+
+<!-- marginal: JW516460 BI.indd 8 -->
 
 <!-- marginal: 10/15/10 3:39:43 AM -->
 
@@ -297,6 +307,8 @@ Provided that for the purpose of this paragraph, “carer” shall not include t
 14. Subsection 60h(5) of the principal Act is amended by inserting after the definition of “closed-end fund company” the following definition:
 
 ‘ “dividend” is deemed to include income distributed by a unit trust;’.
+
+<!-- marginal: JW516460 BI.indd 9 -->
 
 <!-- marginal: 10/15/10 3:39:43 AM -->
 
@@ -353,6 +365,8 @@ Provided that, where the direction is made before the ninth month of the basis p
 (b) by inserting after subsection (4) the following subsection:
 
 “(4a) Any amount of excess in respect of tax payable for a year of assessment which is to be refunded to a person under subsection (1) may be utilized by the Director General for the payment of any other amount of tax which is due and payable (including any amount of instalments which are due
+
+<!-- marginal: JW516460 BI.indd 11 -->
 
 <!-- marginal: 10/15/10 3:39:44 AM -->
 
@@ -412,11 +426,13 @@ then, so long as the order remains in force, notwithstanding anything in any wri
 
 25. Schedule 7a of the principal Act is amended in subparagraph 7(a) by substituting for the words “the period” the words “the basis period”.
 
+<!-- marginal: JW516460 BI.indd 13 -->
+
 <!-- marginal: 10/15/10 3:39:44 AM -->
 
 <!-- page 14 -->
 
-## Chapter III
+## CHAPTER III
 
 AMENDMENTS To THE STAMP ACT 1949
 
@@ -444,7 +460,7 @@ AMENDMENTS To THE STAMP ACT 1949
 
 <!-- page 15 -->
 
-## Chapter IV
+## CHAPTER IV
 
 AMENDMENTS To THE PETRoLEUM (INCoME TAX) ACT 1967
 
@@ -468,11 +484,13 @@ AMENDMENTS To THE PETRoLEUM (INCoME TAX) ACT 1967
 
 (5) Where amount of excess in respect of a person is ascertained in accordance with subsection 111(4a) of the Income Tax Act 1967 or subsection 24(7a) of the Real Property Gains Tax Act 1976 such excess shall be applied for the payment of tax which is due and payable (including any amount of instalments which are due and payable) by that person under this Act.”.
 
+<!-- marginal: JW516460 BI.indd 15 -->
+
 <!-- marginal: 10/15/10 3:39:44 AM -->
 
 <!-- page 16 -->
 
-## Chapter V
+## CHAPTER V
 
 AMENDMENTS To THE REAL PRoPERTY GAINS TAX ACT 1976
 
@@ -508,7 +526,7 @@ of tax which is due and payable (including any amount of instalments which are d
 
 36. Schedule 2 to the principal Act is amended in subparagraph 16(a) by inserting after the word “Government” wherever appearing the words “or a State Government”.
 
-## Chapter VI
+## CHAPTER VI
 
 AMENDMENTS To THE FINANCE ACT 2007
 
@@ -528,11 +546,13 @@ AMENDMENTS To THE FINANCE ACT 2007
 
 “(4) Any debt due under this section shall be recoverable as if it were tax due and payable under the principal Act.”.
 
+<!-- marginal: JW516460 BI.indd 17 -->
+
 <!-- marginal: 10/15/10 3:39:44 AM -->
 
 <!-- page 18 -->
 
-## Chapter VII
+## CHAPTER VII
 
 AMENDMENTS To THE FINANCE ACT 2009
 
@@ -587,6 +607,8 @@ This amendment is deemed to have come into operation on 9 April 2009.
 5. Clause 8 seeks to amend section 34C of Act 53. The proposed amendment seeks to provide that in a case where discount from the issuance of bond is incurred as an expense to the company and the expenses could not be given in full to the source of that discount, such expenses may be deducted from the gross income of that company from any source consisting of a business. However, the proceeds from the issuance of such bond must be used wholly for the production of gross income from the source consisting of a business and the bond is not the stock in trade of such company.
 
 This amendment has effect for the year of assessment 2011 and subsequent years of assessment.
+
+<!-- marginal: JW516460 BI.indd 19 -->
 
 <!-- marginal: 10/15/10 3:39:44 AM -->
 
@@ -647,6 +669,8 @@ This amendment commences on the coming into operation of this Act.
 18. Clause 24 seeks to amend paragraph 16 of Schedule 6 to Act 53 to provide that the exemption under that paragraph is extended to widowers.
 
 This amendment has effect for the year of assessment 2011 and subsequent years of assessment.
+
+<!-- marginal: JW516460 BI.indd 21 -->
 
 <!-- marginal: 10/15/10 3:39:44 AM -->
 
@@ -711,6 +735,8 @@ AMENDMENTS To THE FINANCE ACT 2009
 29. Clauses 41 and 42 seek to introduce new subsections 48(5) and 49(5) into Act 693 to provide that any debt under sections 48 and 49 of Act 693 shall be deemed to be tax due and payable for the purpose of recovery under Act 53.
 
 These amendments are deemed to have come into operation on 9 January 2009.
+
+<!-- marginal: JW516460 BI.indd 23 -->
 
 <!-- marginal: 10/15/10 3:39:44 AM -->
 

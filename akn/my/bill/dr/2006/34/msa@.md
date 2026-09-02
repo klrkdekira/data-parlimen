@@ -12,13 +12,49 @@ D.R. 34/2006
 
 ## PERMULAAN
 
-1. Tajuk ringkas 2. Pindaan Akta
+1. Tajuk ringkas
+
+2. Pindaan Akta
 
 ## BAB II
 
 ## PINDAAN KEPADA AKTA CUKAI PENDAPATAN 1967
 
-3. Permulaan kuat kuasa pindaan kepada Akta Cukai Pendapatan 1967 4. Pindaan seksyen 2 5. Pindaan seksyen 6 6. Pindaan seksyen 6A 7. Pemotongan seksyen 6B 8. Pindaan seksyen 13 9. Pindaan seksyen 22 10. Pindaan seksyen 30 11. Pindaan seksyen 34 12. Pindaan seksyen 35 13. Pindaan seksyen 39 14. Pindaan seksyen 43 15. Pindaan seksyen 44 16. Pindaan seksyen 44A 17. Pindaan seksyen 46 18. Pindaan seksyen 60F 19. Pindaan seksyen 61A 20. Pindaan seksyen 91
+3. Permulaan kuat kuasa pindaan kepada Akta Cukai Pendapatan 1967
+
+4. Pindaan seksyen 2
+
+5. Pindaan seksyen 6
+
+6. Pindaan seksyen 6A
+
+7. Pemotongan seksyen 6B
+
+8. Pindaan seksyen 13
+
+9. Pindaan seksyen 22
+
+10. Pindaan seksyen 30
+
+11. Pindaan seksyen 34
+
+12. Pindaan seksyen 35
+
+13. Pindaan seksyen 39
+
+14. Pindaan seksyen 43
+
+15. Pindaan seksyen 44
+
+16. Pindaan seksyen 44A
+
+17. Pindaan seksyen 46
+
+18. Pindaan seksyen 60F
+
+19. Pindaan seksyen 61A
+
+20. Pindaan seksyen 91
 
 <!-- page 2 -->
 
@@ -172,9 +208,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 6 -->
 
-## Part X of Schedule 1 provided that the rates specified
-
-under such Part shall apply only for a period of five years commencing from the year of assessment 2007.".
+Part X of Schedule 1 provided that the rates specified under such Part shall apply only for a period of five years commencing from the year of assessment 2007.".
 
 ### Pindaan seksyen 6A
 

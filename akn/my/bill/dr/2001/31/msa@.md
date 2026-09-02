@@ -50,7 +50,23 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Pindaan seksyen 5
 
-3. Akta ibu dipinda dengan menggantikan seksyen 5 dengan seksyen yang berikut: Pengawal, 5. (1) Ketua Pengarah Perbadanan hendaklah menjadi Timbalan Pengawal Pengawal Hakcipta. dan Penolong Pengawal
+3. Akta ibu dipinda dengan menggantikan seksyen 5 dengan seksyen yang berikut:
+
+<!-- marginal: Pengawal, -->
+
+5. (1) Ketua Pengarah Perbadanan hendaklah menjadi
+
+<!-- marginal: Timbalan -->
+
+<!-- marginal: Pengawal -->
+
+Pengawal Hakcipta.
+
+<!-- marginal: dan -->
+
+<!-- marginal: Penolong -->
+
+<!-- marginal: Pengawal -->
 
 <!-- page 3 -->
 
@@ -122,7 +138,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ### Short title and commencement
 
-1. (1) This Act may be cited as the Copyright (Amendment) Act 2001.
+1. (1) This Act may be cited as the Copyright (Amendment) Act
+
+2001.
 
 (2) This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette.
 
@@ -160,4 +178,18 @@ ENACTED by the Parliament of Malaysia as follows:
 
 3. The principal Act is amended by substituting for section 5 the following section:
 
-Controller, 5. (1) The Director General of the Corporation shall be Deputy the Controller of Copyright. Controllers and Assistant Controllers.
+<!-- marginal: Controller, -->
+
+5. (1) The Director General of the Corporation shall be
+
+<!-- marginal: Deputy -->
+
+the Controller of Copyright.
+
+<!-- marginal: Controllers -->
+
+<!-- marginal: and -->
+
+<!-- marginal: Assistant -->
+
+<!-- marginal: Controllers. -->

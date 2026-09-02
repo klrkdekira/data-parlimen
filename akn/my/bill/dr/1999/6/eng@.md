@@ -98,7 +98,9 @@ of the single taxable person shall be treated as being taxable goods manufacture
 
 (e) subject to paragraphs (a) to (d), the constituent members shall be treated as a partnership carrying on the business of the single taxable person and any question as to the scope of the activities of that business at any time shall be determined accordingly.
 
-(9) Where it appears to the Director General that any person who is one of the constituent members should no longer be regarded as such for the purposes of subsections (8)(c) and (d) and the Director General gives notice to that effect, that person shall not have any liability by virtue of those subsections for anything done after the date specified in that notice and accordingly on that date he shall be treated as having ceased to be a member of the partnership referred to in subsection
+(9) Where it appears to the Director General that any person who is one of the constituent members should no longer be regarded as such for the purposes of subsections
+
+(8)(c) and (d) and the Director General gives notice to that effect, that person shall not have any liability by virtue of those subsections for anything done after the date specified in that notice and accordingly on that date he shall be treated as having ceased to be a member of the partnership referred to in subsection
 
 ### Amendment of section 13A
 
@@ -120,9 +122,13 @@ of the single taxable person shall be treated as being taxable goods manufacture
 
 7. The principal Act is amended by inserting after section 17 the following section:
 
-a ny p r o v i s i on u n d er t h is A ct i n r e l a t i on to an i n v o i c e, a 17A. (1) Subject to subsection (2), for the purposes of
+a ny p r o v i s i on u n d er t h is A ct i n r e l a t i on to an i n v o i c e, a
 
-by taxable person shall be treated as having issued an invoice to a purchaser notwithstanding that there is no delivery of any equivalent document in paper form to the purchaser if the requisite information is recorded in a computer and—
+17A. (1) Subject to subsection (2), for the purposes of
+
+<!-- marginal: by -->
+
+taxable person shall be treated as having issued an invoice to a purchaser notwithstanding that there is no delivery of any equivalent document in paper form to the purchaser if the requisite information is recorded in a computer and—
 
 (a) is transmitted to the purchaser by electronic means; or
 
@@ -152,7 +158,11 @@ subject to such conditions as he may deem fit to impose; and
 
 (c) by inserting after subsection (2) the following subsections;
 
-"(3) Any penalty or surcharge imposed under this Act shall, for the purposes of this Act and Act 254 the Limitation Act 1953, be recoverable as if it were sales tax due and payable under this Act and accordingly section 6(4) of the Limitation Act 1953 shall not apply to that penalty or surcharge.
+"(3) Any penalty or surcharge imposed under this Act shall, for the purposes of this Act and
+
+<!-- marginal: Act 254 -->
+
+the Limitation Act 1953, be recoverable as if it were sales tax due and payable under this Act and accordingly section 6(4) of the Limitation Act 1953 shall not apply to that penalty or surcharge.
 
 (4) Where an invoice shows a sale of taxable goods as having taken place with sales tax chargeable on the goods, there shall be recoverable from the taxable person who issued the invoice an amount equal to—
 
@@ -214,7 +224,9 @@ shall pay the sales tax, penalty or other moneys, or the deficient sales tax, pe
 
 (c) by inserting after subsection (1) the following subsection:
 
-"(1AA) Without prejudice to subsection (1), any goods belonging to the person referred to in subsection (1) which may be in Excise or Customs control or at a place or places specified in the licence issued under section 13 may be seized until the sales tax, penalty or other moneys, or the deficient sales tax, penalty or other moneys, are paid, or the refund erroneously paid to him is repaid.";
+"(1AA) Without prejudice to subsection (1), any goods belonging to the person referred to in subsection
+
+(1) which may be in Excise or Customs control or at a place or places specified in the licence issued under section 13 may be seized until the sales tax, penalty or other moneys, or the deficient sales tax, penalty or other moneys, are paid, or the refund erroneously paid to him is repaid.";
 
 (d) by substituting for subsection (1A) the following subsection:
 
@@ -242,7 +254,11 @@ shall pay the sales tax, penalty or other moneys, or the deficient sales tax, pe
 
 18. The principal Act is amended by inserting after section 43 the following section:
 
-"Evasion of 43A. (1) Any person who wilfully with intent to evade sales tax. or to assist any other person to evade sales tax—
+"Evasion of 43A. (1) Any person who wilfully with intent to evade
+
+<!-- marginal: sales tax. or -->
+
+to assist any other person to evade sales tax—
 
 (a) omits from a return made under this Act or any regulations made under this Act any information in relation to any matter affecting the amount of his or the other person's chargeability to sales tax;
 
@@ -428,7 +444,9 @@ This clause also seeks to introduce new subsections (4) and (5) into section
 
 16. Clause 15 seeks to amend section 32 of Act 64 to empower the Director General to reject an application for the refund of sales tax or penalty that has been overpaid or erroneously paid on the grounds that it would unjustly enrich the claimant.
 
-17. Clause 16 seeks to introduce two new subsections, namely subsections (2A) and (2B), into section 36 of Act 64 to allow any senior officer of sales tax the right to be given access to any recorded information or computerized data, whether stored in a computer or otherwise, and to inspect and check the operation of any computer which is or has been in use in connection with that information or data.
+17. Clause 16 seeks to introduce two new subsections, namely subsections
+
+(2A) and (2B), into section 36 of Act 64 to allow any senior officer of sales tax the right to be given access to any recorded information or computerized data, whether stored in a computer or otherwise, and to inspect and check the operation of any computer which is or has been in use in connection with that information or data.
 
 18. Clause 17 seeks to amend paragraph 43(a) of Act 64 which provides that any person who fails or refuses to comply with section 12A or section 1 7A is guilty of an offence. This clause also seeks to insert a new paragraph (ea) into section 43 which provides that the contravention of subsection 63A(2) of Act 64 is an offence.
 

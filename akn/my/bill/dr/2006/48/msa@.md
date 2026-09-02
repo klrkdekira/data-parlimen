@@ -44,11 +44,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (a) dengan menggantikan takrif "certificate of fitness for occupation" dengan takrif yang berikut:
 
-' "certificate of completion and compliance" means the certificate of completion and compliance given or granted under the Street, Drainage and Building Act 1974 [Act 133] and any by-laws made under that Act certifying that the housing accommodation has been completed and is safe and fit for occupation but does not include partial certificate of completion
-
-<!-- marginal: and -->
-
-compliance;';
+' "certificate of completion and compliance" means the certificate of completion and compliance given or granted under the Street, Drainage and Building Act 1974 [Act 133] and any by-laws made under that Act certifying that the housing accommodation has been completed and is safe and fit for occupation but does not include partial certificate of completion and compliance;';
 
 (b) dengan menggantikan takrif "housing accommodation" dengan takrif yang berikut:
 
@@ -112,11 +108,7 @@ Pemajuan Perumahan (Kawalan dan Pelesenan)
 
 (f) dalam perenggan (j), dengan menggantikan perkataan "certificates of fitness for occupation" dengan perkataan "certificate of completion and compliance"; dan
 
-(g) dalam perenggan (k), dengan memasukkan selepas perkataan "and the transfer of such titles to the purchasers" perkataan "at such frequency as may be determined by the Controller beginning from the date of the handing over of vacant possession to the first purchaser of
-
-<!-- marginal: the housing -->
-
-accommodation in the housing development until separate or strata titles for all the housing accommodation have been issued".
+(g) dalam perenggan (k), dengan memasukkan selepas perkataan "and the transfer of such titles to the purchasers" perkataan "at such frequency as may be determined by the Controller beginning from the date of the handing over of vacant possession to the first purchaser of the housing accommodation in the housing development until separate or strata titles for all the housing accommodation have been issued".
 
 ### Pindaan seksyen 7 A
 
@@ -440,4 +432,4 @@ perumahan, dsb., yang timbul daripada perjanjian jual dan beli dengan syarat pem
 
 Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya belum dapat ditentukan sekarang ini.
 
-[PN(U2)2480]
+<!-- marginal: [PN(U2)2480] -->

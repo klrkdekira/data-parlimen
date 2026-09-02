@@ -52,9 +52,17 @@ bahagian-bahagian Malaysia yang berlainan; atau
 
 ## bahagian di Malaysia yang berlainan.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-2. Seksyen 3 Akta Jalan, Parit dan Bangunan 1974, seksyen 3. yang disebut "Akta ibu" dalam Akta ini, adalah Akta 133. dipinda—
+2. Seksyen 3 Akta Jalan, Parit dan Bangunan 1974,
+
+<!-- marginal: seksyen 3. -->
+
+yang disebut "Akta ibu" dalam Akta ini, adalah
+
+<!-- marginal: Akta 133. -->
+
+dipinda—
 
 (a) dengan memasukkan selepas takrif "bangunan" takrif baru yang berikut:
 
@@ -70,11 +78,15 @@ Akta . betungan 1993;';
 
 ' "sistem pembetungan" mempunyai erti yang sama yang diberikan kepadanya di bawah Akta Perkhidmatan Pembetungan 1993;'.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Seksyen 46 Akta ibu adalah dipinda dengan seksyen 46 memotong perkataan ", betung" dalam perenggan (b) subseksyen (1).
+3. Seksyen 46 Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 46 -->
+
+memotong perkataan ", betung" dalam perenggan (b) subseksyen (1).
+
+<!-- marginal: Pindaan -->
 
 4. Bahagian III Akta ibu adalah dipinda dengan
 
@@ -82,15 +94,19 @@ Pindaan
 
 memotong perkataan "BETUNG DAN" dalam subtajuk.
 
-Pemotongan
+<!-- marginal: Pemotongan -->
 
-5. Akta ibu adalah dipinda dengan memotong seksyen seksyen 49
+5. Akta ibu adalah dipinda dengan memotong seksyen
+
+<!-- marginal: seksyen 49 -->
 
 49.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-6. Seksyen 51 Akta ibu adalah dipinda— seksyen 51
+6. Seksyen 51 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 51 -->
 
 (a) dengan memotong perkataan "betung," dalam nota birai, subseksyen (1) dan perenggan (d) dan (e) subseksyen (4);
 
@@ -148,9 +164,11 @@ Pindaan
 
 ## RANG UNDANG-UNDANG
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-10. Seksyen 58 Akta ibu adalah dipinda— seksyen 58.
+10. Seksyen 58 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 58. -->
 
 (a) dengan memasukkan seiepas perkataan "pihak berkuasa tempatan" dalam perenggan (a) subseksyen (3) perkataan "dan yang mematuhi Akta Perkhidmatan Pembetungan 1993";
 
@@ -160,13 +178,23 @@ Pindaan
 
 (d) dengan memotong perkataan "betung,", "tangki najis," dan "loji pembersihan kumbahan," di mana-mana jua terdapat dalam subseksyen (14).
 
-Pemotongan
+<!-- marginal: Pemotongan -->
 
-11. Akta ibu adalah dipinda dengan memotong seksyen seksyen 60, 60, 62, 63 dan 64. 62, 63 dan 64
+11. Akta ibu adalah dipinda dengan memotong seksyen
 
-Pmdaan
+<!-- marginal: seksyen 60, -->
 
-12. Seksyen 70 Akta ibu adalah dipinda dengan seksyen 70. menggantikan subseksyen (2) dengan yang berikut:
+60, 62, 63 dan 64.
+
+<!-- marginal: 62, 63 dan 64 -->
+
+<!-- marginal: Pmdaan -->
+
+12. Seksyen 70 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 70. -->
+
+menggantikan subseksyen (2) dengan yang berikut:
 
 "(2) Seseorang yang bercadang mendirikan sesuatu bangunan hendaklah mengemukakan—
 
@@ -174,9 +202,11 @@ Pmdaan
 
 (b) kepada pihak berkuasa berkanun yang relevan apa-apa pelan dan penentuan berkenaan dengan sistem pembetungan sebagaimana yang dikehendaki oleh mana- mana undang-undang bertulis lain.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-13. Seksyen 77 Akta ibu adalah dipinda- seksyen 77.
+13. Seksyen 77 Akta ibu adalah dipinda-
+
+<!-- marginal: seksyen 77. -->
 
 (a) dengan memasukkan selepas perkataan "betung" dalam nota birai perkataan "awam,"; dan
 

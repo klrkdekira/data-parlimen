@@ -6,43 +6,9 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-1. Short title, application and commencement.
+1. Short title, application and commencement. 2. Interpretation. 3. Power of Minister to issue directions. 4. Requirement for licence. 5. Application for licence. 6. Power to require informanon. 7. Duration of licence. 8. Licence to be exhibited. 9. Licence not renewable as of right. 10. Security.
 
-2. Interpretation.
-
-3. Power of Minister to issue directions.
-
-4. Requirement for licence.
-
-5. Application for licence.
-
-6. Power to require informanon.
-
-7. Duration of licence.
-
-8. Licence to be exhibited.
-
-9. Licence not renewable as of right.
-
-10. Security.
-
-11. Revocation of licence.
-
-12. Appeal.
-
-13. Prohibition to sell, etc, ticket for an entertainment and to advertise or publicise before licence is obtained.
-
-14. Restriction on the unauthorized sale of tickets.
-
-15. Exemption.
-
-16. Power of entry and investigation.
-
-17. Power of closure.
-
-18. Power to demand particulars.
-
-39. Power of arrest.
+11. Revocation of licence. 12. Appeal. 13. Prohibition to sell, etc, ticket for an entertainment and to advertise or publicise before licence is obtained. 14. Restriction on the unauthorized sale of tickets. 15. Exemption. 16. Power of entry and investigation. 17. Power of closure. 18. Power to demand particulars. 39. Power of arrest.
 
 20. Search.
 
@@ -196,13 +162,33 @@ shall be made in the prescribed form and shall be submitted to the Commissioner.
 
 (5) The Commissioner shall pay all monies collected under this section into the fund constituted under any law relating to local government.
 
-Power to
+<!-- marginal: Power to -->
 
-6. (1) For the purpose of considering an application for require an entertainment licence, the Commissioner may require information. the applicant to furnish to him the script, if any, and such information as he may specify relating to the following matters:
+6. (1) For the purpose of considering an application for
 
-(a) particulars of persons concerned in the promotion of the entertainment and the interests represented by those persons;
+<!-- marginal: require -->
 
-(b) particulars of the persons who have agreed to participate or have participated in the entertainment or have been invited to do so and the interests represented by those persons; and
+an entertainment licence, the Commissioner may require
+
+<!-- marginal: information. -->
+
+the applicant to furnish to him the script, if any, and such information as he may specify relating to the following matters:
+
+(a) particulars of persons concerned
+
+<!-- marginal: in -->
+
+<!-- marginal: the -->
+
+promotion of the entertainment and the interests represented by those persons;
+
+(b) particulars of the persons who have agreed to participate or have participated
+
+<!-- marginal: in -->
+
+<!-- marginal: the -->
+
+entertainment or have been invited to do so and the interests represented by those persons; and
 
 (c) the purpose to which any profits from the entertainment are intended to be or have been applied.
 
@@ -276,13 +262,39 @@ enlertainment licence or a licence to open a place of entertainment or both if t
 
 (c) serving a copy thereof on the licensee himself in the case where the licensee and the person referred to in paragraph (b) is not the same person.
 
-12. An applicam whose application for the grant of an Appeal. entertainment licence or a licence to open an entertainmenl place under this Act is refused, or a holder of a licence which is revoked, or any person aggrieved by the imposition of any conditions or restrictions on or subject to which a licence is granted or any person who is aggrieved by the forfeiture of security under section 10, may, within thirty days after being informed in writing of the refusal, or revocation, or the imposition of the conditions or restrictions, or forfeiture, as the case may be, appeal against such decision to the Minister, who shall confirm or set aside the decision; and the decision of the Minister shall be final and shall not be questioned in any court.
+12. An applicam whose application for the grant of an
 
-Prohibition
+<!-- marginal: Appeal. -->
 
-13. (1) It shall be unlawtul for any person— to sell, etc.. ticket for an
+entertainment licence or a licence to open an entertainmenl place under this Act is refused, or a holder of a licence which is revoked, or any person aggrieved by the imposition of any conditions or restrictions on or subject to which a licence is granted or any person who is aggrieved by the forfeiture of security under section 10, may, within thirty days after being informed in writing of the refusal, or revocation, or the imposition of the conditions or restrictions, or forfeiture, as the case may be, appeal against such decision to the Minister, who shall confirm or set aside the decision; and the decision of the Minister shall be final and shall not be questioned in any court.
 
-(a) to give, distribute, sell or offer for sale any entertainment ticket for admission to, or invite any person to and to advertuse or any entertainmerit or to cause to be made such publicise gift, distribution, sale, offer or invitation; or before licence is obtamed.
+<!-- marginal: Prohibition -->
+
+13. (1) It shall be unlawtul for any person—
+
+<!-- marginal: to sell, etc.. -->
+
+<!-- marginal: ticket for an -->
+
+(a) to give, distribute, sell or offer for sale any
+
+<!-- marginal: entertainment -->
+
+ticket for admission to, or invite any person to
+
+<!-- marginal: and to -->
+
+<!-- marginal: advertuse or -->
+
+any entertainmerit or to cause to be made such
+
+<!-- marginal: publicise -->
+
+gift, distribution, sale, offer or invitation; or
+
+<!-- marginal: before licence -->
+
+<!-- marginal: is obtamed. -->
 
 (b) in any manner whatsoever to advertise or publicise or to cause to be advertised or publicised any entertainment to be performed in a place of entenainment,
 
@@ -336,17 +348,39 @@ things and to furnish any information as that officer or person may consider nec
 
 Provided that any person not in uniform purporting to exercise any powers under this section shall on demand produce his written authority to exercise these powers to any person lawfully demanding the same.
 
-Power of 17, The Commissioner, any police officer not below the closure rank of Inspector, or any authorized person authorized to exercise the power of entry and investigation under section 16 may, without prejudice to the exercise of the power conferred on him by that section, forthwith take such steps as he may consider necessary to close any place of entertainment if he is satisfied that there is a breach of any of the conditions or restrictions of the licence granted under this Act or that the entertainment held therein is in contravention of any of the provisions of this Act or any rules made thereunder.
+<!-- marginal: Power of -->
 
-Power to
+17, The Commissioner, any police officer not below the
 
-18. The Commissioner. any police officer not below the demand rank of Inspeccor, or any authorized person may require particulars. any person whom he reasonably believes to have comrnitted an offence under this Act or any rules made thereunder to give his name, identity card nurnber and address.
+<!-- marginal: closure -->
 
-Power of
+rank of Inspector, or any authorized person authorized to exercise the power of entry and investigation under section 16 may, without prejudice to the exercise of the power conferred on him by that section, forthwith take such steps as he may consider necessary to close any place of entertainment if he is satisfied that there is a breach of any of the conditions or restrictions of the licence granted under this Act or that the entertainment held therein is in contravention of any of the provisions of this Act or any rules made thereunder.
 
-19. (1) The Commissioner. any police officer not arrest below the rank of Inspector, or any authorized person may arrest without warrant—
+<!-- marginal: Power to -->
 
-(a) any person reasonably believed to have committed an offence against this Act or any rules made thereunder; or
+18. The Commissioner. any police officer not below the
+
+<!-- marginal: demand -->
+
+rank of Inspeccor, or any authorized person may require
+
+<!-- marginal: particulars. -->
+
+any person whom he reasonably believes to have comrnitted an offence under this Act or any rules made thereunder to give his name, identity card nurnber and address.
+
+<!-- marginal: Power of -->
+
+19. (1) The Commissioner. any police officer not
+
+<!-- marginal: arrest -->
+
+below the rank of Inspector, or any authorized person may arrest without warrant—
+
+(a) any person reasonably believed
+
+<!-- marginal: to have -->
+
+committed an offence against this Act or any rules made thereunder; or
 
 (b) any person who refuses to give his name and address when it is requested for or if there is reason to doubt the accuracy of the name and address given.
 
@@ -396,15 +430,61 @@ forfeiture.
 
 ## BILL
 
-23. (1) An order for the forfeiture or release of any Court to order release or thing seized shall be made by the court before which the forfeiture of prosecution with regard thereto has been held, but the things seized. court shall order forfeiture if it is proved to its satisfaction that an offence against any provision of this Act or any rules made thereunder has been committed and that the things were the subject matter of or were used in the commission of the offence, notwithstanding that no person may have been convicted of such offence.
+23. (1) An order for the forfeiture or release of any
+
+<!-- marginal: Court to order -->
+
+<!-- marginal: release or -->
+
+thing seized shall be made by the court before which the
+
+<!-- marginal: forfeiture of -->
+
+prosecution with regard thereto has been held, but the
+
+<!-- marginal: things seized. -->
+
+court shall order forfeiture if it is proved to
+
+<!-- marginal: its -->
+
+satisfaction that an offence against any provision of this Act or any rules made thereunder has been committed and that the things were the subject matter of or were used in the commission of the offence, notwithstanding that no person may have been convicted of such offence.
 
 (2) All things forfeited shall be delivered to the Commissioner or the police as the case may be and shall be disposed of in accordance with the directions of the Commissioner or the police.
 
-Things seized
+<!-- marginal: Things seized -->
 
-24. (1) If there be no prosecution with regard to any in respect of thing seized under this Act, such things shall be taken which there is no and deemed lo be forfeited at the expiration of one prosecution calendar month from the date of seizure unless a claim deemed to be thereto is made before that date in the manner forfcited if not claimed hereinafter set forth. within one
+24. (1) If there be no prosecution with regard to any
 
-### month.
+<!-- marginal: in respect of -->
+
+thing seized under this Act, such things shall be taken
+
+<!-- marginal: which there -->
+
+<!-- marginal: is no -->
+
+and deemed lo be forfeited at the expiration of one
+
+<!-- marginal: prosecution -->
+
+calendar month from the date of seizure unless a claim
+
+<!-- marginal: deemed to be -->
+
+thereto is made before that date in the manner
+
+<!-- marginal: forfcited -->
+
+if
+
+<!-- marginal: not claimed -->
+
+hereinafter set forth.
+
+<!-- marginal: within one -->
+
+<!-- marginal: month. -->
 
 (2) Any person asserting that he is the owner of any thing seized under the Act and that it is not liable to forfeiture may, either personally or by his agent authorized in writing, give written notice to the Cornmissioner that he claims the same.
 
@@ -420,19 +500,37 @@ Things seized
 
 Provided that nothing herein shall relieve the partner, agent or servant from liability to prosecution.
 
-Conduct of 27, Prosecution in respect of offences committed under prosecution this Act or any rules made thereunder may be conducted in court. by any authorized person or any police officer not below the rank of Inspector.
+<!-- marginal: Conduct of -->
 
-Compounding
+27, Prosecution in respect of offences committed under
 
-28. (1) The Commissioner may compound any offence of offences. against this Act and any rules made thereunder which is prescribed to be a compoundable offence by accepting from the person reasonably suspected of having committed such offence a sum of money not exceeding fifty per centum of the maximum fine with which the offence is punishabie.
+<!-- marginal: prosecution -->
+
+this Act or any rules made thereunder may be conducted
+
+<!-- marginal: in court. -->
+
+by any authorized person or any police officer not below the rank of Inspector.
+
+<!-- marginal: Compounding -->
+
+28. (1) The Commissioner may compound any offence
+
+<!-- marginal: of offences. -->
+
+against this Act and any rules made thereunder which is prescribed to be a compoundable offence by accepting from the person reasonably suspected of having committed such offence a sum of money not exceeding fifty per centum of the maximum fine with which the offence is punishabie.
 
 (2) Upon receipt of the payment under subsection ( l ), no further proceedings shall be taken against such person in respect of such offence and any thing seized in connection with the offence shall be released, subject to such terms and conditions as may be imposed.
 
 (3) Any monies paid to the Commissioner pursuant to the provisions of this section shall be paid into and form part of the fund constituted under any law relating to local government.
 
-General
+<!-- marginal: General -->
 
-29. Any person who is guilty of an offence against this penalty. Act or any rules made thereunder for which no penalty is expressly provided shall, on conviction, be liable to a fine not exceeding two thousand ringgit or to imprisonment for a term not exceeding one year or to both.
+29. Any person who is guilty of an offence against this
+
+<!-- marginal: penalty. -->
+
+Act or any rules made thereunder for which no penalty is expressly provided shall, on conviction, be liable to a fine not exceeding two thousand ringgit or to imprisonment for a term not exceeding one year or to both.
 
 <!-- page 14 -->
 

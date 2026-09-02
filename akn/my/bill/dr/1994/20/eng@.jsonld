@@ -1,0 +1,376 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-20-1994",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_9"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Johore Military Forces (Disbandment and Repeal) Bill 1994"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Johore Military Forces (Disbandment and Repeal) Act 1994."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall come into force on a date to be appointed by the Minister by notification in the Gazette."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "\"armed forces\" shall have the meaning assigned to it under the Armed Forces Act 1972; \"Armed Forces Council\" means the Council established under Article 137 of the Federal Constitution; \"appointed date\" means the date appointed by the Minister under subsection 1(2); \"members of the Forces\" means officers and soldiers of the Johore Military Forces; \"Minister\" means the Minister charged with the responsibility for defence; \"property\" includes armaments; \"regular forces\" shall have the meaning assigned to it under the Armed Forces Act 1972; \"State Government\" means the State Government of Johore; \"the Enactment\" means the Johore Military Forces Enactment 1915."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "On the appointed date, the Johore Military Forces"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall be disbanded and members of the Forces shall on that date be demobilised."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_4__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding anything contained in the Armed Forces Act 1972, members of the Forces who immediately before the appointed date have, with the approval of the Yang di-Pertuan Agong, been given options by the Armed Forces Council to serve in the armed forces and have accepted such options shall on the appointed date be deemed to have been commissioned or enlisted in the regular forces in accordance with the provisions of the Armed Forces Act 1972."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_4__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_4__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Members of the Forces referred to in subsection (0—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_4__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_4__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall be commissioned or enlisted to serve in the armed forces on terms and conditions of service not less favourable than the terms and conditions of service to which such members were entitled to immediately before the appointed date; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_4__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_4__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall not be required to serve in the regular forces for a longer period than that for which such members were required to serve in the Johore Military Forces. (DISBANDMENT AND REPEAL)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This section shall not apply to members of the Forces serving under a contract of employment or who under the Enactment are of or over the age of retirement immediately before the appointed date."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_5__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding anything contained in this Act, members of the Forces who have exercised the options to retire from the service of the Johore Military Forces shall on the appointed date be deemed to have retired under paragraph I0(5)(b) of the Pensions Act 1980."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Members of the Forces referred to in subsection (1) shall be paid such retirement benefits as are provided under subregulation 4(2) of the Pensions Regulations 1980."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_6__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All property and assets other than immovable property which immediately before the appointed date were vested in, or were in the possession or under the control or held on account of, the Johore Military Forces for defence purposes shall, on the appointed date and subject to this Act, vest in the Federal Government."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_6__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_6__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Federal Government may, in consultation with the State Government, appoint a Joint Committee—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_6__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to apportion, in case of doubt, between the Federal Government and the State Government of any property or assets vested in the Johore Military Forces to the intent that property or assets required for the purposes of the Federal Government shall be apportioned to that Government and that property or assets required for the purposes of the State Government shall be apportioned to that Government; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_6__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to apportion, in case of doubt, such property or assets to such appropriate officer for such purposes as the case may require."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_7__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Federal Government shall pay to the State Government any payment due to be made pursuant to any financial arrangement agreed to between the Federal Government and the State Government in respect of the vesting of the property or assets referred to in section 6 in the Federal Government."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All payments due to be made under subsection (1) shall be charged on the Federal Consolidated Fund."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_8__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Enactment and all subsidiary legislations made thereunder are hereby repealed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_8__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_8__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_8__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The repeal under subsection (1) shall not—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_8__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_8__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "affect the previous operation of, or anything duly done or suffered under the Enactment or any subsidiary legislation made thereunder;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_8__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_8__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "affect any right, title, interest, liberty, privilege, obligation or liability acquired, accrued or incurred under the Enactment or any subsidiary legislation made thereunder; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_8__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_8__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "affect the rights of the members of the Forces to any pensions, gratuities or other benefits under any other written law relating to such matter."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_9__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to this Act, neither the repeal of the Enactment nor anything contained in this Act shall affect any person's liability to be prosecuted, court martialled or punished for offences committed under the Enactment before the appointed day, or any proceedings brought or sentence imposed before that day in respect of such offence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/20/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to this Act, any proceedings (whether criminal or civil) or cause of action pending or existing immediately before the appointed day by or against any person acting on behalf of the Johore Military Forces may be continued or instituted by or against the Federal Government as it might have been by or against such person if this Act had not been passed. (DISBANDMENT AND REPEAL)"
+      }
+    }
+  ]
+}

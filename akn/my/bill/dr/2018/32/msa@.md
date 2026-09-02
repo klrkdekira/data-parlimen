@@ -10,7 +10,7 @@ Suatu Akta untuk mengadakan peruntukan bagi teks bahasa kebangsaan Akta Maktab K
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -24,7 +24,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 <!-- page 2 -->
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PINDAAN KEPADA TEKS BAHASA KEBANGSAAN
 
@@ -32,11 +32,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Penggantian seksyen 2 hingga 13
 
-2. Teks bahasa kebangsaan Akta Maktab Kerjasama (Perbadanan) (Pindaan) 2011 [Akta A1398], yang disebut “Akta ibu” dalam
-
-## Bahagian II Akta ini, dipinda dengan menggantikan seksyen 2
-
-hingga 13 dengan seksyen yang berikut:
+2. Teks bahasa kebangsaan Akta Maktab Kerjasama (Perbadanan) (Pindaan) 2011 [Akta A1398], yang disebut “Akta ibu” dalam Bahagian II Akta ini, dipinda dengan menggantikan seksyen 2 hingga 13 dengan seksyen yang berikut:
 
 ### ‘Penggantian seksyen 2
 
@@ -204,9 +200,7 @@ hingga 13 dengan seksyen yang berikut:
 
 ### Pengosongan jawatan
 
-### 4e.
-
-Jawatan seseorang anggota Lembaga yang disebut dalam subseksyen 4B(1) hendaklah menjadi kosong—
+4E. Jawatan seseorang anggota Lembaga yang disebut dalam subseksyen 4B(1) hendaklah menjadi kosong—
 
 (a) apabila anggota itu mati;
 
@@ -496,7 +490,7 @@ bagi apa-apa perbuatan atau peninggalan yang dilakukan atau ditinggalkan dengan 
 
 (b) mengenai apa-apa perkara sebagaimana yang suai manfaat atau perlu bagi melaksanakan peruntukan Akta ini dengan lebih baik.” ’.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PINDAAN KEPADA AKTA MAKTAB KERJASAMA
 
@@ -570,7 +564,7 @@ bagi apa-apa perbuatan atau peninggalan yang dilakukan atau ditinggalkan dengan 
 
 (9) Segala wang yang terkandung dalam Kumpulan Wang Rizab dan Kumpulan Wang Simpanan Bercarum Maktab Koperasi Malaysia hendaklah, pada permulaan kuat kuasa Bahagian ini, dipindahkan ke dalam dan disifatkan menjadi sebahagian daripada Kumpulan Wang Rizab dan Kumpulan Wang Simpanan Bercarum Institut Koperasi Malaysia.”.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PINDAAN KEPADA CO-OPERATIVE COLLEGE
 
@@ -642,25 +636,23 @@ bagi apa-apa perbuatan atau peninggalan yang dilakukan atau ditinggalkan dengan 
 
 Rang Undang-Undang ini bertujuan untuk mengadakan peruntukan bagi teks bahasa kebangsaan Akta Maktab Kerjasama (Perbadanan) (Pindaan) 2011 (“Akta A1398”), dan untuk meminda Akta Maktab Kerjasama (Pemerbadanan) 1968 (“Akta No. 35 tahun 1968”) dan Co-operative College (Incorporation) Act 1968 (“Act 437”).
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 2. Fasal 1 mengandungi tajuk ringkas dan permulaan kuat kuasa Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PINDAAN KEPADA TEKS BAHASA KEBANGSAAN AKTA MAKTAB KERJASAMA
 
 ## (PERBADANAN) (PINDAAN) 2011
 
-## Bahagian II Akta yang dicadangkan bertujuan untuk meminda teks bahasa
-
-kebangsaan Akta Maktab Kerjasama (Perbadanan) (Pindaan) 2011 [Akta A1398]. Akta Maktab Kerjasama (Perbadanan) (Pindaan) 2011 telah diluluskan oleh Dewan Rakyat pada 14 Jun 2011 dan Dewan Negara pada 4 Julai 2011. Akta Maktab Kerjasama (Perbadanan) (Pindaan) 2011 kemudiannya telah diperkenankan oleh Seri Paduka Baginda Yang di-Pertuan Agong pada 5 Ogos 2011 dan disiarkan dalam Warta pada 18 Ogos 2011.
+Bahagian II Akta yang dicadangkan bertujuan untuk meminda teks bahasa kebangsaan Akta Maktab Kerjasama (Perbadanan) (Pindaan) 2011 [Akta A1398]. Akta Maktab Kerjasama (Perbadanan) (Pindaan) 2011 telah diluluskan oleh Dewan Rakyat pada 14 Jun 2011 dan Dewan Negara pada 4 Julai 2011. Akta Maktab Kerjasama (Perbadanan) (Pindaan) 2011 kemudiannya telah diperkenankan oleh Seri Paduka Baginda Yang di-Pertuan Agong pada 5 Ogos 2011 dan disiarkan dalam Warta pada 18 Ogos 2011.
 
 <!-- page 26 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PINDAAN KEPADA AKTA MAKTAB KERJASAMA (PEMERBADANAN) 1968
 
@@ -682,7 +674,7 @@ tahun 1968.
 
 8. Fasal 10 memperuntukkan bagi peruntukan kecualian dan peralihan.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PINDAAN KEPADA CO-OPERATIVE COLLEGE (INCORPORATION) ACT 1968
 

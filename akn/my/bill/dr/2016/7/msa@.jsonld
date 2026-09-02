@@ -49,7 +49,25 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_22",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_23",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_24",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_43"
       ],
       "schema:name": {
         "@language": "ms",
@@ -111,7 +129,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_11",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (5)— Seksyen baharu 19a"
+        "@value": "dalam subseksyen (5)—"
       }
     },
     {
@@ -131,7 +149,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_11__para_b",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan perkataan “imposed by the valuer” dengan perkataan “prescribed by rules”."
+        "@value": "dengan menggantikan perkataan “imposed by the valuer” dengan perkataan “prescribed by rules”. Seksyen baharu 19a"
       }
     },
     {
@@ -481,7 +499,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_23",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (2)— “(c) prepare and serve on each person interested a notice in Form Lc.”;"
+        "@value": "dalam subseksyen (2)—"
       }
     },
     {
@@ -521,7 +539,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_23__para_b",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perenggan (b) perenggan yang berikut:"
+        "@value": "dengan memasukkan selepas perenggan (b) perenggan yang berikut: “(c) prepare and serve on each person interested a notice in Form Lc.”;"
       }
     },
     {
@@ -548,7 +566,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_24",
       "@type": "akn:clause",
       "eli:number": "24",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_24__para_a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_24__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_24__para_b"
+      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@",
       "schema:name": {
         "@language": "ms",
@@ -562,7 +583,268 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_24",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perkataan “section 14” perkataan “or compensation made under section 35 or"
+        "@value": "dengan memasukkan selepas perkataan “section 14” perkataan “or compensation made under section 35 or Part VII”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_24__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “to such award” perkataan “or compensation”. Pindaan seksyen 37"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_25__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_25__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_25__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 37 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_25__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan memasukkan selepas perkataan “section 10 or 11” perkataan “or any person interested pursuant to any compensation made under section 35 or Part VII who”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_25__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_25__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_25__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_25__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_25__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “in respect of any interest in any scheduled land”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_25__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_25__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “three thousand ringgit” dengan perkataan “five thousand ringgit,”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_25__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_25__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_25__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_25__para_c__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_25__para_c__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_25__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_25__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “Where the total amount of any award in respect of any scheduled land exceeds fifteen thousand ringgit” dengan perkataan “Where the total amount of any award exceeds thirty thousand ringgit,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_25__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_25__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “undertaking a work which in the opinion of the State Authority is of public utility, and”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_25__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_25__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “pursuant to section 3” dengan perkataan “or being occupied or used pursuant to Part VII”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_25__para_c__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_25__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “in any scheduled land under subsection (1),”. Pindaan seksyen 38"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_26__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_26__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 38 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_26__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan memotong perkataan “, and a copy thereof shall be forwarded by the Land Administrator to the Registrar of the Court”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_26__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_26__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_26__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_26__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_26__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan memasukkan selepas perkataan “the Land Administrator’s award under section 14” perkataan “or compensation made under section 35 or Part VII”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_26__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_26__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (b) dengan perenggan yang berikut: “(b) in other cases, within six weeks of the receipt of the notice from the Land Administrator under section 16, paragraph 35(2)(c), subsection 58(1) or section 59 or within six months from the date of the Land Administrator’s award under sections 14, 35 or Part VII, whichever period shall first expire.”. Pindaan seksyen 40b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 40b(5) Akta ibu dipinda dengan memotong perkataan “who is not a valuation officer employed by the Government”. Pindaan sekyen 43"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_28__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_28__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 43 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_28__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “Form P” dengan perkataan “writing”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_28__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan memotong perkataan “pursuant to section 3”. Pindaan seksyen 48"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_29__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_29__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 48 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_29__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “shall” dengan perkataan “to”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_29__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “eight” dengan perkataan “five”. Pindaan seksyen 49"
       }
     },
     {
@@ -596,6 +878,189 @@
       }
     },
     {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 49(1) Akta ibu dipinda dengan memotong perkataan “pursuant to section 3”. Pindaan seksyen 51"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 51(1)(c) Akta ibu dipinda dengan memotong perkataan “made pursuant to any notice under section 10 or 11”. Pindaan seksyen 52"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 52 Akta ibu dipinda dengan menggantikan perkataan “mukim or township” dengan perkataan “town, village or mukim”. Pindaan seksyen 53"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 53(3) Akta ibu dipinda dengan memotong perkataan “of any scheduled land”. Pindaan seksyen 55"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_34__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_34__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 55 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_34__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_34__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_34__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_34",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (1)(a)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_34__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_34__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “in any scheduled land”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_34__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_34__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “pursuant to section 3”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_34__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_34",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “A certificate under the hand of the State Secretary” dengan perkataan “Any document”. Pindaan seksyen 57"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 57 dengan seksyen yang berikut: “57. (1) Whenever it appears to the State Authority that the temporary occupation or use of any land is needed— (a) for any purpose specified in subsection 3(1); (b) in order to carry out public works on any land; or (c) as indicated in a development plan under the law applicable to it relating to town and country planning, the State Authority may direct the Land Administrator to procure the occupation or use of any such land for such term as he shall think fit, not exceeding three years from the date of commencement of such occupation or use, in the manner prescribed by this Part. (2) The Land Administrator or other registering authority shall make a note of any temporary occupation or use of land as specified under paragraphs 9(2)(a) and (b).”. Pindaan seksyen 58"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_36__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_36__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_36__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 58 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_36__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_36",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan memasukkan selepas perkataan “shall make such offer of compensation” perkataan “in Form R”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_36__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_36",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(2a) Prior to making an offer for compensation under subsection (1), the Land Administrator may obtain a written opinion on the value of the land from a valuer.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_36__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_36",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: “(4) In making any assessment of compensation under subsection (3), the Land Administrator may, whether by way of full or partial substitution for monetary compensation, enter into any arrangement with a person having an interest in such land in such a way as may be equitable, having regard to the interests of the parties concerned. (5) Whenever the Land Administrator enters into any arrangement under subsection (4), he shall make an entry of the particulars thereof in the appropriate register. (6) All the evidence during the enquiry and the amount of compensation offered shall be recorded by the Land Administrator. (7) Nothing in this section shall prevent the State Authority to occupy or use the land if the person interested is not agreeable to the compensation offered pursuant to subsection (1). (8) For the purpose of this section, subsection 14(5) shall be applicable if necessary.”. Pindaan seksyen 59"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 59 Akta ibu dipinda dengan memasukkan selepas perkataan “referred to in section 57” perkataan “, the Land Administrator shall make an enquiry to ensure that”. Pindaan seksyen 60"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 60 Akta ibu dipinda dengan menggantikan perkataan “Where the Land Administrator is unable to agree with the persons interested on the amount of compensation” dengan perkataan “Where the person interested is unable to agree on the amount of compensation offered by the Land Administrator”. Pindaan seksyen 65"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 65 Akta ibu dipinda dengan memasukkan selepas perkataan “pursuant to section 3” perkataan “or Part VII”. Pindaan seksyen 66"
+      }
+    },
+    {
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_4",
       "@type": "akn:clause",
       "eli:number": "4",
@@ -603,6 +1068,94 @@
       "schema:text": {
         "@language": "ms",
         "@value": "Subperenggan 3c(2)(b)(ii) Akta ibu dipinda dengan menggantikan perkataan “the Under Secretary of the Federal Territory Development and Klang Valley Planning Division, Prime Minister’s Department” dengan perkataan “a representative from the Ministry or agency responsible for the Federal Territory”. Pindaan seksyen 3f"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 66 Akta ibu dipinda dengan menggantikan perkataan “a subdivided building, in the person” dengan perkataan “a subdivided building or land, in the person, statutory body”. Pindaan seksyen 69"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_41__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_41__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 69 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_41__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_41",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (b) perenggan yang berikut: “(ba) prescribe any Form in the Second Schedule in electronic form;”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_41__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_41",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (d), dengan menggantikan perkataan “the application for acquisition of land under paragraph 3(1)(b) or (c)” dengan perkataan “any matter under this Act”. Pindaan Jadual Pertama"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_42__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_42__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jadual Pertama Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_42__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_42",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam tajuk, dengan menggantikan perkataan “[Sections 12, 35, 46 and 47]” dengan perkataan “[Sections 12, 35 and 47]”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_42__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_42",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (1)(2d), dengan menggantikan perkataan “within the meaning of section 214a of the National Land Code [Act 56 of 1965], the market value shall not in any way be affected by the fact that it can be sold to one person” dengan perkataan “, the market value of such land shall be determined taking into consideration section 214a of the National Land Code”. Kecualian dan peralihan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua prosiding, tindakan atau perkara lain yang dikehendaki dijalankan di bawah seksyen 3f dan 28, subseksyen 37(2) dan (3) Akta ibu yang masih belum selesai atau sedang dalam tindakan, sebaik sebelum permulaan kuat kuasa Akta ini, hendaklah diteruskan atau diselesaikan seolah-olah Akta ibu tidak dipinda oleh Akta ini."
       }
     },
     {
@@ -863,563 +1416,6 @@
       "schema:text": {
         "@language": "ms",
         "@value": "dalam subseksyen (7), dengan menggantikan perkataan “(4)” dengan perkataan “(2)”. Pindaan seksyen 12"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII",
-      "@type": "akn:part",
-      "eli:number": "VII",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_25",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_26",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_27",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_28",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_29",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_30",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_31",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_32",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_33",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_34",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_35",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_36",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_37",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_38",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_39",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_40",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_41",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_42",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_43"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@",
-      "schema:name": {
-        "@language": "ms",
-        "@value": "dan"
-      },
-      "schema:text": {
-        "@language": "ms",
-        "@value": "(b) dengan memasukkan selepas perkataan “to such award” perkataan “or compensation”. Pindaan seksyen 37"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_25",
-      "@type": "akn:clause",
-      "eli:number": "25",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_25__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_25__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_25__para_c"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII",
-      "schema:name": {
-        "@language": "ms",
-        "@value": "Seksyen 37 Akta ibu dipinda—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_25__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_25",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dalam subseksyen (1), dengan memasukkan selepas perkataan “section 10 or 11” perkataan “or any person interested pursuant to any compensation made under section 35 or Part VII who”;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_25__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_25__para_b__subpara_i",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_25__para_b__subpara_ii"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_25",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dalam subseksyen (2)—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_25__para_b__subpara_i",
-      "@type": "akn:subparagraph",
-      "eli:number": "i",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_25__para_b",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dengan memotong perkataan “in respect of any interest in any scheduled land”; dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_25__para_b__subpara_ii",
-      "@type": "akn:subparagraph",
-      "eli:number": "ii",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_25__para_b",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dengan menggantikan perkataan “three thousand ringgit” dengan perkataan “five thousand ringgit,”; dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_25__para_c",
-      "@type": "akn:paragraph",
-      "eli:number": "c",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_25__para_c__subpara_i",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_25__para_c__subpara_ii",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_25__para_c__subpara_iii",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_25__para_c__subpara_iv"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_25",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dalam subseksyen (3)— Pindaan seksyen 38"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_25__para_c__subpara_i",
-      "@type": "akn:subparagraph",
-      "eli:number": "i",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_25__para_c",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dengan menggantikan perkataan “Where the total amount of any award in respect of any scheduled land exceeds fifteen thousand ringgit” dengan perkataan “Where the total amount of any award exceeds thirty thousand ringgit,”;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_25__para_c__subpara_ii",
-      "@type": "akn:subparagraph",
-      "eli:number": "ii",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_25__para_c",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dengan memotong perkataan “undertaking a work which in the opinion of the State Authority is of public utility, and”;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_25__para_c__subpara_iii",
-      "@type": "akn:subparagraph",
-      "eli:number": "iii",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_25__para_c",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dengan menggantikan perkataan “pursuant to section 3” dengan perkataan “or being occupied or used pursuant to Part VII”; dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_25__para_c__subpara_iv",
-      "@type": "akn:subparagraph",
-      "eli:number": "iv",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_25__para_c",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dengan memotong perkataan “in any scheduled land under subsection (1),”."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_26",
-      "@type": "akn:clause",
-      "eli:number": "26",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_26__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_26__para_b"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII",
-      "schema:name": {
-        "@language": "ms",
-        "@value": "Seksyen 38 Akta ibu dipinda—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_26__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_26",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dalam subseksyen (1), dengan memotong perkataan “, and a copy thereof shall be forwarded by the Land Administrator to the Registrar of the Court”; dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_26__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_26__para_b__subpara_i",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_26__para_b__subpara_ii"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_26",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dalam subseksyen (3)— “(b) in other cases, within six weeks of the receipt of the notice from the Land Administrator under section 16, paragraph 35(2)(c), subsection 58(1) or section 59 or within six months from the date of the Land Administrator’s award under sections 14, 35 or Part VII, whichever period shall first expire.”. Pindaan seksyen 40b"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_26__para_b__subpara_i",
-      "@type": "akn:subparagraph",
-      "eli:number": "i",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_26__para_b",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dalam perenggan (a), dengan memasukkan selepas perkataan “the Land Administrator’s award under section 14” perkataan “or compensation made under section 35 or Part VII”; dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_26__para_b__subpara_ii",
-      "@type": "akn:subparagraph",
-      "eli:number": "ii",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_26__para_b",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dengan menggantikan perenggan (b) dengan perenggan yang berikut:"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_27",
-      "@type": "akn:clause",
-      "eli:number": "27",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Subseksyen 40b(5) Akta ibu dipinda dengan memotong perkataan “who is not a valuation officer employed by the Government”. Pindaan sekyen 43"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_28",
-      "@type": "akn:clause",
-      "eli:number": "28",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_28__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_28__para_b"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII",
-      "schema:name": {
-        "@language": "ms",
-        "@value": "Seksyen 43 Akta ibu dipinda—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_28__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_28",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dengan menggantikan perkataan “Form P” dengan perkataan “writing”; dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_28__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_28",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dalam perenggan (b), dengan memotong perkataan “pursuant to section 3”. Pindaan seksyen 48"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_29",
-      "@type": "akn:clause",
-      "eli:number": "29",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_29__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_29__para_b"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII",
-      "schema:name": {
-        "@language": "ms",
-        "@value": "Seksyen 48 Akta ibu dipinda—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_29__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_29",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dengan menggantikan perkataan “shall” dengan perkataan “to”; dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_29__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_29",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dengan menggantikan perkataan “eight” dengan perkataan “five”. Pindaan seksyen 49"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_30",
-      "@type": "akn:clause",
-      "eli:number": "30",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Subseksyen 49(1) Akta ibu dipinda dengan memotong perkataan “pursuant to section 3”. Pindaan seksyen 51"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_31",
-      "@type": "akn:clause",
-      "eli:number": "31",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Perenggan 51(1)(c) Akta ibu dipinda dengan memotong perkataan “made pursuant to any notice under section 10 or 11”. Pindaan seksyen 52"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_32",
-      "@type": "akn:clause",
-      "eli:number": "32",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Seksyen 52 Akta ibu dipinda dengan menggantikan perkataan “mukim or township” dengan perkataan “town, village or mukim”. Pindaan seksyen 53"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_33",
-      "@type": "akn:clause",
-      "eli:number": "33",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Subseksyen 53(3) Akta ibu dipinda dengan memotong perkataan “of any scheduled land”. Pindaan seksyen 55"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_34",
-      "@type": "akn:clause",
-      "eli:number": "34",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_34__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_34__para_b"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII",
-      "schema:name": {
-        "@language": "ms",
-        "@value": "Seksyen 55 Akta ibu dipinda—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_34__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_34__para_a__subpara_i",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_34__para_a__subpara_ii"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_34",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dalam perenggan (1)(a)—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_34__para_a__subpara_i",
-      "@type": "akn:subparagraph",
-      "eli:number": "i",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_34__para_a",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dengan memotong perkataan “in any scheduled land”; dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_34__para_a__subpara_ii",
-      "@type": "akn:subparagraph",
-      "eli:number": "ii",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_34__para_a",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dengan memotong perkataan “pursuant to section 3”; dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_34__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_34",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “A certificate under the hand of the State Secretary” dengan perkataan “Any document”. Pindaan seksyen 57"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_35",
-      "@type": "akn:clause",
-      "eli:number": "35",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Akta ibu dipinda dengan menggantikan seksyen 57 dengan seksyen yang berikut: “57. (1) Whenever it appears to the State Authority that the temporary occupation or use of any land is needed— (a) for any purpose specified in subsection 3(1); (b) in order to carry out public works on any land; or (c) as indicated in a development plan under the law applicable to it relating to town and country planning, the State Authority may direct the Land Administrator to procure the occupation or use of any such land for such term as he shall think fit, not exceeding three years from the date of commencement of such occupation or use, in the manner prescribed by this Part. (2) The Land Administrator or other registering authority shall make a note of any temporary occupation or use of land as specified under paragraphs 9(2)(a) and (b).”. Pindaan seksyen 58"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_36",
-      "@type": "akn:clause",
-      "eli:number": "36",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_36__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_36__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_36__para_c"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII",
-      "schema:name": {
-        "@language": "ms",
-        "@value": "Seksyen 58 Akta ibu dipinda—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_36__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_36",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dalam subseksyen (1), dengan memasukkan selepas perkataan “shall make such offer of compensation” perkataan “in Form R”;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_36__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_36",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(2a) Prior to making an offer for compensation under subsection (1), the Land Administrator may obtain a written opinion on the value of the land from a valuer.”; dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_36__para_c",
-      "@type": "akn:paragraph",
-      "eli:number": "c",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_36",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: “(4) In making any assessment of compensation under subsection (3), the Land Administrator may, whether by way of full or partial substitution for monetary compensation, enter into any arrangement with a person having an interest in such land in such a way as may be equitable, having regard to the interests of the parties concerned. (5) Whenever the Land Administrator enters into any arrangement under subsection (4), he shall make an entry of the particulars thereof in the appropriate register. (6) All the evidence during the enquiry and the amount of compensation offered shall be recorded by the Land Administrator. (7) Nothing in this section shall prevent the State Authority to occupy or use the land if the person interested is not agreeable to the compensation offered pursuant to subsection (1). (8) For the purpose of this section, subsection 14(5) shall be applicable if necessary.”. Pindaan seksyen 59"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_37",
-      "@type": "akn:clause",
-      "eli:number": "37",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Seksyen 59 Akta ibu dipinda dengan memasukkan selepas perkataan “referred to in section 57” perkataan “, the Land Administrator shall make an enquiry to ensure that”. Pindaan seksyen 60"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_38",
-      "@type": "akn:clause",
-      "eli:number": "38",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Seksyen 60 Akta ibu dipinda dengan menggantikan perkataan “Where the Land Administrator is unable to agree with the persons interested on the amount of compensation” dengan perkataan “Where the person interested is unable to agree on the amount of compensation offered by the Land Administrator”. Pindaan seksyen 65"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_39",
-      "@type": "akn:clause",
-      "eli:number": "39",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Seksyen 65 Akta ibu dipinda dengan memasukkan selepas perkataan “pursuant to section 3” perkataan “or Part VII”. Pindaan seksyen 66"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_40",
-      "@type": "akn:clause",
-      "eli:number": "40",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Seksyen 66 Akta ibu dipinda dengan menggantikan perkataan “a subdivided building, in the person” dengan perkataan “a subdivided building or land, in the person, statutory body”. Pindaan seksyen 69"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_41",
-      "@type": "akn:clause",
-      "eli:number": "41",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_41__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_41__para_b"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII",
-      "schema:name": {
-        "@language": "ms",
-        "@value": "Seksyen 69 Akta ibu dipinda—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_41__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_41",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dengan memasukkan selepas perenggan (b) perenggan yang berikut: “(ba) prescribe any Form in the Second Schedule in electronic form;”; dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_41__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_41",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dalam perenggan (d), dengan menggantikan perkataan “the application for acquisition of land under paragraph 3(1)(b) or (c)” dengan perkataan “any matter under this Act”. Pindaan Jadual Pertama"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_42",
-      "@type": "akn:clause",
-      "eli:number": "42",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_42__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_42__para_b"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII",
-      "schema:name": {
-        "@language": "ms",
-        "@value": "Jadual Pertama Akta ibu dipinda—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_42__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_42",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dalam tajuk, dengan menggantikan perkataan “[Sections 12, 35, 46 and 47]” dengan perkataan “[Sections 12, 35 and 47]”; dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_42__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_42",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dalam subperenggan (1)(2d), dengan menggantikan perkataan “within the meaning of section 214a of the National Land Code [Act 56 of 1965], the market value shall not in any way be affected by the fact that it can be sold to one person” dengan perkataan “, the market value of such land shall be determined taking into consideration section 214a of the National Land Code”. Kecualian dan peralihan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII__cl_43",
-      "@type": "akn:clause",
-      "eli:number": "43",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/7/msa@/~part_VII",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Semua prosiding, tindakan atau perkara lain yang dikehendaki dijalankan di bawah seksyen 3f dan 28, subseksyen 37(2) dan (3) Akta ibu yang masih belum selesai atau sedang dalam tindakan, sebaik sebelum permulaan kuat kuasa Akta ini, hendaklah diteruskan atau diselesaikan seolah-olah Akta ibu tidak dipinda oleh Akta ini."
       }
     }
   ]

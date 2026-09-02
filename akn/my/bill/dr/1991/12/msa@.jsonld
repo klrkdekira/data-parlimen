@@ -27,6 +27,7 @@
       "hasPart": [
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/12/msa@/~cl_1",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/12/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/12/msa@/~cl_3",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/12/msa@/~sched_1",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/12/msa@/~sched_2"
       ],
@@ -63,7 +64,24 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/12/msa@/~cl_2",
       "schema:text": {
         "@language": "ms",
-        "@value": "Maka adalah dibenarkan supaya dikeluarkan sejumlah wang yang tidak melebihi dua ribu lima ratus empat puluh satu juta empat ratus tujuh puluh ribu ringgit ($2,541,470,000) daripada Kumpulan Wang Disatukan bagi perbelanjaan untuk perkhidmatan-perkhidmatan yang dinyatakan dalam Jadual Pertama bagi perkhidmatan tahun 1990, yang tidak diperuntukkan atau yang tidak diperuntukkan dengan sepenuhnya oleh Akta Perbekalan 1990, Akta Perbekalan Tambahan (1989 dan 1990) 1990 dan Akta Perbekalan Tambahan (1989 dan 1990) (No. 2) 1990. (2) Wang yang tersebut itu adalah diperuntukkan bagi maksud yang dinyatakan dalam Jadual Pertama. Perbelanjaan 3. (1) Maka adalah dibenarkan supaya dikeluarkan tambahan sejumlah wang yang tidak melebihi dua ratus lima juta bagi tahun 1991. lima puluh sembilan ribu satu ratus ringgit ($205,059,100) daripada Kumpulan Wang Disatukan bagi perbelanjaan untuk perkhidmatan-perkhidmatan yang dinyatakan dalam Jadual Kedua bagi perkhidmatan tahun 1991, yang tidak diperuntukkan atau yang tidak diperuntukkan Akta A788. dengan sepenuhnya oleh Akta Perbekalan 1991. (2) Wang yang tersebut itu adalah diperuntukkan bagi maksud-maksud yang dinyatakan dalam Jadual Kedua."
+        "@value": "Maka adalah dibenarkan supaya dikeluarkan sejumlah wang yang tidak melebihi dua ribu lima ratus empat puluh satu juta empat ratus tujuh puluh ribu ringgit ($2,541,470,000) daripada Kumpulan Wang Disatukan bagi perbelanjaan untuk perkhidmatan-perkhidmatan yang dinyatakan dalam Jadual Pertama bagi perkhidmatan tahun 1990, yang tidak diperuntukkan atau yang tidak diperuntukkan dengan sepenuhnya oleh Akta Perbekalan 1990, Akta Perbekalan Tambahan (1989 dan 1990) 1990 dan Akta Perbekalan Tambahan (1989 dan 1990) (No. 2) 1990. (2) Wang yang tersebut itu adalah diperuntukkan bagi maksud yang dinyatakan dalam Jadual Pertama."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/12/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/12/msa@/~cl_3__subsec_1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/12/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/12/msa@/~cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/12/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Maka adalah dibenarkan supaya dikeluarkan sejumlah wang yang tidak melebihi dua ratus lima juta 1991. lima puluh sembilan ribu satu ratus ringgit ($205,059,100) daripada Kumpulan Wang Disatukan bagi perbelanjaan untuk perkhidmatan-perkhidmatan yang dinyatakan dalam Jadual Kedua bagi perkhidmatan tahun 1991, yang tidak diperuntukkan atau yang tidak diperuntukkan dengan sepenuhnya oleh Akta Perbekalan 1991. (2) Wang yang tersebut itu adalah diperuntukkan bagi maksud-maksud yang dinyatakan dalam Jadual Kedua."
       }
     },
     {
@@ -73,7 +91,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/12/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "(Seksyen 2) Maksud Tajuk B. 2 Pejabat Penyimpan Mohor Besar Raja-Raja B. 4 Suruhanjaya Pilihanraya B. 5 Suruhanjaya Perkhidmatan Awam Jabatan Perdana Menteri B. 7 B. 10 Jabatan Peguam Negara B. 13 Kementerian Kehakiman B. 19 Kementerian Pertanian B. 26 Kementerian Pendidikan B. 27 Kementerian Luar Negeri B. 28 Perbendaharaan B. 29 Perkhidmatan Am Perbendaharaan B. 30 Peruntukan kepada Kumpulan Wang Terkanun B. 34 Kementerian Kesihatan B. 40 Jabatan Penjara B. 43 Jabatan Pertahanan Awam B. 47 Kementerian Pengangkutan B. 51 Kementerian Perpaduan Negara dan Pembangunan Masyarakat B. 52 Kementerian Kerja Raya B. 54 Kementerian Pembangunan Luar Bandar JUMLAH PERBEKALAN TAMBAHAN (1990 DAN 1991)"
+        "@value": "(Seksyen 2) Maksud Tajuk kepada maksud B. 2 Pejabat Penyimpan Mohor Besar Raja-Raja B. 4 Suruhanjaya Pilihanraya B. 5 Suruhanjaya Perkhidmatan Awam Jabatan Perdana Menteri B. 7 135,100.000 B. 10 Jabatan Peguam Negara B. 13 Kementerian Kehakiman B. 19 Kementerian Pertanian B. 26 Kementerian Pendidikan B. 27 Kementerian Luar Negeri B. 28 Perbendaharaan B. 29 Perkhidmatan Am Perbendaharaan B. 30 Peruntukan kepada Kumpulan Wang 2,079,000,000 Terkanun B. 34 Kementerian Kesihatan B. 40 Jabatan Penjara B. 43 Jabatan Pertahanan Awam B. 47 Kementerian Pengangkutan B. 51 Kementerian Perpaduan Negara dan Pembangunan Masyarakat B. 52 Kementerian Kerja Raya B. 54 Kementerian Pembangunan Luar Bandar JUMLAH 2,541,470,000 PERBEKALAN TAMBAHAN (1990 DAN 1991)"
       }
     },
     {
@@ -83,7 +101,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/12/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "(Seksyen 3) Tajuk Peruntukan Maksud kepada maksud Jabatan Perdana Menteri B. 7 5,782,000 Kementerian Pertanian B. 19 45.686,600 B. 20 Kementerian Perdagangan Antarabangsa 2,342,500 dan Industri B. 21 2,069.000 Kementerian Perdagangan Dalam Negeri dan Hal Ehwal Pengguna Peruntukan kepada Kumpulan Wang B. 30 100,500,000 Terkanun Polis DiRaja Malaysia B. 36 10,000,000 Kementerian Kerja Raya B. 52 12,000,000 Kementerian Pembangunan Luar Bandar B. 54 24,717,000 Kementerian Perpaduan Negara dan B. 56 1,962,000 Pembangunan Masyarakat JUMLAH 205,059,100"
+        "@value": "(Seksyen 3) Tajuk Maksud Jabatan Perdana Menteri B. 7 Kementerian Pertanian B. 19 B. 20 Kementerian Perdagangan Antarabangsa dan Industri B. 21 Kementerian Perdagangan Dalam Negeri dan Hal Ehwal Pengguna Peruntukan kepada Kumpulan Wang B. 30 100,500,000 Terkanun Polis DiRaja Malaysia B. 36 Kementerian Kerja Raya B. 52 Kementerian Pembangunan Luar Bandar B. 54 Kementerian Perpaduan Negara dan B. 56 Pembangunan Masyarakat JUMLAH 205,059,100"
       }
     }
   ]

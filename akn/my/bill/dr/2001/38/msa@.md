@@ -28,11 +28,31 @@ III
 
 ## KAWALAN FILEM DAN BAHAN PUBLISITI FILEM
 
-5. Filem lucah 6. Filem atau bahan publisiti filem yang tidak diluluskan 7. Penahanan filem dan bahan publisiti filem yang diimport 8. Permit, dsb., bagi maksud seksyen 7 9. Pengemukaan filem untuk penapisan 10. Keputusan Lembaga 11. Pengubahan 12. Penyimpanan dan pemulangan filem 13. Pelupusan filem yang tidak diluluskan 14. Perakuan "A" 15. Pengelasan filem 16. Pembuatan pendua filem 17. Perakuan "B"
+5. Filem lucah 6. Filem atau bahan publisiti filem yang tidak diluluskan 7. Penahanan filem dan bahan publisiti filem yang diimport 8. Permit, dsb., bagi maksud seksyen 7 9. Pengemukaan filem untuk penapisan
+
+10. Keputusan Lembaga
+
+11. Pengubahan
+
+12. Penyimpanan dan pemulangan filem
+
+13. Pelupusan filem yang tidak diluluskan
+
+14. Perakuan "A"
+
+15. Pengelasan filem
+
+16. Pembuatan pendua filem
+
+17. Perakuan "B"
 
 <!-- page 2 -->
 
-18. Pempameran tanda kelulusan, perakuan dan pengelasan 19. Pengemukaan bahan publisiti filem 20. Tanda kelulusan pada bahan publisiti filem
+18. Pempameran tanda kelulusan, perakuan dan pengelasan
+
+19. Pengemukaan bahan publisiti filem
+
+20. Tanda kelulusan pada bahan publisiti filem
 
 ## BAHAGIAN
 
@@ -40,13 +60,25 @@ IV
 
 ## RAYUAN
 
-21. Rayuan 22. Jawatankuasa Rayuan 23. Kuasa Jawatankuasa Rayuan 24. Lembaga mesti melaksanakan keputusan Jawatankuasa Rayuan
+21. Rayuan
+
+22. Jawatankuasa Rayuan
+
+23. Kuasa Jawatankuasa Rayuan
+
+24. Lembaga mesti melaksanakan keputusan Jawatankuasa Rayuan
 
 ## BAHAGIAN V
 
 ## KUASA MENTERI
 
-25. Arahan 26. Larangan 27. Peraturan-peraturan 28. Pengecualian
+25. Arahan
+
+26. Larangan
+
+27. Peraturan-peraturan
+
+28. Pengecualian
 
 ## BAHAGIAN VI
 
@@ -54,23 +86,71 @@ IV
 
 ## PENYITAAN, PENANGKAPAN, DSB.
 
-29. Pelantikan Pegawai Penguat Kuasa 30. Kuasa untuk menyiasat 31. Kad kuasa 32. Penggeledahan dan penyitaan dengan waran 33. Penggeledahan dan penyitaan tanpa waran 34. Pemeriksaan orang 35. Penyitaan filem, dsb. 36. Notis penyitaan 37. Kuasa penangkapan 38. Kuasa untuk menghendaki kehadiran orang yang mengetahui kes 39. Pemeriksaan orang yang mengetahui kes 40. Pelucuthakan filem, dsb., yang disita
+29. Pelantikan Pegawai Penguat Kuasa
+
+30. Kuasa untuk menyiasat
+
+31. Kad kuasa
+
+32. Penggeledahan dan penyitaan dengan waran
+
+33. Penggeledahan dan penyitaan tanpa waran
+
+34. Pemeriksaan orang
+
+35. Penyitaan filem, dsb.
+
+36. Notis penyitaan
+
+37. Kuasa penangkapan
+
+38. Kuasa untuk menghendaki kehadiran orang yang mengetahui kes
+
+39. Pemeriksaan orang yang mengetahui kes
+
+40. Pelucuthakan filem, dsb., yang disita
 
 <!-- page 3 -->
 
-41. Kos memegang filem, dsb., yang disita 42. Tiada kos atau ganti rugi yang berbangkit daripada penyitaan boleh didapatkan
+41. Kos memegang filem, dsb., yang disita
+
+42. Tiada kos atau ganti rugi yang berbangkit daripada penyitaan boleh didapatkan
 
 ## BAHAGIAN VII
 
 ## PELBAGAI
 
-43. Pendakwaan 44. Bidang kuasa mahkamah Majistret Kelas Satu 45. Kesalahan yang dilakukan oleh pertubuhan perbadanan 46. Pengkompaunan kesalahan 47. Anggapan 48. Keputusan di bawah Akta tidak tertakluk kepada rayuan atau kajian semula 49. Pekhidmat awam 50. Kekebalan daripada tindakan undang-undang 51. Tiada tanggungan bagi kehilangan atau kerosakan kepada filem atau bahan publisiti filem 52. Pelupusan filem yang tidak dituntut
+43. Pendakwaan
+
+44. Bidang kuasa mahkamah Majistret Kelas Satu
+
+45. Kesalahan yang dilakukan oleh pertubuhan perbadanan
+
+46. Pengkompaunan kesalahan
+
+47. Anggapan
+
+48. Keputusan di bawah Akta tidak tertakluk kepada rayuan atau kajian semula
+
+49. Pekhidmat awam
+
+50. Kekebalan daripada tindakan undang-undang
+
+51. Tiada tanggungan bagi kehilangan atau kerosakan kepada filem atau bahan publisiti filem
+
+52. Pelupusan filem yang tidak dituntut
 
 ## BAHAGIAN VIII
 
 ## PERUNTUKAN PEMANSUHAN, PERALIHAN DAN KECUALIAN
 
-53. Pemansuhan 54. Lembaga dan Jawatankuasa 55. Penerusan undang-undang 56. Sebutan mengenai Akta termansuh
+53. Pemansuhan
+
+54. Lembaga dan Jawatankuasa
+
+55. Penerusan undang-undang
+
+56. Sebutan mengenai Akta termansuh
 
 ## JADUAL
 
@@ -638,9 +718,7 @@ dalam atau di mana-mana tempat atau premis atau pada mana- mana orang, di dalam 
 
 38. (1) Seseorang Pegawai Penguat Kuasa yang membuat siasatan di bawah Akta ini atau mana-mana peraturan yang dibuat di bawah Akta ini boleh, melalui perintah bertulis, menghendaki mana-mana orang yang pada hemat Pegawai Penguat Kuasa itu mengetahui fakta dan hal keadaan kes itu supaya hadir di hadapannya, dan orang itu hendaklah hadir sebagaimana yang dikehendaki sedemikian.
 
-(2) Jika mana-mana orang enggan hadir sebagaimana yang dikehendaki oleh suatu perintah yang dibuat di bawah subseksyen
-
-(1), Pegawai Penguat Kuasa itu boleh melaporkan keengganannya itu kepada seorang Majistret yang hendaklah mengeluarkan suatu waran untuk memastikan kehadiran orang itu sebagaimana yang dikehendaki oleh perintah itu.
+(2) Jika mana-mana orang enggan hadir sebagaimana yang dikehendaki oleh suatu perintah yang dibuat di bawah subseksyen (1), Pegawai Penguat Kuasa itu boleh melaporkan keengganannya itu kepada seorang Majistret yang hendaklah mengeluarkan suatu waran untuk memastikan kehadiran orang itu sebagaimana yang dikehendaki oleh perintah itu.
 
 ### Pemeriksaan orang yang mengetahui kes
 
@@ -1086,7 +1164,15 @@ II
 
 ## CONTROL OF FILMS AND FILM-PUBLICITY MATERIALS
 
-5. Obscene film 6. Unapproved film or film-publicity material 7. Detention of imported film and film-publicity material 8. Permit, etc., for the purpose of section 7 9. Submission of film for censorship 10. Decision of the Board 11. Alterations 12. Retention and return of film 13. Disposal of unapproved film
+5. Obscene film 6. Unapproved film or film-publicity material 7. Detention of imported film and film-publicity material 8. Permit, etc., for the purpose of section 7 9. Submission of film for censorship
+
+10. Decision of the Board
+
+11. Alterations
+
+12. Retention and return of film
+
+13. Disposal of unapproved film
 
 14. Certificate "A"
 
@@ -1100,7 +1186,9 @@ II
 
 17. Certificate "B" 18. Display of mark of approval, certificate and classification
 
-19. Submission of film-publicity material 20. Mark of approval on film-publicity material
+19. Submission of film-publicity material
+
+20. Mark of approval on film-publicity material
 
 ## PART
 
@@ -1110,13 +1198,23 @@ IV
 
 21. Appeal
 
-22. Appeal Committee 23. Powers of the Appeal Committee 24. Board must give effect to Appeal Committee's decision
+22. Appeal Committee
+
+23. Powers of the Appeal Committee
+
+24. Board must give effect to Appeal Committee's decision
 
 ## PART V
 
 ## POWERS OF THE MINISTER
 
-25. Directions 26. Prohibition 27. Regulations 28. Exemption
+25. Directions
+
+26. Prohibition
+
+27. Regulations
+
+28. Exemption
 
 ## PART VI
 
@@ -1128,7 +1226,11 @@ IV
 
 <!-- page 43 -->
 
-36. Notice of seizure 37. Power of arrest 38. Power to require attendance of persons acquainted with case 39. Examination of persons acquainted with case 40. Forfeiture of film, etc., seized 41. Cost of holding film, etc., seized
+36. Notice of seizure 37. Power of arrest 38. Power to require attendance of persons acquainted with case 39. Examination of persons acquainted with case
+
+40. Forfeiture of film, etc., seized
+
+41. Cost of holding film, etc., seized
 
 42. No costs or damages arising from seizure can be recovered
 
@@ -1136,12 +1238,36 @@ IV
 
 ## MISCELLANEOUS
 
-43. Prosecution 44. Jurisdiction of court of First Class Magistrate 45. Offences committed by body corporate 46. Compounding of offences 47. Presumption 48. Decision under the Act not subject to appeal or review 49. Public servants 50. Immunity from legal action 51. No liability for loss or damage to film or film-publicity material 52. Disposal of unclaimed films
+43. Prosecution
+
+44. Jurisdiction of court of First Class Magistrate
+
+45. Offences committed by body corporate
+
+46. Compounding of offences
+
+47. Presumption
+
+48. Decision under the Act not subject to appeal or review
+
+49. Public servants
+
+50. Immunity from legal action
+
+51. No liability for loss or damage to film or film-publicity material
+
+52. Disposal of unclaimed films
 
 ## PART VIII
 
 ## REPEAL, TRANSITIONAL AND SAVING PROVISIONS
 
-53. Repeal 54. Board and Committees 55. Continuance of laws 56. References to the repealed Act
+53. Repeal
+
+54. Board and Committees
+
+55. Continuance of laws
+
+56. References to the repealed Act
 
 ## SCHEDULE

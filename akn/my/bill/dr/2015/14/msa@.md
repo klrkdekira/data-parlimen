@@ -918,7 +918,7 @@ oleh juruaudit yang berhubungan dengan penyata kewangan teraudit itu.”; dan
 
 51. Akta ibu dipinda dengan memasukkan selepas Bahagian IIIa, Bahagian yang berikut:
 
-“bahagian IIIb
+## “BAHAGIAN IIIB
 
 ## PENGURUSAN RISIKO SISTEMIK DALAM PASARAN MODAL
 
@@ -1002,7 +1002,7 @@ mengurangkan dan menguruskan risiko sistemik dalam pasaran modal atau menyumbang
 
 (b) yang bertanggungjawab bagi penyeliaan atau pemantauan perantara atau peserta pasaran modal.
 
-Penggal IIIc
+## PENGGAL IIIC
 
 ## MAJLIS PENASIHAT SYARIAH
 
@@ -1402,7 +1402,7 @@ Dengan syarat bahawa apa-apa perbuatan, pernyataan, pelaksanaan fungsi atau penj
 
 63. Akta ibu dipinda dengan menggantikan Jadual 1 dengan Jadual yang berikut:
 
-“Jadual 1
+## “JADUAL 1
 
 ## Bahagian 1
 

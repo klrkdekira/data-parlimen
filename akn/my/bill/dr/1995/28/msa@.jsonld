@@ -1,0 +1,269 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-28-1995",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_5"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Perbadanan Pembangunan Bandar (Pembubaran) 1995"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Perbadanan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pembangunan Bandar (Pembubaran) 1995 dan hendaklah mula berkuatkuasa pada tarikh sebagaimana yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "\"Kerajaan\" ertinya Kerajaan Malaysia; \"Menteri\" ertinya Menteri yang bertanggungjawab mengenai pembangunan bandar; \"Perbadanan\" ertinya Perbadanan Pembangunan Bandar yang ditubuhkan di bawah Akta Perbadanan Pembangunan Bandar 1971. 4 RANG UNDANG-UNDANG"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Perbadanan Pembangunan Bandar 1971"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dimansuhkan dan Perbadanan yang ditubuhkan di bawahnya dibubarkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4__subsec_1__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun pemansuhan di bawah seksyen 3, segala—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kuasa;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "hak;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "keistimewaan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kewajipan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "liabiliti; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4__subsec_1__para_f__subpara_aa",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4__subsec_1__para_f__subpara_bb"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "obligasi, di bawah seksyen 18 Akta Perbadanan Pembangunan Bandar 1971 yang sebaik sahaja sebelum mula berkuatkuasanya Akta ini dipunyai oleh Perbadanan hendaklah, pada mula berkuatkuasa Akta ini,—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4__subsec_1__para_f__subpara_aa",
+      "@type": "akn:subparagraph",
+      "eli:number": "aa",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4__subsec_1__para_f",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "turun kepada Kerajaan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4__subsec_1__para_f__subpara_bb",
+      "@type": "akn:subparagraph",
+      "eli:number": "bb",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4__subsec_1__para_f__subpara_bb__subpara_bbb",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4__subsec_1__para_f",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dijalankan mengikut apa-apa undang-undang bertulis yang sedang berkuatkuasa berhubung dengan— .(aaa) perancangan bandar dan desa; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4__subsec_1__para_f__subpara_bb__subpara_bbb",
+      "@type": "akn:subparagraph",
+      "eli:number": "bbb",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4__subsec_1__para_f__subpara_bb",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "cukai, sewa, kadar atau lain caj berkenaan dengan harta."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kebenaran perancangan, kelulusan untuk pembangunan, atau kelulusan pelan bangunan yang diberi berkenaan dengan apa-apa tanah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_4__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa suratcara atau dokumen diterbitkan, oleh Perbadanan menurut kuasanya di bawah seksyen 18 Akta yang dimansuhkan, hendaklah terus berkuatkuasa dan mempunyai kesan dan hendaklah disifatkan telah diberi atau dikeluarkan oleh Kerajaan oleh sebab perjalanan subseksyen (1) sehingga ia dipinda, diubahsuai, dibatalkan atau dikanselkan oleh Kerajaan. (PEMBUBARAN)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_5__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika apa-apa kesulitan atau anomali timbul berkaitan dengan pelaksanaan peruntukan Akta ini, Menteri boleh melalui perintah membuat apa-apa ubahsuaian di dalamnya yang pada hematnya perlu untuk menghapuskan atau mencegah kesulitan atau anomali itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/28/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam seksyen ini, \"ubahsuaian\" termasuklah pindaan, tambahan, pemotongan, penggantian, adaptasi, pengubahan, ubahpindaan dan ketakterpakaian apa-apa peruntukan Akta ini."
+      }
+    }
+  ]
+}

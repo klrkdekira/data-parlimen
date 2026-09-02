@@ -12,13 +12,21 @@
 
 ## PERMULAAN
 
-1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran
+1. Tajuk ringkas dan permulaan kuat kuasa
+
+2. Tafsiran
 
 ## BAHAGIAN II
 
 ## PENTADB IRAN AKTA
 
-3. Pelantikan Ketua Pengarah, Timbalan Ketua Pengarah dan Pengarah 4. Pelantikan Pendaftar, Timbalan Pendaftar, Penolong Pendaftar, pegawai dan pekhidmat lain 5. Kuasa Pendaftar 6. Kuasa pewakilan
+3. Pelantikan Ketua Pengarah, Timbalan Ketua Pengarah dan Pengarah
+
+4. Pelantikan Pendaftar, Timbalan Pendaftar, Penolong Pendaftar, pegawai dan pekhidmat lain
+
+5. Kuasa Pendaftar
+
+6. Kuasa pewakilan
 
 ## BAHAGIAN III
 
@@ -26,17 +34,55 @@
 
 ## Bab 1
 
-Pendaftaran 7. Permohonan bagi pendaftaran Kuasa 8. Pendaftar menghendaki maklumat 9. Pendaftaran dan penolakan pendaftaran 10. Perakuan pendaftaran
+Pendaftaran
+
+7. Permohonan bagi pendaftaran Kuasa
+
+8. Pendaftar menghendaki maklumat
+
+9. Pendaftaran dan penolakan pendaftaran
+
+10. Perakuan pendaftaran
 
 <!-- page 2 -->
 
 ## Bab 2
 
-Peruntukan yang terpakai bagi pertubuhan belia berdaftar 11. Peruntukan yang terpakai bagi pertubuhan belia berdaftar
+Peruntukan yang terpakai bagi pertubuhan belia berdaftar
 
-12. Ketua pertubuhan belia 13. Kehilangan kelayakan yang terpakai kepada pemegang jawatan, penasihat dan pekerja pertubuhan belia berdaftar 14. Representasi 15. Syarat penghentian kehilangan kelayakan 16. Pemeriksaan dokumen dan nilai keterangan salinan yang diakui sah oleh Pendaftar 17. Perubahan nama, tempat urusan dan kaedah-kaedah pertubuhan belia berdaftar 18. Cawangan pertubuhan belia 19. Tanggungan pertubuhan belia berdaftar berkenaan dengan kontrak yang dibuat oleh cawangan 20. Pembatalan dan penggantungan 21. Kuasa Pendaftar membuat perintah tertentu berkenaan dengan pertubuhan belia berdaftar 22. Maklumat yang diberikan oleh pertubuhan belia berdaftar
+11. Peruntukan yang terpakai bagi pertubuhan belia berdaftar
 
-23. Pendaftar meluluskan audit dan perintah sementara bagi pembubaran 24. Orang yang bertanggungjawab membekalkan maklumat 25. Akibat perintah Menteri di bawah seksyen 33, penolakan pendaftaran pertubuhan belia oleh Pendaftar di bawah seksyen 9 dan pembatalan pendaftaran pertubuhan belia di bawah seksyen 20 26. Pemakaian seksyen 25 bagi cawangan pertubuhan belia berdaftar yang menyalahi undang-undang 27. Peletakhakan harta pertubuhan belia yang dibatalkan pendaftarannya kepada pertubuhan belia berdaftar yang baru
+12. Ketua pertubuhan belia
+
+13. Kehilangan kelayakan yang terpakai kepada pemegang jawatan, penasihat dan pekerja pertubuhan belia berdaftar
+
+14. Representasi
+
+15. Syarat penghentian kehilangan kelayakan
+
+16. Pemeriksaan dokumen dan nilai keterangan salinan yang diakui sah oleh Pendaftar
+
+17. Perubahan nama, tempat urusan dan kaedah-kaedah pertubuhan belia berdaftar
+
+18. Cawangan pertubuhan belia
+
+19. Tanggungan pertubuhan belia berdaftar berkenaan dengan kontrak yang dibuat oleh cawangan
+
+20. Pembatalan dan penggantungan
+
+21. Kuasa Pendaftar membuat perintah tertentu berkenaan dengan pertubuhan belia berdaftar
+
+22. Maklumat yang diberikan oleh pertubuhan belia berdaftar
+
+23. Pendaftar meluluskan audit dan perintah sementara bagi pembubaran
+
+24. Orang yang bertanggungjawab membekalkan maklumat
+
+25. Akibat perintah Menteri di bawah seksyen 33, penolakan pendaftaran pertubuhan belia oleh Pendaftar di bawah seksyen 9 dan pembatalan pendaftaran pertubuhan belia di bawah seksyen 20
+
+26. Pemakaian seksyen 25 bagi cawangan pertubuhan belia berdaftar yang menyalahi undang-undang
+
+27. Peletakhakan harta pertubuhan belia yang dibatalkan pendaftarannya kepada pertubuhan belia berdaftar yang baru
 
 ## Bab 3
 
@@ -50,13 +96,19 @@ Pertubuhan Belia dan Pembangunan Belia
 
 ## Bab 4
 
-Rayuan 30. Rayuan
+Rayuan
+
+30. Rayuan
 
 ## Bab 5
 
 Peruntukan Am
 
-31. Pertubuhan belia berdaftar hendaklah bertindak mengikut Perlembagaan 32. Pertubuhan belia disifatkan ditubuhkan di Malaysia 33. Kuasa Menteri mengisytiharkan pertubuhan belia sebagai menyaiahi undang-undang
+31. Pertubuhan belia berdaftar hendaklah bertindak mengikut Perlembagaan
+
+32. Pertubuhan belia disifatkan ditubuhkan di Malaysia
+
+33. Kuasa Menteri mengisytiharkan pertubuhan belia sebagai menyaiahi undang-undang
 
 ## BAHAGIAN IV
 
@@ -68,7 +120,33 @@ Peruntukan Am
 
 ## MAJLIS PERUNDINGAN BELIA NEGARA
 
-35. Majlis Perundingan Belia Negara 36. Fungsi Majlis 37. Keanggotaan Majlis 38. Majlis boleh mengundang orang lain ke persidangan atau mesyuarat 39. Tempoh jawatan 40. Pembatalan pelantikan dan peletakan jawatan 41. Pengosongan jawatan 42. Pengisian kekosongan 43. Jawatankuasa 44. Sekretariat 45. Saraan atau elaun 46. Persidangan Majlis 47. Kehilangan kelayakan menjadi anggota 48. Penguntukan dana
+35. Majlis Perundingan Belia Negara
+
+36. Fungsi Majlis
+
+37. Keanggotaan Majlis
+
+38. Majlis boleh mengundang orang lain ke persidangan atau mesyuarat
+
+39. Tempoh jawatan
+
+40. Pembatalan pelantikan dan peletakan jawatan
+
+41. Pengosongan jawatan
+
+42. Pengisian kekosongan
+
+43. Jawatankuasa
+
+44. Sekretariat
+
+45. Saraan atau elaun
+
+46. Persidangan Majlis
+
+47. Kehilangan kelayakan menjadi anggota
+
+48. Penguntukan dana
 
 <!-- page 4 -->
 
@@ -78,13 +156,23 @@ Peruntukan Am
 
 ## Bab 1
 
-Peruntukan Am 49. Badan induk pertubuhan belia di peringkat kebangsaan 50. Fungsi badan induk pertubuhan belia di peringkat kebangsaan 51. Laporan tahunan
+Peruntukan Am
+
+49. Badan induk pertubuhan belia di peringkat kebangsaan
+
+50. Fungsi badan induk pertubuhan belia di peringkat kebangsaan
+
+51. Laporan tahunan
 
 ## Bab 2
 
 Penguntukan kewangan dan bantuan
 
-52. Permohonan bagi penguntukan tahunan badan induk pertubuhan belia di peringkat kebangsaan 53. Kelulusan penguntukan kewangan dan bantuan 54. Akaun dan audit badan induk pertubuhan belia di peringkat kebangsaan
+52. Permohonan bagi penguntukan tahunan badan induk pertubuhan belia di peringkat kebangsaan
+
+53. Kelulusan penguntukan kewangan dan bantuan
+
+54. Akaun dan audit badan induk pertubuhan belia di peringkat kebangsaan
 
 ## BAHAGIAN VII
 
@@ -94,71 +182,85 @@ Penguntukan kewangan dan bantuan
 
 Peruntukan Am
 
-55. Institut Penyelidikan Pembangunan Belia Malaysia 56. Meterai perbadanan 57. Fungsi Institut 58. Kuasa Institut
+55. Institut Penyelidikan Pembangunan Belia Malaysia
+
+56. Meterai perbadanan
+
+57. Fungsi Institut
+
+58. Kuasa Institut
 
 ## Bab 2
 
 Lembaga Pengarah Institut Penyelidikan Pembangunan Belia Malaysia
 
-59. Lembaga Pengarah 60. Keanggotaan Lembaga 61. Kuasa dan fungsi Lembaga 62. Tempoh jawatan
+59. Lembaga Pengarah
+
+60. Keanggotaan Lembaga
+
+61. Kuasa dan fungsi Lembaga
+
+62. Tempoh jawatan
 
 <!-- page 5 -->
 
-63. Pembatalan pelantikan dan peletakan jawatan 64. Pengosongan jawatan 65. Pewakilan fungsi dan kuasa Lembaga 66. Jawatankuasa Lembaga 67. Saraan dan elaun 68. Kuasa Menteri untuk memberikan arahan 69. Kesahan perbuatan dan presiding
+63. Pembatalan pelantikan dan peletakan jawatan
+
+64. Pengosongan jawatan
+
+65. Pewakilan fungsi dan kuasa Lembaga
+
+66. Jawatankuasa Lembaga
+
+67. Saraan dan elaun
+
+68. Kuasa Menteri untuk memberikan arahan
+
+69. Kesahan perbuatan dan presiding
 
 ## Bab 3
 
 Peruntukan yang berhubungan dengan kakitangan
 
-70. Ketua Pegawai Eksekutif 71. Pelantikan pegawai
+70. Ketua Pegawai Eksekutif
+
+71. Pelantikan pegawai
 
 ## Bab 4
 
 Kewangan
 
-72. Penubuhan Kumpulan Wang 73. Perbelanjaan yang hendaklah dipertanggungkan pada Kumpulan Wang 74. Perbelanjaan dan penyediaan anggaran 75. Pemeliharaan Kumpulan Wang 76. Kuasa untuk melabur 77. Akaun dan laporan 78. Tatacara kewangan 79. Tahun kewangan
+72. Penubuhan Kumpulan Wang
+
+73. Perbelanjaan yang hendaklah dipertanggungkan pada Kumpulan Wang
+
+74. Perbelanjaan dan penyediaan anggaran
+
+75. Pemeliharaan Kumpulan Wang
+
+76. Kuasa untuk melabur
+
+77. Akaun dan laporan
+
+78. Tatacara kewangan
+
+79. Tahun kewangan
 
 ## BAHAGIAN VIII
 
 ## KESALAHAN
 
-80. Pertubuhan belia yang menyalahi undang-undang 81. Penaiti kerana mengurus, dsb., pertubuhan belia yang menyalahi undang- undang 82. Penaiti kerana menghadiri mesyuarat, dsb., pertubuhan belia yang menyalahi undang-undang 83. Penaiti bagi orang yang membenarkan pertubuhan belia yang menyalahi undang-undang dalam premis
+80. Pertubuhan belia yang menyalahi undang-undang
+
+81. Penaiti kerana mengurus, dsb., pertubuhan belia yang menyalahi undang- undang
+
+82. Penaiti kerana menghadiri mesyuarat, dsb., pertubuhan belia yang menyalahi undang-undang
+
+83. Penaiti bagi orang yang membenarkan pertubuhan belia yang menyalahi undang-undang dalam premis
 
 <!-- page 6 -->
 
-» Rang Undang-Undang
-
-84. Penalti, kerana menghasut dsb., seseorang supaya menjadi seorang ahli pertubuhan belia yang menyalahi undang-undang
-
-85. Penalti kerana mendapatkan yuran atau bantuan untuk pertubuhan belia yang menyalahi undang-undang
-
-86. Penalti kerana menyiarkan, dsb., dakyah pertubuhan belia yang menyalahi undang-undang
-
-87. Penalti kerana bertindak bagi pihak atau mewakili suatu pertubuhan belia yang menyalahi undang-undang
-
-88. Penalti pemegang jawatan dalam pertubuhan belia yang pendaftarannya telah dibatalkan
-
-89. Penggunaan bendera, simbol, lambang, lencana dan tanda kebesaran lain bagi pertubuhan belia
-
-90. Liabiliti pemegang jawatan berkenaan dengan kesalahan oleh pertubuhan belia
-
-91. Pertubuhan belia yang menggunakan upacara kongsi gelap disifatkan sebagai pertubuhan belia yang menyalahi undang-undang
-
-92. Penalti kerana salah guna wang atau harta pertubuhan belia berdaftar
-
-93. Penalti kerana mempamerkan atau menggunakan perakuan pendaftaran yang telah dibatalkan
-
-94. Penalti bagi fraud
-
-95. Penalti kerana memberikan maklumat palsu
-
-96. Anggapan
-
-97. Anggapan mengenai keanggotaan, dsb., pertubuhan belia
-
-98. Keterangan pakar
-
-99. Perlindungan pemberi maklumat
+» Rang Undang-Undang 84. Penalti, kerana menghasut dsb., seseorang supaya menjadi seorang ahli pertubuhan belia yang menyalahi undang-undang 85. Penalti kerana mendapatkan yuran atau bantuan untuk pertubuhan belia yang menyalahi undang-undang 86. Penalti kerana menyiarkan, dsb., dakyah pertubuhan belia yang menyalahi undang-undang 87. Penalti kerana bertindak bagi pihak atau mewakili suatu pertubuhan belia yang menyalahi undang-undang 88. Penalti pemegang jawatan dalam pertubuhan belia yang pendaftarannya telah dibatalkan 89. Penggunaan bendera, simbol, lambang, lencana dan tanda kebesaran lain bagi pertubuhan belia 90. Liabiliti pemegang jawatan berkenaan dengan kesalahan oleh pertubuhan belia 91. Pertubuhan belia yang menggunakan upacara kongsi gelap disifatkan sebagai pertubuhan belia yang menyalahi undang-undang 92. Penalti kerana salah guna wang atau harta pertubuhan belia berdaftar 93. Penalti kerana mempamerkan atau menggunakan perakuan pendaftaran yang telah dibatalkan 94. Penalti bagi fraud 95. Penalti kerana memberikan maklumat palsu 96. Anggapan 97. Anggapan mengenai keanggotaan, dsb., pertubuhan belia 98. Keterangan pakar 99. Perlindungan pemberi maklumat
 
 100. Pelucuthakan
 
@@ -182,13 +284,47 @@ Kewangan
 
 <!-- page 7 -->
 
-Pertubuhan Bella dan Pembangunan Bella 108. Permohonan waran geledah 109. Kuasa Majistret untuk mengeluarkan waran geledah 110. Kuasa untuk memasuki premis tanpa waran atau notis 111. Penggeledahan dan penyitaan tanpa waran 112. Kuasa untuk mengelak
+Pertubuhan Bella dan Pembangunan Bella
+
+108. Permohonan waran geledah
+
+109. Kuasa Majistret untuk mengeluarkan waran geledah
+
+110. Kuasa untuk memasuki premis tanpa waran atau notis
+
+111. Penggeledahan dan penyitaan tanpa waran
+
+112. Kuasa untuk mengelak
 
 ## BAHAGIAN X
 
 ## PELBAGAI
 
-113. Pekhidmat awam 114. Akta Perlindungan Pihak Berkuasa Awam 1948 115. Kewajipan kerahsiaan 116. Pewakilan dalam prosiding sivil 117. Pendakwaan 118. Perlindungan 119. Ketidaklayakan kos prosiding, ganti rugi atau relief lain, dsb, 120. Pindaan Jadual 121. Peraturan-peraturan 122. Kesalahan am 123. Kuasa am Menteri 124. Peruntukan peralihan 125. Pencegahan anomali
+113. Pekhidmat awam
+
+114. Akta Perlindungan Pihak Berkuasa Awam 1948
+
+115. Kewajipan kerahsiaan
+
+116. Pewakilan dalam prosiding sivil
+
+117. Pendakwaan
+
+118. Perlindungan
+
+119. Ketidaklayakan kos prosiding, ganti rugi atau relief lain, dsb,
+
+120. Pindaan Jadual
+
+121. Peraturan-peraturan
+
+122. Kesalahan am
+
+123. Kuasa am Menteri
+
+124. Peruntukan peralihan
+
+125. Pencegahan anomali
 
 ## JADUAL PERTAMA JADUAL
 
@@ -448,11 +584,7 @@ telah membawa guaman atau dibawa guaman, tetapi guaman atau prosiding yang sama 
 
 (e) (i) tiada penghakiman dalam apa-apa guaman terhadap mana-mana pertubuhan belia boleh dilaksanakan terhadap orang atau harta orang yang dibawa guaman itu tetapi terhadap harta pertubuhan belia itu;
 
-(ii) permohonan untuk perlaksanaan hendaklah mengandungi penghakiman itu, butir mengenai pihak yang membawa guaman atau dibawa guaman, mengikut mana-mana yang berkenaan, bagi pihak pertubuhan belia dan permohonan itu hendaklah menghendaki supaya penghakiman
-
-<!-- marginal: itu -->
-
-dikuatkuasakan terhadap harta pertubuhan belia itu;
+(ii) permohonan untuk perlaksanaan hendaklah mengandungi penghakiman itu, butir mengenai pihak yang membawa guaman atau dibawa guaman, mengikut mana-mana yang berkenaan, bagi pihak pertubuhan belia dan permohonan itu hendaklah menghendaki supaya penghakiman itu dikuatkuasakan terhadap harta pertubuhan belia itu;
 
 (f) mana-mana anggota yang —
 
@@ -692,19 +824,11 @@ Dengan syarat bahawa sesuatu cawangan hendaklah dalam apa-apa hal disifatkan ber
 
 <!-- page 26 -->
 
-(ii) bahawa pertubuhan belia berdaftar itu mungkin digunakan bagi maksud yang menyalahi undang- undang atau bagi maksud yang memudaratkan atau bertentangan dengan keamanan,
-
-<!-- marginal: kebajikan, -->
-
-keselamatan, ketenteraman awam, atau kemoralan di Malaysia;
+(ii) bahawa pertubuhan belia berdaftar itu mungkin digunakan bagi maksud yang menyalahi undang- undang atau bagi maksud yang memudaratkan atau bertentangan dengan keamanan, kebajikan, keselamatan, ketenteraman awam, atau kemoralan di Malaysia;
 
 (iii) bahawa pertubuhan belia berdaftar itu meneruskan objektif selain objektif yang pertubuhan belia itu didaftarkan;
 
-(iv) bahawa pertubuhan belia berdaftar itu telah dengan sengaja melanggar mana-mana peruntukan Akta ini atau mana-mana peraturan yang dibuat di bawahnya atau mana-mana kaedahnya atau bahawa mana- mana anggota pertubuhan belia berdaftar itu telah secara kebiasaanya melanggar
-
-<!-- marginal: peruntukan -->
-
-subseksyen 4(1) Akta Hasutan 1948 [Akta 15] melalui apa-apa perbuatan atau ungkapan yang perenggan 3(1)(/) Akta itu terpakai;
+(iv) bahawa pertubuhan belia berdaftar itu telah dengan sengaja melanggar mana-mana peruntukan Akta ini atau mana-mana peraturan yang dibuat di bawahnya atau mana-mana kaedahnya atau bahawa mana- mana anggota pertubuhan belia berdaftar itu telah secara kebiasaanya melanggar peruntukan subseksyen 4(1) Akta Hasutan 1948 [Akta 15] melalui apa-apa perbuatan atau ungkapan yang perenggan 3(1)(/) Akta itu terpakai;
 
 (v) bahawa pertubuhan belia berdaftar itu telah terhenti wujud;
 
@@ -716,7 +840,9 @@ subseksyen 4(1) Akta Hasutan 1948 [Akta 15] melalui apa-apa perbuatan atau ungka
 
 (d) apabila pertubuhan belia berdaftar itu menjadi pertubuhan belia yang menyalahi undang-undang di bawah subseksyen 23(6) kerana gagal memberikan maklumat bertulis.
 
-(2) Jika Pendaftar bercadang untuk membatalkan pendaftaran mana-mana pertubuhan belia berdaftar di bawah perenggan 1(c), Pendaftar—
+(2) Jika Pendaftar bercadang untuk membatalkan pendaftaran mana-mana pertubuhan belia berdaftar di bawah perenggan 1(c),
+
+<!-- marginal: Pendaftar— -->
 
 (a) hendaklah memberitahu seorang atau lebih pemegang jawatan pertubuhan belia itu tentang niatnya untuk membatalkan pendaftaran pertubuhan belia itu; dan
 
@@ -902,7 +1028,9 @@ untuk memberikan kepada Pendaftar atau Ketua Pengarah Insolvensi, mengikut mana-
 
 (5) Mana-mana orang yang disebut dalam subseksyen (3) yang tidak mematuhi apa-apa kehendak Pendaftar atau Ketua Pengarah Insolvensi, di bawah subseksyen itu, atau melakukan apa-apa perkara di luar bidang, atau berlawanan dengan, apa-apa kehendak Pendaftar atau Ketua Pengarah Insolvensi di bawah subseksyen (3), melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi sepuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
 
-(6) Bagi maksud subseksyen (3), "pemegangjawatan" termasuklah mana-mana orang yang disebut dalam perenggan l?>(%)(a), (b) dan (c).
+(6) Bagi maksud subseksyen (3), "pemegangjawatan" termasuklah mana-mana orang yang disebut dalam perenggan l?>(%)(a), (b) dan
+
+(c).
 
 (1) Bagi mengelakkan keraguan, dengan ini diisytiharkan bahawa jika harta sesuatu pertubuhan belia berdaftar terletak hak pada Ketua Pengarah Insolvensi di bawah perenggan \(a), maka harta tiap-tiap cawangan pertubuhan belia itu, sama ada ia merupakan suatu cawangan yang sah di sisi undang-undang atau tidak, hendaklah juga terletak hak pada Ketua Pengarah Insolvensi dan seksyen ini hendaklah terpakai bagi tiap-tiap cawangan sedemikian itu dan hartanya.
 
@@ -952,7 +1080,9 @@ memohon kepada Mahkamah Tinggi untuk suatu perintah bagi meletakhakkan segala as
 
 (7) Apabila suatu perintah peletakhakan dibuat oleh Mahkamah di bawah subseksyen (3), segala harta yang terkandung dalam perintah itu hendaklah terletak hak dengan sewajarnya kepada pertubuhan belia baru itu tanpa apa-apa pindah hak, pemindahan hakmilik atau penyerahhakan selanjutnya.
 
-(8) Adalah sah bagi Ketua Pengarah Insolvensi untuk melakukan atau mengambil apa-apa tindakan sebagaimana yang perlu untuk menguruskan apa-apa harta atau melepaskan hutang dan liabiliti pertubuhan belia lama walaupun permohonan d bawah subseksyen (2) belum selesai di Mahkamah.
+(8) Adalah sah bagi Ketua Pengarah Insolvensi untuk melakukan atau mengambil apa-apa tindakan sebagaimana yang perlu untuk menguruskan apa-apa harta atau melepaskan hutang dan liabiliti pertubuhan belia lama walaupun permohonan d bawah subseksyen
+
+(2) belum selesai di Mahkamah.
 
 (9) Ketua Pengarah Insolvensi hendaklah menyiarkan perintah di bawah subseksyen (3) dalam Warta dan mengiklankannya dalam surat khabar bahasa kebangsaan dan bahasa Inggeris, yang diedarkan di Malaysia, dan selepas itu Ketua Pengarah Insolvensi hendaklah terlepas sepenuhnya daripada segala tanggungjawab dan liabiliti dalam perkara itu.
 
@@ -1826,7 +1956,11 @@ dokumen yang ditemui dalam pemilikan mana-mana pemegang jawatan atau orang yang 
 
 (c) dengan sengaja menggunakan apa-apa wang pertubuhan belia itu bagi maksud selain yang dinyatakan dalam kaedah-kaedah pertubuhan belia itu dan peruntukan Akta ini.
 
-(2) Jika Mahkamah itu berpuas hati dengan hal keadaan yang dinyatakan dalam subseksyen (1), mahkamah hendaklah, jika difikirkan perlu untuk keadilan hal itu, memerintahkan pemegang jawatan atau anggota pertubuhan belia berdaftar itu supaya menyerahkan harta atau membayar wang itu kepada pemegang amanah pertubuhan belia berdaftar itu.
+(2) Jika Mahkamah itu berpuas hati dengan hal keadaan yang dinyatakan dalam subseksyen (1), mahkamah hendaklah, jika difikirkan perlu untuk keadilan hal itu, memerintahkan pemegang jawatan atau anggota pertubuhan belia berdaftar
+
+<!-- marginal: itu supaya -->
+
+menyerahkan harta atau membayar wang itu kepada pemegang amanah pertubuhan belia berdaftar itu.
 
 (3) Suatu aduan yang dibuat di bawah subseksyen (1) tidak boleh dilayani melainkan jika Mahkamah itu berpuas hati bahawa pengadu itu, pada tarikh aduan itu, merupakan seorang anggota kepada pertubuhan belia yang berhubung dengan hartanya aduan itu dibuat.
 
@@ -2104,11 +2238,7 @@ if) bentuk suatu daftar atau rekod lain yang hendaklah disimpan atau disenggarak
 
 1. Akta Pandu Puteri 1953 [Akta 456]
 
-2. Akta Persatuan Bulan Sabit Merah Malaysia (Pemerbadanan) 1965 [Akta 540]
-
-3. Akta Persatuan Pengakap-Pengakap (Perbadanan) Malaysia 1968 [Akta 409]
-
-4. Akta (Perbadanan) St. John Ambulans Malaysia 1972 [Akta 74]
+2. Akta Persatuan Bulan Sabit Merah Malaysia (Pemerbadanan) 1965 [Akta 540] 3. Akta Persatuan Pengakap-Pengakap (Perbadanan) Malaysia 1968 [Akta 409] 4. Akta (Perbadanan) St. John Ambulans Malaysia 1972 [Akta 74]
 
 <!-- page 80 -->
 
@@ -2132,11 +2262,7 @@ if) bentuk suatu daftar atau rekod lain yang hendaklah disimpan atau disenggarak
 
 (f) penubuhan dan kaedah pelantikan jawatankuasa atau badan pengelola dan jawatan, kuasa dan fungsi pemegang jawatan bagi pertubuhan dan jika berkenaan, cawangannya;
 
-(g) bahawa, jika Pendaftar menghendaki, pemegang
-
-<!-- marginal: jawatan bagi -->
-
-pertubuhan dan tiap-tiap pegawai yang melaksanakan fungsi eksekutif dalam pertubuhan itu, hendaklah warganegara Malaysia;
+(g) bahawa, jika Pendaftar menghendaki, pemegang jawatan bagi pertubuhan dan tiap-tiap pegawai yang melaksanakan fungsi eksekutif dalam pertubuhan itu, hendaklah warganegara Malaysia;
 
 (h) punca yang daripadanya pertubuhan akan mendapat pendapatannya, termasuk kadar dan kaedah pembayaran apa-apa bayaran masuk dan yuran berkala sebagaimana yang diputuskan;
 

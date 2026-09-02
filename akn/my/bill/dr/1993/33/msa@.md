@@ -48,23 +48,41 @@ dalam Akta ini, adalah dipinda, dalam seksyen 5—
 
 (b) selepas menamatkan tempoh per- khidmatannya dalam jawatan yang lain itu dilantik semula serta-merta untuk memegang jawatan Hakim,
 
-tempoh perkhidmatannya sebagai Hakim sebelum, dan tempoh dia berkhidmat dalam jawatan yang lain itu selepas, dia melepaskan jawatannya sebagai Hakim hendaklah dihitung sebagai tempoh perkhidmatan sebagai Hakim.".
+tempoh perkhidmatannya sebagai Hakim sebelum, dan tempoh dia berkhidmat dalam jawatan yang lain itu selepas, dia melepaskan jawatannya sebagai Hakim hendaklah dihitung sebagai
 
-Pindaan
+<!-- marginal: tempoh -->
 
-3. Seksyen SB Akta ibu adalah dipinda dalam seksyen 8B. subseksyen (1)—
+perkhidmatan sebagai Hakim.".
+
+<!-- marginal: Pindaan -->
+
+3. Seksyen SB Akta ibu adalah dipinda dalam
+
+<!-- marginal: seksyen 8B. -->
+
+subseksyen (1)—
 
 (a) dengan memasukkan selepas perkataan "Hakim Mahkamah Agung" yang mula-mula terdapat dalam subseksyen itu perkataan "atau Mahkamah Tinggi"; dan
 
 (b) dengan memotong perkataan "Mahkamah Agung dan Mahkamah Tinggi".
 
-4. Akta ibu adalah dipinda dengan memasukkan selepas baru 8c seksyen 8B seksyen yang berikut:
+<!-- marginal: Seksyen -->
+
+4. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru 8c -->
+
+seksyen 8B seksyen yang berikut:
 
 Pelepasan 8c. Seseorang Hakim Mahkamah Agung atau jawatan Mahkamah Tinggi yang belum mencapai umur demi enam puluh tahun boleh dikehendaki oleh kepen- tingan Yang di-Pertuan Agong supaya melepaskan negara jawatan Hakim untuk berkhidmat dalam suatu jawatan yang lain selama apa-apa tempoh demi kepentingan negara.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-5. Seksyen 12 Akta ibu adalah dipinda dengan seksyen 12. memasukkan selepas subseksyen (3o) subseksyen yang berikut:
+5. Seksyen 12 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 12. -->
+
+memasukkan selepas subseksyen (3o) subseksyen yang berikut:
 
 <!-- page 3 -->
 

@@ -30,7 +30,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 4. The principal Act is amended by inserting after section 2 the following parts:
 
-“Part Ia
+## “PART IA
 
 ## COMPETENCY OF CHILD WITNESS, EVIDENCE OF CHILD
 
@@ -82,7 +82,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (3) Any rule requiring the Court to warn itself before convicting an accused or finding a child charged with any offence guilty for an offence on the basis of the evidence of a child witness given upon oath or otherwise merely because the evidence is given by a child shall also cease to apply.
 
-Part Ib
+## PART IB
 
 ## CASE MANAGEMENT
 

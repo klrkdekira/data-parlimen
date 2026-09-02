@@ -50,7 +50,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 6. The principal Act is amended by inserting after Part IVa the following part:
 
-“Part IVaa
+## “PART IVAA
 
 ## ELECTRONIC MONITORING DEVICE
 

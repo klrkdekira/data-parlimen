@@ -24,7 +24,21 @@
 
 ## MEMENUHI KEHENDAK UNDANG-UNDANG MELALUI CARA ELEKTRONIK
 
-8. Tulisan 9. Tandatangan 10. Meter ai 11. Saksi 12. Asal 13. Penyimpanan dokumen 14. Salinan 15. Bentuk yang ditetapkan 16. Penyampaian dan penyerahan
+8. Tulisan 9. Tandatangan
+
+10. Meter ai
+
+11. Saksi
+
+12. Asal
+
+13. Penyimpanan dokumen
+
+14. Salinan
+
+15. Bentuk yang ditetapkan
+
+16. Penyampaian dan penyerahan
 
 <!-- page 2 -->
 
@@ -56,7 +70,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Tajuk ringkas dan permulaan kuat kuasa
 
-1. (1) Akta ini bolehlah dinamakan Akta Perdagangan Elektronik 2006.
+1. (1) Akta ini bolehlah dinamakan Akta Perdagangan Elektronik
+
+2006.
 
 (2) Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
 
@@ -332,7 +348,15 @@ masa yang munasabah yang pengakuterimaan itu mesti diterima; dan
 
 (Seksyen 2)
 
-Akta ini tidak terpakai bagi transaksi atau dokumen yang berikut: 1. Surat kuasa wakil 2. Pembentukan wasiat dan kodisil 3. Pembentukan amanah 4. Surat cara boleh niaga
+Akta ini tidak terpakai bagi transaksi atau dokumen yang berikut:
+
+1. Surat kuasa wakil
+
+2. Pembentukan wasiat dan kodisil
+
+3. Pembentukan amanah
+
+4. Surat cara boleh niaga
 
 <!-- page 14 -->
 
@@ -412,4 +436,6 @@ Rang Undang-Undang ini bertujuan untuk mengadakan peruntukan bagi pengiktirafan 
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN(U2)2384]
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
+
+<!-- marginal: [PN(U2)2384] -->

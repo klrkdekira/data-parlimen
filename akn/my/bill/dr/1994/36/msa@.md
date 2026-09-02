@@ -42,11 +42,29 @@ c) dalam takrif "trust corporation" dengan menggantikan perkataan "Official Admi
 
 <!-- page 2 -->
 
-Pindaan 3. Seksyen 23, subseksyen 39(1), seksyen 45, 48, 49 dan seksyen 23. 81 Akta ibu adalah dipinda dengan menggantikan perkataan 39,45,48,49 dan 81. "Official Administrator" dengan perkataan "Corporation.".
+<!-- marginal: Pindaan -->
 
-Pemotongan. 4. Akta ibu adalah dipinda dengan memotong seksyen 46, 78, 79, 80, 82, 83, 84, 85, 87, 88, 89 dan subseksyen 90(2).
+3. Seksyen 23, subseksyen 39(1), seksyen 45, 48, 49 dan
 
-Pindaan 5. Seksyen 86 Akta ibu adalah dipinda— seksyen 86.
+<!-- marginal: seksyen 23. -->
+
+81 Akta ibu adalah dipinda dengan menggantikan perkataan
+
+<!-- marginal: 39,45,48,49 -->
+
+<!-- marginal: dan 81. -->
+
+"Official Administrator" dengan perkataan "Corporation.".
+
+<!-- marginal: Pemotongan. -->
+
+4. Akta ibu adalah dipinda dengan memotong seksyen 46, 78, 79, 80, 82, 83, 84, 85, 87, 88, 89 dan subseksyen 90(2).
+
+<!-- marginal: Pindaan -->
+
+5. Seksyen 86 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 86. -->
 
 (a) dalam notabiraidenganmenggantikanperkataan "Public Trustee" dengan perkataan "the Corporation";
 

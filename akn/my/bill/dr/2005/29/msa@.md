@@ -10,7 +10,9 @@ D.R. 29/2005
 
 ## PERMULAAN
 
-1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran
+1. Tajuk ringkas dan permulaan kuat kuasa
+
+2. Tafsiran
 
 ## BAHAGIAN II
 
@@ -22,23 +24,53 @@ D.R. 29/2005
 
 ## PENTADBIRAN AKTA
 
-4. Pelantikan Pesuruhjaya Warisan 5. Pelantikan pegawai 6. Fungsi Pesuruhjaya 7. Kuasa Pesuruhjaya
+4. Pelantikan Pesuruhjaya Warisan
+
+5. Pelantikan pegawai
+
+6. Fungsi Pesuruhjaya
+
+7. Kuasa Pesuruhjaya
 
 ## BAHAGIAN IV
 
 ## MAJLIS WARISAN KEBANGSAAN
 
-8. Penubuhan Majlis Warisan Kebangsaan 9. Fungsi Majlis 10. Keanggotaan Majlis 11. Setiausaha 12. Tempoh jawatan
+8. Penubuhan Majlis Warisan Kebangsaan
+
+9. Fungsi Majlis
+
+10. Keanggotaan Majlis
+
+11. Setiausaha
+
+12. Tempoh jawatan
 
 <!-- page 2 -->
 
-13. Pembatalan pelantikan dan peletakan jawatan anggota 14. Pengosongan jawatan 15. Pengisian kekosongan 16. Mesyuarat Majlis 17. Tatacara mesyuarat 18. Jawatankuasa 19. Saraan atau elaun
+13. Pembatalan pelantikan dan peletakan jawatan anggota
+
+14. Pengosongan jawatan
+
+15. Pengisian kekosongan
+
+16. Mesyuarat Majlis
+
+17. Tatacara mesyuarat
+
+18. Jawatankuasa
+
+19. Saraan atau elaun
 
 ## BAHAGIAN V
 
 ## KUMPULAN WANG WARISAN
 
-20. Penubuhan Kumpulan Wang 21. Perbelanjaan yang hendaklah dipertanggungkan pada Kumpulan Wanj 22. Akaun dan audit
+20. Penubuhan Kumpulan Wang
+
+21. Perbelanjaan yang hendaklah dipertanggungkan pada Kumpulan Wanj
+
+22. Akaun dan audit
 
 ## BAHAGIAN VI
 
@@ -60,25 +92,47 @@ warisan
 
 ## Bab 2
 
-Permtah Perlindungan Interim 33. Pesuruhjaya boleh membuat Perintah Perlindungan Interim 34. Tempoh Perintah Perlindungan Interim 35. Kerja-kerja yang dibenarkan semasa Perintah Perlindungan Interim
+Permtah Perlindungan Interim
+
+33. Pesuruhjaya boleh membuat Perintah Perlindungan Interim
+
+34. Tempoh Perintah Perlindungan Interim
+
+35. Kerja-kerja yang dibenarkan semasa Perintah Perlindungan Interim
 
 ## Bab 3
 
 Urusan yang melibatkan tapak warisan
 
-36. Notis niat untuk menjual tapak warisan 37. Pertukaran pcmunya tapak warisan
+36. Notis niat untuk menjual tapak warisan
+
+37. Pertukaran pcmunya tapak warisan
 
 ## Bab 4
 
 Pemuliharaan dan pemeliharaan tapak warisan
 
-38. Jagaan tapak warisan 39. Pemeriksaan tapak warisan 40. Permohonan bagi kebenaran merancang bagi tapak warisan 41. Perintah Pemeliharaan Monumen 42. Kcwajipan untuk menjaga tapak warisan dalam keadaan baik 43. Pembiayaan kerja pemuliharaan 44. Kuasa untuk mengenakan fi masuk
+38. Jagaan tapak warisan
+
+39. Pemeriksaan tapak warisan
+
+40. Permohonan bagi kebenaran merancang bagi tapak warisan
+
+41. Perintah Pemeliharaan Monumen
+
+42. Kcwajipan untuk menjaga tapak warisan dalam keadaan baik
+
+43. Pembiayaan kerja pemuliharaan
+
+44. Kuasa untuk mengenakan fi masuk
 
 ## Bab 5
 
 Kawasan pemuliharaan dan pelan pengurusan pemuliharaan
 
-45. Kawasan pemuliharaan 46. Pelan pengurusan pemuliharaan
+45. Kawasan pemuliharaan
+
+46. Pelan pengurusan pemuliharaan
 
 ## BAHAGIAN VIII
 
@@ -88,7 +142,11 @@ Kawasan pemuliharaan dan pelan pengurusan pemuliharaan
 
 Penjumpaan objek
 
-47. Penjumpaan objek 48. Hak keempunyaan objek 49. Pengisytiharan sebagai objek warisan oleh Pesuruhjaya
+47. Penjumpaan objek
+
+48. Hak keempunyaan objek
+
+49. Pengisytiharan sebagai objek warisan oleh Pesuruhjaya
 
 <!-- page 4 -->
 
@@ -150,13 +208,39 @@ WARISAN KEBUDAYAAN Dl BAWAH AIR
 
 War is an Kebangsaan
 
-Fa sal 69. Pemunyaan atau pemilikan Warisan Kebangsaan 70. Pertukaran pemunyaan Warisan Kebangsaan 71. Penyenaraian Warisan Kebangsaan dalam Daftar 72. Pemuliharaan dan pemeliharaan Warisan Kebangsaan
+Fa sal
+
+69. Pemunyaan atau pemilikan Warisan Kebangsaan
+
+70. Pertukaran pemunyaan Warisan Kebangsaan
+
+71. Penyenaraian Warisan Kebangsaan dalam Daftar
+
+72. Pemuliharaan dan pemeliharaan Warisan Kebangsaan
 
 ## BAHAGIAN XI
 
 ## HARTA KARUN
 
-73. Keseragaman undang-undang berkenaan dengan harta karun 74. Notis penjumpaan harta karun 75. Pemberitabuan bagi siasatan 76. Masa yang dibcnarkan bagi guaman oleh pihak menuntut 77. Bila harta karun boleh diisytiharkan tiada pemunya 78. Apabila harta karun terletak hak pada Kerajaan Negeri 79. Pelupusan harta karun 80. Kuasa Pesuruhjaya untuk memeriksa apa-apa harta karun 81. Kesalahan 82. Pelucuthakan tuntutan kepada dan kepentingan dalam harta karun
+73. Keseragaman undang-undang berkenaan dengan harta karun
+
+74. Notis penjumpaan harta karun
+
+75. Pemberitabuan bagi siasatan
+
+76. Masa yang dibcnarkan bagi guaman oleh pihak menuntut
+
+77. Bila harta karun boleh diisytiharkan tiada pemunya
+
+78. Apabila harta karun terletak hak pada Kerajaan Negeri
+
+79. Pelupusan harta karun
+
+80. Kuasa Pesuruhjaya untuk memeriksa apa-apa harta karun
+
+81. Kesalahan
+
+82. Pelucuthakan tuntutan kepada dan kepentingan dalam harta karun
 
 ## BAHAGIAN XII
 
@@ -166,35 +250,29 @@ Fa sal 69. Pemunyaan atau pemilikan Warisan Kebangsaan 70. Pertukaran pemunyaan 
 
 Eksport dan import butiran warisan
 
-83. Lesen untuk mengeksport 84. Pengimportan butiran warisan asing 85. Menteri boleh menetapkan tatacara yang perlu
+83. Lesen untuk mengeksport
+
+84. Pengimportan butiran warisan asing
+
+85. Menteri boleh menetapkan tatacara yang perlu
 
 ## Bab 2
 
 Lesen untuk menggali
 
-86. Penggalian objek warisan 87. Permohonan bagi lesen untuk menggali
+86. Penggalian objek warisan
+
+87. Permohonan bagi lesen untuk menggali
 
 <!-- page 6 -->
 
-88. Kelulusan atau penolakan lesen untuk menggali
-
-89. Terma dan syarat lesen
-
-90. Pelanjutan dan pcmbatalan lesen
+88. Kelulusan atau penolakan lesen untuk menggali 89. Terma dan syarat lesen 90. Pelanjutan dan pcmbatalan lesen
 
 ## Bab 3
 
 Pendaftaran peniaga butiran warisan
 
-91. Peniaga bcrdaftar butiran warisan
-
-92. Maklumat mengenai butiran warisan yang dicuri
-
-93. Laporan penjualan atau pembelian butiran warisan
-
-94. Pegawai penguat kuasa boleh memasuki dan mcnggeledah premis perniagaan peniaga berdaftar, dsb.
-
-95. Penyerahan kepada pemunya
+91. Peniaga bcrdaftar butiran warisan 92. Maklumat mengenai butiran warisan yang dicuri 93. Laporan penjualan atau pembelian butiran warisan 94. Pegawai penguat kuasa boleh memasuki dan mcnggeledah premis perniagaan peniaga berdaftar, dsb. 95. Penyerahan kepada pemunya
 
 ## BAHAGIAN XIII
 
@@ -208,11 +286,7 @@ Pendaftaran peniaga butiran warisan
 
 ## PENANGKAPAN, DSB.
 
-97. Pelantikan pegawai penguat kuasa
-
-98. Kuasa untuk menyiasat
-
-99. Kad kuasa
+97. Pelantikan pegawai penguat kuasa 98. Kuasa untuk menyiasat 99. Kad kuasa
 
 100. Penggeledahan dan penyitaan dengan waran
 
@@ -230,7 +304,15 @@ Pendaftaran peniaga butiran warisan
 
 <!-- page 7 -->
 
-107. Kuasa untuk menghendaki kehadiran orang yang mengetahui kes 108. Pemeriksaan orang yang mengetahui kes 109. Kebolehterimaan pernyataan orang tertuduh 110. Pelucuthakan benda, dsb., yang disita 111. Tiada kos atau ganti rugi yang berbangkit daripada penyitaan boleh didapatkan
+107. Kuasa untuk menghendaki kehadiran orang yang mengetahui kes
+
+108. Pemeriksaan orang yang mengetahui kes
+
+109. Kebolehterimaan pernyataan orang tertuduh
+
+110. Pelucuthakan benda, dsb., yang disita
+
+111. Tiada kos atau ganti rugi yang berbangkit daripada penyitaan boleh didapatkan
 
 ## BAHAGIAN XV
 
@@ -242,13 +324,33 @@ Pendaftaran peniaga butiran warisan
 
 ## PELBAGAI
 
-115. Pendakwaan 116. Bidang kuasa Mahkamah Majistret Kelas Pertama 117. Kesalahan yang dilakukan oleh pertubuhan perbadanan 118. Penalti am 119. Pengkompaunan kesalahan 120. Pekhidmat awam 121. Kekebalan daripada tindakan undang-undang 122. Akta Perlindungan Pihak Berkuasa Awam 1948 123. Pewakilan kuasa 124. Peraturan-peraturan
+115. Pendakwaan
+
+116. Bidang kuasa Mahkamah Majistret Kelas Pertama
+
+117. Kesalahan yang dilakukan oleh pertubuhan perbadanan
+
+118. Penalti am
+
+119. Pengkompaunan kesalahan
+
+120. Pekhidmat awam
+
+121. Kekebalan daripada tindakan undang-undang
+
+122. Akta Perlindungan Pihak Berkuasa Awam 1948
+
+123. Pewakilan kuasa
+
+124. Peraturan-peraturan
 
 ## BAHAGIAN XVII
 
 ## PERUNTUKAN PEMANSUHAN DAN KECUALIAN
 
-125. Pemansuhan dan kecualian 126. Pencegahan anomali
+125. Pemansuhan dan kecualian
+
+126. Pencegahan anomali
 
 <!-- page 8 -->
 
@@ -264,7 +366,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Tajuk ringkas dan permulaan kuat kuasa
 
-1. (1) Akta ini bolehlah dinamakan Akta Warisan Kebangsaan 2005.
+1. (1) Akta ini bolehlah dinamakan Akta Warisan Kebangsaan
+
+2005.
 
 (2) Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta; dan Menteri boleh menetapkan tarikh yang berlainan bagi permulaan kuat kuasa Akta ini bagi bahagian yang berlainan dalam Malaysia.
 
@@ -1550,7 +1654,9 @@ Eksport dan import butiran warisan
 
 (6) Jika Pesuruhjaya berpuas hati bahawa objek atau bahan itu ialah butiran warisan dan yang adalah atau akan menjadi mustahak atau penting kepada negara, dia boleh melarang pengeksportan itu.
 
-(7) Mana-mana orang yang melanggar peruntukan subseksyen (1) raelakukan suatu kesalahan dan boleh apabila disabitkan dipenjarakan selama tempoh tidak melebihi sepuluh tahun atau didenda tidak melebihi satu ratus ribu ringgit atau kedua-duanya.
+(7) Mana-mana orang yang melanggar peruntukan subseksyen
+
+(1) raelakukan suatu kesalahan dan boleh apabila disabitkan dipenjarakan selama tempoh tidak melebihi sepuluh tahun atau didenda tidak melebihi satu ratus ribu ringgit atau kedua-duanya.
 
 ### Pengimportan butiran warisan asing
 
@@ -1962,7 +2068,9 @@ dipertuduh dan sama ada semasa penyiasatan atau tidak dan sama ada atau tidak ke
 
 <!-- page 75 -->
 
-(4) Jika suatu kesalahan telah dikompaun di bawah subseksyen (1), tiada pendakwaan boleh dimulakan selepas itu berkenaan dengan kesalahan itu terhadap orang yang kepadanya tawaran untuk mengkompaun telah dibuat dan jika pemilikan telah diambil terhadap mana-mana buku, rekod atau dokumen lain atau apa-apa benda lain, buku, rekod, dokumen atau benda itu boleh dilepaskan tertakluk kepada apa-apa syarat yang dikenakan mengikut syarat kompaun.
+(4) Jika suatu kesalahan telah dikompaun di bawah subseksyen
+
+(1), tiada pendakwaan boleh dimulakan selepas itu berkenaan dengan kesalahan itu terhadap orang yang kepadanya tawaran untuk mengkompaun telah dibuat dan jika pemilikan telah diambil terhadap mana-mana buku, rekod atau dokumen lain atau apa-apa benda lain, buku, rekod, dokumen atau benda itu boleh dilepaskan tertakluk kepada apa-apa syarat yang dikenakan mengikut syarat kompaun.
 
 (5) Amaun yang diterima di bawah seksyen ini hendaklah dibayar ke dalam dan menjadi sebahagian daripada Kumpulan Wang Disatukan Persekutuan dan dalam hal kesalahan di bawah Bahagian XI amaun yang diterima hendaklah dibayar ke dalam dan menjadi sebahagian daripada Kumpulan Wang Disatukan Negeri.
 
@@ -2028,7 +2136,9 @@ yang dicadangkan peruntukan Akta ini atau apa-apa peraturan yang dibuat di bawah
 
 125. (1) Tertaklukkepadasubseksyen(2),AktaBendaPurbal976 [Akta 168] dan Akta Harta Karun 1957 [Akta 542] dimansuhkan.
 
-(2) Akta Harta Karun 1957 hendaklah terus terpakai bagi Negeri- Negeri yang tidak menerima pakai peruntukan Bahagian XI Akta ini melalui suatu undang-undang yang dibuat oleh Badan Perundangan bagi Negeri yang berkaitan mengikut Fasal (3) Perkara 76 Perlembagaan Persekutuan.
+(2) Akta Harta Karun 1957 hendaklah terus terpakai bagi Negeri- Negeri yang tidak menerima pakai peruntukan Bahagian XI Akta ini melalui suatu undang-undang yang dibuat oleh Badan Perundangan bagi Negeri yang berkaitan mengikut Fasal (3)
+
+## Perkara 76 Perlembagaan Persekutuan.
 
 (3) Semua penetapan, peraturan, kaedah, undang-undang kecil, pengecualian, arahan dan perintah yang dibuat, semua daftar yang disimpan dan semua perakuan yang diberikan atau yang mempunyai kesan di bawah undang-undang atau perintah yang dimansuhkan oleh seksyen ini dan yang berkuat kuasa atau mempunyai kesan pada permulaan kuat kuasa Akta ini, hendaklah (tanpa menjejaskan kuasa Menteri untuk meminda peraturan-peraturan, kaedah-kaedah dan undang-undang kecil atau untuk meminda, membatalkan atau
 

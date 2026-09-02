@@ -1,0 +1,2116 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-15-2012",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Security Offences (Special Measures) Bill 2012"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_I__cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_I__cl_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY Short title and commencement"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "SPECIAL POWERS FOR SECURITY OFFENCES Power of arrest and detention"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_III__cl_7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "SPECIAL PROCEDURES RELATING TO ELECTRONIC MONITORING DEVICE Special procedures relating to electronic monitoring device"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_III__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_III__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_III__cl_7__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_III__cl_7__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_III__cl_7__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_III__cl_7__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_III__cl_7__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_III__cl_7__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_III__cl_7__subsec_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_III__cl_7__subsec_9"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_III__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon application by the Public Prosecutor under section 4, the Court shall order the person to be attached with an electronic monitoring device for a period as the Court may determine but which shall not exceed the remainder of the period of detention allowed under subsection 4(5) for purposes of investigation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_III__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Court shall explain the operation of the electronic monitoring device and the terms and conditions of the electronic monitoring device to the person."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_III__cl_7__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The person shall sign a form as specified in the Second Schedule and deposit the form with the Court."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_III__cl_7__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The person shall be attached with an electronic monitoring device by a police officer."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_III__cl_7__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The person shall comply with all the terms and conditions of the electronic monitoring device and shall report to the nearest police station at such time as specified in the form."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_III__cl_7__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who fails to comply with the terms and conditions under subsection (5) commits an offence and shall, on conviction, be liable to imprisonment for a term of not exceeding three years."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_III__cl_7__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who tampers with, or destroys, the electronic monitoring device commits an offence and shall, on conviction, be liable to imprisonment not exceeding three years and such person shall be liable to pay for any damage to the electronic monitoring device arising from his action."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_III__cl_7__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon expiry of the period referred to in subsection (1), the person shall report to the nearest police station for removal of the electronic monitoring device."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_III__cl_7__subsec_9",
+      "@type": "akn:subsection",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This section shall have effect notwithstanding anything inconsistent with Article 9 of the Federal Constitution."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4__subsec_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4__subsec_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4__subsec_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4__subsec_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4__subsec_12"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A police officer may, without warrant, arrest and detain any person whom he has reason to believe to be involved in security offences."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4__subsec_10",
+      "@type": "akn:subsection",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This section shall have effect notwithstanding anything inconsistent with Articles 5 and 9 of the Federal Constitution and section 117 of the Criminal Procedure Code [Act 593]."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4__subsec_11",
+      "@type": "akn:subsection",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection (5) shall be reviewed every five years and shall cease to have effect unless, upon the review, a resolution is passed by both Houses of Parliament to extend the period of operation of the provision."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4__subsec_12",
+      "@type": "akn:subsection",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4__subsec_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4__subsec_12__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4__subsec_12__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purpose of this section, “political belief or political activity” means engaging in a lawful activity through—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4__subsec_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4__subsec_12__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4__subsec_12__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4__subsec_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the expression of an opinion or the pursuit of a course of action made according to the tenets of a political party that is at the relevant time registered under the Societies Act 1966 [Act 335] as evidenced by—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4__subsec_12__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4__subsec_12__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "membership of or contribution to that party; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4__subsec_12__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4__subsec_12__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "open and active participation in the affairs of that party;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4__subsec_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4__subsec_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the expression of an opinion directed towards any Government in the Federation; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4__subsec_12__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4__subsec_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the pursuit of a course of action directed towards any Government in the Federation. Notification to next-of-kin and consultation with legal practitioner"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person arrested under subsection (1) shall be informed as soon as may be of the grounds of his arrest by the police officer making the arrest."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No person shall be arrested and detained under this section solely for his political belief or political activity."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The person arrested and detained under subsection (1) may be detained for a period of twenty-four hours for the purpose of investigation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (4), a police officer of or above the rank of Superintendent of Police may extend the period of detention for a period of not more than twenty-eight days, for the purpose of investigation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the police officer is of the view that further detention is not necessary under subsection (5), the person may be released but an electronic monitoring device may be attached on the person in accordance with subsections (7) and (8) for the purpose of investigation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the police officer intends to attach an electronic monitoring device on the person upon his release, he shall submit a report of the investigation to the Public Prosecutor."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon receipt of the report under subsection (7), the Public Prosecutor may apply to the Court for the person to be attached with an electronic monitoring device in accordance with the provisions in Part III for a period which shall not exceed the remainder of the period of detention allowed under subsection (5). ILLUSTRATION D is arrested for a security offence. After twenty-four hours of detention a Superintendent of Police extended his detention for another seven days. At the expiry of the seven-day period D was released but he was still needed to assist the investigation. Upon receipt of a report from the police officer, the Public Prosecutor may apply to the Court to attach an electronic monitoring device on D. The Court may allow the electronic monitoring device to be attached to D up to a period of twenty-one days."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4__subsec_9",
+      "@type": "akn:subsection",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "One week before the expiry of the period of detention under subsection (5), the police officer conducting the investigation shall submit the investigation papers to the Public Prosecutor."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_5__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_5__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_5__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "When a person is arrested and detained under section 4, a police officer conducting investigation shall—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_5__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "immediately notify the next-of-kin of such person of his arrest and detention; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_5__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "subject to subsection (2), allow such persons to consult a legal practitioner of his choice."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_5__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_5__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_5__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_5__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A police officer not below the rank of Superintendent of Police may authorize a delay of not more than forty-eight hours for the consultation under paragraph (1)(b) if he is of the view that—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_5__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "there are reasonable grounds for believing that the exercise of that right will interfere with evidence connected to security offence;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_5__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "it will lead to harm to another;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_5__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "it will lead to the alerting of other person suspected of having committed such an offence but who are not yet arrested; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_5__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "it will hinder the recovery of property obtained as a result of such an offence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This section shall have effect notwithstanding anything inconsistent with Article 5 of the Federal Constitution. Power to intercept communication"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding any other written law, the Public Prosecutor, if he considers that it is likely to contain any information relating to the commission of a security offence, may authorize any police officer—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to intercept, detain and open any postal article in the course of transmission by post;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to intercept any message transmitted or received by any communication; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to intercept or listen to any conversation by any communication."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Public Prosecutor, if he considers that it is likely to contain any information relating to the communication of a security offence, may—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "require a communications service provider to intercept and retain a specified communication or communications of a specified description received or transmitted, or about to be received or transmitted by that communications service provider; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "authorize a police officer to enter any premises and to install on such premises, any device for the interception and retention of a specified communication or communications of a specified description and to remove and retain such evidence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6__subsec_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (1), a police officer not below the rank of Superintendent of Police may—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "intercept, detain and open any postal article in the course of transmission by post;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "intercept any message transmitted or received by any communication; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "intercept or listen to any conversation by any communication, without authorization of the Public Prosecutor in urgent and sudden cases where immediate action is required leaving no moment of deliberation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If a police officer has acted under subsection (3), he shall immediately inform the Public Prosecutor of his action and he shall then be deemed to have acted under the authorization of the Public Prosecutor."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The court shall take cognizance of any authorization by the Public Prosecutor under this section."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This section shall have effect notwithstanding anything inconsistent with Article 5 of the Federal Constitution."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purpose of this section— “communication” means a communication received or transmitted by post or a telegraphic, telephonic or other communication received or transmitted by electricity, magnetism or other means; “communications service provider” means a person who provides services for the transmission or reception of communications."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_11"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "SPECIAL PROCEDURES RELATING TO SENSITIVE INFORMATION Sensitive information to be used as evidence by the Public Prosecutor"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_10__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_10__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_10__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon receiving the notice under section 9 from the accused the court shall conduct a hearing in camera."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The accused shall submit the sensitive information to the court."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_10__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The court shall view the sensitive information and decide on the relevancy of the sensitive information in the trial."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_10__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the court decides that the sensitive information is relevant the court shall conduct the trial in camera. Sensitive information that arises during trial"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_11__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_11__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_11__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If during the course of the trial the court issues a summons to the Public Prosecutor to produce a document under section 51 of the Criminal Procedure Code and the document contains sensitive information, the Public Prosecutor shall produce the documents for the court to refer to the document."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The court after referring to the document shall decide on the relevancy of the document in the trial."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_11__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_11__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_11__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to subsection (4), if the court decides that the document is relevant the court shall then direct the Public Prosecutor to produce—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_11__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_11__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a statement setting out relevant facts that the sensitive information would tend to prove; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_11__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_11__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a summary of the sensitive information, to be admitted as evidence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_11__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_11__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_11__subsec_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The court shall not direct the Public Prosecutor to produce any—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_11__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_11__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "statement setting out relevant facts that the sensitive information would tend to prove; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_11__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_11__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "summary of the sensitive information, if the Minister certifies that the production of the statement or summary is prejudicial to national security or national interest."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8__subsec_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding section 51A of the Criminal Procedure Code, if the trial of a security offence involves matters relating to sensitive information the Public Prosecutor may, before the commencement of the trial, apply by way of an ex parte application to the court to be exempted from the obligations under section 51A of the Criminal Procedure Code."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Public Prosecutor shall disclose to the court the intention to produce sensitive information as evidence against the accused during the trial and the court shall allow the application under subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The court shall view the sensitive information and other documents relating to the sensitive information and the court shall, in lieu of the delivery of the documents by the Public Prosecutor to the accused, order the Public Prosecutor to produce—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a statement setting out relevant facts that the sensitive information would tend to prove; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a summary of the sensitive information, to be admitted as evidence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8__subsec_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8__subsec_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon delivery of the statement or summary of the sensitive information pursuant to section 51A of the Criminal Procedure Code, if the accused objects to the admission of the statement or summary of the sensitive information as evidence, the accused’s counsel shall be allowed to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "view the sensitive information;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "submit against admission of the statement or summary of the sensitive information in the trial; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8__subsec_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "submit that the sensitive information is to be disclosed to the accused."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Public Prosecutor shall then submit rebuttal submission."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The hearing shall be held in camera."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8__subsec_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8__subsec_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "After hearing the Public Prosecutor’s submission, the court shall decide whether—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8__subsec_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8__subsec_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the statement or summary of the sensitive information is admissible as evidence; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8__subsec_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8__subsec_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the sensitive information be disclosed to the accused."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The decision of the court under this section is non- appealable. Notice of accused’s intention to disclose sensitive information"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_9__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_9__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_9__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If an accused reasonably expects to disclose or to cause the disclosure of sensitive information in any manner, in his defence, the accused shall give two days’ notice to the Public Prosecutor and the court in writing of his intention to do so."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The notice shall include a brief description of the sensitive information."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Whenever an accused learns of additional sensitive information which he reasonably expects to disclose at his trial, he shall give two days’ notice to the Public Prosecutor and the court in writing of his intention to do so and such notice shall include a brief description of the sensitive information."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_9__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No accused shall disclose any information known or believed to be sensitive in connection with his trial until notice has been given under this section and until the court makes a decision pursuant to the procedure in section 10."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_9__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the accused fails to comply with the requirements in this section, the court may preclude disclosure of any sensitive information not made the subject of notice and may prohibit the examination by the accused of any witness with respect to any such information. Hearing of the disclosure of sensitive information by the accused"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Security Offences (Special Measures) Act 2012."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Application"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall apply to security offences. Interpretation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_I__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_I__cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_I__cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "“security offences” means the offences specified in the First Schedule; “Court” means the Sessions Court; “sensitive information” means any document, information and material—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_I__cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "relating to the Cabinet, Cabinet committees and State Executive Council; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_I__cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "that concerns sovereignty, national security, defence, public order, and international relations, whether or not classified as “Top Secret”, “Secret”, “Confidential” or “Restricted” by a minister, the Menteri Besar, Chief Minister of a State or any public officer appointed by a minister; “Minister” means the Minister charged with the responsibility for home affairs; “protected witness” means a witness whose exposure will jeopardize the gathering of evidence or intelligence or jeopardize his life and well-being."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_V__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_V__cl_13"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "TRIAL Trial of security offences"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI__cl_16"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "SPECIAL PROCEDURES RELATING TO PROTECTED WITNESS Evidence of witness given in a special manner"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII",
+      "@type": "akn:part",
+      "eli:number": "VII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII__cl_26"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "EVIDENCE Inconsistency with the Evidence Act 1950"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII",
+      "@type": "akn:part",
+      "eli:number": "VIII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_32"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "MISCELLANEOUS Power to record statements and confessions"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_27__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_27__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_27__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_27__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_27__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_27__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any Sessions Court Judge may record any statement or confession made to him at any time before the commencement of the trial."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_27__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Such statement or confession shall be recorded in full in writing by the Sessions Court Judge to whom it is made and shall then be forwarded to the court before which the case is to be tried."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_27__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No Sessions Court Judge shall record any such statement or confession unless, upon questioning the person making it, he is satisfied that it was made without threat, inducement or promise at that particular time."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_27__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "When the Sessions Court Judge records any confession he shall make a memorandum at the foot of such record to the following effect: “I am satisfied that this confession was made without threat, inducement or promise. It was taken in my presence and hearing and was read over to the person making it and admitted by him to be correct and it contains a full and true account of what he said. Sessions Court Judge.”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_27__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An oath or affirmation shall be taken or made by any person making a statement or confession under this section. Protection of informer"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_28__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_28__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_28__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No complaint by an informer as to a security offence under this Act shall be admitted in evidence in any civil or criminal proceeding whatsoever, and no witness shall be obliged or permitted to disclose the name or address of any informer, or state any matter which might lead to his discovery."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_28__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If any books, documents or papers which are in evidence or liable to inspection in any civil or criminal proceeding whatsoever contain any entry in which any informer is named or described or which might lead to his discovery, the court before which the proceeding is had shall cause all such passages to be concealed from view or to be obliterated so far as is necessary to protect the informer from discovery, but no further. Access by police to detainees or prisoners"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_29__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_29__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding any other written law, a police officer conducting an investigation under this Act shall be allowed to have access to any person whom he has reason to believe to be involved in a security offence who is—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_29__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "being detained under any other written law; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_29__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "under confinement in prison, whether convicted or not. Detention pending exhaustion of legal process"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_30__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_30__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_30__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_30__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_30__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_30__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_30__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_30__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding Article 9 of the Federal Constitution, if the trial court acquits an accused of a security offence the Public Prosecutor may make an oral application to the court for the accused to be remanded in prison pending a notice of appeal to be filed against his acquittal by the Public Prosecutor."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_30__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon application by the Public Prosecutor under subsection (1), the court shall remand the accused in prison pending the filing of the notice of appeal."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_30__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "When the Public Prosecutor files a notice of appeal against the acquittal, the Public Prosecutor may apply to the trial court for an order to commit the accused remanded in custody of the police to prison pending the disposal of the appeal."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_30__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon application by the Public Prosecutor under subsection (3), the court shall commit the accused to prison pending the disposal of the appeal."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_30__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the appeal of the Public Prosecutor is dismissed and the order of acquittal is affirmed, the Public Prosecutor may make an oral application to the court for the accused to be remanded in prison pending a notice of appeal to be filed against the decision of the Court of Appeal by the Public Prosecutor."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_30__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon application by the Public Prosecutor under subsection (5), the court shall remand the accused in prison pending the filing of the notice of appeal."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_30__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An accused committed to prison under this section shall be held until all appeals are disposed of. Power to make regulations"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may make regulations as may be necessary or expedient for giving full effect to or for carrying out the provisions of this Act. Repeal and savings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_32__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_32__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_32__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Internal Security Act 1960 [Act 82] is repealed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_32__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_32__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_32__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The repeal of the Internal Security Act 1960 shall not affect—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_32__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_32__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any order issued or made under the repealed Act prior to the date of coming into operation of this Act, unless earlier revoked by the Minister; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_32__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VIII__cl_32__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any action or proceedings taken under the repealed Act prior to the date of coming into operation of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Part shall have effect notwithstanding anything inconsistent with the Evidence Act 1950 [Act 56]. Statement by any person who is dead, etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A statement made, whether orally or in writing, in the course of, or for the purposes of, an investigation or inquiry into a security offence by any person who is dead or who cannot be found, or who has become incapable of giving evidence shall be admissible as evidence. Conviction based on testimony of a child of tender years"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A conviction obtained based on the uncorroborated testimony of a child of tender years is not illegal, though not given under oath, if the court is of the opinion that the child is possessed of sufﬁ cient intelligence and understands the duty of speaking the truth. Documents seized during raid or in the course of investigation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All documents seized during a raid or in the course of investigation and the contents of the documents shall be admissible as evidence. Evidence of identification of accused or other person"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Evidence of the identification of an accused or other person prior to the trial shall be admissible as evidence even though the identification was by photographs or other methods or held in circumstances in which the witness identifying the accused or other person is not visible to such accused or other person. Search list to be admissible as evidence"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Search list of all documents and things seized during a raid shall be admissible as evidence in court to prove the existence of the documents and things seized that were not produced in court due to the nature of the documents and things. Non-production of exhibit"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The non-production of the actual exhibit protected under sections 8 and 11 shall not be prejudicial to the prosecution’s case. Admissibility of intercepted communication"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where a person is charged for a security offence, any information obtained through an interception of communication under section 6 shall be admissible as evidence at his trial and no person or police officer shall be under any duty, obligation or liability or be in any manner compelled to disclose in any proceedings the procedure, method, manner or any means or devices, or any matter whatsoever with regard to anything done under section 6. Admissibility of documents produced by computers and of statements contained therein"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any documents produced by computers and statements contained therein shall be admissible as evidence. Evidence of accomplice and agent provocateur"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII__cl_26__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII__cl_26__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII__cl_26__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII__cl_26__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII__cl_26__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding any rule of law or any other written law to the contrary, in any proceedings against any person for a security offence—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII__cl_26__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII__cl_26__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "no witness shall be regarded as an accomplice by reason only of such witness having been in any manner concerned in the commission of the security offence or having knowledge of the commission of the offence; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII__cl_26__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII__cl_26__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "no agent provocateur shall be presumed to be unworthy of credit by reason only of his having attempted to abet or abetted the commission of a security offence by any person if the attempt to abet or abetment was for the sole purpose of securing evidence against such person."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII__cl_26__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VII__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding any rule of law or any other written law to the contrary, and that the agent provocateur is a police officer whatever his rank, any statement, whether oral or in writing made to an agent provocateur by any person who is subsequently charged with a security offence shall be admissible as evidence at his trial."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI__cl_14__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI__cl_14__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI__cl_14__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding Article 5 of the Federal Constitution and section 264 of the Criminal Procedure Code, where at any time during the trial of a security offence, any of the witnesses for the prosecution refuses to have his identity disclosed and wishes to give evidence in such a manner that he would not be seen or heard by both the accused and his counsel, the Public Prosecutor may make an oral application to the court for the procedures in this section to apply."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purpose of satisfying itself as to the need to protect the identity of the witness, the court shall hold an inquiry in camera by questioning the witness concerned or any other witness in the absence of the accused and his counsel."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI__cl_14__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If after such inquiry the court is satisfied as to the need to protect the identity of the witness, the evidence of such witness shall be given in such manner that he would not be visible to the accused and his counsel, but would be visible to the court; and further if the witness fears that his voice may be recognized, his evidence shall be given in such manner that he would not be heard by the accused and his counsel."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI__cl_14__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The court may disallow such questions to be put to the witness as to his name, address, age, occupation, race or other particulars or such other questions as in the opinion of the court would lead to the witness’s identification. Identification by witness where evidence is taken in camera"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If in the course of taking evidence under section 14 the accused or any other person is required to be identified by the witness who gives evidence in the manner provided in that section, such identification may be made by the witness through an interpreter or other officer of the court. Protection of witness’ identity"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI__cl_16__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI__cl_16__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI__cl_16__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI__cl_16__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI__cl_16__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI__cl_16__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI__cl_16__subsec_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding any written law to the contrary, any report through any means on a protected witness shall not reveal or contain—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI__cl_16__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI__cl_16__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the name;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI__cl_16__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI__cl_16__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the address;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI__cl_16__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI__cl_16__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the picture of the protected witness or any other person, place or thing which may lead to the identification of the protected witness; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI__cl_16__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI__cl_16__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any evidence or any other thing likely to lead to the identification of the protected witness."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI__cl_16__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_VI__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who prepares a report in contravention of subsection (1) commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding five years and also to a fine not exceeding ten thousand ringgit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_V__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All security offences shall be tried by the High Court. Bail"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_V__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_V__cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_V__cl_13__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_V__cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_V__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Bail shall not be granted to a person who has been charged with a security offence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_V__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_V__cl_13__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_V__cl_13__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_V__cl_13__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_V__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_V__cl_13__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_V__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a person below the age of eighteen years;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_V__cl_13__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_V__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a woman; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_V__cl_13__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~part_V__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a sick or an infirm person, charged with a security offence, other than an offence under Chapter VIA of the Penal Code [Act 574], may be released on bail subject to an application by the Public Prosecutor that the person be attached with an electronic monitoring device in accordance with the Criminal Procedure Code."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "(Section 3) SECURITY OFFENCES Penal Code [Act 574]: (i) Offences under Chapter VI (ii) Offences under Chapter VIA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2",
+      "@type": "akn:schedule",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_9"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "(Section 7) FORM ELECTRONIC MONITORING DEVICE HIGH COURT IN MALAYA/HIGH COURT IN SABAH AND SARAWAK"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Name: ......................................................................................................"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Case No.: ..............................................................................................."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Identity Card No.: ................................................................................."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_4",
+      "@type": "akn:paragraph",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Address: .................................................................................................. ................................................................................................................ ................................................................................................................"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_5",
+      "@type": "akn:paragraph",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Telephone No.: ......................................................................................"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_6",
+      "@type": "akn:paragraph",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Family members to be contacted: ......................................................... ................................................................................................................"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_7",
+      "@type": "akn:paragraph",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Period to be attached with electronic monitoring device (“device”): ......"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_8",
+      "@type": "akn:paragraph",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_8__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_8__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_8__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_8__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_8__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_8__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_8__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_8__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_8__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_8__para_k"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Terms and conditions—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to report to the nearest police station at/for every .........................;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "understands that all movements will be tracked and retained as an official record;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_8__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "agrees to be required to report for device equipment checks if necessary;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_8__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to notify the police officer if there is any change of address;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_8__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to allow inspections of the device by the police officer;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_8__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to report to the nearest police station for removal of the device;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_8__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to return all the device equipment to the police officer;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_8__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to submit to procedures required by the police officer;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_8__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to maintain the device as instructed by the police officer;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_8__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to comply with any directions of the police officer;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_8__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to comply with any other conditions as the court may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2__para_9",
+      "@type": "akn:paragraph",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/15/eng@/~sched_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Failure to comply with the terms and conditions is an offence under subsection 7(6) of this Act. I hereby agree to and shall comply with the terms and conditions as stated in this Form. ……………………………………………… ( )"
+      }
+    }
+  ]
+}

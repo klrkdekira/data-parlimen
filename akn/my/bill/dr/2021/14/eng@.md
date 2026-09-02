@@ -274,7 +274,7 @@ not later than sixty days before the date of expiry of the declaration, and the 
 
 15. The principal Act is amended by inserting after Part VIa the following part:
 
-“Part VIaa
+## “PART VIAA
 
 ## STREAMING TECHNOLOGY
 

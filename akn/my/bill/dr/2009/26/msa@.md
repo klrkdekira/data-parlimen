@@ -6,19 +6,19 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PENTADBIRAN AKTA
 
 3. Pentadbiran Akta
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PENUBUHAN YAYASAN LABUAN
 
@@ -30,7 +30,7 @@
 
 12. Kuasa dan obligasi pengasas
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PENDAFTARAN YAYASAN LABUAN
 
@@ -60,7 +60,7 @@
 
 24. Pendomisilan semula di negara lain
 
-## Bahagian V
+## BAHAGIAN V
 
 ## MAJLIS, PEGAWAI DAN SETIAUSAHA
 
@@ -124,7 +124,7 @@ Pejabat berdaftar
 
 49. Pemeriksaan dan pengemukaan dokumen yang disimpan oleh Lembaga
 
-## Bahagian VI
+## BAHAGIAN VI
 
 ## KEUPAYAAN YAYASAN LABUAN
 
@@ -152,7 +152,7 @@ Pejabat berdaftar
 
 61. Tidak boleh berkuat kuasanya tuntutan atau penghakiman luar negara
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## BENEFISIARI
 
@@ -168,7 +168,7 @@ Pejabat berdaftar
 
 <!-- page 4 -->
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## PEMBUBARAN
 
@@ -178,7 +178,7 @@ Pejabat berdaftar
 
 69. Pembahagian harta
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## PERUNTUKAN AM
 
@@ -210,7 +210,17 @@ Pejabat berdaftar
 
 83. Tatacara jika tidak ditetapkan
 
-84. Pemakaian Akta Lembaga Perkhidmatan Kewangan Labuan 1996 J adual Pertama J adual Kedua J adual Ketiga J adual KeemPat J adual Kelima
+84. Pemakaian Akta Lembaga Perkhidmatan Kewangan Labuan 1996
+
+## J ADUAL PERTAMA
+
+## J ADUAL KEDUA
+
+## J ADUAL KETIGA
+
+## J ADUAL KEEMPAT
+
+## J ADUAL KELIMA
 
 <!-- page 5 -->
 
@@ -220,9 +230,9 @@ Suatu Akta untuk mengadakan peruntukan bagi penubuhan, pengawalseliaan dan pembu
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian i
+## BAHAGIAN I
 
-Permulaan
+## PERMULAAN
 
 ### Tajuk ringkas dan permulaan kuat kuasa
 
@@ -324,7 +334,7 @@ dan termasuklah seseorang yang diisytihar sebagai pemastautin menurut seksyen 43
 
 <!-- page 9 -->
 
-## Bahagian II
+## BAHAGIAN II
 
 ## PENTADBIRAN AKTA
 
@@ -336,7 +346,7 @@ dan termasuklah seseorang yang diisytihar sebagai pemastautin menurut seksyen 43
 
 (3) Tertakluk kepada apa-apa had, jika ada, sebagaimana yang ditetapkan oleh Lembaga, seorang pegawai yang diberi kuasa hendaklah menggunakan semua kuasa, melaksanakan semua kewajipan dan menjalankan semua fungsi Lembaga dan setiap kuasa yang digunakan sedemikian, kewajipan yang dilaksanakan sedemikian dan fungsi yang dijalankan sedemikian hendaklah disifatkan sebagai telah digunakan, dilaksanakan dan dijalankan dengan sewajarnya bagi maksud Akta ini.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## PENUBUHAN YAYASAN LABUAN
 
@@ -450,7 +460,7 @@ sepenuhnya, dan hendaklah terhenti menjadi harta pengasas itu dan tidak boleh me
 
 (b) hendaklah menguatkuasakan aku janji itu berkenaan dengan aset permulaaan yayasan Labuan itu, jika pada akhir tempoh dua belas bulan dari tarikh pendaftaran, harta yang merupakan aset permulaan itu belum menjadi harta yayasan Labuan itu.
 
-## Bahagian iV
+## BAHAGIAN IV
 
 ## PENDAFTARAN YAYASAN LABUAN
 
@@ -640,7 +650,7 @@ Lembaga boleh, dalam tempoh tiga puluh hari dari tarikh tamat tempoh yang dinyat
 
 apabila diterima salinan perakuan pendaftaran yang sedemikian itu, Lembaga hendaklah memotong yayasan Labuan itu daripada daftar dan memperakukan bahawa yayasan Labuan itu telah terhenti menjadi suatu yayasan yang didaftarkan di bawah Akta ini.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## MAJLIS, PEGAWAI DAN SETIAUSAHA
 
@@ -906,9 +916,9 @@ perakuan pendaftaran yayasan Labuan itu atau mana- mana dokumen lain atau sebaha
 
 (2) Salinan perakuan yang diperaku sah yang diberikan di bawah perenggan (1)(b) hendaklah ditandatangani oleh Lembaga dan dimeteraikan dengan meterainya.
 
-## Bahagian VI
+## BAHAGIAN VI
 
-KeuPaYaan YaYaSan laBuan
+## KEUPAYAAN YAYASAN LABUAN
 
 ### Keupayaan dan kuasa
 
@@ -1156,7 +1166,7 @@ Mahkamah boleh memerintahkan supaya apa-apa kerugian atau kos yang disebabkan ke
 
 (d) tuntutan pemiutang dalam hal ketidaksolvenan tertakluk kepada peruntukan seksyen ini.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## BENEFISIARI
 
@@ -1246,7 +1256,7 @@ mengambil segala langkah yang munasabah untuk memelihara hak kerahsiaan benefisi
 
 (2) Subseksyen (1) hendaklah terpakai bagi pegawai yang kepadanya kuasa diwakilkan bagi penjalanan kuasa itu seolah-olah sebutan dalam subseksyen itu mengenai pegawai yang menjalankan kuasa yang diwakilkan itu ialah sebutan bagi pegawai yang bertindak bersesama.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 ## PEMBUBARAN
 
@@ -1298,7 +1308,7 @@ menghendaki sedemikian,
 
 (c) tiada peruntukan yang berkaitan dalam dokumen konstituen yayasan Labuan itu.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 ## PERUNTUKAN AM
 
@@ -1468,7 +1478,7 @@ boleh dibuat kepada Lembaga bagi mendapatkan arahan tentang cara perbuatan atau 
 
 84. Jika terdapat apa-apa percanggahan atau ketidakselarasan peruntukan Akta ini dengan Akta Lembaga Perkhidmatan Kewangan Labuan 1996, peruntukan Akta Lembaga Perkhidmatan Kewangan Labuan 1996 hendaklah mengatasi.
 
-## Jadual Pertama
+## JADUAL PERTAMA
 
 [Subseksyen 8(2)]
 
@@ -1486,7 +1496,7 @@ Butir-butir Piagam
 
 6. Nama dan alamat setiausaha yayasan Labuan itu di Labuan yang merupakan alamat pejabat berdaftar yayasan Labuan itu mengikut kehendak seksyen 44
 
-## Jadual Kedua
+## JADUAL KEDUA
 
 [Subseksyen 8(3)]
 
@@ -1512,7 +1522,7 @@ Peruntukan Piagam
 
 9. Pembatalan piagam oleh pengasas dan pemulangan harta kepada pengasas
 
-## Jadual Ketiga
+## JADUAL KETIGA
 
 [Subseksyen 10(1)]
 
@@ -1526,7 +1536,7 @@ Artikel Yayasan Labuan
 
 4. Pengenalpastian benefisiari yang tinggal apabila yayasan itu dibubarkan
 
-## Jadual KeemPat
+## JADUAL KEEMPAT
 
 [Subseksyen 14(1)]
 
@@ -1556,7 +1566,7 @@ Dokumen bagi Pendaftaran Yayasan Labuan
 
 3. Akuan berkanun oleh setiausaha yayasan Labuan mengenai pematuhan semua kehendak yang berkaitan Akta ini
 
-## Jadual Kelima
+## JADUAL KELIMA
 
 [Seksyen 26 dan 36]
 
@@ -1670,7 +1680,7 @@ Mesyuarat Majlis dan Mesyuarat Pegawai
 
 Akta Yayasan Labuan 2009 (“Akta”) yang dicadangkan oleh Rang Undang-Undang ini bertujuan untuk mengadakan peruntukan bagi penubuhan, pengawalseliaan dan pembubaran yayasan di Labuan dan bagi perkara yang berhubungan dengannya. Konsep yayasan ialah suatu konsep yang diiktiraf secara sah di Negara-negara undang-undang sivil memandangkan sistem undang-undang sivil mengiktiraf konsep mengenai kewajipan secara kontrak bukannya kewajipan secara fidusiari dan ekuiti berbanding sistem common law. Oleh yang demikian, Akta akan merangkumi entiti berhubungan dengan asal-usul undang-undang sivil dan menjadikan entiti Labuan lebih diterima dalam kedua-dua sistem common law dan undang-undang sivil.
 
-## Bahagian I
+## BAHAGIAN I
 
 1. Bahagian I memperkatakan perkara permulaan.
 
@@ -1678,13 +1688,13 @@ Akta Yayasan Labuan 2009 (“Akta”) yang dicadangkan oleh Rang Undang-Undang i
 
 3. Fasal 2 mengandungi takrif perkataan beberapa ungkapan yang digunakan dalam Akta.
 
-## Bahagian II
+## BAHAGIAN II
 
 4. Bahagian II memperkatakan pentadbiran Akta.
 
 5. Fasal 3 memperuntukkan bahawa Lembaga Perkhidmatan Kewangan (sebelum ini dikenali sebagai Lembaga Perkhidmatan Kewangan Luar Pesisir atau LOFSA) bertanggungjawab bagi pentadbiran Akta yang dicadangkan.
 
-## Bahagian III
+## BAHAGIAN III
 
 6. Bahagian III memperkatakan penubuhan sesuatu yayasan Labuan.
 
@@ -1706,7 +1716,7 @@ Akta Yayasan Labuan 2009 (“Akta”) yang dicadangkan oleh Rang Undang-Undang i
 
 14. Fasal 12 menyatakan kuasa dan obligasi pengasas atau pengasas-pengasas yayasan Labuan.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 15. Bahagian IV memperkatakan pendaftaran sesuatu yayasan Labuan di bawah Akta yang dicadangkan.
 
@@ -1734,7 +1744,7 @@ Akta Yayasan Labuan 2009 (“Akta”) yang dicadangkan oleh Rang Undang-Undang i
 
 26. Fasal 24 membenarkan sesuatu yayasan Labuan yang ditubuhkan di Labuan didomisilkan semula dan didaftarkan di bawah undang-undang Negara lain dengan cara yang diperuntukkan di bawah undang-undang Negara itu.
 
-## Bahagian V
+## BAHAGIAN V
 
 27. Bahagian V memperkatakan majlis, pegawai dan setiausaha sesuatu yayasan Labuan.
 
@@ -1784,7 +1794,7 @@ Akta Yayasan Labuan 2009 (“Akta”) yang dicadangkan oleh Rang Undang-Undang i
 
 48. Fasal 48 dan 49 memperkatakan pemeriksaan dokumen yayasan Labuan yang disimpan oleh yayasan Labuan dan Lembaga masing-masing.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 49. Bahagian VI Akta memperkatakan keupayaan yayasan Labuan.
 
@@ -1812,7 +1822,7 @@ Akta Yayasan Labuan 2009 (“Akta”) yang dicadangkan oleh Rang Undang-Undang i
 
 60. Fasal 61 memperuntukkan bahawa tuntutan atau penghakiman luar negara tidak boleh berkuat kuasa di bawah hal keadaan tertentu. Fasal ini selanjutnya memperuntukkan bahawa semua persoalan berkenaan dengan yayasan Labuan yang ditubuhkan dan wujud di bawah Akta ini atau berkenaan dengan pelupusan harta kepadanya, hendaklah ditentukan mengikut Akta ini, tanpa sebutan mengenai undang-undang mana-mana bidang kuasa lain yang dengannya yayasan atau pelupusan itu berkaitan.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 61. Bahagian VII memperkatakan hak benefisiari untuk mendapatkan maklumat mengenai kepentingannya.
 
@@ -1826,7 +1836,7 @@ Akta Yayasan Labuan 2009 (“Akta”) yang dicadangkan oleh Rang Undang-Undang i
 
 65. Fasal 66 memperuntukkan bahawa pegawai sesuatu yayasan Labuan yang bertindak sebulat suara boleh mewakilkan kepada mana-mana seorang daripada mereka melalui dokumen yang ditandatangan oleh setiap daripada mereka, kuasa pegawai untuk memberi kuasa pembahagian harta kepada benefisiari.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 66. Bahagian VIII memperkatakan tentang pembubaran sesuatu yayasan Labuan.
 
@@ -1836,7 +1846,7 @@ Akta Yayasan Labuan 2009 (“Akta”) yang dicadangkan oleh Rang Undang-Undang i
 
 69. Fasal 69 memperkatakan pembahagian harta, jika sesuatu yayasan Labuan dibubarkan dan ada harta yang tinggal selepas pembubarannya, harta itu hendaklah menjadi harta orang yang, mengikut dokumen konstituen, berhak untuk menerima apa-apa harta yang tinggal selepas pembubaran yayasan Labuan itu. Jika tiada peruntukan berlawanan dalam dokumen konstituen sesuatu yayasan Labuan, jika terdapat lebih daripada seorang benefisiari yang tinggal yang berhak untuk menerima harta yang tinggal itu, harta yang tinggal itu hendaklah dibahagikan sama rata antara mereka.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 70. Bahagian IX memperkatakan peruntukan am.
 

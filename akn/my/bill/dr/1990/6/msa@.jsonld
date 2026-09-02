@@ -1,0 +1,189 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-6-1990",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/msa@/~cl_6"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Levi Kenderaan Barang-Barang (Pindaan) 1990"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Levi Kenderaan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Barang-Barang (Pindaan) 1990."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/msa@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 2 Akta Levi Kenderaan Barang-Barang"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "1983, yang disebut \"Akta ibu\" dalam Akta ini, adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah di hujung takrif \"Ketua Pengarah\" dengan koma bertitik; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan, selepas sahaja takrif \"Ketua Pengarah\", takrif baru yang berikut: \"pegawai kastam yang hak\" hendaklah mempunyai erti yang sama yang diberi Akta 235. kepada ungkapan itu dalam Akta Kastam 1967.'. 2 RANG UNDANG-UNDANG"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/msa@/~cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/msa@/~cl_3__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/msa@/~cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/msa@/~cl_3__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/msa@/~cl_3__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 3 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/msa@/~cl_3__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/msa@/~cl_3__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan, selepas sahaja per- kataan-perkataan \"suatu levi\" dalam subsek- syen (1), perkataan-perkataan \"sebanyak satu ratusringgit\";dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/msa@/~cl_3__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/msa@/~cl_3__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan-perkataan \"menetapkan amaun yang hendak dilevikan di bawah Akta ini dan boleh, dari semasa ke semasa, meminda amaun tersebut\" dalam subseksyen (2) dengan perkataan-perkataan \"mengubah, dari semasa ke semasa, amaun levi kenderaan barang-barang yang di- peruntukkan di bawah subseksyen (1)\","
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/msa@/~cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Segala levi kenderaan barang-barang yang dikenakan dan dilevikan di bawah Akta ibu sebelum mula berkuatkuasanya Akta ini adalah dengan ini menjadi sah dan disifatkan sebagai telah dikenakan dan dilevikan menurut undang-undang menurut subseksyen (1) seksyen 3 Akta ibu sebagaimana yang dipinda oleh subseksyen (I) (a) seksyen ini, seolah-olah subseksyen (1) (a) tersebut telah berkuatkuasa semasa levi itu dikenakan dan dilevikan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 4 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menomborkanny a semula sebagai \"4. memasukkan selepas itu, subseksyen baru (2) yang berikut; \"(2) Menteri boleh, jika dia berpuas hati bahawa adalah adil dan wajar berbuat demikian, dalam hal mana-mana kenderaan barang-barang atau kelas kenderaan barang-barang yang tertentu, mengarahkan dibayar balik kesemua atau apa-apa bahagian levi kenderaan barang- barang yang dibayar menurut subseksyen (4) seksyen 3 dalam apa-apa tempoh sebagaimana yang ditentukannya dalam arahan itu, dan, dalam mengarahkan pembayaran balik itu, mengenakan apa-apa syarat sebagaimana yang difikirkannya patut.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "selepas sahaja seksyen 4, seksyen baru 4A yang berikut: \"Pemulang- 4A. Adalah sah di sisi undang-undang bagi an levi Ketua Pengarah, jika dibuktikan dengan kenderaan memuaskan hatinya bahawa apa-apa wang barang- barang yang telah terlebih bayar atau tersalah bayar terlebih sebagai levi kenderaan barang-barang di bayar atau tersalah bawah Akta ini, mengarahkan supaya wang bayar. yang telah terlebih bayar atau tersalah bayar itu dibayar balik: Dengan syarat bahawa pembayaran balik demikian tidaklah boleh dibenarkan melainkan suatu tuntutan berkenaan dengannya dibuat dalam masa satu tahun selepas pembayaran lebih atau pembayaran salah itu dibuat.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan menggantikan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "subseksyen (2) seksyen 7 dengan subseksyen baru (2) yang berikut: \"(2) Mana-mana pegawai kastam yang hak hendaklah, sebagai tambahan kepada tugas- tugas dan kuasa-kuasa yang diberikan Aku23s. kepadanya di bawah Akta Kastam 1967, mempunyai segala tugas dan kuasa untuk menguatkuasakan dan memastikan pema- tuhan wajar akan peruntukan-peruntukan Akta ini, termasuk melakukan pendakwaan bagi apa-apa kesalahan di bawah Akta ini.\"."
+      }
+    }
+  ]
+}

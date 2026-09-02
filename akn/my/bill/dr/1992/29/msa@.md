@@ -60,143 +60,135 @@ Raja-Raja
 
 ## RANG UNDANG-UNDANG
 
-Maksud Tajuk
+<!-- marginal: Maksud -->
 
-<!-- marginal: Amaun -->
+Tajuk Amaun
 
 ### $
 
-B. 3 Jabatan Audit
+<!-- marginal: B. 3 -->
 
-<!-- marginal: 32,964.400 -->
+Jabatan Audit 32,964.400
 
-B. 4 Suruhanjaya Pilihanraya
+<!-- marginal: B. 4 -->
 
-<!-- marginal: 18,424,100 -->
+Suruhanjaya Pilihanraya 18,424,100
 
-B. 5 Suruhanjaya Perkhidmatan Awam
+<!-- marginal: B. 5 -->
 
-<!-- marginal: 12,549,200 -->
+Suruhanjaya Perkhidmatan Awam 12,549,200
 
-B. 6 Suruhanjaya Perkhidmatan Pendidikan
+<!-- marginal: B. 6 -->
 
-<!-- marginal: 4,926.000 -->
+Suruhanjaya Perkhidmatan Pendidikan 4,926.000
 
-B. 7 Jabatan Perdana Menteri
+<!-- marginal: B. 7 -->
 
-<!-- marginal: 481,171,100 -->
+Jabatan Perdana Menteri 481,171,100
 
-B. 8 Jabatan Perkhidmatan Awam
+<!-- marginal: B. 8 -->
 
-<!-- marginal: 651.519.600 -->
+Jabatan Perkhidmatan Awam 651.519.600
 
-B. 9 JabaTan Perangkaan
+<!-- marginal: B. 9 -->
 
-<!-- marginal: 60.764.100 -->
+JabaTan Perangkaan 60.764.100
 
-B. 10 Jabatan Peguam Negara.
+<!-- marginal: B. 10 -->
 
-<!-- marginal: 14,042,300 -->
+Jabatan Peguam Negara. 14,042,300
 
-B. 11 Badan Pencegah Rasuah
+<!-- marginal: B. 11 -->
 
-<!-- marginal: 26.833,100 -->
+Badan Pencegah Rasuah 26.833,100
 
-B. 12 Pejabat Setiausaha Persekutuan. Sabah
+<!-- marginal: B. 12 -->
 
-<!-- marginal: 675.000 -->
+Pejabat Setiausaha Persekutuan. Sabah 675.000
 
-B. 13 Pejabat Setiausaha Persekutuan. Sarawak
+<!-- marginal: B. 13 -->
 
-<!-- marginal: 616,000 -->
+Pejabat Setiausaha Persekutuan. Sarawak 616,000
 
-B. 14 Kementerian Perumahan dan Kerajaan
+<!-- marginal: B. 14 -->
 
-<!-- marginal: 56.244.600 -->
+Kementerian Perumahan dan Kerajaan 56.244.600 Tempatan
 
-Tempatan B. 15 Jabatan Perancangan Bandar dan Desa
+<!-- marginal: B. 15 -->
 
-<!-- marginal: 11,791.500 -->
+Jabatan Perancangan Bandar dan Desa 11,791.500
 
-B. 16 Jabatan Perkhidmatan Bomba
+<!-- marginal: B. 16 -->
 
-<!-- marginal: 100.171.900 -->
+Jabatan Perkhidmatan Bomba 100.171.900
 
-B. 17 Kementerian Belia dan Sukan
+<!-- marginal: B. 17 -->
 
-<!-- marginal: 48.026.900 -->
+Kementerian Belia dan Sukan 48.026.900
 
-B. 18 Kementerian Perusahaan Utama
+<!-- marginal: B. 18 -->
 
-<!-- marginal: 124,451.600 -->
+Kementerian Perusahaan Utama 124,451.600
 
-B. 19 Kementerian Pertanian
+<!-- marginal: B. 19 -->
 
-<!-- marginal: 889.729,400 -->
+Kementerian Pertanian 889.729,400
 
-B. 20 Kementerian Perdagangan Antarabangsa
+<!-- marginal: B. 20 -->
 
-<!-- marginal: 106.000,000 -->
+Kementerian Perdagangan Antarabangsa 106.000,000 dan Industri B. 21 Kementerian Perdagangan Dalam 50,047,800 Negeri dan Hal Ehwal Pengguna
 
-dan Industri B. 21 Kementerian Perdagangan Dalam
+<!-- marginal: B. 22 -->
 
-<!-- marginal: 50,047,800 -->
+Kementerian Kebudayaan, Kesenian 119.512.700 dan Pelancongan
 
-Negeri dan Hal Ehwal Pengguna B. 22 Kementerian Kebudayaan, Kesenian
+<!-- marginal: B. 23 -->
 
-<!-- marginal: 119.512.700 -->
+Jabatan Arkib Negara 9.629,400 B. 24 Muzium Negara 4.513,400
 
-dan Pelancongan B. 23 Jabatan Arkib Negara
+<!-- marginal: B. 25 -->
 
-<!-- marginal: 9.629,400 -->
+Kementerian Pertahanan 3.211.809.000
 
-B. 24 Muzium Negara
+<!-- marginal: B. 26 -->
 
-<!-- marginal: 4.513,400 -->
+Kementerian Pendidikan 7,286.249,000
 
-B. 25 Kementerian Pertahanan
+<!-- marginal: B. 27 -->
 
-<!-- marginal: 3.211.809.000 -->
+Jabatan Perpustakaan Negara 25.857,800
 
-B. 26 Kementerian Pendidikan
+<!-- marginal: B. 28 -->
 
-<!-- marginal: 7,286.249,000 -->
+Perbendaharaan 267.861.000
 
-B. 27 Jabatan Perpustakaan Negara
+<!-- marginal: B. 29 -->
 
-<!-- marginal: 25.857,800 -->
+Perkhidmatan Am Perbendaharaan ' 329.819,040
 
-B. 28 Perbendaharaan
+<!-- marginal: B. 30 -->
 
-<!-- marginal: 267.861.000 -->
+Peruntukan kepada Kumpulan 1.117.500,000 Wane Terkanun
 
-B. 29 Perkhidmatan Am Perbendaharaan '
+<!-- marginal: B. 31 -->
 
-<!-- marginal: 329.819,040 -->
+Jabatan Kastam dan Eksais Diraja 192,715,000
 
-B. 30 Peruntukan kepada Kumpulan
+<!-- marginal: B. 32 -->
 
-<!-- marginal: 1.117.500,000 -->
+Jabatan Hasil Dalam Negeri 133,775.700
 
-Wane Terkanun B. 31 Jabatan Kastam dan Eksais Diraja
+<!-- marginal: B. 33 -->
 
-<!-- marginal: 192,715,000 -->
+Jabatan Penilaian dan Perkhidmatan 29,620.000 Harta
 
-B. 32 Jabatan Hasil Dalam Negeri
+<!-- marginal: B. 34 -->
 
-<!-- marginal: 133,775.700 -->
+Kementerian Kesihatan 1.932.917,800
 
-B. 33 Jabatan Penilaian dan Perkhidmatan
+<!-- marginal: B. 35 -->
 
-<!-- marginal: 29,620.000 -->
-
-Harta B. 34 Kementerian Kesihatan
-
-<!-- marginal: 1.932.917,800 -->
-
-B. 35 Kementerian Dalam Negeri
-
-<!-- marginal: 106,270,400 -->
+Kementerian Dalam Negeri 106,270,400
 
 <!-- page 3 -->
 
@@ -294,12 +286,8 @@ Pembangunan Masyarakat
 
 ## JUMLAH
 
-. .
-
-<!-- marginal: 21.737,014,060 -->
+. . 21.737,014,060
 
 ## HURAIAN
 
-Rang Undang-Undang ini membuat peruntukan bagi mengeluarkan wang daripada Kumpulan Wang Disatukan sebanyak dua puluh satu bilion tujuh ratus tiga puluh tujuh juta empat belas ribu dan enam puluh ringgit ($21,737,014,060) bagi tahun 1993 dan supaya wang tersebut itu diperuntukkan bagi maksud-maksud yang dinyatakan dalam Jadual.
-
-<!-- marginal: [PN. (U2) 1728.| -->
+Rang Undang-Undang ini membuat peruntukan bagi mengeluarkan wang daripada Kumpulan Wang Disatukan sebanyak dua puluh satu bilion tujuh ratus tiga puluh tujuh juta empat belas ribu dan enam puluh ringgit ($21,737,014,060) bagi tahun 1993 dan supaya wang tersebut itu diperuntukkan bagi maksud-maksud yang dinyatakan dalam Jadual. [PN. (U2) 1728.|

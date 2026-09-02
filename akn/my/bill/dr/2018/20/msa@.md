@@ -136,7 +136,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 9. Akta ibu dipinda dengan memasukkan selepas Jadual Ketiga Jadual yang berikut:
 
-“Fourth Schedule
+## “FOURTH SCHEDULE
 
 [Subsection 2(1)]
 
@@ -214,7 +214,7 @@ Work in an environment that relates to germs, bacteria, viruses, fungi, parasite
 
 4. Work above or near water where the risk of drowning exist such as lifeguard, fishing activities and work in water treatment plant.
 
-## FiFth Schedule
+## FIFTH SCHEDULE
 
 [Subsection 2(2b)]
 

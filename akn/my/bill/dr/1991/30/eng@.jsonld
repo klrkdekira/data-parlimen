@@ -113,7 +113,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/30/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "(Section 2) Purpose Title Appropriation to purpose B. 26 Ministry of Education 92,600 B. 27 Ministry of Foreign Affairs 3,334,900 B. 43 Civil Defence Department 800 B. 59 National Unity Department 1,799,000 TOTAL 5,227,300"
+        "@value": "(Section 2) Title Appropriation to purpose Ministry of Education 92,600 Ministry of Foreign Affairs 3,334,900 Civil Defence Department 800 National Unity Department 1,799,000 TOTAL 5,227,300"
       }
     },
     {
@@ -123,7 +123,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/30/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "(Section 3) Purpose Title Appropriation to purpose B. 7 Prime Minister's Department 40,000,000 B. 14 Ministry of Housing and Local 483,800 Government B. 20 Ministry of International Trade 10,674,700 and Industry B. 26 Ministry of Education 150,000,000 B. 28 Treasury 20,513,700 B. 36 Royal Malaysia Police 32,179,100 B. 39 National Registration Department 2,399,200 B. 47 Ministry of Transport 1,587,100 B. 52 Ministry of Works 213,700,000 B. 56 Ministry of National Unity and 20,000.000 Social Development TOTAL 491,537,600 (1990 AND 1991) (NO. 2)"
+        "@value": "(Section 3) Title Appropriation to purpose Prime Minister's Department 40,000,000 Ministry of Housing and Local 483,800 Government Ministry of International Trade 10,674,700 and Industry Ministry of Education 150,000,000 Treasury 20,513,700 Royal Malaysia Police 32,179,100 National Registration Department 2,399,200 Ministry of Transport 1,587,100 Ministry of Works 213,700,000 Ministry of National Unity and 20,000.000 Social Development TOTAL 491,537,600 (1990 AND 1991) (NO. 2)"
       }
     }
   ]

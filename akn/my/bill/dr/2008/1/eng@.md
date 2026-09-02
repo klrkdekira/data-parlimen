@@ -28,11 +28,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (ii) in paragraph (b), by deleting the words "domestic company or foreign"; and
 
-(iii) by inserting after paragraph (e)
-
-<!-- marginal: the following -->
-
-paragraph:
+(iii) by inserting after paragraph (e) the following paragraph:
 
 "(ea) an exchange established under the Labuan Offshore Securities Industry Act 1998 [Act 579];"; and
 
@@ -96,11 +92,7 @@ enforcement agency" the following definition:
 
 (e); and
 
-(iv) by inserting after paragraph (e)
-
-<!-- marginal: the following -->
-
-paragraph:
+(iv) by inserting after paragraph (e) the following paragraph:
 
 "(f) any other written law in Malaysia that is punishable with imprisonment;";
 
@@ -112,17 +104,15 @@ paragraph:
 
 <!-- page 4 -->
 
-4 Bill
+<!-- marginal: 4 -->
+
+Bill
 
 ### Amendment of section 28B
 
 6. Section 28B of the principal Act is amended —
 
-(a) by substituting for subsection (1) the
-
-<!-- marginal: following -->
-
-subsection:
+(a) by substituting for subsection (1) the following subsection:
 
 "(1) The Authority may, in exercise of its supervisory functions under this Act or other law relating to offshore financial services, require any offshore financial institution or any corporation related to the offshore financial institution to submit to the Authority any information-
 
@@ -132,11 +122,7 @@ subsection:
 
 (c) which the Authority deems necessary or expedient for the performance of such supervisory functions.";
 
-(b) by substituting for paragraph (2)(b)
-
-<!-- marginal: the following -->
-
-paragraph:
+(b) by substituting for paragraph (2)(b) the following paragraph:
 
 "(b) to the home supervisory authority of the offshore financial institution, and the disclosure may include any information which relates to an individual offshore financial institution under the supervision of the home supervisory authority.";
 

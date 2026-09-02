@@ -52,15 +52,15 @@ Act", is amended—
 
 (h) by inserting after the definition of "service charge" the following definition: ' "special housing loan" means any loan to an approved company solely for the purpose of relending to borrowers for the purchase of low cost houses;'; and
 
-(i) in the definition of "wages"— (i) by deleting the word "or" at the end of paragraph (c): (ii) by substituting for the full stop at the end of paragraph (d) the word "; or"; and (iii) by inserting after paragraph (d) the following paragraphs: "(e) retrenchment, lay-off
-
-<!-- marginal: or -->
-
-termination benefits;
+(i) in the definition of "wages"— (i) by deleting the word "or" at the end of paragraph (c): (ii) by substituting for the full stop at the end of paragraph (d) the word "; or"; and (iii) by inserting after paragraph (d) the following paragraphs: "(e) retrenchment, lay-off or termination benefits;
 
 <!-- page 3 -->
 
-(f) any travelling allowance or the value of any travelling concession; or
+(f) any travelling allowance or the value of any
+
+<!-- marginal: travelling -->
+
+concession; or
 
 (g) any other remuneration or payment as may be exempted by the Minister.".
 
@@ -116,13 +116,25 @@ section 26 the following section: Power of 26. (1) The Board may subject to sect
 
 (b) to be invested in—
 
-(i) shares of any public company listed on the stock exchange established in Malaysia and buying of new shares, the issue or sale of which has been approved under the Securities Industry Act 1983, in Act 280. any public limited company incorporated in Malaysia which is listed on a stock exchange in Malaysia or the listing of which on a stock exchange in Malaysia has been approved under the Securities Industry Act 1983; or
+(i) shares of any public company listed on the stock exchange established in Malaysia and buying of new shares, the issue or sale of which has been approved under the Securities Industry Act 1983, in
+
+<!-- marginal: Act 280. -->
+
+any public limited company incorporated in Malaysia which is listed on a stock exchange in Malaysia or the listing of which on a stock exchange in Malaysia has been approved under the Securities Industry Act 1983; or
 
 (ii) debentures of any public company;
 
-(c) in bonds or purchasing of mortgage papers, commercial notes, banker's acceptances, money market papers, certificates of deposits, private debt securities, promissory notes and bills of exchange within the meaning of the Bills of Exchange Act 1949 and other Act 204. negotiable instrument of similar nature;
+(c) in bonds or purchasing of mortgage papers, commercial notes, banker's acceptances, money market papers, certificates of deposits, private debt securities, promissory notes and bills of exchange within the meaning of the Bills of Exchange Act 1949 and other
 
-(d) in accordance with the provisions of the Act 208. Trustee Act 1949:
+<!-- marginal: Act 204. -->
+
+negotiable instrument of similar nature;
+
+(d) in accordance with the provisions of the
+
+<!-- marginal: Act 208. -->
+
+Trustee Act 1949:
 
 Provided however, where the Board invests in or upon titles to immovable property in Malaysia in accordance with section 4(l)(c) of the Trustee Act 1949, such immovable property may or may not yield any income at the time of such investment;
 
@@ -140,7 +152,11 @@ Provided however, where the Board invests in or upon titles to immovable propert
 
 (c) by participating in any privatisation programme;
 
-(d) to provide loans to any company incorporated under the Companies Act Act 125. 1965 or any corporation established by or under any written law;
+(d) to provide loans to any company incorporated under the Companies Act
+
+<!-- marginal: Act 125. -->
+
+1965 or any corporation established by or under any written law;
 
 (e) by investing in any investment outside Malaysia; or
 
@@ -150,17 +166,35 @@ Provided however, where the Board invests in or upon titles to immovable propert
 
 "debenture" includes debenture stock, bonds, notes and any other securities of a corporation whether constituting a charge on the assets of the corporation or not; and
 
-"share" means paid-up
-
-<!-- marginal: shares -->
-
-(whether fully paid or not) in the share capital of a company and includes stocks and rights to subscribe for any stocks and shares.'.
+"share" means paid-up shares (whether fully paid or not) in the share capital of a company and includes stocks and rights to subscribe for any stocks and shares.'.
 
 <!-- page 6 -->
 
-New sections 7. The principal Act is amended by inserting after 26A and 26B. section 26 the following sections:
+<!-- marginal: New sections -->
 
-Power of 26A. (1) In addition to the powers of the Board the Board to invest in accordance with section 26, the to invest in an Board may invest— approved company.
+7. The principal Act is amended by inserting after
+
+<!-- marginal: 26A and 26B. -->
+
+section 26 the following sections:
+
+<!-- marginal: Power of -->
+
+26A. (1) In addition to the powers of the Board
+
+<!-- marginal: the Board -->
+
+to invest in accordance with section 26, the
+
+<!-- marginal: to invest -->
+
+<!-- marginal: in an -->
+
+Board may invest—
+
+<!-- marginal: approved -->
+
+<!-- marginal: company. -->
 
 (a) in loans to an approved company or the buying of shares in an approved company; or
 
@@ -182,21 +216,13 @@ due thereon and not repaid by the approved company, does not at any time exceed 
 
 (e) any agreement as to repayment made between the Board and the approved company shall be immediately determined if—
 
-(i) the approved company shall cease to comply with any of
-
-<!-- marginal: the -->
-
-provisions of paragraphs (a), (b) and (c) of this subsection;
+(i) the approved company shall cease to comply with any of the provisions of paragraphs (a), (b) and (c) of this subsection;
 
 (ii) the approved company shall fail to obtain a certificate in the terms and in the manner stated in paragraph
 
 (d) of this subsection; or
 
-(iii) the Minister may at any time by notification in the Gazette, order that the company shall cease to be an approved company
-
-<!-- marginal: in -->
-
-consequence of his considering that the company has departed from its sole or primary object,
+(iii) the Minister may at any time by notification in the Gazette, order that the company shall cease to be an approved company in consequence of his considering that the company has departed from its sole or primary object,
 
 and any moneys belonging to the Fund shall be repayable immediately thereupon.
 
@@ -206,19 +232,13 @@ Board to 26B. (1) Subject to any variation which the invest in Minister may make
 
 (2) The Minister may, upon the application of the Board, vary the percentage specified in subsection (1).
 
-(3) For the purpose of
-
-<!-- marginal: this section, -->
-
-securities issued by the Government of Malaysia shall include—
+(3) For the purpose of this section, securities issued by the Government of Malaysia shall include—
 
 (a) loans which are fully guaranteed by the Federal Government;
 
 (b) Bank Negara Malaysia papers with a maturity period of at least three years from the date of issue;
 
-(c) any commercial
-
-<!-- marginal: instrument -->
+(c) any commercial instrument
 
 <!-- marginal: (with -->
 
@@ -228,7 +248,13 @@ elements of negotiability) issued by the State Government or local authorities w
 
 (e) any deposit in advance subscription account under section 26(l)(a)(i).".
 
-Amendment 8. Section 27 of the principal Act is amended by of section 27. inserting after the words "the Board shall" the words "with the approval of the Minister,".
+<!-- marginal: Amendment -->
+
+8. Section 27 of the principal Act is amended by
+
+<!-- marginal: of section 27. -->
+
+inserting after the words "the Board shall" the words "with the approval of the Minister,".
 
 <!-- page 9 -->
 
@@ -270,19 +296,17 @@ Amendment 8. Section 27 of the principal Act is amended by of section 27. insert
 
 (g) by substituting for the words "against such decision to the Board which may give such decision thereon as it deems fit and proper" the words "to the Board within thirty days from the date of the service of the decision to the last known address of the officer or servant and such decision of the Board thereon shall be final" in subsection (7).
 
-Amendment
+<!-- marginal: Amendment -->
 
-11. Section 33 of the principal Act is amended— of section 33.
+11. Section 33 of the principal Act is amended—
+
+<!-- marginal: of section 33. -->
 
 (a) by substituting for the word "two" the word "four" in paragraph (1)(b);
 
 (b) by inserting after subsection (1) the following subsections:
 
-"(1A) The Chairman of the Promotion Committee and two other members of the Promotion Committee shall form a quorum at all meetings of
-
-<!-- marginal: the -->
-
-Promotion Committee.
+"(1A) The Chairman of the Promotion Committee and two other members of the Promotion Committee shall form a quorum at all meetings of the Promotion Committee.
 
 (lB) If on any question to be determined there is an equality of votes, the Chairman of the Promotion Committee shall have the casting vote in addition to his original vote,
 
@@ -348,9 +372,11 @@ Power of 37A. (1) An Inspector or an officer vested the Board with the powers of
 
 (2) The assessment made under subsection (1) shall be sufficient proof of the Board's claim for the recovery of any contributions under section 65.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-17. Section 43 of the principal Act is amended— of section 43.
+17. Section 43 of the principal Act is amended—
+
+<!-- marginal: of section 43. -->
 
 (a) by inserting after the words "monthly contributions" the words "on the amount of wages for the month" in subsection (1); and
 
@@ -368,11 +394,25 @@ Amendment
 
 may, by giving notice in such manner and form as may be prescribed by the Board, elect to pay monthly contributions in accordance with the rate as prescribed by the Board.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-18. The principal Act is amended by substituting for of section 44. section 44 the following section:
+18. The principal Act is amended by substituting for
 
-Transfer 44. In addition to and not in derogation of of section 43(3), an employer may with the retirement benefit. consent of an employee, remit to the Board at any time any moneys being retirement benefits of any employee in such manner as may be
+<!-- marginal: of section 44. -->
+
+section 44 the following section:
+
+<!-- marginal: Transfer -->
+
+44. In addition to and not in derogation of
+
+<!-- marginal: of -->
+
+section 43(3), an employer may with the retirement
+
+<!-- marginal: benefit. -->
+
+consent of an employee, remit to the Board at any time any moneys being retirement benefits of any employee in such manner as may be
 
 <!-- page 13 -->
 
@@ -398,11 +438,7 @@ prescribed by the Board and where any such moneys has been received, the Board s
 
 (b) by renumbering section 46 as subsection 46(1); and
 
-(c) by inserting after subsection (1) the following subsection: "(2) In this
-
-<!-- marginal: the word -->
-
-"contribution" shall be deemed to include any dividend and interest due on any contributions.".
+(c) by inserting after subsection (1) the following subsection: "(2) In this the word "contribution" shall be deemed to include any dividend and interest due on any contributions.".
 
 <!-- marginal: Amendment of -->
 
@@ -410,19 +446,29 @@ prescribed by the Board and where any such moneys has been received, the Board s
 
 <!-- marginal: section 47. -->
 
-substituting for subsection (1) the following subsection (1): "(1) Notwithstanding any contract to the contrary, the employer shall not be entitled to deduct or otherwise recover from the wages or remuneration of the employee, the employer's contribution, from the employee.".
+substituting for subsection (1) the following subsection
+
+(1): "(1) Notwithstanding any contract to the contrary, the employer shall not be entitled to deduct or otherwise recover from the wages or remuneration of the employee, the employer's contribution, from the employee.".
 
 <!-- page 14 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-22. Section 48 of the principal Act is amended by of section 48. deleting subsection (6).
+22. Section 48 of the principal Act is amended by
 
-Amendment
+<!-- marginal: of section 48. -->
 
-23. Section 50 of the principal Act is amended by of section 50- inserting after the words "at the rate of the word "last" in subparagraph (a)(ii) of the proviso to subsection (2).
+deleting subsection (6).
 
-New section
+<!-- marginal: Amendment -->
+
+23. Section 50 of the principal Act is amended by
+
+<!-- marginal: of section 50- -->
+
+inserting after the words "at the rate of the word "last" in subparagraph (a)(ii) of the proviso to subsection (2).
+
+<!-- marginal: New section -->
 
 24. The principal Act is amended by inserting after
 
@@ -430,13 +476,19 @@ New section
 
 Additional 50A. In addition to payment of dividend paid payment of under the proviso to section 50(2), the Board dividend. may pay to the member of the Fund who has made a withdrawal under section 54(1), an additional dividend as determined by the Board.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-25. Section 51 of the principal Act is amended by of section 51. substituting for the colon after the words "any such sum or amount" with a full stop and by deleting the proviso.
+25. Section 51 of the principal Act is amended by
 
-Amendment
+<!-- marginal: of section 51. -->
 
-26. Section 54 of the principal Act is amended— of section 54.
+substituting for the colon after the words "any such sum or amount" with a full stop and by deleting the proviso.
+
+<!-- marginal: Amendment -->
+
+26. Section 54 of the principal Act is amended—
+
+<!-- marginal: of section 54. -->
 
 (a) by substituting for subsections (1), (2), (3) and (4) the following subsections: "(1) No sum of money standing to the credit of a member of the Fund may be withdrawn except with the authority of the Board, and subject to any rules made under this section, such authority shall not be given unless the Board is satisfied that—
 
@@ -478,9 +530,13 @@ Provided that the member of the Fund who has contributed under subsection (2), s
 
 (b) by substituting for the words "subsection (3)(b)" the words "subsection (3)" in subsection (5).
 
-Amendment
+<!-- marginal: Amendment -->
 
-27. The principal Act is amended by substituting for of section 55. section 55 the following section:
+27. The principal Act is amended by substituting for
+
+<!-- marginal: of section 55. -->
+
+section 55 the following section:
 
 55. (1) Notwithstanding section 54(1), any Periodical payment member of the Fund who has attained the age in lieu of lump sum of fifty-five years may— payment.
 
@@ -492,9 +548,13 @@ and the Board may, subject to any rules made under this section, authorize such 
 
 (2) Where the Board has authorized withdrawal under paragraph (a) of subsection (1), the member of the Fund shall be precluded from withdrawing the amount standing to his credit under section 54(1)(b).".
 
-Amendment
+<!-- marginal: Amendment -->
 
-28. Section 58 of the principal Act is amended by of section 58. inserting after subsection (1) the following subsection:
+28. Section 58 of the principal Act is amended by
+
+<!-- marginal: of section 58. -->
+
+inserting after subsection (1) the following subsection:
 
 "(1A) Notwithstanding subsection (1), the Board may not pay the additional amount, if the Board is satisfied that no person as approved by the Board survived the member of the Fund.".
 
@@ -508,37 +568,65 @@ Amendment
 
 section 63 the following section:
 
-"Court 63. (1) Notwithstanding the provision of any order. other written law, where an employer is found guilty of an offence under section 43(2) or 48(3), the Court before which the employer is found guilty shall order such employer to pay to the Fund the amount of contributions, together with any dividend credited thereon, due and payable to the Board and certified by an officer authorized by the Board to be due from such employer, prior to the date of such finding of guilt.
+<!-- marginal: "Court -->
+
+63. (1) Notwithstanding the provision of any
+
+<!-- marginal: order. -->
+
+other written law, where an employer is found guilty of an offence under section 43(2) or 48(3), the Court before which the employer is found guilty shall order such employer to pay to the Fund the amount of contributions, together with any dividend credited thereon, due and payable to the Board and certified by an officer authorized by the Board to be due from such employer, prior to the date of such finding of guilt.
 
 (2) Where an employer is found guilty of an offence under section 45(3), the Court before which the employer is found guilty shall order such employer to pay to the Fund any amount of dividend thereon due and payable to the Board and certified by an officer authorized by the Board to be due from such employer.
 
-(3) A court order issued under subsection (1) or (2) or both shall be paid by the employer in a single payment at the date the order was issued except if the Court is satisfied that the employer has no capability in terms of financial and on special reasons the offence was committed, the Court may order the arrears of contributions to be paid in not more than six monthly instalments from the date of the order.
+(3) A court order issued under subsection
 
-(4) Where an employer fails to comply with any order made under subsection (3), the Court shall issue a warrant to levy the whole amount of such arrears by way of distress and sale of the employer's property in accordance with the same procedure of execution under rule 30 of P U. (A) the Subordinate Courts Rules 1980 and this 328/80. rule shall apply mutatis mutandis notwithstanding the amount ordered for arrears of contribution or dividend or both.".
+(1) or (2) or both shall be paid by the employer in a single payment at the date the order was issued except if the Court is satisfied that the employer has no capability in terms of financial and on special reasons the offence was committed, the Court may order the arrears of contributions to be paid in not more than six monthly instalments from the date of the order.
+
+(4) Where an employer fails to comply with any order made under subsection (3), the Court shall issue a warrant to levy the whole amount of such arrears by way of distress and sale of the employer's property in accordance with the same procedure of execution under rule 30 of
+
+<!-- marginal: P U. (A) -->
+
+the Subordinate Courts Rules 1980 and this
+
+<!-- marginal: 328/80. -->
+
+rule shall apply mutatis mutandis notwithstanding the amount ordered for arrears of contribution or dividend or both.".
 
 <!-- page 18 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-30. Subsection 65(1) of the principal Act is amended by of section 65. substituting for the words "All contributions" the words "Notwithstanding the provisions of any other written law all contributions".
+30. Subsection 65(1) of the principal Act is amended by
 
-Amendment
+<!-- marginal: of section 65. -->
 
-31. Section 66 of the principal Act is amended— of section 66.
+substituting for the words "All contributions" the words "Notwithstanding the provisions of any other written law all contributions".
+
+<!-- marginal: Amendment -->
+
+31. Section 66 of the principal Act is amended—
+
+<!-- marginal: of section 66. -->
 
 (a) by deleting the words "during the twelve months before the date of such order" in subsection (1); and
 
 (b) by inserting after subsection (1) the following subsection: "(2) In this section the word "contribution" shall be deemed to include any dividend and interest due on any contributions.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-32. The principal Act is amended by inserting after of section 72. paragraph 12(b) the following paragraph:
+32. The principal Act is amended by inserting after
+
+<!-- marginal: of section 72. -->
+
+paragraph 12(b) the following paragraph:
 
 "(c) declare any person or class of persons employed, engaged or contracted with to carry out work in any occupation in any agricultural or industrial undertaking, constructional work, trade, business or place of work as an employee or employees and the person who employs, involves or contracts with each of the person or class of persons above-mentioned, shall be deemed to be an employer and such employer and employee shall be deemed to have made a contract of service with each other and the Minister may determine any payment received by the person above-mentioned to be wages for the purpose of this Act;".
 
-Amendment
+<!-- marginal: Amendment -->
 
-33. Section 73 of the principal Act is amended— of section 73.
+33. Section 73 of the principal Act is amended—
+
+<!-- marginal: of section 73. -->
 
 (a) by substituting for subparagraph (m)(iv) the following subparagraph: "(iv) the disciplinary rules made under this Act may, in prescribing the procedure for disciplinary proceedings, provide for an opportunity for representations to be made in certain circumstances by the
 
@@ -608,9 +696,7 @@ method to assess any amount of contribution based on information available in ca
 
 21. Clause 21 seeks to amend section 47 of the Act to provide that employers cannot deduct or recover from the wages or remuneration of the employee, the employer's contributions.
 
-22. Clause 22 seeks to delete subsection 48(6) to be in line with the provisions of the Companies Act 1965 and the Bankruptcy Act
-
-1967.
+22. Clause 22 seeks to delete subsection 48(6) to be in line with the provisions of the Companies Act 1965 and the Bankruptcy Act 1967.
 
 23. Clause 23 seeks to amend section 50 of the Act to facilitate the calculation of dividend to be based on the last dividend declared by the Board.
 
@@ -642,6 +728,4 @@ method to assess any amount of contribution based on information available in ca
 
 ## IMPLICATIONS
 
-This Bill will not involve the Government in any extra financial expenditure.
-
-<!-- marginal: [PN. (U2) 1861.] -->
+This Bill will not involve the Government in any extra financial expenditure. [PN. (U2) 1861.]

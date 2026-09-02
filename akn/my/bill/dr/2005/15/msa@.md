@@ -58,7 +58,9 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Keterangan Mahkamah Syariah 
 
 <!-- page 3 -->
 
-(Wilayah-Wilayah Persekutuan) (Pindaan) 4. Fasal 3 bertujuan untuk meminda seksyen 3 Akta 561 untuk meminda takrif Hukum Syarak.
+(Wilayah-Wilayah Persekutuan) (Pindaan)
+
+4. Fasal 3 bertujuan untuk meminda seksyen 3 Akta 561 untuk meminda takrif Hukum Syarak.
 
 5. Fasal 7 bertujuan untuk meminda seksyen 130 Akta 561. Pindaan ini bertujuan menjelaskan bahawa Hukum Syarak akan dipakai jika terdapat apa- apa lakuna atau ketidakselarasan dalam Akta 561.
 

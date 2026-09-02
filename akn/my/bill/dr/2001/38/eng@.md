@@ -150,7 +150,9 @@ any film or film-publicity material which has not been approved by the Board.
 
 7. (1) Where any film or film-publicity material is imported into Malaysia, the proper officer of customs to whom such film or film- publicity material is presented upon such importation or who discovers such importation shall detain the film or film-publicity material.
 
-(2) Any film or film-publicity material detained under subsection (1) shall not be released unless a permit or a certificate of exemption issued under section 8 in respect of the film or film-publicity material is presented to a proper officer of customs having control of the film or material.
+(2) Any film or film-publicity material detained under subsection
+
+(1) shall not be released unless a permit or a certificate of exemption issued under section 8 in respect of the film or film-publicity material is presented to a proper officer of customs having control of the film or material.
 
 <!-- page 6 -->
 
@@ -540,7 +542,9 @@ the commission of an offence under this Act or any regulations made under this A
 
 (6) On receipt of the notice referred to in subsection (5), the Enforcement Officer or the police officer shall refer the matter to a Magistrate for a decision.
 
-(7) The Magistrate to whom a matter is referred under subsection (6) shall issue a summons requiring the person asserting that he is the owner of the film, film-publicity material, book, document or other thing and the person from whom it was seized to appear before the Magistrate, and when they appear or when they fail to appear, due service of the summons having been proved, the Magistrate shall proceed to examine the matter.
+(7) The Magistrate to whom a matter is referred under subsection
+
+(6) shall issue a summons requiring the person asserting that he is the owner of the film, film-publicity material, book, document or other thing and the person from whom it was seized to appear before the Magistrate, and when they appear or when they fail to appear, due service of the summons having been proved, the Magistrate shall proceed to examine the matter.
 
 (8) If it is proved that an offence under this Act or any regulations made under this Act has been committed and that the film, film- publicity material, book, document or other thing referred to in subsection (7) was the subject-matter of or was used in the commission of such offence, the Magistrate shall order the film, film-publicity material, book, document or other thing to be forfeited and shall, in the absence of such proof, order its release.
 

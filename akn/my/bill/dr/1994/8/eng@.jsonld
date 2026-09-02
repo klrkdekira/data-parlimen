@@ -1,0 +1,655 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-8-1994",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Road Transport (Amendment) Bill 1994"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Road Transport (Amendment) Act 1994."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after Part II the following Part:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Road Transport Act 1987, which in this Act is referred to as the \"principal Act\", is amended in section 3A——"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (3}(c) following paragraph; \"(c) references to the \"Federal Territory of Kuala Lumpur\" were references to that City.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (3) the following subsection: \" (4) For the purposes of this section— \"City Council\" includes a Council of a City and a City; \"Mayor of a City Council\" includes Commissioner of a City and \"Mayor\" shall be construed accordingly.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 16 of the principal Act is amended by substituting for subsection (2) the following subsection: \"(2) Every applicant for a motor vehicle licence shall furnish such particulars and produce such evidence as may be prescribed and in particular that either— (a) during the period of validity of the licence applied for there will be in force such policy of insurance or such security, relating to the motor vehicle for which such licence is required, as complies with the requirements of Part IV; or (b) such motor vehicle is a vehicle to which, by reason of subsection (5) of section 90, section 90 does not apply.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 17 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_4__para_a__subpara_i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_4__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_4__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c) by inserting after the semicolon the word \"and'; (ii) in paragraph (d) by substituting for the word \";and\" a full stop; and (iii) by deleting paragraph (e) and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (1A)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 20(2) of the principal Act is amended in the national language text only by substituting for the words \"tiruan berwarna\" the words \"tiruan serupa\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_6__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_6__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 59 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_6__para_a__subpara_i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_6__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_6__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"carry out\" the words \"or cause to be carried out\"; and (ii) by substituting for the words \"satisfy himself that the provisions\" the words \"ensure that the requirements\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2) by inserting after the words \"defects therein,\" the words \"being defects which are prescribed by rules as serious defects,\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (5) by inserting after the word \"use\" the words \"and for this purpose he may require an inspection to be carried out\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_6__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (7) by substituting for the words \"may detach and remove\" the words \"may cause to be detached and removed\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 60 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing provision as subsection (1) and substituting for the words \"for the purpose of satisfying him\" therein the words \"or a person licensed to carry out inspection under this Act for the purpose of ensuring\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the renumbered subsection (1) the following subsections: \"(2) If, on such inspection, it appears to a road transport officer that, by reason of any defects therein, being defects which are prescribed by rules as serious defects, such motor vehicle is or is likely to become unfit for use, or its use is or is likely to become dangerous unless the defects are remedied, he may prohibit the use of such motor vehicle: Provided that where in the opinion of such road transport officer the defects are such as can be remedied within any period not exceeding ten days and are not defects which involve immediate risk to persons using the motor vehicle or to persons using a road, the prohibition shall not operate before the expiration of that period. BILL (3) Subsections 59(3) to (9) shall apply to this section in the case where a prohibition order has been issued under subsection (2).\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 61(1) of the principal Act is amended by substituting for the words \"his inspection,\" the words \"inspection, at the expense of the registered owner,\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_9__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 63 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1) by inserting after the words \"such officer\" the words \"or any other person authorised to conduct weighing\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2) by inserting after the word \"officer\" wherever it appears the words \"or person\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A",
+      "@type": "akn:part",
+      "eli:number": "11A",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_14"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PERIODIC INSPECTION OF MOTOR VEHICLES 66A. (1) No person shall use or cause or permit to be used a motor vehicle belonging to the class or category of motor vehicles required to undergo periodic inspection under this Part unless there is in force an inspection certificate issued under this Part in respect of the motor vehicle. (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding five years or to both. 66B. (1) The Minister may by rules specify the class or category of vehicles which is required to undergo periodic inspection under this Part for the purpose of determining that the vehicles comply with the requirements as to construction, equipment and use and the frequency of such inspection in respect of a particular class or category of vehicles. (2) This section shall not apply to a motor vehicle which has been laid up under section 15. 66c. (1) If, upon inspection, a motor vehicle is found to comply with the requirements as to construction, equipment and use of a motor vehicle, the person licensed to carry out inspection under this Act shall issue an inspection certificate in respect of that motor vehicle specifying that the motor vehicle has passed the inspection on the date of the inspection. (2) Where an inspection certificate is refused, the person licensed to carry out inspection under this Act shall specify the grounds for the refusal. (3) A person aggrieved by the refusal may appeal to the Director General, and on such appeal, the Director General shall cause a re- inspection to be carried out at the expense of the aggrieved person and thereafter may cause to be issued or refuse to issue an inspection certificate. (4) The decision of the Director General under subsection (3) shall be final. 66D. (1) Every inspection certificate issued under section 66c shall be fixed to and exhibited on the motor vehicle in respect of which it is issued in such manner and subject to such conditions as may be prescribed. BILL (2) No person shall (either by writing, drawing or in any other manner) alter, deface, mutilate or add anything to any inspection certificate, nor shall any person exhibit on any motor vehicle any inspection certificate which has already been altered, defaced, multilated or added to as aforesaid, or upon which the figures or particulars have been illegible or of which the colour has become altered, by fading or otherwise, nor shall any person exhibit any colourable imitation of any such certificate. (3) Any person who contravenes this section shall be guilty of an offence. 66E. (1) No person other than a person licensed to carry out inspection under this Act may inspect a motor vehicle. (2) Any person who contravenes this section shall be guilty of an offence and shall on conviction be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding two years or to both. 66F. (1) A person licensed to carry out inspection under this Act shall employ persons with the necessary qualification and competency as prescribed in rules as examiners to carry out inspection and to issue inspection certificates. (2) Any person who contravenes this section shall be guilty of an offence and shall on conviction be liable to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding one year or to both. 66G. The Minister may make rules for any purpose for which rules may be made under this Part and for prescribing anything which may be prescribed under this Part, and generally for the purpose of carrying this Part into effect, and in particular, but without prejudice to the generality of the foregoing provisions, may make rules with respect to any of the following matters: (a) to prescribe the nature of and procedure for inspection of motor yehicles; (b) to prescribe the type of equipment and system to be used for inspection, and the repair, maintenance, calibration and testing of apparatus or equipment for inspection; (c) to prescribe the form of inspection certificates and to regulate the manner of issuance thereof; (d) to prescribe the manner in which motor vehicles are to be submitted for inspection; (e) to regulate the use of a vehicle inspection centre and the apparatus and equipment therein by a road transport officer authorised by the Director General to conduct random checking of the inspection carried out at the centre; (f) to prescribe the types of signboards at vehicle inspection centres; and (g) to prescribe the manner in which appeals may be made by any person and the procedure therefor.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_11__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_11__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 117 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_11__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_11__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (5)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_11__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_11__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"road transport officer\" the words \"or any person licensed under this Act\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_11__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_11__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word \"officer\" the words \"or the person licensed under this Act\"; BILL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_11__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_11__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (6)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_11__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_11__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the comma at the end of paragraph (e) a semicolon; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_11__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_11__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (e) the following paragraph: \"(f) any person licensed under this Act,\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_11__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (7) by inserting after the words \"public servant\" wherever they appear the words \", any person licensed under this Act\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 119 the following section: 119A. Where an offence under this Act is committed by a body corporate (whether or not the body corporate has been prosecuted), every director, secretary or manager of the body corporate shall be deemed to be guilty of the offence unless he proves that the offence was committed without his consent or connivance and that he had exercised all due diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances of the case.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 126 the following section: 126. (1) Notwithstanding anything in this Act, the Minister shall have the power to authorise or grant a licence on such conditions as he may think fit to any person to undertake any function of a road transport officer under this Act as it appears to him to be necessary."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may make rules for the purposes of subsection (1), and in particular, but without prejudice to the generality of the foregoing provisions, may make rules with respect to any of the following matters:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe the charges, fees or levy which shall be paid to any person authorised or licensed under subsection (1) in respect of services provided;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe the qualifications of persons to be employed by the person authorised or licensed under subsection (1) and to regulate their competency;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe the type of records to be kept by the person authorised or licensed under subsection (1);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe the type of returns to be submitted by the person authorised or licensed under subsection (1) to the Director General at certain intervals; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to regulate the inspection by the Director General of the premises of the person authorised or licensed under subsection (1) and the records kept thereat."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, by order published in the Gazette, authorise a person authorised or licensed under subsection (1) to demand, collect and retain charges, fees or levy prescribed under subsection (2) in respect of the services provided by him."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An order made under subsection (3) shall specify—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the type of services in respect of which charges, fees or levy may be demanded, collected and retained;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the person authorised to demand, collect and retain the charges, fees or levy; and BILL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the duration of the authorisation to demand, collect and retain the charges, fees or levy."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_5__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person authorised under subsection (3) shall—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "maintain such accounts, books and records in respect of the payment and collection of charges, fees or levy as the Director General may require;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "furnish to the Director General such information, returns and accounts in respect of the payment and collection of charges, fees or levy as the Director General may require; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "permit the Director General or any officer authorised in writing by the Director General to have access to or examine or inspect any document, machinery or equipment maintained or used for the payment or collection of charges, fees or levy."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The authorisation of any person under subsection (3) shall not render the Federal Government liable to any person in respect of any injury, damage or loss occasioned by the failure of the person authorised or licensed to carry out his obligations under the Act in respect of which charges, fees or levy are demanded, collected and retained."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If a person authorised or licensed under subsection (1) contravenes or fails to comply with any condition of the authorisation or licence or any of the provisions of this section or rules made thereunder for which no penalty is expressly provided the person shall be guilty of an offence and shall on conviction be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding two years or to both.\". ROAD TRANSPORT (AMENDMENT) 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_14__subsec_2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 126 the following section: . 126A. (1) An authorisation or licence issued under section 126 shall, unless sooner revoked, continue in force for such period as the Minister may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/8/eng@/~part_11A__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may revoke authorisation or licence issued under section 126.\"."
+      }
+    }
+  ]
+}

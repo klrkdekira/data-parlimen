@@ -6,7 +6,7 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -16,7 +16,7 @@
 
 3. Interpretation
 
-## Part II
+## PART II
 
 ## THE TRADITIONAL AND COMPLEMENTARY MEDICINE COUNCIL
 
@@ -50,7 +50,7 @@
 
 <!-- page 2 -->
 
-## Part III
+## PART III
 
 ## GENERAL ADMINISTRATION
 
@@ -58,7 +58,7 @@
 
 19. Register
 
-## Part IV
+## PART IV
 
 ## REGISTRATION OF TRADITIONAL AND COMPLEMENTARY MEDICINE
 
@@ -82,7 +82,7 @@
 
 28. Re-registration
 
-## Part V
+## PART V
 
 ## OBLIGATIONS AND DUTIES OF REGISTERED PRACTITIONERS
 
@@ -102,7 +102,7 @@
 
 <!-- page 3 -->
 
-## Part VI
+## PART VI
 
 ## DISCIPLINARY PROCEEDINGS
 
@@ -114,17 +114,17 @@
 
 39. Restoration of name in register
 
-## Part VII
+## PART VII
 
-PatIENt’S rIGHtS
+## PATIENT’S RIGHTS
 
 40. Patient’s rights
 
 41. Dispute resolution service
 
-## Part VIII
+## PART VIII
 
-traDItIONaL aND COMPLEMENtarY MEDICINE PraCtItIONEr BODY
+## TRADITIONAL AND COMPLEMENTARY MEDICINE PRACTITIONER BODY
 
 42. Designation and revocation of designation of practitioner body
 
@@ -138,9 +138,9 @@ traDItIONaL aND COMPLEMENtarY MEDICINE PraCtItIONEr BODY
 
 47. Preparation of governance and practice codes
 
-## Part IX
+## PART IX
 
-ENFOrCEMENt
+## ENFORCEMENT
 
 48. Authorized officer
 
@@ -168,7 +168,7 @@ ENFOrCEMENt
 
 59. Release of document, record, etc., seized
 
-## Part X
+## PART X
 
 ## GENERAL
 
@@ -178,9 +178,9 @@ ENFOrCEMENt
 
 62. Offences by body corporate
 
-## Part XI
+## PART XI
 
-traNSItIONaL PrOVISION
+## TRANSITIONAL PROVISION
 
 63. Transitional
 
@@ -194,7 +194,7 @@ An Act to provide for the establishment of the Traditional and Complementary Med
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -252,7 +252,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 “Secretary” means the Secretary of the Council appointed under section 16.
 
-## Part II
+## PART II
 
 ## THE TRADITIONAL AND COMPLEMENTARY MEDICINE COUNCIL
 
@@ -446,7 +446,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (5) A delegation under this section shall not preclude the Council itself from performing or exercising at any time of the functions so delegated.
 
-## Part III
+## PART III
 
 ## GENERAL ADMINISTRATION
 
@@ -474,7 +474,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (4) The register maintained under this Act shall be deemed to be a public document within the meaning of the Evidence Act 1950 [Act 56].
 
-## Part IV
+## PART IV
 
 ## REGISTRATION OF TRADITIONAL AND COMPLEMENTARY
 
@@ -626,7 +626,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (3) Upon such re-registration, any stop order made under section 51 shall be revoked, and such revocation and the effective date of such revocation shall be recorded in a register.
 
-## Part V
+## PART V
 
 ## OBLIGATIONS AND DUTIES OF REGISTERED PRACTITIONERS
 
@@ -740,7 +740,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 26 -->
 
-## Part VI
+## PART VI
 
 ## DISCIPLINARY PROCEEDINGS
 
@@ -816,7 +816,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 29 -->
 
-## Part VII
+## PART VII
 
 ## PATIENT’S RIGHTS
 
@@ -874,7 +874,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (5) Any patient or registered practitioner who is dissatisfied with the decision made by the Council or a committee appointed by the Council under subsection (1), may apply to the court to review the decision.
 
-## Part VIII
+## PART VIII
 
 ## TRADITIONAL AND COMPLEMENTARY MEDICINE
 
@@ -976,7 +976,7 @@ and the Registrar may notify all parties including any international organizatio
 
 (c) the Minister directs the Council to do so.
 
-## Part IX
+## PART IX
 
 ## ENFORCEMENT
 
@@ -1166,7 +1166,7 @@ the commission of an offence under this Act or any regulations made under this A
 
 (2) A record in writing shall be made by the authorized officer effecting the release of the document, record, manual, book, material or other article under subsection (1), specifying in detail the circumstances of and the reason for the release, and he shall send a copy of the record to the Public Prosecutor within seven days of the release.
 
-## Part X
+## PART X
 
 ## GENERAL
 
@@ -1234,7 +1234,7 @@ the commission of an offence under this Act or any regulations made under this A
 
 (d) by the employee of such agent in the course of his employment by such agent or otherwise on behalf of the agent.
 
-## Part XI
+## PART XI
 
 ## TRANSITIONAL PROVISION
 
@@ -1252,7 +1252,7 @@ the commission of an offence under this Act or any regulations made under this A
 
 The proposed Traditional and Complementary Medicine Bill 2012 (“the proposed Act”) seeks to provide for matters relating to the establishment of the Traditional and Complementary Medicine Council, to regulate traditional and complementary medicine services in Malaysia and to provide for matters connected therewith.
 
-## Part I
+## PART I
 
 2. Part I of the proposed Act deals with preliminary matters.
 
@@ -1262,7 +1262,7 @@ The proposed Traditional and Complementary Medicine Bill 2012 (“the proposed A
 
 5. Clause 3 contains the definition of certain expressions used in the proposed Act.
 
-## Part II
+## PART II
 
 6. Part II of the proposed Act deals with specific provisions on the Traditional and Complementary Medicine Council.
 
@@ -1296,7 +1296,7 @@ The proposed Traditional and Complementary Medicine Bill 2012 (“the proposed A
 
 20. Clause 17 provides for the powers of the Council to delegate its functions, with the approval of the Minister, to any designated practitioner or any person as the Council deems fit.
 
-## Part III
+## PART III
 
 21. Part III of the proposed Act deals with general administration.
 
@@ -1304,7 +1304,7 @@ The proposed Traditional and Complementary Medicine Bill 2012 (“the proposed A
 
 23. Clause 19 provides that the Registrar shall maintain in both physical and electric forms any register as may be required under the proposed Act.
 
-## Part IV
+## PART IV
 
 24. Part IV of the proposed Act deals with the registration of traditional and complementary medicine practitioners.
 
@@ -1328,7 +1328,7 @@ The proposed Traditional and Complementary Medicine Bill 2012 (“the proposed A
 
 33. Clause 28 provides for the re-registration of deregistered practitioners.
 
-## Part V
+## PART V
 
 34. Part V of the proposed Act deals with the obligations and duties of registered practitioners.
 
@@ -1348,7 +1348,7 @@ The proposed Traditional and Complementary Medicine Bill 2012 (“the proposed A
 
 41. Clause 35 seeks to provide for the compliance with mandatory practice standards and registered governance and practice codes.
 
-## Part VI
+## PART VI
 
 42. Part VI of the proposed Act deals with the disciplinary proceedings for all practitioners registered under the proposed Act
 
@@ -1360,7 +1360,7 @@ The proposed Traditional and Complementary Medicine Bill 2012 (“the proposed A
 
 46. Clause 39 allows the restoration of name to the register by the Council if the Council thinks fit to do so.
 
-## Part VII
+## PART VII
 
 47. Part VII of the proposed Act deals with the patient’s rights.
 
@@ -1370,7 +1370,7 @@ The proposed Traditional and Complementary Medicine Bill 2012 (“the proposed A
 
 40.
 
-## Part VIII
+## PART VIII
 
 50. Part VIII of the proposed Act deals with the traditional and complementary medicine practitioner bodies.
 
@@ -1388,7 +1388,7 @@ The proposed Traditional and Complementary Medicine Bill 2012 (“the proposed A
 
 56. Clause 47 provides for the preparation of governance and practice codes according to the mandatory practice standards as prescribed by the Council.
 
-## Part IX
+## PART IX
 
 57. Part IX provides for the enforcement of the proposed Act.
 
@@ -1418,7 +1418,7 @@ The proposed Traditional and Complementary Medicine Bill 2012 (“the proposed A
 
 <!-- page 52 -->
 
-## Part X
+## PART X
 
 70. Part X of the proposed Act deals with general provisions. It deals with power of the Minister to make regulations, penalties for subsidiary legislations and offences of body corporate.
 
@@ -1428,7 +1428,7 @@ The proposed Traditional and Complementary Medicine Bill 2012 (“the proposed A
 
 73. Clause 62 provides for the offences by body corporate under the proposed Act.
 
-## Part XI
+## PART XI
 
 74. Part XI of the proposed Act contains clause 63 which deals with transitional matters.
 

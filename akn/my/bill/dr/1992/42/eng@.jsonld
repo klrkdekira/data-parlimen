@@ -1,0 +1,1458 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-42-1992",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_42"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Securities Industry (Amendment) Bill 1992"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_10__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 22 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"of not less than five thousand\" the words \"not exceeding one million\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"one year\" the words \"ten years\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Sections 23, 25, 26, 27, 28 and 31 of the principal"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Act are amended by substituting for \"Registrar\" wherever it appears the words \"Licensing Officer\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 33 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "inserting before the word \"Registrar\" wherever it appears the words \"Commission or the\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_13__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 34 of the principal Act is amended, in"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting before the word \"Registrar\" the words \"Commission or the\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"him\" the words \"the Commission or the Registrar\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 35 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "inserting before the word \"Registrar\" the words \"Commission or the\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 37 of the principal Act is amended, in"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "subsection (1), by substituting for the word \"Registrar\" the words \"Licensing Officer\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_16__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 39 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsections (7), (8) and (9), by inserting before the word \"Registrar\" the words \"Commission or the\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_16__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_16__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (12)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_16__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_16__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"of not less than five thousand\" the words \"not exceeding one million\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_16__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_16__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"two\" the word \"ten\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_17__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_17__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 40 of the principal Act is amended, in"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "subsection (9)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_17__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word \"fine\" the words \"not exceeding one million ringgit\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"two\" the word \"ten\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_18__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 41 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_18__para_a__subpara_i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_18__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_18__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"of not less than five thousand\" the words \"not exceeding one million\"; and (ii) by substituting for the word \"two\" the word \"ten\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, by substituting for the word \"jangkaturun\" wherever it appears the word \"pendek\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 43 of the principal Act is amended, in"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "subsection (5), by substituting for the word \"Registrar\" the word \"Commission\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Securities Industry (Amendment) Act 1992."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall come into force on such date as the Minister may, by notification in the Gazette, appoint."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_2__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 2 of the Securities Industry Act 1983, which"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "is referred to in this Act as the \"principal Act\", is amended, in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_20__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_20__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 44 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_20__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: \"(1A) For the purpose of paragraph (b) of subsection (1), any cheque issued for the purpose of payment to a person which is not collected by that person or as directed by that person within five bank trading days after the date such cheque is issued shall be credited into the trust account.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_20__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)— (i) by substituting for the words \"of not less than ten thousand\" wherever they appear the words \"not exceeding one million\"; and (ii) by substituting for the word \"two\" the word \"ten\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_21__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_21__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_21__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 49 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_21__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by inserting before the word \"Registrar\" the words \"Licensing Officer and the\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_21__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the word \"Minister\" the word \"Commission\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_21__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by inserting before the word \"Registrar\" the words \"Licensing Officer or the\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 51 of the principal Act is amended, in"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "subsection (1), by substituting for the word \"Minister\" the word \"Commission\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_23__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_23__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_23__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 52 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_23__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"Minister\" wherever it appears the word \"Commission\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_23__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"he\" and \"him\" wherever they appear the words Commission\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_23__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the word \"Government\" wherever it appears the word \"Commission\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_24__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_24__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 53 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_24__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"Minister\" wherever it appears the word \"Commission\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_24__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsections (1) and (4), by substituting for the word \"he\" the word \"the Commission\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_25__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_25__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 54 of the principal Act is amended-—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_25__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"Minister\" wherever it appears the word \"Commission\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_25__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"he\" the words \"such auditor, person or body\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Sections 55 and 56 of the principal Act are"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "amended by substituting for the word \"Minister\" wherever it appears the word \"Commission\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_27__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_27__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 57 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_27__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsections (1) and (2), by substituting for the word \"Minister\" the word \"Commission\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_27__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_27__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_27__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_27__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_27__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting, after the word \"fine\", the words \"not exceeding five hundred thousand ringgit\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_27__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_27__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"two\" the word \"five\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_28__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_28__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 58 of the principal Act is amended, in"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_28__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"of not less than ten thousand\" the words \"not exceeding one million\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_28__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"two\" the word \"ten\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_29__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_29__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 68 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_29__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsections (I) and (4), by substituting for the word \"Minister\" the word \"Commission\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_29__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the word \"Registrar\" the word \"Commission\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the definition of \"Capital Issues Committee\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"business\" the following definition: ' \"Commission\" means the Securities Commission established under the Securities Act Commission Act 1992;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of \"exempt dealer\", by deleting paragraph (c);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"exempt dealer\" the following definition: \"Investigating Officer\" means Investigating Officer of the Commission appointed under the Securities Commission Act 1992;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"licence\" the following definition; \"Licensing Officer\" means a public officer appointed by the Minister under section 15A;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of \"relevant authority\", by inserting before the word \"Registrar\" in paragraph (b) the words \"Licensing Officer or the\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of \"security\" the following definition: ' \"securities\" means debentures, stocks and shares in a public company or corporation, or bonds of any government or of any body, corporate or unincorporate, and includes any right or option in respect thereof and any interest in unit trust schemes;'; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of \"unit trust scheme\", by substituting for the words \"trust, or\" the words \"trust in\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 7 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for subsection (2) the following subsection: \"(2) A person who contravenes or fails to comply with the provisions of subsection (1) commits an offence and is liable on conviction to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding ten years or to both.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 69 of the principal Act is amended, in"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "subsection (3), by substituting for the word \"Minister\" the word \"Commission\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 72 of the principal Act is amended, in"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "subsections (3) and (4), by substituting for the word \"Registrar\" the word \"Commission\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_32__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_32__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 91 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_32__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"fifty thousand\" the words \"one million\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_32__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"seven\" the word \"ten\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_33__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_33__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 92 of the principal Act is amended, in"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_33__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"fifty thousand\" the words \"one million\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_33__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"seven\" the word \"ten\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_34__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_34__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 96 of the principal Act is amended, in"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "subsections (1), (2) and (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_34__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word \"fine\" the words \"not exceeding one million ringgit\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_34__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"one year\" the words \"ten years\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_35__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_35__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 97 of the principal Act is amended, in"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_35__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"five thousand\" the words \"one million\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_35__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"one year\" the words \"ten years\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_36__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_36__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 98 of the principal Act is amended, in"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "subsection (4)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_36__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"of not less than five thousand\" the words \"not exceeding one million\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_36__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"one year\" the words \"ten years\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_37__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_37__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 100 of the principal Act is amended, in"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "subsection (5)— 100."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_37__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word \"fine\" the words \"not exceeding one million ringgit\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_37__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"one year\" the words \"ten years\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting Division"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "2 of Part X."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_39__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_39__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 123 of the principal Act is amended—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "123."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_39__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word \"five\" the word \"hundred\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_39__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"one year\" the words \"five years\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 8 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_40__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_40__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 124 the following section: 124. \" Com- 124. (1) The Licensing Officer may pounding compound any offence committed by any of offences. person under Part IV, V or VII by making a written offer to such person to compound the offence if such person pays to the Licensing Officer such sum of money within such period as may be specified in the offer."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_40__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_40",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An offer under subsection (1) may be made at any time after the offence has been committed, but before any prosecution for it has been instituted, and where the amount specified in the offer has not been paid within the period specified in the offer or any extension of it which the Licensing Officer may grant, prosecution for the offence may be instituted at any time thereafter against the person to whom the offer is made."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_40__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_40",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where an offence has been com- pounded under subsection (1), no prosecution shall thereafter be instituted in respect of such offence against the person to whom the offer to compound is made.\". SECURITIES INDUSTRY (AMENDMENT)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "section 126 the following section: \" Conduct 126. (1) No prosecution for any offence of pro- under this Act shall be instituted except with secution. the consent in writing of the Public Prosecutor. (2) A prosecution for any offence against any provision of this Act may be conducted by the Registrar or by any officer authorised in writing by the Registrar or by any officer authorised in writing by the Chairman of the Commission.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_42__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_42__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Notwithstanding the amendment to Part IV of the principal Act—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_42__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_42",
+      "schema:text": {
+        "@language": "en",
+        "@value": "every application under that Part pending on the date of coming into force of this Act shall continue to be dealt with by the Registrar; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_42__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_42",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any proceeding or cause of action by or against the Registrar pending or existing on the date of coming into force of this Act in respect of his powers under that Part may be continued or instituted by or against the Registrar, as if this Act had not been enacted."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by deleting the words \", on the advice of the Capital Issues Committee,\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (3) the following subsection: \"(4) The Minister shall appoint one person from amongst the persons appointed under subsection (3) to be the Executive Chairman of the committee of the stock exchange whose salary and remuneration shall be paid by the stock exchange.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 9 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"Minister\" wherever it appears the word \"Commission\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4), by deleting the words \", after consultation with the Capital Issues Committee and the committee of the stock exchange,\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_6__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_6__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 10 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words \"Registrar as he reasonably requires for the performance of his\" the words \"Licensing Officer, Investigating Officer and the Registrar as they reasonably require for the performance of their\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by inserting before the word \"Registrar\" the words \"Licensing Officer, the Investigating Officer and the\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the words \"Registrar is\" the words \"Licensing Officer, Investigating Officer and Registrar are\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_6__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_6__para_d__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_6__para_d__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4)— (i) by inserting before the word \"Registrar\" the words \"Licensing Officer, Investigating Officer or the\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_6__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_6__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"two thousand five hundred\" the words \"one hundred thousand\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_6__para_d__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_6__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"six months\" the words \"three years'\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 11 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: \"(1) \"Where any person who is under an obligation to comply with, observe, enforce or give effect to any rule or requirement of a stock exchange fails to do so, the stock exchange may, after giving to the person an opportunity of being heard, give directions to that person concerning the compliance with, observance or enforcement of, or the giving effect to, those rules or listing requirements and may further impose a fine not exceeding one hundred thousand ringgit in addition to or in lieu of the penalties provided in the listing requirements of the stock exchange.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the marginal note, by substituting for the words \"of court to order\" the words \"to give directions concerning the\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "15A. section 15 the following section: \" Licensing 15A. The Minister shall appoint a public Officer officer to be a Licensing Officer.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/42/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Sections 16, 17-, 18, 19, 20 and 21 of the principal"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Act are amended by substituting for the word \"Registrar\" wherever it appears the words \"Licensing 21. Officer\"."
+      }
+    }
+  ]
+}

@@ -38,15 +38,11 @@ to as the "principal Act", is amended in section 3—
 
 "(/) in relation to broadcasts transmitted from within any country, means—
 
-(i) the person
-
-<!-- marginal: transmitting -->
+(i) the person transmitting
 
 <!-- marginal: the -->
 
-programme,
-
-<!-- marginal: if -->
+programme, if
 
 <!-- marginal: he -->
 
@@ -94,23 +90,15 @@ and includes the transmission of encrypted signals where the means for decryptin
 
 <!-- page 3 -->
 
-<!-- marginal: Amendment -->
+Amendment
 
-3. Section 7 of the principal Act is amended by inserting
-
-<!-- marginal: of section 7. -->
-
-after subsection (2) the following subsection:
+3. Section 7 of the principal Act is amended by inserting of section 7. after subsection (2) the following subsection:
 
 "(2A) Copyright protection shall not extend to any idea, procedure, method of operation or mathematical concept as such.".
 
-<!-- marginal: Amendment -->
+Amendment
 
-4. Section 13 of the principal Act is amended—
-
-<!-- marginal: of section -->
-
-<!-- marginal: 13. -->
+4. Section 13 of the principal Act is amended— of section 13.
 
 (a) in subsection (1)—
 
@@ -118,13 +106,7 @@ after subsection (2) the following subsection:
 
 (ii) by inserting after paragraph (a) the following paragraph:
 
-"(aa) the communication
-
-<!-- marginal: to -->
-
-<!-- marginal: the -->
-
-public;";
+"(aa) the communication to the public;";
 
 (iii) by deleting paragraphs (c) and (d}\
 
@@ -150,21 +132,23 @@ to the public by non-profit making bodies or institutions which the Minister may
 
 (iii) by substituting for the full stop at the end of paragraph (o) a semicolon and the word "and" and inserting thereafter the following paragraph:
 
-"(p) the commercial
+"(p) the commercial rental of computer programs, where the program is not the essential object of the rental.".
 
-<!-- marginal: rental of -->
+<!-- marginal: Amendment -->
 
-computer programs, where the program is not the essential object of the rental.".
+5. Subsection 15(2) of the principal Act is amended by
 
-Amendment 5. Subsection 15(2) of the principal Act is amended by
-
-### of section
+<!-- marginal: of section -->
 
 inserting after the word "(ggg)" the word "(gggg),".
 
 15.
 
-Amendment 6. Section 17 of the principal Act is amended— of section
+<!-- marginal: Amendment -->
+
+6. Section 17 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 17.
 
@@ -172,7 +156,17 @@ Amendment 6. Section 17 of the principal Act is amended— of section
 
 (b) in subsections (1), (2) and (3) by deleting the words "(other than a photograph)".
 
-Deletion of 7. The principal Act is amended by deleting section 21. section 21. Amendment 8. Section 25 of the principal Act is amended— of section
+<!-- marginal: Deletion of -->
+
+7. The principal Act is amended by deleting section 21.
+
+<!-- marginal: section 21. -->
+
+<!-- marginal: Amendment -->
+
+8. Section 25 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 25.
 
@@ -214,9 +208,11 @@ after subsection (2) the following subsections:
 
 such information, when any of these items of information is attached to a copy of a work or appears in connection with the communication of a work to the public.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-10. Subsection 41(1) of the principal Act is amended— of section
+10. Subsection 41(1) of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 41.
 
@@ -304,6 +300,4 @@ entertainment products and information that are protected under the copyright la
 
 ## IMPLICATIONS
 
-This Bill will not involve the Government in any extra financial expenditure.
-
-<!-- marginal: [PN. (U2) 1978.] -->
+This Bill will not involve the Government in any extra financial expenditure. [PN. (U2) 1978.]

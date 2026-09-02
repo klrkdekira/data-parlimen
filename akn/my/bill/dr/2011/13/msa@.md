@@ -24,7 +24,19 @@
 
 ## PENUBUHAN DAN PENDAFTARAN
 
-5. Pelantikan Pendaftar Perkongsian Liabiliti Terhad, dsb. 6. Penubuhan perkongsian liabiliti terhad 7. Menjalankan perniagaan dengan kurang daripada pekongsi minimum 8. Perkongsian bagi amalan profesional 9. Perjanjian perkongsian liabiliti terhad 10. Permohonan pendaftaran 11. Pendaftaran perkongsian liabiliti terhad 12. Kuasa untuk menolak pendaftaran 13. Nama perkongsian liabiliti terhad 14. Penempahan nama 15. Pertukaran nama perkongsian liabiliti terhad
+5. Pelantikan Pendaftar Perkongsian Liabiliti Terhad, dsb. 6. Penubuhan perkongsian liabiliti terhad 7. Menjalankan perniagaan dengan kurang daripada pekongsi minimum 8. Perkongsian bagi amalan profesional 9. Perjanjian perkongsian liabiliti terhad
+
+10. Permohonan pendaftaran
+
+11. Pendaftaran perkongsian liabiliti terhad
+
+12. Kuasa untuk menolak pendaftaran
+
+13. Nama perkongsian liabiliti terhad
+
+14. Penempahan nama
+
+15. Pertukaran nama perkongsian liabiliti terhad
 
 <!-- page 2 -->
 
@@ -88,25 +100,57 @@
 
 <!-- page 3 -->
 
-41. Liabiliti dan obligasi pekongsi sebelum penukaran 42. Notis penukaran dalam invois dan surat-menyurat 43. Buku statutori, daftar, rekod sedia ada, dsb.
+41. Liabiliti dan obligasi pekongsi sebelum penukaran
+
+42. Notis penukaran dalam invois dan surat-menyurat
+
+43. Buku statutori, daftar, rekod sedia ada, dsb.
 
 ## BAHAGIAN VI
 
 ## PERKONGSIAN LIABILITI TERHAD ASING
 
-44. Perkongsian liabiliti terhad asing 45. Pendaftaran perkongsian liabiliti terhad asing 46. Kehendak perkongsian liabiliti terhad asing 47. Pemberhentian perniagaan di Malaysia 48. Pelikuidasian atau pembubaran perkongsian liabiliti terhad asing di tempat pemerbadanan, penubuhan atau tempat asal
+44. Perkongsian liabiliti terhad asing
+
+45. Pendaftaran perkongsian liabiliti terhad asing
+
+46. Kehendak perkongsian liabiliti terhad asing
+
+47. Pemberhentian perniagaan di Malaysia
+
+48. Pelikuidasian atau pembubaran perkongsian liabiliti terhad asing di tempat pemerbadanan, penubuhan atau tempat asal
 
 ## BAHAGIAN VII
 
 ## PENGGULUNGAN, PEMBUBARAN DAN PEMOTONGAN
 
-49. Penerimaan dan penggulungan oleh Mahkamah 50. Penggulungan secara sukarela 51. Kuasa Pendaftar untuk memotong perkongsian liabiliti terhad daripada daftar 52. Pembatalan pembubaran 53. Kuasa Pendaftar untuk mewakili perkongsian liabiliti terhad yang dibubarkan dalam hal keadaan tertentu 54. Aset yang berbaki bagi perkongsian liabiliti terhad yang dibubarkan terletak hak pada Pendaftar
+49. Penerimaan dan penggulungan oleh Mahkamah
+
+50. Penggulungan secara sukarela
+
+51. Kuasa Pendaftar untuk memotong perkongsian liabiliti terhad daripada daftar
+
+52. Pembatalan pembubaran
+
+53. Kuasa Pendaftar untuk mewakili perkongsian liabiliti terhad yang dibubarkan dalam hal keadaan tertentu
+
+54. Aset yang berbaki bagi perkongsian liabiliti terhad yang dibubarkan terletak hak pada Pendaftar
 
 ## BAHAGIAN VIII
 
 ## PENGUATKUASAAN
 
-55. Pemberian maklumat 56. Kuasa untuk menjalankan pemeriksaan 57. Kuasa penyiasatan 58. Penggeledahan dan penyitaan dengan waran 59. Penggeledahan dan penyitaan tanpa waran 60. Capaian kepada data berkomputer
+55. Pemberian maklumat
+
+56. Kuasa untuk menjalankan pemeriksaan
+
+57. Kuasa penyiasatan
+
+58. Penggeledahan dan penyitaan dengan waran
+
+59. Penggeledahan dan penyitaan tanpa waran
+
+60. Capaian kepada data berkomputer
 
 <!-- page 4 -->
 
@@ -382,7 +426,9 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi 
 
 (3) Jika suatu perkongsian liabiliti terhad ditubuhkan bagi maksud menjalankan apa-apa amalan profesional, permohonan di bawah subseksyen (1) hendaklah disertai dengan surat kelulusan daripada badan pentadbir yang berkaitan sebagaimana yang dinyatakan dalam ruang ketiga Jadual Pertama, jika berkenaan.
 
-(4) Pendaftar boleh, dalam mana-mana hal tertentu, menghendaki pernyataan dan surat kelulusan yang disebut dalam subseksyen (2) dan (3) masing-masing, ditentusahkan mengikut apa-apa cara yang difikirkan sesuai oleh Pendaftar.
+(4) Pendaftar boleh, dalam mana-mana hal tertentu, menghendaki pernyataan dan surat kelulusan yang disebut dalam subseksyen
+
+(2) dan (3) masing-masing, ditentusahkan mengikut apa-apa cara yang difikirkan sesuai oleh Pendaftar.
 
 ### Pendaftaran perkongsian liabiliti terhad
 
@@ -994,11 +1040,7 @@ dan penalti, kos, fi, caj, cukai dan hutang sedemikian hendaklah menjadi suatu t
 
 <!-- page 41 -->
 
-(b) dalam hal penggulungan sesuatu perkongsian liabiliti terhad oleh Mahkamah, peruntukan Penggal 2 dan 4
-
-## Bahagian X (setakat yang peruntukan itu berhubungan
-
-dengan syarikat berhad menurut syer) Akta Syarikat 1965 dan Kaedah-Kaedah Syarikat (Penggulungan) 1972 [P.U.
+(b) dalam hal penggulungan sesuatu perkongsian liabiliti terhad oleh Mahkamah, peruntukan Penggal 2 dan 4 Bahagian X (setakat yang peruntukan itu berhubungan dengan syarikat berhad menurut syer) Akta Syarikat 1965 dan Kaedah-Kaedah Syarikat (Penggulungan) 1972 [P.U.
 
 (A) 289/1972] hendaklah terpakai.
 
@@ -1328,7 +1370,9 @@ AM
 
 <!-- page 57 -->
 
-(5) Jika sesuatu perkongsian liabiliti terhad tidak menyerah simpan perakuan yang disebut dalam subseksyen (1) dalam tempoh masa atau lanjutan masa yang disebut dalam subseksyen (2), (3) atau (4), mengikut mana-mana yang berkenaan, perkongsian liabiliti terhad itu melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua puluh ribu ringgit dan, dalam hal kesalahan berterusan, didenda selanjutnya tidak melebihi lima ratus ringgit bagi setiap hari kesalahan itu berterusan selepas disabitkan.
+(5) Jika sesuatu perkongsian liabiliti terhad tidak menyerah simpan perakuan yang disebut dalam subseksyen (1) dalam tempoh masa atau lanjutan masa yang disebut dalam subseksyen (2),
+
+(3) atau (4), mengikut mana-mana yang berkenaan, perkongsian liabiliti terhad itu melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua puluh ribu ringgit dan, dalam hal kesalahan berterusan, didenda selanjutnya tidak melebihi lima ratus ringgit bagi setiap hari kesalahan itu berterusan selepas disabitkan.
 
 (6) Mana-mana orang yang membuat perakuan yang disebut dalam perenggan (1)(a) tanpa mempunyai alasan yang munasabah bagi pendapatnya melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua ratus lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.
 

@@ -218,13 +218,19 @@ or account
 
 <!-- page 4 -->
 
-Penal Offence Whether Whether a Whether Whether
+<!-- marginal: Penal -->
+
+Offence Whether Whether a Whether Whether
 
 <!-- marginal: Maximum -->
 
-Code the police warrant or bailable compoundable
+<!-- marginal: Code -->
+
+the police warrant or bailable compoundable
 
 <!-- marginal: punishment -->
+
+<!-- marginal: section -->
 
 may a summons or not or not
 
@@ -236,7 +242,9 @@ ordinarily shall
 
 arrest ordinarily without issue in warrant the first or not instance
 
-424b Giving do. do. do. do.
+<!-- marginal: 424b -->
+
+Giving do. do. do. do.
 
 <!-- marginal: Fine not -->
 

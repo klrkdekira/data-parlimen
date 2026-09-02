@@ -1,0 +1,694 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-21-1990",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_28"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Port Authorities (Amendment) Bill 1990"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Port Authorities (Amend-"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "ment) Act 1990 and shall come into force on such date as the Minister may, by notification in the Gazette, appoint."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_10__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 29M of the principal Act is amended—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "29M."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"under section\" in subsection (1) the words \"29CA (1) or\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"29H (1)\" in subsection (1) the words \"or the authorisation given by the authority to any person to pilot vessels passing through a pilotage district pursuant to section 29CB (2)\""
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 29O of the principal Act is amended by sub-"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "stituting for the words \"two thousand dollars\" in subsection (2) the words \"five thousand ringgit\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 31 of the principal Act is amended by substituting"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "for the words \"five hundred dollars\" the words \"two thousand ringgit\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 32 of the principal Act is amended by sub-"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "stituting for the words \"five hundred dollars\" in subsections (2) and (4) the words \"two thousand ringgit\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "34 the following new section 34A: 34A. Any person who hinders or obstructs any member, officer or servant of the authority in the performance or execution of his duty or in carrying out anything which he is empowered or required to do by virtue of or in consequence of this Act shall be guilty of an offence under this Act and shall be liable on conviction to a fine not exceeding one thousand ringgit or to imprison- ment for a term not exceeding six months or to both such fine and imprisonment.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 35 of the principal Act is amended by sub-"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "stituting for the words \"one thousand dollars\" in subsection (2) the words \"two thousand ringgit\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_16__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 35A of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_16__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_16__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_16__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_16__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"not being an authority pilot\" the words \"or an employee licensed under section 29cA (1) of a licensed operator or a person authorised by the authority to pilot vessels pursuant to section 29CB (2)\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_16__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_16__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"one thousand dollars\" the words \"two thousand ringgit\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_16__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_16__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_16__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_16__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"not an authority pilot\" the words \"or an employee licensed under section 29cA (1) of a licensed operator or any person authorised by the authority to pilot vessels pursuant to section 29cs (2)\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_16__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_16__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"one thousand dollars\" the words \"two thousand ringgit\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_17__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_17__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 35B of the principal Act is amended—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "(a} by inserting after the words \"authority pilot\" in subsection (1) the words \"or an employee licensed under section 29cA (1) of a licensed operator\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"authority pilot,\" in subsection (2) the words \"an employee of a licensed operator,\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_17__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"one hundred dollars\" in subsection (2) the words \"five hundred ringgit\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_18__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 35c of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \", either within or without the districts for which he is licensed,\" in the first and second lines of subsection (1) the words \"or any employee licensed under section 29CA (1) of a licensed operator or any person authorised by the authority to pilot vessels passing through a pilotage district pursuant to section 29CB (2)\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting immediately after subsection (3) the following new subsection (4): \"(4) Any employee licensed under section 29CA (1) of a licensed operator or any person authorised to pilot vessels under section 29CB (2) who commits an offence under this section, or procures, aids, abets or connives at the commis- sion of any such offence shall be liable on con- viction to suspension or revocation of the licence or authorisation as the case may be.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_19__para_a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 35D of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting immediately after the words \"authority pilot\" in the first line the words \"or an employee licensed under section 29CA (1) of a licensed operator\"; and (/>) by substituting for the full stop appearing at the end thereof a colon and inserting immediately there- after the following proviso: \"Provided that no employee licensed under section 29CA (1) of a licensed operator shall be dismissed by the authority.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 3 of the Port Authorities Act 1963, which in this"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Act is referred to as \"the principal Act\", is amended by deleting paragraph (u) of subsection (2)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "35n the following new section 35E: \"Failure to 35E. (1) The master, owner or agent of a vessel employ navigating in circumstances in which the vessel is authority required by the authority under section 29B to be pilot or licensed under pilotage who does not employ an authority pilot under pilot or an employee licensed under section 29cA certain circum- (l)of a licensed operator or a person authorised stances. by the authority pursuant to section 29CB (2) for such purpose shall be guilty of an offence under this Act and shall be liable on conviction to a fine not exceeding five thousand ringgit. (2) Upon being found guilty of any offence under subsection (1), the Court before which the master, owner or agent of the vessel is found guilty shall order such master, owner or agent to pay to the authority the amount certified by the accountant of the authority to be the amount of dues and rates which would have been payable to the authority if the vessel had been under pilotage as required by this Act and such amount shall be recoverable in the same manner as a fine.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 36 of the principal Act is amended by sub-"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "stituting for the words \"one thousand dollars\" the words \"two thousand ringgit\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_22__para_a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 36A of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_22__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"either knowingly or recklessly,\"; and (/?) by substituting for the words \"one thousand dollars\" the words \"five thousand ringgit\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "37 the following new section 37A: \"Authority 37A. (1) When any person without lawful excuse to recover refuses or neglects to obey any direction lawfully expenses incurred for given under this Act or the by-laws made act done thereunder, the authority may, irrespective of pursuant to whether any proceedings have been instituted a lawful direction. against or any punishment imposed on such person for the refusal or neglect, do or cause to be done all such acts as are in its opinion reasonable or necessary for the purpose of carrying out such direction. (2) The powers conferred by subsection (1) include the power to hire and employ such persons as are necessary and proper for making gopd whatever loss or damage that has been caused by any refusal or neglect of the person to whom the direction has been given. (3) Any expenses incurred in the exercise of the powers conferred under subsection (1) or (2) shall be recoverable from the person to whom the direction has been given as a civil debt.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 38 of the principal Act is amended by sub-"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "stituting for the words \"five hundred dollars\" the words \"one thousand ringgit\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "39 the following new section 39A: 39A. Where an offence under this Act or under any of the regulations or by-laws made there- under is committed by a body corporate (whether or not the body corporate has been prosecuted), every director, secretary or manager of the body corporate shall be deemed to be guilty of the offence unless he proves that the offence was committed without his consent or connivance and that he exercised all due diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circum- stances of the case.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "41 A the following new section 41B: 41 B. (1) In the event of fire breaking out on board any vessel in the port, the General Manager or any person authorised by him may proceed to board the vessel with such persons and assistance as may seem fit to him and may give such orders to the master of the vessel as are necessary for scuttling the vessel or for removing that vessel or any other vessel, and he may take such other measures as are necessary and proper for the protection of life or property, (2) If the orders given pursuant to subsection (1) are not carried out forthwith by the master of the vessel, the General Manager or the person authorised by him may himself proceed to carry the orders into effect. (3) Any expenses incurred in the exercise of the powers conferred by subsections (1) and (2) shall be recoverable from the master or the owner of the vessel concerned as a civil debt.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "46 the following new section 46A: 46A. (1) The Minister may by order to be pub- lished in the Gazette prescribe any offence against the provisions of this Act or of any regulations or by-laws made thereunder as an offence which may be compounded by the authority. (2) The General Manager may in his discre- tion compound such offence prescribed under subsection (1) by accepting from the person reasonably suspected of having committed any such offence a sum of money not exceeding five hundred ringgit. (3) The Minister may by the same order made under subsection (1) prescribe the method and procedure for compounding any offence against the provisions of this Act or of any regulations or by-laws made thereunder.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 59 of the principal Act is amended by inserting"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "immediately after the definition of the word \"land\" the following new definition: ' \"licensed operator\" means a licensed operator licensed under Part III of the Ports (Privatisation) Act 1990;'."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "3A the following new section 3b: \"Additional 3B. (1) In addition to the functions provided function of under this Act, the authority may, with the the authority approval of the Minister, operate any port-related activities. (2) In the exercise of the function in subsection (1) the authority may expend such moneys as are necessary. (3) For the purposes of this section, \"port- related activities\" means— (a) activities performed outside a port which relate to any function or duty of the authority to operate or maintain a port or the transportation of goods through the port; or (B) the development, operation or maintenance outside the port of marinas and other pro- perties necessary for the furtherance of any function or duty of the authority.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 8"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "the following new section 8A; 8A. The authority may, from time to time with the approval of the Minister of Finance, borrow, by way of overdraft or otherwise, such sums as it may require for meeting its obligations and dis- charging its functions under this Act and may secure the repayment of any sum borrowed by way of a mortgage or charge, legal or equitable, of any property vested in the authority, or of any revenue received by the authority under this Act.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_5__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 9 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"Accounts and audit\" in the marginal note the words \"Accounts and records to be open for inspection\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting paragraph (h) of subsection (1); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection 3."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "29C the following new sections 29CA and 29CB: 29CB. 29CA. (1) Notwithstanding anything to the con- trary in the Act the authority may, if it considers expedient, authorise the Pilotage Committee to issue a licence to any employee of a licensed operator to pilot vessels in a pilotage district of such authority subject to such terms and con- ditions as the authority thinks fit: Provided that no such licence shall be issued to any such employee unless the Pilotage Committee has examined the employee and be satisfied as to the employee's general fitness and competency, including his physical fitness to act as a pilot for the licensed operator. (2) A licence issued under subsection (1) shall cease to be valid if the employee to whom it was issued ceases to be employed by the licensed operator. Vessel to be 29cB. (1) No vessel shall be piloted in a pilotage piloted by district by any person other than the authority pilot authority or an employee licensed under section 29CA pilot or employee of (1) of a licensed operator, a licensed operator or (2) Notwithstanding the provisions of sub- an authorised section (1) the authority may, if it considers person. expedient, authorise any person to pilot vessels passing through its pilotage district, subject to such terms and conditions as the authority may impose.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_7__para_a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 29D of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (a) thereof the following new paragraph (a): \"(a) holding examinations and issuing, on behalf of the authority, licences to act as an authority pilot or as a pilot employed by a licensed operator; (b) by substituting for paragraph (b) thereof the following new paragraph (b): \"(b) holding inquiries concerning the conduct of— (i) authority pilots; (ii) employees, licensed to pilot vessels in a pilotage district pursuant to section 29CA (1), of a licensed operator; (iii) persons authorised under section 29CB (2) to pilot vessels passing through a pilotage district, in the discharge of their duties as directed by the authority and make recommendations thereto;\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_8__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 29I of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"an authority pilot\" in subsection (1) the words \"or any person licensed under section 29CA (1) or any person authorised to pilot vessels under section 29CB (2)\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"five hundred dollars\" in subsection (3) the words \"two thousand ringgit\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_9__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_9__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 29J of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"an authority pilot\" in subsection (1) the words \"or an employee licensed under section 29CA (1) of a licensed operator or any person authorised by the authority to pilot vessels pursuant to section 29CB (2)\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"such authority pilot\" in subsection (2) the words \"or employee licensed under section 29CA (1) of a licensed operator, or, in the case of such person authorised by the authority to pilot vessels pursuant to section 29CB (2), revoke such authorisation,\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_9__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/21/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words \"Any authority pilot\" in subsection (3) the words \"or any employee licensed under section 29CA (1) of a licensed operator\"."
+      }
+    }
+  ]
+}

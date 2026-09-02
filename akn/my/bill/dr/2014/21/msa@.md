@@ -12,7 +12,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Tajuk ringkas dan permulaan kuat kuasa
 
-1. (1) Akta ini bolehlah dinamakan Akta Arkitek (Pindaan) 2014.
+1. (1) Akta ini bolehlah dinamakan Akta Arkitek (Pindaan)
+
+2014.
 
 (2) Kecuali perenggan 3(d) dan (p) dan seksyen 23, Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta dan Menteri boleh menetapkan tarikh yang berlainan bagi permulaan kuat kuasa peruntukan yang berlainan Akta ini.
 
@@ -734,13 +736,19 @@ shall be entitled on application to be registered as an Interior Designer.
 
 (D) health and safety issues.”;
 
-(b) dalam subperenggan (3)(c)(i), dengan memotong perkataan “and/”; dan
+(b) dalam subperenggan (3)(c)(i), dengan memotong perkataan
+
+<!-- marginal: “and/”; dan -->
 
 (c) dalam subseksyen (5)—
 
-(i) dalam perenggan (bb), dengan menggantikan perkataan “twenty-five” dengan perkataan “fifty”; dan
+(i) dalam perenggan (bb), dengan menggantikan perkataan “twenty-five” dengan perkataan “fifty”;
 
-(ii) dalam perenggan (cc), dengan menggantikan perkataan “two years” dengan perkataan “three years”.
+<!-- marginal: dan -->
+
+(ii) dalam perenggan (cc), dengan menggantikan perkataan “two years” dengan perkataan “three
+
+<!-- marginal: years”. -->
 
 <!-- page 26 -->
 
@@ -982,7 +990,7 @@ shall order the Registrar to issue a certificate of registration to the Inspecto
 
 <!-- page 34 -->
 
-## part vC
+## PART VC
 
 SPECIAL PROvISIONS RELATING TO ARCHITECTURAL
 

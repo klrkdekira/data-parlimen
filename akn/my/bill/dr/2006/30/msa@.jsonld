@@ -131,7 +131,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/msa@/~cl_3",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (2) — \"(da) Ketua Setiausaha Kementerian Pelajaran atau wakilnya;\"; \"(f) Ketua Eksekutif; dan\"; dan"
+        "@value": "dalam subseksyen (2) —"
       }
     },
     {
@@ -151,7 +151,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/msa@/~cl_3__para_a",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perenggan (d) perenggan yang berikut:"
+        "@value": "dengan memasukkan selepas perenggan (d) perenggan yang berikut: \"(da) Ketua Setiausaha Kementerian Pelajaran atau wakilnya;\";"
       }
     },
     {
@@ -161,7 +161,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/msa@/~cl_3__para_a",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan perenggan (f) dengan perenggan yang berikut:"
+        "@value": "dengan menggantikan perenggan (f) dengan perenggan yang berikut: \"(f) Ketua Eksekutif; dan\"; dan"
       }
     },
     {
@@ -260,7 +260,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/msa@/~cl_8",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (1) — 5 (Pindaan) ■ Pindaan seksyen 32"
+        "@value": "dalam subseksyen (1) —"
       }
     },
     {
@@ -290,7 +290,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/msa@/~cl_8__para_b",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam perenggan (b), dengan memasukkan selepas perkataan \"dipotong itu kepada\" perkataan \"Perbadanan atau\"."
+        "@value": "dalam perenggan (b), dengan memasukkan selepas perkataan \"dipotong itu kepada\" perkataan \"Perbadanan atau\". 5 (Pindaan) ■ Pindaan seksyen 32"
       }
     },
     {
@@ -298,9 +298,13 @@
       "@type": "akn:clause",
       "eli:number": "9",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/30/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 32 Akta ibu dipinda dengan menggantikan subseksyen"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Seksyen 32 Akta ibu dipinda dengan menggantikan subseksyen (2) dengan subseksyen yang berikut: ■ - \" (2) Semasa ketiadaan Pengerusi atas apa-apa sebab, Menteri boleh melantik seorang anggota Lembaga, selain Ketua Eksekutif, untuk menjalankan kewajipan-kewajipan Pengerusi.\". Pemotongan seksyen 36, 37, 38, 39, 40, 41, 42, 43 dan 44"
+        "@value": "(2) dengan subseksyen yang berikut: ■ - \" (2) Semasa ketiadaan Pengerusi atas apa-apa sebab, Menteri boleh melantik seorang anggota Lembaga, selain Ketua Eksekutif, untuk menjalankan kewajipan-kewajipan Pengerusi.\". Pemotongan seksyen 36, 37, 38, 39, 40, 41, 42, 43 dan 44"
       }
     }
   ]

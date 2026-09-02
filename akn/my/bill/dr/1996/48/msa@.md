@@ -36,7 +36,9 @@ Provided that before a plea of guilty is recorded the Court shall ascertain that
 
 <!-- page 2 -->
 
-Rang Undang-Undang 2
+Rang Undang-Undang
+
+<!-- marginal: 2 -->
 
 accused understands the nature and consequences of his plea and intends to admit, without qualification, the offence alleged against him.";
 
@@ -58,19 +60,13 @@ accused understands the nature and consequences of his plea and intends to admit
 
 <!-- page 3 -->
 
-Kanun Prosedur Jenayah (Pindaan)
-
-<!-- marginal: 3 -->
+Kanun Prosedur Jenayah (Pindaan) 3
 
 (f) dengan menggantikan perenggan (j) dengan perenggan yang berikut:
 
 "(j) (1) If the accused pleads guilty to the charge as amended, the plea shall be recorded and he may be convicted thereon and the Court shall pass sentence according to law:
 
-Provided that before a plea of guilty is recorded the Court shall ascertain that the accused understands the nature
-
-<!-- marginal: and -->
-
-consequences of his plea and intends to admit, without qualification, the offence alleged against him.
+Provided that before a plea of guilty is recorded the Court shall ascertain that the accused understands the nature and consequences of his plea and intends to admit, without qualification, the offence alleged against him.
 
 (2) If the accused does not plead guilty to the charge as amended, the accused shall be called upon to enter on his defence.
 
@@ -92,9 +88,7 @@ Rang Undang-Undang 4
 
 prosecution has proved its case beyond reasonable doubt.
 
-(2) If the Court finds
-
-<!-- marginal: that -->
+(2) If the Court finds that
 
 <!-- marginal: the -->
 
@@ -104,23 +98,29 @@ prosecution has proved its
 
 beyond reasonable doubt, the Court shall find the accused guilty and he may be convicted thereon and the Court shall pass sentence according to law.
 
-(3) If the Court finds
-
-<!-- marginal: that -->
+(3) If the Court finds that
 
 <!-- marginal: the -->
 
 prosecution has not proved its case beyond reasonable doubt, the Court shall record an order of acquittal.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Seksyen 178 Kanun adalah dipinda dalam subseksyen seksyen 178. (ii) dengan menggantikan noktah di hujung subseksyen itu dengan noktah bertindih dan dengan menambahkan proviso yang berikut selepasnya:
+3. Seksyen 178 Kanun adalah dipinda dalam subseksyen
+
+<!-- marginal: seksyen 178. -->
+
+(ii) dengan menggantikan noktah di hujung subseksyen itu dengan noktah bertindih dan dengan menambahkan proviso yang berikut selepasnya:
 
 "Provided that before a plea of guilty is recorded the Court shall ascertain that the accused understands the nature and consequences of his plea and intends to admit, without qualification, the offence alleged against him.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-4. Kanun adalah dipinda dengan menggantikan seksyen seksyen 180. 180 dengan seksyen yang berikut:
+4. Kanun adalah dipinda dengan menggantikan seksyen
+
+<!-- marginal: seksyen 180. -->
+
+180 dengan seksyen yang berikut:
 
 "Procedure 180. (i) When the case for the prosecution is conclusion concluded, the Court shall consider whether the of case for prosecution has made out a prima facie case prosecu- against the accused. tion
 

@@ -1,0 +1,2401 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-39-1995",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Labuan Offshore Financial Services Authority Bill 1995"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_28"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "THE AUTHORITY"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_35"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "FINANCE"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_29__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_29__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_29__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "There is hereby established, for the purposes of this Act, a fund to be administered and controlled by the Authority."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_29__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_29__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_29__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_29__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_29__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_29__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_29__subsec_2__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Fund shall consist of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_29__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_29__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "such sums as may be provided from time to time for the purposes of this Act by Parliament;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_29__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_29__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "sums borrowed by the Authority for the purposes of meeting any of its obligations or discharging any of its duties;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_29__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_29__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "levies payable under section 32;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_29__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_29__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "fees, costs or other charges imposed by the Authority under laws relating to offshore financial services;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_29__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_29__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any compound paid under laws relating to offshore financial services; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_29__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_29__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all other sums or property which may in any manner become payable to or vested in the Authority in respect of any matter incidental to its functions and powers."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_30__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_30__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_30__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_30__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_30__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Fund shall be expended for the purpose of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_30__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "paying any expenditure lawfully incurred by the Authority, including legal fees and costs and other fees and costs, and the remuneration of officers and servants of the Authority, including the granting of loans, superannuation allowances or gratuities;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_30__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "paying any other expenses, costs or expenditure properly incurred or accepted by the Authority in the performance of its functions or the exercise of its powers under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_30__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "purchasing or hiring equipment, machinery and any other materials, acquiring land and erecting AUTHORITY buildings, and carrying out any other works and undertakings in the performance of its functions or the exercise of its powers under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_30__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "repaying any moneys borrowed under this Act and the interest due thereon; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_30__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "generally, paying any expenses for carrying into effect the provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III",
+      "schema:name": {
+        "@language": "en",
+        "@value": "It shall be the duty of the Authority to conserve the"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Fund by so performing its functions and exercising its powers under this Act as to secure that the total revenues of the Authority are sufficient to meet all sums properly chargeable to its revenue account including depreciation and interest on capital taking one year with another."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_32__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_32__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_32__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_32__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_32__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An offshore financial institution shall be liable, in the case of any offshore financial service provided by it, to pay a levy to the Authority."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_32__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purpose of subsection (1), the Minister may, by order published in the Gazette, specify such rates of levy as is necessary to meet the administrative and operating costs of the Authority; and different rates may be specified in respect of different classes of offshore financial services."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_32__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The amount of any levy payable under this section shall be recoverable as a civil debt due to the Authority."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_32__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_32__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_32__subsec_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may make regulations providing for—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_32__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_32__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the payment of levies under this section;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_32__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_32__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "subject to the provisions relating to secrecy under any written law relating to offshore financial institutions, the keeping, examination and audit of the accounts of the offshore financial institutions relating to the collection of such levies. 22 BILL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_33__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_33__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_33__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_33__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_33__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_33__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Authority shall cause proper accounts of the Fund and proper reports of its activities to be kept and shall, as soon as practicable after the end of each financial year, cause to be prepared—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_33__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_33__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a statement of accounts of the Authority which shall include a balance sheet and an account of income and expenditure; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_33__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_33__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a statement of its activities, for that financial year."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_33__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Authority shall as soon as possible send a copy of the statement of accounts certified by the auditors and a copy of the auditor's report to the Minister who shall cause them to be laid before both Houses of Parliament."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_33__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Statutory Bodies (Accounts and Annual Reports) Act 1980 shall apply to the Authority."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Authority may from time to time, with the"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "approval of the Minister, borrow, at such rate of interest and for such period and upon such terms as to the time and method of repayment and otherwise as the Minister may approve, any sums required by the Authority for meeting any of its obligations or performing any of its functions under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The moneys of the Authority shall, in so far as they are not required to be expended by the Authority under this Act, be invested in such manner as the Authority deems fit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subject to this Act and the approval of the Minister,"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Authority shall determine its own procedure. AUTHORITY"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Authority may invite any person to attend any"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "meeting or deliberation of the Authority for the purpose of advising it on any matter under discussion, but any person so attending shall have no right to vote at the said meeting or deliberation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Members of the Authority or any person invited to"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "attend any meeting or deliberation of the Authority under section 11 may be paid such remuneration or allowance as the Minister may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_13__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_13__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_13__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Authority shall have a common seal and such seal may from time to time be broken, changed, altered and made anew as the Authority thinks fit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Until a seal is provided by the Authority, a stamp bearing the words \"Labuan Offshore Financial Services Authority\" may be used and shall be deemed to be the common seal of the Authority."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_13__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The common seal shall be kept in the custody of the Chairman or such other person as may be authorised by the Authority, and shall be authenticated by either the Chairman or such authorised person or by any officer authorised by the Chairman in writing; and all deeds, documents and other instruments purporting to be sealed with the said seal, authenticated as aforesaid, shall, until the contrary is proven, be deemed to have been validly executed: Provided that any document or instrument which, if executed by a person not being a body corporate, would not be required to be under seal may in like manner be executed by the Authority, and any such document or instrument may be executed on behalf of the Authority by any officer or servant of the Authority generally or specially authorised by the Authority in that behalf."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_13__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The common seal of the Authority shall be taken judicial notice of for all official purposes."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_14__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_14__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_14__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_14__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Authority may delegate any of its functions or powers to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_14__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_14__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any member of the Authority;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_14__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_14__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any committee established by the Authority; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_14__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_14__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any officer or servant of the Authority."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A delegation under this section shall not preclude the Authority itself from performing or exercising at any time any of the functions or powers so delegated."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_15__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_15__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_15__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_15__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_15__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_15__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_15__subsec_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_15__subsec_9"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Authority may establish such committees as it considers necessary or expedient to assist it in the performance of its functions under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Authority may appoint any person to be a member of any committee established under subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_15__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A committee established under this section may elect any of its members to be chairman and may regulate its own procedure and, in the exercise of its powers under this subsection, such committee shall be subject to and act in accordance with any direction given to the committee by the Authority."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_15__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Meetings of a committee established under this section shall be held at such times and places as the chairman of the committee may, subject to subsection (3), determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_15__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A committee may invite any person, for the purpose of advising it on any matter under discussion, to attend any meeting of the committee but the person so invited shall not be entitled to vote at any such meeting."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_15__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Members of a committee or any person invited to attend any meeting of a committee may be paid such allowances and other expenses as the Authority may determine. LABUAN OFFSHORE FINANCIAL SERVICES AUTHORITY"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_15__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of a committee shall hold office for such term as may be specified in his letter of appointment and is eligible for reappointment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_15__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Authority may revoke the appointment of any member of a committee without assigning any reason therefor."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_15__subsec_9",
+      "@type": "akn:subsection",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of a committee may at any time resign by giving notice in writing to the Chairman of the Authority."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_16__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_16__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_16__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Authority or a committee shall cause minutes of all their meetings to be maintained and kept in proper form."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_16__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any minutes made of meetings of the Authority or a committee, if duly signed, shall, in any legal proceedings, be admissible as prima facie evidence of the facts stated therein and every meeting of the Authority or a committee in respect of the proceedings of which minutes have been so made shall be deemed to have been duly convened and held and all members thereat to have been duly qualified to act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any member of the Authority or a committee who has or acquires, directly or indirectly, by himself, or his spouse or children, or his partner or his agent—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any share or interest in any offshore financial institution;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_1__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_1__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_1__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any share or interest—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_1__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_1__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in any contract made with the Authority;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_1__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_1__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in any work done for the Authority; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_1__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_1__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in any company or firm with which the Authority proposes to enter into a contract in respect of any undertaking; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any beneficial interest in land proposed to be acquired, purchased, leased or otherwise dealt with by the Authority, which he knows to be affected or is likely to be affected by any project, scheme or enterprise approved or proposed to be approved by the Authority, shall declare the nature and extent of his share or interest to the Authority or the committee, as the case may be."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to subsection (7), the declaration required to be made by a member under subsection (1) shall be made—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of paragraph (1)(a), at the first meeting of the Authority or committee held after he acquires such share or interest;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_2__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_2__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_2__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of paragraphs (1)(b) and (c)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_2__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_2__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "at a meeting of the Authority or committee at which any question relating to the contract, acquisition, purchase, lease, dealing, project or scheme referred to in those paragraphs is first taken into consideration;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_2__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_2__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if the member does not have any such share or interest as is referred to in subparagraph (i) at the date of the meeting mentioned in that subparagraph, at the next such meeting held after he acquires such share or interest; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_2__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_2__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if a member acquires any share or interest in any contract with the Authority after it has been made, at the first meeting held after that member acquires such share or interest."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of this section, a general notice given to the other members by a member to the effect that he is a shareholder or director of any specified company or firm and is to be regarded as interested in any contract which may, after the date of the notice, be LABUAN OFFSHORE FINANCIAL SERVICES AUTHORITY made with or by that company or firm, shall be deemed to be a sufficient declaration of interest in relation to any contract so made."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A notice given under subsection (3) shall be of no effect unless it is given at a meeting of the Authority or the committee, as the case may be, or the member concerned takes reasonable steps to secure that it is brought up and read at the next meeting of the Authority or the committee after it is given."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every declaration made in pursuance of subsection (1) shall be recorded in the minutes of the meeting at which it was made or read."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No member of the Authority or committee shall—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "take part in any deliberation (except by invitation of the Authority or the committee, as the case may be) on any matter affecting any offshore financial institution in which he has any share or interest, whether or not he has declared his share or interest, or in any decision relating thereto or in any matter incidental thereto; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_6__para_b__subpara_aa",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_6__para_b__subpara_bb"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "vote upon any resolution or question relating to any contract, acquisition, purchase, lease, dealing, project or scheme in which he has any share or interest, whether or not he has declared his share or interest, or take part in any deliberation (except by invitation of the Authority or the committee, as the case may be) or any decision relating thereto or any matter incidental thereto, and if he does so—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_6__para_b__subpara_aa",
+      "@type": "akn:subparagraph",
+      "eli:number": "aa",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_6__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "his vote shall not be counted; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_6__para_b__subpara_bb",
+      "@type": "akn:subparagraph",
+      "eli:number": "bb",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_6__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he shall not be counted in the quorum present at the meeting of such deliberation, resolution or question."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member who, before his appointment as a member of the Authority or a committee, has already acquired the share or interest referred to in subsection (1) shall declare the nature and extent of his share or interest to the Authority or committee, as the case may be, immediately upon his appointment by a general notice to be given to the Authority or the committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any member of the Authority or a committee who fails to disclose his share or interest as provided under this section shall be guilty of an offence and shall on conviction be liable to a fine not exceeding two hundred and fifty thousand ringgit or to imprisonment for a term not exceeding five years or to both."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_18__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Authority may, from time to time, employ persons who shall be paid such remuneration and allowances and shall hold their employment on such other terms and conditions as the Authority may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Authority may make arrangements for the payment to its officers and servants and their dependants of such retirement benefits, gratuities or other allowances as it may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Authority may grant loans and make advances"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "to its officers and servants on such terms and conditions as the Authority may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_20__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_20__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_20__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_20__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_20__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_20__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Authority shall have disciplinary authority over all its officers and servants and shall exercise disciplinary control in respect of all such persons in accordance with this Act and any regulations made under section 22."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_20__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_20__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_20__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of this section—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_20__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_20__subsec_2__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_20__subsec_2__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_20__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "there shall be established a disciplinary committee of the Authority in respect of the Director-General consisting of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_20__subsec_2__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_20__subsec_2__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chairman, who shall be the chairman of the committee; and AUTHORITY"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_20__subsec_2__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_20__subsec_2__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "at least two members of the Authority, which shall not include the Director- General, as shall be determined among the members themselves; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_20__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_20__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Authority may, by notification in the Gazette, establish different disciplinary committees for different categories of officers or servants of the Authority."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_20__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_20__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_20__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The following shall apply to any disciplinary committee established pursuant to paragraph (2)(b):"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_20__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_20__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "such committee shall consist of any number of members of the Authority, other than the Chairman of the Authority, or officers of the Authority, or any combination of such members and officers; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_20__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_20__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an officer who is a member of a disciplinary committee shall not be lower in rank than any officer or servant over whom the committee of which he is a member has disciplinary authority."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_20__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The committee established pursuant to paragraph (2)(b) shall exercise its powers in all matters relating to the discipline of officers and servants placed under its jurisdiction."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_20__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In the exercise of its disciplinary functions and powers, a disciplinary committee referred to under subsection (2) shall have the power to take disciplinary action and impose any disciplinary punishment or any combination of two or more disciplinary punishments as may be provided for under any regulations made under section 22."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_21__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_21__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_21__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_21__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_21__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_21__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A decision of the disciplinary committee under paragraph 20(2)(a) shall be appealable to the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_21__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_21__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_21__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A decision of the disciplinary committee under paragraph 20(2)(b) shall be appealable to the Disciplinary Appeal Board which shall consist of the following members:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_21__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_21__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chairman of the Authority, who shall be the chairman of the Disciplinary Appeal Board and having a casting vote; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_21__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_21__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "three members of the Authority, not being members of the disciplinary committee whose decision is the subject matter of the appeal, to be appointed by the chairman of the Disciplinary Appeal Board with the approval of the Authority for the purpose of the appeal."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_21__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister or the Disciplinary Appeal Board, as the case may be, may confirm, reverse or vary the decision of the disciplinary committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_21__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "When the Disciplinary Appeal Board considers an appeal under subsection (2), a member of the disciplinary committee against whose decision the appeal is made who is also a member of the Authority shall not be present or in any way participate in any proceedings relating to that appeal."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_21__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The decision of the Minister or the Disciplinary Appeal Board under subsection (3) shall be final and conclusive."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_22__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_22__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_22__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Authority may, with the approval of the Minister, make such regulations as it deems necessary or expedient to provide for the discipline of the officers and servants of the Authority."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_22__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_22__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_22__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_22__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_22__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_22__subsec_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The disciplinary regulations made under this section—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_22__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_22__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "may create disciplinary offences;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_22__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_22__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "may provide for disciplinary punishments as the Authority may deem appropriate, and the punishments may extend to warning, fine, AUTHORITY forfeiture of emoluments, a deferment of salary movement, reduction of salary, reduction in rank and dismissal;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_22__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_22__subsec_2__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_22__subsec_2__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_22__subsec_2__para_c__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_22__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall provide for an opportunity to the person against whom disciplinary proceedings are taken to make representations against the disciplinary charge laid against him before a decision is arrived at by the disciplinary committee except in the following cases:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_22__subsec_2__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_22__subsec_2__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where an officer or servant of the Authority is dismissed or reduced in rank on the ground of conduct in respect of which a criminal charge has been proved against him;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_22__subsec_2__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_22__subsec_2__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where the Authority, on the recommenda- tions of the Minister charged with home affairs, is satisfied that in the interest of the security of the Federation or any part thereof it is not expedient to carry out the requirements of this paragraph; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_22__subsec_2__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_22__subsec_2__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where there has been made against an officer or servant of the Authority any order of detention, supervision, restricted residence, banishment or deportation, or where there has been imposed on such officer or servant of the Authority any form of restriction or supervision by bond or otherwise, under any law relating to the security of the Federation or any part thereof, prevention of crime, preventive detention, restricted residence, banishment, immigration, or protection of women and girls;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_22__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_22__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "may provide for the interdiction with reduced emoluments of an officer or servant of the Authority during the pendency of a criminal proceedings against him or disciplinary proceedings against him with the view to his dismissal or reduction in rank; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_22__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_22__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "may provide for the suspension without emoluments of an officer or servant of the Authority where the officer or servant has been convicted by any criminal court or where an order of detention or restriction has been made in respect of or imposed on the officer or servant."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_23__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_23__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_23__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_23__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_23__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_23__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_23__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_23__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_23__subsec_1__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person who is or was in the employment of the Authority may be surcharged if it appears to the Authority that the person—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_23__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_23__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "has failed to collect money owing to the Authority for the collection of which he is or was responsible;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_23__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_23__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "is or was responsible for any improper payment of money from the Authority or for any payment of money which is not duly approved;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_23__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_23__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "is or was responsible, directly or indirectly, for any deficiency in, or for the destruction of, any money, store or other property of the Authority;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_23__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_23__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "being or having been an accounting officer, fails or has failed to keep proper accounts or records; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_23__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_23__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "has failed to make any payment, or is or was responsible for any delay in the payment from the Authority, of money to any person to whom such payment is due under any law or under any contract, agreement or arrangement entered into between that person and the Authority."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_23__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Authority shall, before the person is surcharged, serve on him a written notice calling on him to show cause why he should not be surcharged."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_23__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_23__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_23__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If a satisfactory explanation is not received within fourteen days from the date of service of the aforesaid notice, the Authority may—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_23__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_23__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of paragraphs (1)(a), (b) and (c), surcharge against the person a sum not exceeding the amount not collected, or of the improper AUTHORITY payment made, or of the deficiency in or destruction of the property caused; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_23__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_23__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of paragraphs (1)(d) and (e), surcharge against the person, such sum as the Authority may think fit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Authority shall notify the person surcharged in"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "respect of any surcharge made under subsection 23(3)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection 23(3) and section 24,"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Authority may at any time withdraw any surcharge in respect of which a satisfactory explanation has been received or if it otherwise appears that no surcharge should have been made, and the Authority shall forthwith notify the person surcharged of the withdrawal."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_26__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_26__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The amount of any surcharge made under subsection"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "23(3) and not withdrawn under section 25 shall be a debt due to the Authority from the person surcharged and may be sued for and recovered in any court at the suit of the Authority and may also, if the Authority so directs, be recovered by deduction—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_26__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "from the salary of the person surcharged; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_26__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "from the pension of the person surcharged, by equal monthly instalments not exceeding one-fourth of the total monthly salary or pension, as the case may be, of that person."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In any action for surcharge against the Director-"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "General, the composition of the Authority for the purposes of sections 23 to 26 shall not include the Director-General."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "All members of the Authority or any of its committees"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "or any officer, servant or agent of the Authority while discharging their duties as such member, officer, servant or agent shall be deemed to be public servants within the meaning of the Penal Code. 20 BILL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_3__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "There is hereby established a body corporate by the name of \"Labuan Offshore Financial Services Authority\" with perpetual succession and a common seal, which may sue and be sued in its name and, subject to and for the purposes of this Act, may enter into contracts and may acquire, purchase, take, hold and enjoy movable and immovable property of every description and may convey, assign, surrender, yield up, charge, mortgage, demise, reassign, transfer or otherwise dispose of, or deal with, any movable or immovable property or any interest therein vested in the Authority upon such terms as it deems fit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_3__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_3__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The objectives of the Authority are—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_3__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to promote and develop Labuan as a centre for offshore financial services;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_3__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to develop national objectives, policies and priorities for the orderly development and administration of offshore financial services in Labuan, and to make recommendations to the Minister in respect thereof."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_1__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The functions of the Authority shall be—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_1__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_1__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_1__para_a__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_1__para_a__subpara_iv",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_1__para_a__subpara_v"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to administer, enforce, carry out and give effect to the provisions of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_1__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_1__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Offshore Companies Act 1990;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_1__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_1__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Labuan Trust Companies Act 1990;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_1__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_1__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Offshore Banking Act 1990;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_1__para_a__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_1__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Offshore Insurance Act 1990; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_1__para_a__subpara_v",
+      "@type": "akn:subparagraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_1__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other law relating to offshore financial services in Labuan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to exercise, discharge and perform such powers, duties and functions under the laws referred to in paragraph (a);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to ensure that offshore financial transactions are conducted in accordance with laws relating to offshore financial services and in accordance with established norms of good and honourable conduct, and to preserve and maintain the good repute of Labuan as a centre for offshore financial services;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to carry out research and commission studies on offshore financial services in Labuan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to make recommendations for the creation and improvement of any facility likely to enhance the attraction of Labuan as a centre for offshore financial services;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to co-operate with offshore financial institutions and professional and industry associations in Labuan to promote and provide offshore financial services and to foster high standards of offshore financial services in Labuan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to advise the Minister generally on matters relating to offshore financial services in Labuan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Authority shall have power to do all things expedient or reasonably necessary for, or incidental to, AUTHORITY the performance of its functions and, in particular, but without prejudice to the generality of the foregoing—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to appoint such agents as it deems fit for the purpose of performing its functions;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to impose fees or any other charges it deems fit for giving effect to any of its functions or powers;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to do such other things as it deems fit to enable it to carry out its functions and powers effectively."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the avoidance of doubt it is hereby declared that the Authority shall also have the following functions, that is—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to license or register persons carrying on offshore financial services in Labuan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_4__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to regulate and supervise the conduct of offshore financial services in Labuan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_5__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_5__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_5__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_5__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_5__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Authority shall consist of the following members who shall be appointed by the Minister:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_5__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a Chairman;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_5__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Director-General; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_5__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "not less than three and not more than seven other persons, two of whom shall be from the public sector."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The members appointed under paragraph ( 1 )( c) shall be from amongst persons who possess relevant experience in financial, commercial or legal matters."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director-General shall be the chief executive officer of the Authority and shall be entrusted with the day-to-day administration of the Authority."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_5__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In the event of the Director-General being absent or unable to act due to illness or any other cause, the Chairman shall appoint any member of the Authority to carry out the functions of the Director-General."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subject to such conditions as may be specified in his"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "instrument of appointment, a member of the Authority shall, unless he sooner resigns or vacates his office or his appointment is sooner revoked, hold office for a term not exceeding three years and is eligible for reappointment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_7__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The appointment of any member may at any time be revoked by the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member may at any time resign his office by a written notice addressed to the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_8__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_8__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_8__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_8__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The office of a member of the Authority shall be"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "vacated—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if he dies;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if he has been convicted of any offence under any law;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_8__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if he becomes a bankrupt;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_8__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if he is of unsound mind or is otherwise incapable of discharging his duties; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_8__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if he absents himself from three consecutive meetings of the Authority without leave of the Chairman or in the case of the Chairman, without leave of the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_9__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, from time to time, give to the Authority directions of a general character not inconsistent with the provisions of this Act and such directions shall be binding on the Authority."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, from time to time, require the Authority to furnish the Minister with such returns, accounts and information with respect to the performance of any of its functions under this Act and any other law relating to offshore financial services and the Authority shall comply with such requirement."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_39"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "GENERAL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Authority, any member of the Authority or of any committee established by the Authority, and any officer or servant of the Authority shall not be liable to any action or other proceedings for damages for or on account of, or in respect of, any act done or statement AUTHORITY made, omitted to be done or made, in pursuance of or in execution of this Act or in the performance of any function, or in exercise of any power, conferred by or under any written law relating to offshore financial services: Provided that such act, statement, performance of function or exercise of power was done or made in good faith."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_37__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_37__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_37__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may make such regulations as may be expedient or necessary for carrying out or giving effect to the provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_37__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_37__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_37__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Regulations made under this section—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_37__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_37__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "may provide that any contravention of any provision thereof shall be an offence; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_37__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_37__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "may provide for the imposition of penalties which shall not exceed twenty-five thousand ringgit for any offence thereunder."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_38__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_38__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_38__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to subsection (2), the Minister may, whenever it appears to him necessary or expedient so to do whether for the purpose of removing difficulties or in consequence of the passing of this Act, by order make such modifications to any provision in any law relating to offshore financial services as he may think fit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_38__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall not exercise the power conferred under subsection (1) after the expiration of two years from the commencement of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_39__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_39__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_39__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_39__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_39__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_39__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All regulations, instructions, directions, orders or decisions made by the Registrar or the Bank, as the case may be, under any law relating to offshore financial services existing before the commencement of this Act shall be deemed to have been made by the Authority unless amended or revoked or until the date upon which they expire."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_39__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All regulations, instructions, directions, orders or decisions made by the Minister responsible for the Offshore Companies Act 1990 and the Labuan Trust Companies Act 1990 under those Acts existing before the commencement of this Act shall be deemed to have been made by the Minister charged with the responsibility for finance unless amended or revoked or until the date upon which they expire."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_39__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All applications, approvals or decisions pending before the Registrar or the Bank, as the case may be, under any law relating to offshore financial services shall, upon the commencement of this Act, be dealt with by the Authority."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_39__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All applications, approvals or decisions pending before the Minister responsible for the Offshore Companies Act 1990 and the Labuan Trust Companies Act 1990 under those Acts shall, upon the commencement of this Act, be dealt with by the Minister charged with the responsibility for finance."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_39__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_IV__cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All instruments, certificates or documents lodged with the Registrar or the Bank, as the case may be, under any law relating to offshore financial services before the commencement of this Act shall, upon the commencement of this Act, be deemed to be lodged with the Authority."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Labuan Offshore Financial"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Services Authority Act 1995 and shall come into force on such date as the Minister may, by notification in the Gazette, appoint; and the Minister may appoint different dates for the coming into force of different provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_I__cl_2__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_I__cl_2__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_I__cl_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_I__cl_2__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_I__cl_2__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_I__cl_2__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires— \"accounting officer\" includes every officer and servant who is charged with the duty of collecting, receiving, or accounting for, or who in fact collects, receives or accounts for, any money of the Fund, or who is charged with the receipt, custody or disposal of, or the accounting for, any store and property of the Authority or who in fact receives, holds or disposes of such store and property; 4 BILL \"Authority\" means the Labuan Offshore Financial Services Authority established under section 3; \"Bank\" means the Central Bank of Malaysia established under the Central Bank of Malaysia Act 1958; \"Chairman\" means the Chairman appointed under section 5; \"committee\" means any committee established by the Authority under subsection 15(1); \"dependant\", in relation to an officer or servant of the Authority, means the spouse, parent, children, including adopted children or step-children, or such other person as may be specified by the Authority with the consent of the Minister from time to time by notice published in the Gazette; \"Fund\" means the Fund established under subsection 29(1); \"Labuan\" means the Kawasan Lembaga Pembangunan Labuan defined in section 2 of the Lembaga Pembangunan Labuan Act 1992; \"Minister\" means the Minister for the time being charged with the responsibility for finance; \"offshore financial institution\" means any person providing offshore financial services; \"offshore financial services\" means any service provided by-"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_I__cl_2__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_I__cl_2__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an offshore company or foreign offshore company registered under the Offshore Companies Act 1990;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_I__cl_2__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_I__cl_2__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any domestic company or foreign company registered under the Labuan Trust Companies Act 1990; LABUAN OFFSHORE FINANCIAL SERVICES AUTHORITY"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_I__cl_2__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_I__cl_2__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any person licensed or registered, as the case may be, under the Offshore Banking Act 1990, the Offshore Insurance Act 1990, or any other law relating to offshore financial services; \"Registrar\" means the Registrar of Companies under the Companies Act 1965, and includes any Regional Registrar, Deputy Registrar or Assistant Registrar of Companies."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_I__cl_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/39/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The expressions \"domestic company\", \"foreign company\", \"foreign offshore company\" and \"offshore company\" have the meanings respectively assigned to them in the Offshore Companies Act 1990."
+      }
+    }
+  ]
+}

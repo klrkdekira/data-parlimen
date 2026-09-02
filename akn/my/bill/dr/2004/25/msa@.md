@@ -24,7 +24,19 @@
 
 ## PERBADANAN
 
-6. Penubuhan Perbadanan 7. Meterai Perbadanan 8. Fungsi Perbadanan 9. Kuasa Perbadanan 10. Kuasa untuk melabur 11. Kuasa tambahan Perbadanan 12. Jaminan dan tanggung rugi 13. Perbelanjaan dan penyediaan anggaran 14. Peruntukan pinjaman latihan kemahiran dalam anggaran tahunan 15. Akaun dan laporan
+6. Penubuhan Perbadanan 7. Meterai Perbadanan 8. Fungsi Perbadanan 9. Kuasa Perbadanan
+
+10. Kuasa untuk melabur
+
+11. Kuasa tambahan Perbadanan
+
+12. Jaminan dan tanggung rugi
+
+13. Perbelanjaan dan penyediaan anggaran
+
+14. Peruntukan pinjaman latihan kemahiran dalam anggaran tahunan
+
+15. Akaun dan laporan
 
 <!-- page 2 -->
 
@@ -88,25 +100,61 @@
 
 <!-- page 3 -->
 
-Tabung Pembangunan Kemahiran 3 38. Orang ramai diberitahu mengenai pembatalan pendaftaran penyedia latihan kemahiran 39. Kuasa untuk mengenakan syarat 40. Daftar 41. Rayuan 42. Kuasa Menteri ke atas rayuan 43. Keputusan Menteri ke atas rayuan
+Tabung Pembangunan Kemahiran 3
+
+38. Orang ramai diberitahu mengenai pembatalan pendaftaran penyedia latihan kemahiran
+
+39. Kuasa untuk mengenakan syarat
+
+40. Daftar
+
+41. Rayuan
+
+42. Kuasa Menteri ke atas rayuan
+
+43. Keputusan Menteri ke atas rayuan
 
 ## BAHAGIAN VII
 
 ## PROGRAM LATIHAN YANG DILULUSKAN
 
-44. Program latihan yang diluluskan 45. Permohonan untuk kelulusan program latihan 46. Kuasa untuk menggantung atau membatalkan program latihan yang diluluskan
+44. Program latihan yang diluluskan
+
+45. Permohonan untuk kelulusan program latihan
+
+46. Kuasa untuk menggantung atau membatalkan program latihan yang diluluskan
 
 ## BAHAGIAN VIII
 
 ## PERMOHONAN PINJAMAN LATIHAN KEMAHIRAN
 
-47. Pendaftaran permohonan pinjaman latihan kemahiran 48. Kuasa untuk meluluskan atau menolak permohonan pinjaman latihan kemahiran 49. Penolakan permohonan pinjaman latihan kemahiran 50. Pertukaran penyedia latihan atau program 51. Pembayaran pinjaman latihan kemahiran 52. Perjanjian pinjaman latihan kemahiran 53. Pembatalan kelulusan pinjaman latihan kemahiran 54. Kewajipan untuk menyenggara rekod pinjaman latihan kemahiran
+47. Pendaftaran permohonan pinjaman latihan kemahiran
+
+48. Kuasa untuk meluluskan atau menolak permohonan pinjaman latihan kemahiran
+
+49. Penolakan permohonan pinjaman latihan kemahiran
+
+50. Pertukaran penyedia latihan atau program
+
+51. Pembayaran pinjaman latihan kemahiran
+
+52. Perjanjian pinjaman latihan kemahiran
+
+53. Pembatalan kelulusan pinjaman latihan kemahiran
+
+54. Kewajipan untuk menyenggara rekod pinjaman latihan kemahiran
 
 ## BAHAGIAN IX
 
 ## PEMBAYARAN BALIK PINJAMAN LATIHAN KEMAHIRAN
 
-55. Perbadanan hendaklah bertanggungjawab bagi mendapatkan dan memungut pembayaran balik pinjaman latihan kemahiran 56. Pemulangan balik amaun pinjaman latihan kemahiran 57. Tanggungjawab penerima pinjaman 58. Ejen pemungutan
+55. Perbadanan hendaklah bertanggungjawab bagi mendapatkan dan memungut pembayaran balik pinjaman latihan kemahiran
+
+56. Pemulangan balik amaun pinjaman latihan kemahiran
+
+57. Tanggungjawab penerima pinjaman
+
+58. Ejen pemungutan
 
 <!-- page 4 -->
 
@@ -1938,31 +1986,19 @@ Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan
 
 ## PRELIMINARY
 
-1. Short title and commencement
-
-2. Interpretation
+1. Short title and commencement 2. Interpretation
 
 ## PART II
 
 ## THE FUND
 
-3. Establishment of the Fund
-
-4. Expenditure to be charged on the Fund
-
-5. Reserve Fund
+3. Establishment of the Fund 4. Expenditure to be charged on the Fund 5. Reserve Fund
 
 ## PART III
 
 ## THE CORPORATION
 
-6. Establishment of the Corporation
-
-7. Common seal of the Corporation
-
-8. Functions of the Corporation
-
-9. Powers of the Corporation
+6. Establishment of the Corporation 7. Common seal of the Corporation 8. Functions of the Corporation 9. Powers of the Corporation
 
 10. Power to invest
 
@@ -1986,19 +2022,67 @@ Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan
 
 <!-- page 63 -->
 
-2 Bill 18. Deputy Chairman and Secretary 19. Alternate member 20. Allowances or reimbursements 21. Committees 22. Delegation of functions 23. Power of Minister to give directions 24. Disclosure of interest
+2 Bill
+
+18. Deputy Chairman and Secretary
+
+19. Alternate member
+
+20. Allowances or reimbursements
+
+21. Committees
+
+22. Delegation of functions
+
+23. Power of Minister to give directions
+
+24. Disclosure of interest
 
 ## PART V
 
 ## OFFICERS AND SERVANTS
 
-25. Chief Executive 26. Appointment of Deputy Chief Executive 27. Appointment of officers and servants of the Corporation 28. Regulations with respect to conditions of service 29. Payment of retirement benefits, gratuities and other allowances 30. Prior approval of the Treasury, the Public Services Department, etc. to be obtained 31. Appointment of agents, consultants, etc. 32. Corporation may adopt regulations, etc.
+25. Chief Executive
+
+26. Appointment of Deputy Chief Executive
+
+27. Appointment of officers and servants of the Corporation
+
+28. Regulations with respect to conditions of service
+
+29. Payment of retirement benefits, gratuities and other allowances
+
+30. Prior approval of the Treasury, the Public Services Department, etc. to be obtained
+
+31. Appointment of agents, consultants, etc.
+
+32. Corporation may adopt regulations, etc.
 
 ## PART VI
 
 ## REGISTRATION OF SKILLS TRAINING PROVIDERS
 
-33. Registration of skills training provider 34. Power to approve or refuse application for registration 35. Refusal of application for registration 36. Certificate of registration 37. Power to suspend or revoke registration of skills training provider 38. Public to be informed of the revocation of the registration of skills training provider 39. Powers to impose conditions 40. Register 41. Appeal 42. Power of Minister on appeals 43. Decision of Minister on appeals
+33. Registration of skills training provider
+
+34. Power to approve or refuse application for registration
+
+35. Refusal of application for registration
+
+36. Certificate of registration
+
+37. Power to suspend or revoke registration of skills training provider
+
+38. Public to be informed of the revocation of the registration of skills training provider
+
+39. Powers to impose conditions
+
+40. Register
+
+41. Appeal
+
+42. Power of Minister on appeals
+
+43. Decision of Minister on appeals
 
 <!-- page 64 -->
 
@@ -2070,19 +2154,63 @@ Bill
 
 ## VERIFICATION AND INSPECTION OF SKILLS TRAINING PROVIDER
 
-66. Inspector 67. Inspection to be made from time to time 68. Power to inspect skills training provider 69. Seizure of documents, etc. 70. Authority card 71. No entitlement as to costs on proceedings, damages or other relief, etc.
+66. Inspector
+
+67. Inspection to be made from time to time
+
+68. Power to inspect skills training provider
+
+69. Seizure of documents, etc.
+
+70. Authority card
+
+71. No entitlement as to costs on proceedings, damages or other relief, etc.
 
 ## PART XI
 
 ## OFFENCES AND PENALTIES
 
-72. Prohibition on advertisement, etc. 73. Penalty for contravening conditions 74. Offences and penalties relating to applications made under the Act 75. Offences and penalties relating to certificate of registration of skills training provider 76. Penalty relating to inspection, enforcement and investigation 77. Offences relating to repayment by employer and self-employed person 78. General penalty 79. Penalty in the case of a continuing offence 80. Offences by bodies Corporate, etc. 81. Responsibility of skills training provider for offences committed by members of the board of directors, officers, employees or agents 82. Compounding of offences 83. Institution of prosecution 84. Presumption
+72. Prohibition on advertisement, etc.
+
+73. Penalty for contravening conditions
+
+74. Offences and penalties relating to applications made under the Act
+
+75. Offences and penalties relating to certificate of registration of skills training provider
+
+76. Penalty relating to inspection, enforcement and investigation
+
+77. Offences relating to repayment by employer and self-employed person
+
+78. General penalty
+
+79. Penalty in the case of a continuing offence
+
+80. Offences by bodies Corporate, etc.
+
+81. Responsibility of skills training provider for offences committed by members of the board of directors, officers, employees or agents
+
+82. Compounding of offences
+
+83. Institution of prosecution
+
+84. Presumption
 
 ## PART XII
 
 ## MISCELLANEOUS
 
-85. Power of Minister to exempt 86. Protection from personal liability 87. Public Authorities Protection Act 1948 88. Protection against suit and legal proceedings 89. Public servants 90. Statutory Bodies (Accounts and Annual Reports) Act 1980
+85. Power of Minister to exempt
+
+86. Protection from personal liability
+
+87. Public Authorities Protection Act 1948
+
+88. Protection against suit and legal proceedings
+
+89. Public servants
+
+90. Statutory Bodies (Accounts and Annual Reports) Act 1980
 
 <!-- page 66 -->
 
@@ -3488,11 +3616,7 @@ Skills Development Fund
 
 (c) if his conduct, whether in connection with his duties as, Deputy Chairman or member of the Board or otherwise, has been such as to bring discredit to the Board;
 
-(d) if he becomes a bankrupt;
-
-(e) if he is of unsound mind or is otherwise incapable of discharging his duties; or
-
-(f) in the case of the Chairman, if he absents himself from three consecutive meetings of the Board without reasonable cause or permission in writing from the Minister;
+(d) if he becomes a bankrupt; (e) if he is of unsound mind or is otherwise incapable of discharging his duties; or (f) in the case of the Chairman, if he absents himself from three consecutive meetings of the Board without reasonable cause or permission in writing from the Minister;
 
 (2) The provisions of subparagraph (1) other than paragraph (f) shall apply mutatis mutandis to an alternate member.
 

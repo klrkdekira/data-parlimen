@@ -44,21 +44,31 @@ definition of "judge" by inserting after the words "High Court" the words ", the
 
 <!-- page 2 -->
 
-2
+<!-- marginal: 2 -->
 
 ## BILL
 
 (b) in subparagraph (b)(ii) by substituting for the word "two" and the words "seven thousand five hundred" the word "three" and the words "twelve thousand" respectively.
 
-New section
+<!-- marginal: New section -->
 
 5. The principal Act is amended by inserting after section
 
-16B. 16A the following section: "Registra- 16s. Any person who has qualified for legal tion fee. aid under section 15, 16 or 16A shall be required to pay to the Director a sum of two ringgit as registration fee.".
+16B. 16A the following section:
 
-Amendment
+<!-- marginal: "Registra- -->
 
-6. Subsection 17(1) of the principal Act is amended— of section 17.
+16s. Any person who has qualified for legal
+
+<!-- marginal: tion fee. -->
+
+aid under section 15, 16 or 16A shall be required to pay to the Director a sum of two ringgit as registration fee.".
+
+<!-- marginal: Amendment -->
+
+6. Subsection 17(1) of the principal Act is amended—
+
+<!-- marginal: of section 17. -->
 
 (a) in the definition of "disposable capital"— (i) by substituting for the word "one" appearing in paragraph (v) the word "two"; and (ii) by substituting for the word "one" appearing in paragraph (vi) the word "three"; and
 

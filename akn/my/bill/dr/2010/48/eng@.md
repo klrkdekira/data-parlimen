@@ -566,4 +566,4 @@ Section 12G provides for the power of the Minister to make regulations.
 
 This Bill will not involve the Government in any extra financial expenditure.
 
-[PN(U2)2728]
+<!-- marginal: [PN(U2)2728] -->

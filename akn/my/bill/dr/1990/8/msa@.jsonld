@@ -40,9 +40,13 @@
       "@type": "akn:clause",
       "eli:number": "1",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/8/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Pilihanraya"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ini bolehlah dinamakan Akta Pilihanraya ringkas (Pindaan) 1990 dan hendaklah mula berkuatkuasa pada dan mula ber- kuatkuasa. tarikh yang ditetapkan oleh Yang di-Pertuan Agong melalui pemberitahuan dalam Warta. Pindaan"
+        "@value": "(Pindaan) 1990 dan hendaklah mula berkuatkuasa pada tarikh yang ditetapkan oleh Yang di-Pertuan Agong melalui pemberitahuan dalam Warta."
       }
     },
     {
@@ -50,9 +54,13 @@
       "@type": "akn:clause",
       "eli:number": "2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/8/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 2 Akta Pilihanraya 1958, yang disebut"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Seksyen 2 Akta Pilihanraya 1958, yang disebut seksyen 2. \"Akta ibu\" dalam Akta ini, adalah dipinda dengan Akta 19. menggantikan takrif kttempat mengundi\" dengan takrif baru yang berikut: ' \"tempat mengundi\" ertinya mana-mana bilik, binaan, kereta atau vesel, di tempat yang ditetapkan di bawah seksyen 7, yang dikhaskan dan dilengkapkan bagi maksud mengundi dan pengiraan undi.'. Pindaan"
+        "@value": "\"Akta ibu\" dalam Akta ini, adalah dipinda dengan menggantikan takrif kttempat mengundi\" dengan takrif baru yang berikut: ' \"tempat mengundi\" ertinya mana-mana bilik, binaan, kereta atau vesel, di tempat yang ditetapkan di bawah seksyen 7, yang dikhaskan dan dilengkapkan bagi maksud mengundi dan pengiraan undi.'."
       }
     },
     {
@@ -60,9 +68,13 @@
       "@type": "akn:clause",
       "eli:number": "3",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/8/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 16 Akta ibu adalah dipinda dengan"
+      },
       "schema:text": {
         "@language": "ms",
-        "@value": "Seksyen 16 Akta ibu adalah dipinda dengan seksyen 16. memasukkan selepas perkataan \"pengums\" dalam perenggan (j) subseksyen (2) perkataan-perkataan \"atau ketua tempat mengundi\". Pindaan am,"
+        "@value": "memasukkan selepas perkataan \"pengums\" dalam perenggan (j) subseksyen (2) perkataan-perkataan \"atau ketua tempat mengundi\"."
       }
     },
     {

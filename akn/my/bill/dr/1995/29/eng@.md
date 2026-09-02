@@ -82,13 +82,25 @@ incorporated by the Minister of Finance (Incorporation) Act 1957;
 
 "Minister" means the Minister for the time being charged with the responsibility for urban development;
 
-"Perbadanan Pembangunan Bandar" means the Perbadanan Pembangunan Bandar established under the Act 46. Perbadanan Pembangunan Bandar Act 1971;
+"Perbadanan Pembangunan Bandar" means the Perbadanan Pembangunan Bandar established under the
+
+<!-- marginal: Act 46. -->
+
+Perbadanan Pembangunan Bandar Act 1971;
 
 "property" includes all property, movable or immovable, and all estates, interests, easements and rights, whether equitable or legal in, to or out of property, choses-in- action, money and goodwill;
 
-"rights" means all rights, powers, privileges and immunities, whether actual, contingent or prospective except the right of the Perbadanan Pembangunan Bandar under section 18 of the Perbadanan Pembangunan Bandar Act 46 Act 1971;
+"rights" means all rights, powers, privileges and immunities, whether actual, contingent or prospective except the right of the Perbadanan Pembangunan Bandar under section 18 of the Perbadanan Pembangunan Bandar
 
-"successor company" means the company limited by Act 125. shares incorporated under the Companies Act 1965, and named by the Minister in the order under subsection 3(1), to which property, rights and liabilities of the Perbadanan Pembangunan Bandar are transferred and vested in under section 3;
+<!-- marginal: Act 46 -->
+
+Act 1971;
+
+"successor company" means the company limited by
+
+<!-- marginal: Act 125. -->
+
+shares incorporated under the Companies Act 1965, and named by the Minister in the order under subsection 3(1), to which property, rights and liabilities of the Perbadanan Pembangunan Bandar are transferred and vested in under section 3;
 
 "vested", in relation to property, includes rights to property which are future or contingent and rights in reversion and remainder;
 
@@ -122,11 +134,33 @@ incorporated by the Minister of Finance (Incorporation) Act 1957;
 
 (6) In the case of rights and liabilities arising under any loans which vest in the successor company on the vesting date, the successor company may enter into such arrangements or agreements over such rights and liabilities with the Government or any third party.
 
-(7) On and after the vesting date, any agreement relating to any property, rights and liabilities transferred to and vested in the successor company under subsection (1) to which the Perbadanan Pembangunan Bandar was a party immediately before the vesting date, whether in writing or not, and whether or not of such a nature that rights and liabilities thereunder could be assigned by the Perbadanan Pembangunan Bandar shall have effect as if the company had been a party to the agreement.
+(7) On and after the vesting date, any agreement relating to any property, rights and liabilities transferred to and vested in the successor company under subsection
 
-(8) For the avoidance of doubt, the transfer to and vesting of rights in the successor company under subsection (1) shall not include the transfer and vesting of the right of the Perbadanan Pembangunan Bandar under section 18 of the Perbadanan Pembangunan Bandar Act 1971. Act 46
+(1) to which the Perbadanan Pembangunan Bandar was a party immediately before the vesting date, whether in writing or not, and whether or not of such a nature that rights and liabilities thereunder could be assigned by the Perbadanan Pembangunan Bandar shall have effect as if the company had been a party to the agreement.
 
-4. (1) As a consequence of the vesting in the successor Initial Government company of the property, rights and liabilities under section holding in 3, the successor company shall issue such securities of the successor company. the company as the Minister of Finance may, after consultation with the Minister, from time to time direct, to the Corporation.
+(8) For the avoidance of doubt, the transfer to and vesting of rights in the successor company under subsection
+
+(1) shall not include the transfer and vesting of the right of the Perbadanan Pembangunan Bandar under section 18 of the Perbadanan Pembangunan Bandar Act 1971.
+
+<!-- marginal: Act 46 -->
+
+4. (1) As a consequence of the vesting in the successor
+
+<!-- marginal: Initial -->
+
+<!-- marginal: Government -->
+
+company of the property, rights and liabilities under section
+
+<!-- marginal: holding in -->
+
+3, the successor company shall issue such securities of
+
+<!-- marginal: the successor -->
+
+<!-- marginal: company. -->
+
+the company as the Minister of Finance may, after consultation with the Minister, from time to time direct, to the Corporation.
 
 (2) Securities required to be issued in pursuance of this section shall —
 
@@ -134,7 +168,11 @@ incorporated by the Minister of Finance (Incorporation) Act 1957;
 
 (b) be of such nominal value as the Minister of Finance may direct; and
 
-(c) be issued as fully paid and treated for the purposes of the Companies Act 1965 as if they Act 125. had been paid up by virtue of the payment to the successor company of their nominal value.
+(c) be issued as fully paid and treated for the purposes of the Companies Act 1965 as if they
+
+<!-- marginal: Act 125. -->
+
+had been paid up by virtue of the payment to the successor company of their nominal value.
 
 <!-- page 7 -->
 
@@ -192,15 +230,49 @@ subparagraph 8(3)(a)(iv) of the Financial Procedure Act 1957.
 
 (b) is certified by the Treasury as having been effected by the issue of shares subscribed for by the Minister of Finance under paragraph 1(a).
 
-6. (1) The Minister of Finance may, after consultation Exercise of the Minister with the Minister, appoint such persons as he thinks fit of Finance's to act as his nominees for the purposes of section 4 or functions through 5 and — nominees
+6. (1) The Minister of Finance may, after consultation
+
+<!-- marginal: Exercise of -->
+
+<!-- marginal: the Minister -->
+
+with the Minister, appoint such persons as he thinks fit
+
+<!-- marginal: of Finance's -->
+
+to act as his nominees for the purposes of section 4 or
+
+<!-- marginal: functions -->
+
+<!-- marginal: through -->
+
+5 and —
+
+<!-- marginal: nominees -->
 
 (a) securities of the successor company may be assigned under section 4 to any nominee of the Minister of Finance appointed for the purposes of that section or to any person entitled to require the issue of the securities following their initial allotment to any such nominee; and
 
 (b) any such nominee appointed for the purposes of section 5 may acquire securities or rights in accordance with that section.
 
-(2) Any person holding any securities or rights as a nominee of the Minister of Finance by virtue of subsection (1) shall hold and deal with them on such terms and in such manner as the Minister of Finance may direct.
+(2) Any person holding any securities or rights as a nominee of the Minister of Finance by virtue of subsection
 
-7. (1) If the Minister of Finance, after consultation with Financial structure of the Minister, so directs, at any time before the successor the successor company ceases to be wholly owned by the Government, company. such sum as may be specified in the direction but not exceeding the accumulated realised profits of the Perbadanan Pembangunan Bandar, shall be carried by the company to a reserve, which in this section is referred to as "the statutory reserve".
+(1) shall hold and deal with them on such terms and in such manner as the Minister of Finance may direct.
+
+7. (1) If the Minister of Finance, after consultation with
+
+<!-- marginal: Financial -->
+
+<!-- marginal: structure of -->
+
+the Minister, so directs, at any time before the successor
+
+<!-- marginal: the successor -->
+
+company ceases to be wholly owned by the Government,
+
+<!-- marginal: company. -->
+
+such sum as may be specified in the direction but not exceeding the accumulated realised profits of the Perbadanan Pembangunan Bandar, shall be carried by the company to a reserve, which in this section is referred to as "the statutory reserve".
 
 (2) The statutory reserve may only be applied by the successor company in paying up unissued shares of the company to be allotted to members of the successor company as fully-paid bonus shares.
 
@@ -228,7 +300,11 @@ subparagraph 8(3)(a)(iv) of the Financial Procedure Act 1957.
 
 ## PROVISIONS RELATING TO STAFF
 
-8. (1) The successor company shall accept into its Staff. employment on a date to be appointed by the Minister by notification in the Gazette every person who immediately before that date is a member of the staff of the Perbadanan Pembangunan Bandar and who was given an option by the Perbadanan Pembangunan Bandar and has opted to serve as an employee of the successor company.
+8. (1) The successor company shall accept into its
+
+<!-- marginal: Staff. -->
+
+employment on a date to be appointed by the Minister by notification in the Gazette every person who immediately before that date is a member of the staff of the Perbadanan Pembangunan Bandar and who was given an option by the Perbadanan Pembangunan Bandar and has opted to serve as an employee of the successor company.
 
 (2) Every such person who opts under subsection (1) to serve as an employee of the successor company shall be employed by the successor company on terms and conditions of service not less favourable than the terms and conditions of service to which he was entitled to immediately before the appointed date.
 

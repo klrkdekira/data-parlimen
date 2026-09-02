@@ -52,7 +52,11 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (m) the words "; and"; and
 
-(c) by inserting after paragraph (m) the following paragraph:
+(c) by inserting after paragraph (m)
+
+<!-- marginal: the following -->
+
+paragraph:
 
 "(n) an amount equal to the expenditure incurred by a person in the relevant period on the provision of practical training in Malaysia, in relation to his business, to an individual who is—
 
@@ -180,17 +184,9 @@ For every ringgit of the next 25,000 12 per cent For every ringgit of the next 2
 
 "(1A) Where the purchased building referred to in subparagraph (1) is constructed prior to 1 January 2000 and that building was first used after its purchase as an industrial building-
 
-(a) in the year of assessment 2000, all annual allowances referred to in sub- subparagraph ( l )( a) shall be allowances which could have been claimed or made for the year of assessment following the year of assessment in which
+(a) in the year of assessment 2000, all annual allowances referred to in sub- subparagraph ( l )( a) shall be allowances which could have been claimed or made for the year of assessment following the year of assessment in which the expenditure on the construction of that building was incurred up to and including the year of assessment 2000 (preceding year basis); or
 
-<!-- marginal: the -->
-
-expenditure on the construction of that building was incurred up to and including the year of assessment 2000 (preceding year basis); or
-
-(b) in the year of assessment 2001 or any subsequent year of assessment, all annual allowances referred to in sub- subparagraph (1)(a) shall be allowances which could have been claimed or made for the year of assessment following the year of assessment in which
-
-<!-- marginal: the -->
-
-expenditure on the construction of that building was incurred up to and including the year of assessment immediately preceding, the year of assessment 2001 or any subsequent year of assessment in which that building was first used after its purchase as an industrial building, and for the avoidance of doubt, the allowance for the year of assessment 2000 shall consist of the allowances for the year of assessment 2000 (preceding year basis) and year of assessment 2000 (current year basis).";
+(b) in the year of assessment 2001 or any subsequent year of assessment, all annual allowances referred to in sub- subparagraph (1)(a) shall be allowances which could have been claimed or made for the year of assessment following the year of assessment in which the expenditure on the construction of that building was incurred up to and including the year of assessment immediately preceding, the year of assessment 2001 or any subsequent year of assessment in which that building was first used after its purchase as an industrial building, and for the avoidance of doubt, the allowance for the year of assessment 2000 shall consist of the allowances for the year of assessment 2000 (preceding year basis) and year of assessment 2000 (current year basis).";
 
 (d) in paragraph 12, by inserting after the word "construction" the words "or purchase";
 
@@ -284,7 +280,7 @@ III
 
 ### Commencement of amendments to the Petroleum (Income Tax)
 
-### Act 1967
+<!-- marginal: Act 1967 -->
 
 11. Sections 12,13,14and 15 shall have effect for year of assessment 2002 and subsequent years of assessment.
 
@@ -374,9 +370,13 @@ IV
 
 18. The principal Act is amended by inserting after section 38 the following section:
 
-Notice of
+<!-- marginal: Notice of -->
 
-38A. (1) Any person who is dissatisfied with an assessment objection. of the Collector under section 36 may, by written notice (referred to in this Act as "notice of objection"), object to the assessment and apply to the Collector to review the assessment.
+38A. (1) Any person who is dissatisfied with an assessment
+
+<!-- marginal: objection. -->
+
+of the Collector under section 36 may, by written notice (referred to in this Act as "notice of objection"), object to the assessment and apply to the Collector to review the assessment.
 
 (2) Every notice of objection shall state the grounds of objection to the Collector's assessment and shall be made within thirty days after the date of the assessment or such further period as the Collector may allow in any particular case.
 

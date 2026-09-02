@@ -724,7 +724,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/15/msa@/~cl_24",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (2)— “(ca) the entry is an entry of presumed death which has been made upon receiving an order from a Court; or”; dan"
+        "@value": "dalam subseksyen (2)—"
       }
     },
     {
@@ -744,7 +744,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/15/msa@/~cl_24__para_c",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perenggan (c) perenggan yang berikut:"
+        "@value": "dengan memasukkan selepas perenggan (c) perenggan yang berikut: “(ca) the entry is an entry of presumed death which has been made upon receiving an order from a Court; or”; dan"
       }
     },
     {
@@ -997,7 +997,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/15/msa@/~cl_29",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (2)— “(c) require any document to be produced which he may consider reasonably necessary.”;"
+        "@value": "dalam subseksyen (2)—"
       }
     },
     {
@@ -1027,7 +1027,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/15/msa@/~cl_29__para_b",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perenggan (b) perenggan yang berikut:"
+        "@value": "dengan memasukkan selepas perenggan (b) perenggan yang berikut: “(c) require any document to be produced which he may consider reasonably necessary.”;"
       }
     },
     {

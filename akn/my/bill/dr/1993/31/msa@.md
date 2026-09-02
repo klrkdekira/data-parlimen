@@ -14,11 +14,7 @@
 
 ## PERMULAAN
 
-Pasal
-
-1. Tajuk ringkas dan mula berkuatkuasa.
-
-2. Tafsiran.
+Pasal 1. Tajuk ringkas dan mula berkuatkuasa. 2. Tafsiran.
 
 ## BAHAGIAN
 
@@ -26,19 +22,7 @@ II
 
 ## LIABILITI SIVIL BAGI PENCEMARAN MINYAK
 
-3. Liabiliti bagi pencemaran minyak.
-
-4. Pengecualian daripada liabiliti di bawah seksyen 3.
-
-5. Had liabiliti bagi pencemaran minyak.
-
-6. Pembatasan liabiliti di bawah seksyen 3.
-
-7. Tindakan pembatasan.
-
-8. Had ke atas penguatkuasaan tuntutan selepas penubuhan kumpulan wang pembatasan.
-
-9. Kumpulan wang pembatasan di luar Malaysia.
+3. Liabiliti bagi pencemaran minyak. 4. Pengecualian daripada liabiliti di bawah seksyen 3. 5. Had liabiliti bagi pencemaran minyak. 6. Pembatasan liabiliti di bawah seksyen 3. 7. Tindakan pembatasan. 8. Had ke atas penguatkuasaan tuntutan selepas penubuhan kumpulan wang pembatasan. 9. Kumpulan wang pembatasan di luar Malaysia.
 
 10. Penghapusan tuntutan.
 
@@ -64,7 +48,13 @@ III
 
 <!-- page 2 -->
 
-17. Caruman oleh orang yang menerima minyak. 18. Kuasa untuk mendapatkan maklumat. 19. Liabiliti Kumpulan Wang. 20. Penanggungan rugi jika kerosakan disebabkan oleh kapal yang didaftarkan di negara Konvensyen Kumpulan Wang. 21. Penghapusan tuntutan. 22. Subrogasi dan hak pertolongan.
+17. Caruman oleh orang yang menerima minyak. 18. Kuasa untuk mendapatkan maklumat. 19. Liabiliti Kumpulan Wang.
+
+20. Penanggungan rugi jika kerosakan disebabkan oleh kapal yang didaftarkan di negara Konvensyen Kumpulan Wang.
+
+21. Penghapusan tuntutan.
+
+22. Subrogasi dan hak pertolongan.
 
 ## BAHAGIAN
 
@@ -72,19 +62,27 @@ IV
 
 ## BIDANG KUASA DAN KESAN PENGHAKIMAN
 
-23. Bidang kuasa dan kesan penghakiman. 24. Penguatkuasaan penghakiman.
+23. Bidang kuasa dan kesan penghakiman.
+
+24. Penguatkuasaan penghakiman.
 
 ## BAHAGIAN V
 
 ## PENGUATKUASAAN
 
-25. Pengarah Laut hendaklah menjalankan kuasa dan tugas di bawah Akta ini atau peraturan-peraturan yang dibuat di bawahnya. 26. Kuasa menangkap, menahan dan mendakwa. 27. Kuasa untuk menaiki dan menggeledah kapal.
+25. Pengarah Laut hendaklah menjalankan kuasa dan tugas di bawah Akta ini atau peraturan-peraturan yang dibuat di bawahnya.
+
+26. Kuasa menangkap, menahan dan mendakwa.
+
+27. Kuasa untuk menaiki dan menggeledah kapal.
 
 ## BAHAGIAN VI
 
 ## PELBAGAI
 
-28. Kesalahan oleh pertubuhan perbadanan. 29. Kuasa untuk membuat peraturan-peraturan.
+28. Kesalahan oleh pertubuhan perbadanan.
+
+29. Kuasa untuk membuat peraturan-peraturan.
 
 ## JADUAL-JADUAL.
 
@@ -138,7 +136,11 @@ Saudagar (Pencemaran Minyak) 1993.
 
 "minyak", kecuali dalam Bahagian III, ertinya apa- apa minyak tegar seperti minyak mentah, minyak bahan api, minyak disel berat, minyak pelincir dan minyak ikan paus, sama ada dibawa di atas kapal sebagai kargo atau dalam bunker kapal sedemikian;
 
-"nakhoda" mempunyai erti yang sama yang diberikan Ord. 70/1952. kepadanya di bawah Ordinan Perkapalan Saudagar 1952;
+"nakhoda" mempunyai erti yang sama yang diberikan
+
+<!-- marginal: Ord. 70/1952. -->
+
+kepadanya di bawah Ordinan Perkapalan Saudagar 1952;
 
 "negara Konvensyen Liabiliti" ertinya sesuatu negara yang berkenaan dengannya Konvensyen Liabiliti berkuatkuasa;
 
@@ -188,7 +190,17 @@ II
 
 ## LIABILITI SIVIL BAGI PENCEMARAN MINYAK
 
-Liabiliti bagi 3. (1) Jika, akibat daripada sesuatu insiden yang pencemaran berlaku, apa-apa minyak dilepaskan atau bocor dari- minyak. pada kapal, pemunya kapal itu hendaklah, kecuali sebagaimana diperuntukkan selainnya oleh Akta ini, bertanggungan bagi apa-apa kerosakan pencemaran yang disebabkan oleh pelepasan atau kebocoran itu di mana-mana kawasan di Malaysia.
+<!-- marginal: Liabiliti bagi -->
+
+3. (1) Jika, akibat daripada sesuatu insiden yang
+
+<!-- marginal: pencemaran -->
+
+berlaku, apa-apa minyak dilepaskan atau bocor dari-
+
+<!-- marginal: minyak. -->
+
+pada kapal, pemunya kapal itu hendaklah, kecuali sebagaimana diperuntukkan selainnya oleh Akta ini, bertanggungan bagi apa-apa kerosakan pencemaran yang disebabkan oleh pelepasan atau kebocoran itu di mana-mana kawasan di Malaysia.
 
 (2) Selanjutnya, pemunya kapal itu hendaklah bertanggungan bagi apa-apa kerosakan pencemaran yang disebabkan berlaku di mana-mana kawasan di mana-mana negara Korwensyen Liabiliti lain akibat daripada apa-apa insiden yang dinyatakan dalam subseksyen (1).
 
@@ -234,7 +246,11 @@ apa-apa minyak dilepaskan atau bocor daripada kapal,
 
 <!-- marginal: minyak. -->
 
-maka, sama ada atau tidak pemunya kapal itu menanggung liabiliti di bawah seksyen 3—
+maka, sama ada atau tidak pemunya kapal
+
+<!-- marginal: itu -->
+
+menanggung liabiliti di bawah seksyen 3—
 
 (a) dia tidaklah bertanggungan melainkan di bawah tersebut bagi apa-apa kerosakan sedemikian yang disebutkan dalam seksyen itu; dan
 
@@ -242,9 +258,19 @@ maka, sama ada atau tidak pemunya kapal itu menanggung liabiliti di bawah seksye
 
 (b) tiada pengkhidmat atau ejen pemunya kapal itu adalah bertanggungan bagi apa-apa kerosakan sedemikian.
 
-Pembatasan
+<!-- marginal: Pembatasan -->
 
-6. (1) Jika pemunya sesuatu kapal menanggung liabiliti di liabiliti di bawah seksyen 3 berkenaan dengan mana- bawah seksyen 3. mana satu insiden—
+6. (1) Jika pemunya sesuatu kapal menanggung
+
+<!-- marginal: liabiliti di -->
+
+liabiliti di bawah seksyen 3 berkenaan dengan mana-
+
+<!-- marginal: bawah -->
+
+<!-- marginal: seksyen 3. -->
+
+mana satu insiden—
 
 (a) peruntukan yang berhubungan dengan pembatasan liabiliti pemunya kapal dalam hal kerugian atau kerosakan tertentu di bawah mana-mana undang-undang bertulis yang lain yang berhubungan dengan perkapalan saudagar tidaklah terpakai bagi liabiliti tersebut; tetapi
 
@@ -360,11 +386,29 @@ undang-undang negara Konvensyen Liabiliti yang lain, maka seksyen 8 hendaklah te
 
 berlakunya kerosakan pencemaran itu atau dalam tempoh enam tahun dari tarikh insiden yang menyebabkan kerosakan pencemaran itu, dan jika insiden itu terdiri daripada suatu siri kejadian, tempoh enam tahun itu hendaklah bermula dari tarikh kejadian sedemikian yang pertama.
 
-Insurans
+<!-- marginal: Insurans -->
 
-11. (1) Tertakluk kepada peruntukan-peruntukan Akta wajib ini berhubungan dengan kapal-kapal Kerajaan, seksyen terhadap liabiliti bagi ini hendaklah terpakai bagi mana-mana kapal yang pencemaran. membawa secara pukal kargo yang lebih daripada dua ribu tan minyak.
+11. (1) Tertakluk kepada peruntukan-peruntukan Akta
 
-(2) Mana-mana kapal sedemikian tidak boleh memasuki atau meninggalkan sesuatu pelabuhan di Malaysia atau tiba di atau meninggalkan sesuatu kawasan pepasangan pangkalan di mana-mana kawasan di Malaysia atau, jika kapal itu didaftarkan di Malaysia, ia tidak boleh memasuki atau meninggalkan sesuatu pelabuhan di mana-mana negara lain atau sesuatu pepasangan pangkalan di perairan wilayah mana-mana negara lain, melainkan jika ada berkuatkuasa suatu perakuan yang mematuhi subseksyen (3) dan yang menunjukkan ada berkuatkuasa berkenaan dengan kapal itu suatu kontrak insurans atau apa-apa cagaran kewangan lain yang memenuhi kehendak-kehendak Perkara 7 Konvensyen Liabiliti (perlindungan bagi liabiliti pemunya.)
+<!-- marginal: wajib -->
+
+ini berhubungan dengan kapal-kapal Kerajaan, seksyen
+
+<!-- marginal: terhadap -->
+
+<!-- marginal: liabiliti bagi -->
+
+ini hendaklah terpakai bagi mana-mana kapal yang
+
+<!-- marginal: pencemaran. -->
+
+membawa secara pukal kargo yang lebih daripada dua ribu tan minyak.
+
+(2) Mana-mana kapal sedemikian tidak boleh memasuki atau meninggalkan sesuatu pelabuhan di Malaysia atau tiba di atau meninggalkan sesuatu kawasan pepasangan pangkalan di mana-mana kawasan di Malaysia atau, jika kapal itu didaftarkan di Malaysia, ia tidak boleh memasuki atau meninggalkan sesuatu pelabuhan di mana-mana negara lain atau sesuatu pepasangan pangkalan di perairan wilayah mana-mana negara lain, melainkan jika ada berkuatkuasa suatu perakuan yang mematuhi subseksyen (3) dan yang menunjukkan ada berkuatkuasa berkenaan dengan kapal itu suatu kontrak insurans atau apa-apa cagaran kewangan lain yang memenuhi kehendak-kehendak
+
+## Perkara 7 Konvensyen Liabiliti (perlindungan bagi
+
+liabiliti pemunya.)
 
 (3) Perakuan itu hendaklah—
 
@@ -378,7 +422,7 @@ Insurans
 
 ## PERKAPALAN SAUDAGAR (PENCEMARAN MINYAK)
 
-13
+<!-- marginal: 13 -->
 
 (4) Perakuan yang dikeluarkan di bawah perenggan
 
@@ -394,7 +438,11 @@ Insurans
 
 <!-- marginal: Pengeluaran -->
 
-12. (1) Tertakluk kepada subseksyen (2), jika
+12. (1) Tertakluk kepada subseksyen
+
+<!-- marginal: (2), -->
+
+<!-- marginal: jika -->
 
 <!-- marginal: perakuan -->
 
@@ -418,9 +466,23 @@ dikeluarkan, suatu kontrak insurans yang sah atau cagaran kewangan lain yang mem
 
 (3) Pengarah Laut hendaklah menyenggara suatu rekod mengenai mana-mana perakuan yang dikeluarkan olehnya berkenaan dengan kapal yang didaftarkan di Malaysia dan rekod ini hendaklah boleh didapati untuk pemeriksaan awam.
 
-Hak pihak
+<!-- marginal: Hak pihak -->
 
-13. (1) Jika pemunya sesuatu kapal dikatakan telah ketiga menanggung liabiliti di bawah seksyen 3 semasa terhadap penanggung berkuatkuasanya suatu kontrak insurans atau cagaran insurans. kewangan lain yang dengannya perakuan yang disebutkan dalam seksyen 11 adalah berhubungan, prosiding untuk menguatkuasakan sesuatu tuntutan berkenaan dengan liabiliti itu boleh dimulakan terhadap orang yang mengadakan insurans atau cagaran kewangan lain itu (yang disebut "penanggung insurans" dalam seksyen ini).
+13. (1) Jika pemunya sesuatu kapal dikatakan telah
+
+<!-- marginal: ketiga -->
+
+menanggung liabiliti di bawah seksyen 3 semasa
+
+<!-- marginal: terhadap -->
+
+<!-- marginal: penanggung -->
+
+berkuatkuasanya suatu kontrak insurans atau cagaran
+
+<!-- marginal: insurans. -->
+
+kewangan lain yang dengannya perakuan yang disebutkan dalam seksyen 11 adalah berhubungan, prosiding untuk menguatkuasakan sesuatu tuntutan berkenaan dengan liabiliti itu boleh dimulakan terhadap orang yang mengadakan insurans atau cagaran kewangan lain itu (yang disebut "penanggung insurans" dalam seksyen ini).
 
 (2) Dalam mana-mana prosiding yang dimulakan terhadap penanggung insurans menurut kuasa seksyen ini, penanggung insurans boleh menggunakan pembelaan-pembelaan (selain daripada kebangkrapan atau penggulungan pemunya) yang pemunya itu sendiri berhak menggunakan, dan bukti bahawa kerosakan pencemaran itu adalah akibat daripada salah laku sengaja pemunya itu sendiri hendaklah menjadi suatu pembelaan.
 
@@ -454,7 +516,7 @@ III
 
 ## PENCEMARAN MINYAK
 
-Tafsiran.
+<!-- marginal: Tafsiran. -->
 
 15. Dalam Bahagian ini, melainkan jika konteksnya menghendaki makna yang lain—
 
@@ -470,9 +532,23 @@ Tafsiran.
 
 "penjamin" ertinya mana-mana orang yang mengadakan insurans atau cagaran kewangan lain untuk melindungi liabiliti pemunya daripada jenis yang diperihalkan dalam seksyen 11.
 
-Kepehbadian
+<!-- marginal: Kepehbadian -->
 
-16. (1) Kumpulan Wang hendaklah diiktiraf sebagai undang- orang di sisi undang-undang yang boleh memikul hak undang Kumpulan dan obligasi dan boleh menjadi suatu pihak dalam Wang. prosiding undang-undang di hadapan Mahkamah di Malaysia.
+16. (1) Kumpulan Wang hendaklah diiktiraf sebagai
+
+<!-- marginal: undang- -->
+
+orang di sisi undang-undang yang boleh memikul hak
+
+<!-- marginal: undang -->
+
+<!-- marginal: Kumpulan -->
+
+dan obligasi dan boleh menjadi suatu pihak dalam
+
+<!-- marginal: Wang. -->
+
+prosiding undang-undang di hadapan Mahkamah di Malaysia.
 
 (2) Apa-apa prosiding oleh atau terhadap Kumpulan Wang boleh dimulakan sama ada oleh atau terhadap Kumpulan Wang atas namanya sendiri atau oleh atau terhadap Pengarah Kumpulan Wang sebagai wakil Kumpulan Wang.
 
@@ -480,7 +556,7 @@ Kepehbadian
 
 ## PERKAPALAN SAUDAGAR (PENCEMARAN MINYAK)
 
-17
+<!-- marginal: 17 -->
 
 <!-- marginal: Caruman -->
 
@@ -580,9 +656,17 @@ adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak mele
 
 adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi sepuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya.
 
-Liabiliti
+<!-- marginal: Liabiliti -->
 
-19. (1) Kecuali sebagaimana yang diperuntukkan Kumpulan dalam subseksyen (4), Kumpulan Wang hendaklah Wang. bertanggungan bagi kerosakan pencemaran di mana- mana kawasan di Malaysia jika orang yang menanggung kerosakan itu tidak dapat memperoleh pampasan penuh di bawah seksyen 3—
+19. (1) Kecuali sebagaimana yang diperuntukkan
+
+<!-- marginal: Kumpulan -->
+
+dalam subseksyen (4), Kumpulan Wang hendaklah
+
+<!-- marginal: Wang. -->
+
+bertanggungan bagi kerosakan pencemaran di mana- mana kawasan di Malaysia jika orang yang menanggung kerosakan itu tidak dapat memperoleh pampasan penuh di bawah seksyen 3—
 
 (a) oleh sebab liabiliti di bawah seksyen itu dilepaskan sepenuhnya oleh seksyen 4;
 
@@ -682,9 +766,7 @@ bagi bahagian amaun agregat liabiliti itu yang—
 
 <!-- page 24 -->
 
-(2) Jika prosiding di bawah Konvensyen Liabiliti bagi mendapatkan pampasan bagi kerosakan pencemaran telah dibawa di negara yang bukan negara Konvensyen Kumpulan Wang (tetapi adalah negara Konvensyen Liabiliti), dan insiden
-
-<!-- marginal: itu -->
+(2) Jika prosiding di bawah Konvensyen Liabiliti bagi mendapatkan pampasan bagi kerosakan pencemaran telah dibawa di negara yang bukan negara Konvensyen Kumpulan Wang (tetapi adalah negara Konvensyen Liabiliti), dan insiden itu
 
 <!-- marginal: telah -->
 
@@ -734,7 +816,17 @@ dalam tempoh tiga tahun dari tarikh kerosakan pencemaran itu berlaku dan dalam s
 
 <!-- page 26 -->
 
-Subrogasi 22. (1) Berkenaan dengan apa-apa jumlah wang yang dan hak dibayar di bawah perenggan 19(1)(b), Kumpulan Wang pertolongan. hendaklah memperoleh, secara subrogasi, hak-hak penerima terhadap pemunya kapal atau penjaminnya.
+<!-- marginal: Subrogasi -->
+
+22. (1) Berkenaan dengan apa-apa jumlah wang yang
+
+<!-- marginal: dan hak -->
+
+dibayar di bawah perenggan 19(1)(b), Kumpulan Wang
+
+<!-- marginal: pertolongan. -->
+
+hendaklah memperoleh, secara subrogasi, hak-hak penerima terhadap pemunya kapal atau penjaminnya.
 
 (2) Hak Kumpulan Wang di bawah subseksyen (1) adalah tertakluk kepada apa-apa obligasi Kumpulan Wang di bawah seksyen 20 untuk menanggung rugi pemunya atau penjaminnya bagi mana-mana bahagian liabiliti yang telah dimungkirinya.
 
@@ -754,7 +846,19 @@ IV
 
 ## BIDANG KUASA DAN KESAN PENGHAKIMAN
 
-Bidang kuasa 23. (1) Bidang kuasa Mahkamah Tinggi berhubungan dan kesan dengan perkara-perkara admiralti di bawah perenggan penghakiman. Akta 91. 24(b) Akta Mahkamah Kehakiman 1964 hendaklah diperluaskan kepada apa-apa tuntutan berkenaan dengan liabiliti yang ditanggung di bawah Akta ini, termasuklah liabiliti yang ditanggung oleh Kumpulan Wang di bawah
+<!-- marginal: Bidang kuasa -->
+
+23. (1) Bidang kuasa Mahkamah Tinggi berhubungan
+
+<!-- marginal: dan kesan -->
+
+dengan perkara-perkara admiralti di bawah perenggan
+
+<!-- marginal: penghakiman. -->
+
+<!-- marginal: Akta 91. -->
+
+24(b) Akta Mahkamah Kehakiman 1964 hendaklah diperluaskan kepada apa-apa tuntutan berkenaan dengan liabiliti yang ditanggung di bawah Akta ini, termasuklah liabiliti yang ditanggung oleh Kumpulan Wang di bawah
 
 ## Bahagian III.
 
@@ -776,9 +880,17 @@ Bidang kuasa 23. (1) Bidang kuasa Mahkamah Tinggi berhubungan dan kesan dengan p
 
 apa-apa ubahsuaian yang perlu bagi suatu penghakiman dalam prosiding di bawah undang-undang itu di negara tersebut.
 
-Penguatkuasaan
+<!-- marginal: Penguatkuasaan -->
 
-24. (1) Tertakluk kepada subseksyen (3), Bahagian II penghakiman. Akta Penguatkuasaan Penghakiman Bersaling 1958 Akta 99. hendaklah terpakai bagi apa-apa penghakiman yang diberikan oleh Mahkamah di—
+24. (1) Tertakluk kepada subseksyen (3), Bahagian II
+
+<!-- marginal: penghakiman. -->
+
+Akta Penguatkuasaan Penghakiman Bersaling 1958
+
+<!-- marginal: Akta 99. -->
+
+hendaklah terpakai bagi apa-apa penghakiman yang diberikan oleh Mahkamah di—
 
 (a) negara Konvensyen Liabiliti untuk menguat- kuasakan suatu tuntutan berkenaan dengan liabiliti yang ditanggung di bawah mana-mana peruntukan yang bersamaan dengan seksyen 3; atau
 
@@ -800,7 +912,11 @@ dan dalam pemakaian Akta itu bagi penghakiman sedemikian Bahagian II tersebut he
 
 (3) Bagi maksud Akta ini, subseksyen 3(2) Akta Penguatkuasaan Penghakiman Bersaling 1958 hendaklah terpakai dengan ubahsuaian yang berikut:
 
-(a) sebutan mengenai Yang di-Pertuan Agong hendaklah ditafsirkan sebagai sebutan mengenai Menteri;
+(a) sebutan mengenai Yang di-Pertuan Agong hendaklah ditafsirkan sebagai
+
+<!-- marginal: sebutan -->
+
+mengenai Menteri;
 
 (b) sebutan mengenai Jadual Pertama hendaklah ditafsirkan sebagai sebutan mengenai Jadual Kedua kepada Akta ini; dan
 
@@ -878,7 +994,9 @@ percayai bahawa suatu kesalahan telah dilakukan di bawah Akta ini, boleh tanpa w
 
 (b) menahan mana-mana kapal yang dia ada sebab untuk percaya telah digunakan dalam melakukan kesalahan sedemikian:
 
-Dengan syarat bahawa apabila mana-mana orang telah ditangkap sebagaimana yang disebut terdahulu, dia hendaklah sesudah itu diuruskan sebagaimana yang diperuntukkan oleh Kanun Prosedur Jenayah. N.M.B.
+Dengan syarat bahawa apabila mana-mana orang telah ditangkap sebagaimana yang disebut terdahulu, dia hendaklah sesudah itu diuruskan sebagaimana yang diperuntukkan oleh Kanun Prosedur Jenayah.
+
+<!-- marginal: N.M.B. -->
 
 ## Bab 6.
 
@@ -886,9 +1004,19 @@ Dengan syarat bahawa apabila mana-mana orang telah ditangkap sebagaimana yang di
 
 (3) Pengarah Laut atau mana-mana pegawai diberikuasa hendaklah mempunyai kuasa untuk hadir di mahkamah dan menjalankan apa-apa pendakwaan berkenaan dengan mana-mana kesalahan di bawah Akta ini atau mana-mana peraturan yang dibuat di bawahnya.
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-27. (1) Pengarah Laut atau mana-mana pegawai menaiki dan diberikuasa, jika dia mempunyai sebab untuk menggeledah kapal. mempercayai bahawa suatu kesalahan telah dilakukan di bawah Akta ini atau mana-mana peraturan yang dibuat di bawahnya, boleh tanpa waran—
+27. (1) Pengarah Laut atau mana-mana pegawai
+
+<!-- marginal: menaiki dan -->
+
+diberikuasa, jika dia mempunyai sebab untuk
+
+<!-- marginal: menggeledah -->
+
+<!-- marginal: kapal. -->
+
+mempercayai bahawa suatu kesalahan telah dilakukan di bawah Akta ini atau mana-mana peraturan yang dibuat di bawahnya, boleh tanpa waran—
 
 (a) menaiki dan menggeledah mana-mana kapal; atau
 
@@ -994,7 +1122,163 @@ Perkara 4—perenggan 4, 5 dan 6
 
 ## SIVIL
 
-Africa Selatan Liberia Algeria Luxembourg Australia Maldives Bahamas Malta Belgium Mesir Belize Monaco Benin Morocco Brazil Netherlands Brunei Darussalam New Zealand Cameroon Nigeria Chile Norway China Oman Colombia Panama Cote d'Ivoire Papua New Guinea Croatia Perancis Cyprus Peru Denmark Persekutuan Russia Djibouti Poland Ecuador Portugal Emiriah Arab Bersatu Qatar Estonia Republik Arab Syria Fiji Republic Dominica Pinland Republik Korea Gabon Saint Vincent and the Grenadines Gambia Senegal Ghana Sepanyol Greece Seychelles Guatemala Singapura Iceland Slovenia India Sri Lanka Indonesia Sweden Ireland Switzerland Itali Tunisia Jepun Tuvalu Jerman United Kingdom Kanada Vanuatu Kenya Venezuela Kuwait Yemen Latvia Yugoslavia Lebanon
+<!-- marginal: Africa Selatan -->
+
+Liberia
+
+<!-- marginal: Algeria -->
+
+Luxembourg
+
+<!-- marginal: Australia -->
+
+Maldives
+
+<!-- marginal: Bahamas -->
+
+Malta
+
+<!-- marginal: Belgium -->
+
+Mesir
+
+<!-- marginal: Belize -->
+
+Monaco
+
+<!-- marginal: Benin -->
+
+Morocco
+
+<!-- marginal: Brazil -->
+
+Netherlands
+
+<!-- marginal: Brunei Darussalam -->
+
+New Zealand
+
+<!-- marginal: Cameroon -->
+
+Nigeria
+
+<!-- marginal: Chile -->
+
+Norway
+
+<!-- marginal: China -->
+
+Oman
+
+<!-- marginal: Colombia -->
+
+Panama
+
+<!-- marginal: Cote d'Ivoire -->
+
+Papua New Guinea
+
+<!-- marginal: Croatia -->
+
+Perancis
+
+<!-- marginal: Cyprus -->
+
+Peru
+
+<!-- marginal: Denmark -->
+
+Persekutuan Russia
+
+<!-- marginal: Djibouti -->
+
+Poland
+
+<!-- marginal: Ecuador -->
+
+Portugal
+
+<!-- marginal: Emiriah Arab Bersatu -->
+
+Qatar
+
+<!-- marginal: Estonia -->
+
+Republik Arab Syria
+
+<!-- marginal: Fiji -->
+
+Republic Dominica
+
+<!-- marginal: Pinland -->
+
+Republik Korea
+
+<!-- marginal: Gabon -->
+
+Saint Vincent and the Grenadines
+
+<!-- marginal: Gambia -->
+
+Senegal
+
+<!-- marginal: Ghana -->
+
+Sepanyol
+
+<!-- marginal: Greece -->
+
+Seychelles
+
+<!-- marginal: Guatemala -->
+
+Singapura
+
+<!-- marginal: Iceland -->
+
+Slovenia
+
+<!-- marginal: India -->
+
+Sri Lanka
+
+<!-- marginal: Indonesia -->
+
+Sweden
+
+<!-- marginal: Ireland -->
+
+Switzerland
+
+<!-- marginal: Itali -->
+
+Tunisia
+
+<!-- marginal: Jepun -->
+
+Tuvalu
+
+<!-- marginal: Jerman -->
+
+United Kingdom
+
+<!-- marginal: Kanada -->
+
+Vanuatu
+
+<!-- marginal: Kenya -->
+
+Venezuela
+
+<!-- marginal: Kuwait -->
+
+Yemen
+
+<!-- marginal: Latvia -->
+
+Yugoslavia
+
+<!-- marginal: Lebanon -->
 
 <!-- page 35 -->
 

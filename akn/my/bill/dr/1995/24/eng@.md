@@ -34,9 +34,17 @@ Planning (Amendment) Act 1995.
 
 (3) Notwithstanding subsection (2), the State Authority may, by notification in the State Gazette exempt any part of any local authority area from any or all of the provisions of this Act or any rules made thereunder.
 
-Amendment
+<!-- marginal: Amendment -->
 
-2. The Town and Country Planning Act 1976, which in of section 2. this Act is referred to as the "principal Act", is amended Act 172. in subsection 2(1)—
+2. The Town and Country Planning Act 1976, which in
+
+<!-- marginal: of section 2. -->
+
+this Act is referred to as the "principal Act", is amended
+
+<!-- marginal: Act 172. -->
+
+in subsection 2(1)—
 
 (a) by inserting after the definition of "development plan" the following definitions:
 
@@ -130,17 +138,23 @@ substituting for paragraph (a) the following paragraph:
 
 the area of the local plan; and".
 
-Amendment
+<!-- marginal: Amendment -->
 
-6. Section 13 of the principal Act is amended by inserting of section after subsection (2) the following subsection:
+6. Section 13 of the principal Act is amended by inserting
+
+<!-- marginal: of section -->
+
+after subsection (2) the following subsection:
 
 13.
 
 "(3) The time stated in the notice under subsection (2) for the making of objections to or representations in respect of the draft local plan may be extended once by the local planning authority by not more than four weeks on the application of any person.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-7. Section 21 of the principal Act is amended— of section
+7. Section 21 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 21.
 
@@ -148,9 +162,19 @@ Amendment
 
 (b) by substituting for the word "development" appearing after the words "of which no" in subsection (6) the word "local".
 
-New
+<!-- marginal: New -->
 
-8. The principal Act is amended by inserting after section sections 21 the following sections: 2lA, 2lB and 21c. "Develop- 21A. (1) In addition to the documents and plans ment required to be submitted under section 21(1) proposal for planning permission, the applicant shall report. submit a development proposal report which shall contain the following:
+8. The principal Act is amended by inserting after section
+
+<!-- marginal: sections -->
+
+21 the following sections:
+
+<!-- marginal: 2lA, 2lB -->
+
+<!-- marginal: and 21c. -->
+
+"Develop- 21A. (1) In addition to the documents and plans ment required to be submitted under section 21(1) proposal for planning permission, the applicant shall report. submit a development proposal report which shall contain the following:
 
 (a) the development concept and justification;
 
@@ -160,11 +184,7 @@ New
 
 <!-- page 5 -->
 
-(d) (i) a description of the land including its physical environment, topography, landscape, geology,
-
-<!-- marginal: contours, -->
-
-drainage, water bodies and catchments and natural features thereon;
+(d) (i) a description of the land including its physical environment, topography, landscape, geology, contours, drainage, water bodies and catchments and natural features thereon;
 
 (ii) a survey of the trees and all forms of vegetation; and
 
@@ -186,7 +206,13 @@ which may be affected by the development;
 
 (a) to (g) of subsection (1).
 
-Layout 21B. (1) The layout plans under paragraph (f) plans. of section 2 lA( l) shall show the proposed development and in particular—
+<!-- marginal: Layout -->
+
+21B. (1) The layout plans under paragraph (f)
+
+<!-- marginal: plans. -->
+
+of section 2 lA( l) shall show the proposed development and in particular—
 
 (a) where the development is in respect of any land—
 
@@ -222,7 +248,21 @@ Layout 21B. (1) The layout plans under paragraph (f) plans. of section 2 lA( l) 
 
 <!-- page 7 -->
 
-Preparation 21c. All plans, particulars, layout plans and of plan, other documents required to be submitted under etc. by a qualified this Act shall be prepared by— person.
+<!-- marginal: Preparation -->
+
+21c. All plans, particulars, layout plans and
+
+<!-- marginal: of plan, -->
+
+other documents required to be submitted under
+
+<!-- marginal: etc. by a -->
+
+<!-- marginal: qualified -->
+
+this Act shall be prepared by—
+
+<!-- marginal: person. -->
 
 (a) a person whose qualifications are prescribed under paragraph (h) of section 58(2); or
 
@@ -264,13 +304,11 @@ Preparation 21c. All plans, particulars, layout plans and of plan, other documen
 
 (j) where the development involves any addition or alteration to an existing building with special architecture or historical interest, conditions to ensure that the facade and other external character of the building is retained;
 
-(k) where the development involves the demolition of a building with special architecture or historical interest and the erection of a new building in its place, conditions to ensure that the facade and other external character of
+(k) where the development involves the demolition of a building with special architecture or historical interest and the erection of a new building in its place, conditions to ensure that the facade and other external character of the demolished building is retained."; and
 
-<!-- marginal: the -->
+(c) by inserting after subsection (5) the following
 
-demolished building is retained."; and
-
-(c) by inserting after subsection (5) the following subsection:
+<!-- marginal: subsection: -->
 
 "(5A) It shall be the duty of the local planning authority to ensure where planning permission is granted that a tree preservation order, if any, is complied with.".
 
@@ -354,7 +392,7 @@ Tree pre- 35A. (1) If it appears to the local planning servation authority that 
 
 ## BILL
 
-10
+<!-- marginal: 10 -->
 
 trees in its area, it may make a tree preservation order with respect to such tree, trees or group of trees.
 
@@ -376,19 +414,49 @@ trees in its area, it may make a tree preservation order with respect to such tr
 
 (5) Where in any proceeding for an offence under this section it is proved that a tree was felled it shall be presumed, until the contrary is proved, that the tree had been felled by the occupier of the land on which the tree was growing.
 
-Tree 35B. Notwithstanding section 35A, a tree preservation preservation order shall not be made in respect order not to be made of a tree which has or trees or group of trees if tree is which have already been subjected to conditions already subjected to imposed under paragraphs (f) and (g) of section conditions. 22(5).
+<!-- marginal: Tree -->
+
+35B. Notwithstanding section 35A, a tree
+
+<!-- marginal: preservation -->
+
+preservation order shall not be made in respect
+
+<!-- marginal: order not -->
+
+<!-- marginal: to be made -->
+
+of a tree which has or trees or group of trees
+
+<!-- marginal: if tree is -->
+
+which have already been subjected to conditions
+
+<!-- marginal: already -->
+
+<!-- marginal: subjected to -->
+
+imposed under paragraphs (f) and (g) of section
+
+<!-- marginal: conditions. -->
+
+22(5).
 
 <!-- page 11 -->
 
-Appeal 35c. Any person aggrieved by— against tree preservation
+<!-- marginal: Appeal -->
 
-(a) a tree preservation order; order, etc.
+35c. Any person aggrieved by—
 
-(b) any of the provisions of a
+<!-- marginal: against tree -->
 
-<!-- marginal: tree -->
+<!-- marginal: preservation -->
 
-preservation order;
+(a) a tree preservation order;
+
+<!-- marginal: order, etc. -->
+
+(b) any of the provisions of a tree preservation order;
 
 (c) (i) the refusal of a written permission; or
 
@@ -400,7 +468,23 @@ under paragraph (a) of section 35A(2); or
 
 may, within one month from the date of the communication of such order, refusal or imposition of conditions appeal to the Appeal Board.
 
-Compen- 35D. (1) If the owner of the land to which a sation tree preservation order relates proves that he under a tree preservation has, in complying with paragraphs (a) to (d) of order. section 35c(l), suffered damages in the form of depreciation in the value of the land, he may claim compensation from the local planning authority.
+<!-- marginal: Compen- -->
+
+35D. (1) If the owner of the land to which a
+
+<!-- marginal: sation -->
+
+tree preservation order relates proves that he
+
+<!-- marginal: under a tree -->
+
+<!-- marginal: preservation -->
+
+has, in complying with paragraphs (a) to (d) of
+
+<!-- marginal: order. -->
+
+section 35c(l), suffered damages in the form of depreciation in the value of the land, he may claim compensation from the local planning authority.
 
 (2) A claim for compensation under subsection (1) shall be served on the local planning authority—
 
@@ -422,7 +506,17 @@ was communicated to the owner of the land; or
 
 (3) If the owner of such land is dissatisfied with the amount of compensation awarded, he may, within one month from the date of such award, appeal to the Appeal Board which shall have the power to confirm or vary the amount of compensation awarded.
 
-Replace- 35E. (1) It shall be the duty of the person who ment of is found guilty under section 35A(4) for felling trees. any tree in respect of which a tree preservation order is for the time being in force, in contravention of the tree preservation order, to replace such tree by planting another tree—
+<!-- marginal: Replace- -->
+
+35E. (1) It shall be the duty of the person who
+
+<!-- marginal: ment of -->
+
+is found guilty under section 35A(4) for felling
+
+<!-- marginal: trees. -->
+
+any tree in respect of which a tree preservation order is for the time being in force, in contravention of the tree preservation order, to replace such tree by planting another tree—
 
 (a) of an appropriate size and species;
 
@@ -440,11 +534,7 @@ as may be specified by the local planning authority unless on his application or
 
 (3) Any person who is aggrieved by—
 
-(a) the refusal to dispense with
-
-<!-- marginal: the -->
-
-requirement for replacement of a tree under subsection (1);
+(a) the refusal to dispense with the requirement for replacement of a tree under subsection (1);
 
 (b) any order given under subsection (1)(a) or (b);
 
@@ -458,11 +548,55 @@ may, within one month of the date of the communication of such order, refusal or
 
 (5) Where the person whose duty it is to replace a tree under subsection (1) fails to do so, he commits an offence and is liable, on conviction, to a fine not exceeding fifty thousand ringgit.
 
-Local 35F. In the event of a failure to replace a tree planning under section 35E(1), the local planning authority authority to replace may proceed to replace the
+<!-- marginal: Local -->
 
-<!-- marginal: tree and, -->
+35F. In the event of a failure to replace a tree
 
-tree if the notwithstanding payment of a fine under section person whose duty 35E(5), all costs and expenses reasonably it is to incurred thereby by it shall be reimbursed by replace the person in default of such replacement. fails to do so. Revocation 35G. The local planning authority may amend of a tree or revoke a tree preservation order including preservation order. for the purpose of granting planning permission under section 22(3) in respect of an area where a tree preservation order is for the time being in force.
+<!-- marginal: planning -->
+
+under section 35E(1), the local planning authority
+
+<!-- marginal: authority -->
+
+<!-- marginal: to replace -->
+
+may proceed to replace the tree and,
+
+<!-- marginal: tree if the -->
+
+notwithstanding payment of a fine under section
+
+<!-- marginal: person -->
+
+<!-- marginal: whose duty -->
+
+35E(5), all costs and expenses reasonably
+
+<!-- marginal: it is to -->
+
+incurred thereby by it shall be reimbursed by
+
+<!-- marginal: replace -->
+
+the person in default of such replacement.
+
+<!-- marginal: fails to do -->
+
+<!-- marginal: so. -->
+
+<!-- marginal: Revocation -->
+
+35G. The local planning authority may amend
+
+<!-- marginal: of a tree -->
+
+or revoke a tree preservation order including
+
+<!-- marginal: preservation -->
+
+<!-- marginal: order. -->
+
+for the purpose of granting planning permission under section 22(3) in respect of an area where a tree preservation order is for the time being in force.
 
 <!-- page 14 -->
 
@@ -480,9 +614,13 @@ Prohibition 35H. (1) No person shall, without the written to fell, etc. permissi
 
 (3) Any person who contravenes subsection (1) commits an offence and is liable, on conviction, to a fine not exceeding five thousand ringgit.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-16. Section 36 of the principal Act is amended by of section substituting for subsection (10) the following subsection:
+16. Section 36 of the principal Act is amended by
+
+<!-- marginal: of section -->
+
+substituting for subsection (10) the following subsection:
 
 36.
 
@@ -512,7 +650,17 @@ Amendment
 
 52 the following section:
 
-"Offences 52A. Where an offence under this Act has been by body committed by a body corporate, a person who corporate. at the time of the commission of the offence is a director, manager, secretary or other similar officer of the body corporate or a person who was purporting to act in such capacity shall, as well as the body corporate, be deemed to be guilty of that offence unless he proves that the offence was committed without his knowledge or that he took reasonable precautions to prevent its commission.".
+<!-- marginal: "Offences -->
+
+52A. Where an offence under this Act has been
+
+<!-- marginal: by body -->
+
+committed by a body corporate, a person who
+
+<!-- marginal: corporate. -->
+
+at the time of the commission of the offence is a director, manager, secretary or other similar officer of the body corporate or a person who was purporting to act in such capacity shall, as well as the body corporate, be deemed to be guilty of that offence unless he proves that the offence was committed without his knowledge or that he took reasonable precautions to prevent its commission.".
 
 <!-- marginal: Amendment -->
 

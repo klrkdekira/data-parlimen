@@ -12,7 +12,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Tajuk ringkas
 
-1. Akta ini bolehlah dinamakan Akta Cukai Pendapatan (Pindaan) 2012.
+1. Akta ini bolehlah dinamakan Akta Cukai Pendapatan (Pindaan)
+
+2012.
 
 ### Pindaan seksyen 44
 

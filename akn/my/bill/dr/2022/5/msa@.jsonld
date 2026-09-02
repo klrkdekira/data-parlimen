@@ -1,0 +1,1740 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-5-2022",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Syarikat Labuan (Pindaan) 2022"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Syarikat Labuan (Pindaan) 2022."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 4(b) disifatkan mula berkuat kuasa pada 1 Januari 2019. Pindaan am"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Syarikat Labuan 1990 [Akta 441], yang disebut “Akta ibu” dalam Akta ini, dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “melakukan suatu kesalahan terhadap Akta ini” di mana-mana jua terdapat dengan perkataan “melakukan suatu kesalahan di bawah Akta ini”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa Inggeris, dengan menggantikan perkataan “shall be guilty of an offence under this Act” di mana-mana jua terdapat dengan perkataan “commits an offence under this Act”. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~cl_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 2 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “syarikat domestik”, dengan menggantikan perkataan “Akta Syarikat 1965 [Akta 125]” dengan perkataan “Akta Syarikat 2016 [Akta 777]”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa Inggeris, dalam takrif “foreign offshore company”, dengan menggantikan perkataan ‘ “foreign offshore company” ’ dengan perkataan ‘ “foreign Labuan company” ’; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “pemastautin”, dengan menggantikan perkataan “menurut seksyen 43 Akta Kawalan Pertukaran Wang 1953 [Akta 17]” dengan perkataan “menurut perenggan 214(6)(a) Akta Perkhidmatan Kewangan 2013 [Akta 758] dan perenggan 225(6)(a) Akta Perkhidmatan Kewangan Islam 2013 [Akta 759].”. Pindaan seksyen 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~cl_4__para_a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 7 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~cl_4__para_a__subpara_i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~cl_4__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~cl_4__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “Penggal 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_44",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_45",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_46",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_47",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_48",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_49",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_50",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_51",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_52",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_53",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_54",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_55",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_56",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_57",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_58",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_59",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_60",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_61"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Syarikat 1965” dengan perkataan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "“peruntukan yang berkenaan dalam Akta Skim Kepentingan 2016 [Akta 778]”; dan (ii) dengan menggantikan perkataan “Penggal itu” dengan perkataan “Akta Skim Kepentingan 2016 itu”; dan (b) dengan memotong subseksyen (4), (5) dan (6). Pindaan seksyen 8"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_10__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_10__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 13(9) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (a)(i), dengan menggantikan perkataan “enam” dengan perkataan “tujuh”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (a)(iii), dengan menggantikan perkataan “lima belas” dengan perkataan “tujuh”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_10__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan menggantikan perkataan “lima belas tahun” dengan perkataan “tujuh tahun dan enam bulan”. Pindaan seksyen 22"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 22(3) Akta ibu dipinda dengan menggantikan perkataan “Sepuluh” dengan perkataan “Lima puluh”. Pindaan seksyen 25"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 25(3) Akta ibu dipinda dengan memasukkan selepas perkataan “Sepuluh ribu ringgit” perkataan “dan penalti ingkar sebanyak lima ratus ringgit”. Pindaan seksyen 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 26 Akta ibu dipinda dengan memasukkan selepas subseksyen (4) subseksyen yang berikut: “(4a) Jika berlaku keingkaran pada mematuhi seksyen ini, syarikat Labuan atau tiap-tiap pegawai syarikat itu yang ingkar melakukan suatu kesalahan di bawah Akta ini. Penalti: Satu ratus ribu ringgit.”. Seksyen baharu 46a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 46 seksyen yang berikut: “Larangan untuk menerbitkan syer pembawa atau waran syer pembawa 46a. (1) Sesuatu syarikat Labuan tidak boleh— (a) menerbitkan suatu syer pembawa atau waran syer pembawa; (b) menukarkan suatu syer kepada suatu syer pembawa atau waran syer pembawa kepada syer waran; atau (c) membuat pertukaran suatu syer untuk syer pembawa. (2) Apa-apa yang berupa penerbitan, penukaran atau pertukaran syer pembawa, waran syer pembawa, syer atau syer waran di bawah subseksyen (1) adalah tidak sah. (3) Peruntukan dalam memorandum atau perkara suatu syarikat Labuan yang bertujuan untuk membolehkan syarikat menerbitkan, menukarkan atau membuat pertukaran mana-mana syer pembawa, waran syer pembawa, syer atau syer waran adalah tidak sah. (4) Seksyen ini hendaklah terpakai kepada suatu syarikat Labuan asing. (5) Jika berlaku keingkaran pada mematuhi seksyen ini, syarikat Labuan, syarikat Labuan asing dan tiap-tiap pegawai syarikat itu yang ingkar melakukan suatu kesalahan di bawah Akta ini.”. Pindaan seksyen 53"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_15__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 53 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (9b) subseksyen yang berikut: “(9 ba) Jika berlaku keingkaran pada mematuhi subseksyen (9b), pengarah syarikat Labuan yang ingkar melakukan suatu kesalahan di bawah Akta ini. Penalti: Lima puluh ribu ringgit atau pemenjaraan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (10), dengan menggantikan perkataan “Penjara selama tiga tahun atau sepuluh ribu ringgit atau kedua-duanya” dengan perkataan “Tiga juta ringgit atau pemenjaraan selama tempoh tidak melebihi lima tahun atau kedua-duanya.”. Pindaan seksyen 54"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 54 Akta ibu dipinda dengan memasukkan selepas subseksyen (3) peruntukan penalti seperti yang berikut: “Penalti: Lima ratus ribu ringgit.”. Pindaan seksyen 55"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_17__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_17__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 55 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_17__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3c), dengan memasukkan selepas perkataan “salinan terperaku pengisytiharan kesolvenan” perkataan “dan notis penebusan syer itu dalam borang yang ditetapkan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (3c) subseksyen yang berikut: “(4) Jika berlaku keingkaran pada mematuhi subseksyen (3c), pengarah syarikat Labuan yang ingkar melakukan suatu kesalahan di bawah Akta ini. Penalti: Lima puluh ribu ringgit atau pemenjaraan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.”. Pindaan seksyen 58"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_18__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 58 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: “(1 a) Jika berlaku keingkaran pada mematuhi subseksyen (1), syarikat Labuan yang ingkar melakukan suatu kesalahan di bawah Akta ini. Penalti: Dua puluh ribu ringgit. Penalti ingkar.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (6), dengan menggantikan perkataan “Sepuluh” dengan perkataan “Dua puluh”. Pindaan seksyen 69"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_19__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_19__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 69 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula seksyen yang sedia ada sebagai subseksyen (1); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_19__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) yang dinomborkan semula subseksyen yang berikut: “(2) Jika berlaku keingkaran pada mematuhi seksyen ini, orang yang ingkar melakukan suatu kesalahan di bawah Akta ini. Penalti: Tiga juta ringgit atau pemenjaraan selama tempoh tidak melebihi lima tahun atau kedua-duanya.”. Pindaan seksyen 70"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_20__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_20__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 70 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_20__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula seksyen yang sedia ada sebagai subseksyen (1); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_20__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) yang dinomborkan semula subseksyen yang berikut: “(2) Jika berlaku keingkaran pada mematuhi seksyen ini, syarikat Labuan, syarikat Labuan asing atau ejen kepada syarikat itu yang ingkar melakukan suatu kesalahan di bawah Akta ini. Penalti: Tiga juta ringgit atau pemenjaraan selama tempoh tidak melebihi lima tahun atau kedua-duanya.”. Pindaan seksyen 71"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 71 Akta ibu dipinda dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(3) Jika berlaku keingkaran pada mematuhi seksyen ini, mana-mana orang yang ingkar melakukan suatu kesalahan di bawah Akta ini. Penalti: Satu juta ringgit atau pemenjaraan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.”. Pindaan seksyen 72"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 72 Akta ibu dipinda dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(3) Jika berlaku keingkaran pada mematuhi seksyen ini, syarikat Labuan dan tiap-tiap pegawai syarikat itu yang ingkar melakukan suatu kesalahan di bawah Akta ini. Penalti: Lima puluh ribu ringgit atau pemenjaraan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.”. Pindaan seksyen 73"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 73 Akta ibu dipinda dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(3) Subseksyen (1) tidak terpakai bagi seksyen 69, 70, 71 dan 72.”. Pindaan seksyen 78"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 78(2)(c) Akta ibu dipinda dengan memasukkan sebelum perkataan “nilai nominal” perkataan “bagi suatu syarikat Labuan asing,”. Pindaan seksyen 80"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 80 Akta ibu dipinda dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: “(1 a) Suatu syarikat Labuan hendaklah dalam masa tiga puluh hari memberitahu Lembaga dalam borang yang ditetapkan mengenai apa-apa pemindahan syer atau debentur atau apa-apa perubahan maklumat yang diserahkan di bawah subseksyen (1).”. Pindaan seksyen 83"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_26__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_26__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 83 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_26__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “Sepuluh ribu ringgit” dengan perkataan “Lima puluh ribu ringgit dan penalti ingkar lima ratus ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_26__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (5), dengan menggantikan perkataan “Sepuluh” dengan perkataan “Lima puluh”. Pindaan seksyen 84"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 84(2) Akta ibu dipinda dengan menggantikan perkataan “Sepuluh” dengan perkataan “Lima puluh”. Seksyen baharu 84a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 84 seksyen yang berikut: “Penyerahhakan dan pengubahan gadaian 84a. (1) Jika selepas suatu gadaian atas harta syarikat Labuan telah diwujudkan dan diserahkan menurut seksyen 84 dan jika orang yang selain pemegang asal gadaian itu menjadi pemegang gadaian baharu atau apa-apa pengubahan butir-butir gadaian, syarikat itu hendaklah, dalam masa tiga puluh hari dan setelah membayar fi yang ditetapkan, menyerah simpan kepada Lembaga suatu notis menyatakan penyerahhakan atau pengubahan itu dan notis itu hendaklah mengandungi maklumat lain sebagaimana yang ditentukan oleh Lembaga. (2) Jika berlaku keingkaran pada mematuhi seksyen ini, syarikat Labuan dan tiap-tiap pegawai syarikat itu yang ingkar melakukan suatu kesalahan di bawah Akta ini. Penalti: Lima puluh ribu ringgit. Penalti ingkar.”. Pindaan seksyen 85"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_29__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_29__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 85 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_29__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan masukkan selepas perkataan “suatu syarikat amanah Labuan” perkataan “, atau mana-mana pejabat lain yang diluluskan oleh Lembaga”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_29__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (5), dengan menggantikan perkataan “Sepuluh” dengan perkataan “Lima puluh”. Pindaan seksyen 86"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_30__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_30__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_30__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 86 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_30__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan memotong perkataan “Penalti: Sepuluh ribu ringgit. Penalti ingkar.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_30__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: “(1 a) Jika berlaku keingkaran pada mematuhi subseksyen (1), syarikat Labuan dan tiap-tiap pegawai syarikat itu yang ingkar melakukan suatu kesalahan di bawah Akta ini. Penalti: Lima puluh ribu ringgit. Penalti ingkar.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_30__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4), dengan menggantikan perkataan “Sepuluh” dengan perkataan “Lima puluh”. Pindaan seksyen 87"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_31__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_31__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_31__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_31__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_31__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_31__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 87 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_31__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “sekurang-kurangnya seorang pengarah yang boleh menjadi pengarah pemastautin” dengan perkataan “seorang atau lebih pengarah yang sekurang-kurangnya seorang hendaklah menjadi pengarah pemastautin”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_31__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (2) dengan subseksyen yang berikut: “(2) Pengarah pemastautin suatu syarikat Labuan di bawah subseksyen (1) hendaklah— (a) seorang pegawai amanah suatu syarikat amanah Labuan yang diluluskan oleh Lembaga di bawah Akta Perkhidmatan Kewangan dan Sekuriti Labuan 2010 yang disediakan oleh syarikat amanah Labuan untuk dilantik sebagai pengarah pemastautin; atau (b) mana-mana orang sebenar yang telah mencapai umur lapan belas tahun, yang selainnya mempunyai keupayaan undang-undang, memenuhi kriteria itu atau kehendak yang ditentukan oleh Lembaga dan bersetuju secara bertulis untuk dilantik sebagai pengarah pemastautin.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_31__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (5) dengan subseksyen yang berikut: “(5) Pegawai amanah atau orang sebenar yang dilantik sebagai pengarah pemastautin menurut perenggan (2)(a) atau (2)(b), mengikut mana-mana yang berkenaan, boleh bersara atau meletakkan jawatan tertakluk kepada terma perjanjian antara syarikat amanah Labuan dan syarikat Labuan yang dia dilantik sebagai pengarah pemastautin.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_31__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (5a);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_31__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (9) peruntukan penalti yang berikut: “Penalti: Tiga juta ringgit atau pemenjaraan selama tempoh tidak melebihi lima tahun atau kedua-duanya.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_31__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (10) dengan subseksyen yang berikut: “(10) Fi yang kena dibayar bagi pelantikan sebagai seorang pengarah pemastautin hendaklah dibayar— (a) dalam hal pegawai amanah dilantik sebagai pengarah pemastautin syarikat Labuan menurut perenggan (2)(a), kepada syarikat amanah Labuan yang menyediakannya bagi pelantikan itu; dan (b) dalam hal orang sebenar dilantik sebagai pengarah pemastautin syarikat Labuan menurut perenggan (2)(b), secara langsung kepada orang itu.”. Penggantian seksyen 90"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 90 dengan seksyen yang berikut: “Orang yang hilang kelayakan untuk menjadi pengarah 90. (1) Seseorang tidak boleh dilantik sebagai pengarah atau memegang jawatan atau mengambil bahagian atau berada dalam apa-apa cara secara langsung atau tidak langsung untuk bersangkut-paut dengan atau dalam pengurusan suatu syarikat Labuan, jika orang itu— (a) telah disabitkan dengan apa-apa kesalahan berkaitan dengan pembentukan atau pengurusan suatu perbadanan atau syarikat; (b) telah disabitkan dengan apa-apa kesalahan yang melibatkan fraud, sogokan atau kecurangan; (c) seorang bankrap yang belum dilepaskan atau tidak solven; atau (d) dianggap tidak layak oleh Lembaga. (2) Syarikat Labuan hendaklah memastikan tiada seorang pun yang bertindak atau dinamakan untuk bertindak sebagai pengarah atau memegang jawatan atau mengambil bahagian atau berada dalam apa-apa cara secara langsung atau tidak langsung bersangkut paut dengan atau dalam pengurusan suatu syarikat Labuan itu yang orang itu hilang kelayakan di bawah subseksyen (1). (3) Jika berlaku keingkaran pada mematuhi seksyen ini, orang yang ingkar melakukan suatu kesalahan di bawah Akta ini. Penalti: Satu juta ringgit atau pemenjaraan selama tempoh tidak melebihi lima tahun atau kedua-duanya.”. Pindaan seksyen 91"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 91 Akta ibu dipinda dengan memasukkan selepas subseksyen (10) subseksyen yang berikut: “(11) Jika berlaku keingkaran pada mematuhi seksyen ini, pengarah syarikat yang ingkar melakukan suatu kesalahan di bawah Akta ini. Penalti: Tiga juta ringgit atau pemenjaraan selama tempoh tidak melebihi lima tahun atau kedua-duanya.”. Pindaan seksyen 92"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_34__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_34__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_34__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 92 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_34__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_34",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (11) dengan subseksyen yang berikut: “(11) Seorang pegawai suatu syarikat Labuan yang melanggar seksyen ini adalah bertanggungan kepada syarikat itu bagi apa-apa keuntungan yang dibuat olehnya dan bagi apa-apa kerugian yang dialami oleh syarikat akibat pelanggaran sedemikian.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_34__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_34",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (12) peruntukan penalti yang berikut: “Penalti: Lima ratus ribu ringgit atau pemenjaraan selama tempoh tidak melebihi lima tahun atau kedua-duanya.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_34__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_34",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (12) subseksyen yang berikut: “(12 a) Jika berlaku keingkaran pada mematuhi subseksyen (3), pengarah syarikat Labuan yang ingkar melakukan suatu kesalahan di bawah Akta ini. Penalti: Tiga juta ringgit atau pemenjaraan selama tempoh tidak melebihi lima tahun atau kedua-duanya.”. Pindaan seksyen 93"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_35__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_35__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_35__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 93 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_35__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_35__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_35__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_35__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_35",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_35__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_35__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “pegawai” dengan perkataan “pegawai amanah”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_35__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_35__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “Akta Lembaga Perkhidmatan Kewangan Labuan 1996” dengan perkataan “Akta Perkhidmatan Kewangan dan Sekuriti Labuan 2010”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_35__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_35__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “atau sesuatu syarikat Labuan, atau sesuatu syarikat domestik yang dimiliki sepenuhnya oleh syarikat amanah Labuan itu,” dengan perkataan “atau sesuatu syarikat Labuan atau sesuatu syarikat domestik, yang dimiliki sepenuhnya oleh syarikat amanah Labuan dan diluluskan oleh Lembaga,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_35__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_35",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2c), dengan menggantikan perkataan “peruntukan seksyen 151 hendaklah terpakai” dengan perkataan “syarikat itu disifatkan telah dipotong daripada daftar”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_35__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_35",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (6) dengan subseksyen yang berikut: “(6) Gaji seorang setiausaha pemastautin suatu syarikat Labuan yang kena dibayar oleh suatu syarikat Labuan hendaklah dibayar secara langsung kepada syarikat amanah Labuan yang menyediakannya bagi pelantikan itu.”. Pindaan seksyen 94"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 94(6) Akta ibu dipinda dengan menggantikan perkataan “Sepuluh” dengan perkataan “Lima puluh”. Pindaan seksyen 94a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_37__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_37__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_37__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 94a Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_37__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_37",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan memotong perkataan “pengarah dan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_37__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_37",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “pengarah pemastautin atau”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_37__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_37",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “melakukan kesalahan itu” dengan perkataan “melakukan suatu kesalahan di bawah Akta ini”. Pindaan seksyen 105"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 105(3) Akta ibu dipinda dengan menggantikan perkataan “Sepuluh” dengan perkataan “Lima puluh”. Seksyen baharu 108a, 108b, 108c, 108d, 108e, 108f, 108g dan 108h"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 108 seksyen yang berikut: “Pemunya benefisial syarikat Labuan 108a. Dalam Akta ini, “pemunya benefisial” ertinya orang sebenar yang memiliki atau mengawal suatu syarikat Labuan atau syarikat Labuan asing, secara keseluruhan atau sebahagian, melalui pemilikan langsung atau tidak langsung atau kawalan syer atau hak mengundi atau kepentingan pemilikan lain dalam syarikat Labuan atau syarikat Labuan asing itu, atau yang menjalankan kawalan dan pengaruh yang berkesan dalam syarikat Labuan atau syarikat Labuan asing itu sebagaimana yang ditentukan oleh Lembaga. Kuasa syarikat untuk menghendaki penzahiran maklumat pemunya benefisial 108b. (1) Suatu syarikat Labuan atau syarikat Labuan asing hendaklah mengambil langkah yang munasabah untuk mengetahui dan mengenal pasti pemunya benefisial syarikat Labuan atau syarikat Labuan asing itu, mengikut mana-mana yang berkenaan. (2) Mana-mana syarikat Labuan atau syarikat Labuan asing boleh, melalui notis secara bertulis, menghendaki mana-mana anggota syarikat Labuan atau syarikat Labuan asing yang syarikat Labuan atau syarikat Labuan asing itu mengetahui atau mempunyai alasan yang munasabah untuk mempercayai bahawa anggota itu ialah pemunya benefisial berhubung dengan syarikat Labuan atau syarikat Labuan asing— (a) untuk menyatakan sama ada dia seorang pemunya benefisial syarikat Labuan atau syarikat Labuan asing itu; (b) untuk menyatakan sama ada dia mengetahui atau mempunyai alasan yang munasabah untuk mempercayai bahawa mana-mana orang lain itu seorang pemunya benefisial syarikat Labuan atau syarikat Labuan asing itu atau mungkin mempunyai pengetahuan itu dan untuk memberikan butir-butir orang itu yang berada dalam pengetahuannya; dan (c) untuk memberikan maklumat lain dalam masa yang munasabah sebagaimana yang dinyatakan dalam notis itu. (3) Jika suatu syarikat Labuan atau syarikat Labuan asing dimaklumkan atau mengetahui atau mempunyai alasan yang munasabah untuk mempercayai, bahawa mana-mana orang lain itu adalah seorang pemunya benefisial syarikat Labuan atau syarikat Labuan asing itu, atau mungkin mempunyai pengetahuan itu, syarikat Labuan atau syarikat Labuan asing itu boleh melalui notis secara bertulis menghendaki orang lain itu— (a) untuk menyatakan sama ada dia seorang pemunya benefisial syarikat Labuan atau syarikat Labuan asing itu; (b) untuk menyatakan sama ada dia mengetahui atau mempunyai alasan yang munasabah untuk mempercayai bahawa mana-mana orang lain itu seorang pemunya benefisial syarikat Labuan atau syarikat Labuan asing itu, atau mungkin mempunyai pengetahuan dan untuk memberikan butir-butir bagi orang itu yang berada dalam pengetahuannya; dan (c) untuk memberikan maklumat lain dalam masa yang munasabah sebagaimana yang dinyatakan dalam notis itu. (4) Mana-mana syarikat Labuan atau syarikat Labuan asing boleh, melalui notis secara bertulis, menghendaki mana-mana anggota syarikat Labuan atau syarikat Labuan asing untuk memaklumkan syarikat Labuan atau syarikat Labuan asing, dalam masa yang munasabah, sebagaimana yang dinyatakan dalam notis, sama ada pemilikan atau kawalan anggota dalam syarikat Labuan atau syarikat Labuan asing itu tertakluk kepada suatu perjanjian atau perkiraan di bawahnya yang orang lain berhak untuk mengawal penjalanan hak atau kepentingan anggota dan jika demikian, untuk memberikan butir-butir perjanjian atau perkiraan dan pihak kepada perjanjian atau perkiraan itu. (5) Setiausaha pemastautin suatu syarikat Labuan atau syarikat Labuan asing hendaklah memastikan bahawa syarikat Labuan atau syarikat Labuan asing itu mematuhi obligasi di bawah seksyen ini. (6) Jika berlaku keingkaran pada mematuhi seksyen ini, syarikat Labuan, syarikat Labuan asing dan tiap-tiap pegawai syarikat itu yang ingkar melakukan kesalahan di bawah Akta ini. Tanggungjawab untuk menyerah simpan maklumat dengan Lembaga 108c. (1) Butir-butir pemunya benefisial yang diperoleh di bawah seksyen 108b hendaklah diserah simpan oleh syarikat Labuan, syarikat Labuan asing atau setiausaha pemastautin dengan Lembaga sebagai sebahagian penyata tahunan yang diserah simpan menurut seksyen 109 atau 129. (2) Lembaga boleh, melalui notis secara bertulis, mengarahkan syarikat Labuan atau syarikat Labuan asing untuk menggunakan kuasanya di bawah seksyen ini dan untuk memberikan kepada Lembaga dengan serta-merta maklumat yang telah diperoleh di bawah seksyen 108b. (3) Mana-mana orang yang mengemukakan maklumat palsu atau mengelirukan atau tidak tepat kepada Lembaga di bawah seksyen ini melakukan suatu kesalahan di bawah Akta ini. Butir-butir pemunya benefisial 108d. (1) Butir-butir pemunya benefisial yang dikehendaki di bawah subseksyen 108b(2) atau (3) hendaklah ditentukan oleh Lembaga dalam suatu garis panduan yang dikeluarkan di bawah seksyen 108g. (2) Apabila suatu syarikat Labuan atau syarikat Labuan asing menerima maklumat daripada seseorang mengikut apa-apa kehendak yang dikenakan ke atas mana-mana orang di bawah seksyen 108b, syarikat Labuan atau syarikat Labuan asing itu hendaklah berada di bawah suatu obligasi untuk mencatatkan bersetentangan dengan nama anggota itu di bahagian yang berasingan dalam daftar yang disimpan oleh syarikat di bawah seksyen 105— (a) fakta bahawa kehendak itu telah dikenakan dan tarikh yang kehendak itu dikenakan; dan (b) maklumat yang diterima mengikut kehendak itu. (3) Jika berlaku keingkaran pada mematuhi seksyen ini, syarikat Labuan, syarikat Labuan asing dan tiap-tiap pegawai syarikat itu yang ingkar melakukan kesalahan di bawah Akta ini. Obligasi syarikat Labuan untuk menyenggara dan menyimpan maklumat yang kemas kini 108e. (1) Syarikat Labuan atau syarikat Labuan asing hendaklah menyenggara dan menyimpan butir-butir pemunya benefisial dalam daftar anggotanya di bawah seksyen 105 yang dikemas kini dari semasa ke semasa. (2) Suatu syarikat Labuan atau syarikat Labuan asing hendaklah, dalam masa tiga puluh hari mengenai apa-apa perubahan kepada butir-butir yang disimpan di bawah subseksyen (1), menyerah simpan dengan Lembaga perubahan itu dalam bentuk dan cara sebagaimana yang ditentukan oleh Lembaga. (3) Bagi maksud subseksyen (2), perubahan berlaku jika— (a) seseorang terhenti menjadi pemunya benefisial berhubung dengan syarikat Labuan atau syarikat Labuan asing itu; (b) apa-apa perubahan lain yang mengakibatkan butir-butir yang ditetapkan mengenai pemunya benefisial dalam daftar anggota tidak betul atau tidak lengkap; (c) terdapat apa-apa perubahan kepada butir-butir pemegang syer yang terkandung dalam daftar; atau (d) seseorang terhenti daripada menjadi, atau menjadi, pemegang syer syarikat Labuan atau syarikat Labuan asing itu. (4) Setiausaha pemastautin suatu syarikat Labuan atau syarikat Labuan asing hendaklah memastikan syarikat Labuan atau syarikat Labuan asing mematuhi obligasi di bawah seksyen ini. (5) Jika berlaku keingkaran pada mematuhi seksyen ini atau jika syarikat Labuan atau syarikat Labuan asing mengemukakan maklumat palsu atau mengelirukan atau tidak tepat kepada Lembaga di bawah seksyen ini, syarikat Labuan, syarikat Labuan asing dan tiap-tiap pegawai syarikat itu yang ingkar melakukan suatu kesalahan di bawah Akta ini. Kuasa Lembaga untuk menghendaki penyerahan dan pemeriksaan 108f. (1) Lembaga boleh pada bila-bila masa melalui notis secara bertulis menghendaki suatu syarikat Labuan, syarikat Labuan asing, setiausaha pemastautin atau mana-mana orang yang difikirkan sesuai oleh Lembaga untuk memberi semua maklumat dan butir-butir yang perlu mengenai mana-mana pemunya benefisial syarikat Labuan atau syarikat Labuan asing itu dan mempunyai maklumat dan butir-butir yang ditentusahkan secara akuan berkanun. (2) Mana-mana syarikat Labuan, syarikat Labuan asing, setiausaha pemastautin atau orang yang disampaikan kepadanya dengan notis di bawah subseksyen (1) hendaklah mematuhi notis itu dalam masa tujuh hari penerimaan notis itu. (3) Walau apa pun subseksyen (1), Lembaga boleh menggunakan kuasanya di bawah seksyen 28b dan 28c Akta Lembaga Perkhidmatan Kewangan Labuan 1996 berhubung dengan butir-butir dan maklumat pemunya benefisial yang disimpan oleh syarikat Labuan atau syarikat Labuan asing menurut Penggal ini. (4) Jika berlaku keingkaran pada mematuhi seksyen ini, syarikat Labuan, syarikat Labuan asing atau setiausaha pemastautin dan tiap-tiap pegawai itu yang ingkar melakukan suatu kesalahan di bawah Akta ini. Penalti: Satu juta ringgit dan dalam hal kesalahan yang berterusan, boleh didenda lanjut sebanyak sepuluh ribu ringgit bagi tiap-tiap hari yang kesalahan itu berterusan selepas sabitan. (5) Jika berlaku keingkaran pada mematuhi seksyen ini, orang yang ingkar melakukan suatu kesalahan di bawah Akta ini. Penalti: Pemenjaraan selama tempoh tidak melebihi sepuluh tahun atau denda tiga juta ringgit atau kedua-duanya, dan dalam kes kesalahan berterusan, boleh didenda lanjut sebanyak sepuluh ribu ringgit bagi tiap-tiap hari yang kesalahan itu berterusan selepas sabitan. Kuasa Lembaga untuk mengeluarkan Garis Panduan 108g. Lembaga boleh mengeluarkan garis panduan menurut seksyen 4a Akta Lembaga Perkhidmatan Kewangan Labuan 1996 untuk menjelaskan apa-apa peruntukan Penggal ini. Pengeluaran catatan dari daftar 108h. Suatu catatan yang berhubungan dengan orang sebenar yang dahulunya menjadi pemunya benefisial boleh dikeluarkan dari daftar anggota di bawah seksyen 105 selepas tamat tempoh enam tahun dari tarikh orang sebenar itu terhenti menjadi pemunya benefisial berhubung dengan syarikat Labuan atau syarikat Labuan asing itu.”. Pindaan seksyen 110"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_40__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_40__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 110 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_40__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_40",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: “(3 a) Jika berlaku keingkaran pada mematuhi subseksyen (1), (2) atau (3), pengarah syarikat Labuan yang ingkar melakukan suatu kesalahan di bawah Akta ini. Penalti: Lima ratus ribu ringgit atau pemenjaraan selama tempoh tidak melebihi lima tahun atau kedua-duanya.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_40__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_40",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (5), dengan memotong perkataan “dan seksyen 112 dan 113”. Pindaan seksyen 111"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_41__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_41__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 111 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_41__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_41",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2a), dengan menggantikan perkataan “Tertakluk kepada seksyen 113a, sesuatu syarikat Labuan” dengan perkataan “Suatu syarikat Labuan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_41__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_41__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_41__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_41",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_41__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_41__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “seksyen ini” dengan perkataan “subseksyen (2) atau (2a)”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_41__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_41__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “Sepuluh” dengan perkataan “Lima puluh”. Pindaan seksyen 112"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_42__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_42__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 112 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_42__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_42",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula seksyen yang sedia ada sebagai subseksyen (1); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_42__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_42",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) sebagaimana yang dinomborkan semula subseksyen yang berikut: “(2) Mana-mana pengarah suatu syarikat Labuan yang gagal untuk mengambil semua langkah yang munasabah untuk menjamin pematuhan oleh syarikat itu dengan kehendak seksyen ini atau pengarah pemastautin yang dengan sendirinya sengaja menyebabkan apa-apa keingkaran oleh syarikat itu di bawah seksyen ini, melakukan suatu kesalahan di bawah Akta ini. Penalti: Lima puluh ribu ringgit dan penalti ingkar sebanyak lima ratus ringgit.”. Pindaan seksyen 113"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 113 Akta ibu dipinda dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(3) Mana-mana pengarah suatu syarikat Labuan yang gagal untuk mengambil semua langkah yang munasabah untuk menjamin pematuhan syarikat itu dengan kehendak seksyen ini atau pengarah pemastautin yang dengan sendirinya sengaja menyebabkan apa-apa keingkaran oleh syarikat itu di bawah seksyen ini, melakukan suatu kesalahan di bawah Akta ini.”. Pindaan seksyen 114"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 114 Akta ibu dipinda dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: “(4) Suatu syarikat Labuan hendaklah, dalam masa tiga puluh hari dari apa-apa pertukaran juruaudit syarikat itu, menyerah simpan kepada Lembaga suatu notis dan notis itu hendaklah disertakan dengan persetujuan juruaudit yang baharu itu.”. Pindaan seksyen 120"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_45",
+      "@type": "akn:clause",
+      "eli:number": "45",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 120(1) Akta ibu dipinda dengan menggantikan perkataan “Akta Syarikat 1965” dengan perkataan “Akta Syarikat 2016”. Pindaan seksyen 123"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_46",
+      "@type": "akn:clause",
+      "eli:number": "46",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 123(3) Akta ibu dipinda dengan menggantikan perkataan “Sepuluh” dengan perkataan “Lima puluh”. Pindaan seksyen 127"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_47",
+      "@type": "akn:clause",
+      "eli:number": "47",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 127(8) Akta ibu dipinda dengan menggantikan perkataan “XI” dengan perkataan “X”. Pindaan seksyen 130"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_48",
+      "@type": "akn:clause",
+      "eli:number": "48",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_48__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_48__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 130 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_48__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_48",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan menggantikan perkataan “Akta Syarikat 1965” dengan perkataan “Akta Syarikat 2016”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_48__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_48",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “Akta Syarikat 1965 dan dilesenkan di bawah Akta Bank dan Institusi-Institusi Kewangan 1989, Akta Bank Islam 1983, atau Akta Insurans 1963” dengan perkataan “Akta Syarikat 2016 dan dilesenkan di bawah Akta Perkhidmatan Kewangan 2013 dan Akta Perkhidmatan Kewangan Islam 2013”. Pindaan seksyen 130t"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_49",
+      "@type": "akn:clause",
+      "eli:number": "49",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 130t Akta ibu dipinda dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: “(1a) Jika suatu syarikat sel terlindung Labuan membuat apa-apa pengumpukan syer selnya, syarikat sel terlindung Labuan itu hendaklah, dalam masa tiga puluh hari, menyerah simpan kepada Lembaga maklumat mengenai pengumpukan itu.”. Pindaan seksyen 131"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 8 Akta ibu dipinda dengan memasukkan selepas subseksyen (6) subseksyen yang berikut: “(6a) Jika berlaku keingkaran pada mematuhi seksyen ini, syarikat Labuan, syarikat Labuan asing dan tiap-tiap pegawai syarikat itu yang ingkar melakukan suatu kesalahan di bawah Akta ini. Penalti: Lima ratus ribu ringgit atau pemenjaraan selama satu tahun atau kedua-duanya.”. Pindaan seksyen 9a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_50",
+      "@type": "akn:clause",
+      "eli:number": "50",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 131(1) Akta ibu dipinda dengan menggantikan perkataan “Bahagian VIII dan Bahagian X Akta Syarikat 1965” dengan perkataan “Subpenggal 3 Penggal 7 Bahagian III dan Penggal 1 dan Penggal 2 Bahagian IV Akta Syarikat 2016”. Penggantian seksyen 132"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_51",
+      "@type": "akn:clause",
+      "eli:number": "51",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 132 dengan seksyen yang berikut: “Penyampaian dokumen ke atas syarikat 132. Apa-apa dokumen yang disampaikan di bawah Akta ini hendaklah disifatkan telah disampaikan ke atas suatu syarikat Labuan atau syarikat Labuan asing jika dokumen itu— (a) ditinggalkan, atau dihantar melalui pos biasa atau pos berdaftar ke alamat terakhir pejabat berdaftar atau tempat perniagaan utama berdaftar syarikat itu yang diketahui; dan (b) disampaikan secara elektronik kepada alamat atau nombor yang diberikan oleh syarikat Labuan atau syarikat Labuan asing itu.”. Pindaan seksyen 142"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_52",
+      "@type": "akn:clause",
+      "eli:number": "52",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_52__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_52__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 142 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_52__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_52",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “sepuluh” dengan perkataan “lima puluh”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_52__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_52",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4), dengan menggantikan perkataan “melakukan suatu kesalahan lanjut terhadap Akta ini” dengan perkataan “melakukan suatu kesalahan lanjut di bawah Akta ini”. Pindaan seksyen 142a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_53",
+      "@type": "akn:clause",
+      "eli:number": "53",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 142a(3) Akta ibu dipinda dengan menggantikan perkataan “sepuluh” dengan perkataan “lima puluh”. Pindaan seksyen 151"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_54",
+      "@type": "akn:clause",
+      "eli:number": "54",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_54__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_54__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_54__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_54__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 151 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_54__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_54",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (3) dan (4);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_54__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_54",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (5), dengan menggantikan perkataan “seksyen ini” dengan perkataan “seksyen 151bb”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_54__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_54__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_54__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_54",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (6)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_54__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_54__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “seksyen ini” dengan perkataan “seksyen 151bb”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_54__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_54__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “dalam Warta” dengan perkataan “mengikut subseksyen 151bb(4)”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_54__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_54",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (7), dengan menggantikan perkataan “Subseksyen (2) hingga (5)” dengan perkataan “Subseksyen (2) dan (5) dan seksyen 151bb”. Seksyen baharu 151ba dan 151bb"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_55",
+      "@type": "akn:clause",
+      "eli:number": "55",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 151b seksyen yang berikut: “Kuasa Lembaga untuk memotong syarikat Labuan 151ba. Walau apa pun apa-apa peruntukan dalam Akta ini, Lembaga boleh memotong suatu syarikat Labuan daripada daftar, jika syarikat Labuan itu— (a) gagal membayar fi tahunannya atau apa-apa amaun tambahan sebagai tambahan kepada fi tahunan dalam masa yang ditetapkan menurut seksyen 151; (b) gagal melantik setiausaha pemastautin gantian selepas peletakan jawatan bekas setiausaha pemastautin menurut subseksyen 93(2c); (c) melanggar apa-apa peruntukan Akta ini dan mana-mana undang-undang lain yang berhubungan dengan perkhidmatan kewangan Labuan; (d) menjadi suatu entiti berlesen di bawah Akta Perkhidmatan dan Sekuriti Kewangan Labuan 2010 atau Akta Perkhidmatan dan Sekuriti Kewangan Islam Labuan 2010, yang lesen, kelulusan atau pendaftarannya diserah semula atau dibatalkan oleh Lembaga; atau (e) tidak menjalankan apa-apa perniagaan atau tidak beroperasi. Notis niat untuk memotong syarikat Labuan 151bb. (1) Sebelum nama suatu syarikat Labuan boleh dipotong daripada daftar di bawah seksyen 151ba, Lembaga hendaklah menghantar suatu notis kepada syarikat Labuan menyatakan bahawa jika jawapan yang menunjukkan sebab sebaliknya tidak diterima nama syarikat Labuan itu hendaklah dipotong daripada daftar dalam masa tiga puluh hari dari tarikh notis itu atau apa-apa tempoh lanjutan sebagaimana yang diluluskan oleh Lembaga. (2) Selepas tamat tempoh yang ditetapkan dalam notis di bawah subseksyen (1) atau apa-apa tempoh lanjutan, melainkan syarikat Labuan itu memberikan sebab sehingga Lembaga berpuas hati, Lembaga boleh memotong nama syarikat Labuan itu daripada daftar. (3) Notis di bawah seksyen ini hendaklah disifatkan telah disampaikan kepada syarikat Labuan jika notis itu— (a) ditinggalkan, atau dihantar melalui pos biasa atau pos berdaftar ke alamat terakhir pejabat berdaftar atau tempat perniagaan utama berdaftar syarikat itu yang diketahui; atau (b) disampaikan secara elektronik ke alamat atau nombor yang diberikan oleh syarikat Labuan. (4) Lembaga boleh menyiarkan dalam apa-apa bentuk dan cara suatu notis pemotongan syarikat Labuan daripada daftar. (5) Bagi maksud perenggan 151ba(d), jika selepas suatu lesen, kelulusan atau pendaftaran syarikat Labuan itu diserah balik atau dibatalkan oleh Lembaga, jika syarikat itu berhasrat untuk terus menjadi sebagai suatu syarikat Labuan, syarikat Labuan itu hendaklah menukar nama dan memorandumnya dalam masa tiga puluh hari selepas penyerahan balik atau pembatalan lesen, kelulusan atau pendaftaran, atau sekiranya syarikat Labuan itu berniat untuk terus menggunakan nama dan memorandumnya, syarikat Labuan itu boleh memohon kepada Lembaga untuk kelulusan. (6) Seksyen ini tidak terpakai bagi pemotongan di bawah subseksyen 93(2c).” Pindaan seksyen 151c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_56",
+      "@type": "akn:clause",
+      "eli:number": "56",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_56__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_56__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 151c Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_56__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_56__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_56__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_56__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_56",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_56__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_56__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan memotong perkataan “atau”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_56__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_56__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c), dengan menggantikan noktah di hujung perenggan itu dengan perkataan “; atau”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_56__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_56__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (c) perenggan yang berikut: “(d) menanggung apa-apa liabiliti baharu.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_56__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_56__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_56__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_56",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_56__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_56__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perenggan (a); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_56__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_56__para_b__subpara_ii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_56__para_b__subpara_ii__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_56__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_56__para_b__subpara_ii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_56__para_b__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “Bahagian VIII dan Bahagian X” dengan perkataan “Subpenggal 3 Penggal 7 Bahagian III dan Penggal 1 dan Penggal 2 Bahagian IV”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_56__para_b__subpara_ii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_56__para_b__subpara_ii",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “Akta Syarikat 1965” dengan perkataan “Akta Syarikat 2016”. Pindaan seksyen 151d"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_57",
+      "@type": "akn:clause",
+      "eli:number": "57",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_57__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_57__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_57__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 151d Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_57__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_57",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula seksyen yang sedia ada sebagai subseksyen (1);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_57__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_57__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_57__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_57",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1) yang dinomborkan semula—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_57__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_57__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “di bawah seksyen 151” perkataan “atau seksyen 151ba”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_57__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_57__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “tiga tahun” di mana-mana jua terdapat dengan perkataan “satu tahun dan enam bulan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_57__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_57",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) yang dinomborkan semula subseksyen yang berikut: “(2) Jika suatu syarikat Labuan telah dibubarkan menurut subseksyen (1), Mahkamah boleh, pada bila- bila masa dalam tempoh enam tahun selepas tarikh pembubaran, atas permohonan daripada mana-mana orang yang pada pendapat Mahkamah mempunyai locus standi dan kepentingan yang sah dalam syarikat Labuan itu, jika Mahkamah berpuas hati bahawa pada masa pembubaran syarikat Labuan itu, syarikat Labuan itu belum menjelaskan segala hutang dan liabilitinya atau nama syarikat Labuan itu dikembalikan, membuat suatu perintah menurut terma tertentu yang mengisytiharkan pembubaran itu tidak sah, dan prosiding itu boleh dianggap seolah-olah syarikat itu tidak dibubarkan dan Mahkamah boleh melalui perintah memberi arahan dan membuat peruntukan tertentu.”. Pindaan seksyen 151e"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_58",
+      "@type": "akn:clause",
+      "eli:number": "58",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 151e Akta ibu dipinda dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “(1) Lembaga boleh mengeluarkan suatu surat pengesahan di bawah meterainya, apabila diminta oleh mana-mana syarikat amanah Labuan, pelikuidasi yang diluluskan, penerima dan pengurus, orang lain yang mempunyai kebenaran bertulis daripada pegawai syarikat, anggota, pemegang debentur, pengarah atau pelikuidasi syarikat amanah Labuan atau mana-mana orang yang boleh menunjukkan pada Lembaga bahawa dia mempunyai sebab yang baik untuk berbuat demikian, tertakluk kepada— (a) nama syarikat Labuan itu berada dalam daftar; (b) syarikat Labuan itu telah membayar semua fi dan penalti yang genap tempoh dan kena dibayar; dan (c) fi yang ditetapkan telah dibayar.”. Pindaan seksyen 152"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_59",
+      "@type": "akn:clause",
+      "eli:number": "59",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 152(1a) Akta ibu dipinda dengan menggantikan perkataan “Akta Syarikat 1965” dengan perkataan “Akta Syarikat 2016”. Pindaan seksyen 153"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 9a(2) Akta ibu dipinda dengan memasukkan selepas perkataan “Sesuatu syarikat amanah Labuan” perkataan “atau mana-mana orang lain yang diluluskan oleh Lembaga”. Pindaan seksyen 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_60",
+      "@type": "akn:clause",
+      "eli:number": "60",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_60__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_60__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_60__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 153 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_60__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_60",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “Akta Kawalan Pertukaran Wang 1953 [Akta 17] dan” dengan perkataan “Akta Perkhidmatan Kewangan 2013, Akta Perkhidmatan Kewangan Islam 2013 dan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_60__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_60",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “Akta Kawalan Pertukaran Wang 1953 dan” dengan perkataan “Akta Perkhidmatan Kewangan 2013, Akta Perkhidmatan Kewangan Islam 2013 dan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_60__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_60",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan menggantikan perkataan “Akta Kawalan Pertukaran Wang 1953” di mana-mana jua terdapat dengan perkataan “Akta Perkhidmatan Kewangan 2013, Akta Perkhidmatan Kewangan Islam 2013”. Peruntukan pengecualian dan peralihan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_61",
+      "@type": "akn:clause",
+      "eli:number": "61",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_61__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_61__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_61__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_61__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_61",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika suatu syarikat Labuan telah melantik pengarah pemastautin menurut perenggan 87(2)(a), (b) dan (c) Akta ibu, syarikat Labuan itu hendaklah mematuhi subseksyen 87(2) Akta ibu, sebagaimana yang dipinda oleh subseksyen 31(b) Akta ini, dalam tempoh enam bulan dari tarikh Akta ini mula berkuat kuasa atau apa-apa tempoh lanjutan yang diluluskan oleh Lembaga."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_61__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_61",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua syarikat amanah Labuan hendaklah mematuhi kehendak subseksyen 93(2) Akta ibu dalam tempoh enam bulan dari tarikh Akta ini mula berkuat kuasa atau apa-apa tempoh lanjutan yang diluluskan oleh Lembaga."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_61__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_61",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa siasatan, perbicaraan atau prosiding yang dilakukan, diambil atau dimulakan di bawah Akta ibu sebelum permulaan kuat kuasa Akta ini hendaklah diteruskan dan diselesaikan di bawah dan mengikut Akta ibu seolah-olah Akta ibu tidak dipinda oleh Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 10 Akta ibu dipinda dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(2a) Jika berlaku keingkaran pada mematuhi seksyen ini, orang yang ingkar melakukan suatu kesalahan di bawah Akta ini. Penalti: Satu ratus ribu ringgit.”. Pindaan seksyen 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 11 Akta ibu dipinda dengan memasukkan selepas subseksyen (5) subseksyen yang berikut: “(6) Jika berlaku keingkaran pada mematuhi seksyen ini, orang yang ingkar melakukan suatu kesalahan di bawah Akta ini. Penalti: Satu ratus ribu ringgit.”. Pindaan seksyen 12"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_9__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 12 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan memasukkan selepas perkataan “Tertakluk kepada apa-apa syarat” perkataan “dan pembayaran fi yang ditetapkan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/5/msa@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (4) subseksyen yang berikut: “(4 a) Jika berlaku keingkaran pada mematuhi seksyen ini, orang yang ingkar melakukan suatu kesalahan di bawah Akta ini. Penalti: Lima puluh ribu ringgit atau pemenjaraan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.”. Pindaan seksyen 13"
+      }
+    }
+  ]
+}

@@ -4,33 +4,45 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement
 
-## Part II
+## PART II
 
 ## PARLIAMENTARY SERVICE AND PARLIAMENTARY SERVICE COUNCIL
 
-2. Parliamentary Service 3. Parliamentary Service Council 4. Functions and powers of Parliamentary Service Council 5. Meetings
+2. Parliamentary Service
 
-## Part III
+3. Parliamentary Service Council
+
+4. Functions and powers of Parliamentary Service Council
+
+5. Meetings
+
+## PART III
 
 ## CLERK OF SENATE AND CLERK OF HOUSE OF REPRESENTATIVES
 
 6. Clerk of Senate and Clerk of House of Representatives
 
-## Part IV
+## PART IV
 
 ## COMMITTEES
 
-7. Parliamentary Service Promotion Committee 8. Parliamentary Service Disciplinary Committee 9. Parliamentary Service Appeal Committee 10. Parliamentary Service Council may establish committee
+7. Parliamentary Service Promotion Committee
+
+8. Parliamentary Service Disciplinary Committee
+
+9. Parliamentary Service Appeal Committee
+
+10. Parliamentary Service Council may establish committee
 
 <!-- page 3 -->
 
-## Part V
+## PART V
 
 ## ADMINISTRATION AND FINANCE
 
@@ -40,7 +52,7 @@
 
 13. Remuneration
 
-## Part VI
+## PART VI
 
 ## GENERAL
 
@@ -66,7 +78,7 @@ An Act to provide for the establishment of the Parliamentary Service and the Par
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -76,7 +88,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (2) This Act comes into operation on a date to be appointed by the Yang di-Pertuan Agong by notification in the Gazette.
 
-## Part II
+## PART II
 
 ## PARLIAMENTARY SERVICE AND
 
@@ -166,7 +178,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 8 -->
 
-## Part III
+## PART III
 
 ## CLERK OF SENATE AND
 
@@ -180,7 +192,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (3) The Yang di-Pertuan Agong may, after consultation with the Parliamentary Service Council, prescribe the qualifications for appointment and conditions of service of the Clerk to the Senate and the Clerk to the House of Representatives.
 
-## Part IV
+## PART IV
 
 ## COMMITTEES
 
@@ -290,7 +302,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 13 -->
 
-## Part V
+## PART V
 
 ## ADMINISTRATION AND FINANCE
 
@@ -318,7 +330,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 14 -->
 
-## Part VI
+## PART VI
 
 ## GENERAL
 
@@ -376,7 +388,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 This Bill (“the proposed Act”) seeks to provide for the establishment of the Parliamentary Service and the Parliamentary Service Council, administration of the Parliamentary Service and other related matters.
 
-## Part I
+## PART I
 
 2. Part I of the proposed Act deals with the preliminary matters.
 
@@ -384,7 +396,7 @@ This Bill (“the proposed Act”) seeks to provide for the establishment of the
 
 <!-- page 17 -->
 
-## Part II
+## PART II
 
 4. Part II of the proposed Act deals with provisions relating to the Parliamentary Service and the Parliamentary Service Council.
 
@@ -396,13 +408,13 @@ This Bill (“the proposed Act”) seeks to provide for the establishment of the
 
 8. Clause 5 seeks to provide for matters relating to meetings of the Parliamentary Service Council.
 
-## Part III
+## PART III
 
 9. Part III of the proposed Act deals with the provisions relating to the Clerk to the Senate and the Clerk to the House of Representatives.
 
 10. Clause 6 seeks to provide that the Clerk to the Senate and the Clerk to the House of Representatives shall be under the directions and control of the President of the Senate and the Speaker of the House of Representatives. This clause also seeks to provide for the Yang di-Pertuan Agong to prescribe the qualifications for appointment and conditions of service of the Clerk to the Senate and the Clerk to the House of Representatives after consultation with the Parliamentary Service Council.
 
-## Part IV
+## PART IV
 
 11. Part IV of the proposed Act deals with the provisions relating to the establishment of committees under the Parliamentary Service.
 
@@ -416,7 +428,7 @@ This Bill (“the proposed Act”) seeks to provide for the establishment of the
 
 15. Clause 10 seeks to provide that the Parliamentary Service Council may establish any committee as the Parliamentary Service Council considers necessary or expedient to assist the Parliamentary Service Council in the performance of its functions.
 
-## Part V
+## PART V
 
 16. Part V of the proposed Act deals with the provisions relating to the administration and finance of the Parliamentary Service.
 
@@ -426,7 +438,7 @@ This Bill (“the proposed Act”) seeks to provide for the establishment of the
 
 19. Clause 13 seeks to provide for the remuneration and other benefits to the members of the Parliamentary Service.
 
-## Part VI
+## PART VI
 
 20. Part VI of the proposed Act deals with general provisions.
 

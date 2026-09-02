@@ -160,7 +160,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 7 -->
 
-### Amendment of section 6
+<!-- marginal: Amendment of section 6 -->
 
 7. Section 6 of the principal Act is amended—
 
@@ -178,7 +178,11 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (c)(ii); and
 
-(iv) by inserting after paragraph (d) the following paragraphs: “
+(iv) by inserting after paragraph (d) the following
+
+<!-- marginal: paragraphs: -->
+
+“
 
 (e) an interior design consultancy practice whose registration has been—
 
@@ -278,37 +282,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (iv) the day-to-day affairs of the body corporate shall be under the control and management of a person who—
 
-(A)
+(A) is an Architect; and
 
-<!-- marginal: is an Architect; and -->
-
-(B)
-
-<!-- marginal: is authorized under -->
-
-<!-- marginal: a resolution of the board -->
-
-<!-- marginal: of directors of the body -->
-
-<!-- marginal: corporate to make all final -->
-
-<!-- marginal: architectural decisions -->
-
-<!-- marginal: on behalf of the body -->
-
-<!-- marginal: corporate in respect of the -->
-
-<!-- marginal: requirements under this -->
-
-<!-- marginal: Act or any other law -->
-
-<!-- marginal: relating to the supply of -->
-
-<!-- marginal: architectural consultancy -->
-
-<!-- marginal: services by the body -->
-
-<!-- marginal: corporate.”; -->
+(B) is authorized under a resolution of the board of directors of the body corporate to make all final architectural decisions on behalf of the body corporate in respect of the requirements under this Act or any other law relating to the supply of architectural consultancy services by the body corporate.”;
 
 (c) in subsection (4), by inserting after the words “the change” the words “and obtain the Board’s approval on the latest composition or type of architectural consultancy practice”;
 
@@ -374,11 +350,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (B) in subparagraph (i)—
 
-(aa) by substituting for the words “, registered”
-
-<!-- marginal: the words -->
-
-“with Practising Certificates, Consultant”;
+(aa) by substituting for the words “, registered” the words “with Practising Certificates, Consultant”;
 
 (ab) by deleting the words “and/” wherever appearing; and
 
@@ -386,7 +358,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (d) in subsection (3)—
 
-(a) in paragraph (a), by deleting the words “and/”; and
+(a) in paragraph (a), by deleting the words “and/”;
+
+<!-- marginal: and -->
 
 (b) in paragraph (b)—
 
@@ -764,7 +738,9 @@ shall be entitled on application to be registered as an Interior Designer.
 
 (D) health and safety issues.”;
 
-(b) in subparagraph (3)(c)(i), by deleting the words “and/”; and
+(b) in subparagraph (3)(c)(i), by deleting the words “and/”;
+
+<!-- marginal: and -->
 
 <!-- page 26 -->
 
@@ -1010,7 +986,7 @@ shall order the Registrar to issue a certificate of registration to the Inspecto
 
 27s. An Inspector of Works whose name has been removed from the Register of Inspectors of Works shall, within fourteen days after notification of the removal to the Inspector of Works by registered post, return to the Board the certificate of registration issued to him.
 
-## part VC
+## PART VC
 
 ## SPECIAL PROVISIONS RELATING TO ARCHITECTURAL
 

@@ -28,7 +28,7 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/eng@/~cl_1",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/eng@/~cl_2",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/eng@/~cl_3",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/eng@/~part_II"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/eng@/~cl_4"
       ],
       "schema:name": {
         "@language": "en",
@@ -72,7 +72,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "The Human Rights Commission of Malaysia Act 1999 [Act 597], which is referred to as “the principal Act” in this Act, is amended by substituting for section 5 the following section: “Members of the Commission and term of office 5. (1) The Commission shall consist of not more than twenty members. (2) The members of the Commission shall be appointed by the Yang di-Pertuan Agong on recommendation of the Prime Minister who shall, before tendering his advice, consult the committee referred to in section 11A. (3) The members of the Commission shall be appointed from amongst men and women of various religious, political and racial backgrounds who have knowledge of, or practical experience in, human rights matters. (4) A member of the Commission shall hold office for a period of three years and is eligible for reappointment once for another period of three years. (5) The Prime Minister may determine suitable mechanisms, including appropriate indicators, to assess the performance of the members of the Commission in carrying out their functions and duties under this Act. (6) Such assessment shall consideration– (a) by the Prime Minister before tendering his advice to the Yang di-Pertuan Agong for the reappointment of any member of Commission under subsection (4); and (b) for the removal of any member of the Commission under section 10.”. New section 11A"
+        "@value": "The Human Rights Commission of Malaysia Act 1999 [Act 597], which is referred to as “the principal Act” in this Act, is amended by substituting for section 5 the following section: “Members of the Commission and term of office 5. (1) The Commission shall consist of not more than twenty members. (2) The members of the Commission shall be appointed by the Yang di-Pertuan Agong on recommendation of the Prime Minister who shall, before tendering his advice, consult the committee referred to in section 11A. (3) The members of the Commission shall be appointed from amongst men and women of various religious, political and racial backgrounds who have knowledge of, or practical experience in, human rights matters. (4) A member of the Commission shall hold office for a period of three years and is eligible for reappointment once for another period of three years. (5) The Prime Minister may determine suitable mechanisms, including appropriate key performance indicators, to assess the performance of the members of the Commission in carrying out their functions and duties under this Act. (6) Such assessment shall consideration– (a) by the Prime Minister before tendering his advice to the Yang di-Pertuan Agong for the reappointment of any member of Commission under subsection (4); and (b) for the removal of any member of the Commission under section 10.”. New section 11A"
       }
     },
     {
@@ -80,75 +80,60 @@
       "@type": "akn:clause",
       "eli:number": "3",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/eng@",
-      "schema:name": {
-        "@language": "en",
-        "@value": "The principal Act is amended by inserting after section 11 in"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/eng@/~part_II",
-      "@type": "akn:part",
-      "eli:number": "II",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/eng@/~part_II__cl_4",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/eng@",
-      "schema:name": {
-        "@language": "en",
-        "@value": "the following section:"
-      },
       "schema:text": {
         "@language": "en",
-        "@value": "“Committee to be consulted with regard to appointment 11A. (1) For the purpose of subsection 5(2), there is established a committee consisting of the following persons: (a) the Chief Secretary to the Government who shall be the Chairman; (b) the Chairman of the Commission; and (c) three other members, from amongst eminent persons, to be appointed by the Prime Minister. (2) The members of the committee referred to in subsection (1) shall serve the committee for such period and on such terms and conditions as may be specified in the instrument of appointment. (3) The members of the committee referred to in paragraph (1)(c) may include former judges and former members of the Commission. (4) The following persons shall not be appointed as members of the committee under paragraph (1)(c): (a) any person who is actively involved in politics and registered with any political party; and (b) any person who is or was an enforcement officer. (5) The committee may determine the conduct of its own proceedings. (6) Any opinion, view or recommendation of the committee upon consultation by the Prime Minister under subsection 5(2) shall not be binding on the Prime Minister. (7) For the purpose of this section, “enforcement officer” means an officer of – (a) any Ministry, Department, Agency or any other body set up by Government, including a unit, section, division, department or agency of such Ministry, Department, Agency or body, conferred with enforcement functions by any written law or having enforcement powers; (b) a body established by a Federal law which is conferred with enforcement functions by that Federal law or any other written law; agency of a body established by Federal law having enforcement functions; or (d) the joint service established under Article 133 of the Federal Constitution who is performing enforcement functions. ”. Savings and transitional"
+        "@value": "The principal Act is amended by inserting after section 11 in Part II the following section: “Committee to be consulted with regard to appointment 11A. (1) For the purpose of subsection 5(2), there is established a committee consisting of the following persons: (a) the Chief Secretary to the Government who shall be the Chairman; (b) the Chairman of the Commission; and (c) three other members, from amongst eminent persons, to be appointed by the Prime Minister. (2) The members of the committee referred to in subsection (1) shall serve the committee for such period and on such terms and conditions as may be specified in the instrument of appointment. (3) The members of the committee referred to in paragraph (1)(c) may include former judges and former members of the Commission. (4) The following persons shall not be appointed as members of the committee under paragraph (1)(c): (a) any person who is actively involved in politics and registered with any political party; and (b) any person who is or was an enforcement officer. (5) The committee may determine the conduct of its own proceedings. (6) Any opinion, view or recommendation of the committee upon consultation by the Prime Minister under subsection 5(2) shall not be binding on the Prime Minister. (7) For the purpose of this section, “enforcement officer” means an officer of – (a) any Ministry, Department, Agency or any other body set up by Government, including a unit, section, division, department or agency of such Ministry, Department, Agency or body, conferred with enforcement functions by any written law or having enforcement powers; (b) a body established by a Federal law which is conferred with enforcement functions by that Federal law or any other written law; agency of a body established by Federal law having enforcement functions; or (d) the joint service established under Article 133 of the Federal Constitution who is performing enforcement functions. ”. Savings and transitional"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/eng@/~part_II__cl_4",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/eng@/~cl_4",
       "@type": "akn:clause",
       "eli:number": "4",
       "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/eng@/~part_II__cl_4__subsec_1",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/eng@/~part_II__cl_4__subsec_2"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/eng@/~cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/eng@/~cl_4__subsec_2"
       ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/eng@/~part_II"
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/eng@"
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/eng@/~part_II__cl_4__subsec_1",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/eng@/~cl_4__subsec_1",
       "@type": "akn:subsection",
       "eli:number": "1",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/eng@/~part_II__cl_4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/eng@/~cl_4",
       "schema:text": {
         "@language": "en",
         "@value": "Notwithstanding subsection 5(4) of the principal Act as introduced by this Act, a member of the Commission who was appointed or reappointed before the coming into operation of this Act and who has not completed his term of office immediately before the coming into operation of this Act, may continue to hold office for the remainder of his term of office."
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/eng@/~part_II__cl_4__subsec_2",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/eng@/~cl_4__subsec_2",
       "@type": "akn:subsection",
       "eli:number": "2",
       "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/eng@/~part_II__cl_4__subsec_2__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/eng@/~part_II__cl_4__subsec_2__para_b"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/eng@/~cl_4__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/eng@/~cl_4__subsec_2__para_b"
       ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/eng@/~part_II__cl_4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/eng@/~cl_4",
       "schema:text": {
         "@language": "en",
         "@value": "Notwithstanding subsection 5(4) of the principal Act as introduced by this Act –"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/eng@/~part_II__cl_4__subsec_2__para_a",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/eng@/~cl_4__subsec_2__para_a",
       "@type": "akn:paragraph",
       "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/eng@/~part_II__cl_4__subsec_2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/eng@/~cl_4__subsec_2",
       "schema:text": {
         "@language": "en",
         "@value": "a member of the Commission who was appointed for the first time before the coming into operation of this Act and is holding office at the time of the coming into operation of this Act is eligible to be reappointed once for a period of three years under subsection 5(4) of the principal Act as introduced by this Act upon the expiry of his term of office;"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/eng@/~part_II__cl_4__subsec_2__para_b",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/eng@/~cl_4__subsec_2__para_b",
       "@type": "akn:paragraph",
       "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/eng@/~part_II__cl_4__subsec_2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/eng@/~cl_4__subsec_2",
       "schema:text": {
         "@language": "en",
         "@value": "a member of the Commission who has been reappointed before the coming into operation of this Act is not eligible to be reappointed under subsection 5(4) of the principal Act as introduced by this Act upon the expiry of his term of office under the reappointment. ____________________"

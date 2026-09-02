@@ -56,17 +56,31 @@ amended—
 
 (b) any person licensed under this Act to establish, maintain or work a telecommunication;'.
 
-Amendment
+<!-- marginal: Amendment -->
 
-3. Section 3 of the principal Act is amended by inserting, of section 3. immediately after the words "Land Authority" in subsection (3), the words "to be obtained by the licensee".
+3. Section 3 of the principal Act is amended by inserting,
 
-Amendment
+<!-- marginal: of section 3. -->
 
-4. Section 3B of the principal Act is amended by inserting, of section 3B. immediately after the words "geostationary-satellite orbit" in paragraph (c) of subsection (1), the words ", satellites in that orbit and the services utilizing it".
+immediately after the words "Land Authority" in subsection (3), the words "to be obtained by the licensee".
 
-New
+<!-- marginal: Amendment -->
 
-5. The principal Act is amended by inserting, section 3c. immediately after section 3B, the following new section 3c:
+4. Section 3B of the principal Act is amended by inserting,
+
+<!-- marginal: of section 3B. -->
+
+immediately after the words "geostationary-satellite orbit" in paragraph (c) of subsection (1), the words ", satellites in that orbit and the services utilizing it".
+
+<!-- marginal: New -->
+
+5. The principal Act is amended by
+
+<!-- marginal: inserting, -->
+
+<!-- marginal: section 3c. -->
+
+immediately after section 3B, the following new section 3c:
 
 "Director 3c. (1) The Director General may, in writing, General may delegate to any authorized telecommunication delegate. officer, subject to such conditions and
 
@@ -80,9 +94,11 @@ Provided that any delegation under this section shall not prevent the Director G
 
 (2).".
 
-Amendment
+<!-- marginal: Amendment -->
 
-6. Section 7 of the principal Act is amended— of section 7.
+6. Section 7 of the principal Act is amended—
+
+<!-- marginal: of section 7. -->
 
 (a) in subsection (1) by inserting, immediately after the word "control", the words ", sale, installation and maintenance"; and
 
@@ -96,35 +112,55 @@ Amendment
 
 (ii) by renumbering the existing paragraphs (v) and (vi) as paragraphs (vii) and (viii) respectively.
 
-Amendment
+<!-- marginal: Amendment -->
 
-7. Part III of the principal Act, except sections 10(1) and of Part III. 18, is amended by inserting, immediately after the word "line" or "lines" wherever it appears, the word ", equipment".
+7. Part III of the principal Act, except sections 10(1) and
+
+<!-- marginal: of Part III. -->
+
+18, is amended by inserting, immediately after the word "line" or "lines" wherever it appears, the word ", equipment".
 
 <!-- page 4 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-8. Section 10 (1) of the principal Act is amended— of section 10.
+8. Section 10 (1) of the principal Act is amended—
+
+<!-- marginal: of section 10. -->
 
 (a) by inserting, immediately after the word "line", the word "or equipment"; and
 
 (b) by inserting, immediately after the words "across, and", the words "telecommunication equipment or".
 
-Amendment
+<!-- marginal: Amendment -->
 
-9. Section 21 of the principal Act is amended by of section 21. substituting for the words "five hundred" in line six, the words "one hundred thousand"; and for the words "five hundred" in line seven, the words "ten thousand".
+9. Section 21 of the principal Act is amended by
 
-Amendment
+<!-- marginal: of section 21. -->
 
-10. Section 22 of the principal Act is amended by of section 22. substituting for the words "twenty-five" the words "five thousand".
+substituting for the words "five hundred" in line six, the words "one hundred thousand"; and for the words "five hundred" in line seven, the words "ten thousand".
 
-Amendment
+<!-- marginal: Amendment -->
 
-11. Section 23 of the principal Act is amended by of section 23. substituting for the words "two hundred" the words "ten thousand".
+10. Section 22 of the principal Act is amended by
 
-Amendment
+<!-- marginal: of section 22. -->
 
-12. Section 25 of the principal Act is amended— of section 25.
+substituting for the words "twenty-five" the words "five thousand".
+
+<!-- marginal: Amendment -->
+
+11. Section 23 of the principal Act is amended by
+
+<!-- marginal: of section 23. -->
+
+substituting for the words "two hundred" the words "ten thousand".
+
+<!-- marginal: Amendment -->
+
+12. Section 25 of the principal Act is amended—
+
+<!-- marginal: of section 25. -->
 
 (a) by deleting the word "or" after the word "message;" in paragraph (b);
 
@@ -136,57 +172,97 @@ Amendment
 
 (d) by substituting for the words "two thousand" the words "twenty thousand".
 
-Amendment
+<!-- marginal: Amendment -->
 
-13. Section 26 of the principal Act is amended by of section 26. substituting for the words "three hundred" the words "ten thousand".
+13. Section 26 of the principal Act is amended by
+
+<!-- marginal: of section 26. -->
+
+substituting for the words "three hundred" the words "ten thousand".
 
 <!-- page 5 -->
 
-14. Section 27 of the principal Act is amended by Amendment of section 27. substituting for the words "three hundred" the words "ten thousand".
+14. Section 27 of the principal Act is amended by
 
-Amendment
+<!-- marginal: Amendment -->
 
-15. Section 28 of the principal Act is amended by of section 28. substituting for the word "fifty" the words "five thousand" and for the word "three" the word "six".
+<!-- marginal: of section 27. -->
 
-Amendment
+substituting for the words "three hundred" the words "ten thousand".
 
-16. Section 29 of the principal Act is amended by of section 29. substituting for the words "three hundred" the words "ten thousand".
+<!-- marginal: Amendment -->
 
-Amendment
+15. Section 28 of the principal Act is amended by
 
-17. Section 30 of the principal Act is amended by of section30. substituting for the words "two hundred" the words "ten thousand".
+<!-- marginal: of section 28. -->
 
-Amendment
+substituting for the word "fifty" the words "five thousand" and for the word "three" the word "six".
 
-18. Section 31 of the principal Act is amended by of section 31. substituting for the words "five hundred" the words "ten thousand"; and for the words "three months" the words "one year".
+<!-- marginal: Amendment -->
 
-New
+16. Section 29 of the principal Act is amended by
 
-19. The principal Act is amended by inserting, sections 3lA immediately after section 31, the following new sections and 31B. 3lA and 31B:
+<!-- marginal: of section 29. -->
 
-"Search by
+substituting for the words "three hundred" the words "ten thousand".
 
-31A. If a Magistrate is satisfied by information warrant on oath that there is reasonable cause to believe that a telecommunication has been established, maintained or worked otherwise than as permitted under section 3 or that any other offence under this Part has been committed, he may grant a search warrant to an authorized telecommunication officer to enter and inspect the premises in respect of which there is reasonable cause to believe that the offence has been committed, and to seize any apparatus or equipment used for or in connection with telecommunication which appears to him to be used or intended to be used for the commission of the offence, and may detain any person, found in such premises until such premises have been searched.
+<!-- marginal: Amendment -->
 
-Search
+17. Section 30 of the principal Act is amended by
 
-3IB. Whenever it appears to an authorized without telecommunication officer that there is warrant. reasonable cause to believe that in any premises
+<!-- marginal: of section30. -->
+
+substituting for the words "two hundred" the words "ten thousand".
+
+<!-- marginal: Amendment -->
+
+18. Section 31 of the principal Act is amended by
+
+<!-- marginal: of section 31. -->
+
+substituting for the words "five hundred" the words "ten thousand"; and for the words "three months" the words "one year".
+
+<!-- marginal: New -->
+
+19. The principal Act is amended by inserting,
+
+<!-- marginal: sections 3lA -->
+
+immediately after section 31, the following new sections
+
+<!-- marginal: and 31B. -->
+
+3lA and 31B:
+
+"Search by 31A. If a Magistrate is satisfied by information warrant on oath that there is reasonable cause to believe that a telecommunication has been established, maintained or worked otherwise than as permitted under section 3 or that any other offence under this Part has been committed, he may grant a search warrant to an authorized telecommunication officer to enter and inspect the premises in respect of which there is reasonable cause to believe that the offence has been committed, and to seize any apparatus or equipment used for or in connection with telecommunication which appears to him to be used or intended to be used for the commission of the offence, and may detain any person, found in such premises until such premises have been searched.
+
+Search 3IB. Whenever it appears to an authorized without telecommunication officer that there
+
+<!-- marginal: is -->
+
+warrant. reasonable cause to believe that in any premises
 
 <!-- page 6 -->
 
-6
+<!-- marginal: 6 -->
 
 ## BILL
 
 there is concealed or deposited any apparatus or equipment used or intended to be used to establish, maintain or work a telecommunication in contravention of section 3 or to commit an offence under this Part, and the authorized telecommunication officer has reasonable grounds for believing that by reason of delay in obtaining a search warrant under section 3lA any such apparatus or equipment is likely to be removed or destroyed, the authorized telecommunication officer may enter and search such premises without a warrant and seize any such apparatus or equipment found therein and may detain any person found in such premises.".
 
-Deletion of
+<!-- marginal: Deletion of -->
 
-20. The principal Act is amended by deleting section 33A. section 33 A.
+20. The principal Act is amended by deleting section 33A.
 
-Amendment
+<!-- marginal: section 33 A. -->
 
-21. Section 35 of the principal Act is amended by of section 35. substituting for subsection (1) the following new subsection (1):
+<!-- marginal: Amendment -->
+
+21. Section 35 of the principal Act is amended by
+
+<!-- marginal: of section 35. -->
+
+substituting for subsection (1) the following new subsection (1):
 
 '(1) In this Part —
 
@@ -194,7 +270,11 @@ Amendment
 
 "local vessel" means any ship registered in a port of Malaysia, or any vessel licensed to be used in the tidal waters of Malaysia, or any unlicensed vessel habitually kept in Malaysia or the territorial waters thereof;
 
-"radio broadcast receiver" has the same meaning as is assigned to it under the Act 338 Broadcasting Act 1988;
+"radio broadcast receiver" has the same meaning as is assigned to it under the
+
+<!-- marginal: Act 338 -->
+
+Broadcasting Act 1988;
 
 "radiocommunicalion" means any tele- communication by means of radio or Hertzian waves;
 
@@ -220,11 +300,11 @@ Amendment
 
 (b) by inserting, below subsection (1), the following new proviso to that subsection:
 
-"Provided that any person licensed under
+"Provided that any person licensed under Part IV of the Broadcasting Act 1988 to install,
 
-## Part IV of the Broadcasting Act 1988 to install,
+<!-- marginal: Act 338 -->
 
-Act 338 work or deal in radio broadcast receiver or television broadcast receiver or any person exempted under section 15 of that Act shall not be required to obtain a licence under section 37 to install, work or deal in such radio broadcast receiver or television broadcast receiver.".
+work or deal in radio broadcast receiver or television broadcast receiver or any person exempted under section 15 of that Act shall not be required to obtain a licence under section 37 to install, work or deal in such radio broadcast receiver or television broadcast receiver.".
 
 <!-- marginal: New -->
 
@@ -232,7 +312,9 @@ Act 338 work or deal in radio broadcast receiver or television broadcast receive
 
 <!-- marginal: section 38A. -->
 
-immediately after section 38, the following new section 38A:
+immediately after section 38, the following new section
+
+<!-- marginal: 38A: -->
 
 "Exemption. 38A.The Minister may exempt, subject to such conditions as he may impose, any person from the operation of section 38 if such person has been issued a licence for the installation or working of any radiocommunication apparatus under the provisions of any law in force in any country which is a party to a treaty to which Malaysia is also a party and which recognizes
 
@@ -240,9 +322,11 @@ immediately after section 38, the following new section 38A:
 
 licences issued under any law in force in Malaysia for the installation or working of any radiocommunication apparatus.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-24. Section 39 of the principal Act is amended— of section 39.
+24. Section 39 of the principal Act is amended—
+
+<!-- marginal: of section 39. -->
 
 (a) by substituting for the word "three" in subsection (1) the words "one hundred"; and for the words "twelve months" the words "three years";
 
@@ -250,17 +334,27 @@ Amendment
 
 (c) by inserting, after the words "A police officer" in subsection (3), the words "or an authorized telecommunication officer".
 
-New
+<!-- marginal: New -->
 
-25. The principal Act is amended by inserting, section 39A. immediately after section 39, the following new section 39A: "Search 39A. Whenever it appears to an authorized without telecommunication officer that there
+25. The principal Act is amended by inserting,
+
+<!-- marginal: section 39A. -->
+
+immediately after section 39, the following new section 39A: "Search 39A. Whenever it appears to an authorized without telecommunication officer that
+
+<!-- marginal: there -->
 
 <!-- marginal: is -->
 
 warrant. reasonable cause to believe that in any premises there is established a radiocommunication station without a valid licence or there is installed or worked any radiocommunication apparatus or equipment or there is concealed or deposited any radiocommunication apparatus or equipment used or intended to be used to establish, install, maintain or work a radiocommunication in contravention of this Part, and the authorized telecommunication officer has reasonable ground for believing that by reason of delay in obtaining a search warrant under section 39 (2) any such station, apparatus or equipment is likely to be removed or destroyed, the authorized telecommunication officer may enter and search such premises without a warrant and seize any such apparatus or equipment found therein and may detain any person found in such premises.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-26. Subsection (1) of section 40 of the principal Act is of section 40. amended—
+26. Subsection (1) of section 40 of the principal Act is
+
+<!-- marginal: of section 40. -->
+
+amended—
 
 (a) by inserting, immediately after the word "the" in paragraph (d), the word "standards,";
 
@@ -268,11 +362,9 @@ Amendment
 
 (b) by deleting the words ", British" in paragraph
 
-(f);
+### (f);
 
-(c) by deleting the words ", British" in paragraph
-
-(8);
+(c) by deleting the words ", British" in paragraph (8);
 
 (d) by inserting, immediately after paragraph (g), the following new paragraphs (ga) and (gb):
 
@@ -286,23 +378,41 @@ Amendment
 
 "(ja) ensuring that any radiocommunication propagation path is not obstructed, and prescribing, in consultation with the appropriate Ministers, the removal of such obstruction;".
 
-27. The principal Act is amended by inserting, New Part VI. immediately after section 43, the following new Part VI:
+27. The principal Act is amended by inserting,
+
+<!-- marginal: New Part VI. -->
+
+immediately after section 43, the following new Part VI:
 
 ## "PART VI
 
 ## ENFORCEMENT
 
-Sealing of
-
-44. Where it appears to any authorized apparatus or telecommunication officer that it is not equipment. practicable to remove from where it is found any apparatus or equipment seized by him in the
+Sealing of 44. Where it appears to any authorized apparatus or telecommunication officer that it is not equipment. practicable to remove from where it is found any apparatus or equipment seized by him in the
 
 <!-- page 10 -->
 
 exercise of his powers under this Act, by reason of its nature, size or amount, he may by any means seal such apparatus or equipment and it shall be an offence for any person without lawful authority to break, tamper with or damage such seal or remove such apparatus or equipment or to attempt so to do and such person shall, on conviction, be liable to a fine not exceeding three thousand ringgit or to imprisonment for a term not exceeding one year or to both.
 
-Obstruction 45. Any person who assaults, hinders, impedes, to search. obstructs, or refuses access to any premises to, any authorized telecommunication officer in the performance of his duties under this Act or any regulation made thereunder shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding three thousand ringgit or to imprisonment for a term not exceeding one year or to both.
+<!-- marginal: Obstruction -->
 
-Powers of 46. (1) Subject to this section, any authorized investi- telecommunication officer shall have the power gation. to investigate the commission of any offence under this Act or any regulation made thereunder.
+45. Any person who assaults, hinders, impedes,
+
+<!-- marginal: to search. -->
+
+obstructs, or refuses access to any premises to, any authorized telecommunication officer in the performance of his duties under this Act or any regulation made thereunder shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding three thousand ringgit or to imprisonment for a term not exceeding one year or to both.
+
+<!-- marginal: Powers of -->
+
+46. (1) Subject to this section, any authorized
+
+<!-- marginal: investi- -->
+
+telecommunication officer shall have the power
+
+<!-- marginal: gation. -->
+
+to investigate the commission of any offence under this Act or any regulation made thereunder.
 
 (2) No authorized telecommunication officer shall enter any premises or effect any arrest or detention of any person without a warrant except in accordance with this Act.
 
@@ -314,9 +424,17 @@ Powers of 46. (1) Subject to this section, any authorized investi- telecommunica
 
 (5) No person who has been arrested by an authorized telecommunication officer shall be released except on his own bond or on bail or under a special order in writing by a Magistrate.
 
-Power to
+<!-- marginal: Power to -->
 
-47. (1) An authorized telecommunication examine officer carrying out an investigation under witnesses. section 46 may examine orally any person supposed to be acquainted with the facts and circumstances of the case.
+47. (1) An authorized telecommunication
+
+<!-- marginal: examine -->
+
+officer carrying out an investigation under
+
+<!-- marginal: witnesses. -->
+
+section 46 may examine orally any person supposed to be acquainted with the facts and circumstances of the case.
 
 (2) Such person shall be bound to answer all questions relating to the case put to him by such officer:
 
@@ -328,11 +446,23 @@ Provided that such person may refuse to answer any question if such officer fail
 
 (5) A statement made by any person under this section shall, whenever possible, be reduced into writing and, after it has been read to the person in the language in which he made it and he has been given an opportunity to make any corrections he may wish, shall be signed by him or affixed with his thumbprint.
 
-Offence for
+<!-- marginal: Offence for -->
 
-48. Any person who— giving false and
+48. Any person who—
 
-(a) subject to the proviso to section 47 (2), misleading refuses to give to any authorized statements telecommunication officer any
+<!-- marginal: giving -->
+
+<!-- marginal: false and -->
+
+(a) subject to the proviso to section 47 (2),
+
+<!-- marginal: misleading -->
+
+refuses to give to any authorized
+
+<!-- marginal: statements -->
+
+telecommunication officer any
 
 <!-- page 12 -->
 
@@ -342,9 +472,17 @@ information relating to an offence under this Act or any regulation made thereun
 
 shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding three thousand ringgit or to imprisonment for a term not exceeding one year or to both.
 
-Conduct of 49. Every authorized telecommunication prosecution. officer shall have the authority to appear in court and conduct any prosecution in respect of any offence against this Act or any regulation made thereunder.
+<!-- marginal: Conduct of -->
 
-Forfeiture. 50. (1) Any apparatus or equipment seized pursuant to this Act shall be liable to forfeiture.
+49. Every authorized telecommunication
+
+<!-- marginal: prosecution. -->
+
+officer shall have the authority to appear in court and conduct any prosecution in respect of any offence against this Act or any regulation made thereunder.
+
+<!-- marginal: Forfeiture. -->
+
+50. (1) Any apparatus or equipment seized pursuant to this Act shall be liable to forfeiture.
 
 (2) An order for the forfeiture or for the release of any apparatus or equipment liable to forfeiture under the provisions of this section shall be made by the court before which the prosecution with regard thereto has been held and an order for the forfeiture of the apparatus or equipment shall be made if it is proved to the satisfaction of the court that an offence under this Act or any regulation made thereunder or any breach of the restrictions or conditions subject to which any licence has been granted has been committed and that the apparatus or equipment was used in the commission of the offence notwithstanding that no person may have been convicted of such offence or breach.
 
@@ -364,9 +502,27 @@ Act and that the same is not liable to forfeiture may personally or by his agent
 
 (7) Any apparatus or equipment forfeited or deemed to be forfeited shall be delivered to the Director General or any authorized telecommunication officer who shall dispose of it in such manner as the Director General deems fit.
 
-Protection
+<!-- marginal: Protection -->
 
-51. No action or prosecution shall be brought, of autho- instituted or maintained in any court against any rized authorized telecommunication officer on telecommu- nication account of or in respect of any act ordered or officers. done for the purposes of carrying into effect this Act and no suit or prosecution shall lie in any court against any other person for or on account of or in respect of any act done or purporting to have been done by him under any order, direction
+51. No action or prosecution shall be brought,
+
+<!-- marginal: of autho- -->
+
+instituted or maintained in any court against any
+
+<!-- marginal: rized -->
+
+authorized telecommunication officer on
+
+<!-- marginal: telecommu- -->
+
+<!-- marginal: nication -->
+
+account of or in respect of any act ordered or
+
+<!-- marginal: officers. -->
+
+done for the purposes of carrying into effect this Act and no suit or prosecution shall lie in any court against any other person for or on account of or in respect of any act done or purporting to have been done by him under any order, direction
 
 <!-- page 14 -->
 
@@ -374,9 +530,13 @@ or instruction of any authorized telecommunication officer given for any such pu
 
 Provided that the act was done in good faith and in reasonable belief that it was necessary for the purpose intended to be served thereby.".
 
-General
+<!-- marginal: General -->
 
-28. The principal Act is amended by substituting for the amendment. word "dollars" wherever it appears the word "ringgit".
+28. The principal Act is amended by substituting for the
+
+<!-- marginal: amendment. -->
+
+word "dollars" wherever it appears the word "ringgit".
 
 ## EXPLANATORY STATEMENT
 

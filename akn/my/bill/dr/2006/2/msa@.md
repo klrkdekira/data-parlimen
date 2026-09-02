@@ -22,13 +22,23 @@ D.R. 2/2006
 
 5. Anggota Lembaga 6. Tempoh jawatan 7. Pembatalan dan peletakan jawatan 8. Pcngosongan jawatan 9. Kctua Pegawai Eksekutif
 
-10. Jawatankuasa 11. Penzahiran kepentingan 12. Pelantikan pegawai dan pekhidmat Lembaga 13. Kuasa Menteri untuk memberikan arahan dan meminta maklumat
+10. Jawatankuasa
+
+11. Penzahiran kepentingan
+
+12. Pelantikan pegawai dan pekhidmat Lembaga
+
+13. Kuasa Menteri untuk memberikan arahan dan meminta maklumat
 
 ## BAHAGIAN III
 
 ## OBJEKTIF, FUNGSI DAN KUASA LEMBAGA
 
-14. Objcktif Lembaga 15. Fungsi Lembaga 16. Kuasa Lembaga
+14. Objcktif Lembaga
+
+15. Fungsi Lembaga
+
+16. Kuasa Lembaga
 
 <!-- page 2 -->
 
@@ -606,4 +616,4 @@ Akta Lembaga Promosi Kesihatan Malaysia 2006 ("Akta") yang dicadangkan oleh Rang
 
 Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya tidak dapat ditentukan pada masa ini.
 
-[PN(U2)2491]
+<!-- marginal: [PN(U2)2491] -->

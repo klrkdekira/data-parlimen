@@ -6,13 +6,13 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran 3. Orang yang diisytiharkan sebagai institusi kewangan 4. Kuasa dan fungsi Bank
 
-## Bahagian II
+## BAHAGIAN II
 
 ## KUASA YANG BERHUBUNGAN DENGAN MATA WANG
 
@@ -36,7 +36,7 @@
 
 <!-- page 2 -->
 
-## Bahagian III
+## BAHAGIAN III
 
 ## KESALAHAN YANG BERHUBUNGAN DENGAN MATA WANG
 
@@ -50,7 +50,7 @@
 
 22. Ketidakpakaian seksyen 21
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PERNIAGAAN PEMPROSESAN MATA WANG
 
@@ -114,7 +114,7 @@ Pemeriksaan
 
 45. Kehadiran di hadapan Bank
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PENGUATKUASAAN
 
@@ -154,7 +154,7 @@ Tindakan jenayah
 
 58. Pendakwaan
 
-## Bahagian VI
+## BAHAGIAN VI
 
 AM
 
@@ -182,7 +182,7 @@ AM
 
 68. Pengecualian
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## KECUALIAN DAN PERALIHAN
 
@@ -190,9 +190,9 @@ AM
 
 70. Peralihan
 
-## Jadual Pertama
+## JADUAL PERTAMA
 
-## Jadual Kedua
+## JADUAL KEDUA
 
 <!-- page 5 -->
 
@@ -202,7 +202,7 @@ Suatu Akta untuk mengadakan peruntukan bagi pengurusan mata wang Malaysia, penga
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -312,7 +312,7 @@ oleh seseorang bagi atau bagi pihak orang lain; atau
 
 (b) untuk memberikan apa-apa bantuan dalam menjalankan apa-apa kuasa atau melaksanakan apa-apa fungsi, Bank, di bawah Akta ini.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## KUASA YANG BERHUBUNGAN DENGAN MATA WANG
 
@@ -430,7 +430,7 @@ sebagaimana yang diluluskan oleh Menteri, atas syor Bank.
 
 (b) mengambil apa-apa langkah atau memudahkan apa-apa tindakan yang difikirkan patut oleh Bank.
 
-## Bahagian III
+## BAHAGIAN III
 
 ## KESALAHAN YANG BERHUBUNGAN DENGAN MATA WANG
 
@@ -512,7 +512,7 @@ sebagaimana yang diluluskan oleh Menteri, atas syor Bank.
 
 <!-- page 17 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## PERNIAGAAN PEMPROSESAN MATA WANG
 
@@ -782,7 +782,7 @@ kepada Bank mengikut cara dan dalam masa yang ditentukan oleh Bank.
 
 (2) Mana-mana orang yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu ratus ribu ringgit.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## PENGUATKUASAAN
 
@@ -990,7 +990,7 @@ sama ada atau tidak kesalahan itu dilakukan disebabkan olehnya, melakukan suatu 
 
 <!-- page 37 -->
 
-## Bahagian VI
+## BAHAGIAN VI
 
 AM
 
@@ -1106,7 +1106,7 @@ bagi atau atas sebab, atau berkenaan dengan, apa-apa perbuatan, pernyataan atau 
 
 68. Menteri boleh, atas syor Bank, melalui perintah yang disiarkan dalam Warta, mengecualikan mana-mana orang atau apa-apa golongan, kategori atau perihalan orang, daripada semua atau mana-mana peruntukan Akta ini bagi apa-apa tempoh dan tertakluk kepada apa-apa syarat yang ditetapkan oleh Menteri dalam perintah itu.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 ## KECUALIAN DAN PERALIHAN
 
@@ -1140,7 +1140,7 @@ dan hendaklah terus berkuat kuasa dan berkesan sepenuhnya berhubung dengan orang
 
 <!-- page 43 -->
 
-## Jadual Pertama
+## JADUAL PERTAMA
 
 [Seksyen 3]
 
@@ -1148,7 +1148,7 @@ dan hendaklah terus berkuat kuasa dan berkesan sepenuhnya berhubung dengan orang
 
 1. Pemegang lesen di bawah Akta Perniagaan Perkhidmatan Wang 2011 diisytiharkan sebagai institusi kewangan bagi maksud seksyen 22, 33, 34, 37, 38, 39, 41, 42, 43, 44 dan 45 dan Penggal 1 Bahagian V.
 
-## Jadual Kedua
+## JADUAL KEDUA
 
 [Subseksyen 10(2) dan 21(1)]
 
@@ -1164,7 +1164,7 @@ Tiada
 
 Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan peruntukan bagi pengurusan mata wang Malaysia oleh Bank Negara Malaysia (“Bank”), pengawalseliaan perniagaan pemprosesan mata wang dan aktiviti pemprosesan mata wang dan bagi perkara yang berkaitan.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I bertujuan untuk mengadakan peruntukan bagi perkara permulaan.
 
@@ -1178,7 +1178,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan 
 
 6. Fasal 4 bertujuan untuk memberi Bank kuasa untuk menjalankan kuasa dan melaksanakan fungsi di bawah Akta yang dicadangkan mengikut cara yang difikirkan patut oleh Bank. Fasal ini menjelaskan bahawa kuasa dan fungsi Bank di bawah Akta yang dicadangkan menambah dan bukannya mengurangkan, kuasa dan fungsi Bank di bawah Akta Bank Negara Malaysia 2009 [Akta 701]. Fasal ini juga memperuntukkan bahawa Gabenor hendaklah menjalankan kuasa dan melaksanakan fungsi Bank dan Gabenor boleh melantik mana-mana orang untuk menjalankan apa-apa kuasa atau melaksanakan apa-apa fungsi Bank di bawah Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 7. Bahagian II memperkatakan tentang kuasa Bank bagi perkara yang berhubungan dengan mata wang.
 
@@ -1210,7 +1210,7 @@ Rang Undang-Undang ini (“Akta yang dicadangkan”) bertujuan untuk mengadakan 
 
 20. Fasal 17 membolehkan Bank untuk membuat suatu kontrak atau perkiraan lain dengan suatu institusi kewangan atau seorang pemproses mata wang berdaftar atau mengambil apa-apa langkah atau memudahkan apa-apa tindakan yang difikirkan patut oleh Bank bagi maksud memelihara kualiti dan integriti, atau mempromosikan pengeluaran semula atau peredaran semula mata wang kertas dan mata wang syiling.
 
-## Bahagian III
+## BAHAGIAN III
 
 21. Bahagian III mengandungi peruntukan yang berhubungan dengan kesalahan berkenaan dengan mata wang.
 
@@ -1228,7 +1228,7 @@ token, dokumen atau instrumen yang berkemungkinan dikatakan sebagai sah diperlak
 
 26. Fasal 22 memperuntukkan bahawa fasal 21 tidak terpakai bagi apa-apa transaksi yang dibuat oleh seseorang dengan atau melalui Bank atau suatu institusi kewangan atau diluluskan oleh Menteri, atas syor Bank, dalam hal keadaan genting.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 27. Bahagian IV mengandungi peruntukan yang berhubungan dengan pendaftaran perniagaan pemprosesan mata wang, kewajipan seorang pemproses mata wang berdaftar dan kuasa pemeriksaan Bank.
 
@@ -1300,7 +1300,7 @@ Pemeriksaan
 
 <!-- page 50 -->
 
-## Bahagian V
+## BAHAGIAN V
 
 52. Bahagian V mengandungi peruntukan yang berhubungan dengan penguatkuasaan.
 
@@ -1374,7 +1374,7 @@ dibuat atau ditinggalkan, atau yang berupa sebagai dibuat atau ditinggalkan, men
 
 76. Fasal 68 bertujuan untuk memberi Menteri kuasa, atas syor Bank, untuk mengecualikan mana-mana orang atau apa-apa golongan, kategori atau perihalan orang, daripada semua atau mana-mana peruntukan Akta yang dicadangkan.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 77. Bahagian VII memperkatakan tentang peruntukan yang berhubungan dengan kecualian dan peralihan.
 

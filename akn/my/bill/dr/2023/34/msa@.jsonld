@@ -1,0 +1,2651 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-34-2023",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~sched_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~sched_2"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Kewangan Awam dan Tanggungjawab Fiskal 2023"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_I__cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_I__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_I__cl_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERMULAAN Tajuk ringkas dan permulaan kuat kuasa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_9"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PRINSIP DASAR FISKAL Objektif dasar fiskal"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_25"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "KOMPONEN UTAMA DASAR FISKAL Penggal 1 Hasil Perumusan dasar hasil"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_10__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri bertanggungjawab bagi merumuskan dan melaksanakan dasar hasil Kerajaan berdasarkan prinsip kecekapan, keadilan dan kesaksamaan, dan prinsip pengurusan fiskal yang bertanggungjawab di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_10__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_10__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_10__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_10__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perumusan dasar hasil hendaklah berdasarkan objektif yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_10__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mencapai penjanaan hasil yang mencukupi dan mampan dalam jangka masa sederhana dan panjang;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_10__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengurus dan mentadbir hasil selaras dengan amalan terbaik antarabangsa;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_10__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mempunyai sistem cukai yang cekap dan rangka kerja perundangan yang saksama; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_10__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_10__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengekalkan darjah kebolehramalan dan kestabilan dasar cukai yang munasabah. Dasar hasil"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_11__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_11__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dasar hasil hendaklah berdaya saing dalam persekitaran global, menggalakkan pelaburan dan menyokong pertumbuhan ekonomi jangka masa panjang."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah memastikan penjanaan hasil mampu untuk membiayai perbelanjaan mengurus dan perbelanjaan pembangunan atau sekurang-kurangnya untuk membiayai perbelanjaan mengurus."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_11__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_11__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_11__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kerajaan hendaklah menerima pakai dasar hasil yang berkesan dan cekap yang—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_11__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_11__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memastikan penjanaan hasil yang mampan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_11__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_11__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "meminimumkan kemungkinan kehilangan hasil. Tanggungjawab Menteri berhubung dengan dasar hasil"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_12__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_12__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_12__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah merumuskan strategi hasil jangka masa sederhana dan menjalankan suatu kajian semula ke atas dasar hasil termasuklah tetapi tidak terhad kepada rangka kerja perundangan dan struktur insentif dalam mengoptimumkan sumber hasil."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah, berkenaan dengan setiap tahun kewangan, menyediakan anggaran hasil tahunan berdasarkan perubahan dasar dan perundangan hasil selaras dengan sandaran andaian petunjuk ekonomi dan faktor lain yang berkaitan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_12__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah membuat suatu taksiran mengenai potensi kehilangan atau tambahan hasil dan hendaklah menyatakan langkah-langkah yang boleh meminimumkan kehilangan hasil."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_12__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah memastikan pengurusan dan pentadbiran hasil adalah mengikut objektif di bawah subseksyen 10(2) dan dasar di bawah seksyen 11 yang berhubungan dengan hasil. Penggal 2 Perbelanjaan awam Perumusan dasar perbelanjaan awam"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_13__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_13__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri bertanggungjawab bagi merumuskan dan melaksanakan dasar perbelanjaan awam secara berkesan dan cekap untuk meningkatkan disiplin fiskal, penyampaian perkhidmatan awam dan agihan sumber ke arah mencapai keseluruhan objektif sosioekonomi mengikut prinsip pengurusan fiskal yang bertanggungjawab di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_13__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_13__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_13__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_13__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perumusan dasar perbelanjaan awam hendaklah berdasarkan kepada objektif yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_13__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menerapkan disiplin fiskal dalam pengurusan perbelanjaan awam;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_13__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk memastikan penjajaran perbelanjaan awam dengan penjanaan hasil dalam jangka masa sederhana;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_13__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk memastikan ketelusan dalam perbelanjaan awam; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_13__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_13__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk meningkatkan kecekapan dalam perbelanjaan awam."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_13__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam merumuskan dasar perbelanjaan awam di bawah seksyen ini, Menteri hendaklah mengambil kira perbelanjaan pembangunan tahunan sebagai peratusan kadar keluaran dalam negeri kasar sebagaimana yang dinyatakan dalam Jadual Pertama. Dasar perbelanjaan awam"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_14__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_14__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perumusan dasar perbelanjaan awam hendaklah menyeluruh, realistik dan telus dengan garis tanggungjawab dan kebertanggungjawaban yang jelas."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_14__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_14__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_14__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_14__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kerajaan hendaklah menerima pakai dasar perbelanjaan awam yang berkesan dan cekap yang—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_14__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_14__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memastikan perbelanjaan awam diuruskan secara berhemat;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_14__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_14__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sumber diperuntukkan dengan cekap dan berkesan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_14__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_14__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "program dan projek yang dilaksanakan mempunyai impak yang tinggi dan kesan pengganda kepada ekonomi; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_14__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_14__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memastikan peruntukan yang dibelanjakan memberi nilai faedah terbaik."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_14__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kerajaan hendaklah, sebelum membuat apa-apa keputusan dan dasar yang melibatkan perbelanjaan tambahan, menilai implikasi kewangan bersama-sama dengan penstrukturan semula perbelanjaan atau penyusunan semula keutamaan strategi dan langkah-langkah hasil. Tanggungjawab Menteri berhubung dengan perbelanjaan awam"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_15__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_15__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_15__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_15__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_15__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah merumuskan dasar perbelanjaan awam jangka masa sederhana sebagai rangka kerja yang menyeluruh untuk perancangan perbelanjaan awam."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah, berkenaan dengan setiap tahun kewangan, menyediakan penyata anggaran perbelanjaan berdasarkan mandat dan dasar Kerajaan selaras dengan sandaran andaian petunjuk ekonomi dan faktor lain yang berkaitan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_15__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah memantau prestasi program dan projek dalam anggaran perbelanjaan dan melaporkan keberhasilannya untuk memastikan penggunaan sumber yang optimum."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_15__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah menerbitkan laporan prestasi perbelanjaan pertengahan tahun di bawah seksyen 36 Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_15__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah, semasa pembentangan rang undang-undang perbekalan tambahan, menyatakan tujuan dan sumber pembiayaan berhubung dengan perbelanjaan tambahan dan lebih, sekiranya perbelanjaan tahun kewangan itu melebihi anggaran perbelanjaan yang diluluskan sama ada melalui penjimatan, penstrukturan semula perbelanjaan, tambahan hasil atau pinjaman."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_15__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah menjalankan penilaian program dan projek dalam jangka masa sederhana dan melaporkan dapatan dan syornya kepada Jemaah Menteri. Penggal 3 Pengurusan pinjaman dan hutang Perumusan dasar pengurusan pinjaman dan hutang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_16__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_16__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_16__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri bertanggungjawab bagi merumuskan dan melaksanakan dasar pengurusan pinjaman dan hutang Kerajaan secara bertanggungjawab dan berhemat dengan matlamat untuk memastikan kemampuan dan kemampanan hutang."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_16__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_16__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_16__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_16__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perumusan dasar pengurusan pinjaman dan hutang hendaklah berdasarkan objektif yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_16__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_16__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk memastikan obligasi pinjaman dan hutang Kerajaan dipenuhi tepat pada masanya pada kos paling rendah dengan tahap risiko yang munasabah;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_16__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_16__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menggalakkan pembangunan dan kecekapan fungsi pasaran kewangan domestik; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_16__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_16__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk memastikan kemampuan hutang dan konsolidasi hutang dalam jangka masa sederhana dan jangka masa panjang. Dasar pengurusan pinjaman"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pinjaman yang dibuat oleh Kerajaan hendaklah mengikut Akta yang dinyatakan dalam Jadual Kedua dan hendaklah digunakan bagi maksud yang dinyatakan dalam Jadual Pertama Akta Kumpulan Wang Pembangunan 1966 dan pembayaran balik hutang. Dasar pengurusan hutang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_18__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jumlah hutang Kerajaan hendaklah tidak melebihi peratusan kepada keluaran dalam negeri kasar sebagaimana yang dinyatakan dalam Jadual Pertama."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah, sekiranya jumlah hasil melebihi jumlah perbelanjaan dalam tahun kewangan, memindahkan apa-apa lebihan jumlah hasil berbanding jumlah perbelanjaan kepada kumpulan wang penjelas yang diwujudkan di bawah seksyen 12 Akta Pinjaman (Tempatan) 1959 [Akta 637] untuk mengurangkan hutang Kerajaan. Tanggungjawab Menteri berhubung dengan pengurusan pinjaman dan hutang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_19__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_19__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_19__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_19__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah, sebelum permulaan suatu tahun kewangan, menyediakan suatu program pinjaman untuk membiayai perbelanjaan bagi maksud yang dinyatakan dalam Jadual Pertama Akta Kumpulan Wang Pembangunan 1966 dan untuk membayar balik hutang matang bagi tahun kewangan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh menyemak semula program pinjaman sebagaimana yang disifatkannya perlu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_19__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah, pada setiap masa, memantau pinjaman, bayaran khidmat hutang dan jumlah hutang."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_19__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah membuat penilaian ke atas kemampanan hutang dalam jangka masa sederhana dan melaporkan dapatan dan syornya kepada Kerajaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_19__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah memastikan pelaksanaan dasar pengurusan pinjaman dan hutang adalah selaras dengan dan mengikut peruntukan Akta ini. Penggal 4 Pengurusan risiko fiskal Perumusan dasar pengurusan risiko fiskal"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_20__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_20__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_20__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri bertanggungjawab bagi merumuskan dasar pengurusan risiko fiskal Kerajaan dengan matlamat untuk meminimumkan dan mengurangkan pendedahan risiko Kerajaan selaras dengan prinsip pengurusan fiskal yang bertanggungjawab di bawah subseksyen 6(2) Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_20__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_20__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_20__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_20__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_20__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Risiko fiskal ertinya apa-apa transaksi atau hal keadaan yang mengikat atau boleh mengikat Kerajaan kepada liabiliti kewangan, termasuklah tetapi tidak terhad kepada—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_20__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_20__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "komitmen kewangan kepada Kerajaan yang berbangkit daripada apa-apa jaminan kewangan, kerjasama awam-swasta dan entiti Kerajaan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_20__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_20__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perubahan dalam mana-mana petunjuk ekonomi yang boleh menyebabkan komitmen kewangan tambahan kepada Kerajaan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_20__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_20__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kesan bencana alam, perubahan iklim, pandemik dan situasi geopolitik yang boleh menyebabkan komitmen kewangan tambahan kepada Kerajaan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_20__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_20__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa hal keadaan yang boleh berpotensi mendedahkan Kerajaan kepada suatu komitmen kewangan. Tanggungjawab Menteri berhubung dengan pengurusan risiko fiskal"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_21__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_21__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_21__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tanggungjawab Menteri berhubung dengan pengurusan risiko fiskal adalah seperti yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_21__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengenal pasti sumber risiko fiskal yang boleh mendedahkan Kerajaan kepada apa-apa liabiliti kewangan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_21__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_21__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_21__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_21__para_b__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_21__para_b__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menilai dan menentukan, semasa tahun kewangan dan selepas berakhir setiap tahun kewangan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_21__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_21__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "prestasi kewangan entiti Kerajaan dan penerima jaminan kewangan yang boleh mendedahkan Kerajaan kepada liabiliti;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_21__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_21__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa keputusan Kerajaan yang boleh mengikat Kerajaan kepada suatu komitmen kewangan tambahan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_21__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_21__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa bencana alam dan hal keadaan lain yang menyebabkan komitmen kewangan tambahan dan obligasi hutang; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_21__para_b__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_21__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perubahan dalam petunjuk ekonomi yang boleh mengubah kedudukan fiskal; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_21__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk merumuskan suatu pelan untuk mengurangkan risiko material kepada kedudukan fiskal Kerajaan yang berbangkit daripada perkara yang dinyatakan di bawah subseksyen 20(2). Penzahiran risiko fiskal"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_22__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_22__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri dalam menjalankan penilaian yang dibuat menurut perenggan 21(b), hendaklah menyediakan peruntukan kewangan dan menzahirkan risiko fiskal berdasarkan keadaan-keadaan yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_22__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sekiranya risiko fiskal yang dinilai boleh ditentukan kuantiti dengan ketepatan yang munasabah dan komitmen kewangan yang boleh ditetapkan dalam jangka masa sederhana berbangkit, komitmen kewangan itu hendaklah dizahirkan dalam laporan tinjauan fiskal; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_22__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sekiranya risiko fiskal yang dinilai tidak boleh ditentukan kuantiti dengan ketepatan yang munasabah atau komitmen kewangan tidak boleh ditetapkan dalam jangka masa sederhana, risiko fiskal itu hendaklah dizahirkan dalam penyata risiko fiskal. Mengehadkan pendedahan kepada risiko fiskal"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_23__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_23__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_23__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah menyediakan dan menerbitkan garis panduan atau rangka kerja dasar untuk mengehadkan pendedahan risiko fiskal ke atas kedudukan fiskal Kerajaan yang berbangkit daripada jaminan kewangan, kerjasama awam-swasta dan entiti Kerajaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_23__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_23__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_23__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_23__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada jaminan kewangan boleh diberikan melainkan jika—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_23__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jaminan itu adalah selaras dengan prinsip pengurusan fiskal yang bertanggungjawab di bawah Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_23__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "terma dan syarat jaminan itu adalah selaras dengan garis panduan atau rangka kerja dasar; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_23__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "amaun jaminan itu hendaklah tidak melebihi had nilai kuantiti yang dinyatakan dalam Jadual Pertama. Pelan mitigasi berhubung dengan jaminan kewangan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_24__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_24__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_24__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sekiranya terdapat kemungkinan berlaku suatu kemungkiran atau terdapat suatu keadaan signifikan yang boleh menyebabkan berlakunya kemungkiran oleh penerima jaminan kewangan, Menteri hendaklah membentangkan pelan mitigasi di hadapan Dewan Rakyat."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_24__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sekiranya pelan mitigasi melibatkan penggunaan amaun daripada Kumpulan Wang Disatukan, amaun itu hendaklah diperuntukkan dalam anggaran perbelanjaan. Tanggungjawab untuk mengemukakan penyata kewangan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_25__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_25__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_25__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_25__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_25__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Entiti Kerajaan dan penerima jaminan kewangan hendaklah mengemukakan penyata kewangan teraudit kepada Perbendaharaan tidak lebih dari enam bulan dari berakhirnya tahun kewangan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_25__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sekiranya penyata kewangan teraudit belum dikeluarkan, entiti Kerajaan dan penerima jaminan kewangan hendaklah mengemukakan penyata kewangan yang tidak teraudit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_25__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun subseksyen (1) dan (2), Menteri boleh, pada bila-bila masa, mengarahkan entiti Kerajaan dan penerima jaminan kewangan untuk mengemukakan penyata kewangannya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_25__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_III__cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud subseksyen (1), ‘tahun kewangan’ ertinya tahun kewangan seperti yang ditakrifkan di bawah Akta Syarikat 2016."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri bertanggungjawab bagi merumuskan dan melaksanakan dasar fiskal Kerajaan dengan objektif untuk memastikan kemampanan kewangan awam, memelihara kestabilan makroekonomi dan melindungi kesejahteraan rakyat. Perumusan dasar fiskal, dsb."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_6__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_6__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_6__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_6__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_6__subsec_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perumusan dasar fiskal hendaklah berdasarkan tetapi tidak terhad kepada prinsip umum yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_6__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kebertanggungjawaban, yang ertinya kebertanggungjawaban Kerajaan dalam menjalankan tanggungjawabnya untuk menguruskan dasar fiskal;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_6__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tanggungjawab, yang ertinya pengurusan sumber Kerajaan dan pengurusan risiko fiskal yang bertanggungjawab bagi mengekalkan kemampanan fiskal dan alam sekitar;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_6__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ketelusan, yang ertinya penerbitan maklumat kewangan dan bukan kewangan yang berhubungan dengan pengurusan dasar fiskal disediakan tepat pada masanya bagi membolehkan penilaian yang berkesan terhadap pelaksanaan dasar fiskal dan kedudukan kewangan awam; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_6__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kesaksamaan antara generasi, yang ertinya pengurusan dasar fiskal hendaklah mempertimbangkan impak ke atas kesejahteraan generasi kini dan akan datang."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_6__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_6__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_6__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_6__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi mencapai objektif dasar fiskal dalam seksyen 5, dasar fiskal Kerajaan hendaklah berdasarkan prinsip pengurusan fiskal yang bertanggungjawab seperti yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_6__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memastikan kestabilan makroekonomi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_6__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mencapai dan mengekalkan kemampanan baki fiskal;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_6__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mencapai dan mengekalkan tahap hutang yang berhemat; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_6__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memastikan pengurusan risiko fiskal yang berkesan. Keluaran dalam negeri kasar"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Keluaran dalam negeri kasar hendaklah merupakan keluaran dalam negeri kasar Malaysia nominal yang terkini sebagaimana yang disahkan oleh Menteri. Objektif fiskal dan nilai kuantiti"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_8__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_8__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_8__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_8__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_8__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_8__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_8__subsec_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mengikut prinsip pengurusan fiskal yang bertanggungjawab dalam subseksyen 6(2), Kerajaan hendaklah mencapai objektif fiskalnya seperti yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_8__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk memastikan perbelanjaan pembangunan tahunan minimum yang dilakukan sebagai peratusan keluaran dalam negeri kasar bagi menjana pertumbuhan ekonomi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_8__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mencapai baki fiskal yang mampan sebagai peratusan kepada keluaran dalam negeri kasar dalam jangka masa sederhana;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_8__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mencapai tahap hutang yang berhemat sebagai peratusan kepada keluaran dalam negeri kasar dalam jangka masa sederhana; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_8__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengehadkan pendedahan kepada risiko fiskal berhubung dengan apa-apa jaminan kewangan sebagai peratusan kepada keluaran dalam negeri kasar."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Objektif fiskal hendaklah diukur dengan nilai kuantiti yang dinyatakan dalam Jadual Pertama."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_8__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Nilai kuantiti hendaklah terdiri daripada sekurang-kurangnya satu angka sasaran yang perlu dicapai dalam jangka masa sederhana."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_8__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Komponen utama dasar fiskal untuk mencapai objektif fiskal hendaklah seperti yang diperuntukkan di bawah Bahagian III Akta ini. Rangka Kerja Fiskal Jangka Masa Sederhana"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_9__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah merumuskan Rangka Kerja Fiskal Jangka Masa Sederhana sebagai panduan perancangan, strategi dan keutamaan fiskal dalam jangka masa sederhana."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Rangka Kerja Fiskal Jangka Masa Sederhana merupakan unjuran tiga hingga lima tahun kedudukan fiskal Kerajaan dengan sandaran andaian petunjuk ekonomi yang diunjurkan oleh Kerajaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Rangka Kerja Fiskal Jangka Masa Sederhana hendaklah disokong oleh suatu strategi hasil dan suatu dasar perbelanjaan awam."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_27"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PELAN PELARASAN FISKAL Penyimpangan sementara"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_26__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_26__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_26__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_26__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_26__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_26__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_26__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kerajaan boleh menyimpang buat sementara daripada objektif fiskal yang disebut dalam seksyen 8 apabila berlaku suatu keadaan mengejut dan tidak dapat diramalkan yang boleh mendatangkan risiko yang signifikan kepada kehidupan manusia, ekonomi dan kedudukan fiskal."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_26__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sebelum apa-apa penyimpangan yang disebut dalam subseksyen (1), Menteri hendaklah menjalankan suatu penilaian untuk menentukan sama ada keadaan sedemikian akan menyebabkan kemelesetan ekonomi yang signifikan, krisis kesihatan atau menjejaskan kedudukan fiskal Kerajaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_26__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah membentangkan penilaian yang disebut dalam subseksyen (2) kepada Jemaah Menteri untuk kelulusan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_26__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika Jemaah Menteri berpuas hati bahawa keadaan sedemikian akan menyebabkan kemelesetan ekonomi yang signifikan, krisis kesihatan atau menjejaskan kedudukan fiskal Kerajaan, Menteri hendaklah menyediakan dan membentangkan pelan pelarasan fiskal kepada Jemaah Menteri untuk kelulusan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_26__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_26__subsec_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_26__subsec_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_26__subsec_5__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_26__subsec_5__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pelan pelarasan fiskal hendaklah mengandungi—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_26__subsec_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_26__subsec_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "alasan bagi penyimpangan daripada objektif fiskal dan nilai kuantitinya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_26__subsec_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_26__subsec_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "langkah-langkah yang akan diambil untuk kembali kepada objektif fiskal dan nilai kuantitinya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_26__subsec_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_26__subsec_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jangkaan tempoh masa yang akan diambil untuk kembali kepada objektif fiskal dan nilai kuantitinya; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_26__subsec_5__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_26__subsec_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "maklumat lain yang berkaitan dengan pelan pelarasan fiskal."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_26__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah membentangkan pelan pelarasan fiskal pada sidang Dewan Rakyat yang akan datang selepas kelulusan diberikan oleh Jemaah Menteri dalam subseksyen (4). Ketidakcapaian objektif fiskal dan nilai kuantiti"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_27__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_27__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_27__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_27__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_27__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sekiranya objektif fiskal dan nilai kuantiti sebagaimana yang dinyatakan dalam Jadual Pertama tidak tercapai, Menteri hendaklah membentangkan suatu pelan pelarasan fiskal untuk diluluskan melalui ketetapan oleh Dewan Rakyat."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_27__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_27__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_27__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_27__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_27__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pelan pelarasan fiskal hendaklah mengandungi—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_27__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "alasan bagi ketidakcapaian objektif fiskal dan nilai kuantiti;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_27__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "langkah-langkah yang akan diambil oleh Kerajaan untuk mencapai objektif fiskal dan nilai kuantiti;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_27__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jangkaan tempoh masa yang akan diambil oleh Kerajaan untuk mencapai objektif fiskal dan nilai kuantiti; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_27__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "maklumat lain yang berkaitan dengan pelan pelarasan fiskal."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_27__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sekiranya pelan pelarasan fiskal tidak diluluskan, Dewan Rakyat boleh meluluskan suatu ketetapan untuk menghendaki Menteri menambah baik pelan pelarasan fiskal untuk dibentangkan di Dewan Rakyat dengan seberapa segera yang boleh praktik."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_27__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah melaporkan kemajuan langkah-langkah seperti yang dinyatakan dalam perenggan (2)(b) dalam laporan tinjauan fiskal tahunan yang berikutnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Kewangan Awam dan Tanggungjawab Fiskal 2023."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta, dan Menteri boleh menetapkan tarikh yang berlainan bagi permulaan kuat kuasa bahagian atau peruntukan yang berlainan Akta ini. Pemakaian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini hendaklah terpakai bagi Kerajaan dan entiti Kerajaan. Akta hendaklah dibaca bersama-sama dengan undang-undang bertulis yang berkaitan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_I__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini hendaklah dibaca bersama-sama dengan undang-undang bertulis yang berkaitan dan peruntukan Akta ini hendaklah menjadi tambahan kepada, dan tidak mengurangkan, peruntukan undang-undang bertulis yang berkaitan. Tafsiran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_I__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_I__cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_I__cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_I__cl_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "“pinjaman” ertinya pinjaman yang diperdapatkan atau wang yang diterima di bawah Akta sebagaimana yang dinyatakan dalam Jadual Kedua; “Jawatankuasa” ertinya Jawatankuasa Dasar Fiskal yang ditubuhkan di bawah seksyen 28; “hutang” ertinya semua pinjaman terkumpul yang dibuat oleh Kerajaan; “bayaran khidmat hutang” ertinya apa-apa faedah atau kadar keuntungan dan perbelanjaan lain yang dilakukan berkaitan dengan pinjaman yang menjadi tanggungan Kerajaan dan dipertanggungkan pada Kumpulan Wang Disatukan Persekutuan; “perbelanjaan pembangunan” ertinya wang yang digunakan bagi maksud yang dinyatakan dalam Jadual Pertama Akta Kumpulan Wang Pembangunan 1966 [Akta 406]; “petunjuk ekonomi” ertinya petunjuk yang digunakan dalam menyediakan unjuran kedudukan fiskal, termasuklah tetapi tidak terhad kepada keluaran dalam negeri kasar, harga komoditi dan kadar pertukaran mata wang asing; “jaminan kewangan” ertinya apa-apa jaminan yang diberikan di bawah subseksyen 14(1) Akta Tatacara Kewangan 1957 [Akta 61], seksyen 2 Akta Jaminan Pinjaman 1972 [Akta 66], subseksyen 2(1) Akta Jaminan Pinjaman (Pertubuhan Perbadanan) 1965 [Akta 96] dan seksyen 2 Akta Jaminan Pinjaman 1963 [Akta 412]; “tahun kewangan” ertinya tempoh dua belas bulan yang berakhir pada 31hb Disember dalam mana-mana tahun; “baki fiskal” ertinya perbezaan antara jumlah hasil dengan jumlah perbelanjaan; “objektif fiskal” ertinya objektif yang ditetapkan oleh Kerajaan di bawah seksyen 8; “kedudukan fiskal” ertinya kedudukan kewangan Kerajaan yang terdiri daripada hasil, perbelanjaan, terimaan balik pinjaman dan baki fiskal; “risiko fiskal” ertinya transaksi atau hal keadaan yang disebut dalam subseksyen 20(2); “Entiti Kerajaan” ertinya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_I__cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_I__cl_4__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_I__cl_4__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_I__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana syarikat yang diperbadankan di bawah Akta Syarikat 2016 [Akta 777] yang—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_I__cl_4__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_I__cl_4__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam hal syarikat berhad menurut syer, Menteri Kewangan yang diperbadankan di bawah Akta Menteri Kewangan (Pemerbadanan) 1957 [Akta 375] merupakan pemegang syer lebih lima puluh peratus daripada syer syarikat; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_I__cl_4__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_I__cl_4__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam hal syarikat berhad menurut jaminan, Menteri Kewangan yang diperbadankan di bawah Akta Menteri Kewangan (Pemerbadanan) 1957 merupakan anggota syarikat;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_I__cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_I__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana pertubuhan perbadanan yang diperbadankan di bawah Akta Pemegang Amanah (Pemerbadanan) 1952 [Akta 258] oleh Kerajaan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_I__cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_I__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana badan berkanun yang ditubuhkan di bawah suatu Akta Parlimen dan merupakan pihak berkuasa awam atau agensi Kerajaan tetapi tidak termasuk pihak berkuasa tempatan; “keluaran dalam negeri kasar” mempunyai erti yang diberikan kepadanya di bawah seksyen 7; “jangka masa panjang” ertinya suatu tempoh yang melebihi lima tahun; “Menteri” ertinya Menteri yang dipertanggungkan dengan tanggungjawab bagi kewangan; “jangka masa sederhana” ertinya suatu tempoh antara tiga hingga lima tahun; “Rangka Kerja Fiskal Jangka Masa Sederhana” ertinya rangka kerja yang dirumuskan oleh Menteri di bawah seksyen 9; “perbelanjaan mengurus” ertinya perbelanjaan yang disebut dalam Perkara 98, 100, 101, 102 dan 103 Perlembagaan Persekutuan; “liabiliti lain” ertinya liabiliti kewangan lain yang berbangkit daripada penghasilan jaminan kewangan atau apa-apa obligasi lain yang memerlukan peruntukan daripada Kumpulan Wang Disatukan Persekutuan; “kerjasama awam-swasta” ertinya suatu bentuk kerjasama antara Kerajaan dengan sektor swasta apabila perniagaan bersendiri ditubuhkan, dibiayai dan diuruskan oleh sektor swasta bagi pihak Kerajaan yang merangkumi kerja-kerja pembinaan, pengurusan, penyelenggaraan dan pembaikan, dan penggantian kemudahan awam seperti bangunan, infrastruktur, peralatan dan kemudahan; “nilai kuantiti” ertinya angka sasaran bagi objektif fiskal; “hasil” ertinya wang yang diterima oleh Kerajaan dan dibayar ke dalam Kumpulan Wang Disatukan Persekutuan menurut Fasal (1) Perkara 97 Perlembagaan Persekutuan dan diakaunkan ke dalam Akaun Hasil Disatukan di bawah perenggan 7(a) Akta Tatacara Kewangan 1957; “Kerajaan” ertinya Kerajaan Persekutuan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_31"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "JAWATANKUASA DASAR FISKAL Penubuhan Jawatankuasa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PELAPORAN Penggal 1 Dokumen belanjawan tahunan Laporan tinjauan ekonomi"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103",
+      "@type": "akn:article",
+      "eli:number": "103",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_38"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Perlembagaan Persekutuan dan Rizab Luar"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jangka di bawah seksyen 6 Akta Kumpulan Wang Pembangunan 1966; (d) kemajuan dalam pelaksanaan inisiatif atau langkah-langkah belanjawan Kerajaan berkenaan dengan tahun kewangan itu; dan (e) maklumat lain yang berhubungan dengan laporan prestasi perbelanjaan pertengahan tahun. (3) Laporan prestasi perbelanjaan pertengahan tahun hendaklah digunakan bagi maksud menilai prestasi perbelanjaan Kerajaan berbanding anggaran perbelanjaan bagi tahun kewangan itu sebagaimana yang dinyatakan dalam anggaran perbelanjaan di bawah seksyen 35 Akta ini. Penyata risiko fiskal"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_37__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_37__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_37__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_37__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_37",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah menyebabkan supaya diterbitkan penyata risiko fiskal tahunan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_37__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_37__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_37__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_37__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_37__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_37__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_37__subsec_2__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_37",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Penyata risiko fiskal hendaklah mengandungi maklumat yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_37__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_37__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "risiko makroekonomi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_37__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_37__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tahap jaminan kewangan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_37__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_37__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pendedahan kepada liabiliti lain;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_37__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_37__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penzahiran yang dinyatakan di bawah seksyen 22 Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_37__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_37__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pelan mitigasi yang disebut dalam seksyen 24 Akta ini; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_37__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_37__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "maklumat lain yang berkaitan dengan risiko fiskal."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_37__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_37",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Penyata risiko fiskal hendaklah digunakan bagi maksud menilai pendedahan risiko fiskal kepada Kerajaan. Penyata perbelanjaan cukai"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_38__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_38__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_38__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_38__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_38",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah menyebabkan supaya diterbitkan penyata perbelanjaan cukai tahunan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_38__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_38__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_38__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_38__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_38__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_38",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Penyata perbelanjaan cukai hendaklah mengandungi maklumat yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_38__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_38__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perbelanjaan cukai sebenar dan anggaran perbelanjaan cukai;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_38__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_38__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perbelanjaan cukai sebenar berbanding anggaran perbelanjaan cukai;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_38__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_38__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa perubahan dalam dasar cukai dan perundangan cukai; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_38__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_38__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "maklumat lain yang berhubungan dengan perbelanjaan cukai."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_38__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__art_103__cl_38",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Penyata perbelanjaan cukai hendaklah digunakan bagi maksud menilai kehilangan hasil yang berbangkit daripada perubahan dasar cukai Kerajaan, termasuklah tetapi tidak terhad kepada pengecualian, peremitan, elaun, kadar cukai keutamaan, penangguhan atau timbal balas, yang mengurangkan obligasi cukai bagi mencapai objektif yang dihasratkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_32__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_32__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_32__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_32",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah, berkenaan dengan setiap tahun kewangan, membentangkan di hadapan Dewan Rakyat laporan tinjauan ekonomi berserta penyata anggaran hasil dan perbelanjaan bagi tahun itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_32__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_32__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_32__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_32__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_32__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_32",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Laporan tinjauan ekonomi hendaklah mengandungi maklumat mengenai prestasi ekonomi semasa dan unjuran ekonomi selaras dengan objektif fiskal dan hendaklah termasuk unjuran makroekonomi bagi tahun kewangan itu, menetapkan nilai sebenar, anggaran dan unjuran nilai petunjuk ekonomi, yang terdiri daripada—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_32__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_32__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "keluaran dalam negeri kasar dan komponennya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_32__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_32__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "inflasi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_32__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_32__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pasaran buruh; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_32__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_32__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "petunjuk ekonomi lain yang berkaitan. Laporan tinjauan fiskal"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_33__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_33__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_33__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_33__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah, berkenaan dengan setiap tahun kewangan, membentangkan di hadapan Dewan Rakyat laporan tinjauan fiskal berserta penyata anggaran hasil dan perbelanjaan bagi tahun itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_33__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_33__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_33__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_33__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_33__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_33__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_33__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_33__subsec_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_33__subsec_2__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Laporan tinjauan fiskal hendaklah mengandungi maklumat yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_33__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_33__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jumlah hasil;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_33__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_33__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jumlah perbelanjaan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_33__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_33__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "baki fiskal;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_33__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_33__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tahap jumlah hutang dan liabiliti lain;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_33__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_33__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kedudukan fiskal sektor awam disatukan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_33__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_33__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Rangka Kerja Fiskal Jangka Masa Sederhana;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_33__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_33__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa pelan pelarasan fiskal yang disebut di bawah Bahagian IV jika berkenaan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_33__subsec_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_33__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "petunjuk fiskal lain yang berkaitan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_33__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Laporan tinjauan fiskal hendaklah mengandungi prestasi dan strategi Kerajaan untuk mencapai objektif fiskal bagi setiap tahun kewangan dan untuk tempoh Rangka Kerja Fiskal Jangka Masa Sederhana. Anggaran hasil"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah, berkenaan dengan penyata anggaran hasil di bawah Fasal (1) Perkara 99 Perlembagaan Persekutuan, memberikan maklumat mengenai kutipan hasil sebenar bagi tahun kewangan sebelumnya, anggaran hasil yang disemak bagi tahun kewangan semasa, anggaran hasil bagi tahun kewangan berikutnya dan maklumat mengenai hasil cukai dan bukan cukai. Anggaran perbelanjaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_35__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_35__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_35__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_35",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah, berkenaan dengan penyata anggaran perbelanjaan di bawah Fasal (1) Perkara 99 Perlembagaan Persekutuan, mengemukakan maklumat tentang anggaran perbelanjaan Kerajaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_35__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_35__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_35__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_35__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_35__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_35",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Anggaran perbelanjaan hendaklah mengandungi maklumat yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_35__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_35__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "program dan aktiviti bagi perbelanjaan mengurus;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_35__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_35__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "program dan projek bagi perbelanjaan pembangunan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_35__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_35__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "prestasi program; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_35__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_35__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "maklumat lain yang berhubungan dengan anggaran perbelanjaan. Penggal 2 Laporan prestasi perbelanjaan pertengahan tahun, penyata risiko fiskal dan penyata perbelanjaan cukai Laporan prestasi perbelanjaan pertengahan tahun"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_36__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_36__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_36__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_36",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah menyebabkan supaya diterbitkan laporan prestasi perbelanjaan pertengahan tahun tidak lewat daripada 30 September berkenaan dengan setiap tahun kewangan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_36__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_36__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_36__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_36__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_36",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Laporan prestasi perbelanjaan pertengahan tahun hendaklah mengandungi maklumat yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_36__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_36__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perbelanjaan sebenar berbanding anggaran perbelanjaan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_36__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_36__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perbelanjaan tambahan dan perbelanjaan lebih di bawah Perkara 101 Perlembagaan Persekutuan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_36__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_VI__cl_36__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penggunaan Kumpulan Wang Luar Jangka di bawah"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Hendaklah ada suatu jawatankuasa yang dikenali sebagai “Jawatankuasa Dasar Fiskal” yang boleh mengemukakan syor kepada Jemaah Menteri berkenaan dengan perkara yang berhubungan dengan dasar fiskal Kerajaan. Anggota Jawatankuasa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29__subsec_1__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29__subsec_1__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29__subsec_1__para_i"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa hendaklah terdiri daripada anggota yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perdana Menteri sebagai Pengerusi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Timbalan Perdana Menteri;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri yang dipertanggungkan dengan tanggungjawab bagi kewangan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri yang dipertanggungkan dengan tanggungjawab bagi ekonomi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Setiausaha Negara;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Setiausaha Perbendaharaan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Setiausaha Kementerian Ekonomi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29__subsec_1__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Gabenor Bank Negara Malaysia; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29__subsec_1__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tidak lebih daripada dua orang lain yang hendaklah dilantik oleh Jawatankuasa yang hendaklah daripada kalangan orang yang mempunyai kedudukan dan pengalaman dalam fiskal atau kewangan awam."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua bahagian yang bertanggungjawab bagi hal ehwal dasar fiskal di Perbendaharaan hendaklah menjadi setiausaha kepada Jawatankuasa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengerusi boleh menjemput mana-mana orang untuk menghadiri mesyuarat Jawatankuasa bagi maksud mendapatkan pandangan mengenai apa-apa perkara yang dibincangkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa boleh menentukan tatacaranya sendiri. Tugas dan tanggungjawab Jawatankuasa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_30__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_30__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_30__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jawatankuasa hendaklah mempunyai tugas dan tanggungjawab untuk—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_30__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menyelia perkara fiskal, hutang dan liabiliti, dan risiko fiskal;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_30__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menimbang teliti dan mencadangkan dasar kepada Kerajaan untuk mencapai objektif fiskal sebagaimana yang dinyatakan dalam seksyen 8 Akta ini; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_30__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memenuhi kewajipan fidusiarinya untuk memastikan pelaksanaan dasar fiskal adalah selaras dengan prinsip pengurusan fiskal yang bertanggungjawab sebagaimana yang dinyatakan dalam subseksyen 6(2) Akta ini. Jawatankuasa kecil"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_31__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_31__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_31__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_31__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_31__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_31__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa boleh menubuhkan suatu jawatankuasa kecil untuk menilai risiko fiskal, hutang dan liabiliti lain kepada Kerajaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_31__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa kecil ini hendaklah melapor dan mengemukakan syor kepada Jawatankuasa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_31__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa hendaklah menentukan keanggotaan jawatankuasa kecil ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_31__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa kecil boleh menentukan tatacaranya sendiri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_31__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~part_V__cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa kecil hendaklah tertakluk kepada, dan bertindak mengikut apa-apa arahan yang diberikan kepada jawatankuasa kecil oleh Jawatankuasa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "[Subseksyen 8(2)] Objektif Fiskal dan Nilai Kuantiti Objektif Fiskal Perbelanjaan pembangunan tahunan yang dilakukan sebagai peratusan kepada keluaran dalam negeri kasar Baki fiskal sebagai peratusan kepada keluaran dalam negeri kasar Paras hutang sebagai peratusan kepada keluaran dalam negeri kasar Jaminan kewangan sebagai peratusan kepada keluaran dalam negeri kasar"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~sched_2",
+      "@type": "akn:schedule",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~sched_2__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~sched_2__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~sched_2__para_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~sched_2__para_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~sched_2__para_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "[Seksyen 4 dan 17] Perundangan Pinjaman dan Hutang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~sched_2__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~sched_2",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Bil Perbendaharaan (Tempatan) 1946 [Akta 188]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~sched_2__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~sched_2",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Pinjaman (Tempatan) 1959"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~sched_2__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~sched_2",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Pinjaman Luar Negeri 1963 [Akta 403]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~sched_2__para_4",
+      "@type": "akn:paragraph",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~sched_2",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Pinjaman (Bank Pembangunan Islam) 1977 [Akta 187]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~sched_2__para_5",
+      "@type": "akn:paragraph",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/34/msa@/~sched_2",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Pendanaan Kerajaan 1983 [Akta 275]"
+      }
+    }
+  ]
+}

@@ -60,7 +60,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 7. The principal Act is amended by substituting for the Fourth Schedule the following schedule:
 
-“Fourth Schedule
+## “FOURTH SCHEDULE
 
 [Subsection 15b(3)]
 

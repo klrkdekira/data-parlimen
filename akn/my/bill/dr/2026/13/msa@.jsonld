@@ -136,7 +136,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/13/msa@/~cl_3",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (2)— Pindaan seksyen 29"
+        "@value": "dalam subseksyen (2)—"
       }
     },
     {
@@ -166,7 +166,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/13/msa@/~cl_3__para_b",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan perkataan “lima puluh ribu ringgit” dengan perkataan “satu juta ringgit”."
+        "@value": "dengan menggantikan perkataan “lima puluh ribu ringgit” dengan perkataan “satu juta ringgit”. Pindaan seksyen 29"
       }
     },
     {
@@ -206,7 +206,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/13/msa@/~cl_4",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (1) yang dinomborkan semula— “(da) menetapkan gred beras dan kawalan harga bagi beras bergred itu; (db) membuat peruntukan yang berhubungan dengan larangan, pengawalseliaan atau kawalan pemindahan padi atau beras; dan”; dan"
+        "@value": "dalam subseksyen (1) yang dinomborkan semula—"
       }
     },
     {
@@ -226,7 +226,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/13/msa@/~cl_4__para_b",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perenggan (d) perenggan yang berikut:"
+        "@value": "dengan memasukkan selepas perenggan (d) perenggan yang berikut: “(da) menetapkan gred beras dan kawalan harga bagi beras bergred itu; (db) membuat peruntukan yang berhubungan dengan larangan, pengawalseliaan atau kawalan pemindahan padi atau beras; dan”; dan"
       }
     },
     {

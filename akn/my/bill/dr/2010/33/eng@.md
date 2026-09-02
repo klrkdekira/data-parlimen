@@ -6,13 +6,13 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Interpretation
 
-## Part II
+## PART II
 
 ## NATIONAL VISUAL ARTS DEVELOPMENT BOARD
 
@@ -32,7 +32,7 @@
 
 16. Committees of the Board
 
-## Part III
+## PART III
 
 ## OFFICERS AND SERVANTS OF THE BOARD
 
@@ -48,7 +48,7 @@
 
 21. Payment of retirement benefits, gratuities and other allowances
 
-## Part IV
+## PART IV
 
 ## FINANCE
 
@@ -68,7 +68,7 @@
 
 29. Financial year
 
-## Part V
+## PART V
 
 ## NATIONAL VISUAL ARTS GALLERY
 
@@ -80,7 +80,7 @@
 
 33. Disposal of works of visual arts left with the Gallery
 
-## Part VI
+## PART VI
 
 ## GENERAL
 
@@ -96,23 +96,13 @@
 
 <!-- page 3 -->
 
-## Part VII
+## PART VII
 
 ## REPEAL, SAVINGS AND TRANSITIONAL PROVISIONS
 
-39. Repeal and dissolution
+39. Repeal and dissolution 40. Transfer of powers, etc. 41. Transfer of property 42. Existing contracts 43. Continuance of civil and criminal proceedings 44. Transfer of Fund 45. Continuance of officers and servants
 
-40. Transfer of powers, etc.
-
-41. Transfer of property
-
-42. Existing contracts
-
-43. Continuance of civil and criminal proceedings
-
-44. Transfer of Fund
-
-45. Continuance of officers and servants S chedule
+## S CHEDULE
 
 <!-- page 5 -->
 
@@ -124,7 +114,7 @@ An Act to establish the National Visual Arts Development Board and National Visu
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -158,7 +148,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 “appointed date” means the date on which this Act comes into operation.
 
-## Part II
+## PART II
 
 ## NATIONAL VISUAL ARTS DEVELOPMENT BOARD
 
@@ -408,7 +398,7 @@ to any officer of the Board, except the power to make subsidiary legislation, po
 
 <!-- page 15 -->
 
-## Part III
+## PART III
 
 ## OFFICERS AND SERVANTS OF THE BOARD
 
@@ -456,7 +446,7 @@ to any officer of the Board, except the power to make subsidiary legislation, po
 
 21. The Board may make arrangements for the payment to its officers and servants and their dependants of such retirement benefits, gratuities and other allowances as the Board may determine.
 
-## Part IV
+## PART IV
 
 ## FINANCE
 
@@ -550,7 +540,7 @@ to any officer of the Board, except the power to make subsidiary legislation, po
 
 29. The financial year of the Board shall begin on 1 January and end on 31 December of each year.
 
-## Part V
+## PART V
 
 ## NATIONAL VISUAL ARTS GALLERY
 
@@ -620,7 +610,7 @@ the Board may, with the approval of the Minister, dispose of such work by sale, 
 
 (5) All proceeds from the sale of any works of visual arts under this section shall devolve to the Fund.
 
-## Part VI
+## PART VI
 
 ## GENERAL
 
@@ -662,7 +652,7 @@ the Board may, with the approval of the Minister, dispose of such work by sale, 
 
 38. The Minister may, from time to time, amend the Schedule by order published in the Gazette.
 
-## Part VII
+## PART VII
 
 ## REPEAL, SAVINGS AND TRANSITIONAL PROVISIONS
 
@@ -712,7 +702,7 @@ the Board may, with the approval of the Minister, dispose of such work by sale, 
 
 (1) to have been employed by the Board established by this Act, they shall be given an option whether to continue to be subject to the existing terms and conditions of service or to be subject to the new terms and conditions of service.
 
-## Schedule
+## SCHEDULE
 
 [Subsection 6(4)]
 
@@ -756,7 +746,7 @@ The proposed National Visual Arts Development Board Act 2010 (“the proposed Ac
 
 <!-- page 28 -->
 
-## Part I
+## PART I
 
 2. Part I of the proposed Act contains preliminary matters.
 
@@ -764,7 +754,7 @@ The proposed National Visual Arts Development Board Act 2010 (“the proposed Ac
 
 4. Clause 2 contains the definitions of several expressions used in the proposed Act.
 
-## Part II
+## PART II
 
 5. Part II of the proposed Act contains provisions relating to the establishment of the National Visual Arts Development Board.
 
@@ -792,7 +782,7 @@ The proposed National Visual Arts Development Board Act 2010 (“the proposed Ac
 
 <!-- page 29 -->
 
-## Part III
+## PART III
 
 17. Part III contains provisions on the Director General, officers and servants of the Board.
 
@@ -806,7 +796,7 @@ The proposed National Visual Arts Development Board Act 2010 (“the proposed Ac
 
 22. Clause 21 provides for the payment of retirement benefits, gratuities and other allowances to the Board’s officers, servants and their dependants.
 
-## Part IV
+## PART IV
 
 23. Part IV contains financial provisions.
 
@@ -824,7 +814,7 @@ The proposed National Visual Arts Development Board Act 2010 (“the proposed Ac
 
 <!-- page 30 -->
 
-## Part V
+## PART V
 
 30. Part V contains provisions relating to the National Visual Arts Gallery.
 
@@ -836,7 +826,7 @@ The proposed National Visual Arts Development Board Act 2010 (“the proposed Ac
 
 34. Clause 33 provides for the disposal of any work of visual arts that has been left with the National Visual Arts Gallery and which has not been acquired by the Gallery and the manner to deal therewith.
 
-## Part VI
+## PART VI
 
 35. Part VI contains general provisions.
 
@@ -850,7 +840,7 @@ The proposed National Visual Arts Development Board Act 2010 (“the proposed Ac
 
 40. Clause 38 states that the Minister may amend the Schedule by an order.
 
-## Part VII
+## PART VII
 
 41. Part VII contains repeal, savings and transitional provisions.
 

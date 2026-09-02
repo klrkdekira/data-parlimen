@@ -44,13 +44,19 @@ sempurnanya yang mengenainya notis sekurang-kurangnya empat belas hari yang meny
 
 ' "ketetapan sebulat suara" ertinya suatu ketetapan yang diluluskan dalam mesyuarat agung perbadanan pengurusan yang diadakan dengan sempurnanya yang mengenainya notis sekurang-kurangnya dua puluh satu hari yang menyatakan ketetapan yang dicadangkan itu telah diberikan dan terhadapnya tiada undi yang menentang dibuat.'.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Subseksyen 6(1) Akta ibu adalah dipinda dengan seksyen 6. menggantikan perkataan ", tetapi hanya kepada petak- petak yang hendak dipegang sebagai petak-petak aksesori" dengan perkataan "kepada petak-petak yang hendak dipegang di bawah hakmilik-hakmilik strata atau kepada petak-petak aksesori",
+3. Subseksyen 6(1) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 6. -->
 
-4. Seksyen 7 Akta ibu adalah dipinda— seksyen 7.
+menggantikan perkataan ", tetapi hanya kepada petak- petak yang hendak dipegang sebagai petak-petak aksesori" dengan perkataan "kepada petak-petak yang hendak dipegang di bawah hakmilik-hakmilik strata atau kepada petak-petak aksesori",
+
+<!-- marginal: Pindaan -->
+
+4. Seksyen 7 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 7. -->
 
 (a) dengan menomborkan semula seksyen yang sedia ada sebagai subseksyen (1); dan
 
@@ -62,11 +68,9 @@ Pindaan
 
 (3) Bagi maksud subseksyen (1) dan (2), permohonan boleh dibuat walaupun bangunan itu belum lagi diperakui oleh pihak berkuasa tempatan sebagai layak diduduki atau digunakan.".
 
-<!-- marginal: Pindaan -->
+Pindaan
 
-5. Seksyen 9 Akta ibu adalah dipinda—
-
-<!-- marginal: seksyen 9. -->
+5. Seksyen 9 Akta ibu adalah dipinda— seksyen 9.
 
 (a) dalam subseksyen (1)—
 
@@ -82,11 +86,9 @@ Pindaan
 
 (I) bahawa bangunan yang hendak dipecahbahagikan itu telah di- perakui oleh pihak berkuasa tempatan sebagai layak diduduki atau digunakan.".
 
-<!-- marginal: Pindaan -->
+Pindaan
 
-6. Seksyen 10 Akta ibu adalah dipinda—
-
-<!-- marginal: seksyen 10. -->
+6. Seksyen 10 Akta ibu adalah dipinda— seksyen 10.
 
 (a) dalam subseksyen (1)—
 
@@ -100,7 +102,7 @@ Pindaan
 
 <!-- page 4 -->
 
-4
+<!-- marginal: 4 -->
 
 ## RANG UNDANG-UNDANG
 
@@ -112,11 +114,7 @@ dinyatakan dalam subseksyen (2) seksyen 7, pelan tanah yang diperakui sebagaiman
 
 (a) merujukkan permohonan itu kepada Pengarah Ukur;
 
-(b) dalam hal jika tanah yang dipegang di bawah hakmilik sementara sebagaimana yang dinyatakan dalam subseksyen (2) seksyen (7), mengambil tindakan sewajarnya berkenaan
-
-<!-- marginal: dengan -->
-
-penukaran hakmilik sementara kepada hakmilik tetap; dan
+(b) dalam hal jika tanah yang dipegang di bawah hakmilik sementara sebagaimana yang dinyatakan dalam subseksyen (2) seksyen (7), mengambil tindakan sewajarnya berkenaan dengan penukaran hakmilik sementara kepada hakmilik tetap; dan
 
 (c) dalam hal jika bangunan yang hendak dipecahbahagikan itu belum lagi diperakui layak untuk diduduki atau digunakan, dengan serta-merta mem- beritahu pemohon untuk mendapatkan perakuan kelayakan menduduki dari pihak berkuasa tempatan dalam tempoh yang diberikan."; dan
 
@@ -162,17 +160,19 @@ penukaran hakmilik sementara kepada hakmilik tetap; dan
 
 <!-- page 6 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
 9. Jadual Pertama kepada Akta ibu adalah dipinda dalam
 
 ## Jadual
 
-Pertama. Borang 1 dengan memasukkan selepas subperenggan 3(e) subperenggan yang berikut:
+<!-- marginal: Pertama. -->
+
+Borang 1 dengan memasukkan selepas subperenggan 3(e) subperenggan yang berikut:
 
 "(ea) tiga salinan pelan tanah yang diperakui yang dikehendaki di bawah seksyen 10(l)(cb);".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
 10. Jadual Kedua kepada Akta ibu adalah dipinda dengan
 

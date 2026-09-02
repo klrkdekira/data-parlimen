@@ -36,11 +36,7 @@ Maksud Tajuk
 
 <!-- marginal: (RM) -->
 
-B. 1 Parlimen
-
-<!-- marginal: 24,465,000 -->
-
-B. 4 Suruhanjaya Pilihan Raya
+B. 1 Parlimen 24,465,000 B. 4 Suruhanjaya Pilihan Raya
 
 <!-- marginal: 5,701,960 -->
 
@@ -48,89 +44,19 @@ B. 5 Suruhanjaya Perkhidmatan Awam
 
 <!-- marginal: 1,691,000 -->
 
-B. 6 Jabatan Perdana Menteri
-
-<!-- marginal: 103,011,000 -->
-
-B. 7 Jabatan Perkhidmatan Awam
-
-<!-- marginal: 366,597,100 -->
-
-B. 9 Suruhanjaya Pencegahan Rasuah Malaysia
+B. 6 Jabatan Perdana Menteri 103,011,000 B. 7 Jabatan Perkhidmatan Awam 366,597,100 B. 9 Suruhanjaya Pencegahan Rasuah Malaysia
 
 <!-- marginal: 6,831,600 -->
 
-B. 12 Peruntukan kepada Kumpulan Wang Terkanun
-
-<!-- marginal: 1,682,345,000 -->
-
-B. 13 Kementerian Luar Negeri
-
-<!-- marginal: 68,963,000 -->
-
-B. 22 Kementerian Kemajuan Luar Bandar dan Wilayah
-
-<!-- marginal: 81,894,600 -->
-
-B. 25 Kementerian Perdagangan Dalam Negeri, Koperasi
+B. 12 Peruntukan kepada Kumpulan Wang Terkanun 1,682,345,000 B. 13 Kementerian Luar Negeri 68,963,000 B. 22 Kementerian Kemajuan Luar Bandar dan Wilayah 81,894,600 B. 25 Kementerian Perdagangan Dalam Negeri, Koperasi
 
 <!-- marginal: 7,160,000 -->
 
-dan Kepenggunaan B. 27 Kementerian Kerja Raya
-
-<!-- marginal: 19,350,000 -->
-
-B. 28 Kementerian Pengangkutan
-
-<!-- marginal: 50,634,000 -->
-
-B. 29 Kementerian Tenaga, Teknologi Hijau dan Air
-
-<!-- marginal: 16,500,000 -->
-
-B. 31 Kementerian Pelancongan
-
-<!-- marginal: 20,000,000 -->
-
-B. 41 Kementerian Pelajaran
-
-<!-- marginal: 1,472„404,800 -->
-
-B. 42 Kementerian Kesihatan
-
-<!-- marginal: 739,918,500 -->
-
-B. 45 Kementerian Belia dan Sukan
-
-<!-- marginal: 16,440,000 -->
-
-B. 46 Kementerian Sumber Manusia
-
-<!-- marginal: 13,858,000 -->
-
-B. 47 Kementerian Penerangan, Komunikasi dan
-
-<!-- marginal: 81,979,300 -->
-
-Kebudayaan B. 48 Kementerian Pembangunan Wanita, Keluarga dan
-
-<!-- marginal: 45,575,700 -->
-
-Masyarakat B. 49 Kementerian Pengajian Tinggi
-
-<!-- marginal: 318,000,000 -->
-
-B. 60 Kementerian Pertahanan
-
-<!-- marginal: 660,932,700 -->
-
-B. 62 Kementerian Dalam Negeri
-
-<!-- marginal: 669,551,700 -->
+dan Kepenggunaan B. 27 Kementerian Kerja Raya 19,350,000 B. 28 Kementerian Pengangkutan 50,634,000 B. 29 Kementerian Tenaga, Teknologi Hijau dan Air 16,500,000 B. 31 Kementerian Pelancongan 20,000,000 B. 41 Kementerian Pelajaran 1,472„404,800 B. 42 Kementerian Kesihatan 739,918,500 B. 45 Kementerian Belia dan Sukan 16,440,000 B. 46 Kementerian Sumber Manusia 13,858,000 B. 47 Kementerian Penerangan, Komunikasi dan 81,979,300 Kebudayaan B. 48 Kementerian Pembangunan Wanita, Keluarga dan 45,575,700 Masyarakat B. 49 Kementerian Pengajian Tinggi 318,000,000 B. 60 Kementerian Pertahanan 660,932,700 B. 62 Kementerian Dalam Negeri 669,551,700
 
 ## JUMLAH
 
-<!-- marginal: 6,473,804,960 -->
+6,473,804,960
 
 <!-- page 3 -->
 
@@ -140,4 +66,6 @@ Perbekalan Tambahan
 
 ## HURAIAN
 
-Rang Undang-Undang ini bertujuan untuk mengadakan peruntukan bagi pengeluaran wang daripada Kumpulan Wang Disatukan sebanyak enam bilion empat ratus tujuh puluh tiga juta lapan ratus empat ribu sembilan ratus enam puluh ringgit (RM6,473,804,960) untuk perkhidmatan dan maksud yang dinyatakan dalam Jadual bagi tahun 2009. [PN(U2)2206/V]
+Rang Undang-Undang ini bertujuan untuk mengadakan peruntukan bagi pengeluaran wang daripada Kumpulan Wang Disatukan sebanyak enam bilion empat ratus tujuh puluh tiga juta lapan ratus empat ribu sembilan ratus enam puluh ringgit (RM6,473,804,960) untuk perkhidmatan dan maksud yang dinyatakan dalam Jadual bagi tahun 2009.
+
+<!-- marginal: [PN(U2)2206/V] -->

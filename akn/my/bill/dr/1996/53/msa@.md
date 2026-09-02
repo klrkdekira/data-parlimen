@@ -8,9 +8,7 @@
 
 bernama
 
-Suatu Akta untuk meminda Akta Syarikat Luar Pesisir
-
-1990. [ ]
+Suatu Akta untuk meminda Akta Syarikat Luar Pesisir 1990. [ ]
 
 ## MAKA INILAH DIPERBUAT UNDANG-UNDANG
 
@@ -60,15 +58,59 @@ yang disebut "Akta ibu" dalam Akta ini, adalah dipinda—
 
 ' "tarikh pembayaran fee tahunan" ertinya tarikh fee tahunan sesuatu syarikat luar pesisir kena dibayar menurut seksyen 15(6);'.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Akta ibu adalah dipinda dengan menggantikan seksyen seksyen 6. 6 dengan seksyen yang berikut: " Pemas-
+3. Akta ibu adalah dipinda dengan menggantikan seksyen
 
-6. Seorang pemastautin Malaysia yang tautin melakukan apa-apa perbuatan yang dibenarkan yang melakukan oleh Akta ini dilakukan oleh pemastautin itu apa-apa perbuatan hendaklah dianggap sebagai seorang bukan di bawah pemastautin untuk tujuan seksyen 8 Akta Akta ini dianggap Syarikat Amanah Labuan 1990.". sebagai bukan pemas- tautin. Akta 442
+<!-- marginal: seksyen 6. -->
 
-Pindaan
+6 dengan seksyen yang berikut: "
 
-4. Seksyen 7 Akta ibu adalah dipinda— seksyen 7.
+<!-- marginal: Pemas- -->
+
+6. Seorang pemastautin Malaysia yang
+
+<!-- marginal: tautin -->
+
+melakukan apa-apa perbuatan yang dibenarkan
+
+<!-- marginal: yang -->
+
+<!-- marginal: melakukan -->
+
+oleh Akta ini dilakukan oleh pemastautin itu
+
+<!-- marginal: apa-apa -->
+
+<!-- marginal: perbuatan -->
+
+hendaklah dianggap sebagai seorang bukan
+
+<!-- marginal: di bawah -->
+
+pemastautin untuk tujuan seksyen 8 Akta
+
+<!-- marginal: Akta ini -->
+
+<!-- marginal: dianggap -->
+
+Syarikat Amanah Labuan 1990.".
+
+<!-- marginal: sebagai -->
+
+<!-- marginal: bukan -->
+
+<!-- marginal: pemas- -->
+
+<!-- marginal: tautin. -->
+
+<!-- marginal: Akta 442 -->
+
+<!-- marginal: Pindaan -->
+
+4. Seksyen 7 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 7. -->
 
 (a) dalam subseksyen (3)—
 
@@ -98,9 +140,13 @@ Pindaan
 
 <!-- page 4 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-5. Seksyen 9 Akta ibu adalah dipinda dengan seksyen 9. menggantikan proviso kepada subseksyen (2) dengan proviso yang berikut:
+5. Seksyen 9 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 9. -->
+
+menggantikan proviso kepada subseksyen (2) dengan proviso yang berikut:
 
 "Dengan syarat bahawa subseksyen ini tidaklah terpakai—
 
@@ -108,9 +154,11 @@ Pindaan
 
 (b) jika suatu permohonan dibuat oleh sesuatu syarikat luar pesisir atau syarikat luar pesisir asing untuk mendapat suatu lesen bagi maksud menjalankan atau menawarkan untuk menjalankan perniagaan suatu syarikat pengurusan di bawah Bahagian VIIIA.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-6. Seksyen 21 Akta ibu adalah dipinda— seksyen 21.
+6. Seksyen 21 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 21. -->
 
 (a) dengan menggantikan subseksyen (2) dengan subseksyen yang berikut:
 
@@ -174,21 +222,37 @@ sebagai sebahagian daripada namanya."; dan
 
 (c) dalam subseksyen (3) dengan menggantikan perkataan "empat belas hari" dengan perkataan "satu bulan".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-9. Subseksyen 55(8) Akta ibu adalah dipinda dengan seksyen 55 menggantikan perkataan "empat belas hari" dengan perkataan "satu bulan".
+9. Subseksyen 55(8) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 55 -->
 
-10. Subseksyen 83(1) Akta ibu adalah dipinda dengan seksyen 83. menggantikan perkataan "tidak lewat daripada empat belas hari" dengan perkataan "dalam masa satu bulan".
+menggantikan perkataan "empat belas hari" dengan perkataan "satu bulan".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-11. Subseksyen 84(1) Akta ibu adalah dipinda dengan seksyen 84. menggantikan perkataan "empat belas hari" di mana-mana jua terdapat dengan perkataan"satu bulan".
+10. Subseksyen 83(1) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 83. -->
 
-12. Subseksyen 85(2) dan 85(3) Akta ibu adalah dipinda seksyen 85. dengan menggantikan perkataan "empat belas hari" dengan perkataan "satu bulan".
+menggantikan perkataan "tidak lewat daripada empat belas hari" dengan perkataan "dalam masa satu bulan".
+
+<!-- marginal: Pindaan -->
+
+11. Subseksyen 84(1) Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 84. -->
+
+menggantikan perkataan "empat belas hari" di mana-mana jua terdapat dengan perkataan"satu bulan".
+
+<!-- marginal: Pindaan -->
+
+12. Subseksyen 85(2) dan 85(3) Akta ibu adalah dipinda
+
+<!-- marginal: seksyen 85. -->
+
+dengan menggantikan perkataan "empat belas hari" dengan perkataan "satu bulan".
 
 <!-- page 7 -->
 
@@ -216,13 +280,19 @@ Syarikat Luar Pesisir (Pindaan) 7
 
 <!-- page 8 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-14. Subseksyen 87(2) Akta ibu adalah dipinda dengan seksyen 87. memasukkan selepas perkataan "pegawai syarikat amanah" perkataan "atau sesuatu syarikat domestik yang dimiliki sepenuhnya oleh syarikat amanah itu".
+14. Subseksyen 87(2) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 87. -->
 
-15. Seksyen 93 Akta ibu adalah dipinda— seksyen 93.
+memasukkan selepas perkataan "pegawai syarikat amanah" perkataan "atau sesuatu syarikat domestik yang dimiliki sepenuhnya oleh syarikat amanah itu".
+
+<!-- marginal: Pindaan -->
+
+15. Seksyen 93 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 93. -->
 
 (a) dengan memasukkan selepas subseksyen (1) subseksyen yang berikut:
 
@@ -230,9 +300,11 @@ Pindaan
 
 (b) dalam subseksyen (2) dengan memasukkan selepas perkataan "pegawai syarikat amanah" perkataan "atau sesuatu syarikat domestik yang dimiliki sepenuhnya oleh syarikat amanah itu".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-16. Seksyen 94 Akta ibu adalah dipinda— seksyen 94.
+16. Seksyen 94 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 94. -->
 
 (a) dalam subseksyen (2) dengan menggantikan perkataan "atau, dalam hal pengarah yang adalah suatu syarikat, nama penuh syarikat itu," perkataan "dan nama syarikat amanah yang dia adalah seorang pegawainya dan alamat pejabat berdaftarnya, atau dalam hal suatu perbadanan, nama penuh perbadanan itu,"; dan
 
@@ -254,9 +326,7 @@ Syarikat Luar Pesisir (Pindaan)
 
 <!-- marginal: baru 94A. -->
 
-memasukkan selepas seksyen 94 seksyen berikut: " Kesalahan
-
-94A. Jika mana-mana kesalahan terhadap mana- terhadap mana peruntukan Akta ini telah dilakukan oleh mana-mana peruntukan mana-mana syarikat domestik yang disediakan Akta ini oleh suatu syarikat amanah untuk bertindak atau yang dilakukan dilantik sebagai pengarah pemastautin atau oleh setiausaha pemastautin sesuatu syarikat luar pengarah- pengarah pesisir, mana-mana orang yang pada masa dan setiausaha- pelakuan kesalahan itu adalah pengarah atau setiausaha pegawai syarikat amanah itu atau berupa sebagai bertindak atau mana-mana sifat sedemikian, atau telah dengan apa-apa cara atau sehingga apa- apa takat bertanggungjawab tentang pengurusan mana-mana hal-ehwal syarikat amanah itu, atau telah membantu dalam pengurusan sedemikian, adalah melakukan kesalahan itu melainkan jika dia membuktikan bahawa kesalahan itu telah dilakukan tanpa dipersetujui atau dibiarkan olehnya dan bahawa dia telah menjalankan segala usaha untuk mencegah pelakuan kesalahan itu sebagaimana yang patut dijalankan olehnya, dengan memberikan perhatian kepada jenis fungsinya atas sifat itu dan segala hal keadaan.".
+memasukkan selepas seksyen 94 seksyen berikut: " Kesalahan 94A. Jika mana-mana kesalahan terhadap mana- terhadap mana peruntukan Akta ini telah dilakukan oleh mana-mana peruntukan mana-mana syarikat domestik yang disediakan Akta ini oleh suatu syarikat amanah untuk bertindak atau yang dilakukan dilantik sebagai pengarah pemastautin atau oleh setiausaha pemastautin sesuatu syarikat luar pengarah- pengarah pesisir, mana-mana orang yang pada masa dan setiausaha- pelakuan kesalahan itu adalah pengarah atau setiausaha pegawai syarikat amanah itu atau berupa sebagai bertindak atau mana-mana sifat sedemikian, atau telah dengan apa-apa cara atau sehingga apa- apa takat bertanggungjawab tentang pengurusan mana-mana hal-ehwal syarikat amanah itu, atau telah membantu dalam pengurusan sedemikian, adalah melakukan kesalahan itu melainkan jika dia membuktikan bahawa kesalahan itu telah dilakukan tanpa dipersetujui atau dibiarkan olehnya dan bahawa dia telah menjalankan segala usaha untuk mencegah pelakuan kesalahan itu sebagaimana yang patut dijalankan olehnya, dengan memberikan perhatian kepada jenis fungsinya atas sifat itu dan segala hal keadaan.".
 
 <!-- marginal: Pindaan -->
 
@@ -270,15 +340,27 @@ menggantikan perkataan "dua hari" dan perkataan "empat belas hari" masing-masing
 
 10 Rang Undang-Undang
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-19. Perenggan 1 2 1 ( 2 )( e) Akta ibu adalah dipinda dengan seksyen 121, memotong perkataan "luar pesisir".
+19. Perenggan 1 2 1 ( 2 )( e) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 121, -->
 
-20. Seksyen 126 Akta ibu adalah dipinda dengan seksyen 126. menggantikan perkataan "tujuh hari" dengan perkataan "satu bulan".
+memotong perkataan "luar pesisir".
 
-21. Akta ibu adalah dipinda dengan memasukkan selepas Bahagian baru VIIlA.
+<!-- marginal: Pindaan -->
+
+20. Seksyen 126 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 126. -->
+
+menggantikan perkataan "tujuh hari" dengan perkataan "satu bulan".
+
+21. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: Bahagian -->
+
+<!-- marginal: baru VIIlA. -->
 
 ## Bahagian VIII Bahagian yang berikut:
 
@@ -306,11 +388,25 @@ Daftar 130B. (1) Pendaftar boleh menyimpan suatu syarikat daftar semua syarikat 
 
 (3) Daftar tersebut hendaklah dalam bentuk yang boleh ditentukan oleh Pendaftar dan boleh terbuka kepada umum untuk pemeriksaan semasa waktu pejabat atas bayaran apa-apa fee pemeriksaan sebagaimana yang ditetapkan.
 
-Pelesenan. 130c. Tiada seorang pun boleh menjalankan perniagaan syarikat pengurusan dalam, dari atau melalui Labuan melainkan jika orang itu dilesenkan di bawah Bahagian ini.
+<!-- marginal: Pelesenan. -->
 
-Permohonan
+130c. Tiada seorang pun boleh menjalankan perniagaan syarikat pengurusan dalam, dari atau melalui Labuan melainkan jika orang itu dilesenkan di bawah Bahagian ini.
 
-130D. (1) Tiada seorang pun, kecuali suatu untuk syarikat luar pesisir yang diperbadankan, atau mendapatkan syarikat luar pesisir asing yang didaftarkan, di lesen. bawah Akta ini, boleh memohon kepada Pendaftar untuk mendapat suatu lesen untuk menjalankan perniagaan pengurusan syarikat dalam, dari atau melalui Labuan.
+<!-- marginal: Permohonan -->
+
+130D. (1) Tiada seorang pun, kecuali suatu
+
+<!-- marginal: untuk -->
+
+syarikat luar pesisir yang diperbadankan, atau
+
+<!-- marginal: mendapatkan -->
+
+syarikat luar pesisir asing yang didaftarkan, di
+
+<!-- marginal: lesen. -->
+
+bawah Akta ini, boleh memohon kepada Pendaftar untuk mendapat suatu lesen untuk menjalankan perniagaan pengurusan syarikat dalam, dari atau melalui Labuan.
 
 (2) Suatu permohonan di bawah subseksyen
 
@@ -328,7 +424,9 @@ Permohonan
 
 <!-- page 12 -->
 
-12 Rang Undang-Undang
+<!-- marginal: 12 -->
+
+Rang Undang-Undang
 
 (c) mengandungi—
 
@@ -368,9 +466,17 @@ Syarikat Luar Pesisir (Pindaan) 13
 
 (c) terus berkuatkuasa sehingga ia dibatalkan.
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-130F. (1) Pendaftar boleh, jika dia berpuas hati memberikan bahawa tidaklah mudarat kepada kepentingan pengecualian. awam untuk berbuat demikian, mengarahkan bahawa semua atau mana-mana peruntukan di bawah Bahagian ini hendaklah—
+130F. (1) Pendaftar boleh, jika dia berpuas hati
+
+<!-- marginal: memberikan -->
+
+bahawa tidaklah mudarat kepada kepentingan
+
+<!-- marginal: pengecualian. -->
+
+awam untuk berbuat demikian, mengarahkan bahawa semua atau mana-mana peruntukan di bawah Bahagian ini hendaklah—
 
 (a) tidak terpakai; atau
 
@@ -380,11 +486,19 @@ bagi sesuatu syarikat pengurusan.
 
 <!-- page 14 -->
 
-14 Rang Undang-Undang
+<!-- marginal: 14 -->
+
+Rang Undang-Undang
 
 (2) Sesuatu arahan di bawah seksyen ini boleh dibatalkan pada bila-bila masa mengikut budi bicara Pendaftar.
 
-Prosedur 130c. (1) Jika Pendaftar memberikan sesuatu pelesenan. lesen kepada pemohon Pendaftar hendaklah—
+<!-- marginal: Prosedur -->
+
+130c. (1) Jika Pendaftar memberikan sesuatu
+
+<!-- marginal: pelesenan. -->
+
+lesen kepada pemohon Pendaftar hendaklah—
 
 (a) memasukkan butir-butir pemohon dalam daftar yang disenggarakan olehnya; dan
 
@@ -392,17 +506,25 @@ Prosedur 130c. (1) Jika Pendaftar memberikan sesuatu pelesenan. lesen kepada pem
 
 (2) Tiap-tiap lesen yang dikeluarkan di bawah Bahagian ini hendaklah mempunyai tarikh lesen itu diberikan.
 
-Fee
+<!-- marginal: Fee -->
 
-130H. (1) Sesuatu syarikat pengurusan yang tahunan. diberi lesen di bawah Bahagian ini hendaklah membayar, tidak lewat daripada tiga puluh hari dari setiap tarikh ulangtahun lesen itu diberikan, apa-apa fee tahunan yang ditetapkan.
+130H. (1) Sesuatu syarikat pengurusan yang
+
+<!-- marginal: tahunan. -->
+
+diberi lesen di bawah Bahagian ini hendaklah membayar, tidak lewat daripada tiga puluh hari dari setiap tarikh ulangtahun lesen itu diberikan, apa-apa fee tahunan yang ditetapkan.
 
 (2) Mana-mana fee tahunan yang tidak dibayar dalam tempoh yang dinyatakan dalam subseksyen
 
 (1) boleh didapati oleh Pendaftar melalui prosiding sivil sebagai hutang yang kena dibayar kepada Pendaftar dan Pendaftar boleh menghendaki dan Mahkamah boleh memerintahkan pembayaran suatu penalti yang amaunnya bersamaan dengan amaun fee itu kerana pembayaran lewat fee itu.
 
-Pembatalan
+<!-- marginal: Pembatalan -->
 
-130I. (1) Pendaftar boleh membatalkan sesuatu lesen. lesen—
+130I. (1) Pendaftar boleh membatalkan sesuatu
+
+<!-- marginal: lesen. -->
+
+lesen—
 
 (a) atas permintaan pemegang lesen itu; atau
 
@@ -418,7 +540,19 @@ Pembatalan
 
 (2) Pendaftar boleh menyiarkan dalam Warta, dalam apa-apa bentuk yang difikirkannya patut, notis tiap-tiap pembatalan lesen di bawah Bahagian ini.
 
-Akses 130J. Bagi maksud menunaikan kewajipan- kepada kewajipannya, di bawah Bahagian ini, Pendaftar maklumat dan rekod. boleh, pada bila-bila masa yang munasabah, secara bertulis mengarahkan mana-mana pegawai sesuatu syarikat pengurusan yang baginya Bahagian ini terpakai—
+<!-- marginal: Akses -->
+
+130J. Bagi maksud menunaikan kewajipan-
+
+<!-- marginal: kepada -->
+
+kewajipannya, di bawah Bahagian ini, Pendaftar
+
+<!-- marginal: maklumat -->
+
+<!-- marginal: dan rekod. -->
+
+boleh, pada bila-bila masa yang munasabah, secara bertulis mengarahkan mana-mana pegawai sesuatu syarikat pengurusan yang baginya Bahagian ini terpakai—
 
 (a) supaya memberikan maklumat; atau
 
@@ -428,7 +562,19 @@ yang berhubungan dengan perniagaan syarikat pengurusan itu yang dijalankan di ba
 
 <!-- page 16 -->
 
-Kekebalan 130K. (1) Tiada liabiliti ditanggung oleh dan dan tindakan tiada guaman, tindakan atau prosiding boleh oleh Pendaftar. dibawa terhadap Pendaftar bagi apa-apa perbuatan yang dilakukannya atau tidak dilakukannya dengan suci hati—
+<!-- marginal: Kekebalan -->
+
+130K. (1) Tiada liabiliti ditanggung oleh dan
+
+<!-- marginal: dan tindakan -->
+
+tiada guaman, tindakan atau prosiding boleh
+
+<!-- marginal: oleh -->
+
+<!-- marginal: Pendaftar. -->
+
+dibawa terhadap Pendaftar bagi apa-apa perbuatan yang dilakukannya atau tidak dilakukannya dengan suci hati—
 
 (a) dalam pelaksanaan atau cadangan pelaksanaan mana-mana fungsi atau kewajipan; atau
 
@@ -438,7 +584,11 @@ di bawah Bahagian ini.
 
 (2) Pendaftar boleh membawa tindakan dan memulakan prosiding untuk menguatkuasakan mana-mana peruntukan Bahagian ini atau untuk mendapatkan fee atau jumlah wang yang lain yang kena boleh dibayar di bawah Bahagian ini.
 
-Kesalahan 130L. (1) Seorang yang— dan penalti.
+<!-- marginal: Kesalahan -->
+
+130L. (1) Seorang yang—
+
+<!-- marginal: dan penalti. -->
 
 (a) dengan sengaja membuat apa-apa salah nyataan dalam mana-mana dokumen yang dikehendaki difailkan, dikemukakan atau diserahkan di bawah Bahagian ini;
 
@@ -472,9 +622,7 @@ menggantikan perkataan 'atau "Sociedad Anonima'" dengan perkataan ', "Sociedad A
 
 <!-- marginal: seksyen 147. -->
 
-147 dengan seksyen yang berikut: " Pelaburan
-
-147. (1) Sesuatu syarikat luar pesisir atau dalam syarikat luar pesisir asing boleh memegang syer- syarikat syer, obligasi-obligasi hutang atau sekuriti- domestik sekuriti lain dalam sesuatu syarikat domestik kecuali sesuatu syarikat amanah asalkan pegangan sedemikian tidak terjumlah kepada suatu kepentingan pengawalan dalam syarikat domestik itu dan diluluskan oleh Pendaftar.
+147 dengan seksyen yang berikut: " Pelaburan 147. (1) Sesuatu syarikat luar pesisir atau dalam syarikat luar pesisir asing boleh memegang syer- syarikat syer, obligasi-obligasi hutang atau sekuriti- domestik sekuriti lain dalam sesuatu syarikat domestik kecuali sesuatu syarikat amanah asalkan pegangan sedemikian tidak terjumlah kepada suatu kepentingan pengawalan dalam syarikat domestik itu dan diluluskan oleh Pendaftar.
 
 <!-- page 18 -->
 
@@ -502,7 +650,11 @@ menggantikan perkataan 'atau "Sociedad Anonima'" dengan perkataan ', "Sociedad A
 
 (a) seseorang tidak boleh dilantik sebagai pengarah tanpa penjalanan kuasa sedemikian oleh syarikat luar pesisir atau syarikat luar pesisir asing itu dengan memihak kepadanya; atau
 
-(b) hakikat bahawa seseorang itu adalah seorang pengarah atau pegawai syarikat luar pesisir atau syarikat luar pesisir asing itu semestinya membawa kepada pelantikannya sebagai seorang pengarah.".
+(b) hakikat bahawa seseorang itu adalah seorang pengarah atau pegawai syarikat luar pesisir atau syarikat luar pesisir asing itu semestinya membawa kepada pelantikannya sebagai
+
+<!-- marginal: seorang -->
+
+pengarah.".
 
 <!-- marginal: Pindaan -->
 
@@ -518,15 +670,11 @@ memasukkan selepas perkataan "atau kelas syarikat luar pesisir atau syarikat lua
 
 <!-- marginal: seksyen 151. -->
 
-151 dengan seksyen yang berikut: " Fee,
-
-151. (1) Sesuatu syarikat luar pesisir hendaklah penalti membayar kepada Pendaftar fee tahunan yang dan pemo- kena dibayar pada tarikh pembayaran fee tongan. tahunan.
+151 dengan seksyen yang berikut: " Fee, 151. (1) Sesuatu syarikat luar pesisir hendaklah penalti membayar kepada Pendaftar fee tahunan yang dan pemo- kena dibayar pada tarikh pembayaran fee tongan. tahunan.
 
 <!-- page 20 -->
 
-(2) Jika sesuatu syarikat luar pesisir gagal membayar fee tahunan di bawah subseksyen
-
-(1) pada atau sebelum tamat tempoh enam bulan dari tarikh pembayaran fee tahunan maka hendaklah kena dibayar sebagai tambahan kepada fee tahunan itu suatu amaun yang bersamaan dengan lima puluh peratus daripada yuran tahunan.
+(2) Jika sesuatu syarikat luar pesisir gagal membayar fee tahunan di bawah subseksyen (1) pada atau sebelum tamat tempoh enam bulan dari tarikh pembayaran fee tahunan maka hendaklah kena dibayar sebagai tambahan kepada fee tahunan itu suatu amaun yang bersamaan dengan lima puluh peratus daripada yuran tahunan.
 
 (3) Jika sesuatu syarikat luar pesisir gagal membayar fee tahunan dan amaun tambahan yang dinyatakan dalam subseksyen (2) pada atau sebelum tamat tempoh satu bulan dari tarikh tamat tempoh enam bulan yang dinyatakan dalam subseksyen (2), Pendaftar boleh selepas tamat tempoh satu bulan itu menghantar kepada setiausaha syarikat bagi syarikat luar pesisir itu suatu notis bertulis bahawa nama syarikat luar pesisir itu akan dipotong dari daftar jika fee tahunan dan amaun yang dinyatakan dalam subseksyen (2) tidak dibayar dalam masa satu bulan dari tarikh notis itu atau apa-apa tempoh yang lebih lanjut sebagaimana yang dibenarkan oleh Pendaftar.
 
@@ -554,9 +702,35 @@ seksyen 151 seksyen yang berikut:
 
 <!-- marginal: 151c. -->
 
-" Syarikat
+"
 
-151A. Sesuatu syarikat luar pesisir yang yang diperbadankan di bawah Akta ini hendaklah terus dipotong namanya bertanggungan bagi semua fee, fee lesen dan bertang- penalti yang kena dibayar di bawah Akta ini, gungan termasuk amaun tambahan yang dinyatakan bagi fee, dsb. dalam subseksyen (2) seksyen 151, walaupun nama syarikat luar pesisir itu telah dipotong dari daftar; dan fee, fee lesen dan penalti itu hendaklah diberi keutamaan daripada semua tuntutan lain terhadap aset syarikat luar pesisir itu.
+<!-- marginal: Syarikat -->
+
+151A. Sesuatu syarikat luar pesisir yang
+
+<!-- marginal: yang -->
+
+diperbadankan di bawah Akta ini hendaklah terus
+
+<!-- marginal: dipotong -->
+
+<!-- marginal: namanya -->
+
+bertanggungan bagi semua fee, fee lesen dan
+
+<!-- marginal: bertang- -->
+
+penalti yang kena dibayar di bawah Akta ini,
+
+<!-- marginal: gungan -->
+
+termasuk amaun tambahan yang dinyatakan
+
+<!-- marginal: bagi fee, -->
+
+<!-- marginal: dsb. -->
+
+dalam subseksyen (2) seksyen 151, walaupun nama syarikat luar pesisir itu telah dipotong dari daftar; dan fee, fee lesen dan penalti itu hendaklah diberi keutamaan daripada semua tuntutan lain terhadap aset syarikat luar pesisir itu.
 
 <!-- marginal: Fee kena -->
 
@@ -584,7 +758,9 @@ telah dipotong dari daftar, syarikat luar pesisir itu, dan pengarah-pengarah, an
 
 <!-- page 22 -->
 
-Rang Undang-Undang 22
+Rang Undang-Undang
+
+<!-- marginal: 22 -->
 
 (b) membela apa-apa presiding undang- undang, membuat apa-apa tuntutan atau menuntut apa-apa hak untuk, atau atas nama, syarikat luar pesisir itu; atau
 
@@ -604,11 +780,7 @@ Rang Undang-Undang 22
 
 (b) mana-mana pemiutang membuat tuntutan terhadap syarikat luar pesisir itu dan meneruskan tuntutan sehingga penghakiman atau pelaksanaan; atau
 
-(c) perlantikan seorang pelikuidasi rasmi oleh Mahkamah untuk syarikat luar pesisir itu di bawah Bahagian VIII dan
-
-## Bahagian X (setakat yang berhubungan
-
-dengan syarikat luar pesisir yang terhad Akta 125. oleh syer) Akta Syarikat 1965.".
+(c) perlantikan seorang pelikuidasi rasmi oleh Mahkamah untuk syarikat luar pesisir itu di bawah Bahagian VIII dan Bahagian X (setakat yang berhubungan dengan syarikat luar pesisir yang terhad Akta 125. oleh syer) Akta Syarikat 1965.".
 
 <!-- page 23 -->
 

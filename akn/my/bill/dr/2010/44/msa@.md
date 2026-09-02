@@ -860,9 +860,11 @@ Georgetown, Pulau Pinang (a) dermaga Suruhanjaya Pelabuhan Pulau Pinang;
 
 (d) ponton pendaratan yang diselenggara oleh Pulau Pinang Yacht Base.
 
-Batu Maung Jeti Lembaga Kemajuan Ikan Malaysia yang terletak di Garisan lintang 50˚ 17’ Utara Garisan bujur 100˚ 17’ Timur
+<!-- marginal: Batu Maung -->
 
-Butterworth
+Jeti Lembaga Kemajuan Ikan Malaysia yang terletak di Garisan lintang 50˚ 17’ Utara Garisan bujur 100˚ 17’ Timur
+
+<!-- marginal: Butterworth -->
 
 (a) tambangan yang dikendalikan oleh Suruhanjaya Pelabuhan Pulau Pinang;
 
@@ -870,13 +872,13 @@ Butterworth
 
 (c) Pengkalan Kontena Butterworth Utara yang dikendalikan oleh Suruhanjaya Pelabuhan Pulau Pinang.
 
-Prai
+<!-- marginal: Prai -->
 
 (a) bahagian tebing sebelah selatan Sungai Prai mulai dari Jeti Penumpang Kereta Api menghala ke barat hingga ke laut, termasuk pengkalan pendaratan dan dermaga Suruhanjaya Pelabuhan Pulau Pinang dan juga pantai pasang surut tebus guna dan berakhir pada jarak 237.8 meter ke arah selatan dari hujung sebelah selatan limbungan tongkang;
 
 (b) Terminal Kargo Pukal yang dikendalikan oleh Suruhanjaya Pelabuhan Pulau Pinang yang terletak di Garisan lintang 5˚ 22’ Utara Garisan bujur 100˚ 22’ Timur.
 
-Lumut, Perak
+<!-- marginal: Lumut, Perak -->
 
 (a) Jeti Jabatan Kerja Raya Awam yang terletak di tebing kiri Sungai Dindings dan bidang tanah yang terkandung dalam sempadan yang berikut, Utara-Sungai Dindings Selatan-Jalan Kerajaan Timur. Titik di tebing kiri Sungai Dindings 73.1 meter jauhnya ke sebelah timur kunci air di simpang Garling dan Jalan Titi Panjang Barat-Jeti Jabatan Kerja Raya Awam(termasuk);
 
@@ -886,19 +888,25 @@ Lumut, Perak
 
 (c) Dermaga dan Jeti Lumut Maritime Terminal Sdn. Bhd., di tebing timur Sungai Dindings pada Garisan Lintang 4˚ 15’ 34” Utara Garisan bujur 100˚ 39’ 43” Timur dan sempadan di selatan pada Garisan lintang 4˚ 15’ 11” Utara Garisan bujur 100˚ 39’ 33” Timur.
 
-Telok Muruh, Mukim Lumut Jeti Marina Sactuary Resort Sdn. Bhd. Teluk Muruh, Lumut, Perak pada Garisan lintang 04˚ 12’ 05.0” Utara Garisan bujur 100˚ 36’ 00.0” Timur
+<!-- marginal: Telok Muruh, Mukim Lumut -->
 
-Telok Anson Dermaga No. 2 Kereta Api Telok Anson/ Telok Intan
+Jeti Marina Sactuary Resort Sdn. Bhd. Teluk Muruh, Lumut, Perak pada Garisan lintang 04˚ 12’ 05.0” Utara Garisan bujur 100˚ 36’ 00.0” Timur
 
-Hutan Melintang
+<!-- marginal: Telok Anson -->
+
+Dermaga No. 2 Kereta Api Telok Anson/ Telok Intan
+
+<!-- marginal: Hutan Melintang -->
 
 (a) Jeti Ghadaf Marble Sdn. Bhd. dalam Hutan River yang terletak di sebelah negeri Perak Garisan bujur 100˚ 48’ 45” Timur di sebelah timur Melintang yang terletak di tebing Bernam di antara Garisan Lintang 3˚ 51’ 30” Utara di sebelah barat;
 
 (b) Jeti Ghadaf Marble Sdn. Bhd. dalam Hutan Melintang yang terletak di bahagian tebing Sungai Bernam di sebelah negeri Perak di antara Garisan lintang 3˚ 51’ 30” Utara di sebelah barat dan Garisan bujur 100˚ 48’ 33” Timur di sebelah timur.
 
-Pulau Lekir 1 Jeti Lekir Bulk Terminal Sdn. Bhd. yang terletak di Garisan lintang 4˚ 08’ 06” Utara 4˚ 08’ 54” Utara 4˚ 09’ 26.5” Utara 4˚ 10’ 10.1” Utara Garisan bujur 100˚ 37’ 42” Timur 100˚ 37’ 13” Timur 100˚ 38’ 23.1” Timur 100˚ 38’ 29.3” Timur
+<!-- marginal: Pulau Lekir 1 -->
 
-Pelabuhan Klang
+Jeti Lekir Bulk Terminal Sdn. Bhd. yang terletak di Garisan lintang 4˚ 08’ 06” Utara 4˚ 08’ 54” Utara 4˚ 09’ 26.5” Utara 4˚ 10’ 10.1” Utara Garisan bujur 100˚ 37’ 42” Timur 100˚ 37’ 13” Timur 100˚ 38’ 23.1” Timur 100˚ 38’ 29.3” Timur
+
+<!-- marginal: Pelabuhan Klang -->
 
 (a) Dermaga dan Jeti Lembaga Pelabuhan Klang di tebing timur Selat Klang di antara Sungai Tiga dan Sungai Puloh;
 
@@ -908,13 +916,23 @@ Pelabuhan Klang
 
 (c) Dermaga dan Jeti Lembaga Pelabuhan Klang di tebing barat Pulau Indah di antara Sungai Chandong Besar di utara sebelah barat sempadan pelabuhan di Garisan lintang 02˚ 55’ 48” Utara Garisan bujur 101˚ 20’ 24.5” Timur dan Sungai Lurus di selatan sebelah barat sempadan di Garisan lintang 02˚ 54’ 05” Utara Garisan bujur 101˚ 17’ 10” Timur;
 
-(d) Star Cruise Sdn. Bhd. yang menganjur 247.31 meter ke laut yang terletak di tebing barat pulau indah di utara Sungai Chandong Besar di Garisan lintang 02˚ 59’ 05.415” Utara 02˚ 59’ 06.003” Utara Garisan bujur 101˚ 20’ 15.723” Timur 101˚ 20’ 16.921” Timur; (e) Jeti Asa Niaga Sdn. Bhd. di Pelabuhan Klang yang terletak di tebing kiri Sungai Klang di antara Garisan lintang 03˚ 00’ 31.9294” Utara hingga 03˚ 00’ 26.1835” Utara Garisan bujur 101˚ 23’ 28.4299” Timur hingga 101˚ 23’ 26.4980” Timur.
+(d) Star Cruise Sdn. Bhd. yang menganjur 247.31 meter ke laut yang terletak di tebing barat pulau indah di utara Sungai Chandong Besar di Garisan lintang 02˚ 59’ 05.415” Utara 02˚ 59’ 06.003” Utara Garisan bujur 101˚ 20’ 15.723” Timur 101˚ 20’ 16.921” Timur;
 
-Port Dickson jeti kereta api
+(e) Jeti Asa Niaga Sdn. Bhd. di Pelabuhan Klang yang terletak di tebing kiri Sungai Klang di antara Garisan lintang 03˚ 00’ 31.9294” Utara hingga 03˚ 00’ 26.1835” Utara Garisan bujur 101˚ 23’ 28.4299” Timur hingga 101˚ 23’ 26.4980” Timur.
 
-Mukim Jimah, Jeti Jimah Energy Ventures Sdn. Bhd., Port Dickson bagi loji jana kuasa 1400 MV berasaskan arang batu, menganjur sepanjang 1.3 kilometer ke arah laut, terletak di antara Garisan lintang 2˚ 34’ 41.72712” Utara hingga 2˚ 34’ 44.33909” Utara Garisan bujur 101˚ 42’ 51.19108” Timur hingga 101˚ 43’ 1.05072” Timur
+<!-- marginal: Port Dickson -->
 
-Melaka
+jeti kereta api
+
+<!-- marginal: Mukim Jimah, -->
+
+Jeti Jimah Energy Ventures Sdn. Bhd.,
+
+<!-- marginal: Port Dickson -->
+
+bagi loji jana kuasa 1400 MV berasaskan arang batu, menganjur sepanjang 1.3 kilometer ke arah laut, terletak di antara Garisan lintang 2˚ 34’ 41.72712” Utara hingga 2˚ 34’ 44.33909” Utara Garisan bujur 101˚ 42’ 51.19108” Timur hingga 101˚ 43’ 1.05072” Timur
+
+<!-- marginal: Melaka -->
 
 (a) bahagian tebing Sungai Melaka mulai dari Jeti Feri menghala ke hulu hingga ke pagar dawai yang mengelilingi kawasan larangan Pelabuhan Melaka;
 
@@ -924,23 +942,37 @@ Melaka
 
 (c) jeti Tanjung Bruas.
 
-Sungai Udang, Melaka Jeti dan Dermaga Sungai Udang Port Sdn. Bhd.
+<!-- marginal: Sungai Udang, Melaka -->
 
-Mukim Sungai Rambai Jeti Kerajaan sepanjang 115.457 meter di tebing Sungai Kesang yang terletak di antara T60903.0 dari S66630.5 di utara dan T60952.8 dan S666526.0 di selatan
+Jeti dan Dermaga Sungai Udang Port Sdn. Bhd.
 
-Kuala Linggi, Melaka Jeti Kerajaan sepanjang 1048.614 meter di tebing Sungai Linggi, Daerah Alor Gajah, Melaka yang terletak di antara titik (1) U-36700.667, T-34479.870 dan titik (2) U-36760.354, T-3833.803 dalam kawasan yang berpagar seluas 8.8013 hektar yang meliputi tanah yang diduduki oleh Delta Management Sdn. Bhd., Lembaga Kemajuan Ikan Malaysia, Havest Rimba Sdn. Bhd. dan Yayasan Alor Gajah yang terletak di Garisan lintang 2˚ 23’ 21.9418” Utara Garisan bujur 101˚ 58’ 27.5071” Timur dan Garisan lintang 2˚ 23’ 33.4572” Utara Garisan bujur 101˚ 58’ 59.4635” Timur
+<!-- marginal: Mukim Sungai Rambai -->
 
-Muar Dermaga Kerajaan di Bandar Maharani yang terletak di tebing kiri Sungai Muar di hadapan Pejabat Kastam
+Jeti Kerajaan sepanjang 115.457 meter di tebing Sungai Kesang yang terletak di antara T60903.0 dari S66630.5 di utara dan T60952.8 dan S666526.0 di selatan
 
-Batu Pahat Dermaga Kerajaan di Bandar Penggarang, yang terletak di tebing kiri Sungai Batu Pahat, berhadapan dengan Pejabat Kastam dan Gudang Kastam
+<!-- marginal: Kuala Linggi, Melaka -->
 
-Minyak Beku, Batu Pahat Jeti E.S. Ng. Building Products Sdn. Bhd., sebahagian daripada Lot PTD 3732 dan sebahagian daripada Lot 4747, Mukim Minyak Beku, Daerah Batu Pahat, Johor, yang terletak di Garisan lintang 01˚ 47’ 44.50” Utara, 01˚ 47’ 44.67” Utara 01˚ 47’ 43.90” Utara dan 01˚ 47’ 43.82” Utara Garisan bujur 114˚ 34’ 38.76” Timur, 114˚ 34’ 38.82” Timur, 114˚ 34’ 31.43” Timur dan 114˚ 34’ 41.39” Timur
+Jeti Kerajaan sepanjang 1048.614 meter di tebing Sungai Linggi, Daerah Alor Gajah, Melaka yang terletak di antara titik (1) U-36700.667, T-34479.870 dan titik (2) U-36760.354, T-3833.803 dalam kawasan yang berpagar seluas 8.8013 hektar yang meliputi tanah yang diduduki oleh Delta Management Sdn. Bhd., Lembaga Kemajuan Ikan Malaysia, Havest Rimba Sdn. Bhd. dan Yayasan Alor Gajah yang terletak di Garisan lintang 2˚ 23’ 21.9418” Utara Garisan bujur 101˚ 58’ 27.5071” Timur dan Garisan lintang 2˚ 23’ 33.4572” Utara Garisan bujur 101˚ 58’ 59.4635” Timur
+
+<!-- marginal: Muar -->
+
+Dermaga Kerajaan di Bandar Maharani yang terletak di tebing kiri Sungai Muar di hadapan Pejabat Kastam
+
+<!-- marginal: Batu Pahat -->
+
+Dermaga Kerajaan di Bandar Penggarang, yang terletak di tebing kiri Sungai Batu Pahat, berhadapan dengan Pejabat Kastam dan Gudang Kastam
+
+<!-- marginal: Minyak Beku, Batu Pahat -->
+
+Jeti E.S. Ng. Building Products Sdn. Bhd., sebahagian daripada Lot PTD 3732 dan sebahagian daripada Lot 4747, Mukim Minyak Beku, Daerah Batu Pahat, Johor, yang terletak di Garisan lintang 01˚ 47’ 44.50” Utara, 01˚ 47’ 44.67” Utara 01˚ 47’ 43.90” Utara dan 01˚ 47’ 43.82” Utara Garisan bujur 114˚ 34’ 38.76” Timur, 114˚ 34’ 38.82” Timur, 114˚ 34’ 31.43” Timur dan 114˚ 34’ 41.39” Timur
 
 <!-- page 41 -->
 
-Kukup Dermaga Kerajaan
+<!-- marginal: Kukup -->
 
-Johor Bahru
+Dermaga Kerajaan
+
+<!-- marginal: Johor Bahru -->
 
 (a) Dermaga Kerajaan di Johor Bahru di sebelah Sungai Segget;
 
@@ -948,11 +980,19 @@ Johor Bahru
 
 (c) Jeti Terminal Antarabangsa Feri Johor Bahru di tebing Selat Tebrau, Lot PTB 20380, Mukim Bandar Johor Bahru kepunyaan Kelana Megah Sdn. Bhd. yang terletak di Garisan lintang 1˚ 28’ 21.7” Utara, 1˚ 28’ 20.8” Utara dan 1˚ 28’ 20.5” Utara Garisan bujur 103˚ 47’ 99” Timur, 103˚ 47’ 13” Timur dan 103˚ 47’ 8.5” Timur.
 
-Pasir Gudang, Johor Bahru (a) bahagian kawasan berpagar pantai pasang surut, termasuk muara Sungai Buluh, semua jeti dan dermaga Lembaga Pelabuhan Johor, yang terletak di antara tebing barat Sungai Perembi bertempat di Garisan lintang 01˚ 26’ 28” Utara Garisan bujur 103˚ 53’ 16” Timur, seterusnya kepada satu garisan yang bercantum kepada dolphin yang terbarat dari DCJ 4 bertempat di Garisan lintang 01˚ 26’ 27” Utara Garisan bujur 103˚ 53’ 06” Timur dan akhirnya bercantum dengan garisan kawasan Had Perairan Pelabuhan Johor di Garisan lintang 01˚ 26’ 14” Utara Garisan bujur 103˚ 53’ 06” Timur;
+<!-- marginal: Pasir Gudang, Johor Bahru -->
+
+(a) bahagian kawasan berpagar pantai pasang surut, termasuk muara Sungai Buluh, semua jeti dan dermaga Lembaga Pelabuhan Johor, yang terletak di antara tebing barat Sungai Perembi bertempat di Garisan lintang 01˚ 26’ 28” Utara Garisan bujur 103˚ 53’ 16” Timur, seterusnya kepada satu garisan yang bercantum kepada dolphin yang terbarat dari DCJ 4 bertempat di Garisan lintang 01˚ 26’ 27” Utara Garisan bujur 103˚ 53’ 06” Timur dan akhirnya bercantum dengan garisan kawasan Had Perairan Pelabuhan Johor di Garisan lintang 01˚ 26’ 14” Utara Garisan bujur 103˚ 53’ 06” Timur;
 
 (b) di sebelah timur, kawasan sepanjang Dermaga No. 11 yang terletak di Garisan lintang 01˚ 26’ 0.35” Utara Garisan bujur 103˚ 55’ 23” Timur di sebelah bahagian utara, dan di sebelah bahagian selatan Dermaga No. 11 yang terletak di Garisan lintang 01˚ 25’ 52” Utara Garisan bujur 103˚ 55’ 20” Timur, bersebelahan dengan tebing barat Sungai Latoh yang terletak di Garisan lintang 01˚ 26’ 12” Utara Garisan bujur 103˚ 55’ 29” Timur.
 
-Pelabuhan Tanjung Pelepas, tebing kiri Sungai Pulai bermula dari Johor Bahru Garisan lintang 01˚ 22’ 27.885” Utara Garisan bujur 103˚ 32’ 37” Timur hingga Garisan lintang 01˚ 21’ 20.4208” Utara Garisan bujur 103˚ 32’ 56.7317” Timur
+<!-- marginal: Pelabuhan Tanjung Pelepas, -->
+
+tebing kiri Sungai Pulai bermula dari
+
+<!-- marginal: Johor Bahru -->
+
+Garisan lintang 01˚ 22’ 27.885” Utara Garisan bujur 103˚ 32’ 37” Timur hingga Garisan lintang 01˚ 21’ 20.4208” Utara Garisan bujur 103˚ 32’ 56.7317” Timur
 
 <!-- page 42 -->
 
@@ -994,49 +1034,79 @@ Chukai, Kemaman Jeti Kerajaan
 
 <!-- page 43 -->
 
-Pelabuhan Kemaman (a) Dermaga Lembaga Pelabuhan Kemaman yang terletak di atas tanah tebus guna di Lot PT 3180;
+<!-- marginal: Pelabuhan Kemaman -->
+
+(a) Dermaga Lembaga Pelabuhan Kemaman yang terletak di atas tanah tebus guna di Lot PT 3180;
 
 (b) kawasan yang dikenali sebagai dermaga Barat yang terletak di Lot PT 3410, Mukim Teluk Kalong di dalam Daerah Kemaman yang dikendalikan oleh Ptb West Wharf Sdn. Bhd.
 
-Bukit Bunga, Kelantan Di tebing sebelah kanan Sungai Golok pada jarak 182 meter bermula dari sempadan sebelah timur bersetentangan dengan sebelah kanan jalan yang menuju ke lebuh raya Tanah Merah-Gerik (Bering 347˚ 00’ 00” jarak 33 meter dari batu sempadan di utara Lot 2449) sehingga ke sempadan sebelah barat (selepas alor) (Bering 325˚ 00’ 00” jarak 93 meter dari batu sempadan di sebelah barat Lot berkenaan) Pengkalan Jenut, Mukim Nibong, Daerah Jedok Jajahan Tanah Merah, negeri Kelantan yang ditandakan dengan garisan berwarna kelabu dalam pelan Warta (PW 696) yang disimpan di pejabat Pengarah Ukur dan Pemetaan Negeri Kelantan
+<!-- marginal: Bukit Bunga, Kelantan -->
 
-Kuala Terengganu
+Di tebing sebelah kanan Sungai Golok pada jarak 182 meter bermula dari sempadan sebelah timur bersetentangan dengan sebelah kanan jalan yang menuju ke lebuh raya Tanah Merah-Gerik (Bering 347˚ 00’ 00” jarak 33 meter dari batu sempadan di utara Lot 2449) sehingga ke sempadan sebelah barat (selepas alor) (Bering 325˚ 00’ 00” jarak 93 meter dari batu sempadan di sebelah barat Lot berkenaan) Pengkalan Jenut, Mukim Nibong, Daerah Jedok Jajahan Tanah Merah, negeri Kelantan yang ditandakan dengan garisan berwarna kelabu dalam pelan Warta (PW 696) yang disimpan di pejabat Pengarah Ukur dan Pemetaan Negeri Kelantan
+
+<!-- marginal: Kuala Terengganu -->
 
 (a) dermaga Kerajaan di tebing kanan Sungai Terengganu di hadapan Jalan Hiliran;
 
 (c) dermaga di tebing kanan Sungai Terengganu di hadapan Gudang Kastam.
 
-Kuala Besut Tebing kanan Sungai Besut sejauh 45.7 meter di sebelah kiri dan kanan Balai Kastam
+<!-- marginal: Kuala Besut -->
 
-Pengkalan Kubor Jeti Jabatan Kerja Raya dan Jeti Imigresen di tebing kanan di antaranya
+Tebing kanan Sungai Besut sejauh 45.7 meter di sebelah kiri dan kanan Balai Kastam
 
-Kota Bharu Dermaga Kastam, Jeti Kereta Api, Jeti Penambang Haji Idris dan tebing sungai di antaranya
+<!-- marginal: Pengkalan Kubor -->
+
+Jeti Jabatan Kerja Raya dan Jeti Imigresen di tebing kanan di antaranya
+
+<!-- marginal: Kota Bharu -->
+
+Dermaga Kastam, Jeti Kereta Api, Jeti Penambang Haji Idris dan tebing sungai di antaranya
 
 ## SABAH
 
-Kota Kinabalu, Sabah dermaga lembaga Pelabuhan Sabah
+<!-- marginal: Kota Kinabalu, Sabah -->
+
+dermaga lembaga Pelabuhan Sabah
 
 <!-- page 44 -->
 
-Ranca-Ranca, Labuan Dermaga dan jeti Asian Supply Base, Ranca-Ranca, Labuan yang terletak di Garisan lintang 05˚ 15’ 55” Utara Garisan bujur 115˚ 14’ 56” Timur
+<!-- marginal: Ranca-Ranca, Labuan -->
 
-Labuan Dermaga Kerajaan dan dermaga kapal kecil
+Dermaga dan jeti Asian Supply Base, Ranca-Ranca, Labuan yang terletak di Garisan lintang 05˚ 15’ 55” Utara Garisan bujur 115˚ 14’ 56” Timur
 
-Sandakan Dermaga dan jeti Lembaga Pelabuhan Sabah
+<!-- marginal: Labuan -->
 
-Kudat Dermaga Lembaga Pelabuhan Sabah
+Dermaga Kerajaan dan dermaga kapal kecil
 
-Lahad Datu Dermaga Lembaga Pelabuhan Sabah
+<!-- marginal: Sandakan -->
 
-Menumbok Dermaga Kerajaan termasuk lerengan pendaratan dan jeti feri penumpang di sebelahnya
+Dermaga dan jeti Lembaga Pelabuhan Sabah
 
-Sipitang Dermaga Kerajaan
+<!-- marginal: Kudat -->
+
+Dermaga Lembaga Pelabuhan Sabah
+
+<!-- marginal: Lahad Datu -->
+
+Dermaga Lembaga Pelabuhan Sabah
+
+<!-- marginal: Menumbok -->
+
+Dermaga Kerajaan termasuk lerengan pendaratan dan jeti feri penumpang di sebelahnya
+
+<!-- marginal: Sipitang -->
+
+Dermaga Kerajaan
 
 ## SARAWAK
 
-Bintangor Lembaga Pelabuhan Rejang di Bintangor
+<!-- marginal: Bintangor -->
 
-Bintulu Dermaga Lembaga Pelabuhan Bintulu di Tanjung Kedurong yang terletak di—
+Lembaga Pelabuhan Rejang di Bintangor
+
+<!-- marginal: Bintulu -->
+
+Dermaga Lembaga Pelabuhan Bintulu di Tanjung Kedurong yang terletak di—
 
 (a) Dermaga No. 1 Garisan lintang 3˚ 15’ 53.3785” Utara 3˚ 15’ 53.3855” Utara Garisan bujur 113˚ 3’ 57.5312” Timur 113˚ 3’ 52.0233” Timur;
 
@@ -1054,51 +1124,81 @@ Bintulu Dermaga Lembaga Pelabuhan Bintulu di Tanjung Kedurong yang terletak di�
 
 (g) Dermaga Kargo Pukal Garisan lintang 3˚ 15’ 52.7354” Utara 3˚ 15’ 43.9436” Utara Garisan bujur 113˚ 3’ 51.1963” Timur 113˚ 3’ 16.1851” Timur
 
-Kuala Lawas Jeti R.C. dengan panjangnya 83.50 meter dan lebarnya 19.90 meter yang terletak di Garisan lintang 4˚ 57’ 19” Utara dan Garisan bujur 115˚ 25’ 16” Timur
+<!-- marginal: Kuala Lawas -->
 
-Kuching, Sarawak
+Jeti R.C. dengan panjangnya 83.50 meter dan lebarnya 19.90 meter yang terletak di Garisan lintang 4˚ 57’ 19” Utara dan Garisan bujur 115˚ 25’ 16” Timur
+
+<!-- marginal: Kuching, Sarawak -->
 
 (a) Dermaga Lembaga Pelabuhan Kuching di Tanah Puteh;
 
 (b) Dermaga Datuk Sim Kheng Hong di Pending.
 
-Lawas Dermaga Kastam
+<!-- marginal: Lawas -->
 
-Limbang Dermaga Kastam
+Dermaga Kastam
 
-Lundu Dermaga Kerajaan
+<!-- marginal: Limbang -->
 
-Marudi Dermaga Kastam
+Dermaga Kastam
 
-Miri Dermaga Lembaga Pelabuhan Miri
+<!-- marginal: Lundu -->
 
-Pelabuhan Miri, Kuala Baram Dermaga Lembaga Pelabuhan Miri di Kuala Baram yang terdiri daripada 6 dermaga dengan panjangnya 390 meter dan lebarnya 50 meter yang terletak di Garisan lintang 4˚ 34’ 00” Utara dan Garisan bujur 114˚ 2’ 36” Timur
+Dermaga Kerajaan
 
-Pelabuhan Senari, Kuching Dermaga Lembaga Pelabuhan Kuching di Kampung Senari dengan jarak memanjang 635 meter dan 45 meter lebar yang terletak di Garisan lintang 01˚ 37.01’ 0” Utara Garisan bujur: 110˚ 26.89’ 0” Timur
+<!-- marginal: Marudi -->
 
-Pelabuhan Tanjung Manis, Sarikei Dermaga Lembaga Pelabuhan Rejang di Tanjung Manis yang panjangnya 202 meter dan 47 meter lebar yang terletak di Garisan lintang 2˚ 9’ 23.5772” Utara Garisan bujur 111˚ 20’ 16.2431” Timur
+Dermaga Kastam
 
-Punang Dermaga Kastam
+<!-- marginal: Miri -->
 
-Sarikei Dermaga Lembaga Pelabuhan Rejang di Sarikei
+Dermaga Lembaga Pelabuhan Miri
+
+<!-- marginal: Pelabuhan Miri, Kuala Baram -->
+
+Dermaga Lembaga Pelabuhan Miri di Kuala Baram yang terdiri daripada 6 dermaga dengan panjangnya 390 meter dan lebarnya 50 meter yang terletak di Garisan lintang 4˚ 34’ 00” Utara dan Garisan bujur 114˚ 2’ 36” Timur
+
+<!-- marginal: Pelabuhan Senari, Kuching -->
+
+Dermaga Lembaga Pelabuhan Kuching di Kampung Senari dengan jarak memanjang 635 meter dan 45 meter lebar yang terletak di Garisan lintang 01˚ 37.01’ 0” Utara Garisan bujur: 110˚ 26.89’ 0” Timur
+
+<!-- marginal: Pelabuhan Tanjung Manis, Sarikei -->
+
+Dermaga Lembaga Pelabuhan Rejang di Tanjung Manis yang panjangnya 202 meter dan 47 meter lebar yang terletak di Garisan lintang 2˚ 9’ 23.5772” Utara Garisan bujur 111˚ 20’ 16.2431” Timur
+
+<!-- marginal: Punang -->
+
+Dermaga Kastam
+
+<!-- marginal: Sarikei -->
+
+Dermaga Lembaga Pelabuhan Rejang di Sarikei
 
 <!-- page 46 -->
 
-Sejingkat Dermaga Lembaga Pelabuhan Kuching, sepanjang 125 meter bertempat di tebing kiri Sungai Sarawak yang terletak di Garisan lintang 01˚ 35.05’ 0” Utara Garisan bujur 110˚ 25.25’ 0” Timur
+<!-- marginal: Sejingkat -->
 
-Semantan (a) Dermaga Depoh Harwood di Semantan dengan panjangnya 1000 kaki dan 120 kaki lebar yang terletak di Garisan lintang 10˚ 45’ 39” Utara Garisan bujur 109˚ 45’ 18” Timur;
+Dermaga Lembaga Pelabuhan Kuching, sepanjang 125 meter bertempat di tebing kiri Sungai Sarawak yang terletak di Garisan lintang 01˚ 35.05’ 0” Utara Garisan bujur 110˚ 25.25’ 0” Timur
+
+<!-- marginal: Semantan -->
+
+(a) Dermaga Depoh Harwood di Semantan dengan panjangnya 1000 kaki dan 120 kaki lebar yang terletak di Garisan lintang 10˚ 45’ 39” Utara Garisan bujur 109˚ 45’ 18” Timur;
 
 (b) bahagian pantai pasang surut yang bersebelahan dengan Bazaar Semantan sejauh 45.7 meter.
 
-Sibu Dermaga Lembaga Pelabuhan Rejang di Sibu
+<!-- marginal: Sibu -->
 
-Sundar Dermaga Kastam
+Dermaga Lembaga Pelabuhan Rejang di Sibu
+
+<!-- marginal: Sundar -->
+
+Dermaga Kastam
 
 ## MELALUI JALAN ATAU KERETA API
 
 ## SEMENANJUNG MALAYSIA
 
-Bukit Kayu Hitam
+<!-- marginal: Bukit Kayu Hitam -->
 
 (a) Pejabat Kastam dan semua bangunan dan binaan tambahan yang terletak di dalam Kompleks Imigresen Bukit Kayu Hitam yang terletak di sepanjang jalan raya utama Sadao/ Changlun di antara 8.9 kilometer ke utara Changlun dan 0.69 kilometer ke selatan Danork (Thailand) Tempat Pemeriksaan Imigresen atau Kastam di dalam Mukim Laka Temin, Kubang Pasu, Kedah;
 
@@ -1106,9 +1206,19 @@ Bukit Kayu Hitam
 
 <!-- page 47 -->
 
-Kota Putra, Pejabat Kastam dan semua bangunan yang Durian Burung, terletak di dalam Kompleks Imigresen, Padang Terap Kastam, Kuarantin dan Keselamatan, Kota Putra, Durian Burung, Padang Terap, Kedah, pada Garisan lintang 6˚ 28’ 15.1332” Utara Garisan bujur 100˚ 42’ 35.0808” Timur
+<!-- marginal: Kota Putra, -->
 
-Padang Besar
+Pejabat Kastam dan semua bangunan yang
+
+<!-- marginal: Durian Burung, -->
+
+terletak di dalam Kompleks Imigresen,
+
+<!-- marginal: Padang Terap -->
+
+Kastam, Kuarantin dan Keselamatan, Kota Putra, Durian Burung, Padang Terap, Kedah, pada Garisan lintang 6˚ 28’ 15.1332” Utara Garisan bujur 100˚ 42’ 35.0808” Timur
+
+<!-- marginal: Padang Besar -->
 
 (a) Pejabat Kastam, Padang Besar yang terletak di dalam Bangunan Stesen Kereta Api;
 
@@ -1118,15 +1228,25 @@ Padang Besar
 
 (d) Kompleks Pemeriksaan Ikan Lembaga Kemajuan Ikan Malaysia dan semua bangunan dan struktur tambahannya di sebelah timur Kompleks Pejabat Kerajaan Padang Besar di sepanjang jalan raya utama dari Padang Besar ke Thailand dan terletak di Garisan lintang: 6˚ 39’ 45.42” Utara Garisan bujur: 100˚ 19’ 37” Timur.
 
-Wang Kelian Pejabat Kastam dan semua bangunan tambahan yang terletak di sepanjang jalan utama ke Satun, Thailand, 6.5 meter dari pintu pagar utama sempadan Malaysia dan Thailand
+<!-- marginal: Wang Kelian -->
 
-Bukit Berapit, Pejabat Kastam dan semua bangunan dan Pengkalan Hulu binaan tambahan yang terletak di dalam Kompleks Imigresen Bukit Berapit di sepanjang jalan raya utama Keroh/Betong di antara batu 136¼ dan batu 136½, dalam Mukim Keroh, Perak
+Pejabat Kastam dan semua bangunan tambahan yang terletak di sepanjang jalan utama ke Satun, Thailand, 6.5 meter dari pintu pagar utama sempadan Malaysia dan Thailand
 
-Butterworth Terminal feri yang dikendalikan oleh Suruhanjaya Pelabuhan Pulau Pinang
+<!-- marginal: Bukit Berapit, -->
+
+Pejabat Kastam dan semua bangunan dan
+
+<!-- marginal: Pengkalan Hulu -->
+
+binaan tambahan yang terletak di dalam Kompleks Imigresen Bukit Berapit di sepanjang jalan raya utama Keroh/Betong di antara batu 136¼ dan batu 136½, dalam Mukim Keroh, Perak
+
+<!-- marginal: Butterworth -->
+
+Terminal feri yang dikendalikan oleh Suruhanjaya Pelabuhan Pulau Pinang
 
 <!-- page 48 -->
 
-Johor Bahru
+<!-- marginal: Johor Bahru -->
 
 (a) bagi import dengan motokar, bas, motosikal, skuter, basikal dan penumpang berjalan kaki, Get Pemeriksaan penumpang iaitu kawasan yang diuntukkan bagi Pemeriksaan Imigresen dan Kastam;
 
@@ -1140,15 +1260,21 @@ Johor Bahru
 
 <!-- page 49 -->
 
-Pasir Gudang (Zon Bebas)
+<!-- marginal: Pasir Gudang (Zon Bebas) -->
 
 (a) bagi import ke dalam Zon-Kompleks Kastam di Pasir Gudang yang diperuntukkan bagi Pemeriksaan Import Pihak Berkuasa Zon dan Kastam termasuk laman kereta api dan jalan menghala ke dalam Zon;
 
 (b) bagi eksport ke dalam Zon-Kompleks Kastam di Pasir Gudang yang diperuntukkan bagi Pemeriksaan Eksport Pihak Berkuasa Zon dan Kastam termasuk laman kereta api dan jalan menghala keluar dari Zon.
 
-Tanjung Kupang, Kompleks Sultan Abu Bakar, Mukim Johor Bahru Tanjung Kupang, Daerah Johor Bahru yang dilingkungi oleh pagar kawasan, bermula dari selatan dengan pintu masuk/ keluar yang terletak seiring dengan pagar kawasan yang paling hampir dengan Kawasan Menunggu Import dari arah Singapura dan berakhir di pintu keluar/ masuk yang terletak seiring dengan pagar kawasan yang paling hampir dengan Kawasan Menunggu Eksport
+<!-- marginal: Tanjung Kupang, -->
 
-Rantau Panjang
+Kompleks Sultan Abu Bakar, Mukim
+
+<!-- marginal: Johor Bahru -->
+
+Tanjung Kupang, Daerah Johor Bahru yang dilingkungi oleh pagar kawasan, bermula dari selatan dengan pintu masuk/ keluar yang terletak seiring dengan pagar kawasan yang paling hampir dengan Kawasan Menunggu Import dari arah Singapura dan berakhir di pintu keluar/ masuk yang terletak seiring dengan pagar kawasan yang paling hampir dengan Kawasan Menunggu Eksport
+
+<!-- marginal: Rantau Panjang -->
 
 (a) di Pusat Pemeriksaan Imigresen di Jambatan Keretapi yang merentangi Sungai Golok;
 
@@ -1162,39 +1288,65 @@ di sebelah utara hingga ia bertemu dengan get utara termasuk jalan yang menyambu
 
 ## SABAH
 
-Long Pa Sia Pejabat Imigresen dan kawasannya lebih kurang 30.5 meter dari Jambatan Gantung di sebelah atas Sungai Pa Sia di mana itulah sahaja jalan dari Long Bawan, Indonesia atau Long Semadon, Sarawak
+<!-- marginal: Long Pa Sia -->
 
-Pensiangan Pejabat Imigresen dan kawasannya lebih kurang 32.2 kilometer lebih mengikut Sungai Persiangan dari pos sempadan Bantul, yang dikawal oleh Pengakap sempadan
+Pejabat Imigresen dan kawasannya lebih kurang 30.5 meter dari Jambatan Gantung di sebelah atas Sungai Pa Sia di mana itulah sahaja jalan dari Long Bawan, Indonesia atau Long Semadon, Sarawak
+
+<!-- marginal: Pensiangan -->
+
+Pejabat Imigresen dan kawasannya lebih kurang 32.2 kilometer lebih mengikut Sungai Persiangan dari pos sempadan Bantul, yang dikawal oleh Pengakap sempadan
 
 ## SARAWAK
 
-Batu Lintang Balai Kastam Batu Lintang
+<!-- marginal: Batu Lintang -->
 
-Bau Stesen Kerajaan Bau
+Balai Kastam Batu Lintang
 
-Biawak Balai Kastam Biawak
+<!-- marginal: Bau -->
 
-Bunan Gega Balai Kastam Bunan Gega
+Stesen Kerajaan Bau
 
-Lubok Antu Balai Kastam Lubok Antu
+<!-- marginal: Biawak -->
 
-Lundu Stesen Kerajaan Lundu
+Balai Kastam Biawak
 
-Padawan Balai Kastam Padawan
+<!-- marginal: Bunan Gega -->
 
-Sematan Balai Kastam Sematan
+Balai Kastam Bunan Gega
 
-Sirikin Balai Kastam Sirikin
+<!-- marginal: Lubok Antu -->
 
-Sungai Tujuh Balai Kastam Sungai Tujuh
+Balai Kastam Lubok Antu
 
-Tebedu
+<!-- marginal: Lundu -->
+
+Stesen Kerajaan Lundu
+
+<!-- marginal: Padawan -->
+
+Balai Kastam Padawan
+
+<!-- marginal: Sematan -->
+
+Balai Kastam Sematan
+
+<!-- marginal: Sirikin -->
+
+Balai Kastam Sirikin
+
+<!-- marginal: Sungai Tujuh -->
+
+Balai Kastam Sungai Tujuh
+
+<!-- marginal: Tebedu -->
 
 (a) kawasan pemeriksaan import Pejabat Kastam yang terletak di sebelah barat Kompleks Imigresen, Tebedu;
 
 (b) kawasan pemeriksaan eksport Pejabat Kastam yang terletak di sebelah timur Kompleks Imigresen, Tebedu.
 
-Tadungan Pejabat Kastam Tadungan
+<!-- marginal: Tadungan -->
+
+Pejabat Kastam Tadungan
 
 <!-- page 51 -->
 
@@ -1216,33 +1368,67 @@ Lapangan Terbang Bintulu Lapangan Terbang Antarabangsa Kuching Lapangan Terbang 
 
 ## STESEN PELABUHAN PENDALAMAN
 
-Ipoh Bagi import dan eksport dengan kereta api, di Gudang Kastam di laman Barang Kereta Api, Ipoh
+<!-- marginal: Ipoh -->
+
+Bagi import dan eksport dengan kereta api, di Gudang Kastam di laman Barang Kereta Api, Ipoh
 
 ## DEPOT PELEPASAN PENDALAMAN
 
-Prai
+<!-- marginal: Prai -->
 
-(a) Depo Pelepasan Pendalaman Kontena Nasional No. 2443, Lorong Perusahaan Satu, Kawasan Perusahaan Prai; (b) North Terminal Sdn. Bhd. 4935, Dermaga Prai.
+(a) Depo Pelepasan Pendalaman Kontena Nasional No. 2443, Lorong Perusahaan Satu, Kawasan Perusahaan Prai;
 
-Ipoh Ipoh Cargo Terminal, Jalan St. John, Ipoh
+(b) North Terminal Sdn. Bhd. 4935, Dermaga Prai.
 
-Kuala Lumpur
+<!-- marginal: Ipoh -->
 
-(a) Depo Pelepasan Pendalaman Seri Setia, Batu 9, Jalan Klang Lama, Seri Setia, Petaling Jaya; (b) Express Rail Link Sdn. Bhd. KL City Air Terminal, KL Central Station, 50470 Kuala Lumpur; (c) Aras 1 – Kawasan Pejabat Kastam dan karusel dengan keluasan 2,520.75 meter persegi; (d) Aras 2 – Kawasan pengisihan bagasi dengan keluasan 1.303.55 meter persegi.
+Ipoh Cargo Terminal, Jalan St. John, Ipoh
 
-Seremban Nilai Inland Port, Lot 574-576, 578, 648, 1271, 1272 dan sebahagian daripada lot 3.721, Mukim Sentul, Seremban
+<!-- marginal: Kuala Lumpur -->
 
-Segamat Segamat Inland Port Sdn. Bhd. Lot 1150 & 1092, Mukim Pagoh, Segamat, Johor
+(a) Depo Pelepasan Pendalaman Seri Setia, Batu 9, Jalan Klang Lama, Seri Setia, Petaling Jaya;
 
-Tebedu Sm Inland Port Sdn. Bhd. Lot 197, Blok 8, Tebedu, Serian, Kota Samarahan, Sarawak
+(b) Express Rail Link Sdn. Bhd. KL City Air Terminal, KL Central Station, 50470 Kuala Lumpur;
+
+(c) Aras 1 – Kawasan Pejabat Kastam dan karusel dengan keluasan 2,520.75 meter persegi;
+
+(d) Aras 2 – Kawasan pengisihan bagasi dengan keluasan 1.303.55 meter persegi.
+
+<!-- marginal: Seremban -->
+
+Nilai Inland Port, Lot 574-576, 578, 648, 1271, 1272 dan sebahagian daripada lot 3.721, Mukim Sentul, Seremban
+
+<!-- marginal: Segamat -->
+
+Segamat Inland Port Sdn. Bhd. Lot 1150 & 1092, Mukim Pagoh, Segamat, Johor
+
+<!-- marginal: Tebedu -->
+
+Sm Inland Port Sdn. Bhd. Lot 197, Blok 8, Tebedu, Serian, Kota Samarahan, Sarawak
 
 ## ZON BEBAS
 
-Mukim Plentong, Semua tanah yang terletak dalam Mukim Daerah Johor Bahru Plentong dalam Daerah Johor Bharu, yang dilingkungi dengan garisan tersebut yang ditunjukkan dalam pelan Warta 2233 dan 2234 yang disimpan di Pejabat Pengarah Ukur Johor, tidak termasuk Kawasan Pemeriksaan Kastam, seluas 0.459 hektar di Terminal Kontena di Lot 66208
+<!-- marginal: Mukim Plentong, -->
+
+Semua tanah yang terletak dalam Mukim
+
+<!-- marginal: Daerah Johor Bahru -->
+
+Plentong dalam Daerah Johor Bharu, yang dilingkungi dengan garisan tersebut yang ditunjukkan dalam pelan Warta 2233 dan 2234 yang disimpan di Pejabat Pengarah Ukur Johor, tidak termasuk Kawasan Pemeriksaan Kastam, seluas 0.459 hektar di Terminal Kontena di Lot 66208
 
 <!-- page 53 -->
 
-Mukim Kapar, Semua tanah yang terletak dalam Mukim Daerah Klang, Kapar, dalam Daerah Klang, Selangor Selangor yang dilingkungi dengan garisan kelabu yang ditunjukkan dalam pelan Warta 882 yang disimpan di Pejabat Pengarah Ukur, Selangor tidak termasuk kawasan yang dinyatakan seperti yang berikut:
+<!-- marginal: Mukim Kapar, -->
+
+Semua tanah yang terletak dalam Mukim
+
+<!-- marginal: Daerah Klang, -->
+
+Kapar, dalam Daerah Klang, Selangor
+
+<!-- marginal: Selangor -->
+
+yang dilingkungi dengan garisan kelabu yang ditunjukkan dalam pelan Warta 882 yang disimpan di Pejabat Pengarah Ukur, Selangor tidak termasuk kawasan yang dinyatakan seperti yang berikut:
 
 (a) tanah yang diduduki oleh Klang Port Management Sdn. Bhd., terdiri daripada Export Stacking Bay (6 blok: Ta-Tg), Refers Stack (2 blok: Ra-Rb), Customs Examination Bay (3 blok: 1-3), Godown Q (kawasan seluas 220’ X 150’), Godown P (kawasan seluas 600’ x 150’), Open Yard P (kawasan seluas 660’ x 217’), Transit Shed No. 13 (kawasan seluas 100’ x 101’), Transit Shed No. 16 (kawasan seluas 177’ x 105’), Transit Shed No. 18 (kawasan seluas 177’ X 105’) dan Dock Area (kawasan seluas 700’ x 105’);
 
@@ -1300,7 +1486,7 @@ MILS Logistik Hub (MLH), Lot 88077 seluas 13.359 hektar Mukim Mukim Klang, Daera
 
 ## NEGERI
 
-## TEMPAT
+<!-- marginal: TEMPAT -->
 
 Perlis Stesen Kuarantin Padang Besar, 02100 Padang Besar, Perlis
 

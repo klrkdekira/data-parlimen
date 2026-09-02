@@ -4,9 +4,7 @@
 
 intituled
 
-An Act to amend the Registration of Pharmacists Act
-
-1951. [ ]
+An Act to amend the Registration of Pharmacists Act 1951. [ ]
 
 BE IT ENACTED by the Seri Paduka Baginda Yang di-Pertuan Agong with the advice and consent of the Dewan Negara and Dewan Rakyat in Parliament assembled, and by the authority of the same, as follows:
 
@@ -52,13 +50,19 @@ who shall be citizens of Malaysia."; and
 
 "(5) For the purpose of subsection (1), "citizens of Malaysia" shall not include permanent residents of Malaysia.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-3. Subsection 4(4) of the principal Act is amended by of section 4. substituting for the word "five" the word "nine".
+3. Subsection 4(4) of the principal Act is amended by
 
-Amendment
+<!-- marginal: of section 4. -->
 
-4. Section 13 of the principal Act is amended— of section 13.
+substituting for the word "five" the word "nine".
+
+<!-- marginal: Amendment -->
+
+4. Section 13 of the principal Act is amended—
+
+<!-- marginal: of section 13. -->
 
 (a) in subsection (7)—
 
@@ -118,9 +122,13 @@ the Board may inquire into the case and may if it thinks fit impose any of the p
 
 (c) is of unsound mind or, by reason of some other infirmity, is in the opinion of the Board incapable of practising as a pharmacist.".
 
-New section
+<!-- marginal: New section -->
 
-7. The principal Act is amended by inserting after section 18 A. 18 the following section:
+7. The principal Act is amended by inserting after section
+
+<!-- marginal: 18 A. -->
+
+18 the following section:
 
 "Punishments. 18A. (1) The Board may, at the conclusion of an inquiry under section 13(7) or section 17(1), impose any of the following punishments:
 

@@ -90,7 +90,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (b) dengan memasukkan selepas Bahagian E bahagian yang berikut:
 
-“Bahagian F
+## “BAHAGIAN F
 
 1. Kadar caruman yang dinyatakan dalam Bahagian ini hendaklah terpakai bagi pekerja yang bukan warganegara Malaysia—
 
@@ -98,9 +98,13 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ## UPAH BAGI BULAN ITU
 
-Oleh Majikan Oleh Pekerja
+Oleh Majikan
 
-2% daripada amaun upah 2% daripada amaun upah bagi bulan itu bagi bulan itu
+<!-- marginal: Oleh Pekerja -->
+
+2% daripada amaun upah 2% daripada amaun upah bagi bulan itu
+
+<!-- marginal: bagi bulan itu -->
 
 2. Jumlah caruman yang termasuklah wang sen hendaklah digenapkan kepada ringgit yang berikutnya.
 

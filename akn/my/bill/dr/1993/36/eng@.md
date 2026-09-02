@@ -30,21 +30,39 @@ to as the "principal Act", is amended in section 2—
 
 ' "document" has the meaning assigned thereto in section 3 of the Evidence Act Act 56. 1950;
 
-"electronic data interchange" means the transfer, from computer to computer, of commercial and administrative transactions using an agreed message standard to structure the data pertaining to a transaction;'.
+"electronic data interchange" means the transfer, from computer to computer, of commercial and administrative transactions using an agreed message standard to structure the data pertaining
+
+<!-- marginal: to -->
+
+<!-- marginal: a -->
+
+transaction;'.
 
 <!-- page 2 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-3. Section 43 of the principal Act is amended in of section 43. paragraph (g) by substituting for the expression "(3)" the expression "(2)".
+3. Section 43 of the principal Act is amended in
 
-Amendment
+<!-- marginal: of section 43. -->
 
-4. Section 64 of the principal Act is amended by of section 64. substituting for the word "qualified" the word "public".
+paragraph (g) by substituting for the expression "(3)" the expression "(2)".
 
-Amendment
+<!-- marginal: Amendment -->
 
-5. The proviso to section 66 of the principal Act is of section 66. amended by inserting after the words "which are not so printed or issued" the words "as aforesaid, or permit the use of any form submitted through an electronic data interchange".
+4. Section 64 of the principal Act is amended by
+
+<!-- marginal: of section 64. -->
+
+substituting for the word "qualified" the word "public".
+
+<!-- marginal: Amendment -->
+
+5. The proviso to section 66 of the principal Act is
+
+<!-- marginal: of section 66. -->
+
+amended by inserting after the words "which are not so printed or issued" the words "as aforesaid, or permit the use of any form submitted through an electronic data interchange".
 
 ## EXPLANATORY STATEMENT
 

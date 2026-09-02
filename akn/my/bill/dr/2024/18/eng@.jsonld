@@ -1,0 +1,1091 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-18-2024",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_39"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Administration of Islamic Law (Federal Territories) (Amendment) Bill 2024"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting Part III. New section 40a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 40 the following section: “Conduct of proceedings at other place or through remote communication technology 40a. (1) Notwithstanding section 40, a Judge or Registrar conducting proceedings for a civil case may determine that the proceedings or any part of the proceedings is conducted— (a) at any place other than the Court constituted under section 40; or (b) through remote communication technology. (2) Subsection (1) applies where the Judge or Registrar is satisfied that— (a) there is an emergency situation; or (b) having regard to the circumstances of the case, it is appropriate for the determination under subsection (1) to be made. (Amendment) (3) In conducting proceedings pursuant to subsection (1), the Judge or Registrar shall ensure that— (a) the conduct of the proceedings complies with the law for the time being in force, Islamic Law and any direction made by the appropriate authority; and (b) the conduct of the proceedings does not compromise justice, does not amount to abuse of the process of the Court and is not tainted with doubt, fraud and suspicion. (4) The place where the proceedings are conducted pursuant to subsection (1) shall be deemed to be the Court constituted under section 40. (5) For the purposes of this section— “Registrar” means the Registrar appointed under section 45; “remote communication technology” means a live video link, a live television link or any other electronic means of communication.”. Amendment of section 43"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 43 of the principal Act is amended in subparagraph (2)(b)(i) by substituting for the words “a State” the words “the Federal Territories or any State”. Amendment of section 46"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 46 of the principal Act is amended in subparagraph (2)(b)(vii) by inserting before the word “wakaf” the word “zakat,”. New section 57b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 57a the following section: “Practice directions 57b. The Chief Syariah Judge may, from time to time, issue such practice directions as may be necessary for the purpose of carrying into effect the provisions of this Act or any other written law relating to Syariah Court civil procedure, Syariah criminal procedure, Islamic family and Syariah evidence.”. Amendment of section 58"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_15__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_15__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_15__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_15__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 58 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the shoulder note the following shoulder note: “Appointment of Chief Syariah Prosecutor, Deputy Chief Syariah Prosecutors, Syariah Prosecutors and Religious Enforcement Officers”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: “(1) The Yang di-Pertuan Agong may, on the advice of the Minister, appoint a Chief Syariah Prosecutor and such numbers of Deputy Syariah Prosecutors from among the officers of the Syariah Officer’s Scheme in the general public service of the Federation.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_15__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: “(1a) A person is qualified to be appointed under subsection (1) if he— (a) is a citizen; (b) is a Muslim; and (Amendment) (c) immediately before his appointment, is holding any office in the Syariah Officer’s Scheme in the general public service of the Federation for a continuous period of not less than ten years.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_15__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (3) the following subsection: “(3) The Chief Syariah Prosecutor may appoint fit and proper persons from among the Syariah Officer’s Scheme in the general public service of the Federation to be Syariah Prosecutors.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_15__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (3a) the following subsection: “(3b) The Deputy Chief Syariah Prosecutors shall have all powers of a Syariah Prosecutor and shall act as Chief Syariah Prosecutor during the absence or inability of the Chief Syariah Prosecutor.”. New section 59a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Part VI of the principal Act is amended by inserting before section 60 the following section: “Interpretation 59a. For the purposes of this Part— “property” includes— (a) all movable property or immovable property, including intellectual property and all benefits, usufructs or interests, whether equitable or legal, in the movable property or immovable property; and (b) expertise or services having value in accordance with Islamic Law; “istibdal” means the replacement of a mawquf with another property or money having the same value as or higher value than the mawquf, by exchanging, purchasing, selling or otherwise deal with the property in any manner in accordance with Islamic Law; “mawquf” means any property that is surrendered and contributed by any person as a wakaf; “mawquf `alaih” means a person who is entitled to receive any benefit, usufruct or interest from a mawquf; “mutawalli” or “qayyim” means any person appointed by the Wakaf Committee under paragraphs 61a(3)(b) and (c), respectively.”. Amendment of section 60"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_17__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_17__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_17__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 60 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_17__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: “(1) A fund to be known as “Baitulmal” is established.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: “(1a) The Baitulmal shall consist of all moneys and properties, movable or immovable, which by Islamic Law or under the provisions of this Act or rules made thereunder, accrue, or which are contributed by any person, to the Baitulmal”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_17__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_17__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_17__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_17__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_17__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “Fund” the word “Baitulmal”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_17__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_17__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the proviso, by inserting after the words “trust funds” the words “which is in accordance with Islamic Law”. (Amendment) New section 61a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 61 the following section: “Wakaf Committee 61a. (1) For the purpose of exercising its powers under section 61, the Majlis shall establish a committee to be known as the “Wakaf Committee of the Majlis Agama Islam Wilayah Persekutuan”. (2) The Wakaf Committee shall have the following functions: (a) to accept and register, or reject any property as a mawquf; (b) to appoint any person as a mutawalli to carry out the following functions: (i) collecting and receiving any mawquf; (ii) managing, administering and developing any mawquf; and (iii) distributing any benefits of mawquf; (c) to appoint any person as a qayyim to carry out any one or two of the following functions: (i) collecting and receiving any mawquf; (ii) managing, administering and developing any mawquf; or (iii) distributing any benefits of mawquf; (d) to recognize any administrator appointed by the person who surrenders and contributes his property as mawquf (waqif); (e) to carry out istibdal; (f) to acquire any property as a mawquf by using money from Baitulmal or other approved sources in accordance with Islamic Law; (g) to undertake and manage the development of a mawquf and maintain the mawquf; (h) to approve any wakaf product or scheme; (i) to carry out any directives, policies or decisions of the Majlis in relation to wakaf; (j) to collect all proceeds obtained from mawquf; and (k) to do such other things as it thinks fit to enable it to perform its functions effectively or which are incidental to the performance of its functions. (3) The Majlis may, with the approval of the Yang di-Pertuan Agong, make rules providing for— (a) the membership and procedures of the Wakaf Committee; (b) the matters relating to registration of wakaf; (c) the matters relating to the appointment of a mutawalli and qayyim and the recognition of an administrator; (d) the matters relating to the management, development and istibdal; (e) the appointment and responsibilities of the Chief Registrar of Wakaf and Registrar of Wakaf and the Register of Wakaf; (f) the allowances payable to members of the Wakaf Committee; (g) the fee payable in respect of wakaf; (h) the pillars, conditions and methods of wakaf; (Amendment) (i) the offences relating to wakaf; and (j) any other matters relating to wakaf.”. Amendment of section 63"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 63 of the principal Act is amended by substituting for subsection (1) the following subsection: “(1) A Nazr made by way of will or death-bed gift and involving more than one-third of the property of the person making the nazr shall be invalid in respect of the excess beyond such one-third unless consented by the heir.”. Amendment of section 64"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Administration of Islamic Law (Federal Territories) (Amendment) Act 2024."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Yang di-Pertuan Agong by notification in the Gazette and the Yang di-Pertuan Agong may appoint different dates for the coming into operation of different provisions of this Act. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_2__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_2__para_i"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Administration of Islamic Law (Federal Territories) Act 1993 [Act 505], which is referred to as the “principal Act” in this Act, is amended in subsection 2(1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 64(2) of the principal Act is amended by substituting for the word “Fund” the word “Baitulmal”. Amendment of section 65"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 65 of the principal Act is amended by substituting for the word “Fund” wherever appearing the word “Baitulmal”. Amendment of section 68"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 68 of the principal Act is amended by substituting for the word “Fund” the word “Baitulmal”. Amendment of section 70"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 70 of the principal Act is amended by substituting for the word “Fund” the word “Baitulmal”. Amendment of section 71"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_24__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_24__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_24__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_24__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 71 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_24__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the shoulder note the following shoulder note: “Bank account”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_24__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the word “banker” the words “licensed Islamic bank under the Islamic Financial Services Act 2013 [Act 759]”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_24__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by deleting the words “Payments by the Majlis of amounts exceeding fifty ringgit shall be made by cheque.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_24__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (3) the following subsection: “(3) Procedure for drawing money from any bank account of the Majlis shall be in the manner as determined by the Majlis.”. Amendment of section 73"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 73 of the principal Act is amended by inserting after subsection (2) the following subsection: “(3) Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding three thousand ringgit or to imprisonment for a term not exceeding one year or to both.”. Amendment of section 74"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_26__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_26__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 74 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_26__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the word “Fund” the word “Baitulmal”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_26__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words “Naqib Masjid or Imam” the words “jawatankuasa kariah”. (Amendment) Amendment of section 76"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_27__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_27__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 76 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_27__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the words “Religious Administrative service” the words “Islamic Affairs service”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_27__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4), by deleting the words “, on the advice of the Islamic Legal Consultative Committee,”. Amendment of section 78"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 78 of the principal Act is amended by substituting for subsection (2) the following subsection: “(2) An Imam Ratib and a Pembantu Bilal shall not hold office after reaching the age of sixty years old unless the Majlis is satisfied that it is necessary and appropriate for the Imam Ratib and Pembantu Bilal to hold the office after reaching that age.”. Amendment of section 82"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 82(2) of the principal Act is amended by inserting after the words “Masjid Negara” the words “, Masjid Putra and Masjid Tuanku Mizan Zainal Abidin”. Amendment of section 84"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “anak kariah” the following definition: ‘ “Baitulmal” means the fund established under section 60;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “Syariah Judge” or “Judge” the following definition: ‘ “Syariah Judge” or “Judge” means the Chief Syariah Judge, Judges of the Syariah Appeal Court, Judges of the Syariah High Court or Judges of the Syariah Subordinate Courts, as the case may be;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “Islamic Law” the following definition: ‘ “Islamic Law” means Islamic Law according to the Mazhab Syafie, or according to one of the Mazhab Maliki, Hanafi or Hanbali;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the definition of “Islamic Legal Consultative Committee”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “wakaf ‘am” the following definition: ‘ “ Wakaf Committee” means Wakaf Committee of the Majlis Agama Islam Wilayah Persekutuan established under subsection 61a(1);’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “Chief Syariah Prosecutor” the following definition: ‘ “Chief Syariah Prosecutor” or “Deputy Chief Syariah Prosecutor” means an officer appointed under subsection 58(1);’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the definition of “Fund”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “Mufti” the following definition: ‘ “Mufti” means the Mufti appointed under section 3 of the Mufti (Federal Territories) Act 2024 [Act XXX];’; (Amendment)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_2__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “Syariah Prosecutor” the following definition: ‘ “wakaf” means— (a) to surrender the title of any property from which its benefit and interest may be enjoyed; (b) to surrender the benefit or interest which may be enjoyed from any property; or (c) to contribute the expertise and services from which its benefit or interest may be enjoyed, whether as wakaf ‘am or wakaf khas, but does not include a trust as defined under the Trustee Act 1949 [Act 208];’; (j) by substituting for the definition of “wakaf ‘am” the following definition: ‘ “wakaf ‘am” means wakaf for the purposes of general welfare in accordance with Islamic Law;’; and (k) by substituting for the definition of “wakaf khas” the following definition: ‘ “wakaf khas” means wakaf for the purposes of specific welfare or for specific party in accordance with Islamic Law.”. Amendment of section 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_3__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 7(2) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_30__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_30__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_30__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_30__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 84 the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_30__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (2)(b), by inserting after the word “keep” the words “and maintain”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_30__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_30__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_30__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_30__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_30__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “Moneys collected” the words “Moneys and other contributions collected”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_30__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_30__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “Fund” the word “Baitulmal”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_30__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4), by inserting after the words “collection of money” the words “or other contributions”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_30__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (5) the following subsection: “(5) Any person who contravenes subsection (4) commits an offence and shall, on conviction, be liable to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding three years or to both.”. Substitution of section 88"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 88 the following section: “Chief Registrar, Registrar and Register of Muallaf 88. (1) A Chief Registrar of Muallaf shall be appointed by the Majlis to keep and maintain a Register of Muallaf in the form as may be prescribed for registration of muallafs. (2) The Majlis may appoint such number of Registrar of Muallaf as it deems necessary to assist the Chief Registrar in the performance of its functions and the exercise of its powers under this Act.”. Amendment of section 89"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 89 of the principal Act is amended by substituting for the word “Registrar” wherever appearing the words “Chief Registrar”. (Amendment) Amendment of section 90"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 90(1) of the principal Act is amended by substituting for the word “Registrar” the words “Chief Registrar”. Amendment of section 93"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 93 of the principal Act is amended by substituting for the word “Registrar” wherever appearing the words “Chief Registrar”. Deletion of section 96"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 96. Amendment of section 99"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_36__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_36__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_36__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_36__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_36__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 99 the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_36__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, by substituting for the word “kelulusan” the word “keluasan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_36__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by substituting for the words “subordinate officers” the words “officers and servants”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_36__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (h), by inserting after the word “determination” the words “, amendment, alteration”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_36__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (j), by substituting for the full stop at the end of the paragraph a semicolon; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_36__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (j) the following paragraphs: “(k) matters in connection with nazr or trusts; (l) administration, management, control, maintenance and supervision of welfare homes, shelters and rehabilitation centre; and (m) other matters for the better carrying out of the provisions of this Act.”. New section 99a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 99 the following section: “Lacuna 99a. If there is a lacuna or where any matter is not expressly provided for in this Act, Islamic Law shall apply.”. Deletion of sections 101 and 102"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting sections 101 and 102. Saving and transitional"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_39__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_39__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_39__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_39__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_39__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All persons who, immediately before the commencement of this Act, are holding office under the principal Act as the Mufti, Deputy Mufti, Chief Syariah Prosecutor, Chairman and members of the Islamic Legal Consultative Committee, Chairman and members of the Religious Teaching Supervisory Committee and, officers and servants of the Majlis shall, on the commencement of this Act, continue to hold office until the end of the term of their appointment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_39__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All persons who are appointed under the principal Act immediately before the commencement of this Act as mutawalli or qayyim shall, on the commencement of this Act, continue to act as such until the end of the term of their agreement."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_39__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Administration of Islamic Law (Federal Territories) (Tauliah to Teach the Religion of Islam) Rules 2006 [P.U. (A) 74/2006] made under subsection 96(4) of the principal Act shall continue in force until amended or revoked."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_39__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All actions and proceedings commenced or pending immediately before the commencement of this Act shall, on the commencement of this Act, be continued or concluded under the principal Act as if the principal Act had not been amended by this Act. (Amendment)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (d), by deleting the words “[Act 208]”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (e) the following paragraph: “(e) to establish any scheme for the granting of loans from the Baitulmal other than zakat money to Muslim individuals for the purpose of pursuing higher education;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (f), by deleting the word “and” at the end of the paragraph; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (f) the following paragraph: “(fa) to establish, maintain and manage welfare homes, shelters and rehabilitation centre; and”. Amendment of section 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 9(2) of the principal Act is amended by substituting for the word “Fund” the word “Baitulmal”. Amendment of section 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_5__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 10(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (b) the following paragraph: “(b) the Director General of the Department of Islamic Development of Malaysia as the Deputy Chairman;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (e) the following paragraph: “(e) the Chief Police Officer of the Federal Territory of Kuala Lumpur or his representative;”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (f) the following paragraph: “(fa) the Director of the Federal Territory Islamic Religious Department;”. (Amendment) Amendment of section 12"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_6__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_6__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 12 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by deleting the word “or” at the end of the paragraph;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by deleting the word “or” at the end of the paragraph;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (c) the following paragraph: “(c) if he has been absent from three consecutive meetings of the Majlis without leave of the Chairman or, in the case where the member is the Chairman, without leave of the Minister;”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_6__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (c) the following paragraphs: “(d) if he has acted contrary to the policy or interest of the Majlis; or (e) if he becomes an undischarged bankrupt.”. Amendment of section 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 14 of the principal Act is amended by substituting for subsection (1) the following subsection: “(1) The Majlis may, with the approval of the Minister, appoint any fit and proper person to be the Secretary of the Majlis.”. Amendment of section 22"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 22(2) of the principal Act is amended by deleting the word “verbatim”. New section 27a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 27 the following section: “Appointment of officers and servants of Majlis 27a. The Majlis may appoint or employ such number of officers and servants as the Majlis deems necessary to assist it in carrying out its functions.”. Deletion of Part III"
+      }
+    }
+  ]
+}

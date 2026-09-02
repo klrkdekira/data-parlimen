@@ -72,31 +72,67 @@ yang ditubuhkan di bawah Akta Lembaga Kemajuan Johor Tenggara 1972;
 
 <!-- page 4 -->
 
-"Pesuruhjaya Tanah Persekutuan" ertinya Pesuruhjaya Akta 349, Tanah Persekutuan yang dilantik di bawah Akta Pesuruhjaya Tanah Persekutuan 1957;
+"Pesuruhjaya Tanah Persekutuan" ertinya Pesuruhjaya
+
+<!-- marginal: Akta 349, -->
+
+Tanah Persekutuan yang dilantik di bawah Akta Pesuruhjaya Tanah Persekutuan 1957;
 
 "tarikh ditetapkan" ertinya tarikh yang ditetapkan oleh Menteri di bawah seksyen 1.
 
-Pemansuhan
+<!-- marginal: Pemansuhan -->
 
-3. Akta Lembaga Kemajuan Johor Tenggara 1972 dan dimansuhkan dan Lembaga yang ditubuhkan di bawahnya pembubaran. dibubarkan.
+3. Akta Lembaga Kemajuan Johor Tenggara 1972
 
-Perpindahan
+<!-- marginal: dan -->
 
-4. Segala kuasa, hak, keistimewaan, kewajipan, liabiliti kuasa, hak, dan obligasi yang sebelum sahaja tarikh ditetapkan adalah dsb. kuasa, hak, keistimewaan, kewajipan, liabiliti dan obligasi Lembaga hendaklah, dari tarikh itu, turun kepada Kerajaan.
+dimansuhkan dan Lembaga yang ditubuhkan di bawahnya
 
-Perpindahan
+<!-- marginal: pembubaran. -->
 
-5. (1) Semua tanah yang sebelum sahaja tarikh ditetapkan harta. adalah terletakhak pada Lembaga hendaklah, pada tarikh ditetapkan, terletakhak pada Pesuruhjaya Tanah Persekutuan bagi maksud-maksud Kerajaan.
+dibubarkan.
+
+<!-- marginal: Perpindahan -->
+
+4. Segala kuasa, hak, keistimewaan, kewajipan, liabiliti
+
+<!-- marginal: kuasa, hak, -->
+
+dan obligasi yang sebelum sahaja tarikh ditetapkan adalah
+
+<!-- marginal: dsb. -->
+
+kuasa, hak, keistimewaan, kewajipan, liabiliti dan obligasi Lembaga hendaklah, dari tarikh itu, turun kepada Kerajaan.
+
+<!-- marginal: Perpindahan -->
+
+5. (1) Semua tanah yang sebelum sahaja tarikh ditetapkan
+
+<!-- marginal: harta. -->
+
+adalah terletakhak pada Lembaga hendaklah, pada tarikh ditetapkan, terletakhak pada Pesuruhjaya Tanah Persekutuan bagi maksud-maksud Kerajaan.
 
 (2) Semua harta dan aset selain daripada tanah yang sebelum sahaja tarikh ditetapkan adalah terletakhak pada Lembaga atau pada mana-mana orang bagi pihaknya hendaklah, pada tarikh itu, terletakhak pada Kerajaan.
 
-Perpindahan
+<!-- marginal: Perpindahan -->
 
-6. Semua wang yang ada pada, atau kena dibayar kepada, wang. Lembaga hendaklah, pada tarikh ditetapkan, berpindah kepada, dan terletakhak pada Kerajaan.
+6. Semua wang yang ada pada, atau kena dibayar kepada,
 
-Kontrak yang
+<!-- marginal: wang. -->
 
-7. Segala suratikatan, bon, perjanjian, suratcara dan sedia ada, perkiraan kerja yang wujud sebelum sahaja tarikh ditetapkan dsb. dan menyentuh mana-mana harta yang berpindah di bawah seksyen 5 hendaklah mempunyai kuatkuasa dan kesan yang penuh terhadap atau mernihak kepada Kerajaan dan boleh dikuatkuasakan sepenuhnya dan dengan berkesan seolah-olah Kerajaan, bukan Lembaga atau mana-mana orang yang bertindak bagi pihaknya, telah dinamakan dalamnya atau telah menjadi suatu pihak kepadanya.
+Lembaga hendaklah, pada tarikh ditetapkan, berpindah kepada, dan terletakhak pada Kerajaan.
+
+<!-- marginal: Kontrak yang -->
+
+7. Segala suratikatan, bon, perjanjian, suratcara dan
+
+<!-- marginal: sedia ada, -->
+
+perkiraan kerja yang wujud sebelum sahaja tarikh ditetapkan
+
+<!-- marginal: dsb. -->
+
+dan menyentuh mana-mana harta yang berpindah di bawah seksyen 5 hendaklah mempunyai kuatkuasa dan kesan yang penuh terhadap atau mernihak kepada Kerajaan dan boleh dikuatkuasakan sepenuhnya dan dengan berkesan seolah-olah Kerajaan, bukan Lembaga atau mana-mana orang yang bertindak bagi pihaknya, telah dinamakan dalamnya atau telah menjadi suatu pihak kepadanya.
 
 <!-- page 5 -->
 
@@ -136,9 +172,17 @@ Dengan syarat bahawa apa-apa sebutan dalam undang- undang bertulis itu mengenai 
 
 <!-- page 6 -->
 
-Menghalang
+<!-- marginal: Menghalang -->
 
-10. (1) Jika apa-apa kesukaran atau anomali timbul kesukaran berkaitan dengan pelaksanaan Akta ini, Menteri boleh atau anomali. melalui perintah membuat apa-apa ubahsuaian kepada mana-mana peruntukan Akta ini sebagaimana yang didapatinya perlu bagi menghapuskan atau menghalang kesukaran atau anomali itu:
+10. (1) Jika apa-apa kesukaran atau anomali timbul
+
+<!-- marginal: kesukaran -->
+
+berkaitan dengan pelaksanaan Akta ini, Menteri boleh
+
+<!-- marginal: atau anomali. -->
+
+melalui perintah membuat apa-apa ubahsuaian kepada mana-mana peruntukan Akta ini sebagaimana yang didapatinya perlu bagi menghapuskan atau menghalang kesukaran atau anomali itu:
 
 Dengan syarat bahawa Menteri tidaklah boleh menjalankan kuasa yang diberikan oleh seksyen ini selepas habis tempoh tiga tahun dari tarikh ditetapkan.
 

@@ -6,19 +6,19 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran
 
-## Bahagian II
+## BAHAGIAN II
 
 ## MAJLIS MEDIA MALAYSIA
 
 3. Penubuhan Majlis 4. Meterai perbadanan 5. Fungsi Majlis 6. Kuasa Majlis 7. Keahlian Majlis
 
-## Bahagian III
+## BAHAGIAN III
 
 ## LEMBAGA MAJLIS
 
@@ -36,7 +36,7 @@
 
 <!-- page 2 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## MEKANISME KETIDAKPUASAN HATI DAN PROSIDING TATATERTIB
 
@@ -44,7 +44,7 @@
 
 16. Perkara berkenaan dengan kuasa tatatertib
 
-## Bahagian V
+## BAHAGIAN V
 
 ## KEWANGAN
 
@@ -52,7 +52,7 @@
 
 18. Perbelanjaan yang hendaklah dipertanggungkan pada Kumpulan Wang Majlis Media Malaysia
 
-## Bahagian VI
+## BAHAGIAN VI
 
 AM
 
@@ -66,9 +66,9 @@ AM
 
 23. Perlindungan daripada guaman dan prosiding undang-undang
 
-## Jadual Pertama
+## JADUAL PERTAMA
 
-## Jadual Kedua
+## JADUAL KEDUA
 
 <!-- page 3 -->
 
@@ -80,7 +80,7 @@ Suatu Akta untuk mengadakan peruntukan bagi penubuhan Majlis Media Malaysia dan 
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -148,7 +148,7 @@ tetapi tidak termasuk industri pengiklanan, penyedia perkhidmatan dalam talian d
 
 “syarikat media” ertinya sebuah organisasi atau entiti perniagaan yang mencipta, menghasilkan, mengedar dan mengurus kandungan media dalam bentuk bercetak, penyiaran atau digital, dan hendaklah mempunyai tidak kurang daripada sepuluh orang pengamal media sebagai pekerja syarikat media itu.
 
-## Bahagian II
+## BAHAGIAN II
 
 ## MAJLIS MEDIA MALAYSIA
 
@@ -248,7 +248,7 @@ tetapi tidak termasuk industri pengiklanan, penyedia perkhidmatan dalam talian d
 
 (3) Keahlian Majlis hendaklah diperbaharui setiap tahun dengan disertakan pembayaran fi sebagaimana yang ditentukan oleh Majlis di bawah perenggan 6(2)(c).
 
-## Bahagian III
+## BAHAGIAN III
 
 ## LEMBAGA MAJLIS
 
@@ -382,7 +382,7 @@ tetapi tidak termasuk industri pengiklanan, penyedia perkhidmatan dalam talian d
 
 (11) Anggota sesuatu jawatankuasa dan mana-mana orang yang diundang di bawah subseksyen (7) hendaklah dibayar apa-apa elaun dan belanja lain sebagaimana yang ditentukan oleh Majlis melalui suatu ketetapan undi majoriti biasa ahli yang hadir dan mengundi dalam mesyuarat agung.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 ## MEKANISME KETIDAKPUASAN HATI DAN
 
@@ -410,7 +410,7 @@ tetapi tidak termasuk industri pengiklanan, penyedia perkhidmatan dalam talian d
 
 (2) Majlis hendaklah, mewujudkan apa-apa kesalahan tatatertib, mengadakan apa-apa hukuman tatatertib dan menentukan tatacara bagi prosiding tatatertib, melalui suatu ketetapan undi majoriti biasa ahli yang hadir dan mengundi dalam mesyuarat agung.
 
-## Bahagian V
+## BAHAGIAN V
 
 ## KEWANGAN
 
@@ -460,7 +460,7 @@ tetapi tidak termasuk industri pengiklanan, penyedia perkhidmatan dalam talian d
 
 (2) Walau apa pun perenggan (1)(e), apa-apa sumbangan kepada badan atau pertubuhan di luar Malaysia hendaklah tertakluk pada kelulusan Menteri.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 AM
 
@@ -508,7 +508,7 @@ AM
 
 23. Tiada tindakan, guaman, pendakwaan atau prosiding lain boleh dibawa, dimulakan atau dikekalkan dalam mana-mana mahkamah terhadap Lembaga atau mana-mana jawatankuasa yang ditubuhkan oleh Lembaga atas sebab atau yang berkenaan dengan apa-apa perbuatan, kecuaian atau keingkaran yang dilakukan atau ditinggalkan olehnya dalam masa menjalankan kewajipannya di bawah Akta ini melainkan jika boleh dibuktikan bahawa perbuatan, kecuaian atau keingkaran itu telah dilakukan atau ditinggalkan dengan niat jahat dan tanpa sebab yang munasabah.
 
-## Jadual Pertama
+## JADUAL PERTAMA
 
 [Subseksyen 8(6)]
 
@@ -566,7 +566,7 @@ AM
 
 <!-- page 23 -->
 
-## Jadual Kedua
+## JADUAL KEDUA
 
 [Seksyen 19]
 
@@ -654,7 +654,7 @@ AM
 
 Rang Undang-undang Majlis Media Malaysia (“Akta yang dicadangkan”) bertujuan untuk mengadakan peruntukan bagi penubuhan Majlis Media Malaysia dan untuk mengadakan peruntukan bagi perkara lain yang berkaitan dengannya.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I Akta yang dicadangkan memperkatakan perkara permulaan.
 
@@ -662,7 +662,7 @@ Rang Undang-undang Majlis Media Malaysia (“Akta yang dicadangkan”) bertujuan
 
 4. Fasal 2 mengandungi takrif bagi perkataan dan ungkapan tertentu yang digunakan dalam Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 5. Bahagian II Akta yang dicadangkan memperkatakan peruntukan mengenai penubuhan Majlis Media Malaysia (“Majlis”).
 
@@ -676,7 +676,7 @@ Rang Undang-undang Majlis Media Malaysia (“Akta yang dicadangkan”) bertujuan
 
 9. Fasal 7 bertujuan untuk mengadakan peruntukan bagi perkara berhubung dengan keahlian Majlis dan untuk memperuntukkan bagi kuasa Lembaga Majlis (”Lembaga”) untuk mengenakan fi keahlian dan fi tahunan pada kadar sebagaimana yang ditentukan dari semasa ke semasa oleh Majlis dalam mesyuarat agung.
 
-## Bahagian III
+## BAHAGIAN III
 
 10. Bahagian III Akta yang dicadangkan memperkatakan peruntukan yang berhubungan dengan penubuhan dan keanggotaan Lembaga Majlis yang akan menjalankan fungsi Majlis dan menguruskan hal ehwal Majlis.
 
@@ -702,7 +702,7 @@ Fasal ini juga bertujuan untuk mengadakan peruntukan mengenai pemakaian Jadual P
 
 17. Fasal 14 bertujuan untuk membenarkan Lembaga untuk menubuhkan apa-apa jawatankuasa sebagaimana yang difikirkan perlu atau suai manfaat oleh Lembaga untuk membantu Lembaga dalam pelaksanaan fungsinya dan dalam penjalanan kuasanya. Fasal ini selanjutnya memperuntukkan bahawa jawatankuasa boleh menentukan tatacaranya sendiri dan layak untuk menerima elaun dan belanja lain yang hendaklah dibayar daripada Kumpulan Wang Majlis, sebagaimana yang ditentukan oleh Majlis.
 
-## Bahagian IV
+## BAHAGIAN IV
 
 18. Bahagian IV Akta yang dicadangkan mengandungi peruntukan yang berhubungan dengan mekanisme ketidakpuasan hati dan prosiding tatatertib.
 
@@ -710,7 +710,7 @@ Fasal ini juga bertujuan untuk mengadakan peruntukan mengenai pemakaian Jadual P
 
 20. Fasal 16 bertujuan untuk memperuntukkan mengenai kuasa tatatertib Majlis terhadap ahlinya. Majlis hendaklah mewujudkan kesalahan tatatertib, mengadakan apa-apa hukuman tatatertib dan menetapkan tatacara prosiding tatatertib, sebagaimana yang ditentukan dalam mesyuarat agung.
 
-## Bahagian V
+## BAHAGIAN V
 
 21. Bahagian V Akta yang dicadangkan mengandungi peruntukan yang berhubungan dengan kewangan.
 
@@ -724,7 +724,7 @@ Fasal ini juga bertujuan untuk memperuntukkan bahawa Majlis hanya boleh menerima
 
 23. Fasal 18 bertujuan untuk mengadakan peruntukan bagi perkara yang berhubungan dengan perbelanjaan yang dipertanggungkan pada Kumpulan Wang Majlis yang mana Kumpulan Wang Majlis boleh dibelanjakan bagi maksud yang dinyatakan dalam subseksyen (1). Fasal ini juga bertujuan untuk mengadakan peruntukan bahawa apa-apa sumbangan kepada badan atau pertubuhan di luar Malaysia, berkaitan dengan aktiviti kewartawanan sebagaimana yang ditentukan oleh Lembaga adalah tertakluk pada kelulusan Menteri.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 24. Bahagian VI Akta yang dicadangkan mengandungi peruntukan am.
 

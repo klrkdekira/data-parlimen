@@ -42,77 +42,143 @@ maksud yang dinyatakan dalam Jadual.
 
 ## JADUAL
 
-Amaun Maksud 7c/«£
+Amaun
+
+<!-- marginal: Maksud -->
+
+7c/«£
 
 (RM)
 
-B. 1 Parlimen 70,202,000
+<!-- marginal: B. 1 -->
 
-B. 2 Pejabat Penyimpan Mohor Besar 1377,600
+Parlimen 70,202,000
+
+<!-- marginal: B. 2 -->
+
+Pejabat Penyimpan Mohor Besar 1377,600
 
 Raja-Raja
 
-B. 3 Jabatan Audit 104,297,400
+<!-- marginal: B. 3 -->
 
-B. 4 Suruhanjaya Pilihan Raya 49,010,800
+Jabatan Audit 104,297,400
 
-B. 5 Suruhanjaya Perkhidmatan Awam 37,118,000
+<!-- marginal: B. 4 -->
 
-B. 6 Jabatan Perdana Menteri 2,705,007,500
+Suruhanjaya Pilihan Raya 49,010,800
 
-B. 7 Jabatan Perkhidmatan Awam 1,128,857,700
+<!-- marginal: B. 5 -->
 
-B. 8 Jabatan Peguam Negara 90,171,000
+Suruhanjaya Perkhidmatan Awam 37,118,000
 
-B. 9 Badan Pencegah Rasuah 148,077,600
+<!-- marginal: B. 6 -->
 
-B. 10 Perbendaharaan 1,937,536,800
+Jabatan Perdana Menteri 2,705,007,500
 
-B. 11 Perkhidmatan Am Perbendaharaan 18,199,910,900
+<!-- marginal: B. 7 -->
 
-Peruntukan kepada Kumpulan Wang B. 12 4,143,060,000
+Jabatan Perkhidmatan Awam 1,128,857,700
+
+<!-- marginal: B. 8 -->
+
+Jabatan Peguam Negara 90,171,000
+
+<!-- marginal: B. 9 -->
+
+Badan Pencegah Rasuah 148,077,600
+
+<!-- marginal: B. 10 -->
+
+Perbendaharaan 1,937,536,800
+
+<!-- marginal: B. 11 -->
+
+Perkhidmatan Am Perbendaharaan 18,199,910,900
+
+Peruntukan kepada Kumpulan Wang
+
+<!-- marginal: B. 12 -->
+
+4,143,060,000
 
 Terkanun
 
-B. 13 Kementerian Luar Negeri 496,643,500
+<!-- marginal: B. 13 -->
 
-Kementerian Perusahaan Perladangan dan B. 20 177,547,400
+Kementerian Luar Negeri 496,643,500
+
+Kementerian Perusahaan Perladangan dan
+
+<!-- marginal: B. 20 -->
+
+177,547,400
 
 Komoditi
 
-Kementerian Pertanian dan Industri Asas B. 21 1,783,392,600
+Kementerian Pertanian dan Industri Asas
+
+<!-- marginal: B. 21 -->
+
+1,783,392,600
 
 Tani
 
-Kementerian Kemajuan Luar Bandar dan B. 22 873,596,000
+Kementerian Kemajuan Luar Bandar dan
+
+<!-- marginal: B. 22 -->
+
+873,596,000
 
 Wilayah
 
-Kementerian Sumber Asli dan Alam B. 23 790,860,400
+Kementerian Sumber Asli dan Alam
+
+<!-- marginal: B. 23 -->
+
+790,860,400
 
 Sekitar
 
-B. 24 Kementerian Perdagangan Antarabangsa 357,480,600
+<!-- marginal: B. 24 -->
+
+Kementerian Perdagangan Antarabangsa 357,480,600
 
 dan Industri
 
-B. 25 Kementerian Perdagangan Dalam Negeri 367,951,800
+<!-- marginal: B. 25 -->
+
+Kementerian Perdagangan Dalam Negeri 367,951,800
 
 dan Hal Ehwal Pengguna
 
-B. 26 Kementerian Pembangunan Us aha wan 1,693,800,800
+<!-- marginal: B. 26 -->
+
+Kementerian Pembangunan Us aha wan 1,693,800,800
 
 dan Koperasi
 
-B. 27 Kementerian Kerja Raya 1,307,287,000
+<!-- marginal: B. 27 -->
 
-B. 28 Kementerian Pengangkutan 778,297,300
+Kementerian Kerja Raya 1,307,287,000
 
-Kementerian Tenaga, Air dan B. 29 76,870,700
+<!-- marginal: B. 28 -->
+
+Kementerian Pengangkutan 778,297,300
+
+Kementerian Tenaga, Air dan
+
+<!-- marginal: B. 29 -->
+
+76,870,700
 
 Komunikasi
 
-Kementerian Sains, Teknologi dan 30 B 627,120,000
+Kementerian Sains, Teknologi dan 30
+
+<!-- marginal: B -->
+
+627,120,000
 
 Inovasi .
 

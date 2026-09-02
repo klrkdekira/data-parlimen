@@ -1,0 +1,2169 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-2-2011",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_44",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_45",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_46",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_47",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_48",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_49",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_50",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_51",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_52",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_53",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_54"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Promotion of Investments (Amendment) Bill 2011"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_1__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_10__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 21C of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (4) the following subsection: “(4) The company shall maintain a statement showing the amount of income found under subsection (2) or (3), as the case may be.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (5). Amendment of section 21D"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_11__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 21D of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (5) the following subsection: “(5) The company shall maintain a statement showing the amount of income found under subsection (3).”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (6). Amendment of section 21DA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_12__subsec_4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 21DA(2) of the principal Act is amended by substituting for the words “(3), (4) and (5)” the words “(3) and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_12__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "”. Amendment of section 21E"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_13__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 21E of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (4) the following subsection: “(4) The company shall maintain a statement showing the amount of income found under subsection (2) or (3), as the case may be.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (5). Amendment of section 21F"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_14__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_14__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_14__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 21F of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the words “or company participating in industrial linkage programme” the words “company participating in industrial linkage programme, etc. under subsection 6(1) for an application under subsection 5(1D)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: “(1) This section shall apply to a high technology company or a company participating in a promoted activity or producing a promoted product in an industrial linkage programme or a company establishing a medical devices testing laboratory which has been granted pioneer status under subsection 6(1) for an application under subsection 5(1D).”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_14__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (4) the following subsection: “(4) The company shall maintain a statement showing the amount of income found under subsection (2) or (3), as the case may be.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_14__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (5). Amendment of section 21G"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 21G(2) of the principal Act is amended by substituting for the words “subsections 21C(2), (3), (4) and (5)” the words “subsections 21C(2), (2A), (3) and (4)”. Amendment of section 21H"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_16__subsec_4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 21H(2) of the principal Act is amended by substituting for the words “(3), (4) and (5)” the words “(3) and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_16__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "”. Amendment of section 21I"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_17__subsec_4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 21I(2) of the principal Act is amended by substituting for the words “(3), (4) and (5)” the words “(3) and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_17__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "”. Amendment of section 21J"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_18__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_18__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_18__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 21J of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words “(4), (5) and (6)” the words “(3), (4) and (5)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the words “(3), (4) and (5)” the words “(3) and (4)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_18__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4), by substituting for the words “subsections 21C(2A), (3), (4) and (5)” the words “subsections 21C(2), (2A), (3) and (4)”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_18__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (5), by substituting for the words “under subsection 21C(2A), and subsections 21C(3), (4) and (5)” the words “of the company for that year of assessment, and subsections 21C(2), (2A), (3) and (4)”. Amendment of section 21K"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_19__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_19__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 21K of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by deleting the words “an existing promoted activity or promoted product relating to”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_19__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words “(3), (4) and (5)” the words “(3) and (4)”. Amendment of section 21L"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Promotion of Investments (Amendment) Act 2011."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraphs 2(a), (b) and (f), paragraph 3(b), paragraphs 14(a) and (b), and sections 21, 26, 27, 31, 35, 37, 42, 43, 46, 49 and 50 are deemed to have come into operation on 8 September 2007."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 33 is deemed to have come into operation on 21 May 2003. Amendment of section 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Promotion of Investments Act 1986 [Act 327], which is referred to as the “principal Act” in this Act, is amended in section 5—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_20__subsec_4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 21L(2) of the principal Act is amended by substituting for the words “(3), (4) and (5)” the words “(3) and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_20__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "”. Deletion of section 21M"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 21M. Deletion of section 22"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 22. New section 22A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 22 the following section: “Company shall maintain statement for income computed during tax relief period 22A. A company shall maintain a statement for the income computed during the tax relief period under section 21, 21B, 21BA, 21C, 21D, 21DA, 21E, 21F, 21G, 21H, 21I, 21J, 21K or 21L.”. Amendment of section 23"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_24__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_24__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_24__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 23 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_24__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by deleting the words “, if the Director General is satisfied with the entries in the exempt account,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_24__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (5) the following subsection: “(5) The company shall keep a copy of the exempt account until the Director General is satisfied that there is no further need to maintain the exempt account.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_24__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (6), by deleting the words “, to the extent that the Director General is satisfied that the dividends so paid are paid out of that amount,”. Amendment of section 24"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_25__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_25__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_25__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 24(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_25__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by substituting for the comma at the end of the paragraph the words “; or”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_25__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (b) the following paragraph: “(c) any other adjustment to the statutory income of the pioneer company ascertained under section 21, 21B, 21BA, 21C, 21D, 21DA, 21E, 21F, 21G, 21H, 21I, 21J, 21K or 21L,”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_25__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “direction or cancellation, make such additional assessments upon any person” the words “direction, cancellation or adjustment, make such additional assessments upon any company”. Amendment of section 25"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_26__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_26__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_26__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 25 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_26__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words “21K(2), 21L(2) or 21M(2)” the words “21K(2) or 21L(2)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_26__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (2)(b), by substituting for the words “21K(2), 21L(2) or 21M(2)” the words “21K(2) or 21L(2)”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_26__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the English language text, in paragraph (b) of the proviso to subsection (4), by substituting for the words “date of surrendering of” the words “date of surrender of the”. Amendment of section 26F"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_27__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_27__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 26F of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_27__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the words “or company participating in industrial linkage programme” the words “company participating in industrial linkage programme or company establishing or upgrading a medical devices testing laboratory”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_27__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsection: “(2A) Any company intending to establish a medical devices testing laboratory or upgrade an existing medical devices testing laboratory in Malaysia may make an application in writing to the Minister for approval for purposes of an investment tax allowance.”. Amendment of section 26I"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_28__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_28__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_28__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 26I of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_28__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: “(1A) Notwithstanding subsection (1), where an application is made by a company participating or intending to participate in Malaysia in the generation of renewable energy, which has been prescribed as a promoted activity under the Promotion of Investments (Promoted Activities and Promoted Products for Selected Industries) Order 2008 [P.U. (A) 458/2008], and that company is controlled directly or indirectly by— (a) a pioneer company or a company which has been granted approval for the purposes of an investment tax allowance under section 27I participating in the same promoted activity as that company; (b) a company granted pioneer status in relation to the same promoted activity as that company; or (c) a post-pioneer company or a company which has been granted approval for the purposes of an investment tax allowance under section 27I and the period as prescribed under section 29J has ended, such application shall be considered by the Minister if the application is received from 8 September 2007 until 31 December 2010.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_28__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_28__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_28__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_28__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_28__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_28__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words “in the production of a”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_28__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_28__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words “in the production of that”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_28__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_28__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the proviso, by deleting the words “in the production of that”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_28__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4), by substituting for the words “subsection (1)” the words “this section”. Amendment of section 26J"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_29__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_29__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 26J of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_29__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_29__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_29__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_29__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_29__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_29__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words “in the production of a”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_29__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_29__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words “in the production of that”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_29__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_29__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the proviso, by deleting the words “in the production of that”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_29__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4), by substituting for the words “subsection (1)” the words “this section”. Amendment of section 26K"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (1D)(b) the following paragraph: “(c) Any company or person proposing to register a company in Malaysia, being desirous of establishing a medical devices testing laboratory in Malaysia, may make an application in writing to the Minister for pioneer status provided that such application is received from 8 September 2007 until 31 December 2012.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1DB)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “participating in a promoted activity or” the words “of producing”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the full stop at the end of the paragraph a colon;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting the following proviso: “Provided that where an application is made by a company participating or intending to participate in Malaysia in the generation of renewable energy, which has been prescribed as a promoted activity under the Promotion of Investments (Promoted Activities and Promoted Products for Selected Industries) Order 2008 [P.U. (A) 458/2008], other than for its own consumption, and that company is controlled directly or indirectly by— (i) a pioneer company or a company which has been granted approval for the purposes of an investment tax allowance under section 27I participating in the same promoted activity as that company; (ii) a company granted pioneer status in relation to the same promoted activity as that company; or (iii) a post-pioneer company or a company which has been granted approval for the purposes of an investment tax allowance under section 27I and the period as prescribed under section 29J has ended, such application shall be considered by the Minister if the application is received from 8 September 2007 until 31 December 2010.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1DC), by inserting after the words “participating in a promoted activity or” the words “of producing”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_d__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (1DD)(a)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “in relation to a promoted activity or” the words “of producing”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (ii) of the proviso, by inserting after the words “for that company” the words “in relation to that promoted activity or the production of that promoted product”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_e__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_e__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1DE)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_e__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words “an existing promoted activity or promoted product relating to”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_e__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b) of the proviso, by inserting after the words “section 14” the words “, 14A or 14C”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (1DG);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_g__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_g__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_g__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1E)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_g__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_g",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “, 27L(1) or section 27O” the words “or 27L(1)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_g__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_g",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “, (1DF) or (1DG)” the words “or (1DF)”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_g__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_g",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the proviso, by substituting for the words “, 27L(1) or section 27O” the words “or 27L(1)”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words “subsection (1) or (1A)” the words “this section”. Amendment of section 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 6 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_30__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_30__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_30__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_30__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 26K of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_30__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), in paragraph (b) of the proviso, by inserting after the words “for that company” the words “in relation to the promoted activity or promoted product”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_30__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_30__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_30__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_30__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_30__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_30__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words “or services thereof”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_30__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_30__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words “or services”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_30__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_30__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b) of the proviso, by inserting after the words “for that company” the words “in relation to the promoted activity”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_30__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_30__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_30__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_30__para_c__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_30__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_30__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words “in the production of a”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_30__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_30__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words “in the production of that”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_30__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_30__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the proviso, by deleting the words “in the production of that”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_30__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (5), by substituting for the words “subsections (1) and (2)” the words “this section”. Amendment of section 26L"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_31__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_31__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_31__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_31__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 26L of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_31__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by deleting the words “an existing promoted activity or promoted product relating to”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_31__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by deleting the words “an existing promoted activity or existing promoted product relating to”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_31__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by deleting the words “in a promoted area under section 4C”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_31__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the words “subsection (1)” the words “this section”. Deletion of section 26O"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 26O. Amendment of section 27"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_33__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_33__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_33__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 27(1A) of the principal Act is amended in paragraph (a) of the proviso—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_33__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “engaged in an activity” the words “or in the production of a product”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_33__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “from such activity” the words “or product”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_33__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the English language text, by inserting after the words “a promoted activity” the words “or promoted product”. Amendment of section 27C"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_34__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_34__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 27C of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_34__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the proviso the following proviso: “Provided that— (a) where the Minister is satisfied that the company was engaged in an activity or had otherwise incurred capital expenditure in relation thereto, from a date prior to the date from which the activity was deemed as a promoted activity under section 4B, the approval may be granted retrospectively from a date not earlier that the date from which the company has been engaged in that activity or the capital expenditure had been incurred in relation thereto; and (b) no approval shall be granted retrospectively under subsection (1) or under the foregoing proviso from a date which is earlier than three years from the date the application under subsection 26C(1) is received by the Minister.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_34__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the words “subsections (1) and (2)” the words “this section”. Amendment of section 27E"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_35__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_35__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 27E of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_35__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the proviso the following proviso: “Provided that— (a) where the Minister is satisfied that the company was engaged in an activity or had otherwise incurred capital expenditure in relation thereto, from a date prior to the date from which the activity was deemed as a promoted activity under section 4B, the approval may be granted retrospectively from a date not earlier than the date from which the company has been engaged in that activity or the capital expenditure had been incurred in relation thereto; and (b) no approval shall be granted retrospectively under subsection (1) or under the foregoing proviso from a date which is earlier than three years from the date the application under subsection 26E(1) is received by the Minister.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_35__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the words “subsections (1) and (2)” the words “this section”. Amendment of section 27F"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_36__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_36__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_36__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_36__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_36__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 27F of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_36__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by inserting after the words “subsection 26F(1)” the words “or (2A)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_36__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the proviso the following proviso: “Provided that— (a) where the Minister is satisfied that the company was engaged in an activity or had otherwise incurred capital expenditure in relation thereto, from a date prior to the date from which the activity was deemed as a promoted activity under section 4, the approval may be granted retrospectively from a date not earlier than the date from which the company has been engaged in that activity or the capital expenditure had been incurred in relation thereto; and (b) no approval shall be granted retrospectively under subsection (1) or under the foregoing proviso from a date which is earlier than three years from the date the application under subsection 26F(1) is received by the Minister.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_36__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: “(1A) The Minister may grant approval in respect of an application for an investment tax allowance made under subsection 26F(2A) subject to such terms and conditions as he deems fit: Provided that— (a) where the Minister is satisfied that the company had established a medical devices testing laboratory or had upgraded an existing medical devices testing laboratory, or had otherwise incurred capital expenditure in relation thereto, the approval may be granted retrospectively from a date not earlier than 8 September 2007; and (b) no approval shall be granted retrospectively under subsection (1A) or under the foregoing proviso from a date which is earlier than three years from the date the application under subsection 26F(2A) is received by the Minister.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_36__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words “subsection (1)” the words “subsections (1) and (1A)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_36__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the words “subsections (1) and (2)” the words “this section”. Amendment of section 27G"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_37__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_37__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 27G of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_37__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the proviso the following proviso: “Provided that— (a) where the Minister is satisfied that the company was engaged in an activity or had otherwise incurred capital expenditure in relation thereto, from a date prior to the date from which the activity was deemed as a promoted activity under section 4B, the approval may be granted retrospectively from a date not earlier that the date from which the company has been engaged in that activity or the capital expenditure had been incurred in relation thereto; and (b) no approval shall be granted retrospectively under subsection (1) or under the foregoing proviso from a date which is earlier than three years from the date the application under subsection 26G(1) is received by the Minister.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_37__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4), by substituting for the words “subsections (1), (2) and (3)” the words “this section”. Amendment of section 27I"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_38__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_38__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 27I of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_38__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), in paragraph (a) of the proviso, by inserting after the words “engaged in an activity” the words “or in the production of a promoted product”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_38__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the words “subsections (1) and (2)” the words “this section”. Amendment of section 27J"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_39__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_39__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 27J of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_39__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), in paragraph (a) of the proviso, by inserting after the words “engaged in an activity” the words “or in the production of a promoted product”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_39__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the words “subsections (1) and (2)” the words “this section”. Amendment of section 27K"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1AH), by deleting the words “an existing promoted activity or promoted product relating to”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (1AJ); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (3)(a), by substituting for the words “, (1AI) or (1AJ)” the words “or (1AI)”. Amendment of section 9A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subparagraph 9A(3)(b)(ii) of the principal Act is amended by inserting after the words “year of assessment” the words “of which the application for”. Amendment of section 18"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_40__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_40__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 27K of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_40__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_40",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), in the proviso, by inserting after the words “engaged in an activity” the words “or in the production of a promoted product,”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_40__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_40",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4), by substituting for the words “subsections (1), (2) and (3)” the words “this section”. Amendment of section 27L"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_41__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_41__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 27L of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_41__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_41",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for paragraph (a) of the proviso the following paragraph: “(a) the approval may be granted retrospectively from a date not earlier than 11 September 2004; and”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_41__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_41",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the words “subsections (1) and (2)” the words “this section”. Amendment of section 27M"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 27M(1) of the principal Act is amended in paragraph (a) of the proviso by inserting after the words “engaged in an activity” the words “or in the production of a promoted product”. Amendment of section 27N"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_43__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_43__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 27N of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_43__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_43__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_43__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_43__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), in paragraph (a) of the proviso—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_43__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_43__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “in relation thereto,” the words “from a date prior to the date from which the activity was deemed as a promoted activity,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_43__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_43__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the word “and” at the end of the paragraph; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_43__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_43__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (a) the following paragraph: “(aa) where an application is received from 8 September 2007 until 31 December 2010 and the Minister is satisfied that the company was engaged in an activity or had otherwise incurred capital expenditure in relation thereto, the approval may be granted retrospectively from the date of the receipt of the application but not earlier than 8 September 2007; and”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_43__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the words “subsections (1) and (2)” the words “this section”. Deletion of section 27O"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 27O. Amendment of section 28"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_45",
+      "@type": "akn:clause",
+      "eli:number": "45",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_45__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_45__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 28 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_45__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_45__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_45__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_45__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_45",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_45__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_45__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “27M, 27N or 27O” the words “27M or 27N”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_45__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_45__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “27F(1),” the words “(1A),”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_45__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_45__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words “, 27O(1), (2)”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_45__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_45__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_45__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_45__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_45",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_45__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_45__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “27F(1),” the words “(1A),”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_45__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_45__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “27M(1), 27N(1) or 27O(1)” the words “27M(1) or 27N(1); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_45__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_45__para_b__subpara_iii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_45__para_b__subpara_iii__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_45__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_45__para_b__subpara_iii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_45__para_b__subpara_iii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “27F(1),” the words “(1A),”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_45__para_b__subpara_iii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_45__para_b__subpara_iii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words “, 27O(1), (2)”. Amendment of section 29C"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_46",
+      "@type": "akn:clause",
+      "eli:number": "46",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 29C(1A) of the principal Act is amended in the English text by inserting after the words “promoted activity or” the words “promoted”. Amendment of section 29L"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_47",
+      "@type": "akn:clause",
+      "eli:number": "47",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 29L(4) of the principal Act is amended in the English language text by inserting after the words “investment tax allowance of” the word “one”. Amendment of section 29M"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_48",
+      "@type": "akn:clause",
+      "eli:number": "48",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_48__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_48__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 29M of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_48__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_48",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (2) the following subsection: “(2) Where a company which has been granted approval under section 27L has incurred, in the basis period for a year of assessment in respect of a manufacturing activity, capital expenditure for the purpose of relocating that manufacturing activity, the company shall be given for that year of assessment an investment tax allowance of one hundred per cent of that expenditure.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_48__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_48",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), in subparagraph (b)(i) of the proviso, by substituting for the words “promoted activity or promoted product” the words “manufacturing activity”. Amendment of section 29O"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_49",
+      "@type": "akn:clause",
+      "eli:number": "49",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_49__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_49__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_49__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_49__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 29O of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_49__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_49",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsection: “(2A) Notwithstanding subsection (2), for an application received from 8 September 2007 until 31 December 2010, the company shall be given for that year of assessment an investment tax allowance of one hundred per cent of that expenditure.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_49__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_49",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (3) the following subsection: “(3) An allowance for expenditure given under subsection (2) or (2A)— (a) shall be given only in the basis period for the year of assessment for which that expenditure was incurred; and (b) shall be given in respect of expenditure incurred within five years from the date from which the approval is to take effect: Provided that where a company incurs capital expenditure from the date from which the approval is to take effect referred to in paragraph (b) in relation to a business which it is about to carry on in respect of a promoted activity, that expenditure shall be deemed to be incurred in the basis period in which it commences to carry on the business and where the company incurs capital expenditure— (i) prior to its application under section 26N and the approval under paragraph (a) of the proviso to subsection 27N(1), the allowance is granted retrospectively from a date not earlier than 1 October 2005; or (ii) prior to its application under section 26N and the approval under paragraph (aa) of the proviso to subsection 27N(1), the allowance is granted retrospectively from a date not earlier than 8 September 2007.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_49__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_49",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (6) the following subsection: “(6) For the purposes of subsection (2) and subparagraph (3)(b)(i) of the proviso, subsections 29A(5), (6) and (7) shall apply mutatis mutandis.”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_49__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_49",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (6) the following subsection: “(7) For the purposes of subsection (2A) and subparagraph (3)(b)(ii) of the proviso, subsections 29AA(4), (5) and (6) shall apply mutatis mutandis.”. Deletion of section 29P"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 18(7) of the principal Act is amended in the proviso by substituting for the words “pioneer period” the words “tax relief period”. Amendment of section 21"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_50",
+      "@type": "akn:clause",
+      "eli:number": "50",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 29P. Amendment of section 30A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_51",
+      "@type": "akn:clause",
+      "eli:number": "51",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 30A(2) of the principal Act is amended by substituting for the words “29N(4), 29O(4) and 29P(5)” the words “29N(4) and 29O(4)”. Amendment of section 41B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_52",
+      "@type": "akn:clause",
+      "eli:number": "52",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 41B(1)(b) of the principal Act is amended by substituting for the words “29N(4), 29O(4) or 29P(5)” the words “29N(4) or 29O(4)”. Amendment of section 43A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_53",
+      "@type": "akn:clause",
+      "eli:number": "53",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_53__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_53__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 43A of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_53__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_53__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_53__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_53",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_53__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_53__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “27M, 27N or 27O” the words “27M or 27N”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_53__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_53__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “29N(3)(b), 29O(3)(b) or 29P(3)(b)” the words “29N(3)(b) or 29O(3)(b)”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_53__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_53",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the words “27M, 27N or 27O” the words “27M or 27N”. Savings and transitional"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_54",
+      "@type": "akn:clause",
+      "eli:number": "54",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding the deletion of subsections 5(1DG) and 6(1AJ), sections 21M, 26O, 27O and 29P of the principal Act, the provisions shall remain in operation and continue to apply to any company for all purposes and in all respects in relation to any application approved under those sections before the coming into operation of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 21 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (3) the following subsection: “(3) Where an amount is found under subsection (1) or under subsections (1) and (2), as the case may be, or where such amount is reduced by an adjusted loss from a pioneer business of that company pursuant to subsection 25(2), the company shall maintain a statement showing that amount in question or reduced amount in question, as the case may be.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (4). Amendment of section 21A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 21A of the principal Act is amended by substituting for subsection (4) the following subsection: “(4) Notwithstanding any other provisions of this Chapter, where in a year of assessment, there is an adjustment to the loss referred to in subsections (1) and (2) for any year of assessment resulting in a decrease or increase of that loss, subject to subsection 91(4) of the principal Act, the Director General may in the first mentioned year of assessment or within six years after its expiration make— (a) an adjustment to the statutory income of the pioneer company ascertained under section 21 for that year of assessment; or (b) an assessment for that year of assessment as appears to him to be necessary in order to counteract any benefit of exemption obtained before the adjustment of that loss.”. Amendment of section 21B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_8__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 21B of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (5) the following subsection: “(5) The company shall maintain a statement showing the amount of income found under subsection (3).”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (6). Amendment of section 21BA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_9__subsec_4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 21BA(2) of the principal Act is amended by substituting for the words “(3), (4) and (5)” the words “(3) and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_9__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/2/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "”. Amendment of section 21C"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2757 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-64-2024",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_44",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_45",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_46",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_47",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_48",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_49",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_50",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_51",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_52"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Anti-Money Laundering, Anti-Terrorism Financing and Proceeds of Unlawful Activities (Amendment) Bill 2024"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 12(1) of the principal Act is amended by substituting for the words “or a terrorism financing offence” the words “, a terrorism financing offence or a restricted activity financing offence”. Amendment of section 13"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_11__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_11__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_11__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_11__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 13 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: “(1) A reporting institution, or the director, officer or employee of the reporting institution shall keep a record of all domestic and international transactions or activities.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_11__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_11__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_11__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_11__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_11__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “transaction” wherever appearing the words “or activity”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_11__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_11__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (b) the following paragraph: “(ba) the identity and address of the person purporting to act on behalf of a customer in the opening of an account or for the carrying out of the transaction or activity, where applicable;”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_11__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_11__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words “in writing”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_11__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (3) the following subsections: “(3a) For the purposes of subsections (2) and (3), the competent authority may issue any directions, instruction, guideline, circular, standard, notice, specification or requirement to, or impose any condition on, the reporting institution, or the director, officer or employee of the reporting institution as the competent authority considers necessary. (3b) The reporting institution, or the director, officer or employee of the reporting institution shall comply with the directions, instruction, guideline, circular, standard, notice, specification or requirement issued, or the condition imposed under subsection (3a).”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_11__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (4); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_11__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (4) as deleted the following subsection: “(5) Any reporting institution which, or the director, officer or employee of the reporting institution who, contravenes subsection (1) or (3b) commits an offence and shall, on conviction, be liable to a fine not exceeding one million ringgit.”. Amendment of section 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_12__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_12__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 14 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_12__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_12__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_12__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_12__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_12__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by inserting after the word “transaction” wherever appearing the words “or activity”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_12__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_12__para_a__subpara_ii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_12__para_a__subpara_ii__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_12__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_12__para_a__subpara_ii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_12__para_a__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “transaction” wherever appearing the words “, activity”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_12__para_a__subpara_ii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_12__para_a__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the full stop at the end of the paragraph a semicolon; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_12__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_12__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (c) the following paragraphs: “(d) any transaction, activity or property where any officer or employee of the reporting institution has reason to suspect that the transaction, activity or property involved is related or linked to, is used or intended to be used for or by, any restricted activity, proliferator or person who finances restricted activity; (e) any suspicious transaction or activity as may be specified by the competent authority.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (2); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_12__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) as deleted the following subsections: “(3) For the purposes of this section, the competent authority may issue any directions, instruction, guideline, circular, standard, notice, specification or requirement to, or impose any condition on, the reporting institution, or the director, officer or employee of the reporting institution on reporting mechanism and the manner to detect patterns of behaviour involving suspicious transaction or activity. (4) The reporting institution, or the director, officer or employee of the reporting institution shall comply with the directions, instruction, guideline, circular, standard, notice, specification or requirement issued, or the condition imposed under subsection (3). (5) Any reporting institution which contravenes subsection (1) or any reporting institution which, or the director, officer or employee of the reporting institution who, contravenes subsection (4) commits an offence and shall, on conviction, be liable to a fine not exceeding one million ringgit.”. Amendment of section 14a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 14a(4) of the principal Act is amended by substituting for the words “section 6 of the Companies Act 1965” the words “section 7 of the Companies Act 2016”. Substitution of section 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_14__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_14__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 15 the following section: “Centralization of information 15. (1) A reporting institution, or the director, officer or employee of the reporting institution shall establish, administer and maintain a system for centralization of information collected pursuant to this Part. (2) For the purposes of subsection (1), the competent authority may issue any directions, instruction, guideline, circular, standard, notice, specification or requirement to, or impose any condition on, the reporting institution, or the director, officer or employee of the reporting institution on the form and manner of the centralization of information."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_14__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The reporting institution, or the director, officer or employee of the reporting institution shall comply with the directions, instruction, guideline, circular, standard, notice, specification or requirement issued, or the condition imposed under subsection (2)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_14__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any reporting institution which, or the director, officer or employee of the reporting institution who, contravenes subsection (1) or (3) commits an offence and shall, on conviction, be liable to a fine not exceeding one million ringgit.”. Amendment of section 16"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_i"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 16 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by inserting after the words “A reporting institution” the words “, or the director, officer or employee of the reporting institution”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “A reporting institution” the words “, or the director, officer or employee of the reporting institution”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (c) the following paragraph: “(c) regardless of any amount, there is a reasonable suspicion of the commission of a money laundering offence, a terrorism financing offence or a restricted activity financing offence;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsections (3) and (4), by inserting after the words “A reporting institution” the words “, or the director, officer or employee of the reporting institution”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_d__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_d__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_d__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (5)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “supervisory authority” the words “regulatory or supervisory authority”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “or guidelines to a reporting institution” the words “, instruction, guideline, circular, standard, notice, specification or requirement to, or impose any condition on, the reporting institution, or the director, officer or employee of the reporting institution”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_d__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by substituting for the words “or terrorism financing offence” the words “, terrorism financing offence or restricted activity financing offence”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_d__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by inserting after the word “additional” the words “and ongoing”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (5) the following subsection: “(5a) The reporting institution, or the director, officer or employee of the reporting institution shall comply with the directions, instruction, guideline, circular, standard, notice, specification or requirement issued, or the condition imposed under subsection (5).”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (6), by inserting after the words “A reporting institution” the words “, or the director, officer or employee of the reporting institution”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (6) the following subsection: “(6a) Any reporting institution which, or the director, officer or employee of the reporting institution who, contravenes subsection (1), (2), (3), (4), (5a) or (6) commits an offence and shall, on conviction, be liable to a fine not exceeding one million ringgit.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (7)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_i__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_i__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_i__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (a) the following paragraph: “(a) “activity” refers to a single activity or a series of activities including any attempted activity or proposed activity for the purposes of activity carried out by a reporting institution under the First Schedule and as may be specified by the competent authority;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_i__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by deleting the word “and” at the end of the paragraph;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_i__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by substituting for the full stop at the end of the paragraph a semicolon; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_i__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_15__para_i",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (b) the following paragraph: “(c) “transaction” refers to a single transaction or a series of transactions including any attempted transaction or proposed transaction or any transaction specified by the competent authority pursuant to any directions, instruction, guideline, circular, standard, notice, specification or requirement issued, or any condition imposed under this Act.”. Amendment of section 17"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_16__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_16__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_16__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 17 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_16__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_16__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_16__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_16__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “reporting institution” the words “, or the director, officer or employee of the reporting institution”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_16__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_16__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “completed or terminated” the words “, whichever is later”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (2) the following subsection: “(2) A reporting institution, or the director, officer or employee of the reporting institution shall also maintain records to enable the reconstruction of any transaction or activity.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_16__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by inserting after the words “reporting institution” the words “, or the director, officer or employee of the reporting institution”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_16__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4), by substituting for the words “reporting institution which” the words “reporting institution which, or the director, officer or employee of the reporting institution who,”. Amendment of section 18"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_17__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_17__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 18 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_17__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by inserting after the words “commonly known, the reporting institution” the words “, or the director, officer or employee of the reporting institution”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (5) the following subsections: “(5a) For the purposes of subsections (1), (2) and (3), the competent authority may issue any directions, instruction, guideline, circular, standard, notice, specification or requirement to, or impose any condition on, a reporting institution, or the director, officer or employee of the reporting institution on the opening of account or conducting business relationship, transaction or activity in fictitious, false or incorrect name. (5b) The reporting institution, or the director, officer or employee of the reporting institution shall comply with the directions, instruction, guideline, circular, standard, notice, specification or requirement issued, or the condition imposed under subsection (5a).”. Amendment of section 19"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_18__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_18__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 19 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_18__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_18__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_18__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_18__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “A reporting institution” the words “, or the director, officer or employee of the reporting institution”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_18__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_18__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “internal programmes, policies, procedures and controls” the words “, as the competent authority may specify,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsections (3) and (5), by inserting after the words “A reporting institution” the words “, or the director, officer or employee of the reporting institution”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_18__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (5) the following subsections: “(6) For the purposes of this section, the competent authority may issue any directions, instruction, guideline, circular, standard, notice, specification or requirement to, or impose any condition on, the reporting institution, or the director, officer or employee of the reporting institution on compliance programmes. (7) The reporting institution, or the director, officer or employee of the reporting institution shall comply with the directions, instruction, guideline, circular, standard, notice, specification or requirement issued, or the condition imposed under subsection (6). (8) Any reporting institution which, or the director, officer or employee of the reporting institution who, contravenes subsection (1), (3), (4), (5) or (7) commits an offence and shall, on conviction, be liable to a fine not exceeding one million ringgit.”. Amendment of section 21"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_19__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_19__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_19__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_19__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_19__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 21 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the words “supervisory or licensing authority” the words “regulatory or supervisory authority or licensing authority”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_19__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_19__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_19__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_19__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_19__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_19__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “The relevant supervisory authority of a reporting institution or such other person as the relevant supervisory authority may deem fit may” the words “The relevant regulatory or supervisory authority of a reporting institution may”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_19__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_19__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (a) the following paragraph: “(aa) obtain from the reporting institution, or the director, officer or employee of the reporting institution any information, document, record or report as it deems fit to monitor the reporting institution from being exposed to money laundering, terrorism financing and restricted activity financing risks;”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_19__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_19__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by substituting for the words “adopts and implements the compliance programmes in section 19” the words “complies with the provisions of this Part”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_19__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: “(1 a) For the purposes of paragraph (1) (aa), the reporting institution, or the director, officer or employee of the reporting institution shall give the required information, document, record or report to the relevant regulatory or supervisory authority of the reporting institution within such period as the regulatory or supervisory authority may specify.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_19__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the words “The relevant supervisory authority” the words “The relevant regulatory or supervisory authority”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_19__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (3) the following subsection: “(4) Any reporting institution which, or the director, officer or employee of the reporting institution who, contravenes subsection (1a) commits an offence and shall, on conviction, be liable to a fine not exceeding one million ringgit.”. Deletion of section 22"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Anti-Money Laundering, Anti-Terrorism Financing and Proceeds of Unlawful Activities (Amendment) Act 2024."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister of Finance by notification in the Gazette. Amendment of long title"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Anti-Money Laundering, Anti-Terrorism Financing and Proceeds of Unlawful Activities Act 2001 [Act 613], which is referred to as the “principal Act” in this Act, is amended by substituting for the long title the following long title: “An Act to provide for the offences of money laundering and restricted activity financing including the proliferation of weapons of mass destruction, the measures to be taken for the prevention of money laundering, terrorism financing and restricted activity financing offences and to provide for the forfeiture of property involved in or derived from money laundering, terrorism financing and restricted activity financing offences, as well as terrorist property and proliferator property, proceeds of an unlawful activity and instrumentalities of an offence, and for matters incidental thereto and connected therewith.”. Amendment of section 1"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 22. Amendment of section 25"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_21__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_21__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 25 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_21__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by inserting after the words “competent authority” the words “or the regulatory or supervisory authority, as the case may be,”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_21__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (2)(b), by inserting after the word “transaction” the words “or activity”. Amendment of section 28l"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 28l(2) of the principal Act is amended by substituting for the words “twelve months” the words “eighteen months”. Amendment of section 29"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_23__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_23__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 29 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_23__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (1)(c), by inserting after the words “Part IVa,” the words “VIa or VIb,”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_23__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by inserting after the words “Part IVa,” the words “VIa or VIb,”. Amendment of section 44"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_24__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_24__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_24__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 44 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_24__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_24__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_24__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_24__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_24__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “or any terrorist property” the words “any terrorist property or proliferator property”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_24__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_24__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (b)(i), by substituting for the words “subsection 4(1) or a terrorism financing offence” the words “subsection 4(1) or 4a(2), a terrorism financing offence or a restricted activity financing offence”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_24__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (8); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_24__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (9), by deleting the words “(if any), as the case may be,”. Amendment of section 44a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_25__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_25__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 44a of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_25__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_25__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_25__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (4)(c)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_25__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_25__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (i), by substituting for the words “subsection 4(1) or a terrorism financing offence” the words “subsection 4(1) or 4a(2), a terrorism financing offence or a restricted activity financing offence”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_25__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_25__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subparagraph (ii) the following subparagraph: “(iia) proliferator property;”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_25__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_25__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_25__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (7)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_25__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_25__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by substituting for the words “subsection 4(1) or a terrorism financing offence” the words “subsection 4(1) or 4a(2), a terrorism financing offence or a restricted activity financing offence”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_25__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_25__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (b) the following paragraph: “(ba) proliferator property;”. Amendment of section 45"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_26__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_26__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 45(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_26__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “subsection 4(1) or a terrorism financing offence” the words “subsection 4(1) or 4a(2), a terrorism financing offence or a restricted activity financing offence”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_26__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “terrorist property,” the words “proliferator property,”. Amendment of section 47"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 47(1) of the principal Act is amended by substituting for the words “subsection 4(1) or a terrorism financing offence” the words “subsection 4(1) or 4a(2), a terrorism financing offence or a restricted activity financing offence”. Amendment of section 48"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_28__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_28__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 48 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_28__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words “subsection 4(1) or a terrorism financing offence” the words “subsection 4(1) or 4a(2), a terrorism financing offence or a restricted activity financing offence”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_28__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (3)(c), by substituting for the words “subsection 4(1), a terrorism financing offence” the words “subsection 4(1) or 4a(2), a terrorism financing offence, a restricted activity financing offence”. Amendment of section 49"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_29__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_29__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_29__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 49 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_29__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words “subsection 4(1) or a terrorism financing offence” the words “subsection 4(1) or 4a(2), a terrorism financing offence or a restricted activity financing offence”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_29__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (3) the following subsections: “(3a) Where the Public Prosecutor is satisfied on information given to him by an investigating officer to suspect that any person to whom a notice is sent by the Public Prosecutor under subsection (1) owns, possesses, controls or holds any interest in any property which is excessive, having regard to his present and past emoluments or income and all other relevant circumstances, the Public Prosecutor may by a written directions require the person to furnish a statement on oath or affirmation explaining how he was able to own, possess, control or hold such excess. (3b) Any person who fails to give a satisfactory explanation on how he was able to own, possess, control or hold any interest in any property which is excessive commits an offence and shall, on conviction, be liable to a fine not exceeding three million ringgit or to imprisonment for a term not exceeding five years or to both.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_29__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsections (4) and (5), by inserting after the word “notice” wherever appearing the words “or directions”. Amendment of section 50"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 1(1) of the principal Act is amended by inserting after the words “Anti-Terrorism Financing” the words “, Anti-Restricted Activity Financing”. Amendment of section 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_30__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_30__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 50 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_30__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_30__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_30__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_30__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_30__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by substituting for the words “subsection 4(1) or a terrorism financing offence” the words “subsection 4(1) or 4a(2), a terrorism financing offence or a restricted activity financing offence”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_30__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_30__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (b) the following paragraph: “(ba) proliferator property;”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_30__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1a), by substituting for the words “Bank Negara Malaysia, the Securities Commission or the Labuan Financial Services Authority, as the case may be,” the words “the relevant regulatory or supervisory authority”. Amendment of section 51"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_31__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_31__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_31__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 51(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_31__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by substituting for the words “subsection 4(1) or a terrorism financing offence” the words “subsection 4(1) or 4a(2), a terrorism financing offence or a restricted activity financing offence”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_31__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (b) the following paragraph: “(ba) proliferator property;”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_31__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “be seized by the investigating officer” the words “, in whole or in part, be seized by the investigating officer, and the Public Prosecutor may vary or revoke the order”. Amendment of section 52"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_32__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_32__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 52 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_32__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (1)(a), by substituting for the words “subsection 4(1) or a terrorism financing offence” the words “subsection 4(1) or 4a(2), a terrorism financing offence or a restricted activity financing offence”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_32__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1 a), by inserting after the words “Public Prosecutor” the words “and the relevant regulatory or supervisory authority”. Amendment of section 52a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_33__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_33__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 52a of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_33__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “twelve months” wherever appearing the words “eighteen months”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_33__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “an offence under this Act” the words “or no prosecution for any offence under this Act has been instituted with regard to any property seized under such order”. Amendment of section 53"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_34__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_34__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_34__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_34__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 53 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_34__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_34__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_34__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_34__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_34__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_34__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by substituting for the words “subsection 4(1) or a terrorism financing offence” the words “subsection 4(1) or 4a(2), a terrorism financing offence or a restricted activity financing offence”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_34__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_34__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (b) the following paragraph: “(ba) proliferator property;”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_34__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_34__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “an application” the words “an ex parte application”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_34__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_34__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_34__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_34__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_34__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by substituting for the words “subsection 4(1) or a terrorism financing offence” the words “subsection 4(1) or 4a(2), a terrorism financing offence or a restricted activity financing offence”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_34__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_34__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (b) the following paragraph: “(ba) proliferator property;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_34__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_34__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_34__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_34__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_34__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “expiration of twelve months” the words “expiration of eighteen months”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_34__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_34__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “under this Act” the words “or no prosecution for any offence under this Act has been instituted with regard to any property seized under such order”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_34__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (3) the following subsections: “(4) The Public Prosecutor may, before the expiration of the order under subsection (3), make an ex parte application supported by an affidavit to a judge of the High Court to extend the period of the order made under subsection (2). (5) The Court may allow the application to extend the period of the order made under subsection (4) for a period not exceeding twelve months from the date of expiration of the order under subsection (3).”. Amendment of section 55"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_35__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_35__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 55 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_35__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_35__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_35__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_35__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_35__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “subsection 4(1) or a terrorism financing offence” the words “subsection 4(1) or 4a(2), a terrorism financing offence or a restricted activity financing offence”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_35__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_35__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (b) the following paragraph: “(ba) proliferator property;”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_35__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_35__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_35__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_35__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_35__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by substituting for the words “subsection 4(1) or a terrorism financing offence” the words “subsection 4(1) or 4a(2), a terrorism financing offence or a restricted activity financing offence”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_35__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_35__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (b) the following paragraph: “(ba) proliferator property;”. Amendment of section 56"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_36__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_36__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_36__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_36__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_36__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 56 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_36__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: “(1) Subject to section 61, where in respect of any property seized under this Act there is no prosecution or conviction for an offence under subsection 4(1) or 4a(2), a terrorism financing offence or a restricted activity financing offence, the Public Prosecutor may apply to a judge of the High Court for an order of forfeiture of the property— (a) in the case of no prosecution, before the expiration of eighteen months from the date of the seizure order, or where there is a freezing order, eighteen months from the date of the freezing order; or (b) in the case of no conviction, within the period of three months from the date of no conviction.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_36__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: “(1 a) The Public Prosecutor in making an application under subsection (1) shall be satisfied that the property is— (a) the subject-matter or evidence relating to the commission of such offence; (b) terrorist property; (c) proliferator property; (d) the proceeds of an unlawful activity; or (e) the instrumentalities of an offence.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_36__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_36__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_36__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (2)(a)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_36__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_36__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (i), by substituting for the words “subsection 4(1) or a terrorism financing offence” the words “subsection 4(1) or 4a(2), a terrorism financing offence or a restricted activity financing offence”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_36__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_36__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subparagraph (ii) the following subparagraph: “(iia) proliferator property;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_36__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the words “twelve months” the words “eighteen months”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_36__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_36__para_e__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_36__para_e__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_36__para_e__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_36__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by substituting for the words “subsection 4(1) or a terrorism financing offence” the words “subsection 4(1) or 4a(2), a terrorism financing offence or a restricted activity financing offence”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_36__para_e__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_36__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (b) the following paragraph: “(ba) proliferator property;”. Amendment of section 58"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_37__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_37__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 58(5) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_37__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_37__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_37__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_37__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_37__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (i), by substituting for the words “subsection 4(1) or a terrorism financing offence” the words “subsection 4(1) or 4a(2), a terrorism financing offence or a restricted activity financing offence”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_37__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_37__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subparagraph (ii) the following subparagraph: “(iia) proliferator property;”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_37__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_37__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_37__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_37__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_37__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (i), by substituting for the words “subsection 4(1) or a terrorism financing offence” the words “subsection 4(1) or 4a(2), a terrorism financing offence or a restricted activity financing offence”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_37__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_37__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subparagraph (ii) the following subparagraph: “(iia) proliferator property;”. Amendment of section 59"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_38__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_38__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_38__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 59 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_38__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_38__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_38__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_38__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_38__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by substituting for the words “subsection 4(1) or a terrorism financing offence” the words “subsection 4(1) or 4a(2), a terrorism financing offence or a restricted activity financing offence”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_38__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_38__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (b) the following paragraph: “(ba) proliferator property;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_38__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_38__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_38__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_38__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_38__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by substituting for the words “subsection 4(1) or a terrorism financing offence” the words “subsection 4(1) or 4a(2), a terrorism financing offence or a restricted activity financing offence”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_38__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_38__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (b) the following paragraph: “(ba) proliferator property;”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_38__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_38__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_38__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_38__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_38__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by substituting for the words “subsection 4(1) or a terrorism financing offence” the words “subsection 4(1) or 4a(2), a terrorism financing offence or a restricted activity financing offence”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_38__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_38__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (b) the following paragraph: “(ba) proliferator property;”. Amendment of section 61"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_39__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_39__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 61 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_39__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsection: “(2a) Any third party who fails to attend before the court on the date specified in the notice published under subsection (2) shall not make any claims after a forfeiture order is made under subsection 28l(1) or (3), 55(1) or 56(2).”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_39__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (4)(b), by substituting for the words “or Part IVa, or a terrorism financing offence” the words “or 4a(2), Part IVa, a terrorism financing offence or a restricted activity financing offence”. Amendment of section 66a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_4__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_4__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_4__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_4__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_4__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_4__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_4__para_i"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 3(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_40__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_40__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 66a of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_40__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_40",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “terrorist act”, by substituting for the semicolon at the end of the definition a full stop; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_40__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_40",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the definition of “relevant regulatory or supervisory authority”. Amendment of section 66b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_41__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_41__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_41__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 66b of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_41__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_41",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words “the relevant regulatory or supervisory authority” the words “the competent authority or the regulatory or supervisory authority, as the case may be,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_41__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_41__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_41__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_41",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_41__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_41__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraphs (a), (b) and (c), by substituting for the words “no citizen of Malaysia and no body corporate incorporated in Malaysia” the words “no person”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_41__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_41__para_b__subpara_ii__subpara_A",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_41__para_b__subpara_ii__subpara_B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_41__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (d)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_41__para_b__subpara_ii__subpara_A",
+      "@type": "akn:subparagraph",
+      "eli:number": "A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_41__para_b__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “every citizen of Malaysia and every body corporate incorporated in Malaysia” the words “every person”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_41__para_b__subpara_ii__subpara_B",
+      "@type": "akn:subparagraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_41__para_b__subpara_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (i), by substituting for the words “in their possession or control that they have” the words “in his possession or control that he has”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_41__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_41__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_41__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_41",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (11)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_41__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_41__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “direct the relevant regulatory or supervisory authority” the words “direct the competent authority or the regulatory or supervisory authority, as the case may be,”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_41__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_41__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “the relevant regulatory or supervisory authority” the words “the competent authority or the regulatory or supervisory authority”. Amendment of section 66d"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_42__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_42__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 66d of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_42__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_42",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words “the relevant regulatory or supervisory authority” the words “the competent authority or the regulatory or supervisory authority, as the case may be,”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_42__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_42",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the words “The relevant regulatory or supervisory authority” the words “The competent authority or the regulatory or supervisory authority, as the case may be,”. Amendment of section 66e"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_43__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_43__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_43__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_43__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_43__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_43__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_43__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 66e of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_43__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the words “Directions and guidelines” the words “Directions, etc.,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_43__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_43__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_43__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_43__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_43__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “the relevant regulatory or supervisory authority may issue such directions and guidelines to” the words “the competent authority or the regulatory or supervisory authority, as the case may be, may issue any directions, instruction, guideline, circular, standard, notice, specification or requirement to, or impose any condition on,”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_43__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_43__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “as the relevant regulatory or supervisory authority considers necessary” the words “as the competent authority or the regulatory or supervisory authority considers necessary”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_43__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words “a direction or guideline is issued under subsection (1) shall comply with the direction or guidelines” the words “a directions, instruction, guideline, circular, standard, notice, specification or requirement is issued, or a condition is imposed under subsection (1) shall comply with the directions, instruction, guideline, circular, standard, notice, specification, requirement or condition”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_43__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the words “direction or guidelines made” the words “directions, instruction, guideline, circular, standard, notice, specification or requirement issued, or any condition imposed”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_43__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (4) the following subsection: “(4) An institution shall not disclose any directions, instruction, guideline, circular, standard, notice, specification or requirement issued, or any condition imposed under subsection (1) if the competent authority or the regulatory or supervisory authority, as the case may be, notify the institution that the competent authority or the regulatory or supervisory authority is of the opinion that such disclosure is against public interest.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_43__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (5), by substituting for the words “direction or guideline issued to it” wherever appearing the words “directions, instruction, guideline, circular, standard, notice, specification or requirement issued to, or condition imposed on, the institution”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_43__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (6), by substituting for the words “The relevant regulatory or supervisory authority” the words “The competent authority or the regulatory or supervisory authority, as the case may be,”. New section 66g"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 66f the following section: “Examination of compliance with Part VIa 66g. (1) The competent authority or the regulatory or supervisory authority, as the case may be, may examine, supervise, regulate and verify, through regular examination, any institution under its regulation or supervision to ensure the institution comply with this Part. (2) For the purposes of subsection (1), the competent authority or the regulatory or supervisory authority may authorize an examiner to— (a) examine any record or report of the institution in relation to its obligations under this Part, which are kept at, or accessible from, the premises of the institution; (b) examine any system used by the institution at its premises for keeping the record or report; (c) ask any question in relation to any record, system or report of the institution; and (d) make any note or take any copy of the whole or part of any business transaction or activity of the institution. (3) In exercising the powers under subsection (2), the examiner may examine— (a) a person who is, or was at any time, a director, an officer or an agent of the institution; (b) a person who is, or was at any time, a customer or otherwise having dealings with the institution; or (c) a person whom he believes to be acquainted with the facts and circumstances of the case, including an auditor or an advocate and solicitor of the institution. (4) Any person examined under this section shall— (a) give any document or information to the examiner within such time as the examiner may specify; or (b) appear before the examiner at his office upon being called to do so at such time as the examiner may specify. (5) Any person who contravenes subsection (4) commits an offence and shall, on conviction, be liable to a fine not exceeding three million ringgit or to imprisonment for a term not exceeding five years or to both, and, in the case of a continuing offence, shall in addition be liable to a fine not exceeding three thousand ringgit for each day or part thereof during which the offence continues to be committed. (6) Notwithstanding any other written law, an agent, including an auditor or an advocate and solicitor of an institution, shall not be liable for breach of a contract relating to, or a duty of, confidentiality for giving any document or information to the examiner.”. New Part VIb"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_45",
+      "@type": "akn:clause",
+      "eli:number": "45",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after Part VIa the following part: “PART VIB SUPPRESSION OF RESTRICTED ACTIVITY FINANCING OFFENCES Offence of financing of restricted activity 66h. Any person who, directly or indirectly, provides or makes available financial services or property— (a) intending that the financial services or property be used, or knowing or having reasonable grounds to believe that the financial services or property will be used, in whole or in part, for the purpose of committing or facilitating the commission of a restricted activity, or for the purpose of benefiting any person who is committing or facilitating the commission of a restricted activity; or (b) knowing or having reasonable grounds to believe that, in whole or in part, the financial services or property will be used by or will benefit any proliferator, commits an offence and shall, on conviction, be punished with imprisonment for a term not exceeding fifteen years and a fine of not less than five times the sum or value of the proceeds of proliferator property at the time the offence was committed or five million ringgit, whichever is the higher. Directions, etc., to discharge Government’s international obligations 66i. (1) For the purposes of this Part, the competent authority or the relevant regulatory or supervisory authority, as the case may be, may issue any directions, instruction, guideline, circular, standard, notice, specification or requirement to, or impose any condition on, the institution under its regulation or supervision, or the director, officer or employee of the institution as the competent authority or the regulatory or supervisory authority considers necessary in order to discharge or facilitate the discharge of any obligation binding on Malaysia by virtue of a decision of the Security Council of the United Nations for the prevention of the restricted activity financing offence. (2) An institution, or the director, officer or employee of the institution to which a directions, instruction, guideline, circular, standard, notice, specification or requirement is issued, or a condition is imposed under subsection (1) shall comply with the directions, instruction, guideline, circular, standard, notice, specification, requirement or condition notwithstanding any other duty imposed on the institution, or the director, officer or employee of the institution by any rule of law, written law or contract. (3) An institution, or the director, officer or employee of the institution shall not, in carrying out any act in compliance with any directions, instruction, guideline, circular, standard, notice, specification or requirement issued, or any condition imposed under subsection (1), be treated as being in breach of any such rule of law, written law or contract. (4) Any institution which, or the director, officer or employee of an institution who— (a) fails or refuses to comply with the directions, instruction, guideline, circular, standard, notice, specification or requirement issued, or condition imposed; or (b) contravenes any directions, instruction, guideline, circular, standard, notice, specification or requirement issued, or condition imposed, commits an offence and shall, on conviction, be liable to a fine not exceeding one million ringgit. Examination of compliance with Part VIb 66j. (1) The competent authority or the regulatory or supervisory authority, as the case may be, may examine, supervise, regulate and verify, through regular examination, any institution under its regulation or supervision to ensure the institution comply with this Part. (2) For the purposes of subsection (1), the competent authority or the regulatory or supervisory authority may authorize an examiner to— (a) examine any record or report of the institution in relation to its obligations under this Part, which are kept at, or accessible from, the premises of the institution; (b) examine any system used by the institution at its premises for keeping the record or report; (c) ask any question in relation to any record, system or report of the institution; and (d) make any note or take any copy of the whole or part of any business transaction or activity of the institution. (3) In exercising the powers under subsection (2), the examiner may examine— (a) a person who is, or was at any time, a director, an officer or an agent of the institution; (b) a person who is, or was at any time, a customer or otherwise having dealings with the institution; or (c) a person whom he believes to be acquainted with the facts and circumstances of the case, including an auditor or an advocate and solicitor of the institution. (4) Any person examined under this section shall— (a) give any document or information to the examiner within such time as the examiner may specify; or (b) appear before the examiner at his office upon being called to do so at such time as the examiner may specify. (5) Any person who contravenes subsection (4) commits an offence and shall, on conviction, be liable to a fine not exceeding three million ringgit or to imprisonment for a term not exceeding five years or to both, and, in the case of a continuing offence, shall in addition be liable to a fine not exceeding three thousand ringgit for each day or part thereof during which the offence continues to be committed. (6) Notwithstanding any other written law, an agent, including an auditor or an advocate and solicitor of an institution, shall not be liable for breach of a contract relating to, or a duty of, confidentiality for giving any document or information to the examiner.”. Amendment of section 76"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_46",
+      "@type": "akn:clause",
+      "eli:number": "46",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 76(4)(b) of the principal Act is amended by substituting for the words “certified official record of proceedings issued by that foreign court and duly authenticated by the official seal of a Minister of that foreign State” the words “an official record of proceedings sealed and certified by that foreign court”. Amendment of section 78"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_47",
+      "@type": "akn:clause",
+      "eli:number": "47",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_47__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_47__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 78 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_47__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_47",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (3) the following subsection: “(3) If the officer effecting any notice or order under subsection (2) is satisfied, for reasons to be recorded by him in writing, that the notice or order cannot be served in the manner provided in paragraph (2)(a), (b) or (c), the notice or order shall be served by affixing the notice or order on a conspicuous place at the immovable property, if any, in relation to which the notice or order is issued or made, or on a conspicuous part of the premises in which the person for whom the notice or order is intended is known to have last resided, to have been last employed or to have last carried on business.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_47__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_47",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4), by deleting the words “, and by publishing the notice or order in one newspaper circulating in the area in which the last-known place of business is situated”. Substitution of section 83"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_48",
+      "@type": "akn:clause",
+      "eli:number": "48",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 83 the following section: “Power to issue directions, etc. 83. (1) In addition to and not in derogation of the power of the competent authority provided under this Act, the competent authority may, upon consultation with the relevant regulatory or supervisory authority, issue any directions, instruction, guideline, circular, standard, notice, specification or requirement to, or impose any condition on, a reporting institution, or the director, officer or employee of the reporting institution as are necessary or expedient to give full effect to or for carrying out the provisions of this Act and in particular for the detection or prevention of money laundering, terrorism financing and restricted activity financing. (2) The reporting institution, or the director, officer or employee of the reporting institution shall comply with the directions, instruction, guideline, circular, standard, notice, specification or requirement issued, or the condition imposed under subsection (1). (3) Any reporting institution which, or the director, officer or employee of the reporting institution who, contravenes subsection (2) commits an offence and shall, on conviction, be liable to a fine not exceeding one million ringgit.”. NEW SECTIONS 83A, 83B, 83C, 83D AND 83E"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_49",
+      "@type": "akn:clause",
+      "eli:number": "49",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 83 the following sections: “Compliance of obligation 83a. (1) The competent authority or regulatory or supervisory authority, as the case may be, may— (a) direct any reporting institution or institution under Parts VIa and VIb, or the director, officer or employee of the reporting institution or institution; or (b) enter into an agreement with any reporting institution or institution under Parts VIa and VIb, or the director, officer or employee of the reporting institution or institution, which or who without reasonable excuse failed to comply with any obligation under this Act, to implement any action plan to ensure compliance with the obligations of reporting institution or institution under Parts VIa and VIb, or the obligations of the director, officer or employee of the reporting institution or institution under this Act. (2) Any reporting institution or institution under Parts VIa and VIb which, or the director, officer or employee of the reporting institution or institution who, fails to comply with a directive or agreement under subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding three years or to both, and, in the case of a continuing offence, shall in addition be liable to a fine not exceeding three thousand ringgit for each day or part thereof during which the offence continues to be committed. (3) This section shall not bar, prevent or prohibit the institution of any prosecution or administrative action for any offence under this Act. Power of competent authority or regulatory or supervisory authority to take administrative action 83b. (1) The competent authority or the regulatory or supervisory authority, as the case may be, after being satisfied that it is appropriate to do so, may take any administrative action against any person who commits a breach as follows: (a) contravenes or has contravened the provisions under Part IV, Part VIa other than subsection 66b(3) or Part VIb other than section 66h; (b) fails to comply with, observe, enforce or give effect to any directions, instruction, guideline, circular, standard, notice, specification or requirement issued, or any condition imposed under Part IV, VIa, VIb or VII in circumstances where the person is under an obligation to comply with, observe, enforce or give effect to such directions, instruction, guideline, circular, standard, notice, specification, requirement or condition, as the case may be; or (c) fails to comply with, observe, enforce or give effect to any directive or agreement entered into pursuant to section 83a. (2) For the purposes of subsection (1), the competent authority or the regulatory or supervisory authority may take all or any of the following administrative action: (a) to direct the person in breach to comply with, observe, enforce or give effect to such provisions, directions, instruction, guideline, circular, standard, notice, specification, requirement or condition, as the case may be; (b) to impose a monetary penalty in proportion to the severity or gravity of the breach, but in any event not exceeding one million ringgit; (c) to reprimand the person in breach or issue a public statement in relation to such breach; or (d) to require the person in breach to take such measures as the competent authority or the regulatory or supervisory authority may direct to remedy the breach or to mitigate the effect of such breach. (3) The competent authority or the regulatory or supervisory authority shall have regard to the following matters in determining the appropriate action to be taken in each case: (a) the effectiveness of the action to be taken under this Act; (b) the proportionality of the action to be taken with the breach committed; (c) deterrence of future breaches of similar nature by other persons; and (d) any other matter that is considered relevant in the opinion of the competent authority or the regulatory or supervisory authority. (4) The competent authority or the regulatory or supervisory authority shall not take any action under subsection (2) without giving the person in breach a written notice setting out the proposed action and the grounds for such action. (5) The person in breach shall be given an opportunity to make a written representation to the competent authority or the regulatory or supervisory authority within fourteen days from the date of the written notice. (6) Where no written representation is received by the competent authority or the regulatory or supervisory authority within the period specified under subsection (5), the competent authority or the regulatory or supervisory authority shall proceed with the proposed action under subsection (4) by a written notice. (7) Where a written representation is received, the competent authority or the regulatory or supervisory authority shall, after considering the representation, give the person in breach a written notice of its decision. (8) A decision to take action under subsection (6) or (7) shall take effect immediately or at any date as the competent authority or the regulatory or supervisory authority may specify, in its written notice. (9) Any monetary penalty paid by a person under paragraph (2)(b) shall be paid into and form part of the Federal Consolidated Fund. (10) Where a person fails to pay any monetary penalty imposed under paragraph (2)(b) within the period specified, the monetary penalty shall be recoverable as a civil debt due to the Government. (11) Nothing in this section shall prevent the competent authority or the regulatory or supervisory authority from taking any other actions that it is empowered to take under this Act against the person in breach. Civil action 83c. The competent authority or the regulatory or supervisory authority, as the case may be, may institute civil proceedings in the court against a person for any contravention of Part IV, VIa or VIb, or of any directions, instruction, guideline, circular, standard, notice, specification or requirement issued, or of any condition imposed under Part IV, VIa, VIb or VII, whether or not such person has been charged with any offence under this Act, or whether or not a contravention has been proved in a prosecution. Power of court to make certain orders 83d. (1) Where on an application by the competent authority or the regulatory or supervisory authority, as the case may be, it appears to the court that— (a) there is reasonable likelihood that any person will contravene any provision of this Act; or (b) any person has contravened a provision of this Act and that there are steps which could be taken to remedy the contravention, whether or not that person has been charged with an offence in respect of the contravention or whether or not a contravention has been proved in a prosecution, the court may, without prejudice to any order it would be entitled to make otherwise than pursuant to this section, make all or any of the following orders: (aa) an order restraining or requiring the cessation of the contravention; (bb) an order requiring that person, or any other person, who appears to have been knowingly involved in the contravention, to take such steps as the court may direct to remedy it or to mitigate its effect including making restitution to any other person aggrieved by such contravention; (cc) for the purpose of securing compliance with any other order under this section, an order directing a person to do or refrain from doing a specified act; (dd) an order restraining the person from acquiring, disposing of or otherwise dealing with property which the court is satisfied such person is reasonably likely to dispose of or otherwise deal with the property; (ee) where a person has refused or failed, or is refusing or failing, or is proposing to refuse or fail, to do any act that the person is required to do under any provision of this Act, an order requiring such person to do such act; (ff) in a case where the person is a chief executive officer, director or manager responsible for the business of a reporting institution or institution, an order removing him from his office or that he be barred from becoming a chief executive officer, director or manager of the reporting institution or institution, or be involved in the management, directly or indirectly, of the reporting institution or institution for such period as may be determined by the court; or (gg) any ancillary order deemed to be desirable in consequence of the making of an order under paragraph (aa), (bb), (cc), (dd), (ee) or (ff). (2) If an application is made to a court for an order under subsection (1), the court may, if in its opinion it is desirable to do so, before considering the application, make an interim order and such order shall be expressed to have effect pending the determination of the application. (3) Where an application is made to the court for an order under paragraph (1)(ee), the court may grant the order— (a) where the court is satisfied that the person has refused or failed to do the required act, whether or not it appears to the court that the person intends to again refuse or fail, or continue to refuse or fail, to do the required act; or (b) where it appears to the court that in the event that such an order is not granted, it is likely that the person will refuse or fail to do the required act, whether or not the person has previously refused or failed to do the act or whether or not there is any imminent risk of damage to any person if the person required to do such act or thing refuses or fails to do so. (4) Where an application for an order under subsection (1) is made by the competent authority or the regulatory or supervisory authority, the court shall not, as a condition of the grant of the order, require any undertaking as to damages to be given by or on behalf of the competent authority or the regulatory or supervisory authority. (5) The court may rescind, vary or discharge an order made by it under this section or suspend the operation of such an order. Power to publish information 83e. The competent authority, the regulatory or supervisory authority or the enforcement agency, as the case may be, may, in such form and manner as it considers appropriate, publish any information as may be considered necessary or expedient for the purpose of public interest, that is— (a) any action taken under this Act including criminal proceedings, compounding, civil actions and administrative actions; and (b) the outcome of actions referred to in paragraph (a) including the outcome of any proceedings, settlement in or out of court in relation to any breach or contravention of provisions of this Act.”. Amendment of section 86"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “enforcement agency” the following definition: ‘ “coordination agency” means any agency having coordination functions under any written laws in relation to serious offences under this Act;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “unlawful activity” the following definition: ‘ “restricted activity” has the same meaning as in section 2 of the Strategic Trade Act 2010 [Act 708];’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “property” the following definition: ‘ “proliferator property” means— (a) proceeds from the commission of any restricted activity; (b) property that has been, is being, or is likely to be used by a proliferator to commit any restricted activity; (c) property owned or controlled by or on behalf of a proliferator to commit any restricted activity, including funds derived or generated from such property; or (d) property that has been collected for the purpose of providing support to a proliferator or funding of any restricted activity;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_4__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “financial institution”, in paragraph (a), by substituting for the words “investment bank” the words “licensed investment bank”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_4__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_4__para_e__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_4__para_e__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “serious offence”—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_4__para_e__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_4__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (a) the following paragraph: “(aa) any offence under the federal law in respect of which the punishment provided by the federal law is imprisonment for a period of one year or more;”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_4__para_e__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_4__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraphs (b) and (c), by substituting for the words “any of those offences” the words “any of the offences referred to in paragraph (a) or (aa)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_4__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “foreign serious offence” the following definition: ‘ “restricted activity financing offence” means an offence under section 66h;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_4__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “customer” the following definition: ‘ “proliferator” means any person who— (a) commits or attempts to commit any restricted activity; (b) participates in or facilitates the commission of any restricted activity; or (c) is designated as a prohibited end-user under subsection 8(2) of the Strategic Trade Act 2010;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_4__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “competent authority” the following definition: ‘ “regulatory or supervisory authority” means the person appointed under subsection 7a(1);’; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_4__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “transaction” the following definition: ‘ “transaction” includes— (a) an arrangement to open an account involving two or more persons and any transaction related to the account; or (b) the transmission, transfer or exchange, involving funds or currency by any person;’. Amendment of section 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 4(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_50",
+      "@type": "akn:clause",
+      "eli:number": "50",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 86(b) of the principal Act is amended by inserting after the words “direction, instruction,” the words “guideline, circular, standard”. Amendment of section 92"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_51",
+      "@type": "akn:clause",
+      "eli:number": "51",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 92(1) of the principal Act is amended by deleting the words “fifty per centum of the amount of”. Saving"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_52",
+      "@type": "akn:clause",
+      "eli:number": "52",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_52__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_52__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_52__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_52__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_52__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_52__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_52",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All references to the Anti-Money Laundering, Anti-Terrorism Financing and Proceeds of Unlawful Activities Act 2001 in any written law or document shall, when this Act comes into operation, be construed as references to the Anti-Money Laundering, Anti-Terrorism Financing, Anti-Restricted Activity Financing and Proceeds of Unlawful Activities Act 2001."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_52__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_52",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any action, investigation or proceedings for any breaches or offences under the principal Act committed before the date of coming into operation of this Act shall, after the date of coming into operation of this Act, be conducted as if the principal Act had not been amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_52__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_52",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any obligation, authorization, liability, penalty or punishment imposed, made, accrued or incurred under the principal Act, may be continued, enforced, imposed and be dealt with, as the case may be, as if the principal Act had not been amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_52__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_52",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any obligation or liability under any directive issued by or agreement entered into with the competent authority under subsection 22(3) of the principal Act shall have effect as if the principal Act had not been amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_52__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_52",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any order, regulations, directions, instruction, circular, guideline, specification, notice or requirement made or given under, or in accordance with, or by virtue of the principal Act, before the date of coming into operation of this Act shall be deemed to have been made or given under, or in accordance with, or by virtue of, this Act, and shall continue to be in force in relation to the persons to whom the order, regulations, directions, instruction, circular, guideline, specification, notice or requirement is applied until revoked."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “shall on conviction be liable to imprisonment” the words “shall, on conviction, be punished with imprisonment”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words “shall also be liable to”. New section 7a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 7 the following section: “Functions of regulatory or supervisory authority 7a. (1) The Minister of Finance may, upon the recommendation of the competent authority and after consultation with the Minister of Home Affairs for the purposes of Part VIa, by order published in the Gazette, appoint any person to be a regulatory or supervisory authority and such person shall have all the functions conferred on a regulatory or supervisory authority under this Act as specified by the Minister of Finance. (2) The regulatory or supervisory authority may, after consultation with the Minister of Home Affairs for the purposes of Part VIa, authorize any of its officers or any other person to perform any or all of its functions under this Act as specified by the Minister of Finance.”. Amendment of section 8"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_7__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 8 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (2)(b), by inserting after the words “enforcement agency” the words “or a coordination agency”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (2)(c), by substituting for the words “Part IV to an enforcement agency” the words “Parts IV, VIa and VIb to an enforcement agency or a coordination agency”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (3)(c), by substituting for the words “the relevant supervisory authority, enforcement agency and reporting institutions” the words “the relevant regulatory or supervisory authority of a reporting institution, the enforcement agency, the coordination agency and the relevant reporting institutions”. Amendment of section 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_8__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 9(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “any enforcement agency or its designated officers” the words “any enforcement agency or coordination agency, or the designated officers of the enforcement agency or coordination agency”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “the enforcement agency’s functions” the words “the functions of the enforcement agency or coordination agency, as the case may be”. Amendment of section 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_9__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 10 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsections (1) and (2), by substituting for the words “a money laundering offence or a terrorism financing offence or an offence that is substantially similar to either offence” the words “a money laundering offence, a terrorism financing offence, a restricted activity financing offence or an offence that is substantially similar to any of the offences”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/64/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (3)(a), by substituting for the words “a money laundering offence or a terrorism financing offence or an offence that is substantially similar to either offence” the words “a money laundering offence, a terrorism financing offence, a restricted activity financing offence or an offence that is substantially similar to any of the offences”. Amendment of section 12"
+      }
+    }
+  ]
+}

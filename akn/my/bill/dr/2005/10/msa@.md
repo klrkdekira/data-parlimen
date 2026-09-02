@@ -50,11 +50,7 @@ Perkapalan Saudagar (Pencemaran Minyak) (Pindaan) 3
 
 (vi) dengan menggantikan takrif "minyak" dengan takrif yang berikut:
 
-' "minyak", kecuali dalam Bahagian III, ertinya apa- apa minyak mineral hidrokarbon tegar seperti minyak mentah, minyak bahan api, minyak diesel berat dan minyak pelincir, sama ada dibawa di atas kapal sebagai kargo atau dalam bunker
-
-<!-- marginal: kapal -->
-
-sedemikian;';
+' "minyak", kecuali dalam Bahagian III, ertinya apa- apa minyak mineral hidrokarbon tegar seperti minyak mentah, minyak bahan api, minyak diesel berat dan minyak pelincir, sama ada dibawa di atas kapal sebagai kargo atau dalam bunker kapal sedemikian;';
 
 (vii) dengan memotong takrif "Pemeriksa Kapal";
 
@@ -148,7 +144,11 @@ Perkapalan Saudagar (Pencemaran Minyak) (Pindaan) 7
 
 7. Seksyen 13 Akta ibu dipinda dengan menggantikan subseksyen (3) dengan subseksyen yang berikut:
 
-"(3) Penanggung insurans boleh membataskan liabilitinya berkenaan dengan tuntutan yang dibuat terhadapnya menurut kuasa seksyen ini mengikut cara yang sama dan sehingga takat yang sama sebagaimana pemunya kapal boleh membataskan liabilitinya di bawah subseksyen 6(2) walaupun pemunya itu, mengikut subseksyen 6(3), tidak berhak untuk membataskan liabilitinya.".
+"(3) Penanggung insurans boleh membataskan
+
+<!-- marginal: liabilitinya -->
+
+berkenaan dengan tuntutan yang dibuat terhadapnya menurut kuasa seksyen ini mengikut cara yang sama dan sehingga takat yang sama sebagaimana pemunya kapal boleh membataskan liabilitinya di bawah subseksyen 6(2) walaupun pemunya itu, mengikut subseksyen 6(3), tidak berhak untuk membataskan liabilitinya.".
 
 ### Pindaan seksyen 15
 
@@ -254,11 +254,7 @@ Dengan syarat bahawa amaun agregat ini tidak boleh dalam apa-apa jua keadaan mel
 
 1.(1) Kecuali sebagaimana yang diperuntukkan selainnya dalam subperenggan
 
-(2) dan (3), amaun agregat pampasan yang kena dibayar oleh Kumpulan Wang hendaklah berkenaan dengan mana-mana satu insiden dibataskan, supaya jumlah wang bagi amaun itu dan amaun pampasan yang sebenarnya dibayar di bawah
-
-## Bahagian II Akta ini bagi kerosakan pencemaran dalam ruang lingkup Akta ini
-
-tidaklah melebihi 203,000,000 hak pengeluaran khas.
+(2) dan (3), amaun agregat pampasan yang kena dibayar oleh Kumpulan Wang hendaklah berkenaan dengan mana-mana satu insiden dibataskan, supaya jumlah wang bagi amaun itu dan amaun pampasan yang sebenarnya dibayar di bawah Bahagian II Akta ini bagi kerosakan pencemaran dalam ruang lingkup Akta ini tidaklah melebihi 203,000,000 hak pengeluaran khas.
 
 (2) Kecuali sebagaimana yang diperuntukkan selainnya dalam subperenggan
 
@@ -350,4 +346,4 @@ Ini diperuntukkan dalam pindaan kepada seksyen 19 Akta 515 dan Jadual Pertama Ak
 
 Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
 
-[PN(U2)2124A]
+<!-- marginal: [PN(U2)2124A] -->

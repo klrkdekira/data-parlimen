@@ -8,9 +8,7 @@ D.R. 14/97
 
 bernama
 
-Suatu Akta untuk meminda Akta Penggalakan Pelaburan
-
-1986. [ ]
+Suatu Akta untuk meminda Akta Penggalakan Pelaburan 1986. [ ]
 
 ## MAKA INILAH DIPERBUAT UNDANG-UNDANG
 
@@ -70,11 +68,9 @@ Dengan syarat bahawa sesuatu syarikat hendaklah disifatkan sebagai suatu syarika
 
 (e) dalam takrif "syarikat kecil-kecilan" dengan menggantikan perkataan ' "syarikat kecil- kecilan" ' dengan perkataan ' "syarikat kecil" atau "syarikat sederhana" '.
 
-<!-- marginal: Pindaan -->
+Pindaan
 
-3. Seksyen 5 Akta ibu adalah dipinda—
-
-<!-- marginal: seksyen 5. -->
+3. Seksyen 5 Akta ibu adalah dipinda— seksyen 5.
 
 (a) dalam subseksyen (!A)—
 
@@ -88,13 +84,21 @@ Dengan syarat bahawa sesuatu syarikat hendaklah disifatkan sebagai suatu syarika
 
 (b) dalam perenggan (lti)(a) dengan memasukkan selepas perkataan "memuncul" perkataan ", atau mana-mana syarikat yang menyertai dalam suatu aktiviti digalakkan atau mengeluarkan suatu keluaran digalakkan dalam suatu program rantaian industri,".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-4. Subseksyen 6(1 A) Akta ibu adalah dipinda dengan seksyen 6. menggantikan perkataan "kecil-kecilan" di mana-mana jua terdapat dalam subseksyen itu dengan perkataan "kecil".
+4. Subseksyen 6(1 A) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 6. -->
 
-5. Seksyen 21c Akta ibu adalah dipinda— seksyen 21c.
+menggantikan perkataan "kecil-kecilan" di mana-mana jua terdapat dalam subseksyen itu dengan perkataan
+
+<!-- marginal: "kecil". -->
+
+<!-- marginal: Pindaan -->
+
+5. Seksyen 21c Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 21c. -->
 
 (a) dengan menggantikan noktah di hujung perenggan (2)(b) dengan noktah bertindih dan dengan memasukkan selepas itu proviso yang berikut kepada subseksyen (2):
 
@@ -152,27 +156,39 @@ menggantikan noktah di hujung subseksyen itu dengan noktah bertindih dan dengan 
 
 <!-- page 6 -->
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-8. Seksyen 26F Akta ibu adalah dipinda— seksyen 26B.
+8. Seksyen 26F Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 26B. -->
 
 (a) dalam nota birai dengan memasukkan selepas perkataan "tinggi" perkataan "atau syarikat yang menyertai dalam program rantaian industri"; dan
 
 (b) dalam subseksyen (1) dengan memasukkan selepas perkataan "memuncul" perkataan "atau mana-mana syarikat yang menyertai dalam suatu aktiviti digalakkan atau mengeluarkan suatu keluaran digalakkan dalam suatu program rantaian industri".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-9. Seksyen 29A Akta ibu adalah dipinda dalam sub- seksyen 29A. perenggan (3)(d)(ii) dengan menggantikan perkataan "27" yang mula-mula terdapat dalam subperenggan itu dengan perkataan "26(1)".
+9. Seksyen 29A Akta ibu adalah dipinda dalam sub-
 
-Pindaan
+<!-- marginal: seksyen 29A. -->
 
-10. Seksyen 29B Akta ibu adalah dipinda dengan seksyen 29s. memasukkan selepas subseksyen (2) subseksyen yang berikut:
+perenggan (3)(d)(ii) dengan menggantikan perkataan "27" yang mula-mula terdapat dalam subperenggan itu dengan perkataan "26(1)".
+
+<!-- marginal: Pindaan -->
+
+10. Seksyen 29B Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 29s. -->
+
+memasukkan selepas subseksyen (2) subseksyen yang berikut:
 
 " (2A) Walau apa pun subseksyen (2), perbelanjaan yang dilakukan sebelum pemberian kelulusan berdasarkan kepada suatu permohonan yang dibuat di bawah proviso kepada seksyen 26A(1) tidak boleh disifatkan sebagai telah dilakukan dalam tempoh asas kelulusan itu mula berkuatkuasa sama ada atau tidak aset yang diperolehi daripada perbelanjaan itu kemudiannya dimiliki oleh syarikat yang sama atau suatu entiti baru.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-11. Seksyen 29G Akta ibu adalah dipinda— seksyen 29c.
+11. Seksyen 29G Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 29c. -->
 
 (a) dalam subseksyen (1) dengan memasukkan selepas perkataan "memuncur perkataan "atau berkenaan dengan suatu aktiviti digalakkan atau suatu keluaran digalakkan dalam suatu program rantaian industri"; dan
 

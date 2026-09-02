@@ -166,13 +166,51 @@ Subdivision 6 — Modifications to the law of insolvency and miscellaneous- prov
 
 Division 1
 
-Licensing and regulation 58. Requirement for Capital Markets Services Licence 59. Requirement for Capital Markets Services Representative's Licence 60. Application for grant or renewal of licence
+Licensing and regulation
 
-61. Grant or renewal of licence 62. Power of Commission to impose conditions or restrictions on licences
+58. Requirement for Capital Markets Services Licence
 
-63. Licence fee 64. Grounds for refusal for the grant or renewal of Capital Markets Services Licence 65. Grounds for refusal for the grant or renewal of Capital Markets Services Representative's Licence 66. Power of Commission to enquire into transactions in respect of securities and futures contracts 67. Minimum financial requirements
+59. Requirement for Capital Markets Services Representative's Licence
 
-68. Period of licence 69. Variation of licence 70. Deposit to be lodged in respect of Capital Markets Services Licence 71. False statements in relation to application for grant, renewal or variation of licence 72. Revocation and suspension of licence 73. Effect of revocation, suspension or expiry of licence, etc. 74. Notification of disqualifying event 75. Appointment, election and nomination of directors and chief executive of licensed person, etc. 76. Registered persons 77. Register of licence holders 78. Notification of change of particulars 79. Publication of names and addresses
+60. Application for grant or renewal of licence
+
+61. Grant or renewal of licence
+
+62. Power of Commission to impose conditions or restrictions on licences
+
+63. Licence fee
+
+64. Grounds for refusal for the grant or renewal of Capital Markets Services Licence
+
+65. Grounds for refusal for the grant or renewal of Capital Markets Services Representative's Licence
+
+66. Power of Commission to enquire into transactions in respect of securities and futures contracts
+
+67. Minimum financial requirements
+
+68. Period of licence
+
+69. Variation of licence
+
+70. Deposit to be lodged in respect of Capital Markets Services Licence
+
+71. False statements in relation to application for grant, renewal or variation of licence
+
+72. Revocation and suspension of licence
+
+73. Effect of revocation, suspension or expiry of licence, etc.
+
+74. Notification of disqualifying event
+
+75. Appointment, election and nomination of directors and chief executive of licensed person, etc.
+
+76. Registered persons
+
+77. Register of licence holders
+
+78. Notification of change of particulars
+
+79. Publication of names and addresses
 
 80. Appeals
 
@@ -284,7 +322,9 @@ Subdivision 3 — Treatment of client's assets in respect of futures contracts
 
 <!-- page 8 -->
 
-Subdivision 4 — Treatment of client's assets in respect of fund management 120. Application of this Subdivision
+Subdivision 4 — Treatment of client's assets in respect of fund management
+
+120. Application of this Subdivision
 
 121. Interpretation
 
@@ -342,13 +382,43 @@ Division 1
 
 Compensation fund
 
-140. Interpretation 141. Establishment of compensation fund 142. Monies constituting compensation fund 143. Compensation fund to be kept in separate account 144. Payments out of compensation fund
+140. Interpretation
 
-145. Accounts of compensation fund 146. Requirement of relevant stock exchange to pay portion of net income into compensation fund
+141. Establishment of compensation fund
 
-147. Contribution to compensation fund 148. Provision where compensation fund exceeds fifty million ringgit 149. Levy in addition to annual contributions 150. Power of relevant stock exchange to make advances to compensation fund 151. Investment of monies in compensation fund 152. Application of compensation fund 153. Power of relevant stock exchange to require production of documents 154. Subrogation of relevant stock exchange to rights and remedies of claimant upon payment from compensation fund 155. Payment of claims only from compensation fund 156. Power of relevant stock exchange to enter into contract of insurance
+142. Monies constituting compensation fund
 
-157. Application of insurance monies 158. Monies in compensation fund upon winding up of relevant stock exchange
+143. Compensation fund to be kept in separate account
+
+144. Payments out of compensation fund
+
+145. Accounts of compensation fund
+
+146. Requirement of relevant stock exchange to pay portion of net income into compensation fund
+
+147. Contribution to compensation fund
+
+148. Provision where compensation fund exceeds fifty million ringgit
+
+149. Levy in addition to annual contributions
+
+150. Power of relevant stock exchange to make advances to compensation fund
+
+151. Investment of monies in compensation fund
+
+152. Application of compensation fund
+
+153. Power of relevant stock exchange to require production of documents
+
+154. Subrogation of relevant stock exchange to rights and remedies of claimant upon payment from compensation fund
+
+155. Payment of claims only from compensation fund
+
+156. Power of relevant stock exchange to enter into contract of insurance
+
+157. Application of insurance monies
+
+158. Monies in compensation fund upon winding up of relevant stock exchange
 
 Division 2
 
@@ -420,17 +490,41 @@ Subdivision 2 — Insider trading
 
 183. Information
 
-184. Information generally available 185. Material effect on price or value of securities
+184. Information generally available
 
-186. Trading in securities 187. Reference to "procure" 188. Prohibited conduct of person in possession of inside information
+185. Material effect on price or value of securities
 
-189. Proof of contravention of section 188 190. Secrecy arrangements by corporation 191. Secrecy agreements by partnerships 192. Underwriting and subunderwriting 193. Non-application of section 188 to transactions carried out under schemes of arrangement, etc., under any written law 194. Exception for corporation with knowledge of its intention 195. Exception of knowledge of individual's own intentions or activities
+186. Trading in securities
 
-196. Unsolicited transaction 197. Exception for redemption of units of a unit trust scheme under buy-back covenant 198. Parity of information defence
+187. Reference to "procure"
+
+188. Prohibited conduct of person in possession of inside information
+
+189. Proof of contravention of section 188
+
+190. Secrecy arrangements by corporation
+
+191. Secrecy agreements by partnerships
+
+192. Underwriting and subunderwriting
+
+193. Non-application of section 188 to transactions carried out under schemes of arrangement, etc., under any written law
+
+194. Exception for corporation with knowledge of its intention
+
+195. Exception of knowledge of individual's own intentions or activities
+
+196. Unsolicited transaction
+
+197. Exception for redemption of units of a unit trust scheme under buy-back covenant
+
+198. Parity of information defence
 
 Subdivision 3 — Civil remedies
 
-199. Civil liability for contravention of section 175, 176, 177, 178, 179 or 181 200. Civil action by Commission
+199. Civil liability for contravention of section 175, 176, 177, 178, 179 or 181
+
+200. Civil action by Commission
 
 201. Recovery of loss or damages
 
@@ -746,25 +840,11 @@ Islamic securities
 
 Division 1
 
-Application
-
-347. Application of this Part
+Application 347. Application of this Part
 
 Division 2
 
-Disclosure of information
-
-348. Power of Commission to require production of books
-
-349. Offences
-
-350. Power to specify form and manner of submission
-
-351. Privileges
-
-352. Disclosure to Commission
-
-353. Disclosure of information relating to dealing in securities or trading in futures contracts
+Disclosure of information 348. Power of Commission to require production of books 349. Offences 350. Power to specify form and manner of submission 351. Privileges 352. Disclosure to Commission 353. Disclosure of information relating to dealing in securities or trading in futures contracts
 
 <!-- page 18 -->
 
@@ -936,9 +1016,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ### Short title, commencement and application
 
-1, (1) This Act may be cited as the Capital Markets and Services Act
-
-2007.
+1, (1) This Act may be cited as the Capital Markets and Services Act 2007.
 
 (2) This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette, and the Minister may appoint different dates for the coming into operation of—
 
@@ -1262,9 +1340,7 @@ whether those rules —
 
 <!-- page 33 -->
 
-Capital Markets and Services
-
-<!-- marginal: 33 -->
+Capital Markets and Services 33
 
 (b) in relation to a futures contract that is an adjustment agreement, means the position of a person who, because of the agreement—
 
@@ -1756,13 +1832,7 @@ Subdivision 1 — Exchanges and exchange holding company
 
 (iii) for the exclusion of persons who are not of good character and high business integrity from being recognized as participating organizations or affiliates;
 
-(iv) for the expulsion, suspension or disciplining of its participating organization or affiliates and any person acting on behalf of such participating organization or affiliates, for conduct
-
-<!-- marginal: that -->
-
-<!-- marginal: is -->
-
-inconsistent with just and equitable principles in the transaction of business or for a contravention of or failure to comply with the rules of the stock exchange or futures exchange;
+(iv) for the expulsion, suspension or disciplining of its participating organization or affiliates and any person acting on behalf of such participating organization or affiliates, for conduct that is inconsistent with just and equitable principles in the transaction of business or for a contravention of or failure to comply with the rules of the stock exchange or futures exchange;
 
 (v) with respect to the conditions under which securities may be listed for trading in the market proposed to be conducted by the body corporate or under which futures contracts may be traded on the market through its facilities;
 
@@ -1774,11 +1844,7 @@ inconsistent with just and equitable principles in the transaction of business o
 
 (f) the body corporate shall at all times have sufficient financial, human and other resources to ensure the provision of—
 
-(i) an orderly and fair market in relation to securities or futures contracts that are traded through
-
-<!-- marginal: its -->
-
-facilities;
+(i) an orderly and fair market in relation to securities or futures contracts that are traded through its facilities;
 
 (ii) adequate and properly equipped premises for the conduct of its business;
 
@@ -1996,7 +2062,9 @@ recommendation of the Commission, thinks it fit to do
 
 (6) The Minister shall not take any action under subsection (1) without giving an exchange an opportunity to be heard.
 
-(7) Where an exchange has ceased to comply with any term or condition specified in section 8, or where the Minister receives a recommendation from the Commission under this section, the Minister may, instead of withdrawing the approval under subsection (1), direct that trading on the exchange be suspended until such time as the exchange has, to the satisfaction of the Minister, complied with such term or condition, or rectified the matter forming the basis of the recommendation by the Commission, or until the Minister revokes the direction.
+(7) Where an exchange has ceased to comply with any term or condition specified in section 8, or where the Minister receives a recommendation from the Commission under this section, the Minister may, instead of withdrawing the approval under subsection
+
+(1), direct that trading on the exchange be suspended until such time as the exchange has, to the satisfaction of the Minister, complied with such term or condition, or rectified the matter forming the basis of the recommendation by the Commission, or until the Minister revokes the direction.
 
 (8) The Minister shall give the exchange not less than fourteen days' notice in writing of his intention to direct suspension of trading under subsection (7) and the notice shall specify the grounds for the suspension.
 
@@ -2262,7 +2330,9 @@ below seventy five per centum, or such other percentage as may be specified from
 
 intends to enter into an agreement or arrangement, to dispose of or acquire such assets or classes of assets of such value as may have been specified by the Commission, it shall give the: Commission prior written notification of such intention.
 
-(2) Where the Commission makes a specification under subsection (1), it shall have regard to whether the assets referred to in the specification are integral to the operations of the exchange holding company, stock exchange, futures exchange, approved clearing house, central depository, or any other relevant body corporate, as the case may be, or significant in affecting the business direction of such persons.
+(2) Where the Commission makes a specification under subsection
+
+(1), it shall have regard to whether the assets referred to in the specification are integral to the operations of the exchange holding company, stock exchange, futures exchange, approved clearing house, central depository, or any other relevant body corporate, as the case may be, or significant in affecting the business direction of such persons.
 
 ### Control in shareholding of exchange holding company
 
@@ -2376,7 +2446,11 @@ as the case may be.
 
 ### Provision of assistance to Commission
 
-29. (1) An exchange holding company, a stock exchange, a futures exchange or an approved clearing house shall provide such assistance to the Commission, or to a person acting on behalf of or with the authority of the Commission, as the Commission or such person reasonably requires including the furnishing of such returns, and the provision of such information relating to the operations of the exchange holding company, a stock exchange, a futures exchange or an approved clearing house or in respect of such dealing in securities or trading in futures contracts or any other information as the Commission or such person may require for the proper administration of the securities laws.
+29. (1) An exchange holding company, a stock exchange, a futures exchange or an approved clearing house shall provide such assistance to the Commission, or to a person acting on behalf of or with the authority of the Commission, as the Commission or such person reasonably requires including the furnishing of such returns, and the provision of such information relating to the operations of the exchange holding company, a stock exchange, a futures exchange or an approved clearing house or in respect of such dealing in securities or trading in futures contracts or any other information as the Commission or such person may require for
+
+<!-- marginal: the proper -->
+
+administration of the securities laws.
 
 (2) A person acting on behalf of, or authorized by, the Commission shall be entitled at all reasonable times to full and free access for any of the purposes of this Act to the trading facility of a stock market of a stock exchange or a futures market of a futures exchange.
 
@@ -2406,7 +2480,9 @@ as the case may be.
 
 (3) Subject to subsection (6), a suspension order shall continue in force for such period, being a period not exceeding six months, as shall be specified in the order.
 
-(4) A suspension order or any extension thereof under subsection (6) shall take effect when a copy of the order or notice of the extension is served under paragraph (l)(a) on the stock exchange, futures exchange, approved clearing house or central depository to which the order relates.
+(4) A suspension order or any extension thereof under subsection
+
+(6) shall take effect when a copy of the order or notice of the extension is served under paragraph (l)(a) on the stock exchange, futures exchange, approved clearing house or central depository to which the order relates.
 
 (5) Without prejudice to subsection (4), where a suspension order is made or such an order is extended under subsection (6), the Commission shall, where it is practicable to do so, as soon as may be practicable, give a copy of the order or, the notice of its extension, as the case maybe, to the principal officer of the stock exchange, futures exchange, approved clearing house or central depository to which the order relates and to such members of the governing body thereof (if any) as the Commission may consider appropriate
 
@@ -5816,11 +5892,7 @@ Subdivision 2 — Insider trading
 
 (ii) the officer is involved in, the decision, transaction or agreement of the first-mentioned corporation in acquiring or disposing of securities in relation to which the officer is an insider or entering into an agreement to acquire or dispose of such securities, procuring another person to acquire or dispose of such securities or enter into an agreement to do so, or communicating the information in circumstances referred to in subsection 188(3); or
 
-(iii) it is reasonable to expect that the officer would communicate the information to another officer of the first-mentioned corporation acting
-
-<!-- marginal: in his -->
-
-capacity as such, unless it is proved that the information was not in fact so communicated.
+(iii) it is reasonable to expect that the officer would communicate the information to another officer of the first-mentioned corporation acting in his capacity as such, unless it is proved that the information was not in fact so communicated.
 
 (2) In this section, "information" refers to information which a corporation is deemed to possess and where a person in possession of the information is an insider.
 
@@ -6212,9 +6284,7 @@ contravention; and
 
 (4) To the extent that any of the amount obtained in a civil action under subsection (1) has not been distributed pursuant to paragraph (2)(b), it shall be —
 
-(a) paid to the fidelity fund maintained under Division 2 of
-
-## Part IV; or
+(a) paid to the fidelity fund maintained under Division 2 of Part IV; or
 
 (b) retained by the Commission to defray the costs of regulating the capital market, as the Commission, with the approval of the Minister, may determine.
 
@@ -6712,9 +6782,7 @@ the nine-tenths in the nominal value of those shares have been achieved, give no
 
 (b) makes a statutory declaration pursuant to subsection (1) or sends a statement pursuant to subsection (2), knowing that the declaration or the statement, as the case may be, to be false, or without having reasonable grounds for believing it to be true.
 
-(5) Where a person is charged for an offence under subsection
-
-(4), it is a defence for him to prove that he took reasonable steps for securing compliance with that subsection.
+(5) Where a person is charged for an offence under subsection (4), it is a defence for him to prove that he took reasonable steps for securing compliance with that subsection.
 
 <!-- page 253 -->
 
@@ -7094,11 +7162,7 @@ expected to deal in those securities, being persons who would reasonably be expe
 
 (v) a person named in the prospectus, with his consent, as having made a statement that is included in the prospectus or on which a statement made in the prospectus is based;
 
-(vi) a person named in the prospectus, with his consent, as a stockbroker, sharebroker or underwriter, as the case may be, in relation to an issue of, offer for subscription or purchase of, or invitation
-
-<!-- marginal: to -->
-
-subscribe for or purchase, securities;
+(vi) a person named in the prospectus, with his consent, as a stockbroker, sharebroker or underwriter, as the case may be, in relation to an issue of, offer for subscription or purchase of, or invitation to subscribe for or purchase, securities;
 
 (vii) a person named in the prospectus, with his consent, as an auditor, banker or advocate in relation to an issue of, offer for subscription or purchase of, or invitation to subscribe for or purchase, securities;
 
@@ -7356,11 +7420,7 @@ to subscribe for or purchase, securities on the basis of a shelf prospectus, as 
 
 (vii) a brief description of the listing status of the corporation, unit trust scheme or prescribed investment scheme on any stock exchange or other similar exchange outside Malaysia, or a statement that it is intended to apply for permission to list the corporation, unit trust scheme or prescribed investment scheme on any stock exchange or other similar exchange outside Malaysia but no assurance has been given that the corporation, unit trust scheme or prescribed investment scheme, as the case may be, will be listed;
 
-(viii) the fact that a prospectus is in the course of preparation and that an issue of, offer for subscription or purchase of, or invitation
-
-<!-- marginal: to -->
-
-subscribe for or purchase, securities is proposed, together with a brief indication of the nature and number of securities and of the possible timing of the issue of the prospectus;
+(viii) the fact that a prospectus is in the course of preparation and that an issue of, offer for subscription or purchase of, or invitation to subscribe for or purchase, securities is proposed, together with a brief indication of the nature and number of securities and of the possible timing of the issue of the prospectus;
 
 (ix) in the case of a unit trust scheme or prescribed investment scheme, a description of the persons from whom the units are available for purchase or subscription; and
 
@@ -8104,7 +8164,7 @@ and give the person carrying out the inspection any information, explanation or 
 
 ### Duty of borrower to give trustee and Commission quarterly
 
-### reports
+<!-- marginal: reports -->
 
 266. (1) A borrower shall, within one month after the end of each quarter—
 
@@ -8564,7 +8624,11 @@ in accordance with the provisions of subsections (3) and (4).
 
 (2) An order made under subsection (1) may direct the trustee to —
 
-(a) place before the debenture holders any information concerning the interests of the debenture holders;
+(a) place before the debenture holders any
+
+<!-- marginal: information -->
+
+concerning the interests of the debenture holders;
 
 (b) place before the debenture holders any proposal to protect the interests of the debenture holders that the court directs or the trustee considers appropriate; and
 
@@ -10026,7 +10090,9 @@ Provided that the books shall not be required to be produced at such times and a
 
 submit to the Commission any information, returns or documents, the Commission, may specify that such information, returns or documents be submitted in such form or manner and within such period or at such intervals as the Commission may specify.
 
-(2) The information, returns or documents referred to in subsection (1) may be submitted—
+(2) The information, returns or documents referred to in subsection
+
+(1) may be submitted—
 
 (a) in writing;
 
@@ -10280,11 +10346,7 @@ that person has committed a breach.
 
 (v) to require a futures contract entered into on the futures market or each futures contract included in a particular class of futures contracts so entered into, to be discharged by —
 
-(A) the tendering of a merchantable lot of an instrument determined by the
-
-<!-- marginal: futures -->
-
-exchange, that is of a quality or standard determined by the futures exchange, that is different from the quality or standard of the instrument stated in the futures contract; and
+(A) the tendering of a merchantable lot of an instrument determined by the futures exchange, that is of a quality or standard determined by the futures exchange, that is different from the quality or standard of the instrument stated in the futures contract; and
 
 (B) the tendering of a price adjusted by an amount determined by the futures exchange that is appropriate having regard to the quality or standard of the instrument referred to in subsubparagraph (A);
 
@@ -10508,13 +10570,7 @@ the court may, without prejudice to any order it would be entitled to make other
 
 (L) in a case where the person is a chief executive or director, an order removing him from office or that he be barred from becoming a chief executive, director or be involved in the management directly or indirectly, of any other public company for such period of time as may be determined by the court;
 
-(M) an order requiring that person, or any other person who appears to have been knowingly involved
-
-<!-- marginal: in -->
-
-<!-- marginal: the -->
-
-contravention, to take such steps as the court may direct to remedy it or to mitigate its effect including making restitution to any other person aggrieved by such contravention;
+(M) an order requiring that person, or any other person who appears to have been knowingly involved in the contravention, to take such steps as the court may direct to remedy it or to mitigate its effect including making restitution to any other person aggrieved by such contravention;
 
 <!-- page 394 -->
 
@@ -11364,59 +11420,83 @@ Arranging for the sale or Islamic banks, licensed banks, (b) purchase of securit
 
 <!-- page 427 -->
 
-First Second column Third column column Categories of registered Items Activities persons Arranging for the sale or Islamic banks, licensed banks, (c) purchase of securities that are not licensed merchant
+<!-- marginal: First -->
 
-<!-- marginal: banks, -->
+Second column Third column
 
-listed on a stock market of a stock licensed discount houses and exchange, issued by, belonging to licensed finance companies or on behalf of, customers
+<!-- marginal: column -->
 
-Underwriting of securities and Islamic banks, licensed banks (d) placement out of such and licensed merchant banks underwritten securities whether through the holder of a Capital Markets Services Licence who carries on dealing in securities or otherwise
+Categories of registered
 
-Underwriting of bond issues that Insurance companies
+<!-- marginal: Items -->
 
-<!-- marginal: licensed -->
+Activities persons Arranging for the sale or Islamic banks, licensed banks,
+
+(c) purchase of securities that are not licensed merchant banks, listed on a stock market of a stock licensed discount houses and exchange, issued by, belonging to licensed finance companies or on behalf of, customers
+
+Underwriting of securities and Islamic banks, licensed banks
+
+(d) placement out of such and licensed merchant banks underwritten securities whether through the holder of a Capital Markets Services Licence who carries on dealing in securities or otherwise
+
+Underwriting of bond issues that Insurance companies licensed
 
 (e) is solely incidental to the under the Insurance Act 1996 management and administration and takaful operators registered of its insurance or takaful under the Takaful Act 1984 business
 
 Private placement of primary Licensed merchant banks and
 
-### (f)
+(f) issues of securities on behalf of Islamic banks in respect of customers Islamic products
 
-issues of securities on behalf of Islamic banks in
+Arranging or offering for the sale Islamic banks, licensed banks
 
-<!-- marginal: respect of -->
+(8) or purchase as agents for any and licensed finance companies person, any interests in unit trust schemes
 
-customers Islamic products
+Islamic banks, licensed banks, Acting or offering to act as agent
 
-Arranging or offering for the sale Islamic banks, licensed banks (8) or purchase as agents for any and licensed finance companies person, any interests in unit trust schemes
-
-Islamic banks, licensed banks, Acting or offering to act as agent (h) licensed merchant banks and for any issuing house in relation licensed finance companies to the issue or listing of any securities
+(h) licensed merchant banks and for any issuing house in relation licensed finance companies to the issue or listing of any securities
 
 Lending or borrowing of Islamic banks, licensed banks, (0 unlisted debt securities for their licensed finance companies and own account or for their licensed merchant banks customers under the Guidelines on Securities Borrowing and Lending Programme under RENTAS or such other equivalent guidelines issued by Bank Negara
 
 <!-- page 428 -->
 
-Capital Markets and Services
+Capital Markets and Services All
 
-<!-- marginal: All -->
+<!-- marginal: First -->
 
-First Second column Third column column Categories of registered Items Activities persons Advising on corporate 2. finance
+Second column Third column
 
-Licensed banks, licensed Debentures that are not (a) merchant banks, licensed capable of being converted into discount houses and Islamic equity banks in respect of Islamic debentures
+<!-- marginal: column -->
 
-Islamic securities as specified in Licensed banks, licensed (b) the Securities Commission's merchant banks, Islamic banks guidelines in respect of Islamic and licensed discount houses securities
+Categories of registered
 
-Structured products as provided Licensed banks, licensed (c) under the Commission's merchant banks and Islamic guidelines in respect of banks in respect of Islamic structured products structured products
+<!-- marginal: Items -->
 
-Structured warrants as Licensed merchant banks, (d) provided under the Securities licensed banks and Islamic banks Commission's Guidelines in respect of Islamic structured For The Issue of Structured warrants Warrants
+Activities persons Advising on corporate
 
-Making submissions on behalf of Licensed merchant banks and (e) customers to relevant Islamic banks in respect of authorities or persons in respect Islamic products of issues of securities for cash or other consideration
+2. finance
+
+Licensed banks, licensed Debentures that are not
+
+(a) merchant banks, licensed capable of being converted into discount houses and Islamic equity banks in respect of Islamic debentures
+
+Islamic securities as specified in Licensed banks, licensed
+
+(b) the Securities Commission's merchant banks, Islamic banks guidelines in respect of Islamic and licensed discount houses securities
+
+Structured products as provided Licensed banks, licensed
+
+(c) under the Commission's merchant banks and Islamic guidelines in respect of banks in respect of Islamic structured products structured products
+
+Structured warrants as Licensed merchant banks,
+
+(d) provided under the Securities licensed banks and Islamic banks Commission's Guidelines in respect of Islamic structured For The Issue of Structured warrants Warrants
+
+Making submissions on behalf of Licensed merchant banks and
+
+(e) customers to relevant Islamic banks in respect of authorities or persons in respect Islamic products of issues of securities for cash or other consideration
 
 Issuing any document which is Licensed banks, licensed
 
-### (f)
-
-or is deemed to be a prospectus finance companies, licensed under the relevant securities laws merchant banks and licensed and the Companies Act 1965 Islamic banks
+(f) or is deemed to be a prospectus finance companies, licensed under the relevant securities laws merchant banks and licensed and the Companies Act 1965 Islamic banks
 
 3. Investment advice
 
@@ -11442,13 +11522,31 @@ Advising on corporate finance Bank Pembangunan Malaysia 1. and underwriting in r
 
 <!-- page 430 -->
 
-First Second column Third column column Categories of registered Items Activities persons Dealing in securities in relation Any venture capital corporation 2. to the investment made by the and venture capital management venture capital corporation and corporation that is registered venture capital management under the Commission's corporation Guidelines for the Registration of Venture Capital Corporations and Venture Capital Management Corporations
+<!-- marginal: First -->
 
-A credit rating agency that is Investment advice in relation to 3. recognized by the Commission the provision of ratings for under the Practice Note on the debentures Offering of Private Debt Securities and the Guidelines on the Offering of Islamic Securities
+Second column Third column
 
-A bond pricing agency that is Investment advice in relation to 4. registered under the the pricing of debentures Commission's Guidelines on the Registration of Bond Pricing Agencies
+<!-- marginal: column -->
 
-Dealing in securities in relation Pengurusan Danaharta Nasional 5. to the administration of the Berhad and all its subsidiaries duties of Pengurusan Danaharta prescribed under subsection Nasional Berhad 60(2) of the Pengurusan Danaharta Nasional Berhad Act 1998
+Categories of registered
+
+<!-- marginal: Items -->
+
+Activities persons Dealing in securities in relation Any venture capital corporation
+
+2. to the investment made by the and venture capital management venture capital corporation and corporation that is registered venture capital management under the Commission's corporation Guidelines for the Registration of Venture Capital Corporations and Venture Capital Management Corporations
+
+A credit rating agency that is Investment advice in relation to
+
+3. recognized by the Commission the provision of ratings for under the Practice Note on the debentures Offering of Private Debt Securities and the Guidelines on the Offering of Islamic Securities
+
+A bond pricing agency that is Investment advice in relation to
+
+4. registered under the the pricing of debentures Commission's Guidelines on the Registration of Bond Pricing Agencies
+
+Dealing in securities in relation Pengurusan Danaharta Nasional
+
+5. to the administration of the Berhad and all its subsidiaries duties of Pengurusan Danaharta prescribed under subsection Nasional Berhad 60(2) of the Pengurusan Danaharta Nasional Berhad Act 1998
 
 <!-- page 431 -->
 
@@ -11578,7 +11676,9 @@ Excluded offers or excluded invitations
 
 <!-- page 435 -->
 
-27. An offer or invitation in respect of securities of a corporation made to existing members of a company within the meaning of section 270 of the Companies Act 1965. 28. An offer or invitation in respect of securities of a foreigrr corporation whose securities or any class of securities having gained admission on such other exchange outside Malaysia which is recognised under the rules of a stock exchange, made to existing members or debenture holders of such foreign corporation by means of a rights issue provided that such offer of invitation has been accompanied by a prospectus or disclosure document approved by the foreign supervisory authority of such foreign corporation.
+27. An offer or invitation in respect of securities of a corporation made to existing members of a company within the meaning of section 270 of the Companies Act 1965.
+
+28. An offer or invitation in respect of securities of a foreigrr corporation whose securities or any class of securities having gained admission on such other exchange outside Malaysia which is recognised under the rules of a stock exchange, made to existing members or debenture holders of such foreign corporation by means of a rights issue provided that such offer of invitation has been accompanied by a prospectus or disclosure document approved by the foreign supervisory authority of such foreign corporation.
 
 ### B. Non-application
 
@@ -11590,7 +11690,13 @@ Excluded offers or excluded invitations to which sections 232, 233, 234, 235, 23
 
 ### A. Excluded issues
 
-1. An issue made to an underwriter under an underwriting or subunderwriting agreement. 2. An issue in respect of securities of a corporation which are not listed made to existing members or debenture holders of such corporation by means of a rights issue and is not an issue or allotment to which section 237 applies. 3. An issue made to a company that is registered as a trust company under the Trust Companies Act 1949 or a corporation that is a public company under the Companies Act 1965 or under the laws of any other country which has been allowed by the Commission to be a trustee for the purposes of this Act. 4. An issue made to a unit trust scheme or prescribed investment scheme.
+1. An issue made to an underwriter under an underwriting or subunderwriting agreement.
+
+2. An issue in respect of securities of a corporation which are not listed made to existing members or debenture holders of such corporation by means of a rights issue and is not an issue or allotment to which section 237 applies.
+
+3. An issue made to a company that is registered as a trust company under the Trust Companies Act 1949 or a corporation that is a public company under the Companies Act 1965 or under the laws of any other country which has been allowed by the Commission to be a trustee for the purposes of this Act.
+
+4. An issue made to a unit trust scheme or prescribed investment scheme.
 
 5. An issue made to a holder of a Capital Markets Services Licence who carries on the business of dealing in securities.
 
@@ -11598,7 +11704,9 @@ Excluded offers or excluded invitations to which sections 232, 233, 234, 235, 23
 
 7. An issue made to a closed end fund approved by the Commission.
 
-8. An issue made to a holder of a Capital Markets Services Licence who carries on the business of fund management. 9. An issue made to a person who acquires securities pursuant to an offer, as principal, if the aggregate consideration for the acquisition is not less than two hundred and fifty thousand ringgit or its equivalent in foreign currencies for each transaction, whether such amount is paid for in cash or otherwise.
+8. An issue made to a holder of a Capital Markets Services Licence who carries on the business of fund management.
+
+9. An issue made to a person who acquires securities pursuant to an offer, as principal, if the aggregate consideration for the acquisition is not less than two hundred and fifty thousand ringgit or its equivalent in foreign currencies for each transaction, whether such amount is paid for in cash or otherwise.
 
 <!-- page 436 -->
 
@@ -12256,9 +12364,7 @@ futures market of a specified exchange or trading is in respect of an approved c
 
 provisions of Part VI or any regulations made under the proposed Act, may recover that loss or damage by instituting civil proceeding against that person. Clause 358 relates to the power of the Commission to recover loss or damage on behalf of other persons who have suffered loss by the conduct of another person who has contravened that Part.
 
-148. Clause 359 clarifies the reference to conduct in relation to the activities under
-
-## Part VI of the proposed Act.
+148. Clause 359 clarifies the reference to conduct in relation to the activities under Part VI of the proposed Act.
 
 149. Clause 360 empowers the court to make certain orders if applied for by, among others, the Commission, the exchange holding company, a stock exchange, a futures exchange and an approved clearing house.
 

@@ -26,7 +26,7 @@ oleh Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong dengan nasih
 
 2. Perlembagaan Persekutuan adalah dipinda dengan
 
-<!-- marginal: Perkara 43. -->
+## Perkara 43.
 
 memansuhkan Fasal (8) Perkara 43.
 
@@ -34,11 +34,15 @@ memansuhkan Fasal (8) Perkara 43.
 
 3. Perkara 54 Perlembagaan Persekutuan adalah
 
-<!-- marginal: Perkara 54. -->
+## Perkara 54.
 
 dipinda, dalam Fasal (1)—
 
-(a) dengan menggantikan perkataan "oleh Suruhanjaya Pilihanraya adanya kekosongan" dengan perkataan "oleh Yang Dipertua Dewan Negara bahawa adanya kekosongan atau oleh Suruhanjaya Pilihanraya bahawa adanya kekosongan luar jangka, mengikut mana-mana yang berkenaan"; dan
+(a) dengan menggantikan perkataan
+
+<!-- marginal: "oleh -->
+
+Suruhanjaya Pilihanraya adanya kekosongan" dengan perkataan "oleh Yang Dipertua Dewan Negara bahawa adanya kekosongan atau oleh Suruhanjaya Pilihanraya bahawa adanya kekosongan luar jangka, mengikut mana-mana yang berkenaan"; dan
 
 <!-- page 2 -->
 
@@ -50,23 +54,31 @@ dipinda, dalam Fasal (1)—
 
 "Dengan syarat selanjutnya bahawa, jika kekosongan luar jangka di Dewan Rakyat dipastikan pada suatu tarikh dalam masa dua tahun dari tarikh Parlimen hendaklah, mengikut Fasal (3) Perkara 55, menjadi bubar, maka kekosongan luar jangka itu tidak boleh diisi melainkan jika Yang Dipertua Dewan Rakyat memberitahu Suruhanjaya Pilihanraya secara bertulis bahawa kekuatan dari segi bilangan parti yang membentuk majoriti semua ahli Dewan Rakyat terjejas oleh kekosongan itu, dan dalam keadaan sedemikian kekosongan itu hendaklah diisi dalam masa enam puluh hari dari tarikh pemberitahuan itu diterima.".
 
-Pmdaan
+<!-- marginal: Pmdaan -->
 
 4. Jadual Kelapan kepada Perlembagaan Persekutuan
 
 ## Jadual
 
-adalah dipinda dalam seksyen 9 dengan menggantikan Kelapan. proviso kepada subseksyen (5) dengan proviso baru yang berikut:
+adalah dipinda dalam seksyen 9 dengan menggantikan
+
+<!-- marginal: Kelapan. -->
+
+proviso kepada subseksyen (5) dengan proviso baru yang berikut:
 
 "Dengan syarat bahawa jika kekosongan luar jangka itu dipastikan pada suatu tarikh dalam masa dua tahun dari tarikh Dewan Undangan hendaklah, mengikut subseksyen (3) menjadi bubar, maka keko- songan luar jangka itu tidak boleh diisi melainkan jika Speaker memberitahu Suruhanjaya Pilihanraya secara bertulis bahawa kekuatan dari segi bilangan parti yang membentuk majoriti semua ahli Dewan Undangan terjejas oleh kekosongan itu, dan dalam keadaan itu kekosongan itu hendaklah diisi dalam masa enam puluh hari dari tarikh pemberitahuan itu diterima.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
 5. Jadual Kesebelas kepada Perlembagaan Persekutuan
 
 ## Jadual
 
-adalah dipinda dengan rnemasukkan dalam ruang Kesebelas. pertama di tempat yang dikehendaki mengikut susunan bilangan angka "39" dan bersetentangan dengannya, dalam ruang kedua, yang berikut:
+adalah dipinda dengan rnemasukkan dalam ruang
+
+<!-- marginal: Kesebelas. -->
+
+pertama di tempat yang dikehendaki mengikut susunan bilangan angka "39" dan bersetentangan dengannya, dalam ruang kedua, yang berikut:
 
 "Pentafsiran kuasa untuk melanjutkan masa— Jika dalam mana-mana undang-undang bertulis masa ditetapkan untuk melakukan apa-apa
 
@@ -88,7 +100,7 @@ Rang Undang-Undang ini bertujuan meminda Perlembagaan Persekutuan.
 
 <!-- page 4 -->
 
-### 4
+<!-- marginal: 4 -->
 
 ## RANG UNDANG-UNDANG
 

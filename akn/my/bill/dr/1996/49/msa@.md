@@ -16,7 +16,9 @@
 
 ## PERMULAAN
 
-1. Tajuk ringkas, mula berkuatkuasa dan pemakaian. 2. Tafsiran.
+1. Tajuk ringkas, mula berkuatkuasa dan pemakaian.
+
+2. Tafsiran.
 
 ## BAHAGIAN
 
@@ -24,7 +26,13 @@ II
 
 ## KESALAHAN YANG BERHUBUNGAN DENGAN 'AQIDAH
 
-3. Pemujaan salah. 4. Doktrin palsu. 5. Mengembangkan doktrin agama, dsb. 6. Dakwaan palsu.
+3. Pemujaan salah.
+
+4. Doktrin palsu.
+
+5. Mengembangkan doktrin agama, dsb.
+
+6. Dakwaan palsu.
 
 ## BAHAGIAN III
 
@@ -32,7 +40,9 @@ II
 
 ## KESUCIAN AGAMA ISLAM DAN INSTITUSINYA
 
-7. Menghina, atau menyebabkan dipandang hina, dll. agama Islam. 8. Mempersendakan, dll. ayat Al-Quran atau Hadith.
+7. Menghina, atau menyebabkan dipandang hina, dll. agama Islam.
+
+8. Mempersendakan, dll. ayat Al-Quran atau Hadith.
 
 9. Menghina atau mengingkari pihak berkuasa agama.
 
@@ -42,21 +52,7 @@ II
 
 <!-- page 2 -->
 
-12. Pendapat yang bertentangan dengan fatwa.
-
-13. Penerbitan agama yang bertentangan dengan Hukum Syarak.
-
-14. Tidak menunaikan sembahyang Jumaat.
-
-15. Tidak menghormati Ramadhan.
-
-16. Tidak membayar zakat atau fitrah.
-
-17. Menghasut supaya mengabaikan kewajipan agama.
-
-18. Berjudi.
-
-19. Minuman yang memabukkan.
+12. Pendapat yang bertentangan dengan fatwa. 13. Penerbitan agama yang bertentangan dengan Hukum Syarak. 14. Tidak menunaikan sembahyang Jumaat. 15. Tidak menghormati Ramadhan. 16. Tidak membayar zakat atau fitrah. 17. Menghasut supaya mengabaikan kewajipan agama. 18. Berjudi. 19. Minuman yang memabukkan.
 
 ## BAHAGIAN
 
@@ -94,17 +90,7 @@ IV
 
 31. Takfir.
 
-32. Memusnahkan atau mencemarkan masjid, surau, dsb.
-
-33. Pemungutan zakat atau fitrah tanpa kuasa.
-
-34. Pembayaran tak sah akan zakat atau fitrah.
-
-35. Menggalakkan maksiat.
-
-36. Memujuk lari perempuan bersuami.
-
-37. Menghalang pasangan yang sudah bernikah daripada hidup sebagai suami isteri.
+32. Memusnahkan atau mencemarkan masjid, surau, dsb. 33. Pemungutan zakat atau fitrah tanpa kuasa. 34. Pembayaran tak sah akan zakat atau fitrah. 35. Menggalakkan maksiat. 36. Memujuk lari perempuan bersuami. 37. Menghalang pasangan yang sudah bernikah daripada hidup sebagai suami isteri.
 
 <!-- page 3 -->
 
@@ -112,19 +98,43 @@ Kesalahan Jenayah Syariah
 
 <!-- marginal: 3 -->
 
-(Wilayah-Wilayah Persekutuan) 38. Menghasut suami atau isteri supaya bercerai atau mengabaikan kewajipan. 39. Memujuk lari orang perempuan. 40. Menjual atau memberikan anak kepada orang bukan Islam. 41. Qazaf. 42. Penyalahgunaan tanda halal.
+(Wilayah-Wilayah Persekutuan)
+
+38. Menghasut suami atau isteri supaya bercerai atau mengabaikan kewajipan.
+
+39. Memujuk lari orang perempuan.
+
+40. Menjual atau memberikan anak kepada orang bukan Islam.
+
+41. Qazaf.
+
+42. Penyalahgunaan tanda halal.
 
 ## BAHAGIAN VI
 
 ## PENYUBAHATAN DAN PERCUBAAN
 
-43. Penyubahatan. 44. Menyubahati di dalam Wilayah Persekutuan kesalahan di luar Wilayah Persekutuan. 45. Hukuman bagi penyubahatan. 46. Tanggungan penyubahat jika perbuatan yang berlainan dilakukan. 47. Percubaan.
+43. Penyubahatan.
+
+44. Menyubahati di dalam Wilayah Persekutuan kesalahan di luar Wilayah Persekutuan.
+
+45. Hukuman bagi penyubahatan.
+
+46. Tanggungan penyubahat jika perbuatan yang berlainan dilakukan.
+
+47. Percubaan.
 
 ## BAHAGIAN VII
 
 ## KECUALIAN AM
 
-48. Perbuatan Hakim apabila bertindak secara kehakiman. 49. Perbuatan yang dilakukan menurut penghakiman atau perintah Mahkamah. 50. Perbuatan yang dilakukan oleh seseorang yang mempunyai justifikasi di sisi undang-undang. 51. Perbuatan kanak-kanak yang belum baligh. 52. Perbuatan seseorang yang tak sempurna akal. 53. Perbuatan orang yang terpaksa oleh sebab ugutan.
+48. Perbuatan Hakim apabila bertindak secara kehakiman.
+
+49. Perbuatan yang dilakukan menurut penghakiman atau perintah Mahkamah.
+
+50. Perbuatan yang dilakukan oleh seseorang yang mempunyai justifikasi di sisi undang-undang. 51. Perbuatan kanak-kanak yang belum baligh. 52. Perbuatan seseorang yang tak sempurna akal.
+
+53. Perbuatan orang yang terpaksa oleh sebab ugutan.
 
 ## BAHAGIAN VIII
 
@@ -190,11 +200,55 @@ dan hendaklah mula berkuatkuasa pada tarikh yang ditetapkan oleh Yang di-Pertuan
 
 <!-- page 6 -->
 
-Sel. En. 3/52. "Enakmen" ertinya Enakmen Pentadbiran Hukum Syarak 1952 bagi Negeri Selangor—
+<!-- marginal: Sel. En. 3/52. -->
 
-(a) berhubungan dengan Wilayah Persekutuan Kuala Lumpur, sebagaimana yang diubahsuaikan oleh P.U. (A) Perintah Wilayah Persekutuan (Pengubahsuaian 44/74. Pentadbiran Enakmen Hukum Syarak) 1974, P.U. (A) 390/81. 1981 dan 1988 yang dibuat menurut subseksyen P.U. (A) 6 (4) Akta Perlembagaan (Pindaan) (No. 2) 1973 263/88. dan yang berkuatkuasa di Wilayah Persekutuan Akta A206. Kuala Lumpur menurut kuasa subseksyen 6(1) Akta itu dan Akta Pentadbiran Hukum Syarak Akta A576. (Pindaan) 1984; dan
+"Enakmen" ertinya Enakmen Pentadbiran Hukum Syarak 1952 bagi Negeri Selangor—
 
-(b) berhubungan dengan Wilayah Persekutuan Labuan, sebagaimana yang diubahsuaikan dan diperluaskan oleh Perintah Wilayah Persekutuan P.U. (A) Labuan (Pengubahsuaian dan Peluasan Enakmen 352/85. Pentadbiran Hukum Syarak) 1985 yang dibuat menurut seksyen 7 Akta Perlembagaan (Pindaan) Akta A585. (No. 2) 1984;
+(a) berhubungan dengan Wilayah Persekutuan Kuala Lumpur, sebagaimana yang diubahsuaikan oleh
+
+<!-- marginal: P.U. (A) -->
+
+Perintah Wilayah Persekutuan (Pengubahsuaian
+
+<!-- marginal: 44/74. -->
+
+Pentadbiran Enakmen Hukum Syarak) 1974,
+
+<!-- marginal: P.U. (A) -->
+
+<!-- marginal: 390/81. -->
+
+1981 dan 1988 yang dibuat menurut subseksyen
+
+<!-- marginal: P.U. (A) -->
+
+6 (4) Akta Perlembagaan (Pindaan) (No. 2) 1973
+
+<!-- marginal: 263/88. -->
+
+dan yang berkuatkuasa di Wilayah Persekutuan
+
+<!-- marginal: Akta A206. -->
+
+Kuala Lumpur menurut kuasa subseksyen 6(1) Akta itu dan Akta Pentadbiran Hukum Syarak
+
+<!-- marginal: Akta A576. -->
+
+(Pindaan) 1984; dan
+
+(b) berhubungan dengan Wilayah Persekutuan Labuan, sebagaimana yang diubahsuaikan dan diperluaskan oleh Perintah Wilayah Persekutuan
+
+<!-- marginal: P.U. (A) -->
+
+Labuan (Pengubahsuaian dan Peluasan Enakmen
+
+<!-- marginal: 352/85. -->
+
+Pentadbiran Hukum Syarak) 1985 yang dibuat menurut seksyen 7 Akta Perlembagaan (Pindaan)
+
+<!-- marginal: Akta A585. -->
+
+(No. 2) 1984;
 
 "fatwa" ertinya mana-mana fatwa yang dibuat di bawah seksyen 34 Akta Pentadbiran;
 
@@ -236,7 +290,11 @@ Sel. En. 3/52. "Enakmen" ertinya Enakmen Pentadbiran Hukum Syarak 1952 bagi Nege
 
 <!-- page 8 -->
 
-(2) Semua perkataan dan ungkapan yang digunakan dalam Akta ini dan yang tidak ditakrifkan dalamnya tetapi Akta 388. ditakrifkan dalam Akta-Akta Tafsiran 1948 dan 1967 hendaklah mempunyai erti yang diberikan kepadanya masing-masing dalam Akta-Akta itu setakat yang erti sedemikian tidak bercanggah dengan Hukum Syarak.
+(2) Semua perkataan dan ungkapan yang digunakan dalam Akta ini dan yang tidak ditakrifkan dalamnya tetapi
+
+<!-- marginal: Akta 388. -->
+
+ditakrifkan dalam Akta-Akta Tafsiran 1948 dan 1967 hendaklah mempunyai erti yang diberikan kepadanya masing-masing dalam Akta-Akta itu setakat yang erti sedemikian tidak bercanggah dengan Hukum Syarak.
 
 (3) Bagi mengelakkan keraguan tentang sifat atau tafsiran perkataan dan ungkapan yang digunakan dalam Akta ini yang disenaraikan dalam Jadual, rujukan bolehlah dibuat kepada tulisan Arab bagi perkataan dan ungkapan itu yang ditunjukkan bersetentangan dengannya dalam Jadual itu.
 
@@ -244,15 +302,23 @@ Sel. En. 3/52. "Enakmen" ertinya Enakmen Pentadbiran Hukum Syarak 1952 bagi Nege
 
 ## KESALAHAN YANG BERHUBUNGAN DENGAN 'AQIDAH
 
-Pemujaan
+<!-- marginal: Pemujaan -->
 
-3. (1) Mana-mana orang yang memuja alam semula jadi salah. atau melakukan apa-apa perbuatan yang menunjukkan pemujaan atau rasa hormat kepada mana-mana orang, binatang, tempat atau benda dengan apa-apa cara yang menyalahi Hukum Syarak adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi tiga ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.
+3. (1) Mana-mana orang yang memuja alam semula jadi
+
+<!-- marginal: salah. -->
+
+atau melakukan apa-apa perbuatan yang menunjukkan pemujaan atau rasa hormat kepada mana-mana orang, binatang, tempat atau benda dengan apa-apa cara yang menyalahi Hukum Syarak adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi tiga ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.
 
 (2) Mahkamah boleh memerintahkan supaya apa-apa peranti, barang atau benda yang digunakan dalam pelakuan atau yang ada kaitan dengan kesalahan yang disebut dalam subseksyen (1) dilucuthakkan dan dimusnahkan, walaupun tiada seorang pun telah disabitkan atas kesalahan itu.
 
-Doktrin
+<!-- marginal: Doktrin -->
 
-4. (1) Mana-mana orang yang mengajar atau menjelaskan palsu. apa-apa doktrin atau melaksanakan apa-apa upacara atau perbuatan yang berhubungan dengan agama Islam di mana- mana tempat, sama ada tempat persendirian atau tempat
+4. (1) Mana-mana orang yang mengajar atau menjelaskan
+
+<!-- marginal: palsu. -->
+
+apa-apa doktrin atau melaksanakan apa-apa upacara atau perbuatan yang berhubungan dengan agama Islam di mana- mana tempat, sama ada tempat persendirian atau tempat
 
 <!-- page 9 -->
 
@@ -296,9 +362,23 @@ III
 
 ## KESUCIAN AGAMA ISLAM DAN INSTITUSINYA
 
-Menghina,
+<!-- marginal: Menghina, -->
 
-7. Mana-mana orang yang secara lisan atau secara bertulis atau atau dengan gambaran yang tampak atau dengan apa- menyebabkan dipandang apa cara lain— hina, dll. agama Islam.
+7. Mana-mana orang yang secara lisan atau secara bertulis
+
+<!-- marginal: atau -->
+
+atau dengan gambaran yang tampak atau dengan apa-
+
+<!-- marginal: menyebabkan -->
+
+<!-- marginal: dipandang -->
+
+apa cara lain—
+
+<!-- marginal: hina, dll. -->
+
+<!-- marginal: agama Islam. -->
 
 (a) menghina agama Islam atau menyebabkan agama Islam dipandang hina;
 
@@ -312,13 +392,45 @@ mencemuh amalan atau upacara yang berhubungan dengan agama Islam; atau
 
 adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi tiga ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.
 
-Mempersen-
+<!-- marginal: Mempersen- -->
 
-8. Mana-mana orang yang, dengan kata-katanya atau dakan, dll atau perbuatannya, mempersendakan, menghina, ayat Al- Quran atau mencemuh atau menyebabkan dipandang hina ayat-ayat Hadith. Al-Quran atau Hadith adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.
+8. Mana-mana orang yang, dengan kata-katanya atau
 
-Menghina
+<!-- marginal: dakan, dll -->
 
-9. Mana-mana orang yang bertindak dengan cara yang atau menghina pihak berkuasa agama atau mengingkari, mengingkari pihak melanggar atau mempertikaikan perintah atau arahan Yang berkuasa di-Pertuan Agong sebagai Ketua Agama Islam, Majlis agama atau Mufti, yang dinyatakan atau diberikan melalui fatwa, adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi tiga ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.
+atau perbuatannya, mempersendakan, menghina,
+
+<!-- marginal: ayat Al- -->
+
+<!-- marginal: Quran atau -->
+
+mencemuh atau menyebabkan dipandang hina ayat-ayat
+
+<!-- marginal: Hadith. -->
+
+Al-Quran atau Hadith adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.
+
+<!-- marginal: Menghina -->
+
+9. Mana-mana orang yang bertindak dengan cara yang
+
+<!-- marginal: atau -->
+
+menghina pihak berkuasa agama atau mengingkari,
+
+<!-- marginal: mengingkari -->
+
+<!-- marginal: pihak -->
+
+melanggar atau mempertikaikan perintah atau arahan Yang
+
+<!-- marginal: berkuasa -->
+
+di-Pertuan Agong sebagai Ketua Agama Islam, Majlis
+
+<!-- marginal: agama -->
+
+atau Mufti, yang dinyatakan atau diberikan melalui fatwa, adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi tiga ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.
 
 <!-- page 11 -->
 
@@ -400,13 +512,29 @@ adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak mele
 
 (2) Mahkamah boleh memerintahkan supaya mana- mana buku, risalah, dokumen atau rakaman yang disebut dalam subseksyen (1) dilucuthakkan dan dimusnahkan, walaupun tiada seorang pun telah disabitkan atas kesalahan berkaitan dengan buku, risalah, dokumen atau rakaman itu.
 
-Tidak
+<!-- marginal: Tidak -->
 
-14. Mana-mana orang lelaki, yang baligh, yang tidak menunaikan menunaikan sembahyang Jumaat di masjid dalam sembahyang Jumaat. kariahnya tiga kali berturut-turut tanpa uzur syarie atau tanpa sebab yang munasabah adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi satu ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya.
+14. Mana-mana orang lelaki, yang baligh, yang tidak
 
-Tidak
+<!-- marginal: menunaikan -->
 
-15. Mana-mana orang yang pada waktu berpuasa dalam menghormali bulan Ramadhan— Ramadhan.
+menunaikan sembahyang Jumaat di masjid dalam
+
+<!-- marginal: sembahyang -->
+
+<!-- marginal: Jumaat. -->
+
+kariahnya tiga kali berturut-turut tanpa uzur syarie atau tanpa sebab yang munasabah adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi satu ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya.
+
+<!-- marginal: Tidak -->
+
+15. Mana-mana orang yang pada waktu berpuasa dalam
+
+<!-- marginal: menghormali -->
+
+bulan Ramadhan—
+
+<!-- marginal: Ramadhan. -->
 
 (a) menjual kepada mana-mana orang Islam apa- apa makanan, minuman, rokok atau benda lain yang seumpamanya untuk dimakan, diminum atau dihisap serta-merta dalam waktu itu; atau
 
@@ -466,9 +594,17 @@ upacara agama adalah melakukan suatu kesalahan dan apabila disabitkan boleh dide
 
 bagi maksud penjalanan apa-apa permainan yang keputusannya bergantung kepada nasib atau campuran kemahiran dan nasib, sama ada dibenarkan oleh mana- mana undang-undang lain atau sebaliknya, untuk mendapat wang atau nilai wang.
 
-Minuman
+<!-- marginal: Minuman -->
 
-19. (1) Mana-mana orang yang, di mana-mana kedai atau yang tempat awam lain, minum apa-apa minuman yang memabukkan. memabukkan adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi tiga ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.
+19. (1) Mana-mana orang yang, di mana-mana kedai atau
+
+<!-- marginal: yang -->
+
+tempat awam lain, minum apa-apa minuman yang
+
+<!-- marginal: memabukkan. -->
+
+memabukkan adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi tiga ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.
 
 (2) Mana-mana orang yang membuat, menjual, menawarkan atau mempamerkan untuk jualan, menyimpan atau membeli apa-apa minuman yang memabukkan adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua- duanya.
 
@@ -480,11 +616,19 @@ IV
 
 ## KESUS1LAAN
 
-Perbuatan
+<!-- marginal: Perbuatan -->
 
-20. Mana-mana orang yang melakukan perbuatan sumbang sumbang mahram adalah melakukan suatu kesalahan dan mahram apabila disabitkan boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau disebat tidak melebihi enam sebatan atau dihukum dengan mana-mana kombinasi hukuman itu.
+20. Mana-mana orang yang melakukan perbuatan
 
-Pelacuran.
+<!-- marginal: sumbang -->
+
+sumbang mahram adalah melakukan suatu kesalahan dan
+
+<!-- marginal: mahram -->
+
+apabila disabitkan boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau disebat tidak melebihi enam sebatan atau dihukum dengan mana-mana kombinasi hukuman itu.
+
+<!-- marginal: Pelacuran. -->
 
 21. (1) Mana-mana orang perempuan yang melacurkan dirinya adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau disebat tidak melebihi enam sebatan atau dihukum dengan mana-mana kombinasi hukuman itu.
 
@@ -520,17 +664,43 @@ persetubuhan dengan orang perempuan yang bukan isterinya yang sah adalah melakuk
 
 (4) Bagi maksud subseksyen (3), mana-mana orang perempuan yang melahirkan anak yang sempurna sifatnya dalam tempoh yang kurang daripada enam bulan qamariah dari tarikh pernikahannya hendaklah disifatkan telah hamil luar nikah.
 
-Perbuatan
+<!-- marginal: Perbuatan -->
 
-24. Mana-mana orang yang melakukan apa-apa perbuatan sebagai sebagai persediaan untuk melakukan persetubuhan luar persediaan nikah adalah melakukan suatu kesalahan dan apabila untuk melakukan disabitkan boleh didenda tidak melebihi tiga ribu ringgit persetubuhan atau dipenjarakan selama tempoh tidak melebihi dua tahun luar nikah. atau kedua-duanya.
+24. Mana-mana orang yang melakukan apa-apa perbuatan
 
-Liwat.
+<!-- marginal: sebagai -->
+
+sebagai persediaan untuk melakukan persetubuhan luar
+
+<!-- marginal: persediaan -->
+
+nikah adalah melakukan suatu kesalahan dan apabila
+
+<!-- marginal: untuk -->
+
+<!-- marginal: melakukan -->
+
+disabitkan boleh didenda tidak melebihi tiga ribu ringgit
+
+<!-- marginal: persetubuhan -->
+
+atau dipenjarakan selama tempoh tidak melebihi dua tahun
+
+<!-- marginal: luar nikah. -->
+
+atau kedua-duanya.
+
+<!-- marginal: Liwat. -->
 
 25. Mana-mana orang lelaki yang melakukan liwat adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau disebat tidak melebihi enam, sebatan atau dihukum dengan mana- mana kombinasi hukuman itu.
 
-26. Mana-mana orang perempuan yang melakukan Musahaqah. musahaqah adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau disebat tidak melebihi enam sebatan atau dihukum dengan mana-mana kombinasi hukuman itu.
+26. Mana-mana orang perempuan yang melakukan
 
-Khalwat.
+<!-- marginal: Musahaqah. -->
+
+musahaqah adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau disebat tidak melebihi enam sebatan atau dihukum dengan mana-mana kombinasi hukuman itu.
+
+<!-- marginal: Khalwat. -->
 
 27. (1) Mana-mana—
 
@@ -608,7 +778,7 @@ suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi tiga ribu ri
 
 <!-- page 18 -->
 
-Takfir
+<!-- marginal: Takfir -->
 
 31. (1) Tertakluk kepada subseksyen (2), mana-mana orang yang mengatakan atau menohmahkan dengan perkataan, sama ada secara lisan atau bertulis, atau dengan isyarat atau gambaran tampak, atau dengan apa-apa perbuatan, aktiviti atau pelakuan, atau dengan menganjurkan, menaja atau membuat perkiraan bagi apa- apa aktiviti atau selainnya dengan apa-apa cara, bahawa mana-mana orang yang menganut agama Islam atau orang yang tergolong dalam apa-apa kumpulan, golongan atau perihalan orang yang menganut agama Islam—
 
@@ -706,21 +876,81 @@ dengan apa-apa cara mempengaruhinya supaya meninggalkan kediaman suami isteri ya
 
 atau kedua-duanya, dan Mahkamah boleh memerintahkan perempuan tersebut supaya kembali kepada suaminya.
 
-Menghalang
+<!-- marginal: Menghalang -->
 
-37. Mana-mana orang yang menghalang sesuatu pasangan pasangan yang sudah bernikah daripada hidup sebagai suami isteri yang sudah bernikah yang sudah bernikah dengan sah adalah melakukan suatu daripada kesalahan dan apabila disabitkan boleh didenda tidak hidup sebagai suami isteri melebihi dua ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya, dan Mahkamah hendaklah memerintahkan pasangan itu supaya hidup sebagai pasangan suami isteri yang sudah bernikah dengan sah.
+37. Mana-mana orang yang menghalang sesuatu pasangan
 
-Menghasut
+<!-- marginal: pasangan -->
 
-38. Mana-mana orang yang menghasut, memaksa atau suami atau memujuk mana-mana orang lelaki atau orang perempuan isteri supaya bercerai atau supaya bercerai atau mengabaikan kewajipan dan mengabaikan tanggungjawabnya sebagai suami atau isteri adalah kewajipan melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua- duanya.
+yang sudah bernikah daripada hidup sebagai suami isteri
 
-Memujuk lari
+<!-- marginal: yang sudah -->
 
-39. Mana-mana orang yang memujuk lari atau mendorong orang atau memujuk mana-mana orang perempuan supaya lari perempuan. daripada jagaan ibu bapanya atau penjaganya adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi tiga ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua- duanya, dan Mahkamah boleh membuat apa-apa perintah yang difikirkannya sesuai berkenaan dengan orang perempuan itu.
+<!-- marginal: bernikah -->
 
-Menjual atau
+yang sudah bernikah dengan sah adalah melakukan suatu
 
-40. Mana-mana orang yang menjual, memberikan atau memberikan menyerahkan anaknya atau kanak-kanak di bawah anak kepada orang bukan peliharaannya kepada mana-mana orang yang tidak Islam beragama Islam adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi tiga ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya, dan Mahkamah boleh membuat apa-apa perintah yang difikirkannya sesuai berkenaan dengan anak atau kanak-kanak itu.
+<!-- marginal: daripada -->
+
+kesalahan dan apabila disabitkan boleh didenda tidak
+
+<!-- marginal: hidup sebagai -->
+
+<!-- marginal: suami isteri -->
+
+melebihi dua ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya, dan Mahkamah hendaklah memerintahkan pasangan itu supaya hidup sebagai pasangan suami isteri yang sudah bernikah dengan sah.
+
+<!-- marginal: Menghasut -->
+
+38. Mana-mana orang yang menghasut, memaksa atau
+
+<!-- marginal: suami atau -->
+
+memujuk mana-mana orang lelaki atau orang perempuan
+
+<!-- marginal: isteri supaya -->
+
+<!-- marginal: bercerai atau -->
+
+supaya bercerai atau mengabaikan kewajipan dan
+
+<!-- marginal: mengabaikan -->
+
+tanggungjawabnya sebagai suami atau isteri adalah
+
+<!-- marginal: kewajipan -->
+
+melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua- duanya.
+
+<!-- marginal: Memujuk lari -->
+
+39. Mana-mana orang yang memujuk lari atau mendorong
+
+<!-- marginal: orang -->
+
+atau memujuk mana-mana orang perempuan supaya lari
+
+<!-- marginal: perempuan. -->
+
+daripada jagaan ibu bapanya atau penjaganya adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi tiga ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua- duanya, dan Mahkamah boleh membuat apa-apa perintah yang difikirkannya sesuai berkenaan dengan orang perempuan itu.
+
+<!-- marginal: Menjual atau -->
+
+40. Mana-mana orang yang menjual, memberikan atau
+
+<!-- marginal: memberikan -->
+
+menyerahkan anaknya atau kanak-kanak di bawah
+
+<!-- marginal: anak kepada -->
+
+<!-- marginal: orang bukan -->
+
+peliharaannya kepada mana-mana orang yang tidak
+
+<!-- marginal: Islam -->
+
+beragama Islam adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi tiga ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya, dan Mahkamah boleh membuat apa-apa perintah yang difikirkannya sesuai berkenaan dengan anak atau kanak-kanak itu.
 
 <!-- page 21 -->
 
@@ -770,23 +1000,73 @@ Huraian 1—Seseorang yang, dengan penyataan salah sengaja, atau penyembunyian s
 
 Huraian 2—Mana-mana orang, sama ada sebelum atau pada masa pelakuan sesuatu perbuatan, melakukan apa-apa jua dengan tujuan memudahkart pelakuan perbuatan itu, dan dengan itu memudahkan pelakuan itu. adalah dikatakan membantu dalam melakukan perbuatan itu.
 
-Menyubahati
+<!-- marginal: Menyubahati -->
 
-44. Seseorang adalah menyubahati sesuatu kesalahan di dalam mengikut pengertian Akta ini jika di dalam Wilayah Wilayah Persekutuan Persekutuan dia menyubahati pelakuan suatu perbuatan kesalahan di di luar Wilayah Persekutuan yang akan menjadi suatu luar Wilayah kesalahan sekiranya dilakukan di Wilayah Persekutuan. Persekutuan.
+44. Seseorang adalah menyubahati sesuatu kesalahan
 
-Hukuman
+<!-- marginal: di dalam -->
 
-45. Mana-mana orang yang menyubahati apa-apa bagi kesalahan hendaklah, jika perbuatan yang disubahati itu penyubahatan. dilakukan menurut penyubahatan itu, dihukum dengan hukuman yang diperuntukkan bagi kesalahan itu.
+mengikut pengertian Akta ini jika di dalam Wilayah
 
-Tanggungan
+<!-- marginal: Wilayah -->
 
-46. Jika sesuatu perbuatan disubahati dan suatu perbuatan penyubahat yang berlainan dilakukan, penyubahat itu bertanggungan jika bagi perbuatan yang dilakukan mengikut cara yang sama perbuatan yang dan sehingga takat yang sama seolah-olah dia telah berlainan menyubahati perbuatan yang dilakukan jika perbuatan dilakukan yang dilakukan—
+<!-- marginal: Persekutuan -->
+
+Persekutuan dia menyubahati pelakuan suatu perbuatan
+
+<!-- marginal: kesalahan di -->
+
+di luar Wilayah Persekutuan yang akan menjadi suatu
+
+<!-- marginal: luar Wilayah -->
+
+kesalahan sekiranya dilakukan di Wilayah Persekutuan.
+
+<!-- marginal: Persekutuan. -->
+
+<!-- marginal: Hukuman -->
+
+45. Mana-mana orang yang menyubahati apa-apa
+
+<!-- marginal: bagi -->
+
+kesalahan hendaklah, jika perbuatan yang disubahati itu
+
+<!-- marginal: penyubahatan. -->
+
+dilakukan menurut penyubahatan itu, dihukum dengan hukuman yang diperuntukkan bagi kesalahan itu.
+
+<!-- marginal: Tanggungan -->
+
+46. Jika sesuatu perbuatan disubahati dan suatu perbuatan
+
+<!-- marginal: penyubahat -->
+
+yang berlainan dilakukan, penyubahat itu bertanggungan
+
+<!-- marginal: jika -->
+
+bagi perbuatan yang dilakukan mengikut cara yang sama
+
+<!-- marginal: perbuatan -->
+
+<!-- marginal: yang -->
+
+dan sehingga takat yang sama seolah-olah dia telah
+
+<!-- marginal: berlainan -->
+
+menyubahati perbuatan yang dilakukan jika perbuatan
+
+<!-- marginal: dilakukan -->
+
+yang dilakukan—
 
 (a) adalah akibat barangkali daripada penyubahatan itu; dan
 
 (b) telah dilakukan dengan pegaruh hasutan itu, atau dengan bantuan atau kerana menurut pakatan jahat yang mewujudkan penyubahatan itu.
 
-Percubaan.
+<!-- marginal: Percubaan. -->
 
 47. (1) Mana-mana orang yang Cuba—
 
@@ -928,9 +1208,21 @@ maka dia hendaklah disifatkan sebagai orang yang tak sempurna akal.
 
 (3) Dalam seksyen ini, "mabuk" hendaklah disifatkan termasuk keadaan yang dihasilkan oleh dadah.
 
-Perbuatan
+<!-- marginal: Perbuatan -->
 
-53. (1) Tidaklah menjadi kesalahan apa-apa jua yang orang yang dilakukan oleh seseorang yang terpaksa melakukannya terpaksa oleh oleh sebab ugutan yang sedemikian sifatnya sehingga sebab ugutan. menyebabkan orang itu semunasabahnya percaya, pada masa dia melakukan perbuatan itu, bahawa jika dia tidak melakukannya dia akan mati pada masa itu juga.
+53. (1) Tidaklah menjadi kesalahan apa-apa jua yang
+
+<!-- marginal: orang yang -->
+
+dilakukan oleh seseorang yang terpaksa melakukannya
+
+<!-- marginal: terpaksa oleh -->
+
+oleh sebab ugutan yang sedemikian sifatnya sehingga
+
+<!-- marginal: sebab ugutan. -->
+
+menyebabkan orang itu semunasabahnya percaya, pada masa dia melakukan perbuatan itu, bahawa jika dia tidak melakukannya dia akan mati pada masa itu juga.
 
 (2) Kecualian di bawah subseksyen (1) tidaklah terpakai jika orang yang melakukan perbuatan itu telah meletakkan dirinya, dengan kerelaannya sendiri, dalam keadaan yang menjadikannya tertakluk kepada paksaan itu,
 
@@ -938,9 +1230,23 @@ Perbuatan
 
 ## PERKARA AM
 
-Penetapan
+<!-- marginal: Penetapan -->
 
-54. Majlis boleh, melalui pemberitahuan dalam Warta, pusat menetapkan mana-mana tempat atau institusi, menjadi pemulihan atau rumah pusat pemulihan diluluskan atau rumah diluluskan bagi diluluskan maksud Akta ini.
+54. Majlis boleh, melalui pemberitahuan dalam Warta,
+
+<!-- marginal: pusat -->
+
+menetapkan mana-mana tempat atau institusi, menjadi
+
+<!-- marginal: pemulihan -->
+
+<!-- marginal: atau rumah -->
+
+pusat pemulihan diluluskan atau rumah diluluskan bagi
+
+<!-- marginal: diluluskan -->
+
+maksud Akta ini.
 
 <!-- page 25 -->
 
@@ -1064,11 +1370,7 @@ sebagai bukan Islam (fasal 31), kesalahan memusnahkan atau mencemarkan masjid, d
 
 8. Bahagian VII mengandungi kecualian am. Antara kecualian am bagi kesalahan-kesalahan yang diperuntukkan di bawah Akta yang dicadangkan ialah perbuatan Hakim apabila bertindak secara kehakiman (fasal 48), perbuatan yang dilakukan menurut penghakiman atau perintah Mahkamah (fasal 49), perbuatan yang dilakukan oleh orang yang mempunyai justifikasi di sisi undang-undang (fasal 50), perbuatan kanak-kanak yang belum baligh (fasal 51), perbuatan orang yang tak sempurna akal (fasal 52) dan perbuatan orang yang terpaksa oleh sebab ugutan (fasal 53).
 
-9.
-
-## Bahagian VIII mengandungi perkara-perkara am. Fasal 54
-
-memberi Majlis kuasa untuk menetapkan pusat pemulihan atau rumah diluluskan. Fasal 55 dan 56 memberi Mahkamah kuasa untuk mengkomitkan orang yang disabitkan atas kesalahan tertentu ke pusat pemulihan diluluskan atau rumah diluluskan. Fasal 57 mengadakan peruntukan bagi pemberhentian pemakaian Bahagian IX kecuali seksyen 164 dan 165, Enakmen 1952 bagi Wilayah Persekutuan. Fasal 58 bertujuan mengubahsuaikan peruntukan seksyen 164 Enakmen 1952 dalam pemakaiannya bagi Wilayah Persekutuan.
+9. Bahagian VIII mengandungi perkara-perkara am. Fasal 54 memberi Majlis kuasa untuk menetapkan pusat pemulihan atau rumah diluluskan. Fasal 55 dan 56 memberi Mahkamah kuasa untuk mengkomitkan orang yang disabitkan atas kesalahan tertentu ke pusat pemulihan diluluskan atau rumah diluluskan. Fasal 57 mengadakan peruntukan bagi pemberhentian pemakaian Bahagian IX kecuali seksyen 164 dan 165, Enakmen 1952 bagi Wilayah Persekutuan. Fasal 58 bertujuan mengubahsuaikan peruntukan seksyen 164 Enakmen 1952 dalam pemakaiannya bagi Wilayah Persekutuan.
 
 ## IMPLIKASI KEWANGAN
 

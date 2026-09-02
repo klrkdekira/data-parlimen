@@ -44,7 +44,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 4. Akta ibu dipinda dengan memasukkan selepas seksyen 20 bahagian yang berikut:
 
-“Bahagian IIIa
+## “BAHAGIAN IIIA
 
 ## PEMUNYAAN BENEFISIAL
 
@@ -140,7 +140,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (6) Jika suatu perkongsian liabiliti terhad mempunyai alasan yang munasabah untuk mempercayai bahawa apa-apa butir-butir pemunya benefisial perkongsian liabiliti terhad yang dinyatakan dalam daftar pemunya benefisial perkongsian liabiliti terhad mungkin tidak betul, perkongsian liabiliti terhad itu hendaklah memberikan notis kepada pemunya benefisial perkongsian liabiliti terhad itu untuk mengesahkan sama ada butir-butir itu adalah betul, dan jika tidak betul, untuk memberikan butir-butir yang betul.
 
-(7) Perkongsian liabiliti terhad dan tiap-tiap pekongsi dan pegawai pematuhan yang melanggar subseksyen (1), (2), (3), (4), (5) atau (6) melakukan suatu kesalahan.
+(7) Perkongsian liabiliti terhad dan tiap-tiap pekongsi dan pegawai pematuhan yang melanggar subseksyen (1), (2), (3),
+
+(4), (5) atau (6) melakukan suatu kesalahan.
 
 (8) Mana-mana orang yang melanggar mana-mana notis di bawah seksyen ini melakukan suatu kesalahan melainkan jika orang itu membuktikan bahawa maklumat yang diperkatakan itu telah berada dalam milikan perkongsian liabiliti terhad itu atau bahawa kehendak untuk memberikan maklumat itu adalah atas apa-apa sebab lain yang remeh atau menyusahkan.
 
@@ -280,7 +282,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 12. Akta ibu dipinda dengan memasukkan selepas Jadual Ketiga jadual yang berikut:
 
-“Jadual Keempat
+## “JADUAL KEEMPAT
 
 [Subseksyen 49B(4)]
 

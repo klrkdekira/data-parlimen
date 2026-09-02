@@ -498,7 +498,7 @@ subparagraph (a)(xiii) the following definition:
 
 25. The principal Act is amended by inserting after Part VI the following part:
 
-“Part VIa
+## “PART VIA
 
 ## NOTIFICATION OF OCCUPATION OF PLACE OF WORK,
 
@@ -620,7 +620,7 @@ subparagraph (a)(xiii) the following definition:
 
 ### “No action against person carrying out occupational health
 
-### service
+<!-- marginal: service -->
 
 28a. No employer shall take any action against any person who carries out an occupational health service for—
 
@@ -1004,7 +1004,9 @@ and that the information has been declared as manufacturing or commercial secret
 
 52. The principal Act is amended by substituting for the First Schedule the following schedule:
 
-“fIrst schedule (Subsection 1(3)) Non-application
+## “FIRST SCHEDULE
+
+(Subsection 1(3)) Non-application
 
 1. Domestic employment in relation to a person who employs another, or is employed, as a domestic servant within the meaning of the Employment Act 1955 [Act 265]
 
@@ -1028,7 +1030,9 @@ and that the information has been declared as manufacturing or commercial secret
 
 54. The principal Act is amended by inserting after the Third Schedule the following schedules:
 
-“fourth schedule [Subsection 3(1)] Serious body injury
+## “FOURTH SCHEDULE
+
+[Subsection 3(1)] Serious body injury
 
 1. Emasculation
 
@@ -1070,7 +1074,7 @@ and that the information has been declared as manufacturing or commercial secret
 
 17. Any other work related injury or burn injury which results in the person injured being admitted immediately into hospital for more than 24 hours
 
-## fIfth schedule
+## FIFTH SCHEDULE
 
 [Paragraph 31b(1)(a)] Activities
 

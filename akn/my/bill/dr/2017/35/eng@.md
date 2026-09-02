@@ -6,7 +6,7 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -16,7 +16,7 @@
 
 3. Non-application
 
-## Part II
+## PART II
 
 ## APPROVAL TO PROVIDE AND LICENCE TO OPERATE PRIVATE AGED
 
@@ -26,7 +26,7 @@
 
 5. Premises for licensed private aged healthcare facilities and services
 
-## Part III
+## PART III
 
 ## APPROVAL
 
@@ -40,7 +40,7 @@
 
 10. Transfer or assignment of approval
 
-## Part IV
+## PART IV
 
 ## LICENCE
 
@@ -64,7 +64,7 @@
 
 19. Transfer or assignment of licence
 
-## Part V
+## PART V
 
 ## DUTY OF LICENSEE AND PERSON IN CHARGE
 
@@ -88,7 +88,7 @@
 
 29. Prohibition on extension or alteration
 
-## Part VI
+## PART VI
 
 ## REVOCATION
 
@@ -104,27 +104,59 @@
 
 <!-- page 3 -->
 
-## Part VII
+## PART VII
 
 ## CLOSURE OF PRIVATE AGED HEALTHCARE FACILITIES AND SERVICES
 
-35. Voluntary closure 36. Closure pursuant to revocation of licence 37. Closure of unlicensed private aged healthcare facilities and services
+35. Voluntary closure
+
+36. Closure pursuant to revocation of licence
+
+37. Closure of unlicensed private aged healthcare facilities and services
 
 ## Part VIII
 
 ## ENFORCEMENT
 
-38. Power of enforcement 39. Power of investigation 40. Inspection of private aged healthcare facilities and services 41. Institution and conduct of prosecution
+38. Power of enforcement
 
-## Part IX
+39. Power of investigation
+
+40. Inspection of private aged healthcare facilities and services
+
+41. Institution and conduct of prosecution
+
+## PART IX
 
 ## GENERAL
 
-42. Other than aged persons may be admitted 43. Register 44. Guidelines and directives 45. Delegation of power 46. Appeal 47. Power to exempt 48. Power to amend Schedules 49. Power to make regulations 50. General penalty 51. Offence by body corporate, partnership or society 52. Compounding of offences 53. Savings and transitional
+42. Other than aged persons may be admitted
 
-## First schedule
+43. Register
 
-## second schedule
+44. Guidelines and directives
+
+45. Delegation of power
+
+46. Appeal
+
+47. Power to exempt
+
+48. Power to amend Schedules
+
+49. Power to make regulations
+
+50. General penalty
+
+51. Offence by body corporate, partnership or society
+
+52. Compounding of offences
+
+53. Savings and transitional
+
+## FIRST SCHEDULE
+
+## SECOND SCHEDULE
 
 <!-- page 5 -->
 
@@ -136,7 +168,7 @@ An Act to provide for the regulation of private aged healthcare facilities and s
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -208,7 +240,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (c) premises where an individual provides healthcare for his aged relative.
 
-## Part II
+## PART II
 
 ## APPROVAL TO PROVIDE AND LICENCE TO OPERATE PRIVATE
 
@@ -256,7 +288,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 9 -->
 
-## Part III
+## PART III
 
 ## APPROVAL
 
@@ -312,7 +344,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- page 11 -->
 
-## Part IV
+## PART IV
 
 ## LICENCE
 
@@ -406,7 +438,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (b) where the licensee or interim licensee is a body corporate, partnership or society, to a fine not exceeding thirty thousand ringgit.
 
-## Part V
+## PART V
 
 ## DUTY OF LICENSEE AND PERSON IN CHARGE
 
@@ -534,7 +566,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (2) An application for any extension or alteration shall be made to the Director General in such manner as the Director General shall determine and shall be accompanied by the prescribed fee.
 
-## Part VI
+## PART VI
 
 ## REVOCATION
 
@@ -586,7 +618,7 @@ or any other offence punishable with imprisonment, in itself only or in addition
 
 34. A licensee shall cease to operate the private aged healthcare facilities and services where the licence to which it relates has been revoked from the date the licensee is notified of the revocation, or within such period as the Director General shall determine.
 
-## Part VII
+## PART VII
 
 ## CLOSURE OF PRIVATE AGED HEALTHCARE FACILITIES AND
 
@@ -666,7 +698,7 @@ or any other offence punishable with imprisonment, in itself only or in addition
 
 (2) Any officer authorized in writing by the Public Prosecutor may conduct the prosecution for any offence under this Act.
 
-## Part IX
+## PART IX
 
 ## GENERAL
 
@@ -796,7 +828,7 @@ or any other offence punishable with imprisonment, in itself only or in addition
 
 <!-- page 29 -->
 
-## First schedule
+## FIRST SCHEDULE
 
 [Sections 2 and 48]
 
@@ -814,7 +846,7 @@ or any other offence punishable with imprisonment, in itself only or in addition
 
 6. Accommodation for the purposes of any healthcare services
 
-## second schedule
+## SECOND SCHEDULE
 
 [Sections 2 and 48]
 
@@ -840,7 +872,7 @@ or any other offence punishable with imprisonment, in itself only or in addition
 
 The proposed Private Aged Healthcare Facilities and Services Act 2017 (“the proposed Act”) seeks to provide for the regulation of private aged healthcare facilities and services and related matters.
 
-## Part I
+## PART I
 
 2. Part I deals with preliminary matters.
 
@@ -850,7 +882,7 @@ Clause 2 contains the definition of certain words and expressions used in the pr
 
 Clause 3 contains provision on the non-application of the proposed Act.
 
-## Part II
+## PART II
 
 3. Part II seeks to provide for the approval to provide a private aged healthcare facilities and services and the licence to operate a private aged healthcare facilities and services.
 
@@ -858,7 +890,7 @@ Clause 4 seeks to empower the Director General of Health to grant the approval t
 
 Clause 5 seeks to specify the premises at which a private aged healthcare facilities and services can be provided and operated.
 
-## Part III
+## PART III
 
 4. Part III deals with matters relating to an application for an approval to provide a private aged healthcare facilities and services.
 
@@ -874,7 +906,7 @@ Clause 10 deals with the transfer or assignment of approval.
 
 <!-- page 31 -->
 
-## Part IV
+## PART IV
 
 5. Part IV deals with matters relating to an application for a licence to operate a private aged healthcare facilities and services.
 
@@ -896,7 +928,7 @@ A licence may be renewed under clause 18.
 
 Clause 19 deals with the transfer or assignment of licence.
 
-## Part V
+## PART V
 
 6. Part V sets out the duties of a licensee and a person in charge.
 
@@ -916,11 +948,11 @@ Clause 28 sets out restrictions on the use of a license private aged healthcare 
 
 Clause 29 deals with the prohibition on the structural or functional extension or alteration of any licensed private aged healthcare facilities and services premises.
 
-## Part VI
+## PART VI
 
 7. Part VI deals with revocation of approval, licence or interim licence. The grounds for such revocation are set out in clause 30. The procedure for such revocation are set out in clauses 31 and 32. Upon such revocation, the approval, licence or interim licence which has been revoked shall be surrendered to the Director General under clause 33. Clause 34 deals with cessation of operation of the private aged healthcare facilities and services whose license has been revoked.
 
-## Part VII
+## PART VII
 
 8. Part VII deals with the closure of private aged healthcare facilities and services.
 
@@ -940,7 +972,7 @@ Clause 41 provides that the prosecution of an offence under the proposed Act sha
 
 <!-- page 33 -->
 
-## Part IX
+## PART IX
 
 10. Part IX deals with general provisions.
 

@@ -40,7 +40,11 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Perubahan nama Perbadanan
 
-5. (1) Perbadanan Produktiviti Negara yang ditubuhkan di bawah seksyen 3 Akta ibu hendaklah, pada dan selepas tarikh permuiaan kuat kuasa, dikenali sebagai "Perbadanan Produktiviti Malaysia".
+5. (1) Perbadanan Produktiviti Negara yang
+
+<!-- marginal: ditubuhkan -->
+
+di bawah seksyen 3 Akta ibu hendaklah, pada dan selepas tarikh permuiaan kuat kuasa, dikenali sebagai "Perbadanan Produktiviti Malaysia".
 
 (2) Segala sebutan mengenai Perbadanan Produktiviti Negara dalam mana-mana undang-undang bertulis atau dalam apa-apa surat cara, surat ikatan, hakmilik, dokumen, bon, perjanjian atau perkiraan kerja yang wujud sebaik sebelum tarikh permuiaan kuat kuasa hendaklah, pada dan selepas tarikh permuiaan kuat kuasa, ditafsirkan sebagai sebutan mengenai Perbadanan Produktiviti Malaysia.
 

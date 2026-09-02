@@ -36,7 +36,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 4. The principal Act is amended by substituting for the First Schedule the following Schedule:
 
-“First s chedule
+## “FIRST S CHEDULE
 
 (Section 3)
 

@@ -298,7 +298,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/23/eng@/~cl_6",
       "schema:text": {
         "@language": "en",
-        "@value": "in the proviso— Deletion of section 16a"
+        "@value": "in the proviso—"
       }
     },
     {
@@ -318,7 +318,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/23/eng@/~cl_6__para_c",
       "schema:text": {
         "@language": "en",
-        "@value": "by deleting the words “and is resident in Malaysia.”."
+        "@value": "by deleting the words “and is resident in Malaysia.”. Deletion of section 16a"
       }
     },
     {

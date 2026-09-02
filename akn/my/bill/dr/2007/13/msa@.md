@@ -72,11 +72,15 @@ shall be punished with imprisonment for a term of not less than five years and n
 
 ### Penggantian seksyen 26
 
-4. Akta ibu dipinda dengan menggantikan seksyen 26 dengan seksyen yang berikut:
+4. Akta ibu dipinda dengan menggantikan seksyen 26 dengan
+
+<!-- marginal: seksyen yang berikut: -->
 
 ### "Pindaan kepada Akta Kanun Keseksaan (Pindaan) 2003
 
-26. Akta Kanun Keseksaan (Pindaan) 2003 [Akta A1210] dipinda— ,
+26. Akta Kanun Keseksaan (Pindaan) 2003 [Akta A1210]
+
+<!-- marginal: dipinda— , -->
 
 (a) dalam seksyen 5, berhubung dengan seksyen 130B —
 

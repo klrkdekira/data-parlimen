@@ -4,35 +4,39 @@
 
 ## ARRANGEMENT OF CLAUSES
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
 1. Short title and commencement 2. Interpretation
 
-## Part II
+## PART II
 
 ## MALAYSIAN BORDER SECURITY AGENCY
 
 3. Establishment of Malaysian Border Security Agency 4. Functions of Agency
 
-## Part III
+## PART III
 
 ## HIGH LEVEL COMMITTEE
 
 5. High Level Committee 6. Meetings of High Level Committee 7. Function of High Level Committee
 
-## Part IV
+## PART IV
 
 ## COORDINATING COMMITTEE
 
-8. Coordinating Committee 9. Meetings of Coordinating Committee 10. Functions of Coordinating Committee
+8. Coordinating Committee 9. Meetings of Coordinating Committee
 
-## Part V
+10. Functions of Coordinating Committee
+
+## PART V
 
 ## OFFICER OF THE AGENCY
 
-11. Appointment of Commissioner General and Deputy Commissioner General of Agency 12. Revocation and resignation of Commissioner General
+11. Appointment of Commissioner General and Deputy Commissioner General of Agency
+
+12. Revocation and resignation of Commissioner General
 
 <!-- page 2 -->
 
@@ -42,7 +46,7 @@
 
 15. Certificate of appointment
 
-## Part VI
+## PART VI
 
 ## GENERAL
 
@@ -72,7 +76,7 @@
 
 28. Regulations
 
-## Part VII
+## PART VII
 
 ## SAVING AND TRANSITIONAL
 
@@ -92,7 +96,7 @@ An act to provide for the establishment of the Malaysian Border Security Agency,
 
 ENACTED by the Parliament of Malaysia as follows:
 
-## Part I
+## PART I
 
 ## PRELIMINARY
 
@@ -130,7 +134,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 “Malaysian land border” means land border between Malaysia and Thailand, Malaysia and Indonesia, and Malaysia and Brunei.
 
-## Part II
+## PART II
 
 ## MALAYSIAN BORDER SECURITY AGENCY
 
@@ -162,7 +166,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (h) generally to perform any other function for ensuring Malaysian land border security and wellbeing or do all matters incidental to its functions.
 
-## Part III
+## PART III
 
 ## HIGH LEVEL COMMITTEE
 
@@ -228,7 +232,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 7. The High Level Committee shall deliberate and decide on the recommendations made by the Coordinating Committee and the Agency or any matter relating to Malaysian land border security.
 
-## Part IV
+## PART IV
 
 ## COORDINATING COMMITTEE
 
@@ -324,7 +328,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (2) The Coordinating Committee may establish any committee as the Coordinating Committee thinks necessary or expedient to assist the Coordinating Committee in the performance of its functions.
 
-## Part V
+## PART V
 
 ## OFFICER OF THE AGENCY
 
@@ -382,7 +386,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 15. A certificate of appointment in the form of an authority card shall be issued to each officer of the Agency appointed under this Act and the card shall be signed by the Commissioner General and shall be prima facie evidence of the appointment under this Act.
 
-## Part VI
+## PART VI
 
 ## GENERAL
 
@@ -472,7 +476,7 @@ commits an offence and shall, on conviction, be punished with imprisonment for a
 
 28. The Minister may make such regulations as are necessary or expedient to give full effect to or for carrying out the provisions of this Act.
 
-## Part VII
+## PART VII
 
 ## SAVING AND TRANSITIONAL
 
@@ -526,7 +530,7 @@ Constable
 
 The proposed Malaysian Border Security Agency Act 2017 (“the proposed Act”) seeks to establish the Malaysian Border Security Agency which shall be employed for securing the Malaysian land border against any smuggling activities or other illegal activities.
 
-## Part I
+## PART I
 
 2. Part I of the proposed Act deals with the preliminary matters.
 
@@ -534,7 +538,7 @@ The proposed Malaysian Border Security Agency Act 2017 (“the proposed Act”) 
 
 4. Clause 2 contains the definitions of words and expressions used in the proposed Act.
 
-## Part II
+## PART II
 
 5. Part II of the proposed Act contains provisions relating to the establishment of the Malaysian Security Border Agency and its functions.
 
@@ -544,7 +548,7 @@ The proposed Malaysian Border Security Agency Act 2017 (“the proposed Act”) 
 
 <!-- page 18 -->
 
-## Part III
+## PART III
 
 8. Part III of the proposed Act contains provisions relating to the establishment of the High Level Committee, its meetings and function.
 
@@ -554,7 +558,7 @@ The proposed Malaysian Border Security Agency Act 2017 (“the proposed Act”) 
 
 11. Clause 7 seeks to provide for the function of the High Level Committee to deliberate and decide on the recommendations made by the Coordinating Committee and the Agency or any matter relating to Malaysian land border security.
 
-## Part IV
+## PART IV
 
 12. Part IV of the proposed Act contains provisions relating to the establishment of the Coordinating Committee, its meetings and functions.
 
@@ -564,7 +568,7 @@ The proposed Malaysian Border Security Agency Act 2017 (“the proposed Act”) 
 
 15. Clause 10 seeks to provide for the functions of the Coordinating Committee and for that purpose, the Coordinating Committee shall have power to establish any committee as the Coordinating Committee thinks necessary or expedient to assist the Coordinating Committee in the performance of its functions.
 
-## Part V
+## PART V
 
 16. Part V of the proposed Act contains provisions relating to the appointment of Commissioner General and Deputies Commissioner General, revocation and resignation of the Commissioner General, appointment of other officers of the Agency and powers of the officers of the Agency.
 
@@ -582,7 +586,7 @@ Board and any other public officers as is considered expedient by the Minister. 
 
 21. Clause 15 seeks to provide for the certificate of appointment to be issued in the form of an authority card to the officers of the Agency.
 
-## Part VI
+## PART VI
 
 22. Part VI of the proposed Act contains provisions relating to the general provisions.
 
@@ -610,7 +614,7 @@ Board and any other public officers as is considered expedient by the Minister. 
 
 33. Clause 28 seeks to empower the Minister to make regulations under the proposed Act.
 
-## Part VII
+## PART VII
 
 34. Part VII of the proposed act contains provisions relating to saving and transitional provisions.
 

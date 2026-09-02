@@ -16,27 +16,13 @@
 
 ## PERMULAAN
 
-1. Tajuk ringkas, pemakaian dan mula berkuatkuasa.
-
-2. Takat pemakaian.
-
-3. Tafsiran.
-
-4. Pengecualian.
+1. Tajuk ringkas, pemakaian dan mula berkuatkuasa. 2. Takat pemakaian. 3. Tafsiran. 4. Pengecualian.
 
 ## BAHAGIAN II
 
 ## PERUMAHAN DAN KEMUDAHAN-KEMUDAHAN LAIN
 
-5. Bangunan hendaklah mematuhi kehendak-kehendak.
-
-6. Bekalan air dan elektrik dan penyenggaraan rumah-rumah.
-
-7. Pembinaan bangunan bertujuan untuk digunakan bagi perumahan pekerja, sebagai suatu pusat asuhan kanak-kanak atau sebagai suatu dewan komuniti.
-
-8. Bangunan yang mengancam kesihatan atau keselamatan.
-
-9. Bangunan yang asalnya tidak dibina bagi perumahan pekerja- pekerja.
+5. Bangunan hendaklah mematuhi kehendak-kehendak. 6. Bekalan air dan elektrik dan penyenggaraan rumah-rumah. 7. Pembinaan bangunan bertujuan untuk digunakan bagi perumahan pekerja, sebagai suatu pusat asuhan kanak-kanak atau sebagai suatu dewan komuniti. 8. Bangunan yang mengancam kesihatan atau keselamatan. 9. Bangunan yang asalnya tidak dibina bagi perumahan pekerja- pekerja.
 
 10. Pusat asuhan kanak-kanak.
 
@@ -54,13 +40,21 @@ III
 
 ## DAN KEBERSIHAN
 
-14. Takrif tanggungan.
-
-15. Majikan hendaklah membina dan menyenggarakan hospital estet.
+14. Takrif tanggungan. 15. Majikan hendaklah membina dan menyenggarakan hospital estet.
 
 <!-- page 2 -->
 
-16. Bayaran dan mendapatkan kembali perbelanjaan hospital oleh majikan. 17. Pekerja sakit yang dimasukkan ke hospital Kerajaan. 18. Mengangkut pekerja yang sakit ke hospital. 19. Rawatan perubatan di estet yang mana suatu hospital tidak disenggarakan. 20. Kewajipan melaporkan kes-kes yang disyaki penyakit berjangkit. 21. Kewajipan majikan mengasingkan pekerja yang mengidap penyakit berjangkit. 22. Kuasa Pegawai Perubatan Kesihatan untuk memerintahkan pengimunan terhadap penyakit berjangkit. 23. Pemeriksaan mingguan ke atas perumahan pekerja. 24. Beban membukti.
+16. Bayaran dan mendapatkan kembali perbelanjaan hospital oleh majikan. 17. Pekerja sakit yang dimasukkan ke hospital Kerajaan. 18. Mengangkut pekerja yang sakit ke hospital. 19. Rawatan perubatan di estet yang mana suatu hospital tidak disenggarakan.
+
+20. Kewajipan melaporkan kes-kes yang disyaki penyakit berjangkit.
+
+21. Kewajipan majikan mengasingkan pekerja yang mengidap penyakit berjangkit.
+
+22. Kuasa Pegawai Perubatan Kesihatan untuk memerintahkan pengimunan terhadap penyakit berjangkit.
+
+23. Pemeriksaan mingguan ke atas perumahan pekerja.
+
+24. Beban membukti.
 
 ## BAHAGIAN
 
@@ -74,7 +68,11 @@ IV
 
 ## PERUNTUKAN-PERUNTUKAN AM, RAYUAN DAN KESALAHAN
 
-26. Menteri boleh meletakhak kepada pegawai-pegawai tertentu kuasa dan kewajipan. 27. Kuasa Ketua Pengarah untuk memeriksa, menyiasat dan mengeluarkan saman. 28. Ketua Pengarah boleh mendakwa. 29. Ketua Pengarah dan pegawai-pegawai disifatkan sebagai pengkhidmat awam. 30. Rayuan. 31. Kegagalan mematuhi perintah di bawah seksyen 5, 8, 12, 15 atau 19. 32. Kegagalan mematuhi seksyen 20 atau 21. 33. Penalti am.
+26. Menteri boleh meletakhak kepada pegawai-pegawai tertentu kuasa dan kewajipan.
+
+27. Kuasa Ketua Pengarah untuk memeriksa, menyiasat dan mengeluarkan saman. 28. Ketua Pengarah boleh mendakwa.
+
+29. Ketua Pengarah dan pegawai-pegawai disifatkan sebagai pengkhidmat awam. 30. Rayuan. 31. Kegagalan mematuhi perintah di bawah seksyen 5, 8, 12, 15 atau 19. 32. Kegagalan mematuhi seksyen 20 atau 21. 33. Penalti am.
 
 ## BAHAGIAN VI
 
@@ -136,7 +134,7 @@ daripadanya, yang terletak di dalam kawasan Majlis Bandaraya, Majlis Perbandaran
 
 (3) Apabila mula berkuatkuasanya sesuatu perintah yang dibuat di bawah subseksyen (2), mana-mana undang- undang bertulis yang berkuatkuasa di kawasan itu, berhubungan dengan kawalan ke atas pembinaan bangunan, hendaklah berkenaan dengan tempat pekerjaan tersebut, terhenti daripada berkuatkuasa.
 
-Tafsiran.
+<!-- marginal: Tafsiran. -->
 
 3. Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—
 
@@ -146,7 +144,11 @@ Tafsiran.
 
 "Jurutera Daerah", berkenaan dengan suatu daerah, ertinya mana-mana jurutera dalam perkhidmatan Kerajaan Persekutuan atau Negeri yang sedang menjalankan tugas- tugas Jabatan Kerja Raya bagi daerah itu dan, bagi maksud seksyen 27 (1), termasuklah mana-mana pegawai yang diberikuasa secara bertulis bagi maksud itu oleh Jurutera Daerah;
 
-"Ketua Pengarah" ertinya Ketua Pengarah Buruh yang Akta 265. dilantik di bawah seksyen 3 (1) Akta Pekerjaan 1955 dan termasuklah mana-mana pegawai yang, menurut suatu
+"Ketua Pengarah" ertinya Ketua Pengarah Buruh yang
+
+<!-- marginal: Akta 265. -->
+
+dilantik di bawah seksyen 3 (1) Akta Pekerjaan 1955 dan termasuklah mana-mana pegawai yang, menurut suatu
 
 <!-- page 5 -->
 
@@ -174,7 +176,11 @@ menjalankan tugas-tugas seorang Pegawai Perubatan Kesihatan di mana-mana kawasan
 
 "pekerja" ertinya seorang pekerja sebagaimana yang ditakrifkan dalam Jadual Pertama Akta Pekerjaan 1955 dan termasuklah tanggungan-tanggungannya;
 
-"pengamal perubatan berdaftar" ertinya seorang pengamal perubatan yang berdaftar di bawah Akta Akta 50 Perubatan 1971;
+"pengamal perubatan berdaftar" ertinya seorang pengamal perubatan yang berdaftar di bawah Akta
+
+<!-- marginal: Akta 50 -->
+
+Perubatan 1971;
 
 "pengamal perubatan residen yang berdaftar", berhubungan dengan suatu estet, ertinya mana-mana pengamal perubatan berdaftar yang diambil kerja oleh majikan dan yang tinggal di estet di mana pekerja-pekerja diambil kerja; "pengurus residen", berhubungan dengan suatu estet, ertinya mana-mana majikan atau ejen seorang majikan yang tinggal di, atau secara langsung bertanggungjawab ke atas, estet yang pekerja-pekerja itu diambil bekerja;
 
@@ -282,9 +288,57 @@ untuk digunakan, menyebabkan Pegawai Perubatan Kesihatan mengambil sampel bekala
 
 (5) Jika apa-apa tambahan atau pengubahan struktur telah dibuat kepada bangunan tanpa kebenaran Ketua Pengarah, Ketua Pengarah boleh, setelah memberi satu bulan notis, menghendaki majikan supaya tambahan atau pengubahan struktur itu dirobohkan.
 
-Pembinaan
+<!-- marginal: Pembinaan -->
 
-7. (1) Berhubungan dengan suatu bangunan yang hendak bangunan dibina atau ditukar bagi perumahan pekerja atau bagi bertujuan untuk kegunaan sebagai pusat asuhan kanak-kanak atau sebagai digunakan dewan komuniti, hendaklah dikemukakan oleh majikan bagi perumahan kepada Ketua Pengarah untuk kelulusan pihak berkuasa pekerja, yang meluluskan sebagaimana yang diperuntukkan di sebagai bawah ini dalam subseksyen (2), pelan bangunan dan suatu pusat asuhan kanak- pelan tapaknya, dan tiada kerja yang berhubung dengan kanak atau bangunan tersebut boleh dimulakan melainkan jika dan sebagai suatu dewan sehingga pelan-pelan yang dikemukakan itu telah komuniti. diluluskan.
+7. (1) Berhubungan dengan suatu bangunan yang hendak
+
+<!-- marginal: bangunan -->
+
+dibina atau ditukar bagi perumahan pekerja atau bagi
+
+<!-- marginal: bertujuan -->
+
+<!-- marginal: untuk -->
+
+kegunaan sebagai pusat asuhan kanak-kanak atau sebagai
+
+<!-- marginal: digunakan -->
+
+dewan komuniti, hendaklah dikemukakan oleh majikan
+
+<!-- marginal: bagi -->
+
+<!-- marginal: perumahan -->
+
+kepada Ketua Pengarah untuk kelulusan pihak berkuasa
+
+<!-- marginal: pekerja, -->
+
+yang meluluskan sebagaimana yang diperuntukkan di
+
+<!-- marginal: sebagai -->
+
+bawah ini dalam subseksyen (2), pelan bangunan dan
+
+<!-- marginal: suatu pusat -->
+
+<!-- marginal: asuhan kanak- -->
+
+pelan tapaknya, dan tiada kerja yang berhubung dengan
+
+<!-- marginal: kanak atau -->
+
+bangunan tersebut boleh dimulakan melainkan jika dan
+
+<!-- marginal: sebagai suatu -->
+
+<!-- marginal: dewan -->
+
+sehingga pelan-pelan yang dikemukakan itu telah
+
+<!-- marginal: komuniti. -->
+
+diluluskan.
 
 (2) Pihak berkuasa yang meluluskan yang disebut terdahulu hendaklah—
 
@@ -340,13 +394,39 @@ kekurangan atau kecacatan dalam masa dan tertakluk kepada syarat-syarat sebagaim
 
 (4) Tiada perintah di bawah subseksyen (3), boleh dikeluarkan melainkan jika satu salinan laporan yang diterima oleh Ketua Pengarah daripada Pegawai Perubatan Kesihatan atau Jurutera Daerah atau kedua-duanya telah diberikan kepada majikan, dan dalam membuat perintah itu Ketua Pengarah hendaklah memberikan pertimbangan yang wajar terhadap apa-apa representasi yang mungkin dibuat oleh majikan berkenaan dengan laporan yang disebut terdahulu.
 
-Bangunan
+<!-- marginal: Bangunan -->
 
-9. (1) Suatu bangunan yang asalnya dibina bagi maksud yang asalnya selain daripada perumahan pekerja-pekerja tidak boleh tidak dibina bagi digunakan untuk, atau ditukarkan bagi maksud, perumahan perumahan pekerja-pekerja, melainkan jika suatu pekerja- pekerja. permohonan bagi maksud itu telah dibuat kepada dan diluluskan oleh Ketua Pengarah.
+9. (1) Suatu bangunan yang asalnya dibina bagi maksud
 
-(2) Permohonan yang dikehendaki dibuat di bawah subseksyen (1) hendaklah disertai dengan satu pelan tapak bangunan dan satu pelan yang menunjukkan detail-detail tentang bangunan atau tentang pertukaran yang dicadangkan dibuat kepadanya dan peruntukan- peruntukan seksyen 7 (2) dan 7 (3) hendaklah terpakai bagi pelan sedemikian sebagaimana ia terpakai bagi pelan suatu bangunan atau tapak bangunan yang disebut dalam seksyen itu. Pusat asuhan
+<!-- marginal: yang asalnya -->
 
-10. (1) Jika terdapat pekerja-pekerja yang menetap di kanak-kanak. tempat pekerjaan dan pekerja-pekerja sedemikian
+selain daripada perumahan pekerja-pekerja tidak boleh
+
+<!-- marginal: tidak dibina -->
+
+<!-- marginal: bagi -->
+
+digunakan untuk, atau ditukarkan bagi maksud,
+
+<!-- marginal: perumahan -->
+
+perumahan pekerja-pekerja, melainkan jika suatu
+
+<!-- marginal: pekerja- -->
+
+<!-- marginal: pekerja. -->
+
+permohonan bagi maksud itu telah dibuat kepada dan diluluskan oleh Ketua Pengarah.
+
+(2) Permohonan yang dikehendaki dibuat di bawah subseksyen (1) hendaklah disertai dengan satu pelan tapak bangunan dan satu pelan yang menunjukkan detail-detail tentang bangunan atau tentang pertukaran yang dicadangkan dibuat kepadanya dan peruntukan- peruntukan seksyen 7 (2) dan 7 (3) hendaklah terpakai bagi pelan sedemikian sebagaimana ia terpakai bagi pelan suatu bangunan atau tapak bangunan yang disebut dalam seksyen itu.
+
+<!-- marginal: Pusat asuhan -->
+
+10. (1) Jika terdapat pekerja-pekerja yang menetap di
+
+<!-- marginal: kanak-kanak. -->
+
+tempat pekerjaan dan pekerja-pekerja sedemikian
 
 <!-- page 13 -->
 
@@ -462,11 +542,37 @@ III
 
 ## DAN KEBERSIHAN
 
-Takrif 14. Bagi maksud-maksud Bahagian ini "tanggungan" tanggungan. ertinya ahli keluarga pekerja, yakni, suami atau isteri, bapa, ibu dan anak-anak di bawah umur lapan belas tahun, termasuklah anak-anak yang diambil sebagai anak angkat mengikut mana-mana undang-undang bertulis, yang tinggal bersama-sama dengan dan bergantung kepada pekerja.
+<!-- marginal: Takrif -->
 
-Majikan
+14. Bagi maksud-maksud Bahagian ini "tanggungan"
 
-15. (1) Ketua Pengarah boleh, pada bila-bila masa hendaklah membina dengan perintah bertulis, menghendaki mana-mana dan me- majikan membina dalam suatu masa yang munasabah nyenggarakan hospital yang dinyatakan dalam perintah itu dan kemudian estet. daripada itu menyenggarakan atas perbelanjaannya sendiri, sebuah hospital, kemudian daripada ini disebut "hospital estet", di mana-mana estet atau kawasan berhampiran dengan mana-mana estet yang pekerja- pekerja diambil bekerja olehnya dengan tempat penginapan bagi bilangan pesakit-pesakit sebagaimana yang dinyatakan dalam perintah itu.
+<!-- marginal: tanggungan. -->
+
+ertinya ahli keluarga pekerja, yakni, suami atau isteri, bapa, ibu dan anak-anak di bawah umur lapan belas tahun, termasuklah anak-anak yang diambil sebagai anak angkat mengikut mana-mana undang-undang bertulis, yang tinggal bersama-sama dengan dan bergantung kepada pekerja.
+
+<!-- marginal: Majikan -->
+
+15. (1) Ketua Pengarah boleh, pada bila-bila masa
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: membina -->
+
+dengan perintah bertulis, menghendaki mana-mana
+
+<!-- marginal: dan me- -->
+
+majikan membina dalam suatu masa yang munasabah
+
+<!-- marginal: nyenggarakan -->
+
+<!-- marginal: hospital -->
+
+yang dinyatakan dalam perintah itu dan kemudian
+
+<!-- marginal: estet. -->
+
+daripada itu menyenggarakan atas perbelanjaannya sendiri, sebuah hospital, kemudian daripada ini disebut "hospital estet", di mana-mana estet atau kawasan berhampiran dengan mana-mana estet yang pekerja- pekerja diambil bekerja olehnya dengan tempat penginapan bagi bilangan pesakit-pesakit sebagaimana yang dinyatakan dalam perintah itu.
 
 (2) Jika sudah ada suatu hospital yang disenggarakan oleh majikan itu, Ketua Pengarah boleh, melalui perintah secara bertulis, menghendaki majikan membesarkan atau menambah kepada hospital itu bagi menyediakan tempat tinggal bagi suatu bilangan pesakit tambahan sebagaimana yang dinyatakan dalam perintah itu.
 
@@ -488,23 +594,63 @@ Majikan
 
 <!-- page 18 -->
 
-kumpulan itu, mengikut mana yang berkenaan, yang didaftarkan mengikut peruntukan-peruntukan Akta Akta 43 Hospital Swasta 1971 dan mana-mana peraturan yang dibuat di bawahnya.
+kumpulan itu, mengikut mana yang berkenaan, yang didaftarkan mengikut peruntukan-peruntukan Akta
+
+<!-- marginal: Akta 43 -->
+
+Hospital Swasta 1971 dan mana-mana peraturan yang dibuat di bawahnya.
 
 (8) Tiada majikan yang sudah membina dan menyenggarakan suatu hospital estet atau suatu hospital estet kumpulan, sama ada menurut suatu perintah daripada Ketua Pengarah di bawah seksyen ini atau selainnya, boleh mengurangkan bilangan katil atau menghentikan penyenggaraan dan urusan hospital estet atau hospital estet kumpulan itu tanpa terlebih dahulu mendapat kebenaran bertulis daripada Ketua Pengarah.
 
-Bayaran
+<!-- marginal: Bayaran -->
 
-16. (1) Adalah menjadi kewajipan tiap-tiap majikan dan men- menyediakan bagi tiap-tiap pekerja yang diambil kerja di dapatkan kembali per- suatu estet termasuklah tanggungan-tanggungannya yang belanjaan tinggal di estet itu atau mana-mana tanah lain yang hospital dipunyai atau dipajak oleh atau di dalam kawalan majikan oleh majikan. itu, layanan, jagaan, dan rawatan perubatan termasuklah sajian makanan di hospital estet atau hospital estet kumpulan yang ditubuhkan di bawah seksyen 15 atau di klinik estet yang ditubuhkan di bawah seksyen 19.
+16. (1) Adalah menjadi kewajipan tiap-tiap majikan
+
+<!-- marginal: dan men- -->
+
+menyediakan bagi tiap-tiap pekerja yang diambil kerja di
+
+<!-- marginal: dapatkan -->
+
+<!-- marginal: kembali per- -->
+
+suatu estet termasuklah tanggungan-tanggungannya yang
+
+<!-- marginal: belanjaan -->
+
+tinggal di estet itu atau mana-mana tanah lain yang
+
+<!-- marginal: hospital -->
+
+dipunyai atau dipajak oleh atau di dalam kawalan majikan
+
+<!-- marginal: oleh -->
+
+<!-- marginal: majikan. -->
+
+itu, layanan, jagaan, dan rawatan perubatan termasuklah sajian makanan di hospital estet atau hospital estet kumpulan yang ditubuhkan di bawah seksyen 15 atau di klinik estet yang ditubuhkan di bawah seksyen 19.
 
 (2) Majikan boleh mendapatkan kembali daripada pekerja itu perbelanjaan bagi jagaan, rawatan dan sara hidup pada kadar sebagaimana yang boleh ditetapkan oleh Menteri dari semasa ke semasa melalui pemberitahuan dalam Warta berkenaan dengan mana-mana tempoh melebihi 30 hari yang pekerja itu atau mana-mana daripada tanggungannya berada di dalam hospital.
 
-Pekerja
+<!-- marginal: Pekerja -->
 
-17. (1) Jika seorang pekerja pada waktu dia dimasukkan sakit yang ke hospital Kerajaan bekerja dan tinggal di mana-mana dimasukkan ke hospital estet majikan hendaklah membayar perbelanjaan sara Kerajaan. hidup dan rawatan di hospital itu bagi pekerja itu dan bagi mana-mana tanggungan pekerja itu pada kadar sebagaimana yang boleh ditetapkan oleh Menteri dari semasa ke semasa melalui pemberitahuan dalam Warta.
+17. (1) Jika seorang pekerja pada waktu dia dimasukkan
 
-(2) Perbelanjaan yang dilakukan di bawah subseksyen
+<!-- marginal: sakit yang -->
 
-(1) hendaklah apa jua pun amaunnya, boleh didapatkan kembali daripada majikan dalam suatu Mahkamah Sivil apabila dituntut oleh Pegawai Perubatan penjaga hospital
+ke hospital Kerajaan bekerja dan tinggal di mana-mana
+
+<!-- marginal: dimasukkan -->
+
+<!-- marginal: ke hospital -->
+
+estet majikan hendaklah membayar perbelanjaan sara
+
+<!-- marginal: Kerajaan. -->
+
+hidup dan rawatan di hospital itu bagi pekerja itu dan bagi mana-mana tanggungan pekerja itu pada kadar sebagaimana yang boleh ditetapkan oleh Menteri dari semasa ke semasa melalui pemberitahuan dalam Warta.
+
+(2) Perbelanjaan yang dilakukan di bawah subseksyen (1) hendaklah apa jua pun amaunnya, boleh didapatkan kembali daripada majikan dalam suatu Mahkamah Sivil apabila dituntut oleh Pegawai Perubatan penjaga hospital
 
 <!-- page 19 -->
 
@@ -538,9 +684,33 @@ residen atas perbelanjaan mereka sendiri—
 
 <!-- page 20 -->
 
-Rawatan
+<!-- marginal: Rawatan -->
 
-19. (1) Di mana-mana estet yang tiada didapati hospital perubatan estet atau hospital estet kumpulan, Ketua Pengarah boleh, di estet dengan perintah, selepas berunding dengan Pegawai yang mana suatu Perubatan Kesihatan, menghendaki seseorang majikan hospital menubuhkan dan menyenggarakan sebuah klinik atau tidak di- senggarakan. membuat peruntukan-peruntukan lain sebagaimana yang perlu bagi rawatan pekerja-pekerja dan tanggungan mereka yang sakit.
+19. (1) Di mana-mana estet yang tiada didapati hospital
+
+<!-- marginal: perubatan -->
+
+estet atau hospital estet kumpulan, Ketua Pengarah boleh,
+
+<!-- marginal: di estet -->
+
+dengan perintah, selepas berunding dengan Pegawai
+
+<!-- marginal: yang mana -->
+
+<!-- marginal: suatu -->
+
+Perubatan Kesihatan, menghendaki seseorang majikan
+
+<!-- marginal: hospital -->
+
+menubuhkan dan menyenggarakan sebuah klinik atau
+
+<!-- marginal: tidak di- -->
+
+<!-- marginal: senggarakan. -->
+
+membuat peruntukan-peruntukan lain sebagaimana yang perlu bagi rawatan pekerja-pekerja dan tanggungan mereka yang sakit.
 
 (2) Ketua Pengarah hendaklah menyatakan dalam perintah itu perkhidmatan-perkhidmatan, ubatan-ubatan, peralatan dan kakitangan yang hendak disediakan dan masa kemudahan rawatan itu boleh didapati oleh pekerja- pekerja dan tanggungan mereka.
 
@@ -550,9 +720,31 @@ Rawatan
 
 (4) Tiada majikan yang sudah menubuhkan dan menyenggarakan suatu klinik, sama ada menurut suatu perintah Ketua Pengarah yang dibuat di bawah seksyen ini atau selainnya, boleh mengurangkan perkhidmatan, kemudahan atau kakitangan atau menghentikan pe- nyenggaraan dan urusan klinik itu tanpa terlebih dahulu mendapat kebenaran bertulis daripada Ketua Pengarah.
 
-Kewajipan
+<!-- marginal: Kewajipan -->
 
-20. (1) Adalah menjadi kewajipan pengamal perubatan melaporkan residen yang berdaftar, atau dalam ketakhadiran atau jika kes-kes yang disyaki tiada pengamal perubatan residen yang berdaftar, penyakit pengurus residen, mengasingkan dengan serta-merta berjangkit. mana-mana pekerja atau orang lain di suatu estet yang disyakinya mengidap apa-apa penyakit berjangkit Akta 342. sebagaimana yang ditakrifkan dalam Akta Pencegahan dan Kawalan Penyakit Berjangkit 1988, dan menahan di bawah pemerhatian mana-mana orang lain yang disifat- kannya berkemungkinan telah mendapat penyakit itu dan dengan secepat mungkin memberitahu Pegawai Perubatan yang terdekat, dan sementara menunggu ketibaan Pegawai
+20. (1) Adalah menjadi kewajipan pengamal perubatan
+
+<!-- marginal: melaporkan -->
+
+residen yang berdaftar, atau dalam ketakhadiran atau jika
+
+<!-- marginal: kes-kes -->
+
+<!-- marginal: yang disyaki -->
+
+tiada pengamal perubatan residen yang berdaftar,
+
+<!-- marginal: penyakit -->
+
+pengurus residen, mengasingkan dengan serta-merta
+
+<!-- marginal: berjangkit. -->
+
+mana-mana pekerja atau orang lain di suatu estet yang disyakinya mengidap apa-apa penyakit berjangkit
+
+<!-- marginal: Akta 342. -->
+
+sebagaimana yang ditakrifkan dalam Akta Pencegahan dan Kawalan Penyakit Berjangkit 1988, dan menahan di bawah pemerhatian mana-mana orang lain yang disifat- kannya berkemungkinan telah mendapat penyakit itu dan dengan secepat mungkin memberitahu Pegawai Perubatan yang terdekat, dan sementara menunggu ketibaan Pegawai
 
 <!-- page 21 -->
 
@@ -590,13 +782,57 @@ Pegawai Perubatan, menyediakan suatu tempat bagi seorang pekerja boleh diasingka
 
 <!-- page 22 -->
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-22. Pegawai Perubatan Kesihatan boleh pada bila-bila Pegawai masa jika didapatinya perlu bagi kesihatan pekerja- Perubatan Kesihatan pekerja yang bekerja di mana-mana estet, dengan perintah untuk me- bertulis kepada majikan atau pengurus residen, merintahkan pengimunan mengarahkan majikan atau pengurus residen itu membuat terhadap persiapan atas perbelanjaannya sendiri supaya kesemua penyakit berjangkit. atau mana-mana pekerja dan tanggungan mereka diberi pengimunan terhadap apa-apa penyakit berjangkit.
+22. Pegawai Perubatan Kesihatan boleh pada bila-bila
 
-Pemeriksaan
+<!-- marginal: Pegawai -->
 
-23. (1) Adalah menjadi kewajipan majikan suatu tempat mingguan pekerjaan di mana pekerja-pekerja dan tanggungan ke atas perumahan mereka disediakan rumah tempat tinggal untuk pekerja. memastikan bahawa—
+masa jika didapatinya perlu bagi kesihatan pekerja-
+
+<!-- marginal: Perubatan -->
+
+<!-- marginal: Kesihatan -->
+
+pekerja yang bekerja di mana-mana estet, dengan perintah
+
+<!-- marginal: untuk me- -->
+
+bertulis kepada majikan atau pengurus residen,
+
+<!-- marginal: merintahkan -->
+
+<!-- marginal: pengimunan -->
+
+mengarahkan majikan atau pengurus residen itu membuat
+
+<!-- marginal: terhadap -->
+
+persiapan atas perbelanjaannya sendiri supaya kesemua
+
+<!-- marginal: penyakit -->
+
+<!-- marginal: berjangkit. -->
+
+atau mana-mana pekerja dan tanggungan mereka diberi pengimunan terhadap apa-apa penyakit berjangkit.
+
+<!-- marginal: Pemeriksaan -->
+
+23. (1) Adalah menjadi kewajipan majikan suatu tempat
+
+<!-- marginal: mingguan -->
+
+pekerjaan di mana pekerja-pekerja dan tanggungan
+
+<!-- marginal: ke atas -->
+
+<!-- marginal: perumahan -->
+
+mereka disediakan rumah tempat tinggal untuk
+
+<!-- marginal: pekerja. -->
+
+memastikan bahawa—
 
 (a) kawasan di sekeliling perumahan pekerja sentiasa bersih daripada semak dan disenggara- kan dalam keadaan bersih dan sihat;
 
@@ -606,7 +842,11 @@ Pemeriksaan
 
 (d) semua tandas dan bilik air komunal dijaga dalam keadaan bersih, sihat dan boleh digunakan.
 
-(2) Adalah menjadi kewajipan majikan untuk memastikan bahawa semua bangunan yang digunakan bagi perumahan pekerja, pusat asuhan kanak-kanak atau dewan komuniti dilawati dan diperiksa setiap minggu oleh seorang pembantu hospital estet yang didaftarkan di Akta 12/1965. bawah Akta Pembantu Hospital Estet (Pendaftaran) 1965 atau mana-mana orang lain yang bertanggungjawab yang diberikuasa oleh majikan hendaklah membuat laporan kepada pengurus residen jika bangunan tidak dijaga dengan bersih atau jika sampah sarap dibiarkan bertimbun di sekitar bangunan, dan juga hendaklah memeriksa dan jika perlu membawa, atau menyebabkan dibawa, ke hospital mana-mana pekerja yang dijumpai dalam
+(2) Adalah menjadi kewajipan majikan untuk memastikan bahawa semua bangunan yang digunakan bagi perumahan pekerja, pusat asuhan kanak-kanak atau dewan komuniti dilawati dan diperiksa setiap minggu oleh seorang pembantu hospital estet yang didaftarkan di
+
+<!-- marginal: Akta 12/1965. -->
+
+bawah Akta Pembantu Hospital Estet (Pendaftaran) 1965 atau mana-mana orang lain yang bertanggungjawab yang diberikuasa oleh majikan hendaklah membuat laporan kepada pengurus residen jika bangunan tidak dijaga dengan bersih atau jika sampah sarap dibiarkan bertimbun di sekitar bangunan, dan juga hendaklah memeriksa dan jika perlu membawa, atau menyebabkan dibawa, ke hospital mana-mana pekerja yang dijumpai dalam
 
 <!-- page 23 -->
 
@@ -666,7 +906,35 @@ sementara) yang digunakan bagi perumahan pekerja, atau sebagai pusat asuhan kana
 
 ## KESALAHAN
 
-Menteri boleh 26. Menteri boleh melalui perintah meletakhak kepada meletakhak seseorang pegawai yang dilantik di bawah seksyen 3 (2) kepada pegawai- Akta Pekerjaan 1955 dan Ketua Pengarah Kebajikan pegawai Masyarakat dan pegawai-pegawai yang diberikuasa yang tertentu kuasa dan kewajipan. dilantik di bawah Akta Taman Asuhan Kanak-Kanak 1984 Akta 265. kesemua atau mana-mana kuasa yang diberikan kepada Akta 308
+<!-- marginal: Menteri boleh -->
+
+26. Menteri boleh melalui perintah meletakhak kepada
+
+<!-- marginal: meletakhak -->
+
+seseorang pegawai yang dilantik di bawah seksyen 3 (2)
+
+<!-- marginal: kepada -->
+
+<!-- marginal: pegawai- -->
+
+Akta Pekerjaan 1955 dan Ketua Pengarah Kebajikan
+
+<!-- marginal: pegawai -->
+
+Masyarakat dan pegawai-pegawai yang diberikuasa yang
+
+<!-- marginal: tertentu kuasa -->
+
+<!-- marginal: dan kewajipan. -->
+
+dilantik di bawah Akta Taman Asuhan Kanak-Kanak 1984
+
+<!-- marginal: Akta 265. -->
+
+kesemua atau mana-mana kuasa yang diberikan kepada
+
+<!-- marginal: Akta 308 -->
 
 <!-- page 25 -->
 
@@ -768,9 +1036,7 @@ pengkhidmat awam bagi maksud Kanun Keseksaan.
 
 (2) Sesuatu rayuan terhadap perintah atau keputusan seorang pegawai yang dilantik di bawah seksyen 26 tidak boleh dibawa kepada Menteri melainkan dan sehingga rayuan itu telah terlebih dahulu dibawa kepada Ketua Pengarah dalam masa yang ditetapkan dalam subseksyen
 
-(1).
-
-(3) Keputusan Menteri berkenaan dengan sesuatu rayuan di bawah seksyen ini adalah muktamad.
+(1). (3) Keputusan Menteri berkenaan dengan sesuatu rayuan di bawah seksyen ini adalah muktamad.
 
 <!-- marginal: Kegagalan -->
 
@@ -796,11 +1062,21 @@ disabitkan, boleh didenda tidak melebihi lima ribu ringgit
 
 dan didenda tambahan sebanyak seratus ringgit sehari bagi setiap hari kesalahan itu diteruskan.
 
-Kegagalan
+<!-- marginal: Kegagalan -->
 
-32. Mana-mana pengurus residen yang gagal mematuhi mematuhi peruntukan-peruntukan seksyen 20 atau mana-mana seksyen 20 atau 21. kehendak Pegawai Perubatan Kesihatan di bawah seksyen 21 adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi dua ribu ringgit dan didenda tambahan sebanyak seratus ringgit sehari bagi setiap hari kesalahan itu diteruskan.
+32. Mana-mana pengurus residen yang gagal mematuhi
 
-Penalti am.
+<!-- marginal: mematuhi -->
+
+peruntukan-peruntukan seksyen 20 atau mana-mana
+
+<!-- marginal: seksyen 20 -->
+
+<!-- marginal: atau 21. -->
+
+kehendak Pegawai Perubatan Kesihatan di bawah seksyen 21 adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi dua ribu ringgit dan didenda tambahan sebanyak seratus ringgit sehari bagi setiap hari kesalahan itu diteruskan.
+
+<!-- marginal: Penalti am. -->
 
 33. Mana-mana majikan yang melanggar mana-mana peruntukan Akta ini atau mana-mana peraturan yang dibuat di bawahnya atau yang gagal menjalankan mana- mana perintah yang dibuat oleh Ketua Pengarah di bawah Akta ini, adalah melakukan suatu kesalahan di bawah peruntukan itu, dan jika tiada penalti diperuntukkan dengan nyata bagi kesalahan itu, apabila disabitkan, boleh didenda tidak melebihi dua ribu ringgit dan didenda tambahan tidak melebihi seratus ringgit sehari bagi setiap hari kesalahan itu diteruskan.
 
@@ -808,9 +1084,21 @@ Penalti am.
 
 ## PEMANSUHAN DAN KECUALIAN
 
-Pemansuhan
+<!-- marginal: Pemansuhan -->
 
-34. (1) Undang-undang bertulis yang ditentukan dalam dan kecualian Jadual kepada Akta ini adalah dengan ini dimansuhkan. berkenaan dengannya. (2) Mana-mana peraturan yang dibuat di bawah mana- mana undang-undang yang dimansuhkan dalam subseksyen (1) hendaklah terus berkuatkuasa sehingga dibatalkan atau digantikan dengan peraturan-peraturan yang dibuat di bawah Akta ini.
+34. (1) Undang-undang bertulis yang ditentukan dalam
+
+<!-- marginal: dan -->
+
+<!-- marginal: kecualian -->
+
+Jadual kepada Akta ini adalah dengan ini dimansuhkan.
+
+<!-- marginal: berkenaan -->
+
+<!-- marginal: dengannya. -->
+
+(2) Mana-mana peraturan yang dibuat di bawah mana- mana undang-undang yang dimansuhkan dalam subseksyen (1) hendaklah terus berkuatkuasa sehingga dibatalkan atau digantikan dengan peraturan-peraturan yang dibuat di bawah Akta ini.
 
 (3) Menteri boleh, bilamana didapatinya perlu atau suaimanfaat untuk berbuat demikian sama ada bagi maksud mengatasi kesulitan atau disebabkan oleh lulusnya Akta ini, dengan perintah membuat ubahsuaian- ubahsuaian kepada raana-mana peruntukan dalam mana- mana peraturan dalam subseksyen (2) sebagaimana yang difikirkannya patut.
 
@@ -842,7 +1130,9 @@ Rang Undang-Undang ini bertujuan menetapkan standard-standard minimum perumahan 
 
 ## RANG UNDANG-UNDANG
 
-5. Fasal 3 mentakrifkan pelbagai ungkapan yang digunakan dalam Rang Undang-Undang yang kecuali bagi beberapa takrif baru pada asasnya diterbitkan daripada undang-undang yang sedia ada. Istilah "bangunan" telah diberi suatu pengertian khusus bagi merujuk kepada mana-mana bangunan yang digunakan bagi perumahan pekerja- pekerja dan termasuklah suatu pusat asuhan kanak-kanak dan dewan komuniti. Ungkapan "estet" telah ditakrifkan semula bagi memperluaskan skop liputan Rang Undang-Undang; kini ia merujuk kepada mana-mana tanah pertanian yang melebihi dua puluh hektar luasnya dan termasuklah lombong dan mana-mana tempat pekerjaan yang lain sebagaimana yang boleh ditentukan oleh Menteri. 6. Fasal 4 bertujuan memperuntukkan Menteri mengecualikan dengan perintah mana-mana majikan atau bangunan daripada peruntukan-peruntukan Rang Undang-Undang ini.
+5. Fasal 3 mentakrifkan pelbagai ungkapan yang digunakan dalam Rang Undang-Undang yang kecuali bagi beberapa takrif baru pada asasnya diterbitkan daripada undang-undang yang sedia ada. Istilah "bangunan" telah diberi suatu pengertian khusus bagi merujuk kepada mana-mana bangunan yang digunakan bagi perumahan pekerja- pekerja dan termasuklah suatu pusat asuhan kanak-kanak dan dewan komuniti. Ungkapan "estet" telah ditakrifkan semula bagi memperluaskan skop liputan Rang Undang-Undang; kini ia merujuk kepada mana-mana tanah pertanian yang melebihi dua puluh hektar luasnya dan termasuklah lombong dan mana-mana tempat pekerjaan yang lain sebagaimana yang boleh ditentukan oleh Menteri.
+
+6. Fasal 4 bertujuan memperuntukkan Menteri mengecualikan dengan perintah mana-mana majikan atau bangunan daripada peruntukan-peruntukan Rang Undang-Undang ini.
 
 ## BAHAGIAN II
 

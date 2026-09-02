@@ -103,7 +103,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/eng@/~cl_2",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after the definition of \"principal customs area\" the following definition: ' \"proper officer of the Authority\" means any officer of the Authority acting in the fulfilment of his duties under the Act, whether such duties are assigned to him specially or generally, or expressly or by implication;'. Amendment"
+        "@value": "by inserting after the definition of \"principal customs area\" the following definition: ' \"proper officer of the Authority\" means any officer of the Authority acting in the fulfilment of his duties under the Act, whether such duties are assigned to him specially or generally, or expressly or by implication;'."
       }
     },
     {
@@ -111,9 +111,13 @@
       "@type": "akn:clause",
       "eli:number": "3",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 17(1) of the principal Act is amended by"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Subsection 17(1) of the principal Act is amended by of subsection deleting the word \"industrial\" appearing before the word 17(1). \"zone\". Amendment"
+        "@value": "deleting the word \"industrial\" appearing before the word \"zone\"."
       }
     },
     {
@@ -121,54 +125,27 @@
       "@type": "akn:clause",
       "eli:number": "4",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 42 of the principal Act is amended by"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "Section 42 of the principal Act is amended by of section renumbering it as subsection (1) of that section and by 42. inserting after the renumbered subsection (1) the following subsection: \"(2) Any ship to ship transfer within the port limits of a free zone shall be deemed to have been done within such zone.\". New sections"
+        "@value": "renumbering it as subsection (1) of that section and by 42. inserting after the renumbered subsection (1) the following subsection: \"(2) Any ship to ship transfer within the port limits of a free zone shall be deemed to have been done within such zone.\"."
       }
     },
     {
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/eng@/~cl_5",
       "@type": "akn:clause",
       "eli:number": "5",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/eng@/~cl_5__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/eng@/~cl_5__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/eng@/~cl_5__subsec_2"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section"
+      },
       "schema:text": {
         "@language": "en",
-        "@value": "The principal Act is amended by inserting after section 42A, 42B 42 the following sections: and 42c. 42A. (1) No goods shall be brought into, or be loaded or water-borne to be loaded to be taken into and from a out from, any free zone by sea— free zone by sea."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/eng@/~cl_5__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/eng@/~cl_5",
-      "schema:text": {
-        "@language": "en",
-        "@value": "except at a legal landing place; and"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/eng@/~cl_5__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/eng@/~cl_5",
-      "schema:text": {
-        "@language": "en",
-        "@value": "until permission to do so has been received from the proper officer of the Authority."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/eng@/~cl_5__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/eng@/~cl_5",
-      "schema:text": {
-        "@language": "en",
-        "@value": "Except with the permission of the proper officer of the Authority, no such goods, after having been landed or unshipped, shall be transhipped. Movement 42B. No goods shall be brought into, or be taken of goods out from, any free zone by air except at a customs into and from a airport. free zone by air. Movement 42c. No goods shall be brought into, or be taken of goods out from, any free zone by road or rail except into and from a at prescribed places of import or export and, free zone where a route has been prescribed, by such by road route.\". or rail."
+        "@value": "42 the following sections: 42A. (1) No goods shall be brought into, or be loaded or water-borne to be loaded to be taken into and from a out from, any free zone by sea— free zone by sea. (a) except at a legal landing place; and (b) until permission to do so has been received from the proper officer of the Authority. (2) Except with the permission of the proper officer of the Authority, no such goods, after having been landed or unshipped, shall be transhipped. Movement 42B. No goods shall be brought into, or be taken of goods out from, any free zone by air except at a customs into and from a airport. free zone by air. Movement 42c. No goods shall be brought into, or be taken of goods out from, any free zone by road or rail except into and from a at prescribed places of import or export and, free zone where a route has been prescribed, by such by road route.\". or rail."
       }
     }
   ]

@@ -22,45 +22,121 @@
 
 ## POWERS OF BOARD OF DIRECTORS
 
-8. The Board of Directors 9. Powers and functions of the Board 10. Delegation of powers and functions of the Board 11. Committees of the Board 12. The Board of Studies
+8. The Board of Directors 9. Powers and functions of the Board
+
+10. Delegation of powers and functions of the Board
+
+11. Committees of the Board
+
+12. The Board of Studies
 
 ## PART IV OFFICERS AND OTHER
 
 ## STAFF OF THE AKADEMI
 
-13. Appointment, powers and duties of Rector and Deputy Rector 14. Registrar
+13. Appointment, powers and duties of Rector and Deputy Rector
+
+14. Registrar
 
 <!-- page 2 -->
 
-: 15. Bursar 16. Appointment of other staff
+:
+
+15. Bursar
+
+16. Appointment of other staff
 
 ## PART V PROVISIONS RELATING TO
 
 ## STUDENTS
 
-17. Discipline of students of the Akademi 18. Students' Representative Committee 19. Establishment of other student bodies 20. Dissolution of the SRC or other student body 21. Prohibition on student or students' organization, body or group associating with societies, etc. except as approved by the Minister 22. Prohibition on collection of money by student or by organization, body or group of students 23. Criminal liability of office-bearers, etc., of a students' organization, body or group 24. Presumptions 25. Suspension and expulsion of student charged with a criminal offence or against whom a criminal offence is proved 26. Board's power to suspend or expel a student from the Akademi
+17. Discipline of students of the Akademi
+
+18. Students' Representative Committee
+
+19. Establishment of other student bodies
+
+20. Dissolution of the SRC or other student body
+
+21. Prohibition on student or students' organization, body or group associating with societies, etc. except as approved by the Minister
+
+22. Prohibition on collection of money by student or by organization, body or group of students
+
+23. Criminal liability of office-bearers, etc., of a students' organization, body or group
+
+24. Presumptions
+
+25. Suspension and expulsion of student charged with a criminal offence or against whom a criminal offence is proved
+
+26. Board's power to suspend or expel a student from the Akademi
 
 ## PART VI
 
 ## FINANCE
 
-27. Establishment of Fund 28. Conservation of Fund 29. Power to invest 30. Annual estimates 31. Statutory Bodies (Accounts and Annual Reports) Act 1980 32. Imposition of surcharge
+27. Establishment of Fund
+
+28. Conservation of Fund
+
+29. Power to invest
+
+30. Annual estimates
+
+31. Statutory Bodies (Accounts and Annual Reports) Act 1980
+
+32. Imposition of surcharge
 
 ## PART VII
 
 ## GENERAL
 
-33. Power of Minister to give directions 34. Power of Minister to delegate 35. Convocation
+33. Power of Minister to give directions
+
+34. Power of Minister to delegate
+
+35. Convocation
 
 <!-- page 3 -->
 
-Akademi Seni Budaya dan Warisan Kebangsaan 36. Public Authorities Protection Act 1948 37. Public servants 38. Obligation of secrecy 39. Civil proceedings 40. Act or omission done in good faith 41. Service 42. Power of Board to make rules 43. Amendment of Schedule
+Akademi Seni Budaya dan Warisan Kebangsaan
+
+36. Public Authorities Protection Act 1948
+
+37. Public servants
+
+38. Obligation of secrecy
+
+39. Civil proceedings
+
+40. Act or omission done in good faith
+
+41. Service
+
+42. Power of Board to make rules
+
+43. Amendment of Schedule
 
 ## PART VIII
 
 ## TRANSITIONAL
 
-44. Revocation of registration of the Akademi Seni Kebangsaan 45. Transfer of powers, rights, duties, etc. 46. Transfer of property 47. Existing contracts 48. Continuance of civil and criminal proceedings 49. Transfer of fund 50. Continuance of officers and staff 51. Students 52. Pending disciplinary proceedings
+44. Revocation of registration of the Akademi Seni Kebangsaan
+
+45. Transfer of powers, rights, duties, etc.
+
+46. Transfer of property
+
+47. Existing contracts
+
+48. Continuance of civil and criminal proceedings
+
+49. Transfer of fund
+
+50. Continuance of officers and staff
+
+51. Students
+
+52. Pending disciplinary proceedings
 
 ## SCHEDULE
 
@@ -420,7 +496,7 @@ fa) references to the Board shall be construed as references to the committee; a
 
 (6) Where the Minister does not reject the appeal under subsection
 
-### (5), he shall appoint a committee of two or more persons, from
+(5), he shall appoint a committee of two or more persons, from
 
 ### within or outside the Akademi, to consider the appeal and make
 

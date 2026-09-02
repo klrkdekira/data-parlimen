@@ -14,9 +14,7 @@ Naskhah Sahih—Bahasa Malaysia
 
 ## PERMULAAN
 
-1. Tajuk ringkas dan mula berkuatkuasa.
-
-2. Tafsiran.
+1. Tajuk ringkas dan mula berkuatkuasa. 2. Tafsiran.
 
 ## BAHAGIAN
 
@@ -24,17 +22,7 @@ II
 
 ## PELINDUNG, PENDAFTAR DAN DAFTAR
 
-3. Perlantikan Pelindung.
-
-4. Perlantikan Pendaftar.
-
-5. Daftar.
-
-6. Kandungan Daftar.
-
-7. Akses kepada Daftar.
-
-8. Kesalahan-kesalahan berkenaan dengan Daftar.
+3. Perlantikan Pelindung. 4. Perlantikan Pendaftar. 5. Daftar. 6. Kandungan Daftar. 7. Akses kepada Daftar. 8. Kesalahan-kesalahan berkenaan dengan Daftar.
 
 ## BAHAGIAN HI
 
@@ -62,13 +50,31 @@ IV
 
 <!-- page 2 -->
 
-15. Pemeriksaan dan rawatan perubatan. 16. Kebenaran bagi rawatan perubatan. 17. Tiada liabiliti ditanggung kerana memberikan kebenaran. 18. Kawalan ke atas kanak-kanak yang dimasukkan ke hospital. 19. Kewajipan pengamal perubatan dan kuasa pegawai perubatan. 20. Langkah-langkah yang hendaklah diambil berkenaan dengan kanak-kanak selepas pemeriksaan atau rawatan perubatan.
+15. Pemeriksaan dan rawatan perubatan.
+
+16. Kebenaran bagi rawatan perubatan.
+
+17. Tiada liabiliti ditanggung kerana memberikan kebenaran.
+
+18. Kawalan ke atas kanak-kanak yang dimasukkan ke hospital.
+
+19. Kewajipan pengamal perubatan dan kuasa pegawai perubatan.
+
+20. Langkah-langkah yang hendaklah diambil berkenaan dengan kanak-kanak selepas pemeriksaan atau rawatan perubatan.
 
 ## BAHAGIAN V
 
 ## PROSEDUR MAHKAMAH
 
-21. Pengemukaan kanak-kanak di hadapan Mahkamah Juvana. 22. Kuasa-kuasa Mahkamah Juvana. 23. Perintah sumbangan. 24. Pembatalan atau pengubahan perintah. 25. Kawalan ke atas kanak-kanak yang diletakkan dalam jagaan orang yang layak atau tempat selamat.
+21. Pengemukaan kanak-kanak di hadapan Mahkamah Juvana.
+
+22. Kuasa-kuasa Mahkamah Juvana.
+
+23. Perintah sumbangan.
+
+24. Pembatalan atau pengubahan perintah.
+
+25. Kawalan ke atas kanak-kanak yang diletakkan dalam jagaan orang yang layak atau tempat selamat.
 
 ## BAHAGIAN VI
 
@@ -76,7 +82,11 @@ IV
 
 ## KESIHATAN DAN KEBAJIKAN KANAK-KANAK
 
-26. Penganiayaan, pengabaian, pendedahan atau peninggalan kanak-kanak. 27. Kanak-kanak tidak boleh digunakan untuk mengemis. 28. Kesalahan kerana membiarkan kanak-kanak tinggal tanpa pengawasan yang berpatutan.
+26. Penganiayaan, pengabaian, pendedahan atau peninggalan kanak-kanak.
+
+27. Kanak-kanak tidak boleh digunakan untuk mengemis.
+
+28. Kesalahan kerana membiarkan kanak-kanak tinggal tanpa pengawasan yang berpatutan.
 
 ## BAHAGIAN VII
 
@@ -84,7 +94,13 @@ IV
 
 ## KE DALAM PEMELIHARAAN, JAGAAN ATAU KAWALAN
 
-29. Pemakaian dan tafsiran. 30. Pemberitahuan tentang pengambilan ke dalam pemeliharaan, jagaan atau kawalan. 31. Obligasi-obligasi kemudiannya. 32. Kuasa Pelindung untuk menghendaki kanak-kanak dikemukakan di hadapannya.
+29. Pemakaian dan tafsiran.
+
+30. Pemberitahuan tentang pengambilan ke dalam pemeliharaan, jagaan atau kawalan.
+
+31. Obligasi-obligasi kemudiannya.
+
+32. Kuasa Pelindung untuk menghendaki kanak-kanak dikemukakan di hadapannya.
 
 ## BAHAGIAN VIII
 
@@ -94,13 +110,7 @@ IV
 
 <!-- page 3 -->
 
-34. Pembawaan masuk kanak-kanak melalui dakwaan palsu.
-
-35. Kuasa untuk memeriksa kanak-kanak dan orang-orang yang menjaganya.
-
-36. Kuasa Pelindung untuk menghendaki jaminan.
-
-37. Pemeriksaan.
+34. Pembawaan masuk kanak-kanak melalui dakwaan palsu. 35. Kuasa untuk memeriksa kanak-kanak dan orang-orang yang menjaganya. 36. Kuasa Pelindung untuk menghendaki jaminan. 37. Pemeriksaan.
 
 ## BAHAGIAN
 
@@ -108,17 +118,11 @@ IX
 
 ## PELBAGAI
 
-38. Kuasa untuk menggeledah premis.
-
-39. Menghalang Pelindung atau pegawai polls melaksanakan fungsi-fungsinya.
-
-40. Memindahkan atau menolong kanak-kanak lepas lari dari jagaan.
+38. Kuasa untuk menggeledah premis. 39. Menghalang Pelindung atau pegawai polls melaksanakan fungsi-fungsinya. 40. Memindahkan atau menolong kanak-kanak lepas lari dari jagaan.
 
 41. Perlindungan identiti kanak-kanak.
 
-42. Penalti am.
-
-43. Kuasa untuk menangkap tanpa waran.
+42. Penalti am. 43. Kuasa untuk menangkap tanpa waran.
 
 44. Tempat-tempat selamat.
 
@@ -176,7 +180,11 @@ Kanak-kanak 1991.
 
 <!-- page 6 -->
 
-"Ketua Pengarah" ertinya Ketua Pengarah Kebajikan Masyarakat; "Majlis" ertinya Majlis Penyelaras bagi Perlindungan Kanak-kanak yang ditubuhkan di bawah seksyen 9; "Pasukan Perlindungan Kanak-kanak" ertinya suatu pasukan yang ditubuhkan oleh Majlis di bawah seksyen 12; "pegawai kanan polis" mempunyai erti yang diberikan Akta 344. kepadanya dalam Akta Polis 1967; "pegawai kebajikan masyarakat" ertinya mana-mana pegawai kebajikan masyarakat di kementerian atau jabatan yang bertanggungjawab bagi perkhidmatan kebajikan;
+"Ketua Pengarah" ertinya Ketua Pengarah Kebajikan Masyarakat; "Majlis" ertinya Majlis Penyelaras bagi Perlindungan Kanak-kanak yang ditubuhkan di bawah seksyen 9; "Pasukan Perlindungan Kanak-kanak" ertinya suatu pasukan yang ditubuhkan oleh Majlis di bawah seksyen 12; "pegawai kanan polis" mempunyai erti yang diberikan
+
+<!-- marginal: Akta 344. -->
+
+kepadanya dalam Akta Polis 1967; "pegawai kebajikan masyarakat" ertinya mana-mana pegawai kebajikan masyarakat di kementerian atau jabatan yang bertanggungjawab bagi perkhidmatan kebajikan;
 
 "pegawai perubatan" ertinya seseorang pengamal perubatan berdaftar dalam perkhidmatan kerajaan dan termasuk seseorang pengamal perubatan berdaftar di mana-mana hospital pengajar sesuatu Universiti; "pegawai polis" mempunyai erti yang diberikan kepadanya dalam Akta Polis 1967; "Pelindung" ertinya—
 
@@ -208,7 +216,11 @@ pengamal perubatan yang didaftarkan di bawah Akta Perubatan 1971;
 
 (a) kanak-kanak itu telah atau besar kemungkinan kanak-kanak itu akan dicederakan dari segi fizikal, dicederakan dari segi emosi atau dianiayai dari segi seks oleh penjaganya;
 
-(b) kanak-kanak itu telah atau besar kemungkinan kanak-kanak itu akan dicederakan dart segi fizikal atau dicederakan dari segi emosi atau dianiayai dari segi seks dan penjaganya, yang tahu tentang kecederaan atau penganiayaan atau kemungkinan sedemikian, telah tidak melindungi atau tidak mungkin akan melindungi kanak-kanak itu daripada kecederaan atau penganiayaan sedemikian;
+(b) kanak-kanak itu telah atau besar kemungkinan kanak-kanak itu akan dicederakan dart segi fizikal atau dicederakan dari segi emosi atau dianiayai dari segi seks dan penjaganya, yang tahu tentang kecederaan atau penganiayaan atau kemungkinan sedemikian, telah
+
+<!-- marginal: tidak -->
+
+melindungi atau tidak mungkin akan melindungi kanak-kanak itu daripada kecederaan atau penganiayaan sedemikian;
 
 (c) penjaga kanak-kanak itu tak layak, atau telah abai atau tak upaya, menjalankan pengawasan dan pengawalan yang sepatutnya ke atas kanak-
 
@@ -226,7 +238,11 @@ kanak itu dan kanak-kanak itu raula terlibat dalam pergaulan yang tidak sihat, a
 
 (h) terdapat pertelingkahan yang sedemikian rupa di antara kanak-kanak itu dengan penjaganya, atau di antara penjaga-penjaganya, sehinggakan hubungan kekeluargaan terganggu dengan serius, dan yang demikian itu menyebabkan kanak-kanak itu mengalami kecederaan emosi;
 
-(i) kanak-kanak itu ialah seorang yang berkenaan dengannya mana-mana kesalahan yang tersebut N.M.B. dalam Bab XVI Kanun Keseksaan atau mana-
+(i) kanak-kanak itu ialah seorang yang berkenaan dengannya mana-mana kesalahan yang tersebut
+
+<!-- marginal: N.M.B. -->
+
+dalam Bab XVI Kanun Keseksaan atau mana-
 
 ## Bab 45.
 
@@ -262,25 +278,45 @@ II
 
 ## PELINDUNG. PENDAFTAR DAN DAFTAR
 
-Perlantikan
+<!-- marginal: Perlantikan -->
 
-3. Menteri boleh melantik, melalui pemberitahuan yang Pelindung. disiarkan dalam Warta, mana-mana pegawai dalam perkhidmatan awam untuk menjalankan kuasa-kuasa dan melaksanakan kewajipan-kewajipan seorang Pelindung di bawah Akta ini tertakluk kepada apa-apa syarat yang dinyatakan dalam pemberitahuan itu.
+3. Menteri boleh melantik, melalui pemberitahuan yang
 
-Perlantikan
+<!-- marginal: Pelindung. -->
 
-4. Menteri boleh melantik seorang pegawai kebajikan Pendaftar. masyarakat untuk menjadi Pendaftar Kanak-kanak yang Memerlukan Perlindungan.
+disiarkan dalam Warta, mana-mana pegawai dalam perkhidmatan awam untuk menjalankan kuasa-kuasa dan melaksanakan kewajipan-kewajipan seorang Pelindung di bawah Akta ini tertakluk kepada apa-apa syarat yang dinyatakan dalam pemberitahuan itu.
 
-Daftar.
+<!-- marginal: Perlantikan -->
+
+4. Menteri boleh melantik seorang pegawai kebajikan
+
+<!-- marginal: Pendaftar. -->
+
+masyarakat untuk menjadi Pendaftar Kanak-kanak yang Memerlukan Perlindungan.
+
+<!-- marginal: Daftar. -->
 
 5. Pendaftar hendaklah menyebabkan disimpan dan disenggarakan, dalam bentuk yang difikirkannya sesuai, suatu daftar yang hendaklah dikenali sebagai Daftar Kanak-kanak yang Memerlukan Perlindungan.
 
-Kandungan
+<!-- marginal: Kandungan -->
 
-6. Daftar hendaklah mengandungi butir-butir tentang Daftar. tiap-tiap kes atau kes disyaki kanak-kanak yang memerlukan perlindungan dan apa-apa perkara lain, yang berhubungan dengan kes atau kes disyaki itu, yang ditentukan dari seraasa ke semasa oleh Ketua Pengarah.
+6. Daftar hendaklah mengandungi butir-butir tentang
 
-Akses
+<!-- marginal: Daftar. -->
 
-7. (1) Butir-butir yang dimasukkan dalam Daftar kepada hendaklah diberikan kepada mana-mana Mahkamah jika Daftar. ada di hadapan Mahkamah itu apa-apa presiding berkenaan dengan kanak-kanak yang memerlukan perlindungan, apabila diminta oleh Mahkamah itu, dan kepada—
+tiap-tiap kes atau kes disyaki kanak-kanak yang memerlukan perlindungan dan apa-apa perkara lain, yang berhubungan dengan kes atau kes disyaki itu, yang ditentukan dari seraasa ke semasa oleh Ketua Pengarah.
+
+<!-- marginal: Akses -->
+
+7. (1) Butir-butir yang dimasukkan dalam Daftar
+
+<!-- marginal: kepada -->
+
+hendaklah diberikan kepada mana-mana Mahkamah jika
+
+<!-- marginal: Daftar. -->
+
+ada di hadapan Mahkamah itu apa-apa presiding berkenaan dengan kanak-kanak yang memerlukan perlindungan, apabila diminta oleh Mahkamah itu, dan kepada—
 
 (a) Ketua Pengarah;
 
@@ -358,25 +394,23 @@ Perlindungan Kanak-kanak.
 
 (d) menyelaraskan pelbagai sumber jabatan-jabatan kerajaan yang terlibat dengan perlindungan kanak-kanak;
 
-(e) membangunkan program-program
-
-<!-- marginal: untuk -->
-
-mendidik orang ramai dalam pencegahan penganiayaan dan pengabaian kanak-kanak;
+(e) membangunkan program-program untuk mendidik orang ramai dalam pencegahan penganiayaan dan pengabaian kanak-kanak;
 
 (f) menyelia pengurusan, operasi dan amalan Pasukan Perlindungan Kanak-kanak di seluruh negara;
 
 (g) menyelaraskan dan memberikan nasihat tentang pembangunan program-program latihan bagi anggota-anggota Pasukan Perlindungan Kanak- kanak di seluruh negara;
 
-(h) menyelesaikan apa-apa pertelingkahan yang mungkin berbangkit dalam
-
-<!-- marginal: Pasukan -->
-
-Perlindungan Kanak-kanak; dan
+(h) menyelesaikan apa-apa pertelingkahan yang mungkin berbangkit dalam Pasukan Perlindungan Kanak-kanak; dan
 
 (i) melaksanakan apa-apa fungsi lain yang ditetapkan melalui peraturan-peraturan yang dibuat di bawah Akta ini.
 
-Keanggotaan 10. (1) Majlis hendaklah terdiri daripada anggota- Majlis. anggota yang berikut:
+<!-- marginal: Keanggotaan -->
+
+10. (1) Majlis hendaklah terdiri daripada anggota-
+
+<!-- marginal: Majlis. -->
+
+anggota yang berikut:
 
 (a) Ketua Pengarah yang hendaklah menjadi Pengerusi;
 
@@ -412,7 +446,23 @@ Keanggotaan 10. (1) Majlis hendaklah terdiri daripada anggota- Majlis. anggota y
 
 <!-- page 14 -->
 
-Persidangan 11. (1) Majlis hendaklah bermesyuarat sekurang- dan per- kurangnya empat kali dalam satu tahun pada masa dan jalanan presiding di tempat yang ditetapkan oleh Pengerusi. Majlis. (2) Pengerusi atau, jika dia tidak nadir, Timbalan Pengerusi atau, jika kedua-duanya tidak hadir, mana- mana anggota yang dilantik untuk mempengerusikan mesyuarat, dan enam orang anggota lain hendaklah membentuk kuorum di sesuatu mesyuarat Majlis.
+<!-- marginal: Persidangan -->
+
+11. (1) Majlis hendaklah bermesyuarat sekurang-
+
+<!-- marginal: dan per- -->
+
+kurangnya empat kali dalam satu tahun pada masa dan
+
+<!-- marginal: jalanan -->
+
+<!-- marginal: presiding -->
+
+di tempat yang ditetapkan oleh Pengerusi.
+
+<!-- marginal: Majlis. -->
+
+(2) Pengerusi atau, jika dia tidak nadir, Timbalan Pengerusi atau, jika kedua-duanya tidak hadir, mana- mana anggota yang dilantik untuk mempengerusikan mesyuarat, dan enam orang anggota lain hendaklah membentuk kuorum di sesuatu mesyuarat Majlis.
 
 (3) Tiap-tiap mesyuarat Majlis hendaklah dipengerusikan oleh Pengerusi atau, jika dia tidak hadir, oleh Timbalan Pengerusi atau, jika kedua-duanya tidak hadir, oleh seorang anggota yang dilantik oleh anggota- anggota yang hadir daripada kalangan mereka sendiri.
 
@@ -426,7 +476,23 @@ mempengerusikan mesyuarat, hendaklah mempunyai undi pemutus.
 
 (6) Majlis boleh melantik apa-apa jawatankuasa daripada anggota-anggotanya dengan atau tanpa orang- orang lain sebagaimana yang ditentukannya dan setiap jawatankuasa hendaklah menentukan prosedurnya sendiri.
 
-Penubuhan 12. (1) Majlis hendaklah menubuhkan, di seluruh Pasukan- negara, kumpulan-kumpulan orang, setiap kumpulan Pasukan Perlindungan hendaklah dikenali sebagai "Pasukan Perlindungan Kanak-kanak. Kanak-kanak", bagi maksud menyelaraskan perkhidmatan-perkhidmatan setempat kepada keluarga- keluarga dan kanak-kanak jika kanak-kanak adalah atau disyaki memerlukan perlindungan.
+<!-- marginal: Penubuhan -->
+
+12. (1) Majlis hendaklah menubuhkan, di seluruh
+
+<!-- marginal: Pasukan- -->
+
+negara, kumpulan-kumpulan orang, setiap kumpulan
+
+<!-- marginal: Pasukan -->
+
+<!-- marginal: Perlindungan -->
+
+hendaklah dikenali sebagai "Pasukan Perlindungan
+
+<!-- marginal: Kanak-kanak. -->
+
+Kanak-kanak", bagi maksud menyelaraskan perkhidmatan-perkhidmatan setempat kepada keluarga- keluarga dan kanak-kanak jika kanak-kanak adalah atau disyaki memerlukan perlindungan.
 
 (2) Setiap Pasukan Perlindungan Kanak-kanak hendaklah terdiri daripada anggota-anggota yang berikut:
 
@@ -440,7 +506,11 @@ Negeri atau Pegawai Kebajikan Masyarakat Daerah; (ii) dalam hal Sabah, Pengarah 
 
 (c) seorang pegawai kanan polis.
 
-(3) Setiap Pasukan Perlindungan Kanak-kanak hendaklah mempunyai kuasa untuk membawa turut s'erta dari semasa ke semasa mana-mana orang lain yang semunasabahnya diperlukan olehnya untuk mem- bolehkannya melaksanakan fungsi-fungsi dan tugas- tugasnya dengan mencukupi atau sebagaimana yang diperlukan oleh hal keadaan setiap kes, termasuk mana- mana orang yang berkelayakan untuk memberikan nasihat tentang faktor-faktor peribumi, etnik, kebudayaan atau agama yang relevan.
+(3) Setiap Pasukan Perlindungan Kanak-kanak hendaklah mempunyai kuasa untuk membawa turut s'erta dari semasa ke semasa mana-mana orang lain yang semunasabahnya diperlukan olehnya untuk mem- bolehkannya melaksanakan fungsi-fungsi dan tugas- tugasnya dengan mencukupi atau sebagaimana yang diperlukan oleh hal keadaan setiap kes, termasuk mana- mana orang yang berkelayakan untuk memberikan nasihat tentang faktor-faktor peribumi,
+
+<!-- marginal: etnik, -->
+
+kebudayaan atau agama yang relevan.
 
 ## BAHAGIAN
 
@@ -486,9 +556,27 @@ diberitahu tentang pengambilan itu; dan
 
 (b) jika orang itu ialah seorang pegawai polis, memberitahu Pelindung tentang pengambilan itu.
 
-Kanak-kanak
+<!-- marginal: Kanak-kanak -->
 
-14. (1) Jika Pelindung atau pegawai polis yang yang mengambil seseorang kanak-kanak ke dalam jagaan memerlukan pemeriksaan sementara di bawah subseksyen 13 (1) berpendapat atau rawatan bahawa kanak-kanak itu memerlukan pemeriksaan atau perubatan. rawatan perubatan, Pelindung atau pegawai polis itu boleh tidak membawa kanak-kanak itu ke tempat selamat tetapi sebaliknya mengemukakan kanak-kanak itu ke hadapan pegawai perubatan.
+14. (1) Jika Pelindung atau pegawai polis yang
+
+<!-- marginal: yang -->
+
+mengambil seseorang kanak-kanak ke dalam jagaan
+
+<!-- marginal: memerlukan -->
+
+<!-- marginal: pemeriksaan -->
+
+sementara di bawah subseksyen 13 (1) berpendapat
+
+<!-- marginal: atau rawatan -->
+
+bahawa kanak-kanak itu memerlukan pemeriksaan atau
+
+<!-- marginal: perubatan. -->
+
+rawatan perubatan, Pelindung atau pegawai polis itu boleh tidak membawa kanak-kanak itu ke tempat selamat tetapi sebaliknya mengemukakan kanak-kanak itu ke hadapan pegawai perubatan.
 
 (2) Jika pada masa dia diambil ke dalam jagaan di bawah subseksyen 13 (1) seseorang kanak-kanak ialah seorang pesakit di sesuatu hospital, Pelindung atau pegawai polis yang mengambilnya ke dalam jagaan bolehlah meninggalkan kanak-kanak itu di hospital itu.
 
@@ -544,15 +632,47 @@ perubatan, kanak-kanak yang disebutkan dalam seksyen
 
 (2) tidak dapat diperolehi atau jika terdapat risiko hampir kepada kesihatan kanak-kanak itu, seorang Pelindung boleh membenarkan apa-apa rawatan yang difikirkan perlu oleh seorang pegawai perubatan.
 
-Tiada
+<!-- marginal: Tiada -->
 
-17. (1) Jika seseorang kanak-kanak diperiksa atau liabiliti dirawat menurut seksyen 15 atau 16, Pelindung atau ditanggung kerana pegawai polis yang membenarkan pemeriksaan atau memberikan rawatan itu, pegawai perubatan yang memeriksa atau kebenaran. merawat kanak-kanak itu, dan semua orang yang bertindak membantu pegawai perubatan itu, tidaklah menanggung apa-apa liabiliti di sisi undang-undang hanya oleh sebab seseorang kanak-kanak telah diperiksa atau dirawat menurut seksyen itu.
+17. (1) Jika seseorang kanak-kanak diperiksa atau
+
+<!-- marginal: liabiliti -->
+
+dirawat menurut seksyen 15 atau 16, Pelindung atau
+
+<!-- marginal: ditanggung -->
+
+<!-- marginal: kerana -->
+
+pegawai polis yang membenarkan pemeriksaan atau
+
+<!-- marginal: memberikan -->
+
+rawatan itu, pegawai perubatan yang memeriksa atau
+
+<!-- marginal: kebenaran. -->
+
+merawat kanak-kanak itu, dan semua orang yang bertindak membantu pegawai perubatan itu, tidaklah menanggung apa-apa liabiliti di sisi undang-undang hanya oleh sebab seseorang kanak-kanak telah diperiksa atau dirawat menurut seksyen itu.
 
 (2) Tiada apa-apa jua yang terkandung dalam subseksyen (1) mengecualikan seseorang pegawai perubatan daripada liabiliti berkenaan dengan pemeriksaan atau rawatan seseorang kanak-kanak jika liabiliti itu ialah liabiliti yang kepadanya dia akan terdedah sekiranya pemeriksaan atau rawatan itu telah dijalankan atau diberikan dengan keizinan penjaga kanak-kanak itu atau orang yang mempunyai kuasa untuk mengizinkan pemeriksaan atau rawatan itu,
 
-Kawalan
+<!-- marginal: Kawalan -->
 
-18. Jika seseorang kanak-kanak yang diambil ke dalam ke atas jagaan sementara di bawah subseksyen 13 (1) atau kanak-kanak yang di- subseksyen 14 (4) dimasukkan ke hospital, maka Ketua masukkan ke hospital.
+18. Jika seseorang kanak-kanak yang diambil ke dalam
+
+<!-- marginal: ke atas -->
+
+jagaan sementara di bawah subseksyen 13 (1) atau
+
+<!-- marginal: kanak-kanak -->
+
+<!-- marginal: yang di- -->
+
+subseksyen 14 (4) dimasukkan ke hospital, maka Ketua
+
+<!-- marginal: masukkan -->
+
+<!-- marginal: ke hospital. -->
 
 <!-- page 19 -->
 
@@ -632,13 +752,39 @@ dibawa ke hadapan Mahkamah Juvana,
 
 ## PROSEDUR MAHKAMAH
 
-Pengemukaan 21. (1) Tertakluk kepada subseksyen (2) dan (3), tiap- kanak-kanak tiap kanak-kanak yang diambil ke dalam jagaan di bawah di hadapan Mahkamah subseksyen 13 (1) hendaklah, dalam masa dua puluh Juvana. empat jam dari masa dia diambil ke dalam jagaan sedemikian, dibawa ke hadapan Mahkamah Juvana.
+<!-- marginal: Pengemukaan -->
+
+21. (1) Tertakluk kepada subseksyen (2) dan (3), tiap-
+
+<!-- marginal: kanak-kanak -->
+
+tiap kanak-kanak yang diambil ke dalam jagaan di bawah
+
+<!-- marginal: di hadapan -->
+
+<!-- marginal: Mahkamah -->
+
+subseksyen 13 (1) hendaklah, dalam masa dua puluh
+
+<!-- marginal: Juvana. -->
+
+empat jam dari masa dia diambil ke dalam jagaan sedemikian, dibawa ke hadapan Mahkamah Juvana.
 
 (2) Walau apa pun subseksyen (1), seseorang kanak- kanak yang diambil ke dalam jagaan di bawah subseksyen 13 (1) dan yang diperiksa atau dirawat dari segi perubatan di bawah Bahagian IV hendaklah dikemukakan ke hadapan Mahkamah Juvana dalam masa dua puluh empat jam dari masa pemeriksaan atau rawatan itu selesai atau, jika kanak-kanak itu dimasukkan ke hospital, dari masa dia dibenarkan keluar dari hospital.
 
 (3) Walau apa pun subseksyen (1) dan (2), jika tidak mungkin seseorang kanak-kanak yang diambil ke dalam jagaan di bawah subseksyen 13 (1) dibawa ke hadapan Mahkamah Juvana dalam masa yang ditetapkan dalam subseksyen (1) atau (2), kanak-kanak itu hendaklah dibawa ke hadapan seorang Majistret yang boleh mengarahkan supaya dia diletakkan di tempat selamat atau, walau apa pun subseksyen 13 (2), diletakkan dalam pemeliharaan seorang yang layak sehingga masa dia boleh dikemukakan ke hadapan Mahkamah Juvana.
 
-Kuasa-kuasa 22. (1) Jika Mahkamah Juvana berpuas hati bahawa Mahkamah mana-mana kanak-kanak yang dibawa ke hadapannya di Juvana. bawah seksyen 21 ialah seorang kanak-kanak yang memerlukan perlindungan, Mahkamah Juvana itu boleh—
+<!-- marginal: Kuasa-kuasa -->
+
+22. (1) Jika Mahkamah Juvana berpuas hati bahawa
+
+<!-- marginal: Mahkamah -->
+
+mana-mana kanak-kanak yang dibawa ke hadapannya di
+
+<!-- marginal: Juvana. -->
+
+bawah seksyen 21 ialah seorang kanak-kanak yang memerlukan perlindungan, Mahkamah Juvana itu boleh—
 
 (a) memerintahkan penjaganya mengikat bon untuk menjalankan pemeliharaan dan penjagaan yang sepatutnya selama suatu tempoh yang dinyatakan oleh Mahkamah Juvana itu, tetapi tempoh itu tidak boleh melampaui tarikh kanak- kanak itu mencapai umur lapan belas tahun;
 
@@ -674,7 +820,13 @@ kanak itu, setelah dikehendaki hadir, telah gagal berbuat demikian atau tidak da
 
 penjaganya.
 
-Perintah 23. (1) Jika suatu perintah dibuat di bawah seksyen 22 sumbangan. meletakkan seseorang kanak-kanak di suatu tempat selamat atau dalam jagaan seorang yang
+<!-- marginal: Perintah -->
+
+23. (1) Jika suatu perintah dibuat di bawah seksyen 22
+
+<!-- marginal: sumbangan. -->
+
+meletakkan seseorang kanak-kanak di suatu tempat selamat atau dalam jagaan seorang yang
 
 <!-- marginal: layak, -->
 
@@ -706,9 +858,39 @@ sesuatu tempat selamat atau penjaga kanak-kanak yang berkenaan dengannya suatu p
 
 <!-- page 24 -->
 
-Kawalan
+<!-- marginal: Kawalan -->
 
-25. Jika suatu perintah dibuat di bawah seksyen 21 ke atas meletakkan seseorang kanak-kanak di suatu tempat kanak-kanak yang selamat atau dalam jagaan seorang yang layak atau diletakkan dalam jagaan seorang ibu atau bapa peliharaan, makz dalam jagaan orang yang orang yang bertanggungjawab bagi tempat selamat itu layak atau orang yang layak itu atau ibu atau bapa peliharaan itu tempat selamat. hendaklah mempunyai kawalan ke atas kanak-kanak itu sama seperti ibu atau bapa kanak-kanak itu dar hendaklah bertanggungjawab bagi penyenggaraan kanak- kanak itu, dan kanak-kanak itu hendaklah terus berada dalam pemeliharaan orang itu walaupun kanak-kanak itt dituntut oleh penjaganya atau mana-mana orang lain.
+25. Jika suatu perintah dibuat di bawah seksyen 21
+
+<!-- marginal: ke atas -->
+
+meletakkan seseorang kanak-kanak di suatu tempat
+
+<!-- marginal: kanak-kanak -->
+
+<!-- marginal: yang -->
+
+selamat atau dalam jagaan seorang yang layak atau
+
+<!-- marginal: diletakkan -->
+
+dalam jagaan seorang ibu atau bapa peliharaan, makz
+
+<!-- marginal: dalam jagaan -->
+
+<!-- marginal: orang yang -->
+
+orang yang bertanggungjawab bagi tempat selamat itu
+
+<!-- marginal: layak atau -->
+
+orang yang layak itu atau ibu atau bapa peliharaan itu
+
+<!-- marginal: tempat -->
+
+<!-- marginal: selamat. -->
+
+hendaklah mempunyai kawalan ke atas kanak-kanak itu sama seperti ibu atau bapa kanak-kanak itu dar hendaklah bertanggungjawab bagi penyenggaraan kanak- kanak itu, dan kanak-kanak itu hendaklah terus berada dalam pemeliharaan orang itu walaupun kanak-kanak itt dituntut oleh penjaganya atau mana-mana orang lain.
 
 ## BAHAGIAN VI
 
@@ -716,9 +898,27 @@ Kawalan
 
 ## KESIHATAN DAN KEBAJIKAN KANAK-KANAK
 
-Penganiayaan,
+<!-- marginal: Penganiayaan, -->
 
-26. (1) Mana-mana orang, yang merupakan orang yang pengabaian, mempunyai pemeliharaan seseorang kanak-kanak, yang pendedahan atau menganiayai, mengabaikan, meninggalkan atau peninggalan mendedahkan kanak-kanak itu dengan cara yang kanak-kanak. mungkin akan menyebabkannya mengalami kecederaan fizikal atau emosi, atau yang menyebabkan atau membenarkannya dianiayai, diabaikan, ditinggalkan atau didedahkan sedemikian, adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi sepuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
+26. (1) Mana-mana orang, yang merupakan orang yang
+
+<!-- marginal: pengabaian, -->
+
+mempunyai pemeliharaan seseorang kanak-kanak, yang
+
+<!-- marginal: pendedahan -->
+
+<!-- marginal: atau -->
+
+menganiayai, mengabaikan, meninggalkan atau
+
+<!-- marginal: peninggalan -->
+
+mendedahkan kanak-kanak itu dengan cara yang
+
+<!-- marginal: kanak-kanak. -->
+
+mungkin akan menyebabkannya mengalami kecederaan fizikal atau emosi, atau yang menyebabkan atau membenarkannya dianiayai, diabaikan, ditinggalkan atau didedahkan sedemikian, adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi sepuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
 
 (2) Mahkamah boleh, sebagai ganti atau sebagai tambahan kepada apa-apa hukuman yang dinyatakan dalam subseksyen (1), memerintahkan seseorang yang melakukan kesalahan di bawah subseksyen itu mengikal bon, dengan atau tanpa penjamin, sebagaimana yang ditentukan oleh Mahkamah, untuk berkelakuan baik selama suatu tempoh yang difikirkan patut oleh Mahkamah, dan boleh memasukkan dalam bon itu suatu syarat yang menghendaki orang itu menjalani apa-apa kaunseling dan psikoterapi sebagaimana yang dinyatakan di dalam bon itu.
 
@@ -758,7 +958,33 @@ kanak, membenarkan kanak-kanak itu, berada di mana- mana jalan, premis atau temp
 
 <!-- page 26 -->
 
-Kesalahan 28. Mana-mana orang, yang merupakan penjaga atau kerana orang yang pada masa itu mempunyai pemeliharaan membiarkan kanak-kanak seseorang kanak-kanak, yang membiarkan kanak-kanak tinggal tanpa itu tinggal tanpa mengadakan persediaan bagi pengawasan yang pengawasan dan pemeliharaan yang berpatutan bagi berpatutan. kanak-kanak itu selama tempoh yang tak berpatutan atau dalam keadaan yang tak berpatutan mernandangkan semua hal keadaan adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.
+<!-- marginal: Kesalahan -->
+
+28. Mana-mana orang, yang merupakan penjaga atau
+
+<!-- marginal: kerana -->
+
+orang yang pada masa itu mempunyai pemeliharaan
+
+<!-- marginal: membiarkan -->
+
+<!-- marginal: kanak-kanak -->
+
+seseorang kanak-kanak, yang membiarkan kanak-kanak
+
+<!-- marginal: tinggal tanpa -->
+
+itu tinggal tanpa mengadakan persediaan bagi
+
+<!-- marginal: pengawasan -->
+
+<!-- marginal: yang -->
+
+pengawasan dan pemeliharaan yang berpatutan bagi
+
+<!-- marginal: berpatutan. -->
+
+kanak-kanak itu selama tempoh yang tak berpatutan atau dalam keadaan yang tak berpatutan mernandangkan semua hal keadaan adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.
 
 ## BAHAGIAN VII
 
@@ -768,7 +994,15 @@ Kesalahan 28. Mana-mana orang, yang merupakan penjaga atau kerana orang yang pad
 
 ## KAWALAN
 
-Pemakaian 29. (1) Bahagian ini tidaklah terpakai bagi— dan tafsiran. (a) pengambilan kanak-kanak ke
+<!-- marginal: Pemakaian -->
+
+29. (1) Bahagian ini tidaklah terpakai bagi—
+
+<!-- marginal: dan -->
+
+<!-- marginal: tafsiran. -->
+
+(a) pengambilan kanak-kanak ke
 
 <!-- marginal: dalam -->
 
@@ -776,7 +1010,11 @@ pemeliharaan, jagaan atau kawalan datuk atau neneknya, adik atau abang atau kaka
 
 (b) pengambilan seseorang kanak-kanak ke dalam pemeliharaan, jagaan atau kawalan penjaganya;
 
-(c) pengambilan seseorang kanak-kanak ke dalam pemeliharaan, jagaan atau kawalan mana-mana orang menurut suatu perintah Mahkamah yang mempunyai bidang kuasa kompeten atau Akta 106 menurut suatu perintah di bawah Akta Perlindungan Wanita dan Gadis 1973;
+(c) pengambilan seseorang kanak-kanak ke dalam pemeliharaan, jagaan atau kawalan mana-mana orang menurut suatu perintah Mahkamah yang mempunyai bidang kuasa kompeten atau
+
+<!-- marginal: Akta 106 -->
+
+menurut suatu perintah di bawah Akta Perlindungan Wanita dan Gadis 1973;
 
 (d) pengambilan seseorang kanak-kanak sebagai penghuni suatu tempat selamat atau rumah anak yatim, hospital, rumah atau institusi yang disenggarakan oleh Kerajaan Malaysia atau oleh mana-mana Kerajaan Negeri atau yang diluluskan oleh Menteri;
 
@@ -836,9 +1074,17 @@ dikembalikan kepada pemeliharaan, jagaan atau kawalan penjaganya atau orang yang
 
 melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi sepuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
 
-Obligasi-
+<!-- marginal: Obligasi- -->
 
-31. (1) Jika pengambilan seseorang kanak-kanak telah obhgasi diberitahukan kepada dan dibenarkan oleh Pelindung di kemudiannya. bawah seksyen 30, orang yang telah mengambil kanak- kanak itu hendaklah, jika pada bila-bila masa kemudiannya—
+31. (1) Jika pengambilan seseorang kanak-kanak telah
+
+<!-- marginal: obhgasi -->
+
+diberitahukan kepada dan dibenarkan oleh Pelindung di
+
+<!-- marginal: kemudiannya. -->
+
+bawah seksyen 30, orang yang telah mengambil kanak- kanak itu hendaklah, jika pada bila-bila masa kemudiannya—
 
 (a) dia bercadang untuk memulangkan kanak-kanak itu kepada pemeliharaan, jagaan atau kawalan penjaga kanak-kanak itu atau mana-mana orang lain yang daripadanya kanak-kanak itu diambil; atau
 
@@ -920,9 +1166,31 @@ dikembalikan kepada pemeliharaan, jagaan atau kawalan penjaganya atau mana-rnana
 
 ## PEMERDAGANGAN KANAK-KANAK
 
-Pemindahan
+<!-- marginal: Pemindahan -->
 
-33. (1) Tiap-tiap orang yang mengambil apa-apa milikan, bahagian dalam apa-apa transaksi yang tujuannya atau jagaan atau kawalan salah satu daripada tujuannya ialah untuk memindahkan kanak-kanak atau memberikan, keseluruhannya atau sebahagiannya, dengan menyalahi undang- undang.
+33. (1) Tiap-tiap orang yang mengambil apa-apa
+
+<!-- marginal: milikan, -->
+
+bahagian dalam apa-apa transaksi yang tujuannya atau
+
+<!-- marginal: jagaan atau -->
+
+<!-- marginal: kawalan -->
+
+salah satu daripada tujuannya ialah untuk memindahkan
+
+<!-- marginal: kanak-kanak -->
+
+atau memberikan, keseluruhannya atau sebahagiannya,
+
+<!-- marginal: dengan -->
+
+<!-- marginal: menyalahi -->
+
+<!-- marginal: undang- -->
+
+<!-- marginal: undang. -->
 
 <!-- page 31 -->
 
@@ -930,7 +1198,11 @@ secara sementara atau tetap, milikan, jagaan atau kawalan seorang kanak-kanak ba
 
 (2) Tiap-tiap orang yang tanpa kebenaran atau alasan yang sah menyorokkan atau ada dalam milikan, jagaan atau kawalannya mana-mana kanak-kanak yang mengenainya milikan, jagaan atau kawalan sementara atau tetap telah dipindahkan atau diberikan bagi balasan berharga oleh mana-mana orang lain di dalam atau di luar Malaysia adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi sepuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
 
-(3) Bagi maksud-maksud subseksyen (2), jika mana- mana orang menyorokkan atau ada dalam milikan, jagaan atau kawalannya mana-mana kanak-kanak tanpa kebenaran atau alasan yang sah, maka kanak-kanak itu hendaklah, sehingga dibuktikan sebaliknya, dianggapkan seorang kanak-kanak yang berkenaan dengannya milikan, jagaan atau kawalan sementara atau tetap telah dipindahkan atau diberikan bagi balasan berharga.
+(3) Bagi maksud-maksud subseksyen (2), jika mana- mana orang menyorokkan atau ada dalam milikan, jagaan atau kawalannya mana-mana kanak-kanak
+
+<!-- marginal: tanpa -->
+
+kebenaran atau alasan yang sah, maka kanak-kanak itu hendaklah, sehingga dibuktikan sebaliknya, dianggapkan seorang kanak-kanak yang berkenaan dengannya milikan, jagaan atau kawalan sementara atau tetap telah dipindahkan atau diberikan bagi balasan berharga.
 
 (4) Maka adalah menjadi suatu pembelaan dalam mana-mana pendakwaan di bawah seksyen ini jika dibuktikan bahawa pemindahan berlaku dengan tujuan atau menurut suatu perkahwinan atau pengangkatan bona fide dan bahawa sekurang-kurangnya ibu atau bapa sebenar kanak-kanak itu atau penjaga kanak-kanak itu ialah suatu pihak yang mengizinkan perkahwinan itu atau yang mengizinkan pengangkatan itu oleh pihak pengangkat itu, dan telah dengan nyata mengizinkan perkahwinan atau pengangkatan yang berkenaan itu.
 
@@ -958,11 +1230,43 @@ dalam atau di luar Malaysia, membawa atau membantu
 
 dalam membawa mana-mana kanak-kanak ke dalam Malaysia adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi sepuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
 
-Kuasa untuk 35. Seseorang Pelindung atau mana-mana orang yang memeriksa diberikuasa secara bertulis bagi maksud itu oleh kanak-kanak dan orang- Pelindung boleh menghendaki mana-mana kanak-kanak orang yang yang telah niasuk atau dibawa ke dalam Malaysia dan menjaganya. mana-mana orang yang didapati mempunyai jagaan atau kawalan ke atas kanak-kanak itu hadir di hadapan Pelindung pada bila-bila masa yang munasabah dan di mana-mana tempat yang sesuai, dan Pelindung boleh memeriksa kanak-kanak itu tentang sebab-sebab dia masuk atau berada di Malaysia dan boleh memeriksa orang itu berkenaan dengan kanak-kanak itu, dan orang itu adalah terikat di sisi undang-undang untuk menjawab soalan-soalan itu dengan benar sedaya upayanya.
+<!-- marginal: Kuasa untuk -->
 
-Kuasa
+35. Seseorang Pelindung atau mana-mana orang yang
 
-36. Jika seseorang Pelindung mempunyai sebab Pelindung munasabah untuk mengesyaki bahawa mana-mana untuk menghendaki kanak-kanak— jaminan.
+<!-- marginal: memeriksa -->
+
+diberikuasa secara bertulis bagi maksud itu oleh
+
+<!-- marginal: kanak-kanak -->
+
+<!-- marginal: dan orang- -->
+
+Pelindung boleh menghendaki mana-mana kanak-kanak
+
+<!-- marginal: orang yang -->
+
+yang telah niasuk atau dibawa ke dalam Malaysia dan
+
+<!-- marginal: menjaganya. -->
+
+mana-mana orang yang didapati mempunyai jagaan atau kawalan ke atas kanak-kanak itu hadir di hadapan Pelindung pada bila-bila masa yang munasabah dan di mana-mana tempat yang sesuai, dan Pelindung boleh memeriksa kanak-kanak itu tentang sebab-sebab dia masuk atau berada di Malaysia dan boleh memeriksa orang itu berkenaan dengan kanak-kanak itu, dan orang itu adalah terikat di sisi undang-undang untuk menjawab soalan-soalan itu dengan benar sedaya upayanya.
+
+<!-- marginal: Kuasa -->
+
+36. Jika seseorang Pelindung mempunyai sebab
+
+<!-- marginal: Pelindung -->
+
+munasabah untuk mengesyaki bahawa mana-mana
+
+<!-- marginal: untuk -->
+
+<!-- marginal: menghendaki -->
+
+kanak-kanak—
+
+<!-- marginal: jaminan. -->
 
 (a) telah dibawa ke dalam Malaysia sama ada selepas dipindahkan bagi balasan berharga, atau melalui fraud, salah nyataan atau apa-apa dakwaan palsu;
 
@@ -998,7 +1302,17 @@ IX
 
 ## PELBAGAI
 
-Kuasa untuk 38. (1) Tertakluk kepada subseksyen (2), mana-mana menggeledah Pelindung atau pegawai polis boleh masuk dan premis. menggeledah mana-mana premis bagi maksud menentukan sama ada terdapat di situ mana-mana kanak- kanak yang memerlukan perlindungan atau sama ada apa-apa kesalahan di bawah Akta ini sedang, atau telah, dilakukan.
+<!-- marginal: Kuasa untuk -->
+
+38. (1) Tertakluk kepada subseksyen (2), mana-mana
+
+<!-- marginal: menggeledah -->
+
+Pelindung atau pegawai polis boleh masuk dan
+
+<!-- marginal: premis. -->
+
+menggeledah mana-mana premis bagi maksud menentukan sama ada terdapat di situ mana-mana kanak- kanak yang memerlukan perlindungan atau sama ada apa-apa kesalahan di bawah Akta ini sedang, atau telah, dilakukan.
 
 (2) Seseorang Pelindung atau pegawai polis tidak boleh masuk ke mana-mana premis dengan menggunakan kekerasan melainkan jika dia telah terlebih dahulu memperolehi waran yang dikeluarkan oleh seorang Majistret.
 
@@ -1030,15 +1344,43 @@ dan bahawa premis itu hanya dapat dimasuki dengan menggunakan kekerasan.
 
 (8) Penghuni-penghuni mana-mana premis yang sedang digeledah di bawah seksyen ini hendaklah menjawab dengan benar segala soalan yang dikemukakan kepada mereka oleh Pelindung atau pegawai polis, dan hendaklah mematuhi apa-apa perintah atau arahan yang diberikan olehnya yang menyentuh apa-apa perkara atau mana-mana orang yang ada kaitan dengan penggeledahan itu.
 
-(9) Tiada seorang pun boleh, dengan kekerasan, sekatan, ugutan, dorongan atau cara-cara lain menyebabkan mana-mana kanak-kanak yang memerlukan perlindungan menyembunyikan dirinya di dalam atau meninggalkan mana-mana premis yang
+(9) Tiada seorang pun boleh, dengan kekerasan, sekatan, ugutan, dorongan atau cara-cara
+
+<!-- marginal: lain -->
+
+menyebabkan mana-mana kanak-kanak
+
+<!-- marginal: yang -->
+
+memerlukan perlindungan menyembunyikan dirinya di dalam atau meninggalkan mana-mana premis yang
 
 <!-- page 36 -->
 
 sedang digeledah atau baru hendak digeledah oleh seseorang Peiindung atau pegawai polls di bawah seksyen ini dengan niat supaya penggeledahan oleh Peiindung atau pegawai polis itu akan dengan itu terelak atau terhalang.
 
-Menghalang 39. Mana-mana orang yang— Pelindung atau pegawai
+<!-- marginal: Menghalang -->
 
-(a) menyerang, menghalang, menggendalakan atau polls melengah-lengahkan mana-mana Peiindung atau meiaksanakan fungsi- pegawai polis masuk sedangkan dia berhak fungsinya. masuk di bawah Akta ini, atau dalam meiaksanakan apa-apa kewajipan
+39. Mana-mana orang yang—
+
+<!-- marginal: Pelindung -->
+
+<!-- marginal: atau pegawai -->
+
+(a) menyerang, menghalang, menggendalakan atau
+
+<!-- marginal: polls -->
+
+melengah-lengahkan mana-mana Peiindung atau
+
+<!-- marginal: meiaksanakan -->
+
+<!-- marginal: fungsi- -->
+
+pegawai polis masuk sedangkan dia berhak
+
+<!-- marginal: fungsinya. -->
+
+masuk di bawah Akta ini, atau dalam meiaksanakan apa-apa kewajipan
 
 <!-- marginal: yang -->
 
@@ -1048,7 +1390,25 @@ dikenakan atau kuasa yang diberikan oleh Akta ini;
 
 (c) melanggar atau gagal mematuhi apa-apa perintah, arahan, saman atau waran yang dikeluarkan dengan sah atau apa-apa syarat yang dikenakan dengan sah oleh mana-mana Peiindung, pegawai polis atau Mahkamah di bawah Akta ini,
 
-adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi tiga ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga bulan atau kedua-duanya. Memindahkan 40. (1) Jika seseorang kanak-kanak diletakkan di suatu atau menolong tempat selamat atau dalam jagaan mana-mana orang di kanak-kanak lepas lari bawah Akta ini, maka mana-mana orang yang— daripada jagaan.
+adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi tiga ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga bulan atau kedua-duanya.
+
+<!-- marginal: Memindahkan -->
+
+40. (1) Jika seseorang kanak-kanak diletakkan di suatu
+
+<!-- marginal: atau menolong -->
+
+tempat selamat atau dalam jagaan mana-mana orang di
+
+<!-- marginal: kanak-kanak -->
+
+<!-- marginal: lepas lari -->
+
+bawah Akta ini, maka mana-mana orang yang—
+
+<!-- marginal: daripada -->
+
+<!-- marginal: jagaan. -->
 
 (a) memindahkan kanak-kanak itu dari tempat selamat atau daripada jagaan itu tanpa kebenaran yang sah;
 
@@ -1106,21 +1466,41 @@ menyebabkan disiarkan bahan sedemikian.
 
 (b) "bahan" termasuklah apa-apa gambar atau rupaan.
 
-Penalti am.
+<!-- marginal: Penalti am. -->
 
 42. Mana-mana orang yang melakukan sesuatu kesalahan di bawah Akta ini yang baginya tiada hukuman diperuntukkan dengan nyata boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-43. (1) Mana-mana pegawai polis boleh menangkap menangkap tanpa waran mana-mana orang yang dia semunasabahnya tanpa waran percaya telah melakukan atau sedang melakukan suatu kesalahan terhadap Akta ini.
+43. (1) Mana-mana pegawai polis boleh menangkap
 
-(2) Mana-mana orang yang ditangkap di bawah subseksyen (1) hendaklah, selepas tangkapan itu, diperlakukan sebagaimana yang diperuntukkan oleh N.M.B. Kanun Prosedur Jenayah.
+<!-- marginal: menangkap -->
+
+tanpa waran mana-mana orang yang dia semunasabahnya
+
+<!-- marginal: tanpa waran -->
+
+percaya telah melakukan atau sedang melakukan suatu kesalahan terhadap Akta ini.
+
+(2) Mana-mana orang yang ditangkap di bawah subseksyen (1) hendaklah, selepas tangkapan itu, diperlakukan sebagaimana yang diperuntukkan oleh
+
+<!-- marginal: N.M.B. -->
+
+Kanun Prosedur Jenayah.
 
 ## Bab 6.
 
-Tempat-
+<!-- marginal: Tempat- -->
 
-44. (1) Menteri boleh, melalui pemberitahuan dalam tempat Warta, mengisytiharkan mana-mana tempat atau institusi selamat. sebagai suatu tempat selamat bagi maksud-maksud Akta ini.
+44. (1) Menteri boleh, melalui pemberitahuan dalam
+
+<!-- marginal: tempat -->
+
+Warta, mengisytiharkan mana-mana tempat atau institusi
+
+<!-- marginal: selamat. -->
+
+sebagai suatu tempat selamat bagi maksud-maksud Akta ini.
 
 (2) Menteri boleh pada bila-bila masa mengarahkan penutupan mana-mana tempat selamat yang diwujudkan di bawah Akta ini.
 
@@ -1184,9 +1564,29 @@ mungkin mengenalpasti, mana-mana orang yang telah membuat pemberitahuan bahawa s
 
 (5) Peruntukan-peruntukan seksyen ini hendaklah terpakai bagi pengamal perubatan berdaftar yang membuat pemberitahuan di bawah subseksyen 19 (1) mengikut cara yang sama sebagaimana ia terpakai bagi seseorang yang membuat pemberitahuan bahawa seseorang kanak-kanak memerlukan perlindungan.
 
-Perlindungan 47. Tiada tindakan atau pendakwaan boleh dibawa, bagi Ketua dimulakan atau disenggarakan dalam mana-mana Pengarah, Pelindung- Mahkamah terhadap— Pelindimg dan pegawai-
+<!-- marginal: Perlindungan -->
 
-(a) Ketua Pengarah; pegawai polis.
+47. Tiada tindakan atau pendakwaan boleh dibawa,
+
+<!-- marginal: bagi Ketua -->
+
+dimulakan atau disenggarakan dalam mana-mana
+
+<!-- marginal: Pengarah, -->
+
+<!-- marginal: Pelindung- -->
+
+Mahkamah terhadap—
+
+<!-- marginal: Pelindimg -->
+
+<!-- marginal: dan pegawai- -->
+
+(a) Ketua Pengarah;
+
+<!-- marginal: pegawai -->
+
+<!-- marginal: polis. -->
 
 (b) mana-mana Pelindung;
 
@@ -1198,7 +1598,19 @@ Perlindungan 47. Tiada tindakan atau pendakwaan boleh dibawa, bagi Ketua dimulak
 
 berkenaan dengan apa-apa jua yang dilakukan atau ditinggalkan daripada dilakukan olehnya dengan suci hati dalam pelaksanaan atau apa yang berupa sebagai pelaksanaan fungsi-fungsi, kuasa-kuasa dan kewajipan- kewajipannya di bawah Akta ini.
 
-Perakuan 48. Sesuatu perakuan yang berupa sebagai di bawah Pendaftar tandatangan Pendaftar tentang apa-apa catatan dalam menjadi keterangan. Daftar, atau tentang apa-apa perkara atau benda, yang dia diberikuasa melakukannya atau membuatnya oleh
+<!-- marginal: Perakuan -->
+
+48. Sesuatu perakuan yang berupa sebagai di bawah
+
+<!-- marginal: Pendaftar -->
+
+tandatangan Pendaftar tentang apa-apa catatan dalam
+
+<!-- marginal: menjadi -->
+
+<!-- marginal: keterangan. -->
+
+Daftar, atau tentang apa-apa perkara atau benda, yang dia diberikuasa melakukannya atau membuatnya oleh
 
 <!-- page 41 -->
 
@@ -1244,11 +1656,19 @@ mana-mana orang di bawah peruntukan- peruntukan Akta ini, dan kewajipan-kewajipa
 
 (k) menjadikan pelanggaran atau kegagalan mematuhi mana-mana peraturan yang dibuat di bawah Akta ini suatu kesalahan dan boleh menetapkan denda tidak melebihi lima ribu ringgit atau pemenjaraan selama tempoh tidak melebihi dua tahun bagi kesalahan sedemikian.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-50. (1) Akta Mahkamah Juvana 1947 adalah dipinda— berbangkit dan
+50. (1) Akta Mahkamah Juvana 1947 adalah dipinda—
 
-(a) dengan memotong seksyen 35 dan 36; pemansuhan, Akta 90.
+<!-- marginal: berbangkit -->
+
+<!-- marginal: dan -->
+
+(a) dengan memotong seksyen 35 dan 36;
+
+<!-- marginal: pemansuhan, -->
+
+<!-- marginal: Akta 90. -->
 
 (b) dalam seksyen 3?A—
 
@@ -1256,7 +1676,9 @@ Pindaan
 
 (ii) dengan menggantikan perkataan-perkataan "tertakluk kepada seksyen 36 dan 37, mengikut mana yang berkenaan" dengan perkataan-perkataan "tertakluk kepada seksyen 37".
 
-Akta 232. (2) Akta Kanak-Kanak dan Orang Muda 1947 adalah dimansuhkan.
+<!-- marginal: Akta 232. -->
+
+(2) Akta Kanak-Kanak dan Orang Muda 1947 adalah dimansuhkan.
 
 <!-- page 43 -->
 

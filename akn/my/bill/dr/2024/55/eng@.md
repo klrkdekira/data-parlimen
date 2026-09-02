@@ -62,9 +62,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ### Beneficial owner of Labuan foundation
 
-### 24a.
-
-In this Act, “beneficial owner” means a natural person who controls or benefits from, in whole or in part, whether directly or indirectly, the property or asset endowed to a Labuan foundation and includes a person who exercises effective control and influence in the Labuan foundation as determined by the Authority.
+24A. In this Act, “beneficial owner” means a natural person who controls or benefits from, in whole or in part, whether directly or indirectly, the property or asset endowed to a Labuan foundation and includes a person who exercises effective control and influence in the Labuan foundation as determined by the Authority.
 
 ### Register of beneficial owners of Labuan foundation
 
@@ -140,7 +138,9 @@ a beneficial owner of the Labuan foundation, as far as it is possible to do so, 
 
 <!-- page 7 -->
 
-(4) Whenever a Labuan foundation receives information from the person to whom the notice is given under subsection (1), (2) or (3), the Labuan foundation shall, within thirty days from the date on which the information is received, record in the register of beneficial owners of the Labuan foundation—
+(4) Whenever a Labuan foundation receives information from the person to whom the notice is given under subsection (1),
+
+(2) or (3), the Labuan foundation shall, within thirty days from the date on which the information is received, record in the register of beneficial owners of the Labuan foundation—
 
 (a) the date on which the notice requiring such information was issued; and
 

@@ -8,7 +8,9 @@
 
 ## PRELIMINARY
 
-1. Short title, commencement and application. 2. Interpretation.
+1. Short title, commencement and application.
+
+2. Interpretation.
 
 ## PART II
 
@@ -30,13 +32,25 @@ IV
 
 ## POWERS OF ENTRY. INVESTIGATION AND PROSECUTION
 
-5. Power of entry by warrant or otherwise, inspection, examination, seizure, etc. 6. Powers of investigation. 7. Power to require attendance of person acquainted with case. 8. Examination of person acquainted with case. 9. Prosecution. 10. Reward for information.
+5. Power of entry by warrant or otherwise, inspection, examination, seizure, etc.
+
+6. Powers of investigation.
+
+7. Power to require attendance of person acquainted with case.
+
+8. Examination of person acquainted with case.
+
+9. Prosecution.
+
+10. Reward for information.
 
 ## PART V
 
 ## LICENCE
 
-11. Licence required for supply of gas: terms, conditions and contents of licence. 12. Security, suspension or revocation of the licence.
+11. Licence required for supply of gas: terms, conditions and contents of licence.
+
+12. Security, suspension or revocation of the licence.
 
 <!-- page 2 -->
 
@@ -110,7 +124,9 @@ IX
 
 "transmission pipelines" means pipelines transporting gas from the outlet of the gas processing plant or receiving terminal to the inlet of the city gate station.
 
-2. In this Act, unless the context otherwise requires— Interpretation.
+2. In this Act, unless the context otherwise requires—
+
+<!-- marginal: Interpretation. -->
 
 "area of supply" means the area within which a licensee is authorised to supply gas;
 
@@ -130,9 +146,17 @@ IX
 
 ## ESTABLISHMENT
 
-The Director
+<!-- marginal: The Director -->
 
-3. (1) The Minister shall appoint a public officer to be General of the Director General of Gas Supply for the purpose of Gas Supply. performing the functions and duties assigned to him under this Act.
+3. (1) The Minister shall appoint a public officer to be
+
+<!-- marginal: General of -->
+
+the Director General of Gas Supply for the purpose of
+
+<!-- marginal: Gas Supply. -->
+
+performing the functions and duties assigned to him under this Act.
 
 (2) The Minister shall also appoint such numbers of Deputy Director Generals, Directors, Deputy Directors, Assistant Directors and such other officers as may be necessary for the purposes of this Act.
 
@@ -146,9 +170,13 @@ III
 
 ## FUNCTIONS AND DUTIES OF DIRECTOR GENERAL
 
-Functions and
+<!-- marginal: Functions and -->
 
-4. (1) The Director General and the other officers duties. appointed under subsection 3(2) shall carry out such functions and duties as follows:
+4. (1) The Director General and the other officers
+
+<!-- marginal: duties. -->
+
+appointed under subsection 3(2) shall carry out such functions and duties as follows:
 
 (a) to secure that a licensee authorised by or under this Act to supply gas through pipelines satisfies all reasonable demands for gas;
 
@@ -252,23 +280,63 @@ Provided further that it shall be an offence for any person without lawful autho
 
 <!-- page 10 -->
 
-Powers of
+<!-- marginal: Powers of -->
 
-6. (1) An authorised officer shall have the power to investigation. investigate the commission of any offence under this Act or any regulation made thereunder.
+6. (1) An authorised officer shall have the power to
 
-(2) Any authorised officer may, in relation to any investigation in respect of any offence committed under this Act or any regulation made thereunder, exercise the special powers in relation to police investigation except that the power to arrest without warrant given by the F.M.S Criminal Procedure Code in any seizable offence may Cap. 6 not be exercised by him.
+<!-- marginal: investigation. -->
+
+investigate the commission of any offence under this Act or any regulation made thereunder.
+
+(2) Any authorised officer may, in relation to any investigation in respect of any offence committed under this Act or any regulation made thereunder, exercise the special powers in relation to police investigation except that the power to arrest without warrant given by the
+
+<!-- marginal: F.M.S -->
+
+Criminal Procedure Code in any seizable offence may
+
+<!-- marginal: Cap. 6 -->
+
+not be exercised by him.
 
 (3) Upon completion of his investigation, the authorised officer shall immediately give all information relating to the commission of the offence to an officer in charge of a police station and a police officer may, by warrant, arrest any person who may have committed an offence under this Act or any regulation made thereunder.
 
-Power to
+<!-- marginal: Power to -->
 
-7. (1) An authorised officer making an investigation require under section 6 may by order in writing require the attendance of person attendance before himself of any person who appears to acquainted the authorised officer to be acquainted with the with case. circumstances of the case, and such person shall attend as so required.
+7. (1) An authorised officer making an investigation
+
+<!-- marginal: require -->
+
+under section 6 may by order in writing require the
+
+<!-- marginal: attendance of -->
+
+<!-- marginal: person -->
+
+attendance before himself of any person who appears to
+
+<!-- marginal: acquainted -->
+
+the authorised officer to be acquainted with the
+
+<!-- marginal: with case. -->
+
+circumstances of the case, and such person shall attend as so required.
 
 (2) If any such person fails to attend as so required, the authorised officer may report such failure to a Magistrate who shall issue a summons to secure the attendance of such person as required by such order aforesaid.
 
-Examination
+<!-- marginal: Examination -->
 
-8. (1) An authorised officer making an investigation of person under section 6 may obtain information from any person acquainted with case supposed to be acquainted with the facts and circumstances of the case.
+8. (1) An authorised officer making an investigation
+
+<!-- marginal: of person -->
+
+under section 6 may obtain information from any person
+
+<!-- marginal: acquainted -->
+
+<!-- marginal: with case -->
+
+supposed to be acquainted with the facts and circumstances of the case.
 
 (2) Such person shall be legally bound to answer all questions relating to such case put to him by the authorised officer:
 
@@ -440,9 +508,17 @@ supplying gas, levy such tariffs as may be approved in writing by the Minister f
 
 "standing charge" means a fixed charge approved by the Director General for the provision of the supply of gas and includes the cost to maintain the system.
 
-Duty lo
+<!-- marginal: Duty lo -->
 
-14. (1) Subject to the following provisions of this Part supply on and any regulation made under this Act, a licensee shall request upon being required to do so by the owner or occupier of any premises situated within the area of supply of gas—
+14. (1) Subject to the following provisions of this Part
+
+<!-- marginal: supply on -->
+
+and any regulation made under this Act, a licensee shall
+
+<!-- marginal: request -->
+
+upon being required to do so by the owner or occupier of any premises situated within the area of supply of gas—
 
 (a) give a supply of gas to those premises; and
 
@@ -520,17 +596,39 @@ malfunction or failure of any pipeline or installation beyond his control, or as
 
 (1)(b) shall provide for any exception from the duty to supply gas other than a situation where he is prevented from so supplying by reason of fire, flood, landslide, explosion, accident, industrial disturbance on a national level, emergency, riot, civil disturbance or war, or any other similar event not within the control of the licensee which directly affects or which will affect his ability to supply gas.
 
-Power of
+<!-- marginal: Power of -->
 
-16. (1) Where any pipeline or installation is provided licensee to by a licensee pursuant to subsection 14(1), the licensee recover expenses. may, with the Director General's approval, require any expenses reasonably incurred by the licensee to be defrayed by the person requiring the supply of gas to such extent as is reasonable having regard to the circumstances.
+16. (1) Where any pipeline or installation is provided
+
+<!-- marginal: licensee to -->
+
+by a licensee pursuant to subsection 14(1), the licensee
+
+<!-- marginal: recover -->
+
+<!-- marginal: expenses. -->
+
+may, with the Director General's approval, require any expenses reasonably incurred by the licensee to be defrayed by the person requiring the supply of gas to such extent as is reasonable having regard to the circumstances.
 
 (2) The expenses reasonably incurred in providing any pipeline or installation under subsection (1) include the capitalised value of any expenses likely to be so incurred in maintaining it, if such expenses cannot be recovered by the licensee as part of the tariffs levied by him for the supply.
 
 (3) The expenses incurred in providing any pipeline or installation from the outlet of the meter to the internal piping within the premises shall be borne by the person requiring the supply.
 
-Power of
+<!-- marginal: Power of -->
 
-17. (1) A licensee may require any person who licensee to requires a supply of gas pursuant to subsection 14(1) to require give him reasonable security for all monies which may security. become due to him—
+17. (1) A licensee may require any person who
+
+<!-- marginal: licensee to -->
+
+requires a supply of gas pursuant to subsection 14(1) to
+
+<!-- marginal: require -->
+
+give him reasonable security for all monies which may
+
+<!-- marginal: security. -->
+
+become due to him—
 
 (a) in respect of the supply of gas; and
 
@@ -600,9 +698,21 @@ an appropriate meter.
 
 (4) If the consumer refuses or fails to have his supply of gas through the appropriate meter provided and installed in accordance with subsections (2) and (3) the licensee may refuse to give or may discontinue the supply.
 
-Reduction or
+<!-- marginal: Reduction or -->
 
-20. (1) Any licensee may cease the supply of gas or cessation of reduce, as he may think fit, the quantity of gas supplied supply: to any consumer under the circumstances stated in liability. section 15.
+20. (1) Any licensee may cease the supply of gas or
+
+<!-- marginal: cessation of -->
+
+reduce, as he may think fit, the quantity of gas supplied
+
+<!-- marginal: supply: -->
+
+to any consumer under the circumstances stated in
+
+<!-- marginal: liability. -->
+
+section 15.
 
 (2) Without prejudice to any agreement, where the quantity of gas has been reduced as aforesaid—
 
@@ -636,15 +746,13 @@ subsection 30(5), 30(6), 30(7) or 30(9) has been committed, the licensee or any 
 
 (2) Upon disconnection under subsection (1), the licensee shall immediately inform a Director of the disconnection.
 
-(3) Upon receiving the information under subsection (2) the Director shall immediately proceed to inspect such premises and shall, within twenty-four hours after such inspection, form an opinion—
+(3) Upon receiving the information under subsection
+
+(2) the Director shall immediately proceed to inspect such premises and shall, within twenty-four hours after such inspection, form an opinion—
 
 (a) that an offence has been committed and that the" supply shall not be reconnected until an investigation has been completed; or
 
-(b) that an offence has not been committed and that the supply of gas shall
-
-<!-- marginal: immediately be -->
-
-reconnected in which case the licensee shall pay compensation for any loss or damage caused by the discontinuation of the supply.
+(b) that an offence has not been committed and that the supply of gas shall immediately be reconnected in which case the licensee shall pay compensation for any loss or damage caused by the discontinuation of the supply.
 
 (4) Where the Director forms an opinion under subsection (3) that an offence has been committed an investigation under sections 5 and 6 shall be carried out. Upon completion of investigation, if it discloses no commission of any offence, the supply of gas shall be reconnected immediately and any loss incurred by any party may be referred to the Director General for adequate compensation to be paid pursuant to an inquiry held under section 29.
 
@@ -654,15 +762,43 @@ reconnected in which case the licensee shall pay compensation for any loss or da
 
 (6) A written statement by the licensee or any person authorised by the licensee specifying—
 
-(a) the amount of loss of units of gas or the Reduct expenses incurred by the licensee; and cessatie supply:
+(a) the amount of loss of units of gas or the
 
-(b) the person liable for the payment thereof, liability shall be pritna facie evidence of the payment that has to be made by the consumer under subsection (5).
+<!-- marginal: Reduct -->
+
+expenses incurred by the licensee; and
+
+<!-- marginal: cessatie -->
+
+<!-- marginal: supply: -->
+
+(b) the person liable for the payment thereof,
+
+<!-- marginal: liability -->
+
+shall be pritna facie evidence of the payment that has to be made by the consumer under subsection (5).
 
 (7) The amount stated in the written statement or decided by the Director General shall, within the period specified in the statement, be due and payable to the licensee and in default of payment such amount shall be recoverable by civil action in a court.
 
-Liabilities 22. Except as provided in section 20, nothing contained unaffected. in this Act shall operate to relieve any licensee from any civil or criminal liability arising under this Act.
+<!-- marginal: Liabilities -->
 
-Power to 23. (1) Whenever it appears to the licensee that it will enler on and be necessary for him to exercise the powers conferred examine land. upon him by this Act in respect of any land other than State land for the purpose of constructing any pipeline or installation or part thereof, the licensee or any person authorised by him may, after giving not less than twenty-four hours' notice to the occupier thereof, if any, enter upon the land, survey and take levels and do any other acts necessary to ascertain the suitability of the land, in so far as the same may be possible without causing damage or disturbance.
+22. Except as provided in section 20, nothing contained
+
+<!-- marginal: unaffected. -->
+
+in this Act shall operate to relieve any licensee from any civil or criminal liability arising under this Act.
+
+<!-- marginal: Power to -->
+
+23. (1) Whenever it appears to the licensee that it will
+
+<!-- marginal: enler on and -->
+
+be necessary for him to exercise the powers conferred
+
+<!-- marginal: examine land. -->
+
+upon him by this Act in respect of any land other than State land for the purpose of constructing any pipeline or installation or part thereof, the licensee or any person authorised by him may, after giving not less than twenty-four hours' notice to the occupier thereof, if any, enter upon the land, survey and take levels and do any other acts necessary to ascertain the suitability of the land, in so far as the same may be possible without causing damage or disturbance.
 
 (2) Nothing herein contained shall be deemed to authorise any person to cut down or clear away any
 
@@ -804,9 +940,7 @@ right of a licensee to enter into an agreement, commonly known as a wayleave agr
 
 (a) subsection (2) shall apply as if "Commissioner" and "appropriate folio of the Interim Register" were substituted for "Registrar" and "register document of title" respectively; and
 
-(b) when final documents of title are issued for the land under section 39 of the National Land Code (Penang and Malacca Titles) Act 1963, any note made pursuant to subsection (2) as varied by paragraph (a) shall (if it is still effective immediately before the
-
-<!-- marginal: issue of -->
+(b) when final documents of title are issued for the land under section 39 of the National Land Code (Penang and Malacca Titles) Act 1963, any note made pursuant to subsection (2) as varied by paragraph (a) shall (if it is still effective immediately before the issue of
 
 <!-- marginal: those -->
 
@@ -820,7 +954,7 @@ documents) be entered by the Commissioner on the register document of title and 
 
 "Commissioner" and "Interim Register" have the meanings assigned thereto respectively by the National Land Code (Penang and Malacca Titles) Act 1963.
 
-Compensation.
+<!-- marginal: Compensation. -->
 
 28. (1) The amount of compensation, if any, payable under section 23, 24 or 25 shall be assessed by the District Land Administrator after such inquiry as he - shall deem sufficient. The assessment shall be substantially in the form set out in the Third Schedule:
 
@@ -832,17 +966,19 @@ Provided that no compensation shall be payable by the licensee in respect of any
 
 ## INQUIRY
 
-Procedure in
+<!-- marginal: Procedure in -->
 
-29. (1) Without prejudice to any terms and conditions inquiry. in any special agreement, where a dispute arises between the licensee and the consumer with respect to matters falling under sections 13 to 21, the dispute may be referred to the Director General.
+29. (1) Without prejudice to any terms and conditions
+
+<!-- marginal: inquiry. -->
+
+in any special agreement, where a dispute arises between the licensee and the consumer with respect to matters falling under sections 13 to 21, the dispute may be referred to the Director General.
 
 <!-- page 29 -->
 
 (2) The Director General shall—
 
-(a) determine the dispute and make an order accordingly or, where
-
-<!-- marginal: the dispute -->
+(a) determine the dispute and make an order accordingly or, where the dispute
 
 <!-- marginal: is a -->
 
@@ -882,7 +1018,7 @@ shall be guilty of an offence and shall, on conviction, be liable to a fine not 
 
 ## OFFENCES AND PENALTIES
 
-Offences.
+<!-- marginal: Offences. -->
 
 30. (1) Any person who, in contravention of section 11, supplies gas through pipelines without any licence shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit, or to imprisonment for a term not exceeding five years or to both and to a further fine not exceeding one thousand ringgit for every day or part of a day during which the offence continues after conviction, and any pipeline or installation or part thereof used or intended to be used in the commission of the offence shall be liable to forfeiture.
 
@@ -972,7 +1108,13 @@ the imposition of any fine provided therein.
 
 anything done or omitted if the thing had been done or omitted by him personally shall be liable to the same penalty if the thing had been done or omitted by his agent, unless he proves that he took reasonable precautions to prevent the doing or omission of the thing.
 
-Onus of 33. In any prosecution for an offence under section 30 proof. proof of—
+<!-- marginal: Onus of -->
+
+33. In any prosecution for an offence under section 30
+
+<!-- marginal: proof. -->
+
+proof of—
 
 (a) the existence of artificial means which, either alone or in conjunction with additional artificial means not found, could be used for altering, or facilitating the alteration, of the index of any meter or instrument used for registering the quantity of gas supplied;
 
@@ -1040,11 +1182,33 @@ the licensee, as the case may be, shall report the accident or fire to the Direc
 
 (2) Any person who, without lawful excuse, contravenes or fails to comply with subsection (1) shall be guilty of an offence.
 
-Protection of 37. No action or prosecution shall be brought, instituted Director or maintained in any court against the Director General General and authorised or the officers duly appointed or authorised to act under officers. this Act in respect of anything done or omitted to be done by him in good faith in the execution or purported execution of his functions, powers and duties under this Act or any regulations made thereunder.
+Protection of 37. No action or prosecution shall be brought, instituted
 
-Special
+<!-- marginal: Director -->
 
-38. (1) The Yang di-Pertuan Agong may, on the powers in occurrence of any industrial unrest, strike, lockout or emergency. any other event which gives rise to an emergency, or in the interest of public safety, authorise the Director General to—
+or maintained in any court against the Director General
+
+<!-- marginal: General and -->
+
+<!-- marginal: authorised -->
+
+or the officers duly appointed or authorised to act under
+
+<!-- marginal: officers. -->
+
+this Act in respect of anything done or omitted to be done by him in good faith in the execution or purported execution of his functions, powers and duties under this Act or any regulations made thereunder.
+
+<!-- marginal: Special -->
+
+38. (1) The Yang di-Pertuan Agong may, on the
+
+<!-- marginal: powers in -->
+
+occurrence of any industrial unrest, strike, lockout or
+
+<!-- marginal: emergency. -->
+
+any other event which gives rise to an emergency, or in the interest of public safety, authorise the Director General to—
 
 (a) suspend the licence of any licensee, take temporary possession of any pipeline or installation of such licensee and operate it in such manner as he deems fit; or
 
@@ -1106,9 +1270,27 @@ in particular—
 
 ## MISCELLANEOUS
 
-Certain
+<!-- marginal: Certain -->
 
-40. In this Act, sections 5, 35 and 36 and matters sections of relating to paragraphs 39(c), 39(d), 39(f), 39(i), 390(j), Act not applicable t 39(m) and 39(n) shall not apply to the supply of gas factories. through pipelines within factories as defined under the Act 139 Factories and Machinery Act 1967.
+40. In this Act, sections 5, 35 and 36 and matters
+
+<!-- marginal: sections of -->
+
+relating to paragraphs 39(c), 39(d), 39(f), 39(i), 390(j),
+
+<!-- marginal: Act not -->
+
+<!-- marginal: applicable t -->
+
+39(m) and 39(n) shall not apply to the supply of gas
+
+<!-- marginal: factories. -->
+
+through pipelines within factories as defined under the
+
+<!-- marginal: Act 139 -->
+
+Factories and Machinery Act 1967.
 
 <!-- page 39 -->
 
@@ -1384,6 +1566,4 @@ IX
 
 ## IMPLICATIONS
 
-This Bill w i ll involve the Government in extra financial expenditure, the amount of which cannot at present be ascertained.
-
-<!-- marginal: [PN. (U2) 1699/11.] -->
+This Bill w i ll involve the Government in extra financial expenditure, the amount of which cannot at present be ascertained. [PN. (U2) 1699/11.]

@@ -20,7 +20,9 @@
 
 ## PERMULAAN
 
-1. Tajuk ringkas dan mula berkuatkuasa. 2. Tafsiran.
+1. Tajuk ringkas dan mula berkuatkuasa.
+
+2. Tafsiran.
 
 ### II
 
@@ -30,9 +32,13 @@
 
 ## PENGGANTI
 
-3. Peletakhakan. 4. Pemegangan permulaan Kerajaan dalam syarikat pengganti.
+3. Peletakhakan.
 
-5. Pelaburan Kerajaan dalam sekuriti syarikat pengganti. 6. Penjalanan fungsi Menteri Kewangan melalui penama.
+4. Pemegangan permulaan Kerajaan dalam syarikat pengganti.
+
+5. Pelaburan Kerajaan dalam sekuriti syarikat pengganti.
+
+6. Penjalanan fungsi Menteri Kewangan melalui penama.
 
 7. Struktur kewangan syarikat pengganti.
 
@@ -104,15 +110,27 @@ Pembubaran) 1997 dan hendaklah mula berkuatkuasa pada tarikh yang ditetapkan ole
 
 "harta" termasuklah segala harta, sama ada alih atau tak alih, dan segala estet, kepentingan, isemen dan hak, sama ada di sisi ekuiti atau undang-undang dalam, pada atau daripada harta, hak dalam tindakan, wang dan nama baik;
 
-"Lembaga" ertinya Lembaga Penyatuan dan Pemulihan Akta 398. Tanah Persekutuan yang ditubuhkan di bawah Akta Lembaga Pemulihan dan Penyatuan Tanah Negara (Pemerbadanan) 1966;
+"Lembaga" ertinya Lembaga Penyatuan dan Pemulihan
+
+<!-- marginal: Akta 398. -->
+
+Tanah Persekutuan yang ditubuhkan di bawah Akta Lembaga Pemulihan dan Penyatuan Tanah Negara (Pemerbadanan) 1966;
 
 "liabiliti" ertinya segala jenis liabiliti, hutang, tanggungan, kewajipan dan obligasi (sama ada pada masa sekarang atau pada masa hadapan, sebenar atau kontingen, dan sama ada kena dibayar atau hendaklah dipatuhi atau dilaksanakan di Malaysia atau di tempat lain);
 
 "Menteri" ertinya Menteri yang pada masa ini dipertanggungkan dengan tanggungjawab bagi pembangunan luar bandar;
 
-"Perbadanan" ertinya Menteri Kewangan yang Akta 375. diperbadankan melalui Akta Menteri Kewangan (Pemerbadanan) 1957;
+"Perbadanan" ertinya Menteri Kewangan yang
 
-"syarikat pengganti" ertinya syarikat berhad menurut Akta 125. syer yang diperbadankan di bawah Akta Syarikat 1965, dan yang dinamakan oleh Menteri dalam perintah yang dibuat di bawah subseksyen 3(1), yang kepadanya harta, hak dan liabiliti Lembaga dipindahkan dan diletakhakkan di bawah subseksyen itu;
+<!-- marginal: Akta 375. -->
+
+diperbadankan melalui Akta Menteri Kewangan (Pemerbadanan) 1957;
+
+"syarikat pengganti" ertinya syarikat berhad menurut
+
+<!-- marginal: Akta 125. -->
+
+syer yang diperbadankan di bawah Akta Syarikat 1965, dan yang dinamakan oleh Menteri dalam perintah yang dibuat di bawah subseksyen 3(1), yang kepadanya harta, hak dan liabiliti Lembaga dipindahkan dan diletakhakkan di bawah subseksyen itu;
 
 "tarikh peletakhakan" ertinya tarikh yang ditetapkan oleh Menteri di bawah subseksyen 3(1);
 
@@ -152,11 +170,27 @@ Tanah Negara (Penggantian dan Pembubaran)
 
 (8) Pada dan selepas tarikh peletakhakan, apa-apa suratikatan, bon, perjanjian, suratcara dan perkiraan kerja yang berhubungan dengan mana-mana harta, hak dan liabiliti yang dipindahkan kepada dan terletakhak pada syarikat pengganti di bawah subseksyen (1) yang kepadanya Lembaga menjadi suatu pihak sebelum sahaja tarikh peletakhakan, sama ada secara bertulis atau tidak, dan sama ada atau tidak sedemikian sifatnya sehingga hak dan liabiliti di bawahnya boleh diserahhakkan oleh Lembaga, hendaklah mempunyai kesan seolah-olah syarikat itu telah menjadi suatu pihak kepada suratikatan, bon, perjanjian; suratcara dan perkiraan kerja itu.
 
-Pemegangan
+<!-- marginal: Pemegangan -->
 
-### 4.
+4. (1) Sebagai akibat peletakhakan harta, hak dan liabiliti
 
-(1) Sebagai akibat peletakhakan harta, hak dan liabiliti permulaan pada syarikat pengganti di bawah seksyen 3, syarikat Kerajaan dalam pengganti itu hendaklah menerbitkan apa-apa sekuriti syarikat syarikat itu sebagaimana yang diarahkan oleh Menteri pengganti. Kewangan dari semasa ke semasa—
+<!-- marginal: permulaan -->
+
+pada syarikat pengganti di bawah seksyen 3, syarikat
+
+<!-- marginal: Kerajaan -->
+
+<!-- marginal: dalam -->
+
+pengganti itu hendaklah menerbitkan apa-apa sekuriti
+
+<!-- marginal: syarikat -->
+
+syarikat itu sebagaimana yang diarahkan oleh Menteri
+
+<!-- marginal: pengganti. -->
+
+Kewangan dari semasa ke semasa—
 
 (a) kepada Perbadanan; atau
 
@@ -224,9 +258,23 @@ bawah subperenggan 8(3)(a)(iv) Akta Prosedur Kewangan
 
 (b) diperakui oleh Perbendaharaan sebagai telah dilaksanakan dengan penerbitan syer yang dimohon beli oleh Menteri Kewangan di bawah perenggan (l)(b).
 
-Penjalanan
+<!-- marginal: Penjalanan -->
 
-6. (1) Menteri Kewangan boleh melantik mana-mana fungsi orang yang difikirkannya layak untuk bertindak sebagai Menteri Kewangan penamanya bagi maksud seksyen 4 atau 5 dan— melalui penama.
+6. (1) Menteri Kewangan boleh melantik mana-mana
+
+<!-- marginal: fungsi -->
+
+orang yang difikirkannya layak untuk bertindak sebagai
+
+<!-- marginal: Menteri -->
+
+<!-- marginal: Kewangan -->
+
+penamanya bagi maksud seksyen 4 atau 5 dan—
+
+<!-- marginal: melalui -->
+
+<!-- marginal: penama. -->
 
 (a) sekuriti syarikat pengganti boleh diserahhakkan di bawah seksyen 4 kepada mana-mana penama Menteri Kewangan yang dilantik bagi maksud seksyen itu atau kepada mana-mana orang yang berhak kepada penerbitan sekuriti itu berikutan dengan penguntukan permulaan sekuriti itu kepada mana-mana penama itu; dan
 
@@ -272,7 +320,11 @@ olah apa-apa jua yang dilakukan oleh Lembaga, sama ada secara pemerolehan, penil
 
 (5) Tanpa menjejaskan keluasan peruntukan subseksyen (4), amaun yang hendak dimasukkan dari semasa ke semasa dalam mana-mana rizab syarikat pengganti sebagai merupakan keuntungan terhasil terkumpulnya hendaklah ditentukan seolah-olah apa-apa keuntungan yang dihasilkan dan disimpan oleh Lembaga telah dihasilkan dan disimpan oleh syarikat pengganti.
 
-(6) Sebutan dalam seksyen ini tentang akaun statutori syarikat pengganti ialah sebutan tentang apa-apa akaun yang disediakan oleh syarikat pengganti bagi maksud Akta 125. mana-mana peruntukan Akta Syarikat 1965.
+(6) Sebutan dalam seksyen ini tentang akaun statutori syarikat pengganti ialah sebutan tentang apa-apa akaun yang disediakan oleh syarikat pengganti bagi maksud
+
+<!-- marginal: Akta 125. -->
+
+mana-mana peruntukan Akta Syarikat 1965.
 
 (7) Bagi maksud seksyen ini, "tahun perakaunan genap" ertinya sesuatu tahun perakaunan yang berakhir pada 31 Disember atau suatu tempoh yang ditentukan oleh Menteri Kewangan.
 
@@ -282,7 +334,7 @@ olah apa-apa jua yang dilakukan oleh Lembaga, sama ada secara pemerolehan, penil
 
 ## PERUNTUKAN BERHUBUNGAN DENGAN KAKITANGAN
 
-Kakitangan.
+<!-- marginal: Kakitangan. -->
 
 8. (1) Syarikat pengganti hendaklah menyetujuterima sebagai pekerjanya pada tarikh peletakhakan tiap-tiap orang yang sebelum sahaja tarikh itu ialah anggota kakitangan Lembaga dan yang telah diberi pilihan oleh Lembaga dan telah membuat pilihan untuk berkhidmat sebagai pekerja syarikat pengganti itu.
 
@@ -352,9 +404,17 @@ makna yang lain, hendaklah ditafsirkan sebagai sebutan tentang syarikat penggant
 
 AM
 
-Menghalang
+<!-- marginal: Menghalang -->
 
-11. (1) Jika apa-apa kesukaran atau anomali timbul kesukaran berkaitan dengan pelaksanaan Akta ini, Menteri boleh dan anomali. melalui perintah membuat apa-apa ubahsuaian kepada mana-mana peruntukan Akta ini sebagaimana yang didapatinya perlu bagi menghapuskan atau menghalang kesukaran atau anomali itu:
+11. (1) Jika apa-apa kesukaran atau anomali timbul
+
+<!-- marginal: kesukaran -->
+
+berkaitan dengan pelaksanaan Akta ini, Menteri boleh
+
+<!-- marginal: dan anomali. -->
+
+melalui perintah membuat apa-apa ubahsuaian kepada mana-mana peruntukan Akta ini sebagaimana yang didapatinya perlu bagi menghapuskan atau menghalang kesukaran atau anomali itu:
 
 Dengan syarat bahawa Menteri tidaklah boleh menjalankan kuasa yang diberikan oleh seksyen ini selepas habis tempoh tiga tahun dari tarikh pembubaran.
 

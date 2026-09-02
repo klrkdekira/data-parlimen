@@ -28,11 +28,85 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ## FIRST SCHEDULE
 
-(Section 2) Purpose Title Amount (RM) B. 7 Prime Minister's Department 15,000.000 B. 15 Town and Country Planning Department 180,700 B. 16 Fire and Rescue Department 2,961,400 B. 18 Ministry of Primary Industries
+(Section 2)
+
+<!-- marginal: Purpose -->
+
+Title Amount (RM)
+
+<!-- marginal: B. 7 -->
+
+Prime Minister's Department 15,000.000
+
+<!-- marginal: B. 15 -->
+
+Town and Country Planning Department 180,700
+
+<!-- marginal: B. 16 -->
+
+Fire and Rescue Department 2,961,400
+
+<!-- marginal: B. 18 -->
+
+Ministry of Primary Industries
 
 <!-- marginal: 30,800 -->
 
-B. 19 Ministry of Agriculture 1,077,845 B. 20 Ministry of International Trade and Industry 2,000,000 B. 23 Department of National Archives 357,000 B. 24 Museum and Antiquities Department 180,000 B. 26 Ministry of Education 462.803,500 B. 28 Treasury 4,328,420 B. 29 Treasury General Services 356,000,000 B. 30 Contribution to Statutory Funds 4,343,756,956 B. 31 Royal Customs and Excise Department 147,600 B. 35 Ministry of Home Affairs 13,355,700 B. 36 Royal Malaysia Police 236,283,300 B. 42 Ministry of National Unity and Social 500,000 Development B. 46 Ministry of Science, Technology and the 20,000,000 Environment B. 51 Ministry of Foreign Affairs 1,749,600
+<!-- marginal: B. 19 -->
+
+Ministry of Agriculture 1,077,845
+
+<!-- marginal: B. 20 -->
+
+Ministry of International Trade and Industry 2,000,000
+
+<!-- marginal: B. 23 -->
+
+Department of National Archives 357,000
+
+<!-- marginal: B. 24 -->
+
+Museum and Antiquities Department 180,000
+
+<!-- marginal: B. 26 -->
+
+Ministry of Education 462.803,500
+
+<!-- marginal: B. 28 -->
+
+Treasury 4,328,420
+
+<!-- marginal: B. 29 -->
+
+Treasury General Services 356,000,000
+
+<!-- marginal: B. 30 -->
+
+Contribution to Statutory Funds 4,343,756,956
+
+<!-- marginal: B. 31 -->
+
+Royal Customs and Excise Department 147,600
+
+<!-- marginal: B. 35 -->
+
+Ministry of Home Affairs 13,355,700
+
+<!-- marginal: B. 36 -->
+
+Royal Malaysia Police 236,283,300
+
+<!-- marginal: B. 42 -->
+
+Ministry of National Unity and Social 500,000 Development
+
+<!-- marginal: B. 46 -->
+
+Ministry of Science, Technology and the 20,000,000 Environment
+
+<!-- marginal: B. 51 -->
+
+Ministry of Foreign Affairs 1,749,600
 
 ## TOTAL
 
@@ -40,7 +114,15 @@ B. 19 Ministry of Agriculture 1,077,845 B. 20 Ministry of International Trade an
 
 ## SECOND SCHEDULE
 
-(Section 3) Purpose Title Amount (RM) B. 18 Ministry of Primary Industries 300,000,000
+(Section 3)
+
+<!-- marginal: Purpose -->
+
+Title Amount (RM)
+
+<!-- marginal: B. 18 -->
+
+Ministry of Primary Industries 300,000,000
 
 ## TOTAL
 

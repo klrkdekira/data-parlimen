@@ -8,27 +8,13 @@
 
 ## PRELIMINARY
 
-1. Short title.
-
-2. Amendments of Acts.
+1. Short title. 2. Amendments of Acts.
 
 ## CHAPTER II
 
 ## AMENDMENTS TO THE INCOME TAX ACT 1967
 
-3. Commencement of amendments to the Income Tax Act 1967.
-
-4. Amendment of section 6.
-
-5. Amendment of section 34.
-
-6. Amendment of section 46.
-
-7. Amendment of section 48.
-
-8. Amendment of section 49.
-
-9. Amendment of section 50.
+3. Commencement of amendments to the Income Tax Act 1967. 4. Amendment of section 6. 5. Amendment of section 34. 6. Amendment of section 46. 7. Amendment of section 48. 8. Amendment of section 49. 9. Amendment of section 50.
 
 10. Amendment of section 60.
 
@@ -180,9 +166,17 @@ year of assessment 1996 and subsequent years of assessment.
 
 (3) Section 17 shall have effect for the year of assessment 1997 and subsequent years of assessment.
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. The Income Tax Act 1967, which is referred to as the of section 6, "principal Act" in this Chapter, is amended in subsection Act 53. 6(1)—
+4. The Income Tax Act 1967, which is referred to as the
+
+<!-- marginal: of section 6, -->
+
+"principal Act" in this Chapter, is amended in subsection
+
+<!-- marginal: Act 53. -->
+
+6(1)—
 
 (a) by substituting for the full stop at the end of paragraph (g) a semicolon; and
 
@@ -190,15 +184,21 @@ Amendment
 
 "(h) income tax shall be charged for each year of assessment upon the chargeable income of a foreign fund management company in relation to the source consisting of the provision of fund management services to foreign investors for that year at the appropriate rate as specified in that year at the appropriate rate as specified in Part IX of Schedule 1.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-5. Paragraph 34(4)(a) of the principal Act is amended by of section substituting for the word "sixteen" the word "seventeen".
+5. Paragraph 34(4)(a) of the principal Act is amended by
+
+<!-- marginal: of section -->
+
+substituting for the word "sixteen" the word "seventeen".
 
 34.
 
-Amendment
+<!-- marginal: Amendment -->
 
-6. Section 46 of the principal Act is amended— of section
+6. Section 46 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 46.
 
@@ -206,9 +206,11 @@ Amendment
 
 (b) in paragraph (d) by substituting for the word "three" the word "five".
 
-Amendment
+<!-- marginal: Amendment -->
 
-7. Section 48 of the principal Act is amended— of section
+7. Section 48 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 48.
 
@@ -234,11 +236,7 @@ elect in writing that the appropriate deduction be wholly allowed to her for tha
 
 (a) by inserting after subsection (1A) the following subsection: "(1B) (a) Subject to this section, in the case of an individual resident for the basis year for a year of assessment who has paid any premium for insurance on education or for medical benefits, there shall be allowed for that year of assessment in addition to the deduction allowed under subsection (1), a deduction of the aggregate amount of the payments or a deduction of two thousand ringgit, whichever is the less;
 
-(b) where section 50(3)(b) applies there shall be allowed for that year of assessment, in addition to the deduction allowed under
-
-<!-- marginal: this -->
-
-subsection, a deduction of the aggregate amount of the payments for any premium for insurance on education or for-medical benefits or a deduction of two thousand ringgit, whichever is the less: Provided that where the wife has no total income the total deduction
+(b) where section 50(3)(b) applies there shall be allowed for that year of assessment, in addition to the deduction allowed under this subsection, a deduction of the aggregate amount of the payments for any premium for insurance on education or for-medical benefits or a deduction of two thousand ringgit, whichever is the less: Provided that where the wife has no total income the total deduction
 
 <!-- page 6 -->
 
@@ -248,7 +246,11 @@ under this subsection shall not exceed two thousand ringgit."; and
 
 " (4) For the purposes of subsection (1B) reference to an insurance means an insurance contracted for by an individual for himself, his wife or child, or in the case of a wife, for herself, her husband or child.".
 
-9. Section 50 of the principal Act is amended— Amendment of section
+9. Section 50 of the principal Act is amended—
+
+<!-- marginal: Amendment -->
+
+<!-- marginal: of section -->
 
 50.
 
@@ -256,9 +258,11 @@ under this subsection shall not exceed two thousand ringgit."; and
 
 (b) in paragraph (3)(b) by inserting after the words "paragraph (a)" the words "and any premium for any insurance on education or medical benefits".
 
-Amendment
+<!-- marginal: Amendment -->
 
-10. Section 60 of the principal Act is amended— of section
+10. Section 60 of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 60.
 
@@ -280,7 +284,9 @@ receivable in connection with any investments or rights, the cost of acquiring a
 
 (c) by substituting for subsection (7) the following subsection:
 
-" (7) Where an insurer carrying on general business has re-insured the risk or part of the risk with a re-insurer who either does not carry on the business of insuring risks of that kind in Malaysia or does not re-insure the risk through a branch in Malaysia, there may be deducted under subsection (5)(b)(ii) or (6)(b)(ii) in respect of such risks which are re-insured only ninety- five per cent of the amount which would otherwise be deductible: Provided that in a case to which subsection (6), (6A) or (6B) applies—
+" (7) Where an insurer carrying on general business has re-insured the risk or part of the risk with a re-insurer who either does not carry on the business of insuring risks of that kind in Malaysia or does not re-insure the risk through a branch in Malaysia, there may be deducted under subsection (5)(b)(ii) or (6)(b)(ii) in respect of such risks which are re-insured only ninety- five per cent of the amount which would otherwise be deductible: Provided that in a case to which subsection
+
+(6), (6A) or (6B) applies—
 
 (a) the insurer may elect that no deductions shall be made under subsection (6)(b)(ii); and
 
@@ -288,9 +294,11 @@ receivable in connection with any investments or rights, the cost of acquiring a
 
 <!-- page 8 -->
 
-Amendment
+<!-- marginal: Amendment -->
 
-11. Subsection 60E(7) of the principal Act is amended— of section
+11. Subsection 60E(7) of the principal Act is amended—
+
+<!-- marginal: of section -->
 
 60E.
 
@@ -304,13 +312,29 @@ Amendment
 
 (ii) by deleting the proviso thereto.
 
-New section
+<!-- marginal: New section -->
 
 12. The principal Act is amended by inserting after section
 
 60G. 60F the following section:
 
-Foreign 60G. (1) Where a foreign fund management fund company carries on business in Malaysia of manage- ment providing fund management services to foreign company. and local investors, the income derived from the provision of fund management services to foreign investors shall be treated as a separate and distinct business source from that source of income derived from the provision of fund management services to local investors.
+<!-- marginal: Foreign -->
+
+60G. (1) Where a foreign fund management
+
+<!-- marginal: fund -->
+
+company carries on business in Malaysia of
+
+<!-- marginal: manage- -->
+
+<!-- marginal: ment -->
+
+providing fund management services to foreign
+
+<!-- marginal: company. -->
+
+and local investors, the income derived from the provision of fund management services to foreign investors shall be treated as a separate and distinct business source from that source of income derived from the provision of fund management services to local investors.
 
 (2) The chargeable income in relation to the source consisting of the provision of fund management services to foreign investors for a year of assessment shall be the statutory income from that source reduced by any deduction falling to be made pursuant to section 43(2) relating to that source.
 
@@ -332,7 +356,9 @@ Provided that in so making the deductions under sections 43(2) and 44(1), no reg
 
 "foreign fund management company" means a company—
 
-(a) incorporated in Malaysia and licensed under the Securities Industry Act 1983; and Act 280.
+(a) incorporated in Malaysia and licensed under the Securities Industry Act 1983; and
+
+<!-- marginal: Act 280. -->
 
 (b) (i) where the issued share capital is wholly foreign owned and provides fund management services to foreign investors only; or
 
@@ -352,29 +378,27 @@ Provided that in so making the deductions under sections 43(2) and 44(1), no reg
 
 "local investors" are individuals, companies or trust funds that are not foreign investors.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-13. Section 133A of the principal Act is amended by inserting of section after the words "Schedule 7A" the words "and Schedule 7B".
+13. Section 133A of the principal Act is amended by inserting
+
+<!-- marginal: of section -->
+
+after the words "Schedule 7A" the words "and Schedule 7B".
 
 133A.
 
-Amendment
+<!-- marginal: Amendment -->
 
-14. Schedule 1 to the principal Act is amended— of Schedule
+14. Schedule 1 to the principal Act is amended—
+
+<!-- marginal: of Schedule -->
 
 1.
 
 (a) in paragraph 1 of Part I by substituting for the rates the following rates:
 
-"Chargeable Income RM Rate of Income Tax For every ringgit 2,500
-
-<!-- marginal: 0 per cent -->
-
-of the first For every ringgit 2,500
-
-<!-- marginal: 2 per cent -->
-
-of the next
+"Chargeable Income RM Rate of Income Tax For every ringgit 2,500 0 per cent of the first For every ringgit 2,500 2 per cent of the next
 
 <!-- page 11 -->
 
@@ -392,9 +416,11 @@ and
 
 Notwithstanding Part I, income tax shall be charged on the chargeable income of a foreign fund management company in relation to the source consisting of the provision of fund management services to foreign investors as referred to in section 60G at the rate of .................................................. 10 per cent.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-15. Schedule 3 of the principal Act is amended— of Schedule
+15. Schedule 3 of the principal Act is amended—
+
+<!-- marginal: of Schedule -->
 
 3.
 
@@ -520,9 +546,13 @@ for the purposes of any of the following activities:
 
 "Eastern Corridor of Peninsular Malaysia" means the States of Kelantan, Terengganu, Pahang (not including the Districts of Lipis, Raub, Jerantut and Cameron Highlands except for the industrial areas approved by the State Government), and the District of Mersing in the State of Johore.".
 
-New
+<!-- marginal: New -->
 
-18. The principal Act is amended by inserting after Schedule Schedule 7B. 7A the following Schedule:
+18. The principal Act is amended by inserting after Schedule
+
+<!-- marginal: Schedule 7B. -->
+
+7A the following Schedule:
 
 ## SCHEDULE 7B
 
@@ -564,13 +594,37 @@ III
 
 ## TAX ACT 1976
 
-Commence-
+<!-- marginal: Commence- -->
 
-19. This Chapter shall be deemed to have come into force ment of on 27 October 1995. amendments to the Real Property Gains Tax Act 1976. Amendment
+19. This Chapter shall be deemed to have come into force
 
-20. Schedule 5 to the Real Property Gains Tax Act 1976, of Schedule which in this Chapter is referred to as the "principal Act",
+<!-- marginal: ment of -->
 
-5. Act 169. is amended—
+on 27 October 1995.
+
+<!-- marginal: amendments -->
+
+<!-- marginal: to the Real -->
+
+<!-- marginal: Property -->
+
+<!-- marginal: Gains Tax -->
+
+<!-- marginal: Act 1976. -->
+
+<!-- marginal: Amendment -->
+
+20. Schedule 5 to the Real Property Gains Tax Act 1976,
+
+<!-- marginal: of Schedule -->
+
+which in this Chapter is referred to as the "principal Act",
+
+5.
+
+<!-- marginal: Act 169. -->
+
+is amended—
 
 (a) by substituting for Parts I and II with the following Parts:
 
@@ -578,15 +632,7 @@ Commence-
 
 Except where Part II or Part III is applicable, the following rates of tax shall apply:
 
-Category of disposal
-
-<!-- marginal: Rate of tax -->
-
-Disposal within two years after
-
-<!-- marginal: 30 per cent -->
-
-the date of acquisition of the chargeable asset
+Category of disposal Rate of tax Disposal within two years after 30 per cent the date of acquisition of the chargeable asset
 
 <!-- page 19 -->
 
@@ -632,9 +678,7 @@ Commence-
 
 Amendment
 
-22. The Petroleum (Income Tax) Act 1967, which is referred of section to as the "principal Act" in this Chapter, is amended in
-
-16. 45/67. section 16—
+22. The Petroleum (Income Tax) Act 1967, which is referred of section to as the "principal Act" in this Chapter, is amended in 16. 45/67. section 16—
 
 (a) in paragraph (3)(a) by substituting for the word "sixteen" the word "seventeen"; and
 
@@ -724,15 +768,37 @@ in subsection 2(1)—
 
 ## LEVY ACT 1983
 
-Commence-
+<!-- marginal: Commence- -->
 
-28. This Chapter shall come into force on 1 January 1996. ment of amendments to the Goods Vehicle Levy Act 1983. Amendment
+28. This Chapter shall come into force on 1 January 1996.
 
-29. The Goods Vehicle Levy Act 1983, which is referred of long title. to as the "principal Act" in this Chapter, is amended in the Act 294. long title by inserting after the word "leaving" the words "or entering".
+<!-- marginal: ment of -->
 
-Amendment
+<!-- marginal: amendments -->
 
-30. Section 3 of the principal Act is amended— of section 3.
+<!-- marginal: to the Goods -->
+
+<!-- marginal: Vehicle Levy -->
+
+<!-- marginal: Act 1983. -->
+
+<!-- marginal: Amendment -->
+
+29. The Goods Vehicle Levy Act 1983, which is referred
+
+<!-- marginal: of long title. -->
+
+to as the "principal Act" in this Chapter, is amended in the
+
+<!-- marginal: Act 294. -->
+
+long title by inserting after the word "leaving" the words "or entering".
+
+<!-- marginal: Amendment -->
+
+30. Section 3 of the principal Act is amended—
+
+<!-- marginal: of section 3. -->
 
 (a) in subsection (1)—
 
@@ -762,9 +828,7 @@ licensed under the Securities Industry Act 1983. A wholly foreign owned fund man
 
 3. Clause 5 seeks to amend section 34 to increase contributions to an approved scheme by an employer in respect of an employee's remuneration from 16 per cent to 17 per cent. This amendment is effective from the year of assessment 1996.
 
-4. Clause 6 seeks to amend section 46 to provide for an increase of the maximum personal deduction in respect of medical expenses expended for parents from one thousand ringgit to five thousand ringgit and in respect of supporting equipment for an individual, his wife, child or parent who is a disabled person from three thousand ringgit to five thousand ringgit. The amendment is effective from the year of assessment
-
-1996.
+4. Clause 6 seeks to amend section 46 to provide for an increase of the maximum personal deduction in respect of medical expenses expended for parents from one thousand ringgit to five thousand ringgit and in respect of supporting equipment for an individual, his wife, child or parent who is a disabled person from three thousand ringgit to five thousand ringgit. The amendment is effective from the year of assessment 1996.
 
 5. Clause 7 seeks to amend section 48 to enable the wife to claim for child relief if she so elects. This clause further seeks to amend subsection (2) to increase the amount of relief for a disabled child from one thousand six hundred ringgit to five thousand ringgit. This amendment is effective from the year of assessment 1996.
 

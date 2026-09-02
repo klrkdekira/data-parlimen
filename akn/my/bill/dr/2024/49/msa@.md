@@ -12,19 +12,19 @@ dan Penguatkuasaan Cukai
 
 ## SUSUNAN FASAL
 
-## BAhAgiAN I
+## BAHAGIAN I
 
 ## PERMULAAN
 
 1. Tajuk ringkas 2. Pindaan Akta
 
-## BAhAgiAN II
+## BAHAGIAN II
 
 ## PINDAAN KEPADA AKTA CUKAI PENDAPATAN 1967
 
 3. Permulaan kuat kuasa pindaan kepada Akta Cukai Pendapatan 1967 4. Pindaan seksyen 66A 5. Pindaan seksyen 77B 6. Pindaan seksyen 82c 7. Pindaan seksyen 113A 8. Pindaan seksyen 125 9. Pindaan Jadual 5
 
-## BAhAgiAN III
+## BAHAGIAN III
 
 ## PINDAAN KEPADA AKTA CUKAI KEUNTUNGAN
 
@@ -52,7 +52,7 @@ dan Penguatkuasaan Cukai
 
 19. Pindaan Jadual 3
 
-## BAhAgiAN IV
+## BAHAGIAN IV
 
 ## PINDAAN KEPADA AKTA SETEM 1949
 
@@ -106,7 +106,7 @@ dan Penguatkuasaan Cukai
 
 dan Penguatkuasaan Cukai
 
-## BAhAgiAN V
+## BAHAGIAN V
 
 ## PINDAAN KEPADA AKTA PETROLEUM (CUKAI PENDAPATAN) 1967
 
@@ -116,7 +116,7 @@ dan Penguatkuasaan Cukai
 
 45. Pindaan Jadual Ketiga
 
-## BAhAgiAN VI
+## BAHAGIAN VI
 
 ## PINDAAN KEPADA AKTA LEVI KEUNTUNGAN LUAR BIASA 1998
 
@@ -124,7 +124,7 @@ dan Penguatkuasaan Cukai
 
 47. Seksyen baharu 27A
 
-## BAhAgiAN VII
+## BAHAGIAN VII
 
 ## PINDAAN KEPADA AKTA CUKAI JUALAN 2018
 
@@ -136,7 +136,7 @@ dan Penguatkuasaan Cukai
 
 51. Pindaan Jadual
 
-## BAhAgiAN VIII
+## BAHAGIAN VIII
 
 ## PINDAAN KEPADA AKTA CUKAI PERKHIDMATAN 2018
 
@@ -154,7 +154,7 @@ Suatu Akta untuk mengadakan peruntukan bagi langkah-langkah yang berhubungan den
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## BAhAgiAN I
+## BAHAGIAN I
 
 ## PERMULAAN
 
@@ -172,7 +172,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ## Bahagian II, III, IV, V, VI, VII dan VIII.
 
-## BAhAgiAN II
+## BAHAGIAN II
 
 ## PINDAAN KEPADA AKTA CUKAI PENDAPATAN 1967
 
@@ -242,7 +242,7 @@ dan Penguatkuasaan Cukai
 
 “Provided that the appellant shall give a written notice to the Special Commissioners and the Director General within a period of six months from the date the appellant receives a written notice from the Director General under subsection 102(1).”.
 
-## BAhAgiAN iii
+## BAHAGIAN III
 
 ## PINDAAN KEPADA AKTA CUKAI KEUNTUNGAN
 
@@ -346,7 +346,7 @@ mengemukakan apa-apa borang yang ditetapkan di bawah Akta ini melalui media elek
 
 dan Penguatkuasaan Cukai
 
-## BAhAgiAN iV
+## BAHAGIAN IV
 
 ## PINDAAN KEPADA AKTA SETEM 1949
 
@@ -534,7 +534,9 @@ dan Penguatkuasaan Cukai
 
 (a) dengan menggantikan subseksyen (1) dengan subseksyen yang berikut:
 
-“(1) Where a return together with an instrument has been furnished to the Collector in accordance with section 35A for an assessment under section 36, 36A, 36AA, 36B or 36cA and—
+“(1) Where a return together with an instrument has been furnished to the Collector in accordance with section 35A for an assessment under section 36,
+
+## 36A, 36AA, 36B OR 36CA AND—
 
 (a) the Collector has determined that the instrument is already fully stamped; or
 
@@ -668,7 +670,7 @@ dan Penguatkuasaan Cukai
 
 77d. The Collector may prescribe such forms as may be required for the purposes of this Act.”.
 
-## BAhAgiAN V
+## BAHAGIAN V
 
 ## PINDAAN KEPADA AKTA PETROLEUM (CUKAI PENDAPATAN) 1967
 
@@ -690,7 +692,7 @@ dan Penguatkuasaan Cukai
 
 “Provided that the appellant shall give a written notice to the Special Commissioners and the Director General within a period of six months from the date the appellant receives a written notice from the Director General under subsection 46(1).”.
 
-## BAhAgiAN VI
+## BAHAGIAN VI
 
 ## PINDAAN KEPADA AKTA LEVI KEUNTUNGAN LUAR BIASA 1998
 
@@ -728,7 +730,7 @@ Ketua Pengarah tidak bertanggungan bagi apa-apa kerugian atau kerosakan yang dia
 
 (4) Bagi maksud seksyen ini, “pengguna berdaftar” ertinya mana-mana orang yang diberi kuasa secara bertulis oleh Ketua Pengarah untuk mengakses dan menggunakan perkhidmatan elektronik.”.
 
-## BAhAgiAN VII
+## BAHAGIAN VII
 
 ## PINDAAN KEPADA AKTA CUKAI JUALAN 2018
 
@@ -774,7 +776,7 @@ dan Penguatkuasaan Cukai
 
 “(1) Tempoh bercukai yang pertama bagi tiap-tiap orang kena cukai hendaklah bermula dari tarikh dia sepatutnya berdaftar di bawah seksyen 13 dan berakhir pada hari terakhir dua bulan berikutnya dan tempoh bercukai seterusnya hendaklah suatu tempoh selama tiga bulan yang berakhir pada hari terakhir mana-mana bulan dalam mana-mana tahun kalendar.”.’.
 
-## BAhAgiAN VIII
+## BAHAGIAN VIII
 
 ## PINDAAN KEPADA AKTA CUKAI PERKHIDMATAN 2018
 

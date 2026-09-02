@@ -30,13 +30,19 @@ III
 
 ## KESALAHAN DAN PENALTI
 
-10. Kesalahan menerima suapan. 11. Kesalahan memberikan atau menyetuju-terima suapan oleh ejen.
+10. Kesalahan menerima suapan.
+
+11. Kesalahan memberikan atau menyetuju-terima suapan oleh ejen.
 
 <!-- page 2 -->
 
 Rang Undang-Undang
 
-12. Penerima atau pemberi suapan adalah bersalah walaupun maksud tidak terlaksana atau perkara tidak ada hubungan dengan hal-ehwal atau perniagaan prinsipal. 13. Secara rasuah mendapatkan penarikan balik tender. 14. Penyogokan ahli badan perundangan. 15. Penyogokan pegawai badan awam. 16. Kesalahan menggunakan jawatan atau kedudukan untuk mendapat suapan. 17. Penalti bagi kesalahan di bawah seksyen 10, 11, 13, 14, 15 dan 16. 18. Kewajipan untuk melaporkan transaksi penyogokan. 19. Berurusan tentang, menggunakan, memegang, menerima atau menyembunyikan suapan atau faedah berhubungan dengan apa-apa kesalahan. 20. Pembuatan pernyataan yang palsu atau mengelirukan, dsb., kepada pegawai Badan atau Pendakwa Raya. 21. Percubaan, persediaan, persubahatan dan komplot jenayah boleh dihukum sebagaimana kesalahan.
+12. Penerima atau pemberi suapan adalah bersalah walaupun maksud tidak terlaksana atau perkara tidak ada hubungan dengan hal-ehwal atau perniagaan prinsipal. 13. Secara rasuah mendapatkan penarikan balik tender. 14. Penyogokan ahli badan perundangan. 15. Penyogokan pegawai badan awam. 16. Kesalahan menggunakan jawatan atau kedudukan untuk mendapat suapan. 17. Penalti bagi kesalahan di bawah seksyen 10, 11, 13, 14, 15 dan 16. 18. Kewajipan untuk melaporkan transaksi penyogokan. 19. Berurusan tentang, menggunakan, memegang, menerima atau menyembunyikan suapan atau faedah berhubungan dengan apa-apa kesalahan.
+
+20. Pembuatan pernyataan yang palsu atau mengelirukan, dsb., kepada pegawai Badan atau Pendakwa Raya.
+
+21. Percubaan, persediaan, persubahatan dan komplot jenayah boleh dihukum sebagaimana kesalahan.
 
 ## BAHAGIAN
 
@@ -46,7 +52,25 @@ IV
 
 ## PENYITAAN DAN PENANGKAPAN
 
-22. Kuasa untuk menyiasat aduan dan maklumat. 23. Kuasa untuk memeriksa orang. 24. Kuasa untuk memeriksa dan menggeledah dan menyita. 25. Terjemahan. 26. Penyitaan harta alih. 27. Peruntukan lanjut berhubungan dengan penyitaan harta alih. 28. Peguambela dan peguamcara boleh dikehendaki mendedahkan maklumat. 29. Obligasi di sisi undang-undang untuk memberikan makiumat. 30. Menghalang pemeriksaan dan penggeledahan. 31. Kesalahan di bawah Akta menjadi kesalahan boleh tangkap dan kuasa pegawai Badan berhubungan dengan penyiasatan.
+22. Kuasa untuk menyiasat aduan dan maklumat.
+
+23. Kuasa untuk memeriksa orang.
+
+24. Kuasa untuk memeriksa dan menggeledah dan menyita.
+
+25. Terjemahan.
+
+26. Penyitaan harta alih.
+
+27. Peruntukan lanjut berhubungan dengan penyitaan harta alih.
+
+28. Peguambela dan peguamcara boleh dikehendaki mendedahkan maklumat.
+
+29. Obligasi di sisi undang-undang untuk memberikan makiumat.
+
+30. Menghalang pemeriksaan dan penggeledahan.
+
+31. Kesalahan di bawah Akta menjadi kesalahan boleh tangkap dan kuasa pegawai Badan berhubungan dengan penyiasatan.
 
 <!-- page 3 -->
 
@@ -56,13 +80,47 @@ IV
 
 ## PENDAKWA RAYA
 
-32. Penyiasatan akaun syer, pembelian, dsb. 33. Kuasa Pendakwa Raya untuk mendapatkan maklumat. 34. Penyitaan harta alih di bank. 35. Penyitaan harta tak alih. 36. Larangan urusan tentang harta di luar Malaysia. 37. Pelucuthakan harta apabila pendakwaan dibuat bagi sesuatu kesalahan, 38. Pelucuthakan harta jika tiada pendakwaan bagi sesuatu kesalahan. 39. Membuat urusan tentang harta selepas penyitaan adalah tak sah. 40. Kuasa untuk memintas perhubungan. 41. Penyerahan dokumen perjalanan. 42. Kuasa Pendakwa Raya untuk meminda atau membatalkan apa-apa perintah atau notis di bawah Akta ini.
+32. Penyiasatan akaun syer, pembelian, dsb.
+
+33. Kuasa Pendakwa Raya untuk mendapatkan maklumat.
+
+34. Penyitaan harta alih di bank.
+
+35. Penyitaan harta tak alih.
+
+36. Larangan urusan tentang harta di luar Malaysia.
+
+37. Pelucuthakan harta apabila pendakwaan dibuat bagi sesuatu kesalahan,
+
+38. Pelucuthakan harta jika tiada pendakwaan bagi sesuatu kesalahan.
+
+39. Membuat urusan tentang harta selepas penyitaan adalah tak sah.
+
+40. Kuasa untuk memintas perhubungan.
+
+41. Penyerahan dokumen perjalanan.
+
+42. Kuasa Pendakwa Raya untuk meminda atau membatalkan apa-apa perintah atau notis di bawah Akta ini.
 
 ## BAHAGIAN VI
 
 ## KETERANGAN
 
-43. Anggapan dalam kesalahan tertentu. 44. Keterangan sokongan. 45. Keterangan rakan sejenayah dan ejen provokasi. 46. Kebolehterimaan pernyataan orang tertuduh. 47. Kebolehterimaan pernyataan dan dokumen orang yang sudah mati atau tidak dapat dikesan, dsb. 48. Perakuan tentang kedudukan atau jawatan yang dipegang. 49. Kebolehterimaan terjemahan dokumen. 50. Keterangan tentang kelaziman tidak boleh diterima.
+43. Anggapan dalam kesalahan tertentu.
+
+44. Keterangan sokongan.
+
+45. Keterangan rakan sejenayah dan ejen provokasi.
+
+46. Kebolehterimaan pernyataan orang tertuduh.
+
+47. Kebolehterimaan pernyataan dan dokumen orang yang sudah mati atau tidak dapat dikesan, dsb.
+
+48. Perakuan tentang kedudukan atau jawatan yang dipegang.
+
+49. Kebolehterimaan terjemahan dokumen.
+
+50. Keterangan tentang kelaziman tidak boleh diterima.
 
 ## BAHAGIAN VII
 
@@ -148,7 +206,15 @@ ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
 
 (f) mana-mana pertubuhan, kesatuan, organisasi atau badan yang ditetapkan oleh Menteri dari semasa ke semasa melalui perintah yang disiarkan dalam Warta;
 
-"bank" ertinya bank, syarikat kewangan, bank saudagar, Akta 372. atau syarikat diskaun, yang dilesenkan di bawah Akta Bank dan Institusi Kewangan 1989, atau mana-mana institusi kewangan lain yang ditubuhkan atau dilesenkan di bawah mana-mana undang-undang bertulis lain atau mana-mana koperasi yang didaftarkan atau disifatkan telah Akta 502. didaftarkan di bawah Akta Koperasi 1993;
+"bank" ertinya bank, syarikat kewangan, bank saudagar,
+
+<!-- marginal: Akta 372. -->
+
+atau syarikat diskaun, yang dilesenkan di bawah Akta Bank dan Institusi Kewangan 1989, atau mana-mana institusi kewangan lain yang ditubuhkan atau dilesenkan di bawah mana-mana undang-undang bertulis lain atau mana-mana koperasi yang didaftarkan atau disifatkan telah
+
+<!-- marginal: Akta 502. -->
+
+didaftarkan di bawah Akta Koperasi 1993;
 
 "buku jurubank" termasuklah lejar, buku harian, buku tunai, buku akaun dan segala buku dan dokumen lain yang digunakan dalam perjalanan biasa urusan sesuatu bank;
 
@@ -186,9 +252,11 @@ Pencegahan Rasuah
 
 <!-- page 8 -->
 
-(f) sesuatu persubahatan atau komplot jenayah untuk melakukan (sebagaimana istilah itu ditakrifkan N.M.B. dalam Kanun Keseksaan) mana-mana kesalahan
+(f) sesuatu persubahatan atau komplot jenayah untuk melakukan (sebagaimana istilah itu ditakrifkan
 
-## Bab 45 yang diperuntukkan dalam perenggan (a) hingga
+<!-- marginal: N.M.B. -->
+
+dalam Kanun Keseksaan) mana-mana kesalahan Bab 45 yang diperuntukkan dalam perenggan (a) hingga
 
 (d), sama ada atau tidak kesalahan itu dilakukan berbangkit daripadanya;
 
@@ -234,7 +302,11 @@ Pencegahan Rasuah
 
 (c) mana-mana firma yang orang itu, atau mana- mana penamanya, menjadi pekongsinya atau orang yang bertanggungjawab baginya atau yang mengawal perniagaannya atau hal-ehwalnya;
 
-(d) mana-mana perbadanan mengikut pengertian Akta 125. Akta Syarikat 1965, yang orang itu, atau mana- mana penamanya, menjadi pengarahnya atau bertanggungjawab baginya atau mengawal perniagaan atau hal-ehwalnya, atau yang dalamnya orang itu, bersendirian atau bersama dengan mana-mana penamanya, mempunyai kepentingan mengawal, atau syer yang nilainya berjumlah tidak kurang daripada tiga puluh peratus daripada modal terbitan keseluruhan perbadanan itu; atau
+(d) mana-mana perbadanan mengikut pengertian
+
+<!-- marginal: Akta 125. -->
+
+Akta Syarikat 1965, yang orang itu, atau mana- mana penamanya, menjadi pengarahnya atau bertanggungjawab baginya atau mengawal perniagaan atau hal-ehwalnya, atau yang dalamnya orang itu, bersendirian atau bersama dengan mana-mana penamanya, mempunyai kepentingan mengawal, atau syer yang nilainya berjumlah tidak kurang daripada tiga puluh peratus daripada modal terbitan keseluruhan perbadanan itu; atau
 
 (e) pemegang amanah mana-mana amanah, jika—
 
@@ -278,7 +350,31 @@ II
 
 ## KUASA
 
-Penubuhan 3. (1) Bagi maksud Akta ini, maka inilah ditubuhkan Badan Badan Pencegah Rasuah. Pencegah Rasuah dan pelantikan Ketua (2) Yang di-Pertuan Agong hendaklah, atas nasihat Pengarah Perdana Menteri, melantik seorang Ketua Pengarah Badan Badan itu. Pencegah Rasuah dari kalangan anggota perkhidmatan awam untuk selama apa-apa tempoh dan atas apa-apa terma dan syarat sebagaimana yang dinyatakan dalam suratcara pelantikannya.
+<!-- marginal: Penubuhan -->
+
+3. (1) Bagi maksud Akta ini, maka inilah ditubuhkan
+
+<!-- marginal: Badan -->
+
+Badan Pencegah Rasuah.
+
+<!-- marginal: Pencegah -->
+
+<!-- marginal: Rasuah dan -->
+
+<!-- marginal: pelantikan -->
+
+<!-- marginal: Ketua -->
+
+(2) Yang di-Pertuan Agong hendaklah, atas nasihat
+
+<!-- marginal: Pengarah -->
+
+Perdana Menteri, melantik seorang Ketua Pengarah Badan
+
+<!-- marginal: Badan itu. -->
+
+Pencegah Rasuah dari kalangan anggota perkhidmatan awam untuk selama apa-apa tempoh dan atas apa-apa terma dan syarat sebagaimana yang dinyatakan dalam suratcara pelantikannya.
 
 (3) Tempoh pelantikan Ketua Pengarah tidak boleh melewati tarikh persaraan wajibnya daripada perkhidmatan awam, tetapi jika dia mencapai umur persaraan wajib itu dia boleh dilantik semula sebagai Ketua Pengarah oleh Yang di-Pertuan Agong, atas nasihat Perdana Menteri, secara kontrak selama apa-apa tempoh dan atas apa-apa terma dan syarat sebagaimana yang dinyatakan dalam suratcara pelantikannya.
 
@@ -310,7 +406,9 @@ Pencegahan Rasuah
 
 (5) Perakuan pelantikan dalam bentuk kad kuasa hendaklah dikeluarkan kepada tiap-tiap pegawai Badan yang dilantik di bawah subseksyen (1) dan kad itu hendaklah ditandatangani oleh Ketua Pengarah dan hendaklah menjadi keterangan prima facie tentang pelantikannya di bawah Akta ini.
 
-(6) Apabila Akta ini mula berkuatkuasa, tiap-tiap orang 271. yang memegang jawatan di bawah Akta Badan Pencegah Rasuah 1982 hendaklah disifatkan sebagai pegawai Badan yang dilantik di bawah seksyen ini dan kehendak-kehendak subseksyen (4) hendaklah disifatkan telah dipenuhi, dan tiap-tiap pegawai itu hendaklah memegang apa-apa gelaran jawatan di bawah subseksyen (1) sebagaimana yang ditentukan oleh Menteri melalui pemberitahuan dalam Warta.
+(6) Apabila Akta ini mula berkuatkuasa, tiap-tiap orang
+
+271. yang memegang jawatan di bawah Akta Badan Pencegah Rasuah 1982 hendaklah disifatkan sebagai pegawai Badan yang dilantik di bawah seksyen ini dan kehendak-kehendak subseksyen (4) hendaklah disifatkan telah dipenuhi, dan tiap-tiap pegawai itu hendaklah memegang apa-apa gelaran jawatan di bawah subseksyen (1) sebagaimana yang ditentukan oleh Menteri melalui pemberitahuan dalam Warta.
 
 Pengemukaan 5. Tiap-tiap pegawai Badan, apabila bertindak di bawah kad kuasa Akta ini, hendaklah, apabila diminta, mengisytiharkan jawatannya dan mengemukakan kepada orang yang terhadapnya dia bertindak atau yang daripadanya dia meminta apa-apa maklumat kad kuasa yang dikeluarkan kepadanya di bawah Akta ini.
 
@@ -340,15 +438,27 @@ boleh mengeluarkan apa-apa arahan yang difikirkannya patut.
 
 (b) seseorang pegawai Badan hendaklah mempunyai segala kuasa yang diberikan kepada seseorang pegawai penjaga balai polis di bawah mana- mana undang-undang bertulis, dan bagi maksud itu pejabat pegawai itu hendaklah disifatkan sebagai balai polis.
 
-(5) Bagi mengelakkan keraguan, adalah diisytiharkan bahawa bagi maksud Akta ini, seseorang pegawai Badan hendaklah mempunyai segala kuasa seorang pegawai polis tidak kira apa jua pangkatnya sebagaimana yang diperuntukkan di bawah Kanun Tatacara Jenayah dan N.M.B.
+(5) Bagi mengelakkan keraguan, adalah diisytiharkan bahawa bagi maksud Akta ini, seseorang pegawai Badan hendaklah mempunyai segala kuasa seorang pegawai polis tidak kira apa jua pangkatnya sebagaimana yang diperuntukkan di bawah Kanun Tatacara Jenayah dan
+
+<!-- marginal: N.M.B. -->
 
 ## Bab 6.
 
-Akta Pendaftaran Penjenayah dan Orang-Orang yang Tak Akta 7. Diingini 1969 dan kuasa itu adalah tambahan kepada kuasa yang diperuntukkan di bawah Akta ini dan bukan pengurangannya, tetapi sekiranya terdapat ketakselarasan atau percanggahan antara peruntukan Akta ini dengan peruntukan Kanun Tatacara Jenayah, peruntukan Akta ini hendaklah mengatasi peruntukan Kanun itu.
+Akta Pendaftaran Penjenayah dan Orang-Orang yang Tak
 
-Kewajipan 8. Maka adalah menjadi kewajipan Ketua Pengarah dan pegawai pegawai-pegawai Badan untuk—
+<!-- marginal: Akta 7. -->
 
-### Badan.
+Diingini 1969 dan kuasa itu adalah tambahan kepada kuasa yang diperuntukkan di bawah Akta ini dan bukan pengurangannya, tetapi sekiranya terdapat ketakselarasan atau percanggahan antara peruntukan Akta ini dengan peruntukan Kanun Tatacara Jenayah, peruntukan Akta ini hendaklah mengatasi peruntukan Kanun itu.
+
+<!-- marginal: Kewajipan -->
+
+8. Maka adalah menjadi kewajipan Ketua Pengarah dan
+
+<!-- marginal: pegawai -->
+
+pegawai-pegawai Badan untuk—
+
+<!-- marginal: Badan. -->
 
 (a) menerima dan menimbangkan apa-apa aduan tentang pelakuan kesalahan di bawah Akta ini dan menyiasat mana-mana aduan itu sebagaimana yang difikirkan praktik oleh Ketua Pengarah atau pegawai-pegawai itu;
 
@@ -384,7 +494,13 @@ III
 
 ## KESALAHAN DAN PENALTI
 
-Kesalahan 10. Mana-mana orang yang sendiri atau melalui atau menerima bersama dengan mana-mana orang lain—
+<!-- marginal: Kesalahan -->
+
+10. Mana-mana orang yang sendiri atau melalui atau
+
+<!-- marginal: menerima -->
+
+bersama dengan mana-mana orang lain—
 
 (a) secara rasuah meminta atau menerima atau bersetuju untuk menerima bagi dirinya atau bagi mana-mana orang lain; atau
 
@@ -398,9 +514,21 @@ apa-apa suapan sebagai dorongan untuk atau upah bagi, atau selainnnya oleh sebab
 
 adalah melakukan suatu kesalahan.
 
-Kesalahan
+<!-- marginal: Kesalahan -->
 
-11. Jika—— memberikan atau (a) mana-mana ejen secara rasuah menerima atau terima suapan memperoleh, atau bersetuju untuk menenma atau oleh ejen. cuba untuk memperoleh, daripada mana-mana orang, untuk dirinya sendiri atau untuk mana- mana orang lain, apa-apa suapan sebagai suatu dorongan atau upah bagi melakukan atau tidak melakukan, atau kerana telah melakukan atau tidak melakukan, apa-apa perbuatan berhubungan dengan hal-ehwal atau perniagaan prinsipalnya,
+11. Jika——
+
+<!-- marginal: memberikan -->
+
+atau (a) mana-mana ejen secara rasuah menerima atau
+
+<!-- marginal: terima suapan -->
+
+memperoleh, atau bersetuju untuk menenma atau
+
+<!-- marginal: oleh ejen. -->
+
+cuba untuk memperoleh, daripada mana-mana orang, untuk dirinya sendiri atau untuk mana- mana orang lain, apa-apa suapan sebagai suatu dorongan atau upah bagi melakukan atau tidak melakukan, atau kerana telah melakukan atau tidak melakukan, apa-apa perbuatan berhubungan dengan hal-ehwal atau perniagaan prinsipalnya,
 
 <!-- page 19 -->
 
@@ -472,9 +600,17 @@ mendapatkan, mencepatkan, melambatkan, merintangi atau menghalang pelaksanaan, a
 
 adalah melakukan suatu kesalahan walaupun pegawai itu tidak mempunyai kuasa, hak atau peluang untuk berbuat demikian, untuk memberikan yang sedemikian atau untuk tidak memberikan yang sedemikian, atau walaupun dorongan atau upah itu tidak ada hubungan dengan hal- ehwal badan awam itu dan orang itu.
 
-Kesalahan
+<!-- marginal: Kesalahan -->
 
-16. (1) Mana-mana pegawai badan awam yang menggunakan menggunakan jawatan atau kedudukannya untuk mendapat jawatan atau apa-apa suapan adalah melakukan suatu kesalahan. untuk mendapat suapan. (2) Bagi maksud subseksyen (1), seseorang pegawai badan awam hendaklah dianggap, sehingga akasnya dibuktikan, telah menggunakan jawatan atau kedudukannya untuk mendapat suapan apabila dia membuat apa-apa keputusan, atau mengambil apa-apa tindakan, berhubungan dengan apa-apa perkara yang mengenainya pegawai itu, atau mana-mana saudara atau sekutunya, mempunyai kepentingan, sama ada secara langsung atau tidak langsung.
+16. (1) Mana-mana pegawai badan awam yang menggunakan menggunakan jawatan atau kedudukannya untuk mendapat jawatan atau apa-apa suapan adalah melakukan suatu kesalahan.
+
+<!-- marginal: untuk -->
+
+<!-- marginal: mendapat -->
+
+<!-- marginal: suapan. -->
+
+(2) Bagi maksud subseksyen (1), seseorang pegawai badan awam hendaklah dianggap, sehingga akasnya dibuktikan, telah menggunakan jawatan atau kedudukannya untuk mendapat suapan apabila dia membuat apa-apa keputusan, atau mengambil apa-apa tindakan, berhubungan dengan apa-apa perkara yang mengenainya pegawai itu, atau mana-mana saudara atau sekutunya, mempunyai kepentingan, sama ada secara langsung atau tidak langsung.
 
 (3) Bagi mengelakkan keraguan, adalah diisytiharkan bahawa, bagi maksud subseksyen (1), mana-mana anggota pentadbiran sesuatu Negeri hendaklah disifatkan telah menggunakan jawatan atau kedudukannya untuk mendapat suapan jika dia bertindak bertentangan dengan subseksyen
 
@@ -546,9 +682,17 @@ Rang Undang-Undang
 
 pernyataan yang dibuat oleh mana-mana orang dalam apa-apa prosiding tatatertib, sama ada prosiding undang- undang atau prosiding tatatertib itu adalah terhadap orang yang membuat pernyataan itu atau terhadap mana-mana orang lain, hendaklah disifatkan sebagai suatu pernyataan yang dibuat kepada seorang yang mempunyai kuasa atau wenang di bawah undang-undang untuk menerima pernyataan yang dibuat sedemikian.
 
-percubaan,
+<!-- marginal: percubaan, -->
 
-21. (1) Mana-mana orang yang— persediaan, dan komplot ( a) cuba melakukan apa-apa kesalahan di bawah jenayah Akta ini; dihukum sebagaimana (b) melakukan apa-apa perbuatan sebagai persediaan kesalahan atau untuk membantu pelakuan apa-apa kesalahan di bawah Akta ini; atau
+21. (1) Mana-mana orang yang—
+
+<!-- marginal: persediaan, -->
+
+dan komplot ( a) cuba melakukan apa-apa kesalahan di bawah jenayah Akta ini;
+
+<!-- marginal: dihukum -->
+
+sebagaimana (b) melakukan apa-apa perbuatan sebagai persediaan kesalahan atau untuk membantu pelakuan apa-apa kesalahan di bawah Akta ini; atau
 
 (c) bersubahat, atau terlibat dalam komplot jenayah, untuk melakukan apa-apa kesalahan di bawah Akta ini,
 
@@ -556,7 +700,11 @@ adalah melakukan kesalahan itu dan apabila disabitkan boleh dikenakan hukuman ya
 
 (2) Mana-mana peruntukan Akta ini yang mengandungi sebutan tentang sesuatu kesalahan di bawah mana-mana peruntukan khusus Akta ini hendaklah dibaca sebagai termasuk sebutan tentang suatu kesalahan di bawah subseksyen (1) berhubungan dengan kesalahan di bawah peruntukan khusus itu.
 
-(3) Perenggan (1)(a) tidaklah terpakai jika suatu percubaan untuk melakukan sesuatu perbuatan dijadikan dengan nyata suatu kesalahan di bawah Akta ini, dan perenggan (1)(c) tidaklah terpakai bagi kes sesuatu persubahatan suatu kesalahan sebagaimana yang N.M.B. diperuntukkan di bawah seksyen 164 Kanun Keseksaan.
+(3) Perenggan (1)(a) tidaklah terpakai jika suatu percubaan untuk melakukan sesuatu perbuatan dijadikan dengan nyata suatu kesalahan di bawah Akta ini, dan perenggan (1)(c) tidaklah terpakai bagi kes sesuatu persubahatan suatu kesalahan sebagaimana yang
+
+<!-- marginal: N.M.B. -->
+
+diperuntukkan di bawah seksyen 164 Kanun Keseksaan.
 
 ## Bab 45.
 
@@ -580,7 +728,9 @@ IV
 
 ## Bab 6.
 
-(4) Sesuatu aduan yang dibuat di bawah subseksyen (1) hendaklah dirahsiakan dan tidak boleh didedahkan oleh mana-mana orang kepada mana-mana orang selain pegawai-pegawai Badan dan Pendakwa Raya sehinggalah orang tertuduh dipertuduh di mahkamah atas suatu kesalahan di bawah Akta ini atau mana-mana undang- undang bertulis lain berbangkit daripada aduan itu.
+(4) Sesuatu aduan yang dibuat di bawah subseksyen
+
+(1) hendaklah dirahsiakan dan tidak boleh didedahkan oleh mana-mana orang kepada mana-mana orang selain pegawai-pegawai Badan dan Pendakwa Raya sehinggalah orang tertuduh dipertuduh di mahkamah atas suatu kesalahan di bawah Akta ini atau mana-mana undang- undang bertulis lain berbangkit daripada aduan itu.
 
 (5) Suatu salinan, yang diperakui oleh seorang pegawai Badan yang berpangkat Penguasa atau yang lebih tinggi, bagi catatan di bawah subseksyen (2) tentang sesuatu aduan di bawah subseksyen (1), boleh diterima sebagai keterangan kandungan asal aduan itu dan masa, tempat dan cara aduan itu direkodkan.
 
@@ -628,9 +778,23 @@ tidak kira sama ada prosiding itu adalah terhadap orang yang diperiksa, atau yan
 
 (10) Mana-mana orang yang melanggar seksyen ini adalah melakukan suatu kesalahan.
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-24. (1) Bilamana ternyata pada Pendakwa Raya memeriksa berdasarkan maklumat, dan selepas apa-apa siasatan yang dan menggeledah difikirkannya perlu, bahawa ada sebab yang munasabah dan menyita. untuk mengesyaki bahawa di mana-mana tempat ada apa- apa keterangan tentang pelakuan sesuatu kesalahan di
+24. (1) Bilamana ternyata pada Pendakwa Raya
+
+<!-- marginal: memeriksa -->
+
+berdasarkan maklumat, dan selepas apa-apa siasatan yang
+
+<!-- marginal: dan -->
+
+<!-- marginal: menggeledah -->
+
+difikirkannya perlu, bahawa ada sebab yang munasabah
+
+<!-- marginal: dan menyita. -->
+
+untuk mengesyaki bahawa di mana-mana tempat ada apa- apa keterangan tentang pelakuan sesuatu kesalahan di
 
 <!-- page 31 -->
 
@@ -738,11 +902,7 @@ Menghalang 30. Mana-mana orang yang— pemeriksaan dan (a) enggan memberikan man
 
 <!-- marginal: atau -->
 
-menyembunyikan atau cuba
-
-<!-- marginal: untuk -->
-
-menyembunyikan daripada, seseorang pegawai Badan apa-apa buku, dokumen, atau barang, yang berhubungan dengannya pegawai itu ada alasan yang munasabah untuk mengesyaki bahawa suatu kesalahan di bawah Akta ini telah atau sedang dilakukan, atau yang boleh disita di bawah Akta ini;
+menyembunyikan atau cuba untuk menyembunyikan daripada, seseorang pegawai Badan apa-apa buku, dokumen, atau barang, yang berhubungan dengannya pegawai itu ada alasan yang munasabah untuk mengesyaki bahawa suatu kesalahan di bawah Akta ini telah atau sedang dilakukan, atau yang boleh disita di bawah Akta ini;
 
 (f) mengambil balik atau berusaha untuk mengambil balik atau menyebabkan diambil balik apa-apa jua yang telah disita dengan sewajarnya; atau
 
@@ -842,21 +1002,9 @@ mengemukakan apa-apa akaun, dokumen atau barang yang disebut dalam subseksyen (2
 
 (iii) yang menyatakan nilai anggaran dan tempat terletaknya setiap harta yang dikenal pasti di bawah subperenggan (i) dan (ii), dan jika mana-mana harta itu tidak dapat diketahui tempat letaknya, sebab mengapa;
 
-(iv) menyatakan berkenaan dengan setiap harta yang dikenal pasti di bawah subperenggan (i) dan (ii) sama ada harta itu dipegang olehnya atau oleh mana-mana orang lain bagi pihaknya, sama ada harta itu telah dipindahmilikkan, dijual kepada atau disimpan dengan mana-mana orang, sama ada harta itu telah susut nilainya sejak dia memperolehnya, dan sama ada ia telah berbaur dengan harta lain yang tidak dapat dipisahkan atau dibahagikan
+(iv) menyatakan berkenaan dengan setiap harta yang dikenal pasti di bawah subperenggan (i) dan (ii) sama ada harta itu dipegang olehnya atau oleh mana-mana orang lain bagi pihaknya, sama ada harta itu telah dipindahmilikkan, dijual kepada atau disimpan dengan mana-mana orang, sama ada harta itu telah susut nilainya sejak dia memperolehnya, dan sama ada ia telah berbaur dengan harta lain yang tidak dapat dipisahkan atau dibahagikan tanpa kesukaran;
 
-<!-- marginal: tanpa -->
-
-kesukaran;
-
-(v) menyatakan segala maklumat lain yang berhubungan dengan
-
-<!-- marginal: hartanya, -->
-
-perniagaannya, perjalanannya, atau kegiatan-kegiatannya yang
-
-<!-- marginal: lain -->
-
-sebagaimana yang dinyatakan dalam notis itu; dan
+(v) menyatakan segala maklumat lain yang berhubungan dengan hartanya, perniagaannya, perjalanannya, atau kegiatan-kegiatannya yang lain sebagaimana yang dinyatakan dalam notis itu; dan
 
 (vi) menyatakan segala punca pendapatannya, perolehannya atau asetnya;
 
@@ -872,19 +1020,15 @@ orang itu mempunyai apa-apa kepentingan, sama ada di sisi undang-undang atau eku
 
 (iii) yang menyatakan nilai anggaran dan tempat terletaknya setiap harta yang dikenal pasti di bawah subperenggan (i) dan (ii), dan jika mana-mana harta itu tidak dapat diketahui tempat letaknya, sebab mengapa;
 
-(iv) menyatakan berkenaan dengan setiap harta yang dikenal pasti di bawah subperenggan (i) dan (ii) sama ada harta itu dipegang olehnya atau oleh mana-mana orang lain bagi pihaknya, sama ada harta itu telah dipindahmilikkan, dijual kepada atau disimpan dengan mana-mana orang, sama ada harta itu telah susut nilainya sejak dia memperolehnya, dan sama ada ia telah berbaur dengan harta lain yang tidak dapat dipisahkan atau dibahagikan
+(iv) menyatakan berkenaan dengan setiap harta yang dikenal pasti di bawah subperenggan
 
-<!-- marginal: tanpa -->
-
-kesukaran;
+(i) dan (ii) sama ada harta itu dipegang olehnya atau oleh mana-mana orang lain bagi pihaknya, sama ada harta itu telah dipindahmilikkan, dijual kepada atau disimpan dengan mana-mana orang, sama ada harta itu telah susut nilainya sejak dia memperolehnya, dan sama ada ia telah berbaur dengan harta lain yang tidak dapat dipisahkan atau dibahagikan tanpa kesukaran;
 
 (v) menyatakan segala maklumat lain yang berhubungan dengan setiap harta yang dikenal pasti di bawah subperenggan (i) dan (ii), dan perniagaan, perjalanan, atau kegiatan-kegiatan lain orang itu; dan
 
 (vi) menyatakan segala punca pendapatan, perolehan atau aset orang itu; dan
 
-(c) menghendaki mana-mana pegawai mana-mana bank atau institusi kewangan, atau mana-mana orang yang sehingga apa-apa
-
-<!-- marginal: takat -->
+(c) menghendaki mana-mana pegawai mana-mana bank atau institusi kewangan, atau mana-mana orang yang sehingga apa-apa takat
 
 <!-- page 44 -->
 
@@ -920,7 +1064,7 @@ bertanggungjawab bagi pengurusan dan kawalan hal-ehwal mana-mana bank atau mana-
 
 (c) yang diperuntukkan dalam seksyen 20.
 
-Penyitaan
+<!-- marginal: Penyitaan -->
 
 34. (1) jika Pendakwa Raya berpuas hati berdasarkan harta alih maklumat yang diberikan kepadanya oleh seseorang di bank pegawai Badan bahawa apa-apa harta alih, termasuk apa- apa instrumen wang atau apa-apa pertambahan kepadanya, yang menjadi hal perkara sesuatu kesalahan di bawah Akta ini atau keterangan berhubungan dengan pelakuan kesalahan itu, ada dalam milikan, jagaan atau kawalan suatu bank, dia boleh, walau apa pun mana-mana undang- undang bertulis lain atau rukun undang-undang, dengan perintah mengarahkan bank itu supaya tidak melepaskan, berurusan tentang, atau selainnya melupuskan harta itu atau mana-mana bahagiannya sehingga perintah itu dibatalkan atau diubah.
 
@@ -938,7 +1082,9 @@ Penyitaan
 
 (c) dengan menyampaikan suatu salinan Notis itu pada Pentadbir Tanah atau Pendaftar Hakmilik, mengikut mana-mana yang berkenaan, di Semenanjung Malaysia, atau Pendaftar Hakmilik atau Pemungut Hasil Tanah, mengikut mana- mana yang berkenaan, di Sabah, atau pada Pengarah Tanah dan Ukur atau Pendaftar yang bertanggungjawab bagi hakmilik tanah, mengikut mana-mana yang berkenaan, di Sarawak, bagi kawasan tempat terletaknya harta tak alih itu.
 
-(2) Pentadbir Tanah, Pemungut Hasil Tanah, Pengarah Tanah dan Ukur, Pendaftar Hakmilik atau Pendaftar yang bertanggungjawab bagi hakmilik tanah, mengikut mana- mana yang berkenaan, yang disebut dalam subseksyen (1) hendaklah dengan serta-merta apabila disampaikan kepadanya Notis Penyitaan di bawah subseksyen (1) mencatatkan terma Notis Penyitaan itu pada dokumen hakmilik yang berkenaan dengan harta tak alih itu dalam Daftar di pejabatnya.
+(2) Pentadbir Tanah, Pemungut Hasil Tanah, Pengarah Tanah dan Ukur, Pendaftar Hakmilik atau Pendaftar yang bertanggungjawab bagi hakmilik tanah, mengikut mana- mana yang berkenaan, yang disebut dalam subseksyen
+
+(1) hendaklah dengan serta-merta apabila disampaikan kepadanya Notis Penyitaan di bawah subseksyen (1) mencatatkan terma Notis Penyitaan itu pada dokumen hakmilik yang berkenaan dengan harta tak alih itu dalam Daftar di pejabatnya.
 
 (3) Jika catatan tentang Notis Penyitaan telah dibuat di bawah subseksyen (2), Notis itu hendaklah mempunyai kesan melarang segala urusan berkenaan dengan harta tak alih itu, dan selepas catatan itu dibuat tiada urusan
 
@@ -948,11 +1094,29 @@ berkenaan dengan harta tak alih itu boleh didaftarkan, tidak kira sama ada ia di
 
 (4) Subseksyen (3) tidaklah terpakai bagi sesuatu urusan yang dilaksanakan oleh seseorang pegawai badan awam atas sifatnya sebagai pegawai sedemikian, atau selainnya oleh atau bagi pihak Kerajaan Malaysia atau Kerajaan sesuatu Negeri, atau suatu pihak berkuasa tempatan atau badan berkanun lain.
 
-(5) Mana-mana orang yang melanggar subseksyen (2) atau (3) atau melakukan apa-apa perbuatan yang menghasilkan, atau menyebabkan, pelanggaran subseksyen (2) atau (3) adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi dua kali ganda nilai harta yang berkenaan dengannya perintah Pendakwa Raya telah dilanggar, atau lima puluh ribu ringgit, mengikut mana-mana yang lebih tinggi, dan boleh dipenjarakan selama tempoh tidak melebihi dua tahun.
+(5) Mana-mana orang yang melanggar subseksyen (2) atau (3) atau melakukan apa-apa perbuatan yang menghasilkan, atau menyebabkan, pelanggaran subseksyen
+
+(2) atau (3) adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi dua kali ganda nilai harta yang berkenaan dengannya perintah Pendakwa Raya telah dilanggar, atau lima puluh ribu ringgit, mengikut mana-mana yang lebih tinggi, dan boleh dipenjarakan selama tempoh tidak melebihi dua tahun.
 
 (6) Jika suatu Notis Penyitaan telah dikeluarkan di bawah subseksyen (1), adalah menjadi kesalahan bagi tuan punya berdaftar harta tak alih yang disita di bawah Notis itu, atau bagi mana-mana orang lain yang mempunyai apa-apa kepentingan mengenai harta tak alih itu, yang tahu tentang Notis itu, membuat perjanjian dengan disedarinya dengan mana-mana orang untuk menjual, memindahmilikkan, atau selainnya melupuskan atau membuat urusan tentang, keseluruhan atau sebahagian daripada harta tak alih itu.
 
-Larangan 36. Jika Pendakwa Raya berpuas had bahawa apa-apa urusan harta ialah hal perkara sesuatu kesalahan di bawah Akta tentang harta di tuar ini atau telah digunakan dalam melakukan kesalahan itu, Malaysia. dan harta itu dipegang atau didepositkan di luar Malaysia, dia boleh membuat suatu permohonan melalui afidavit kepada seorang Hakim Mahkamah Tinggi untuk mendapatkan perintah yang melarang orang yang memegang harta itu atau yang dengannya harta itu didepositkan membuat urusan tentang harta itu.
+<!-- marginal: Larangan -->
+
+36. Jika Pendakwa Raya berpuas had bahawa apa-apa
+
+<!-- marginal: urusan -->
+
+harta ialah hal perkara sesuatu kesalahan di bawah Akta
+
+<!-- marginal: tentang harta -->
+
+<!-- marginal: di tuar -->
+
+ini atau telah digunakan dalam melakukan kesalahan itu,
+
+<!-- marginal: Malaysia. -->
+
+dan harta itu dipegang atau didepositkan di luar Malaysia, dia boleh membuat suatu permohonan melalui afidavit kepada seorang Hakim Mahkamah Tinggi untuk mendapatkan perintah yang melarang orang yang memegang harta itu atau yang dengannya harta itu didepositkan membuat urusan tentang harta itu.
 
 <!-- page 49 -->
 
@@ -984,9 +1148,29 @@ dia hendaklah membuat perintah bagi pelucuthakan harta itu.
 
 (4) Harta yang berkenaan dengannya tiada permohonan dibuat di bawah subseksyen (1) hendaklah, apabila tamat tempoh dua belas bulan dari tarikh penyitaannya, dilepaskan kepada orang yang daripadanya harta itu disita.
 
-Membuat
+<!-- marginal: Membuat -->
 
-39. (i) Jika apa-apa harta disita di bawah Akta ini, urusan dan selagi penyitaan itu berkuatkuasa, apa-apa urusan tentang harta selepas yang dilaksanakan oleh mana-mana orang atau antara penyitaan mana-mana orang berkenaan dengan harta itu, kecuali adalah tak sah. apa-apa urusan yang dilaksanakan di bawah Akta ini atau menurut kuasa Akta ini oleh seseorang pegawai sesuatu badan awam atas sifatnya sebagai pegawai sedemikian, atau selainnya oleh atau bagi pihak Kerajaan Malaysia atau Kerajaan sesuatu Negeri, atau suatu pihak berkuasa tempatan, atau pihak berkuasa berkanun lain, adalah batal dan tak sah, dan tidak boleh didaftarkan atau selainnya diberi kuatkuasa oleh mana-mana orang atau pihak berkuasa.
+39. (i) Jika apa-apa harta disita di bawah Akta ini,
+
+<!-- marginal: urusan -->
+
+dan selagi penyitaan itu berkuatkuasa, apa-apa urusan
+
+<!-- marginal: tentang harta -->
+
+<!-- marginal: selepas -->
+
+yang dilaksanakan oleh mana-mana orang atau antara
+
+<!-- marginal: penyitaan -->
+
+mana-mana orang berkenaan dengan harta itu, kecuali
+
+<!-- marginal: adalah tak -->
+
+<!-- marginal: sah. -->
+
+apa-apa urusan yang dilaksanakan di bawah Akta ini atau menurut kuasa Akta ini oleh seseorang pegawai sesuatu badan awam atas sifatnya sebagai pegawai sedemikian, atau selainnya oleh atau bagi pihak Kerajaan Malaysia atau Kerajaan sesuatu Negeri, atau suatu pihak berkuasa tempatan, atau pihak berkuasa berkanun lain, adalah batal dan tak sah, dan tidak boleh didaftarkan atau selainnya diberi kuatkuasa oleh mana-mana orang atau pihak berkuasa.
 
 (2) Subseksyen (1) adaiah tambahan kepada dan tidak mengurangkan subseksyen 35(3) and (4).
 
@@ -1022,9 +1206,15 @@ bahawa la mungkin mengandungi apa-apa maklumat yang relevan bagi maksud apa-apa 
 
 "barang pos" mempunyai erti yang sama seperti dalam Akta 465. Akta Perkhidmatan Pos 1991;
 
-"telekomunikasi" mempunyai erti yang sama seperti Akta 20. dalam Akta Telekomunikasi 1950.
+"telekomunikasi" mempunyai erti yang sama seperti
 
-Penyerahan 41 (1) Walau apa pun mana-mana undang-undang dokumen bertulis yang berlawanan, Pendakwa Raya boleh, jika perjalanan dia ada sebab untuk mempercayai bahawa mana-mana orang yang menjadi subjek penyiasatan berkenaan dengan sesuatu kesalahan di bawah Akta ini yang disyaki telah dilakukan olehnya mungkin meninggalkan Malaysia, dengan notis bertulis menghendaki orang itu supaya menyerahkan perakuan pengenalan, pasport atau permit keluarnya, atau apa-apa dokumen perjalanan yang lain dalam milikannya.
+<!-- marginal: Akta 20. -->
+
+dalam Akta Telekomunikasi 1950.
+
+<!-- marginal: Penyerahan -->
+
+41 (1) Walau apa pun mana-mana undang-undang dokumen bertulis yang berlawanan, Pendakwa Raya boleh, jika perjalanan dia ada sebab untuk mempercayai bahawa mana-mana orang yang menjadi subjek penyiasatan berkenaan dengan sesuatu kesalahan di bawah Akta ini yang disyaki telah dilakukan olehnya mungkin meninggalkan Malaysia, dengan notis bertulis menghendaki orang itu supaya menyerahkan perakuan pengenalan, pasport atau permit keluarnya, atau apa-apa dokumen perjalanan yang lain dalam milikannya.
 
 (2) Notis di bawah subsekyen (1) hendaklah disampaikan secara ke diri pada orang yang kepadanya ia dialamatkan.
 
@@ -1052,13 +1242,23 @@ Penyerahan 41 (1) Walau apa pun mana-mana undang-undang dokumen bertulis yang be
 
 ## KETERANGAN
 
-Anggapan
+<!-- marginal: Anggapan -->
 
-43. (1) Jika dalam mana-mana prosiding terhadap mana- dalam mana orang atas sesuatu kesalahan di bawah seksyen kesalahan tertentu. 10, 11, 13, 14, 15 atau 16 adalah dibuktikan bahawa apa-apa suapan telah disetuju-terima atau dipersetujui untuk disetuju-terima, diperoleh atau cuba diperoleh, diminta, diberikan atau dipersetujui untuk diberikan, dijanjikan, atau ditawarkan oleh atau kepada tertuduh, suapan itu hendaklah dianggap telah disetuju-terima atau dipersetujui untuk disetuju-terima, diperoleh atau cuba diperoleh, diminta, diberikan atau dipersetujui untuk diberikan, dijanjikan atau ditawarkan secara rasuah sebagai dorongan atau upah bagi atau kerana perkara-perkara yang dinyatakan dalam butir-butir kesalahan itu, melainkan jika akasnya dibuktikan.
+43. (1) Jika dalam mana-mana prosiding terhadap mana-
+
+<!-- marginal: dalam -->
+
+mana orang atas sesuatu kesalahan di bawah seksyen
+
+<!-- marginal: kesalahan -->
+
+<!-- marginal: tertentu. -->
+
+10, 11, 13, 14, 15 atau 16 adalah dibuktikan bahawa apa-apa suapan telah disetuju-terima atau dipersetujui untuk disetuju-terima, diperoleh atau cuba diperoleh, diminta, diberikan atau dipersetujui untuk diberikan, dijanjikan, atau ditawarkan oleh atau kepada tertuduh, suapan itu hendaklah dianggap telah disetuju-terima atau dipersetujui untuk disetuju-terima, diperoleh atau cuba diperoleh, diminta, diberikan atau dipersetujui untuk diberikan, dijanjikan atau ditawarkan secara rasuah sebagai dorongan atau upah bagi atau kerana perkara-perkara yang dinyatakan dalam butir-butir kesalahan itu, melainkan jika akasnya dibuktikan.
 
 (2) Jika dalam mana-mana prosiding terhadap mana- mana orang atas sesuatu kesalahan di bawah seksyen
 
-### N.M.B.
+<!-- marginal: N.M.B. -->
 
 161, 162, 163 atau 164 Kanun Keseksaan, adalah
 
@@ -1084,7 +1284,13 @@ dan keterangan yang berhubungan dengannya hendaklah dianggap menyokong apa-apa k
 
 <!-- page 56 -->
 
-Keterangan 45. Walau apa pun mana-mana undang-undang rakan bertulis atau rukun undang-undang yang berlawanan, dalam sejenayah mana-mana presiding terhadap mana-mana orang atas dan ejen sesuatu kesalahan di bawah Akta ini—
+<!-- marginal: Keterangan -->
+
+45. Walau apa pun mana-mana undang-undang
+
+<!-- marginal: rakan -->
+
+bertulis atau rukun undang-undang yang berlawanan, dalam sejenayah mana-mana presiding terhadap mana-mana orang atas dan ejen sesuatu kesalahan di bawah Akta ini—
 
 (a) tiada saksi boleh dianggap sebagai rakan sejenayah hanya semata-mata kerana saksi itu telah—
 
@@ -1146,9 +1352,27 @@ Rang Undang-Undang
 
 hendaklah boleh diterima sebagai keterangan dalam mana- mana prosiding di bawah Akta ini di hadapan mana- mana mahkamah, jika orang yang membuat pernyataan atau dokumen itu atau salinan dokumen itu sudah mati, atau tidak dapat dikesan atau ditemui, atau sudah menjadi tak berupaya untuk memberikan keterangan, atau yang kehadirannya tidak dapat diperoleh tanpa kelengahan atau perbelanjaan yang pada pendapat mahkamah tidak munasabah.
 
-Perakuan
+<!-- marginal: Perakuan -->
 
-48. (1) Perakuan yang dikeluarkan oleh seseorang tentang prinsipal atau seseorang pegawai bagi pihak prinsipalnya kedudukan atau jawatan hendaklah boleh diterima sebagai keterangan dalam mana- yang mana prosiding terhadap mana-mana orang atas apa-apa dipegang. kesalahan di bawah Akta ini sebagai bukti prima facie bahawa orang yang dinamakan dalam perakuan itu—
+48. (1) Perakuan yang dikeluarkan oleh seseorang
+
+<!-- marginal: tentang -->
+
+prinsipal atau seseorang pegawai bagi pihak prinsipalnya
+
+<!-- marginal: kedudukan -->
+
+<!-- marginal: atau jawatan -->
+
+hendaklah boleh diterima sebagai keterangan dalam mana-
+
+<!-- marginal: yang -->
+
+mana prosiding terhadap mana-mana orang atas apa-apa
+
+<!-- marginal: dipegang. -->
+
+kesalahan di bawah Akta ini sebagai bukti prima facie bahawa orang yang dinamakan dalam perakuan itu—
 
 (a) telah memegang kedudukan, jawatan atau sifat yang dinyatakan dalam perakuan itu dan selama tempoh yang dinyatakan sedemikian; dan
 
@@ -1160,9 +1384,19 @@ Perakuan
 
 mengeluarkannya.
 
-Keboleh-
+<!-- marginal: Keboleh- -->
 
-49. (1) Jika apa-apa dokumen yang digunakan dalam terimaan mana-mana prosiding terhadap mana-mana orang atas terjemahan dokumen. sesuatu kesalahan di bawah Akta ini adalah dalam suatu bahasa selain bahasa kebangsaan atau bahasa Inggeris, terjeniahan dokumen itu dalam bahasa kebangsaan atau bahasa Inggeris hendaklah boleh diterima sebagai keterangan jika terjeniahan itu disertakan dengan perakuan orang yang menterjemahkan dokumen itu yang menyatakan bahawa terjemahan itu ialah terjemahan yang benar dan tepat dan terjemahan itu telah dibuat oleh orang itu atas kehendak Pendakwa Raya atau seorang pegawai Badan.
+49. (1) Jika apa-apa dokumen yang digunakan dalam
+
+<!-- marginal: terimaan -->
+
+mana-mana prosiding terhadap mana-mana orang atas
+
+<!-- marginal: terjemahan -->
+
+<!-- marginal: dokumen. -->
+
+sesuatu kesalahan di bawah Akta ini adalah dalam suatu bahasa selain bahasa kebangsaan atau bahasa Inggeris, terjeniahan dokumen itu dalam bahasa kebangsaan atau bahasa Inggeris hendaklah boleh diterima sebagai keterangan jika terjeniahan itu disertakan dengan perakuan orang yang menterjemahkan dokumen itu yang menyatakan bahawa terjemahan itu ialah terjemahan yang benar dan tepat dan terjemahan itu telah dibuat oleh orang itu atas kehendak Pendakwa Raya atau seorang pegawai Badan.
 
 <!-- page 61 -->
 
@@ -1190,7 +1424,11 @@ Keboleh-
 
 (4) Sesuatu permohonan oleh Pendakwa Raya di bawah subseksyen (1) boleh dikemukakan kepada mahkamah oleh pegawai yang menjalankan pendakwaan.
 
-perlindungan 54, (1) Tertakluk kepada subseksyen (2), jika apa-apa pemberi aduan yang dibuat oleh seseorang pegawai Badan maklumat dan menyatakan bahawa aduan itu dibuat berbangkit daripada maklumat maklumat yang diterima oleh pegawai yang membuat aduan itu, maklumat yang disebut dalam aduan itu dan identiti orang yang daripadanya maklumat itu diterima hendaklah menjadi rahsia antara pegawai yang membuat aduan itu dengan orang yang memberikan maklumat itu, dan segala-gala yang terkandung dalam maklumat itu, identiti orang yang memberikan maklumat itu dan segala hal keadaan lain yang berhubungan dengan maklumat itu, termasuk tempat maklumat itu diberikan, tidak boleh didedahkan atau diperintahkan atau dikehendaki supaya didedahkan dalam mana-mana prosiding sivil, jenayah atau yang lain dalam mana-mana mahkamah, tribunal atau pihak berkuasa lain.
+perlindungan 54, (1) Tertakluk kepada subseksyen (2), jika apa-apa
+
+<!-- marginal: pemberi -->
+
+aduan yang dibuat oleh seseorang pegawai Badan maklumat dan menyatakan bahawa aduan itu dibuat berbangkit daripada maklumat maklumat yang diterima oleh pegawai yang membuat aduan itu, maklumat yang disebut dalam aduan itu dan identiti orang yang daripadanya maklumat itu diterima hendaklah menjadi rahsia antara pegawai yang membuat aduan itu dengan orang yang memberikan maklumat itu, dan segala-gala yang terkandung dalam maklumat itu, identiti orang yang memberikan maklumat itu dan segala hal keadaan lain yang berhubungan dengan maklumat itu, termasuk tempat maklumat itu diberikan, tidak boleh didedahkan atau diperintahkan atau dikehendaki supaya didedahkan dalam mana-mana prosiding sivil, jenayah atau yang lain dalam mana-mana mahkamah, tribunal atau pihak berkuasa lain.
 
 (2) Jika apa-apa buku, kertas atau dokumen lain, atau apa-apa rakaman tampak atau bunyi, atau benda atau bahan lain yang diberikan sebagai keterangan atau yang boleh diperiksa dalam mana-mana prosiding sivil, jenayah atau yang lain dalam mana-mana mahkamah, tribunal atau pihak berkuasa lain sebagaimana yang disebut dalam subseksyen (1) mengandungi apa-apa catatan atau benda
 
@@ -1216,13 +1454,9 @@ Rang Undang-Undang
 
 (2) Apa-apa prosiding terhadap mana-mana orang di bawah seksyen i ni yang akan menjadi galangan terhadap prosiding kemudiannya terhadap orang itu bagi kesalahan yang sama jika kesalahan itu dilakukan di Malaysia hendaklah menjadi gaiangan terhadap prosiding selanjutnya lerhadapnya di bawah mana-mana undang-undang bertulis yang berhubungan dengan ekstradisi orang-orang, bcrkenaan dengan kesalahan yang sama di luar Malaysia.
 
-Pemakaian
+Pemakaian 57. Walau apa pun mana-mana undang-undang bertulis peruntukan lain yang berlawanan, peruntukan Akta ini hendaklah Akta ini bagi terpakai bagi sesuatu kesalahan ditetapkan tidak kira sama kesalahan ada pendakwaan atau apa-apa presiding lam berkenaan ditetapkandengankesalahanitudimulakanataudiambiloleh seseorang pegawai Badan, atau seseorang pegawai polis atau pegawai kastam, atau mana-mana pegawai lain yang mempunyai kuasa untuk menyiasat, mendakwa atau mengambil apa-apa prosiding berkenaan dengan kesalahan itu.
 
-57. Walau apa pun mana-mana undang-undang bertulis peruntukan lain yang berlawanan, peruntukan Akta ini hendaklah Akta ini bagi terpakai bagi sesuatu kesalahan ditetapkan tidak kira sama kesalahan ada pendakwaan atau apa-apa presiding lam berkenaan ditetapkandengankesalahanitudimulakanataudiambiloleh seseorang pegawai Badan, atau seseorang pegawai polis atau pegawai kastam, atau mana-mana pegawai lain yang mempunyai kuasa untuk menyiasat, mendakwa atau mengambil apa-apa prosiding berkenaan dengan kesalahan itu.
-
-Kesalahan
-
-58. Mana-mana erang yang tidak mematuhi mana-mana am peruntukan Akta ini atau mana-mana perintah, arahan atau notis yang dkeluarkan oleh atau bagi pihak sesuatu mahkamah, Pendakwa Raya, atau seseorang pegawai Badan pada menjalankan fungsi-fungsinya di bawah Akta ini, adalah melakukan suatu kesalahan.
+Kesalahan 58. Mana-mana erang yang tidak mematuhi mana-mana am peruntukan Akta ini atau mana-mana perintah, arahan atau notis yang dkeluarkan oleh atau bagi pihak sesuatu mahkamah, Pendakwa Raya, atau seseorang pegawai Badan pada menjalankan fungsi-fungsinya di bawah Akta ini, adalah melakukan suatu kesalahan.
 
 Panalti am.
 
@@ -1312,9 +1546,7 @@ Penalti paling berat dalam Bahagian II Akta 57 ialah denda maksimum sepuluh ribu
 
 Adalah dicadangkan supaya Mahkamah masih diberi budi bicara sama ada hendak membenarkan tertuduh diikat jamin di bawah seksyen 173A atau 294 Kanun Tatacara Jenayah.
 
-## Bahagian III juga bertujuan untuk menghendaki seseorang yang
-
-kepadanya suapan ditawarkan atau mana-mana orang yang daripadanya suapan diminta supaya melaporkan tawaran atau permintaan itu. Ini terkandung dalam fasal 18.
+Bahagian III juga bertujuan untuk menghendaki seseorang yang kepadanya suapan ditawarkan atau mana-mana orang yang daripadanya suapan diminta supaya melaporkan tawaran atau permintaan itu. Ini terkandung dalam fasal 18.
 
 Di bawah fasal 19, seseorang melakukan kesalahan jika dia membuat urusan tentang, menggunakan, memegang atau menyembunyikan apa-apa harta yang menjadi hal perkara mana- mana kesalahan yang dicadangkan dalam fasal 10, 11, 13, 14, 15 dan 16.
 

@@ -20,6 +20,8 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ‘ “limited liability law partnership” means a limited liability law partnership approved under section 40r and registered in accordance with the requirements of that section;
 
+<!-- marginal: WJW24/1140 BI.indd 1 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 2 -->
@@ -84,6 +86,8 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (i) in chambers in the High Court and in the subordinate courts, to conduct any cause or matter; and
 
+<!-- marginal: WJW24/1140 BI.indd 3 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 4 -->
@@ -118,7 +122,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 11. The principal Act is amended by inserting after section 40o the following part:
 
-“Part IVb
+## “PART IVB
 
 ## LIMITED LIABILITY LAW PARTNERSHIPS
 
@@ -145,6 +149,8 @@ In this Part, unless the context otherwise requires—
 (b) the conversion of an existing firm into a limited liability law partnership; and
 
 (c) the proposed name for the limited liability law partnership.
+
+<!-- marginal: WJW24/1140 BI.indd 5 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -176,6 +182,8 @@ In this Part, unless the context otherwise requires—
 
 (iii) is not incompatible with the dignity of the legal profession.
 
+<!-- marginal: WJW24/1140 BI.indd 6 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 7 -->
@@ -198,6 +206,8 @@ In this Part, unless the context otherwise requires—
 
 (c) all documents, records, goods or things held by or for, or in the possession of, such firm shall be deemed to be held by or for, or in the possession of, such limited liability law partnership;
 
+<!-- marginal: WJW24/1140 BI.indd 7 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 8 -->
@@ -215,6 +225,8 @@ In this Part, unless the context otherwise requires—
 ### partnership
 
 40v. A limited liability law partnership shall have the rights and shall be subjected to the fiduciary, confidential and ethical requirements with regard to each client of the limited liability law partnership same as the rights and the fiduciary, confidential and ethical requirements that exist at law with regard to an advocate and solicitor and his client.
+
+<!-- marginal: WJW24/1140 BI.indd 8 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -242,6 +254,8 @@ commits an offence and shall, on conviction, be liable to a fine not exceeding t
 
 (a) the limited liability law partnership fails to comply with the requirements of this Act or the rules made under section 40zd relating to a limited liability law partnership; or
 
+<!-- marginal: WJW24/1140 BI.indd 9 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 10 -->
@@ -268,15 +282,15 @@ commits an offence and shall, on conviction, be liable to a fine not exceeding t
 
 (4) Notwithstanding subsection (3), the Bar Council may restore the name of the limited liability law partnership to the register for the purpose of enabling the Bar Council or any
 
+<!-- marginal: WJW24/1140 BI.indd 10 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 11 -->
 
 State Bar Committee or any other person to exercise any rights or powers in relation to such limited liability law partnership under this Act for or in connection with—
 
-(a) the professional practice, etiquette, conduct and discipline of advocate and solicitor and clerks under
-
-## Part VI or disciplinary proceedings under Part VII;
+(a) the professional practice, etiquette, conduct and discipline of advocate and solicitor and clerks under Part VI or disciplinary proceedings under Part VII;
 
 (b) the protection of clients or former clients of the limited liability law partnership; or
 
@@ -299,6 +313,8 @@ State Bar Committee or any other person to exercise any rights or powers in rela
 40zc. (1) The provisions of this Part and the rules made under section 40zd shall be read together with the provisions of the Limited Liability Partnerships Act 2012.
 
 (2) In the case of any conflict or inconsistency between any provision of the Limited Liability Partnerships Act 2012 and any provision of this Part, the provisions of this Part shall prevail.
+
+<!-- marginal: WJW24/1140 BI.indd 11 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -324,7 +340,7 @@ State Bar Committee or any other person to exercise any rights or powers in rela
 
 12. The principal Act is amended by inserting after section 76 the following part:
 
-“Part Va
+## “PART VA
 
 ## BAR COUNCIL LEGAL AID CENTRE
 
@@ -337,6 +353,8 @@ In this Part, unless the context otherwise requires—
 “aided person” means a person who satisfy the means test and receives legal aid under this Part;
 
 “Centre” means the Bar Council Legal Aid Centre under section 76b;
+
+<!-- marginal: WJW24/1140 BI.indd 12 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -368,6 +386,8 @@ In this Part, unless the context otherwise requires—
 
 (a) to provide legal aid to aided persons;
 
+<!-- marginal: WJW24/1140 BI.indd 13 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 14 -->
@@ -397,6 +417,8 @@ In this Part, unless the context otherwise requires—
 ### Branches of the Centre
 
 76e. (1) Where the Centre establishes a branch in any state outside its principal office, such branch shall be managed and administered by the Centre, with the assistance of the relevant State Bar Committee.
+
+<!-- marginal: WJW24/1140 BI.indd 14 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -428,6 +450,8 @@ In this Part, unless the context otherwise requires—
 
 76h. (1) The Centre shall, upon receiving the application under section 76g, as soon as practicable, notify any relevant party and file a Memorandum of Notification in Form 1 of the Second Schedule in the court in which the proceedings has been instituted.
 
+<!-- marginal: WJW24/1140 BI.indd 15 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 16 -->
@@ -451,6 +475,8 @@ In this Part, unless the context otherwise requires—
 ### Aided person not liable to pay costs
 
 76j. (1)̃The aided person shall not, unless expressly provided under this Act, be liable for costs to any other party in any proceedings to which the Legal Aid Certificate relates.
+
+<!-- marginal: WJW24/1140 BI.indd 16 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -479,6 +505,8 @@ In this Part, unless the context otherwise requires—
 (a) any appropriate fee and charge for work done; and
 
 (b) any expenses incurred by the Centre.
+
+<!-- marginal: WJW24/1140 BI.indd 17 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -516,6 +544,8 @@ In this Part, unless the context otherwise requires—
 
 (f) admission.”.
 
+<!-- marginal: WJW24/1140 BI.indd 18 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 19 -->
@@ -544,6 +574,8 @@ In this Part, unless the context otherwise requires—
 
 “(d) prescribe the conditions which a professional indemnity or an insurance policy must satisfy for the purpose of paragraph (1)(b) or (c)”;
 
+<!-- marginal: WJW24/1140 BI.indd 19 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 20 -->
@@ -563,6 +595,8 @@ In this Part, unless the context otherwise requires—
 (c) by substituting for subsection (3) the following subsection:
 
 “(3) Nothing in this section shall affect the right of any advocate and solicitor or limited liability law partnership, in addition to the indemnity provided in the rules made under this section, to insure the advocate and solicitor or the limited liability law partnership further against loss arising from such claims as may be instituted against the advocate and solicitor or the limited liability law partnership.”.
+
+<!-- marginal: WJW24/1140 BI.indd 20 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -584,6 +618,8 @@ In this Part, unless the context otherwise requires—
 
 (b) the limited liability law partnership has ceased to carry on the practice of an advocate and solicitor or has been wound up.”;
 
+<!-- marginal: WJW24/1140 BI.indd 21 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 22 -->
@@ -599,6 +635,8 @@ In this Part, unless the context otherwise requires—
 (d) by substituting for subsection (11) the following subsection:
 
 “(11) Reference in subsection (10) to the person to whom the grant is made or the advocate and solicitor, limited liability law partnership, or clerk or servant of the advocate and solicitor or the limited liability law partnership shall include, in the case of death, insolvency or other disability of the advocate and solicitor, limited liability law partnership, or clerk or servant of the advocate and solicitor or the limited liability law partnership, reference to his personal representatives or any other person having authority to administer his estate or its assets.”.
+
+<!-- marginal: WJW24/1140 BI.indd 22 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -622,6 +660,8 @@ In this Part, unless the context otherwise requires—
 
 (d) do any other act enabling another advocate and solicitor who does not have a valid practising certificate or another limited liability law partnership which is not authorized to carry on the practice of an advocate and solicitor, to appear, do, practise or purport to
 
+<!-- marginal: WJW24/1140 BI.indd 23 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 24 -->
@@ -643,6 +683,8 @@ practise as an advocate and solicitor in any legal proceedings or matters which 
 (4 ) A ny a dvoc ate and so licito r wh o con tr av e ne s subsection (1) or (2), or any partner of or other person involved in the management or control of a limited liability law partnership who contravenes subsection (3), may be liable to disciplinary proceedings.
 
 (5) Any unauthorized person who acts or practises or purports to practise as an advocate and solicitor or any limited liability partnership which is not authorized to carry on the practice of an advocate and solicitor which carries on the practice or purports to practise as an advocate and solicitor commits an offence and shall, on conviction, be liable to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding one year or to both.”.
+
+<!-- marginal: WJW24/1140 BI.indd 24 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -678,6 +720,8 @@ practise as an advocate and solicitor in any legal proceedings or matters which 
 
 (ii) by inserting after the words “advocate and solicitor” the words“or limited liability law partnership”;
 
+<!-- marginal: WJW24/1140 BI.indd 25 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 26 -->
@@ -712,6 +756,8 @@ practise as an advocate and solicitor in any legal proceedings or matters which 
 
 shall not in the same transaction act for the purchaser of that property.”;
 
+<!-- marginal: WJW24/1140 BI.indd 26 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 27 -->
@@ -737,6 +783,8 @@ acting for the developer in respect of such transaction shall be scrutinized by 
 (f) in subsection (5)—
 
 (i) by substituting for the words “Subsection (1)” the words “Subsections (1), (1a) and (1b)”; and
+
+<!-- marginal: WJW24/1140 BI.indd 27 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -774,6 +822,8 @@ acting for the developer in respect of such transaction shall be scrutinized by 
 
 ### and solicitor”; and
 
+<!-- marginal: WJW24/1140 BI.indd 28 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 29 -->
@@ -802,6 +852,8 @@ acting for the developer in respect of such transaction shall be scrutinized by 
 
 has been guilty of dishonesty in connection with that advocate and solicitor’s or limited liability law partnership’s practice as an advocate and solicitor or in connection with any trust of which that advocate and solicitor or limited liability law partnership is a trustee, the Bar Council may issue a certificate to that effect and thereupon the First Schedule, except paragraph 7 of the Schedule, shall apply in relation to that advocate and solicitor or the limited liability law partnership.”;
 
+<!-- marginal: WJW24/1140 BI.indd 29 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 30 -->
@@ -821,6 +873,8 @@ has been guilty of dishonesty in connection with that advocate and solicitor’s
 (b) all sums of money which are—
 
 (i) due from the advocate and solicitor or his firm to his or his firm’s client, or due from the limited liability law partnership to its client;
+
+<!-- marginal: WJW24/1140 BI.indd 30 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -852,6 +906,8 @@ has been guilty of dishonesty in connection with that advocate and solicitor’s
 
 (i) an advocate and solicitor in connection with any matter in which the advocate and solicitor or his firm has been instructed on behalf of his or his firm’s client;
 
+<!-- marginal: WJW24/1140 BI.indd 31 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 32 -->
@@ -873,6 +929,8 @@ has been guilty of dishonesty in connection with that advocate and solicitor’s
 (v) by substituting for the word “Schedule” wherever appearing the words “First Schedule”;
 
 (vii) by inserting after the words “in relation to that advocate and solicitor” the words “or limited liability law partnership”; and
+
+<!-- marginal: WJW24/1140 BI.indd 32 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -899,6 +957,8 @@ has been guilty of dishonesty in connection with that advocate and solicitor’s
 (c) by inserting after paragraph (o) the following paragraph:
 
 “(p) the failure without reasonable excuse to ensure as a partner of, or as a person involved in the management or control of, a limited liability law partnership that such limited liability law partnership complies with the requirements of this Act and all rules made thereunder or any directions or ruling of the Bar Council.”.
+
+<!-- marginal: WJW24/1140 BI.indd 33 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -964,6 +1024,8 @@ has been guilty of dishonesty in connection with that advocate and solicitor’s
 
 (i) by inserting after the words “an advocate and solicitor” the words “or a limited liability law partnership”; and
 
+<!-- marginal: WJW24/1140 BI.indd 35 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 36 -->
@@ -974,7 +1036,9 @@ has been guilty of dishonesty in connection with that advocate and solicitor’s
 
 30. Section 115 of the principal Act is amended—
 
-(a) by substituting for the shoulder note the following shoulder note:
+(a) by substituting for the shoulder note the following shoulder
+
+<!-- marginal: note: -->
 
 ### “Costs of negotiation of mortgagor”;
 
@@ -989,6 +1053,8 @@ has been guilty of dishonesty in connection with that advocate and solicitor’s
 (iv) by substituting for the words “such usual costs as he or they” the words “such usual costs as the advocate and solicitor, the firm or the limited liability law partnership”; and
 
 (v) by substituting for the words “and the mortgagor had retained and employed him or them” the words “or an entity which is not a limited liability law partnership and the mortgagor had retained and employed the advocate and solicitor, the firm or the limited liability law partnership”; and
+
+<!-- marginal: WJW24/1140 BI.indd 36 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -1012,9 +1078,13 @@ has been guilty of dishonesty in connection with that advocate and solicitor’s
 
 31. Section 116 of the principal Act is amended—
 
-(a) by substituting for the shoulder note the following shoulder note:
+(a) by substituting for the shoulder note the following shoulder
+
+<!-- marginal: note: -->
 
 ### “Agreement for costing contentious business”; and
+
+<!-- marginal: WJW24/1140 BI.indd 37 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -1043,6 +1113,8 @@ has been guilty of dishonesty in connection with that advocate and solicitor’s
 (b) in subsection (2), by inserting after the words “the advocate and solicitor” the words “or the limited liability law partnership”;
 
 (c) in subsection (3), by inserting after the words “an advocate and solicitor” the words “or a limited liability law partnership”; and
+
+<!-- marginal: WJW24/1140 BI.indd 38 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -1076,6 +1148,8 @@ has been guilty of dishonesty in connection with that advocate and solicitor’s
 
 ### liability law partnership”;
 
+<!-- marginal: WJW24/1140 BI.indd 39 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 40 -->
@@ -1103,6 +1177,8 @@ an application may be made to the Court by any party to the agreement or by the 
 (a) in subsection (1)—
 
 (i) by inserting after the words “his advocate and solicitor” the words “or the limited liability law partnership acting for him”;
+
+<!-- marginal: WJW24/1140 BI.indd 40 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -1135,6 +1211,8 @@ an application may be made to the Court by any party to the agreement or by the 
 (a) in the shoulder note, by deleting the words “of advocate
 
 ### and solicitor”; and
+
+<!-- marginal: WJW24/1140 BI.indd 41 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -1200,6 +1278,8 @@ an application may be made to the Court by any party to the agreement or by the 
 
 (ii) in the case of a partnership or limited liability law partnership, by any of the partners, either with his own name or with the name or style of the partnership or the limited liability law partnership; or
 
+<!-- marginal: WJW24/1140 BI.indd 43 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 44 -->
@@ -1225,6 +1305,8 @@ an application may be made to the Court by any party to the agreement or by the 
 (c) has compounded with his creditors; or
 
 (d) has taken any other steps or done any other act which in the opinion of the court would defeat or delay the advocate and solicitor or limited liability law partnership in obtaining payment.”.
+
+<!-- marginal: WJW24/1140 BI.indd 44 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -1257,6 +1339,8 @@ an application may be made to the Court by any party to the agreement or by the 
 (a) by substituting for the shoulder note the following shoulder note:
 
 ### “Time limit for taxation of bill of costs”; and
+
+<!-- marginal: WJW24/1140 BI.indd 45 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -1324,6 +1408,8 @@ an advocate and solicitor or a limited liability law partnership.”.
 
 ### solicitor”;
 
+<!-- marginal: WJW24/1140 BI.indd 47 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 48 -->
@@ -1358,6 +1444,8 @@ an advocate and solicitor or a limited liability law partnership.”.
 
 (ii) by inserting after the words “liability of the advocate and solicitor” the words “or the limited liability law partnership”.
 
+<!-- marginal: WJW24/1140 BI.indd 48 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 49 -->
@@ -1366,7 +1454,9 @@ an advocate and solicitor or a limited liability law partnership.”.
 
 51. The Schedule to the principal Act is amended—
 
-(a) by renaming the existing Schedule as the “first schedule”;
+(a) by renaming the existing Schedule as the
+
+## “FIRST SCHEDULE”;
 
 (b) in the heading, by deleting the words “OF AN ADVOCATE
 
@@ -1385,6 +1475,8 @@ an advocate and solicitor or a limited liability law partnership.”.
 (e) in paragraph 5, by inserting after the words “the advocate and solicitor” the words “, the limited liability law partnership”;
 
 (f) in paragraph 7, by inserting after the words “the advocate and solicitor or his firm” the words “, or in the name of the limited liability law partnership”;
+
+<!-- marginal: WJW24/1140 BI.indd 49 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -1407,6 +1499,8 @@ an advocate and solicitor or a limited liability law partnership.”.
 (i) by substituting for the words “paragraph 9” the words “paragraph 9a”; and
 
 (ii) by inserting after the words “the advocate and solicitor or his firm” the words “or the limited liability law partnership”;
+
+<!-- marginal: WJW24/1140 BI.indd 50 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -1432,6 +1526,8 @@ an advocate and solicitor or a limited liability law partnership.”.
 
 (m) in paragraph 14, by substituting for the words “shall be paid by the advocate and solicitor and shall be recoverable from him” the words “shall be paid by and recoverable from, the advocate and solicitor or the limited liability law partnership”.
 
+<!-- marginal: WJW24/1140 BI.indd 51 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 52 -->
@@ -1440,7 +1536,7 @@ an advocate and solicitor or a limited liability law partnership.”.
 
 52. The principal Act is amended by inserting after the First Schedule the following schedule:
 
-“second schedule
+## “SECOND SCHEDULE
 
 [Sections 76h, 76i and 76k]
 
@@ -1502,6 +1598,8 @@ This Legal Aid Certificate is filed by the Bar Council Legal Aid Centre (name of
 
 File Ref.:
 
+<!-- marginal: WJW24/1140 BI.indd 53 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 54 -->
@@ -1558,6 +1656,8 @@ This Bill seeks to amend the Legal Profession Act 1976 (“Act 166”). The purp
 
 10. Clause 9 seeks to amend subsection 40f(1) of Act 166 to allow a limited liability law partnership formed pursuant to an arrangement between a foreign law firm and Malaysian law firm to apply to the Bar Council for an international partnership licence.
 
+<!-- marginal: WJW24/1140 BI.indd 55 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 56 -->
@@ -1606,6 +1706,8 @@ The proposed new section 76a contains the definition of certain words and expres
 
 The proposed new section 76b requires the Bar Council to administer the Bar Council Legal Aid Centre (“Centre”) with one or more branches in each State for the purpose of carrying out the functions under the proposed new section 76c. Further, the Bar Council may give directions to the Centre and the Centre shall be responsible to the Bar Council.
 
+<!-- marginal: WJW24/1140 BI.indd 57 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 58 -->
@@ -1652,6 +1754,8 @@ The proposed new section 76m empowers the Bar Council, with the approval of the 
 
 21. Clause 20 seeks to amend subsection 87(1) of Act 166 to empower the Registrar to make an interim certificate as to the amount payable by the limited liability law partnership to the client if it appears to the Registrar that there are moneys due from a limited liability law partnership to the client.
 
+<!-- marginal: WJW24/1140 BI.indd 59 -->
+
 <!-- marginal: 28/11/2024 2:42 AM -->
 
 <!-- page 60 -->
@@ -1691,6 +1795,8 @@ Subclause 30(c) seeks to amend subsection 115(2) of Act 166 to also provide that
 32. Clause 34 seeks to amend section 119 of Act 166 to extend the application of section 119 of Act 166 to a limited liability law partnership with regard to the effect of agreement entered into between the limited liability law partnership with its client but not performed due to the winding up of the limited liability law partnership .
 
 33. Clause 35 seeks to amend section 120 of Act 166 to extend the application of section 120 of Act 166 to a limited liability law partnership with regard to the right of a client to change the limited liability law partnership acting for him before the conclusion of the business relating to an agreement under section 116 of Act 166 is concluded.
+
+<!-- marginal: WJW24/1140 BI.indd 61 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->
 
@@ -1739,5 +1845,7 @@ Subclause 30(c) seeks to amend subsection 115(2) of Act 166 to also provide that
 This Bill will not involve the Government in any extra financial expenditure.
 
 <!-- marginal: [PN(U2)3155] -->
+
+<!-- marginal: WJW24/1140 BI.indd 63 -->
 
 <!-- marginal: 28/11/2024 2:42 AM -->

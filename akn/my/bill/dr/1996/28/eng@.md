@@ -50,11 +50,7 @@ is amended in section 2 by inserting before the definition of "Chairman" the fol
 
 (b) the Lembaga may, by notification in the Gazette, establish different disciplinary committees for different categories of officers or servants of the Lembaga.
 
-(3) The following shall apply
-
-<!-- marginal: to any -->
-
-disciplinary committee established pursuant to subsection (2)(b):
+(3) The following shall apply to any disciplinary committee established pursuant to subsection (2)(b):
 
 (a) such committee shall consist of any number of members of the Lembaga, other than the Chairman of the Lembaga, or officers of the Lembaga, or any combination of such members and officers; and
 
@@ -68,7 +64,23 @@ disciplinary committee established pursuant to subsection (2)(b):
 
 ## (AMENDMENT)
 
-Appeal 16B. (1) A decision of the disciplinary committee against under section 16A(2)(a) shall be appealable to decision of disciplinary the Minister. committee. (2) A decision of the disciplinary committee under section 16A(2)(b) shall be appealable to the Disciplinary Appeal Committee which shall consist of the following members:
+<!-- marginal: Appeal -->
+
+16B. (1) A decision of the disciplinary committee
+
+<!-- marginal: against -->
+
+under section 16A(2)(a) shall be appealable to
+
+<!-- marginal: decision of -->
+
+<!-- marginal: disciplinary -->
+
+the Minister.
+
+<!-- marginal: committee. -->
+
+(2) A decision of the disciplinary committee under section 16A(2)(b) shall be appealable to the Disciplinary Appeal Committee which shall consist of the following members:
 
 (a) the Chairman of the Lembaga, who shall be the chairman of the Disciplinary Appeal Committee and having a casting vote; and
 
@@ -78,9 +90,23 @@ Appeal 16B. (1) A decision of the disciplinary committee against under section 1
 
 (4) When the Disciplinary Appeal Committee considers an appeal under subsection (2), a member of the disciplinary committee against whose decision the appeal is made who is also a member of the Lembaga shall not be present or in any way participate in any proceedings relating to that appeal.
 
-(5) The decision of the Minister or the Disciplinary Appeal Committee under subsection (3) shall be final and conclusive.
+(5) The decision of the Minister or the Disciplinary Appeal Committee under subsection
 
-Power to 16c. (1) The Lembaga may, with the approval make of the Minister, make such regulations as it disciplinary regulations. deems necessary or expedient to provide for the discipline of the officers and servants of the Lembaga.
+(3) shall be final and conclusive.
+
+<!-- marginal: Power to -->
+
+16c. (1) The Lembaga may, with the approval
+
+<!-- marginal: make -->
+
+of the Minister, make such regulations as it
+
+<!-- marginal: disciplinary -->
+
+<!-- marginal: regulations. -->
+
+deems necessary or expedient to provide for the discipline of the officers and servants of the Lembaga.
 
 <!-- page 4 -->
 
@@ -90,11 +116,7 @@ Power to 16c. (1) The Lembaga may, with the approval make of the Minister, make 
 
 (b) may provide for disciplinary punishments as the Lembaga may deem appropriate, and the punishments may extend to warning, fine, forfeiture of emoluments, deferment of salary movement, reduction of salary, reduction in rank and dismissal;
 
-(c) shall provide for an opportunity to the person against whom disciplinary proceedings are taken to make representations against the disciplinary charge laid against him before a decision is arrived at by the disciplinary committee except in the following cases: (i) where an officer or servant of the Lembaga is dismissed or reduced in rank on the ground of conduct in respect of which a criminal charge has been proved against him; (ii) where the Lembaga, on
-
-<!-- marginal: the -->
-
-recommendations of the Minister charged with home affairs, is satisfied that in the interest of the security of Malaysia or any part thereof it is not expedient to carry out the requirements of this paragraph; or (iii) where there has been made against an officer or servant of the Lembaga any order of detention, supervision, restricted residence, banishment or deportation, or where there has been imposed on such officer or servant of the Lembaga any form of restriction or supervision by bond or otherwise, under any law relating to the security of Malaysia or any part thereof, prevention of crime,
+(c) shall provide for an opportunity to the person against whom disciplinary proceedings are taken to make representations against the disciplinary charge laid against him before a decision is arrived at by the disciplinary committee except in the following cases: (i) where an officer or servant of the Lembaga is dismissed or reduced in rank on the ground of conduct in respect of which a criminal charge has been proved against him; (ii) where the Lembaga, on the recommendations of the Minister charged with home affairs, is satisfied that in the interest of the security of Malaysia or any part thereof it is not expedient to carry out the requirements of this paragraph; or (iii) where there has been made against an officer or servant of the Lembaga any order of detention, supervision, restricted residence, banishment or deportation, or where there has been imposed on such officer or servant of the Lembaga any form of restriction or supervision by bond or otherwise, under any law relating to the security of Malaysia or any part thereof, prevention of crime,
 
 <!-- page 5 -->
 
@@ -106,7 +128,17 @@ preventive detention, restricted residence, banishment, immigration, or protecti
 
 (e) may provide for the suspension without emoluments of an officer or servant of the Lembaga where the officer or servant has been convicted by any criminal court or where an order of detention or restriction has been made in respect of or imposed on the officer or servant.
 
-Imposition 16D. (1) A person who is or was in the of employment of the Lembaga may be surcharged surcharge. if it appears to the Lembaga that the person—
+<!-- marginal: Imposition -->
+
+16D. (1) A person who is or was in the
+
+<!-- marginal: of -->
+
+employment of the Lembaga may be surcharged
+
+<!-- marginal: surcharge. -->
+
+if it appears to the Lembaga that the person—
 
 (a) has failed to collect money owing to the Lembaga for the collection of which he is or was responsible;
 
@@ -132,11 +164,29 @@ to any person to whom such payment is due under any law or under any contract, a
 
 (b) in the case of subsections (1)(d) and (e), surcharge against the person, such sum as the Lembaga may think fit.
 
-Notification 16E. The Lembaga shall notify the person of surcharge. surcharged in respect of any surcharge made. under section 16D(3).
+<!-- marginal: Notification -->
 
-Withdrawal 16F. Notwithstanding section 16D(3) and section of surcharge. 16E, the Lembaga may at any time withdraw any surcharge in respect of which a satisfactory explanation has been received or if it otherwise appears that no surcharge should have been made, and the Lembaga shall forthwith notify the person surcharged of the withdrawal,
+16E. The Lembaga shall notify the person
 
-Recovery of 16G. The amount of any surcharge made under surcharge. section 16D(3) and not withdrawn under section 16F shall be a debt due to the Lembaga from the person surcharged and may be sued for and recovered in any court at the suit of the
+<!-- marginal: of surcharge. -->
+
+surcharged in respect of any surcharge made. under section 16D(3).
+
+<!-- marginal: Withdrawal -->
+
+16F. Notwithstanding section 16D(3) and section
+
+<!-- marginal: of surcharge. -->
+
+16E, the Lembaga may at any time withdraw any surcharge in respect of which a satisfactory explanation has been received or if it otherwise appears that no surcharge should have been made, and the Lembaga shall forthwith notify the person surcharged of the withdrawal,
+
+<!-- marginal: Recovery of -->
+
+16G. The amount of any surcharge made under
+
+<!-- marginal: surcharge. -->
+
+section 16D(3) and not withdrawn under section 16F shall be a debt due to the Lembaga from the person surcharged and may be sued for and recovered in any court at the suit of the
 
 <!-- page 7 -->
 

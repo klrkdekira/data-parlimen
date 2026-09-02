@@ -684,7 +684,7 @@ Suruhanjaya atau Tribunal Rayuan Persaingan atau mahkamah untuk menghendaki peng
 
 33. Akta ibu dipinda dengan menggantikan Jadual Pertama dengan jadual yang berikut:
 
-“Jadual Pertama
+## “JADUAL PERTAMA
 
 [Seksyen 3]
 
@@ -768,7 +768,9 @@ Subfasal 15(c) bertujuan untuk meminda subseksyen 34(3) Akta 712 untuk memastika
 
 Subfasal 17(b) bertujuan untuk meminda subseksyen 36(2) Akta 712 untuk memperuntukkan bahawa notis bertulis mengenai keputusan yang dicadangkan oleh Suruhanjaya yang diberikan di bawah subseksyen 36(1) Akta 712 hendaklah memaklumkan perusahaan yang tersentuh dengan keputusan itu bahawa perusahaan itu boleh memilih untuk mengemukakan representasi bertulis kepada Suruhanjaya.
 
-Subfasal 17(c) bertujuan untuk memasukkan subseksyen baharu 36(3), (4), (5), (6) dan (7) ke dalam Akta 712 untuk mengadakan peruntukan selanjutnya yang komprehensif yang berhubungan dengan keputusan yang dicadangkan oleh Suruhanjaya. Ini termasuklah peruntukan yang membenarkan Suruhanjaya untuk memulakan semula penyiasatan di bawah Akta 712 selepas notis bertulis mengenai keputusan yang dicadangkan atau keputusan yang dicadangkan tambahan telah diberikan.
+Subfasal 17(c) bertujuan untuk memasukkan subseksyen baharu 36(3), (4),
+
+(5), (6) dan (7) ke dalam Akta 712 untuk mengadakan peruntukan selanjutnya yang komprehensif yang berhubungan dengan keputusan yang dicadangkan oleh Suruhanjaya. Ini termasuklah peruntukan yang membenarkan Suruhanjaya untuk memulakan semula penyiasatan di bawah Akta 712 selepas notis bertulis mengenai keputusan yang dicadangkan atau keputusan yang dicadangkan tambahan telah diberikan.
 
 <!-- page 35 -->
 

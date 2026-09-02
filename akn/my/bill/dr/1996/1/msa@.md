@@ -24,11 +24,23 @@ II
 
 ## MAJLIS PENDIDIKAN TINGGI NEGARA
 
-3. Penubuhan Majlis. 4. Anggota Majlis. 5. Penjalanan sementara fungsi Pengerusi. 6. Tempoh perlantikan. 7. Hilang kelayakan menjadi anggota. 8. Terhenti menjadi anggota. 9. Kekosongan. 10. Anggota boleh meletakkan jawatan dengan notis. 11. Penamatan perlantikan. 12. Pungsi Majlis.
+3. Penubuhan Majlis. 4. Anggota Majlis. 5. Penjalanan sementara fungsi Pengerusi. 6. Tempoh perlantikan. 7. Hilang kelayakan menjadi anggota. 8. Terhenti menjadi anggota. 9. Kekosongan.
+
+10. Anggota boleh meletakkan jawatan dengan notis.
+
+11. Penamatan perlantikan.
+
+12. Pungsi Majlis.
 
 ## BAHAGIAN
 
-III AM 13. Jawatankuasa. 14. Majlis hendaklah menentukan prosedurnya sendiri. 15. Mesyuarat.
+III AM
+
+13. Jawatankuasa.
+
+14. Majlis hendaklah menentukan prosedurnya sendiri.
+
+15. Mesyuarat.
 
 <!-- page 2 -->
 
@@ -174,13 +186,25 @@ sebab tidak dapat menghadiri mesyuarat Majlis.
 
 <!-- page 6 -->
 
-Tempoh
+<!-- marginal: Tempoh -->
 
-6. Perlantikan seseorang anggota Majlis di bawah perlantikan. perenggan 4(g), (h) dan (i) hendaklah dibuat oleh Menteri dan, tertakluk kepada seksyen 7 dan 11, hendaklah bagi suatu tempoh tidak melebihi tiga tahun dan tiap-tiap anggota yang dilantik sedemikian hendaklah, apabila terhenti menjadi anggota, layak untuk dilantik semula.
+6. Perlantikan seseorang anggota Majlis di bawah
 
-Hilang
+<!-- marginal: perlantikan. -->
 
-7. Orang yang berikut hilang kelayakan untuk dilantik kelayakan sebagai atau untuk menjadi anggota Majlis: menjadi anggota.
+perenggan 4(g), (h) dan (i) hendaklah dibuat oleh Menteri dan, tertakluk kepada seksyen 7 dan 11, hendaklah bagi suatu tempoh tidak melebihi tiga tahun dan tiap-tiap anggota yang dilantik sedemikian hendaklah, apabila terhenti menjadi anggota, layak untuk dilantik semula.
+
+<!-- marginal: Hilang -->
+
+7. Orang yang berikut hilang kelayakan untuk dilantik
+
+<!-- marginal: kelayakan -->
+
+sebagai atau untuk menjadi anggota Majlis:
+
+<!-- marginal: menjadi -->
+
+<!-- marginal: anggota. -->
 
 (a) seseorang yang telah disabitkan atas suatu kesalahan yang melibatkan fraud, kecurangan atau keburukan akhlak;
 
@@ -188,27 +212,53 @@ Hilang
 
 (c) seseorang yang tak sempurna akal atau selainnya tak berupaya untuk menunaikan kewajipannya.
 
-Terhenti
+<!-- marginal: Terhenti -->
 
-8. Seseorang anggota Majlis yang dilantik di bawah menjadi perenggan 4( g ), (h) dan (i) hendaklah terhenti menjadi anggota. anggota—
+8. Seseorang anggota Majlis yang dilantik di bawah
+
+<!-- marginal: menjadi -->
+
+perenggan 4( g ), (h) dan (i) hendaklah terhenti menjadi
+
+<!-- marginal: anggota. -->
+
+anggota—
 
 (a) jika dia tidak menghadiri mesyuarat Majlis tiga kali berturut-turut tanpa kebenaran Pengerusi Majlis; atau
 
 (b) jika perlantikannya dibatalkan.
 
-Kekosongan.
+<!-- marginal: Kekosongan. -->
 
 9. Jika berlaku sesuatu kekosongan daripada kalangan anggota Majlis yang dilantik di bawah perenggan 4(g),
 
 (h) atau (i), kekosongan itu hendaklah diisi oleh seseorang yang dilantik oleh Menteri.
 
-Anggota
+<!-- marginal: Anggota -->
 
-10. Seseorang anggota yang dilantik oleh Menteri di bawah boleh perenggan 4(i) boleh meletakkan jawatan sebagai anggota meletakkan jawatan Majlis pada bila-bila masa dengan memberi satu bulan notis dengan notis. secara bertulis kepada Menteri.
+10. Seseorang anggota yang dilantik oleh Menteri di bawah
 
-Penamatan
+<!-- marginal: boleh -->
 
-11. Menteri boleh menamatkan perlantikan mana-mana perlantikan. anggota Majlis yang dilantik di bawah perenggan 4(g), (h) atau (i) pada bila-bila masa tanpa memberikan apa-apa alasan mengenainya.
+perenggan 4(i) boleh meletakkan jawatan sebagai anggota
+
+<!-- marginal: meletakkan -->
+
+<!-- marginal: jawatan -->
+
+Majlis pada bila-bila masa dengan memberi satu bulan notis
+
+<!-- marginal: dengan notis. -->
+
+secara bertulis kepada Menteri.
+
+<!-- marginal: Penamatan -->
+
+11. Menteri boleh menamatkan perlantikan mana-mana
+
+<!-- marginal: perlantikan. -->
+
+anggota Majlis yang dilantik di bawah perenggan 4(g), (h) atau (i) pada bila-bila masa tanpa memberikan apa-apa alasan mengenainya.
 
 <!-- page 7 -->
 
@@ -238,11 +288,7 @@ Universiti yang ditubuhkan di bawah Akta Universiti dan Kolej Universiti 1971;
 
 (h) untuk menentukan dasar dan menetapkan garis panduan mengenai bidang atau kursus pengajian yang diusahakan oleh institusi pendidikan tinggi;
 
-(i) untuk menentukan dasar dan menetapkan garis panduan mengenai penjalanan apa-apa kursus pengajian atau program latihan oleh institusi pendidikan tinggi bersesama atau bersama-sama dengan, secara bergabung, secara usahasama atau selainnya, dengan mana-mana Universiti atau institusi pendidikan tinggi atau
-
-<!-- marginal: institusi -->
-
-pendidikan atau organisasi lain di dalam atau di luar Malaysia;
+(i) untuk menentukan dasar dan menetapkan garis panduan mengenai penjalanan apa-apa kursus pengajian atau program latihan oleh institusi pendidikan tinggi bersesama atau bersama-sama dengan, secara bergabung, secara usahasama atau selainnya, dengan mana-mana Universiti atau institusi pendidikan tinggi atau institusi pendidikan atau organisasi lain di dalam atau di luar Malaysia;
 
 (j) untuk menentukan dasar dan menetapkan garis panduan mengenai penglibatan Universiti dalam aktiviti perniagaan mengikut kuasa yang diberikan
 
@@ -260,7 +306,7 @@ di bawah Akta Universiti dan Kolej Universiti 1971; dan
 
 AM
 
-Jawatankuasa.
+<!-- marginal: Jawatankuasa. -->
 
 13. (1) Majlis boleh menubuhkan jawatankuasa yang difikirkannya patut bagi maksud membantu Majlis melaksanakan fungsinya.
 
@@ -270,11 +316,21 @@ Jawatankuasa.
 
 (4) Seseorang yang dilantik di bawah subseksyen (2) atau diundang menjadi anggota sesuatu jawatankuasa di bawah subseksyen (3) boleh dibayar apa-apa elaun yang ditentukan oleh Menteri.
 
-Majlis
+<!-- marginal: Majlis -->
 
-14. Tertakluk kepada Akta ini, Majlis hendaklah hendaklah menentukan prosedurnya sendiri. menentukan prosedumya sendiri.
+14. Tertakluk kepada Akta ini, Majlis hendaklah
 
-Mesyuarat.
+<!-- marginal: hendaklah -->
+
+menentukan prosedurnya sendiri.
+
+<!-- marginal: menentukan -->
+
+<!-- marginal: prosedumya -->
+
+<!-- marginal: sendiri. -->
+
+<!-- marginal: Mesyuarat. -->
 
 15. (1) Majlis hendaklah bermesyuarat sebagaimana dan apabila dikehendaki berbuat sedemikian oleh Pengerusi Majlis.
 

@@ -50,11 +50,23 @@ thereto by the Labuan Offshore Business Activity Tax Act 1990;
 
 <!-- page 2 -->
 
-3. Akta ibu adalah dipinda dengan memasukkan, selepas bam 3B. sahaja seksyen 3A, seksyen baru 3B yang berikut:
+<!-- marginal: Seksyen -->
+
+3. Akta ibu adalah dipinda dengan memasukkan, selepas
+
+<!-- marginal: bam 3B. -->
+
+sahaja seksyen 3A, seksyen baru 3B yang berikut:
 
 SB. Notwithstanding section 3, tax shall not be "Non-charge- ability to tax charged under this Act on income in respect of in respect of an offshore business activity carried on by an offshore business offshore company.". activity.
 
-Pindaan 4. Seksyen 108 Akta ibu adalah dipinda dengan meng- seksyen 108 gantikan subseksyen (11) dengan yang berikut:
+<!-- marginal: Pindaan -->
+
+4. Seksyen 108 Akta ibu adalah dipinda dengan meng-
+
+<!-- marginal: seksyen 108 -->
+
+gantikan subseksyen (11) dengan yang berikut:
 
 "(11) This section shall not apply to—
 
@@ -64,9 +76,25 @@ Pindaan 4. Seksyen 108 Akta ibu adalah dipinda dengan meng- seksyen 108 gantikan
 
 (i) income derived from an offshore business activity; or
 
-(ii) income exempt from tax.". 5. Akta ibu adalah dipinda dengan memasukkan, selepas baru 110A. sahaja seksyen 110, seksyen baru 110A yang berikut:
+(ii) income exempt from tax.".
 
-"Non-entitle- 110A. Notwithstanding subsection (1) of ment of an section 110, where an offshore company offshore company for receives any dividend from which tax has been set-off. deducted under section 108, the tax so deducted shall not be set off against the tax charged on the chargeable income of the offshore company.". 6. Akta ibu adalah dipinda dengan memasukkan selepas baru 11 IA. sahaja seksyen 111, seksyen baru l 1 1A yang berikut:
+<!-- marginal: Seksyen -->
+
+5. Akta ibu adalah dipinda dengan memasukkan, selepas
+
+<!-- marginal: baru 110A. -->
+
+sahaja seksyen 110, seksyen baru 110A yang berikut:
+
+"Non-entitle- 110A. Notwithstanding subsection (1) of ment of an section 110, where an offshore company offshore company for receives any dividend from which tax has been set-off. deducted under section 108, the tax so deducted shall not be set off against the tax charged on the chargeable income of the offshore company.".
+
+<!-- marginal: Seksyen -->
+
+6. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: baru 11 IA. -->
+
+sahaja seksyen 111, seksyen baru l 1 1A yang berikut:
 
 "Non-entitle- lllA. Notwithstanding section 111, where tax ment of an has been deducted under section 108 from any offshore company to dividend received by an offshore company, that refund. offshore company shall not be entitled to have the tax so deducted refunded by
 

@@ -8,25 +8,41 @@
 
 ## SUSUNAN FASAL
 
-## Bahagian i
+## BAHAGIAN I
 
-PERMULaan 1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran
+## PERMULAAN
 
-## Bahagian ii
+1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran
 
-SURUhanJaYa
+## BAHAGIAN II
 
-3. Penubuhan Suruhanjaya 4. Meterai perbadanan 5. Keanggotaan Suruhanjaya 6. Anggota silih ganti 7. Tempoh jawatan 8. Saraan dan elaun 9. Pembatalan pelantikan dan peletakan jawatan 10. Pengosongan jawatan 11. Kesan pemberhentian keanggotaan 12. Jawatankuasa 13. Penzahiran kepentingan 14.
+## SURUHANJAYA
+
+3. Penubuhan Suruhanjaya 4. Meterai perbadanan 5. Keanggotaan Suruhanjaya 6. Anggota silih ganti 7. Tempoh jawatan 8. Saraan dan elaun 9. Pembatalan pelantikan dan peletakan jawatan
+
+10. Pengosongan jawatan
+
+11. Kesan pemberhentian keanggotaan
+
+12. Jawatankuasa
+
+13. Penzahiran kepentingan
+
+14.
 
 ## Jadual Pertama
 
-15. Tatakelakuan 16. Panel Tatatertib dan prosiding tatatertib
+15. Tatakelakuan
 
-## Bahagian iii
+16. Panel Tatatertib dan prosiding tatatertib
 
-FUngSi Dan KUaSa SURUhanJaYa Dan PEngERUSi EKSEKUTiF
+## BAHAGIAN III
 
-17. Fungsi Suruhanjaya 18. Kuasa Suruhanjaya
+## FUNGSI DAN KUASA SURUHANJAYA DAN PENGERUSI EKSEKUTIF
+
+17. Fungsi Suruhanjaya
+
+18. Kuasa Suruhanjaya
 
 <!-- page 2 -->
 
@@ -38,17 +54,17 @@ FUngSi Dan KUaSa SURUhanJaYa Dan PEngERUSi EKSEKUTiF
 
 22. Penjalanan sementara fungsi Pengerusi Eksekutif
 
-## Bahagian iV
+## BAHAGIAN IV
 
-PEKERJa SURUhanJaYa
+## PEKERJA SURUHANJAYA
 
 23. Pelantikan pekerja Suruhanjaya
 
 24. Syarat perkhidmatan, kelakuan dan tatatertib
 
-## Bahagian V
+## BAHAGIAN V
 
-KEWangan
+## KEWANGAN
 
 25. Kumpulan Wang Suruhanjaya Penerbangan
 
@@ -70,9 +86,9 @@ KEWangan
 
 34. Akaun dan laporan
 
-## Bahagian Vi
+## BAHAGIAN VI
 
-PELESEnan Dan CaJ
+## PELESENAN DAN CAJ
 
 35. Lesen perkhidmatan udara
 
@@ -90,17 +106,35 @@ PELESEnan Dan CaJ
 
 <!-- page 3 -->
 
-42. Pembaharuan lesen atau permit 43. Penggantungan atau pembatalan lesen atau permit 44. Penyerahan balik lesen atau permit 45. Pemindahmilikan atau penyerahhakan lesen atau permit 46. Kuasa untuk menetapkan caj
+42. Pembaharuan lesen atau permit
 
-## Bahagian Vii
+43. Penggantungan atau pembatalan lesen atau permit
 
-PERSaingan
+44. Penyerahan balik lesen atau permit
 
-Penggal 1 Tafsiran dan pemakaian 47. Tafsiran 48. Pemakaian Bahagian ini
+45. Pemindahmilikan atau penyerahhakan lesen atau permit
+
+46. Kuasa untuk menetapkan caj
+
+## BAHAGIAN VII
+
+## PERSAINGAN
+
+Penggal 1 Tafsiran dan pemakaian
+
+47. Tafsiran
+
+48. Pemakaian Bahagian ini
 
 Penggal 2 Perjanjian antipersaingan
 
-49. Perjanjian yang dilarang 50. Pelepasan liabiliti 51. Pengecualian individu 52. Pengecualian blok
+49. Perjanjian yang dilarang
+
+50. Pelepasan liabiliti
+
+51. Pengecualian individu
+
+52. Pengecualian blok
 
 Penggal 3 Penyalahgunaan kedudukan dominan
 
@@ -108,7 +142,11 @@ Penggal 3 Penyalahgunaan kedudukan dominan
 
 Penggal 4 Percantuman
 
-54. Percantuman 55. Pemberitahuan percantuman yang dijangkakan 56. Pemberitahuan percantuman
+54. Percantuman
+
+55. Pemberitahuan percantuman yang dijangkakan
+
+56. Pemberitahuan percantuman
 
 Penggal 5 Keputusan Suruhanjaya
 
@@ -134,23 +172,23 @@ Penggal 6 Am
 
 65. Kuasa untuk mengeluarkan garis panduan
 
-## Bahagian Viii
+## BAHAGIAN VIII
 
-haK TRaFiK UDARA Dan PENGUNTUKAN SLOT
+## HAK TRAFIK UDARA DAN PENGUNTUKAN SLOT
 
 66. Hak trafik udara
 
 67. Penguntukan slot
 
-## Bahagian iX
+## BAHAGIAN IX
 
-OBLigaSi PERKhiDMaTan aWaM
+## OBLIGASI PERKHIDMATAN AWAM
 
 68. Obligasi perkhidmatan awam
 
-## Bahagian X
+## BAHAGIAN X
 
-PERLinDUngan PEnggUna
+## PERLINDUNGAN PENGGUNA
 
 69. Kod pengguna
 
@@ -162,9 +200,9 @@ PERLinDUngan PEnggUna
 
 73. Penguatkuasaan keputusan mengenai aduan pengguna
 
-## Bahagian Xi
+## BAHAGIAN XI
 
-PEnYELESaian PERTiKaian
+## PENYELESAIAN PERTIKAIAN
 
 74. Pertikaian
 
@@ -172,11 +210,15 @@ PEnYELESaian PERTiKaian
 
 <!-- page 5 -->
 
-76. Keputusan hendaklah secara bertulis 77. Pendaftaran keputusan 78. Penguatkuasaan keputusan
+76. Keputusan hendaklah secara bertulis
 
-## Bahagian Xii
+77. Pendaftaran keputusan
 
-PEngUaTKUaSaan Dan PEnYiaSa Tan
+78. Penguatkuasaan keputusan
+
+## BAHAGIAN XII
+
+## PENGUATKUASAAN DAN PENYIASATAN
 
 79. Pegawai diberi kuasa
 
@@ -196,9 +238,9 @@ PEngUaTKUaSaan Dan PEnYiaSa Tan
 
 87. Ancaman atau tindakan balas dilarang
 
-## Bahagian Xiii
+## BAHAGIAN XIII
 
-aM
+AM
 
 88. Rayuan kepada Mahkamah Tinggi
 
@@ -226,7 +268,7 @@ aM
 
 <!-- page 6 -->
 
-## Bahagian XiV
+## BAHAGIAN XIV
 
 KEcUALIAN DAN PERaLihan
 
@@ -240,7 +282,13 @@ KEcUALIAN DAN PERaLihan
 
 104. Perjanjian yang sedia ada
 
-105. Perkara yang dilakukan pada menjangkakan pembuatan Akta ini J aDUaL PERTaMa J aDUaL KEDUa J aDUaL KETiga
+105. Perkara yang dilakukan pada menjangkakan pembuatan Akta ini
+
+## J ADUAL PERTAMA
+
+## J ADUAL KEDUA
+
+## J ADUAL KETIGA
 
 <!-- page 7 -->
 
@@ -250,9 +298,9 @@ Suatu Akta untuk menubuhkan Suruhanjaya Penerbangan Malaysia untuk mengawal seli
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
-## Bahagian i
+## BAHAGIAN I
 
-PERMULaan
+## PERMULAAN
 
 ### Tajuk ringkas dan permulaan kuat kuasa
 
@@ -334,9 +382,9 @@ sama ada atau tidak perkhidmatan itu diadakan oleh pemegang lesen, pemegang perm
 
 “tarikh yang ditetapkan” ertinya tarikh Akta ini mula berkuat kuasa.
 
-## Bahagian ii
+## BAHAGIAN II
 
-SURUhanJaYa
+## SURUHANJAYA
 
 ### Penubuhan Suruhanjaya
 
@@ -584,9 +632,11 @@ mana-mana yang berkenaan, bahawa anggota Suruhanjaya atau jawatankuasa itu henda
 
 (6) Selepas menerima syor Panel Tatatertib di bawah perenggan 5(a), Perdana Menteri atau Suruhanjaya, mengikut mana-mana yang berkenaan, hendaklah membatalkan pelantikan anggota Suruhanjaya atau jawatankuasa dan mengenakan penalti kewangan sebanyak tidak kurang daripada sepuluh ribu ringgit dan tidak lebih daripada lima ratus ribu ringgit.
 
-## Bahagian iii
+## BAHAGIAN III
 
-FUngSi Dan KUaSa SURUhanJaYa Dan PEngERUSi EKSEKUTiF
+## FUNGSI DAN KUASA SURUHANJAYA DAN
+
+## PENGERUSI EKSEKUTIF
 
 ### Fungsi Suruhanjaya
 
@@ -726,9 +776,9 @@ Kumpulan Wang atau Kumpulan Wang Perkhidmatan Awam atau apa-apa wang lain yang t
 
 (c) apabila Pengerusi Eksekutif, kerana apa-apa sebab lain, tidak dapat melaksanakan kewajipan jawatannya.
 
-## Bahagian iV
+## BAHAGIAN IV
 
-PEKERJa SURUhanJaYa
+## PEKERJA SURUHANJAYA
 
 ### Pelantikan pekerja Suruhanjaya
 
@@ -764,9 +814,9 @@ seseorang pekerja Suruhanjaya sementara menunggu prosiding tatatertib selesai.
 
 <!-- page 27 -->
 
-## Bahagian V
+## BAHAGIAN V
 
-KEWangan
+## KEWANGAN
 
 ### Kumpulan Wang Suruhanjaya Penerbangan
 
@@ -866,7 +916,7 @@ KEWangan
 
 ## Bahagian Vi
 
-PELESEnan Dan CaJ
+## PELESENAN DAN CAJ
 
 ### Lesen perkhidmatan udara
 
@@ -1030,9 +1080,9 @@ yang dikeluarkan di bawah Bahagian ini hendaklah disifatkan telah dibatalkan ber
 
 <!-- page 39 -->
 
-## Bahagian Vii
+## BAHAGIAN VII
 
-PERSaingan
+## PERSAINGAN
 
 Penggal 1 Tafsiran dan pemakaian
 
@@ -1306,7 +1356,9 @@ Percantuman
 
 (4) Sebelum tamatnya tempoh yang disebut dalam subseksyen (3), jika ada, suatu permohonan boleh dibuat oleh kesemua pihak kepada percantuman yang dijangkakan yang memohon kepada Suruhanjaya untuk suatu keputusan mengenai percantuman yang dijangkakan di bawah seksyen ini supaya tempoh itu dilanjutkan.
 
-(5) Jika suatu permohonan bagi percantuman yang dijangkakan untuk dipertimbangkan telah dibuat kepada Suruhanjaya mengikut subseksyen (1) dan percantuman yang dijangkakan itu dilaksanakan sebelum Suruhanjaya membuat keputusan di bawah subseksyen (2) berkenaan dengannya, permohonan yang berhubungan dengan percantuman yang dijangkakan itu— ( a) boleh dianggap oleh Suruhanjaya seolah-olah ia adalah permohonan bagi percantuman yang berbangkit yang hendak dipertimbangkan yang dibuat mengikut seksyen 56; dan
+(5) Jika suatu permohonan bagi percantuman yang dijangkakan untuk dipertimbangkan telah dibuat kepada Suruhanjaya mengikut subseksyen (1) dan percantuman yang dijangkakan itu dilaksanakan sebelum Suruhanjaya membuat keputusan di bawah subseksyen
+
+(2) berkenaan dengannya, permohonan yang berhubungan dengan percantuman yang dijangkakan itu— ( a) boleh dianggap oleh Suruhanjaya seolah-olah ia adalah permohonan bagi percantuman yang berbangkit yang hendak dipertimbangkan yang dibuat mengikut seksyen 56; dan
 
 <!-- page 50 -->
 
@@ -1450,7 +1502,9 @@ apa penalti yang akan dikenakan selainnya, yang boleh diadakan dalam apa-apa kes
 
 62. (1) Suruhanjaya boleh, tertakluk kepada syarat-syarat yang boleh dikenakan oleh Suruhanjaya, menerima daripada suatu perusahaan suatu aku janji untuk membuat atau menahan diri daripada membuat apa-apa jua yang difikirkan sesuai oleh Suruhanjaya.
 
-(2) Jika Suruhanjaya menerima aku janji di bawah subseksyen (1), Suruhanjaya hendaklah, berhubung dengan suatu pelanggaran, menutup penyiasatan itu tanpa membuat apa-apa dapatan pelanggaran dan tidak boleh mengenakan penalti ke atas perusahaan itu.
+(2) Jika Suruhanjaya menerima aku janji di bawah subseksyen
+
+(1), Suruhanjaya hendaklah, berhubung dengan suatu pelanggaran, menutup penyiasatan itu tanpa membuat apa-apa dapatan pelanggaran dan tidak boleh mengenakan penalti ke atas perusahaan itu.
 
 (3) Mana-mana aku janji yang diterima oleh Suruhanjaya di bawah seksyen ini ialah suatu dokumen yang tersedia untuk diperiksa oleh orang awam mengikut cara yang ditentukan oleh Suruhanjaya.
 
@@ -1506,7 +1560,7 @@ mana-mana pasaran perkhidmatan penerbangan untuk menentukan sama ada apa-apa cir
 
 (3) Suruhanjaya boleh membatalkan, mengubah, menyemak semula atau meminda keseluruhan atau mana-mana bahagian mana-mana garis panduan yang dikeluarkan di bawah seksyen ini.
 
-## Bahagian Viii
+## BAHAGIAN VIII
 
 ## HAK TRAFIK UDARA DAN PENGUNTUKAN SLOT
 
@@ -1556,9 +1610,9 @@ mana-mana pasaran perkhidmatan penerbangan untuk menentukan sama ada apa-apa cir
 
 (3) Bagi maksud seksyen ini, “penguntukan” ertinya penguntukan slot masa bagi maksud membenarkan pesawat udara mengakses kemudahan aerodrom bagi ketibaan dan pelepasan pada tarikh dan masa yang tertentu.
 
-## Bahagian iX
+## BAHAGIAN IX
 
-OBLigaSi PERKhiDMaTan aWaM
+## OBLIGASI PERKHIDMATAN AWAM
 
 ### Obligasi perkhidmatan awam
 
@@ -1580,9 +1634,9 @@ OBLigaSi PERKhiDMaTan aWaM
 
 <!-- page 60 -->
 
-## Bahagian X
+## BAHAGIAN X
 
-PERLinDUngan PEnggUna
+## PERLINDUNGAN PENGGUNA
 
 ### Kod pengguna
 
@@ -1630,9 +1684,9 @@ PERLinDUngan PEnggUna
 
 <!-- page 62 -->
 
-## Bahagian Xi
+## BAHAGIAN XI
 
-PEnYELESaian PERTiKaian
+## PENYELESAIAN PERTIKAIAN
 
 ### Pertikaian
 
@@ -1672,9 +1726,9 @@ PEnYELESaian PERTiKaian
 
 (2) Bagi maksud subseksyen (1), jika Mahkamah Tinggi mendapati orang yang disebut dalam keputusan itu tidak mematuhi keputusan itu, Mahkamah Tinggi hendaklah membuat suatu perintah menghendaki orang itu mematuhi keputusan itu.
 
-## Bahagian Xii
+## BAHAGIAN XII
 
-PEngUaTKUaSaan Dan PEnYiaSa Tan
+## PENGUATKUASAAN DAN PENYIASATAN
 
 ### Pegawai diberi kuasa
 
@@ -1812,7 +1866,9 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi 
 
 (b) menjadikan mana-mana orang tertakluk kepada apa-apa keadaan merugikan dari segi komersial atau sebagai tindakan balas lain terhadap orang itu kerana melakukan apa-apa perbuatan yang disebut dalam subseksyen (3).
 
-(2) Bagi maksud dan tanpa menjejaskan keluasan perenggan (1)(b), keadaan merugikan dari segi komersial atau lain itu boleh termasuk suatu ancaman pembayaran lewat untuk amaun yang kena dibayar dengan sewajarnya kepada orang itu, pembawaan atau penjalanan yang tidak munasabah litigasi terhadap orang itu, pembatalan pesanan dengan orang itu, atau pengalihan perniagaan daripada, atau keengganan untuk berdagang dengan, orang itu.
+(2) Bagi maksud dan tanpa menjejaskan keluasan perenggan
+
+(1)(b), keadaan merugikan dari segi komersial atau lain itu boleh termasuk suatu ancaman pembayaran lewat untuk amaun yang kena dibayar dengan sewajarnya kepada orang itu, pembawaan atau penjalanan yang tidak munasabah litigasi terhadap orang itu, pembatalan pesanan dengan orang itu, atau pengalihan perniagaan daripada, atau keengganan untuk berdagang dengan, orang itu.
 
 (3) Perbuatan yang disebut dalam subseksyen (1) adalah seperti yang berikut:
 
@@ -1822,9 +1878,9 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi 
 
 (4) Mana-mana orang yang melanggar seksyen ini melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu juta ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya; dan bagi kesalahan kedua atau kesalahan berikutnya, denda tidak melebihi dua juta ringgit atau pemenjaraan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
 
-## Bahagian Xiii
+## BAHAGIAN XIII
 
-aM
+AM
 
 ### Rayuan kepada Mahkamah Tinggi
 
@@ -1980,7 +2036,7 @@ pelaksanaan yang lebih lanjut, lebih baik atau sesuai bagi peruntukan Akta ini.
 
 99. Menteri boleh, atas syor Suruhanjaya, meminda mana-mana Jadual melalui perintah yang disiarkan dalam Warta.
 
-## Bahagian XiV
+## BAHAGIAN XIV
 
 KEcUALIAN DAN PERaLihan
 
@@ -2028,7 +2084,7 @@ KEcUALIAN DAN PERaLihan
 
 105. Segala perbuatan dan benda yang dilakukan bagi pihak Suruhanjaya dalam menyediakan atau menjangkakan pembuatan Akta ini dan apa-apa perbelanjaan yang dilakukan berhubungan dengannya, hendaklah disifatkan telah dibenarkan di bawah Akta ini, dengan syarat bahawa perbuatan dan benda yang dibuat itu adalah selaras dengan niat dan maksud am Akta ini, dan segala hak dan obligasi yang diperoleh atau dilakukan akibat daripada pembuatan perbuatan atau benda itu termasuklah apa-apa perbelanjaan yang dilakukan berhubung dengannya hendaklah apabila Akta ini berkuat kuasa disifatkan sebagai hak dan obligasi Suruhanjaya.
 
-## JaDUaL PERTaMa
+## JADUAL PERTAMA
 
 [Seksyen 14]
 
@@ -2142,7 +2198,7 @@ Jawatankuasa
 
 4. Tertakluk kepada Akta ini, jawatankuasa boleh mengawal selia tatacaranya sendiri.
 
-## JaDUaL KEDUa
+## JADUAL KEDUA
 
 [Seksyen 37]
 
@@ -2244,7 +2300,7 @@ Jawatankuasa
 
 13. Apa-apa perkhidmatan lain yang ditentukan oleh Suruhanjaya dari semasa ke semasa.
 
-## JaDUaL KETiga
+## JADUAL KETIGA
 
 [Seksyen 48]
 
@@ -2268,7 +2324,7 @@ pihak-pihak yang termasuk kedua-dua majikan dan pekerja atau organisasi yang dit
 
 Akta Suruhanjaya Penerbangan Malaysia 2015 yang dicadangkan (“Akta yang dicadangkan”) bertujuan untuk menubuhkan Suruhanjaya Penerbangan Malaysia untuk mengawal selia perkara ekonomi yang berhubungan dengan industri penerbangan awam dan untuk mengadakan peruntukan bagi fungsinya dan kuasanya dan perkara yang berkaitan.
 
-## Bahagian I
+## BAHAGIAN I
 
 2. Bahagian I memperkatakan perkara permulaan.
 
@@ -2276,7 +2332,7 @@ Fasal 1 mengandungi tajuk ringkas dan permulaan kuat kuasa Akta yang dicadangkan
 
 Fasal 2 mengandungi takrif beberapa perkataan yang digunakan dalam Akta yang dicadangkan.
 
-## Bahagian II
+## BAHAGIAN II
 
 3. Bahagian II mengandungi peruntukan yang berhubungan dengan penubuhan Suruhanjaya.
 
@@ -2310,7 +2366,7 @@ Fasal 15 bertujuan untuk mengadakan peruntukan bagi tatakelakuan yang hendaklah 
 
 Fasal 16 bertujuan untuk mengadakan peruntukan bagi panel tatatertib yang hendaklah menjalankan prosiding tatatertib sekiranya terdapat apa-apa pelanggaran tatakelakuan.
 
-## Bahagian III
+## BAHAGIAN III
 
 4. Bahagian III memperkatakan fungsi dan kuasa Suruhanjaya dan Pengerusi Eksekutif.
 
@@ -2326,17 +2382,15 @@ Fasal 22 memberikan kepada Perdana Menteri kuasa untuk melantik mana-mana anggot
 
 <!-- page 87 -->
 
-## Bahagian IV
+## BAHAGIAN IV
 
-5.
-
-## Bahagian IV memperkatakan pekerja Suruhanjaya.
+5. Bahagian IV memperkatakan pekerja Suruhanjaya.
 
 Fasal 23 memberi Suruhanjaya kuasa untuk menggajikan pekerjanya.
 
 Fasal 24 membenarkan Suruhanjaya untuk menentukan syarat perkhidmatan pekerjanya dan memberi Suruhanjaya kuasa untuk mempunyai kuasa tatatertib dan kawalan ke atas semua pekerjanya.
 
-## Bahagian V
+## BAHAGIAN V
 
 6. Bahagian V mengandungi peruntukan tentang kewangan.
 
@@ -2354,7 +2408,7 @@ Fasal 33 menyatakan bahawa tahun kewangan bagi Suruhanjaya hendaklah bermula pad
 
 Fasal 34 menghendaki Suruhanjaya menyimpan akaun yang sepatutnya bagi Kumpulan Wang Suruhanjaya Penerbangan dan Kumpulan Wang Perkhidmatan Awam dan rekod sepatutnya bagi aktivitinya. Suruhanjaya dikehendaki supaya penyata akaunnya dan penyata aktivitinya bagi tahun kewangan itu dihantar kepada Menteri yang akan menyebabkan penyata-penyata itu dibentangkan dalam kedua-dua Majlis Parlimen. Fasal ini juga memperuntukkan bahawa Akta Badan Berkanun (Akaun dan Laporan Tahunan) 1980 hendaklah terpakai bagi Suruhanjaya.
 
-## Bahagian VI
+## BAHAGIAN VI
 
 7. Bahagian VI mengandungi peruntukan tentang pelesenan dan caj.
 
@@ -2386,7 +2440,7 @@ Fasal 45 melarang pemindahmilikan atau penyerahhakan sesuatu lesen atau permit, 
 
 Fasal 46 memberi Suruhanjaya kuasa untuk mengawal selia caj. Suruhanjaya mempunyai kuasa untuk menetapkan caj termasuklah caj maksimum atau mewujudkan kaedah bagi menentukan caj dengan mengambil kira faktor tertentu, menjalankan kajian semula caj yang ditetapkannya dan kemudiannya apa-apa caj yang difikirkannya patut.
 
-## Bahagian VII
+## BAHAGIAN VII
 
 8. Bahagian VII memperkatakan persaingan dalam apa-apa aktiviti komersial, perjanjian dan percantuman yang menyentuh perkhidmatan penerbangan.
 
@@ -2434,7 +2488,7 @@ Fasal 64 memperuntukkan bahawa seseorang yang mengalami kehilangan atau kerugian
 
 Fasal 65 memberi Suruhanjaya kuasa untuk mengeluarkan garis panduan bagi penjalanan yang lebih baik peruntukan Bahagian VII.
 
-## Bahagian VIII
+## BAHAGIAN VIII
 
 9. Bahagian VIII memperkatakan kuasa Suruhanjaya untuk mentadbir, menguntukkan dan menguruskan hak trafik udara dan penguntukan slot.
 
@@ -2442,7 +2496,7 @@ Fasal 66 memperuntukkan bahawa Suruhanjaya hendaklah bertanggungjawab untuk ment
 
 Fasal 67 memberi Suruhanjaya kuasa untuk menyelia dan mengeluarkan arahan kepada mana-mana orang yang berhubungan dengan peruntukan slot. Suruhanjaya hendaklah mempunyai kuasa untuk menetapkan peraturan-peraturan dan menentukan pertikaian yang berhubungan dengan penguntukan slot.
 
-## Bahagian IX
+## BAHAGIAN IX
 
 10. Bahagian IX memperkatakan kuasa Suruhanjaya untuk mengawal dan menguruskan obligasi perkhidmatan awam.
 
@@ -2450,7 +2504,7 @@ Fasal 68 memberi Suruhanjaya kuasa untuk mentadbir dan menguruskan obligasi perk
 
 <!-- page 92 -->
 
-## Bahagian X
+## BAHAGIAN X
 
 11. Bahagian X memperkatakan perlindungan pengguna.
 
@@ -2464,13 +2518,13 @@ Fasal 72 mengadakan peruntukan untuk mendapatkan kembali penalti kewangan di baw
 
 Fasal 73 mengadakan peruntukan bagi penguatkuasaan keputusan Suruhanjaya di bawah Bahagian X.
 
-## Bahagian XI
+## BAHAGIAN XI
 
 12. Bahagian XI memperkatakan penyelesaian pertikaian.
 
 Fasal 74 hingga 78 memperuntukkan bahawa pertikaian antara dua pemberi perkhidmatan penerbangan atau lebih mengenai perkara di bawah Akta yang dicadangkan hendaklah mula-mula sekali diselesaikan melalui pengantaraan. Walau bagaimanapun, jika pihak-pihak itu gagal untuk menyelesaikan pertikaian melalui pengantaraan, Suruhanjaya hendaklah membuat keputusan mengenai pertikaian itu. Suruhanjaya hendaklah mendaftarkan keputusannya mengenai pertikaian itu dan keputusan itu boleh dikuatkuasakan oleh Suruhanjaya.
 
-## Bahagian XII
+## BAHAGIAN XII
 
 13. Bahagian XII memperkatakan kuasa penyiasatan dan penguatkuasaan Suruhanjaya.
 
@@ -2494,7 +2548,7 @@ Fasal 86 bertujuan untuk mengadakan peruntukan bagi kesalahan menzahirkan kepada
 
 Fasal 87 melarang paksaan terhadap seseorang supaya dia tidak membuat suatu aduan atau bekerjasama dengan Suruhanjaya berkaitan dengan sesuatu penyiasatan.
 
-## Bahagian XIII
+## BAHAGIAN XIII
 
 14. Bahagian XIII memperkatakan peruntukan am.
 
@@ -2524,7 +2578,7 @@ Fasal 98 bertujuan untuk memberi Suruhanjaya kuasa untuk menetapkan peraturan-pe
 
 Fasal 99 bertujuan untuk memberi Menteri kuasa untuk meminda apa-apa Jadual kepada Akta yang dicadangkan melalui suatu perintah yang disiarkan dalam Warta selepas disyorkan Suruhanjaya.
 
-## Bahagian XIV
+## BAHAGIAN XIV
 
 15. Bahagian XIV memperkatakan peruntukan peralihan.
 

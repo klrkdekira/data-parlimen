@@ -18,17 +18,29 @@
 
 ## PENGURUSAN, PEMUNYAAN DAN PENGAWALAN
 
-5. Lembaga pengarah 6. Pelantikan Ketua Pegawai Eksekutif dan pengarah 7. Kehilangan kelayakan Ketua Pegawai Eksekutif dan pengarah 8. Kesan kehilangan kelayakan 9. Pengecualian daripada kehilangan kelayakan 10. Notis pemberhentian jawatan 11. Penzahiran kepentingan 12. Pemerolehan kepentingan mengenai syer 13. Laporan pemerolehan kepada Bank 14. Perubahan dalam kawalan, penyatuan dan percantuman 15. Pemindahan perniagaan 16. Permohonan kepada Mahkamah Tinggi bagi pemindahan perniagaan 17. Pemindahan harta tak alih 18. Syer sendiri atau syer syarikat induk sebagai sandaran
+5. Lembaga pengarah 6. Pelantikan Ketua Pegawai Eksekutif dan pengarah 7. Kehilangan kelayakan Ketua Pegawai Eksekutif dan pengarah 8. Kesan kehilangan kelayakan 9. Pengecualian daripada kehilangan kelayakan
+
+10. Notis pemberhentian jawatan
+
+11. Penzahiran kepentingan
+
+12. Pemerolehan kepentingan mengenai syer
+
+13. Laporan pemerolehan kepada Bank
+
+14. Perubahan dalam kawalan, penyatuan dan percantuman
+
+15. Pemindahan perniagaan
+
+16. Permohonan kepada Mahkamah Tinggi bagi pemindahan perniagaan
+
+17. Pemindahan harta tak alih
+
+18. Syer sendiri atau syer syarikat induk sebagai sandaran
 
 <!-- page 2 -->
 
-19. Permohonan kepada Bank
-
-20. Pembelaan yang berhubungan dengan pelanggaran
-
-21. Kesan pelanggaran
-
-22. Perintah permulaan oleh Bank
+19. Permohonan kepada Bank 20. Pembelaan yang berhubungan dengan pelanggaran 21. Kesan pelanggaran 22. Perintah permulaan oleh Bank
 
 23. Pengesahan perintah permulaan
 
@@ -86,19 +98,59 @@ IV
 
 ## URUSAN DENGAN WANG KERAJAAN
 
-43. Penubuhan dan penyenggaraan kumpulan wang amanah 44. Penggunaan wang amanah 45. Pelaburan kumpulan, wang amanah 46. Kredit ke dalam kumpulan wang amanah 47. Harta wang amanah sebagai sandaran 48. Penilaian kumpulan wang amanah 49. Pemindahan kumpulan wang amanah 50. Pecah amanah 51. Penamatan kumpulan wang amanah 52. Penggunaan kumpulan wang amanah dalam penggulungan
+43. Penubuhan dan penyenggaraan kumpulan wang amanah
+
+44. Penggunaan wang amanah
+
+45. Pelaburan kumpulan, wang amanah
+
+46. Kredit ke dalam kumpulan wang amanah
+
+47. Harta wang amanah sebagai sandaran
+
+48. Penilaian kumpulan wang amanah
+
+49. Pemindahan kumpulan wang amanah
+
+50. Pecah amanah
+
+51. Penamatan kumpulan wang amanah
+
+52. Penggunaan kumpulan wang amanah dalam penggulungan
 
 ## BAHAGIAN VI
 
 ## PENGAWALAN ORANG YANG INGKAR
 
-53. Ketidakupayaan untuk menunaikan obligasi 54. Tindakan oleh Bank 55. Tindakan oleh Menteri 56. Representasi berkenaan perintah 57. Pelantikan di bawah seksyen 54 58. Pemecatan jawatan di bawah seksyen 54 59. Pengambilalihan kawalan 60. Pengurangan modal syer dan pembatalan syer 61. Peluasan bidang kuasa 62. Moratorium
+53. Ketidakupayaan untuk menunaikan obligasi
+
+54. Tindakan oleh Bank
+
+55. Tindakan oleh Menteri
+
+56. Representasi berkenaan perintah
+
+57. Pelantikan di bawah seksyen 54
+
+58. Pemecatan jawatan di bawah seksyen 54
+
+59. Pengambilalihan kawalan
+
+60. Pengurangan modal syer dan pembatalan syer
+
+61. Peluasan bidang kuasa
+
+62. Moratorium
 
 ## BAHAGIAN VII
 
 ## JURUAUDIT DAN AKAUN
 
-63. Pelantikan juruaudit 64. Kehilangan kelayakan juruaudit 65. Sekatan ke atas firma audit
+63. Pelantikan juruaudit
+
+64. Kehilangan kelayakan juruaudit
+
+65. Sekatan ke atas firma audit
 
 <!-- page 4 -->
 
@@ -162,13 +214,39 @@ IV
 
 <!-- page 5 -->
 
-93. Halangan terhadap penjalanan kuasa oleh pegawai penyiasat 94. Kehendak supaya menyediakan terjemahan 95. Penyerahan harta, rekod, laporan atau dokumen 96. Penyitaan harta, rekod, laporan atau dokumen 97. Pelepasan harta, rekod, laporan atau dokumen yang disita 98. Pegawai penyiasat boleh menangkap tanpa waran 99. Orang yang ditangkap hendaklah diserahkan kepada pegawai polis 100. Bantuan kepada pegawai polis atau pegawai awam lain 101. Pegawai penyiasat disifatkan sebagai pekhidmat awam dan pegawai awam 102. Laporan kepada Menteri 103. Kuasa Menteri 104. Pemakaian seksyen 84 hingga 86 105. Pemakaian seksyen 89 hingga 101 106. Peruntukan Bahagian ini hendaklah terpakai
+93. Halangan terhadap penjalanan kuasa oleh pegawai penyiasat 94. Kehendak supaya menyediakan terjemahan 95. Penyerahan harta, rekod, laporan atau dokumen 96. Penyitaan harta, rekod, laporan atau dokumen 97. Pelepasan harta, rekod, laporan atau dokumen yang disita 98. Pegawai penyiasat boleh menangkap tanpa waran 99. Orang yang ditangkap hendaklah diserahkan kepada pegawai polis
+
+100. Bantuan kepada pegawai polis atau pegawai awam lain
+
+101. Pegawai penyiasat disifatkan sebagai pekhidmat awam dan pegawai awam
+
+102. Laporan kepada Menteri
+
+103. Kuasa Menteri
+
+104. Pemakaian seksyen 84 hingga 86
+
+105. Pemakaian seksyen 89 hingga 101
+
+106. Peruntukan Bahagian ini hendaklah terpakai
 
 ## BAHAGIAN IX
 
 ## PELBAGAI
 
-107. Kesalahan am 108. Pemalsuan, penyembunyian dan pemusnahan dokumen 109. Kesalahan oleh pertubuhan perbadanan 110. Kesalahan oleh individu 111. Pencantuman kesalahan 112. Kesalahan boleh ditangkap 113. Kuasa Gabenor untuk mengkompaun kesalahan 114. Percubaan, penyediaan, persubahatan dan komplot yang boleh dihukum sebagai kesalahan 115. Laporan tahunan 116. Pengemukaan maklumat dan perangkaan 117. Tanggung rugi 118. Larangan mengenai penerimaan hadiah, komisen, dll. 119. Kerahsiaan
+107. Kesalahan am
+
+108. Pemalsuan, penyembunyian dan pemusnahan dokumen
+
+109. Kesalahan oleh pertubuhan perbadanan
+
+110. Kesalahan oleh individu 111. Pencantuman kesalahan 112. Kesalahan boleh ditangkap 113. Kuasa Gabenor untuk mengkompaun kesalahan
+
+114. Percubaan, penyediaan, persubahatan dan komplot yang boleh dihukum sebagai kesalahan
+
+115. Laporan tahunan
+
+116. Pengemukaan maklumat dan perangkaan 117. Tanggung rugi 118. Larangan mengenai penerimaan hadiah, komisen, dll. 119. Kerahsiaan
 
 <!-- page 6 -->
 
@@ -616,7 +694,9 @@ menguatkuasakan hak itu atau menentang liabiliti itu seolah- olah hak atau liabi
 
 (6) Mana-mana orang yang melanggar subseksyen (4) atau (5) melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi satu juta ringgit dan, dalam hal kesalahan yang berterusan, boleh didenda selanjutnya tidak melebihi satu ribu ringgit bagi setiap hari kesalahan itu berterusan selepas pensabitan.
 
-(7) Sesuatu perintah Mahkamah Tinggi di bawah subseksyen (1) boleh berkenaan dengan apa-apa harta atau perniagaan institusi yang ditetapkan itu di luar Malaysia dan, jika perintah itu berkenaan sedemikian, kuat kuasa boleh diberikan kepadanya sama ada mengikut apa-apa perkiraan bersaling yang berhubungan dengan penguatkuasaan penghakiman yang wujud antara Malaysia dengan negara, wilayah atau tempat di luar Malaysia tempat harta atau perniagaan itu terletak, atau jika tiada perkiraan sedemikian, mengikut undang-undang yang terpakai di negara, wilayah atau tempat itu.
+(7) Sesuatu perintah Mahkamah Tinggi di bawah subseksyen
+
+(1) boleh berkenaan dengan apa-apa harta atau perniagaan institusi yang ditetapkan itu di luar Malaysia dan, jika perintah itu berkenaan sedemikian, kuat kuasa boleh diberikan kepadanya sama ada mengikut apa-apa perkiraan bersaling yang berhubungan dengan penguatkuasaan penghakiman yang wujud antara Malaysia dengan negara, wilayah atau tempat di luar Malaysia tempat harta atau perniagaan itu terletak, atau jika tiada perkiraan sedemikian, mengikut undang-undang yang terpakai di negara, wilayah atau tempat itu.
 
 ### Pemindahan harta tak alih
 
@@ -1148,11 +1228,7 @@ mempertanggungkan liabiliti atau perbelanjaan itu pada aset kumpulan wang amanah
 
 ### Tindakan oleh Bank
 
-54. (1) Jika Bank berpuas hati sama ada menurut maklumat di bawah subseksyen 53(1) atau selepas satu pemeriksaan di bawah
-
-## Bahagian VIII, atau selainnya, bahawa sesuatu institusi yang
-
-ditetapkan—
+54. (1) Jika Bank berpuas hati sama ada menurut maklumat di bawah subseksyen 53(1) atau selepas satu pemeriksaan di bawah Bahagian VIII, atau selainnya, bahawa sesuatu institusi yang ditetapkan—
 
 (a) sedang menjalankan perniagaannya mengikut cara yang memudaratkan kepentingan pemegang kepentingannya atau orang awam pada amnya;
 
@@ -1338,7 +1414,9 @@ menjalankan mana-mana kuasa yang diberikan kepadanya di bawah seksyen 64 Akta Sy
 
 (b) kecuali jika Bank, dalam hal keadaan kes itu, mengarahkan selainnya, jika dia telah, dalam tempoh dua belas bulan sebelum itu, menjadi seorang pekerja atau penaja institusi yang ditetapkan itu atau perbadanan berkaitannya.
 
-(5) Melainkan jika diluluskan oleh Bank di bawah subseksyen (3), seseorang juruaudit bagi sesuatu institusi yang ditetapkan yang hilang kelayakan di bawah subseksyen (1) atau seksyen 9 Akta Syarikat 1965 hendaklah dengan serta-merta berhenti menjadi juruaudit institusi yang ditetapkan itu.
+(5) Melainkan jika diluluskan oleh Bank di bawah subseksyen
+
+(3), seseorang juruaudit bagi sesuatu institusi yang ditetapkan yang hilang kelayakan di bawah subseksyen (1) atau seksyen 9 Akta Syarikat 1965 hendaklah dengan serta-merta berhenti menjadi juruaudit institusi yang ditetapkan itu.
 
 (6) Mana-mana yang melanggar subseksyen (5) melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi satu juta ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya dan, dalam hal kesalahan yang berterusan, boleh didenda selanjutnya tidak melebihi satu ribu ringgit bagi setiap hari kesalahan itu berterusan selepas pensabitan.
 
@@ -1396,7 +1474,9 @@ hingga (e), untuk bertindak sebagai juruaudit institusi yang ditetapkan itu.
 
 (a) mengemukakan apa-apa maklumat tambahan berhubung dengan pengauditannya sebagaimana yang ditentukan oleh Bank; atau
 
-(b) memperluas atau melanjutkan ruang
+(b) memperluas atau melanjutkan
+
+<!-- marginal: ruang -->
 
 <!-- marginal: lingkup -->
 
@@ -2492,27 +2572,13 @@ Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan
 
 ## PRELIMINARY
 
-1. Short title and commencement
-
-2. Application
-
-3. Interpretation
-
-4. Functions of the Bank
+1. Short title and commencement 2. Application 3. Interpretation 4. Functions of the Bank
 
 ## PART II
 
 ## MANAGEMENT, OWNERSHIP AND CONTROL
 
-5. Board of directors
-
-6. Appointment of Chief Executive Officer and directors
-
-7. Disqualification of Chief Executive Officer and director
-
-8. Effect of disqualification
-
-9. Exemption from disqualification
+5. Board of directors 6. Appointment of Chief Executive Officer and directors 7. Disqualification of Chief Executive Officer and director 8. Effect of disqualification 9. Exemption from disqualification
 
 10. Notice of cessation of office
 
@@ -2550,19 +2616,61 @@ Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan
 
 ## RESTRICTIONS ON BUSINESS
 
-25. Control of establishment or acquisition of subsidiaries 26. Direction in respect of subsidiaries 27. Restriction or prohibition of business 28. Prohibition of credit facilities 29. Restriction of credit to single person 30. Restriction on giving of credit facility 31. Disclosure of director's interest 32. Control of credit limit 33. Investment of assets
+25. Control of establishment or acquisition of subsidiaries
+
+26. Direction in respect of subsidiaries
+
+27. Restriction or prohibition of business
+
+28. Prohibition of credit facilities
+
+29. Restriction of credit to single person
+
+30. Restriction on giving of credit facility
+
+31. Disclosure of director's interest
+
+32. Control of credit limit
+
+33. Investment of assets
 
 ## PART IV
 
 ## OBLIGATIONS AND SOURCING OF FUNDS
 
-34. Statement of corporate intent 35. Annual funding 36. Restrictions on payment of dividend 37. Maintenance of liquid assets 38. Maintenance of capital funds 39. Maintenance of reserve fund 40. Maintenance of assets in Malaysia 41. Other prudential requirements 42. Amendment of constituent documents
+34. Statement of corporate intent
+
+35. Annual funding
+
+36. Restrictions on payment of dividend
+
+37. Maintenance of liquid assets
+
+38. Maintenance of capital funds
+
+39. Maintenance of reserve fund
+
+40. Maintenance of assets in Malaysia
+
+41. Other prudential requirements
+
+42. Amendment of constituent documents
 
 ## PART V
 
 ## DEALINGS WITH GOVERNMENT FUNDS
 
-43. Establishment and maintenance of trust fund 44. Utilisation of trust funds 45. Investment of trust fund 46. Credit into trust fund 47. Property of trust fund as collateral 48. Valuation of trust fund
+43. Establishment and maintenance of trust fund
+
+44. Utilisation of trust funds
+
+45. Investment of trust fund
+
+46. Credit into trust fund
+
+47. Property of trust fund as collateral
+
+48. Valuation of trust fund
 
 <!-- page 115 -->
 

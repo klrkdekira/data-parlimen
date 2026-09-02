@@ -70,7 +70,31 @@ to provide him with such reasonable assistance as he may require for the purpose
 
 ### Substitution of section 60
 
-7. The principal Act is amended by substituting for section 60 the following section: " Proportional 60. (1) When any goods suspected of being dutiable or examination otherwise liable to seizure have been seized, it shall be of goods seized to sufficient to open and examine five per centum only of be each description of the package or receptacle in which accepted such goods are contained. by courts.
+7. The principal Act is amended by substituting for section 60 the following section: "
+
+<!-- marginal: Proportional -->
+
+60. (1) When any goods suspected of being dutiable or
+
+<!-- marginal: examination -->
+
+otherwise liable to seizure have been seized, it shall be
+
+<!-- marginal: of goods -->
+
+<!-- marginal: seized to -->
+
+sufficient to open and examine five per centum only of
+
+<!-- marginal: be -->
+
+each description of the package or receptacle in which
+
+<!-- marginal: accepted -->
+
+such goods are contained.
+
+<!-- marginal: by courts. -->
 
 <!-- page 4 -->
 
@@ -80,7 +104,15 @@ to provide him with such reasonable assistance as he may require for the purpose
 
 ### New section 63A
 
-8. The principal Act is amended by inserting after section 63 the following section: " Obligation 63A. (1) Except as provided under section 64, the name of secrecy. and address of an informer and the substance of the information received from an informer shall be kept secret and shall not be disclosed by any proper officer or any person who in the ordinary course of his duties comes into possession of or has control of or access to such information to any person except the designated officer of excise authorised by the Director General.
+8. The principal Act is amended by inserting after section 63 the following section: "
+
+<!-- marginal: Obligation -->
+
+63A. (1) Except as provided under section 64, the name
+
+<!-- marginal: of secrecy. -->
+
+and address of an informer and the substance of the information received from an informer shall be kept secret and shall not be disclosed by any proper officer or any person who in the ordinary course of his duties comes into possession of or has control of or access to such information to any person except the designated officer of excise authorised by the Director General.
 
 (2) Any person who fails to comply with subsection (1) shall be guilty of an offence against this Act and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding five years or to both such fine and imprisonment.".
 

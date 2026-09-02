@@ -6,7 +6,9 @@
 
 bernama
 
-Suatu Akta untuk meminda Akta Amanah Luar Pesisir Labuan 1996. [ ]
+Suatu Akta untuk meminda Akta Amanah Luar Pesisir Labuan
+
+1996. [ ]
 
 DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
@@ -162,7 +164,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ## Bahagian I Bahagian yang berikut:
 
-“bahagian Ia
+## “BAHAGIAN IA
 
 ## PENTADBIRAN AKTA
 
@@ -594,7 +596,9 @@ dengan syarat bahawa maksud-maksud itu adalah sah di sisi undang-undang dan tida
 
 ### Pindaan seksyen 24
 
-28. Seksyen 24 Akta ibu dipinda dengan memotong subseksyen (1).
+28. Seksyen 24 Akta ibu dipinda dengan memotong subseksyen
+
+(1).
 
 ### Pindaan seksyen 26
 
@@ -638,7 +642,9 @@ dengan syarat bahawa maksud-maksud itu adalah sah di sisi undang-undang dan tida
 
 ### Pindaan seksyen 31
 
-32. Seksyen 31 Akta ibu dipinda dengan menggantikan subseksyen (2) dengan subseksyen yang berikut:
+32. Seksyen 31 Akta ibu dipinda dengan menggantikan subseksyen
+
+(2) dengan subseksyen yang berikut:
 
 “(2) Jika terma amanah itu memberi pemegang amanah kuasa untuk bertindak secara majoriti, seseorang pemegang amanah yang tidak setuju dengan keputusan majoriti pemegang amanah itu hendaklah merekodkan ketidaksetujuannya secara bertulis.”.
 
@@ -974,7 +980,7 @@ Penalti: Pemenjaraan selama lima tahun atau satu juta ringgit atau kedua-duanya.
 
 ## Bahagian IV Bahagian yang berikut:
 
-“bahagian IVa
+## “BAHAGIAN IVA
 
 ## AMANAH KHAS LABUAN
 
@@ -1300,7 +1306,9 @@ memperoleh, atau berkemungkinan memperoleh, melalui pelantikan atau selainnya, s
 
 (8) Semua perbelanjaan yang dilakukan dalam menangani suatu tuntutan campur tangan atau menimbangkan aduan yang menjadi asas tuntutan campur tangan itu, termasuklah saraan pemegang amanah, jika berkenaan, dan kos bagi apa-apa nasihat, hendaklah ditanggung oleh kumpulan wang amanah dan pendapatannya pada apa-apa kadar yang diputuskan oleh pemegang amanah, dan jika ada apa-apa kekurangan dalam dana cair, pemegang amanah boleh mengambil apa- apa langkah yang sedia ada kepada pemegang amanah itu di bawah memorandum dan perkara-perkara syarikat dan apa- apa undang-undang bertulis yang terpakai bagi syarikat itu, untuk menampung kurangan itu daripada dividen syarikat dan boleh, jika didapatinya perlu bagi maksud ini, mendapatkan penggantian mana-mana pengarah dengan wakil pemegang amanah itu sendiri.
 
-(9) Pemegang amanah hendaklah, jika boleh dilaksanakan, mendapatkan penyingkiran daripada jawatan pengarah yang dilantik bagi maksud yang dinyatakan dalam perenggan (7)(a) atau subseksyen (8) apabila maksud yang baginya pengarah itu dilantik telah tercapai, jika penyingkiran itu wajar bagi maksud apa-apa tindakan yang diputuskan oleh pemegang amanah menurut subseksyen (3) atau, tertakluk kepada tindakan itu, bagi maksud pematuhan kaedah-kaedah jawatan pengarah.
+(9) Pemegang amanah hendaklah, jika boleh dilaksanakan, mendapatkan penyingkiran daripada jawatan pengarah yang dilantik bagi maksud yang dinyatakan dalam perenggan
+
+(7)(a) atau subseksyen (8) apabila maksud yang baginya pengarah itu dilantik telah tercapai, jika penyingkiran itu wajar bagi maksud apa-apa tindakan yang diputuskan oleh pemegang amanah menurut subseksyen (3) atau, tertakluk kepada tindakan itu, bagi maksud pematuhan kaedah-kaedah jawatan pengarah.
 
 ### Kuasa pelupusan syer yang ditetapkan
 
@@ -1566,7 +1574,11 @@ hendaklah dijalankan secara tertutup dan bertujuan untuk melarang penzahiran apa
 
 28. Fasal 41 bertujuan untuk meminda seksyen 46 Akta 554 untuk memperkenalkan langkah yang sewajarnya untuk mengelakkan kekosongan dalam jawatan pemegang amanah apabila pemegang amanah bersara.
 
-29. Fasal 42 bertujuan untuk memperkenalkan Bahagian baru, iaitu Bahagian IVA yang mengandungi seksyen 46a, 46b, 46c, 46d, 46e, 46f, 46g, 46h, 46i, 46j, 46k, 46l, 46m, 46n, 46o dan 46p, ke dalam Akta 554. Bahagian baru ini mengadakan peruntukan bagi pewujudan Amanah Khas Labuan.
+29. Fasal 42 bertujuan untuk memperkenalkan Bahagian baru, iaitu Bahagian
+
+## IVA YANG MENGANDUNGI SEKSYEN 46A, 46B, 46C, 46D, 46E, 46F, 46G, 46H, 46I,
+
+46j, 46k, 46l, 46m, 46n, 46o dan 46p, ke dalam Akta 554. Bahagian baru ini mengadakan peruntukan bagi pewujudan Amanah Khas Labuan.
 
 30. Fasal 44 bertujuan untuk meminda seksyen 52 Akta 554 untuk memendekkan tempoh had masa di bawah subseksyen 52(2) daripada enam tahun yang ada sekarang kepada tiga tahun. Tempoh had masa enam tahun sekarang di bawah subseksyen 52(2) adalah terlalu panjang jika dibandingkan dengan bidang kuasa lain.
 

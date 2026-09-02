@@ -552,7 +552,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/31/msa@/~cl_20",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (7)— Pindaan seksyen 32"
+        "@value": "dalam subseksyen (7)—"
       }
     },
     {
@@ -572,7 +572,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/31/msa@/~cl_20__para_e",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memotong proviso."
+        "@value": "dengan memotong proviso. Pindaan seksyen 32"
       }
     },
     {
@@ -746,8 +746,7 @@
       "eli:number": "27",
       "hasPart": [
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/31/msa@/~cl_27__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/31/msa@/~cl_27__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/31/msa@/~cl_27__para_ii"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/31/msa@/~cl_27__para_b"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/31/msa@",
       "schema:name": {
@@ -828,6 +827,7 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/31/msa@/~cl_27__para_b__subpara_ii",
       "@type": "akn:subparagraph",
       "eli:number": "ii",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/31/msa@/~cl_27__para_b__subpara_ii__subpara_ii",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/31/msa@/~cl_27__para_b",
       "schema:text": {
         "@language": "ms",
@@ -835,10 +835,10 @@
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/31/msa@/~cl_27__para_ii",
-      "@type": "akn:paragraph",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/31/msa@/~cl_27__para_b__subpara_ii__subpara_ii",
+      "@type": "akn:subparagraph",
       "eli:number": "ii",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/31/msa@/~cl_27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/31/msa@/~cl_27__para_b__subpara_ii",
       "schema:text": {
         "@language": "ms",
         "@value": "dengan memotong perkataan “or to both”. Pindaan seksyen 47"
@@ -1021,7 +1021,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/31/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan menggantikan Jadual Pertama dengan jadual yang berikut: “First schedule ESSENTIAL SERVICES [Section 2] 1. Electricity services 2. Fire services 3. Prison services 4. Public health services 5. Public waste management services 6. Telegraph, telephone and telecommunication services 7. Water services 8. Any service provided by any of the following Departments of Government: (a) Chemistry (b) Civil Aviation (c) Customs and Excise (d) Immigration (e) Marine (f) Meteorology (g) Printing 9. Services which are connected with, or related to, or which assist towards, the maintenance and functioning of the armed forces and the Royal Malaysian Police Force 10. Business and industries which are connected with the defence and security of Malaysia 11. Any section of any service, on the working of which the safety of the employees therein or of the establishment relating thereto depends 12. Air traffic control 13. The Minister may declare by notification in the Gazette a service to be an essential service if any disruption of the service would endanger the life, personal safety or health of the whole or part of a population”. Peruntukan kecualian dan peralihan"
+        "@value": "Akta ibu dipinda dengan menggantikan Jadual Pertama dengan jadual yang berikut: “FIRST SCHEDULE ESSENTIAL SERVICES [Section 2] 1. Electricity services 2. Fire services 3. Prison services 4. Public health services 5. Public waste management services 6. Telegraph, telephone and telecommunication services 7. Water services 8. Any service provided by any of the following Departments of Government: (a) Chemistry (b) Civil Aviation (c) Customs and Excise (d) Immigration (e) Marine (f) Meteorology (g) Printing 9. Services which are connected with, or related to, or which assist towards, the maintenance and functioning of the armed forces and the Royal Malaysian Police Force 10. Business and industries which are connected with the defence and security of Malaysia 11. Any section of any service, on the working of which the safety of the employees therein or of the establishment relating thereto depends 12. Air traffic control 13. The Minister may declare by notification in the Gazette a service to be an essential service if any disruption of the service would endanger the life, personal safety or health of the whole or part of a population”. Peruntukan kecualian dan peralihan"
       }
     },
     {

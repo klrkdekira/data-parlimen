@@ -38,11 +38,13 @@ the words "two hundred ringgit" the words "five thousand ringgit".
 
 ## BILL
 
-Pind
+<!-- marginal: Pind -->
 
 ## EXPLANATORY STATEMENT
 
-seks This Bill seeks to amend the Native Courts (Criminal Jurisdiction) Act 1991 (hereinafter referred to as "the Act")
+<!-- marginal: seks -->
+
+This Bill seeks to amend the Native Courts (Criminal Jurisdiction) Act 1991 (hereinafter referred to as "the Act")
 
 2. Clause 2 seeks to amend section 2 of the Act to increase the criminal jurisdiction conferred on native courts in the States of Sabah and Sarawak. With the amendment, native courts will have the jurisdiction to try offences punishable with imprisonment for a term not exceeding two years or with a fine not exceeding five thousand ringgit or both.
 

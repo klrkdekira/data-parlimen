@@ -8,29 +8,41 @@ Naskhah Sahih—Bahasa Inggeris
 
 bernama
 
-Suatu Akta untuk meminda Akta Mahkamah Kehakiman
-
-1964. [ ]
+Suatu Akta untuk meminda Akta Mahkamah Kehakiman 1964. [ ]
 
 ## MAKA INILAH DIPERBUAT UNDANG-UNDANG
 
 oleh Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan Dewan Negara dan Dewan Rakyat yang bersidang dalam Parlimen, dan dengan kuasa daripadanya, seperti berikut:
 
-Tajuk
+<!-- marginal: Tajuk -->
 
-1. Akta ini bolehlah dinamakan Akta Mahkamah ringkas Kehakiman (Pindaan) (No. 2) 1994 dan hendaklah dan mula disifatkan telah mula berkuatkuasa pada 24hb Jun 1994. berkuatkuasa.
+1. Akta ini bolehlah dinamakan Akta Mahkamah
 
-Pindaan
+<!-- marginal: ringkas -->
 
-2. Seksyen 50 Akta Mahkamah Kehakiman 1964, yang seksyen 50. disebut "Akta ibu" dalam Akta ini, adalah dipinda— Akta 91
+Kehakiman (Pindaan) (No. 2) 1994 dan hendaklah
+
+<!-- marginal: dan mula -->
+
+disifatkan telah mula berkuatkuasa pada 24hb Jun 1994.
+
+<!-- marginal: berkuatkuasa. -->
+
+<!-- marginal: Pindaan -->
+
+2. Seksyen 50 Akta Mahkamah Kehakiman 1964, yang
+
+<!-- marginal: seksyen 50. -->
+
+disebut "Akta ibu" dalam Akta ini, adalah dipinda—
+
+<!-- marginal: Akta 91 -->
 
 (a). dalam perenggan (1)(b), dengan memasukkan selepas perkataan "appellate" perkataan "or revisionary";
 
 (b) dalam subseksyen (2)—
 
-(i) dengan memasukkan selepas perkataan "appellate" perkataan "or revisionary"; dan
-
-(ii) dengan memasukkan selepas perkataan "questions of law" perkataan "which have arisen in the course of the appeal or revision and the determination of which by the High Court has affected the event of the appeal or revision"; dan
+(i) dengan memasukkan selepas perkataan "appellate" perkataan "or revisionary"; dan (ii) dengan memasukkan selepas perkataan "questions of law" perkataan "which have arisen in the course of the appeal or revision and the determination of which by the High Court has affected the event of the appeal or revision"; dan
 
 <!-- page 2 -->
 
@@ -38,31 +50,47 @@ Pindaan
 
 "(2A) An application for leave under subsection (2) shall be made within fourteen days after the date of the decision of the High Court.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-3. Subseksyen 51(2) Akta ibu adalah dipinda dengan seksyen 51. menggantikan noktah dengan noktah bertindih dan memasukkan selepas subseksyen 51(2) proviso yang berikut:
+3. Subseksyen 51(2) Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 51. -->
+
+menggantikan noktah dengan noktah bertindih dan memasukkan selepas subseksyen 51(2) proviso yang berikut:
 
 "Provided that, in a case of an appeal under section 50(2), the computation of the aforesaid period of fourteen days shall commence from the date immediately after leave has been granted by the Court of Appeal.".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-4. Subseksyen 52(1) Akta ibu adalah dipinda— seksyen 52.
+4. Subseksyen 52(1) Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 52. -->
 
 (a) dengan menggantikan noktah bertindih yang terdapat selepas perkataan "proceedings" dengan noktah; dan
 
 (b) dengan memotong proviso kepadanya.
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-5. Subseksyen 53(2) Akta ibu adalah dipinda dengan seksyen 53. menggantikan perkataan "trial Court" dengan perkataan "High Court".
+5. Subseksyen 53(2) Akta ibu adalah dipinda dengan
 
-Pindaan
+<!-- marginal: seksyen 53. -->
 
-6. Subseksyen 57(1) Akta ibu adalah dipinda dengan seksyen 57. menggantikan perkataan "trial Court" dengan perkataan "High Court".
+menggantikan perkataan "trial Court" dengan perkataan "High Court".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-7. Seksyen 60 Akta ibu adalah dipinda— seksyen 60
+6. Subseksyen 57(1) Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 57. -->
+
+menggantikan perkataan "trial Court" dengan perkataan "High Court".
+
+<!-- marginal: Pindaan -->
+
+7. Seksyen 60 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 60 -->
 
 (a) dalam subseksyen (1) dengan menggantikan perkataan "trial court" yang terdapat selepas perkataan "decision of the" dengan perkataan "High Court"; dan
 
@@ -130,9 +158,11 @@ memasukkan selepas perkataan "civil" perkataan "cause or".
 
 (b) dalam subseksyen (2) dengan menggantikan perkataan "by the trial court" dengan perkataan ", confirmed or varied by the Court of Appeal".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-14. Seksyen 93 Akta ibu adalah dipinda— seksyen 93.
+14. Seksyen 93 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 93. -->
 
 (a) dalam subseksyen (1) dan (2) dengan menggantikan perkataan "trial court" dengan perkataan "High Court";
 
@@ -140,9 +170,11 @@ Pindaan
 
 (c) dalam subseksyen (4) dengan menggantikan perkataan "trial court" dengan perkataan "High Court".
 
-Pindaan
+<!-- marginal: Pindaan -->
 
-15. Seksyen 95 Akta ibu adalah dipinda— seksyen 95.
+15. Seksyen 95 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 95. -->
 
 (a) dengan menggantikan nota birai dengan nota birai yang berikut:
 

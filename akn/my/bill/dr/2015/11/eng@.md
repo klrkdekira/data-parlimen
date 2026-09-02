@@ -706,7 +706,9 @@ For the purposes of this Part—
 
 (e) in subsection (12)—
 
-(i) in paragraph (a), by inserting after the words “part thereof” the words “as may be prescribed,”; and
+(i) in paragraph (a), by inserting after the words “part thereof” the words “as may be prescribed,”;
+
+<!-- marginal: and -->
 
 (ii) in paragraph (b), by substituting for the word “five” the word “fifty”;
 
@@ -714,9 +716,13 @@ For the purposes of this Part—
 
 (i) by inserting after the word “damages” the words “or removes”; and
 
-(ii) by substituting for the word “five” the word “fifty”;
+(ii) by substituting for the word “five” the word
 
-(g) by substituting for subsection (15) the following subsection:
+<!-- marginal: “fifty”; -->
+
+(g) by substituting for subsection (15) the following
+
+<!-- marginal: subsection: -->
 
 “(15) Any person—
 
@@ -866,7 +872,7 @@ Provided that and subject to subsection (4), if the licensee does not proceed wi
 
 33. The principal Act is amended by inserting after section 44a the following Part:
 
-“Part Ixa
+## “PART IXA
 
 ## ELECTRICITY INDUSTRY FUND
 
@@ -972,7 +978,7 @@ commits an offence.
 
 <!-- page 39 -->
 
-### New sections 50a, 50b, 50c, 50d, 50e and 50f
+## NEW SECTIONS 50A, 50B, 50C, 50D, 50E AND 50F
 
 38. The principal Act is amended by inserting after section 50 the following sections:
 
@@ -1290,4 +1296,4 @@ standards applicable to any installation or equipment and for the licensees, non
 
 This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained.
 
-[PN(U2)2808]
+<!-- marginal: [PN(U2)2808] -->

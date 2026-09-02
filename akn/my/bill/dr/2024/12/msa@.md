@@ -28,11 +28,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (a) dengan menggantikan butiran 55 dengan butiran yang berikut:
 
-Gaji Bulanan Caruman Caruman
-
-<!-- marginal: Jumlah -->
-
-Majikan Pekerja
+Gaji Bulanan Caruman Caruman Jumlah Majikan Pekerja
 
 55.Apabila gaji RM10.10 RM10.10 RM20.20
 
@@ -42,11 +38,7 @@ Majikan Pekerja
 
 (b) dengan memasukkan selepas butiran 55 butiran yang berikut:
 
-Gaji Bulanan Caruman Caruman
-
-<!-- marginal: Jumlah -->
-
-Majikan Pekerja
+Gaji Bulanan Caruman Caruman Jumlah Majikan Pekerja
 
 56.Apabila gaji RM10.30 RM10.30 RM20.60 “ melebihi RM5,100 tetapi tidak melebihi RM5,200
 
@@ -62,11 +54,7 @@ Majikan Pekerja
 
 <!-- page 3 -->
 
-Gaji Bulanan Caruman Caruman
-
-<!-- marginal: Jumlah -->
-
-Majikan Pekerja
+Gaji Bulanan Caruman Caruman Jumlah Majikan Pekerja
 
 62.Apabila gaji RM11.50 RM11.50 RM23.00 melebihi RM5,700 tetapi tidak melebihi RM5,800
 
@@ -82,27 +70,11 @@ Majikan Pekerja
 
 (a) dengan menggantikan butiran 55 dengan butiran yang berikut:
 
-Gaji bulanan sebenar
-
-<!-- marginal: Jumlah -->
-
-<!-- marginal: Gaji bulanan -->
-
-bagi bulan itu caruman
-
-<!-- marginal: anggapan -->
-
-<!-- marginal: yang -->
-
-<!-- marginal: bersamaan -->
-
-<!-- marginal: bagi bulan -->
+Gaji bulanan sebenar Jumlah Gaji bulanan bagi bulan itu caruman anggapan yang bersamaan bagi bulan
 
 <!-- marginal: itu -->
 
-55. Apabila gaji melebihi RM5,000 RM20.20
-
-<!-- marginal: RM5,050 -->
+55. Apabila gaji melebihi RM5,000 RM20.20 RM5,050
 
 <!-- marginal: ”; dan -->
 
@@ -110,6 +82,18 @@ bagi bulan itu caruman
 
 (b) dengan memasukkan selepas butiran 55 butiran yang berikut:
 
+Gaji bulanan sebenar Jumlah Gaji bulanan bagi bulan itu caruman anggapan
+
+<!-- marginal: yang -->
+
+bersamaan bagi bulan
+
+<!-- marginal: itu -->
+
+56. Apabila gaji melebihi RM5,100 RM20.60 RM5,150 “ tetapi tidak melebihi RM5,200
+
+<!-- page 4 -->
+
 Gaji bulanan sebenar
 
 <!-- marginal: Jumlah -->
@@ -128,81 +112,73 @@ bagi bulan itu caruman
 
 <!-- marginal: itu -->
 
-56. Apabila gaji melebihi RM5,100
+57. Apabila gaji melebihi RM5,200
 
-<!-- marginal: RM20.60 -->
-
-<!-- marginal: RM5,150 -->
-
-“ tetapi tidak melebihi RM5,200
-
-<!-- page 4 -->
-
-Gaji bulanan sebenar Jumlah
-
-<!-- marginal: Gaji bulanan -->
-
-bagi bulan itu caruman
-
-<!-- marginal: anggapan -->
-
-<!-- marginal: yang -->
-
-<!-- marginal: bersamaan -->
-
-<!-- marginal: bagi bulan -->
-
-<!-- marginal: itu -->
-
-57. Apabila gaji melebihi RM5,200 RM21.00
+<!-- marginal: RM21.00 -->
 
 <!-- marginal: RM5,250 -->
 
 tetapi tidak melebihi RM5,300
 
-58. Apabila gaji melebihi RM5,300 RM21.40
+58. Apabila gaji melebihi RM5,300
+
+<!-- marginal: RM21.40 -->
 
 <!-- marginal: RM5,350 -->
 
 tetapi tidak melebihi RM5,400
 
-59. Apabila gaji melebihi RM5,400 RM21.80
+59. Apabila gaji melebihi RM5,400
+
+<!-- marginal: RM21.80 -->
 
 <!-- marginal: RM5,450 -->
 
 tetapi tidak melebihi RM5,500
 
-60. Apabila gaji melebihi RM5,500 RM22.20
+60. Apabila gaji melebihi RM5,500
+
+<!-- marginal: RM22.20 -->
 
 <!-- marginal: RM5,550 -->
 
 tetapi tidak melebihi RM5,600
 
-61. Apabila gaji melebihi RM5,600 RM22.60
+61. Apabila gaji melebihi RM5,600
+
+<!-- marginal: RM22.60 -->
 
 <!-- marginal: RM5,650 -->
 
 tetapi tidak melebihi RM5,700
 
-62. Apabila gaji melebihi RM5,700 RM23.00
+62. Apabila gaji melebihi RM5,700
+
+<!-- marginal: RM23.00 -->
 
 <!-- marginal: RM5,750 -->
 
 tetapi tidak melebihi RM5,800
 
-63. Apabila gaji melebihi RM5,800 RM23.40
+63. Apabila gaji melebihi RM5,800
+
+<!-- marginal: RM23.40 -->
 
 <!-- marginal: RM5,850 -->
 
 tetapi tidak melebihi RM5,900
 
-64. Apabila gaji melebihi RM5,900 RM23.80
+64. Apabila gaji melebihi RM5,900
+
+<!-- marginal: RM23.80 -->
 
 <!-- marginal: RM5,950 -->
 
 tetapi tidak melebihi RM6,000
 
-65. Apabila gaji melebihi RM6,000 RM23.80
+65. Apabila gaji melebihi RM6,000
+
+<!-- marginal: RM23.80 -->
 
 <!-- marginal: RM5,950 -->
 

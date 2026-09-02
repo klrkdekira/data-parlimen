@@ -108,7 +108,11 @@ Bill
 
 ' "stage bus" means a bus plying along a route approved by the Board for the carriage of passengers on a service which contains fare stages, with a separate fare, time-table and schedule of fare for each fare stage;'.
 
-Amendment 4. Section 4 of the principal Act is amended— of section 4.
+<!-- marginal: Amendment -->
+
+4. Section 4 of the principal Act is amended—
+
+<!-- marginal: of section 4. -->
 
 (a) by inserting after paragraph (a) the following paragraph:
 
@@ -118,7 +122,11 @@ Amendment 4. Section 4 of the principal Act is amended— of section 4.
 
 (c) in paragraph (e) by substituting for the words "three other persons" the words "not more than six persons".
 
-Amendment 5. Section 5 of the principal Act is amended— of section 5.
+<!-- marginal: Amendment -->
+
+5. Section 5 of the principal Act is amended—
+
+<!-- marginal: of section 5. -->
 
 (a) by inserting after paragraph (a) the following paragraph:
 
@@ -128,7 +136,11 @@ Amendment 5. Section 5 of the principal Act is amended— of section 5.
 
 (c) in paragraph (e) by substituting for the words "three other persons" the words "not more than six persons".
 
-Amendment 6. Section 6 of the principal Act is amended— of section 6.
+<!-- marginal: Amendment -->
+
+6. Section 6 of the principal Act is amended—
+
+<!-- marginal: of section 6. -->
 
 (a) by inserting after paragraph (a) the following paragraph:
 
@@ -196,9 +208,13 @@ Bill
 
 "(lA) Notwithstanding subsection (1) the Minister may make rules for the purpose of prescribing any other classes of public service vehicles as he thinks fit.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-10. Section 15 of the principal Act is amended by of section 15. substituting for subsection (2) the following subsection:
+10. Section 15 of the principal Act is amended by
+
+<!-- marginal: of section 15. -->
+
+substituting for subsection (2) the following subsection:
 
 "(2) In addition to any other information which may be required to be given under this Act, the applicant shall give to the Board the following information which is required for the discharge of its functions in relation to the application:
 
@@ -210,9 +226,9 @@ Amendment
 
 (d) any other information as may be determined by the Board.".
 
-Amendment 11. Paragraph 17(1)(a) of the principal Act is amended of section 17. by inserting before the word revoked
+<!-- marginal: Amendment -->
 
-<!-- marginal: the word replaced -->
+11. Paragraph 17(1)(a) of the principal Act is amended of section 17. by inserting before the word revoked the word replaced
 
 or".
 
@@ -220,11 +236,9 @@ or".
 
 Commercial Vehicles Licensing Board (Amendment)
 
-<!-- marginal: Amendment -->
+Amendment
 
-12. Section 19 of the principal Act is amended—
-
-<!-- marginal: of section 19. -->
+12. Section 19 of the principal Act is amended— of section 19.
 
 (a) in subsection (1)—
 
@@ -232,21 +246,13 @@ Commercial Vehicles Licensing Board (Amendment)
 
 (A) in the national language text in subparagraphs (ii) and (iii) by substituting for the word "jalan- arah" the word "laluan";
 
-(B) in subparagraph (iv) by deleting the words "and in the case of excursion buses
+(B) in subparagraph (iv) by deleting the words "and in the case of excursion buses also the itinerary,"; and
 
-<!-- marginal: also -->
+(C) by inserting after subparagraph
 
-<!-- marginal: the -->
+(vii) the following subparagraph:
 
-itinerary,"; and
-
-(C) by inserting after subparagraph (vii) the following subparagraph:
-
-"(viii) that the authorised vehicle is installed with a ticket machine or equipment of the latest technology as may be determined by
-
-<!-- marginal: the -->
-
-Board;";
+"(viii) that the authorised vehicle is installed with a ticket machine or equipment of the latest technology as may be determined by the Board;";
 
 (ii) by deleting paragraph (d); and
 
@@ -258,7 +264,9 @@ Board;";
 
 "(vi) that the authorised vehicle is kept in a designated place.";
 
-(b) in subsection (3) by substituting for the words "not exceeding five" the words "of not less than one thousand ringgit but not more than ten"; and
+(b) in subsection (3) by substituting for the words "not exceeding five" the words "of not less than one thousand ringgit but not more than
+
+<!-- marginal: ten"; and -->
 
 <!-- page 8 -->
 
@@ -296,21 +304,25 @@ Commercial Vehicles Licensing Board (Amendment)
 
 <!-- marginal: 2 l A- -->
 
-### Docu-
+<!-- marginal: Docu- -->
 
 21 A. (1) In addition to any other document
 
-### ments
+<!-- marginal: ments -->
 
 which may be required under this Act, an
 
-### required
+<!-- marginal: required -->
 
-### for
+<!-- marginal: for -->
 
-application for a renewal of a licence shall be renewal accompanied with the following documents:
+application for a renewal of a licence shall be
 
-### of licence.
+<!-- marginal: renewal -->
+
+accompanied with the following documents:
+
+<!-- marginal: of licence. -->
 
 (a) an audited financial statement of the applicant;
 
@@ -330,19 +342,51 @@ application for a renewal of a licence shall be renewal accompanied with the fol
 
 Bill
 
-New sections
+<!-- marginal: New sections -->
 
-16. The principal Act is amended by inserting after section 25A and 25B. 25 the following sections:
+16. The principal Act is amended by inserting after section
 
-"Prohibi- 25 A. (1) The holder of a licence whose licence tion in has been suspended under section 25 shall not, relation to during the period of suspension, use, cause or suspended permit the use of a vehicle to which the licence licence. relates.
+<!-- marginal: 25A and 25B. -->
+
+25 the following sections:
+
+<!-- marginal: "Prohibi- -->
+
+25 A. (1) The holder of a licence whose licence
+
+<!-- marginal: tion in -->
+
+has been suspended under section 25 shall not,
+
+<!-- marginal: relation -->
+
+<!-- marginal: to -->
+
+during the period of suspension, use, cause or
+
+<!-- marginal: suspended -->
+
+permit the use of a vehicle to which the licence
+
+<!-- marginal: licence. -->
+
+relates.
 
 (2) Any holder of a licence using, causing or permitting the use of a vehicle when the licence in respect of the vehicle is suspended under section 25 shall be guilty of an offence and shall on conviction be liable to a fine of not less than one thousand ringgit but not more than ten thousand ringgit or to imprisonment for a term not exceeding one year or to both.
 
-Power of 25B. (1) The Board shall, in the exercise of
+<!-- marginal: Power of -->
 
-### the Board
+25B. (1) The Board shall, in the exercise of
 
-its discretion, have the power to replace a licence io replace licence. with a licence of a different class or for a different maximum permissible laden weight or seating capacity or type if the Board is satisfied that there is a need for the carriage of goods that is different from the class of licence granted under this Act for the purpose of—
+<!-- marginal: the Board -->
+
+its discretion, have the power to replace a licence
+
+<!-- marginal: io replace -->
+
+<!-- marginal: licence. -->
+
+with a licence of a different class or for a different maximum permissible laden weight or seating capacity or type if the Board is satisfied that there is a need for the carriage of goods that is different from the class of licence granted under this Act for the purpose of—
 
 (a) reorganizing or consolidating the services provided by the holder of licences of different classes; or
 
@@ -432,17 +476,13 @@ Bill
 
 shall be guilty of an offence.
 
-(2) Any person who is guilty of an offence under this Act shall, where no special penalty is provided, be liable in the case of a first conviction to a fine not exceeding one thousand ringgit or to imprisonment for a term not exceeding three months and, in the case of a second or subsequent conviction, to a fine not exceeding one thousand ringgit or
+(2) Any person who is guilty of an offence under this Act shall, where no special penalty is provided, be liable in the case of a first conviction to a fine not exceeding one thousand ringgit or to imprisonment for a term not exceeding three months and, in the case of a second or subsequent conviction, to a fine not exceeding one thousand ringgit or to imprisonment for a term not exceeding six months or to both.".
 
-<!-- marginal: to -->
-
-imprisonment for a term not exceeding six months or to both.".
-
-Amendment
+<!-- marginal: Amendment -->
 
 30. Section 51 of the principal Act is amended—
 
-### of section 5 1.
+<!-- marginal: of section 5 1. -->
 
 (a) in subsection (1) by substituting for the words "section 33 or 34" the words "subsection (3) of section 19, subsection (1)(b) of section 20, section 33 or section 34"; and
 
@@ -450,7 +490,11 @@ Amendment
 
 New sections 31. The principal Act is amended by inserting after section 51A and 51B 51 the folloeing sections:
 
-"Detention 51 A. (1) If any police officer in uniform or a of vehi- road transport officer in uniform or Board Officer cles has reasonable cause to believe that the provisions of this Act have not been complied with in respect of any motor vehicle, he may require such vehicle to be stopped and may require the driver of such vehicle to drive it to some other place, and the vehicle may, if necessary, be detained by any police officer not below the rank of sergeant or any police officer in charge of a police station for the
+"Detention 51 A. (1) If any police officer in uniform or a
+
+<!-- marginal: of vehi- -->
+
+road transport officer in uniform or Board Officer cles has reasonable cause to believe that the provisions of this Act have not been complied with in respect of any motor vehicle, he may require such vehicle to be stopped and may require the driver of such vehicle to drive it to some other place, and the vehicle may, if necessary, be detained by any police officer not below the rank of sergeant or any police officer in charge of a police station for the
 
 <!-- page 15 -->
 

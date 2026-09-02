@@ -22,7 +22,13 @@ III
 
 ## ANCILLARY AND GENERAL PROVISIONS
 
-9. Territorial scope of offences under this Act. 10. Powers of search, seizure and arrest. 11. Obstruction of search. 12. Prosecution.
+9. Territorial scope of offences under this Act.
+
+10. Powers of search, seizure and arrest.
+
+11. Obstruction of search.
+
+12. Prosecution.
 
 <!-- page 3 -->
 
@@ -212,9 +218,7 @@ associated apparatus or material which he has reasonable cause to suspect is or 
 
 (ii) any person having charge of or otherwise concerned with the operation of, the computer, apparatus or material,
 
-to provide him with such-reasonable assistance as he may require for the purposes of paragraph
-
-(a); and
+to provide him with such-reasonable assistance as he may require for the purposes of paragraph (a); and
 
 (c) require any information contained in a computer and accessible from the premises to be produced in a form in which it can be taken away and in which it is visible and legible.
 

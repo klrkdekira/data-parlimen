@@ -56,15 +56,21 @@ the provision, unless the memorandum itself prohibits the alteration or deletion
 
 (1B) Nothing in subsection (1A) permits the alteration or deletion of a provision of the memorandum that relates to rights to which only members included in a particular class of members are entitled.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-4. Section 37 of the principal Act is amended by inserting of section 37. after subsection (2) the following subsection:
+4. Section 37 of the principal Act is amended by inserting
+
+<!-- marginal: of section 37. -->
+
+after subsection (2) the following subsection:
 
 " (2A) Nothing in this Division and Division 4 of this Part shall apply to an offer or irwitation in respect of shares or debentures for sale to the public where the offer or invitation relates to shares or debentures that have previously been issued and the shares or debentures are of a class that are listed for quotation on a stock exchange.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-5. Subsection 38(1 B) of the principal Act is amended— of section 38.
+5. Subsection 38(1 B) of the principal Act is amended—
+
+<!-- marginal: of section 38. -->
 
 (a) by inserting the word "or" at the end of paragraph (a);
 
@@ -72,9 +78,13 @@ Amendment
 
 (c) by deleting paragraph (c).
 
-New
+<!-- marginal: New -->
 
-6. The principal Act is amended by inserting after section section 39B. 39A the following section:
+6. The principal Act is amended by inserting after section
+
+<!-- marginal: section 39B. -->
+
+39A the following section:
 
 "Relief from 39B. (1) Without prejudice to subsection 37(2), requirements the Registrar may, on the application in writing as 10 form by any person referred to under subsection 37(1), and content of a make an order relieving him or approving any prospectus. variation from the requirements of this Act relating to the form and content of a prospectus.
 
@@ -86,13 +96,7 @@ New
 
 considered the nature and objectives of the corporation, that—
 
-(a) such relief or variation shall not cause the non-disclosure to the public of information necessary
-
-<!-- marginal: for -->
-
-<!-- marginal: the -->
-
-assessment of the investment in the shares or debentures of the corporation as the case may be; and
+(a) such relief or variation shall not cause the non-disclosure to the public of information necessary for the assessment of the investment in the shares or debentures of the corporation as the case may be; and
 
 (b) compliance with the requirements, for which such relief or variation is applied for, would impose unreasonable burden on the applicant.
 
@@ -114,13 +118,7 @@ assessment of the investment in the shares or debentures of the corporation as t
 
 (i) every document referred to in subsection (2)(c); and
 
-(ii) all material contracts referred to
-
-<!-- marginal: in -->
-
-<!-- marginal: the -->
-
-prospectus and, in the case of such a contract not reduced into writing, a memorandum giving full particulars thereof,
+(ii) all material contracts referred to in the prospectus and, in the case of such a contract not reduced into writing, a memorandum giving full particulars thereof,
 
 <!-- page 4 -->
 
@@ -128,41 +126,43 @@ verified as prescribed, to be deposited within three days after the registration
 
 (b) keep each such copy for a period of at least six months after the registration of the prospectus for inspection by any person without charge."
 
-New
+<!-- marginal: New -->
 
-8. The principal Act is amended by inserting after section section 42A. 42 the following section:
+8. The principal Act is amended by inserting after section
 
-"Supple- 42A. (1) If, after the registration of a prospectus, mental but before its issue, the person who lodged the prospectus. prospectus became aware that—
+<!-- marginal: section 42A. -->
 
-(a) a significant new matter has arisen being a matter, the information of which is required by this Act or by any requirements or guidelines of any authority, to be disclosed
+42 the following section:
 
-<!-- marginal: in a -->
+<!-- marginal: "Supple- -->
 
-prospectus;
+42A. (1) If, after the registration of a prospectus,
+
+<!-- marginal: mental -->
+
+but before its issue, the person who lodged the
+
+<!-- marginal: prospectus. -->
+
+prospectus became aware that—
+
+(a) a significant new matter has arisen being a matter, the information of which is required by this Act or by any requirements or guidelines of any authority, to be disclosed in a prospectus;
 
 (b) there has been a significant change affecting a matter disclosed in the prospectus;
 
-(c) the prospectus contained a material statement that is false or misleading; or
+(c) the prospectus contained a material statement that is false or misleading;
+
+<!-- marginal: or -->
 
 (d) there is a material omission from the prospectus,
 
-the person shall lodge with the Registrar a supplemental prospectus
-
-<!-- marginal: that -->
-
-<!-- marginal: contains -->
-
-information relating to the new matter or change or correct the false or misleading statement or omission as the case requires.
+the person shall lodge with the Registrar a supplemental prospectus that contains information relating to the new matter or change or correct the false or misleading statement or omission as the case requires.
 
 <!-- page 5 -->
 
 (2) A supplemental prospectus shall clearly identify the prospectus to which it relates and shall contain a statement in bold or coloured print that it is a supplemental prospectus to be read in conjunction with the prospectus.
 
-(3) A supplemental prospectus shall be deemed to be part of the prospectus to which it relates and all written laws and rules of law as to the contents of prospectuses and to liability in respect of statements and non-disclosures in prospectuses or otherwise relating
-
-<!-- marginal: to -->
-
-prospectuses, shall apply and have effect accordingly.
+(3) A supplemental prospectus shall be deemed to be part of the prospectus to which it relates and all written laws and rules of law as to the contents of prospectuses and to liability in respect of statements and non-disclosures in prospectuses or otherwise relating to prospectuses, shall apply and have effect accordingly.
 
 (4) Where a supplemental prospectus has been lodged with the Registrar pursuant to subsection (1), every copy of the prospectus shall be issued, accompanied by a copy of the supplemental prospectus.
 
@@ -178,13 +178,7 @@ prospectuses, shall apply and have effect accordingly.
 
 (a) in the case of subsection (5)(a), be sent together with a copy of the supplemental prospectus to every person referred to in that subsection;
 
-(b) in the case of subsection (5)(b), be advertised together
-
-<!-- marginal: w i th -->
-
-<!-- marginal: the -->
-
-supplemental prospectus,
+(b) in the case of subsection (5)(b), be advertised together w i th the supplemental prospectus,
 
 stating—
 
@@ -196,9 +190,25 @@ stating—
 
 Penalty: Imprisonment for five years or one hundred thousand ringgit or both.".
 
-New sections 9. The principal Act is amended by inserting after section 47A and 47B. 47 the following sections:
+<!-- marginal: New sections -->
 
-"Power of 47A. (1) Subject to subsection (2) the Minister Minister may, on the application in writing by any person to exempt. interested and subject to the recommendation of the Registrar, by order declare that Division 1 and Division 4 of this Part shall not apply to any person making an offer of shares or debentures to the public, either unconditionally or subject to such terms and conditions as the Minister thinks fit to impose.
+9. The principal Act is amended by inserting after section
+
+<!-- marginal: 47A and 47B. -->
+
+47 the following sections:
+
+<!-- marginal: "Power of -->
+
+47A. (1) Subject to subsection (2) the Minister
+
+<!-- marginal: Minister -->
+
+may, on the application in writing by any person
+
+<!-- marginal: to exempt. -->
+
+interested and subject to the recommendation of the Registrar, by order declare that Division 1 and Division 4 of this Part shall not apply to any person making an offer of shares or debentures to the public, either unconditionally or subject to such terms and conditions as the Minister thinks fit to impose.
 
 <!-- page 7 -->
 
@@ -208,7 +218,13 @@ New sections 9. The principal Act is amended by inserting after section 47A and 
 
 (b) it would not be prejudicial to the public interest if a prospectus were dispensed with.
 
-Exempted 47B. (1) Nothing in Division 1 and Division offers. 4 of this Part shall apply to an offer of shares or debentures, whether or not they have been previously issued, made to—
+<!-- marginal: Exempted -->
+
+47B. (1) Nothing in Division 1 and Division
+
+<!-- marginal: offers. -->
+
+4 of this Part shall apply to an offer of shares or debentures, whether or not they have been previously issued, made to—
 
 (a) a prescribed corporation;
 
@@ -218,9 +234,17 @@ Exempted 47B. (1) Nothing in Division 1 and Division offers. 4 of this Part shal
 
 (d) a statutory body established by an Act of Parliament or an Enactment of any State;
 
-(e) a pension fund approved by the Director General of Inland Revenue under section Act 53. 150 of the Income Tax Act 1967;
+(e) a pension fund approved by the Director General of Inland Revenue under section
 
-(f) a unit trust scheme as defined under Act 280. the Securities Industry Act 1983;
+<!-- marginal: Act 53. -->
+
+150 of the Income Tax Act 1967;
+
+(f) a unit trust scheme as defined under
+
+<!-- marginal: Act 280. -->
+
+the Securities Industry Act 1983;
 
 (g) a person licensed as a dealer or investment adviser under the Securities Industry Act 1983;
 
@@ -238,9 +262,13 @@ who or which pursuant to the offer, acquires the shares or debentures as princip
 
 (3) Any information memorandum purporting to describe the business and affairs of the person making the offer issued by the said person or his agent shall be deemed to be a prospectus, in so far as regarding the liability of the person or his agent, for any untrue statement or non- disclosure of material information and a copy of the memorandum shall be lodged with the Registrar within seven days after it is first issued."
 
-Amendment
+<!-- marginal: Amendment -->
 
-10. Subsection 84(1) of the principal Act is amended of section 84. in the definition of "interest"—
+10. Subsection 84(1) of the principal Act is amended
+
+<!-- marginal: of section 84. -->
+
+in the definition of "interest"—
 
 (a) by deleting the word "or" appearing at the end of paragraph (f);
 
@@ -284,33 +312,59 @@ inserting after subsection (6) the following subsections:
 
 (b) the copy of the statement has been advertised in a national language and an English language newspaper circulating generally throughout Malaysia.".
 
-Amendment
+<!-- marginal: Amendment -->
 
-13. Subsection 164(8) of the principal Act is amended of section 164. by substituting for the words "Yang di-Pertuan Agong" the word "Minister".
+13. Subsection 164(8) of the principal Act is amended
 
-Amendment
+<!-- marginal: of section 164. -->
 
-14. Section 194 of the principal Act is amended in the ofsection 194. definition of "declared company" by substituting for the words "Yang di-Pertuan Agong" the word "Minister".
+by substituting for the words "Yang di-Pertuan Agong" the word "Minister".
 
-Amendment
+<!-- marginal: Amendment -->
 
-15. Section 195 of the principal Act is amended by of section 195. substituting for the words "Yang di-Pertuan Agong" the word "Minister".
+14. Section 194 of the principal Act is amended in the
 
-Amendment
+<!-- marginal: ofsection 194. -->
 
-16. Section 210 of the principal Act is amended by of section 210. substituting for the words "Yang di-Pertuan Agong" wherever they appear the word "Minister".
+definition of "declared company" by substituting for the words "Yang di-Pertuan Agong" the word "Minister".
 
-Amendmenl
+<!-- marginal: Amendment -->
 
-17. Section 319 of the principal Act is amended by of section 319. substituting for the words "Yang di-Pertuan Agong" wherever they appear the word "Minister".
+15. Section 195 of the principal Act is amended by
 
-Amendment
+<!-- marginal: of section 195. -->
 
-18. Paragraph 324(b) of the principal Act is amended of section 324. by substituting for the words "Yang di-Pertuan Agong" the word "Minister".
+substituting for the words "Yang di-Pertuan Agong" the word "Minister".
 
-Amendment
+<!-- marginal: Amendment -->
 
-19. Section 338 of the principal Act is amended— of section 338.
+16. Section 210 of the principal Act is amended by
+
+<!-- marginal: of section 210. -->
+
+substituting for the words "Yang di-Pertuan Agong" wherever they appear the word "Minister".
+
+<!-- marginal: Amendmenl -->
+
+17. Section 319 of the principal Act is amended by
+
+<!-- marginal: of section 319. -->
+
+substituting for the words "Yang di-Pertuan Agong" wherever they appear the word "Minister".
+
+<!-- marginal: Amendment -->
+
+18. Paragraph 324(b) of the principal Act is amended
+
+<!-- marginal: of section 324. -->
+
+by substituting for the words "Yang di-Pertuan Agong" the word "Minister".
+
+<!-- marginal: Amendment -->
+
+19. Section 338 of the principal Act is amended—
+
+<!-- marginal: of section 338. -->
 
 (a) in paragraph ( 1 )( b) by inserting after the word "name" the words ", company number"; and
 
@@ -390,6 +444,4 @@ This Bill seeks to amend the Companies Act 1965 ("the Act").
 
 ## IMPLICATIONS
 
-This Bill will not involve the Government in any extra financial expenditure.
-
-<!-- marginal: [PN. (U2) 1825.] -->
+This Bill will not involve the Government in any extra financial expenditure. [PN. (U2) 1825.]

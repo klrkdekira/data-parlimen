@@ -22,15 +22,19 @@ II
 
 ## PELESENAN PENGUSAHAAN-PENGUSAHAAN PELANCONGAN
 
-5. Pengusahaan-pengusahaan pelancongan
-
-<!-- marginal: hendaklah -->
-
-dilesenkan. 6. Pengemukaan permohonan untuk lesen
+5. Pengusahaan-pengusahaan pelancongan hendaklah dilesenkan. 6. Pengemukaan permohonan untuk lesen
 
 <!-- marginal: kepada -->
 
-Pesuruhjaya. 7. Pemberian atau keengganan memberi lesen. 8. Pembatalan lesen. 9. Rayuan. 10. Penyerahan balik lesen. 11. Kesan pembatalan, penyerahan balik atau habisnya tempoh lesen. 12. Pengembalian lesen. 13. Sekatan ke atas penggunaan perkataan "melancong", dsb.
+Pesuruhjaya. 7. Pemberian atau keengganan memberi lesen. 8. Pembatalan lesen. 9. Rayuan.
+
+10. Penyerahan balik lesen.
+
+11. Kesan pembatalan, penyerahan balik atau habisnya tempoh lesen.
+
+12. Pengembalian lesen.
+
+13. Sekatan ke atas penggunaan perkataan "melancong", dsb.
 
 ## BAHAGIAN
 
@@ -40,13 +44,13 @@ III
 
 ## PENGUSAHAAN PELANCONGAN BERLESEN
 
-14. Kehendak untuk mempamerkan lesen. 15. Kewajipan mengemukakan maklumat dan butir-butir yang berhubungan dengan kendalian-kendalian perniagaan.
+14. Kehendak untuk mempamerkan lesen.
+
+15. Kewajipan mengemukakan maklumat dan butir-butir yang berhubungan dengan kendalian-kendalian perniagaan.
 
 <!-- page 2 -->
 
-16. Pelancongan dalam negeri dan pelancongan ke luar negeri serta aktiviti-aktiviti perniagaan lain.
-
-17. Pemberitahuan mengenai pertukaran maklumat.
+16. Pelancongan dalam negeri dan pelancongan ke luar negeri serta aktiviti-aktiviti perniagaan lain. 17. Pemberitahuan mengenai pertukaran maklumat.
 
 18. Kehendak-kehendak tentang pengiklanan.
 
@@ -172,7 +176,11 @@ pengembaraan;
 
 "institusi latihan pelancongan" ertinya—
 
-(a) suatu institusi, pusat pengajian atau sekolah yang menyediakan latihan atau kursus-kursus berkenaan dengan perkhidmatan-perkhidmatan dan pengurusan pelancongan, termasuk perkhidmatan-perkhidmatan hotel
+(a) suatu institusi, pusat pengajian atau sekolah yang menyediakan latihan atau kursus-kursus berkenaan dengan perkhidmatan-perkhidmatan dan pengurusan pelancongan,
+
+<!-- marginal: termasuk -->
+
+perkhidmatan-perkhidmatan hotel
 
 <!-- marginal: dan -->
 
@@ -184,7 +192,11 @@ katering; dan
 
 "Ketua Setiausaha" ertinya Ketua Setiausaha Kementerian yang dipertanggungkan dengan tanggung- jawab bagi pelancongan;
 
-"Lembaga Penggalakan Pelancongan Malaysia" ertinya Lembaga Penggalakan Pelancongan Malaysia Akta yang ditubuhkan di bawah seksyen 3 Akta Lembaga Penggalakan Pelancongan Malaysia 1991;
+"Lembaga Penggalakan Pelancongan Malaysia" ertinya Lembaga Penggalakan Pelancongan Malaysia
+
+<!-- marginal: Akta -->
+
+yang ditubuhkan di bawah seksyen 3 Akta Lembaga Penggalakan Pelancongan Malaysia 1991;
 
 "lesen" ertinya lesen yang diberikan di bawah Akta ini;
 
@@ -306,13 +318,45 @@ oleh Akta Syarikat 1965.
 
 <!-- page 10 -->
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-3. Menteri boleh, melalui pemberitahuan dalam Warta, Menteri untuk menamakan mana-mana premis penginapan, institusi menamakan latihan atau restoran masing-masingnya sebagai premis ptemis penginapan penginapan pelancong, institusi latihan pelancongan dan pelancong, restoran pelancong bagi maksud-maksud Akta ini, institusi latihan pelancongan dan restoran pelancong.
+3. Menteri boleh, melalui pemberitahuan dalam Warta,
 
-Pesuruhjaya
+<!-- marginal: Menteri untuk -->
 
-4. (1) Ketua Setiausaha adalah dilantik sebagai Pelancongan. Pesuruhjaya Pelancongan yang hendaklah bertanggungjawab bagi penyeliaan am ke atas segala perkara yang berhubungan dengan pelancongan di bawah Akta ini.
+menamakan mana-mana premis penginapan, institusi
+
+<!-- marginal: menamakan -->
+
+latihan atau restoran masing-masingnya sebagai premis
+
+<!-- marginal: ptemis -->
+
+<!-- marginal: penginapan -->
+
+penginapan pelancong, institusi latihan pelancongan dan
+
+<!-- marginal: pelancong, -->
+
+restoran pelancong bagi maksud-maksud Akta ini,
+
+<!-- marginal: institusi -->
+
+<!-- marginal: latihan -->
+
+<!-- marginal: pelancongan -->
+
+<!-- marginal: dan restoran -->
+
+<!-- marginal: pelancong. -->
+
+<!-- marginal: Pesuruhjaya -->
+
+4. (1) Ketua Setiausaha adalah dilantik sebagai
+
+<!-- marginal: Pelancongan. -->
+
+Pesuruhjaya Pelancongan yang hendaklah bertanggungjawab bagi penyeliaan am ke atas segala perkara yang berhubungan dengan pelancongan di bawah Akta ini.
 
 (2) Pesuruhjaya boleh, secara bertulis, mewakilkan penjalanan mana-mana atau segala kuasa dan fungsi yang diberikan kepadanya oleh Akta ini kepada mana- mana pegawai awam yang difikirkannya patut.
 
@@ -324,7 +368,21 @@ II
 
 ## PELANCONGAN
 
-5. (1) Tiada seorang pun boleh menjalankan atau Pengusahaan- pengusaliaan mengendalikan, atau menganjurkan dirinya sebagai pelancongan menjalankan atau mengendalikan— hendaklah dilesenkan.
+5. (1) Tiada seorang pun boleh menjalankan atau
+
+<!-- marginal: Pengusahaan- -->
+
+<!-- marginal: pengusaliaan -->
+
+mengendalikan, atau menganjurkan dirinya sebagai
+
+<!-- marginal: pelancongan -->
+
+menjalankan atau mengendalikan—
+
+<!-- marginal: hendaklah -->
+
+<!-- marginal: dilesenkan. -->
 
 (a) premis penginapan pelancong; (b) institusi latihan pelancongan; atau
 
@@ -342,7 +400,9 @@ melainkan jika ia adalah suatu syarikat dan memegang lesen sah yang diberikan di
 
 <!-- page 11 -->
 
-(3) Mana-mana orang yang melanggar subseksyen (1) atau (2) adalah melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya, dan dalam hal suatu kesalahan berterusan, boleh, sebagai tambahan, didenda tidak melebihi Hma ribu ringgit bagi setiap hari kesalahan itu terus dilakukan.
+(3) Mana-mana orang yang melanggar subseksyen
+
+(1) atau (2) adalah melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya, dan dalam hal suatu kesalahan berterusan, boleh, sebagai tambahan, didenda tidak melebihi Hma ribu ringgit bagi setiap hari kesalahan itu terus dilakukan.
 
 (4) Untuk mengelakkan keraguan, peruntukan-
 
@@ -384,9 +444,23 @@ Pesuruhjaya boleh, pada bila-bila masa selepas menerima permohonan itu dan sebel
 
 <!-- page 12 -->
 
-Pemberian
+<!-- marginal: Pemberian -->
 
-7. (1) Pesuruhjaya hendaklah, apabila permohonan atau dibuat dengan sewajarnya mengikut seksyen 6 dan keengganan memberi selepas diberi segala dokumen dan maklumat yang lesen. dikehendakinya, menimbangkan permohonan itu, dan jika dia berpuas hati akan kesesuaian pemohon, dan apabila dibayar fee-fee yang ditetapkan, memberikan lesen dengan atau tanpa syarat, atau enggan memberikan lesen.
+7. (1) Pesuruhjaya hendaklah, apabila permohonan
+
+<!-- marginal: atau -->
+
+dibuat dengan sewajarnya mengikut seksyen 6 dan
+
+<!-- marginal: keengganan -->
+
+<!-- marginal: memberi -->
+
+selepas diberi segala dokumen dan maklumat yang
+
+<!-- marginal: lesen. -->
+
+dikehendakinya, menimbangkan permohonan itu, dan jika dia berpuas hati akan kesesuaian pemohon, dan apabila dibayar fee-fee yang ditetapkan, memberikan lesen dengan atau tanpa syarat, atau enggan memberikan lesen.
 
 (2) Tiap-tiap lesen yang diberikan di bawah subsekysen (1) hendaklah menyatakan jangkamasa lesen sebagaimana yang ditetapkan dan nombor lesen.
 
@@ -394,9 +468,13 @@ Pemberian
 
 (4) Jika Pesuruhjaya enggan memberikan lesen, dia hendaklah dengan serta-merta memberitahu pemohon secara bertulis mengenai keengganannya itu.
 
-Pembatalan
+<!-- marginal: Pembatalan -->
 
-8. (1) Pesuruhjaya boleh membatalkan sesuatu lesen lesen. yang diberikan di bawah seksyen 7 jika dia berpuas hati bahawa—
+8. (1) Pesuruhjaya boleh membatalkan sesuatu lesen
+
+<!-- marginal: lesen. -->
+
+yang diberikan di bawah seksyen 7 jika dia berpuas hati bahawa—
 
 (a) pengusahaan pelancongan berlesen itu telah gagal mematuhi apa-apa obligasi yang dikenakan ke atasnya oleh atau di bawah Akta ini;
 
@@ -408,11 +486,7 @@ Pembatalan
 
 maklumat, dokumen atau perisytiharan yang palsu, mengelirukan atau tak tepat yang dibuat oleh atau bagi pihak pengusahaan pelancongan itu atau oleh atau bagi pihak mana-mana orang yang adalah atau yang akan menjadi pengarah, pengawal atau pengurus pengusahaan pelancongan berlesen itu;
 
-(d) pengusahaan pelancongan berlesen
-
-<!-- marginal: itu -->
-
-menjalankan perniagaannya mengikut cara yang memudaratkan kepentingan orang awam, industri pelancongan atau ekonomi negara;
+(d) pengusahaan pelancongan berlesen itu menjalankan perniagaannya mengikut cara yang memudaratkan kepentingan orang awam, industri pelancongan atau ekonomi negara;
 
 (e) pengusahaan pelancongan berlesen itu tidak berurusniaga dalam apa-apa perniagaan yang berkenaan dengannya ia dilesenkan selama apa-apa tempoh berterusan enam bulan atau telah berhenti menjalankan mana-mana perniagaan atau kendalian yang baginya ia dilesenkan;
 
@@ -424,7 +498,11 @@ menjalankan perniagaannya mengikut cara yang memudaratkan kepentingan orang awam
 
 (i) pengusahaan pelancongan berlesen itu atau pengarah, pengurus atau pengawalnya telah disabitkan atas mana-mana kesalahan di bawah Akta ini.
 
-(2) Sebelum membatalkan sesuatu lesen, Pesuruhjaya hendaklah memberi kepada pengusahaan pelancongan berlesen itu notis bertulis mengenai niatnya untuk berbuat sedemikian dan menghendaki
+(2) Sebelum membatalkan sesuatu lesen, Pesuruhjaya hendaklah memberi kepada pengusahaan pelancongan berlesen itu notis bertulis mengenai niatnya
+
+<!-- marginal: untuk -->
+
+berbuat sedemikian dan menghendaki
 
 <!-- page 14 -->
 
@@ -438,7 +516,11 @@ pengusahaan pelancongan berlesen itu menunjukkan sebab dalam tempoh yang dinyata
 
 (b) jika terdapat rayuan terhadap pembatalan sedemikian, apabila pembatalan itu disahkan oleh Menteri.
 
-(5) Jika suatu rayuan telah dibuat terhadap pembatalan sesuatu lesen, pengusahaan pelancongan berlesen yang lesennya dibatalkan sedemikian tidak boleh mengurusniagakan apa-apa perniagaan baru sehinggalah rayuan itu dibereskan dan pembatalan itu telah diketepikan oleh Menteri.
+(5) Jika suatu rayuan telah dibuat
+
+<!-- marginal: terhadap -->
+
+pembatalan sesuatu lesen, pengusahaan pelancongan berlesen yang lesennya dibatalkan sedemikian tidak boleh mengurusniagakan apa-apa perniagaan baru sehinggalah rayuan itu dibereskan dan pembatalan itu telah diketepikan oleh Menteri.
 
 (6) Mana-mana orang yang melanggar subseksyen
 
@@ -450,7 +532,7 @@ pengusahaan pelancongan berlesen itu menunjukkan sebab dalam tempoh yang dinyata
 
 <!-- page 15 -->
 
-Rayuan.
+<!-- marginal: Rayuan. -->
 
 9. (1) Mana-mana orang yang terkilan dengan—
 
@@ -462,17 +544,51 @@ boleh merayu secara bertulis kepada Menteri dalam masa empat belas hari dari tar
 
 (2) Keputusan Menteri di bawah seksyen ini adalah muktamad dan konklusif.
 
-Penyerahan
+<!-- marginal: Penyerahan -->
 
-10. (1) Suatu pengusahaan pelancongan berlesen balik lesen. boleh menyerahkan balik lesennya dengan mengemukakan lesen itu, dan apa-apa lesen tambahan, kepada Pesuruhjaya berserta dengan suatu notis bertulis mengenai penyerahan balik itu.
+10. (1) Suatu pengusahaan pelancongan berlesen
+
+<!-- marginal: balik lesen. -->
+
+boleh menyerahkan balik lesennya
+
+<!-- marginal: dengan -->
+
+mengemukakan lesen itu, dan apa-apa lesen tambahan, kepada Pesuruhjaya berserta dengan suatu notis bertulis mengenai penyerahan balik itu.
 
 (2) Penyerahan balik itu hendaklah m u la berkuatkuasa pada tarikh Pesuruhjaya menerima lesen- lesen itu dan notis di bawah subseksyen (1), atau jika suatu tarikh yang lebih lewat dinyatakan dalam notis itu, pada tarikh itu.
 
-(3) Pengusahaan pelancongan berlesen itu hendaklah, tidak lewat daripada empat belas hari selepas tarikh yang disebutkan dalam subseksyen (2), menyebabkan penyerahan balik sedemikian diiklankan dalam sekurang-kurangnya satu akhbar harian kebangsaan Bahasa Malaysia dan Inggeris selama sekurang-kurangnya tiga hari berturut-turut.
+(3) Pengusahaan pelancongan berlesen
 
-Kesan
+<!-- marginal: itu -->
 
-11. (1) Jika pembatalan sesuatu lesen di bawah pembatalan, seksyen 8 atau penyerahan baliknya di bawah seksyen penyerahan balik atau 10 telah mula berkuatkuasa, atau jika lesen itu telah habisnya habis tempohnya, maka pengusahaan pelancongan tempoh lesen. berlesen itu hendaklah dengan serta-merta berhenti
+hendaklah, tidak lewat daripada empat belas hari selepas tarikh yang disebutkan dalam subseksyen
+
+<!-- marginal: (2), -->
+
+menyebabkan penyerahan balik sedemikian diiklankan dalam sekurang-kurangnya satu akhbar harian kebangsaan Bahasa Malaysia dan Inggeris selama sekurang-kurangnya tiga hari berturut-turut.
+
+<!-- marginal: Kesan -->
+
+11. (1) Jika pembatalan sesuatu lesen di bawah
+
+<!-- marginal: pembatalan, -->
+
+seksyen 8 atau penyerahan baliknya di bawah seksyen
+
+<!-- marginal: penyerahan -->
+
+<!-- marginal: balik atau -->
+
+10 telah mula berkuatkuasa, atau jika lesen itu telah
+
+<!-- marginal: habisnya -->
+
+habis tempohnya, maka pengusahaan pelancongan
+
+<!-- marginal: tempoh lesen. -->
+
+berlesen itu hendaklah dengan serta-merta berhenti
 
 <!-- page 16 -->
 
@@ -486,11 +602,19 @@ Dengan syarat bahawa Menteri boleh, atas syor Pesuruhjaya, membenarkan secara be
 
 (3) Jika suatu lesen telah dibatalkan di bawah seksyen 8, mana-mana lesen tambahan baginya hendaklah disifatkan terbatal.
 
-(4) Walau apa pun subseksyen (1), suatu pengusahaan pelancongan berlesen yang lesennya telah habis tempohnya adalah berhak menjalankan perniagaannya seolah-olah lesen itu tidak habis tempoh apabila bukti dikemukakan kepada Pesuruhjaya bahawa pengusahaan pelancongan berlesen itu telah memohon bagi pembaharuan lesen.
+(4) Walau apa pun subseksyen (1),
 
-Pengembalian
+<!-- marginal: suatu -->
 
-12. (1) Jika pembatalan lesen di bawah seksyen 8 telah lesen. mula berkuatkuasa, atau jika lesen itu telah habis tempohnya dan tiada permohonan untuk pembaharuan lesen itu dikemukakan dalam tempoh yang dinyatakan, maka pengusahaan pelancongan berlesen itu hendaklah dalam masa empat belas hari mengembalikan lesen tersebut, termasuk apa-apa lesen tambahan, kepada Pesuruhjaya.
+pengusahaan pelancongan berlesen yang lesennya telah habis tempohnya adalah berhak menjalankan perniagaannya seolah-olah lesen itu tidak habis tempoh apabila bukti dikemukakan kepada Pesuruhjaya bahawa pengusahaan pelancongan berlesen itu telah memohon bagi pembaharuan lesen.
+
+<!-- marginal: Pengembalian -->
+
+12. (1) Jika pembatalan lesen di bawah seksyen 8 telah
+
+<!-- marginal: lesen. -->
+
+mula berkuatkuasa, atau jika lesen itu telah habis tempohnya dan tiada permohonan untuk pembaharuan lesen itu dikemukakan dalam tempoh yang dinyatakan, maka pengusahaan pelancongan berlesen itu hendaklah dalam masa empat belas hari mengembalikan lesen tersebut, termasuk apa-apa lesen tambahan, kepada Pesuruhjaya.
 
 (2) Mana-mana orang yang melanggar subseksyen
 
@@ -606,9 +730,37 @@ digunakan bagi apa-apa pelancongan.
 
 (1) atau (2) adalah melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya, dan dalam hal suatu kesalahan yang berterusan, boleh, sebagai tambahan, didenda tidak melebihi dua ribu ringgit bagi setiap hari kesalahan itu terus dilakukan.
 
-Pelancongan
+<!-- marginal: Pelancongan -->
 
-16. (1) Pesuruhjaya hendaklah mempunyai hak untuk dalam menentukan dan mengenakan dari semasa ke semasa negeri dan pelancongan kadar pelancongan dalam negeri dan pelancongan ke ke luar negeri luar negeri yang boleh diusahakan oleh seorang serta aktiviti- pengendali pelancongan berlesen dan boleh, dengan aktviti perniagaan kelulusan Menteri, memberi kepada semua pengendali lain. pelancongan ke luar negeri suatu tempoh lanjutan sebagaimana yang dinyatakan oleh Pesuruhjaya dari
+16. (1) Pesuruhjaya hendaklah mempunyai hak untuk
+
+<!-- marginal: dalam -->
+
+menentukan dan mengenakan dari semasa ke semasa
+
+<!-- marginal: negeri dan -->
+
+<!-- marginal: pelancongan -->
+
+kadar pelancongan dalam negeri dan pelancongan ke
+
+<!-- marginal: ke luar negeri -->
+
+luar negeri yang boleh diusahakan oleh seorang
+
+<!-- marginal: serta aktiviti- -->
+
+pengendali pelancongan berlesen dan boleh, dengan
+
+<!-- marginal: aktviti -->
+
+<!-- marginal: perniagaan -->
+
+kelulusan Menteri, memberi kepada semua pengendali
+
+<!-- marginal: lain. -->
+
+pelancongan ke luar negeri suatu tempoh lanjutan sebagaimana yang dinyatakan oleh Pesuruhjaya dari
 
 <!-- page 19 -->
 
@@ -682,11 +834,27 @@ dilesenkan di bawah Akta ini atau yang lesennya telah digantung atau dibatalkan.
 
 <!-- page 20 -->
 
-(2) Mana-mana orang yang melanggar subseksyen (1) adalah melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.
+(2) Mana-mana orang yang melanggar subseksyen
 
-Penggunaan 20. (1) Tiada pengusahaan pelancongan berlesen kenderaan- boleh menggunakan atau membenarkan penggunaan kenderaan persiaran. apa-apa kenderaan untuk mengangkut pelancong- pelancong apabila melancong kecuali kenderaan- kenderaan persiaran yang telah dilesenkan dengan sempurna oleh pihak-pihak berkuasa yang sewajarnya bagi maksud-maksud sedemikian.
+(1) adalah melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.
 
-(2) Mana-mana orang yang melanggar subseksyen (1) adalah melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.
+<!-- marginal: Penggunaan -->
+
+20. (1) Tiada pengusahaan pelancongan berlesen
+
+<!-- marginal: kenderaan- -->
+
+boleh menggunakan atau membenarkan penggunaan
+
+<!-- marginal: kenderaan -->
+
+<!-- marginal: persiaran. -->
+
+apa-apa kenderaan untuk mengangkut pelancong- pelancong apabila melancong kecuali kenderaan- kenderaan persiaran yang telah dilesenkan dengan sempurna oleh pihak-pihak berkuasa yang sewajarnya bagi maksud-maksud sedemikian.
+
+(2) Mana-mana orang yang melanggar subseksyen
+
+(1) adalah melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.
 
 ## BAHAGIAN
 
@@ -694,9 +862,39 @@ IV
 
 ## PELESENAN PEMANDU-PEMANDU PELANCONG
 
-Orang-orang 21. (1) Tiada seorang pun boleh bertindak, atau yang menganjurkan dirinya, sebagai seorang pemandu memberi perkhidmaiai pelancong melainkan jika dia dilesenkan di bawah sebagai Bahagian ini. pemandu pelancong hendaklah (2) Mana-mana orang yang melanggar subseksyen dilesenkan, (1) adalah melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi tujuh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya, dan dalam hal suatu kesalahan berterusan, boleh, sebagai tambahan, didenda tidak melebihi lima ratus ringgit bagi setiap hari kesalahan itu terus dilakukan.
+<!-- marginal: Orang-orang -->
 
-Daftar. 22. Pesuruhjaya hendaklah menyebabkan suatu daftar pemandu pelancong berlesen disimpan
+21. (1) Tiada seorang pun boleh bertindak, atau
+
+<!-- marginal: yang -->
+
+menganjurkan dirinya, sebagai seorang pemandu
+
+<!-- marginal: memberi -->
+
+<!-- marginal: perkhidmaiai -->
+
+pelancong melainkan jika dia dilesenkan di bawah
+
+<!-- marginal: sebagai -->
+
+Bahagian ini.
+
+<!-- marginal: pemandu -->
+
+<!-- marginal: pelancong -->
+
+<!-- marginal: hendaklah -->
+
+(2) Mana-mana orang yang melanggar subseksyen
+
+<!-- marginal: dilesenkan, -->
+
+(1) adalah melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi tujuh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya, dan dalam hal suatu kesalahan berterusan, boleh, sebagai tambahan, didenda tidak melebihi lima ratus ringgit bagi setiap hari kesalahan itu terus dilakukan.
+
+<!-- marginal: Daftar. -->
+
+22. Pesuruhjaya hendaklah menyebabkan suatu daftar pemandu pelancong berlesen disimpan
 
 <!-- marginal: dan -->
 
@@ -748,9 +946,25 @@ bawah subseksyen 23(1), Pesuruhjaya hendaklah menimbangkan permohonan itu dan bo
 
 (4) Jika Pesuruhjaya enggan memberikan lesen, dia hendaklah dengan serta-merta memberitahu pemohon secara bertulis mengenai keengganannya itu.
 
-Keesahan 25. Suatu lesen yang diberikan oleh Pesuruhjaya di lesen. bawah Bahagian ini hendaklah, melainkan jika dibatalkan terdahulu, sah selama tempoh dua belas bulan dari tarikh lesen itu diberikan.
+<!-- marginal: Keesahan -->
 
-Kad 26. (1) Suatu kad pemberian kuasa yang dikeluarkan pemberian kepada seorang pemandu pelancong berlesen di bawah kuasa. subseksyen 24(2)—
+25. Suatu lesen yang diberikan oleh Pesuruhjaya di
+
+<!-- marginal: lesen. -->
+
+bawah Bahagian ini hendaklah, melainkan jika dibatalkan terdahulu, sah selama tempoh dua belas bulan dari tarikh lesen itu diberikan.
+
+<!-- marginal: Kad -->
+
+26. (1) Suatu kad pemberian kuasa yang dikeluarkan
+
+<!-- marginal: pemberian -->
+
+kepada seorang pemandu pelancong berlesen di bawah
+
+<!-- marginal: kuasa. -->
+
+subseksyen 24(2)—
 
 (a) hendaklah dipakai dengan terang bilamasa pemandu pelancong berlesen itu sedang bertugas, menjalankan pelancongan atau apabila dia menghadiri apa-apa kursus sebagaimana yang dikehendaki di bawah seksyen 27;
 
@@ -758,7 +972,33 @@ Kad 26. (1) Suatu kad pemberian kuasa yang dikeluarkan pemberian kepada seorang 
 
 (2) Mana-mana orang yang melanggar subseksyen (1) adalah meiakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya.
 
-Kewajipan 27. (1) Seorang pemandu pelancong berlesen kewajipan hendaklah menghadiri kursus-kursus latihan lanjutan yang dan lulus ujian-ujian kecekapan lanjutan untuk pemandu dikenakan ke atas pelancong sebagaimana yang dikehendaki oleh pemandu Pesuruhjaya. pelancong berlesen. (2) Suatu bentuk pakaian yang standard sebagaimana yang ditetapkan hendaklah dipakai oleh tiap-tiap pemandu pelancong berlesen apabila sedang bertugas atau inenjalankan pelancongan.
+<!-- marginal: Kewajipan -->
+
+27. (1) Seorang pemandu pelancong berlesen
+
+<!-- marginal: kewajipan -->
+
+hendaklah menghadiri kursus-kursus latihan lanjutan
+
+<!-- marginal: yang -->
+
+dan lulus ujian-ujian kecekapan lanjutan untuk pemandu
+
+<!-- marginal: dikenakan -->
+
+<!-- marginal: ke atas -->
+
+pelancong sebagaimana yang dikehendaki oleh
+
+<!-- marginal: pemandu -->
+
+Pesuruhjaya.
+
+<!-- marginal: pelancong -->
+
+<!-- marginal: berlesen. -->
+
+(2) Suatu bentuk pakaian yang standard sebagaimana yang ditetapkan hendaklah dipakai oleh tiap-tiap pemandu pelancong berlesen apabila sedang bertugas atau inenjalankan pelancongan.
 
 (3) Seorang pemandu pelancong berlesen hendaklah mematuhi suatu tata etika yang standard sebagaimana yang ditetapkan.
 
@@ -814,15 +1054,27 @@ maka Pesuruhjaya boleh menggantungkan lesen yang diberikan di bawah seksyen 24 d
 
 yang ditentukan atau membatalkan lesen itu dan memotong nama pemandu pelancong berlesen itu daripada daftar atau, jika lesen itu telah habis tempohnya, enggan memperbaharui lesen itu:
 
-Dengan syarat bahawa Pesuruhjaya tidaklah boleh menggantung, membatal atau enggan memperbaharui lesen pemandu pelancong berlesen itu dalam mana-mana hal keadaan yang tersebut dalam perenggan (a) hingga
-
-(g) tanpa terlebih dahulu memberi pemandu pelancong berkenaan suatu peluang untuk didengar.
+Dengan syarat bahawa Pesuruhjaya tidaklah boleh menggantung, membatal atau enggan memperbaharui lesen pemandu pelancong berlesen itu dalam mana-mana hal keadaan yang tersebut dalam perenggan (a) hingga (g) tanpa terlebih dahulu memberi pemandu pelancong berkenaan suatu peluang untuk didengar.
 
 (2) Jika Pesuruhjaya menggantung, membatal atau enggan memperbaharui lesen, dia hendaklah dengan serta-merta memberitahu pemandu pelancong berkenaan secara bertulis mengenai keputusannya.
 
-Kesan peng
+<!-- marginal: Kesan peng -->
 
-29. (1) Mana-mana pemandu pelancong berlesen yang gantungan lesennya telah digantungkan menurut seksyen 28 atau pembatalan tidaklah boleh dalam tempoh penggantungan itu lesen. bertindak sebagai seorang pemandu pelancong.
+29. (1) Mana-mana pemandu pelancong berlesen yang
+
+<!-- marginal: gantungan -->
+
+lesennya telah digantungkan menurut seksyen 28
+
+<!-- marginal: atau -->
+
+<!-- marginal: pembatalan -->
+
+tidaklah boleh dalam tempoh penggantungan itu
+
+<!-- marginal: lesen. -->
+
+bertindak sebagai seorang pemandu pelancong.
 
 (2) Mana-mana pemandu pelancong berlesen yang lesennya telah dibatalkan hendaklah dengan serta-merta berhenti bertindak sebagai seorang pemandu pelancong dalam apa-apa jua hal keadaan.
 
@@ -850,7 +1102,11 @@ boleh merayu secara bertulis kepada Menteri dalam masa empat belas hari dari tar
 
 (2) Keputusan Menteri adalah muktamad dan konklusif.
 
-(3) Jika Menteri mengesahkan keputusan Pesuruhjaya, pemandu peJancong berlesen itu hendaklah, dalam masa tujuh hari dari tarikh pengesahan itu, mengembalikan lesen dan kad pemberian kuasa itu kepada Pesuruhjaya.
+(3) Jika Menteri mengesahkan keputusan Pesuruhjaya, pemandu peJancong berlesen
+
+<!-- marginal: itu -->
+
+hendaklah, dalam masa tujuh hari dari tarikh pengesahan itu, mengembalikan lesen dan kad pemberian kuasa itu kepada Pesuruhjaya.
 
 (4) Mana-mana orang yang melanggar subseksyen
 
@@ -880,7 +1136,13 @@ bersama dengan suatu notis bertulis mengenai penyerahan balik itu dan penyerahan
 
 AM
 
-Pembaharuan 32. (1) Tiap-tiap pengusahaan pelancongan berlesen lesen. atau pemandu pelancong berlesen hendaklah mengemukakan permohonan kepada Pesuruhjaya dalam apa-apa bentuk sebagaimana yang ditentukan untuk pembaharuan lesennya sekurang-kurangnya tiga puluh, tetapi tidak lebih daripada enam puluh, hari sebelum tarikh habisnya tempoh lesen dan permohonan sedemikian hendaklah disertakan dengan apa-apa dokumen dan maklumat sebagaimana yang dikehendaki oleh Pesuruhjaya.
+<!-- marginal: Pembaharuan -->
+
+32. (1) Tiap-tiap pengusahaan pelancongan berlesen
+
+<!-- marginal: lesen. -->
+
+atau pemandu pelancong berlesen hendaklah mengemukakan permohonan kepada Pesuruhjaya dalam apa-apa bentuk sebagaimana yang ditentukan untuk pembaharuan lesennya sekurang-kurangnya tiga puluh, tetapi tidak lebih daripada enam puluh, hari sebelum tarikh habisnya tempoh lesen dan permohonan sedemikian hendaklah disertakan dengan apa-apa dokumen dan maklumat sebagaimana yang dikehendaki oleh Pesuruhjaya.
 
 (2) Fee yang ditetapkan hendaklah dibayar apabila perraohonan itu diluluskan,
 
@@ -896,9 +1158,13 @@ pengusahaan pelancongan berlesen atau pemandu pelancong berlesen itu hendaklah m
 
 Pesuruhjaya boleh enggan memperbaharui sesuatu lesen jika kehendak-kehendak subseksyen (1) tidak dipatuhi.
 
-Lesen-lesen
+<!-- marginal: Lesen-lesen -->
 
-33. (1) Jika suatu pengusahaan pelancongan berlesen yang hilang. telah hilang lesennya, ia hendaklah dengan serta-merta memberitahu Pesuruhjaya secara bertulis mengenai kehilangan itu.
+33. (1) Jika suatu pengusahaan pelancongan berlesen
+
+<!-- marginal: yang hilang. -->
+
+telah hilang lesennya, ia hendaklah dengan serta-merta memberitahu Pesuruhjaya secara bertulis mengenai kehilangan itu.
 
 (2) Jika seorang pemandu pelancong berlesen telah hilang lesen atau kad pemberian kuasanya, dia hendaklah dengan serta-merta memberitahu Pesuruhjaya secara bertulis mengenai kehilangan itu.
 
@@ -948,17 +1214,29 @@ maksud-maksud Akta ini.
 
 (j) apa-apa perkara lain yang dikehendaki oleh Akta ini untuk ditetapkan.
 
-Kewajipan
+<!-- marginal: Kewajipan -->
 
-35. (1) Kecuali bagi maksud-maksud Akta ini, tiada kerahsiaan. seorang pun yang mempunyai akses kepada apa-apa rekod, buku, daftar, surat, maklumat, dokumen atau apa- apa pun bahan lain yang didapatkan menurut peruntukan-peruntukan Akta ini boleh menzahirkan rekod, buku, daftar, surat, maklumat, dokumen atau bahan lain itu kepada mana-mana orang lain.
+35. (1) Kecuali bagi maksud-maksud Akta ini, tiada
+
+<!-- marginal: kerahsiaan. -->
+
+seorang pun yang mempunyai akses kepada apa-apa rekod, buku, daftar, surat, maklumat, dokumen atau apa- apa pun bahan lain yang didapatkan menurut peruntukan-peruntukan Akta ini boleh menzahirkan rekod, buku, daftar, surat, maklumat, dokumen atau bahan lain itu kepada mana-mana orang lain.
 
 (2) Mana-mana orang yang melanggar subseksyen
 
 (1) adalah melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi sepuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.
 
-Perisytiharan
+<!-- marginal: Perisytiharan -->
 
-36. Mana-mana orang yang membuat, secara lisan atau tak tepat, bertulis, menandatangani atau memberi apa-apa dsb. perisytiharan, penyata, perakuan atau dokumen atau maklumat lain yang dikehendaki oleh Akta ini yang tak betul, tak tepat atau mengelirukan dalam apa-apa butir adalah melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.
+36. Mana-mana orang yang membuat, secara lisan atau
+
+<!-- marginal: tak tepat, -->
+
+bertulis, menandatangani atau memberi apa-apa
+
+<!-- marginal: dsb. -->
+
+perisytiharan, penyata, perakuan atau dokumen atau maklumat lain yang dikehendaki oleh Akta ini yang tak betul, tak tepat atau mengelirukan dalam apa-apa butir adalah melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.
 
 <!-- page 29 -->
 
@@ -988,19 +1266,37 @@ peninggalan untuk melakukan perkara sedemikian.
 
 <!-- page 30 -->
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-39. (1) Pesuruhjaya boleh mengkompaun apa-apa mengkompaun kesalahan di bawah Akta ini yang ditetapkan sebagai kesalahan- kesalahan. suatu kesalahan boleh kompaun dengan menghendaki seseorang yang dengan munasabahnya disyaki melakukan kesalahan itu membayar sejumlah wang tidak melebihi lima puluh peratus daripada amaun denda maksimum yang boleh dikenakan ke atas orang itu jika dia telah disabitkan atas kesalahan itu.
+39. (1) Pesuruhjaya boleh mengkompaun apa-apa
+
+<!-- marginal: mengkompaun -->
+
+kesalahan di bawah Akta ini yang ditetapkan sebagai
+
+<!-- marginal: kesalahan- -->
+
+<!-- marginal: kesalahan. -->
+
+suatu kesalahan boleh kompaun dengan menghendaki seseorang yang dengan munasabahnya disyaki melakukan kesalahan itu membayar sejumlah wang tidak melebihi lima puluh peratus daripada amaun denda maksimum yang boleh dikenakan ke atas orang itu jika dia telah disabitkan atas kesalahan itu.
 
 (2) Sesuatu tawaran di bawah subseksyen (1) boleh dibuat pada bila-bila masa selepas kesalahan itu dilakukan tetapi sebelum apa-apa pendakwaan baginya dimulakan, dan jika amaun yang dinyatakan dalam tawaran itu tidak dibayar dalam masa yang dinyatakan, atau dalam apa-apa tempoh masa yang lebih lanjut yang diberikan oleh Pesuruhjaya, pendakwaan bagi kesalahan itu boleh dimulakan pada bila-bila masa selepas itu terhadap orang yang kepadanya tawaran itu dibuat.
 
 (3) Jika sesuatu kesalahan telah dikompaun di bawah subseksyen (1), tiada pendakwaan boleh selepas itu dimulakan berkenaan dengan kesalahan itu terhadap orang yang kepadanya tawaran untuk mengkompaun kesalahan itu dibuat,
 
-Pegawai
+<!-- marginal: Pegawai -->
 
-40. (1) Menteri boleh memberikuasa secara bertulis diberikuasa. mana-mana pegawai awam atau pegawai Lembaga Penggalakan Pelancongan Malaysia untuk menjalankan kuasa-kuasa penguatkuasaan di bawah Akta ini.
+40. (1) Menteri boleh memberikuasa secara bertulis
 
-(2) Mana-mana pegawai sedemikian hendaklah disifatkan sebagai seorang pengkhidmat awam mengikut NM.B. pengertian Kanun Keseksaan.
+<!-- marginal: diberikuasa. -->
+
+mana-mana pegawai awam atau pegawai Lembaga Penggalakan Pelancongan Malaysia untuk menjalankan kuasa-kuasa penguatkuasaan di bawah Akta ini.
+
+(2) Mana-mana pegawai sedemikian hendaklah disifatkan sebagai seorang pengkhidmat awam mengikut
+
+<!-- marginal: NM.B. -->
+
+pengertian Kanun Keseksaan.
 
 ## Bab 45.
 
@@ -1050,7 +1346,17 @@ Dengan syarat bahawa orang itu boleh enggan menjawab apa-apa soalan yang jawapan
 
 membuat pernyataan itu dan selepas dia telah diberi peluang untuk membuat apa-apa pembetulan yang diingininya.
 
-Keboleh- 43. Walau apa pun peruntukan-peruntukan mana-mana terimaan undang-undang bertulis yang berlawanan, jika seseorang pemyataan. dipertuduh dengan suatu kesalahan di bawah Akta ini, apa-apa pernyataan, sama ada pernyataan itu menjadi suatu pengakuan salah atau tidak atau sama ada ia berbentuk lisan atau bertulis, yang dibuat pada bila-bila masa, sama ada sebelum atau selepas orang itu dipertuduh dan sama ada dalam perjalanan penyiasatan di bawah Akta ini atau tidak dan sama ada atau tidak pada keseluruhannya atau sebahagiannya sebagai jawapan kepada soalan-soalan, oleh orang itu kepada atau dalam pendengaran pegawai diberikuasa dan sama ada atau tidak diterjemahkan kepadanya oleh seorang pegawai diberikuasa atau mana-mana orang lain yang berkenaan atau tidak dalam kes itu, hendaklah menjadi boleh terima di perbicaraannya sebagai keterangan dan, jika orang itu mengemukakan dirinya sebagai saksi, apa- apa pernyataan sedemikian boleh digunakan dalam pemeriksaan balas dan bagi maksud mencabar kebolehpercayaannya:
+<!-- marginal: Keboleh- -->
+
+43. Walau apa pun peruntukan-peruntukan mana-mana
+
+<!-- marginal: terimaan -->
+
+undang-undang bertulis yang berlawanan, jika seseorang
+
+<!-- marginal: pemyataan. -->
+
+dipertuduh dengan suatu kesalahan di bawah Akta ini, apa-apa pernyataan, sama ada pernyataan itu menjadi suatu pengakuan salah atau tidak atau sama ada ia berbentuk lisan atau bertulis, yang dibuat pada bila-bila masa, sama ada sebelum atau selepas orang itu dipertuduh dan sama ada dalam perjalanan penyiasatan di bawah Akta ini atau tidak dan sama ada atau tidak pada keseluruhannya atau sebahagiannya sebagai jawapan kepada soalan-soalan, oleh orang itu kepada atau dalam pendengaran pegawai diberikuasa dan sama ada atau tidak diterjemahkan kepadanya oleh seorang pegawai diberikuasa atau mana-mana orang lain yang berkenaan atau tidak dalam kes itu, hendaklah menjadi boleh terima di perbicaraannya sebagai keterangan dan, jika orang itu mengemukakan dirinya sebagai saksi, apa- apa pernyataan sedemikian boleh digunakan dalam pemeriksaan balas dan bagi maksud mencabar kebolehpercayaannya:
 
 Dengan syarat bahawa:
 
@@ -1102,9 +1408,17 @@ sumpah dan selepas apa-apa siasatan yang difikirkannya perlu bahawa terdapat seb
 
 (e) jika premis atau tempat itu digunakan bagi penjalanan atau pengendalian suatu pengusa- haan pelancongan tanpa lesen, melakkan premis atau tempat itu.
 
-Penggele-
+<!-- marginal: Penggele- -->
 
-45. Bilamasa ternyata kepada mana-mana pegawai dahan tanpa diberikuasa bahawa terdapat sebab yang munasabah bagi waran. mempercayai apa-apa buku, akaun atau dokumen lain yang disyaki mengandungi maklumat tentang perlakuan sesuatu kesalahan di bawah Akta ini atau apa-apa benda lain yang berhubungan dengan kesalahan
+45. Bilamasa ternyata kepada mana-mana pegawai
+
+<!-- marginal: dahan tanpa -->
+
+diberikuasa bahawa terdapat sebab yang munasabah bagi
+
+<!-- marginal: waran. -->
+
+mempercayai apa-apa buku, akaun atau dokumen lain yang disyaki mengandungi maklumat tentang perlakuan sesuatu kesalahan di bawah Akta ini atau apa-apa benda lain yang berhubungan dengan kesalahan
 
 <!-- marginal: itu -->
 
@@ -1164,9 +1478,13 @@ pengusahaan pelancongan berlesen atau pemandu pelancong berlesen dan untuk menel
 
 adalah melakukan suatu kesalahan.
 
-Penjalanan
+<!-- marginal: Penjalanan -->
 
-49. Tiap-tiap pegawai diberikuasa hendaklah pendakwaan. mempunyai kuasa untuk menghadiri mahkamah dan menjalankan apa-apa pendakwaan berkenaan dengan apa-apa kesalahan terhadap Akta ini.
+49. Tiap-tiap pegawai diberikuasa hendaklah
+
+<!-- marginal: pendakwaan. -->
+
+mempunyai kuasa untuk menghadiri mahkamah dan menjalankan apa-apa pendakwaan berkenaan dengan apa-apa kesalahan terhadap Akta ini.
 
 ## HURAIAN
 
@@ -1180,7 +1498,11 @@ Fasal / mengandungi tajuk ringkas dan memperuntukkan bahawa Akta dicadangkan ini
 
 3. Bahagian II Rang Undang-Undang ini memperkatakan pelesenan pengusahaan-pengusahaan pelancongan.
 
-Fasal 5 bertujuan melarang mana-mana orang menjalankan atau mengendalikan suatu perniagaan pengendalian pelancongan, perniagaan agensi pengembaraan, premis penginapan pelancong, restoran pelancong dan institusi latihan pelancongan melainkan jika orang itu dilesenkan di bawah Akta yang dicadangkan. Fasal 6 memperkatakan permohonan-permohonan untuk lesen bagi menjalankan pengusahaan-pengusahaan pelancongan sementara fasal 7 memberi kuasa kepada Pesuruhjaya untuk memberikan atau enggan memberikan lesen. Fasal 8 bertujuan memberikuasa Pesuruhjaya membatalkan apa-apa lesen berdasarkan kepada alasan-alasan yang dinyatakan dalam subfasal (1). Pasal 9 membolehkan pengusahaan pelancongan berlesen yang lesennya telah dibatalkan merayu kepada Menteri. Fasal 10 mengadakan peruntukan mengenai penyerahan balik lesen. Fasal 11 menyatakan kesan pembatalan. penyerahan balik atau habis tempoh sesuatu lesen sementara fasal 12 bertujuan menghendaki mana-mana pengusahaan pelancongan berlesen mengembalikan lesennya apabila lesen itu dibatalkan alau telah habis tempohnya. Fasal 13 bertujuan menyekat penggunaan perkataan-perkataan tertentu yang berkenaan dengan pengusahaan pelancongan.
+Fasal 5 bertujuan melarang mana-mana orang menjalankan atau mengendalikan suatu perniagaan pengendalian pelancongan, perniagaan agensi pengembaraan, premis penginapan pelancong, restoran pelancong dan institusi latihan pelancongan melainkan jika orang itu dilesenkan di bawah Akta yang dicadangkan. Fasal 6 memperkatakan permohonan-permohonan untuk
+
+<!-- marginal: lesen bagi -->
+
+menjalankan pengusahaan-pengusahaan pelancongan sementara fasal 7 memberi kuasa kepada Pesuruhjaya untuk memberikan atau enggan memberikan lesen. Fasal 8 bertujuan memberikuasa Pesuruhjaya membatalkan apa-apa lesen berdasarkan kepada alasan-alasan yang dinyatakan dalam subfasal (1). Pasal 9 membolehkan pengusahaan pelancongan berlesen yang lesennya telah dibatalkan merayu kepada Menteri. Fasal 10 mengadakan peruntukan mengenai penyerahan balik lesen. Fasal 11 menyatakan kesan pembatalan. penyerahan balik atau habis tempoh sesuatu lesen sementara fasal 12 bertujuan menghendaki mana-mana pengusahaan pelancongan berlesen mengembalikan lesennya apabila lesen itu dibatalkan alau telah habis tempohnya. Fasal 13 bertujuan menyekat penggunaan perkataan-perkataan tertentu yang berkenaan dengan pengusahaan pelancongan.
 
 4. Bahagian III Rang Undang-Undang ini memperkatakan kehendak dan kewajipan yang dikenakan ke atas pengusahaan- pengusahaan pelancongan berlesen.
 

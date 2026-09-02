@@ -1,0 +1,236 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-34-1991",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@/~cl_10"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Syarikat Luar Pesisir (Pindaan) 1991"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Syarikat Luar"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pesisir (Pindaan) 1991."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "selepas sahaja seksyen 149, seksyen baru 150, 151 dan 152 yang berikut: \"Kuasa 150. Menteri boleh, atas syor Pendaftar, atas mengecuali- permohonan secara bertulis, mengecualikan kan. mana-mana syarikat luar pesisir atau syarikat SYARIKAT LUAR PESISIR luar pesisir asing atau kelas syarikat luar pesisir atau syarikat luar pesisir asing daripada mematuhi mana-mana peruntukan Akta ini dan boleh, pada memberikan pengecualian itu, mengenakan apa-apa terma dan syarat yang difikirkan patut oleh Menteri. 151. (1) Sesuatu syarikat luar pesisir atau syarikat luar pesisir asing yang menjalankan aktiviti perniagaan luar pesisir yang merupakan suatu perdagangan luar pesisir seperti yang ditakrifkan di dalam Akta Cukai Aktiviti Perniagaan Luar Pesisir 1990 boleh, sebagai tambahan kepada apa-apa fee lain yang dibayar di bawah Akta ini, membayar suatu fee sejumlah dua puluh ribu ringgit kepada Pendaftar. (2) Fee sedemikian hendaklah dibayar tidak lewat dari 31 haribulan Mac suatu tahun kalendar. 152. (1) Yang di-Pertuan Agong boleh, melalui perintah yang disiarkan dalam Warta, memperuntukkan bahawa mana-mana undang- undang bertulis, atau sebahagian daripadanya, yang ditentukan di dalam perintah itu, tidak terpakai berhubungan dengan suatu syarikat luar pesisir, syarikat luar pesisir asing, syarikat amanah, atau seseorang yang memegang suatu lesen yang sah yang diberi sama ada di bawah seksyen 6 (2) Akta Bank Luar Pesisir 1990 atau seksyen 9(1) Akta Insurans Luar Pesisir 1990, atau akan terpakai baginya dengan apa-apa ubahsuaian yang dinyatakan dalam perintah itu. (2) Ubahsuaian yang dibuat kepada sesuatu undang-undang bertulis oleh perintah yang dibuat di bawah subseksyen (1) hendaklah disifatkan sebagai sebahagian integral undang- undang bertulis sedemikian bagi maksud- maksud perintah tersebut. RANG UNDANG-UNDANG (3) Sesuatu perintah di bawah subseksyen (1) boleh dibuat dengan kuatkuasa kebelakangan dari tarikh sebagaimana yang ditentukan dalam perintah itu. (4) Dalam ini \"ubahsuaian\" termasuklah pindaan, penyesuaian, perubahan, variasi, penambahan, pemotongan, penggantian atau ketakmasukan.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Syarikat Luar Pesisir 1990, yang disebut \"Akta"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ibu\" dalam Akta ini, adalah dipinda dengan menggantikan seksyen 6 dengan yang berikut: \"Larangan 6. Tiada seorang pun pemastautin, selain ke atas daripada— pemegangan saham di dalam (a) suatu syarikat domestik atau asing syarikat yang diberi lesen atau didaftarkan di luar pesisir. bawah— Akta 89. (i) Akta Insurans 1963; (ii) Akta Bank Islam 1983; Akta 276. Akta 312. (iii) Akta Takaful 1984; atau Akta 372. (iv) Akta Bank dan Institusi-Institusi Kewangan 1989; atau (b) suatu syarikat amanah, boleh memegang syer-syer, sama ada secara individu atau dengan seseorang lain, dalam suatu syarikat luar pesisir, tetapi sesuatu syarikat amanah yang merupakan syarikat domestik hanya boleh memegang syer-syer itu sebagai pemegang amanah atau penama.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 29 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan perkataan-perkataan \"dan mana-mana orang\" di dalam subseksyen (2) dengan perkataan- perkataan \"kecuali oleh suatu syarikat luar pesisir atau syarikat luar pesisir asing yang diberi lesen di bawah Akta Bank Luar pesisir 1990 dan mana-mana orang, selain daripada suatu syarikat luar pesisir atau syarikat luar pesisir asing yang diberi lesen sedemikian di bawah Akta itu,\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 31 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan subseksyen (6) dengan yang berikut: \"(6) Dalam seksyen ini, \"syarikat ditetapkan\" ertinya— (a) suatu syarikat luar pesisir atau syarikat luar pesisir asing yang diberi lesen di bawah Akta Bank Luar Pesisir 1990; atau (b) suatu syarikat luar pesisir atau syarikat luar pesisir asing atau syarikat amanah yang telah diisytiharkan oleh Menteri melalui notis yang disiarkan dalam Warta sebagai suatu syarikat ditetapkan bagi maksud-maksud seksyen ini.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 87 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan noktah yang terdapat pada akhir subseksyen (2) dengan noktah bertindih dan memasukkari selepas itu proviso baru yang berikut: \"Dengan syarat bahawa seorang pegawai suatu syarikat domestik atau asing yang diberi lesen atau didaftarkan di bawah Akta Insurans 1963, Akta Bank SYAR1KAT LUAR PESISIR Islam 1983, Akta Takaful 1984 atau Akta Bank dan Institusi-Institusi Kewangan 1989 yang disediakan bagi perlantikan itu oleh syarikat domestik atau asing tersebut, mengikut mana-mana yang berkenaan, boleh bertindak atau dilantik sebagai pengarah pemastautin suatu syarikat iuar pesisir dalam mana syarikat domestik atau asing terscbut memegang syer-syer.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@/~cl_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksycn 109 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"Penyata\" dalam subseksyen (4) dengan perkataan- perkataan \"Tertakluk kepada seksyen 113A, penyata\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan, selepas sahaja perkataan - perkataan \"dalam subseksyen (4)\" dalam subseksyen (5), perkataan-perkataan \"atau akaun-akaun tak teraudit, mengikut mana-mana yang berkenaan,\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 1 11 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memasukkan, seiepas sahaja perkataan-perkataan \"akaun-akaun teraudit\" dalam baris kedua dan kelima subseksyen (1) masing-masing, perkataan-perkataan \"atau akaun-akaun tak teraudit, mengikut mana-mana yang berkenaan,\" dan \"atau akaun-akaun tak teraudit\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@/~cl_8__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@/~cl_8__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 112 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan, selepas sahaja perkataan- perkataan \"akaun teraudit\", perkataan- perkataan \"atau akaun tak teraudit, mengikut mana-mana yang berkenaan,\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan, selepas sahaja perkataan- perkataan \"akaun-akaun itu\", perkataan- perkataan \"(jika terpakai)\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@/~cl_8__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan-perkataan \"empat belas\" dengan perkataan \"tujuh\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan, selepas"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sahaja seksyen 113, seksyen baru 113A yang berikut: \"Juruaudit 113A. Suatu syarikat luar pesisir tidak di- dikehendaki melantik seorang juruaudit kehendaki dalam selagi— keadaan- keadaan (a) ia bukan suatu syarikat yang dilesenkan tertentu. Akta 443. di bawah Akta Bank Luar Pesisir 1990 Akta 444. atau Akta Insurans Luar Pesisir 1990; (b) syarikat atau seorang pegawai, pengarah, ejen atau mana-mana orang bagi pihak syarikat tidak— (i) mengeluarkan suatu pelawaan atau membahagi-bahagikan borang permohonan kepada orang awam atau kepada mana-mana orang awam untuk memohon beli syer-syer atau debentur-debentur dalam syarikat itu; atau (ii) mengeluarkan suatu pelawaan kepada orang awam atau mana- mana orang awam mendepositkan wang dengan, atau memberi pinjaman wang kepada, syarikat itu; dan (c) anggota-anggota syarikat itu membuat ketetapan sedemikian pada mesyuarat anggota-anggota syarikat itu yang perlantikan sedemikian tidak perlu dibuat berkenaan dengan setiap tahun kewangan.\"."
+      }
+    }
+  ]
+}

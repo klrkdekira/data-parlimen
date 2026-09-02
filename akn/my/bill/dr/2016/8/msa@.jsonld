@@ -1596,7 +1596,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/8/msa@/~cl_64",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (1a)— Pindaan seksyen 425a"
+        "@value": "dalam subseksyen (1a)—"
       }
     },
     {
@@ -1616,7 +1616,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/8/msa@/~cl_64__para_b",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan perkataan “one year” dengan perkataan “five years”."
+        "@value": "dengan menggantikan perkataan “one year” dengan perkataan “five years”. Pindaan seksyen 425a"
       }
     },
     {
@@ -1883,7 +1883,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/8/msa@/~cl_74",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subperenggan (1)(a)(ii)— Pindaan seksyen 433"
+        "@value": "dalam subperenggan (1)(a)(ii)—"
       }
     },
     {
@@ -1903,7 +1903,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/8/msa@/~cl_74__para_c",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas perkataan “other public place” perkataan “as he thinks fit”."
+        "@value": "dengan memasukkan selepas perkataan “other public place” perkataan “as he thinks fit”. Pindaan seksyen 433"
       }
     },
     {

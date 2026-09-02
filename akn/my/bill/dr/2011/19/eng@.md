@@ -280,11 +280,7 @@ combination of both, of which its market value, delivery or payment obligations 
 
 (a) specify and describe the regulated activity to which the licence is granted;
 
-(b) specify any condition or restriction of the licence as
-
-<!-- marginal: the Commission -->
-
-thinks fit; or
+(b) specify any condition or restriction of the licence as the Commission thinks fit; or
 
 (c) in the case of a Capital Markets Services Representative’s Licence—
 
@@ -1114,7 +1110,9 @@ the Commission may take any one or more of the following actions:
 
 (c) in subsection (3), by deleting the words “(1) or”;
 
-(d) in subsection (4), by substituting for the words “Nothing contained in this Act, rules, terms of any contract” the words “Nothing in this Act, any rules, any terms of any contract”; and
+(d) in subsection (4), by substituting for the words “Nothing contained in this Act, rules, terms of any contract” the words “Nothing in this Act, any rules, any terms of any
+
+<!-- marginal: contract”; and -->
 
 <!-- page 43 -->
 
@@ -1438,7 +1436,9 @@ by a private retirement scheme administrator in carrying out its duties and resp
 
 (5) Where the regulated assets are transferred to such person under paragraph (2)(b), the private retirement scheme administrator shall be entitled to such compensation as may be determined by the Commission for the systems developed, operated or maintained by the private retirement scheme administrator.
 
-(6) Subsection (5) shall not apply where the withdrawal of approval is for the reason set out under subparagraphs 139d(h)(i), (ii), (iii), (iv), (v) or paragraph 139f(1)(e).
+(6) Subsection (5) shall not apply where the withdrawal of approval is for the reason set out under subparagraphs 139d(h)(i),
+
+(ii), (iii), (iv), (v) or paragraph 139f(1)(e).
 
 ### Duty to take reasonable security measures
 
@@ -1954,7 +1954,7 @@ the Commission may issue a direction in writing to any person to take such steps
 
 56. The principal Act is amended by inserting after Part IX the following Part:
 
-“Part IXa
+## “PART IXA
 
 ## MANAGEMENT OF SYSTEMIC RISK IN THE CAPITAL MARKET
 
@@ -2210,7 +2210,7 @@ made, given, or done shall be deemed to have been made, given, or done in respec
 
 <!-- page 84 -->
 
-## schedule
+## SCHEDULE
 
 [Section 2]
 
@@ -2226,11 +2226,7 @@ made, given, or done shall be deemed to have been made, given, or done in respec
 
 2. The words “trade in futures Section 117 (in the definition of contracts” wherever they appear “client”) and section 123; in the provisions specified in column (2) of this item is substituted with the words “deal in derivatives”;
 
-3. The words “futures contracts” Section 1, section 2 (in the definitions wherever they appear in the of “clearing facilities”, “instrument”, provisions specified in column (2) “prescribed”, “specify” and “unit of this item is substituted with trust scheme”), section 5, section 6, the word “derivatives”; section 7, section 8, section 9, section 11, section 12, section 18, section 21, section 28, section 33, section 38, section 39, section 52, section 92, section 106, subsubheading of Subdivision 3 of Division 4 of
-
-## Part III, section 119, section 120,
-
-section 174, subheading of Division 2 of Part V, section 202, section 204, section 205, section 348, section 352, section 353, section 355 and section 360;
+3. The words “futures contracts” Section 1, section 2 (in the definitions wherever they appear in the of “clearing facilities”, “instrument”, provisions specified in column (2) “prescribed”, “specify” and “unit of this item is substituted with trust scheme”), section 5, section 6, the word “derivatives”; section 7, section 8, section 9, section 11, section 12, section 18, section 21, section 28, section 33, section 38, section 39, section 52, section 92, section 106, subsubheading of Subdivision 3 of Division 4 of Part III, section 119, section 120, section 174, subheading of Division 2 of Part V, section 202, section 204, section 205, section 348, section 352, section 353, section 355 and section 360;
 
 4. The words “futures contract” Section 2 (in the definitions of wherever they appear in the “close out”, “Islamic capital provisions specified in column market business or transaction”
 
@@ -2246,11 +2242,7 @@ section 174, subheading of Division 2 of Part V, section 202, section 204, secti
 
 ### Provisions amended
 
-5. The word “futures” wherever Section 2 (in the definitions of it appear in the provisions “affiliate”, “clearing facilities”, specified in column (2) of this “exchange holding company”, item is substituted with the word “Islamic capital market business or “derivatives”; transaction”, “participant”, “public interest directors”, “rules” and “Specified Exchange”), heading of
-
-## Part II, section 7, section 8, section 9,
-
-section 10, section 11, section 12, section 13, section 15, section 16, section 17, section 18, section 21, section 23, section 24, section 27, section 28, section 29, section 30, section 31, section 33, section 37, section 38, section 41 (in the definition of “exchange”), section 67, section 72, section 98, section 106, section 118, section 126, section 128, section 137, section 159, section 160, section 161, section 162, section 163, section 164, section 165, section 166, section 167, section 168, section 169, section 170, section 171, section 172, section 173, section 202, section 203, section 205, section 316e, section 316g, section 323, section 328, section 334, section 348, section 352, section 355, section 360, section 361, section 362, section 363, section 368, section 369, section 371, section 376 and section 379.
+5. The word “futures” wherever Section 2 (in the definitions of it appear in the provisions “affiliate”, “clearing facilities”, specified in column (2) of this “exchange holding company”, item is substituted with the word “Islamic capital market business or “derivatives”; transaction”, “participant”, “public interest directors”, “rules” and “Specified Exchange”), heading of Part II, section 7, section 8, section 9, section 10, section 11, section 12, section 13, section 15, section 16, section 17, section 18, section 21, section 23, section 24, section 27, section 28, section 29, section 30, section 31, section 33, section 37, section 38, section 41 (in the definition of “exchange”), section 67, section 72, section 98, section 106, section 118, section 126, section 128, section 137, section 159, section 160, section 161, section 162, section 163, section 164, section 165, section 166, section 167, section 168, section 169, section 170, section 171, section 172, section 173, section 202, section 203, section 205, section 316e, section 316g, section 323, section 328, section 334, section 348, section 352, section 355, section 360, section 361, section 362, section 363, section 368, section 369, section 371, section 376 and section 379.
 
 ## EXPLANATORY STATEMENT
 
@@ -2316,11 +2308,7 @@ This Bill seeks to amend the Capital Markets and Services Act 2007 (“Act 671�
 
 28. Clause 32 seeks to delete sections 102 and 103 of Act 671. Section 102 is deleted because the provision is no longer relevant due to the ability of the exchange to perform real-time surveillance over trades done on the derivatives exchange. The provision of section 103 is now provided under the new section 362a.
 
-29. Clause 36 seeks to introduce a new Subdivision 4 into Division 3 of
-
-## Part III of Act 671 to provide for a regulatory framework for over-the-counter
-
-derivatives. The framework will provide for the establishment of a trade repository and imposes an obligation on any person who trade on over-the- counter derivatives to report his trades to the trade repository. The framework will also provide for the duties of a trade repository and circumstances where disclosure of information or document kept by the trade repository is permitted. The proposed new subdivision also empowers the Commission to issue directions to a trade repository.
+29. Clause 36 seeks to introduce a new Subdivision 4 into Division 3 of Part III of Act 671 to provide for a regulatory framework for over-the-counter derivatives. The framework will provide for the establishment of a trade repository and imposes an obligation on any person who trade on over-the- counter derivatives to report his trades to the trade repository. The framework will also provide for the duties of a trade repository and circumstances where disclosure of information or document kept by the trade repository is permitted. The proposed new subdivision also empowers the Commission to issue directions to a trade repository.
 
 30. Clause 37 seeks to amend section 111 of Act 671 to allow a licence holder to open a trust account with a licensed institution outside Malaysia where payment by the client is received outside Malaysia.
 

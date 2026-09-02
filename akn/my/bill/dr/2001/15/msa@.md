@@ -12,7 +12,11 @@
 
 ## PERMULAAN
 
-1. Tajuk ringkas dan permulaan kuat kuasa 2. Pemakaian 3. Tafsiran
+1. Tajuk ringkas dan permulaan kuat kuasa
+
+2. Pemakaian
+
+3. Tafsiran
 
 ## BAHAGIAN
 
@@ -20,13 +24,27 @@ II
 
 ## KESALAHAN PENGUBAHAN WANG HARAM
 
-4. Kesalahan pengubahan wang haram 5. Perlindungan pemberi maklumat dan maklumat 6. Sekatan ke atas pendedahan penzahiran di bawah seksyen 5
+4. Kesalahan pengubahan wang haram
+
+5. Perlindungan pemberi maklumat dan maklumat
+
+6. Sekatan ke atas pendedahan penzahiran di bawah seksyen 5
 
 ## BAHAGIAN III
 
 ## PERISIKAN KEWANGAN
 
-7. Fungsi pihak berkuasa berwibawa 8. Peruntukan berhubung dengan pihak berkuasa berwibawa 9. Kebenaran untuk melepaskan maklumat 10. Penyampaian kepada Negara asing 11. Penzahiran yang dilarang 12. Penzahiran yang dibenarkan
+7. Fungsi pihak berkuasa berwibawa
+
+8. Peruntukan berhubung dengan pihak berkuasa berwibawa
+
+9. Kebenaran untuk melepaskan maklumat
+
+10. Penyampaian kepada Negara asing
+
+11. Penzahiran yang dilarang
+
+12. Penzahiran yang dibenarkan
 
 ## BAHAGIAN
 
@@ -34,19 +52,13 @@ IV
 
 ## OBLIGASI PELAPORAN
 
-13. Penyimpanan rekod oleh institusi pelapor 14. Laporan oleh institusi pelapor
+13. Penyimpanan rekod oleh institusi pelapor
+
+14. Laporan oleh institusi pelapor
 
 <!-- page 2 -->
 
-15. Pemusatan maklumat
-
-16. Pengenalpastian pemegang akaun
-
-17. Penyimpanan rekod
-
-18. Pembukaan akaun atas nama palsu
-
-19. Rancangan pematuhan
+15. Pemusatan maklumat 16. Pengenalpastian pemegang akaun 17. Penyimpanan rekod 18. Pembukaan akaun atas nama palsu 19. Rancangan pematuhan
 
 20. Obligasi kerahsiaan diatasi
 
@@ -106,7 +118,51 @@ IV
 
 ## PEMBEKUAN, PENYITAAN DAN PELUCUTHAKAN
 
-44. Pembekuan harta 45. Penyitaan harta alih 46. Peruntukan lanjut berhubung dengan penyitaan harta alih 47. Peguam bela dan peguam cara hendaklah menzahirkan maklumat 48. Kuasa menyiasat berhubung dengan sesuatu institusi kewangan 49. Kuasa Pendakwa Raya untuk memperoleh maklumat 50. Penyitaan harta alih dalam institusi kewangan 51. Penyitaan harta tak alih 52. Peruntukan khas berhubung dengan penyitaan perniagaan 53. Larangan berurusan dengan harta di luar Malaysia 54. Membuat urusan tentang harta selepas penyitaan adalah tidak sah 55. Pelucuthakan harta apabila ada pendakwaan bagi sesuatu kesalahan 56. Pelucuthakan harta jika tiada pendakwaan 57. Kesahan pembekuan, penyitaan atau penjualan 58. Peletakhakan harta yang dilucuthakkan pada Kerajaan Persekutuan 59. Perintah kewangan 60. Pelepasan harta yang disita 61. Pihak ketiga yang suci hati 62. Pelupusan harta yang dilucuthakkan 63. Orang yang melarikan diri 64. Perintah pelucuthakan jika seseorang melarikan diri 65. Kesan kematian ke atas presiding 66. Penyampaian dokumen kepada orang yang melarikan diri
+44. Pembekuan harta
+
+45. Penyitaan harta alih
+
+46. Peruntukan lanjut berhubung dengan penyitaan harta alih
+
+47. Peguam bela dan peguam cara hendaklah menzahirkan maklumat
+
+48. Kuasa menyiasat berhubung dengan sesuatu institusi kewangan
+
+49. Kuasa Pendakwa Raya untuk memperoleh maklumat
+
+50. Penyitaan harta alih dalam institusi kewangan
+
+51. Penyitaan harta tak alih
+
+52. Peruntukan khas berhubung dengan penyitaan perniagaan
+
+53. Larangan berurusan dengan harta di luar Malaysia
+
+54. Membuat urusan tentang harta selepas penyitaan adalah tidak sah
+
+55. Pelucuthakan harta apabila ada pendakwaan bagi sesuatu kesalahan
+
+56. Pelucuthakan harta jika tiada pendakwaan
+
+57. Kesahan pembekuan, penyitaan atau penjualan
+
+58. Peletakhakan harta yang dilucuthakkan pada Kerajaan Persekutuan
+
+59. Perintah kewangan
+
+60. Pelepasan harta yang disita
+
+61. Pihak ketiga yang suci hati
+
+62. Pelupusan harta yang dilucuthakkan
+
+63. Orang yang melarikan diri
+
+64. Perintah pelucuthakan jika seseorang melarikan diri
+
+65. Kesan kematian ke atas presiding
+
+66. Penyampaian dokumen kepada orang yang melarikan diri
 
 ## BAHAGIAN VII
 
@@ -138,9 +194,7 @@ IV
 
 83. Kuasa untuk mengeluarkan garis panduan, dsb.
 
-84. Peraturan
-
-85. Pindaan Jadual
+84. Peraturan 85. Pindaan Jadual
 
 86. Kesalahan am
 
@@ -282,7 +336,7 @@ Pencegahan Pengubahan Wang Haram 7
 
 (c) merahsiakan, menyembunyikan atau menghalang pemastian sifat sebenar, sumber, lokasi, pergerakan, pelupusan, hakmilik, hak berkenaan dengan, atau pemunyaan, hasil daripada apa-apa aktiviti haram;
 
-jika—
+<!-- marginal: jika— -->
 
 (aa) sebagaimana yang dapat disimpulkan daripada hal keadaan hakikat objektif, orang itu tahu atau mempunyai sebab untuk mempercayai bahawa harta itu ialah hasil daripada apa-apa aktiviti haram; atau
 
@@ -508,9 +562,7 @@ menyampaikan apa-apa benda yang dizahirkan kepadanya di bawah seksyen 14 kepada 
 
 ### Penzahiran yang dilarang
 
-11. Tertakluk kepada seksyen 12, tiada seorang pun yang telah mendapat maklumat daripada pihak berkuasa berwibawa di bawah
-
-## Bahagian IV boleh—
+11. Tertakluk kepada seksyen 12, tiada seorang pun yang telah mendapat maklumat daripada pihak berkuasa berwibawa di bawah Bahagian IV boleh—
 
 (a) semasa dia diberi kebenaran di bawah seksyen 9, menzahirkan atau menyampaikan maklumat itu kecuali kepada seorang pegawai lain yang diberi kebenaran di bawah seksyen itu, bagi maksud, atau berkaitan dengan, pelaksanaan tugas-tugasnya; dan
 
@@ -616,7 +668,9 @@ dan hendaklah juga termasuk apa-apa maklumat lain sebagaimana yang ditentukan ol
 
 (3) Subseksyen (1) dan (2) tidak terpakai jika sesuatu institusi pelapor telah menghantar rekod itu kepada pihak berkuasa berwibawa atau suatu agensi penguat kuasa.
 
-(4) Mana-mana institusi pelapor yang melanggar subseksyen (1) atau (2) melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi satu juta ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya.
+(4) Mana-mana institusi pelapor yang melanggar subseksyen
+
+(1) atau (2) melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi satu juta ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya.
 
 ### Pembukaan akaun atas nama palsu
 
@@ -1052,7 +1106,9 @@ melepaskan apa-apa harta, rekod, laporan atau dokumen yang disita, ditahan atau 
 
 (5) Sesuatu perintah yang dibuat di bawah subseksyen (1) hendaklah terhenti berkuat kuasa selepas sembilan puluh hari dari tarikh perintah itu, jika orang yang terhadapnya perintah itu telah dibuat tidak dipertuduh dengan suatu kesalahan di bawah Akta ini.
 
-(6) Sesuatu agensi penguat kuasa tidaklah bertanggungan bagi apa-apa ganti rugi atau kos yang berbangkit secara langsung atau tidak langsung daripada pembuatan sesuatu perintah di bawah seksyen ini kecuali jika dapat dibuktikan bahawa perintah di bawah subseksyen (1) itu telah tidak dibuat dengan suci hati.
+(6) Sesuatu agensi penguat kuasa tidaklah bertanggungan bagi apa-apa ganti rugi atau kos yang berbangkit secara langsung atau tidak langsung daripada pembuatan sesuatu perintah di bawah seksyen ini kecuali jika dapat dibuktikan bahawa perintah di bawah subseksyen
+
+(1) itu telah tidak dibuat dengan suci hati.
 
 (7) Jika sesuatu agensi penguat kuasa mengarahkan supaya harta yang telah dibekukan ditadbirkan dan diurus, orang yang telah dipertanggungkan dengan pentadbiran harta itu tidaklah bertanggungan bagi apa-apa kehilangan atau kerosakan harta itu
 
@@ -1064,7 +1120,9 @@ atau bagi kos prosiding yang diambil untuk membuktikan suatu tuntutan ke atas ha
 
 45. (1) Semasa menjalankan penyiasatan tentang sesuatu kesalahan di bawah subseksyen 4(1), seseorang pegawai penyiasat boleh, setelah mendapat kelulusan daripada seorang pegawai penyiasat yang berpangkat lebih tinggi daripadanya, menyita apa-apa harta alih yang dia mempunyai alasan munasabah untuk mengesyaki merupakan hal perkara kesalahan itu atau keterangan berhubung dengan kesalahan itu.
 
-(2) Suatu senarai semua harta alih yang disita menurut subseksyen (1) dan tempat-tempat harta itu telah masing-masingnya dijumpai hendaklah disediakan oleh pegawai penyiasat yang melaksanakan penyitaan itu dan ditandatangani olehnya.
+(2) Suatu senarai semua harta alih yang disita menurut subseksyen
+
+(1) dan tempat-tempat harta itu telah masing-masingnya dijumpai hendaklah disediakan oleh pegawai penyiasat yang melaksanakan penyitaan itu dan ditandatangani olehnya.
 
 (3) Suatu salinan senarai yang disebut dalam subseksyen (2) hendaklah disampaikan dengan secepat mungkin kepada pemunya harta itu atau kepada orang yang daripadanya harta itu telah disita.
 
@@ -1794,229 +1852,503 @@ Perkhidmatan kewangan luar pesisir sebagaimana yang ditakrifkan dalam Akta Lemba
 
 [Seksyen 3, takrif "kesalahan berat"]
 
-Kesalahan Perihalan*
+<!-- marginal: Kesalahan -->
 
-Kesalahan pengubahan wang haram 1. Subseksyen 4(1) Akta ini
+Perihalan*
+
+Kesalahan pengubahan wang haram
+
+1.
+
+<!-- marginal: Subseksyen 4(1) -->
+
+<!-- marginal: Akta ini -->
 
 ### Akta Pencegahan Rasuah 1997
 
 ### [Akta 575]
 
-2. Seksyen 10 Kesalahan menyetuju-terima suapan
+2.
 
-Kesalahan memberikan atau menyetuju- 3. Seksyen 11 terima suapan oleh ejen
+<!-- marginal: Seksyen 10 -->
 
-Seksyen 12 Penerima atau pemberi suapan adalah 4. bersalah walaupun maksud tidak terlaksana atau perkara tidak ada hubungan dengan hal ehwal atau perniagaan prinsipal
+Kesalahan menyetuju-terima suapan
 
-Secara rasuah mendapatkan penarikan balik 5. Seksyen 13 tender
+Kesalahan memberikan atau menyetuju-
 
-Seksyen 14 Penyogokan pegawai badan awam 6.
+3.
 
-Seksyen 15 Kesalahan menggunakan jawatan atau 7. kedudukan
+<!-- marginal: Seksyen 11 -->
 
-Berurusan tentang, menggunakan, memegang, Seksyen 18 8. menerima, atau menyembunyikan suapan atau faedah berhubung dengan apa-apa kesalahan
+terima suapan oleh ejen
 
-9. Seksyen 20 Percubaan, persediaan, persubahatan dan komplot jenayah, boleh dihukum sebagaimana kesalahan.
+<!-- marginal: Seksyen 12 -->
+
+Penerima atau pemberi suapan adalah
+
+4. bersalah walaupun maksud tidak terlaksana atau perkara tidak ada hubungan dengan hal ehwal atau perniagaan prinsipal
+
+Secara rasuah mendapatkan penarikan balik
+
+5.
+
+<!-- marginal: Seksyen 13 -->
+
+tender
+
+<!-- marginal: Seksyen 14 -->
+
+Penyogokan pegawai badan awam
+
+6.
+
+<!-- marginal: Seksyen 15 -->
+
+Kesalahan menggunakan jawatan atau
+
+7. kedudukan
+
+Berurusan tentang, menggunakan, memegang,
+
+<!-- marginal: Seksyen 18 -->
+
+8. menerima, atau menyembunyikan suapan atau faedah berhubung dengan apa-apa kesalahan
+
+9.
+
+<!-- marginal: Seksyen 20 -->
+
+Percubaan, persediaan, persubahatan dan komplot jenayah, boleh dihukum sebagaimana kesalahan.
 
 ### Akta Bank dan Institusi-Institusi Kewangan 1989
 
 ### [Akta 372]
 
-10. Seksyen 25 Menerima, mengambil atau menyetuju-terima deposit yang dilarang, kecuali di bawah dan mengikut lesen sah yang diberikan di bawah seksyen 6(4)
+10.
+
+<!-- marginal: Seksyen 25 -->
+
+Menerima, mengambil atau menyetuju-terima deposit yang dilarang, kecuali di bawah dan mengikut lesen sah yang diberikan di bawah seksyen 6(4)
 
 <!-- page 82 -->
 
-Kesalahan Perihalan*
+<!-- marginal: Kesalahan -->
+
+Perihalan*
 
 ### Akta Pertaruhan 1953
 
 ### [Akta 495]
 
-Rumah-rumah pertaruhan terbuka dan pusat- Seksyen 4 11. pusat maklumat pertaruhan
+Rumah-rumah pertaruhan terbuka dan pusat-
 
-Subseksyen 6(3) Membuat pertaruhan di suatu rumah 12. pertaruhan terbuka, dan penyelenggaraan pertaruhan
+<!-- marginal: Seksyen 4 -->
+
+11. pusat maklumat pertaruhan
+
+<!-- marginal: Subseksyen 6(3) -->
+
+Membuat pertaruhan di suatu rumah
+
+12. pertaruhan terbuka, dan penyelenggaraan pertaruhan
 
 ### Akta Rumah Perjudian Terbuka 1953
 
 ### [Akta 289]
 
-13. Rumah perjudian terbuka Seksyen 4
+13. Rumah perjudian terbuka
 
-14. Seksyen 4A Membantu dalam menjalankan loteri awarn, dsb.
+<!-- marginal: Seksyen 4 -->
+
+14.
+
+<!-- marginal: Seksyen 4A -->
+
+Membantu dalam menjalankan loteri awarn, dsb.
 
 ### Akta Syarikat 1965
 
 ### [Akta 125]
 
-15. Seksyen 27 Pelawaan kepada orang ramai oleh syarikat persendirian
+15.
 
-Pelawaan kepada orang ramai untuk 16. Seksyen 38 meminjamkan atau menyimpan wang dengan suatu perbadanan
+<!-- marginal: Seksyen 27 -->
 
-Mendorong orang ramai supaya melaburkan 17. Seksyen 366 wang
+Pelawaan kepada orang ramai oleh syarikat persendirian
+
+Pelawaan kepada orang ramai untuk
+
+16.
+
+<!-- marginal: Seksyen 38 -->
+
+meminjamkan atau menyimpan wang dengan suatu perbadanan
+
+Mendorong orang ramai supaya melaburkan
+
+17.
+
+<!-- marginal: Seksyen 366 -->
+
+wang
 
 ### Akta Hakcipta 1987
 
 ### [Akta 332]
 
-Pelanggaran hakcipta Seksyen 41 18.
+Pelanggaran hakcipta
+
+<!-- marginal: Seksyen 41 -->
+
+18.
 
 ### Akta Bahan-Bahan Kakisan dan Letupan dan Senjata Berbahaya
 
-<!-- marginal: 1958 -->
+### 1958
 
 ### [Akta 357]
 
-Seksyen 3 Memiliki bah an kakisan atau bahan letupan 19. bagi maksud menyebabkan kecederaan
+<!-- marginal: Seksyen 3 -->
+
+Memiliki bah an kakisan atau bahan letupan
+
+19. bagi maksud menyebabkan kecederaan
 
 ### Akta Kastam
 
 ### [Akta 235]
 
-20. Seksyen 135 Kesalahan menyeludup
+20.
+
+<!-- marginal: Seksyen 135 -->
+
+Kesalahan menyeludup
 
 <!-- page 83 -->
 
-Perihalan * Kesalahan
+Perihalan *
+
+<!-- marginal: Kesalahan -->
 
 ### Akta Dadah Berbahaya 1952
 
 ### [Akta 234]
 
-Seksyen 4 Sekatan terhadap pengimportan candu 21. mentah. daun koka, jerami popi dan ganja
+<!-- marginal: Seksyen 4 -->
 
-Sekatan terhadap pengeksportan candu 22. Seksyen 5 mentah, daun koka, jerami popi dan ganja
+Sekatan terhadap pengimportan candu
 
-Sekatan ke atas pengimportan dan Seksyen 12 23. pengeksportan dadah berbahaya tertentu
+21. mentah. daun koka, jerami popi dan ganja
 
-Pengeksportan dadah berbahaya 24. Subseksyen 19(4)
+Sekatan terhadap pengeksportan candu
 
-Pengimportan dadah berbahaya 25. Subseksyen 20(5)
+22.
 
-Pengedaran dadah berbahaya Seksyen 39B 26.
+<!-- marginal: Seksyen 5 -->
+
+mentah, daun koka, jerami popi dan ganja
+
+Sekatan ke atas pengimportan dan
+
+<!-- marginal: Seksyen 12 -->
+
+23. pengeksportan dadah berbahaya tertentu
+
+Pengeksportan dadah berbahaya
+
+24.
+
+<!-- marginal: Subseksyen 19(4) -->
+
+Pengimportan dadah berbahaya
+
+25.
+
+<!-- marginal: Subseksyen 20(5) -->
+
+Pengedaran dadah berbahaya
+
+<!-- marginal: Seksyen 39B -->
+
+26.
 
 ### Akta Dadah Berbahaya (Perlucuthakan Harta) 1988
 
 ### [Akta 340]
 
-27. Seksyen 3 Penggunaan harta untuk aktiviti yang menjadi kesalahan-kesalahan tertentu
+27.
 
-28. Seksyen 4 Mengurusniagakan atau menggunakan, memegang, menerima, atau menyembunyikan harta yang menyalahi undang-undang
+<!-- marginal: Seksyen 3 -->
 
-29. Seksyen 56 Percubaan, persubahatan dan komplot jenayah yang boleh dihukum sebagai kesalahan
+Penggunaan harta untuk aktiviti yang menjadi kesalahan-kesalahan tertentu
+
+28.
+
+<!-- marginal: Seksyen 4 -->
+
+Mengurusniagakan atau menggunakan, memegang, menerima, atau menyembunyikan harta yang menyalahi undang-undang
+
+29.
+
+<!-- marginal: Seksyen 56 -->
+
+Percubaan, persubahatan dan komplot jenayah yang boleh dihukum sebagai kesalahan
 
 ### Akta Bahan Letupan 1957
 
 ### [Akta 207]
 
-Subseksyen 4(2) Kuasa untuk melarang pengilangan, 30. pemilikan atau pengimportan bahan letupan yang begitu berbahaya
+<!-- marginal: Subseksyen 4(2) -->
 
-31. Seksyen 5 Perbuatan-perbuatan yang menyebabkan letupan atau kebakaran
+Kuasa untuk melarang pengilangan,
+
+30. pemilikan atau pengimportan bahan letupan yang begitu berbahaya
+
+31.
+
+<!-- marginal: Seksyen 5 -->
+
+Perbuatan-perbuatan yang menyebabkan letupan atau kebakaran
 
 <!-- page 84 -->
 
-Kesalahan Perihalan*
+<!-- marginal: Kesalahan -->
 
-32. Seksyen 6 Menyebabkan letupan yang mungkin membahayakan nyawa atau harta
+Perihalan*
 
-33. Seksyen 7 Percubaan menyebabkan letupan, atau membuat atau menyimpan bahan letupan dengan niat hendak membahayakan nyawa atau harta
+32.
 
-34. Seksyen 8 Pembuatan atau Pemilikan bahan letupan dalam keadaan yang menimbulkan syak
+<!-- marginal: Seksyen 6 -->
+
+Menyebabkan letupan yang mungkin membahayakan nyawa atau harta
+
+33.
+
+<!-- marginal: Seksyen 7 -->
+
+Percubaan menyebabkan letupan, atau membuat atau menyimpan bahan letupan dengan niat hendak membahayakan nyawa atau harta
+
+34.
+
+<!-- marginal: Seksyen 8 -->
+
+Pembuatan atau Pemilikan bahan letupan dalam keadaan yang menimbulkan syak
 
 ### Akta Perindustrian Niaga Hadapan 1993
 
 ### [Akta 499]
 
-Seksyen 3 Penubuhan pasaran niaga hadapan 35.
+<!-- marginal: Seksyen 3 -->
 
-Seksyen 16 36. Broker niaga hadapan hendaklah dilesenkan
+Penubuhan pasaran niaga hadapan
 
-Seksyen 16A 36. Pengums dana niaga hadapan hendaklah dilesenkan
+35.
 
-Seksyen 79 38. Perdagangan palsu
+<!-- marginal: Seksyen 16 -->
 
-Seksyen 80 39. Pembrokeran liar
+36. Broker niaga hadapan hendaklah dilesenkan
 
-Seksyen 82 40. Manipulasi harga kontrak niaga hadapan dan memborong simpan
+<!-- marginal: Seksyen 16A -->
 
-41. Seksyen 83 Penggunaan muslihat, dll. untuk memfraud
+36. Pengums dana niaga hadapan hendaklah dilesenkan
 
-Seksyen 86 42. Larangan penyalahgunaan maklumat yang didapati alas sifat rasmi
+<!-- marginal: Seksyen 79 -->
+
+38. Perdagangan palsu
+
+<!-- marginal: Seksyen 80 -->
+
+39. Pembrokeran liar
+
+<!-- marginal: Seksyen 82 -->
+
+40. Manipulasi harga kontrak niaga hadapan dan memborong simpan
+
+41.
+
+<!-- marginal: Seksyen 83 -->
+
+Penggunaan muslihat, dll. untuk memfraud
+
+<!-- marginal: Seksyen 86 -->
+
+42. Larangan penyalahgunaan maklumat yang didapati alas sifat rasmi
 
 ### Akta Penculikan 1961
 
 ### [Akta 365]
 
-43. Seksyen 3 Pemelarian, penahanan salah atau pengurungan salah untuk wang tebusan
+43.
 
-44. Seksyen 5 Dengan disedarinya menerima wang tebusan
+<!-- marginal: Seksyen 3 -->
 
-Seksyen 6 45. Dengan disedarinya berbincang untuk mendapatkan, atau untuk membayar, wang tebusan
+Pemelarian, penahanan salah atau pengurungan salah untuk wang tebusan
+
+44.
+
+<!-- marginal: Seksyen 5 -->
+
+Dengan disedarinya menerima wang tebusan
+
+<!-- marginal: Seksyen 6 -->
+
+45. Dengan disedarinya berbincang untuk mendapatkan, atau untuk membayar, wang tebusan
 
 <!-- page 85 -->
 
-Pencegahan Pengubahan Wang Haram
+Pencegahan Pengubahan Wang Haram 85
 
-<!-- marginal: 85 -->
+Perihalan *
 
-Perihalan * Kesalahan
+<!-- marginal: Kesalahan -->
 
 ### Akta Cakera Optik 2000
 
 ### [Akta 606]
 
-Pengilangan tanpa lesen yang sah 46. Seksyen 4
+Pengilangan tanpa lesen yang sah
 
-47. Seksyen 21 Menggunakan kod pengilang palsu
+46.
+
+<!-- marginal: Seksyen 4 -->
+
+47.
+
+<!-- marginal: Seksyen 21 -->
+
+Menggunakan kod pengilang palsu
 
 ### Kanun Keseksaan
 
 ### [Akta 574]
 
-48. Seksyen 161 Pekhidmat awam menerima suapan, selain saraan sah di sisi undang-undang, berkenaan dengan sesuatu perbuatan rasmi
+48.
 
-49. Seksyen 162 Mengambil suapan untuk dengan cara rasuah atau yang menyalahi undang-undang, mempengaruhi pekhidmat awam
+<!-- marginal: Seksyen 161 -->
 
-50. Seksyen 163 Mengambil suapan, untuk menggunakan pengaruh peribadi dengan pekhidmat awam
+Pekhidmat awam menerima suapan, selain saraan sah di sisi undang-undang, berkenaan dengan sesuatu perbuatan rasmi
 
-51. Seksyen 164 Persubahatan oleh pekhidmat awam mengenai kesalahan di bawah seksyen 163
+49.
 
-52. Pekhidmat awam memperoleh apa-apa Seksyen 165 benda berharga, tanpa balasan, daripada orang yang ada kena-mengena dalam apa-apa prosiding atau urusan yang dilakukan oleh pekhidmat awam itu
+<!-- marginal: Seksyen 162 -->
 
-53. Seksyen 207 Tuntutan secara fraud bagi harta untuk mengelakkan penyitaannya sebagai pelucuthakan atau bagi melaksanakan sesuatu dekri
+Mengambil suapan untuk dengan cara rasuah atau yang menyalahi undang-undang, mempengaruhi pekhidmat awam
 
-54. Seksyen 213 Mengambil hadiah, dsb., bagi melindungi pesalah daripada hukuman
+50.
 
-Menawarkan hadiah atau pemulangan harta 55. Seksyen 214 sebagai balasan kerana melindungi pesalah
+<!-- marginal: Seksyen 163 -->
 
-56. Seksyen 215 Mengambil hadiah untuk menolong mendapatkan balik harta curi, dsb.
+Mengambil suapan, untuk menggunakan pengaruh peribadi dengan pekhidmat awam
+
+51.
+
+<!-- marginal: Seksyen 164 -->
+
+Persubahatan oleh pekhidmat awam mengenai kesalahan di bawah seksyen 163
+
+52. Pekhidmat awam memperoleh apa-apa
+
+<!-- marginal: Seksyen 165 -->
+
+benda berharga, tanpa balasan, daripada orang yang ada kena-mengena dalam apa-apa prosiding atau urusan yang dilakukan oleh pekhidmat awam itu
+
+53.
+
+<!-- marginal: Seksyen 207 -->
+
+Tuntutan secara fraud bagi harta untuk mengelakkan penyitaannya sebagai pelucuthakan atau bagi melaksanakan sesuatu dekri
+
+54.
+
+<!-- marginal: Seksyen 213 -->
+
+Mengambil hadiah, dsb., bagi melindungi pesalah daripada hukuman
+
+Menawarkan hadiah atau pemulangan harta
+
+55.
+
+<!-- marginal: Seksyen 214 -->
+
+sebagai balasan kerana melindungi pesalah
+
+56.
+
+<!-- marginal: Seksyen 215 -->
+
+Mengambil hadiah untuk menolong mendapatkan balik harta curi, dsb.
 
 <!-- page 86 -->
 
-Kesalahan Perihalan*
+<!-- marginal: Kesalahan -->
 
-57. Melindungi perompak atau kumpulan Seksyen 216A perompak, dsb.
+Perihalan*
 
-Seksyen 217 58. Pekhidmat awam mengingkari arahan undang-undang dengan niat untuk menyelamatkan seseorang daripada hukuman, atau harta daripada pelucuthakan
+57. Melindungi perompak atau kumpulan
 
-Seksyen 218 Pekhidmat awam membuat rekod atau 59. tulisan yang tidak betul dengan niat untuk menyelamatkan seseorang daripada hukuman, atau harta daripada pelucuthakan
+<!-- marginal: Seksyen 216A -->
 
-60. Seksyen 327 Dengan sengaja menyebabkan kecederaan untuk memeras harta atau bagi memaksa sesuatu perbuatan yang menyalahi undang- undang
+perompak, dsb.
 
-61. Dengan sengaja menyebabkan kecederaan Seksyen 329 parah bagi memeras harta, atau bagi memaksa sesuatu perbuatan yang menyalahi undang- undang
+<!-- marginal: Seksyen 217 -->
 
-Seksyen 330 62. Dengan sengaja menyebabkan kecederaan bagi memeras pengakuan bersalah atau bagi memaksa supaya harta dipulangkan
+58. Pekhidmat awam mengingkari arahan undang-undang dengan niat untuk menyelamatkan seseorang daripada hukuman, atau harta daripada pelucuthakan
 
-Seksyen 331 Dengan sengaja menyebabkan kecederaan 63. parah bagi memeras pengakuan bersalah atau bagi memaksa supaya harta dipulangkan
+<!-- marginal: Seksyen 218 -->
 
-64. Seksyen 347 Pengurungan salah bagi maksud memeras harta atau bagi memaksa sesuatu perbuatan yang menyalahi undang-undang
+Pekhidmat awam membuat rekod atau
 
-65. Seksyen 348 Pengurungan salah bagi maksud memeras pengakuan bersalah atau memaksa supaya harta dipulangkan
+59. tulisan yang tidak betul dengan niat untuk menyelamatkan seseorang daripada hukuman, atau harta daripada pelucuthakan
 
-66. Seksyen 363 Penculikan
+60.
 
-Seksyen 364 67. Menculik atau melarikan untuk membunuh
+<!-- marginal: Seksyen 327 -->
 
-Seksyen 365 Menculik atau melarikan dengan niat untuk 68. mengurung seseorang secara rahsia dan dengan salah
+Dengan sengaja menyebabkan kecederaan untuk memeras harta atau bagi memaksa sesuatu perbuatan yang menyalahi undang- undang
+
+61. Dengan sengaja menyebabkan kecederaan
+
+<!-- marginal: Seksyen 329 -->
+
+parah bagi memeras harta, atau bagi memaksa sesuatu perbuatan yang menyalahi undang- undang
+
+<!-- marginal: Seksyen 330 -->
+
+62. Dengan sengaja menyebabkan kecederaan bagi memeras pengakuan bersalah atau bagi memaksa supaya harta dipulangkan
+
+<!-- marginal: Seksyen 331 -->
+
+Dengan sengaja menyebabkan kecederaan
+
+63. parah bagi memeras pengakuan bersalah atau bagi memaksa supaya harta dipulangkan
+
+64.
+
+<!-- marginal: Seksyen 347 -->
+
+Pengurungan salah bagi maksud memeras harta atau bagi memaksa sesuatu perbuatan yang menyalahi undang-undang
+
+65.
+
+<!-- marginal: Seksyen 348 -->
+
+Pengurungan salah bagi maksud memeras pengakuan bersalah atau memaksa supaya harta dipulangkan
+
+66.
+
+<!-- marginal: Seksyen 363 -->
+
+Penculikan
+
+<!-- marginal: Seksyen 364 -->
+
+67. Menculik atau melarikan untuk membunuh
+
+<!-- marginal: Seksyen 365 -->
+
+Menculik atau melarikan dengan niat untuk
+
+68. mengurung seseorang secara rahsia dan dengan salah
 
 <!-- page 87 -->
 
@@ -2024,75 +2356,159 @@ Perihalan * Kesalahan
 
 69. Menculik atau melarikan seseorang wanita Seksyen 366 bagi memaksanya berkahwin, dsb.
 
-Menculik atau melarikan untuk menyebabkan Seksyen 367 70. seseorang cedera parah, menjadi abdi dsb.
+Menculik atau melarikan untuk menyebabkan Seksyen 367
 
-Seksyen 368 Menyembunyikan atau mengurung dengan 71. salah seseorang yang diculik
+70. seseorang cedera parah, menjadi abdi dsb.
+
+Seksyen 368 Menyembunyikan atau mengurung dengan
+
+71. salah seseorang yang diculik
 
 72. Menculik atau melarikan kanak-kanak Seksyen 369 berumur di bawah umur sepuluh tahun dengan niat untuk mencuri harta alih dari tufauh kanak-kanak itu
 
-Membeli atau memberikan mana-mana orang 73. Seksyen 370 sebagai abdi
+Membeli atau memberikan mana-mana orang
+
+73. Seksyen 370 sebagai abdi
 
 74. Berniaga abdi secara lazim Seksyen 371
 
-Seksyen 372 75. Menjual kanak-kanak bagi maksud pelacuran, dsb.
+Seksyen 372
 
-Seksyen 373 76. Membeli kanak-kanak bagi maksud pelacuran, dsb,
+75. Menjual kanak-kanak bagi maksud pelacuran, dsb.
+
+Seksyen 373
+
+76. Membeli kanak-kanak bagi maksud pelacuran, dsb,
 
 77. Seksyen 373A Mengimport bagi tujuan pelacuran
 
-Seksyen 379 Pencurian 78.
+Seksyen 379 Pencurian
+
+78.
 
 79. Pencurian kenderaan motor Seksyen 379A
 
-Seksyen 380 80. Pencurian dalam rumah kediaman, dsb.
+Seksyen 380
+
+80. Pencurian dalam rumah kediaman, dsb.
 
 81. Seksyen 381 Pencurian oleh kerani atau pekhidmat harta milik majikannya
 
 82. Seksyen 382 Pencurian setelah dibuat persiapan bagi menyebabkan kematian atau cedera dengan tujuan melakukan pencurian itu
 
-Seksyen 384 83. Pemerasan
+Seksyen 384
 
-Menyebabkan seseorang berasa takut akan Seksyen 385 84. kecederaan untuk melakukan pemerasan
+83. Pemerasan
+
+Menyebabkan seseorang berasa takut akan Seksyen 385
+
+84. kecederaan untuk melakukan pemerasan
 
 <!-- page 88 -->
 
-Perihalan* Kesalahan
+Perihalan*
 
-Pemerasan dengan menyebabkan seseorang 85. Seksyen 386 berasa takut akan kematian atau kecederaan parah
+<!-- marginal: Kesalahan -->
 
-Seksyen 387 86. Menyebabkan seseorang berasa takut akan kematian atau kecederaan parah untuk melakukan pemerasan
+Pemerasan dengan menyebabkan seseorang
 
-Menyebabkan seseorang berasa takut akan 87. Seksyen 389 tuduhan kesalahan, untuk melakukan pemerasan
+85.
 
-88. Seksyen 392 Perompakan
+<!-- marginal: Seksyen 386 -->
 
-89. Seksyen 394 Dengan sengaja menyebabkan kecederaan dalam melakukan perompakan
+berasa takut akan kematian atau kecederaan parah
 
-Perompakan berkumpulan Seksyen 395 90.
+<!-- marginal: Seksyen 387 -->
 
-Seksyen 396 91. Perompakan berkumpulan dengan pembunuhan
+86. Menyebabkan seseorang berasa takut akan kematian atau kecederaan parah untuk melakukan pemerasan
 
-Seksyen 399 Membuat persiapan bagi melakukan 92. perompakan berkumpulan
+Menyebabkan seseorang berasa takut akan
 
-Seksyen 400 Menjadi anggota kumpulan perompak 93.
+87.
 
-Seksyen 402 Berhimpun bagi tujuan melakukan 94. perompakan berkumpulan
+<!-- marginal: Seksyen 389 -->
 
-Seksyen 403 95. Pelesapan curang harta
+tuduhan kesalahan, untuk melakukan pemerasan
 
-Seksyen 404 96. Pelesapan curang harta yang dimiliki oleh simati pada masa kematiannya
+88.
 
-97. Seksyen 406 Pecah amanah jenayah
+<!-- marginal: Seksyen 392 -->
 
-98. Seksyen 407 Pecah amanah jenayah oleh pembawa, dsb.
+Perompakan
 
-Seksyen 408 99. Pecah amanah jenayah oleh kerani atau pekhidmat
+89.
 
-100. Seksyen 409 Pecah amanah jenayah oleh pekhidmat awam, atau oleh jurubank, saudagar atau ejen
+<!-- marginal: Seksyen 394 -->
 
-101. Dengan curang menerima harta curi Seksyen 411
+Dengan sengaja menyebabkan kecederaan dalam melakukan perompakan
 
-102. Seksyen 412 Dengan curang menerima harta yang dicuri semasa melakukan perompakan berkumpulan
+Perompakan berkumpulan
+
+<!-- marginal: Seksyen 395 -->
+
+90.
+
+<!-- marginal: Seksyen 396 -->
+
+91. Perompakan berkumpulan dengan pembunuhan
+
+<!-- marginal: Seksyen 399 -->
+
+Membuat persiapan bagi melakukan
+
+92. perompakan berkumpulan
+
+<!-- marginal: Seksyen 400 -->
+
+Menjadi anggota kumpulan perompak
+
+93.
+
+<!-- marginal: Seksyen 402 -->
+
+Berhimpun bagi tujuan melakukan
+
+94. perompakan berkumpulan
+
+<!-- marginal: Seksyen 403 -->
+
+95. Pelesapan curang harta
+
+<!-- marginal: Seksyen 404 -->
+
+96. Pelesapan curang harta yang dimiliki oleh simati pada masa kematiannya
+
+97.
+
+<!-- marginal: Seksyen 406 -->
+
+Pecah amanah jenayah
+
+98.
+
+<!-- marginal: Seksyen 407 -->
+
+Pecah amanah jenayah oleh pembawa, dsb.
+
+<!-- marginal: Seksyen 408 -->
+
+99. Pecah amanah jenayah oleh kerani atau pekhidmat
+
+100.
+
+<!-- marginal: Seksyen 409 -->
+
+Pecah amanah jenayah oleh pekhidmat awam, atau oleh jurubank, saudagar atau ejen
+
+101. Dengan curang menerima harta curi
+
+<!-- marginal: Seksyen 411 -->
+
+102.
+
+<!-- marginal: Seksyen 412 -->
+
+Dengan curang menerima harta yang dicuri semasa melakukan perompakan berkumpulan
 
 <!-- page 89 -->
 
@@ -2100,21 +2516,35 @@ Perihalan* Kesalahan
 
 103. Seksyen 413 Berniaga harta curi secara lazim
 
-Menolong menyembunyikan harta curi 104. Seksyen 414
+Menolong menyembunyikan harta curi
 
-Menipu dan dengan curang mendorong 105. Seksyen 420 penyerahan harta
+104. Seksyen 414
 
-Dengan curang atau fraud mengalihkan atau 106. Seksyen 421 menyembunyikan harta untuk mengelakkan pembahagian antara pemiutang
+Menipu dan dengan curang mendorong
+
+105. Seksyen 420 penyerahan harta
+
+Dengan curang atau fraud mengalihkan atau
+
+106. Seksyen 421 menyembunyikan harta untuk mengelakkan pembahagian antara pemiutang
 
 107. Seksyen 422 Dengan curang atau fraud menghalang hutang atau tuntutan yang kena dibayar kepada pesalah daripada didapati oleh pemiutangnya
 
-Dengan curang atau fraud mengalihkan atau 108. Seksyen 424 menyembunyikan balasan
+Dengan curang atau fraud mengalihkan atau
 
-Pemalsuan 109. Seksyen 465
+108. Seksyen 424 menyembunyikan balasan
 
-Pemalsuan bagi tujuan penipuan 110. Seksyen 468
+Pemalsuan
 
-Pemalsuan atau pemelancungan mata wang 111. Seksyen 489A kertas atau nota bank
+109. Seksyen 465
+
+Pemalsuan bagi tujuan penipuan
+
+110. Seksyen 468
+
+Pemalsuan atau pemelancungan mata wang
+
+111. Seksyen 489A kertas atau nota bank
 
 112. Seksyen 489c Pemilikan mata wang kertas atau nota bank palsu atau lancung
 
@@ -2122,19 +2552,29 @@ Pemalsuan atau pemelancungan mata wang 111. Seksyen 489A kertas atau nota bank
 
 ### [Akta 280]
 
-Penubuhan pasaran saham Seksyen 7 113.
+Penubuhan pasaran saham Seksyen 7
+
+113.
 
 114. Lesen peniaga Seksyen 12
 
-Lesen pengurus kumpulan wang 115. Seksyen 15A
+Lesen pengurus kumpulan wang
 
-Transaksi perdagangan palsu dan penipuan Seksyen 84 116. dalam pasaran
+115. Seksyen 15A
+
+Transaksi perdagangan palsu dan penipuan Seksyen 84
+
+116. dalam pasaran
 
 117. Seksyen 85 Manipulasi pasaran
 
-Penggunaan peranti manipulasi dan 118. Seksyen 87A memperdaya
+Penggunaan peranti manipulasi dan
 
-Perakuan yang dilarang ke atas orang yang 119. Seksyen 89B mempunyai maklumat dalaman
+118. Seksyen 87A memperdaya
+
+Perakuan yang dilarang ke atas orang yang
+
+119. Seksyen 89B mempunyai maklumat dalaman
 
 *Nota - Perihalan pendek kesalahan di dalam Jadual ini hanyalah untuk rujukan sahaja.
 
@@ -2396,13 +2836,23 @@ III
 
 ## FINANCIAL INTELLIGENCE
 
-7. Functions of the competent authority 8. Provisions relating to the competent authority 9. Authorisation to release information 10. Communication to a foreign State 11. Prohibited disclosure 12. Permitted disclosure
+7. Functions of the competent authority 8. Provisions relating to the competent authority 9. Authorisation to release information
+
+10. Communication to a foreign State
+
+11. Prohibited disclosure
+
+12. Permitted disclosure
 
 ## PART IV
 
 ## REPORTING OBLIGATIONS
 
-13. Record-keeping by reporting institutions 14. Report by reporting institutions 15. Centralisation of information
+13. Record-keeping by reporting institutions
+
+14. Report by reporting institutions
+
+15. Centralisation of information
 
 <!-- page 100 -->
 
@@ -2476,13 +2926,53 @@ Anti-Money Laundering
 
 ## FREEZING, SEIZURE AND FORFEITURE
 
-44. Freezing of property 45. Seizure of movable property 46. Further provisions relating to seizure of movable property 47. Advocates and solicitors to disclose information 48. Investigation powers in relation to a financial institution 49. Public Prosecutor's powers to obtain information 50. Seizure of movable property in financial institution 51. Seizure of immovable property 52. Special provisions relating to seizure of a business 53. Prohibition of dealing with property outside Malaysia 54. Dealing with property after seizure to be void 55. Forfeiture of property upon prosecution for an offence 56. Forfeiture of property where there is no prosecution 57. Validity of freeze, seizure or sale 58. Vesting of forfeited property in the Federal Government 59. Pecuniary orders 60. Release of property seized 61. Bona fide third parties 62. Disposition of forfeited property 63. Absconded person 64. Forfeiture order where person has absconded 65. Effect of death on proceedings 66. Service of documents on absconder
+44. Freezing of property
+
+45. Seizure of movable property
+
+46. Further provisions relating to seizure of movable property
+
+47. Advocates and solicitors to disclose information
+
+48. Investigation powers in relation to a financial institution
+
+49. Public Prosecutor's powers to obtain information
+
+50. Seizure of movable property in financial institution
+
+51. Seizure of immovable property
+
+52. Special provisions relating to seizure of a business
+
+53. Prohibition of dealing with property outside Malaysia
+
+54. Dealing with property after seizure to be void
+
+55. Forfeiture of property upon prosecution for an offence
+
+56. Forfeiture of property where there is no prosecution
+
+57. Validity of freeze, seizure or sale
+
+58. Vesting of forfeited property in the Federal Government 59. Pecuniary orders
+
+60. Release of property seized 61. Bona fide third parties
+
+62. Disposition of forfeited property
+
+63. Absconded person
+
+64. Forfeiture order where person has absconded
+
+65. Effect of death on proceedings 66. Service of documents on absconder
 
 ## PART VII
 
 ## MISCELLANEOUS
 
-67. Property tracking 68. Additional powers of competent authority and enforcement agency 69. Agent provocateur 70. Standard of proof 71. Admissibility of documentary evidence 72. Admissibility of statements by accused persons
+67. Property tracking
+
+68. Additional powers of competent authority and enforcement agency 69. Agent provocateur 70. Standard of proof 71. Admissibility of documentary evidence 72. Admissibility of statements by accused persons
 
 <!-- page 102 -->
 
@@ -2490,7 +2980,47 @@ Anti-Money Laundering
 
 ### Bill
 
-73. Admissibility of statements and documents of persons who are dead or cannot be traced, etc. 74. Admissibility of translation of documents 75. Evidence of corresponding law or foreign law 76. Proof of conviction and acquittal 77. Indemnity 78. Service of notices 79. Preservation of secrecy 80. Exemptions 81. Modifications 82. Jurisdiction 83. Power to issue guidelines, etc. 84. Regulations 85. Amendment of Schedules 86. General offence 87. Offence committed by any person acting in an official capacity 88. Offence by an individual 89. Falsification, concealment and destruction of document 90. Seizable offence 91. Joinder of offences 92. Power of competent authority to compound offences 93. Prosecution
+73. Admissibility of statements and documents of persons who are dead or cannot be traced, etc.
+
+74. Admissibility of translation of documents
+
+75. Evidence of corresponding law or foreign law
+
+76. Proof of conviction and acquittal
+
+77. Indemnity
+
+78. Service of notices
+
+79. Preservation of secrecy
+
+80. Exemptions
+
+81. Modifications
+
+82. Jurisdiction
+
+83. Power to issue guidelines, etc.
+
+84. Regulations
+
+85. Amendment of Schedules
+
+86. General offence
+
+87. Offence committed by any person acting in an official capacity
+
+88. Offence by an individual
+
+89. Falsification, concealment and destruction of document
+
+90. Seizable offence
+
+91. Joinder of offences
+
+92. Power of competent authority to compound offences
+
+93. Prosecution
 
 ## FIRST SCHEDULE
 

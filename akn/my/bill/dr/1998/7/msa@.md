@@ -64,7 +64,11 @@ Rang Undang-Undang
 
 12. Pemberian atau keengganan untuk memberikan kelulusan untuk menubuhkan atau menyenggarakan.
 
-13. Kelulusan berasingan untuk menubuhkan atau menyenggarakan kemudahan atau perkhidmatan jagaan kesihatan swasta yang tidak dihubungkan secara fizikal, pentadbiran atau organisasi.
+13. Kelulusan berasingan untuk menubuhkan
+
+<!-- marginal: atau -->
+
+menyenggarakan kemudahan atau perkhidmatan jagaan kesihatan swasta yang tidak dihubungkan secara fizikal, pentadbiran atau organisasi.
 
 ## BAHAGIAN
 
@@ -256,11 +260,7 @@ Kemudahan dan Perkhidmatan Jagaan Kesihatan Swasta
 
 70. Kerahsiaan maklumat yang diperoleh oleh Jawatankuasa.
 
-71. Pelindungan orang yang menjalankan fungsi sebagai anggota Jawatankuasa.
-
-72. Jawatankuasa penilaian kematian di peringkat kemudahan atau perkhidmatan jagaan kesihatan swasta.
-
-73. Penyiasatan bebas.
+71. Pelindungan orang yang menjalankan fungsi sebagai anggota Jawatankuasa. 72. Jawatankuasa penilaian kematian di peringkat kemudahan atau perkhidmatan jagaan kesihatan swasta. 73. Penyiasatan bebas.
 
 ## BAHAGIAN XIII
 
@@ -268,9 +268,7 @@ Kemudahan dan Perkhidmatan Jagaan Kesihatan Swasta
 
 ## JAGAAN KESIHATAN
 
-74. Kualiti kemudahan dan perkhidmatan jagaan kesihatan:
-
-75. Kuasa Ketua Pengarah untuk memberikan arahan.
+74. Kualiti kemudahan dan perkhidmatan jagaan kesihatan: 75. Kuasa Ketua Pengarah untuk memberikan arahan.
 
 <!-- page 6 -->
 
@@ -332,13 +330,7 @@ Rang Undang-Undang
 
 Jagaan Kesihatan Swasta
 
-95. Senarai benda yang disita. 96- Pelucuthakan benda yang disita.
-
-97. Tiada seorang pun berhak ke atas kos, dsb. penyitaan.
-
-98. Pengemukaan kad atau lencana pengenalan rasmi.
-
-99. Pengkompaunan kesalahan.
+95. Senarai benda yang disita. 96- Pelucuthakan benda yang disita. 97. Tiada seorang pun berhak ke atas kos, dsb. penyitaan. 98. Pengemukaan kad atau lencana pengenalan rasmi. 99. Pengkompaunan kesalahan.
 
 100. Pemulaan dan penjalanan pendakwaan.
 
@@ -376,15 +368,7 @@ Jagaan Kesihatan Swasta
 
 113. Pegawai disifatkan sebagai pengkhidmat awam.
 
-114. Perlindungan daripada guaman dan prosiding undang-undang.
-
-115. Kerahsiaan maklumat.
-
-116. Hospital psikiatri swasta, rumah jagaan psikiatri swasta dan pusat kesihatan mental masyarakat swasta.
-
-117. Kesalahan dan penalti am.
-
-118. Pelanggaran perundangan subsidiari.
+114. Perlindungan daripada guaman dan prosiding undang-undang. 115. Kerahsiaan maklumat. 116. Hospital psikiatri swasta, rumah jagaan psikiatri swasta dan pusat kesihatan mental masyarakat swasta. 117. Kesalahan dan penalti am. 118. Pelanggaran perundangan subsidiari.
 
 <!-- page 8 -->
 
@@ -426,7 +410,11 @@ oleh Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan De
 
 <!-- page 10 -->
 
-"bidan berdaftar" ertinya mana-mana orang yang Akta 436. didaftarkan sebagai yang sedemikian di bawah Akta Bidan 1966 dan yang memegang perakuan pengamalan yang sah;
+"bidan berdaftar" ertinya mana-mana orang yang
+
+<!-- marginal: Akta 436. -->
+
+didaftarkan sebagai yang sedemikian di bawah Akta Bidan 1966 dan yang memegang perakuan pengamalan yang sah;
 
 "daftar" ertinya daftar yang dikehendaki disenggara di bawah seksyen 42;
 
@@ -600,7 +588,7 @@ Jagaan Kesihatan Swasta
 
 Rang Undang-Undang
 
-pendaftaran.
+<!-- marginal: pendaftaran. -->
 
 4. (1) Tiada seorang pun boleh menubuhkan, menyenggarakan, mengendahkan atau menyediakan suatu klinik perubatan swasta atau klinik pergigian swasta melainkan jika klinik itu didaftarkan di bawah seksyen
 
@@ -608,9 +596,23 @@ pendaftaran.
 
 (2) Walau apa pun subseksyen (1), klinik perubatan swasta atau klinik pergigian swasta yang menjadi sebahagian daripada premis sesuatu kemudahan jagaan kesihatan swasta berlesen dan yang dengannya klinik itu dihubungkan secara organisasi, pentadbiran dan fizikal tidaklah dikehendaki didaftarkan secara berasingan tetapi hendaklah mematuhi apa-apa piawaian dan keperluan sebagaimana yang ditetapkan.
 
-5. (1) Seseorang yang melanggar seksyen 3 atau 4 adalah melakukan suatu kesalahan dan apabila disabitkan boleh— jagaan kesihatan
+5. (1) Seseorang yang melanggar seksyen 3 atau 4 adalah melakukan suatu kesalahan dan apabila disabitkan boleh—
 
-(a) dalam hal seseorang orang individu— swasta tak berlesen atau (i) didenda tidak melebihi tiga ratus ribu tak berdaftar. ringgit atau dipenjarakan selama tempoh tidak melebihi enam tahun atau kedua- duanya; dan
+<!-- marginal: jagaan -->
+
+<!-- marginal: kesihatan -->
+
+(a) dalam hal seseorang orang individu—
+
+<!-- marginal: swasta tak -->
+
+<!-- marginal: berlesen atau -->
+
+(i) didenda tidak melebihi tiga ratus ribu
+
+<!-- marginal: tak berdaftar. -->
+
+ringgit atau dipenjarakan selama tempoh tidak melebihi enam tahun atau kedua- duanya; dan
 
 (ii) bagi kesalahan yang berterusan, didenda tidak melebihi satu ribu ringgit bagi tiap- tiap hari atau sebahagian daripada sehari selama kesalahan itu berterusan selepas sabitan; dan
 
@@ -632,7 +634,9 @@ Jagaan Kesihatan Swasta
 
 (c) dalam hal suatu pertubuhan, pemegang jawatannya,
 
-adalah juga melakukan kesalahan itu dan apabila disabitkan boleh—
+adalah juga melakukan kesalahan itu dan apabila disabitkan
+
+<!-- marginal: boleh— -->
 
 (aa) didenda tidak melebihi tiga ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam tahun atau kedua-duanya; dan
 
@@ -658,9 +662,25 @@ kejururawatan swasta boleh dikeluarkan kepada jururawat berdaftar jika perkiraan
 
 335.
 
-7. (1) Perakuan pendaftaran untuk menubuhkan, Perakuan pendaftaran menyenggarakan, mengendalikan atau menyediakan suatu klinik perubatan swasta hanya boleh dikeluarkan kepada pengamal perubatan berdaftar. perubatan swasta dan
+7. (1) Perakuan pendaftaran untuk menubuhkan,
 
-(2) Perakuan pendaftaran untuk menubuhkan, pergigian swasta. menyenggarakan, mengendalikan atau menyediakan suatu klinik pergigian swasta hanya boleh dikeluarkan kepada pengamal pergigian berdaftar atau pertubuhan perbadanan yang dinyatakan dalam seksyen 28 Akta Pergigian 1971.
+<!-- marginal: Perakuan -->
+
+<!-- marginal: pendaftaran -->
+
+menyenggarakan, mengendalikan atau menyediakan suatu klinik perubatan swasta hanya boleh dikeluarkan kepada pengamal perubatan berdaftar.
+
+<!-- marginal: perubatan -->
+
+<!-- marginal: swasta dan -->
+
+(2) Perakuan pendaftaran untuk menubuhkan,
+
+<!-- marginal: pergigian -->
+
+<!-- marginal: swasta. -->
+
+menyenggarakan, mengendalikan atau menyediakan suatu klinik pergigian swasta hanya boleh dikeluarkan kepada pengamal pergigian berdaftar atau pertubuhan perbadanan yang dinyatakan dalam seksyen 28 Akta Pergigian 1971.
 
 51.
 
@@ -678,7 +698,13 @@ III
 
 ## ATAU KLINIK PERGIGIAN SWASTA
 
-8. (1) Sesuatu permohonan bagi kelulusan untuk menubuhkan atau menyenggarakan suatu kemudahan atau perkhidmatan jagaan kesihatan swasta selain klinik untuk menubuhkan atau
+8. (1) Sesuatu permohonan bagi kelulusan untuk menubuhkan atau menyenggarakan suatu kemudahan atau perkhidmatan jagaan kesihatan swasta selain klinik
+
+<!-- marginal: untuk -->
+
+<!-- marginal: menubuhkan -->
+
+<!-- marginal: atau -->
 
 <!-- page 21 -->
 
@@ -726,7 +752,11 @@ Perkara yang 9. Dalam memutuskan sama ada untuk memberikan atau tidak kelulusan 
 
 (e) apa-apa perkara lain yang pada pendapatnya adalah relevan.
 
-Keengganan 10. Ketua Pengarah boleh enggan untuk meneruskan untuk penimbangan sesuatu permohonan bagi kelulusan untuk menubuhkan atau menyenggarakan suatu kemudahan atau perkhidmatan jagaan kesihatan swasta selain klinik perubatan swasta atau klinik pergigian swasta, atau b
+Keengganan 10. Ketua Pengarah boleh enggan untuk meneruskan
+
+<!-- marginal: untuk -->
+
+penimbangan sesuatu permohonan bagi kelulusan untuk menubuhkan atau menyenggarakan suatu kemudahan atau perkhidmatan jagaan kesihatan swasta selain klinik perubatan swasta atau klinik pergigian swasta, atau b
 
 <!-- marginal: o -->
 
@@ -778,25 +808,103 @@ permohonan dibuat oleh suatu pertubuhan perbadanan; atau
 
 (iii) ialah pemegang jawatan bagi suatu pertubuhan, jika permohonan dibuat oleh suatu pertubuhan.
 
-Pemberian
+<!-- marginal: Pemberian -->
 
-12. Selepas menerima dan menimbangkan permohonan atau bagi kelulusan untuk menubuhkan atau menyenggarakan keengganan
+12. Selepas menerima dan menimbangkan permohonan
 
-### untuk
+<!-- marginal: atau -->
 
-suatu kemudahan atau perkhidmatan jagaan kesihatan memberikan swasta selain klinik perubatan swasta atau klinik pergigian kelulusan untuk swasta Ketua Pengarah—
+bagi kelulusan untuk menubuhkan atau menyenggarakan
 
-### menubuhkan
+<!-- marginal: keengganan -->
 
-atau
+<!-- marginal: untuk -->
 
-(a) boleh memberikan kelulusan dengan atau tanpa menyenggarakan. apa-apa terma atau syarat;
+suatu kemudahan atau perkhidmatan jagaan kesihatan
+
+<!-- marginal: memberikan -->
+
+swasta selain klinik perubatan swasta atau klinik pergigian
+
+<!-- marginal: kelulusan -->
+
+<!-- marginal: untuk -->
+
+swasta Ketua Pengarah—
+
+<!-- marginal: menubuhkan -->
+
+<!-- marginal: atau -->
+
+(a) boleh memberikan kelulusan dengan atau tanpa
+
+<!-- marginal: menyenggarakan. -->
+
+apa-apa terma atau syarat;
 
 (b) boleh menolak permohonan itu dengan atau tanpa memberikan apa-apa alasan bagi penolakan itu.
 
-Kelulusan
+<!-- marginal: Kelulusan -->
 
-13. (1) Kelulusan berasingan untuk menubuhkan atau berasingan menyenggarakan hendaklah dipohon bagi kemudahan atau untuk menubuhkan perkhidmatan jagaan kesihatan swasta selain klinik atau perubatan swasta atau klinik pergigian swasta yang tidak menyenggarakan kemudahan dihubungkan secara fizikal, pentadbiran atau organisasi. atau perkhidmatan jagaan (2) Kelulusan untuk menubuhkan atau menyenggara- kesihatan kan suatu kemudahan atau perkhidmatan jagaan kesihatan swasta yang tidak swasta selain klinik perubatan swasta atau klinik pergigian dihubungkan secara swasta hendaklah menyatakan jenis kemudahan atau fizikal, perkhidmatan jagaan kesihatan swasta yang baginya pentadbiran atau kelulusan itu diberikan dan maksud yang baginya kelulusan organisasi. itu boleh disenggarakan.
+13. (1) Kelulusan berasingan untuk menubuhkan atau
+
+<!-- marginal: berasingan -->
+
+menyenggarakan hendaklah dipohon bagi kemudahan atau
+
+<!-- marginal: untuk -->
+
+<!-- marginal: menubuhkan -->
+
+perkhidmatan jagaan kesihatan swasta selain klinik
+
+<!-- marginal: atau -->
+
+perubatan swasta atau klinik pergigian swasta yang tidak
+
+<!-- marginal: menyenggarakan -->
+
+<!-- marginal: kemudahan -->
+
+dihubungkan secara fizikal, pentadbiran atau organisasi.
+
+<!-- marginal: atau -->
+
+<!-- marginal: perkhidmatan -->
+
+<!-- marginal: jagaan -->
+
+(2) Kelulusan untuk menubuhkan atau menyenggara-
+
+<!-- marginal: kesihatan -->
+
+kan suatu kemudahan atau perkhidmatan jagaan kesihatan
+
+<!-- marginal: swasta yang -->
+
+<!-- marginal: tidak -->
+
+swasta selain klinik perubatan swasta atau klinik pergigian
+
+<!-- marginal: dihubungkan -->
+
+<!-- marginal: secara -->
+
+swasta hendaklah menyatakan jenis kemudahan atau
+
+<!-- marginal: fizikal, -->
+
+perkhidmatan jagaan kesihatan swasta yang baginya
+
+<!-- marginal: pentadbiran -->
+
+<!-- marginal: atau -->
+
+kelulusan itu diberikan dan maksud yang baginya kelulusan
+
+<!-- marginal: organisasi. -->
+
+itu boleh disenggarakan.
 
 <!-- page 25 -->
 
@@ -938,21 +1046,105 @@ Rang Undang-Undang
 
 (f) pada pendapat Ketua Pengarah, kakitangan adalah tidak mencukupi atau tidak cekap bagi maksud kemudahan atau perkhidmatan jagaan kesihatan swasta itu.
 
-Pemberian
+<!-- marginal: Pemberian -->
 
-19. Apabila menerima dan setelah menimbangkan laporan atau di bawah seksyen 16 dan setelah memberikan pertimbangan keengganan untuk sewajarnya Ketua Pengarah hendaklah mempunyai budi memberikan bicara— lesen.
+19. Apabila menerima dan setelah menimbangkan laporan
+
+<!-- marginal: atau -->
+
+di bawah seksyen 16 dan setelah memberikan pertimbangan
+
+<!-- marginal: keengganan -->
+
+<!-- marginal: untuk -->
+
+sewajarnya Ketua Pengarah hendaklah mempunyai budi
+
+<!-- marginal: memberikan -->
+
+bicara—
+
+<!-- marginal: lesen. -->
 
 (a) untuk memberikan lesen bagi mengendalikan atau menyediakan kemudahan atau perkhidmatan jagaan kesihatan swasta selain klinik perubatan swasta atau klinik pergigian swasta dengan atau tanpa apa-apa terma atau syarat, dan apabila dibayar fi yang ditetapkan; atau
 
 (b) untuk menolak permohonan itu dengan atau tanpa memberikan apa-apa alasan bagi penolakan itu.
 
-Lesen
+<!-- marginal: Lesen -->
 
-20. Sesuatu lesen untuk mengendalikan atau menyediakan hendaklah kemudahan atau perkhidmatan jagaan kesihatan swasta menyatakan jenis selain klinik perubatan swasta atau klinik pergigian swasta kemudahan hendaklah menyatakan jenis kemudahan atau atau perkhidmatan perkhidmataan jagaan kesihatan swasta yang baginya lesen jagaan itu dikeluarkan dan maksud yang baginya lesen itu kesihatan disenggarakan. swasta.
+20. Sesuatu lesen untuk mengendalikan atau menyediakan
 
-Lesen yang
+<!-- marginal: hendaklah -->
 
-21. Lesen yang berasingan hendaklah dipohon bagi berasingan kemudahan atau perkhidmatan jagaan kesihatan swasta bagi kemudahan selain klinik perubatan swasta atau klinik pergigian swasta atau yang tidak dihubungkan secara fizikal, pentadbiran atau perkhidmatan jagaan organisasi. kesihatan swasta yang tidak dihubungkan secara fizikal, pentadbiran atau organisasi.
+kemudahan atau perkhidmatan jagaan kesihatan swasta
+
+<!-- marginal: menyatakan -->
+
+<!-- marginal: jenis -->
+
+selain klinik perubatan swasta atau klinik pergigian swasta
+
+<!-- marginal: kemudahan -->
+
+hendaklah menyatakan jenis kemudahan atau
+
+<!-- marginal: atau -->
+
+<!-- marginal: perkhidmatan -->
+
+perkhidmataan jagaan kesihatan swasta yang baginya lesen
+
+<!-- marginal: jagaan -->
+
+itu dikeluarkan dan maksud yang baginya lesen itu
+
+<!-- marginal: kesihatan -->
+
+disenggarakan.
+
+<!-- marginal: swasta. -->
+
+<!-- marginal: Lesen yang -->
+
+21. Lesen yang berasingan hendaklah dipohon bagi
+
+<!-- marginal: berasingan -->
+
+kemudahan atau perkhidmatan jagaan kesihatan swasta
+
+<!-- marginal: bagi -->
+
+<!-- marginal: kemudahan -->
+
+selain klinik perubatan swasta atau klinik pergigian swasta
+
+<!-- marginal: atau -->
+
+yang tidak dihubungkan secara fizikal, pentadbiran atau
+
+<!-- marginal: perkhidmatan -->
+
+<!-- marginal: jagaan -->
+
+organisasi.
+
+<!-- marginal: kesihatan -->
+
+<!-- marginal: swasta yang -->
+
+<!-- marginal: tidak -->
+
+<!-- marginal: dihubungkan -->
+
+<!-- marginal: secara -->
+
+<!-- marginal: fizikal, -->
+
+<!-- marginal: pentadbiran -->
+
+<!-- marginal: atau -->
+
+<!-- marginal: organisasi. -->
 
 <!-- page 29 -->
 
@@ -1030,13 +1222,17 @@ Rang Undang-Undang
 
 ## DAN KLINIK PERGIGIAN SWASTA
 
-Permohonan
+<!-- marginal: Permohonan -->
 
 25. (1) Sesuatu permohonan bagi pendaftaran klinik
 
-### bagi
+<!-- marginal: bagi -->
 
-perubatan swasta atau klinik pergigian swasta hendaklah pendaftaran. dibuat kepada Ketua Pengarah dalam borang dan mengikut cara yang ditetapkan dan disertakan dengan fi yang ditetapkan dan apa-apa maklumat, butir-butir dan dokumen lain sebagaimana yang ditetapkan.
+perubatan swasta atau klinik pergigian swasta hendaklah
+
+<!-- marginal: pendaftaran. -->
+
+dibuat kepada Ketua Pengarah dalam borang dan mengikut cara yang ditetapkan dan disertakan dengan fi yang ditetapkan dan apa-apa maklumat, butir-butir dan dokumen lain sebagaimana yang ditetapkan.
 
 (2) Pada bila-bila masa selepas menerima permohonan bagi pendaftaran dan sebelum permohonan itu ditentukan, Ketua Pengarah boleh dengan notis bertulis menghendaki pemohon memberikan maklumat, butir-butir atau dokumen tambahan.
 
@@ -1050,15 +1246,27 @@ tanpa menjejaskan pembuatan permohonan baru oleh pemohon.
 
 (4) Sesuatu permohonan boleh ditarik balik pada bila- bila masa sebelum permohonan itu dibenarkan atau ditolak.
 
-### Keengganan
+<!-- marginal: Keengganan -->
 
-26. Ketua Pengarah boleh enggan untuk meneruskan untuk penimbangan sesuatu permohonan bagi pendaftaran, dan
+26. Ketua Pengarah boleh enggan untuk meneruskan
 
-### memproses
+<!-- marginal: untuk -->
 
-### permohonan
+penimbangan sesuatu permohonan bagi pendaftaran, dan
 
-boleh menghendaki supaya permohonan itu dipinda atau bagi dilengkapkan dengan sewajarnya dan dikemukakan semula pendaftaran. atau supaya suatu permohonan baru dikemukakan bagi menggantikannya jika—
+<!-- marginal: memproses -->
+
+<!-- marginal: permohonan -->
+
+boleh menghendaki supaya permohonan itu dipinda atau
+
+<!-- marginal: bagi -->
+
+dilengkapkan dengan sewajarnya dan dikemukakan semula
+
+<!-- marginal: pendaftaran. -->
+
+atau supaya suatu permohonan baru dikemukakan bagi menggantikannya jika—
 
 (a) borang permohonan sebagaimana yang ditetapkan tidak dilengkapkan dengan sewajarnya disebabkan oleh apa-apa peninggalan atau salah perihalan;
 
@@ -1146,15 +1354,7 @@ mengendorskannya pada perakuan perdaftaran atau selainnya secara bertulis.
 
 31. (1) Pemegang lesen atau pemegang perakuan pendaftaran berkenaan dengan sesuatu kemudahan atau perkhidmatan jagaan kesihatan swasta berlesen atau berdaftar hendaklah—
 
-(a) memastikan bahawa kemudahan
-
-<!-- marginal: atau -->
-
-perkhidmatan jagaan kesihatan swasta berlesen atau berdaftar itu disenggarakan
-
-<!-- marginal: atau -->
-
-dikendalikan oleh seorang orang yang bertanggungjawab;
+(a) memastikan bahawa kemudahan atau perkhidmatan jagaan kesihatan swasta berlesen atau berdaftar itu disenggarakan atau dikendalikan oleh seorang orang yang bertanggungjawab;
 
 (b) memeriksa kemudahan atau perkhidmatan jagaan kesihatan swasta berlesen atau berdaftar itu mengikut cara dan sekerap yang ditetapkan;
 
@@ -1188,25 +1388,47 @@ Rang Undang-Undang
 
 adalah juga melakukan kesalahan itu dan apabila disabitkan boleh didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.
 
-### Orang yang
+<!-- marginal: Orang yang -->
 
-32. (1) Orang yang bertanggungjawab bagi sesuatu bertanggung- kemudahan atau perkhidmatan jagaan kesihatan swasta jawab. berlesen atau berdaftar hendaklah memegang apa-apa kelayakan, telah menjalani apa-apa latihan dan mempunyai apa-apa pengalaman sebagaimana yang ditetapkan.
+32. (1) Orang yang bertanggungjawab bagi sesuatu
+
+<!-- marginal: bertanggung- -->
+
+kemudahan atau perkhidmatan jagaan kesihatan swasta
+
+<!-- marginal: jawab. -->
+
+berlesen atau berdaftar hendaklah memegang apa-apa kelayakan, telah menjalani apa-apa latihan dan mempunyai apa-apa pengalaman sebagaimana yang ditetapkan.
 
 (2) Orang yang bertanggungjawab hendaklah menjalankan kewajipan dan tanggungjawab sebagaimana yang ditetapkan.
 
-### Pertukaran
+<!-- marginal: Pertukaran -->
 
-33. (1) Maka hendaklah menjadi kewajipan pemegang orang yang lesen atau pemegang perakuan pendaftaran untuk bertanggung- jawab. memberitahu Ketua Pengarah dalam masa empat belas hari dari masa ia berlaku tentang apa-apa perubahan orang yang bertanggungjawab bagi kemudahan atau perkhidmatan jagaan kesihatan swasta yang dengannya lesennya atau perakuan pendaftarannya ada kaitan, dan kelayakan, latihan dan pengalaman orang yang bertanggungjawab yang baru.
+33. (1) Maka hendaklah menjadi kewajipan pemegang
+
+<!-- marginal: orang yang -->
+
+lesen atau pemegang perakuan pendaftaran untuk
+
+<!-- marginal: bertanggung- -->
+
+<!-- marginal: jawab. -->
+
+memberitahu Ketua Pengarah dalam masa empat belas hari dari masa ia berlaku tentang apa-apa perubahan orang yang bertanggungjawab bagi kemudahan atau perkhidmatan jagaan kesihatan swasta yang dengannya lesennya atau perakuan pendaftarannya ada kaitan, dan kelayakan, latihan dan pengalaman orang yang bertanggungjawab yang baru.
 
 (2) Pemegang lesen atau pemegang perakuan pendaftaran yang tidak mematuhi peruntukan subseksyen
 
 (1) adalah melakukan suatu kesalahan.
 
-Bantuan
+<!-- marginal: Bantuan -->
 
-34. (1) Maka hendaklah menjadi kewajipan pemegang jagaan lesen sesuatu kemudahan atau perkhidmatan jagaan
+34. (1) Maka hendaklah menjadi kewajipan pemegang
 
-### peribadi.
+<!-- marginal: jagaan -->
+
+lesen sesuatu kemudahan atau perkhidmatan jagaan
+
+<!-- marginal: peribadi. -->
 
 kesihatan swasta atau pemegang perakuan pendaftaran untuk memastikan bahawa orang yang memberikan jagaan peribadi mempunyai apa-apa kelayakan, telah menjalani apa-apa latihan dan mempunyai apa-apa pengalaman sebagaimana yang ditentukan oleh Ketua Pengarah.
 
@@ -1236,9 +1458,17 @@ Kemudahan dan Perkhidmatan Jagaan Kesihatan Swasta
 
 Rang Undang-Undang
 
-Rawatan dan
+<!-- marginal: Rawatan dan -->
 
-38. (1) Tiap-tiap kemudahan atau perkhidmatan jagaan perkhidmatan kesihatan swasta berlesen atau berdaftar hendaklah pada kecemasan. setiap masa mampu memulakan, dan menyediakan, langkah-langkah perlu bagi penyelamatan nyawa dan melaksanakan tatacara kecemasan atas mana-mana orang yang menghendaki rawatan atau perkhidmatan sedemikian.
+38. (1) Tiap-tiap kemudahan atau perkhidmatan jagaan
+
+<!-- marginal: perkhidmatan -->
+
+kesihatan swasta berlesen atau berdaftar hendaklah pada
+
+<!-- marginal: kecemasan. -->
+
+setiap masa mampu memulakan, dan menyediakan, langkah-langkah perlu bagi penyelamatan nyawa dan melaksanakan tatacara kecemasan atas mana-mana orang yang menghendaki rawatan atau perkhidmatan sedemikian.
 
 (2) Jenis dan ruang lingkup langkah-langkah kecemasan, tatacara dan perkhidmatan itu hendaklah sebagaimana yang ditetapkan.
 
@@ -1248,7 +1478,17 @@ Rawatan dan
 
 ## KELULUSAN, LESEN DAN PENDAFTARAN
 
-39. (1) Premis yang ada kena-mengena dengan suatu Sekatan penggunaan lesen untuk mengendalikan atau menyediakan kemudahan premis. atau perkhidmatan jagaan kesihatan swasta atau suatu perakuan pendaftaran tidak boleh digunakan bagi apa- apa maksud selain maksud yang berkenaan dengannya lesen atau perakuan pendaftaran itu dikeluarkan, dan maksud-maksud yang semunasabahnya bersampingan dengannya.
+39. (1) Premis yang ada kena-mengena dengan suatu
+
+<!-- marginal: Sekatan -->
+
+<!-- marginal: penggunaan -->
+
+lesen untuk mengendalikan atau menyediakan kemudahan
+
+<!-- marginal: premis. -->
+
+atau perkhidmatan jagaan kesihatan swasta atau suatu perakuan pendaftaran tidak boleh digunakan bagi apa- apa maksud selain maksud yang berkenaan dengannya lesen atau perakuan pendaftaran itu dikeluarkan, dan maksud-maksud yang semunasabahnya bersampingan dengannya.
 
 (2) Jika kemudahan atau perkhidmatan jagaan kesihatan swasta berlesen atau berdaftar itu digunakan mengikut apa-apa cara yang berlawanan dengan subseksyen (1)—
 
@@ -1284,13 +1524,19 @@ adalah juga melakukan kesalahan itu dan apabila disabitkan boleh—
 
 <!-- page 38 -->
 
-### Larangan
+<!-- marginal: Larangan -->
 
 40. (1) Tiada seorang pun boleh membuat apa-apa
 
-### terhadap
+<!-- marginal: terhadap -->
 
-peluasan atau pengubahan struktur atau fungsian kepada peluasan dan pengubahan. mana-mana kemudahan atau perkhidmatan jagaan kesihatan swasta berlesen atau mana-mana bahagiannya yang menjejaskan—
+peluasan atau pengubahan struktur atau fungsian kepada
+
+<!-- marginal: peluasan dan -->
+
+<!-- marginal: pengubahan. -->
+
+mana-mana kemudahan atau perkhidmatan jagaan kesihatan swasta berlesen atau mana-mana bahagiannya yang menjejaskan—
 
 (a) maksud yang baginya kemudahan jagaan kesihatan swasta berlesen itu ditubuhkan, disenggarakan, dikendalikan atau disediakan;
 
@@ -1318,7 +1564,11 @@ Jagaan Kesihatan Swasta Pemindahan
 
 41. (1) Tiada kelulusan untuk menubuhkan atau dsb menyenggarakan atau lesen untuk me ngendalikan atau kelulusan menyediakan kemudahan atau perkhidmatan jagaan lesen dan kesihatan swasta atau perakuan pendaftaran klinik perakuan perubatan swasta atau klinik pergigian swasta boleh dipindah hakmilik, diserah hak atau selainnya dilupuskan melainkan jika kelulusan bertulis Ketua Pengarah diperoleh terlebih dahulu.
 
-(2) Sesuatu permohonan pindah hakmilik, penyerahhakan, atau pelupusan sesuatu kelulusan, lesen atau perakuan pendaftaran hendaklah dibuat kepada Ketua Pengarah dalam borang dan mengikut cara yang ditetapkan dan hendaklah disertakan dengan fi yang ditetapkan.
+(2) Sesuatu permohonan pindah
+
+<!-- marginal: hakmilik, -->
+
+penyerahhakan, atau pelupusan sesuatu kelulusan, lesen atau perakuan pendaftaran hendaklah dibuat kepada Ketua Pengarah dalam borang dan mengikut cara yang ditetapkan dan hendaklah disertakan dengan fi yang ditetapkan.
 
 (3) Ketua Pengarah boleh atas permohonan sedemikian meluluskan pindah hakmilik, penyerahhakan atau pelupusan itu tertakluk kepada apa-apa terma atau syarat yang boleh dikenakan olehnya dengan mengendorskannya pada kelulusan, lesen atau perakuan pendaftaran atau boleh, jika dia berfikir patut, enggan meluluskan pindah hakmilik,. penyerahhakan atau pelupusan itu.
 
@@ -1328,7 +1578,11 @@ Jagaan Kesihatan Swasta Pemindahan
 
 (b) suatu daftar bagi semua klinik perubatan swasta dan klinik pergigian swasta berdaftar di bawah Akta ini; dan
 
-(c) apa-apa daftar atau daftar-daftar lain yang difikirkan oleh Ketua Pengarah patut disenggarakan oleh kemudahan atau perkhidmatan jagaan kesihatan swasta.
+(c) apa-apa daftar atau daftar-daftar lain yang difikirkan oleh Ketua Pengarah patut disenggarakan oleh kemudahan
+
+<!-- marginal: atau -->
+
+perkhidmatan jagaan kesihatan swasta.
 
 (2) Daftar dalam perenggan 1( a) dan (b) hendaklah disifatkan sebagai dokumen awam mengikut pengertian Akta Keterangan 1950 dan hendaklah dibuka untuk Akta 56.
 
@@ -1348,11 +1602,11 @@ pemeriksaan orang awam dan orang awam boleh membuat carian dan mendapatkan cabut
 
 ## PENDAFTARAN
 
-### Tunjuk
+<!-- marginal: Tunjuk -->
 
 43. Ketua Pengarah boleh menyampaikan kepada
 
-### sebab.
+<!-- marginal: sebab. -->
 
 pemegang kelulusan untuk menubuhkan
 
@@ -1360,19 +1614,47 @@ pemegang kelulusan untuk menubuhkan
 
 menyenggarakan atau pemegang lesen di bawah Akta ini suatu notis tunjuk sebab tentang niatnya untuk menggantung atau membatalkan kelulusan atau lesen itu atau keengganannya untuk membaharui lesen itu, mengikut mana-mana yang berkenaan, dan dia boleh menyampaikan kepada pemegang perakuan pendaftaran yang diberikan di bawah Akta ini suatu notis tunjuk sebab tentang niatnya untuk menggantung atau membatalkan pendaftaran itu.
 
-Alasan bagi
+<!-- marginal: Alasan bagi -->
 
-44. Ketua Pengarah boleh mengeluarkan notis tunjuk penggantungan, sebab dalam seksyen 43 jika dia berpuas hati bahawa dsb. adalah suaimanfaat untuk berbuat demikian atas alasan berhubungan
+44. Ketua Pengarah boleh mengeluarkan notis tunjuk
 
-### dengan
+<!-- marginal: penggantungan, -->
 
-bahawa pemegang kelulusan atau pemegang lesen atau pentadbiran pemegang perakuan pendaftaran itu, mengikut mana-mana kemudahan
+sebab dalam seksyen 43 jika dia berpuas hati bahawa
 
-### atau
+<!-- marginal: dsb. -->
 
-yang berkenaan— perkhidmatan jagaan
+adalah suaimanfaat untuk berbuat demikian atas alasan
 
-(a) telah memperoleh kelulusan, lesen atau kesihatan pendaftaran itu melalui apa-apa kenyataan palsu swasta. atau mengelirukan;
+<!-- marginal: berhubungan -->
+
+<!-- marginal: dengan -->
+
+bahawa pemegang kelulusan atau pemegang lesen atau
+
+<!-- marginal: pentadbiran -->
+
+pemegang perakuan pendaftaran itu, mengikut mana-mana
+
+<!-- marginal: kemudahan -->
+
+<!-- marginal: atau -->
+
+yang berkenaan—
+
+<!-- marginal: perkhidmatan -->
+
+<!-- marginal: jagaan -->
+
+(a) telah memperoleh kelulusan, lesen atau
+
+<!-- marginal: kesihatan -->
+
+pendaftaran itu melalui apa-apa kenyataan palsu
+
+<!-- marginal: swasta. -->
+
+atau mengelirukan;
 
 (b) telah melanggar apa-apa terma atau syarat yang dikenakan oleh Ketua Pengarah ke atas kelulusan, lesen atau pendaftaran itu;
 
@@ -1446,33 +1728,69 @@ Rang Undang-Undang
 
 Perubatan Malaysia menurut perenggan 30(ii) Akta Perubatan 1971;
 
-(d) yang ialah doktor pergigian berdaftar, dan yang namanya telah digantung dari Daftar Pergigian Akta 51. Malaysia menurut perenggan 30(1)(b) Akta Pergigian 1971;
+(d) yang ialah doktor pergigian berdaftar, dan yang namanya telah digantung dari Daftar Pergigian
+
+<!-- marginal: Akta 51. -->
+
+Malaysia menurut perenggan 30(1)(b) Akta Pergigian 1971;
 
 (e) yang ialah jururawat berdaftar, dan yang namanya telah dipotong dari Daftar Jururawat
 
-### P.U. (A)
+<!-- marginal: P.U. (A) -->
 
-menurut perenggan 32(a) Peraturan-Peraturan 494/85. Pendaftaran Jururawat 1985;
+menurut perenggan 32(a) Peraturan-Peraturan
 
-(f) yang ialah bidan berdaftar, dan yang namanya telah dipotong dari Daftar Bidan menurut Akta 436. perenggan l3B(a) Akta Bidan 1966;
+<!-- marginal: 494/85. -->
+
+Pendaftaran Jururawat 1985;
+
+(f) yang ialah bidan berdaftar, dan yang namanya telah dipotong dari Daftar Bidan menurut
+
+<!-- marginal: Akta 436. -->
+
+perenggan l3B(a) Akta Bidan 1966;
 
 (g) yang ialah jururawat berdaftar, dan yang namanya telah digantung dari Daftar Jururawat menurut perenggan 32(b) Peraturan-Peraturan Pendaftaran Jururawat 1985; atau
 
 (h) yang ialah bidan berdaftar, dan yang namanya telah digantung dari Daftar Bidan menurut perenggan I3B(b) Akta Bidan 1966.
 
-Alasan bagi 46, Ketua Pengarah boleh mengeluarkan notis dalam penggantungan, seksyen 43 jika pemegang kelulusan atau pemegang lesen pembatalan atau atau pemegang perakuan pendaftaran ialah suatu keengganan pertubuhan perbadanan atau perkongsian atau pertubuhan untuk
+<!-- marginal: Alasan bagi -->
 
-### membaharui
+46, Ketua Pengarah boleh mengeluarkan notis dalam
 
-yang tidak membuang anggota lembaga pengarah, atau kelulusan, pekongsi atau pemegang jawatannya, mengikut mana-
+<!-- marginal: penggantungan, -->
 
-### lesen atau
+seksyen 43 jika pemegang kelulusan atau pemegang lesen
+
+<!-- marginal: pembatalan -->
+
+<!-- marginal: atau -->
+
+atau pemegang perakuan pendaftaran ialah suatu
+
+<!-- marginal: keengganan -->
+
+pertubuhan perbadanan atau perkongsian atau pertubuhan
+
+<!-- marginal: untuk -->
+
+<!-- marginal: membaharui -->
+
+yang tidak membuang anggota lembaga pengarah, atau
+
+<!-- marginal: kelulusan, -->
+
+pekongsi atau pemegang jawatannya, mengikut mana-
+
+<!-- marginal: lesen atau -->
 
 mana yang berkenaan—
 
-### perakuan
+<!-- marginal: perakuan -->
 
-pendaftaran. Akta 50.
+<!-- marginal: pendaftaran. -->
+
+<!-- marginal: Akta 50. -->
 
 (a) yang namanya telah dipotong dari Daftar Perubatan Malaysia menurut perenggan 30(i) Akta Perubatan 1971;
 
@@ -1540,13 +1858,25 @@ atau pemegang perakuan pendaftaran supaya membetulkan keadaan sehingga Ketua Pen
 
 (2) Mana-mana pemegang kelulusan, pemegang lesen atau pemegang perakuan pendaftaran yang terkilan dengan perintah Ketua Pengarah di bawah subseksyen (1) boleh merayu kepada Menteri dalam masa tiga puluh hari dari penyampaian perintah itu kepadanya dan keputusan Menteri untuk mengesahkan, mengubah atau membatalkan perintah Ketua Pengarah adalah muktamad dan konklusif.
 
-Penyerahan
+<!-- marginal: Penyerahan -->
 
-50. Jika kelulusan telah digantung atau dibatalkan atau lesen atau lesen telah digantung atau dibatalkan atau telah enggan perakuan. dibaharui atau pendaftaran telah digantung atau dibatalkan di bawah seksyen 44, 45 dan 46, pemegang kelulusan, pemegang lesen atau pemegang perakuan pendaftaran hendaklah menyerahkan kelulusan atau lesen atau perakuan pendaftaran itu, mengikut mana-mana yang berkenaan, kepada Ketua Pengarah.
+50. Jika kelulusan telah digantung atau dibatalkan atau
 
-### Pemberhentian
+<!-- marginal: lesen atau -->
 
-51. Semasa tempoh penggantungan sesuatu kelulusan, pengendalian. lesen atau pendaftaran atau dari tarikh pembatalan kelulusan, lesen atau pendaftaran, mengikut mana-mana yang berkenaan, pemegang kelulusan, pemegang lesen atau pemegang perakuan pendaftaran itu hendaklah berhenti mengendalikan kemudahan atau perkhidmatan jagaan kesihatan swasta yang berkenaan dengannya kelulusan, lesen atau perakuan pendaftaran itu telah digantung, dibatalkan atau enggan di baharui, mengikut mana-mana yang berkenaan.
+lesen telah digantung atau dibatalkan atau telah enggan
+
+<!-- marginal: perakuan. -->
+
+dibaharui atau pendaftaran telah digantung atau dibatalkan di bawah seksyen 44, 45 dan 46, pemegang kelulusan, pemegang lesen atau pemegang perakuan pendaftaran hendaklah menyerahkan kelulusan atau lesen atau perakuan pendaftaran itu, mengikut mana-mana yang berkenaan, kepada Ketua Pengarah.
+
+<!-- marginal: Pemberhentian -->
+
+51. Semasa tempoh penggantungan sesuatu kelulusan,
+
+<!-- marginal: pengendalian. -->
+
+lesen atau pendaftaran atau dari tarikh pembatalan kelulusan, lesen atau pendaftaran, mengikut mana-mana yang berkenaan, pemegang kelulusan, pemegang lesen atau pemegang perakuan pendaftaran itu hendaklah berhenti mengendalikan kemudahan atau perkhidmatan jagaan kesihatan swasta yang berkenaan dengannya kelulusan, lesen atau perakuan pendaftaran itu telah digantung, dibatalkan atau enggan di baharui, mengikut mana-mana yang berkenaan.
 
 ## BAHAGIAN
 
@@ -1556,9 +1886,33 @@ IX
 
 ## JAGAAN KESIHATAN SWASTA
 
-Perintah bagi
+<!-- marginal: Perintah bagi -->
 
-52. (1) Ketua Pengarah boleh, jika pada hematnya penutupan pengendalian berterusan mana-mana kemudahan atau sementara kemudahan perkhidmatan jagaan kesihatan swasta akan mendatangkan atau bahaya yang serius kepada orang awam, melalui notis perkhidmatan jagaan bertulis mengarahkan supaya kemudahan atau kesihatan swasta.
+52. (1) Ketua Pengarah boleh, jika pada hematnya
+
+<!-- marginal: penutupan -->
+
+pengendalian berterusan mana-mana kemudahan atau
+
+<!-- marginal: sementara -->
+
+<!-- marginal: kemudahan -->
+
+perkhidmatan jagaan kesihatan swasta akan mendatangkan
+
+<!-- marginal: atau -->
+
+bahaya yang serius kepada orang awam, melalui notis
+
+<!-- marginal: perkhidmatan -->
+
+<!-- marginal: jagaan -->
+
+bertulis mengarahkan supaya kemudahan atau
+
+<!-- marginal: kesihatan -->
+
+<!-- marginal: swasta. -->
 
 <!-- page 45 -->
 
@@ -1598,17 +1952,45 @@ adalah juga melakukan kesalahan itu dan apabila disabitkan, boleh—
 
 (bb) dalam hal kesalahan yang berterusan, didenda sebanyak satu ribu ringgit bagi tiap- tiap hari atau sebahagian daripada sehari selama kesalahan itu berterusan selepas sabitan.
 
-Syarat-syarat
+<!-- marginal: Syarat-syarat -->
 
-53. (1) Jika pemegang lesen suatu kemudahan atau penutupan, perkhidmatan jagaan kesihatan swasta, atau pemegang penjualan atau perakuan pendaftaran, berniat untuk menutup, pelupusan memindahkan hakmilik, menjual atau selainnya
+53. (1) Jika pemegang lesen suatu kemudahan atau
 
-### selainnya
+<!-- marginal: penutupan, -->
 
-kemudahan melupuskan kemudahan atau perkhidmatan jagaan atau kesihatan swasta itu, dia hendaklah memberikan notis perkhidmatan jagaan bertulis kepada Ketua Pengarah tidak kurang daripada
+perkhidmatan jagaan kesihatan swasta, atau pemegang
 
-### kesihatan
+<!-- marginal: penjualan -->
 
-tiga puluh hari tentang niatnya itu. swasta.
+<!-- marginal: atau -->
+
+perakuan pendaftaran, berniat untuk menutup,
+
+<!-- marginal: pelupusan -->
+
+memindahkan hakmilik, menjual atau selainnya
+
+<!-- marginal: selainnya -->
+
+<!-- marginal: kemudahan -->
+
+melupuskan kemudahan atau perkhidmatan jagaan
+
+<!-- marginal: atau -->
+
+kesihatan swasta itu, dia hendaklah memberikan notis
+
+<!-- marginal: perkhidmatan -->
+
+<!-- marginal: jagaan -->
+
+bertulis kepada Ketua Pengarah tidak kurang daripada
+
+<!-- marginal: kesihatan -->
+
+tiga puluh hari tentang niatnya itu.
+
+<!-- marginal: swasta. -->
 
 (2) Pemegang lesen atau pemegang perakuan pendaftaran yang lesen atau pendaftarannya telah dibatalkan atau digantung; mengikut mana-mana yang berkenaan, atau yang pembaharuan lesennya telah ditolak, hendaklah memberitahu Ketua Pengarah secara bertulis tentang niatnya untuk menutup, memindahkan hakmilik,
 
@@ -1642,11 +2024,71 @@ Rang Undang-Undang
 
 "pembekalan" ertinya pembekalan dengan cara jualan, pertukaran atau hadiah dan termasuklah menerima, menyimpan atau menstor bagi maksud pembekalan.
 
-Larangan ke 55. Tiada seorang pun boleh membekalkan, bersetuju atas untuk membekalkan, menawarkan untuk membekalkan pembekalan darah asli atau mengemukakan dirinya sebagai sanggup untuk manusia dan membekalkan darah asli manusia atau hasil darah. hasil darah.
+<!-- marginal: Larangan ke -->
 
-Import dan 56. Tanpa menjejaskan seksyen 55, tiada seorang pun eksport darah boleh mengimport atau mengeksport darah asli manusia asli manusia dan hasil atau hasil darah bagi maksud transfusi melainkan jika darah. dia memegang perakuan yang dikeluarkan di bawah perenggan 51(1)(a) atau (b).
+55. Tiada seorang pun boleh membekalkan, bersetuju
 
-Pengeluaran 57. (1) Ketua Pengarah boleh, atas permohonan yang perakuan dibuat dalam borang yang ditetapkan dan apabila dibayar untuk mengimport fi yang ditetapkan, mengeluarkan suatu perakuan yang dan membenarkan mana-mana orang, tertakluk kepada apa- mengeksport apa syarat dan sekatan yang dikenakan— darah asli manusia dan hasil darah.
+<!-- marginal: atas -->
+
+untuk membekalkan, menawarkan untuk membekalkan
+
+<!-- marginal: pembekalan -->
+
+<!-- marginal: darah asli -->
+
+atau mengemukakan dirinya sebagai sanggup untuk
+
+<!-- marginal: manusia dan -->
+
+membekalkan darah asli manusia atau hasil darah.
+
+<!-- marginal: hasil darah. -->
+
+<!-- marginal: Import dan -->
+
+56. Tanpa menjejaskan seksyen 55, tiada seorang pun
+
+<!-- marginal: eksport darah -->
+
+boleh mengimport atau mengeksport darah asli manusia
+
+<!-- marginal: asli manusia -->
+
+<!-- marginal: dan hasil -->
+
+atau hasil darah bagi maksud transfusi melainkan jika
+
+<!-- marginal: darah. -->
+
+dia memegang perakuan yang dikeluarkan di bawah perenggan 51(1)(a) atau (b).
+
+<!-- marginal: Pengeluaran -->
+
+57. (1) Ketua Pengarah boleh, atas permohonan yang
+
+<!-- marginal: perakuan -->
+
+dibuat dalam borang yang ditetapkan dan apabila dibayar
+
+<!-- marginal: untuk -->
+
+<!-- marginal: mengimport -->
+
+fi yang ditetapkan, mengeluarkan suatu perakuan yang
+
+<!-- marginal: dan -->
+
+membenarkan mana-mana orang, tertakluk kepada apa-
+
+<!-- marginal: mengeksport -->
+
+apa syarat dan sekatan yang dikenakan—
+
+<!-- marginal: darah asli -->
+
+<!-- marginal: manusia dan -->
+
+<!-- marginal: hasil darah. -->
 
 (a) untuk mengimport atau mengeksport hasil darah bagi maksud transfusi;
 
@@ -1708,13 +2150,59 @@ Rang Undang-Undang
 
 hendaklah kerap diperiksa dan hendaklah selainnya selamat dan cukup bagi amaun darah dan hasil darah yang hendak disimpan.
 
-Bekalan 60. Tiap-tiap hospital swasta, rumah bersalin swasta dan darah yang pusat jagaan pembedahan ambulatori swasta, dan mana- minimum. mana kemudahan jagaan kesihatan swasta lain yang menyediakan perkhidmatan kecemasan dengan kerap atau secara tetap atau perkhidmatan pembedahan, hendaklah menyenggara bekalan darah minimum dalam premisnya pada setiap masa bagi kegunaan hariannya atau dapat memperoleh darah dengan cepat daripada bank darah berlesen lain atau kemudahan Kerajaan bagi keperluan hariannya.
+<!-- marginal: Bekalan -->
 
-Menyenggara 61. Tiap-tiap hospital swasta, rumah bersalin swasta dan rekod atau pusat jagaan pembedahan ambulatori swasta, dan mana- resit dan mana kemudahan jagaan kesihatan swasta lain yang pelupusan darah. memberikan perkhidmatan kecemasan dengan kerap atau secara tetap atau perkhidmatan pembedahan, hendaklah menyenggarakan rekod yang menunjukkan penerimaan dan pelupusan semua darah dan hasil darah yang diberikan kepada pesakit dalam premisnya.
+60. Tiap-tiap hospital swasta, rumah bersalin swasta dan
 
-62. Orang yang bertanggungjawab bagi atau pemegang Tindak balas transfusi. lesen tiap-tiap hospital swasta, rumah bersalin swasta dan pusat jagaan pembedahan ambulatori swasta, dan mana-mana kemudahan jagaan kesihatan swasta lain yang memberikan perkhidmatan kecemasan dengan kerap atau secara tetap atau perkhidmatan pembedahan, hendaklah menyiasat semua tindak balas transfusi yang berlaku dalam premisnya.
+<!-- marginal: darah yang -->
 
-Syor kepada 63. Orang yang bertanggungjawab bagi atau pemegang Jawatankuasa lesen tiap-tiap hospital swasta, rumah bersalin swasta Penasihat dan pusat jagaan pembedahan ambulatori swasta, dan Perubatan. mana-mana kemudahan jagaan kesihatan swasta lain yang memberikan perkhidmatan kecemasan dengan kerap atau secara tetap atau perkhidmatan pembedahan, hendaklah membuat syor kepada Jawatankuasa Penasihat Perubatan mengenai perbaikan dalam tatacara transfusi pada akhir penyiasatan yang dibuat di bawah seksyen 62.
+pusat jagaan pembedahan ambulatori swasta, dan mana-
+
+<!-- marginal: minimum. -->
+
+mana kemudahan jagaan kesihatan swasta lain yang menyediakan perkhidmatan kecemasan dengan kerap atau secara tetap atau perkhidmatan pembedahan, hendaklah menyenggara bekalan darah minimum dalam premisnya pada setiap masa bagi kegunaan hariannya atau dapat memperoleh darah dengan cepat daripada bank darah berlesen lain atau kemudahan Kerajaan bagi keperluan hariannya.
+
+<!-- marginal: Menyenggara -->
+
+61. Tiap-tiap hospital swasta, rumah bersalin swasta dan
+
+<!-- marginal: rekod atau -->
+
+pusat jagaan pembedahan ambulatori swasta, dan mana-
+
+<!-- marginal: resit dan -->
+
+mana kemudahan jagaan kesihatan swasta lain yang
+
+<!-- marginal: pelupusan -->
+
+<!-- marginal: darah. -->
+
+memberikan perkhidmatan kecemasan dengan kerap atau secara tetap atau perkhidmatan pembedahan, hendaklah menyenggarakan rekod yang menunjukkan penerimaan dan pelupusan semua darah dan hasil darah yang diberikan kepada pesakit dalam premisnya.
+
+62. Orang yang bertanggungjawab bagi atau pemegang
+
+<!-- marginal: Tindak balas -->
+
+<!-- marginal: transfusi. -->
+
+lesen tiap-tiap hospital swasta, rumah bersalin swasta dan pusat jagaan pembedahan ambulatori swasta, dan mana-mana kemudahan jagaan kesihatan swasta lain yang memberikan perkhidmatan kecemasan dengan kerap atau secara tetap atau perkhidmatan pembedahan, hendaklah menyiasat semua tindak balas transfusi yang berlaku dalam premisnya.
+
+<!-- marginal: Syor kepada -->
+
+63. Orang yang bertanggungjawab bagi atau pemegang
+
+<!-- marginal: Jawatankuasa -->
+
+lesen tiap-tiap hospital swasta, rumah bersalin swasta
+
+<!-- marginal: Penasihat -->
+
+dan pusat jagaan pembedahan ambulatori swasta, dan
+
+<!-- marginal: Perubatan. -->
+
+mana-mana kemudahan jagaan kesihatan swasta lain yang memberikan perkhidmatan kecemasan dengan kerap atau secara tetap atau perkhidmatan pembedahan, hendaklah membuat syor kepada Jawatankuasa Penasihat Perubatan mengenai perbaikan dalam tatacara transfusi pada akhir penyiasatan yang dibuat di bawah seksyen 62.
 
 <!-- page 51 -->
 
@@ -1740,17 +2228,19 @@ Kemudahan dan Perkhidmatan Jagaan Kesihatan Swasta
 
 (4) Setiap anggota Jawatankuasa hendaklah memegang jawatan selama tempoh dan tertakluk kepada syarat-syarat yang dinyatakan dalam surat pelantikannya.
 
-### Fungsi
+<!-- marginal: Fungsi -->
 
 66, (1) Jawatankuasa hendaklah mempunyai fungsi yang
 
-### Jawatankuasa
+<!-- marginal: Jawatankuasa -->
 
 berikut:
 
-### Penilaian
+<!-- marginal: Penilaian -->
 
-Kematian Kebangsaan.
+<!-- marginal: Kematian -->
+
+<!-- marginal: Kebangsaan. -->
 
 (a) untuk menerima dan menimbangkan maklumat yang berhubungan dengan kematian boleh nilai;
 
@@ -1774,7 +2264,13 @@ telah menjadi antara sebab kematian;
 
 (3) Dalam melaksanakan fungsi-fungsinya Jawatankuasa tidak boleh meletakkan apa-apa kesalahan ke atas mana-mana pengamal perubatan atau pergigian atau ke atas mana-mana orang lain.
 
-Melaporkan 67. (1) Seseorang yang bertanggungjawab bagi sesuatu kematian kemudahan atau perkhidmatan jagaan kesihatan swasta boleh nilai.
+Melaporkan 67. (1) Seseorang yang bertanggungjawab bagi sesuatu
+
+<!-- marginal: kematian -->
+
+kemudahan atau perkhidmatan jagaan kesihatan swasta
+
+<!-- marginal: boleh nilai. -->
 
 perubatan atau pergigian yang melaksanakan apa-apa anestesia atau tatacara anestetik atau perubatan atau pembedahan atau menggunakan apa-apa teknologi perubatan ke atas pesakit yang kematiannya ialah suatu kematian boleh nilai hendaklah, dengan seberapa segera yang praktik, tetapi dalam mana-mana hal tidak lebih
 
@@ -1808,9 +2304,13 @@ menjalankan tatacara anestetik, perubatan atau pembedahan atau yang menggunakan 
 
 (c) nama kemudahan atau tempat jagaan kesihatan swasta di mana kematian berlaku.
 
-Penyiaran
+<!-- marginal: Penyiaran -->
 
-69. (1) Tertakluk kepada subseksyen (2), Jawatankuasa maklumat. hendaklah, mengikut apa-apa arahan yang diberikan oleh Ketua Pengarah dari semasa ke semasa, menyiarkan apa- apa kesimpulan dan syor yang dicapainya berhubungan dengan pelaksanaan fungsinya kepada orang yang terlibat dengan anestesia, tatacara anestetik, teknologi perubatan, tatacara perubatan, pembedahan atau tatacara pembedahan, dan kepada mana-mana orang atau golongan orang lain yang ditentukan oleh Ketua Pengarah.
+69. (1) Tertakluk kepada subseksyen (2), Jawatankuasa
+
+<!-- marginal: maklumat. -->
+
+hendaklah, mengikut apa-apa arahan yang diberikan oleh Ketua Pengarah dari semasa ke semasa, menyiarkan apa- apa kesimpulan dan syor yang dicapainya berhubungan dengan pelaksanaan fungsinya kepada orang yang terlibat dengan anestesia, tatacara anestetik, teknologi perubatan, tatacara perubatan, pembedahan atau tatacara pembedahan, dan kepada mana-mana orang atau golongan orang lain yang ditentukan oleh Ketua Pengarah.
 
 (2) Tiada penyiaran yang dibuat di bawah subseksyen
 
@@ -1818,11 +2318,25 @@ Penyiaran
 
 (3) Walau apa pun subseksyen (1) dan (2), Pengerusi sesuatu Jawatankuasa hendaklah memberi pengamal perubatan atau pengamal pergigian yang kematian pesakitnya telah diberitahukan sebagai suatu kematian boleh nilai kesimpulan dan syor Jawatankuasa itu.
 
-Kerahsiaan
+<!-- marginal: Kerahsiaan -->
 
-70. (1) Semua maklumat yang diperoleh oleh sesuatu maklumat Jawatankuasa atau Jawatankuasa penilaian kematian yang yang diperoleh ditubuhkan di bawah seksyen 72 oleh suatu kemudahan oleh jagaan kesihatan swasta, atau oleh mana-mana orang lain,
+70. (1) Semua maklumat yang diperoleh oleh sesuatu
 
-### Jawatankuasa.
+<!-- marginal: maklumat -->
+
+Jawatankuasa atau Jawatankuasa penilaian kematian yang
+
+<!-- marginal: yang -->
+
+<!-- marginal: diperoleh -->
+
+ditubuhkan di bawah seksyen 72 oleh suatu kemudahan
+
+<!-- marginal: oleh -->
+
+jagaan kesihatan swasta, atau oleh mana-mana orang lain,
+
+<!-- marginal: Jawatankuasa. -->
 
 dalam penjalanan fungsi Jawatankuasa atau orang itu, hendaklah disifatkan sebagai sulit kecuali—
 
@@ -1884,13 +2398,37 @@ Rang Undang-Undang
 
 (5) Dalam memberikan kebenaran untuk membawa prosiding sedemikian, Hakim boleh mengehadkan masa yang dalam tempohnya kebenaran itu boleh digunakan.
 
-Jawatankuasa
+<!-- marginal: Jawatankuasa -->
 
 72. (1) Walau apa pun seksyen 65, mana-mana
 
-### penilaian
+<!-- marginal: penilaian -->
 
-kemudahan atau perkhidmatan jagaan kesihatan swasta kematian di peringkat boleh menubuhkan di peringkatnya apa-apa jawatankuasa kemudahan penilaian kematian untuk menjalankan fungsi yang serupa atau perkhidmatan sebagaimana dalam seksyen 66. jagaan kesihatan swasta. (2) Orang yang bertanggungjawab bagi sesuatu kemudahan atau perkhidmatan jagaan kesihatan swasta hendaklah melantik berkenaan dengan setiap jawatankuasa penilaian kematian seorang pengerusi yang hendaklah mempunyai kuasa dalam seksyen 68.
+kemudahan atau perkhidmatan jagaan kesihatan swasta
+
+<!-- marginal: kematian di -->
+
+<!-- marginal: peringkat -->
+
+boleh menubuhkan di peringkatnya apa-apa jawatankuasa
+
+<!-- marginal: kemudahan -->
+
+penilaian kematian untuk menjalankan fungsi yang serupa
+
+<!-- marginal: atau -->
+
+<!-- marginal: perkhidmatan -->
+
+sebagaimana dalam seksyen 66.
+
+<!-- marginal: jagaan -->
+
+<!-- marginal: kesihatan -->
+
+<!-- marginal: swasta. -->
+
+(2) Orang yang bertanggungjawab bagi sesuatu kemudahan atau perkhidmatan jagaan kesihatan swasta hendaklah melantik berkenaan dengan setiap jawatankuasa penilaian kematian seorang pengerusi yang hendaklah mempunyai kuasa dalam seksyen 68.
 
 (3) Tertakluk kepada subseksyen (4), sesuatu jawatankuasa penilaian kematian di bawah seksyen ini hendaklah, mengikut apa-apa arahan yang boleh diberikan dari semasa ke semasa, oleh orang yang bertanggungjawab, mengumumkan kepada orang dalam premis itu yang berkaitan dengan anestesia, tatacara anestetik, teknologi perubatan, tatacara perubatan, pembedahan atau tatacara pembedahan dan mana-mana orang atau golongan orang lain sebagaimana yang dinyatakan oleh orang yang bertanggungjawab itu, apa-apa kesimpulan dan syor yang dicapai oleh Jawtankuasa itu dalam pelaksanaan fungsinya.
 
@@ -1952,9 +2490,23 @@ disediakan.
 
 Rang Undang-Undang
 
-Kuasa Ketua
+<!-- marginal: Kuasa Ketua -->
 
-75. (1) Jika Ketua Pengarah berpendapat bahawa apa- Pengarah apa kehendak yang ditetapkan atau apa-apa piawaian yang untuk memberikan ditetapkan yang terpakai bagi sesuatu kemudahan atau arahan. perkhidmatan jagaan kesihatan swasta tidak dipatuhi oleh kemudahan atau perkhidmatan itu, Ketua Pengarah boleh memberi pemegang kelulusan, pemegang lesen atau pemegang perakuan pendaftaran berkenaan dengan kemudahan atau perkhidmatan itu apa-apa arahan bertulis sebagaimana yang difikirkannya perlu bagi pematuhan kehendak atau piawaian itu dan hendaklah menyatakan dalam arahan itu tempoh pemegang kelulusan, pemegang lesen atau pemegang perakuan pendaftaran dikehendaki mematuhi arahan-arahan itu.
+75. (1) Jika Ketua Pengarah berpendapat bahawa apa-
+
+<!-- marginal: Pengarah -->
+
+apa kehendak yang ditetapkan atau apa-apa piawaian yang
+
+<!-- marginal: untuk -->
+
+<!-- marginal: memberikan -->
+
+ditetapkan yang terpakai bagi sesuatu kemudahan atau
+
+<!-- marginal: arahan. -->
+
+perkhidmatan jagaan kesihatan swasta tidak dipatuhi oleh kemudahan atau perkhidmatan itu, Ketua Pengarah boleh memberi pemegang kelulusan, pemegang lesen atau pemegang perakuan pendaftaran berkenaan dengan kemudahan atau perkhidmatan itu apa-apa arahan bertulis sebagaimana yang difikirkannya perlu bagi pematuhan kehendak atau piawaian itu dan hendaklah menyatakan dalam arahan itu tempoh pemegang kelulusan, pemegang lesen atau pemegang perakuan pendaftaran dikehendaki mematuhi arahan-arahan itu.
 
 (2) Jika pada pendapat Ketua Pengarah kegunaan apa- apa perkakas, perlengkapan, kelengkapan, alat, bahan atau apa-apa kegiatan di sesuatu kemudahan atau perkhidmatan jagaan kesihatan swasta atau cara apa-apa darah, hasil darah, tisu atau bendalir manusia atau apa-apa hasil badan manusia, bahan atau sampel yang digunakan, dikumpul, ditangani, distor atau diangkut, atau apa-apa kegiatan lain yang dijalankan adalah memudaratkan kesihatan dan keselamatan mana-mana orang di dalamnya atau selainnya tidak sesuai bagi maksud ia digunakan, Ketua Pengarah boleh, dengan notis, mengarahkan pemegang kelulusan, pemegang lesen atau pemegang perakuan pendaftaran, berkenaan dengan kemudahan atau perkhidmatan itu supaya berhenti menggunakan perkakas, perlengkapan, kelengkapan, alat atau bahan itu atau menghentikan kegiatan itu.
 
@@ -1980,7 +2532,9 @@ arahan Ketua Pengarah di bawah seksyen ini adalah melakukan suatu kesalahan dan 
 
 (ii) dalam hal kesalahan yang berterusan, didenda sebanyak lima ribu ringgit bagi tiap-tiap hari atau sebahagian daripada sehari selama kesalahan itu berterusan selepas sabitan.
 
-(5) Jika suatu kesalahan di bawah seksyen ini dilakukan oleh suatu pertubuhan perbadanan, perkongsian atau pertubuhan—
+(5) Jika suatu kesalahan di bawah seksyen ini dilakukan oleh suatu pertubuhan perbadanan, perkongsian atau
+
+<!-- marginal: pertubuhan— -->
 
 (a) dalam hal suatu pertubuhan perbadanan, orang yang bertanggungjawab bagi pertubuhan perbadanan itu;
 
@@ -1988,7 +2542,9 @@ arahan Ketua Pengarah di bawah seksyen ini adalah melakukan suatu kesalahan dan 
 
 (c) dalam hal suatu pertubuhan, pemegang jawatannya,
 
-adalah juga melakukan kesalahan itu dan apabila disabitkan boleh—
+adalah juga melakukan kesalahan itu dan apabila disabitkan
+
+<!-- marginal: boleh— -->
 
 (aa) didenda tidak melebihi dua puluh ribu ringgit atau dipenjarakan selama tempoh tidak
 
@@ -2000,7 +2556,37 @@ melebihi empat bulan atau kedua-duanya; dan
 
 (bb) dalam hal kesalahan yang berterusan, didenda sebanyak satu ribu ringgit bagi tiap- tiap hari atau sebahagian daripada sehari selama kesalahan itu berterusan selepas sabitan.
 
-76. Ketua Pengarah boleh mengeluarkan arahan, perintah Kuasa Ketua Pengarah atau garis panduan berhubungan dengan kualiti dan untuk piawaian kemudahan atau perkhidmatan jagaan kesihatan mengeluarkan arahan, swasta sebagairnana yang difikirkanya perlu. perintah atau garis panduan berhubungan dengan jaminan kualiti.
+76. Ketua Pengarah boleh mengeluarkan arahan, perintah
+
+<!-- marginal: Kuasa Ketua -->
+
+<!-- marginal: Pengarah -->
+
+atau garis panduan berhubungan dengan kualiti dan
+
+<!-- marginal: untuk -->
+
+piawaian kemudahan atau perkhidmatan jagaan kesihatan
+
+<!-- marginal: mengeluarkan -->
+
+<!-- marginal: arahan, -->
+
+swasta sebagairnana yang difikirkanya perlu.
+
+<!-- marginal: perintah atau -->
+
+<!-- marginal: garis -->
+
+<!-- marginal: panduan -->
+
+<!-- marginal: berhubungan -->
+
+<!-- marginal: dengan -->
+
+<!-- marginal: jaminan -->
+
+<!-- marginal: kualiti. -->
 
 ## BAHAGIAN XIV
 
@@ -2008,9 +2594,13 @@ melebihi empat bulan atau kedua-duanya; dan
 
 ## JAWATANKUASA PENASIHAT
 
-Lembaga
+<!-- marginal: Lembaga -->
 
-77. (1) Pemegang lesen sesuatu hospital swasta, rumah Pengurusan. bersalin swasta, pusat jagaan ambulatori swasta, hospis swasta, hospital psikiatri swasta atau mana-mana kemudahan atau perkhidmatan jagaan kesihatan swasta lain sebagaimana yang dinyatakan oleh Menteri hendaklah menubuhkan suatu Lembaga Pengurusan yang dua daripada anggotanya hendaklah dari Jawatankuasa Penasihat Perubatan yang ditubuhkan di bawah perenggan 78(b) atau 79(b)
+77. (1) Pemegang lesen sesuatu hospital swasta, rumah
+
+<!-- marginal: Pengurusan. -->
+
+bersalin swasta, pusat jagaan ambulatori swasta, hospis swasta, hospital psikiatri swasta atau mana-mana kemudahan atau perkhidmatan jagaan kesihatan swasta lain sebagaimana yang dinyatakan oleh Menteri hendaklah menubuhkan suatu Lembaga Pengurusan yang dua daripada anggotanya hendaklah dari Jawatankuasa Penasihat Perubatan yang ditubuhkan di bawah perenggan 78(b) atau 79(b)
 
 (2) Jika sesuatu hospital swasta, rumah bersalin swasta, pusat jagaan ambulatori swasta, hospis swasta, hospital psikiatri swasta atau mana-mana kemudahan atau perkhidmatan jagaan kesihatan swasta lain sebagaimana yang dinyatakan oleh Menteri menyediakan atau bertujuan untuk menyediakan perkhidmatan perubatan dan pergigian kedua-duanya, pemegang lesen kemudahan atau perkhidmatan itu hendaklah menubuhkan suatu Lembaga Pengurusan yang dua daripada anggotanya hendaklah dari Jawatankuasa Penasihat Perubatan dan Pergigian yang ditubuhkan di bawah perenggan 78(c).
 
@@ -2044,9 +2634,17 @@ memastikan bahawa—
 
 Rang Undang-Undang
 
-Jawatankuasa
+<!-- marginal: Jawatankuasa -->
 
-79. Pemegang lesen sesuatu rumah bersalin swasta Penasihat hendaklah memastikan bahawa— Jagaan Perbidanan.
+79. Pemegang lesen sesuatu rumah bersalin swasta
+
+<!-- marginal: Penasihat -->
+
+hendaklah memastikan bahawa—
+
+<!-- marginal: Jagaan -->
+
+<!-- marginal: Perbidanan. -->
 
 (a) pengurusan perubatan pesakit terletak hak pada pengamal perubatan berdaftar;
 
@@ -2056,13 +2654,17 @@ Jawatankuasa
 
 (d) jika jagaan perbidanan disediakan oleh pengamal perubatan berdaftar, perenggan 78(b) hendaklah terpakai.
 
-Jawatankuasa
+<!-- marginal: Jawatankuasa -->
 
 80. (1) Pemegang lesen sesuatu rumah
 
 <!-- marginal: jagaan -->
 
-Penasihat kejururawatan swasta hendaklah memastikan bahawa— Kejururawatan.
+<!-- marginal: Penasihat -->
+
+kejururawatan swasta hendaklah memastikan bahawa—
+
+<!-- marginal: Kejururawatan. -->
 
 (a) pengurusan perubatan pesakit terletak hak pada pengamal perubatan berdaftar atau pengamal perubatan pelawat berdaftar yang menjaga pesakit di premis itu;
 
@@ -2070,9 +2672,21 @@ Penasihat kejururawatan swasta hendaklah memastikan bahawa— Kejururawatan.
 
 (c) pengamal perubatan pelawat berdaftar ialah anggota Jawatankuasa Penasihat Jawatankuasa Kejururawatan itu.
 
-Penalti bagi
+<!-- marginal: Penalti bagi -->
 
-81. Mana-mana orang yang melanggar mana-mana ketakpatuhan peruntukan Bahagian ini adalah melakukan suatu mana-mana kesalahan. peruntukan Bahagian ini.
+81. Mana-mana orang yang melanggar mana-mana
+
+<!-- marginal: ketakpatuhan -->
+
+peruntukan Bahagian ini adalah melakukan suatu
+
+<!-- marginal: mana-mana -->
+
+kesalahan.
+
+<!-- marginal: peruntukan -->
+
+<!-- marginal: Bahagian ini. -->
 
 <!-- page 63 -->
 
@@ -2254,7 +2868,23 @@ selama tempoh tidak melebihi tiga bulan atau kedua-duanya; atau
 
 adalah juga melakukan kesalahan itu dan apabila disabitkan boleh didenda tidak melebihi sepuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga bulan atau kedua-duanya.
 
-85. (1) Sesuatu organisasi jagaan yang diuruskan atau Maklumat oleh tuan punya sesuatu organisasi jagaan yang diuruskan yang organisasi mempunyai kontrak atau perkiraan dengan pemegang lesen jagaan yang diuruskan. suatu kemudahan atau perkhidmatan jagaan kesihatan swasta atau pemegang perakuan pendaftaran hendaklah memberikan apa-apa maklumat yang berhubungan dengan organisas: itu sebagaimana yang dikehendaki oleh Ketua Pengarah.
+85. (1) Sesuatu organisasi jagaan yang diuruskan atau
+
+<!-- marginal: Maklumat -->
+
+<!-- marginal: oleh -->
+
+tuan punya sesuatu organisasi jagaan yang diuruskan yang
+
+<!-- marginal: organisasi -->
+
+mempunyai kontrak atau perkiraan dengan pemegang lesen
+
+<!-- marginal: jagaan yang -->
+
+<!-- marginal: diuruskan. -->
+
+suatu kemudahan atau perkhidmatan jagaan kesihatan swasta atau pemegang perakuan pendaftaran hendaklah memberikan apa-apa maklumat yang berhubungan dengan organisas: itu sebagaimana yang dikehendaki oleh Ketua Pengarah.
 
 (2) Sesuatu organisasi jagaan yang diuruskan atau tuan punya sesuatu organisasi jagaan yang diuruskan yang tidak memberikan maklumat di bawah subseksyen (1) adalah melakukan suatu kesalahan dan apabila disabitkan boleh—
 
@@ -2310,7 +2940,23 @@ Rang Undang-Undang
 
 (3) Ketua Pengarah hendaklah mempunyai dan boleh menjalankan semua kuasa yang terletak hak pada seseorang Inspektor di bawah Bahagian ini.
 
-88. (1) Seseorang Inspektor hendaklah mempunyai kuasa Kuasa Inspektor untuk memasuki dan memeriksa, pada bila-bila masa, untuk masuk mana-mana kemudahan jagaan kesihatan swasta berlesen dan memeriksa. atau berdaftar atau mana-mana premis yang dia syak atau mempunyai sebab untuk percaya adalah digunakan sebagai kemudahan jagaan kesihatan swasta atau mana- mana premis lain yang dalam.atau darinya perkhidmatan jagaan kesihatan swasta disediakan tanpa lesen atau perakuan pendaftaran.
+88. (1) Seseorang Inspektor hendaklah mempunyai kuasa
+
+<!-- marginal: Kuasa -->
+
+<!-- marginal: Inspektor -->
+
+untuk memasuki dan memeriksa, pada bila-bila masa,
+
+<!-- marginal: untuk masuk -->
+
+mana-mana kemudahan jagaan kesihatan swasta berlesen
+
+<!-- marginal: dan -->
+
+<!-- marginal: memeriksa. -->
+
+atau berdaftar atau mana-mana premis yang dia syak atau mempunyai sebab untuk percaya adalah digunakan sebagai kemudahan jagaan kesihatan swasta atau mana- mana premis lain yang dalam.atau darinya perkhidmatan jagaan kesihatan swasta disediakan tanpa lesen atau perakuan pendaftaran.
 
 (2) Dalam penjalanan sesuatu pemeriksaan di bawah seksyen ini Inspektor itu boleh—
 
@@ -2454,23 +3100,55 @@ Kemudahan dan Perkhidmatan Jagaan Kesihatan Swasta
 
 kemudahan jagaan kesihatan swasta atau bagi menyediakan perkhidmatan jagaan swasta dengan melanggar Akta ini.
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-92. (1) Seseorang Inspektor yang membuat suatu menghendaki penyiasatan di bawah seksyen 89 dan 100 adalah maklumat dan mempunyai kuasa untuk menghendaki maklumat, sama memeriksa ada secara lisan atau bertulis, daripada mana-mana orang orang. yang mengetahui fakta dan hal keadaan perkara yang sedang disiasat.
+92. (1) Seseorang Inspektor yang membuat suatu
+
+<!-- marginal: menghendaki -->
+
+penyiasatan di bawah seksyen 89 dan 100 adalah
+
+<!-- marginal: maklumat -->
+
+<!-- marginal: dan -->
+
+mempunyai kuasa untuk menghendaki maklumat, sama
+
+<!-- marginal: memeriksa -->
+
+ada secara lisan atau bertulis, daripada mana-mana orang
+
+<!-- marginal: orang. -->
+
+yang mengetahui fakta dan hal keadaan perkara yang sedang disiasat.
 
 (2) Mana-mana orang yang, apabila dikehendaki oleh seseorang Inspektor supaya memberikan maklumat di bawah seksyen ini, enggan mematuhi kehendak itu atau memberikan sebagai maklumat benar apa-apa maklumat yang dia tahu atau mempunyai sebab untuk percaya adalah palsu, tidak benar atau tidak betul, keseluruhannya atau sebahagiannya, adalah melakukan suatu kesalahan.
 
 (3) Jika apa-apa maklumat yang diberikan di bawah subseksyen (2) dibuktikan palsu, tidak benar atau tidak betul, keseluruhannya atau sebahagiannya, tidaklah menjadi suatu pembelaan dakwaan bahawa maklumat itu atau mana- mana bahagiannya telah disalahtafsirkan atau diberikan dengan tidak sengaja atau tanpa niat jenayah atau tipuan.
 
-(4) Seseorang Inspektor yang membuat suatu penyiasatan di bawah Akta ini boleh menjalankan mana- N.M.B. mana atau semua kuasa yang diberikan oleh seksyen 111
+(4) Seseorang Inspektor yang membuat suatu penyiasatan di bawah Akta ini boleh menjalankan mana-
+
+<!-- marginal: N.M.B. -->
+
+mana atau semua kuasa yang diberikan oleh seksyen 111
 
 ## Bab 6.
 
 Kanun Tatacara Jenayah, dan seksyen 112 hingga 116 Kanun itu hendaklah terpakai bagi pernyataan yang dibuat oleh orang-orang yang diperiksa dalam penjalanan penyiasatan itu.
 
-Kewajipan
+<!-- marginal: Kewajipan -->
 
-93. Bilamana seseorang Inspektor menjalankan kuasanya untuk di bawah seksyen 88, 89, 90, 91 dan 92 maka adalah membantu Inspektor. menjadi kewajipan pemegang lesen, atau pemegang perakuan pendaftaran berkenaan dengan sesuatu kemudahan atau perkhidmatan jagaan kesihatan swasta
+93. Bilamana seseorang Inspektor menjalankan kuasanya
+
+<!-- marginal: untuk -->
+
+di bawah seksyen 88, 89, 90, 91 dan 92 maka adalah
+
+<!-- marginal: membantu -->
+
+<!-- marginal: Inspektor. -->
+
+menjadi kewajipan pemegang lesen, atau pemegang perakuan pendaftaran berkenaan dengan sesuatu kemudahan atau perkhidmatan jagaan kesihatan swasta
 
 <!-- page 74 -->
 
@@ -2482,11 +3160,19 @@ berlesen atau berdaftar, orang yang bertanggungjawab bagi dan seseorang pekerja 
 
 (c) untuk mengemukakan apa-apa buku, rekod atau dokumen yang dalam milikan atau jagaannya atau di bawah kawalannya atau yang dia berkuasa untuk memberikannya berhubungan dengan hal ehwal kemudahan atau perkhidmatan atau premis jagaan kesihatan swasta itu.
 
-Kesalahan
+<!-- marginal: Kesalahan -->
 
-94. Seseorang yang— berhubungan dengan
+94. Seseorang yang—
 
-(a) dengan sengaja melengahkan, menggalang atau pemeriksaan. menghalang seseorang Inspektor;
+<!-- marginal: berhubungan -->
+
+<!-- marginal: dengan -->
+
+(a) dengan sengaja melengahkan, menggalang atau
+
+<!-- marginal: pemeriksaan. -->
+
+menghalang seseorang Inspektor;
 
 (b) tidak menyediakan kemudahan atau bantuan, atau enggan memberikan maklumat, yang dikehendaki oleh seseorang Inspektor; atau
 
@@ -2598,7 +3284,13 @@ yang ditetapkan, dan tiada seorang pun boleh dipaksa untuk membenarkan masuk ke 
 
 Rang Undang-Undang 78
 
-99. (1) Ketua Pengarah boleh mengkompaunkan apa- Pengkompaunan kesalahan. apa kesalahan yang dilakukan oleh suatu kemudahan atau perkhidmatan jagaan kesihatan swasta di bawah Akta ini yang ditetapkan sebagai kesalahan yang boleh dikompaunkan dengan membuat suatu tawaran bertulis dibuat kepada pemegang kelulusan, pemegang lesen atau pemegang perakuan pendaftaran atau orang yang bertanggungjawab bagi sesuatu kemudahan atau perkhidmatan jagaan kesihatan swasta untuk mengkompaun kesalahan itu apabila dibayar kepada Ketua Pengarah—
+99. (1) Ketua Pengarah boleh mengkompaunkan apa-
+
+<!-- marginal: Pengkompaunan -->
+
+<!-- marginal: kesalahan. -->
+
+apa kesalahan yang dilakukan oleh suatu kemudahan atau perkhidmatan jagaan kesihatan swasta di bawah Akta ini yang ditetapkan sebagai kesalahan yang boleh dikompaunkan dengan membuat suatu tawaran bertulis dibuat kepada pemegang kelulusan, pemegang lesen atau pemegang perakuan pendaftaran atau orang yang bertanggungjawab bagi sesuatu kemudahan atau perkhidmatan jagaan kesihatan swasta untuk mengkompaun kesalahan itu apabila dibayar kepada Ketua Pengarah—
 
 (a) apa-apa jumlah wang yang dinyatakan dalam tawaran itu tetapi yang tidak lebih daripada lima puluh peratus daripada denda maksimum yang boleh dikenakan ke atas pemegang kelulusan atau pemegang lesen atau pemegang perakuan pendaftaran itu jika pemegang kelulusan atau pemegang lesen atau pemegang perakuan pendaftaran telah disabitkan atas kesalahan itu; dan
 
@@ -2676,9 +3368,23 @@ Rang Undang-Undang
 
 (3) Keputusan Menteri di bawah seksyen ini adalah muktamad dan konklusif.
 
-Kuasa
+<!-- marginal: Kuasa -->
 
-102. Menteri boleh, dari semasa ke semasa, memberi Menteri Ketua Pengarah atau mana-mana pegawai yang dilantik untuk di bawah Akta ini arahan-arahan am yang tidak tak mengeluarkan arahan am. konsisten dengan peruntukan Akta ini tentang penjalanan kuasa dan budi bicara yang diberikan kepada dan kewajipan yang dikehendaki ditunaikan oleh Ketua Pengarah atau pegawai di bawah Akta ini.
+102. Menteri boleh, dari semasa ke semasa, memberi
+
+<!-- marginal: Menteri -->
+
+Ketua Pengarah atau mana-mana pegawai yang dilantik
+
+<!-- marginal: untuk -->
+
+di bawah Akta ini arahan-arahan am yang tidak tak
+
+<!-- marginal: mengeluarkan -->
+
+<!-- marginal: arahan am. -->
+
+konsisten dengan peruntukan Akta ini tentang penjalanan kuasa dan budi bicara yang diberikan kepada dan kewajipan yang dikehendaki ditunaikan oleh Ketua Pengarah atau pegawai di bawah Akta ini.
 
 <!-- page 81 -->
 
@@ -2742,7 +3448,7 @@ sosial atau sumbangan kebajikan yang hendaklah diberikan, dan cara ia hendaklah 
 
 (4) Mana-mana kemudahan atau perkhidmatan jagaan kesihatan swasta yang tidak mematuhi subseksyen (3) adalah melakukan suatu kesalahan.
 
-Jadual fi.
+<!-- marginal: Jadual fi. -->
 
 106. (1) Menteri boleh membuat peraturan bagi menetapkan jadual fi bagi mana-mana atau semua kemudahan atau perkhidmatan jagaan kesihatan swasta atau kemudahan atau perkhidmatan yang berhubungan dengan kesihatan.
 
@@ -2752,9 +3458,19 @@ Jadual fi.
 
 (4) Sesuatu kemudahan atau perkhidmatan jagaan kesihatan swasta yang tidak mematuhi mana-mana jadual fi yang ditetapkan di bawah seksyen ini adalah melakukan suatu kesalahan.
 
-Kuasa untuk
+<!-- marginal: Kuasa untuk -->
 
-107. (1) Menteri boleh membuat peraturan-peraturan membuat yang pada hematnya perlu atau suaimanfaat bagi peraturan- peraturan. melaksanakan peruntukan Akta ini.
+107. (1) Menteri boleh membuat peraturan-peraturan
+
+<!-- marginal: membuat -->
+
+yang pada hematnya perlu atau suaimanfaat bagi
+
+<!-- marginal: peraturan- -->
+
+<!-- marginal: peraturan. -->
+
+melaksanakan peruntukan Akta ini.
 
 <!-- page 83 -->
 
@@ -2786,11 +3502,7 @@ sedemikian yang dipindahkan dari kemudahan atau perkhidmatan jagaan kesihatan sw
 
 (i) untuk menetapkan bilangan minimum kakitangan perubatan, kakitangan pergigian, kakitangan kejururawatan, kakitangan teknikal dan kategori lain kakitangan yang diambil kerja atau diguna khidmat di kemudahan atau perkhidmatan jagaan kesihatan swasta dan kelayakan dan pengalaman minimum yang dikehendaki daripada kakitangan itu;
 
-(j) untuk menetapkan piawaian minimum bagi perkakas, perlengkapan, kelengkapan, alat, bahan dan benda lain yang disediakan dan disenggarakan oleh kemudahan
-
-<!-- marginal: atau -->
-
-perkhidmatan jagaan kesihatan swasta;
+(j) untuk menetapkan piawaian minimum bagi perkakas, perlengkapan, kelengkapan, alat, bahan dan benda lain yang disediakan dan disenggarakan oleh kemudahan atau perkhidmatan jagaan kesihatan swasta;
 
 (k) untuk menetapkan cara atau jenis latihan atau pendidikan teknik, perubatan, pergigian atau kejururawatan lanjutan atau apa-apa jenis pendidikan profesional jagaan kesihatan lain yang hendaklah disediakan oleh kemudahan atau perkhidmatan jagaan kesihatan swasta kepada kakitangan mereka atau mana-mana orang lain yang diambil kerja atau diguna khidmat oleh kemudahan atau perkhidmatan jagaan kesihatan swasta itu;
 
@@ -2822,11 +3534,7 @@ dan pembinaan kemudahan atau perkhidmatan jagaan kesihatan swasta;
 
 Rang Undang-Undang
 
-perkhidmatan jagaan kesihatan
-
-<!-- marginal: swasta -->
-
-menyenggarakan apa-apa buku, rekod atau daftar yang perlu bagi penguatkuasaan dan pentadbiran sepatutnya Akta ini;
+perkhidmatan jagaan kesihatan swasta menyenggarakan apa-apa buku, rekod atau daftar yang perlu bagi penguatkuasaan dan pentadbiran sepatutnya Akta ini;
 
 (u) untuk menghendaki pemberian maklumat perangkaan tertentu kepada Ketua Pengarah dan cara bagi memberikan maklumat itu;
 
@@ -2868,11 +3576,7 @@ Kemudahan dan Perkhidmatan 87 Jagaan Kesihatan Swasta
 
 Rang Undang-Undang
 
-(ii) untuk menetapkan perkara-perkara yang berhubungan dengan hak-hak
-
-<!-- marginal: pesakit -->
-
-berhubungan dengan perkhidmatan jagaan kesihatan yang disediakan oleh mana-mana kemudahan atau perkhidmatan jagaan kesihatan, termasuklah kebersendirian pesakit, kerahsiaan maklumat dan capaian laporan dan rekod perubatan pesakit;
+(ii) untuk menetapkan perkara-perkara yang berhubungan dengan hak-hak pesakit berhubungan dengan perkhidmatan jagaan kesihatan yang disediakan oleh mana-mana kemudahan atau perkhidmatan jagaan kesihatan, termasuklah kebersendirian pesakit, kerahsiaan maklumat dan capaian laporan dan rekod perubatan pesakit;
 
 (jj) untuk menetapkan piawaian dan kehendak- kehendak minimum bagi semua kemudahan jagaan kesihatan, perkhidmatan jagaan kesihatan dan perkhidmatan yang berhubungan dengan kesihatan berhubungan dengan mana-mana perkhidmatan jagaan kesihatan yang disediakan oleh mana-mana profesional jagaan kesihatan termasuklah perkhidmatan jagaan perubatan, perkhidmatan kejururawatan, perkhidmatan kesihatan berkaitan, perkhidmatan teknikal, perkhidmatan yang berhubungan dengan semua disiplin perubatan dan pembedahan termasuklah obstetrik, ginekologi, anestesia, pembedahan, psikiatri, pediatrik, perkhidmatan fannasi, jagaan kritikal atau perkhidmatan jagaan intensif, perkhidmatan yang berhubungan dengan bekalan perubatan, perkhidmatan tentang diet, perkhidmatan linen dan dobi, bekalan pembedahan, perkhidmatan transfusi darah, perkhidmatan bank darah, perkhidmatan rawatan hemodialisis, perkhidmatan pemulihan, perkhidmatan pesakit luar dan pesakit dalam, perkhidmatan jagaan ambulatori, perkhidmatan penangkapan imej radiologi atau diagnostik, perkhidmatan radioterapi dan radio isotop, perkhidmatan teleperubatan, perkhidmatan rumah jagaan kejururawatan, perkhidmatan jagaan hospis dan pelegaan, perkhidmatan yang berhubungan dengan autopsi dan bilik mayat, perkhidmatan ambulans, perkhidmatan sokongan dan sampingan lain dan semua dasar dan program lain yang berhubungan dengan perkhidmatan jagaan kesihatan yang disediakan dan disenggarakan oleh suatu kemudahan atau perkhidmatan jagaan kesihatan swasta;
 
@@ -2928,9 +3632,17 @@ Rang Undang-Undang
 
 (3) Jika orang atau pertubuhan perbadanan, perkongsian atau pertubuhan yang kepadanya telah dialamatkan suatu surat berdaftar yang mengandungi apa- apa notis yang boleh diberikan di bawah peruntukan Akta ini telah diberitahu bahawa terdapat suatu surat berdaftar yang sedang menunggu untuk dipungut olehnya di pejabat pos, dan orang atau pertubuhan perbadanan, perkongsian atau pertubuhan itu enggan atau abai untuk mengambil surat berdaftar itu, notis itu hendaklah disifatkan telah disampaikan padanya atau pada pertubuhan perbadanan, perkongsian atau pertubuhan itu pada tarikh dia atau pertubuhan perbadanan, perkongsian atau pertubuhan itu diberitahu.
 
-Pewakilan
+<!-- marginal: Pewakilan -->
 
-111. (1) Ketua Pengarah boleh mewakilkan, kepada oleh Ketua mana-mana pegawai di bawah kawalan, arahan atau Pengarah. pengawasannya, dengan nama atau jawatan, penjalanan atau pelaksanaan apa-apa kuasa, kewajipan atau fungsi yang diberikan atau dikenakan ke atas Ketua Pengarah di bawah Akta ini kecuali kuasa untuk mengkompaun di bawah seksyen 99.
+111. (1) Ketua Pengarah boleh mewakilkan, kepada
+
+<!-- marginal: oleh Ketua -->
+
+mana-mana pegawai di bawah kawalan, arahan atau
+
+<!-- marginal: Pengarah. -->
+
+pengawasannya, dengan nama atau jawatan, penjalanan atau pelaksanaan apa-apa kuasa, kewajipan atau fungsi yang diberikan atau dikenakan ke atas Ketua Pengarah di bawah Akta ini kecuali kuasa untuk mengkompaun di bawah seksyen 99.
 
 (2) Apa-apa pewakilan di bawah seksyen ini tidak menghalang Ketua Pengarah sendiri daripada menjalankan atau melaksanakan kuasa, kewajipan atau fungsi yang diwakilkan itu.
 
@@ -3078,23 +3790,53 @@ penguatkuasaan Akta ini atau apa-apa prosiding di bawah Akta ini;
 
 (e) dengan persetujuan pesakit itu atau penjaganya yang sah yang dengannya maklumat itu ada kena- mengena.
 
-(2) Mana-mana orang yang melanggar subseksyen
+(2) Mana-mana orang yang melanggar subseksyen (1) adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi satu ribu ringgit.
 
-(1) adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi satu ribu ringgit.
-
-Hospital
+<!-- marginal: Hospital -->
 
 116. (1) Pemegang lesen atau orang
 
 <!-- marginal: yang -->
 
-psikiatri bertanggungjawab bagi suatu hospital psikiatri swasta, swasta, rumah jagaan rumah jagaan psiakiatri swasta atau pusat kesihatan mental psikiatri masyarakat swasta hendaklah mematuhi mana-mana swasta dan pusat undang-undang bertulis berhubungan dengan penyakit kesihatan mental mental dan orang yang sakit mental. masyarakat swasta.
+<!-- marginal: psikiatri -->
+
+bertanggungjawab bagi suatu hospital psikiatri swasta,
+
+<!-- marginal: swasta, -->
+
+<!-- marginal: rumah jagaan -->
+
+rumah jagaan psiakiatri swasta atau pusat kesihatan mental
+
+<!-- marginal: psikiatri -->
+
+masyarakat swasta hendaklah mematuhi mana-mana
+
+<!-- marginal: swasta dan -->
+
+<!-- marginal: pusat -->
+
+undang-undang bertulis berhubungan dengan penyakit
+
+<!-- marginal: kesihatan -->
+
+<!-- marginal: mental -->
+
+mental dan orang yang sakit mental.
+
+<!-- marginal: masyarakat -->
+
+<!-- marginal: swasta. -->
 
 (2) Suatu permohonan untuk menubuhkan hospital psikiatri swasta atau rumah jagaan psikiatri swasta tidak boleh dipertimbangkan untuk kelulusan sehingga undang- undang bertulis yang membenarkan penubuhan kemudahan-kemudahan itu mula berkuat kuasa.
 
 <!-- page 95 -->
 
-Kemudahan dan Perkhidmatan 95 Jagaan Kesihatan Swasta
+Kemudahan dan Perkhidmatan
+
+<!-- marginal: 95 -->
+
+Jagaan Kesihatan Swasta
 
 <!-- marginal: Kesalahan -->
 
@@ -3140,19 +3882,83 @@ adalah juga melakukan kesalahan itu dan apabila disabitkan boleh—
 
 (ii) bagi kesalahan yang berterusan didenda sebanyak lima ratus ringgit bagi tiap-tiap hari atau sebahagian daripada sehari selama kesalahan itu berterusan selepas sabitan.
 
-Pelanggaran
+<!-- marginal: Pelanggaran -->
 
-118. Apa-apa perundangan subsidiari yang dibuat di perundangan bawah Akta ini boleh memperuntukkan bahawa subsidiari. pelanggaran mana-mana peruntukan di dalam perundangan subsidiari itu adalah suatu kesalahan dan orang yang melakukan kesalahan itu boleh dihukum, apabila disabitkan, dengan didenda atau dipenjarakan selama suatu tempoh atau kedua-duanya tetapi tidak boleh mengadakan peruntukan supaya denda itu melebihi sepuluh ribu ringgit atau tempoh pemenjaraan itu melebihi tiga bulan.
+118. Apa-apa perundangan subsidiari yang dibuat di
+
+<!-- marginal: perundangan -->
+
+bawah Akta ini boleh memperuntukkan bahawa
+
+<!-- marginal: subsidiari. -->
+
+pelanggaran mana-mana peruntukan di dalam perundangan subsidiari itu adalah suatu kesalahan dan orang yang melakukan kesalahan itu boleh dihukum, apabila disabitkan, dengan didenda atau dipenjarakan selama suatu tempoh atau kedua-duanya tetapi tidak boleh mengadakan peruntukan supaya denda itu melebihi sepuluh ribu ringgit atau tempoh pemenjaraan itu melebihi tiga bulan.
 
 ## BAHAGIAN XIX
 
 ## PERUNTUKAN KECUALIAN DAN PERALIHAN
 
-119. Akta Hospital Persendirian 1971 adalah Pemansuhan. Akta 43. dimansuhkan.
+119. Akta Hospital Persendirian 1971 adalah
 
-Peruntukan
+<!-- marginal: Pemansuhan. -->
 
-120. (1) Semua hospital persendirian, rumah bersalin kecualian dan persendirian dan rumah jagaan kejururawatan persendirian peralihan berhubungan yang dilesenkan atau disifatkan telah dilesenkan di bawah dengan Akta Hospital Persendirian 1971 hendaklah, pada tarikh hospital mula Akta ini mula berkuatkuasa, disifatkan telah persendirian berlesen, mempunyai lesen di bawah Akta ini. rumah bersalin persendirian (2) Peruntukan Akta ini hendaklah terpakai bagi dan rumah hospital persendirian, rumah bersalin persendirian dan rawatan persendirian rumah rawatan persendirian itu seolah-olah hospital yang sedia persendirian, rumah bersalin persendirian dan rumah ada. rawatan persendirian itu telah dilesenkan di bawah Akta ini.
+<!-- marginal: Akta 43. -->
+
+dimansuhkan.
+
+<!-- marginal: Peruntukan -->
+
+120. (1) Semua hospital persendirian, rumah bersalin
+
+<!-- marginal: kecualian dan -->
+
+persendirian dan rumah jagaan kejururawatan persendirian
+
+<!-- marginal: peralihan -->
+
+<!-- marginal: berhubungan -->
+
+yang dilesenkan atau disifatkan telah dilesenkan di bawah
+
+<!-- marginal: dengan -->
+
+Akta Hospital Persendirian 1971 hendaklah, pada tarikh
+
+<!-- marginal: hospital -->
+
+mula Akta ini mula berkuatkuasa, disifatkan telah
+
+<!-- marginal: persendirian -->
+
+<!-- marginal: berlesen, -->
+
+mempunyai lesen di bawah Akta ini.
+
+<!-- marginal: rumah -->
+
+<!-- marginal: bersalin -->
+
+<!-- marginal: persendirian -->
+
+(2) Peruntukan Akta ini hendaklah terpakai bagi
+
+<!-- marginal: dan rumah -->
+
+hospital persendirian, rumah bersalin persendirian dan
+
+<!-- marginal: rawatan -->
+
+<!-- marginal: persendirian -->
+
+rumah rawatan persendirian itu seolah-olah hospital
+
+<!-- marginal: yang sedia -->
+
+persendirian, rumah bersalin persendirian dan rumah
+
+<!-- marginal: ada. -->
+
+rawatan persendirian itu telah dilesenkan di bawah Akta ini.
 
 <!-- page 97 -->
 
@@ -3162,7 +3968,11 @@ Kemudahan dan Perkhidmatan
 
 Jaeaan Kesihatan Swasta
 
-(3) Ketua Pengarah boleh mengubah atau membatalkan apa-apa syarat yang dikenakan ke atas mana- mana hospital, rumah bersalin dan rumah rawatan persendirian.
+(3) Ketua Pengarah boleh mengubah
+
+<!-- marginal: atau -->
+
+membatalkan apa-apa syarat yang dikenakan ke atas mana- mana hospital, rumah bersalin dan rumah rawatan persendirian.
 
 <!-- marginal: Kuasa -->
 

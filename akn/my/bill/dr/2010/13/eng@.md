@@ -578,4 +578,6 @@ allow the Assistant Controller to take other persons with him to enter any premi
 
 ## FINANCIAL IMPLICATIONS
 
-This Bill will not involve the Government in any extra financial expenditure. [PN(U2)2447]
+This Bill will not involve the Government in any extra financial expenditure.
+
+<!-- marginal: [PN(U2)2447] -->
